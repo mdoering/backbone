@@ -1,5 +1,4 @@
-Cothurnia guyanensis Fernandez-Leborans & Sorbe, 2003 SPECIES
-=======
+# Cothurnia guyanensis Fernandez-Leborans & Sorbe, 2003 SPECIES
 
 #### Status
 ACCEPTED

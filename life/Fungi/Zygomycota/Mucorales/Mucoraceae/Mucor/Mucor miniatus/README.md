@@ -1,5 +1,4 @@
-Mucor miniatus Jacq. SPECIES
-=======
+# Mucor miniatus Jacq. SPECIES
 
 #### Status
 ACCEPTED

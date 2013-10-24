@@ -1,5 +1,4 @@
-Sporidesmium brunneum Bonord. SPECIES
-=======
+# Sporidesmium brunneum Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypa lagunensis Syd. SPECIES
-=======
+# Eutypa lagunensis Syd. SPECIES
 
 #### Status
 ACCEPTED

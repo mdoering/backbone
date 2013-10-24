@@ -1,5 +1,4 @@
-Phacus glaber SPECIES
-=======
+# Phacus glaber SPECIES
 
 #### Status
 ACCEPTED

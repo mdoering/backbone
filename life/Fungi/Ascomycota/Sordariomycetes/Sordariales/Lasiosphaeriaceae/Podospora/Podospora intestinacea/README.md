@@ -1,5 +1,4 @@
-Podospora intestinacea N. Lundq., 1972 SPECIES
-=======
+# Podospora intestinacea N. Lundq., 1972 SPECIES
 
 #### Status
 ACCEPTED

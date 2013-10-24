@@ -1,5 +1,4 @@
-Agaricus excisus subsp. excisus SUBSPECIES
-=======
+# Agaricus excisus Lasch SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Linnaea 4: 534 (1829)
 
 #### Original name
-Agaricus excisus subsp. excisus
+Agaricus excisus Lasch
 
 ### Remarks
 null

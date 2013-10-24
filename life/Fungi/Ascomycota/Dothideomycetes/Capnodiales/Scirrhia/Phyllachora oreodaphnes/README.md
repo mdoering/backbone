@@ -1,5 +1,4 @@
-Phyllachora oreodaphnes (Theiss.) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora oreodaphnes (Theiss.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
 DOUBTFUL

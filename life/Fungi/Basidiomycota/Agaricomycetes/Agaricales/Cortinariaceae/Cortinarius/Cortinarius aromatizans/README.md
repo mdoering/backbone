@@ -1,5 +1,4 @@
-Cortinarius aromatizans Bidaud & Reumaux SPECIES
-=======
+# Cortinarius aromatizans Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

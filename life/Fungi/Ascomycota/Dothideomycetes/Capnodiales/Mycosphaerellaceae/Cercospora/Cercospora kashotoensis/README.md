@@ -1,5 +1,4 @@
-Cercospora kashotoensis W. Yamam. SPECIES
-=======
+# Cercospora kashotoensis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

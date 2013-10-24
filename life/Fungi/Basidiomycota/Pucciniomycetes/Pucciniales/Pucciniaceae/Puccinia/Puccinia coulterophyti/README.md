@@ -1,5 +1,4 @@
-Puccinia coulterophyti Dietel & Holw. SPECIES
-=======
+# Puccinia coulterophyti Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

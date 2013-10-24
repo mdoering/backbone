@@ -1,5 +1,4 @@
-Desulfotomaculum solfataricum Goorissen et al., 2003 SPECIES
-=======
+# Desulfotomaculum solfataricum Goorissen et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma apocrypta Ellis & Everh. SPECIES
-=======
+# Phoma apocrypta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

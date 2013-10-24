@@ -1,5 +1,4 @@
-Diplodia hypoxyloidea Cooke SPECIES
-=======
+# Diplodia hypoxyloidea Cooke SPECIES
 
 #### Status
 ACCEPTED

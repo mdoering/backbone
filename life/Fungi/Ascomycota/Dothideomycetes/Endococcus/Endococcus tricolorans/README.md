@@ -1,5 +1,4 @@
-Endococcus tricolorans Alstrup SPECIES
-=======
+# Endococcus tricolorans Alstrup SPECIES
 
 #### Status
 ACCEPTED

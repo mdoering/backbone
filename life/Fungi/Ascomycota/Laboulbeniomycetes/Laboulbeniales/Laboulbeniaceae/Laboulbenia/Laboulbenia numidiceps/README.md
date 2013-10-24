@@ -1,5 +1,4 @@
-Laboulbenia numidiceps Balazuc SPECIES
-=======
+# Laboulbenia numidiceps Balazuc SPECIES
 
 #### Status
 ACCEPTED

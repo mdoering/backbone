@@ -1,5 +1,4 @@
-Fomes piceus (Ces.) Sacc. SPECIES
-=======
+# Fomes piceus (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

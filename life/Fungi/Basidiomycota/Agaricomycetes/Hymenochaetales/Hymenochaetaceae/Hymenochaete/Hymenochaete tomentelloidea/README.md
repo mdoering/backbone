@@ -1,5 +1,4 @@
-Hymenochaete tomentelloidea Gilb. & Hemmes, 1997 SPECIES
-=======
+# Hymenochaete tomentelloidea Gilb. & Hemmes, 1997 SPECIES
 
 #### Status
 ACCEPTED

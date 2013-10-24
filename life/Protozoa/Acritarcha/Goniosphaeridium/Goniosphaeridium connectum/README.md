@@ -1,5 +1,4 @@
-Goniosphaeridium connectum Kjellström, 1971 SPECIES
-=======
+# Goniosphaeridium connectum Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

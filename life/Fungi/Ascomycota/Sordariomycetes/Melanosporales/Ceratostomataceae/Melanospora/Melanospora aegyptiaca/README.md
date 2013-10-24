@@ -1,5 +1,4 @@
-Melanospora aegyptiaca Stchigel, M. Calduch & Guarro SPECIES
-=======
+# Melanospora aegyptiaca Stchigel, M. Calduch & Guarro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Claudopus truncorum Britzelm. SPECIES
-=======
+# Claudopus truncorum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemonaria Nannenga-Bremekamp, R. Sharma & Y. Yamamoto, 1984 GENUS
-=======
+# Stemonaria Nannenga-Bremekamp, R. Sharma & Y. Yamamoto, 1984 GENUS
 
 #### Status
 ACCEPTED

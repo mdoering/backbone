@@ -1,5 +1,4 @@
-Weiachia Feist-Burkhardt, 1995 GENUS
-=======
+# Weiachia Feist-Burkhardt, 1995 GENUS
 
 #### Status
 ACCEPTED

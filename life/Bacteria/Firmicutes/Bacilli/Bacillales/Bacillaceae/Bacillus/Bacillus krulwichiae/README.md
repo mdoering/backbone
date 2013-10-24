@@ -1,5 +1,4 @@
-Bacillus krulwichiae Yumoto et al., 2003 SPECIES
-=======
+# Bacillus krulwichiae Yumoto et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

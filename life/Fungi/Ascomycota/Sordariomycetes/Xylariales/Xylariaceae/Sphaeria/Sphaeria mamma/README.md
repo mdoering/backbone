@@ -1,5 +1,4 @@
-Sphaeria mamma Wallr. SPECIES
-=======
+# Sphaeria mamma Wallr. SPECIES
 
 #### Status
 ACCEPTED

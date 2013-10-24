@@ -1,5 +1,4 @@
-Usnea pennsylvanica Motyka SPECIES
-=======
+# Usnea pennsylvanica Motyka SPECIES
 
 #### Status
 ACCEPTED

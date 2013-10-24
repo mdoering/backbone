@@ -1,5 +1,4 @@
-Oxydothis nonspecifica J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Oxydothis nonspecifica J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia neodiscordans Hale SPECIES
-=======
+# Parmelia neodiscordans Hale SPECIES
 
 #### Status
 ACCEPTED

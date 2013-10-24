@@ -1,5 +1,4 @@
-Cyclotella texta H. Håkansson & R. Ross SPECIES
-=======
+# Cyclotella texta H. Håkansson & R. Ross SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Doassansia opaca Setch. SPECIES
-=======
+# Doassansia opaca Setch. SPECIES
 
 #### Status
 ACCEPTED

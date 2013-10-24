@@ -1,5 +1,4 @@
-Ahmadia Sydow, 1939 GENUS
-=======
+# Ahmadia Sydow, 1939 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllostictina banosensis Petr. SPECIES
-=======
+# Phyllostictina banosensis Petr. SPECIES
 
 #### Status
 ACCEPTED

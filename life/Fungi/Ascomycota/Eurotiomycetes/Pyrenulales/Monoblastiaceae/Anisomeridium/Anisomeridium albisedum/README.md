@@ -1,5 +1,4 @@
-Anisomeridium albisedum (Nyl.) R. C. Harris SPECIES
-=======
+# Anisomeridium albisedum (Nyl.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parkiella Seiglie, Haman & Baker, 1993 GENUS
-=======
+# Parkiella Seiglie, Haman & Baker, 1993 GENUS
 
 #### Status
 ACCEPTED

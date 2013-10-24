@@ -1,5 +1,4 @@
-Buellia kerguelensis C.W. Dodge SPECIES
-=======
+# Buellia kerguelensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium argentinum Speg. SPECIES
-=======
+# Sorosporium argentinum Speg. SPECIES
 
 #### Status
 ACCEPTED

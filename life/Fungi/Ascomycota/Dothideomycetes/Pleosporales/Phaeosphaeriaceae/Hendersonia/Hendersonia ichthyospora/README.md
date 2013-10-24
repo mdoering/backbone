@@ -1,5 +1,4 @@
-Hendersonia ichthyospora Sacc. SPECIES
-=======
+# Hendersonia ichthyospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

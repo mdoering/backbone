@@ -1,5 +1,4 @@
-Naucoria highlandensis (Peck) Sacc. SPECIES
-=======
+# Naucoria highlandensis (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

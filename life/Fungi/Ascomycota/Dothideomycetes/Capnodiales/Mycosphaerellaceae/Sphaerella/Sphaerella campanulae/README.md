@@ -1,5 +1,4 @@
-Sphaerella campanulae Ellis & Kellerm. SPECIES
-=======
+# Sphaerella campanulae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

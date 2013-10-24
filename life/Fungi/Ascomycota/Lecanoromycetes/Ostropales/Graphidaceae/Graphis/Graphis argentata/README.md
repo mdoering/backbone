@@ -1,5 +1,4 @@
-Graphis argentata Lücking & Umaña SPECIES
-=======
+# Graphis argentata Lücking & Umaña SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria arenaria (Pers.) Hoffm. SPECIES
-=======
+# Verrucaria arenaria (Pers.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

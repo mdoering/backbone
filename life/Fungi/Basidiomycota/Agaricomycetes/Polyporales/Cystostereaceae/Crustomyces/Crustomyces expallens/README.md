@@ -1,17 +1,16 @@
-Hyphoderma salicicola (M.P. Christ.) M.P. Christ., 1960 SPECIES
-=======
+# Crustomyces expallens (Bres.) Hjortstam, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dansk bot. Ark. 19(no. 2): 210 (1960)
+Windahlia 17: 56 (1987)
 
 #### Original name
-Corticium salicicola M.P. Christ., 1956
+Corticium expallens Bres., 1908
 
 ### Remarks
 null

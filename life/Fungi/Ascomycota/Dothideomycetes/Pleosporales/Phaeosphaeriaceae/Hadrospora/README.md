@@ -1,5 +1,4 @@
-Hadrospora Boise GENUS
-=======
+# Hadrospora Boise GENUS
 
 #### Status
 ACCEPTED

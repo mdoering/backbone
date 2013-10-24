@@ -1,5 +1,4 @@
-Hypocrea aurantia Henn., 1900 SPECIES
-=======
+# Hypocrea aurantia Henn., 1900 SPECIES
 
 #### Status
 ACCEPTED

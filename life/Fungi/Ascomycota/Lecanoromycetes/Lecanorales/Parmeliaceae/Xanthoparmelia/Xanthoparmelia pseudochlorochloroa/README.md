@@ -1,5 +1,4 @@
-Xanthoparmelia pseudochlorochloroa Hale SPECIES
-=======
+# Xanthoparmelia pseudochlorochloroa Hale SPECIES
 
 #### Status
 ACCEPTED

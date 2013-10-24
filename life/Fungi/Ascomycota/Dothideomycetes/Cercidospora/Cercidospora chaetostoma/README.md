@@ -1,5 +1,4 @@
-Cercidospora chaetostoma (Pass.) Kuntze SPECIES
-=======
+# Cercidospora chaetostoma (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

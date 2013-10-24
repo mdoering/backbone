@@ -1,5 +1,4 @@
-Marasmiellus crinipelloides Singer SPECIES
-=======
+# Marasmiellus crinipelloides Singer SPECIES
 
 #### Status
 ACCEPTED

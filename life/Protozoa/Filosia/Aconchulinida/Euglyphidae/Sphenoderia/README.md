@@ -1,5 +1,4 @@
-Sphenoderia Schlumberger, 1845 GENUS
-=======
+# Sphenoderia Schlumberger, 1845 GENUS
 
 #### Status
 ACCEPTED

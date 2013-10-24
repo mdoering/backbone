@@ -1,5 +1,4 @@
-Desulfocapsa thiozymogenes Janssen et al., 1997 SPECIES
-=======
+# Desulfocapsa thiozymogenes Janssen et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

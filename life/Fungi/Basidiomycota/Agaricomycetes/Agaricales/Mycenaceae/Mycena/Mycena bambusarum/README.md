@@ -1,5 +1,4 @@
-Mycena bambusarum Berk. SPECIES
-=======
+# Mycena bambusarum Berk. SPECIES
 
 #### Status
 ACCEPTED

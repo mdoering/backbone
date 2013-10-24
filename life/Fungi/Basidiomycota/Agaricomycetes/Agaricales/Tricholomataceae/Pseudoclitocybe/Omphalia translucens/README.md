@@ -1,5 +1,4 @@
-Omphalia translucens Henn. SPECIES
-=======
+# Omphalia translucens Henn. SPECIES
 
 #### Status
 ACCEPTED

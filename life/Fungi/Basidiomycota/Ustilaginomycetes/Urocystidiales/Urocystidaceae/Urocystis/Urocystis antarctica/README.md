@@ -1,5 +1,4 @@
-Urocystis antarctica (Speg.) Vánky, 1998 SPECIES
-=======
+# Urocystis antarctica (Speg.) Vánky, 1998 SPECIES
 
 #### Status
 ACCEPTED

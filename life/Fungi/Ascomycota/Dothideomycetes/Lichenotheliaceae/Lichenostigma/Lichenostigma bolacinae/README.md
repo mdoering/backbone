@@ -1,5 +1,4 @@
-Lichenostigma bolacinae Nav.-Ros., Calat. & Hafellner SPECIES
-=======
+# Lichenostigma bolacinae Nav.-Ros., Calat. & Hafellner SPECIES
 
 #### Status
 ACCEPTED

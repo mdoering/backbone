@@ -1,5 +1,4 @@
-Semilecanora rufescens (Arnold) Motyka SPECIES
-=======
+# Semilecanora rufescens (Arnold) Motyka SPECIES
 
 #### Status
 ACCEPTED

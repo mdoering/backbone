@@ -1,5 +1,4 @@
-Microsphaera mayumi Y. Nomura SPECIES
-=======
+# Microsphaera mayumi Y. Nomura SPECIES
 
 #### Status
 ACCEPTED

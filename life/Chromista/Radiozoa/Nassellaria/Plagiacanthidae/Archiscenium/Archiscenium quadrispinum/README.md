@@ -1,5 +1,4 @@
-Archiscenium quadrispinum SPECIES
-=======
+# Archiscenium quadrispinum SPECIES
 
 #### Status
 ACCEPTED

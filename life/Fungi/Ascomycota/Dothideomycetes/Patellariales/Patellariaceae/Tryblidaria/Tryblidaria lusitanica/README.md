@@ -1,5 +1,4 @@
-Tryblidaria lusitanica (Nyl.) Vouaux SPECIES
-=======
+# Tryblidaria lusitanica (Nyl.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

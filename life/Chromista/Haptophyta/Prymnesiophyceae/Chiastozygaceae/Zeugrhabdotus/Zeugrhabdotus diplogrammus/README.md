@@ -1,5 +1,4 @@
-Zeugrhabdotus diplogrammus SPECIES
-=======
+# Zeugrhabdotus diplogrammus SPECIES
 
 #### Status
 ACCEPTED

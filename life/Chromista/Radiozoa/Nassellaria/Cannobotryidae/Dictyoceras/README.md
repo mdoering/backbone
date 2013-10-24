@@ -1,5 +1,4 @@
-Dictyoceras Haeckel, 1862 GENUS
-=======
+# Dictyoceras Haeckel, 1862 GENUS
 
 #### Status
 ACCEPTED

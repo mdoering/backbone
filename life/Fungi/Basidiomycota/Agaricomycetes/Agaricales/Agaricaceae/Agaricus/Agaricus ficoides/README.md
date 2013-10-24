@@ -1,5 +1,4 @@
-Agaricus ficoides Bull. SPECIES
-=======
+# Agaricus ficoides Bull. SPECIES
 
 #### Status
 ACCEPTED

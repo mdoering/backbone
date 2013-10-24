@@ -1,14 +1,13 @@
-Cercospora lonicericola W. Yamam., 1934 SPECIES
-=======
+# Pseudocercospora lonicericola (W. Yamam.) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of the Society of Tropical Agriculture, Formosa 6: 604 (1934)
+Mycol. Pap. 140: 146 (1976)
 
 #### Original name
 Cercospora lonicericola W. Yamam., 1934

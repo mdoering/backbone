@@ -1,5 +1,4 @@
-Heterocineta janickii Jarocki, 1934 SPECIES
-=======
+# Heterocineta janickii Jarocki, 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothecium discoideum Cooke SPECIES
-=======
+# Coniothecium discoideum Cooke SPECIES
 
 #### Status
 ACCEPTED

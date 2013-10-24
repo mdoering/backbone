@@ -1,5 +1,4 @@
-Rebentischia P. Karsten, 1869 GENUS
-=======
+# Rebentischia P. Karsten, 1869 GENUS
 
 #### Status
 ACCEPTED

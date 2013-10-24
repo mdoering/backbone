@@ -1,5 +1,4 @@
-Crinipellis maxima A.H. Sm. & M.B. Walters SPECIES
-=======
+# Crinipellis maxima A.H. Sm. & M.B. Walters SPECIES
 
 #### Status
 ACCEPTED

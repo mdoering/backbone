@@ -1,5 +1,4 @@
-Endocalyx psilostoma Berk. & Broome SPECIES
-=======
+# Endocalyx psilostoma Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

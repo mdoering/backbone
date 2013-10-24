@@ -1,5 +1,4 @@
-Bacidia baearica Klem. SPECIES
-=======
+# Bacidia baearica Klem. SPECIES
 
 #### Status
 ACCEPTED

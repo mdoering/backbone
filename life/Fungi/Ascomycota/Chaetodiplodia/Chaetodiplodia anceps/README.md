@@ -1,5 +1,4 @@
-Chaetodiplodia anceps Pass. SPECIES
-=======
+# Chaetodiplodia anceps Pass. SPECIES
 
 #### Status
 ACCEPTED

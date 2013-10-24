@@ -1,5 +1,4 @@
-Agaricus subalbicans Schulzer SPECIES
-=======
+# Agaricus subalbicans Schulzer SPECIES
 
 #### Status
 ACCEPTED

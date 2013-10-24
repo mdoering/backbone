@@ -1,5 +1,4 @@
-Craspedophyceae CLASS
-=======
+# Craspedophyceae CLASS
 
 #### Status
 ACCEPTED

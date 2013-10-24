@@ -1,5 +1,4 @@
-Capnodium batistae D.K. Kulk. & U.K. Kulk. SPECIES
-=======
+# Capnodium batistae D.K. Kulk. & U.K. Kulk. SPECIES
 
 #### Status
 ACCEPTED

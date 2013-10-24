@@ -1,5 +1,4 @@
-Tricholoma romagnesii Singer SPECIES
-=======
+# Tricholoma romagnesii Singer SPECIES
 
 #### Status
 ACCEPTED

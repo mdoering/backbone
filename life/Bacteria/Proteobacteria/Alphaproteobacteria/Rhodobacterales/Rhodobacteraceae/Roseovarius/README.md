@@ -1,5 +1,4 @@
-Roseovarius Labrenz et al., 1999 GENUS
-=======
+# Roseovarius Labrenz et al., 1999 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orthurceolaria Yankovskij, 1980 GENUS
-=======
+# Orthurceolaria Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

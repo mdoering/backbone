@@ -1,5 +1,4 @@
-Ascochyta diplodina Berl. & Bres. SPECIES
-=======
+# Ascochyta diplodina Berl. & Bres. SPECIES
 
 #### Status
 ACCEPTED

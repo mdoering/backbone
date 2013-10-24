@@ -1,5 +1,4 @@
-Lobaria oregana (Tuck.) Müll. Arg. SPECIES
-=======
+# Lobaria oregana (Tuck.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

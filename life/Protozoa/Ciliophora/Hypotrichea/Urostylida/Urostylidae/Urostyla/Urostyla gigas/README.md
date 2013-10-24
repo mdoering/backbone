@@ -1,5 +1,4 @@
-Urostyla gigas Stokes, 1886 SPECIES
-=======
+# Urostyla gigas Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

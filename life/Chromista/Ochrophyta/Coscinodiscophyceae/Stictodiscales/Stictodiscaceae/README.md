@@ -1,5 +1,4 @@
-Stictodiscaceae FAMILY
-=======
+# Stictodiscaceae FAMILY
 
 #### Status
 ACCEPTED

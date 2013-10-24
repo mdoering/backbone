@@ -1,5 +1,4 @@
-Phyllachora meibomiae F. Stevens, 1927 SPECIES
-=======
+# Phyllachora meibomiae F. Stevens, 1927 SPECIES
 
 #### Status
 DOUBTFUL

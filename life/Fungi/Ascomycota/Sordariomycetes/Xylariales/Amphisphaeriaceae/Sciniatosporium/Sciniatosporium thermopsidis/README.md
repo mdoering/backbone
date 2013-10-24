@@ -1,14 +1,13 @@
-Sciniatosporium thermospsidis (Harkn.) Morgan-Jones SPECIES
-=======
+# Sciniatosporium thermopsidis (Harkn.) Morgan-Jones SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 49(6): 1005 (1971)
 
 #### Original name
 Stigmina thermopsidis Harkn.

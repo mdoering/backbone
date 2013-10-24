@@ -1,5 +1,4 @@
-Schizopora trametoides Núñez SPECIES
-=======
+# Schizopora trametoides Núñez SPECIES
 
 #### Status
 ACCEPTED

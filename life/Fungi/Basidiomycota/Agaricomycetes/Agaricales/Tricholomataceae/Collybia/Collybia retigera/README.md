@@ -1,5 +1,4 @@
-Collybia retigera Bres. SPECIES
-=======
+# Collybia retigera Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria dispartita (Nyl.) Vain. SPECIES
-=======
+# Pannaria dispartita (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

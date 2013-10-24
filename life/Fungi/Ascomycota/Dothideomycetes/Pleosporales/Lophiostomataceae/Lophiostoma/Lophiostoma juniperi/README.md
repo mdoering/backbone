@@ -1,5 +1,4 @@
-Lophiostoma juniperi Fabre SPECIES
-=======
+# Lophiostoma juniperi Fabre SPECIES
 
 #### Status
 ACCEPTED

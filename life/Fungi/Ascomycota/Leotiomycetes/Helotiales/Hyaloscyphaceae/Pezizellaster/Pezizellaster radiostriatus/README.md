@@ -1,14 +1,13 @@
-Pezizella radiostriata Feltgen, 1903 SPECIES
-=======
+# Pezizellaster radiostriatus (Feltgen) Höhn., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 15(5): 349 (1917)
 
 #### Original name
 Pezizella radiostriata Feltgen, 1903

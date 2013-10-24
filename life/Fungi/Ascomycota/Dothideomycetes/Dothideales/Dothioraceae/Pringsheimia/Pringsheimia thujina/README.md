@@ -1,5 +1,4 @@
-Pringsheimia thujina M. Morelet SPECIES
-=======
+# Pringsheimia thujina M. Morelet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nolanea fusco-ortonii var. fusco-ortonii VARIETY
-=======
+# Nolanea fusco-ortonii Largent SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Entolomatoid fungi of the Western United States and Alaska (Eureka) 252 (1994)
 
 #### Original name
-Nolanea fusco-ortonii var. fusco-ortonii
+Nolanea fusco-ortonii Largent
 
 ### Remarks
 null

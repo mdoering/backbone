@@ -1,5 +1,4 @@
-Trachelophyllum hyalinum Foissner, 1983 SPECIES
-=======
+# Trachelophyllum hyalinum Foissner, 1983 SPECIES
 
 #### Status
 ACCEPTED

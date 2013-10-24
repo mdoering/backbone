@@ -1,5 +1,4 @@
-Phyllosticta galeopsidis Sacc. SPECIES
-=======
+# Phyllosticta galeopsidis Sacc. SPECIES
 
 #### Status
 ACCEPTED

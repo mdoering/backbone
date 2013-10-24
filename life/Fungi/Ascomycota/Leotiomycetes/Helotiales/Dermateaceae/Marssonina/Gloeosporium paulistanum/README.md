@@ -1,5 +1,4 @@
-Gloeosporium paulistanum Speg. SPECIES
-=======
+# Gloeosporium paulistanum Speg. SPECIES
 
 #### Status
 ACCEPTED

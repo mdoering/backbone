@@ -1,5 +1,4 @@
-Aleurina tenuiverrucosa Dougoud & Roffler SPECIES
-=======
+# Aleurina tenuiverrucosa Dougoud & Roffler SPECIES
 
 #### Status
 ACCEPTED

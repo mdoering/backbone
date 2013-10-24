@@ -1,5 +1,4 @@
-Myxosporium scutellatum (G.H. Otth) Petr. SPECIES
-=======
+# Myxosporium scutellatum (G.H. Otth) Petr. SPECIES
 
 #### Status
 ACCEPTED

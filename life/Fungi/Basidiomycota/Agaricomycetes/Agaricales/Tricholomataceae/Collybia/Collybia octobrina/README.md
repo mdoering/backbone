@@ -1,5 +1,4 @@
-Collybia octobrina Velen. SPECIES
-=======
+# Collybia octobrina Velen. SPECIES
 
 #### Status
 ACCEPTED

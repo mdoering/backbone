@@ -1,5 +1,4 @@
-Peniophora ciliata (Fr.) Bres. SPECIES
-=======
+# Peniophora ciliata (Fr.) Bres. SPECIES
 
 #### Status
 ACCEPTED

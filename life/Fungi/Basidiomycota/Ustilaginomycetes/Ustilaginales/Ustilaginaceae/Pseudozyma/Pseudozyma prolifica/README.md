@@ -1,5 +1,4 @@
-Pseudozyma prolifica Bandoni, 1985 SPECIES
-=======
+# Pseudozyma prolifica Bandoni, 1985 SPECIES
 
 #### Status
 ACCEPTED

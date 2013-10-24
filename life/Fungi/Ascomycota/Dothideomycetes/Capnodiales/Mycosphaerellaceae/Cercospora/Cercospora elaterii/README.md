@@ -1,5 +1,4 @@
-Cercospora elaterii Pass. SPECIES
-=======
+# Cercospora elaterii Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycocalicium ravenelii (Tuck.) Fink SPECIES
-=======
+# Mycocalicium ravenelii (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

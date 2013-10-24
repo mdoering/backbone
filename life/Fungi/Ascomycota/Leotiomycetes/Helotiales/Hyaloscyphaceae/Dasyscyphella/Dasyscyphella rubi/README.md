@@ -1,5 +1,4 @@
-Dasyscyphella rubi Raitv. SPECIES
-=======
+# Dasyscyphella rubi Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinemasporium intermedium Speg. SPECIES
-=======
+# Dinemasporium intermedium Speg. SPECIES
 
 #### Status
 ACCEPTED

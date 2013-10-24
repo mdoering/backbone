@@ -1,5 +1,4 @@
-Verrucina Goes, 1896 GENUS
-=======
+# Verrucina Goes, 1896 GENUS
 
 #### Status
 ACCEPTED

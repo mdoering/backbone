@@ -1,5 +1,4 @@
-Cladosporium oryzae I. Miyake SPECIES
-=======
+# Cladosporium oryzae I. Miyake SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiosporium profusum Wallr. SPECIES
-=======
+# Apiosporium profusum Wallr. SPECIES
 
 #### Status
 ACCEPTED

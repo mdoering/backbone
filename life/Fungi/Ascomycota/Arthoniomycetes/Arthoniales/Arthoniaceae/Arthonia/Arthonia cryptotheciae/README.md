@@ -1,5 +1,4 @@
-Arthonia cryptotheciae R. Sant. SPECIES
-=======
+# Arthonia cryptotheciae R. Sant. SPECIES
 
 #### Status
 ACCEPTED

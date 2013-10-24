@@ -1,5 +1,4 @@
-Puccinia heterisiae H.S. Jacks. SPECIES
-=======
+# Puccinia heterisiae H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

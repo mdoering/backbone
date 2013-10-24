@@ -1,5 +1,4 @@
-Diplodia withaniae S. Ahmad SPECIES
-=======
+# Diplodia withaniae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

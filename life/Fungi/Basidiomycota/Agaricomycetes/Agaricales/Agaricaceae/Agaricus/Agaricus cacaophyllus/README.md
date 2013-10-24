@@ -1,5 +1,4 @@
-Agaricus cacaophyllus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus cacaophyllus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

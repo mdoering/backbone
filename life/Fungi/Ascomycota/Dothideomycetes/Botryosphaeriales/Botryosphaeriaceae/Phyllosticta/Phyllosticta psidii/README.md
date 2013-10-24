@@ -1,5 +1,4 @@
-Phyllosticta psidii Tassi SPECIES
-=======
+# Phyllosticta psidii Tassi SPECIES
 
 #### Status
 ACCEPTED

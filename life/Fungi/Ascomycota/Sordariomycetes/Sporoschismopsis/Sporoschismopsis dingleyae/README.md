@@ -1,5 +1,4 @@
-Sporoschismopsis dingleyae S. Hughes & Hennebert, 1978 SPECIES
-=======
+# Sporoschismopsis dingleyae S. Hughes & Hennebert, 1978 SPECIES
 
 #### Status
 ACCEPTED

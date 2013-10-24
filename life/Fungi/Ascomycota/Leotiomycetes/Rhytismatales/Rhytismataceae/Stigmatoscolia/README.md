@@ -1,5 +1,4 @@
-Stigmatoscolia GENUS
-=======
+# Stigmatoscolia GENUS
 
 #### Status
 ACCEPTED

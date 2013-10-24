@@ -1,17 +1,16 @@
-Piptocephalis de-baryana B.S. Mehrotra SPECIES
-=======
+# Piptocephalis debaryana B.S. Mehrotra, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. natn. Acad. Sci. India, Sect. B, Biol. Sci. 30: 371 (1960)
 
 #### Original name
-Piptocephalis de-baryana B.S. Mehrotra
+Piptocephalis debaryana B.S. Mehrotra, 1960
 
 ### Remarks
 null

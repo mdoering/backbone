@@ -1,5 +1,4 @@
-Cladosporium atrum Link SPECIES
-=======
+# Cladosporium atrum Link SPECIES
 
 #### Status
 ACCEPTED

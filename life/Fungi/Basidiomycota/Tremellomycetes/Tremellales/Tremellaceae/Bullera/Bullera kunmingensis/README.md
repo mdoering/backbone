@@ -1,5 +1,4 @@
-Bullera kunmingensis F.Y. Bai, M. Takash. & Nakase SPECIES
-=======
+# Bullera kunmingensis F.Y. Bai, M. Takash. & Nakase SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halothece Margheri, Ventura, Kastovský & Komárek, 2008 GENUS
-=======
+# Halothece Margheri, Ventura, Kastovský & Komárek, 2008 GENUS
 
 #### Status
 ACCEPTED

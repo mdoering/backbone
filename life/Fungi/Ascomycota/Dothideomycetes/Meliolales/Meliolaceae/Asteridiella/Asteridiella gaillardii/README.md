@@ -1,5 +1,4 @@
-Asteridiella gaillardii Hansf. SPECIES
-=======
+# Asteridiella gaillardii Hansf. SPECIES
 
 #### Status
 ACCEPTED

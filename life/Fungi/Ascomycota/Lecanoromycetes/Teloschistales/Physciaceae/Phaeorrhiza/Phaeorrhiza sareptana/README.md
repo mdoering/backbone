@@ -1,5 +1,4 @@
-Phaeorrhiza sareptana var. sareptana VARIETY
-=======
+# Phaeorrhiza sareptana (Tomin) H. Mayrhofer & Poelt SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nova Hedwigia 30: 792 (1979)
 
 #### Original name
-Phaeorrhiza sareptana var. sareptana
+Rinodina nimbosa f. sareptana Tomin
 
 ### Remarks
 null

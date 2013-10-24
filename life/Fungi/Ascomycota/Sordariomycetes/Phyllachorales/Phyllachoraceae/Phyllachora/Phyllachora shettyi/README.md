@@ -1,5 +1,4 @@
-Phyllachora shettyi Hosag., 1988 SPECIES
-=======
+# Phyllachora shettyi Hosag., 1988 SPECIES
 
 #### Status
 ACCEPTED

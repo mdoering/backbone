@@ -1,5 +1,4 @@
-Ruminococcus flavefaciens Sijpesteijn, 1948 (Approved Lists, 1980) SPECIES
-=======
+# Ruminococcus flavefaciens Sijpesteijn, 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

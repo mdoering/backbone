@@ -1,5 +1,4 @@
-Corticium sulphureomarginatum Litsch. SPECIES
-=======
+# Corticium sulphureomarginatum Litsch. SPECIES
 
 #### Status
 ACCEPTED

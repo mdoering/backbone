@@ -1,5 +1,4 @@
-Spermosporina sagittariae (Bres.) U. Braun SPECIES
-=======
+# Spermosporina sagittariae (Bres.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

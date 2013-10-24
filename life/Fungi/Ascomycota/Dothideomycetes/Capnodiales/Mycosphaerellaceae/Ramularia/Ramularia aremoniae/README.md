@@ -1,5 +1,4 @@
-Ramularia aremoniae Bubák SPECIES
-=======
+# Ramularia aremoniae Bubák SPECIES
 
 #### Status
 ACCEPTED

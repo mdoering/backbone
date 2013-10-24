@@ -1,5 +1,4 @@
-Tricholoma dichropodum Fr. SPECIES
-=======
+# Tricholoma dichropodum Fr. SPECIES
 
 #### Status
 ACCEPTED

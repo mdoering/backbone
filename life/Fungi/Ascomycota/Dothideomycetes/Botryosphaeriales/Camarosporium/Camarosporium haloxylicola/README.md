@@ -1,5 +1,4 @@
-Camarosporium haloxylicola Kravtzev SPECIES
-=======
+# Camarosporium haloxylicola Kravtzev SPECIES
 
 #### Status
 ACCEPTED

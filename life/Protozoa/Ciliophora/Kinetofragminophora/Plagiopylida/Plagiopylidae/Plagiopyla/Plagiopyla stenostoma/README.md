@@ -1,5 +1,4 @@
-Plagiopyla stenostoma Alekperov & Asadullayeva, 1996 SPECIES
-=======
+# Plagiopyla stenostoma Alekperov & Asadullayeva, 1996 SPECIES
 
 #### Status
 ACCEPTED

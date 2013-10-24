@@ -1,5 +1,4 @@
-Asteridiella parathesiana (Cif.) Hansf. SPECIES
-=======
+# Asteridiella parathesiana (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

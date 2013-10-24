@@ -1,5 +1,4 @@
-Hypotrachyna neostictifera Elix, J. B. Chen & Lei Xu SPECIES
-=======
+# Hypotrachyna neostictifera Elix, J. B. Chen & Lei Xu SPECIES
 
 #### Status
 ACCEPTED

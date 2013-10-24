@@ -1,5 +1,4 @@
-Leptosphaeria pruni Woron. SPECIES
-=======
+# Leptosphaeria pruni Woron. SPECIES
 
 #### Status
 ACCEPTED

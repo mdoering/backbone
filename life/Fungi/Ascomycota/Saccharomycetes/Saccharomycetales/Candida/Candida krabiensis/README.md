@@ -1,5 +1,4 @@
-Candida krabiensis Limtong, Srisuk, Yongman., H. Kawas., Yurim., Nakase & N. Kato SPECIES
-=======
+# Candida krabiensis Limtong, Srisuk, Yongman., H. Kawas., Yurim., Nakase & N. Kato SPECIES
 
 #### Status
 ACCEPTED

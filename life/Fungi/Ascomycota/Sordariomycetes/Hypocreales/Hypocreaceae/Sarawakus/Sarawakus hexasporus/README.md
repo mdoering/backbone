@@ -1,14 +1,13 @@
-Thuemenella hexaspora Boedijn, 1964 SPECIES
-=======
+# Sarawakus hexasporus (Boedijn) Samuels & Rossman, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 3(1): 3 (1964)
+Mycologia 84(1): 34 (1992)
 
 #### Original name
 Thuemenella hexaspora Boedijn, 1964

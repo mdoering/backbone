@@ -1,5 +1,4 @@
-Asterostromella triangulispora Rick SPECIES
-=======
+# Asterostromella triangulispora Rick SPECIES
 
 #### Status
 ACCEPTED

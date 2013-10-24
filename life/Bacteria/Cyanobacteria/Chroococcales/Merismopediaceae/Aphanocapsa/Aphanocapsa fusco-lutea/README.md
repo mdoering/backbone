@@ -1,8 +1,7 @@
-Microcystis hansgirgiana Elenkin SPECIES
-=======
+# Aphanocapsa fusco-lutea Hansgirg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Agaricus nudus-praticola Alb. & Schwein. SPECIES
-=======
+# Agaricus nudus-praticola Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

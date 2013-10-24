@@ -1,5 +1,4 @@
-Vermicularia neglecta Sacc. SPECIES
-=======
+# Vermicularia neglecta Sacc. SPECIES
 
 #### Status
 ACCEPTED

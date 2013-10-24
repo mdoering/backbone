@@ -1,5 +1,4 @@
-Puccinia coreopidis H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia coreopidis H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

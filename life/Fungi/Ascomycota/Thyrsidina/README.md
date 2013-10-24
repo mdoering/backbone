@@ -1,5 +1,4 @@
-Thyrsidina Höhn. GENUS
-=======
+# Thyrsidina Höhn. GENUS
 
 #### Status
 ACCEPTED

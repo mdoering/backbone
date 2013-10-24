@@ -1,5 +1,4 @@
-Gonyaulax africana Schiller SPECIES
-=======
+# Gonyaulax africana Schiller SPECIES
 
 #### Status
 ACCEPTED

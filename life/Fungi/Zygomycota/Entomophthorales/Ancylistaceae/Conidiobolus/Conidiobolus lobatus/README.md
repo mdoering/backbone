@@ -1,5 +1,4 @@
-Conidiobolus lobatus Sriniv. & Thirum., 1968 SPECIES
-=======
+# Conidiobolus lobatus Sriniv. & Thirum., 1968 SPECIES
 
 #### Status
 ACCEPTED

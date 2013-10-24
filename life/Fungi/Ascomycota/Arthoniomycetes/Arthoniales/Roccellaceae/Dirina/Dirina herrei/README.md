@@ -1,5 +1,4 @@
-Dirina herrei Zahlbr. SPECIES
-=======
+# Dirina herrei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

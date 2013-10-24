@@ -1,5 +1,4 @@
-Phyllosticta rubi Henn. SPECIES
-=======
+# Phyllosticta rubi Henn. SPECIES
 
 #### Status
 ACCEPTED

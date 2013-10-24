@@ -1,5 +1,4 @@
-Lecanora lividoglauca Vain. SPECIES
-=======
+# Lecanora lividoglauca Vain. SPECIES
 
 #### Status
 ACCEPTED

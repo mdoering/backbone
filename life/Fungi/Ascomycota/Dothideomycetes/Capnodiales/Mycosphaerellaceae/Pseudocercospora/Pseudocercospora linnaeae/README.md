@@ -1,5 +1,4 @@
-Pseudocercospora linnaeae U. Braun & Melnik SPECIES
-=======
+# Pseudocercospora linnaeae U. Braun & Melnik SPECIES
 
 #### Status
 ACCEPTED

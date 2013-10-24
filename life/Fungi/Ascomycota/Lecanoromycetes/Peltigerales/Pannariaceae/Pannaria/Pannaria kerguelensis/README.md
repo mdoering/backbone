@@ -1,5 +1,4 @@
-Pannaria kerguelensis C.W. Dodge SPECIES
-=======
+# Pannaria kerguelensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

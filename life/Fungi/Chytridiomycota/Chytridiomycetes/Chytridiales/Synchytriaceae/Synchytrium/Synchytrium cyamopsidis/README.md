@@ -1,5 +1,4 @@
-Synchytrium cyamopsidis J.C.S. Gupta & S. Sinha SPECIES
-=======
+# Synchytrium cyamopsidis J.C.S. Gupta & S. Sinha SPECIES
 
 #### Status
 ACCEPTED

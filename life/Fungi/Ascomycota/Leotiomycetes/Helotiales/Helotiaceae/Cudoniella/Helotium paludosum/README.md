@@ -1,5 +1,4 @@
-Helotium paludosum Velen. SPECIES
-=======
+# Helotium paludosum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendryphion resinae Corda SPECIES
-=======
+# Dendryphion resinae Corda SPECIES
 
 #### Status
 ACCEPTED

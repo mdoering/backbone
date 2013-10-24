@@ -1,17 +1,16 @@
-Fusarium album var. album VARIETY
-=======
+# Neonectria punicea (J.C. Schmidt) Castl. & Rossman, 2006 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 6): 132 (1880)
+in Castlebury, Rossman & Hyten, Can. J. Bot. 84(9): 1425 (2006)
 
 #### Original name
-Fusarium album var. album
+Sphaeria punicea J.C. Schmidt, 1817
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polystephanephorus sarjeantii (Gitmez, 1970) Lentin & Williams SPECIES
-=======
+# Polystephanephorus sarjeantii (Gitmez, 1970) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

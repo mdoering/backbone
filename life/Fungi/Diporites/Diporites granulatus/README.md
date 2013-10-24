@@ -1,5 +1,4 @@
-Diporites granulatus Rouse SPECIES
-=======
+# Diporites granulatus Rouse SPECIES
 
 #### Status
 ACCEPTED

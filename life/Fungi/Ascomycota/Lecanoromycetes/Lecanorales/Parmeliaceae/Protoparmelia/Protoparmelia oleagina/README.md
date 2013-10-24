@@ -1,14 +1,13 @@
-Lecanora oleagina Harm. SPECIES
-=======
+# Protoparmelia oleagina (Harm.) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. France 5: 1023 (1913)
+Lichenologist 24(4): 368 (1992)
 
 #### Original name
 Lecanora oleagina Harm.

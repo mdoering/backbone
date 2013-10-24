@@ -1,5 +1,4 @@
-Gloeosporium alchorneae Syd. SPECIES
-=======
+# Gloeosporium alchorneae Syd. SPECIES
 
 #### Status
 ACCEPTED

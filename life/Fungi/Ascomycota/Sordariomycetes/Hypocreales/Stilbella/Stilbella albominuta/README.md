@@ -1,5 +1,4 @@
-Stilbella albominuta Seifert SPECIES
-=======
+# Stilbella albominuta Seifert SPECIES
 
 #### Status
 ACCEPTED

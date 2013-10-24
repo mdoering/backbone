@@ -1,5 +1,4 @@
-Coprinopsis alutaceivelata (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis alutaceivelata (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

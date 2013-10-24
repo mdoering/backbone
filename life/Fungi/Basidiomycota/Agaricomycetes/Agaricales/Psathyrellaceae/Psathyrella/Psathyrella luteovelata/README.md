@@ -1,5 +1,4 @@
-Psathyrella luteovelata A.H. Sm. SPECIES
-=======
+# Psathyrella luteovelata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaceloma hoveniae Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma hoveniae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

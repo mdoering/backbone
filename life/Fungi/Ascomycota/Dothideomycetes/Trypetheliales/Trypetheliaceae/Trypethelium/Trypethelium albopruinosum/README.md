@@ -1,5 +1,4 @@
-Trypethelium albopruinosum Makhija & Patw. SPECIES
-=======
+# Trypethelium albopruinosum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

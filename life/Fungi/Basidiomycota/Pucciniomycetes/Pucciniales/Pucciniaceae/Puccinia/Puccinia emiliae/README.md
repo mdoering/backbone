@@ -1,5 +1,4 @@
-Puccinia emiliae Henn. SPECIES
-=======
+# Puccinia emiliae Henn. SPECIES
 
 #### Status
 ACCEPTED

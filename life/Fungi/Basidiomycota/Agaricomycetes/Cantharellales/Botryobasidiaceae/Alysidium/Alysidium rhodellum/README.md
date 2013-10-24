@@ -1,5 +1,4 @@
-Alysidium rhodellum (Sacc. & Thüm.) Kuntze SPECIES
-=======
+# Alysidium rhodellum (Sacc. & Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

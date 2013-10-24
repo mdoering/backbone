@@ -1,5 +1,4 @@
-Protoparmelia rhombosporea Sancho & A. Crespo SPECIES
-=======
+# Protoparmelia rhombosporea Sancho & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protaspis glans Skuja, 1939 SPECIES
-=======
+# Protaspis glans Skuja, 1939 SPECIES
 
 #### Status
 DOUBTFUL

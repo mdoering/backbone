@@ -1,5 +1,4 @@
-Crepidotus austroafricanus Pilát SPECIES
-=======
+# Crepidotus austroafricanus Pilát SPECIES
 
 #### Status
 ACCEPTED

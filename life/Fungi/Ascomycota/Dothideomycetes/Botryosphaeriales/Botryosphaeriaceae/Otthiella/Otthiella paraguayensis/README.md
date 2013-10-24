@@ -1,5 +1,4 @@
-Otthiella paraguayensis (Speg.) Höhn. SPECIES
-=======
+# Otthiella paraguayensis (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

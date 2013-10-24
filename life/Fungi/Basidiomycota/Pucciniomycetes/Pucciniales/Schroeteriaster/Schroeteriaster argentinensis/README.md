@@ -1,5 +1,4 @@
-Schroeteriaster argentinensis (Speg.) P. Syd. & Syd. SPECIES
-=======
+# Schroeteriaster argentinensis (Speg.) P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia monguillonii Harm. SPECIES
-=======
+# Cladonia monguillonii Harm. SPECIES
 
 #### Status
 ACCEPTED

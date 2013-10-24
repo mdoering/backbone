@@ -1,5 +1,4 @@
-Cylindrospora GENUS
-=======
+# Cylindrospora GENUS
 
 #### Status
 ACCEPTED

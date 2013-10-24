@@ -1,5 +1,4 @@
-Komvophoron tenuis (Emoto & Hirose) I. Umezaki & M. Watanabe SPECIES
-=======
+# Komvophoron tenuis (Emoto & Hirose) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

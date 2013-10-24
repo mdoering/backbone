@@ -1,5 +1,4 @@
-Rhodophyllus cystidiolifer Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus cystidiolifer Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

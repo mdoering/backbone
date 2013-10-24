@@ -1,5 +1,4 @@
-Herteliana P. James GENUS
-=======
+# Herteliana P. James GENUS
 
 #### Status
 ACCEPTED

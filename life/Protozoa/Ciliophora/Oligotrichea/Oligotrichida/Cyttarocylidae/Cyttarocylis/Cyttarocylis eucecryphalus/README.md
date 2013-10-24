@@ -1,5 +1,4 @@
-Cyttarocylis eucecryphalus Haeckel, 1881 SPECIES
-=======
+# Cyttarocylis eucecryphalus Haeckel, 1881 SPECIES
 
 #### Status
 ACCEPTED

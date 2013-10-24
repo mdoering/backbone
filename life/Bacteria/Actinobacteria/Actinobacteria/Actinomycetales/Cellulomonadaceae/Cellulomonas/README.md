@@ -1,5 +1,4 @@
-Cellulomonas Bergey et al., 1923 GENUS
-=======
+# Cellulomonas Bergey et al., 1923 GENUS
 
 #### Status
 ACCEPTED

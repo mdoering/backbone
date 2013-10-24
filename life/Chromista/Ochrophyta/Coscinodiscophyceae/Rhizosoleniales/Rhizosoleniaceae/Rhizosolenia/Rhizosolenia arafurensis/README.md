@@ -1,5 +1,4 @@
-Rhizosolenia arafurensis Castracane SPECIES
-=======
+# Rhizosolenia arafurensis Castracane SPECIES
 
 #### Status
 ACCEPTED

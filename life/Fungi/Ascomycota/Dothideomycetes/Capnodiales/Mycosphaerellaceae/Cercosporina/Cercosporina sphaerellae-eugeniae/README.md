@@ -1,5 +1,4 @@
-Cercosporina sphaerellae-eugeniae (Rangel) Trotter SPECIES
-=======
+# Cercosporina sphaerellae-eugeniae (Rangel) Trotter SPECIES
 
 #### Status
 ACCEPTED

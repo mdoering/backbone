@@ -1,5 +1,4 @@
-Penicilliopsis microsequoia Hauman SPECIES
-=======
+# Penicilliopsis microsequoia Hauman SPECIES
 
 #### Status
 ACCEPTED

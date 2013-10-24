@@ -1,5 +1,4 @@
-Balantidium radiata Abraham, 1962 SPECIES
-=======
+# Balantidium radiata Abraham, 1962 SPECIES
 
 #### Status
 ACCEPTED

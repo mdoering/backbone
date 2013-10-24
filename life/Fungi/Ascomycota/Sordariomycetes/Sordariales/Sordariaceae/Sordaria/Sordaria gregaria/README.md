@@ -1,5 +1,4 @@
-Sordaria gregaria G.H. Otth SPECIES
-=======
+# Sordaria gregaria G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

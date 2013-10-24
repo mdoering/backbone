@@ -1,5 +1,4 @@
-Diplodia heteromelina Fairm. SPECIES
-=======
+# Diplodia heteromelina Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neostaffella Miklukho-Maklay, 1959 GENUS
-=======
+# Neostaffella Miklukho-Maklay, 1959 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia tesselans (Zahlbr.) J.C. Wei SPECIES
-=======
+# Aspicilia tesselans (Zahlbr.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

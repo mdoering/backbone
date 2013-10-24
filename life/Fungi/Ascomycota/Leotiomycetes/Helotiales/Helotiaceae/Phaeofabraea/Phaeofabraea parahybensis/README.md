@@ -1,5 +1,4 @@
-Phaeofabraea parahybensis Bat., A.A. Machado & Maia SPECIES
-=======
+# Phaeofabraea parahybensis Bat., A.A. Machado & Maia SPECIES
 
 #### Status
 ACCEPTED

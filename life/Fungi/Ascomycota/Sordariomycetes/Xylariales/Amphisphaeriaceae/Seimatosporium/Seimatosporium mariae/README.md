@@ -1,14 +1,13 @@
-Cryptostictis mariae (Clinton) Sacc., 1884 SPECIES
-=======
+# Seimatosporium mariae (Clinton) Shoemaker, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 444 (1884)
+Can. J. Bot. 42: 417 (1964)
 
 #### Original name
 Pestalotia mariae Clinton, 1875

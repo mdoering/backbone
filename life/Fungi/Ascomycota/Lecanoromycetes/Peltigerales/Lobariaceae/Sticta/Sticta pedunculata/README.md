@@ -1,17 +1,16 @@
-Sticta pedunculata var. pedunculata VARIETY
-=======
+# Sticta pedunculata Kremp. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Mus. Godeffroy 1: 97 (1874)
 
 #### Original name
-Sticta pedunculata var. pedunculata
+Sticta pedunculata Kremp.
 
 ### Remarks
 null

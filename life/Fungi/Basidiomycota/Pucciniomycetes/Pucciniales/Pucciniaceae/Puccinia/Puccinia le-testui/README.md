@@ -1,5 +1,4 @@
-Puccinia le-testui Maubl. SPECIES
-=======
+# Puccinia le-testui Maubl. SPECIES
 
 #### Status
 ACCEPTED

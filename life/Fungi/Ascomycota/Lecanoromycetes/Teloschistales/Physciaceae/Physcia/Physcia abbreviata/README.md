@@ -1,5 +1,4 @@
-Physcia abbreviata Müll. Arg. SPECIES
-=======
+# Physcia abbreviata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

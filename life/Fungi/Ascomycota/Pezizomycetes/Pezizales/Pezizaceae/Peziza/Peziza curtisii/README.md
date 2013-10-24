@@ -1,5 +1,4 @@
-Peziza curtisii Cooke SPECIES
-=======
+# Peziza curtisii Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius iocephalus (Berk. & M.A. Curtis) Penn. SPECIES
-=======
+# Marasmius iocephalus (Berk. & M.A. Curtis) Penn. SPECIES
 
 #### Status
 ACCEPTED

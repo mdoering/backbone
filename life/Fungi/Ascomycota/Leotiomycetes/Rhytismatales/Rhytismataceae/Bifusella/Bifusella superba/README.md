@@ -1,17 +1,16 @@
-Bifusella wallichi Rehill & B.M. Misra SPECIES
-=======
+# Bifusella superba P.F. Cannon & Minter, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 155: 27 (1986)
 
 #### Original name
-Bifusella wallichi Rehill & B.M. Misra
+Bifusella superba P.F. Cannon & Minter, 1986
 
 ### Remarks
 null

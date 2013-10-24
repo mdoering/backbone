@@ -1,5 +1,4 @@
-Rhynchopus amitus Skuja, 1948 SPECIES
-=======
+# Rhynchopus amitus Skuja, 1948 SPECIES
 
 #### Status
 ACCEPTED

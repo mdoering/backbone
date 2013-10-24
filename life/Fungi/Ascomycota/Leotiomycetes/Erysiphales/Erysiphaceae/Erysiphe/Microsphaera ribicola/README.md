@@ -1,5 +1,4 @@
-Microsphaera ribicola Havryl. SPECIES
-=======
+# Microsphaera ribicola Havryl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma westendorpii Tosq. SPECIES
-=======
+# Phoma westendorpii Tosq. SPECIES
 
 #### Status
 ACCEPTED

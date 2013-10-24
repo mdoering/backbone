@@ -1,17 +1,16 @@
-Rhizocarpon macrosporum f. infernulum (Nyl.) Zahlbr. FORM
-=======
+# Rhizocarpon macrosporum Räsänen SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Rhizocarpon macrosporum Räsänen
 
 ### Remarks
 null

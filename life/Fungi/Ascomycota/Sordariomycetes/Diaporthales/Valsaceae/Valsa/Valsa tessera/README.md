@@ -1,5 +1,4 @@
-Valsa tessera (Fr.) SPECIES
-=======
+# Valsa tessera (Fr.) SPECIES
 
 #### Status
 ACCEPTED

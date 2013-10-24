@@ -1,5 +1,4 @@
-Cercospora tylophorina P.N. Rao SPECIES
-=======
+# Cercospora tylophorina P.N. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaerella alpestris (Frieder.) Sacc. & Trotter SPECIES
-=======
+# Phaeosphaerella alpestris (Frieder.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

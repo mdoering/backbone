@@ -1,5 +1,4 @@
-Aecidium physalidis Burrill SPECIES
-=======
+# Aecidium physalidis Burrill SPECIES
 
 #### Status
 ACCEPTED

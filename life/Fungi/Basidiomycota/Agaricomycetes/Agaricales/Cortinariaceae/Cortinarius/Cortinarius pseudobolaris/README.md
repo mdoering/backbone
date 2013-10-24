@@ -1,5 +1,4 @@
-Cortinarius pseudobolaris Maire SPECIES
-=======
+# Cortinarius pseudobolaris Maire SPECIES
 
 #### Status
 ACCEPTED

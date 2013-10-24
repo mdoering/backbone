@@ -1,17 +1,16 @@
-Nectria cyathea Dingley SPECIES
-=======
+# Hydropisphaera cyatheae (Dingley) Rossman & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 30 (1999)
 
 #### Original name
-Nectria cyathea Dingley
+Nectria cyatheae Dingley, 1956
 
 ### Remarks
 null

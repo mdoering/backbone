@@ -1,5 +1,4 @@
-Gloeocapsa didyma (Kützing) Kützing SPECIES
-=======
+# Gloeocapsa didyma (Kützing) Kützing SPECIES
 
 #### Status
 ACCEPTED

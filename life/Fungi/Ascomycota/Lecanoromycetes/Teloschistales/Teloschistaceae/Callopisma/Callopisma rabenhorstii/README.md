@@ -1,5 +1,4 @@
-Callopisma rabenhorstii SPECIES
-=======
+# Callopisma rabenhorstii SPECIES
 
 #### Status
 ACCEPTED

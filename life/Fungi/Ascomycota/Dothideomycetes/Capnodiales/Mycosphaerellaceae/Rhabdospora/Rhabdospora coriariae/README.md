@@ -1,5 +1,4 @@
-Rhabdospora coriariae Speg. SPECIES
-=======
+# Rhabdospora coriariae Speg. SPECIES
 
 #### Status
 ACCEPTED

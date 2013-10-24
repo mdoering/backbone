@@ -1,5 +1,4 @@
-Tubercularia citri Rivolta SPECIES
-=======
+# Tubercularia citri Rivolta SPECIES
 
 #### Status
 ACCEPTED

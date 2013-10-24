@@ -1,5 +1,4 @@
-Stagonospora phaseoli Dearn. & Barthol. SPECIES
-=======
+# Stagonospora phaseoli Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

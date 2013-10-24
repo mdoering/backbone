@@ -1,5 +1,4 @@
-Frondicularia gigas Church, 1929 SPECIES
-=======
+# Frondicularia gigas Church, 1929 SPECIES
 
 #### Status
 ACCEPTED

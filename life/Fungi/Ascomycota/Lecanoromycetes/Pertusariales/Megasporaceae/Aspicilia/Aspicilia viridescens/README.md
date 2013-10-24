@@ -1,5 +1,4 @@
-Aspicilia viridescens (A. Massal.) Hue SPECIES
-=======
+# Aspicilia viridescens (A. Massal.) Hue SPECIES
 
 #### Status
 ACCEPTED

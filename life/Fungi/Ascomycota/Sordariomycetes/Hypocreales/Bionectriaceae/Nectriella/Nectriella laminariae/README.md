@@ -1,5 +1,4 @@
-Nectriella laminariae O.E. Erikss., 1964 SPECIES
-=======
+# Nectriella laminariae O.E. Erikss., 1964 SPECIES
 
 #### Status
 ACCEPTED

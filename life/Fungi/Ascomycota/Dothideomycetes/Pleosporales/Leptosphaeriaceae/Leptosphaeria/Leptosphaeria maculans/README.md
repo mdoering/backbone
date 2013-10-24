@@ -1,17 +1,16 @@
-Phoma lingam f. lingam FORM
-=======
+# Leptosphaeria maculans (Desm.) Ces. & De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 11(2): 281 (1849)
+Comm. Soc. crittog. Ital. 1(4): 235 (1863)
 
 #### Original name
-Phoma lingam f. lingam
+Sphaeria maculans Sowerby, 1803
 
 ### Remarks
 null

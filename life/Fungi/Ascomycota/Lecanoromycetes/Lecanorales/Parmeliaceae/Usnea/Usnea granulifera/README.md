@@ -1,5 +1,4 @@
-Usnea granulifera (Vain.) Motyka SPECIES
-=======
+# Usnea granulifera (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

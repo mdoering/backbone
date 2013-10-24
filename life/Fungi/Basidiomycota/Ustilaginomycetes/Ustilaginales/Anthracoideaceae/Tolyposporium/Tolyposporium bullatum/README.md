@@ -1,5 +1,4 @@
-Tolyposporium bullatum J. Schröt. SPECIES
-=======
+# Tolyposporium bullatum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

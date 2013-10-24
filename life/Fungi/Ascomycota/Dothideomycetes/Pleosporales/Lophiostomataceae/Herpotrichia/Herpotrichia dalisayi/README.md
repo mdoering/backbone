@@ -1,5 +1,4 @@
-Herpotrichia dalisayi K.D. Hyde & Aptroot SPECIES
-=======
+# Herpotrichia dalisayi K.D. Hyde & Aptroot SPECIES
 
 #### Status
 ACCEPTED

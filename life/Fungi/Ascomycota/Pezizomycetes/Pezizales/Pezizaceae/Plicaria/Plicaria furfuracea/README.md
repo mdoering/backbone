@@ -1,5 +1,4 @@
-Plicaria furfuracea Rehm SPECIES
-=======
+# Plicaria furfuracea Rehm SPECIES
 
 #### Status
 ACCEPTED

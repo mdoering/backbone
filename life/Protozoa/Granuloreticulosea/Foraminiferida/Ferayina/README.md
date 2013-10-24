@@ -1,5 +1,4 @@
-Ferayina Frizzell, 1949 GENUS
-=======
+# Ferayina Frizzell, 1949 GENUS
 
 #### Status
 ACCEPTED

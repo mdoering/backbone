@@ -1,5 +1,4 @@
-Proteus mirabilis Hauser, 1885 (Approved Lists, 1980) SPECIES
-=======
+# Proteus mirabilis Hauser, 1885 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

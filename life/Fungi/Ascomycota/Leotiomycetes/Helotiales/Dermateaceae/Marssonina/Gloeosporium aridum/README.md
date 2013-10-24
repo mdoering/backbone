@@ -1,5 +1,4 @@
-Gloeosporium aridum Ellis & Holw. SPECIES
-=======
+# Gloeosporium aridum Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

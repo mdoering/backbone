@@ -1,5 +1,4 @@
-Tetrathiobacter kashmirensis Ghosh et al., 2005 SPECIES
-=======
+# Tetrathiobacter kashmirensis Ghosh et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hapalopera piriformis Fott SPECIES
-=======
+# Hapalopera piriformis Fott SPECIES
 
 #### Status
 ACCEPTED

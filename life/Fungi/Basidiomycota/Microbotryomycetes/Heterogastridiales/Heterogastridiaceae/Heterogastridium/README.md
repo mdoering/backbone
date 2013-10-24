@@ -1,5 +1,4 @@
-Heterogastridium Oberw. & R. Bauer GENUS
-=======
+# Heterogastridium Oberw. & R. Bauer GENUS
 
 #### Status
 ACCEPTED

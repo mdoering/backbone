@@ -1,5 +1,4 @@
-Psorotichia calcigena Zahlbr. SPECIES
-=======
+# Psorotichia calcigena Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

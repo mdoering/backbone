@@ -1,5 +1,4 @@
-Heppia tenebrata Nyl. SPECIES
-=======
+# Heppia tenebrata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta laeliae Keissl. SPECIES
-=======
+# Phyllosticta laeliae Keissl. SPECIES
 
 #### Status
 ACCEPTED

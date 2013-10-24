@@ -1,5 +1,4 @@
-Plectomyriangium hyalinum C. Moreau & M. Moreau SPECIES
-=======
+# Plectomyriangium hyalinum C. Moreau & M. Moreau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplaria acladium Peyronel SPECIES
-=======
+# Haplaria acladium Peyronel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hypochnus sambuci var. cretaceus (Fr.) Sacc., 1888 VARIETY
-=======
+# Theleporus cretaceus Fr., 1847 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 211 (1888)
+K. svenska Vetensk-Akad. Handl. 138 (1847)
 
 #### Original name
 Theleporus cretaceus Fr., 1847

@@ -1,5 +1,4 @@
-Tandarnia Dumitrica, 1982 GENUS
-=======
+# Tandarnia Dumitrica, 1982 GENUS
 
 #### Status
 ACCEPTED

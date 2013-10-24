@@ -1,5 +1,4 @@
-Sphaerella circumscissa G. Winter SPECIES
-=======
+# Sphaerella circumscissa G. Winter SPECIES
 
 #### Status
 ACCEPTED

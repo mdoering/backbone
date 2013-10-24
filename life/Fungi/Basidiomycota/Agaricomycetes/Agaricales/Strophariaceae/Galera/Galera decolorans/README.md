@@ -1,5 +1,4 @@
-Galera decolorans Velen. SPECIES
-=======
+# Galera decolorans Velen. SPECIES
 
 #### Status
 ACCEPTED

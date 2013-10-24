@@ -1,17 +1,16 @@
-Stenella cassinigena Arvind Kumar, Anuj Kumar & Kharwar SPECIES
-=======
+# Stenella cassiigena Arvind Kumar, Anuj Kumar & Kharwar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 59(1): 87 (2006)
 
 #### Original name
-Stenella cassinigena Arvind Kumar, Anuj Kumar & Kharwar
+Stenella cassiigena Arvind Kumar, Anuj Kumar & Kharwar
 
 ### Remarks
 null

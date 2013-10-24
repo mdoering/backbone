@@ -1,5 +1,4 @@
-Nyctotherus diplopodae Karandikar & Rodgi, 1956 SPECIES
-=======
+# Nyctotherus diplopodae Karandikar & Rodgi, 1956 SPECIES
 
 #### Status
 ACCEPTED

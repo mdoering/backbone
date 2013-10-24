@@ -1,5 +1,4 @@
-Tasmidella variabilis var. variabilis VARIETY
-=======
+# Tasmidella variabilis Kantvilas, Hafellner & Elix SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Lichenologist 31(3): 214 (1999)
 
 #### Original name
-Tasmidella variabilis var. variabilis
+Tasmidella variabilis Kantvilas, Hafellner & Elix
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leptopuccinia leontopodii (Voglino) Syd. SPECIES
-=======
+# Leptopuccinia leontopodii (Voglino) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora trichogena Norman SPECIES
-=======
+# Biatora trichogena Norman SPECIES
 
 #### Status
 ACCEPTED

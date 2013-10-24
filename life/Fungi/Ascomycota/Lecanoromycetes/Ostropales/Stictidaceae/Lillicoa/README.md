@@ -1,5 +1,4 @@
-Lillicoa Sherwood GENUS
-=======
+# Lillicoa Sherwood GENUS
 
 #### Status
 ACCEPTED

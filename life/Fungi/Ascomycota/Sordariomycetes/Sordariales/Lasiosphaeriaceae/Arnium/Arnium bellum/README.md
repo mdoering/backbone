@@ -1,5 +1,4 @@
-Arnium bellum N. Lundq. SPECIES
-=======
+# Arnium bellum N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

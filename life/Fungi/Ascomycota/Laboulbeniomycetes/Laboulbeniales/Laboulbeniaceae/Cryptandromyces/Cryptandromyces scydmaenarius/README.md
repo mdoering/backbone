@@ -1,5 +1,4 @@
-Cryptandromyces scydmaenarius (Thaxt.) I.I. Tav. SPECIES
-=======
+# Cryptandromyces scydmaenarius (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

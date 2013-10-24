@@ -1,5 +1,4 @@
-Trichormus isocystoides (H. Welsh) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus isocystoides (H. Welsh) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

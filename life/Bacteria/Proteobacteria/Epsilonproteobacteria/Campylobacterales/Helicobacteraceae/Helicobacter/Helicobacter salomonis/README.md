@@ -1,5 +1,4 @@
-Helicobacter salomonis Jalava et al., 1997 SPECIES
-=======
+# Helicobacter salomonis Jalava et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

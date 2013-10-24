@@ -1,17 +1,16 @@
-Lepidoleptogium A.L. Sm. GENUS
-=======
+# Pannaria Delise ex Bory GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 46: 79 (1922)
+Dict. Class. Hist. Nat. 13: 20 (1828)
 
 #### Original name
-Lepidoleptogium A.L. Sm.
+Pannaria Delise ex Bory
 
 ### Remarks
 null

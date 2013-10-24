@@ -1,5 +1,4 @@
-Pyrenula glabriuscula (Nyl.) Vain. SPECIES
-=======
+# Pyrenula glabriuscula (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

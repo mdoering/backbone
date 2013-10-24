@@ -1,5 +1,4 @@
-Klebahnia bidentis Arthur SPECIES
-=======
+# Klebahnia bidentis Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina salviae Hollós SPECIES
-=======
+# Diplodina salviae Hollós SPECIES
 
 #### Status
 ACCEPTED

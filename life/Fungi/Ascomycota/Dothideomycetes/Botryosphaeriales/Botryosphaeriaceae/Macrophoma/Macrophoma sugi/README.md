@@ -1,5 +1,4 @@
-Macrophoma sugi Hara SPECIES
-=======
+# Macrophoma sugi Hara SPECIES
 
 #### Status
 ACCEPTED

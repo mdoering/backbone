@@ -1,5 +1,4 @@
-Tyromyces rufipileatus Corner SPECIES
-=======
+# Tyromyces rufipileatus Corner SPECIES
 
 #### Status
 ACCEPTED

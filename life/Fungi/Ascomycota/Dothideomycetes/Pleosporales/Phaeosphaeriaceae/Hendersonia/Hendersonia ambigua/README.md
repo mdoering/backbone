@@ -1,5 +1,4 @@
-Hendersonia ambigua Brunaud SPECIES
-=======
+# Hendersonia ambigua Brunaud SPECIES
 
 #### Status
 ACCEPTED

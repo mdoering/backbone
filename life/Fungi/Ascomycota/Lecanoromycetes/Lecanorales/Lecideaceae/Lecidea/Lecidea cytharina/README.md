@@ -1,5 +1,4 @@
-Lecidea cytharina Nyl. SPECIES
-=======
+# Lecidea cytharina Nyl. SPECIES
 
 #### Status
 ACCEPTED

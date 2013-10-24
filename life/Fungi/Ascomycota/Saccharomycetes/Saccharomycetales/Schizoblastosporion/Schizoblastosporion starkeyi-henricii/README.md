@@ -1,5 +1,4 @@
-Schizoblastosporion starkeyi-henricii Cif., 1930 SPECIES
-=======
+# Schizoblastosporion starkeyi-henricii Cif., 1930 SPECIES
 
 #### Status
 ACCEPTED

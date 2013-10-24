@@ -1,5 +1,4 @@
-Gyalideopsis krogiae Kalb & Vezda SPECIES
-=======
+# Gyalideopsis krogiae Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

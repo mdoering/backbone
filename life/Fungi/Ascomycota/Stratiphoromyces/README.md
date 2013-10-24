@@ -1,5 +1,4 @@
-Stratiphoromyces Goh & K.D. Hyde GENUS
-=======
+# Stratiphoromyces Goh & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

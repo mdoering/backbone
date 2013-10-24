@@ -1,5 +1,4 @@
-Scharifia Petr. GENUS
-=======
+# Scharifia Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora erythraeae Hollós SPECIES
-=======
+# Cercospora erythraeae Hollós SPECIES
 
 #### Status
 ACCEPTED

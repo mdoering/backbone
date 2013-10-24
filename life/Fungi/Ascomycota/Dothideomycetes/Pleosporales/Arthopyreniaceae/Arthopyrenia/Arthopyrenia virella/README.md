@@ -1,5 +1,4 @@
-Arthopyrenia virella Zahlbr. SPECIES
-=======
+# Arthopyrenia virella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

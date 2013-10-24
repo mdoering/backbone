@@ -1,5 +1,4 @@
-Stuchybotrys GENUS
-=======
+# Stuchybotrys GENUS
 
 #### Status
 ACCEPTED

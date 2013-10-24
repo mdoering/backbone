@@ -1,5 +1,4 @@
-Lophomonadidae FAMILY
-=======
+# Lophomonadidae FAMILY
 
 #### Status
 ACCEPTED

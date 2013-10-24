@@ -1,5 +1,4 @@
-Plectosphaerella silenes (Niessl) Kirschst. SPECIES
-=======
+# Plectosphaerella silenes (Niessl) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

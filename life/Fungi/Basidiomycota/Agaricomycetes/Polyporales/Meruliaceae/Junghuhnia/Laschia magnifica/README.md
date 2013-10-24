@@ -1,5 +1,4 @@
-Laschia magnifica (Henn.) Sacc. SPECIES
-=======
+# Laschia magnifica (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

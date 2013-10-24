@@ -1,5 +1,4 @@
-Mycosphaerella chimaphilina (Sacc.) House SPECIES
-=======
+# Mycosphaerella chimaphilina (Sacc.) House SPECIES
 
 #### Status
 ACCEPTED

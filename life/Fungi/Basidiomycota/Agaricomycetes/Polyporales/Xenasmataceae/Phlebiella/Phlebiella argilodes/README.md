@@ -1,5 +1,4 @@
-Phlebiella argilodes (Bourdot & Galzin) Bondartsev & Singer SPECIES
-=======
+# Phlebiella argilodes (Bourdot & Galzin) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

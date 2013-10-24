@@ -1,5 +1,4 @@
-Nitrobacter hamburgensis Bock et al., 2001 SPECIES
-=======
+# Nitrobacter hamburgensis Bock et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

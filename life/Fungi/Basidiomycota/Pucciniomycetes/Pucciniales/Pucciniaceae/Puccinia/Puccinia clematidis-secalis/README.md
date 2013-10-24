@@ -1,5 +1,4 @@
-Puccinia clematidis-secalis Dupias SPECIES
-=======
+# Puccinia clematidis-secalis Dupias SPECIES
 
 #### Status
 ACCEPTED

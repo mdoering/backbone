@@ -1,5 +1,4 @@
-Stropharia rugomarginata Zeller & Epling SPECIES
-=======
+# Stropharia rugomarginata Zeller & Epling SPECIES
 
 #### Status
 ACCEPTED

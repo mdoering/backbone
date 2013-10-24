@@ -1,5 +1,4 @@
-Spongiuspinus Martin, 1971 GENUS
-=======
+# Spongiuspinus Martin, 1971 GENUS
 
 #### Status
 ACCEPTED

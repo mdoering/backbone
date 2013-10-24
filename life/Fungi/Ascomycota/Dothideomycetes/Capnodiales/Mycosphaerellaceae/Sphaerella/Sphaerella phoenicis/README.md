@@ -1,5 +1,4 @@
-Sphaerella phoenicis Ces. SPECIES
-=======
+# Sphaerella phoenicis Ces. SPECIES
 
 #### Status
 ACCEPTED

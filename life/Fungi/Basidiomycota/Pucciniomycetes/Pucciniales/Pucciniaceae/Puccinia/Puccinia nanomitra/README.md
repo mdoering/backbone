@@ -1,5 +1,4 @@
-Puccinia nanomitra P. Syd. & Syd. SPECIES
-=======
+# Puccinia nanomitra P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

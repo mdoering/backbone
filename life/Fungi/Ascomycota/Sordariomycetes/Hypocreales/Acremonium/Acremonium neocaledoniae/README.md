@@ -1,5 +1,4 @@
-Acremonium neocaledoniae Roquebert & J. Dupont, 2000 SPECIES
-=======
+# Acremonium neocaledoniae Roquebert & J. Dupont, 2000 SPECIES
 
 #### Status
 ACCEPTED

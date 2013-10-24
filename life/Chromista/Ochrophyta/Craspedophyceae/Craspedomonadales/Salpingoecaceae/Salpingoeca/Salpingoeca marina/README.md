@@ -1,5 +1,4 @@
-Salpingoeca marina James-Clark, 1867 SPECIES
-=======
+# Salpingoeca marina James-Clark, 1867 SPECIES
 
 #### Status
 ACCEPTED

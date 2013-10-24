@@ -1,5 +1,4 @@
-Mycosphaerella affinis (G. Winter) Starbäck SPECIES
-=======
+# Mycosphaerella affinis (G. Winter) Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus orsonianus Fulgenzi & T.W. Henkel SPECIES
-=======
+# Tylopilus orsonianus Fulgenzi & T.W. Henkel SPECIES
 
 #### Status
 ACCEPTED

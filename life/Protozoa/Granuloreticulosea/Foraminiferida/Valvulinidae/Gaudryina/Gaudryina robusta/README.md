@@ -1,5 +1,4 @@
-Gaudryina robusta SPECIES
-=======
+# Gaudryina robusta SPECIES
 
 #### Status
 ACCEPTED

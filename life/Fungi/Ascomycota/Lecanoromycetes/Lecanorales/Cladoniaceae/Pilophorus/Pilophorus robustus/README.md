@@ -1,17 +1,16 @@
-Pilophorus robustus f. robustus FORM
-=======
+# Pilophorus robustus Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Stereoc. Piloph. Comm. (1857)
 
 #### Original name
-null
+Pilophorus robustus Th. Fr.
 
 ### Remarks
 null

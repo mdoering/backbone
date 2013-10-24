@@ -1,5 +1,4 @@
-Buellia rufofuscescens Stizenb. SPECIES
-=======
+# Buellia rufofuscescens Stizenb. SPECIES
 
 #### Status
 ACCEPTED

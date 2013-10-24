@@ -1,5 +1,4 @@
-Aecidium salaciae Henn. SPECIES
-=======
+# Aecidium salaciae Henn. SPECIES
 
 #### Status
 ACCEPTED

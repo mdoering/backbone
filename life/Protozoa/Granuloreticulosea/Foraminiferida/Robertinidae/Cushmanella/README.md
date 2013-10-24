@@ -1,5 +1,4 @@
-Cushmanella Palmer & Bermúdez, 1936 GENUS
-=======
+# Cushmanella Palmer & Bermúdez, 1936 GENUS
 
 #### Status
 ACCEPTED

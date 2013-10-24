@@ -1,5 +1,4 @@
-Tremellochaete GENUS
-=======
+# Tremellochaete GENUS
 
 #### Status
 ACCEPTED

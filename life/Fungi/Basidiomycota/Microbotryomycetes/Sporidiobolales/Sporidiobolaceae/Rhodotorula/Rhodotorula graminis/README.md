@@ -1,17 +1,16 @@
-Candida graminis Rodr. Mir. & H.G. Diem, 1974 SPECIES
-=======
+# Rhodotorula graminis Di Menna, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. gen. Microbiol. 18: 270 (1958)
 
 #### Original name
-null
+Rhodotorula graminis Di Menna, 1958
 
 ### Remarks
 null

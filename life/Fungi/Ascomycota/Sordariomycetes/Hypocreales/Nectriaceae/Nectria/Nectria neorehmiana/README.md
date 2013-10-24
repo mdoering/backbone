@@ -1,5 +1,4 @@
-Nectria neorehmiana Rossman SPECIES
-=======
+# Nectria neorehmiana Rossman SPECIES
 
 #### Status
 ACCEPTED

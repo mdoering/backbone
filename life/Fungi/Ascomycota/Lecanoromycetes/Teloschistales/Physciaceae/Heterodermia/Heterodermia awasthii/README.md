@@ -1,5 +1,4 @@
-Heterodermia awasthii (Kurok.) D.D. Awasthi SPECIES
-=======
+# Heterodermia awasthii (Kurok.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

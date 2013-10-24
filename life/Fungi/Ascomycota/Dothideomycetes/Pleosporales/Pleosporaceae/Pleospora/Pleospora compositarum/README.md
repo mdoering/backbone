@@ -1,5 +1,4 @@
-Pleospora compositarum Tracy & Earle SPECIES
-=======
+# Pleospora compositarum Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

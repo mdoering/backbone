@@ -1,5 +1,4 @@
-Gymnomyces fuscus T. Lebel, 2002 SPECIES
-=======
+# Gymnomyces fuscus T. Lebel, 2002 SPECIES
 
 #### Status
 ACCEPTED

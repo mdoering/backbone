@@ -1,5 +1,4 @@
-Caloplaca guestphalica H. Magn. SPECIES
-=======
+# Caloplaca guestphalica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

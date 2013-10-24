@@ -1,5 +1,4 @@
-Hysteropatella minor (Cooke) Rehm SPECIES
-=======
+# Hysteropatella minor (Cooke) Rehm SPECIES
 
 #### Status
 ACCEPTED

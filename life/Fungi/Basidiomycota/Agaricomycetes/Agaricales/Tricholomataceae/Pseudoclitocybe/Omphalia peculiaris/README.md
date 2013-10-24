@@ -1,5 +1,4 @@
-Omphalia peculiaris (Britzelm.) Sacc. SPECIES
-=======
+# Omphalia peculiaris (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictochorella populi-nigrae (Allesch.) Petr. SPECIES
-=======
+# Stictochorella populi-nigrae (Allesch.) Petr. SPECIES
 
 #### Status
 ACCEPTED

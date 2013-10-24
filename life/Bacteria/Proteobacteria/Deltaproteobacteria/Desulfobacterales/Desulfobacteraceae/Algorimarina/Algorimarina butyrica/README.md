@@ -1,5 +1,4 @@
-Algorimarina butyrica Kendall, Liu & Boone, 2006 SPECIES
-=======
+# Algorimarina butyrica Kendall, Liu & Boone, 2006 SPECIES
 
 #### Status
 ACCEPTED

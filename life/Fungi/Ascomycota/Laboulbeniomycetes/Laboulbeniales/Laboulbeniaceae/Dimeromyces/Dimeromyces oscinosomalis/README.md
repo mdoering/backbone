@@ -1,5 +1,4 @@
-Dimeromyces oscinosomalis Thaxt. SPECIES
-=======
+# Dimeromyces oscinosomalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Proactinomyces ruber E. Bald. SPECIES
-=======
+# Proactinomyces ruber E. Bald. SPECIES
 
 #### Status
 ACCEPTED

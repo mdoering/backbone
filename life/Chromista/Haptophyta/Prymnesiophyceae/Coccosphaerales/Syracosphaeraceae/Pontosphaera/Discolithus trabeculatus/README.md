@@ -1,5 +1,4 @@
-Discolithus trabeculatus H. Górka SPECIES
-=======
+# Discolithus trabeculatus H. Górka SPECIES
 
 #### Status
 DOUBTFUL

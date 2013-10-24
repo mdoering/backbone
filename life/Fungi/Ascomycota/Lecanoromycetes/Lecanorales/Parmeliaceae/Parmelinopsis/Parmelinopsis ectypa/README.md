@@ -1,5 +1,4 @@
-Parmelinopsis ectypa (Brusse) DePriest & B.W. Hale SPECIES
-=======
+# Parmelinopsis ectypa (Brusse) DePriest & B.W. Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe citrina Massee SPECIES
-=======
+# Psilocybe citrina Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus iocularis Uljé SPECIES
-=======
+# Coprinus iocularis Uljé SPECIES
 
 #### Status
 ACCEPTED

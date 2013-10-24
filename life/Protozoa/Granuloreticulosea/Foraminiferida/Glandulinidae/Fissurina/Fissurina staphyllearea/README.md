@@ -1,5 +1,4 @@
-Fissurina staphyllearea Schwager SPECIES
-=======
+# Fissurina staphyllearea Schwager SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaptychia fauriei Kurok. SPECIES
-=======
+# Anaptychia fauriei Kurok. SPECIES
 
 #### Status
 ACCEPTED

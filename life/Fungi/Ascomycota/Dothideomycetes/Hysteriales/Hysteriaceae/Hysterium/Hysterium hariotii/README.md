@@ -1,8 +1,7 @@
-Hysterium harioti P. Karst. SPECIES
-=======
+# Hysterium hariotii P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hysterium harioti P. Karst.
+Hysterium hariotii P. Karst.
 
 ### Remarks
 null

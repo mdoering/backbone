@@ -1,5 +1,4 @@
-Psathyrella casca (Fr.) Konrad & Maubl. SPECIES
-=======
+# Psathyrella casca (Fr.) Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED

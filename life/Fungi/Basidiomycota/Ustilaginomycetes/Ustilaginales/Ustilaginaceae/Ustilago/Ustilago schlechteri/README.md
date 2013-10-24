@@ -1,5 +1,4 @@
-Ustilago schlechteri Henn. SPECIES
-=======
+# Ustilago schlechteri Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia hibiscina Ellis & Everh. SPECIES
-=======
+# Vermicularia hibiscina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

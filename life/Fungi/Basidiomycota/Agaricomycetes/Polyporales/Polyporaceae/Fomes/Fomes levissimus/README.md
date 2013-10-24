@@ -1,5 +1,4 @@
-Fomes levissimus (Fr.) Sacc. SPECIES
-=======
+# Fomes levissimus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

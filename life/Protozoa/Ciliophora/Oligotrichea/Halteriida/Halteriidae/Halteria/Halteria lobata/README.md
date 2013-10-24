@@ -1,5 +1,4 @@
-Halteria lobata Fromentel, 1876 SPECIES
-=======
+# Halteria lobata Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

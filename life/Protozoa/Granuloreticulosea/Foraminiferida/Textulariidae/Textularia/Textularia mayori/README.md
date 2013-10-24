@@ -1,5 +1,4 @@
-Textularia mayori Cushman, 1922 SPECIES
-=======
+# Textularia mayori Cushman, 1922 SPECIES
 
 #### Status
 ACCEPTED

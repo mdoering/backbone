@@ -1,5 +1,4 @@
-Marinospirillum insulare Satomi et al., 2004 SPECIES
-=======
+# Marinospirillum insulare Satomi et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

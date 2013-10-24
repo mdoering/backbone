@@ -1,5 +1,4 @@
-Endogonella GENUS
-=======
+# Endogonella GENUS
 
 #### Status
 ACCEPTED

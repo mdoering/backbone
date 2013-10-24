@@ -1,5 +1,4 @@
-Monochrysis Skuja, 1948 GENUS
-=======
+# Monochrysis Skuja, 1948 GENUS
 
 #### Status
 ACCEPTED

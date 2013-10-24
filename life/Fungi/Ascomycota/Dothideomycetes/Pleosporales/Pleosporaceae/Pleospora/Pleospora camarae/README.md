@@ -1,5 +1,4 @@
-Pleospora camarae M.T. Lucas SPECIES
-=======
+# Pleospora camarae M.T. Lucas SPECIES
 
 #### Status
 ACCEPTED

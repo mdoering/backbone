@@ -1,5 +1,4 @@
-Lecidea polioleuca Körb. SPECIES
-=======
+# Lecidea polioleuca Körb. SPECIES
 
 #### Status
 ACCEPTED

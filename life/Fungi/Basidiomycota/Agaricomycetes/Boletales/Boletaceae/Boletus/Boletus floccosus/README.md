@@ -1,5 +1,4 @@
-Boletus floccosus Schwein. SPECIES
-=======
+# Boletus floccosus Schwein. SPECIES
 
 #### Status
 ACCEPTED

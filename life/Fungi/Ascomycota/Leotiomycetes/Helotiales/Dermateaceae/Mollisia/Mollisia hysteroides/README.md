@@ -1,5 +1,4 @@
-Mollisia hysteroides E.K. Cash SPECIES
-=======
+# Mollisia hysteroides E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

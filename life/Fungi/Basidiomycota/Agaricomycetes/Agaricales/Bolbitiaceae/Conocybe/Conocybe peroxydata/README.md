@@ -1,5 +1,4 @@
-Conocybe peroxydata (Berk.) D.A. Reid SPECIES
-=======
+# Conocybe peroxydata (Berk.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Melanospora cirrhata Berk., 1888 SPECIES
-=======
+# Melanospora zamiae Corda, 1837 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cooke, Grevillea 16(no. 80): 102 (1888)
+Icon. fung. (Prague) 1: 24 (1837)
 
 #### Original name
-Melanospora cirrhata Berk., 1888
+Melanospora zamiae Corda, 1837
 
 ### Remarks
 null

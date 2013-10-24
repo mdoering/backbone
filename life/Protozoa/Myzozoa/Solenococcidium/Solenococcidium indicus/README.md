@@ -1,5 +1,4 @@
-Solenococcidium indicus Aravindan, Kalavati & Sheeja, 2002 SPECIES
-=======
+# Solenococcidium indicus Aravindan, Kalavati & Sheeja, 2002 SPECIES
 
 #### Status
 ACCEPTED

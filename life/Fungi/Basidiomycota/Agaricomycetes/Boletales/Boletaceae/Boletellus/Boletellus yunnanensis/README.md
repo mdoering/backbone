@@ -1,5 +1,4 @@
-Boletellus yunnanensis M. Zang SPECIES
-=======
+# Boletellus yunnanensis M. Zang SPECIES
 
 #### Status
 ACCEPTED

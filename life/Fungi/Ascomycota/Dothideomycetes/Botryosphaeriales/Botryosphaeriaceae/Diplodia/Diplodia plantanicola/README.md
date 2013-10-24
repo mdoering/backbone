@@ -1,5 +1,4 @@
-Diplodia plantanicola Sacc. SPECIES
-=======
+# Diplodia plantanicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

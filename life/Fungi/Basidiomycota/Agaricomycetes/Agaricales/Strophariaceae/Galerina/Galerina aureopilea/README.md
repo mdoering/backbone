@@ -1,5 +1,4 @@
-Galerina aureopilea A.E. Wood SPECIES
-=======
+# Galerina aureopilea A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena pseudogrisea (Murrill) A.H. Sm. SPECIES
-=======
+# Mycena pseudogrisea (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

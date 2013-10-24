@@ -1,5 +1,4 @@
-Colpoda parva Fromentel, 1876 SPECIES
-=======
+# Colpoda parva Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

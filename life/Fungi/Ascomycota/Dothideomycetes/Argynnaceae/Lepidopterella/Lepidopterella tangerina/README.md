@@ -1,5 +1,4 @@
-Lepidopterella tangerina Raja & Shearer, 2008 SPECIES
-=======
+# Lepidopterella tangerina Raja & Shearer, 2008 SPECIES
 
 #### Status
 ACCEPTED

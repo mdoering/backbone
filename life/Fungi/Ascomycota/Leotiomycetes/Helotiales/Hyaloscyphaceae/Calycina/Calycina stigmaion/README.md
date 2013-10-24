@@ -1,14 +1,13 @@
-Calycina stygmaea (Rehm) Kuntze SPECIES
-=======
+# Calycina stigmaion (Rehm) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 449 (1898)
 
 #### Original name
 Helotium stigmaion Rehm

@@ -1,5 +1,4 @@
-Mycosphaerella podocarpi (Cooke) Lindau SPECIES
-=======
+# Mycosphaerella podocarpi (Cooke) Lindau SPECIES
 
 #### Status
 ACCEPTED

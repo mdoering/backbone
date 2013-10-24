@@ -1,5 +1,4 @@
-Torula sambuci f. sambuci FORM
-=======
+# Torula sambuci Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 27-28: 77 (1873)
 
 #### Original name
-Torula sambuci f. sambuci
+Torula sambuci Fuckel
 
 ### Remarks
 null

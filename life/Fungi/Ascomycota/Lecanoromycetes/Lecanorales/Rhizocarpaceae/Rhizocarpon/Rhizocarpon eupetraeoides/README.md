@@ -1,17 +1,16 @@
-Lecidea chionophiloides Vain. SPECIES
-=======
+# Rhizocarpon eupetraeoides (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 10: 124 (1883)
+Enum. Pl. Scand. 93 (1880)
 
 #### Original name
-Lecidea chionophiloides Vain.
+Lecidea eupetraeoides Nyl.
 
 ### Remarks
 null

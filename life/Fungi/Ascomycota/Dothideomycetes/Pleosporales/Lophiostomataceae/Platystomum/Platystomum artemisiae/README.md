@@ -1,5 +1,4 @@
-Platystomum artemisiae Smyk & Merezhko SPECIES
-=======
+# Platystomum artemisiae Smyk & Merezhko SPECIES
 
 #### Status
 ACCEPTED

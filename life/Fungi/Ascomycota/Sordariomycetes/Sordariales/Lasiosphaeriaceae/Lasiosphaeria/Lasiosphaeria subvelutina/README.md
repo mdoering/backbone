@@ -1,5 +1,4 @@
-Lasiosphaeria subvelutina Ellis & Everh. SPECIES
-=======
+# Lasiosphaeria subvelutina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

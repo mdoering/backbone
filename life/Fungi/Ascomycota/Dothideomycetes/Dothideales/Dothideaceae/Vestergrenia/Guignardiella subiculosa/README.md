@@ -1,5 +1,4 @@
-Guignardiella subiculosa Höhn. SPECIES
-=======
+# Guignardiella subiculosa Höhn. SPECIES
 
 #### Status
 ACCEPTED

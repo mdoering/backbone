@@ -1,5 +1,4 @@
-Ramaria ignicolor Corner, 1950 SPECIES
-=======
+# Ramaria ignicolor Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

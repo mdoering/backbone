@@ -1,5 +1,4 @@
-Ganoderma chiungchungense X.L. Wu SPECIES
-=======
+# Ganoderma chiungchungense X.L. Wu SPECIES
 
 #### Status
 ACCEPTED

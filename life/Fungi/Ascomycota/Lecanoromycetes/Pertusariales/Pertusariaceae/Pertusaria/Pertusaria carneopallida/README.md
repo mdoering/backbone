@@ -1,5 +1,4 @@
-Pertusaria carneopallida (Nyl.) Anzi ex Nyl. SPECIES
-=======
+# Pertusaria carneopallida (Nyl.) Anzi ex Nyl. SPECIES
 
 #### Status
 ACCEPTED

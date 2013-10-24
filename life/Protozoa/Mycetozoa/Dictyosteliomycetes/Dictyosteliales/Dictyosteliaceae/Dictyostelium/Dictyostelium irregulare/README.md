@@ -1,5 +1,4 @@
-Dictyostelium irregulare L.S. Olive, Nelson & Stoian., 1967 SPECIES
-=======
+# Dictyostelium irregulare L.S. Olive, Nelson & Stoian., 1967 SPECIES
 
 #### Status
 ACCEPTED

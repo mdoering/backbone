@@ -1,5 +1,4 @@
-Dimerium tayabense H.S. Yates SPECIES
-=======
+# Dimerium tayabense H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

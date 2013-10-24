@@ -1,5 +1,4 @@
-Naemospora castaneae Bres. SPECIES
-=======
+# Naemospora castaneae Bres. SPECIES
 
 #### Status
 ACCEPTED

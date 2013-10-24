@@ -1,5 +1,4 @@
-Phoma anfractuosa Bacc. SPECIES
-=======
+# Phoma anfractuosa Bacc. SPECIES
 
 #### Status
 ACCEPTED

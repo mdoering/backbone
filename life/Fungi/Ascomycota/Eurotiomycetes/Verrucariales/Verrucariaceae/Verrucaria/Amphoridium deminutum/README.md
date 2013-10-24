@@ -1,5 +1,4 @@
-Amphoridium deminutum var. policense (Servít) Servít VARIETY
-=======
+# Amphoridium deminutum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ceskoslov. Liejn. Celedi Verrucariaceae 38 (1954)
 
 #### Original name
-Verrucaria policensis Servít
+Verrucaria obfuscans var. deminuta Servít
 
 ### Remarks
 null

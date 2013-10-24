@@ -1,5 +1,4 @@
-Farysia bakeri Cif. SPECIES
-=======
+# Farysia bakeri Cif. SPECIES
 
 #### Status
 ACCEPTED

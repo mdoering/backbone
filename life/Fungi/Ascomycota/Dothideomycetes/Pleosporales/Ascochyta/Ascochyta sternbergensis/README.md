@@ -1,5 +1,4 @@
-Ascochyta sternbergensis Petr. SPECIES
-=======
+# Ascochyta sternbergensis Petr. SPECIES
 
 #### Status
 ACCEPTED

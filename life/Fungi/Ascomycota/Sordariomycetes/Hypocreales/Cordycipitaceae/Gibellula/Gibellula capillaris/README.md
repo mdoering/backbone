@@ -1,5 +1,4 @@
-Gibellula capillaris Morgan SPECIES
-=======
+# Gibellula capillaris Morgan SPECIES
 
 #### Status
 ACCEPTED

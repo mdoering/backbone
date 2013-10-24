@@ -1,5 +1,4 @@
-Sistotremella hauerslevii Hjortstam, 1984 SPECIES
-=======
+# Sistotremella hauerslevii Hjortstam, 1984 SPECIES
 
 #### Status
 ACCEPTED

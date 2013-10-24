@@ -1,5 +1,4 @@
-Pertusaria andersonii Lendemer SPECIES
-=======
+# Pertusaria andersonii Lendemer SPECIES
 
 #### Status
 ACCEPTED

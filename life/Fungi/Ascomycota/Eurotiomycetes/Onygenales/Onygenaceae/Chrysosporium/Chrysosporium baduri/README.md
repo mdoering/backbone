@@ -1,5 +1,4 @@
-Chrysosporium baduri Ulfig, Guarro & Vidal-Leir. SPECIES
-=======
+# Chrysosporium baduri Ulfig, Guarro & Vidal-Leir. SPECIES
 
 #### Status
 ACCEPTED

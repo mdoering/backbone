@@ -1,5 +1,4 @@
-Lepiota cultorum Berk. & M.A. Curtis SPECIES
-=======
+# Lepiota cultorum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

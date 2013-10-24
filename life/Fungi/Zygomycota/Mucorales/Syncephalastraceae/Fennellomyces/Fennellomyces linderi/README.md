@@ -1,14 +1,13 @@
-Circinella linderi Hesselt. & Fennell, 1955 SPECIES
-=======
+# Fennellomyces linderi (Hesselt. & Fennell) Benny & R.K. Benj., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 47: 205 (1955)
+Aliso 8(3): 328 (1975)
 
 #### Original name
 Circinella linderi Hesselt. & Fennell, 1955

@@ -1,5 +1,4 @@
-Amanita asperoides R. Heim SPECIES
-=======
+# Amanita asperoides R. Heim SPECIES
 
 #### Status
 ACCEPTED

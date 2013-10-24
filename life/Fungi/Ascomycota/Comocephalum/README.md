@@ -1,5 +1,4 @@
-Comocephalum Syd. GENUS
-=======
+# Comocephalum Syd. GENUS
 
 #### Status
 ACCEPTED

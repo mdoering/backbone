@@ -1,5 +1,4 @@
-Hydnum fimbriatoincisum Teng SPECIES
-=======
+# Hydnum fimbriatoincisum Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia carbonaria (Sowerby) Cif. SPECIES
-=======
+# Cintractia carbonaria (Sowerby) Cif. SPECIES
 
 #### Status
 ACCEPTED

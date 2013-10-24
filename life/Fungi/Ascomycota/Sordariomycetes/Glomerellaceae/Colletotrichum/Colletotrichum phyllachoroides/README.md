@@ -1,17 +1,16 @@
-Gloeosporium phyllachoroides var. maculicola Ellis & Everh. VARIETY
-=======
+# Colletotrichum phyllachoroides (Ellis & Everh.) Arx, 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. K. Akad. Wet. , tweede sect. 51(3): 119 (1957)
 
 #### Original name
-Gloeosporium phyllachoroides var. maculicola Ellis & Everh.
+Gloeosporium phyllachoroides Ellis & Everh., 1894
 
 ### Remarks
 null

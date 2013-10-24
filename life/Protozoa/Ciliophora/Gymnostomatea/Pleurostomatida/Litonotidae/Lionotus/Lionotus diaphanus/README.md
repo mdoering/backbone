@@ -1,5 +1,4 @@
-Lionotus diaphanus Wrzesniowski, 1870 SPECIES
-=======
+# Lionotus diaphanus Wrzesniowski, 1870 SPECIES
 
 #### Status
 ACCEPTED

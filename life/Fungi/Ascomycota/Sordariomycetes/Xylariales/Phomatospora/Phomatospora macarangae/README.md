@@ -1,5 +1,4 @@
-Phomatospora macarangae Hansf., 1957 SPECIES
-=======
+# Phomatospora macarangae Hansf., 1957 SPECIES
 
 #### Status
 ACCEPTED

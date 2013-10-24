@@ -1,5 +1,4 @@
-Buellia pullata Tuck. SPECIES
-=======
+# Buellia pullata Tuck. SPECIES
 
 #### Status
 ACCEPTED

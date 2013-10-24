@@ -1,5 +1,4 @@
-Phanerochaete eburnea Sheng H. Wu SPECIES
-=======
+# Phanerochaete eburnea Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

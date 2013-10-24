@@ -1,5 +1,4 @@
-Cucurbitaria sulfurea (Ellis & Calk.) Kuntze SPECIES
-=======
+# Cucurbitaria sulfurea (Ellis & Calk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

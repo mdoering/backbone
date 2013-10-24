@@ -1,5 +1,4 @@
-Russula thapsina Singer & L.D. Gómez SPECIES
-=======
+# Russula thapsina Singer & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium punctiforme Berk. SPECIES
-=======
+# Macrosporium punctiforme Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibbera maydis Saccas SPECIES
-=======
+# Gibbera maydis Saccas SPECIES
 
 #### Status
 ACCEPTED

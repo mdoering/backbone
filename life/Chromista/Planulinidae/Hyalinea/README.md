@@ -1,5 +1,4 @@
-Hyalinea Hofker, 1951 GENUS
-=======
+# Hyalinea Hofker, 1951 GENUS
 
 #### Status
 ACCEPTED

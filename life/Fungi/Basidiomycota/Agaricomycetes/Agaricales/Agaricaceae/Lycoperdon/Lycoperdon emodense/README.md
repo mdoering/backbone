@@ -1,5 +1,4 @@
-Lycoperdon emodense Berk. SPECIES
-=======
+# Lycoperdon emodense Berk. SPECIES
 
 #### Status
 ACCEPTED

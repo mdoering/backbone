@@ -1,5 +1,4 @@
-Cantharellus retirugis var. retirugis VARIETY
-=======
+# Cantharellus retirugis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syst. mycol. (Lundae) 1: 525 (1821)
+null
 
 #### Original name
-Helvella retiruga Bull., 1791
+null
 
 ### Remarks
 null

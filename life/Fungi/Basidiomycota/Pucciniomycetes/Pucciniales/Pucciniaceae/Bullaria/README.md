@@ -1,5 +1,4 @@
-Bullaria GENUS
-=======
+# Bullaria GENUS
 
 #### Status
 ACCEPTED

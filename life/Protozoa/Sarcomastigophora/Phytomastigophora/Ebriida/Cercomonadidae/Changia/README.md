@@ -1,5 +1,4 @@
-Changia B.V. Skvortzov, 1960 GENUS
-=======
+# Changia B.V. Skvortzov, 1960 GENUS
 
 #### Status
 ACCEPTED

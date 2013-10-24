@@ -1,5 +1,4 @@
-Fistulariella turgida (Kremp.) Bowler & Rundel SPECIES
-=======
+# Fistulariella turgida (Kremp.) Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

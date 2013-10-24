@@ -1,5 +1,4 @@
-Helicobacter bizzozeronii Hänninen et al., 1996 SPECIES
-=======
+# Helicobacter bizzozeronii Hänninen et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

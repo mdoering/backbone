@@ -1,14 +1,13 @@
-Parmelia permutata Stirt. SPECIES
-=======
+# Parmotrema permutatum (Stirt.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Scott. Natural. 4: 252 (1878)
+Phytologia 28: 338 (1974)
 
 #### Original name
 Parmelia permutata Stirt.

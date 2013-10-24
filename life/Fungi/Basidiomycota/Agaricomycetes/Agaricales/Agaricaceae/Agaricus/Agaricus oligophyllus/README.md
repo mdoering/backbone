@@ -1,5 +1,4 @@
-Agaricus oligophyllus Lasch SPECIES
-=======
+# Agaricus oligophyllus Lasch SPECIES
 
 #### Status
 ACCEPTED

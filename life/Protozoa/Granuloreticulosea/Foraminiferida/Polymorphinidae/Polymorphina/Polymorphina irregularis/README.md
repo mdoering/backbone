@@ -1,5 +1,4 @@
-Polymorphina irregularis SPECIES
-=======
+# Polymorphina irregularis SPECIES
 
 #### Status
 ACCEPTED

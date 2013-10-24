@@ -1,5 +1,4 @@
-Genabea tasmanica Massee & Rodway SPECIES
-=======
+# Genabea tasmanica Massee & Rodway SPECIES
 
 #### Status
 ACCEPTED

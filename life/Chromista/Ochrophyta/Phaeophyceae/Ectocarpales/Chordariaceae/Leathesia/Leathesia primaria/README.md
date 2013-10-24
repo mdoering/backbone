@@ -1,5 +1,4 @@
-Leathesia primaria Takamatsu SPECIES
-=======
+# Leathesia primaria Takamatsu SPECIES
 
 #### Status
 ACCEPTED

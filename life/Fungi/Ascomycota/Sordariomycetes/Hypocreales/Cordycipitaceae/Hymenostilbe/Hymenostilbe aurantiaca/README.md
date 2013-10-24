@@ -1,5 +1,4 @@
-Hymenostilbe aurantiaca Hywel-Jones SPECIES
-=======
+# Hymenostilbe aurantiaca Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

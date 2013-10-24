@@ -1,5 +1,4 @@
-Dictyothyrium disporum F. Stevens & Manter SPECIES
-=======
+# Dictyothyrium disporum F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

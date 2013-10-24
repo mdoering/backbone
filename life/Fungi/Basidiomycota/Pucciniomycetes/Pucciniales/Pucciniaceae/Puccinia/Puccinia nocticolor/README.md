@@ -1,5 +1,4 @@
-Puccinia nocticolor Holw. SPECIES
-=======
+# Puccinia nocticolor Holw. SPECIES
 
 #### Status
 ACCEPTED

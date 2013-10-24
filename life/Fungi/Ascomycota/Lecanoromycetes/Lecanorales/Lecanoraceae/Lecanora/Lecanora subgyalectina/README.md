@@ -1,5 +1,4 @@
-Lecanora subgyalectina Motyka SPECIES
-=======
+# Lecanora subgyalectina Motyka SPECIES
 
 #### Status
 ACCEPTED

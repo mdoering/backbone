@@ -1,5 +1,4 @@
-Hansenia cingulata (Fr.) P. Karst. SPECIES
-=======
+# Hansenia cingulata (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

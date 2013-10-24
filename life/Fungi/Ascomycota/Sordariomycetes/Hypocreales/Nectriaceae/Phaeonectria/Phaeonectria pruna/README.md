@@ -1,5 +1,4 @@
-Phaeonectria pruna Kirschst. SPECIES
-=======
+# Phaeonectria pruna Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nitrospira marina Watson et al., 1986 SPECIES
-=======
+# Nitrospira marina Watson et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

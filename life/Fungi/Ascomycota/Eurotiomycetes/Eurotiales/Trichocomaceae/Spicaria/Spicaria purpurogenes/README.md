@@ -1,5 +1,4 @@
-Spicaria purpurogenes Nadson & Zolk. SPECIES
-=======
+# Spicaria purpurogenes Nadson & Zolk. SPECIES
 
 #### Status
 ACCEPTED

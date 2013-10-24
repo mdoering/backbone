@@ -1,5 +1,4 @@
-Sphacelotheca magnusiana (A.A. Fisch. Waldh.) Cif. SPECIES
-=======
+# Sphacelotheca magnusiana (A.A. Fisch. Waldh.) Cif. SPECIES
 
 #### Status
 ACCEPTED

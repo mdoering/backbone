@@ -1,5 +1,4 @@
-Helotium naviculisporum Ellis SPECIES
-=======
+# Helotium naviculisporum Ellis SPECIES
 
 #### Status
 ACCEPTED

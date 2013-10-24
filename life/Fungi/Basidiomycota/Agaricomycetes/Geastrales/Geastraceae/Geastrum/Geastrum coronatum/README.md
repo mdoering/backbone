@@ -1,17 +1,16 @@
-Geastrum coronatum var. coronatum VARIETY
-=======
+# Geastrum coronatum Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syn. meth. fung. (Göttingen) 1: 132 (1801)
 
 #### Original name
-Geastrum coronatum var. coronatum
+Lycoperdon woodwardii Bryant
 
 ### Remarks
 null

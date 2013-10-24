@@ -1,5 +1,4 @@
-Sticta pubescens Pers. SPECIES
-=======
+# Sticta pubescens Pers. SPECIES
 
 #### Status
 ACCEPTED

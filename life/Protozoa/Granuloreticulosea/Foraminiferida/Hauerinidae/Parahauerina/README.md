@@ -1,5 +1,4 @@
-Parahauerina McCulloch, 1977 GENUS
-=======
+# Parahauerina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

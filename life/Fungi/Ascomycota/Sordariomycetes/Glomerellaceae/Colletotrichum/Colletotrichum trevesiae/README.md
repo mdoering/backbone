@@ -1,5 +1,4 @@
-Colletotrichum trevesiae (Keissl.) Petr. SPECIES
-=======
+# Colletotrichum trevesiae (Keissl.) Petr. SPECIES
 
 #### Status
 ACCEPTED

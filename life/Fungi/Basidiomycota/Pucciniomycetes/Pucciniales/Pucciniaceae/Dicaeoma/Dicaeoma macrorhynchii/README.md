@@ -1,5 +1,4 @@
-Dicaeoma macrorhynchii (Rabenh.) Kuntze SPECIES
-=======
+# Dicaeoma macrorhynchii (Rabenh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

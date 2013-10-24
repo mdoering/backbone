@@ -1,5 +1,4 @@
-Blastophorum pini Minter & Hol.-Jech., 1981 SPECIES
-=======
+# Blastophorum pini Minter & Hol.-Jech., 1981 SPECIES
 
 #### Status
 ACCEPTED

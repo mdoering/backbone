@@ -1,5 +1,4 @@
-Paramoebidium digitoideum Ferrington, Lichtw. & López-Lastra, 1999 SPECIES
-=======
+# Paramoebidium digitoideum Ferrington, Lichtw. & López-Lastra, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella carissae (Kalchbr. & Cooke) Aa SPECIES
-=======
+# Asteromella carissae (Kalchbr. & Cooke) Aa SPECIES
 
 #### Status
 ACCEPTED

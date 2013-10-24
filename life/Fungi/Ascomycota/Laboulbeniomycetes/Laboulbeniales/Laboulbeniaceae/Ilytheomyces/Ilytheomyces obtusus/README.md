@@ -1,5 +1,4 @@
-Ilytheomyces obtusus Thaxt. SPECIES
-=======
+# Ilytheomyces obtusus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium boudieri (Rolland) Kuntze SPECIES
-=======
+# Coniothyrium boudieri (Rolland) Kuntze SPECIES
 
 #### Status
 ACCEPTED

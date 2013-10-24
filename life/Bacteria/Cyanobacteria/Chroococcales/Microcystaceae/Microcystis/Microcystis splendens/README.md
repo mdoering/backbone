@@ -1,5 +1,4 @@
-Microcystis splendens Hollenberg SPECIES
-=======
+# Microcystis splendens Hollenberg SPECIES
 
 #### Status
 ACCEPTED

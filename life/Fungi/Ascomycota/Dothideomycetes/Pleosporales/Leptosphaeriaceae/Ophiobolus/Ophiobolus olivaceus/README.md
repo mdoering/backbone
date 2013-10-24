@@ -1,5 +1,4 @@
-Ophiobolus olivaceus (Ellis) Sacc. SPECIES
-=======
+# Ophiobolus olivaceus (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

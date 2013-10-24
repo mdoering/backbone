@@ -1,5 +1,4 @@
-Lichinella heppii (Müll. Arg.) P. Clerc & Cl. Roux SPECIES
-=======
+# Lichinella heppii (Müll. Arg.) P. Clerc & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

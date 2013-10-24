@@ -1,5 +1,4 @@
-Acineta talitris SPECIES
-=======
+# Acineta talitris SPECIES
 
 #### Status
 ACCEPTED

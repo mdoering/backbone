@@ -1,17 +1,16 @@
-Hysterium ostraceum var. ostraceum DC. VARIETY
-=======
+# Hysterium ostraceum DC., 1815 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Hysterium ostraceum var. ostraceum DC.
+Hysterium ostraceum DC., 1815
 
 ### Remarks
 null

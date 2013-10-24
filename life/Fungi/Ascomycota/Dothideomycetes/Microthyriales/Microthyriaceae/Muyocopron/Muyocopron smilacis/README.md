@@ -1,14 +1,13 @@
-Peltella smilacis (De Not.) F. Stevens, 1939 SPECIES
-=======
+# Muyocopron smilacis (De Not.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 17(2): 16 (1939)
+Syll. fung. (Abellini) 2: 660 (1883)
 
 #### Original name
 Microthyrium smilacis De Not., 1842

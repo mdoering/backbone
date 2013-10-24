@@ -1,5 +1,4 @@
-Spheconisca conjungens Norman SPECIES
-=======
+# Spheconisca conjungens Norman SPECIES
 
 #### Status
 ACCEPTED

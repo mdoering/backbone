@@ -1,5 +1,4 @@
-Sporidesmium elegans Rambelli SPECIES
-=======
+# Sporidesmium elegans Rambelli SPECIES
 
 #### Status
 ACCEPTED

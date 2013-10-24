@@ -1,5 +1,4 @@
-Passalora schizolobii M.J. Wingf. & Crous SPECIES
-=======
+# Passalora schizolobii M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

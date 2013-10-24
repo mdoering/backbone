@@ -1,5 +1,4 @@
-Pseudocenangium laricinum Sacc. SPECIES
-=======
+# Pseudocenangium laricinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

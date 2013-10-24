@@ -1,17 +1,16 @@
-Helmisporium fasciculatum Schwein. SPECIES
-=======
+# Helminthosporium fasciculatum Schwein. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Am. phil. Soc. , Ser. 2 4(2): 279 (1832)
 
 #### Original name
-Helmisporium fasciculatum Schwein.
+Helminthosporium fasciculatum Schwein.
 
 ### Remarks
 null

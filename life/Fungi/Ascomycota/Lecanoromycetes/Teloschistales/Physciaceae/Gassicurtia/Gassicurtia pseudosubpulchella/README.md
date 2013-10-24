@@ -1,17 +1,16 @@
-Gassicurtia pseudosubpulcella Marbach SPECIES
-=======
+# Gassicurtia pseudosubpulchella Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 239 (2000)
 
 #### Original name
-Gassicurtia pseudosubpulcella Marbach
+Gassicurtia pseudosubpulchella Marbach
 
 ### Remarks
 null

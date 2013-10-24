@@ -1,5 +1,4 @@
-Hyalobryon diplostomum Jane SPECIES
-=======
+# Hyalobryon diplostomum Jane SPECIES
 
 #### Status
 ACCEPTED

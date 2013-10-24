@@ -1,14 +1,13 @@
-Lulworthia lignoarenaria Jørg. Koch & E.B.G. Jones, 1984 SPECIES
-=======
+# Lulwoidea lignoarenaria (Jørg. Koch & E.B.G. Jones) Kohlm., Volkm.-Kohlm., J. Campb., Spatafora & Gräfenhan, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 20(2): 389 (1984)
+Mycol. Res. 109(5): 564 (2005)
 
 #### Original name
 Lulworthia lignoarenaria Jørg. Koch & E.B.G. Jones, 1984

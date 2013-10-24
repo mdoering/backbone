@@ -1,5 +1,4 @@
-Selenophoma anniae B. Sutton SPECIES
-=======
+# Selenophoma anniae B. Sutton SPECIES
 
 #### Status
 ACCEPTED

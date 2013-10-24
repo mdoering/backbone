@@ -1,5 +1,4 @@
-Rhizomyces crispatus Thaxt., 1901 SPECIES
-=======
+# Rhizomyces crispatus Thaxt., 1901 SPECIES
 
 #### Status
 ACCEPTED

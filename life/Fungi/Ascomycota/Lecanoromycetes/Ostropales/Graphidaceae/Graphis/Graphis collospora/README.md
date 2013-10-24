@@ -1,5 +1,4 @@
-Graphis collospora Vain. SPECIES
-=======
+# Graphis collospora Vain. SPECIES
 
 #### Status
 ACCEPTED

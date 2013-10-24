@@ -1,17 +1,16 @@
-Ustilago diplasiae Henn., 1904 SPECIES
-=======
+# Cintractiella diplasiae (Henn.) M. Piepenbr., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43: 155 (1904)
+null
 
 #### Original name
-Ustilago diplasiae Henn., 1904
+null
 
 ### Remarks
 null

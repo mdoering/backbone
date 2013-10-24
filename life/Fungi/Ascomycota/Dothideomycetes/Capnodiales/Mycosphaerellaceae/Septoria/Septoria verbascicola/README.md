@@ -1,5 +1,4 @@
-Septoria verbascicola Berk. & M.A. Curtis SPECIES
-=======
+# Septoria verbascicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

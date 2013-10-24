@@ -1,5 +1,4 @@
-Merulius sclerotiorum Falck SPECIES
-=======
+# Merulius sclerotiorum Falck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia olivacea Henn. & E. Nyman SPECIES
-=======
+# Stropharia olivacea Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

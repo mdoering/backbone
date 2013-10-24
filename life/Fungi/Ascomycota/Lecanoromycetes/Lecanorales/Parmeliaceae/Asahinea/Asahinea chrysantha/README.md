@@ -1,5 +1,4 @@
-Asahinea chrysantha f. chrysantha FORM
-=======
+# Asahinea chrysantha (Tuck.) W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Brittonia 17: 183 (1965)
 
 #### Original name
-Asahinea chrysantha f. chrysantha
+Cetraria chrysantha
 
 ### Remarks
 null

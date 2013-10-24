@@ -1,5 +1,4 @@
-Cymatiogalea gorkae Rauscher, 1973 SPECIES
-=======
+# Cymatiogalea gorkae Rauscher, 1973 SPECIES
 
 #### Status
 ACCEPTED

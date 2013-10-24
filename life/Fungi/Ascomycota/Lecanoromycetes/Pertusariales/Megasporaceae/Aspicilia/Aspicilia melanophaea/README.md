@@ -1,5 +1,4 @@
-Aspicilia melanophaea f. melanophaea FORM
-=======
+# Aspicilia melanophaea (Fr.) Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia melanophaea f. melanophaea
+Lecidea melanophaea Fr.
 
 ### Remarks
 null

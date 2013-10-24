@@ -1,5 +1,4 @@
-Torula saccharina Heald & W. Pool SPECIES
-=======
+# Torula saccharina Heald & W. Pool SPECIES
 
 #### Status
 ACCEPTED

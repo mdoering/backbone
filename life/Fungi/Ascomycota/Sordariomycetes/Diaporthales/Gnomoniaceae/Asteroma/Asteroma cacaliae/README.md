@@ -1,5 +1,4 @@
-Asteroma cacaliae Desm. SPECIES
-=======
+# Asteroma cacaliae Desm. SPECIES
 
 #### Status
 ACCEPTED

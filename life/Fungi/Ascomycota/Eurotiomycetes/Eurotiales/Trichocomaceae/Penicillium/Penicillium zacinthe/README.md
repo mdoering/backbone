@@ -1,5 +1,4 @@
-Penicillium zacinthe SPECIES
-=======
+# Penicillium zacinthe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe papyracea Velen. SPECIES
-=======
+# Clitocybe papyracea Velen. SPECIES
 
 #### Status
 ACCEPTED

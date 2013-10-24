@@ -1,5 +1,4 @@
-Rivularia borealis P.G. Richter SPECIES
-=======
+# Rivularia borealis P.G. Richter SPECIES
 
 #### Status
 ACCEPTED

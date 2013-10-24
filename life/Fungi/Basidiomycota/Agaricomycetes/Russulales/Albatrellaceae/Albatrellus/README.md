@@ -1,17 +1,16 @@
-Ovinus (Lloyd) Torrend GENUS
-=======
+# Albatrellus Gray GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brotéria, sér. bot. 18: 121 (1920)
+Nat. Arr. Brit. Pl. (London) 1: 645 (1821)
 
 #### Original name
-null
+Albatrellus Gray
 
 ### Remarks
 null

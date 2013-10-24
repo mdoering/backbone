@@ -1,5 +1,4 @@
-Haematomma leprarioides (Vain.) Vain. SPECIES
-=======
+# Haematomma leprarioides (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

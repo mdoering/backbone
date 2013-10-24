@@ -1,5 +1,4 @@
-Cortinarius basipurpureus (Bougher) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius basipurpureus (Bougher) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

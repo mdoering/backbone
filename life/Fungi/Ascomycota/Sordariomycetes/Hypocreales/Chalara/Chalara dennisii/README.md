@@ -1,5 +1,4 @@
-Chalara dennisii P.M. Kirk, 1986 SPECIES
-=======
+# Chalara dennisii P.M. Kirk, 1986 SPECIES
 
 #### Status
 ACCEPTED

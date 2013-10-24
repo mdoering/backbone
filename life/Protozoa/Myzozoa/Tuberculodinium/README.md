@@ -1,5 +1,4 @@
-Tuberculodinium D.Wall, 1967 GENUS
-=======
+# Tuberculodinium D.Wall, 1967 GENUS
 
 #### Status
 ACCEPTED

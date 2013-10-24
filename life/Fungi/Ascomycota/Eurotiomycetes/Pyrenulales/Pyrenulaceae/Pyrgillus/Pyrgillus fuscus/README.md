@@ -1,5 +1,4 @@
-Pyrgillus fuscus Aptroot SPECIES
-=======
+# Pyrgillus fuscus Aptroot SPECIES
 
 #### Status
 ACCEPTED

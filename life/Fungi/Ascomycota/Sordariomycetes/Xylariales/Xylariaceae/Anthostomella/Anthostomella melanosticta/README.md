@@ -1,5 +1,4 @@
-Anthostomella melanosticta Ellis & Everh. SPECIES
-=======
+# Anthostomella melanosticta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

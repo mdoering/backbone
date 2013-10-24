@@ -1,5 +1,4 @@
-Byssomerulius armeniacus (Bres.) Gilb. SPECIES
-=======
+# Byssomerulius armeniacus (Bres.) Gilb. SPECIES
 
 #### Status
 ACCEPTED

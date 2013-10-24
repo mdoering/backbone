@@ -1,5 +1,4 @@
-Biggariella Profant in Lynn, 1979 GENUS
-=======
+# Biggariella Profant in Lynn, 1979 GENUS
 
 #### Status
 ACCEPTED

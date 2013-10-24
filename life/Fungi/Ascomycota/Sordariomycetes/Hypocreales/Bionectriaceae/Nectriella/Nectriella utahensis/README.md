@@ -1,5 +1,4 @@
-Nectriella utahensis Lowen & Rogerson SPECIES
-=======
+# Nectriella utahensis Lowen & Rogerson SPECIES
 
 #### Status
 ACCEPTED

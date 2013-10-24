@@ -1,5 +1,4 @@
-Tremella prostrata Chantr. {?} SPECIES
-=======
+# Tremella prostrata Chantr. {?} SPECIES
 
 #### Status
 ACCEPTED

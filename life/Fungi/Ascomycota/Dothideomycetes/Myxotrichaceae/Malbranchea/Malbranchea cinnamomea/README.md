@@ -1,17 +1,16 @@
-Malbranchea sulphurea (Miehe) Pidopl., 1953 SPECIES
-=======
+# Malbranchea cinnamomea (Lib.) Oorschot & de Hoog, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 20(1): 129 (1984)
 
 #### Original name
-null
+Trichothecium cinnamomeum Lib.
 
 ### Remarks
 null

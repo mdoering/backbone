@@ -1,5 +1,4 @@
-Asterula concentrica Cooke SPECIES
-=======
+# Asterula concentrica Cooke SPECIES
 
 #### Status
 ACCEPTED

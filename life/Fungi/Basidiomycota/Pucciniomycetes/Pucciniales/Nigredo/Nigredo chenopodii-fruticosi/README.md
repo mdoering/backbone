@@ -1,5 +1,4 @@
-Nigredo chenopodii-fruticosi (DC.) Arthur SPECIES
-=======
+# Nigredo chenopodii-fruticosi (DC.) Arthur SPECIES
 
 #### Status
 ACCEPTED

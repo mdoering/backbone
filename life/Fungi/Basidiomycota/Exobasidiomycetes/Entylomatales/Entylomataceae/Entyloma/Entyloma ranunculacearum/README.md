@@ -1,5 +1,4 @@
-Entyloma ranunculacearum Kochman SPECIES
-=======
+# Entyloma ranunculacearum Kochman SPECIES
 
 #### Status
 ACCEPTED

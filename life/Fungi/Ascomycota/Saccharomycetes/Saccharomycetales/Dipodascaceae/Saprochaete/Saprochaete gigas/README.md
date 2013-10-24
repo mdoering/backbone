@@ -1,17 +1,16 @@
-Geotrichum gigas (Smit & L. Mey.) M.T. Sm. & Poot, 2000 SPECIES
-=======
+# Saprochaete gigas (Smit & L. Mey.) de Hoog & M.T. Sm., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 50(2): 509 (2004)
 
 #### Original name
-null
+Oospora gigas Smit & L. Mey.
 
 ### Remarks
 null

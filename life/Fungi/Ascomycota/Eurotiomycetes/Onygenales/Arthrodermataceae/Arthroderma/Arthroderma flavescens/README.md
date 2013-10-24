@@ -1,5 +1,4 @@
-Arthroderma flavescens R.G. Rees, 1967 SPECIES
-=======
+# Arthroderma flavescens R.G. Rees, 1967 SPECIES
 
 #### Status
 ACCEPTED

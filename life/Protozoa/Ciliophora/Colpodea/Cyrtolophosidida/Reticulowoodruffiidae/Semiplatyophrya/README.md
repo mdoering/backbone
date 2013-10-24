@@ -1,5 +1,4 @@
-Semiplatyophrya Wilbert & Kahan, 1986 GENUS
-=======
+# Semiplatyophrya Wilbert & Kahan, 1986 GENUS
 
 #### Status
 ACCEPTED

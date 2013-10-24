@@ -1,5 +1,4 @@
-Lichen patellatus J.F. Gmel. SPECIES
-=======
+# Lichen patellatus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

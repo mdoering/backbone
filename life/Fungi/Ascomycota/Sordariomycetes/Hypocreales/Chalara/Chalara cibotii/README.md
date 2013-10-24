@@ -1,14 +1,13 @@
-Chalara cibotti (Plunkett) Nag Raj & W.B. Kendr. SPECIES
-=======
+# Chalara cibotii (Plunkett) Nag Raj & W.B. Kendr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Chalara Allied Genera (Waterloo) 101 (1975)
 
 #### Original name
 Excioconidium cibotii Plunkett

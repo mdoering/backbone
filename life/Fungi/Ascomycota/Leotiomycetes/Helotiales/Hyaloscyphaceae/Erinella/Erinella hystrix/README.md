@@ -1,5 +1,4 @@
-Erinella hystrix Bubák SPECIES
-=======
+# Erinella hystrix Bubák SPECIES
 
 #### Status
 ACCEPTED

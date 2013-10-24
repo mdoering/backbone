@@ -1,5 +1,4 @@
-Tsukamurella spongiae Olson, Harmody, Bej & McCarthy, 2007 SPECIES
-=======
+# Tsukamurella spongiae Olson, Harmody, Bej & McCarthy, 2007 SPECIES
 
 #### Status
 ACCEPTED

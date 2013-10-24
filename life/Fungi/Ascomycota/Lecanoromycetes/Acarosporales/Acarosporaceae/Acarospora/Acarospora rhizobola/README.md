@@ -1,14 +1,13 @@
-Lecidea rhizobola Nyl. SPECIES
-=======
+# Acarospora rhizobola (Nyl.) Alstrup SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 48: 4 (1865)
+Int. J. Mycol. Lichenol. 3(1): 2 (1986)
 
 #### Original name
 Lecidea rhizobola Nyl.

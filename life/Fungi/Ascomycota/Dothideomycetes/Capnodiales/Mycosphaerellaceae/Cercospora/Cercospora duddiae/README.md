@@ -1,5 +1,4 @@
-Cercospora duddiae Welles, 1923 SPECIES
-=======
+# Cercospora duddiae Welles, 1923 SPECIES
 
 #### Status
 ACCEPTED

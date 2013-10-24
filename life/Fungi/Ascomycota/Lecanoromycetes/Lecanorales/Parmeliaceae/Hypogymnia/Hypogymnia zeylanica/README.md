@@ -1,5 +1,4 @@
-Hypogymnia zeylanica (R. Sant.) D.D. Awasthi & Kr.P. Singh SPECIES
-=======
+# Hypogymnia zeylanica (R. Sant.) D.D. Awasthi & Kr.P. Singh SPECIES
 
 #### Status
 ACCEPTED

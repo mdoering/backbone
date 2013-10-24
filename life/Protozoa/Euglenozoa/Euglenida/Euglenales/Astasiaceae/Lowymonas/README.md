@@ -1,5 +1,4 @@
-Lowymonas B.V. Skvortzov, 1969 GENUS
-=======
+# Lowymonas B.V. Skvortzov, 1969 GENUS
 
 #### Status
 ACCEPTED

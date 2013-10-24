@@ -1,5 +1,4 @@
-Actinomyces graevenitzii Pascual Ramos et al., 1997 SPECIES
-=======
+# Actinomyces graevenitzii Pascual Ramos et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

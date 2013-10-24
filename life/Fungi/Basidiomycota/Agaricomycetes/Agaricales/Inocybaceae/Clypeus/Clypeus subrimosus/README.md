@@ -1,5 +1,4 @@
-Clypeus subrimosus P. Karst. SPECIES
-=======
+# Clypeus subrimosus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena chrysocorypha Singer SPECIES
-=======
+# Mycena chrysocorypha Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staphlosporonites siwalikus R.K. Saxena & A.P. Bhattach. SPECIES
-=======
+# Staphlosporonites siwalikus R.K. Saxena & A.P. Bhattach. SPECIES
 
 #### Status
 ACCEPTED

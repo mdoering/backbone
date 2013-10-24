@@ -1,17 +1,16 @@
-Pseudoparmelia pachydactyla (Hale) Hale SPECIES
-=======
+# Flavoparmelia pachydactyla (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 25(2): 605 (1986)
 
 #### Original name
-null
+Parmelia pachydactyla Hale
 
 ### Remarks
 null

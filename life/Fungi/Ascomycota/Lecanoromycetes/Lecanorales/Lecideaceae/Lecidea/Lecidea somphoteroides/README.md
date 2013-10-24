@@ -1,5 +1,4 @@
-Lecidea somphoteroides Nádv. SPECIES
-=======
+# Lecidea somphoteroides Nádv. SPECIES
 
 #### Status
 ACCEPTED

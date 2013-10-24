@@ -1,5 +1,4 @@
-Agaricus umbilicaris J.F. Gmel. SPECIES
-=======
+# Agaricus umbilicaris J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

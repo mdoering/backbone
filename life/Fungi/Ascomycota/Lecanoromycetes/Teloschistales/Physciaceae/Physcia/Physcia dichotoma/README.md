@@ -1,5 +1,4 @@
-Physcia dichotoma Pers. SPECIES
-=======
+# Physcia dichotoma Pers. SPECIES
 
 #### Status
 ACCEPTED

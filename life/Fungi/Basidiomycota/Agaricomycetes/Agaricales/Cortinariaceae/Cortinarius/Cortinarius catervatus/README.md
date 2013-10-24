@@ -1,5 +1,4 @@
-Cortinarius catervatus M.M. Moser SPECIES
-=======
+# Cortinarius catervatus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

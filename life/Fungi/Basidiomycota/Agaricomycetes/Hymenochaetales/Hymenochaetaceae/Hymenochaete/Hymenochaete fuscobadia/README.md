@@ -1,5 +1,4 @@
-Hymenochaete fuscobadia K.S. Thind & Adlakha, 1958 SPECIES
-=======
+# Hymenochaete fuscobadia K.S. Thind & Adlakha, 1958 SPECIES
 
 #### Status
 ACCEPTED

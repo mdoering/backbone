@@ -1,5 +1,4 @@
-Aspergillus ellipsoideus J.N. Rai & H.J. Chowdhery SPECIES
-=======
+# Aspergillus ellipsoideus J.N. Rai & H.J. Chowdhery SPECIES
 
 #### Status
 ACCEPTED

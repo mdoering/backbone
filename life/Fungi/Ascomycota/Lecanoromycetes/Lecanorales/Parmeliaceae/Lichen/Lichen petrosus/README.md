@@ -1,5 +1,4 @@
-Lichen petrosus Gmelin SPECIES
-=======
+# Lichen petrosus Gmelin SPECIES
 
 #### Status
 ACCEPTED

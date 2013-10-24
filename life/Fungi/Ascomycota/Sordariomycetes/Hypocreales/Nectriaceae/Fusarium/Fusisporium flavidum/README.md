@@ -1,5 +1,4 @@
-Fusisporium flavidum Bonord. SPECIES
-=======
+# Fusisporium flavidum Bonord. SPECIES
 
 #### Status
 ACCEPTED

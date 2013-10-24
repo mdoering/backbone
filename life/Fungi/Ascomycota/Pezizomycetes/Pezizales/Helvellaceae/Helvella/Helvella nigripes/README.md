@@ -1,5 +1,4 @@
-Helvella nigripes Schumach. SPECIES
-=======
+# Helvella nigripes Schumach. SPECIES
 
 #### Status
 ACCEPTED

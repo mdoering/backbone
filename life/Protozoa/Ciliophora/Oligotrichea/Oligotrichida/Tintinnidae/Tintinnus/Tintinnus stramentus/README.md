@@ -1,5 +1,4 @@
-Tintinnus stramentus Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnus stramentus Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paradiachea GENUS
-=======
+# Paradiachea GENUS
 
 #### Status
 ACCEPTED

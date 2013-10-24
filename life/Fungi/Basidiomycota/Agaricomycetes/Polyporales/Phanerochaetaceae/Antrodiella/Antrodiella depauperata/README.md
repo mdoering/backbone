@@ -1,5 +1,4 @@
-Antrodiella depauperata (Corner) T. Hatt. SPECIES
-=======
+# Antrodiella depauperata (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

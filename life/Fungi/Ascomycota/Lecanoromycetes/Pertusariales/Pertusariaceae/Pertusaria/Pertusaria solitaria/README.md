@@ -1,5 +1,4 @@
-Pertusaria solitaria H. Magn. SPECIES
-=======
+# Pertusaria solitaria H. Magn. SPECIES
 
 #### Status
 ACCEPTED

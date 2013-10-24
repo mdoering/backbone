@@ -1,5 +1,4 @@
-Pyrenochaeta jaapii Died. SPECIES
-=======
+# Pyrenochaeta jaapii Died. SPECIES
 
 #### Status
 ACCEPTED

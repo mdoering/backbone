@@ -1,5 +1,4 @@
-Bryopogon canadensis (Motyka) Bystrek SPECIES
-=======
+# Bryopogon canadensis (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

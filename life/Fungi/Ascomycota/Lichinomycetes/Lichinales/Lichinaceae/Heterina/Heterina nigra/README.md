@@ -1,5 +1,4 @@
-Heterina nigra Hue SPECIES
-=======
+# Heterina nigra Hue SPECIES
 
 #### Status
 ACCEPTED

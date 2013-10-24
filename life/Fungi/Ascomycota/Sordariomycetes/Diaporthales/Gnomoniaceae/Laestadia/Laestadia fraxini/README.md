@@ -1,5 +1,4 @@
-Laestadia fraxini Fautrey SPECIES
-=======
+# Laestadia fraxini Fautrey SPECIES
 
 #### Status
 ACCEPTED

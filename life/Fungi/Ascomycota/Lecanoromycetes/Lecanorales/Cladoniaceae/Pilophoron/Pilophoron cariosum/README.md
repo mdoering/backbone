@@ -1,5 +1,4 @@
-Pilophoron cariosum Hue SPECIES
-=======
+# Pilophoron cariosum Hue SPECIES
 
 #### Status
 ACCEPTED

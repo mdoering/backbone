@@ -1,5 +1,4 @@
-Schematophora speciosa Deflandre & Cookson SPECIES
-=======
+# Schematophora speciosa Deflandre & Cookson SPECIES
 
 #### Status
 ACCEPTED

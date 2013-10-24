@@ -1,5 +1,4 @@
-Polyporus formosus Laubert SPECIES
-=======
+# Polyporus formosus Laubert SPECIES
 
 #### Status
 ACCEPTED

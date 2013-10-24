@@ -1,5 +1,4 @@
-Ustilago cardui-acanthoidis Reess SPECIES
-=======
+# Ustilago cardui-acanthoidis Reess SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Badimia lecanorina (Zahlbr.) Lücking, Lumbsch & Elix SPECIES
-=======
+# Badimia lecanorina (Zahlbr.) Lücking, Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

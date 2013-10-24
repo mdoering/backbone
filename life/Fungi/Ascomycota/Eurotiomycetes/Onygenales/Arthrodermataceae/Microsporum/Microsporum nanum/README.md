@@ -1,17 +1,16 @@
-Microsporum gypseum var. nana VARIETY
-=======
+# Microsporum nanum C.A. Fuentes, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 48: 614 (1956)
 
 #### Original name
-Microsporum gypseum var. nana
+Microsporum nanum C.A. Fuentes, 1956
 
 ### Remarks
 null

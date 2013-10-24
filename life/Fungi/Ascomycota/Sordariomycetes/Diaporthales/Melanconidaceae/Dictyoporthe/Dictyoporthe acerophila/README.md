@@ -1,5 +1,4 @@
-Dictyoporthe acerophila M.E. Barr SPECIES
-=======
+# Dictyoporthe acerophila M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus phalligerus Mont. SPECIES
-=======
+# Agaricus phalligerus Mont. SPECIES
 
 #### Status
 ACCEPTED

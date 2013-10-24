@@ -1,5 +1,4 @@
-Cryptoderma kanehirae (Yasuda) Imazeki SPECIES
-=======
+# Cryptoderma kanehirae (Yasuda) Imazeki SPECIES
 
 #### Status
 ACCEPTED

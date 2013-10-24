@@ -1,5 +1,4 @@
-Psilocybe thailandensis E. Horak, Guzmán & Desjardin SPECIES
-=======
+# Psilocybe thailandensis E. Horak, Guzmán & Desjardin SPECIES
 
 #### Status
 ACCEPTED

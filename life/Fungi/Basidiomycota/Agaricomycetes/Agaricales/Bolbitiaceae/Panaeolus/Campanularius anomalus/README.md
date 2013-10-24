@@ -1,5 +1,4 @@
-Campanularius anomalus Murrill SPECIES
-=======
+# Campanularius anomalus Murrill SPECIES
 
 #### Status
 ACCEPTED

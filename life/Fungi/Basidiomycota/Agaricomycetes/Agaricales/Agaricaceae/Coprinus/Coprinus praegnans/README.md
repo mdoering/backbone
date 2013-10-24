@@ -1,5 +1,4 @@
-Coprinus praegnans Fr. SPECIES
-=======
+# Coprinus praegnans Fr. SPECIES
 
 #### Status
 ACCEPTED

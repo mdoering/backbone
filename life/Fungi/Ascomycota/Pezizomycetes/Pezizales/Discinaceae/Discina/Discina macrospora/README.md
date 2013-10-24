@@ -1,5 +1,4 @@
-Discina macrospora Bubák SPECIES
-=======
+# Discina macrospora Bubák SPECIES
 
 #### Status
 ACCEPTED

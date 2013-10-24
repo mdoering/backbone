@@ -1,5 +1,4 @@
-Leucogaster liosporus R. Hesse, 1882 SPECIES
-=======
+# Leucogaster liosporus R. Hesse, 1882 SPECIES
 
 #### Status
 ACCEPTED

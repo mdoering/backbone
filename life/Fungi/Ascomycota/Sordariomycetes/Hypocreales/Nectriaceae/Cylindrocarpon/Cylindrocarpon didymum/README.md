@@ -1,14 +1,13 @@
-Fusarium didymum (Harting) Lindau, 1909 SPECIES
-=======
+# Cylindrocarpon didymum (Harting) Wollenw., 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig) 1: 574 (1909)
+Fusaria autographica delineata, Edn 2 no. 650 (1924)
 
 #### Original name
 Fusisporium didymum Harting, 1846

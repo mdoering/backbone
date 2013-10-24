@@ -1,5 +1,4 @@
-Dysteria spinifera Dragesco, 1966 SPECIES
-=======
+# Dysteria spinifera Dragesco, 1966 SPECIES
 
 #### Status
 ACCEPTED

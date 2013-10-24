@@ -1,5 +1,4 @@
-Prototrachysphaeridium speciosum Popova & Glazunova, 1965 SPECIES
-=======
+# Prototrachysphaeridium speciosum Popova & Glazunova, 1965 SPECIES
 
 #### Status
 ACCEPTED

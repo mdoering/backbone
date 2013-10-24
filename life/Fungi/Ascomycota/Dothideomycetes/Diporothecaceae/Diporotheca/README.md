@@ -1,5 +1,4 @@
-Diporotheca C.C. Gordon & C.G. Shaw, 1961 GENUS
-=======
+# Diporotheca C.C. Gordon & C.G. Shaw, 1961 GENUS
 
 #### Status
 ACCEPTED

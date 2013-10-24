@@ -1,14 +1,13 @@
-Steccherinum ballouii Banker, 1909 SPECIES
-=======
+# Echinodontium ballouii (Banker) H.L. Gross, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 36: 341 (1909)
+Mycopath. Mycol. appl. 24(1): 5 (1964)
 
 #### Original name
 Steccherinum ballouii Banker, 1909

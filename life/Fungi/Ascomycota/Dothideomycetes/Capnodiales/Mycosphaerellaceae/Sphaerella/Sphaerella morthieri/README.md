@@ -1,5 +1,4 @@
-Sphaerella morthieri Fuckel SPECIES
-=======
+# Sphaerella morthieri Fuckel SPECIES
 
 #### Status
 ACCEPTED

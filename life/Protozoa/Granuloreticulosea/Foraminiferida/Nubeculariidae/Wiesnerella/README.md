@@ -1,5 +1,4 @@
-Wiesnerella Cushman, 1933 GENUS
-=======
+# Wiesnerella Cushman, 1933 GENUS
 
 #### Status
 ACCEPTED

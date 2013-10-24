@@ -1,5 +1,4 @@
-Psathyrella substrigosipes A.H. Sm. SPECIES
-=======
+# Psathyrella substrigosipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

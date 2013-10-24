@@ -1,5 +1,4 @@
-Acanthothecis rosea (Vain.) Staiger & Kalb SPECIES
-=======
+# Acanthothecis rosea (Vain.) Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

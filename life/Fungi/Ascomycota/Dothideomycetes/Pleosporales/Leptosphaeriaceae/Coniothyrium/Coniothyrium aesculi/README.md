@@ -1,5 +1,4 @@
-Coniothyrium aesculi Balk. {?} SPECIES
-=======
+# Coniothyrium aesculi Balk. {?} SPECIES
 
 #### Status
 ACCEPTED

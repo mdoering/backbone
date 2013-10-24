@@ -1,5 +1,4 @@
-Diorchidium polyalthiae Syd. & P. Syd. SPECIES
-=======
+# Diorchidium polyalthiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

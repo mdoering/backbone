@@ -1,5 +1,4 @@
-Hirsutella acridiorum Petch, 1932 SPECIES
-=======
+# Hirsutella acridiorum Petch, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Depazea cypripedii Kirchn. SPECIES
-=======
+# Depazea cypripedii Kirchn. SPECIES
 
 #### Status
 ACCEPTED

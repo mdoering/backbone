@@ -1,5 +1,4 @@
-Dermocarpa elliptica Skvorcov SPECIES
-=======
+# Dermocarpa elliptica Skvorcov SPECIES
 
 #### Status
 ACCEPTED

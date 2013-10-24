@@ -1,5 +1,4 @@
-Coccidiniales ORDER
-=======
+# Coccidiniales ORDER
 
 #### Status
 ACCEPTED

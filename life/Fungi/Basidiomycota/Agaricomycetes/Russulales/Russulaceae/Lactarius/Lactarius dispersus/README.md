@@ -1,5 +1,4 @@
-Lactarius dispersus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius dispersus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

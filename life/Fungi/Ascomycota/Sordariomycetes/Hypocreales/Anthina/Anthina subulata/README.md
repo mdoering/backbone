@@ -1,5 +1,4 @@
-Anthina subulata Fr. SPECIES
-=======
+# Anthina subulata Fr. SPECIES
 
 #### Status
 ACCEPTED

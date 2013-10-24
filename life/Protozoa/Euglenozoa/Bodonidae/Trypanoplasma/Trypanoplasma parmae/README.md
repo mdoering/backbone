@@ -1,5 +1,4 @@
-Trypanoplasma parmae Mackerras & Mackerras, 1961 SPECIES
-=======
+# Trypanoplasma parmae Mackerras & Mackerras, 1961 SPECIES
 
 #### Status
 ACCEPTED

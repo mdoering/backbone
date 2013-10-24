@@ -1,5 +1,4 @@
-Dinoclonium conradii Pascher SPECIES
-=======
+# Dinoclonium conradii Pascher SPECIES
 
 #### Status
 ACCEPTED

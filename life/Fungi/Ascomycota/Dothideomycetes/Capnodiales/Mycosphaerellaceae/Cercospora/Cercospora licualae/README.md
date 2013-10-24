@@ -1,5 +1,4 @@
-Cercospora licualae Syd. SPECIES
-=======
+# Cercospora licualae Syd. SPECIES
 
 #### Status
 ACCEPTED

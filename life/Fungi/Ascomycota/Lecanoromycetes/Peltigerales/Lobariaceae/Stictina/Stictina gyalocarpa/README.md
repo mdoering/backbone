@@ -1,5 +1,4 @@
-Stictina gyalocarpa Nyl. SPECIES
-=======
+# Stictina gyalocarpa Nyl. SPECIES
 
 #### Status
 ACCEPTED

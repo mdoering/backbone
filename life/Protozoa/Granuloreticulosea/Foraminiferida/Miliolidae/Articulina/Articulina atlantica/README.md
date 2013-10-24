@@ -1,5 +1,4 @@
-Articulina atlantica SPECIES
-=======
+# Articulina atlantica SPECIES
 
 #### Status
 ACCEPTED

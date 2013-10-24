@@ -1,5 +1,4 @@
-Ommatosporella burseracearum Bat., J.L. Bezerra & Poroca, 1967 SPECIES
-=======
+# Ommatosporella burseracearum Bat., J.L. Bezerra & Poroca, 1967 SPECIES
 
 #### Status
 ACCEPTED

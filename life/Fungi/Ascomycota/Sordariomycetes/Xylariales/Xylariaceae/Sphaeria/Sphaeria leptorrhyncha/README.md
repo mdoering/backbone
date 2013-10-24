@@ -1,5 +1,4 @@
-Sphaeria leptorrhyncha Durieu & Mont. SPECIES
-=======
+# Sphaeria leptorrhyncha Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

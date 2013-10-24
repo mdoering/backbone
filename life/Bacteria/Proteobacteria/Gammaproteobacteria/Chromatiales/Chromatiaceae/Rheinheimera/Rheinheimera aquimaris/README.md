@@ -1,5 +1,4 @@
-Rheinheimera aquimaris Yoon, Bae, Kang & Oh, 2007 SPECIES
-=======
+# Rheinheimera aquimaris Yoon, Bae, Kang & Oh, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favolaschia saccharina Pat. SPECIES
-=======
+# Favolaschia saccharina Pat. SPECIES
 
 #### Status
 ACCEPTED

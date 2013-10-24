@@ -1,5 +1,4 @@
-Difflugia globulosa Dujardin SPECIES
-=======
+# Difflugia globulosa Dujardin SPECIES
 
 #### Status
 ACCEPTED

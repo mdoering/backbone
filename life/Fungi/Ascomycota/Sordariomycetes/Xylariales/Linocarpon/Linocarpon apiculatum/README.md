@@ -1,5 +1,4 @@
-Linocarpon apiculatum K.D. Hyde SPECIES
-=======
+# Linocarpon apiculatum K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

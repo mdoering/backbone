@@ -1,5 +1,4 @@
-Camarosporium acanthophylli Kalymb. SPECIES
-=======
+# Camarosporium acanthophylli Kalymb. SPECIES
 
 #### Status
 ACCEPTED

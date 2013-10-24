@@ -1,5 +1,4 @@
-Uromyces galii Dietel SPECIES
-=======
+# Uromyces galii Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collodastrum Haeckel, 1887 GENUS
-=======
+# Collodastrum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

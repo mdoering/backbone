@@ -1,5 +1,4 @@
-Spiloma ferrugineum SPECIES
-=======
+# Spiloma ferrugineum SPECIES
 
 #### Status
 ACCEPTED

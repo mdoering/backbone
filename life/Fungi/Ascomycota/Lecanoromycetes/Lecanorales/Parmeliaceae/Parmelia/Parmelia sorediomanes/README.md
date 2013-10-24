@@ -1,5 +1,4 @@
-Parmelia sorediomanes (Nyl.) Gyeln. SPECIES
-=======
+# Parmelia sorediomanes (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella populea Sacc. SPECIES
-=======
+# Dothiorella populea Sacc. SPECIES
 
 #### Status
 ACCEPTED

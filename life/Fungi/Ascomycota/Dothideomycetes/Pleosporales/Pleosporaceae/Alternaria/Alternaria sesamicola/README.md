@@ -1,5 +1,4 @@
-Alternaria sesamicola E. Kawam., 1931 SPECIES
-=======
+# Alternaria sesamicola E. Kawam., 1931 SPECIES
 
 #### Status
 ACCEPTED

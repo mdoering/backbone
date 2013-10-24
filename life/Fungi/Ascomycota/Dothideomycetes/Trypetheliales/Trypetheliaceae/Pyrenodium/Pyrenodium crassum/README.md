@@ -1,5 +1,4 @@
-Pyrenodium crassum (Fée) Fée SPECIES
-=======
+# Pyrenodium crassum (Fée) Fée SPECIES
 
 #### Status
 ACCEPTED

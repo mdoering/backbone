@@ -1,5 +1,4 @@
-Lecanora semipallida H. Magn. SPECIES
-=======
+# Lecanora semipallida H. Magn. SPECIES
 
 #### Status
 ACCEPTED

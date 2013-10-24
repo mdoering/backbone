@@ -1,5 +1,4 @@
-Entyloma blumeae B.V. Patil & Thirum. SPECIES
-=======
+# Entyloma blumeae B.V. Patil & Thirum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterographium conjungens P. Karst. SPECIES
-=======
+# Hysterographium conjungens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

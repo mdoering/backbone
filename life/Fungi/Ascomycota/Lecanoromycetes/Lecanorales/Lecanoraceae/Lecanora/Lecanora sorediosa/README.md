@@ -1,5 +1,4 @@
-Lecanora sorediosa (B. de Lesd.) Gyeln. SPECIES
-=======
+# Lecanora sorediosa (B. de Lesd.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

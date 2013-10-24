@@ -1,5 +1,4 @@
-Leptoglossum alabamense Underw. SPECIES
-=======
+# Leptoglossum alabamense Underw. SPECIES
 
 #### Status
 ACCEPTED

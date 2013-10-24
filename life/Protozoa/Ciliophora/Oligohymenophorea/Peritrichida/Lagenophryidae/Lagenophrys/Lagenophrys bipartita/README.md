@@ -1,5 +1,4 @@
-Lagenophrys bipartita Stokes, 1890 SPECIES
-=======
+# Lagenophrys bipartita Stokes, 1890 SPECIES
 
 #### Status
 ACCEPTED

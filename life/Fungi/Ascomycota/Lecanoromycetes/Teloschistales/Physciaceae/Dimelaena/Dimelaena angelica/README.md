@@ -1,5 +1,4 @@
-Dimelaena angelica (Stizenb.) Hale & W.L. Culb. SPECIES
-=======
+# Dimelaena angelica (Stizenb.) Hale & W.L. Culb. SPECIES
 
 #### Status
 ACCEPTED

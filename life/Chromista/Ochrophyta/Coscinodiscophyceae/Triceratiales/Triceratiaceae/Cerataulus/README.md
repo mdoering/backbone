@@ -1,5 +1,4 @@
-Cerataulus C. G. Ehrenberg GENUS
-=======
+# Cerataulus C. G. Ehrenberg GENUS
 
 #### Status
 ACCEPTED

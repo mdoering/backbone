@@ -1,5 +1,4 @@
-Graphis sapii Zahlbr. SPECIES
-=======
+# Graphis sapii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

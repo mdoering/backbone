@@ -1,5 +1,4 @@
-Calloria citrina A.L. Sm. SPECIES
-=======
+# Calloria citrina A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

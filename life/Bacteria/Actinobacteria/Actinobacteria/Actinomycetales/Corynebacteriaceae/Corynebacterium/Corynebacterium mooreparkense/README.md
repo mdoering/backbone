@@ -1,5 +1,4 @@
-Corynebacterium mooreparkense Brennan et al., 2001 SPECIES
-=======
+# Corynebacterium mooreparkense Brennan et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

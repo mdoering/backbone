@@ -1,5 +1,4 @@
-Sepedonium subochraceum Berk. & M.A. Curtis SPECIES
-=======
+# Sepedonium subochraceum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

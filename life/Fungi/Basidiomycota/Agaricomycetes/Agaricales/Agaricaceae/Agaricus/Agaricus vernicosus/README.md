@@ -1,5 +1,4 @@
-Agaricus vernicosus Fr. SPECIES
-=======
+# Agaricus vernicosus Fr. SPECIES
 
 #### Status
 ACCEPTED

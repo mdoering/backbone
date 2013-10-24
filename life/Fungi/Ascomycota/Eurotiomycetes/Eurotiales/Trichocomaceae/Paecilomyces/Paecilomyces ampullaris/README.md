@@ -1,17 +1,16 @@
-Taifanglania ampullaris (Matsush.) Z.Q. Liang, Y.F. Han & H.L. Chu, 2009 SPECIES
-=======
+# Paecilomyces ampullaris Matsush., 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Microfungi of the Solomon Islands and Papua-New Guinea (Osaka) 42 (1971)
 
 #### Original name
-null
+Paecilomyces ampullaris Matsush., 1971
 
 ### Remarks
 null

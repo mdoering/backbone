@@ -1,5 +1,4 @@
-Bulgaria fuscobadia (Rebent.) Fr. SPECIES
-=======
+# Bulgaria fuscobadia (Rebent.) Fr. SPECIES
 
 #### Status
 ACCEPTED

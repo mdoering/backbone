@@ -1,5 +1,4 @@
-Dermatocarpon fuscoatratum Jatta SPECIES
-=======
+# Dermatocarpon fuscoatratum Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cyclopus (Quél.) Barbier GENUS
-=======
+# Agrocybe Fayod GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. Sci. Nat. Saône-et-Loire, ser. 2 33: 131, 139 (1907)
+Annls Sci. Nat. , Bot. , sér. 7 9: 358 (1889)
 
 #### Original name
-null
+Agrocybe Fayod
 
 ### Remarks
 null

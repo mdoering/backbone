@@ -1,5 +1,4 @@
-Galerina subarctica A.H. Sm. & Singer SPECIES
-=======
+# Galerina subarctica A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

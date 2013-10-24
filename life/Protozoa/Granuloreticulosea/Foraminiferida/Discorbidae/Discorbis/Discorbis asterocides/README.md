@@ -1,5 +1,4 @@
-Discorbis asterocides Hao & Zeng SPECIES
-=======
+# Discorbis asterocides Hao & Zeng SPECIES
 
 #### Status
 ACCEPTED

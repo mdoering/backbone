@@ -1,5 +1,4 @@
-Sphaerella phyteumatis Jacz. SPECIES
-=======
+# Sphaerella phyteumatis Jacz. SPECIES
 
 #### Status
 ACCEPTED

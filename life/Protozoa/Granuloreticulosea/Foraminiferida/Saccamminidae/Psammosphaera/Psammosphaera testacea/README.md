@@ -1,5 +1,4 @@
-Psammosphaera testacea SPECIES
-=======
+# Psammosphaera testacea SPECIES
 
 #### Status
 ACCEPTED

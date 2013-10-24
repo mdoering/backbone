@@ -1,5 +1,4 @@
-Trichoderma aureoviride Rifai, 1969 SPECIES
-=======
+# Trichoderma aureoviride Rifai, 1969 SPECIES
 
 #### Status
 ACCEPTED

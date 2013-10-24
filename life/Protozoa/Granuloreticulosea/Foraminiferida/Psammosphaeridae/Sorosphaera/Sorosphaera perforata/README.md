@@ -1,5 +1,4 @@
-Sorosphaera perforata Stschedrina, 1939 SPECIES
-=======
+# Sorosphaera perforata Stschedrina, 1939 SPECIES
 
 #### Status
 ACCEPTED

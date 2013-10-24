@@ -1,5 +1,4 @@
-Entoloma domesticum (Murrill) Hesler SPECIES
-=======
+# Entoloma domesticum (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

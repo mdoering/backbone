@@ -1,5 +1,4 @@
-Sticta platyphylla var. platyphylla VARIETY
-=======
+# Sticta platyphylla Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta platyphylla var. platyphylla
+Sticta platyphylla Nyl.
 
 ### Remarks
 null

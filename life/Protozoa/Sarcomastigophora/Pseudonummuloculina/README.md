@@ -1,5 +1,4 @@
-Pseudonummuloculina Calvez, 1988 GENUS
-=======
+# Pseudonummuloculina Calvez, 1988 GENUS
 
 #### Status
 ACCEPTED

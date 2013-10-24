@@ -1,5 +1,4 @@
-Neocryptospora rickii Petr., 1959 SPECIES
-=======
+# Neocryptospora rickii Petr., 1959 SPECIES
 
 #### Status
 ACCEPTED

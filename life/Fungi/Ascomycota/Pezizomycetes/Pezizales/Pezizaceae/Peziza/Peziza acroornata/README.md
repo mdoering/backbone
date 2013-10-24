@@ -1,5 +1,4 @@
-Peziza acroornata Dougoud & J. Moravec SPECIES
-=======
+# Peziza acroornata Dougoud & J. Moravec SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus platypus Nees SPECIES
-=======
+# Agaricus platypus Nees SPECIES
 
 #### Status
 ACCEPTED

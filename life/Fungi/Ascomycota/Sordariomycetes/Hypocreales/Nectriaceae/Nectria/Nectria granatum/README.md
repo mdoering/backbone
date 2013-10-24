@@ -1,5 +1,4 @@
-Nectria granatum (Wallr.) Fuckel SPECIES
-=======
+# Nectria granatum (Wallr.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

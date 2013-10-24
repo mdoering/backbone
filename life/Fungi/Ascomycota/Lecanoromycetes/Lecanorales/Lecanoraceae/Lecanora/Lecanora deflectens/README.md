@@ -1,5 +1,4 @@
-Lecanora deflectens Nyl. SPECIES
-=======
+# Lecanora deflectens Nyl. SPECIES
 
 #### Status
 ACCEPTED

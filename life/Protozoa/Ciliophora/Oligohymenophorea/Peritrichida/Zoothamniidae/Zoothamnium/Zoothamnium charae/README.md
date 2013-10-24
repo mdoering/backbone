@@ -1,5 +1,4 @@
-Zoothamnium charae Dumas, 1930 SPECIES
-=======
+# Zoothamnium charae Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

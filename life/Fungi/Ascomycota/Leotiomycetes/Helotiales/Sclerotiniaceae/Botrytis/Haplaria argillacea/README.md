@@ -1,5 +1,4 @@
-Haplaria argillacea Bres. SPECIES
-=======
+# Haplaria argillacea Bres. SPECIES
 
 #### Status
 ACCEPTED

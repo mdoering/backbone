@@ -1,5 +1,4 @@
-Balladynastrum pusillimum Hansf. SPECIES
-=======
+# Balladynastrum pusillimum Hansf. SPECIES
 
 #### Status
 ACCEPTED

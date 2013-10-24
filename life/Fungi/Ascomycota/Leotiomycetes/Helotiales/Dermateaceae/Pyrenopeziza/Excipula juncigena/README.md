@@ -1,5 +1,4 @@
-Excipula juncigena P. Karst. SPECIES
-=======
+# Excipula juncigena P. Karst. SPECIES
 
 #### Status
 ACCEPTED

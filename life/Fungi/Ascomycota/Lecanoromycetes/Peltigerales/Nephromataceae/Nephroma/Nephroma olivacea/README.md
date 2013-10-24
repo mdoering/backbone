@@ -1,5 +1,4 @@
-Nephroma olivacea Mont. & Bosch SPECIES
-=======
+# Nephroma olivacea Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

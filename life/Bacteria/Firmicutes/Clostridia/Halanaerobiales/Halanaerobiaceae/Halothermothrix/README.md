@@ -1,5 +1,4 @@
-Halothermothrix Cayol, Ollivier, Patel, Prensier, Guezennec & Garcia, 1994 GENUS
-=======
+# Halothermothrix Cayol, Ollivier, Patel, Prensier, Guezennec & Garcia, 1994 GENUS
 
 #### Status
 ACCEPTED

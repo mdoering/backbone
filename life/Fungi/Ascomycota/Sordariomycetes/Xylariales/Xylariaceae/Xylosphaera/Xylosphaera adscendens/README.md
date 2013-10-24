@@ -1,5 +1,4 @@
-Xylosphaera adscendens (Fr.) Dennis SPECIES
-=======
+# Xylosphaera adscendens (Fr.) Dennis SPECIES
 
 #### Status
 ACCEPTED

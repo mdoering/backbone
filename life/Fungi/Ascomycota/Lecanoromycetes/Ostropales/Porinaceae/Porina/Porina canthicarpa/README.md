@@ -1,5 +1,4 @@
-Porina canthicarpa P. M. McCarthy SPECIES
-=======
+# Porina canthicarpa P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia nana Vain. SPECIES
-=======
+# Cladonia nana Vain. SPECIES
 
 #### Status
 ACCEPTED

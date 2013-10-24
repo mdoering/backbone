@@ -1,5 +1,4 @@
-Paratrichoconis biseptata Matsush. SPECIES
-=======
+# Paratrichoconis biseptata Matsush. SPECIES
 
 #### Status
 ACCEPTED

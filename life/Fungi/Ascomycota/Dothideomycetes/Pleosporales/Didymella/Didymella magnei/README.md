@@ -1,5 +1,4 @@
-Didymella magnei Feldmann, 1958 SPECIES
-=======
+# Didymella magnei Feldmann, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta physciicola SPECIES
-=======
+# Phyllosticta physciicola SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeriella gregaria Died. SPECIES
-=======
+# Aposphaeriella gregaria Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma croceum E. Horak, 1980 SPECIES
-=======
+# Entoloma croceum E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED

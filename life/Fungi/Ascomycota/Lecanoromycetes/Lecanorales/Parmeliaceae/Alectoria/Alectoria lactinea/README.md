@@ -1,5 +1,4 @@
-Alectoria lactinea Nyl. SPECIES
-=======
+# Alectoria lactinea Nyl. SPECIES
 
 #### Status
 ACCEPTED

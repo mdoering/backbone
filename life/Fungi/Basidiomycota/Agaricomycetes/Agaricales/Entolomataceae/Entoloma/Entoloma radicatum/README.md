@@ -1,5 +1,4 @@
-Entoloma radicatum Pegler SPECIES
-=======
+# Entoloma radicatum Pegler SPECIES
 
 #### Status
 ACCEPTED

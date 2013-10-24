@@ -1,5 +1,4 @@
-Helicomyces larviformis Speg. SPECIES
-=======
+# Helicomyces larviformis Speg. SPECIES
 
 #### Status
 ACCEPTED

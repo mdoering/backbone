@@ -1,5 +1,4 @@
-Inocybe vaccina Kühner, 1955 SPECIES
-=======
+# Inocybe vaccina Kühner, 1955 SPECIES
 
 #### Status
 ACCEPTED

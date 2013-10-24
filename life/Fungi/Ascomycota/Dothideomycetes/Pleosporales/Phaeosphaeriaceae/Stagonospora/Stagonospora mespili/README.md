@@ -1,5 +1,4 @@
-Stagonospora mespili (Westend.) Sacc. SPECIES
-=======
+# Stagonospora mespili (Westend.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

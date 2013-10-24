@@ -1,5 +1,4 @@
-Torula raffinosa F.C. Harrison SPECIES
-=======
+# Torula raffinosa F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalideopsis buckei Lücking, Sérus. & Vezda SPECIES
-=======
+# Gyalideopsis buckei Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

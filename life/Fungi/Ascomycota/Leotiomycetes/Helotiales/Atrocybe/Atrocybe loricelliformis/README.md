@@ -1,17 +1,16 @@
-Atrocybe loricellaeformis Velen. SPECIES
-=======
+# Atrocybe loricelliformis Velen., 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Opera Bot. Cech. 4: (1947)
 
 #### Original name
-Atrocybe loricellaeformis Velen.
+Atrocybe loricelliformis Velen., 1947
 
 ### Remarks
 null

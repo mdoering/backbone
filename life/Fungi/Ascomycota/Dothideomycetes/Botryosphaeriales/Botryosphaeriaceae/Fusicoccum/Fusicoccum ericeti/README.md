@@ -1,5 +1,4 @@
-Fusicoccum ericeti Sacc. SPECIES
-=======
+# Fusicoccum ericeti Sacc. SPECIES
 
 #### Status
 ACCEPTED

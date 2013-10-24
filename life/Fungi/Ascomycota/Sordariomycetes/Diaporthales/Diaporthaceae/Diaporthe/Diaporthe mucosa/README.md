@@ -1,5 +1,4 @@
-Diaporthe mucosa G. Winter ex Sacc. SPECIES
-=======
+# Diaporthe mucosa G. Winter ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

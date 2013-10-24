@@ -1,5 +1,4 @@
-Puccinia cryptostemmatis Petr. SPECIES
-=======
+# Puccinia cryptostemmatis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periacineta lacustris SPECIES
-=======
+# Periacineta lacustris SPECIES
 
 #### Status
 ACCEPTED

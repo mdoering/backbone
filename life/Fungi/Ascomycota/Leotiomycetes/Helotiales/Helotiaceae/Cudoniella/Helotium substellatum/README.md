@@ -1,5 +1,4 @@
-Helotium substellatum (Kühner) Redhead SPECIES
-=======
+# Helotium substellatum (Kühner) Redhead SPECIES
 
 #### Status
 ACCEPTED

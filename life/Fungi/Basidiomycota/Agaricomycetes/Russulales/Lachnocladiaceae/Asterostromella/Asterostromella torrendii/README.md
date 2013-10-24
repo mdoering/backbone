@@ -1,5 +1,4 @@
-Asterostromella torrendii Bres. SPECIES
-=======
+# Asterostromella torrendii Bres. SPECIES
 
 #### Status
 ACCEPTED

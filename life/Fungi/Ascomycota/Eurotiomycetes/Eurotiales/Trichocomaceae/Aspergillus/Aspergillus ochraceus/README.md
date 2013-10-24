@@ -1,17 +1,16 @@
-Aspergillus ochraceus var. microsporus Tirab. VARIETY
-=======
+# Aspergillus ochraceus G. Wilh., 1877 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. , Roma 7: 14 (1908)
+Inaugural Dissertation (Strassburg) 66 (1877)
 
 #### Original name
-Aspergillus ochraceus var. microsporus Tirab.
+Aspergillus ochraceus G. Wilh., 1877
 
 ### Remarks
 null

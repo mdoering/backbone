@@ -1,5 +1,4 @@
-Eurotium fuscum Preuss SPECIES
-=======
+# Eurotium fuscum Preuss SPECIES
 
 #### Status
 ACCEPTED

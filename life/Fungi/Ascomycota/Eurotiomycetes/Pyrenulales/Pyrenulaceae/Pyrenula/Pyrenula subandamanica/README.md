@@ -1,5 +1,4 @@
-Pyrenula subandamanica Upreti SPECIES
-=======
+# Pyrenula subandamanica Upreti SPECIES
 
 #### Status
 ACCEPTED

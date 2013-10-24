@@ -1,5 +1,4 @@
-Dothiorella aberrans Peck SPECIES
-=======
+# Dothiorella aberrans Peck SPECIES
 
 #### Status
 ACCEPTED

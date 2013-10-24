@@ -1,5 +1,4 @@
-Catillaria maingayana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria maingayana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

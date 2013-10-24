@@ -1,5 +1,4 @@
-Octosporella ornithocephala Döbbeler, 1980 SPECIES
-=======
+# Octosporella ornithocephala Döbbeler, 1980 SPECIES
 
 #### Status
 ACCEPTED

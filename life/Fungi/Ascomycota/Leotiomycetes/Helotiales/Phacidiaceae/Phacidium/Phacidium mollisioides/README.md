@@ -1,5 +1,4 @@
-Phacidium mollisioides Sacc. & Briard SPECIES
-=======
+# Phacidium mollisioides Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

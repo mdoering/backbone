@@ -1,5 +1,4 @@
-Xylaria ellipsospora Cooke & Massee SPECIES
-=======
+# Xylaria ellipsospora Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

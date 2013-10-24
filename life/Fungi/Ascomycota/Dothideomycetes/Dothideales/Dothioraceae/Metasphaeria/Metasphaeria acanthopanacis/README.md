@@ -1,5 +1,4 @@
-Metasphaeria acanthopanacis Kirschst. SPECIES
-=======
+# Metasphaeria acanthopanacis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

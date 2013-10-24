@@ -1,5 +1,4 @@
-Thelotrema glyphidellum Stirt. SPECIES
-=======
+# Thelotrema glyphidellum Stirt. SPECIES
 
 #### Status
 ACCEPTED

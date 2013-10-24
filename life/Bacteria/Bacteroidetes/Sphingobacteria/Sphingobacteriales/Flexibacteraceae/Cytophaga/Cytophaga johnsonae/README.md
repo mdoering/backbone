@@ -1,11 +1,10 @@
-Cytophaga johnsonii Stanier, 1957 SPECIES
-=======
+# Cytophaga johnsonae Stanier, 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Integrated Taxonomic Information System
 
 #### Published in
 null

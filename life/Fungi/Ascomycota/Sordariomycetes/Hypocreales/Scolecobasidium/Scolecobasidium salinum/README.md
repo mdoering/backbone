@@ -1,14 +1,13 @@
-Cercospora salina G.K. Sutherl., 1916 SPECIES
-=======
+# Scolecobasidium salinum (G.K. Sutherl.) M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+More Dematiaceous Hyphomycetes (Kew) 192 (1976)
 
 #### Original name
 Cercospora salina G.K. Sutherl., 1916

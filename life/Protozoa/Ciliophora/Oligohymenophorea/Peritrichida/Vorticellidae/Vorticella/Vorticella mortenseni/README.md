@@ -1,5 +1,4 @@
-Vorticella mortenseni Dons, 1922 SPECIES
-=======
+# Vorticella mortenseni Dons, 1922 SPECIES
 
 #### Status
 ACCEPTED

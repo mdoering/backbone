@@ -1,5 +1,4 @@
-Typhula carestiae Ces. SPECIES
-=======
+# Typhula carestiae Ces. SPECIES
 
 #### Status
 ACCEPTED

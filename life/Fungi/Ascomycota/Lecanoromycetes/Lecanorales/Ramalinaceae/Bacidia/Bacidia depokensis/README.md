@@ -1,5 +1,4 @@
-Bacidia depokensis Zahlbr. SPECIES
-=======
+# Bacidia depokensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius herculoides Bertault SPECIES
-=======
+# Cortinarius herculoides Bertault SPECIES
 
 #### Status
 ACCEPTED

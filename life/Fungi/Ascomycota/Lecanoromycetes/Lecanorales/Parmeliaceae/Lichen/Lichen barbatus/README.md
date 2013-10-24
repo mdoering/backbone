@@ -1,5 +1,4 @@
-Lichen barbatus L. SPECIES
-=======
+# Lichen barbatus L. SPECIES
 
 #### Status
 ACCEPTED

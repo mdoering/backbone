@@ -1,17 +1,16 @@
-Manginia Viala & Pacottet GENUS
-=======
+# Sphaceloma de Bary GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. hebd. Séanc. Acad. Sci. , Paris 139: 88 (1904)
+Ann. Oenol. 4: 165-167 (1874)
 
 #### Original name
-Manginia Viala & Pacottet
+Sphaceloma de Bary
 
 ### Remarks
 null

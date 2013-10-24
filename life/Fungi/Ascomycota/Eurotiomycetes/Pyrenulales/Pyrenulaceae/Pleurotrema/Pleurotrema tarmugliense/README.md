@@ -1,5 +1,4 @@
-Pleurotrema tarmugliense (Makhija & Patw.) D.D. Awasthi SPECIES
-=======
+# Pleurotrema tarmugliense (Makhija & Patw.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

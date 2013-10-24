@@ -1,5 +1,4 @@
-Vulcanisphaera gorgo Martin, 1972 SPECIES
-=======
+# Vulcanisphaera gorgo Martin, 1972 SPECIES
 
 #### Status
 ACCEPTED

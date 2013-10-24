@@ -1,5 +1,4 @@
-Tetragoniella Pascher, 1930 GENUS
-=======
+# Tetragoniella Pascher, 1930 GENUS
 
 #### Status
 ACCEPTED

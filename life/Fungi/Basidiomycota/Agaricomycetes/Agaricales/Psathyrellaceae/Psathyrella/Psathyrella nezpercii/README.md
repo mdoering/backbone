@@ -1,5 +1,4 @@
-Psathyrella nezpercii A.H. Sm. SPECIES
-=======
+# Psathyrella nezpercii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

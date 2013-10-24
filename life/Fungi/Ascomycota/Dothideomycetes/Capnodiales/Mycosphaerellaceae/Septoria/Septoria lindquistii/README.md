@@ -1,17 +1,16 @@
-Septoria linquistii Alippi SPECIES
-=======
+# Septoria lindquistii Alippi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revista de la Facultad de Agronomia, Universidad Nacional de La Plata 59(1-2): 14 (1983)
 
 #### Original name
-Septoria linquistii Alippi
+Septoria lindquistii Alippi
 
 ### Remarks
 null

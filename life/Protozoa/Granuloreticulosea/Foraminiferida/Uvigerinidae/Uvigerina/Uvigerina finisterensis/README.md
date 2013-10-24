@@ -1,5 +1,4 @@
-Uvigerina finisterensis Colom, 1952 SPECIES
-=======
+# Uvigerina finisterensis Colom, 1952 SPECIES
 
 #### Status
 ACCEPTED

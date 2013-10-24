@@ -1,5 +1,4 @@
-Bovista dakotensis (Brenckle) Kreisel SPECIES
-=======
+# Bovista dakotensis (Brenckle) Kreisel SPECIES
 
 #### Status
 ACCEPTED

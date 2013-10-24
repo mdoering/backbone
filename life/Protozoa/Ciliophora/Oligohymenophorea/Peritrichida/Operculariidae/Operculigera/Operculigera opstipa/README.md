@@ -1,5 +1,4 @@
-Operculigera opstipa Clamp, 1991 SPECIES
-=======
+# Operculigera opstipa Clamp, 1991 SPECIES
 
 #### Status
 ACCEPTED

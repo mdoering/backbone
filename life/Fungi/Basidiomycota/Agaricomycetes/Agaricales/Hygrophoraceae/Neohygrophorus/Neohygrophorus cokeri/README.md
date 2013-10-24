@@ -1,5 +1,4 @@
-Neohygrophorus cokeri (Hesler) Redhead, Ammirati, Norvell & M.T. Seidl SPECIES
-=======
+# Neohygrophorus cokeri (Hesler) Redhead, Ammirati, Norvell & M.T. Seidl SPECIES
 
 #### Status
 ACCEPTED

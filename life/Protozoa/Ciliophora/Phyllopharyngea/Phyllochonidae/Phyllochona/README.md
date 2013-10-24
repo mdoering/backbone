@@ -1,5 +1,4 @@
-Phyllochona Jankowski, 1972 GENUS
-=======
+# Phyllochona Jankowski, 1972 GENUS
 
 #### Status
 ACCEPTED

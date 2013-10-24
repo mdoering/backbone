@@ -1,5 +1,4 @@
-Stylatractus pluto (Haeckel, 1887) SPECIES
-=======
+# Stylatractus pluto (Haeckel, 1887) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Moniliger Letell. GENUS
-=======
+# Moniliger Letell. GENUS
 
 #### Status
 ACCEPTED

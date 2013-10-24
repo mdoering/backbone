@@ -1,5 +1,4 @@
-Coryneum eximium Sacc. SPECIES
-=======
+# Coryneum eximium Sacc. SPECIES
 
 #### Status
 ACCEPTED

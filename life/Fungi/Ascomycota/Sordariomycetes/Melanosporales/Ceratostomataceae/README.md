@@ -1,5 +1,4 @@
-Ceratostomataceae G. Winter FAMILY
-=======
+# Ceratostomataceae G. Winter FAMILY
 
 #### Status
 ACCEPTED

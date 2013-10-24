@@ -1,5 +1,4 @@
-Microglaena subcorallina Hasse SPECIES
-=======
+# Microglaena subcorallina Hasse SPECIES
 
 #### Status
 ACCEPTED

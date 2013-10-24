@@ -1,5 +1,4 @@
-Alveolina elliptica (Sowerby) SPECIES
-=======
+# Alveolina elliptica (Sowerby) SPECIES
 
 #### Status
 ACCEPTED

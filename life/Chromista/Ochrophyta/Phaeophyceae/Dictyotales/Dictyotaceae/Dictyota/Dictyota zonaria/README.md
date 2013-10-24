@@ -1,5 +1,4 @@
-Dictyota zonaria Poiret SPECIES
-=======
+# Dictyota zonaria Poiret SPECIES
 
 #### Status
 ACCEPTED

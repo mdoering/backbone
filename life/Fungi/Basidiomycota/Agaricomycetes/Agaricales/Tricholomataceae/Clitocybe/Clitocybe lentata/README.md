@@ -1,5 +1,4 @@
-Clitocybe lentata (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe lentata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

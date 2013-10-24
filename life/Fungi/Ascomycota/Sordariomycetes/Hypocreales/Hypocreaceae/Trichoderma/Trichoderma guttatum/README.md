@@ -1,5 +1,4 @@
-Trichoderma guttatum Alb. & Schwein. SPECIES
-=======
+# Trichoderma guttatum Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

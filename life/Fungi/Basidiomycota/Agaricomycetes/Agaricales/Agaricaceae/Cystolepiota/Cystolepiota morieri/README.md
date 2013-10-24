@@ -1,5 +1,4 @@
-Cystolepiota morieri (Gillet) Bon SPECIES
-=======
+# Cystolepiota morieri (Gillet) Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterococcus durans (ex Sherman & Wing, 1937) Collins et al., 1984 SPECIES
-=======
+# Enterococcus durans (ex Sherman & Wing, 1937) Collins et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

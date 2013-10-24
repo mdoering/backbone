@@ -1,5 +1,4 @@
-Hygrophorus subruber (Murrill) Murrill SPECIES
-=======
+# Hygrophorus subruber (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

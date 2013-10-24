@@ -1,5 +1,4 @@
-Candida labiduridarum S.O. Suh, N.H. Nguyen & M. Blackw., 2008 SPECIES
-=======
+# Candida labiduridarum S.O. Suh, N.H. Nguyen & M. Blackw., 2008 SPECIES
 
 #### Status
 ACCEPTED

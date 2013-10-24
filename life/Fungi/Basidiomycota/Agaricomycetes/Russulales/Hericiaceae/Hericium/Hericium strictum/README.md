@@ -1,5 +1,4 @@
-Hericium strictum Pers. SPECIES
-=======
+# Hericium strictum Pers. SPECIES
 
 #### Status
 ACCEPTED

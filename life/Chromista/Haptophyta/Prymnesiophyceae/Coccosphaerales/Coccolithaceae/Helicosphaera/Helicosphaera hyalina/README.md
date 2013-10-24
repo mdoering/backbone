@@ -1,5 +1,4 @@
-Helicosphaera hyalina Gaarder, 1970 SPECIES
-=======
+# Helicosphaera hyalina Gaarder, 1970 SPECIES
 
 #### Status
 ACCEPTED

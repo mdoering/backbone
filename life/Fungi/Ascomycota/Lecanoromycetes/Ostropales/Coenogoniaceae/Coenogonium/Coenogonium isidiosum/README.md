@@ -1,5 +1,4 @@
-Coenogonium isidiosum (Breuss) Rivas Plata, Lücking, Umaña & Chaves SPECIES
-=======
+# Coenogonium isidiosum (Breuss) Rivas Plata, Lücking, Umaña & Chaves SPECIES
 
 #### Status
 ACCEPTED

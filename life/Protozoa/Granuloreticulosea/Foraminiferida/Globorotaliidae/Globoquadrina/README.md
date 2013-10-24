@@ -1,5 +1,4 @@
-Globoquadrina Finlay, 1947 GENUS
-=======
+# Globoquadrina Finlay, 1947 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita floccocephala G.F. Atk. SPECIES
-=======
+# Amanita floccocephala G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria pedrosensis (Bubák & Gonz. Frag.) Petr. SPECIES
-=======
+# Botryosphaeria pedrosensis (Bubák & Gonz. Frag.) Petr. SPECIES
 
 #### Status
 ACCEPTED

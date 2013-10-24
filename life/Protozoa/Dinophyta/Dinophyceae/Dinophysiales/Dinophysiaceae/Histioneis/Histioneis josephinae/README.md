@@ -1,5 +1,4 @@
-Histioneis josephinae Kofoid & Michener, 1907 SPECIES
-=======
+# Histioneis josephinae Kofoid & Michener, 1907 SPECIES
 
 #### Status
 ACCEPTED

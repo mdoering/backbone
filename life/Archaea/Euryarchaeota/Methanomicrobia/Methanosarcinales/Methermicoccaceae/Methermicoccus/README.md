@@ -1,5 +1,4 @@
-Methermicoccus Cheng et al., 2007 GENUS
-=======
+# Methermicoccus Cheng et al., 2007 GENUS
 
 #### Status
 ACCEPTED

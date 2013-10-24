@@ -1,5 +1,4 @@
-Apocryptopharynx wardi (Small & Lynn, 1985) Foissner, 1996 SPECIES
-=======
+# Apocryptopharynx wardi (Small & Lynn, 1985) Foissner, 1996 SPECIES
 
 #### Status
 ACCEPTED

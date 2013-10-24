@@ -1,5 +1,4 @@
-Graphis parilis Kremp. SPECIES
-=======
+# Graphis parilis Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces aberrans Dietel SPECIES
-=======
+# Uromyces aberrans Dietel SPECIES
 
 #### Status
 ACCEPTED

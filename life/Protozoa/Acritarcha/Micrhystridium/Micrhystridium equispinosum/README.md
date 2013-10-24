@@ -1,5 +1,4 @@
-Micrhystridium equispinosum Turner, 1984 SPECIES
-=======
+# Micrhystridium equispinosum Turner, 1984 SPECIES
 
 #### Status
 ACCEPTED

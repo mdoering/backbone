@@ -1,14 +1,13 @@
-Dermocybe globuliformis (Bougher) Bougher & Trappe, 2002 SPECIES
-=======
+# Cortinarius globuliformis Bougher, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Australas. Mycol. 21(1): 2 (2002)
+in Bougher & Malajczuk, Trans. Br. mycol. Soc. 86(2): 301 (1986)
 
 #### Original name
 Cortinarius globuliformis Bougher, 1986

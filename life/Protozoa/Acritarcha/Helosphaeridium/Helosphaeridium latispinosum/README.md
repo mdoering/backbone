@@ -1,5 +1,4 @@
-Helosphaeridium latispinosum Lister, 1970 SPECIES
-=======
+# Helosphaeridium latispinosum Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stentor bilineatus Dumas, 1929 SPECIES
-=======
+# Stentor bilineatus Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

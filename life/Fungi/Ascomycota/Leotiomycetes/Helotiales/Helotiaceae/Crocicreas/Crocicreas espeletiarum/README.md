@@ -1,17 +1,16 @@
-Crocicreas espeletarum S.E. Carp. SPECIES
-=======
+# Crocicreas espeletiarum S.E. Carp. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 33: 103 (1981)
 
 #### Original name
-Crocicreas espeletarum S.E. Carp.
+Crocicreas espeletiarum S.E. Carp.
 
 ### Remarks
 null

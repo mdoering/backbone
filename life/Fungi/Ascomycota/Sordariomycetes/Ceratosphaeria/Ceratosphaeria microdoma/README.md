@@ -1,5 +1,4 @@
-Ceratosphaeria microdoma Ellis & Everh. SPECIES
-=======
+# Ceratosphaeria microdoma Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

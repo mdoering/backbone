@@ -1,5 +1,4 @@
-Alternaria readeri (G. Winter) Neerg. SPECIES
-=======
+# Alternaria readeri (G. Winter) Neerg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bryocladium amomi (Berk. & Broome) Kuntze SPECIES
-=======
+# Bryocladium amomi (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

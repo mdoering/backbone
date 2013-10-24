@@ -1,5 +1,4 @@
-Coccinistipes Yang & Cho, 2006 GENUS
-=======
+# Coccinistipes Yang & Cho, 2006 GENUS
 
 #### Status
 ACCEPTED

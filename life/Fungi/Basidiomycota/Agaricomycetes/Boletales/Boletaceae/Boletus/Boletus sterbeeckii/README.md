@@ -1,5 +1,4 @@
-Boletus sterbeeckii J. Kickx f. SPECIES
-=======
+# Boletus sterbeeckii J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

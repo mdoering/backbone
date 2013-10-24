@@ -1,8 +1,7 @@
-Eupenicillium ornatum Udagawa, 1968 SPECIES
-=======
+# Penicillium ornatum Udagawa, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Trans. Mycol. Soc. Japan 9: 49 (1968)
 
 #### Original name
-Eupenicillium ornatum Udagawa, 1968
+Penicillium ornatum Udagawa, 1968
 
 ### Remarks
 null

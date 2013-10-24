@@ -1,17 +1,16 @@
-Gibberella moniliformis var. subglutinans Wollenw. & Reinking VARIETY
-=======
+# Fusarium sacchari (E.J. Butler & Hafiz Khan) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cephalosporium-artige Schimmelpilze (Stuttgart) 218 (1971)
 
 #### Original name
-Gibberella moniliformis var. subglutinans Wollenw. & Reinking
+Cephalosporium sacchari E.J. Butler & Hafiz Khan, 1913
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Raciborskiomyces GENUS
-=======
+# Raciborskiomyces GENUS
 
 #### Status
 ACCEPTED

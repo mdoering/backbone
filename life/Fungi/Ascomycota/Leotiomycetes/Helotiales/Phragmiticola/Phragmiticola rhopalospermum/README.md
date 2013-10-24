@@ -1,14 +1,13 @@
-Odontotrema rhopalospermum Kirschst. SPECIES
-=======
+# Phragmiticola rhopalospermum (Kirschst.) Sherwood, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 36(5/6): 377 (1938)
+Mycotaxon 28(1): 170 (1987)
 
 #### Original name
 Odontotrema rhopalospermum Kirschst.

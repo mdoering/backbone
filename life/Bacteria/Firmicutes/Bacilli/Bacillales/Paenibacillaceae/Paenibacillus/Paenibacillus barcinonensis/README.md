@@ -1,5 +1,4 @@
-Paenibacillus barcinonensis Sánchez et al., 2005 SPECIES
-=======
+# Paenibacillus barcinonensis Sánchez et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

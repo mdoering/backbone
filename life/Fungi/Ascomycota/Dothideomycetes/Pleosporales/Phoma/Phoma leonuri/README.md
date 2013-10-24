@@ -1,5 +1,4 @@
-Phoma leonuri Letendre, 1884 SPECIES
-=======
+# Phoma leonuri Letendre, 1884 SPECIES
 
 #### Status
 ACCEPTED

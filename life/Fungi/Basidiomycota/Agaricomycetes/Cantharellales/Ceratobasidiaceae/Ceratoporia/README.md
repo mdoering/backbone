@@ -1,5 +1,4 @@
-Ceratoporia Ryvarden & de Meijer GENUS
-=======
+# Ceratoporia Ryvarden & de Meijer GENUS
 
 #### Status
 ACCEPTED

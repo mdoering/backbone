@@ -1,5 +1,4 @@
-Melanomma papillata Fuckel SPECIES
-=======
+# Melanomma papillata Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Medusula labyrinthica Tode SPECIES
-=======
+# Medusula labyrinthica Tode SPECIES
 
 #### Status
 ACCEPTED

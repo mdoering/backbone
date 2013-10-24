@@ -1,5 +1,4 @@
-Thermoflavimicrobium dichotomicum (Krasil'nikov and Agre, 1964) Yoon et al., 2005 SPECIES
-=======
+# Thermoflavimicrobium dichotomicum (Krasil'nikov and Agre, 1964) Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

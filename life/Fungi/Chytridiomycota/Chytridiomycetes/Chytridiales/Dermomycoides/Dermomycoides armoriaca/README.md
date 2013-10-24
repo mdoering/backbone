@@ -1,5 +1,4 @@
-Dermomycoides armoriaca R.A. Poiss. SPECIES
-=======
+# Dermomycoides armoriaca R.A. Poiss. SPECIES
 
 #### Status
 ACCEPTED

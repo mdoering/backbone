@@ -1,5 +1,4 @@
-Parmelia coccinea Lynge SPECIES
-=======
+# Parmelia coccinea Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hormiscium olivaceum (Corda) Bonord. SPECIES
-=======
+# Hormiscium olivaceum (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

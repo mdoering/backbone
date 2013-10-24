@@ -1,5 +1,4 @@
-Phomopsis plantaginis Kurbans. SPECIES
-=======
+# Phomopsis plantaginis Kurbans. SPECIES
 
 #### Status
 ACCEPTED

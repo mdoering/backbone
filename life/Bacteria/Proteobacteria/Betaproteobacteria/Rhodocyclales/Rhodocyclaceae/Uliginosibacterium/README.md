@@ -1,5 +1,4 @@
-Uliginosibacterium Weon et al., 2008 GENUS
-=======
+# Uliginosibacterium Weon et al., 2008 GENUS
 
 #### Status
 ACCEPTED

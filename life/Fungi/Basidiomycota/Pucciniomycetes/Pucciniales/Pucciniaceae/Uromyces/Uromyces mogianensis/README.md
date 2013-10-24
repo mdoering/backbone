@@ -1,5 +1,4 @@
-Uromyces mogianensis Bubák SPECIES
-=======
+# Uromyces mogianensis Bubák SPECIES
 
 #### Status
 ACCEPTED

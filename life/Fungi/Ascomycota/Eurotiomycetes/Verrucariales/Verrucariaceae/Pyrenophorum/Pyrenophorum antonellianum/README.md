@@ -1,5 +1,4 @@
-Pyrenophorum antonellianum (Bagl. & Carestia) Tomas. & Cif. SPECIES
-=======
+# Pyrenophorum antonellianum (Bagl. & Carestia) Tomas. & Cif. SPECIES
 
 #### Status
 ACCEPTED

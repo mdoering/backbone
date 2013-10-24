@@ -1,14 +1,13 @@
-Botryodiplodia evonymella (Traverso & Migliardi) Petr. SPECIES
-=======
+# Botryodiplodia euonymella (Traverso & Migliardi) Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 4(1-6): 25 (1950)
 
 #### Original name
 null

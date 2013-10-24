@@ -1,5 +1,4 @@
-Cercospora tortipes Davis SPECIES
-=======
+# Cercospora tortipes Davis SPECIES
 
 #### Status
 ACCEPTED

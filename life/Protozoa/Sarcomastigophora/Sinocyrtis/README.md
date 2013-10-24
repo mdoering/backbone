@@ -1,5 +1,4 @@
-Sinocyrtis Wang Naiwen, 1989 GENUS
-=======
+# Sinocyrtis Wang Naiwen, 1989 GENUS
 
 #### Status
 ACCEPTED

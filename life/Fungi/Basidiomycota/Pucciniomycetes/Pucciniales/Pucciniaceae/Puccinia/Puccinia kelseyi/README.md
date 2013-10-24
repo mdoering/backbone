@@ -1,5 +1,4 @@
-Puccinia kelseyi Syd. SPECIES
-=======
+# Puccinia kelseyi Syd. SPECIES
 
 #### Status
 ACCEPTED

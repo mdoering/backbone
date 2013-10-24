@@ -1,5 +1,4 @@
-Chaenothecopsis africana Sambo SPECIES
-=======
+# Chaenothecopsis africana Sambo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammula goniospora (Berk. & Broome) Sacc. SPECIES
-=======
+# Flammula goniospora (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

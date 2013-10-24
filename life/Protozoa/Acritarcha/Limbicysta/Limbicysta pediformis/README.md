@@ -1,5 +1,4 @@
-Limbicysta pediformis Marshall, 1989 SPECIES
-=======
+# Limbicysta pediformis Marshall, 1989 SPECIES
 
 #### Status
 ACCEPTED

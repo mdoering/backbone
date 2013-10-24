@@ -1,5 +1,4 @@
-Phoma biocellata Mont. SPECIES
-=======
+# Phoma biocellata Mont. SPECIES
 
 #### Status
 ACCEPTED

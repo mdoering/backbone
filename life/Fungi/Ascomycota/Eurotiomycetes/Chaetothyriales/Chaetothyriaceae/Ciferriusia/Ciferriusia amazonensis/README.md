@@ -1,5 +1,4 @@
-Ciferriusia amazonensis Bat., M.P. Herrera & Peres SPECIES
-=======
+# Ciferriusia amazonensis Bat., M.P. Herrera & Peres SPECIES
 
 #### Status
 ACCEPTED

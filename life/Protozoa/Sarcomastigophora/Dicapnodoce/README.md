@@ -1,5 +1,4 @@
-Dicapnodoce Tikhomirova, 1986 GENUS
-=======
+# Dicapnodoce Tikhomirova, 1986 GENUS
 
 #### Status
 ACCEPTED

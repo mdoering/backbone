@@ -1,5 +1,4 @@
-Dothiorella ladharensis S. Ahmad SPECIES
-=======
+# Dothiorella ladharensis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Byssomerulius Parmasto, 1967 GENUS
-=======
+# Byssomerulius Parmasto, 1967 GENUS
 
 #### Status
 ACCEPTED

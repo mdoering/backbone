@@ -1,5 +1,4 @@
-Schlosserina Hagn, 1954 GENUS
-=======
+# Schlosserina Hagn, 1954 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza polytrichina Pers. SPECIES
-=======
+# Peziza polytrichina Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum fonanonense Setchell & N.L. Gardner SPECIES
-=======
+# Sargassum fonanonense Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

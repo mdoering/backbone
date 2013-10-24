@@ -1,14 +1,13 @@
-Spermatodium planorbis (Ach.) Trevis. SPECIES
-=======
+# Arthopyrenia planorbis (Ach.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Phys. Hist. nat. Genève 30(3): 27 (1888)
 
 #### Original name
 null

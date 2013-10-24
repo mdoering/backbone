@@ -1,5 +1,4 @@
-Phaeoscypha pteridicola Raitviir & Schneller SPECIES
-=======
+# Phaeoscypha pteridicola Raitviir & Schneller SPECIES
 
 #### Status
 ACCEPTED

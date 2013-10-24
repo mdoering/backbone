@@ -1,5 +1,4 @@
-Gloeocystidiellum fistulatum (G. Cunn.) Boidin, 1966 SPECIES
-=======
+# Gloeocystidiellum fistulatum (G. Cunn.) Boidin, 1966 SPECIES
 
 #### Status
 ACCEPTED

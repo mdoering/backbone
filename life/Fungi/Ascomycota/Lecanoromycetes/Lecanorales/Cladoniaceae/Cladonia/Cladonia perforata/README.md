@@ -1,5 +1,4 @@
-Cladonia perforata A. Evans SPECIES
-=======
+# Cladonia perforata A. Evans SPECIES
 
 #### Status
 ACCEPTED

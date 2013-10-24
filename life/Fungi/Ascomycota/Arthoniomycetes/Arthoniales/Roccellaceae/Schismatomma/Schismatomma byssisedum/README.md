@@ -1,5 +1,4 @@
-Schismatomma byssisedum (Fée) Zahlbr. SPECIES
-=======
+# Schismatomma byssisedum (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

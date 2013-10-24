@@ -1,5 +1,4 @@
-Sirococcus inulae Politis SPECIES
-=======
+# Sirococcus inulae Politis SPECIES
 
 #### Status
 ACCEPTED

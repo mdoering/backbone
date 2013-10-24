@@ -1,5 +1,4 @@
-Phoma douglasii Oudem. SPECIES
-=======
+# Phoma douglasii Oudem. SPECIES
 
 #### Status
 ACCEPTED

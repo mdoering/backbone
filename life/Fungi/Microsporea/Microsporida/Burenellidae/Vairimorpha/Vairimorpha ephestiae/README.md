@@ -1,5 +1,4 @@
-Vairimorpha ephestiae SPECIES
-=======
+# Vairimorpha ephestiae SPECIES
 
 #### Status
 ACCEPTED

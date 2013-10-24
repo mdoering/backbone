@@ -1,5 +1,4 @@
-Trithigmostoma Jankowksi, 1967 GENUS
-=======
+# Trithigmostoma Jankowksi, 1967 GENUS
 
 #### Status
 ACCEPTED

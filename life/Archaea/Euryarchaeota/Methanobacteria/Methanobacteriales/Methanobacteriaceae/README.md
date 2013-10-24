@@ -1,5 +1,4 @@
-Methanobacteriaceae FAMILY
-=======
+# Methanobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

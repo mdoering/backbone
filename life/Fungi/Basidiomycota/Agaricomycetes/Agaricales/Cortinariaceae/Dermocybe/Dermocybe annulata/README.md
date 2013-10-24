@@ -1,5 +1,4 @@
-Dermocybe annulata Velen. SPECIES
-=======
+# Dermocybe annulata Velen. SPECIES
 
 #### Status
 ACCEPTED

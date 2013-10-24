@@ -1,5 +1,4 @@
-Thyridium tumidum (Pers.) Fuckel SPECIES
-=======
+# Thyridium tumidum (Pers.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

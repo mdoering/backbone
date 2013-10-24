@@ -1,5 +1,4 @@
-Schackoinella favoculcita Clark, 1994 SPECIES
-=======
+# Schackoinella favoculcita Clark, 1994 SPECIES
 
 #### Status
 ACCEPTED

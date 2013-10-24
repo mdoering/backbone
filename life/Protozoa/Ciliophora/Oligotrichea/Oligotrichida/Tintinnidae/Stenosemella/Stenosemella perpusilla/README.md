@@ -1,5 +1,4 @@
-Stenosemella perpusilla Hada, 1970 SPECIES
-=======
+# Stenosemella perpusilla Hada, 1970 SPECIES
 
 #### Status
 ACCEPTED

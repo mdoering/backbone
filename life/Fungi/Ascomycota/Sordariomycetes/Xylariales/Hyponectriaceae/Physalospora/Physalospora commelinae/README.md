@@ -1,5 +1,4 @@
-Physalospora commelinae Sawada SPECIES
-=======
+# Physalospora commelinae Sawada SPECIES
 
 #### Status
 ACCEPTED

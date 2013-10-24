@@ -1,5 +1,4 @@
-Keronopsis fontinalis Lepsi, 1926 SPECIES
-=======
+# Keronopsis fontinalis Lepsi, 1926 SPECIES
 
 #### Status
 ACCEPTED

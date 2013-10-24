@@ -1,5 +1,4 @@
-Phyllosticta pseudocapsici Roum. SPECIES
-=======
+# Phyllosticta pseudocapsici Roum. SPECIES
 
 #### Status
 ACCEPTED

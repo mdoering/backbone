@@ -1,5 +1,4 @@
-Glyphis neozelandica C.W. Dodge SPECIES
-=======
+# Glyphis neozelandica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

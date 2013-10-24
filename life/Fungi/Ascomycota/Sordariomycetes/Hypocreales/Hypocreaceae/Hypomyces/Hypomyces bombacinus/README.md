@@ -1,5 +1,4 @@
-Hypomyces bombacinus P. Karst. SPECIES
-=======
+# Hypomyces bombacinus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

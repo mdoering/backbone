@@ -1,5 +1,4 @@
-Pestalotia ficicola Rao SPECIES
-=======
+# Pestalotia ficicola Rao SPECIES
 
 #### Status
 ACCEPTED

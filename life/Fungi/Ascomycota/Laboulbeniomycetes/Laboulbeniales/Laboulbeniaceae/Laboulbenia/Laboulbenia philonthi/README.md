@@ -1,5 +1,4 @@
-Laboulbenia philonthi Thaxt. SPECIES
-=======
+# Laboulbenia philonthi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

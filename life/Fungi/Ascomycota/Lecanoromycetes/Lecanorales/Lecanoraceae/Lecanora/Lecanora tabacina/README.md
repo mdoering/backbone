@@ -1,5 +1,4 @@
-Lecanora tabacina (Ramond) Steud. SPECIES
-=======
+# Lecanora tabacina (Ramond) Steud. SPECIES
 
 #### Status
 ACCEPTED

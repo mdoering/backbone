@@ -1,5 +1,4 @@
-Lecidea prasinorufa Nyl. SPECIES
-=======
+# Lecidea prasinorufa Nyl. SPECIES
 
 #### Status
 ACCEPTED

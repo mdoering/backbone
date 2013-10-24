@@ -1,5 +1,4 @@
-Quinqueloculina funafutiensis SPECIES
-=======
+# Quinqueloculina funafutiensis SPECIES
 
 #### Status
 ACCEPTED

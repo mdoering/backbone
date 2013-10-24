@@ -1,5 +1,4 @@
-Ascochyta psammae Oudem., 1901 SPECIES
-=======
+# Ascochyta psammae Oudem., 1901 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohelotium strumosum (Ellis & Everh.) Sacc. SPECIES
-=======
+# Pseudohelotium strumosum (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

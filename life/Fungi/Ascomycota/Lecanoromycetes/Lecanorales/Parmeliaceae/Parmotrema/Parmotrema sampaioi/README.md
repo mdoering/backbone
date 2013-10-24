@@ -1,5 +1,4 @@
-Parmotrema sampaioi Paz-Berm. & Elix SPECIES
-=======
+# Parmotrema sampaioi Paz-Berm. & Elix SPECIES
 
 #### Status
 ACCEPTED

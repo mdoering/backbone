@@ -1,5 +1,4 @@
-Pharcidia arnoldiana Zopf SPECIES
-=======
+# Pharcidia arnoldiana Zopf SPECIES
 
 #### Status
 ACCEPTED

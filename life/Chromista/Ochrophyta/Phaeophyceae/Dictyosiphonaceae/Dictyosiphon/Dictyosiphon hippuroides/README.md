@@ -1,5 +1,4 @@
-Dictyosiphon hippuroides SPECIES
-=======
+# Dictyosiphon hippuroides SPECIES
 
 #### Status
 ACCEPTED

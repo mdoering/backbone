@@ -1,5 +1,4 @@
-Irpex atropurpureus Speg. SPECIES
-=======
+# Irpex atropurpureus Speg. SPECIES
 
 #### Status
 ACCEPTED

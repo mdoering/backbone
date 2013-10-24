@@ -1,5 +1,4 @@
-Gyalecta canariensis van den Boom & Vezda SPECIES
-=======
+# Gyalecta canariensis van den Boom & Vezda SPECIES
 
 #### Status
 ACCEPTED

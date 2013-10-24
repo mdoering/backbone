@@ -1,5 +1,4 @@
-Phylloporus purpureus var. purpureus VARIETY
-=======
+# Phylloporus purpureus (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Jard. Bot. État 21: 250 (1951)
 
 #### Original name
-Phylloporus purpureus var. purpureus
+Favolus purpureus Beeli
 
 ### Remarks
 null

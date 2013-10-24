@@ -1,5 +1,4 @@
-Hirsutella rubripunctata Samson, H.C. Evans & Hoekstra SPECIES
-=======
+# Hirsutella rubripunctata Samson, H.C. Evans & Hoekstra SPECIES
 
 #### Status
 ACCEPTED

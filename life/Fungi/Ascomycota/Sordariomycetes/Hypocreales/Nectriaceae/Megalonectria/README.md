@@ -1,5 +1,4 @@
-Megalonectria GENUS
-=======
+# Megalonectria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Idiocercus pirozynskii B. Sutton, 1967 SPECIES
-=======
+# Idiocercus pirozynskii B. Sutton, 1967 SPECIES
 
 #### Status
 ACCEPTED

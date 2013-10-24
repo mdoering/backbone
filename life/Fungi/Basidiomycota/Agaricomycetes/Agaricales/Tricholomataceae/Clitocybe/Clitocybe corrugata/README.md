@@ -1,5 +1,4 @@
-Clitocybe corrugata Petch SPECIES
-=======
+# Clitocybe corrugata Petch SPECIES
 
 #### Status
 ACCEPTED

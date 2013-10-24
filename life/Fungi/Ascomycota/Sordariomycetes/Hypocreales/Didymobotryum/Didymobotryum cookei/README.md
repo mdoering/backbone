@@ -1,5 +1,4 @@
-Didymobotryum cookei Sacc. SPECIES
-=======
+# Didymobotryum cookei Sacc. SPECIES
 
 #### Status
 ACCEPTED

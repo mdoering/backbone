@@ -1,5 +1,4 @@
-Xanthopyreniaceae Zahlbr. FAMILY
-=======
+# Xanthopyreniaceae Zahlbr. FAMILY
 
 #### Status
 ACCEPTED

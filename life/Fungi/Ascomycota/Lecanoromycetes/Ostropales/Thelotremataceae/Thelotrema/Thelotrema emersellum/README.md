@@ -1,5 +1,4 @@
-Thelotrema emersellum (Müll. Arg.) Vain. SPECIES
-=======
+# Thelotrema emersellum (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

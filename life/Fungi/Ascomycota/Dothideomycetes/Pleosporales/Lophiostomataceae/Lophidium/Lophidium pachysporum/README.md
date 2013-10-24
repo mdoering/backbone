@@ -1,5 +1,4 @@
-Lophidium pachysporum (Sacc.) Sacc. SPECIES
-=======
+# Lophidium pachysporum (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

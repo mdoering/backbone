@@ -1,5 +1,4 @@
-Autophagomyces mexicanus R.K. Benj. SPECIES
-=======
+# Autophagomyces mexicanus R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

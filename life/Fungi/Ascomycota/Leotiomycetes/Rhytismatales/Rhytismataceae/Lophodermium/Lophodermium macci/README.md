@@ -1,5 +1,4 @@
-Lophodermium macci Sokolski & Bérubé, 2004 SPECIES
-=======
+# Lophodermium macci Sokolski & Bérubé, 2004 SPECIES
 
 #### Status
 ACCEPTED

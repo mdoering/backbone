@@ -1,5 +1,4 @@
-Cyclidiidae Ehrenberg, 1838 FAMILY
-=======
+# Cyclidiidae Ehrenberg, 1838 FAMILY
 
 #### Status
 ACCEPTED

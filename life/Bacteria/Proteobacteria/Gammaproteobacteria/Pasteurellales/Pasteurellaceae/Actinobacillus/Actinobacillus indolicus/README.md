@@ -1,5 +1,4 @@
-Actinobacillus indolicus Møller et al., 1996 SPECIES
-=======
+# Actinobacillus indolicus Møller et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

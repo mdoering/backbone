@@ -1,5 +1,4 @@
-Involucrothele riparia (Hepp) Servít SPECIES
-=======
+# Involucrothele riparia (Hepp) Servít SPECIES
 
 #### Status
 ACCEPTED

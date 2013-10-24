@@ -1,5 +1,4 @@
-Podosporium biseptatum Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
-=======
+# Podosporium biseptatum Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

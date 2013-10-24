@@ -1,5 +1,4 @@
-Coleaspidium Haeckel, 1887 GENUS
-=======
+# Coleaspidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

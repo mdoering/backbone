@@ -1,5 +1,4 @@
-Lecanora discolorans SPECIES
-=======
+# Lecanora discolorans SPECIES
 
 #### Status
 ACCEPTED

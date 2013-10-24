@@ -1,5 +1,4 @@
-Lecania ochronigra J. Steiner SPECIES
-=======
+# Lecania ochronigra J. Steiner SPECIES
 
 #### Status
 ACCEPTED

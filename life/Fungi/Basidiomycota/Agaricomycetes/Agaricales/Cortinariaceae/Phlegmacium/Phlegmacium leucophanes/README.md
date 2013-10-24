@@ -1,5 +1,4 @@
-Phlegmacium leucophanes (P. Karst.) M.M. Moser SPECIES
-=======
+# Phlegmacium leucophanes (P. Karst.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

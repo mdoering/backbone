@@ -1,5 +1,4 @@
-Anthostomella urophora (Sacc. & Speg.) Rappaz SPECIES
-=======
+# Anthostomella urophora (Sacc. & Speg.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

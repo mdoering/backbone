@@ -1,5 +1,4 @@
-Lecidea subirrigata Malme SPECIES
-=======
+# Lecidea subirrigata Malme SPECIES
 
 #### Status
 ACCEPTED

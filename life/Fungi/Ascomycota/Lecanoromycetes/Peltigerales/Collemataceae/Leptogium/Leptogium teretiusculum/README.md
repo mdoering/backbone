@@ -1,14 +1,13 @@
-Collema teretiusculum Flörke ex Wallr. SPECIES
-=======
+# Leptogium teretiusculum (Flörke) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Fl. crypt. Germ. (Nürnberg) 3: 551 (1831)
+Ber. dt. bot. Ges. 2(Anhang. ): 26 (1892)
 
 #### Original name
 Collema teretiusculum Flörke ex Wallr.

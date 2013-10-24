@@ -1,5 +1,4 @@
-Mortierella reticulata Tiegh. & G. Le Monn., 1873 SPECIES
-=======
+# Mortierella reticulata Tiegh. & G. Le Monn., 1873 SPECIES
 
 #### Status
 ACCEPTED

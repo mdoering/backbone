@@ -1,5 +1,4 @@
-Buellia adarensis Darb. SPECIES
-=======
+# Buellia adarensis Darb. SPECIES
 
 #### Status
 ACCEPTED

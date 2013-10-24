@@ -1,5 +1,4 @@
-Preussia vulgare SPECIES
-=======
+# Preussia vulgare SPECIES
 
 #### Status
 ACCEPTED

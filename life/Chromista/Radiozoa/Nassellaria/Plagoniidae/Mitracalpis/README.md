@@ -1,5 +1,4 @@
-Mitracalpis GENUS
-=======
+# Mitracalpis GENUS
 
 #### Status
 ACCEPTED

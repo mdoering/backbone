@@ -1,5 +1,4 @@
-Sporormiella hololasia Doveri, 2005 SPECIES
-=======
+# Sporormiella hololasia Doveri, 2005 SPECIES
 
 #### Status
 ACCEPTED

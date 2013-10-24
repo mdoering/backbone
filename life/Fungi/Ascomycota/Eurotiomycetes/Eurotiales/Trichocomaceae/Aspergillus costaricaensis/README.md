@@ -1,5 +1,4 @@
-Aspergillus costaricaensis Samson & Frisvad SPECIES
-=======
+# Aspergillus costaricaensis Samson & Frisvad SPECIES
 
 #### Status
 ACCEPTED

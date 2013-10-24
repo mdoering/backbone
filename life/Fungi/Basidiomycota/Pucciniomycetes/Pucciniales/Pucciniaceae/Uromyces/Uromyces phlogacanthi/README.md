@@ -1,5 +1,4 @@
-Uromyces phlogacanthi Gäum. SPECIES
-=======
+# Uromyces phlogacanthi Gäum. SPECIES
 
 #### Status
 ACCEPTED

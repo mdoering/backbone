@@ -1,5 +1,4 @@
-Eupatellinella fastidiosa (McCulloch, 1977) SPECIES
-=======
+# Eupatellinella fastidiosa (McCulloch, 1977) SPECIES
 
 #### Status
 ACCEPTED

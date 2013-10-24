@@ -1,5 +1,4 @@
-Mycena sciola Kalchbr. SPECIES
-=======
+# Mycena sciola Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

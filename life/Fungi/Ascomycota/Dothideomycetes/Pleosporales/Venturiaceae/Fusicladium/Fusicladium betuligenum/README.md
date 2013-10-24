@@ -1,5 +1,4 @@
-Fusicladium betuligenum K. Schub. & U. Braun SPECIES
-=======
+# Fusicladium betuligenum K. Schub. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

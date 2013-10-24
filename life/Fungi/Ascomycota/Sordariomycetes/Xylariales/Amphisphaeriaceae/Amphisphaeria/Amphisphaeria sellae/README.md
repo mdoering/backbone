@@ -1,5 +1,4 @@
-Amphisphaeria sellae Bagnis SPECIES
-=======
+# Amphisphaeria sellae Bagnis SPECIES
 
 #### Status
 ACCEPTED

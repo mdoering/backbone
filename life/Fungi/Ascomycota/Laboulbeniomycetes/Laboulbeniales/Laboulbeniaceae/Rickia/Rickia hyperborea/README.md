@@ -1,5 +1,4 @@
-Rickia hyperborea Balazuc, 1988 SPECIES
-=======
+# Rickia hyperborea Balazuc, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycomicrothelia oleosa Aptroot SPECIES
-=======
+# Mycomicrothelia oleosa Aptroot SPECIES
 
 #### Status
 ACCEPTED

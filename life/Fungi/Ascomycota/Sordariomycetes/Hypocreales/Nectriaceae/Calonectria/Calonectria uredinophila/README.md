@@ -1,5 +1,4 @@
-Calonectria uredinophila Syd. & P. Syd. SPECIES
-=======
+# Calonectria uredinophila Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

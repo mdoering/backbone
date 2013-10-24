@@ -1,5 +1,4 @@
-Myxophora amerospora Döbbeler & Poelt, 1978 SPECIES
-=======
+# Myxophora amerospora Döbbeler & Poelt, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria marasmoides Berk. & Cooke SPECIES
-=======
+# Xylaria marasmoides Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Unguicularia hamatopilosa Graddon, 1986 SPECIES
-=======
+# Unguiculariopsis hamatopilosa (Graddon) W.Y. Zhuang, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 87(2): 333 (1986)
+Mycotaxon 32(1): 34 (1988)
 
 #### Original name
 Unguicularia hamatopilosa Graddon, 1986

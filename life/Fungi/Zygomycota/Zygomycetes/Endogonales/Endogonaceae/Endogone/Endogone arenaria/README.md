@@ -1,5 +1,4 @@
-Endogone arenaria Thaxt. SPECIES
-=======
+# Endogone arenaria Thaxt. SPECIES
 
 #### Status
 ACCEPTED

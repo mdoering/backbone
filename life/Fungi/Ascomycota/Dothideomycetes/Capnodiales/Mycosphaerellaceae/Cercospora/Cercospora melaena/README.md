@@ -1,5 +1,4 @@
-Cercospora melaena Syd. SPECIES
-=======
+# Cercospora melaena Syd. SPECIES
 
 #### Status
 ACCEPTED

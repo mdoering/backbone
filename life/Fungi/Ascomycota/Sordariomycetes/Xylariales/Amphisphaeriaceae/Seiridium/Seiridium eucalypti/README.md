@@ -1,5 +1,4 @@
-Seiridium eucalypti Nag Raj, 1993 SPECIES
-=======
+# Seiridium eucalypti Nag Raj, 1993 SPECIES
 
 #### Status
 ACCEPTED

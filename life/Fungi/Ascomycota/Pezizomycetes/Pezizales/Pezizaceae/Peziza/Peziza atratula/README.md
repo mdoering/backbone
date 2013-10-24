@@ -1,5 +1,4 @@
-Peziza atratula Nyl. SPECIES
-=======
+# Peziza atratula Nyl. SPECIES
 
 #### Status
 ACCEPTED

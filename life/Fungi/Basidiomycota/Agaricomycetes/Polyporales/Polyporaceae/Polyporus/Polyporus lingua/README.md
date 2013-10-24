@@ -1,5 +1,4 @@
-Polyporus lingua Zoll. SPECIES
-=======
+# Polyporus lingua Zoll. SPECIES
 
 #### Status
 ACCEPTED

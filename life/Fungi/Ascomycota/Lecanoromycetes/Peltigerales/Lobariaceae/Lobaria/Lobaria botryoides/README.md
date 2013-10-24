@@ -1,5 +1,4 @@
-Lobaria botryoides Yoshim. & Arv. SPECIES
-=======
+# Lobaria botryoides Yoshim. & Arv. SPECIES
 
 #### Status
 ACCEPTED

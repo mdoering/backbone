@@ -1,5 +1,4 @@
-Hypoxylon dispersa Bat. SPECIES
-=======
+# Hypoxylon dispersa Bat. SPECIES
 
 #### Status
 ACCEPTED

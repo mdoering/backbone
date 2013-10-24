@@ -1,5 +1,4 @@
-Clathrococcum intermedium (Allesch.) Keissl. SPECIES
-=======
+# Clathrococcum intermedium (Allesch.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

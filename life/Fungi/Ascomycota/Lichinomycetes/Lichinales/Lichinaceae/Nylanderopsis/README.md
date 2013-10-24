@@ -1,5 +1,4 @@
-Nylanderopsis GENUS
-=======
+# Nylanderopsis GENUS
 
 #### Status
 ACCEPTED

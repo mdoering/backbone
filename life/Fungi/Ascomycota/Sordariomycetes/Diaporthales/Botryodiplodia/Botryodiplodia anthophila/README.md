@@ -1,5 +1,4 @@
-Botryodiplodia anthophila (Sacc.) Petr. SPECIES
-=======
+# Botryodiplodia anthophila (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

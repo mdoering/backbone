@@ -1,14 +1,13 @@
-Uredo crotonis Henn., 1895 SPECIES
-=======
+# Aeciure crotonis (Henn.) Buriticá & J.F. Hennen, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 34: 99 (1895)
+Revta Acad. colomb. cienc. exact. fís. nat. 19(no. 72): 49 (1994)
 
 #### Original name
 Uredo crotonis Henn., 1895

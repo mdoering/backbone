@@ -1,5 +1,4 @@
-Phoma prunellae I.E. Brezhnev SPECIES
-=======
+# Phoma prunellae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

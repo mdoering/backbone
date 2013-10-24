@@ -1,5 +1,4 @@
-Naucoria spegazzinii Sacc. & P. Syd. SPECIES
-=======
+# Naucoria spegazzinii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Torulopsis fumaginea (Speg.) Speg., 1918 SPECIES
-=======
+# Torulopsiella fumaginea (Speg.) Bender, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 24(4): 411 (1932)
 
 #### Original name
-null
+Torula fumaginea Speg., 1910
 
 ### Remarks
 null

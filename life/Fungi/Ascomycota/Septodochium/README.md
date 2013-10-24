@@ -1,5 +1,4 @@
-Septodochium Matsush. GENUS
-=======
+# Septodochium Matsush. GENUS
 
 #### Status
 ACCEPTED

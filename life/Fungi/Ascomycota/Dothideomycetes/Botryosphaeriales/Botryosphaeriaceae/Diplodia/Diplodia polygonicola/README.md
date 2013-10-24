@@ -1,5 +1,4 @@
-Diplodia polygonicola Peck SPECIES
-=======
+# Diplodia polygonicola Peck SPECIES
 
 #### Status
 ACCEPTED

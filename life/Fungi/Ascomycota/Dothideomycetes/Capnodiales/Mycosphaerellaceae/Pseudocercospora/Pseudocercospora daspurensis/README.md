@@ -1,5 +1,4 @@
-Pseudocercospora daspurensis (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora daspurensis (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

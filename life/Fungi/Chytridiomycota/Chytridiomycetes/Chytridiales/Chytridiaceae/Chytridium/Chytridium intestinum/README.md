@@ -1,5 +1,4 @@
-Chytridium intestinum A. Braun SPECIES
-=======
+# Chytridium intestinum A. Braun SPECIES
 
 #### Status
 ACCEPTED

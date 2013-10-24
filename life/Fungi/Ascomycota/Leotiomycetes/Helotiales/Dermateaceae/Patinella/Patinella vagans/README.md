@@ -1,5 +1,4 @@
-Patinella vagans Ellis & Everh. SPECIES
-=======
+# Patinella vagans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

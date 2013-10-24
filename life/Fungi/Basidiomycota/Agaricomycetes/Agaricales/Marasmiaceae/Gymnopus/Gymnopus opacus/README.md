@@ -1,5 +1,4 @@
-Gymnopus opacus (Berk. & M.A. Curtis) J.L. Mata & R.H. Petersen SPECIES
-=======
+# Gymnopus opacus (Berk. & M.A. Curtis) J.L. Mata & R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

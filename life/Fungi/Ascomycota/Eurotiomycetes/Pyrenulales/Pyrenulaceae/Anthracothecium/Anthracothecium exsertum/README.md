@@ -1,5 +1,4 @@
-Anthracothecium exsertum (Kremp.) Müll. Arg. SPECIES
-=======
+# Anthracothecium exsertum (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

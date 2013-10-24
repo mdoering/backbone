@@ -1,5 +1,4 @@
-Rhabdolithus anthophorus Deflandre SPECIES
-=======
+# Rhabdolithus anthophorus Deflandre SPECIES
 
 #### Status
 ACCEPTED

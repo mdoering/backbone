@@ -1,5 +1,4 @@
-Placynthium triseptatum (Nyl.) Vain. SPECIES
-=======
+# Placynthium triseptatum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Theciopeltis GENUS
-=======
+# Theciopeltis GENUS
 
 #### Status
 ACCEPTED

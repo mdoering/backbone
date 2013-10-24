@@ -1,5 +1,4 @@
-Helvella birretum Krombh. SPECIES
-=======
+# Helvella birretum Krombh. SPECIES
 
 #### Status
 ACCEPTED

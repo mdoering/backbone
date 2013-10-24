@@ -1,5 +1,4 @@
-Asterina sawadai B. Song, 2004 SPECIES
-=======
+# Asterina sawadai B. Song, 2004 SPECIES
 
 #### Status
 ACCEPTED

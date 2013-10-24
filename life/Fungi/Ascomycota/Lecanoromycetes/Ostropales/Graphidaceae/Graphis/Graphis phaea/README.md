@@ -1,5 +1,4 @@
-Graphis phaea (Ach.) Spreng. SPECIES
-=======
+# Graphis phaea (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

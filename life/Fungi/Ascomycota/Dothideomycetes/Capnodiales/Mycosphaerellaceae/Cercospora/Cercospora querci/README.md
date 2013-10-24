@@ -1,5 +1,4 @@
-Cercospora querci var. querci VARIETY
-=======
+# Cercospora querci Chupp SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monograph of Cercospora 233 (1954)
 
 #### Original name
-Cercospora querci var. querci
+Cercospora querci Chupp
 
 ### Remarks
 null

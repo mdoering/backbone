@@ -1,5 +1,4 @@
-Ramboldia subcinnabarina (Tønsberg) Kalb, Lumbsch & Elix SPECIES
-=======
+# Ramboldia subcinnabarina (Tønsberg) Kalb, Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

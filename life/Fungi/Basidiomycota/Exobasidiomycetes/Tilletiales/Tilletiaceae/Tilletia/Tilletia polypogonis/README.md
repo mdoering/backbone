@@ -1,5 +1,4 @@
-Tilletia polypogonis Vánky & N.D. Sharma, 1994 SPECIES
-=======
+# Tilletia polypogonis Vánky & N.D. Sharma, 1994 SPECIES
 
 #### Status
 ACCEPTED

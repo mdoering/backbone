@@ -1,5 +1,4 @@
-Stagonospora cornuligera Speg. SPECIES
-=======
+# Stagonospora cornuligera Speg. SPECIES
 
 #### Status
 ACCEPTED

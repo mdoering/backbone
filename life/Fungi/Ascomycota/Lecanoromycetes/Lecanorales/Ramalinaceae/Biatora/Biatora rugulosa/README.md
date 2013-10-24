@@ -1,5 +1,4 @@
-Biatora rugulosa Hepp SPECIES
-=======
+# Biatora rugulosa Hepp SPECIES
 
 #### Status
 ACCEPTED

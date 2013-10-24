@@ -1,17 +1,16 @@
-Parmeliella saubinetii f. saubinetii FORM
-=======
+# Vahliella saubinetii (Mont.) P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 40(3): 224 (2008)
 
 #### Original name
-Parmeliella saubinetii f. saubinetii
+Parmelia saubinetii Mont.
 
 ### Remarks
 null

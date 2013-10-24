@@ -1,5 +1,4 @@
-Boletus sutorius Scop. SPECIES
-=======
+# Boletus sutorius Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita subvirginiana (Murrill) Murrill SPECIES
-=======
+# Amanita subvirginiana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

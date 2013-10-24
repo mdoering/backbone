@@ -1,5 +1,4 @@
-Dacrymyces roseotinctus f. roseotinctus FORM
-=======
+# Dacrymyces roseotinctus Lloyd SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 7(70): 1229 (1923)
 
 #### Original name
-Dacrymyces roseotinctus f. roseotinctus
+Dacrymyces roseotinctus Lloyd
 
 ### Remarks
 null

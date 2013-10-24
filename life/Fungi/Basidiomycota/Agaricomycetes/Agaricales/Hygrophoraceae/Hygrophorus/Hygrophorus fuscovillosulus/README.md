@@ -1,5 +1,4 @@
-Hygrophorus fuscovillosulus S. Imai SPECIES
-=======
+# Hygrophorus fuscovillosulus S. Imai SPECIES
 
 #### Status
 ACCEPTED

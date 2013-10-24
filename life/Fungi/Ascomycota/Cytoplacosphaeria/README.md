@@ -1,5 +1,4 @@
-Cytoplacosphaeria Petr. GENUS
-=======
+# Cytoplacosphaeria Petr. GENUS
 
 #### Status
 ACCEPTED

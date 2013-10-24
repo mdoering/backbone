@@ -1,5 +1,4 @@
-Psora compacta (Nyl.) C.W. Dodge SPECIES
-=======
+# Psora compacta (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ginanniella schizocaulon (Ces.) Ulbr. SPECIES
-=======
+# Ginanniella schizocaulon (Ces.) Ulbr. SPECIES
 
 #### Status
 ACCEPTED

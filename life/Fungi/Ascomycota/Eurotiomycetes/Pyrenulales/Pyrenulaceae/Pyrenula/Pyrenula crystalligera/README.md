@@ -1,5 +1,4 @@
-Pyrenula crystalligera H. Magn. SPECIES
-=======
+# Pyrenula crystalligera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

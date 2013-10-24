@@ -1,14 +1,13 @@
-Hexacontidium Wesenberg-Lund, 1904 GENUS
-=======
+# Hexacontium Haeckel, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Résult. Conseil Int. Mer. 1903-04, No. 2 (D), 68.
+Jena. Z. , 15, 452.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Amyloodinium E.Brown & Hovasse, 1946 GENUS
-=======
+# Amyloodinium E.Brown & Hovasse, 1946 GENUS
 
 #### Status
 ACCEPTED

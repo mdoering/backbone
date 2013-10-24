@@ -1,5 +1,4 @@
-Pseudobaeospora defibulata Singer SPECIES
-=======
+# Pseudobaeospora defibulata Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia xylogena (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Arthonia xylogena (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

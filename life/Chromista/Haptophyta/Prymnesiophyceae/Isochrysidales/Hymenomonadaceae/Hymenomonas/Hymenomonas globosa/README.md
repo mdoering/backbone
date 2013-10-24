@@ -1,5 +1,4 @@
-Hymenomonas globosa (Magne) Gayral & Fresnel, 1976 SPECIES
-=======
+# Hymenomonas globosa (Magne) Gayral & Fresnel, 1976 SPECIES
 
 #### Status
 ACCEPTED

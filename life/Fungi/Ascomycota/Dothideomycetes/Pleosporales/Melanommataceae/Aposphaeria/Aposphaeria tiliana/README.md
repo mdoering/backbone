@@ -1,5 +1,4 @@
-Aposphaeria tiliana Gucevic SPECIES
-=======
+# Aposphaeria tiliana Gucevic SPECIES
 
 #### Status
 ACCEPTED

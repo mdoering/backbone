@@ -1,5 +1,4 @@
-Echinoplaca vezdana Lücking & Kalb SPECIES
-=======
+# Echinoplaca vezdana Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

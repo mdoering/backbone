@@ -1,5 +1,4 @@
-Septoria linosyris Hollós SPECIES
-=======
+# Septoria linosyris Hollós SPECIES
 
 #### Status
 ACCEPTED

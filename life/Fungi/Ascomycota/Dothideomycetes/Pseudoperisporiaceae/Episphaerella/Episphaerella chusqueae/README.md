@@ -1,5 +1,4 @@
-Episphaerella chusqueae (Henn.) M.L. Farr SPECIES
-=======
+# Episphaerella chusqueae (Henn.) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

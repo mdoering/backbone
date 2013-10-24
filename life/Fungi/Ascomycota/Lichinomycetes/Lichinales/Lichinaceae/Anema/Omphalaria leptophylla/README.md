@@ -1,5 +1,4 @@
-Omphalaria leptophylla Tuck. SPECIES
-=======
+# Omphalaria leptophylla Tuck. SPECIES
 
 #### Status
 ACCEPTED

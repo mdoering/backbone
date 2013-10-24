@@ -1,5 +1,4 @@
-Eutypella crataegi Berl. SPECIES
-=======
+# Eutypella crataegi Berl. SPECIES
 
 #### Status
 ACCEPTED

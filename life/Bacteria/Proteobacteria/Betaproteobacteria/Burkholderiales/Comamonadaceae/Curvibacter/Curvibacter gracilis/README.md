@@ -1,5 +1,4 @@
-Curvibacter gracilis Ding & Yokota, 2004 SPECIES
-=======
+# Curvibacter gracilis Ding & Yokota, 2004 SPECIES
 
 #### Status
 ACCEPTED

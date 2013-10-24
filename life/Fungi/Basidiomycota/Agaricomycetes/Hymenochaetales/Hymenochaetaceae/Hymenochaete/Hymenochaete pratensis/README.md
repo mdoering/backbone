@@ -1,5 +1,4 @@
-Hymenochaete pratensis Viégas, 1945 SPECIES
-=======
+# Hymenochaete pratensis Viégas, 1945 SPECIES
 
 #### Status
 ACCEPTED

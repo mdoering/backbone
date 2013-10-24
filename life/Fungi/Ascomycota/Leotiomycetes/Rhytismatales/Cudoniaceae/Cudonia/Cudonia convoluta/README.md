@@ -1,5 +1,4 @@
-Cudonia convoluta Yasuda SPECIES
-=======
+# Cudonia convoluta Yasuda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleosporium violae Cummins SPECIES
-=======
+# Coleosporium violae Cummins SPECIES
 
 #### Status
 ACCEPTED

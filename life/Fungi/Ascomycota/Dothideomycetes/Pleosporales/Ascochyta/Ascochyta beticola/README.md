@@ -1,5 +1,4 @@
-Ascochyta beticola Prill. & Delacr. SPECIES
-=======
+# Ascochyta beticola Prill. & Delacr. SPECIES
 
 #### Status
 ACCEPTED

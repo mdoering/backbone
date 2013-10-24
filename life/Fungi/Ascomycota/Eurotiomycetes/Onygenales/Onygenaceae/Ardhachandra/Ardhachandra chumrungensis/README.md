@@ -1,5 +1,4 @@
-Ardhachandra chumrungensis (B. Sutton) Keates & Carris SPECIES
-=======
+# Ardhachandra chumrungensis (B. Sutton) Keates & Carris SPECIES
 
 #### Status
 ACCEPTED

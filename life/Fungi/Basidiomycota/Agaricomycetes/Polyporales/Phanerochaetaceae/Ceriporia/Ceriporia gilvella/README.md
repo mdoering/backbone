@@ -1,5 +1,4 @@
-Ceriporia gilvella (Pilát) Bondartsev SPECIES
-=======
+# Ceriporia gilvella (Pilát) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

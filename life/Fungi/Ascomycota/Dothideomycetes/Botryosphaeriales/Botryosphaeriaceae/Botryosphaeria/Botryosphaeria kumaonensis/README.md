@@ -1,5 +1,4 @@
-Botryosphaeria kumaonensis A.J. Roy SPECIES
-=======
+# Botryosphaeria kumaonensis A.J. Roy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalideopsis africana Kalb & Vezda SPECIES
-=======
+# Gyalideopsis africana Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza erumpens Rehm SPECIES
-=======
+# Pyrenopeziza erumpens Rehm SPECIES
 
 #### Status
 ACCEPTED

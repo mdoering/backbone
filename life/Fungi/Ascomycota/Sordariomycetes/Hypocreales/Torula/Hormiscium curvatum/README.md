@@ -1,5 +1,4 @@
-Hormiscium curvatum var. curvatum VARIETY
-=======
+# Hormiscium curvatum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 4: 265 (1886)
 
 #### Original name
-Hormiscium curvatum var. curvatum
+Torula curvata Peck
 
 ### Remarks
 null

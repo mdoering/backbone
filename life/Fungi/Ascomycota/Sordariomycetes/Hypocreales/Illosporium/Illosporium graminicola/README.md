@@ -1,5 +1,4 @@
-Illosporium graminicola Speg. SPECIES
-=======
+# Illosporium graminicola Speg. SPECIES
 
 #### Status
 ACCEPTED

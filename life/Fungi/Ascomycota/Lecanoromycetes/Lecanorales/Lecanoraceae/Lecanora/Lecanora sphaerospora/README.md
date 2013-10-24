@@ -1,17 +1,16 @@
-Placodium grandinosum Müll. Arg. SPECIES
-=======
+# Lecanora sphaerospora Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 1: 34 (1893)
+Hedwigia 31: 196 (1892)
 
 #### Original name
-Placodium grandinosum Müll. Arg.
+Lecanora sphaerospora Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Marasmius berteroi (Lév.) Murrill SPECIES
-=======
+# Marasmius berteroi (Lév.) Murrill SPECIES
 
 #### Status
 ACCEPTED

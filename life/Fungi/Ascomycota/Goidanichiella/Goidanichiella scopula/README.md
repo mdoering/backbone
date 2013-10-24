@@ -1,5 +1,4 @@
-Goidanichiella scopula (Goid.) G.L. Barron, 1968 SPECIES
-=======
+# Goidanichiella scopula (Goid.) G.L. Barron, 1968 SPECIES
 
 #### Status
 ACCEPTED

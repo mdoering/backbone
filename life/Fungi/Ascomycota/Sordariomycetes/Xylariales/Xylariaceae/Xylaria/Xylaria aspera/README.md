@@ -1,5 +1,4 @@
-Xylaria aspera Massee SPECIES
-=======
+# Xylaria aspera Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium brassicicola Sawada, 1959 SPECIES
-=======
+# Cladosporium brassicicola Sawada, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyophyllum langei Singer SPECIES
-=======
+# Lyophyllum langei Singer SPECIES
 
 #### Status
 ACCEPTED

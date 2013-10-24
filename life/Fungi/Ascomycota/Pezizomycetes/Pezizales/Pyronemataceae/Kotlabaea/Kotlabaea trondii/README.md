@@ -1,5 +1,4 @@
-Kotlabaea trondii Benkert & Kristiansen SPECIES
-=======
+# Kotlabaea trondii Benkert & Kristiansen SPECIES
 
 #### Status
 ACCEPTED

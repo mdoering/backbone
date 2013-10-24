@@ -1,5 +1,4 @@
-Hebeloma albomarginatum Hesler SPECIES
-=======
+# Hebeloma albomarginatum Hesler SPECIES
 
 #### Status
 ACCEPTED

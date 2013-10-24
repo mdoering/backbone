@@ -1,5 +1,4 @@
-Leptosphaeria pandanicola Sawada SPECIES
-=======
+# Leptosphaeria pandanicola Sawada SPECIES
 
 #### Status
 ACCEPTED

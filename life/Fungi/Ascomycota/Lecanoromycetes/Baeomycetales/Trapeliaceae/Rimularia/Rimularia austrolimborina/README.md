@@ -1,5 +1,4 @@
-Rimularia austrolimborina Coppins & Fryday SPECIES
-=======
+# Rimularia austrolimborina Coppins & Fryday SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epidochium petiolorum Kellerm. & Fautrey SPECIES
-=======
+# Epidochium petiolorum Kellerm. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

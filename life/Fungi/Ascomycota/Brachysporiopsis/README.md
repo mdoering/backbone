@@ -1,5 +1,4 @@
-Brachysporiopsis Yanna, W.H. Ho & K.D. Hyde GENUS
-=======
+# Brachysporiopsis Yanna, W.H. Ho & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

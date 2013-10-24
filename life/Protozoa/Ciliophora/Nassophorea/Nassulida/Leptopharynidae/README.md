@@ -1,5 +1,4 @@
-Leptopharynidae FAMILY
-=======
+# Leptopharynidae FAMILY
 
 #### Status
 ACCEPTED

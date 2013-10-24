@@ -1,5 +1,4 @@
-Filaspora princeps (Berk. & Broome) Kuntze SPECIES
-=======
+# Filaspora princeps (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

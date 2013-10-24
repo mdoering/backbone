@@ -1,8 +1,7 @@
-Phyllosticta volkarti Sacc. SPECIES
-=======
+# Phyllosticta volkartii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta volkarti Sacc.
+Phyllosticta volkartii Sacc.
 
 ### Remarks
 null

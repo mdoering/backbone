@@ -1,5 +1,4 @@
-Sterrebekia geastri Link SPECIES
-=======
+# Sterrebekia geastri Link SPECIES
 
 #### Status
 ACCEPTED

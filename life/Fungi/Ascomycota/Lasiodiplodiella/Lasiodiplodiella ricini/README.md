@@ -1,5 +1,4 @@
-Lasiodiplodiella ricini (Sacc.) Zambett. SPECIES
-=======
+# Lasiodiplodiella ricini (Sacc.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus scandiccinus Scop. SPECIES
-=======
+# Agaricus scandiccinus Scop. SPECIES
 
 #### Status
 ACCEPTED

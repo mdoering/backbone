@@ -1,5 +1,4 @@
-Gyratylium GENUS
-=======
+# Gyratylium GENUS
 
 #### Status
 ACCEPTED

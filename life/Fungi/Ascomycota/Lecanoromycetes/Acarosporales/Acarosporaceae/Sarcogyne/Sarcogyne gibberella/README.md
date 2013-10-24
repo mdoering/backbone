@@ -1,5 +1,4 @@
-Sarcogyne gibberella (Nyl.) H. Magn. SPECIES
-=======
+# Sarcogyne gibberella (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

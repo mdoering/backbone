@@ -1,5 +1,4 @@
-Montagnella Speg. GENUS
-=======
+# Montagnella Speg. GENUS
 
 #### Status
 ACCEPTED

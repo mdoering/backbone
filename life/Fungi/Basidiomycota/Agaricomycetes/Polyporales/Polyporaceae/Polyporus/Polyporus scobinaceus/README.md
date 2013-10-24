@@ -1,5 +1,4 @@
-Polyporus scobinaceus Berk. SPECIES
-=======
+# Polyporus scobinaceus Berk. SPECIES
 
 #### Status
 ACCEPTED

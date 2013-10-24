@@ -1,5 +1,4 @@
-Planopolyspora Petrolini et al., 1993 GENUS
-=======
+# Planopolyspora Petrolini et al., 1993 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella dryobalonopis Srivastava {?} SPECIES
-=======
+# Aplosporella dryobalonopis Srivastava {?} SPECIES
 
 #### Status
 ACCEPTED

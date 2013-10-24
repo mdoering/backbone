@@ -1,5 +1,4 @@
-Cantharellus persicinus R.H. Petersen, 1986 SPECIES
-=======
+# Cantharellus persicinus R.H. Petersen, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia tanii Sipman SPECIES
-=======
+# Ocellularia tanii Sipman SPECIES
 
 #### Status
 ACCEPTED

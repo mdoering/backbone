@@ -1,5 +1,4 @@
-Hendersonia discosioides Ellis & Dearn. SPECIES
-=======
+# Hendersonia discosioides Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

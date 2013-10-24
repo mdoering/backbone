@@ -1,5 +1,4 @@
-Anisomeridium complanatum (Makhija & Patw.) R.C. Harris SPECIES
-=======
+# Anisomeridium complanatum (Makhija & Patw.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isaria virescens Elenkin & A.L. Danilov SPECIES
-=======
+# Isaria virescens Elenkin & A.L. Danilov SPECIES
 
 #### Status
 ACCEPTED

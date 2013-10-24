@@ -1,5 +1,4 @@
-Ramularia fragariae Peck SPECIES
-=======
+# Ramularia fragariae Peck SPECIES
 
 #### Status
 ACCEPTED

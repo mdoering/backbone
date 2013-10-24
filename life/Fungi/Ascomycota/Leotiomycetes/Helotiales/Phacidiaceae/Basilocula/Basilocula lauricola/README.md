@@ -1,5 +1,4 @@
-Basilocula lauricola Bubák SPECIES
-=======
+# Basilocula lauricola Bubák SPECIES
 
 #### Status
 ACCEPTED

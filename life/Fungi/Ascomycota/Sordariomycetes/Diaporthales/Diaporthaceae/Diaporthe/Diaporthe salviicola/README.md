@@ -1,17 +1,16 @@
-Diaporthe salviaecola Cooke & Ellis SPECIES
-=======
+# Diaporthe salviicola Cooke & Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 5(no. 35): 93 (1877)
 
 #### Original name
-Diaporthe salviaecola Cooke & Ellis
+Diaporthe salviicola Cooke & Ellis
 
 ### Remarks
 null

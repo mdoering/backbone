@@ -1,5 +1,4 @@
-Opegrapha celtidicola Jatta SPECIES
-=======
+# Opegrapha celtidicola Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe aurantioalba Leelav., Manim. & Arnolds SPECIES
-=======
+# Hygrocybe aurantioalba Leelav., Manim. & Arnolds SPECIES
 
 #### Status
 ACCEPTED

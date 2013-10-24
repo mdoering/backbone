@@ -1,5 +1,4 @@
-Lecidea denticulata (Chevall.) Zahlbr. SPECIES
-=======
+# Lecidea denticulata (Chevall.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

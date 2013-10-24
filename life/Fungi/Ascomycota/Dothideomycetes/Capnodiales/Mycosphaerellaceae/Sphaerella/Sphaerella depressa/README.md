@@ -1,14 +1,13 @@
-Mycosphaerella depressa (Berk.) Theiss., 1916 SPECIES
-=======
+# Sphaerella depressa (Berk.) Cooke, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 66: 375 (1916)
+J. Bot. , London 21: 137 (1883)
 
 #### Original name
 Sphaeria depressa Bolton, 1790

@@ -1,5 +1,4 @@
-Chalciporus hypochryseus (utara) Courtec. SPECIES
-=======
+# Chalciporus hypochryseus (utara) Courtec. SPECIES
 
 #### Status
 ACCEPTED

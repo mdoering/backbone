@@ -1,5 +1,4 @@
-Oodinium cyprinodontum SPECIES
-=======
+# Oodinium cyprinodontum SPECIES
 
 #### Status
 ACCEPTED

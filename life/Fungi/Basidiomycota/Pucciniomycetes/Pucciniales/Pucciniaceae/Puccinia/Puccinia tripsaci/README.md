@@ -1,5 +1,4 @@
-Puccinia tripsaci Dietel & Holw. SPECIES
-=======
+# Puccinia tripsaci Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Carinispora nypae K.D. Hyde, 1992 SPECIES
-=======
+# Carinispora nypae K.D. Hyde, 1992 SPECIES
 
 #### Status
 ACCEPTED

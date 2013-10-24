@@ -1,5 +1,4 @@
-Myxochloris Pascher, 1930 GENUS
-=======
+# Myxochloris Pascher, 1930 GENUS
 
 #### Status
 ACCEPTED

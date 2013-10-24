@@ -1,5 +1,4 @@
-Leptosphaeria pachyspora Sacc. SPECIES
-=======
+# Leptosphaeria pachyspora Sacc. SPECIES
 
 #### Status
 ACCEPTED

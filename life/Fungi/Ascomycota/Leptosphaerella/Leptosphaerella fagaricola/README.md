@@ -1,5 +1,4 @@
-Leptosphaerella fagaricola Speg., 1912 SPECIES
-=======
+# Leptosphaerella fagaricola Speg., 1912 SPECIES
 
 #### Status
 ACCEPTED

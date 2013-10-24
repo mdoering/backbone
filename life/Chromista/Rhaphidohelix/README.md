@@ -1,5 +1,4 @@
-Rhaphidohelix Moebius, 1880 GENUS
-=======
+# Rhaphidohelix Moebius, 1880 GENUS
 
 #### Status
 ACCEPTED

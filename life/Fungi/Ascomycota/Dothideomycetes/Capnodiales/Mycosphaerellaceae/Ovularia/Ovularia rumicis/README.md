@@ -1,5 +1,4 @@
-Ovularia rumicis A.G. Eliasson SPECIES
-=======
+# Ovularia rumicis A.G. Eliasson SPECIES
 
 #### Status
 ACCEPTED

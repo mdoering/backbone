@@ -1,5 +1,4 @@
-Fellhanera santessonii Barillas & Lücking SPECIES
-=======
+# Fellhanera santessonii Barillas & Lücking SPECIES
 
 #### Status
 ACCEPTED

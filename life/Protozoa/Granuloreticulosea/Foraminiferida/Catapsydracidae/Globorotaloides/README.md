@@ -1,5 +1,4 @@
-Globorotaloides Bolli, 1957 GENUS
-=======
+# Globorotaloides Bolli, 1957 GENUS
 
 #### Status
 ACCEPTED

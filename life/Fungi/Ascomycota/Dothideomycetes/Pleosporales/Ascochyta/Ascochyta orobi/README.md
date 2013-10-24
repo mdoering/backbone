@@ -1,17 +1,16 @@
-Ascochyta orobi f. orobi FORM
-=======
+# Ascochyta orobi Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 1(no. 2): 161 (1878)
 
 #### Original name
-Ascochyta orobi f. orobi
+Ascochyta orobi Sacc., 1878
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cyanobaeis GENUS
-=======
+# Cyanobaeis GENUS
 
 #### Status
 ACCEPTED

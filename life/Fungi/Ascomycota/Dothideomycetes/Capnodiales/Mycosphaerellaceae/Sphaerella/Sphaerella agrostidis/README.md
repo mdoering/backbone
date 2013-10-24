@@ -1,5 +1,4 @@
-Sphaerella agrostidis (Castagne) Auersw. SPECIES
-=======
+# Sphaerella agrostidis (Castagne) Auersw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filaspora juglandis (Schwein.) Kuntze SPECIES
-=======
+# Filaspora juglandis (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

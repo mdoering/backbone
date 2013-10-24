@@ -1,5 +1,4 @@
-Phlegmacium olivaceolilacinum Ricek SPECIES
-=======
+# Phlegmacium olivaceolilacinum Ricek SPECIES
 
 #### Status
 ACCEPTED

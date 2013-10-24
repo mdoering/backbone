@@ -1,5 +1,4 @@
-Puccinia angulosi-phalaridis Poeverl. SPECIES
-=======
+# Puccinia angulosi-phalaridis Poeverl. SPECIES
 
 #### Status
 ACCEPTED

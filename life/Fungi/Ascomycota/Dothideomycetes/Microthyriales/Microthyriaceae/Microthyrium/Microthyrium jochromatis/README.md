@@ -1,5 +1,4 @@
-Microthyrium jochromatis Rehm SPECIES
-=======
+# Microthyrium jochromatis Rehm SPECIES
 
 #### Status
 ACCEPTED

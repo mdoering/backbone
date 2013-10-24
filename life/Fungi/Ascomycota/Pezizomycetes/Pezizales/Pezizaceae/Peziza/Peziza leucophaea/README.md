@@ -1,5 +1,4 @@
-Peziza leucophaea Berk. & M.A. Curtis SPECIES
-=======
+# Peziza leucophaea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

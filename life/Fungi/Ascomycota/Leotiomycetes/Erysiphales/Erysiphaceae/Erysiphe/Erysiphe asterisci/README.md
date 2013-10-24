@@ -1,5 +1,4 @@
-Erysiphe asterisci Magnus SPECIES
-=======
+# Erysiphe asterisci Magnus SPECIES
 
 #### Status
 ACCEPTED

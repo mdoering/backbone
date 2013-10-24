@@ -1,5 +1,4 @@
-Bacidia molybditis (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia molybditis (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

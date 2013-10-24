@@ -1,5 +1,4 @@
-Nesolechia verrucariae (Metzler) Rehm SPECIES
-=======
+# Nesolechia verrucariae (Metzler) Rehm SPECIES
 
 #### Status
 ACCEPTED

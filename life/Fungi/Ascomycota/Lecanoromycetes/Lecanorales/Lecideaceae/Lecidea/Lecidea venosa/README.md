@@ -1,5 +1,4 @@
-Lecidea venosa Sommerf. SPECIES
-=======
+# Lecidea venosa Sommerf. SPECIES
 
 #### Status
 ACCEPTED

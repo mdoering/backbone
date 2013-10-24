@@ -1,5 +1,4 @@
-Buellia christophii Bungartz SPECIES
-=======
+# Buellia christophii Bungartz SPECIES
 
 #### Status
 ACCEPTED

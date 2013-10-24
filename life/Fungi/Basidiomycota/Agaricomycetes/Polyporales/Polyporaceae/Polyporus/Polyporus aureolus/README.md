@@ -1,5 +1,4 @@
-Polyporus aureolus Pers. SPECIES
-=======
+# Polyporus aureolus Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza striata Fr. SPECIES
-=======
+# Peziza striata Fr. SPECIES
 
 #### Status
 ACCEPTED

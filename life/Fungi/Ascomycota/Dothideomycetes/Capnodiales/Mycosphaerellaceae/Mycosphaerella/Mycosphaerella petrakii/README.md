@@ -1,5 +1,4 @@
-Mycosphaerella petrakii Tomilin SPECIES
-=======
+# Mycosphaerella petrakii Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia dimorphoclada Robbins SPECIES
-=======
+# Cladonia dimorphoclada Robbins SPECIES
 
 #### Status
 ACCEPTED

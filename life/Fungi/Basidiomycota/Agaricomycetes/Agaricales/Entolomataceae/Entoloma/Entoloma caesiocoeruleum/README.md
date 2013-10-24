@@ -1,5 +1,4 @@
-Entoloma caesiocoeruleum E. Horak SPECIES
-=======
+# Entoloma caesiocoeruleum E. Horak SPECIES
 
 #### Status
 ACCEPTED

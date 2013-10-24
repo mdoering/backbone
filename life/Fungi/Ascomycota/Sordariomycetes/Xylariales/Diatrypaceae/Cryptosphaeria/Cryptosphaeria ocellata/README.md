@@ -1,14 +1,13 @@
-Engizostoma ocellatum (Fr.) Kuntze, 1898 SPECIES
-=======
+# Cryptosphaeria ocellata (Fr.) Ces. & De Not., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 474 (1898)
+Schem. di Classif. Sferiacei 57 (1863)
 
 #### Original name
 Sphaeria ocellata Kunze, 1823

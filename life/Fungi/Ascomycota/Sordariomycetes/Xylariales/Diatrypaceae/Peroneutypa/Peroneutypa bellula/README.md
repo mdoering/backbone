@@ -1,14 +1,13 @@
-Engizostoma bellulum (Desm.) Kuntze, 1898 SPECIES
-=======
+# Peroneutypa bellula (Desm.) Berl., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 473 (1898)
+Icon. fung. (Abellini) 3: 80 (1902)
 
 #### Original name
 Sphaeria bellula Desm., 1840

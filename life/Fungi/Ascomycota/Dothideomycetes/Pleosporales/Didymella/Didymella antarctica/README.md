@@ -1,5 +1,4 @@
-Didymella antarctica Spooner SPECIES
-=======
+# Didymella antarctica Spooner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catenulopsora GENUS
-=======
+# Catenulopsora GENUS
 
 #### Status
 ACCEPTED

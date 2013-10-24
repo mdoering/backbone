@@ -1,5 +1,4 @@
-Trichophyton pictor R. Blanch. SPECIES
-=======
+# Trichophyton pictor R. Blanch. SPECIES
 
 #### Status
 ACCEPTED

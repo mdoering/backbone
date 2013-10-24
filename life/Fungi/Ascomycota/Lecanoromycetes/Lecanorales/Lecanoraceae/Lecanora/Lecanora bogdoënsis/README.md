@@ -1,5 +1,4 @@
-Lecanora bogdoënsis Tomin SPECIES
-=======
+# Lecanora bogdoënsis Tomin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyosporites hyalinus (R.T. Lange & P.H. Sm.) Kalgutkar & Janson. SPECIES
-=======
+# Dictyosporites hyalinus (R.T. Lange & P.H. Sm.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

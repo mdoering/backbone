@@ -1,5 +1,4 @@
-Diatrypella decipiens Ellis & Everh. SPECIES
-=======
+# Diatrypella decipiens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

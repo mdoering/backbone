@@ -1,5 +1,4 @@
-Xerula hispida Halling & G.M. Muell. SPECIES
-=======
+# Xerula hispida Halling & G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

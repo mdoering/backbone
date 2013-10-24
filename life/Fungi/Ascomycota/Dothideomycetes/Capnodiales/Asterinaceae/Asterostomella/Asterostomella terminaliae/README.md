@@ -1,5 +1,4 @@
-Asterostomella terminaliae Hosag., M.P. Balakr. & Goos SPECIES
-=======
+# Asterostomella terminaliae Hosag., M.P. Balakr. & Goos SPECIES
 
 #### Status
 ACCEPTED

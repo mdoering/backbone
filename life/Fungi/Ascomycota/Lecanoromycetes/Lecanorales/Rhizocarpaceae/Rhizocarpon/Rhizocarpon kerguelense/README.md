@@ -1,14 +1,13 @@
-Rhizocarpon geographicum var. kerguelensis (C.W. Dodge) Räsänen VARIETY
-=======
+# Rhizocarpon kerguelense C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 116 (1948)
 
 #### Original name
 Rhizocarpon kerguelense C.W. Dodge

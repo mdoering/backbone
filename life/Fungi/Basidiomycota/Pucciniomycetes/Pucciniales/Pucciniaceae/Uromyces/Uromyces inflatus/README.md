@@ -1,14 +1,13 @@
-Uredo inflata Cooke, 1890 SPECIES
-=======
+# Uromyces inflatus (Cooke) McKenzie, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 19(no. 90): 48 (1890)
+Mycoscience 49: 9 (2008)
 
 #### Original name
 Uredo inflata Cooke, 1890

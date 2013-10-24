@@ -1,5 +1,4 @@
-Cercospora vitis-heterophyllae Henn. SPECIES
-=======
+# Cercospora vitis-heterophyllae Henn. SPECIES
 
 #### Status
 ACCEPTED

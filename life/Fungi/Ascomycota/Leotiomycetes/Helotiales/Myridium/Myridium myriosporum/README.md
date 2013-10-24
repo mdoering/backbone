@@ -1,5 +1,4 @@
-Myridium myriosporum (W. Phillips & Harkn.) Clem. SPECIES
-=======
+# Myridium myriosporum (W. Phillips & Harkn.) Clem. SPECIES
 
 #### Status
 ACCEPTED

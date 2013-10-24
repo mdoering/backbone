@@ -1,5 +1,4 @@
-Hypotrachyna lopezii Hale SPECIES
-=======
+# Hypotrachyna lopezii Hale SPECIES
 
 #### Status
 ACCEPTED

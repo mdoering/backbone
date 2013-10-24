@@ -1,17 +1,16 @@
-Asterina casaeriicola Hosag. & Goos SPECIES
-=======
+# Asterina caseariicola Hosag. & Goos SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 59: 153 (1996)
 
 #### Original name
-Asterina casaeriicola Hosag. & Goos
+Asterina caseariicola Hosag. & Goos
 
 ### Remarks
 null

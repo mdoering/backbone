@@ -1,5 +1,4 @@
-Rhabdospora rhoeadis Tassi SPECIES
-=======
+# Rhabdospora rhoeadis Tassi SPECIES
 
 #### Status
 ACCEPTED

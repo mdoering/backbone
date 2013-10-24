@@ -1,5 +1,4 @@
-Scaphidiodontidae Deroux in Corliss, 1979 FAMILY
-=======
+# Scaphidiodontidae Deroux in Corliss, 1979 FAMILY
 
 #### Status
 ACCEPTED

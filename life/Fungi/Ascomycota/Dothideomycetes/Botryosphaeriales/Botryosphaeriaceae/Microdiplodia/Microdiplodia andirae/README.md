@@ -1,5 +1,4 @@
-Microdiplodia andirae Bat. & H. Maia SPECIES
-=======
+# Microdiplodia andirae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

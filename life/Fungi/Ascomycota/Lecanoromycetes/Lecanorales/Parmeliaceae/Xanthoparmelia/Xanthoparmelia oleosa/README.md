@@ -1,14 +1,13 @@
-Parmelia oleosa Elix & P. M. Armstr. SPECIES
-=======
+# Xanthoparmelia oleosa (Elix & P. M. Armstr.) Elix & T. H. Nash SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. J. Bot. 31(5): 478 (1983)
+in Nash & Elix, Mycotaxon 26: 455 (1986)
 
 #### Original name
 Parmelia oleosa Elix & P. M. Armstr.

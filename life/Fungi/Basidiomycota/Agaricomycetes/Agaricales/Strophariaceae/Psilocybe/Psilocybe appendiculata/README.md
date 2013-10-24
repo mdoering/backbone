@@ -1,5 +1,4 @@
-Psilocybe appendiculata Rick SPECIES
-=======
+# Psilocybe appendiculata Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chitonomyces tarsicola Thaxt. SPECIES
-=======
+# Chitonomyces tarsicola Thaxt. SPECIES
 
 #### Status
 ACCEPTED

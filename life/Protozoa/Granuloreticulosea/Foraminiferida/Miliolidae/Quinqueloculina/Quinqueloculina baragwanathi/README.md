@@ -1,5 +1,4 @@
-Quinqueloculina baragwanathi Parr, 1945 SPECIES
-=======
+# Quinqueloculina baragwanathi Parr, 1945 SPECIES
 
 #### Status
 ACCEPTED

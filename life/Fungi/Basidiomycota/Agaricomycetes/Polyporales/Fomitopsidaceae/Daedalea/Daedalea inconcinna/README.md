@@ -1,5 +1,4 @@
-Daedalea inconcinna Berk. SPECIES
-=======
+# Daedalea inconcinna Berk. SPECIES
 
 #### Status
 ACCEPTED

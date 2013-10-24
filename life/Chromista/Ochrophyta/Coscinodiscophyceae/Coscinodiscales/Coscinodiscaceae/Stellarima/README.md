@@ -1,5 +1,4 @@
-Stellarima Hasle & Sims GENUS
-=======
+# Stellarima Hasle & Sims GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemicybe tomentella (P. Karst.) P. Karst. SPECIES
-=======
+# Hemicybe tomentella (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verticillium alboatrum Reinke & Berthold SPECIES
-=======
+# Verticillium alboatrum Reinke & Berthold SPECIES
 
 #### Status
 ACCEPTED

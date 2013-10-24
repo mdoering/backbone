@@ -1,5 +1,4 @@
-Herpomyces lobopterae Thaxt. SPECIES
-=======
+# Herpomyces lobopterae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

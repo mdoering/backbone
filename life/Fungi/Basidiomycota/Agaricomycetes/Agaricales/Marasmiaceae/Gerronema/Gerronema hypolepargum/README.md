@@ -1,5 +1,4 @@
-Gerronema hypolepargum Singer SPECIES
-=======
+# Gerronema hypolepargum Singer SPECIES
 
 #### Status
 ACCEPTED

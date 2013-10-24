@@ -1,5 +1,4 @@
-Gyalecta acharii (Ach.) Schaer. SPECIES
-=======
+# Gyalecta acharii (Ach.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

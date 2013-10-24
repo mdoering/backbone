@@ -1,14 +1,13 @@
-Phloeospora asiminae Ellis & Morgan, 1887 SPECIES
-=======
+# Miuraea asiminae (Ellis & Morgan) Arx & Constant., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 3(8): 88 (1887)
+in von Arx, Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 86(1): 39 (1983)
 
 #### Original name
 Phloeospora asiminae Ellis & Morgan, 1887

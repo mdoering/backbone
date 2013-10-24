@@ -1,5 +1,4 @@
-Parmotrema brasiliense Hale SPECIES
-=======
+# Parmotrema brasiliense Hale SPECIES
 
 #### Status
 ACCEPTED

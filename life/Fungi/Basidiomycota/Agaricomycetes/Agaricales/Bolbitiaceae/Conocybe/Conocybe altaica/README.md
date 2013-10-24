@@ -1,5 +1,4 @@
-Conocybe altaica (Singer) Watling SPECIES
-=======
+# Conocybe altaica (Singer) Watling SPECIES
 
 #### Status
 ACCEPTED

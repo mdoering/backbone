@@ -1,5 +1,4 @@
-Bacillispora inflata S.H. Iqbal & Bhatty SPECIES
-=======
+# Bacillispora inflata S.H. Iqbal & Bhatty SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ottowia thiooxydans Spring et al., 2004 SPECIES
-=======
+# Ottowia thiooxydans Spring et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophthalmidium inconstans Brady SPECIES
-=======
+# Ophthalmidium inconstans Brady SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaeria stylophora Berk. & Broome, 1861 SPECIES
-=======
+# Lentomita stylophora (Berk. & Broome) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 7: 453 (1861)
+Syll. fung. (Abellini) 1: 586 (1882)
 
 #### Original name
 Sphaeria stylophora Berk. & Broome, 1861

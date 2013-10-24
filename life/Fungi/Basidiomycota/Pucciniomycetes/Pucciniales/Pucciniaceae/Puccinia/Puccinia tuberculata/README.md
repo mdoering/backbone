@@ -1,5 +1,4 @@
-Puccinia tuberculata Körn. SPECIES
-=======
+# Puccinia tuberculata Körn. SPECIES
 
 #### Status
 ACCEPTED

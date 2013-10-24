@@ -1,5 +1,4 @@
-Cortinarius latobalteatus (Jul. Schäff.) M.M. Moser SPECIES
-=======
+# Cortinarius latobalteatus (Jul. Schäff.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

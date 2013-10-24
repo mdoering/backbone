@@ -1,5 +1,4 @@
-Actinocyathula crenata (Fraipont, 1878) Curds, 1987 SPECIES
-=======
+# Actinocyathula crenata (Fraipont, 1878) Curds, 1987 SPECIES
 
 #### Status
 ACCEPTED

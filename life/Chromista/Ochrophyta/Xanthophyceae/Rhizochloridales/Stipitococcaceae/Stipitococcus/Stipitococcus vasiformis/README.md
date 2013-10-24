@@ -1,5 +1,4 @@
-Stipitococcus vasiformis Tiff. SPECIES
-=======
+# Stipitococcus vasiformis Tiff. SPECIES
 
 #### Status
 ACCEPTED

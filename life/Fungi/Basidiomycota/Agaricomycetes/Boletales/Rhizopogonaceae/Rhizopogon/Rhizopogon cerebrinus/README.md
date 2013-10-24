@@ -1,8 +1,7 @@
-Rhizopogon cerebrinum Lloyd SPECIES
-=======
+# Rhizopogon cerebrinus Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizopogon cerebrinum Lloyd
+Rhizopogon cerebrinus Lloyd
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Microporus proteiformis (Cooke) Kuntze SPECIES
-=======
+# Microporus proteiformis (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

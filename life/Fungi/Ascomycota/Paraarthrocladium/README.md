@@ -1,5 +1,4 @@
-Paraarthrocladium Matsush. GENUS
-=======
+# Paraarthrocladium Matsush. GENUS
 
 #### Status
 ACCEPTED

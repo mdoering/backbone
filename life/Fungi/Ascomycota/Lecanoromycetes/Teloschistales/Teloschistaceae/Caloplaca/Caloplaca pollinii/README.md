@@ -1,14 +1,13 @@
-Caloplaca pollinii var. pollinii VARIETY
-=======
+# Caloplaca pollinii (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. Lich. Ital. 244 (1900)
 
 #### Original name
 Blastenia pollinii A. Massal.

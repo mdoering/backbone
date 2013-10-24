@@ -1,5 +1,4 @@
-Elaphomyces cantabricus Paz A. & J.L. Gonzales SPECIES
-=======
+# Elaphomyces cantabricus Paz A. & J.L. Gonzales SPECIES
 
 #### Status
 ACCEPTED

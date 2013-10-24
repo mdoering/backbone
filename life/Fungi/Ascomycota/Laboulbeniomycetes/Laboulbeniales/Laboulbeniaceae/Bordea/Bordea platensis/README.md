@@ -1,5 +1,4 @@
-Bordea platensis Speg. SPECIES
-=======
+# Bordea platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

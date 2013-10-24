@@ -1,5 +1,4 @@
-Septoria aristolochiae var. aristolochiae VARIETY
-=======
+# Septoria aristolochiae Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria aristolochiae var. aristolochiae
+Septoria aristolochiae Sacc.
 
 ### Remarks
 null

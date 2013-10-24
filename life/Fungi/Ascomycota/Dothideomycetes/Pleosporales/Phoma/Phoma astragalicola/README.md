@@ -1,5 +1,4 @@
-Phoma astragalicola Hollós SPECIES
-=======
+# Phoma astragalicola Hollós SPECIES
 
 #### Status
 ACCEPTED

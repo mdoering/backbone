@@ -1,5 +1,4 @@
-Geopora magnifica Gilkey SPECIES
-=======
+# Geopora magnifica Gilkey SPECIES
 
 #### Status
 ACCEPTED

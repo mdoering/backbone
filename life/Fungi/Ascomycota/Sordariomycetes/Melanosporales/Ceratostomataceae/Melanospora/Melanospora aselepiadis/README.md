@@ -1,5 +1,4 @@
-Melanospora aselepiadis SPECIES
-=======
+# Melanospora aselepiadis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia caricis-kouriyamensis Morim. SPECIES
-=======
+# Puccinia caricis-kouriyamensis Morim. SPECIES
 
 #### Status
 ACCEPTED

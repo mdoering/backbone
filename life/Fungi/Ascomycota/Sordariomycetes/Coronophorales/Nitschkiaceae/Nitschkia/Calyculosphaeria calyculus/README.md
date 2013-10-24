@@ -1,5 +1,4 @@
-Calyculosphaeria calyculus (Mont.) Fitzp. SPECIES
-=======
+# Calyculosphaeria calyculus (Mont.) Fitzp. SPECIES
 
 #### Status
 ACCEPTED

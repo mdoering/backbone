@@ -1,5 +1,4 @@
-Chrysosporium mephiticum Sigler, 1986 SPECIES
-=======
+# Chrysosporium mephiticum Sigler, 1986 SPECIES
 
 #### Status
 ACCEPTED

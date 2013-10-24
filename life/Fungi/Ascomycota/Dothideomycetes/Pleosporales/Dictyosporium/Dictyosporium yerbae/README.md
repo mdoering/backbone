@@ -1,5 +1,4 @@
-Dictyosporium yerbae Speg. SPECIES
-=======
+# Dictyosporium yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyngbya spiralis SPECIES
-=======
+# Lyngbya spiralis SPECIES
 
 #### Status
 ACCEPTED

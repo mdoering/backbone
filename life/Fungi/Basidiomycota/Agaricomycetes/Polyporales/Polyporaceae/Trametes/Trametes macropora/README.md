@@ -1,5 +1,4 @@
-Trametes macropora Bres. SPECIES
-=======
+# Trametes macropora Bres. SPECIES
 
 #### Status
 ACCEPTED

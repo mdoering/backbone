@@ -1,11 +1,10 @@
-Mycena tenerrima (Fr.) Quél., 1874 SPECIES
-=======
+# Mycena adscendens (Lasch) Maas Geest. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

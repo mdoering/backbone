@@ -1,5 +1,4 @@
-Lachnobolus occidentalis T. Macbr. SPECIES
-=======
+# Lachnobolus occidentalis T. Macbr. SPECIES
 
 #### Status
 ACCEPTED

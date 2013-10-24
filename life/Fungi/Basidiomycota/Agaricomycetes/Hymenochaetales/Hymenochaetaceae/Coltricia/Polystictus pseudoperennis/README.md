@@ -1,5 +1,4 @@
-Polystictus pseudoperennis Lloyd SPECIES
-=======
+# Polystictus pseudoperennis Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marssonina omphalodis (Grove) Grove SPECIES
-=======
+# Marssonina omphalodis (Grove) Grove SPECIES
 
 #### Status
 ACCEPTED

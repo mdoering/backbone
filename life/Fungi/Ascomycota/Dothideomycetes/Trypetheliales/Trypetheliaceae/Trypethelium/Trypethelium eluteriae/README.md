@@ -1,17 +1,16 @@
-Trypethelium eluteriae var. eluteriae Spreng. VARIETY
-=======
+# Trypethelium eluteriae Spreng. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anleit. Kennt. Gew. 3: 351 (1804)
+Anleit. Kennt. Gew. 3: 350 (1804)
 
 #### Original name
-Trypethelium eluteriae var. eluteriae Spreng.
+Trypethelium eluteriae Spreng.
 
 ### Remarks
 null

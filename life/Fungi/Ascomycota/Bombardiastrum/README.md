@@ -1,5 +1,4 @@
-Bombardiastrum Pat. GENUS
-=======
+# Bombardiastrum Pat. GENUS
 
 #### Status
 ACCEPTED

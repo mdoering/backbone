@@ -1,5 +1,4 @@
-Prunulus murinus Murrill SPECIES
-=======
+# Prunulus murinus Murrill SPECIES
 
 #### Status
 ACCEPTED

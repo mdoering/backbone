@@ -1,5 +1,4 @@
-Synchaetomella Decock & Seifert GENUS
-=======
+# Synchaetomella Decock & Seifert GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Merisma subulatum (Fr.) Lév., 1846 SPECIES
-=======
+# Pterula subulata Fr., 1825 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. orb. veg. (Lundae) 1: 90 (1825)
 
 #### Original name
-null
+Pterula subulata Fr., 1825
 
 ### Remarks
 null

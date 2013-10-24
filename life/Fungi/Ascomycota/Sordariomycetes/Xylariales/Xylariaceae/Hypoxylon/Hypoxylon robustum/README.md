@@ -1,5 +1,4 @@
-Hypoxylon robustum Speg. SPECIES
-=======
+# Hypoxylon robustum Speg. SPECIES
 
 #### Status
 ACCEPTED

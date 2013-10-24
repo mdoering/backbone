@@ -1,5 +1,4 @@
-Thauera mechernichensis Scholten et al., 1999 SPECIES
-=======
+# Thauera mechernichensis Scholten et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

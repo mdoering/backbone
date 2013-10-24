@@ -1,5 +1,4 @@
-Hemimycena anomala Dennis SPECIES
-=======
+# Hemimycena anomala Dennis SPECIES
 
 #### Status
 ACCEPTED

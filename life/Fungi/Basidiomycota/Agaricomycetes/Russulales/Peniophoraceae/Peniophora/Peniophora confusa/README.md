@@ -1,5 +1,4 @@
-Peniophora confusa C.E. Gómez, 1976 SPECIES
-=======
+# Peniophora confusa C.E. Gómez, 1976 SPECIES
 
 #### Status
 ACCEPTED

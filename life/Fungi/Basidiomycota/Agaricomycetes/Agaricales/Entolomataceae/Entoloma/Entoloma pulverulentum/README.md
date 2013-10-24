@@ -1,5 +1,4 @@
-Entoloma pulverulentum Corner & E. Horak SPECIES
-=======
+# Entoloma pulverulentum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

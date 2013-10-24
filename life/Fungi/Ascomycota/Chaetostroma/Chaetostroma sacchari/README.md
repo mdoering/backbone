@@ -1,5 +1,4 @@
-Chaetostroma sacchari Massee SPECIES
-=======
+# Chaetostroma sacchari Massee SPECIES
 
 #### Status
 ACCEPTED

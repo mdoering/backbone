@@ -1,5 +1,4 @@
-Phloeospora punctiformis Sacc. SPECIES
-=======
+# Phloeospora punctiformis Sacc. SPECIES
 
 #### Status
 ACCEPTED

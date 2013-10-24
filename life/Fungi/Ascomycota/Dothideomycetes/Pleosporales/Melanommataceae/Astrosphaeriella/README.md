@@ -1,17 +1,16 @@
-Asterosphaeria (Höhn.) Syd. GENUS
-=======
+# Astrosphaeriella Syd. & P. Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 11(3): 260 (1913)
 
 #### Original name
-null
+Astrosphaeriella Syd. & P. Syd.
 
 ### Remarks
 null

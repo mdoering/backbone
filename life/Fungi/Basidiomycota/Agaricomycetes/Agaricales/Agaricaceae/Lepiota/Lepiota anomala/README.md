@@ -1,5 +1,4 @@
-Lepiota anomala Murrill SPECIES
-=======
+# Lepiota anomala Murrill SPECIES
 
 #### Status
 ACCEPTED

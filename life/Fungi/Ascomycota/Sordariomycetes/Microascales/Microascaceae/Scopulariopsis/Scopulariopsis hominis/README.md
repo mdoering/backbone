@@ -1,5 +1,4 @@
-Scopulariopsis hominis (Brumpt & Langeron) Sartory SPECIES
-=======
+# Scopulariopsis hominis (Brumpt & Langeron) Sartory SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia moseri (Antonín & Noordel.) Bon SPECIES
-=======
+# Collybia moseri (Antonín & Noordel.) Bon SPECIES
 
 #### Status
 ACCEPTED

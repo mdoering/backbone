@@ -1,17 +1,16 @@
-Delortia tumidoapicis Goh & K.D. Hyde SPECIES
-=======
+# Delortia tumidiapicis Goh & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 101(1): 43 (1997)
 
 #### Original name
-Delortia tumidoapicis Goh & K.D. Hyde
+Delortia tumidiapicis Goh & K.D. Hyde
 
 ### Remarks
 null

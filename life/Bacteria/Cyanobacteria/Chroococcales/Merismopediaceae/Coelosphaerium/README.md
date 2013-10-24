@@ -1,14 +1,13 @@
-Planosphaerula A. Borzì, 1905 GENUS
-=======
+# Coelosphaerium Nageli, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuova Notarisia, ser. 16: 20.
+Neue Denkschr. Allg. Schweiz. Ges. Gesammten Naturwiss. 10(7): 54.
 
 #### Original name
 null

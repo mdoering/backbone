@@ -1,5 +1,4 @@
-Fusarium laricis Sawada SPECIES
-=======
+# Fusarium laricis Sawada SPECIES
 
 #### Status
 ACCEPTED

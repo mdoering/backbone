@@ -1,5 +1,4 @@
-Ustilago gabonensis Vánky SPECIES
-=======
+# Ustilago gabonensis Vánky SPECIES
 
 #### Status
 ACCEPTED

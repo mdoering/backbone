@@ -1,5 +1,4 @@
-Buellia obtecta Nilson SPECIES
-=======
+# Buellia obtecta Nilson SPECIES
 
 #### Status
 ACCEPTED

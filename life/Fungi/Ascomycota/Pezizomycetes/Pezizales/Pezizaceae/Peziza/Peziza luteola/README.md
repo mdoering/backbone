@@ -1,5 +1,4 @@
-Peziza luteola Fr. SPECIES
-=======
+# Peziza luteola Fr. SPECIES
 
 #### Status
 ACCEPTED

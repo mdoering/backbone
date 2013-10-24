@@ -1,5 +1,4 @@
-Micromonospora inyonensis Kroppenstedt et al., 2005 SPECIES
-=======
+# Micromonospora inyonensis Kroppenstedt et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

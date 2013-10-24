@@ -1,5 +1,4 @@
-Rosellinia samuelsii L.E. Petrini, 2003 SPECIES
-=======
+# Rosellinia samuelsii L.E. Petrini, 2003 SPECIES
 
 #### Status
 ACCEPTED

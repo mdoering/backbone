@@ -1,5 +1,4 @@
-Wernliella Kuznetsova, 2002 GENUS
-=======
+# Wernliella Kuznetsova, 2002 GENUS
 
 #### Status
 ACCEPTED

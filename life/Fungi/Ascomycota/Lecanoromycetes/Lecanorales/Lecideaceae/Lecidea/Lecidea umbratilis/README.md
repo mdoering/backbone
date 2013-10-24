@@ -1,5 +1,4 @@
-Lecidea umbratilis (Arnold) Th. Fr. SPECIES
-=======
+# Lecidea umbratilis (Arnold) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

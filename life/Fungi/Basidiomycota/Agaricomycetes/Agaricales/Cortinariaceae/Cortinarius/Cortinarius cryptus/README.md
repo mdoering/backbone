@@ -1,5 +1,4 @@
-Cortinarius cryptus Moënne-Locc. SPECIES
-=======
+# Cortinarius cryptus Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

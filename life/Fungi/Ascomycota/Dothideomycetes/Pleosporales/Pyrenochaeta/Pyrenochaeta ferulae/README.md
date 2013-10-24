@@ -1,5 +1,4 @@
-Pyrenochaeta ferulae Vasyag. SPECIES
-=======
+# Pyrenochaeta ferulae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

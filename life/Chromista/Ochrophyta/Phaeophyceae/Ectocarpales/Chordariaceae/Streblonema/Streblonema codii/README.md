@@ -1,5 +1,4 @@
-Streblonema codii Barton SPECIES
-=======
+# Streblonema codii Barton SPECIES
 
 #### Status
 ACCEPTED

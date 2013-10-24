@@ -1,5 +1,4 @@
-Lecanora melaena (Hedl.) Fink SPECIES
-=======
+# Lecanora melaena (Hedl.) Fink SPECIES
 
 #### Status
 ACCEPTED

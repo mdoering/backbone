@@ -1,5 +1,4 @@
-Arthonia polymorphula Zahlbr. SPECIES
-=======
+# Arthonia polymorphula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

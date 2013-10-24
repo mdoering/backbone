@@ -1,5 +1,4 @@
-Skeletocutis brunneomarginata Ryvarden SPECIES
-=======
+# Skeletocutis brunneomarginata Ryvarden SPECIES
 
 #### Status
 ACCEPTED

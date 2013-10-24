@@ -1,5 +1,4 @@
-Calicium magellanicum var. brasiliense Bat. & Nascim. VARIETY
-=======
+# Calicium magellanicum Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Atas Inst. Micol. Univ. Recife 1: 237 (1960)
+Boletín de la Academia Nacional de Ciencias de Córdoba 11(2): 276 (1888)
 
 #### Original name
-Calicium magellanicum var. brasiliense Bat. & Nascim.
+Calicium magellanicum Speg.
 
 ### Remarks
 null

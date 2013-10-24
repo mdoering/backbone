@@ -1,5 +1,4 @@
-Teichospora minimispora M.E. Barr SPECIES
-=======
+# Teichospora minimispora M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

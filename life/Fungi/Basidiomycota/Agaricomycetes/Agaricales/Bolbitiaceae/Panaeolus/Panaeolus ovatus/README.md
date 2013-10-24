@@ -1,5 +1,4 @@
-Panaeolus ovatus (Cooke & Massee) Sacc. SPECIES
-=======
+# Panaeolus ovatus (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

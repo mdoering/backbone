@@ -1,5 +1,4 @@
-Stictostroma leopoldinum (Rehm) Höhn. SPECIES
-=======
+# Stictostroma leopoldinum (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

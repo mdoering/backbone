@@ -1,5 +1,4 @@
-Trimmatothele glacialis Nilson SPECIES
-=======
+# Trimmatothele glacialis Nilson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micromyces laevis Canter SPECIES
-=======
+# Micromyces laevis Canter SPECIES
 
 #### Status
 ACCEPTED

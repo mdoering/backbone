@@ -1,5 +1,4 @@
-Camarosporium cephalanthi Henn. SPECIES
-=======
+# Camarosporium cephalanthi Henn. SPECIES
 
 #### Status
 ACCEPTED

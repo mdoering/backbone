@@ -1,5 +1,4 @@
-Fusarium asiaticum O'Donnell, T. Aoki, Kistler & Geiser, 2004 SPECIES
-=======
+# Fusarium asiaticum O'Donnell, T. Aoki, Kistler & Geiser, 2004 SPECIES
 
 #### Status
 ACCEPTED

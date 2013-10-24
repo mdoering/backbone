@@ -1,5 +1,4 @@
-Psathyrella coloradensis A.H. Sm. SPECIES
-=======
+# Psathyrella coloradensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe vanhoeffenii Henn. SPECIES
-=======
+# Psilocybe vanhoeffenii Henn. SPECIES
 
 #### Status
 ACCEPTED

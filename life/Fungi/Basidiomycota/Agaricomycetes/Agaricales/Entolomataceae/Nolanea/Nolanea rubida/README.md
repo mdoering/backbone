@@ -1,5 +1,4 @@
-Nolanea rubida (Berk.) Sacc. SPECIES
-=======
+# Nolanea rubida (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

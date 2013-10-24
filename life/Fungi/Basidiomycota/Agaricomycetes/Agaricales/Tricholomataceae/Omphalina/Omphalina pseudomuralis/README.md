@@ -1,5 +1,4 @@
-Omphalina pseudomuralis Lamoure SPECIES
-=======
+# Omphalina pseudomuralis Lamoure SPECIES
 
 #### Status
 ACCEPTED

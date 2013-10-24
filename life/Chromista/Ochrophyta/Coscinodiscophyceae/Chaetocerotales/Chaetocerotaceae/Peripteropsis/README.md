@@ -1,5 +1,4 @@
-Peripteropsis Suto, 2005 GENUS
-=======
+# Peripteropsis Suto, 2005 GENUS
 
 #### Status
 ACCEPTED

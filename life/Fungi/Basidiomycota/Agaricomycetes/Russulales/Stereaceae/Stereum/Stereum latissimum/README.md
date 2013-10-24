@@ -1,5 +1,4 @@
-Stereum latissimum Berk., 1855 SPECIES
-=======
+# Stereum latissimum Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

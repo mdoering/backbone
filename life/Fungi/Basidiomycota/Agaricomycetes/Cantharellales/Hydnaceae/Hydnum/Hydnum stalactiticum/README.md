@@ -1,5 +1,4 @@
-Hydnum stalactiticum Schrank SPECIES
-=======
+# Hydnum stalactiticum Schrank SPECIES
 
 #### Status
 ACCEPTED

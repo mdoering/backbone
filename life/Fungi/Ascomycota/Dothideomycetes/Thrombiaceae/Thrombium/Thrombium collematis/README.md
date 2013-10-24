@@ -1,5 +1,4 @@
-Thrombium collematis Stein SPECIES
-=======
+# Thrombium collematis Stein SPECIES
 
 #### Status
 ACCEPTED

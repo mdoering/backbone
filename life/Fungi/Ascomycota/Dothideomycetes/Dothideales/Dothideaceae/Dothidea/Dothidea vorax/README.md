@@ -1,5 +1,4 @@
-Dothidea vorax var. vorax VARIETY
-=======
+# Dothidea vorax Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dothidea vorax var. vorax
+Dothidea vorax Berk. & M.A. Curtis
 
 ### Remarks
 null

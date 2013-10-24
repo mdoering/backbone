@@ -1,5 +1,4 @@
-Polyedryxium pharaone Deunff, 1954 ex Deunff, 1961 SPECIES
-=======
+# Polyedryxium pharaone Deunff, 1954 ex Deunff, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pteroncola R.W.Holmes & D.A.Croll, 1984 GENUS
-=======
+# Pteroncola R.W.Holmes & D.A.Croll, 1984 GENUS
 
 #### Status
 ACCEPTED

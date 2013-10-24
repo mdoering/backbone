@@ -1,5 +1,4 @@
-Hyalopus parasitans Berk. & M.A. Curtis SPECIES
-=======
+# Hyalopus parasitans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

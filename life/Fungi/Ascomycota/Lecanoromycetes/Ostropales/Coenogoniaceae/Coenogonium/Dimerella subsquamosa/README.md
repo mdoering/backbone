@@ -1,5 +1,4 @@
-Dimerella subsquamosa Aptroot & Seaward SPECIES
-=======
+# Dimerella subsquamosa Aptroot & Seaward SPECIES
 
 #### Status
 ACCEPTED

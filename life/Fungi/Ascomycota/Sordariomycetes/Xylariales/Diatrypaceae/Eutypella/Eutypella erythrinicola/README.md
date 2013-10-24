@@ -1,5 +1,4 @@
-Eutypella erythrinicola Rappaz SPECIES
-=======
+# Eutypella erythrinicola Rappaz SPECIES
 
 #### Status
 ACCEPTED

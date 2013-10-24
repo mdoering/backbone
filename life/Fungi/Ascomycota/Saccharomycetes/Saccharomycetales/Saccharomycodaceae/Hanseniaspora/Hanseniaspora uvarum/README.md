@@ -1,17 +1,16 @@
-Pseudosaccharomyces apiculatus (Reess) Klöcker, 1912 SPECIES
-=======
+# Hanseniaspora uvarum (Niehaus) Shehata, Mrak & Phaff ex M.T. Sm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 47(6): 807 (1956)
 
 #### Original name
-null
+Kloeckeraspora uvarum Niehaus, 1932
 
 ### Remarks
 null

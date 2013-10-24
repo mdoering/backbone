@@ -1,5 +1,4 @@
-Lecidea nidifica Hue SPECIES
-=======
+# Lecidea nidifica Hue SPECIES
 
 #### Status
 ACCEPTED

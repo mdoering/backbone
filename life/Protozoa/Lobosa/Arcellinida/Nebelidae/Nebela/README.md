@@ -1,5 +1,4 @@
-Nebela Leidy, 1875 GENUS
-=======
+# Nebela Leidy, 1875 GENUS
 
 #### Status
 ACCEPTED

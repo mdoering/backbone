@@ -1,5 +1,4 @@
-Bizionia myxarmorum Bowman & Nichols, 2005 SPECIES
-=======
+# Bizionia myxarmorum Bowman & Nichols, 2005 SPECIES
 
 #### Status
 ACCEPTED

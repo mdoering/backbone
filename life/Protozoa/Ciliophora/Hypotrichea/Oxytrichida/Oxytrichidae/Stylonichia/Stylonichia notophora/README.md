@@ -1,5 +1,4 @@
-Stylonichia notophora SPECIES
-=======
+# Stylonichia notophora SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Fusarium gleditschicola Dearn. & Barthol. SPECIES
-=======
+# Fusarium gleditschiicola Dearn. & Barthol. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fusarium gleditschicola Dearn. & Barthol.
+Fusarium gleditschiicola Dearn. & Barthol.
 
 ### Remarks
 null

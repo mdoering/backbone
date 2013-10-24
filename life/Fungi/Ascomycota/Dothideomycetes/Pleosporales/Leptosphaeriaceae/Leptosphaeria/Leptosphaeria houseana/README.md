@@ -1,5 +1,4 @@
-Leptosphaeria houseana Sacc. SPECIES
-=======
+# Leptosphaeria houseana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella globulifera Müller SPECIES
-=======
+# Vorticella globulifera Müller SPECIES
 
 #### Status
 ACCEPTED

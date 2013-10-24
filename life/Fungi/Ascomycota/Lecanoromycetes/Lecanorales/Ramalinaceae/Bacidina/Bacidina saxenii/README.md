@@ -1,5 +1,4 @@
-Bacidina saxenii (Erichsen) M. Hauck & V. Wirth SPECIES
-=======
+# Bacidina saxenii (Erichsen) M. Hauck & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

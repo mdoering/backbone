@@ -1,5 +1,4 @@
-Euglypha rotunda Wailes & Penard, 1911 SPECIES
-=======
+# Euglypha rotunda Wailes & Penard, 1911 SPECIES
 
 #### Status
 ACCEPTED

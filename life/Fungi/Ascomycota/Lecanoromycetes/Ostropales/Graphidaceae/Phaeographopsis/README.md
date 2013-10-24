@@ -1,5 +1,4 @@
-Phaeographopsis Sipman GENUS
-=======
+# Phaeographopsis Sipman GENUS
 
 #### Status
 ACCEPTED

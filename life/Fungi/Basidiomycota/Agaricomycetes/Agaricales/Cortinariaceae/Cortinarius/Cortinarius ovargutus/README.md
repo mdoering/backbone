@@ -1,5 +1,4 @@
-Cortinarius ovargutus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius ovargutus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

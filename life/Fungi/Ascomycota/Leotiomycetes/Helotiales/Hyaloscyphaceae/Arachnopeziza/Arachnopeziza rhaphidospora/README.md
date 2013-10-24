@@ -1,5 +1,4 @@
-Arachnopeziza rhaphidospora (Ellis) Rehm SPECIES
-=======
+# Arachnopeziza rhaphidospora (Ellis) Rehm SPECIES
 
 #### Status
 ACCEPTED

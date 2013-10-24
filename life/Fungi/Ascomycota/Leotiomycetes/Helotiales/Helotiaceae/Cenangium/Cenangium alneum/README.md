@@ -1,5 +1,4 @@
-Cenangium alneum Fuckel SPECIES
-=======
+# Cenangium alneum Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrocarpon juglandina Schischkina & Tsanava SPECIES
-=======
+# Cylindrocarpon juglandina Schischkina & Tsanava SPECIES
 
 #### Status
 ACCEPTED

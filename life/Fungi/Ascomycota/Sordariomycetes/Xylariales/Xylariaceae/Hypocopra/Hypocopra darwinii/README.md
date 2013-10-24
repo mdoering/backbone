@@ -1,5 +1,4 @@
-Hypocopra darwinii Speg. SPECIES
-=======
+# Hypocopra darwinii Speg. SPECIES
 
 #### Status
 ACCEPTED

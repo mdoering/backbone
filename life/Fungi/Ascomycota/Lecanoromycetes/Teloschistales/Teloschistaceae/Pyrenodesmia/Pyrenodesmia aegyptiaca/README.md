@@ -1,5 +1,4 @@
-Pyrenodesmia aegyptiaca (Müll. Arg.) M. Choisy & Werner SPECIES
-=======
+# Pyrenodesmia aegyptiaca (Müll. Arg.) M. Choisy & Werner SPECIES
 
 #### Status
 ACCEPTED

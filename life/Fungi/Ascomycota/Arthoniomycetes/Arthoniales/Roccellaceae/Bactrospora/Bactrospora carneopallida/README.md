@@ -1,5 +1,4 @@
-Bactrospora carneopallida Egea & Torrente SPECIES
-=======
+# Bactrospora carneopallida Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

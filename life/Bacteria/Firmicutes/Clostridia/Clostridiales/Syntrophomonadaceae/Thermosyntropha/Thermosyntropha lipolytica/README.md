@@ -1,5 +1,4 @@
-Thermosyntropha lipolytica Svetlitshnyi et al., 1996 SPECIES
-=======
+# Thermosyntropha lipolytica Svetlitshnyi et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

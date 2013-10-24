@@ -1,14 +1,13 @@
-Aspicilia subsorediza (Lynge) R. Sant. SPECIES
-=======
+# Bellemerea subsorediza (Lynge) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenes Selecti Exsiccati (Pruhonice) 58: 3 (no. 1434) (1976)
+in Moberg, Thunbergia 5: 2 (1987)
 
 #### Original name
 Lecidea subsorediza Lynge

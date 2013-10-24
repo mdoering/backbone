@@ -1,5 +1,4 @@
-Irpex pavichii Kalchbr. SPECIES
-=======
+# Irpex pavichii Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia subacclinis (Flagey) Zahlbr. SPECIES
-=======
+# Bacidia subacclinis (Flagey) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

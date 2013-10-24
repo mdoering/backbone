@@ -1,5 +1,4 @@
-Lophiostoma utriculus (Rebent.) Sacc. SPECIES
-=======
+# Lophiostoma utriculus (Rebent.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

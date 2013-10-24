@@ -1,5 +1,4 @@
-Usnea subscabrosa Nyl. ex Motyka SPECIES
-=======
+# Usnea subscabrosa Nyl. ex Motyka SPECIES
 
 #### Status
 ACCEPTED

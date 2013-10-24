@@ -1,5 +1,4 @@
-Dothiorella valentina Alcalde SPECIES
-=======
+# Dothiorella valentina Alcalde SPECIES
 
 #### Status
 ACCEPTED

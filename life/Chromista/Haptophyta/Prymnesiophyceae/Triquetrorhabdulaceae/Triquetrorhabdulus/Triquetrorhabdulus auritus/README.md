@@ -1,8 +1,7 @@
-Triquetrorhabdulus auritusa Stradner & Allram, 1982 SPECIES
-=======
+# Triquetrorhabdulus auritus Stradner & Allram, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

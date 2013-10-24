@@ -1,5 +1,4 @@
-Poromycena anastomosans Singer SPECIES
-=======
+# Poromycena anastomosans Singer SPECIES
 
 #### Status
 ACCEPTED

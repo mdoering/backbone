@@ -1,5 +1,4 @@
-Usnea praelonga Stirt. SPECIES
-=======
+# Usnea praelonga Stirt. SPECIES
 
 #### Status
 ACCEPTED

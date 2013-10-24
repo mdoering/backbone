@@ -1,5 +1,4 @@
-Cylindrospermum minimum G.S. West SPECIES
-=======
+# Cylindrospermum minimum G.S. West SPECIES
 
 #### Status
 ACCEPTED

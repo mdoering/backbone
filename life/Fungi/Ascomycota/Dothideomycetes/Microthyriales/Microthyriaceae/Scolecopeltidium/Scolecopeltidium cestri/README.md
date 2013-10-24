@@ -1,5 +1,4 @@
-Scolecopeltidium cestri (Toro) Bat. SPECIES
-=======
+# Scolecopeltidium cestri (Toro) Bat. SPECIES
 
 #### Status
 ACCEPTED

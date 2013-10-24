@@ -1,5 +1,4 @@
-Megalotremis flavovulcana (Komposch) Aptroot SPECIES
-=======
+# Megalotremis flavovulcana (Komposch) Aptroot SPECIES
 
 #### Status
 ACCEPTED

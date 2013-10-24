@@ -1,5 +1,4 @@
-Pseudocercospora elaeocarpi B. Sutton & Sankaran SPECIES
-=======
+# Pseudocercospora elaeocarpi B. Sutton & Sankaran SPECIES
 
 #### Status
 ACCEPTED

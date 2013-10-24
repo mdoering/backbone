@@ -1,5 +1,4 @@
-Leptothyrium indicum Pavgi & Gupta {?} SPECIES
-=======
+# Leptothyrium indicum Pavgi & Gupta {?} SPECIES
 
 #### Status
 ACCEPTED

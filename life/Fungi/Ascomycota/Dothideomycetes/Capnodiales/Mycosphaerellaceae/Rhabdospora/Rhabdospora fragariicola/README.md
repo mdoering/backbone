@@ -1,5 +1,4 @@
-Rhabdospora fragariicola Naumov SPECIES
-=======
+# Rhabdospora fragariicola Naumov SPECIES
 
 #### Status
 ACCEPTED

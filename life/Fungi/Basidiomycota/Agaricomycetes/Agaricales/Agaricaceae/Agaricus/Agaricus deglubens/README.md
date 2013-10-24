@@ -1,5 +1,4 @@
-Agaricus deglubens Fr. SPECIES
-=======
+# Agaricus deglubens Fr. SPECIES
 
 #### Status
 ACCEPTED

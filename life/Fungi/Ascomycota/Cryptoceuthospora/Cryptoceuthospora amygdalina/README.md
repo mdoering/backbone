@@ -1,5 +1,4 @@
-Cryptoceuthospora amygdalina (Sacc.) Petr. SPECIES
-=======
+# Cryptoceuthospora amygdalina (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

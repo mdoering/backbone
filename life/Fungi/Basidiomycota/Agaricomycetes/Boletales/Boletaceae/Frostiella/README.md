@@ -1,5 +1,4 @@
-Frostiella GENUS
-=======
+# Frostiella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium melandrii Vasyag. SPECIES
-=======
+# Macrosporium melandrii Vasyag. SPECIES
 
 #### Status
 ACCEPTED

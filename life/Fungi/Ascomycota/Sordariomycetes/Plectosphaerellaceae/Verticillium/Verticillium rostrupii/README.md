@@ -1,5 +1,4 @@
-Verticillium rostrupii Nann. SPECIES
-=======
+# Verticillium rostrupii Nann. SPECIES
 
 #### Status
 ACCEPTED

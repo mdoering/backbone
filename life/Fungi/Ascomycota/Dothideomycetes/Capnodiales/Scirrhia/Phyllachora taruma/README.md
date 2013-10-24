@@ -1,5 +1,4 @@
-Phyllachora taruma Speg., 1885 SPECIES
-=======
+# Phyllachora taruma Speg., 1885 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Pholiota martinicensis Pat. SPECIES
-=======
+# Pholiota martinicensis Pat. SPECIES
 
 #### Status
 ACCEPTED

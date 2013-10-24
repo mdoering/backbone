@@ -1,5 +1,4 @@
-Eurotiopsis minima P. Karst. SPECIES
-=======
+# Eurotiopsis minima P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dentalina aciculata (d'Orbigny, 1826) SPECIES
-=======
+# Dentalina aciculata (d'Orbigny, 1826) SPECIES
 
 #### Status
 ACCEPTED

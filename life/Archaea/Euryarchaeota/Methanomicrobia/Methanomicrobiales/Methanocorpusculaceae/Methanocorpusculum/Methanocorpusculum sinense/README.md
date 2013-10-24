@@ -1,5 +1,4 @@
-Methanocorpusculum sinense Zellner et al., 1989 SPECIES
-=======
+# Methanocorpusculum sinense Zellner et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

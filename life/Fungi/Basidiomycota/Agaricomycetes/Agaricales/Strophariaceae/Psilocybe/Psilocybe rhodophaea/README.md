@@ -1,5 +1,4 @@
-Psilocybe rhodophaea Mont. SPECIES
-=======
+# Psilocybe rhodophaea Mont. SPECIES
 
 #### Status
 ACCEPTED

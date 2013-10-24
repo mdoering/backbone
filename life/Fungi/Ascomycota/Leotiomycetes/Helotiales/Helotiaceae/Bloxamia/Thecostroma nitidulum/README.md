@@ -1,5 +1,4 @@
-Thecostroma nitidulum (Sacc.) Clem. SPECIES
-=======
+# Thecostroma nitidulum (Sacc.) Clem. SPECIES
 
 #### Status
 ACCEPTED

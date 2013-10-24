@@ -1,5 +1,4 @@
-Vorticella ovum Dons, 1917 SPECIES
-=======
+# Vorticella ovum Dons, 1917 SPECIES
 
 #### Status
 ACCEPTED

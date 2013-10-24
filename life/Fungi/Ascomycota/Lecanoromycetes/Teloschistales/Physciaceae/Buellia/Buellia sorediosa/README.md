@@ -1,5 +1,4 @@
-Buellia sorediosa Reichert & Galun SPECIES
-=======
+# Buellia sorediosa Reichert & Galun SPECIES
 
 #### Status
 ACCEPTED

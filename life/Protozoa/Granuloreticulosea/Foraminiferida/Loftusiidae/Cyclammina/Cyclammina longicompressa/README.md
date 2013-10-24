@@ -1,5 +1,4 @@
-Cyclammina longicompressa Chapman, W.D. & Crespin, I., 1930 SPECIES
-=======
+# Cyclammina longicompressa Chapman, W.D. & Crespin, I., 1930 SPECIES
 
 #### Status
 ACCEPTED

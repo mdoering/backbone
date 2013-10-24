@@ -1,5 +1,4 @@
-Aphanomyces balboensis J.V. Harv. SPECIES
-=======
+# Aphanomyces balboensis J.V. Harv. SPECIES
 
 #### Status
 ACCEPTED

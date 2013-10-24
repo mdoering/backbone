@@ -1,5 +1,4 @@
-Stenella kansensis (Syd. & P. Syd.) U. Braun SPECIES
-=======
+# Stenella kansensis (Syd. & P. Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

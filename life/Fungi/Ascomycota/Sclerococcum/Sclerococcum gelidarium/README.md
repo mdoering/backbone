@@ -1,5 +1,4 @@
-Sclerococcum gelidarium Etayo & F. Berger SPECIES
-=======
+# Sclerococcum gelidarium Etayo & F. Berger SPECIES
 
 #### Status
 ACCEPTED

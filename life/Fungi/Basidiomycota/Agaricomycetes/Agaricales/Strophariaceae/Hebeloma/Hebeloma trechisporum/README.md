@@ -1,5 +1,4 @@
-Hebeloma trechisporum (Berk.) SPECIES
-=======
+# Hebeloma trechisporum (Berk.) SPECIES
 
 #### Status
 ACCEPTED

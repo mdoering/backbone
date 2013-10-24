@@ -1,5 +1,4 @@
-Monascus lunisporas Udagawa & H. Baba SPECIES
-=======
+# Monascus lunisporas Udagawa & H. Baba SPECIES
 
 #### Status
 ACCEPTED

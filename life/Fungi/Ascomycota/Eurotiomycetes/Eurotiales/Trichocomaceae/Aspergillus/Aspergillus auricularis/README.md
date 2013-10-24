@@ -1,5 +1,4 @@
-Aspergillus auricularis Moq.-Tand. {?} SPECIES
-=======
+# Aspergillus auricularis Moq.-Tand. {?} SPECIES
 
 #### Status
 ACCEPTED

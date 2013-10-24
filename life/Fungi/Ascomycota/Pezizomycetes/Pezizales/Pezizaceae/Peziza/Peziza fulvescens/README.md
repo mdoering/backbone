@@ -1,5 +1,4 @@
-Peziza fulvescens Nyl. SPECIES
-=======
+# Peziza fulvescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

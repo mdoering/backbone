@@ -1,5 +1,4 @@
-Stilbum ustulinae Pat. SPECIES
-=======
+# Stilbum ustulinae Pat. SPECIES
 
 #### Status
 ACCEPTED

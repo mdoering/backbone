@@ -1,5 +1,4 @@
-Inocybe submuricellata var. submuricellata VARIETY
-=======
+# Inocybe submuricellata G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Inocybe submuricellata var. submuricellata
+Inocybe submuricellata G.F. Atk.
 
 ### Remarks
 null

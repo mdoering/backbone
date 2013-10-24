@@ -1,5 +1,4 @@
-Allogromia ovoidea Rhumbler, 1904 SPECIES
-=======
+# Allogromia ovoidea Rhumbler, 1904 SPECIES
 
 #### Status
 ACCEPTED

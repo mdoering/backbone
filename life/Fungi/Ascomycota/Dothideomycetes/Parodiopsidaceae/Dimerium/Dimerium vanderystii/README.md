@@ -1,5 +1,4 @@
-Dimerium vanderystii Hansf. SPECIES
-=======
+# Dimerium vanderystii Hansf. SPECIES
 
 #### Status
 ACCEPTED

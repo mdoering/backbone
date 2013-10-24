@@ -1,5 +1,4 @@
-Plicaria himalayensis K.S. Thind & Waraitch SPECIES
-=======
+# Plicaria himalayensis K.S. Thind & Waraitch SPECIES
 
 #### Status
 ACCEPTED

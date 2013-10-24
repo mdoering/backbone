@@ -1,5 +1,4 @@
-Clavulicium macounii (Burt) J. Erikss. & Boidin ex Parmasto SPECIES
-=======
+# Clavulicium macounii (Burt) J. Erikss. & Boidin ex Parmasto SPECIES
 
 #### Status
 ACCEPTED

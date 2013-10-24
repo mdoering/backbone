@@ -1,17 +1,16 @@
-Diderma circumscissilis S.D. Patil, R.L. Mishra & Ranade SPECIES
-=======
+# Diderma circumscissile S.D. Patil, R.L. Mishra & Ranade, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Mishra & Ranade, Maharashtra Vidnyan Mandir, Patrika 14(1): 33 (1979)
 
 #### Original name
-Diderma circumscissilis S.D. Patil, R.L. Mishra & Ranade
+Diderma circumscissile S.D. Patil, R.L. Mishra & Ranade, 1979
 
 ### Remarks
 null

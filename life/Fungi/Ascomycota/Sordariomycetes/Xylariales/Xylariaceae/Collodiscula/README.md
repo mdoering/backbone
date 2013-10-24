@@ -1,5 +1,4 @@
-Collodiscula I. Hino & Katum. GENUS
-=======
+# Collodiscula I. Hino & Katum. GENUS
 
 #### Status
 ACCEPTED

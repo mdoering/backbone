@@ -1,5 +1,4 @@
-Candelabrum clathrosphaeroides Voglmayr, 1998 SPECIES
-=======
+# Candelabrum clathrosphaeroides Voglmayr, 1998 SPECIES
 
 #### Status
 ACCEPTED

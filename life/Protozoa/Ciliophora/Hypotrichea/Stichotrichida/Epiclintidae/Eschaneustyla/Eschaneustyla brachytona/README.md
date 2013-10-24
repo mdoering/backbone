@@ -1,5 +1,4 @@
-Eschaneustyla brachytona Stokes, 1886 SPECIES
-=======
+# Eschaneustyla brachytona Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

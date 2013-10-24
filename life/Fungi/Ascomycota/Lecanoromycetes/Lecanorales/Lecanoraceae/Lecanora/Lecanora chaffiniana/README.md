@@ -1,5 +1,4 @@
-Lecanora chaffiniana Houmeau & Cl. Roux SPECIES
-=======
+# Lecanora chaffiniana Houmeau & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

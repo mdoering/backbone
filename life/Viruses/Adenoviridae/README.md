@@ -1,5 +1,4 @@
-Adenoviridae FAMILY
-=======
+# Adenoviridae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Planistromella torsifoliorum A.W. Ramaley, 1995 SPECIES
-=======
+# Planistromella torsifoliorum A.W. Ramaley, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium staphyleae Schwein. SPECIES
-=======
+# Cenangium staphyleae Schwein. SPECIES
 
 #### Status
 ACCEPTED

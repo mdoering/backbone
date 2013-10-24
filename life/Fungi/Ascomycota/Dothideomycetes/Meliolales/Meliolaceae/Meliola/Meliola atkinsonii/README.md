@@ -1,5 +1,4 @@
-Meliola atkinsonii Hansf. SPECIES
-=======
+# Meliola atkinsonii Hansf. SPECIES
 
 #### Status
 ACCEPTED

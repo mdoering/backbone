@@ -1,5 +1,4 @@
-Diaporthopsis acus anon. SPECIES
-=======
+# Diaporthopsis acus anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita pyramidiferinus A.E. Wood SPECIES
-=======
+# Amanita pyramidiferinus A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

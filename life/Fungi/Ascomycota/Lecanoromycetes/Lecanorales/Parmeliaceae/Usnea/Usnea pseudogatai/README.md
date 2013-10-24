@@ -1,5 +1,4 @@
-Usnea pseudogatai Asahina SPECIES
-=======
+# Usnea pseudogatai Asahina SPECIES
 
 #### Status
 ACCEPTED

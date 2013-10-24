@@ -1,5 +1,4 @@
-Microdiplodia obscura (Pass.) Petr. & Syd. SPECIES
-=======
+# Microdiplodia obscura (Pass.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

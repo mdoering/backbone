@@ -1,5 +1,4 @@
-Fuckelia amplispora Cooke SPECIES
-=======
+# Fuckelia amplispora Cooke SPECIES
 
 #### Status
 ACCEPTED

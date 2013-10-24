@@ -1,5 +1,4 @@
-Phaeobolus GENUS
-=======
+# Phaeobolus GENUS
 
 #### Status
 ACCEPTED

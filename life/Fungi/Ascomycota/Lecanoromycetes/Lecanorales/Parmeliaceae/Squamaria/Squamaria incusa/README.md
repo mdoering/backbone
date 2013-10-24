@@ -1,5 +1,4 @@
-Squamaria incusa (Flot.) Szatala SPECIES
-=======
+# Squamaria incusa (Flot.) Szatala SPECIES
 
 #### Status
 ACCEPTED

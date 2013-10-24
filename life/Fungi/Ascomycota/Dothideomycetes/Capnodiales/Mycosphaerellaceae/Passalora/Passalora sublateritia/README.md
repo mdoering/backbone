@@ -1,5 +1,4 @@
-Passalora sublateritia (Henn.) U. Braun & Crous SPECIES
-=======
+# Passalora sublateritia (Henn.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

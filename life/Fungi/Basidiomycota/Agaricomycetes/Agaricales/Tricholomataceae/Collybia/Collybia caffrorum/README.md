@@ -1,5 +1,4 @@
-Collybia caffrorum (Kalchbr. & MacOwan) D.A. Reid SPECIES
-=======
+# Collybia caffrorum (Kalchbr. & MacOwan) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

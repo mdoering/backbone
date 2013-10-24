@@ -1,8 +1,7 @@
-Dasyscypha dusenii Rehm SPECIES
-=======
+# Dasyscyphus dusenii Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha dusenii Rehm
+Dasyscyphus dusenii Rehm
 
 ### Remarks
 null

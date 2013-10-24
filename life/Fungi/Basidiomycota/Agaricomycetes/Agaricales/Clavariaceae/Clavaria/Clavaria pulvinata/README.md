@@ -1,5 +1,4 @@
-Clavaria pulvinata Pers. SPECIES
-=======
+# Clavaria pulvinata Pers. SPECIES
 
 #### Status
 ACCEPTED

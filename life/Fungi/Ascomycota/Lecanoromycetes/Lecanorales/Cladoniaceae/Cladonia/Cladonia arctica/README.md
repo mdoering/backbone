@@ -1,5 +1,4 @@
-Cladonia arctica (Hook. f.) Th. Fr. SPECIES
-=======
+# Cladonia arctica (Hook. f.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

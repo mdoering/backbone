@@ -1,5 +1,4 @@
-Clitocybe glutiniceps A.H. Sm. SPECIES
-=======
+# Clitocybe glutiniceps A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

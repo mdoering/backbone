@@ -1,5 +1,4 @@
-Porina graeweana (Blomb.) Zahlbr. SPECIES
-=======
+# Porina graeweana (Blomb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

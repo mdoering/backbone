@@ -1,8 +1,7 @@
-Peziza luteopallens Nyl., 1868 SPECIES
-=======
+# Cheilymenia luteopallens (Nyl.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

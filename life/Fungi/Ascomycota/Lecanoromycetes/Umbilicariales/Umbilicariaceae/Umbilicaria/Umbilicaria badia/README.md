@@ -1,5 +1,4 @@
-Umbilicaria badia Frey SPECIES
-=======
+# Umbilicaria badia Frey SPECIES
 
 #### Status
 ACCEPTED

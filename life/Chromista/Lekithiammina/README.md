@@ -1,5 +1,4 @@
-Lekithiammina de Folin, 1887 GENUS
-=======
+# Lekithiammina de Folin, 1887 GENUS
 
 #### Status
 ACCEPTED

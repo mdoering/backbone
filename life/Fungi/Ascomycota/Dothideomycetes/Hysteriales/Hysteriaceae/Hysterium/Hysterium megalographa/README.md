@@ -1,5 +1,4 @@
-Hysterium megalographa Anzi SPECIES
-=======
+# Hysterium megalographa Anzi SPECIES
 
 #### Status
 ACCEPTED

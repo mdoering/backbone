@@ -1,5 +1,4 @@
-Ramularia bupthalmi Allesch. SPECIES
-=======
+# Ramularia bupthalmi Allesch. SPECIES
 
 #### Status
 ACCEPTED

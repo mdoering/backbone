@@ -1,5 +1,4 @@
-Retecapsa radiata SPECIES
-=======
+# Retecapsa radiata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hydnum kauffmani Peck SPECIES
-=======
+# Climacodon pulcherrimus (Berk. & M.A. Curtis) Nikol., 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora Plantarum Cryptogamarum URSS 6, Fungi 6(Fungi, 2): 194 (1961)
 
 #### Original name
-Hydnum kauffmani Peck
+Hydnum pulcherrimum Berk. & M.A. Curtis, 1849
 
 ### Remarks
 null

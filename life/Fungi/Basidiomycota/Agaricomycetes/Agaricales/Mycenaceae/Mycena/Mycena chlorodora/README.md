@@ -1,5 +1,4 @@
-Mycena chlorodora Métrod SPECIES
-=======
+# Mycena chlorodora Métrod SPECIES
 
 #### Status
 ACCEPTED

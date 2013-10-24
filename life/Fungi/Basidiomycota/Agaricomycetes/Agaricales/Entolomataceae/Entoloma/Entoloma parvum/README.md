@@ -1,5 +1,4 @@
-Entoloma parvum (Peck) Hesler SPECIES
-=======
+# Entoloma parvum (Peck) Hesler SPECIES
 
 #### Status
 ACCEPTED

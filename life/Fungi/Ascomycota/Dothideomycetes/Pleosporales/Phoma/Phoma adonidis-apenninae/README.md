@@ -1,5 +1,4 @@
-Phoma adonidis-apenninae Naumov SPECIES
-=======
+# Phoma adonidis-apenninae Naumov SPECIES
 
 #### Status
 ACCEPTED

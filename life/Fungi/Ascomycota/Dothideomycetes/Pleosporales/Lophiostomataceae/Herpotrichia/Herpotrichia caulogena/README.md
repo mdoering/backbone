@@ -1,5 +1,4 @@
-Herpotrichia caulogena Feltgen SPECIES
-=======
+# Herpotrichia caulogena Feltgen SPECIES
 
 #### Status
 ACCEPTED

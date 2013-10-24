@@ -1,5 +1,4 @@
-Cenangium pini-densiflorae Togashi SPECIES
-=======
+# Cenangium pini-densiflorae Togashi SPECIES
 
 #### Status
 ACCEPTED

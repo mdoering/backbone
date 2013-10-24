@@ -1,5 +1,4 @@
-Heppia planescens Nyl. SPECIES
-=======
+# Heppia planescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

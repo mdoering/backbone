@@ -1,14 +1,13 @@
-Poria sublaevigata Cleland & Rodway, 1929 SPECIES
-=======
+# Phellinus sublaevigatus (Cleland & Rodway) P.K. Buchanan & Ryvarden, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 39 (1929)
+Aust. Syst. Bot. 6(3): 230 (1993)
 
 #### Original name
 Poria sublaevigata Cleland & Rodway, 1929

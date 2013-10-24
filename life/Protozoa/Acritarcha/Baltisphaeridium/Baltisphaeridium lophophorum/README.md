@@ -1,5 +1,4 @@
-Baltisphaeridium lophophorum Burmann, 1973 SPECIES
-=======
+# Baltisphaeridium lophophorum Burmann, 1973 SPECIES
 
 #### Status
 ACCEPTED

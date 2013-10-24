@@ -1,5 +1,4 @@
-Tetraedrixium elegans Timofeev, 1973 SPECIES
-=======
+# Tetraedrixium elegans Timofeev, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthelia galiorum (Fuckel) Kuntze SPECIES
-=======
+# Microthelia galiorum (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosporina echinosimilis E. Horak SPECIES
-=======
+# Astrosporina echinosimilis E. Horak SPECIES
 
 #### Status
 ACCEPTED

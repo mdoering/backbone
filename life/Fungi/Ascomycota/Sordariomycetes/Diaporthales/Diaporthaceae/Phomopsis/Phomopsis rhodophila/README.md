@@ -1,5 +1,4 @@
-Phomopsis rhodophila (Sacc.) N.F. Buchw. SPECIES
-=======
+# Phomopsis rhodophila (Sacc.) N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

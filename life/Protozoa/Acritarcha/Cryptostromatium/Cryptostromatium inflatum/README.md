@@ -1,5 +1,4 @@
-Cryptostromatium inflatum Moreau-Benoît, 1974 SPECIES
-=======
+# Cryptostromatium inflatum Moreau-Benoît, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phyllachora scabies (Kalchbr. & Cooke) Cooke, 1885 SPECIES
-=======
+# Auerswaldia scabies (Kalchbr. & Cooke) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 69 (1885)
+Syll. fung. (Abellini) 2: 626 (1883)
 
 #### Original name
 Dothidea scabies Kalchbr. & Cooke, 1880

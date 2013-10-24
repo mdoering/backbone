@@ -1,17 +1,16 @@
-Gloeopeziza crozalsi Grelet SPECIES
-=======
+# Gloeopeziza crozalsii Grelet, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 40: 226 (1924)
 
 #### Original name
-Gloeopeziza crozalsi Grelet
+Gloeopeziza crozalsii Grelet, 1924
 
 ### Remarks
 null

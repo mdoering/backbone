@@ -1,5 +1,4 @@
-Sphaerella oenotherae Ellis & Everh. SPECIES
-=======
+# Sphaerella oenotherae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

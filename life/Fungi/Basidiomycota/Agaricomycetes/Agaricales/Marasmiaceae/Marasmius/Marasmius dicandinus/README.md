@@ -1,5 +1,4 @@
-Marasmius dicandinus Desjardin, Retn. & E. Horak SPECIES
-=======
+# Marasmius dicandinus Desjardin, Retn. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

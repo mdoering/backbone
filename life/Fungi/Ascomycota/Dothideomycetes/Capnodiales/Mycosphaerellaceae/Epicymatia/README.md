@@ -1,5 +1,4 @@
-Epicymatia Fuckel, 1870 GENUS
-=======
+# Epicymatia Fuckel, 1870 GENUS
 
 #### Status
 ACCEPTED

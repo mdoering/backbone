@@ -1,5 +1,4 @@
-Saccobolus eleutherosporus Brumm. SPECIES
-=======
+# Saccobolus eleutherosporus Brumm. SPECIES
 
 #### Status
 ACCEPTED

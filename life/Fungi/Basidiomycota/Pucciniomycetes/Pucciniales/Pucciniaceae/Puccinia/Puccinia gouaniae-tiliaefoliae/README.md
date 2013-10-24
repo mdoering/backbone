@@ -1,5 +1,4 @@
-Puccinia gouaniae-tiliaefoliae Syd. SPECIES
-=======
+# Puccinia gouaniae-tiliaefoliae Syd. SPECIES
 
 #### Status
 ACCEPTED

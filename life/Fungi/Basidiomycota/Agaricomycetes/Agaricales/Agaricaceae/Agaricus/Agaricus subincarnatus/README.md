@@ -1,5 +1,4 @@
-Agaricus subincarnatus Peck SPECIES
-=======
+# Agaricus subincarnatus Peck SPECIES
 
 #### Status
 ACCEPTED

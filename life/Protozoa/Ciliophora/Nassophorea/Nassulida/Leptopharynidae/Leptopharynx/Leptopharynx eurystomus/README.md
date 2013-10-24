@@ -1,8 +1,7 @@
-Leptopharynx eurystoma (Kahl, 1931) Foissner & Foissner, 1988 SPECIES
-=======
+# Leptopharynx eurystomus (Kahl, 1931) Foissner & Foissner, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

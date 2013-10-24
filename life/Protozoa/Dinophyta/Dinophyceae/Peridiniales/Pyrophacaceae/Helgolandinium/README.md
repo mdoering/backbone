@@ -1,5 +1,4 @@
-Helgolandinium Von Stosch, 1969 GENUS
-=======
+# Helgolandinium Von Stosch, 1969 GENUS
 
 #### Status
 ACCEPTED

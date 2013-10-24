@@ -1,5 +1,4 @@
-Hyaloceras seiridioides (Sacc.) Died. SPECIES
-=======
+# Hyaloceras seiridioides (Sacc.) Died. SPECIES
 
 #### Status
 ACCEPTED

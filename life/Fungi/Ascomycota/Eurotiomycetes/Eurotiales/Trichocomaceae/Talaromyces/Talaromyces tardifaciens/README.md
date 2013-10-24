@@ -1,5 +1,4 @@
-Talaromyces tardifaciens Udagawa, 1993 SPECIES
-=======
+# Talaromyces tardifaciens Udagawa, 1993 SPECIES
 
 #### Status
 ACCEPTED

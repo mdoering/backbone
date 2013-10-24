@@ -1,5 +1,4 @@
-Lophopera Haeckel, 1881 GENUS
-=======
+# Lophopera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

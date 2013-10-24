@@ -1,5 +1,4 @@
-Spegazzinia calyptrospora Höhn. SPECIES
-=======
+# Spegazzinia calyptrospora Höhn. SPECIES
 
 #### Status
 ACCEPTED

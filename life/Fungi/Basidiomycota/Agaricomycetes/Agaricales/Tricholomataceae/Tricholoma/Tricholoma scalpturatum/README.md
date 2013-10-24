@@ -1,17 +1,16 @@
-Tricholoma chrysites var. chrysites VARIETY
-=======
+# Tricholoma scalpturatum (Fr.) Quél., 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomycètes (Alençon) 98 (1874)
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 232 (1872)
 
 #### Original name
-Tricholoma chrysites var. chrysites
+Agaricus scalpturatus Fr., 1838
 
 ### Remarks
 null

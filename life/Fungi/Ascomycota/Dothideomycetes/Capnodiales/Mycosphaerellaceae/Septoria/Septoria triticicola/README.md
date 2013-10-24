@@ -1,5 +1,4 @@
-Septoria triticicola Lobik SPECIES
-=======
+# Septoria triticicola Lobik SPECIES
 
 #### Status
 ACCEPTED

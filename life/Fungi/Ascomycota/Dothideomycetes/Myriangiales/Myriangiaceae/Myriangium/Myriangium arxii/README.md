@@ -1,5 +1,4 @@
-Myriangium arxii Tend. SPECIES
-=======
+# Myriangium arxii Tend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichertodinium S.A.J. Pocock & W.A.S. Sarjeant, 1972 GENUS
-=======
+# Teichertodinium S.A.J. Pocock & W.A.S. Sarjeant, 1972 GENUS
 
 #### Status
 ACCEPTED

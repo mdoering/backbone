@@ -1,5 +1,4 @@
-Calycina aureola (Sacc.) Kuntze SPECIES
-=======
+# Calycina aureola (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum nunezii Lloyd SPECIES
-=======
+# Stereum nunezii Lloyd SPECIES
 
 #### Status
 ACCEPTED

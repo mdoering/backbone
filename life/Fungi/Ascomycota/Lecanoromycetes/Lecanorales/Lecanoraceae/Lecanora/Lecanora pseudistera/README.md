@@ -1,17 +1,16 @@
-Placodium glebulare Müll. Arg. SPECIES
-=======
+# Lecanora pseudistera Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 71: 204 (1888)
+Flora, Jena 55: 354 (1872)
 
 #### Original name
-Placodium glebulare Müll. Arg.
+Lecanora pseudistera Nyl.
 
 ### Remarks
 null

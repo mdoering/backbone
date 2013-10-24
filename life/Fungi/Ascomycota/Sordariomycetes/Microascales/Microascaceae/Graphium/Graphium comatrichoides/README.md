@@ -1,5 +1,4 @@
-Graphium comatrichoides Massee & E.S. Salmon, 1902 SPECIES
-=======
+# Graphium comatrichoides Massee & E.S. Salmon, 1902 SPECIES
 
 #### Status
 ACCEPTED

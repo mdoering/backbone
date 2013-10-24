@@ -1,5 +1,4 @@
-Dothiorella placenta (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Dothiorella placenta (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

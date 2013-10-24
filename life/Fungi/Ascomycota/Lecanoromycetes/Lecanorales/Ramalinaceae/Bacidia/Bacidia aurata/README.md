@@ -1,5 +1,4 @@
-Bacidia aurata Riddle SPECIES
-=======
+# Bacidia aurata Riddle SPECIES
 
 #### Status
 ACCEPTED

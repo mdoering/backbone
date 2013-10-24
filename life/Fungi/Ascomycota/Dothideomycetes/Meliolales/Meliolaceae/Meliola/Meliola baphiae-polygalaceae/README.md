@@ -1,5 +1,4 @@
-Meliola baphiae-polygalaceae Hansf. & Deighton SPECIES
-=======
+# Meliola baphiae-polygalaceae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

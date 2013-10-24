@@ -1,5 +1,4 @@
-Maronea fuscula f. fuscula FORM
-=======
+# Maronea fuscula (Müll. Arg.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Maronea fuscula f. fuscula
+Lecanora fuscula Müll. Arg.
 
 ### Remarks
 null

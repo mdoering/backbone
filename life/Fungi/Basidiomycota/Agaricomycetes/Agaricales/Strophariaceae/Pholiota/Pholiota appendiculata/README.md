@@ -1,5 +1,4 @@
-Pholiota appendiculata Peck SPECIES
-=======
+# Pholiota appendiculata Peck SPECIES
 
 #### Status
 ACCEPTED

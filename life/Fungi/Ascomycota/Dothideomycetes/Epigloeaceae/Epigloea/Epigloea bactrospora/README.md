@@ -1,5 +1,4 @@
-Epigloea bactrospora Zukal SPECIES
-=======
+# Epigloea bactrospora Zukal SPECIES
 
 #### Status
 ACCEPTED

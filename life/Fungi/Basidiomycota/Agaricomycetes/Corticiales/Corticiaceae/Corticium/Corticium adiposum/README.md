@@ -1,5 +1,4 @@
-Corticium adiposum Pass. & Beltr. SPECIES
-=======
+# Corticium adiposum Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

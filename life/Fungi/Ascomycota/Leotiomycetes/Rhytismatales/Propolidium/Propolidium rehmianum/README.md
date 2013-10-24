@@ -1,5 +1,4 @@
-Propolidium rehmianum Feltgen SPECIES
-=======
+# Propolidium rehmianum Feltgen SPECIES
 
 #### Status
 ACCEPTED

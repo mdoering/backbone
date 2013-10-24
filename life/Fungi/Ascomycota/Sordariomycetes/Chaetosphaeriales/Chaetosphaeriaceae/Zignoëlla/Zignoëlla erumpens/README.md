@@ -1,5 +1,4 @@
-Zignoëlla erumpens Cooke SPECIES
-=======
+# Zignoëlla erumpens Cooke SPECIES
 
 #### Status
 ACCEPTED

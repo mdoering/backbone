@@ -1,5 +1,4 @@
-Stigmatidium subtilissimum Nyl. SPECIES
-=======
+# Stigmatidium subtilissimum Nyl. SPECIES
 
 #### Status
 ACCEPTED

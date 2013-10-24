@@ -1,5 +1,4 @@
-Lepiota globularis Quél. SPECIES
-=======
+# Lepiota globularis Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sartvellia GENUS
-=======
+# Sartvellia GENUS
 
 #### Status
 ACCEPTED

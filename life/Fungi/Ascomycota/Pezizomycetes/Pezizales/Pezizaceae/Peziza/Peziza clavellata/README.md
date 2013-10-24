@@ -1,5 +1,4 @@
-Peziza clavellata Desm. SPECIES
-=======
+# Peziza clavellata Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorella athroocarpa (H. Magn.) Zahlbr. SPECIES
-=======
+# Biatorella athroocarpa (H. Magn.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

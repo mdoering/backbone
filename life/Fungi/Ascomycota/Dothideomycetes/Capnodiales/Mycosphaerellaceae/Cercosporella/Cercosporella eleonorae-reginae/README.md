@@ -1,5 +1,4 @@
-Cercosporella eleonorae-reginae Bubák & Malkoff ex Höhn. SPECIES
-=======
+# Cercosporella eleonorae-reginae Bubák & Malkoff ex Höhn. SPECIES
 
 #### Status
 ACCEPTED

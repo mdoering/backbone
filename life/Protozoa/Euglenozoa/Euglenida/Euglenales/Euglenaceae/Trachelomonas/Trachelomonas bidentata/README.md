@@ -1,5 +1,4 @@
-Trachelomonas bidentata Deflandre SPECIES
-=======
+# Trachelomonas bidentata Deflandre SPECIES
 
 #### Status
 ACCEPTED

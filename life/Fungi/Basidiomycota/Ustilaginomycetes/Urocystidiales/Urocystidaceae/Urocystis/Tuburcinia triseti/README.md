@@ -1,5 +1,4 @@
-Tuburcinia triseti Cif. SPECIES
-=======
+# Tuburcinia triseti Cif. SPECIES
 
 #### Status
 ACCEPTED

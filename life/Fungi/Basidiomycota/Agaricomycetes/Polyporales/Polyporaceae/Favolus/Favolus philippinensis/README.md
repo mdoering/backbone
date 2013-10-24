@@ -1,5 +1,4 @@
-Favolus philippinensis Berk. SPECIES
-=======
+# Favolus philippinensis Berk. SPECIES
 
 #### Status
 ACCEPTED

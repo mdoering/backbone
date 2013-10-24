@@ -1,5 +1,4 @@
-Cercospora cassiae-montanae Govindu & Thirum. SPECIES
-=======
+# Cercospora cassiae-montanae Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia sorediata (Tuck.) H. Magn. SPECIES
-=======
+# Buellia sorediata (Tuck.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

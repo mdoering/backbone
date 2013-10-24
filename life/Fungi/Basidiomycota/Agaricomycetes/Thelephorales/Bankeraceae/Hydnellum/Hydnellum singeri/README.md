@@ -1,5 +1,4 @@
-Hydnellum singeri Maas Geest., 1969 SPECIES
-=======
+# Hydnellum singeri Maas Geest., 1969 SPECIES
 
 #### Status
 ACCEPTED

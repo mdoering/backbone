@@ -1,5 +1,4 @@
-Lasiosphaeria fennica P. Karst. SPECIES
-=======
+# Lasiosphaeria fennica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

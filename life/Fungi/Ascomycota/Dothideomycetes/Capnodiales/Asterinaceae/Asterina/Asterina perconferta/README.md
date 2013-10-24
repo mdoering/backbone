@@ -1,5 +1,4 @@
-Asterina perconferta Trotter SPECIES
-=======
+# Asterina perconferta Trotter SPECIES
 
 #### Status
 ACCEPTED

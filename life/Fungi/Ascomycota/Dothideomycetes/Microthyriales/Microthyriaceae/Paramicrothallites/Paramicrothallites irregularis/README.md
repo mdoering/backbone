@@ -1,5 +1,4 @@
-Paramicrothallites irregularis Mart.-Hern. & Tom.-Ort. SPECIES
-=======
+# Paramicrothallites irregularis Mart.-Hern. & Tom.-Ort. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tyromyces xanthochrous Corner SPECIES
-=======
+# Tyromyces xanthochrous Corner SPECIES
 
 #### Status
 ACCEPTED

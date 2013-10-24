@@ -1,5 +1,4 @@
-Clitocybe platipoda Beeli SPECIES
-=======
+# Clitocybe platipoda Beeli SPECIES
 
 #### Status
 ACCEPTED

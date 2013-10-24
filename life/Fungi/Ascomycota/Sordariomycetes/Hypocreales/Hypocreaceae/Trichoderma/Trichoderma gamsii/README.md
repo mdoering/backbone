@@ -1,5 +1,4 @@
-Trichoderma gamsii Samuels & Druzhin. SPECIES
-=======
+# Trichoderma gamsii Samuels & Druzhin. SPECIES
 
 #### Status
 ACCEPTED

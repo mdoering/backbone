@@ -1,14 +1,13 @@
-Microthelia dochmia (Berk. & Broome) Kuntze, 1898 SPECIES
-=======
+# Didymosphaeria dochmia (Berk. & Broome) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 498 (1898)
+Syll. fung. (Abellini) 1: 706 (1882)
 
 #### Original name
 Sphaeria dochmia Berk. & Broome, 1852

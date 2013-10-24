@@ -1,17 +1,16 @@
-Melampsora allii-fragilis f. sp FORM
-=======
+# Melampsora allii-fragilis Kleb., 1901 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rust Diseases of Willow and Poplar (Wallingford) 32 (2005)
+Jb. wiss. Bot. 35(4): 671 (1901)
 
 #### Original name
-Melampsora allii-fragilis f. sp
+Melampsora allii-fragilis Kleb., 1901
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Scheffersomyces stipitis (Pignal) Kurtzman & M. Suzuki, 2010 SPECIES
-=======
+# Scheffersomyces stipitis (Pignal) Kurtzman & M. Suzuki, 2010 SPECIES
 
 #### Status
 ACCEPTED

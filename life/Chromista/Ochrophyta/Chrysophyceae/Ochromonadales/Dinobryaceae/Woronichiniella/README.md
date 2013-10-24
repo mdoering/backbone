@@ -1,5 +1,4 @@
-Woronichiniella Skvortzov, 1961 GENUS
-=======
+# Woronichiniella Skvortzov, 1961 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Entoloma phaiocephalus (Bull.) Quél. SPECIES
-=======
+# Entoloma phaeocephalus (Bull.) Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Compt. Rend. Assoc. Franç. Avancem. Sci. 14(2): 446 (1886)
 
 #### Original name
-Agaricus phajocephalus Bull.
+Agaricus phaeocephalus Bull.
 
 ### Remarks
 null

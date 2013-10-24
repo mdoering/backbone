@@ -1,5 +1,4 @@
-Imbricaria speciosa SPECIES
-=======
+# Imbricaria speciosa SPECIES
 
 #### Status
 ACCEPTED

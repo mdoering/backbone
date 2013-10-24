@@ -1,5 +1,4 @@
-Compsonema gracile Kuckuck SPECIES
-=======
+# Compsonema gracile Kuckuck SPECIES
 
 #### Status
 ACCEPTED

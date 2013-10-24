@@ -1,5 +1,4 @@
-Aphanostigme multispora Srinivasulu & P.G. Sathe SPECIES
-=======
+# Aphanostigme multispora Srinivasulu & P.G. Sathe SPECIES
 
 #### Status
 ACCEPTED

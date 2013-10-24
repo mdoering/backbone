@@ -1,5 +1,4 @@
-Lecania coccinea (Dicks.) Müll. Arg. SPECIES
-=======
+# Lecania coccinea (Dicks.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

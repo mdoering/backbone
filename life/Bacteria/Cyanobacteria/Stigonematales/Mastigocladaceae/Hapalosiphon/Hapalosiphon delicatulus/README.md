@@ -1,5 +1,4 @@
-Hapalosiphon delicatulus W. West & G.S. West SPECIES
-=======
+# Hapalosiphon delicatulus W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

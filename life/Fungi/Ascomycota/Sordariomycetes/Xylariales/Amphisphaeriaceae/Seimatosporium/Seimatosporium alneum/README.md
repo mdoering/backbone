@@ -1,5 +1,4 @@
-Seimatosporium alneum Nag Raj, 1986 SPECIES
-=======
+# Seimatosporium alneum Nag Raj, 1986 SPECIES
 
 #### Status
 ACCEPTED

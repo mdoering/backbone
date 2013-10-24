@@ -1,5 +1,4 @@
-Dirinaria subconfluens D.D. Awasthi SPECIES
-=======
+# Dirinaria subconfluens D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

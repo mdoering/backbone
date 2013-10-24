@@ -1,5 +1,4 @@
-Agaricus chionodermus Pilát SPECIES
-=======
+# Agaricus chionodermus Pilát SPECIES
 
 #### Status
 ACCEPTED

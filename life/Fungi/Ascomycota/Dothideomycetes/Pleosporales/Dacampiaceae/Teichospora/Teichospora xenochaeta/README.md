@@ -1,5 +1,4 @@
-Teichospora xenochaeta Penz. & Sacc. SPECIES
-=======
+# Teichospora xenochaeta Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

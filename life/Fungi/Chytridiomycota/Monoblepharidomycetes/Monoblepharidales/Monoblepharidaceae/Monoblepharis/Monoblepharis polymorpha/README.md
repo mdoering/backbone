@@ -1,17 +1,16 @@
-Monoblepharis brachyandra var. brachyandra Lagerh., 1899 VARIETY
-=======
+# Monoblepharis polymorpha Cornu, 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Saprolegn. 83 (1872)
 
 #### Original name
-Monoblepharis brachyandra var. brachyandra Lagerh., 1899
+Monoblepharis polymorpha Cornu, 1872
 
 ### Remarks
 null

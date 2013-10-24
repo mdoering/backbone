@@ -1,5 +1,4 @@
-Passalora pfaffiae (Chupp) U. Braun & Crous SPECIES
-=======
+# Passalora pfaffiae (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

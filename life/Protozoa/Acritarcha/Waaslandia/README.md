@@ -1,5 +1,4 @@
-Waaslandia De Schepper, Head & Louwye, 2004 GENUS
-=======
+# Waaslandia De Schepper, Head & Louwye, 2004 GENUS
 
 #### Status
 ACCEPTED

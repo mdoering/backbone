@@ -1,5 +1,4 @@
-Leptoglossum seticola Corner SPECIES
-=======
+# Leptoglossum seticola Corner SPECIES
 
 #### Status
 ACCEPTED

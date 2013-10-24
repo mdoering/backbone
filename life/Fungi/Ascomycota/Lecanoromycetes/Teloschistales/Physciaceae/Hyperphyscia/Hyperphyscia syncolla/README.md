@@ -1,5 +1,4 @@
-Hyperphyscia syncolla (Tuck. ex Nyl.) Kalb SPECIES
-=======
+# Hyperphyscia syncolla (Tuck. ex Nyl.) Kalb SPECIES
 
 #### Status
 ACCEPTED

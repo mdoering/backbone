@@ -1,5 +1,4 @@
-Cernicysta L.E. Stover & R. Helby, 1987 GENUS
-=======
+# Cernicysta L.E. Stover & R. Helby, 1987 GENUS
 
 #### Status
 ACCEPTED

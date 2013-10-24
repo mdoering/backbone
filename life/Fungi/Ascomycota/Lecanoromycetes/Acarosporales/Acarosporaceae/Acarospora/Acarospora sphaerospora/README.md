@@ -1,5 +1,4 @@
-Acarospora sphaerospora H. Magn. SPECIES
-=======
+# Acarospora sphaerospora H. Magn. SPECIES
 
 #### Status
 ACCEPTED

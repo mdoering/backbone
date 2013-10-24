@@ -1,5 +1,4 @@
-Oscillatoria jenensis G.Schmid SPECIES
-=======
+# Oscillatoria jenensis G.Schmid SPECIES
 
 #### Status
 ACCEPTED

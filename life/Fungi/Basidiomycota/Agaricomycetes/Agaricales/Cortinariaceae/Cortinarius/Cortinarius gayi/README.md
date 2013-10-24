@@ -1,5 +1,4 @@
-Cortinarius gayi E. Horak SPECIES
-=======
+# Cortinarius gayi E. Horak SPECIES
 
 #### Status
 ACCEPTED

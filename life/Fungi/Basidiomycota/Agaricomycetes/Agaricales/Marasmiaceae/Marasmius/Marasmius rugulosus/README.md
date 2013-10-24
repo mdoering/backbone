@@ -1,5 +1,4 @@
-Marasmius rugulosus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius rugulosus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

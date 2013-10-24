@@ -1,17 +1,16 @@
-Parmelia protoquintaria (Hale) Brusse SPECIES
-=======
+# Xanthoparmelia protoquintaria Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 34(2): 556 (1989)
 
 #### Original name
-null
+Xanthoparmelia protoquintaria Hale
 
 ### Remarks
 null

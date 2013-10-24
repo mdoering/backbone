@@ -1,5 +1,4 @@
-Baeomyces uncialis Ach. SPECIES
-=======
+# Baeomyces uncialis Ach. SPECIES
 
 #### Status
 ACCEPTED

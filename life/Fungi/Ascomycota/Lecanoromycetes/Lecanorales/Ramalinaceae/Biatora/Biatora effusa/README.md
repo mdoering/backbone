@@ -1,5 +1,4 @@
-Biatora effusa Hepp SPECIES
-=======
+# Biatora effusa Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladotrichum opacum Schulzer & Sacc. SPECIES
-=======
+# Cladotrichum opacum Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

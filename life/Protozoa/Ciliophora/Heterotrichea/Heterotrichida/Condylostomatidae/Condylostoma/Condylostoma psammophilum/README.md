@@ -1,5 +1,4 @@
-Condylostoma psammophilum Bock, 1952 SPECIES
-=======
+# Condylostoma psammophilum Bock, 1952 SPECIES
 
 #### Status
 ACCEPTED

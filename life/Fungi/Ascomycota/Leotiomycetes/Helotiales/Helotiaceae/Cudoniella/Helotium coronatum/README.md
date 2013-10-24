@@ -1,5 +1,4 @@
-Helotium coronatum P. Karst. SPECIES
-=======
+# Helotium coronatum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora strychni Syd. SPECIES
-=======
+# Cercospora strychni Syd. SPECIES
 
 #### Status
 ACCEPTED

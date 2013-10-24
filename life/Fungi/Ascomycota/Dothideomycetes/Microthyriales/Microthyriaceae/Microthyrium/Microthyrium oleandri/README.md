@@ -1,5 +1,4 @@
-Microthyrium oleandri Pass. SPECIES
-=======
+# Microthyrium oleandri Pass. SPECIES
 
 #### Status
 ACCEPTED

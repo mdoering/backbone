@@ -1,5 +1,4 @@
-Pyrenula bayrhofferi (Körb.) Hepp SPECIES
-=======
+# Pyrenula bayrhofferi (Körb.) Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula angustissima Vain. SPECIES
-=======
+# Strigula angustissima Vain. SPECIES
 
 #### Status
 ACCEPTED

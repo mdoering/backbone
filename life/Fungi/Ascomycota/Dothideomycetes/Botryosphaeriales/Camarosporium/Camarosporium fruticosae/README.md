@@ -1,17 +1,16 @@
-Camarosporium fruticosae var. minor S. Ahmad VARIETY
-=======
+# Camarosporium fruticosae S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 13: 24 (1967)
 
 #### Original name
-Camarosporium fruticosae var. minor S. Ahmad
+Camarosporium fruticosae S. Ahmad
 
 ### Remarks
 null

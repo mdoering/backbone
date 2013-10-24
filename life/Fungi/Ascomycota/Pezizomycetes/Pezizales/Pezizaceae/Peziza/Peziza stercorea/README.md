@@ -1,5 +1,4 @@
-Peziza stercorea var. stercorea VARIETY
-=======
+# Peziza stercorea Schumach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Prim. fl. holsat. (Kiliae) 106 (1780)
+Enum. pl. (Kjbenhavn) 2: 433 (1803)
 
 #### Original name
-Peziza stercorea var. stercorea
+Peziza stercorea Schumach.
 
 ### Remarks
 null

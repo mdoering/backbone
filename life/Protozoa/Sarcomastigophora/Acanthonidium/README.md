@@ -1,5 +1,4 @@
-Acanthonidium Haeckel, 1887 GENUS
-=======
+# Acanthonidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

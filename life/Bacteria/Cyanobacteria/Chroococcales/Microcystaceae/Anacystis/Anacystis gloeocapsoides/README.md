@@ -1,5 +1,4 @@
-Anacystis gloeocapsoides Gardner SPECIES
-=======
+# Anacystis gloeocapsoides Gardner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis farinulenta Letell. SPECIES
-=======
+# Botrytis farinulenta Letell. SPECIES
 
 #### Status
 ACCEPTED

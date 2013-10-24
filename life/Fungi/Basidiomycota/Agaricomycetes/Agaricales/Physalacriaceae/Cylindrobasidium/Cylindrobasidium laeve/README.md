@@ -1,14 +1,13 @@
-Hypochnus laevis (Pers.) Bonord., 1851 SPECIES
-=======
+# Cylindrobasidium laeve (Pers.) Chamuris, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handb. Allgem. mykol. (Stuttgart) 251 (1851)
+Mycotaxon 20(2): 587 (1984)
 
 #### Original name
 Corticium laeve Pers., 1794

@@ -1,5 +1,4 @@
-Clathrogaster Petri GENUS
-=======
+# Clathrogaster Petri GENUS
 
 #### Status
 ACCEPTED

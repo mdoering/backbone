@@ -1,5 +1,4 @@
-Physalospora linearis Sacc. SPECIES
-=======
+# Physalospora linearis Sacc. SPECIES
 
 #### Status
 ACCEPTED

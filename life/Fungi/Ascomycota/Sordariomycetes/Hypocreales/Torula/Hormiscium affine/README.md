@@ -1,5 +1,4 @@
-Hormiscium affine Pass. SPECIES
-=======
+# Hormiscium affine Pass. SPECIES
 
 #### Status
 ACCEPTED

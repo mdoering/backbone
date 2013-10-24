@@ -1,5 +1,4 @@
-Gibberella euonymi (Fuckel) Sacc. SPECIES
-=======
+# Gibberella euonymi (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

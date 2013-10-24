@@ -1,5 +1,4 @@
-Opegrapha punctiformis Hepp SPECIES
-=======
+# Opegrapha punctiformis Hepp SPECIES
 
 #### Status
 ACCEPTED

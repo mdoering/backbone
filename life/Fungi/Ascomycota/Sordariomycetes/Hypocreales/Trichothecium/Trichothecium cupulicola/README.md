@@ -1,5 +1,4 @@
-Trichothecium cupulicola Lind SPECIES
-=======
+# Trichothecium cupulicola Lind SPECIES
 
 #### Status
 ACCEPTED

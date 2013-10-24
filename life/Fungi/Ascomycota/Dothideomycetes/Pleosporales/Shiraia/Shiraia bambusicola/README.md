@@ -1,5 +1,4 @@
-Shiraia bambusicola Henn., 1900 SPECIES
-=======
+# Shiraia bambusicola Henn., 1900 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella rosea G. Winter SPECIES
-=======
+# Cercosporella rosea G. Winter SPECIES
 
 #### Status
 ACCEPTED

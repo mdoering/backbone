@@ -1,5 +1,4 @@
-Cercospora kikuchii (Tak. Matsumoto & Tomoy.) M.W. Gardner, 1927 SPECIES
-=======
+# Cercospora kikuchii (Tak. Matsumoto & Tomoy.) M.W. Gardner, 1927 SPECIES
 
 #### Status
 ACCEPTED

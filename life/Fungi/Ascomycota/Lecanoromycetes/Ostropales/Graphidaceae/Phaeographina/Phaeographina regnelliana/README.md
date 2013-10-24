@@ -1,5 +1,4 @@
-Phaeographina regnelliana Redinger SPECIES
-=======
+# Phaeographina regnelliana Redinger SPECIES
 
 #### Status
 ACCEPTED

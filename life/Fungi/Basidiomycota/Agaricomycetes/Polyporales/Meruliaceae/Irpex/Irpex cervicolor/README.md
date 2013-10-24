@@ -1,5 +1,4 @@
-Irpex cervicolor (Berk. & Broome) Cooke ex G. Cunn. SPECIES
-=======
+# Irpex cervicolor (Berk. & Broome) Cooke ex G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

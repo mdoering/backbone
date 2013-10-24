@@ -1,17 +1,16 @@
-Pilophorus conglomeratum F. Wilson SPECIES
-=======
+# Metus conglomeratus (F. Wilson) D. J. Galloway & P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 44(3): 566 (1987)
 
 #### Original name
-null
+Pilophoron conglomeratum F. Wilson
 
 ### Remarks
 null

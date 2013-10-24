@@ -1,5 +1,4 @@
-Strickeria phragmites (Pass.) Lindau SPECIES
-=======
+# Strickeria phragmites (Pass.) Lindau SPECIES
 
 #### Status
 ACCEPTED

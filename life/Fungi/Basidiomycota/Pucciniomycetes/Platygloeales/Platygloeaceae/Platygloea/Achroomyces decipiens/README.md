@@ -1,5 +1,4 @@
-Achroomyces decipiens (G.W. Martin) Wojewoda SPECIES
-=======
+# Achroomyces decipiens (G.W. Martin) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

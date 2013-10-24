@@ -1,5 +1,4 @@
-Clitocybe alpina Veull. SPECIES
-=======
+# Clitocybe alpina Veull. SPECIES
 
 #### Status
 ACCEPTED

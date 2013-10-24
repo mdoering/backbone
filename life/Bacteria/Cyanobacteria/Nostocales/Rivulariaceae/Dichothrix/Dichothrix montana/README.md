@@ -1,5 +1,4 @@
-Dichothrix montana Tilden SPECIES
-=======
+# Dichothrix montana Tilden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovista tunicata Fr. SPECIES
-=======
+# Bovista tunicata Fr. SPECIES
 
 #### Status
 ACCEPTED

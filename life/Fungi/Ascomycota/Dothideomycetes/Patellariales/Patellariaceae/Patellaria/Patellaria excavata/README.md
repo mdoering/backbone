@@ -1,5 +1,4 @@
-Patellaria excavata Hoffm. SPECIES
-=======
+# Patellaria excavata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

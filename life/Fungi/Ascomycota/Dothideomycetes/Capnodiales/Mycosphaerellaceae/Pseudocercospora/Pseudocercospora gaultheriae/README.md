@@ -1,5 +1,4 @@
-Pseudocercospora gaultheriae (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora gaultheriae (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

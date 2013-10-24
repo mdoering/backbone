@@ -1,5 +1,4 @@
-Usnea sorediosula (Müll. Arg.) Motyka SPECIES
-=======
+# Usnea sorediosula (Müll. Arg.) Motyka SPECIES
 
 #### Status
 ACCEPTED

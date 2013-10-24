@@ -1,8 +1,7 @@
-Verticillium amaranti Verona & Ceccar. SPECIES
-=======
+# Verticillium amaranthi Verona & Ceccar. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verticillium amaranti Verona & Ceccar.
+Verticillium amaranthi Verona & Ceccar.
 
 ### Remarks
 null

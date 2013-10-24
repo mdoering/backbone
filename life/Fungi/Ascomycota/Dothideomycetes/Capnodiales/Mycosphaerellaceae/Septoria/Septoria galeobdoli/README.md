@@ -1,5 +1,4 @@
-Septoria galeobdoli C. Massal. SPECIES
-=======
+# Septoria galeobdoli C. Massal. SPECIES
 
 #### Status
 ACCEPTED

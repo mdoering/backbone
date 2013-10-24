@@ -1,5 +1,4 @@
-Diaporthe pampeana Speg. SPECIES
-=======
+# Diaporthe pampeana Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma fici J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Macrophoma fici J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

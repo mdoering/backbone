@@ -1,5 +1,4 @@
-Massarina spectabilis Ade SPECIES
-=======
+# Massarina spectabilis Ade SPECIES
 
 #### Status
 ACCEPTED

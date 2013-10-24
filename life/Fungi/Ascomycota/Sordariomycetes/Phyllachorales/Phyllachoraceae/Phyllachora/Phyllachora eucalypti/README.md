@@ -1,14 +1,13 @@
-Physalosporella eucalypti (Speg.) Höhn. SPECIES
-=======
+# Phyllachora eucalypti (Speg.) Petr., 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Engler's Bot. Jahrb. , Biebl. 142(4): 128 (1929)
 
 #### Original name
 Laestadia eucalypti Speg., 1898

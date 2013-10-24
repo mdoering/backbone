@@ -1,5 +1,4 @@
-Diplodiella apiospora Zambett. SPECIES
-=======
+# Diplodiella apiospora Zambett. SPECIES
 
 #### Status
 ACCEPTED

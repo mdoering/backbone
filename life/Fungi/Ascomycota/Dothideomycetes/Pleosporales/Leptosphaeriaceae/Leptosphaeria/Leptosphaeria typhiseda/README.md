@@ -1,5 +1,4 @@
-Leptosphaeria typhiseda Petr. SPECIES
-=======
+# Leptosphaeria typhiseda Petr. SPECIES
 
 #### Status
 ACCEPTED

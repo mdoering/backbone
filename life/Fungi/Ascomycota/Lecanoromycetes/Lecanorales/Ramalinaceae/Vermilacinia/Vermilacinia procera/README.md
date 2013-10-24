@@ -1,5 +1,4 @@
-Vermilacinia procera (Rundel & Bowler) Spjut SPECIES
-=======
+# Vermilacinia procera (Rundel & Bowler) Spjut SPECIES
 
 #### Status
 ACCEPTED

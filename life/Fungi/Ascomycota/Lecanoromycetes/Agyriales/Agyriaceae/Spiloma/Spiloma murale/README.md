@@ -1,5 +1,4 @@
-Spiloma murale SPECIES
-=======
+# Spiloma murale SPECIES
 
 #### Status
 ACCEPTED

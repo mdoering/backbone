@@ -1,5 +1,4 @@
-Arthothelium nigrescens Makhija & Patw. SPECIES
-=======
+# Arthothelium nigrescens Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

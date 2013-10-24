@@ -1,5 +1,4 @@
-Phoma uredinicola Naumov SPECIES
-=======
+# Phoma uredinicola Naumov SPECIES
 
 #### Status
 ACCEPTED

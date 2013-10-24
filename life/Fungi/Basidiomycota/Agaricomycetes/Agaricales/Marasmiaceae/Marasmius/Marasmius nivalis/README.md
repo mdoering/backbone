@@ -1,5 +1,4 @@
-Marasmius nivalis Luthi & Plomb SPECIES
-=======
+# Marasmius nivalis Luthi & Plomb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina opaca Syd. & P. Syd. SPECIES
-=======
+# Asterina opaca Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

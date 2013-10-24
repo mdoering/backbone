@@ -1,5 +1,4 @@
-Bacidia reagens Malme SPECIES
-=======
+# Bacidia reagens Malme SPECIES
 
 #### Status
 ACCEPTED

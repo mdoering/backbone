@@ -1,5 +1,4 @@
-Fuscoporia punctata (Fr.) G. Cunn. SPECIES
-=======
+# Fuscoporia punctata (Fr.) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

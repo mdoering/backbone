@@ -1,5 +1,4 @@
-Lentinus placopus Pat. & Har. SPECIES
-=======
+# Lentinus placopus Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

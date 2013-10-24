@@ -1,5 +1,4 @@
-Capsulospora angustispora J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Capsulospora angustispora J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

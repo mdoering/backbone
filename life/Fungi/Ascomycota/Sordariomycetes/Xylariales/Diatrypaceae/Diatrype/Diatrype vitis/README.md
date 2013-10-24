@@ -1,5 +1,4 @@
-Diatrype vitis Ellis & Everh. SPECIES
-=======
+# Diatrype vitis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

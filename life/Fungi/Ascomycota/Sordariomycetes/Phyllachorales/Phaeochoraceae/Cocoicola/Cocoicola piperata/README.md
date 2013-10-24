@@ -1,5 +1,4 @@
-Cocoicola piperata K.D. Hyde & P.F. Cannon, 1999 SPECIES
-=======
+# Cocoicola piperata K.D. Hyde & P.F. Cannon, 1999 SPECIES
 
 #### Status
 ACCEPTED

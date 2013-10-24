@@ -1,5 +1,4 @@
-Conotrema populorum Gilenstam SPECIES
-=======
+# Conotrema populorum Gilenstam SPECIES
 
 #### Status
 ACCEPTED

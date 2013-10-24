@@ -1,5 +1,4 @@
-Hygrocybe austropratensis A.M. Young SPECIES
-=======
+# Hygrocybe austropratensis A.M. Young SPECIES
 
 #### Status
 ACCEPTED

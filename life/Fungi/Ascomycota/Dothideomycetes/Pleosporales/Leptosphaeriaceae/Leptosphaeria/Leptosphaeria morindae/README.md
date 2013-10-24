@@ -1,5 +1,4 @@
-Leptosphaeria morindae G.M. Chang & P.K. Chi SPECIES
-=======
+# Leptosphaeria morindae G.M. Chang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

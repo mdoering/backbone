@@ -1,5 +1,4 @@
-Smardaea verrucispora (Donadini & Monier) Benkert SPECIES
-=======
+# Smardaea verrucispora (Donadini & Monier) Benkert SPECIES
 
 #### Status
 ACCEPTED

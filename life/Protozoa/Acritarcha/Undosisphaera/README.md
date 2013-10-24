@@ -1,5 +1,4 @@
-Undosisphaera Volkova, 1999 GENUS
-=======
+# Undosisphaera Volkova, 1999 GENUS
 
 #### Status
 ACCEPTED

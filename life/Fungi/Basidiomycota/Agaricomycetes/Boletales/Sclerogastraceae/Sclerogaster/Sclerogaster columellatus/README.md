@@ -1,5 +1,4 @@
-Sclerogaster columellatus (Zeller) Fogel, 1990 SPECIES
-=======
+# Sclerogaster columellatus (Zeller) Fogel, 1990 SPECIES
 
 #### Status
 ACCEPTED

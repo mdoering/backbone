@@ -1,5 +1,4 @@
-Pellionella tetonensis Wehm., 1946 SPECIES
-=======
+# Pellionella tetonensis Wehm., 1946 SPECIES
 
 #### Status
 ACCEPTED

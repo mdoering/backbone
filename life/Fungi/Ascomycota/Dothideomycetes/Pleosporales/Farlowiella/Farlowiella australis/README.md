@@ -1,17 +1,16 @@
-Monotospora altissima Goid., 1933 SPECIES
-=======
+# Farlowiella australis Dennis, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Results of the Norwegian Scientific Expedition to Tristan da Cunha 1937-1938 7 (1955)
 
 #### Original name
-Monotospora altissima Goid., 1933
+Farlowiella australis Dennis, 1955
 
 ### Remarks
 null

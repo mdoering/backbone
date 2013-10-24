@@ -1,5 +1,4 @@
-Tolediella fusispora Viégas, 1943 SPECIES
-=======
+# Tolediella fusispora Viégas, 1943 SPECIES
 
 #### Status
 ACCEPTED

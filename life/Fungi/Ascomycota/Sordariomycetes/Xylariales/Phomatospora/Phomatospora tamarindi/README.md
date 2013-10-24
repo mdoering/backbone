@@ -1,17 +1,16 @@
-Phomatospora tamarindii Dhaware SPECIES
-=======
+# Phomatospora tamarindi Dhaware SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanique, Nagpur 10(1-4): 20 (1982)
 
 #### Original name
-Phomatospora tamarindii Dhaware
+Phomatospora tamarindi Dhaware
 
 ### Remarks
 null

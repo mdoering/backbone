@@ -1,5 +1,4 @@
-Uromyces cucubali Hirats. & Hashioka SPECIES
-=======
+# Uromyces cucubali Hirats. & Hashioka SPECIES
 
 #### Status
 ACCEPTED

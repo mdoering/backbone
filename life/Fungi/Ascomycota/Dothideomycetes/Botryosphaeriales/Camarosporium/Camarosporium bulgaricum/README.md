@@ -1,5 +1,4 @@
-Camarosporium bulgaricum Petr. SPECIES
-=======
+# Camarosporium bulgaricum Petr. SPECIES
 
 #### Status
 ACCEPTED

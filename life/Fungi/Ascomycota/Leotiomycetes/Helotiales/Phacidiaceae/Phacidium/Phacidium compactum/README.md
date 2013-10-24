@@ -1,5 +1,4 @@
-Phacidium compactum Fr. SPECIES
-=======
+# Phacidium compactum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nothomitra cinnamomea Maas Geest., 1964 SPECIES
-=======
+# Nothomitra cinnamomea Maas Geest., 1964 SPECIES
 
 #### Status
 ACCEPTED

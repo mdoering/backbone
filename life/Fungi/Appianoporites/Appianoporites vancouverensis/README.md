@@ -1,5 +1,4 @@
-Appianoporites vancouverensis S.Y. Sm., Currah & Stockey SPECIES
-=======
+# Appianoporites vancouverensis S.Y. Sm., Currah & Stockey SPECIES
 
 #### Status
 ACCEPTED

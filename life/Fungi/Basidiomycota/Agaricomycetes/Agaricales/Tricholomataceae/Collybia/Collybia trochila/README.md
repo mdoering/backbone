@@ -1,5 +1,4 @@
-Collybia trochila Fr. SPECIES
-=======
+# Collybia trochila Fr. SPECIES
 
 #### Status
 ACCEPTED

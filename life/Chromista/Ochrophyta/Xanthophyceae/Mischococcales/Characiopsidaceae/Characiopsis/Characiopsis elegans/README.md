@@ -1,5 +1,4 @@
-Characiopsis elegans Ettl SPECIES
-=======
+# Characiopsis elegans Ettl SPECIES
 
 #### Status
 ACCEPTED

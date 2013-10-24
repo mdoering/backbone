@@ -1,5 +1,4 @@
-Diachea megalospora K.S. Thind & Manocha, 1964 SPECIES
-=======
+# Diachea megalospora K.S. Thind & Manocha, 1964 SPECIES
 
 #### Status
 ACCEPTED

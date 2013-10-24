@@ -1,5 +1,4 @@
-Usnea sanctae-ritae P. Clerc & Herrera-Camp. SPECIES
-=======
+# Usnea sanctae-ritae P. Clerc & Herrera-Camp. SPECIES
 
 #### Status
 ACCEPTED

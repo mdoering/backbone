@@ -1,5 +1,4 @@
-Ectocarpus cryptophilus Børgesen SPECIES
-=======
+# Ectocarpus cryptophilus Børgesen SPECIES
 
 #### Status
 ACCEPTED

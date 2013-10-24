@@ -1,5 +1,4 @@
-Gloeosporium capsici Unamuno SPECIES
-=======
+# Gloeosporium capsici Unamuno SPECIES
 
 #### Status
 ACCEPTED

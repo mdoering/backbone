@@ -1,5 +1,4 @@
-Urceolaria heterothallina Motyka SPECIES
-=======
+# Urceolaria heterothallina Motyka SPECIES
 
 #### Status
 ACCEPTED

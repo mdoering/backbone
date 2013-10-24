@@ -1,5 +1,4 @@
-Conicospirillina semiinvoluta Cushman, 1933 SPECIES
-=======
+# Conicospirillina semiinvoluta Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

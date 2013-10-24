@@ -1,17 +1,16 @@
-Diblepharis Lagerh. GENUS
-=======
+# Monoblepharis Cornu GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 25(no. 8): 39 (1900)
+Bull. Soc. bot. Fr. 18: 59 (1871)
 
 #### Original name
-Diblepharis Lagerh.
+Monoblepharis Cornu
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cytospora tamarindi Tassi SPECIES
-=======
+# Cytospora tamarindi Tassi SPECIES
 
 #### Status
 ACCEPTED

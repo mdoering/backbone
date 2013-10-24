@@ -1,8 +1,7 @@
-Cystobia arenicolae Cunningham, 1907 SPECIES
-=======
+# Gonospora arenicolae (Cunningham, 1907) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

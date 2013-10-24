@@ -1,5 +1,4 @@
-Biatora stizenbergeri Hepp SPECIES
-=======
+# Biatora stizenbergeri Hepp SPECIES
 
 #### Status
 ACCEPTED

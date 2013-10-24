@@ -1,5 +1,4 @@
-Ramaria argentea R.H. Petersen, 1981 SPECIES
-=======
+# Ramaria argentea R.H. Petersen, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeosphaeria aceris Feltgen SPECIES
-=======
+# Clypeosphaeria aceris Feltgen SPECIES
 
 #### Status
 ACCEPTED

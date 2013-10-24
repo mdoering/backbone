@@ -1,5 +1,4 @@
-Omphalopsis macmurphyi Murrill SPECIES
-=======
+# Omphalopsis macmurphyi Murrill SPECIES
 
 #### Status
 ACCEPTED

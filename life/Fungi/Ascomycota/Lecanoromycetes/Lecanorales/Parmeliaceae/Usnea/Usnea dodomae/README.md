@@ -1,5 +1,4 @@
-Usnea dodomae C.W. Dodge SPECIES
-=======
+# Usnea dodomae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

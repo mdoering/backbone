@@ -1,5 +1,4 @@
-Guttulina aurea Tiegh. SPECIES
-=======
+# Guttulina aurea Tiegh. SPECIES
 
 #### Status
 ACCEPTED

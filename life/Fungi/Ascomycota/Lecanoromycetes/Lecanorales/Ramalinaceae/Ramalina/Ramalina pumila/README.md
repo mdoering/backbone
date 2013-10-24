@@ -1,5 +1,4 @@
-Ramalina pumila Mont. SPECIES
-=======
+# Ramalina pumila Mont. SPECIES
 
 #### Status
 ACCEPTED

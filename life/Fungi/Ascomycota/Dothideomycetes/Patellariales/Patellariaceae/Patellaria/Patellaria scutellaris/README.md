@@ -1,5 +1,4 @@
-Patellaria scutellaris (A. Massal.) Jatta SPECIES
-=======
+# Patellaria scutellaris (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

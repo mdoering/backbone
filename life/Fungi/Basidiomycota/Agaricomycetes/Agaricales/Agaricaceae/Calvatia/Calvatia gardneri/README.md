@@ -1,14 +1,13 @@
-Lycoperdon gardneri Berk., 1873 SPECIES
-=======
+# Calvatia gardneri (Berk.) Lloyd, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14: 79 (1873)
+Mycol. Writ. 1(2): 2 (1904)
 
 #### Original name
 Lycoperdon gardneri Berk., 1873

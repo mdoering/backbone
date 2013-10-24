@@ -1,5 +1,4 @@
-Gloeosporium ramosum Ellis & Everh. SPECIES
-=======
+# Gloeosporium ramosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

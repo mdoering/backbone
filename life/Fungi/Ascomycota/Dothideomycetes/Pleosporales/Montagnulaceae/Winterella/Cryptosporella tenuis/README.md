@@ -1,5 +1,4 @@
-Cryptosporella tenuis Sacc. SPECIES
-=======
+# Cryptosporella tenuis Sacc. SPECIES
 
 #### Status
 ACCEPTED

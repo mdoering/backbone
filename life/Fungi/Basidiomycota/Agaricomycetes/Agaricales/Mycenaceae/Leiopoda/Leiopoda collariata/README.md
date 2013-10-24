@@ -1,5 +1,4 @@
-Leiopoda collariata Velen. SPECIES
-=======
+# Leiopoda collariata Velen. SPECIES
 
 #### Status
 ACCEPTED

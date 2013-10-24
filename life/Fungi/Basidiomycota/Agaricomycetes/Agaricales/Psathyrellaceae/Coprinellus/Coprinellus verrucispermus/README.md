@@ -1,14 +1,13 @@
-Coprinus verrucispermus Joss. & Enderle, 1988 SPECIES
-=======
+# Coprinellus verrucispermus (Joss. & Enderle) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bender & Enderle, Z. Mykol. 54(1): 67 (1988)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 235 (2001)
 
 #### Original name
 Coprinus verrucispermus Joss. & Enderle, 1988

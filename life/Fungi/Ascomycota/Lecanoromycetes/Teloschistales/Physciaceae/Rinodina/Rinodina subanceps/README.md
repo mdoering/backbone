@@ -1,5 +1,4 @@
-Rinodina subanceps SPECIES
-=======
+# Rinodina subanceps SPECIES
 
 #### Status
 ACCEPTED

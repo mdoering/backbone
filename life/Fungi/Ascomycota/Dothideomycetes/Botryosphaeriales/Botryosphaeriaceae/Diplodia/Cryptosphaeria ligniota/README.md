@@ -1,8 +1,7 @@
-Cryptosphaeria populina (Pers.) Sacc., 1882 SPECIES
-=======
+# Cryptosphaeria ligniota (Fr.) Auersw., 1874 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

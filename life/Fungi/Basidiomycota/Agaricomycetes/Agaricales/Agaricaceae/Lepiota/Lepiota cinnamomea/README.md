@@ -1,5 +1,4 @@
-Lepiota cinnamomea Cleland SPECIES
-=======
+# Lepiota cinnamomea Cleland SPECIES
 
 #### Status
 ACCEPTED

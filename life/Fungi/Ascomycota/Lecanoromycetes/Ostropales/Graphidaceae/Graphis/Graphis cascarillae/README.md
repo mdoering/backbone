@@ -1,5 +1,4 @@
-Graphis cascarillae Fée SPECIES
-=======
+# Graphis cascarillae Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quinqueloculina enoplostoma SPECIES
-=======
+# Quinqueloculina enoplostoma SPECIES
 
 #### Status
 ACCEPTED

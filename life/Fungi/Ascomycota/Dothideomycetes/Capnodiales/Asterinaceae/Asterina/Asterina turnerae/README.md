@@ -1,5 +1,4 @@
-Asterina turnerae Henn. SPECIES
-=======
+# Asterina turnerae Henn. SPECIES
 
 #### Status
 ACCEPTED

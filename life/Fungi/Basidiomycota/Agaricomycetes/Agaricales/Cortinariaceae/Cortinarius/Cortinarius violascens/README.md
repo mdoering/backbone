@@ -1,5 +1,4 @@
-Cortinarius violascens A. Blytt SPECIES
-=======
+# Cortinarius violascens A. Blytt SPECIES
 
 #### Status
 ACCEPTED

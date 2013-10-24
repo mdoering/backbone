@@ -1,5 +1,4 @@
-Lophiotrema zignoëlloides Petr. SPECIES
-=======
+# Lophiotrema zignoëlloides Petr. SPECIES
 
 #### Status
 ACCEPTED

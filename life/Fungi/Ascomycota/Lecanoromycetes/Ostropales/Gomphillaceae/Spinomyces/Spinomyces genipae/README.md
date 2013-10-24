@@ -1,5 +1,4 @@
-Spinomyces genipae Bat. & Peres SPECIES
-=======
+# Spinomyces genipae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

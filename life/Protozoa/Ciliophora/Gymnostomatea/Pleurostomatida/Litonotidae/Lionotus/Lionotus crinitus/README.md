@@ -1,5 +1,4 @@
-Lionotus crinitus Grandori & Grandori, 1934 SPECIES
-=======
+# Lionotus crinitus Grandori & Grandori, 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius trimetallicus Jul. Schäff. SPECIES
-=======
+# Cortinarius trimetallicus Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

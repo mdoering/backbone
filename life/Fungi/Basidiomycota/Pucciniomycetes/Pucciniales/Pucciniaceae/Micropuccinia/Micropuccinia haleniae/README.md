@@ -1,5 +1,4 @@
-Micropuccinia haleniae (Arthur & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia haleniae (Arthur & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina archaea f. archaea FORM
-=======
+# Rinodina archaea (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 64: 195 (1881)
 
 #### Original name
-Rinodina archaea f. archaea
+Rhinodinomyces archaeae E.A. Thomas ex Cif. & Tomas.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Astrosphaeriella minima Aptroot SPECIES
-=======
+# Astrosphaeriella minima Aptroot SPECIES
 
 #### Status
 ACCEPTED

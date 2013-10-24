@@ -1,14 +1,13 @@
-Ceriomyces rubescens (Boud.) Sacc., 1888 SPECIES
-=======
+# Ptychogaster rubescens Boud., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 387 (1888)
+J. Bot. Morot 1: 10 (1887)
 
 #### Original name
 Ptychogaster rubescens Boud., 1887

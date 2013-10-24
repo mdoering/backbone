@@ -1,5 +1,4 @@
-Montagnea tenuis (Pat.) Teng SPECIES
-=======
+# Montagnea tenuis (Pat.) Teng SPECIES
 
 #### Status
 ACCEPTED

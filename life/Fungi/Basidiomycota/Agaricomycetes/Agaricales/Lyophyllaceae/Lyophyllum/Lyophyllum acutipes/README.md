@@ -1,5 +1,4 @@
-Lyophyllum acutipes Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum acutipes Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

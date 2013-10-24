@@ -1,5 +1,4 @@
-Pyrenidium hyalosporum Alstrup, D. Hawksw. & R. Sant. SPECIES
-=======
+# Pyrenidium hyalosporum Alstrup, D. Hawksw. & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verticilliastrum glaucum Dasz. SPECIES
-=======
+# Verticilliastrum glaucum Dasz. SPECIES
 
 #### Status
 ACCEPTED

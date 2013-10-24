@@ -1,5 +1,4 @@
-Caryotropha mesnili Siedelecki, 1902 SPECIES
-=======
+# Caryotropha mesnili Siedelecki, 1902 SPECIES
 
 #### Status
 ACCEPTED

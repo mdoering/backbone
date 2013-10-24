@@ -1,5 +1,4 @@
-Sporotrichum foliicola Oudem. SPECIES
-=======
+# Sporotrichum foliicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

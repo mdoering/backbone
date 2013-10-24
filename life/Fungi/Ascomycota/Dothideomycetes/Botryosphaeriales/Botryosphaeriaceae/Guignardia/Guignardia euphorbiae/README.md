@@ -1,5 +1,4 @@
-Guignardia euphorbiae Rayss SPECIES
-=======
+# Guignardia euphorbiae Rayss SPECIES
 
 #### Status
 ACCEPTED

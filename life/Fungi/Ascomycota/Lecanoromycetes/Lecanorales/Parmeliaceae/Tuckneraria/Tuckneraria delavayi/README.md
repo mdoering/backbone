@@ -1,5 +1,4 @@
-Tuckneraria delavayi Hue SPECIES
-=======
+# Tuckneraria delavayi Hue SPECIES
 
 #### Status
 ACCEPTED

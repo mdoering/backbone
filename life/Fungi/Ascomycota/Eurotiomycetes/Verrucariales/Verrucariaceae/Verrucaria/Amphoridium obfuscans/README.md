@@ -1,5 +1,4 @@
-Amphoridium obfuscans var. obfuscans VARIETY
-=======
+# Amphoridium obfuscans (Nyl.) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ceskoslov. Liejn. Celedi Verrucariaceae 38 (1954)
 
 #### Original name
-Amphoridium obfuscans var. obfuscans
+Verrucaria obfuscans Nyl.
 
 ### Remarks
 null

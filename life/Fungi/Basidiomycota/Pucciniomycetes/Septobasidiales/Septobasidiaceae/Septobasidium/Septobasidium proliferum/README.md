@@ -1,5 +1,4 @@
-Septobasidium proliferum Boedijn & B.A. Steinm. SPECIES
-=======
+# Septobasidium proliferum Boedijn & B.A. Steinm. SPECIES
 
 #### Status
 ACCEPTED

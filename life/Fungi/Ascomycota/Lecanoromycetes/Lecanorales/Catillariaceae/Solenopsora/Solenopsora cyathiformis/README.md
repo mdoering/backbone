@@ -1,5 +1,4 @@
-Solenopsora cyathiformis (Szatala) van den Boom SPECIES
-=======
+# Solenopsora cyathiformis (Szatala) van den Boom SPECIES
 
 #### Status
 ACCEPTED

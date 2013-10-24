@@ -1,5 +1,4 @@
-Pseudocubus octostylus Haeckel, 1887 SPECIES
-=======
+# Pseudocubus octostylus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

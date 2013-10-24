@@ -1,14 +1,13 @@
-Stemphylium piriforme Bonord. SPECIES
-=======
+# Stemphylium pyriforme Bonord. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Handb. Allgem. mykol. (Stuttgart) 83 (1851)
 
 #### Original name
 Stemphylium pyriforme Bonord.

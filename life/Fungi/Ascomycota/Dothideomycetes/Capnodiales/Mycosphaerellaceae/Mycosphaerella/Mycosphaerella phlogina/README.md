@@ -1,5 +1,4 @@
-Mycosphaerella phlogina (Ellis & Everh.) Earle SPECIES
-=======
+# Mycosphaerella phlogina (Ellis & Everh.) Earle SPECIES
 
 #### Status
 ACCEPTED

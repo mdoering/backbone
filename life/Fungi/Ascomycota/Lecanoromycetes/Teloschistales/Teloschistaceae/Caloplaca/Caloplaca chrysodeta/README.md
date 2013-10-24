@@ -1,17 +1,16 @@
-Placodium chrysodetum Vain. ex Räsänen SPECIES
-=======
+# Caloplaca chrysodeta (Vain. ex Räsänen) Dombr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 34(no. 4): 113 (1931)
+null
 
 #### Original name
-Placodium chrysodetum Vain. ex Räsänen
+null
 
 ### Remarks
 null

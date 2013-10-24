@@ -1,17 +1,16 @@
-Ceratobasidium cornigerum var. cornigerum (Bourdot) D.P. Rogers VARIETY
-=======
+# Ceratobasidium cornigerum (Bourdot) D.P. Rogers, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Univ. Iowa Stud. nat. Hist. 17(1): 5 (1935)
 
 #### Original name
-Ceratobasidium cornigerum var. cornigerum (Bourdot) D.P. Rogers
+null
 
 ### Remarks
 null

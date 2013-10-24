@@ -1,5 +1,4 @@
-Sphaeria pachystoma Lév. SPECIES
-=======
+# Sphaeria pachystoma Lév. SPECIES
 
 #### Status
 ACCEPTED

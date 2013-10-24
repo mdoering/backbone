@@ -1,5 +1,4 @@
-Chaetomella gasteriae Trinchieri SPECIES
-=======
+# Chaetomella gasteriae Trinchieri SPECIES
 
 #### Status
 ACCEPTED

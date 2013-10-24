@@ -1,5 +1,4 @@
-Ceratobasidiaceae FAMILY
-=======
+# Ceratobasidiaceae FAMILY
 
 #### Status
 ACCEPTED

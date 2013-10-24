@@ -1,5 +1,4 @@
-Siphula pickeringii Tuck. SPECIES
-=======
+# Siphula pickeringii Tuck. SPECIES
 
 #### Status
 ACCEPTED

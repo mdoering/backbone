@@ -1,5 +1,4 @@
-Thelephora glauca (Pat.) Sacc. SPECIES
-=======
+# Thelephora glauca (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ogataea GENUS
-=======
+# Ogataea GENUS
 
 #### Status
 ACCEPTED

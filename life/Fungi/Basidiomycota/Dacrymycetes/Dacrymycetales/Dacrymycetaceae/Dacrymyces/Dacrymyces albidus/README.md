@@ -1,5 +1,4 @@
-Dacrymyces albidus Kobayasi SPECIES
-=======
+# Dacrymyces albidus Kobayasi SPECIES
 
 #### Status
 ACCEPTED

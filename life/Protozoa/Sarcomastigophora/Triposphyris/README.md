@@ -1,5 +1,4 @@
-Triposphyris Carter, 1893 GENUS
-=======
+# Triposphyris Carter, 1893 GENUS
 
 #### Status
 ACCEPTED

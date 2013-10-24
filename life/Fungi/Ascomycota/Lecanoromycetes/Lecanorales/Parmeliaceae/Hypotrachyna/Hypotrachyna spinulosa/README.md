@@ -1,5 +1,4 @@
-Hypotrachyna spinulosa Sipman, Elix & T. H. Nash SPECIES
-=======
+# Hypotrachyna spinulosa Sipman, Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis maculans Curzi & Barbaini SPECIES
-=======
+# Phomopsis maculans Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

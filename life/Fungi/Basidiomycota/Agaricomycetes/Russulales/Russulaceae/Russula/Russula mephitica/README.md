@@ -1,5 +1,4 @@
-Russula mephitica Pegler SPECIES
-=======
+# Russula mephitica Pegler SPECIES
 
 #### Status
 ACCEPTED

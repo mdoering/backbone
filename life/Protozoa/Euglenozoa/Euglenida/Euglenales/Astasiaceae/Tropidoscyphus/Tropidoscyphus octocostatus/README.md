@@ -1,5 +1,4 @@
-Tropidoscyphus octocostatus F.Stein SPECIES
-=======
+# Tropidoscyphus octocostatus F.Stein SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triadelphia loudetiae Maggi, Bartoli & Rambelli, 1978 SPECIES
-=======
+# Triadelphia loudetiae Maggi, Bartoli & Rambelli, 1978 SPECIES
 
 #### Status
 ACCEPTED

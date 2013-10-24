@@ -1,5 +1,4 @@
-Parmelia kahusiensis C.W. Dodge SPECIES
-=======
+# Parmelia kahusiensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

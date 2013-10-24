@@ -1,5 +1,4 @@
-Agaricus rhodomalus Berk. & Broome SPECIES
-=======
+# Agaricus rhodomalus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta eleagni Bres. SPECIES
-=======
+# Ascochyta eleagni Bres. SPECIES
 
 #### Status
 ACCEPTED

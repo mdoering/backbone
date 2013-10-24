@@ -1,5 +1,4 @@
-Aulaxina aggregata Lücking & Kalb SPECIES
-=======
+# Aulaxina aggregata Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

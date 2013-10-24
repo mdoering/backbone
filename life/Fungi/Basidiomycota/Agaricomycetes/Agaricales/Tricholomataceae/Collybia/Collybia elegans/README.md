@@ -1,5 +1,4 @@
-Collybia elegans Cleland SPECIES
-=======
+# Collybia elegans Cleland SPECIES
 
 #### Status
 ACCEPTED

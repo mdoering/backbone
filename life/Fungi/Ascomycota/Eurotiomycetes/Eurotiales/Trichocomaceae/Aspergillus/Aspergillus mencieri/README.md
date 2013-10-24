@@ -1,5 +1,4 @@
-Aspergillus mencieri Sartory & Flamant SPECIES
-=======
+# Aspergillus mencieri Sartory & Flamant SPECIES
 
 #### Status
 ACCEPTED

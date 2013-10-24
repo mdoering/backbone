@@ -1,5 +1,4 @@
-Phomopsis versoniana Sacc. SPECIES
-=======
+# Phomopsis versoniana Sacc. SPECIES
 
 #### Status
 ACCEPTED

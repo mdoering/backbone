@@ -1,8 +1,7 @@
-Trachelomonas volvocina var. palmeri Drezepolski VARIETY
-=======
+# Trachelomonas palmeri (Drezepolski) Deflandre SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

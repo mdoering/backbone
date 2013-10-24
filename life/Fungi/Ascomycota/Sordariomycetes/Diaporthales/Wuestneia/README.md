@@ -1,5 +1,4 @@
-Wuestneia Auerswald ex Fuckel, 1863 GENUS
-=======
+# Wuestneia Auerswald ex Fuckel, 1863 GENUS
 
 #### Status
 ACCEPTED

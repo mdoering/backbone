@@ -1,5 +1,4 @@
-Mycoplasma columbinum Shimizu et al., 1978 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma columbinum Shimizu et al., 1978 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

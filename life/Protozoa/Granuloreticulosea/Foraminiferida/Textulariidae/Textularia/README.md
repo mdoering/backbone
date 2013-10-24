@@ -1,14 +1,13 @@
-Valvulinella Saidova, 1975 GENUS
-=======
+# Textularia Defrance, 1824 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Benthonic Foraminifera of the Pacific Ocean. Vol. 1. Inst. Okeanol. im. P. P. Shirshova, Akad. Nauk SSSR, Moscow: 121.
+Dict. Sci. Nat. , 32, 177.
 
 #### Original name
 null

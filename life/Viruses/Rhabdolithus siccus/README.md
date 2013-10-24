@@ -1,5 +1,4 @@
-Rhabdolithus siccus (Stradner in Bachmann, Papp & Stradner, 1963) SPECIES
-=======
+# Rhabdolithus siccus (Stradner in Bachmann, Papp & Stradner, 1963) SPECIES
 
 #### Status
 ACCEPTED

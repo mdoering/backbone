@@ -1,5 +1,4 @@
-Meliola schizolobii var. schizolobii VARIETY
-=======
+# Meliola schizolobii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 14(1/2): 76 (1916)
 
 #### Original name
-Meliola schizolobii var. schizolobii
+Meliola schizolobii Syd. & P. Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Citronites Solovieva, 1996 GENUS
-=======
+# Citronites Solovieva, 1996 GENUS
 
 #### Status
 ACCEPTED

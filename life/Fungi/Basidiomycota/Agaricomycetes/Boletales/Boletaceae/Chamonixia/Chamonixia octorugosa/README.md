@@ -1,5 +1,4 @@
-Chamonixia octorugosa Corner & Hawker, 1953 SPECIES
-=======
+# Chamonixia octorugosa Corner & Hawker, 1953 SPECIES
 
 #### Status
 ACCEPTED

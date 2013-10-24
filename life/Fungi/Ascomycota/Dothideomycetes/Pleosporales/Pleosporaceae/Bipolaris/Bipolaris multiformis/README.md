@@ -1,14 +1,13 @@
-Drechslera multiformis Jooste, 1975 SPECIES
-=======
+# Bipolaris multiformis (Jooste) Alcorn, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bothalia 11(4): 511 (1975)
+Mycotaxon 17: 68 (1983)
 
 #### Original name
 Drechslera multiformis Jooste, 1975

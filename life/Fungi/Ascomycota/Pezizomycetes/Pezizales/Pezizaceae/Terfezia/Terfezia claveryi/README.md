@@ -1,5 +1,4 @@
-Terfezia claveryi Chatin SPECIES
-=======
+# Terfezia claveryi Chatin SPECIES
 
 #### Status
 ACCEPTED

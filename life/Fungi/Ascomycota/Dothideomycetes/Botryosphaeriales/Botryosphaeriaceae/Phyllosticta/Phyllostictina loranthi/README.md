@@ -1,5 +1,4 @@
-Phyllostictina loranthi Ponnappa SPECIES
-=======
+# Phyllostictina loranthi Ponnappa SPECIES
 
 #### Status
 ACCEPTED

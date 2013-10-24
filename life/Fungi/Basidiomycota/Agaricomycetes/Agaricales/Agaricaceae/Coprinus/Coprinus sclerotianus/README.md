@@ -1,5 +1,4 @@
-Coprinus sclerotianus Cleland & Cheel SPECIES
-=======
+# Coprinus sclerotianus Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

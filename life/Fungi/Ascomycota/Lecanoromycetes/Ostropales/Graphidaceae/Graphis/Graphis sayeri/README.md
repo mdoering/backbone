@@ -1,17 +1,16 @@
-Graphis epimelaena Müll. Arg. SPECIES
-=======
+# Graphis sayeri Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 70: 401 (1887)
 
 #### Original name
-null
+Graphis sayeri Müll. Arg.
 
 ### Remarks
 null

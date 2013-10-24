@@ -1,5 +1,4 @@
-Semilecanora granitica Motyka SPECIES
-=======
+# Semilecanora granitica Motyka SPECIES
 
 #### Status
 ACCEPTED

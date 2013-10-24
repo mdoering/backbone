@@ -1,8 +1,7 @@
-Theoconus minythorax Nigrini, 1968 SPECIES
-=======
+# Pterocorys minythorax (Nigrini) Nigrini & Moore, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Diplanes GENUS
-=======
+# Diplanes GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium coronillae Woron. SPECIES
-=======
+# Aecidium coronillae Woron. SPECIES
 
 #### Status
 ACCEPTED

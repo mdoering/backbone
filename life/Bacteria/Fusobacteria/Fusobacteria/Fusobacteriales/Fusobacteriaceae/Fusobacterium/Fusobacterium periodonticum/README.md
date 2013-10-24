@@ -1,5 +1,4 @@
-Fusobacterium periodonticum Slots et al., 1984 SPECIES
-=======
+# Fusobacterium periodonticum Slots et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

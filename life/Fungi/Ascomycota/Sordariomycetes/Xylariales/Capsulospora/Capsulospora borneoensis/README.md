@@ -1,5 +1,4 @@
-Capsulospora borneoensis J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Capsulospora borneoensis J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

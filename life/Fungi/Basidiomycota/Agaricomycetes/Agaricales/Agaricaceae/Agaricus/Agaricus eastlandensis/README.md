@@ -1,5 +1,4 @@
-Agaricus eastlandensis A.H. Sm. SPECIES
-=======
+# Agaricus eastlandensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

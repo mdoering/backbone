@@ -1,5 +1,4 @@
-Microdiplodia caryotae V.G. Rao SPECIES
-=======
+# Microdiplodia caryotae V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

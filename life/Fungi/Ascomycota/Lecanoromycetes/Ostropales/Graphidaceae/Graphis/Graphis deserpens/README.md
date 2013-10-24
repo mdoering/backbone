@@ -1,5 +1,4 @@
-Graphis deserpens Vain. SPECIES
-=======
+# Graphis deserpens Vain. SPECIES
 
 #### Status
 ACCEPTED

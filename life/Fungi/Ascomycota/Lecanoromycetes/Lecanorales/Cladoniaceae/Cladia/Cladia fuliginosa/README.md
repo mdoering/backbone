@@ -1,5 +1,4 @@
-Cladia fuliginosa Filson SPECIES
-=======
+# Cladia fuliginosa Filson SPECIES
 
 #### Status
 ACCEPTED

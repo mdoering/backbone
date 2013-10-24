@@ -1,5 +1,4 @@
-Schizostoma fimbriatum Lév. SPECIES
-=======
+# Schizostoma fimbriatum Lév. SPECIES
 
 #### Status
 ACCEPTED

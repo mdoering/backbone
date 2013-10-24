@@ -1,5 +1,4 @@
-Poroleprieuria M.C. González, Hanlin, Ulloa & E. Aguirre GENUS
-=======
+# Poroleprieuria M.C. González, Hanlin, Ulloa & E. Aguirre GENUS
 
 #### Status
 ACCEPTED

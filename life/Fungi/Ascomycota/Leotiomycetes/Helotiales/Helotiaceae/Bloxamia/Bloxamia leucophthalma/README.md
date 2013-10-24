@@ -1,14 +1,13 @@
-Catinula leucophthalma Lév., 1848 SPECIES
-=======
+# Bloxamia leucophthalma (Lév.) Höhn., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 9: 248 (1848)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 119: 653 (1910)
 
 #### Original name
 Catinula leucophthalma Lév., 1848

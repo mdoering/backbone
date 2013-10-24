@@ -1,5 +1,4 @@
-Amanita bombycina Pers. SPECIES
-=======
+# Amanita bombycina Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecopeltidium cordiae Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium cordiae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

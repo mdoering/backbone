@@ -1,5 +1,4 @@
-Botrytis aurantiaca (Pers.) Link SPECIES
-=======
+# Botrytis aurantiaca (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

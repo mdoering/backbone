@@ -1,5 +1,4 @@
-Hercospora magnoliae-acuminatae (Peck) Höhn. SPECIES
-=======
+# Hercospora magnoliae-acuminatae (Peck) Höhn. SPECIES
 
 #### Status
 ACCEPTED

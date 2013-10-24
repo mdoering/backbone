@@ -1,17 +1,16 @@
-Helenia Saunders, 1957 GENUS
-=======
+# Helenina Saunders, 1961 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Wash. Acad. Sci. 47: 374.
+Contr. Cushm. Fdn 12: 148.
 
 #### Original name
-null
+Helenia Saunders, 1957
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Inocybe ochrofulva Malençon SPECIES
-=======
+# Inocybe ochrofulva Malençon SPECIES
 
 #### Status
 ACCEPTED

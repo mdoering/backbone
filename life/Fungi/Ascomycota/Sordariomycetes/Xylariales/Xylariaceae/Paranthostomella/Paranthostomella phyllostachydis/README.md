@@ -1,5 +1,4 @@
-Paranthostomella phyllostachydis Sawada SPECIES
-=======
+# Paranthostomella phyllostachydis Sawada SPECIES
 
 #### Status
 ACCEPTED

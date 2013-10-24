@@ -1,17 +1,16 @@
-Parmelia lanuginosa var. granulosa Tuck. VARIETY
-=======
+# Lepraria membranacea (Dicks.) Lettau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Fauna Flora fenn. 49(2): 265 (1921)
 
 #### Original name
-null
+Lichen membranaceus Dicks.
 
 ### Remarks
 null

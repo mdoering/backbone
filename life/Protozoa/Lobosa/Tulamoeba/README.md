@@ -1,5 +1,4 @@
-Tulamoeba Park, Simpson, Brown & Cho, 2009 GENUS
-=======
+# Tulamoeba Park, Simpson, Brown & Cho, 2009 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cristelloporia dimitica I. Johans. & Ryvarden SPECIES
-=======
+# Cristelloporia dimitica I. Johans. & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

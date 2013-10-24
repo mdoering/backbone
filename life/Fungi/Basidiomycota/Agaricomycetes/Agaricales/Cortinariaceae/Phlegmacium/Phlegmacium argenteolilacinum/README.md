@@ -1,5 +1,4 @@
-Phlegmacium argenteolilacinum (M.M. Moser) M.M. Moser SPECIES
-=======
+# Phlegmacium argenteolilacinum (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

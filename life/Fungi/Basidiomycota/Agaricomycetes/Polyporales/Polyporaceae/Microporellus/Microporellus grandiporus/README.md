@@ -1,5 +1,4 @@
-Microporellus grandiporus Corner, 1987 SPECIES
-=======
+# Microporellus grandiporus Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

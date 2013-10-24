@@ -1,5 +1,4 @@
-Plicaria gossypina Velen. SPECIES
-=======
+# Plicaria gossypina Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus triqueter (Fr.) Fr. SPECIES
-=======
+# Polystictus triqueter (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

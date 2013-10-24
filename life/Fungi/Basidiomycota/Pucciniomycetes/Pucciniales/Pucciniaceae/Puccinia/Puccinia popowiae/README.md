@@ -1,5 +1,4 @@
-Puccinia popowiae Cooke SPECIES
-=======
+# Puccinia popowiae Cooke SPECIES
 
 #### Status
 ACCEPTED

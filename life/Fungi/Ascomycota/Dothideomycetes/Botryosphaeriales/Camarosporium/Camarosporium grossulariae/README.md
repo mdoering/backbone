@@ -1,5 +1,4 @@
-Camarosporium grossulariae Briard & Har. SPECIES
-=======
+# Camarosporium grossulariae Briard & Har. SPECIES
 
 #### Status
 ACCEPTED

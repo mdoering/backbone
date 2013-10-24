@@ -1,5 +1,4 @@
-Coniothyrium suberinum (Sacc.) Kuntze SPECIES
-=======
+# Coniothyrium suberinum (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

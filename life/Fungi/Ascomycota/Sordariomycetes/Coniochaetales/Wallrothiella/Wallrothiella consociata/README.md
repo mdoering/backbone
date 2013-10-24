@@ -1,5 +1,4 @@
-Wallrothiella consociata (Ellis & Harkn.) Ellis & Everh. SPECIES
-=======
+# Wallrothiella consociata (Ellis & Harkn.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

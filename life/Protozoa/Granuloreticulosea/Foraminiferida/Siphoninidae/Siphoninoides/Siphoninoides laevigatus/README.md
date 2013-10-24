@@ -1,5 +1,4 @@
-Siphoninoides laevigatus (Howchin, 1889) SPECIES
-=======
+# Siphoninoides laevigatus (Howchin, 1889) SPECIES
 
 #### Status
 ACCEPTED

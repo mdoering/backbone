@@ -1,5 +1,4 @@
-Rheinheimera baltica Brettar et al., 2002 SPECIES
-=======
+# Rheinheimera baltica Brettar et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

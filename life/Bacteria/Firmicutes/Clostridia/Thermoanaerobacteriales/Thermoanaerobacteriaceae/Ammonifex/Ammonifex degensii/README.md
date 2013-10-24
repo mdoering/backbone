@@ -1,5 +1,4 @@
-Ammonifex degensii Huber & Stetter, 1996 SPECIES
-=======
+# Ammonifex degensii Huber & Stetter, 1996 SPECIES
 
 #### Status
 ACCEPTED

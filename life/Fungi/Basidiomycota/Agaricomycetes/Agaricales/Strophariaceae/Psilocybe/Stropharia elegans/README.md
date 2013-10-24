@@ -1,5 +1,4 @@
-Stropharia elegans Murrill SPECIES
-=======
+# Stropharia elegans Murrill SPECIES
 
 #### Status
 ACCEPTED

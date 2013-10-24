@@ -1,5 +1,4 @@
-Cetraria steppae (Savicz) Kärnefelt SPECIES
-=======
+# Cetraria steppae (Savicz) Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Limacium verrucosum Velen. SPECIES
-=======
+# Limacium verrucosum Velen. SPECIES
 
 #### Status
 ACCEPTED

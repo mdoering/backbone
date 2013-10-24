@@ -1,5 +1,4 @@
-Ommatodiscus Stöhr, 1880 GENUS
-=======
+# Ommatodiscus Stöhr, 1880 GENUS
 
 #### Status
 ACCEPTED

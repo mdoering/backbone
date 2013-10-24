@@ -1,5 +1,4 @@
-Nodulosphaeria octoseptata (Wehm.) L. Holm SPECIES
-=======
+# Nodulosphaeria octoseptata (Wehm.) L. Holm SPECIES
 
 #### Status
 ACCEPTED

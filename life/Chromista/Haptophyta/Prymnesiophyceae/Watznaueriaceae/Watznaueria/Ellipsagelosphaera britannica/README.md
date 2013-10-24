@@ -1,5 +1,4 @@
-Ellipsagelosphaera britannica (Stradner, 1963) Perch-Nielsen, 1968 SPECIES
-=======
+# Ellipsagelosphaera britannica (Stradner, 1963) Perch-Nielsen, 1968 SPECIES
 
 #### Status
 DOUBTFUL

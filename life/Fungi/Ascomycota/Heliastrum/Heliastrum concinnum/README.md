@@ -1,5 +1,4 @@
-Heliastrum concinnum Petr., 1931 SPECIES
-=======
+# Heliastrum concinnum Petr., 1931 SPECIES
 
 #### Status
 ACCEPTED

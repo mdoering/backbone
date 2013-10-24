@@ -1,5 +1,4 @@
-Cercospora brasiliensis Av.-Saccá SPECIES
-=======
+# Cercospora brasiliensis Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

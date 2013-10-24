@@ -1,5 +1,4 @@
-Thaxterogaster lubricus M.M. Moser SPECIES
-=======
+# Thaxterogaster lubricus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

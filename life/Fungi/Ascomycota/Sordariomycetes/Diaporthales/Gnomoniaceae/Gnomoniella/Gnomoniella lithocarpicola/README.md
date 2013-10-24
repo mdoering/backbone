@@ -1,5 +1,4 @@
-Gnomoniella lithocarpicola W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
-=======
+# Gnomoniella lithocarpicola W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
 
 #### Status
 ACCEPTED

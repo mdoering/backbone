@@ -1,5 +1,4 @@
-Chaetocalathus congoanus (Pat.) Singer SPECIES
-=======
+# Chaetocalathus congoanus (Pat.) Singer SPECIES
 
 #### Status
 ACCEPTED

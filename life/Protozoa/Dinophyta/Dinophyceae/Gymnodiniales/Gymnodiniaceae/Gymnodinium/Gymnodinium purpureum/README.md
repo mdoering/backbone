@@ -1,5 +1,4 @@
-Gymnodinium purpureum Skuja, 1956 SPECIES
-=======
+# Gymnodinium purpureum Skuja, 1956 SPECIES
 
 #### Status
 ACCEPTED

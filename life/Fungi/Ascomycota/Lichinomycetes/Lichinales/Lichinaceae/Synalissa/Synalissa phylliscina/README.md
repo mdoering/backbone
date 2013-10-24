@@ -1,5 +1,4 @@
-Synalissa phylliscina Tuck. SPECIES
-=======
+# Synalissa phylliscina Tuck. SPECIES
 
 #### Status
 ACCEPTED

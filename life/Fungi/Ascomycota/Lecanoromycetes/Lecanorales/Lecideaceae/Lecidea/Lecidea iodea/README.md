@@ -1,5 +1,4 @@
-Lecidea iodea Nyl. SPECIES
-=======
+# Lecidea iodea Nyl. SPECIES
 
 #### Status
 ACCEPTED

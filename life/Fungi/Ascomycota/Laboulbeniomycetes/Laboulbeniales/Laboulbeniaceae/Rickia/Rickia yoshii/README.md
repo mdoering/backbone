@@ -1,5 +1,4 @@
-Rickia yoshii K. Sugiy. & Hiroy. Yamam. SPECIES
-=======
+# Rickia yoshii K. Sugiy. & Hiroy. Yamam. SPECIES
 
 #### Status
 ACCEPTED

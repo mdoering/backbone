@@ -1,5 +1,4 @@
-Mycena diosma Krieglst. & Schwöbel SPECIES
-=======
+# Mycena diosma Krieglst. & Schwöbel SPECIES
 
 #### Status
 ACCEPTED

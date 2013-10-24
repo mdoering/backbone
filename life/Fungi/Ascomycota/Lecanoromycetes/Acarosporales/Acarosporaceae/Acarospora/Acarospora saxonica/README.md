@@ -1,5 +1,4 @@
-Acarospora saxonica H. Magn. SPECIES
-=======
+# Acarospora saxonica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

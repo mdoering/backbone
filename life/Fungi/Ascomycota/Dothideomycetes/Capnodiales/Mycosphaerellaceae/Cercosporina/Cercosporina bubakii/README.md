@@ -1,5 +1,4 @@
-Cercosporina bubakii Picb. SPECIES
-=======
+# Cercosporina bubakii Picb. SPECIES
 
 #### Status
 ACCEPTED

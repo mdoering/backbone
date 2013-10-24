@@ -1,5 +1,4 @@
-Helotium fuscatum Rehm SPECIES
-=======
+# Helotium fuscatum Rehm SPECIES
 
 #### Status
 ACCEPTED

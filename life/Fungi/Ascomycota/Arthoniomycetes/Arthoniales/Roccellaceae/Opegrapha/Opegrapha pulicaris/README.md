@@ -1,5 +1,4 @@
-Opegrapha pulicaris f. pulicaris FORM
-=======
+# Opegrapha pulicaris Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Acharius, Lich. univ. 251 (1810)
 
 #### Original name
-Opegrapha pulicaris f. pulicaris
+Opegrapha pulicaris Vain.
 
 ### Remarks
 null

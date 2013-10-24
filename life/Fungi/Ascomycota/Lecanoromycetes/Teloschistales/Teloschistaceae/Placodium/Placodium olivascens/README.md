@@ -1,5 +1,4 @@
-Placodium olivascens (Nyl.) Motyka SPECIES
-=======
+# Placodium olivascens (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

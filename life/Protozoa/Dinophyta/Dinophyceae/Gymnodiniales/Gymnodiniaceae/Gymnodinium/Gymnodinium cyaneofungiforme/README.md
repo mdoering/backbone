@@ -1,5 +1,4 @@
-Gymnodinium cyaneofungiforme Conrad & Kufferath SPECIES
-=======
+# Gymnodinium cyaneofungiforme Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

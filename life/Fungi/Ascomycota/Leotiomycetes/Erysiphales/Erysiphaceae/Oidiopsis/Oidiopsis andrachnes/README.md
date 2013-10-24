@@ -1,5 +1,4 @@
-Oidiopsis andrachnes Golovin SPECIES
-=======
+# Oidiopsis andrachnes Golovin SPECIES
 
 #### Status
 ACCEPTED

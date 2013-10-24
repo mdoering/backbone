@@ -1,8 +1,7 @@
-Streptoverticillium syringium Konev, 1986 SPECIES
-=======
+# Streptomyces syringium (Konev, 1986) Witt & Stackebrandt, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Collemopsis suffugiens Nyl. SPECIES
-=======
+# Collemopsis suffugiens Nyl. SPECIES
 
 #### Status
 ACCEPTED

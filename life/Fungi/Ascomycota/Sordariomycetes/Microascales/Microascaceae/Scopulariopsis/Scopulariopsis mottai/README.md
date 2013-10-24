@@ -1,5 +1,4 @@
-Scopulariopsis mottai Vuill. SPECIES
-=======
+# Scopulariopsis mottai Vuill. SPECIES
 
 #### Status
 ACCEPTED

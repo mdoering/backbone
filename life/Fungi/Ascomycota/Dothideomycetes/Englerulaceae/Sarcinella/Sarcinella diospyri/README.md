@@ -1,5 +1,4 @@
-Sarcinella diospyri R.C. Rajak & Soni SPECIES
-=======
+# Sarcinella diospyri R.C. Rajak & Soni SPECIES
 
 #### Status
 ACCEPTED

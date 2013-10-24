@@ -1,5 +1,4 @@
-Septoria collinsiae H.W. Anderson SPECIES
-=======
+# Septoria collinsiae H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

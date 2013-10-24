@@ -1,5 +1,4 @@
-Gloeosporium paliuri (Lév.) P. Karst. & Har. SPECIES
-=======
+# Gloeosporium paliuri (Lév.) P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria rugifera Müll. Arg. SPECIES
-=======
+# Pertusaria rugifera Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

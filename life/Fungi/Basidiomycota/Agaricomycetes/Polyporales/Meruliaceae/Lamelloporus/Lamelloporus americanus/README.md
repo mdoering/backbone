@@ -1,5 +1,4 @@
-Lamelloporus americanus Ryvarden, 1987 SPECIES
-=======
+# Lamelloporus americanus Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED

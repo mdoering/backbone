@@ -1,5 +1,4 @@
-Heterosporium stenhammariae Rostr. SPECIES
-=======
+# Heterosporium stenhammariae Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo dapsilis Cummins SPECIES
-=======
+# Uredo dapsilis Cummins SPECIES
 
 #### Status
 ACCEPTED

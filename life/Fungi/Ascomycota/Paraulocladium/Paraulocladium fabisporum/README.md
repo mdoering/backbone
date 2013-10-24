@@ -1,5 +1,4 @@
-Paraulocladium fabisporum Kuthub. & Nawawi SPECIES
-=======
+# Paraulocladium fabisporum Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED

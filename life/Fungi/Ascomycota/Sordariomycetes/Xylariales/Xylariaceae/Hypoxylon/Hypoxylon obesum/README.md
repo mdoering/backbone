@@ -1,5 +1,4 @@
-Hypoxylon obesum Fr. SPECIES
-=======
+# Hypoxylon obesum Fr. SPECIES
 
 #### Status
 ACCEPTED

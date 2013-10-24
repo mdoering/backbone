@@ -1,5 +1,4 @@
-Lecidea festivissima Hue SPECIES
-=======
+# Lecidea festivissima Hue SPECIES
 
 #### Status
 ACCEPTED

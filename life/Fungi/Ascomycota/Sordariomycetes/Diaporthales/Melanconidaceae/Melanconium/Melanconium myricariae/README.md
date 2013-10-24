@@ -1,5 +1,4 @@
-Melanconium myricariae G.H. Otth SPECIES
-=======
+# Melanconium myricariae G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

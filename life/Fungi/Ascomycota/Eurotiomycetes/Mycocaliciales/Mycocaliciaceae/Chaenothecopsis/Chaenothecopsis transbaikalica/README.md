@@ -1,5 +1,4 @@
-Chaenothecopsis transbaikalica Titov SPECIES
-=======
+# Chaenothecopsis transbaikalica Titov SPECIES
 
 #### Status
 ACCEPTED

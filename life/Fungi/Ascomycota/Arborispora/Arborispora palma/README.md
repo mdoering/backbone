@@ -1,5 +1,4 @@
-Arborispora palma K. Ando, 1986 SPECIES
-=======
+# Arborispora palma K. Ando, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Varisulcosporites Rouse & Mustard GENUS
-=======
+# Varisulcosporites Rouse & Mustard GENUS
 
 #### Status
 ACCEPTED

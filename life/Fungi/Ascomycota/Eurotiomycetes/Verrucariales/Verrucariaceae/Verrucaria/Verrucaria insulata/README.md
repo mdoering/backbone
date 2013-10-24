@@ -1,5 +1,4 @@
-Verrucaria insulata Fée SPECIES
-=======
+# Verrucaria insulata Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenogaster brunnescens A.H. Sm. SPECIES
-=======
+# Hymenogaster brunnescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

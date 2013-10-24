@@ -1,14 +1,13 @@
-Camarophyllus muritaensis (G. Stev.) E. Horak SPECIES
-=======
+# Camarophyllus muritaiensis (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 9(3): 438 (1971)
 
 #### Original name
 Hygrophorus muritaiensis G. Stev., 1963

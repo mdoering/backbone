@@ -1,5 +1,4 @@
-Cercospora budapestiensis Penzes {?} SPECIES
-=======
+# Cercospora budapestiensis Penzes {?} SPECIES
 
 #### Status
 ACCEPTED

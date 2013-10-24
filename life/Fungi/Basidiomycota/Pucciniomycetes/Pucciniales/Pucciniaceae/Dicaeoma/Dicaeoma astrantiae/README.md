@@ -1,5 +1,4 @@
-Dicaeoma astrantiae (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma astrantiae (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

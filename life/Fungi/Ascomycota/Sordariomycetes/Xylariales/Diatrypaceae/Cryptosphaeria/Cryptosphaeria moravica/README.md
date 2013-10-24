@@ -1,8 +1,7 @@
-Eutypa petrakii var. petrakii Rappaz, 1987 VARIETY
-=======
+# Cryptosphaeria moravica Petr. & Sacc., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Cryptosphaeria moravica Petr. & Sacc., 1913
 
 ### Remarks
 null

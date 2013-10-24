@@ -1,5 +1,4 @@
-Amblyospora khaliulini SPECIES
-=======
+# Amblyospora khaliulini SPECIES
 
 #### Status
 ACCEPTED

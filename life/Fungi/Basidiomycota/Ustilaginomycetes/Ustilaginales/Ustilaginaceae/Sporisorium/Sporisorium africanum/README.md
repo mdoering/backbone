@@ -1,5 +1,4 @@
-Sporisorium africanum (Syd. & P. Syd.) Vánky SPECIES
-=======
+# Sporisorium africanum (Syd. & P. Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

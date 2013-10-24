@@ -1,17 +1,16 @@
-Torula brachiata Ellis & Barthol., 1902 SPECIES
-=======
+# Papulaspora brachiata (Ellis & Barthol.) J.L. Crane & Schokn., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 67(3): 667 (1975)
 
 #### Original name
-null
+Torula brachyata Ellis & Barthol.
 
 ### Remarks
 null

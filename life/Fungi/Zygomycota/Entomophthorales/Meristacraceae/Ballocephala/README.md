@@ -1,5 +1,4 @@
-Ballocephala Drechsler GENUS
-=======
+# Ballocephala Drechsler GENUS
 
 #### Status
 ACCEPTED

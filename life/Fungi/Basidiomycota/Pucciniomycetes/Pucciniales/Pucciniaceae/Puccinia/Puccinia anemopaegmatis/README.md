@@ -1,5 +1,4 @@
-Puccinia anemopaegmatis Henn. SPECIES
-=======
+# Puccinia anemopaegmatis Henn. SPECIES
 
 #### Status
 ACCEPTED

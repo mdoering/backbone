@@ -1,5 +1,4 @@
-Mycena emeritensis Dennis SPECIES
-=======
+# Mycena emeritensis Dennis SPECIES
 
 #### Status
 ACCEPTED

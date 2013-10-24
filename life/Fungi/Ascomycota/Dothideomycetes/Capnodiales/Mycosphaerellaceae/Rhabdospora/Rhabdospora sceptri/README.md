@@ -1,5 +1,4 @@
-Rhabdospora sceptri P. Karst. SPECIES
-=======
+# Rhabdospora sceptri P. Karst. SPECIES
 
 #### Status
 ACCEPTED

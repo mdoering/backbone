@@ -1,5 +1,4 @@
-Rhizocarpon andarense (Darb.) I.M. Lamb SPECIES
-=======
+# Rhizocarpon andarense (Darb.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

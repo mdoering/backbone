@@ -1,5 +1,4 @@
-Hystrichosphaera mirabilis M. Rossignol SPECIES
-=======
+# Hystrichosphaera mirabilis M. Rossignol SPECIES
 
 #### Status
 ACCEPTED

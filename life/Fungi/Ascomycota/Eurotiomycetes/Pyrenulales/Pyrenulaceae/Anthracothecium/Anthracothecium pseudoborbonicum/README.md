@@ -1,5 +1,4 @@
-Anthracothecium pseudoborbonicum Upreti & Ajay Singh SPECIES
-=======
+# Anthracothecium pseudoborbonicum Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

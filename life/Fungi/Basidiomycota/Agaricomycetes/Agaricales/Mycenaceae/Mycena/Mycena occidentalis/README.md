@@ -1,5 +1,4 @@
-Mycena occidentalis Murrill SPECIES
-=======
+# Mycena occidentalis Murrill SPECIES
 
 #### Status
 ACCEPTED

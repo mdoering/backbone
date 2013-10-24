@@ -1,5 +1,4 @@
-Nectriopsis cupulata (Theiss.) Samuels SPECIES
-=======
+# Nectriopsis cupulata (Theiss.) Samuels SPECIES
 
 #### Status
 ACCEPTED

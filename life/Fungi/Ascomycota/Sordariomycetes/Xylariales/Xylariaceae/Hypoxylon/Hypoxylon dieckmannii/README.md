@@ -1,14 +1,13 @@
-Hypoxylon rubiginosum var. dieckmannii (Theiss.) J.H. Mill., 1961 VARIETY
-=======
+# Hypoxylon dieckmannii Theiss., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. World spec. Hypoxylon 33 (1961)
+Annls mycol. 6(4): 346 (1908)
 
 #### Original name
 Hypoxylon dieckmannii Theiss., 1908

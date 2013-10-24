@@ -1,5 +1,4 @@
-Cryptovalsa microspora Sacc. SPECIES
-=======
+# Cryptovalsa microspora Sacc. SPECIES
 
 #### Status
 ACCEPTED

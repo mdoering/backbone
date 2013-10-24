@@ -1,5 +1,4 @@
-Blechschmidtia Dumitrica & Hungerbühler, 2007 GENUS
-=======
+# Blechschmidtia Dumitrica & Hungerbühler, 2007 GENUS
 
 #### Status
 ACCEPTED

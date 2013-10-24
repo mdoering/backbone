@@ -1,5 +1,4 @@
-Mucor monstruosus Schreb. SPECIES
-=======
+# Mucor monstruosus Schreb. SPECIES
 
 #### Status
 ACCEPTED

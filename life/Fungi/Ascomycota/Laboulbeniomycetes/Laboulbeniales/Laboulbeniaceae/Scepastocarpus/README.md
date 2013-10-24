@@ -1,5 +1,4 @@
-Scepastocarpus Santam. GENUS
-=======
+# Scepastocarpus Santam. GENUS
 
 #### Status
 ACCEPTED

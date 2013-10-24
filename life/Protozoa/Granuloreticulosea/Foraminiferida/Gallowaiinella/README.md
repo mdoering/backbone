@@ -1,5 +1,4 @@
-Gallowaiinella Dunbar & Skinner, 1937 GENUS
-=======
+# Gallowaiinella Dunbar & Skinner, 1937 GENUS
 
 #### Status
 ACCEPTED

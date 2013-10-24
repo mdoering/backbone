@@ -1,5 +1,4 @@
-Phoma pampeana Speg. SPECIES
-=======
+# Phoma pampeana Speg. SPECIES
 
 #### Status
 ACCEPTED

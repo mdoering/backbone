@@ -1,5 +1,4 @@
-Rhopalomyces bennyi Cano & Guarro, 1989 SPECIES
-=======
+# Rhopalomyces bennyi Cano & Guarro, 1989 SPECIES
 
 #### Status
 ACCEPTED

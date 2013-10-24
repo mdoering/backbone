@@ -1,5 +1,4 @@
-Dasyscyphus castaneus Graddon, 1977 SPECIES
-=======
+# Dasyscyphus castaneus Graddon, 1977 SPECIES
 
 #### Status
 ACCEPTED

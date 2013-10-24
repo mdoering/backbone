@@ -1,5 +1,4 @@
-Dorothia scabra SPECIES
-=======
+# Dorothia scabra SPECIES
 
 #### Status
 ACCEPTED

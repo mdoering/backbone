@@ -1,5 +1,4 @@
-Colletotrichum savulescui Sandu SPECIES
-=======
+# Colletotrichum savulescui Sandu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tyloligotriletum Timofeev, 1959 GENUS
-=======
+# Tyloligotriletum Timofeev, 1959 GENUS
 
 #### Status
 ACCEPTED

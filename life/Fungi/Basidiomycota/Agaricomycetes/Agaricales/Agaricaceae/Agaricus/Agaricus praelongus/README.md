@@ -1,5 +1,4 @@
-Agaricus praelongus Peck SPECIES
-=======
+# Agaricus praelongus Peck SPECIES
 
 #### Status
 ACCEPTED

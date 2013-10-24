@@ -1,5 +1,4 @@
-Septoria celanensis D. Sacc. SPECIES
-=======
+# Septoria celanensis D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

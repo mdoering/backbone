@@ -1,5 +1,4 @@
-Bacillus pumilus Meyer and Gottheil, 1901 (Approved Lists, 1980) SPECIES
-=======
+# Bacillus pumilus Meyer and Gottheil, 1901 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

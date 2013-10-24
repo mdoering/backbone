@@ -1,5 +1,4 @@
-Oidium ericinum Erikss., 1885 SPECIES
-=======
+# Oidium ericinum Erikss., 1885 SPECIES
 
 #### Status
 ACCEPTED

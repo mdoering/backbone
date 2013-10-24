@@ -1,5 +1,4 @@
-Dothiopsis phanerae Racib. SPECIES
-=======
+# Dothiopsis phanerae Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyathus microsporus Tul. & C. Tul. SPECIES
-=======
+# Cyathus microsporus Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces rimosus subsp. rimosus SUBSPECIES
-=======
+# Streptomyces rimosus Sobin et al., 1953 SPECIES
 
 #### Status
 ACCEPTED

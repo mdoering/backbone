@@ -1,5 +1,4 @@
-Clathrus americanus Lloyd SPECIES
-=======
+# Clathrus americanus Lloyd SPECIES
 
 #### Status
 ACCEPTED

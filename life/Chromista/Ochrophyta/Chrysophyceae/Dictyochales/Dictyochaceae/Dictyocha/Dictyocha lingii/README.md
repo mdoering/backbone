@@ -1,5 +1,4 @@
-Dictyocha lingii P. Dumitrica SPECIES
-=======
+# Dictyocha lingii P. Dumitrica SPECIES
 
 #### Status
 ACCEPTED

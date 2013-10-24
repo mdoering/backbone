@@ -1,5 +1,4 @@
-Hendersonia mammillana (Fr.) Sacc. SPECIES
-=======
+# Hendersonia mammillana (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

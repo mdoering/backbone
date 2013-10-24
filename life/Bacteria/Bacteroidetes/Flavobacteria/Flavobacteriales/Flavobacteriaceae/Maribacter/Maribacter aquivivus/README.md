@@ -1,5 +1,4 @@
-Maribacter aquivivus Nedashkovskaya et al., 2004 SPECIES
-=======
+# Maribacter aquivivus Nedashkovskaya et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

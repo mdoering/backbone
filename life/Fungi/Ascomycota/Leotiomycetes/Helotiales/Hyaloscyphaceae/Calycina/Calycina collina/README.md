@@ -1,5 +1,4 @@
-Calycina collina (Speg.) Kuntze SPECIES
-=======
+# Calycina collina (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora scoparia Sacc. & Briard SPECIES
-=======
+# Rhabdospora scoparia Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

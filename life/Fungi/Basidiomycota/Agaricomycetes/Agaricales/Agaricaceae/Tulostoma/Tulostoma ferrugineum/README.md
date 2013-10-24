@@ -1,5 +1,4 @@
-Tulostoma ferrugineum Oliver {?} & Hosford SPECIES
-=======
+# Tulostoma ferrugineum Oliver {?} & Hosford SPECIES
 
 #### Status
 ACCEPTED

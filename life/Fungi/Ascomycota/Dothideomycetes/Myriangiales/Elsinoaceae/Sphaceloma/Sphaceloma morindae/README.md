@@ -1,5 +1,4 @@
-Sphaceloma morindae Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma morindae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

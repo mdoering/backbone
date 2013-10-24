@@ -1,5 +1,4 @@
-Acanthocircus spelae SPECIES
-=======
+# Acanthocircus spelae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorocarpaceae FAMILY
-=======
+# Sorocarpaceae FAMILY
 
 #### Status
 ACCEPTED

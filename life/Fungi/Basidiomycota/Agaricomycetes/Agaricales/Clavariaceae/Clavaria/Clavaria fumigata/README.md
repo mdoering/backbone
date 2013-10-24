@@ -1,5 +1,4 @@
-Clavaria fumigata Peck SPECIES
-=======
+# Clavaria fumigata Peck SPECIES
 
 #### Status
 ACCEPTED

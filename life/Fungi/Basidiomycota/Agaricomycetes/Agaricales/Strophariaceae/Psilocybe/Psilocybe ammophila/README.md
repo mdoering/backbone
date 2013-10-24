@@ -1,17 +1,16 @@
-Psilocybe ammophila var. ammophila VARIETY
-=======
+# Psilocybe ammophila SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Hyménomycètes (Alençon) 587 (1878)
+null
 
 #### Original name
-Psilocybe ammophila var. ammophila
+null
 
 ### Remarks
 null

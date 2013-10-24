@@ -1,5 +1,4 @@
-Geoglossum noumeanum Har. & Pat. SPECIES
-=======
+# Geoglossum noumeanum Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

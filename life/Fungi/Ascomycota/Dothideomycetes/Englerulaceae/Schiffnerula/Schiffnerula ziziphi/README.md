@@ -1,14 +1,13 @@
-Schiffnerula zizyphi (H.S. Yates) S. Hughes SPECIES
-=======
+# Schiffnerula ziziphi (H.S. Yates) S. Hughes SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pleomorphic Fungi: The Diversity and its Taxonomic Implications (Tokyo) 134 (1987)
 
 #### Original name
 Asterina ziziphi H.S. Yates

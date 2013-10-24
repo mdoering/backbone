@@ -1,17 +1,16 @@
-Arachnoscypha Boud. GENUS
-=======
+# Arachnopeziza Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Soc. mycol. Fr. 1: 118 (1885)
+null
 
 #### Original name
-Arachnoscypha Boud.
+null
 
 ### Remarks
 null

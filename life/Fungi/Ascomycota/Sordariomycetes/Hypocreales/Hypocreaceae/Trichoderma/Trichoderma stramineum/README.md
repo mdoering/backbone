@@ -1,5 +1,4 @@
-Trichoderma stramineum P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma stramineum P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

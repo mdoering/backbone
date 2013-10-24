@@ -1,5 +1,4 @@
-Ephebeia spinulosa Th. Fr. SPECIES
-=======
+# Ephebeia spinulosa Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

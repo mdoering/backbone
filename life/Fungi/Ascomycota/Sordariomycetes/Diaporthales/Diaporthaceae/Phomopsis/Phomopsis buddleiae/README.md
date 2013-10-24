@@ -1,5 +1,4 @@
-Phomopsis buddleiae Grove, 1930 SPECIES
-=======
+# Phomopsis buddleiae Grove, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ceriosporella calyptrata (Kohlm.) A.R. Caval., 1966 SPECIES
-=======
+# Ceriosporopsis calyptrata Kohlm., 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 10(3/4): 394 (1966)
+Nova Hedwigia 2: 301 (1960)
 
 #### Original name
 Ceriosporopsis calyptrata Kohlm., 1960

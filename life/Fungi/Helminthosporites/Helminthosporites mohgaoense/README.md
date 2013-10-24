@@ -1,5 +1,4 @@
-Helminthosporites mohgaoense Chitaley & M.T. Sheikh SPECIES
-=======
+# Helminthosporites mohgaoense Chitaley & M.T. Sheikh SPECIES
 
 #### Status
 ACCEPTED

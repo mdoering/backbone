@@ -1,5 +1,4 @@
-Physarina echinospora K.S. Thind & Manocha, 1964 SPECIES
-=======
+# Physarina echinospora K.S. Thind & Manocha, 1964 SPECIES
 
 #### Status
 ACCEPTED

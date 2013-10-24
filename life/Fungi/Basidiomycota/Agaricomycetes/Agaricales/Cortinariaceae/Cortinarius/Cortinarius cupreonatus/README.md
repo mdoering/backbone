@@ -1,5 +1,4 @@
-Cortinarius cupreonatus Soop, 2001 SPECIES
-=======
+# Cortinarius cupreonatus Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

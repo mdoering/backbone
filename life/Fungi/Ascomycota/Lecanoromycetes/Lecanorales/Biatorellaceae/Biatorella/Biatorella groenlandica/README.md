@@ -1,5 +1,4 @@
-Biatorella groenlandica (H. Magn.) Zahlbr. SPECIES
-=======
+# Biatorella groenlandica (H. Magn.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

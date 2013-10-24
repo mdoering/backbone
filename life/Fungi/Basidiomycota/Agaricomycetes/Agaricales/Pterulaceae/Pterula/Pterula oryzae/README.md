@@ -1,5 +1,4 @@
-Pterula oryzae (Remsberg) Corner SPECIES
-=======
+# Pterula oryzae (Remsberg) Corner SPECIES
 
 #### Status
 ACCEPTED

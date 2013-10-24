@@ -1,5 +1,4 @@
-Geopyxis aluticolor (Berk.) Sacc. SPECIES
-=======
+# Geopyxis aluticolor (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma pullum Kalchbr. SPECIES
-=======
+# Asteroma pullum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

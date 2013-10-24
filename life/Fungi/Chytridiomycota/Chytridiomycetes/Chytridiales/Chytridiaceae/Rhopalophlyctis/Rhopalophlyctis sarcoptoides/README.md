@@ -1,5 +1,4 @@
-Rhopalophlyctis sarcoptoides Karling, 1945 SPECIES
-=======
+# Rhopalophlyctis sarcoptoides Karling, 1945 SPECIES
 
 #### Status
 ACCEPTED

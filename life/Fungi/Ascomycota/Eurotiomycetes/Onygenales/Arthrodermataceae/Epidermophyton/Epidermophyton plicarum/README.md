@@ -1,5 +1,4 @@
-Epidermophyton plicarum Nicolau SPECIES
-=======
+# Epidermophyton plicarum Nicolau SPECIES
 
 #### Status
 ACCEPTED

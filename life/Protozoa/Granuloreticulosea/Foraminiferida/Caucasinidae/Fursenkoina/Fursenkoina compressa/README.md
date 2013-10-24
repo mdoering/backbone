@@ -1,5 +1,4 @@
-Fursenkoina compressa SPECIES
-=======
+# Fursenkoina compressa SPECIES
 
 #### Status
 ACCEPTED

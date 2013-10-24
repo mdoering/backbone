@@ -1,5 +1,4 @@
-Usnea sphacelata R. Br. SPECIES
-=======
+# Usnea sphacelata R. Br. SPECIES
 
 #### Status
 ACCEPTED

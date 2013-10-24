@@ -1,5 +1,4 @@
-Lactifluus pannucius (Fr.) Kuntze SPECIES
-=======
+# Lactifluus pannucius (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protosphaeridium petigenosum Andreeva, 1973 SPECIES
-=======
+# Protosphaeridium petigenosum Andreeva, 1973 SPECIES
 
 #### Status
 ACCEPTED

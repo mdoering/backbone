@@ -1,5 +1,4 @@
-Parapeltella caunae (Speg.) Bat. SPECIES
-=======
+# Parapeltella caunae (Speg.) Bat. SPECIES
 
 #### Status
 ACCEPTED

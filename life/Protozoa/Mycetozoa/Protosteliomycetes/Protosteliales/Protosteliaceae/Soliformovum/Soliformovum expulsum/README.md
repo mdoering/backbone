@@ -1,8 +1,7 @@
-Protostelium expulsum L.S. Olive & Stoian., 1981 SPECIES
-=======
+# Soliformovum expulsum (L.S. Olive & Stoian.) Spiegel, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

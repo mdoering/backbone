@@ -1,14 +1,13 @@
-Verrucaria bermudana Tuck. ex Nyl. SPECIES
-=======
+# Strigula bermudana (Tuck. ex Nyl.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sert. Lich. Trop. Labuan Singapore 43 (1891)
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 155 (1995)
 
 #### Original name
 Verrucaria bermudana Tuck. ex Nyl.

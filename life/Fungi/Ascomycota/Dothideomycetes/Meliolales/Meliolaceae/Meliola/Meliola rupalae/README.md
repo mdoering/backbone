@@ -1,5 +1,4 @@
-Meliola rupalae Speg. SPECIES
-=======
+# Meliola rupalae Speg. SPECIES
 
 #### Status
 ACCEPTED

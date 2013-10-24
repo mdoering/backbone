@@ -1,5 +1,4 @@
-Lecidea contrerasii B. de Lesd. SPECIES
-=======
+# Lecidea contrerasii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

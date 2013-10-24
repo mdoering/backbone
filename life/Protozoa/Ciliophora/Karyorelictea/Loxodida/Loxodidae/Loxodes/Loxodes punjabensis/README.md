@@ -1,5 +1,4 @@
-Loxodes punjabensis Bhatia, 1936 SPECIES
-=======
+# Loxodes punjabensis Bhatia, 1936 SPECIES
 
 #### Status
 ACCEPTED

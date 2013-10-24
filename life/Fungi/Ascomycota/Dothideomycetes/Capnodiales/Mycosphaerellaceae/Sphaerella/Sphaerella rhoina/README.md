@@ -1,5 +1,4 @@
-Sphaerella rhoina Sacc. SPECIES
-=======
+# Sphaerella rhoina Sacc. SPECIES
 
 #### Status
 ACCEPTED

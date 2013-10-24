@@ -1,5 +1,4 @@
-Psilosphaeria leptosporoides (G. Winter) Cooke SPECIES
-=======
+# Psilosphaeria leptosporoides (G. Winter) Cooke SPECIES
 
 #### Status
 ACCEPTED

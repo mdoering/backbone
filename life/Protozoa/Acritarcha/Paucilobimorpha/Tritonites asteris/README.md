@@ -1,5 +1,4 @@
-Tritonites asteris Marshall & Partridge, 1988 SPECIES
-=======
+# Tritonites asteris Marshall & Partridge, 1988 SPECIES
 
 #### Status
 DOUBTFUL

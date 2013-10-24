@@ -1,5 +1,4 @@
-Hypoxylon mauritanicum (Durieu & Mont.) Mont. SPECIES
-=======
+# Hypoxylon mauritanicum (Durieu & Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

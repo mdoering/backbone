@@ -1,5 +1,4 @@
-Micropeltis lecythidis Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis lecythidis Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

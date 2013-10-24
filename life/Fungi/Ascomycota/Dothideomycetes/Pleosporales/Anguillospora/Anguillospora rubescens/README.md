@@ -1,5 +1,4 @@
-Anguillospora rubescens Gulis & Marvanová SPECIES
-=======
+# Anguillospora rubescens Gulis & Marvanová SPECIES
 
 #### Status
 ACCEPTED

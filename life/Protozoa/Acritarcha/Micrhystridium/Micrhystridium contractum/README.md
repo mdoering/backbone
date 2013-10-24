@@ -1,5 +1,4 @@
-Micrhystridium contractum Playford & Wicander, 1988 SPECIES
-=======
+# Micrhystridium contractum Playford & Wicander, 1988 SPECIES
 
 #### Status
 ACCEPTED

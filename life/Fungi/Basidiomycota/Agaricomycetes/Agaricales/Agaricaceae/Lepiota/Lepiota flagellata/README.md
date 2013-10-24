@@ -1,5 +1,4 @@
-Lepiota flagellata (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota flagellata (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

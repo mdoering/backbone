@@ -1,5 +1,4 @@
-Pholiota alniphila (Zeller) Redhead SPECIES
-=======
+# Pholiota alniphila (Zeller) Redhead SPECIES
 
 #### Status
 ACCEPTED

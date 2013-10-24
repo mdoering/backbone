@@ -1,17 +1,16 @@
-Collema australe Hook. f. & Taylor SPECIES
-=======
+# Leptogium australe (Hook. f. & Taylor) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 70: 268 (1887)
 
 #### Original name
-null
+Collema australe Hook. f. & Taylor
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coniothyrium tirolense Bubák SPECIES
-=======
+# Coniothyrium tirolense Bubák SPECIES
 
 #### Status
 ACCEPTED

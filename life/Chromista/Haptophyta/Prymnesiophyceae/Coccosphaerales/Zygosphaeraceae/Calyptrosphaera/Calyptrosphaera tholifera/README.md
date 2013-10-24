@@ -1,5 +1,4 @@
-Calyptrosphaera tholifera Halldal & Markali SPECIES
-=======
+# Calyptrosphaera tholifera Halldal & Markali SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinocyclus barkleyi Grunow SPECIES
-=======
+# Actinocyclus barkleyi Grunow SPECIES
 
 #### Status
 ACCEPTED

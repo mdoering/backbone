@@ -1,5 +1,4 @@
-Chrysothylakion Pascher, 1916 GENUS
-=======
+# Chrysothylakion Pascher, 1916 GENUS
 
 #### Status
 ACCEPTED

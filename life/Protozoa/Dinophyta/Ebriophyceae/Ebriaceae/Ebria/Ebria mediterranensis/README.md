@@ -1,5 +1,4 @@
-Ebria mediterranensis P. Dumitrica SPECIES
-=======
+# Ebria mediterranensis P. Dumitrica SPECIES
 
 #### Status
 ACCEPTED

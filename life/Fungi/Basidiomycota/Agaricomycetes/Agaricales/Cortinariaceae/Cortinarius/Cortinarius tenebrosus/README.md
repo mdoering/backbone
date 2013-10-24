@@ -1,5 +1,4 @@
-Cortinarius tenebrosus Reumaux SPECIES
-=======
+# Cortinarius tenebrosus Reumaux SPECIES
 
 #### Status
 ACCEPTED

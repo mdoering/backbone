@@ -1,5 +1,4 @@
-Tintinnopsis wailesi Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnopsis wailesi Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

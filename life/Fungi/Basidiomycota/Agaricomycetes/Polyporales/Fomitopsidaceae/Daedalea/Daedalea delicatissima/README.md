@@ -1,5 +1,4 @@
-Daedalea delicatissima Speg. SPECIES
-=======
+# Daedalea delicatissima Speg. SPECIES
 
 #### Status
 ACCEPTED

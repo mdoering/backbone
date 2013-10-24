@@ -1,5 +1,4 @@
-Polyporus gayanus Lév., 1846 SPECIES
-=======
+# Polyporus gayanus Lév., 1846 SPECIES
 
 #### Status
 ACCEPTED

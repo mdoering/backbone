@@ -1,5 +1,4 @@
-Hypocrea austrograndis Hashioka & A. Komatsu SPECIES
-=======
+# Hypocrea austrograndis Hashioka & A. Komatsu SPECIES
 
 #### Status
 ACCEPTED

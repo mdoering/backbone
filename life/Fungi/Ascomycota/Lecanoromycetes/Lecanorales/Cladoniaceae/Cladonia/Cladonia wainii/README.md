@@ -1,5 +1,4 @@
-Cladonia wainii Savicz SPECIES
-=======
+# Cladonia wainii Savicz SPECIES
 
 #### Status
 ACCEPTED

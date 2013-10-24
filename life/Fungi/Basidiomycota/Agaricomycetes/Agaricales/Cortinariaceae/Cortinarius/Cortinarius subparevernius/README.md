@@ -1,5 +1,4 @@
-Cortinarius subparevernius Rob. Henry SPECIES
-=======
+# Cortinarius subparevernius Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

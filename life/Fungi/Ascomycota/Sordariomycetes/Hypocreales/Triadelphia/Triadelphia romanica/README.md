@@ -1,5 +1,4 @@
-Triadelphia romanica Constant. & Samson, 1982 SPECIES
-=======
+# Triadelphia romanica Constant. & Samson, 1982 SPECIES
 
 #### Status
 ACCEPTED

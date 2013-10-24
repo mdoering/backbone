@@ -1,5 +1,4 @@
-Lecidea lecanorella Nyl. SPECIES
-=======
+# Lecidea lecanorella Nyl. SPECIES
 
 #### Status
 ACCEPTED

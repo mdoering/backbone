@@ -1,5 +1,4 @@
-Ophiocytium parvulum (Perty) A. Braun SPECIES
-=======
+# Ophiocytium parvulum (Perty) A. Braun SPECIES
 
 #### Status
 ACCEPTED

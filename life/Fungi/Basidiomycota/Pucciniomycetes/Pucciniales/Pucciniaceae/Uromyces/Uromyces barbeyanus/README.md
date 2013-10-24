@@ -1,5 +1,4 @@
-Uromyces barbeyanus Henn. SPECIES
-=======
+# Uromyces barbeyanus Henn. SPECIES
 
 #### Status
 ACCEPTED

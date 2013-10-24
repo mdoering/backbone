@@ -1,5 +1,4 @@
-Otidea olivacea J.Z. Cao & L. Fan SPECIES
-=======
+# Otidea olivacea J.Z. Cao & L. Fan SPECIES
 
 #### Status
 ACCEPTED

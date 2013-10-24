@@ -1,5 +1,4 @@
-Hypocrea buteae S.D. Patil & M.S. Patil SPECIES
-=======
+# Hypocrea buteae S.D. Patil & M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

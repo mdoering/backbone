@@ -1,5 +1,4 @@
-Seynesia megas var. megas VARIETY
-=======
+# Seynesia megas Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 37: 325 (1898)
 
 #### Original name
-Seynesia megas var. megas
+Seynesia megas Rehm
 
 ### Remarks
 null

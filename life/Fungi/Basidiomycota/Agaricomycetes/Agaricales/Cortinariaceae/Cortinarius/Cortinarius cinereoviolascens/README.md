@@ -1,5 +1,4 @@
-Cortinarius cinereoviolascens Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius cinereoviolascens Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

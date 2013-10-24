@@ -1,5 +1,4 @@
-Cercospora bombacis Goh & W.H. Hsieh SPECIES
-=======
+# Cercospora bombacis Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

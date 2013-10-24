@@ -1,5 +1,4 @@
-Clypeosphaeria valparadisiensis Speg. SPECIES
-=======
+# Clypeosphaeria valparadisiensis Speg. SPECIES
 
 #### Status
 ACCEPTED

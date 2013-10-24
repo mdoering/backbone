@@ -1,5 +1,4 @@
-Eggerelloides Haynes, 1973 GENUS
-=======
+# Eggerelloides Haynes, 1973 GENUS
 
 #### Status
 ACCEPTED

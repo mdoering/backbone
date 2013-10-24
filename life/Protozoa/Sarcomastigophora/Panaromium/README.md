@@ -1,5 +1,4 @@
-Panaromium Haeckel, 1887 GENUS
-=======
+# Panaromium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

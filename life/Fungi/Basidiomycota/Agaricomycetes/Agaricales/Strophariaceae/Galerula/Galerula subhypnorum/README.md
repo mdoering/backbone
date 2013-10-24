@@ -1,5 +1,4 @@
-Galerula subhypnorum G.F. Atk. SPECIES
-=======
+# Galerula subhypnorum G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

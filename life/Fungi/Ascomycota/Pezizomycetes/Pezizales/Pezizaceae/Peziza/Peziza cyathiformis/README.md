@@ -1,5 +1,4 @@
-Peziza cyathiformis Scop. SPECIES
-=======
+# Peziza cyathiformis Scop. SPECIES
 
 #### Status
 ACCEPTED

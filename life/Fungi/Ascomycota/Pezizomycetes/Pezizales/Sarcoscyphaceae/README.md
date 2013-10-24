@@ -1,5 +1,4 @@
-Sarcoscyphaceae Le Gal ex Eckblad FAMILY
-=======
+# Sarcoscyphaceae Le Gal ex Eckblad FAMILY
 
 #### Status
 ACCEPTED

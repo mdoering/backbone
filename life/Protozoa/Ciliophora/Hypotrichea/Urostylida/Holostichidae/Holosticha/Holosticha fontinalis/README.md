@@ -1,5 +1,4 @@
-Holosticha fontinalis Lepsi, 1926 SPECIES
-=======
+# Holosticha fontinalis Lepsi, 1926 SPECIES
 
 #### Status
 ACCEPTED

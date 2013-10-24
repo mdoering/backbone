@@ -1,5 +1,4 @@
-Phyllostictella pruni-spinosae (Allesch.) Tassi SPECIES
-=======
+# Phyllostictella pruni-spinosae (Allesch.) Tassi SPECIES
 
 #### Status
 ACCEPTED

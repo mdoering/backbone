@@ -1,5 +1,4 @@
-Pachnocybe Berk. GENUS
-=======
+# Pachnocybe Berk. GENUS
 
 #### Status
 ACCEPTED

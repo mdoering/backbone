@@ -1,5 +1,4 @@
-Sporisorium cantonense (Zundel) L. Guo SPECIES
-=======
+# Sporisorium cantonense (Zundel) L. Guo SPECIES
 
 #### Status
 ACCEPTED

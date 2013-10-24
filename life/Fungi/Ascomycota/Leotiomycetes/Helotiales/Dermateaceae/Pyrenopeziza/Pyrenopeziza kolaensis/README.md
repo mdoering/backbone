@@ -1,14 +1,13 @@
-Mollisia kolaensis P. Karst., 1871 SPECIES
-=======
+# Pyrenopeziza kolaensis (P. Karst.) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 19: 201 (1871)
+Syll. fung. (Abellini) 8: 370 (1889)
 
 #### Original name
 Mollisia kolaensis P. Karst., 1871

@@ -1,5 +1,4 @@
-Gloeocapsa mellea (Meneghini) Kützing SPECIES
-=======
+# Gloeocapsa mellea (Meneghini) Kützing SPECIES
 
 #### Status
 ACCEPTED

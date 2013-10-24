@@ -1,5 +1,4 @@
-Dipocubus Haeckel, 1887 GENUS
-=======
+# Dipocubus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora xanthoceratis Hollós SPECIES
-=======
+# Pleospora xanthoceratis Hollós SPECIES
 
 #### Status
 ACCEPTED

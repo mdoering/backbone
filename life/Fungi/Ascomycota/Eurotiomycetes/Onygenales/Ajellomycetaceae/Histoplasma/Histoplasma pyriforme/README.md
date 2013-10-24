@@ -1,5 +1,4 @@
-Histoplasma pyriforme (M. Moore) C.W. Dodge SPECIES
-=======
+# Histoplasma pyriforme (M. Moore) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

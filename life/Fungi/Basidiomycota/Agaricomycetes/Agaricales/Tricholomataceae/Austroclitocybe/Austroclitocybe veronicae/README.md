@@ -1,8 +1,7 @@
-Austroclitocybe veronicae var. veronicae Raithelh., 1972 VARIETY
-=======
+# Austroclitocybe veronicae Raithelh., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Metrodiana 3: (1972)
 
 #### Original name
-Austroclitocybe veronicae var. veronicae Raithelh., 1972
+Austroclitocybe veronicae Raithelh., 1972
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Usnea muelleriana Zahlbr. SPECIES
-=======
+# Usnea muelleriana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

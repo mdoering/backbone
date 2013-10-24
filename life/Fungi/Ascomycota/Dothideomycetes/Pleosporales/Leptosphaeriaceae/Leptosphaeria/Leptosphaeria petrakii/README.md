@@ -1,5 +1,4 @@
-Leptosphaeria petrakii Sacc. SPECIES
-=======
+# Leptosphaeria petrakii Sacc. SPECIES
 
 #### Status
 ACCEPTED

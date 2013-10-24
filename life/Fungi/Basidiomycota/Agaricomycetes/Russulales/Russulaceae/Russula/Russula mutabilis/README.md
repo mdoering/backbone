@@ -1,5 +1,4 @@
-Russula mutabilis Murrill SPECIES
-=======
+# Russula mutabilis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmidium epixanthum Hafellner SPECIES
-=======
+# Stigmidium epixanthum Hafellner SPECIES
 
 #### Status
 ACCEPTED

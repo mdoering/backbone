@@ -1,5 +1,4 @@
-Dichaenopsella quernea Petr. SPECIES
-=======
+# Dichaenopsella quernea Petr. SPECIES
 
 #### Status
 ACCEPTED

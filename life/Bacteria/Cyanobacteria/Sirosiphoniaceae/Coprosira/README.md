@@ -1,5 +1,4 @@
-Coprosira Kützing GENUS
-=======
+# Coprosira Kützing GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrogenimonas thermophila Takai et al., 2004 SPECIES
-=======
+# Hydrogenimonas thermophila Takai et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

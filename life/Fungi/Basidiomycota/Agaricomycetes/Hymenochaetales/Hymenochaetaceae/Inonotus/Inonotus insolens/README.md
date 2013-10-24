@@ -1,5 +1,4 @@
-Inonotus insolens Corner SPECIES
-=======
+# Inonotus insolens Corner SPECIES
 
 #### Status
 ACCEPTED

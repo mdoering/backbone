@@ -1,5 +1,4 @@
-Collybia argentina Speg. SPECIES
-=======
+# Collybia argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

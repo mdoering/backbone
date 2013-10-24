@@ -1,14 +1,13 @@
-Agaricus erinaceellus Peck, 1878 SPECIES
-=======
+# Flammulaster erinaceellus (Peck) Watling, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 31: 70 (1878)
+Notes R. bot. Gdn Edinb. 28: 65 (1967)
 
 #### Original name
 Agaricus erinaceellus Peck, 1878

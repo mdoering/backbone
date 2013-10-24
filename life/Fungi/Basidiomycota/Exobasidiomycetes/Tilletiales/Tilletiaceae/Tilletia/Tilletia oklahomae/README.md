@@ -1,5 +1,4 @@
-Tilletia oklahomae Zundel SPECIES
-=======
+# Tilletia oklahomae Zundel SPECIES
 
 #### Status
 ACCEPTED

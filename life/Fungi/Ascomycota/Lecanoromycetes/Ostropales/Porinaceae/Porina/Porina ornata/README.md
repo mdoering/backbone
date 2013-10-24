@@ -1,5 +1,4 @@
-Porina ornata Vezda SPECIES
-=======
+# Porina ornata Vezda SPECIES
 
 #### Status
 ACCEPTED

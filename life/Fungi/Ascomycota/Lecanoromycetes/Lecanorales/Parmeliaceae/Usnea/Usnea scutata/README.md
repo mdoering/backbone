@@ -1,5 +1,4 @@
-Usnea scutata Motyka SPECIES
-=======
+# Usnea scutata Motyka SPECIES
 
 #### Status
 ACCEPTED

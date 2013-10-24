@@ -1,5 +1,4 @@
-Gelatinosporium magnum Ellis, 1882 SPECIES
-=======
+# Gelatinosporium magnum Ellis, 1882 SPECIES
 
 #### Status
 ACCEPTED

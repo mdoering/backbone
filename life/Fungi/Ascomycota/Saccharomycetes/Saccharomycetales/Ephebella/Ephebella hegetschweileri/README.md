@@ -1,5 +1,4 @@
-Ephebella hegetschweileri Itzigs. SPECIES
-=======
+# Ephebella hegetschweileri Itzigs. SPECIES
 
 #### Status
 ACCEPTED

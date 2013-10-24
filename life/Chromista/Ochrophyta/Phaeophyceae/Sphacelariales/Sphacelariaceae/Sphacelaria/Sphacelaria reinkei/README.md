@@ -1,5 +1,4 @@
-Sphacelaria reinkei Sauvageau SPECIES
-=======
+# Sphacelaria reinkei Sauvageau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sporothrix tardalutea K. Matsush. & Matsush. SPECIES
-=======
+# Sporothrix tardilutea K. Matsush. & Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 37 (1996)
 
 #### Original name
-Sporothrix tardalutea K. Matsush. & Matsush.
+Sporothrix tardilutea K. Matsush. & Matsush.
 
 ### Remarks
 null

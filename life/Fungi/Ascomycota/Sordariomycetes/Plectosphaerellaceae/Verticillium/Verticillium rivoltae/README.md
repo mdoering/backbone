@@ -1,5 +1,4 @@
-Verticillium rivoltae Sacc. & Traverso SPECIES
-=======
+# Verticillium rivoltae Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

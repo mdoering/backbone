@@ -1,14 +1,13 @@
-Lyophyllum fusisporum (Hora) Gulden, 1991 SPECIES
-=======
+# Tephrocybe fusispora (Hora) M.M. Moser, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Knudsen & Hansen, Nordic Jl Bot. 11(4): 478 (1991)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 115 (1967)
 
 #### Original name
 Collybia fusispora Hora, 1960

@@ -1,5 +1,4 @@
-Leiofusa parvitatis Loeblich, 1970 SPECIES
-=======
+# Leiofusa parvitatis Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

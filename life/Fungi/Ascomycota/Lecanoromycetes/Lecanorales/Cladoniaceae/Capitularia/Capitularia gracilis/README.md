@@ -1,5 +1,4 @@
-Capitularia gracilis a gracilis (L.) Flörke SPECIES
-=======
+# Capitularia gracilis a gracilis (L.) Flörke SPECIES
 
 #### Status
 ACCEPTED

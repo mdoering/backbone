@@ -1,5 +1,4 @@
-Agaricus imminutus Pers. SPECIES
-=======
+# Agaricus imminutus Pers. SPECIES
 
 #### Status
 ACCEPTED

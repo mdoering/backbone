@@ -1,5 +1,4 @@
-Cystotheca lanestris (Harkn.) Sacc. SPECIES
-=======
+# Cystotheca lanestris (Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria centripeta Fr. SPECIES
-=======
+# Sphaeria centripeta Fr. SPECIES
 
 #### Status
 ACCEPTED

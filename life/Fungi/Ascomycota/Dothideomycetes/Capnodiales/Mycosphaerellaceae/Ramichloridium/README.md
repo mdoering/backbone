@@ -1,5 +1,4 @@
-Ramichloridium Stahel ex de Hoog, 1977 GENUS
-=======
+# Ramichloridium Stahel ex de Hoog, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platygrapha periclea var. periclea VARIETY
-=======
+# Platygrapha periclea SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Platygrapha periclea var. periclea
+null
 
 ### Remarks
 null

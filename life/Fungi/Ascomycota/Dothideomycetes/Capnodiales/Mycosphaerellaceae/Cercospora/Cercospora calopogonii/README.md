@@ -1,5 +1,4 @@
-Cercospora calopogonii F. Stevens & Solheim SPECIES
-=======
+# Cercospora calopogonii F. Stevens & Solheim SPECIES
 
 #### Status
 ACCEPTED

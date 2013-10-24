@@ -1,5 +1,4 @@
-Euplotopsis gracilis SPECIES
-=======
+# Euplotopsis gracilis SPECIES
 
 #### Status
 ACCEPTED

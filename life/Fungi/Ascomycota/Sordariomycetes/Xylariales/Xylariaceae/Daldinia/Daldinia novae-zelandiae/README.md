@@ -1,17 +1,16 @@
-Daldinia novaezelandiae Wollw. & M. Stadler SPECIES
-=======
+# Daldinia novae-zelandiae Wollw. & M. Stadler, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Stadler, Læssøe, Simpson & Wollweber, Mycol. Res. 108(9): 1031 (2004)
 
 #### Original name
-Daldinia novaezelandiae Wollw. & M. Stadler
+Daldinia novae-zelandiae Wollw. & M. Stadler, 2004
 
 ### Remarks
 null

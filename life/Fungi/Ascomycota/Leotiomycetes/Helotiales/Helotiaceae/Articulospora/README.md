@@ -1,5 +1,4 @@
-Articulospora Ingold GENUS
-=======
+# Articulospora Ingold GENUS
 
 #### Status
 ACCEPTED

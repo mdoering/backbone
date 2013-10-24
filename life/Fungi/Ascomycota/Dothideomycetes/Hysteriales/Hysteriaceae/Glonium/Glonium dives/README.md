@@ -1,5 +1,4 @@
-Glonium dives (De Not.) De Not. SPECIES
-=======
+# Glonium dives (De Not.) De Not. SPECIES
 
 #### Status
 ACCEPTED

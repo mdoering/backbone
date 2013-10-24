@@ -1,5 +1,4 @@
-Leptosphaeria indeprensa (Durieu & Mont.) Sacc. SPECIES
-=======
+# Leptosphaeria indeprensa (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

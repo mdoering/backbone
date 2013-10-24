@@ -1,5 +1,4 @@
-Aecidium serjaniae Henn. SPECIES
-=======
+# Aecidium serjaniae Henn. SPECIES
 
 #### Status
 ACCEPTED

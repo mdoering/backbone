@@ -1,5 +1,4 @@
-Peziza intermixta P. Karst. SPECIES
-=======
+# Peziza intermixta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudophormidium radiosum (Gom.) Anag. & Komar SPECIES
-=======
+# Pseudophormidium radiosum (Gom.) Anag. & Komar SPECIES
 
 #### Status
 ACCEPTED

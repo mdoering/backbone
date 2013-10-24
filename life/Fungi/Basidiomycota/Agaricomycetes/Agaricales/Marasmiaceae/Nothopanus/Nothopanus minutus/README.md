@@ -1,5 +1,4 @@
-Nothopanus minutus Sathe & J.T. Daniel SPECIES
-=======
+# Nothopanus minutus Sathe & J.T. Daniel SPECIES
 
 #### Status
 ACCEPTED

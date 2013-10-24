@@ -1,5 +1,4 @@
-Septoria alba Ellis & Barthol. SPECIES
-=======
+# Septoria alba Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

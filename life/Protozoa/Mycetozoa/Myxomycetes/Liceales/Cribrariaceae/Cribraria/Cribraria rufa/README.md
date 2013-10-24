@@ -1,17 +1,16 @@
-Cribraria rufescens var. rufescens Pers. VARIETY
-=======
+# Cribraria rufa (Roth) Rostaf., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neues Mag. Bot. 1: 91 (1794)
+Sluzowce monogr. (Paryz) 232 (1875)
 
 #### Original name
-Cribraria rufescens var. rufescens Pers.
+Stemonitis rufa Roth, 1788
 
 ### Remarks
 null

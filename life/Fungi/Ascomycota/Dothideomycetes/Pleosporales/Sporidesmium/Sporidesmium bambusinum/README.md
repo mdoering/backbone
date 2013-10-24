@@ -1,17 +1,16 @@
-Sporidesmium bambusina N.D. Sharma SPECIES
-=======
+# Sporidesmium bambusinum N.D. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Indian bot. Soc. 59(1): 76 (1980)
 
 #### Original name
-Sporidesmium bambusina N.D. Sharma
+Sporidesmium bambusinum N.D. Sharma
 
 ### Remarks
 null

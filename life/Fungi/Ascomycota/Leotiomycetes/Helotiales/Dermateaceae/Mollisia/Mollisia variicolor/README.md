@@ -1,5 +1,4 @@
-Mollisia variicolor Starbäck SPECIES
-=======
+# Mollisia variicolor Starbäck SPECIES
 
 #### Status
 ACCEPTED

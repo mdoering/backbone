@@ -1,5 +1,4 @@
-Monilia rosella McAlpine SPECIES
-=======
+# Monilia rosella McAlpine SPECIES
 
 #### Status
 ACCEPTED

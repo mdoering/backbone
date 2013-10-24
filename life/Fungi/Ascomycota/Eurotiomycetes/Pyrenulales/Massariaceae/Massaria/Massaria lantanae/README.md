@@ -1,5 +1,4 @@
-Massaria lantanae (G.H. Otth) Shoemaker & P.M. LeClair SPECIES
-=======
+# Massaria lantanae (G.H. Otth) Shoemaker & P.M. LeClair SPECIES
 
 #### Status
 ACCEPTED

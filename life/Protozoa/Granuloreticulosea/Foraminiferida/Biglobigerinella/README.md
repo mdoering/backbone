@@ -1,5 +1,4 @@
-Biglobigerinella Lalicker, 1948 GENUS
-=======
+# Biglobigerinella Lalicker, 1948 GENUS
 
 #### Status
 ACCEPTED

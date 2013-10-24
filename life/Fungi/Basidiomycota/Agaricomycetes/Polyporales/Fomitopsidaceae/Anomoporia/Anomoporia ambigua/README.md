@@ -1,5 +1,4 @@
-Anomoporia ambigua A. David & Gilles, 1987 SPECIES
-=======
+# Anomoporia ambigua A. David & Gilles, 1987 SPECIES
 
 #### Status
 ACCEPTED

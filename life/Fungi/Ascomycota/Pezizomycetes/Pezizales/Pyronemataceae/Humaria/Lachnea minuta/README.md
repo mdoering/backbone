@@ -1,5 +1,4 @@
-Lachnea minuta Velen. SPECIES
-=======
+# Lachnea minuta Velen. SPECIES
 
 #### Status
 ACCEPTED

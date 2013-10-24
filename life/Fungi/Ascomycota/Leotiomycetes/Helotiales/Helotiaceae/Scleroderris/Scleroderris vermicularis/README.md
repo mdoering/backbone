@@ -1,5 +1,4 @@
-Scleroderris vermicularis (Ces.) Sacc. SPECIES
-=======
+# Scleroderris vermicularis (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

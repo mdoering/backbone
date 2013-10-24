@@ -1,17 +1,16 @@
-Puccinia durrieui Y. Ono, 1990 SPECIES
-=======
+# Puccinia commelinae-benghalensis J.Y. Zhuang, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycosystema 17(1): 95 (1998)
 
 #### Original name
-null
+Puccinia commelinae Holw., 1904
 
 ### Remarks
 null

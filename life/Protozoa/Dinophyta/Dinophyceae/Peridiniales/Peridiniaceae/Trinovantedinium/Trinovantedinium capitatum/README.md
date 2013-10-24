@@ -1,5 +1,4 @@
-Trinovantedinium capitatum Reid, 1977 SPECIES
-=======
+# Trinovantedinium capitatum Reid, 1977 SPECIES
 
 #### Status
 ACCEPTED

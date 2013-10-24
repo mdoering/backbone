@@ -1,5 +1,4 @@
-Stigmatomyces ambiguus Thaxt. SPECIES
-=======
+# Stigmatomyces ambiguus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

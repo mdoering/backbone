@@ -1,5 +1,4 @@
-Pholiota alachuana Murrill SPECIES
-=======
+# Pholiota alachuana Murrill SPECIES
 
 #### Status
 ACCEPTED

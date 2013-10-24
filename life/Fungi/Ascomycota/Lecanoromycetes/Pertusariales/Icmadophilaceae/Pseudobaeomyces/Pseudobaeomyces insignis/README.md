@@ -1,5 +1,4 @@
-Pseudobaeomyces insignis var. insignis VARIETY
-=======
+# Pseudobaeomyces insignis (Zahlbr.) M. Satô SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pseudobaeomyces insignis var. insignis
+Baeomyces insignis
 
 ### Remarks
 null

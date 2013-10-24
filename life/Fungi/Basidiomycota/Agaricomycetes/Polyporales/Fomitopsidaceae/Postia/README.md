@@ -1,5 +1,4 @@
-Postia E.M. Fries, 1874 GENUS
-=======
+# Postia E.M. Fries, 1874 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus piedmontensis Grand & A.H. Sm. SPECIES
-=======
+# Boletus piedmontensis Grand & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

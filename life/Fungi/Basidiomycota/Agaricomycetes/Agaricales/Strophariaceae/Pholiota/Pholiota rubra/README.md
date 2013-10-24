@@ -1,5 +1,4 @@
-Pholiota rubra Bi & Loh SPECIES
-=======
+# Pholiota rubra Bi & Loh SPECIES
 
 #### Status
 ACCEPTED

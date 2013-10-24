@@ -1,5 +1,4 @@
-Lycoperdon hydrophorum (Bull.) Sowerby SPECIES
-=======
+# Lycoperdon hydrophorum (Bull.) Sowerby SPECIES
 
 #### Status
 ACCEPTED

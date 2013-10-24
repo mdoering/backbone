@@ -1,14 +1,13 @@
-Thelotrema erumpens H. Magn. SPECIES
-=======
+# Ocellularia erumpens (H. Magn.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ark. Bot. , Ser. 2 3: 279 (1955)
+Mycotaxon 11(1): 136 (1980)
 
 #### Original name
 Thelotrema erumpens H. Magn.

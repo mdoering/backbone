@@ -1,5 +1,4 @@
-Encoelia carpini (Rehm) Boud. SPECIES
-=======
+# Encoelia carpini (Rehm) Boud. SPECIES
 
 #### Status
 ACCEPTED

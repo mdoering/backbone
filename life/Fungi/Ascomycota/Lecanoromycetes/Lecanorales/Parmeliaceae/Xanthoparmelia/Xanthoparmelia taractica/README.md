@@ -1,17 +1,16 @@
-Parmelia taractica var. taractica VARIETY
-=======
+# Xanthoparmelia taractica (Kremp.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 61: 439 (1878)
+Phytologia 28: 489 (1974)
 
 #### Original name
-Parmelia taractica var. taractica
+Parmelia taractica Kremp.
 
 ### Remarks
 null

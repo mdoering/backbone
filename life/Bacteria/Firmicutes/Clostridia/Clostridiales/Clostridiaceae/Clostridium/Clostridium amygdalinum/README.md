@@ -1,5 +1,4 @@
-Clostridium amygdalinum Parshina et al., 2003 SPECIES
-=======
+# Clostridium amygdalinum Parshina et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

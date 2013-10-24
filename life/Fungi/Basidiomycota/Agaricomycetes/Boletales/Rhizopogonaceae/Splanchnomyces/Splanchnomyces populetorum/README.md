@@ -1,5 +1,4 @@
-Splanchnomyces populetorum Corda SPECIES
-=======
+# Splanchnomyces populetorum Corda SPECIES
 
 #### Status
 ACCEPTED

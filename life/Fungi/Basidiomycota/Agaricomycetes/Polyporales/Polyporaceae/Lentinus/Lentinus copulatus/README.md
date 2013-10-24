@@ -1,17 +1,16 @@
-Panus subflabellatus Henn., 1897 SPECIES
-=======
+# Lentinus copulatus (Ehrenb.) Henn., 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 36: 206 (1897)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1**: 224 (1898)
 
 #### Original name
-Panus subflabellatus Henn., 1897
+Agaricus copulatus Ehrenb., 1820
 
 ### Remarks
 null

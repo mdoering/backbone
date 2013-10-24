@@ -1,17 +1,16 @@
-Macropyrenium pertusaroides Hampe ex A. Massal. SPECIES
-=======
+# Macropyrenium pertusarioides Hampe ex A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 329 (1860)
 
 #### Original name
-Macropyrenium pertusaroides Hampe ex A. Massal.
+Macropyrenium pertusarioides Hampe ex A. Massal.
 
 ### Remarks
 null

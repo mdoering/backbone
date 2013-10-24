@@ -1,5 +1,4 @@
-Eutypella ravenelii Rehm SPECIES
-=======
+# Eutypella ravenelii Rehm SPECIES
 
 #### Status
 ACCEPTED

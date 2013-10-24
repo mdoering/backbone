@@ -1,5 +1,4 @@
-Sculptolumina Marbach GENUS
-=======
+# Sculptolumina Marbach GENUS
 
 #### Status
 ACCEPTED

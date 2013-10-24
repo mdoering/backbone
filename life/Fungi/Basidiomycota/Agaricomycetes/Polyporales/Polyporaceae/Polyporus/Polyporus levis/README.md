@@ -1,5 +1,4 @@
-Polyporus levis Pers. SPECIES
-=======
+# Polyporus levis Pers. SPECIES
 
 #### Status
 ACCEPTED

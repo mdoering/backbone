@@ -1,14 +1,13 @@
-Phragmidium gedeanum (Racib.) Sacc. & Trotter, 1912 SPECIES
-=======
+# Hamaspora gedeana Racib., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 728 (1912)
+Bull. int. Acad. Sci. Lett. Cracovie, Cl. sci. math. nat. Sér. B, sci. nat. 275 (1907)
 
 #### Original name
 Hamaspora gedeana Racib., 1907

@@ -1,5 +1,4 @@
-Clitopilus rhodotrama Singer SPECIES
-=======
+# Clitopilus rhodotrama Singer SPECIES
 
 #### Status
 ACCEPTED

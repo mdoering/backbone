@@ -1,14 +1,13 @@
-Myxotrichum ochraceum var. stipitatum (Lindf.) Apinis, 1964 VARIETY
-=======
+# Myxotrichum stipitatum (Lindf.) G.F. Orr & Kuehn, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 96: 17 (1964)
+Can. J. Bot. 41: 1471-1472 (1963)
 
 #### Original name
 Gymnoascus stipitatus Lindf., 1920

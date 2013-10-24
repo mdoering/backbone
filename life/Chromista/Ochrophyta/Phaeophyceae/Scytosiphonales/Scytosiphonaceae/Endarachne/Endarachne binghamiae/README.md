@@ -1,8 +1,7 @@
-Petalonia binghamiae (J. Agardh) K.L. Vinogradova SPECIES
-=======
+# Endarachne binghamiae J. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

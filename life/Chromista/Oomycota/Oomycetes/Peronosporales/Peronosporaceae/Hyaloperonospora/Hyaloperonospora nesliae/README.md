@@ -1,14 +1,13 @@
-Peronospora parasitica subsp. nesleae (Gäum.) Maire SUBSPECIES
-=======
+# Hyaloperonospora nesliae (Gäum.) Göker, Riethm., Voglmayr, Weiss & Oberw., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Sci. Nat. Maroc. 45: 14 (1937)
+Mycol. Progr. 3(2): 89 (2004)
 
 #### Original name
 Peronospora nesleae Gäum., 1918

@@ -1,5 +1,4 @@
-Fomitiporia sanctichampagnatii G. Coelho, R.M. Silveira & Rajchenb. SPECIES
-=======
+# Fomitiporia sanctichampagnatii G. Coelho, R.M. Silveira & Rajchenb. SPECIES
 
 #### Status
 ACCEPTED

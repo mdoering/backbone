@@ -1,14 +1,13 @@
-Phoma stictica Berk. & Broome, 1850 SPECIES
-=======
+# Phomopsis stictica (Berk. & Broome) Traverso, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 5: 370 (1850)
+Fl. ital. crypt. 2(1): 276 (1906)
 
 #### Original name
 Phoma stictica Berk. & Broome, 1850

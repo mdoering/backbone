@@ -1,5 +1,4 @@
-Eustilbum baeomycioides (Trevis.) Arnold SPECIES
-=======
+# Eustilbum baeomycioides (Trevis.) Arnold SPECIES
 
 #### Status
 ACCEPTED

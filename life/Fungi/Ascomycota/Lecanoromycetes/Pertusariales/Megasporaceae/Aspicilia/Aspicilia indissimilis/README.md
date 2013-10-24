@@ -1,5 +1,4 @@
-Aspicilia indissimilis (H. Magn.) Räsänen SPECIES
-=======
+# Aspicilia indissimilis (H. Magn.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

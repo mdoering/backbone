@@ -1,5 +1,4 @@
-Piriformospora indica Sav. Verma, Aj. Varma, Rexer, G. Kost & P. Franken, 1998 SPECIES
-=======
+# Piriformospora indica Sav. Verma, Aj. Varma, Rexer, G. Kost & P. Franken, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tauridia de Civrieux & Dessauvagie, 1965 GENUS
-=======
+# Tauridia de Civrieux & Dessauvagie, 1965 GENUS
 
 #### Status
 ACCEPTED

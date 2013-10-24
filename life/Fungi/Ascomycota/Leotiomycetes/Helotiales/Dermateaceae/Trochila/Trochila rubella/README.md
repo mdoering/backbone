@@ -1,5 +1,4 @@
-Trochila rubella G. Winter SPECIES
-=======
+# Trochila rubella G. Winter SPECIES
 
 #### Status
 ACCEPTED

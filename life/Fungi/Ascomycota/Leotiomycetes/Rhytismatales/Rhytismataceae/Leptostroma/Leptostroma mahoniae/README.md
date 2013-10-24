@@ -1,5 +1,4 @@
-Leptostroma mahoniae Gonz. Frag. SPECIES
-=======
+# Leptostroma mahoniae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

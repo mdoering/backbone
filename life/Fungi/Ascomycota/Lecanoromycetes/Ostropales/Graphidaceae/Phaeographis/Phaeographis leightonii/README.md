@@ -1,5 +1,4 @@
-Phaeographis leightonii Patw. & C.R. Kulk. SPECIES
-=======
+# Phaeographis leightonii Patw. & C.R. Kulk. SPECIES
 
 #### Status
 ACCEPTED

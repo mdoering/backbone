@@ -1,5 +1,4 @@
-Isaria intricata Fr., 1832 SPECIES
-=======
+# Isaria intricata Fr., 1832 SPECIES
 
 #### Status
 ACCEPTED

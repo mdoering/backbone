@@ -1,5 +1,4 @@
-Schizothyrium australe Speg. SPECIES
-=======
+# Schizothyrium australe Speg. SPECIES
 
 #### Status
 ACCEPTED

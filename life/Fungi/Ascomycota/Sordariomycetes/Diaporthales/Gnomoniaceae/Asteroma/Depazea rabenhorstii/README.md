@@ -1,5 +1,4 @@
-Depazea rabenhorstii Geinitz SPECIES
-=======
+# Depazea rabenhorstii Geinitz SPECIES
 
 #### Status
 ACCEPTED

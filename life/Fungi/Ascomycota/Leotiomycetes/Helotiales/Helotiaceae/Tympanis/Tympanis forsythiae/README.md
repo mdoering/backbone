@@ -1,5 +1,4 @@
-Tympanis forsythiae J.W. Groves SPECIES
-=======
+# Tympanis forsythiae J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

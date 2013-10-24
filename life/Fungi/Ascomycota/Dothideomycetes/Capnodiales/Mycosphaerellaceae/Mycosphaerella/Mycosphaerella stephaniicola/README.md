@@ -1,5 +1,4 @@
-Mycosphaerella stephaniicola Sawada SPECIES
-=======
+# Mycosphaerella stephaniicola Sawada SPECIES
 
 #### Status
 ACCEPTED

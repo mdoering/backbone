@@ -1,5 +1,4 @@
-Cantharellus muscorum (Roth) Fr. SPECIES
-=======
+# Cantharellus muscorum (Roth) Fr. SPECIES
 
 #### Status
 ACCEPTED

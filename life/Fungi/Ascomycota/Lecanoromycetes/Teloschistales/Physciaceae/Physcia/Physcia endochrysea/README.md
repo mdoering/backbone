@@ -1,5 +1,4 @@
-Physcia endochrysea (Nyl.) Hampe SPECIES
-=======
+# Physcia endochrysea (Nyl.) Hampe SPECIES
 
 #### Status
 ACCEPTED

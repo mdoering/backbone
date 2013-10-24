@@ -1,5 +1,4 @@
-Vorticella cucullus (Fromentel, 1876) Kahl, 1932 SPECIES
-=======
+# Vorticella cucullus (Fromentel, 1876) Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

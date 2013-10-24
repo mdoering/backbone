@@ -1,5 +1,4 @@
-Macmillanina noveboracensis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Macmillanina noveboracensis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hypoxylon commutatum subsp. commutatum Nitschke SUBSPECIES
-=======
+# Hypoxylon commutatum Nitschke, 1867 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Pyrenomycetes Germanici 33 (1867)
 
 #### Original name
-Hypoxylon commutatum subsp. commutatum Nitschke
+Hypoxylon commutatum Nitschke, 1867
 
 ### Remarks
 null

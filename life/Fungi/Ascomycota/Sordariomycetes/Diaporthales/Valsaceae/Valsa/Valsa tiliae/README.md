@@ -1,5 +1,4 @@
-Valsa tiliae (Pers.) SPECIES
-=======
+# Valsa tiliae (Pers.) SPECIES
 
 #### Status
 ACCEPTED

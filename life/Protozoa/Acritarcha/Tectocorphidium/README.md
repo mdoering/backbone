@@ -1,5 +1,4 @@
-Tectocorphidium Jiabo, 1978 GENUS
-=======
+# Tectocorphidium Jiabo, 1978 GENUS
 
 #### Status
 ACCEPTED

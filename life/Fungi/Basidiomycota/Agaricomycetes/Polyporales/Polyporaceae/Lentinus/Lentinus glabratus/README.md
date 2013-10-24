@@ -1,14 +1,13 @@
-Pocillaria glabrata (Mont.) Kuntze, 1891 SPECIES
-=======
+# Lentinus glabratus Mont., 1842 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+in Sagra, Historia física, polirica y nayturál de la islea de Cuba 9: 424 (1842)
 
 #### Original name
 Lentinus glabratus Mont., 1842

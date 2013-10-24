@@ -1,5 +1,4 @@
-Niptera hypogaea (Bres.) Sacc. SPECIES
-=======
+# Niptera hypogaea (Bres.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

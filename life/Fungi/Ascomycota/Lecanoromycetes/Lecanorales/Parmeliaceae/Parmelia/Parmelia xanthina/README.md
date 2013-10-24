@@ -1,5 +1,4 @@
-Parmelia xanthina f. xanthina FORM
-=======
+# Parmelia xanthina (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia xanthina f. xanthina
+Parmelia proboscidea var. xanthina Müll. Arg.
 
 ### Remarks
 null

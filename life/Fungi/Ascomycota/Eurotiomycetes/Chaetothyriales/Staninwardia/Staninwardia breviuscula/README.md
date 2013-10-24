@@ -1,5 +1,4 @@
-Staninwardia breviuscula B. Sutton, 1971 SPECIES
-=======
+# Staninwardia breviuscula B. Sutton, 1971 SPECIES
 
 #### Status
 ACCEPTED

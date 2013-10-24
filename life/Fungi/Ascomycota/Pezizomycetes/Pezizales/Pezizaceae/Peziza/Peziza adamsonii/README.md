@@ -1,5 +1,4 @@
-Peziza adamsonii Berk. SPECIES
-=======
+# Peziza adamsonii Berk. SPECIES
 
 #### Status
 ACCEPTED

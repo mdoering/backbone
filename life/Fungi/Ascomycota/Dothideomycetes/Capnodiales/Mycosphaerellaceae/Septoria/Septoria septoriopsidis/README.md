@@ -1,5 +1,4 @@
-Septoria septoriopsidis Dearn. & Overh. SPECIES
-=======
+# Septoria septoriopsidis Dearn. & Overh. SPECIES
 
 #### Status
 ACCEPTED

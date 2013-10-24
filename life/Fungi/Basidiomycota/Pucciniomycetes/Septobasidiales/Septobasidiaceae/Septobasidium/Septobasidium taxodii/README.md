@@ -1,5 +1,4 @@
-Septobasidium taxodii Couch SPECIES
-=======
+# Septobasidium taxodii Couch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pythium laterale Pringsh. SPECIES
-=======
+# Pythium laterale Pringsh. SPECIES
 
 #### Status
 ACCEPTED

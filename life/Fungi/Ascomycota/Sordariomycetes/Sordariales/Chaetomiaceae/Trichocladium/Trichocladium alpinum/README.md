@@ -1,5 +1,4 @@
-Trichocladium alpinum Kiffer SPECIES
-=======
+# Trichocladium alpinum Kiffer SPECIES
 
 #### Status
 ACCEPTED

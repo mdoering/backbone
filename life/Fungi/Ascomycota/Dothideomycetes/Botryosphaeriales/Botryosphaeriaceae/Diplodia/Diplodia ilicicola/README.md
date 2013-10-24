@@ -1,17 +1,16 @@
-Metadiplodia ilicicola f. ilicicola FORM
-=======
+# Diplodia ilicicola Desm., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 2 10: 311 (1838)
 
 #### Original name
-Metadiplodia ilicicola f. ilicicola
+Diplodia ilicicola Desm., 1838
 
 ### Remarks
 null

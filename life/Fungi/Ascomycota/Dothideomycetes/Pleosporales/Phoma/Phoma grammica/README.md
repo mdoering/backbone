@@ -1,5 +1,4 @@
-Phoma grammica Moug. SPECIES
-=======
+# Phoma grammica Moug. SPECIES
 
 #### Status
 ACCEPTED

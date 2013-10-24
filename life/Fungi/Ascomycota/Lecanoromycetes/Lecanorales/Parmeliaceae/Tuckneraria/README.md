@@ -1,5 +1,4 @@
-Tuckneraria Randlane & A. Thell GENUS
-=======
+# Tuckneraria Randlane & A. Thell GENUS
 
 #### Status
 ACCEPTED

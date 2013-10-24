@@ -1,5 +1,4 @@
-Flavoparmelia Hale, 1986 GENUS
-=======
+# Flavoparmelia Hale, 1986 GENUS
 
 #### Status
 ACCEPTED

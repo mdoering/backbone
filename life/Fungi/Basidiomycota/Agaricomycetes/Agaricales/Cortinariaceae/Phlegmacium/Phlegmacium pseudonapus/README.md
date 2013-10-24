@@ -1,5 +1,4 @@
-Phlegmacium pseudonapus Rob. Henry ex M.M. Moser SPECIES
-=======
+# Phlegmacium pseudonapus Rob. Henry ex M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

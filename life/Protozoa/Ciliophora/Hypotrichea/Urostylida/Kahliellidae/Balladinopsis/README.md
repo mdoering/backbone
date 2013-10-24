@@ -1,5 +1,4 @@
-Balladinopsis Ghosh, 1921 GENUS
-=======
+# Balladinopsis Ghosh, 1921 GENUS
 
 #### Status
 ACCEPTED

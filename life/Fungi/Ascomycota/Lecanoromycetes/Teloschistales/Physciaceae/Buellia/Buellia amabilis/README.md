@@ -1,5 +1,4 @@
-Buellia amabilis B. de Lesd. SPECIES
-=======
+# Buellia amabilis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Licea microscopica D.W. Mitch., 1978 SPECIES
-=======
+# Licea microscopica D.W. Mitch., 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodochium pirozynskii M.B. Ellis, 1967 SPECIES
-=======
+# Trichodochium pirozynskii M.B. Ellis, 1967 SPECIES
 
 #### Status
 ACCEPTED

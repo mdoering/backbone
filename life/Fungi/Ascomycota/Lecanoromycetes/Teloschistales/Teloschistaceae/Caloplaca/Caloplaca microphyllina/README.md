@@ -1,5 +1,4 @@
-Caloplaca microphyllina (Tuck.) Hasse SPECIES
-=======
+# Caloplaca microphyllina (Tuck.) Hasse SPECIES
 
 #### Status
 ACCEPTED

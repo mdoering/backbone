@@ -1,5 +1,4 @@
-Peziza quelepidotia Korf & O'Donnell SPECIES
-=======
+# Peziza quelepidotia Korf & O'Donnell SPECIES
 
 #### Status
 ACCEPTED

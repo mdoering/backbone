@@ -1,5 +1,4 @@
-Rhizocarpon subocellatum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Rhizocarpon subocellatum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

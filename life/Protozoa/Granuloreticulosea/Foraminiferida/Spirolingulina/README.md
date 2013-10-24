@@ -1,5 +1,4 @@
-Spirolingulina de Civrieux & Dessauvagie, 1965 GENUS
-=======
+# Spirolingulina de Civrieux & Dessauvagie, 1965 GENUS
 
 #### Status
 ACCEPTED

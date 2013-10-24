@@ -1,5 +1,4 @@
-Beltraniella amoena R.F. Castañeda, Cano & Guarro, 1996 SPECIES
-=======
+# Beltraniella amoena R.F. Castañeda, Cano & Guarro, 1996 SPECIES
 
 #### Status
 ACCEPTED

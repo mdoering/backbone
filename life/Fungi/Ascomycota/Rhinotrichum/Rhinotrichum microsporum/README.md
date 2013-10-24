@@ -1,5 +1,4 @@
-Rhinotrichum microsporum Berk. SPECIES
-=======
+# Rhinotrichum microsporum Berk. SPECIES
 
 #### Status
 ACCEPTED

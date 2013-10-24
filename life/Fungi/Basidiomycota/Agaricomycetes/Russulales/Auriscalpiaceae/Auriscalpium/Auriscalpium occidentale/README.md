@@ -1,5 +1,4 @@
-Auriscalpium occidentale (Paulet) P. Karst. SPECIES
-=======
+# Auriscalpium occidentale (Paulet) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

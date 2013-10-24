@@ -1,5 +1,4 @@
-Anaerolineaceae FAMILY
-=======
+# Anaerolineaceae FAMILY
 
 #### Status
 ACCEPTED

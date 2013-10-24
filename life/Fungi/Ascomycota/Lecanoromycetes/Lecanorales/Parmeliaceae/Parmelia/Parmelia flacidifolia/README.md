@@ -1,5 +1,4 @@
-Parmelia flacidifolia Kurok. SPECIES
-=======
+# Parmelia flacidifolia Kurok. SPECIES
 
 #### Status
 ACCEPTED

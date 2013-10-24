@@ -1,5 +1,4 @@
-Thelotrema crespoae Mangold, Elix & Lumbsch SPECIES
-=======
+# Thelotrema crespoae Mangold, Elix & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

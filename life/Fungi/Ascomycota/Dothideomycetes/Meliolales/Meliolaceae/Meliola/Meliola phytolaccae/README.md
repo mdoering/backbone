@@ -1,5 +1,4 @@
-Meliola phytolaccae var. phytolaccae Hansf. & F. Stevens VARIETY
-=======
+# Meliola phytolaccae Hansf. & F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Linn. Soc. , Bot. 51: 279 (1937)
 
 #### Original name
-Meliola phytolaccae var. phytolaccae Hansf. & F. Stevens
+Meliola phytolaccae Hansf. & F. Stevens
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thelephora leucoloma Pers. SPECIES
-=======
+# Thelephora leucoloma Pers. SPECIES
 
 #### Status
 ACCEPTED

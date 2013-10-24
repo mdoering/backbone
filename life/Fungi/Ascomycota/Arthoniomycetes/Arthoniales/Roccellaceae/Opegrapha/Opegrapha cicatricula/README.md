@@ -1,5 +1,4 @@
-Opegrapha cicatricula Chevall. SPECIES
-=======
+# Opegrapha cicatricula Chevall. SPECIES
 
 #### Status
 ACCEPTED

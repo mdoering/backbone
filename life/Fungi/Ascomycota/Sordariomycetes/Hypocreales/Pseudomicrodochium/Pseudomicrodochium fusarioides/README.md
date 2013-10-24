@@ -1,5 +1,4 @@
-Pseudomicrodochium fusarioides B. Sutton & C.K. Campb. SPECIES
-=======
+# Pseudomicrodochium fusarioides B. Sutton & C.K. Campb. SPECIES
 
 #### Status
 ACCEPTED

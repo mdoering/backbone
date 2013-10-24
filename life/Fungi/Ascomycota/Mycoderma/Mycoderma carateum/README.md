@@ -1,5 +1,4 @@
-Mycoderma carateum (Brumpt) Vuill. SPECIES
-=======
+# Mycoderma carateum (Brumpt) Vuill. SPECIES
 
 #### Status
 ACCEPTED

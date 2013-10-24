@@ -1,5 +1,4 @@
-Entoloma burkillii Massee SPECIES
-=======
+# Entoloma burkillii Massee SPECIES
 
 #### Status
 ACCEPTED

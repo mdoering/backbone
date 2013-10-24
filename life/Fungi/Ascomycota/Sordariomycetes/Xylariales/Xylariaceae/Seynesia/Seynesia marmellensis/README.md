@@ -1,5 +1,4 @@
-Seynesia marmellensis Henn. SPECIES
-=======
+# Seynesia marmellensis Henn. SPECIES
 
 #### Status
 ACCEPTED

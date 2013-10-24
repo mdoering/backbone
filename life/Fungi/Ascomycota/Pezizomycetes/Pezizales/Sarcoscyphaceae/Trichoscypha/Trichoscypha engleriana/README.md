@@ -1,5 +1,4 @@
-Trichoscypha engleriana Henn. SPECIES
-=======
+# Trichoscypha engleriana Henn. SPECIES
 
 #### Status
 ACCEPTED

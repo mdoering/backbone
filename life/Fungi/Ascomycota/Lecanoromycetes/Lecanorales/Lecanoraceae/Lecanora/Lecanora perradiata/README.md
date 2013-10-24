@@ -1,5 +1,4 @@
-Lecanora perradiata var. perradiata VARIETY
-=======
+# Lecanora perradiata Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 67: 213 (1884)
 
 #### Original name
-Lecanora perradiata var. perradiata
+Lecanora perradiata Nyl.
 
 ### Remarks
 null

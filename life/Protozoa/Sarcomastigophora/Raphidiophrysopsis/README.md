@@ -1,5 +1,4 @@
-Raphidiophrysopsis Valkanov, 1970 GENUS
-=======
+# Raphidiophrysopsis Valkanov, 1970 GENUS
 
 #### Status
 ACCEPTED

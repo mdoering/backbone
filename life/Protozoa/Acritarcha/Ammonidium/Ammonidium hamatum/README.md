@@ -1,5 +1,4 @@
-Ammonidium hamatum Wicander, 1974 SPECIES
-=======
+# Ammonidium hamatum Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

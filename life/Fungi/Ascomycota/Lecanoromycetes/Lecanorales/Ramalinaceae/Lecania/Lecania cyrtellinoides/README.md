@@ -1,5 +1,4 @@
-Lecania cyrtellinoides (M. Choisy) Zahlbr. SPECIES
-=======
+# Lecania cyrtellinoides (M. Choisy) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

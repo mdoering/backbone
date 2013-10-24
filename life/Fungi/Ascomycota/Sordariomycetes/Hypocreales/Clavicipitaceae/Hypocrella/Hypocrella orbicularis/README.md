@@ -1,5 +1,4 @@
-Hypocrella orbicularis Syd. SPECIES
-=======
+# Hypocrella orbicularis Syd. SPECIES
 
 #### Status
 ACCEPTED

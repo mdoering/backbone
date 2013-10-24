@@ -1,5 +1,4 @@
-Cortinarius laniatus Rob. Henry SPECIES
-=======
+# Cortinarius laniatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

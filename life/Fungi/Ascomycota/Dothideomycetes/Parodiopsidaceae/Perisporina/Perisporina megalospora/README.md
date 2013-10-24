@@ -1,5 +1,4 @@
-Perisporina megalospora (Rehm) Speg. SPECIES
-=======
+# Perisporina megalospora (Rehm) Speg. SPECIES
 
 #### Status
 ACCEPTED

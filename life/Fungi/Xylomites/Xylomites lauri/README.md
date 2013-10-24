@@ -1,5 +1,4 @@
-Xylomites lauri Ettingsh. SPECIES
-=======
+# Xylomites lauri Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

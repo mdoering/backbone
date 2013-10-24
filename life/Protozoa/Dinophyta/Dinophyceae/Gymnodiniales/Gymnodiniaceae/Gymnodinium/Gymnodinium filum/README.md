@@ -1,5 +1,4 @@
-Gymnodinium filum Lebour SPECIES
-=======
+# Gymnodinium filum Lebour SPECIES
 
 #### Status
 ACCEPTED

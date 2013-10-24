@@ -1,5 +1,4 @@
-Cortinarius luteoalbus (Singer) Singer SPECIES
-=======
+# Cortinarius luteoalbus (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

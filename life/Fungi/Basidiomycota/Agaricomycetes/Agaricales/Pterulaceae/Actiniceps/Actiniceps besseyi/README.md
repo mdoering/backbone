@@ -1,5 +1,4 @@
-Actiniceps besseyi MacMill. SPECIES
-=======
+# Actiniceps besseyi MacMill. SPECIES
 
 #### Status
 ACCEPTED

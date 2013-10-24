@@ -1,14 +1,13 @@
-Annularia mammillata Longyear, 1902 SPECIES
-=======
+# Pluteus mammillatus (Longyear) Minnis, Sundb. & Methven, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Report Mich. Acad. Sci. 3: 59 (1902)
+in Minnis, Sundberg, Methven, Sipes & Nickrent, Mycotaxon 96: 34 (2006)
 
 #### Original name
 Annularia mammillata Longyear, 1902

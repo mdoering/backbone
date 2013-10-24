@@ -1,5 +1,4 @@
-Mycena maculata P. Karst., 1890 SPECIES
-=======
+# Mycena maculata P. Karst., 1890 SPECIES
 
 #### Status
 ACCEPTED

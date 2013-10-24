@@ -1,5 +1,4 @@
-Agaricus subalpinus Britzelm. SPECIES
-=======
+# Agaricus subalpinus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

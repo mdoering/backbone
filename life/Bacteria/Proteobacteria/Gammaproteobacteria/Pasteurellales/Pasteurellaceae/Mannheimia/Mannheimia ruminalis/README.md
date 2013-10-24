@@ -1,5 +1,4 @@
-Mannheimia ruminalis Angen et al., 1999 SPECIES
-=======
+# Mannheimia ruminalis Angen et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

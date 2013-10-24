@@ -1,5 +1,4 @@
-Polyporus pseudoigniarius (Bull.) Chevall. SPECIES
-=======
+# Polyporus pseudoigniarius (Bull.) Chevall. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Geoglossum nigritum var. nigritum (Fr.) Cooke VARIETY
-=======
+# Geoglossum nigritum (Fr.) Cooke, 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycographia seu Icones Fungorum (London), Vol. <b>1</b>. Discomycetes 205 (1879)
 
 #### Original name
-Geoglossum nigritum var. nigritum (Fr.) Cooke
+null
 
 ### Remarks
 null

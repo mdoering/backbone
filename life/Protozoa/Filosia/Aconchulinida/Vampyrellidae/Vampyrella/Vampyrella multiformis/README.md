@@ -1,5 +1,4 @@
-Vampyrella multiformis Zopf SPECIES
-=======
+# Vampyrella multiformis Zopf SPECIES
 
 #### Status
 ACCEPTED

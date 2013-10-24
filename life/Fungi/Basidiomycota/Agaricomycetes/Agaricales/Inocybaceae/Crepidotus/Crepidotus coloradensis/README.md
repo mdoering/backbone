@@ -1,5 +1,4 @@
-Crepidotus coloradensis Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus coloradensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

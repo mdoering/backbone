@@ -1,5 +1,4 @@
-Lecanora sierrae B. D. Ryan & T. H. Nash SPECIES
-=======
+# Lecanora sierrae B. D. Ryan & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

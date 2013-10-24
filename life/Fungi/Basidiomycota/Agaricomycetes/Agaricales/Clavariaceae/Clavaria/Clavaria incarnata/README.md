@@ -1,5 +1,4 @@
-Clavaria incarnata Weinm., 1836 SPECIES
-=======
+# Clavaria incarnata Weinm., 1836 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyrium moravicum Petr. SPECIES
-=======
+# Microthyrium moravicum Petr. SPECIES
 
 #### Status
 ACCEPTED

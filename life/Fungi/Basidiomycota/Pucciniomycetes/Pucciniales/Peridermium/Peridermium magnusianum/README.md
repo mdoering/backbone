@@ -1,5 +1,4 @@
-Peridermium magnusianum E. Fisch. SPECIES
-=======
+# Peridermium magnusianum E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium touaregense Deunff in Deunff et al., 1961 SPECIES
-=======
+# Baltisphaeridium touaregense Deunff in Deunff et al., 1961 SPECIES
 
 #### Status
 ACCEPTED

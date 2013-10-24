@@ -1,5 +1,4 @@
-Septoria proteae Ciccar., 1951 SPECIES
-=======
+# Septoria proteae Ciccar., 1951 SPECIES
 
 #### Status
 ACCEPTED

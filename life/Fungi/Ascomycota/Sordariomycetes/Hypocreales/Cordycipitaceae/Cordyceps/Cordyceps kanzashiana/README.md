@@ -1,5 +1,4 @@
-Cordyceps kanzashiana Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps kanzashiana Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerostilbe nitida Berk. & M.A. Curtis SPECIES
-=======
+# Sphaerostilbe nitida Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

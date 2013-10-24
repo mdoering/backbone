@@ -1,5 +1,4 @@
-Glomerella clemensiae Syd. SPECIES
-=======
+# Glomerella clemensiae Syd. SPECIES
 
 #### Status
 ACCEPTED

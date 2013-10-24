@@ -1,5 +1,4 @@
-Lecidea rhagadiella (Nyl.) Th. Fr. SPECIES
-=======
+# Lecidea rhagadiella (Nyl.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

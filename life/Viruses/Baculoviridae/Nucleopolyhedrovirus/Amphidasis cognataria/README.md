@@ -1,5 +1,4 @@
-Amphidasis cognataria Npv SPECIES
-=======
+# Amphidasis cognataria Npv SPECIES
 
 #### Status
 ACCEPTED

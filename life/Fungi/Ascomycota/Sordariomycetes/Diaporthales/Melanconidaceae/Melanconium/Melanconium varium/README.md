@@ -1,5 +1,4 @@
-Melanconium varium Berk. & M.A. Curtis SPECIES
-=======
+# Melanconium varium Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

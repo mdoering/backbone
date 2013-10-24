@@ -1,5 +1,4 @@
-Umbilicaria esculenta (Miyoshi) Minks SPECIES
-=======
+# Umbilicaria esculenta (Miyoshi) Minks SPECIES
 
 #### Status
 ACCEPTED

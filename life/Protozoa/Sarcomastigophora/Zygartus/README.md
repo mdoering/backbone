@@ -1,5 +1,4 @@
-Zygartus Haeckel, 1881 GENUS
-=======
+# Zygartus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

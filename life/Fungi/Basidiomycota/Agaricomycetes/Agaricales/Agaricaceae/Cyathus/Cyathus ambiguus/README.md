@@ -1,5 +1,4 @@
-Cyathus ambiguus Tul. & C. Tul. SPECIES
-=======
+# Cyathus ambiguus Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

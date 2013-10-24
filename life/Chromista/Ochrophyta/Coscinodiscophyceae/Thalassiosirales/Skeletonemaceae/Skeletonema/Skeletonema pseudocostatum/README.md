@@ -1,5 +1,4 @@
-Skeletonema pseudocostatum L. K. Medlin SPECIES
-=======
+# Skeletonema pseudocostatum L. K. Medlin SPECIES
 
 #### Status
 ACCEPTED

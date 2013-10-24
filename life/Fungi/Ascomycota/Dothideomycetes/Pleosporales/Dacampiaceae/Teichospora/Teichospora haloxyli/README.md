@@ -1,5 +1,4 @@
-Teichospora haloxyli (Kravtzev) Koshk., Dzhur. & Frolov SPECIES
-=======
+# Teichospora haloxyli (Kravtzev) Koshk., Dzhur. & Frolov SPECIES
 
 #### Status
 ACCEPTED

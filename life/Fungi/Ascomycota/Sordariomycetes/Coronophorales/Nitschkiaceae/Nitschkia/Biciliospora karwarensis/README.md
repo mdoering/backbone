@@ -1,5 +1,4 @@
-Biciliospora karwarensis Subram. & Sekar SPECIES
-=======
+# Biciliospora karwarensis Subram. & Sekar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis ophiospora Pat. SPECIES
-=======
+# Micropeltis ophiospora Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius conditus Britzelm. SPECIES
-=======
+# Lactarius conditus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

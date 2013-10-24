@@ -1,5 +1,4 @@
-Endosphaerium funiculatum D'Eliscu, 1977 SPECIES
-=======
+# Endosphaerium funiculatum D'Eliscu, 1977 SPECIES
 
 #### Status
 ACCEPTED

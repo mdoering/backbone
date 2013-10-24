@@ -1,5 +1,4 @@
-Blastenia demangei (Hue) Zahlbr. SPECIES
-=======
+# Blastenia demangei (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

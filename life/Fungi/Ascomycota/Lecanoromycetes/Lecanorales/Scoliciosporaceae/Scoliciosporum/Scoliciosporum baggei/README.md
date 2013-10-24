@@ -1,5 +1,4 @@
-Scoliciosporum baggei Metzler SPECIES
-=======
+# Scoliciosporum baggei Metzler SPECIES
 
 #### Status
 ACCEPTED

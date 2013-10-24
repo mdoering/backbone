@@ -1,5 +1,4 @@
-Heterochaete nigerrima Viégas SPECIES
-=======
+# Heterochaete nigerrima Viégas SPECIES
 
 #### Status
 ACCEPTED

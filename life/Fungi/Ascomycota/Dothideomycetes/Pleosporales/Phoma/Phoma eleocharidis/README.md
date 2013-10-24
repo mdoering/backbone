@@ -1,8 +1,7 @@
-Phoma heleocharidis P. Karst. SPECIES
-=======
+# Phoma eleocharidis P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma heleocharidis P. Karst.
+Phoma eleocharidis P. Karst.
 
 ### Remarks
 null

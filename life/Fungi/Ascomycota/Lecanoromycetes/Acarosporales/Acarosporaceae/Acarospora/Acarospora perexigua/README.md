@@ -1,5 +1,4 @@
-Acarospora perexigua (Müll. Arg.) Hue SPECIES
-=======
+# Acarospora perexigua (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma melampyri P. Karst. SPECIES
-=======
+# Phoma melampyri P. Karst. SPECIES
 
 #### Status
 ACCEPTED

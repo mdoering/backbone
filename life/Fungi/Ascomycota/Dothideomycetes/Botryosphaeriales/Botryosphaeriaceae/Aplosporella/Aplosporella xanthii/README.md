@@ -1,5 +1,4 @@
-Aplosporella xanthii S. Ahmad SPECIES
-=======
+# Aplosporella xanthii S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

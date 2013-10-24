@@ -1,5 +1,4 @@
-Erynia phalangicida (Lagerh.) Remaud. & Hennebert SPECIES
-=======
+# Erynia phalangicida (Lagerh.) Remaud. & Hennebert SPECIES
 
 #### Status
 ACCEPTED

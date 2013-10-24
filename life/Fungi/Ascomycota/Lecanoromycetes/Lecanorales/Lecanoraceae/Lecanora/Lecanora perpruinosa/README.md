@@ -1,5 +1,4 @@
-Lecanora perpruinosa Fröberg SPECIES
-=======
+# Lecanora perpruinosa Fröberg SPECIES
 
 #### Status
 ACCEPTED

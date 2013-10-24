@@ -1,5 +1,4 @@
-Puccinia polygoni-alpini Cruchet & Mayor SPECIES
-=======
+# Puccinia polygoni-alpini Cruchet & Mayor SPECIES
 
 #### Status
 ACCEPTED

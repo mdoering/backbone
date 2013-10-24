@@ -1,5 +1,4 @@
-Helminthosporium nubigenum Speg. SPECIES
-=======
+# Helminthosporium nubigenum Speg. SPECIES
 
 #### Status
 ACCEPTED

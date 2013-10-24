@@ -1,5 +1,4 @@
-Pestalotia coryneoidea Harkn. SPECIES
-=======
+# Pestalotia coryneoidea Harkn. SPECIES
 
 #### Status
 ACCEPTED

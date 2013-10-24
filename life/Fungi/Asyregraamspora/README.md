@@ -1,5 +1,4 @@
-Asyregraamspora Locq. & Sal.-Cheb. GENUS
-=======
+# Asyregraamspora Locq. & Sal.-Cheb. GENUS
 
 #### Status
 ACCEPTED

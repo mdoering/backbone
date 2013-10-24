@@ -1,5 +1,4 @@
-Meliola dorsteniae Hosag. & T.K. Abraham SPECIES
-=======
+# Meliola dorsteniae Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anabaena confervoides Reinsch SPECIES
-=======
+# Anabaena confervoides Reinsch SPECIES
 
 #### Status
 ACCEPTED

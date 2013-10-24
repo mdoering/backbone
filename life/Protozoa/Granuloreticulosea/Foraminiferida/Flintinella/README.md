@@ -1,5 +1,4 @@
-Flintinella Didkovsky, 1960 GENUS
-=======
+# Flintinella Didkovsky, 1960 GENUS
 
 #### Status
 ACCEPTED

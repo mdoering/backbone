@@ -1,5 +1,4 @@
-Splanchnonema vaccinii M.E. Barr SPECIES
-=======
+# Splanchnonema vaccinii M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

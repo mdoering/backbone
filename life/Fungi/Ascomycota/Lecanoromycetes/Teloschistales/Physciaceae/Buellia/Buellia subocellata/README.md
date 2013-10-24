@@ -1,5 +1,4 @@
-Buellia subocellata (Nyl.) Lettau SPECIES
-=======
+# Buellia subocellata (Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

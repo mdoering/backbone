@@ -1,5 +1,4 @@
-Cladosporium compactum var. compactum VARIETY
-=======
+# Cladosporium compactum Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Michelia 2(no. 6): 127 (1881)
 
 #### Original name
-Cladosporium compactum var. compactum
+Cladosporium compactum Sacc.
 
 ### Remarks
 null

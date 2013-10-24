@@ -1,5 +1,4 @@
-Zygohansenula globosa Krassiln. SPECIES
-=======
+# Zygohansenula globosa Krassiln. SPECIES
 
 #### Status
 ACCEPTED

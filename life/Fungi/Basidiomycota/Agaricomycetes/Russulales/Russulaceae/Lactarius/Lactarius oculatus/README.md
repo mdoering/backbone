@@ -1,5 +1,4 @@
-Lactarius oculatus (Peck) Burl. SPECIES
-=======
+# Lactarius oculatus (Peck) Burl. SPECIES
 
 #### Status
 ACCEPTED

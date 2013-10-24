@@ -1,5 +1,4 @@
-Arthrobacter kerguelensis Gupta et al., 2004 SPECIES
-=======
+# Arthrobacter kerguelensis Gupta et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

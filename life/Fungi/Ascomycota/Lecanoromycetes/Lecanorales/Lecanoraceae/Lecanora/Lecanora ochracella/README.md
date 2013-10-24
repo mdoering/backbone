@@ -1,5 +1,4 @@
-Lecanora ochracella Nyl. SPECIES
-=======
+# Lecanora ochracella Nyl. SPECIES
 
 #### Status
 ACCEPTED

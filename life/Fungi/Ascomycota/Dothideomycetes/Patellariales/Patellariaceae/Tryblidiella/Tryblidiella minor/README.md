@@ -1,5 +1,4 @@
-Tryblidiella minor (Cooke) Sacc. SPECIES
-=======
+# Tryblidiella minor (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

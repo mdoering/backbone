@@ -1,5 +1,4 @@
-Diderma indicum K.S. Thind & H.S. Sehgal, 1964 SPECIES
-=======
+# Diderma indicum K.S. Thind & H.S. Sehgal, 1964 SPECIES
 
 #### Status
 ACCEPTED

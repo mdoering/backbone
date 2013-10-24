@@ -1,5 +1,4 @@
-Conchacineta complatana (Gruber, 1884) Curds, 1985 SPECIES
-=======
+# Conchacineta complatana (Gruber, 1884) Curds, 1985 SPECIES
 
 #### Status
 ACCEPTED

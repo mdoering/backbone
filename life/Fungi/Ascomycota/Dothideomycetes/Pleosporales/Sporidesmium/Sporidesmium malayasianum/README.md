@@ -1,5 +1,4 @@
-Sporidesmium malayasianum Subram. SPECIES
-=======
+# Sporidesmium malayasianum Subram. SPECIES
 
 #### Status
 ACCEPTED

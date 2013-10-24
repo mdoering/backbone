@@ -1,5 +1,4 @@
-Strasseria vincae M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Strasseria vincae M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

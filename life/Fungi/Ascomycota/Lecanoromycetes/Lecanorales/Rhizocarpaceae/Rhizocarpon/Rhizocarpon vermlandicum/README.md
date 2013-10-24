@@ -1,5 +1,4 @@
-Rhizocarpon vermlandicum Räsänen SPECIES
-=======
+# Rhizocarpon vermlandicum Räsänen SPECIES
 
 #### Status
 ACCEPTED

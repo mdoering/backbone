@@ -1,5 +1,4 @@
-Dematocladium celtidis SPECIES
-=======
+# Dematocladium celtidis SPECIES
 
 #### Status
 ACCEPTED

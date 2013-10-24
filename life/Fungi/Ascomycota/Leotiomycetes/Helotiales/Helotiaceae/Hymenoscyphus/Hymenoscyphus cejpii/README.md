@@ -1,5 +1,4 @@
-Hymenoscyphus cejpii (Velen.) Dennis SPECIES
-=======
+# Hymenoscyphus cejpii (Velen.) Dennis SPECIES
 
 #### Status
 ACCEPTED

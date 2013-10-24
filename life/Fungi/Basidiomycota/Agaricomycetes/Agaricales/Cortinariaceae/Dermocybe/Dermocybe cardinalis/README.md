@@ -1,5 +1,4 @@
-Dermocybe cardinalis E. Horak, 1988 SPECIES
-=======
+# Dermocybe cardinalis E. Horak, 1988 SPECIES
 
 #### Status
 ACCEPTED

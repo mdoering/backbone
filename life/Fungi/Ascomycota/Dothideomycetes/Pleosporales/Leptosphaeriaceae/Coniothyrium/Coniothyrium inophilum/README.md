@@ -1,5 +1,4 @@
-Coniothyrium inophilum (Berk.) Kuntze SPECIES
-=======
+# Coniothyrium inophilum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriotrichia occidentalis Børgesen SPECIES
-=======
+# Myriotrichia occidentalis Børgesen SPECIES
 
 #### Status
 ACCEPTED

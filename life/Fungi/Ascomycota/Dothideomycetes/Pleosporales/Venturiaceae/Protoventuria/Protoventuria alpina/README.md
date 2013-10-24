@@ -1,17 +1,16 @@
-Antennularia alpina var. alpina (Sacc.) E. Müll. VARIETY
-=======
+# Protoventuria alpina (Sacc.) M.E. Barr, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Muller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 436 (1962)
+Can. J. Bot. 49(11): 1960 (1971)
 
 #### Original name
-Antennularia alpina var. alpina (Sacc.) E. Müll.
+Venturia alpina Niessl, 1881
 
 ### Remarks
 null

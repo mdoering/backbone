@@ -1,5 +1,4 @@
-Pezizella orbiliformis Velen. SPECIES
-=======
+# Pezizella orbiliformis Velen. SPECIES
 
 #### Status
 ACCEPTED

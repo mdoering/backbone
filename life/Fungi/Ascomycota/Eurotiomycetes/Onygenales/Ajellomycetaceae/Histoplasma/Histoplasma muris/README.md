@@ -1,5 +1,4 @@
-Histoplasma muris (Shortt) Redaelli & Cif. SPECIES
-=======
+# Histoplasma muris (Shortt) Redaelli & Cif. SPECIES
 
 #### Status
 ACCEPTED

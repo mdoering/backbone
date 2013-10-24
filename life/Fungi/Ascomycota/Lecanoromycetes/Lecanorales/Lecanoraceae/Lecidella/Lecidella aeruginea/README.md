@@ -1,14 +1,13 @@
-Lecidea elaeochroma var. aeruginea (H.G. Falk) Th. Fr. VARIETY
-=======
+# Lecidella aeruginea (H.G. Falk) Knoph & Leuckert SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Progr. Probl. Lichenol. Nineties. Proc. Third Symp. Intern. Assoc. Lichenol. , <i>Biblthca Lichenol. </i> 68: 131 (1997)
 
 #### Original name
 Lecidea enteroleuca subsp. aeruginea H.G. Falk

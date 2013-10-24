@@ -1,5 +1,4 @@
-Ampulliferinites axelheibergi Kalgutkar & Sigler SPECIES
-=======
+# Ampulliferinites axelheibergi Kalgutkar & Sigler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma subvelata Sacc. SPECIES
-=======
+# Phoma subvelata Sacc. SPECIES
 
 #### Status
 ACCEPTED

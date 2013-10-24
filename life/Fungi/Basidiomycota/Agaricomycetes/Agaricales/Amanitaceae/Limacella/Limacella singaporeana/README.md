@@ -1,5 +1,4 @@
-Limacella singaporeana Corner SPECIES
-=======
+# Limacella singaporeana Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Bodinia violacea (Sabour. ex E. Bodin) M. Ota & Langeron, 1923 SPECIES
-=======
+# Trichophyton violaceum Sabour. ex E. Bodin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Parasit. hum. comp. 1: 329 (1923)
+Les Champignons parasites de l'homme et des animaux domestiques 113 (1902)
 
 #### Original name
 Trichophyton violaceum Sabour. ex E. Bodin

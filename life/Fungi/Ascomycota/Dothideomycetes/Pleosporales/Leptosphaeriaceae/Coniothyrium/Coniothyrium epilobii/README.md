@@ -1,5 +1,4 @@
-Coniothyrium epilobii Ferraris SPECIES
-=======
+# Coniothyrium epilobii Ferraris SPECIES
 
 #### Status
 ACCEPTED

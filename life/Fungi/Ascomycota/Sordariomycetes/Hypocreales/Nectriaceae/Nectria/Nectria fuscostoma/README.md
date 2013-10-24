@@ -1,5 +1,4 @@
-Nectria fuscostoma A.L. Sm. SPECIES
-=======
+# Nectria fuscostoma A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

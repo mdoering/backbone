@@ -1,5 +1,4 @@
-Cercostigmina heteromelis (Harkn.) U. Braun SPECIES
-=======
+# Cercostigmina heteromelis (Harkn.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria echino-olivacea R.H. Petersen, 1988 SPECIES
-=======
+# Clavaria echino-olivacea R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

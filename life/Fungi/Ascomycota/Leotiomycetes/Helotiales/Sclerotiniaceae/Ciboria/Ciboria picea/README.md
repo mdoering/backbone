@@ -1,5 +1,4 @@
-Ciboria picea Velen. SPECIES
-=======
+# Ciboria picea Velen. SPECIES
 
 #### Status
 ACCEPTED

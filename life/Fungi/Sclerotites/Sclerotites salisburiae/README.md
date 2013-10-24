@@ -1,5 +1,4 @@
-Sclerotites salisburiae A. Massal. SPECIES
-=======
+# Sclerotites salisburiae A. Massal. SPECIES
 
 #### Status
 ACCEPTED

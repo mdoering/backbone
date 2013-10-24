@@ -1,5 +1,4 @@
-Tyloligotriletum induratum Timofeev, 1959 SPECIES
-=======
+# Tyloligotriletum induratum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

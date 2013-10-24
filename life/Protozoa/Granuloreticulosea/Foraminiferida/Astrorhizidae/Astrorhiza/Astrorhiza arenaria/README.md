@@ -1,5 +1,4 @@
-Astrorhiza arenaria Carpenter in Norman, 1877 SPECIES
-=======
+# Astrorhiza arenaria Carpenter in Norman, 1877 SPECIES
 
 #### Status
 ACCEPTED

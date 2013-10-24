@@ -1,5 +1,4 @@
-Crepidotus yungicola Singer SPECIES
-=======
+# Crepidotus yungicola Singer SPECIES
 
 #### Status
 ACCEPTED

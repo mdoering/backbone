@@ -1,5 +1,4 @@
-Psilonia platani G.H. Otth SPECIES
-=======
+# Psilonia platani G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

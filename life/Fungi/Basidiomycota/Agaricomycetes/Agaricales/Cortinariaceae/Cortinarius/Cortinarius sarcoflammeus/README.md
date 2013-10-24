@@ -1,5 +1,4 @@
-Cortinarius sarcoflammeus Esteve-Rav., Gerw. Keller & A. Ortega SPECIES
-=======
+# Cortinarius sarcoflammeus Esteve-Rav., Gerw. Keller & A. Ortega SPECIES
 
 #### Status
 ACCEPTED

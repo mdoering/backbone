@@ -1,5 +1,4 @@
-Camarosporium cladrastidis Henn. SPECIES
-=======
+# Camarosporium cladrastidis Henn. SPECIES
 
 #### Status
 ACCEPTED

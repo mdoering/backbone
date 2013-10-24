@@ -1,5 +1,4 @@
-Cucullosporella K.D. Hyde & E.B.G. Jones GENUS
-=======
+# Cucullosporella K.D. Hyde & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

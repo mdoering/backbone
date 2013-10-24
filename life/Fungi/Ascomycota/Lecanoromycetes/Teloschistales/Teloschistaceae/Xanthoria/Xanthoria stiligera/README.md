@@ -1,5 +1,4 @@
-Xanthoria stiligera Giralt, Nimis & Poelt SPECIES
-=======
+# Xanthoria stiligera Giralt, Nimis & Poelt SPECIES
 
 #### Status
 ACCEPTED

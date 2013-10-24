@@ -1,5 +1,4 @@
-Phillipsiella ellisii M.E. Barr SPECIES
-=======
+# Phillipsiella ellisii M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

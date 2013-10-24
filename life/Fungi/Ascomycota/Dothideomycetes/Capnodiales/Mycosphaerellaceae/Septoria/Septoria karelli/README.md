@@ -1,5 +1,4 @@
-Septoria karelli Petr. SPECIES
-=======
+# Septoria karelli Petr. SPECIES
 
 #### Status
 ACCEPTED

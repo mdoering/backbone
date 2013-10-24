@@ -1,5 +1,4 @@
-Dothiorella calotropidis S. Ahmad SPECIES
-=======
+# Dothiorella calotropidis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

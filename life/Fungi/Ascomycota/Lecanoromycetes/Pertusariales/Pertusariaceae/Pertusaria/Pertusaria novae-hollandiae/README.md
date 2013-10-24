@@ -1,5 +1,4 @@
-Pertusaria novae-hollandiae A. W. Archer SPECIES
-=======
+# Pertusaria novae-hollandiae A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hyalothyridium virburnicolum Tassi SPECIES
-=======
+# Hyalothyridium viburnicola Tassi, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin Labor. Orto Bot. de R. Univ. Siena 3: (1900)
 
 #### Original name
-Hyalothyridium virburnicolum Tassi
+Hyalothyridium viburnicola Tassi, 1900
 
 ### Remarks
 null

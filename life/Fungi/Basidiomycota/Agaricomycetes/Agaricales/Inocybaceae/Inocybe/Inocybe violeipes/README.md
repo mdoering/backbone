@@ -1,5 +1,4 @@
-Inocybe violeipes E. Horak SPECIES
-=======
+# Inocybe violeipes E. Horak SPECIES
 
 #### Status
 ACCEPTED

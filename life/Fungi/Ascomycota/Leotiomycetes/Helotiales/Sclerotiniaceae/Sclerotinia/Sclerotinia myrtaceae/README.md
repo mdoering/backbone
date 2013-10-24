@@ -1,5 +1,4 @@
-Sclerotinia myrtaceae Rick SPECIES
-=======
+# Sclerotinia myrtaceae Rick SPECIES
 
 #### Status
 ACCEPTED

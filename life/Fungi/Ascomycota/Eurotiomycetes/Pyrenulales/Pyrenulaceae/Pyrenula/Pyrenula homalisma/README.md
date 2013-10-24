@@ -1,5 +1,4 @@
-Pyrenula homalisma (C. Knight) D.J. Galloway SPECIES
-=======
+# Pyrenula homalisma (C. Knight) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

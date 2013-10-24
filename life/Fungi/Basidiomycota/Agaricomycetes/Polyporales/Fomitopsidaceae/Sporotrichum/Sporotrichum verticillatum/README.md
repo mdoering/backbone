@@ -1,5 +1,4 @@
-Sporotrichum verticillatum Neophyt. SPECIES
-=======
+# Sporotrichum verticillatum Neophyt. SPECIES
 
 #### Status
 ACCEPTED

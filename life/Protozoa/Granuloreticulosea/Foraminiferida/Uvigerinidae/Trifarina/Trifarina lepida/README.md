@@ -1,8 +1,7 @@
-Angulogerina lepida (Brady, 1881) SPECIES
-=======
+# Trifarina lepida (Brady, 1881) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

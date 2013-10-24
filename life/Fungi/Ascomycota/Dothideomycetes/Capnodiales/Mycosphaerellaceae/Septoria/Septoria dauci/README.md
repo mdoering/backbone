@@ -1,5 +1,4 @@
-Septoria dauci Nicolas & Aggéry SPECIES
-=======
+# Septoria dauci Nicolas & Aggéry SPECIES
 
 #### Status
 ACCEPTED

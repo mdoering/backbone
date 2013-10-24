@@ -1,5 +1,4 @@
-Leotia platypoda (DC.) Fr. SPECIES
-=======
+# Leotia platypoda (DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

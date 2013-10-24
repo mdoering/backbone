@@ -1,5 +1,4 @@
-Ganoderma miniatocinctum Steyaert, 1967 SPECIES
-=======
+# Ganoderma miniatocinctum Steyaert, 1967 SPECIES
 
 #### Status
 ACCEPTED

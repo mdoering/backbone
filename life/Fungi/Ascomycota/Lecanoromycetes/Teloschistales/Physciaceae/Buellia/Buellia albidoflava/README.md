@@ -1,5 +1,4 @@
-Buellia albidoflava A.L. Sm. SPECIES
-=======
+# Buellia albidoflava A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

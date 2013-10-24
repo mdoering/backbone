@@ -1,17 +1,16 @@
-Stemphylium bolicki Sobers & C.P. Seym. SPECIES
-=======
+# Stemphylium bolickii Sobers & C.P. Seym. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Phytopathology 53: 1446 (1963)
 
 #### Original name
-Stemphylium bolicki Sobers & C.P. Seym.
+Stemphylium bolickii Sobers & C.P. Seym.
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Spinifermonas salina (Birch-Andersen) Nicholls, 1984 SPECIES
-=======
+# Thaumatomastix salina (Birch-Andersen) Beech & Moestrup, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

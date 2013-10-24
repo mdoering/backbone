@@ -1,5 +1,4 @@
-Amanita ochraceobulbosa A.E. Wood SPECIES
-=======
+# Amanita ochraceobulbosa A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

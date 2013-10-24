@@ -1,5 +1,4 @@
-Hydrogenophaga Willems et al., 1989 GENUS
-=======
+# Hydrogenophaga Willems et al., 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella paepalanthi Rehm SPECIES
-=======
+# Mycosphaerella paepalanthi Rehm SPECIES
 
 #### Status
 ACCEPTED

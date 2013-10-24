@@ -1,5 +1,4 @@
-Lycoperdon microspermum Berk., 1851 SPECIES
-=======
+# Lycoperdon microspermum Berk., 1851 SPECIES
 
 #### Status
 ACCEPTED

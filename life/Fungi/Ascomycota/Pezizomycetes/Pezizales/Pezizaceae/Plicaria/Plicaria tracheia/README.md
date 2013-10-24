@@ -1,8 +1,7 @@
-Plicaria tracheja Rehm SPECIES
-=======
+# Plicaria tracheia Rehm ex Gamundí SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Plicaria tracheja Rehm
+Plicaria tracheia Rehm ex Gamundí
 
 ### Remarks
 null

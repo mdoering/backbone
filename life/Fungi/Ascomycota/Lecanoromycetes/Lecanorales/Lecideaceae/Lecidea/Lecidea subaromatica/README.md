@@ -1,5 +1,4 @@
-Lecidea subaromatica Vain. SPECIES
-=======
+# Lecidea subaromatica Vain. SPECIES
 
 #### Status
 ACCEPTED

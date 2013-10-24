@@ -1,5 +1,4 @@
-Amphorella oxyura SPECIES
-=======
+# Amphorella oxyura SPECIES
 
 #### Status
 ACCEPTED

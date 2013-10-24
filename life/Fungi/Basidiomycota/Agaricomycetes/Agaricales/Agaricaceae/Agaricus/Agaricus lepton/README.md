@@ -1,5 +1,4 @@
-Agaricus lepton Berk. SPECIES
-=======
+# Agaricus lepton Berk. SPECIES
 
 #### Status
 ACCEPTED

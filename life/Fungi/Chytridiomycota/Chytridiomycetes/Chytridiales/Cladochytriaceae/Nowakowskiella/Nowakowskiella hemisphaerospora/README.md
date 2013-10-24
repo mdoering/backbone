@@ -1,5 +1,4 @@
-Nowakowskiella hemisphaerospora Shanor, 1942 SPECIES
-=======
+# Nowakowskiella hemisphaerospora Shanor, 1942 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Craterellus corrugis Peck SPECIES
-=======
+# Craterellus corrugis Peck SPECIES
 
 #### Status
 ACCEPTED

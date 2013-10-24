@@ -1,5 +1,4 @@
-Arthothelium loandense (Vain.) Zahlbr. SPECIES
-=======
+# Arthothelium loandense (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

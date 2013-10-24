@@ -1,5 +1,4 @@
-Anthostomella aucubae A.C. Santos & Sousa da Câmara SPECIES
-=======
+# Anthostomella aucubae A.C. Santos & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

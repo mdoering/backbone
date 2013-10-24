@@ -1,14 +1,13 @@
-Propolomyces lugubris (Speg.) Gamundí, 1987 SPECIES
-=======
+# Propolis lugubris Speg., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. criptog. Tierra del Fuego 10(4): 94 (1987)
+Boletín de la Academia Nacional de Ciencias de Córdoba 11(2): 271 (1888)
 
 #### Original name
 Propolis lugubris Speg., 1888

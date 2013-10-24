@@ -1,5 +1,4 @@
-Lecanora microcarpa Bachm. SPECIES
-=======
+# Lecanora microcarpa Bachm. SPECIES
 
 #### Status
 ACCEPTED

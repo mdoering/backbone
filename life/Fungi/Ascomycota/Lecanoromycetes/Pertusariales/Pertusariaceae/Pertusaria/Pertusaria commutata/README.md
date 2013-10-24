@@ -1,5 +1,4 @@
-Pertusaria commutata Müll. Arg. SPECIES
-=======
+# Pertusaria commutata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

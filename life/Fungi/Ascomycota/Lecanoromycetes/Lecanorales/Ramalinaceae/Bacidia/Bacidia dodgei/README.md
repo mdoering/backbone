@@ -1,5 +1,4 @@
-Bacidia dodgei Follmann SPECIES
-=======
+# Bacidia dodgei Follmann SPECIES
 
 #### Status
 ACCEPTED

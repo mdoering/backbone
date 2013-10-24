@@ -1,5 +1,4 @@
-Neisseria dentiae Sneath & Barrett, 1997 SPECIES
-=======
+# Neisseria dentiae Sneath & Barrett, 1997 SPECIES
 
 #### Status
 ACCEPTED

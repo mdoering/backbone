@@ -1,5 +1,4 @@
-Exiguobacterium mexicanum López-Cortés et al., 2006 SPECIES
-=======
+# Exiguobacterium mexicanum López-Cortés et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

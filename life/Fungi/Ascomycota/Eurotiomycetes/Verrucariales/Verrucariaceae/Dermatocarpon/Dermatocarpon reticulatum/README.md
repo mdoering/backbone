@@ -1,5 +1,4 @@
-Dermatocarpon reticulatum H. Magn. SPECIES
-=======
+# Dermatocarpon reticulatum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

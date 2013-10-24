@@ -1,5 +1,4 @@
-Cercospora latimaculans Wakef. SPECIES
-=======
+# Cercospora latimaculans Wakef. SPECIES
 
 #### Status
 ACCEPTED

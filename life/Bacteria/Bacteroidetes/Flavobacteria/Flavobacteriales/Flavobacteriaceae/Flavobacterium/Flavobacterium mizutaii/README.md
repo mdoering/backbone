@@ -1,11 +1,10 @@
-Sphingobacterium mizutaii Yabuuchi et al., 1983 SPECIES
-=======
+# Flavobacterium mizutaii (Yabuuchi et al., 1983) Holmes et al., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

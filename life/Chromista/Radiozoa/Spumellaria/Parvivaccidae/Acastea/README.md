@@ -1,5 +1,4 @@
-Acastea Yang, 1993 GENUS
-=======
+# Acastea Yang, 1993 GENUS
 
 #### Status
 ACCEPTED

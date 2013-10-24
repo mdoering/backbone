@@ -1,5 +1,4 @@
-Lycoperdon corniferum Müll. {?} SPECIES
-=======
+# Lycoperdon corniferum Müll. {?} SPECIES
 
 #### Status
 ACCEPTED

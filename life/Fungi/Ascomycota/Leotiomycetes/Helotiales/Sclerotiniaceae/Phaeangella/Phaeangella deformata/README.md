@@ -1,5 +1,4 @@
-Phaeangella deformata (Peck) Sacc. & D. Sacc. SPECIES
-=======
+# Phaeangella deformata (Peck) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

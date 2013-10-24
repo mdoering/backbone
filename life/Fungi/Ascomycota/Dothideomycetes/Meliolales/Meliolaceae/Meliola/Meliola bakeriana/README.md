@@ -1,5 +1,4 @@
-Meliola bakeriana (Hansf.) Cif. SPECIES
-=======
+# Meliola bakeriana (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

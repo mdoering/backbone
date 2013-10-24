@@ -1,5 +1,4 @@
-Streptomyces niveiciscabiei SPECIES
-=======
+# Streptomyces niveiciscabiei SPECIES
 
 #### Status
 ACCEPTED

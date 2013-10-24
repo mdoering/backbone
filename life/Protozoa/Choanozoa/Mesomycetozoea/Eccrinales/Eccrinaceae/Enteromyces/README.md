@@ -1,5 +1,4 @@
-Enteromyces Lichtw. GENUS
-=======
+# Enteromyces Lichtw. GENUS
 
 #### Status
 ACCEPTED

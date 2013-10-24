@@ -1,5 +1,4 @@
-Dimerium subferrugineum (Syd.) Hansf. SPECIES
-=======
+# Dimerium subferrugineum (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

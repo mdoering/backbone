@@ -1,5 +1,4 @@
-Bactrodesmium palmicola Mercado, Heredia & J. Mena SPECIES
-=======
+# Bactrodesmium palmicola Mercado, Heredia & J. Mena SPECIES
 
 #### Status
 ACCEPTED

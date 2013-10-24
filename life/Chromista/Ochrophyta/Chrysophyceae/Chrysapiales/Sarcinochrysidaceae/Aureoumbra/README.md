@@ -1,5 +1,4 @@
-Aureoumbra GENUS
-=======
+# Aureoumbra GENUS
 
 #### Status
 ACCEPTED

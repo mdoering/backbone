@@ -1,5 +1,4 @@
-Psorotichia endoxantha (Anzi) Forssell SPECIES
-=======
+# Psorotichia endoxantha (Anzi) Forssell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula sericatula Romagn., 1958 SPECIES
-=======
+# Russula sericatula Romagn., 1958 SPECIES
 
 #### Status
 ACCEPTED

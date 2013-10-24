@@ -1,5 +1,4 @@
-Lecidea parasemopsis Nyl. SPECIES
-=======
+# Lecidea parasemopsis Nyl. SPECIES
 
 #### Status
 ACCEPTED

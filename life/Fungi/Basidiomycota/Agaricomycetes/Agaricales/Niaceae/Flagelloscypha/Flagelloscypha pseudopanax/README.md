@@ -1,14 +1,13 @@
-Lachnella pseudopanacis (G. Cunn.) W.B. Cooke SPECIES
-=======
+# Flagelloscypha pseudopanax (G. Cunn.) Agerer, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 32(1-6): 7 (1980)
 
 #### Original name
 Cyphella pseudopanax G. Cunn., 1953

@@ -1,5 +1,4 @@
-Jolya B. Skvortzov & Noda, 1968 GENUS
-=======
+# Jolya B. Skvortzov & Noda, 1968 GENUS
 
 #### Status
 ACCEPTED

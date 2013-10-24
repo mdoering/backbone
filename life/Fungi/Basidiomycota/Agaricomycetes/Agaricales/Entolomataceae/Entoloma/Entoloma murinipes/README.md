@@ -1,5 +1,4 @@
-Entoloma murinipes (Murrill) Hesler SPECIES
-=======
+# Entoloma murinipes (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

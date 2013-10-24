@@ -1,5 +1,4 @@
-Hexagonella F. Stevens & Guba ex F. Stevens, 1925 GENUS
-=======
+# Hexagonella F. Stevens & Guba ex F. Stevens, 1925 GENUS
 
 #### Status
 ACCEPTED

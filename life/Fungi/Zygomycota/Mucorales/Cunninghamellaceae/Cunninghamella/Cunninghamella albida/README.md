@@ -1,5 +1,4 @@
-Cunninghamella albida (Sacc.) Matr. SPECIES
-=======
+# Cunninghamella albida (Sacc.) Matr. SPECIES
 
 #### Status
 ACCEPTED

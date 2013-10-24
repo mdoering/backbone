@@ -1,5 +1,4 @@
-Phoma cupressina Sousa da Câmara SPECIES
-=======
+# Phoma cupressina Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

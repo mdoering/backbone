@@ -1,5 +1,4 @@
-Calonectria dearnessii Ellis & Everh. SPECIES
-=======
+# Calonectria dearnessii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

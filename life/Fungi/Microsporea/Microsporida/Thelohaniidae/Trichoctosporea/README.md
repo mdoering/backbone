@@ -1,5 +1,4 @@
-Trichoctosporea J.I.R. Larsson GENUS
-=======
+# Trichoctosporea J.I.R. Larsson GENUS
 
 #### Status
 ACCEPTED

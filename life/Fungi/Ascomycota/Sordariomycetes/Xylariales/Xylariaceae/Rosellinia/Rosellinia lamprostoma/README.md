@@ -1,5 +1,4 @@
-Rosellinia lamprostoma Syd. SPECIES
-=======
+# Rosellinia lamprostoma Syd. SPECIES
 
 #### Status
 ACCEPTED

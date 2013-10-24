@@ -1,5 +1,4 @@
-Tremella nigra Bonord. SPECIES
-=======
+# Tremella nigra Bonord. SPECIES
 
 #### Status
 ACCEPTED

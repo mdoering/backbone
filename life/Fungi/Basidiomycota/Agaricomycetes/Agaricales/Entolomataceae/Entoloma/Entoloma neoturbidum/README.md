@@ -1,5 +1,4 @@
-Entoloma neoturbidum Pegler SPECIES
-=======
+# Entoloma neoturbidum Pegler SPECIES
 
 #### Status
 ACCEPTED

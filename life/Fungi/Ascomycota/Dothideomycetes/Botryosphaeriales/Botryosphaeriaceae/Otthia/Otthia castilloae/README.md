@@ -1,5 +1,4 @@
-Otthia castilloae Syd. SPECIES
-=======
+# Otthia castilloae Syd. SPECIES
 
 #### Status
 ACCEPTED

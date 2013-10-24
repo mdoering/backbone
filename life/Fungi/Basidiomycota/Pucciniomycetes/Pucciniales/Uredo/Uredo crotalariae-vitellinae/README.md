@@ -1,5 +1,4 @@
-Uredo crotalariae-vitellinae Rangel SPECIES
-=======
+# Uredo crotalariae-vitellinae Rangel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutellinia fujianensis J.Z. Cao & J. Moravec SPECIES
-=======
+# Scutellinia fujianensis J.Z. Cao & J. Moravec SPECIES
 
 #### Status
 ACCEPTED

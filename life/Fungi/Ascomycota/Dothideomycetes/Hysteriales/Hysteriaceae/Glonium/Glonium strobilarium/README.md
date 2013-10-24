@@ -1,14 +1,13 @@
-Hysterium strobilarium P. Karst., 1883 SPECIES
-=======
+# Glonium strobilarium (P. Karst.) P. Karst., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 22: 42 (1883)
+Acta Soc. Fauna Flora fenn. 2(6): 103 (1885)
 
 #### Original name
 Hysterium strobilarium P. Karst., 1883

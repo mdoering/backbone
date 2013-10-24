@@ -1,5 +1,4 @@
-Mycosphaerella paleicola (Henn.) Tomilin SPECIES
-=======
+# Mycosphaerella paleicola (Henn.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

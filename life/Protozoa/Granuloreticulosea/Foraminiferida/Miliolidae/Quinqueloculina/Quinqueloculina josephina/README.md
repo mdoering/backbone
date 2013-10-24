@@ -1,5 +1,4 @@
-Quinqueloculina josephina d'Orbigny SPECIES
-=======
+# Quinqueloculina josephina d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

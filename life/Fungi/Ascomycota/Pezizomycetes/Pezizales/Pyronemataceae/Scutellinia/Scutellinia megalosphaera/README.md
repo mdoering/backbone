@@ -1,5 +1,4 @@
-Scutellinia megalosphaera Dissing SPECIES
-=======
+# Scutellinia megalosphaera Dissing SPECIES
 
 #### Status
 ACCEPTED

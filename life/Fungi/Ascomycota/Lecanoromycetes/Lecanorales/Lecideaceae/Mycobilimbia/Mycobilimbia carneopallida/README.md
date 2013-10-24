@@ -1,5 +1,4 @@
-Mycobilimbia carneopallida (Müll. Arg.) Printzen SPECIES
-=======
+# Mycobilimbia carneopallida (Müll. Arg.) Printzen SPECIES
 
 #### Status
 ACCEPTED

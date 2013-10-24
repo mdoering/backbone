@@ -1,17 +1,16 @@
-Buellia glaziouana var. glaziouana VARIETY
-=======
+# Buellia mamillana (Tuck.) W. A. Weber SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 63: 19 (1880)
+Mycotaxon 27: 493 (1986)
 
 #### Original name
-Buellia glaziouana var. glaziouana
+Rinodina mamillana Tuck.
 
 ### Remarks
 null

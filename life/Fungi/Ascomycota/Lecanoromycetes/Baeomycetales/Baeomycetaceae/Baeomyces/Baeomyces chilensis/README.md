@@ -1,5 +1,4 @@
-Baeomyces chilensis (Nyl.) Cromb. SPECIES
-=======
+# Baeomyces chilensis (Nyl.) Cromb. SPECIES
 
 #### Status
 ACCEPTED

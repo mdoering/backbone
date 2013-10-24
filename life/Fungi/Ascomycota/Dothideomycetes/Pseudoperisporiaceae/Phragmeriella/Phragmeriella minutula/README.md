@@ -1,5 +1,4 @@
-Phragmeriella minutula Vezda SPECIES
-=======
+# Phragmeriella minutula Vezda SPECIES
 
 #### Status
 ACCEPTED

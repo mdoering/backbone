@@ -1,17 +1,16 @@
-Gyalecta piceicola (Nyl.) Arnold SPECIES
-=======
+# Gyalideopsis piceicola (Nyl.) Vezda & Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia, Beih. 53(1-2): 112 (1991)
 
 #### Original name
-null
+Lecidea piceicola Nyl.
 
 ### Remarks
 null

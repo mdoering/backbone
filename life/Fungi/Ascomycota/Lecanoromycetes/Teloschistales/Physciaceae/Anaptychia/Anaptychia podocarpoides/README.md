@@ -1,5 +1,4 @@
-Anaptychia podocarpoides SPECIES
-=======
+# Anaptychia podocarpoides SPECIES
 
 #### Status
 ACCEPTED

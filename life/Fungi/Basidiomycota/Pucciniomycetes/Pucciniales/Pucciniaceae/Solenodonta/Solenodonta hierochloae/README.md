@@ -1,5 +1,4 @@
-Solenodonta hierochloae (S. Ito) Syd. SPECIES
-=======
+# Solenodonta hierochloae (S. Ito) Syd. SPECIES
 
 #### Status
 ACCEPTED

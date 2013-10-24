@@ -1,5 +1,4 @@
-Typhula subphacorrhiza Britzelm. SPECIES
-=======
+# Typhula subphacorrhiza Britzelm. SPECIES
 
 #### Status
 ACCEPTED

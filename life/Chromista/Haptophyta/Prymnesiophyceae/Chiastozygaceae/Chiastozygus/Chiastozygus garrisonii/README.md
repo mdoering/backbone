@@ -1,5 +1,4 @@
-Chiastozygus garrisonii SPECIES
-=======
+# Chiastozygus garrisonii SPECIES
 
 #### Status
 ACCEPTED

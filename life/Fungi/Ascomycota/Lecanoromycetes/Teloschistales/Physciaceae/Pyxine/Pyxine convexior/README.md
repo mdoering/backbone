@@ -1,14 +1,13 @@
-Pyxine cocoës var. convexior Müll. Arg. VARIETY
-=======
+# Pyxine convexior (Müll. Arg.) Swinscow & Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 22: 52 (1975)
 
 #### Original name
 Pyxine cocoës var. convexior Müll. Arg.

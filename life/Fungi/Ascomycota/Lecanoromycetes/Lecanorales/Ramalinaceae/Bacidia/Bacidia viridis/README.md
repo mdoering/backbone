@@ -1,5 +1,4 @@
-Bacidia viridis Zahlbr. SPECIES
-=======
+# Bacidia viridis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe simplex V.P. Heluta SPECIES
-=======
+# Erysiphe simplex V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

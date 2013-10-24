@@ -1,5 +1,4 @@
-Hyperphyscia pruinosa Moberg SPECIES
-=======
+# Hyperphyscia pruinosa Moberg SPECIES
 
 #### Status
 ACCEPTED

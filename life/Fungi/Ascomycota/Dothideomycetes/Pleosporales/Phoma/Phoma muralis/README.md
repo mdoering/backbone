@@ -1,5 +1,4 @@
-Phoma muralis Sacc. SPECIES
-=======
+# Phoma muralis Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arcuospathidium Foissner, 1984 GENUS
-=======
+# Arcuospathidium Foissner, 1984 GENUS
 
 #### Status
 ACCEPTED

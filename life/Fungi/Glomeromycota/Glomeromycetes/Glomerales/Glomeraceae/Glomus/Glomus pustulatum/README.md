@@ -1,5 +1,4 @@
-Glomus pustulatum Koske, Friese, C. Walker & Dalpé, 1986 SPECIES
-=======
+# Glomus pustulatum Koske, Friese, C. Walker & Dalpé, 1986 SPECIES
 
 #### Status
 ACCEPTED

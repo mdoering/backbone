@@ -1,5 +1,4 @@
-Ganoderma ostracodes Pat., 1913 SPECIES
-=======
+# Ganoderma ostracodes Pat., 1913 SPECIES
 
 #### Status
 ACCEPTED

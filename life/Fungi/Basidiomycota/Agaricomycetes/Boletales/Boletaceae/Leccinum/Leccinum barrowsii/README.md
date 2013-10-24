@@ -1,5 +1,4 @@
-Leccinum barrowsii A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum barrowsii A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

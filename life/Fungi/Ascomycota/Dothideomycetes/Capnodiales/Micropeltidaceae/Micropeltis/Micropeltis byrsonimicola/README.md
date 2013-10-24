@@ -1,5 +1,4 @@
-Micropeltis byrsonimicola Bat. SPECIES
-=======
+# Micropeltis byrsonimicola Bat. SPECIES
 
 #### Status
 ACCEPTED

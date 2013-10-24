@@ -1,5 +1,4 @@
-Dactylaria inaequilatera Matsush., 1983 SPECIES
-=======
+# Dactylaria inaequilatera Matsush., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bryopogon glaber (Motyka) Bystrek SPECIES
-=======
+# Bryopogon glaber (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

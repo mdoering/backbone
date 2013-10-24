@@ -1,5 +1,4 @@
-Phoma pallida Jacz. SPECIES
-=======
+# Phoma pallida Jacz. SPECIES
 
 #### Status
 ACCEPTED

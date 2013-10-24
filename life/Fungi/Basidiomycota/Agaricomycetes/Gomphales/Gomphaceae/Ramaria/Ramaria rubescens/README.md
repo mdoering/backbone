@@ -1,5 +1,4 @@
-Ramaria rubescens Quél. SPECIES
-=======
+# Ramaria rubescens Quél. SPECIES
 
 #### Status
 ACCEPTED

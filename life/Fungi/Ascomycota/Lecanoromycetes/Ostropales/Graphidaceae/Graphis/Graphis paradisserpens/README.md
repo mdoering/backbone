@@ -1,5 +1,4 @@
-Graphis paradisserpens Sipman & Lücking SPECIES
-=======
+# Graphis paradisserpens Sipman & Lücking SPECIES
 
 #### Status
 ACCEPTED

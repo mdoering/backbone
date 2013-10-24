@@ -1,5 +1,4 @@
-Dothichloë limitata Diehl SPECIES
-=======
+# Dothichloë limitata Diehl SPECIES
 
 #### Status
 ACCEPTED

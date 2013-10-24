@@ -1,5 +1,4 @@
-Graphium stercorarium Marchal & É.J. Marchal SPECIES
-=======
+# Graphium stercorarium Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

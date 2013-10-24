@@ -1,5 +1,4 @@
-Sphaeronaema helicomyxa Fresen. SPECIES
-=======
+# Sphaeronaema helicomyxa Fresen. SPECIES
 
 #### Status
 ACCEPTED

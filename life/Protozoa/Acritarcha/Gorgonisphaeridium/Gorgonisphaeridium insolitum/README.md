@@ -1,5 +1,4 @@
-Gorgonisphaeridium insolitum E. D. Pöthe de Baldis SPECIES
-=======
+# Gorgonisphaeridium insolitum E. D. Pöthe de Baldis SPECIES
 
 #### Status
 ACCEPTED

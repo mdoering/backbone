@@ -1,5 +1,4 @@
-Polypaecilum pisci A.D. Hocking & Pitt, 1985 SPECIES
-=======
+# Polypaecilum pisci A.D. Hocking & Pitt, 1985 SPECIES
 
 #### Status
 ACCEPTED

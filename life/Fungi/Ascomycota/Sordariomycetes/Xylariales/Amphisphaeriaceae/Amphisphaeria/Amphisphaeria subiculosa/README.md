@@ -1,5 +1,4 @@
-Amphisphaeria subiculosa Ellis & Everh. SPECIES
-=======
+# Amphisphaeria subiculosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

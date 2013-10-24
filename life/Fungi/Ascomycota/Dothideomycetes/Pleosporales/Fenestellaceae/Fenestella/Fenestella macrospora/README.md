@@ -1,5 +1,4 @@
-Fenestella macrospora Fuckel SPECIES
-=======
+# Fenestella macrospora Fuckel SPECIES
 
 #### Status
 ACCEPTED

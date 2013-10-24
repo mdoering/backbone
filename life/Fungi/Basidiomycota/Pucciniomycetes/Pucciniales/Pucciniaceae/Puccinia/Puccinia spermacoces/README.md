@@ -1,5 +1,4 @@
-Puccinia spermacoces Berk. & M.A. Curtis SPECIES
-=======
+# Puccinia spermacoces Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

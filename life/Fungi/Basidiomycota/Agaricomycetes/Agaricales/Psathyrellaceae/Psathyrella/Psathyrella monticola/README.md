@@ -1,5 +1,4 @@
-Psathyrella monticola A.H. Sm. SPECIES
-=======
+# Psathyrella monticola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

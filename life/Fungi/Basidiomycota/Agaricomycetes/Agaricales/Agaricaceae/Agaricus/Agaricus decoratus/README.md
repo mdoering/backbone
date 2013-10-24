@@ -1,5 +1,4 @@
-Agaricus decoratus (F.H. Møller) Pilát SPECIES
-=======
+# Agaricus decoratus (F.H. Møller) Pilát SPECIES
 
 #### Status
 ACCEPTED

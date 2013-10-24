@@ -1,5 +1,4 @@
-Rhytisma onobrychidis var. onobrychidis (DC.) Fr. VARIETY
-=======
+# Rhytisma onobrychidis a onobrychidis (DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

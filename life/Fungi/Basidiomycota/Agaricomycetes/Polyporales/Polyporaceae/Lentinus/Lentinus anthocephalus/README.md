@@ -1,14 +1,13 @@
-Agaricus anthocephalus Lév., 1846 SPECIES
-=======
+# Lentinus anthocephalus (Lév.) Pegler, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 5: 115 (1846)
+Bull. Jard. Bot. Nat. Belg. 41: 280 (1971)
 
 #### Original name
 Agaricus anthocephalus Lév., 1846

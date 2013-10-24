@@ -1,5 +1,4 @@
-Stictis araucariae W. Phillips & Harkn. SPECIES
-=======
+# Stictis araucariae W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bartalinia bischofiae Nag Raj, 1964 SPECIES
-=======
+# Bartalinia bischofiae Nag Raj, 1964 SPECIES
 
 #### Status
 ACCEPTED

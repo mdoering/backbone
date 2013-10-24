@@ -1,5 +1,4 @@
-Psathyra subliquescens (Schumach.) Sacc. SPECIES
-=======
+# Psathyra subliquescens (Schumach.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

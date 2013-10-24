@@ -1,5 +1,4 @@
-Anguillospora gigantea Ranzoni, 1953 SPECIES
-=======
+# Anguillospora gigantea Ranzoni, 1953 SPECIES
 
 #### Status
 ACCEPTED

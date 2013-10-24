@@ -1,5 +1,4 @@
-Jonesia Rocourt & Stackbrandt, 1987 GENUS
-=======
+# Jonesia Rocourt & Stackbrandt, 1987 GENUS
 
 #### Status
 ACCEPTED

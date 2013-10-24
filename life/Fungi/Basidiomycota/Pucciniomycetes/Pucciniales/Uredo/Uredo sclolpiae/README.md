@@ -1,5 +1,4 @@
-Uredo sclolpiae Syd. SPECIES
-=======
+# Uredo sclolpiae Syd. SPECIES
 
 #### Status
 ACCEPTED

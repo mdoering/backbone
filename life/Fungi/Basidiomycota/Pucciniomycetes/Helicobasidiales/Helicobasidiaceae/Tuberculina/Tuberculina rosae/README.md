@@ -1,5 +1,4 @@
-Tuberculina rosae Petr. SPECIES
-=======
+# Tuberculina rosae Petr. SPECIES
 
 #### Status
 ACCEPTED

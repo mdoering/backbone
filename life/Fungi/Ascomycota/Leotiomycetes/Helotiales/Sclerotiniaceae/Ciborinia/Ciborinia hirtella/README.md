@@ -1,14 +1,13 @@
-Sclerotinia hirtella Boud., 1907 SPECIES
-=======
+# Ciborinia hirtella (Boud.) L.R. Batra & Korf, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. Class. Discom. Eur. (Paris) 107 (1907)
+Am. J. Bot. 46: 448 (1959)
 
 #### Original name
 Sclerotinia hirtella Boud., 1907

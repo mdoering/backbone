@@ -1,5 +1,4 @@
-Cortinarius salicum Reumaux SPECIES
-=======
+# Cortinarius salicum Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora ehikomontana Togashi & Katsuki SPECIES
-=======
+# Cercospora ehikomontana Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

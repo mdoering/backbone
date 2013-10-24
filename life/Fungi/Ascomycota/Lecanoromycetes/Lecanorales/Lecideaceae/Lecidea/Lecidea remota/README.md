@@ -1,5 +1,4 @@
-Lecidea remota Vain. SPECIES
-=======
+# Lecidea remota Vain. SPECIES
 
 #### Status
 ACCEPTED

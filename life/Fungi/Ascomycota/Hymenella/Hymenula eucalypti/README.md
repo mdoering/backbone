@@ -1,5 +1,4 @@
-Hymenula eucalypti Cooke & Massee SPECIES
-=======
+# Hymenula eucalypti Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

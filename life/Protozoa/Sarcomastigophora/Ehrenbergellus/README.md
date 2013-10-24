@@ -1,5 +1,4 @@
-Ehrenbergellus Fordham, 1986 GENUS
-=======
+# Ehrenbergellus Fordham, 1986 GENUS
 
 #### Status
 ACCEPTED

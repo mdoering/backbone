@@ -1,5 +1,4 @@
-Catillaria vacillans H. Magn. SPECIES
-=======
+# Catillaria vacillans H. Magn. SPECIES
 
 #### Status
 ACCEPTED

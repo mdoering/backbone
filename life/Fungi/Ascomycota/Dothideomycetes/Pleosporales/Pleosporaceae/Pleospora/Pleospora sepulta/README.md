@@ -1,5 +1,4 @@
-Pleospora sepulta Clem. SPECIES
-=======
+# Pleospora sepulta Clem. SPECIES
 
 #### Status
 ACCEPTED

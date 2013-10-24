@@ -1,5 +1,4 @@
-Urocystis pedicularis (Golovin) Vánky SPECIES
-=======
+# Urocystis pedicularis (Golovin) Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza extricata (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Pyrenopeziza extricata (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

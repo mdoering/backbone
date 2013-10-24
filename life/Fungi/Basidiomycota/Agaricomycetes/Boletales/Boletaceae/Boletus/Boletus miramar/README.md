@@ -1,5 +1,4 @@
-Boletus miramar Rolland SPECIES
-=======
+# Boletus miramar Rolland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeoisariopsis tweediana (Speg.) Sacc. & Trotter SPECIES
-=======
+# Phaeoisariopsis tweediana (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

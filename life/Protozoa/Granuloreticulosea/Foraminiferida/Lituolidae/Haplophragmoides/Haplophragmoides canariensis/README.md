@@ -1,5 +1,4 @@
-Haplophragmoides canariensis SPECIES
-=======
+# Haplophragmoides canariensis SPECIES
 
 #### Status
 ACCEPTED

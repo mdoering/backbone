@@ -1,5 +1,4 @@
-Endopyrenium desertorum (Tomin) Dzhur. SPECIES
-=======
+# Endopyrenium desertorum (Tomin) Dzhur. SPECIES
 
 #### Status
 ACCEPTED

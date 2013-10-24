@@ -1,5 +1,4 @@
-Triloculina squamosa Terquem, 1878 SPECIES
-=======
+# Triloculina squamosa Terquem, 1878 SPECIES
 
 #### Status
 ACCEPTED

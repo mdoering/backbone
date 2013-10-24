@@ -1,5 +1,4 @@
-Appendiculella lozanella D. Rodríguez Justavino & M. Piepenbr. SPECIES
-=======
+# Appendiculella lozanella D. Rodríguez Justavino & M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia indissimilis (Nyl.) B. de Lesd. SPECIES
-=======
+# Buellia indissimilis (Nyl.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Callopisma commixtum var. subherbidella (Räsänen) Räsänen VARIETY
-=======
+# Callopisma commixtum Malme SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium commixtum var. subherbidella Räsänen
+Callopisma commixtum Malme
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leccinum subpulchripes A.H. Sm. & Thiers SPECIES
-=======
+# Leccinum subpulchripes A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

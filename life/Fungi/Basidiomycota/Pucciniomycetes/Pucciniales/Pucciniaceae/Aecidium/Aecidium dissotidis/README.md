@@ -1,5 +1,4 @@
-Aecidium dissotidis Cooke SPECIES
-=======
+# Aecidium dissotidis Cooke SPECIES
 
 #### Status
 ACCEPTED

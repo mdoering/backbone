@@ -1,5 +1,4 @@
-Haematomma polycarpum Zahlbr. SPECIES
-=======
+# Haematomma polycarpum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

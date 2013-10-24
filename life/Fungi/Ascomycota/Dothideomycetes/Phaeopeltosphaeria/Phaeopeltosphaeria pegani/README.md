@@ -1,5 +1,4 @@
-Phaeopeltosphaeria pegani Koshk. SPECIES
-=======
+# Phaeopeltosphaeria pegani Koshk. SPECIES
 
 #### Status
 ACCEPTED

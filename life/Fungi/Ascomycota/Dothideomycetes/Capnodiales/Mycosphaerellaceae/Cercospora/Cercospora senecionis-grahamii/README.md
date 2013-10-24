@@ -1,5 +1,4 @@
-Cercospora senecionis-grahamii Thirum. & Govindu SPECIES
-=======
+# Cercospora senecionis-grahamii Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

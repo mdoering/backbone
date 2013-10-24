@@ -1,5 +1,4 @@
-Pleospora pallida Sacc. & Speg. SPECIES
-=======
+# Pleospora pallida Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

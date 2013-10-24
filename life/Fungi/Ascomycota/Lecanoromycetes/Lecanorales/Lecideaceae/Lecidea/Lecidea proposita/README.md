@@ -1,5 +1,4 @@
-Lecidea proposita Nyl. SPECIES
-=======
+# Lecidea proposita Nyl. SPECIES
 
 #### Status
 ACCEPTED

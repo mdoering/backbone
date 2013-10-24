@@ -1,5 +1,4 @@
-Balantidium rotundum Bezzenberger, 1904 SPECIES
-=======
+# Balantidium rotundum Bezzenberger, 1904 SPECIES
 
 #### Status
 ACCEPTED

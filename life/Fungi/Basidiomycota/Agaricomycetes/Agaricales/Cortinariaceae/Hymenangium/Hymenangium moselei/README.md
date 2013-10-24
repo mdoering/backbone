@@ -1,5 +1,4 @@
-Hymenangium moselei Berk. & Broome SPECIES
-=======
+# Hymenangium moselei Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

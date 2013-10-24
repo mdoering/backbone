@@ -1,5 +1,4 @@
-Agaricus manilensis Copel. SPECIES
-=======
+# Agaricus manilensis Copel. SPECIES
 
 #### Status
 ACCEPTED

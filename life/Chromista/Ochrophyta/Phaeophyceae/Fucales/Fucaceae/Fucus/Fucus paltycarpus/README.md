@@ -1,5 +1,4 @@
-Fucus paltycarpus f. nana Schousboe ex Bornet FORM
-=======
+# Fucus paltycarpus SPECIES
 
 #### Status
 ACCEPTED

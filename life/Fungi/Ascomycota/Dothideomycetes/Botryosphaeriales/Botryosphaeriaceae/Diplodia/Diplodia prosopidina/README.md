@@ -1,17 +1,16 @@
-Diplodia prospidina S. Ahmad SPECIES
-=======
+# Diplodia prosopidina S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 13: 33 (1967)
 
 #### Original name
-Diplodia prospidina S. Ahmad
+Diplodia prosopidina S. Ahmad
 
 ### Remarks
 null

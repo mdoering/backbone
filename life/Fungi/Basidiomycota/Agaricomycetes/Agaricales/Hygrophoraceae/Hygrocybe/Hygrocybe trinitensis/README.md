@@ -1,5 +1,4 @@
-Hygrocybe trinitensis (Dennis) Pegler SPECIES
-=======
+# Hygrocybe trinitensis (Dennis) Pegler SPECIES
 
 #### Status
 ACCEPTED

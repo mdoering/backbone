@@ -1,8 +1,7 @@
-Hypocoma cardii Chatton & Lwoff, 1922 SPECIES
-=======
+# Hypocomella cardii (Chatton & Lwoff, 1922) Chatton & Lwoff, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

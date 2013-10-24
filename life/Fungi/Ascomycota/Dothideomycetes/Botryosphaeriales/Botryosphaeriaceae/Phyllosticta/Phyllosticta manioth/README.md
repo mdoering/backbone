@@ -1,5 +1,4 @@
-Phyllosticta manioth Speg. SPECIES
-=======
+# Phyllosticta manioth Speg. SPECIES
 
 #### Status
 ACCEPTED

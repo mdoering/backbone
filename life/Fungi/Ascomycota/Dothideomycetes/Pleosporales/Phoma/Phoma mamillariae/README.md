@@ -1,5 +1,4 @@
-Phoma mamillariae Ellis & Everh. SPECIES
-=======
+# Phoma mamillariae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

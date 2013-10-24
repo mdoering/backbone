@@ -1,5 +1,4 @@
-Chrysosphaerella annulata J. Kristiansen & D. Tong SPECIES
-=======
+# Chrysosphaerella annulata J. Kristiansen & D. Tong SPECIES
 
 #### Status
 ACCEPTED

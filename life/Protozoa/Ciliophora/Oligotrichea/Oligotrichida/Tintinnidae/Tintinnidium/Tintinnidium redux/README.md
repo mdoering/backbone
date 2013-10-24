@@ -1,5 +1,4 @@
-Tintinnidium redux SPECIES
-=======
+# Tintinnidium redux SPECIES
 
 #### Status
 ACCEPTED

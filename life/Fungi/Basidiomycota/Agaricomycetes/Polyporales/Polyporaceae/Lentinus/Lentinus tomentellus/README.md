@@ -1,5 +1,4 @@
-Lentinus tomentellus P. Karst. SPECIES
-=======
+# Lentinus tomentellus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

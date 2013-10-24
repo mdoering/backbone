@@ -1,5 +1,4 @@
-Polystictus armenicolor (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Polystictus armenicolor (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

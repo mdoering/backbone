@@ -1,14 +1,13 @@
-Lachnella filicina (P. Karst.) W.B. Cooke, 1961 SPECIES
-=======
+# Nochascypha filicina (P. Karst.) Agerer, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 4: 76 (1961)
+Mitt. bot. StSamml. , Münch. 19: 268 (1983)
 
 #### Original name
 Cyphella filicina P. Karst., 1870

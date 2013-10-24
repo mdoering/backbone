@@ -1,5 +1,4 @@
-Gloeosporium exsiccans Thüm. SPECIES
-=======
+# Gloeosporium exsiccans Thüm. SPECIES
 
 #### Status
 ACCEPTED

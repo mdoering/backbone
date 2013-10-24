@@ -1,14 +1,13 @@
-Dicaeoma longicorne (Har. & Pat.) Kuntze, 1898 SPECIES
-=======
+# Puccinia longicornis Pat. & Har., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 469 (1898)
+Bull. Soc. mycol. Fr. 7: 143 (1891)
 
 #### Original name
 Puccinia longicornis Pat. & Har., 1891

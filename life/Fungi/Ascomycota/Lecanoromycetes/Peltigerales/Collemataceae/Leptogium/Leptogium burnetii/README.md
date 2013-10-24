@@ -1,5 +1,4 @@
-Leptogium burnetii var. burnetii VARIETY
-=======
+# Leptogium burnetii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptogium burnetii var. burnetii
+Leptogium burnetii C.W. Dodge
 
 ### Remarks
 null

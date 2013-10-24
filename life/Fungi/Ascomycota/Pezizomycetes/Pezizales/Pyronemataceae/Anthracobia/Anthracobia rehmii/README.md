@@ -1,5 +1,4 @@
-Anthracobia rehmii Brumm. SPECIES
-=======
+# Anthracobia rehmii Brumm. SPECIES
 
 #### Status
 ACCEPTED

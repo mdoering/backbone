@@ -1,5 +1,4 @@
-Seynesia livistonae L.D. Guo & K.D. Hyde, 2001 SPECIES
-=======
+# Seynesia livistonae L.D. Guo & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptoglossum latum Peck SPECIES
-=======
+# Leptoglossum latum Peck SPECIES
 
 #### Status
 ACCEPTED

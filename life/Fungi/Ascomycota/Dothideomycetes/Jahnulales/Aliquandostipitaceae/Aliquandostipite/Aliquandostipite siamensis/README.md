@@ -1,5 +1,4 @@
-Aliquandostipite siamensis (Sivichai & E.B.G. Jones) J. Campb., Raja, A. Ferrer, Sivichai & Shearer SPECIES
-=======
+# Aliquandostipite siamensis (Sivichai & E.B.G. Jones) J. Campb., Raja, A. Ferrer, Sivichai & Shearer SPECIES
 
 #### Status
 ACCEPTED

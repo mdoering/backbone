@@ -1,5 +1,4 @@
-Eccrina brevis Maessen SPECIES
-=======
+# Eccrina brevis Maessen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis theae Petch, 1925 SPECIES
-=======
+# Phomopsis theae Petch, 1925 SPECIES
 
 #### Status
 ACCEPTED

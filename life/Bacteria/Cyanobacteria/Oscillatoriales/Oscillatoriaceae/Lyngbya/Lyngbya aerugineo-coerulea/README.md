@@ -1,5 +1,4 @@
-Lyngbya aerugineo-coerulea (Kützing) Gomont SPECIES
-=======
+# Lyngbya aerugineo-coerulea (Kützing) Gomont SPECIES
 
 #### Status
 ACCEPTED

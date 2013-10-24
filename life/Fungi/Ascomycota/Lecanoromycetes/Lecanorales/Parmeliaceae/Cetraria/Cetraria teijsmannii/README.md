@@ -1,5 +1,4 @@
-Cetraria teijsmannii var. teijsmannii VARIETY
-=======
+# Cetraria teijsmannii Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cetraria teijsmannii var. teijsmannii
+Cetraria teijsmannii Mont. & Bosch
 
 ### Remarks
 null

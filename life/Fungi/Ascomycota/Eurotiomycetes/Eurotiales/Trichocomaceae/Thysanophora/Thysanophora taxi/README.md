@@ -1,14 +1,13 @@
-Penicillium taxi R. Schneid., 1956 SPECIES
-=======
+# Thysanophora taxi (R. Schneid.) Stolk & Hennebert, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 110: 47 (1956)
+Persoonia 5(2): 193 (1968)
 
 #### Original name
 Penicillium taxi R. Schneid., 1956

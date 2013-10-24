@@ -1,5 +1,4 @@
-Selenophoma kobresiae Wehm. SPECIES
-=======
+# Selenophoma kobresiae Wehm. SPECIES
 
 #### Status
 ACCEPTED

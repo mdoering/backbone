@@ -1,5 +1,4 @@
-Cassigerinella Pokorny, 1955 GENUS
-=======
+# Cassigerinella Pokorny, 1955 GENUS
 
 #### Status
 ACCEPTED

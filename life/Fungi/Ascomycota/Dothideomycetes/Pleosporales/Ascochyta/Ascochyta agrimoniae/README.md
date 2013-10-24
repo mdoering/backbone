@@ -1,5 +1,4 @@
-Ascochyta agrimoniae Lebedeva SPECIES
-=======
+# Ascochyta agrimoniae Lebedeva SPECIES
 
 #### Status
 ACCEPTED

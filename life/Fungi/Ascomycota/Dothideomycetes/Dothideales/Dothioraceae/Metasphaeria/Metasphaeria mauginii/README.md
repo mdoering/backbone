@@ -1,5 +1,4 @@
-Metasphaeria mauginii E. Castell. SPECIES
-=======
+# Metasphaeria mauginii E. Castell. SPECIES
 
 #### Status
 ACCEPTED

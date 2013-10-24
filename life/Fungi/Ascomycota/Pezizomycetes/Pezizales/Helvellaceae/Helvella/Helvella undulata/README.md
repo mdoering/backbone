@@ -1,5 +1,4 @@
-Helvella undulata Raddi SPECIES
-=======
+# Helvella undulata Raddi SPECIES
 
 #### Status
 ACCEPTED

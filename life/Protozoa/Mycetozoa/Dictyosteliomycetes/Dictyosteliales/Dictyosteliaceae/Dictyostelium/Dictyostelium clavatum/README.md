@@ -1,5 +1,4 @@
-Dictyostelium clavatum H. Hagiw., 1992 SPECIES
-=======
+# Dictyostelium clavatum H. Hagiw., 1992 SPECIES
 
 #### Status
 ACCEPTED

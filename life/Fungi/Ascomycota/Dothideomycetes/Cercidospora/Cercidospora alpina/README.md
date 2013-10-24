@@ -1,5 +1,4 @@
-Cercidospora alpina Ihlen & Wedin, 2007 SPECIES
-=======
+# Cercidospora alpina Ihlen & Wedin, 2007 SPECIES
 
 #### Status
 ACCEPTED

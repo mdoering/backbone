@@ -1,5 +1,4 @@
-Stauracantha Haeckel, 1881 GENUS
-=======
+# Stauracantha Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

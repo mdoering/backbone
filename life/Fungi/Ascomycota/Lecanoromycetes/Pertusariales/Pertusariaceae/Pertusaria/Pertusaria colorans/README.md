@@ -1,5 +1,4 @@
-Pertusaria colorans var. colorans VARIETY
-=======
+# Pertusaria colorans Malme SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria colorans var. colorans
+Pertusaria colorans Malme
 
 ### Remarks
 null

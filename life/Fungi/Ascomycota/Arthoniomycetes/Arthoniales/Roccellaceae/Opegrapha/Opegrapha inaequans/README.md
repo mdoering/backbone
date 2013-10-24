@@ -1,5 +1,4 @@
-Opegrapha inaequans Nyl. SPECIES
-=======
+# Opegrapha inaequans Nyl. SPECIES
 
 #### Status
 ACCEPTED

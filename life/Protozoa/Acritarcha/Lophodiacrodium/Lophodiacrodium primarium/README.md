@@ -1,5 +1,4 @@
-Lophodiacrodium primarium (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
-=======
+# Lophodiacrodium primarium (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

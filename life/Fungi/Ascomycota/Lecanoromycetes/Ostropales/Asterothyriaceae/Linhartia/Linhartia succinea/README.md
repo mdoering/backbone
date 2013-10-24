@@ -1,5 +1,4 @@
-Linhartia succinea (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Linhartia succinea (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

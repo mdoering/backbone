@@ -1,5 +1,4 @@
-Abaphospora salicaria (P. Karst.) Kirschst. SPECIES
-=======
+# Abaphospora salicaria (P. Karst.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

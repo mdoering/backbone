@@ -1,5 +1,4 @@
-Haleomyces D. Hawksw. & Essl. GENUS
-=======
+# Haleomyces D. Hawksw. & Essl. GENUS
 
 #### Status
 ACCEPTED

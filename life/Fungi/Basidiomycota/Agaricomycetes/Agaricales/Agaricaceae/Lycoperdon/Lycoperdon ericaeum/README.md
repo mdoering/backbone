@@ -1,17 +1,16 @@
-Lycoperdon ericaeum var. subareolatum (Kreisel) Demoulin VARIETY
-=======
+# Lycoperdon ericaeum Bonord., 1857 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 8: 147 (1979)
+Bot. Ztg. 15: 596 (1857)
 
 #### Original name
-Lycoperdon muscorum var. subareolatum Kreisel
+Lycoperdon ericaeum Bonord., 1857
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Nebela collaris (Ehr.) SPECIES
-=======
+# Nebela collaris (Ehr.) SPECIES
 
 #### Status
 ACCEPTED

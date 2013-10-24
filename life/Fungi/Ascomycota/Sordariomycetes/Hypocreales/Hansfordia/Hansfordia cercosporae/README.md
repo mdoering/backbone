@@ -1,5 +1,4 @@
-Hansfordia cercosporae (Petr. & Cif.) Deighton SPECIES
-=======
+# Hansfordia cercosporae (Petr. & Cif.) Deighton SPECIES
 
 #### Status
 ACCEPTED

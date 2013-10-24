@@ -1,5 +1,4 @@
-Fasciculithus magnicordis Romein, 1979 SPECIES
-=======
+# Fasciculithus magnicordis Romein, 1979 SPECIES
 
 #### Status
 ACCEPTED

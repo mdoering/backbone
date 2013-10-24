@@ -1,8 +1,7 @@
-Rhizobium tianshanense Chen et al., 1995 SPECIES
-=======
+# Mesorhizobium tianshanense (Chen et al., 1995) Jarvis et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

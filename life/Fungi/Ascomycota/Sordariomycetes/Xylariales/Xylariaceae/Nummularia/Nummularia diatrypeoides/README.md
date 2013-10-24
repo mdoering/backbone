@@ -1,5 +1,4 @@
-Nummularia diatrypeoides Rehm SPECIES
-=======
+# Nummularia diatrypeoides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melampsora aleuritidis Cummins SPECIES
-=======
+# Melampsora aleuritidis Cummins SPECIES
 
 #### Status
 ACCEPTED

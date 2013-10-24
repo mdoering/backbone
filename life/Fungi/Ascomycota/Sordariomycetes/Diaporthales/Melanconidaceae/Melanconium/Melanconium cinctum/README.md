@@ -1,5 +1,4 @@
-Melanconium cinctum Berk. & M.A. Curtis SPECIES
-=======
+# Melanconium cinctum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

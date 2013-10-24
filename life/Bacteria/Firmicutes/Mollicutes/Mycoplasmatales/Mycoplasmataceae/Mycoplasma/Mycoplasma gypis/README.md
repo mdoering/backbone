@@ -1,5 +1,4 @@
-Mycoplasma gypis Poveda et al., 1994 SPECIES
-=======
+# Mycoplasma gypis Poveda et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

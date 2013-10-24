@@ -1,17 +1,16 @@
-Macrolepiota fuligineosquarrosa f. psammophila (Guinb.) Migl. FORM
-=======
+# Macrolepiota fuligineosquarrosa Malençon, 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Parliamo di Funghi (Camaiore) 70: 4 (1999)
+Beih. Sydowia 8: 261 (1979)
 
 #### Original name
-Macrolepiota psammophila Guinb.
+Macrolepiota fuligineosquarrosa Malençon, 1979
 
 ### Remarks
 null

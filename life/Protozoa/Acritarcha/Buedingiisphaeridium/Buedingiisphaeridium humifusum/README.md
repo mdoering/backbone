@@ -1,5 +1,4 @@
-Buedingiisphaeridium humifusum Fu Jiayuan, 1986 SPECIES
-=======
+# Buedingiisphaeridium humifusum Fu Jiayuan, 1986 SPECIES
 
 #### Status
 ACCEPTED

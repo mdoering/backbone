@@ -1,5 +1,4 @@
-Teichospora cereina Speg. SPECIES
-=======
+# Teichospora cereina Speg. SPECIES
 
 #### Status
 ACCEPTED

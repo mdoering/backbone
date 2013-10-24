@@ -1,5 +1,4 @@
-Melanoleuca rimosa (Peck) Murrill SPECIES
-=======
+# Melanoleuca rimosa (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta phlogis Massee SPECIES
-=======
+# Pyrenochaeta phlogis Massee SPECIES
 
 #### Status
 ACCEPTED

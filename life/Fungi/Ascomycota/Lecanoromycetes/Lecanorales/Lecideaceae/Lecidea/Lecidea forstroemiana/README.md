@@ -1,8 +1,7 @@
-Lecidea forströmiana Ach. SPECIES
-=======
+# Lecidea forstroemiana Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea forströmiana Ach.
+Lecidea forstroemiana Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Glaucothrix GENUS
-=======
+# Glaucothrix GENUS
 
 #### Status
 ACCEPTED

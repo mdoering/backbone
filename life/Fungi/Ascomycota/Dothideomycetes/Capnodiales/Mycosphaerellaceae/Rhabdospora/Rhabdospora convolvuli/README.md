@@ -1,5 +1,4 @@
-Rhabdospora convolvuli Hollós SPECIES
-=======
+# Rhabdospora convolvuli Hollós SPECIES
 
 #### Status
 ACCEPTED

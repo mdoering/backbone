@@ -1,5 +1,4 @@
-Asterionella Hassall, 1850 GENUS
-=======
+# Asterionella Hassall, 1850 GENUS
 
 #### Status
 ACCEPTED

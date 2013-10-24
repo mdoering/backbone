@@ -1,5 +1,4 @@
-Marasmius polypus (Kalchbr.) D.A. Reid SPECIES
-=======
+# Marasmius polypus (Kalchbr.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

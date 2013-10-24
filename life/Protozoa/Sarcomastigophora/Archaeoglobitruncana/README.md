@@ -1,5 +1,4 @@
-Archaeoglobitruncana Salaj & Maamouri, 1984 GENUS
-=======
+# Archaeoglobitruncana Salaj & Maamouri, 1984 GENUS
 
 #### Status
 ACCEPTED

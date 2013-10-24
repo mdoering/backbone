@@ -1,5 +1,4 @@
-Bombardia arachnoidea (Niessl) Cain SPECIES
-=======
+# Bombardia arachnoidea (Niessl) Cain SPECIES
 
 #### Status
 ACCEPTED

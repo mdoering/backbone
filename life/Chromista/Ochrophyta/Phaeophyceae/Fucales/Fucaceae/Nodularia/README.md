@@ -1,5 +1,4 @@
-Nodularia J.V.F. Lamouroux, 1825 GENUS
-=======
+# Nodularia J.V.F. Lamouroux, 1825 GENUS
 
 #### Status
 ACCEPTED

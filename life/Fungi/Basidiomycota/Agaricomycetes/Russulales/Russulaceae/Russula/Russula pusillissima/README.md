@@ -1,5 +1,4 @@
-Russula pusillissima Moënne-Locc. SPECIES
-=======
+# Russula pusillissima Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

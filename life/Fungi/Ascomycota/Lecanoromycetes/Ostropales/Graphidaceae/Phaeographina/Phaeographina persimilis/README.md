@@ -1,5 +1,4 @@
-Phaeographina persimilis (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographina persimilis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

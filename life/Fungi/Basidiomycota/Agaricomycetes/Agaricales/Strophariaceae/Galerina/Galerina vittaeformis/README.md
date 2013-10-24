@@ -1,11 +1,10 @@
-Galerina vittaeformis f. vittaeformis FORM
-=======
+# Galerina vittaeformis (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Belgian Species List
 
 #### Published in
 null

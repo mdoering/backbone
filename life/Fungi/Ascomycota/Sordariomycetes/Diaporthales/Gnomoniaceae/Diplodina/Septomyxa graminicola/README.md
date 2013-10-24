@@ -1,5 +1,4 @@
-Septomyxa graminicola Speg. SPECIES
-=======
+# Septomyxa graminicola Speg. SPECIES
 
 #### Status
 ACCEPTED

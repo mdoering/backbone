@@ -1,5 +1,4 @@
-Gymnopus dysodes (Halling) Halling SPECIES
-=======
+# Gymnopus dysodes (Halling) Halling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenia moelleri Lloyd SPECIES
-=======
+# Solenia moelleri Lloyd SPECIES
 
 #### Status
 ACCEPTED

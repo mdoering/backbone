@@ -1,5 +1,4 @@
-Brachybacterium muris Buczolits et al., 2003 SPECIES
-=======
+# Brachybacterium muris Buczolits et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

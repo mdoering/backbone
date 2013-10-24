@@ -1,5 +1,4 @@
-Cercospora scirpi Zaprom. SPECIES
-=======
+# Cercospora scirpi Zaprom. SPECIES
 
 #### Status
 ACCEPTED

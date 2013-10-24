@@ -1,5 +1,4 @@
-Trichophyton fluviomuniense Pereiro, 1968 SPECIES
-=======
+# Trichophyton fluviomuniense Pereiro, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phellomyces GENUS
-=======
+# Phellomyces GENUS
 
 #### Status
 ACCEPTED

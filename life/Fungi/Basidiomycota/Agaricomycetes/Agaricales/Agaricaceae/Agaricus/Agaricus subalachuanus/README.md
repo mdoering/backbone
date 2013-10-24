@@ -1,5 +1,4 @@
-Agaricus subalachuanus Murrill SPECIES
-=======
+# Agaricus subalachuanus Murrill SPECIES
 
 #### Status
 ACCEPTED

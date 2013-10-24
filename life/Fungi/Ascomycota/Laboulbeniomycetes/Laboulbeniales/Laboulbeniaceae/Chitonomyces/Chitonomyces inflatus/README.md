@@ -1,5 +1,4 @@
-Chitonomyces inflatus Thaxt. SPECIES
-=======
+# Chitonomyces inflatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

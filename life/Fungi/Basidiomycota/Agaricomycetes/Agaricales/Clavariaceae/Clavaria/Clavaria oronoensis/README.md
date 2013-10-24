@@ -1,5 +1,4 @@
-Clavaria oronoensis R.H. Petersen & Litten, 1989 SPECIES
-=======
+# Clavaria oronoensis R.H. Petersen & Litten, 1989 SPECIES
 
 #### Status
 ACCEPTED

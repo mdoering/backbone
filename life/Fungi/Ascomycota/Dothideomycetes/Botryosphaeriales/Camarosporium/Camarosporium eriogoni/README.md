@@ -1,5 +1,4 @@
-Camarosporium eriogoni Ellis & Everh. SPECIES
-=======
+# Camarosporium eriogoni Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

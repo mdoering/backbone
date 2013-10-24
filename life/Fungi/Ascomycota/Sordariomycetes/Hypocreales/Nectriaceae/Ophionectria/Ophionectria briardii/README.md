@@ -1,5 +1,4 @@
-Ophionectria briardii var. briardii VARIETY
-=======
+# Ophionectria briardii Boud. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ophionectria briardii var. briardii
+Ophionectria briardii Boud.
 
 ### Remarks
 null

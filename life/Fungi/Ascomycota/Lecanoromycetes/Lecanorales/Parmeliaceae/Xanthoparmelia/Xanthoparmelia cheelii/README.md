@@ -1,14 +1,13 @@
-Parmelia cheelii Gyeln. SPECIES
-=======
+# Xanthoparmelia cheelii (Gyeln.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 36: 271 (1938)
+Phytologia 28: 486 (1974)
 
 #### Original name
 Parmelia cheelii Gyeln.

@@ -1,5 +1,4 @@
-Parvacoccum R.S. Hunt & A. Funk GENUS
-=======
+# Parvacoccum R.S. Hunt & A. Funk GENUS
 
 #### Status
 ACCEPTED

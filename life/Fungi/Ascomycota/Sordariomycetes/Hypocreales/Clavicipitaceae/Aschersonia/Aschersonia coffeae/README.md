@@ -1,5 +1,4 @@
-Aschersonia coffeae Henn. SPECIES
-=======
+# Aschersonia coffeae Henn. SPECIES
 
 #### Status
 ACCEPTED

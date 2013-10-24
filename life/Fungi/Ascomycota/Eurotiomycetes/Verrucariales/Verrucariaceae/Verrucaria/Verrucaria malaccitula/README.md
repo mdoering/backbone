@@ -1,5 +1,4 @@
-Verrucaria malaccitula Nyl. SPECIES
-=======
+# Verrucaria malaccitula Nyl. SPECIES
 
 #### Status
 ACCEPTED

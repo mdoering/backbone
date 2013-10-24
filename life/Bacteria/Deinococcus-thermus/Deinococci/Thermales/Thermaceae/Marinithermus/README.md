@@ -1,5 +1,4 @@
-Marinithermus Sako, Nakagawa, Takai & Horikoshi, 2003 GENUS
-=======
+# Marinithermus Sako, Nakagawa, Takai & Horikoshi, 2003 GENUS
 
 #### Status
 ACCEPTED

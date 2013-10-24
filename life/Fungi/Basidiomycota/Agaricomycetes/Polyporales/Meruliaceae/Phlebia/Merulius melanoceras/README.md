@@ -1,5 +1,4 @@
-Merulius melanoceras (Mont.) Sacc. SPECIES
-=======
+# Merulius melanoceras (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

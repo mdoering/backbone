@@ -1,5 +1,4 @@
-Bovista graveolens Schwalb SPECIES
-=======
+# Bovista graveolens Schwalb SPECIES
 
 #### Status
 ACCEPTED

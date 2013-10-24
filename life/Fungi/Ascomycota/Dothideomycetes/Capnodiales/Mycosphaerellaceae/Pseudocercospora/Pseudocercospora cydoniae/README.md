@@ -1,5 +1,4 @@
-Pseudocercospora cydoniae (Ellis & Everh.) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora cydoniae (Ellis & Everh.) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

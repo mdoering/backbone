@@ -1,5 +1,4 @@
-Agaricus retipes Lasch SPECIES
-=======
+# Agaricus retipes Lasch SPECIES
 
 #### Status
 ACCEPTED

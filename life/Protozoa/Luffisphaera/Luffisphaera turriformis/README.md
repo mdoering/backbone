@@ -1,5 +1,4 @@
-Luffisphaera turriformis Vørs, 1992 SPECIES
-=======
+# Luffisphaera turriformis Vørs, 1992 SPECIES
 
 #### Status
 ACCEPTED

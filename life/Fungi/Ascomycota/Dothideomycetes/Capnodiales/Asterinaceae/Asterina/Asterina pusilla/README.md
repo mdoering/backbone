@@ -1,5 +1,4 @@
-Asterina pusilla Syd. & P. Syd. SPECIES
-=======
+# Asterina pusilla Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

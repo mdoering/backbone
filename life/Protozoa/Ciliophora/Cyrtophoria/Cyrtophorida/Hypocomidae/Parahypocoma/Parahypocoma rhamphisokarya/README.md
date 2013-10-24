@@ -1,5 +1,4 @@
-Parahypocoma rhamphisokarya Burreson, 1973 SPECIES
-=======
+# Parahypocoma rhamphisokarya Burreson, 1973 SPECIES
 
 #### Status
 ACCEPTED

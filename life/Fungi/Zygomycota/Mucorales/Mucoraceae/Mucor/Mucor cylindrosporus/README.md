@@ -1,5 +1,4 @@
-Mucor cylindrosporus Y. Ling SPECIES
-=======
+# Mucor cylindrosporus Y. Ling SPECIES
 
 #### Status
 ACCEPTED

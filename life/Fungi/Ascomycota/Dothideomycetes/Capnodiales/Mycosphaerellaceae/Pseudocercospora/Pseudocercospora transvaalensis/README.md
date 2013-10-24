@@ -1,5 +1,4 @@
-Pseudocercospora transvaalensis (Syd.) Deighton SPECIES
-=======
+# Pseudocercospora transvaalensis (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

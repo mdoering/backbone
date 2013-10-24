@@ -1,5 +1,4 @@
-Aspicilia phialodes Körb. SPECIES
-=======
+# Aspicilia phialodes Körb. SPECIES
 
 #### Status
 ACCEPTED

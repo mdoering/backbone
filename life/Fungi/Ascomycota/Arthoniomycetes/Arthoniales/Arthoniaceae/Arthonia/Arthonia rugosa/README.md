@@ -1,5 +1,4 @@
-Arthonia rugosa Fée SPECIES
-=======
+# Arthonia rugosa Fée SPECIES
 
 #### Status
 ACCEPTED

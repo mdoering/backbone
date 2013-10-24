@@ -1,14 +1,13 @@
-Trichia semicancellata var. aurantiaca (Schrad.) Poir. VARIETY
-=======
+# Cribraria aurantiaca Schrad., 1797 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lamarck, Encyclop. Mycol. 8: 56 (1808)
+Enum. pl. (Kjbenhavn) 2: 218 (1803)
 
 #### Original name
 Cribraria aurantiaca Schrad., 1797

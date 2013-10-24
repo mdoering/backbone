@@ -1,5 +1,4 @@
-Rhizocarpon asteriscus DC. SPECIES
-=======
+# Rhizocarpon asteriscus DC. SPECIES
 
 #### Status
 ACCEPTED

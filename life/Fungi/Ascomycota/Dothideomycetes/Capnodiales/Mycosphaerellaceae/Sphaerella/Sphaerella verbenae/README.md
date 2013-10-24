@@ -1,5 +1,4 @@
-Sphaerella verbenae Unamuno SPECIES
-=======
+# Sphaerella verbenae Unamuno SPECIES
 
 #### Status
 ACCEPTED

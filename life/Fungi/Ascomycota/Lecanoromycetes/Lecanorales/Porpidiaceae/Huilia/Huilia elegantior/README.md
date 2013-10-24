@@ -1,5 +1,4 @@
-Huilia elegantior (H. Magn.) Hertel SPECIES
-=======
+# Huilia elegantior (H. Magn.) Hertel SPECIES
 
 #### Status
 ACCEPTED

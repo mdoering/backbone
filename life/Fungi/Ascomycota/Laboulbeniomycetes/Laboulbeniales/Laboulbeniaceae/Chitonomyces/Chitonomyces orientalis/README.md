@@ -1,5 +1,4 @@
-Chitonomyces orientalis Thaxt. SPECIES
-=======
+# Chitonomyces orientalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sarcogyne similis f. convexa H. Magn. FORM
-=======
+# Sarcogyne similis H. Magn. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Sarcogyne similis f. convexa H. Magn.
+Sarcogyne similis H. Magn.
 
 ### Remarks
 null

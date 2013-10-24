@@ -1,5 +1,4 @@
-Tulasnella fuscoviolacea Bres., 1900 SPECIES
-=======
+# Tulasnella fuscoviolacea Bres., 1900 SPECIES
 
 #### Status
 ACCEPTED

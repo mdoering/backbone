@@ -1,5 +1,4 @@
-Gloeosporium tremulae (Lib.) Pass. SPECIES
-=======
+# Gloeosporium tremulae (Lib.) Pass. SPECIES
 
 #### Status
 ACCEPTED

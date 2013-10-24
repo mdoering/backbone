@@ -1,5 +1,4 @@
-Pyxine simulans Kalb SPECIES
-=======
+# Pyxine simulans Kalb SPECIES
 
 #### Status
 ACCEPTED

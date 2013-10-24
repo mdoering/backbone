@@ -1,5 +1,4 @@
-Lecanora conradii (Körb.) Hasse SPECIES
-=======
+# Lecanora conradii (Körb.) Hasse SPECIES
 
 #### Status
 ACCEPTED

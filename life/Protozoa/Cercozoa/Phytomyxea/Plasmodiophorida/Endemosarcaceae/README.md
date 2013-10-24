@@ -1,17 +1,16 @@
-Endemosarcidae FAMILY
-=======
+# Endemosarcaceae L.S. Olive & Erdos FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 63(4): 877 (1971)
 
 #### Original name
-null
+Endemosarcaceae L.S. Olive & Erdos
 
 ### Remarks
 null

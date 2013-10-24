@@ -1,5 +1,4 @@
-Peridermium decolorans Peck SPECIES
-=======
+# Peridermium decolorans Peck SPECIES
 
 #### Status
 ACCEPTED

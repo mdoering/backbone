@@ -1,5 +1,4 @@
-Marssonina artocarpi Bat. SPECIES
-=======
+# Marssonina artocarpi Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus hapalosclerus Sacc. SPECIES
-=======
+# Pleurotus hapalosclerus Sacc. SPECIES
 
 #### Status
 ACCEPTED

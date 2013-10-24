@@ -1,5 +1,4 @@
-Humicola marvinii M.E. Palm & Weinst. SPECIES
-=======
+# Humicola marvinii M.E. Palm & Weinst. SPECIES
 
 #### Status
 ACCEPTED

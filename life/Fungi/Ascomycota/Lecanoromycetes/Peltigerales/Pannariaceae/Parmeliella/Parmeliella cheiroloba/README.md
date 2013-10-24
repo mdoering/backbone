@@ -1,5 +1,4 @@
-Parmeliella cheiroloba Müll. Arg. SPECIES
-=======
+# Parmeliella cheiroloba Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

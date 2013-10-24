@@ -1,5 +1,4 @@
-Phanerodontia dentata Hjortstam & Ryvarden, 2010 SPECIES
-=======
+# Phanerodontia dentata Hjortstam & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosphaeria centaureae Schwarzman SPECIES
-=======
+# Placosphaeria centaureae Schwarzman SPECIES
 
 #### Status
 ACCEPTED

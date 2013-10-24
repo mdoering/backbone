@@ -1,5 +1,4 @@
-Hysterobrevium GENUS
-=======
+# Hysterobrevium GENUS
 
 #### Status
 ACCEPTED

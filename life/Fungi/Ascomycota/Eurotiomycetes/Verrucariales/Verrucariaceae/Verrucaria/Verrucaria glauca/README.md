@@ -1,5 +1,4 @@
-Verrucaria glauca Fée SPECIES
-=======
+# Verrucaria glauca Fée SPECIES
 
 #### Status
 ACCEPTED

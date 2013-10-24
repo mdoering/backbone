@@ -1,5 +1,4 @@
-Uromyces beckmanniae H.S. Jacks. SPECIES
-=======
+# Uromyces beckmanniae H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

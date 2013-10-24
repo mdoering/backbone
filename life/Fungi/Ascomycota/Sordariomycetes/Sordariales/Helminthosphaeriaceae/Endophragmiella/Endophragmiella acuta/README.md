@@ -1,5 +1,4 @@
-Endophragmiella acuta W.P. Wu SPECIES
-=======
+# Endophragmiella acuta W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

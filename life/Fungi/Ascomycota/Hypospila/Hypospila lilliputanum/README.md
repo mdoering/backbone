@@ -1,5 +1,4 @@
-Hypospila lilliputanum Syd. SPECIES
-=======
+# Hypospila lilliputanum Syd. SPECIES
 
 #### Status
 ACCEPTED

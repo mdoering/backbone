@@ -1,5 +1,4 @@
-Heterodinium australiae Wood, 1963 SPECIES
-=======
+# Heterodinium australiae Wood, 1963 SPECIES
 
 #### Status
 ACCEPTED

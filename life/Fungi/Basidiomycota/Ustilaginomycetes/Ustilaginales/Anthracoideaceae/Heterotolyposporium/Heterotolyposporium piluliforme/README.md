@@ -1,14 +1,13 @@
-Tolyposporium piluliforme (Berk.) M. Piepenbr. & Begerow, 2000 SPECIES
-=======
+# Heterotolyposporium piluliforme (Berk.) Vánky, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Piepenbring, Nova Hedwigia 70(3-4): 329 (2000)
+Mycotaxon 63: 148 (1997)
 
 #### Original name
 Uredo piluliformis Berk., 1843

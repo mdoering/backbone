@@ -1,5 +1,4 @@
-Dothidea platyplaca Berk. & M.A. Curtis SPECIES
-=======
+# Dothidea platyplaca Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora fossarum (Dufour) Mont. SPECIES
-=======
+# Biatora fossarum (Dufour) Mont. SPECIES
 
 #### Status
 ACCEPTED

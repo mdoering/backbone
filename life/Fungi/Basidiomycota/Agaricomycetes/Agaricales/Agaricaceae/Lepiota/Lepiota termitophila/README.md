@@ -1,5 +1,4 @@
-Lepiota termitophila R. Heim SPECIES
-=======
+# Lepiota termitophila R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus crassinervius Velen. SPECIES
-=======
+# Cantharellus crassinervius Velen. SPECIES
 
 #### Status
 ACCEPTED

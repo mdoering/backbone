@@ -1,5 +1,4 @@
-Agaricus leiophyllus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus leiophyllus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombomonas treubii var. javanica Woloszynska VARIETY
-=======
+# Strombomonas treubii (Woloszynska) Deflandre SPECIES
 
 #### Status
 ACCEPTED

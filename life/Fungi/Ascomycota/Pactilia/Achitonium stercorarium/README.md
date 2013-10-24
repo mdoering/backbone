@@ -1,5 +1,4 @@
-Achitonium stercorarium (Corda) Kuntze SPECIES
-=======
+# Achitonium stercorarium (Corda) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella moraeae Pass. SPECIES
-=======
+# Sphaerella moraeae Pass. SPECIES
 
 #### Status
 ACCEPTED

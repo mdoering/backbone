@@ -1,5 +1,4 @@
-Leprieurina winteriana G. Arnaud, 1918 SPECIES
-=======
+# Leprieurina winteriana G. Arnaud, 1918 SPECIES
 
 #### Status
 ACCEPTED

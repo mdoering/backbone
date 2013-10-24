@@ -1,5 +1,4 @@
-Agaricus adirondackensis Peck SPECIES
-=======
+# Agaricus adirondackensis Peck SPECIES
 
 #### Status
 ACCEPTED

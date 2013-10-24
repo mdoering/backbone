@@ -1,14 +1,13 @@
-Dichosporium glomeratum Pat. SPECIES
-=======
+# Dichosporidium glomeratum (Pat.) Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Soc. mycol. Fr. 15: 207 (1899)
+Enum. Champ. Guadeloupe (Lons-le-Saunier) (1903)
 
 #### Original name
 Dichosporium glomeratum Pat.

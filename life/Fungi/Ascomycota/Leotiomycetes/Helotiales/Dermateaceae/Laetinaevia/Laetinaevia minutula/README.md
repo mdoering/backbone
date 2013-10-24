@@ -1,5 +1,4 @@
-Laetinaevia minutula (Sacc. & Malbr.) Nannf. SPECIES
-=======
+# Laetinaevia minutula (Sacc. & Malbr.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monosporium silvaticum Oudem. SPECIES
-=======
+# Monosporium silvaticum Oudem. SPECIES
 
 #### Status
 ACCEPTED

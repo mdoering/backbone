@@ -1,5 +1,4 @@
-Phoma discosiaeformis Cooke & Harkn. SPECIES
-=======
+# Phoma discosiaeformis Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

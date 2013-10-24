@@ -1,5 +1,4 @@
-Morchella finoti Sarrazin & Feuilleaub. SPECIES
-=======
+# Morchella finoti Sarrazin & Feuilleaub. SPECIES
 
 #### Status
 ACCEPTED

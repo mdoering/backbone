@@ -1,5 +1,4 @@
-Cryomyces antarcticus Selbmann, de Hoog, Mazzaglia, Friedmann & Onofri, 2005 SPECIES
-=======
+# Cryomyces antarcticus Selbmann, de Hoog, Mazzaglia, Friedmann & Onofri, 2005 SPECIES
 
 #### Status
 ACCEPTED

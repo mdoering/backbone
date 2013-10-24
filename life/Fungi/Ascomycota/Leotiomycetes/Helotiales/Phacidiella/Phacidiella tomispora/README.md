@@ -1,5 +1,4 @@
-Phacidiella tomispora (Berl. & Bres.) B. Sutton SPECIES
-=======
+# Phacidiella tomispora (Berl. & Bres.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

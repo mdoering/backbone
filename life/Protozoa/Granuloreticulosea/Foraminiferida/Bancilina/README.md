@@ -1,5 +1,4 @@
-Bancilina Neagu, 1995 GENUS
-=======
+# Bancilina Neagu, 1995 GENUS
 
 #### Status
 ACCEPTED

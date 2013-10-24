@@ -1,5 +1,4 @@
-Panellus melleo-ochraceus Malençon, 1975 SPECIES
-=======
+# Panellus melleo-ochraceus Malençon, 1975 SPECIES
 
 #### Status
 ACCEPTED

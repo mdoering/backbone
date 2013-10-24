@@ -1,17 +1,16 @@
-Rhabdospora fragosoii Shkarupa SPECIES
-=======
+# Rhabdospora fragosoi Shkarupa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 14: 140 (1977)
 
 #### Original name
-Rhabdospora fragosoii Shkarupa
+Rhabdospora valerianae Gonz. Frag.
 
 ### Remarks
 null

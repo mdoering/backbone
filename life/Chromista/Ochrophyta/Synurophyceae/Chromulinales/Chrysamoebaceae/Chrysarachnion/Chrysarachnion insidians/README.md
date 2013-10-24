@@ -1,5 +1,4 @@
-Chrysarachnion insidians Pascher SPECIES
-=======
+# Chrysarachnion insidians Pascher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltella insignis Toro SPECIES
-=======
+# Peltella insignis Toro SPECIES
 
 #### Status
 ACCEPTED

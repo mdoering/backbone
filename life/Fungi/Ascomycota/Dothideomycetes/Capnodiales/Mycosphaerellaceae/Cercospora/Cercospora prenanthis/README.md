@@ -1,5 +1,4 @@
-Cercospora prenanthis Ellis & Kellerm. SPECIES
-=======
+# Cercospora prenanthis Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

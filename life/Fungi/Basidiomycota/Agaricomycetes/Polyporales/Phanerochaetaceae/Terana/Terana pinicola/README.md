@@ -1,5 +1,4 @@
-Terana pinicola (Tul.) Kuntze SPECIES
-=======
+# Terana pinicola (Tul.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

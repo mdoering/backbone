@@ -1,5 +1,4 @@
-Lecanactis biformis (A. Massal.) Körb. SPECIES
-=======
+# Lecanactis biformis (A. Massal.) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovista bresadolae (Schulzer) De Toni SPECIES
-=======
+# Bovista bresadolae (Schulzer) De Toni SPECIES
 
 #### Status
 ACCEPTED

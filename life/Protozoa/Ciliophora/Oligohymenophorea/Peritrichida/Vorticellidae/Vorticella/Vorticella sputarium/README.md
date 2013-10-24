@@ -1,5 +1,4 @@
-Vorticella sputarium Müller, 1786 SPECIES
-=======
+# Vorticella sputarium Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

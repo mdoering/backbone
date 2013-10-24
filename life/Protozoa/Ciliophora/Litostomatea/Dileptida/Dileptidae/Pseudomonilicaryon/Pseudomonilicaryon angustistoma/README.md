@@ -1,5 +1,4 @@
-Pseudomonilicaryon angustistoma Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Pseudomonilicaryon angustistoma Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

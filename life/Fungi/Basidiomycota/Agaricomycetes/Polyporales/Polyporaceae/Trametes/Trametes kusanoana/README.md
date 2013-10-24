@@ -1,5 +1,4 @@
-Trametes kusanoana Imazeki SPECIES
-=======
+# Trametes kusanoana Imazeki SPECIES
 
 #### Status
 ACCEPTED

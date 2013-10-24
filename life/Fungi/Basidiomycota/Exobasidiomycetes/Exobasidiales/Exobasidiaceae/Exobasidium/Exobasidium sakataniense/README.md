@@ -1,5 +1,4 @@
-Exobasidium sakataniense S. Hirata SPECIES
-=======
+# Exobasidium sakataniense S. Hirata SPECIES
 
 #### Status
 ACCEPTED

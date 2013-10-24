@@ -1,5 +1,4 @@
-Sciniatosporium pulviniforme (Syd.) Morgan-Jones SPECIES
-=======
+# Sciniatosporium pulviniforme (Syd.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

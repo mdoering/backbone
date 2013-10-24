@@ -1,17 +1,16 @@
-Hypoxylon ferrugineum var. brasiliense Theiss. VARIETY
-=======
+# Hypoxylon ferrugineum G.H. Otth, 1868 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. naturf. Ges. Bern 41 (1868)
 
 #### Original name
-Hypoxylon ferrugineum var. brasiliense Theiss.
+Hypoxylon ferrugineum G.H. Otth, 1868
 
 ### Remarks
 null

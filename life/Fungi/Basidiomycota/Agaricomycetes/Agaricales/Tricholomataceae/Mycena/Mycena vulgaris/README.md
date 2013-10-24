@@ -1,5 +1,4 @@
-Mycena vulgaris (Pers. Fr.) P. Kumm. SPECIES
-=======
+# Mycena vulgaris (Pers. Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

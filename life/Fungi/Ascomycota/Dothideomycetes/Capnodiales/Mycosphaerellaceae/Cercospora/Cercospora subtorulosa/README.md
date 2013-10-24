@@ -1,5 +1,4 @@
-Cercospora subtorulosa Syd. {?} SPECIES
-=======
+# Cercospora subtorulosa Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

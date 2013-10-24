@@ -1,5 +1,4 @@
-Cylindrosporium excipuliforme Vassiljevsky SPECIES
-=======
+# Cylindrosporium excipuliforme Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

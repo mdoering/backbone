@@ -1,5 +1,4 @@
-Chaetoceros coronatus Gran, 1897 SPECIES
-=======
+# Chaetoceros coronatus Gran, 1897 SPECIES
 
 #### Status
 ACCEPTED

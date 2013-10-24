@@ -1,5 +1,4 @@
-Stenocybe mildeana (Arnold) Jatta SPECIES
-=======
+# Stenocybe mildeana (Arnold) Jatta SPECIES
 
 #### Status
 ACCEPTED

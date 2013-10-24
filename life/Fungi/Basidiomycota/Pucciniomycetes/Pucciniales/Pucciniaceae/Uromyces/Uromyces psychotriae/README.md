@@ -1,5 +1,4 @@
-Uromyces psychotriae Henn. SPECIES
-=======
+# Uromyces psychotriae Henn. SPECIES
 
 #### Status
 ACCEPTED

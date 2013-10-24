@@ -1,5 +1,4 @@
-Pseudocercospora compacta (Berk. & M.A. Curtis) M.B. Ellis SPECIES
-=======
+# Pseudocercospora compacta (Berk. & M.A. Curtis) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

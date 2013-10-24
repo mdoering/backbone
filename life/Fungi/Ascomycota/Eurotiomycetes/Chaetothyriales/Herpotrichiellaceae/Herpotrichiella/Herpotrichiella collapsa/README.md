@@ -1,5 +1,4 @@
-Herpotrichiella collapsa Math. SPECIES
-=======
+# Herpotrichiella collapsa Math. SPECIES
 
 #### Status
 ACCEPTED

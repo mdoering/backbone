@@ -1,5 +1,4 @@
-Psilocybe cordispora R. Heim SPECIES
-=======
+# Psilocybe cordispora R. Heim SPECIES
 
 #### Status
 ACCEPTED

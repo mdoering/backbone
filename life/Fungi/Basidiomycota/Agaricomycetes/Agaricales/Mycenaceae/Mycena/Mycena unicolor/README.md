@@ -1,5 +1,4 @@
-Mycena unicolor Rick SPECIES
-=======
+# Mycena unicolor Rick SPECIES
 
 #### Status
 ACCEPTED

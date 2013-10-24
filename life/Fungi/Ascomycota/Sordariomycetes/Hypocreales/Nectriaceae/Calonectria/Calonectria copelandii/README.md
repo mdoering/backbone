@@ -1,8 +1,7 @@
-Calonectria copelandi Henn. SPECIES
-=======
+# Calonectria copelandii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calonectria copelandi Henn.
+Calonectria copelandii Henn.
 
 ### Remarks
 null

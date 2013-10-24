@@ -1,5 +1,4 @@
-Buellia bouvetii Øvstedal SPECIES
-=======
+# Buellia bouvetii Øvstedal SPECIES
 
 #### Status
 ACCEPTED

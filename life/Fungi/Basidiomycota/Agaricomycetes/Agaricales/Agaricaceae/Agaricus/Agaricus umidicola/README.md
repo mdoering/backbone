@@ -1,5 +1,4 @@
-Agaricus umidicola Kauffman SPECIES
-=======
+# Agaricus umidicola Kauffman SPECIES
 
 #### Status
 ACCEPTED

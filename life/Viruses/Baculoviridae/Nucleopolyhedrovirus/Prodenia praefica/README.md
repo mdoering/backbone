@@ -1,5 +1,4 @@
-Prodenia praefica Npv SPECIES
-=======
+# Prodenia praefica Npv SPECIES
 
 #### Status
 ACCEPTED

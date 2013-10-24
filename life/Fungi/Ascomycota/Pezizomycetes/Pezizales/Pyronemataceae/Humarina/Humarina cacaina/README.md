@@ -1,5 +1,4 @@
-Humarina cacaina K.S. Thind, E.K. Cash & Sethi {?} SPECIES
-=======
+# Humarina cacaina K.S. Thind, E.K. Cash & Sethi {?} SPECIES
 
 #### Status
 ACCEPTED

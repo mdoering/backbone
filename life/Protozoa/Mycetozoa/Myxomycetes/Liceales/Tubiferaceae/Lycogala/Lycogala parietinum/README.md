@@ -1,5 +1,4 @@
-Lycogala parietinum Fr. SPECIES
-=======
+# Lycogala parietinum Fr. SPECIES
 
 #### Status
 ACCEPTED

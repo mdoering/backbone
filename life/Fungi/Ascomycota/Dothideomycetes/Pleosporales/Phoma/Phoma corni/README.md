@@ -1,5 +1,4 @@
-Phoma corni Sacc. SPECIES
-=======
+# Phoma corni Sacc. SPECIES
 
 #### Status
 ACCEPTED

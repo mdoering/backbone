@@ -1,5 +1,4 @@
-Corticium cinerascens Berk. SPECIES
-=======
+# Corticium cinerascens Berk. SPECIES
 
 #### Status
 ACCEPTED

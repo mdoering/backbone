@@ -1,5 +1,4 @@
-Septoria adonidis Christoff & Christova SPECIES
-=======
+# Septoria adonidis Christoff & Christova SPECIES
 
 #### Status
 ACCEPTED

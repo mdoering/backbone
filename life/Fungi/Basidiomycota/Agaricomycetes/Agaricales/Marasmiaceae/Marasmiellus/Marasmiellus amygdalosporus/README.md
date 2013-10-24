@@ -1,5 +1,4 @@
-Marasmiellus amygdalosporus Pegler SPECIES
-=======
+# Marasmiellus amygdalosporus Pegler SPECIES
 
 #### Status
 ACCEPTED

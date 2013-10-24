@@ -1,5 +1,4 @@
-Amandinea subduplicata (Vain.) Marbach SPECIES
-=======
+# Amandinea subduplicata (Vain.) Marbach SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella cerebriformis Chee J. Chen SPECIES
-=======
+# Tremella cerebriformis Chee J. Chen SPECIES
 
 #### Status
 ACCEPTED

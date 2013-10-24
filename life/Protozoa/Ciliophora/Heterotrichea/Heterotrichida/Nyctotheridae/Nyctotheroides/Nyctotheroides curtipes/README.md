@@ -1,5 +1,4 @@
-Nyctotheroides curtipes (Uttangi, 1958) ? SPECIES
-=======
+# Nyctotheroides curtipes (Uttangi, 1958) ? SPECIES
 
 #### Status
 ACCEPTED

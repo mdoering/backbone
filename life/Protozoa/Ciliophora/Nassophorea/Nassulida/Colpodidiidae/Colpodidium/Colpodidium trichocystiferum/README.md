@@ -1,5 +1,4 @@
-Colpodidium trichocystiferum Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Colpodidium trichocystiferum Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

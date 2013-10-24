@@ -1,17 +1,16 @@
-Coleosporium choerospondiatis Y.C. Wang & J.Y. Zhuang SPECIES
-=======
+# Coleosporium choerospondiadis Y.C. Wang & J.Y. Zhuang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Wang, Zhuang & Li, Acta Mycol. Sin. 2(1): 4 (1983)
 
 #### Original name
-Coleosporium choerospondiatis Y.C. Wang & J.Y. Zhuang
+Coleosporium choerospondiadis Y.C. Wang & J.Y. Zhuang
 
 ### Remarks
 null

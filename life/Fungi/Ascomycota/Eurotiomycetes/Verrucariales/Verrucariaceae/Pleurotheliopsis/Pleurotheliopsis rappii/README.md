@@ -1,5 +1,4 @@
-Pleurotheliopsis rappii Zahlbr. SPECIES
-=======
+# Pleurotheliopsis rappii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

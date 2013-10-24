@@ -1,5 +1,4 @@
-Cyphella alboflavida Bres. SPECIES
-=======
+# Cyphella alboflavida Bres. SPECIES
 
 #### Status
 ACCEPTED

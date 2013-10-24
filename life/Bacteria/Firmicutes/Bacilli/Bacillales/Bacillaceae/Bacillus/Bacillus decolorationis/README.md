@@ -1,5 +1,4 @@
-Bacillus decolorationis Heyrman et al., 2003 SPECIES
-=======
+# Bacillus decolorationis Heyrman et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

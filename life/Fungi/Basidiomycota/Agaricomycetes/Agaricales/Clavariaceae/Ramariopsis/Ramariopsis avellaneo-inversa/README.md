@@ -1,5 +1,4 @@
-Ramariopsis avellaneo-inversa R.H. Petersen, 1988 SPECIES
-=======
+# Ramariopsis avellaneo-inversa R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

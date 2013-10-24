@@ -1,5 +1,4 @@
-Anaptychia squamulosa Degel. SPECIES
-=======
+# Anaptychia squamulosa Degel. SPECIES
 
 #### Status
 ACCEPTED

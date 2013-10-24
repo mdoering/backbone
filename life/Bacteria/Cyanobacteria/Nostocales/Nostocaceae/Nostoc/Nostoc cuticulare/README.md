@@ -1,5 +1,4 @@
-Nostoc cuticulare (Brébisson) Bornet & Flahault SPECIES
-=======
+# Nostoc cuticulare (Brébisson) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anfractus youngii SPECIES
-=======
+# Anfractus youngii SPECIES
 
 #### Status
 ACCEPTED

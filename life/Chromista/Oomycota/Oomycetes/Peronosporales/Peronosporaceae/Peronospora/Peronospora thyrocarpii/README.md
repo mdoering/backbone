@@ -1,5 +1,4 @@
-Peronospora thyrocarpii L. Ling & M.C. Tai SPECIES
-=======
+# Peronospora thyrocarpii L. Ling & M.C. Tai SPECIES
 
 #### Status
 ACCEPTED

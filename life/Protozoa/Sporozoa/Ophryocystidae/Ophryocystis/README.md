@@ -1,5 +1,4 @@
-Ophryocystis Schneider, 1883 GENUS
-=======
+# Ophryocystis Schneider, 1883 GENUS
 
 #### Status
 ACCEPTED

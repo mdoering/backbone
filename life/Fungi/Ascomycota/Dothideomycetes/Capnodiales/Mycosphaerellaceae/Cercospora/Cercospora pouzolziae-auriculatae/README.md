@@ -1,5 +1,4 @@
-Cercospora pouzolziae-auriculatae Bagyan., U. Braun & Jagad. SPECIES
-=======
+# Cercospora pouzolziae-auriculatae Bagyan., U. Braun & Jagad. SPECIES
 
 #### Status
 ACCEPTED

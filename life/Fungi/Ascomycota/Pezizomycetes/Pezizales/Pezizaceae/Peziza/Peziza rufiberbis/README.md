@@ -1,5 +1,4 @@
-Peziza rufiberbis Schwein. SPECIES
-=======
+# Peziza rufiberbis Schwein. SPECIES
 
 #### Status
 ACCEPTED

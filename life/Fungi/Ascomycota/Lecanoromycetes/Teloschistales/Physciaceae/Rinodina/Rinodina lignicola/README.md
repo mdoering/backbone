@@ -1,5 +1,4 @@
-Rinodina lignicola Sheard SPECIES
-=======
+# Rinodina lignicola Sheard SPECIES
 
 #### Status
 ACCEPTED

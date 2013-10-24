@@ -1,5 +1,4 @@
-Palawaniella nectandrae Arx, 1960 SPECIES
-=======
+# Palawaniella nectandrae Arx, 1960 SPECIES
 
 #### Status
 ACCEPTED

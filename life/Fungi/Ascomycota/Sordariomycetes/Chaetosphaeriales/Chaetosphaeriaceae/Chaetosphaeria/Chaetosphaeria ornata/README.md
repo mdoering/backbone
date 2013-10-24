@@ -1,5 +1,4 @@
-Chaetosphaeria ornata Harkn. SPECIES
-=======
+# Chaetosphaeria ornata Harkn. SPECIES
 
 #### Status
 ACCEPTED

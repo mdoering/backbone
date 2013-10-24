@@ -1,5 +1,4 @@
-Mahanteshamyces agrostistachydis Hosag. & C.K. Biju, 2004 SPECIES
-=======
+# Mahanteshamyces agrostistachydis Hosag. & C.K. Biju, 2004 SPECIES
 
 #### Status
 ACCEPTED

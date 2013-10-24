@@ -1,5 +1,4 @@
-Boletus cyaneus Pers. SPECIES
-=======
+# Boletus cyaneus Pers. SPECIES
 
 #### Status
 ACCEPTED

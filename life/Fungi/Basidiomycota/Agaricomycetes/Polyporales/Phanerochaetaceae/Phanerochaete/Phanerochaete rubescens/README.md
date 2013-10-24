@@ -1,5 +1,4 @@
-Phanerochaete rubescens Sheng H. Wu SPECIES
-=======
+# Phanerochaete rubescens Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

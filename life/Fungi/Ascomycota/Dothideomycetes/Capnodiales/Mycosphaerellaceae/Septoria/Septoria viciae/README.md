@@ -1,17 +1,16 @@
-Septoria viciae f. viciae FORM
-=======
+# Septoria viciae (Lib.) Westend., 1857 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Herb. crypt. Belg. no. 1151 (1857)
 
 #### Original name
-Septoria viciae f. viciae
+Septoria viciae (Lib.) Westend., 1857
 
 ### Remarks
 null

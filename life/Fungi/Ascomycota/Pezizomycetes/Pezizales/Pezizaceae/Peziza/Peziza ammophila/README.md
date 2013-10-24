@@ -1,5 +1,4 @@
-Peziza ammophila Durieu & Mont., 1847 SPECIES
-=======
+# Peziza ammophila Durieu & Mont., 1847 SPECIES
 
 #### Status
 ACCEPTED

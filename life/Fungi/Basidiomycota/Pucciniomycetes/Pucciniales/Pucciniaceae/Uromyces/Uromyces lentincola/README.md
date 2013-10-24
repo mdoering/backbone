@@ -1,5 +1,4 @@
-Uromyces lentincola Petr. SPECIES
-=======
+# Uromyces lentincola Petr. SPECIES
 
 #### Status
 ACCEPTED

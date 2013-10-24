@@ -1,5 +1,4 @@
-Oospora uredinicola C. Massal. SPECIES
-=======
+# Oospora uredinicola C. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporulum nandinae (Tassi) Tassi SPECIES
-=======
+# Camarosporulum nandinae (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

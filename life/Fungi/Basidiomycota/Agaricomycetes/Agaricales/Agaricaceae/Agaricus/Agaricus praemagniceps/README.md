@@ -1,5 +1,4 @@
-Agaricus praemagniceps Murrill SPECIES
-=======
+# Agaricus praemagniceps Murrill SPECIES
 
 #### Status
 ACCEPTED

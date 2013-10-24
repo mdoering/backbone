@@ -1,5 +1,4 @@
-Podospora dolichopodalis J.H. Mirza & Cain, 1970 SPECIES
-=======
+# Podospora dolichopodalis J.H. Mirza & Cain, 1970 SPECIES
 
 #### Status
 ACCEPTED

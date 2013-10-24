@@ -1,5 +1,4 @@
-Hysterium osmundae Schwein. SPECIES
-=======
+# Hysterium osmundae Schwein. SPECIES
 
 #### Status
 ACCEPTED

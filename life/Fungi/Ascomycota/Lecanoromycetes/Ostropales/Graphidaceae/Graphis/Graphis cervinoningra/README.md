@@ -1,5 +1,4 @@
-Graphis cervinoningra Zahlbruckner SPECIES
-=======
+# Graphis cervinoningra Zahlbruckner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius lindgrenii Fr. SPECIES
-=======
+# Cortinarius lindgrenii Fr. SPECIES
 
 #### Status
 ACCEPTED

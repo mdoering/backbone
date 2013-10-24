@@ -1,5 +1,4 @@
-Gomontiella subtubulosa Teodoresco SPECIES
-=======
+# Gomontiella subtubulosa Teodoresco SPECIES
 
 #### Status
 ACCEPTED

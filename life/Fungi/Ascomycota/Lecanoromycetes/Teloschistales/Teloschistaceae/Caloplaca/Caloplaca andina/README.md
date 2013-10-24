@@ -1,5 +1,4 @@
-Caloplaca andina (Räsänen) Scutari, Søchting & Rosato SPECIES
-=======
+# Caloplaca andina (Räsänen) Scutari, Søchting & Rosato SPECIES
 
 #### Status
 ACCEPTED

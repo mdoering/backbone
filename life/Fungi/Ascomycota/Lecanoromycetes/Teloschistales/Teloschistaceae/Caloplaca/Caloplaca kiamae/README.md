@@ -1,5 +1,4 @@
-Caloplaca kiamae S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca kiamae S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

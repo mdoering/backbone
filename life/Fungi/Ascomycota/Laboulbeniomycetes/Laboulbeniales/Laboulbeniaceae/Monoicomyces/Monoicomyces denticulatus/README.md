@@ -1,5 +1,4 @@
-Monoicomyces denticulatus Thaxt. SPECIES
-=======
+# Monoicomyces denticulatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palaeomycites acinus (S.K. Srivast.) Kalgutkar & Janson. SPECIES
-=======
+# Palaeomycites acinus (S.K. Srivast.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

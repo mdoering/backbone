@@ -1,5 +1,4 @@
-Corynecercospora V.K. Pal, Akhtar, N. Ahmad, Kamal & D.K. Agarwal GENUS
-=======
+# Corynecercospora V.K. Pal, Akhtar, N. Ahmad, Kamal & D.K. Agarwal GENUS
 
 #### Status
 ACCEPTED

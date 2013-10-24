@@ -1,5 +1,4 @@
-Hohenbuehelia minutissima Corner, 1994 SPECIES
-=======
+# Hohenbuehelia minutissima Corner, 1994 SPECIES
 
 #### Status
 ACCEPTED

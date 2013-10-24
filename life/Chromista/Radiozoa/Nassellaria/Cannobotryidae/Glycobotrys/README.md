@@ -1,5 +1,4 @@
-Glycobotrys Campbell, 1951 GENUS
-=======
+# Glycobotrys Campbell, 1951 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Corticium filium subsp. filium SUBSPECIES
-=======
+# Corticium filium SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Annls mycol. 6(1): 43 (1908)
+null
 
 #### Original name
-Corticium filium subsp. filium
+null
 
 ### Remarks
 null

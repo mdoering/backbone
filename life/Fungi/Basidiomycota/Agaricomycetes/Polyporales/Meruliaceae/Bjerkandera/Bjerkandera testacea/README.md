@@ -1,5 +1,4 @@
-Bjerkandera testacea (Fr.) P. Karst. SPECIES
-=======
+# Bjerkandera testacea (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

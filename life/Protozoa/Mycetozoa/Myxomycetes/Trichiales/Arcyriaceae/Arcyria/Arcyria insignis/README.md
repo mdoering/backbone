@@ -1,17 +1,16 @@
-Arcyria insignis var. dispersa Hagelst. VARIETY
-=======
+# Arcyria insignis Kalchbr. & Cooke, 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 21(5): 298 (1929)
+Grevillea 10(no. 56): 143 (1882)
 
 #### Original name
-Arcyria insignis var. dispersa Hagelst.
+Arcyria insignis Kalchbr. & Cooke, 1882
 
 ### Remarks
 null

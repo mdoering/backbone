@@ -1,5 +1,4 @@
-Botryosporium hamatum var. hamatum VARIETY
-=======
+# Botryosporium hamatum Bonord. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Botryosporium hamatum var. hamatum
+Botryosporium hamatum Bonord.
 
 ### Remarks
 null

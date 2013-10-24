@@ -1,5 +1,4 @@
-Mycena dura Maas Geest. & Hauskn. SPECIES
-=======
+# Mycena dura Maas Geest. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

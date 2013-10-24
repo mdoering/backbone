@@ -1,5 +1,4 @@
-Leucoagaricus atroalbus P. Mohr & Dähncke SPECIES
-=======
+# Leucoagaricus atroalbus P. Mohr & Dähncke SPECIES
 
 #### Status
 ACCEPTED

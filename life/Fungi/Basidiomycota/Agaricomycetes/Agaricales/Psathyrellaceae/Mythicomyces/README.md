@@ -1,5 +1,4 @@
-Mythicomyces Redhead & A.H. Sm. GENUS
-=======
+# Mythicomyces Redhead & A.H. Sm. GENUS
 
 #### Status
 ACCEPTED

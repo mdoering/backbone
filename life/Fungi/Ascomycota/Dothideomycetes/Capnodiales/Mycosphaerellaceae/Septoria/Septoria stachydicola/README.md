@@ -1,5 +1,4 @@
-Septoria stachydicola Hollós SPECIES
-=======
+# Septoria stachydicola Hollós SPECIES
 
 #### Status
 ACCEPTED

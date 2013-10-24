@@ -1,5 +1,4 @@
-Diplodina claudeli Vouaux SPECIES
-=======
+# Diplodina claudeli Vouaux SPECIES
 
 #### Status
 ACCEPTED

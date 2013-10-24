@@ -1,5 +1,4 @@
-Phaeocyphella crouanii (Pat. & Doass.) Pat. SPECIES
-=======
+# Phaeocyphella crouanii (Pat. & Doass.) Pat. SPECIES
 
 #### Status
 ACCEPTED

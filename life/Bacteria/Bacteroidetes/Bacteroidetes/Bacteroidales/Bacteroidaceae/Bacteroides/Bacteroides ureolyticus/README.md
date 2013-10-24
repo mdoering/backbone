@@ -1,5 +1,4 @@
-Bacteroides ureolyticus Jackson and Goodman, 1978 (Approved Lists, 1980) SPECIES
-=======
+# Bacteroides ureolyticus Jackson and Goodman, 1978 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

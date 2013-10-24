@@ -1,5 +1,4 @@
-Stellinium comptum Wicander & Loeblich, 1977 SPECIES
-=======
+# Stellinium comptum Wicander & Loeblich, 1977 SPECIES
 
 #### Status
 ACCEPTED

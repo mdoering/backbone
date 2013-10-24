@@ -1,5 +1,4 @@
-Physalospora acaenae Henn. SPECIES
-=======
+# Physalospora acaenae Henn. SPECIES
 
 #### Status
 ACCEPTED

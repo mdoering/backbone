@@ -1,5 +1,4 @@
-Filaspora bouvardiae (Pass.) Kuntze SPECIES
-=======
+# Filaspora bouvardiae (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

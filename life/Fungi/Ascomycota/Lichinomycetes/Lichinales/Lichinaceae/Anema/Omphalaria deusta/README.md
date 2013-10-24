@@ -1,5 +1,4 @@
-Omphalaria deusta Tuck. SPECIES
-=======
+# Omphalaria deusta Tuck. SPECIES
 
 #### Status
 ACCEPTED

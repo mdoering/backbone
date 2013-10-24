@@ -1,5 +1,4 @@
-Sphaerella glaucescens Cooke SPECIES
-=======
+# Sphaerella glaucescens Cooke SPECIES
 
 #### Status
 ACCEPTED

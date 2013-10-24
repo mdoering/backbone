@@ -1,5 +1,4 @@
-Phyllosticta ixiolirii Kalymb. SPECIES
-=======
+# Phyllosticta ixiolirii Kalymb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma lamelliconfertum Cleland SPECIES
-=======
+# Hebeloma lamelliconfertum Cleland SPECIES
 
 #### Status
 ACCEPTED

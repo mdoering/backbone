@@ -1,5 +1,4 @@
-Hypocrea rufoalutacea Henn. SPECIES
-=======
+# Hypocrea rufoalutacea Henn. SPECIES
 
 #### Status
 ACCEPTED

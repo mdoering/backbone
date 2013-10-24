@@ -1,5 +1,4 @@
-Coccomyces sichuanensis Korf & W.Y. Zhuang, 1985 SPECIES
-=======
+# Coccomyces sichuanensis Korf & W.Y. Zhuang, 1985 SPECIES
 
 #### Status
 ACCEPTED

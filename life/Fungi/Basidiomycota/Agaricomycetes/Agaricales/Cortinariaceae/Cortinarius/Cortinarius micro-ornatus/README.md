@@ -1,5 +1,4 @@
-Cortinarius micro-ornatus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius micro-ornatus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

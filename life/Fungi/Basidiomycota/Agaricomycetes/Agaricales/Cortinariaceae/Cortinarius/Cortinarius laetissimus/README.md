@@ -1,5 +1,4 @@
-Cortinarius laetissimus Rob. Henry, 1957 SPECIES
-=======
+# Cortinarius laetissimus Rob. Henry, 1957 SPECIES
 
 #### Status
 ACCEPTED

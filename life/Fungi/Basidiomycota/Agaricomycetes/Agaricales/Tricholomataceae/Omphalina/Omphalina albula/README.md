@@ -1,5 +1,4 @@
-Omphalina albula Quél. SPECIES
-=======
+# Omphalina albula Quél. SPECIES
 
 #### Status
 ACCEPTED

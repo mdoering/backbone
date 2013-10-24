@@ -1,5 +1,4 @@
-Calicium sphaerocarpum Körb. SPECIES
-=======
+# Calicium sphaerocarpum Körb. SPECIES
 
 #### Status
 ACCEPTED

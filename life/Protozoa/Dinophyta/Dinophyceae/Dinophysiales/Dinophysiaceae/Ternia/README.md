@@ -1,5 +1,4 @@
-Ternia Helby & Stover, 1987 GENUS
-=======
+# Ternia Helby & Stover, 1987 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bicoecaceae FAMILY
-=======
+# Bicoecaceae FAMILY
 
 #### Status
 ACCEPTED

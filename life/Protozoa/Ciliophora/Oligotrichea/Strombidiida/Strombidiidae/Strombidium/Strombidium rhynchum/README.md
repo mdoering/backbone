@@ -1,5 +1,4 @@
-Strombidium rhynchum Lynn, Montagnes & Small, 1988 SPECIES
-=======
+# Strombidium rhynchum Lynn, Montagnes & Small, 1988 SPECIES
 
 #### Status
 ACCEPTED

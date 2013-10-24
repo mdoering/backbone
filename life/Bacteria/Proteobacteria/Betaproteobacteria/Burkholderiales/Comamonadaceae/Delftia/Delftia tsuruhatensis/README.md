@@ -1,5 +1,4 @@
-Delftia tsuruhatensis Shigematsu et al., 2003 SPECIES
-=======
+# Delftia tsuruhatensis Shigematsu et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

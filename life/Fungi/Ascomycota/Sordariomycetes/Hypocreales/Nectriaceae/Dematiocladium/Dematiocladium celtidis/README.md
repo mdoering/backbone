@@ -1,5 +1,4 @@
-Dematiocladium celtidis Allegr., Aramb., Cazau & Crous, 2005 SPECIES
-=======
+# Dematiocladium celtidis Allegr., Aramb., Cazau & Crous, 2005 SPECIES
 
 #### Status
 ACCEPTED

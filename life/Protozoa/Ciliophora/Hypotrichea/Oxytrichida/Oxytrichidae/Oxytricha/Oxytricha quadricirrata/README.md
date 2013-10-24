@@ -1,5 +1,4 @@
-Oxytricha quadricirrata Blatterer & Foissner, 1988 SPECIES
-=======
+# Oxytricha quadricirrata Blatterer & Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

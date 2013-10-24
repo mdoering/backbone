@@ -1,5 +1,4 @@
-Mollisia glenospora Ellis & Everh. SPECIES
-=======
+# Mollisia glenospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma veratrina Sacc. & Paol. SPECIES
-=======
+# Phoma veratrina Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

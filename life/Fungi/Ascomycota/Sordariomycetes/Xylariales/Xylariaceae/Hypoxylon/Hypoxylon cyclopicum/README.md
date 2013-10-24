@@ -1,5 +1,4 @@
-Hypoxylon cyclopicum Speg. SPECIES
-=======
+# Hypoxylon cyclopicum Speg. SPECIES
 
 #### Status
 ACCEPTED

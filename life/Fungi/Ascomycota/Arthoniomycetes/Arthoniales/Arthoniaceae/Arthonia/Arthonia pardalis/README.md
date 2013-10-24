@@ -1,5 +1,4 @@
-Arthonia pardalis F. Wilson SPECIES
-=======
+# Arthonia pardalis F. Wilson SPECIES
 
 #### Status
 ACCEPTED

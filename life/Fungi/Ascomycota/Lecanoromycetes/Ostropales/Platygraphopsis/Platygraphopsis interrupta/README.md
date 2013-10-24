@@ -1,14 +1,13 @@
-Platygrapha interrupta (Fée) Nyl. SPECIES
-=======
+# Platygraphopsis interrupta (Fée) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mém. Soc. Phys. Hist. nat. Genève 29(8): 15 (1887)
 
 #### Original name
 Graphis interrupta Fée

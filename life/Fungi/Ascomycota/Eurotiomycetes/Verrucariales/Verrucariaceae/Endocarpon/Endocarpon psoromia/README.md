@@ -1,5 +1,4 @@
-Endocarpon psoromia (Nyl.) Boistel SPECIES
-=======
+# Endocarpon psoromia (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Terana contracta (Fr.) Kuntze SPECIES
-=======
+# Terana contracta (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

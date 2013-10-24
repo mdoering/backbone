@@ -1,5 +1,4 @@
-Amphoridium rupestre A. Massal. SPECIES
-=======
+# Amphoridium rupestre A. Massal. SPECIES
 
 #### Status
 ACCEPTED

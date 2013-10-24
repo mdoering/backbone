@@ -1,5 +1,4 @@
-Coleophoma sandwicensis Petr. SPECIES
-=======
+# Coleophoma sandwicensis Petr. SPECIES
 
 #### Status
 ACCEPTED

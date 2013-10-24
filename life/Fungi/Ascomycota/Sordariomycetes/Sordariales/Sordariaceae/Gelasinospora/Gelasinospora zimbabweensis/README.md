@@ -1,5 +1,4 @@
-Gelasinospora zimbabweensis J.C. Krug SPECIES
-=======
+# Gelasinospora zimbabweensis J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

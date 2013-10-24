@@ -1,5 +1,4 @@
-Cercosporites Stopes, 1913 GENUS
-=======
+# Cercosporites Stopes, 1913 GENUS
 
 #### Status
 ACCEPTED

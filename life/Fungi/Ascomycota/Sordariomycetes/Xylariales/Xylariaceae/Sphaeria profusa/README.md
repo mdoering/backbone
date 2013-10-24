@@ -1,5 +1,4 @@
-Sphaeria profusa Sowerby SPECIES
-=======
+# Sphaeria profusa Sowerby SPECIES
 
 #### Status
 ACCEPTED

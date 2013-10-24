@@ -1,5 +1,4 @@
-Peridiniella sphaeroidea Kofoid & Michener, 1911 SPECIES
-=======
+# Peridiniella sphaeroidea Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

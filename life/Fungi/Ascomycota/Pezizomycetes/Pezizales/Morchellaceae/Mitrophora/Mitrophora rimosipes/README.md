@@ -1,5 +1,4 @@
-Mitrophora rimosipes (DC.) SPECIES
-=======
+# Mitrophora rimosipes (DC.) SPECIES
 
 #### Status
 ACCEPTED

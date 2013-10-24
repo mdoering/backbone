@@ -1,5 +1,4 @@
-Anaptychia hypoleuca var. hypoleuca VARIETY
-=======
+# Anaptychia hypoleuca SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 249 (1860)
+null
 
 #### Original name
-Anaptychia hypoleuca var. hypoleuca
+null
 
 ### Remarks
 null

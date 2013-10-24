@@ -1,5 +1,4 @@
-Sargassum johnstonii f. laxius Setchell & Gardner FORM
-=======
+# Sargassum johnstonii Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

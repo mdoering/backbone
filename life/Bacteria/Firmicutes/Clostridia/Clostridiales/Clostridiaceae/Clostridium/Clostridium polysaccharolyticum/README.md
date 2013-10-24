@@ -1,8 +1,7 @@
-Fusobacterium polysaccharolyticum van Gylswyk, 1981 SPECIES
-=======
+# Clostridium polysaccharolyticum (van Gylswyk, 1981) van Gylswyk et al., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

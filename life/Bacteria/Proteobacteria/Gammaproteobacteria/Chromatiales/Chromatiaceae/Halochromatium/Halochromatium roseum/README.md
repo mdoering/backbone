@@ -1,5 +1,4 @@
-Halochromatium roseum Anil Kumar, Srinivas, Sasikala & Ramana, 2007 SPECIES
-=======
+# Halochromatium roseum Anil Kumar, Srinivas, Sasikala & Ramana, 2007 SPECIES
 
 #### Status
 ACCEPTED

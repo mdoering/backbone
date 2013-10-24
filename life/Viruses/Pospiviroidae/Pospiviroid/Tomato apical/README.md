@@ -1,5 +1,4 @@
-Tomato apical SPECIES
-=======
+# Tomato apical SPECIES
 
 #### Status
 ACCEPTED

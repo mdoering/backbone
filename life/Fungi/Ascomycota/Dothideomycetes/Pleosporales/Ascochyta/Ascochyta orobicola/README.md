@@ -1,5 +1,4 @@
-Ascochyta orobicola Trusova SPECIES
-=======
+# Ascochyta orobicola Trusova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scenidium thollonis (Pat. & Har.) Kuntze SPECIES
-=======
+# Scenidium thollonis (Pat. & Har.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

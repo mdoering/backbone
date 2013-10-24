@@ -1,14 +1,13 @@
-Diplodina sandstedei Zopf SPECIES
-=======
+# Epicladonia sandstedei (Zopf) D. Hawksw., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sandstede, Abh. naturw. Ver. Bremen 18: 429 (1906)
+Bull. Br. Mus. nat. Hist. , Bot. 9(1): 16 (1981)
 
 #### Original name
 Diplodina sandstedei Zopf

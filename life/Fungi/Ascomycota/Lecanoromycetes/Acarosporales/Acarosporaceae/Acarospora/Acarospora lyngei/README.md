@@ -1,5 +1,4 @@
-Acarospora lyngei H. Magn. SPECIES
-=======
+# Acarospora lyngei H. Magn. SPECIES
 
 #### Status
 ACCEPTED

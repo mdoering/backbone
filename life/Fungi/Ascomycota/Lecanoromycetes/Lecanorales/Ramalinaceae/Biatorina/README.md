@@ -1,5 +1,4 @@
-Biatorina GENUS
-=======
+# Biatorina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gerhardtia highlandensis (Hesler & A.H. Sm.) Consiglio & Contu SPECIES
-=======
+# Gerhardtia highlandensis (Hesler & A.H. Sm.) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

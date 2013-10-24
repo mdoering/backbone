@@ -1,5 +1,4 @@
-Pleurocollybia paradoxa Singer SPECIES
-=======
+# Pleurocollybia paradoxa Singer SPECIES
 
 #### Status
 ACCEPTED

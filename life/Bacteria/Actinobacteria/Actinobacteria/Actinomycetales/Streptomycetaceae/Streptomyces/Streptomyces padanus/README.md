@@ -1,5 +1,4 @@
-Streptomyces padanus Baldacci E et al., 1968 SPECIES
-=======
+# Streptomyces padanus Baldacci E et al., 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus taeniatimpictus E.H.L. Krause SPECIES
-=======
+# Agaricus taeniatimpictus E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasmenia pulchella Speg. SPECIES
-=======
+# Lasmenia pulchella Speg. SPECIES
 
 #### Status
 ACCEPTED

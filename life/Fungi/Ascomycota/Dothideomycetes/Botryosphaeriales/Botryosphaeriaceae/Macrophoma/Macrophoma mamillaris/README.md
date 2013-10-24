@@ -1,5 +1,4 @@
-Macrophoma mamillaris (Berk. & M.A. Curtis) Tassi SPECIES
-=======
+# Macrophoma mamillaris (Berk. & M.A. Curtis) Tassi SPECIES
 
 #### Status
 ACCEPTED

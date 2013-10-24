@@ -1,5 +1,4 @@
-Dicaeoma farinaceum (Long) Arthur SPECIES
-=======
+# Dicaeoma farinaceum (Long) Arthur SPECIES
 
 #### Status
 ACCEPTED

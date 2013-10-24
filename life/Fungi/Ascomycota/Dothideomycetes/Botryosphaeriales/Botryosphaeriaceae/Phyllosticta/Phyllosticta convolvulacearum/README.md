@@ -1,5 +1,4 @@
-Phyllosticta convolvulacearum (Lacy & Thirum.) Khune SPECIES
-=======
+# Phyllosticta convolvulacearum (Lacy & Thirum.) Khune SPECIES
 
 #### Status
 ACCEPTED

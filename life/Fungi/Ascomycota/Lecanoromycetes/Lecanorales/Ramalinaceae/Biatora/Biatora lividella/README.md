@@ -1,5 +1,4 @@
-Biatora lividella Arnold SPECIES
-=======
+# Biatora lividella Arnold SPECIES
 
 #### Status
 ACCEPTED

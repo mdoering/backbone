@@ -1,5 +1,4 @@
-Marasmiellus thaxteri Singer SPECIES
-=======
+# Marasmiellus thaxteri Singer SPECIES
 
 #### Status
 ACCEPTED

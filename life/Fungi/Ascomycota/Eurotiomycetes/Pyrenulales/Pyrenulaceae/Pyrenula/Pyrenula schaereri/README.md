@@ -1,5 +1,4 @@
-Pyrenula schaereri A. Massal. SPECIES
-=======
+# Pyrenula schaereri A. Massal. SPECIES
 
 #### Status
 ACCEPTED

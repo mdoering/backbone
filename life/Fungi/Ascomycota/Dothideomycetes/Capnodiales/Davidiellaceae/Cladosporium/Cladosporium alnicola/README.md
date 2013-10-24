@@ -1,5 +1,4 @@
-Cladosporium alnicola Corda SPECIES
-=======
+# Cladosporium alnicola Corda SPECIES
 
 #### Status
 ACCEPTED

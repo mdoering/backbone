@@ -1,8 +1,7 @@
-Calyptrolithina gaarderae (Borsetti & Cati) Norris SPECIES
-=======
+# Poricalyptra gaarderae (A. M. Borsetti & F. Cati) A. Kleijne SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Lillicoa thaxteri Sherwood SPECIES
-=======
+# Lillicoa thaxteri Sherwood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ainsworthia roraimensis Bat. & Cavalc. SPECIES
-=======
+# Ainsworthia roraimensis Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

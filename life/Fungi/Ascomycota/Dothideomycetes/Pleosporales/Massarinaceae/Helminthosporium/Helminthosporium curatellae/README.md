@@ -1,5 +1,4 @@
-Helminthosporium curatellae (Syd.) Chupp SPECIES
-=======
+# Helminthosporium curatellae (Syd.) Chupp SPECIES
 
 #### Status
 ACCEPTED

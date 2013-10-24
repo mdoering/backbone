@@ -1,5 +1,4 @@
-Lactarius javanicus Verbeken & E. Horak SPECIES
-=======
+# Lactarius javanicus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zahlbrucknerella africana Henssen SPECIES
-=======
+# Zahlbrucknerella africana Henssen SPECIES
 
 #### Status
 ACCEPTED

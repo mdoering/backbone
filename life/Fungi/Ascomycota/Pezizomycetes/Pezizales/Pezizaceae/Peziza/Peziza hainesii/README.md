@@ -1,5 +1,4 @@
-Peziza hainesii Ellis SPECIES
-=======
+# Peziza hainesii Ellis SPECIES
 
 #### Status
 ACCEPTED

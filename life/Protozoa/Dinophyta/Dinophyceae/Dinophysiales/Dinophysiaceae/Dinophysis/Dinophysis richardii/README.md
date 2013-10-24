@@ -1,5 +1,4 @@
-Dinophysis richardii (Pavillard, 1934) Balech, 1967 SPECIES
-=======
+# Dinophysis richardii (Pavillard, 1934) Balech, 1967 SPECIES
 
 #### Status
 ACCEPTED

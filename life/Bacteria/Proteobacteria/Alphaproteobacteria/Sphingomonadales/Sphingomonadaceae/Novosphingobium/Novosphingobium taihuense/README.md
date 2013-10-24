@@ -1,5 +1,4 @@
-Novosphingobium taihuense Liu et al., 2005 SPECIES
-=======
+# Novosphingobium taihuense Liu et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

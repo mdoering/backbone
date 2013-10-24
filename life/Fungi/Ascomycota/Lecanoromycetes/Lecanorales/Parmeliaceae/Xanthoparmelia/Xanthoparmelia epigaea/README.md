@@ -1,5 +1,4 @@
-Xanthoparmelia epigaea Hale SPECIES
-=======
+# Xanthoparmelia epigaea Hale SPECIES
 
 #### Status
 ACCEPTED

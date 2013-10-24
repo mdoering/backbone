@@ -1,5 +1,4 @@
-Vaucheria walzii Rothert SPECIES
-=======
+# Vaucheria walzii Rothert SPECIES
 
 #### Status
 ACCEPTED

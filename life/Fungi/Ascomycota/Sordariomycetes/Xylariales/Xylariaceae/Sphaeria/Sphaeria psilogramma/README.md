@@ -1,5 +1,4 @@
-Sphaeria psilogramma Durieu & Mont. SPECIES
-=======
+# Sphaeria psilogramma Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

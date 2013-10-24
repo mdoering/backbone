@@ -1,17 +1,16 @@
-Russula densifolia f. densifolia FORM
-=======
+# Russula densifolia Secr. ex Gillet, 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hyménomycètes (Alençon) 231 (1876)
 
 #### Original name
-Russula densifolia f. densifolia
+Russula densifolia Secr. ex Gillet, 1876
 
 ### Remarks
 null

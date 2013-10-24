@@ -1,5 +1,4 @@
-Harpographium rhizomorpharum (Mont.) Sacc. SPECIES
-=======
+# Harpographium rhizomorpharum (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

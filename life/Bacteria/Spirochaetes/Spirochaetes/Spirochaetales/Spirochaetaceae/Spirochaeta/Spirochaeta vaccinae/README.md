@@ -1,5 +1,4 @@
-Spirochaeta vaccinae SPECIES
-=======
+# Spirochaeta vaccinae SPECIES
 
 #### Status
 ACCEPTED

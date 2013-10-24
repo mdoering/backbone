@@ -1,17 +1,16 @@
-Phomopsis magnolina C.Q. Chang, Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Phomopsis magnoliina C.Q. Chang, Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycosystema 24(2): 149 (2005)
 
 #### Original name
-Phomopsis magnolina C.Q. Chang, Z.D. Jiang & P.K. Chi
+Phomopsis magnoliina C.Q. Chang, Z.D. Jiang & P.K. Chi
 
 ### Remarks
 null

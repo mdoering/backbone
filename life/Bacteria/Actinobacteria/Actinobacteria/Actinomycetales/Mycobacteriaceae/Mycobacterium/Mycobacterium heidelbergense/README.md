@@ -1,5 +1,4 @@
-Mycobacterium heidelbergense Haas et al., 1998 SPECIES
-=======
+# Mycobacterium heidelbergense Haas et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

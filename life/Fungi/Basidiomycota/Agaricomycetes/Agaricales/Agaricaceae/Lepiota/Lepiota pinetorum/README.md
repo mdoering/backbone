@@ -1,5 +1,4 @@
-Lepiota pinetorum (Gillet) Maire SPECIES
-=======
+# Lepiota pinetorum (Gillet) Maire SPECIES
 
 #### Status
 ACCEPTED

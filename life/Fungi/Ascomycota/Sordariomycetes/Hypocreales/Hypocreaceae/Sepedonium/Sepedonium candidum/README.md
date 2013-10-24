@@ -1,5 +1,4 @@
-Sepedonium candidum Peyronel SPECIES
-=======
+# Sepedonium candidum Peyronel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatochroma kryptoviolascens Marbach SPECIES
-=======
+# Stigmatochroma kryptoviolascens Marbach SPECIES
 
 #### Status
 ACCEPTED

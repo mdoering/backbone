@@ -1,5 +1,4 @@
-Sphaerella lycopodii Peck SPECIES
-=======
+# Sphaerella lycopodii Peck SPECIES
 
 #### Status
 ACCEPTED

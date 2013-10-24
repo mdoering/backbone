@@ -1,5 +1,4 @@
-Nitrospina gracilis Watson and Waterbury, 1971 (Approved Lists, 1980) SPECIES
-=======
+# Nitrospina gracilis Watson and Waterbury, 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

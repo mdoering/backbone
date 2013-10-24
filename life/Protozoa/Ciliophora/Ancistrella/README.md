@@ -1,5 +1,4 @@
-Ancistrella Chejsin, 1930 GENUS
-=======
+# Ancistrella Chejsin, 1930 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia sarmenti Pass. SPECIES
-=======
+# Pestalotia sarmenti Pass. SPECIES
 
 #### Status
 ACCEPTED

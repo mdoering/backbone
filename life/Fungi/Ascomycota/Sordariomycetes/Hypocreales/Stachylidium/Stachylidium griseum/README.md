@@ -1,5 +1,4 @@
-Stachylidium griseum Berl. SPECIES
-=======
+# Stachylidium griseum Berl. SPECIES
 
 #### Status
 ACCEPTED

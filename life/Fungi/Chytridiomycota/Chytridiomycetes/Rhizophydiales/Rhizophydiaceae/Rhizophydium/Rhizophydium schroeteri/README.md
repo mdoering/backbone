@@ -1,5 +1,4 @@
-Rhizophydium schroeteri De Wild. SPECIES
-=======
+# Rhizophydium schroeteri De Wild. SPECIES
 
 #### Status
 ACCEPTED

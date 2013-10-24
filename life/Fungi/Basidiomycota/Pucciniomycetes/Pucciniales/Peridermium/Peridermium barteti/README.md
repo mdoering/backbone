@@ -1,5 +1,4 @@
-Peridermium barteti Vuill. SPECIES
-=======
+# Peridermium barteti Vuill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calicium stereocarpum Norman SPECIES
-=======
+# Calicium stereocarpum Norman SPECIES
 
 #### Status
 ACCEPTED

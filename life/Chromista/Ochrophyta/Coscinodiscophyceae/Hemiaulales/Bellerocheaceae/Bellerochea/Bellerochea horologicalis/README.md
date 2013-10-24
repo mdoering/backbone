@@ -1,5 +1,4 @@
-Bellerochea horologicalis von Stosch, 1980 SPECIES
-=======
+# Bellerochea horologicalis von Stosch, 1980 SPECIES
 
 #### Status
 ACCEPTED

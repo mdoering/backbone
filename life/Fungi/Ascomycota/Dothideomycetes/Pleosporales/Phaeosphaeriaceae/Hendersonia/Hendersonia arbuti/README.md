@@ -1,5 +1,4 @@
-Hendersonia arbuti Politis SPECIES
-=======
+# Hendersonia arbuti Politis SPECIES
 
 #### Status
 ACCEPTED

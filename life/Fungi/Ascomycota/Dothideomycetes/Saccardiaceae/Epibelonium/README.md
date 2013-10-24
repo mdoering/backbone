@@ -1,5 +1,4 @@
-Epibelonium E. Müll. GENUS
-=======
+# Epibelonium E. Müll. GENUS
 
 #### Status
 ACCEPTED

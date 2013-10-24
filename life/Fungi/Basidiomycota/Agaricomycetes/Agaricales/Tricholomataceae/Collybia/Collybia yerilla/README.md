@@ -1,5 +1,4 @@
-Collybia yerilla Grgur. SPECIES
-=======
+# Collybia yerilla Grgur. SPECIES
 
 #### Status
 ACCEPTED

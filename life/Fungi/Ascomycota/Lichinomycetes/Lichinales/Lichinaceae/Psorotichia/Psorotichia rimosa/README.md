@@ -1,5 +1,4 @@
-Psorotichia rimosa Henssen SPECIES
-=======
+# Psorotichia rimosa Henssen SPECIES
 
 #### Status
 ACCEPTED

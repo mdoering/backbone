@@ -1,5 +1,4 @@
-Caloplaca rubeola (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca rubeola (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

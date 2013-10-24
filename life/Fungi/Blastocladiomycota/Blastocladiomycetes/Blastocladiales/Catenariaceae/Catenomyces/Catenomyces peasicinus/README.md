@@ -1,5 +1,4 @@
-Catenomyces peasicinus A.M. Hanson SPECIES
-=======
+# Catenomyces peasicinus A.M. Hanson SPECIES
 
 #### Status
 ACCEPTED

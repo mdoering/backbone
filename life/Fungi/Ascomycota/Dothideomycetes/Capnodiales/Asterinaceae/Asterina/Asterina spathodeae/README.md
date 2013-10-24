@@ -1,5 +1,4 @@
-Asterina spathodeae Hansf. SPECIES
-=======
+# Asterina spathodeae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus flaschentraegeri Stolk, 1964 SPECIES
-=======
+# Aspergillus flaschentraegeri Stolk, 1964 SPECIES
 
 #### Status
 ACCEPTED

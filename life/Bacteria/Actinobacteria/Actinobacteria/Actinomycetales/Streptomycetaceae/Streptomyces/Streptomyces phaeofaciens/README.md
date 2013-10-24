@@ -1,5 +1,4 @@
-Streptomyces phaeofaciens Maeda et al., 1952 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces phaeofaciens Maeda et al., 1952 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

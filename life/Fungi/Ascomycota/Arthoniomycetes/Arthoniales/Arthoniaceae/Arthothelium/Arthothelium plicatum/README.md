@@ -1,5 +1,4 @@
-Arthothelium plicatum Makhija & Patw. SPECIES
-=======
+# Arthothelium plicatum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

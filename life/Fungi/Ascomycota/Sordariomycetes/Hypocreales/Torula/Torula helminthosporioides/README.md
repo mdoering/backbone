@@ -1,5 +1,4 @@
-Torula helminthosporioides Roum. & Pat. SPECIES
-=======
+# Torula helminthosporioides Roum. & Pat. SPECIES
 
 #### Status
 ACCEPTED

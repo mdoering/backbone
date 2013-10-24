@@ -1,5 +1,4 @@
-Endocarpon sinense H. Magn. SPECIES
-=======
+# Endocarpon sinense H. Magn. SPECIES
 
 #### Status
 ACCEPTED

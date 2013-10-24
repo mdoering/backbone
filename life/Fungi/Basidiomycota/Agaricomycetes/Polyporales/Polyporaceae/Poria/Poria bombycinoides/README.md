@@ -1,5 +1,4 @@
-Poria bombycinoides P. Karst. SPECIES
-=======
+# Poria bombycinoides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

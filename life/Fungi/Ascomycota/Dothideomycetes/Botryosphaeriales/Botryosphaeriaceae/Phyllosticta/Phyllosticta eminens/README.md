@@ -1,5 +1,4 @@
-Phyllosticta eminens H.C. Greene SPECIES
-=======
+# Phyllosticta eminens H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

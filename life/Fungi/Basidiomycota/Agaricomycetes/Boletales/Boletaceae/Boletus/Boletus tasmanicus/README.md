@@ -1,5 +1,4 @@
-Boletus tasmanicus Hongo & A.K. Mills SPECIES
-=======
+# Boletus tasmanicus Hongo & A.K. Mills SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium platycodonis Z.Y. Zhang & H. Zhang, 2000 SPECIES
-=======
+# Cladosporium platycodonis Z.Y. Zhang & H. Zhang, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bilimbia artytoides Riddle SPECIES
-=======
+# Bilimbia artytoides Riddle SPECIES
 
 #### Status
 ACCEPTED

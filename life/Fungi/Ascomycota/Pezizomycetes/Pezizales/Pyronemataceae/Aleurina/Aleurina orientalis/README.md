@@ -1,5 +1,4 @@
-Aleurina orientalis (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Aleurina orientalis (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

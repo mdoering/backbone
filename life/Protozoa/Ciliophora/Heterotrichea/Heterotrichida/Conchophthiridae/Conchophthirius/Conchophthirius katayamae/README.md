@@ -1,5 +1,4 @@
-Conchophthirius katayamae SPECIES
-=======
+# Conchophthirius katayamae SPECIES
 
 #### Status
 ACCEPTED

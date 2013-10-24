@@ -1,5 +1,4 @@
-Svratkina Pokorny, 1956 GENUS
-=======
+# Svratkina Pokorny, 1956 GENUS
 
 #### Status
 ACCEPTED

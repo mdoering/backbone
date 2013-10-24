@@ -1,8 +1,7 @@
-Cyclogramma blochmanni Faure-Fremiet, 1967 SPECIES
-=======
+# Furgasonia blochmanni (Faure-Fremiet, 1967) Jankowski, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Hypocrella citrina Speg. SPECIES
-=======
+# Hypocrella citrina Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces desmodiicola var. desmodiicola VARIETY
-=======
+# Uromyces desmodiicola Jørst. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ark. Bot. 4(5): 75 (1959)
 
 #### Original name
-Uromyces desmodiicola var. desmodiicola
+Uromyces desmodiicola Jørst.
 
 ### Remarks
 null

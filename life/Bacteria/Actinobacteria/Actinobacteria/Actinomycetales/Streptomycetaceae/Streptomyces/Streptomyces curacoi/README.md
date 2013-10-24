@@ -1,5 +1,4 @@
-Streptomyces curacoi Cataldi, 1963 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces curacoi Cataldi, 1963 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

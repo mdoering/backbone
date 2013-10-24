@@ -1,5 +1,4 @@
-Septoria anodae Speg. SPECIES
-=======
+# Septoria anodae Speg. SPECIES
 
 #### Status
 ACCEPTED

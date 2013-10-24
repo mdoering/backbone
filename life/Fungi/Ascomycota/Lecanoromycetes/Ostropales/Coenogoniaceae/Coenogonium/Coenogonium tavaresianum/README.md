@@ -1,5 +1,4 @@
-Coenogonium tavaresianum (Vezda) Lücking, Aptroot & Sipman SPECIES
-=======
+# Coenogonium tavaresianum (Vezda) Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

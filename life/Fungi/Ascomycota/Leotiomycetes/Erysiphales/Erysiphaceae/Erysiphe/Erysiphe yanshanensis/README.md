@@ -1,5 +1,4 @@
-Erysiphe yanshanensis T.Z. Liu & U. Braun SPECIES
-=======
+# Erysiphe yanshanensis T.Z. Liu & U. Braun SPECIES
 
 #### Status
 ACCEPTED

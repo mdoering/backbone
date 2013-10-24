@@ -1,5 +1,4 @@
-Blodgettia borneti (Wright) Feldmann SPECIES
-=======
+# Blodgettia borneti (Wright) Feldmann SPECIES
 
 #### Status
 ACCEPTED

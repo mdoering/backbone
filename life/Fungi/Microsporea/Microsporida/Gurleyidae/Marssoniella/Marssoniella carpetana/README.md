@@ -1,5 +1,4 @@
-Marssoniella carpetana P. González SPECIES
-=======
+# Marssoniella carpetana P. González SPECIES
 
 #### Status
 ACCEPTED

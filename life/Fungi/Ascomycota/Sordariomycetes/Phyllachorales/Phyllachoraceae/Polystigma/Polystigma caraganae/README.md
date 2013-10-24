@@ -1,5 +1,4 @@
-Polystigma caraganae (Woron.) Vasyag., 1981 SPECIES
-=======
+# Polystigma caraganae (Woron.) Vasyag., 1981 SPECIES
 
 #### Status
 ACCEPTED

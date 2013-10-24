@@ -1,17 +1,16 @@
-Diachea cylindrica Bilgram, 1905 SPECIES
-=======
+# Paradiachea cylindrica (Bilgram) Hertel ex H. Neubert, Nowotny & K. Baumann, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Dusenia (1956)
 
 #### Original name
-null
+Diachea cylindrica Bilgram, 1905
 
 ### Remarks
 null

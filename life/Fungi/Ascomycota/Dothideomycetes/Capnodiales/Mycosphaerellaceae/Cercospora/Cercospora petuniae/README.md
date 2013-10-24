@@ -1,5 +1,4 @@
-Cercospora petuniae Sandu & Serea SPECIES
-=======
+# Cercospora petuniae Sandu & Serea SPECIES
 
 #### Status
 ACCEPTED

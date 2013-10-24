@@ -1,5 +1,4 @@
-Pseudocercosporella hieracii (Jaap) U. Braun SPECIES
-=======
+# Pseudocercosporella hieracii (Jaap) U. Braun SPECIES
 
 #### Status
 ACCEPTED

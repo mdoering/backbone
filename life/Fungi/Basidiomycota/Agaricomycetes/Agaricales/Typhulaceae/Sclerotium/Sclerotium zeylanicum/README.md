@@ -1,5 +1,4 @@
-Sclerotium zeylanicum (Berk. & Broome) Petch SPECIES
-=======
+# Sclerotium zeylanicum (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

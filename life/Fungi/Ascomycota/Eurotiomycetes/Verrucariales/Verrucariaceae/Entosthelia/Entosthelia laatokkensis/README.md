@@ -1,8 +1,7 @@
-Entosthelia laatokkaënsis (Räsänen) Gyeln. SPECIES
-=======
+# Entosthelia laatokkensis (Räsänen) Gyeln. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

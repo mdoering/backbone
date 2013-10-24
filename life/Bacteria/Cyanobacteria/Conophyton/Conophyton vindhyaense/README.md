@@ -1,5 +1,4 @@
-Conophyton vindhyaense R.C. Misra, S.N. Singh & S. Kumar SPECIES
-=======
+# Conophyton vindhyaense R.C. Misra, S.N. Singh & S. Kumar SPECIES
 
 #### Status
 ACCEPTED

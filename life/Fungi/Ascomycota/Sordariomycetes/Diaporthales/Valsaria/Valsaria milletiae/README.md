@@ -1,5 +1,4 @@
-Valsaria milletiae (Racib.) Sacc. & Trotter SPECIES
-=======
+# Valsaria milletiae (Racib.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

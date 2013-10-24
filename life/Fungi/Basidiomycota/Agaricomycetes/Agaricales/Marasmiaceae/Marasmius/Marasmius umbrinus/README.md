@@ -1,5 +1,4 @@
-Marasmius umbrinus Pegler SPECIES
-=======
+# Marasmius umbrinus Pegler SPECIES
 
 #### Status
 ACCEPTED

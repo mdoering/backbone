@@ -1,5 +1,4 @@
-Ramalina debrecenensis Gyeln. SPECIES
-=======
+# Ramalina debrecenensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

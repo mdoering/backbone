@@ -1,5 +1,4 @@
-Verticillium sacchari (G.L. Fawcett) Westerd. SPECIES
-=======
+# Verticillium sacchari (G.L. Fawcett) Westerd. SPECIES
 
 #### Status
 ACCEPTED

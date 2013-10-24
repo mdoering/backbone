@@ -1,5 +1,4 @@
-Graphis flexuosa Fée SPECIES
-=======
+# Graphis flexuosa Fée SPECIES
 
 #### Status
 ACCEPTED

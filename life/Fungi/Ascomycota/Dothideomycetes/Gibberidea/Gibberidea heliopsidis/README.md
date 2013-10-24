@@ -1,5 +1,4 @@
-Gibberidea heliopsidis (Schwein.) Shear SPECIES
-=======
+# Gibberidea heliopsidis (Schwein.) Shear SPECIES
 
 #### Status
 ACCEPTED

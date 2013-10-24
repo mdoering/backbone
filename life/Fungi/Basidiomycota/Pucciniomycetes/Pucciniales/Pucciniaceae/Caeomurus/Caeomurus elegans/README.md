@@ -1,5 +1,4 @@
-Caeomurus elegans (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Caeomurus elegans (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

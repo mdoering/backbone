@@ -1,5 +1,4 @@
-Clitocybe incarnata Métrod SPECIES
-=======
+# Clitocybe incarnata Métrod SPECIES
 
 #### Status
 ACCEPTED

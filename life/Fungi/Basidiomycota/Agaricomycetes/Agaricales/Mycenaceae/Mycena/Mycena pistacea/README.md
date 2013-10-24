@@ -1,5 +1,4 @@
-Mycena pistacea Maas Geest. & de Meijer SPECIES
-=======
+# Mycena pistacea Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

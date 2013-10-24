@@ -1,5 +1,4 @@
-Cercospora melastomatis Pat. SPECIES
-=======
+# Cercospora melastomatis Pat. SPECIES
 
 #### Status
 ACCEPTED

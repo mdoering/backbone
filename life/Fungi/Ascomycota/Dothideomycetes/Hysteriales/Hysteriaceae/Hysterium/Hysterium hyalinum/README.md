@@ -1,5 +1,4 @@
-Hysterium hyalinum Cooke & Peck, 1876 SPECIES
-=======
+# Hysterium hyalinum Cooke & Peck, 1876 SPECIES
 
 #### Status
 ACCEPTED

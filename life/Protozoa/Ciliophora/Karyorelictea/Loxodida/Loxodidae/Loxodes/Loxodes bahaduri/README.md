@@ -1,5 +1,4 @@
-Loxodes bahaduri Bhatia & Mullick, 1930 SPECIES
-=======
+# Loxodes bahaduri Bhatia & Mullick, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosia araliacearum Hosag. & Kamar. SPECIES
-=======
+# Lembosia araliacearum Hosag. & Kamar. SPECIES
 
 #### Status
 ACCEPTED

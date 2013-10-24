@@ -1,5 +1,4 @@
-Oleiphilus messinensis Golyshin et al., 2002 SPECIES
-=======
+# Oleiphilus messinensis Golyshin et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

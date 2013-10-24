@@ -1,5 +1,4 @@
-Thyridium deviatum Petr. SPECIES
-=======
+# Thyridium deviatum Petr. SPECIES
 
 #### Status
 ACCEPTED

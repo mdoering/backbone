@@ -1,5 +1,4 @@
-Sordaria sphaerospora Ellis & Everh. SPECIES
-=======
+# Sordaria sphaerospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

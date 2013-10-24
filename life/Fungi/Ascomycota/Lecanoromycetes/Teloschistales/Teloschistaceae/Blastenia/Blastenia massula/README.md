@@ -1,5 +1,4 @@
-Blastenia massula (Stizenb.) C.W. Dodge SPECIES
-=======
+# Blastenia massula (Stizenb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

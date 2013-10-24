@@ -1,14 +1,13 @@
-Elasmomyces odoratus Singer & A.H. Sm., 1960 SPECIES
-=======
+# Macowanites odoratus (Singer & A.H. Sm.) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Torrey bot. Club 21(3): 57 (1960)
+Mycotaxon 81: 202 (2002)
 
 #### Original name
 Elasmomyces odoratus Singer & A.H. Sm., 1960

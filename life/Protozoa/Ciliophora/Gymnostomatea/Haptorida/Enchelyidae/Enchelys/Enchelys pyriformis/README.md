@@ -1,5 +1,4 @@
-Enchelys pyriformis SPECIES
-=======
+# Enchelys pyriformis SPECIES
 
 #### Status
 ACCEPTED

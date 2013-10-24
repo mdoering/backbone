@@ -1,5 +1,4 @@
-Phlyctidium olla Sparrow SPECIES
-=======
+# Phlyctidium olla Sparrow SPECIES
 
 #### Status
 ACCEPTED

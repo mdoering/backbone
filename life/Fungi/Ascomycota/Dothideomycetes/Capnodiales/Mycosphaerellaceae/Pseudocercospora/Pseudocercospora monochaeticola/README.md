@@ -1,5 +1,4 @@
-Pseudocercospora monochaeticola (Chupp) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora monochaeticola (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

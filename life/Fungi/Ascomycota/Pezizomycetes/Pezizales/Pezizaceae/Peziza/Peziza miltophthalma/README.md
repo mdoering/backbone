@@ -1,5 +1,4 @@
-Peziza miltophthalma Berk. & M.A. Curtis SPECIES
-=======
+# Peziza miltophthalma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

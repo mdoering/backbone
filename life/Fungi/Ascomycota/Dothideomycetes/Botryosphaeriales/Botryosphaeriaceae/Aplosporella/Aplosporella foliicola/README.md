@@ -1,5 +1,4 @@
-Aplosporella foliicola Berl. & Roum. SPECIES
-=======
+# Aplosporella foliicola Berl. & Roum. SPECIES
 
 #### Status
 ACCEPTED

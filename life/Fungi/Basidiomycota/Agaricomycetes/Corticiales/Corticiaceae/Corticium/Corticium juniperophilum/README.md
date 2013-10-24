@@ -1,5 +1,4 @@
-Corticium juniperophilum Litsch. SPECIES
-=======
+# Corticium juniperophilum Litsch. SPECIES
 
 #### Status
 ACCEPTED

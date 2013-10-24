@@ -1,5 +1,4 @@
-Cyclotella praetermissa Lund SPECIES
-=======
+# Cyclotella praetermissa Lund SPECIES
 
 #### Status
 ACCEPTED

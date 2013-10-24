@@ -1,5 +1,4 @@
-Lecidea epigena Nyl. SPECIES
-=======
+# Lecidea epigena Nyl. SPECIES
 
 #### Status
 ACCEPTED

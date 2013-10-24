@@ -1,17 +1,16 @@
-Cryptotheliomyces Cif. & Tomas. GENUS
-=======
+# Cryptothele Th. Fries, 1866 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 36, 63 (1953)
+Bot. Notiser 59 (1866)
 
 #### Original name
-Cryptotheliomyces Cif. & Tomas.
+Cryptothele Th. Fries, 1866
 
 ### Remarks
 null

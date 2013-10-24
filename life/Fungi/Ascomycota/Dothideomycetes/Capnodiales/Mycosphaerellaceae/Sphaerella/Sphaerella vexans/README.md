@@ -1,5 +1,4 @@
-Sphaerella vexans Massee SPECIES
-=======
+# Sphaerella vexans Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Otidea schulzeri Quél. SPECIES
-=======
+# Otidea schulzeri Quél. SPECIES
 
 #### Status
 ACCEPTED

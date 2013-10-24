@@ -1,5 +1,4 @@
-Clypeolum hieronymi Rehm SPECIES
-=======
+# Clypeolum hieronymi Rehm SPECIES
 
 #### Status
 ACCEPTED

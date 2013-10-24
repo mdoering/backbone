@@ -1,17 +1,16 @@
-Polyopeus A.S. Horne, 1920 GENUS
-=======
+# Phoma Saccardo, 1880 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 2(no. 6): 4 (1880)
 
 #### Original name
-null
+Phoma Saccardo, 1880
 
 ### Remarks
 null

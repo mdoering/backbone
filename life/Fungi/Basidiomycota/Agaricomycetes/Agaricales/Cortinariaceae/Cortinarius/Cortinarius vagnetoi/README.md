@@ -1,17 +1,16 @@
-Cortinarius vagneti Rob. Henry SPECIES
-=======
+# Cortinarius vagnetoi Rob. Henry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 102(1): 30 (1986)
 
 #### Original name
-Cortinarius vagneti Rob. Henry
+Cortinarius vagnetoi Rob. Henry
 
 ### Remarks
 null

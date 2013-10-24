@@ -1,5 +1,4 @@
-Penicillium selandiae Frisvad SPECIES
-=======
+# Penicillium selandiae Frisvad SPECIES
 
 #### Status
 ACCEPTED

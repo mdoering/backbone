@@ -1,5 +1,4 @@
-Graphis deplanata Nyl. SPECIES
-=======
+# Graphis deplanata Nyl. SPECIES
 
 #### Status
 ACCEPTED

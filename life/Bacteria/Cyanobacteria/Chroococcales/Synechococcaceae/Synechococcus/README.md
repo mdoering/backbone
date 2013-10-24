@@ -1,5 +1,4 @@
-Synechococcus Nageli, 1849 GENUS
-=======
+# Synechococcus Nageli, 1849 GENUS
 
 #### Status
 ACCEPTED

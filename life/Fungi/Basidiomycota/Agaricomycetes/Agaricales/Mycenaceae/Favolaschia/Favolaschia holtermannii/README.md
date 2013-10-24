@@ -1,14 +1,13 @@
-Favolus holtermannii (Henn.) Sacc. & P. Syd., 1902 SPECIES
-=======
+# Favolaschia holtermannii Henn., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 16: 170 (1902)
+Monsunia 1: 146 (1899)
 
 #### Original name
 Favolaschia holtermannii Henn., 1900

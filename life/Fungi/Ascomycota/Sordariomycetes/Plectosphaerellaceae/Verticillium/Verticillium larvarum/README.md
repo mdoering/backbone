@@ -1,5 +1,4 @@
-Verticillium larvarum Petch SPECIES
-=======
+# Verticillium larvarum Petch SPECIES
 
 #### Status
 ACCEPTED

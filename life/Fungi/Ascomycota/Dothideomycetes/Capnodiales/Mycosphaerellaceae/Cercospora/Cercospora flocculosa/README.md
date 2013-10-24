@@ -1,5 +1,4 @@
-Cercospora flocculosa Syd. SPECIES
-=======
+# Cercospora flocculosa Syd. SPECIES
 
 #### Status
 ACCEPTED

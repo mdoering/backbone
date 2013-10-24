@@ -1,5 +1,4 @@
-Hydnites argillae (R. Ludw.) Mesch. SPECIES
-=======
+# Hydnites argillae (R. Ludw.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

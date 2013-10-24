@@ -1,5 +1,4 @@
-Arthonia rubella (Fée) Nyl. SPECIES
-=======
+# Arthonia rubella (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

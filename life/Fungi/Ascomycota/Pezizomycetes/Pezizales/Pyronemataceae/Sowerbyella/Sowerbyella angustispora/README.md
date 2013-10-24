@@ -1,5 +1,4 @@
-Sowerbyella angustispora J.Z. Cao & J. Moravec, 1988 SPECIES
-=======
+# Sowerbyella angustispora J.Z. Cao & J. Moravec, 1988 SPECIES
 
 #### Status
 ACCEPTED

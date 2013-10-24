@@ -1,5 +1,4 @@
-Dimerosporium microsporum Speg. SPECIES
-=======
+# Dimerosporium microsporum Speg. SPECIES
 
 #### Status
 ACCEPTED

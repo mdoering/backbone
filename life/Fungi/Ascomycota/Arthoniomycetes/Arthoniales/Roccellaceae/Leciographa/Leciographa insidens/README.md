@@ -1,5 +1,4 @@
-Leciographa insidens J. Steiner SPECIES
-=======
+# Leciographa insidens J. Steiner SPECIES
 
 #### Status
 ACCEPTED

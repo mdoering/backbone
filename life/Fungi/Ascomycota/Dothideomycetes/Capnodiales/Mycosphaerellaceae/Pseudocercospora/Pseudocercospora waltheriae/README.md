@@ -1,17 +1,16 @@
-Pseudocercospora waltherae Barde & Nene SPECIES
-=======
+# Pseudocercospora waltheriae (Thirum. & Chupp) Deighton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 140: 155 (1976)
 
 #### Original name
-Pseudocercospora waltherae Barde & Nene
+Cercospora waltheriae Thirum. & Chupp
 
 ### Remarks
 null

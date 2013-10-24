@@ -1,5 +1,4 @@
-Asperatopsophosphaera magna Shepeleva, 1963 SPECIES
-=======
+# Asperatopsophosphaera magna Shepeleva, 1963 SPECIES
 
 #### Status
 ACCEPTED

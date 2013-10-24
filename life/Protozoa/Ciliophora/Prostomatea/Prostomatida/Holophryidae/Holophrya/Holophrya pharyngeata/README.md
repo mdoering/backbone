@@ -1,5 +1,4 @@
-Holophrya pharyngeata Kahl, 1935 SPECIES
-=======
+# Holophrya pharyngeata Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

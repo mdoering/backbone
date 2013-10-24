@@ -1,5 +1,4 @@
-Uncinuliella liquidambaris var. liquidambaris VARIETY
-=======
+# Uncinuliella liquidambaris (R.Y. Zheng, G.Q. Chen) R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta Mycol. Sin. 4(3): 145 (1985)
 
 #### Original name
-Uncinuliella liquidambaris var. liquidambaris
+Uncinula liquidambaris R.Y. Zheng & G.Q. Chen
 
 ### Remarks
 null

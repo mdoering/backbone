@@ -1,5 +1,4 @@
-Collema subfurvum (Müll. Arg.) Degel. SPECIES
-=======
+# Collema subfurvum (Müll. Arg.) Degel. SPECIES
 
 #### Status
 ACCEPTED

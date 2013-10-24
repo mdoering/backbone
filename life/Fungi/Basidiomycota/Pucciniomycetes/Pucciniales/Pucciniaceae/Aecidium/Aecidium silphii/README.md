@@ -1,5 +1,4 @@
-Aecidium silphii Syd. & P. Syd. SPECIES
-=======
+# Aecidium silphii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleomeris obtecta (Peck) Syd. SPECIES
-=======
+# Pleomeris obtecta (Peck) Syd. SPECIES
 
 #### Status
 ACCEPTED

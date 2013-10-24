@@ -1,5 +1,4 @@
-Niptera melaxantha Starbäck SPECIES
-=======
+# Niptera melaxantha Starbäck SPECIES
 
 #### Status
 ACCEPTED

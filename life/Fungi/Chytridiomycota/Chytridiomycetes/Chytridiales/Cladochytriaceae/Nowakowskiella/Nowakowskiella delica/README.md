@@ -1,5 +1,4 @@
-Nowakowskiella delica Whiffen, 1943 SPECIES
-=======
+# Nowakowskiella delica Whiffen, 1943 SPECIES
 
 #### Status
 ACCEPTED

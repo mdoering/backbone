@@ -1,5 +1,4 @@
-Catillochroma albocincta (Degel.) Kalb SPECIES
-=======
+# Catillochroma albocincta (Degel.) Kalb SPECIES
 
 #### Status
 ACCEPTED

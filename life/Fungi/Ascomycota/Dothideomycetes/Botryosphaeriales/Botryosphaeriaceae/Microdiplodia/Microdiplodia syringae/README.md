@@ -1,5 +1,4 @@
-Microdiplodia syringae Allesch. SPECIES
-=======
+# Microdiplodia syringae Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia parilis Brusse SPECIES
-=======
+# Parmelia parilis Brusse SPECIES
 
 #### Status
 ACCEPTED

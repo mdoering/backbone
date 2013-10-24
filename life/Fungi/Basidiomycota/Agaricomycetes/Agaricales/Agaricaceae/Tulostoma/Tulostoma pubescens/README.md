@@ -1,5 +1,4 @@
-Tulostoma pubescens G. Cunn. SPECIES
-=======
+# Tulostoma pubescens G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

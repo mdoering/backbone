@@ -1,5 +1,4 @@
-Leccinum australiense Bougher & Thiers SPECIES
-=======
+# Leccinum australiense Bougher & Thiers SPECIES
 
 #### Status
 ACCEPTED

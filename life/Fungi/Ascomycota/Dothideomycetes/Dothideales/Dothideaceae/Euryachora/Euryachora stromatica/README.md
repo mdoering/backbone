@@ -1,5 +1,4 @@
-Euryachora stromatica (Rehm) Höhn. SPECIES
-=======
+# Euryachora stromatica (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

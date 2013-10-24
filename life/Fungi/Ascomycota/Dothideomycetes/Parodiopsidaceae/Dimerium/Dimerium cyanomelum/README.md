@@ -1,5 +1,4 @@
-Dimerium cyanomelum (Syd.) Hansf. SPECIES
-=======
+# Dimerium cyanomelum (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

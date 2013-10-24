@@ -1,5 +1,4 @@
-Peronospora cephalariae Vincens SPECIES
-=======
+# Peronospora cephalariae Vincens SPECIES
 
 #### Status
 ACCEPTED

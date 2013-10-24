@@ -1,5 +1,4 @@
-Ophiobolus cirsii-altissimi J.H. Mill. & Burton SPECIES
-=======
+# Ophiobolus cirsii-altissimi J.H. Mill. & Burton SPECIES
 
 #### Status
 ACCEPTED

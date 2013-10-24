@@ -1,5 +1,4 @@
-Cladosporium vignae M.W. Gardner, 1925 SPECIES
-=======
+# Cladosporium vignae M.W. Gardner, 1925 SPECIES
 
 #### Status
 ACCEPTED

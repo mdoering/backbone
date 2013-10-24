@@ -1,5 +1,4 @@
-Gabura GENUS
-=======
+# Gabura GENUS
 
 #### Status
 ACCEPTED

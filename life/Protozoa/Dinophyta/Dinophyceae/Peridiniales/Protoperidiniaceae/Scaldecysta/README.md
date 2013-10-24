@@ -1,5 +1,4 @@
-Scaldecysta De Schepper, Head & Louwye, 2004 GENUS
-=======
+# Scaldecysta De Schepper, Head & Louwye, 2004 GENUS
 
 #### Status
 ACCEPTED

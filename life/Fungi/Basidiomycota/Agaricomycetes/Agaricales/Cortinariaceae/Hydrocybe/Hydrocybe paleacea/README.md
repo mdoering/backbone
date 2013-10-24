@@ -1,5 +1,4 @@
-Hydrocybe paleacea (Weinm.) M.M. Moser SPECIES
-=======
+# Hydrocybe paleacea (Weinm.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

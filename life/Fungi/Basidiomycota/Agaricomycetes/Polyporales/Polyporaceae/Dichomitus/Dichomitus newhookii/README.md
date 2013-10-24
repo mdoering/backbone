@@ -1,5 +1,4 @@
-Dichomitus newhookii P.K. Buchanan & Ryvarden, 2000 SPECIES
-=======
+# Dichomitus newhookii P.K. Buchanan & Ryvarden, 2000 SPECIES
 
 #### Status
 ACCEPTED

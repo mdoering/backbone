@@ -1,5 +1,4 @@
-Dendryphion quadriseptatum Cooke SPECIES
-=======
+# Dendryphion quadriseptatum Cooke SPECIES
 
 #### Status
 ACCEPTED

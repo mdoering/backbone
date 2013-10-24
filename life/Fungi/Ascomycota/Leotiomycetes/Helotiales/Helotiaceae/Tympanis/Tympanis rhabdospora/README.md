@@ -1,5 +1,4 @@
-Tympanis rhabdospora Berk. & M.A. Curtis SPECIES
-=======
+# Tympanis rhabdospora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

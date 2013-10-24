@@ -1,5 +1,4 @@
-Carlfranklinia McCulloch, 1977 GENUS
-=======
+# Carlfranklinia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

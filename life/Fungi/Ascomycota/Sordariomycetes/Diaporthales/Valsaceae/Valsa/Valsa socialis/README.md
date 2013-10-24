@@ -1,5 +1,4 @@
-Valsa socialis Ellis & Everh. SPECIES
-=======
+# Valsa socialis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

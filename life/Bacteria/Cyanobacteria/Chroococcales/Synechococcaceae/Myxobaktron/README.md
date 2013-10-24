@@ -1,14 +1,13 @@
-Myxobactron W. Schmidle, 1904 GENUS
-=======
+# Myxobaktron Schmidle, 1904 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 43: 415.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Boletus fuscescens P. Karst. SPECIES
-=======
+# Boletus fuscescens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

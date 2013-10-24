@@ -1,5 +1,4 @@
-Sporocystis condita Morgan, 1902 SPECIES
-=======
+# Sporocystis condita Morgan, 1902 SPECIES
 
 #### Status
 ACCEPTED

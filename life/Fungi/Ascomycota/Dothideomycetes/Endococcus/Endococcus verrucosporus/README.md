@@ -1,5 +1,4 @@
-Endococcus verrucosporus Alstrup, 1994 SPECIES
-=======
+# Endococcus verrucosporus Alstrup, 1994 SPECIES
 
 #### Status
 ACCEPTED

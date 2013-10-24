@@ -1,5 +1,4 @@
-Protoperidinium curtum (Balech, 1958) Balech, 1973 SPECIES
-=======
+# Protoperidinium curtum (Balech, 1958) Balech, 1973 SPECIES
 
 #### Status
 ACCEPTED

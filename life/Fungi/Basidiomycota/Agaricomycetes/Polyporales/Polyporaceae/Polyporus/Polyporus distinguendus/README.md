@@ -1,5 +1,4 @@
-Polyporus distinguendus Trotter SPECIES
-=======
+# Polyporus distinguendus Trotter SPECIES
 
 #### Status
 ACCEPTED

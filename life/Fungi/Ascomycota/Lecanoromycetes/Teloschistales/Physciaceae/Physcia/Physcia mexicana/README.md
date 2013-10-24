@@ -1,5 +1,4 @@
-Physcia mexicana B. de Lesd. SPECIES
-=======
+# Physcia mexicana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

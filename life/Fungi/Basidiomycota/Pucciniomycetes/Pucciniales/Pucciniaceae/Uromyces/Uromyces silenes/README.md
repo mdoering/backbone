@@ -1,5 +1,4 @@
-Uromyces silenes (Schltdl.) Fuckel SPECIES
-=======
+# Uromyces silenes (Schltdl.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

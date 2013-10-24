@@ -1,5 +1,4 @@
-Nostoc parmelioides (Kützing) Bornet & Flahault SPECIES
-=======
+# Nostoc parmelioides (Kützing) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

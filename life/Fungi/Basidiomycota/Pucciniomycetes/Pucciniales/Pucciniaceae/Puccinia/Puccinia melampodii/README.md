@@ -1,5 +1,4 @@
-Puccinia melampodii Dietel & Holw. SPECIES
-=======
+# Puccinia melampodii Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

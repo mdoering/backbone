@@ -1,5 +1,4 @@
-Jeotgalicoccus psychrophilus Yoon et al., 2003 SPECIES
-=======
+# Jeotgalicoccus psychrophilus Yoon et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

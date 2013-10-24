@@ -1,5 +1,4 @@
-Rhizopogon niger (Lloyd) Zeller & C.W. Dodge SPECIES
-=======
+# Rhizopogon niger (Lloyd) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena prasia Berk. SPECIES
-=======
+# Mycena prasia Berk. SPECIES
 
 #### Status
 ACCEPTED

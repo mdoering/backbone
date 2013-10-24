@@ -1,5 +1,4 @@
-Discella leguminum Cooke SPECIES
-=======
+# Discella leguminum Cooke SPECIES
 
 #### Status
 ACCEPTED

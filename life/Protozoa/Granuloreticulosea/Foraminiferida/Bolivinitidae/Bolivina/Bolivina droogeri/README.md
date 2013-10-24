@@ -1,5 +1,4 @@
-Bolivina droogeri SPECIES
-=======
+# Bolivina droogeri SPECIES
 
 #### Status
 ACCEPTED

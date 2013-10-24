@@ -1,5 +1,4 @@
-Pestalotia cuboniana Brizi SPECIES
-=======
+# Pestalotia cuboniana Brizi SPECIES
 
 #### Status
 ACCEPTED

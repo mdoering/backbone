@@ -1,5 +1,4 @@
-Filisphaeridium pakistanense (Sarjeant, 1970) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium pakistanense (Sarjeant, 1970) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

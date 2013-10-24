@@ -1,5 +1,4 @@
-Cercospora pietreni Dominik SPECIES
-=======
+# Cercospora pietreni Dominik SPECIES
 
 #### Status
 ACCEPTED

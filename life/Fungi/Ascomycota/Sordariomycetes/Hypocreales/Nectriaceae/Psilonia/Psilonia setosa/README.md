@@ -1,5 +1,4 @@
-Psilonia setosa Berk. SPECIES
-=======
+# Psilonia setosa Berk. SPECIES
 
 #### Status
 ACCEPTED

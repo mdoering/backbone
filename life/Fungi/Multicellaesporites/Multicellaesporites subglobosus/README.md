@@ -1,5 +1,4 @@
-Multicellaesporites subglobosus Zhong Y. Zhang SPECIES
-=======
+# Multicellaesporites subglobosus Zhong Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

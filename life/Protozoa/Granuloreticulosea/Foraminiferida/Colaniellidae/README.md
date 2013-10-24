@@ -1,5 +1,4 @@
-Colaniellidae Fursenko, 1959 FAMILY
-=======
+# Colaniellidae Fursenko, 1959 FAMILY
 
 #### Status
 ACCEPTED

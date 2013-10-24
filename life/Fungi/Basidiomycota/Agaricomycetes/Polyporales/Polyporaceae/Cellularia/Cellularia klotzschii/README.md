@@ -1,5 +1,4 @@
-Cellularia klotzschii (Berk.) Kuntze SPECIES
-=======
+# Cellularia klotzschii (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

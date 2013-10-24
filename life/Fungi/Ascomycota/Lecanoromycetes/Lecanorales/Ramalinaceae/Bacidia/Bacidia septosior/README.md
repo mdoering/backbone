@@ -1,14 +1,13 @@
-Lecidea septosior Nyl. SPECIES
-=======
+# Bacidia septosior (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-J. Linn. Soc. , Bot. 17: 400 (1880)
+Cat. Lich. Univers. 4: 240 (1926)
 
 #### Original name
 Lecidea septosior Nyl.

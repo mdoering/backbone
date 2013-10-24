@@ -1,5 +1,4 @@
-Nosema notabilis Kudo, 1939 SPECIES
-=======
+# Nosema notabilis Kudo, 1939 SPECIES
 
 #### Status
 ACCEPTED

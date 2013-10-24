@@ -1,5 +1,4 @@
-Dwayaangam dichotoma Nawawi SPECIES
-=======
+# Dwayaangam dichotoma Nawawi SPECIES
 
 #### Status
 ACCEPTED

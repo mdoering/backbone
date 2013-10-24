@@ -1,5 +1,4 @@
-Pachyphloeus ligericus Tul. & C. Tul. ex Berk. SPECIES
-=======
+# Pachyphloeus ligericus Tul. & C. Tul. ex Berk. SPECIES
 
 #### Status
 ACCEPTED

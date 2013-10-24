@@ -1,5 +1,4 @@
-Scolecopeltidium smilacis Bat. SPECIES
-=======
+# Scolecopeltidium smilacis Bat. SPECIES
 
 #### Status
 ACCEPTED

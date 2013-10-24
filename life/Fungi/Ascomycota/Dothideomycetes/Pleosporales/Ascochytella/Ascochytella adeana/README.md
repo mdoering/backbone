@@ -1,5 +1,4 @@
-Ascochytella adeana Petr. SPECIES
-=======
+# Ascochytella adeana Petr. SPECIES
 
 #### Status
 ACCEPTED

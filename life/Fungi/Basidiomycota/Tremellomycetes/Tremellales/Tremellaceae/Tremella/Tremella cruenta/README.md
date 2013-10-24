@@ -1,5 +1,4 @@
-Tremella cruenta Sm. SPECIES
-=======
+# Tremella cruenta Sm. SPECIES
 
 #### Status
 ACCEPTED

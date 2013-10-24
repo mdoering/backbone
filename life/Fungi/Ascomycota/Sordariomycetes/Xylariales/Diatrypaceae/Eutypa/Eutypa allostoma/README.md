@@ -1,5 +1,4 @@
-Eutypa allostoma (Schwein.) Cooke SPECIES
-=======
+# Eutypa allostoma (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

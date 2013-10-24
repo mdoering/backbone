@@ -1,5 +1,4 @@
-Teloschistes contortuplicatus (Ach.) Clauzade & Rondon SPECIES
-=======
+# Teloschistes contortuplicatus (Ach.) Clauzade & Rondon SPECIES
 
 #### Status
 ACCEPTED

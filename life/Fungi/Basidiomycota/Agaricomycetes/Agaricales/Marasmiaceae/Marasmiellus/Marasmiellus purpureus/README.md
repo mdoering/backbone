@@ -1,5 +1,4 @@
-Marasmiellus purpureus (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Marasmiellus purpureus (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haptocillium rhabdosporium Zare & W. Gams SPECIES
-=======
+# Haptocillium rhabdosporium Zare & W. Gams SPECIES
 
 #### Status
 ACCEPTED

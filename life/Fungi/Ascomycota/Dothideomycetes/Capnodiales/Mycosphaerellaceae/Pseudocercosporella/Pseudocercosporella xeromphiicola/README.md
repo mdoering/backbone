@@ -1,5 +1,4 @@
-Pseudocercosporella xeromphiicola Bhalla, Arch. Singh & S.K. Singh SPECIES
-=======
+# Pseudocercosporella xeromphiicola Bhalla, Arch. Singh & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

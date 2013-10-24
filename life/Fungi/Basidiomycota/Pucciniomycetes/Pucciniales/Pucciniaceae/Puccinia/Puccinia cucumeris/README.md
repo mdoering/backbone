@@ -1,5 +1,4 @@
-Puccinia cucumeris Henn. SPECIES
-=======
+# Puccinia cucumeris Henn. SPECIES
 
 #### Status
 ACCEPTED

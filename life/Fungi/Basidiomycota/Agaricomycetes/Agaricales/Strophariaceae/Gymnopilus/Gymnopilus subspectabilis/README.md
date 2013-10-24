@@ -1,5 +1,4 @@
-Gymnopilus subspectabilis Hesler SPECIES
-=======
+# Gymnopilus subspectabilis Hesler SPECIES
 
 #### Status
 ACCEPTED

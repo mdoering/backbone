@@ -1,5 +1,4 @@
-Cercospora scolecotrichoides G.F. Atk. SPECIES
-=======
+# Cercospora scolecotrichoides G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicosporium lumbricopsis Linder, 1929 SPECIES
-=======
+# Helicosporium lumbricopsis Linder, 1929 SPECIES
 
 #### Status
 ACCEPTED

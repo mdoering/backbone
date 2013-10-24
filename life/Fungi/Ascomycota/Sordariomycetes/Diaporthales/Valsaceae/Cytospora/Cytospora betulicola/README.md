@@ -1,5 +1,4 @@
-Cytospora betulicola Fautrey SPECIES
-=======
+# Cytospora betulicola Fautrey SPECIES
 
 #### Status
 ACCEPTED

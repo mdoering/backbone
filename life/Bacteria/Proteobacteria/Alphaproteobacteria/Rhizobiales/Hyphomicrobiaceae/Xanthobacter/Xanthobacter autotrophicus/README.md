@@ -1,11 +1,10 @@
-Corynebacterium autotrophicum Baumgarten et al., 1974 SPECIES
-=======
+# Xanthobacter autotrophicus (Baumgarten et al., 1974) Wiegel et al., 1978 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

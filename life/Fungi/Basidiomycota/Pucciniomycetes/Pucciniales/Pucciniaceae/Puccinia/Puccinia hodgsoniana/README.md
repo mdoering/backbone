@@ -1,5 +1,4 @@
-Puccinia hodgsoniana F. Kern SPECIES
-=======
+# Puccinia hodgsoniana F. Kern SPECIES
 
 #### Status
 ACCEPTED

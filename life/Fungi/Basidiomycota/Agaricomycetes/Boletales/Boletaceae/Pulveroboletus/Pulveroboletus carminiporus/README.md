@@ -1,5 +1,4 @@
-Pulveroboletus carminiporus Heinem. SPECIES
-=======
+# Pulveroboletus carminiporus Heinem. SPECIES
 
 #### Status
 ACCEPTED

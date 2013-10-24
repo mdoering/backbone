@@ -1,5 +1,4 @@
-Cothurnia amphora Kahl, 1928 SPECIES
-=======
+# Cothurnia amphora Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

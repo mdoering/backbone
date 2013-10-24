@@ -1,5 +1,4 @@
-Hygrocybe emeticicolor Heinem. SPECIES
-=======
+# Hygrocybe emeticicolor Heinem. SPECIES
 
 #### Status
 ACCEPTED

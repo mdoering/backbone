@@ -1,5 +1,4 @@
-Coprinus flavicomus Quél. SPECIES
-=======
+# Coprinus flavicomus Quél. SPECIES
 
 #### Status
 ACCEPTED

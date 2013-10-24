@@ -1,5 +1,4 @@
-Russula parva Carteret & Reumaux SPECIES
-=======
+# Russula parva Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

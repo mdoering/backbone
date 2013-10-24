@@ -1,5 +1,4 @@
-Laboulbenia aethiopica (Thaxt.) Thaxt. SPECIES
-=======
+# Laboulbenia aethiopica (Thaxt.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

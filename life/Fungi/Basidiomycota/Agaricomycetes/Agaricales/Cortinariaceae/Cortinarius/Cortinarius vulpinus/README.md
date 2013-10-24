@@ -1,17 +1,16 @@
-Cortinarius vulpinus subsp. vulpinus SUBSPECIES
-=======
+# Cortinarius vulpinus (Velen.) Rob. Henry, 1947 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 62(3-4): 207 (1947)
+null
 
 #### Original name
-Cortinarius vulpinus subsp. vulpinus
+null
 
 ### Remarks
 null

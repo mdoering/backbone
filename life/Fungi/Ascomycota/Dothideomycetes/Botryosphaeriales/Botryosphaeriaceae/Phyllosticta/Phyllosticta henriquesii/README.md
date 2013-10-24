@@ -1,5 +1,4 @@
-Phyllosticta henriquesii Thüm. SPECIES
-=======
+# Phyllosticta henriquesii Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhynchostoma pachyceras (Durieu & Mont.) Sacc. SPECIES
-=======
+# Rhynchostoma pachyceras (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

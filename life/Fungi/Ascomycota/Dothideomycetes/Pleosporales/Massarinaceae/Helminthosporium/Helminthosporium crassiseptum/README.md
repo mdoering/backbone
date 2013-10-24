@@ -1,5 +1,4 @@
-Helminthosporium crassiseptum Cif. SPECIES
-=======
+# Helminthosporium crassiseptum Cif. SPECIES
 
 #### Status
 ACCEPTED

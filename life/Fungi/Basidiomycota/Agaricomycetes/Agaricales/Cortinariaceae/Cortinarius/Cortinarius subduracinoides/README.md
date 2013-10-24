@@ -1,5 +1,4 @@
-Cortinarius subduracinoides Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius subduracinoides Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemphylium turriforme X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Stemphylium turriforme X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

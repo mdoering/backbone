@@ -1,5 +1,4 @@
-Macrophoma labiatarum Pat. SPECIES
-=======
+# Macrophoma labiatarum Pat. SPECIES
 
 #### Status
 ACCEPTED

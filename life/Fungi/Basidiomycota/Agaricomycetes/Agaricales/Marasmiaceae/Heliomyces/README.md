@@ -1,5 +1,4 @@
-Heliomyces GENUS
-=======
+# Heliomyces GENUS
 
 #### Status
 ACCEPTED

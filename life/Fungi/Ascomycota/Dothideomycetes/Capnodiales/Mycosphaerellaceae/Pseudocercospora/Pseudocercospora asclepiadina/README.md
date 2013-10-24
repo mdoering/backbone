@@ -1,5 +1,4 @@
-Pseudocercospora asclepiadina (Speg.) Deighton SPECIES
-=======
+# Pseudocercospora asclepiadina (Speg.) Deighton SPECIES
 
 #### Status
 ACCEPTED

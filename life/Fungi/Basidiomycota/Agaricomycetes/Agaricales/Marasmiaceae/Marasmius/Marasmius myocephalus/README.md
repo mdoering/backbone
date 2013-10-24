@@ -1,5 +1,4 @@
-Marasmius myocephalus Singer SPECIES
-=======
+# Marasmius myocephalus Singer SPECIES
 
 #### Status
 ACCEPTED

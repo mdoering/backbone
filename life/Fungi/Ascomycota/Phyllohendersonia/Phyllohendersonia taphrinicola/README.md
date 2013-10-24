@@ -1,5 +1,4 @@
-Phyllohendersonia taphrinicola (Tracy & Earle) Tassi SPECIES
-=======
+# Phyllohendersonia taphrinicola (Tracy & Earle) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella fritillariae (Bonar & W.B. Cooke) Vanev & Aa SPECIES
-=======
+# Asteromella fritillariae (Bonar & W.B. Cooke) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium pallidum Berk. & M.A. Curtis SPECIES
-=======
+# Sporidesmium pallidum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

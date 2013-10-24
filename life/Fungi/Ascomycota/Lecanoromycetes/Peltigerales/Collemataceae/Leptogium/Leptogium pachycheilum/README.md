@@ -1,5 +1,4 @@
-Leptogium pachycheilum Malme SPECIES
-=======
+# Leptogium pachycheilum Malme SPECIES
 
 #### Status
 ACCEPTED

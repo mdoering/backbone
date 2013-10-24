@@ -1,5 +1,4 @@
-Epidermophyton radiosulcatum var. radiosulcatum VARIETY
-=======
+# Epidermophyton radiosulcatum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Epidermophyton radiosulcatum var. radiosulcatum
+Epidermophyton radiosulcatum
 
 ### Remarks
 null

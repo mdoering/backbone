@@ -1,5 +1,4 @@
-Clavaria nymaniana Henn. & E. Nyman SPECIES
-=======
+# Clavaria nymaniana Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

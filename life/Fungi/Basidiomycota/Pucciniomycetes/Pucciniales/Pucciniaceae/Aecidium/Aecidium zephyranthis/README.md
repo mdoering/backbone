@@ -1,5 +1,4 @@
-Aecidium zephyranthis Shear SPECIES
-=======
+# Aecidium zephyranthis Shear SPECIES
 
 #### Status
 ACCEPTED

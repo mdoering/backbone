@@ -1,5 +1,4 @@
-Trematosphaeria decipiens (De Not.) Sacc. SPECIES
-=======
+# Trematosphaeria decipiens (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

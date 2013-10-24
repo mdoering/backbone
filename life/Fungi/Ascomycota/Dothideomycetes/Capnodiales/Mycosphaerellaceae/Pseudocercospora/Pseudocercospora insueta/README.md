@@ -1,5 +1,4 @@
-Pseudocercospora insueta (Petr.) Deighton SPECIES
-=======
+# Pseudocercospora insueta (Petr.) Deighton SPECIES
 
 #### Status
 ACCEPTED

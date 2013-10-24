@@ -1,5 +1,4 @@
-Fusisporium arundinis Corda SPECIES
-=======
+# Fusisporium arundinis Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachyspora pentaphylleae Gäum., 1943 SPECIES
-=======
+# Trachyspora pentaphylleae Gäum., 1943 SPECIES
 
 #### Status
 ACCEPTED

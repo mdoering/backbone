@@ -1,5 +1,4 @@
-Naucoria intercepta (Britzelm.) Sacc. SPECIES
-=======
+# Naucoria intercepta (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

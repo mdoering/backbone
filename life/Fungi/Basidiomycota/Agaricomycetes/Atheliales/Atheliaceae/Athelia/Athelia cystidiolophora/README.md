@@ -1,5 +1,4 @@
-Athelia cystidiolophora Parmasto SPECIES
-=======
+# Athelia cystidiolophora Parmasto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Geaster simulans Lloyd SPECIES
-=======
+# Geastrum simulans Lloyd, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+The Lycoperdaceae of Australia 17 (1905)
 
 #### Original name
-Geaster simulans Lloyd
+Geastrum simulans Lloyd, 1905
 
 ### Remarks
 null

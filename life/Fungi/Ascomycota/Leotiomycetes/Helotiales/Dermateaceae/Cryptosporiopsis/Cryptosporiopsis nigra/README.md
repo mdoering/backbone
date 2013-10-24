@@ -1,5 +1,4 @@
-Cryptosporiopsis nigra Bubák & Kabát, 1912 SPECIES
-=======
+# Cryptosporiopsis nigra Bubák & Kabát, 1912 SPECIES
 
 #### Status
 ACCEPTED

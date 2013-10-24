@@ -1,5 +1,4 @@
-Rinodina plumbella SPECIES
-=======
+# Rinodina plumbella SPECIES
 
 #### Status
 ACCEPTED

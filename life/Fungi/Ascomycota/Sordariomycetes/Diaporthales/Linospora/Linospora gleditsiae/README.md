@@ -1,5 +1,4 @@
-Linospora gleditsiae J.H. Mill. & F.A. Wolf SPECIES
-=======
+# Linospora gleditsiae J.H. Mill. & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialocephala fortinii C.J.K. Wang & H.E. Wilcox SPECIES
-=======
+# Phialocephala fortinii C.J.K. Wang & H.E. Wilcox SPECIES
 
 #### Status
 ACCEPTED

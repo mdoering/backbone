@@ -1,5 +1,4 @@
-Lecidea leucinella SPECIES
-=======
+# Lecidea leucinella SPECIES
 
 #### Status
 ACCEPTED

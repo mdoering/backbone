@@ -1,5 +1,4 @@
-Alternaria cryptostegiae Smita Jain & A.N. Rai SPECIES
-=======
+# Alternaria cryptostegiae Smita Jain & A.N. Rai SPECIES
 
 #### Status
 ACCEPTED

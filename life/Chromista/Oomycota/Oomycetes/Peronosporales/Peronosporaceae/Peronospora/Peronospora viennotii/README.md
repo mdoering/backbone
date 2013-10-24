@@ -1,8 +1,7 @@
-Peronospora viennoti Mayor SPECIES
-=======
+# Peronospora viennotii Mayor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peronospora viennoti Mayor
+Peronospora viennotii Mayor
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeria chiliopyxis Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria chiliopyxis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

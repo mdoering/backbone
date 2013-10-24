@@ -1,5 +1,4 @@
-Solutoparies pythii Whiffen ex W.H. Blackw. & M.J. Powell, 1998 SPECIES
-=======
+# Solutoparies pythii Whiffen ex W.H. Blackw. & M.J. Powell, 1998 SPECIES
 
 #### Status
 ACCEPTED

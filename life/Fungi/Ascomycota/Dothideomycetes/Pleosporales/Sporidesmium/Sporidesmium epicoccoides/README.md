@@ -1,5 +1,4 @@
-Sporidesmium epicoccoides Berk. & M.A. Curtis SPECIES
-=======
+# Sporidesmium epicoccoides Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

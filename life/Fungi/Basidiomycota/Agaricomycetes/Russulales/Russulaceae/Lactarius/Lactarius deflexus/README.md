@@ -1,5 +1,4 @@
-Lactarius deflexus Lindblad SPECIES
-=======
+# Lactarius deflexus Lindblad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nannoconus aquitanicus Deres & Achéritéguy, 1980 SPECIES
-=======
+# Nannoconus aquitanicus Deres & Achéritéguy, 1980 SPECIES
 
 #### Status
 ACCEPTED

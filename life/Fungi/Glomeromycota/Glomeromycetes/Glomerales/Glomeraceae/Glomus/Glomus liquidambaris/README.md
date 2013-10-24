@@ -1,5 +1,4 @@
-Glomus liquidambaris (C.G. Wu & Z.C. Chen) R.T. Almeida & N.C. Schenck, 1990 SPECIES
-=======
+# Glomus liquidambaris (C.G. Wu & Z.C. Chen) R.T. Almeida & N.C. Schenck, 1990 SPECIES
 
 #### Status
 ACCEPTED

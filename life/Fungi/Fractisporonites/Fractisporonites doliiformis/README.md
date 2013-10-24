@@ -1,5 +1,4 @@
-Fractisporonites doliiformis Kalgutkar SPECIES
-=======
+# Fractisporonites doliiformis Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora eriogoni W.B. Cooke SPECIES
-=======
+# Cytospora eriogoni W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

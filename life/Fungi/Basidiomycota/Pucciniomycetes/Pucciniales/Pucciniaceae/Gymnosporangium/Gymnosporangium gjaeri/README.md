@@ -1,5 +1,4 @@
-Gymnosporangium gjaeri Korbonsk., 1986 SPECIES
-=======
+# Gymnosporangium gjaeri Korbonsk., 1986 SPECIES
 
 #### Status
 ACCEPTED

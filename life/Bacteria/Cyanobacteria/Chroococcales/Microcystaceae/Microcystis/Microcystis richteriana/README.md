@@ -1,5 +1,4 @@
-Microcystis richteriana (Hieronymus) P.Silva SPECIES
-=======
+# Microcystis richteriana (Hieronymus) P.Silva SPECIES
 
 #### Status
 ACCEPTED

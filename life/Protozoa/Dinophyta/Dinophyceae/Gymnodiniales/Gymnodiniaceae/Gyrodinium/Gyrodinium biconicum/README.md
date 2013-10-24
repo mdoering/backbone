@@ -1,5 +1,4 @@
-Gyrodinium biconicum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium biconicum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

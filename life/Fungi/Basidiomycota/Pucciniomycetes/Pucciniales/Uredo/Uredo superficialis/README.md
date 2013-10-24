@@ -1,5 +1,4 @@
-Uredo superficialis Speg. SPECIES
-=======
+# Uredo superficialis Speg. SPECIES
 
 #### Status
 ACCEPTED

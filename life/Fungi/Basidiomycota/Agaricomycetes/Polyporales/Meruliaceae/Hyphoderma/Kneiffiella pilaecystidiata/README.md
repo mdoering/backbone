@@ -1,5 +1,4 @@
-Kneiffiella pilaecystidiata (S. Lundell) Jülich & Stalpers SPECIES
-=======
+# Kneiffiella pilaecystidiata (S. Lundell) Jülich & Stalpers SPECIES
 
 #### Status
 ACCEPTED

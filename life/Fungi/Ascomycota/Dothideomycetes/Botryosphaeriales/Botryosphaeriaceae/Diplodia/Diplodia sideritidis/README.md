@@ -1,5 +1,4 @@
-Diplodia sideritidis Mítítíuc & Manolitt {?} SPECIES
-=======
+# Diplodia sideritidis Mítítíuc & Manolitt {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizoctonia monteithiana F.T. Benn. SPECIES
-=======
+# Rhizoctonia monteithiana F.T. Benn. SPECIES
 
 #### Status
 ACCEPTED

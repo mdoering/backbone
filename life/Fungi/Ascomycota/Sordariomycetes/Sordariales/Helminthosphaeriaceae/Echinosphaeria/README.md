@@ -1,5 +1,4 @@
-Echinosphaeria A.N. Mill. & Huhndorf GENUS
-=======
+# Echinosphaeria A.N. Mill. & Huhndorf GENUS
 
 #### Status
 ACCEPTED

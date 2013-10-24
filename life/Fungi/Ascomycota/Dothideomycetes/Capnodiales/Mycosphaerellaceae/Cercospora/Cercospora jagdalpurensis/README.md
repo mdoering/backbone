@@ -1,5 +1,4 @@
-Cercospora jagdalpurensis P.K. Rajak & S.P. Gautam SPECIES
-=======
+# Cercospora jagdalpurensis P.K. Rajak & S.P. Gautam SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pararuesticyrtium coniformis SPECIES
-=======
+# Pararuesticyrtium coniformis SPECIES
 
 #### Status
 ACCEPTED

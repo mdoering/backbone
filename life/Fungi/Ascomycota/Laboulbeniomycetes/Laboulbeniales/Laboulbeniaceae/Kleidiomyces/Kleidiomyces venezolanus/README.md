@@ -1,5 +1,4 @@
-Kleidiomyces venezolanus Thaxt., 1931 SPECIES
-=======
+# Kleidiomyces venezolanus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

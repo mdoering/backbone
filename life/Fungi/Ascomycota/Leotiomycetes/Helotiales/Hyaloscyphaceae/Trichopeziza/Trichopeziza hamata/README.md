@@ -1,5 +1,4 @@
-Trichopeziza hamata var. hamata VARIETY
-=======
+# Trichopeziza hamata Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 14(2): 1137 (1899)
 
 #### Original name
-Trichopeziza hamata var. hamata
+Trichopeziza hamata Sacc.
 
 ### Remarks
 null

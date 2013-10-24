@@ -1,5 +1,4 @@
-Hygrophorus lectus Britzelm. SPECIES
-=======
+# Hygrophorus lectus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

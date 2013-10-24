@@ -1,5 +1,4 @@
-Sphacelotheca papuae Zundel SPECIES
-=======
+# Sphacelotheca papuae Zundel SPECIES
 
 #### Status
 ACCEPTED

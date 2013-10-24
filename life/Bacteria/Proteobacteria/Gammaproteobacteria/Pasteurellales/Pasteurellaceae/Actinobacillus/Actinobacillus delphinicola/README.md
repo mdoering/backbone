@@ -1,5 +1,4 @@
-Actinobacillus delphinicola Foster et al., 1996 SPECIES
-=======
+# Actinobacillus delphinicola Foster et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

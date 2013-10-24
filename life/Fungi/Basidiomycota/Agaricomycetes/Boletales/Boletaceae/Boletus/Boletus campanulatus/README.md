@@ -1,5 +1,4 @@
-Boletus campanulatus (J. Blum) J. Blum SPECIES
-=======
+# Boletus campanulatus (J. Blum) J. Blum SPECIES
 
 #### Status
 ACCEPTED

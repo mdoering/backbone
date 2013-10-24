@@ -1,17 +1,16 @@
-Agaricus corbariensis Roum., 1880 SPECIES
-=======
+# Marasmius corbariensis (Roum.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 2: 198 (1880)
+Syll. fung. (Abellini) 20: 14 (1911)
 
 #### Original name
-Agaricus corbariensis Roum., 1880
+Marasmius corbariensis (Roum.) Singer, 1951
 
 ### Remarks
 null

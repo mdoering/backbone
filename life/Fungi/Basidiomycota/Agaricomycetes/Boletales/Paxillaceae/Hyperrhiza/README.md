@@ -1,5 +1,4 @@
-Hyperrhiza GENUS
-=======
+# Hyperrhiza GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria coffeicola var. coffeicola VARIETY
-=======
+# Nectria coffeicola Zimm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nectria coffeicola var. coffeicola
+Nectria coffeicola Zimm.
 
 ### Remarks
 null

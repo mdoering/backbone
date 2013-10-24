@@ -1,5 +1,4 @@
-Aleurocystidiellum P.A. Lemke, 1964 GENUS
-=======
+# Aleurocystidiellum P.A. Lemke, 1964 GENUS
 
 #### Status
 ACCEPTED

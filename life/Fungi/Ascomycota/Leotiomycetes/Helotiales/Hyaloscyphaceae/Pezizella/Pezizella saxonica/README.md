@@ -1,5 +1,4 @@
-Pezizella saxonica Rehm SPECIES
-=======
+# Pezizella saxonica Rehm SPECIES
 
 #### Status
 ACCEPTED

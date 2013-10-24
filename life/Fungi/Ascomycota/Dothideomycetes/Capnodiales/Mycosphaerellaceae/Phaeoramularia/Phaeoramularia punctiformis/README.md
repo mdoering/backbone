@@ -1,14 +1,13 @@
-Ramularia punctiformis (Schltdl.) Höhn., 1907 SPECIES
-=======
+# Phaeoramularia punctiformis (Schltdl.) U. Braun, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Jaap, Annls mycol. 5(3): 268 (1907)
+Nova Hedwigia 55(1-2): 215 (1992)
 
 #### Original name
 Fusidium punctiforme Schltdl., 1857

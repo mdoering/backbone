@@ -1,5 +1,4 @@
-Stictina brasiliensis Müll. Arg. SPECIES
-=======
+# Stictina brasiliensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

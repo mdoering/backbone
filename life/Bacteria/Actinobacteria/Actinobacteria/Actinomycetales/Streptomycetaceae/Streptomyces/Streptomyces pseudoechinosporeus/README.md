@@ -1,11 +1,10 @@
-Microechinospora grisea Konev et al., 1967 SPECIES
-=======
+# Streptomyces pseudoechinosporeus Goodfellow et al., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

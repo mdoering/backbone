@@ -1,5 +1,4 @@
-Aposphaeria caricae Pass. SPECIES
-=======
+# Aposphaeria caricae Pass. SPECIES
 
 #### Status
 ACCEPTED

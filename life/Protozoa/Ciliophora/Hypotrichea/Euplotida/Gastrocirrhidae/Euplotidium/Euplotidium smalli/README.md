@@ -1,5 +1,4 @@
-Euplotidium smalli Lei, Choi & Xu, 2002 SPECIES
-=======
+# Euplotidium smalli Lei, Choi & Xu, 2002 SPECIES
 
 #### Status
 ACCEPTED

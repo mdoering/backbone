@@ -1,5 +1,4 @@
-Stigmatomyces ptilomyiae (Thaxt.) Thaxt. SPECIES
-=======
+# Stigmatomyces ptilomyiae (Thaxt.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

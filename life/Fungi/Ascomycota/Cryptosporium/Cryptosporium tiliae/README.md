@@ -1,5 +1,4 @@
-Cryptosporium tiliae Sacc. SPECIES
-=======
+# Cryptosporium tiliae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dentalina priscilla Dawson, 1868 SPECIES
-=======
+# Dentalina priscilla Dawson, 1868 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sporidesmium aburiense M.B. Ellis, 1958 SPECIES
-=======
+# Repetophragma aburiense (M.B. Ellis) Subram., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 70(1): 73 (1958)
+Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 58(4): 185 (1992)
 
 #### Original name
 Sporidesmium aburiense M.B. Ellis, 1958

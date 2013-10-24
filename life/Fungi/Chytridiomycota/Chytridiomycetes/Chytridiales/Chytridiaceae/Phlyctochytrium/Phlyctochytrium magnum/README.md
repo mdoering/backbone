@@ -1,5 +1,4 @@
-Phlyctochytrium magnum Linder SPECIES
-=======
+# Phlyctochytrium magnum Linder SPECIES
 
 #### Status
 ACCEPTED

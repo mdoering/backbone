@@ -1,5 +1,4 @@
-Tholospyris anthophora (Haeckel, 1887) SPECIES
-=======
+# Tholospyris anthophora (Haeckel, 1887) SPECIES
 
 #### Status
 ACCEPTED

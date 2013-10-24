@@ -1,5 +1,4 @@
-Pyrenopsis lecideella Fink ex J. Hedrick SPECIES
-=======
+# Pyrenopsis lecideella Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

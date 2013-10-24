@@ -1,14 +1,13 @@
-Buellia rubifaciens R.C. Harris SPECIES
-=======
+# Chrismofulvea rubifaciens (R.C. Harris) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Evansia 5(3): 44 (1988)
+Biblthca Lichenol. 74: 156 (2000)
 
 #### Original name
 Buellia rubifaciens R.C. Harris

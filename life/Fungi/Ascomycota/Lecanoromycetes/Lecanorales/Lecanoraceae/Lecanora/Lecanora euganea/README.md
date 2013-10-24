@@ -1,5 +1,4 @@
-Lecanora euganea (Trevis.) Zahlbr. SPECIES
-=======
+# Lecanora euganea (Trevis.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

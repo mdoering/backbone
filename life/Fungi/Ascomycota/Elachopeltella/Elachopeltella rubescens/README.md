@@ -1,5 +1,4 @@
-Elachopeltella rubescens M.L. Farr, 1986 SPECIES
-=======
+# Elachopeltella rubescens M.L. Farr, 1986 SPECIES
 
 #### Status
 ACCEPTED

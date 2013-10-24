@@ -1,5 +1,4 @@
-Collybia phalliodora Fr. SPECIES
-=======
+# Collybia phalliodora Fr. SPECIES
 
 #### Status
 ACCEPTED

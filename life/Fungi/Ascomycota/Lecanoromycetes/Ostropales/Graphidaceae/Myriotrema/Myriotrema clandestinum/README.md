@@ -1,5 +1,4 @@
-Myriotrema clandestinum (Fée) Hale SPECIES
-=======
+# Myriotrema clandestinum (Fée) Hale SPECIES
 
 #### Status
 ACCEPTED

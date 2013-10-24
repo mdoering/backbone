@@ -1,14 +1,13 @@
-Didymella latitans (Nyl.) Sacc. & D. Sacc. SPECIES
-=======
+# Didymellopsis latitans (Nyl.) Sacc. ex Clem. & Shear SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 17: 657 (1905)
+Gen. fung. (Minneapolis), Edn 2 (1931)
 
 #### Original name
 Obryzum latitans Nyl.

@@ -1,5 +1,4 @@
-Phaeoramularia collomiae U. Braun & Rogerson SPECIES
-=======
+# Phaeoramularia collomiae U. Braun & Rogerson SPECIES
 
 #### Status
 ACCEPTED

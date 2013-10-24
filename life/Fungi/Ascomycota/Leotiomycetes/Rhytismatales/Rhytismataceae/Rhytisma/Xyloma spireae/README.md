@@ -1,5 +1,4 @@
-Xyloma spireae Kunze SPECIES
-=======
+# Xyloma spireae Kunze SPECIES
 
 #### Status
 ACCEPTED

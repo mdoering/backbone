@@ -1,5 +1,4 @@
-Pseudodiplodia corticis Grove SPECIES
-=======
+# Pseudodiplodia corticis Grove SPECIES
 
 #### Status
 ACCEPTED

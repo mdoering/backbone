@@ -1,5 +1,4 @@
-Parmelia rufa Eschw. SPECIES
-=======
+# Parmelia rufa Eschw. SPECIES
 
 #### Status
 ACCEPTED

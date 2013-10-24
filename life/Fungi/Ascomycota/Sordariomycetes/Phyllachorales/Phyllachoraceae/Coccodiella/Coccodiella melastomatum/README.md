@@ -1,17 +1,16 @@
-Dothidea melastomatum (Lév.) Cooke, 1885 SPECIES
-=======
+# Coccodiella melastomatum (Lév.) I. Hino & Katum., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Jap. Bot. 43: 281 (1968)
 
 #### Original name
-null
+Sphaeria melastomatum Lév., 1845
 
 ### Remarks
 null

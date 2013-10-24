@@ -1,5 +1,4 @@
-Entoloma tomentosum Z.S. Bi SPECIES
-=======
+# Entoloma tomentosum Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

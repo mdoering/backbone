@@ -1,17 +1,16 @@
-Polyporus oviformus (G. Cunn.) G. Cunn. SPECIES
-=======
+# Perenniporia oviformis G. Cunn. ex P.K. Buchanan & Ryvarden, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 31(1): 25 (1988)
 
 #### Original name
-Poria oviformis G. Cunn., 1947
+Perenniporia oviformis G. Cunn. ex P.K. Buchanan & Ryvarden, 1988
 
 ### Remarks
 null

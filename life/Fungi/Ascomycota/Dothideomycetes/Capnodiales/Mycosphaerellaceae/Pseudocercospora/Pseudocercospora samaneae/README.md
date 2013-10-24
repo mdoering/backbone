@@ -1,5 +1,4 @@
-Pseudocercospora samaneae U. Braun & Crous, 2003 SPECIES
-=======
+# Pseudocercospora samaneae U. Braun & Crous, 2003 SPECIES
 
 #### Status
 ACCEPTED

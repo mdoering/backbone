@@ -1,5 +1,4 @@
-Clitocybe scabriuscula H.E. Bigelow SPECIES
-=======
+# Clitocybe scabriuscula H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe radicellata Gillet SPECIES
-=======
+# Clitocybe radicellata Gillet SPECIES
 
 #### Status
 ACCEPTED

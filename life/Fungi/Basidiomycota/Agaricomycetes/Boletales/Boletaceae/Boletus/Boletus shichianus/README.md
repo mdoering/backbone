@@ -1,5 +1,4 @@
-Boletus shichianus Teng SPECIES
-=======
+# Boletus shichianus Teng SPECIES
 
 #### Status
 ACCEPTED

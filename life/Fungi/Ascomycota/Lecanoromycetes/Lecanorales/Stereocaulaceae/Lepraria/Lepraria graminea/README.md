@@ -1,5 +1,4 @@
-Lepraria graminea (Roth) Pers. SPECIES
-=======
+# Lepraria graminea (Roth) Pers. SPECIES
 
 #### Status
 ACCEPTED

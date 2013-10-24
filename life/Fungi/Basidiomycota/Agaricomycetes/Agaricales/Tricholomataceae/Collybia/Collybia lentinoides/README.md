@@ -1,5 +1,4 @@
-Collybia lentinoides Peck SPECIES
-=======
+# Collybia lentinoides Peck SPECIES
 
 #### Status
 ACCEPTED

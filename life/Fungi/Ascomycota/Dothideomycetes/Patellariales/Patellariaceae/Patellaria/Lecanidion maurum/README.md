@@ -1,5 +1,4 @@
-Lecanidion maurum (W. Phillips) Sacc., 1889 SPECIES
-=======
+# Lecanidion maurum (W. Phillips) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

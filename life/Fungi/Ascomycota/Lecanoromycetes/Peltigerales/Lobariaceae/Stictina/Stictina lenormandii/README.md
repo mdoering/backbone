@@ -1,5 +1,4 @@
-Stictina lenormandii (Nyl.) Nyl. SPECIES
-=======
+# Stictina lenormandii (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

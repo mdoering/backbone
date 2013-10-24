@@ -1,17 +1,16 @@
-Scolecopeltopsis Höhn. GENUS
-=======
+# Micropeltis Montagne, 1842 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 316 (1909)
+in Sagra, Historia física, polirica y nayturál de la islea de Cuba 325 (1842)
 
 #### Original name
-Scolecopeltopsis Höhn.
+Micropeltis Montagne, 1842
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dufourea inanis (Mont.) Nyl. SPECIES
-=======
+# Dufourea inanis (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

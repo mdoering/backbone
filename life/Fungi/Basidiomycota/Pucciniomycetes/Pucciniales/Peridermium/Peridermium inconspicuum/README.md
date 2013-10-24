@@ -1,5 +1,4 @@
-Peridermium inconspicuum Long SPECIES
-=======
+# Peridermium inconspicuum Long SPECIES
 
 #### Status
 ACCEPTED

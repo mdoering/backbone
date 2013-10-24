@@ -1,5 +1,4 @@
-Dicaeoma pedicularis (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma pedicularis (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

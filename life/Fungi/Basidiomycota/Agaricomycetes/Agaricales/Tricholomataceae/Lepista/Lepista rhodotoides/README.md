@@ -1,5 +1,4 @@
-Lepista rhodotoides Singer SPECIES
-=======
+# Lepista rhodotoides Singer SPECIES
 
 #### Status
 ACCEPTED

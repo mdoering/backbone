@@ -1,5 +1,4 @@
-Halorhabdus tiamatea Antunes, Taborda, Huber, Moissl, Nobre & da Costa, 2008 SPECIES
-=======
+# Halorhabdus tiamatea Antunes, Taborda, Huber, Moissl, Nobre & da Costa, 2008 SPECIES
 
 #### Status
 ACCEPTED

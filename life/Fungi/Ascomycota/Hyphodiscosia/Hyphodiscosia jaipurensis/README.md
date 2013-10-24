@@ -1,5 +1,4 @@
-Hyphodiscosia jaipurensis Lodha & K.R.C. Reddy, 1974 SPECIES
-=======
+# Hyphodiscosia jaipurensis Lodha & K.R.C. Reddy, 1974 SPECIES
 
 #### Status
 ACCEPTED

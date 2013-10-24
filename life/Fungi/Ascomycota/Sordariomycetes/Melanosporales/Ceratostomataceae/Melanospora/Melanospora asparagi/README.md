@@ -1,5 +1,4 @@
-Melanospora asparagi G. Arnaud SPECIES
-=======
+# Melanospora asparagi G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

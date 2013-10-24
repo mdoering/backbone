@@ -1,5 +1,4 @@
-Pseudoklossia chitonis Debasieux, 1919 SPECIES
-=======
+# Pseudoklossia chitonis Debasieux, 1919 SPECIES
 
 #### Status
 ACCEPTED

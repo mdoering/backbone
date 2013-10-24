@@ -1,5 +1,4 @@
-Cortinarius virgineus E. Horak & M.M. Moser SPECIES
-=======
+# Cortinarius virgineus E. Horak & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

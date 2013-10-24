@@ -1,5 +1,4 @@
-Mycetinis kallioneus (Huhtinen) Antonín & Noordel. SPECIES
-=======
+# Mycetinis kallioneus (Huhtinen) Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacidium ranunculi Lib. SPECIES
-=======
+# Phacidium ranunculi Lib. SPECIES
 
 #### Status
 ACCEPTED

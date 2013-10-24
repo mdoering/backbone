@@ -1,5 +1,4 @@
-Sclerotinia carlinae Velen. SPECIES
-=======
+# Sclerotinia carlinae Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pelloporus tubarius (Quél.) Lázaro Ibiza SPECIES
-=======
+# Pelloporus tubarius (Quél.) Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

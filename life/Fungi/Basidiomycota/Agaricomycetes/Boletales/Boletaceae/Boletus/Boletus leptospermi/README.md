@@ -1,5 +1,4 @@
-Boletus leptospermi McNabb, 1968 SPECIES
-=======
+# Boletus leptospermi McNabb, 1968 SPECIES
 
 #### Status
 ACCEPTED

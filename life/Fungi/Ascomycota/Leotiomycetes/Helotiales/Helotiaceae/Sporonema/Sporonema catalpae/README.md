@@ -1,5 +1,4 @@
-Sporonema catalpae (Henn.) Died. SPECIES
-=======
+# Sporonema catalpae (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

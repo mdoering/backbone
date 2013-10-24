@@ -1,5 +1,4 @@
-Sinosphaeria GENUS
-=======
+# Sinosphaeria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema diaphanum (Sw.) Ach. SPECIES
-=======
+# Collema diaphanum (Sw.) Ach. SPECIES
 
 #### Status
 ACCEPTED

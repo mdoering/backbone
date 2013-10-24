@@ -1,5 +1,4 @@
-Phaeopezia elaeodes Clem. SPECIES
-=======
+# Phaeopezia elaeodes Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus glagosus (Ellis & Cooke) Kuntze SPECIES
-=======
+# Hymenoscyphus glagosus (Ellis & Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

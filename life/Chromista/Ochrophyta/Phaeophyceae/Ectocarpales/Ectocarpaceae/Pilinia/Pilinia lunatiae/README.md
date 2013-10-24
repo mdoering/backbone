@@ -1,5 +1,4 @@
-Pilinia lunatiae f. simplex F. Thivy FORM
-=======
+# Pilinia lunatiae F.S. Collins SPECIES
 
 #### Status
 ACCEPTED

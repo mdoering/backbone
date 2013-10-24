@@ -1,5 +1,4 @@
-Tubercularia marginata Preuss SPECIES
-=======
+# Tubercularia marginata Preuss SPECIES
 
 #### Status
 ACCEPTED

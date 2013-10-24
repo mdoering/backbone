@@ -1,5 +1,4 @@
-Diaporthe ciliata (Pers.) Sacc. SPECIES
-=======
+# Diaporthe ciliata (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

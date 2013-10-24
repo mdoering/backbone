@@ -1,5 +1,4 @@
-Physalospora citogerminans Kohlm., Volkm.-Kohlm. & O.E. Erikss. SPECIES
-=======
+# Physalospora citogerminans Kohlm., Volkm.-Kohlm. & O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

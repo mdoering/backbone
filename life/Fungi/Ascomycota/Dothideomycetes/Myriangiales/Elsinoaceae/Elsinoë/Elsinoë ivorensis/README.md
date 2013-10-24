@@ -1,5 +1,4 @@
-Elsinoë ivorensis Bitanc. & Jenkins SPECIES
-=======
+# Elsinoë ivorensis Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

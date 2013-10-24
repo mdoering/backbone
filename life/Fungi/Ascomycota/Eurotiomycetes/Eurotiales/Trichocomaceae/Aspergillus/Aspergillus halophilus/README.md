@@ -1,5 +1,4 @@
-Aspergillus halophilus Sartory, R. Sartory & J. Mey. SPECIES
-=======
+# Aspergillus halophilus Sartory, R. Sartory & J. Mey. SPECIES
 
 #### Status
 ACCEPTED

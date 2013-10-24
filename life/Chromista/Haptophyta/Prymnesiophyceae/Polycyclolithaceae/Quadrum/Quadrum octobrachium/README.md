@@ -1,5 +1,4 @@
-Quadrum octobrachium SPECIES
-=======
+# Quadrum octobrachium SPECIES
 
 #### Status
 ACCEPTED

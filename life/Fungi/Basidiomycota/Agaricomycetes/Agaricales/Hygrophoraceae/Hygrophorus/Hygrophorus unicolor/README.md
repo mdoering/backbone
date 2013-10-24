@@ -1,17 +1,16 @@
-Hygrophorus leucophaeus var. leucophaeus (Scop.) Fr. VARIETY
-=======
+# Hygrophorus unicolor Gröger, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 323 (1838)
+Z. Mykol. 46(2): 160 (1980)
 
 #### Original name
-Hygrophorus leucophaeus var. leucophaeus (Scop.) Fr.
+Hygrophorus unicolor Gröger, 1980
 
 ### Remarks
 null

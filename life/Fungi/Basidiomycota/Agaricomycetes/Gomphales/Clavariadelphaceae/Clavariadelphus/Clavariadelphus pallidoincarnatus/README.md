@@ -1,5 +1,4 @@
-Clavariadelphus pallidoincarnatus Methven, 1989 SPECIES
-=======
+# Clavariadelphus pallidoincarnatus Methven, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria gigaspora Ellis & Everh. SPECIES
-=======
+# Septoria gigaspora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

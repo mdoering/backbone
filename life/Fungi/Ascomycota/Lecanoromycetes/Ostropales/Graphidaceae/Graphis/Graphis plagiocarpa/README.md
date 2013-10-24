@@ -1,5 +1,4 @@
-Graphis plagiocarpa Fée SPECIES
-=======
+# Graphis plagiocarpa Fée SPECIES
 
 #### Status
 ACCEPTED

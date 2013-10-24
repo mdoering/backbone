@@ -1,5 +1,4 @@
-Lentinus compressus Berk. & Cooke SPECIES
-=======
+# Lentinus compressus Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

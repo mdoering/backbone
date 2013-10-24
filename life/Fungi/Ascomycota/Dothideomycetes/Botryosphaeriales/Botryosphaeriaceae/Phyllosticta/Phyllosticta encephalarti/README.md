@@ -1,5 +1,4 @@
-Phyllosticta encephalarti Aa SPECIES
-=======
+# Phyllosticta encephalarti Aa SPECIES
 
 #### Status
 ACCEPTED

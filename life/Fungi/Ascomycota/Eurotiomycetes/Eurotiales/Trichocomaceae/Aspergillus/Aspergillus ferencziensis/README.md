@@ -1,5 +1,4 @@
-Aspergillus ferencziensis ined. SPECIES
-=======
+# Aspergillus ferencziensis ined. SPECIES
 
 #### Status
 ACCEPTED

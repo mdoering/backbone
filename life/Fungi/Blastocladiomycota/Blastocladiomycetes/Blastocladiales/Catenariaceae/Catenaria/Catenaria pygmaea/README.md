@@ -1,5 +1,4 @@
-Catenaria pygmaea Serbinow, 1907 SPECIES
-=======
+# Catenaria pygmaea Serbinow, 1907 SPECIES
 
 #### Status
 ACCEPTED

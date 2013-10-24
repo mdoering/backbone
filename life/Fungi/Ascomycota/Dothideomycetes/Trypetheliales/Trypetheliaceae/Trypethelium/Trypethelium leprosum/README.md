@@ -1,5 +1,4 @@
-Trypethelium leprosum Müll. Arg. SPECIES
-=======
+# Trypethelium leprosum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

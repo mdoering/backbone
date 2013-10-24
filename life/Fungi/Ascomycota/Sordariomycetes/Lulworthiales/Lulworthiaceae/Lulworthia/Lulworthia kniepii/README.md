@@ -1,17 +1,16 @@
-Lulworthia kniepii var. kniepii (Ade & Bauch) Petr., 1957 VARIETY
-=======
+# Lulworthia kniepii (Ade & Bauch) Petr., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 10: 297 (1957)
 
 #### Original name
-null
+Ophiobolus kniepii Ade & Bauch
 
 ### Remarks
 null

@@ -1,11 +1,10 @@
-Alaria marginata f. musiformis Postels & Ruprecht, 1840 FORM
-=======
+# Alaria marginata Postels & Ruprecht SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

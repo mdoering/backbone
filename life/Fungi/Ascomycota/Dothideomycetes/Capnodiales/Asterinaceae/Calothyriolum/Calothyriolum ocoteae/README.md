@@ -1,5 +1,4 @@
-Calothyriolum ocoteae Bat. & H. Maia SPECIES
-=======
+# Calothyriolum ocoteae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

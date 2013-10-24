@@ -1,5 +1,4 @@
-Pseudocercospora kirganeliae (Thirum. & Govindu) Deighton SPECIES
-=======
+# Pseudocercospora kirganeliae (Thirum. & Govindu) Deighton SPECIES
 
 #### Status
 ACCEPTED

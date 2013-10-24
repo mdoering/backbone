@@ -1,5 +1,4 @@
-Agaricus haematosarcus Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus haematosarcus Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

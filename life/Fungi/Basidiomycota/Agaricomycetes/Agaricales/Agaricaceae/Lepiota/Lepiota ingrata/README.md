@@ -1,5 +1,4 @@
-Lepiota ingrata Rick SPECIES
-=======
+# Lepiota ingrata Rick SPECIES
 
 #### Status
 ACCEPTED

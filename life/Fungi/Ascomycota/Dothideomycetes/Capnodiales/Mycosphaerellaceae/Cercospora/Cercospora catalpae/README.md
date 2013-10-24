@@ -1,5 +1,4 @@
-Cercospora catalpae G. Winter SPECIES
-=======
+# Cercospora catalpae G. Winter SPECIES
 
 #### Status
 ACCEPTED

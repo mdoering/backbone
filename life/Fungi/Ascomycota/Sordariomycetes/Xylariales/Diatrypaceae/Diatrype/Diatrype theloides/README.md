@@ -1,5 +1,4 @@
-Diatrype theloides Berk. & Broome SPECIES
-=======
+# Diatrype theloides Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

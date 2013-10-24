@@ -1,17 +1,16 @@
-Graphiopsis cornui Bainier SPECIES
-=======
+# Passalora clematidis (R.K. Verma & Kamal) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 23: 19 (1907)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 448 (2003)
 
 #### Original name
-Graphiopsis cornui Bainier
+Phaeoisariopsis clematidis R.K. Verma & Kamal, 1987
 
 ### Remarks
 null

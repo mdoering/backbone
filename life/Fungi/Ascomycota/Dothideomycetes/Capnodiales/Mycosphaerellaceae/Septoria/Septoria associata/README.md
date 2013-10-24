@@ -1,5 +1,4 @@
-Septoria associata Bubák & Kabát SPECIES
-=======
+# Septoria associata Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

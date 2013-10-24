@@ -1,5 +1,4 @@
-Ceramothyrium gustaviae Bat. & I.H. Lima SPECIES
-=======
+# Ceramothyrium gustaviae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

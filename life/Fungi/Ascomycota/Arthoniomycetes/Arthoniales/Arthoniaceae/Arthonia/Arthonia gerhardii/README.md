@@ -1,5 +1,4 @@
-Arthonia gerhardii Egea & Torrente SPECIES
-=======
+# Arthonia gerhardii Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

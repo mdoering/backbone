@@ -1,5 +1,4 @@
-Thanatephorus theobromae (P.H.B. Talbot & Keane) P. Roberts, 1999 SPECIES
-=======
+# Thanatephorus theobromae (P.H.B. Talbot & Keane) P. Roberts, 1999 SPECIES
 
 #### Status
 ACCEPTED

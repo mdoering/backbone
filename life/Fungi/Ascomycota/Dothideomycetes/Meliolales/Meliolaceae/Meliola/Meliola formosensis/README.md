@@ -1,14 +1,13 @@
-Asteridiella formosensis (W. Yamam.) Hansf., 1961 SPECIES
-=======
+# Meliola formosensis W. Yamam., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 10: 48 (1957)
+Trans. Nat. Hist. Soc. Formosa 18 (1941)
 
 #### Original name
 Meliola formosensis W. Yamam., 1941

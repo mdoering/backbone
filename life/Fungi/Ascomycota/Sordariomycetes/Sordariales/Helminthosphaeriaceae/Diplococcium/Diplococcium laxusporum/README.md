@@ -1,5 +1,4 @@
-Diplococcium laxusporum R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Diplococcium laxusporum R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

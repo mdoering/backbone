@@ -1,5 +1,4 @@
-Domatomonas Lackey, 1939 GENUS
-=======
+# Domatomonas Lackey, 1939 GENUS
 
 #### Status
 SYNONYM

@@ -1,5 +1,4 @@
-Hydnophlebia omnivora (Shear) Hjortstam & Ryvarden SPECIES
-=======
+# Hydnophlebia omnivora (Shear) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

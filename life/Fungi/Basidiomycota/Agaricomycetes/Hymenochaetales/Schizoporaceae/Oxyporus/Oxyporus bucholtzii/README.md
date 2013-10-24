@@ -1,5 +1,4 @@
-Oxyporus bucholtzii (Bondartsev & Ljub.) Y.C. Dai & Niemelä, 1995 SPECIES
-=======
+# Oxyporus bucholtzii (Bondartsev & Ljub.) Y.C. Dai & Niemelä, 1995 SPECIES
 
 #### Status
 ACCEPTED

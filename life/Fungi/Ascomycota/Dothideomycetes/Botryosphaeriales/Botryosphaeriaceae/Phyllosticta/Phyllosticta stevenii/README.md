@@ -1,5 +1,4 @@
-Phyllosticta stevenii Gucevic SPECIES
-=======
+# Phyllosticta stevenii Gucevic SPECIES
 
 #### Status
 ACCEPTED

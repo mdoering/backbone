@@ -1,5 +1,4 @@
-Oospora nicotianae Pezz. SPECIES
-=======
+# Oospora nicotianae Pezz. SPECIES
 
 #### Status
 ACCEPTED

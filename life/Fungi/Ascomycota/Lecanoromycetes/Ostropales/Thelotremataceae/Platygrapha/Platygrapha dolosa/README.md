@@ -1,5 +1,4 @@
-Platygrapha dolosa (Duby) Anzi SPECIES
-=======
+# Platygrapha dolosa (Duby) Anzi SPECIES
 
 #### Status
 ACCEPTED

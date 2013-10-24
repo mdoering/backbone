@@ -1,8 +1,7 @@
-Mallomonas perforata Cronberg & B. Hickel SPECIES
-=======
+# Mallomonas guttata Wujek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Coenogonium kerguelense C.W. Dodge SPECIES
-=======
+# Coenogonium kerguelense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

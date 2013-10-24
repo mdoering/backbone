@@ -1,5 +1,4 @@
-Aecidium rubiae Dietel SPECIES
-=======
+# Aecidium rubiae Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum cystophyllum var. parcespinosa Grunow VARIETY
-=======
+# Sargassum cystophyllum Montagne SPECIES
 
 #### Status
 ACCEPTED

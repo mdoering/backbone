@@ -1,5 +1,4 @@
-Dictyoconos Blanckenhorn, 1900 GENUS
-=======
+# Dictyoconos Blanckenhorn, 1900 GENUS
 
 #### Status
 ACCEPTED

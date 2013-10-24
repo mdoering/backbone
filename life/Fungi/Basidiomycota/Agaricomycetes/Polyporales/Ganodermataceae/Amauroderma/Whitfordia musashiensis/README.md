@@ -1,5 +1,4 @@
-Whitfordia musashiensis (Henn.) Murrill SPECIES
-=======
+# Whitfordia musashiensis (Henn.) Murrill SPECIES
 
 #### Status
 ACCEPTED

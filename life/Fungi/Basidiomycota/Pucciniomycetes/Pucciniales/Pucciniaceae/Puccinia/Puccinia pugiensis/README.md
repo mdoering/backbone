@@ -1,5 +1,4 @@
-Puccinia pugiensis Tai {?} SPECIES
-=======
+# Puccinia pugiensis Tai {?} SPECIES
 
 #### Status
 ACCEPTED

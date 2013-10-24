@@ -1,5 +1,4 @@
-Microascus trigonosporus var. trigonosporus VARIETY
-=======
+# Microascus trigonosporus C.W. Emmons & B.O. Dodge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycologia 23: 317 (1931)
 
 #### Original name
-Microascus trigonosporus var. trigonosporus
+Microascus trigonosporus C.W. Emmons & B.O. Dodge
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Psilocybe aleuriata R. Heim & L. Remy SPECIES
-=======
+# Psilocybe aleuriata R. Heim & L. Remy SPECIES
 
 #### Status
 ACCEPTED

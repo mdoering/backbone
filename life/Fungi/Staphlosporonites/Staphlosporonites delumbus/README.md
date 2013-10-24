@@ -1,5 +1,4 @@
-Staphlosporonites delumbus G. Norris SPECIES
-=======
+# Staphlosporonites delumbus G. Norris SPECIES
 
 #### Status
 ACCEPTED

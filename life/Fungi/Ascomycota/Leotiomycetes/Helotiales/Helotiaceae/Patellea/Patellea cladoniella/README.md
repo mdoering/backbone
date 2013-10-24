@@ -1,5 +1,4 @@
-Patellea cladoniella (Nyl.) Richon SPECIES
-=======
+# Patellea cladoniella (Nyl.) Richon SPECIES
 
 #### Status
 ACCEPTED

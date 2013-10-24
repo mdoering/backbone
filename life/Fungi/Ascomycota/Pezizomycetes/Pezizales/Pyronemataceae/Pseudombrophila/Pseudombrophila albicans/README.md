@@ -1,5 +1,4 @@
-Pseudombrophila albicans (Fuckel) Brumm. SPECIES
-=======
+# Pseudombrophila albicans (Fuckel) Brumm. SPECIES
 
 #### Status
 ACCEPTED

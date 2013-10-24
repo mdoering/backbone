@@ -1,5 +1,4 @@
-Leptosphaeria echiella Feltgen SPECIES
-=======
+# Leptosphaeria echiella Feltgen SPECIES
 
 #### Status
 ACCEPTED

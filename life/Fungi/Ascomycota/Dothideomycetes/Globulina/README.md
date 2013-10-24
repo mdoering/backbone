@@ -1,5 +1,4 @@
-Globulina Spegazzini, 1888 GENUS
-=======
+# Globulina Spegazzini, 1888 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Peziza thalictri Peck SPECIES
-=======
+# Pyrenopeziza thalictri (Peck) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 360 (1889)
 
 #### Original name
 Peziza thalictri Peck

@@ -1,5 +1,4 @@
-Ascochyta rumicis-patientiae Picb. SPECIES
-=======
+# Ascochyta rumicis-patientiae Picb. SPECIES
 
 #### Status
 ACCEPTED

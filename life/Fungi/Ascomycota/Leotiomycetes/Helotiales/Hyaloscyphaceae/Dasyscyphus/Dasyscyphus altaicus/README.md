@@ -1,5 +1,4 @@
-Dasyscyphus altaicus Raitv. SPECIES
-=======
+# Dasyscyphus altaicus Raitv. SPECIES
 
 #### Status
 ACCEPTED

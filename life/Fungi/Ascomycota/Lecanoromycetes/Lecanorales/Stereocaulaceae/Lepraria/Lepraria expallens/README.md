@@ -1,5 +1,4 @@
-Lepraria expallens (Ach.) Fr. SPECIES
-=======
+# Lepraria expallens (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

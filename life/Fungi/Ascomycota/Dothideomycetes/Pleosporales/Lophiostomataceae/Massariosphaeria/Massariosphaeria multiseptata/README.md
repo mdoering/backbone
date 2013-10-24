@@ -1,14 +1,13 @@
-Pleospora multiseptata Starbäck, 1887 SPECIES
-=======
+# Massariosphaeria multiseptata (Starbäck) Crivelli, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ueber die Heterogene Ascomycetengattung Pleospora Rabh. ; Vorschlag für eine Aufteilung (Diss. Eid genössischen Technischen Hochschule Zürich <b>7318</b>) 148 (1983)
 
 #### Original name
 Pleospora multiseptata Starbäck, 1887

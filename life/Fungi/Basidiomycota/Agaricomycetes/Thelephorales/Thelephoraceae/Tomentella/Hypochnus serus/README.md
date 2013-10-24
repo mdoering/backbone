@@ -1,17 +1,16 @@
-Hypochnus serus var. serus VARIETY
-=======
+# Hypochnus serus SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Observ. mycol. (Lipsiae) 2: 278 (1800)
+null
 
 #### Original name
-Hypochnus serus var. serus
+null
 
 ### Remarks
 null

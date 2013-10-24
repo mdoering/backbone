@@ -1,5 +1,4 @@
-Merarthonis GENUS
-=======
+# Merarthonis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria gaillardiae Speg. SPECIES
-=======
+# Septoria gaillardiae Speg. SPECIES
 
 #### Status
 ACCEPTED

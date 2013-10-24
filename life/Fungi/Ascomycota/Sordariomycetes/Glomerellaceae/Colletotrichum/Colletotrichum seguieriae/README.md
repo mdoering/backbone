@@ -1,5 +1,4 @@
-Colletotrichum seguieriae Bond.-Mont. SPECIES
-=======
+# Colletotrichum seguieriae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

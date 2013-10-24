@@ -1,5 +1,4 @@
-Buellia tesserata Körb. SPECIES
-=======
+# Buellia tesserata Körb. SPECIES
 
 #### Status
 ACCEPTED

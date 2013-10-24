@@ -1,5 +1,4 @@
-Gyalidea polyspora R. Sant. SPECIES
-=======
+# Gyalidea polyspora R. Sant. SPECIES
 
 #### Status
 ACCEPTED

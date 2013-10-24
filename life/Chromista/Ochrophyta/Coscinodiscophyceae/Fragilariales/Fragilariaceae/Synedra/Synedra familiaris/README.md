@@ -1,5 +1,4 @@
-Synedra familiaris f. major Grunow FORM
-=======
+# Synedra familiaris Kützing SPECIES
 
 #### Status
 ACCEPTED

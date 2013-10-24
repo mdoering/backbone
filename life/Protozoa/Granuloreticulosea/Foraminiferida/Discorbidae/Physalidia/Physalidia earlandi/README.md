@@ -1,5 +1,4 @@
-Physalidia earlandi SPECIES
-=======
+# Physalidia earlandi SPECIES
 
 #### Status
 ACCEPTED

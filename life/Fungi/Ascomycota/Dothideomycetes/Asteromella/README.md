@@ -1,17 +1,16 @@
-Stictochorellina Petr. GENUS
-=======
+# Asteromella Passerini & Thümen, 1880 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls mycol. 20(5/6): 337 (1922)
+null
 
 #### Original name
-Stictochorellina Petr.
+null
 
 ### Remarks
 null

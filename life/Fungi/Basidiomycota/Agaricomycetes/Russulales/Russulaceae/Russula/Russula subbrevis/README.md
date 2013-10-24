@@ -1,5 +1,4 @@
-Russula subbrevis Reumaux SPECIES
-=======
+# Russula subbrevis Reumaux SPECIES
 
 #### Status
 ACCEPTED

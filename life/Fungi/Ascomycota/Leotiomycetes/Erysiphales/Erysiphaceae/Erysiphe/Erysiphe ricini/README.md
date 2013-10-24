@@ -1,5 +1,4 @@
-Erysiphe ricini Speschnew SPECIES
-=======
+# Erysiphe ricini Speschnew SPECIES
 
 #### Status
 ACCEPTED

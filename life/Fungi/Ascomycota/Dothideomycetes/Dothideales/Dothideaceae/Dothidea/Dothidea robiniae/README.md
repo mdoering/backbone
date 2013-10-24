@@ -1,5 +1,4 @@
-Dothidea robiniae Schwein. SPECIES
-=======
+# Dothidea robiniae Schwein. SPECIES
 
 #### Status
 ACCEPTED

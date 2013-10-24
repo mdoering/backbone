@@ -1,5 +1,4 @@
-Omphalina tortilis (Bolton) SPECIES
-=======
+# Omphalina tortilis (Bolton) SPECIES
 
 #### Status
 ACCEPTED

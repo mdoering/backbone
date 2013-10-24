@@ -1,5 +1,4 @@
-Uredo circinata Schwein. SPECIES
-=======
+# Uredo circinata Schwein. SPECIES
 
 #### Status
 ACCEPTED

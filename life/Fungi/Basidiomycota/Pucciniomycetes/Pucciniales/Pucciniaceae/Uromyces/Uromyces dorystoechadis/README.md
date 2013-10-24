@@ -1,5 +1,4 @@
-Uromyces dorystoechadis Gjaerum & Bahç., 2004 SPECIES
-=======
+# Uromyces dorystoechadis Gjaerum & Bahç., 2004 SPECIES
 
 #### Status
 ACCEPTED

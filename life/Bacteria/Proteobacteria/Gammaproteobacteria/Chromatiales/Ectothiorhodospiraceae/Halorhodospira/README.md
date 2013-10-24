@@ -1,5 +1,4 @@
-Halorhodospira Imhoff & Suling, 1997 GENUS
-=======
+# Halorhodospira Imhoff & Suling, 1997 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelotheca pennisetina S. Ahmad SPECIES
-=======
+# Sphacelotheca pennisetina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

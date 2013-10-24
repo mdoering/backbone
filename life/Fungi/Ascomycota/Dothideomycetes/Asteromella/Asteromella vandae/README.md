@@ -1,5 +1,4 @@
-Asteromella vandae (Namysl.) H. Ruppr. SPECIES
-=======
+# Asteromella vandae (Namysl.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

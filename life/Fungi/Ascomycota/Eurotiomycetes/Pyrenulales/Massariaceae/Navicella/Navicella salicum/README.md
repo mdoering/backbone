@@ -1,5 +1,4 @@
-Navicella salicum Fabre SPECIES
-=======
+# Navicella salicum Fabre SPECIES
 
 #### Status
 ACCEPTED

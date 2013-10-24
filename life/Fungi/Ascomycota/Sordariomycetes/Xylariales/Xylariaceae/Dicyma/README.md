@@ -1,5 +1,4 @@
-Dicyma Boulanger, 1897 GENUS
-=======
+# Dicyma Boulanger, 1897 GENUS
 
 #### Status
 ACCEPTED

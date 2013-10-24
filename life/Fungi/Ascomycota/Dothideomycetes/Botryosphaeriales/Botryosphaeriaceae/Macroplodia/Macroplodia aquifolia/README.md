@@ -1,5 +1,4 @@
-Macroplodia aquifolia Westend. SPECIES
-=======
+# Macroplodia aquifolia Westend. SPECIES
 
 #### Status
 ACCEPTED

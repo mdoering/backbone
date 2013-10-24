@@ -1,5 +1,4 @@
-Rhizopogon florencianus A.H. Sm. SPECIES
-=======
+# Rhizopogon florencianus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

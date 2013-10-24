@@ -1,5 +1,4 @@
-Verrucaria magnussoniana Servít SPECIES
-=======
+# Verrucaria magnussoniana Servít SPECIES
 
 #### Status
 ACCEPTED

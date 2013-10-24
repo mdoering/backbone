@@ -1,5 +1,4 @@
-Dematium stilboides Alb. & Schwein. SPECIES
-=======
+# Dematium stilboides Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium helvolum Jungh. SPECIES
-=======
+# Cenangium helvolum Jungh. SPECIES
 
 #### Status
 ACCEPTED

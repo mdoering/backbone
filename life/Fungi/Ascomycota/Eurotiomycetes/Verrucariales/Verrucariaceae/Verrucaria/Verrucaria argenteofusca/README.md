@@ -1,5 +1,4 @@
-Verrucaria argenteofusca Hoffm. SPECIES
-=======
+# Verrucaria argenteofusca Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta steironematis Dearn. & House SPECIES
-=======
+# Phyllosticta steironematis Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

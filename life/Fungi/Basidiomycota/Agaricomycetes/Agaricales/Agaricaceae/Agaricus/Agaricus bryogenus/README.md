@@ -1,5 +1,4 @@
-Agaricus bryogenus Secr. SPECIES
-=======
+# Agaricus bryogenus Secr. SPECIES
 
 #### Status
 ACCEPTED

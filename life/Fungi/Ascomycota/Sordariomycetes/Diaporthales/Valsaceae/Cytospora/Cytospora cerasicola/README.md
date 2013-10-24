@@ -1,5 +1,4 @@
-Cytospora cerasicola Sacc. SPECIES
-=======
+# Cytospora cerasicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

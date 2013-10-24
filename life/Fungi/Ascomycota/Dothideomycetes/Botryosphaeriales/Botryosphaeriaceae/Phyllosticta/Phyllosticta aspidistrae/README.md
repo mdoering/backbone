@@ -1,5 +1,4 @@
-Phyllosticta aspidistrae Oudem. SPECIES
-=======
+# Phyllosticta aspidistrae Oudem. SPECIES
 
 #### Status
 ACCEPTED

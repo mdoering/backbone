@@ -1,5 +1,4 @@
-Acarospora montana H. Magn. SPECIES
-=======
+# Acarospora montana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

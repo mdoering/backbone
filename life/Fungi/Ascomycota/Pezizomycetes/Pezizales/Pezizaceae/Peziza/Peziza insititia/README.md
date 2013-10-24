@@ -1,5 +1,4 @@
-Peziza insititia Berk. & M.A. Curtis SPECIES
-=======
+# Peziza insititia Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

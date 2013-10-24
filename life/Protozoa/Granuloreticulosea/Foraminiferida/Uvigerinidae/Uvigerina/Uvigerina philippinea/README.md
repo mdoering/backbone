@@ -1,5 +1,4 @@
-Uvigerina philippinea Saidova, 1975 SPECIES
-=======
+# Uvigerina philippinea Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

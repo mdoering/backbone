@@ -1,5 +1,4 @@
-Lecanosticta Syd. GENUS
-=======
+# Lecanosticta Syd. GENUS
 
 #### Status
 ACCEPTED

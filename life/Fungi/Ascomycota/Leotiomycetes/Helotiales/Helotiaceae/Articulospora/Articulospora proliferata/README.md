@@ -1,5 +1,4 @@
-Articulospora proliferata A. Roldán & W.J.J. van der Merwe SPECIES
-=======
+# Articulospora proliferata A. Roldán & W.J.J. van der Merwe SPECIES
 
 #### Status
 ACCEPTED

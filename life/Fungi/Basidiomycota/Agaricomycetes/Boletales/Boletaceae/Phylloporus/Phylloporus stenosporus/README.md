@@ -1,5 +1,4 @@
-Phylloporus stenosporus Corner SPECIES
-=======
+# Phylloporus stenosporus Corner SPECIES
 
 #### Status
 ACCEPTED

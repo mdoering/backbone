@@ -1,5 +1,4 @@
-Epalxella triangula Kahl, 1932 SPECIES
-=======
+# Epalxella triangula Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

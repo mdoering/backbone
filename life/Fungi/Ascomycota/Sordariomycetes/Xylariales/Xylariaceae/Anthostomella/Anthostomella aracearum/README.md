@@ -1,5 +1,4 @@
-Anthostomella aracearum Petrini & Dreyfuss SPECIES
-=======
+# Anthostomella aracearum Petrini & Dreyfuss SPECIES
 
 #### Status
 ACCEPTED

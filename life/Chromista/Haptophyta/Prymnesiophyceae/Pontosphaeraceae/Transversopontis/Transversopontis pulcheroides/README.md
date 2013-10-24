@@ -1,5 +1,4 @@
-Transversopontis pulcheroides (Sullivan, 1964) Báldi-Beke, 1971 SPECIES
-=======
+# Transversopontis pulcheroides (Sullivan, 1964) Báldi-Beke, 1971 SPECIES
 
 #### Status
 ACCEPTED

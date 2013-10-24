@@ -1,5 +1,4 @@
-Astasia thiophila Huber-PeStalozzi SPECIES
-=======
+# Astasia thiophila Huber-PeStalozzi SPECIES
 
 #### Status
 ACCEPTED

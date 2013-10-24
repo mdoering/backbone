@@ -1,5 +1,4 @@
-Septoria camelinae Lobik SPECIES
-=======
+# Septoria camelinae Lobik SPECIES
 
 #### Status
 ACCEPTED

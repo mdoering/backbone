@@ -1,5 +1,4 @@
-Lembosia acicola (Harkn.) Sacc. SPECIES
-=======
+# Lembosia acicola (Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

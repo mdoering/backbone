@@ -1,17 +1,16 @@
-Thelephora byssoides var. byssoides VARIETY
-=======
+# Amphinema byssoides (Pers.) J. Erikss., 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 16(no. 1): 112 (1958)
 
 #### Original name
-Thelephora byssoides var. byssoides
+Thelephora byssoides Pers., 1801
 
 ### Remarks
 null

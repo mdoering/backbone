@@ -1,5 +1,4 @@
-Verrucaria lecideoides f. lecideoides FORM
-=======
+# Verrucaria lecideoides Trev. SPECIES
 
 #### Status
 ACCEPTED

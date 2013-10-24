@@ -1,5 +1,4 @@
-Graphina hordeiformis (Fée) Zahlbr. SPECIES
-=======
+# Graphina hordeiformis (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

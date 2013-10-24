@@ -1,14 +1,13 @@
-Buellia subarenaria Müll. Arg. SPECIES
-=======
+# Rinodina brattii H. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 1: 52 (1893)
+Beih. Nova Hedwigia 79: 515 (1984)
 
 #### Original name
 Buellia subarenaria Müll. Arg.

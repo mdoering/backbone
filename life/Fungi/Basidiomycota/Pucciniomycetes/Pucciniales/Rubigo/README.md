@@ -1,5 +1,4 @@
-Rubigo GENUS
-=======
+# Rubigo GENUS
 
 #### Status
 ACCEPTED

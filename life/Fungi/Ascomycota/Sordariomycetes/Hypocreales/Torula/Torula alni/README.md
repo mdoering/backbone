@@ -1,5 +1,4 @@
-Torula alni J. Lindau SPECIES
-=======
+# Torula alni J. Lindau SPECIES
 
 #### Status
 ACCEPTED

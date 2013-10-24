@@ -1,5 +1,4 @@
-Mycena austropolygramma Raithelh. SPECIES
-=======
+# Mycena austropolygramma Raithelh. SPECIES
 
 #### Status
 ACCEPTED

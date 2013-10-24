@@ -1,5 +1,4 @@
-Ascochyta palmicola Punith. SPECIES
-=======
+# Ascochyta palmicola Punith. SPECIES
 
 #### Status
 ACCEPTED

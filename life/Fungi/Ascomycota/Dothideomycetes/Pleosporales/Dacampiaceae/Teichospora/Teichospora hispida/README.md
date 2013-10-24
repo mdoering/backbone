@@ -1,5 +1,4 @@
-Teichospora hispida Fuckel SPECIES
-=======
+# Teichospora hispida Fuckel SPECIES
 
 #### Status
 ACCEPTED

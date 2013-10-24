@@ -1,5 +1,4 @@
-Labrella graminea Fr. SPECIES
-=======
+# Labrella graminea Fr. SPECIES
 
 #### Status
 ACCEPTED

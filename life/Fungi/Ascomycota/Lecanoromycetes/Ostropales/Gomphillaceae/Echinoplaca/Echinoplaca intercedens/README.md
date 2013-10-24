@@ -1,5 +1,4 @@
-Echinoplaca intercedens Vezda SPECIES
-=======
+# Echinoplaca intercedens Vezda SPECIES
 
 #### Status
 ACCEPTED

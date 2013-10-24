@@ -1,5 +1,4 @@
-Hydrocybe lipocystis var. lipocystis VARIETY
-=======
+# Hydrocybe lipocystis Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hydrocybe lipocystis var. lipocystis
+Hydrocybe lipocystis Singer
 
 ### Remarks
 null

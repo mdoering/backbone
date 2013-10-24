@@ -1,5 +1,4 @@
-Abdullaevia Suleimanov, 1965 GENUS
-=======
+# Abdullaevia Suleimanov, 1965 GENUS
 
 #### Status
 ACCEPTED

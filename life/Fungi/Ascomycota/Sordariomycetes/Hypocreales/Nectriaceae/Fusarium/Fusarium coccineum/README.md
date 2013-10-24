@@ -1,5 +1,4 @@
-Fusarium coccineum Schwein. SPECIES
-=======
+# Fusarium coccineum Schwein. SPECIES
 
 #### Status
 ACCEPTED

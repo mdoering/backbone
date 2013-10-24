@@ -1,5 +1,4 @@
-Lactarius thyinos A.H. Sm. SPECIES
-=======
+# Lactarius thyinos A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

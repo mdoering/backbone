@@ -1,5 +1,4 @@
-Sporisorium aegyptiacum (A.A. Fisch. Waldh.) Vánky, 1988 SPECIES
-=======
+# Sporisorium aegyptiacum (A.A. Fisch. Waldh.) Vánky, 1988 SPECIES
 
 #### Status
 ACCEPTED

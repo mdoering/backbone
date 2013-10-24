@@ -1,5 +1,4 @@
-Lecania candicans var. candicans VARIETY
-=======
+# Lecania candicans SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecania candicans var. candicans
+null
 
 ### Remarks
 null

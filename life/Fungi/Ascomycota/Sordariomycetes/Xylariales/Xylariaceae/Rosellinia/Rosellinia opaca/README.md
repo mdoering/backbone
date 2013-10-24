@@ -1,5 +1,4 @@
-Rosellinia opaca Cooke SPECIES
-=======
+# Rosellinia opaca Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pucciniopsis guarantica Speg. SPECIES
-=======
+# Pucciniopsis guaranitica Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 26: 74 (1888)
 
 #### Original name
-Pucciniopsis guarantica Speg.
+Pucciniopsis guaranitica Speg.
 
 ### Remarks
 null

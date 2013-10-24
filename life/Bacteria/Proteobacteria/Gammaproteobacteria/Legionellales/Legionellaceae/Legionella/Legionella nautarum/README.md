@@ -1,5 +1,4 @@
-Legionella nautarum Dennis et al., 1993 SPECIES
-=======
+# Legionella nautarum Dennis et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Verrucaria quernea (Dicks.) Hoffm. SPECIES
-=======
+# Pyrrhospora quernea (Dicks.) Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) 209, tab. 1, fig. 7 (1855)
 
 #### Original name
 Lichen querneus Dicks.

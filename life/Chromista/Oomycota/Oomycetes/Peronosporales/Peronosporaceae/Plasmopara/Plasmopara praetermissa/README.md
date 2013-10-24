@@ -1,5 +1,4 @@
-Plasmopara praetermissa Voglmayr, Fatehi & Constant., 2006 SPECIES
-=======
+# Plasmopara praetermissa Voglmayr, Fatehi & Constant., 2006 SPECIES
 
 #### Status
 ACCEPTED

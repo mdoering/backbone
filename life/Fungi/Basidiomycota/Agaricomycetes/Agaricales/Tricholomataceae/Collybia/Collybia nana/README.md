@@ -1,5 +1,4 @@
-Collybia nana (Massee) Dennis SPECIES
-=======
+# Collybia nana (Massee) Dennis SPECIES
 
 #### Status
 ACCEPTED

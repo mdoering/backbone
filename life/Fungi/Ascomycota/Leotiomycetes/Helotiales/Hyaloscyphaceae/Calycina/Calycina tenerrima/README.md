@@ -1,5 +1,4 @@
-Calycina tenerrima (Fr.) Kuntze SPECIES
-=======
+# Calycina tenerrima (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

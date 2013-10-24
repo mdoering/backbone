@@ -1,5 +1,4 @@
-Valsa subcuticularis Cooke & Ellis SPECIES
-=======
+# Valsa subcuticularis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium contiguum P. Karst. SPECIES
-=======
+# Corticium contiguum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

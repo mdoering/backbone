@@ -1,5 +1,4 @@
-Helvella pedunculata Harmaja SPECIES
-=======
+# Helvella pedunculata Harmaja SPECIES
 
 #### Status
 ACCEPTED

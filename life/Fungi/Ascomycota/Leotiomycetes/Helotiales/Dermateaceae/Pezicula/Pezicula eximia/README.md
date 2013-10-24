@@ -1,5 +1,4 @@
-Pezicula eximia Rehm SPECIES
-=======
+# Pezicula eximia Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptophyllopsis Kajimura, 1981 GENUS
-=======
+# Streptophyllopsis Kajimura, 1981 GENUS
 
 #### Status
 ACCEPTED

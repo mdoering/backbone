@@ -1,5 +1,4 @@
-Marasmiellus atropapillatus (Kühner & Maire) Singer SPECIES
-=======
+# Marasmiellus atropapillatus (Kühner & Maire) Singer SPECIES
 
 #### Status
 ACCEPTED

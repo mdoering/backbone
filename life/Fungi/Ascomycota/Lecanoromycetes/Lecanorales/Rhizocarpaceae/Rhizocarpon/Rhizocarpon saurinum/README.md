@@ -1,5 +1,4 @@
-Rhizocarpon saurinum (W. A. Weber) Bungartz SPECIES
-=======
+# Rhizocarpon saurinum (W. A. Weber) Bungartz SPECIES
 
 #### Status
 ACCEPTED

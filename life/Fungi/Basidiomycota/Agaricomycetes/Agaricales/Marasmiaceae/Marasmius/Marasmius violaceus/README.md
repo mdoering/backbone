@@ -1,5 +1,4 @@
-Marasmius violaceus Henn. SPECIES
-=======
+# Marasmius violaceus Henn. SPECIES
 
 #### Status
 ACCEPTED

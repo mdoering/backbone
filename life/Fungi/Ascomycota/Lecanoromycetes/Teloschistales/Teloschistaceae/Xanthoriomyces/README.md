@@ -1,5 +1,4 @@
-Xanthoriomyces GENUS
-=======
+# Xanthoriomyces GENUS
 
 #### Status
 ACCEPTED

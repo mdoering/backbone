@@ -1,5 +1,4 @@
-Micrhystridium baculiferum Takahashi in Takahashi & Kim, 1979 SPECIES
-=======
+# Micrhystridium baculiferum Takahashi in Takahashi & Kim, 1979 SPECIES
 
 #### Status
 ACCEPTED

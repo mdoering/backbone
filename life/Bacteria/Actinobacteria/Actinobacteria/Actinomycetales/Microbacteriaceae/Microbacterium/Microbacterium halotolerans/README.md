@@ -1,5 +1,4 @@
-Microbacterium halotolerans Li et al., 2005 SPECIES
-=======
+# Microbacterium halotolerans Li et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

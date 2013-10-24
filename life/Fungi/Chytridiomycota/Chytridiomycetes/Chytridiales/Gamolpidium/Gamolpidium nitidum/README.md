@@ -1,5 +1,4 @@
-Gamolpidium nitidum Vladescu SPECIES
-=======
+# Gamolpidium nitidum Vladescu SPECIES
 
 #### Status
 ACCEPTED

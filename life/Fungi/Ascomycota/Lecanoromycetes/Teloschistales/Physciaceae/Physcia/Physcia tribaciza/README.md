@@ -1,5 +1,4 @@
-Physcia tribaciza SPECIES
-=======
+# Physcia tribaciza SPECIES
 
 #### Status
 ACCEPTED

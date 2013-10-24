@@ -1,5 +1,4 @@
-Gorgonisphaeridium bringewoodense Dorning, 1981 SPECIES
-=======
+# Gorgonisphaeridium bringewoodense Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

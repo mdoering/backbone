@@ -1,5 +1,4 @@
-Chroococcus microscopicus J. Komárková-Legnerová & G. Cronberg SPECIES
-=======
+# Chroococcus microscopicus J. Komárková-Legnerová & G. Cronberg SPECIES
 
 #### Status
 ACCEPTED

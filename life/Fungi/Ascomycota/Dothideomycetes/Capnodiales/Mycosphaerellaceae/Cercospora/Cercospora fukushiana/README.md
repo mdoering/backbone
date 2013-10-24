@@ -1,5 +1,4 @@
-Cercospora fukushiana (Matsuura) W. Yamam. SPECIES
-=======
+# Cercospora fukushiana (Matsuura) W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

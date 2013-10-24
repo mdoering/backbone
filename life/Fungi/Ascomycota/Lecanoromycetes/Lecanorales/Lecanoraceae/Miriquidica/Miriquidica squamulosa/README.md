@@ -1,5 +1,4 @@
-Miriquidica squamulosa Fryday SPECIES
-=======
+# Miriquidica squamulosa Fryday SPECIES
 
 #### Status
 ACCEPTED

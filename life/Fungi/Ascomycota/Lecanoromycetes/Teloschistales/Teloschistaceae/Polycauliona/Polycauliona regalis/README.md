@@ -1,5 +1,4 @@
-Polycauliona regalis (Vain.) Hue SPECIES
-=======
+# Polycauliona regalis (Vain.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerostagonospora centaureae Sameva & Vanev SPECIES
-=======
+# Sclerostagonospora centaureae Sameva & Vanev SPECIES
 
 #### Status
 ACCEPTED

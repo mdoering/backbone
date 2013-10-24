@@ -1,5 +1,4 @@
-Inocybe umbrinescens Murrill SPECIES
-=======
+# Inocybe umbrinescens Murrill SPECIES
 
 #### Status
 ACCEPTED

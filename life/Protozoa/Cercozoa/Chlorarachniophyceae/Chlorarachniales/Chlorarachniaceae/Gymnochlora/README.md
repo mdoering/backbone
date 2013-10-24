@@ -1,5 +1,4 @@
-Gymnochlora K.Ishida & Y.Hara, 1996 GENUS
-=======
+# Gymnochlora K.Ishida & Y.Hara, 1996 GENUS
 
 #### Status
 ACCEPTED

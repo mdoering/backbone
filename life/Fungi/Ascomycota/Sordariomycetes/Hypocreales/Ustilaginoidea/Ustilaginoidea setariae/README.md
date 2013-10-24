@@ -1,5 +1,4 @@
-Ustilaginoidea setariae Bref., 1895 SPECIES
-=======
+# Ustilaginoidea setariae Bref., 1895 SPECIES
 
 #### Status
 ACCEPTED

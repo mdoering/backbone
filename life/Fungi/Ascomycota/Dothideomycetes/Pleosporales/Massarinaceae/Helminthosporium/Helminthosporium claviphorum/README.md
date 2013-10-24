@@ -1,5 +1,4 @@
-Helminthosporium claviphorum Matsush. SPECIES
-=======
+# Helminthosporium claviphorum Matsush. SPECIES
 
 #### Status
 ACCEPTED

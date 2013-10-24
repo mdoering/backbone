@@ -1,5 +1,4 @@
-Mecsekia spinulosa Hajos, 1966 SPECIES
-=======
+# Mecsekia spinulosa Hajos, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blepharocysta striata Schütt SPECIES
-=======
+# Blepharocysta striata Schütt SPECIES
 
 #### Status
 ACCEPTED

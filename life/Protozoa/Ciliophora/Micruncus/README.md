@@ -1,5 +1,4 @@
-Micruncus Delphy, 1938 GENUS
-=======
+# Micruncus Delphy, 1938 GENUS
 
 #### Status
 ACCEPTED

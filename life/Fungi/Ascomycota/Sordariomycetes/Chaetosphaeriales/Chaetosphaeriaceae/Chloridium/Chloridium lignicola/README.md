@@ -1,5 +1,4 @@
-Chloridium lignicola (F. Mangenot) W. Gams & Hol.-Jech., 1976 SPECIES
-=======
+# Chloridium lignicola (F. Mangenot) W. Gams & Hol.-Jech., 1976 SPECIES
 
 #### Status
 ACCEPTED

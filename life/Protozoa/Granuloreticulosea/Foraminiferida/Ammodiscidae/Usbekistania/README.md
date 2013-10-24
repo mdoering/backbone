@@ -1,5 +1,4 @@
-Usbekistania Suleymanov, 1960 GENUS
-=======
+# Usbekistania Suleymanov, 1960 GENUS
 
 #### Status
 ACCEPTED

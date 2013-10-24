@@ -1,5 +1,4 @@
-Dimerosporium pelladense Henn. SPECIES
-=======
+# Dimerosporium pelladense Henn. SPECIES
 
 #### Status
 ACCEPTED

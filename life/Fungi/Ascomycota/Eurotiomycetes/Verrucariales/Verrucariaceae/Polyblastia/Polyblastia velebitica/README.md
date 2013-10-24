@@ -1,5 +1,4 @@
-Polyblastia velebitica Servít SPECIES
-=======
+# Polyblastia velebitica Servít SPECIES
 
 #### Status
 ACCEPTED

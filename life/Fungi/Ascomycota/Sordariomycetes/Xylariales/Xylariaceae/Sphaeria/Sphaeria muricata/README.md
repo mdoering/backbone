@@ -1,5 +1,4 @@
-Sphaeria muricata Mengasc. & Göpp. SPECIES
-=======
+# Sphaeria muricata Mengasc. & Göpp. SPECIES
 
 #### Status
 ACCEPTED

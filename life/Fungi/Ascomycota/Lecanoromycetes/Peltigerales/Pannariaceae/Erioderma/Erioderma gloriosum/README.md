@@ -1,5 +1,4 @@
-Erioderma gloriosum P.M. Jørg. & Arv. SPECIES
-=======
+# Erioderma gloriosum P.M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

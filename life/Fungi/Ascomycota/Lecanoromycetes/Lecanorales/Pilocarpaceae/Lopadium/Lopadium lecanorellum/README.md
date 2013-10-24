@@ -1,17 +1,16 @@
-Lecidea hodgkinsoniana Kremp. SPECIES
-=======
+# Lopadium lecanorellum A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 30: 341 (1880)
+Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 262 (1860)
 
 #### Original name
-Lecidea hodgkinsoniana Kremp.
+Lopadium lecanorellum A. Massal.
 
 ### Remarks
 null

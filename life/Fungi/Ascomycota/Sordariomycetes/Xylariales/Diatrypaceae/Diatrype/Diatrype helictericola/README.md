@@ -1,5 +1,4 @@
-Diatrype helictericola Tend. SPECIES
-=======
+# Diatrype helictericola Tend. SPECIES
 
 #### Status
 ACCEPTED

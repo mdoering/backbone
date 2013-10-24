@@ -1,5 +1,4 @@
-Uredo columbiae Arthur & Cummins SPECIES
-=======
+# Uredo columbiae Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

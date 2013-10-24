@@ -1,5 +1,4 @@
-Septoria polygalicola Hollós SPECIES
-=======
+# Septoria polygalicola Hollós SPECIES
 
 #### Status
 ACCEPTED

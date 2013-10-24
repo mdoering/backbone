@@ -1,5 +1,4 @@
-Ectocarpus obovatus Foslie SPECIES
-=======
+# Ectocarpus obovatus Foslie SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptothecia groenhartii Makhija & Patw. SPECIES
-=======
+# Cryptothecia groenhartii Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

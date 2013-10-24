@@ -1,5 +1,4 @@
-Leptoniella GENUS
-=======
+# Leptoniella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paradinophycidae FAMILY
-=======
+# Paradinophycidae FAMILY
 
 #### Status
 ACCEPTED

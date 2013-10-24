@@ -1,5 +1,4 @@
-Spermatodium quercus (Beltr.) Trevis. SPECIES
-=======
+# Spermatodium quercus (Beltr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

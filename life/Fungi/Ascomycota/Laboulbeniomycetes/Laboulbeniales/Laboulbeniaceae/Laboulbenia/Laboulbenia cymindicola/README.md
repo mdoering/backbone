@@ -1,5 +1,4 @@
-Laboulbenia cymindicola Speg. SPECIES
-=======
+# Laboulbenia cymindicola Speg. SPECIES
 
 #### Status
 ACCEPTED

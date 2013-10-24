@@ -1,5 +1,4 @@
-Thyrosoma GENUS
-=======
+# Thyrosoma GENUS
 
 #### Status
 ACCEPTED

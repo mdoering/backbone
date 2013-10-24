@@ -1,5 +1,4 @@
-Hysterium alstoniae Tassi SPECIES
-=======
+# Hysterium alstoniae Tassi SPECIES
 
 #### Status
 ACCEPTED

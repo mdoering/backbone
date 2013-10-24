@@ -1,5 +1,4 @@
-Zignoëlla papillata (Fuckel) Sacc. SPECIES
-=======
+# Zignoëlla papillata (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

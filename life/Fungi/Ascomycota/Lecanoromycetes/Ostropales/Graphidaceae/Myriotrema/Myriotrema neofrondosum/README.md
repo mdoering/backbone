@@ -1,5 +1,4 @@
-Myriotrema neofrondosum Sipman SPECIES
-=======
+# Myriotrema neofrondosum Sipman SPECIES
 
 #### Status
 ACCEPTED

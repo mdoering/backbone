@@ -1,5 +1,4 @@
-Flammula tenuis Murrill SPECIES
-=======
+# Flammula tenuis Murrill SPECIES
 
 #### Status
 ACCEPTED

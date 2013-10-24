@@ -1,5 +1,4 @@
-Allarthonia albovirescens (Nyl.) Müll. Arg. SPECIES
-=======
+# Allarthonia albovirescens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

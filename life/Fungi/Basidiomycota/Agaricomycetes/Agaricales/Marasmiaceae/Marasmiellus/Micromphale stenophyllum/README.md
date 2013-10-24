@@ -1,5 +1,4 @@
-Micromphale stenophyllum (Mont.) Singer SPECIES
-=======
+# Micromphale stenophyllum (Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

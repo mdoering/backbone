@@ -1,5 +1,4 @@
-Zwackhiomyces kantvilasii S.Y. Kondr. SPECIES
-=======
+# Zwackhiomyces kantvilasii S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

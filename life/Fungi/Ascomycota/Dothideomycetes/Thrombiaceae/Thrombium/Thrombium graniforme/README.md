@@ -1,5 +1,4 @@
-Thrombium graniforme (K.G. Hagen) Wallr. SPECIES
-=======
+# Thrombium graniforme (K.G. Hagen) Wallr. SPECIES
 
 #### Status
 ACCEPTED

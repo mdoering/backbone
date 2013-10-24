@@ -1,5 +1,4 @@
-Geotrichum cerebrinum Cif. SPECIES
-=======
+# Geotrichum cerebrinum Cif. SPECIES
 
 #### Status
 ACCEPTED

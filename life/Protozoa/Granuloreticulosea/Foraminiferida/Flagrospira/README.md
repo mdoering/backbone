@@ -1,5 +1,4 @@
-Flagrospira Vyalov, 1977 GENUS
-=======
+# Flagrospira Vyalov, 1977 GENUS
 
 #### Status
 ACCEPTED

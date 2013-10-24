@@ -1,5 +1,4 @@
-Phlyctis sepulta A. Massal. SPECIES
-=======
+# Phlyctis sepulta A. Massal. SPECIES
 
 #### Status
 ACCEPTED

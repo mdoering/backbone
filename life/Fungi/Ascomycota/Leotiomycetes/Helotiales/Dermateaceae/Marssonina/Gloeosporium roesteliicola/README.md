@@ -1,5 +1,4 @@
-Gloeosporium roesteliicola Bubák & Serebrian. SPECIES
-=======
+# Gloeosporium roesteliicola Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia pleiophora (Nyl.) Th. Fr. SPECIES
-=======
+# Blastenia pleiophora (Nyl.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

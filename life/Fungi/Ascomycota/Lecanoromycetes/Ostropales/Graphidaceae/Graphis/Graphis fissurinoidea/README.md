@@ -1,5 +1,4 @@
-Graphis fissurinoidea (Nyl.) Vain. SPECIES
-=======
+# Graphis fissurinoidea (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

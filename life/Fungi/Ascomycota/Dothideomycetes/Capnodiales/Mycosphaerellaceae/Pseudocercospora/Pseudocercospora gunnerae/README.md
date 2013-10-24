@@ -1,5 +1,4 @@
-Pseudocercospora gunnerae U. Braun & C.F. Hill, 2006 SPECIES
-=======
+# Pseudocercospora gunnerae U. Braun & C.F. Hill, 2006 SPECIES
 
 #### Status
 ACCEPTED

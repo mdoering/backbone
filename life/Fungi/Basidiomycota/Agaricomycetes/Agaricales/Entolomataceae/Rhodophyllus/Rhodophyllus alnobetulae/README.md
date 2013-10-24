@@ -1,5 +1,4 @@
-Rhodophyllus alnobetulae Kühner SPECIES
-=======
+# Rhodophyllus alnobetulae Kühner SPECIES
 
 #### Status
 ACCEPTED

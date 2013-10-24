@@ -1,5 +1,4 @@
-Tricholoma fractipes Corner SPECIES
-=======
+# Tricholoma fractipes Corner SPECIES
 
 #### Status
 ACCEPTED

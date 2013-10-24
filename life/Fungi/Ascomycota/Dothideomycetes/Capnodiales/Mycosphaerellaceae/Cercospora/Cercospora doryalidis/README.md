@@ -1,5 +1,4 @@
-Cercospora doryalidis Chupp & Doidge SPECIES
-=======
+# Cercospora doryalidis Chupp & Doidge SPECIES
 
 #### Status
 ACCEPTED

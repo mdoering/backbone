@@ -1,5 +1,4 @@
-Ceratomyces reflexus Thaxt. SPECIES
-=======
+# Ceratomyces reflexus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

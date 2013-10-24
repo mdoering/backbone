@@ -1,5 +1,4 @@
-Penicillium nodositatum Valla, 1989 SPECIES
-=======
+# Penicillium nodositatum Valla, 1989 SPECIES
 
 #### Status
 DOUBTFUL

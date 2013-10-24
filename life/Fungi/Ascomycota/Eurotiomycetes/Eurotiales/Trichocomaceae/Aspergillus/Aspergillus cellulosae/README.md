@@ -1,5 +1,4 @@
-Aspergillus cellulosae Ellenberger {?} SPECIES
-=======
+# Aspergillus cellulosae Ellenberger {?} SPECIES
 
 #### Status
 ACCEPTED

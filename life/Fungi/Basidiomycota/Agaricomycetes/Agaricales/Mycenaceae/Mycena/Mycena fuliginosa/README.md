@@ -1,5 +1,4 @@
-Mycena fuliginosa Murrill SPECIES
-=======
+# Mycena fuliginosa Murrill SPECIES
 
 #### Status
 ACCEPTED

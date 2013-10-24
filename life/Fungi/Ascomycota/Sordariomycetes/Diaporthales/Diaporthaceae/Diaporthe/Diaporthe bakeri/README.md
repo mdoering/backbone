@@ -1,5 +1,4 @@
-Diaporthe bakeri Wehm. SPECIES
-=======
+# Diaporthe bakeri Wehm. SPECIES
 
 #### Status
 ACCEPTED

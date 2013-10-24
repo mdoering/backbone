@@ -1,5 +1,4 @@
-Lichinodium sirosiphoideum Nyl. SPECIES
-=======
+# Lichinodium sirosiphoideum Nyl. SPECIES
 
 #### Status
 ACCEPTED

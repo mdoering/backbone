@@ -1,5 +1,4 @@
-Cephaloidophora anisogammari Hoshide, 1971 SPECIES
-=======
+# Cephaloidophora anisogammari Hoshide, 1971 SPECIES
 
 #### Status
 ACCEPTED

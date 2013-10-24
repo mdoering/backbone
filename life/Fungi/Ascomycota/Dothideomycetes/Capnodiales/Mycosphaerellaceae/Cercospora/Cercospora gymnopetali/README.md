@@ -1,5 +1,4 @@
-Cercospora gymnopetali Sawada SPECIES
-=======
+# Cercospora gymnopetali Sawada SPECIES
 
 #### Status
 ACCEPTED

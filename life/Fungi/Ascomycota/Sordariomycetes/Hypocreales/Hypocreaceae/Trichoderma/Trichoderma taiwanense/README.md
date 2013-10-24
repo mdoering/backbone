@@ -1,5 +1,4 @@
-Trichoderma taiwanense Samuels & M.L. Wu SPECIES
-=======
+# Trichoderma taiwanense Samuels & M.L. Wu SPECIES
 
 #### Status
 ACCEPTED

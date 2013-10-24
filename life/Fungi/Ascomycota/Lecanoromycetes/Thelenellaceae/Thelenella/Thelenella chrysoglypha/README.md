@@ -1,5 +1,4 @@
-Thelenella chrysoglypha Vain. SPECIES
-=======
+# Thelenella chrysoglypha Vain. SPECIES
 
 #### Status
 ACCEPTED

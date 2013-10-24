@@ -1,5 +1,4 @@
-Cladochytrium sparganii-ramosi Büsgen SPECIES
-=======
+# Cladochytrium sparganii-ramosi Büsgen SPECIES
 
 #### Status
 ACCEPTED

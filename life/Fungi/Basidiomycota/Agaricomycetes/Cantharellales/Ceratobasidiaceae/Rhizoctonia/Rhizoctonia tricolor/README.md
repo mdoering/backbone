@@ -1,5 +1,4 @@
-Rhizoctonia tricolor Ellis & Everh. SPECIES
-=======
+# Rhizoctonia tricolor Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

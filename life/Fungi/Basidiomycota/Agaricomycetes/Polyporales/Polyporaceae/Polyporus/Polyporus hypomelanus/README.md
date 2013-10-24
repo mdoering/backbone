@@ -1,5 +1,4 @@
-Polyporus hypomelanus Berk. ex Cooke, 1886 SPECIES
-=======
+# Polyporus hypomelanus Berk. ex Cooke, 1886 SPECIES
 
 #### Status
 ACCEPTED

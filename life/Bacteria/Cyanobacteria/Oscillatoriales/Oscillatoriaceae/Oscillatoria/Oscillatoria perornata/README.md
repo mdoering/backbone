@@ -1,5 +1,4 @@
-Oscillatoria perornata Skuja SPECIES
-=======
+# Oscillatoria perornata Skuja SPECIES
 
 #### Status
 ACCEPTED

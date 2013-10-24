@@ -1,5 +1,4 @@
-Pseudocercospora glycosmidis (M. Mandal) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora glycosmidis (M. Mandal) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

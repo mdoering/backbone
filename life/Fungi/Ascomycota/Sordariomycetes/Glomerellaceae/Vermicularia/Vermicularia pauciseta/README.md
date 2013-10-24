@@ -1,5 +1,4 @@
-Vermicularia pauciseta Sacc. SPECIES
-=======
+# Vermicularia pauciseta Sacc. SPECIES
 
 #### Status
 ACCEPTED

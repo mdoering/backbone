@@ -1,5 +1,4 @@
-Botrytis platensis Speg. SPECIES
-=======
+# Botrytis platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

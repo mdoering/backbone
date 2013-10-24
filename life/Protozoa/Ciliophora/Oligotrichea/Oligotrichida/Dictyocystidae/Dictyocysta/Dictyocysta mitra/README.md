@@ -1,5 +1,4 @@
-Dictyocysta mitra Haeckel, 1873 SPECIES
-=======
+# Dictyocysta mitra Haeckel, 1873 SPECIES
 
 #### Status
 ACCEPTED

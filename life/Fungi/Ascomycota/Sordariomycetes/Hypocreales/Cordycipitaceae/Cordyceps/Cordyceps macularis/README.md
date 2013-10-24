@@ -1,5 +1,4 @@
-Cordyceps macularis (Mains) Mains SPECIES
-=======
+# Cordyceps macularis (Mains) Mains SPECIES
 
 #### Status
 ACCEPTED

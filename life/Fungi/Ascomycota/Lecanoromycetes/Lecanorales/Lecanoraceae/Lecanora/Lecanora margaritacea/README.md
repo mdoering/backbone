@@ -1,5 +1,4 @@
-Lecanora margaritacea (Körb.) Motyka SPECIES
-=======
+# Lecanora margaritacea (Körb.) Motyka SPECIES
 
 #### Status
 ACCEPTED

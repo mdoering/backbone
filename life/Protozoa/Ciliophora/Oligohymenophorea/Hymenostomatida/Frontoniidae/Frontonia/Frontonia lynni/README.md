@@ -1,5 +1,4 @@
-Frontonia lynni Long, Song, Gong, Hu, Ma, Zhu & Wang, 2005 SPECIES
-=======
+# Frontonia lynni Long, Song, Gong, Hu, Ma, Zhu & Wang, 2005 SPECIES
 
 #### Status
 ACCEPTED

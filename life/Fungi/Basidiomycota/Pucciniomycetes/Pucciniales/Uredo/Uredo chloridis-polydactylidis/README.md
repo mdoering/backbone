@@ -1,5 +1,4 @@
-Uredo chloridis-polydactylidis Viégas SPECIES
-=======
+# Uredo chloridis-polydactylidis Viégas SPECIES
 
 #### Status
 ACCEPTED

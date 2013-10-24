@@ -1,5 +1,4 @@
-Elachopeltis protiicola Bat. & H. Maia SPECIES
-=======
+# Elachopeltis protiicola Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella arundinacea S. Ahmad SPECIES
-=======
+# Dothiorella arundinacea S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

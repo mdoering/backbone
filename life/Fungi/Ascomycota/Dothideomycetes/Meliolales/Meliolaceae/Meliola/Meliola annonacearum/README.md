@@ -1,17 +1,16 @@
-Meliola anonacearum F. Stevens SPECIES
-=======
+# Meliola annonacearum F. Stevens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 26(3/4): 245 (1928)
 
 #### Original name
-Meliola anonacearum F. Stevens
+Meliola annonacearum F. Stevens
 
 ### Remarks
 null

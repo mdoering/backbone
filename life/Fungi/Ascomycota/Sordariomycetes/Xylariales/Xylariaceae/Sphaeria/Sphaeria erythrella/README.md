@@ -1,5 +1,4 @@
-Sphaeria erythrella Wallr. SPECIES
-=======
+# Sphaeria erythrella Wallr. SPECIES
 
 #### Status
 ACCEPTED

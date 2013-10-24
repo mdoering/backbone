@@ -1,5 +1,4 @@
-Stropharia subaeruginosa Berk. & Broome SPECIES
-=======
+# Stropharia subaeruginosa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

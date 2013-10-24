@@ -1,17 +1,16 @@
-Clastoderma debaryanum subsp. debaryanum SUBSPECIES
-=======
+# Clastoderma debaryanum A. Blytt, 1880 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Ztg. 38: 343 (1880)
 
 #### Original name
-null
+Clastoderma debaryanum A. Blytt, 1880
 
 ### Remarks
 null

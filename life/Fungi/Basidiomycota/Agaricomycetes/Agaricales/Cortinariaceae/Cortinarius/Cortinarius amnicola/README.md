@@ -1,5 +1,4 @@
-Cortinarius amnicola A.H. Sm. SPECIES
-=======
+# Cortinarius amnicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

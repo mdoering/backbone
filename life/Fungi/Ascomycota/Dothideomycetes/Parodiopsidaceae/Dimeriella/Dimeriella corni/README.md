@@ -1,5 +1,4 @@
-Dimeriella corni (Syd.) Hansf. SPECIES
-=======
+# Dimeriella corni (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

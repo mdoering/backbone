@@ -1,5 +1,4 @@
-Microchaete tapahiensis Setchell SPECIES
-=======
+# Microchaete tapahiensis Setchell SPECIES
 
 #### Status
 ACCEPTED

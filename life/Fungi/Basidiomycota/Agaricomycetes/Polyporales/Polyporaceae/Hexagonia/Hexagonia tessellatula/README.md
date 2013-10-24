@@ -1,5 +1,4 @@
-Hexagonia tessellatula Murrill SPECIES
-=======
+# Hexagonia tessellatula Murrill SPECIES
 
 #### Status
 ACCEPTED

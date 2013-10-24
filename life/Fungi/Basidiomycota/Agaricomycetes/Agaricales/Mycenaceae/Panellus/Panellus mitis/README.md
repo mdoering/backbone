@@ -1,14 +1,13 @@
-Panus mitis (Pers.) Kühner, 1980 SPECIES
-=======
+# Panellus mitis (Pers.) Singer, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. agar. 806 (1980)
+Annls mycol. 34(4/5): 334 (1936)
 
 #### Original name
 Agaricus mitis Pers., 1796

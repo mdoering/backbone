@@ -1,5 +1,4 @@
-Thermococcus stetteri Miroshnichenko, 1990 SPECIES
-=======
+# Thermococcus stetteri Miroshnichenko, 1990 SPECIES
 
 #### Status
 ACCEPTED

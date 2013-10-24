@@ -1,5 +1,4 @@
-Periconiella smilacis M.B. Ellis SPECIES
-=======
+# Periconiella smilacis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

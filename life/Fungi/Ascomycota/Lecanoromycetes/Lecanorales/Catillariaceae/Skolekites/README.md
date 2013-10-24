@@ -1,5 +1,4 @@
-Skolekites GENUS
-=======
+# Skolekites GENUS
 
 #### Status
 ACCEPTED

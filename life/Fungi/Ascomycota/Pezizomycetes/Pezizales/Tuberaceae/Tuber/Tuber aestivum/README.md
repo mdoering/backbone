@@ -1,17 +1,16 @@
-Tuber mesentericum var. mesentericum VARIETY
-=======
+# Tuber aestivum Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Chevalier, Riousset, Riousset, Dupre & Gandeboeuf, Monogr. Tuberac. (Milano) 2: 38 (1831)
 
 #### Original name
-Tuber mesentericum var. mesentericum
+Tuber aestivum Vittad., 1831
 
 ### Remarks
 null

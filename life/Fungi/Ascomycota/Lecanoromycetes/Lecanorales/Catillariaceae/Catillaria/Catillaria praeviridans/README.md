@@ -1,5 +1,4 @@
-Catillaria praeviridans (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria praeviridans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

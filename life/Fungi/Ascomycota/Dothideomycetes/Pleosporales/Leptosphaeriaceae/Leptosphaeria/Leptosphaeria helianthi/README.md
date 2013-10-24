@@ -1,5 +1,4 @@
-Leptosphaeria helianthi Ellis & Everh. SPECIES
-=======
+# Leptosphaeria helianthi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

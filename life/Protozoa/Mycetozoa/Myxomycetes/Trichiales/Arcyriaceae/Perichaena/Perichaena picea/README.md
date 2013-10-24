@@ -1,5 +1,4 @@
-Perichaena picea Berk. & Broome SPECIES
-=======
+# Perichaena picea Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

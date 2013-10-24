@@ -1,5 +1,4 @@
-Dichomitus papuanus Quanten, 1996 SPECIES
-=======
+# Dichomitus papuanus Quanten, 1996 SPECIES
 
 #### Status
 ACCEPTED

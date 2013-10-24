@@ -1,5 +1,4 @@
-Catillaria bayeri Servít SPECIES
-=======
+# Catillaria bayeri Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe pelargoniodora Kühner SPECIES
-=======
+# Inocybe pelargoniodora Kühner SPECIES
 
 #### Status
 ACCEPTED

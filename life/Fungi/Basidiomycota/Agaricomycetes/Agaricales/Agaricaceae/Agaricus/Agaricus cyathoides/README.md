@@ -1,5 +1,4 @@
-Agaricus cyathoides var. cyathoides VARIETY
-=======
+# Agaricus cyathoides Bolton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hist. fung. Halifax (Huddersfield), App. 145, pl. 145 (1792)
 
 #### Original name
-Agaricus cyathoides var. cyathoides
+Agaricus cyathoides Bolton
 
 ### Remarks
 null

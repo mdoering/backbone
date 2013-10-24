@@ -1,5 +1,4 @@
-Eolagena Lipina, 1959 GENUS
-=======
+# Eolagena Lipina, 1959 GENUS
 
 #### Status
 ACCEPTED

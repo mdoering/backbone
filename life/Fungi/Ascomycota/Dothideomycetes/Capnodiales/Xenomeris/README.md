@@ -1,5 +1,4 @@
-Xenomeris Syd. GENUS
-=======
+# Xenomeris Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexacromydium Haeckel, 1881 GENUS
-=======
+# Hexacromydium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

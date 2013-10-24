@@ -1,5 +1,4 @@
-Pyrumella Tikhomirova, 1989 GENUS
-=======
+# Pyrumella Tikhomirova, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physorhizophidium pachydermum Scherff., 1926 SPECIES
-=======
+# Physorhizophidium pachydermum Scherff., 1926 SPECIES
 
 #### Status
 ACCEPTED

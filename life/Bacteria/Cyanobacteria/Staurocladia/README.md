@@ -1,5 +1,4 @@
-Staurocladia P. González Guerrero, 1966 GENUS
-=======
+# Staurocladia P. González Guerrero, 1966 GENUS
 
 #### Status
 ACCEPTED

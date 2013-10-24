@@ -1,14 +1,13 @@
-Prospodium erebiae (Syd. & P. Syd.) Bagyan. & Ravinder SPECIES
-=======
+# Prospodium erebia (Syd. & P. Syd.) Bagyan. & Ravinder SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 53: 434 (1995)
 
 #### Original name
 Puccinia erebia Syd. & P. Syd.

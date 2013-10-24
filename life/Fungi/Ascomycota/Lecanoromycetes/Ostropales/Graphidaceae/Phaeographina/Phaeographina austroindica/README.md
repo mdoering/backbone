@@ -1,5 +1,4 @@
-Phaeographina austroindica (D.D. Awasthi & Upreti) Kr.P. Singh SPECIES
-=======
+# Phaeographina austroindica (D.D. Awasthi & Upreti) Kr.P. Singh SPECIES
 
 #### Status
 ACCEPTED

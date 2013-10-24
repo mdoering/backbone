@@ -1,5 +1,4 @@
-Valsa aperta (Fr.) Cooke SPECIES
-=======
+# Valsa aperta (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

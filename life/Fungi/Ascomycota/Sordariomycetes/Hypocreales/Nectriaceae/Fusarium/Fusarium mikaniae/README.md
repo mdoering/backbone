@@ -1,5 +1,4 @@
-Fusarium mikaniae Berk. & M.A. Curtis SPECIES
-=======
+# Fusarium mikaniae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

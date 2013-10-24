@@ -1,5 +1,4 @@
-Pertusaria efflorescens Vain. SPECIES
-=======
+# Pertusaria efflorescens Vain. SPECIES
 
 #### Status
 ACCEPTED

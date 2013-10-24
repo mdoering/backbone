@@ -1,5 +1,4 @@
-Cheiromyces bulbophorus Matsush. SPECIES
-=======
+# Cheiromyces bulbophorus Matsush. SPECIES
 
 #### Status
 ACCEPTED

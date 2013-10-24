@@ -1,5 +1,4 @@
-Bolbitius pluteoides M.M. Moser SPECIES
-=======
+# Bolbitius pluteoides M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

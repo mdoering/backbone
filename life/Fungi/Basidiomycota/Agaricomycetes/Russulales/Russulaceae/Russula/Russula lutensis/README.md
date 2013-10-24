@@ -1,5 +1,4 @@
-Russula lutensis var. reducta (Romagn.) Sarnari VARIETY
-=======
+# Russula lutensis Romagn. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Riv. Micol. 36(1): 46 (1993)
+null
 
 #### Original name
-Russula lutensis f. reducta Romagn.
+Russula lutensis Romagn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bacidia proposita (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia proposita (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

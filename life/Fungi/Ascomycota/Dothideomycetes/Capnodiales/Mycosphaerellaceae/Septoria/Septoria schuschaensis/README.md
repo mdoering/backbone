@@ -1,5 +1,4 @@
-Septoria schuschaensis D.N. Babajan & Husseinova SPECIES
-=======
+# Septoria schuschaensis D.N. Babajan & Husseinova SPECIES
 
 #### Status
 ACCEPTED

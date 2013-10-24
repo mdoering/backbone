@@ -1,5 +1,4 @@
-Ramularia ramosa Golovin SPECIES
-=======
+# Ramularia ramosa Golovin SPECIES
 
 #### Status
 ACCEPTED

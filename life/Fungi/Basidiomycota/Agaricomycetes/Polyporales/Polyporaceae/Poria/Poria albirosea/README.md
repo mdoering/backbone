@@ -1,5 +1,4 @@
-Poria albirosea Murrill SPECIES
-=======
+# Poria albirosea Murrill SPECIES
 
 #### Status
 ACCEPTED

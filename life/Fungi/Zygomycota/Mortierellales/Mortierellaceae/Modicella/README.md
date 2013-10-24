@@ -1,5 +1,4 @@
-Modicella Kanouse, 1936 GENUS
-=======
+# Modicella Kanouse, 1936 GENUS
 
 #### Status
 ACCEPTED

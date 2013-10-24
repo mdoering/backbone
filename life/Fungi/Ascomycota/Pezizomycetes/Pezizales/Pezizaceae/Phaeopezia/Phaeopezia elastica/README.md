@@ -1,5 +1,4 @@
-Phaeopezia elastica Pat. & Gaillard SPECIES
-=======
+# Phaeopezia elastica Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

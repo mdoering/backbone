@@ -1,5 +1,4 @@
-Entepipedus Sugiyama, 1994 GENUS
-=======
+# Entepipedus Sugiyama, 1994 GENUS
 
 #### Status
 ACCEPTED

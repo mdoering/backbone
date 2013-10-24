@@ -1,5 +1,4 @@
-Phoma nitrariae subsp. nitrariae SUBSPECIES
-=======
+# Phoma nitrariae (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma nitrariae subsp. nitrariae
+null
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Hypoxylon fissum Lloyd, 1922 SPECIES
-=======
+# Daldinia lloydii Y.M. Ju, J.D. Rogers & F. San Martín, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1121 (1922)
+Mycotaxon 61: 273 (1997)
 
 #### Original name
 Hypoxylon fissum Lloyd, 1922

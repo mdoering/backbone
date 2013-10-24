@@ -1,5 +1,4 @@
-Mycena pileum-turcicum Mont. SPECIES
-=======
+# Mycena pileum-turcicum Mont. SPECIES
 
 #### Status
 ACCEPTED

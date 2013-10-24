@@ -1,5 +1,4 @@
-Lecanora subcircinata SPECIES
-=======
+# Lecanora subcircinata SPECIES
 
 #### Status
 ACCEPTED

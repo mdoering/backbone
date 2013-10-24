@@ -1,5 +1,4 @@
-Podospora ellisiana (Griffiths) J.H. Mirza & Cain, 1970 SPECIES
-=======
+# Podospora ellisiana (Griffiths) J.H. Mirza & Cain, 1970 SPECIES
 
 #### Status
 ACCEPTED

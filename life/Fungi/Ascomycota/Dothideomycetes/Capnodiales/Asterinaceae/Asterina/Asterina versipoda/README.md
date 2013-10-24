@@ -1,5 +1,4 @@
-Asterina versipoda R.W. Ryan SPECIES
-=======
+# Asterina versipoda R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

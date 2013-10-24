@@ -1,5 +1,4 @@
-Cothurnia elongata Fromentel, 1876 SPECIES
-=======
+# Cothurnia elongata Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

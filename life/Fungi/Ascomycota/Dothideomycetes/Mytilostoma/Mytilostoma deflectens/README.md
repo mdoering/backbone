@@ -1,5 +1,4 @@
-Mytilostoma deflectens P. Karst. SPECIES
-=======
+# Mytilostoma deflectens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

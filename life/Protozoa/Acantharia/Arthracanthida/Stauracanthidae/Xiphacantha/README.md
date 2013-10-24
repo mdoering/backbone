@@ -1,5 +1,4 @@
-Xiphacantha Haeckel, 1861 GENUS
-=======
+# Xiphacantha Haeckel, 1861 GENUS
 
 #### Status
 ACCEPTED

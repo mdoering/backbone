@@ -1,5 +1,4 @@
-Flammula fulvicolor (Murrill) Murrill SPECIES
-=======
+# Flammula fulvicolor (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

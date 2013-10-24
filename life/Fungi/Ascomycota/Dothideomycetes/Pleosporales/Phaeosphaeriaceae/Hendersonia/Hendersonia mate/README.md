@@ -1,5 +1,4 @@
-Hendersonia mate Speg. SPECIES
-=======
+# Hendersonia mate Speg. SPECIES
 
 #### Status
 ACCEPTED

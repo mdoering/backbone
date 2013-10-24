@@ -1,14 +1,13 @@
-Hexasphaera R.F.A. Clarke & J.P. Verdier, 1967 GENUS
-=======
+# Callaiosphaeridium R.J. Davey & G.L. Williams, 1966 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Verh. K. ned. Akad. Wet. (Sect. 1) 24 (3): 42.
+null
 
 #### Original name
 null

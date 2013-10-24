@@ -1,5 +1,4 @@
-Macrophoma sphaerosperma (P. Karst.) Berl. & Voglino SPECIES
-=======
+# Macrophoma sphaerosperma (P. Karst.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

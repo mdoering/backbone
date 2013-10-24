@@ -1,5 +1,4 @@
-Inquilinus limosus Coenye et al., 2002 SPECIES
-=======
+# Inquilinus limosus Coenye et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

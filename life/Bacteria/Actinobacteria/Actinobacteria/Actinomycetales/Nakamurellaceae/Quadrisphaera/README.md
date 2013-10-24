@@ -1,5 +1,4 @@
-Quadrisphaera Maszenan, Tay, Schumann, Jiang & Tay, 2005 GENUS
-=======
+# Quadrisphaera Maszenan, Tay, Schumann, Jiang & Tay, 2005 GENUS
 
 #### Status
 ACCEPTED

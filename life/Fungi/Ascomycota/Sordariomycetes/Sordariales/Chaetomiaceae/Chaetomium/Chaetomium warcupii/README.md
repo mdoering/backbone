@@ -1,5 +1,4 @@
-Chaetomium warcupii A.S. Saxena & Mukerji, 1973 SPECIES
-=======
+# Chaetomium warcupii A.S. Saxena & Mukerji, 1973 SPECIES
 
 #### Status
 ACCEPTED

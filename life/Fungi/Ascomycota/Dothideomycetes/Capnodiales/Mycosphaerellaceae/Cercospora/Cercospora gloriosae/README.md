@@ -1,5 +1,4 @@
-Cercospora gloriosae Syd. SPECIES
-=======
+# Cercospora gloriosae Syd. SPECIES
 
 #### Status
 ACCEPTED

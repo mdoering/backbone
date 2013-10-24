@@ -1,5 +1,4 @@
-Sphaerella briardii Sacc. SPECIES
-=======
+# Sphaerella briardii Sacc. SPECIES
 
 #### Status
 ACCEPTED

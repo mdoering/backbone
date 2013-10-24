@@ -1,5 +1,4 @@
-Ramalina protensa Nyl. SPECIES
-=======
+# Ramalina protensa Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus spraguei Berk. & M.A. Curtis SPECIES
-=======
+# Boletus spraguei Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

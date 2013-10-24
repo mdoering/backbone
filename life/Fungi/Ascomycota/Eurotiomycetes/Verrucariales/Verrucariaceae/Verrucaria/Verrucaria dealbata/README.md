@@ -1,5 +1,4 @@
-Verrucaria dealbata C. Knight SPECIES
-=======
+# Verrucaria dealbata C. Knight SPECIES
 
 #### Status
 ACCEPTED

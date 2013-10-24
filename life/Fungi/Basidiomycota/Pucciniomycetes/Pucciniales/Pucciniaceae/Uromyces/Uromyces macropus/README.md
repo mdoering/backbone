@@ -1,5 +1,4 @@
-Uromyces macropus Link SPECIES
-=======
+# Uromyces macropus Link SPECIES
 
 #### Status
 ACCEPTED

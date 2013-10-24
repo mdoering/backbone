@@ -1,5 +1,4 @@
-Amphisphaeria irregularis Rehm SPECIES
-=======
+# Amphisphaeria irregularis Rehm SPECIES
 
 #### Status
 ACCEPTED

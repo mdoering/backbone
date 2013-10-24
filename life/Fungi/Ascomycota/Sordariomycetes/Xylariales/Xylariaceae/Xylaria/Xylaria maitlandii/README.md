@@ -1,5 +1,4 @@
-Xylaria maitlandii (Dennis) D. Hawksw. SPECIES
-=======
+# Xylaria maitlandii (Dennis) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

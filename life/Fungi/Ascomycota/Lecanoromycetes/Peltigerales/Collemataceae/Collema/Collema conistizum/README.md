@@ -1,5 +1,4 @@
-Collema conistizum Nyl. SPECIES
-=======
+# Collema conistizum Nyl. SPECIES
 
 #### Status
 ACCEPTED

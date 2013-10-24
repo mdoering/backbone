@@ -1,17 +1,16 @@
-Physoderma aeschynomenis Thirum. & M.D. Whitehead SPECIES
-=======
+# Physoderma aeschynomenes Thirum. & M.D. Whitehead SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 43(4): 435 (1951)
 
 #### Original name
-Physoderma aeschynomenis Thirum. & M.D. Whitehead
+Physoderma aeschynomenes Thirum. & M.D. Whitehead
 
 ### Remarks
 null

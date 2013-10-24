@@ -1,5 +1,4 @@
-Uredo luzulae-effusae Hirats. SPECIES
-=======
+# Uredo luzulae-effusae Hirats. SPECIES
 
 #### Status
 ACCEPTED

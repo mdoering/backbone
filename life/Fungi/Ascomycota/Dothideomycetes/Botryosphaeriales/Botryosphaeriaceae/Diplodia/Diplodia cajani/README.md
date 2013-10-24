@@ -1,5 +1,4 @@
-Diplodia cajani Raych., 1942 SPECIES
-=======
+# Diplodia cajani Raych., 1942 SPECIES
 
 #### Status
 ACCEPTED

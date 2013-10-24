@@ -1,8 +1,7 @@
-Leptostroma hypophylla Berk. & Ravenel SPECIES
-=======
+# Leptostroma hypophyllum Berk. & Ravenel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptostroma hypophylla Berk. & Ravenel
+Leptostroma hypophyllum Berk. & Ravenel
 
 ### Remarks
 null

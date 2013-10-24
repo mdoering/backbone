@@ -1,5 +1,4 @@
-Helicosphaera reticulata Bramlette & Wilcoxon, 1967 SPECIES
-=======
+# Helicosphaera reticulata Bramlette & Wilcoxon, 1967 SPECIES
 
 #### Status
 ACCEPTED

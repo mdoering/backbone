@@ -1,5 +1,4 @@
-Lamprospora tropica (Rehm) Sacc. SPECIES
-=======
+# Lamprospora tropica (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

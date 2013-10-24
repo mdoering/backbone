@@ -1,5 +1,4 @@
-Rhizopogon sipei A.H. Sm. SPECIES
-=======
+# Rhizopogon sipei A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

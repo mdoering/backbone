@@ -1,5 +1,4 @@
-Methylococcus thermophilus Malashenko et al., 1975 (Approved Lists, 1980) SPECIES
-=======
+# Methylococcus thermophilus Malashenko et al., 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

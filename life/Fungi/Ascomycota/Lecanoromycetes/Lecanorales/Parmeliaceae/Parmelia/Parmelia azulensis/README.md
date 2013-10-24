@@ -1,5 +1,4 @@
-Parmelia azulensis B. de Lesd. SPECIES
-=======
+# Parmelia azulensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

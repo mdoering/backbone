@@ -1,5 +1,4 @@
-Scaphita Timofeev, 1973 ex Timofeev in Timofeev et al., 1976 GENUS
-=======
+# Scaphita Timofeev, 1973 ex Timofeev in Timofeev et al., 1976 GENUS
 
 #### Status
 ACCEPTED

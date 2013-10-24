@@ -1,5 +1,4 @@
-Pezizella epithallina SPECIES
-=======
+# Pezizella epithallina SPECIES
 
 #### Status
 ACCEPTED

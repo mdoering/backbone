@@ -1,5 +1,4 @@
-Leptothyrium yoshinagai Henn. SPECIES
-=======
+# Leptothyrium yoshinagai Henn. SPECIES
 
 #### Status
 ACCEPTED

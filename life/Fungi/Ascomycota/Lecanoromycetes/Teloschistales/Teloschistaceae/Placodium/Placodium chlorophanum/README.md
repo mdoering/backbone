@@ -1,5 +1,4 @@
-Placodium chlorophanum (Wahlenb.) Flot. SPECIES
-=======
+# Placodium chlorophanum (Wahlenb.) Flot. SPECIES
 
 #### Status
 ACCEPTED

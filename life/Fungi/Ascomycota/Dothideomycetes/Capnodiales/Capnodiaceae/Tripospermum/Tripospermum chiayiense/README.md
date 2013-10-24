@@ -1,5 +1,4 @@
-Tripospermum chiayiense Matsush. SPECIES
-=======
+# Tripospermum chiayiense Matsush. SPECIES
 
 #### Status
 ACCEPTED

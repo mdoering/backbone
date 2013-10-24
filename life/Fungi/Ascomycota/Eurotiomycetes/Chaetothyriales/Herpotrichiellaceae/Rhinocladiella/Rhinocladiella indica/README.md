@@ -1,5 +1,4 @@
-Rhinocladiella indica S.C. Agarwal, 1969 SPECIES
-=======
+# Rhinocladiella indica S.C. Agarwal, 1969 SPECIES
 
 #### Status
 ACCEPTED

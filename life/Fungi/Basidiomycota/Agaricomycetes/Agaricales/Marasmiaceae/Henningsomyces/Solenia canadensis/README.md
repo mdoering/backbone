@@ -1,5 +1,4 @@
-Solenia canadensis W.B. Cooke SPECIES
-=======
+# Solenia canadensis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

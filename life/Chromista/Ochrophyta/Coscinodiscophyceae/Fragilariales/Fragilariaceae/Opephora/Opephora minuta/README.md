@@ -1,5 +1,4 @@
-Opephora minuta (Cleve-Euler) Witkowski SPECIES
-=======
+# Opephora minuta (Cleve-Euler) Witkowski SPECIES
 
 #### Status
 ACCEPTED

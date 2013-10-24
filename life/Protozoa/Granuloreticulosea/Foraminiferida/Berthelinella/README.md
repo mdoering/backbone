@@ -1,5 +1,4 @@
-Berthelinella Loeblich & Tappan, 1957 GENUS
-=======
+# Berthelinella Loeblich & Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

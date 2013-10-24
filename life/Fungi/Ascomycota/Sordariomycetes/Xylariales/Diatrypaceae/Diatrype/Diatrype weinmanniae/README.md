@@ -1,5 +1,4 @@
-Diatrype weinmanniae Rehm SPECIES
-=======
+# Diatrype weinmanniae Rehm SPECIES
 
 #### Status
 ACCEPTED

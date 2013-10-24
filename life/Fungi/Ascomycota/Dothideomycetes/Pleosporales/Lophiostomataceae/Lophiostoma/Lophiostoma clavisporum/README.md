@@ -1,5 +1,4 @@
-Lophiostoma clavisporum Ellis & Everh. SPECIES
-=======
+# Lophiostoma clavisporum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

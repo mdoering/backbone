@@ -1,5 +1,4 @@
-Archaeomonas ninae K. Perch-Nielsen SPECIES
-=======
+# Archaeomonas ninae K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

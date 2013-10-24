@@ -1,5 +1,4 @@
-Padina ryukyuensis Y. P. Lee & S. Kamura SPECIES
-=======
+# Padina ryukyuensis Y. P. Lee & S. Kamura SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glonium vestigiale Fairm. SPECIES
-=======
+# Glonium vestigiale Fairm. SPECIES
 
 #### Status
 ACCEPTED

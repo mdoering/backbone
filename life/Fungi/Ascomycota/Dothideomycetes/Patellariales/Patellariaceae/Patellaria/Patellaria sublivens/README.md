@@ -1,5 +1,4 @@
-Patellaria sublivens (Nyl.) SPECIES
-=======
+# Patellaria sublivens (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

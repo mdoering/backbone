@@ -1,5 +1,4 @@
-Cicinnobella costaricensis Syd. SPECIES
-=======
+# Cicinnobella costaricensis Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candelariella canadensis H. Magn. SPECIES
-=======
+# Candelariella canadensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

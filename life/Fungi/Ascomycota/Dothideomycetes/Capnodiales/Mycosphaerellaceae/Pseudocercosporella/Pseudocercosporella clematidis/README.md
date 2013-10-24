@@ -1,5 +1,4 @@
-Pseudocercosporella clematidis (Goh & W.H. Hsieh) R. Kirschner SPECIES
-=======
+# Pseudocercosporella clematidis (Goh & W.H. Hsieh) R. Kirschner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurothele muliensis Zahlbr. SPECIES
-=======
+# Staurothele muliensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

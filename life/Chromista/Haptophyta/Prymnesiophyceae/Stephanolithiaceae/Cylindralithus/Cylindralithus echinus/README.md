@@ -1,5 +1,4 @@
-Cylindralithus echinus D. Bukry SPECIES
-=======
+# Cylindralithus echinus D. Bukry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina cupulicarpa Redinger SPECIES
-=======
+# Graphina cupulicarpa Redinger SPECIES
 
 #### Status
 ACCEPTED

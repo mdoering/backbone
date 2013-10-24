@@ -1,5 +1,4 @@
-Cortinarius hillieri Rob. Henry SPECIES
-=======
+# Cortinarius hillieri Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

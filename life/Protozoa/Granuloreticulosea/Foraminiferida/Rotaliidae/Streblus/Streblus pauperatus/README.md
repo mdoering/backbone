@@ -1,5 +1,4 @@
-Streblus pauperatus Parr, 1941 SPECIES
-=======
+# Streblus pauperatus Parr, 1941 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bunodophoron A. Massal. GENUS
-=======
+# Bunodophoron A. Massal. GENUS
 
 #### Status
 ACCEPTED

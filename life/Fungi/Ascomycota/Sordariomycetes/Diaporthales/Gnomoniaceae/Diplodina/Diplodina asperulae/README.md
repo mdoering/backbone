@@ -1,5 +1,4 @@
-Diplodina asperulae Hollós SPECIES
-=======
+# Diplodina asperulae Hollós SPECIES
 
 #### Status
 ACCEPTED

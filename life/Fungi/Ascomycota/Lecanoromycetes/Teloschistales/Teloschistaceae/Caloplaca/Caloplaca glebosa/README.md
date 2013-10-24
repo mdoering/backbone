@@ -1,5 +1,4 @@
-Caloplaca glebosa Werner SPECIES
-=======
+# Caloplaca glebosa Werner SPECIES
 
 #### Status
 ACCEPTED

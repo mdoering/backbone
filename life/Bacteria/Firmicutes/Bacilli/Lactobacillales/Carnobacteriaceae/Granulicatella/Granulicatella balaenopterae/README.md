@@ -1,8 +1,7 @@
-Abiotrophia balaenopterae Lawson et al., 1999 SPECIES
-=======
+# Granulicatella balaenopterae (Lawson et al., 1999) Collins & Lawson, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

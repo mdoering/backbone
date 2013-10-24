@@ -1,5 +1,4 @@
-Rhytidocaulon cladonioides (Nyl.) Elenk. SPECIES
-=======
+# Rhytidocaulon cladonioides (Nyl.) Elenk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropustulomyces mucilaginosus R.W. Barreto, 1995 SPECIES
-=======
+# Micropustulomyces mucilaginosus R.W. Barreto, 1995 SPECIES
 
 #### Status
 ACCEPTED

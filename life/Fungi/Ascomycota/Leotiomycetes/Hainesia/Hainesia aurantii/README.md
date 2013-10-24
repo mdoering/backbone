@@ -1,5 +1,4 @@
-Hainesia aurantii Henn. SPECIES
-=======
+# Hainesia aurantii Henn. SPECIES
 
 #### Status
 ACCEPTED

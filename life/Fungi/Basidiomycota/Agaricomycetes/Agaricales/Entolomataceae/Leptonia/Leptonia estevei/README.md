@@ -1,5 +1,4 @@
-Leptonia estevei Cleland SPECIES
-=======
+# Leptonia estevei Cleland SPECIES
 
 #### Status
 ACCEPTED

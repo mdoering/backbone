@@ -1,5 +1,4 @@
-Euplotes minima SPECIES
-=======
+# Euplotes minima SPECIES
 
 #### Status
 ACCEPTED

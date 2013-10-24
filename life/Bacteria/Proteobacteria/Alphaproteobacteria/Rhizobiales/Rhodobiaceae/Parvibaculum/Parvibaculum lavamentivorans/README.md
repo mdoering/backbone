@@ -1,5 +1,4 @@
-Parvibaculum lavamentivorans Schleheck et al., 2004 SPECIES
-=======
+# Parvibaculum lavamentivorans Schleheck et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

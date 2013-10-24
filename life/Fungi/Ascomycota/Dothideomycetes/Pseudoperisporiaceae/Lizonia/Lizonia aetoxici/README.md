@@ -1,5 +1,4 @@
-Lizonia aetoxici Speg. SPECIES
-=======
+# Lizonia aetoxici Speg. SPECIES
 
 #### Status
 ACCEPTED

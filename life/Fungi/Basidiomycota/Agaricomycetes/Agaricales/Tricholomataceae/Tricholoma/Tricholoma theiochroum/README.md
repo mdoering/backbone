@@ -1,5 +1,4 @@
-Tricholoma theiochroum Berk. & Broome SPECIES
-=======
+# Tricholoma theiochroum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

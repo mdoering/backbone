@@ -1,5 +1,4 @@
-Rickia bifida Thaxt. SPECIES
-=======
+# Rickia bifida Thaxt. SPECIES
 
 #### Status
 ACCEPTED

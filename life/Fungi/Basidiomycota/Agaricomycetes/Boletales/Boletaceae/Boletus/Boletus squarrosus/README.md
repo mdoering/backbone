@@ -1,5 +1,4 @@
-Boletus squarrosus Pers. SPECIES
-=======
+# Boletus squarrosus Pers. SPECIES
 
 #### Status
 ACCEPTED

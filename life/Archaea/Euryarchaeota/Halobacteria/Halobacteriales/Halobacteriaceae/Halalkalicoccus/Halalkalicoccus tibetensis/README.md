@@ -1,5 +1,4 @@
-Halalkalicoccus tibetensis Xue et al., 2005 SPECIES
-=======
+# Halalkalicoccus tibetensis Xue et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

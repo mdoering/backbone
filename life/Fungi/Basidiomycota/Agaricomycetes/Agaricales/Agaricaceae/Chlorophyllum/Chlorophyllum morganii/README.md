@@ -1,5 +1,4 @@
-Chlorophyllum morganii (Peck) Massee SPECIES
-=======
+# Chlorophyllum morganii (Peck) Massee SPECIES
 
 #### Status
 ACCEPTED

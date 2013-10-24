@@ -1,5 +1,4 @@
-Byssogene amboinensis Syd., 1922 SPECIES
-=======
+# Byssogene amboinensis Syd., 1922 SPECIES
 
 #### Status
 ACCEPTED

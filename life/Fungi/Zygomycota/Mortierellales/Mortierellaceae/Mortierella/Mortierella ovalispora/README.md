@@ -1,5 +1,4 @@
-Mortierella ovalispora var. ovalispora VARIETY
-=======
+# Mortierella ovalispora Chalab. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mortierella ovalispora var. ovalispora
+Mortierella ovalispora Chalab.
 
 ### Remarks
 null

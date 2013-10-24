@@ -1,5 +1,4 @@
-Cenangium maydis Rehm SPECIES
-=======
+# Cenangium maydis Rehm SPECIES
 
 #### Status
 ACCEPTED

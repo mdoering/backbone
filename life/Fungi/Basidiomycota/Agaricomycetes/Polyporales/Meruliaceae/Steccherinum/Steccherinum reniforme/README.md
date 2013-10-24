@@ -1,17 +1,16 @@
-Steccherinum morgani Banker SPECIES
-=======
+# Steccherinum reniforme (Berk. & M.A. Curtis) Banker, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. Torrey bot. Club 12: 127 (1906)
 
 #### Original name
-Steccherinum morgani Banker
+Hydnum reniforme Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

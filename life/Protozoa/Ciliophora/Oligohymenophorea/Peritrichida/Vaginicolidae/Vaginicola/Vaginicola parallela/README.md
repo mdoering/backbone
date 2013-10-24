@@ -1,5 +1,4 @@
-Vaginicola parallela Maskell, 1888 SPECIES
-=======
+# Vaginicola parallela Maskell, 1888 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema album Petch SPECIES
-=======
+# Sphaeronaema album Petch SPECIES
 
 #### Status
 ACCEPTED

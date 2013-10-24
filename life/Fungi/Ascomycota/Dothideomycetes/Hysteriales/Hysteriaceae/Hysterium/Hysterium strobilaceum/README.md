@@ -1,5 +1,4 @@
-Hysterium strobilaceum S. {?} SPECIES
-=======
+# Hysterium strobilaceum S. {?} SPECIES
 
 #### Status
 ACCEPTED

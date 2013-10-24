@@ -1,8 +1,7 @@
-Diatoma fasciculatum Agardh SPECIES
-=======
+# Synedra fasciculata (Agardh) Kützing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

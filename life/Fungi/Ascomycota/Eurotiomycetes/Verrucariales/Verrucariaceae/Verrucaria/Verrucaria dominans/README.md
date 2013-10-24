@@ -1,5 +1,4 @@
-Verrucaria dominans Stizenb. SPECIES
-=======
+# Verrucaria dominans Stizenb. SPECIES
 
 #### Status
 ACCEPTED

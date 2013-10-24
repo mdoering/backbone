@@ -1,5 +1,4 @@
-Phyllosticta erythrinicola E. Young SPECIES
-=======
+# Phyllosticta erythrinicola E. Young SPECIES
 
 #### Status
 ACCEPTED

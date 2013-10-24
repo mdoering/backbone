@@ -1,5 +1,4 @@
-Claudopus cortinicinctus Kauffman SPECIES
-=======
+# Claudopus cortinicinctus Kauffman SPECIES
 
 #### Status
 ACCEPTED

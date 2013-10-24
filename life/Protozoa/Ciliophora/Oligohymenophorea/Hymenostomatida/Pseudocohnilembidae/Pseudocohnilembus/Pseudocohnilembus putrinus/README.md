@@ -1,8 +1,7 @@
-Lembus putrinus Kahl, 1928 SPECIES
-=======
+# Pseudocohnilembus putrinus (Kahl, 1928) Foissner & Wilbert, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

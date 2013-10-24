@@ -1,5 +1,4 @@
-Naucoria polytropa Singer SPECIES
-=======
+# Naucoria polytropa Singer SPECIES
 
 #### Status
 ACCEPTED

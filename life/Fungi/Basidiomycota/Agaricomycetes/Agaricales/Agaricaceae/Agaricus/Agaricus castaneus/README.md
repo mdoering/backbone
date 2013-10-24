@@ -1,5 +1,4 @@
-Agaricus castaneus J. Otto SPECIES
-=======
+# Agaricus castaneus J. Otto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma calceolariae Lagerh. SPECIES
-=======
+# Entyloma calceolariae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

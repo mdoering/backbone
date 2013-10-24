@@ -1,14 +1,13 @@
-Sphaerella stemmatea (Fr.) Ellis & Everh., 1892 SPECIES
-=======
+# Mycosphaerella stemmatea (Fr.) Romell, 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Pyren. (Newfield) 730 (1892)
+null
 
 #### Original name
 Sphaeria stemmatea Fr., 1823

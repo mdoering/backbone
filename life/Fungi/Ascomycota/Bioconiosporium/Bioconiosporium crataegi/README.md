@@ -1,5 +1,4 @@
-Bioconiosporium crataegi (Ellis & Everh.) Bat. & J.L. Bezerra SPECIES
-=======
+# Bioconiosporium crataegi (Ellis & Everh.) Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta sphaerophysae Barbarin SPECIES
-=======
+# Ascochyta sphaerophysae Barbarin SPECIES
 
 #### Status
 ACCEPTED

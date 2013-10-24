@@ -1,5 +1,4 @@
-Sphaeronaema foliicola (Fuckel) Lind SPECIES
-=======
+# Sphaeronaema foliicola (Fuckel) Lind SPECIES
 
 #### Status
 ACCEPTED

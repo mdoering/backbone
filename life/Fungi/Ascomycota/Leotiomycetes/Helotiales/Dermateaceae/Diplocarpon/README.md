@@ -1,17 +1,16 @@
-Entomopeziza Kleb. GENUS
-=======
+# Diplocarpon F.A. Wolf GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Vortrag. Gesamtgeb. Bot. , ser. 1 1: 33 (1914)
+Bot. Gaz. 54: 231 (1912)
 
 #### Original name
-Entomopeziza Kleb.
+Diplocarpon F.A. Wolf
 
 ### Remarks
 null

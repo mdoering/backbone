@@ -1,5 +1,4 @@
-Nereocystis luetkeanus (Mertens) Postals & Ruprecht SPECIES
-=======
+# Nereocystis luetkeanus (Mertens) Postals & Ruprecht SPECIES
 
 #### Status
 ACCEPTED

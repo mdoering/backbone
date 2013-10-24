@@ -1,5 +1,4 @@
-Scolecosporites maslinensis R.T. Lange & P.H. Sm. SPECIES
-=======
+# Scolecosporites maslinensis R.T. Lange & P.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

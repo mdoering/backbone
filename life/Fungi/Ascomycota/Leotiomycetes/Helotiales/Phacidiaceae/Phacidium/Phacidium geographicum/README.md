@@ -1,5 +1,4 @@
-Phacidium geographicum J. Kickx f. SPECIES
-=======
+# Phacidium geographicum J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

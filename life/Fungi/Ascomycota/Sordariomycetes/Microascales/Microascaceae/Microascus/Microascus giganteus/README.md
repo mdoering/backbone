@@ -1,5 +1,4 @@
-Microascus giganteus Malloch, 1970 SPECIES
-=======
+# Microascus giganteus Malloch, 1970 SPECIES
 
 #### Status
 ACCEPTED

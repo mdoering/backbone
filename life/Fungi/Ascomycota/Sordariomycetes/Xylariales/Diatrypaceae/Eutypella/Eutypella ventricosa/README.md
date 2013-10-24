@@ -1,5 +1,4 @@
-Eutypella ventricosa (Fuckel) Sacc. SPECIES
-=======
+# Eutypella ventricosa (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

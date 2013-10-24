@@ -1,5 +1,4 @@
-Corrudinium incompositum (Drugg, 1970) Stover & Evitt, 1978 SPECIES
-=======
+# Corrudinium incompositum (Drugg, 1970) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

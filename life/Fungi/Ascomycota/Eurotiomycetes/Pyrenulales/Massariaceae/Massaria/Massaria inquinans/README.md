@@ -1,17 +1,16 @@
-Massaria inquinans subsp. inquinans SUBSPECIES
-=======
+# Massaria inquinans (Tode) De Not. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+G. bot. ital. 1: 333 (1844)
 
 #### Original name
-null
+Sphaeria inquinans Tode
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Urostyla trichogastra SPECIES
-=======
+# Urostyla trichogastra SPECIES
 
 #### Status
 ACCEPTED

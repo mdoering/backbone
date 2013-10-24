@@ -1,5 +1,4 @@
-Diporicellaesporites elongatus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Diporicellaesporites elongatus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

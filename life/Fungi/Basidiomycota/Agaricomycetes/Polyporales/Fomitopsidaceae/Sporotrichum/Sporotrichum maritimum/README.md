@@ -1,5 +1,4 @@
-Sporotrichum maritimum G.K. Sutherl. SPECIES
-=======
+# Sporotrichum maritimum G.K. Sutherl. SPECIES
 
 #### Status
 ACCEPTED

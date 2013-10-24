@@ -1,5 +1,4 @@
-Macroplodia pomorum (Schwein.) Kuntze SPECIES
-=======
+# Macroplodia pomorum (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

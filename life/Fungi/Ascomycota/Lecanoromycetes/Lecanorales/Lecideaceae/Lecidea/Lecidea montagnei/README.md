@@ -1,5 +1,4 @@
-Lecidea montagnei Flot. SPECIES
-=======
+# Lecidea montagnei Flot. SPECIES
 
 #### Status
 ACCEPTED

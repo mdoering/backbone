@@ -1,5 +1,4 @@
-Diplodia caricae Sacc. SPECIES
-=======
+# Diplodia caricae Sacc. SPECIES
 
 #### Status
 ACCEPTED

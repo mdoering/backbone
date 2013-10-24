@@ -1,5 +1,4 @@
-Diaporthe floridana Petr. SPECIES
-=======
+# Diaporthe floridana Petr. SPECIES
 
 #### Status
 ACCEPTED

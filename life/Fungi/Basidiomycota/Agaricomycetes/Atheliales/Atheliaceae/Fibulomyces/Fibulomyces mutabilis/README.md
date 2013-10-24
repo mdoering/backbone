@@ -1,14 +1,13 @@
-Corticium mutabile Bres., 1898 SPECIES
-=======
+# Fibulomyces mutabilis (Bres.) Jülich, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Willdenowia, Beih. 7: 182 (1972)
 
 #### Original name
 null

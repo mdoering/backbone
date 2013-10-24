@@ -1,14 +1,13 @@
-Cristulariella pruni Y. Harada & Noro, 1988 SPECIES
-=======
+# Hinomyces pruni (Y. Harada & Noro) Narumi & Y. Harada, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 29(1): 86 (1988)
+in Narumi-Saito, Hosoya, Sano & Harada, Mycoscience 47(6): 357 (2006)
 
 #### Original name
 Cristulariella pruni Y. Harada & Noro, 1988

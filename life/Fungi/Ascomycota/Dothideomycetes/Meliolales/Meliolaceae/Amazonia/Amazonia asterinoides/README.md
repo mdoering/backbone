@@ -1,5 +1,4 @@
-Amazonia asterinoides (G. Winter) Theiss. SPECIES
-=======
+# Amazonia asterinoides (G. Winter) Theiss. SPECIES
 
 #### Status
 ACCEPTED

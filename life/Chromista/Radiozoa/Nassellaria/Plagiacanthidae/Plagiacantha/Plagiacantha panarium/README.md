@@ -1,5 +1,4 @@
-Plagiacantha panarium Dumitrica, 1973 SPECIES
-=======
+# Plagiacantha panarium Dumitrica, 1973 SPECIES
 
 #### Status
 ACCEPTED

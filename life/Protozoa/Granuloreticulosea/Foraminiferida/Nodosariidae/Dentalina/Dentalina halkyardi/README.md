@@ -1,5 +1,4 @@
-Dentalina halkyardi Cushman, 1933 SPECIES
-=======
+# Dentalina halkyardi Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

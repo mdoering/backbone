@@ -1,17 +1,16 @@
-Streptothrix farcinica (Trevisan, 1889) Rossi-Doria, 1891 SPECIES
-=======
+# Nocardia farcinica Trevisan, 1889 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Nocardia farcinica Trevisan, 1889 (Approved Lists, 1980)
 
 ### Remarks
 null

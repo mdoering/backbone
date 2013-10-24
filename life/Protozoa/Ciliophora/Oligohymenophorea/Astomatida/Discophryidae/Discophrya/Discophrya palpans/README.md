@@ -1,5 +1,4 @@
-Discophrya palpans Collin SPECIES
-=======
+# Discophrya palpans Collin SPECIES
 
 #### Status
 ACCEPTED

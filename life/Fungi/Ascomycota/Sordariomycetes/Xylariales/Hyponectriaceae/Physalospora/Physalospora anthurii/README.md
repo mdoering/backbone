@@ -1,5 +1,4 @@
-Physalospora anthurii Fisch. {?} SPECIES
-=======
+# Physalospora anthurii Fisch. {?} SPECIES
 
 #### Status
 ACCEPTED

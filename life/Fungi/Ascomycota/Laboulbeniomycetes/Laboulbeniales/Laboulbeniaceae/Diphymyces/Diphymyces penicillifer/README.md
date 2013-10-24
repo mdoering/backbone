@@ -1,5 +1,4 @@
-Diphymyces penicillifer A. Weir & W. Rossi, 1997 SPECIES
-=======
+# Diphymyces penicillifer A. Weir & W. Rossi, 1997 SPECIES
 
 #### Status
 ACCEPTED

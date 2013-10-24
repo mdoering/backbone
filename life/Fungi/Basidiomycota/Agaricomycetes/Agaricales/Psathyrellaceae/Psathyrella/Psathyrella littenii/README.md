@@ -1,5 +1,4 @@
-Psathyrella littenii A.H. Sm. SPECIES
-=======
+# Psathyrella littenii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

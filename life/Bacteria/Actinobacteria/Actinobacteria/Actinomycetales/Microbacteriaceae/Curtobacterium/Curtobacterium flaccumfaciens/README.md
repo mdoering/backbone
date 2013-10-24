@@ -1,8 +1,7 @@
-Corynebacterium flaccumfaciens subsp. flaccumfaciens (Hedges, 1922) Dowson, 1942 SUBSPECIES
-=======
+# Curtobacterium flaccumfaciens (Hedges, 1922) Collins & Jones, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Haplopyrenula GENUS
-=======
+# Haplopyrenula GENUS
 
 #### Status
 ACCEPTED

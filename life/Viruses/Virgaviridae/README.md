@@ -1,5 +1,4 @@
-Virgaviridae FAMILY
-=======
+# Virgaviridae FAMILY
 
 #### Status
 ACCEPTED

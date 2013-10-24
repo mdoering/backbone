@@ -1,5 +1,4 @@
-Clavaria merismatoides Schwein. SPECIES
-=======
+# Clavaria merismatoides Schwein. SPECIES
 
 #### Status
 ACCEPTED

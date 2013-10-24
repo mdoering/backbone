@@ -1,5 +1,4 @@
-Palaeogomontiella K.E. Nagovitsin, 2001 GENUS
-=======
+# Palaeogomontiella K.E. Nagovitsin, 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kansodinium ambiguum (R. H. Thompson) S. Carty & Elenor R. Cox SPECIES
-=======
+# Kansodinium ambiguum (R. H. Thompson) S. Carty & Elenor R. Cox SPECIES
 
 #### Status
 ACCEPTED

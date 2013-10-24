@@ -1,5 +1,4 @@
-Mycena sosarum Singer SPECIES
-=======
+# Mycena sosarum Singer SPECIES
 
 #### Status
 ACCEPTED

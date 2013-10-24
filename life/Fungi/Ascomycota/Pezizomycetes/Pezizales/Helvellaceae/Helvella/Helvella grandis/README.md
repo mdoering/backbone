@@ -1,5 +1,4 @@
-Helvella grandis Cumino SPECIES
-=======
+# Helvella grandis Cumino SPECIES
 
 #### Status
 ACCEPTED

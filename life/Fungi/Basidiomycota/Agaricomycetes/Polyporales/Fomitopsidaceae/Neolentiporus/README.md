@@ -1,5 +1,4 @@
-Neolentiporus Rajchenb. GENUS
-=======
+# Neolentiporus Rajchenb. GENUS
 
 #### Status
 ACCEPTED

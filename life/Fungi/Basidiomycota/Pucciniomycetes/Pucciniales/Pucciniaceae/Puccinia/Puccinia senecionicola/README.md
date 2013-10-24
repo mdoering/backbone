@@ -1,5 +1,4 @@
-Puccinia senecionicola Arthur SPECIES
-=======
+# Puccinia senecionicola Arthur SPECIES
 
 #### Status
 ACCEPTED

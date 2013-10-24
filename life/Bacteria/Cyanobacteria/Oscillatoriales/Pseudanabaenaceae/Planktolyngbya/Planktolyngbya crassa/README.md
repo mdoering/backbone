@@ -1,5 +1,4 @@
-Planktolyngbya crassa J. Komárková-Legnerová & G. Cronberg SPECIES
-=======
+# Planktolyngbya crassa J. Komárková-Legnerová & G. Cronberg SPECIES
 
 #### Status
 ACCEPTED

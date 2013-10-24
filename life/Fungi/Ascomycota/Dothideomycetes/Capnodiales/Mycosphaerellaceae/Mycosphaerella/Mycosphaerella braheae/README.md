@@ -1,5 +1,4 @@
-Mycosphaerella braheae Siemaszko SPECIES
-=======
+# Mycosphaerella braheae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

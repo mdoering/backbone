@@ -1,5 +1,4 @@
-Caeoma scrophi-ilariatum Link SPECIES
-=======
+# Caeoma scrophi-ilariatum Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endophragmia inaequiseptata Matsush. SPECIES
-=======
+# Endophragmia inaequiseptata Matsush. SPECIES
 
 #### Status
 ACCEPTED

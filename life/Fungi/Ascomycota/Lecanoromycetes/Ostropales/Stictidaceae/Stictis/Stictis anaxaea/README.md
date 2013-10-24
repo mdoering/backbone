@@ -1,5 +1,4 @@
-Stictis anaxaea Speg. SPECIES
-=======
+# Stictis anaxaea Speg. SPECIES
 
 #### Status
 ACCEPTED

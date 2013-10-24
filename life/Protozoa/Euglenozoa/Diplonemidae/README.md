@@ -1,5 +1,4 @@
-Diplonemidae FAMILY
-=======
+# Diplonemidae FAMILY
 
 #### Status
 ACCEPTED

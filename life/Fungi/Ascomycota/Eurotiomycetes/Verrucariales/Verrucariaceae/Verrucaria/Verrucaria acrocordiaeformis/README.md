@@ -1,5 +1,4 @@
-Verrucaria acrocordiaeformis (Anzi) Stizenb. SPECIES
-=======
+# Verrucaria acrocordiaeformis (Anzi) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

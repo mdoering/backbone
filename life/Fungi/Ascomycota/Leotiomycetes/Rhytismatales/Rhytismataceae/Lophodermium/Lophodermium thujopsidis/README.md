@@ -1,5 +1,4 @@
-Lophodermium thujopsidis Sawada, 1950 SPECIES
-=======
+# Lophodermium thujopsidis Sawada, 1950 SPECIES
 
 #### Status
 ACCEPTED

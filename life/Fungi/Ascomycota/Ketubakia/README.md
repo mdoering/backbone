@@ -1,5 +1,4 @@
-Ketubakia Kamat, Varghese & V.G. Rao GENUS
-=======
+# Ketubakia Kamat, Varghese & V.G. Rao GENUS
 
 #### Status
 ACCEPTED

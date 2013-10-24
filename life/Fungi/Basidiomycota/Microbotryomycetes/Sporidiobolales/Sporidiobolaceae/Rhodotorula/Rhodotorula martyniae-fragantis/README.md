@@ -1,5 +1,4 @@
-Rhodotorula martyniae-fragantis Ruíz Oronoz SPECIES
-=======
+# Rhodotorula martyniae-fragantis Ruíz Oronoz SPECIES
 
 #### Status
 ACCEPTED

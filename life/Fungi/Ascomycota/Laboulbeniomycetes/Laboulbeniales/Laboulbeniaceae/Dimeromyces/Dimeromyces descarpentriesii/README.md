@@ -1,17 +1,16 @@
-Dimeromyces descarpentriesi Balazuc SPECIES
-=======
+# Dimeromyces descarpentriesii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycologica, Warszawa 11(1): 56 (1975)
 
 #### Original name
-Dimeromyces descarpentriesi Balazuc
+Dimeromyces descarpentriesii Balazuc
 
 ### Remarks
 null

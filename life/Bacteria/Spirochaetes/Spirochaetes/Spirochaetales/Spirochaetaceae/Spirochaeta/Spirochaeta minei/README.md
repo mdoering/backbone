@@ -1,5 +1,4 @@
-Spirochaeta minei SPECIES
-=======
+# Spirochaeta minei SPECIES
 
 #### Status
 ACCEPTED

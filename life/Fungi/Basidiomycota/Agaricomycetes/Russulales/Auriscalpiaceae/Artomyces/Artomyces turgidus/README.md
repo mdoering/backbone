@@ -1,14 +1,13 @@
-Clavaria turgida Lév., 1846 SPECIES
-=======
+# Artomyces turgidus (Lév.) Jülich, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 5: 155 (1846)
+Biblthca Mycol. 85: 399 (1982)
 
 #### Original name
 Clavaria turgida Lév., 1846

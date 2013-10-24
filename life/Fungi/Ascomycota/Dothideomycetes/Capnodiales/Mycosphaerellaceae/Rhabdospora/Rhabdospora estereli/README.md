@@ -1,5 +1,4 @@
-Rhabdospora estereli A.L. Guyot SPECIES
-=======
+# Rhabdospora estereli A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

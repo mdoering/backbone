@@ -1,5 +1,4 @@
-Omphalia pusillissima Peck SPECIES
-=======
+# Omphalia pusillissima Peck SPECIES
 
 #### Status
 ACCEPTED

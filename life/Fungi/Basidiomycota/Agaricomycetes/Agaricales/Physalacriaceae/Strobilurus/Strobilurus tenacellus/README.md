@@ -1,17 +1,16 @@
-Agaricus tenacellus var. tenacellus VARIETY
-=======
+# Strobilurus tenacellus (Pers.) Singer, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 2(3): 409 (1962)
 
 #### Original name
-null
+Agaricus tenacellus Pers., 1794
 
 ### Remarks
 null

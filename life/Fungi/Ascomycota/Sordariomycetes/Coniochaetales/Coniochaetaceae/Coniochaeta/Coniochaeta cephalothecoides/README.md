@@ -1,5 +1,4 @@
-Coniochaeta cephalothecoides Kamiya, Uchiy. & Udagawa SPECIES
-=======
+# Coniochaeta cephalothecoides Kamiya, Uchiy. & Udagawa SPECIES
 
 #### Status
 ACCEPTED

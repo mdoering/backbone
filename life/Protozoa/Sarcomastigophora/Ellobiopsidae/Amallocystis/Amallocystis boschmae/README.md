@@ -1,17 +1,16 @@
-Amallocystis boschmai Nouvel {?} SPECIES
-=======
+# Amallocystis boschmae Nouvel {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Vie Milieu 4(1): 57 (1954)
 
 #### Original name
-Amallocystis boschmai Nouvel {?}
+Amallocystis boschmae Nouvel {?}
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Phellinus kawakamii M.J. Larsen, Lombard & Hodges, 1985 SPECIES
-=======
+# Fulvifomes kawakamii (M.J. Larsen, Lombard & Hodges) T. Wagner & M. Fisch., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 77(3): 346 (1985)
+Mycologia 94(6): 1009 (2002)
 
 #### Original name
 Phellinus kawakamii M.J. Larsen, Lombard & Hodges, 1985

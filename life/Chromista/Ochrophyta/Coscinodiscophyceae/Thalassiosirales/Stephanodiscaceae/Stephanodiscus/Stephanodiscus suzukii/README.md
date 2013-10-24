@@ -1,5 +1,4 @@
-Stephanodiscus suzukii A. Tuji & J. P. Kociolek SPECIES
-=======
+# Stephanodiscus suzukii A. Tuji & J. P. Kociolek SPECIES
 
 #### Status
 ACCEPTED

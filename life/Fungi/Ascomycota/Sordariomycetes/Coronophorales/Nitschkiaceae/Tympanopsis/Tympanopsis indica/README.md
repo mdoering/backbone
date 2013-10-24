@@ -1,5 +1,4 @@
-Tympanopsis indica Tilak SPECIES
-=======
+# Tympanopsis indica Tilak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trabulsiella odontotermitis Jui-Hsing Chou, 2007 SPECIES
-=======
+# Trabulsiella odontotermitis Jui-Hsing Chou, 2007 SPECIES
 
 #### Status
 ACCEPTED

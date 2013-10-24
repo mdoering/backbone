@@ -1,5 +1,4 @@
-Sporidesmium epiphyllum Berk. & M.A. Curtis SPECIES
-=======
+# Sporidesmium epiphyllum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

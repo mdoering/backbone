@@ -1,5 +1,4 @@
-Pestalotia myricae Koord. SPECIES
-=======
+# Pestalotia myricae Koord. SPECIES
 
 #### Status
 ACCEPTED

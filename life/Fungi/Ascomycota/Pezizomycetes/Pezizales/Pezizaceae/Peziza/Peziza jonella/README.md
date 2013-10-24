@@ -1,5 +1,4 @@
-Peziza jonella Quél. SPECIES
-=======
+# Peziza jonella Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonostroma visci (Syd.) Höhn. SPECIES
-=======
+# Stagonostroma visci (Syd.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

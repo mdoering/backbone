@@ -1,5 +1,4 @@
-Focusphaera Padilha de Quadros, 1986 GENUS
-=======
+# Focusphaera Padilha de Quadros, 1986 GENUS
 
 #### Status
 ACCEPTED

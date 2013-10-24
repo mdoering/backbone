@@ -1,5 +1,4 @@
-Rhamphoria obliqua var. obliqua VARIETY
-=======
+# Rhamphoria obliqua P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta Soc. Fauna Flora fenn. 2(no. 6): 29 (1885)
 
 #### Original name
-Rhamphoria obliqua var. obliqua
+Rhamphoria obliqua P. Karst.
 
 ### Remarks
 null

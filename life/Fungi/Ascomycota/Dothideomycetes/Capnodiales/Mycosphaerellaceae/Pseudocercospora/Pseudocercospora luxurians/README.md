@@ -1,5 +1,4 @@
-Pseudocercospora luxurians (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora luxurians (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

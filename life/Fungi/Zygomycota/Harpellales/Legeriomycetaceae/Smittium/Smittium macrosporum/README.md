@@ -1,5 +1,4 @@
-Smittium macrosporum Kobayasi, 1969 SPECIES
-=======
+# Smittium macrosporum Kobayasi, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia ulcinjensis Bubák SPECIES
-=======
+# Diplodia ulcinjensis Bubák SPECIES
 
 #### Status
 ACCEPTED

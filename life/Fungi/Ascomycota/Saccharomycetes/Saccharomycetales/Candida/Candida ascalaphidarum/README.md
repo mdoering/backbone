@@ -1,5 +1,4 @@
-Candida ascalaphidarum N.H. Nguyen, S.O. Suh & M. Blackw., 2008 SPECIES
-=======
+# Candida ascalaphidarum N.H. Nguyen, S.O. Suh & M. Blackw., 2008 SPECIES
 
 #### Status
 ACCEPTED

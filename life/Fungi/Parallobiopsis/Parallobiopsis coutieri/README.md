@@ -1,5 +1,4 @@
-Parallobiopsis coutieri Collin SPECIES
-=======
+# Parallobiopsis coutieri Collin SPECIES
 
 #### Status
 ACCEPTED

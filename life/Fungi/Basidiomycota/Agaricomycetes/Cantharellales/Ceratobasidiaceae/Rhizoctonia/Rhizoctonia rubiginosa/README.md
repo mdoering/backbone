@@ -1,5 +1,4 @@
-Rhizoctonia rubiginosa Sappa & Mosca, 1954 SPECIES
-=======
+# Rhizoctonia rubiginosa Sappa & Mosca, 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bullacapsulla Tikhomirova, 1983 GENUS
-=======
+# Bullacapsulla Tikhomirova, 1983 GENUS
 
 #### Status
 ACCEPTED

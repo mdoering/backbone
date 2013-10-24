@@ -1,5 +1,4 @@
-Pseudocercospora bomplandiana (Speg.) U. Braun SPECIES
-=======
+# Pseudocercospora bomplandiana (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum telephorum Lév. SPECIES
-=======
+# Hydnum telephorum Lév. SPECIES
 
 #### Status
 ACCEPTED

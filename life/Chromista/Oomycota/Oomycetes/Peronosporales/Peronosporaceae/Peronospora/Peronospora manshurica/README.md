@@ -1,17 +1,16 @@
-Peronospora sojae F. Lehm. & F.A. Wolf, 1924 SPECIES
-=======
+# Peronospora manshurica (Naumov) Syd., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gäumann, Beitr. Kryptfl. Schweiz 5(4): 221 (1923)
 
 #### Original name
-Peronospora sojae F. Lehm. & F.A. Wolf, 1924
+Peronospora trifoliorum var. manshurica Naumov, 1914
 
 ### Remarks
 null

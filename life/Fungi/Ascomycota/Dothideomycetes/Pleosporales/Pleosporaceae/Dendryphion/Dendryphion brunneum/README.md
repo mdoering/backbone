@@ -1,5 +1,4 @@
-Dendryphion brunneum Dearn. & Barthol. SPECIES
-=======
+# Dendryphion brunneum Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

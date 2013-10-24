@@ -1,5 +1,4 @@
-Dicaeoma tumidipes (Peck) Kuntze SPECIES
-=======
+# Dicaeoma tumidipes (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

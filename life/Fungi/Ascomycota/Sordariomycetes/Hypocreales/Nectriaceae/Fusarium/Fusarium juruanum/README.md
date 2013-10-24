@@ -1,5 +1,4 @@
-Fusarium juruanum Henn. SPECIES
-=======
+# Fusarium juruanum Henn. SPECIES
 
 #### Status
 ACCEPTED

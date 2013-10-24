@@ -1,5 +1,4 @@
-Amphitrichum capillare (Ellis) Kuntze SPECIES
-=======
+# Amphitrichum capillare (Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta inermis Pandotra & Ganguly SPECIES
-=======
+# Phyllosticta inermis Pandotra & Ganguly SPECIES
 
 #### Status
 ACCEPTED

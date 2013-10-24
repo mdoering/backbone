@@ -1,5 +1,4 @@
-Moelleriella cornuta P. Chaverri & K.T. Hodge SPECIES
-=======
+# Moelleriella cornuta P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

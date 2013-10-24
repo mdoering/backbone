@@ -1,5 +1,4 @@
-Trichocladium taiwanense Matsush. SPECIES
-=======
+# Trichocladium taiwanense Matsush. SPECIES
 
 #### Status
 ACCEPTED

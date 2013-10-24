@@ -1,5 +1,4 @@
-Clavularia stenospora P. Karst. SPECIES
-=======
+# Clavularia stenospora P. Karst. SPECIES
 
 #### Status
 ACCEPTED

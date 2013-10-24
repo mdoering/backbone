@@ -1,5 +1,4 @@
-Vitreoscilla beggiatoides Pringsheim, 1949 (Approved Lists, 1980) SPECIES
-=======
+# Vitreoscilla beggiatoides Pringsheim, 1949 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

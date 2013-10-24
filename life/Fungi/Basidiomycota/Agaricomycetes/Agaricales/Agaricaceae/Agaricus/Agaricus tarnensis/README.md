@@ -1,5 +1,4 @@
-Agaricus tarnensis Speg. SPECIES
-=======
+# Agaricus tarnensis Speg. SPECIES
 
 #### Status
 ACCEPTED

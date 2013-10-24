@@ -1,5 +1,4 @@
-Macrophoma reichenbachiana Keissl. SPECIES
-=======
+# Macrophoma reichenbachiana Keissl. SPECIES
 
 #### Status
 ACCEPTED

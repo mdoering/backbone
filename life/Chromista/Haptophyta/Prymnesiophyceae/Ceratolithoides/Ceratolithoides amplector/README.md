@@ -1,5 +1,4 @@
-Ceratolithoides amplector SPECIES
-=======
+# Ceratolithoides amplector SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tryblidaria dealbata (W.R. Gerard) Magnes SPECIES
-=======
+# Tryblidaria dealbata (W.R. Gerard) Magnes SPECIES
 
 #### Status
 ACCEPTED

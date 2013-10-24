@@ -1,5 +1,4 @@
-Arthothelium flotowianum Körb. SPECIES
-=======
+# Arthothelium flotowianum Körb. SPECIES
 
 #### Status
 ACCEPTED

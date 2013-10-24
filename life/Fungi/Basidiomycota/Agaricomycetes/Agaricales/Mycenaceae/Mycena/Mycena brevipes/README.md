@@ -1,5 +1,4 @@
-Mycena brevipes Murrill SPECIES
-=======
+# Mycena brevipes Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia squamatica Elix & T. H. Nash SPECIES
-=======
+# Xanthoparmelia squamatica Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

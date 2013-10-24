@@ -1,5 +1,4 @@
-Zoiaella trochamminoides (Goes, 1879) SPECIES
-=======
+# Zoiaella trochamminoides (Goes, 1879) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaerostipes caccae Schwiertz et al., 2002 SPECIES
-=======
+# Anaerostipes caccae Schwiertz et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

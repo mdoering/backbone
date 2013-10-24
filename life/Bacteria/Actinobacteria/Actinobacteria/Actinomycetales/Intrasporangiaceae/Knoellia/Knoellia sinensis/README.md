@@ -1,5 +1,4 @@
-Knoellia sinensis Groth et al., 2002 SPECIES
-=======
+# Knoellia sinensis Groth et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovistella conspurcata (Berk. & Broome) Petch SPECIES
-=======
+# Bovistella conspurcata (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

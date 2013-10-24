@@ -1,5 +1,4 @@
-Gonatobotrys africana Saccas, 1954 SPECIES
-=======
+# Gonatobotrys africana Saccas, 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria danica (Kützing) Lange-Bertalot SPECIES
-=======
+# Fragilaria danica (Kützing) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoxanthomonas kaohsiungensis Chang et al., 2005 SPECIES
-=======
+# Pseudoxanthomonas kaohsiungensis Chang et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

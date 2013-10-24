@@ -1,5 +1,4 @@
-Penzigia lycogaloides (Berk. & Broome) Sacc. SPECIES
-=======
+# Penzigia lycogaloides (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

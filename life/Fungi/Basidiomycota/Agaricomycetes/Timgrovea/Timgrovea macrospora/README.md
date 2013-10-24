@@ -1,14 +1,13 @@
-Hymenogaster macrosporus G. Cunn., 1934 SPECIES
-=======
+# Timgrovea macrospora (G. Cunn.) Bougher & Castellano, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. N. S. W. 59: 171 (1934)
+Mycologia 85(2): 290 (1993)
 
 #### Original name
 Hymenogaster macrosporus G. Cunn., 1934

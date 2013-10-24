@@ -1,5 +1,4 @@
-Sclerotium pteridis Schleich. SPECIES
-=======
+# Sclerotium pteridis Schleich. SPECIES
 
 #### Status
 ACCEPTED

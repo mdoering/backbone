@@ -1,5 +1,4 @@
-Scolecobasidiella M.B. Ellis GENUS
-=======
+# Scolecobasidiella M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

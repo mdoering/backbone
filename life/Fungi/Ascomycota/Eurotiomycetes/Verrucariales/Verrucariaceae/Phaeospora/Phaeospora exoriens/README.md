@@ -1,17 +1,16 @@
-Endococcus exoriens Stirt. SPECIES
-=======
+# Phaeospora exoriens (Stirt.) A.L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. & Proc. New Zealand Inst. 32: 75 (1899)
+null
 
 #### Original name
-Endococcus exoriens Stirt.
+Parmelia exoriens Stirt.
 
 ### Remarks
 null

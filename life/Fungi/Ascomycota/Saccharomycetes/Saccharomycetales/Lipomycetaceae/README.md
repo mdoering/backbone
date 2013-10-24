@@ -1,5 +1,4 @@
-Lipomycetaceae E.K. Novák & Zsolt FAMILY
-=======
+# Lipomycetaceae E.K. Novák & Zsolt FAMILY
 
 #### Status
 ACCEPTED

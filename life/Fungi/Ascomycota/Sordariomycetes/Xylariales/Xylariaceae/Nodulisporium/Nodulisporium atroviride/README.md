@@ -1,5 +1,4 @@
-Nodulisporium atroviride (Cooke & Ellis) S. Hughes SPECIES
-=======
+# Nodulisporium atroviride (Cooke & Ellis) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

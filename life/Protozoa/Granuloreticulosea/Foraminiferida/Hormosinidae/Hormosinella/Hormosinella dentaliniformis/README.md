@@ -1,5 +1,4 @@
-Hormosinella dentaliniformis Brady, 1881 SPECIES
-=======
+# Hormosinella dentaliniformis Brady, 1881 SPECIES
 
 #### Status
 ACCEPTED

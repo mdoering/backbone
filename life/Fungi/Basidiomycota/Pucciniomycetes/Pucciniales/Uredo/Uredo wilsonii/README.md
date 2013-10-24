@@ -1,5 +1,4 @@
-Uredo wilsonii Arthur SPECIES
-=======
+# Uredo wilsonii Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta holstiana Müll. Arg. SPECIES
-=======
+# Sticta holstiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thigmogaster potamophilus Foissner, 1988 SPECIES
-=======
+# Thigmogaster potamophilus Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

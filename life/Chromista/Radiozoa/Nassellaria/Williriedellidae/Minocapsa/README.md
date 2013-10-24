@@ -1,5 +1,4 @@
-Minocapsa GENUS
-=======
+# Minocapsa GENUS
 
 #### Status
 ACCEPTED

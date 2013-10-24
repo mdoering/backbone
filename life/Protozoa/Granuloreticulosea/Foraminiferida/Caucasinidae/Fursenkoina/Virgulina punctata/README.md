@@ -1,5 +1,4 @@
-Virgulina punctata d'Orbigny SPECIES
-=======
+# Virgulina punctata d'Orbigny SPECIES
 
 #### Status
 DOUBTFUL

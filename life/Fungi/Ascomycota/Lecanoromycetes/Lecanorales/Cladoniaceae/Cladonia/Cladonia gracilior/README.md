@@ -1,5 +1,4 @@
-Cladonia gracilior Nyl. SPECIES
-=======
+# Cladonia gracilior Nyl. SPECIES
 
 #### Status
 ACCEPTED

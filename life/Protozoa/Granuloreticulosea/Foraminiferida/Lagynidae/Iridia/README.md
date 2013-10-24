@@ -1,5 +1,4 @@
-Iridia Heron-Allen & Earland, 1914 GENUS
-=======
+# Iridia Heron-Allen & Earland, 1914 GENUS
 
 #### Status
 ACCEPTED

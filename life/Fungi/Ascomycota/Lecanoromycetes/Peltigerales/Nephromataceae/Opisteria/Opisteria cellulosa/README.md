@@ -1,5 +1,4 @@
-Opisteria cellulosa (Sm.) Vain. SPECIES
-=======
+# Opisteria cellulosa (Sm.) Vain. SPECIES
 
 #### Status
 ACCEPTED

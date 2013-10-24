@@ -1,5 +1,4 @@
-Labrella aspidistrae Tehon & E.Y. Daniels SPECIES
-=======
+# Labrella aspidistrae Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

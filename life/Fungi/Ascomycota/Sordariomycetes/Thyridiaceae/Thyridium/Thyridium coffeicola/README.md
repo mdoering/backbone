@@ -1,5 +1,4 @@
-Thyridium coffeicola Speg. SPECIES
-=======
+# Thyridium coffeicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora citri Crous & U. Braun SPECIES
-=======
+# Pseudocercospora citri Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

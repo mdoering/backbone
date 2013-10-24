@@ -1,17 +1,16 @@
-Achaetomium brevisemum H.J. Chowdhery & J.N. Rai SPECIES
-=======
+# Achaetomium brevissimum H.J. Chowdhery & J.N. Rai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 32(1): 224 (1980)
 
 #### Original name
-Achaetomium brevisemum H.J. Chowdhery & J.N. Rai
+Achaetomium brevissimum H.J. Chowdhery & J.N. Rai
 
 ### Remarks
 null

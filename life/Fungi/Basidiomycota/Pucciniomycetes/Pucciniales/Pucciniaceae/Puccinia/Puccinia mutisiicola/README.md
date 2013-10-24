@@ -1,5 +1,4 @@
-Puccinia mutisiicola Speg. SPECIES
-=======
+# Puccinia mutisiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

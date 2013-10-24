@@ -1,5 +1,4 @@
-Cortinarius cucumis E. Horak SPECIES
-=======
+# Cortinarius cucumis E. Horak SPECIES
 
 #### Status
 ACCEPTED

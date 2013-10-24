@@ -1,5 +1,4 @@
-Clitocybe brunneocephala H.E. Bigelow SPECIES
-=======
+# Clitocybe brunneocephala H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

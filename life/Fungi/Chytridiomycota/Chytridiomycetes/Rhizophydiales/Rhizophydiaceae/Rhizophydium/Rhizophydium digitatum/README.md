@@ -1,5 +1,4 @@
-Rhizophydium digitatum Scherff. SPECIES
-=======
+# Rhizophydium digitatum Scherff. SPECIES
 
 #### Status
 ACCEPTED

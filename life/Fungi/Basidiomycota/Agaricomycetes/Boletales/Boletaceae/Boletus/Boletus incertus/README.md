@@ -1,5 +1,4 @@
-Boletus incertus Corner SPECIES
-=======
+# Boletus incertus Corner SPECIES
 
 #### Status
 ACCEPTED

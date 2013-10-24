@@ -1,14 +1,13 @@
-Skyttea lesdainii (Vouaux) W.Y. Zhuang & Korf, 1989 SPECIES
-=======
+# Unguiculariopsis lesdainii (Vouaux) Etayo & Diederich, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 34(2): 648 (1989)
+in Diederich & Etayo, Lichenologist 32(5): 473 (2000)
 
 #### Original name
 null

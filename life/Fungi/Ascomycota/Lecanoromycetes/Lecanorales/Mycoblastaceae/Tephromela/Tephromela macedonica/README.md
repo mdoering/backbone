@@ -1,5 +1,4 @@
-Tephromela macedonica (J. Steiner) Motyka SPECIES
-=======
+# Tephromela macedonica (J. Steiner) Motyka SPECIES
 
 #### Status
 ACCEPTED

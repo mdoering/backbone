@@ -1,5 +1,4 @@
-Opegrapha rotunda Hafellner SPECIES
-=======
+# Opegrapha rotunda Hafellner SPECIES
 
 #### Status
 ACCEPTED

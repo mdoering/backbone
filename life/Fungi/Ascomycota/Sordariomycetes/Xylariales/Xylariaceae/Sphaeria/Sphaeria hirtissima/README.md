@@ -1,5 +1,4 @@
-Sphaeria hirtissima Peck SPECIES
-=======
+# Sphaeria hirtissima Peck SPECIES
 
 #### Status
 ACCEPTED

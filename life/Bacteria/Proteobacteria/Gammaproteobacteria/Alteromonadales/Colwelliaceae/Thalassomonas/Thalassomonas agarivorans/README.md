@@ -1,5 +1,4 @@
-Thalassomonas agarivorans Jean et al., 2006 SPECIES
-=======
+# Thalassomonas agarivorans Jean et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

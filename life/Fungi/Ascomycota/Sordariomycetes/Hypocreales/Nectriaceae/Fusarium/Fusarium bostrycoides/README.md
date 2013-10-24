@@ -1,5 +1,4 @@
-Fusarium bostrycoides Wollenw. & Reinking SPECIES
-=======
+# Fusarium bostrycoides Wollenw. & Reinking SPECIES
 
 #### Status
 ACCEPTED

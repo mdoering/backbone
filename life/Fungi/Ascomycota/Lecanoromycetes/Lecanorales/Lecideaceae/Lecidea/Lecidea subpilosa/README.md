@@ -1,5 +1,4 @@
-Lecidea subpilosa Vain. SPECIES
-=======
+# Lecidea subpilosa Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiostoma pusillum Masuya SPECIES
-=======
+# Ophiostoma pusillum Masuya SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microdiplodia punctifolia (J.V. Almeida & Sousa da Câmara) Sacc. SPECIES
-=======
+# Microdiplodia punctifolia (J.V. Almeida & Sousa da Câmara) Sacc. SPECIES
 
 #### Status
 ACCEPTED

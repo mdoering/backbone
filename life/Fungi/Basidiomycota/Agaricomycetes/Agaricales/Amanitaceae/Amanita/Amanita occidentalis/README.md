@@ -1,5 +1,4 @@
-Amanita occidentalis O.K. Mill. & Lodge SPECIES
-=======
+# Amanita occidentalis O.K. Mill. & Lodge SPECIES
 
 #### Status
 ACCEPTED

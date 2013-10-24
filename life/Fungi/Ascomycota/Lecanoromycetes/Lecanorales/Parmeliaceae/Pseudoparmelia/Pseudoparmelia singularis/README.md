@@ -1,5 +1,4 @@
-Pseudoparmelia singularis Krog & Swinscow SPECIES
-=======
+# Pseudoparmelia singularis Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

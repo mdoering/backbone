@@ -1,5 +1,4 @@
-Mycovellosiella dalbergiae S.K. Singh & P.N. Singh SPECIES
-=======
+# Mycovellosiella dalbergiae S.K. Singh & P.N. Singh SPECIES
 
 #### Status
 ACCEPTED

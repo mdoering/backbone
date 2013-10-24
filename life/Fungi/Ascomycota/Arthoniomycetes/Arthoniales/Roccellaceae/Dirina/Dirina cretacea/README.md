@@ -1,5 +1,4 @@
-Dirina cretacea (Zahlbr.) Tehler SPECIES
-=======
+# Dirina cretacea (Zahlbr.) Tehler SPECIES
 
 #### Status
 ACCEPTED

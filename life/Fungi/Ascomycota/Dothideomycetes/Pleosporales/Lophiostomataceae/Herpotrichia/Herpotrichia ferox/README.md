@@ -1,5 +1,4 @@
-Herpotrichia ferox G. Winter SPECIES
-=======
+# Herpotrichia ferox G. Winter SPECIES
 
 #### Status
 ACCEPTED

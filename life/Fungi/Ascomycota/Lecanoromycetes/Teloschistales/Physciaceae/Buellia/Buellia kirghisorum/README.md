@@ -1,5 +1,4 @@
-Buellia kirghisorum Oxner SPECIES
-=======
+# Buellia kirghisorum Oxner SPECIES
 
 #### Status
 ACCEPTED

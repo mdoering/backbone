@@ -1,5 +1,4 @@
-Uredo themedicola Cummins SPECIES
-=======
+# Uredo themedicola Cummins SPECIES
 
 #### Status
 ACCEPTED

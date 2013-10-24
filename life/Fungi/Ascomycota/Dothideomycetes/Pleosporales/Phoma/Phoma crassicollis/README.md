@@ -1,5 +1,4 @@
-Phoma crassicollis P. Karst. SPECIES
-=======
+# Phoma crassicollis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

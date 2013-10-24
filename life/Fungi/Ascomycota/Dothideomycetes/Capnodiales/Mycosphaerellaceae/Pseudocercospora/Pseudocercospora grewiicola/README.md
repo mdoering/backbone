@@ -1,5 +1,4 @@
-Pseudocercospora grewiicola (Govindu & Thirum.) Bagyan., U. Braun & Jagad. SPECIES
-=======
+# Pseudocercospora grewiicola (Govindu & Thirum.) Bagyan., U. Braun & Jagad. SPECIES
 
 #### Status
 ACCEPTED

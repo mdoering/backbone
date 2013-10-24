@@ -1,5 +1,4 @@
-Rozites collariatus (E. Horak & M.M. Moser) E. Horak SPECIES
-=======
+# Rozites collariatus (E. Horak & M.M. Moser) E. Horak SPECIES
 
 #### Status
 ACCEPTED

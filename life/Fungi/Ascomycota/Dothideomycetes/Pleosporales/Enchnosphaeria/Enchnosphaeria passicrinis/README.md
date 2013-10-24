@@ -1,5 +1,4 @@
-Enchnosphaeria passicrinis Sacc. SPECIES
-=======
+# Enchnosphaeria passicrinis Sacc. SPECIES
 
 #### Status
 ACCEPTED

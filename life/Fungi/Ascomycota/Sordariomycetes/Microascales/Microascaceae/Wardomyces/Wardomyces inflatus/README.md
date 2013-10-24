@@ -1,17 +1,16 @@
-Wardomyces hughesii Hennebert, 1962 SPECIES
-=======
+# Wardomyces inflatus (Marchal) Hennebert, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 40: 1207 (1962)
+Trans. Br. mycol. Soc. 51: 755 (1968)
 
 #### Original name
-Wardomyces hughesii Hennebert, 1962
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lanzia phaeoparaphysis W.Y. Zhuang SPECIES
-=======
+# Lanzia phaeoparaphysis W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmina trimera (Sacc.) B. Sutton SPECIES
-=======
+# Stigmina trimera (Sacc.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

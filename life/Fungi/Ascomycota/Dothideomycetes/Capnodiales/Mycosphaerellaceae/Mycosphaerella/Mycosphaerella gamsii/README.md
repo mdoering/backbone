@@ -1,17 +1,16 @@
-Teratosphaeria gamsii (Crous) Crous & U. Braun, 2007 SPECIES
-=======
+# Mycosphaerella gamsii Crous, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous, Wingfield, Mansilla, Alfenas & Groenewald, Stud. Mycol. 55: 113 (2006)
 
 #### Original name
-null
+Mycosphaerella gamsii Crous, 2006
 
 ### Remarks
 null

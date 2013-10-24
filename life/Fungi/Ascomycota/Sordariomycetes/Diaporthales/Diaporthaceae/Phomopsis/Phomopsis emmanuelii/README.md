@@ -1,5 +1,4 @@
-Phomopsis emmanuelii Vegni SPECIES
-=======
+# Phomopsis emmanuelii Vegni SPECIES
 
 #### Status
 ACCEPTED

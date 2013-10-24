@@ -1,5 +1,4 @@
-Hyaloscypha parvula Arendh. & R. Sharma SPECIES
-=======
+# Hyaloscypha parvula Arendh. & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

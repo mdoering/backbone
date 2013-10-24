@@ -1,5 +1,4 @@
-Macbrideola decapillata H.C. Gilbert, 1934 SPECIES
-=======
+# Macbrideola decapillata H.C. Gilbert, 1934 SPECIES
 
 #### Status
 ACCEPTED

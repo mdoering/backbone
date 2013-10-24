@@ -1,5 +1,4 @@
-Hysterangium pumilum Rodway SPECIES
-=======
+# Hysterangium pumilum Rodway SPECIES
 
 #### Status
 ACCEPTED

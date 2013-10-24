@@ -1,5 +1,4 @@
-Diaporthe zeina Speg. SPECIES
-=======
+# Diaporthe zeina Speg. SPECIES
 
 #### Status
 ACCEPTED

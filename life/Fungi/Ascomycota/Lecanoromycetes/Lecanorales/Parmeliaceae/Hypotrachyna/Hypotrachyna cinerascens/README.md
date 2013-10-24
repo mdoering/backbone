@@ -1,5 +1,4 @@
-Hypotrachyna cinerascens Kurok. & K.H. Moon SPECIES
-=======
+# Hypotrachyna cinerascens Kurok. & K.H. Moon SPECIES
 
 #### Status
 ACCEPTED

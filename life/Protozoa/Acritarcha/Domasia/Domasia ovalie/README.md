@@ -1,5 +1,4 @@
-Domasia ovalie N. Umnova, 1975 SPECIES
-=======
+# Domasia ovalie N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pythium macrosporum Vaartaja & Plaäts-Nit., 1981 SPECIES
-=======
+# Pythium macrosporum Vaartaja & Plaäts-Nit., 1981 SPECIES
 
 #### Status
 ACCEPTED

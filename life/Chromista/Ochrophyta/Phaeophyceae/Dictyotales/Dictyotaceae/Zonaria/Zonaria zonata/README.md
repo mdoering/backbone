@@ -1,5 +1,4 @@
-Zonaria zonata C. Agardh SPECIES
-=======
+# Zonaria zonata C. Agardh SPECIES
 
 #### Status
 ACCEPTED

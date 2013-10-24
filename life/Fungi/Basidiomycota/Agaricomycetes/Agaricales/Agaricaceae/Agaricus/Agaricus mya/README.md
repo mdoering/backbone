@@ -1,5 +1,4 @@
-Agaricus mya Scop. SPECIES
-=======
+# Agaricus mya Scop. SPECIES
 
 #### Status
 ACCEPTED

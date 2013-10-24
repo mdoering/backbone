@@ -1,17 +1,16 @@
-Agaricus sanguineus var. sanguineus VARIETY
-=======
+# Cortinarius sanguineus (Wulfen) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 288 (1838)
 
 #### Original name
-null
+Agaricus sanguineus Wulfen, 1781
 
 ### Remarks
 null

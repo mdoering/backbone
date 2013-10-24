@@ -1,5 +1,4 @@
-Psathyrella huronensis A.H. Sm. SPECIES
-=======
+# Psathyrella huronensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia umbonatescens (Peck) Sacc. SPECIES
-=======
+# Stropharia umbonatescens (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eucantharomyces africanus Thaxt. SPECIES
-=======
+# Eucantharomyces africanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

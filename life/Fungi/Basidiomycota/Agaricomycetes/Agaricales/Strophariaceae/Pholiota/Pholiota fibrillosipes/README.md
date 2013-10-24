@@ -1,5 +1,4 @@
-Pholiota fibrillosipes (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota fibrillosipes (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

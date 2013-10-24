@@ -1,5 +1,4 @@
-Sphaerostilbe wrightii Berk. & M.A. Curtis SPECIES
-=======
+# Sphaerostilbe wrightii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

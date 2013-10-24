@@ -1,5 +1,4 @@
-Amphisphaerellula Gucevic GENUS
-=======
+# Amphisphaerellula Gucevic GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium bengalense (Syd., P. Syd. & E.J. Butler) Vánky SPECIES
-=======
+# Sporisorium bengalense (Syd., P. Syd. & E.J. Butler) Vánky SPECIES
 
 #### Status
 ACCEPTED

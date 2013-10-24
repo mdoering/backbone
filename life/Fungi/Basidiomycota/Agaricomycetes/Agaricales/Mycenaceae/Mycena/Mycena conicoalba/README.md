@@ -1,5 +1,4 @@
-Mycena conicoalba M. Villarreal & Esteve-Rav. SPECIES
-=======
+# Mycena conicoalba M. Villarreal & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

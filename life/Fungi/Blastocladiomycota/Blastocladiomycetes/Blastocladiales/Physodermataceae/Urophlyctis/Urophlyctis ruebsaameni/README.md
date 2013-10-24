@@ -1,5 +1,4 @@
-Urophlyctis ruebsaameni Magnus SPECIES
-=======
+# Urophlyctis ruebsaameni Magnus SPECIES
 
 #### Status
 ACCEPTED

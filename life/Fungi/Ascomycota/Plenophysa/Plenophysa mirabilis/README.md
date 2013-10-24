@@ -1,5 +1,4 @@
-Plenophysa mirabilis Syd. & P. Syd., 1920 SPECIES
-=======
+# Plenophysa mirabilis Syd. & P. Syd., 1920 SPECIES
 
 #### Status
 ACCEPTED

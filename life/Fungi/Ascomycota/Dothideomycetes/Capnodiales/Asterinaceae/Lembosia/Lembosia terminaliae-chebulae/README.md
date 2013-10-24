@@ -1,5 +1,4 @@
-Lembosia terminaliae-chebulae Hosag., T.K. Abraham & J.L. Crane SPECIES
-=======
+# Lembosia terminaliae-chebulae Hosag., T.K. Abraham & J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemicorynespora clavata G. Delgado, Mercado & J. Mena SPECIES
-=======
+# Hemicorynespora clavata G. Delgado, Mercado & J. Mena SPECIES
 
 #### Status
 ACCEPTED

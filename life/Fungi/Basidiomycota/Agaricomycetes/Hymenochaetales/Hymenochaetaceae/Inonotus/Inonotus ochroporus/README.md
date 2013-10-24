@@ -1,14 +1,13 @@
-Polyporus ochroporus Van der Byl, 1922 SPECIES
-=======
+# Inonotus ochroporus (Van der Byl) Pegler, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-S. Afr. J. Sci. 18: 269 (1922)
+Trans. Br. mycol. Soc. 47: 183 (1964)
 
 #### Original name
 Polyporus ochroporus Van der Byl, 1922

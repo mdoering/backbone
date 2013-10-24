@@ -1,5 +1,4 @@
-Clavaria xanthoporphyria Singer SPECIES
-=======
+# Clavaria xanthoporphyria Singer SPECIES
 
 #### Status
 ACCEPTED

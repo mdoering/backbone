@@ -1,5 +1,4 @@
-Lecanora schisticola H. Magn. SPECIES
-=======
+# Lecanora schisticola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

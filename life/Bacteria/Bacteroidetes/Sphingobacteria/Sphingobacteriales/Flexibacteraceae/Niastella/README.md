@@ -1,5 +1,4 @@
-Niastella Weon, Kim, Yoo, Lee, Kwon, Go & Stackebrandt, 2006 GENUS
-=======
+# Niastella Weon, Kim, Yoo, Lee, Kwon, Go & Stackebrandt, 2006 GENUS
 
 #### Status
 ACCEPTED

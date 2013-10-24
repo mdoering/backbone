@@ -1,5 +1,4 @@
-Massarina mamma (G.H. Otth) Sacc. SPECIES
-=======
+# Massarina mamma (G.H. Otth) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alectoria sepiacea Motyka SPECIES
-=======
+# Alectoria sepiacea Motyka SPECIES
 
 #### Status
 ACCEPTED

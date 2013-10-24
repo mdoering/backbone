@@ -1,5 +1,4 @@
-Leathesia intermedia V.J.Chapman SPECIES
-=======
+# Leathesia intermedia V.J.Chapman SPECIES
 
 #### Status
 ACCEPTED

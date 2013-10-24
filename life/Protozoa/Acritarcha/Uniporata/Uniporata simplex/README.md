@@ -1,5 +1,4 @@
-Uniporata simplex Pykhova, 1969 SPECIES
-=======
+# Uniporata simplex Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

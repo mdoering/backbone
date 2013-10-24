@@ -1,5 +1,4 @@
-Humaria stercoraria Velen. SPECIES
-=======
+# Humaria stercoraria Velen. SPECIES
 
 #### Status
 ACCEPTED

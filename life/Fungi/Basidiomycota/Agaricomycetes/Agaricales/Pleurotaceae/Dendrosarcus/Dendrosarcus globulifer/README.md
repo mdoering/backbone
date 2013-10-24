@@ -1,5 +1,4 @@
-Dendrosarcus globulifer (Pat.) Kuntze SPECIES
-=======
+# Dendrosarcus globulifer (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

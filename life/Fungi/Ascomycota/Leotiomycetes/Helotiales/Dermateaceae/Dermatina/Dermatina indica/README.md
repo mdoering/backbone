@@ -1,5 +1,4 @@
-Dermatina indica (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Dermatina indica (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

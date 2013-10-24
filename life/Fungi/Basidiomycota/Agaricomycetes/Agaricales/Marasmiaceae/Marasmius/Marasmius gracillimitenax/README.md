@@ -1,5 +1,4 @@
-Marasmius gracillimitenax Corner SPECIES
-=======
+# Marasmius gracillimitenax Corner SPECIES
 
 #### Status
 ACCEPTED

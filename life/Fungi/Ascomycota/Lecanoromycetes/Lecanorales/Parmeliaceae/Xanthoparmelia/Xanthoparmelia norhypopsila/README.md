@@ -1,5 +1,4 @@
-Xanthoparmelia norhypopsila Hale SPECIES
-=======
+# Xanthoparmelia norhypopsila Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalectomyces rubrae E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Gyalectomyces rubrae E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

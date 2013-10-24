@@ -1,5 +1,4 @@
-Uredo eulophiae Eboh SPECIES
-=======
+# Uredo eulophiae Eboh SPECIES
 
 #### Status
 ACCEPTED

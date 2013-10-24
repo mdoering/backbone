@@ -1,5 +1,4 @@
-Erythrogloeum hymenaeae Gonz. Frag. & Cif. ex Petr., 1953 SPECIES
-=======
+# Erythrogloeum hymenaeae Gonz. Frag. & Cif. ex Petr., 1953 SPECIES
 
 #### Status
 ACCEPTED

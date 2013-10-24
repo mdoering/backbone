@@ -1,5 +1,4 @@
-Rinodina herteliana Kaschik SPECIES
-=======
+# Rinodina herteliana Kaschik SPECIES
 
 #### Status
 ACCEPTED

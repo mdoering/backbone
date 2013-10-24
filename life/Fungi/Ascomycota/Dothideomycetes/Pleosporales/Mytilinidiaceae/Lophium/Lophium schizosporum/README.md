@@ -1,5 +1,4 @@
-Lophium schizosporum Maire SPECIES
-=======
+# Lophium schizosporum Maire SPECIES
 
 #### Status
 ACCEPTED

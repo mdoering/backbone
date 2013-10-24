@@ -1,5 +1,4 @@
-Hemiarcyria chryosospora Lister SPECIES
-=======
+# Hemiarcyria chryosospora Lister SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora siegensis (Kirschst.) E. Castell. & Germano SPECIES
-=======
+# Stagonospora siegensis (Kirschst.) E. Castell. & Germano SPECIES
 
 #### Status
 ACCEPTED

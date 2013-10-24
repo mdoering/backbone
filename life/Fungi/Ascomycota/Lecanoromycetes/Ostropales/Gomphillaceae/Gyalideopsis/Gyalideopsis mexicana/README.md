@@ -1,5 +1,4 @@
-Gyalideopsis mexicana Tretiach, Giralt & Vezda SPECIES
-=======
+# Gyalideopsis mexicana Tretiach, Giralt & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hypocrea inclusa Berk. & Broome, 1861 SPECIES
-=======
+# Battarrina inclusa (Berk. & Broome) Clem. & Shear, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 7: (1861)
+Gen. fung. (Minneapolis), Edn 2 (1931)
 
 #### Original name
 Hypocrea inclusa Berk. & Broome, 1861

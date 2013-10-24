@@ -1,5 +1,4 @@
-Amphisphaeria weygandiorum Maire SPECIES
-=======
+# Amphisphaeria weygandiorum Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterographium formosum (Cooke) Sacc. SPECIES
-=======
+# Hysterographium formosum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

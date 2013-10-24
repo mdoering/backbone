@@ -1,5 +1,4 @@
-Caloplaca schaereri (Arnold) Zahlbr. SPECIES
-=======
+# Caloplaca schaereri (Arnold) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

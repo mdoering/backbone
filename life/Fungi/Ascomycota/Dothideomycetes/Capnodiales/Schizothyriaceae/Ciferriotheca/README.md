@@ -1,5 +1,4 @@
-Ciferriotheca GENUS
-=======
+# Ciferriotheca GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Heterosporium escholtziae Harkn. SPECIES
-=======
+# Acroconidiella eschscholtziae (Harkn.) M.B. Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Calif. Acad. Sci. 1: 38 (1884)
+More Dematiaceous Hyphomycetes (Kew) 407 (1976)
 
 #### Original name
 Heterosporium escholtziae Harkn.

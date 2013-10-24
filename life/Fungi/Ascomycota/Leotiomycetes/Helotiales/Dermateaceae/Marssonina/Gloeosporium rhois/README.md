@@ -1,5 +1,4 @@
-Gloeosporium rhois (Westend.) J. Kickx f. SPECIES
-=======
+# Gloeosporium rhois (Westend.) J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

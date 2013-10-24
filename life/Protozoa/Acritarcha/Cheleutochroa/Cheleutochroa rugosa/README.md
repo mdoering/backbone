@@ -1,5 +1,4 @@
-Cheleutochroa rugosa Uutela & Tynni, 1991 SPECIES
-=======
+# Cheleutochroa rugosa Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

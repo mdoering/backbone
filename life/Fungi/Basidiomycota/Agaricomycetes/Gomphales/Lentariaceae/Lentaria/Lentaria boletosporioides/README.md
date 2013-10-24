@@ -1,5 +1,4 @@
-Lentaria boletosporioides R.H. Petersen, 2000 SPECIES
-=======
+# Lentaria boletosporioides R.H. Petersen, 2000 SPECIES
 
 #### Status
 ACCEPTED

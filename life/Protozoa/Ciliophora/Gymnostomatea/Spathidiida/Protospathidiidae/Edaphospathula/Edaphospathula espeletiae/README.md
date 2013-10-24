@@ -1,8 +1,7 @@
-Sikorops espeletiae Foissner, 2000 SPECIES
-=======
+# Edaphospathula espeletiae (Foissner, 2000) Foissner & Xu, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

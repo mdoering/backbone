@@ -1,5 +1,4 @@
-Stephanolithion brevispinus SPECIES
-=======
+# Stephanolithion brevispinus SPECIES
 
 #### Status
 ACCEPTED

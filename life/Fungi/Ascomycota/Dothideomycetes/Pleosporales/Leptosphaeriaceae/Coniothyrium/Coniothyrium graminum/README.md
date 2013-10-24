@@ -1,5 +1,4 @@
-Coniothyrium graminum Hollós SPECIES
-=======
+# Coniothyrium graminum Hollós SPECIES
 
 #### Status
 ACCEPTED

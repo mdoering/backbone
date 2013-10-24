@@ -1,5 +1,4 @@
-Spiloma sorediatum SPECIES
-=======
+# Spiloma sorediatum SPECIES
 
 #### Status
 ACCEPTED

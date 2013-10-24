@@ -1,5 +1,4 @@
-Hymenoscyphus hymenula (Fuckel) Kuntze SPECIES
-=======
+# Hymenoscyphus hymenula (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

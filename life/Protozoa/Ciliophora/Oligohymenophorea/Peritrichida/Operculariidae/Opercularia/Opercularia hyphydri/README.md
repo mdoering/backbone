@@ -1,5 +1,4 @@
-Opercularia hyphydri SPECIES
-=======
+# Opercularia hyphydri SPECIES
 
 #### Status
 ACCEPTED

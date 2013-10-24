@@ -1,14 +1,13 @@
-Trichaster melanocephalus Czern., 1845 SPECIES
-=======
+# Geastrum melanocephalum (Czern.) V.J. Stanek, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. Imp. nat. Moscou 18(2, III): 149 (1845)
+Ceská Mykol. 10: 22 (1956)
 
 #### Original name
 Trichaster melanocephalus Czern., 1845

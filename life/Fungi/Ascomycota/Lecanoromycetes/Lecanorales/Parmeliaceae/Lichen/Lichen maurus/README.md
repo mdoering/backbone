@@ -1,5 +1,4 @@
-Lichen maurus Sm. SPECIES
-=======
+# Lichen maurus Sm. SPECIES
 
 #### Status
 ACCEPTED

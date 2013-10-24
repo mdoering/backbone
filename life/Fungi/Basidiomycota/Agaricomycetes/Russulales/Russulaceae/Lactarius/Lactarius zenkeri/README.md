@@ -1,5 +1,4 @@
-Lactarius zenkeri (Henn.) Singer SPECIES
-=======
+# Lactarius zenkeri (Henn.) Singer SPECIES
 
 #### Status
 ACCEPTED

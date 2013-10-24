@@ -1,5 +1,4 @@
-Dalaola Tuzet, Manier & Vogeli-Zuber, 1952 GENUS
-=======
+# Dalaola Tuzet, Manier & Vogeli-Zuber, 1952 GENUS
 
 #### Status
 ACCEPTED

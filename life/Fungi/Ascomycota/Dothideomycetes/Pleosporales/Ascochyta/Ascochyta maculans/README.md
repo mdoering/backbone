@@ -1,5 +1,4 @@
-Ascochyta maculans Fuckel SPECIES
-=======
+# Ascochyta maculans Fuckel SPECIES
 
 #### Status
 ACCEPTED

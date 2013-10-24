@@ -1,5 +1,4 @@
-Peroniella pandorinae P.G. González-Guerrero, 1947 SPECIES
-=======
+# Peroniella pandorinae P.G. González-Guerrero, 1947 SPECIES
 
 #### Status
 ACCEPTED

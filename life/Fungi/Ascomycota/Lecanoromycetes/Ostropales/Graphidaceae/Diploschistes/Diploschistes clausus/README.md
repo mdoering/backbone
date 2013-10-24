@@ -1,5 +1,4 @@
-Diploschistes clausus (Flot.) Zahlbr. SPECIES
-=======
+# Diploschistes clausus (Flot.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

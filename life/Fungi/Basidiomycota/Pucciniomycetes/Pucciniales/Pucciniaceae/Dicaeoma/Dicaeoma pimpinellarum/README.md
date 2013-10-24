@@ -1,5 +1,4 @@
-Dicaeoma pimpinellarum (Rabenh.) Kuntze SPECIES
-=======
+# Dicaeoma pimpinellarum (Rabenh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

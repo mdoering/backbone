@@ -1,17 +1,16 @@
-Trametes feei var. feei VARIETY
-=======
+# Fomitopsis feei (Fr.) Kreisel, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Tax. Hyménomyc. (Lons-le-Saunier) 92 (1900)
+Ciencias Biológicas, Cuba 16: 83 (1971)
 
 #### Original name
-Trametes feei var. feei
+Polyporus feei Fr., 1830
 
 ### Remarks
 null

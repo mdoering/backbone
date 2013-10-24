@@ -1,14 +1,13 @@
-Vitalia ekmanii (Petr. & Cif.) Bat. & Cif., 1962 SPECIES
-=======
+# Dennisiella ekmanii (Petr. & Cif.) S. Hughes, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 3: 111 (1962)
+Mycologia 68(4): 811 (1976)
 
 #### Original name
 Chaetothyrium ekmanii Petr. & Cif., 1932

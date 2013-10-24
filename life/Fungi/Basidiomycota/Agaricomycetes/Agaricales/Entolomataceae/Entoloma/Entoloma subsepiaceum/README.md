@@ -1,5 +1,4 @@
-Entoloma subsepiaceum (Kühner) Noordel. SPECIES
-=======
+# Entoloma subsepiaceum (Kühner) Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella ambiens (Syd.) Petr. SPECIES
-=======
+# Asteromella ambiens (Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

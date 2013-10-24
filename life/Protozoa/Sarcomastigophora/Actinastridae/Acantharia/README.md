@@ -1,5 +1,4 @@
-Acantharia Quenstedt, 1881 GENUS
-=======
+# Acantharia Quenstedt, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erineum cinnamomi Corda SPECIES
-=======
+# Erineum cinnamomi Corda SPECIES
 
 #### Status
 ACCEPTED

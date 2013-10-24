@@ -1,5 +1,4 @@
-Vibrio carchariae Grimes et al., 1985 SPECIES
-=======
+# Vibrio carchariae Grimes et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plasmopara satarensis P.B. Chavan & U.V. Kulk. SPECIES
-=======
+# Plasmopara satarensis P.B. Chavan & U.V. Kulk. SPECIES
 
 #### Status
 ACCEPTED

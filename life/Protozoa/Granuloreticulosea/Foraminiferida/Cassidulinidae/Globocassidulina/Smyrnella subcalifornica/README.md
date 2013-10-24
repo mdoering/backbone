@@ -1,11 +1,10 @@
-Smyrnella subcalifornica subsp. subcalifornica SUBSPECIES
-=======
+# Smyrnella subcalifornica (Drooger) SPECIES
 
 #### Status
-ACCEPTED
+DOUBTFUL
 
 #### According to
-NUB Generator [autonym]
+World Register of Marine Species
 
 #### Published in
 null

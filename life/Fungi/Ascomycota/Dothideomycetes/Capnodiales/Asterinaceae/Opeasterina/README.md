@@ -1,5 +1,4 @@
-Opeasterina GENUS
-=======
+# Opeasterina GENUS
 
 #### Status
 ACCEPTED

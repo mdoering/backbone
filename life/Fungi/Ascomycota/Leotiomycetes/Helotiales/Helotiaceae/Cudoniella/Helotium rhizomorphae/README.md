@@ -1,5 +1,4 @@
-Helotium rhizomorphae Velen. SPECIES
-=======
+# Helotium rhizomorphae Velen. SPECIES
 
 #### Status
 ACCEPTED

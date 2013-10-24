@@ -1,5 +1,4 @@
-Pertusaria amaroides H. Magn. SPECIES
-=======
+# Pertusaria amaroides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

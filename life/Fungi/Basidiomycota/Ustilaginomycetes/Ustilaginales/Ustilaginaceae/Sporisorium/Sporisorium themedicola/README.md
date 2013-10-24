@@ -1,5 +1,4 @@
-Sporisorium themedicola (L. Ling) Vánky SPECIES
-=======
+# Sporisorium themedicola (L. Ling) Vánky SPECIES
 
 #### Status
 ACCEPTED

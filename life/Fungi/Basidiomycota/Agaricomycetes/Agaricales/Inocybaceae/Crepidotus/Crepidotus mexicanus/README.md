@@ -1,5 +1,4 @@
-Crepidotus mexicanus Singer SPECIES
-=======
+# Crepidotus mexicanus Singer SPECIES
 
 #### Status
 ACCEPTED

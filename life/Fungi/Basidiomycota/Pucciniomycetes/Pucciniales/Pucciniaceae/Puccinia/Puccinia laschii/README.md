@@ -1,5 +1,4 @@
-Puccinia laschii Lagerh. SPECIES
-=======
+# Puccinia laschii Lagerh. SPECIES
 
 #### Status
 ACCEPTED

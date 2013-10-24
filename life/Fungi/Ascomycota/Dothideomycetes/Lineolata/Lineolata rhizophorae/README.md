@@ -1,14 +1,13 @@
-Didymosphaeria rhizophorae Kohlm. & E. Kohlm., 1967 SPECIES
-=======
+# Lineolata rhizophorae (Kohlm. & E. Kohlm.) Kohlm. & Volkm.-Kohlm., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icones Fungorum Maris (Lehre) 4 & 5: tab. 62a (1967)
+Mycol. Res. 94(5): 688 (1990)
 
 #### Original name
 Didymosphaeria rhizophorae Kohlm. & E. Kohlm., 1967

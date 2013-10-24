@@ -1,5 +1,4 @@
-Piloderma Jülich, 1969 GENUS
-=======
+# Piloderma Jülich, 1969 GENUS
 
 #### Status
 ACCEPTED

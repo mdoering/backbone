@@ -1,14 +1,13 @@
-Selenophoma donacicola (Speg.) Luc, 1953 SPECIES
-=======
+# Pseudoseptoria donacicola Speg., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 18(Suppl. Colon. no. 2): 100 (1953)
+Anal. Mus. nac. B. Aires, Ser. 3 13: 388 (1910)
 
 #### Original name
 Pseudoseptoria donacicola Speg., 1910

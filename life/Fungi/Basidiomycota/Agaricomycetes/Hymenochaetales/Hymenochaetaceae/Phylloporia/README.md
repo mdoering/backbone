@@ -1,17 +1,16 @@
-Cryptoderma Imazeki, 1943 GENUS
-=======
+# Phylloporia Murrill, 1904 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Tokyo Sci. Mus. 6: 106 (1943)
+Torreya 4: 141 (1904)
 
 #### Original name
-Cryptoderma Imazeki, 1943
+Phylloporia Murrill, 1904
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chaetophoma filamentifera (P. Karst.) Berl. & Voglino SPECIES
-=======
+# Chaetophoma filamentifera (P. Karst.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

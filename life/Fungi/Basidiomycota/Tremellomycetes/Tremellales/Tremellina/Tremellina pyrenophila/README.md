@@ -1,5 +1,4 @@
-Tremellina pyrenophila Bandoni, 1986 SPECIES
-=======
+# Tremellina pyrenophila Bandoni, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus confertus Copel. SPECIES
-=======
+# Coprinus confertus Copel. SPECIES
 
 #### Status
 ACCEPTED

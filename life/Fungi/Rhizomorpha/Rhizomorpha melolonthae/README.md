@@ -1,5 +1,4 @@
-Rhizomorpha melolonthae Sartory, R. Sartory & J. Mey. SPECIES
-=======
+# Rhizomorpha melolonthae Sartory, R. Sartory & J. Mey. SPECIES
 
 #### Status
 ACCEPTED

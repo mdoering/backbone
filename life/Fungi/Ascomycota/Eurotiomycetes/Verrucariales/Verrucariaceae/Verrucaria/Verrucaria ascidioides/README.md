@@ -1,5 +1,4 @@
-Verrucaria ascidioides Nyl. SPECIES
-=======
+# Verrucaria ascidioides Nyl. SPECIES
 
 #### Status
 ACCEPTED

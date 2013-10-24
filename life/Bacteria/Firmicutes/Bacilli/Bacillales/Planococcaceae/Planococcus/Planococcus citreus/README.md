@@ -1,5 +1,4 @@
-Planococcus citreus Migula, 1894 (Approved Lists, 1980) SPECIES
-=======
+# Planococcus citreus Migula, 1894 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

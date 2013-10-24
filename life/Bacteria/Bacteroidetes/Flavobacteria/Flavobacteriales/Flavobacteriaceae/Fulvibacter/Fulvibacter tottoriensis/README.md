@@ -1,5 +1,4 @@
-Fulvibacter tottoriensis Khan, Nakagawa & Harayama, 2008 SPECIES
-=======
+# Fulvibacter tottoriensis Khan, Nakagawa & Harayama, 2008 SPECIES
 
 #### Status
 ACCEPTED

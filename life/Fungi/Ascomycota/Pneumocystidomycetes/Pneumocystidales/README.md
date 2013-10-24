@@ -1,5 +1,4 @@
-Pneumocystidales O.E. Erikss. ORDER
-=======
+# Pneumocystidales O.E. Erikss. ORDER
 
 #### Status
 ACCEPTED

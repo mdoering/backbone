@@ -1,5 +1,4 @@
-Platysma pallescens (Schaer.) Nyl. SPECIES
-=======
+# Platysma pallescens (Schaer.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pleospora togwotiensis Wehm., 1946 SPECIES
-=======
+# Platysporoides togwotiensis (Wehm.) Shoemaker & C.E. Babc., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 9: 231-232 (1946)
+Can. J. Bot. 70(8): 1655 (1992)
 
 #### Original name
 Pleospora togwotiensis Wehm., 1946

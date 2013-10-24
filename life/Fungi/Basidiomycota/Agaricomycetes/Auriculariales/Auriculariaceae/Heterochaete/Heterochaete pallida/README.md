@@ -1,5 +1,4 @@
-Heterochaete pallida Bres. SPECIES
-=======
+# Heterochaete pallida Bres. SPECIES
 
 #### Status
 ACCEPTED

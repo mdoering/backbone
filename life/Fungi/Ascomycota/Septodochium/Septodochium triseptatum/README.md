@@ -1,5 +1,4 @@
-Septodochium triseptatum Matsush., 1971 SPECIES
-=======
+# Septodochium triseptatum Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

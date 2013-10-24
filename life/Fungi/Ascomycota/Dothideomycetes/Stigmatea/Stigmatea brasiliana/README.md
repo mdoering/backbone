@@ -1,5 +1,4 @@
-Stigmatea brasiliana Henn. SPECIES
-=======
+# Stigmatea brasiliana Henn. SPECIES
 
 #### Status
 ACCEPTED

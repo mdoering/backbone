@@ -1,5 +1,4 @@
-Rhodococcus maanshanensis Zhang et al., 2002 SPECIES
-=======
+# Rhodococcus maanshanensis Zhang et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

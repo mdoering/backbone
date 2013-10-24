@@ -1,5 +1,4 @@
-Inocybe avenacea Velen. SPECIES
-=======
+# Inocybe avenacea Velen. SPECIES
 
 #### Status
 ACCEPTED

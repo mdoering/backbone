@@ -1,5 +1,4 @@
-Aecidium minoense Syd. & P. Syd. SPECIES
-=======
+# Aecidium minoense Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

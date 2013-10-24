@@ -1,5 +1,4 @@
-Titaea miconiae (F. Stevens) Damon SPECIES
-=======
+# Titaea miconiae (F. Stevens) Damon SPECIES
 
 #### Status
 ACCEPTED

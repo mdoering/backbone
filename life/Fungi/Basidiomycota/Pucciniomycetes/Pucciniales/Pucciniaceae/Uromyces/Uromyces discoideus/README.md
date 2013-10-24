@@ -1,5 +1,4 @@
-Uromyces discoideus Racib. SPECIES
-=======
+# Uromyces discoideus Racib. SPECIES
 
 #### Status
 ACCEPTED

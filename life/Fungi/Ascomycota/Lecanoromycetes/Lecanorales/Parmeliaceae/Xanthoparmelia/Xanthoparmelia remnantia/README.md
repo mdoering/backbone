@@ -1,14 +1,13 @@
-Neofuscelia remnantia Elix SPECIES
-=======
+# Xanthoparmelia remnantia (Elix) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 59: 407 (1996)
+Taxon 53(4): 970 (2004)
 
 #### Original name
 Neofuscelia remnantia Elix

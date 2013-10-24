@@ -1,17 +1,16 @@
-Sphaeria hepaticaecola Duby SPECIES
-=======
+# Sphaeria hepaticicola Duby SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Gall. (Paris), Edn 2 2: 712 (1830)
 
 #### Original name
-Sphaeria hepaticaecola Duby
+Sphaeria hepaticicola Duby
 
 ### Remarks
 null

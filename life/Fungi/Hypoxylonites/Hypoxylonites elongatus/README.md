@@ -1,5 +1,4 @@
-Hypoxylonites elongatus (Rouse) Elsik SPECIES
-=======
+# Hypoxylonites elongatus (Rouse) Elsik SPECIES
 
 #### Status
 ACCEPTED

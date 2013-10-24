@@ -1,5 +1,4 @@
-Pyrenophora lithophila Gucevic SPECIES
-=======
+# Pyrenophora lithophila Gucevic SPECIES
 
 #### Status
 ACCEPTED

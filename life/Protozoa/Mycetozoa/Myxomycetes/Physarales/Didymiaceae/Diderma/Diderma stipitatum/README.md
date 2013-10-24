@@ -1,5 +1,4 @@
-Diderma stipitatum Fr. SPECIES
-=======
+# Diderma stipitatum Fr. SPECIES
 
 #### Status
 ACCEPTED

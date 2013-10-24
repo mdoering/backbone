@@ -1,5 +1,4 @@
-Nelsoniella Cookson & Eisenack GENUS
-=======
+# Nelsoniella Cookson & Eisenack GENUS
 
 #### Status
 ACCEPTED

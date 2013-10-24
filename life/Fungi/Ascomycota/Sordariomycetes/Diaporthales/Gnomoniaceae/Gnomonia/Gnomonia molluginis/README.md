@@ -1,5 +1,4 @@
-Gnomonia molluginis Feltgen SPECIES
-=======
+# Gnomonia molluginis Feltgen SPECIES
 
 #### Status
 ACCEPTED

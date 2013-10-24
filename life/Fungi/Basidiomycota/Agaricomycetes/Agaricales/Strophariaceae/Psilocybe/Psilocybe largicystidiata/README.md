@@ -1,5 +1,4 @@
-Psilocybe largicystidiata E. Horak & Desjardin SPECIES
-=======
+# Psilocybe largicystidiata E. Horak & Desjardin SPECIES
 
 #### Status
 ACCEPTED

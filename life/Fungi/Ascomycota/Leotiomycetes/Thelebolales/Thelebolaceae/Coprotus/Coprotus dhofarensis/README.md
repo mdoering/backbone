@@ -1,5 +1,4 @@
-Coprotus dhofarensis Gené, El Shafie & Guarro SPECIES
-=======
+# Coprotus dhofarensis Gené, El Shafie & Guarro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium patagonicum (Singer) Redhead SPECIES
-=======
+# Helotium patagonicum (Singer) Redhead SPECIES
 
 #### Status
 ACCEPTED

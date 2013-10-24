@@ -1,11 +1,10 @@
-Debaryomyces hansenii subsp. hansenii SUBSPECIES
-=======
+# Debaryomyces hansenii (Zopf) Lodder & Kreger, 1952 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+Belgian Species List
 
 #### Published in
 null

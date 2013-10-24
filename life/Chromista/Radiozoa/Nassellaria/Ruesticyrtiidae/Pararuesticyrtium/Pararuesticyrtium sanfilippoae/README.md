@@ -1,5 +1,4 @@
-Pararuesticyrtium sanfilippoae SPECIES
-=======
+# Pararuesticyrtium sanfilippoae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium tritici Henn. SPECIES
-=======
+# Helminthosporium tritici Henn. SPECIES
 
 #### Status
 ACCEPTED

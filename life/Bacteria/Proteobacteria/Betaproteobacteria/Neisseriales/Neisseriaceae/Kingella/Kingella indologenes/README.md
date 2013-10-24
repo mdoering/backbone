@@ -1,5 +1,4 @@
-Kingella indologenes Snell & Lapage, 1976 SPECIES
-=======
+# Kingella indologenes Snell & Lapage, 1976 SPECIES
 
 #### Status
 ACCEPTED

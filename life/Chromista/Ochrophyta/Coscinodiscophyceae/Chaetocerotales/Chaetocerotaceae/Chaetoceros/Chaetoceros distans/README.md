@@ -1,5 +1,4 @@
-Chaetoceros distans Cleve SPECIES
-=======
+# Chaetoceros distans Cleve SPECIES
 
 #### Status
 ACCEPTED

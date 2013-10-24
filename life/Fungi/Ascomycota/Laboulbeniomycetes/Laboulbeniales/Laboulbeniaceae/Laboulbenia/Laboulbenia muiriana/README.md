@@ -1,5 +1,4 @@
-Laboulbenia muiriana Thaxt. SPECIES
-=======
+# Laboulbenia muiriana Thaxt. SPECIES
 
 #### Status
 ACCEPTED

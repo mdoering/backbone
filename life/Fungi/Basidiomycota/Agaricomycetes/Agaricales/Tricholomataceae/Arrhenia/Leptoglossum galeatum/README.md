@@ -1,5 +1,4 @@
-Leptoglossum galeatum W.B. Cooke SPECIES
-=======
+# Leptoglossum galeatum W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

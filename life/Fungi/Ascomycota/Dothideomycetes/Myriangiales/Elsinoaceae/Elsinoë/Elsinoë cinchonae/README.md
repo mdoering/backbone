@@ -1,5 +1,4 @@
-Elsinoë cinchonae Jenkins SPECIES
-=======
+# Elsinoë cinchonae Jenkins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthamoeba griffini Sawyer, 1971 SPECIES
-=======
+# Acanthamoeba griffini Sawyer, 1971 SPECIES
 
 #### Status
 ACCEPTED

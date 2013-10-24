@@ -1,5 +1,4 @@
-Scyphosphaera lagena Kamptner, 1955 SPECIES
-=======
+# Scyphosphaera lagena Kamptner, 1955 SPECIES
 
 #### Status
 ACCEPTED

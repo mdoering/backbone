@@ -1,5 +1,4 @@
-Dendryphiella aspera R.W. Barreto & J.C. David SPECIES
-=======
+# Dendryphiella aspera R.W. Barreto & J.C. David SPECIES
 
 #### Status
 ACCEPTED

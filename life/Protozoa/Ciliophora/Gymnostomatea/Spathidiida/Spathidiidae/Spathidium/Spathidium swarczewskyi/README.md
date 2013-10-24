@@ -1,5 +1,4 @@
-Spathidium swarczewskyi Tucolesco, 1962 SPECIES
-=======
+# Spathidium swarczewskyi Tucolesco, 1962 SPECIES
 
 #### Status
 ACCEPTED

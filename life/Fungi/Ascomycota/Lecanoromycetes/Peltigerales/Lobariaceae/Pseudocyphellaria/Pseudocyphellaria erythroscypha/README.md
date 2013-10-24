@@ -1,5 +1,4 @@
-Pseudocyphellaria erythroscypha (Taylor) D.J. Galloway & Henssen SPECIES
-=======
+# Pseudocyphellaria erythroscypha (Taylor) D.J. Galloway & Henssen SPECIES
 
 #### Status
 ACCEPTED

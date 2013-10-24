@@ -1,5 +1,4 @@
-Phacidium pulverulentum J.C. Schmidt SPECIES
-=======
+# Phacidium pulverulentum J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

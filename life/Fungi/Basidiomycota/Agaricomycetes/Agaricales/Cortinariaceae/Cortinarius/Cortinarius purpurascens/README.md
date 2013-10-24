@@ -1,17 +1,16 @@
-Cortinarius purpurascens f. purpurascens FORM
-=======
+# Cortinarius purpurascens Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Epicr. syst. mycol. (Upsaliae) 265 (1838)
 
 #### Original name
-Cortinarius purpurascens f. purpurascens
+Agaricus purpurascens Fr., 1818
 
 ### Remarks
 null

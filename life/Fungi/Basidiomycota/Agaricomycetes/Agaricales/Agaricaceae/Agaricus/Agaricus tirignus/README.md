@@ -1,5 +1,4 @@
-Agaricus tirignus Scop. SPECIES
-=======
+# Agaricus tirignus Scop. SPECIES
 
 #### Status
 ACCEPTED

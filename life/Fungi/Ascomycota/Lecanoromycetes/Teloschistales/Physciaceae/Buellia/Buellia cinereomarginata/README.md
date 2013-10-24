@@ -1,5 +1,4 @@
-Buellia cinereomarginata B. de Lesd. SPECIES
-=======
+# Buellia cinereomarginata B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

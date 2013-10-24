@@ -1,5 +1,4 @@
-Dileptus massiliensis Gourret & Roeser, 1886 SPECIES
-=======
+# Dileptus massiliensis Gourret & Roeser, 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microstroma umbellulariae (Harv.) W.B. Cooke SPECIES
-=======
+# Microstroma umbellulariae (Harv.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

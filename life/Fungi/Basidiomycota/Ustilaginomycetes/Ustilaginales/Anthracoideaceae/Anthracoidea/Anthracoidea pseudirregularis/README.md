@@ -1,5 +1,4 @@
-Anthracoidea pseudirregularis U. Braun, 1982 SPECIES
-=======
+# Anthracoidea pseudirregularis U. Braun, 1982 SPECIES
 
 #### Status
 ACCEPTED

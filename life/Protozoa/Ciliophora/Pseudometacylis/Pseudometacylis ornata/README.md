@@ -1,5 +1,4 @@
-Pseudometacylis ornata Balech, 1968 SPECIES
-=======
+# Pseudometacylis ornata Balech, 1968 SPECIES
 
 #### Status
 DOUBTFUL

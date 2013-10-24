@@ -1,5 +1,4 @@
-Dimerosporium paurotrichum Sacc. & Berl. SPECIES
-=======
+# Dimerosporium paurotrichum Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

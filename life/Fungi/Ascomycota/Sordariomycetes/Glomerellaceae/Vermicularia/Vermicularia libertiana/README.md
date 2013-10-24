@@ -1,5 +1,4 @@
-Vermicularia libertiana Roum. SPECIES
-=======
+# Vermicularia libertiana Roum. SPECIES
 
 #### Status
 ACCEPTED

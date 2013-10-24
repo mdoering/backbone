@@ -1,5 +1,4 @@
-Palacanthus multiangulare (N. Umnova in N. Umnova & Fanderflit, 1971) Stancliffe & Sarjeant, 1996 SPECIES
-=======
+# Palacanthus multiangulare (N. Umnova in N. Umnova & Fanderflit, 1971) Stancliffe & Sarjeant, 1996 SPECIES
 
 #### Status
 ACCEPTED

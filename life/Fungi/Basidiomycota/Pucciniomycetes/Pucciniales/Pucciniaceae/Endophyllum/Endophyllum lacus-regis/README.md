@@ -1,5 +1,4 @@
-Endophyllum lacus-regis Savile & Parmelee, 1956 SPECIES
-=======
+# Endophyllum lacus-regis Savile & Parmelee, 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria spiraeae P. Karst. SPECIES
-=======
+# Leptosphaeria spiraeae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

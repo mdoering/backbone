@@ -1,5 +1,4 @@
-Skirgiellia GENUS
-=======
+# Skirgiellia GENUS
 
 #### Status
 ACCEPTED

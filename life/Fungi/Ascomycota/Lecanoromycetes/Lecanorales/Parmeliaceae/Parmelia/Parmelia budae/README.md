@@ -1,5 +1,4 @@
-Parmelia budae (Gyeln.) Gyeln. SPECIES
-=======
+# Parmelia budae (Gyeln.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

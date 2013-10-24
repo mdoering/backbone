@@ -1,5 +1,4 @@
-Sansabaina Loeblich & Tappan, 1984 GENUS
-=======
+# Sansabaina Loeblich & Tappan, 1984 GENUS
 
 #### Status
 ACCEPTED

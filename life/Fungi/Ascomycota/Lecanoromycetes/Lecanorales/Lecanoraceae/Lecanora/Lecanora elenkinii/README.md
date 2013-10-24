@@ -1,5 +1,4 @@
-Lecanora elenkinii Mereschk. SPECIES
-=======
+# Lecanora elenkinii Mereschk. SPECIES
 
 #### Status
 ACCEPTED

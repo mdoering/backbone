@@ -1,5 +1,4 @@
-Hygrophorus roseiceps (Murrill) Murrill SPECIES
-=======
+# Hygrophorus roseiceps (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

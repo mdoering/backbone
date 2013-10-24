@@ -1,5 +1,4 @@
-Asterostomella grewiae Petr. SPECIES
-=======
+# Asterostomella grewiae Petr. SPECIES
 
 #### Status
 ACCEPTED

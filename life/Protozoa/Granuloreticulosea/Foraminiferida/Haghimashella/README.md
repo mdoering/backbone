@@ -1,5 +1,4 @@
-Haghimashella Neagu & Neagu, 1995 GENUS
-=======
+# Haghimashella Neagu & Neagu, 1995 GENUS
 
 #### Status
 ACCEPTED

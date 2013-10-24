@@ -1,5 +1,4 @@
-Blastocystis lapemidis Teow, Zaman, G.C. Ng, Y.C. Chan, E.H. Yap, J. Howe, Gopalakrishn. & M. Singh SPECIES
-=======
+# Blastocystis lapemidis Teow, Zaman, G.C. Ng, Y.C. Chan, E.H. Yap, J. Howe, Gopalakrishn. & M. Singh SPECIES
 
 #### Status
 ACCEPTED

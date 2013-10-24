@@ -1,5 +1,4 @@
-Seynesia santanderiana Toro SPECIES
-=======
+# Seynesia santanderiana Toro SPECIES
 
 #### Status
 ACCEPTED

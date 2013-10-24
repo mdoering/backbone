@@ -1,5 +1,4 @@
-Pseudopeziza divergens (Desm.) Sacc. SPECIES
-=======
+# Pseudopeziza divergens (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

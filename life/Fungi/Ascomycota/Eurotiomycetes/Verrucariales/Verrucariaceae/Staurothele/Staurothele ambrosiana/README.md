@@ -1,5 +1,4 @@
-Staurothele ambrosiana (A. Massal.) Lettau SPECIES
-=======
+# Staurothele ambrosiana (A. Massal.) Lettau SPECIES
 
 #### Status
 ACCEPTED

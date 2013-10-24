@@ -1,14 +1,13 @@
-Lopadium nymanii R. Sant. SPECIES
-=======
+# Calopadia nymanii (R. Sant.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Symb. bot. upsal. 12(no. 1): 526 (1952)
+Folia geobot. phytotax. 21(2): 215 (1986)
 
 #### Original name
 Lopadium nymanii R. Sant.

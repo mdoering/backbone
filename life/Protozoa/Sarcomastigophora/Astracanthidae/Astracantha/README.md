@@ -1,5 +1,4 @@
-Astracantha Haecker, 1906 GENUS
-=======
+# Astracantha Haecker, 1906 GENUS
 
 #### Status
 ACCEPTED

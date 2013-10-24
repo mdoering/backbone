@@ -1,5 +1,4 @@
-Gloeocapsa punctata Nägeli SPECIES
-=======
+# Gloeocapsa punctata Nägeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyrtocoris Haeckel, 1881 GENUS
-=======
+# Cyrtocoris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

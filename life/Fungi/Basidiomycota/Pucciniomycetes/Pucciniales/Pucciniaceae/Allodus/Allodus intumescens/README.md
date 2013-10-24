@@ -1,5 +1,4 @@
-Allodus intumescens (P. Syd. & Syd.) Arthur & Orton SPECIES
-=======
+# Allodus intumescens (P. Syd. & Syd.) Arthur & Orton SPECIES
 
 #### Status
 ACCEPTED

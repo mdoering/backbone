@@ -1,14 +1,13 @@
-Cladochytrium maculare (Wallr.) P.W. Graff, 1928 SPECIES
-=======
+# Physoderma maculare Wallr., 1833 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. crypt. Germ. (Nürnberg) 2: 192 (1833)
 
 #### Original name
 Physoderma maculare Wallr., 1833

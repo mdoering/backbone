@@ -1,5 +1,4 @@
-Monochaetia crataegina Syd. & P. Syd. SPECIES
-=======
+# Monochaetia crataegina Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

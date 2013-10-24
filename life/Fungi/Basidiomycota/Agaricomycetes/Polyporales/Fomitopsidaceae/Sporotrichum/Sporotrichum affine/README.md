@@ -1,5 +1,4 @@
-Sporotrichum affine Gruby SPECIES
-=======
+# Sporotrichum affine Gruby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia hirtella (Berk. & Broome) Dennis SPECIES
-=======
+# Collybia hirtella (Berk. & Broome) Dennis SPECIES
 
 #### Status
 ACCEPTED

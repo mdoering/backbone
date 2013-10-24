@@ -1,5 +1,4 @@
-Mycena tenuisetosa Corner SPECIES
-=======
+# Mycena tenuisetosa Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lamtostyla granulifera Foissner, 1997 SPECIES
-=======
+# Lamtostyla granulifera Foissner, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clibanites (P. Karst.) P. Karst. GENUS
-=======
+# Clibanites (P. Karst.) P. Karst. GENUS
 
 #### Status
 ACCEPTED

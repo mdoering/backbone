@@ -1,5 +1,4 @@
-Chaetomidium unciatum Dennis, 1974 SPECIES
-=======
+# Chaetomidium unciatum Dennis, 1974 SPECIES
 
 #### Status
 ACCEPTED

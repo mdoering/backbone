@@ -1,5 +1,4 @@
-Lecanographa nothofagi Kantvilas SPECIES
-=======
+# Lecanographa nothofagi Kantvilas SPECIES
 
 #### Status
 ACCEPTED

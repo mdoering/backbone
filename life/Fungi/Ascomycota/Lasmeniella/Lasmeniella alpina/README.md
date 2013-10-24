@@ -1,5 +1,4 @@
-Lasmeniella alpina (Ellis & Everh.) Petr. & Syd. SPECIES
-=======
+# Lasmeniella alpina (Ellis & Everh.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

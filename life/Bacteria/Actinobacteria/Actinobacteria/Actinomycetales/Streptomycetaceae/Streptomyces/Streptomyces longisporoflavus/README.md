@@ -1,5 +1,4 @@
-Streptomyces longisporoflavus Waksman, 1953 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces longisporoflavus Waksman, 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

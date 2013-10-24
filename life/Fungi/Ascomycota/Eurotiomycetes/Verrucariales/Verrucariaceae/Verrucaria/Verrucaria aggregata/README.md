@@ -1,5 +1,4 @@
-Verrucaria aggregata Fée SPECIES
-=======
+# Verrucaria aggregata Fée SPECIES
 
 #### Status
 ACCEPTED

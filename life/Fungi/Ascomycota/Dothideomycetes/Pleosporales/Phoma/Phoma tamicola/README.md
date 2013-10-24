@@ -1,5 +1,4 @@
-Phoma tamicola Cooke SPECIES
-=======
+# Phoma tamicola Cooke SPECIES
 
 #### Status
 ACCEPTED

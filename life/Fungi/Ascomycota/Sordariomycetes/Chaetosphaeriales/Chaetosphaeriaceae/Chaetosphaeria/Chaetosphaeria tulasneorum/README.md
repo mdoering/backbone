@@ -1,5 +1,4 @@
-Chaetosphaeria tulasneorum Réblová & W. Gams, 1999 SPECIES
-=======
+# Chaetosphaeria tulasneorum Réblová & W. Gams, 1999 SPECIES
 
 #### Status
 ACCEPTED

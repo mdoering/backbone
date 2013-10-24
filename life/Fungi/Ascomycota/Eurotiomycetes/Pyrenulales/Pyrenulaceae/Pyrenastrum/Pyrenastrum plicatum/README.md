@@ -1,5 +1,4 @@
-Pyrenastrum plicatum Eschw. SPECIES
-=======
+# Pyrenastrum plicatum Eschw. SPECIES
 
 #### Status
 ACCEPTED

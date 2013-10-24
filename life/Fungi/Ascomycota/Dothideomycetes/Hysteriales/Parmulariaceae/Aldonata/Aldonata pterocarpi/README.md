@@ -1,5 +1,4 @@
-Aldonata pterocarpi Sivan. & A.R.P. Sinha, 1989 SPECIES
-=======
+# Aldonata pterocarpi Sivan. & A.R.P. Sinha, 1989 SPECIES
 
 #### Status
 ACCEPTED

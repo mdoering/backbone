@@ -1,5 +1,4 @@
-Lactarius thiersii Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius thiersii Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

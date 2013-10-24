@@ -1,5 +1,4 @@
-Fastidiosipila sanguinis Falsen et al., 2005 SPECIES
-=======
+# Fastidiosipila sanguinis Falsen et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

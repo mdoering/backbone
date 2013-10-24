@@ -1,5 +1,4 @@
-Phellinus turbinatus Ryvarden, 2004 SPECIES
-=======
+# Phellinus turbinatus Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

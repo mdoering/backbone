@@ -1,5 +1,4 @@
-Shanita Bronnimann, Whittaker & Zaninetti, 1978 GENUS
-=======
+# Shanita Bronnimann, Whittaker & Zaninetti, 1978 GENUS
 
 #### Status
 ACCEPTED

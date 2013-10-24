@@ -1,5 +1,4 @@
-Lecanora adolfii J.C. Wei SPECIES
-=======
+# Lecanora adolfii J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

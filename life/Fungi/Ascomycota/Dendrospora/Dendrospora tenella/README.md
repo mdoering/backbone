@@ -1,5 +1,4 @@
-Dendrospora tenella Descals & J. Webster, 1980 SPECIES
-=======
+# Dendrospora tenella Descals & J. Webster, 1980 SPECIES
 
 #### Status
 ACCEPTED

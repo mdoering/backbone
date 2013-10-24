@@ -1,5 +1,4 @@
-Macroplodia pennsylvanica (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Macroplodia pennsylvanica (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

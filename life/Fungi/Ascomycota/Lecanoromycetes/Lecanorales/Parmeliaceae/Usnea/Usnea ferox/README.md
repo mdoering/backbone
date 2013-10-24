@@ -1,5 +1,4 @@
-Usnea ferox Motyka SPECIES
-=======
+# Usnea ferox Motyka SPECIES
 
 #### Status
 ACCEPTED

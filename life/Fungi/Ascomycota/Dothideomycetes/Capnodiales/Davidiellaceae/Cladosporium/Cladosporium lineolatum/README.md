@@ -1,5 +1,4 @@
-Cladosporium lineolatum Sacc. SPECIES
-=======
+# Cladosporium lineolatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

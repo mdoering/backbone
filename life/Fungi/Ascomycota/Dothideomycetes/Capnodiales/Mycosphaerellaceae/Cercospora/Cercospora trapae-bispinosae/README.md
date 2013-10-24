@@ -1,5 +1,4 @@
-Cercospora trapae-bispinosae Govindu & Thirum. SPECIES
-=======
+# Cercospora trapae-bispinosae Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

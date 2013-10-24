@@ -1,5 +1,4 @@
-Oropogon secalonicus Essl. SPECIES
-=======
+# Oropogon secalonicus Essl. SPECIES
 
 #### Status
 ACCEPTED

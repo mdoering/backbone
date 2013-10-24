@@ -1,5 +1,4 @@
-Phaeosphaeria ovei Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria ovei Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula cruentata f. cruentata FORM
-=======
+# Russula cruentata Quél. & Schulzer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Russula cruentata f. cruentata
+Russula cruentata Quél. & Schulzer
 
 ### Remarks
 null

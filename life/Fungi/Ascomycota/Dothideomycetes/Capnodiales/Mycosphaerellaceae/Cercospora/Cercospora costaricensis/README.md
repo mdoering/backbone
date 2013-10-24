@@ -1,5 +1,4 @@
-Cercospora costaricensis Syd. SPECIES
-=======
+# Cercospora costaricensis Syd. SPECIES
 
 #### Status
 ACCEPTED

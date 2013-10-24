@@ -1,5 +1,4 @@
-Sorosporium lineare (Berk. & Broome) Thirum., M.D. Whitehead & O'Brian {?} SPECIES
-=======
+# Sorosporium lineare (Berk. & Broome) Thirum., M.D. Whitehead & O'Brian {?} SPECIES
 
 #### Status
 ACCEPTED

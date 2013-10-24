@@ -1,5 +1,4 @@
-Peziza retirugis Fr. SPECIES
-=======
+# Peziza retirugis Fr. SPECIES
 
 #### Status
 ACCEPTED

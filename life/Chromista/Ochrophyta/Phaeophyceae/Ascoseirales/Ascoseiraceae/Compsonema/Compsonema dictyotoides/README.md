@@ -1,5 +1,4 @@
-Compsonema dictyotoides Noda & Honda SPECIES
-=======
+# Compsonema dictyotoides Noda & Honda SPECIES
 
 #### Status
 ACCEPTED

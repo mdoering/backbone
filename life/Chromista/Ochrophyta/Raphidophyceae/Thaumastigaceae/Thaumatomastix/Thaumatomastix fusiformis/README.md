@@ -1,5 +1,4 @@
-Thaumatomastix fusiformis H.A. Thomsen, Kosman & Ikävalko, 1995 SPECIES
-=======
+# Thaumatomastix fusiformis H.A. Thomsen, Kosman & Ikävalko, 1995 SPECIES
 
 #### Status
 ACCEPTED

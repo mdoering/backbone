@@ -1,5 +1,4 @@
-Sticta macrophylla f. macrophylla FORM
-=======
+# Sticta macrophylla Hook. f. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Delise, Hist. Lich. Sticta 110 (1822)
 
 #### Original name
-Sticta macrophylla f. macrophylla
+Sticta macrophylla Hook. f.
 
 ### Remarks
 null

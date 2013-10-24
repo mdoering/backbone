@@ -1,5 +1,4 @@
-Geoglossum littorale (Rostr.) Nannf. SPECIES
-=======
+# Geoglossum littorale (Rostr.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

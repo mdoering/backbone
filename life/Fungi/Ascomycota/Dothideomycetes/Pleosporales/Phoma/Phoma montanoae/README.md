@@ -1,5 +1,4 @@
-Phoma montanoae Sousa da Cãmara SPECIES
-=======
+# Phoma montanoae Sousa da Cãmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiosordaria tetraspora J.C. Krug, Udagawa & Jeng, 1983 SPECIES
-=======
+# Apiosordaria tetraspora J.C. Krug, Udagawa & Jeng, 1983 SPECIES
 
 #### Status
 ACCEPTED

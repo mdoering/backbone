@@ -1,5 +1,4 @@
-Thelephora minuta Fr. SPECIES
-=======
+# Thelephora minuta Fr. SPECIES
 
 #### Status
 ACCEPTED

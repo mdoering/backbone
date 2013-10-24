@@ -1,5 +1,4 @@
-Sargassum liebmannii J. Agardh SPECIES
-=======
+# Sargassum liebmannii J. Agardh SPECIES
 
 #### Status
 ACCEPTED

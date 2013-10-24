@@ -1,5 +1,4 @@
-Protogastraceae Zeller FAMILY
-=======
+# Protogastraceae Zeller FAMILY
 
 #### Status
 ACCEPTED

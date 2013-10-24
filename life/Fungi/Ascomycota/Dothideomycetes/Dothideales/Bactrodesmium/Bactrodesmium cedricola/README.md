@@ -1,5 +1,4 @@
-Bactrodesmium cedricola M.B. Ellis, 1959 SPECIES
-=======
+# Bactrodesmium cedricola M.B. Ellis, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calcarispora hiemalis Marvanová & Marvan, 1963 SPECIES
-=======
+# Calcarispora hiemalis Marvanová & Marvan, 1963 SPECIES
 
 #### Status
 ACCEPTED

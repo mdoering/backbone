@@ -1,5 +1,4 @@
-Laboulbenia leptopus Speg. SPECIES
-=======
+# Laboulbenia leptopus Speg. SPECIES
 
 #### Status
 ACCEPTED

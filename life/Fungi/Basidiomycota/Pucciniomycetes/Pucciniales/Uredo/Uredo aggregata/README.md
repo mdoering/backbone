@@ -1,5 +1,4 @@
-Uredo aggregata Sawada SPECIES
-=======
+# Uredo aggregata Sawada SPECIES
 
 #### Status
 ACCEPTED

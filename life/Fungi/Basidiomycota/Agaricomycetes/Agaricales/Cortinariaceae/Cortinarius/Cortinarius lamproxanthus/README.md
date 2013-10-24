@@ -1,5 +1,4 @@
-Cortinarius lamproxanthus Soop, 2005 SPECIES
-=======
+# Cortinarius lamproxanthus Soop, 2005 SPECIES
 
 #### Status
 ACCEPTED

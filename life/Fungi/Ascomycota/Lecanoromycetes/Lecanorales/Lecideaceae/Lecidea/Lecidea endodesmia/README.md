@@ -1,5 +1,4 @@
-Lecidea endodesmia (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea endodesmia (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

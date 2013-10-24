@@ -1,5 +1,4 @@
-Ramalina cacuminum H. Magn. SPECIES
-=======
+# Ramalina cacuminum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

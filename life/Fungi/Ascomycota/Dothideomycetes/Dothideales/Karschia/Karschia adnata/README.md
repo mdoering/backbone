@@ -1,5 +1,4 @@
-Karschia adnata Kanouse SPECIES
-=======
+# Karschia adnata Kanouse SPECIES
 
 #### Status
 ACCEPTED

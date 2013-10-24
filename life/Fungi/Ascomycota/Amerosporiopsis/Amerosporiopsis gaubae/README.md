@@ -1,5 +1,4 @@
-Amerosporiopsis gaubae Petr., 1941 SPECIES
-=======
+# Amerosporiopsis gaubae Petr., 1941 SPECIES
 
 #### Status
 ACCEPTED

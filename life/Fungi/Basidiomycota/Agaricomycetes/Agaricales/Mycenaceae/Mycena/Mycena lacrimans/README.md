@@ -1,5 +1,4 @@
-Mycena lacrimans Singer SPECIES
-=======
+# Mycena lacrimans Singer SPECIES
 
 #### Status
 ACCEPTED

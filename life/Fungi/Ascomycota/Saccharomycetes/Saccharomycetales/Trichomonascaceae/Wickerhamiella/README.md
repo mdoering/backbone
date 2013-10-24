@@ -1,5 +1,4 @@
-Wickerhamiella Van der Walt GENUS
-=======
+# Wickerhamiella Van der Walt GENUS
 
 #### Status
 ACCEPTED

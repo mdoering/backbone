@@ -1,5 +1,4 @@
-Baltisphaeridium diploporum (Eisenack, 1951) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium diploporum (Eisenack, 1951) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

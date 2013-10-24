@@ -1,5 +1,4 @@
-Angiopsora GENUS
-=======
+# Angiopsora GENUS
 
 #### Status
 ACCEPTED

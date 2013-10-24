@@ -1,5 +1,4 @@
-Usnea shikokiana Asahina SPECIES
-=======
+# Usnea shikokiana Asahina SPECIES
 
 #### Status
 ACCEPTED

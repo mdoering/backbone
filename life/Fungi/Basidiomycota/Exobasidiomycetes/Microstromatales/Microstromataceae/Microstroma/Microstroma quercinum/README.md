@@ -1,5 +1,4 @@
-Microstroma quercinum (Opiz) Niessl SPECIES
-=======
+# Microstroma quercinum (Opiz) Niessl SPECIES
 
 #### Status
 ACCEPTED

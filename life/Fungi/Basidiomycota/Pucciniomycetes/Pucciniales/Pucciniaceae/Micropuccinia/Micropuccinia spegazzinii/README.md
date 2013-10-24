@@ -1,5 +1,4 @@
-Micropuccinia spegazzinii (De Toni) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia spegazzinii (De Toni) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

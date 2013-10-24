@@ -1,5 +1,4 @@
-Rinodina porphyria (Pers.) Gray SPECIES
-=======
+# Rinodina porphyria (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED

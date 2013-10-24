@@ -1,5 +1,4 @@
-Discosporangium Falkenberg, 1878 GENUS
-=======
+# Discosporangium Falkenberg, 1878 GENUS
 
 #### Status
 ACCEPTED

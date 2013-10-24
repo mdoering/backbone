@@ -1,14 +1,13 @@
-Asterina solaris Kalchbr. & Cooke, 1880 SPECIES
-=======
+# Asterodothis solaris (Kalchbr. & Cooke) Theiss., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 9(no. 49): 33 (1880)
+Annls mycol. 10: (1912)
 
 #### Original name
 Asterina solaris Kalchbr. & Cooke, 1880

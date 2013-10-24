@@ -1,5 +1,4 @@
-Platygrapha ocellata Nyl. SPECIES
-=======
+# Platygrapha ocellata Nyl. SPECIES
 
 #### Status
 ACCEPTED

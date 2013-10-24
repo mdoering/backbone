@@ -1,14 +1,13 @@
-Physarum virescens var. obscurum Lister VARIETY
-=======
+# Physarum obscurum (Lister) Ing, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Mycetozoa (London) 59 (1894)
+Trans. Br. mycol. Soc. 78(3): 445 (1982)
 
 #### Original name
 Physarum virescens var. obscurum Lister

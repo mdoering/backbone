@@ -1,14 +1,13 @@
-Maronea multifera (Nyl.) Vain. SPECIES
-=======
+# Maronina multifera (Nyl.) Hafellner & R.W. Rogers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Jahns, Biblthca Lichenol. 38: 106 (1990)
 
 #### Original name
 Lecanora multifera Nyl.

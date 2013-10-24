@@ -1,5 +1,4 @@
-Albotricha kamtschatica (Raitv.) Raitv. SPECIES
-=======
+# Albotricha kamtschatica (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

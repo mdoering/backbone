@@ -1,5 +1,4 @@
-Hygrophorus brevipes A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus brevipes A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

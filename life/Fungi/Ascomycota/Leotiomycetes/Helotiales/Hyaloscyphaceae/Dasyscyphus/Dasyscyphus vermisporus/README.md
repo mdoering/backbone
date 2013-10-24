@@ -1,5 +1,4 @@
-Dasyscyphus vermisporus Raitv. SPECIES
-=======
+# Dasyscyphus vermisporus Raitv. SPECIES
 
 #### Status
 ACCEPTED

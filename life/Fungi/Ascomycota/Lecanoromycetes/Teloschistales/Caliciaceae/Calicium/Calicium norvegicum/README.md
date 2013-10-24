@@ -1,5 +1,4 @@
-Calicium norvegicum Hav. SPECIES
-=======
+# Calicium norvegicum Hav. SPECIES
 
 #### Status
 ACCEPTED

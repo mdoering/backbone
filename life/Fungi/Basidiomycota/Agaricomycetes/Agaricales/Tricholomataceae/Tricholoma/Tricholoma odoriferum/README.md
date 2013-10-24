@@ -1,5 +1,4 @@
-Tricholoma odoriferum (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma odoriferum (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

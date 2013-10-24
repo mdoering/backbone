@@ -1,5 +1,4 @@
-Pholiota exsequens (Britzelm.) Sacc. SPECIES
-=======
+# Pholiota exsequens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

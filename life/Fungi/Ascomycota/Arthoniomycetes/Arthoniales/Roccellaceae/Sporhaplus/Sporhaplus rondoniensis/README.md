@@ -1,5 +1,4 @@
-Sporhaplus rondoniensis H.B.P. Upadhyay SPECIES
-=======
+# Sporhaplus rondoniensis H.B.P. Upadhyay SPECIES
 
 #### Status
 ACCEPTED

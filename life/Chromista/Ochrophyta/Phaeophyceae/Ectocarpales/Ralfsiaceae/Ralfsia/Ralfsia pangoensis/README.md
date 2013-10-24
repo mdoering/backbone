@@ -1,5 +1,4 @@
-Ralfsia pangoensis Setchell SPECIES
-=======
+# Ralfsia pangoensis Setchell SPECIES
 
 #### Status
 ACCEPTED

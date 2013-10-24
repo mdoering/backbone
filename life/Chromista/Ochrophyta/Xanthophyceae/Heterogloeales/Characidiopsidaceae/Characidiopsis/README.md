@@ -1,5 +1,4 @@
-Characidiopsis Pascher, 1938 GENUS
-=======
+# Characidiopsis Pascher, 1938 GENUS
 
 #### Status
 ACCEPTED

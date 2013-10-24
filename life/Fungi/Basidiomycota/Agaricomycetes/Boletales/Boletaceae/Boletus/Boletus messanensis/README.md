@@ -1,5 +1,4 @@
-Boletus messanensis Inzenga SPECIES
-=======
+# Boletus messanensis Inzenga SPECIES
 
 #### Status
 ACCEPTED

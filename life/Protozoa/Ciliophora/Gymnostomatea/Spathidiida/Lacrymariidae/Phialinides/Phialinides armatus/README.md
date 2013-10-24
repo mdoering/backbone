@@ -1,5 +1,4 @@
-Phialinides armatus Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Phialinides armatus Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

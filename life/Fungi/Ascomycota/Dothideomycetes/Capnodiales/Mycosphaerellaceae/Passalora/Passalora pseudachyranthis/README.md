@@ -1,5 +1,4 @@
-Passalora pseudachyranthis (R.F. Castañeda & U. Braun) U. Braun SPECIES
-=======
+# Passalora pseudachyranthis (R.F. Castañeda & U. Braun) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca crocina (Kremp.) Marcelli SPECIES
-=======
+# Caloplaca crocina (Kremp.) Marcelli SPECIES
 
 #### Status
 ACCEPTED

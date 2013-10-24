@@ -1,5 +1,4 @@
-Lipocystis Grell, 1938 GENUS
-=======
+# Lipocystis Grell, 1938 GENUS
 
 #### Status
 ACCEPTED

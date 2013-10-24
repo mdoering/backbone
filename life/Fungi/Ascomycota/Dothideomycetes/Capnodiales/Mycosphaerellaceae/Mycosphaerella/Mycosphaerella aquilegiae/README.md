@@ -1,5 +1,4 @@
-Mycosphaerella aquilegiae Sawada SPECIES
-=======
+# Mycosphaerella aquilegiae Sawada SPECIES
 
 #### Status
 ACCEPTED

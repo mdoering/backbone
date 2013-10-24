@@ -1,5 +1,4 @@
-Cercophora macrocarpa (G.C. Carroll & Munk) O. Hilber & R. Hilber SPECIES
-=======
+# Cercophora macrocarpa (G.C. Carroll & Munk) O. Hilber & R. Hilber SPECIES
 
 #### Status
 ACCEPTED

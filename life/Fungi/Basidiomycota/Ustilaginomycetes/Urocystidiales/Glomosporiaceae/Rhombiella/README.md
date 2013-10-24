@@ -1,5 +1,4 @@
-Rhombiella Liro GENUS
-=======
+# Rhombiella Liro GENUS
 
 #### Status
 ACCEPTED

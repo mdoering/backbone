@@ -1,5 +1,4 @@
-Cercospora rosae-indianensis J.M. Hook SPECIES
-=======
+# Cercospora rosae-indianensis J.M. Hook SPECIES
 
 #### Status
 ACCEPTED

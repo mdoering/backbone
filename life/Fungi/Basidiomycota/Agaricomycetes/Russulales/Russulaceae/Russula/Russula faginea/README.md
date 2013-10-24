@@ -1,17 +1,16 @@
-Russula barlae var. barlae VARIETY
-=======
+# Russula faginea Romagn. ex Adamcík, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Compt. Rend. Assoc. Franç. Avancem. Sci. 11: 7 (1883)
+in Adamcík, Czech Mycol. 54(3-4): 185 (2003)
 
 #### Original name
-Russula barlae var. barlae
+Russula faginea Romagn. ex Adamcík, 2003
 
 ### Remarks
 null

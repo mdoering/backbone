@@ -1,5 +1,4 @@
-Dicaeoma simplex (Peck) Kuntze SPECIES
-=======
+# Dicaeoma simplex (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

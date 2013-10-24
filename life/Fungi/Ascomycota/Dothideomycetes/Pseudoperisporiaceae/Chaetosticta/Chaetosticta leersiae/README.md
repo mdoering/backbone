@@ -1,5 +1,4 @@
-Chaetosticta leersiae Punith. SPECIES
-=======
+# Chaetosticta leersiae Punith. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Milesia andina Faull SPECIES
-=======
+# Milesia andina Faull SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eriospora berberidis (Höhn.) Höhn. SPECIES
-=======
+# Eriospora berberidis (Höhn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

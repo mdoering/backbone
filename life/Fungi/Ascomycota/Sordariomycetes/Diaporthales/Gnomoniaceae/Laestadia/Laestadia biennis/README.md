@@ -1,5 +1,4 @@
-Laestadia biennis Dearn. SPECIES
-=======
+# Laestadia biennis Dearn. SPECIES
 
 #### Status
 ACCEPTED

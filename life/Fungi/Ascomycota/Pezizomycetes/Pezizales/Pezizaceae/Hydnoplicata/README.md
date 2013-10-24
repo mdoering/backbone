@@ -1,5 +1,4 @@
-Hydnoplicata GENUS
-=======
+# Hydnoplicata GENUS
 
 #### Status
 ACCEPTED

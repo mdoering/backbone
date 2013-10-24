@@ -1,5 +1,4 @@
-Septogloeum celtidis Dearn. SPECIES
-=======
+# Septogloeum celtidis Dearn. SPECIES
 
 #### Status
 ACCEPTED

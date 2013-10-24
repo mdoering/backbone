@@ -1,5 +1,4 @@
-Ramalina erumpens var. erumpens Blanchon, Braggins & Alison Stewart VARIETY
-=======
+# Ramalina erumpens Blanchon, Braggins & Alison Stewart SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Hattori bot. Lab. 79: 74 (1996)
 
 #### Original name
-Ramalina erumpens var. erumpens Blanchon, Braggins & Alison Stewart
+Ramalina erumpens Blanchon, Braggins & Alison Stewart
 
 ### Remarks
 null

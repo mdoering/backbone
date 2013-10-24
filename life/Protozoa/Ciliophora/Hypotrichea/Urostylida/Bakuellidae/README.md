@@ -1,5 +1,4 @@
-Bakuellidae FAMILY
-=======
+# Bakuellidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hobsonia mirabilis (Peck) Linder, 1929 SPECIES
-=======
+# Hobsonia mirabilis (Peck) Linder, 1929 SPECIES
 
 #### Status
 ACCEPTED

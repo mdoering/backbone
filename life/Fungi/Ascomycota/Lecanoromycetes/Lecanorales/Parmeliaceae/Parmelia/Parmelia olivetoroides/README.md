@@ -1,5 +1,4 @@
-Parmelia olivetoroides C.W. Dodge SPECIES
-=======
+# Parmelia olivetoroides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

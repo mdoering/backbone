@@ -1,5 +1,4 @@
-Cortinarius striaepilus J. Favre SPECIES
-=======
+# Cortinarius striaepilus J. Favre SPECIES
 
 #### Status
 ACCEPTED

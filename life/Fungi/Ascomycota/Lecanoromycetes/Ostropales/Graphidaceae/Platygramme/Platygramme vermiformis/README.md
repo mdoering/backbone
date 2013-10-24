@@ -1,5 +1,4 @@
-Platygramme vermiformis Fée SPECIES
-=======
+# Platygramme vermiformis Fée SPECIES
 
 #### Status
 ACCEPTED

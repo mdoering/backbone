@@ -1,5 +1,4 @@
-Ophiobolus anguillides (Cooke) Sacc., 1883 SPECIES
-=======
+# Ophiobolus anguillides (Cooke) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina laongiana Hav. SPECIES
-=======
+# Rinodina laongiana Hav. SPECIES
 
 #### Status
 ACCEPTED

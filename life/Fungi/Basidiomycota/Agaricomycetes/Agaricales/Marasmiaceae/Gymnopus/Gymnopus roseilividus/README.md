@@ -1,5 +1,4 @@
-Gymnopus roseilividus Murrill SPECIES
-=======
+# Gymnopus roseilividus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinioides zonatum Penard, 1922 SPECIES
-=======
+# Gymnodinioides zonatum Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

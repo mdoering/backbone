@@ -1,17 +1,16 @@
-Cercospora gangeticae Bharadwaj SPECIES
-=======
+# Cercospora gangetici Bharadwaj SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Indian bot. Soc. 49(1-4): 120 (1971)
 
 #### Original name
-Cercospora gangeticae Bharadwaj
+Cercospora gangetici Bharadwaj
 
 ### Remarks
 null

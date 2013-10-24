@@ -1,5 +1,4 @@
-Spiromondaceae FAMILY
-=======
+# Spiromondaceae FAMILY
 
 #### Status
 ACCEPTED

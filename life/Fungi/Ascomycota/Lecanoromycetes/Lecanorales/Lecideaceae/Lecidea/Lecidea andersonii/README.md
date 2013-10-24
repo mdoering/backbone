@@ -1,5 +1,4 @@
-Lecidea andersonii Filson SPECIES
-=======
+# Lecidea andersonii Filson SPECIES
 
 #### Status
 ACCEPTED

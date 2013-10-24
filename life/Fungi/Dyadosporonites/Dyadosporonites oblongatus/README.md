@@ -1,5 +1,4 @@
-Dyadosporonites oblongatus P. Ke & Z.Y. Shi ex S.Z. Sung, L. Cao, Z.H. Zhou, X. Guan & K.D. Wang SPECIES
-=======
+# Dyadosporonites oblongatus P. Ke & Z.Y. Shi ex S.Z. Sung, L. Cao, Z.H. Zhou, X. Guan & K.D. Wang SPECIES
 
 #### Status
 ACCEPTED

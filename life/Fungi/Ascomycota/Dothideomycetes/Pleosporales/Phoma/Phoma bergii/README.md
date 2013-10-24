@@ -1,5 +1,4 @@
-Phoma bergii Speg. SPECIES
-=======
+# Phoma bergii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia squalida Maire SPECIES
-=======
+# Leptonia squalida Maire SPECIES
 
 #### Status
 ACCEPTED

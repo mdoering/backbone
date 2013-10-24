@@ -1,5 +1,4 @@
-Endophragmiella oblonga (Matsush.) S. Hughes SPECIES
-=======
+# Endophragmiella oblonga (Matsush.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syncephalis penicillata Indoh, 1962 SPECIES
-=======
+# Syncephalis penicillata Indoh, 1962 SPECIES
 
 #### Status
 ACCEPTED

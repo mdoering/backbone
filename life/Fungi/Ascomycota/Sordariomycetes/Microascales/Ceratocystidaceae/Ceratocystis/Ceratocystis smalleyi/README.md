@@ -1,5 +1,4 @@
-Ceratocystis smalleyi J.A. Johnson & T.C. Harr. SPECIES
-=======
+# Ceratocystis smalleyi J.A. Johnson & T.C. Harr. SPECIES
 
 #### Status
 ACCEPTED

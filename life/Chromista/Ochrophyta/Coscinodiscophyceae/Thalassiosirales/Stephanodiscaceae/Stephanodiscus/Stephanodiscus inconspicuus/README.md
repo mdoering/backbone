@@ -1,5 +1,4 @@
-Stephanodiscus inconspicuus Makarova & Pomazkina SPECIES
-=======
+# Stephanodiscus inconspicuus Makarova & Pomazkina SPECIES
 
 #### Status
 ACCEPTED

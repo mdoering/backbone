@@ -1,5 +1,4 @@
-Anaerotruncus Lawson, Song, Liu, Molitoris, Vaisanen, Collins & Finegold, 2004 GENUS
-=======
+# Anaerotruncus Lawson, Song, Liu, Molitoris, Vaisanen, Collins & Finegold, 2004 GENUS
 
 #### Status
 ACCEPTED

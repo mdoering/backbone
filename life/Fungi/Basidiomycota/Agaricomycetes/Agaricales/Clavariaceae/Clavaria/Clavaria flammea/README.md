@@ -1,5 +1,4 @@
-Clavaria flammea Schaeff. SPECIES
-=======
+# Clavaria flammea Schaeff. SPECIES
 
 #### Status
 ACCEPTED

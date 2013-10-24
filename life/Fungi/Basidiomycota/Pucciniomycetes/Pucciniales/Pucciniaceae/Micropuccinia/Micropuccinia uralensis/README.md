@@ -1,5 +1,4 @@
-Micropuccinia uralensis (Tranzschel) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia uralensis (Tranzschel) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

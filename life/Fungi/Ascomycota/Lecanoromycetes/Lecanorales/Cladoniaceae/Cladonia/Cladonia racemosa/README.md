@@ -1,5 +1,4 @@
-Cladonia racemosa f. racemosa FORM
-=======
+# Cladonia racemosa Hoffm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia racemosa f. racemosa
+Cladonia racemosa Hoffm.
 
 ### Remarks
 null

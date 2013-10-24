@@ -1,5 +1,4 @@
-Mycosphaerella winteri (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella winteri (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

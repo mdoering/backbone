@@ -1,5 +1,4 @@
-Xylaria cuspidata Lloyd SPECIES
-=======
+# Xylaria cuspidata Lloyd SPECIES
 
 #### Status
 ACCEPTED

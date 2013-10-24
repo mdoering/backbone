@@ -1,5 +1,4 @@
-Aspicilia cernohorskyana (Clauzade & Vezda) Cl. Roux SPECIES
-=======
+# Aspicilia cernohorskyana (Clauzade & Vezda) Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

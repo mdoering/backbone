@@ -1,5 +1,4 @@
-Nyctomyces Hartig GENUS
-=======
+# Nyctomyces Hartig GENUS
 
 #### Status
 ACCEPTED

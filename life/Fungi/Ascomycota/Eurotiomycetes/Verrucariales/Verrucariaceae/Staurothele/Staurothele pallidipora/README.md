@@ -1,17 +1,16 @@
-Staurothele pallidopora P.M. McCarthy SPECIES
-=======
+# Staurothele pallidipora P. M. McCarthy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Muelleria 8(3): 275 (1995)
 
 #### Original name
-Staurothele pallidopora P.M. McCarthy
+Staurothele pallidipora P. M. McCarthy
 
 ### Remarks
 null

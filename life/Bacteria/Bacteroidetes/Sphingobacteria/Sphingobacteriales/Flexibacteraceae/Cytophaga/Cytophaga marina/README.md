@@ -1,11 +1,10 @@
-Flexibacter marinus Hikida et al., 1979 SPECIES
-=======
+# Cytophaga marina (ex Hikida et al., 1979) Reichenbach, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

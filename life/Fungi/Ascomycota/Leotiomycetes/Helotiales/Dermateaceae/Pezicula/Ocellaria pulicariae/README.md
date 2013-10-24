@@ -1,5 +1,4 @@
-Ocellaria pulicariae Pass. SPECIES
-=======
+# Ocellaria pulicariae Pass. SPECIES
 
 #### Status
 ACCEPTED

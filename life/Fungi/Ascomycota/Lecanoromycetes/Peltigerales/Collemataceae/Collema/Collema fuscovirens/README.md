@@ -1,17 +1,16 @@
-Collema granosum var. dispersum Kremp. VARIETY
-=======
+# Collema fuscovirens (With.) J. R. Laundon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 16(3): 219 (1984)
 
 #### Original name
-null
+Lichen fuscovirens With.
 
 ### Remarks
 null

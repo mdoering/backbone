@@ -1,5 +1,4 @@
-Plectopycnis GENUS
-=======
+# Plectopycnis GENUS
 
 #### Status
 ACCEPTED

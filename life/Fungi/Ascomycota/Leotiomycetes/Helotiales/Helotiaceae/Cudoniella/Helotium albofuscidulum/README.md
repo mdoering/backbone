@@ -1,5 +1,4 @@
-Helotium albofuscidulum Rehm SPECIES
-=======
+# Helotium albofuscidulum Rehm SPECIES
 
 #### Status
 ACCEPTED

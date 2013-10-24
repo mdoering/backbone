@@ -1,5 +1,4 @@
-Mycosphaerella aconitorum Petr. SPECIES
-=======
+# Mycosphaerella aconitorum Petr. SPECIES
 
 #### Status
 ACCEPTED

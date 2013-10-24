@@ -1,5 +1,4 @@
-Peziza conspersa Chaillet SPECIES
-=======
+# Peziza conspersa Chaillet SPECIES
 
 #### Status
 ACCEPTED

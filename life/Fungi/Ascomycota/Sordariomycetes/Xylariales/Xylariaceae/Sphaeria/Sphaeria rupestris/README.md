@@ -1,5 +1,4 @@
-Sphaeria rupestris Sowerby SPECIES
-=======
+# Sphaeria rupestris Sowerby SPECIES
 
 #### Status
 ACCEPTED

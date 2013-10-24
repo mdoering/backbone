@@ -1,5 +1,4 @@
-Aspergillus caballeroi Paunero SPECIES
-=======
+# Aspergillus caballeroi Paunero SPECIES
 
 #### Status
 ACCEPTED

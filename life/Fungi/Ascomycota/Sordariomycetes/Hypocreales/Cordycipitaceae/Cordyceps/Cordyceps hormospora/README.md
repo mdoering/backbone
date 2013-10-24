@@ -1,5 +1,4 @@
-Cordyceps hormospora Möller SPECIES
-=======
+# Cordyceps hormospora Möller SPECIES
 
 #### Status
 ACCEPTED

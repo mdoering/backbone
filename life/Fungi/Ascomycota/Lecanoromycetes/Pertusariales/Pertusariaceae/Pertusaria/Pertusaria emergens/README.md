@@ -1,5 +1,4 @@
-Pertusaria emergens Müll. Arg. SPECIES
-=======
+# Pertusaria emergens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

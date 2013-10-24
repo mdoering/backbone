@@ -1,5 +1,4 @@
-Chlorosplenium lividum (Alb. & Schwein.) P. Karst. SPECIES
-=======
+# Chlorosplenium lividum (Alb. & Schwein.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

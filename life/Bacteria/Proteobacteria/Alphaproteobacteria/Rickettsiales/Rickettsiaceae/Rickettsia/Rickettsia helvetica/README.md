@@ -1,5 +1,4 @@
-Rickettsia helvetica Beati et al., 1993 SPECIES
-=======
+# Rickettsia helvetica Beati et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola smeathmanniae Hansf. & Deighton SPECIES
-=======
+# Meliola smeathmanniae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

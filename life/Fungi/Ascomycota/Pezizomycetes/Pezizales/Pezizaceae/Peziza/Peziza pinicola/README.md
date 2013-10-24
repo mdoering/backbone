@@ -1,5 +1,4 @@
-Peziza pinicola ß pinicola Rebent. SPECIES
-=======
+# Peziza pinicola ß pinicola Rebent. SPECIES
 
 #### Status
 ACCEPTED

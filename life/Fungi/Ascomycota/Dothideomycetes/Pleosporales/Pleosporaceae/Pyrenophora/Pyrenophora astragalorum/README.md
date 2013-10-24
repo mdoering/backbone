@@ -1,5 +1,4 @@
-Pyrenophora astragalorum Maire SPECIES
-=======
+# Pyrenophora astragalorum Maire SPECIES
 
 #### Status
 ACCEPTED

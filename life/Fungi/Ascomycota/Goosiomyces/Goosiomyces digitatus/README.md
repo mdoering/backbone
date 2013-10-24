@@ -1,5 +1,4 @@
-Goosiomyces digitatus N.K. Rao & Manohar., 1989 SPECIES
-=======
+# Goosiomyces digitatus N.K. Rao & Manohar., 1989 SPECIES
 
 #### Status
 ACCEPTED

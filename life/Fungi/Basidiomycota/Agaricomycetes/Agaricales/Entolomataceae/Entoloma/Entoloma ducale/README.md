@@ -1,5 +1,4 @@
-Entoloma ducale E. Horak SPECIES
-=======
+# Entoloma ducale E. Horak SPECIES
 
 #### Status
 ACCEPTED

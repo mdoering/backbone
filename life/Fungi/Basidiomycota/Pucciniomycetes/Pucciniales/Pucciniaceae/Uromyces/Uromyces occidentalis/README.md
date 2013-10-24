@@ -1,5 +1,4 @@
-Uromyces occidentalis Dietel SPECIES
-=======
+# Uromyces occidentalis Dietel SPECIES
 
 #### Status
 ACCEPTED

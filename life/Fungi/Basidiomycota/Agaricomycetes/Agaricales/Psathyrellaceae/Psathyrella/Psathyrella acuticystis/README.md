@@ -1,5 +1,4 @@
-Psathyrella acuticystis A.H. Sm. SPECIES
-=======
+# Psathyrella acuticystis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

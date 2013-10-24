@@ -1,5 +1,4 @@
-Leptostroma acerinum Schwein. SPECIES
-=======
+# Leptostroma acerinum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphinctrina candida Speg. SPECIES
-=======
+# Sphinctrina candida Speg. SPECIES
 
 #### Status
 ACCEPTED

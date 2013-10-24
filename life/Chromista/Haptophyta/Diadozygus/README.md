@@ -1,5 +1,4 @@
-Diadozygus Rood, W.Hay & Barnard, 1971 GENUS
-=======
+# Diadozygus Rood, W.Hay & Barnard, 1971 GENUS
 
 #### Status
 ACCEPTED

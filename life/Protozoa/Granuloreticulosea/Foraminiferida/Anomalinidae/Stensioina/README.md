@@ -1,8 +1,7 @@
-Stensiöina Brotzen, 1936 GENUS
-=======
+# Stensioina Brotzen, 1936 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

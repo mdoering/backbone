@@ -1,5 +1,4 @@
-Hygrophorus barbatulus G. Becker SPECIES
-=======
+# Hygrophorus barbatulus G. Becker SPECIES
 
 #### Status
 ACCEPTED

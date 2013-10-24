@@ -1,14 +1,13 @@
-Punctillum poeltii Döbbeler, 1978 SPECIES
-=======
+# Hypobryon poeltii (Döbbeler) Döbbeler, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. bot. StSamml. , Münch. 14: 203 (1978)
+Nova Hedwigia 37(1): 12 (1983)
 
 #### Original name
 Punctillum poeltii Döbbeler, 1978

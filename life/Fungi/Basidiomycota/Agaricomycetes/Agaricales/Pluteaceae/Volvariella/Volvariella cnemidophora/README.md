@@ -1,5 +1,4 @@
-Volvariella cnemidophora (Mont.) Singer SPECIES
-=======
+# Volvariella cnemidophora (Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Orphniosporomyces groenlandicae Cif. & Tomas. SPECIES
-=======
+# Orphniosporomyces groenlandica Cif. & Tomas. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Orphniosporomyces groenlandicae Cif. & Tomas.
+Orphniosporomyces groenlandica Cif. & Tomas.
 
 ### Remarks
 null

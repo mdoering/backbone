@@ -1,5 +1,4 @@
-Amazonia gordoniicola Hosag., C.K. Biju & T.K. Abraham SPECIES
-=======
+# Amazonia gordoniicola Hosag., C.K. Biju & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amazonia patilii Hosag. SPECIES
-=======
+# Amazonia patilii Hosag. SPECIES
 
 #### Status
 ACCEPTED

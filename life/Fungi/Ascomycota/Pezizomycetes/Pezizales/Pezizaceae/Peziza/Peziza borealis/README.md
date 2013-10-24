@@ -1,5 +1,4 @@
-Peziza borealis Ellis & Holw. SPECIES
-=======
+# Peziza borealis Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

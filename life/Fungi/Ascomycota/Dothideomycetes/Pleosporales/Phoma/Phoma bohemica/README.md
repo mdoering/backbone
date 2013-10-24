@@ -1,5 +1,4 @@
-Phoma bohemica Bubák & Kabát SPECIES
-=======
+# Phoma bohemica Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

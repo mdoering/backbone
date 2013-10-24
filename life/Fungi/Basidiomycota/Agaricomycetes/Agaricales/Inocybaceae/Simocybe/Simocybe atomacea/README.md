@@ -1,5 +1,4 @@
-Simocybe atomacea (Murrill) Singer SPECIES
-=======
+# Simocybe atomacea (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

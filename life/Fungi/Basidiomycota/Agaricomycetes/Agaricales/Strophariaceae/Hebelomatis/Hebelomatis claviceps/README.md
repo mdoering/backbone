@@ -1,5 +1,4 @@
-Hebelomatis claviceps (Fr.) Locq. SPECIES
-=======
+# Hebelomatis claviceps (Fr.) Locq. SPECIES
 
 #### Status
 ACCEPTED

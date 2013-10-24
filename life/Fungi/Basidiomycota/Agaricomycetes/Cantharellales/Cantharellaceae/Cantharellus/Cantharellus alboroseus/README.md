@@ -1,5 +1,4 @@
-Cantharellus alboroseus Heinem., 1958 SPECIES
-=======
+# Cantharellus alboroseus Heinem., 1958 SPECIES
 
 #### Status
 ACCEPTED

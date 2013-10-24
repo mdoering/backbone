@@ -1,17 +1,16 @@
-Hypoxylon rubiginosum f. rubiginosum FORM
-=======
+# Hypoxylon rubiginosum (Pers.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 384 (1849)
+null
 
 #### Original name
-Hypoxylon rubiginosum f. rubiginosum
+null
 
 ### Remarks
 null

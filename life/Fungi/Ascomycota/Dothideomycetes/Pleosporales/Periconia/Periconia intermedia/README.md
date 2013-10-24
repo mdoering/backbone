@@ -1,5 +1,4 @@
-Periconia intermedia J. Mena, G. Delgado & Mercado SPECIES
-=======
+# Periconia intermedia J. Mena, G. Delgado & Mercado SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allocetraria denticulata (Hue) A. Thell & Randlane SPECIES
-=======
+# Allocetraria denticulata (Hue) A. Thell & Randlane SPECIES
 
 #### Status
 ACCEPTED

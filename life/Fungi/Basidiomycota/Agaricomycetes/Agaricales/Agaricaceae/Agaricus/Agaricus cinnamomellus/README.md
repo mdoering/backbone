@@ -1,5 +1,4 @@
-Agaricus cinnamomellus Heinem. SPECIES
-=======
+# Agaricus cinnamomellus Heinem. SPECIES
 
 #### Status
 ACCEPTED

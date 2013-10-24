@@ -1,5 +1,4 @@
-Ascochyta leonuri Ellis & Dearn. SPECIES
-=======
+# Ascochyta leonuri Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

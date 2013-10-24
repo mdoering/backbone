@@ -1,5 +1,4 @@
-Meliola peltata Doidge SPECIES
-=======
+# Meliola peltata Doidge SPECIES
 
 #### Status
 ACCEPTED

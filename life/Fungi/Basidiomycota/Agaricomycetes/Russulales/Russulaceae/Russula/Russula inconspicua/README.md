@@ -1,5 +1,4 @@
-Russula inconspicua Velen. SPECIES
-=======
+# Russula inconspicua Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectriella halonata Lowen SPECIES
-=======
+# Nectriella halonata Lowen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia cyathella J. Favre & Schweers SPECIES
-=======
+# Omphalia cyathella J. Favre & Schweers SPECIES
 
 #### Status
 ACCEPTED

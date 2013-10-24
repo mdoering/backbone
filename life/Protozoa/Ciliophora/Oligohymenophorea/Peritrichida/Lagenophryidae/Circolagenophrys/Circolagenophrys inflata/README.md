@@ -1,5 +1,4 @@
-Circolagenophrys inflata SPECIES
-=======
+# Circolagenophrys inflata SPECIES
 
 #### Status
 ACCEPTED

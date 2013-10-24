@@ -1,5 +1,4 @@
-Agaricus silvipluvialis Pegler SPECIES
-=======
+# Agaricus silvipluvialis Pegler SPECIES
 
 #### Status
 ACCEPTED

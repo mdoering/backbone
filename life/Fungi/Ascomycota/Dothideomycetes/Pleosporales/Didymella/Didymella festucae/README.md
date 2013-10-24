@@ -1,5 +1,4 @@
-Didymella festucae (H. Wegelin) L. Holm SPECIES
-=======
+# Didymella festucae (H. Wegelin) L. Holm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elaphomyces reticulatus Vittad. SPECIES
-=======
+# Elaphomyces reticulatus Vittad. SPECIES
 
 #### Status
 ACCEPTED

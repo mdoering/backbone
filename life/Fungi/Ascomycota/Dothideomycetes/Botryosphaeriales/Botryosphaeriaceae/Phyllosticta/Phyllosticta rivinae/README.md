@@ -1,5 +1,4 @@
-Phyllosticta rivinae Speg. SPECIES
-=======
+# Phyllosticta rivinae Speg. SPECIES
 
 #### Status
 ACCEPTED

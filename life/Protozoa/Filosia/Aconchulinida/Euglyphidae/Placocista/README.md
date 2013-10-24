@@ -1,5 +1,4 @@
-Placocista Leidy, 1879 GENUS
-=======
+# Placocista Leidy, 1879 GENUS
 
 #### Status
 ACCEPTED

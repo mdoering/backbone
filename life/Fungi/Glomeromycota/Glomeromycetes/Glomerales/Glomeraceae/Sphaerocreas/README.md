@@ -1,5 +1,4 @@
-Sphaerocreas GENUS
-=======
+# Sphaerocreas GENUS
 
 #### Status
 ACCEPTED

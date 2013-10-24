@@ -1,5 +1,4 @@
-Lycoperdon tasmanicum Massee SPECIES
-=======
+# Lycoperdon tasmanicum Massee SPECIES
 
 #### Status
 ACCEPTED

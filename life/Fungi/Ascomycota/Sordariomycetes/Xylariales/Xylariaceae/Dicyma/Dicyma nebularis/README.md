@@ -1,5 +1,4 @@
-Dicyma nebularis (Cooke & Ellis) Arx SPECIES
-=======
+# Dicyma nebularis (Cooke & Ellis) Arx SPECIES
 
 #### Status
 ACCEPTED

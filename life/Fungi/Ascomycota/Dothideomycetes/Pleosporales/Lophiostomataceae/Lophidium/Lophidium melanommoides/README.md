@@ -1,5 +1,4 @@
-Lophidium melanommoides Speg. SPECIES
-=======
+# Lophidium melanommoides Speg. SPECIES
 
 #### Status
 ACCEPTED

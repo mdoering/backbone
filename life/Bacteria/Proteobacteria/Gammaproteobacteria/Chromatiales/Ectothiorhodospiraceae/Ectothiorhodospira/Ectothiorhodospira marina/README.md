@@ -1,5 +1,4 @@
-Ectothiorhodospira marina Imhoff & Süling, 1997 SPECIES
-=======
+# Ectothiorhodospira marina Imhoff & Süling, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcodon piperatus (Coker ex Maas Geest.) K.A. Harrison SPECIES
-=======
+# Sarcodon piperatus (Coker ex Maas Geest.) K.A. Harrison SPECIES
 
 #### Status
 ACCEPTED

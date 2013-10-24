@@ -1,17 +1,16 @@
-Acanthodochium collodisculae Samuels, J.D. Rogers & Nagas., 1987 SPECIES
-=======
+# Collodiscula japonica I. Hino & Katum., 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 28(2): 457 (1987)
+Bulletin of the Faculty of Agriculture, Yamaguchi University 6: 55 (1955)
 
 #### Original name
-Acanthodochium collodisculae Samuels, J.D. Rogers & Nagas., 1987
+Collodiscula japonica I. Hino & Katum., 1955
 
 ### Remarks
 null

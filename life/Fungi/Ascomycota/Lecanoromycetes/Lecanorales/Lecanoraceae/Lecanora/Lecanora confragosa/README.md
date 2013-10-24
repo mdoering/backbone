@@ -1,5 +1,4 @@
-Lecanora confragosa Nyl. SPECIES
-=======
+# Lecanora confragosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

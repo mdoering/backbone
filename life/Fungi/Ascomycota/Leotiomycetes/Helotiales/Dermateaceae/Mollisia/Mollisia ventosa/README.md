@@ -1,17 +1,16 @@
-Mollisia ventosa f. major Le Gal FORM
-=======
+# Mollisia ventosa P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bidr. Känn. Finl. Nat. Folk 19: 188 (1871)
 
 #### Original name
-Mollisia ventosa f. major Le Gal
+Mollisia ventosa P. Karst., 1871
 
 ### Remarks
 null

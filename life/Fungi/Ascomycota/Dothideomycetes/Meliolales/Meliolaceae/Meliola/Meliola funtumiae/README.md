@@ -1,5 +1,4 @@
-Meliola funtumiae var. funtumiae VARIETY
-=======
+# Meliola funtumiae Beeli SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Jard. bot. État Brux. 7: 95 (1920)
 
 #### Original name
-Meliola funtumiae var. funtumiae
+Meliola funtumiae Beeli
 
 ### Remarks
 null

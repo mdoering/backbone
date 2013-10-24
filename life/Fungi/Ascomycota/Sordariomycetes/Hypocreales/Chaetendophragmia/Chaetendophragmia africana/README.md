@@ -1,5 +1,4 @@
-Chaetendophragmia africana (Piroz.) B. Sutton & Hodges SPECIES
-=======
+# Chaetendophragmia africana (Piroz.) B. Sutton & Hodges SPECIES
 
 #### Status
 ACCEPTED

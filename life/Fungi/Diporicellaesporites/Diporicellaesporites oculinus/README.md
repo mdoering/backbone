@@ -1,5 +1,4 @@
-Diporicellaesporites oculinus M.G. Parsons & G. Norris SPECIES
-=======
+# Diporicellaesporites oculinus M.G. Parsons & G. Norris SPECIES
 
 #### Status
 ACCEPTED

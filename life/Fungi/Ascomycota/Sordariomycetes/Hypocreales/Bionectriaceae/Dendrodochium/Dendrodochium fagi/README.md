@@ -1,5 +1,4 @@
-Dendrodochium fagi Moesz & Lindtner SPECIES
-=======
+# Dendrodochium fagi Moesz & Lindtner SPECIES
 
 #### Status
 ACCEPTED

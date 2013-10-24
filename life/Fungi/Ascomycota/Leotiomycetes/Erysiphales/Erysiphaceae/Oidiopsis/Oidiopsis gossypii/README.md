@@ -1,5 +1,4 @@
-Oidiopsis gossypii f. gossypii FORM
-=======
+# Oidiopsis gossypii (Wakef.) Raych. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Trans. Br. mycol. Soc. 32: 289 (1950)
 
 #### Original name
-Oidiopsis gossypii f. gossypii
+Ovulariopsis gossypii Wakef.
 
 ### Remarks
 null

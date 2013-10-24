@@ -1,5 +1,4 @@
-Lipomyces oligophaga (Van der Walt & Arx) Kurtzman, Albertyn & Basehoar-Powers, 2007 SPECIES
-=======
+# Lipomyces oligophaga (Van der Walt & Arx) Kurtzman, Albertyn & Basehoar-Powers, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe cavopedes Beeli SPECIES
-=======
+# Clitocybe cavopedes Beeli SPECIES
 
 #### Status
 ACCEPTED

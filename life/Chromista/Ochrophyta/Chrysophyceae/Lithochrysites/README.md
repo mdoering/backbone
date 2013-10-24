@@ -1,5 +1,4 @@
-Lithochrysites V.P. Maslov in V.P. Maslov & N.V. Rengarten, 1964 GENUS
-=======
+# Lithochrysites V.P. Maslov in V.P. Maslov & N.V. Rengarten, 1964 GENUS
 
 #### Status
 ACCEPTED

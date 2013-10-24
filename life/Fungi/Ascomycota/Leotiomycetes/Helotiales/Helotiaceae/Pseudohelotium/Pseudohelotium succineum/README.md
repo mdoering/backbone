@@ -1,5 +1,4 @@
-Pseudohelotium succineum (Quél.) Sacc. SPECIES
-=======
+# Pseudohelotium succineum (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

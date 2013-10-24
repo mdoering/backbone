@@ -1,5 +1,4 @@
-Grigelis Mikhalevich, 1981 GENUS
-=======
+# Grigelis Mikhalevich, 1981 GENUS
 
 #### Status
 ACCEPTED

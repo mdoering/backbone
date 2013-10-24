@@ -1,5 +1,4 @@
-Coniothyrium catalpae-syringifoliae (Sacc.) Biga, Cif. & Bestagno SPECIES
-=======
+# Coniothyrium catalpae-syringifoliae (Sacc.) Biga, Cif. & Bestagno SPECIES
 
 #### Status
 ACCEPTED

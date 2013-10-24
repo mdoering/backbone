@@ -1,5 +1,4 @@
-Thelocarpon depressulum Vain. SPECIES
-=======
+# Thelocarpon depressulum Vain. SPECIES
 
 #### Status
 ACCEPTED

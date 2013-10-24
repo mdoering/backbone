@@ -1,5 +1,4 @@
-Cortinarius pseudonebularis Moënne-Locc. SPECIES
-=======
+# Cortinarius pseudonebularis Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

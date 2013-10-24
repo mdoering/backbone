@@ -1,5 +1,4 @@
-Ascochyta tehonii Melnik SPECIES
-=======
+# Ascochyta tehonii Melnik SPECIES
 
 #### Status
 ACCEPTED

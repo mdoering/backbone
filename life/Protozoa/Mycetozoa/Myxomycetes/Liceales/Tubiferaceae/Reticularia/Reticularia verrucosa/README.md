@@ -1,5 +1,4 @@
-Reticularia verrucosa Baumg. SPECIES
-=======
+# Reticularia verrucosa Baumg. SPECIES
 
 #### Status
 ACCEPTED

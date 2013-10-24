@@ -1,5 +1,4 @@
-Semilecanora subviridicans Motyka SPECIES
-=======
+# Semilecanora subviridicans Motyka SPECIES
 
 #### Status
 ACCEPTED

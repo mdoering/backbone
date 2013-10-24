@@ -1,5 +1,4 @@
-Imbricaria infumata (Nyl.) Arnold SPECIES
-=======
+# Imbricaria infumata (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

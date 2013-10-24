@@ -1,8 +1,7 @@
-Rhynchomonas mutabilis Griessmann, 1913 SPECIES
-=======
+# Amastigomonas mutabilis (Griessmann, 1913) Patterson & Zölffel, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,14 +1,13 @@
-Hyphoderma tuberculatum (Berk. & M.A. Curtis) Zmitr., 2001 SPECIES
-=======
+# Basidioradulum tuberculatum (Berk. & M.A. Curtis) Hjortstam, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mikol. Fitopatol. 35(6): 16 (2001)
+Mycotaxon 54: 183 (1995)
 
 #### Original name
 Grandinia tuberculata Berk. & M.A. Curtis, 1849

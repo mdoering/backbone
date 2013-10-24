@@ -1,5 +1,4 @@
-Trichophyton acuminatum Sabour. SPECIES
-=======
+# Trichophyton acuminatum Sabour. SPECIES
 
 #### Status
 ACCEPTED

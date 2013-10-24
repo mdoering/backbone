@@ -1,5 +1,4 @@
-Sphaerella broteriana Alcalde SPECIES
-=======
+# Sphaerella broteriana Alcalde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen volvatus Vill SPECIES
-=======
+# Lichen volvatus Vill SPECIES
 
 #### Status
 ACCEPTED

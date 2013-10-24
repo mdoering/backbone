@@ -1,5 +1,4 @@
-Agaricus microcosmus Berk. & Broome SPECIES
-=======
+# Agaricus microcosmus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

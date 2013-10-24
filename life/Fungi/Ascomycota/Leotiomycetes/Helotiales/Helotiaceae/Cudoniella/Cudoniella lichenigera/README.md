@@ -1,5 +1,4 @@
-Cudoniella lichenigera Losa SPECIES
-=======
+# Cudoniella lichenigera Losa SPECIES
 
 #### Status
 ACCEPTED

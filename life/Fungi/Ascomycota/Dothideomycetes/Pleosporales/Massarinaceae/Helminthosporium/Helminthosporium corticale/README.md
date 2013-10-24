@@ -1,5 +1,4 @@
-Helminthosporium corticale Schwein. SPECIES
-=======
+# Helminthosporium corticale Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella trachychaete Ellis & Everh. SPECIES
-=======
+# Cyphella trachychaete Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

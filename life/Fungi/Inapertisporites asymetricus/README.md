@@ -1,5 +1,4 @@
-Inapertisporites asymetricus Sal.-Cheb. & Locq. SPECIES
-=======
+# Inapertisporites asymetricus Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

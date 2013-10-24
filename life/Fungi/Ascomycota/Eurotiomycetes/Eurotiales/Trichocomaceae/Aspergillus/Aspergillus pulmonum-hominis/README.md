@@ -1,5 +1,4 @@
-Aspergillus pulmonum-hominis Welcker SPECIES
-=======
+# Aspergillus pulmonum-hominis Welcker SPECIES
 
 #### Status
 ACCEPTED

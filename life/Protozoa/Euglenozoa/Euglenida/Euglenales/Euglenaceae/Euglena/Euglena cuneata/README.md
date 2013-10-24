@@ -1,5 +1,4 @@
-Euglena cuneata E.G. Pringsheim SPECIES
-=======
+# Euglena cuneata E.G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

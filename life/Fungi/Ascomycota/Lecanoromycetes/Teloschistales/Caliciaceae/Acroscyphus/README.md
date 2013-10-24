@@ -1,5 +1,4 @@
-Acroscyphus Léveillé, 1846 GENUS
-=======
+# Acroscyphus Léveillé, 1846 GENUS
 
 #### Status
 ACCEPTED

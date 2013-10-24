@@ -1,5 +1,4 @@
-Pseudopeziza skimmiae Padwick SPECIES
-=======
+# Pseudopeziza skimmiae Padwick SPECIES
 
 #### Status
 ACCEPTED

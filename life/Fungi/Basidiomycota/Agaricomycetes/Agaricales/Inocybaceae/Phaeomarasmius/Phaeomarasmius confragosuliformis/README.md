@@ -1,5 +1,4 @@
-Phaeomarasmius confragosuliformis Singer SPECIES
-=======
+# Phaeomarasmius confragosuliformis Singer SPECIES
 
 #### Status
 ACCEPTED

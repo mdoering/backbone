@@ -1,5 +1,4 @@
-Rhabdospora campanulae-cervicariae Vestergr. SPECIES
-=======
+# Rhabdospora campanulae-cervicariae Vestergr. SPECIES
 
 #### Status
 ACCEPTED

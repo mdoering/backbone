@@ -1,5 +1,4 @@
-Ascobolus perforatus Brumm. SPECIES
-=======
+# Ascobolus perforatus Brumm. SPECIES
 
 #### Status
 ACCEPTED

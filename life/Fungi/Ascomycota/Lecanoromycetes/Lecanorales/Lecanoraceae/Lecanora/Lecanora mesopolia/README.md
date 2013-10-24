@@ -1,5 +1,4 @@
-Lecanora mesopolia H. Magn. SPECIES
-=======
+# Lecanora mesopolia H. Magn. SPECIES
 
 #### Status
 ACCEPTED

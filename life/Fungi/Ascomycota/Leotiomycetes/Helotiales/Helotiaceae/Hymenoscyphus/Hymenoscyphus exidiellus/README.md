@@ -1,5 +1,4 @@
-Hymenoscyphus exidiellus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Hymenoscyphus exidiellus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

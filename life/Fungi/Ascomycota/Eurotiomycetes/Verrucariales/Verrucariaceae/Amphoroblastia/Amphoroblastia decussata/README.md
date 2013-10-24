@@ -1,5 +1,4 @@
-Amphoroblastia decussata Servít SPECIES
-=======
+# Amphoroblastia decussata Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthostigma alni Rostr. SPECIES
-=======
+# Acanthostigma alni Rostr. SPECIES
 
 #### Status
 ACCEPTED

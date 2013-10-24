@@ -1,5 +1,4 @@
-Garethjonesia lacunosispora K.D. Hyde, 1992 SPECIES
-=======
+# Garethjonesia lacunosispora K.D. Hyde, 1992 SPECIES
 
 #### Status
 ACCEPTED

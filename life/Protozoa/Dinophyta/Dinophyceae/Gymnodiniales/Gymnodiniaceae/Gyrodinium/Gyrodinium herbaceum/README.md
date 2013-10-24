@@ -1,5 +1,4 @@
-Gyrodinium herbaceum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium herbaceum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

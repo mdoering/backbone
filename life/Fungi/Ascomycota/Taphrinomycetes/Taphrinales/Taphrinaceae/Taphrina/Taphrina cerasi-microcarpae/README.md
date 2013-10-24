@@ -1,5 +1,4 @@
-Taphrina cerasi-microcarpae (Kuschke) Laubert SPECIES
-=======
+# Taphrina cerasi-microcarpae (Kuschke) Laubert SPECIES
 
 #### Status
 ACCEPTED

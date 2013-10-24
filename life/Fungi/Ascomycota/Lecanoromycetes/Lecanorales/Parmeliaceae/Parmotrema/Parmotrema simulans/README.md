@@ -1,5 +1,4 @@
-Parmotrema simulans (Hale) Hale SPECIES
-=======
+# Parmotrema simulans (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

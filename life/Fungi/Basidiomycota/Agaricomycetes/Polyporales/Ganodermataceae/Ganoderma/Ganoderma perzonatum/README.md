@@ -1,17 +1,16 @@
-Ganoderma personatum Murrill SPECIES
-=======
+# Ganoderma perzonatum Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fl. (New York) 9(2): 121 (1908)
 
 #### Original name
-Ganoderma personatum Murrill
+Ganoderma perzonatum Murrill
 
 ### Remarks
 null

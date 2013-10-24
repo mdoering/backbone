@@ -1,5 +1,4 @@
-Buellia coeruleata (Stizenb.) Zahlbr. SPECIES
-=======
+# Buellia coeruleata (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

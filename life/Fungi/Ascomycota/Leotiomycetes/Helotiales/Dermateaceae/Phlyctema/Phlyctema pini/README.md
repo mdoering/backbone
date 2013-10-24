@@ -1,5 +1,4 @@
-Phlyctema pini Celotti SPECIES
-=======
+# Phlyctema pini Celotti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta ferox (De Not.) Sacc. SPECIES
-=======
+# Pyrenochaeta ferox (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

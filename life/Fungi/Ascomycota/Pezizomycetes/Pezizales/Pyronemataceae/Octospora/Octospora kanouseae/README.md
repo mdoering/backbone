@@ -1,5 +1,4 @@
-Octospora kanouseae V.P. Tewari & D.C. Pant SPECIES
-=======
+# Octospora kanouseae V.P. Tewari & D.C. Pant SPECIES
 
 #### Status
 ACCEPTED

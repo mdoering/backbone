@@ -1,5 +1,4 @@
-Agaricus beryllus Batsch SPECIES
-=======
+# Agaricus beryllus Batsch SPECIES
 
 #### Status
 ACCEPTED

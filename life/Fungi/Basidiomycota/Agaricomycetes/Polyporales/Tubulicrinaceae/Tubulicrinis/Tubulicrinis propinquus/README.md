@@ -1,14 +1,13 @@
-Peniophora cretacea subsp. propinqua Bourdot & Galzin SUBSPECIES
-=======
+# Tubulicrinis propinquus (Bourdot & Galzin) Donk, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 288 (1928)
+Fungus, Wageningen 26(1-4): 14 (1956)
 
 #### Original name
 Peniophora cretacea subsp. propinqua Bourdot & Galzin

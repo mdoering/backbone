@@ -1,5 +1,4 @@
-Ascochyta calpurniae G. Winter SPECIES
-=======
+# Ascochyta calpurniae G. Winter SPECIES
 
 #### Status
 ACCEPTED

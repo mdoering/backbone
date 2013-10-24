@@ -1,5 +1,4 @@
-Merulius lignatilis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Merulius lignatilis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

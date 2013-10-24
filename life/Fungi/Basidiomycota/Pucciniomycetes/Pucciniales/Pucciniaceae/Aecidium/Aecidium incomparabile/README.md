@@ -1,5 +1,4 @@
-Aecidium incomparabile Syd. & P. Syd. SPECIES
-=======
+# Aecidium incomparabile Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

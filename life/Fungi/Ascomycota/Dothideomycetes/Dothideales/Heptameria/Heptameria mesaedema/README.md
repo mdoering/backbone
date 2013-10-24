@@ -1,5 +1,4 @@
-Heptameria mesaedema (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Heptameria mesaedema (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

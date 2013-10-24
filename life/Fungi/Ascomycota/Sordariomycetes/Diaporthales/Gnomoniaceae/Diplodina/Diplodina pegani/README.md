@@ -1,5 +1,4 @@
-Diplodina pegani Byzova SPECIES
-=======
+# Diplodina pegani Byzova SPECIES
 
 #### Status
 ACCEPTED

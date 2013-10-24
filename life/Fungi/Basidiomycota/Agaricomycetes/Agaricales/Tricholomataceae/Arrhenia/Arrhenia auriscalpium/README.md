@@ -1,14 +1,13 @@
-Cantharellus auriscalpium Fr., 1828 SPECIES
-=======
+# Arrhenia auriscalpium (Fr.) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Greifswald) 1: 54 (1828)
+Summa veg. Scand. (Stockholm), Section Post. 312 (1849)
 
 #### Original name
 Cantharellus auriscalpium Fr., 1828

@@ -1,5 +1,4 @@
-Flammula macrophala Berk. SPECIES
-=======
+# Flammula macrophala Berk. SPECIES
 
 #### Status
 ACCEPTED

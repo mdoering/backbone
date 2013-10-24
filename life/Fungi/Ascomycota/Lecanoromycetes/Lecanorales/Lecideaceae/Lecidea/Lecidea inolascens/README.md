@@ -1,5 +1,4 @@
-Lecidea inolascens Vain. SPECIES
-=======
+# Lecidea inolascens Vain. SPECIES
 
 #### Status
 ACCEPTED

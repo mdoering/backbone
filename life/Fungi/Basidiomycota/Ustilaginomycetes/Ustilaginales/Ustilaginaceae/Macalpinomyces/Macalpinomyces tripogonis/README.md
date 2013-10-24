@@ -1,14 +1,13 @@
-Tolyposporium tripogonis M.S. Patil, 1992 SPECIES
-=======
+# Macalpinomyces tripogonis (M.S. Patil) Vánky, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Indian Phytopath. 45(2): 184 (1992)
+Mycotaxon 59: 119 (1996)
 
 #### Original name
 Tolyposporium tripogonis M.S. Patil, 1992

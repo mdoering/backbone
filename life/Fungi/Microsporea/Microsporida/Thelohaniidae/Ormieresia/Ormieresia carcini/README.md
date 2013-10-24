@@ -1,5 +1,4 @@
-Ormieresia carcini C.P. Vivarès, G. Bouix & J.-F. Manier SPECIES
-=======
+# Ormieresia carcini C.P. Vivarès, G. Bouix & J.-F. Manier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Timofeevia tacheddirtensis Vanguestaine & Van Looy, 1983 SPECIES
-=======
+# Timofeevia tacheddirtensis Vanguestaine & Van Looy, 1983 SPECIES
 
 #### Status
 ACCEPTED

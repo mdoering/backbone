@@ -1,5 +1,4 @@
-Pholiotina indica K.A. Thomas, Hauskn. & Manim. SPECIES
-=======
+# Pholiotina indica K.A. Thomas, Hauskn. & Manim. SPECIES
 
 #### Status
 ACCEPTED

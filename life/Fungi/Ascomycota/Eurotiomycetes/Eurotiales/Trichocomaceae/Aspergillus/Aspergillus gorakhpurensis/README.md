@@ -1,5 +1,4 @@
-Aspergillus gorakhpurensis Kamal & Bhargava, 1969 SPECIES
-=======
+# Aspergillus gorakhpurensis Kamal & Bhargava, 1969 SPECIES
 
 #### Status
 ACCEPTED

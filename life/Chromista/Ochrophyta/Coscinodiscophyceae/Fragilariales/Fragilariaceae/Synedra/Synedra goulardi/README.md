@@ -1,5 +1,4 @@
-Synedra goulardi var. fluviatilis (Lemmermann) Frenguelli VARIETY
-=======
+# Synedra goulardi Brébisson SPECIES
 
 #### Status
 ACCEPTED

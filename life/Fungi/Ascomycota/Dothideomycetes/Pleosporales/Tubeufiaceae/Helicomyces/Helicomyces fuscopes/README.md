@@ -1,5 +1,4 @@
-Helicomyces fuscopes Linder SPECIES
-=======
+# Helicomyces fuscopes Linder SPECIES
 
 #### Status
 ACCEPTED

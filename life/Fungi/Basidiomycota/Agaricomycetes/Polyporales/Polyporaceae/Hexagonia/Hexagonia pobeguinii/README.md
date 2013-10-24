@@ -1,17 +1,16 @@
-Hexagonia stuhlmanni Henn. SPECIES
-=======
+# Hexagonia pobeguinii Har., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 8(1): 28 (1892)
 
 #### Original name
-Hexagonia stuhlmanni Henn.
+Hexagonia pobeguinii Har., 1892
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tilletia triticina Ranoj. SPECIES
-=======
+# Tilletia triticina Ranoj. SPECIES
 
 #### Status
 ACCEPTED

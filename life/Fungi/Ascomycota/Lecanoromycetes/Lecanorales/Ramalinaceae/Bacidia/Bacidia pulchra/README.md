@@ -1,5 +1,4 @@
-Bacidia pulchra Oxner SPECIES
-=======
+# Bacidia pulchra Oxner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo ipomoeicola J.C. Lindq. SPECIES
-=======
+# Uredo ipomoeicola J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

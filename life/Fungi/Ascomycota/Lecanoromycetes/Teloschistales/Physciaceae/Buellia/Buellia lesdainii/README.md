@@ -1,5 +1,4 @@
-Buellia lesdainii Zahlbr. SPECIES
-=======
+# Buellia lesdainii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

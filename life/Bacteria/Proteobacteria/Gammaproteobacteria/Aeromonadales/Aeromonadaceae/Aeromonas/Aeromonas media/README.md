@@ -1,5 +1,4 @@
-Aeromonas media Allen et al., 1983 SPECIES
-=======
+# Aeromonas media Allen et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

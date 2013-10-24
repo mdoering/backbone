@@ -1,5 +1,4 @@
-Sphaeromphale anceps Trevis. SPECIES
-=======
+# Sphaeromphale anceps Trevis. SPECIES
 
 #### Status
 ACCEPTED

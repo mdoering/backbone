@@ -1,17 +1,16 @@
-Leptotus retirugus (Bull.) P. Karst., 1879 SPECIES
-=======
+# Arrhenia retiruga (Bull.) Redhead, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 62(5): 873 (1984)
 
 #### Original name
-null
+Helvella retiruga Bull., 1791
 
 ### Remarks
 null

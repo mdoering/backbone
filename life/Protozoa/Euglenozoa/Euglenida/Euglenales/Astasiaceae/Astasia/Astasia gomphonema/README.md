@@ -1,5 +1,4 @@
-Astasia gomphonema E.G. Pringsheim SPECIES
-=======
+# Astasia gomphonema E.G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora colobanthi Henn. SPECIES
-=======
+# Pleospora colobanthi Henn. SPECIES
 
 #### Status
 ACCEPTED

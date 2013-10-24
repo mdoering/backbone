@@ -1,5 +1,4 @@
-Phyllosticta cussoniae Cejp SPECIES
-=======
+# Phyllosticta cussoniae Cejp SPECIES
 
 #### Status
 ACCEPTED

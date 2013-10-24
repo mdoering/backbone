@@ -1,5 +1,4 @@
-Peziza irregularis Schwein. SPECIES
-=======
+# Peziza irregularis Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina pauper Roum. & P. Karst. SPECIES
-=======
+# Asterina pauper Roum. & P. Karst. SPECIES
 
 #### Status
 ACCEPTED

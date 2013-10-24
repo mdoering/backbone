@@ -1,5 +1,4 @@
-Oudemansiella australis G. Stev. & G.M. Taylor, 1964 SPECIES
-=======
+# Oudemansiella australis G. Stev. & G.M. Taylor, 1964 SPECIES
 
 #### Status
 ACCEPTED

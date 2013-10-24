@@ -1,5 +1,4 @@
-Clitocybe butyracea Velen. SPECIES
-=======
+# Clitocybe butyracea Velen. SPECIES
 
 #### Status
 ACCEPTED

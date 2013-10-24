@@ -1,5 +1,4 @@
-Agaricus pezizoides Cumino SPECIES
-=======
+# Agaricus pezizoides Cumino SPECIES
 
 #### Status
 ACCEPTED

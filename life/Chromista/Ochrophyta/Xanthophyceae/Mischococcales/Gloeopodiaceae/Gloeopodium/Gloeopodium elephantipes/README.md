@@ -1,5 +1,4 @@
-Gloeopodium elephantipes Pascher SPECIES
-=======
+# Gloeopodium elephantipes Pascher SPECIES
 
 #### Status
 ACCEPTED

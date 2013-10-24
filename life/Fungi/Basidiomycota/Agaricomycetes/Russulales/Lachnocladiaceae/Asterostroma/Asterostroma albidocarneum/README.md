@@ -1,5 +1,4 @@
-Asterostroma albidocarneum (Ravenel) Massee SPECIES
-=======
+# Asterostroma albidocarneum (Ravenel) Massee SPECIES
 
 #### Status
 ACCEPTED

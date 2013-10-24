@@ -1,14 +1,13 @@
-Neobulgaria faginea (Peck) Raitv., 1963 SPECIES
-=======
+# Ascotremella faginea (Peck) Seaver, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Izv. Akad. Nauk Estonsk. SSR 12: 302 (1963)
+Mycologia 22(2): 53 (1930)
 
 #### Original name
 Haematomyces fagineus Peck, 1890

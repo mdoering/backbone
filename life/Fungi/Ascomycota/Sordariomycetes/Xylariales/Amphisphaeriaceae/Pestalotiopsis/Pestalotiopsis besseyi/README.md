@@ -1,14 +1,13 @@
-Pestalotiopsis besseyii (Guba) Nag Raj SPECIES
-=======
+# Pestalotiopsis besseyi (Guba) Nag Raj SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 22(1): 54 (1985)
 
 #### Original name
 Pestalotia besseyi Guba

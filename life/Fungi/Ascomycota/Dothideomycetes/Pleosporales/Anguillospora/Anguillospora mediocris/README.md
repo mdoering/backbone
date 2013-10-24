@@ -1,5 +1,4 @@
-Anguillospora mediocris J. Gönczöl & Marvanová SPECIES
-=======
+# Anguillospora mediocris J. Gönczöl & Marvanová SPECIES
 
 #### Status
 ACCEPTED

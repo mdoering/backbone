@@ -1,5 +1,4 @@
-Peronospora ranunculi Gäum., 1923 SPECIES
-=======
+# Peronospora ranunculi Gäum., 1923 SPECIES
 
 #### Status
 ACCEPTED

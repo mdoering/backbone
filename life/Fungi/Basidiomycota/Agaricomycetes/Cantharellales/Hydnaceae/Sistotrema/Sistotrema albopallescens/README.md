@@ -1,14 +1,13 @@
-Poria albopallescens Bourdot & Galzin, 1925 SPECIES
-=======
+# Sistotrema albopallescens (Bourdot & Galzin) Bondartsev & Singer, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 41: 216 (1925)
+Annls mycol. 39(1): 47 (1941)
 
 #### Original name
 Poria albopallescens Bourdot & Galzin, 1925

@@ -1,5 +1,4 @@
-Striatotheca confecta (Martin, 1969) Eisenack et al., 1976 SPECIES
-=======
+# Striatotheca confecta (Martin, 1969) Eisenack et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

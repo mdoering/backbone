@@ -1,5 +1,4 @@
-Finoporus Bronn, 1837 GENUS
-=======
+# Finoporus Bronn, 1837 GENUS
 
 #### Status
 ACCEPTED

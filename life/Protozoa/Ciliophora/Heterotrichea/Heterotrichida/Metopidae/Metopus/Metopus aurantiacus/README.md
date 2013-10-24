@@ -1,5 +1,4 @@
-Metopus aurantiacus SPECIES
-=======
+# Metopus aurantiacus SPECIES
 
 #### Status
 ACCEPTED

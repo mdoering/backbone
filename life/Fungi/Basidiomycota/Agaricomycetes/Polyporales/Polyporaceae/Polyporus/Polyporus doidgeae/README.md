@@ -1,14 +1,13 @@
-Microporellus doidgeae (Wakef.) Núñez & Ryvarden, 1995 SPECIES
-=======
+# Polyporus doidgeae Wakef., 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. Fung. (Oslo) 10: 74 (1995)
+Bothalia 4(4): 948 (1948)
 
 #### Original name
 Polyporus doidgeae Wakef., 1948

@@ -1,5 +1,4 @@
-Rhaphidophora leptosperma Speg. SPECIES
-=======
+# Rhaphidophora leptosperma Speg. SPECIES
 
 #### Status
 ACCEPTED

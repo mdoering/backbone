@@ -1,5 +1,4 @@
-Phyllachora sesseae Syd., 1939 SPECIES
-=======
+# Phyllachora sesseae Syd., 1939 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Lichen tremella Roth SPECIES
-=======
+# Lichen tremella Roth SPECIES
 
 #### Status
 ACCEPTED

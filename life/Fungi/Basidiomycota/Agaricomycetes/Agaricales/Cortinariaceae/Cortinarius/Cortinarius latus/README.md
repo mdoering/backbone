@@ -1,5 +1,4 @@
-Cortinarius latus var. brevisporus (Schaeff.) Quadr. VARIETY
-=======
+# Cortinarius latus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Docums Mycol. 14(no. 56): 29 (1985)
+Epicr. syst. mycol. (Upsaliae) 260 (1838)
 
 #### Original name
-Phlegmacium latum var. brevisporum Jul. Schäff.
+Agaricus latus Bolton
 
 ### Remarks
 null

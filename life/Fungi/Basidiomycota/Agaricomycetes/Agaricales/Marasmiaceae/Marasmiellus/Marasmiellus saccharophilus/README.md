@@ -1,5 +1,4 @@
-Marasmiellus saccharophilus (Speg.) Singer SPECIES
-=======
+# Marasmiellus saccharophilus (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

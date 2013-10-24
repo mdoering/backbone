@@ -1,5 +1,4 @@
-Septoria pertusa Heald & F.A. Wolf SPECIES
-=======
+# Septoria pertusa Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

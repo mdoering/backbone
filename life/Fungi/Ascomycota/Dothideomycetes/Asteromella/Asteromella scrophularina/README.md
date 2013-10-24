@@ -1,5 +1,4 @@
-Asteromella scrophularina (P. Karst.) H. Ruppr. SPECIES
-=======
+# Asteromella scrophularina (P. Karst.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

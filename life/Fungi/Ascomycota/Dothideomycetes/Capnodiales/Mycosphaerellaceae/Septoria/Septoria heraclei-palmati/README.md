@@ -1,5 +1,4 @@
-Septoria heraclei-palmati Maire SPECIES
-=======
+# Septoria heraclei-palmati Maire SPECIES
 
 #### Status
 ACCEPTED

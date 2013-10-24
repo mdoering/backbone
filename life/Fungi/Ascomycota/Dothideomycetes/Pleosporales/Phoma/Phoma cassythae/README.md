@@ -1,5 +1,4 @@
-Phoma cassythae Allesch. SPECIES
-=======
+# Phoma cassythae Allesch. SPECIES
 
 #### Status
 ACCEPTED

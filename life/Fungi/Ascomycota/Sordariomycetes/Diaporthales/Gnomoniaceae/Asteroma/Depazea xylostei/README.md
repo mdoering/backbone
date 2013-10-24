@@ -1,5 +1,4 @@
-Depazea xylostei Pass. SPECIES
-=======
+# Depazea xylostei Pass. SPECIES
 
 #### Status
 ACCEPTED

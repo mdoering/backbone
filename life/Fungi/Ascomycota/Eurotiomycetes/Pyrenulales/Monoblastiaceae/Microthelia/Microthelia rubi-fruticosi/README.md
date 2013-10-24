@@ -1,5 +1,4 @@
-Microthelia rubi-fruticosi (P. Crouan & H. Crouan) Kuntze SPECIES
-=======
+# Microthelia rubi-fruticosi (P. Crouan & H. Crouan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

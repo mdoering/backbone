@@ -1,14 +1,13 @@
-Sporormia bipartis Cain, 1934 SPECIES
-=======
+# Sporormiella bipartis (Cain) S.I. Ahmed & Cain, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Univ. Toronto Stud. , Biol. Ser. , ser. 3 38: 106 (1934)
+Can. J. Bot. 50(3): 435 (1972)
 
 #### Original name
 Sporormia bipartis Cain, 1934

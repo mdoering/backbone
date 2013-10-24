@@ -1,5 +1,4 @@
-Streptobotrys Hennebert GENUS
-=======
+# Streptobotrys Hennebert GENUS
 
 #### Status
 ACCEPTED

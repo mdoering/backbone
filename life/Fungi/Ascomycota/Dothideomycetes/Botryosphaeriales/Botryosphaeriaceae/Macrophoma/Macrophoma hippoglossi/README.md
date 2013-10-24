@@ -1,5 +1,4 @@
-Macrophoma hippoglossi (Mont.) Berl. & Voglino SPECIES
-=======
+# Macrophoma hippoglossi (Mont.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

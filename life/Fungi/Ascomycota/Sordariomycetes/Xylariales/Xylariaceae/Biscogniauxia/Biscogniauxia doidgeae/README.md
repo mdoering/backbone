@@ -1,17 +1,16 @@
-Hypoxylon doidgei J.H. Mill. SPECIES
-=======
+# Biscogniauxia doidgeae (J.H. Mill.) Whalley & Laessøe, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Whalley, Laessøe & Kile, Mycol. Res. 94(2): 239 (1990)
 
 #### Original name
-Hypoxylon doidgei J.H. Mill.
+Hypoxylon doidgeae J.H. Mill., 1961
 
 ### Remarks
 null

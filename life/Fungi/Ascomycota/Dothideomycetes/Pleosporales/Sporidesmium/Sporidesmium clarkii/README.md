@@ -1,5 +1,4 @@
-Sporidesmium clarkii P.M. Kirk, 1982 SPECIES
-=======
+# Sporidesmium clarkii P.M. Kirk, 1982 SPECIES
 
 #### Status
 ACCEPTED

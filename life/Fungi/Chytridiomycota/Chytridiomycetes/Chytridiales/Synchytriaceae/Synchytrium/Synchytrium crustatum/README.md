@@ -1,5 +1,4 @@
-Synchytrium crustatum Lingappa SPECIES
-=======
+# Synchytrium crustatum Lingappa SPECIES
 
 #### Status
 ACCEPTED

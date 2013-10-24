@@ -1,5 +1,4 @@
-Uredo malloti Henn. SPECIES
-=======
+# Uredo malloti Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linochora arechavaletae (Speg.) Höhn. SPECIES
-=======
+# Linochora arechavaletae (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

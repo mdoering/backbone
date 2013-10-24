@@ -1,5 +1,4 @@
-Lyromma pilosum Lücking SPECIES
-=======
+# Lyromma pilosum Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium jasmini Barclay SPECIES
-=======
+# Aecidium jasmini Barclay SPECIES
 
 #### Status
 ACCEPTED

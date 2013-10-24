@@ -1,5 +1,4 @@
-Buellia pycnogonoides Darb. SPECIES
-=======
+# Buellia pycnogonoides Darb. SPECIES
 
 #### Status
 ACCEPTED

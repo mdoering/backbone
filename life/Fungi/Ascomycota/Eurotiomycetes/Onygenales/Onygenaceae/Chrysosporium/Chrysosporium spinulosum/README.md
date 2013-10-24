@@ -1,5 +1,4 @@
-Chrysosporium spinulosum Negroni, Negr. Bonv., R. Freire & Pomina SPECIES
-=======
+# Chrysosporium spinulosum Negroni, Negr. Bonv., R. Freire & Pomina SPECIES
 
 #### Status
 ACCEPTED

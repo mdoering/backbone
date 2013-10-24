@@ -1,5 +1,4 @@
-Pholiotina glutinosa E. Horak & Hauskn. SPECIES
-=======
+# Pholiotina glutinosa E. Horak & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

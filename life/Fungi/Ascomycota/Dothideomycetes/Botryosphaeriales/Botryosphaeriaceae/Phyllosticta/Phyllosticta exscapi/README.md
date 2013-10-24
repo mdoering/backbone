@@ -1,5 +1,4 @@
-Phyllosticta exscapi Hollós SPECIES
-=======
+# Phyllosticta exscapi Hollós SPECIES
 
 #### Status
 ACCEPTED

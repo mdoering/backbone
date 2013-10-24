@@ -1,5 +1,4 @@
-Hygrophorus gomphidioides Coker SPECIES
-=======
+# Hygrophorus gomphidioides Coker SPECIES
 
 #### Status
 ACCEPTED

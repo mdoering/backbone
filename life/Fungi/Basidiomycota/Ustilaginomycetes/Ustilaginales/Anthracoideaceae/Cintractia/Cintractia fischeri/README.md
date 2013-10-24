@@ -1,14 +1,13 @@
-Tilletia fischeri P. Karst. SPECIES
-=======
+# Cintractia fischeri (P. Karst.) Liro, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Acad. Sci. fenn. , Ser. A 42: 20 (1935)
 
 #### Original name
 Tilletia fischeri P. Karst.

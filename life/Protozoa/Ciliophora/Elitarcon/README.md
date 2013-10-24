@@ -1,5 +1,4 @@
-Elitarcon Jankowski, 1981 GENUS
-=======
+# Elitarcon Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

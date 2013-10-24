@@ -1,5 +1,4 @@
-Inocybe vialis Murrill SPECIES
-=======
+# Inocybe vialis Murrill SPECIES
 
 #### Status
 ACCEPTED

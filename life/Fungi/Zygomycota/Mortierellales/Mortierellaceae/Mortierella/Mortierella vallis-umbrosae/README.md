@@ -1,5 +1,4 @@
-Mortierella vallis-umbrosae Verona & Catella {?} SPECIES
-=======
+# Mortierella vallis-umbrosae Verona & Catella {?} SPECIES
 
 #### Status
 ACCEPTED

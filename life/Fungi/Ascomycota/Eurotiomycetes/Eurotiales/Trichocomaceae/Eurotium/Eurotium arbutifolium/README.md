@@ -1,5 +1,4 @@
-Eurotium arbutifolium Kuntze SPECIES
-=======
+# Eurotium arbutifolium Kuntze SPECIES
 
 #### Status
 ACCEPTED

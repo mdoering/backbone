@@ -1,5 +1,4 @@
-Mycena curtipes Métrod SPECIES
-=======
+# Mycena curtipes Métrod SPECIES
 
 #### Status
 ACCEPTED

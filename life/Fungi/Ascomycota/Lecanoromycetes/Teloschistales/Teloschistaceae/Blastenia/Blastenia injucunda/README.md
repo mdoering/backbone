@@ -1,5 +1,4 @@
-Blastenia injucunda (Hue) Zahlbr. SPECIES
-=======
+# Blastenia injucunda (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

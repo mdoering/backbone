@@ -1,5 +1,4 @@
-Bykovella devonensis Brönnimann & Whittaker, 1990 SPECIES
-=======
+# Bykovella devonensis Brönnimann & Whittaker, 1990 SPECIES
 
 #### Status
 DOUBTFUL

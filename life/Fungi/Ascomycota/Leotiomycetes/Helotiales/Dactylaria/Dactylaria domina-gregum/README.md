@@ -1,5 +1,4 @@
-Dactylaria domina-gregum Cif. SPECIES
-=======
+# Dactylaria domina-gregum Cif. SPECIES
 
 #### Status
 ACCEPTED

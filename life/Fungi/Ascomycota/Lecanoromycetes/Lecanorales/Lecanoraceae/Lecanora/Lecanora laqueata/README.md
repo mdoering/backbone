@@ -1,5 +1,4 @@
-Lecanora laqueata (Stizenb.) SPECIES
-=======
+# Lecanora laqueata (Stizenb.) SPECIES
 
 #### Status
 ACCEPTED

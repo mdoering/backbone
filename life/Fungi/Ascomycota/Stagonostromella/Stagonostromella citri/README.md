@@ -1,5 +1,4 @@
-Stagonostromella citri Petr. & Syd., 1927 SPECIES
-=======
+# Stagonostromella citri Petr. & Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

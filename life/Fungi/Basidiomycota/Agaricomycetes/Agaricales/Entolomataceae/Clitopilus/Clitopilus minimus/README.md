@@ -1,5 +1,4 @@
-Clitopilus minimus (Murrill) Murrill SPECIES
-=======
+# Clitopilus minimus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

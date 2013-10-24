@@ -1,5 +1,4 @@
-Prillieuxia grisea Rick SPECIES
-=======
+# Prillieuxia grisea Rick SPECIES
 
 #### Status
 ACCEPTED

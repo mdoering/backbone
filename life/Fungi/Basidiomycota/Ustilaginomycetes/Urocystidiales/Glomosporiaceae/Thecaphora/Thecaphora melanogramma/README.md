@@ -1,5 +1,4 @@
-Thecaphora melanogramma Lév. SPECIES
-=======
+# Thecaphora melanogramma Lév. SPECIES
 
 #### Status
 ACCEPTED

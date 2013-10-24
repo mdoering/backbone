@@ -1,5 +1,4 @@
-Lembosia hysterioides Sacc. & P. Syd. SPECIES
-=======
+# Lembosia hysterioides Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

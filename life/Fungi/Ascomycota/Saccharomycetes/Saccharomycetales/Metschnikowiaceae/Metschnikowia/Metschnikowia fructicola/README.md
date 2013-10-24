@@ -1,5 +1,4 @@
-Metschnikowia fructicola Kurtzman & Droby, 2001 SPECIES
-=======
+# Metschnikowia fructicola Kurtzman & Droby, 2001 SPECIES
 
 #### Status
 ACCEPTED

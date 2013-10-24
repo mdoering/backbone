@@ -1,5 +1,4 @@
-Lecidea mawsonii C.W. Dodge SPECIES
-=======
+# Lecidea mawsonii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

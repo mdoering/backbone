@@ -1,5 +1,4 @@
-Cytophaga albogilva SPECIES
-=======
+# Cytophaga albogilva SPECIES
 
 #### Status
 ACCEPTED

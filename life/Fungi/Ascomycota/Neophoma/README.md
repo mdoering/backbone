@@ -1,5 +1,4 @@
-Neophoma Petr. & Syd. GENUS
-=======
+# Neophoma Petr. & Syd. GENUS
 
 #### Status
 ACCEPTED

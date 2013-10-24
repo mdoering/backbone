@@ -1,5 +1,4 @@
-Patellaria viridis P. Crouan & H. Crouan SPECIES
-=======
+# Patellaria viridis P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

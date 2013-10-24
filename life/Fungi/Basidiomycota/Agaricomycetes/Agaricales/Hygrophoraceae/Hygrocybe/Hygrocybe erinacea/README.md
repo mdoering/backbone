@@ -1,5 +1,4 @@
-Hygrocybe erinacea (Pat.) Singer SPECIES
-=======
+# Hygrocybe erinacea (Pat.) Singer SPECIES
 
 #### Status
 ACCEPTED

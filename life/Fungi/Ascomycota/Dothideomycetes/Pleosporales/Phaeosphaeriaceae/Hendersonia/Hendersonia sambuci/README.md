@@ -1,5 +1,4 @@
-Hendersonia sambuci Peck, 1878 SPECIES
-=======
+# Hendersonia sambuci Peck, 1878 SPECIES
 
 #### Status
 ACCEPTED

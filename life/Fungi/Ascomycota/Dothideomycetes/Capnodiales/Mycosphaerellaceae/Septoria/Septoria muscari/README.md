@@ -1,5 +1,4 @@
-Septoria muscari Brunaud SPECIES
-=======
+# Septoria muscari Brunaud SPECIES
 
 #### Status
 ACCEPTED

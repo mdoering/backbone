@@ -1,5 +1,4 @@
-Helicosporium boydii A.L. Sm. & Ramsb. SPECIES
-=======
+# Helicosporium boydii A.L. Sm. & Ramsb. SPECIES
 
 #### Status
 ACCEPTED

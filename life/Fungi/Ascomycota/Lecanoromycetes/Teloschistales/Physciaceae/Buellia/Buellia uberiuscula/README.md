@@ -1,5 +1,4 @@
-Buellia uberiuscula (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia uberiuscula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

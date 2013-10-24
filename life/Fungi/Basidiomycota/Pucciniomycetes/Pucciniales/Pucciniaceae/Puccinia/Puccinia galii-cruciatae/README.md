@@ -1,17 +1,16 @@
-Schroeterella celakorskyana (Bubák) Syd. SPECIES
-=======
+# Puccinia galii-cruciatae Duby, 1830 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Gall. (Paris), Edn 2 2: 890 (1830)
 
 #### Original name
-Puccinia celakovskyana Bubák, 1898
+Puccinia galii-cruciatae Duby, 1830
 
 ### Remarks
 null

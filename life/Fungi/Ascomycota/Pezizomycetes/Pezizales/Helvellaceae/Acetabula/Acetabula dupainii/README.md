@@ -1,5 +1,4 @@
-Acetabula dupainii Boud. SPECIES
-=======
+# Acetabula dupainii Boud. SPECIES
 
 #### Status
 ACCEPTED

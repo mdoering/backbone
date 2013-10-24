@@ -1,5 +1,4 @@
-Inocybe picetorum Velen. SPECIES
-=======
+# Inocybe picetorum Velen. SPECIES
 
 #### Status
 ACCEPTED

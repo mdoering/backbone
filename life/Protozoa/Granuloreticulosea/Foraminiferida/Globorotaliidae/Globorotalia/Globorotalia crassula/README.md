@@ -1,11 +1,10 @@
-Globorotalia crassula subsp. crassula SUBSPECIES
-=======
+# Globorotalia crassula Cushman & Stewart, 1930 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+World Register of Marine Species
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Peroneutypa alsophila (Mont.) Carmarán & A.I. Romero SPECIES
-=======
+# Peroneutypa alsophila (Mont.) Carmarán & A.I. Romero SPECIES
 
 #### Status
 ACCEPTED

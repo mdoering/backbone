@@ -1,5 +1,4 @@
-Thyrea pyrenoides (Nyl.) Fink SPECIES
-=======
+# Thyrea pyrenoides (Nyl.) Fink SPECIES
 
 #### Status
 ACCEPTED

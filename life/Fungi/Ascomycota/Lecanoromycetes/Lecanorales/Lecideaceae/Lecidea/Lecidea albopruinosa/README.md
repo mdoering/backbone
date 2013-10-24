@@ -1,5 +1,4 @@
-Lecidea albopruinosa (Arnold) Hue SPECIES
-=======
+# Lecidea albopruinosa (Arnold) Hue SPECIES
 
 #### Status
 ACCEPTED

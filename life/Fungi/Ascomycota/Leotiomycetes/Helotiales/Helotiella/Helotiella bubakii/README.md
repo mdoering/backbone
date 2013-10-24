@@ -1,5 +1,4 @@
-Helotiella bubakii Rehm SPECIES
-=======
+# Helotiella bubakii Rehm SPECIES
 
 #### Status
 ACCEPTED

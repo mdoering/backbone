@@ -1,5 +1,4 @@
-Cercosporella koelpiniae Annal. SPECIES
-=======
+# Cercosporella koelpiniae Annal. SPECIES
 
 #### Status
 ACCEPTED

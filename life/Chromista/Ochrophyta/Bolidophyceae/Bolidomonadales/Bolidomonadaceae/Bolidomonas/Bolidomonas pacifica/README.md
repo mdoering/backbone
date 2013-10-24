@@ -1,5 +1,4 @@
-Bolidomonas pacifica L. Guillou & M.-J. Chrétiennot-Dinet SPECIES
-=======
+# Bolidomonas pacifica L. Guillou & M.-J. Chrétiennot-Dinet SPECIES
 
 #### Status
 ACCEPTED

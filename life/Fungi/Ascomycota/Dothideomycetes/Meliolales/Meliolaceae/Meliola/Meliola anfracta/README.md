@@ -1,5 +1,4 @@
-Meliola anfracta Cif. SPECIES
-=======
+# Meliola anfracta Cif. SPECIES
 
 #### Status
 ACCEPTED

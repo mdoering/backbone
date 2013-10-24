@@ -1,5 +1,4 @@
-Lecanidion paulistamum Speg. SPECIES
-=======
+# Lecanidion paulistamum Speg. SPECIES
 
 #### Status
 ACCEPTED

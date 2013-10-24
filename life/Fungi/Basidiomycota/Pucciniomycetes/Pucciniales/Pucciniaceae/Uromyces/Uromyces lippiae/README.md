@@ -1,5 +1,4 @@
-Uromyces lippiae Speg. SPECIES
-=======
+# Uromyces lippiae Speg. SPECIES
 
 #### Status
 ACCEPTED

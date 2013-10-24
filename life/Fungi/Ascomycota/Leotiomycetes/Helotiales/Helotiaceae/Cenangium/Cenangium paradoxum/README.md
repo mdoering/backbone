@@ -1,5 +1,4 @@
-Cenangium paradoxum Jungh. SPECIES
-=======
+# Cenangium paradoxum Jungh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoria filsonii Elix SPECIES
-=======
+# Xanthoria filsonii Elix SPECIES
 
 #### Status
 ACCEPTED

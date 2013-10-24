@@ -1,5 +1,4 @@
-Triblidium fenestratum (Cooke & Peck) Kuntze SPECIES
-=======
+# Triblidium fenestratum (Cooke & Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

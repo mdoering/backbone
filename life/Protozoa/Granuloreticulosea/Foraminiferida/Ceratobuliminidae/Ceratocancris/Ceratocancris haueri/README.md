@@ -1,5 +1,4 @@
-Ceratocancris haueri (d'Orbigny, 1839) SPECIES
-=======
+# Ceratocancris haueri (d'Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

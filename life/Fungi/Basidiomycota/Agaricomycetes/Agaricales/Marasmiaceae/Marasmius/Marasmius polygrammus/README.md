@@ -1,5 +1,4 @@
-Marasmius polygrammus Mont. SPECIES
-=======
+# Marasmius polygrammus Mont. SPECIES
 
 #### Status
 ACCEPTED

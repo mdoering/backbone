@@ -1,5 +1,4 @@
-Valsa rhizophila Nitschke SPECIES
-=======
+# Valsa rhizophila Nitschke SPECIES
 
 #### Status
 ACCEPTED

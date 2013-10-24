@@ -1,5 +1,4 @@
-Odontia mucedinia Rick SPECIES
-=======
+# Odontia mucedinia Rick SPECIES
 
 #### Status
 ACCEPTED

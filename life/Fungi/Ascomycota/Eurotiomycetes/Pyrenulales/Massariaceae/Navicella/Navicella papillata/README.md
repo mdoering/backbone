@@ -1,5 +1,4 @@
-Navicella papillata (Pass.) Kuntze SPECIES
-=======
+# Navicella papillata (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

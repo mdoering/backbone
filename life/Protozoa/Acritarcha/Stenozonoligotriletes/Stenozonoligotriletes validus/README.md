@@ -1,5 +1,4 @@
-Stenozonoligotriletes validus Timofeev, 1958 SPECIES
-=======
+# Stenozonoligotriletes validus Timofeev, 1958 SPECIES
 
 #### Status
 ACCEPTED

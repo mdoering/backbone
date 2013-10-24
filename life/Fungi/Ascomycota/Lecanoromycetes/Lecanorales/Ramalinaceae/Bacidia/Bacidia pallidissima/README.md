@@ -1,5 +1,4 @@
-Bacidia pallidissima (Riddle) Zahlbr. SPECIES
-=======
+# Bacidia pallidissima (Riddle) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

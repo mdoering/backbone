@@ -1,5 +1,4 @@
-Uleomyces escharoides Syd. SPECIES
-=======
+# Uleomyces escharoides Syd. SPECIES
 
 #### Status
 ACCEPTED

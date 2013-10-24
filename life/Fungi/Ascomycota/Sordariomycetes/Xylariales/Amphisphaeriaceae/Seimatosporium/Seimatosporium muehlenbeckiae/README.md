@@ -1,5 +1,4 @@
-Seimatosporium muehlenbeckiae (McAlpine ex Hansf.) H.J. Swart SPECIES
-=======
+# Seimatosporium muehlenbeckiae (McAlpine ex Hansf.) H.J. Swart SPECIES
 
 #### Status
 ACCEPTED

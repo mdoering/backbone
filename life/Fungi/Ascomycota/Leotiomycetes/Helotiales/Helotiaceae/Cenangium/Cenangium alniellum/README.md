@@ -1,5 +1,4 @@
-Cenangium alniellum (Rehm) Sacc. SPECIES
-=======
+# Cenangium alniellum (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

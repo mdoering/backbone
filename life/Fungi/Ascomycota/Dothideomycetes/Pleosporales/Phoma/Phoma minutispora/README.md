@@ -1,14 +1,13 @@
-Phoma oryzae Cooke & Massee, 1887 SPECIES
-=======
+# Phoma minutispora P.N. Mathur, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 16(no. 77): 15 (1887)
+in Gruyter & Noordeloos, Persoonia 15(1): 75 (1992)
 
 #### Original name
 Phoma oryzae Cooke & Massee, 1887

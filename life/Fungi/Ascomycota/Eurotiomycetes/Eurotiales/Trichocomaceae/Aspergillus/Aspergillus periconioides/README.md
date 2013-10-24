@@ -1,5 +1,4 @@
-Aspergillus periconioides Sacc. SPECIES
-=======
+# Aspergillus periconioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

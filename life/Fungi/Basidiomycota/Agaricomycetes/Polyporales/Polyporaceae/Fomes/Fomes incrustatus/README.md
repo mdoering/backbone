@@ -1,5 +1,4 @@
-Fomes incrustatus (Fr.) Sacc. SPECIES
-=======
+# Fomes incrustatus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Neomassariosphaeria grandispora (Sacc.) Yin. Zhang, J. Fourn. & K.D. Hyde, 2009 SPECIES
-=======
+# Massariosphaeria grandispora (Sacc.) Leuchtm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 37: 172 (1984)
 
 #### Original name
-null
+Leptosphaeria grandispora Sacc., 1878
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trematosphaerella bambusae (I. Miyake & Hara) I. Hino & Katum. SPECIES
-=======
+# Trematosphaerella bambusae (I. Miyake & Hara) I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

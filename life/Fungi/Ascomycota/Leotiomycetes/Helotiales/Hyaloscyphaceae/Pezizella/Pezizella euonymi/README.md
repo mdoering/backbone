@@ -1,5 +1,4 @@
-Pezizella euonymi Velen. SPECIES
-=======
+# Pezizella euonymi Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo passiflorae Cummins SPECIES
-=======
+# Uredo passiflorae Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ravenelia cubensis Arthur & J.R. Johnst., 1918 SPECIES
-=======
+# Diabole cubensis (Arthur & J.R. Johnst.) Arthur, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Torrey bot. Club 17: 118 (1918)
+Bull. Torrey bot. Club 49: 194 (1922)
 
 #### Original name
-Ravenelia cubensis Arthur & J.R. Johnst., 1918
+Uromycladium cubense Arthur & J.R. Johnst., 1918
 
 ### Remarks
 null

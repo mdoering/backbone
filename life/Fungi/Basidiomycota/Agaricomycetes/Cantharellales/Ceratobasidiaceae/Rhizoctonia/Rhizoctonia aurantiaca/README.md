@@ -1,5 +1,4 @@
-Rhizoctonia aurantiaca Ellis & Everh. SPECIES
-=======
+# Rhizoctonia aurantiaca Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nostoc intricatum Meneghini SPECIES
-=======
+# Nostoc intricatum Meneghini SPECIES
 
 #### Status
 ACCEPTED

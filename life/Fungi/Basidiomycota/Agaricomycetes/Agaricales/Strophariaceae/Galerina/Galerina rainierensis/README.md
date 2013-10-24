@@ -1,5 +1,4 @@
-Galerina rainierensis A.H. Sm. & Singer SPECIES
-=======
+# Galerina rainierensis A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

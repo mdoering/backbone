@@ -1,5 +1,4 @@
-Mycomicrothelia indica Anahosur SPECIES
-=======
+# Mycomicrothelia indica Anahosur SPECIES
 
 #### Status
 ACCEPTED

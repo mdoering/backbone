@@ -1,5 +1,4 @@
-Streptomyces roseolus (Preobrazhenskaya and Sveshnikova, 1957) Pridham et al., 1958 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces roseolus (Preobrazhenskaya and Sveshnikova, 1957) Pridham et al., 1958 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

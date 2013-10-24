@@ -1,5 +1,4 @@
-Manilaea GENUS
-=======
+# Manilaea GENUS
 
 #### Status
 ACCEPTED

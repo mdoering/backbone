@@ -1,5 +1,4 @@
-Roseivirga spongicola Lau et al., 2006 SPECIES
-=======
+# Roseivirga spongicola Lau et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Unguiculella lupini Raitv., 1977 SPECIES
-=======
+# Hyalacrotes lupini (Raitv.) Raitv., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Folia cryptog. Estonica 9: 2 (1977)
+Nizshie Rasteniya, Griby i Mokhoobraznye Sovetskogo Dal'nego Vostoka (Leningrad), Griby. Vol. <b>2</b>. Askomitsety. Erizifal'nye, Klavitsipital'nye, Gelotsial'nye 337 (1991)
 
 #### Original name
 Unguiculella lupini Raitv., 1977

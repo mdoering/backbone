@@ -1,5 +1,4 @@
-Thermococcus pacificus Miroshnichenko et al., 1998 SPECIES
-=======
+# Thermococcus pacificus Miroshnichenko et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

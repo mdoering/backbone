@@ -1,5 +1,4 @@
-Tilletia durangensis Durán SPECIES
-=======
+# Tilletia durangensis Durán SPECIES
 
 #### Status
 ACCEPTED

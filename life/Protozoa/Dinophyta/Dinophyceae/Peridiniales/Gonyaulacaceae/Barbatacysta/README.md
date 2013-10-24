@@ -1,5 +1,4 @@
-Barbatacysta Courtinat, 1989 GENUS
-=======
+# Barbatacysta Courtinat, 1989 GENUS
 
 #### Status
 ACCEPTED

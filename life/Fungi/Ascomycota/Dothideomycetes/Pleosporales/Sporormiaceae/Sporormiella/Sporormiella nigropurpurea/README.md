@@ -1,5 +1,4 @@
-Sporormiella nigropurpurea Ellis & Everh., 1892 SPECIES
-=======
+# Sporormiella nigropurpurea Ellis & Everh., 1892 SPECIES
 
 #### Status
 ACCEPTED

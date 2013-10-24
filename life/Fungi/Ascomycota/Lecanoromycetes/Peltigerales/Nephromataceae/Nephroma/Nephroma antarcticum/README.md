@@ -1,17 +1,16 @@
-Nephroma antarcticum f. antarcticum FORM
-=======
+# Nephroma antarcticum (Wulfen) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. lich. 1: 317 (1860)
+null
 
 #### Original name
-Nephroma antarcticum f. antarcticum
+null
 
 ### Remarks
 null

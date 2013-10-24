@@ -1,5 +1,4 @@
-Cladonia gallowayi S. Hammer SPECIES
-=======
+# Cladonia gallowayi S. Hammer SPECIES
 
 #### Status
 ACCEPTED

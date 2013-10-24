@@ -1,5 +1,4 @@
-Xylosphaeria elliptica G.H. Otth, 1868 SPECIES
-=======
+# Xylosphaeria elliptica G.H. Otth, 1868 SPECIES
 
 #### Status
 ACCEPTED

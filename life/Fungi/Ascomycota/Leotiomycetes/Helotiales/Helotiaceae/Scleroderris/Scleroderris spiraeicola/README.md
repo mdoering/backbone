@@ -1,5 +1,4 @@
-Scleroderris spiraeicola (Henn.) Lebedeva SPECIES
-=======
+# Scleroderris spiraeicola (Henn.) Lebedeva SPECIES
 
 #### Status
 ACCEPTED

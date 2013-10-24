@@ -1,5 +1,4 @@
-Glugea lophii Doflein SPECIES
-=======
+# Glugea lophii Doflein SPECIES
 
 #### Status
 ACCEPTED

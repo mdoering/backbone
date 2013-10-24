@@ -1,5 +1,4 @@
-Leptosphaeria lathyrina Sacc. SPECIES
-=======
+# Leptosphaeria lathyrina Sacc. SPECIES
 
 #### Status
 ACCEPTED

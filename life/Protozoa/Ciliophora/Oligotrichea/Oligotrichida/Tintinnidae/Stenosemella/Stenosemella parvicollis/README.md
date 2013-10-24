@@ -1,5 +1,4 @@
-Stenosemella parvicollis Marshall, 1934 SPECIES
-=======
+# Stenosemella parvicollis Marshall, 1934 SPECIES
 
 #### Status
 ACCEPTED

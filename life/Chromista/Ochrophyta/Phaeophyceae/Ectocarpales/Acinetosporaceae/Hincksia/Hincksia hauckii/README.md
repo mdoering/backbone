@@ -1,5 +1,4 @@
-Hincksia hauckii (Ercegovic) Cormaci & G. Furnari SPECIES
-=======
+# Hincksia hauckii (Ercegovic) Cormaci & G. Furnari SPECIES
 
 #### Status
 ACCEPTED

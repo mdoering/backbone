@@ -1,5 +1,4 @@
-Hermatomyces amphisporus R.F. Castañeda & Heredia SPECIES
-=======
+# Hermatomyces amphisporus R.F. Castañeda & Heredia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus helvoliceps Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus helvoliceps Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina lorentzii Müll. Arg. SPECIES
-=======
+# Graphina lorentzii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

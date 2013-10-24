@@ -1,8 +1,7 @@
-Cyclochaeta asterisci Gruber, 1884 SPECIES
-=======
+# Trichodina asterisci Fabre-Domergue, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,14 +1,13 @@
-Tuburcinia ranunculi (Lib.) Liro, 1922 SPECIES
-=======
+# Urocystis ranunculi (Lib.) Moesz, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Univ. fenn. Aboënsis, Ser. A 1(no. 1): 69 (1922)
+Kárpát-Medence Üszöggombái 213(1950): 213 (1950)
 
 #### Original name
 Sporisorium ranunculi Lib., 1832

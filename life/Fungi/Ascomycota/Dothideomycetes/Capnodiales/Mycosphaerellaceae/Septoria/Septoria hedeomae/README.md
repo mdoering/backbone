@@ -1,5 +1,4 @@
-Septoria hedeomae Dearn. & House SPECIES
-=======
+# Septoria hedeomae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

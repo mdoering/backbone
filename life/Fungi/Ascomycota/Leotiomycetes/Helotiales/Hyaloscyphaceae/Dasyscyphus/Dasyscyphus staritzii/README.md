@@ -1,8 +1,7 @@
-Dasyscypha staritzii (Rehm) Sacc. SPECIES
-=======
+# Dasyscyphus staritzii (Rehm) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

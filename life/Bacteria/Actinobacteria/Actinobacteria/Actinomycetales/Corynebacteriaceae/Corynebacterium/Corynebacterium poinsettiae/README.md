@@ -1,5 +1,4 @@
-Corynebacterium poinsettiae (Starr & Pirone, 1942) Burkholder, 1948 SPECIES
-=======
+# Corynebacterium poinsettiae (Starr & Pirone, 1942) Burkholder, 1948 SPECIES
 
 #### Status
 ACCEPTED

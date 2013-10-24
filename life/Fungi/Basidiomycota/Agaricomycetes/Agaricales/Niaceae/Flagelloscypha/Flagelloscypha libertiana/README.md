@@ -1,17 +1,16 @@
-Lachnella rosae W.B. Cooke, 1961 SPECIES
-=======
+# Flagelloscypha libertiana (Cooke) Agerer, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 4: 78 (1961)
+Persoonia 10(3): 339 (1979)
 
 #### Original name
-Lachnella rosae W.B. Cooke, 1961
+Cyphella libertiana Cooke, 1880
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Heyderia sclerotiorum (Rostr.) Benkert, 1983 SPECIES
-=======
+# Heyderia sclerotiorum (Rostr.) Benkert, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina tenuissima Petch SPECIES
-=======
+# Asterina tenuissima Petch SPECIES
 
 #### Status
 ACCEPTED

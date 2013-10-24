@@ -1,5 +1,4 @@
-Phyllosticta populea Sacc. SPECIES
-=======
+# Phyllosticta populea Sacc. SPECIES
 
 #### Status
 ACCEPTED

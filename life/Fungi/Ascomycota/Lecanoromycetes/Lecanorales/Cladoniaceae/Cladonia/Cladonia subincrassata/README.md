@@ -1,5 +1,4 @@
-Cladonia subincrassata S. Y. Guo SPECIES
-=======
+# Cladonia subincrassata S. Y. Guo SPECIES
 
 #### Status
 ACCEPTED

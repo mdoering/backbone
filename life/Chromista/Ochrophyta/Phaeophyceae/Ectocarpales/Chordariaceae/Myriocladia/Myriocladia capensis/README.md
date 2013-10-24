@@ -1,5 +1,4 @@
-Myriocladia capensis J. Agardh SPECIES
-=======
+# Myriocladia capensis J. Agardh SPECIES
 
 #### Status
 ACCEPTED

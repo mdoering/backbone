@@ -1,5 +1,4 @@
-Bodo platyrhynchus Larsen & Patterson, 1990 SPECIES
-=======
+# Bodo platyrhynchus Larsen & Patterson, 1990 SPECIES
 
 #### Status
 ACCEPTED

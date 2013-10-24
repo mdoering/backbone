@@ -1,5 +1,4 @@
-Dexiotricha pannonicum SPECIES
-=======
+# Dexiotricha pannonicum SPECIES
 
 #### Status
 ACCEPTED

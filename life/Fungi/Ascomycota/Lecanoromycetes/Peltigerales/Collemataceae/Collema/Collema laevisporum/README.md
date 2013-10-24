@@ -1,5 +1,4 @@
-Collema laevisporum Swinscow & Krog SPECIES
-=======
+# Collema laevisporum Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyra floridana Murrill SPECIES
-=======
+# Psathyra floridana Murrill SPECIES
 
 #### Status
 ACCEPTED

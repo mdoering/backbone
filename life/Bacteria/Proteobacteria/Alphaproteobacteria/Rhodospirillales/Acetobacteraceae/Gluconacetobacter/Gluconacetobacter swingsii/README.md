@@ -1,5 +1,4 @@
-Gluconacetobacter swingsii Dellaglio et al., 2005 SPECIES
-=======
+# Gluconacetobacter swingsii Dellaglio et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

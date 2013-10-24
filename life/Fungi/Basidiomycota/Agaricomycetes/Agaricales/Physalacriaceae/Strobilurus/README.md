@@ -1,5 +1,4 @@
-Strobilurus Singer, 1962 GENUS
-=======
+# Strobilurus Singer, 1962 GENUS
 
 #### Status
 ACCEPTED

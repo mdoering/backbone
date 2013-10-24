@@ -1,14 +1,13 @@
-Lagenidium scyllae Bian, Hatai, Po & Egusa, 1979 SPECIES
-=======
+# Salilagenidium scyllae (Bian, Hatai, Po & Egusa) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 20(2): 117 (1979)
+Straminipilous Fungi (Dordrecht) 315 (2001)
 
 #### Original name
 Lagenidium scyllae Bian, Hatai, Po & Egusa, 1979

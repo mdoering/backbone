@@ -1,5 +1,4 @@
-Aecidium coffeicola R.N. Goswami SPECIES
-=======
+# Aecidium coffeicola R.N. Goswami SPECIES
 
 #### Status
 ACCEPTED

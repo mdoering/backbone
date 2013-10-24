@@ -1,5 +1,4 @@
-Aecidium seriatum Arthur SPECIES
-=======
+# Aecidium seriatum Arthur SPECIES
 
 #### Status
 ACCEPTED

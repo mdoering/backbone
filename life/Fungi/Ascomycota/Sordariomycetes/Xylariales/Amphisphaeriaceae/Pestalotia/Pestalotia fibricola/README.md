@@ -1,5 +1,4 @@
-Pestalotia fibricola Grove SPECIES
-=======
+# Pestalotia fibricola Grove SPECIES
 
 #### Status
 ACCEPTED

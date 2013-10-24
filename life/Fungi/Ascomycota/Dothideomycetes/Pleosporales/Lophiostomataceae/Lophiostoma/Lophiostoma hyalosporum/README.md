@@ -1,5 +1,4 @@
-Lophiostoma hyalosporum (Sacc.) M.E. Barr SPECIES
-=======
+# Lophiostoma hyalosporum (Sacc.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

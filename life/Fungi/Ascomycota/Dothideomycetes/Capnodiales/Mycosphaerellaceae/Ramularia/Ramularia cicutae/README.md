@@ -1,5 +1,4 @@
-Ramularia cicutae P. Karst., 1884 SPECIES
-=======
+# Ramularia cicutae P. Karst., 1884 SPECIES
 
 #### Status
 ACCEPTED

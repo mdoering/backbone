@@ -1,5 +1,4 @@
-Candida heveicola F.Y. Bai & S.A. Wang SPECIES
-=======
+# Candida heveicola F.Y. Bai & S.A. Wang SPECIES
 
 #### Status
 ACCEPTED

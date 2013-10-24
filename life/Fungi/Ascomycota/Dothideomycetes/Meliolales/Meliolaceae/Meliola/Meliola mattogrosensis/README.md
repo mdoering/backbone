@@ -1,5 +1,4 @@
-Meliola mattogrosensis Starbäck SPECIES
-=======
+# Meliola mattogrosensis Starbäck SPECIES
 
 #### Status
 ACCEPTED

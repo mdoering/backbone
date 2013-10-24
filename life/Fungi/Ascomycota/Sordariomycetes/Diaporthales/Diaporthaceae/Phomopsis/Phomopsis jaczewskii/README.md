@@ -1,5 +1,4 @@
-Phomopsis jaczewskii Panas. SPECIES
-=======
+# Phomopsis jaczewskii Panas. SPECIES
 
 #### Status
 ACCEPTED

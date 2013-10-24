@@ -1,5 +1,4 @@
-Cortinarius incarnatolilascens Rob. Henry SPECIES
-=======
+# Cortinarius incarnatolilascens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

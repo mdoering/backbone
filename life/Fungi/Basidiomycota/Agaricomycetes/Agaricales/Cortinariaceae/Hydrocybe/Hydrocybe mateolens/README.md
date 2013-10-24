@@ -1,5 +1,4 @@
-Hydrocybe mateolens Velen. SPECIES
-=======
+# Hydrocybe mateolens Velen. SPECIES
 
 #### Status
 ACCEPTED

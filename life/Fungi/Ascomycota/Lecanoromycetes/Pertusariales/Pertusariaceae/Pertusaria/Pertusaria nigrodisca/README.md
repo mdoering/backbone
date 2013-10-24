@@ -1,5 +1,4 @@
-Pertusaria nigrodisca Oshio SPECIES
-=======
+# Pertusaria nigrodisca Oshio SPECIES
 
 #### Status
 ACCEPTED

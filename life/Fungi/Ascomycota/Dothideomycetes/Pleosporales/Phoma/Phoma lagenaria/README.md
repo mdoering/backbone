@@ -1,5 +1,4 @@
-Phoma lagenaria Pass. SPECIES
-=======
+# Phoma lagenaria Pass. SPECIES
 
 #### Status
 ACCEPTED

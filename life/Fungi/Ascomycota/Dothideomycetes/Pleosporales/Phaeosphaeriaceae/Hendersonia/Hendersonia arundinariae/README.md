@@ -1,5 +1,4 @@
-Hendersonia arundinariae Fairm. SPECIES
-=======
+# Hendersonia arundinariae Fairm. SPECIES
 
 #### Status
 ACCEPTED

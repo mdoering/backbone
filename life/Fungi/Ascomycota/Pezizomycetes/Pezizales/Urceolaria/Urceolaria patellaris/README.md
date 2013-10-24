@@ -1,5 +1,4 @@
-Urceolaria patellaris (Schaer.) Motyka SPECIES
-=======
+# Urceolaria patellaris (Schaer.) Motyka SPECIES
 
 #### Status
 ACCEPTED

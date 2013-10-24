@@ -1,5 +1,4 @@
-Ramaria corrugata (P. Karst.) Schild SPECIES
-=======
+# Ramaria corrugata (P. Karst.) Schild SPECIES
 
 #### Status
 ACCEPTED

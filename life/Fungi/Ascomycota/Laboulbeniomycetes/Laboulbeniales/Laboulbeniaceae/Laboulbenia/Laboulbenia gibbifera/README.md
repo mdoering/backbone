@@ -1,5 +1,4 @@
-Laboulbenia gibbifera Thaxt. SPECIES
-=======
+# Laboulbenia gibbifera Thaxt. SPECIES
 
 #### Status
 ACCEPTED

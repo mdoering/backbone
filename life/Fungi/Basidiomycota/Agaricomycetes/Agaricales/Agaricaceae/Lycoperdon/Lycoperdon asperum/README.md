@@ -1,5 +1,4 @@
-Lycoperdon asperum (Lév.) Speg. SPECIES
-=======
+# Lycoperdon asperum (Lév.) Speg. SPECIES
 
 #### Status
 ACCEPTED

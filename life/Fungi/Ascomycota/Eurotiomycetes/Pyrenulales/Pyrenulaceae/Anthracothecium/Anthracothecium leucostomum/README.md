@@ -1,5 +1,4 @@
-Anthracothecium leucostomum Ach. SPECIES
-=======
+# Anthracothecium leucostomum Ach. SPECIES
 
 #### Status
 ACCEPTED

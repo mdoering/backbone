@@ -1,5 +1,4 @@
-Diplodia olivarum A.J.L. Phillips & Lazzizera SPECIES
-=======
+# Diplodia olivarum A.J.L. Phillips & Lazzizera SPECIES
 
 #### Status
 ACCEPTED

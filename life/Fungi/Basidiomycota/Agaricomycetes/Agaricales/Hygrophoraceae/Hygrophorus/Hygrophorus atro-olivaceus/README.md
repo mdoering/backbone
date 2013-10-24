@@ -1,5 +1,4 @@
-Hygrophorus atro-olivaceus A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus atro-olivaceus A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

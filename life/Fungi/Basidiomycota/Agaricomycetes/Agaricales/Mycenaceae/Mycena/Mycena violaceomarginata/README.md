@@ -1,5 +1,4 @@
-Mycena violaceomarginata Mont. SPECIES
-=======
+# Mycena violaceomarginata Mont. SPECIES
 
 #### Status
 ACCEPTED

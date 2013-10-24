@@ -1,5 +1,4 @@
-Hapalopera fragilariae (Canter) A. Batko SPECIES
-=======
+# Hapalopera fragilariae (Canter) A. Batko SPECIES
 
 #### Status
 ACCEPTED

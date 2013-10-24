@@ -1,5 +1,4 @@
-Scutellinia aurantiaca Bogacheva SPECIES
-=======
+# Scutellinia aurantiaca Bogacheva SPECIES
 
 #### Status
 ACCEPTED

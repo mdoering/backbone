@@ -1,14 +1,13 @@
-Phellinus lamaensis (Murrill) Pat. SPECIES
-=======
+# Phellinus lamaoensis (Murrill) Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Mus. Hist. Nat. , Paris 29: 336 (1934)
 
 #### Original name
 Pyropolyporus lamaoensis Murrill

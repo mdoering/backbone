@@ -1,5 +1,4 @@
-Phormidium jenkelianum G.Schmid SPECIES
-=======
+# Phormidium jenkelianum G.Schmid SPECIES
 
 #### Status
 ACCEPTED

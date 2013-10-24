@@ -1,5 +1,4 @@
-Cortinarius argutus var. argutus VARIETY
-=======
+# Cortinarius argutus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 278 (1838)
 
 #### Original name
-Cortinarius argutus var. argutus
+Cortinarius argutus Fr.
 
 ### Remarks
 null

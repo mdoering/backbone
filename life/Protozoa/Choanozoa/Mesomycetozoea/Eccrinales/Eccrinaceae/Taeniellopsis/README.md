@@ -1,5 +1,4 @@
-Taeniellopsis R.A. Poiss. GENUS
-=======
+# Taeniellopsis R.A. Poiss. GENUS
 
 #### Status
 ACCEPTED

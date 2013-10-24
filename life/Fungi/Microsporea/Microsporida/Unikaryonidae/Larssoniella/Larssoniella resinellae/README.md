@@ -1,5 +1,4 @@
-Larssoniella resinellae J. Weiser & David SPECIES
-=======
+# Larssoniella resinellae J. Weiser & David SPECIES
 
 #### Status
 ACCEPTED

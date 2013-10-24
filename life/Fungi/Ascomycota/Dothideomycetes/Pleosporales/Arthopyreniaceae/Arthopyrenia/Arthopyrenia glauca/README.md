@@ -1,5 +1,4 @@
-Arthopyrenia glauca Zschacke SPECIES
-=======
+# Arthopyrenia glauca Zschacke SPECIES
 
 #### Status
 ACCEPTED

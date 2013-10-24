@@ -1,5 +1,4 @@
-Laboulbenia assamensis Thaxt. SPECIES
-=======
+# Laboulbenia assamensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

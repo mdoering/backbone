@@ -1,5 +1,4 @@
-Spongosphaerium Haeckel, 1881 GENUS
-=======
+# Spongosphaerium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

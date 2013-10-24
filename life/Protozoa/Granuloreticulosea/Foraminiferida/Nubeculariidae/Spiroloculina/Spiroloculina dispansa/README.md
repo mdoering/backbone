@@ -1,5 +1,4 @@
-Spiroloculina dispansa Chapman, W.D. & Crespin, I. SPECIES
-=======
+# Spiroloculina dispansa Chapman, W.D. & Crespin, I. SPECIES
 
 #### Status
 ACCEPTED

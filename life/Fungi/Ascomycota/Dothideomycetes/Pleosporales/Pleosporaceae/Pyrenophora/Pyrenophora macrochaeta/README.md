@@ -1,5 +1,4 @@
-Pyrenophora macrochaeta Sacc. SPECIES
-=======
+# Pyrenophora macrochaeta Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplochytridium isthmiophilum (Canter) Karling SPECIES
-=======
+# Diplochytridium isthmiophilum (Canter) Karling SPECIES
 
 #### Status
 ACCEPTED

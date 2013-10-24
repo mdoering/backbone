@@ -1,5 +1,4 @@
-Graphis dendricoides Nyl. SPECIES
-=======
+# Graphis dendricoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora nubilosa Ellis & Everh. SPECIES
-=======
+# Cercospora nubilosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

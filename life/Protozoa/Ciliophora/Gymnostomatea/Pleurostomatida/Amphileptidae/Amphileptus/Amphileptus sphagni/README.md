@@ -1,5 +1,4 @@
-Amphileptus sphagni SPECIES
-=======
+# Amphileptus sphagni SPECIES
 
 #### Status
 ACCEPTED

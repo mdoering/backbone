@@ -1,5 +1,4 @@
-Neottiosporina masonii B. Sutton, 1976 SPECIES
-=======
+# Neottiosporina masonii B. Sutton, 1976 SPECIES
 
 #### Status
 ACCEPTED

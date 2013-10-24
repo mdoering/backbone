@@ -1,5 +1,4 @@
-Stachybotryna splendida R.F. Castañeda SPECIES
-=======
+# Stachybotryna splendida R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

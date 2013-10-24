@@ -1,5 +1,4 @@
-Huea comorensis (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Huea comorensis (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

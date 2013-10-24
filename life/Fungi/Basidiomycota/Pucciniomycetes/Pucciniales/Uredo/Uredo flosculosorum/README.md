@@ -1,5 +1,4 @@
-Uredo flosculosorum Alb. & Schwein. SPECIES
-=======
+# Uredo flosculosorum Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

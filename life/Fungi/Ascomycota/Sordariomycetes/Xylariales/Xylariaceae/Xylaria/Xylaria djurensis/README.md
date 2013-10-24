@@ -1,5 +1,4 @@
-Xylaria djurensis Henn. SPECIES
-=======
+# Xylaria djurensis Henn. SPECIES
 
 #### Status
 ACCEPTED

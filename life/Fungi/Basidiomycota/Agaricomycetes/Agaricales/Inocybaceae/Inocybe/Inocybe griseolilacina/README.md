@@ -1,5 +1,4 @@
-Inocybe griseolilacina J.E. Lange, 1917 SPECIES
-=======
+# Inocybe griseolilacina J.E. Lange, 1917 SPECIES
 
 #### Status
 ACCEPTED

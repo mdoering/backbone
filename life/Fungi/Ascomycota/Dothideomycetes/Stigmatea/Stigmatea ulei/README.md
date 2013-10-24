@@ -1,5 +1,4 @@
-Stigmatea ulei Bres. & Sacc. SPECIES
-=======
+# Stigmatea ulei Bres. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

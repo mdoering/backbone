@@ -1,5 +1,4 @@
-Xanthoparmelia remanella Elix SPECIES
-=======
+# Xanthoparmelia remanella Elix SPECIES
 
 #### Status
 ACCEPTED

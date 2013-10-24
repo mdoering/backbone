@@ -1,5 +1,4 @@
-Tylopilus cyaneotinctus A.H. Sm. & Thiers SPECIES
-=======
+# Tylopilus cyaneotinctus A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

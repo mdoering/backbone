@@ -1,5 +1,4 @@
-Stropharia caesiospora Kauffman SPECIES
-=======
+# Stropharia caesiospora Kauffman SPECIES
 
 #### Status
 ACCEPTED

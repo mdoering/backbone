@@ -1,5 +1,4 @@
-Sejongia jeonii Yi et al., 2005 SPECIES
-=======
+# Sejongia jeonii Yi et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

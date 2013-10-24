@@ -1,5 +1,4 @@
-Phacidium eucalypti G.W. Beaton & Weste, 1977 SPECIES
-=======
+# Phacidium eucalypti G.W. Beaton & Weste, 1977 SPECIES
 
 #### Status
 ACCEPTED

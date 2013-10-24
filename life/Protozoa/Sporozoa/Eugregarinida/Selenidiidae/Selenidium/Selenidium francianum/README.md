@@ -1,5 +1,4 @@
-Selenidium francianum Arvy, 1952 SPECIES
-=======
+# Selenidium francianum Arvy, 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora macrospora Osterw. SPECIES
-=======
+# Cercospora macrospora Osterw. SPECIES
 
 #### Status
 ACCEPTED

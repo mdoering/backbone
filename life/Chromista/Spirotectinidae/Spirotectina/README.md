@@ -1,5 +1,4 @@
-Spirotectina Saidova, 1975 GENUS
-=======
+# Spirotectina Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

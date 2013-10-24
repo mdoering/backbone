@@ -1,5 +1,4 @@
-Gymnostellatospora subnuda Sigler, T.C. Lumley & Currah SPECIES
-=======
+# Gymnostellatospora subnuda Sigler, T.C. Lumley & Currah SPECIES
 
 #### Status
 ACCEPTED

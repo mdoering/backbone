@@ -1,5 +1,4 @@
-Tricholoma arenarium Gillet SPECIES
-=======
+# Tricholoma arenarium Gillet SPECIES
 
 #### Status
 ACCEPTED

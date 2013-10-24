@@ -1,5 +1,4 @@
-Pseudocercospora phaseolicola Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora phaseolicola Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

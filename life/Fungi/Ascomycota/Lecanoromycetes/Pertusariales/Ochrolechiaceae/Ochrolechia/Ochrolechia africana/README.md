@@ -1,5 +1,4 @@
-Ochrolechia africana Vain. SPECIES
-=======
+# Ochrolechia africana Vain. SPECIES
 
 #### Status
 ACCEPTED

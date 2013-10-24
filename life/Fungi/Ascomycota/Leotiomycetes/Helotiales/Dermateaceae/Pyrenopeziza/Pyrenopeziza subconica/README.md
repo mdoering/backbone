@@ -1,5 +1,4 @@
-Pyrenopeziza subconica (Rehm) Sacc. SPECIES
-=======
+# Pyrenopeziza subconica (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe subgeophylla Henn. SPECIES
-=======
+# Inocybe subgeophylla Henn. SPECIES
 
 #### Status
 ACCEPTED

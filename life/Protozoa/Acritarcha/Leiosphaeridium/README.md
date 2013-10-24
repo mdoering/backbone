@@ -1,5 +1,4 @@
-Leiosphaeridium F.L. Staplin, 1961 GENUS
-=======
+# Leiosphaeridium F.L. Staplin, 1961 GENUS
 
 #### Status
 ACCEPTED

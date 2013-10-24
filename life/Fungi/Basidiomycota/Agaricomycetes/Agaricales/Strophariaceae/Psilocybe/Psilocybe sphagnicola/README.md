@@ -1,5 +1,4 @@
-Psilocybe sphagnicola A.H. Sm. SPECIES
-=======
+# Psilocybe sphagnicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

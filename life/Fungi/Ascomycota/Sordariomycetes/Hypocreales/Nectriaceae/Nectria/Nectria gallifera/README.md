@@ -1,5 +1,4 @@
-Nectria gallifera Pat. SPECIES
-=======
+# Nectria gallifera Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia netrospora (Nägeli) Müll. Arg. SPECIES
-=======
+# Arthopyrenia netrospora (Nägeli) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

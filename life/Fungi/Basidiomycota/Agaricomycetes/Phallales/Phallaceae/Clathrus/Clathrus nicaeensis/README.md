@@ -1,5 +1,4 @@
-Clathrus nicaeensis Barla SPECIES
-=======
+# Clathrus nicaeensis Barla SPECIES
 
 #### Status
 ACCEPTED

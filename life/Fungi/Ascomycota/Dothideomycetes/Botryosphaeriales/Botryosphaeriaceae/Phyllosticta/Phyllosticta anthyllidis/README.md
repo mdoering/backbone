@@ -1,5 +1,4 @@
-Phyllosticta anthyllidis Baudy SPECIES
-=======
+# Phyllosticta anthyllidis Baudy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon massartianum var. massartianum Hue VARIETY
-=======
+# Stereocaulon massartianum Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stereocaulon massartianum var. massartianum Hue
+Stereocaulon massartianum Hue
 
 ### Remarks
 null

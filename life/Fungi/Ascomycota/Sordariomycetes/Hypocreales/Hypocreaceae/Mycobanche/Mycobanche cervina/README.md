@@ -1,5 +1,4 @@
-Mycobanche cervina Westend. SPECIES
-=======
+# Mycobanche cervina Westend. SPECIES
 
 #### Status
 ACCEPTED

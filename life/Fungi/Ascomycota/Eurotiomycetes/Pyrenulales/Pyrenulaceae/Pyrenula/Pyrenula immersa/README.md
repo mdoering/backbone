@@ -1,5 +1,4 @@
-Pyrenula immersa Müll. Arg. SPECIES
-=======
+# Pyrenula immersa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

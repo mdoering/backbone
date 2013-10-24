@@ -1,5 +1,4 @@
-Cortinarius productus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius productus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helotium parile subsp. parile SUBSPECIES
-=======
+# Pezizella parilis (P. Karst.) Dennis, 1956 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 19: 115 (1871)
+Mycol. Pap. 62: 49 (1956)
 
 #### Original name
-Helotium parile subsp. parile
+Helotium parile P. Karst., 1871
 
 ### Remarks
 null

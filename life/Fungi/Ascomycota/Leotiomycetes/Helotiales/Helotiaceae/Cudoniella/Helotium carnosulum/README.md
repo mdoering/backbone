@@ -1,5 +1,4 @@
-Helotium carnosulum Rehm SPECIES
-=======
+# Helotium carnosulum Rehm SPECIES
 
 #### Status
 ACCEPTED

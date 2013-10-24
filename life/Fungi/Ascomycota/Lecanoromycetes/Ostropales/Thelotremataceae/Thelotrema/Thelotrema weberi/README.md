@@ -1,5 +1,4 @@
-Thelotrema weberi Hale SPECIES
-=======
+# Thelotrema weberi Hale SPECIES
 
 #### Status
 ACCEPTED

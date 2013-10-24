@@ -1,5 +1,4 @@
-Cladosporium sinuosum K. Schub., C.F. Hill, Crous & U. Braun SPECIES
-=======
+# Cladosporium sinuosum K. Schub., C.F. Hill, Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

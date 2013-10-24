@@ -1,5 +1,4 @@
-Collybia calabarensis Syd. SPECIES
-=======
+# Collybia calabarensis Syd. SPECIES
 
 #### Status
 ACCEPTED

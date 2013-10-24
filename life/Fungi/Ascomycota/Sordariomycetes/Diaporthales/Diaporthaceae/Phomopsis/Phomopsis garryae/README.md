@@ -1,5 +1,4 @@
-Phomopsis garryae Grove SPECIES
-=======
+# Phomopsis garryae Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplotomma elenkinii (Tomin) Szatala SPECIES
-=======
+# Diplotomma elenkinii (Tomin) Szatala SPECIES
 
 #### Status
 ACCEPTED

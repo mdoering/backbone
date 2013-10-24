@@ -1,5 +1,4 @@
-Caeoma berberidatum Link SPECIES
-=======
+# Caeoma berberidatum Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sowerbyella crassisculpturata J. Moravec, 1985 SPECIES
-=======
+# Sowerbyella crassisculpturata J. Moravec, 1985 SPECIES
 
 #### Status
 ACCEPTED

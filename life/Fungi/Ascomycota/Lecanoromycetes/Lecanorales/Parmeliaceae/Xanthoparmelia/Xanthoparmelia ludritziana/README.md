@@ -1,5 +1,4 @@
-Xanthoparmelia ludritziana Hale SPECIES
-=======
+# Xanthoparmelia ludritziana Hale SPECIES
 
 #### Status
 ACCEPTED

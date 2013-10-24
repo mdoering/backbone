@@ -1,5 +1,4 @@
-Lamtostyla lamottei Buitkamp, 1977 SPECIES
-=======
+# Lamtostyla lamottei Buitkamp, 1977 SPECIES
 
 #### Status
 ACCEPTED

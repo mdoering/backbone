@@ -1,5 +1,4 @@
-Chromosporium viride Corda, 1829 SPECIES
-=======
+# Chromosporium viride Corda, 1829 SPECIES
 
 #### Status
 ACCEPTED

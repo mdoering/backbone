@@ -1,5 +1,4 @@
-Pyrenula achariana SPECIES
-=======
+# Pyrenula achariana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mycena pteriphila Hadjist. & Grund SPECIES
-=======
+# Mycena pteridophila Hadjist. & Grund SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proceedings of the Nova Scotian Institute of Science 34(2): 167 (1985)
 
 #### Original name
-Mycena pteriphila Hadjist. & Grund
+Mycena pteridophila Hadjist. & Grund
 
 ### Remarks
 null

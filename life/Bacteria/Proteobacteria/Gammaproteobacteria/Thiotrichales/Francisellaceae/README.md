@@ -1,5 +1,4 @@
-Francisellaceae FAMILY
-=======
+# Francisellaceae FAMILY
 
 #### Status
 ACCEPTED

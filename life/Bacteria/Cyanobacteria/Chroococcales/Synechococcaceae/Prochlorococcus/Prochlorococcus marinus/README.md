@@ -1,5 +1,4 @@
-Prochlorococcus marinus S.W. Chisholm, S.L. Frankel, R. Goericke, R.J. Olson, B. Palenik, J.B. Waterbury, L. West-Johnsrud & SPECIES
-=======
+# Prochlorococcus marinus S.W. Chisholm, S.L. Frankel, R. Goericke, R.J. Olson, B. Palenik, J.B. Waterbury, L. West-Johnsrud & SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca modesta H. Magn. SPECIES
-=======
+# Caloplaca modesta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania vallata (Stirt.) Müll. Arg. SPECIES
-=======
+# Lecania vallata (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

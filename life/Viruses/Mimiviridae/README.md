@@ -1,5 +1,4 @@
-Mimiviridae FAMILY
-=======
+# Mimiviridae FAMILY
 
 #### Status
 ACCEPTED

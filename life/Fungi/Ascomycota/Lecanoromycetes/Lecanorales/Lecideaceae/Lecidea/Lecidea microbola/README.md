@@ -1,5 +1,4 @@
-Lecidea microbola Clemente SPECIES
-=======
+# Lecidea microbola Clemente SPECIES
 
 #### Status
 ACCEPTED

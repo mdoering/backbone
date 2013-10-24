@@ -1,5 +1,4 @@
-Helminthosporium euonymi Sacc. SPECIES
-=======
+# Helminthosporium euonymi Sacc. SPECIES
 
 #### Status
 ACCEPTED

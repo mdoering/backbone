@@ -1,5 +1,4 @@
-Phaeosphaeria lutea Leuchtm., 1984 SPECIES
-=======
+# Phaeosphaeria lutea Leuchtm., 1984 SPECIES
 
 #### Status
 ACCEPTED

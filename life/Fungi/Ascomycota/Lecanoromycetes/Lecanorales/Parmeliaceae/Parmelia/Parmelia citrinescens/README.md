@@ -1,5 +1,4 @@
-Parmelia citrinescens Gyeln. SPECIES
-=======
+# Parmelia citrinescens Gyeln. SPECIES
 
 #### Status
 ACCEPTED

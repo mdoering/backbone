@@ -1,5 +1,4 @@
-Rhynchosphaeria tamarindi Tilak & S.B. Kale SPECIES
-=======
+# Rhynchosphaeria tamarindi Tilak & S.B. Kale SPECIES
 
 #### Status
 ACCEPTED

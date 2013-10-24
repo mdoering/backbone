@@ -1,5 +1,4 @@
-Cylindrocolla musicola Speg. SPECIES
-=======
+# Cylindrocolla musicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria lubriciceps Kauffman & A.H. Sm. SPECIES
-=======
+# Naucoria lubriciceps Kauffman & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

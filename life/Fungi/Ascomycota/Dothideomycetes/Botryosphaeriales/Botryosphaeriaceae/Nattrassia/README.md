@@ -1,5 +1,4 @@
-Nattrassia B. Sutton & Dyko GENUS
-=======
+# Nattrassia B. Sutton & Dyko GENUS
 
 #### Status
 ACCEPTED

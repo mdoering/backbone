@@ -1,5 +1,4 @@
-Sarcosoma javanicum Rehm SPECIES
-=======
+# Sarcosoma javanicum Rehm SPECIES
 
 #### Status
 ACCEPTED

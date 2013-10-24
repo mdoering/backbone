@@ -1,5 +1,4 @@
-Amphisphaeria medicaginis Gucevic SPECIES
-=======
+# Amphisphaeria medicaginis Gucevic SPECIES
 
 #### Status
 ACCEPTED

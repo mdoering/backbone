@@ -1,5 +1,4 @@
-Dibaeis stipitata Kalb & Gierl SPECIES
-=======
+# Dibaeis stipitata Kalb & Gierl SPECIES
 
 #### Status
 ACCEPTED

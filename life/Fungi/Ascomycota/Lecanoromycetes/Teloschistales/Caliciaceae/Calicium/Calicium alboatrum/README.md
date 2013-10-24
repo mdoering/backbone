@@ -1,5 +1,4 @@
-Calicium alboatrum f. alboatrum FORM
-=======
+# Calicium alboatrum Flörke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calicium alboatrum f. alboatrum
+Calicium alboatrum Flörke
 
 ### Remarks
 null

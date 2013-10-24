@@ -1,5 +1,4 @@
-Hericium clathroides (Pall.) Pers., 1797 SPECIES
-=======
+# Hericium clathroides (Pall.) Pers., 1797 SPECIES
 
 #### Status
 ACCEPTED

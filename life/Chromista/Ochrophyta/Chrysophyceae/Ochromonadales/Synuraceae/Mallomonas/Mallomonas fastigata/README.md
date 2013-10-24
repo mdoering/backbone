@@ -1,11 +1,10 @@
-Mallomonas fastigata var. fastigata VARIETY
-=======
+# Mallomonas fastigata Zacharias SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Integrated Taxonomic Information System
 
 #### Published in
 null

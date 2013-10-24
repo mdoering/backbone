@@ -1,5 +1,4 @@
-Hydraeomyces venetus Speg. SPECIES
-=======
+# Hydraeomyces venetus Speg. SPECIES
 
 #### Status
 ACCEPTED

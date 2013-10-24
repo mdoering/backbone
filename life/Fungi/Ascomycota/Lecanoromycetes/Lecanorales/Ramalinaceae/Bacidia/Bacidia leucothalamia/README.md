@@ -1,5 +1,4 @@
-Bacidia leucothalamia (Nyl.) Hellb. SPECIES
-=======
+# Bacidia leucothalamia (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

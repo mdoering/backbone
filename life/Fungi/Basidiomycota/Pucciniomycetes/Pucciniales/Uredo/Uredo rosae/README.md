@@ -1,5 +1,4 @@
-Uredo rosae Schumach. SPECIES
-=======
+# Uredo rosae Schumach. SPECIES
 
 #### Status
 ACCEPTED

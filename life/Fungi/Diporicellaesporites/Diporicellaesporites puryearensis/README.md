@@ -1,5 +1,4 @@
-Diporicellaesporites puryearensis Sheffy & Dilcher SPECIES
-=======
+# Diporicellaesporites puryearensis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

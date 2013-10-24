@@ -1,17 +1,16 @@
-Physoderma indica S. Naray. & Thirum. SPECIES
-=======
+# Physoderma indicum S. Naray. & Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Indian bot. Soc. 36: 107 (1957)
 
 #### Original name
-Physoderma indica S. Naray. & Thirum.
+Physoderma indicum S. Naray. & Thirum.
 
 ### Remarks
 null

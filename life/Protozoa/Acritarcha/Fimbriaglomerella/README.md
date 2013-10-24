@@ -1,5 +1,4 @@
-Fimbriaglomerella A.R. Loeblich Jr. & Drugg, 1968 GENUS
-=======
+# Fimbriaglomerella A.R. Loeblich Jr. & Drugg, 1968 GENUS
 
 #### Status
 ACCEPTED

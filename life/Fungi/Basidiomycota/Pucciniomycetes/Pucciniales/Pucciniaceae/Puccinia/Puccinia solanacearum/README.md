@@ -1,5 +1,4 @@
-Puccinia solanacearum Sacc. & P. Syd. SPECIES
-=======
+# Puccinia solanacearum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

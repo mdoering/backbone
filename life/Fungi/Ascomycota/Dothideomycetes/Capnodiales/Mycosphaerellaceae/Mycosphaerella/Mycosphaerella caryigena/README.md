@@ -1,17 +1,16 @@
-Cylindrosporium caryigenum Ellis & Everh., 1893 SPECIES
-=======
+# Mycosphaerella caryigena Demaree & Cole, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Agric. Res. , Washington 44: 139 (1932)
 
 #### Original name
-Cylindrosporium caryigenum Ellis & Everh., 1893
+Mycosphaerella caryigena Demaree & Cole, 1932
 
 ### Remarks
 null

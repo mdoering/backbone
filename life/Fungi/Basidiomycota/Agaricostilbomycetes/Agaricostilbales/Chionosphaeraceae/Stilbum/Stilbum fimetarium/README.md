@@ -1,5 +1,4 @@
-Stilbum fimetarium Pers. SPECIES
-=======
+# Stilbum fimetarium Pers. SPECIES
 
 #### Status
 ACCEPTED

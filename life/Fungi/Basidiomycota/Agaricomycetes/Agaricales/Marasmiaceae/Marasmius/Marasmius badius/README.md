@@ -1,5 +1,4 @@
-Marasmius badius Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius badius Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

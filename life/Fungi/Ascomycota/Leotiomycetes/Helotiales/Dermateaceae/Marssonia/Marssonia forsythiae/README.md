@@ -1,5 +1,4 @@
-Marssonia forsythiae (Lind) Sacc. SPECIES
-=======
+# Marssonia forsythiae (Lind) Sacc. SPECIES
 
 #### Status
 ACCEPTED

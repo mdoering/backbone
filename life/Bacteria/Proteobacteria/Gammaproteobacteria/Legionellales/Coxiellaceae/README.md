@@ -1,5 +1,4 @@
-Coxiellaceae FAMILY
-=======
+# Coxiellaceae FAMILY
 
 #### Status
 ACCEPTED

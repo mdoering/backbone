@@ -1,14 +1,13 @@
-Sporidesmium trigonellum Sacc., 1882 SPECIES
-=======
+# Oncopodiella trigonella (Sacc.) Rifai, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 8): 641 (1882)
+Persoonia 3(4): 409 (1965)
 
 #### Original name
 Sporidesmium trigonellum Sacc., 1882

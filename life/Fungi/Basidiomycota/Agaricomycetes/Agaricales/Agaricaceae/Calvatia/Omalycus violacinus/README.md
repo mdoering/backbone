@@ -1,5 +1,4 @@
-Omalycus violacinus Raf. SPECIES
-=======
+# Omalycus violacinus Raf. SPECIES
 
 #### Status
 ACCEPTED

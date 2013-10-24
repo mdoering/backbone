@@ -1,5 +1,4 @@
-Periconiella lygodii Arch. Singh, Bhalla & S.K. Singh ex U. Braun SPECIES
-=======
+# Periconiella lygodii Arch. Singh, Bhalla & S.K. Singh ex U. Braun SPECIES
 
 #### Status
 ACCEPTED

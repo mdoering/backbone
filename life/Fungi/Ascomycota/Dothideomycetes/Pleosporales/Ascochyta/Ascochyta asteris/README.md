@@ -1,5 +1,4 @@
-Ascochyta asteris (Bres.) Gloyer SPECIES
-=======
+# Ascochyta asteris (Bres.) Gloyer SPECIES
 
 #### Status
 ACCEPTED

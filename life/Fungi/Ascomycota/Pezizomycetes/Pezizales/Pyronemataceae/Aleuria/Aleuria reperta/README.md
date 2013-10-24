@@ -1,14 +1,13 @@
-Aleurina reperta (Boud.) Sacc. & P. Syd., 1902 SPECIES
-=======
+# Aleuria reperta Boud., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 16: 739 (1902)
+Bull. Soc. mycol. Fr. 64 (1894)
 
 #### Original name
 Aleuria reperta Boud., 1894

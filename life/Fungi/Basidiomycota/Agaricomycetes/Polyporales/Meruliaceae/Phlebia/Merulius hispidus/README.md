@@ -1,5 +1,4 @@
-Merulius hispidus Scop. SPECIES
-=======
+# Merulius hispidus Scop. SPECIES
 
 #### Status
 ACCEPTED

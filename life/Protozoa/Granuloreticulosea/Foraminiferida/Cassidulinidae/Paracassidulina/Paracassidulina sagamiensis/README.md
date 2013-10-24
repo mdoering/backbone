@@ -1,5 +1,4 @@
-Paracassidulina sagamiensis Asano & Nakamura, 1937 SPECIES
-=======
+# Paracassidulina sagamiensis Asano & Nakamura, 1937 SPECIES
 
 #### Status
 ACCEPTED

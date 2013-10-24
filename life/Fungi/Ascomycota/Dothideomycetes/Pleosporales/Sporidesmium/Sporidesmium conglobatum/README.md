@@ -1,5 +1,4 @@
-Sporidesmium conglobatum Cooke & Ellis SPECIES
-=======
+# Sporidesmium conglobatum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

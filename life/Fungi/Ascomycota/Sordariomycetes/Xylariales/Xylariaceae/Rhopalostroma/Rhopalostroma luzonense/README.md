@@ -1,14 +1,13 @@
-Pterula luzonensis Lloyd, 1922 SPECIES
-=======
+# Rhopalostroma luzonense (Lloyd) D. Hawksw., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1106 (1922)
+Kew Bull. 31(3): 428 (1977)
 
 #### Original name
 Pterula luzonensis Lloyd, 1922

@@ -1,5 +1,4 @@
-Thelidium prasinum SPECIES
-=======
+# Thelidium prasinum SPECIES
 
 #### Status
 ACCEPTED

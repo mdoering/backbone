@@ -1,5 +1,4 @@
-Eurotiaceaea FAMILY
-=======
+# Eurotiaceaea FAMILY
 
 #### Status
 ACCEPTED

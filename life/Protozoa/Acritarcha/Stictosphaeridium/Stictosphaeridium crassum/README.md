@@ -1,5 +1,4 @@
-Stictosphaeridium crassum Piskun, 1976 SPECIES
-=======
+# Stictosphaeridium crassum Piskun, 1976 SPECIES
 
 #### Status
 ACCEPTED

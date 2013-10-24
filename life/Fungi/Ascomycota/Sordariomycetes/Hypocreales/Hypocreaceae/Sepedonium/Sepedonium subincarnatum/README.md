@@ -1,5 +1,4 @@
-Sepedonium subincarnatum Peck SPECIES
-=======
+# Sepedonium subincarnatum Peck SPECIES
 
 #### Status
 ACCEPTED

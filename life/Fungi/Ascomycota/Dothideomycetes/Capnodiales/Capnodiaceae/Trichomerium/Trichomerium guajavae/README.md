@@ -1,5 +1,4 @@
-Trichomerium guajavae Bat. & Cif. SPECIES
-=======
+# Trichomerium guajavae Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

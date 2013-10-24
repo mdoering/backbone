@@ -1,5 +1,4 @@
-Puccinia crassocephali Gjaerum SPECIES
-=======
+# Puccinia crassocephali Gjaerum SPECIES
 
 #### Status
 ACCEPTED

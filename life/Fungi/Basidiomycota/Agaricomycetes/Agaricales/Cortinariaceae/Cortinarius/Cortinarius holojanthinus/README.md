@@ -1,5 +1,4 @@
-Cortinarius holojanthinus Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius holojanthinus Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

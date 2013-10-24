@@ -1,5 +1,4 @@
-Heterochaete ochroceracea P. Roberts SPECIES
-=======
+# Heterochaete ochroceracea P. Roberts SPECIES
 
 #### Status
 ACCEPTED

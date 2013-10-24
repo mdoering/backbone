@@ -1,5 +1,4 @@
-Pestalotia coptospermae Henn. SPECIES
-=======
+# Pestalotia coptospermae Henn. SPECIES
 
 #### Status
 ACCEPTED

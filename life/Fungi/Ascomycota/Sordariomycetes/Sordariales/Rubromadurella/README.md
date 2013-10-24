@@ -1,5 +1,4 @@
-Rubromadurella GENUS
-=======
+# Rubromadurella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlorosplenium aerugineum (Berk.) Sacc. SPECIES
-=======
+# Chlorosplenium aerugineum (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

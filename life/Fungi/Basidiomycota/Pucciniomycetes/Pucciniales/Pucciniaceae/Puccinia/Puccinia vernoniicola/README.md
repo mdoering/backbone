@@ -1,5 +1,4 @@
-Puccinia vernoniicola Henn. SPECIES
-=======
+# Puccinia vernoniicola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea tenayucae B. de Lesd. SPECIES
-=======
+# Lecidea tenayucae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

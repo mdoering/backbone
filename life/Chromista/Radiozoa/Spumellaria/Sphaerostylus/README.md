@@ -1,5 +1,4 @@
-Sphaerostylus Haeckel, 1881 GENUS
-=======
+# Sphaerostylus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

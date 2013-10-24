@@ -1,5 +1,4 @@
-Psilocybe jaliscana Guzmán SPECIES
-=======
+# Psilocybe jaliscana Guzmán SPECIES
 
 #### Status
 ACCEPTED

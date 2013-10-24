@@ -1,5 +1,4 @@
-Puccinia dimorpha P. Syd. & Syd. SPECIES
-=======
+# Puccinia dimorpha P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

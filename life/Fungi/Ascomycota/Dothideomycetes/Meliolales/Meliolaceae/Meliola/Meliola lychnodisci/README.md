@@ -1,5 +1,4 @@
-Meliola lychnodisci Deighton SPECIES
-=======
+# Meliola lychnodisci Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solorinina simensis (Hochst. ex Flot.) Nyl. SPECIES
-=======
+# Solorinina simensis (Hochst. ex Flot.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

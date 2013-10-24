@@ -1,5 +1,4 @@
-Tapesia prolifica Ellis SPECIES
-=======
+# Tapesia prolifica Ellis SPECIES
 
 #### Status
 ACCEPTED

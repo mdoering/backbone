@@ -1,5 +1,4 @@
-Sphaerotheca cayratiae Z.Q. Yuan & A.Q. Wang SPECIES
-=======
+# Sphaerotheca cayratiae Z.Q. Yuan & A.Q. Wang SPECIES
 
 #### Status
 ACCEPTED

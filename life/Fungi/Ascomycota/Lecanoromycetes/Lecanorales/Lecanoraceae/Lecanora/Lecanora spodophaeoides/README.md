@@ -1,5 +1,4 @@
-Lecanora spodophaeoides Nyl. SPECIES
-=======
+# Lecanora spodophaeoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

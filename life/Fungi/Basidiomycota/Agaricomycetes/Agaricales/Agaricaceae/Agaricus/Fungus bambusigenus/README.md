@@ -1,5 +1,4 @@
-Fungus bambusigenus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Fungus bambusigenus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

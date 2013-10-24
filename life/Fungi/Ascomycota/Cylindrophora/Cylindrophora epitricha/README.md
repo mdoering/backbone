@@ -1,5 +1,4 @@
-Cylindrophora epitricha Ramsb. SPECIES
-=======
+# Cylindrophora epitricha Ramsb. SPECIES
 
 #### Status
 ACCEPTED

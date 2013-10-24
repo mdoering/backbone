@@ -1,5 +1,4 @@
-Papillaria di Bari & Rettori, 1997 GENUS
-=======
+# Papillaria di Bari & Rettori, 1997 GENUS
 
 #### Status
 ACCEPTED

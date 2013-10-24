@@ -1,5 +1,4 @@
-Intrapredatorus barri W.J. Chen, T.L. Kuo, S.T. Wu SPECIES
-=======
+# Intrapredatorus barri W.J. Chen, T.L. Kuo, S.T. Wu SPECIES
 
 #### Status
 ACCEPTED

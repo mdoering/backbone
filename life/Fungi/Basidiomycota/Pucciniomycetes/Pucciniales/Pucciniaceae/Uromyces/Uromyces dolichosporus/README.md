@@ -1,14 +1,13 @@
-Argomycetella dolichospora (Dietel & Holw.) Syd., 1922 SPECIES
-=======
+# Uromyces dolichosporus Dietel & Holw., 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 20(3): 124 (1922)
+in Holway, Bot. Gaz. 31: 327 (1901)
 
 #### Original name
 Uromyces dolichosporus Dietel & Holw., 1901

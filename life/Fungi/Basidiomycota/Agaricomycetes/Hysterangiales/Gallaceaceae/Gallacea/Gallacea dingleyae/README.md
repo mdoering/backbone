@@ -1,5 +1,4 @@
-Gallacea dingleyae Castellano & Beever, 1994 SPECIES
-=======
+# Gallacea dingleyae Castellano & Beever, 1994 SPECIES
 
 #### Status
 ACCEPTED

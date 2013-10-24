@@ -1,8 +1,7 @@
-Dasyscypha capillaris (Fr.) Sacc. SPECIES
-=======
+# Dasyscyphus capillaris (Fr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

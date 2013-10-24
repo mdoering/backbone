@@ -1,5 +1,4 @@
-Pistillaria paradoxa (P. Karst.) Corner SPECIES
-=======
+# Pistillaria paradoxa (P. Karst.) Corner SPECIES
 
 #### Status
 ACCEPTED

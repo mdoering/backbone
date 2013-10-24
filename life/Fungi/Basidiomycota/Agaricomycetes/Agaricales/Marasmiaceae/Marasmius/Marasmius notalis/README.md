@@ -1,5 +1,4 @@
-Marasmius notalis Berk. & Broome SPECIES
-=======
+# Marasmius notalis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

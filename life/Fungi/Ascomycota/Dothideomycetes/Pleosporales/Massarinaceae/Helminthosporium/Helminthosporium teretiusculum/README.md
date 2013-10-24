@@ -1,5 +1,4 @@
-Helminthosporium teretiusculum Sacc. & Berl. SPECIES
-=======
+# Helminthosporium teretiusculum Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

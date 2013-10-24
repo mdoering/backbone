@@ -1,5 +1,4 @@
-Lepiota nigropunctata var. nigropunctata VARIETY
-=======
+# Lepiota nigropunctata Dennis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Kew Bull. 466 (1952)
 
 #### Original name
-Lepiota nigropunctata var. nigropunctata
+Lepiota nigropunctata Dennis
 
 ### Remarks
 null

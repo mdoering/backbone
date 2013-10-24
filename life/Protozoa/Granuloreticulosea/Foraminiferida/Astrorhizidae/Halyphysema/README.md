@@ -1,14 +1,13 @@
-Haliphysema Sherborn, 1893 GENUS
-=======
+# Halyphysema Bowerbank, 1862 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Smithson. Misc. Coll. , 37, no. 856, 151.
+Phil. Trans. , London, 152, 1105.
 
 #### Original name
 null

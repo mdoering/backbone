@@ -1,5 +1,4 @@
-Hyalinia flagellispora Raitv. & R. Galán SPECIES
-=======
+# Hyalinia flagellispora Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

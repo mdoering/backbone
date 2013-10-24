@@ -1,5 +1,4 @@
-Menegazzia kawesqarica Bjerke & Elvebakk SPECIES
-=======
+# Menegazzia kawesqarica Bjerke & Elvebakk SPECIES
 
 #### Status
 ACCEPTED

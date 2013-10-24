@@ -1,5 +1,4 @@
-Codonellopsis hainanensis SPECIES
-=======
+# Codonellopsis hainanensis SPECIES
 
 #### Status
 ACCEPTED

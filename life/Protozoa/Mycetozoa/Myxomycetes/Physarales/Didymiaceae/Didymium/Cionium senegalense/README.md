@@ -1,5 +1,4 @@
-Cionium senegalense Spreng. SPECIES
-=======
+# Cionium senegalense Spreng. SPECIES
 
 #### Status
 ACCEPTED

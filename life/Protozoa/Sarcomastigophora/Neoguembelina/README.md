@@ -1,5 +1,4 @@
-Neoguembelina Pandey, 1978 GENUS
-=======
+# Neoguembelina Pandey, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Depazea brunnea Berk. & M.A. Curtis SPECIES
-=======
+# Depazea brunnea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Potebniamyces gallicola A. Funk & R.B. Sm. SPECIES
-=======
+# Potebniamyces gallicola A. Funk & R.B. Sm. SPECIES
 
 #### Status
 ACCEPTED

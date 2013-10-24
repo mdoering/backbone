@@ -1,5 +1,4 @@
-Phoma heteroderae Sen Y. Chen, D.W. Dicks. & Kimbr., 1997 SPECIES
-=======
+# Phoma heteroderae Sen Y. Chen, D.W. Dicks. & Kimbr., 1997 SPECIES
 
 #### Status
 ACCEPTED

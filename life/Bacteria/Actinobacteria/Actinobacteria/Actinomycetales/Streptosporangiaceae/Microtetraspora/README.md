@@ -1,5 +1,4 @@
-Microtetraspora Thiemann, Pagani & Beretta GENUS
-=======
+# Microtetraspora Thiemann, Pagani & Beretta GENUS
 
 #### Status
 ACCEPTED

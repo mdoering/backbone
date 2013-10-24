@@ -1,5 +1,4 @@
-Rhizocarpon schofieldii C.W. Dodge SPECIES
-=======
+# Rhizocarpon schofieldii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Caeoma salicis-miyabeana S. Kaneko & Hirats. f. SPECIES
-=======
+# Caeoma salicis-miyabeanae S. Kaneko & Hirats. f. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hiratsuka & Kaneko, Rep. Tottori Mycol. Inst. 20: 28 (1982)
 
 #### Original name
-Caeoma salicis-miyabeana S. Kaneko & Hirats. f.
+Caeoma salicis-miyabeanae S. Kaneko & Hirats. f.
 
 ### Remarks
 null

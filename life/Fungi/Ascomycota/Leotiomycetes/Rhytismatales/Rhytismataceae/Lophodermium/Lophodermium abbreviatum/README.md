@@ -1,5 +1,4 @@
-Lophodermium abbreviatum Roberge ex Desm. SPECIES
-=======
+# Lophodermium abbreviatum Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

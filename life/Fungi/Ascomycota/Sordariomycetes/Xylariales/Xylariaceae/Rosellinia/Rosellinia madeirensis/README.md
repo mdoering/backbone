@@ -1,5 +1,4 @@
-Rosellinia madeirensis Henn. SPECIES
-=======
+# Rosellinia madeirensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea yasudae Vain. SPECIES
-=======
+# Lecidea yasudae Vain. SPECIES
 
 #### Status
 ACCEPTED

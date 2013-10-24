@@ -1,5 +1,4 @@
-Microsporum pubescens Sabour. SPECIES
-=======
+# Microsporum pubescens Sabour. SPECIES
 
 #### Status
 ACCEPTED

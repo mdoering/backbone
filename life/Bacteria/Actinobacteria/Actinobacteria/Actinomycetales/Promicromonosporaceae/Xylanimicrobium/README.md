@@ -1,5 +1,4 @@
-Xylanimicrobium Stackebrandt & Schumann, 2004 GENUS
-=======
+# Xylanimicrobium Stackebrandt & Schumann, 2004 GENUS
 
 #### Status
 ACCEPTED

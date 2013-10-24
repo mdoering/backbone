@@ -1,5 +1,4 @@
-Phyllerium vitaceum Fr. SPECIES
-=======
+# Phyllerium vitaceum Fr. SPECIES
 
 #### Status
 ACCEPTED

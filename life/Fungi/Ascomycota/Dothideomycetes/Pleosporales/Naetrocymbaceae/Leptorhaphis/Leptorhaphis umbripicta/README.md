@@ -1,5 +1,4 @@
-Leptorhaphis umbripicta (Norman) H. Magn. SPECIES
-=======
+# Leptorhaphis umbripicta (Norman) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

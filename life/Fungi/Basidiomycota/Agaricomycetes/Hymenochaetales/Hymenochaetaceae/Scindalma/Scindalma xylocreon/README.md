@@ -1,5 +1,4 @@
-Scindalma xylocreon (Speg.) Kuntze SPECIES
-=======
+# Scindalma xylocreon (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

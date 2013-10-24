@@ -1,5 +1,4 @@
-Arpinia Berthet GENUS
-=======
+# Arpinia Berthet GENUS
 
 #### Status
 ACCEPTED

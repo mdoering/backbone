@@ -1,17 +1,16 @@
-Didymosphaeria massarioides var. minor Potebnia VARIETY
-=======
+# Didymosphaeria massarioides Speg., 1898 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 5(1): 14 (1907)
+Michelia 2(no. 8): 592 (1882)
 
 #### Original name
-Didymosphaeria massarioides var. minor Potebnia
+Didymosphaeria massarioides Speg., 1898
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Peziza applanata Rabenh. & Gonn. SPECIES
-=======
+# Peziza applanata Rabenh. & Gonn. SPECIES
 
 #### Status
 ACCEPTED

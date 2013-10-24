@@ -1,5 +1,4 @@
-Pachybasidiella microstromoidea Moesz SPECIES
-=======
+# Pachybasidiella microstromoidea Moesz SPECIES
 
 #### Status
 ACCEPTED

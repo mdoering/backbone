@@ -1,5 +1,4 @@
-Ceriospora fusispora (Duby) Sacc. SPECIES
-=======
+# Ceriospora fusispora (Duby) Sacc. SPECIES
 
 #### Status
 ACCEPTED

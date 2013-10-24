@@ -1,5 +1,4 @@
-Mycoplana bullata Gray and Thornton, 1928 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplana bullata Gray and Thornton, 1928 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

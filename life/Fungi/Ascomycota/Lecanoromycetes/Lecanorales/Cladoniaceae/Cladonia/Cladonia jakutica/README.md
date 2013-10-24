@@ -1,5 +1,4 @@
-Cladonia jakutica Ahti SPECIES
-=======
+# Cladonia jakutica Ahti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena fuyoensis S. Imai SPECIES
-=======
+# Mycena fuyoensis S. Imai SPECIES
 
 #### Status
 ACCEPTED

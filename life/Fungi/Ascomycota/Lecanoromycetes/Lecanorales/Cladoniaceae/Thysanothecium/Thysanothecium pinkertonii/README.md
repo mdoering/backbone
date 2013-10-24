@@ -1,5 +1,4 @@
-Thysanothecium pinkertonii SPECIES
-=======
+# Thysanothecium pinkertonii SPECIES
 
 #### Status
 ACCEPTED

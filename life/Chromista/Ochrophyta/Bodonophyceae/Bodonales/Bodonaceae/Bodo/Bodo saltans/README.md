@@ -1,5 +1,4 @@
-Bodo saltans Ehrenberg SPECIES
-=======
+# Bodo saltans Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

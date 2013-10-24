@@ -1,5 +1,4 @@
-Thermoplasmatales ORDER
-=======
+# Thermoplasmatales ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium reyesii Syd. & P. Syd. SPECIES
-=======
+# Aecidium reyesii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

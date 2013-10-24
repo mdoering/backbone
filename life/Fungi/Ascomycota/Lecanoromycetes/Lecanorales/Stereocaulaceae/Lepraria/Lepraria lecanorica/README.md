@@ -1,5 +1,4 @@
-Lepraria lecanorica Tønsberg SPECIES
-=======
+# Lepraria lecanorica Tønsberg SPECIES
 
 #### Status
 ACCEPTED

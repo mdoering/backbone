@@ -1,5 +1,4 @@
-Peziza soucheana (Boud. ex Le Gal) McKnight & Dublin SPECIES
-=======
+# Peziza soucheana (Boud. ex Le Gal) McKnight & Dublin SPECIES
 
 #### Status
 ACCEPTED

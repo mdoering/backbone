@@ -1,5 +1,4 @@
-Mesocena Ehrenberg, 1843 GENUS
-=======
+# Mesocena Ehrenberg, 1843 GENUS
 
 #### Status
 ACCEPTED

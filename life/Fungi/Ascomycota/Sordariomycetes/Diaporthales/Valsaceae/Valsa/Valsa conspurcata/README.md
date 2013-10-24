@@ -1,5 +1,4 @@
-Valsa conspurcata (Schwein.) Cooke SPECIES
-=======
+# Valsa conspurcata (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohagiastrum Pessagno in Pessagno, Finch & Abbott, 1979 GENUS
-=======
+# Pseudohagiastrum Pessagno in Pessagno, Finch & Abbott, 1979 GENUS
 
 #### Status
 ACCEPTED

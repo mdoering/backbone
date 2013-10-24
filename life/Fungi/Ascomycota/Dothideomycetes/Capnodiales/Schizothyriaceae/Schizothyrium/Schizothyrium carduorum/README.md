@@ -1,5 +1,4 @@
-Schizothyrium carduorum Losa SPECIES
-=======
+# Schizothyrium carduorum Losa SPECIES
 
 #### Status
 ACCEPTED

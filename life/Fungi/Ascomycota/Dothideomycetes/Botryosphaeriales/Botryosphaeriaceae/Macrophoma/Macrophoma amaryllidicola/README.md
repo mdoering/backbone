@@ -1,5 +1,4 @@
-Macrophoma amaryllidicola N.D. Sharma SPECIES
-=======
+# Macrophoma amaryllidicola N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

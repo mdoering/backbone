@@ -1,5 +1,4 @@
-Leptocylindrus curvatus Skvortzov SPECIES
-=======
+# Leptocylindrus curvatus Skvortzov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia sesamina Sacc. SPECIES
-=======
+# Vermicularia sesamina Sacc. SPECIES
 
 #### Status
 ACCEPTED

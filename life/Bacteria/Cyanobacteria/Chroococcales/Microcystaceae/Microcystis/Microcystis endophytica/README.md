@@ -1,5 +1,4 @@
-Microcystis endophytica (G.M. Smith) Elenkin SPECIES
-=======
+# Microcystis endophytica (G.M. Smith) Elenkin SPECIES
 
 #### Status
 ACCEPTED

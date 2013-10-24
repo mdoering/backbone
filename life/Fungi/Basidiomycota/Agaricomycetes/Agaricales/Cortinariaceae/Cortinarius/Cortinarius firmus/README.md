@@ -1,5 +1,4 @@
-Cortinarius firmus var. firmus VARIETY
-=======
+# Cortinarius firmus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 964 (1838)
 
 #### Original name
-Cortinarius firmus var. firmus
+Cortinarius firmus Fr.
 
 ### Remarks
 null

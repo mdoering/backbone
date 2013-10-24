@@ -1,5 +1,4 @@
-Puccinia echinopteridis Holw. SPECIES
-=======
+# Puccinia echinopteridis Holw. SPECIES
 
 #### Status
 ACCEPTED

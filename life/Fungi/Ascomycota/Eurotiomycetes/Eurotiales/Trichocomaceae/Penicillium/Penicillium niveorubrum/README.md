@@ -1,5 +1,4 @@
-Penicillium niveorubrum Sopp SPECIES
-=======
+# Penicillium niveorubrum Sopp SPECIES
 
 #### Status
 ACCEPTED

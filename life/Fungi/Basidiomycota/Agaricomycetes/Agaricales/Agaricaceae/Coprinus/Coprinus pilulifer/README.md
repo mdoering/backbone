@@ -1,5 +1,4 @@
-Coprinus pilulifer Mont. SPECIES
-=======
+# Coprinus pilulifer Mont. SPECIES
 
 #### Status
 ACCEPTED

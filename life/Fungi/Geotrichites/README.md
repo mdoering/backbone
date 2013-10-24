@@ -1,5 +1,4 @@
-Geotrichites Stubblef., C.E. Mill., T.N. Taylor & G.T. Cole GENUS
-=======
+# Geotrichites Stubblef., C.E. Mill., T.N. Taylor & G.T. Cole GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena lepiotiformis Murrill SPECIES
-=======
+# Mycena lepiotiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

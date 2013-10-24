@@ -1,14 +1,13 @@
-Empusa lageniformis Thaxt., 1888 SPECIES
-=======
+# Neozygites lageniformis (Thaxt.) Remaud. & S. Keller, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Memoirs of the Boston Soc. Nat. Hist. 4(6): 169 (1888)
+Mycotaxon 11(1): 332 (1980)
 
 #### Original name
 Empusa lageniformis Thaxt., 1888

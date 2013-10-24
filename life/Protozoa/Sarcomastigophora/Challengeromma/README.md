@@ -1,5 +1,4 @@
-Challengeromma Haeckel, 1887 GENUS
-=======
+# Challengeromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

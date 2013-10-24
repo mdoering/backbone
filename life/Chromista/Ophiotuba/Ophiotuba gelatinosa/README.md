@@ -1,5 +1,4 @@
-Ophiotuba gelatinosa Rhumbler, 1894 SPECIES
-=======
+# Ophiotuba gelatinosa Rhumbler, 1894 SPECIES
 
 #### Status
 ACCEPTED

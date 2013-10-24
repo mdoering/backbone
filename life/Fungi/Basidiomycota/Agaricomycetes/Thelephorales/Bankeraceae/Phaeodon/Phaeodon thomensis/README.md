@@ -1,5 +1,4 @@
-Phaeodon thomensis Cout. SPECIES
-=======
+# Phaeodon thomensis Cout. SPECIES
 
 #### Status
 ACCEPTED

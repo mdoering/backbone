@@ -1,5 +1,4 @@
-Asteridiella hypelates Hansf. SPECIES
-=======
+# Asteridiella hypelates Hansf. SPECIES
 
 #### Status
 ACCEPTED

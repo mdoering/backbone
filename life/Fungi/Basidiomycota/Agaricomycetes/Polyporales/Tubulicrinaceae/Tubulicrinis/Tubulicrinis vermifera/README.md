@@ -1,5 +1,4 @@
-Tubulicrinis vermifera Paulet SPECIES
-=======
+# Tubulicrinis vermifera Paulet SPECIES
 
 #### Status
 ACCEPTED

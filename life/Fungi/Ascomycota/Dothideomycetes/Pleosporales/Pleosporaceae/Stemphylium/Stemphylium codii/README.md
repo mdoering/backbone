@@ -1,5 +1,4 @@
-Stemphylium codii Zeller SPECIES
-=======
+# Stemphylium codii Zeller SPECIES
 
 #### Status
 ACCEPTED

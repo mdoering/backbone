@@ -1,5 +1,4 @@
-Hendersonula monochaetiellae Tommerup & Langdon SPECIES
-=======
+# Hendersonula monochaetiellae Tommerup & Langdon SPECIES
 
 #### Status
 ACCEPTED

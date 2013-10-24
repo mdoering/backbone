@@ -1,5 +1,4 @@
-Phoma corticicola Preuss SPECIES
-=======
+# Phoma corticicola Preuss SPECIES
 
 #### Status
 ACCEPTED

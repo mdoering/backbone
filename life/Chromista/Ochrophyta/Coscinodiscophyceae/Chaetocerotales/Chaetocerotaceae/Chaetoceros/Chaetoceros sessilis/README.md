@@ -1,5 +1,4 @@
-Chaetoceros sessilis Grøntveld, 1951 SPECIES
-=======
+# Chaetoceros sessilis Grøntveld, 1951 SPECIES
 
 #### Status
 ACCEPTED

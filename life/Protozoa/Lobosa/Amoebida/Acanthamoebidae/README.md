@@ -1,5 +1,4 @@
-Acanthamoebidae FAMILY
-=======
+# Acanthamoebidae FAMILY
 
 #### Status
 ACCEPTED

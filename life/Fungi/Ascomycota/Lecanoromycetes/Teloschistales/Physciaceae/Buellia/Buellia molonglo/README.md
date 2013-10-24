@@ -1,5 +1,4 @@
-Buellia molonglo U. Grube & Elix SPECIES
-=======
+# Buellia molonglo U. Grube & Elix SPECIES
 
 #### Status
 ACCEPTED

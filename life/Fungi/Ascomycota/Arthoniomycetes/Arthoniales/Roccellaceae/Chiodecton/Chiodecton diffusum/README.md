@@ -1,5 +1,4 @@
-Chiodecton diffusum (Nyl.) Zahlbr. SPECIES
-=======
+# Chiodecton diffusum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

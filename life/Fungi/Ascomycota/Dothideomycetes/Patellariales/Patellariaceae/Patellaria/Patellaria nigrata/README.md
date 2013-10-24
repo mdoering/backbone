@@ -1,5 +1,4 @@
-Patellaria nigrata Müll. Arg. SPECIES
-=======
+# Patellaria nigrata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

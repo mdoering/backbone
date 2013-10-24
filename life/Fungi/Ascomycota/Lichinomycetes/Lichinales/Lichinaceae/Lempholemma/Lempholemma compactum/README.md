@@ -1,14 +1,13 @@
-Physma compactum (Wallr.) A. Massal. SPECIES
-=======
+# Lempholemma compactum (Wallr.) Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) (1855)
 
 #### Original name
 Parmelia compacta Wallr.

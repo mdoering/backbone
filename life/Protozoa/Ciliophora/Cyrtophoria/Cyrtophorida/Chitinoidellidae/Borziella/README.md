@@ -1,5 +1,4 @@
-Borziella Pop, 1997 GENUS
-=======
+# Borziella Pop, 1997 GENUS
 
 #### Status
 ACCEPTED

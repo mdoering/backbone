@@ -1,17 +1,16 @@
-Hymenoscyphus subcomplicatum K.S. Thind & H. Singh SPECIES
-=======
+# Hymenoscyphus subcomplicatus K.S. Thind & H. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Indian bot. Soc. 50(3): 228 (1971)
 
 #### Original name
-Hymenoscyphus subcomplicatum K.S. Thind & H. Singh
+Hymenoscyphus subcomplicatus K.S. Thind & H. Singh
 
 ### Remarks
 null

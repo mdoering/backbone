@@ -1,5 +1,4 @@
-Didymella ailanthina Tognini SPECIES
-=======
+# Didymella ailanthina Tognini SPECIES
 
 #### Status
 ACCEPTED

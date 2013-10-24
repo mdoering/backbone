@@ -1,5 +1,4 @@
-Scenidium macrotremum (Jungh.) Kuntze SPECIES
-=======
+# Scenidium macrotremum (Jungh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

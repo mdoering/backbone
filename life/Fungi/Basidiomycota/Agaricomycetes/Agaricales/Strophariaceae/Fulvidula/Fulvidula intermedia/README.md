@@ -1,5 +1,4 @@
-Fulvidula intermedia (Singer) Singer SPECIES
-=======
+# Fulvidula intermedia (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

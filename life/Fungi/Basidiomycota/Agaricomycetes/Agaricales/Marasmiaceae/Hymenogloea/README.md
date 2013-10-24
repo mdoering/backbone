@@ -1,17 +1,16 @@
-Libellus Lloyd GENUS
-=======
+# Hymenogloea Pat. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 4(Lett. No. 45): 6 (1913)
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 146 (1900)
 
 #### Original name
-Libellus Lloyd
+Hymenogloea Pat.
 
 ### Remarks
 null

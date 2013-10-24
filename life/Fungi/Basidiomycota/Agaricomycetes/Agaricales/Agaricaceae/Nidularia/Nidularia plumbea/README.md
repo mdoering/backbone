@@ -1,5 +1,4 @@
-Nidularia plumbea Pers. SPECIES
-=======
+# Nidularia plumbea Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thelactis coccinea H. Mart. SPECIES
-=======
+# Thelactis coccineus H. Mart. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Acta Acad. Leop. Carol. Ac. Naturf. Fo. 10: 509 (1817)
 
 #### Original name
-Thelactis coccinea H. Mart.
+Thelactis coccineus H. Mart.
 
 ### Remarks
 null

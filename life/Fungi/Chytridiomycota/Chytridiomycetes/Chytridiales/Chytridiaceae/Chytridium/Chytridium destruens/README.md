@@ -1,5 +1,4 @@
-Chytridium destruens Nowak. SPECIES
-=======
+# Chytridium destruens Nowak. SPECIES
 
 #### Status
 ACCEPTED

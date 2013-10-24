@@ -1,5 +1,4 @@
-Cortinarius magus Moënne-Locc. SPECIES
-=======
+# Cortinarius magus Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

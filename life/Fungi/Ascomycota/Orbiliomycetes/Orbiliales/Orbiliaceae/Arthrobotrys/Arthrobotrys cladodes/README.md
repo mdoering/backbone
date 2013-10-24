@@ -1,5 +1,4 @@
-Arthrobotrys cladodes var. cladodes Drechsler, 1937 VARIETY
-=======
+# Arthrobotrys cladodes Drechsler SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycologia 29(4): 463 (1937)
 
 #### Original name
-Arthrobotrys cladodes var. cladodes Drechsler, 1937
+Arthrobotrys cladodes Drechsler
 
 ### Remarks
 null

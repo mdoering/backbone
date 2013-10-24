@@ -1,5 +1,4 @@
-Mycoplasma elephantis Kirchhoff et al., 1996 SPECIES
-=======
+# Mycoplasma elephantis Kirchhoff et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

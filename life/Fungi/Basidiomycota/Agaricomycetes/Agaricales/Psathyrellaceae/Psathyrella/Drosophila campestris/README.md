@@ -1,5 +1,4 @@
-Drosophila campestris anon. SPECIES
-=======
+# Drosophila campestris anon. SPECIES
 
 #### Status
 ACCEPTED

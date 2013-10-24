@@ -1,5 +1,4 @@
-Pleurocapsa varia (A. Braun) Drouet & Daily SPECIES
-=======
+# Pleurocapsa varia (A. Braun) Drouet & Daily SPECIES
 
 #### Status
 ACCEPTED

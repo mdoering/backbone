@@ -1,5 +1,4 @@
-Desmotascus cinnamomi Petch SPECIES
-=======
+# Desmotascus cinnamomi Petch SPECIES
 
 #### Status
 ACCEPTED

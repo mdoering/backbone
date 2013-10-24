@@ -1,5 +1,4 @@
-Protopistillaria GENUS
-=======
+# Protopistillaria GENUS
 
 #### Status
 ACCEPTED

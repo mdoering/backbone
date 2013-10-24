@@ -1,5 +1,4 @@
-Agaricus lemniscus Pers. SPECIES
-=======
+# Agaricus lemniscus Pers. SPECIES
 
 #### Status
 ACCEPTED

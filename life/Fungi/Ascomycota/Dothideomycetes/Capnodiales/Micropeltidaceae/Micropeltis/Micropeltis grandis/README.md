@@ -1,5 +1,4 @@
-Micropeltis grandis Bat. & Peres SPECIES
-=======
+# Micropeltis grandis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

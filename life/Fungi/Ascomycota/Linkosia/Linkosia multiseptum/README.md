@@ -1,5 +1,4 @@
-Linkosia multiseptum W.P. Wu SPECIES
-=======
+# Linkosia multiseptum W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

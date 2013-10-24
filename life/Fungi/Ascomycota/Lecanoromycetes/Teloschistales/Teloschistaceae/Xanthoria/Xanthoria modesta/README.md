@@ -1,5 +1,4 @@
-Xanthoria modesta Zahlbr. SPECIES
-=======
+# Xanthoria modesta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

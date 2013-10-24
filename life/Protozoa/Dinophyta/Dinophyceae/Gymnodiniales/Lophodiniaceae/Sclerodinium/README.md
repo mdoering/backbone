@@ -1,5 +1,4 @@
-Sclerodinium Dodge, 1982 GENUS
-=======
+# Sclerodinium Dodge, 1982 GENUS
 
 #### Status
 ACCEPTED

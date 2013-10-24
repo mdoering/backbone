@@ -1,11 +1,10 @@
-Elphidium magellanicum Heron-Allen & Earland, 1932 SPECIES
-=======
+# Cribroelphidium magellanicum Heron-Allen & Earland, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null

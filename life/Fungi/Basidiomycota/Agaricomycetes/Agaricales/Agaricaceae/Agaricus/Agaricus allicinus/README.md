@@ -1,5 +1,4 @@
-Agaricus allicinus Schumach. SPECIES
-=======
+# Agaricus allicinus Schumach. SPECIES
 
 #### Status
 ACCEPTED

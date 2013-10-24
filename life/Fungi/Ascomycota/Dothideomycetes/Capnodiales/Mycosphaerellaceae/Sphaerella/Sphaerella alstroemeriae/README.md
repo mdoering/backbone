@@ -1,5 +1,4 @@
-Sphaerella alstroemeriae Speg. SPECIES
-=======
+# Sphaerella alstroemeriae Speg. SPECIES
 
 #### Status
 ACCEPTED

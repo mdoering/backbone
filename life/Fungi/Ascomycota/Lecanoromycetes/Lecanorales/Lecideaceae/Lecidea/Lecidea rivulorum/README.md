@@ -1,5 +1,4 @@
-Lecidea rivulorum H. Magn. SPECIES
-=======
+# Lecidea rivulorum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

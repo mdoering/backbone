@@ -1,5 +1,4 @@
-Nectria tetraspora Pat. SPECIES
-=======
+# Nectria tetraspora Pat. SPECIES
 
 #### Status
 ACCEPTED

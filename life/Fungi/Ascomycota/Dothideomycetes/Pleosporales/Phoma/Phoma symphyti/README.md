@@ -1,5 +1,4 @@
-Phoma symphyti Hollós SPECIES
-=======
+# Phoma symphyti Hollós SPECIES
 
 #### Status
 ACCEPTED

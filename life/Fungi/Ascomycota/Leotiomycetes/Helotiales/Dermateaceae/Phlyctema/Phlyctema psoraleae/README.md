@@ -1,5 +1,4 @@
-Phlyctema psoraleae (Castagne) P. Karst. & Har. SPECIES
-=======
+# Phlyctema psoraleae (Castagne) P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

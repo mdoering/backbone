@@ -1,5 +1,4 @@
-Mycosphaerella pittieri Syd., 1930 SPECIES
-=======
+# Mycosphaerella pittieri Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

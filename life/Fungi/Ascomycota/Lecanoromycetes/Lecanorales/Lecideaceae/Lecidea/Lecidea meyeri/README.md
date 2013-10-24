@@ -1,5 +1,4 @@
-Lecidea meyeri (J. Stein) Stizenb. SPECIES
-=======
+# Lecidea meyeri (J. Stein) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

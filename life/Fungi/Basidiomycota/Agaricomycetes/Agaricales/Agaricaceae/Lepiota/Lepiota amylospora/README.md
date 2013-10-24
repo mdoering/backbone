@@ -1,5 +1,4 @@
-Lepiota amylospora Malençon SPECIES
-=======
+# Lepiota amylospora Malençon SPECIES
 
 #### Status
 ACCEPTED

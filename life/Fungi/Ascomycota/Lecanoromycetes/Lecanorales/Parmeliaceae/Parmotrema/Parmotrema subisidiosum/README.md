@@ -1,5 +1,4 @@
-Parmotrema subisidiosum (Müll. Arg.) Hale SPECIES
-=======
+# Parmotrema subisidiosum (Müll. Arg.) Hale SPECIES
 
 #### Status
 ACCEPTED

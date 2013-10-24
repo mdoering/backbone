@@ -1,5 +1,4 @@
-Gloeopeniophora croceotestacea Rick SPECIES
-=======
+# Gloeopeniophora croceotestacea Rick SPECIES
 
 #### Status
 ACCEPTED

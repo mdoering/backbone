@@ -1,5 +1,4 @@
-Sporotrichum macularum Link SPECIES
-=======
+# Sporotrichum macularum Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ascochyta solidaginum (Schwein.) Starbäck SPECIES
-=======
+# Phyllachora solidaginum (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 614 (1883)
 
 #### Original name
 Sphaeria solidaginum Schwein., 1832

@@ -1,5 +1,4 @@
-Phyllostictella orbicula (Ellis & Everh.) Tassi SPECIES
-=======
+# Phyllostictella orbicula (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

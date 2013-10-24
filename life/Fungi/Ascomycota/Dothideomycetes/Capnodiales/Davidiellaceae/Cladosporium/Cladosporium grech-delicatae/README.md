@@ -1,5 +1,4 @@
-Cladosporium grech-delicatae Sacc. SPECIES
-=======
+# Cladosporium grech-delicatae Sacc. SPECIES
 
 #### Status
 ACCEPTED

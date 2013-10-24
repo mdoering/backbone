@@ -1,5 +1,4 @@
-Hydnum schizodon Lév. SPECIES
-=======
+# Hydnum schizodon Lév. SPECIES
 
 #### Status
 ACCEPTED

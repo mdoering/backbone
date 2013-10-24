@@ -1,5 +1,4 @@
-Conocybe brunneidisca (Murrill) Hauskn. SPECIES
-=======
+# Conocybe brunneidisca (Murrill) Hauskn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulbothrix leprieurii Aubel SPECIES
-=======
+# Bulbothrix leprieurii Aubel SPECIES
 
 #### Status
 ACCEPTED

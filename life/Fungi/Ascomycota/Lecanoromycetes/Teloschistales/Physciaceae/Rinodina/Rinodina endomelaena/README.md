@@ -1,5 +1,4 @@
-Rinodina endomelaena SPECIES
-=======
+# Rinodina endomelaena SPECIES
 
 #### Status
 ACCEPTED

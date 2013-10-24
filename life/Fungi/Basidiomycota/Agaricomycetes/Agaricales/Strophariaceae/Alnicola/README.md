@@ -1,5 +1,4 @@
-Alnicola (Kühner) R. Heim, 1931 GENUS
-=======
+# Alnicola (Kühner) R. Heim, 1931 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endoceratium T.F. Vozzhennikova, 1965 GENUS
-=======
+# Endoceratium T.F. Vozzhennikova, 1965 GENUS
 
 #### Status
 ACCEPTED

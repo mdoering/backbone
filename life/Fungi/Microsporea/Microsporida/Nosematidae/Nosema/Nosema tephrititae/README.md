@@ -1,5 +1,4 @@
-Nosema tephrititae SPECIES
-=======
+# Nosema tephrititae SPECIES
 
 #### Status
 ACCEPTED

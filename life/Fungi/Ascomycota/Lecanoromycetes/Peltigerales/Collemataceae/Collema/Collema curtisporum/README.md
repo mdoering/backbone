@@ -1,5 +1,4 @@
-Collema curtisporum Degel. SPECIES
-=======
+# Collema curtisporum Degel. SPECIES
 
 #### Status
 ACCEPTED

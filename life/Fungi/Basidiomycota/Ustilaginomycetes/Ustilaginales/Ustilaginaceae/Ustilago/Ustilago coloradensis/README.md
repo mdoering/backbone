@@ -1,5 +1,4 @@
-Ustilago coloradensis Zundel SPECIES
-=======
+# Ustilago coloradensis Zundel SPECIES
 
 #### Status
 ACCEPTED

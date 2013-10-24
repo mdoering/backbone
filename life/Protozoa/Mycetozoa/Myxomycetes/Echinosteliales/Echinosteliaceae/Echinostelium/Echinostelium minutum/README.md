@@ -1,17 +1,16 @@
-Heimerleia hyalina Höhn., 1903 SPECIES
-=======
+# Echinostelium minutum de Bary, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rostafinski, Vers. Syst. Mycetozoen (Strassburg) 7 (1873)
 
 #### Original name
-null
+Echinostelium minutum de Bary, 1874
 
 ### Remarks
 null

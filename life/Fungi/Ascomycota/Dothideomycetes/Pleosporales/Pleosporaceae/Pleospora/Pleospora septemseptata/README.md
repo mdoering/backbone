@@ -1,5 +1,4 @@
-Pleospora septemseptata (Auersw.) Sacc. SPECIES
-=======
+# Pleospora septemseptata (Auersw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

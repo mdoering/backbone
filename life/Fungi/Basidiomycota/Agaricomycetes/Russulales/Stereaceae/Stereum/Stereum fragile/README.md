@@ -1,5 +1,4 @@
-Stereum fragile Pat. SPECIES
-=======
+# Stereum fragile Pat. SPECIES
 
 #### Status
 ACCEPTED

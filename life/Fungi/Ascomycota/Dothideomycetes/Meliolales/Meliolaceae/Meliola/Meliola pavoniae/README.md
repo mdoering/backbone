@@ -1,5 +1,4 @@
-Meliola pavoniae Cif. SPECIES
-=======
+# Meliola pavoniae Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria cannae (Speg.) Sacc. & Trotter SPECIES
-=======
+# Nectria cannae (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

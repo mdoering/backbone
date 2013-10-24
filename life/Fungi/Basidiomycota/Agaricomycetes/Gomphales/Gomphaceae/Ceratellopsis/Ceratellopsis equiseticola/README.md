@@ -1,14 +1,13 @@
-Pistillaria equiseticola Boud., 1917 SPECIES
-=======
+# Ceratellopsis equiseticola (Boud.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 13: (1917)
+Ann. Bot. Mem. 1: 203 (1950)
 
 #### Original name
 Pistillaria equiseticola Boud., 1917

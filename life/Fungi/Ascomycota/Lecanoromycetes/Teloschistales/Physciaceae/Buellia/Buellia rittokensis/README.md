@@ -1,5 +1,4 @@
-Buellia rittokensis Hellb. SPECIES
-=======
+# Buellia rittokensis Hellb. SPECIES
 
 #### Status
 ACCEPTED

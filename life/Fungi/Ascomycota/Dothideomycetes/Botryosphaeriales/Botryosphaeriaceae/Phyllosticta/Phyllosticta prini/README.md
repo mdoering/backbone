@@ -1,5 +1,4 @@
-Phyllosticta prini Peck SPECIES
-=======
+# Phyllosticta prini Peck SPECIES
 
 #### Status
 ACCEPTED

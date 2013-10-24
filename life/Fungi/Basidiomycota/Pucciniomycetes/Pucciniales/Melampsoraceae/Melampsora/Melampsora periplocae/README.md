@@ -1,5 +1,4 @@
-Melampsora periplocae T. Miyake SPECIES
-=======
+# Melampsora periplocae T. Miyake SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poliomella GENUS
-=======
+# Poliomella GENUS
 
 #### Status
 ACCEPTED

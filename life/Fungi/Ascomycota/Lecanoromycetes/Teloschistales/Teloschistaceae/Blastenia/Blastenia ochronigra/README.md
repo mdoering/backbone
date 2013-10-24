@@ -1,5 +1,4 @@
-Blastenia ochronigra (J. Steiner) Zahlbr. SPECIES
-=======
+# Blastenia ochronigra (J. Steiner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

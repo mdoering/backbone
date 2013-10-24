@@ -1,5 +1,4 @@
-Polyblastia interponens (Nyl.) Müll. Arg. SPECIES
-=======
+# Polyblastia interponens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichaegum Corda GENUS
-=======
+# Trichaegum Corda GENUS
 
 #### Status
 ACCEPTED

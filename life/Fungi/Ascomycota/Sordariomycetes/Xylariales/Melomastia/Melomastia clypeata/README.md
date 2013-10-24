@@ -1,5 +1,4 @@
-Melomastia clypeata Petr. SPECIES
-=======
+# Melomastia clypeata Petr. SPECIES
 
 #### Status
 ACCEPTED

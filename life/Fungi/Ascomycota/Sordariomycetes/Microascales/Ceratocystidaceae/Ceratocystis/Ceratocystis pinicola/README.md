@@ -1,5 +1,4 @@
-Ceratocystis pinicola T.C. Harr. & M.J. Wingf., 1999 SPECIES
-=======
+# Ceratocystis pinicola T.C. Harr. & M.J. Wingf., 1999 SPECIES
 
 #### Status
 ACCEPTED

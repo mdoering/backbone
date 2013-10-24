@@ -1,5 +1,4 @@
-Coniothyrium protearum Joanne E. Taylor & Crous SPECIES
-=======
+# Coniothyrium protearum Joanne E. Taylor & Crous SPECIES
 
 #### Status
 ACCEPTED

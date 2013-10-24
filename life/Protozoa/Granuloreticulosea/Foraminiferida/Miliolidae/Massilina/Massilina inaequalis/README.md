@@ -1,5 +1,4 @@
-Massilina inaequalis Cushman & Todd SPECIES
-=======
+# Massilina inaequalis Cushman & Todd SPECIES
 
 #### Status
 ACCEPTED

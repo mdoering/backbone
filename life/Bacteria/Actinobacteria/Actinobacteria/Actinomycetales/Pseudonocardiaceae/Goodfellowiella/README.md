@@ -1,5 +1,4 @@
-Goodfellowiella Labeda et al., 2008 GENUS
-=======
+# Goodfellowiella Labeda et al., 2008 GENUS
 
 #### Status
 ACCEPTED

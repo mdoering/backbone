@@ -1,5 +1,4 @@
-Bacidia subinundata (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Bacidia subinundata (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

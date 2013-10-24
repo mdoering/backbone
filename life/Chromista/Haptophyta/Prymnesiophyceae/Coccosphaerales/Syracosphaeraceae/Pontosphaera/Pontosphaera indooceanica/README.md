@@ -1,5 +1,4 @@
-Pontosphaera indooceanica Cepek, 1973 SPECIES
-=======
+# Pontosphaera indooceanica Cepek, 1973 SPECIES
 
 #### Status
 ACCEPTED

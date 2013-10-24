@@ -1,5 +1,4 @@
-Puccinia terrieri Gäum. SPECIES
-=======
+# Puccinia terrieri Gäum. SPECIES
 
 #### Status
 ACCEPTED

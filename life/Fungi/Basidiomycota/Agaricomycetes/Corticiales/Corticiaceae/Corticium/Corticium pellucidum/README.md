@@ -1,5 +1,4 @@
-Corticium pellucidum Pat. SPECIES
-=======
+# Corticium pellucidum Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon globosum Lév. SPECIES
-=======
+# Hypoxylon globosum Lév. SPECIES
 
 #### Status
 ACCEPTED

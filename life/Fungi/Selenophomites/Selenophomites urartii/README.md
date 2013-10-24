@@ -1,5 +1,4 @@
-Selenophomites urartii Babajan & Tasl. SPECIES
-=======
+# Selenophomites urartii Babajan & Tasl. SPECIES
 
 #### Status
 ACCEPTED

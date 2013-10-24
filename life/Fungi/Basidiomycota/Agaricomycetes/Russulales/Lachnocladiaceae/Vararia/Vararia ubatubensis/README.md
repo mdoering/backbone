@@ -1,14 +1,13 @@
-Asterostromella ubatubensis Viégas, 1945 SPECIES
-=======
+# Vararia ubatubensis (Viégas) Boidin & Lanq., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bragantia 5: 257 (1945)
+Mycotaxon 6(2): 324 (1977)
 
 #### Original name
 Asterostromella ubatubensis Viégas, 1945

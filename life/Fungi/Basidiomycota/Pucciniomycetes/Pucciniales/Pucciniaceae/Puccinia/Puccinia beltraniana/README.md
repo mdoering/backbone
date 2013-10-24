@@ -1,5 +1,4 @@
-Puccinia beltraniana Thüm. SPECIES
-=======
+# Puccinia beltraniana Thüm. SPECIES
 
 #### Status
 ACCEPTED

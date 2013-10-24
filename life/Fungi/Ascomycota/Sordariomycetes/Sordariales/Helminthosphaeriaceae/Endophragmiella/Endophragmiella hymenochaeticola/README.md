@@ -1,5 +1,4 @@
-Endophragmiella hymenochaeticola S. Hughes SPECIES
-=======
+# Endophragmiella hymenochaeticola S. Hughes SPECIES
 
 #### Status
 ACCEPTED

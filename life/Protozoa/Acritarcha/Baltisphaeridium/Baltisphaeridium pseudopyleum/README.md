@@ -1,5 +1,4 @@
-Baltisphaeridium pseudopyleum Colbath, 1979 SPECIES
-=======
+# Baltisphaeridium pseudopyleum Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

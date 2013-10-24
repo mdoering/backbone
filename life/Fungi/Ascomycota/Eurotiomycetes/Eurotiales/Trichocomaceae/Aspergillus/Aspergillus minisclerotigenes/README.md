@@ -1,5 +1,4 @@
-Aspergillus minisclerotigenes Vaamonde, Frisvad & Samson SPECIES
-=======
+# Aspergillus minisclerotigenes Vaamonde, Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula maculosa Murrill SPECIES
-=======
+# Russula maculosa Murrill SPECIES
 
 #### Status
 ACCEPTED

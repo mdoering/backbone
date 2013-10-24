@@ -1,5 +1,4 @@
-Asteroporum minimum Müll. Arg. SPECIES
-=======
+# Asteroporum minimum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

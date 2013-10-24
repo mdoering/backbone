@@ -1,5 +1,4 @@
-Dimeriella claviseta Doidge SPECIES
-=======
+# Dimeriella claviseta Doidge SPECIES
 
 #### Status
 ACCEPTED

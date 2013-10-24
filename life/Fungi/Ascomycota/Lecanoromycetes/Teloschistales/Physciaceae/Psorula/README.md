@@ -1,5 +1,4 @@
-Psorula Gotth. Schneider, 1980 GENUS
-=======
+# Psorula Gotth. Schneider, 1980 GENUS
 
 #### Status
 ACCEPTED

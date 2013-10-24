@@ -1,5 +1,4 @@
-Gloeomucro luteodiscus R.H. Petersen, 1985 SPECIES
-=======
+# Gloeomucro luteodiscus R.H. Petersen, 1985 SPECIES
 
 #### Status
 ACCEPTED

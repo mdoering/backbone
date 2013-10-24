@@ -1,17 +1,16 @@
-Phellinus nigrolimitatus f. nigrolimitatus FORM
-=======
+# Phellopilus nigrolimitatus (Romell) Niemelä, T. Wagner & M. Fisch., 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 41: 193 (1925)
+in Niemelä, Wagner, Fischer & Dai, Ann. bot. fenn. 38(1): 54 (2001)
 
 #### Original name
-Phellinus nigrolimitatus f. nigrolimitatus
+Polyporus nigrolimitatus Romell, 1911
 
 ### Remarks
 null

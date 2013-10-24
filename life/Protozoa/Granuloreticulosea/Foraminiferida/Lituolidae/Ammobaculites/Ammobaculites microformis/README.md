@@ -1,5 +1,4 @@
-Ammobaculites microformis Saidova, 1970 SPECIES
-=======
+# Ammobaculites microformis Saidova, 1970 SPECIES
 
 #### Status
 ACCEPTED

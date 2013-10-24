@@ -1,5 +1,4 @@
-Sphaerella manihotis Syd. SPECIES
-=======
+# Sphaerella manihotis Syd. SPECIES
 
 #### Status
 ACCEPTED

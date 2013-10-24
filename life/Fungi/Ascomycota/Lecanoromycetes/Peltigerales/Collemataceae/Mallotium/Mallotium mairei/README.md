@@ -1,5 +1,4 @@
-Mallotium mairei Werner & M. Choisy SPECIES
-=======
+# Mallotium mairei Werner & M. Choisy SPECIES
 
 #### Status
 ACCEPTED

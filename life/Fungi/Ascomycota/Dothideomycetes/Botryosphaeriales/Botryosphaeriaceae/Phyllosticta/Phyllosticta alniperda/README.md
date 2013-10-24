@@ -1,5 +1,4 @@
-Phyllosticta alniperda Oudem. SPECIES
-=======
+# Phyllosticta alniperda Oudem. SPECIES
 
 #### Status
 ACCEPTED

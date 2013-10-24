@@ -1,5 +1,4 @@
-Biddulphia ruthenica Witt. SPECIES
-=======
+# Biddulphia ruthenica Witt. SPECIES
 
 #### Status
 ACCEPTED

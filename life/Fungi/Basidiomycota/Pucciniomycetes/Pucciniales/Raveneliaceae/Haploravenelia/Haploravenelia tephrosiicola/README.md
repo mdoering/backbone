@@ -1,5 +1,4 @@
-Haploravenelia tephrosiicola (Hirats. f.) S. Ito SPECIES
-=======
+# Haploravenelia tephrosiicola (Hirats. f.) S. Ito SPECIES
 
 #### Status
 ACCEPTED

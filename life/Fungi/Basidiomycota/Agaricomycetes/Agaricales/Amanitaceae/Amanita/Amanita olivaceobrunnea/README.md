@@ -1,5 +1,4 @@
-Amanita olivaceobrunnea Hanzha & Besedina SPECIES
-=======
+# Amanita olivaceobrunnea Hanzha & Besedina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora floccosa Wallr. SPECIES
-=======
+# Cytospora floccosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

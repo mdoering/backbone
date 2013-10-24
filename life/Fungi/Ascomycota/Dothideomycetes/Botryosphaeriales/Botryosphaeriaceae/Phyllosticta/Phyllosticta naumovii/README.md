@@ -1,5 +1,4 @@
-Phyllosticta naumovii Gucevic SPECIES
-=======
+# Phyllosticta naumovii Gucevic SPECIES
 
 #### Status
 ACCEPTED

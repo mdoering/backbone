@@ -1,5 +1,4 @@
-Psychrobacter fulvigenes Romanenko, Tanaka, Frolova & Mikhailov, 2009 SPECIES
-=======
+# Psychrobacter fulvigenes Romanenko, Tanaka, Frolova & Mikhailov, 2009 SPECIES
 
 #### Status
 ACCEPTED

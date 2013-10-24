@@ -1,5 +1,4 @@
-Lecanora apagea Nyl. SPECIES
-=======
+# Lecanora apagea Nyl. SPECIES
 
 #### Status
 ACCEPTED

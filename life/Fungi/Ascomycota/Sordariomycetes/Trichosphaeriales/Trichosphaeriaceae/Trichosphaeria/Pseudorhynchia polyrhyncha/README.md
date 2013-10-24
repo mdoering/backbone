@@ -1,5 +1,4 @@
-Pseudorhynchia polyrhyncha (Penz. & Sacc.) Höhn. SPECIES
-=======
+# Pseudorhynchia polyrhyncha (Penz. & Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

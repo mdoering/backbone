@@ -1,5 +1,4 @@
-Arthonia cyanea var. cyanea VARIETY
-=======
+# Arthonia cyanea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Flora, Jena 64: 233 (1881)
 
 #### Original name
-Arthonia cyanea var. cyanea
+Arthonia cyanea Müll. Arg.
 
 ### Remarks
 null

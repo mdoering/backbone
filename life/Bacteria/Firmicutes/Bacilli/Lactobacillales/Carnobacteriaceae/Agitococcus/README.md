@@ -1,5 +1,4 @@
-Agitococcus Franzmann & Skerman, 1981 GENUS
-=======
+# Agitococcus Franzmann & Skerman, 1981 GENUS
 
 #### Status
 ACCEPTED

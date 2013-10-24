@@ -1,5 +1,4 @@
-Urocystis tranzscheliana (Lavrov) Zundel SPECIES
-=======
+# Urocystis tranzscheliana (Lavrov) Zundel SPECIES
 
 #### Status
 ACCEPTED

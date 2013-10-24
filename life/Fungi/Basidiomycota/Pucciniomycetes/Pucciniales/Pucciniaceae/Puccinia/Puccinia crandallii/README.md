@@ -1,5 +1,4 @@
-Puccinia crandallii Pammel & H.H. Hume SPECIES
-=======
+# Puccinia crandallii Pammel & H.H. Hume SPECIES
 
 #### Status
 ACCEPTED

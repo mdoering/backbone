@@ -1,5 +1,4 @@
-Cyanisticta obvoluta (Ach.) C.W. Dodge SPECIES
-=======
+# Cyanisticta obvoluta (Ach.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

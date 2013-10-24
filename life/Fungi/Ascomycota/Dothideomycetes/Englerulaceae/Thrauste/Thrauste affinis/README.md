@@ -1,5 +1,4 @@
-Thrauste affinis Syd. SPECIES
-=======
+# Thrauste affinis Syd. SPECIES
 
 #### Status
 ACCEPTED

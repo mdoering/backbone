@@ -1,5 +1,4 @@
-Hebeloma polare Vesterh. SPECIES
-=======
+# Hebeloma polare Vesterh. SPECIES
 
 #### Status
 ACCEPTED

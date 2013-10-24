@@ -1,17 +1,16 @@
-Hysteropeziza Rabenh. GENUS
-=======
+# Pyrenopeziza Fuckel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 13: 174 (1874)
+Jb. nassau. Ver. Naturk. 23-24: 293 (1870)
 
 #### Original name
-Hysteropeziza Rabenh.
+Pyrenopeziza Fuckel
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Trabutia randiae subsp. aculeatae (Ferd. & Winge) Theiss. & Syd. SUBSPECIES
-=======
+# Phyllachora randiae SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 351 (1915)
+null
 
 #### Original name
-Phyllachora randiae aculeatae Ferd. & Winge, 1908
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Urocystis arxanensis L. Guo, 2005 SPECIES
-=======
+# Urocystis arxanensis L. Guo, 2005 SPECIES
 
 #### Status
 ACCEPTED

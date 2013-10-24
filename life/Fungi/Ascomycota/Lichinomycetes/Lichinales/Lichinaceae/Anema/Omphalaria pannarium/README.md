@@ -1,5 +1,4 @@
-Omphalaria pannarium Nyl. SPECIES
-=======
+# Omphalaria pannarium Nyl. SPECIES
 
 #### Status
 ACCEPTED

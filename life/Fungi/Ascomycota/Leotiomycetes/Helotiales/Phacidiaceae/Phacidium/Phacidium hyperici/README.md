@@ -1,5 +1,4 @@
-Phacidium hyperici Westend. SPECIES
-=======
+# Phacidium hyperici Westend. SPECIES
 
 #### Status
 ACCEPTED

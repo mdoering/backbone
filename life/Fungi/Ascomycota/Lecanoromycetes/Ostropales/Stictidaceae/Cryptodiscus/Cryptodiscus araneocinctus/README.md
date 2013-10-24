@@ -1,5 +1,4 @@
-Cryptodiscus araneocinctus Fairm. SPECIES
-=======
+# Cryptodiscus araneocinctus Fairm. SPECIES
 
 #### Status
 ACCEPTED

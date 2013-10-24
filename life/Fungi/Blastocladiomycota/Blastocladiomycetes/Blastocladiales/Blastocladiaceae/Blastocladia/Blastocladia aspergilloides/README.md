@@ -1,5 +1,4 @@
-Blastocladia aspergilloides Crooks SPECIES
-=======
+# Blastocladia aspergilloides Crooks SPECIES
 
 #### Status
 ACCEPTED

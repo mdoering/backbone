@@ -1,5 +1,4 @@
-Trichocicinnus GENUS
-=======
+# Trichocicinnus GENUS
 
 #### Status
 ACCEPTED

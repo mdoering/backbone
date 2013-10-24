@@ -1,5 +1,4 @@
-Micropeltis philodendri (F. Stevens & Manter) Bat. SPECIES
-=======
+# Micropeltis philodendri (F. Stevens & Manter) Bat. SPECIES
 
 #### Status
 ACCEPTED

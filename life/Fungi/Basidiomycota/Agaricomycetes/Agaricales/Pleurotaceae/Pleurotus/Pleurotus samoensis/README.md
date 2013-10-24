@@ -1,5 +1,4 @@
-Pleurotus samoensis Henn. SPECIES
-=======
+# Pleurotus samoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

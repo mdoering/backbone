@@ -1,5 +1,4 @@
-Metaclevelandella GENUS
-=======
+# Metaclevelandella GENUS
 
 #### Status
 ACCEPTED

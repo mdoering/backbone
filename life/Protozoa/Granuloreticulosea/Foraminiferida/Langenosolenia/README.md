@@ -1,5 +1,4 @@
-Langenosolenia GENUS
-=======
+# Langenosolenia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daedaleopsis phaea (Lév.) Imazeki SPECIES
-=======
+# Daedaleopsis phaea (Lév.) Imazeki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe stenophylla P. Karst. SPECIES
-=======
+# Clitocybe stenophylla P. Karst. SPECIES
 
 #### Status
 ACCEPTED

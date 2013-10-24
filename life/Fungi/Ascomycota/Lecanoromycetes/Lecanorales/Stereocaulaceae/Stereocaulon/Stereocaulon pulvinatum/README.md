@@ -1,5 +1,4 @@
-Stereocaulon pulvinatum (Schaer.) Nyl. SPECIES
-=======
+# Stereocaulon pulvinatum (Schaer.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amazonomyces palmae Bat. & Cavalc. SPECIES
-=======
+# Amazonomyces palmae Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

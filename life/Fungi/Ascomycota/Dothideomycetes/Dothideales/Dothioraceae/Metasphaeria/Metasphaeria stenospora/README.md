@@ -1,5 +1,4 @@
-Metasphaeria stenospora Kirschst. SPECIES
-=======
+# Metasphaeria stenospora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

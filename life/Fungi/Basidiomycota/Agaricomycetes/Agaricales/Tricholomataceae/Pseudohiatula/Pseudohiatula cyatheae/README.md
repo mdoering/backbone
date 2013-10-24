@@ -1,5 +1,4 @@
-Pseudohiatula cyatheae Singer, 1938 SPECIES
-=======
+# Pseudohiatula cyatheae Singer, 1938 SPECIES
 
 #### Status
 ACCEPTED

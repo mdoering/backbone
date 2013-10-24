@@ -1,5 +1,4 @@
-Verrucaria cinereoatra Zschacke SPECIES
-=======
+# Verrucaria cinereoatra Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthotheliopsidomyces GENUS
-=======
+# Arthotheliopsidomyces GENUS
 
 #### Status
 ACCEPTED

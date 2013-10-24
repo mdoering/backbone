@@ -1,5 +1,4 @@
-Sporidesmium singaporense Subram. SPECIES
-=======
+# Sporidesmium singaporense Subram. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia sordita SPECIES
-=======
+# Parmelia sordita SPECIES
 
 #### Status
 ACCEPTED

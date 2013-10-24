@@ -1,5 +1,4 @@
-Acarospora urceolata (Anzi) Jatta SPECIES
-=======
+# Acarospora urceolata (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

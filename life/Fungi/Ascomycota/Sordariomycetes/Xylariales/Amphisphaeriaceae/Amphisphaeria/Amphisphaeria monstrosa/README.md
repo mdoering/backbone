@@ -1,5 +1,4 @@
-Amphisphaeria monstrosa R.G. Bagn. SPECIES
-=======
+# Amphisphaeria monstrosa R.G. Bagn. SPECIES
 
 #### Status
 ACCEPTED

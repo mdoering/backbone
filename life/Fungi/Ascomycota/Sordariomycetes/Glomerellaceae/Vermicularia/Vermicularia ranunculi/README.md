@@ -1,5 +1,4 @@
-Vermicularia ranunculi Briard SPECIES
-=======
+# Vermicularia ranunculi Briard SPECIES
 
 #### Status
 ACCEPTED

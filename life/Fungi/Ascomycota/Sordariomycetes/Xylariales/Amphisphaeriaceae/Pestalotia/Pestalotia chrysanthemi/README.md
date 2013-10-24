@@ -1,5 +1,4 @@
-Pestalotia chrysanthemi Hollós SPECIES
-=======
+# Pestalotia chrysanthemi Hollós SPECIES
 
 #### Status
 ACCEPTED

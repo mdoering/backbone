@@ -1,5 +1,4 @@
-Sphaeria leucopis Kunze SPECIES
-=======
+# Sphaeria leucopis Kunze SPECIES
 
 #### Status
 ACCEPTED

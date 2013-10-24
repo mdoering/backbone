@@ -1,5 +1,4 @@
-Uniporata nitida Pykhova in Krassilov, 1966 SPECIES
-=======
+# Uniporata nitida Pykhova in Krassilov, 1966 SPECIES
 
 #### Status
 ACCEPTED

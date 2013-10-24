@@ -1,17 +1,16 @@
-Pustularia vesiculosa var. vesiculosa VARIETY
-=======
+# Peziza vesiculosa Bull., 1790 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: (1870)
+Herb. Fr. 10: tab. 457, fig. 1 (1790)
 
 #### Original name
-Pustularia vesiculosa var. vesiculosa
+Peziza vesiculosa Bull., 1790
 
 ### Remarks
 null

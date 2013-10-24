@@ -1,5 +1,4 @@
-Tribonema regulare Pascher SPECIES
-=======
+# Tribonema regulare Pascher SPECIES
 
 #### Status
 ACCEPTED

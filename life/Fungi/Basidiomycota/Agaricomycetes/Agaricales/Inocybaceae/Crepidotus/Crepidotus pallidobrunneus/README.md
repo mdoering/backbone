@@ -1,5 +1,4 @@
-Crepidotus pallidobrunneus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus pallidobrunneus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

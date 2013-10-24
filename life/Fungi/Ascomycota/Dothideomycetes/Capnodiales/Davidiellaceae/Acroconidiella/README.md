@@ -1,5 +1,4 @@
-Acroconidiella J.C. Lindquist & Alippi, 1964 GENUS
-=======
+# Acroconidiella J.C. Lindquist & Alippi, 1964 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium kuznetzovianum Pisareva SPECIES
-=======
+# Cylindrosporium kuznetzovianum Pisareva SPECIES
 
 #### Status
 ACCEPTED

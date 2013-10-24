@@ -1,5 +1,4 @@
-Boletus marekii utara & Skála SPECIES
-=======
+# Boletus marekii utara & Skála SPECIES
 
 #### Status
 ACCEPTED

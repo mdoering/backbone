@@ -1,5 +1,4 @@
-Marasmius subdiminutus Corner SPECIES
-=======
+# Marasmius subdiminutus Corner SPECIES
 
 #### Status
 ACCEPTED

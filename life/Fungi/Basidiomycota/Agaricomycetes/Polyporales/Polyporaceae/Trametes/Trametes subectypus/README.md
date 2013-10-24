@@ -1,5 +1,4 @@
-Trametes subectypus (Murrill) Gilb. & Ryvarden SPECIES
-=======
+# Trametes subectypus (Murrill) Gilb. & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

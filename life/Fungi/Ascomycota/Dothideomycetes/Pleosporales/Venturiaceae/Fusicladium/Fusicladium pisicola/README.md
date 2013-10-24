@@ -1,5 +1,4 @@
-Fusicladium pisicola Linford SPECIES
-=======
+# Fusicladium pisicola Linford SPECIES
 
 #### Status
 ACCEPTED

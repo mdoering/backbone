@@ -1,5 +1,4 @@
-Tremella rubroviolacea Britzelm. SPECIES
-=======
+# Tremella rubroviolacea Britzelm. SPECIES
 
 #### Status
 ACCEPTED

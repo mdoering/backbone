@@ -1,5 +1,4 @@
-Penzigomyces malayensis Subram. SPECIES
-=======
+# Penzigomyces malayensis Subram. SPECIES
 
 #### Status
 ACCEPTED

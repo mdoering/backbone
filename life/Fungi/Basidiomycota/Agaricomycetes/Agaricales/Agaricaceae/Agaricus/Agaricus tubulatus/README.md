@@ -1,5 +1,4 @@
-Agaricus tubulatus Secr. SPECIES
-=======
+# Agaricus tubulatus Secr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora eleusinis Munjal, Lall & Chona SPECIES
-=======
+# Cercospora eleusines Munjal, Lall & Chona SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 14(2): 181 (1962)
 
 #### Original name
-Cercospora eleusinis Munjal, Lall & Chona
+Cercospora eleusines Munjal, Lall & Chona
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Phaeolus rutilans f. rutilans FORM
-=======
+# Hapalopilus rutilans (Pers.) P. Karst., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Tax. Hyménomyc. (Lons-le-Saunier) 86 (1900)
+Revue mycol. , Toulouse 3(9): 18 (1881)
 
 #### Original name
-Phaeolus rutilans f. rutilans
+Boletus rutilans Pers., 1798
 
 ### Remarks
 null

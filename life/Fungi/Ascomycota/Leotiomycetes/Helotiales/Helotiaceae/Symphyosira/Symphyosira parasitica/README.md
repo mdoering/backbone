@@ -1,5 +1,4 @@
-Symphyosira parasitica Massee & Crossl. SPECIES
-=======
+# Symphyosira parasitica Massee & Crossl. SPECIES
 
 #### Status
 ACCEPTED

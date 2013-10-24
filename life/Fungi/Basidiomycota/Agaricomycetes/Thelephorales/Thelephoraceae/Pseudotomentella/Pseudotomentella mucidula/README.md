@@ -1,17 +1,16 @@
-Hypochnus roseogriseus var. roseogriseus Wakef. & A. Pearson VARIETY
-=======
+# Pseudotomentella mucidula (P. Karst.) Svrcek, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 6: 141 (1920)
+Ceská Mykol. 12: 68 (1958)
 
 #### Original name
-Hypochnus roseogriseus var. roseogriseus Wakef. & A. Pearson
+Hypochnus mucidulus P. Karst., 1882
 
 ### Remarks
 null

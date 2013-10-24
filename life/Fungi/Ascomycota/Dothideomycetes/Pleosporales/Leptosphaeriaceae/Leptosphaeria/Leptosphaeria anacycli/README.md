@@ -1,5 +1,4 @@
-Leptosphaeria anacycli Gonz. Frag. SPECIES
-=======
+# Leptosphaeria anacycli Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

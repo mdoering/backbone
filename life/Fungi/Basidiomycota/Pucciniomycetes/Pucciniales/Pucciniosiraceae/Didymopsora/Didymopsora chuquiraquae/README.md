@@ -1,5 +1,4 @@
-Didymopsora chuquiraquae Dietel SPECIES
-=======
+# Didymopsora chuquiraquae Dietel SPECIES
 
 #### Status
 ACCEPTED

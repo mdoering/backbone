@@ -1,5 +1,4 @@
-Asterella dichaenoides (Cooke) Sacc. SPECIES
-=======
+# Asterella dichaenoides (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

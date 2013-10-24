@@ -1,5 +1,4 @@
-Ascochyta ducis-aprutii Mattir., 1903 SPECIES
-=======
+# Ascochyta ducis-aprutii Mattir., 1903 SPECIES
 
 #### Status
 ACCEPTED

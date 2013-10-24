@@ -1,5 +1,4 @@
-Melanopsamma minima Feltgen SPECIES
-=======
+# Melanopsamma minima Feltgen SPECIES
 
 #### Status
 ACCEPTED

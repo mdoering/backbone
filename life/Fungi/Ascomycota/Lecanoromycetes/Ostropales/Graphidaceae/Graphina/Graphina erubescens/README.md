@@ -1,5 +1,4 @@
-Graphina erubescens (Kremp.) Zahlbr. SPECIES
-=======
+# Graphina erubescens (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

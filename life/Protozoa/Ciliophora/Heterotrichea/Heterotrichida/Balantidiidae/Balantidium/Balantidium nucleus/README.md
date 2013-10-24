@@ -1,8 +1,7 @@
-Bursaria nucleus Schrank, 1803 SPECIES
-=======
+# Balantidium nucleus (Schrank, 1803) Kent, 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

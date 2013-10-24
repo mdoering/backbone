@@ -1,5 +1,4 @@
-Hysterium pteridis Schwein. SPECIES
-=======
+# Hysterium pteridis Schwein. SPECIES
 
 #### Status
 ACCEPTED

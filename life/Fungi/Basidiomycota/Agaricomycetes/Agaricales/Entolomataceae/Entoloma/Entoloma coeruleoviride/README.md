@@ -1,5 +1,4 @@
-Entoloma coeruleoviride Corner & E. Horak SPECIES
-=======
+# Entoloma coeruleoviride Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

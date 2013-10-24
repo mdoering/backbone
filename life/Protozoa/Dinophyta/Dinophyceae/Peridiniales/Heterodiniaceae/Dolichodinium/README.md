@@ -1,5 +1,4 @@
-Dolichodinium Kofoid & A.Adamson, 1933 GENUS
-=======
+# Dolichodinium Kofoid & A.Adamson, 1933 GENUS
 
 #### Status
 ACCEPTED

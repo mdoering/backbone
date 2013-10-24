@@ -1,5 +1,4 @@
-Flintina bradyana Cushman SPECIES
-=======
+# Flintina bradyana Cushman SPECIES
 
 #### Status
 ACCEPTED

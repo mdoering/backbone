@@ -1,5 +1,4 @@
-Micropeltis pleiocarpae Hansf. SPECIES
-=======
+# Micropeltis pleiocarpae Hansf. SPECIES
 
 #### Status
 ACCEPTED

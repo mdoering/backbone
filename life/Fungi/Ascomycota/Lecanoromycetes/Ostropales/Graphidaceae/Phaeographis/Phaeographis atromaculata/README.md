@@ -1,14 +1,13 @@
-Phaeographina atromaculata A. W. Archer SPECIES
-=======
+# Phaeographis atromaculata (A. W. Archer) A. W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Telopea 9(2): 331 (2001)
+Telopea 11(1): 75 (2005)
 
 #### Original name
 Phaeographina atromaculata A. W. Archer

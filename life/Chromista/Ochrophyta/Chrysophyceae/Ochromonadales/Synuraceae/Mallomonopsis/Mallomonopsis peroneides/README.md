@@ -1,5 +1,4 @@
-Mallomonopsis peroneides var. bangladeshica E. Takahashi & T. Hayakawa VARIETY
-=======
+# Mallomonopsis peroneides SPECIES
 
 #### Status
 ACCEPTED

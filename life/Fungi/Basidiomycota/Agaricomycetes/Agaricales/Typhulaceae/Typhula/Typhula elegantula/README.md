@@ -1,5 +1,4 @@
-Typhula elegantula P. Karst. SPECIES
-=======
+# Typhula elegantula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

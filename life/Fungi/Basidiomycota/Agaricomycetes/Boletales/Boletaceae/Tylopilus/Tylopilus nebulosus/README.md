@@ -1,5 +1,4 @@
-Tylopilus nebulosus (Peck) Wolfe SPECIES
-=======
+# Tylopilus nebulosus (Peck) Wolfe SPECIES
 
 #### Status
 ACCEPTED

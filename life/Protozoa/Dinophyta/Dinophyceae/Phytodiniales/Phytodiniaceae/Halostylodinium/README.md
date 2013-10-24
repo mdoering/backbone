@@ -1,5 +1,4 @@
-Halostylodinium Horiguchi & Yoshizawa-Ebata, 2000 GENUS
-=======
+# Halostylodinium Horiguchi & Yoshizawa-Ebata, 2000 GENUS
 
 #### Status
 ACCEPTED

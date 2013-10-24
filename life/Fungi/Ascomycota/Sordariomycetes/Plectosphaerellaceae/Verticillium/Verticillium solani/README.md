@@ -1,5 +1,4 @@
-Verticillium solani Sacc. SPECIES
-=======
+# Verticillium solani Sacc. SPECIES
 
 #### Status
 ACCEPTED

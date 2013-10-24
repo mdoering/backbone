@@ -1,5 +1,4 @@
-Fungoides nigrum J.C. Buxb. SPECIES
-=======
+# Fungoides nigrum J.C. Buxb. SPECIES
 
 #### Status
 ACCEPTED

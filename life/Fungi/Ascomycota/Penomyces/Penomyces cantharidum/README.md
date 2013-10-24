@@ -1,5 +1,4 @@
-Penomyces cantharidum Giard SPECIES
-=======
+# Penomyces cantharidum Giard SPECIES
 
 #### Status
 ACCEPTED

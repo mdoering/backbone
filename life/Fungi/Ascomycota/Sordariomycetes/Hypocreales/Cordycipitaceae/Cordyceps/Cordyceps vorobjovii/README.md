@@ -1,5 +1,4 @@
-Cordyceps vorobjovii Koval & Nazarova {?} SPECIES
-=======
+# Cordyceps vorobjovii Koval & Nazarova {?} SPECIES
 
 #### Status
 ACCEPTED

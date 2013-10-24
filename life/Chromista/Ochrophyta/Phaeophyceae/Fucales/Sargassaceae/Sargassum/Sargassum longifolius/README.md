@@ -1,5 +1,4 @@
-Sargassum longifolius SPECIES
-=======
+# Sargassum longifolius SPECIES
 
 #### Status
 ACCEPTED

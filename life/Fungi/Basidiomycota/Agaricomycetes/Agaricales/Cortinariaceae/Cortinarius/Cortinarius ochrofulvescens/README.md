@@ -1,5 +1,4 @@
-Cortinarius ochrofulvescens Rob. Henry SPECIES
-=======
+# Cortinarius ochrofulvescens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

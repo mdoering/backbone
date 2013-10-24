@@ -1,14 +1,13 @@
-Neocoleroa sibirica Petr., 1934 SPECIES
-=======
+# Wentiomyces sibiricus (Petr.) E. Müll., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 74: (1934)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 494 (1962)
 
 #### Original name
 Neocoleroa sibirica Petr., 1934

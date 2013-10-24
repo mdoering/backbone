@@ -1,5 +1,4 @@
-Stanjehughesia nigroaca SPECIES
-=======
+# Stanjehughesia nigroaca SPECIES
 
 #### Status
 ACCEPTED

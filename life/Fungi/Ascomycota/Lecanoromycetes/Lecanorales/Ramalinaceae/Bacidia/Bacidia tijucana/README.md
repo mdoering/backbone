@@ -1,5 +1,4 @@
-Bacidia tijucana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia tijucana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridermium globosum Arthur & F. Kern SPECIES
-=======
+# Peridermium globosum Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

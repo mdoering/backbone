@@ -1,5 +1,4 @@
-Buellia regineae Bungartz SPECIES
-=======
+# Buellia regineae Bungartz SPECIES
 
 #### Status
 ACCEPTED

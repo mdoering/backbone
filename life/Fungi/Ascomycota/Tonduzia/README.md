@@ -1,5 +1,4 @@
-Tonduzia GENUS
-=======
+# Tonduzia GENUS
 
 #### Status
 ACCEPTED

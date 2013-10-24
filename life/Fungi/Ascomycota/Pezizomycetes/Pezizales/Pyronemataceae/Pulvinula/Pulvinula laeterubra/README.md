@@ -1,5 +1,4 @@
-Pulvinula laeterubra (Rehm) Pfister SPECIES
-=======
+# Pulvinula laeterubra (Rehm) Pfister SPECIES
 
 #### Status
 ACCEPTED

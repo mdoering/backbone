@@ -1,5 +1,4 @@
-Cortinarius serenitas-caeli Rob. Henry SPECIES
-=======
+# Cortinarius serenitas-caeli Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

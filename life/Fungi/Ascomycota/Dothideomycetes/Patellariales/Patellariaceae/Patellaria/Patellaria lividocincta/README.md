@@ -1,5 +1,4 @@
-Patellaria lividocincta Müll. Arg. SPECIES
-=======
+# Patellaria lividocincta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

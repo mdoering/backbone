@@ -1,5 +1,4 @@
-Uromyces borealis Liro SPECIES
-=======
+# Uromyces borealis Liro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora paulowniae Hori SPECIES
-=======
+# Cercospora paulowniae Hori SPECIES
 
 #### Status
 ACCEPTED

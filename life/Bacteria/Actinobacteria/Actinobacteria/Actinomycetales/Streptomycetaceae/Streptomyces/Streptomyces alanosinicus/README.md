@@ -1,5 +1,4 @@
-Streptomyces alanosinicus Thiemann and Beretta, 1966 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces alanosinicus Thiemann and Beretta, 1966 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

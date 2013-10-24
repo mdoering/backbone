@@ -1,5 +1,4 @@
-Corynespora millettiae Y.L. Guo SPECIES
-=======
+# Corynespora millettiae Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

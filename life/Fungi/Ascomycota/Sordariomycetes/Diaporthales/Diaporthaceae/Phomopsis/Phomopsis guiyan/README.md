@@ -1,5 +1,4 @@
-Phomopsis guiyan Chuan F. Zhang & P.K. Chi SPECIES
-=======
+# Phomopsis guiyan Chuan F. Zhang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

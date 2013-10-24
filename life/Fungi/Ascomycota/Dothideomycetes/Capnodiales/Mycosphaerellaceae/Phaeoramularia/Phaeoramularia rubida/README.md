@@ -1,5 +1,4 @@
-Phaeoramularia rubida (A.S. Mull. & Chupp) Inácio & Dianese SPECIES
-=======
+# Phaeoramularia rubida (A.S. Mull. & Chupp) Inácio & Dianese SPECIES
 
 #### Status
 ACCEPTED

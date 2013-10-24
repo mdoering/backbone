@@ -1,5 +1,4 @@
-Micarea longispora Coppins SPECIES
-=======
+# Micarea longispora Coppins SPECIES
 
 #### Status
 ACCEPTED

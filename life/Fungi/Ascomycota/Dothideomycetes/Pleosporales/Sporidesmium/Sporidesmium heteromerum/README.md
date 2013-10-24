@@ -1,5 +1,4 @@
-Sporidesmium heteromerum Kirschst. SPECIES
-=======
+# Sporidesmium heteromerum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiculogloea limonispora Trichiès SPECIES
-=======
+# Spiculogloea limonispora Trichiès SPECIES
 
 #### Status
 ACCEPTED

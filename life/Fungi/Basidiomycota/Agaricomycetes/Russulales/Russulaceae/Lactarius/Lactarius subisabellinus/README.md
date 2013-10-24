@@ -1,5 +1,4 @@
-Lactarius subisabellinus var. subisabellinus VARIETY
-=======
+# Lactarius subisabellinus Murrill SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lloydia 11: 93 (1948)
 
 #### Original name
-Lactarius subisabellinus var. subisabellinus
+Lactarius subisabellinus Murrill
 
 ### Remarks
 null

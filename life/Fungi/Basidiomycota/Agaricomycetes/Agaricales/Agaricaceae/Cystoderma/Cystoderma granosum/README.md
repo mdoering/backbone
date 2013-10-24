@@ -1,5 +1,4 @@
-Cystoderma granosum (Morgan) A.H. Sm. & Singer SPECIES
-=======
+# Cystoderma granosum (Morgan) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia stipae (Opiz) Arthur SPECIES
-=======
+# Puccinia stipae (Opiz) Arthur SPECIES
 
 #### Status
 ACCEPTED

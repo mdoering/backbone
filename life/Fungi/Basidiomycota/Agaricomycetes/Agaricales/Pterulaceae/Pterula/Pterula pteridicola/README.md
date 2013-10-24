@@ -1,5 +1,4 @@
-Pterula pteridicola Khurana, 1980 SPECIES
-=======
+# Pterula pteridicola Khurana, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus laneus Pers. SPECIES
-=======
+# Polyporus laneus Pers. SPECIES
 
 #### Status
 ACCEPTED

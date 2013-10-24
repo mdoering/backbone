@@ -1,5 +1,4 @@
-Denitrobacillus GENUS
-=======
+# Denitrobacillus GENUS
 
 #### Status
 ACCEPTED

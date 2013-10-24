@@ -1,5 +1,4 @@
-Lecidea bogosensis Zahlbr. SPECIES
-=======
+# Lecidea bogosensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

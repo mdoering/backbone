@@ -1,5 +1,4 @@
-Ulocladium sorghi X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Ulocladium sorghi X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

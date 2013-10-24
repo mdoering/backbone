@@ -1,5 +1,4 @@
-Calvatia borealis T.C.E. Fr. SPECIES
-=======
+# Calvatia borealis T.C.E. Fr. SPECIES
 
 #### Status
 ACCEPTED

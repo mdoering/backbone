@@ -1,5 +1,4 @@
-Titaea clarkeae Ellis & Everh. SPECIES
-=======
+# Titaea clarkeae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

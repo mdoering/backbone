@@ -1,14 +1,13 @@
-Hymenoscyphus pseudopezizodes (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus pseudopezizoides (Rehm) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 485 (1898)
 
 #### Original name
 Pezizella pseudopezizoides Rehm

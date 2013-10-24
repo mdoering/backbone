@@ -1,5 +1,4 @@
-Lecidea polytrichinella Hertel, Obermayer & Poelt SPECIES
-=======
+# Lecidea polytrichinella Hertel, Obermayer & Poelt SPECIES
 
 #### Status
 ACCEPTED

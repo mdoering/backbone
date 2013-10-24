@@ -1,5 +1,4 @@
-Symploca borealis SPECIES
-=======
+# Symploca borealis SPECIES
 
 #### Status
 ACCEPTED

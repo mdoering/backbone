@@ -1,5 +1,4 @@
-Torula alactosa F.C. Harrison SPECIES
-=======
+# Torula alactosa F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

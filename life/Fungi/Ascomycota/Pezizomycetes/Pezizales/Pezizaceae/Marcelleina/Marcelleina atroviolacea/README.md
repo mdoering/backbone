@@ -1,14 +1,13 @@
-Peziza atroviolacea Delile SPECIES
-=======
+# Marcelleina atroviolacea (Delile ex De Seynes) Brumm., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia, Suppl. 1: 233 (1967)
 
 #### Original name
 Peziza atroviolacea Delile

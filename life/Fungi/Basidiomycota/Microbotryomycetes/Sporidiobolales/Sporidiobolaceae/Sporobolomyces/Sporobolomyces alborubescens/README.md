@@ -1,5 +1,4 @@
-Sporobolomyces alborubescens Derx SPECIES
-=======
+# Sporobolomyces alborubescens Derx SPECIES
 
 #### Status
 ACCEPTED

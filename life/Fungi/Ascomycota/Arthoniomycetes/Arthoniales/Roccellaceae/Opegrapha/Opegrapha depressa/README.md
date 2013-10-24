@@ -1,5 +1,4 @@
-Opegrapha depressa Ach. SPECIES
-=======
+# Opegrapha depressa Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo haplophylli Henn. SPECIES
-=======
+# Uredo haplophylli Henn. SPECIES
 
 #### Status
 ACCEPTED

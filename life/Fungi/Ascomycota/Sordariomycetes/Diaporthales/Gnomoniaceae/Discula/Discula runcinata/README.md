@@ -1,5 +1,4 @@
-Discula runcinata Ellis & Everh. SPECIES
-=======
+# Discula runcinata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

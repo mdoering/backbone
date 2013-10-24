@@ -1,5 +1,4 @@
-Aecidium lysimachiae (Schltdl.) Wallr. SPECIES
-=======
+# Aecidium lysimachiae (Schltdl.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

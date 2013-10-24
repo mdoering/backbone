@@ -1,5 +1,4 @@
-Marasmius puttemansii var. puttemansii VARIETY
-=======
+# Marasmius puttemansii Henn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 43: 203 (1904)
 
 #### Original name
-Marasmius puttemansii var. puttemansii
+Marasmius puttemansii Henn.
 
 ### Remarks
 null

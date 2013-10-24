@@ -1,5 +1,4 @@
-Sphaerella gnidii Maire SPECIES
-=======
+# Sphaerella gnidii Maire SPECIES
 
 #### Status
 ACCEPTED

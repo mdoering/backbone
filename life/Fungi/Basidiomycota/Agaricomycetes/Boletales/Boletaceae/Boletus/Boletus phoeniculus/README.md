@@ -1,5 +1,4 @@
-Boletus phoeniculus Corner SPECIES
-=======
+# Boletus phoeniculus Corner SPECIES
 
 #### Status
 ACCEPTED

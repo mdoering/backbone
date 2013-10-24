@@ -1,5 +1,4 @@
-Lasiella aristata Quél. SPECIES
-=======
+# Lasiella aristata Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanolecia nivalis (Anzi) Hertel SPECIES
-=======
+# Melanolecia nivalis (Anzi) Hertel SPECIES
 
 #### Status
 ACCEPTED

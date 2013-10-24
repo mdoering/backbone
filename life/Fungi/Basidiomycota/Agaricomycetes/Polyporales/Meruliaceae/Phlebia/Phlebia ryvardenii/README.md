@@ -1,5 +1,4 @@
-Phlebia ryvardenii Hallenb. & Hjortstam, 1988 SPECIES
-=======
+# Phlebia ryvardenii Hallenb. & Hjortstam, 1988 SPECIES
 
 #### Status
 ACCEPTED

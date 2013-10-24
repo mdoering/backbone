@@ -1,5 +1,4 @@
-Colletotrichum lucidae H.C. Greene SPECIES
-=======
+# Colletotrichum lucidae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

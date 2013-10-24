@@ -1,5 +1,4 @@
-Diaporthe buxi Feltgen SPECIES
-=======
+# Diaporthe buxi Feltgen SPECIES
 
 #### Status
 ACCEPTED

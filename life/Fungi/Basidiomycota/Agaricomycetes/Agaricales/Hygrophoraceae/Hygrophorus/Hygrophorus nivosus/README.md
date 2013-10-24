@@ -1,5 +1,4 @@
-Hygrophorus nivosus Berk. & Broome SPECIES
-=======
+# Hygrophorus nivosus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

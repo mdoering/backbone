@@ -1,5 +1,4 @@
-Ellisembia artocarpi Jian Ma & X.G. Zhang SPECIES
-=======
+# Ellisembia artocarpi Jian Ma & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

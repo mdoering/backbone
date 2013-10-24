@@ -1,5 +1,4 @@
-Hirsutella verticillioides Charles SPECIES
-=======
+# Hirsutella verticillioides Charles SPECIES
 
 #### Status
 ACCEPTED

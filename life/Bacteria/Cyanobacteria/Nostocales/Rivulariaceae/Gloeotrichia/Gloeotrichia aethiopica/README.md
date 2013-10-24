@@ -1,5 +1,4 @@
-Gloeotrichia aethiopica W. West & G.S. West SPECIES
-=======
+# Gloeotrichia aethiopica W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

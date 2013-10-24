@@ -1,17 +1,16 @@
-Physarum murinum aeneum Lister, 1898 INFRASPECIFIC_NAME
-=======
+# Physarum aeneum (Lister) R.E. Fr., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ark. Bot. 1: 62 (1903)
 
 #### Original name
-null
+Physarum murinum var. aeneum Lister
 
 ### Remarks
 null

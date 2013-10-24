@@ -1,17 +1,16 @@
-Geaster infrequens Lloyd SPECIES
-=======
+# Geastrum infrequens Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 2(22): 263 (1906)
 
 #### Original name
-Geaster infrequens Lloyd
+Geastrum infrequens Lloyd
 
 ### Remarks
 null

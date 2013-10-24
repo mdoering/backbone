@@ -1,5 +1,4 @@
-Atelodinium microsporum Chatton SPECIES
-=======
+# Atelodinium microsporum Chatton SPECIES
 
 #### Status
 ACCEPTED

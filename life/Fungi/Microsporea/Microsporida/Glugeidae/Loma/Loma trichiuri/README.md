@@ -1,5 +1,4 @@
-Loma trichiuri Sandeep & Kalavati, 1985 SPECIES
-=======
+# Loma trichiuri Sandeep & Kalavati, 1985 SPECIES
 
 #### Status
 ACCEPTED

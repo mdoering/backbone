@@ -1,5 +1,4 @@
-Lamproderma mucronatum H. Neubert, Nowotny & K. Baumann, 1989 SPECIES
-=======
+# Lamproderma mucronatum H. Neubert, Nowotny & K. Baumann, 1989 SPECIES
 
 #### Status
 ACCEPTED

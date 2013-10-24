@@ -1,5 +1,4 @@
-Protoperidinium mite (Pavillard) Balech SPECIES
-=======
+# Protoperidinium mite (Pavillard) Balech SPECIES
 
 #### Status
 ACCEPTED

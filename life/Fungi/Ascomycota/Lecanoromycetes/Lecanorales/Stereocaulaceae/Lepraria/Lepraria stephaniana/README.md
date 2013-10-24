@@ -1,5 +1,4 @@
-Lepraria stephaniana Elix, Flakus & Kukwa SPECIES
-=======
+# Lepraria stephaniana Elix, Flakus & Kukwa SPECIES
 
 #### Status
 ACCEPTED

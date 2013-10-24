@@ -1,5 +1,4 @@
-Ocellularia feeana Müll. Arg. SPECIES
-=======
+# Ocellularia feeana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

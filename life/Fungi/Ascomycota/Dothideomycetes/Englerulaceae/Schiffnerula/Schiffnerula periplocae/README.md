@@ -1,5 +1,4 @@
-Schiffnerula periplocae Hansf. SPECIES
-=======
+# Schiffnerula periplocae Hansf. SPECIES
 
 #### Status
 ACCEPTED

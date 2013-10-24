@@ -1,5 +1,4 @@
-Thurstonia de Puytorac, 1968 GENUS
-=======
+# Thurstonia de Puytorac, 1968 GENUS
 
 #### Status
 ACCEPTED

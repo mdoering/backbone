@@ -1,17 +1,16 @@
-Chaetomium dolichotrichum L.M. Ames, 1945 SPECIES
-=======
+# Chaetomium funicola Cooke, 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Greathouse & Ames, Mycologia 37(1): 145 (1945)
+Grevillea 1(no. 11): 176 (1873)
 
 #### Original name
-Chaetomium dolichotrichum L.M. Ames, 1945
+Chaetomium funicola Cooke, 1873
 
 ### Remarks
 null

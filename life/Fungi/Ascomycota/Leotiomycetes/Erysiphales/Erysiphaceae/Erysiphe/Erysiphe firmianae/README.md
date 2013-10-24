@@ -1,5 +1,4 @@
-Erysiphe firmianae R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Erysiphe firmianae R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

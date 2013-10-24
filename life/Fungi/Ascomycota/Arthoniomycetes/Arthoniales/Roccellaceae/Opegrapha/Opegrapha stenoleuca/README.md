@@ -1,5 +1,4 @@
-Opegrapha stenoleuca Zahlbr. SPECIES
-=======
+# Opegrapha stenoleuca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

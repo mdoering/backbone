@@ -1,5 +1,4 @@
-Didymochaeta columbiana Fairm. SPECIES
-=======
+# Didymochaeta columbiana Fairm. SPECIES
 
 #### Status
 ACCEPTED

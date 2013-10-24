@@ -1,5 +1,4 @@
-Entoloma roseotransparens Noordel. & Hauskn. SPECIES
-=======
+# Entoloma roseotransparens Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

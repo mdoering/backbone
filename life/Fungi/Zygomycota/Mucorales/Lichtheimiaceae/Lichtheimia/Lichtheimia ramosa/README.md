@@ -1,17 +1,16 @@
-Lichtheimia ramosa f. ramosa (Lindt) Vuill., 1903 FORM
-=======
+# Lichtheimia ramosa (Zopf) Vuill., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 19: 126 (1903)
+null
 
 #### Original name
-Mucor ramosus Bull., 1791
+null
 
 ### Remarks
 null

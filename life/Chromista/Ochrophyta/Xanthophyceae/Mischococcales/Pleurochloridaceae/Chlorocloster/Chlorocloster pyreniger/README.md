@@ -1,5 +1,4 @@
-Chlorocloster pyreniger var. minor Starmach VARIETY
-=======
+# Chlorocloster pyreniger SPECIES
 
 #### Status
 ACCEPTED

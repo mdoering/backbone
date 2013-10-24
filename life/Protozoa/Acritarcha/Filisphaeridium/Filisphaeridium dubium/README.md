@@ -1,5 +1,4 @@
-Filisphaeridium dubium (Volkova, 1968) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium dubium (Volkova, 1968) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

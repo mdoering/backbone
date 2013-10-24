@@ -1,5 +1,4 @@
-Sychnogonia lojkana Hazsl. SPECIES
-=======
+# Sychnogonia lojkana Hazsl. SPECIES
 
 #### Status
 ACCEPTED

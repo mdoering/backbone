@@ -1,5 +1,4 @@
-Theimaniella GENUS
-=======
+# Theimaniella GENUS
 
 #### Status
 ACCEPTED

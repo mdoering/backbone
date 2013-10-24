@@ -1,5 +1,4 @@
-Hypha elongata (DC.) Pers. SPECIES
-=======
+# Hypha elongata (DC.) Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanoculleus chikugoensis Dianou et al., 2001 SPECIES
-=======
+# Methanoculleus chikugoensis Dianou et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

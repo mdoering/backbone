@@ -1,5 +1,4 @@
-Hysterographium kansense Ellis & Everh., 1894 SPECIES
-=======
+# Hysterographium kansense Ellis & Everh., 1894 SPECIES
 
 #### Status
 ACCEPTED

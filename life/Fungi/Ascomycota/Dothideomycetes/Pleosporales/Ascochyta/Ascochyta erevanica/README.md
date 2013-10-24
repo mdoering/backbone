@@ -1,5 +1,4 @@
-Ascochyta erevanica D.N. Babajan & Simonyan SPECIES
-=======
+# Ascochyta erevanica D.N. Babajan & Simonyan SPECIES
 
 #### Status
 ACCEPTED

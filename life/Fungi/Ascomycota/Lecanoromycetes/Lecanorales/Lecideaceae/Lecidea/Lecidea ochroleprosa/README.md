@@ -1,5 +1,4 @@
-Lecidea ochroleprosa Zahlbr. SPECIES
-=======
+# Lecidea ochroleprosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

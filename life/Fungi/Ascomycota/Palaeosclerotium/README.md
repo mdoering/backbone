@@ -1,5 +1,4 @@
-Palaeosclerotium G.W. Rothwell GENUS
-=======
+# Palaeosclerotium G.W. Rothwell GENUS
 
 #### Status
 ACCEPTED

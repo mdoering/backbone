@@ -1,5 +1,4 @@
-Bertiella macrospora (Sacc.) Sacc. & Traverso SPECIES
-=======
+# Bertiella macrospora (Sacc.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

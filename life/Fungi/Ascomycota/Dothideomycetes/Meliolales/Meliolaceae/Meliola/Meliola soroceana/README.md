@@ -1,5 +1,4 @@
-Meliola soroceana Bat. SPECIES
-=======
+# Meliola soroceana Bat. SPECIES
 
 #### Status
 ACCEPTED

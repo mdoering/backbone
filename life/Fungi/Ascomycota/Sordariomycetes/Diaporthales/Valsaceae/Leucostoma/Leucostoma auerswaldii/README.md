@@ -1,5 +1,4 @@
-Leucostoma auerswaldii (Nitschke) Höhn. SPECIES
-=======
+# Leucostoma auerswaldii (Nitschke) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Archaeonema J.W. Schopf, 1968 GENUS
-=======
+# Archaeonema J.W. Schopf, 1968 GENUS
 
 #### Status
 ACCEPTED

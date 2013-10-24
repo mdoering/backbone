@@ -1,5 +1,4 @@
-Agaricus reflexus Pers. SPECIES
-=======
+# Agaricus reflexus Pers. SPECIES
 
 #### Status
 ACCEPTED

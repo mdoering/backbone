@@ -1,5 +1,4 @@
-Lecanora andoi Miyaw. SPECIES
-=======
+# Lecanora andoi Miyaw. SPECIES
 
 #### Status
 ACCEPTED

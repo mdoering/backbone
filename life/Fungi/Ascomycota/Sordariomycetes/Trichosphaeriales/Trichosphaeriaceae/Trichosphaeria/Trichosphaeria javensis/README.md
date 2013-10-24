@@ -1,5 +1,4 @@
-Trichosphaeria javensis Höhn. SPECIES
-=======
+# Trichosphaeria javensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

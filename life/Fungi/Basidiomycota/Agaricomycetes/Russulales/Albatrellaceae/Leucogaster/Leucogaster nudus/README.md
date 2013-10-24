@@ -1,17 +1,16 @@
-Leucogaster floccosus R. Hesse, 1889 SPECIES
-=======
+# Leucogaster nudus (Hazsl.) Hollós, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Botanisches Centralblatt, Beihefte 40: 3 (1889)
+Annls hist. -nat. Mus. natn. hung. 6: 319 (1908)
 
 #### Original name
-Leucogaster floccosus R. Hesse, 1889
+Hydnangium nudum Hazsl., 1875
 
 ### Remarks
 null

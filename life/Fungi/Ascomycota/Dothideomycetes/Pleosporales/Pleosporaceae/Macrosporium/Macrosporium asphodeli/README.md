@@ -1,5 +1,4 @@
-Macrosporium asphodeli Pat. SPECIES
-=======
+# Macrosporium asphodeli Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiociliomyces xylopiae Bat. & I.H. Lima SPECIES
-=======
+# Ophiociliomyces xylopiae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

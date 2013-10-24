@@ -1,5 +1,4 @@
-Agarico-igniarium GENUS
-=======
+# Agarico-igniarium GENUS
 
 #### Status
 ACCEPTED

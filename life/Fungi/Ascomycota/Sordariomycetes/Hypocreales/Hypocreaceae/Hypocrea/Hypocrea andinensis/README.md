@@ -1,5 +1,4 @@
-Hypocrea andinensis Samuels & Petrini, 1998 SPECIES
-=======
+# Hypocrea andinensis Samuels & Petrini, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodobacter aestuarii Venkata Ramana, Anil Kumar, Srinivas, Sasikala & Ramana, 2009 SPECIES
-=======
+# Rhodobacter aestuarii Venkata Ramana, Anil Kumar, Srinivas, Sasikala & Ramana, 2009 SPECIES
 
 #### Status
 ACCEPTED

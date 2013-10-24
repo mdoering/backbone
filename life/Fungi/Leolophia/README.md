@@ -1,5 +1,4 @@
-Leolophia Klotzsch GENUS
-=======
+# Leolophia Klotzsch GENUS
 
 #### Status
 ACCEPTED

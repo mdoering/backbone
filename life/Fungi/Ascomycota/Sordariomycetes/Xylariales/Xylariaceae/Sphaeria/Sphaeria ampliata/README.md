@@ -1,5 +1,4 @@
-Sphaeria ampliata Schwein. SPECIES
-=======
+# Sphaeria ampliata Schwein. SPECIES
 
 #### Status
 ACCEPTED

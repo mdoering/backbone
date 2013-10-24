@@ -1,5 +1,4 @@
-Cercospora microstigma Sacc. SPECIES
-=======
+# Cercospora microstigma Sacc. SPECIES
 
 #### Status
 ACCEPTED

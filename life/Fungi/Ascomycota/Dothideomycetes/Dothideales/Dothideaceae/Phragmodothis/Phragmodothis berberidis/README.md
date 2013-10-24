@@ -1,5 +1,4 @@
-Phragmodothis berberidis (J.V. Almeida & Sousa da Câmara) Theiss. & Syd. SPECIES
-=======
+# Phragmodothis berberidis (J.V. Almeida & Sousa da Câmara) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

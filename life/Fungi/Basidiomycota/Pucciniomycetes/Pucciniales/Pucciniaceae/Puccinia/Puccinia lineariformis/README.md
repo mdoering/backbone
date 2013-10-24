@@ -1,5 +1,4 @@
-Puccinia lineariformis Syd. & P. Syd. SPECIES
-=======
+# Puccinia lineariformis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

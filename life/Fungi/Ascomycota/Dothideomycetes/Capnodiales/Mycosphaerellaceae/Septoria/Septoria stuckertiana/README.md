@@ -1,5 +1,4 @@
-Septoria stuckertiana Speg. SPECIES
-=======
+# Septoria stuckertiana Speg. SPECIES
 
 #### Status
 ACCEPTED

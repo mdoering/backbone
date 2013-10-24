@@ -1,5 +1,4 @@
-Sagedia auruntii (A. Massal.) Müll. Arg. SPECIES
-=======
+# Sagedia auruntii (A. Massal.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbum proliferum É.J. Marchal SPECIES
-=======
+# Stilbum proliferum É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Soliformovum GENUS
-=======
+# Soliformovum GENUS
 
 #### Status
 ACCEPTED

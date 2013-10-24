@@ -1,5 +1,4 @@
-Thalassospira López-López et al., 2002 GENUS
-=======
+# Thalassospira López-López et al., 2002 GENUS
 
 #### Status
 ACCEPTED

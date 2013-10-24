@@ -1,5 +1,4 @@
-Septoria claystegiae Losa España {?} SPECIES
-=======
+# Septoria claystegiae Losa España {?} SPECIES
 
 #### Status
 ACCEPTED

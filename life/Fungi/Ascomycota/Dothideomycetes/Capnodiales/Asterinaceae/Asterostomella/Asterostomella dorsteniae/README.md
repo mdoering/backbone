@@ -1,5 +1,4 @@
-Asterostomella dorsteniae Syd. SPECIES
-=======
+# Asterostomella dorsteniae Syd. SPECIES
 
 #### Status
 ACCEPTED

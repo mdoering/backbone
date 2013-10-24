@@ -1,5 +1,4 @@
-Coniothyrium indicum Cooke & Massee SPECIES
-=======
+# Coniothyrium indicum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

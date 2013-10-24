@@ -1,5 +1,4 @@
-Mycena seriflua (Murrill) Murrill SPECIES
-=======
+# Mycena seriflua (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

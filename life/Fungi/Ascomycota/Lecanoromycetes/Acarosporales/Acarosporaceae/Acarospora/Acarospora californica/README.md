@@ -1,5 +1,4 @@
-Acarospora californica Zahlbr. SPECIES
-=======
+# Acarospora californica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

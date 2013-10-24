@@ -1,5 +1,4 @@
-Aspicilia alpodruinosa SPECIES
-=======
+# Aspicilia alpodruinosa SPECIES
 
 #### Status
 ACCEPTED

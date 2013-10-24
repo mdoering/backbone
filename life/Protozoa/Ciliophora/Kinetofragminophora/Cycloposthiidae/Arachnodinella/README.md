@@ -1,17 +1,16 @@
-Arachnodinium van Hoven, Gilchrist & Hamilton-Attwell, 1987 GENUS
-=======
+# Arachnodinella Aescht, 2001 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-J Protozool 34 (3): 340.
+Denisia 1: 25.
 
 #### Original name
-null
+Arachnodinium van Hoven, Gilchrist & Hamilton-Attwell, 1987
 
 ### Remarks
 null

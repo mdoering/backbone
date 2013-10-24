@@ -1,5 +1,4 @@
-Cytospora sarothamni Sacc., 1884 SPECIES
-=======
+# Cytospora sarothamni Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

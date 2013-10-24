@@ -1,5 +1,4 @@
-Stictis sulphurea var. sulphurea VARIETY
-=======
+# Stictis friabilis (W. Phillips & Plowr.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 20: 898 (1911)
 
 #### Original name
-Stictis sulphurea var. sulphurea
+null
 
 ### Remarks
 null

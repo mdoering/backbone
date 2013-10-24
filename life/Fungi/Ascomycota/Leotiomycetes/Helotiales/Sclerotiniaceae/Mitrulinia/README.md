@@ -1,5 +1,4 @@
-Mitrulinia Spooner GENUS
-=======
+# Mitrulinia Spooner GENUS
 
 #### Status
 ACCEPTED

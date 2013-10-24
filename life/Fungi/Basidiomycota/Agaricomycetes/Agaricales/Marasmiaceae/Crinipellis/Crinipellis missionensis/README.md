@@ -1,5 +1,4 @@
-Crinipellis missionensis Singer SPECIES
-=======
+# Crinipellis missionensis Singer SPECIES
 
 #### Status
 ACCEPTED

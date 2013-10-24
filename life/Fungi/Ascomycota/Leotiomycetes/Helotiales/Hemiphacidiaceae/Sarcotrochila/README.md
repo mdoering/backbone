@@ -1,17 +1,16 @@
-Stegopezizella Syd. GENUS
-=======
+# Sarcotrochila Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 22(3/6): 392 (1924)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 126: 309 (1917)
 
 #### Original name
-Stegopezizella Syd.
+Sarcotrochila Höhn.
 
 ### Remarks
 null

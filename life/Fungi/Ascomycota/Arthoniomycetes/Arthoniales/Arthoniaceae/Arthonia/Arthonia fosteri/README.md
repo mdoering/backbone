@@ -1,5 +1,4 @@
-Arthonia fosteri G. Merr. SPECIES
-=======
+# Arthonia fosteri G. Merr. SPECIES
 
 #### Status
 ACCEPTED

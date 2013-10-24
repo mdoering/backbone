@@ -1,5 +1,4 @@
-Aecidium pereskiae H.S. Jacks. & Holw. SPECIES
-=======
+# Aecidium pereskiae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

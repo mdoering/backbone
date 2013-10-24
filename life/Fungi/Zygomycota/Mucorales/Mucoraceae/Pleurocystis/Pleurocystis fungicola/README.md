@@ -1,5 +1,4 @@
-Pleurocystis fungicola Corda SPECIES
-=======
+# Pleurocystis fungicola Corda SPECIES
 
 #### Status
 ACCEPTED

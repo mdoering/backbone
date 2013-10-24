@@ -1,5 +1,4 @@
-Chlamydosporium GENUS
-=======
+# Chlamydosporium GENUS
 
 #### Status
 ACCEPTED

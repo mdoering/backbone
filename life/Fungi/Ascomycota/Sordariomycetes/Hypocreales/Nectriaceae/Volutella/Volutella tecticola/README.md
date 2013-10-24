@@ -1,8 +1,7 @@
-Volutella tectaecola G.F. Atk. SPECIES
-=======
+# Volutella tecticola G.F. Atk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Volutella tectaecola G.F. Atk.
+Volutella tecticola G.F. Atk.
 
 ### Remarks
 null

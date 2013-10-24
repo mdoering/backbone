@@ -1,5 +1,4 @@
-Echinella GENUS
-=======
+# Echinella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormia variabilis G. Winter SPECIES
-=======
+# Sporormia variabilis G. Winter SPECIES
 
 #### Status
 ACCEPTED

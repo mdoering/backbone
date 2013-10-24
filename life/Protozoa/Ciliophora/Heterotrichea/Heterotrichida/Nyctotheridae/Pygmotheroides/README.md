@@ -1,5 +1,4 @@
-Pygmotheroides Affa'a, 1980 GENUS
-=======
+# Pygmotheroides Affa'a, 1980 GENUS
 
 #### Status
 ACCEPTED

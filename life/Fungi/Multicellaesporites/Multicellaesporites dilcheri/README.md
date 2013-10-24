@@ -1,5 +1,4 @@
-Multicellaesporites dilcheri B. Samant SPECIES
-=======
+# Multicellaesporites dilcheri B. Samant SPECIES
 
 #### Status
 ACCEPTED

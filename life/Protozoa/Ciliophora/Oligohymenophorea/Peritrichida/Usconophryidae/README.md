@@ -1,5 +1,4 @@
-Usconophryidae FAMILY
-=======
+# Usconophryidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trogia minima Corner SPECIES
-=======
+# Trogia minima Corner SPECIES
 
 #### Status
 ACCEPTED

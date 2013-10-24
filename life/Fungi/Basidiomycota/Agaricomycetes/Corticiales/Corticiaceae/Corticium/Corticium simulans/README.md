@@ -1,5 +1,4 @@
-Corticium simulans Berk. & Broome SPECIES
-=======
+# Corticium simulans Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

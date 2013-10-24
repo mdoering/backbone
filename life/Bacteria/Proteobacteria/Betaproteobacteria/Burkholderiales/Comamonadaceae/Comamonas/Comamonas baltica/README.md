@@ -1,5 +1,4 @@
-Comamonas baltica Koivula & Hantula, 1997 SPECIES
-=======
+# Comamonas baltica Koivula & Hantula, 1997 SPECIES
 
 #### Status
 ACCEPTED

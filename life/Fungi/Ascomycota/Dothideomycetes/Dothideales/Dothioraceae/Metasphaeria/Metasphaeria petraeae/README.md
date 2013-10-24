@@ -1,5 +1,4 @@
-Metasphaeria petraeae Pat. SPECIES
-=======
+# Metasphaeria petraeae Pat. SPECIES
 
 #### Status
 ACCEPTED

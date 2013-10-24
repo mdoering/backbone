@@ -1,5 +1,4 @@
-Cladopyxis claytonii Holmes, 1956 SPECIES
-=======
+# Cladopyxis claytonii Holmes, 1956 SPECIES
 
 #### Status
 ACCEPTED

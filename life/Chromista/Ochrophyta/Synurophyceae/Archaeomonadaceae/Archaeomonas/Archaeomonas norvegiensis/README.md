@@ -1,5 +1,4 @@
-Archaeomonas norvegiensis K. Perch-Nielsen SPECIES
-=======
+# Archaeomonas norvegiensis K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

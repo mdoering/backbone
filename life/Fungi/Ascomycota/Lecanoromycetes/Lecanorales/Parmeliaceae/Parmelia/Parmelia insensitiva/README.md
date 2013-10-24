@@ -1,5 +1,4 @@
-Parmelia insensitiva (H. Magn.) Anders SPECIES
-=======
+# Parmelia insensitiva (H. Magn.) Anders SPECIES
 
 #### Status
 ACCEPTED

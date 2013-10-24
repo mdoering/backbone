@@ -1,5 +1,4 @@
-Phyllosticta panacis Nakata & S. Takim. SPECIES
-=======
+# Phyllosticta panacis Nakata & S. Takim. SPECIES
 
 #### Status
 ACCEPTED

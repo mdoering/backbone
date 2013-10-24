@@ -1,5 +1,4 @@
-Acremonium zeae W. Gams & D.R. Sumner, 1971 SPECIES
-=======
+# Acremonium zeae W. Gams & D.R. Sumner, 1971 SPECIES
 
 #### Status
 ACCEPTED

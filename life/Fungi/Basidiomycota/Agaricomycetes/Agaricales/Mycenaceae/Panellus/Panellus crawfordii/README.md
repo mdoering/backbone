@@ -1,14 +1,13 @@
-Resupinatus crawfordii G. Stev., 1964 SPECIES
-=======
+# Panellus crawfordii (G. Stev.) Segedin, P.K. Buchanan & J.P. Wilkie, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 19: 22 (1964)
+Aust. Syst. Bot. 8(3): 480 (1995)
 
 #### Original name
 Resupinatus crawfordii G. Stev., 1964

@@ -1,5 +1,4 @@
-Cercospora variicolor G. Winter SPECIES
-=======
+# Cercospora variicolor G. Winter SPECIES
 
 #### Status
 ACCEPTED

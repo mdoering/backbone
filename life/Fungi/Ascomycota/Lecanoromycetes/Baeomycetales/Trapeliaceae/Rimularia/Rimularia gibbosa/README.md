@@ -1,14 +1,13 @@
-Mosigia gibbosa (Ach.) Fr. ex A. Massal. SPECIES
-=======
+# Rimularia gibbosa (Ach.) Coppins, Hertel & Rambold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Jahns, Biblthca Lichenol. 38: 171 (1990)
 
 #### Original name
 null

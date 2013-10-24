@@ -1,5 +1,4 @@
-Septoria obscura Trail SPECIES
-=======
+# Septoria obscura Trail SPECIES
 
 #### Status
 ACCEPTED

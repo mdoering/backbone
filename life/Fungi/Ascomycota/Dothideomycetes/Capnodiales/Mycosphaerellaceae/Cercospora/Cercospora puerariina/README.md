@@ -1,5 +1,4 @@
-Cercospora puerariina J.M. Yen SPECIES
-=======
+# Cercospora puerariina J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

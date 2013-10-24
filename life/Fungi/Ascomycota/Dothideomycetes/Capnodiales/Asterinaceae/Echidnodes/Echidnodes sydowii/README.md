@@ -1,5 +1,4 @@
-Echidnodes sydowii Petr. SPECIES
-=======
+# Echidnodes sydowii Petr. SPECIES
 
 #### Status
 ACCEPTED

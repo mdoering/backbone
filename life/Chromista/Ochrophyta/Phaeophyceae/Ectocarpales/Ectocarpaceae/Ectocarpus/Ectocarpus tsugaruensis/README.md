@@ -1,5 +1,4 @@
-Ectocarpus tsugaruensis Ohta SPECIES
-=======
+# Ectocarpus tsugaruensis Ohta SPECIES
 
 #### Status
 ACCEPTED

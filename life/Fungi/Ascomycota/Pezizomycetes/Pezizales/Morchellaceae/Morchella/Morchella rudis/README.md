@@ -1,5 +1,4 @@
-Morchella rudis Boud. SPECIES
-=======
+# Morchella rudis Boud. SPECIES
 
 #### Status
 ACCEPTED

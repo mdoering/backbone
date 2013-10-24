@@ -1,5 +1,4 @@
-Naucoria mammillata Murrill SPECIES
-=======
+# Naucoria mammillata Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptosporium strelitziae (Bres.) Kuntze SPECIES
-=======
+# Cryptosporium strelitziae (Bres.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

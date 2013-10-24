@@ -1,5 +1,4 @@
-Phyllosticta succisae Pers. SPECIES
-=======
+# Phyllosticta succisae Pers. SPECIES
 
 #### Status
 ACCEPTED

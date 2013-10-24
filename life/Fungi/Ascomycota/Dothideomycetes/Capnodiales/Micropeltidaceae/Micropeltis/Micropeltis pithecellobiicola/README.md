@@ -1,17 +1,16 @@
-Micropeltis pithecolobiicola Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis pithecellobiicola Bat. & I.H. Lima SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Publções Inst. Micol. Recife 56: 128 (1959)
 
 #### Original name
-Micropeltis pithecolobiicola Bat. & I.H. Lima
+Micropeltis pithecellobiicola Bat. & I.H. Lima
 
 ### Remarks
 null

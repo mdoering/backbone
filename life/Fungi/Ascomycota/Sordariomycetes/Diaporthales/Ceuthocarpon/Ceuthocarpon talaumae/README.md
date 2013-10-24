@@ -1,5 +1,4 @@
-Ceuthocarpon talaumae Rehm SPECIES
-=======
+# Ceuthocarpon talaumae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea praelata Stizenb. SPECIES
-=======
+# Lecidea praelata Stizenb. SPECIES
 
 #### Status
 ACCEPTED

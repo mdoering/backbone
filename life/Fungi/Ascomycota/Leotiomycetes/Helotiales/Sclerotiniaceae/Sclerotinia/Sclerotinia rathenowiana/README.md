@@ -1,5 +1,4 @@
-Sclerotinia rathenowiana Kirschst. SPECIES
-=======
+# Sclerotinia rathenowiana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

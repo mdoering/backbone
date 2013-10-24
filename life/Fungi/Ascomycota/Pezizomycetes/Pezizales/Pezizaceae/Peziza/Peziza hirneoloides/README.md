@@ -1,5 +1,4 @@
-Peziza hirneoloides Berk. SPECIES
-=======
+# Peziza hirneoloides Berk. SPECIES
 
 #### Status
 ACCEPTED

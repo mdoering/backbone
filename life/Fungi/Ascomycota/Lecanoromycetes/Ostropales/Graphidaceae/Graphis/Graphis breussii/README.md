@@ -1,5 +1,4 @@
-Graphis breussii Neuwirth & Lücking SPECIES
-=======
+# Graphis breussii Neuwirth & Lücking SPECIES
 
 #### Status
 ACCEPTED

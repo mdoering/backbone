@@ -1,5 +1,4 @@
-Didymium saturnus H.W. Keller, 1970 SPECIES
-=======
+# Didymium saturnus H.W. Keller, 1970 SPECIES
 
 #### Status
 ACCEPTED

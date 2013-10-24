@@ -1,5 +1,4 @@
-Bacidia carneolutea Malme SPECIES
-=======
+# Bacidia carneolutea Malme SPECIES
 
 #### Status
 ACCEPTED

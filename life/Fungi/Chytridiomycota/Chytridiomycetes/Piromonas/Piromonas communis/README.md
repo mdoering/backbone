@@ -1,5 +1,4 @@
-Piromonas communis E. Liebet., 1910 SPECIES
-=======
+# Piromonas communis E. Liebet., 1910 SPECIES
 
 #### Status
 ACCEPTED

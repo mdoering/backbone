@@ -1,5 +1,4 @@
-Ramaria perfluopunicea R.H. Petersen, 1988 SPECIES
-=======
+# Ramaria perfluopunicea R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

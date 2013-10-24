@@ -1,5 +1,4 @@
-Macrophoma nitens (Sacc., M. Rousseau & E. Bommer) Berl. & Voglino SPECIES
-=======
+# Macrophoma nitens (Sacc., M. Rousseau & E. Bommer) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

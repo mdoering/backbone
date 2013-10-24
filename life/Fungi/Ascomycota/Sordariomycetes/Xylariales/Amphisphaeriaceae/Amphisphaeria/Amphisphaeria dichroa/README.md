@@ -1,5 +1,4 @@
-Amphisphaeria dichroa (Durieu & Mont.) Ces. & De Not. SPECIES
-=======
+# Amphisphaeria dichroa (Durieu & Mont.) Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

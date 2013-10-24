@@ -1,5 +1,4 @@
-Volvaria sollerensis Rolland SPECIES
-=======
+# Volvaria sollerensis Rolland SPECIES
 
 #### Status
 ACCEPTED

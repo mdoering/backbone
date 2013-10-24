@@ -1,5 +1,4 @@
-Uredo kaempferiae Syd. & P. Syd. SPECIES
-=======
+# Uredo kaempferiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

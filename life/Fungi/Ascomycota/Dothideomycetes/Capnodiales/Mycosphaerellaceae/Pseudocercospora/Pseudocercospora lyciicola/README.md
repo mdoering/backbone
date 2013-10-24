@@ -1,5 +1,4 @@
-Pseudocercospora lyciicola (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora lyciicola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma doebbeleri M. Piepenbr., 1995 SPECIES
-=======
+# Entyloma doebbeleri M. Piepenbr., 1995 SPECIES
 
 #### Status
 ACCEPTED

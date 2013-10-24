@@ -1,5 +1,4 @@
-Protopsis elongata Schiller, 1928 SPECIES
-=======
+# Protopsis elongata Schiller, 1928 SPECIES
 
 #### Status
 ACCEPTED

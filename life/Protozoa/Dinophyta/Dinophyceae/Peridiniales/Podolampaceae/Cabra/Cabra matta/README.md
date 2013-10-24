@@ -1,5 +1,4 @@
-Cabra matta Shauna Murray & D.J. Patterson SPECIES
-=======
+# Cabra matta Shauna Murray & D.J. Patterson SPECIES
 
 #### Status
 ACCEPTED

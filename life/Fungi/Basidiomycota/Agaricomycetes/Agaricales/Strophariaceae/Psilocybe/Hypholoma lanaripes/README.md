@@ -1,5 +1,4 @@
-Hypholoma lanaripes (Cooke) Sacc. SPECIES
-=======
+# Hypholoma lanaripes (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosarcus griseoroseus (Mont.) Kuntze SPECIES
-=======
+# Dendrosarcus griseoroseus (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

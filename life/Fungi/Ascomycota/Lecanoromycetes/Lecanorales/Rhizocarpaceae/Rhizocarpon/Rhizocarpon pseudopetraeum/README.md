@@ -1,5 +1,4 @@
-Rhizocarpon pseudopetraeum SPECIES
-=======
+# Rhizocarpon pseudopetraeum SPECIES
 
 #### Status
 ACCEPTED

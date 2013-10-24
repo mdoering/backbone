@@ -1,14 +1,13 @@
-Dothidea fimbristylidis Berk. & Broome, 1886 SPECIES
-=======
+# Phyllachora fimbristylidis (Berk. & Broome) Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Linn. Soc. London, Bot. , Ser. 2 2(10): 222 (1886)
+Syll. fung. (Abellini) 9: 1025 (1891)
 
 #### Original name
 Dothidea fimbristylidis Berk. & Broome, 1886

@@ -1,5 +1,4 @@
-Claussenomyces dacrymycetoideus Ouell. & Korf, 1979 SPECIES
-=======
+# Claussenomyces dacrymycetoideus Ouell. & Korf, 1979 SPECIES
 
 #### Status
 ACCEPTED

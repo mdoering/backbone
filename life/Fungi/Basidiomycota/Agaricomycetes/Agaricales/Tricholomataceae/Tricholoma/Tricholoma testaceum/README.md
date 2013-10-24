@@ -1,5 +1,4 @@
-Tricholoma testaceum G. Stev., 1964 SPECIES
-=======
+# Tricholoma testaceum G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

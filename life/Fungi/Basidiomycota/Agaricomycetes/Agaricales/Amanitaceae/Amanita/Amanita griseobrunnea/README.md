@@ -1,5 +1,4 @@
-Amanita griseobrunnea O.K. Mill. SPECIES
-=======
+# Amanita griseobrunnea O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubulina ovata Pers. SPECIES
-=======
+# Tubulina ovata Pers. SPECIES
 
 #### Status
 ACCEPTED

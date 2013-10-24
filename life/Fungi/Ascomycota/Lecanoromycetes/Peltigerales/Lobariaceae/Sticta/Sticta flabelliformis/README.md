@@ -1,5 +1,4 @@
-Sticta flabelliformis Zahlbr. SPECIES
-=======
+# Sticta flabelliformis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

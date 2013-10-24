@@ -1,5 +1,4 @@
-Lentinus pholiotaeformis Velen. SPECIES
-=======
+# Lentinus pholiotaeformis Velen. SPECIES
 
 #### Status
 ACCEPTED

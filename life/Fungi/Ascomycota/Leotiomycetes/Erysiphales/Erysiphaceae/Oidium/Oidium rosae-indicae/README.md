@@ -1,5 +1,4 @@
-Oidium rosae-indicae Sawada SPECIES
-=======
+# Oidium rosae-indicae Sawada SPECIES
 
 #### Status
 ACCEPTED

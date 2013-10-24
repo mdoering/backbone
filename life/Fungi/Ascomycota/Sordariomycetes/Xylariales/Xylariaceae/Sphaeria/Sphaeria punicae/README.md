@@ -1,5 +1,4 @@
-Sphaeria punicae Mont. SPECIES
-=======
+# Sphaeria punicae Mont. SPECIES
 
 #### Status
 ACCEPTED

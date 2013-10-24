@@ -1,5 +1,4 @@
-Steccherinum litschaueri (Bourdot & Galzin) J. Erikss. SPECIES
-=======
+# Steccherinum litschaueri (Bourdot & Galzin) J. Erikss. SPECIES
 
 #### Status
 ACCEPTED

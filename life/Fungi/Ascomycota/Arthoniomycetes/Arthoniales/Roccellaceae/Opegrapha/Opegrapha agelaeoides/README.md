@@ -1,5 +1,4 @@
-Opegrapha agelaeoides Nyl. SPECIES
-=======
+# Opegrapha agelaeoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

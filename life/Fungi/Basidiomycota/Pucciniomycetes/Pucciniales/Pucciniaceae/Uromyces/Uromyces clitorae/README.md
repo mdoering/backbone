@@ -1,5 +1,4 @@
-Uromyces clitorae Arthur SPECIES
-=======
+# Uromyces clitorae Arthur SPECIES
 
 #### Status
 ACCEPTED

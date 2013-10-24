@@ -1,5 +1,4 @@
-Mucor tenerrimus (Berk.) Berk. SPECIES
-=======
+# Mucor tenerrimus (Berk.) Berk. SPECIES
 
 #### Status
 ACCEPTED

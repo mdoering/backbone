@@ -1,5 +1,4 @@
-Papulaspora magnusiana (Sacc.) Hotson SPECIES
-=======
+# Papulaspora magnusiana (Sacc.) Hotson SPECIES
 
 #### Status
 ACCEPTED

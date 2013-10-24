@@ -1,5 +1,4 @@
-Spilosticta moravica Petr. SPECIES
-=======
+# Spilosticta moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

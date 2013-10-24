@@ -1,5 +1,4 @@
-Russula lamprocystidiata Buyck SPECIES
-=======
+# Russula lamprocystidiata Buyck SPECIES
 
 #### Status
 ACCEPTED

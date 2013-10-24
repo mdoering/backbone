@@ -1,5 +1,4 @@
-Cochlodinium pulchellum Lebour SPECIES
-=======
+# Cochlodinium pulchellum Lebour SPECIES
 
 #### Status
 ACCEPTED

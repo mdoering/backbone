@@ -1,5 +1,4 @@
-Russula regalis Murrill SPECIES
-=======
+# Russula regalis Murrill SPECIES
 
 #### Status
 ACCEPTED

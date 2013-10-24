@@ -1,5 +1,4 @@
-Pedospumella Boenigk & Findenig, 2010 GENUS
-=======
+# Pedospumella Boenigk & Findenig, 2010 GENUS
 
 #### Status
 ACCEPTED

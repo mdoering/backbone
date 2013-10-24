@@ -1,5 +1,4 @@
-Lachnum epigeios Velen. SPECIES
-=======
+# Lachnum epigeios Velen. SPECIES
 
 #### Status
 ACCEPTED

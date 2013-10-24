@@ -1,5 +1,4 @@
-Macmillanina maculans (Corda) Kuntze SPECIES
-=======
+# Macmillanina maculans (Corda) Kuntze SPECIES
 
 #### Status
 ACCEPTED

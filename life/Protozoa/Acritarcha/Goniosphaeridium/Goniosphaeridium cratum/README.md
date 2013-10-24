@@ -1,5 +1,4 @@
-Goniosphaeridium cratum Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
-=======
+# Goniosphaeridium cratum Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
 
 #### Status
 ACCEPTED

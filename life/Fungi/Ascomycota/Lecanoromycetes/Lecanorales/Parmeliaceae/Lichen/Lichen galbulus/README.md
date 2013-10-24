@@ -1,5 +1,4 @@
-Lichen galbulus SPECIES
-=======
+# Lichen galbulus SPECIES
 
 #### Status
 ACCEPTED

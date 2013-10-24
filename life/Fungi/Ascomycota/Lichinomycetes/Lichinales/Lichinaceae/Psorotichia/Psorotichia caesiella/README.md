@@ -1,5 +1,4 @@
-Psorotichia caesiella (Th. Fr.) Forssell SPECIES
-=======
+# Psorotichia caesiella (Th. Fr.) Forssell SPECIES
 
 #### Status
 ACCEPTED

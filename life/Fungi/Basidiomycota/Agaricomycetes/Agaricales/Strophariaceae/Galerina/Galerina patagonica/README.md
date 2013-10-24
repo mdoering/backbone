@@ -1,17 +1,16 @@
-Pholiota marginata var. tremulae Pilát VARIETY
-=======
+# Galerina patagonica Singer, 1953 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Pholiota marginata var. tremulae Pilát
+Galerina patagonica Singer, 1953
 
 ### Remarks
 null

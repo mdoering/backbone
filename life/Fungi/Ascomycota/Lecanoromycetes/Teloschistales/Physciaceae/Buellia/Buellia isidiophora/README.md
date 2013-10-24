@@ -1,5 +1,4 @@
-Buellia isidiophora D.D. Awasthi & Upreti SPECIES
-=======
+# Buellia isidiophora D.D. Awasthi & Upreti SPECIES
 
 #### Status
 ACCEPTED

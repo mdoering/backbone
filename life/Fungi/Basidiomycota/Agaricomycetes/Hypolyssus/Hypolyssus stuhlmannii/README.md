@@ -1,5 +1,4 @@
-Hypolyssus stuhlmannii (Henn.) Kuntze SPECIES
-=======
+# Hypolyssus stuhlmannii (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

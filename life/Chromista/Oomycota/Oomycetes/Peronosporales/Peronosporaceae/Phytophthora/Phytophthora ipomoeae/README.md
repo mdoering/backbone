@@ -1,5 +1,4 @@
-Phytophthora ipomoeae Flier & Grünwald SPECIES
-=======
+# Phytophthora ipomoeae Flier & Grünwald SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deflexula sulcispora Corner, 1952 SPECIES
-=======
+# Deflexula sulcispora Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibberidea cingarus (Sacc. & Schulzer) Kuntze SPECIES
-=======
+# Gibberidea cingarus (Sacc. & Schulzer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

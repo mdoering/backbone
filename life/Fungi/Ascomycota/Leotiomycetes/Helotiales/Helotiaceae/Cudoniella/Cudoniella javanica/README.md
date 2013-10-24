@@ -1,5 +1,4 @@
-Cudoniella javanica Henn. SPECIES
-=======
+# Cudoniella javanica Henn. SPECIES
 
 #### Status
 ACCEPTED

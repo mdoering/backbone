@@ -1,5 +1,4 @@
-Diophrys multinucleata Hartwig, 1973 SPECIES
-=======
+# Diophrys multinucleata Hartwig, 1973 SPECIES
 
 #### Status
 ACCEPTED

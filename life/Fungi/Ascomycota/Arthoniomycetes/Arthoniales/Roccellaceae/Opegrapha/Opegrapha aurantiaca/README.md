@@ -1,5 +1,4 @@
-Opegrapha aurantiaca B. de Lesd. SPECIES
-=======
+# Opegrapha aurantiaca B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

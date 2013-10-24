@@ -1,5 +1,4 @@
-Lecanora viridissima A. Nordin, Sundin & G. Thor SPECIES
-=======
+# Lecanora viridissima A. Nordin, Sundin & G. Thor SPECIES
 
 #### Status
 ACCEPTED

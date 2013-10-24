@@ -1,5 +1,4 @@
-Opegrapha pseudoagelaea Müll. Arg. SPECIES
-=======
+# Opegrapha pseudoagelaea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

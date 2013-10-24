@@ -1,5 +1,4 @@
-Buellia chapadensis Malme SPECIES
-=======
+# Buellia chapadensis Malme SPECIES
 
 #### Status
 ACCEPTED

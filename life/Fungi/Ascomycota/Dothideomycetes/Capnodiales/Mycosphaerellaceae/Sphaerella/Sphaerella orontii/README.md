@@ -1,5 +1,4 @@
-Sphaerella orontii Ellis & Everh. SPECIES
-=======
+# Sphaerella orontii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

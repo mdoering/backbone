@@ -1,8 +1,7 @@
-Pimelobacter jensenii Suzuki & Komagata, 1983 SPECIES
-=======
+# Nocardioides jensenii (Suzuki & Komagata, 1983) Collins et al., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

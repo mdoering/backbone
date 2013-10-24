@@ -1,5 +1,4 @@
-Exobasidium parvifolii Hotson SPECIES
-=======
+# Exobasidium parvifolii Hotson SPECIES
 
 #### Status
 ACCEPTED

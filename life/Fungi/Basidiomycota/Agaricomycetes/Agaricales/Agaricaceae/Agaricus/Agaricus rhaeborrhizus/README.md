@@ -1,5 +1,4 @@
-Agaricus rhaeborrhizus Lasch SPECIES
-=======
+# Agaricus rhaeborrhizus Lasch SPECIES
 
 #### Status
 ACCEPTED

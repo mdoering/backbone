@@ -1,5 +1,4 @@
-Streptomyces bungoensis Eguchi et al., 1993 SPECIES
-=======
+# Streptomyces bungoensis Eguchi et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

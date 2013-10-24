@@ -1,5 +1,4 @@
-Phanulithus ovalis (H. Stradner) F.H. Wind & S.W. Wise SPECIES
-=======
+# Phanulithus ovalis (H. Stradner) F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

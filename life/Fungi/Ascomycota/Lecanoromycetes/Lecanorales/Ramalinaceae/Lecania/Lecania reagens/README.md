@@ -1,5 +1,4 @@
-Lecania reagens Werner SPECIES
-=======
+# Lecania reagens Werner SPECIES
 
 #### Status
 ACCEPTED

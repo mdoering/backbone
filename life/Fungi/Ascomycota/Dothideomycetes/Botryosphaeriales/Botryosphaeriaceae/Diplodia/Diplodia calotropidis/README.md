@@ -1,5 +1,4 @@
-Diplodia calotropidis S. Ahmad SPECIES
-=======
+# Diplodia calotropidis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

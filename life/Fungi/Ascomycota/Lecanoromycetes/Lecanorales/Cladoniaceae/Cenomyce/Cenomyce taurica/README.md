@@ -1,5 +1,4 @@
-Cenomyce taurica (Wulfen) Röhl. SPECIES
-=======
+# Cenomyce taurica (Wulfen) Röhl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe davisiana Kauffman SPECIES
-=======
+# Inocybe davisiana Kauffman SPECIES
 
 #### Status
 ACCEPTED

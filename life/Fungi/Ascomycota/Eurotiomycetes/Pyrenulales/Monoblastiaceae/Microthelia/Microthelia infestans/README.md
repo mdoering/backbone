@@ -1,5 +1,4 @@
-Microthelia infestans (Speg.) Kuntze SPECIES
-=======
+# Microthelia infestans (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

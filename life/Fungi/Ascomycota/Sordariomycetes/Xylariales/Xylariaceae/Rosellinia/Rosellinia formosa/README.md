@@ -1,5 +1,4 @@
-Rosellinia formosa var. formosa VARIETY
-=======
+# Rosellinia formosa Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Malpighia, Ser. 1 11: 393 (1897)
 
 #### Original name
-Rosellinia formosa var. formosa
+Rosellinia formosa Penz. & Sacc.
 
 ### Remarks
 null

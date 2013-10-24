@@ -1,5 +1,4 @@
-Rhynchomelas arenaria (Mont.) Clem. SPECIES
-=======
+# Rhynchomelas arenaria (Mont.) Clem. SPECIES
 
 #### Status
 ACCEPTED

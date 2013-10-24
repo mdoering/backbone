@@ -1,5 +1,4 @@
-Coprinus intermedius Penz. SPECIES
-=======
+# Coprinus intermedius Penz. SPECIES
 
 #### Status
 ACCEPTED

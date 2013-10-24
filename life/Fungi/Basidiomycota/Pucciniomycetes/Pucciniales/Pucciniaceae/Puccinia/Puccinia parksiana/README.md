@@ -1,5 +1,4 @@
-Puccinia parksiana Cummins SPECIES
-=======
+# Puccinia parksiana Cummins SPECIES
 
 #### Status
 ACCEPTED

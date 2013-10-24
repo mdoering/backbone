@@ -1,5 +1,4 @@
-Diderma nigripes Fr. SPECIES
-=======
+# Diderma nigripes Fr. SPECIES
 
 #### Status
 ACCEPTED

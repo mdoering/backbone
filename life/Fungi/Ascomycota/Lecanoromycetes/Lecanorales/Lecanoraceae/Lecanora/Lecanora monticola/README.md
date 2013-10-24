@@ -1,5 +1,4 @@
-Lecanora monticola H. Magn. SPECIES
-=======
+# Lecanora monticola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

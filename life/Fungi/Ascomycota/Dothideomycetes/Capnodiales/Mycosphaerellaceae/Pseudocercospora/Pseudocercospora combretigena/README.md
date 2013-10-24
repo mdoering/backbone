@@ -1,5 +1,4 @@
-Pseudocercospora combretigena U. Braun SPECIES
-=======
+# Pseudocercospora combretigena U. Braun SPECIES
 
 #### Status
 ACCEPTED

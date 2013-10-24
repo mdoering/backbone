@@ -1,5 +1,4 @@
-Jakoba D.J.Patterson, 1990 GENUS
-=======
+# Jakoba D.J.Patterson, 1990 GENUS
 
 #### Status
 ACCEPTED

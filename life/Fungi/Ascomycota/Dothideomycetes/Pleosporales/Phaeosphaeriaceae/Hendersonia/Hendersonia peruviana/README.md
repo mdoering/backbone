@@ -1,5 +1,4 @@
-Hendersonia peruviana Speg. SPECIES
-=======
+# Hendersonia peruviana Speg. SPECIES
 
 #### Status
 ACCEPTED

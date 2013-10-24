@@ -1,5 +1,4 @@
-Leptophycus K.B. Korde, 1954 GENUS
-=======
+# Leptophycus K.B. Korde, 1954 GENUS
 
 #### Status
 ACCEPTED

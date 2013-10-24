@@ -1,5 +1,4 @@
-Saccharomycopsis javanensis (Klöcker) Kurtzman & Robnett, 1995 SPECIES
-=======
+# Saccharomycopsis javanensis (Klöcker) Kurtzman & Robnett, 1995 SPECIES
 
 #### Status
 ACCEPTED

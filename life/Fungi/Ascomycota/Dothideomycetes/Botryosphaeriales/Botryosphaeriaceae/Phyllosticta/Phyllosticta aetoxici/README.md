@@ -1,5 +1,4 @@
-Phyllosticta aetoxici Speg. SPECIES
-=======
+# Phyllosticta aetoxici Speg. SPECIES
 
 #### Status
 ACCEPTED

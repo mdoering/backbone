@@ -1,5 +1,4 @@
-Condylostoma subterraneum Lepsi, 1962 SPECIES
-=======
+# Condylostoma subterraneum Lepsi, 1962 SPECIES
 
 #### Status
 ACCEPTED

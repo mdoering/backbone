@@ -1,5 +1,4 @@
-Derxomyces hubeiensis F.Y. Bai, Q.M. Wang & M. Takash. ex F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Derxomyces hubeiensis F.Y. Bai, Q.M. Wang & M. Takash. ex F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

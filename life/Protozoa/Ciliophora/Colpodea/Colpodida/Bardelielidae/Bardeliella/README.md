@@ -1,5 +1,4 @@
-Bardeliella Foissner, 1984 GENUS
-=======
+# Bardeliella Foissner, 1984 GENUS
 
 #### Status
 ACCEPTED

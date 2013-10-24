@@ -1,14 +1,13 @@
-Parvobasidium lundellii (Ryvarden & H. Solheim) Jülich, 1979 SPECIES
-=======
+# Physodontia lundellii Ryvarden & H. Solheim, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 10(3): 334 (1979)
+Mycotaxon 6(2): 376 (1977)
 
 #### Original name
 Physodontia lundellii Ryvarden & H. Solheim, 1977

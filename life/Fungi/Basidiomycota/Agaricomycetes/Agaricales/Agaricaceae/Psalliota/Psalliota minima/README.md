@@ -1,5 +1,4 @@
-Psalliota minima Ricken SPECIES
-=======
+# Psalliota minima Ricken SPECIES
 
 #### Status
 ACCEPTED

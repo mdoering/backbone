@@ -1,5 +1,4 @@
-Leccinum floccopus (E.-J. Gilbert) Redeuilh SPECIES
-=======
+# Leccinum floccopus (E.-J. Gilbert) Redeuilh SPECIES
 
 #### Status
 ACCEPTED

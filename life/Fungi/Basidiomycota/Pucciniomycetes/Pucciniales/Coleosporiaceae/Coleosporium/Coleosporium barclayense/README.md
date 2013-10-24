@@ -1,5 +1,4 @@
-Coleosporium barclayense Bagchee SPECIES
-=======
+# Coleosporium barclayense Bagchee SPECIES
 
 #### Status
 ACCEPTED

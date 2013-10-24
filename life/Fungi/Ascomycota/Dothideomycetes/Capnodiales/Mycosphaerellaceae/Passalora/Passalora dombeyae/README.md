@@ -1,5 +1,4 @@
-Passalora dombeyae (Crous & U. Braun) U. Braun & Crous SPECIES
-=======
+# Passalora dombeyae (Crous & U. Braun) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

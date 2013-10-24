@@ -1,5 +1,4 @@
-Asterina holocalycis Speg. SPECIES
-=======
+# Asterina holocalycis Speg. SPECIES
 
 #### Status
 ACCEPTED

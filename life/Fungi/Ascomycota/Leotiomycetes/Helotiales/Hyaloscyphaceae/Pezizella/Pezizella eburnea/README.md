@@ -1,17 +1,16 @@
-Pezizella eburnea f. eburnea FORM
-=======
+# Pezizella eburnea (Roberge) Dennis, 1956 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycol. Pap. 62: 61 (1956)
 
 #### Original name
-Pezizella eburnea f. eburnea
+null
 
 ### Remarks
 null

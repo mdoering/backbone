@@ -1,5 +1,4 @@
-Postia dissecta (Lév.) Rajchenb., 1988 SPECIES
-=======
+# Postia dissecta (Lév.) Rajchenb., 1988 SPECIES
 
 #### Status
 ACCEPTED

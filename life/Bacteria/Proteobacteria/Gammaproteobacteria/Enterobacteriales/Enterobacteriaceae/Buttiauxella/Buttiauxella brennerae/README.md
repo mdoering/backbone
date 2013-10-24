@@ -1,5 +1,4 @@
-Buttiauxella brennerae Müller et al., 1996 SPECIES
-=======
+# Buttiauxella brennerae Müller et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

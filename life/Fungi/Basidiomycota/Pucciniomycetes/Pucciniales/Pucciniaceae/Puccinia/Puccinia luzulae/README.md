@@ -1,17 +1,16 @@
-Uredo oblonga Rabenh. SPECIES
-=======
+# Puccinia luzulae Speg., 1830 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pl. crypt. Arduenna (Liège), fasc. no. 94 (1830)
 
 #### Original name
-null
+Puccinia luzulae Speg., 1830
 
 ### Remarks
 null

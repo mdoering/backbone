@@ -1,17 +1,16 @@
-Wardomyces anomala F.T. Brooks & Hansf. SPECIES
-=======
+# Wardomyces anomalus F.T. Brooks & Hansf., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 8: 137 (1923)
 
 #### Original name
-Wardomyces anomala F.T. Brooks & Hansf.
+Wardomyces anomalus F.T. Brooks & Hansf., 1923
 
 ### Remarks
 null

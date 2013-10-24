@@ -1,5 +1,4 @@
-Phaeotheca fissurella Sigler, Tsuneda & J.W. Carmich., 1981 SPECIES
-=======
+# Phaeotheca fissurella Sigler, Tsuneda & J.W. Carmich., 1981 SPECIES
 
 #### Status
 ACCEPTED

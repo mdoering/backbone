@@ -1,17 +1,16 @@
-Dothophaeis Clem. GENUS
-=======
+# Englerodothis Theiss. & Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Clements & Shear, Gen. fung. (Minneapolis), Edn 2 291 (1931)
+Annls mycol. 13(3/4): 285 (1915)
 
 #### Original name
-Dothophaeis Clem.
+Englerodothis Theiss. & Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leptosphaeria picridis Fautrey & Lambotte SPECIES
-=======
+# Leptosphaeria picridis Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

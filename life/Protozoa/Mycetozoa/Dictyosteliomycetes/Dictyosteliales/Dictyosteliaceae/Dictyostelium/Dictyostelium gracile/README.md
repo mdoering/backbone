@@ -1,5 +1,4 @@
-Dictyostelium gracile H. Hagiw., 1983 SPECIES
-=======
+# Dictyostelium gracile H. Hagiw., 1983 SPECIES
 
 #### Status
 ACCEPTED

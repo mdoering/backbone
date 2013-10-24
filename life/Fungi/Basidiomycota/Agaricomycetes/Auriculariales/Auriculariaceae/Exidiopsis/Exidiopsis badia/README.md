@@ -1,5 +1,4 @@
-Exidiopsis badia P. Roberts, 2003 SPECIES
-=======
+# Exidiopsis badia P. Roberts, 2003 SPECIES
 
 #### Status
 ACCEPTED

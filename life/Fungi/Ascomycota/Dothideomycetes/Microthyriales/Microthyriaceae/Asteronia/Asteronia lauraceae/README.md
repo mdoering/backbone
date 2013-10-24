@@ -1,5 +1,4 @@
-Asteronia lauraceae Henn. SPECIES
-=======
+# Asteronia lauraceae Henn. SPECIES
 
 #### Status
 ACCEPTED

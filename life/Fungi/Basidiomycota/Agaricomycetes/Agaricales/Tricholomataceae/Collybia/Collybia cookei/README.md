@@ -1,14 +1,13 @@
-Microcollybia cookei (Bres.) Lennox, 1979 SPECIES
-=======
+# Collybia cookei (Bres.) J.D. Arnold, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 9(1): 194 (1979)
+Mycologia 27: 413 (1935)
 
 #### Original name
 Collybia cirrhata var. cookei Bres., 1928

@@ -1,5 +1,4 @@
-Nanoviridae FAMILY
-=======
+# Nanoviridae FAMILY
 
 #### Status
 ACCEPTED

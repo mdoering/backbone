@@ -1,5 +1,4 @@
-Diplodiella fibriseda (Sacc.) Sacc. SPECIES
-=======
+# Diplodiella fibriseda (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

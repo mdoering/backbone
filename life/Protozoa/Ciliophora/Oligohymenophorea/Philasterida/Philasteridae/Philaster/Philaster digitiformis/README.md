@@ -1,5 +1,4 @@
-Philaster digitiformis Fabre-Domergue, 1885 SPECIES
-=======
+# Philaster digitiformis Fabre-Domergue, 1885 SPECIES
 
 #### Status
 ACCEPTED

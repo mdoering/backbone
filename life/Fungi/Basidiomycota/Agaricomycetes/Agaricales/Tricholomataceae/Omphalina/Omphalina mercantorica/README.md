@@ -1,5 +1,4 @@
-Omphalina mercantorica Trimbach SPECIES
-=======
+# Omphalina mercantorica Trimbach SPECIES
 
 #### Status
 ACCEPTED

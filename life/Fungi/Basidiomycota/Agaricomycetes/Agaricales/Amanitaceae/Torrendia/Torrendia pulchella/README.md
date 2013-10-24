@@ -1,17 +1,16 @@
-Amanita torrendii Justo, 2010 SPECIES
-=======
+# Torrendia pulchella Bres., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atti Imp. Regia Accad. Rovereto, ser. 3 8: (1902)
 
 #### Original name
-null
+Torrendia pulchella Bres., 1902
 
 ### Remarks
 null

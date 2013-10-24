@@ -1,5 +1,4 @@
-Agrocybe hortensis (Burt) Singer SPECIES
-=======
+# Agrocybe hortensis (Burt) Singer SPECIES
 
 #### Status
 ACCEPTED

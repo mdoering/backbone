@@ -1,5 +1,4 @@
-Hygrophorus bakerensis A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus bakerensis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

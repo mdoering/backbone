@@ -1,5 +1,4 @@
-Agaricus kauffmanii A.H. Sm. SPECIES
-=======
+# Agaricus kauffmanii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

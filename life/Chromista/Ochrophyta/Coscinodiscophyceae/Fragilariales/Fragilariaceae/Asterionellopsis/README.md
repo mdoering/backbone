@@ -1,5 +1,4 @@
-Asterionellopsis Round, 1990 GENUS
-=======
+# Asterionellopsis Round, 1990 GENUS
 
 #### Status
 ACCEPTED

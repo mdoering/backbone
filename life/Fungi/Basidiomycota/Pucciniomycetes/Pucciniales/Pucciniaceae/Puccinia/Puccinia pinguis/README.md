@@ -1,5 +1,4 @@
-Puccinia pinguis Dietel & Holw. SPECIES
-=======
+# Puccinia pinguis Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

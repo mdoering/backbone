@@ -1,5 +1,4 @@
-Peziza cinnamomeolutescens Schwein. SPECIES
-=======
+# Peziza cinnamomeolutescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

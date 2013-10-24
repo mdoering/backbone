@@ -1,5 +1,4 @@
-Coriolopsis membranaceus (Fr.) SPECIES
-=======
+# Coriolopsis membranaceus (Fr.) SPECIES
 
 #### Status
 ACCEPTED

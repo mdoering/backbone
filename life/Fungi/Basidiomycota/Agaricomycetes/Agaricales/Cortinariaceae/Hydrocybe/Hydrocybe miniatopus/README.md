@@ -1,5 +1,4 @@
-Hydrocybe miniatopus M.M. Moser SPECIES
-=======
+# Hydrocybe miniatopus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

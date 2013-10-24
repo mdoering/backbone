@@ -1,5 +1,4 @@
-Sarconiptera vinacea Raitv., 2003 SPECIES
-=======
+# Sarconiptera vinacea Raitv., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora polytocae Parbery, 1967 SPECIES
-=======
+# Phyllachora polytocae Parbery, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen villosus Haller SPECIES
-=======
+# Lichen villosus Haller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma ingens Ade SPECIES
-=======
+# Phoma ingens Ade SPECIES
 
 #### Status
 ACCEPTED

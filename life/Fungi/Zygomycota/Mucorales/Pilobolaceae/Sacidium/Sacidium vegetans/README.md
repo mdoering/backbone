@@ -1,5 +1,4 @@
-Sacidium vegetans Schwein. SPECIES
-=======
+# Sacidium vegetans Schwein. SPECIES
 
 #### Status
 ACCEPTED

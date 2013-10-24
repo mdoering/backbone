@@ -1,14 +1,13 @@
-Pterospora austrochilensis (Singer) E. Horak, 1983 SPECIES
-=======
+# Tetrapyrgos austrochilensis (Singer) E. Horak, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 36: 131 (1983)
+Sydowia 39: 102 (1987)
 
 #### Original name
 Campanella austrochilensis Singer, 1969

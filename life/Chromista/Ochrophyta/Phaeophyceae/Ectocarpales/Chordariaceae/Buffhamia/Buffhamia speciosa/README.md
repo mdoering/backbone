@@ -1,5 +1,4 @@
-Buffhamia speciosa Batters SPECIES
-=======
+# Buffhamia speciosa Batters SPECIES
 
 #### Status
 ACCEPTED

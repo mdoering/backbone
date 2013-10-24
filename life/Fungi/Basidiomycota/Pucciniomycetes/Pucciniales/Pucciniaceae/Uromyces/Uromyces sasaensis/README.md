@@ -1,17 +1,16 @@
-Uromyces sasaënsis Gjaerum SPECIES
-=======
+# Uromyces sasaensis Gjaerum, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 27: 542 (1986)
 
 #### Original name
-Uromyces sasaënsis Gjaerum
+Uromyces sasaensis Gjaerum, 1986
 
 ### Remarks
 null

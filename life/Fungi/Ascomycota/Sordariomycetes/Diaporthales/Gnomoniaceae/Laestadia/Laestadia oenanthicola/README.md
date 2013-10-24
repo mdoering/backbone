@@ -1,5 +1,4 @@
-Laestadia oenanthicola (Fuckel) Sacc. SPECIES
-=======
+# Laestadia oenanthicola (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

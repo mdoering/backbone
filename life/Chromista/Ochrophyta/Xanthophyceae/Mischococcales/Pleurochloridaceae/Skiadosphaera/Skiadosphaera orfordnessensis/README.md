@@ -1,5 +1,4 @@
-Skiadosphaera orfordnessensis Kufferath, 1950 SPECIES
-=======
+# Skiadosphaera orfordnessensis Kufferath, 1950 SPECIES
 
 #### Status
 ACCEPTED

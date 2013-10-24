@@ -1,5 +1,4 @@
-Riedelia alata (Greville) H. J. Schrader & J. Fenner SPECIES
-=======
+# Riedelia alata (Greville) H. J. Schrader & J. Fenner SPECIES
 
 #### Status
 ACCEPTED

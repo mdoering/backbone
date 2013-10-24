@@ -1,5 +1,4 @@
-Lecidea vezdae V. Wirth SPECIES
-=======
+# Lecidea vezdae V. Wirth SPECIES
 
 #### Status
 ACCEPTED

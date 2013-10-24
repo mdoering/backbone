@@ -1,5 +1,4 @@
-Dicaeoma leontopodii (Voglino) Kuntze SPECIES
-=======
+# Dicaeoma leontopodii (Voglino) Kuntze SPECIES
 
 #### Status
 ACCEPTED

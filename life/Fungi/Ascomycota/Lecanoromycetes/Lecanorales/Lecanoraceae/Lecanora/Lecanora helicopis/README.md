@@ -1,17 +1,16 @@
-Lecanora helicopis f. helicopis FORM
-=======
+# Lecanora helicopis (Wahlenb.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syn. meth. lich. 149 (1814)
 
 #### Original name
-Lecanora helicopis f. helicopis
+Lecidea helicopis Wahlenb.
 
 ### Remarks
 null

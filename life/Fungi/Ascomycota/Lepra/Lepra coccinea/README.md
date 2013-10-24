@@ -1,5 +1,4 @@
-Lepra coccinea Chevall. SPECIES
-=======
+# Lepra coccinea Chevall. SPECIES
 
 #### Status
 ACCEPTED

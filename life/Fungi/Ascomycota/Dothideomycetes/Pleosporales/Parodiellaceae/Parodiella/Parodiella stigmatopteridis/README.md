@@ -1,5 +1,4 @@
-Parodiella stigmatopteridis (Ferd. & Winge) Theiss. & Syd., 1915 SPECIES
-=======
+# Parodiella stigmatopteridis (Ferd. & Winge) Theiss. & Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

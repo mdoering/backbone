@@ -1,5 +1,4 @@
-Graphis persimilis Vain. SPECIES
-=======
+# Graphis persimilis Vain. SPECIES
 
 #### Status
 ACCEPTED

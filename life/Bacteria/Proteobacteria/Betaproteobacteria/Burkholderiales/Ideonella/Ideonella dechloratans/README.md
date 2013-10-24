@@ -1,5 +1,4 @@
-Ideonella dechloratans Malmqvist et al., 1994 SPECIES
-=======
+# Ideonella dechloratans Malmqvist et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

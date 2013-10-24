@@ -1,5 +1,4 @@
-Lecidella alaiensis var. alaiensis VARIETY
-=======
+# Lecidella alaiensis (Vain.) Hertel SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Herzogia 2(4): 501 (1973)
 
 #### Original name
-Lecidella alaiensis var. alaiensis
+Lecidea alaiensis Vain.
 
 ### Remarks
 null

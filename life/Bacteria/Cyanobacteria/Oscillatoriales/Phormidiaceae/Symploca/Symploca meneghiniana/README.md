@@ -1,5 +1,4 @@
-Symploca meneghiniana Kuetzing In Gomont SPECIES
-=======
+# Symploca meneghiniana Kuetzing In Gomont SPECIES
 
 #### Status
 ACCEPTED

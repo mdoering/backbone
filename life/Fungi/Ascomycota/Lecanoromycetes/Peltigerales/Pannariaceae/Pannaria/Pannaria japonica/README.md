@@ -1,5 +1,4 @@
-Pannaria japonica Räsänen SPECIES
-=======
+# Pannaria japonica Räsänen SPECIES
 
 #### Status
 ACCEPTED

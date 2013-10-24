@@ -1,5 +1,4 @@
-Verneuilites Bensh & Kireeva, 1987 GENUS
-=======
+# Verneuilites Bensh & Kireeva, 1987 GENUS
 
 #### Status
 ACCEPTED

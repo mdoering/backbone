@@ -1,5 +1,4 @@
-Cercospora blumeae Thüm. SPECIES
-=======
+# Cercospora blumeae Thüm. SPECIES
 
 #### Status
 ACCEPTED

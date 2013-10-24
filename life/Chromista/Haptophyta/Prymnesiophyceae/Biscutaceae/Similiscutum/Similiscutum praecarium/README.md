@@ -1,5 +1,4 @@
-Similiscutum praecarium SPECIES
-=======
+# Similiscutum praecarium SPECIES
 
 #### Status
 ACCEPTED

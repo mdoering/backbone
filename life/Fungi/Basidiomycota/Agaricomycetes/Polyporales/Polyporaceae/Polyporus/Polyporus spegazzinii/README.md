@@ -1,5 +1,4 @@
-Polyporus spegazzinii Bres. SPECIES
-=======
+# Polyporus spegazzinii Bres. SPECIES
 
 #### Status
 ACCEPTED

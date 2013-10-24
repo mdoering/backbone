@@ -1,5 +1,4 @@
-Botryozyma mucatilis J. Kerrigan, M.T. Sm. & J.D. Rogers, 2004 SPECIES
-=======
+# Botryozyma mucatilis J. Kerrigan, M.T. Sm. & J.D. Rogers, 2004 SPECIES
 
 #### Status
 ACCEPTED

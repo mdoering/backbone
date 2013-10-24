@@ -1,5 +1,4 @@
-Candida olei (Tiegh.) Cif., Verona & Luparini SPECIES
-=======
+# Candida olei (Tiegh.) Cif., Verona & Luparini SPECIES
 
 #### Status
 ACCEPTED

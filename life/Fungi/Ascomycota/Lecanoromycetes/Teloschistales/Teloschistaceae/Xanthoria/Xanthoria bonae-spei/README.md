@@ -1,5 +1,4 @@
-Xanthoria bonae-spei S. Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthoria bonae-spei S. Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

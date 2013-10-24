@@ -1,8 +1,7 @@
-Uredo lejodernia Speg. SPECIES
-=======
+# Uredo leiodernia Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo lejodernia Speg.
+Uredo leiodernia Speg.
 
 ### Remarks
 null

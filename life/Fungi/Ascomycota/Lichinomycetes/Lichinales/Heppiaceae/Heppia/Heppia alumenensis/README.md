@@ -1,5 +1,4 @@
-Heppia alumenensis Herre SPECIES
-=======
+# Heppia alumenensis Herre SPECIES
 
 #### Status
 ACCEPTED

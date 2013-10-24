@@ -1,17 +1,16 @@
-Macrospora Tsyganov et al., 1964 GENUS
-=======
+# Streptomyces Waksman & Henrici GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Streptomyces Waksman & Henrici
 
 ### Remarks
 null

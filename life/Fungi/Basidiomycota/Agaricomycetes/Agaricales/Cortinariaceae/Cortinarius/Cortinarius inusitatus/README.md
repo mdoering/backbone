@@ -1,5 +1,4 @@
-Cortinarius inusitatus A. Ortega, Bidaud, Suárez-Santiago & Vila SPECIES
-=======
+# Cortinarius inusitatus A. Ortega, Bidaud, Suárez-Santiago & Vila SPECIES
 
 #### Status
 ACCEPTED

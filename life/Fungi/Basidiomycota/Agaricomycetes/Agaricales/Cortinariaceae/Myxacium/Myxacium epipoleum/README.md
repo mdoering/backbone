@@ -1,5 +1,4 @@
-Myxacium epipoleum (Fr.) M.M. Moser SPECIES
-=======
+# Myxacium epipoleum (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudolachnea minutissima Velen. SPECIES
-=======
+# Pseudolachnea minutissima Velen. SPECIES
 
 #### Status
 ACCEPTED

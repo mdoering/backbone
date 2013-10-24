@@ -1,5 +1,4 @@
-Stromatinia narcissi Drayton & J.W. Groves, 1952 SPECIES
-=======
+# Stromatinia narcissi Drayton & J.W. Groves, 1952 SPECIES
 
 #### Status
 ACCEPTED

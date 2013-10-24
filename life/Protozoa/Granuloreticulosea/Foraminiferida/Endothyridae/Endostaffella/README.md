@@ -1,14 +1,13 @@
-Zellerina Mamet, 1970 GENUS
-=======
+# Endostaffella Rozovskaya, 1961 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Paleont. Zh. 1961 (3): 20.
 
 #### Original name
 null

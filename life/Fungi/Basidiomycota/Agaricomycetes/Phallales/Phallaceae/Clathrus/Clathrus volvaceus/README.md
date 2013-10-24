@@ -1,5 +1,4 @@
-Clathrus volvaceus Bull. SPECIES
-=======
+# Clathrus volvaceus Bull. SPECIES
 
 #### Status
 ACCEPTED

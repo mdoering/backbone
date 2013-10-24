@@ -1,5 +1,4 @@
-Lepiota gomezii Singer SPECIES
-=======
+# Lepiota gomezii Singer SPECIES
 
 #### Status
 ACCEPTED

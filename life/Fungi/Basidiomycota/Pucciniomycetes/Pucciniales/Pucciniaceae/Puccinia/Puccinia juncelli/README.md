@@ -1,5 +1,4 @@
-Puccinia juncelli Dietel SPECIES
-=======
+# Puccinia juncelli Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eupodiscus kamischevensis A. P. Jousé SPECIES
-=======
+# Eupodiscus kamischevensis A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

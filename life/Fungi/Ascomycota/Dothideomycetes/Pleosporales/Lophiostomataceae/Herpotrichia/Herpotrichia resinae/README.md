@@ -1,5 +1,4 @@
-Herpotrichia resinae Bres. SPECIES
-=======
+# Herpotrichia resinae Bres. SPECIES
 
 #### Status
 ACCEPTED

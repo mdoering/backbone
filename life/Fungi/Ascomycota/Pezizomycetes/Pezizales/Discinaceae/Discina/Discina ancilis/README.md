@@ -1,17 +1,16 @@
-Discina perlata var. perlata VARIETY
-=======
+# Discina ancilis (Pers.) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 348 (1849)
+Syll. fung. (Abellini) 8: 103 (1889)
 
 #### Original name
-Discina perlata var. perlata
+Peziza ancilis Pers., 1822
 
 ### Remarks
 null

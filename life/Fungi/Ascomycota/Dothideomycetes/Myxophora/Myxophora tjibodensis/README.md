@@ -1,5 +1,4 @@
-Myxophora tjibodensis Döbbeler, 1995 SPECIES
-=======
+# Myxophora tjibodensis Döbbeler, 1995 SPECIES
 
 #### Status
 ACCEPTED

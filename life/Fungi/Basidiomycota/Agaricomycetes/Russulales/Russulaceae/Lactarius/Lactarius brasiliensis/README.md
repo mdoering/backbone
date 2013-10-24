@@ -1,5 +1,4 @@
-Lactarius brasiliensis Singer SPECIES
-=======
+# Lactarius brasiliensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium baculatum Westling SPECIES
-=======
+# Penicillium baculatum Westling SPECIES
 
 #### Status
 ACCEPTED

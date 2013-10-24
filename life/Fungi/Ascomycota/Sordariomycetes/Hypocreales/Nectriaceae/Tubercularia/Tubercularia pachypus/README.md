@@ -1,5 +1,4 @@
-Tubercularia pachypus (Nyl.) SPECIES
-=======
+# Tubercularia pachypus (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

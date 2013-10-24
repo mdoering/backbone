@@ -1,5 +1,4 @@
-Bacidia sororcula (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia sororcula (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

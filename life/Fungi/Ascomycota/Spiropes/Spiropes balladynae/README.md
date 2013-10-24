@@ -1,5 +1,4 @@
-Spiropes balladynae M.B. Ellis SPECIES
-=======
+# Spiropes balladynae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

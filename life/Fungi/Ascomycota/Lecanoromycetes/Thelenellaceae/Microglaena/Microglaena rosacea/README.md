@@ -1,5 +1,4 @@
-Microglaena rosacea Zahlbr. SPECIES
-=======
+# Microglaena rosacea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

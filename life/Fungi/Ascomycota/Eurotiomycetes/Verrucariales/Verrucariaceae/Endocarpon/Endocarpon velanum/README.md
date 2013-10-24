@@ -1,5 +1,4 @@
-Endocarpon velanum (A. Massal.) Hue SPECIES
-=======
+# Endocarpon velanum (A. Massal.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthelia arundinicola (Bizz.) Kuntze SPECIES
-=======
+# Microthelia arundinicola (Bizz.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

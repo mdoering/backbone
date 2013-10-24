@@ -1,5 +1,4 @@
-Wynnea macrospora B. Liu, M.H. Liu & J.Z. Cao SPECIES
-=======
+# Wynnea macrospora B. Liu, M.H. Liu & J.Z. Cao SPECIES
 
 #### Status
 ACCEPTED

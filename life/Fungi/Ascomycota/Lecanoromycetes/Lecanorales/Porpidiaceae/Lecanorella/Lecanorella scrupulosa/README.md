@@ -1,5 +1,4 @@
-Lecanorella scrupulosa (Ach.) Motyka SPECIES
-=======
+# Lecanorella scrupulosa (Ach.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon bohemicum Velen. SPECIES
-=======
+# Lycoperdon bohemicum Velen. SPECIES
 
 #### Status
 ACCEPTED

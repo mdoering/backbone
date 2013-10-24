@@ -1,5 +1,4 @@
-Stephanodiscus conspicueporus E.F. Stoermer, H. Håkansson & E.C. Theriot SPECIES
-=======
+# Stephanodiscus conspicueporus E.F. Stoermer, H. Håkansson & E.C. Theriot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metopus laminarius subsp. minor Kahl, 1935 SUBSPECIES
-=======
+# Metopus laminarius Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

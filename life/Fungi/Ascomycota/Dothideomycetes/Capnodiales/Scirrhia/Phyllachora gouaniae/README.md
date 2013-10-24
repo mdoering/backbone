@@ -1,5 +1,4 @@
-Phyllachora gouaniae Gonz. Frag. & Cif., 1926 SPECIES
-=======
+# Phyllachora gouaniae Gonz. Frag. & Cif., 1926 SPECIES
 
 #### Status
 DOUBTFUL

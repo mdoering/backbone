@@ -1,5 +1,4 @@
-Dothiorella clavigera H. Ruppr. SPECIES
-=======
+# Dothiorella clavigera H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

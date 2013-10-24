@@ -1,5 +1,4 @@
-Cercospora setariae G.F. Atk., 1892 SPECIES
-=======
+# Cercospora setariae G.F. Atk., 1892 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coenogonium nepalense (G. Thor & Vezda) Lücking, Aptroot & Sipman SPECIES
-=======
+# Coenogonium nepalense (G. Thor & Vezda) Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

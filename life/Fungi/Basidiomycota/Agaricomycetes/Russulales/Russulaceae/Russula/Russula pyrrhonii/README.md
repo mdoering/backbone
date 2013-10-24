@@ -1,5 +1,4 @@
-Russula pyrrhonii Moënne-Locc. & Reumaux SPECIES
-=======
+# Russula pyrrhonii Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

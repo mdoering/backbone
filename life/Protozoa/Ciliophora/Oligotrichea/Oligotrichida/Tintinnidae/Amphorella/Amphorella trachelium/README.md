@@ -1,5 +1,4 @@
-Amphorella trachelium SPECIES
-=======
+# Amphorella trachelium SPECIES
 
 #### Status
 ACCEPTED

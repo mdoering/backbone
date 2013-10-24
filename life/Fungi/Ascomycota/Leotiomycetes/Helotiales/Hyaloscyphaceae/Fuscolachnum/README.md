@@ -1,5 +1,4 @@
-Fuscolachnum J.H. Haines GENUS
-=======
+# Fuscolachnum J.H. Haines GENUS
 
 #### Status
 ACCEPTED

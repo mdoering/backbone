@@ -1,5 +1,4 @@
-Pertusaria euglypta Tuck. SPECIES
-=======
+# Pertusaria euglypta Tuck. SPECIES
 
 #### Status
 ACCEPTED

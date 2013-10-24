@@ -1,5 +1,4 @@
-Phaeoisariopsis elata (Sacc.) U. Braun SPECIES
-=======
+# Phaeoisariopsis elata (Sacc.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

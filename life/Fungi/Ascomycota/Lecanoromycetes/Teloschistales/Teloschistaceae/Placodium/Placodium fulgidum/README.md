@@ -1,5 +1,4 @@
-Placodium fulgidum Nyl. SPECIES
-=======
+# Placodium fulgidum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Venturia dickiei (Berk. & Broome) Ces. & De Not., 1863 SPECIES
-=======
+# Metacoleroa dickiei (Berk. & Broome) Petr., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Comm. Soc. crittog. Ital. 1(4): 225 (1863)
+Annls mycol. 25(3/4): 332 (1927)
 
 #### Original name
 Sphaeria dickiei Berk. & Broome, 1852

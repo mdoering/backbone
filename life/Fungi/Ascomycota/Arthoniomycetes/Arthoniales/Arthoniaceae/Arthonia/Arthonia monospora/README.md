@@ -1,5 +1,4 @@
-Arthonia monospora Vain. SPECIES
-=======
+# Arthonia monospora Vain. SPECIES
 
 #### Status
 ACCEPTED

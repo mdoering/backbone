@@ -1,5 +1,4 @@
-Meiostoma GENUS
-=======
+# Meiostoma GENUS
 
 #### Status
 ACCEPTED

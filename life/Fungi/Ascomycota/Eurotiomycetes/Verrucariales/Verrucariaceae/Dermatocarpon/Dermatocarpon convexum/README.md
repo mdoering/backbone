@@ -1,5 +1,4 @@
-Dermatocarpon convexum Reichert & Galun SPECIES
-=======
+# Dermatocarpon convexum Reichert & Galun SPECIES
 
 #### Status
 ACCEPTED

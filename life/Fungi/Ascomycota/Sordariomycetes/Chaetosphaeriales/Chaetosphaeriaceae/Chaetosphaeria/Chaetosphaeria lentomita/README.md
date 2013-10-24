@@ -1,5 +1,4 @@
-Chaetosphaeria lentomita W. Gams & Hol.-Jech., 1976 SPECIES
-=======
+# Chaetosphaeria lentomita W. Gams & Hol.-Jech., 1976 SPECIES
 
 #### Status
 ACCEPTED

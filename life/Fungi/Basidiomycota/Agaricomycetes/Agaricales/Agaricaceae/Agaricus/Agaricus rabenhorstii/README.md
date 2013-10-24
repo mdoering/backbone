@@ -1,5 +1,4 @@
-Agaricus rabenhorstii Fr. SPECIES
-=======
+# Agaricus rabenhorstii Fr. SPECIES
 
 #### Status
 ACCEPTED

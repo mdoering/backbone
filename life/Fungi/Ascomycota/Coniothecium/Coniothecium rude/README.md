@@ -1,5 +1,4 @@
-Coniothecium rude Bubák SPECIES
-=======
+# Coniothecium rude Bubák SPECIES
 
 #### Status
 ACCEPTED

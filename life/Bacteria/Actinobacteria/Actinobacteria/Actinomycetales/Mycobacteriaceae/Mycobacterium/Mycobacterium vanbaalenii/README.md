@@ -1,5 +1,4 @@
-Mycobacterium vanbaalenii Khan et al., 2002 SPECIES
-=======
+# Mycobacterium vanbaalenii Khan et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

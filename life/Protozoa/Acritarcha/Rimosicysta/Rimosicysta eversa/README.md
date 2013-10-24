@@ -1,5 +1,4 @@
-Rimosicysta eversa Marshall, 1989 SPECIES
-=======
+# Rimosicysta eversa Marshall, 1989 SPECIES
 
 #### Status
 ACCEPTED

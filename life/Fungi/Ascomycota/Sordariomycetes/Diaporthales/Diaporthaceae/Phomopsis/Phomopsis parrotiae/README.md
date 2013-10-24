@@ -1,5 +1,4 @@
-Phomopsis parrotiae Ratiani SPECIES
-=======
+# Phomopsis parrotiae Ratiani SPECIES
 
 #### Status
 ACCEPTED

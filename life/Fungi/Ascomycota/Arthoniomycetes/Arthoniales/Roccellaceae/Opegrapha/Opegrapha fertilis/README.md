@@ -1,5 +1,4 @@
-Opegrapha fertilis Müll. Arg. SPECIES
-=======
+# Opegrapha fertilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

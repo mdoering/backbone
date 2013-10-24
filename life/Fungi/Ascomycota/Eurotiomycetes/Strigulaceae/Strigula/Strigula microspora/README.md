@@ -1,5 +1,4 @@
-Strigula microspora Lücking SPECIES
-=======
+# Strigula microspora Lücking SPECIES
 
 #### Status
 ACCEPTED

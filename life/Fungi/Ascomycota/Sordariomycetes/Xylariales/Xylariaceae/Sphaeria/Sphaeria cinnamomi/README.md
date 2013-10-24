@@ -1,5 +1,4 @@
-Sphaeria cinnamomi Saporta SPECIES
-=======
+# Sphaeria cinnamomi Saporta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptoperidinium GENUS
-=======
+# Cryptoperidinium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uralofusulinella Tschuvashov in Chuvashov, 1980 GENUS
-=======
+# Uralofusulinella Tschuvashov in Chuvashov, 1980 GENUS
 
 #### Status
 ACCEPTED

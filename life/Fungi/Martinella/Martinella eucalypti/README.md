@@ -1,5 +1,4 @@
-Martinella eucalypti (Cooke & Massee) Sacc. SPECIES
-=======
+# Martinella eucalypti (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

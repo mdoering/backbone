@@ -1,5 +1,4 @@
-Mucronia fascicularis (Alb. & Schwein.) Fr. SPECIES
-=======
+# Mucronia fascicularis (Alb. & Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

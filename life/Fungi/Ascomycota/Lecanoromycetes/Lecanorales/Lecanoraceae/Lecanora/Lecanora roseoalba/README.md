@@ -1,5 +1,4 @@
-Lecanora roseoalba (Räsänen) Zahlbr. SPECIES
-=======
+# Lecanora roseoalba (Räsänen) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

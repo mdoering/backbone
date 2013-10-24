@@ -1,5 +1,4 @@
-Passalora cucurbiticola (Henn.) U. Braun & Crous SPECIES
-=======
+# Passalora cucurbiticola (Henn.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus mastophorus Berk. SPECIES
-=======
+# Agaricus mastophorus Berk. SPECIES
 
 #### Status
 ACCEPTED

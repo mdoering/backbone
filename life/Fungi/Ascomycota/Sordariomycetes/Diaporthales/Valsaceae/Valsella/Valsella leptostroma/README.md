@@ -1,5 +1,4 @@
-Valsella leptostroma Fuckel SPECIES
-=======
+# Valsella leptostroma Fuckel SPECIES
 
 #### Status
 ACCEPTED

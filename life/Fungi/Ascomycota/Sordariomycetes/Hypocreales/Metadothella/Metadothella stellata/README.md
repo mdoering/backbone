@@ -1,14 +1,13 @@
-Lambro stellata (Henn.) E. Müll., 1962 SPECIES
-=======
+# Metadothella stellata Henn., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 11(2): 778 (1962)
+Hedwigia 43: (1904)
 
 #### Original name
 Metadothella stellata Henn., 1904

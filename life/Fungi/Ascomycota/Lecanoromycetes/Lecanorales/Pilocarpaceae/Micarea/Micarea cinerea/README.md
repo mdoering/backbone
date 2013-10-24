@@ -1,17 +1,16 @@
-Lecidea cinerea var. cinerea VARIETY
-=======
+# Micarea cinerea (Schaer.) Hedl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecidea cinerea var. cinerea
+null
 
 ### Remarks
 null

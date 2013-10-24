@@ -1,5 +1,4 @@
-Microthyriella hirtellae Petr. SPECIES
-=======
+# Microthyriella hirtellae Petr. SPECIES
 
 #### Status
 ACCEPTED

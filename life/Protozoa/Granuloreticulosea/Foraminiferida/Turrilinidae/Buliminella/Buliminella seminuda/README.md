@@ -1,5 +1,4 @@
-Buliminella seminuda (Terquem) SPECIES
-=======
+# Buliminella seminuda (Terquem) SPECIES
 
 #### Status
 ACCEPTED

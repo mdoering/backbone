@@ -1,5 +1,4 @@
-Hystrichosphaeridium choanophorum Deflandre & Cookson, 1955 SPECIES
-=======
+# Hystrichosphaeridium choanophorum Deflandre & Cookson, 1955 SPECIES
 
 #### Status
 ACCEPTED

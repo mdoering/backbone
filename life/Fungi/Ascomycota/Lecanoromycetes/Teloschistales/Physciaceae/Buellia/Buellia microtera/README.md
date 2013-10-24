@@ -1,5 +1,4 @@
-Buellia microtera (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia microtera (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

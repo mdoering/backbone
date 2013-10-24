@@ -1,5 +1,4 @@
-Trichosterigma clavisporum Petch SPECIES
-=======
+# Trichosterigma clavisporum Petch SPECIES
 
 #### Status
 ACCEPTED

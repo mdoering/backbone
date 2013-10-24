@@ -1,8 +1,7 @@
-Gonyaulax fratercula E. Balech SPECIES
-=======
+# Alexandrium fraterculus (Balech) Balech SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

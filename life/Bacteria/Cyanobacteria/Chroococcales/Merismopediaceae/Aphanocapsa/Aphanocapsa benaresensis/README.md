@@ -1,5 +1,4 @@
-Aphanocapsa benaresensis Bharadwaja SPECIES
-=======
+# Aphanocapsa benaresensis Bharadwaja SPECIES
 
 #### Status
 ACCEPTED

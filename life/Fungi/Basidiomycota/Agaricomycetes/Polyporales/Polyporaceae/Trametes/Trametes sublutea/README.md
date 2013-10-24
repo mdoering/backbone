@@ -1,5 +1,4 @@
-Trametes sublutea Corner SPECIES
-=======
+# Trametes sublutea Corner SPECIES
 
 #### Status
 ACCEPTED

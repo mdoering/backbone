@@ -1,5 +1,4 @@
-Psilocybe aureicystidiata E. Horak & Desjardin SPECIES
-=======
+# Psilocybe aureicystidiata E. Horak & Desjardin SPECIES
 
 #### Status
 ACCEPTED

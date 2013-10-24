@@ -1,5 +1,4 @@
-Cochliophilus tatarica SPECIES
-=======
+# Cochliophilus tatarica SPECIES
 
 #### Status
 ACCEPTED

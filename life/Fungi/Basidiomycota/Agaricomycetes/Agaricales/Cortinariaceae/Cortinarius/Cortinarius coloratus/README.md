@@ -1,5 +1,4 @@
-Cortinarius coloratus Peck SPECIES
-=======
+# Cortinarius coloratus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora nivescens Nyl. SPECIES
-=======
+# Lecanora nivescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

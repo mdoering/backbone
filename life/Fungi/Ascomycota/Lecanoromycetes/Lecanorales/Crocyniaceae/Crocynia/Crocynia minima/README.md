@@ -1,5 +1,4 @@
-Crocynia minima Hue SPECIES
-=======
+# Crocynia minima Hue SPECIES
 
 #### Status
 ACCEPTED

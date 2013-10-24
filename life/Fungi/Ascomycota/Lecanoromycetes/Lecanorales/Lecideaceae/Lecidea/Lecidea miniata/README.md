@@ -1,5 +1,4 @@
-Lecidea miniata Fée SPECIES
-=======
+# Lecidea miniata Fée SPECIES
 
 #### Status
 ACCEPTED

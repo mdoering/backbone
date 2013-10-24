@@ -1,5 +1,4 @@
-Amanita aurea (Beeli) E.-J. Gilbert SPECIES
-=======
+# Amanita aurea (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

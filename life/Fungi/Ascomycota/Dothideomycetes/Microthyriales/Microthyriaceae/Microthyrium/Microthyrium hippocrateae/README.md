@@ -1,5 +1,4 @@
-Microthyrium hippocrateae (R.W. Ryan) Toro SPECIES
-=======
+# Microthyrium hippocrateae (R.W. Ryan) Toro SPECIES
 
 #### Status
 ACCEPTED

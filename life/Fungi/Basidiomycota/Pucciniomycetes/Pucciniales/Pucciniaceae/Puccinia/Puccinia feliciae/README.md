@@ -1,5 +1,4 @@
-Puccinia feliciae Doidge SPECIES
-=======
+# Puccinia feliciae Doidge SPECIES
 
 #### Status
 ACCEPTED

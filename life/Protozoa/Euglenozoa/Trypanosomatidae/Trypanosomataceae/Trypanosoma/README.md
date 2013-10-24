@@ -1,14 +1,13 @@
-Trypanosoma cataphracti Henry, 1913 SPECIES
-=======
+# Trypanosoma Gruby, 1843 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+C. R. Acad. Sci. (Paris), 17, 1134.
 
 #### Original name
 null

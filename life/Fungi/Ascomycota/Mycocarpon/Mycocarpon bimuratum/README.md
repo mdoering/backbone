@@ -1,17 +1,16 @@
-Mycocarpon bimuratus B.H. Davis & Leisman SPECIES
-=======
+# Mycocarpon bimuratum B.H. Davis & Leisman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 89(2): 100 + figs 5-6 (1962)
 
 #### Original name
-Mycocarpon bimuratus B.H. Davis & Leisman
+Mycocarpon bimuratum B.H. Davis & Leisman
 
 ### Remarks
 null

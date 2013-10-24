@@ -1,5 +1,4 @@
-Thozetella cubensis R.F. Castañeda & G.R.W. Arnold, 1985 SPECIES
-=======
+# Thozetella cubensis R.F. Castañeda & G.R.W. Arnold, 1985 SPECIES
 
 #### Status
 ACCEPTED

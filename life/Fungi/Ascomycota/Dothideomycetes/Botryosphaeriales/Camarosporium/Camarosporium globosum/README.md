@@ -1,5 +1,4 @@
-Camarosporium globosum Wehm. SPECIES
-=======
+# Camarosporium globosum Wehm. SPECIES
 
 #### Status
 ACCEPTED

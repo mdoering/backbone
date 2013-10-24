@@ -1,5 +1,4 @@
-Ammomarginulina recurva Earland, 1934 SPECIES
-=======
+# Ammomarginulina recurva Earland, 1934 SPECIES
 
 #### Status
 ACCEPTED

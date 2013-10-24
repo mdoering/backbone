@@ -1,5 +1,4 @@
-Discina clypeata Schwein. SPECIES
-=======
+# Discina clypeata Schwein. SPECIES
 
 #### Status
 ACCEPTED

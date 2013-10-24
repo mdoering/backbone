@@ -1,5 +1,4 @@
-Tirmania Chatin GENUS
-=======
+# Tirmania Chatin GENUS
 
 #### Status
 ACCEPTED

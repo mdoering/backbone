@@ -1,5 +1,4 @@
-Pseudovibrio Shieh et al., 2004 GENUS
-=======
+# Pseudovibrio Shieh et al., 2004 GENUS
 
 #### Status
 ACCEPTED

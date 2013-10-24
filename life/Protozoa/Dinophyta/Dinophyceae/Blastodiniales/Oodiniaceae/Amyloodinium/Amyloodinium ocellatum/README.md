@@ -1,8 +1,7 @@
-Oodinium ocellatum E. Brown SPECIES
-=======
+# Amyloodinium ocellatum (E. Brown) E. Brown & Hovasse SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

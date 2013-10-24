@@ -1,5 +1,4 @@
-Hypodermium menthasti Link SPECIES
-=======
+# Hypodermium menthasti Link SPECIES
 
 #### Status
 ACCEPTED

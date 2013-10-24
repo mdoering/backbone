@@ -1,5 +1,4 @@
-Clasterosporium ontariense Sacc. SPECIES
-=======
+# Clasterosporium ontariense Sacc. SPECIES
 
 #### Status
 ACCEPTED

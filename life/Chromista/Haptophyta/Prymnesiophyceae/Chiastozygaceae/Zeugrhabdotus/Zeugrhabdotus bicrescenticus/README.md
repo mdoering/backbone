@@ -1,5 +1,4 @@
-Zeugrhabdotus bicrescenticus SPECIES
-=======
+# Zeugrhabdotus bicrescenticus SPECIES
 
 #### Status
 ACCEPTED

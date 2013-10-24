@@ -1,5 +1,4 @@
-Amplectella monocollaria (Laackmann, 1910) Kofoid & Campbell, 1929 SPECIES
-=======
+# Amplectella monocollaria (Laackmann, 1910) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

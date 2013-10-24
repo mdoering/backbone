@@ -1,5 +1,4 @@
-Agaricus fasciatus Schaeff. SPECIES
-=======
+# Agaricus fasciatus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

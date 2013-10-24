@@ -1,5 +1,4 @@
-Hirsutella ovalispora H.C. Evans & Samson SPECIES
-=======
+# Hirsutella ovalispora H.C. Evans & Samson SPECIES
 
 #### Status
 ACCEPTED

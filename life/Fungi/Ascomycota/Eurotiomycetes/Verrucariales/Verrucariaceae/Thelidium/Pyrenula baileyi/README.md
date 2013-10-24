@@ -1,5 +1,4 @@
-Pyrenula baileyi (C. Knight) Shirley, 1889 SPECIES
-=======
+# Pyrenula baileyi (C. Knight) Shirley, 1889 SPECIES
 
 #### Status
 DOUBTFUL

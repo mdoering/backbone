@@ -1,17 +1,16 @@
-Sphaeria castaneaecola Fr. SPECIES
-=======
+# Sphaeria castaneicola Desm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 530 (1823)
 
 #### Original name
-Sphaeria castaneaecola Fr.
+Sphaeria castaneicola Desm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Antonospora locustae (E.U. Canning) C.H. Slamovits, B.A.P. Williams & P.J. Keeling SPECIES
-=======
+# Antonospora locustae (E.U. Canning) C.H. Slamovits, B.A.P. Williams & P.J. Keeling SPECIES
 
 #### Status
 ACCEPTED

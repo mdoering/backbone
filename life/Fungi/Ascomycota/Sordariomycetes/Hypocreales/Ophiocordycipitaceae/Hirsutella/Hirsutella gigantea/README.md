@@ -1,5 +1,4 @@
-Hirsutella gigantea Petch SPECIES
-=======
+# Hirsutella gigantea Petch SPECIES
 
 #### Status
 ACCEPTED

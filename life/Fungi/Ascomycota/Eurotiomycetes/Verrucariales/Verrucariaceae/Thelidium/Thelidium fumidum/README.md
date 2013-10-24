@@ -1,14 +1,13 @@
-Verrucaria fumida Nyl. SPECIES
-=======
+# Thelidium fumidum (Nyl.) Hazsl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 57: 317 (1874)
+Magyar Birodalom Zuzmó-Flórájá 263 (1884)
 
 #### Original name
 Verrucaria fumida Nyl.

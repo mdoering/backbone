@@ -1,5 +1,4 @@
-Kathistes analemmoides Malloch & M. Blackw., 1990 SPECIES
-=======
+# Kathistes analemmoides Malloch & M. Blackw., 1990 SPECIES
 
 #### Status
 ACCEPTED

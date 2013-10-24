@@ -1,5 +1,4 @@
-Cercospora piperis-betle Sawada & Katsuki SPECIES
-=======
+# Cercospora piperis-betle Sawada & Katsuki SPECIES
 
 #### Status
 ACCEPTED

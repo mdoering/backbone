@@ -1,5 +1,4 @@
-Cladosporium foveolicola Speg. SPECIES
-=======
+# Cladosporium foveolicola Speg. SPECIES
 
 #### Status
 ACCEPTED

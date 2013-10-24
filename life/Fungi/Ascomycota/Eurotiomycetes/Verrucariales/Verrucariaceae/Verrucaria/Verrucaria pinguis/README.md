@@ -1,5 +1,4 @@
-Verrucaria pinguis f. pinguis FORM
-=======
+# Verrucaria pinguis J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria pinguis f. pinguis
+Verrucaria pinguis J. Steiner
 
 ### Remarks
 null

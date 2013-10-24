@@ -1,5 +1,4 @@
-Aspicilia ophthalmiza Motyka SPECIES
-=======
+# Aspicilia ophthalmiza Motyka SPECIES
 
 #### Status
 ACCEPTED

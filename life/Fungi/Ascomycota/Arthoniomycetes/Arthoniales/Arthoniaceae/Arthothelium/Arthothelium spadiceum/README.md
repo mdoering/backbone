@@ -1,5 +1,4 @@
-Arthothelium spadiceum Müll. Arg. SPECIES
-=======
+# Arthothelium spadiceum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria polygalae Peck & Clinton SPECIES
-=======
+# Septoria polygalae Peck & Clinton SPECIES
 
 #### Status
 ACCEPTED

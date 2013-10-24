@@ -1,14 +1,13 @@
-Valsa corylina Tul. & C. Tul., 1863 SPECIES
-=======
+# Cryptosporella corylina (Tul. & C. Tul.) L.C. Mejía & Castl., 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Select. fung. carpol. (Paris) 2: 174 (1863)
+Mycol. Res. 112(1): 33 (2007)
 
 #### Original name
 Valsa corylina Tul. & C. Tul., 1863

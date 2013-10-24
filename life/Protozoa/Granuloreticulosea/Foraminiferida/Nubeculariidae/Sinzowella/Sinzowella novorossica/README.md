@@ -1,5 +1,4 @@
-Sinzowella novorossica SPECIES
-=======
+# Sinzowella novorossica SPECIES
 
 #### Status
 ACCEPTED

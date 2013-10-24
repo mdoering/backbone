@@ -1,5 +1,4 @@
-Tuburcinia fraseri (G.P. Clinton & Zundel) Zambett. SPECIES
-=======
+# Tuburcinia fraseri (G.P. Clinton & Zundel) Zambett. SPECIES
 
 #### Status
 ACCEPTED

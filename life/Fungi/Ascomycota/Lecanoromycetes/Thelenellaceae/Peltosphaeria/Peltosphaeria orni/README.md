@@ -1,5 +1,4 @@
-Peltosphaeria orni Rehm SPECIES
-=======
+# Peltosphaeria orni Rehm SPECIES
 
 #### Status
 ACCEPTED

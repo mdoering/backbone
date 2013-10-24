@@ -1,5 +1,4 @@
-Gyrophragmium inquinans (Berk.) Lloyd SPECIES
-=======
+# Gyrophragmium inquinans (Berk.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

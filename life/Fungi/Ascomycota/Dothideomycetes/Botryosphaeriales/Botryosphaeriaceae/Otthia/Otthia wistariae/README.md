@@ -1,5 +1,4 @@
-Otthia wistariae Pass. SPECIES
-=======
+# Otthia wistariae Pass. SPECIES
 
 #### Status
 ACCEPTED

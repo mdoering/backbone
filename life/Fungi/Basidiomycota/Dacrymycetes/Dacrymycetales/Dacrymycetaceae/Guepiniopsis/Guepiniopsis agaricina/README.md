@@ -1,5 +1,4 @@
-Guepiniopsis agaricina Pat. SPECIES
-=======
+# Guepiniopsis agaricina Pat. SPECIES
 
 #### Status
 ACCEPTED

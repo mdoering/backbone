@@ -1,5 +1,4 @@
-Aecidium adenariae Mayor SPECIES
-=======
+# Aecidium adenariae Mayor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galactinia castanea var. castanea (Quél.) Boud. VARIETY
-=======
+# Galactinia castanea (Quél.) Boud. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Soc. mycol. Fr. 15: 20 (1899)
 
 #### Original name
-Galactinia castanea var. castanea (Quél.) Boud.
+Peziza castanea Quél.
 
 ### Remarks
 null

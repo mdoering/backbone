@@ -1,5 +1,4 @@
-Lepiota farinolens Bon & G. Riousset SPECIES
-=======
+# Lepiota farinolens Bon & G. Riousset SPECIES
 
 #### Status
 ACCEPTED

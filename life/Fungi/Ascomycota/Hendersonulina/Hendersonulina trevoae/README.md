@@ -1,5 +1,4 @@
-Hendersonulina trevoae Speg. SPECIES
-=======
+# Hendersonulina trevoae Speg. SPECIES
 
 #### Status
 ACCEPTED

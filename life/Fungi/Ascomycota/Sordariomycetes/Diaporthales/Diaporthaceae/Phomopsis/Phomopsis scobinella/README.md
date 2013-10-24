@@ -1,5 +1,4 @@
-Phomopsis scobinella Sacc. & D. Sacc. SPECIES
-=======
+# Phomopsis scobinella Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Camposporium hyalinum Abdullah, 1981 SPECIES
-=======
+# Hyalocamposporium hyalinum (Abdullah) Révay & J. Gönczöl, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 75(3): 514 (1981)
+Fungal Diversity 25: 180 (2007)
 
 #### Original name
 Camposporium hyalinum Abdullah, 1981

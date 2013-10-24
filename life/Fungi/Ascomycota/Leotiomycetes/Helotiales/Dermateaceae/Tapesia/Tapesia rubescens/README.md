@@ -1,5 +1,4 @@
-Tapesia rubescens Velen. SPECIES
-=======
+# Tapesia rubescens Velen. SPECIES
 
 #### Status
 ACCEPTED

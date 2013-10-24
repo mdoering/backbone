@@ -1,5 +1,4 @@
-Euplotes variabilis Stokes, 1887 SPECIES
-=======
+# Euplotes variabilis Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

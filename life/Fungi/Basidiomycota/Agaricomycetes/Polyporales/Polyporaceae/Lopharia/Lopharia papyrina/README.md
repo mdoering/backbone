@@ -1,14 +1,13 @@
-Porostereum papyrinum (Mont.) Hjortstam & Ryvarden, 1990 SPECIES
-=======
+# Lopharia papyrina (Mont.) Boidin, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. Fung. (Oslo) 4: 45 (1990)
+Bull. mens. Soc. linn. Lyon 28: 210 (1959)
 
 #### Original name
 Stereum papyrinum Mont., 1842

@@ -1,5 +1,4 @@
-Pseudocercospora samuhabeeja R.K. Verma, M.K. Khan & Kamal SPECIES
-=======
+# Pseudocercospora samuhabeeja R.K. Verma, M.K. Khan & Kamal SPECIES
 
 #### Status
 ACCEPTED

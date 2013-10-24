@@ -1,5 +1,4 @@
-Cenomyce vermicularis SPECIES
-=======
+# Cenomyce vermicularis SPECIES
 
 #### Status
 ACCEPTED

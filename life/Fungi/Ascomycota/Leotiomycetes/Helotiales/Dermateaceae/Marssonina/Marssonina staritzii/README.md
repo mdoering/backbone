@@ -1,5 +1,4 @@
-Marssonina staritzii (Bres.) Magnus SPECIES
-=======
+# Marssonina staritzii (Bres.) Magnus SPECIES
 
 #### Status
 ACCEPTED

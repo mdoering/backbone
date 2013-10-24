@@ -1,5 +1,4 @@
-Cercospora calospilea Syd. SPECIES
-=======
+# Cercospora calospilea Syd. SPECIES
 
 #### Status
 ACCEPTED

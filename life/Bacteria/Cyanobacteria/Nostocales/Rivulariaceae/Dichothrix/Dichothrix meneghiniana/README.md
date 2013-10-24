@@ -1,5 +1,4 @@
-Dichothrix meneghiniana (Kützing) Forti SPECIES
-=======
+# Dichothrix meneghiniana (Kützing) Forti SPECIES
 
 #### Status
 ACCEPTED

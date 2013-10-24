@@ -1,5 +1,4 @@
-Sphaeria clypeiformis Lacroix SPECIES
-=======
+# Sphaeria clypeiformis Lacroix SPECIES
 
 #### Status
 ACCEPTED

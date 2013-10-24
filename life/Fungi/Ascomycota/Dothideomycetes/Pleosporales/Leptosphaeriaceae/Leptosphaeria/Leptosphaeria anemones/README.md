@@ -1,5 +1,4 @@
-Leptosphaeria anemones Hollós SPECIES
-=======
+# Leptosphaeria anemones Hollós SPECIES
 
 #### Status
 ACCEPTED

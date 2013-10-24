@@ -1,5 +1,4 @@
-Didymella incommiscibilis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Didymella incommiscibilis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus asceuus Berk. & Broome SPECIES
-=======
+# Agaricus asceuus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphoridium longicolle Eitner SPECIES
-=======
+# Amphoridium longicolle Eitner SPECIES
 
 #### Status
 ACCEPTED

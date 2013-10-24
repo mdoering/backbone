@@ -1,5 +1,4 @@
-Metasphaeria galactis Henn. SPECIES
-=======
+# Metasphaeria galactis Henn. SPECIES
 
 #### Status
 ACCEPTED

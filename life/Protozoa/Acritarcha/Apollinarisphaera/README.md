@@ -1,5 +1,4 @@
-Apollinarisphaera G. Claus & B. Nagy, 1962 GENUS
-=======
+# Apollinarisphaera G. Claus & B. Nagy, 1962 GENUS
 
 #### Status
 ACCEPTED

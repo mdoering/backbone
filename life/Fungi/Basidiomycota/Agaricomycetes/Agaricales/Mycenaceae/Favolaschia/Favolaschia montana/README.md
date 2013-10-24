@@ -1,5 +1,4 @@
-Favolaschia montana Singer, 1974 SPECIES
-=======
+# Favolaschia montana Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

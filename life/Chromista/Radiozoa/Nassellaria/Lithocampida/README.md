@@ -1,5 +1,4 @@
-Lithocampida FAMILY
-=======
+# Lithocampida FAMILY
 
 #### Status
 ACCEPTED

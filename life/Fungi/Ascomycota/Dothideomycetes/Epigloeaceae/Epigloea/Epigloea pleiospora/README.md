@@ -1,5 +1,4 @@
-Epigloea pleiospora Döbbeler SPECIES
-=======
+# Epigloea pleiospora Döbbeler SPECIES
 
 #### Status
 ACCEPTED

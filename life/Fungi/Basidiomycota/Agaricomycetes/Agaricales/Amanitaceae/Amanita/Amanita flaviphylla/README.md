@@ -1,5 +1,4 @@
-Amanita flaviphylla O.K. Mill. SPECIES
-=======
+# Amanita flaviphylla O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

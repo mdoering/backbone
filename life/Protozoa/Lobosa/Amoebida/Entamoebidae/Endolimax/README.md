@@ -1,5 +1,4 @@
-Endolimax Kuenen & Swellengrebel, 1913 GENUS
-=======
+# Endolimax Kuenen & Swellengrebel, 1913 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus butyraceus var. butyraceus VARIETY
-=======
+# Rhodocollybia butyracea (Bull.) Lennox, 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herb. Fr. 12: tab. 572 (1792)
+null
 
 #### Original name
-Agaricus butyraceus var. butyraceus
+null
 
 ### Remarks
 null

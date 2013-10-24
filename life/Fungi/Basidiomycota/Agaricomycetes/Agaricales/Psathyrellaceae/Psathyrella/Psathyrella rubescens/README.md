@@ -1,5 +1,4 @@
-Psathyrella rubescens A.H. Sm. SPECIES
-=======
+# Psathyrella rubescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

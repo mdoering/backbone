@@ -1,5 +1,4 @@
-Tenacibaculum lutimaris Yoon et al., 2005 SPECIES
-=======
+# Tenacibaculum lutimaris Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

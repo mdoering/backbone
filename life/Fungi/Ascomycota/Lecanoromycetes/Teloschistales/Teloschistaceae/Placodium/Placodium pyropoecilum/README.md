@@ -1,5 +1,4 @@
-Placodium pyropoecilum (Nyl.) Vain. SPECIES
-=======
+# Placodium pyropoecilum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

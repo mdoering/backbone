@@ -1,14 +1,13 @@
-Strumella olivatra (Sacc.) Sacc. SPECIES
-=======
+# Illosporium olivatrum Sacc., 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 6): 36 (1880)
+Michelia 1(no. 1): 90 (1877)
 
 #### Original name
 Illosporium olivatrum Sacc., 1877

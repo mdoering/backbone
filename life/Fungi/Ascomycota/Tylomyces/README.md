@@ -1,5 +1,4 @@
-Tylomyces Cortini GENUS
-=======
+# Tylomyces Cortini GENUS
 
 #### Status
 ACCEPTED

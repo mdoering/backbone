@@ -1,5 +1,4 @@
-Oospora gummigena (Mont.) Sacc. & Voglino SPECIES
-=======
+# Oospora gummigena (Mont.) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella variabilis Kill. SPECIES
-=======
+# Mycosphaerella variabilis Kill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermosipho atlanticus Urios et al., 2004 SPECIES
-=======
+# Thermosipho atlanticus Urios et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus flavifolius A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus flavifolius A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

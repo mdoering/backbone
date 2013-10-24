@@ -1,5 +1,4 @@
-Gnomonia inculcata P. Karst. SPECIES
-=======
+# Gnomonia inculcata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

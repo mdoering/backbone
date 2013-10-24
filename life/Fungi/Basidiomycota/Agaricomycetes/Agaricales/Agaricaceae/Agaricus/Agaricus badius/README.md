@@ -1,5 +1,4 @@
-Agaricus badius Pers. SPECIES
-=======
+# Agaricus badius Pers. SPECIES
 
 #### Status
 ACCEPTED

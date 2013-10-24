@@ -1,5 +1,4 @@
-Oedogoniomyces Tak. Kobay. & M. Ôkubo GENUS
-=======
+# Oedogoniomyces Tak. Kobay. & M. Ôkubo GENUS
 
 #### Status
 ACCEPTED

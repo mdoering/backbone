@@ -1,5 +1,4 @@
-Pertusaria sclerotium (Fée) Müll. Arg. SPECIES
-=======
+# Pertusaria sclerotium (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora agavicola Ayala-Escobar SPECIES
-=======
+# Cercospora agavicola Ayala-Escobar SPECIES
 
 #### Status
 ACCEPTED

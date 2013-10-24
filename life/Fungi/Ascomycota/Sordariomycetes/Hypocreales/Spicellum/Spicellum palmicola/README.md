@@ -1,5 +1,4 @@
-Spicellum palmicola Matsush. SPECIES
-=======
+# Spicellum palmicola Matsush. SPECIES
 
 #### Status
 ACCEPTED

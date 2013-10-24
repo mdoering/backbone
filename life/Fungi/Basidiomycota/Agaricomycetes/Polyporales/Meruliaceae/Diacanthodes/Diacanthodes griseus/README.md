@@ -1,17 +1,16 @@
-Diacanthodes griseus var. griseus Corner VARIETY
-=======
+# Diacanthodes griseus Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Beih. Nova Hedwigia 96: 25 (1989)
 
 #### Original name
-Diacanthodes griseus var. griseus Corner
+Diacanthodes griseus Corner, 1989
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Geotoga Davey et al., 1993 GENUS
-=======
+# Geotoga Davey et al., 1993 GENUS
 
 #### Status
 ACCEPTED

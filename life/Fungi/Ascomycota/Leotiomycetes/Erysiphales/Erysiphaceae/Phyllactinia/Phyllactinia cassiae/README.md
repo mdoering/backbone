@@ -1,5 +1,4 @@
-Phyllactinia cassiae G.J.M. Gorter & Eicker SPECIES
-=======
+# Phyllactinia cassiae G.J.M. Gorter & Eicker SPECIES
 
 #### Status
 ACCEPTED

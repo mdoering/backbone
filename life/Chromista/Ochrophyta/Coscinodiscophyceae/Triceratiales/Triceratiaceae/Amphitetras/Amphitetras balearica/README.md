@@ -1,5 +1,4 @@
-Amphitetras balearica (Cleve & Grunow) De Toni SPECIES
-=======
+# Amphitetras balearica (Cleve & Grunow) De Toni SPECIES
 
 #### Status
 ACCEPTED

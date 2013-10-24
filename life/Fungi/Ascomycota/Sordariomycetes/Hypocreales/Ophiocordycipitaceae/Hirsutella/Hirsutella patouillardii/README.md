@@ -1,17 +1,16 @@
-Hirsutella patoulliardii Koval SPECIES
-=======
+# Hirsutella patouillardii Koval SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 13: 207 (1977)
 
 #### Original name
-Hirsutella patoulliardii Koval
+Hirsutella patouillardii Koval
 
 ### Remarks
 null

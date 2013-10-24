@@ -1,5 +1,4 @@
-Cyrtidula macularis Minks ex Willey SPECIES
-=======
+# Cyrtidula macularis Minks ex Willey SPECIES
 
 #### Status
 ACCEPTED

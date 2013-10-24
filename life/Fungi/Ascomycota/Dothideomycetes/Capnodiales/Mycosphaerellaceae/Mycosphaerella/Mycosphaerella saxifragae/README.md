@@ -1,5 +1,4 @@
-Mycosphaerella saxifragae (Pass.) Lind SPECIES
-=======
+# Mycosphaerella saxifragae (Pass.) Lind SPECIES
 
 #### Status
 ACCEPTED

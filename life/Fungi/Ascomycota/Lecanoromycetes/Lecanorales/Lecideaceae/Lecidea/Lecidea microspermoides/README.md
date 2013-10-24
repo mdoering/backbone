@@ -1,5 +1,4 @@
-Lecidea microspermoides Müll. Arg. SPECIES
-=======
+# Lecidea microspermoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

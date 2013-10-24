@@ -1,5 +1,4 @@
-Lasiosphaeria tuberculosa Carroll & Munk SPECIES
-=======
+# Lasiosphaeria tuberculosa Carroll & Munk SPECIES
 
 #### Status
 ACCEPTED

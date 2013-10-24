@@ -1,5 +1,4 @@
-Xanthoparmelia chlorea (Stizenb.) Hale SPECIES
-=======
+# Xanthoparmelia chlorea (Stizenb.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laricina mollis Velen., 1934 SPECIES
-=======
+# Laricina mollis Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

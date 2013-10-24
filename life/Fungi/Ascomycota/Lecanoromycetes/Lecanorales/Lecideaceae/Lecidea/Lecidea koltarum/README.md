@@ -1,5 +1,4 @@
-Lecidea koltarum Räsänen SPECIES
-=======
+# Lecidea koltarum Räsänen SPECIES
 
 #### Status
 ACCEPTED

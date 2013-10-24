@@ -1,5 +1,4 @@
-Rhabdospora securinegae P. Syd. SPECIES
-=======
+# Rhabdospora securinegae P. Syd. SPECIES
 
 #### Status
 ACCEPTED

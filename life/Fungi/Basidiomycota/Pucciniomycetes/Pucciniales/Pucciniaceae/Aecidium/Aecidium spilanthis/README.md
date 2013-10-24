@@ -1,5 +1,4 @@
-Aecidium spilanthis T.S. Ramakr. & Sundaram SPECIES
-=======
+# Aecidium spilanthis T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

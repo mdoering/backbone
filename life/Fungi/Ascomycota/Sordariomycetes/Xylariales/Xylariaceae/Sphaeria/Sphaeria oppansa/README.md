@@ -1,5 +1,4 @@
-Sphaeria oppansa Fr. SPECIES
-=======
+# Sphaeria oppansa Fr. SPECIES
 
 #### Status
 ACCEPTED

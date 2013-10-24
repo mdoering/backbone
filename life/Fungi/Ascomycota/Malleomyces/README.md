@@ -1,5 +1,4 @@
-Malleomyces Hallier GENUS
-=======
+# Malleomyces Hallier GENUS
 
 #### Status
 ACCEPTED

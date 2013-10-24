@@ -1,17 +1,16 @@
-Lopadiopsis Vain. GENUS
-=======
+# Gyalectidium Müll. Arg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 34: 205 (1896)
+Flora, Jena 64: 100 (1881)
 
 #### Original name
-Lopadiopsis Vain.
+Gyalectidium Müll. Arg.
 
 ### Remarks
 null

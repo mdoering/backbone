@@ -1,5 +1,4 @@
-Gyrophora aenea var. aenea VARIETY
-=======
+# Gyrophora aenea Schaer. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gyrophora aenea var. aenea
+Gyrophora aenea Schaer.
 
 ### Remarks
 null

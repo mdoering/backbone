@@ -1,17 +1,16 @@
-Puccinia aristolochiae var. aristolochiae Henn. VARIETY
-=======
+# Puccinia aristolochiae (DC.) G. Winter, 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pilze 210 (1884)
 
 #### Original name
-Puccinia aristolochiae var. aristolochiae Henn.
+Uredo aristolochiae DC., 1815
 
 ### Remarks
 null

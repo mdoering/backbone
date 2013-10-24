@@ -1,5 +1,4 @@
-Chrysosporium pyriforme Skou, 1992 SPECIES
-=======
+# Chrysosporium pyriforme Skou, 1992 SPECIES
 
 #### Status
 ACCEPTED

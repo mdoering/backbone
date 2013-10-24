@@ -1,5 +1,4 @@
-Pseudocercospora pachyrrhizi (Sawada) Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora pachyrrhizi (Sawada) Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

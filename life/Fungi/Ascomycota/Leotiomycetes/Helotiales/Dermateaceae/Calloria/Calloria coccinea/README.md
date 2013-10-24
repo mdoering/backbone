@@ -1,5 +1,4 @@
-Calloria coccinea Syd. SPECIES
-=======
+# Calloria coccinea Syd. SPECIES
 
 #### Status
 ACCEPTED

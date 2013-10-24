@@ -1,5 +1,4 @@
-Meliolina octospora (Cooke) Höhn. SPECIES
-=======
+# Meliolina octospora (Cooke) Höhn. SPECIES
 
 #### Status
 ACCEPTED

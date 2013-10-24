@@ -1,5 +1,4 @@
-Phomopsis baliospermi Suj. Singh & Kamal SPECIES
-=======
+# Phomopsis baliospermi Suj. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

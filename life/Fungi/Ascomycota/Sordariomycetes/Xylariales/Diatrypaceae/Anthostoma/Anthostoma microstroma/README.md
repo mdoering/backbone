@@ -1,5 +1,4 @@
-Anthostoma microstroma Speg. SPECIES
-=======
+# Anthostoma microstroma Speg. SPECIES
 
 #### Status
 ACCEPTED

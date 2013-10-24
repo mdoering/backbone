@@ -1,5 +1,4 @@
-Puccinia versicolor Dietel & Holw. SPECIES
-=======
+# Puccinia versicolor Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon polycephalum Lloyd SPECIES
-=======
+# Lycoperdon polycephalum Lloyd SPECIES
 
 #### Status
 ACCEPTED

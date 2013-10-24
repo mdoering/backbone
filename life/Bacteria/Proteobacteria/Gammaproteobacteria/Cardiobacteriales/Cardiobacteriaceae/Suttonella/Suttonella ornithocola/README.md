@@ -1,5 +1,4 @@
-Suttonella ornithocola Foster et al., 2005 SPECIES
-=======
+# Suttonella ornithocola Foster et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

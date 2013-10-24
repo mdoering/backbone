@@ -1,5 +1,4 @@
-Septoria azaleae-indicae Maubl. SPECIES
-=======
+# Septoria azaleae-indicae Maubl. SPECIES
 
 #### Status
 ACCEPTED

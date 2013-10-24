@@ -1,5 +1,4 @@
-Peronoplasmopara elatostema Sawada SPECIES
-=======
+# Peronoplasmopara elatostema Sawada SPECIES
 
 #### Status
 ACCEPTED

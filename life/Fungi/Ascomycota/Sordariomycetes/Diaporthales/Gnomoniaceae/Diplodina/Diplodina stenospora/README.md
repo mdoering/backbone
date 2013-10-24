@@ -1,5 +1,4 @@
-Diplodina stenospora (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Diplodina stenospora (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

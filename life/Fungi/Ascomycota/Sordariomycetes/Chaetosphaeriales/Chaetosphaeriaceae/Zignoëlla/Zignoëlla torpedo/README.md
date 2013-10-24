@@ -1,5 +1,4 @@
-Zignoëlla torpedo Theiss. SPECIES
-=======
+# Zignoëlla torpedo Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplocolon heppii Nägeli SPECIES
-=======
+# Diplocolon heppii Nägeli SPECIES
 
 #### Status
 ACCEPTED

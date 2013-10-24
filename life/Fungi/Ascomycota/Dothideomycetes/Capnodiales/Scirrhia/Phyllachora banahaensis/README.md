@@ -1,5 +1,4 @@
-Phyllachora banahaensis Petr., 1929 SPECIES
-=======
+# Phyllachora banahaensis Petr., 1929 SPECIES
 
 #### Status
 DOUBTFUL

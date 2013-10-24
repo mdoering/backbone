@@ -1,5 +1,4 @@
-Ramalia GENUS
-=======
+# Ramalia GENUS
 
 #### Status
 ACCEPTED

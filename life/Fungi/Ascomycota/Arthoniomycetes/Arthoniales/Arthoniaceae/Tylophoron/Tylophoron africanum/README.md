@@ -1,5 +1,4 @@
-Tylophoron africanum Vain. SPECIES
-=======
+# Tylophoron africanum Vain. SPECIES
 
 #### Status
 ACCEPTED

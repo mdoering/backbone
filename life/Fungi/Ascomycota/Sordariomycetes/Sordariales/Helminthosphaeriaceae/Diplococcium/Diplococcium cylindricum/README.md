@@ -1,5 +1,4 @@
-Diplococcium cylindricum Jaap SPECIES
-=======
+# Diplococcium cylindricum Jaap SPECIES
 
 #### Status
 ACCEPTED

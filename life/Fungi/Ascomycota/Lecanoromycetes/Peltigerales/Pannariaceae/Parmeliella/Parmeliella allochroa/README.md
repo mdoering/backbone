@@ -1,5 +1,4 @@
-Parmeliella allochroa Makhija & Adaw. SPECIES
-=======
+# Parmeliella allochroa Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

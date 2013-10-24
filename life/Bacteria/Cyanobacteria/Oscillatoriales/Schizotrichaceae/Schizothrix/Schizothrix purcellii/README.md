@@ -1,5 +1,4 @@
-Schizothrix purcellii W. R. Taylor SPECIES
-=======
+# Schizothrix purcellii W. R. Taylor SPECIES
 
 #### Status
 ACCEPTED

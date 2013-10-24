@@ -1,5 +1,4 @@
-Inifatiella nectandrae R.F. Castañeda, 1985 SPECIES
-=======
+# Inifatiella nectandrae R.F. Castañeda, 1985 SPECIES
 
 #### Status
 ACCEPTED

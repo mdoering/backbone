@@ -1,14 +1,13 @@
-Dothidella platensis Speg., 1902 SPECIES
-=======
+# Endodothella platensis (Speg.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 3 8(1): 76 (1902)
+Annls mycol. 13(5/6): 583 (1915)
 
 #### Original name
 Dothidella platensis Speg., 1902

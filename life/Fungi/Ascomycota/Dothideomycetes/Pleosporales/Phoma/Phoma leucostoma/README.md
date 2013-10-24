@@ -1,5 +1,4 @@
-Phoma leucostoma Lév. SPECIES
-=======
+# Phoma leucostoma Lév. SPECIES
 
 #### Status
 ACCEPTED

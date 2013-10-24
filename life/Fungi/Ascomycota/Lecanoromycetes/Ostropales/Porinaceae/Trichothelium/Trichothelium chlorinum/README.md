@@ -1,5 +1,4 @@
-Trichothelium chlorinum Rain. Schub. & Lücking SPECIES
-=======
+# Trichothelium chlorinum Rain. Schub. & Lücking SPECIES
 
 #### Status
 ACCEPTED

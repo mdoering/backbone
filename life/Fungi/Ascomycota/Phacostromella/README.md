@@ -1,5 +1,4 @@
-Phacostromella Petr. GENUS
-=======
+# Phacostromella Petr. GENUS
 
 #### Status
 ACCEPTED

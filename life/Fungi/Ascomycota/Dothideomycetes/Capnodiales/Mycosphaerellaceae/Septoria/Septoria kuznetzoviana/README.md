@@ -1,5 +1,4 @@
-Septoria kuznetzoviana Vasyag. SPECIES
-=======
+# Septoria kuznetzoviana Vasyag. SPECIES
 
 #### Status
 ACCEPTED

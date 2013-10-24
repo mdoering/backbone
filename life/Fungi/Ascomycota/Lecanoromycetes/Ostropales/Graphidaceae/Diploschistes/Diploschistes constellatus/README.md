@@ -1,5 +1,4 @@
-Diploschistes constellatus (Ach.) Zahlbr. SPECIES
-=======
+# Diploschistes constellatus (Ach.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

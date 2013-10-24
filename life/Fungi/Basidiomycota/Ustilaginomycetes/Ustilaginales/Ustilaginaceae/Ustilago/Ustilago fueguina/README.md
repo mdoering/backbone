@@ -1,5 +1,4 @@
-Ustilago fueguina Hirschh. SPECIES
-=======
+# Ustilago fueguina Hirschh. SPECIES
 
 #### Status
 ACCEPTED

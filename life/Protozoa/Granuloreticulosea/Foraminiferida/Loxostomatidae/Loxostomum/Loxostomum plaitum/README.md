@@ -1,5 +1,4 @@
-Loxostomum plaitum Cushman, 1931 SPECIES
-=======
+# Loxostomum plaitum Cushman, 1931 SPECIES
 
 #### Status
 ACCEPTED

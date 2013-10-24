@@ -1,8 +1,7 @@
-Parmelia tinctorum Despr. ex Nyl. SPECIES
-=======
+# Parmotrema tinctorum (Despr. ex Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Lobaria tinctoria Hoffm.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Septoria amphigena I. Miyake SPECIES
-=======
+# Septoria amphigena I. Miyake SPECIES
 
 #### Status
 ACCEPTED

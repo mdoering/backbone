@@ -1,14 +1,13 @@
-Lachnella dematiicola (Berk. & Broome) W. Phillips, 1887 SPECIES
-=======
+# Dematioscypha dematiicola (Berk. & Broome) Svrcek, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 265 (1887)
+Ceská Mykol. 31(4): 193 (1977)
 
 #### Original name
 null

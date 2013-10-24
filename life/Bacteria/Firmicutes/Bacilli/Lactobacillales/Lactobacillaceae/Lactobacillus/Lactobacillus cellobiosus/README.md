@@ -1,5 +1,4 @@
-Lactobacillus cellobiosus Rogosa et al., 1953 (Approved Lists, 1980) SPECIES
-=======
+# Lactobacillus cellobiosus Rogosa et al., 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

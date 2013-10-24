@@ -1,5 +1,4 @@
-Micropuccinia saxifragae-tricuspidatae (Henn.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia saxifragae-tricuspidatae (Henn.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

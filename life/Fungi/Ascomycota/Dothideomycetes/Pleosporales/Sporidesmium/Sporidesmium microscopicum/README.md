@@ -1,5 +1,4 @@
-Sporidesmium microscopicum Bonord. SPECIES
-=======
+# Sporidesmium microscopicum Bonord. SPECIES
 
 #### Status
 ACCEPTED

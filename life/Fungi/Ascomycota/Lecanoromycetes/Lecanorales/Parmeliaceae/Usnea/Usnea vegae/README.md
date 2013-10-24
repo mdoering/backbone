@@ -1,5 +1,4 @@
-Usnea vegae Motyka SPECIES
-=======
+# Usnea vegae Motyka SPECIES
 
 #### Status
 ACCEPTED

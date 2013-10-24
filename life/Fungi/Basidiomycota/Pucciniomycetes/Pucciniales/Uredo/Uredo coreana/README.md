@@ -1,5 +1,4 @@
-Uredo coreana (Hirats. f.) Hirats. f. SPECIES
-=======
+# Uredo coreana (Hirats. f.) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

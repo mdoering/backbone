@@ -1,5 +1,4 @@
-Acarospora obnubila H. Magn. SPECIES
-=======
+# Acarospora obnubila H. Magn. SPECIES
 
 #### Status
 ACCEPTED

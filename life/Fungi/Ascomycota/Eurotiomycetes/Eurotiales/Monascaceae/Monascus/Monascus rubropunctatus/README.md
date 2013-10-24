@@ -1,17 +1,16 @@
-Monascus rubropunctatas K. Satô SPECIES
-=======
+# Monascus rubropunctatus K. Satô SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin of the Agricultural Chemical Society of Japan 12: 584 (1936)
 
 #### Original name
-Monascus rubropunctatas K. Satô
+Monascus rubropunctatus K. Satô
 
 ### Remarks
 null

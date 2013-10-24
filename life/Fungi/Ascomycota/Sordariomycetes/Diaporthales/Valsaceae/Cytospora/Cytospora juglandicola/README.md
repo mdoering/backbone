@@ -1,5 +1,4 @@
-Cytospora juglandicola Ellis & Barthol. SPECIES
-=======
+# Cytospora juglandicola Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

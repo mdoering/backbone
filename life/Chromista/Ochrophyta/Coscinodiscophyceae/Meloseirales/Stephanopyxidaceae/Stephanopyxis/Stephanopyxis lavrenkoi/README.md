@@ -1,5 +1,4 @@
-Stephanopyxis lavrenkoi Jousé SPECIES
-=======
+# Stephanopyxis lavrenkoi Jousé SPECIES
 
 #### Status
 ACCEPTED

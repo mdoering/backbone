@@ -1,5 +1,4 @@
-Tomasellia macularis (Minks ex Willey) R.C. Harris SPECIES
-=======
+# Tomasellia macularis (Minks ex Willey) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

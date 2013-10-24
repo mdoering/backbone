@@ -1,5 +1,4 @@
-Physalospora asbolae (Berk. & Broome) Cooke SPECIES
-=======
+# Physalospora asbolae (Berk. & Broome) Cooke SPECIES
 
 #### Status
 ACCEPTED

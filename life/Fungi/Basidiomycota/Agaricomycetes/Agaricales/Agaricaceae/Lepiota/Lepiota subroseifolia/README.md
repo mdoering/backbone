@@ -1,5 +1,4 @@
-Lepiota subroseifolia Murrill SPECIES
-=======
+# Lepiota subroseifolia Murrill SPECIES
 
 #### Status
 ACCEPTED

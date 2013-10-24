@@ -1,5 +1,4 @@
-Agaricus coarctatus Cooke & Massee SPECIES
-=======
+# Agaricus coarctatus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

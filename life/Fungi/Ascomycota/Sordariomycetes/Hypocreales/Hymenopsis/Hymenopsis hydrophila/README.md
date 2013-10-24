@@ -1,5 +1,4 @@
-Hymenopsis hydrophila Sacc. SPECIES
-=======
+# Hymenopsis hydrophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

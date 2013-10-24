@@ -1,5 +1,4 @@
-Schiffnerula lisianthi Hansf. SPECIES
-=======
+# Schiffnerula lisianthi Hansf. SPECIES
 
 #### Status
 ACCEPTED

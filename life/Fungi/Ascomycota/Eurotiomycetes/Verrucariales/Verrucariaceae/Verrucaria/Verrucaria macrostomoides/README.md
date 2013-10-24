@@ -1,5 +1,4 @@
-Verrucaria macrostomoides Servít SPECIES
-=======
+# Verrucaria macrostomoides Servít SPECIES
 
 #### Status
 ACCEPTED

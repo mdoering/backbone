@@ -1,5 +1,4 @@
-Peridinium tumidum Okamura SPECIES
-=======
+# Peridinium tumidum Okamura SPECIES
 
 #### Status
 ACCEPTED

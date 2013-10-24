@@ -1,5 +1,4 @@
-Telamonia hirta Velen. SPECIES
-=======
+# Telamonia hirta Velen. SPECIES
 
 #### Status
 ACCEPTED

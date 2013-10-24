@@ -1,5 +1,4 @@
-Gymnoconia Lagerh. GENUS
-=======
+# Gymnoconia Lagerh. GENUS
 
 #### Status
 ACCEPTED

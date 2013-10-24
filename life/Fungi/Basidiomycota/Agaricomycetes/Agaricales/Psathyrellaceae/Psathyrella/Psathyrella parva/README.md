@@ -1,5 +1,4 @@
-Psathyrella parva A.H. Sm. SPECIES
-=======
+# Psathyrella parva A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

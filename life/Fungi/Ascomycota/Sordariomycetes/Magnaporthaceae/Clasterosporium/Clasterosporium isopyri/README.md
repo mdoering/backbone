@@ -1,5 +1,4 @@
-Clasterosporium isopyri Bres. SPECIES
-=======
+# Clasterosporium isopyri Bres. SPECIES
 
 #### Status
 ACCEPTED

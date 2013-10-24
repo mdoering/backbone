@@ -1,5 +1,4 @@
-Parmelia squamuligera R. Sant. SPECIES
-=======
+# Parmelia squamuligera R. Sant. SPECIES
 
 #### Status
 ACCEPTED

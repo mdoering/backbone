@@ -1,5 +1,4 @@
-Helotiella myoleuca Penz. & Sacc. SPECIES
-=======
+# Helotiella myoleuca Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

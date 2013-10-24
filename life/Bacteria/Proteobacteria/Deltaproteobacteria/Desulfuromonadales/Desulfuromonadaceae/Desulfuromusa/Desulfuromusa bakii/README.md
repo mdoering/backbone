@@ -1,5 +1,4 @@
-Desulfuromusa bakii Liesack & Finster, 1994 SPECIES
-=======
+# Desulfuromusa bakii Liesack & Finster, 1994 SPECIES
 
 #### Status
 ACCEPTED

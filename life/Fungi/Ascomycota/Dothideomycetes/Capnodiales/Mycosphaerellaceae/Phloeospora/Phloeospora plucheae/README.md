@@ -1,5 +1,4 @@
-Phloeospora plucheae J.A. Stev. SPECIES
-=======
+# Phloeospora plucheae J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

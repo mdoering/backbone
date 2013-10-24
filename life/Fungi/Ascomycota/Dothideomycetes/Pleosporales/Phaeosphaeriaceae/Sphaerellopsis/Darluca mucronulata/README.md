@@ -1,5 +1,4 @@
-Darluca mucronulata Oudem. SPECIES
-=======
+# Darluca mucronulata Oudem. SPECIES
 
 #### Status
 ACCEPTED

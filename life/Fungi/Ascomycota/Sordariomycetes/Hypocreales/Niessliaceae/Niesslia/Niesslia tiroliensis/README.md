@@ -1,5 +1,4 @@
-Niesslia tiroliensis (Kirschst.) Zhilina SPECIES
-=======
+# Niesslia tiroliensis (Kirschst.) Zhilina SPECIES
 
 #### Status
 ACCEPTED

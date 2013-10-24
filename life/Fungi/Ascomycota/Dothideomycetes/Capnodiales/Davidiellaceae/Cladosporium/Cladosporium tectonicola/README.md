@@ -1,5 +1,4 @@
-Cladosporium tectonicola Yong H. He & Z.Y. Zhang SPECIES
-=======
+# Cladosporium tectonicola Yong H. He & Z.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

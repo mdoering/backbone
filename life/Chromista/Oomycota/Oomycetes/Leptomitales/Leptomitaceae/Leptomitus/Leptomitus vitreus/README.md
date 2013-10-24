@@ -1,5 +1,4 @@
-Leptomitus vitreus (Roth) C. Agardh SPECIES
-=======
+# Leptomitus vitreus (Roth) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

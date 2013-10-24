@@ -1,17 +1,16 @@
-Valsa rhois Cooke SPECIES
-=======
+# Diaporthe rhois Nitschke, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pyrenomycetes Germanici 2: 315 (1870)
 
 #### Original name
-Valsa rhois Cooke
+Diaporthe rhois Nitschke, 1870
 
 ### Remarks
 null

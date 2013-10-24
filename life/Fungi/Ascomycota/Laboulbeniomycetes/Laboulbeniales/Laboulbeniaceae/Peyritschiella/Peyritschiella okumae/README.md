@@ -1,5 +1,4 @@
-Peyritschiella okumae K. Sugiy. SPECIES
-=======
+# Peyritschiella okumae K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

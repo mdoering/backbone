@@ -1,5 +1,4 @@
-Sphingopyxis witflariensis Kämpfer et al., 2002 SPECIES
-=======
+# Sphingopyxis witflariensis Kämpfer et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

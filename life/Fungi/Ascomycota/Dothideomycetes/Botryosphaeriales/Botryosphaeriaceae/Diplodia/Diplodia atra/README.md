@@ -1,5 +1,4 @@
-Diplodia atra Tassi SPECIES
-=======
+# Diplodia atra Tassi SPECIES
 
 #### Status
 ACCEPTED

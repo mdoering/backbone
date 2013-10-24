@@ -1,5 +1,4 @@
-Actinospira chartarum (Nees) Corda SPECIES
-=======
+# Actinospira chartarum (Nees) Corda SPECIES
 
 #### Status
 ACCEPTED

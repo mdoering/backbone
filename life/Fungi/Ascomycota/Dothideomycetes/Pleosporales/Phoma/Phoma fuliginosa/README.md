@@ -1,5 +1,4 @@
-Phoma fuliginosa M.S. Cole & D. Hawksw. SPECIES
-=======
+# Phoma fuliginosa M.S. Cole & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

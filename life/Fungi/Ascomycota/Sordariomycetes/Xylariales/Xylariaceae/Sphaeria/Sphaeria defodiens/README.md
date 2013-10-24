@@ -1,5 +1,4 @@
-Sphaeria defodiens Ellis SPECIES
-=======
+# Sphaeria defodiens Ellis SPECIES
 
 #### Status
 ACCEPTED

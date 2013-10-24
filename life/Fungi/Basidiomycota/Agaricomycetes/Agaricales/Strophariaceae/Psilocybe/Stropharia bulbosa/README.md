@@ -1,5 +1,4 @@
-Stropharia bulbosa f. bulbosa FORM
-=======
+# Stropharia bulbosa S. Imai SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Coll. agric. , Hokkaido Imp. Univ. 43: 268 (1938)
 
 #### Original name
-Stropharia bulbosa f. bulbosa
+Stropharia bulbosa S. Imai
 
 ### Remarks
 null

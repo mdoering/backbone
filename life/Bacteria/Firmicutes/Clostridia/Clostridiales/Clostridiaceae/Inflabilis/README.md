@@ -1,5 +1,4 @@
-Inflabilis GENUS
-=======
+# Inflabilis GENUS
 
 #### Status
 ACCEPTED

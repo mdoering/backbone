@@ -1,5 +1,4 @@
-Arachniotus ellipticosporus Kiril. SPECIES
-=======
+# Arachniotus ellipticosporus Kiril. SPECIES
 
 #### Status
 ACCEPTED

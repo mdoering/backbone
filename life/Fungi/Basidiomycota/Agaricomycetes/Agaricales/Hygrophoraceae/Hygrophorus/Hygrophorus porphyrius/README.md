@@ -1,5 +1,4 @@
-Hygrophorus porphyrius Berk. & Broome SPECIES
-=======
+# Hygrophorus porphyrius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

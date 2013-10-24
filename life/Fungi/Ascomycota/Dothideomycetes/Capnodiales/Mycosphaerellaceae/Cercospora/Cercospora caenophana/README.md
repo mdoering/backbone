@@ -1,5 +1,4 @@
-Cercospora caenophana Munt.-Cvetk. SPECIES
-=======
+# Cercospora caenophana Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyathus byssisedus (Jungh.) Tul. SPECIES
-=======
+# Cyathus byssisedus (Jungh.) Tul. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mastigamoeba schizophrenia Simpson, Bernard, Fenchel & Patterson, 1997 SPECIES
-=======
+# Mastigamoeba schizophrenia Simpson, Bernard, Fenchel & Patterson, 1997 SPECIES
 
 #### Status
 ACCEPTED

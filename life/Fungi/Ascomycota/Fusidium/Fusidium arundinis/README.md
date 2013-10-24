@@ -1,5 +1,4 @@
-Fusidium arundinis Preuss SPECIES
-=======
+# Fusidium arundinis Preuss SPECIES
 
 #### Status
 ACCEPTED

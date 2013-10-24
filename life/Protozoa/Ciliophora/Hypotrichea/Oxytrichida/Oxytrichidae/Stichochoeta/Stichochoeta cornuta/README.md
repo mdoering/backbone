@@ -1,5 +1,4 @@
-Stichochoeta cornuta Dumas SPECIES
-=======
+# Stichochoeta cornuta Dumas SPECIES
 
 #### Status
 ACCEPTED

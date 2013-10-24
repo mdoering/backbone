@@ -1,5 +1,4 @@
-Pleurogala igapoensis (Singer) Redhead & Norvell SPECIES
-=======
+# Pleurogala igapoensis (Singer) Redhead & Norvell SPECIES
 
 #### Status
 ACCEPTED

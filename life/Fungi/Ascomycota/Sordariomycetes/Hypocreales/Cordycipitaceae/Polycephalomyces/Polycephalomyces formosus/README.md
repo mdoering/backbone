@@ -1,5 +1,4 @@
-Polycephalomyces formosus Kobayasi, 1941 SPECIES
-=======
+# Polycephalomyces formosus Kobayasi, 1941 SPECIES
 
 #### Status
 ACCEPTED

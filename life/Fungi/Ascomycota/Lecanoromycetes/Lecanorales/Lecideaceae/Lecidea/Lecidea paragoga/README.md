@@ -1,5 +1,4 @@
-Lecidea paragoga (Körb.) Hue SPECIES
-=======
+# Lecidea paragoga (Körb.) Hue SPECIES
 
 #### Status
 ACCEPTED

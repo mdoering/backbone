@@ -1,5 +1,4 @@
-Usnea capitata Räsänen ex Räsänen SPECIES
-=======
+# Usnea capitata Räsänen ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

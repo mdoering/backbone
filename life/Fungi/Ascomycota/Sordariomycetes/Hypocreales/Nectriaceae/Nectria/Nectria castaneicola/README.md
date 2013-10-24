@@ -1,5 +1,4 @@
-Nectria castaneicola W. Yamam. & Oyasu SPECIES
-=======
+# Nectria castaneicola W. Yamam. & Oyasu SPECIES
 
 #### Status
 ACCEPTED

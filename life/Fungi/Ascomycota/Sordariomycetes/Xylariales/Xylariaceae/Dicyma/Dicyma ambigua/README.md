@@ -1,5 +1,4 @@
-Dicyma ambigua Peyronel SPECIES
-=======
+# Dicyma ambigua Peyronel SPECIES
 
 #### Status
 ACCEPTED

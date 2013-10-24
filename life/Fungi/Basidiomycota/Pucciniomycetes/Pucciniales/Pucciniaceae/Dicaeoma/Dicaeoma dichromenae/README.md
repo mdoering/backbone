@@ -1,5 +1,4 @@
-Dicaeoma dichromenae Arthur SPECIES
-=======
+# Dicaeoma dichromenae Arthur SPECIES
 
 #### Status
 ACCEPTED

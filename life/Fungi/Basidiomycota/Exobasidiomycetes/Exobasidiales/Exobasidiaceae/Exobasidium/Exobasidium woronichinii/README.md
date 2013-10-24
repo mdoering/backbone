@@ -1,5 +1,4 @@
-Exobasidium woronichinii Nagao, 2004 SPECIES
-=======
+# Exobasidium woronichinii Nagao, 2004 SPECIES
 
 #### Status
 ACCEPTED

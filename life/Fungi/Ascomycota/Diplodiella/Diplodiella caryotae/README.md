@@ -1,5 +1,4 @@
-Diplodiella caryotae Racib. SPECIES
-=======
+# Diplodiella caryotae Racib. SPECIES
 
 #### Status
 ACCEPTED

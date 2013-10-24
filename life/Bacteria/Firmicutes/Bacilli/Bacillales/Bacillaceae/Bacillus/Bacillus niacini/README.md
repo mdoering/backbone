@@ -1,5 +1,4 @@
-Bacillus niacini Nagel & Andreesen, 1991 SPECIES
-=======
+# Bacillus niacini Nagel & Andreesen, 1991 SPECIES
 
 #### Status
 ACCEPTED

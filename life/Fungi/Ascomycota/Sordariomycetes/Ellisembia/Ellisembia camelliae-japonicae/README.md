@@ -1,5 +1,4 @@
-Ellisembia camelliae-japonicae (Subram.) W.P. Wu SPECIES
-=======
+# Ellisembia camelliae-japonicae (Subram.) W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

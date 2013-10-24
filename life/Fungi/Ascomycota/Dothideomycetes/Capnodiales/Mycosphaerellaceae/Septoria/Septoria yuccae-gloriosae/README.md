@@ -1,5 +1,4 @@
-Septoria yuccae-gloriosae (Schwein.) Curr. SPECIES
-=======
+# Septoria yuccae-gloriosae (Schwein.) Curr. SPECIES
 
 #### Status
 ACCEPTED

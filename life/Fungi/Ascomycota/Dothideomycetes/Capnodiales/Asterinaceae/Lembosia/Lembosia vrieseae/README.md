@@ -1,5 +1,4 @@
-Lembosia vrieseae Höhn. SPECIES
-=======
+# Lembosia vrieseae Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium convolvulinum Speg. SPECIES
-=======
+# Aecidium convolvulinum Speg. SPECIES
 
 #### Status
 ACCEPTED

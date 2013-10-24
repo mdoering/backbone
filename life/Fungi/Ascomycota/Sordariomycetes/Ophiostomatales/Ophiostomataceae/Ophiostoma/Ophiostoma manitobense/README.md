@@ -1,5 +1,4 @@
-Ophiostoma manitobense J. Reid & Georg Hausner SPECIES
-=======
+# Ophiostoma manitobense J. Reid & Georg Hausner SPECIES
 
 #### Status
 ACCEPTED

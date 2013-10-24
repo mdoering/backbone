@@ -1,5 +1,4 @@
-Lepiota stercoraria Rick SPECIES
-=======
+# Lepiota stercoraria Rick SPECIES
 
 #### Status
 ACCEPTED

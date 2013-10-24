@@ -1,5 +1,4 @@
-Leptostroma hortense Syd. SPECIES
-=======
+# Leptostroma hortense Syd. SPECIES
 
 #### Status
 ACCEPTED

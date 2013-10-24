@@ -1,5 +1,4 @@
-Pyrenastrum pyrenastraeum (Nyl.) Zahlbr. SPECIES
-=======
+# Pyrenastrum pyrenastraeum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calvatia incerta Bottomley SPECIES
-=======
+# Calvatia incerta Bottomley SPECIES
 
 #### Status
 ACCEPTED

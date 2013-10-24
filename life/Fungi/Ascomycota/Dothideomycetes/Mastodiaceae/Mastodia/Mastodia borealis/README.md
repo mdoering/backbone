@@ -1,5 +1,4 @@
-Mastodia borealis (M. Reed) C.W. Dodge, 1948 SPECIES
-=======
+# Mastodia borealis (M. Reed) C.W. Dodge, 1948 SPECIES
 
 #### Status
 ACCEPTED

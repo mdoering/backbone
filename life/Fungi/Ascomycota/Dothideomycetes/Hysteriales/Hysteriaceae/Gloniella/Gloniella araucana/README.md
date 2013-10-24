@@ -1,5 +1,4 @@
-Gloniella araucana Speg. SPECIES
-=======
+# Gloniella araucana Speg. SPECIES
 
 #### Status
 ACCEPTED

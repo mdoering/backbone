@@ -1,5 +1,4 @@
-Byssoloma subnebulosum (Vain.) Zahlbr. SPECIES
-=======
+# Byssoloma subnebulosum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

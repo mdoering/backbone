@@ -1,11 +1,10 @@
-Peridiniopsis pingii (Nie) F.J.R. Taylor, 1976 SPECIES
-=======
+# Diplopsalopsis pingii (D. Nie) J. D. Dodge & S. Toriumi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Puccinia curtipes Howe SPECIES
-=======
+# Puccinia curtipes Howe SPECIES
 
 #### Status
 ACCEPTED

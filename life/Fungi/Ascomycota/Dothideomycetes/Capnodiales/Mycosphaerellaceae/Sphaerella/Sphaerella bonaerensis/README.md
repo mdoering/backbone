@@ -1,5 +1,4 @@
-Sphaerella bonaerensis Speg. SPECIES
-=======
+# Sphaerella bonaerensis Speg. SPECIES
 
 #### Status
 ACCEPTED

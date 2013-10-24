@@ -1,5 +1,4 @@
-Comatricha nutans Shuang L. Chen, 1999 SPECIES
-=======
+# Comatricha nutans Shuang L. Chen, 1999 SPECIES
 
 #### Status
 ACCEPTED

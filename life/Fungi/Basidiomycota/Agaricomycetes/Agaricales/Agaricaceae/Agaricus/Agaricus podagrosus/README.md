@@ -1,5 +1,4 @@
-Agaricus podagrosus Berk. SPECIES
-=======
+# Agaricus podagrosus Berk. SPECIES
 
 #### Status
 ACCEPTED

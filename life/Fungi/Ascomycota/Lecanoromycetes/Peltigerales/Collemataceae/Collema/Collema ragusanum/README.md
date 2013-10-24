@@ -1,5 +1,4 @@
-Collema ragusanum Zahlbr. SPECIES
-=======
+# Collema ragusanum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

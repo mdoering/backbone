@@ -1,5 +1,4 @@
-Glypholecia rhagadiosa (Ach.) Nyl. SPECIES
-=======
+# Glypholecia rhagadiosa (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cymatiogalea regularis Yin Leiming in Chen Yunyuan et al., 1985 emend. Yin Leiming, 1986 SPECIES
-=======
+# Cymatiogalea regularis Yin Leiming in Chen Yunyuan et al., 1985 emend. Yin Leiming, 1986 SPECIES
 
 #### Status
 ACCEPTED

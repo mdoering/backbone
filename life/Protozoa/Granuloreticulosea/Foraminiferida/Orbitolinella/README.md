@@ -1,5 +1,4 @@
-Orbitolinella Henson, 1948 GENUS
-=======
+# Orbitolinella Henson, 1948 GENUS
 
 #### Status
 ACCEPTED

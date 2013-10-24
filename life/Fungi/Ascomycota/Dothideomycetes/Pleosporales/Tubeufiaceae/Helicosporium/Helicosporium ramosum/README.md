@@ -1,5 +1,4 @@
-Helicosporium ramosum P.H.B. Talbot SPECIES
-=======
+# Helicosporium ramosum P.H.B. Talbot SPECIES
 
 #### Status
 ACCEPTED

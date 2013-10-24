@@ -1,5 +1,4 @@
-Aegeritella roussillonensis Balazy, Lenoir & J. Wisn. SPECIES
-=======
+# Aegeritella roussillonensis Balazy, Lenoir & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenocollema epigloeum (Nyl.) R.C. Harris SPECIES
-=======
+# Pyrenocollema epigloeum (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma waldsteiniae (M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma waldsteiniae (M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

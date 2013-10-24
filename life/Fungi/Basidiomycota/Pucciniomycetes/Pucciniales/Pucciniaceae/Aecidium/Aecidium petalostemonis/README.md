@@ -1,5 +1,4 @@
-Aecidium petalostemonis Kellerm. & Corlett SPECIES
-=======
+# Aecidium petalostemonis Kellerm. & Corlett SPECIES
 
 #### Status
 ACCEPTED

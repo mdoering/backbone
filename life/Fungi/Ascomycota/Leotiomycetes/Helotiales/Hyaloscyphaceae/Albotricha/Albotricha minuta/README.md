@@ -1,5 +1,4 @@
-Albotricha minuta Raitv. SPECIES
-=======
+# Albotricha minuta Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopadium glaucinum (Vain.) SPECIES
-=======
+# Lopadium glaucinum (Vain.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Clitocybe echinospora Speg. SPECIES
-=======
+# Laccaria echinospora (Speg.) Singer, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 41(1/3): 17 (1943)
 
 #### Original name
 Clitocybe echinospora Speg.

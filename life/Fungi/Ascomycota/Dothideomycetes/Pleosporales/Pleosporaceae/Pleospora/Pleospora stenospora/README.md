@@ -1,5 +1,4 @@
-Pleospora stenospora J. Schröt. SPECIES
-=======
+# Pleospora stenospora J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

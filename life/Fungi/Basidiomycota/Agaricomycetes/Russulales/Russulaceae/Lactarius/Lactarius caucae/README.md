@@ -1,5 +1,4 @@
-Lactarius caucae Singer SPECIES
-=======
+# Lactarius caucae Singer SPECIES
 
 #### Status
 ACCEPTED

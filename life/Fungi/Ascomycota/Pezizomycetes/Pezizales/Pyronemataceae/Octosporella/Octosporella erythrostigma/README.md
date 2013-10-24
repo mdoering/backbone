@@ -1,5 +1,4 @@
-Octosporella erythrostigma (Mont.) Döbbeler, 2004 SPECIES
-=======
+# Octosporella erythrostigma (Mont.) Döbbeler, 2004 SPECIES
 
 #### Status
 ACCEPTED

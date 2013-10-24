@@ -1,5 +1,4 @@
-Jaaginema minimum (Gicklhorn) Anagnostidis & Komárek, 1988 SPECIES
-=======
+# Jaaginema minimum (Gicklhorn) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
 ACCEPTED

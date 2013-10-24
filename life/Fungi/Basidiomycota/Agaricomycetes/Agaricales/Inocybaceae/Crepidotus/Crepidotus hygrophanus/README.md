@@ -1,5 +1,4 @@
-Crepidotus hygrophanus Murrill SPECIES
-=======
+# Crepidotus hygrophanus Murrill SPECIES
 
 #### Status
 ACCEPTED

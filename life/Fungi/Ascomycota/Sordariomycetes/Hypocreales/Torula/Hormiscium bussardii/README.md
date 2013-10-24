@@ -1,5 +1,4 @@
-Hormiscium bussardii Delacr. SPECIES
-=======
+# Hormiscium bussardii Delacr. SPECIES
 
 #### Status
 ACCEPTED

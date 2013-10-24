@@ -1,8 +1,7 @@
-Pouchetia fuscus Schutt SPECIES
-=======
+# Warnowia fusus (Schütt) Lindemann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

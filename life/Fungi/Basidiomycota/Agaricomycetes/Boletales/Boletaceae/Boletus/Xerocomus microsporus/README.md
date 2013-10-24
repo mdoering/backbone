@@ -1,5 +1,4 @@
-Xerocomus microsporus Singer & Grinling SPECIES
-=======
+# Xerocomus microsporus Singer & Grinling SPECIES
 
 #### Status
 ACCEPTED

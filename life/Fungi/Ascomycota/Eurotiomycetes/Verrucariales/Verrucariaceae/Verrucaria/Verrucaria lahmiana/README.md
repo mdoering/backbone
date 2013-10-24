@@ -1,5 +1,4 @@
-Verrucaria lahmiana Servít SPECIES
-=======
+# Verrucaria lahmiana Servít SPECIES
 
 #### Status
 ACCEPTED

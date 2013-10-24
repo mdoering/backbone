@@ -1,5 +1,4 @@
-Pholiota oregonensis (Murrill) Murrill SPECIES
-=======
+# Pholiota oregonensis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

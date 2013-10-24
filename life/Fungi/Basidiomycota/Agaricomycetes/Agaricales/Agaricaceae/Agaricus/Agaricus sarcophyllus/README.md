@@ -1,5 +1,4 @@
-Agaricus sarcophyllus Peck SPECIES
-=======
+# Agaricus sarcophyllus Peck SPECIES
 
 #### Status
 ACCEPTED

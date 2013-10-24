@@ -1,5 +1,4 @@
-Gyoerffyana Kol & F. Chodat, 1934 GENUS
-=======
+# Gyoerffyana Kol & F. Chodat, 1934 GENUS
 
 #### Status
 ACCEPTED

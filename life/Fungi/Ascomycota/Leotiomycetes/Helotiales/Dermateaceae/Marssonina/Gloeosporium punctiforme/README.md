@@ -1,5 +1,4 @@
-Gloeosporium punctiforme Sacc. & Ellis SPECIES
-=======
+# Gloeosporium punctiforme Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

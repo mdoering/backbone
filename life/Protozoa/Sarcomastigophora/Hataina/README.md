@@ -1,5 +1,4 @@
-Hataina Huang, 1967 GENUS
-=======
+# Hataina Huang, 1967 GENUS
 
 #### Status
 ACCEPTED

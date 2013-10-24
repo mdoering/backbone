@@ -1,5 +1,4 @@
-Pluteus bii Minnis & Sundb. SPECIES
-=======
+# Pluteus bii Minnis & Sundb. SPECIES
 
 #### Status
 ACCEPTED

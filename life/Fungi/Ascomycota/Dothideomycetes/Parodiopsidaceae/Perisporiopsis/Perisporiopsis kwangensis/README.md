@@ -1,5 +1,4 @@
-Perisporiopsis kwangensis (Henn.) Arx SPECIES
-=======
+# Perisporiopsis kwangensis (Henn.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Condylostoma vastum Bock, 1955 SPECIES
-=======
+# Electostoma vastum (Bock, 1952) Jankowski, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

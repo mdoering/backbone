@@ -1,5 +1,4 @@
-Cortinarius sagatus M.M. Moser SPECIES
-=======
+# Cortinarius sagatus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

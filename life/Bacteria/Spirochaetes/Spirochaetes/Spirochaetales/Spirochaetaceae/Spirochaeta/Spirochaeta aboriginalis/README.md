@@ -1,5 +1,4 @@
-Spirochaeta aboriginalis SPECIES
-=======
+# Spirochaeta aboriginalis SPECIES
 
 #### Status
 ACCEPTED

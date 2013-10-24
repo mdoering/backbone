@@ -1,5 +1,4 @@
-Puccinia physospermi Pass., 1877 SPECIES
-=======
+# Puccinia physospermi Pass., 1877 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora melastomobia (W. Yamam.) Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora melastomobia (W. Yamam.) Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

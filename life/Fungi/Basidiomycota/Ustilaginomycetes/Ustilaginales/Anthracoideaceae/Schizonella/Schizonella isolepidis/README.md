@@ -1,17 +1,16 @@
-Tolyposporium isolepidis (Vánky) Vánky & M. Lutz, 2008 SPECIES
-=======
+# Schizonella isolepidis Vánky, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Vánky & McKenzie, N. Z. Jl Bot. 28(3): 251 (1990)
 
 #### Original name
-null
+Schizonella isolepidis Vánky, 1990
 
 ### Remarks
 null

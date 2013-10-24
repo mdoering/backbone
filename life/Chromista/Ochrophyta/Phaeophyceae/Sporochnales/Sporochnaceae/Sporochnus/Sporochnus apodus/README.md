@@ -1,5 +1,4 @@
-Sporochnus apodus Harvey SPECIES
-=======
+# Sporochnus apodus Harvey SPECIES
 
 #### Status
 ACCEPTED

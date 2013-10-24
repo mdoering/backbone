@@ -1,5 +1,4 @@
-Gibberella rhododendricola Rehm SPECIES
-=======
+# Gibberella rhododendricola Rehm SPECIES
 
 #### Status
 ACCEPTED

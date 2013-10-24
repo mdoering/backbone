@@ -1,5 +1,4 @@
-Clavularia mycogena P. Karst. SPECIES
-=======
+# Clavularia mycogena P. Karst. SPECIES
 
 #### Status
 ACCEPTED

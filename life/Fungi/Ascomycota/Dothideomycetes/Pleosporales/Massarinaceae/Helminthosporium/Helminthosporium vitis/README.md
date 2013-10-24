@@ -1,5 +1,4 @@
-Helminthosporium vitis Pirotta SPECIES
-=======
+# Helminthosporium vitis Pirotta SPECIES
 
 #### Status
 ACCEPTED

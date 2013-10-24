@@ -1,5 +1,4 @@
-Sargassum boreale Yoshida & Horiguchi SPECIES
-=======
+# Sargassum boreale Yoshida & Horiguchi SPECIES
 
 #### Status
 ACCEPTED

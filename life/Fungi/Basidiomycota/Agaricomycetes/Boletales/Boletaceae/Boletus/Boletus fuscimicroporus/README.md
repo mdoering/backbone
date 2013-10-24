@@ -1,5 +1,4 @@
-Boletus fuscimicroporus M. Zang & R.H. Petersen SPECIES
-=======
+# Boletus fuscimicroporus M. Zang & R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

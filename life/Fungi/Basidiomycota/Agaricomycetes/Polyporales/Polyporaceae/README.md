@@ -1,17 +1,16 @@
-Epitheliaceae FAMILY
-=======
+# Polyporaceae Fr. ex Corda FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. fung. (Prague) 3: 49 (1839)
 
 #### Original name
-null
+Polyporaceae Fr. ex Corda
 
 ### Remarks
 null

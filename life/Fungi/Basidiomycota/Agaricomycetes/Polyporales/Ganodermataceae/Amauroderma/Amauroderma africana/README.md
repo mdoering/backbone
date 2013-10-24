@@ -1,5 +1,4 @@
-Amauroderma africana Ryvarden, 2004 SPECIES
-=======
+# Amauroderma africana Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

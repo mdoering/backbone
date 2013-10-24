@@ -1,5 +1,4 @@
-Lecanora subintricans Nyl. SPECIES
-=======
+# Lecanora subintricans Nyl. SPECIES
 
 #### Status
 ACCEPTED

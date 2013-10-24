@@ -1,5 +1,4 @@
-Topeliopsis darlingtonii Frisch & Kalb SPECIES
-=======
+# Topeliopsis darlingtonii Frisch & Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizoxylon gaubae Petr. SPECIES
-=======
+# Schizoxylon gaubae Petr. SPECIES
 
 #### Status
 ACCEPTED

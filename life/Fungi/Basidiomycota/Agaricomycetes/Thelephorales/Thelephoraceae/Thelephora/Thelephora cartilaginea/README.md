@@ -1,5 +1,4 @@
-Thelephora cartilaginea Fr. SPECIES
-=======
+# Thelephora cartilaginea Fr. SPECIES
 
 #### Status
 ACCEPTED

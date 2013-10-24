@@ -1,5 +1,4 @@
-Patellea inquinans Cooke SPECIES
-=======
+# Patellea inquinans Cooke SPECIES
 
 #### Status
 ACCEPTED

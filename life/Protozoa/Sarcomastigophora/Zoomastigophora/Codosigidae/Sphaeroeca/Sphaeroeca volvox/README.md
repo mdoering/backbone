@@ -1,5 +1,4 @@
-Sphaeroeca volvox Lauterborn SPECIES
-=======
+# Sphaeroeca volvox Lauterborn SPECIES
 
 #### Status
 ACCEPTED

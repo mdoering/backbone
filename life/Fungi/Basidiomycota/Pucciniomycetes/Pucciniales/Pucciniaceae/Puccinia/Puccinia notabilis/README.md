@@ -1,5 +1,4 @@
-Puccinia notabilis Tracy & Earle SPECIES
-=======
+# Puccinia notabilis Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria biseptata Auersw. SPECIES
-=======
+# Leptosphaeria biseptata Auersw. SPECIES
 
 #### Status
 ACCEPTED

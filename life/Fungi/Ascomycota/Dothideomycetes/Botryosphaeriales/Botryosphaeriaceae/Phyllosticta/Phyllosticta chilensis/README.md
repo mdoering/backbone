@@ -1,5 +1,4 @@
-Phyllosticta chilensis Allesch. SPECIES
-=======
+# Phyllosticta chilensis Allesch. SPECIES
 
 #### Status
 ACCEPTED

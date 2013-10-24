@@ -1,5 +1,4 @@
-Aecidium santanense J.C. Lindq. SPECIES
-=======
+# Aecidium santanense J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Puccinia gladioli subsp. gladioli Castagne SUBSPECIES
-=======
+# Puccinia gladioli Castagne, 1843 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Observ. Uréd. 2: 17 (1842)
 
 #### Original name
-Puccinia gladioli subsp. gladioli Castagne
+Puccinia gladioli Castagne, 1843
 
 ### Remarks
 null

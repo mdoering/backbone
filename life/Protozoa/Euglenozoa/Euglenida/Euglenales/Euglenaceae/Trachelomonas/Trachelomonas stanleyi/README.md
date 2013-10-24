@@ -1,5 +1,4 @@
-Trachelomonas stanleyi Skvortzov SPECIES
-=======
+# Trachelomonas stanleyi Skvortzov SPECIES
 
 #### Status
 ACCEPTED

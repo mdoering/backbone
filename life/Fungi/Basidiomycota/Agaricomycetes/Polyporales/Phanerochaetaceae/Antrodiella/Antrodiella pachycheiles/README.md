@@ -1,14 +1,13 @@
-Polyporus pachycheiles Ellis & Everh., 1894 SPECIES
-=======
+# Antrodiella pachycheiles (Ellis & Everh.) Miettinen & Niemelä, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Acad. nat. Sci. Philad. , 1894 46: 322 (1894)
+Mycotaxon 96: 226 (2006)
 
 #### Original name
 Polyporus pachycheiles Ellis & Everh., 1894

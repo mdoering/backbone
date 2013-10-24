@@ -1,5 +1,4 @@
-Pseudopannaria (B. de Lesd.) Zahlbr. GENUS
-=======
+# Pseudopannaria (B. de Lesd.) Zahlbr. GENUS
 
 #### Status
 ACCEPTED

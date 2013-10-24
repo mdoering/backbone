@@ -1,5 +1,4 @@
-Leukopyxis Pascher, 1940 GENUS
-=======
+# Leukopyxis Pascher, 1940 GENUS
 
 #### Status
 SYNONYM

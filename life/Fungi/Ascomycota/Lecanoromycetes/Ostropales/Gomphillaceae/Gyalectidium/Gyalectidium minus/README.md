@@ -1,5 +1,4 @@
-Gyalectidium minus Sérus. SPECIES
-=======
+# Gyalectidium minus Sérus. SPECIES
 
 #### Status
 ACCEPTED

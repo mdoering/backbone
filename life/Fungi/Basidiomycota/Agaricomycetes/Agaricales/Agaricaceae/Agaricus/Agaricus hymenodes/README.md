@@ -1,5 +1,4 @@
-Agaricus hymenodes Lév. SPECIES
-=======
+# Agaricus hymenodes Lév. SPECIES
 
 #### Status
 ACCEPTED

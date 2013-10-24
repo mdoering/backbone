@@ -1,5 +1,4 @@
-Vorticella quadrangularis Kent, 1881 SPECIES
-=======
+# Vorticella quadrangularis Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

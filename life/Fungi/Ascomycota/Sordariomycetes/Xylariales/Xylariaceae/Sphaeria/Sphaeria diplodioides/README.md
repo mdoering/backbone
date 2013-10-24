@@ -1,5 +1,4 @@
-Sphaeria diplodioides P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria diplodioides P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

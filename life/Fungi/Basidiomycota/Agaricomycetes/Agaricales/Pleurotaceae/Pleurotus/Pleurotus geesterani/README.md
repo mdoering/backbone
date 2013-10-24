@@ -1,5 +1,4 @@
-Pleurotus geesterani Singer SPECIES
-=======
+# Pleurotus geesterani Singer SPECIES
 
 #### Status
 ACCEPTED

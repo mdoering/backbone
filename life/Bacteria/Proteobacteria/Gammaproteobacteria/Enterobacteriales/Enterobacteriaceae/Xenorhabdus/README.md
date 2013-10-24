@@ -1,5 +1,4 @@
-Xenorhabdus Thomas & Poinar, 1979 GENUS
-=======
+# Xenorhabdus Thomas & Poinar, 1979 GENUS
 
 #### Status
 ACCEPTED

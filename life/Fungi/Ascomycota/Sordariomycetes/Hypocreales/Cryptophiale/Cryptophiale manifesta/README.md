@@ -1,14 +1,13 @@
-Cryptophialoidea manifesta (B. Sutton & Hodges) Kuthub. & Nawawi, 1994 SPECIES
-=======
+# Cryptophiale manifesta B. Sutton & Hodges, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 98(6): 688 (1994)
+Nova Hedwigia 27(1-2): 343 (1976)
 
 #### Original name
 Cryptophiale manifesta B. Sutton & Hodges, 1976

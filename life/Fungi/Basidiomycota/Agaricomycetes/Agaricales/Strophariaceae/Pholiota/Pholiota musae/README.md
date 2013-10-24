@@ -1,5 +1,4 @@
-Pholiota musae (Earle) Sacc. & Traverso SPECIES
-=======
+# Pholiota musae (Earle) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

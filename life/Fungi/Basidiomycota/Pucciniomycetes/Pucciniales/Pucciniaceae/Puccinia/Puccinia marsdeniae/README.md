@@ -1,5 +1,4 @@
-Puccinia marsdeniae Dietel & Holw. SPECIES
-=======
+# Puccinia marsdeniae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

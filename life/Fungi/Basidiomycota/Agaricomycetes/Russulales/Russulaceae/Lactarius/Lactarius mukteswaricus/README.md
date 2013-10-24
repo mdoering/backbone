@@ -1,5 +1,4 @@
-Lactarius mukteswaricus K. Das, J.R. Sharma & Montoya SPECIES
-=======
+# Lactarius mukteswaricus K. Das, J.R. Sharma & Montoya SPECIES
 
 #### Status
 ACCEPTED

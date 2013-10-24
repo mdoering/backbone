@@ -1,5 +1,4 @@
-Opegrapha gibba Chevall. SPECIES
-=======
+# Opegrapha gibba Chevall. SPECIES
 
 #### Status
 ACCEPTED

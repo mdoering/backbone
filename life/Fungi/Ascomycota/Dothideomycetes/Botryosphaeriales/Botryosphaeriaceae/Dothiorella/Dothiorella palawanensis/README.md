@@ -1,5 +1,4 @@
-Dothiorella palawanensis Syd. SPECIES
-=======
+# Dothiorella palawanensis Syd. SPECIES
 
 #### Status
 ACCEPTED

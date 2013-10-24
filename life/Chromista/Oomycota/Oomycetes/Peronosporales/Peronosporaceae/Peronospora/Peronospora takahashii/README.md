@@ -1,5 +1,4 @@
-Peronospora takahashii S. Ito SPECIES
-=======
+# Peronospora takahashii S. Ito SPECIES
 
 #### Status
 ACCEPTED

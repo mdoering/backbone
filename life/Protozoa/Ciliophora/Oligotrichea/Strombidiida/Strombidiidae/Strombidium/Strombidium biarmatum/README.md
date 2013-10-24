@@ -1,5 +1,4 @@
-Strombidium biarmatum Agatha, Strüder-Kypke, Beran & Lynn, 2005 SPECIES
-=======
+# Strombidium biarmatum Agatha, Strüder-Kypke, Beran & Lynn, 2005 SPECIES
 
 #### Status
 ACCEPTED

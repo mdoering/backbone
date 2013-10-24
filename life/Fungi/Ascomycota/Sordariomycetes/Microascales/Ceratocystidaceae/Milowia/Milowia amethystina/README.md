@@ -1,5 +1,4 @@
-Milowia amethystina Massee SPECIES
-=======
+# Milowia amethystina Massee SPECIES
 
 #### Status
 ACCEPTED

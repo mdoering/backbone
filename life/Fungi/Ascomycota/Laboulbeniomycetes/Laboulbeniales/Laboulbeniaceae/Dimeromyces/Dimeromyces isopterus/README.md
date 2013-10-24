@@ -1,5 +1,4 @@
-Dimeromyces isopterus Kimbr. SPECIES
-=======
+# Dimeromyces isopterus Kimbr. SPECIES
 
 #### Status
 ACCEPTED

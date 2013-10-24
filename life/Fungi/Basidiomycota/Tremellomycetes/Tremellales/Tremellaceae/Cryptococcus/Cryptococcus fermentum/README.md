@@ -1,5 +1,4 @@
-Cryptococcus fermentum Kütz. SPECIES
-=======
+# Cryptococcus fermentum Kütz. SPECIES
 
 #### Status
 ACCEPTED

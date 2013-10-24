@@ -1,5 +1,4 @@
-Amanita angustispora Cleland SPECIES
-=======
+# Amanita angustispora Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenopsis hypophyllae Jana, S.N. Ghosh & A.K. Das SPECIES
-=======
+# Irenopsis hypophyllae Jana, S.N. Ghosh & A.K. Das SPECIES
 
 #### Status
 ACCEPTED

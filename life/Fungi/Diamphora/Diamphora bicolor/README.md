@@ -1,5 +1,4 @@
-Diamphora bicolor Mart. SPECIES
-=======
+# Diamphora bicolor Mart. SPECIES
 
 #### Status
 ACCEPTED

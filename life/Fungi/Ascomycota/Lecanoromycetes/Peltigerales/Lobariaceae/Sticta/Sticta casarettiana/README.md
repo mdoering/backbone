@@ -1,5 +1,4 @@
-Sticta casarettiana De Not. SPECIES
-=======
+# Sticta casarettiana De Not. SPECIES
 
 #### Status
 ACCEPTED

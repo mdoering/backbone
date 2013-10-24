@@ -1,5 +1,4 @@
-Oothyrium Syd. GENUS
-=======
+# Oothyrium Syd. GENUS
 
 #### Status
 ACCEPTED

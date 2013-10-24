@@ -1,8 +1,7 @@
-Actinobranchium salparum (Entz, 1884) Jankowski, 1967 SPECIES
-=======
+# Trichophrya salparum Entz, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Neurosporangium Debey & Ettingshausen, 1859 GENUS
-=======
+# Neurosporangium Debey & Ettingshausen, 1859 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrocolla bigeloviae Ellis & Everh. SPECIES
-=======
+# Cylindrocolla bigeloviae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

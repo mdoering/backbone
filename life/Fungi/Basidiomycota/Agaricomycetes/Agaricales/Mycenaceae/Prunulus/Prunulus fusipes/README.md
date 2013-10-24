@@ -1,5 +1,4 @@
-Prunulus fusipes Murrill SPECIES
-=======
+# Prunulus fusipes Murrill SPECIES
 
 #### Status
 ACCEPTED

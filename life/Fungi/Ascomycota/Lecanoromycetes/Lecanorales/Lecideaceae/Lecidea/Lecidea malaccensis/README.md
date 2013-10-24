@@ -1,5 +1,4 @@
-Lecidea malaccensis Nyl. SPECIES
-=======
+# Lecidea malaccensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

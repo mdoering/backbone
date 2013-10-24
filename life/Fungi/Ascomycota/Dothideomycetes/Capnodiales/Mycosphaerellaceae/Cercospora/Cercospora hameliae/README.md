@@ -1,5 +1,4 @@
-Cercospora hameliae Chupp SPECIES
-=======
+# Cercospora hameliae Chupp SPECIES
 
 #### Status
 ACCEPTED

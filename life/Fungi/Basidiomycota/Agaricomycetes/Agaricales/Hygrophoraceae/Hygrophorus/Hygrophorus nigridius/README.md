@@ -1,5 +1,4 @@
-Hygrophorus nigridius Peck SPECIES
-=======
+# Hygrophorus nigridius Peck SPECIES
 
 #### Status
 ACCEPTED

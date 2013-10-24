@@ -1,8 +1,7 @@
-Stagonospora anabasidis Vasyag. & Byzova SPECIES
-=======
+# Stagonospora anabasis Vasyag. & Byzova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stagonospora anabasidis Vasyag. & Byzova
+Stagonospora anabasis Vasyag. & Byzova
 
 ### Remarks
 null

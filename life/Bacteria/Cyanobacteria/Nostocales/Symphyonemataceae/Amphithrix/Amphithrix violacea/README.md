@@ -1,5 +1,4 @@
-Amphithrix violacea (Kützing) Bornet & Flahault SPECIES
-=======
+# Amphithrix violacea (Kützing) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

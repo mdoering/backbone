@@ -1,5 +1,4 @@
-Diaporthe asclepiadis Ellis & Everh. SPECIES
-=======
+# Diaporthe asclepiadis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

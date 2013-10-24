@@ -1,5 +1,4 @@
-Phytoplasma castaneae Jung et al., 2002. SPECIES
-=======
+# Phytoplasma castaneae Jung et al., 2002. SPECIES
 
 #### Status
 ACCEPTED

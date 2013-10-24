@@ -1,5 +1,4 @@
-Entomophthora blumckii SPECIES
-=======
+# Entomophthora blumckii SPECIES
 
 #### Status
 ACCEPTED

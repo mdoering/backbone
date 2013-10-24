@@ -1,5 +1,4 @@
-Sphaeria sambucivora Schwein. SPECIES
-=======
+# Sphaeria sambucivora Schwein. SPECIES
 
 #### Status
 ACCEPTED

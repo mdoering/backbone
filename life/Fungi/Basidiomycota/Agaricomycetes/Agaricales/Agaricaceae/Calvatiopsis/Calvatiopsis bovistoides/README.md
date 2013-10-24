@@ -1,5 +1,4 @@
-Calvatiopsis bovistoides Hollós, 1929 SPECIES
-=======
+# Calvatiopsis bovistoides Hollós, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calceispora hachijoensis Matsush., 1975 SPECIES
-=======
+# Calceispora hachijoensis Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

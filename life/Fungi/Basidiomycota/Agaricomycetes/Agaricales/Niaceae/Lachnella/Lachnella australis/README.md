@@ -1,5 +1,4 @@
-Lachnella australis Speg. SPECIES
-=======
+# Lachnella australis Speg. SPECIES
 
 #### Status
 ACCEPTED

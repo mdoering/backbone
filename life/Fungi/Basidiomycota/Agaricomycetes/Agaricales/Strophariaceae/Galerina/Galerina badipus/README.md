@@ -1,5 +1,4 @@
-Galerina badipus (Pers.) Rauschert SPECIES
-=======
+# Galerina badipus (Pers.) Rauschert SPECIES
 
 #### Status
 ACCEPTED

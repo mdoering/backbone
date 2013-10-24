@@ -1,5 +1,4 @@
-Burkholderia silvatlantica Perin et al., 2006 SPECIES
-=======
+# Burkholderia silvatlantica Perin et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

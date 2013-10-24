@@ -1,5 +1,4 @@
-Cortinarius multiformium Consiglio & Moënne-Locc. SPECIES
-=======
+# Cortinarius multiformium Consiglio & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

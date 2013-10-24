@@ -1,5 +1,4 @@
-Corynespora acalyphae Wulandari SPECIES
-=======
+# Corynespora acalyphae Wulandari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyostelium deminutivum J.S. Anderson, Fennell & Raper, 1968 SPECIES
-=======
+# Dictyostelium deminutivum J.S. Anderson, Fennell & Raper, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca erythrantha f. erythrantha FORM
-=======
+# Caloplaca erythrantha (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

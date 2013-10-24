@@ -1,5 +1,4 @@
-Sclerotinia salicina Velen. SPECIES
-=======
+# Sclerotinia salicina Velen. SPECIES
 
 #### Status
 ACCEPTED

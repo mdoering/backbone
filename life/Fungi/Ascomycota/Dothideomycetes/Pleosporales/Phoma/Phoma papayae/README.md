@@ -1,5 +1,4 @@
-Phoma papayae Sohi, S.L. Sharma, S.K. Nayar & Shayam SPECIES
-=======
+# Phoma papayae Sohi, S.L. Sharma, S.K. Nayar & Shayam SPECIES
 
 #### Status
 ACCEPTED

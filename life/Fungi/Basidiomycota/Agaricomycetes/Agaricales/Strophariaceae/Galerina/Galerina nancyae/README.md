@@ -1,5 +1,4 @@
-Galerina nancyae A.H. Sm. SPECIES
-=======
+# Galerina nancyae A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

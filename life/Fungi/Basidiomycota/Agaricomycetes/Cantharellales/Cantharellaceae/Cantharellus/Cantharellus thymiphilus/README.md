@@ -1,5 +1,4 @@
-Cantharellus thymiphilus Velen. SPECIES
-=======
+# Cantharellus thymiphilus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptolepiota americana (Kropp & L.J. Hutchison) Kropp & Trappe SPECIES
-=======
+# Cryptolepiota americana (Kropp & L.J. Hutchison) Kropp & Trappe SPECIES
 
 #### Status
 ACCEPTED

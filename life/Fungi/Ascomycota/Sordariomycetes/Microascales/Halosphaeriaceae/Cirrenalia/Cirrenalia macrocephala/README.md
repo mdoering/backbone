@@ -1,14 +1,13 @@
-Helicoma macrocephala Kohlm., 1958 SPECIES
-=======
+# Cirrenalia macrocephala (Kohlm.) Meyers & R.T. Moore, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. dt. bot. Ges. 71: 99 (1958)
+Am. J. Bot. 47: 347 (1960)
 
 #### Original name
 Helicoma macrocephala Kohlm., 1958

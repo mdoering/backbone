@@ -1,5 +1,4 @@
-Aspicilia banatica Gyeln. SPECIES
-=======
+# Aspicilia banatica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

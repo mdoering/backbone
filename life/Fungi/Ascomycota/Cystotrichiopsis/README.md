@@ -1,5 +1,4 @@
-Cystotrichiopsis B.A. Abbas, B. Sutton & Ghaffar GENUS
-=======
+# Cystotrichiopsis B.A. Abbas, B. Sutton & Ghaffar GENUS
 
 #### Status
 ACCEPTED

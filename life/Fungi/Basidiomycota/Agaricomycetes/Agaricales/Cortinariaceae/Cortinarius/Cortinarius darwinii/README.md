@@ -1,5 +1,4 @@
-Cortinarius darwinii Speg. SPECIES
-=======
+# Cortinarius darwinii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Byssostilbe fusca Petch SPECIES
-=======
+# Byssostilbe fusca Petch SPECIES
 
 #### Status
 ACCEPTED

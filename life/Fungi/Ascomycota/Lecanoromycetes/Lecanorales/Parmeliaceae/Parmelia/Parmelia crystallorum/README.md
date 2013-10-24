@@ -1,5 +1,4 @@
-Parmelia crystallorum Lynge SPECIES
-=======
+# Parmelia crystallorum Lynge SPECIES
 
 #### Status
 ACCEPTED

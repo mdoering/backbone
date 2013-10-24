@@ -1,5 +1,4 @@
-Phoma cannae-indicae Punith. SPECIES
-=======
+# Phoma cannae-indicae Punith. SPECIES
 
 #### Status
 ACCEPTED

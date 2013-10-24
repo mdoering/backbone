@@ -1,5 +1,4 @@
-Thiorhodospira sibirica Bryantseva et al., 1999 SPECIES
-=======
+# Thiorhodospira sibirica Bryantseva et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

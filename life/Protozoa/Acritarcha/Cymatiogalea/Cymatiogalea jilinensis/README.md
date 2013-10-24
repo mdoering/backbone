@@ -1,5 +1,4 @@
-Cymatiogalea jilinensis Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
-=======
+# Cymatiogalea jilinensis Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

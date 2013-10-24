@@ -1,5 +1,4 @@
-Haplophyse Theiss. GENUS
-=======
+# Haplophyse Theiss. GENUS
 
 #### Status
 ACCEPTED

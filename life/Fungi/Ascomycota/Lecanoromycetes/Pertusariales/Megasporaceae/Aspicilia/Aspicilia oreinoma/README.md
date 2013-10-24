@@ -1,5 +1,4 @@
-Aspicilia oreinoma Hue SPECIES
-=======
+# Aspicilia oreinoma Hue SPECIES
 
 #### Status
 ACCEPTED

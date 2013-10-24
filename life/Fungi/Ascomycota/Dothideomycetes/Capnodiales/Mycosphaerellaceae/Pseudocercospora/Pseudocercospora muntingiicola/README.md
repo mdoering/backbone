@@ -1,5 +1,4 @@
-Pseudocercospora muntingiicola (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora muntingiicola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

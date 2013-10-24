@@ -1,5 +1,4 @@
-Protounguicularia barbata f. barbata (Velen.) Huhtinen, 1987 FORM
-=======
+# Protounguicularia barbata (Velen.) Huhtinen SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Kenntn. Pilze Mitteleur. 3: 457 (1987)
 
 #### Original name
-Protounguicularia barbata f. barbata (Velen.) Huhtinen, 1987
+Hyaloscypha quercina var. barbata Velen., 1934
 
 ### Remarks
 null

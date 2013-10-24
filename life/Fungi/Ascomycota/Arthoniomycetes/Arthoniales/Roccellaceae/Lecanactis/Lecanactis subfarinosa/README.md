@@ -1,17 +1,16 @@
-Lecanactis subfarinosa var. subfarinosa VARIETY
-=======
+# Lecanactis subfarinosa (C. Knight) Hellb., 1896 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 21(no. 3): 120 (1896)
+null
 
 #### Original name
-Lecanactis subfarinosa var. subfarinosa
+null
 
 ### Remarks
 null

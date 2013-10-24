@@ -1,5 +1,4 @@
-Gloeosporium populinum Peck SPECIES
-=======
+# Gloeosporium populinum Peck SPECIES
 
 #### Status
 ACCEPTED

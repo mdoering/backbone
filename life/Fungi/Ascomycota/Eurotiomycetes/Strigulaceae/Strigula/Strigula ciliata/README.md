@@ -1,5 +1,4 @@
-Strigula ciliata Mont. SPECIES
-=======
+# Strigula ciliata Mont. SPECIES
 
 #### Status
 ACCEPTED

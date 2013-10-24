@@ -1,5 +1,4 @@
-Passalora querci (Chupp) Crous & U. Braun SPECIES
-=======
+# Passalora querci (Chupp) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

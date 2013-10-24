@@ -1,5 +1,4 @@
-Lecanosticta longispora Marm. SPECIES
-=======
+# Lecanosticta longispora Marm. SPECIES
 
 #### Status
 ACCEPTED

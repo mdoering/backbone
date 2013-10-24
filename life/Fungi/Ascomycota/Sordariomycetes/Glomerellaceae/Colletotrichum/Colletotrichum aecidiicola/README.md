@@ -1,17 +1,16 @@
-Colletotrichum aecidiicolum Negru SPECIES
-=======
+# Colletotrichum aecidiicola Negru SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Stud. Cercet. Biol. Acad. romana 9(1): 32 (1958)
 
 #### Original name
-Colletotrichum aecidiicolum Negru
+Colletotrichum aecidiicola Negru
 
 ### Remarks
 null

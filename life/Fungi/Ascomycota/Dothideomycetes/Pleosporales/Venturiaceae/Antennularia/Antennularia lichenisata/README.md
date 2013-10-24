@@ -1,5 +1,4 @@
-Antennularia lichenisata Coppins & Aptroot, 2008 SPECIES
-=======
+# Antennularia lichenisata Coppins & Aptroot, 2008 SPECIES
 
 #### Status
 ACCEPTED

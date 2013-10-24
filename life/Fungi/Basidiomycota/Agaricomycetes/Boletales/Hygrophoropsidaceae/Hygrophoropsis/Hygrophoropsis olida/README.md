@@ -1,17 +1,16 @@
-Cantharellus rosellus Peck, 1889 SPECIES
-=======
+# Hygrophoropsis olida (Quél.) Métrod, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 42: 120 (1889)
+Schweiz. Z. Pilzk. 14(3): 15 (1949)
 
 #### Original name
-Cantharellus rosellus Peck, 1889
+Cantharellus olidus Quél., 1886
 
 ### Remarks
 null

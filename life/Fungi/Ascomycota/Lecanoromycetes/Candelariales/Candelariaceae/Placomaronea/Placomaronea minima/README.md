@@ -1,5 +1,4 @@
-Placomaronea minima M. Westb. & Frödén SPECIES
-=======
+# Placomaronea minima M. Westb. & Frödén SPECIES
 
 #### Status
 ACCEPTED

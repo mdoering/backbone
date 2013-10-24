@@ -1,5 +1,4 @@
-Dicaeoma fuirenicola Arthur SPECIES
-=======
+# Dicaeoma fuirenicola Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia glencairnensis Zahlbr. SPECIES
-=======
+# Buellia glencairnensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

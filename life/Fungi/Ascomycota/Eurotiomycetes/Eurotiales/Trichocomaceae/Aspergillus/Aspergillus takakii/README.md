@@ -1,5 +1,4 @@
-Aspergillus takakii Y. Horie, Abliz & K. Fukush. SPECIES
-=======
+# Aspergillus takakii Y. Horie, Abliz & K. Fukush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Frontonia terricola Foissner, 1987 SPECIES
-=======
+# Frontonia terricola Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

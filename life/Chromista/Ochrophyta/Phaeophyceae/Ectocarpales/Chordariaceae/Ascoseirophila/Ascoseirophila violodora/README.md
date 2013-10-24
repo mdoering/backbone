@@ -1,5 +1,4 @@
-Ascoseirophila violodora A.F. Peters SPECIES
-=======
+# Ascoseirophila violodora A.F. Peters SPECIES
 
 #### Status
 ACCEPTED

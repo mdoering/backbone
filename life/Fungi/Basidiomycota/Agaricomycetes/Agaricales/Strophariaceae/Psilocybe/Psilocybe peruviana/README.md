@@ -1,5 +1,4 @@
-Psilocybe peruviana Singer SPECIES
-=======
+# Psilocybe peruviana Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachybacterium phenoliresistens Chou, Lin, Lin, Sheu, Wei, Arun, Young & Chen, 2007 SPECIES
-=======
+# Brachybacterium phenoliresistens Chou, Lin, Lin, Sheu, Wei, Arun, Young & Chen, 2007 SPECIES
 
 #### Status
 ACCEPTED

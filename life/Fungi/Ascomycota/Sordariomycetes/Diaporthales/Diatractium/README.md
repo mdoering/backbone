@@ -1,17 +1,16 @@
-Stevensiella Trotter GENUS
-=======
+# Diatractium Syd. & P. Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 24(2): 808 (1928)
+Annls mycol. 18(4/6): 183 (1921)
 
 #### Original name
-Stevensiella Trotter
+Diatractium Syd. & P. Syd.
 
 ### Remarks
 null

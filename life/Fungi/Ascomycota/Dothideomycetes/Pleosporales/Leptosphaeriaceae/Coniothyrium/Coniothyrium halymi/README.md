@@ -1,5 +1,4 @@
-Coniothyrium halymi (Castagne) Sacc. SPECIES
-=======
+# Coniothyrium halymi (Castagne) Sacc. SPECIES
 
 #### Status
 ACCEPTED

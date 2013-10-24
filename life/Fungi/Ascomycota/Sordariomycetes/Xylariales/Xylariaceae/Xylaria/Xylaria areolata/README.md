@@ -1,5 +1,4 @@
-Xylaria areolata (Berk. & M.A. Curtis) Y.M. Ju & J.D. Rogers SPECIES
-=======
+# Xylaria areolata (Berk. & M.A. Curtis) Y.M. Ju & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

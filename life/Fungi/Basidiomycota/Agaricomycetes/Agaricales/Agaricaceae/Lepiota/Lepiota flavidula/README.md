@@ -1,5 +1,4 @@
-Lepiota flavidula (Rick) Singer SPECIES
-=======
+# Lepiota flavidula (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

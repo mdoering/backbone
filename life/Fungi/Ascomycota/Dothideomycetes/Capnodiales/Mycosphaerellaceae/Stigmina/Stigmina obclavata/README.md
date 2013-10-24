@@ -1,5 +1,4 @@
-Stigmina obclavata (Cooke) Pound & Clem. SPECIES
-=======
+# Stigmina obclavata (Cooke) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

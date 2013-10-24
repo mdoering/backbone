@@ -1,5 +1,4 @@
-Ramularia graminella (Höhn.) U. Braun SPECIES
-=======
+# Ramularia graminella (Höhn.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

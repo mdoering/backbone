@@ -1,17 +1,16 @@
-Bahusakala nidutermitae R.F. Castañeda, Guarro & Cano SPECIES
-=======
+# Bahusakala niditermitae R.F. Castañeda, Guarro & Cano, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 57: 464 (1996)
 
 #### Original name
-Bahusakala nidutermitae R.F. Castañeda, Guarro & Cano
+Bahusakala niditermitae R.F. Castañeda, Guarro & Cano, 1996
 
 ### Remarks
 null

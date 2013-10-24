@@ -1,5 +1,4 @@
-Dacrymyces poae Lib. SPECIES
-=======
+# Dacrymyces poae Lib. SPECIES
 
 #### Status
 ACCEPTED

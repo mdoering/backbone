@@ -1,5 +1,4 @@
-Uredo disae Van der Byl SPECIES
-=======
+# Uredo disae Van der Byl SPECIES
 
 #### Status
 ACCEPTED

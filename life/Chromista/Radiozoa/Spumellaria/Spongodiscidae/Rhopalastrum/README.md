@@ -1,5 +1,4 @@
-Rhopalastrum Ehrenberg, 1847 GENUS
-=======
+# Rhopalastrum Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

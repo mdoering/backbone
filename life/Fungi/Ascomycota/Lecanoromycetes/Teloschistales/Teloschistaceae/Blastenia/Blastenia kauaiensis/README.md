@@ -1,5 +1,4 @@
-Blastenia kauaiensis H. Magn. SPECIES
-=======
+# Blastenia kauaiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

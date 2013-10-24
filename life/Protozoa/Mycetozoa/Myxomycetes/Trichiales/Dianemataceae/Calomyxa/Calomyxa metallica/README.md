@@ -1,17 +1,16 @@
-Calomyxa metallica subsp. metallica SUBSPECIES
-=======
+# Calomyxa metallica (Berk.) Nieuwl., 1916 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Am. Midl. Nat. 4: 335 (1916)
 
 #### Original name
-null
+Physarum metallicum Berk., 1837
 
 ### Remarks
 null

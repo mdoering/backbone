@@ -1,5 +1,4 @@
-Botryodiplodia bouwardiae (Pass.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia bouwardiae (Pass.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

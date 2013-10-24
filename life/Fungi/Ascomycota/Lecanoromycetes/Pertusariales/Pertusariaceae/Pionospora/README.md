@@ -1,5 +1,4 @@
-Pionospora GENUS
-=======
+# Pionospora GENUS
 
 #### Status
 ACCEPTED

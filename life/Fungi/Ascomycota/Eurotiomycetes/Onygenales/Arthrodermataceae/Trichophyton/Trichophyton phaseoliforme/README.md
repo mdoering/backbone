@@ -1,5 +1,4 @@
-Trichophyton phaseoliforme Borelli & Feo, 1967 SPECIES
-=======
+# Trichophyton phaseoliforme Borelli & Feo, 1967 SPECIES
 
 #### Status
 ACCEPTED

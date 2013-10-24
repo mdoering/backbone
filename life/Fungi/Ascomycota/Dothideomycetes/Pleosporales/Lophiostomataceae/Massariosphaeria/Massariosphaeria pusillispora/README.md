@@ -1,5 +1,4 @@
-Massariosphaeria pusillispora Scheuer SPECIES
-=======
+# Massariosphaeria pusillispora Scheuer SPECIES
 
 #### Status
 ACCEPTED

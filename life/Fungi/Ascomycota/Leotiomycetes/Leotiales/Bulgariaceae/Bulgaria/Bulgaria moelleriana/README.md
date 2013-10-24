@@ -1,5 +1,4 @@
-Bulgaria moelleriana Henn. SPECIES
-=======
+# Bulgaria moelleriana Henn. SPECIES
 
 #### Status
 ACCEPTED

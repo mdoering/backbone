@@ -1,14 +1,13 @@
-Leptosphaeria jaceae L. Holm, 1952 SPECIES
-=======
+# Nodulosphaeria jaceae (L. Holm) L. Holm, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 46: 35 (1952)
+Symb. bot. upsal. 14(no. 3): 86 (1957)
 
 #### Original name
 Leptosphaeria jaceae L. Holm, 1952

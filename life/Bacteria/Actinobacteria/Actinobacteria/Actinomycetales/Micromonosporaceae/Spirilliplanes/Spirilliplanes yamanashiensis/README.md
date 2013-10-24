@@ -1,5 +1,4 @@
-Spirilliplanes yamanashiensis Tamura et al., 1997 SPECIES
-=======
+# Spirilliplanes yamanashiensis Tamura et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hariotia polyspora (Bref. & Tav.) Höhn. SPECIES
-=======
+# Hariotia polyspora (Bref. & Tav.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

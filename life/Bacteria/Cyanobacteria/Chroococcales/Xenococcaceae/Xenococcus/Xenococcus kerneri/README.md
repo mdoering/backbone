@@ -1,5 +1,4 @@
-Xenococcus kerneri SPECIES
-=======
+# Xenococcus kerneri SPECIES
 
 #### Status
 ACCEPTED

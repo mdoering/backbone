@@ -1,5 +1,4 @@
-Dictyographa GENUS
-=======
+# Dictyographa GENUS
 
 #### Status
 ACCEPTED

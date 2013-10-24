@@ -1,5 +1,4 @@
-Otthia dendrostellerae Kravtzev SPECIES
-=======
+# Otthia dendrostellerae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

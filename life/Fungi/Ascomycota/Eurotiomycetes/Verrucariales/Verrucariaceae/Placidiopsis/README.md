@@ -1,17 +1,16 @@
-Bohleria Trevis. GENUS
-=======
+# Placidiopsis Beltr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. Verruc. 20 (1860)
+Lich. Bassan. 212 (1858)
 
 #### Original name
-Bohleria Trevis.
+Placidiopsis Beltr.
 
 ### Remarks
 null

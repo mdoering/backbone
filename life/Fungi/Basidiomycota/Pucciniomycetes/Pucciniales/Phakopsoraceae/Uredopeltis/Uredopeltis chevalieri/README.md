@@ -1,17 +1,16 @@
-Uredopeltis grewiae (Pat. & Har.) Sathe, 1971 SPECIES
-=======
+# Uredopeltis chevalieri J. Walker & R.G. Shivas, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. bot. Surv. India 11(1-2): 176 (1971)
+Australas. Pl. Path. 33(1): 43 (2004)
 
 #### Original name
-Uredo grewiae Pat. & Har., 1900
+Uredopeltis chevalieri J. Walker & R.G. Shivas, 2004
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pestalotia nervalis Ellis & Everh. SPECIES
-=======
+# Pestalotia nervalis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

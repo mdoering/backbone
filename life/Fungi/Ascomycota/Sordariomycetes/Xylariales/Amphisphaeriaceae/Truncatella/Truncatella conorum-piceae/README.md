@@ -1,5 +1,4 @@
-Truncatella conorum-piceae (Tubeuf) Steyaert, 1949 SPECIES
-=======
+# Truncatella conorum-piceae (Tubeuf) Steyaert, 1949 SPECIES
 
 #### Status
 ACCEPTED

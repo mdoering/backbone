@@ -1,5 +1,4 @@
-Dysteria calkinsi Kahl, 1931 SPECIES
-=======
+# Dysteria calkinsi Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

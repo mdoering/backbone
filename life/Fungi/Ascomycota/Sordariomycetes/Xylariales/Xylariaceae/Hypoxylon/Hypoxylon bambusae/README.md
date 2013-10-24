@@ -1,5 +1,4 @@
-Hypoxylon bambusae R.C. Gupta & R.C. Rajak SPECIES
-=======
+# Hypoxylon bambusae R.C. Gupta & R.C. Rajak SPECIES
 
 #### Status
 ACCEPTED

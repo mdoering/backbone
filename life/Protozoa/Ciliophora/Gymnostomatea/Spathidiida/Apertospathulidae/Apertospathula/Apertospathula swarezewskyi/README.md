@@ -1,5 +1,4 @@
-Apertospathula swarezewskyi Tucolesco, 1962 SPECIES
-=======
+# Apertospathula swarezewskyi Tucolesco, 1962 SPECIES
 
 #### Status
 ACCEPTED

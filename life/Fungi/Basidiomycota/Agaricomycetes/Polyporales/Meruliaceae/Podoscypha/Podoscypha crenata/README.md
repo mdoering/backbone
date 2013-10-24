@@ -1,5 +1,4 @@
-Podoscypha crenata (Lév.) Pat. SPECIES
-=======
+# Podoscypha crenata (Lév.) Pat. SPECIES
 
 #### Status
 ACCEPTED

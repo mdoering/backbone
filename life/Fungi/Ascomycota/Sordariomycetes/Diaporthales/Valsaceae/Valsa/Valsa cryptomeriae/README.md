@@ -1,5 +1,4 @@
-Valsa cryptomeriae Kitaj. SPECIES
-=======
+# Valsa cryptomeriae Kitaj. SPECIES
 
 #### Status
 ACCEPTED

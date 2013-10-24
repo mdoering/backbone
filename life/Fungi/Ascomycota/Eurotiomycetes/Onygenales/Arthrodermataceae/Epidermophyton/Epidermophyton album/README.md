@@ -1,5 +1,4 @@
-Epidermophyton album Kesteven SPECIES
-=======
+# Epidermophyton album Kesteven SPECIES
 
 #### Status
 ACCEPTED

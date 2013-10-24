@@ -1,5 +1,4 @@
-Characiopsis acuta (A. Braun) Borzi SPECIES
-=======
+# Characiopsis acuta (A. Braun) Borzi SPECIES
 
 #### Status
 ACCEPTED

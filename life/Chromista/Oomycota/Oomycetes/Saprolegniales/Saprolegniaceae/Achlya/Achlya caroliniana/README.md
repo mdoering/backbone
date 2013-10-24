@@ -1,5 +1,4 @@
-Achlya caroliniana Coker, 1910 SPECIES
-=======
+# Achlya caroliniana Coker, 1910 SPECIES
 
 #### Status
 ACCEPTED

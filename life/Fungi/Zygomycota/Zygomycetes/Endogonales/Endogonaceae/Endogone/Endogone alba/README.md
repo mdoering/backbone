@@ -1,5 +1,4 @@
-Endogone alba (Petch) Gerd. & Trappe SPECIES
-=======
+# Endogone alba (Petch) Gerd. & Trappe SPECIES
 
 #### Status
 ACCEPTED

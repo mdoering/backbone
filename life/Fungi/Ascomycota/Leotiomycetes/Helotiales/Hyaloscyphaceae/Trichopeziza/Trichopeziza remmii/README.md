@@ -1,5 +1,4 @@
-Trichopeziza remmii (Raitv.) Raitv. SPECIES
-=======
+# Trichopeziza remmii (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

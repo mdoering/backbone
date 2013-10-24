@@ -1,5 +1,4 @@
-Passalora bixae Crous & Bench. SPECIES
-=======
+# Passalora bixae Crous & Bench. SPECIES
 
 #### Status
 ACCEPTED

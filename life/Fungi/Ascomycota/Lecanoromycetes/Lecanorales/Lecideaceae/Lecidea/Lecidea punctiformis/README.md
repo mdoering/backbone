@@ -1,5 +1,4 @@
-Lecidea punctiformis (Hoffm.) SPECIES
-=======
+# Lecidea punctiformis (Hoffm.) SPECIES
 
 #### Status
 ACCEPTED

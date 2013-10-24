@@ -1,5 +1,4 @@
-Rhodomonas chrysoidea (R. W. Butcher) D. R. A. Hill & R. Wetherbee SPECIES
-=======
+# Rhodomonas chrysoidea (R. W. Butcher) D. R. A. Hill & R. Wetherbee SPECIES
 
 #### Status
 ACCEPTED

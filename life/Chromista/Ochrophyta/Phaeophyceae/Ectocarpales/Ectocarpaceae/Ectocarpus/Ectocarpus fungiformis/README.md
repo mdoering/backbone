@@ -1,5 +1,4 @@
-Ectocarpus fungiformis Oltmanns SPECIES
-=======
+# Ectocarpus fungiformis Oltmanns SPECIES
 
 #### Status
 ACCEPTED

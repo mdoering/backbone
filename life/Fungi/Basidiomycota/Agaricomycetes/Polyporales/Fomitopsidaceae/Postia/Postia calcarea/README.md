@@ -1,5 +1,4 @@
-Postia calcarea Y.L. Wei & Y.C. Dai SPECIES
-=======
+# Postia calcarea Y.L. Wei & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

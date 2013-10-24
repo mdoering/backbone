@@ -1,5 +1,4 @@
-Ramaria decolor (Berk. & M.A. Curtis) R.H. Petersen SPECIES
-=======
+# Ramaria decolor (Berk. & M.A. Curtis) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

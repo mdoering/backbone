@@ -1,5 +1,4 @@
-Cristella christiansenii SPECIES
-=======
+# Cristella christiansenii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycochaetophora Hara & Ogawa GENUS
-=======
+# Mycochaetophora Hara & Ogawa GENUS
 
 #### Status
 ACCEPTED

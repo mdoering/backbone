@@ -1,5 +1,4 @@
-Peziza schulzeri Quél. SPECIES
-=======
+# Peziza schulzeri Quél. SPECIES
 
 #### Status
 ACCEPTED

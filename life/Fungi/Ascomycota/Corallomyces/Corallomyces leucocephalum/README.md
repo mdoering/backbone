@@ -1,14 +1,13 @@
-Corallodendron leucocephalum Jungh., 1838 SPECIES
-=======
+# Corallomyces leucocephalum (Jungh.) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Praem. Fl. Bot. 1: 7 (1838)
+Summa veg. Scand. (Stockholm), Section Post. (1849)
 
 #### Original name
 Corallodendron leucocephalum Jungh., 1838

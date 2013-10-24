@@ -1,14 +1,13 @@
-Erysiphe evodiae (R.Y. Zheng & G.Q. Chen) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe euodiae (R.Y. Zheng & G.Q. Chen) U. Braun & S. Takam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Schlechtendalia 4: 19 (2000)
 
 #### Original name
 Uncinula euodiae R.Y. Zheng & G.Q. Chen

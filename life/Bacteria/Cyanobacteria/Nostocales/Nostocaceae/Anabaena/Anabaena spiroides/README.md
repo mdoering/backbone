@@ -1,11 +1,10 @@
-Anabaena spiroides f. hassallii (Kützing) Pankow FORM
-=======
+# Anabaena spiroides Klebahn SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,14 +1,13 @@
-Peltidea polaris (Ach.) Ach. SPECIES
-=======
+# Nephroma polaris (Ach.) Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lich. univ. (1810)
 
 #### Original name
 Lichen polaris Ach.

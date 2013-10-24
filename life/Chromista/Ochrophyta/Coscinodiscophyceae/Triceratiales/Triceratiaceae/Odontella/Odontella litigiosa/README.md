@@ -1,5 +1,4 @@
-Odontella litigiosa (Van Heurck) Hoban SPECIES
-=======
+# Odontella litigiosa (Van Heurck) Hoban SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora airekari Syd. SPECIES
-=======
+# Cercospora airekari Syd. SPECIES
 
 #### Status
 ACCEPTED

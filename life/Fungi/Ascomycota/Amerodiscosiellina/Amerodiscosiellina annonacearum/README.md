@@ -1,5 +1,4 @@
-Amerodiscosiellina annonacearum Bat. & Cavalc., 1966 SPECIES
-=======
+# Amerodiscosiellina annonacearum Bat. & Cavalc., 1966 SPECIES
 
 #### Status
 ACCEPTED

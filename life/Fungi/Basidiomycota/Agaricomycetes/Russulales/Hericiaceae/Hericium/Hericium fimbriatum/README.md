@@ -1,5 +1,4 @@
-Hericium fimbriatum Banker SPECIES
-=======
+# Hericium fimbriatum Banker SPECIES
 
 #### Status
 ACCEPTED

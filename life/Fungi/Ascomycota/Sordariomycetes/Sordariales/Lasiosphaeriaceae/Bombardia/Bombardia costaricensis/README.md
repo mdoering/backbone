@@ -1,5 +1,4 @@
-Bombardia costaricensis G.C. Carroll & Munk SPECIES
-=======
+# Bombardia costaricensis G.C. Carroll & Munk SPECIES
 
 #### Status
 ACCEPTED

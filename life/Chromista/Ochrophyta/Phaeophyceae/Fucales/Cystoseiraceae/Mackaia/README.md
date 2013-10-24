@@ -1,8 +1,7 @@
-Makaia S.F. Gray, 1821 GENUS
-=======
+# Mackaia S.F. Gray, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

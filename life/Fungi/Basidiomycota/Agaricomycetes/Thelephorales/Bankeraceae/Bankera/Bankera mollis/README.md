@@ -1,5 +1,4 @@
-Bankera mollis (P. Karst.) Maas Geest. SPECIES
-=======
+# Bankera mollis (P. Karst.) Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sarcodon talpa Maas Geest., 1967 SPECIES
-=======
+# Sarcodon fuligineoviolaceus (Kalchbr.) Pat., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 5(1): 9 (1967)
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 118 (1900)
 
 #### Original name
-Sarcodon talpa Maas Geest., 1967
+Hydnum fuligineoviolaceum Kalchbr., 1874
 
 ### Remarks
 null

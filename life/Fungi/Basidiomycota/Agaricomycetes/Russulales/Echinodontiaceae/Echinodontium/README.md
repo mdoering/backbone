@@ -1,17 +1,16 @@
-Hydnophysa Clem. GENUS
-=======
+# Echinodontium Ellis & Everh. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis) 108 (1909)
+Bull. Torrey bot. Club 27: 49 (1900)
 
 #### Original name
-Hydnophysa Clem.
+Echinodontium Ellis & Everh.
 
 ### Remarks
 null

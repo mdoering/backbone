@@ -1,5 +1,4 @@
-Chalubinskia Woloszynska, 1916 GENUS
-=======
+# Chalubinskia Woloszynska, 1916 GENUS
 
 #### Status
 SYNONYM

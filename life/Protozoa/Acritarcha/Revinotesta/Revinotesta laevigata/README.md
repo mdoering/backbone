@@ -1,5 +1,4 @@
-Revinotesta laevigata Vanguestaine in Baudelot & Géry, 1979 SPECIES
-=======
+# Revinotesta laevigata Vanguestaine in Baudelot & Géry, 1979 SPECIES
 
 #### Status
 ACCEPTED

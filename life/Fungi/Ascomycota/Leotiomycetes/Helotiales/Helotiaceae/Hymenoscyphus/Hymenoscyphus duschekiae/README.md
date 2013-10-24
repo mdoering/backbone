@@ -1,5 +1,4 @@
-Hymenoscyphus duschekiae Svrcek SPECIES
-=======
+# Hymenoscyphus duschekiae Svrcek SPECIES
 
 #### Status
 ACCEPTED

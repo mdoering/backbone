@@ -1,5 +1,4 @@
-Leptosphaeria flotoviae Speg. SPECIES
-=======
+# Leptosphaeria flotoviae Speg. SPECIES
 
 #### Status
 ACCEPTED

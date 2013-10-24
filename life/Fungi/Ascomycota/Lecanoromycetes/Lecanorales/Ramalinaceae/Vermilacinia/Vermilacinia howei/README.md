@@ -1,5 +1,4 @@
-Vermilacinia howei Spjut SPECIES
-=======
+# Vermilacinia howei Spjut SPECIES
 
 #### Status
 ACCEPTED

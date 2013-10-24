@@ -1,5 +1,4 @@
-Aspergillus dessyi Speg. SPECIES
-=======
+# Aspergillus dessyi Speg. SPECIES
 
 #### Status
 ACCEPTED

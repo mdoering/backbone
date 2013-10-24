@@ -1,5 +1,4 @@
-Asteridiella rhaphiolepidis (W. Yamam.) Hansf. SPECIES
-=======
+# Asteridiella rhaphiolepidis (W. Yamam.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

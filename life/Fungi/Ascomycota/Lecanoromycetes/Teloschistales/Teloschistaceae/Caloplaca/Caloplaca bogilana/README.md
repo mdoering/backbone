@@ -1,5 +1,4 @@
-Caloplaca bogilana Y. Joshi & Hur SPECIES
-=======
+# Caloplaca bogilana Y. Joshi & Hur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia amphilophidis Doidge SPECIES
-=======
+# Puccinia amphilophidis Doidge SPECIES
 
 #### Status
 ACCEPTED

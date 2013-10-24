@@ -1,11 +1,10 @@
-Pediococcus hennebergii Sollied, 1903 SPECIES
-=======
+# Pediococcus pentosaceus Mees, 1934 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Microsporea Delphy, 1963 CLASS
-=======
+# Microsporea Delphy, 1963 CLASS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis sabiae Gutner SPECIES
-=======
+# Phomopsis sabiae Gutner SPECIES
 
 #### Status
 ACCEPTED

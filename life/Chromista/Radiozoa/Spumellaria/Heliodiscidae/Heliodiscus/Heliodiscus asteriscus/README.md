@@ -1,5 +1,4 @@
-Heliodiscus asteriscus Haeckel, 1887 SPECIES
-=======
+# Heliodiscus asteriscus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

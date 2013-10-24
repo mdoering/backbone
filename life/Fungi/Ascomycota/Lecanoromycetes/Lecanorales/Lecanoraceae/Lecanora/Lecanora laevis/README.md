@@ -1,5 +1,4 @@
-Lecanora laevis Poelt SPECIES
-=======
+# Lecanora laevis Poelt SPECIES
 
 #### Status
 ACCEPTED

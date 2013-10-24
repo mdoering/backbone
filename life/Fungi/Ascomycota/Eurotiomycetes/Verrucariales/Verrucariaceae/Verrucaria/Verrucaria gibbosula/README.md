@@ -1,5 +1,4 @@
-Verrucaria gibbosula Nyl. SPECIES
-=======
+# Verrucaria gibbosula Nyl. SPECIES
 
 #### Status
 ACCEPTED

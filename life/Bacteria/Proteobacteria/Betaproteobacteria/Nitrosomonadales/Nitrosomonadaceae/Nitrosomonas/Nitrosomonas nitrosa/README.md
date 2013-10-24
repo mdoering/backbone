@@ -1,5 +1,4 @@
-Nitrosomonas nitrosa Koops et al., 2001 SPECIES
-=======
+# Nitrosomonas nitrosa Koops et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

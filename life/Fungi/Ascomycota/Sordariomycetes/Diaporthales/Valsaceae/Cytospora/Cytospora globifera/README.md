@@ -1,14 +1,13 @@
-Cytispora globifera (Fr.) Fr. SPECIES
-=======
+# Cytospora globifera (Fr.) Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 546 (1823)
 
 #### Original name
 Bostrychia globifera Kunze

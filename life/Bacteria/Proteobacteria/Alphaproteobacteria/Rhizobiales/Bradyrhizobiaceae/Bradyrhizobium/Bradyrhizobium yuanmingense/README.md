@@ -1,5 +1,4 @@
-Bradyrhizobium yuanmingense Yao et al., 2002 SPECIES
-=======
+# Bradyrhizobium yuanmingense Yao et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

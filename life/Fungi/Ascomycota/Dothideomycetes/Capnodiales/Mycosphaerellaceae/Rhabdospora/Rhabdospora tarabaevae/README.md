@@ -1,5 +1,4 @@
-Rhabdospora tarabaevae Kravtzev SPECIES
-=======
+# Rhabdospora tarabaevae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

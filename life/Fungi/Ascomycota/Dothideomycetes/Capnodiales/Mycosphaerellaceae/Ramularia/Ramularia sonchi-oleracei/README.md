@@ -1,5 +1,4 @@
-Ramularia sonchi-oleracei Fautrey SPECIES
-=======
+# Ramularia sonchi-oleracei Fautrey SPECIES
 
 #### Status
 ACCEPTED

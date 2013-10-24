@@ -1,5 +1,4 @@
-Verrucula aegyptiaca (Müll. Arg.) J. Steiner SPECIES
-=======
+# Verrucula aegyptiaca (Müll. Arg.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

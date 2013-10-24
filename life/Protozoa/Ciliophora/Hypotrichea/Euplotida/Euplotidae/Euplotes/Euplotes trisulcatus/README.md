@@ -1,5 +1,4 @@
-Euplotes trisulcatus Kahl, 1932 SPECIES
-=======
+# Euplotes trisulcatus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

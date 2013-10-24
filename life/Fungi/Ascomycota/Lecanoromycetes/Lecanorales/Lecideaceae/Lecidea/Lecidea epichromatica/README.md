@@ -1,5 +1,4 @@
-Lecidea epichromatica Zahlbr. SPECIES
-=======
+# Lecidea epichromatica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

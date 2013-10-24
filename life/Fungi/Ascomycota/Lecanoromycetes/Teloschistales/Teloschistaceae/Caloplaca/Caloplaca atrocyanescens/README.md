@@ -1,5 +1,4 @@
-Caloplaca atrocyanescens (Th. Fr.) H. Olivier SPECIES
-=======
+# Caloplaca atrocyanescens (Th. Fr.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

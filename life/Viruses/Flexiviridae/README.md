@@ -1,5 +1,4 @@
-Flexiviridae FAMILY
-=======
+# Flexiviridae FAMILY
 
 #### Status
 ACCEPTED

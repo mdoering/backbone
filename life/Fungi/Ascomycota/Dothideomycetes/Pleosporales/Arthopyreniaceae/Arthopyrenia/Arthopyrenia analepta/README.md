@@ -1,5 +1,4 @@
-Arthopyrenia analepta var. analepta VARIETY
-=======
+# Arthopyrenia analepta (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ric. auton. lich. crost. (Verona) 165 (1852)
 
 #### Original name
-Arthopyrenia analepta var. analepta
+Lichen analeptus Sm.
 
 ### Remarks
 null

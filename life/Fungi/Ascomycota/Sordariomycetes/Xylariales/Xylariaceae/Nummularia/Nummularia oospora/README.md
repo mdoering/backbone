@@ -1,5 +1,4 @@
-Nummularia oospora Vouaux SPECIES
-=======
+# Nummularia oospora Vouaux SPECIES
 
 #### Status
 ACCEPTED

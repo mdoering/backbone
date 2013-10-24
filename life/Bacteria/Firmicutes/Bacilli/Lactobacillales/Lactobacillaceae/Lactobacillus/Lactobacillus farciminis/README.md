@@ -1,5 +1,4 @@
-Lactobacillus farciminis (ex Reuter, 1970) Reuter, 1983 SPECIES
-=======
+# Lactobacillus farciminis (ex Reuter, 1970) Reuter, 1983 SPECIES
 
 #### Status
 ACCEPTED

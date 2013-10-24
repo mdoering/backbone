@@ -1,5 +1,4 @@
-Morchella viridis Leuba SPECIES
-=======
+# Morchella viridis Leuba SPECIES
 
 #### Status
 ACCEPTED

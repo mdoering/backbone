@@ -1,5 +1,4 @@
-Sheshukovia sundbyensis (Hustedt ex R. Simonsen) J. Fenner SPECIES
-=======
+# Sheshukovia sundbyensis (Hustedt ex R. Simonsen) J. Fenner SPECIES
 
 #### Status
 ACCEPTED

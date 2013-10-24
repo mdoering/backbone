@@ -1,5 +1,4 @@
-Myxophacidium rehmii (Feltgen) Petr. SPECIES
-=======
+# Myxophacidium rehmii (Feltgen) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Melanotaenium majus var. majus (Har. & Pat.) Cif. VARIETY
-=======
+# Jamesdicksonia major (Har. & Pat.) M. Piepenbr., 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Neotrop. , Monogr. 86: 221 (2003)
 
 #### Original name
-Melanotaenium majus var. majus (Har. & Pat.) Cif.
+Entyloma majus Har. & Pat., 1909
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meliola kigeliae Hansf. SPECIES
-=======
+# Meliola kigeliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

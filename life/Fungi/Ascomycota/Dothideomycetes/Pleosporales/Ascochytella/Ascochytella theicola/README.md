@@ -1,5 +1,4 @@
-Ascochytella theicola Curzi SPECIES
-=======
+# Ascochytella theicola Curzi SPECIES
 
 #### Status
 ACCEPTED

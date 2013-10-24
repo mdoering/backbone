@@ -1,14 +1,13 @@
-Nummularia urceolata Rehm, 1913 SPECIES
-=======
+# Annulohypoxylon urceolatum (Rehm) Y.M. Ju, J.D. Rogers & H.M. Hsieh, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Philipp. J. Sci. , C, Bot. 8: 187 (1913)
+Mycologia 97(4): 861 (2005)
 
 #### Original name
 Nummularia urceolata Rehm, 1913

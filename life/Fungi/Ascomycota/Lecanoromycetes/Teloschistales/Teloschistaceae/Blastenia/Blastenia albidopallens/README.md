@@ -1,5 +1,4 @@
-Blastenia albidopallens (Nyl.) Zahlbr. SPECIES
-=======
+# Blastenia albidopallens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia ceracea var. ceracea VARIETY
-=======
+# Aspicilia ceracea Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia ceracea var. ceracea
+Aspicilia ceracea Arnold
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Septoria capensis G. Winter SPECIES
-=======
+# Septoria capensis G. Winter SPECIES
 
 #### Status
 ACCEPTED

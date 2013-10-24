@@ -1,14 +1,13 @@
-Veronaea verrucosa Geeson, 1975 SPECIES
-=======
+# Ramichloridium verrucosum (Geeson) B. Sutton, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 64(2): 349 (1975)
+Mycologia 70(4): 798 (1978)
 
 #### Original name
 Veronaea verrucosa Geeson, 1975

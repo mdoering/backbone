@@ -1,5 +1,4 @@
-Emericella cleistominuta B.S. Mehrotra & R. Prasad, 1969 SPECIES
-=======
+# Emericella cleistominuta B.S. Mehrotra & R. Prasad, 1969 SPECIES
 
 #### Status
 ACCEPTED

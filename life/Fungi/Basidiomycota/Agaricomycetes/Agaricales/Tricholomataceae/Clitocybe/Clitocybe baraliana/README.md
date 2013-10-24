@@ -1,5 +1,4 @@
-Clitocybe baraliana Raithelh. SPECIES
-=======
+# Clitocybe baraliana Raithelh. SPECIES
 
 #### Status
 ACCEPTED

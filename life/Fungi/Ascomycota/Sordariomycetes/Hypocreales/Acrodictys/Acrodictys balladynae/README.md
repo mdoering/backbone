@@ -1,5 +1,4 @@
-Acrodictys balladynae (Hansf.) M.B. Ellis SPECIES
-=======
+# Acrodictys balladynae (Hansf.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

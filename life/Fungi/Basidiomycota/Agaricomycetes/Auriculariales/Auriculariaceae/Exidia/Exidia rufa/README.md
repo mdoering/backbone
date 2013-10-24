@@ -1,5 +1,4 @@
-Exidia rufa Berk. SPECIES
-=======
+# Exidia rufa Berk. SPECIES
 
 #### Status
 ACCEPTED

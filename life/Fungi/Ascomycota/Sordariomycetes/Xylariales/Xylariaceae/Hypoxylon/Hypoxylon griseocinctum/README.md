@@ -1,5 +1,4 @@
-Hypoxylon griseocinctum (Starbäck) P.M.D. Martin SPECIES
-=======
+# Hypoxylon griseocinctum (Starbäck) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

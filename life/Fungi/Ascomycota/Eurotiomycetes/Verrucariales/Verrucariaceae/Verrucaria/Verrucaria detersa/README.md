@@ -1,5 +1,4 @@
-Verrucaria detersa (Kremp.) Stizenb. SPECIES
-=======
+# Verrucaria detersa (Kremp.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

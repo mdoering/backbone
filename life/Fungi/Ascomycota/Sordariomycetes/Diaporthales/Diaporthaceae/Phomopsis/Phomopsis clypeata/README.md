@@ -1,5 +1,4 @@
-Phomopsis clypeata (Briard & Har.) Nannf. SPECIES
-=======
+# Phomopsis clypeata (Briard & Har.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

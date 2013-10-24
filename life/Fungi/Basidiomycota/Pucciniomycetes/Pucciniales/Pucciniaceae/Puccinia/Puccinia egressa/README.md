@@ -1,5 +1,4 @@
-Puccinia egressa Arthur SPECIES
-=======
+# Puccinia egressa Arthur SPECIES
 
 #### Status
 ACCEPTED

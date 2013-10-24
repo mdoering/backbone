@@ -1,14 +1,13 @@
-Diheterospora tragenophora (Drechsler) G.L. Barron SPECIES
-=======
+# Rotiferophthora tagenophora (Drechsler) G.L. Barron, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 69(3): 495 (1991)
 
 #### Original name
 Acrostalagmus tagenophorus Drechsler, 1942

@@ -1,5 +1,4 @@
-Amanita subviscosa Beeli SPECIES
-=======
+# Amanita subviscosa Beeli SPECIES
 
 #### Status
 ACCEPTED

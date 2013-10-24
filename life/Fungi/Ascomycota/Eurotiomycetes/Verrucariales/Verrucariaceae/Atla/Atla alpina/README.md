@@ -1,5 +1,4 @@
-Atla alpina Savic & Tibell SPECIES
-=======
+# Atla alpina Savic & Tibell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsporum pseudoumbonatum Sartory, R. Sartory, J. Mey. & Malgras SPECIES
-=======
+# Microsporum pseudoumbonatum Sartory, R. Sartory, J. Mey. & Malgras SPECIES
 
 #### Status
 ACCEPTED

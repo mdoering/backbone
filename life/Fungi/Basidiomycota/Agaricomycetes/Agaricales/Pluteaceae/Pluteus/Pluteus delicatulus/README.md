@@ -1,5 +1,4 @@
-Pluteus delicatulus C.K. Pradeep & K.B. Vrinda SPECIES
-=======
+# Pluteus delicatulus C.K. Pradeep & K.B. Vrinda SPECIES
 
 #### Status
 ACCEPTED

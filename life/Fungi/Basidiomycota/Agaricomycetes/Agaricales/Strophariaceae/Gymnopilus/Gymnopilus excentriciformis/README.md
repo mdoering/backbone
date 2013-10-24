@@ -1,5 +1,4 @@
-Gymnopilus excentriciformis Singer SPECIES
-=======
+# Gymnopilus excentriciformis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linospora johansonii Rehm SPECIES
-=======
+# Linospora johansonii Rehm SPECIES
 
 #### Status
 ACCEPTED

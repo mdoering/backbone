@@ -1,14 +1,13 @@
-Psoroma cinchonarum (Fée) Müll. Arg. SPECIES
-=======
+# Triclinum cinchonarum Fée SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Essai Crypt. Exot. (Paris) 1: (1825)
 
 #### Original name
 Triclinum cinchonarum Fée

@@ -1,5 +1,4 @@
-Diporicellaesporites aequalibus Kalgutkar SPECIES
-=======
+# Diporicellaesporites aequalibus Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

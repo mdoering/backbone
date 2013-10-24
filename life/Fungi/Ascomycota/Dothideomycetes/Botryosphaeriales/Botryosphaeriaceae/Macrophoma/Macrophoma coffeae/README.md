@@ -1,5 +1,4 @@
-Macrophoma coffeae var. coffeae VARIETY
-=======
+# Macrophoma coffeae (Delacr.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Macrophoma coffeae var. coffeae
+Phoma coffeae Delacr.
 
 ### Remarks
 null

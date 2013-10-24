@@ -1,5 +1,4 @@
-Typhula phaeosperma Henn. SPECIES
-=======
+# Typhula phaeosperma Henn. SPECIES
 
 #### Status
 ACCEPTED

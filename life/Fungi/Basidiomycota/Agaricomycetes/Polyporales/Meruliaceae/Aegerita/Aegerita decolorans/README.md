@@ -1,5 +1,4 @@
-Aegerita decolorans (Schwein.) Sacc. SPECIES
-=======
+# Aegerita decolorans (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

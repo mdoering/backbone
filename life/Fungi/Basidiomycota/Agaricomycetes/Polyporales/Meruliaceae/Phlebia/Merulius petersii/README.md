@@ -1,5 +1,4 @@
-Merulius petersii (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Merulius petersii (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

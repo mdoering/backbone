@@ -1,5 +1,4 @@
-Passalora latispora (Petr.) U. Braun & Crous SPECIES
-=======
+# Passalora latispora (Petr.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zignoëlla sociabilis Schulzer & Sacc. SPECIES
-=======
+# Zignoëlla sociabilis Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

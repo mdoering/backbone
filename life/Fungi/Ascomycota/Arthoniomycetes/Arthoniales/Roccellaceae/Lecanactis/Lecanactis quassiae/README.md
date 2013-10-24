@@ -1,5 +1,4 @@
-Lecanactis quassiae (Fée) Zahlbr. SPECIES
-=======
+# Lecanactis quassiae (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

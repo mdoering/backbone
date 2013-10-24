@@ -1,5 +1,4 @@
-Sphaerocystidae FAMILY
-=======
+# Sphaerocystidae FAMILY
 
 #### Status
 ACCEPTED

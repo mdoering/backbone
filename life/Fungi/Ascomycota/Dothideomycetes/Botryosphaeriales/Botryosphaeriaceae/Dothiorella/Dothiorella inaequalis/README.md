@@ -1,5 +1,4 @@
-Dothiorella inaequalis Cooke SPECIES
-=======
+# Dothiorella inaequalis Cooke SPECIES
 
 #### Status
 ACCEPTED

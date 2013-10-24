@@ -1,5 +1,4 @@
-Gyromitra sphaerospora (Peck) Sacc. SPECIES
-=======
+# Gyromitra sphaerospora (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

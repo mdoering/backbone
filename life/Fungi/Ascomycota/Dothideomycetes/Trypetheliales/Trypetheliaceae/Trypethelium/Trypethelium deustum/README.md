@@ -1,5 +1,4 @@
-Trypethelium deustum G. Mey. SPECIES
-=======
+# Trypethelium deustum G. Mey. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium caminithermale Brisbarre et al., 2003 SPECIES
-=======
+# Clostridium caminithermale Brisbarre et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

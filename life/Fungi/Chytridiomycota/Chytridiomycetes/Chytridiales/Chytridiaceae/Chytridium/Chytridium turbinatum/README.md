@@ -1,5 +1,4 @@
-Chytridium turbinatum Kobayasi & M. Ôkubo SPECIES
-=======
+# Chytridium turbinatum Kobayasi & M. Ôkubo SPECIES
 
 #### Status
 ACCEPTED

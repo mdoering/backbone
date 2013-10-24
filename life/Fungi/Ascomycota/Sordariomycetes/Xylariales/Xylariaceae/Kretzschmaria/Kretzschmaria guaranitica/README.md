@@ -1,5 +1,4 @@
-Kretzschmaria guaranitica Speg. SPECIES
-=======
+# Kretzschmaria guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

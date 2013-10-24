@@ -1,5 +1,4 @@
-Phallus caliendricus Dring SPECIES
-=======
+# Phallus caliendricus Dring SPECIES
 
 #### Status
 ACCEPTED

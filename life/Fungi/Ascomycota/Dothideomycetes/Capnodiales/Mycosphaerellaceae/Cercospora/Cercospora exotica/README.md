@@ -1,5 +1,4 @@
-Cercospora exotica Ellis & Everh. SPECIES
-=======
+# Cercospora exotica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

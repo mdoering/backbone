@@ -1,5 +1,4 @@
-Glyphanodinium Drugg, 1964 GENUS
-=======
+# Glyphanodinium Drugg, 1964 GENUS
 
 #### Status
 ACCEPTED

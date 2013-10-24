@@ -1,5 +1,4 @@
-Sclerococcum griseisporodochium Etayo, 1995 SPECIES
-=======
+# Sclerococcum griseisporodochium Etayo, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Preussia grandispora (Speg.) Barrasa & Arenal SPECIES
-=======
+# Preussia grandispora (Speg.) Barrasa & Arenal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma plagiotum (Kalchbr.) McAlpine SPECIES
-=======
+# Tricholoma plagiotum (Kalchbr.) McAlpine SPECIES
 
 #### Status
 ACCEPTED

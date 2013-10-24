@@ -1,5 +1,4 @@
-Puccinia baccharidis-multiflorae Dietel & Holw. SPECIES
-=======
+# Puccinia baccharidis-multiflorae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Claviceps sulcata Langdon SPECIES
-=======
+# Claviceps sulcata Langdon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Globorotalia parkerae Bronnimann & Resig, 1971 SPECIES
-=======
+# Tenuitella parkerae (Bronnimann & Resig, 1971) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Swampomyces Kohlm. & Volkm.-Kohlm. GENUS
-=======
+# Swampomyces Kohlm. & Volkm.-Kohlm. GENUS
 
 #### Status
 ACCEPTED

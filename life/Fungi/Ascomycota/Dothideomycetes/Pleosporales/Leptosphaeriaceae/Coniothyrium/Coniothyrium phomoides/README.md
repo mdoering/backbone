@@ -1,5 +1,4 @@
-Coniothyrium phomoides Kirschst. SPECIES
-=======
+# Coniothyrium phomoides Kirschst. SPECIES
 
 #### Status
 ACCEPTED

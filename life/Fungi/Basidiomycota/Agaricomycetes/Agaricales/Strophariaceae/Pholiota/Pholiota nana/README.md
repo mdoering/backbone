@@ -1,5 +1,4 @@
-Pholiota nana E. Horak SPECIES
-=======
+# Pholiota nana E. Horak SPECIES
 
 #### Status
 ACCEPTED

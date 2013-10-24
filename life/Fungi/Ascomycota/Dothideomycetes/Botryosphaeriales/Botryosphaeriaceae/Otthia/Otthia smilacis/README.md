@@ -1,5 +1,4 @@
-Otthia smilacis (Racib.) Höhn. SPECIES
-=======
+# Otthia smilacis (Racib.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

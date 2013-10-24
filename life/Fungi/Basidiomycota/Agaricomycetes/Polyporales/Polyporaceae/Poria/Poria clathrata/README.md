@@ -1,5 +1,4 @@
-Poria clathrata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Poria clathrata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

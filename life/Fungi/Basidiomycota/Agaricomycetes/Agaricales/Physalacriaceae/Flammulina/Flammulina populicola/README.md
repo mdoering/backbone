@@ -1,5 +1,4 @@
-Flammulina populicola Redhead & R.H. Petersen SPECIES
-=======
+# Flammulina populicola Redhead & R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

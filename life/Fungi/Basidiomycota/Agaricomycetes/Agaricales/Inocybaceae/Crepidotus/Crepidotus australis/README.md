@@ -1,5 +1,4 @@
-Crepidotus australis Singer SPECIES
-=======
+# Crepidotus australis Singer SPECIES
 
 #### Status
 ACCEPTED

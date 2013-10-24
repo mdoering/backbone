@@ -1,5 +1,4 @@
-Septoria origanicola var. origanicola VARIETY
-=======
+# Septoria origanicola Allesch. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ber. bayer. bot. Ges. 4: 35 (1896)
 
 #### Original name
-Septoria origanicola var. origanicola
+Septoria origanicola Allesch.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Septoria cylindrospora Davis SPECIES
-=======
+# Septoria cylindrospora Davis SPECIES
 
 #### Status
 ACCEPTED

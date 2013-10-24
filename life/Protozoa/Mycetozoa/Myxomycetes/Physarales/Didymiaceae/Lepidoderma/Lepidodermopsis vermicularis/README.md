@@ -1,5 +1,4 @@
-Lepidodermopsis vermicularis Meyl. SPECIES
-=======
+# Lepidodermopsis vermicularis Meyl. SPECIES
 
 #### Status
 ACCEPTED

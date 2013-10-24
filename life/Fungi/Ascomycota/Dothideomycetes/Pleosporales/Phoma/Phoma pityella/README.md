@@ -1,5 +1,4 @@
-Phoma pityella Sacc. SPECIES
-=======
+# Phoma pityella Sacc. SPECIES
 
 #### Status
 ACCEPTED

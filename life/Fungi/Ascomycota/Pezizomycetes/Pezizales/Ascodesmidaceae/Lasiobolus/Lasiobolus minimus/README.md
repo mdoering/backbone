@@ -1,5 +1,4 @@
-Lasiobolus minimus Velen. SPECIES
-=======
+# Lasiobolus minimus Velen. SPECIES
 
 #### Status
 ACCEPTED

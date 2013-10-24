@@ -1,5 +1,4 @@
-Tarzetta jafneospora W.Y. Zhuang & Korf, 1987 SPECIES
-=======
+# Tarzetta jafneospora W.Y. Zhuang & Korf, 1987 SPECIES
 
 #### Status
 ACCEPTED

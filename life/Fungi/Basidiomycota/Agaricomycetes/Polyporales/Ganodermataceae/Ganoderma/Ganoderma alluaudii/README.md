@@ -1,8 +1,7 @@
-Ganoderma alluaudi Pat. & Har. SPECIES
-=======
+# Ganoderma alluaudii G. Winter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ganoderma alluaudi Pat. & Har.
+Ganoderma alluaudii G. Winter
 
 ### Remarks
 null

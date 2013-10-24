@@ -1,5 +1,4 @@
-Psilosphaeria melanostigma (Cooke & Ellis) Cooke SPECIES
-=======
+# Psilosphaeria melanostigma (Cooke & Ellis) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Idriella euterpes K.F. Rodrigues & Samuels SPECIES
-=======
+# Idriella euterpes K.F. Rodrigues & Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria bataticola Ikata ex W. Yamam., 1960 SPECIES
-=======
+# Alternaria bataticola Ikata ex W. Yamam., 1960 SPECIES
 
 #### Status
 ACCEPTED

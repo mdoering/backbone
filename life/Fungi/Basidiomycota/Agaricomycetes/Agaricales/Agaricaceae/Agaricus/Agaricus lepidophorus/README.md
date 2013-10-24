@@ -1,5 +1,4 @@
-Agaricus lepidophorus Berk. & Broome SPECIES
-=======
+# Agaricus lepidophorus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

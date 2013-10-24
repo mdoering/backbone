@@ -1,5 +1,4 @@
-Endoplacodium nigrescens Petr., 1949 SPECIES
-=======
+# Endoplacodium nigrescens Petr., 1949 SPECIES
 
 #### Status
 ACCEPTED

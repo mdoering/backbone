@@ -1,5 +1,4 @@
-Peronospora claytoniae Farl. SPECIES
-=======
+# Peronospora claytoniae Farl. SPECIES
 
 #### Status
 ACCEPTED

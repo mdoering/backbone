@@ -1,5 +1,4 @@
-Visbysphaera connexa Le Hérissé, 1989 SPECIES
-=======
+# Visbysphaera connexa Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

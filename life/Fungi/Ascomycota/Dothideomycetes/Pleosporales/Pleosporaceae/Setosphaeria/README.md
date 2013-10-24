@@ -1,5 +1,4 @@
-Setosphaeria K.J. Leonard & Suggs GENUS
-=======
+# Setosphaeria K.J. Leonard & Suggs GENUS
 
 #### Status
 ACCEPTED

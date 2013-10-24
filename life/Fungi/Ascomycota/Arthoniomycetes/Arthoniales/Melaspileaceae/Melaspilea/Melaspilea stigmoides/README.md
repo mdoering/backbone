@@ -1,5 +1,4 @@
-Melaspilea stigmoides Müll. Arg. SPECIES
-=======
+# Melaspilea stigmoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

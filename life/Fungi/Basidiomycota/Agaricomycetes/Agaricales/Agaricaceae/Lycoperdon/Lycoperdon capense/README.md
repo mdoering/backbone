@@ -1,5 +1,4 @@
-Lycoperdon capense Fr. SPECIES
-=======
+# Lycoperdon capense Fr. SPECIES
 
 #### Status
 ACCEPTED

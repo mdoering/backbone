@@ -1,5 +1,4 @@
-Setomyces minutus Bat. & H. Maia SPECIES
-=======
+# Setomyces minutus Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

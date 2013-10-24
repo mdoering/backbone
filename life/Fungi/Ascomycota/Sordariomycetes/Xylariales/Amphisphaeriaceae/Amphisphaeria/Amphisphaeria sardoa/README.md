@@ -1,5 +1,4 @@
-Amphisphaeria sardoa De Not. SPECIES
-=======
+# Amphisphaeria sardoa De Not. SPECIES
 
 #### Status
 ACCEPTED

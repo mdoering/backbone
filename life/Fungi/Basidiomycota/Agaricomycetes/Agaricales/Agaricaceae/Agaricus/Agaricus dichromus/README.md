@@ -1,5 +1,4 @@
-Agaricus dichromus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus dichromus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

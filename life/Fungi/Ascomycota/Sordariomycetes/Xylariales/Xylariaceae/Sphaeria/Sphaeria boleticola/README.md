@@ -1,5 +1,4 @@
-Sphaeria boleticola Schwein. SPECIES
-=======
+# Sphaeria boleticola Schwein. SPECIES
 
 #### Status
 ACCEPTED

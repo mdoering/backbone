@@ -1,5 +1,4 @@
-Stictis corii (Schwein.) Berk. SPECIES
-=======
+# Stictis corii (Schwein.) Berk. SPECIES
 
 #### Status
 ACCEPTED

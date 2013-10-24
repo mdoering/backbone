@@ -1,5 +1,4 @@
-Verrucaria contortoides Servít SPECIES
-=======
+# Verrucaria contortoides Servít SPECIES
 
 #### Status
 ACCEPTED

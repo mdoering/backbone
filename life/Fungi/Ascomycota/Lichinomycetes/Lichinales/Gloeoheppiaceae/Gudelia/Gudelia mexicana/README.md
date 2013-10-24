@@ -1,5 +1,4 @@
-Gudelia mexicana Henssen SPECIES
-=======
+# Gudelia mexicana Henssen SPECIES
 
 #### Status
 ACCEPTED

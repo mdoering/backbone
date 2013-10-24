@@ -1,8 +1,7 @@
-Bdellovibrio starrii Seidler et al., 1972 (Approved Lists, 1980) SPECIES
-=======
+# Peredibacter starrii (Seidler et al., 1972) Davidov & Jurkevitch, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

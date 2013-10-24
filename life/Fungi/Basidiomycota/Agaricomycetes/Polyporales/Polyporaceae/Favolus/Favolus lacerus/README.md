@@ -1,5 +1,4 @@
-Favolus lacerus Fr. SPECIES
-=======
+# Favolus lacerus Fr. SPECIES
 
 #### Status
 ACCEPTED

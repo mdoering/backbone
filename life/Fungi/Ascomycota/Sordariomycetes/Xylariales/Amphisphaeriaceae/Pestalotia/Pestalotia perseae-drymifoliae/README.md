@@ -1,5 +1,4 @@
-Pestalotia perseae-drymifoliae Calvino SPECIES
-=======
+# Pestalotia perseae-drymifoliae Calvino SPECIES
 
 #### Status
 ACCEPTED

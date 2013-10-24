@@ -1,5 +1,4 @@
-Homodium subcuspidans Nyl. SPECIES
-=======
+# Homodium subcuspidans Nyl. SPECIES
 
 #### Status
 ACCEPTED

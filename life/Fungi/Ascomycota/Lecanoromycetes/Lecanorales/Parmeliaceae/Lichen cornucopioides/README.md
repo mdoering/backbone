@@ -1,5 +1,4 @@
-Lichen cornucopioides L. SPECIES
-=======
+# Lichen cornucopioides L. SPECIES
 
 #### Status
 ACCEPTED

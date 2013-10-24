@@ -1,8 +1,7 @@
-Lycoperdon irregulase DC. SPECIES
-=======
+# Lycoperdon irregulare DC. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lycoperdon irregulase DC.
+Lycoperdon irregulare DC.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Heterobotrys GENUS
-=======
+# Heterobotrys GENUS
 
 #### Status
 ACCEPTED

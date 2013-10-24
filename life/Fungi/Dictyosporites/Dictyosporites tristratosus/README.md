@@ -1,5 +1,4 @@
-Dictyosporites tristratosus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Dictyosporites tristratosus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

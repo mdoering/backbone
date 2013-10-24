@@ -1,5 +1,4 @@
-Entyloma aquaticum Lavrov SPECIES
-=======
+# Entyloma aquaticum Lavrov SPECIES
 
 #### Status
 ACCEPTED

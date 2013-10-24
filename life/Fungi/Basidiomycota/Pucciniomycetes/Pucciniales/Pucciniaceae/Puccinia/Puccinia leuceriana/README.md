@@ -1,5 +1,4 @@
-Puccinia leuceriana Sacc. & Trotter SPECIES
-=======
+# Puccinia leuceriana Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

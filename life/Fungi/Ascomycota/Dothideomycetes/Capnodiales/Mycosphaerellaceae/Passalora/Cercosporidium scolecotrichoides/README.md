@@ -1,5 +1,4 @@
-Cercosporidium scolecotrichoides (G.F. Atk.) Deighton SPECIES
-=======
+# Cercosporidium scolecotrichoides (G.F. Atk.) Deighton SPECIES
 
 #### Status
 ACCEPTED

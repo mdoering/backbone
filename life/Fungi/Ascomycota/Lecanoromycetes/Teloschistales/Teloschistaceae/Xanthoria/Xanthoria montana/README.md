@@ -1,5 +1,4 @@
-Xanthoria montana L. Lindblom SPECIES
-=======
+# Xanthoria montana L. Lindblom SPECIES
 
 #### Status
 ACCEPTED

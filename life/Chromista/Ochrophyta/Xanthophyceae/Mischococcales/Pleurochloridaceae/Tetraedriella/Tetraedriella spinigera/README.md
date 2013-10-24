@@ -1,5 +1,4 @@
-Tetraedriella spinigera Skuja SPECIES
-=======
+# Tetraedriella spinigera Skuja SPECIES
 
 #### Status
 ACCEPTED

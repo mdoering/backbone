@@ -1,5 +1,4 @@
-Phomopsis cuspariae Gutner SPECIES
-=======
+# Phomopsis cuspariae Gutner SPECIES
 
 #### Status
 ACCEPTED

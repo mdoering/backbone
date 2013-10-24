@@ -1,5 +1,4 @@
-Valsa aristata Dearn. SPECIES
-=======
+# Valsa aristata Dearn. SPECIES
 
 #### Status
 ACCEPTED

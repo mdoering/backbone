@@ -1,5 +1,4 @@
-Exostroma GENUS
-=======
+# Exostroma GENUS
 
 #### Status
 ACCEPTED

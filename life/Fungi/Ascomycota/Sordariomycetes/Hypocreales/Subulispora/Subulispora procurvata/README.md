@@ -1,5 +1,4 @@
-Subulispora procurvata Tubaki, 1971 SPECIES
-=======
+# Subulispora procurvata Tubaki, 1971 SPECIES
 
 #### Status
 ACCEPTED

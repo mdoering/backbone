@@ -1,5 +1,4 @@
-Cladonia conspicua (Ahti) Ahti SPECIES
-=======
+# Cladonia conspicua (Ahti) Ahti SPECIES
 
 #### Status
 ACCEPTED

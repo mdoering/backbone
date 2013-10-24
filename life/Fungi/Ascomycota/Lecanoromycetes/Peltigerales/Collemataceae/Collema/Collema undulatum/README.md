@@ -1,17 +1,16 @@
-Collema undulatum var. undulatum VARIETY
-=======
+# Collema undulatum Laurer ex Flot. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 23: 161 (1850)
+null
 
 #### Original name
-Collema undulatum var. undulatum
+null
 
 ### Remarks
 null

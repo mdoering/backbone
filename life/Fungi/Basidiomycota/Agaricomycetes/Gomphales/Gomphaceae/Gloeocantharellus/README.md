@@ -1,5 +1,4 @@
-Gloeocantharellus Singer GENUS
-=======
+# Gloeocantharellus Singer GENUS
 
 #### Status
 ACCEPTED

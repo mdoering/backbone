@@ -1,17 +1,16 @@
-Pleomassaria anonae Tilak, S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Pleomassaria annonae Tilak, S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 23(1-6): 15 (1970)
 
 #### Original name
-Pleomassaria anonae Tilak, S.B. Kale & S.V.S. Kale
+Pleomassaria annonae Tilak, S.B. Kale & S.V.S. Kale
 
 ### Remarks
 null

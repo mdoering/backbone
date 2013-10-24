@@ -1,5 +1,4 @@
-Vorticella exilis Nenninger, 1948 SPECIES
-=======
+# Vorticella exilis Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

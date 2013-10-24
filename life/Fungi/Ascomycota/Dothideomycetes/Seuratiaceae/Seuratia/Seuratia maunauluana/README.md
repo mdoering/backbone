@@ -1,5 +1,4 @@
-Seuratia maunauluana Meeker, 1975 SPECIES
-=======
+# Seuratia maunauluana Meeker, 1975 SPECIES
 
 #### Status
 ACCEPTED

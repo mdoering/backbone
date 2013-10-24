@@ -1,5 +1,4 @@
-Microsporangium GENUS
-=======
+# Microsporangium GENUS
 
 #### Status
 ACCEPTED

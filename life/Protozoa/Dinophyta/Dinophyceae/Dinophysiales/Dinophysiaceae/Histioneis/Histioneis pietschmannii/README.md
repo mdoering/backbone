@@ -1,5 +1,4 @@
-Histioneis pietschmannii Böhm, 1933 SPECIES
-=======
+# Histioneis pietschmannii Böhm, 1933 SPECIES
 
 #### Status
 ACCEPTED

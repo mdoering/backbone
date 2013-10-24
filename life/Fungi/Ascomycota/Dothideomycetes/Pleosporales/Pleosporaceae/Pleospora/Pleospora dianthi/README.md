@@ -1,17 +1,16 @@
-Pleospora dianthi f. dianthi De Not. FORM
-=======
+# Pleospora dianthi De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sfer. Ital. 74 (1863)
+Nuovo Giorn. Bot. Ital. , N. S. 20: 61 (1888)
 
 #### Original name
-Pleospora dianthi f. dianthi De Not.
+Pleospora dianthi De Not., 1863
 
 ### Remarks
 null

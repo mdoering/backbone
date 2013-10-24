@@ -1,5 +1,4 @@
-Laboulbenia rigidula Speg. SPECIES
-=======
+# Laboulbenia rigidula Speg. SPECIES
 
 #### Status
 ACCEPTED

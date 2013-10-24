@@ -1,5 +1,4 @@
-Ollicola Vørs, 1992 GENUS
-=======
+# Ollicola Vørs, 1992 GENUS
 
 #### Status
 ACCEPTED

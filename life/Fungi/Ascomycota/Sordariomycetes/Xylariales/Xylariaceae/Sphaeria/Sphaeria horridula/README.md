@@ -1,5 +1,4 @@
-Sphaeria horridula Wallr. SPECIES
-=======
+# Sphaeria horridula Wallr. SPECIES
 
 #### Status
 ACCEPTED

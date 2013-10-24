@@ -1,5 +1,4 @@
-Dwayaloma trina Subram., 1957 SPECIES
-=======
+# Dwayaloma trina Subram., 1957 SPECIES
 
 #### Status
 ACCEPTED

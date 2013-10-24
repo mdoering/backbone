@@ -1,5 +1,4 @@
-Cancellina Hayden, 1910 GENUS
-=======
+# Cancellina Hayden, 1910 GENUS
 
 #### Status
 ACCEPTED

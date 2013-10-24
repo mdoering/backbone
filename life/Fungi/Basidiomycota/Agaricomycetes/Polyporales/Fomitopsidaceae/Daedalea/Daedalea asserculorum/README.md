@@ -1,5 +1,4 @@
-Daedalea asserculorum Schrad. SPECIES
-=======
+# Daedalea asserculorum Schrad. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporum humahuaquense S. Mazza & Niño SPECIES
-=======
+# Trichosporum humahuaquense S. Mazza & Niño SPECIES
 
 #### Status
 ACCEPTED

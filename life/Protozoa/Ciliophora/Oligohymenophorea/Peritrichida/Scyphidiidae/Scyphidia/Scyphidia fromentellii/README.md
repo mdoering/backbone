@@ -1,5 +1,4 @@
-Scyphidia fromentellii SPECIES
-=======
+# Scyphidia fromentellii SPECIES
 
 #### Status
 ACCEPTED

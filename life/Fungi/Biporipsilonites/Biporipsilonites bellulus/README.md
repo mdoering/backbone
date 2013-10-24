@@ -1,5 +1,4 @@
-Biporipsilonites bellulus Kalgutkar & Janson. SPECIES
-=======
+# Biporipsilonites bellulus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

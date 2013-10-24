@@ -1,5 +1,4 @@
-Karlingiomyces granulatus (Karling) Sparrow SPECIES
-=======
+# Karlingiomyces granulatus (Karling) Sparrow SPECIES
 
 #### Status
 ACCEPTED

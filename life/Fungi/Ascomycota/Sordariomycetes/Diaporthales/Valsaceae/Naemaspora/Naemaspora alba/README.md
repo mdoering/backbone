@@ -1,5 +1,4 @@
-Naemaspora alba Preuss SPECIES
-=======
+# Naemaspora alba Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizidium varians Karling, 1949 SPECIES
-=======
+# Rhizidium varians Karling, 1949 SPECIES
 
 #### Status
 ACCEPTED

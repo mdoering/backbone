@@ -1,5 +1,4 @@
-Entoloma viscaurantium E. Horak & Singer SPECIES
-=======
+# Entoloma viscaurantium E. Horak & Singer SPECIES
 
 #### Status
 ACCEPTED

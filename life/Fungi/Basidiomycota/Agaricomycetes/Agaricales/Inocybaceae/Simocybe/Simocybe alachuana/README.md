@@ -1,5 +1,4 @@
-Simocybe alachuana (Murrill) Singer SPECIES
-=======
+# Simocybe alachuana (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

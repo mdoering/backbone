@@ -1,5 +1,4 @@
-Polystictus cearensis Theiss. SPECIES
-=======
+# Polystictus cearensis Theiss. SPECIES
 
 #### Status
 ACCEPTED

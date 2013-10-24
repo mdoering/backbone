@@ -1,8 +1,7 @@
-Pseudomonas rubrisubalbicans (Christopher and Edgerton, 1930) Krasil'nikov, 1949 (Approved Lists, 1980) SPECIES
-=======
+# Herbaspirillum rubrisubalbicans (Christopher & Edgerton, 1930) Baldani et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Claviceps citrina Paoutová, Fucík., Leyva-Mir & Flieger SPECIES
-=======
+# Claviceps citrina Paoutová, Fucík., Leyva-Mir & Flieger SPECIES
 
 #### Status
 ACCEPTED

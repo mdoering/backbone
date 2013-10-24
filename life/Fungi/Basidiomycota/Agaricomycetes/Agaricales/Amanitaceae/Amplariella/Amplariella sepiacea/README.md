@@ -1,5 +1,4 @@
-Amplariella sepiacea (S. Imai) E.-J. Gilbert SPECIES
-=======
+# Amplariella sepiacea (S. Imai) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

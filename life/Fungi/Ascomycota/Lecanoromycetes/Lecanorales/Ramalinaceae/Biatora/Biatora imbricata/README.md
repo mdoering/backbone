@@ -1,5 +1,4 @@
-Biatora imbricata (Mont.) Hepp SPECIES
-=======
+# Biatora imbricata (Mont.) Hepp SPECIES
 
 #### Status
 ACCEPTED

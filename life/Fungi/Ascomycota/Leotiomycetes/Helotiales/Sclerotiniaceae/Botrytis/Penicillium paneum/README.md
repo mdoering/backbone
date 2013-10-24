@@ -1,5 +1,4 @@
-Penicillium paneum Frisvad, 1996 SPECIES
-=======
+# Penicillium paneum Frisvad, 1996 SPECIES
 
 #### Status
 DOUBTFUL

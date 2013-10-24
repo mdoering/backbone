@@ -1,5 +1,4 @@
-Trichosporum verrucosum R.F. Castañeda et al. SPECIES
-=======
+# Trichosporum verrucosum R.F. Castañeda et al. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium vitivorum Miura SPECIES
-=======
+# Coniothyrium vitivorum Miura SPECIES
 
 #### Status
 ACCEPTED

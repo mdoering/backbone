@@ -1,5 +1,4 @@
-Tetraporina vulgaris Kondratyev, 1963 SPECIES
-=======
+# Tetraporina vulgaris Kondratyev, 1963 SPECIES
 
 #### Status
 ACCEPTED

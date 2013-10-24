@@ -1,5 +1,4 @@
-Lactobacillus curvatus subsp. curvatus SUBSPECIES
-=======
+# Lactobacillus curvatus (Troili-Petersson, 1903) Abo-Elnaga & Kandler, 1965 SPECIES
 
 #### Status
 ACCEPTED

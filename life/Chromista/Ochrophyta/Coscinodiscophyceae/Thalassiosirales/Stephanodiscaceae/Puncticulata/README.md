@@ -1,5 +1,4 @@
-Puncticulata H.Håkansson GENUS
-=======
+# Puncticulata H.Håkansson GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora ruelliae S. Narayan, P.N. Singh & G.P. Rao SPECIES
-=======
+# Cercospora ruelliae S. Narayan, P.N. Singh & G.P. Rao SPECIES
 
 #### Status
 ACCEPTED

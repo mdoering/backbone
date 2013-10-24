@@ -1,5 +1,4 @@
-Endoblastoderma GENUS
-=======
+# Endoblastoderma GENUS
 
 #### Status
 ACCEPTED

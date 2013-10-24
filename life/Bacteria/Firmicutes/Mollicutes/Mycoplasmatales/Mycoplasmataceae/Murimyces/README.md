@@ -1,5 +1,4 @@
-Murimyces GENUS
-=======
+# Murimyces GENUS
 
 #### Status
 ACCEPTED

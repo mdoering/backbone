@@ -1,5 +1,4 @@
-Erinella aeruginosa Henn. SPECIES
-=======
+# Erinella aeruginosa Henn. SPECIES
 
 #### Status
 ACCEPTED

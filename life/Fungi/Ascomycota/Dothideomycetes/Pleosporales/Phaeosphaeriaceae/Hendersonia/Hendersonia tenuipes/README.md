@@ -1,5 +1,4 @@
-Hendersonia tenuipes McAlpine SPECIES
-=======
+# Hendersonia tenuipes McAlpine SPECIES
 
 #### Status
 ACCEPTED

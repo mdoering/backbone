@@ -1,5 +1,4 @@
-Fusarium rhizophilum Cooke SPECIES
-=======
+# Fusarium rhizophilum Cooke SPECIES
 
 #### Status
 ACCEPTED

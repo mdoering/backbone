@@ -1,5 +1,4 @@
-Boletus porosporous (Imler) Watling SPECIES
-=======
+# Boletus porosporous (Imler) Watling SPECIES
 
 #### Status
 ACCEPTED

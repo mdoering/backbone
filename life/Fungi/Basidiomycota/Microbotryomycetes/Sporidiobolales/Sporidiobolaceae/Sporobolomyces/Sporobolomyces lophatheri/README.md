@@ -1,5 +1,4 @@
-Sporobolomyces lophatheri Nakase, Tsuzuki, F.L. Lee, Jindam. & M. Takash. SPECIES
-=======
+# Sporobolomyces lophatheri Nakase, Tsuzuki, F.L. Lee, Jindam. & M. Takash. SPECIES
 
 #### Status
 ACCEPTED

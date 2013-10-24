@@ -1,5 +1,4 @@
-Baltisphaeridium kenkemense Rudavskaya in Rudavskaya & Frolov, 1978 SPECIES
-=======
+# Baltisphaeridium kenkemense Rudavskaya in Rudavskaya & Frolov, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius canabarba M.M. Moser SPECIES
-=======
+# Cortinarius canabarba M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyosporium brahmaswaroopii M.D. Mehrotra SPECIES
-=======
+# Dictyosporium brahmaswaroopii M.D. Mehrotra SPECIES
 
 #### Status
 ACCEPTED

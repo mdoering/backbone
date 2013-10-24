@@ -1,14 +1,13 @@
-Chailletia ferruginea (Fuckel) Jacz. SPECIES
-=======
+# Azbukinia ferruginea (Fuckel) Lar.N. Vassiljeva, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Opredelitel' Gribov (St. Petersburg) 1: 233 (1913)
+Mycotaxon 35(2): 395 (1989)
 
 #### Original name
 Melanops ferruginea Fuckel, 1871

@@ -1,5 +1,4 @@
-Cercospora biformis Peck SPECIES
-=======
+# Cercospora biformis Peck SPECIES
 
 #### Status
 ACCEPTED

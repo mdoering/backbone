@@ -1,5 +1,4 @@
-Metasphaeria fur-fur (Ehrenb.) Sacc. SPECIES
-=======
+# Metasphaeria fur-fur (Ehrenb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

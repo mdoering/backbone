@@ -1,5 +1,4 @@
-Thelidium rimosulum Ceyn.-Gield. SPECIES
-=======
+# Thelidium rimosulum Ceyn.-Gield. SPECIES
 
 #### Status
 ACCEPTED

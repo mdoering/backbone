@@ -1,17 +1,16 @@
-Leptostroma caricinum var. caricinum VARIETY
-=======
+# Lophodermium caricinum (Roberge ex Desm.) Duby, 1862 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 2: 361 (1818)
+Mém. Soc. Phys. Hist. nat. Genève 16(1): 59 (1862)
 
 #### Original name
-Leptostroma caricinum var. caricinum
+Hysterium caricinum Roberge ex Desm., 1847
 
 ### Remarks
 null

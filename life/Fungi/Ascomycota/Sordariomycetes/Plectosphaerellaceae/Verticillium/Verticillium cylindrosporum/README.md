@@ -1,5 +1,4 @@
-Verticillium cylindrosporum Corda SPECIES
-=======
+# Verticillium cylindrosporum Corda SPECIES
 
 #### Status
 ACCEPTED

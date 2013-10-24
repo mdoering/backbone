@@ -1,5 +1,4 @@
-Ceratium reflexum Cleve, 1900 SPECIES
-=======
+# Ceratium reflexum Cleve, 1900 SPECIES
 
 #### Status
 ACCEPTED

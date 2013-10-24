@@ -1,5 +1,4 @@
-Septoria adenophorae Thüm. SPECIES
-=======
+# Septoria adenophorae Thüm. SPECIES
 
 #### Status
 ACCEPTED

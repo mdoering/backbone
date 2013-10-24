@@ -1,17 +1,16 @@
-Boletus pulverulentus f. pulverulentus FORM
-=======
+# Boletus pulverulentus Opat., 1836 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Vergl. Morph. Biol. Pilze 2: 27 (1836)
 
 #### Original name
-Boletus pulverulentus f. pulverulentus
+Boletus pulverulentus Opat., 1836
 
 ### Remarks
 null

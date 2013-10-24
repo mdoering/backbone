@@ -1,5 +1,4 @@
-Phoma salicis-fragilis Petr. SPECIES
-=======
+# Phoma salicis-fragilis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria piperorum Bubák SPECIES
-=======
+# Septoria piperorum Bubák SPECIES
 
 #### Status
 ACCEPTED

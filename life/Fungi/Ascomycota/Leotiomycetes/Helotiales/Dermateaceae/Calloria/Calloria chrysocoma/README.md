@@ -1,5 +1,4 @@
-Calloria chrysocoma a chrysocoma (Bull.) Fr. SPECIES
-=======
+# Calloria chrysocoma a chrysocoma (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED

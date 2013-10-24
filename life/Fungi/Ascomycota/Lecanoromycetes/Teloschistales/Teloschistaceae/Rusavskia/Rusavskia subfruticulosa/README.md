@@ -1,5 +1,4 @@
-Rusavskia subfruticulosa (Elenkin) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Rusavskia subfruticulosa (Elenkin) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strionemadiplodia Zambett. GENUS
-=======
+# Strionemadiplodia Zambett. GENUS
 
 #### Status
 ACCEPTED

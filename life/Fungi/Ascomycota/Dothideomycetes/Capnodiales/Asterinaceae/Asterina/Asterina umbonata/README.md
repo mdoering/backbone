@@ -1,5 +1,4 @@
-Asterina umbonata Desm. SPECIES
-=======
+# Asterina umbonata Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mallomonas tolerans Asmund & Kristiansen SPECIES
-=======
+# Mallomonas tolerans Asmund & Kristiansen SPECIES
 
 #### Status
 ACCEPTED

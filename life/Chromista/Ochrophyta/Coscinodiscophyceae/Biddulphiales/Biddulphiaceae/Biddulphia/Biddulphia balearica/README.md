@@ -1,5 +1,4 @@
-Biddulphia balearica (Cleve & Grunow) A. Mann SPECIES
-=======
+# Biddulphia balearica (Cleve & Grunow) A. Mann SPECIES
 
 #### Status
 ACCEPTED

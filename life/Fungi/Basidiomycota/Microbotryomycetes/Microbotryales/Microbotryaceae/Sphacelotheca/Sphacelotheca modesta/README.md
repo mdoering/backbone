@@ -1,5 +1,4 @@
-Sphacelotheca modesta (Syd. & P. Syd.) Zundel SPECIES
-=======
+# Sphacelotheca modesta (Syd. & P. Syd.) Zundel SPECIES
 
 #### Status
 ACCEPTED

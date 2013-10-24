@@ -1,5 +1,4 @@
-Lecidea multicolor Hue SPECIES
-=======
+# Lecidea multicolor Hue SPECIES
 
 #### Status
 ACCEPTED

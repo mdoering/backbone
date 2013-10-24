@@ -1,5 +1,4 @@
-Pertusaria falklandica Imshaug SPECIES
-=======
+# Pertusaria falklandica Imshaug SPECIES
 
 #### Status
 ACCEPTED

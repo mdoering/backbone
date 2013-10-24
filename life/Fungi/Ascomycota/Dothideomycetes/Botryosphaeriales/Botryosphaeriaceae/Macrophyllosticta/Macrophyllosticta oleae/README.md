@@ -1,5 +1,4 @@
-Macrophyllosticta oleae Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta oleae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

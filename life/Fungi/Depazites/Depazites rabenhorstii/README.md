@@ -1,5 +1,4 @@
-Depazites rabenhorstii (Geinitz) Mesch. SPECIES
-=======
+# Depazites rabenhorstii (Geinitz) Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurothele sapaudica Asta, Clauzade & Cl. Roux SPECIES
-=======
+# Staurothele sapaudica Asta, Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

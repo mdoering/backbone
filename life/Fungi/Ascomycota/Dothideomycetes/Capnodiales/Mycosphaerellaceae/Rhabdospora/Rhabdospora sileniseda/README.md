@@ -1,5 +1,4 @@
-Rhabdospora sileniseda Picb. SPECIES
-=======
+# Rhabdospora sileniseda Picb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina borealis A.H. Sm. & Singer SPECIES
-=======
+# Galerina borealis A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

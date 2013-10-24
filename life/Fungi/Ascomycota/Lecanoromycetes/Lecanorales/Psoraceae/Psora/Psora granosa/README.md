@@ -1,5 +1,4 @@
-Psora granosa Baumg. SPECIES
-=======
+# Psora granosa Baumg. SPECIES
 
 #### Status
 ACCEPTED

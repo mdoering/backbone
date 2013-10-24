@@ -1,5 +1,4 @@
-Declivistoma namibiensis Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Declivistoma namibiensis Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

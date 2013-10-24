@@ -1,17 +1,16 @@
-Pestalotia monochaeta var. monochaeta VARIETY
-=======
+# Monochaetia monochaeta (Desm.) Allesch., 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(7): 667 (1902)
 
 #### Original name
-null
+Pestalotia monochaeta Desm., 1848
 
 ### Remarks
 null

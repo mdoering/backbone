@@ -1,5 +1,4 @@
-Dichomera camarosporioides Naumov SPECIES
-=======
+# Dichomera camarosporioides Naumov SPECIES
 
 #### Status
 ACCEPTED

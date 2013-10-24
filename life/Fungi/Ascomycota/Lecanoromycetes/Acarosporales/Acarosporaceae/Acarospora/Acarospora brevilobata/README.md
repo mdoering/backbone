@@ -1,5 +1,4 @@
-Acarospora brevilobata H. Magn. SPECIES
-=======
+# Acarospora brevilobata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

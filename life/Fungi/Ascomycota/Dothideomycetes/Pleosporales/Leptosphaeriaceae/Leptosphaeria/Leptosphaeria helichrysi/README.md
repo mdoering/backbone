@@ -1,5 +1,4 @@
-Leptosphaeria helichrysi Cooke SPECIES
-=======
+# Leptosphaeria helichrysi Cooke SPECIES
 
 #### Status
 ACCEPTED

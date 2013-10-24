@@ -1,17 +1,16 @@
-Pertusaria asperata A.W. Archer SPECIES
-=======
+# Pertusaria hadrocarpa Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 45: 417 (1992)
+in Skottsberg, Nat. Hist. Juan Fernandez Easter Isl. , 2 (Bot. ) 3(11): 376 (1924)
 
 #### Original name
-Pertusaria asperata A.W. Archer
+Pertusaria hadrocarpa Zahlbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Glomerobolus gelineus Kohlm. & Volkm.-Kohlm. SPECIES
-=======
+# Glomerobolus gelineus Kohlm. & Volkm.-Kohlm. SPECIES
 
 #### Status
 ACCEPTED

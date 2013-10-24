@@ -1,5 +1,4 @@
-Cladonia sphaerulifera Taylor SPECIES
-=======
+# Cladonia sphaerulifera Taylor SPECIES
 
 #### Status
 ACCEPTED

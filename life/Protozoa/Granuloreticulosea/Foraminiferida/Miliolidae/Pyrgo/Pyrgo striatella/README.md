@@ -1,5 +1,4 @@
-Pyrgo striatella SPECIES
-=======
+# Pyrgo striatella SPECIES
 
 #### Status
 ACCEPTED

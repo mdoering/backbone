@@ -1,5 +1,4 @@
-Pyrenopeziza obtrita (Pers.) Sacc. SPECIES
-=======
+# Pyrenopeziza obtrita (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

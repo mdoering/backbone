@@ -1,5 +1,4 @@
-Amerosporium dolichi Ellis & Everh. SPECIES
-=======
+# Amerosporium dolichi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

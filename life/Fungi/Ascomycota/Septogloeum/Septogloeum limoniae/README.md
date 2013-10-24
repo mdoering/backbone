@@ -1,5 +1,4 @@
-Septogloeum limoniae Petch SPECIES
-=======
+# Septogloeum limoniae Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothelium assurgens (Cooke) Aptroot & Lücking SPECIES
-=======
+# Trichothelium assurgens (Cooke) Aptroot & Lücking SPECIES
 
 #### Status
 ACCEPTED

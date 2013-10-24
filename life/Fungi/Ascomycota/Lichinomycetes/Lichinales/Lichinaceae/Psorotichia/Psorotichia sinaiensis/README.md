@@ -1,5 +1,4 @@
-Psorotichia sinaiensis Vain. SPECIES
-=======
+# Psorotichia sinaiensis Vain. SPECIES
 
 #### Status
 ACCEPTED

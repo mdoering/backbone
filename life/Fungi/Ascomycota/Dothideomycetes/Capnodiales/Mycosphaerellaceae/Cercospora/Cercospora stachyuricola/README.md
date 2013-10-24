@@ -1,5 +1,4 @@
-Cercospora stachyuricola X.J. Liu & Y.L. Guo SPECIES
-=======
+# Cercospora stachyuricola X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

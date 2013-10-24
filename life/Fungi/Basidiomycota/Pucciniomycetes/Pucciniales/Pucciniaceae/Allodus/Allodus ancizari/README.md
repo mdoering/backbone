@@ -1,5 +1,4 @@
-Allodus ancizari (Mayor) Arthur & Orton SPECIES
-=======
+# Allodus ancizari (Mayor) Arthur & Orton SPECIES
 
 #### Status
 ACCEPTED

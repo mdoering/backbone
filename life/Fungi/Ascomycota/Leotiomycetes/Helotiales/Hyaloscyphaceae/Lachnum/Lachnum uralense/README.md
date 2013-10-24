@@ -1,5 +1,4 @@
-Lachnum uralense Chleb. SPECIES
-=======
+# Lachnum uralense Chleb. SPECIES
 
 #### Status
 ACCEPTED

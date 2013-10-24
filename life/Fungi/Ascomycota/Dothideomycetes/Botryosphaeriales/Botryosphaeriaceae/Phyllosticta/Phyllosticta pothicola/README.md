@@ -1,5 +1,4 @@
-Phyllosticta pothicola Weedon SPECIES
-=======
+# Phyllosticta pothicola Weedon SPECIES
 
 #### Status
 ACCEPTED

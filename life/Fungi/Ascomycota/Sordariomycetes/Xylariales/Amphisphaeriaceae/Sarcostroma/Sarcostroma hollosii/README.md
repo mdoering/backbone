@@ -1,5 +1,4 @@
-Sarcostroma hollosii (Tóth) M. Morelet SPECIES
-=======
+# Sarcostroma hollosii (Tóth) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

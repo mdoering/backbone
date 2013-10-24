@@ -1,5 +1,4 @@
-Lecania mongolica H. Magn. SPECIES
-=======
+# Lecania mongolica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus montaniensis (Ellis & H.W. Anderson) Dennis SPECIES
-=======
+# Hymenoscyphus montaniensis (Ellis & H.W. Anderson) Dennis SPECIES
 
 #### Status
 ACCEPTED

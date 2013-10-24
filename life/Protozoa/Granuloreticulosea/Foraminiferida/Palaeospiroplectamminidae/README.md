@@ -1,5 +1,4 @@
-Palaeospiroplectamminidae Loeblich & Tappan, 1984 FAMILY
-=======
+# Palaeospiroplectamminidae Loeblich & Tappan, 1984 FAMILY
 
 #### Status
 ACCEPTED

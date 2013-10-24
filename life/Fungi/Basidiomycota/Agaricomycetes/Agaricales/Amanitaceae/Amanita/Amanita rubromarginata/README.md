@@ -1,5 +1,4 @@
-Amanita rubromarginata Har. Takah. SPECIES
-=======
+# Amanita rubromarginata Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

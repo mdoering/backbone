@@ -1,5 +1,4 @@
-Claudopus cyanomelaenus Boedijn SPECIES
-=======
+# Claudopus cyanomelaenus Boedijn SPECIES
 
 #### Status
 ACCEPTED

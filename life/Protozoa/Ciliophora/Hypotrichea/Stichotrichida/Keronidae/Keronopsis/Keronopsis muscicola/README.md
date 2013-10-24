@@ -1,8 +1,7 @@
-Paraholosticha muscicola (Kahl, 1932) Wenzel, 1953 SPECIES
-=======
+# Keronopsis muscicola (Kahl, 1932) Hemberger & Wilbert, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

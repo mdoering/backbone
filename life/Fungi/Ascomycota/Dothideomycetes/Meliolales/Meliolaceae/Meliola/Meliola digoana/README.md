@@ -1,5 +1,4 @@
-Meliola digoana Mibey SPECIES
-=======
+# Meliola digoana Mibey SPECIES
 
 #### Status
 ACCEPTED

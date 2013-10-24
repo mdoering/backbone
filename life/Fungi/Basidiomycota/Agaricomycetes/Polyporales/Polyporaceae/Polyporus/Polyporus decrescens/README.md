@@ -1,5 +1,4 @@
-Polyporus decrescens Zoll. SPECIES
-=======
+# Polyporus decrescens Zoll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita herrerae Aroche SPECIES
-=======
+# Amanita herrerae Aroche SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Parmelia sulcifera Kurok. SPECIES
-=======
+# Xanthoparmelia sulcifera (Kurok.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo, B 8(2): 37 (1982)
+Mycotaxon 20(1): 79 (1984)
 
 #### Original name
 Parmelia sulcifera Kurok.

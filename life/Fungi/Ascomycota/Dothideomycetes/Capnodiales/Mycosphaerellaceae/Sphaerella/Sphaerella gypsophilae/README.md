@@ -1,5 +1,4 @@
-Sphaerella gypsophilae (Lasch) Fuckel SPECIES
-=======
+# Sphaerella gypsophilae (Lasch) Fuckel SPECIES
 
 #### Status
 ACCEPTED

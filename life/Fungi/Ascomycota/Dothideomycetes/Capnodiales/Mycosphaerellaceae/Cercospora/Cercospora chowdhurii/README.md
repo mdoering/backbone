@@ -1,5 +1,4 @@
-Cercospora chowdhurii A.K. Roy SPECIES
-=======
+# Cercospora chowdhurii A.K. Roy SPECIES
 
 #### Status
 ACCEPTED

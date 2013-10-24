@@ -1,5 +1,4 @@
-Xylaria tuberiformis Berk., 1855 SPECIES
-=======
+# Xylaria tuberiformis Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecidea keroblasta (Zahlbr.) Hue SPECIES
-=======
+# Blastenia keroblasta Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Deutsche Südpolar-Expedit. , 8. Bot. 28 (1906)
 
 #### Original name
 Blastenia keroblasta Zahlbr.

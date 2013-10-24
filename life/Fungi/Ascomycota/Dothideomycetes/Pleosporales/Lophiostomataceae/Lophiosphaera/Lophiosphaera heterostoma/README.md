@@ -1,5 +1,4 @@
-Lophiosphaera heterostoma (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Lophiosphaera heterostoma (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

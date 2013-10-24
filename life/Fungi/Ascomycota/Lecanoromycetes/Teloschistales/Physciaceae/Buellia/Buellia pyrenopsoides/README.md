@@ -1,5 +1,4 @@
-Buellia pyrenopsoides (Vain.) Zahlbr. SPECIES
-=======
+# Buellia pyrenopsoides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoalteromonas aliena Ivanova et al., 2004 SPECIES
-=======
+# Pseudoalteromonas aliena Ivanova et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

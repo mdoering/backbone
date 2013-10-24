@@ -1,5 +1,4 @@
-Dichothrix interrupta W. West & G.S. West SPECIES
-=======
+# Dichothrix interrupta W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

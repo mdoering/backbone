@@ -1,5 +1,4 @@
-Parmelia lividorufa Meyen & Flot. SPECIES
-=======
+# Parmelia lividorufa Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

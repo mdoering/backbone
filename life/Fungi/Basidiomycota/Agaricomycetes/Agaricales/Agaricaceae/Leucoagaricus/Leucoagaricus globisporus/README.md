@@ -1,5 +1,4 @@
-Leucoagaricus globisporus (Raithelh.) Raithelh. SPECIES
-=======
+# Leucoagaricus globisporus (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

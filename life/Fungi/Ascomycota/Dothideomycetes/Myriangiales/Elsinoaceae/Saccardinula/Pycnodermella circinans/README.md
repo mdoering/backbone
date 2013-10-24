@@ -1,5 +1,4 @@
-Pycnodermella circinans (Syd. & P. Syd.) Petr. SPECIES
-=======
+# Pycnodermella circinans (Syd. & P. Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

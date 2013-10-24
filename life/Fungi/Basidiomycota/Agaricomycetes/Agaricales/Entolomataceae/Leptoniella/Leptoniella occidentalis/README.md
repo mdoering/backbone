@@ -1,5 +1,4 @@
-Leptoniella occidentalis Murrill SPECIES
-=======
+# Leptoniella occidentalis Murrill SPECIES
 
 #### Status
 ACCEPTED

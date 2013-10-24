@@ -1,5 +1,4 @@
-Russula fusconigra M.M. Moser, 1979 SPECIES
-=======
+# Russula fusconigra M.M. Moser, 1979 SPECIES
 
 #### Status
 ACCEPTED

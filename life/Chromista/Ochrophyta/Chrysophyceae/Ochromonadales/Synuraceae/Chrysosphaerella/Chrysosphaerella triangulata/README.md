@@ -1,5 +1,4 @@
-Chrysosphaerella triangulata Balonov, 1980 SPECIES
-=======
+# Chrysosphaerella triangulata Balonov, 1980 SPECIES
 
 #### Status
 ACCEPTED

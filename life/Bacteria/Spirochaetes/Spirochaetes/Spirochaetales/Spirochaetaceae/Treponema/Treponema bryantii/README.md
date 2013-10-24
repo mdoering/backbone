@@ -1,5 +1,4 @@
-Treponema bryantii Stanton & Canale-Parola, 1980 SPECIES
-=======
+# Treponema bryantii Stanton & Canale-Parola, 1980 SPECIES
 
 #### Status
 ACCEPTED

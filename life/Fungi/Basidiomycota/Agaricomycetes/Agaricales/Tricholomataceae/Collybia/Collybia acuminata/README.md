@@ -1,5 +1,4 @@
-Collybia acuminata Massee SPECIES
-=======
+# Collybia acuminata Massee SPECIES
 
 #### Status
 ACCEPTED

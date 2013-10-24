@@ -1,5 +1,4 @@
-Epilichen stellatus Triebel SPECIES
-=======
+# Epilichen stellatus Triebel SPECIES
 
 #### Status
 ACCEPTED

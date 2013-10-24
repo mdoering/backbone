@@ -1,5 +1,4 @@
-Aureobasidium ribis (Vassiljevsky) Herm.-Nijh. SPECIES
-=======
+# Aureobasidium ribis (Vassiljevsky) Herm.-Nijh. SPECIES
 
 #### Status
 ACCEPTED

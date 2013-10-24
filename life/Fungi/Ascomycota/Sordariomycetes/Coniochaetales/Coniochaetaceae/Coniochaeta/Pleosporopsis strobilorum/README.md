@@ -1,5 +1,4 @@
-Pleosporopsis strobilorum Oerst. SPECIES
-=======
+# Pleosporopsis strobilorum Oerst. SPECIES
 
 #### Status
 ACCEPTED

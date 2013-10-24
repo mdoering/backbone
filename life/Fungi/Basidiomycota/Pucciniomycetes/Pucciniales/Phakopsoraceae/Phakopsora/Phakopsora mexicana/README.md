@@ -1,5 +1,4 @@
-Phakopsora mexicana (Arthur) Arthur SPECIES
-=======
+# Phakopsora mexicana (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

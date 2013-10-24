@@ -1,5 +1,4 @@
-Galerina helvoliceps (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Galerina helvoliceps (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

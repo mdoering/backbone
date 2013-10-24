@@ -1,5 +1,4 @@
-Pholiota gigantea Naveau SPECIES
-=======
+# Pholiota gigantea Naveau SPECIES
 
 #### Status
 ACCEPTED

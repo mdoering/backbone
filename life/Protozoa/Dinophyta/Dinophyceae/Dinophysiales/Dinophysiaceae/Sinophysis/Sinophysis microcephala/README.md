@@ -1,5 +1,4 @@
-Sinophysis microcephala Nie & C. Wang SPECIES
-=======
+# Sinophysis microcephala Nie & C. Wang SPECIES
 
 #### Status
 ACCEPTED

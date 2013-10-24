@@ -1,5 +1,4 @@
-Diplodina lactucae (Oudem.) Sacc. & P. Syd. SPECIES
-=======
+# Diplodina lactucae (Oudem.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

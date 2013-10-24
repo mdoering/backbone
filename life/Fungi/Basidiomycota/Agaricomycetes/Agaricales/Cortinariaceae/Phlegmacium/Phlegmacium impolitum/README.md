@@ -1,5 +1,4 @@
-Phlegmacium impolitum Schwalb SPECIES
-=======
+# Phlegmacium impolitum Schwalb SPECIES
 
 #### Status
 ACCEPTED

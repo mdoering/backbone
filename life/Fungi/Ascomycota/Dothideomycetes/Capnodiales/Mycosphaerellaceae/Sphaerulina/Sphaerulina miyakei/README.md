@@ -1,5 +1,4 @@
-Sphaerulina miyakei Hara SPECIES
-=======
+# Sphaerulina miyakei Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus subcollariatus Kühner SPECIES
-=======
+# Rhodophyllus subcollariatus Kühner SPECIES
 
 #### Status
 ACCEPTED

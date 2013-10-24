@@ -1,5 +1,4 @@
-Leptosphaeria bispora (P. Larsen) Munk SPECIES
-=======
+# Leptosphaeria bispora (P. Larsen) Munk SPECIES
 
 #### Status
 ACCEPTED

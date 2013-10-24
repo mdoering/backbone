@@ -1,5 +1,4 @@
-Pleurotus submutilis Speg. SPECIES
-=======
+# Pleurotus submutilis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caullerya E. Chatton GENUS
-=======
+# Caullerya E. Chatton GENUS
 
 #### Status
 ACCEPTED

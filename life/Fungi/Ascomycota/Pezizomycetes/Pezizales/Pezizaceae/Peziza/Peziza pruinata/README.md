@@ -1,5 +1,4 @@
-Peziza pruinata Schwein. SPECIES
-=======
+# Peziza pruinata Schwein. SPECIES
 
 #### Status
 ACCEPTED

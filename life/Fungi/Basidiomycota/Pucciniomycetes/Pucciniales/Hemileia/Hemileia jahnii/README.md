@@ -1,5 +1,4 @@
-Hemileia jahnii Syd. SPECIES
-=======
+# Hemileia jahnii Syd. SPECIES
 
 #### Status
 ACCEPTED

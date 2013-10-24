@@ -1,5 +1,4 @@
-Bovista hyalothrix Cooke & Massee SPECIES
-=======
+# Bovista hyalothrix Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

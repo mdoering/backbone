@@ -1,14 +1,13 @@
-Lecanactis proximata (Nyl.) Zahlbr. SPECIES
-=======
+# Cresponea proximata (Nyl.) Egea & Torrente SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 544 (1923)
+Mycotaxon 48: 328 (1993)
 
 #### Original name
 Lecidea proximata Nyl.

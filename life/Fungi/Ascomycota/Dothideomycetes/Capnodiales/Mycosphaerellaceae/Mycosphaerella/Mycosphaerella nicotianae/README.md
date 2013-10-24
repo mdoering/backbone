@@ -1,14 +1,13 @@
-Mycosphaerella nicotinae (Ellis & Everh.) Tomilin SPECIES
-=======
+# Mycosphaerella nicotianae (Ellis & Everh.) Miles SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Ill. St. Acad. Sci. 10: 250 (1917)
 
 #### Original name
 Sphaerella nicotianae Ellis & Everh.

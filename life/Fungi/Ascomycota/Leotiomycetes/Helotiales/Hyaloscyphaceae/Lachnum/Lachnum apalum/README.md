@@ -1,14 +1,13 @@
-Erinella apala (Berk. & Broome) Sacc., 1889 SPECIES
-=======
+# Lachnum apalum (Berk. & Broome) Nannf., 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 30: 299 (1936)
 
 #### Original name
 null

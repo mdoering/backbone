@@ -1,5 +1,4 @@
-Orbilia chlorina Rick SPECIES
-=======
+# Orbilia chlorina Rick SPECIES
 
 #### Status
 ACCEPTED

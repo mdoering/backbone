@@ -1,5 +1,4 @@
-Lachnea gintlii var. gintlii VARIETY
-=======
+# Lachnea gintlii Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 4-5: 875 (1922)
 
 #### Original name
-Lachnea gintlii var. gintlii
+Lachnea gintlii Velen.
 
 ### Remarks
 null

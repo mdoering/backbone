@@ -1,5 +1,4 @@
-Calosphaeria reniformis (Richon) SPECIES
-=======
+# Calosphaeria reniformis (Richon) SPECIES
 
 #### Status
 ACCEPTED

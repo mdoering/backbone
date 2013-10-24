@@ -1,5 +1,4 @@
-Hysterocineta Diesing, 1866 GENUS
-=======
+# Hysterocineta Diesing, 1866 GENUS
 
 #### Status
 ACCEPTED

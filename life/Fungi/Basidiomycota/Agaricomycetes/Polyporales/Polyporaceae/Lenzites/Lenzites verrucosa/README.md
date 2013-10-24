@@ -1,5 +1,4 @@
-Lenzites verrucosa J. Kickx f. SPECIES
-=======
+# Lenzites verrucosa J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epicoccum davidssonii Rostr. SPECIES
-=======
+# Epicoccum davidssonii Rostr. SPECIES
 
 #### Status
 ACCEPTED

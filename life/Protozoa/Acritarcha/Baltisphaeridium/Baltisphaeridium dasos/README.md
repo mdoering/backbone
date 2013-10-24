@@ -1,5 +1,4 @@
-Baltisphaeridium dasos Colbath, 1979 SPECIES
-=======
+# Baltisphaeridium dasos Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodinula Tassi GENUS
-=======
+# Diplodinula Tassi GENUS
 
 #### Status
 ACCEPTED

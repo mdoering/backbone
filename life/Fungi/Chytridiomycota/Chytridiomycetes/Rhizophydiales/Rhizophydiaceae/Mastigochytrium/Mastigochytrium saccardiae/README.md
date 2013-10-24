@@ -1,5 +1,4 @@
-Mastigochytrium saccardiae Lagerh. SPECIES
-=======
+# Mastigochytrium saccardiae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

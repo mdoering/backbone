@@ -1,5 +1,4 @@
-Puccinia tuberculans Ellis & Everh. SPECIES
-=======
+# Puccinia tuberculans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

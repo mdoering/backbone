@@ -1,5 +1,4 @@
-Thelebolus stercoreus Tode, 1790 SPECIES
-=======
+# Thelebolus stercoreus Tode, 1790 SPECIES
 
 #### Status
 ACCEPTED

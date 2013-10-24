@@ -1,5 +1,4 @@
-Hypotrachyna incognita (Kurok.) Hale SPECIES
-=======
+# Hypotrachyna incognita (Kurok.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phthanoperidinium tritonium Eaton, 1976 SPECIES
-=======
+# Phthanoperidinium tritonium Eaton, 1976 SPECIES
 
 #### Status
 ACCEPTED

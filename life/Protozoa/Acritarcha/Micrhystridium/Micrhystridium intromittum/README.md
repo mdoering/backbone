@@ -1,5 +1,4 @@
-Micrhystridium intromittum Wall, 1965 SPECIES
-=======
+# Micrhystridium intromittum Wall, 1965 SPECIES
 
 #### Status
 ACCEPTED

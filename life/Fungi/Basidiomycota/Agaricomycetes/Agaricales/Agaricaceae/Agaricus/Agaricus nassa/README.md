@@ -1,5 +1,4 @@
-Agaricus nassa Berk. SPECIES
-=======
+# Agaricus nassa Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Janibacter melonis Yoon et al., 2004 SPECIES
-=======
+# Janibacter melonis Yoon et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

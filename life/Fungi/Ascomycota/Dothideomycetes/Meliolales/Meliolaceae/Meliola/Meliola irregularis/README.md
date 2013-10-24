@@ -1,5 +1,4 @@
-Meliola irregularis F. Stevens SPECIES
-=======
+# Meliola irregularis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

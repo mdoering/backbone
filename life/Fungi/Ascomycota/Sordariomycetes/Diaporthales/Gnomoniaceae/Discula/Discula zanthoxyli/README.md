@@ -1,8 +1,7 @@
-Discula xanthoxyli Ellis & Everh. SPECIES
-=======
+# Discula zanthoxyli Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Discula xanthoxyli Ellis & Everh.
+Discula zanthoxyli Ellis & Everh.
 
 ### Remarks
 null

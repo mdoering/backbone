@@ -1,5 +1,4 @@
-Flavodon GENUS
-=======
+# Flavodon GENUS
 
 #### Status
 ACCEPTED

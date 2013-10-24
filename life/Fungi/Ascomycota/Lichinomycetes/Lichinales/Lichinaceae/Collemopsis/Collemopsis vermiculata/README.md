@@ -1,5 +1,4 @@
-Collemopsis vermiculata Nyl. SPECIES
-=======
+# Collemopsis vermiculata Nyl. SPECIES
 
 #### Status
 ACCEPTED

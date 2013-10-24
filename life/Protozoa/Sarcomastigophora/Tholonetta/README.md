@@ -1,5 +1,4 @@
-Tholonetta Haeckel, 1887 GENUS
-=======
+# Tholonetta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

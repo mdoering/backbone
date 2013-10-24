@@ -1,5 +1,4 @@
-Chaetoceros holsaticus Schütt SPECIES
-=======
+# Chaetoceros holsaticus Schütt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorina punctulata Körb. SPECIES
-=======
+# Biatorina punctulata Körb. SPECIES
 
 #### Status
 ACCEPTED

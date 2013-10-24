@@ -1,17 +1,16 @@
-Thelenidiomyces Cif. & Tomas. GENUS
-=======
+# Thelenidia Nyl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 30, 57 (1953)
+Flora, Jena 69: 463 (1886)
 
 #### Original name
-Thelenidiomyces Cif. & Tomas.
+Thelenidia Nyl.
 
 ### Remarks
 null

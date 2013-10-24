@@ -1,5 +1,4 @@
-Microxyphiella rhamnicola (Rabenh.) Speg. SPECIES
-=======
+# Microxyphiella rhamnicola (Rabenh.) Speg. SPECIES
 
 #### Status
 ACCEPTED

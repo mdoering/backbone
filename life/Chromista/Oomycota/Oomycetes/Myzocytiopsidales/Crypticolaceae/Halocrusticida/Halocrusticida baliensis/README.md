@@ -1,5 +1,4 @@
-Halocrusticida baliensis Hatai, Roza & T. Nakay. SPECIES
-=======
+# Halocrusticida baliensis Hatai, Roza & T. Nakay. SPECIES
 
 #### Status
 ACCEPTED

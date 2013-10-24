@@ -1,5 +1,4 @@
-Rhopalocanium Ehrenberg, 1847 GENUS
-=======
+# Rhopalocanium Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

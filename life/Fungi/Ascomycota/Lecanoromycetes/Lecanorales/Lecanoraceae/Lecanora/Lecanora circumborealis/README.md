@@ -1,5 +1,4 @@
-Lecanora circumborealis Brodo & Vitik. SPECIES
-=======
+# Lecanora circumborealis Brodo & Vitik. SPECIES
 
 #### Status
 ACCEPTED

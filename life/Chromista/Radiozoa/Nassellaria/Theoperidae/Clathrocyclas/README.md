@@ -1,5 +1,4 @@
-Clathrocyclas Haeckel, 1881 GENUS
-=======
+# Clathrocyclas Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

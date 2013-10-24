@@ -1,5 +1,4 @@
-Phaeosphaeria emilii Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria emilii Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

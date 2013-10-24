@@ -1,8 +1,7 @@
-Phalacroma globulus Schütt, 1895 SPECIES
-=======
+# Heteroschisma globulus Schiller, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

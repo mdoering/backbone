@@ -1,5 +1,4 @@
-Phyllosticta phyllachoroides Sacc. SPECIES
-=======
+# Phyllosticta phyllachoroides Sacc. SPECIES
 
 #### Status
 ACCEPTED

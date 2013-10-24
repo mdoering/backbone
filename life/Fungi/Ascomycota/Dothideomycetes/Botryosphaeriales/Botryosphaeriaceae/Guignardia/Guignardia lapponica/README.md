@@ -1,5 +1,4 @@
-Guignardia lapponica Nograsek SPECIES
-=======
+# Guignardia lapponica Nograsek SPECIES
 
 #### Status
 ACCEPTED

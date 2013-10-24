@@ -1,5 +1,4 @@
-Septoria flavescens Ellis & Halst. SPECIES
-=======
+# Septoria flavescens Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma mirivelutinum J.D. Zhao, 1988 SPECIES
-=======
+# Ganoderma mirivelutinum J.D. Zhao, 1988 SPECIES
 
 #### Status
 ACCEPTED

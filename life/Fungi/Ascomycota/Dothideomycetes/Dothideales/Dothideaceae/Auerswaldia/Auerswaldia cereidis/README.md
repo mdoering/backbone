@@ -1,5 +1,4 @@
-Auerswaldia cereidis (Cooke) Theiss. & Syd. SPECIES
-=======
+# Auerswaldia cereidis (Cooke) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

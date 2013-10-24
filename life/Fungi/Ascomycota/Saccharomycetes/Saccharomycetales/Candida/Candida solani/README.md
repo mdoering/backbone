@@ -1,5 +1,4 @@
-Candida solani Lodder & Kreger-van Rij, 1952 SPECIES
-=======
+# Candida solani Lodder & Kreger-van Rij, 1952 SPECIES
 
 #### Status
 ACCEPTED

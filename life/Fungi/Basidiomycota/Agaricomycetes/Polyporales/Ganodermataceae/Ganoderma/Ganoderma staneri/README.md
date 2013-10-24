@@ -1,5 +1,4 @@
-Ganoderma staneri Steyaert SPECIES
-=======
+# Ganoderma staneri Steyaert SPECIES
 
 #### Status
 ACCEPTED

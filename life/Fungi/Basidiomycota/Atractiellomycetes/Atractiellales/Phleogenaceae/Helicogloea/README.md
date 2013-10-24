@@ -1,5 +1,4 @@
-Helicogloea Pat. GENUS
-=======
+# Helicogloea Pat. GENUS
 
 #### Status
 ACCEPTED

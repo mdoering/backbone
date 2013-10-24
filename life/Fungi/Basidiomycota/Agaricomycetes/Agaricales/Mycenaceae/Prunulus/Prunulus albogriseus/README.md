@@ -1,5 +1,4 @@
-Prunulus albogriseus (Peck) Murrill SPECIES
-=======
+# Prunulus albogriseus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

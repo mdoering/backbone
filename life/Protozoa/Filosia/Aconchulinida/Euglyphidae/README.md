@@ -1,5 +1,4 @@
-Euglyphidae FAMILY
-=======
+# Euglyphidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxine rosacea Zahlbr. SPECIES
-=======
+# Pyxine rosacea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

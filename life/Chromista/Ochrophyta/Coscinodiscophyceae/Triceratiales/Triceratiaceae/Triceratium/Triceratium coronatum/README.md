@@ -1,5 +1,4 @@
-Triceratium coronatum (O. Witt) N. I. Strelnikova SPECIES
-=======
+# Triceratium coronatum (O. Witt) N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

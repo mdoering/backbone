@@ -1,5 +1,4 @@
-Thecaphora pimpinellae Juel SPECIES
-=======
+# Thecaphora pimpinellae Juel SPECIES
 
 #### Status
 ACCEPTED

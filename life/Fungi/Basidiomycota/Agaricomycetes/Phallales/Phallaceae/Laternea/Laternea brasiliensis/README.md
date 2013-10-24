@@ -1,5 +1,4 @@
-Laternea brasiliensis (E. Fisch.) Long & Stouffer SPECIES
-=======
+# Laternea brasiliensis (E. Fisch.) Long & Stouffer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachysporium serpens P. Karst. & Har. SPECIES
-=======
+# Brachysporium serpens P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

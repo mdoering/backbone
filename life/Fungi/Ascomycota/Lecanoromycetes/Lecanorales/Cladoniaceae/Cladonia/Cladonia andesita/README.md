@@ -1,5 +1,4 @@
-Cladonia andesita Vain. SPECIES
-=======
+# Cladonia andesita Vain. SPECIES
 
 #### Status
 ACCEPTED

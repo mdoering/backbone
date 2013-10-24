@@ -1,5 +1,4 @@
-Physcia montana B. de Lesd. SPECIES
-=======
+# Physcia montana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

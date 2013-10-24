@@ -1,5 +1,4 @@
-Trichophyton apathogenicum Szathmáry SPECIES
-=======
+# Trichophyton apathogenicum Szathmáry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillaria beillii G.F. Atk. SPECIES
-=======
+# Armillaria beillii G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

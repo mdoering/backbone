@@ -1,5 +1,4 @@
-Cercidospora arctica (Fuckel) Kuntze SPECIES
-=======
+# Cercidospora arctica (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

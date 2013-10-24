@@ -1,5 +1,4 @@
-Melanaspicilia dubia SPECIES
-=======
+# Melanaspicilia dubia SPECIES
 
 #### Status
 ACCEPTED

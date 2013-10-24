@@ -1,5 +1,4 @@
-Strickeria negundinis (Ellis & Everh.) Byzova SPECIES
-=======
+# Strickeria negundinis (Ellis & Everh.) Byzova SPECIES
 
 #### Status
 ACCEPTED

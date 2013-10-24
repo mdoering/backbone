@@ -1,5 +1,4 @@
-Phakopsora commelinae Gäum. SPECIES
-=======
+# Phakopsora commelinae Gäum. SPECIES
 
 #### Status
 ACCEPTED

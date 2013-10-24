@@ -1,5 +1,4 @@
-Sphaceloma floridensis Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma floridensis Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

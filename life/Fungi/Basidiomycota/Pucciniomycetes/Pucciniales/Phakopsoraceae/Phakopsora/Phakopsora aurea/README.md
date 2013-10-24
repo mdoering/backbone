@@ -1,5 +1,4 @@
-Phakopsora aurea (Cummins) Buriticá & J.F. Hennen SPECIES
-=======
+# Phakopsora aurea (Cummins) Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zymobacter palmae Okamoto et al., 1995 SPECIES
-=======
+# Zymobacter palmae Okamoto et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

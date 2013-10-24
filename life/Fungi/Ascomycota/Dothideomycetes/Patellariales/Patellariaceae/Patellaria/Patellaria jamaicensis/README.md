@@ -1,5 +1,4 @@
-Patellaria jamaicensis Dennis SPECIES
-=======
+# Patellaria jamaicensis Dennis SPECIES
 
 #### Status
 ACCEPTED

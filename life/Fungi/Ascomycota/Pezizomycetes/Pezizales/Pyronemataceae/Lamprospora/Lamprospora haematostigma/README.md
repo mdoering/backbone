@@ -1,5 +1,4 @@
-Lamprospora haematostigma var. haematostigma VARIETY
-=======
+# Lamprospora haematostigma (Hedw.) Seaver SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lamprospora haematostigma var. haematostigma
+null
 
 ### Remarks
 null

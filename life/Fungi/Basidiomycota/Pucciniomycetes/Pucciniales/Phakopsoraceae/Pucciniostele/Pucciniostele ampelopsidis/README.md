@@ -1,5 +1,4 @@
-Pucciniostele ampelopsidis Sawada, 1942 SPECIES
-=======
+# Pucciniostele ampelopsidis Sawada, 1942 SPECIES
 
 #### Status
 ACCEPTED

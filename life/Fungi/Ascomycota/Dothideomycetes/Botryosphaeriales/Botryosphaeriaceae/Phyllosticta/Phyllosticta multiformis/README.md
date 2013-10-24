@@ -1,5 +1,4 @@
-Phyllosticta multiformis Pettinari SPECIES
-=======
+# Phyllosticta multiformis Pettinari SPECIES
 
 #### Status
 ACCEPTED

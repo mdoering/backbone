@@ -1,5 +1,4 @@
-Hendersonia australiensis Hansf. SPECIES
-=======
+# Hendersonia australiensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

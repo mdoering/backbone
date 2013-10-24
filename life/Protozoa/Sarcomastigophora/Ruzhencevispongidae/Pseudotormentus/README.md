@@ -1,5 +1,4 @@
-Pseudotormentus de Wever & Caridroit, 1984 GENUS
-=======
+# Pseudotormentus de Wever & Caridroit, 1984 GENUS
 
 #### Status
 ACCEPTED

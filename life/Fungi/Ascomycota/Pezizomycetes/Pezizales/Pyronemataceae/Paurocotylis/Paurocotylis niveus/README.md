@@ -1,5 +1,4 @@
-Paurocotylis niveus Rodway SPECIES
-=======
+# Paurocotylis niveus Rodway SPECIES
 
 #### Status
 ACCEPTED

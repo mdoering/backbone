@@ -1,5 +1,4 @@
-Diaporthe orobanches Berl., 1889 SPECIES
-=======
+# Diaporthe orobanches Berl., 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caproniella juniperi (Richon) Berl. SPECIES
-=======
+# Caproniella juniperi (Richon) Berl. SPECIES
 
 #### Status
 ACCEPTED

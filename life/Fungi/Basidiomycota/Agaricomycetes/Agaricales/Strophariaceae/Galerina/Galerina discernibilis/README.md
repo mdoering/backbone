@@ -1,5 +1,4 @@
-Galerina discernibilis Singer SPECIES
-=======
+# Galerina discernibilis Singer SPECIES
 
 #### Status
 ACCEPTED

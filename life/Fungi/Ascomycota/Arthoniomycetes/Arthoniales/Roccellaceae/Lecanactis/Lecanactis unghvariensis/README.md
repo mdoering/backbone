@@ -1,5 +1,4 @@
-Lecanactis unghvariensis f. unghvariensis FORM
-=======
+# Lecanactis unghvariensis Szatala SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanactis unghvariensis f. unghvariensis
+Lecanactis unghvariensis Szatala
 
 ### Remarks
 null

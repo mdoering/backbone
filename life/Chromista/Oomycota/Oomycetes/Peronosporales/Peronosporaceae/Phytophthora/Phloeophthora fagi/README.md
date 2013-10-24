@@ -1,5 +1,4 @@
-Phloeophthora fagi (Rosenbaum) G.W. Wilson SPECIES
-=======
+# Phloeophthora fagi (Rosenbaum) G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

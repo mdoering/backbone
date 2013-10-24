@@ -1,5 +1,4 @@
-Cortinarius pseudopimus Rob. Henry ex Rob. Henry SPECIES
-=======
+# Cortinarius pseudopimus Rob. Henry ex Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microdochium sclerotiorum Mouch. & Samson, 1973 SPECIES
-=======
+# Microdochium sclerotiorum Mouch. & Samson, 1973 SPECIES
 
 #### Status
 ACCEPTED

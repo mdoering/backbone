@@ -1,5 +1,4 @@
-Amphicoryna intercellularis SPECIES
-=======
+# Amphicoryna intercellularis SPECIES
 
 #### Status
 ACCEPTED

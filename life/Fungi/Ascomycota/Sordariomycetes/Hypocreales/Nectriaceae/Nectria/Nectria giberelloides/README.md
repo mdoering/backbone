@@ -1,5 +1,4 @@
-Nectria giberelloides (Ellis & Everh.) Sacc. SPECIES
-=======
+# Nectria giberelloides (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

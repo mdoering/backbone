@@ -1,5 +1,4 @@
-Boletus curtisii Berk. SPECIES
-=======
+# Boletus curtisii Berk. SPECIES
 
 #### Status
 ACCEPTED

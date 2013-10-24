@@ -1,5 +1,4 @@
-Meliola piperina Syd. & P. Syd. SPECIES
-=======
+# Meliola piperina Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

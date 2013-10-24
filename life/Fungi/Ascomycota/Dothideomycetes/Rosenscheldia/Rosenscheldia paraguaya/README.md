@@ -1,14 +1,13 @@
-Melogramma paraguana (Speg.) Höhn. SPECIES
-=======
+# Rosenscheldia paraguaya Speg., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anal. Soc. cient. argent. 19: (1885)
 
 #### Original name
 Rosenscheldia paraguaya Speg., 1885

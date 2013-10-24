@@ -1,5 +1,4 @@
-Hormodendrum microsporum Lagerb. & Melin SPECIES
-=======
+# Hormodendrum microsporum Lagerb. & Melin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza pseudoviolacea Donadini, 1979 SPECIES
-=======
+# Peziza pseudoviolacea Donadini, 1979 SPECIES
 
 #### Status
 ACCEPTED

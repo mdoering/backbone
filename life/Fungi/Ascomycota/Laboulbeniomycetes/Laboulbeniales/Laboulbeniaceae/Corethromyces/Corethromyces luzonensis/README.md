@@ -1,5 +1,4 @@
-Corethromyces luzonensis Thaxt. SPECIES
-=======
+# Corethromyces luzonensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

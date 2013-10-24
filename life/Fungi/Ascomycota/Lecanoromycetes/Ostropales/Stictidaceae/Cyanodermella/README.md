@@ -1,17 +1,16 @@
-Cyanoderma Höhn. GENUS
-=======
+# Cyanodermella O.E. Erikss. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 128: 561 (1919)
+Op. bot. 60: 155 (1981)
 
 #### Original name
-Cyanoderma Höhn.
+Cyanodermella O.E. Erikss.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Lecidea aeneofusca Flörke ex Flot. SPECIES
-=======
+# Trapeliopsis aeneofusca (Flörke ex Flot.) Coppins & P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 11: 635 (1828)
+Lichenologist 16(3): 258 (1984)
 
 #### Original name
 Lecidea aeneofusca Flörke ex Flot.

@@ -1,17 +1,16 @@
-Diaporthe viburni var. viburni VARIETY
-=======
+# Diaporthe viburni Dearn. & Bisby, 1929 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hainesia viburni 76 (1929)
+in Bisby, Buller & Dearness, Hainesia viburni 76 (1929)
 
 #### Original name
-Diaporthe viburni var. viburni
+Diaporthe viburni Dearn. & Bisby, 1929
 
 ### Remarks
 null

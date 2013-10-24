@@ -1,5 +1,4 @@
-Pyrsonema J.Leidy GENUS
-=======
+# Pyrsonema J.Leidy GENUS
 
 #### Status
 ACCEPTED

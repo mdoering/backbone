@@ -1,5 +1,4 @@
-Metasphaeria scirpi f. scirpi FORM
-=======
+# Metasphaeria scirpi Berl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Metasphaeria scirpi f. scirpi
+Metasphaeria scirpi Berl.
 
 ### Remarks
 null

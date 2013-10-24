@@ -1,5 +1,4 @@
-Phomopsis lavaterae (Westend.) Died. SPECIES
-=======
+# Phomopsis lavaterae (Westend.) Died. SPECIES
 
 #### Status
 ACCEPTED

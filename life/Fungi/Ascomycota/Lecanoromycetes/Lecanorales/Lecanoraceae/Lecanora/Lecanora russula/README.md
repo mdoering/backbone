@@ -1,5 +1,4 @@
-Lecanora russula Ach. SPECIES
-=======
+# Lecanora russula Ach. SPECIES
 
 #### Status
 ACCEPTED

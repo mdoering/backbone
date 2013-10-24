@@ -1,5 +1,4 @@
-Lecanora areolata H. Magn. SPECIES
-=======
+# Lecanora areolata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

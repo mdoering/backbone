@@ -1,5 +1,4 @@
-Jarmania tristis Kantvilas SPECIES
-=======
+# Jarmania tristis Kantvilas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Starobogatovella Mikhalevich, 1994 GENUS
-=======
+# Starobogatovella Mikhalevich, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpon laciniatum Bagl. & Carestia SPECIES
-=======
+# Endocarpon laciniatum Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

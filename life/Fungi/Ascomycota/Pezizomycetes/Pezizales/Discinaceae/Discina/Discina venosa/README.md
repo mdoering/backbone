@@ -1,5 +1,4 @@
-Discina venosa SPECIES
-=======
+# Discina venosa SPECIES
 
 #### Status
 ACCEPTED

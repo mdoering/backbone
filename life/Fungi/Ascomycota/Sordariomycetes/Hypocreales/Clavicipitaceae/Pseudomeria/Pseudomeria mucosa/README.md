@@ -1,5 +1,4 @@
-Pseudomeria mucosa G.L. Barron, 1980 SPECIES
-=======
+# Pseudomeria mucosa G.L. Barron, 1980 SPECIES
 
 #### Status
 ACCEPTED

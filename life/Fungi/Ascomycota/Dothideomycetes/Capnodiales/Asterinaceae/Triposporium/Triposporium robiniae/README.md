@@ -1,5 +1,4 @@
-Triposporium robiniae Tschern. SPECIES
-=======
+# Triposporium robiniae Tschern. SPECIES
 
 #### Status
 ACCEPTED

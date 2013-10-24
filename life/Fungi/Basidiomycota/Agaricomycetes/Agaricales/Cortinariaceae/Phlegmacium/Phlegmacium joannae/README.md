@@ -1,5 +1,4 @@
-Phlegmacium joannae (Rob. Henry) M.M. Moser SPECIES
-=======
+# Phlegmacium joannae (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

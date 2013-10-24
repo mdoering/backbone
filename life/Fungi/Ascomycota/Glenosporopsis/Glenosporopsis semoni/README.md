@@ -1,5 +1,4 @@
-Glenosporopsis semoni (Chalm. & R.G. Archibald) Fonseca SPECIES
-=======
+# Glenosporopsis semoni (Chalm. & R.G. Archibald) Fonseca SPECIES
 
 #### Status
 ACCEPTED

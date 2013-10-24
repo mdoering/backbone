@@ -1,5 +1,4 @@
-Candida pseudolambica M.T. Sm. & Poot, 1989 SPECIES
-=======
+# Candida pseudolambica M.T. Sm. & Poot, 1989 SPECIES
 
 #### Status
 ACCEPTED

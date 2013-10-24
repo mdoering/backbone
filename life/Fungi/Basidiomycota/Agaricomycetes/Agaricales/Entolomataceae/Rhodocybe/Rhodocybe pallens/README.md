@@ -1,5 +1,4 @@
-Rhodocybe pallens E. Horak SPECIES
-=======
+# Rhodocybe pallens E. Horak SPECIES
 
 #### Status
 ACCEPTED

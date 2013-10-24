@@ -1,5 +1,4 @@
-Globimorphina GENUS
-=======
+# Globimorphina GENUS
 
 #### Status
 ACCEPTED

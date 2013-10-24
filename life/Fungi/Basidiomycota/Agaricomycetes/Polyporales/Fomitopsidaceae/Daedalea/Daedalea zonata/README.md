@@ -1,5 +1,4 @@
-Daedalea zonata Schwein. SPECIES
-=======
+# Daedalea zonata Schwein. SPECIES
 
 #### Status
 ACCEPTED

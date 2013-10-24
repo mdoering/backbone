@@ -1,5 +1,4 @@
-Paracoccus halodenitrificans (Robinson & Gibbons, 1952) Davis, 1969 SPECIES
-=======
+# Paracoccus halodenitrificans (Robinson & Gibbons, 1952) Davis, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogidium intricatulum (Nyl.) Nyl. SPECIES
-=======
+# Leptogidium intricatulum (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

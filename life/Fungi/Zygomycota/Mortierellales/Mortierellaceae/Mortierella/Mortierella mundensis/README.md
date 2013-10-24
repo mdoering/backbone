@@ -1,5 +1,4 @@
-Mortierella mundensis Linnem. SPECIES
-=======
+# Mortierella mundensis Linnem. SPECIES
 
 #### Status
 ACCEPTED

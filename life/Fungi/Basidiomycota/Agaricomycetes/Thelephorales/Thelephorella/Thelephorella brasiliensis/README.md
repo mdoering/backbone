@@ -1,14 +1,13 @@
-Thelephora brasiliensis (P. Karst.) Sacc., 1891 SPECIES
-=======
+# Thelephorella brasiliensis P. Karst., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 9: 220 (1891)
+Hedwigia 28: 191 (1889)
 
 #### Original name
 Thelephorella brasiliensis P. Karst., 1889

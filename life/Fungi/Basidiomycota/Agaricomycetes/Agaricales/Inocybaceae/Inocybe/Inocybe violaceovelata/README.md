@@ -1,5 +1,4 @@
-Inocybe violaceovelata E. Horak SPECIES
-=======
+# Inocybe violaceovelata E. Horak SPECIES
 
 #### Status
 ACCEPTED

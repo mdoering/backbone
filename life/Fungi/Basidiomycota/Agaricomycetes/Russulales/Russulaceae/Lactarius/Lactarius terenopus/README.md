@@ -1,5 +1,4 @@
-Lactarius terenopus Romagn. SPECIES
-=======
+# Lactarius terenopus Romagn. SPECIES
 
 #### Status
 ACCEPTED

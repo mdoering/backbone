@@ -1,5 +1,4 @@
-Arthonia coronata Etayo SPECIES
-=======
+# Arthonia coronata Etayo SPECIES
 
 #### Status
 ACCEPTED

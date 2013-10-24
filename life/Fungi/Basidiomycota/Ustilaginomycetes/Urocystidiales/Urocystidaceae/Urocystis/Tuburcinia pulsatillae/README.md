@@ -1,5 +1,4 @@
-Tuburcinia pulsatillae Liro SPECIES
-=======
+# Tuburcinia pulsatillae Liro SPECIES
 
 #### Status
 ACCEPTED

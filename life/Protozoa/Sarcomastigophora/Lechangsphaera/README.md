@@ -1,5 +1,4 @@
-Lechangsphaera Lin, 1981 GENUS
-=======
+# Lechangsphaera Lin, 1981 GENUS
 
 #### Status
 ACCEPTED

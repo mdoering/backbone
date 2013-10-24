@@ -1,5 +1,4 @@
-Coniothecium anisosporum Mont. SPECIES
-=======
+# Coniothecium anisosporum Mont. SPECIES
 
 #### Status
 ACCEPTED

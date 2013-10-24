@@ -1,5 +1,4 @@
-Tracheloraphis oligocineta Raikov & Kovaleva, 1968 SPECIES
-=======
+# Tracheloraphis oligocineta Raikov & Kovaleva, 1968 SPECIES
 
 #### Status
 ACCEPTED

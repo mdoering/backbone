@@ -1,5 +1,4 @@
-Tricholoma salero Barla SPECIES
-=======
+# Tricholoma salero Barla SPECIES
 
 #### Status
 ACCEPTED

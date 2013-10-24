@@ -1,5 +1,4 @@
-Sclerotites pustulifer (Heer) Mesch. SPECIES
-=======
+# Sclerotites pustulifer (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis octophora Nyl. SPECIES
-=======
+# Graphis octophora Nyl. SPECIES
 
 #### Status
 ACCEPTED

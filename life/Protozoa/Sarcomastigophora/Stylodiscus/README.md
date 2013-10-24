@@ -1,5 +1,4 @@
-Stylodiscus Haeckel, 1887 GENUS
-=======
+# Stylodiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cacumisporium spooneri P.M. Kirk, 1992 SPECIES
-=======
+# Cacumisporium spooneri P.M. Kirk, 1992 SPECIES
 
 #### Status
 ACCEPTED

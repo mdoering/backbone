@@ -1,5 +1,4 @@
-Aulotortus Weynschenck, 1956 GENUS
-=======
+# Aulotortus Weynschenck, 1956 GENUS
 
 #### Status
 ACCEPTED

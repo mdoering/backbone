@@ -1,5 +1,4 @@
-Perispyridium serratum SPECIES
-=======
+# Perispyridium serratum SPECIES
 
 #### Status
 ACCEPTED

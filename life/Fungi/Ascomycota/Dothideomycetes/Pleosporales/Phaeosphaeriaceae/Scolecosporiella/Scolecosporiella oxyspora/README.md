@@ -1,5 +1,4 @@
-Scolecosporiella oxyspora (E. Bommer, M. Rousseau & Sacc.) B. Sutton SPECIES
-=======
+# Scolecosporiella oxyspora (E. Bommer, M. Rousseau & Sacc.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

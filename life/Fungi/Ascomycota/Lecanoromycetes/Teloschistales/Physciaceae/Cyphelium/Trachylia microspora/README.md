@@ -1,5 +1,4 @@
-Trachylia microspora (B. de Lesd.) Harm. SPECIES
-=======
+# Trachylia microspora (B. de Lesd.) Harm. SPECIES
 
 #### Status
 ACCEPTED

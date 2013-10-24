@@ -1,17 +1,16 @@
-Daedalea mollis var. mollis VARIETY
-=======
+# Leptoporus mollis (Pers.) Quél., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Enchir. fung. (Paris) 175 (1886)
 
 #### Original name
-null
+Boletus mollis Cleland, 1935
 
 ### Remarks
 null

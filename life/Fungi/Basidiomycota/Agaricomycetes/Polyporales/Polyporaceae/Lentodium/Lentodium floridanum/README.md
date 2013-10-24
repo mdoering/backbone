@@ -1,5 +1,4 @@
-Lentodium floridanum Murrill SPECIES
-=======
+# Lentodium floridanum Murrill SPECIES
 
 #### Status
 ACCEPTED

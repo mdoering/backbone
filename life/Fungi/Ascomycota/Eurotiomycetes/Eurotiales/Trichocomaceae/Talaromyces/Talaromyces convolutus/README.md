@@ -1,5 +1,4 @@
-Talaromyces convolutus Udagawa, 1993 SPECIES
-=======
+# Talaromyces convolutus Udagawa, 1993 SPECIES
 
 #### Status
 ACCEPTED

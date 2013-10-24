@@ -1,5 +1,4 @@
-Collybia solitaria Singer SPECIES
-=======
+# Collybia solitaria Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalasterina Speg. GENUS
-=======
+# Hyalasterina Speg. GENUS
 
 #### Status
 ACCEPTED

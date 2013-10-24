@@ -1,5 +1,4 @@
-Tintinnus palliatus SPECIES
-=======
+# Tintinnus palliatus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Varicellariomyces rhodocarpae Cif. & Tomas. SPECIES
-=======
+# Varicellariomyces rhodocarpae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

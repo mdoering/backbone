@@ -1,5 +1,4 @@
-Rhizopogon parksii A.H. Sm., 1966 SPECIES
-=======
+# Rhizopogon parksii A.H. Sm., 1966 SPECIES
 
 #### Status
 ACCEPTED

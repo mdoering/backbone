@@ -1,5 +1,4 @@
-Cercospora blumeae-oxydontae Pavgi & R.A. Singh SPECIES
-=======
+# Cercospora blumeae-oxydontae Pavgi & R.A. Singh SPECIES
 
 #### Status
 ACCEPTED

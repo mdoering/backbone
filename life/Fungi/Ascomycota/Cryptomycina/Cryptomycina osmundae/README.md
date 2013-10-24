@@ -1,5 +1,4 @@
-Cryptomycina osmundae Syd., 1923 SPECIES
-=======
+# Cryptomycina osmundae Syd., 1923 SPECIES
 
 #### Status
 ACCEPTED

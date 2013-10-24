@@ -1,5 +1,4 @@
-Cortinarius sphaerosporus Peck SPECIES
-=======
+# Cortinarius sphaerosporus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discophrya spatulata SPECIES
-=======
+# Discophrya spatulata SPECIES
 
 #### Status
 ACCEPTED

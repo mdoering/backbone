@@ -1,5 +1,4 @@
-Corticium peroxydatum Berk. & Broome SPECIES
-=======
+# Corticium peroxydatum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

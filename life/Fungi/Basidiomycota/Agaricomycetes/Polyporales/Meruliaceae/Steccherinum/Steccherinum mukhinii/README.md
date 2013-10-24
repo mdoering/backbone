@@ -1,5 +1,4 @@
-Steccherinum mukhinii Kotir. & Y.C. Dai SPECIES
-=======
+# Steccherinum mukhinii Kotir. & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

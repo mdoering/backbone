@@ -1,5 +1,4 @@
-Phyllosticta umbellatarum Rabenh. SPECIES
-=======
+# Phyllosticta umbellatarum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

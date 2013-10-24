@@ -1,5 +1,4 @@
-Buellia lycopodina (Mont.) Zahlbr. SPECIES
-=======
+# Buellia lycopodina (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

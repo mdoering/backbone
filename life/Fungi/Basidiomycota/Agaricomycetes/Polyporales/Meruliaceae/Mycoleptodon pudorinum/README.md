@@ -1,5 +1,4 @@
-Mycoleptodon pudorinum SPECIES
-=======
+# Mycoleptodon pudorinum SPECIES
 
 #### Status
 ACCEPTED

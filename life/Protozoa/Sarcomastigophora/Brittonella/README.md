@@ -1,5 +1,4 @@
-Brittonella Kortchagin in Korchagin, 1989 GENUS
-=======
+# Brittonella Kortchagin in Korchagin, 1989 GENUS
 
 #### Status
 ACCEPTED

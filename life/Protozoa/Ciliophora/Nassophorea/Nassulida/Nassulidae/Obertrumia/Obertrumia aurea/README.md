@@ -1,8 +1,7 @@
-Leucophra aurea Müller, 1786 SPECIES
-=======
+# Obertrumia aurea (Ehrenberg, 1834) Foissner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

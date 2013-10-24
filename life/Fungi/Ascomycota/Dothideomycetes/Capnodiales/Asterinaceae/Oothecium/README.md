@@ -1,5 +1,4 @@
-Oothecium GENUS
-=======
+# Oothecium GENUS
 
 #### Status
 ACCEPTED

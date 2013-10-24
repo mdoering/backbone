@@ -1,5 +1,4 @@
-Trochodium sampathense Thirum. SPECIES
-=======
+# Trochodium sampathense Thirum. SPECIES
 
 #### Status
 ACCEPTED

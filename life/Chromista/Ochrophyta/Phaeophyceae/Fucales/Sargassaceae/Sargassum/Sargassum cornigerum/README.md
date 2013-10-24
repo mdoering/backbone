@@ -1,5 +1,4 @@
-Sargassum cornigerum Sonder SPECIES
-=======
+# Sargassum cornigerum Sonder SPECIES
 
 #### Status
 ACCEPTED

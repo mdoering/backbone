@@ -1,5 +1,4 @@
-Mitochytridium regale Hassan, 1986 SPECIES
-=======
+# Mitochytridium regale Hassan, 1986 SPECIES
 
 #### Status
 ACCEPTED

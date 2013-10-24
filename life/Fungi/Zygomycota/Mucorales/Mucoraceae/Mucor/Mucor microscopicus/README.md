@@ -1,5 +1,4 @@
-Mucor microscopicus Tode SPECIES
-=======
+# Mucor microscopicus Tode SPECIES
 
 #### Status
 ACCEPTED

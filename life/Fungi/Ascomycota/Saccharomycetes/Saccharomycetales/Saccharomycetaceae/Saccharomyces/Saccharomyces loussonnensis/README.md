@@ -1,5 +1,4 @@
-Saccharomyces loussonnensis Castan SPECIES
-=======
+# Saccharomyces loussonnensis Castan SPECIES
 
 #### Status
 ACCEPTED

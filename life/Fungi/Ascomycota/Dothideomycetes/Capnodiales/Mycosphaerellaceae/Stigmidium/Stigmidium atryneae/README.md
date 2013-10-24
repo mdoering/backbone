@@ -1,5 +1,4 @@
-Stigmidium atryneae (Arnold) Hafellner SPECIES
-=======
+# Stigmidium atryneae (Arnold) Hafellner SPECIES
 
 #### Status
 ACCEPTED

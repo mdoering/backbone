@@ -1,14 +1,13 @@
-Sphaerophorus patagonicus (C. W. Dodge) Ohlsson SPECIES
-=======
+# Bunodophoron patagonicum (C. W. Dodge) Wedin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revision of the lichen genus Sphaerophorus (Michigan) 175 (1974)
+Pl. Syst. Evol. 187(1-4): 234 (1993)
 
 #### Original name
 Pleurocybe patagonica C.W. Dodge

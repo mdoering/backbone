@@ -1,5 +1,4 @@
-Phialophora simplex D. Hawksw. & W. Gams SPECIES
-=======
+# Phialophora simplex D. Hawksw. & W. Gams SPECIES
 
 #### Status
 ACCEPTED

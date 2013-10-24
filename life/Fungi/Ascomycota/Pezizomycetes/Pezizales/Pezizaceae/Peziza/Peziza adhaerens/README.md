@@ -1,5 +1,4 @@
-Peziza adhaerens Wallr. SPECIES
-=======
+# Peziza adhaerens Wallr. SPECIES
 
 #### Status
 ACCEPTED

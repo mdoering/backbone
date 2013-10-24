@@ -1,5 +1,4 @@
-Mycocentrospora mitragynae (Pavgi, U.P. Singh & Deighton) Deighton SPECIES
-=======
+# Mycocentrospora mitragynae (Pavgi, U.P. Singh & Deighton) Deighton SPECIES
 
 #### Status
 ACCEPTED

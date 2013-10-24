@@ -1,5 +1,4 @@
-Inopilus speciosus (Romagn.) Pegler SPECIES
-=======
+# Inopilus speciosus (Romagn.) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus xerophyticus Singer SPECIES
-=======
+# Marasmiellus xerophyticus Singer SPECIES
 
 #### Status
 ACCEPTED

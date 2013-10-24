@@ -1,5 +1,4 @@
-Botryosphaeria juglandina De Not. SPECIES
-=======
+# Botryosphaeria juglandina De Not. SPECIES
 
 #### Status
 ACCEPTED

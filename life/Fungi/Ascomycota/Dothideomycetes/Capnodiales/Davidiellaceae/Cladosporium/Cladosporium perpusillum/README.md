@@ -1,5 +1,4 @@
-Cladosporium perpusillum Sacc. SPECIES
-=======
+# Cladosporium perpusillum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium maydis Thüm. SPECIES
-=======
+# Sporidesmium maydis Thüm. SPECIES
 
 #### Status
 ACCEPTED

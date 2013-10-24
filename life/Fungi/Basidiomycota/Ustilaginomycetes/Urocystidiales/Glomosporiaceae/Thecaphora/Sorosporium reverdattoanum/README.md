@@ -1,5 +1,4 @@
-Sorosporium reverdattoanum Lavrov SPECIES
-=======
+# Sorosporium reverdattoanum Lavrov SPECIES
 
 #### Status
 ACCEPTED

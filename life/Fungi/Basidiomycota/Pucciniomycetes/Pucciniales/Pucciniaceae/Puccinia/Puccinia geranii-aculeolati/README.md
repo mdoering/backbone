@@ -1,5 +1,4 @@
-Puccinia geranii-aculeolati Petr. SPECIES
-=======
+# Puccinia geranii-aculeolati Petr. SPECIES
 
 #### Status
 ACCEPTED

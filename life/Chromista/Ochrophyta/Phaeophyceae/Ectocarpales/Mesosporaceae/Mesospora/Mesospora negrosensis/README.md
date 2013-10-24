@@ -1,5 +1,4 @@
-Mesospora negrosensis J.A. West & H.L. Calumpong SPECIES
-=======
+# Mesospora negrosensis J.A. West & H.L. Calumpong SPECIES
 
 #### Status
 ACCEPTED

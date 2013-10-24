@@ -1,5 +1,4 @@
-Sphaerophorus taiwanensis Wang {?}, Yang {?} & M.J. Lai SPECIES
-=======
+# Sphaerophorus taiwanensis Wang {?}, Yang {?} & M.J. Lai SPECIES
 
 #### Status
 ACCEPTED

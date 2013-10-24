@@ -1,5 +1,4 @@
-Myriococcum everhartii Sacc. & Ellis SPECIES
-=======
+# Myriococcum everhartii Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

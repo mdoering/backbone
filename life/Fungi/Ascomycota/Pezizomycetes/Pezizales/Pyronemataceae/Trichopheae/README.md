@@ -1,5 +1,4 @@
-Trichopheae GENUS
-=======
+# Trichopheae GENUS
 
 #### Status
 ACCEPTED

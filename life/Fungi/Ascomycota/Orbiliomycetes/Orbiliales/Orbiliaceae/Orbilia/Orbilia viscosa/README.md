@@ -1,5 +1,4 @@
-Orbilia viscosa anon. SPECIES
-=======
+# Orbilia viscosa anon. SPECIES
 
 #### Status
 ACCEPTED

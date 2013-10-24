@@ -1,5 +1,4 @@
-Scolecobasidium tricladiatum Matsush. SPECIES
-=======
+# Scolecobasidium tricladiatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

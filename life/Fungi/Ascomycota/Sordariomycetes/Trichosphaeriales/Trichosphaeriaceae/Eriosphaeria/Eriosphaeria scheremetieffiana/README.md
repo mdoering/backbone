@@ -1,5 +1,4 @@
-Eriosphaeria scheremetieffiana Henn. SPECIES
-=======
+# Eriosphaeria scheremetieffiana Henn. SPECIES
 
 #### Status
 ACCEPTED

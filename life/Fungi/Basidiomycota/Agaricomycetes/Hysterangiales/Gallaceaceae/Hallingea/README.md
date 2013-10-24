@@ -1,5 +1,4 @@
-Hallingea Castellano GENUS
-=======
+# Hallingea Castellano GENUS
 
 #### Status
 ACCEPTED

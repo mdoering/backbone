@@ -1,17 +1,16 @@
-Diplonaevia heliocospora Nannf. SPECIES
-=======
+# Diplonaevia helicospora Nannf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nordic Jl Bot. 4(6): 810 (1985)
 
 #### Original name
-Diplonaevia heliocospora Nannf.
+Diplonaevia helicospora Nannf.
 
 ### Remarks
 null

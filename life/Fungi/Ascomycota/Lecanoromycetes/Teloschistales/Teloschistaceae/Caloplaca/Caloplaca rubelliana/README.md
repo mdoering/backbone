@@ -1,5 +1,4 @@
-Caloplaca rubelliana (Ach.) Lojka SPECIES
-=======
+# Caloplaca rubelliana (Ach.) Lojka SPECIES
 
 #### Status
 ACCEPTED

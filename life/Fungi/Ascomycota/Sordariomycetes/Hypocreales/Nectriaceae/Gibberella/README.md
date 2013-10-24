@@ -1,5 +1,4 @@
-Gibberella Saccardo, 1877 GENUS
-=======
+# Gibberella Saccardo, 1877 GENUS
 
 #### Status
 ACCEPTED

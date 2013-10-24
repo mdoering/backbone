@@ -1,5 +1,4 @@
-Cordyceps takaomontana Yakush. & Kumaz. SPECIES
-=======
+# Cordyceps takaomontana Yakush. & Kumaz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoblastus plithoricus Norman SPECIES
-=======
+# Mycoblastus plithoricus Norman SPECIES
 
 #### Status
 ACCEPTED

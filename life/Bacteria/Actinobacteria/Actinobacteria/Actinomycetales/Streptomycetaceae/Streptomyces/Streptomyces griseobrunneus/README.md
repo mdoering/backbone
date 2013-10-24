@@ -1,5 +1,4 @@
-Streptomyces griseobrunneus Waksman, 1961 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces griseobrunneus Waksman, 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

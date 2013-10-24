@@ -1,5 +1,4 @@
-Dendrogaster piriformis G. Cunn. SPECIES
-=======
+# Dendrogaster piriformis G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

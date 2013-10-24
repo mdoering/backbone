@@ -1,17 +1,16 @@
-Microstroma ingaecola Lamkey SPECIES
-=======
+# Microstroma ingaicola Lamkey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Stevens, Mycologia 12(1): 52 (1920)
 
 #### Original name
-Microstroma ingaecola Lamkey
+Microstroma ingaicola Lamkey
 
 ### Remarks
 null

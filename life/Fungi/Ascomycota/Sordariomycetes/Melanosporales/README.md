@@ -1,5 +1,4 @@
-Melanosporales N. Zhang & M. Blackw. ORDER
-=======
+# Melanosporales N. Zhang & M. Blackw. ORDER
 
 #### Status
 ACCEPTED

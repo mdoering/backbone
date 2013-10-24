@@ -1,5 +1,4 @@
-Coelomomyces sculptosporus Couch & H.R. Dodge SPECIES
-=======
+# Coelomomyces sculptosporus Couch & H.R. Dodge SPECIES
 
 #### Status
 ACCEPTED

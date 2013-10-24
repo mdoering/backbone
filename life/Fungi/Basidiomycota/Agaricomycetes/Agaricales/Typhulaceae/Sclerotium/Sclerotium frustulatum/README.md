@@ -1,5 +1,4 @@
-Sclerotium frustulatum Schwein. SPECIES
-=======
+# Sclerotium frustulatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea caespitia Motyka SPECIES
-=======
+# Usnea caespitia Motyka SPECIES
 
 #### Status
 ACCEPTED

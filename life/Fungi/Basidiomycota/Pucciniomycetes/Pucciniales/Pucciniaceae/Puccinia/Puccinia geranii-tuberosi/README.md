@@ -1,5 +1,4 @@
-Puccinia geranii-tuberosi Petr. SPECIES
-=======
+# Puccinia geranii-tuberosi Petr. SPECIES
 
 #### Status
 ACCEPTED

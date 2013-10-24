@@ -1,5 +1,4 @@
-Sporidesmium cantonense (Sacc.) Subram. SPECIES
-=======
+# Sporidesmium cantonense (Sacc.) Subram. SPECIES
 
 #### Status
 ACCEPTED

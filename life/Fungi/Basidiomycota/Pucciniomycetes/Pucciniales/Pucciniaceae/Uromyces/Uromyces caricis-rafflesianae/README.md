@@ -1,5 +1,4 @@
-Uromyces caricis-rafflesianae Mayor SPECIES
-=======
+# Uromyces caricis-rafflesianae Mayor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bryonectria tricellularis Döbbeler SPECIES
-=======
+# Bryonectria tricellularis Döbbeler SPECIES
 
 #### Status
 ACCEPTED

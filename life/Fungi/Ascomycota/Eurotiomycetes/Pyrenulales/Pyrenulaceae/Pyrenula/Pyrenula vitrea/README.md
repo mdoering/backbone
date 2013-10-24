@@ -1,5 +1,4 @@
-Pyrenula vitrea (Eschw.) Müll. Arg. SPECIES
-=======
+# Pyrenula vitrea (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paranthostomella cantacuzinoi Savul. SPECIES
-=======
+# Paranthostomella cantacuzinoi Savul. SPECIES
 
 #### Status
 ACCEPTED

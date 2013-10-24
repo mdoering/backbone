@@ -1,5 +1,4 @@
-Penicillium roseomaculatum Biourge SPECIES
-=======
+# Penicillium roseomaculatum Biourge SPECIES
 
 #### Status
 ACCEPTED

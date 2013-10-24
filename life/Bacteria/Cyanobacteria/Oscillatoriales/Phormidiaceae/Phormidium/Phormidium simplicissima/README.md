@@ -1,5 +1,4 @@
-Phormidium simplicissima (Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Phormidium simplicissima (Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

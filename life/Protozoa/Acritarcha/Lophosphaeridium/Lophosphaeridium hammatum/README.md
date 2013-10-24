@@ -1,5 +1,4 @@
-Lophosphaeridium hammatum Gao Lianda, 1983 SPECIES
-=======
+# Lophosphaeridium hammatum Gao Lianda, 1983 SPECIES
 
 #### Status
 ACCEPTED

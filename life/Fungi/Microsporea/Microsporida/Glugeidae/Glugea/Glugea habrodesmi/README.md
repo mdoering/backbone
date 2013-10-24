@@ -1,5 +1,4 @@
-Glugea habrodesmi SPECIES
-=======
+# Glugea habrodesmi SPECIES
 
 #### Status
 ACCEPTED

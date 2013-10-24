@@ -1,5 +1,4 @@
-Dinenympha Leidy, 1877 GENUS
-=======
+# Dinenympha Leidy, 1877 GENUS
 
 #### Status
 ACCEPTED

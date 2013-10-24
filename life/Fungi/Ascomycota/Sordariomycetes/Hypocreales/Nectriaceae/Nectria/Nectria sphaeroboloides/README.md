@@ -1,5 +1,4 @@
-Nectria sphaeroboloides Starbäck SPECIES
-=======
+# Nectria sphaeroboloides Starbäck SPECIES
 
 #### Status
 ACCEPTED

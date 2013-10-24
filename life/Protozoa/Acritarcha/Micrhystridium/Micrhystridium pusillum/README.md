@@ -1,5 +1,4 @@
-Micrhystridium pusillum Naumova, 1968 SPECIES
-=======
+# Micrhystridium pusillum Naumova, 1968 SPECIES
 
 #### Status
 ACCEPTED

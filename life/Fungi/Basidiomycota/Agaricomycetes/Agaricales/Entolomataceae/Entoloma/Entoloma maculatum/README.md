@@ -1,5 +1,4 @@
-Entoloma maculatum Hesler SPECIES
-=======
+# Entoloma maculatum Hesler SPECIES
 
 #### Status
 ACCEPTED

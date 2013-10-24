@@ -1,5 +1,4 @@
-Massaria bicolor Jacz. SPECIES
-=======
+# Massaria bicolor Jacz. SPECIES
 
 #### Status
 ACCEPTED

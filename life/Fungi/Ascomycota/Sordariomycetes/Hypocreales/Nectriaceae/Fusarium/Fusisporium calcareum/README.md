@@ -1,5 +1,4 @@
-Fusisporium calcareum Thüm. SPECIES
-=======
+# Fusisporium calcareum Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplocaulus claudicans (Penard, 1922) Stiller, 1971 SPECIES
-=======
+# Haplocaulus claudicans (Penard, 1922) Stiller, 1971 SPECIES
 
 #### Status
 ACCEPTED

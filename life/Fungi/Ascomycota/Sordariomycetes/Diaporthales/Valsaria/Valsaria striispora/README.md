@@ -1,5 +1,4 @@
-Valsaria striispora Saccas SPECIES
-=======
+# Valsaria striispora Saccas SPECIES
 
 #### Status
 ACCEPTED

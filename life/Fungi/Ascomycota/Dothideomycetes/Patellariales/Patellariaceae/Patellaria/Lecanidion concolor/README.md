@@ -1,5 +1,4 @@
-Lecanidion concolor (Fr. & Hoffm.) Sacc. SPECIES
-=======
+# Lecanidion concolor (Fr. & Hoffm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

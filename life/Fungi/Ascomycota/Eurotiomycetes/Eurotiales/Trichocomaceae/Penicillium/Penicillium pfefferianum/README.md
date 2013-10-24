@@ -1,5 +1,4 @@
-Penicillium pfefferianum (Wehmer) Biourge SPECIES
-=======
+# Penicillium pfefferianum (Wehmer) Biourge SPECIES
 
 #### Status
 ACCEPTED

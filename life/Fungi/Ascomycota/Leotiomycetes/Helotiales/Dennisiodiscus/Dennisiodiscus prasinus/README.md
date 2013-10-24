@@ -1,14 +1,13 @@
-Trichodiscus prasinus (Quél.) Kirschst., 1924 SPECIES
-=======
+# Dennisiodiscus prasinus (Quél.) Svrcek, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. bot. Ver. Prov. Brandenb. 66: 26 (1924)
+Ceská Mykol. 30: 9 (1976)
 
 #### Original name
 Lachnella prasina Quél., 1880

@@ -1,5 +1,4 @@
-Parasigalia Soto-Jaramillo, 1989 GENUS
-=======
+# Parasigalia Soto-Jaramillo, 1989 GENUS
 
 #### Status
 ACCEPTED

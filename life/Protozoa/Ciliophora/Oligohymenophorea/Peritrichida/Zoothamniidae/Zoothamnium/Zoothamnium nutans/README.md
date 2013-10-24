@@ -1,5 +1,4 @@
-Zoothamnium nutans Claparède & Lachmann, 1858 SPECIES
-=======
+# Zoothamnium nutans Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

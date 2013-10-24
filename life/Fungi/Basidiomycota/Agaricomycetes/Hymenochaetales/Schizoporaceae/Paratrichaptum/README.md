@@ -1,5 +1,4 @@
-Paratrichaptum Corner GENUS
-=======
+# Paratrichaptum Corner GENUS
 
 #### Status
 ACCEPTED

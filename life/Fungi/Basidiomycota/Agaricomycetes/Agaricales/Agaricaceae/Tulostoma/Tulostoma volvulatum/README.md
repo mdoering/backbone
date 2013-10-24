@@ -1,5 +1,4 @@
-Tulostoma volvulatum f. volvulatum I.G. Borshch. FORM
-=======
+# Tulostoma volvulatum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 3: 24 (1881)
 
 #### Original name
-Tulostoma volvulatum f. volvulatum I.G. Borshch.
+Tulostoma volvulatum Kalchbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cytospora rhois-hirtae Nutt. SPECIES
-=======
+# Cytospora rhois-hirtae Nutt. SPECIES
 
 #### Status
 ACCEPTED

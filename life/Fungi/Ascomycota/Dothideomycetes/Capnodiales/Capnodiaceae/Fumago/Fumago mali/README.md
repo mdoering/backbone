@@ -1,5 +1,4 @@
-Fumago mali Pers. SPECIES
-=======
+# Fumago mali Pers. SPECIES
 
 #### Status
 ACCEPTED

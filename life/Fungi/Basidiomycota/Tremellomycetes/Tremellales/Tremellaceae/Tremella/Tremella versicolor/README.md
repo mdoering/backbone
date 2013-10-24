@@ -1,5 +1,4 @@
-Tremella versicolor Berk., 1854 SPECIES
-=======
+# Tremella versicolor Berk., 1854 SPECIES
 
 #### Status
 ACCEPTED

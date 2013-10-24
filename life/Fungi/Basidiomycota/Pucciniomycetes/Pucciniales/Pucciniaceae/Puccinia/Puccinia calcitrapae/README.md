@@ -1,17 +1,16 @@
-Puccinia carduorum f. sp FORM
-=======
+# Puccinia calcitrapae DC., 1805 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Anon, Plantae Graecenses 8: 18 (1989)
+in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 221 (1805)
 
 #### Original name
-Puccinia carduorum f. sp
+Puccinia calcitrapae DC., 1805
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Erysiphe carpinicola (Hara) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe carpinicola (Hara) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

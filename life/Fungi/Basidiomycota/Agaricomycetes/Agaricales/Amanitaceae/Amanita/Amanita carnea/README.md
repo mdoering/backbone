@@ -1,5 +1,4 @@
-Amanita carnea Lam. SPECIES
-=======
+# Amanita carnea Lam. SPECIES
 
 #### Status
 ACCEPTED

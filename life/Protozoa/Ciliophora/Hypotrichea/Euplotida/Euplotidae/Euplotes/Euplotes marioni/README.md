@@ -1,5 +1,4 @@
-Euplotes marioni Gourret & Roeser, 1886 SPECIES
-=======
+# Euplotes marioni Gourret & Roeser, 1886 SPECIES
 
 #### Status
 ACCEPTED

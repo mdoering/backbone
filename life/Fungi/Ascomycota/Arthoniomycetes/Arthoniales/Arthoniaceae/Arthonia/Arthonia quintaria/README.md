@@ -1,5 +1,4 @@
-Arthonia quintaria Nyl. SPECIES
-=======
+# Arthonia quintaria Nyl. SPECIES
 
 #### Status
 ACCEPTED

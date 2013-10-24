@@ -1,5 +1,4 @@
-Epitea prunastri DC. SPECIES
-=======
+# Epitea prunastri DC. SPECIES
 
 #### Status
 ACCEPTED

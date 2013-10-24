@@ -1,5 +1,4 @@
-Haplentactiniidae Nazarov, 1980 FAMILY
-=======
+# Haplentactiniidae Nazarov, 1980 FAMILY
 
 #### Status
 ACCEPTED

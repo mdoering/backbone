@@ -1,5 +1,4 @@
-Armillariella omnituens (Berk.) Singer SPECIES
-=======
+# Armillariella omnituens (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

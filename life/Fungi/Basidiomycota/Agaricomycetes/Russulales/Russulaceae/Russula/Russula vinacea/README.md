@@ -1,5 +1,4 @@
-Russula vinacea Burl. SPECIES
-=======
+# Russula vinacea Burl. SPECIES
 
 #### Status
 ACCEPTED

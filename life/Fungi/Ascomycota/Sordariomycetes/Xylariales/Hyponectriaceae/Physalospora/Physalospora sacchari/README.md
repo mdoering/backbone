@@ -1,5 +1,4 @@
-Physalospora sacchari (Berk. & Broome) Sacc. SPECIES
-=======
+# Physalospora sacchari (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

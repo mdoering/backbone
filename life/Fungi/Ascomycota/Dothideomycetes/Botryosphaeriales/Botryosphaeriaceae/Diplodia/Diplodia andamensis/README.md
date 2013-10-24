@@ -1,5 +1,4 @@
-Diplodia andamensis Cooke SPECIES
-=======
+# Diplodia andamensis Cooke SPECIES
 
 #### Status
 ACCEPTED

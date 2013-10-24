@@ -1,5 +1,4 @@
-Bacidia sphaeralis (Körb.) Erichsen SPECIES
-=======
+# Bacidia sphaeralis (Körb.) Erichsen SPECIES
 
 #### Status
 ACCEPTED

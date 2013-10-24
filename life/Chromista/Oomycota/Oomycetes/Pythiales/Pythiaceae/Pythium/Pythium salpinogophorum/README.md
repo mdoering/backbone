@@ -1,5 +1,4 @@
-Pythium salpinogophorum Drechsler SPECIES
-=======
+# Pythium salpinogophorum Drechsler SPECIES
 
 #### Status
 ACCEPTED

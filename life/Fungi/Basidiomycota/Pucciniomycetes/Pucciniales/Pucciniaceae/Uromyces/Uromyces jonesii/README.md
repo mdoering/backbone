@@ -1,5 +1,4 @@
-Uromyces jonesii Peck SPECIES
-=======
+# Uromyces jonesii Peck SPECIES
 
 #### Status
 ACCEPTED

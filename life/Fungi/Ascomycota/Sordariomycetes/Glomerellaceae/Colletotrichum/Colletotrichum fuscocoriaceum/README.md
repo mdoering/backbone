@@ -1,5 +1,4 @@
-Colletotrichum fuscocoriaceum Petr. SPECIES
-=======
+# Colletotrichum fuscocoriaceum Petr. SPECIES
 
 #### Status
 ACCEPTED

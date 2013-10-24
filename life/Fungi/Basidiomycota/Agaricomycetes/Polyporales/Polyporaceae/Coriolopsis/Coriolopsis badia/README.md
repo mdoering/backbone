@@ -1,5 +1,4 @@
-Coriolopsis badia (Berk.) Murrill SPECIES
-=======
+# Coriolopsis badia (Berk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

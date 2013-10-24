@@ -1,5 +1,4 @@
-Diplodinula rosae (Brunaud) Tassi SPECIES
-=======
+# Diplodinula rosae (Brunaud) Tassi SPECIES
 
 #### Status
 ACCEPTED

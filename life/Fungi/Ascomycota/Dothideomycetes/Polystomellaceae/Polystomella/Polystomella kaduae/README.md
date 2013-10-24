@@ -1,5 +1,4 @@
-Polystomella kaduae F. Stevens & R.W. Ryan SPECIES
-=======
+# Polystomella kaduae F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

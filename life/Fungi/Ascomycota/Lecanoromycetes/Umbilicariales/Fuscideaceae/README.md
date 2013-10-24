@@ -1,5 +1,4 @@
-Fuscideaceae Hafellner FAMILY
-=======
+# Fuscideaceae Hafellner FAMILY
 
 #### Status
 ACCEPTED

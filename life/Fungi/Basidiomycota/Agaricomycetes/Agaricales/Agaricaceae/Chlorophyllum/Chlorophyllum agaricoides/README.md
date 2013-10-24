@@ -1,5 +1,4 @@
-Chlorophyllum agaricoides (Czern.) Vellinga, 2002 SPECIES
-=======
+# Chlorophyllum agaricoides (Czern.) Vellinga, 2002 SPECIES
 
 #### Status
 ACCEPTED

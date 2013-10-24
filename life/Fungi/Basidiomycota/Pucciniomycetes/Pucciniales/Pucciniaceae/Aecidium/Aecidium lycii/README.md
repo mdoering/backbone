@@ -1,5 +1,4 @@
-Aecidium lycii Arthur SPECIES
-=======
+# Aecidium lycii Arthur SPECIES
 
 #### Status
 ACCEPTED

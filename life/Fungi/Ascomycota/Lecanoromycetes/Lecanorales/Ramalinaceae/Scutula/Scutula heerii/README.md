@@ -1,5 +1,4 @@
-Scutula heerii (Hepp) P. Karst. SPECIES
-=======
+# Scutula heerii (Hepp) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

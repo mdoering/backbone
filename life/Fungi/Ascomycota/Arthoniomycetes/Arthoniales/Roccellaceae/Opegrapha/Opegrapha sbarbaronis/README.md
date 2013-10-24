@@ -1,5 +1,4 @@
-Opegrapha sbarbaronis B. de Lesd. SPECIES
-=======
+# Opegrapha sbarbaronis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

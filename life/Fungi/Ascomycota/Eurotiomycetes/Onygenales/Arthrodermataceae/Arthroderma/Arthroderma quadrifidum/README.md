@@ -1,5 +1,4 @@
-Arthroderma quadrifidum C.O. Dawson & Gentles, 1961 SPECIES
-=======
+# Arthroderma quadrifidum C.O. Dawson & Gentles, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercophora rehmii D. Hawksw. SPECIES
-=======
+# Cercophora rehmii D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

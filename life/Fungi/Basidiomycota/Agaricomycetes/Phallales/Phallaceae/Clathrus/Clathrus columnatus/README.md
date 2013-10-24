@@ -1,14 +1,13 @@
-Linderia columnata (Bosc) G. Cunn., 1931 SPECIES
-=======
+# Clathrus columnatus Bosc, 1811 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. N. S. W. 56(3): 193 (1931)
+Magazin Ges. naturf. Freunde, Berlin 5: 85 (1811)
 
 #### Original name
 Clathrus columnatus Bosc, 1811

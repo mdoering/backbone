@@ -1,5 +1,4 @@
-Asteroma schrenkiae Schwarzman SPECIES
-=======
+# Asteroma schrenkiae Schwarzman SPECIES
 
 #### Status
 ACCEPTED

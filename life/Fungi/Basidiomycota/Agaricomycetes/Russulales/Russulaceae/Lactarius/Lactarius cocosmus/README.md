@@ -1,5 +1,4 @@
-Lactarius cocosmus Van de Putte & De Kesel SPECIES
-=======
+# Lactarius cocosmus Van de Putte & De Kesel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria stenoloma Müll. Arg. SPECIES
-=======
+# Patellaria stenoloma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

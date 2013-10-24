@@ -1,5 +1,4 @@
-Geoglossum tubaraoënse Henn. SPECIES
-=======
+# Geoglossum tubaraoënse Henn. SPECIES
 
 #### Status
 ACCEPTED

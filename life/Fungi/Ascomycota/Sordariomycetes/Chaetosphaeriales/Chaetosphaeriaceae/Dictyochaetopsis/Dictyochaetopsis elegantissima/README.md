@@ -1,14 +1,13 @@
-Codinaea elegantissima Lunghini, 1982 SPECIES
-=======
+# Dictyochaetopsis elegantissima (Lunghini) Aramb. & Cabello, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lunghini, Rambelli & Onofri, Mycotaxon 14(1): 116 (1982)
+Mycotaxon 38: 12 (1990)
 
 #### Original name
 Codinaea elegantissima Lunghini, 1982

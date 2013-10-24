@@ -1,5 +1,4 @@
-Trichosporum taediosum Peyronel SPECIES
-=======
+# Trichosporum taediosum Peyronel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria echinospora (Wm. G. Sm.) Sacc. SPECIES
-=======
+# Naucoria echinospora (Wm. G. Sm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

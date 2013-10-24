@@ -1,5 +1,4 @@
-Bipatellifera C. Singh, 1983 GENUS
-=======
+# Bipatellifera C. Singh, 1983 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Duplisphaera luminosa (Fombella, 1978) Moczydlowska, 1998 SPECIES
-=======
+# Duplisphaera luminosa (Fombella, 1978) Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

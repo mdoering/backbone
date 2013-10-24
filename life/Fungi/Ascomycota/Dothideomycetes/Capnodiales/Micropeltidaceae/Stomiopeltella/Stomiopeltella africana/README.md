@@ -1,5 +1,4 @@
-Stomiopeltella africana Doidge SPECIES
-=======
+# Stomiopeltella africana Doidge SPECIES
 
 #### Status
 ACCEPTED

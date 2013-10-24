@@ -1,5 +1,4 @@
-Lophidiopsis nuculoides (Sacc.) Berl. SPECIES
-=======
+# Lophidiopsis nuculoides (Sacc.) Berl. SPECIES
 
 #### Status
 ACCEPTED

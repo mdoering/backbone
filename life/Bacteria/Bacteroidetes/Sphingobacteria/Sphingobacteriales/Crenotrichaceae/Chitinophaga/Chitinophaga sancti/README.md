@@ -1,8 +1,7 @@
-Flexibacter sancti Lewin, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Chitinophaga sancti (Lewin, 1969) Kämpfer et al., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Bullera formosensis Nakase, Tsuzuki & M. Takash. SPECIES
-=======
+# Bullera formosensis Nakase, Tsuzuki & M. Takash. SPECIES
 
 #### Status
 ACCEPTED

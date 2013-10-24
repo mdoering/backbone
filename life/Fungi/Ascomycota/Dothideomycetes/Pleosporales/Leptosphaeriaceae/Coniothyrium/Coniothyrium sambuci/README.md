@@ -1,5 +1,4 @@
-Coniothyrium sambuci Earle SPECIES
-=======
+# Coniothyrium sambuci Earle SPECIES
 
 #### Status
 ACCEPTED

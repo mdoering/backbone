@@ -1,5 +1,4 @@
-Labyrinthophoma P.N. Mathur & Thirum. GENUS
-=======
+# Labyrinthophoma P.N. Mathur & Thirum. GENUS
 
 #### Status
 ACCEPTED

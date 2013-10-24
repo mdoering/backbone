@@ -1,17 +1,16 @@
-Heptameria spectabilis (Niessl) Cooke, 1889 SPECIES
-=======
+# Nodulosphaeria spectabilis (Niessl) L. Holm, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 55: 70 (1961)
 
 #### Original name
-null
+Leptosphaeria spectabilis Niessl
 
 ### Remarks
 null

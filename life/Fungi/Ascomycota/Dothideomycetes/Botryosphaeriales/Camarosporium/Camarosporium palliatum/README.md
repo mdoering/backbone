@@ -1,5 +1,4 @@
-Camarosporium palliatum Kohlm. & E. Kohlm., 1979 SPECIES
-=======
+# Camarosporium palliatum Kohlm. & E. Kohlm., 1979 SPECIES
 
 #### Status
 ACCEPTED

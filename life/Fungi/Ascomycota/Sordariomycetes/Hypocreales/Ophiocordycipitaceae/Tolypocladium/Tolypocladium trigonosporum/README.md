@@ -1,5 +1,4 @@
-Tolypocladium trigonosporum G.L. Barron SPECIES
-=======
+# Tolypocladium trigonosporum G.L. Barron SPECIES
 
 #### Status
 ACCEPTED

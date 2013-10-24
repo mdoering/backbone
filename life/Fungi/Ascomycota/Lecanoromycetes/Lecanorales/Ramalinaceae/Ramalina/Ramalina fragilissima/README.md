@@ -1,5 +1,4 @@
-Ramalina fragilissima Krog SPECIES
-=======
+# Ramalina fragilissima Krog SPECIES
 
 #### Status
 ACCEPTED

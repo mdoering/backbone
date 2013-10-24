@@ -1,5 +1,4 @@
-Phaeosphaeria eriobotryae I. Miyake SPECIES
-=======
+# Phaeosphaeria eriobotryae I. Miyake SPECIES
 
 #### Status
 ACCEPTED

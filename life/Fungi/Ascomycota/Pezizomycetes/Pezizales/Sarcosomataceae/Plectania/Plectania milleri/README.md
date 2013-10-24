@@ -1,5 +1,4 @@
-Plectania milleri Paden & Tylutki SPECIES
-=======
+# Plectania milleri Paden & Tylutki SPECIES
 
 #### Status
 ACCEPTED

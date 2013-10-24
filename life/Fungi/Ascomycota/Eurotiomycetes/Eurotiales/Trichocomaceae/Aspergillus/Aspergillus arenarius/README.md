@@ -1,5 +1,4 @@
-Aspergillus arenarius Raper & Fennell, 1965 SPECIES
-=======
+# Aspergillus arenarius Raper & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

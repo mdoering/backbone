@@ -1,5 +1,4 @@
-Neonosemoides syacii Faye, Toguebaye & Bouix, 1994 SPECIES
-=======
+# Neonosemoides syacii Faye, Toguebaye & Bouix, 1994 SPECIES
 
 #### Status
 ACCEPTED

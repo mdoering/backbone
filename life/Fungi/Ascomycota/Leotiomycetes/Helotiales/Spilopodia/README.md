@@ -1,5 +1,4 @@
-Spilopodia Boud. GENUS
-=======
+# Spilopodia Boud. GENUS
 
 #### Status
 ACCEPTED

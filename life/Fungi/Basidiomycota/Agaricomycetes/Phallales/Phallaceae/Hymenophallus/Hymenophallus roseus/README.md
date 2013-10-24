@@ -1,5 +1,4 @@
-Hymenophallus roseus Ces. SPECIES
-=======
+# Hymenophallus roseus Ces. SPECIES
 
 #### Status
 ACCEPTED

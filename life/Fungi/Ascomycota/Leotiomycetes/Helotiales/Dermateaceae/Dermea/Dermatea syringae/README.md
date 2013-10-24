@@ -1,5 +1,4 @@
-Dermatea syringae Rehm SPECIES
-=======
+# Dermatea syringae Rehm SPECIES
 
 #### Status
 ACCEPTED

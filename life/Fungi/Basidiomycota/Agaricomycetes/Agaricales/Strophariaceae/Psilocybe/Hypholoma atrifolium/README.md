@@ -1,5 +1,4 @@
-Hypholoma atrifolium Peck SPECIES
-=======
+# Hypholoma atrifolium Peck SPECIES
 
 #### Status
 ACCEPTED

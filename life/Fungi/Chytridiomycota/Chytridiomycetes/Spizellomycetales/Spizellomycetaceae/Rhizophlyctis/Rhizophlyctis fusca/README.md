@@ -1,5 +1,4 @@
-Rhizophlyctis fusca Karling, 1964 SPECIES
-=======
+# Rhizophlyctis fusca Karling, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora ingicola Syd., 1926 SPECIES
-=======
+# Phyllachora ingicola Syd., 1926 SPECIES
 
 #### Status
 DOUBTFUL

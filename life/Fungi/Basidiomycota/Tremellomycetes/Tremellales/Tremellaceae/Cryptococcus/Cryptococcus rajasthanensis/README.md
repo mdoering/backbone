@@ -1,5 +1,4 @@
-Cryptococcus rajasthanensis Saluja & G.S. Prasad SPECIES
-=======
+# Cryptococcus rajasthanensis Saluja & G.S. Prasad SPECIES
 
 #### Status
 ACCEPTED

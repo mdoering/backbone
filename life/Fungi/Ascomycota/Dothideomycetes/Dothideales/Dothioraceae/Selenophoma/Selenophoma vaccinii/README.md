@@ -1,5 +1,4 @@
-Selenophoma vaccinii Vlassova SPECIES
-=======
+# Selenophoma vaccinii Vlassova SPECIES
 
 #### Status
 ACCEPTED

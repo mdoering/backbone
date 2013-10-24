@@ -1,5 +1,4 @@
-Olpidium algarum var. algarum VARIETY
-=======
+# Olpidium algarum Sorokin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Olpidium algarum var. algarum
+Olpidium algarum Sorokin
 
 ### Remarks
 null

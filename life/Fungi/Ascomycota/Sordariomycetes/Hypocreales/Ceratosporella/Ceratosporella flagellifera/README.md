@@ -1,5 +1,4 @@
-Ceratosporella flagellifera Matsush. SPECIES
-=======
+# Ceratosporella flagellifera Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis subserpens Staiger SPECIES
-=======
+# Graphis subserpens Staiger SPECIES
 
 #### Status
 ACCEPTED

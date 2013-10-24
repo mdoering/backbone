@@ -1,5 +1,4 @@
-Tapesia pseudosanguinea (Rehm) Sacc. SPECIES
-=======
+# Tapesia pseudosanguinea (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

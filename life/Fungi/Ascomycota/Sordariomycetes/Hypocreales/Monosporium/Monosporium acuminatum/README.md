@@ -1,5 +1,4 @@
-Monosporium acuminatum var. acuminatum VARIETY
-=======
+# Monosporium acuminatum Bonord. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Monosporium acuminatum var. acuminatum
+Monosporium acuminatum Bonord.
 
 ### Remarks
 null

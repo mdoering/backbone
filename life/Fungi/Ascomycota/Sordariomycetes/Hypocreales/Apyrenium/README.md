@@ -1,5 +1,4 @@
-Apyrenium Fr. GENUS
-=======
+# Apyrenium Fr. GENUS
 
 #### Status
 ACCEPTED

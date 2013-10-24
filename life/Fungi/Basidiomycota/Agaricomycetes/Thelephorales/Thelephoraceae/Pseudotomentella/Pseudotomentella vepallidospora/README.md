@@ -1,5 +1,4 @@
-Pseudotomentella vepallidospora M.J. Larsen, 1967 SPECIES
-=======
+# Pseudotomentella vepallidospora M.J. Larsen, 1967 SPECIES
 
 #### Status
 ACCEPTED

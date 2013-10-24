@@ -1,5 +1,4 @@
-Puccinia milii-effusi Dupias SPECIES
-=======
+# Puccinia milii-effusi Dupias SPECIES
 
 #### Status
 ACCEPTED

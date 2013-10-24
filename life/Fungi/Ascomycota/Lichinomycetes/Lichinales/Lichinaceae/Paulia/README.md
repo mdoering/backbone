@@ -1,17 +1,16 @@
-Pasithoe M.J. Decaisne, 1840 GENUS
-=======
+# Paulia Fée, 1836 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin Acad. Roy. Bruxelles 7(1): 409 (1840)
+Linnaea 10: 471 (1836)
 
 #### Original name
-Pasithoe M.J. Decaisne, 1840
+Paulia Fée, 1836
 
 ### Remarks
 null

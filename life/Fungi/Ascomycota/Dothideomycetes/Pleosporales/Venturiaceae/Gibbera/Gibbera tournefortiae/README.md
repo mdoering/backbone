@@ -1,5 +1,4 @@
-Gibbera tournefortiae (Rehm) E. Müll. SPECIES
-=======
+# Gibbera tournefortiae (Rehm) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

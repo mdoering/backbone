@@ -1,5 +1,4 @@
-Neopeckia asperulispora Teng SPECIES
-=======
+# Neopeckia asperulispora Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triceratium subundosum Hustedt SPECIES
-=======
+# Triceratium subundosum Hustedt SPECIES
 
 #### Status
 ACCEPTED

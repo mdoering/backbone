@@ -1,5 +1,4 @@
-Phlyctella leucosticta (Mont.) Nyl. SPECIES
-=======
+# Phlyctella leucosticta (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

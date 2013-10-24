@@ -1,5 +1,4 @@
-Trimmatostroma betulae Tartenova & Philimonova SPECIES
-=======
+# Trimmatostroma betulae Tartenova & Philimonova SPECIES
 
 #### Status
 ACCEPTED

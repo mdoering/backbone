@@ -1,5 +1,4 @@
-Marasmius radians Berk. & Broome SPECIES
-=======
+# Marasmius radians Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria pilosella Ellis & Everh. SPECIES
-=======
+# Amphisphaeria pilosella Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

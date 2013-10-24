@@ -1,5 +1,4 @@
-Phoma bacillaris Sacc. SPECIES
-=======
+# Phoma bacillaris Sacc. SPECIES
 
 #### Status
 ACCEPTED

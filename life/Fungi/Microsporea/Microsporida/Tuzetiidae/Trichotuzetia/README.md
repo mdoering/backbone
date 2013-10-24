@@ -1,5 +1,4 @@
-Trichotuzetia J. Vavra, J.I.R. Larsson & Baker GENUS
-=======
+# Trichotuzetia J. Vavra, J.I.R. Larsson & Baker GENUS
 
 #### Status
 ACCEPTED

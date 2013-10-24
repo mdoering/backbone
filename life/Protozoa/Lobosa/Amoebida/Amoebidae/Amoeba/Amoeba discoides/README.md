@@ -1,5 +1,4 @@
-Amoeba discoides Sch. SPECIES
-=======
+# Amoeba discoides Sch. SPECIES
 
 #### Status
 ACCEPTED

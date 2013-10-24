@@ -1,5 +1,4 @@
-Coriolopsis pruinata (Klotzsch) Teng SPECIES
-=======
+# Coriolopsis pruinata (Klotzsch) Teng SPECIES
 
 #### Status
 ACCEPTED

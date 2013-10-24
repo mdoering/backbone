@@ -1,5 +1,4 @@
-Rickettsia japonica Uchida et al., 1992 SPECIES
-=======
+# Rickettsia japonica Uchida et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

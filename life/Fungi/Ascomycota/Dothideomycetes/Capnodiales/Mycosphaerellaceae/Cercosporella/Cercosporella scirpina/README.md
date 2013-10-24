@@ -1,5 +1,4 @@
-Cercosporella scirpina Davis SPECIES
-=======
+# Cercosporella scirpina Davis SPECIES
 
 #### Status
 ACCEPTED

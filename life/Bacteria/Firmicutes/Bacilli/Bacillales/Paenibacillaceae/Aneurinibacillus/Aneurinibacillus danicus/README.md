@@ -1,5 +1,4 @@
-Aneurinibacillus danicus Goto et al., 2004 SPECIES
-=======
+# Aneurinibacillus danicus Goto et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

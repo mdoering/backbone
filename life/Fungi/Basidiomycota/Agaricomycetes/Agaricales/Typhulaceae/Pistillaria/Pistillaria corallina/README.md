@@ -1,5 +1,4 @@
-Pistillaria corallina anon. SPECIES
-=======
+# Pistillaria corallina anon. SPECIES
 
 #### Status
 ACCEPTED

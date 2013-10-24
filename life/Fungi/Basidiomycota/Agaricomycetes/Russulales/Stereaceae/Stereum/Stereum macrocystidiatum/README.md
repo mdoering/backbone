@@ -1,5 +1,4 @@
-Stereum macrocystidiatum A.L. Welden SPECIES
-=======
+# Stereum macrocystidiatum A.L. Welden SPECIES
 
 #### Status
 ACCEPTED

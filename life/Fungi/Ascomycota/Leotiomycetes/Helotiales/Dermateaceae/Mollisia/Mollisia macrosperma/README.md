@@ -1,17 +1,16 @@
-Mollisia cinerea f. macrosperma (Sacc.) Sacc., 1889 FORM
-=======
+# Mollisia macrosperma (Sacc.) Le Gal & F. Mangenot, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 337 (1889)
+Revue Mycol. , Paris 26(5): 292 (1961)
 
 #### Original name
-Niptera macrosperma Boud.
+Mollisia cinerea f. macrosperma (Sacc.) Sacc., 1889
 
 ### Remarks
 null

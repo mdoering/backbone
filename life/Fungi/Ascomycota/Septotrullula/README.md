@@ -1,5 +1,4 @@
-Septotrullula Höhn. GENUS
-=======
+# Septotrullula Höhn. GENUS
 
 #### Status
 ACCEPTED

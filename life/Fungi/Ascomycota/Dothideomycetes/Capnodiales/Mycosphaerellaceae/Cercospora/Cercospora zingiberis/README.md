@@ -1,17 +1,16 @@
-Cercospora zingiberi Togashi & Katsuki SPECIES
-=======
+# Cercospora zingiberis Togashi & Katsuki SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Mag. , Tokyo 65: 25 (1952)
 
 #### Original name
-Cercospora zingiberi Togashi & Katsuki
+Cercospora zingiberis Togashi & Katsuki
 
 ### Remarks
 null

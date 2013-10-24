@@ -1,5 +1,4 @@
-Stictis rhizomatum Nitschke SPECIES
-=======
+# Stictis rhizomatum Nitschke SPECIES
 
 #### Status
 ACCEPTED

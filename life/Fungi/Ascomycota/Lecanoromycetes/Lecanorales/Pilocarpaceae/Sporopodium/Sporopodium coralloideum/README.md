@@ -1,5 +1,4 @@
-Sporopodium coralloideum (Nyl.) Vain. SPECIES
-=======
+# Sporopodium coralloideum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

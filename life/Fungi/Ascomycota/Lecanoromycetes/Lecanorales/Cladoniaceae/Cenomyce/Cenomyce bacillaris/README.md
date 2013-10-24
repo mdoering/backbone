@@ -1,5 +1,4 @@
-Cenomyce bacillaris var. bacillaris VARIETY
-=======
+# Cenomyce bacillaris Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cenomyce bacillaris var. bacillaris
+Cenomyce bacillaris Ach.
 
 ### Remarks
 null

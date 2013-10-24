@@ -1,5 +1,4 @@
-Ramalina osorioi Kashiw., T.H. Nash & K.H. Moon SPECIES
-=======
+# Ramalina osorioi Kashiw., T.H. Nash & K.H. Moon SPECIES
 
 #### Status
 ACCEPTED

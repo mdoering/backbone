@@ -1,5 +1,4 @@
-Boletus rhodoxanthus (Krombh.) Kallenb. SPECIES
-=======
+# Boletus rhodoxanthus (Krombh.) Kallenb. SPECIES
 
 #### Status
 ACCEPTED

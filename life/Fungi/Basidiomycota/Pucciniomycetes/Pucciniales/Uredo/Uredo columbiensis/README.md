@@ -1,5 +1,4 @@
-Uredo columbiensis (Dietel) Hirats. f. SPECIES
-=======
+# Uredo columbiensis (Dietel) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pisolithus kisslingii E. Fisch. SPECIES
-=======
+# Pisolithus kisslingii E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

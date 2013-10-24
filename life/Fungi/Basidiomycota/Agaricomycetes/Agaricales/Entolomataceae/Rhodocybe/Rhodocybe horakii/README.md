@@ -1,5 +1,4 @@
-Rhodocybe horakii Pacioni & Lalli SPECIES
-=======
+# Rhodocybe horakii Pacioni & Lalli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta tetragoniae Pandotra SPECIES
-=======
+# Phyllosticta tetragoniae Pandotra SPECIES
 
 #### Status
 ACCEPTED

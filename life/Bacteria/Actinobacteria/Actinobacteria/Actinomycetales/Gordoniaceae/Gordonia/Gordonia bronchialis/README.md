@@ -1,5 +1,4 @@
-Gordonia bronchialis (Tsukamura, 1971) Stackebrandt et al., 1989 SPECIES
-=======
+# Gordonia bronchialis (Tsukamura, 1971) Stackebrandt et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

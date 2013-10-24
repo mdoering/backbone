@@ -1,5 +1,4 @@
-Dermatea ulmi Fuckel SPECIES
-=======
+# Dermatea ulmi Fuckel SPECIES
 
 #### Status
 ACCEPTED

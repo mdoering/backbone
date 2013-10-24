@@ -1,5 +1,4 @@
-Triposporium copaiferum Bat., M.L. Farr & Da Matta SPECIES
-=======
+# Triposporium copaiferum Bat., M.L. Farr & Da Matta SPECIES
 
 #### Status
 ACCEPTED

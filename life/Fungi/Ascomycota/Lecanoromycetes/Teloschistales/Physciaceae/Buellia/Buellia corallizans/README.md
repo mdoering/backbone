@@ -1,5 +1,4 @@
-Buellia corallizans Zahlbr. SPECIES
-=======
+# Buellia corallizans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

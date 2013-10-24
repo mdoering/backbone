@@ -1,5 +1,4 @@
-Lachnella fuscobrunnea Rehm SPECIES
-=======
+# Lachnella fuscobrunnea Rehm SPECIES
 
 #### Status
 ACCEPTED

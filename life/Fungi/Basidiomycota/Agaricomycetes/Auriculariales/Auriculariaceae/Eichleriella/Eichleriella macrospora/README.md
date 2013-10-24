@@ -1,5 +1,4 @@
-Eichleriella macrospora (Ellis & Everh.) G.W. Martin SPECIES
-=======
+# Eichleriella macrospora (Ellis & Everh.) G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora fuscomarginata Burt SPECIES
-=======
+# Peniophora fuscomarginata Burt SPECIES
 
 #### Status
 ACCEPTED

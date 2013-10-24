@@ -1,14 +1,13 @@
-Valsa leprosa (Pers.) Nitschke, 1867 SPECIES
-=======
+# Eutypella leprosa (Pers.) Berl., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pyrenomycetes Germanici 1: 136 (1867)
+null
 
 #### Original name
 Sphaeria leprosa Pers., 1823

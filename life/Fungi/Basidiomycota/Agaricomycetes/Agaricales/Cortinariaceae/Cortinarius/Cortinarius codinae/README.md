@@ -1,5 +1,4 @@
-Cortinarius codinae Maire SPECIES
-=======
+# Cortinarius codinae Maire SPECIES
 
 #### Status
 ACCEPTED

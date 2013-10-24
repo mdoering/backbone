@@ -1,14 +1,13 @@
-Lecanactis homalotropa (Nyl.) Gilenstam SPECIES
-=======
+# Bactrospora homalotropa (Nyl.) Egea & Torrente SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. , Ser. 2 7: 177 (1969)
+in Torrente & Egea, Biblthca Lichenol. 32: 185 (1989)
 
 #### Original name
 Lecidea homalotropa Nyl.

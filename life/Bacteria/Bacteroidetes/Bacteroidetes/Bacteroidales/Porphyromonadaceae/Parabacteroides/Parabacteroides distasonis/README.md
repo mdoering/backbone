@@ -1,11 +1,10 @@
-Ristella distasonis (Eggerth & Gagnon, 1933) Prévot, 1938 SPECIES
-=======
+# Parabacteroides distasonis (Eggerth & Gagnon, 1933) Sakamoto & Benno, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

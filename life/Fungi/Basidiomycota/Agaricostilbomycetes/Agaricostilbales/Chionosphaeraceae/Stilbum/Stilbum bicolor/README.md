@@ -1,5 +1,4 @@
-Stilbum bicolor Pers. SPECIES
-=======
+# Stilbum bicolor Pers. SPECIES
 
 #### Status
 ACCEPTED

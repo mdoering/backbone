@@ -1,5 +1,4 @@
-Sterigmatosporidium G. Kraep. & U. Schulze GENUS
-=======
+# Sterigmatosporidium G. Kraep. & U. Schulze GENUS
 
 #### Status
 ACCEPTED

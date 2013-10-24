@@ -1,5 +1,4 @@
-Phoma mutinensis D. Sacc. SPECIES
-=======
+# Phoma mutinensis D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

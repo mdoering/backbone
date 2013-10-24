@@ -1,5 +1,4 @@
-Stomiopeltis minor (Bitanc.) Luttr. SPECIES
-=======
+# Stomiopeltis minor (Bitanc.) Luttr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina rinoreae Doidge SPECIES
-=======
+# Asterina rinoreae Doidge SPECIES
 
 #### Status
 ACCEPTED

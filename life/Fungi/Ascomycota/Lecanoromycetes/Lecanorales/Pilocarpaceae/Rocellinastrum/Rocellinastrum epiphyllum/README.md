@@ -1,5 +1,4 @@
-Rocellinastrum epiphyllum Henssen & Vobis SPECIES
-=======
+# Rocellinastrum epiphyllum Henssen & Vobis SPECIES
 
 #### Status
 ACCEPTED

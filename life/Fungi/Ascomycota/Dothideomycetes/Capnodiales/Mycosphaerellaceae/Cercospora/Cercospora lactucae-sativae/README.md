@@ -1,5 +1,4 @@
-Cercospora lactucae-sativae Sawada, 1943 SPECIES
-=======
+# Cercospora lactucae-sativae Sawada, 1943 SPECIES
 
 #### Status
 ACCEPTED

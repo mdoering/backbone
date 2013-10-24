@@ -1,5 +1,4 @@
-Teichospora pilosella Sacc. & Roum. SPECIES
-=======
+# Teichospora pilosella Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

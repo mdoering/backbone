@@ -1,5 +1,4 @@
-Anthostoma amplisporum (Cooke) Berl. & Voglino SPECIES
-=======
+# Anthostoma amplisporum (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

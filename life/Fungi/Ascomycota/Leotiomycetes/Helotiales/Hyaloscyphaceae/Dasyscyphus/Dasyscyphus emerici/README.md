@@ -1,5 +1,4 @@
-Dasyscyphus emerici (Berk. & W. Phillips) Sacc. SPECIES
-=======
+# Dasyscyphus emerici (Berk. & W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

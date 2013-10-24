@@ -1,5 +1,4 @@
-Puccinia sejuncta Syd. & P. Syd. SPECIES
-=======
+# Puccinia sejuncta Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

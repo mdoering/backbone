@@ -1,5 +1,4 @@
-Frontonia canadensis SPECIES
-=======
+# Frontonia canadensis SPECIES
 
 #### Status
 ACCEPTED

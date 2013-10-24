@@ -1,5 +1,4 @@
-Physcia nakanishii C.W. Dodge SPECIES
-=======
+# Physcia nakanishii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

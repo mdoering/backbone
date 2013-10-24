@@ -1,5 +1,4 @@
-Psathyra loscosii (Rabenh.) Sacc. SPECIES
-=======
+# Psathyra loscosii (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

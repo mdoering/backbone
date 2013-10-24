@@ -1,5 +1,4 @@
-Teichosporella negeriana Sacc., Syd. & P. Syd. SPECIES
-=======
+# Teichosporella negeriana Sacc., Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

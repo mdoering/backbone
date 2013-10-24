@@ -1,5 +1,4 @@
-Stigmidium trichotheliorum Matzer SPECIES
-=======
+# Stigmidium trichotheliorum Matzer SPECIES
 
 #### Status
 ACCEPTED

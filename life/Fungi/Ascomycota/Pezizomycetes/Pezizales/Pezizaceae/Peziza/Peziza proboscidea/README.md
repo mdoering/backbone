@@ -1,5 +1,4 @@
-Peziza proboscidea Wallr. SPECIES
-=======
+# Peziza proboscidea Wallr. SPECIES
 
 #### Status
 ACCEPTED

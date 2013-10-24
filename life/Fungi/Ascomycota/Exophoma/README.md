@@ -1,5 +1,4 @@
-Exophoma Weedon GENUS
-=======
+# Exophoma Weedon GENUS
 
 #### Status
 ACCEPTED

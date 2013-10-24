@@ -1,5 +1,4 @@
-Sesia affinis (Jungh.) Kuntze SPECIES
-=======
+# Sesia affinis (Jungh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Miliammina cribrosa Heron-Allen & Earland, 1930 SPECIES
-=======
+# Miliammina cribrosa Heron-Allen & Earland, 1930 SPECIES
 
 #### Status
 ACCEPTED

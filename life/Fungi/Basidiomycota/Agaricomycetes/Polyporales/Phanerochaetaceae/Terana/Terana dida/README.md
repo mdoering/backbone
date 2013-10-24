@@ -1,5 +1,4 @@
-Terana dida Kuntze SPECIES
-=======
+# Terana dida Kuntze SPECIES
 
 #### Status
 ACCEPTED

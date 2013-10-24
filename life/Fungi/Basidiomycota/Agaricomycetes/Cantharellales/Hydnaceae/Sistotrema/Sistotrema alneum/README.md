@@ -1,5 +1,4 @@
-Sistotrema alneum Secr. SPECIES
-=======
+# Sistotrema alneum Secr. SPECIES
 
 #### Status
 ACCEPTED

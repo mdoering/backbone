@@ -1,14 +1,13 @@
-Calathinus mastrucatus (Fr.) Quél., 1887 SPECIES
-=======
+# Hohenbuehelia mastrucata (Fr.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Compt. Rend. Assoc. Franç. Avancem. Sci. 15: 485 (1887)
+Lilloa 22: 255 (1951)
 
 #### Original name
 Agaricus mastrucatus Fr., 1818

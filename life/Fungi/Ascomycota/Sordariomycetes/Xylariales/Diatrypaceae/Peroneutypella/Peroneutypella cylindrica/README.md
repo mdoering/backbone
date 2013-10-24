@@ -1,5 +1,4 @@
-Peroneutypella cylindrica (Kalchbr. & Cooke) Berl. SPECIES
-=======
+# Peroneutypella cylindrica (Kalchbr. & Cooke) Berl. SPECIES
 
 #### Status
 ACCEPTED

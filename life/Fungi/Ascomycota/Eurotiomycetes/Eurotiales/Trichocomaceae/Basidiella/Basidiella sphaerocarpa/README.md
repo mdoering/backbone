@@ -1,5 +1,4 @@
-Basidiella sphaerocarpa Cooke SPECIES
-=======
+# Basidiella sphaerocarpa Cooke SPECIES
 
 #### Status
 ACCEPTED

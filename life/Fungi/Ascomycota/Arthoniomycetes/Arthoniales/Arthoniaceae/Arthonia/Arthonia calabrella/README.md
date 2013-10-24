@@ -1,5 +1,4 @@
-Arthonia calabrella Puntillo SPECIES
-=======
+# Arthonia calabrella Puntillo SPECIES
 
 #### Status
 ACCEPTED

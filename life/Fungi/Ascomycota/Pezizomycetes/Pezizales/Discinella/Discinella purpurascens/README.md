@@ -1,8 +1,7 @@
-Peziza purpurascens Pers., 1822 SPECIES
-=======
+# Discinella purpurascens (Pers.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Russula indica Sathe & J.T. Daniel SPECIES
-=======
+# Russula indica Sathe & J.T. Daniel SPECIES
 
 #### Status
 ACCEPTED

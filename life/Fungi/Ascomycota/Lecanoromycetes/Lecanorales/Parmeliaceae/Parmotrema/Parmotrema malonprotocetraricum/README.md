@@ -1,5 +1,4 @@
-Parmotrema malonprotocetraricum Louwhoff & Elix SPECIES
-=======
+# Parmotrema malonprotocetraricum Louwhoff & Elix SPECIES
 
 #### Status
 ACCEPTED

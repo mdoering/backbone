@@ -1,5 +1,4 @@
-Polythrinciella Bat. & H. Maia GENUS
-=======
+# Polythrinciella Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

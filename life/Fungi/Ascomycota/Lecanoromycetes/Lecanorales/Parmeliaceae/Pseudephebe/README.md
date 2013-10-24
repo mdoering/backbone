@@ -1,5 +1,4 @@
-Pseudephebe M. Choisy GENUS
-=======
+# Pseudephebe M. Choisy GENUS
 
 #### Status
 ACCEPTED

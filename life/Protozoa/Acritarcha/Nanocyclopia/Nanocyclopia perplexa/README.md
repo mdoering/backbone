@@ -1,5 +1,4 @@
-Nanocyclopia perplexa Loeblich & Wicander, 1976 SPECIES
-=======
+# Nanocyclopia perplexa Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

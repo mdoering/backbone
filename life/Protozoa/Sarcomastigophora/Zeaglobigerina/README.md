@@ -1,5 +1,4 @@
-Zeaglobigerina Kennett & Srinivasan, 1983 GENUS
-=======
+# Zeaglobigerina Kennett & Srinivasan, 1983 GENUS
 
 #### Status
 ACCEPTED

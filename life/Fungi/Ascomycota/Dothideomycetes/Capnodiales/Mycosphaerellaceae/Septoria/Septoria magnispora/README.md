@@ -1,5 +1,4 @@
-Septoria magnispora Peck SPECIES
-=======
+# Septoria magnispora Peck SPECIES
 
 #### Status
 ACCEPTED

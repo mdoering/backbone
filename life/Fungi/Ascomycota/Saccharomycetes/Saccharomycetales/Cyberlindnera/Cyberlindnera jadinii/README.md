@@ -1,8 +1,7 @@
-Torula utilis Henneberg, 1926 SPECIES
-=======
+# Cyberlindnera jadinii (Sartory, R. Sartory, Weill & J. Mey.) Minter, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Saccharomyces jadinii Sartory, R. Sartory, Weill & J. Mey., 1932
 
 ### Remarks
 null

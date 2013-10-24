@@ -1,5 +1,4 @@
-Helotium pigalianum Sacc. SPECIES
-=======
+# Helotium pigalianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

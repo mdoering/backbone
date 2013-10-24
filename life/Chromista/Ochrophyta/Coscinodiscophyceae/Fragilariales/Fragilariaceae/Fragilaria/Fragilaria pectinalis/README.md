@@ -1,8 +1,7 @@
-Conferva pectinalis O.F. Müller SPECIES
-=======
+# Fragilaria pectinalis (O.F. Müller) Lyngbye SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

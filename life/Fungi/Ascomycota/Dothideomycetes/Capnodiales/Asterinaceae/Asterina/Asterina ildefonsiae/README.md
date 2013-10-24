@@ -1,5 +1,4 @@
-Asterina ildefonsiae (Rehm) Theiss. SPECIES
-=======
+# Asterina ildefonsiae (Rehm) Theiss. SPECIES
 
 #### Status
 ACCEPTED

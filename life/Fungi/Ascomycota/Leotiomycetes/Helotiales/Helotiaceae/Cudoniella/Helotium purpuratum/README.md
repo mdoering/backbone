@@ -1,5 +1,4 @@
-Helotium purpuratum Kalchbr. SPECIES
-=======
+# Helotium purpuratum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

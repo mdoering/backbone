@@ -1,5 +1,4 @@
-Asterella pearsoni (Ellis & Everh.) Sacc. SPECIES
-=======
+# Asterella pearsoni (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

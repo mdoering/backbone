@@ -1,5 +1,4 @@
-Distigma Ehrenberg, 1831 GENUS
-=======
+# Distigma Ehrenberg, 1831 GENUS
 
 #### Status
 ACCEPTED

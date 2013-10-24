@@ -1,5 +1,4 @@
-Erioderma laminisorediatum P. M. Jørg. & Arv. SPECIES
-=======
+# Erioderma laminisorediatum P. M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

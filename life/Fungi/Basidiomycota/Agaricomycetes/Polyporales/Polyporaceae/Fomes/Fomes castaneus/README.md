@@ -1,5 +1,4 @@
-Fomes castaneus (Fr.) Cooke SPECIES
-=======
+# Fomes castaneus (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

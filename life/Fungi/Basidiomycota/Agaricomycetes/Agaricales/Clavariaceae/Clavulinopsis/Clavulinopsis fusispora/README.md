@@ -1,5 +1,4 @@
-Clavulinopsis fusispora Corner SPECIES
-=======
+# Clavulinopsis fusispora Corner SPECIES
 
 #### Status
 ACCEPTED

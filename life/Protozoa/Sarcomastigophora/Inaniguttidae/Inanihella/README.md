@@ -1,5 +1,4 @@
-Inanihella Nazarov & Ormiston, 1984 GENUS
-=======
+# Inanihella Nazarov & Ormiston, 1984 GENUS
 
 #### Status
 ACCEPTED

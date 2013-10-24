@@ -1,5 +1,4 @@
-Usnea mitis Motyka ex Sulma {?} SPECIES
-=======
+# Usnea mitis Motyka ex Sulma {?} SPECIES
 
 #### Status
 ACCEPTED

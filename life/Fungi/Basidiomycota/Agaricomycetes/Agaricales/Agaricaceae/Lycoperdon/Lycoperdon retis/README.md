@@ -1,5 +1,4 @@
-Lycoperdon retis Lloyd SPECIES
-=======
+# Lycoperdon retis Lloyd SPECIES
 
 #### Status
 ACCEPTED

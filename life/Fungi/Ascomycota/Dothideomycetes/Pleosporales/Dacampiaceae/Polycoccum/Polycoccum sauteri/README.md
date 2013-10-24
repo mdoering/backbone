@@ -1,5 +1,4 @@
-Polycoccum sauteri Körb. SPECIES
-=======
+# Polycoccum sauteri Körb. SPECIES
 
 #### Status
 ACCEPTED

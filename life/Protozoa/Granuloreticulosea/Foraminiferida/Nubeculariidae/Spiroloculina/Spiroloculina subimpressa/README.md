@@ -1,5 +1,4 @@
-Spiroloculina subimpressa Parr SPECIES
-=======
+# Spiroloculina subimpressa Parr SPECIES
 
 #### Status
 ACCEPTED

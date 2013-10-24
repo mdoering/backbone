@@ -1,5 +1,4 @@
-Buedingiisphaeridium permicum Schaarschmidt, 1963 SPECIES
-=======
+# Buedingiisphaeridium permicum Schaarschmidt, 1963 SPECIES
 
 #### Status
 ACCEPTED

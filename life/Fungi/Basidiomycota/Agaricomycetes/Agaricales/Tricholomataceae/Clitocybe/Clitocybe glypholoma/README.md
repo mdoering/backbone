@@ -1,5 +1,4 @@
-Clitocybe glypholoma Mont. SPECIES
-=======
+# Clitocybe glypholoma Mont. SPECIES
 
 #### Status
 ACCEPTED

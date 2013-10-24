@@ -1,5 +1,4 @@
-Orphella avalonensis M.M. White, Lichtw. & Colbo, 2001 SPECIES
-=======
+# Orphella avalonensis M.M. White, Lichtw. & Colbo, 2001 SPECIES
 
 #### Status
 ACCEPTED

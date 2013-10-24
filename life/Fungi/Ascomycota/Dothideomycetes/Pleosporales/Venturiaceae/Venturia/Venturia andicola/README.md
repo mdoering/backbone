@@ -1,5 +1,4 @@
-Venturia andicola Speg. SPECIES
-=======
+# Venturia andicola Speg. SPECIES
 
 #### Status
 ACCEPTED

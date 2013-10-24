@@ -1,5 +1,4 @@
-Desulfovermiculus Belyakova et al., 2007 GENUS
-=======
+# Desulfovermiculus Belyakova et al., 2007 GENUS
 
 #### Status
 ACCEPTED

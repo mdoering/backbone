@@ -1,5 +1,4 @@
-Diplodia thymeteae Pat. SPECIES
-=======
+# Diplodia thymeteae Pat. SPECIES
 
 #### Status
 ACCEPTED

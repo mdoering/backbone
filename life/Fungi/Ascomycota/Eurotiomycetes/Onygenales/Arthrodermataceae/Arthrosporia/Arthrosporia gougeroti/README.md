@@ -1,5 +1,4 @@
-Arthrosporia gougeroti Grigoraki SPECIES
-=======
+# Arthrosporia gougeroti Grigoraki SPECIES
 
 #### Status
 ACCEPTED

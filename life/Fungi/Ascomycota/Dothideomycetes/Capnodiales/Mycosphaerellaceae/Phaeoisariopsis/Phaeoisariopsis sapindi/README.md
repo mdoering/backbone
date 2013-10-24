@@ -1,5 +1,4 @@
-Phaeoisariopsis sapindi U. Braun SPECIES
-=======
+# Phaeoisariopsis sapindi U. Braun SPECIES
 
 #### Status
 ACCEPTED

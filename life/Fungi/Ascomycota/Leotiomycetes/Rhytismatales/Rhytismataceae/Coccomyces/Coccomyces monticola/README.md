@@ -1,5 +1,4 @@
-Coccomyces monticola Sherwood, 1980 SPECIES
-=======
+# Coccomyces monticola Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

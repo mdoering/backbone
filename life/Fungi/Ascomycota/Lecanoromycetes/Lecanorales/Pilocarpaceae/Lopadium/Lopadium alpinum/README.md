@@ -1,5 +1,4 @@
-Lopadium alpinum (Körb.) R. Sant. SPECIES
-=======
+# Lopadium alpinum (Körb.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Camillea africana Wakef., 1916 SPECIES
-=======
+# Rhopalostroma africanum (Wakef.) D. Hawksw., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 31(3): 423 (1977)
 
 #### Original name
 Camillea africana Wakef., 1916

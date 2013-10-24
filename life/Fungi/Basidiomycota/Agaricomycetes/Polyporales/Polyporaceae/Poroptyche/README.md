@@ -1,5 +1,4 @@
-Poroptyche GENUS
-=======
+# Poroptyche GENUS
 
 #### Status
 ACCEPTED

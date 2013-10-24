@@ -1,5 +1,4 @@
-Ceratostoma capillare Ellis SPECIES
-=======
+# Ceratostoma capillare Ellis SPECIES
 
 #### Status
 ACCEPTED

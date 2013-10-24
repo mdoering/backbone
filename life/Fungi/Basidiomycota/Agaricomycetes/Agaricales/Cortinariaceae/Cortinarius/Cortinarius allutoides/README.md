@@ -1,5 +1,4 @@
-Cortinarius allutoides Rob. Henry SPECIES
-=======
+# Cortinarius allutoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

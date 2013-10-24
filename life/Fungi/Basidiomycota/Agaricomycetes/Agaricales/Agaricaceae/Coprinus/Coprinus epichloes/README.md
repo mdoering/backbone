@@ -1,14 +1,13 @@
-Coprinus epichloeus Uljé & Noordel. SPECIES
-=======
+# Coprinus epichloes Uljé & Noordel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Persoonia 16(3): 300 (1997)
 
 #### Original name
 Coprinus epichloeus Uljé & Noordel.

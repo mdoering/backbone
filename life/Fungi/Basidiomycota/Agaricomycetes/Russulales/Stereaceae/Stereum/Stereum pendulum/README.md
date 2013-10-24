@@ -1,5 +1,4 @@
-Stereum pendulum R. Sasaki SPECIES
-=======
+# Stereum pendulum R. Sasaki SPECIES
 
 #### Status
 ACCEPTED

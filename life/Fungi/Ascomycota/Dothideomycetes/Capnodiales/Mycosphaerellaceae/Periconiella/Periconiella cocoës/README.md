@@ -1,5 +1,4 @@
-Periconiella cocoës M.B. Ellis SPECIES
-=======
+# Periconiella cocoës M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thraustochytriales Sparrow ORDER
-=======
+# Thraustochytriales Sparrow ORDER
 
 #### Status
 ACCEPTED

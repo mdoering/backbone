@@ -1,5 +1,4 @@
-Loricophrya solenophryaformis (Sand, 1899) Matthes, 1956 SPECIES
-=======
+# Loricophrya solenophryaformis (Sand, 1899) Matthes, 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps pilfera Kobayasi SPECIES
-=======
+# Cordyceps pilfera Kobayasi SPECIES
 
 #### Status
 ACCEPTED

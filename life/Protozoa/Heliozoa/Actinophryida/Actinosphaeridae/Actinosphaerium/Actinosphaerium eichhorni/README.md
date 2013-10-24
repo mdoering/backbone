@@ -1,5 +1,4 @@
-Actinosphaerium eichhorni Ehr. SPECIES
-=======
+# Actinosphaerium eichhorni Ehr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ascorhizoctonia hiemalis (H.K. Saksena & Vaartaja) Chin S. Yang & Korf, 1985 SPECIES
-=======
+# Tricharina hiemalis Chin S. Yang & Korf, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 23: 473 (1985)
+Mycotaxon 24: 494 (1985)
 
 #### Original name
-Rhizoctonia hiemalis H.K. Saksena & Vaartaja, 1960
+Tricharina hiemalis Chin S. Yang & Korf, 1985
 
 ### Remarks
 null

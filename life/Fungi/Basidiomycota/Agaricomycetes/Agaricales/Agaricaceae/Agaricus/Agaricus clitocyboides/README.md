@@ -1,5 +1,4 @@
-Agaricus clitocyboides Cooke & Massee, 1887 SPECIES
-=======
+# Agaricus clitocyboides Cooke & Massee, 1887 SPECIES
 
 #### Status
 ACCEPTED

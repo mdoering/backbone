@@ -1,5 +1,4 @@
-Clisosporium yuccae (Cooke & Ellis) Kuntze SPECIES
-=======
+# Clisosporium yuccae (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

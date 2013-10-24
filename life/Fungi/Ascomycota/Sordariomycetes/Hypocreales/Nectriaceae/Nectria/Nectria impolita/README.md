@@ -1,5 +1,4 @@
-Nectria impolita Mouton SPECIES
-=======
+# Nectria impolita Mouton SPECIES
 
 #### Status
 ACCEPTED

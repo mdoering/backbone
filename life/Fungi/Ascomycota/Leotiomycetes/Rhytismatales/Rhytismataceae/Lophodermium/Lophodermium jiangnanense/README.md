@@ -1,5 +1,4 @@
-Lophodermium jiangnanense Y.R. Lin & S.J. Wang, 2004 SPECIES
-=======
+# Lophodermium jiangnanense Y.R. Lin & S.J. Wang, 2004 SPECIES
 
 #### Status
 ACCEPTED

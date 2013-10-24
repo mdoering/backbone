@@ -1,5 +1,4 @@
-Polychytrium Ajello GENUS
-=======
+# Polychytrium Ajello GENUS
 
 #### Status
 ACCEPTED

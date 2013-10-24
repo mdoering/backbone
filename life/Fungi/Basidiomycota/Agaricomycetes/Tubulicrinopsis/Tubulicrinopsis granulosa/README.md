@@ -1,5 +1,4 @@
-Tubulicrinopsis granulosa Hjortstam, Miettinen & Kotir., 2007 SPECIES
-=======
+# Tubulicrinopsis granulosa Hjortstam, Miettinen & Kotir., 2007 SPECIES
 
 #### Status
 ACCEPTED

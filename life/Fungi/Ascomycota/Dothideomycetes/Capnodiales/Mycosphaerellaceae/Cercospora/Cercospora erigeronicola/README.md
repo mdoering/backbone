@@ -1,5 +1,4 @@
-Cercospora erigeronicola U. Braun & Rogerson SPECIES
-=======
+# Cercospora erigeronicola U. Braun & Rogerson SPECIES
 
 #### Status
 ACCEPTED

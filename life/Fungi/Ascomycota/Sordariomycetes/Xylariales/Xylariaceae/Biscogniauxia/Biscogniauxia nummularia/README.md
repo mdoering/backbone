@@ -1,17 +1,16 @@
-Hypoxylon nummularium var. nummularium VARIETY
-=======
+# Biscogniauxia nummularia (Bull.) Kuntze, 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 2: 398 (1891)
 
 #### Original name
-null
+Hypoxylon nummularium Bull., 1790
 
 ### Remarks
 null

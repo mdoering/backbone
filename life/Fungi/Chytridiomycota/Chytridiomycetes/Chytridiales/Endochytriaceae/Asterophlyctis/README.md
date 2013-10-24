@@ -1,5 +1,4 @@
-Asterophlyctis H.E. Petersen GENUS
-=======
+# Asterophlyctis H.E. Petersen GENUS
 
 #### Status
 ACCEPTED

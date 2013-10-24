@@ -1,5 +1,4 @@
-Peziza patena Lév. SPECIES
-=======
+# Peziza patena Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeocalicium flabelliforme Tibell SPECIES
-=======
+# Phaeocalicium flabelliforme Tibell SPECIES
 
 #### Status
 ACCEPTED

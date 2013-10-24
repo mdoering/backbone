@@ -1,5 +1,4 @@
-Parmelia cristulata Ach. SPECIES
-=======
+# Parmelia cristulata Ach. SPECIES
 
 #### Status
 ACCEPTED

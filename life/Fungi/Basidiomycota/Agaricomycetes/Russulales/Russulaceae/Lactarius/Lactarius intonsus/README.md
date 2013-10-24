@@ -1,5 +1,4 @@
-Lactarius intonsus Verbeken & E. Horak SPECIES
-=======
+# Lactarius intonsus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria maculans (Kremp.) Zahlbr. SPECIES
-=======
+# Catillaria maculans (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

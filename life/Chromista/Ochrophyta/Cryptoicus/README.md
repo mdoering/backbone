@@ -1,5 +1,4 @@
-Cryptoicus J.Leidy GENUS
-=======
+# Cryptoicus J.Leidy GENUS
 
 #### Status
 ACCEPTED

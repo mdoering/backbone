@@ -1,5 +1,4 @@
-Psilocybe aucklandiae Guzmán, C.C. King & Bandala, 1991 SPECIES
-=======
+# Psilocybe aucklandiae Guzmán, C.C. King & Bandala, 1991 SPECIES
 
 #### Status
 ACCEPTED

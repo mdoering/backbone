@@ -1,5 +1,4 @@
-Stropharia andina Singer SPECIES
-=======
+# Stropharia andina Singer SPECIES
 
 #### Status
 ACCEPTED

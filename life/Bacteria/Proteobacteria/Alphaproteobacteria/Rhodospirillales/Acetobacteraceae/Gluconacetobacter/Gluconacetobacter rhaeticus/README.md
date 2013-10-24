@@ -1,5 +1,4 @@
-Gluconacetobacter rhaeticus Dellaglio et al., 2005 SPECIES
-=======
+# Gluconacetobacter rhaeticus Dellaglio et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

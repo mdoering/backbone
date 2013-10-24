@@ -1,5 +1,4 @@
-Discosia rugulosa Berk. & M.A. Curtis SPECIES
-=======
+# Discosia rugulosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

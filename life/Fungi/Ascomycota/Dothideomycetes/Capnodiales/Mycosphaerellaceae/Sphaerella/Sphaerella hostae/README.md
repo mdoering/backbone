@@ -1,5 +1,4 @@
-Sphaerella hostae (Syd.) Sacc. SPECIES
-=======
+# Sphaerella hostae (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

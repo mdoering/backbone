@@ -1,5 +1,4 @@
-Lambottiella heterostoma (Ellis & Everh.) Sacc. SPECIES
-=======
+# Lambottiella heterostoma (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

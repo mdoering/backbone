@@ -1,5 +1,4 @@
-Glenodinium inaequale Chodat SPECIES
-=======
+# Glenodinium inaequale Chodat SPECIES
 
 #### Status
 ACCEPTED

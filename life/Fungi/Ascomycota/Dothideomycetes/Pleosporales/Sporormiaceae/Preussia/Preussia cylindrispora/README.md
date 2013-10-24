@@ -1,5 +1,4 @@
-Preussia cylindrispora Lodha SPECIES
-=======
+# Preussia cylindrispora Lodha SPECIES
 
 #### Status
 ACCEPTED

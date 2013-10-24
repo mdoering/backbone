@@ -1,17 +1,16 @@
-Ramaria retispora Corner, 1970 SPECIES
-=======
+# Ramaria albocinerea (Pat.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 33: 256 (1970)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 555 (1950)
 
 #### Original name
-Ramaria retispora Corner, 1970
+Lachnocladium albocinereum Pat., 1889
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Epistylis dupla Dumas, 1929 SPECIES
-=======
+# Epistylis dupla Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

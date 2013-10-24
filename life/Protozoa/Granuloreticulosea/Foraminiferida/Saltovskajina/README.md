@@ -1,5 +1,4 @@
-Saltovskajina Sabirov, 1982 GENUS
-=======
+# Saltovskajina Sabirov, 1982 GENUS
 
 #### Status
 ACCEPTED

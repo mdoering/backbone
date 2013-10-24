@@ -1,5 +1,4 @@
-Dothiorella schoenocauli Syd. SPECIES
-=======
+# Dothiorella schoenocauli Syd. SPECIES
 
 #### Status
 ACCEPTED

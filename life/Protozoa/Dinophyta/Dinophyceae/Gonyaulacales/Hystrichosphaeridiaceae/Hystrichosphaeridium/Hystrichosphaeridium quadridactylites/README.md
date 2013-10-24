@@ -1,5 +1,4 @@
-Hystrichosphaeridium quadridactylites Stockmans & Willière, 1962 SPECIES
-=======
+# Hystrichosphaeridium quadridactylites Stockmans & Willière, 1962 SPECIES
 
 #### Status
 ACCEPTED

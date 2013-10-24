@@ -1,5 +1,4 @@
-Arcyodes O.F. Cook GENUS
-=======
+# Arcyodes O.F. Cook GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia pokhraensis Dhanch. & Bakhukh. SPECIES
-=======
+# Stropharia pokhraensis Dhanch. & Bakhukh. SPECIES
 
 #### Status
 ACCEPTED

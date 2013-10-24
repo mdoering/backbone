@@ -1,5 +1,4 @@
-Candelaria indica (Hue) Vain. SPECIES
-=======
+# Candelaria indica (Hue) Vain. SPECIES
 
 #### Status
 ACCEPTED

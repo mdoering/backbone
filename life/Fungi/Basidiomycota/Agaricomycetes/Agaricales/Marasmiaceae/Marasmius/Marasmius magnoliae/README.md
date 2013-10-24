@@ -1,5 +1,4 @@
-Marasmius magnoliae Singer SPECIES
-=======
+# Marasmius magnoliae Singer SPECIES
 
 #### Status
 ACCEPTED

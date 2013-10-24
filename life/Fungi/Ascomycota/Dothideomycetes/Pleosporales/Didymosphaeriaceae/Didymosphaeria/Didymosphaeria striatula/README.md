@@ -1,5 +1,4 @@
-Didymosphaeria striatula var. striatula VARIETY
-=======
+# Didymosphaeria striatula Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Didymosphaeria striatula var. striatula
+Didymosphaeria striatula Penz. & Sacc.
 
 ### Remarks
 null

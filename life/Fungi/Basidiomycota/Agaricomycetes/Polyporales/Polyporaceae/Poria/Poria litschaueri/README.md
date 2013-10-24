@@ -1,5 +1,4 @@
-Poria litschaueri Pilát SPECIES
-=======
+# Poria litschaueri Pilát SPECIES
 
 #### Status
 ACCEPTED

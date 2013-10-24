@@ -1,5 +1,4 @@
-Eschatogonia minuta Timdal & R. Sant. SPECIES
-=======
+# Eschatogonia minuta Timdal & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

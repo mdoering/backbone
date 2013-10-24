@@ -1,14 +1,13 @@
-Xanthoria mandshurica (Zahlbr.) Asahina SPECIES
-=======
+# Xanthoria mandschurica (Zahlbr.) Asahina SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Jap. Bot. 29: 290 (1954)
 
 #### Original name
 Xanthoria parietina var. mandschurica Zahlbr.

@@ -1,5 +1,4 @@
-Lanzia caryopsicola Spooner SPECIES
-=======
+# Lanzia caryopsicola Spooner SPECIES
 
 #### Status
 ACCEPTED

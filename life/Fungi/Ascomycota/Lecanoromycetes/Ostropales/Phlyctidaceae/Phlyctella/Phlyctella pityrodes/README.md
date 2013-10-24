@@ -1,5 +1,4 @@
-Phlyctella pityrodes Kremp. SPECIES
-=======
+# Phlyctella pityrodes Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypodermium orchidearum Cooke & Massee SPECIES
-=======
+# Hypodermium orchidearum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza ustalis Berk. & M.A. Curtis SPECIES
-=======
+# Peziza ustalis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

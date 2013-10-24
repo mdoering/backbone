@@ -1,5 +1,4 @@
-Russula sejuncta Buyck SPECIES
-=======
+# Russula sejuncta Buyck SPECIES
 
 #### Status
 ACCEPTED

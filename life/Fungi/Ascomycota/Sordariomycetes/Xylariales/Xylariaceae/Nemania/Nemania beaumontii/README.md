@@ -1,17 +1,16 @@
-Heptameria beaumontii (Berk. & M.C. Curtis) Cooke, 1889 SPECIES
-=======
+# Nemania beaumontii (Berk. & M.A. Curtis) Y.M. Ju & J.D. Rogers, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 74(1-2): 88 (2002)
 
 #### Original name
-null
+Hypoxylon beaumontii Berk. & M.A. Curtis, 1876
 
 ### Remarks
 null

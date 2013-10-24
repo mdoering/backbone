@@ -1,5 +1,4 @@
-Dicaeoma caricis-macrocephalae (Dietel) Syd. SPECIES
-=======
+# Dicaeoma caricis-macrocephalae (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

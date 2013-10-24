@@ -1,5 +1,4 @@
-Didymosphaeria mulleri Mukerji & S. Kapoor SPECIES
-=======
+# Didymosphaeria mulleri Mukerji & S. Kapoor SPECIES
 
 #### Status
 ACCEPTED

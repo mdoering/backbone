@@ -1,5 +1,4 @@
-Minchinia mercenariae Ford, Stokes, Burreson, Scarpa, Carnegie, Kraeuter & Bushek, 2009 SPECIES
-=======
+# Minchinia mercenariae Ford, Stokes, Burreson, Scarpa, Carnegie, Kraeuter & Bushek, 2009 SPECIES
 
 #### Status
 ACCEPTED

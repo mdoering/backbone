@@ -1,5 +1,4 @@
-Pleonectria ribis P. Karst. SPECIES
-=======
+# Pleonectria ribis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypogymnia sibirica (Zahlbr.) Rass. SPECIES
-=======
+# Hypogymnia sibirica (Zahlbr.) Rass. SPECIES
 
 #### Status
 ACCEPTED

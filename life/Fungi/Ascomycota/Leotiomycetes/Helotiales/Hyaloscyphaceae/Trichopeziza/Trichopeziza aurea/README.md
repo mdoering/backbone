@@ -1,5 +1,4 @@
-Trichopeziza aurea Rick SPECIES
-=======
+# Trichopeziza aurea Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collemodium subplicatile (Nyl.) Arnold SPECIES
-=======
+# Collemodium subplicatile (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

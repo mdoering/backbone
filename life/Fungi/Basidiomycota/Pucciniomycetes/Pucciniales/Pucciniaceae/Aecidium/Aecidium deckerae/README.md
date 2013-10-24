@@ -1,8 +1,7 @@
-Aecidium deckerrae Pat. SPECIES
-=======
+# Aecidium deckerae Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium deckerrae Pat.
+Aecidium deckerae Pat.
 
 ### Remarks
 null

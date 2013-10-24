@@ -1,5 +1,4 @@
-Diaporthe tillandsiae Speg. SPECIES
-=======
+# Diaporthe tillandsiae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnellum gracilipes (P. Karst.) P. Karst., 1880 SPECIES
-=======
+# Hydnellum gracilipes (P. Karst.) P. Karst., 1880 SPECIES
 
 #### Status
 DOUBTFUL

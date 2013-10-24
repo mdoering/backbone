@@ -1,14 +1,13 @@
-Clypeolum chalybeum Rehm SPECIES
-=======
+# Dictyothyrium chalybeum (Rehm) Theiss. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 37: 322 (1898)
+Brotéria, sér. bot. 12: 90 (1914)
 
 #### Original name
 Clypeolum chalybeum Rehm

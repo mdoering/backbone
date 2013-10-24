@@ -1,5 +1,4 @@
-Clathroporina leioplaca Müll. Arg. SPECIES
-=======
+# Clathroporina leioplaca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

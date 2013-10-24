@@ -1,5 +1,4 @@
-Usnea evansii Motyka SPECIES
-=======
+# Usnea evansii Motyka SPECIES
 
 #### Status
 ACCEPTED

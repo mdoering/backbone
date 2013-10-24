@@ -1,5 +1,4 @@
-Agaricus suboreades Murrill SPECIES
-=======
+# Agaricus suboreades Murrill SPECIES
 
 #### Status
 ACCEPTED

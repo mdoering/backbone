@@ -1,8 +1,7 @@
-Cercospora patouillardi Sacc. & D. Sacc. SPECIES
-=======
+# Cercospora patouillardii Sacc. & D. Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercospora patouillardi Sacc. & D. Sacc.
+Cercospora patouillardii Sacc. & D. Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ellipsonodosaria rotundata (d'Orbigny) SPECIES
-=======
+# Ellipsonodosaria rotundata (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

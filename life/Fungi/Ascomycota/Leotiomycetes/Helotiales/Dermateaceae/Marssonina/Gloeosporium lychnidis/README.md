@@ -1,5 +1,4 @@
-Gloeosporium lychnidis Oudem. SPECIES
-=======
+# Gloeosporium lychnidis Oudem. SPECIES
 
 #### Status
 ACCEPTED

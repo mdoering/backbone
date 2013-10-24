@@ -1,5 +1,4 @@
-Androsaceus actinophorus (Berk. & Broome) Rea SPECIES
-=======
+# Androsaceus actinophorus (Berk. & Broome) Rea SPECIES
 
 #### Status
 ACCEPTED

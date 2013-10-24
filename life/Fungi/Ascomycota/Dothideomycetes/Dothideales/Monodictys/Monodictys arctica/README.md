@@ -1,5 +1,4 @@
-Monodictys arctica M.J. Day & Currah SPECIES
-=======
+# Monodictys arctica M.J. Day & Currah SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypethelium schizostomum Leight. SPECIES
-=======
+# Trypethelium schizostomum Leight. SPECIES
 
 #### Status
 ACCEPTED

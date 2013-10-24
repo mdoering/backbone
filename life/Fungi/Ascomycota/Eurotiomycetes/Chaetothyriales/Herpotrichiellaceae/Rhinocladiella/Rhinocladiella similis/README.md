@@ -1,5 +1,4 @@
-Rhinocladiella similis de Hoog & Calig. SPECIES
-=======
+# Rhinocladiella similis de Hoog & Calig. SPECIES
 
 #### Status
 ACCEPTED

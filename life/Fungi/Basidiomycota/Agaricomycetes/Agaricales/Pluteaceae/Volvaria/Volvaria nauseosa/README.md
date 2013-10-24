@@ -1,5 +1,4 @@
-Volvaria nauseosa Romagn. SPECIES
-=======
+# Volvaria nauseosa Romagn. SPECIES
 
 #### Status
 ACCEPTED

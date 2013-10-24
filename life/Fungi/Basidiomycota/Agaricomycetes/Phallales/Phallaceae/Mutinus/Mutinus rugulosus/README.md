@@ -1,5 +1,4 @@
-Mutinus rugulosus Rick SPECIES
-=======
+# Mutinus rugulosus Rick SPECIES
 
 #### Status
 ACCEPTED

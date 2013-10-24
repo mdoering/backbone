@@ -1,14 +1,13 @@
-Foveostroma indica (Panwar & U.K. Kulk.) Hosag. & N.P. Balakr. SPECIES
-=======
+# Foveostroma indicum (Panwar & U.K. Kulk.) Hosag. & N.P. Balakr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 15(2): 478 (1991)
 
 #### Original name
 Micropera indica Panwar & U.K. Kulk.

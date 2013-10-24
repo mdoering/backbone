@@ -1,5 +1,4 @@
-Dicaeoma coprosmatis (Morrison {?} ) Kuntze SPECIES
-=======
+# Dicaeoma coprosmatis (Morrison {?} ) Kuntze SPECIES
 
 #### Status
 ACCEPTED

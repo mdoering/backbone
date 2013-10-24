@@ -1,5 +1,4 @@
-Ascoporia lateritia Samuels & A.I. Romero, 1993 SPECIES
-=======
+# Ascoporia lateritia Samuels & A.I. Romero, 1993 SPECIES
 
 #### Status
 ACCEPTED

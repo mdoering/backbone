@@ -1,5 +1,4 @@
-Trachelomonas neotropica Balech SPECIES
-=======
+# Trachelomonas neotropica Balech SPECIES
 
 #### Status
 ACCEPTED

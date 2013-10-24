@@ -1,5 +1,4 @@
-Urosporellina striatula (Fayod) E. Horak SPECIES
-=======
+# Urosporellina striatula (Fayod) E. Horak SPECIES
 
 #### Status
 ACCEPTED

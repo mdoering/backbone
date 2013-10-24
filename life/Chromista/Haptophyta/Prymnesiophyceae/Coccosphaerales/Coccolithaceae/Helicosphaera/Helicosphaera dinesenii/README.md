@@ -1,5 +1,4 @@
-Helicosphaera dinesenii Perch-Nielsen, 1971 SPECIES
-=======
+# Helicosphaera dinesenii Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

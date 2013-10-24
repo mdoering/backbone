@@ -1,5 +1,4 @@
-Pseudocercospora shoreae-robustae U. Braun SPECIES
-=======
+# Pseudocercospora shoreae-robustae U. Braun SPECIES
 
 #### Status
 ACCEPTED

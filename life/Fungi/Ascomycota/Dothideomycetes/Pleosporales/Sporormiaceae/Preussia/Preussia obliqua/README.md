@@ -1,5 +1,4 @@
-Preussia obliqua (R.S. Khan & Cain) J.C. Krug & R.S. Khan SPECIES
-=======
+# Preussia obliqua (R.S. Khan & Cain) J.C. Krug & R.S. Khan SPECIES
 
 #### Status
 ACCEPTED

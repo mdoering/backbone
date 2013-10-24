@@ -1,5 +1,4 @@
-Cortinarius violaceipes Bidaud & Consiglio SPECIES
-=======
+# Cortinarius violaceipes Bidaud & Consiglio SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceriospora acaciae S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Ceriospora acaciae S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bimeris nidulans Petr. SPECIES
-=======
+# Bimeris nidulans Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosporina gemina E. Horak SPECIES
-=======
+# Astrosporina gemina E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema leucostomum Ach. SPECIES
-=======
+# Thelotrema leucostomum Ach. SPECIES
 
 #### Status
 ACCEPTED

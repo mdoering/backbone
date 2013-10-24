@@ -1,5 +1,4 @@
-Delicatula spinosae Velen. SPECIES
-=======
+# Delicatula spinosae Velen. SPECIES
 
 #### Status
 ACCEPTED

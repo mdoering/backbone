@@ -1,17 +1,16 @@
-Rhytidhysterium viride Speg. SPECIES
-=======
+# Rhytidhysteron viride Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 12(4): 188 (1881)
 
 #### Original name
-Rhytidhysterium viride Speg.
+Rhytidhysteron viride Speg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pleosphaerulina phlomidis Lobik SPECIES
-=======
+# Pleosphaerulina phlomidis Lobik SPECIES
 
 #### Status
 ACCEPTED

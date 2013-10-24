@@ -1,5 +1,4 @@
-Uredo equiseti Engl. SPECIES
-=======
+# Uredo equiseti Engl. SPECIES
 
 #### Status
 ACCEPTED

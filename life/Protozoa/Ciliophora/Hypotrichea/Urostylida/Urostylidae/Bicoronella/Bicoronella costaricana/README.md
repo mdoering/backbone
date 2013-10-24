@@ -1,5 +1,4 @@
-Bicoronella costaricana Foissner, 1995 SPECIES
-=======
+# Bicoronella costaricana Foissner, 1995 SPECIES
 
 #### Status
 ACCEPTED

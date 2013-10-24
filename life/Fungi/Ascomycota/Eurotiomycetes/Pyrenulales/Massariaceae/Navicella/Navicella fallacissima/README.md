@@ -1,5 +1,4 @@
-Navicella fallacissima (P. Karst.) Kuntze SPECIES
-=======
+# Navicella fallacissima (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

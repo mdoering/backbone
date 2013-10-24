@@ -1,5 +1,4 @@
-Melosira salina Kützing SPECIES
-=======
+# Melosira salina Kützing SPECIES
 
 #### Status
 ACCEPTED

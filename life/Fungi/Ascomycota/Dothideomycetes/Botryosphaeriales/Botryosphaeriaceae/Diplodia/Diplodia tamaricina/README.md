@@ -1,8 +1,7 @@
-Diplodia tamaricis Sacc., 1879 SPECIES
-=======
+# Diplodia tamaricina Sacc., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Gymnopus orizabensis Murrill SPECIES
-=======
+# Gymnopus orizabensis Murrill SPECIES
 
 #### Status
 ACCEPTED

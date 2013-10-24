@@ -1,5 +1,4 @@
-Phyllosticta tremniacensis C. Massal. SPECIES
-=======
+# Phyllosticta tremniacensis C. Massal. SPECIES
 
 #### Status
 ACCEPTED

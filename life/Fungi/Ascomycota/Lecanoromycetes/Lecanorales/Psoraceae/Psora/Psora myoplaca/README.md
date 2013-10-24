@@ -1,5 +1,4 @@
-Psora myoplaca (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Psora myoplaca (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria depilata Fr. SPECIES
-=======
+# Sphaeria depilata Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis lagettae Gutner SPECIES
-=======
+# Phomopsis lagettae Gutner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypethelium nitidiusculum (Nyl.) R. C. Harris SPECIES
-=======
+# Trypethelium nitidiusculum (Nyl.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

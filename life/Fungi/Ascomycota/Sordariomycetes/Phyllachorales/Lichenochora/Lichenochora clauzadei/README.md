@@ -1,5 +1,4 @@
-Lichenochora clauzadei Nav.-Ros., Cl. Roux & Llimona, 1994 SPECIES
-=======
+# Lichenochora clauzadei Nav.-Ros., Cl. Roux & Llimona, 1994 SPECIES
 
 #### Status
 ACCEPTED

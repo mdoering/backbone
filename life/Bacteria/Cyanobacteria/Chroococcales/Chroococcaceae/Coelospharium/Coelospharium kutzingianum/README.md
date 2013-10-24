@@ -1,5 +1,4 @@
-Coelospharium kutzingianum Naegei SPECIES
-=======
+# Coelospharium kutzingianum Naegei SPECIES
 
 #### Status
 ACCEPTED

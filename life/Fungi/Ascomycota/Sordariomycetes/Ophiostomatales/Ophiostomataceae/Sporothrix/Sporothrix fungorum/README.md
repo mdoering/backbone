@@ -1,5 +1,4 @@
-Sporothrix fungorum de Hoog & G.A. de Vries, 1973 SPECIES
-=======
+# Sporothrix fungorum de Hoog & G.A. de Vries, 1973 SPECIES
 
 #### Status
 ACCEPTED

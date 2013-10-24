@@ -1,5 +1,4 @@
-Hydnum armeniacum Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum armeniacum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

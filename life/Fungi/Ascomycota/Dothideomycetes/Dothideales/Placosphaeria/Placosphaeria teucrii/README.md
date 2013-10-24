@@ -1,5 +1,4 @@
-Placosphaeria teucrii Allesch. SPECIES
-=======
+# Placosphaeria teucrii Allesch. SPECIES
 
 #### Status
 ACCEPTED

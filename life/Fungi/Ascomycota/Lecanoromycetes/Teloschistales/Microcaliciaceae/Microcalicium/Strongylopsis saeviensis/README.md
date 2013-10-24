@@ -1,5 +1,4 @@
-Strongylopsis saeviensis Räsänen SPECIES
-=======
+# Strongylopsis saeviensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

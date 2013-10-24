@@ -1,5 +1,4 @@
-Placosphaeria piri Oudem. SPECIES
-=======
+# Placosphaeria piri Oudem. SPECIES
 
 #### Status
 ACCEPTED

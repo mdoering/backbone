@@ -1,5 +1,4 @@
-Aspergillus tardus Bissett & Widden, 1985 SPECIES
-=======
+# Aspergillus tardus Bissett & Widden, 1985 SPECIES
 
 #### Status
 ACCEPTED

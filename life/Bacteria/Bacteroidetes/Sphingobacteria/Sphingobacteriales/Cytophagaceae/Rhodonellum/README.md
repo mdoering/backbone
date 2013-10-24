@@ -1,5 +1,4 @@
-Rhodonellum Schmidt et al., 2006 GENUS
-=======
+# Rhodonellum Schmidt et al., 2006 GENUS
 
 #### Status
 ACCEPTED

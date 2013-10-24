@@ -1,5 +1,4 @@
-Teichospora vaga Rehm SPECIES
-=======
+# Teichospora vaga Rehm SPECIES
 
 #### Status
 ACCEPTED

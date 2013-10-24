@@ -1,8 +1,7 @@
-Peziza sowerbei Pers. SPECIES
-=======
+# Peziza sowerbyi Pers. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peziza sowerbei Pers.
+Peziza sowerbyi Pers.
 
 ### Remarks
 null

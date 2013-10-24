@@ -1,17 +1,16 @@
-Lecidea leucophaea var. leucophaea VARIETY
-=======
+# Miriquidica leucophaea (Flörke ex Rabenh.) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 23: 386 (1987)
 
 #### Original name
-Lecidea leucophaea var. leucophaea
+Biatora leucophaea Flörke ex Rabenh.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chaetocalathus pachytrichus Singer SPECIES
-=======
+# Chaetocalathus pachytrichus Singer SPECIES
 
 #### Status
 ACCEPTED

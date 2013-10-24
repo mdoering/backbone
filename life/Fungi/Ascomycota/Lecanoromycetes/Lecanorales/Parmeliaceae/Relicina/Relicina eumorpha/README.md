@@ -1,5 +1,4 @@
-Relicina eumorpha Hale SPECIES
-=======
+# Relicina eumorpha Hale SPECIES
 
 #### Status
 ACCEPTED

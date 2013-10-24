@@ -1,5 +1,4 @@
-Irpex iyoensis Yasuda SPECIES
-=======
+# Irpex iyoensis Yasuda SPECIES
 
 #### Status
 ACCEPTED

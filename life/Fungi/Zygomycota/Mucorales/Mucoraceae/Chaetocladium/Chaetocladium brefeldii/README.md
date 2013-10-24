@@ -1,8 +1,7 @@
-Chaetocladium brefeldii var. brefeldii Tiegh. & G. Le Monn., 1873 VARIETY
-=======
+# Chaetocladium brefeldii Tiegh. & G. Le Monn., 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Annls Sci. Nat. , Bot. , sér. 5 17: 342 (1873)
 
 #### Original name
-Chaetocladium brefeldii var. brefeldii Tiegh. & G. Le Monn., 1873
+Chaetocladium brefeldii Tiegh. & G. Le Monn., 1873
 
 ### Remarks
 null

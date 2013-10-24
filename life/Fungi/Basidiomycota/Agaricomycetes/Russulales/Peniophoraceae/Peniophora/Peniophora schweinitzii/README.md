@@ -1,5 +1,4 @@
-Peniophora schweinitzii Massee SPECIES
-=======
+# Peniophora schweinitzii Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptorhaphis quercus f. quercus (Beltr.) Körb. FORM
-=======
+# Leptorhaphis quercus (Beltr.) Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptorhaphis quercus f. quercus (Beltr.) Körb.
+Campylacia quercus Beltr.
 
 ### Remarks
 null

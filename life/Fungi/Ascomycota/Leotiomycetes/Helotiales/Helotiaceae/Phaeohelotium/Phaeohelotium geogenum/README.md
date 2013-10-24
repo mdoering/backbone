@@ -1,14 +1,13 @@
-Helotium geogenum Cooke, 1877 SPECIES
-=======
+# Phaeohelotium geogenum (Cooke) Svrcek & Matheis, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 6(no. 38): 65 (1877)
+Ceská Mykol. 33(4): 227 (1979)
 
 #### Original name
 Helotium geogenum Cooke, 1877

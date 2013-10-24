@@ -1,5 +1,4 @@
-Gurleya vavrai SPECIES
-=======
+# Gurleya vavrai SPECIES
 
 #### Status
 ACCEPTED

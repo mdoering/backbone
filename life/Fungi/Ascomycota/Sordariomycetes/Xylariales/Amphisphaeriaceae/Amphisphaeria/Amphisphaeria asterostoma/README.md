@@ -1,5 +1,4 @@
-Amphisphaeria asterostoma Teng SPECIES
-=======
+# Amphisphaeria asterostoma Teng SPECIES
 
 #### Status
 ACCEPTED

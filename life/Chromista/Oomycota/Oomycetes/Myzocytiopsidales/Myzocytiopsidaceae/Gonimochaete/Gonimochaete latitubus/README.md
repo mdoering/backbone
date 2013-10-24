@@ -1,5 +1,4 @@
-Gonimochaete latitubus S.Y. Newell, Cefalu & Fell, 1977 SPECIES
-=======
+# Gonimochaete latitubus S.Y. Newell, Cefalu & Fell, 1977 SPECIES
 
 #### Status
 ACCEPTED

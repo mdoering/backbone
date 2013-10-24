@@ -1,5 +1,4 @@
-Septoria holoschoeni (Mont.) Pass. SPECIES
-=======
+# Septoria holoschoeni (Mont.) Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohelotium asperotrichum G.W. Beaton SPECIES
-=======
+# Pseudohelotium asperotrichum G.W. Beaton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia saxicola (Pollich) Ach. SPECIES
-=======
+# Parmelia saxicola (Pollich) Ach. SPECIES
 
 #### Status
 ACCEPTED

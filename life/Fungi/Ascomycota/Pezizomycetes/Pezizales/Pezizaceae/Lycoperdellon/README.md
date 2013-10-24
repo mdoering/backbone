@@ -1,5 +1,4 @@
-Lycoperdellon GENUS
-=======
+# Lycoperdellon GENUS
 
 #### Status
 ACCEPTED

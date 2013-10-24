@@ -1,5 +1,4 @@
-Proteonina minuta Saidova, 1970 SPECIES
-=======
+# Proteonina minuta Saidova, 1970 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Pythium micracanthum De Bary SPECIES
-=======
+# Pythium micracanthum De Bary SPECIES
 
 #### Status
 ACCEPTED

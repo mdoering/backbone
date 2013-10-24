@@ -1,5 +1,4 @@
-Ceriporia citrina M. Mata & Ryvarden, 2010 SPECIES
-=======
+# Ceriporia citrina M. Mata & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

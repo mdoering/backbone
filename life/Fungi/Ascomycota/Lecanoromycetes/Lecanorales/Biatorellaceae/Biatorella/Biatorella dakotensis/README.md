@@ -1,5 +1,4 @@
-Biatorella dakotensis (H. Magn.) Zahlbr. SPECIES
-=======
+# Biatorella dakotensis (H. Magn.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Piloporia indica Ganesh & Ryvarden, 1988 SPECIES
-=======
+# Piloporia indica Ganesh & Ryvarden, 1988 SPECIES
 
 #### Status
 ACCEPTED

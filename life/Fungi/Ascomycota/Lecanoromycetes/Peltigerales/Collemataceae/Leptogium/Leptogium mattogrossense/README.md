@@ -1,5 +1,4 @@
-Leptogium mattogrossense Malme SPECIES
-=======
+# Leptogium mattogrossense Malme SPECIES
 
 #### Status
 ACCEPTED

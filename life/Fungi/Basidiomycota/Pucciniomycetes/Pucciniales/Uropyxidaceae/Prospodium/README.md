@@ -1,17 +1,16 @@
-Nephlyctis Arthur GENUS
-=======
+# Prospodium Arthur GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Mycol. 13: 31 (1907)
 
 #### Original name
-Nephlyctis Arthur
+Prospodium Arthur
 
 ### Remarks
 null

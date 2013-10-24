@@ -1,5 +1,4 @@
-Gymnodinium bifurcatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium bifurcatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

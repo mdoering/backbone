@@ -1,5 +1,4 @@
-Punctelia fimbriata Marcelli & Canêz SPECIES
-=======
+# Punctelia fimbriata Marcelli & Canêz SPECIES
 
 #### Status
 ACCEPTED

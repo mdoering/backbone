@@ -1,5 +1,4 @@
-Insecticola GENUS
-=======
+# Insecticola GENUS
 
 #### Status
 ACCEPTED

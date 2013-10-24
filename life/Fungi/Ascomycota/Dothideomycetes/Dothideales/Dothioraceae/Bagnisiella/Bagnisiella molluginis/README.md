@@ -1,5 +1,4 @@
-Bagnisiella molluginis (Höhn.) Sacc. & Trotter SPECIES
-=======
+# Bagnisiella molluginis (Höhn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

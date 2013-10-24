@@ -1,5 +1,4 @@
-Pseudodiplodia asplenii Simonyan & Melnik SPECIES
-=======
+# Pseudodiplodia asplenii Simonyan & Melnik SPECIES
 
 #### Status
 ACCEPTED

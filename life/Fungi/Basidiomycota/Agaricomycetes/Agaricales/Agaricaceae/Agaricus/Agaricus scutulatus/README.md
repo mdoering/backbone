@@ -1,5 +1,4 @@
-Agaricus scutulatus Fr. SPECIES
-=======
+# Agaricus scutulatus Fr. SPECIES
 
 #### Status
 ACCEPTED

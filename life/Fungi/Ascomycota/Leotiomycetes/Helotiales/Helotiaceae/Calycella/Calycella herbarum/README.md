@@ -1,5 +1,4 @@
-Calycella herbarum anon. SPECIES
-=======
+# Calycella herbarum anon. SPECIES
 
 #### Status
 ACCEPTED

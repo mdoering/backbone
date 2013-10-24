@@ -1,5 +1,4 @@
-Nonomuraea flexuosa (Meyer, 1989) Zhang et al., 1998 SPECIES
-=======
+# Nonomuraea flexuosa (Meyer, 1989) Zhang et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

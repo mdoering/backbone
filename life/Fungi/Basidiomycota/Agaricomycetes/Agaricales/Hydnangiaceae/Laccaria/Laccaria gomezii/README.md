@@ -1,5 +1,4 @@
-Laccaria gomezii Singer & G.M. Muell. SPECIES
-=======
+# Laccaria gomezii Singer & G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

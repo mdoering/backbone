@@ -1,5 +1,4 @@
-Verrucaria retrusa Stirt. SPECIES
-=======
+# Verrucaria retrusa Stirt. SPECIES
 
 #### Status
 ACCEPTED

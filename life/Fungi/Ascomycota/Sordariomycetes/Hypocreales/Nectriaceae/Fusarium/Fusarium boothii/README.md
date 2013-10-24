@@ -1,5 +1,4 @@
-Fusarium boothii O'Donnell, T. Aoki, Kistler & Geiser, 2004 SPECIES
-=======
+# Fusarium boothii O'Donnell, T. Aoki, Kistler & Geiser, 2004 SPECIES
 
 #### Status
 ACCEPTED

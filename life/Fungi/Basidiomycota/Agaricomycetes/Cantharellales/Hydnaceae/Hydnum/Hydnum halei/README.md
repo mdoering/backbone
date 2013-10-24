@@ -1,5 +1,4 @@
-Hydnum halei Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum halei Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

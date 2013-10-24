@@ -1,5 +1,4 @@
-Phyllosticta thallina Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Phyllosticta thallina Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

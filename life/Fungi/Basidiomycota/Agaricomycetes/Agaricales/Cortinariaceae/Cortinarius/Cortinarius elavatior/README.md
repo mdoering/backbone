@@ -1,5 +1,4 @@
-Cortinarius elavatior Secr. SPECIES
-=======
+# Cortinarius elavatior Secr. SPECIES
 
 #### Status
 ACCEPTED

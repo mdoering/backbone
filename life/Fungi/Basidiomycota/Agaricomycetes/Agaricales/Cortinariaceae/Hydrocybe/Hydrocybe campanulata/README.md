@@ -1,5 +1,4 @@
-Hydrocybe campanulata Velen. SPECIES
-=======
+# Hydrocybe campanulata Velen. SPECIES
 
 #### Status
 ACCEPTED

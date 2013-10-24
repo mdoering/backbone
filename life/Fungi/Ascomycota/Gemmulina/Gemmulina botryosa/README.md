@@ -1,5 +1,4 @@
-Gemmulina botryosa (Descals) Descals & Marvanová, 1999 SPECIES
-=======
+# Gemmulina botryosa (Descals) Descals & Marvanová, 1999 SPECIES
 
 #### Status
 ACCEPTED

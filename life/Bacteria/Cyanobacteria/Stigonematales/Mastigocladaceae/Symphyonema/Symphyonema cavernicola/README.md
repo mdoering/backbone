@@ -1,5 +1,4 @@
-Symphyonema cavernicola A.D. Asencio, M. Aboal & L. Hoffmann SPECIES
-=======
+# Symphyonema cavernicola A.D. Asencio, M. Aboal & L. Hoffmann SPECIES
 
 #### Status
 ACCEPTED

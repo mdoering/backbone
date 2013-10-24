@@ -1,5 +1,4 @@
-Anabaena indica G. Beck SPECIES
-=======
+# Anabaena indica G. Beck SPECIES
 
 #### Status
 ACCEPTED

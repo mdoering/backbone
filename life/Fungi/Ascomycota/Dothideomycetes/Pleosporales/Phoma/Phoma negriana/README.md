@@ -1,5 +1,4 @@
-Phoma negriana Thüm., 1878 SPECIES
-=======
+# Phoma negriana Thüm., 1878 SPECIES
 
 #### Status
 ACCEPTED

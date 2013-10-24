@@ -1,5 +1,4 @@
-Spirorbina Sellier de Civrieux, 1977 GENUS
-=======
+# Spirorbina Sellier de Civrieux, 1977 GENUS
 
 #### Status
 ACCEPTED

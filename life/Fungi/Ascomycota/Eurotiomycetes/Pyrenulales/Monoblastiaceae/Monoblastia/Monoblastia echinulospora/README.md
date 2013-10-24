@@ -1,14 +1,13 @@
-Thrombium echinulosporum Riddle SPECIES
-=======
+# Monoblastia echinulospora (Riddle) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Some Florida Lichens (New York) 36 (1990)
 
 #### Original name
 Thrombium echinulosporum Riddle

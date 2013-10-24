@@ -1,5 +1,4 @@
-Humaria ochroleuca Clem. SPECIES
-=======
+# Humaria ochroleuca Clem. SPECIES
 
 #### Status
 ACCEPTED

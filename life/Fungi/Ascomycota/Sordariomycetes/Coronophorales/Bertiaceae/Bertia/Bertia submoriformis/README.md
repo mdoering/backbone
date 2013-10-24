@@ -1,5 +1,4 @@
-Bertia submoriformis (Plowr.) Sacc. SPECIES
-=======
+# Bertia submoriformis (Plowr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

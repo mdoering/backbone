@@ -1,8 +1,7 @@
-Geaster delicatus Morgan SPECIES
-=======
+# Geastrum delicatus Morgan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster delicatus Morgan
+Geastrum delicatus Morgan
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hendersonia protearum Wakef. SPECIES
-=======
+# Hendersonia protearum Wakef. SPECIES
 
 #### Status
 ACCEPTED

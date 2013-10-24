@@ -1,5 +1,4 @@
-Biatora chloropholis Tuck. SPECIES
-=======
+# Biatora chloropholis Tuck. SPECIES
 
 #### Status
 ACCEPTED

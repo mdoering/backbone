@@ -1,5 +1,4 @@
-Textularia jurassica (Guembel) SPECIES
-=======
+# Textularia jurassica (Guembel) SPECIES
 
 #### Status
 ACCEPTED

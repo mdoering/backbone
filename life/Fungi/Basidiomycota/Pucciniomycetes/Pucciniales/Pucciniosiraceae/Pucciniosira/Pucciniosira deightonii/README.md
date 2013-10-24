@@ -1,5 +1,4 @@
-Pucciniosira deightonii Cummins, 1945 SPECIES
-=======
+# Pucciniosira deightonii Cummins, 1945 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothyrium collapsum (Earle) Theiss. SPECIES
-=======
+# Trichothyrium collapsum (Earle) Theiss. SPECIES
 
 #### Status
 ACCEPTED

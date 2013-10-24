@@ -1,5 +1,4 @@
-Gomphospora cinchonarum (Fée) Trevis. SPECIES
-=======
+# Gomphospora cinchonarum (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

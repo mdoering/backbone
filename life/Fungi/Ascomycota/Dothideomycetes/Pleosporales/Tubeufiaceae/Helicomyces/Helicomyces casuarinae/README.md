@@ -1,5 +1,4 @@
-Helicomyces casuarinae Matsush. SPECIES
-=======
+# Helicomyces casuarinae Matsush. SPECIES
 
 #### Status
 ACCEPTED

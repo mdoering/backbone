@@ -1,5 +1,4 @@
-Lamprospora ascoboloides Seaver SPECIES
-=======
+# Lamprospora ascoboloides Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Therospyris Haeckel, 1881 GENUS
-=======
+# Therospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

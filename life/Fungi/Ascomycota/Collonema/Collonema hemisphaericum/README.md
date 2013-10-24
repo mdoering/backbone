@@ -1,5 +1,4 @@
-Collonema hemisphaericum (Alb. & Schwein.) Grove SPECIES
-=======
+# Collonema hemisphaericum (Alb. & Schwein.) Grove SPECIES
 
 #### Status
 ACCEPTED

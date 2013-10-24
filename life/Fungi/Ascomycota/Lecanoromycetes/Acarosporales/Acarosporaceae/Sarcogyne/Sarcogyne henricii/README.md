@@ -1,8 +1,7 @@
-Sarcogyne henrici B. de Lesd. SPECIES
-=======
+# Sarcogyne henricii B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sarcogyne henrici B. de Lesd.
+Sarcogyne henricii B. de Lesd.
 
 ### Remarks
 null

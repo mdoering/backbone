@@ -1,5 +1,4 @@
-Didymosphaeria galiorum Fuckel SPECIES
-=======
+# Didymosphaeria galiorum Fuckel SPECIES
 
 #### Status
 ACCEPTED

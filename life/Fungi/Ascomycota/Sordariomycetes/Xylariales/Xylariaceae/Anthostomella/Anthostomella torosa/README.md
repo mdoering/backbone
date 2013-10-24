@@ -1,5 +1,4 @@
-Anthostomella torosa Kohlm. & Volkm.-Kohlm., 2002 SPECIES
-=======
+# Anthostomella torosa Kohlm. & Volkm.-Kohlm., 2002 SPECIES
 
 #### Status
 ACCEPTED

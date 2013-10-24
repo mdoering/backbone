@@ -1,5 +1,4 @@
-Arthothelium phyllogenum Müll. Arg. SPECIES
-=======
+# Arthothelium phyllogenum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

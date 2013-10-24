@@ -1,17 +1,16 @@
-Rhabdospora rubiae var. rubiae VARIETY
-=======
+# Septoria rubiae (Pat.) Bubák & Ranoj., 1910 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Rhabdospora rubiae var. rubiae
+Rhabdospora rubiae Pat., 1897
 
 ### Remarks
 null

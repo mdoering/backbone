@@ -1,5 +1,4 @@
-Phacus alatus var. maximus Hübner VARIETY
-=======
+# Phacus alatus G.A. Klebs SPECIES
 
 #### Status
 ACCEPTED

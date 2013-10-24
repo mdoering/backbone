@@ -1,5 +1,4 @@
-Hypoxylon congestum Berk. & Broome SPECIES
-=======
+# Hypoxylon congestum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

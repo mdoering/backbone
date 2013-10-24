@@ -1,5 +1,4 @@
-Ramaria vinaceipes Schild, 1990 SPECIES
-=======
+# Ramaria vinaceipes Schild, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hymenagaricus luteolosporus Heinem. & Little Flower, 1984 SPECIES
-=======
+# Xanthagaricus luteolosporus (Heinem. & Little Flower) Little Flower, Hosag. & T.K. Abraham, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. Bot. Nat. Belg. 54(1-2): 173 (1984)
+New Botanist 24: 97 (1997)
 
 #### Original name
 Hymenagaricus luteolosporus Heinem. & Little Flower, 1984

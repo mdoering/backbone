@@ -1,5 +1,4 @@
-Hendersonia piricola Sacc. SPECIES
-=======
+# Hendersonia piricola Sacc. SPECIES
 
 #### Status
 ACCEPTED

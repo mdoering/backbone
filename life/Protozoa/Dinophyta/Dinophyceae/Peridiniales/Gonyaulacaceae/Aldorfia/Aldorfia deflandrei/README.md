@@ -1,5 +1,4 @@
-Aldorfia deflandrei (Clarke & Verdier, 1967) Stover & Evitt SPECIES
-=======
+# Aldorfia deflandrei (Clarke & Verdier, 1967) Stover & Evitt SPECIES
 
 #### Status
 ACCEPTED

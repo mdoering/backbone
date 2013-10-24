@@ -1,5 +1,4 @@
-Collema cyrtaspis Tuck. SPECIES
-=======
+# Collema cyrtaspis Tuck. SPECIES
 
 #### Status
 ACCEPTED

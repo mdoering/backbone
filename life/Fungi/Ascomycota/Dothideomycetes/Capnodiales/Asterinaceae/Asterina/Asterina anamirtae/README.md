@@ -1,5 +1,4 @@
-Asterina anamirtae Hosag. SPECIES
-=======
+# Asterina anamirtae Hosag. SPECIES
 
 #### Status
 ACCEPTED

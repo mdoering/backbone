@@ -1,5 +1,4 @@
-Bovicornua Jørg. Koch & E.B.G. Jones GENUS
-=======
+# Bovicornua Jørg. Koch & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

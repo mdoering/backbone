@@ -1,5 +1,4 @@
-Glomospora empetri D.M. Hend., 1961 SPECIES
-=======
+# Glomospora empetri D.M. Hend., 1961 SPECIES
 
 #### Status
 ACCEPTED

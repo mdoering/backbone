@@ -1,5 +1,4 @@
-Gloeocapsa rupestris Kützing SPECIES
-=======
+# Gloeocapsa rupestris Kützing SPECIES
 
 #### Status
 ACCEPTED

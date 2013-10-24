@@ -1,5 +1,4 @@
-Valsa rugiella Cooke & Ellis SPECIES
-=======
+# Valsa rugiella Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

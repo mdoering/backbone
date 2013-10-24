@@ -1,5 +1,4 @@
-Cantharellus melanoceras Mont. SPECIES
-=======
+# Cantharellus melanoceras Mont. SPECIES
 
 #### Status
 ACCEPTED

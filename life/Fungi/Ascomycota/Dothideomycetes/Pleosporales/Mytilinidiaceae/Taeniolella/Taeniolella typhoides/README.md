@@ -1,5 +1,4 @@
-Taeniolella typhoides Gulis & Marvanová SPECIES
-=======
+# Taeniolella typhoides Gulis & Marvanová SPECIES
 
 #### Status
 ACCEPTED

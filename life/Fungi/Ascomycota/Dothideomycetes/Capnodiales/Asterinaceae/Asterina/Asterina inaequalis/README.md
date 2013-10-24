@@ -1,5 +1,4 @@
-Asterina inaequalis var. inaequalis VARIETY
-=======
+# Asterina inaequalis Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asterina inaequalis var. inaequalis
+Asterina inaequalis Mont.
 
 ### Remarks
 null

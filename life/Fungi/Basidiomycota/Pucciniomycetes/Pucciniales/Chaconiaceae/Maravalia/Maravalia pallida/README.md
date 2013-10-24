@@ -1,5 +1,4 @@
-Maravalia pallida Arthur & Thaxt. ex Arthur, 1922 SPECIES
-=======
+# Maravalia pallida Arthur & Thaxt. ex Arthur, 1922 SPECIES
 
 #### Status
 ACCEPTED

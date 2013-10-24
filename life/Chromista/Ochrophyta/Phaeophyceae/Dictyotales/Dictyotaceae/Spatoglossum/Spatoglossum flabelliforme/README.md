@@ -1,5 +1,4 @@
-Spatoglossum flabelliforme Weber-van Bosse SPECIES
-=======
+# Spatoglossum flabelliforme Weber-van Bosse SPECIES
 
 #### Status
 ACCEPTED

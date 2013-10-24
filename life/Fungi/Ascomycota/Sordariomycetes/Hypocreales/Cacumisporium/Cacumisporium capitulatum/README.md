@@ -1,17 +1,16 @@
-Acrothecium capitulatum var. clavatum Cif. VARIETY
-=======
+# Cacumisporium capitulatum (Corda) S. Hughes, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 20: 46 (1922)
+Can. J. Bot. 36: 743 (1958)
 
 #### Original name
-Acrothecium capitulatum var. clavatum Cif.
+Helminthosporium capitulatum Corda, 1838
 
 ### Remarks
 null

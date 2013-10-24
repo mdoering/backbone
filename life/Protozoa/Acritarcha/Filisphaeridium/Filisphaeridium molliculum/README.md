@@ -1,5 +1,4 @@
-Filisphaeridium molliculum (Mocyzdlowska & Vidal, 1988) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium molliculum (Mocyzdlowska & Vidal, 1988) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

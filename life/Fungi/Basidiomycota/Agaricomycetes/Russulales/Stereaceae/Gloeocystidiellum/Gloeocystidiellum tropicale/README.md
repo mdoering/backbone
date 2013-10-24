@@ -1,17 +1,16 @@
-Gloeocystidiellum tropicalis Burds., Nakasone & G.W. Freeman SPECIES
-=======
+# Gloeocystidiellum tropicale Burds., Nakasone & G.W. Freeman, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. Bot. 6(4): 428 (1981)
 
 #### Original name
-Gloeocystidiellum tropicalis Burds., Nakasone & G.W. Freeman
+Gloeocystidiellum tropicale Burds., Nakasone & G.W. Freeman, 1981
 
 ### Remarks
 null

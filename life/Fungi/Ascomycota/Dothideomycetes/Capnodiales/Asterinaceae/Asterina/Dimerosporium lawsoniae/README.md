@@ -1,5 +1,4 @@
-Dimerosporium lawsoniae (Henn. & E. Nyman) G. Arnaud SPECIES
-=======
+# Dimerosporium lawsoniae (Henn. & E. Nyman) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

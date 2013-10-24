@@ -1,5 +1,4 @@
-Septoria mueggenburgii Pirotta SPECIES
-=======
+# Septoria mueggenburgii Pirotta SPECIES
 
 #### Status
 ACCEPTED

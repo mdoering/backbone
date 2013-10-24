@@ -1,5 +1,4 @@
-Solobacterium moorei Kageyama & Benno, 2000 SPECIES
-=======
+# Solobacterium moorei Kageyama & Benno, 2000 SPECIES
 
 #### Status
 ACCEPTED

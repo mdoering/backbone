@@ -1,5 +1,4 @@
-Tephromela americana (Fée) Kalb SPECIES
-=======
+# Tephromela americana (Fée) Kalb SPECIES
 
 #### Status
 ACCEPTED

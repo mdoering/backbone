@@ -1,5 +1,4 @@
-Aspicilia stygioplaca (Nyl.) Hue SPECIES
-=======
+# Aspicilia stygioplaca (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

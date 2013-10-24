@@ -1,14 +1,13 @@
-Discina geogenia (Rahm) Donadini SPECIES
-=======
+# Discina geogenius (Rahm) Donadini SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. helv. 1(4): 254 (1985)
 
 #### Original name
 Discina perlata var. geogenius Rahm

@@ -1,5 +1,4 @@
-Stephanopyxis lavrenkoae A. P. Jousé SPECIES
-=======
+# Stephanopyxis lavrenkoae A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

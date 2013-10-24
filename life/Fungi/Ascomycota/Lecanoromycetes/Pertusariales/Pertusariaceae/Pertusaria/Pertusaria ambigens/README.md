@@ -1,5 +1,4 @@
-Pertusaria ambigens (Nyl.) Tuck. SPECIES
-=======
+# Pertusaria ambigens (Nyl.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

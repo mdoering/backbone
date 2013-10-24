@@ -1,5 +1,4 @@
-Aplosporella casuarinae Petr. SPECIES
-=======
+# Aplosporella casuarinae Petr. SPECIES
 
 #### Status
 ACCEPTED

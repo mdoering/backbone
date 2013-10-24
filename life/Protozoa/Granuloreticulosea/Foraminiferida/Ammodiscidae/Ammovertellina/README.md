@@ -1,5 +1,4 @@
-Ammovertellina GENUS
-=======
+# Ammovertellina GENUS
 
 #### Status
 ACCEPTED

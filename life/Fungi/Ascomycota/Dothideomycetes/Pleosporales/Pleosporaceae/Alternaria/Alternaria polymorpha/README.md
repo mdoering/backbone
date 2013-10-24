@@ -1,5 +1,4 @@
-Alternaria polymorpha L. Planchon {?} SPECIES
-=======
+# Alternaria polymorpha L. Planchon {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entylomella winteri Lavrov SPECIES
-=======
+# Entylomella winteri Lavrov SPECIES
 
 #### Status
 ACCEPTED

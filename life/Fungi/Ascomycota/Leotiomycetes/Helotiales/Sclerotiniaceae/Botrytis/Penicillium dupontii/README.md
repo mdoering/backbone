@@ -1,5 +1,4 @@
-Penicillium dupontii Griffon & Maubl., 1911 SPECIES
-=======
+# Penicillium dupontii Griffon & Maubl., 1911 SPECIES
 
 #### Status
 DOUBTFUL

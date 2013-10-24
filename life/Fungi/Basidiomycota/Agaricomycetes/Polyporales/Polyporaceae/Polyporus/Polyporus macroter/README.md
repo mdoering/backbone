@@ -1,5 +1,4 @@
-Polyporus macroter Berk. & Broome ex G. Cunn. SPECIES
-=======
+# Polyporus macroter Berk. & Broome ex G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

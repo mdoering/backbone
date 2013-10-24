@@ -1,5 +1,4 @@
-Paulinella ovalis (A. Wulff) P.W. Johnson, P.E. Hargraves & J.M. Sieburth SPECIES
-=======
+# Paulinella ovalis (A. Wulff) P.W. Johnson, P.E. Hargraves & J.M. Sieburth SPECIES
 
 #### Status
 ACCEPTED

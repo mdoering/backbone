@@ -1,5 +1,4 @@
-Mycena graminicola Robich SPECIES
-=======
+# Mycena graminicola Robich SPECIES
 
 #### Status
 ACCEPTED

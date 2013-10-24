@@ -1,5 +1,4 @@
-Auricularia fibrillifera Kobayasi SPECIES
-=======
+# Auricularia fibrillifera Kobayasi SPECIES
 
 #### Status
 ACCEPTED

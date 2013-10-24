@@ -1,5 +1,4 @@
-Stereocaulon sphaerophoroides Tuck. SPECIES
-=======
+# Stereocaulon sphaerophoroides Tuck. SPECIES
 
 #### Status
 ACCEPTED

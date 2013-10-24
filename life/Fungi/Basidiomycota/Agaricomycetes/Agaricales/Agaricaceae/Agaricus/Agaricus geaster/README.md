@@ -1,5 +1,4 @@
-Agaricus geaster Berk. & Broome SPECIES
-=======
+# Agaricus geaster Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

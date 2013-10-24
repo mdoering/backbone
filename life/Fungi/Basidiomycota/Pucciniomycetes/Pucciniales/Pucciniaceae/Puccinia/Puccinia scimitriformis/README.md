@@ -1,5 +1,4 @@
-Puccinia scimitriformis Cummins SPECIES
-=======
+# Puccinia scimitriformis Cummins SPECIES
 
 #### Status
 ACCEPTED

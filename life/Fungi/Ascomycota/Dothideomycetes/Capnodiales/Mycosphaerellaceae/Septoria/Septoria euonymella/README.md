@@ -1,5 +1,4 @@
-Septoria euonymella Pass. SPECIES
-=======
+# Septoria euonymella Pass. SPECIES
 
 #### Status
 ACCEPTED

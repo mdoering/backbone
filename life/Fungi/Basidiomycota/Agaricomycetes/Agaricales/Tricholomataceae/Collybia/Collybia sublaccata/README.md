@@ -1,5 +1,4 @@
-Collybia sublaccata (Berk. & Broome) Pegler SPECIES
-=======
+# Collybia sublaccata (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

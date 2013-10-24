@@ -1,5 +1,4 @@
-Thelopsis byssoidea Diederich SPECIES
-=======
+# Thelopsis byssoidea Diederich SPECIES
 
 #### Status
 ACCEPTED

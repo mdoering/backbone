@@ -1,5 +1,4 @@
-Dendryphiella triticicola ined. SPECIES
-=======
+# Dendryphiella triticicola ined. SPECIES
 
 #### Status
 ACCEPTED

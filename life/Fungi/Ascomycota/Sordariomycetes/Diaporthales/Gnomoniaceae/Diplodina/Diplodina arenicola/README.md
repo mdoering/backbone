@@ -1,5 +1,4 @@
-Diplodina arenicola A.L. Guyot SPECIES
-=======
+# Diplodina arenicola A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

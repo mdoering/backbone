@@ -1,5 +1,4 @@
-Trypethelium inarense Vain. SPECIES
-=======
+# Trypethelium inarense Vain. SPECIES
 
 #### Status
 ACCEPTED

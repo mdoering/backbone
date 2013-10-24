@@ -1,17 +1,16 @@
-Arthopyrenia saxicola f. saxicola FORM
-=======
+# Naetrocymbe saxicola (A. Massal.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symmict. Lich. 107 (1855)
+null
 
 #### Original name
-Arthopyrenia saxicola f. saxicola
+null
 
 ### Remarks
 null

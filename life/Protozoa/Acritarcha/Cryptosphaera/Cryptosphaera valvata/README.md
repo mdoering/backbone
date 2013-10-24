@@ -1,5 +1,4 @@
-Cryptosphaera valvata Sah & Kar, 1974 SPECIES
-=======
+# Cryptosphaera valvata Sah & Kar, 1974 SPECIES
 
 #### Status
 ACCEPTED

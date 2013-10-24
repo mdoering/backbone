@@ -1,5 +1,4 @@
-Rostrupia miyabeana S. Ito SPECIES
-=======
+# Rostrupia miyabeana S. Ito SPECIES
 
 #### Status
 ACCEPTED

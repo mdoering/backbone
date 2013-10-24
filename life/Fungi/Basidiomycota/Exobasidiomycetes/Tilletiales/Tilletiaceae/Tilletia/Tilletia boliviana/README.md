@@ -1,5 +1,4 @@
-Tilletia boliviana M. Piepenbr., 2001 SPECIES
-=======
+# Tilletia boliviana M. Piepenbr., 2001 SPECIES
 
 #### Status
 ACCEPTED

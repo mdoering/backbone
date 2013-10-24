@@ -1,5 +1,4 @@
-Marasmius dealbatus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius dealbatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

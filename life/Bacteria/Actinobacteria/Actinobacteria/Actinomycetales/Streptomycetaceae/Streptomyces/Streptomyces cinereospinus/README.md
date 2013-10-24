@@ -1,5 +1,4 @@
-Streptomyces cinereospinus Terekhova et al., 1986 SPECIES
-=======
+# Streptomyces cinereospinus Terekhova et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

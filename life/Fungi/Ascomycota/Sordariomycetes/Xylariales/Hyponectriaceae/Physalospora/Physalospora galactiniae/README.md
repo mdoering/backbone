@@ -1,5 +1,4 @@
-Physalospora galactiniae Vouaux SPECIES
-=======
+# Physalospora galactiniae Vouaux SPECIES
 
 #### Status
 ACCEPTED

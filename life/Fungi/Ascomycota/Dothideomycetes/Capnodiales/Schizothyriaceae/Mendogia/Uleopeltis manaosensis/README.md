@@ -1,5 +1,4 @@
-Uleopeltis manaosensis Henn. SPECIES
-=======
+# Uleopeltis manaosensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Diadema obtusa Shoemaker & C.E. Babc., 1989 SPECIES
-=======
+# Diadema obtusum Shoemaker & C.E. Babc., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 67(5): 1353 (1989)
 
 #### Original name
-Diadema obtusa Shoemaker & C.E. Babc., 1989
+Diadema obtusum Shoemaker & C.E. Babc., 1989
 
 ### Remarks
 null

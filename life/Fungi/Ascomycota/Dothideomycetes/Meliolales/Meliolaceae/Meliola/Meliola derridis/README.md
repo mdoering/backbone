@@ -1,5 +1,4 @@
-Meliola derridis H.S. Yates SPECIES
-=======
+# Meliola derridis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

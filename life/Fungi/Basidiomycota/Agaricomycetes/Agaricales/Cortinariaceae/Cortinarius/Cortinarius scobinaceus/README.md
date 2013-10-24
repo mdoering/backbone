@@ -1,17 +1,16 @@
-Cortinarius scobinaceus var. scobinaceus VARIETY
-=======
+# Cortinarius scobinaceus Malençon & Bertault SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Champignon Supérieurs du Maroc 1: 541 (1970)
 
 #### Original name
-null
+Cortinarius scobinaceus Malençon & Bertault
 
 ### Remarks
 null

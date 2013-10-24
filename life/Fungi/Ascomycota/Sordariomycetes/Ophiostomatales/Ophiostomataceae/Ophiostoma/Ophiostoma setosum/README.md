@@ -1,5 +1,4 @@
-Ophiostoma setosum Uzunovic, Seifert, S.H. Kim & C. Breuil, 2000 SPECIES
-=======
+# Ophiostoma setosum Uzunovic, Seifert, S.H. Kim & C. Breuil, 2000 SPECIES
 
 #### Status
 ACCEPTED

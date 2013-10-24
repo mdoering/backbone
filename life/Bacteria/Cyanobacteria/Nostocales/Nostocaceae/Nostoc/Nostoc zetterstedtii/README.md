@@ -1,5 +1,4 @@
-Nostoc zetterstedtii Areschoug SPECIES
-=======
+# Nostoc zetterstedtii Areschoug SPECIES
 
 #### Status
 ACCEPTED

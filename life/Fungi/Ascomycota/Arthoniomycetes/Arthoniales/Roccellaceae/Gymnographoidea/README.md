@@ -1,5 +1,4 @@
-Gymnographoidea GENUS
-=======
+# Gymnographoidea GENUS
 
 #### Status
 ACCEPTED

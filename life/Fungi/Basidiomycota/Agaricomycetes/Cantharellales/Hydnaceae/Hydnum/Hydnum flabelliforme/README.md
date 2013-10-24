@@ -1,5 +1,4 @@
-Hydnum flabelliforme Berk. SPECIES
-=======
+# Hydnum flabelliforme Berk. SPECIES
 
 #### Status
 ACCEPTED

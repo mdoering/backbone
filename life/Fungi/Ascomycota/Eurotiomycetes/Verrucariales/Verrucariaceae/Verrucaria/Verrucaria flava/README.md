@@ -1,5 +1,4 @@
-Verrucaria flava (De Willd.) Hoffm. SPECIES
-=======
+# Verrucaria flava (De Willd.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

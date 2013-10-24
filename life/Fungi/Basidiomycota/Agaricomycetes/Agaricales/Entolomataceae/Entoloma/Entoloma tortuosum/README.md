@@ -1,5 +1,4 @@
-Entoloma tortuosum Hesler SPECIES
-=======
+# Entoloma tortuosum Hesler SPECIES
 
 #### Status
 ACCEPTED

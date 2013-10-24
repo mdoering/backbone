@@ -1,5 +1,4 @@
-Exidiopsis griseobrunnea subsp. griseobrunnea SUBSPECIES
-=======
+# Exidiopsis griseobrunnea K. Wells & Raitv. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Raitviir & Wells, Eesti NSV Tead. Akad. Toim. , Biol. seer 15(2): 206 (1966)
 
 #### Original name
-Exidiopsis griseobrunnea subsp. griseobrunnea
+Exidiopsis griseobrunnea K. Wells & Raitv.
 
 ### Remarks
 null

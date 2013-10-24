@@ -1,5 +1,4 @@
-Trichodina caspialosae (Dogiel, 1940) Lom, 1962 SPECIES
-=======
+# Trichodina caspialosae (Dogiel, 1940) Lom, 1962 SPECIES
 
 #### Status
 ACCEPTED

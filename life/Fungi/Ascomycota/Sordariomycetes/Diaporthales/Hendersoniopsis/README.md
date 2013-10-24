@@ -1,5 +1,4 @@
-Hendersoniopsis GENUS
-=======
+# Hendersoniopsis GENUS
 
 #### Status
 ACCEPTED

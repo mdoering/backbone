@@ -1,5 +1,4 @@
-Septoria betulae-odoratae Bubák & Vleugel SPECIES
-=======
+# Septoria betulae-odoratae Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

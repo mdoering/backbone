@@ -1,17 +1,16 @@
-Tapesia cinerella var. cinerella VARIETY
-=======
+# Tapesia cinerella Rehm, 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ascom. Alp. no. 16 (1882)
 
 #### Original name
-null
+Tapesia cinerella Rehm, 1882
 
 ### Remarks
 null

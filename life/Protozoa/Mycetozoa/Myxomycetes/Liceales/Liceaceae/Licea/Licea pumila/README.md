@@ -1,5 +1,4 @@
-Licea pumila G.W. Martin & R.M.Allen, 1969 SPECIES
-=======
+# Licea pumila G.W. Martin & R.M.Allen, 1969 SPECIES
 
 #### Status
 ACCEPTED

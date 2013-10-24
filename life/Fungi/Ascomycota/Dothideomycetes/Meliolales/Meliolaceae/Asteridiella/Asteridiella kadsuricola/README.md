@@ -1,5 +1,4 @@
-Asteridiella kadsuricola H. Hu & J.C. Yang SPECIES
-=======
+# Asteridiella kadsuricola H. Hu & J.C. Yang SPECIES
 
 #### Status
 ACCEPTED

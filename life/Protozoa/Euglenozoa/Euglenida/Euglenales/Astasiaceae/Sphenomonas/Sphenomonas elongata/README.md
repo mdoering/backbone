@@ -1,5 +1,4 @@
-Sphenomonas elongata Lackey SPECIES
-=======
+# Sphenomonas elongata Lackey SPECIES
 
 #### Status
 ACCEPTED

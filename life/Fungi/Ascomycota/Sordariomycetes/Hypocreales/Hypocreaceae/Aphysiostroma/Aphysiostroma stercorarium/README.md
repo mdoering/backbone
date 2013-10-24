@@ -1,5 +1,4 @@
-Aphysiostroma stercorarium Barrasa, A.T. Martínez & G. Moreno, 1986 SPECIES
-=======
+# Aphysiostroma stercorarium Barrasa, A.T. Martínez & G. Moreno, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Engelmanniella halseyi SPECIES
-=======
+# Engelmanniella halseyi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnea subcrinita Rehm SPECIES
-=======
+# Lachnea subcrinita Rehm SPECIES
 
 #### Status
 ACCEPTED

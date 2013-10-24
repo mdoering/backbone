@@ -1,14 +1,13 @@
-Gymnascella punctata (B.G. Dutta & G.R. Ghosh) Currah, 1985 SPECIES
-=======
+# Arachniotus punctatus (B.G. Dutta & G.R. Ghosh) Arx, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 24: 93 (1985)
+Persoonia 6(3): 373 (1971)
 
 #### Original name
 Pseudoarachniotus punctatus B.G. Dutta & G.R. Ghosh, 1964

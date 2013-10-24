@@ -1,5 +1,4 @@
-Hyphodontia subpallidula Xiong, Dai & Wu, 2009 SPECIES
-=======
+# Hyphodontia subpallidula Xiong, Dai & Wu, 2009 SPECIES
 
 #### Status
 ACCEPTED

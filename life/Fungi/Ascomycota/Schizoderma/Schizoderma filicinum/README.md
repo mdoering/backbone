@@ -1,5 +1,4 @@
-Schizoderma filicinum Ehrenb. SPECIES
-=======
+# Schizoderma filicinum Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

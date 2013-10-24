@@ -1,5 +1,4 @@
-Pachyospora lundensis SPECIES
-=======
+# Pachyospora lundensis SPECIES
 
 #### Status
 ACCEPTED

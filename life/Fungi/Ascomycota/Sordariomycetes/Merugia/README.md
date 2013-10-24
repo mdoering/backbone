@@ -1,5 +1,4 @@
-Merugia Rogerson & Samuels GENUS
-=======
+# Merugia Rogerson & Samuels GENUS
 
 #### Status
 ACCEPTED

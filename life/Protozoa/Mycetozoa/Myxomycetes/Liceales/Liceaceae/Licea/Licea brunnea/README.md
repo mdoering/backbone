@@ -1,5 +1,4 @@
-Licea brunnea Preuss SPECIES
-=======
+# Licea brunnea Preuss SPECIES
 
 #### Status
 ACCEPTED

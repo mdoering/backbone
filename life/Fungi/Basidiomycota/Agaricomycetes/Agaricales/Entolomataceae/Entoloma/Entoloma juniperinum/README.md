@@ -1,5 +1,4 @@
-Entoloma juniperinum Barkman & Noordel. SPECIES
-=======
+# Entoloma juniperinum Barkman & Noordel. SPECIES
 
 #### Status
 ACCEPTED

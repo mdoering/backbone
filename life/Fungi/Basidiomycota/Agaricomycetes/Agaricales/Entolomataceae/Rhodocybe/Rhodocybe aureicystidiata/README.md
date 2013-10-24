@@ -1,5 +1,4 @@
-Rhodocybe aureicystidiata Lennox ex T.J. Baroni SPECIES
-=======
+# Rhodocybe aureicystidiata Lennox ex T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

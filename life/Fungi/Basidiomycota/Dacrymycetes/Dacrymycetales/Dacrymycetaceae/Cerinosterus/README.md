@@ -1,5 +1,4 @@
-Cerinosterus R.T. Moore, 1987 GENUS
-=======
+# Cerinosterus R.T. Moore, 1987 GENUS
 
 #### Status
 ACCEPTED

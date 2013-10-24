@@ -1,14 +1,13 @@
-Ascidium granuliferum Kremp. SPECIES
-=======
+# Ocellularia granulifera (Kremp.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 7: 21 (1875)
+Hedwigia 31: 284 (1892)
 
 #### Original name
 Ascidium granuliferum Kremp.

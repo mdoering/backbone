@@ -1,5 +1,4 @@
-Lyngbya fluviatilis G.Martens SPECIES
-=======
+# Lyngbya fluviatilis G.Martens SPECIES
 
 #### Status
 ACCEPTED

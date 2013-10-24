@@ -1,5 +1,4 @@
-Microtypha saccharicola Speg. SPECIES
-=======
+# Microtypha saccharicola Speg. SPECIES
 
 #### Status
 ACCEPTED

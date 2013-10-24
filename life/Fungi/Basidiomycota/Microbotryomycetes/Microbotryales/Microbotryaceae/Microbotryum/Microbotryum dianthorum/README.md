@@ -1,14 +1,13 @@
-Ustilago dianthorum Liro, 1924 SPECIES
-=======
+# Microbotryum dianthorum (Liro) H. Scholz & I. Scholz, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 17(1): 35 (1924)
+Englera 8: 206 (1988)
 
 #### Original name
 Ustilago dianthorum Liro, 1924

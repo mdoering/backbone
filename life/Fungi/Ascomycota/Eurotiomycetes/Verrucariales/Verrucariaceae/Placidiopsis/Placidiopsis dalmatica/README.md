@@ -1,5 +1,4 @@
-Placidiopsis dalmatica Servít SPECIES
-=======
+# Placidiopsis dalmatica Servít SPECIES
 
 #### Status
 ACCEPTED

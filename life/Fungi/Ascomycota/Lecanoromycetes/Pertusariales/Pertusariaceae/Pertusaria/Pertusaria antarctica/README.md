@@ -1,5 +1,4 @@
-Pertusaria antarctica Müll. Arg. SPECIES
-=======
+# Pertusaria antarctica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

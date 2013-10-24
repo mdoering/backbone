@@ -1,5 +1,4 @@
-Aposphaeria martinii Aa SPECIES
-=======
+# Aposphaeria martinii Aa SPECIES
 
 #### Status
 ACCEPTED

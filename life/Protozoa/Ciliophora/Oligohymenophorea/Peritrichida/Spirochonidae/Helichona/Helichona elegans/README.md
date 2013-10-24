@@ -1,5 +1,4 @@
-Helichona elegans Jankowski, 1972 SPECIES
-=======
+# Helichona elegans Jankowski, 1972 SPECIES
 
 #### Status
 ACCEPTED

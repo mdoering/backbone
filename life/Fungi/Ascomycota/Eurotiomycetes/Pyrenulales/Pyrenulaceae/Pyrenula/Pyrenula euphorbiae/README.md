@@ -1,5 +1,4 @@
-Pyrenula euphorbiae Vain. SPECIES
-=======
+# Pyrenula euphorbiae Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema umbella (Tuck.) Nyl. SPECIES
-=======
+# Collema umbella (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

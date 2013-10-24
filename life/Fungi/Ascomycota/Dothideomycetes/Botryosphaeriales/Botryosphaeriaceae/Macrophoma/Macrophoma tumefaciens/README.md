@@ -1,5 +1,4 @@
-Macrophoma tumefaciens Shear SPECIES
-=======
+# Macrophoma tumefaciens Shear SPECIES
 
 #### Status
 ACCEPTED

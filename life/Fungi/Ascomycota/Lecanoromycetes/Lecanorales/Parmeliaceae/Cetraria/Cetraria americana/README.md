@@ -1,5 +1,4 @@
-Cetraria americana M. Satô SPECIES
-=======
+# Cetraria americana M. Satô SPECIES
 
 #### Status
 ACCEPTED

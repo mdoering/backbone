@@ -1,5 +1,4 @@
-Hydnocystis japonica (Kobayasi) Trappe SPECIES
-=======
+# Hydnocystis japonica (Kobayasi) Trappe SPECIES
 
 #### Status
 ACCEPTED

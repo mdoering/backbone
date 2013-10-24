@@ -1,5 +1,4 @@
-Mycosphaerella jenensis (Kuntze) Lindau SPECIES
-=======
+# Mycosphaerella jenensis (Kuntze) Lindau SPECIES
 
 #### Status
 ACCEPTED

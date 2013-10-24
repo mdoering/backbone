@@ -1,17 +1,16 @@
-Venturia inaequalis f. sp FORM
-=======
+# Venturia inaequalis (Cooke) G. Winter, 1875 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 92: 319 (2002)
+Mycotheca universalis 3: no. 261 (1875)
 
 #### Original name
-Venturia inaequalis f. sp
+Sphaerella inaequalis Cooke, 1871
 
 ### Remarks
 null

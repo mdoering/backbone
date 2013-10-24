@@ -1,5 +1,4 @@
-Erioderma limbatum (Nyl.) Vain. SPECIES
-=======
+# Erioderma limbatum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella canavaliae-roseae (J.M. Yen & Gilles) J.M. Yen SPECIES
-=======
+# Stenella canavaliae-roseae (J.M. Yen & Gilles) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

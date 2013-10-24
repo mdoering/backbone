@@ -1,5 +1,4 @@
-Microcystis zanardinii (Hauck) P.Silva SPECIES
-=======
+# Microcystis zanardinii (Hauck) P.Silva SPECIES
 
 #### Status
 ACCEPTED

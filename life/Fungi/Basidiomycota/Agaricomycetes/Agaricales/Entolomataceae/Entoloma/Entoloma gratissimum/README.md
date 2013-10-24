@@ -1,5 +1,4 @@
-Entoloma gratissimum E. Horak SPECIES
-=======
+# Entoloma gratissimum E. Horak SPECIES
 
 #### Status
 ACCEPTED

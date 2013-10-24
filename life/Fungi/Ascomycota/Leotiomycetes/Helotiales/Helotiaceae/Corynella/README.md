@@ -1,5 +1,4 @@
-Corynella GENUS
-=======
+# Corynella GENUS
 
 #### Status
 ACCEPTED

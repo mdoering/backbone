@@ -1,5 +1,4 @@
-Sphingopyxis litoris Kim, Lim & Chun, 2008 SPECIES
-=======
+# Sphingopyxis litoris Kim, Lim & Chun, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium proliferum Sacc. SPECIES
-=======
+# Helminthosporium proliferum Sacc. SPECIES
 
 #### Status
 ACCEPTED

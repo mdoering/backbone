@@ -1,5 +1,4 @@
-Sympodiella multiseptata Tubaki, 1971 SPECIES
-=======
+# Sympodiella multiseptata Tubaki, 1971 SPECIES
 
 #### Status
 ACCEPTED

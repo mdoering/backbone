@@ -1,5 +1,4 @@
-Jahnoporus Nuss GENUS
-=======
+# Jahnoporus Nuss GENUS
 
 #### Status
 ACCEPTED

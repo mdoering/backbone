@@ -1,5 +1,4 @@
-Didymella macrospora Corbaz, 1957 SPECIES
-=======
+# Didymella macrospora Corbaz, 1957 SPECIES
 
 #### Status
 ACCEPTED

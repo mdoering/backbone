@@ -1,5 +1,4 @@
-Leucothecium emdenii Arx & Samson, 1973 SPECIES
-=======
+# Leucothecium emdenii Arx & Samson, 1973 SPECIES
 
 #### Status
 ACCEPTED

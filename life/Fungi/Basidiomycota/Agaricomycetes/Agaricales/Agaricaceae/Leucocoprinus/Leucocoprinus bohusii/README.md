@@ -1,5 +1,4 @@
-Leucocoprinus bohusii Wasser SPECIES
-=======
+# Leucocoprinus bohusii Wasser SPECIES
 
 #### Status
 ACCEPTED

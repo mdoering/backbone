@@ -1,8 +1,7 @@
-Blastoschizomyces capitatus (Diddens & Lodder) Salkin, M.A. Gordon, Sams. & Rieder, 1985 SPECIES
-=======
+# Saprochaete capitata (Diddens & Lodder) de Hoog & M.T. Sm., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

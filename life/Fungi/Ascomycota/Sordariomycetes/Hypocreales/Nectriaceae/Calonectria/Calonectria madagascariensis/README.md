@@ -1,5 +1,4 @@
-Calonectria madagascariensis Crous SPECIES
-=======
+# Calonectria madagascariensis Crous SPECIES
 
 #### Status
 ACCEPTED

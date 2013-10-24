@@ -1,5 +1,4 @@
-Porpoloma boninense (S. Ito & S. Imai) Hongo SPECIES
-=======
+# Porpoloma boninense (S. Ito & S. Imai) Hongo SPECIES
 
 #### Status
 ACCEPTED

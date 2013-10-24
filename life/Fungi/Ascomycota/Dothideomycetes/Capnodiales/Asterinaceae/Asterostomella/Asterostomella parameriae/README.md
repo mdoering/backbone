@@ -1,5 +1,4 @@
-Asterostomella parameriae Petr. SPECIES
-=======
+# Asterostomella parameriae Petr. SPECIES
 
 #### Status
 ACCEPTED

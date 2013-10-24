@@ -1,5 +1,4 @@
-Kuehniella G.F. Orr GENUS
-=======
+# Kuehniella G.F. Orr GENUS
 
 #### Status
 ACCEPTED

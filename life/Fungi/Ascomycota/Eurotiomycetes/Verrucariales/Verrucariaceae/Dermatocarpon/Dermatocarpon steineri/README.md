@@ -1,5 +1,4 @@
-Dermatocarpon steineri (Wettst.) Zahlbr. SPECIES
-=======
+# Dermatocarpon steineri (Wettst.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

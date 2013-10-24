@@ -1,5 +1,4 @@
-Inocybe bresadolae Massee SPECIES
-=======
+# Inocybe bresadolae Massee SPECIES
 
 #### Status
 ACCEPTED

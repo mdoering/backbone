@@ -1,5 +1,4 @@
-Cladonia junghuhniana Mont. & Bosch SPECIES
-=======
+# Cladonia junghuhniana Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

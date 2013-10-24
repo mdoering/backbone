@@ -1,5 +1,4 @@
-Cyclotella glomerata-stelligera Bachmann-Cleve & Grunow SPECIES
-=======
+# Cyclotella glomerata-stelligera Bachmann-Cleve & Grunow SPECIES
 
 #### Status
 ACCEPTED

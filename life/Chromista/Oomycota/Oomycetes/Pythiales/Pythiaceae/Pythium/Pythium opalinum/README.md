@@ -1,5 +1,4 @@
-Pythium opalinum Shahzad SPECIES
-=======
+# Pythium opalinum Shahzad SPECIES
 
 #### Status
 ACCEPTED

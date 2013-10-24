@@ -1,5 +1,4 @@
-Haplocaulus furcellariae (Precht, 1935) Warren, 1988 SPECIES
-=======
+# Haplocaulus furcellariae (Precht, 1935) Warren, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces helicoideus Thaxt. SPECIES
-=======
+# Dimeromyces helicoideus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterula caricis-pendulae Corner, 1970 SPECIES
-=======
+# Pterula caricis-pendulae Corner, 1970 SPECIES
 
 #### Status
 ACCEPTED

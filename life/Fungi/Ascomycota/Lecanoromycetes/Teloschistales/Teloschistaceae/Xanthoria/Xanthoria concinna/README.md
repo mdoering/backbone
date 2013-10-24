@@ -1,5 +1,4 @@
-Xanthoria concinna J.W. Thomson & T.H. Nash SPECIES
-=======
+# Xanthoria concinna J.W. Thomson & T.H. Nash SPECIES
 
 #### Status
 ACCEPTED

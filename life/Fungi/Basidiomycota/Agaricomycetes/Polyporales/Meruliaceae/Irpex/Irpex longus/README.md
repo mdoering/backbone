@@ -1,5 +1,4 @@
-Irpex longus Rick SPECIES
-=======
+# Irpex longus Rick SPECIES
 
 #### Status
 ACCEPTED

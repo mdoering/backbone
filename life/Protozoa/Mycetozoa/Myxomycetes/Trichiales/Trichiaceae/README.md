@@ -1,17 +1,16 @@
-Trichiidae Fries, 1821 FAMILY
-=======
+# Trichiaceae Chevall. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. gén. env. Paris (Paris) 1: 322 (1826)
 
 #### Original name
-null
+Trichiaceae Chevall.
 
 ### Remarks
 null

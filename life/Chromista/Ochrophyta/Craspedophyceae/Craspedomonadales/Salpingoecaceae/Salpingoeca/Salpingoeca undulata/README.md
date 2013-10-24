@@ -1,5 +1,4 @@
-Salpingoeca undulata Ellis, 1930 SPECIES
-=======
+# Salpingoeca undulata Ellis, 1930 SPECIES
 
 #### Status
 ACCEPTED

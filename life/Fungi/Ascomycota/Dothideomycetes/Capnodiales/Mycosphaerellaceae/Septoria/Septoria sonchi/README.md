@@ -1,5 +1,4 @@
-Septoria sonchi Sacc., 1878 SPECIES
-=======
+# Septoria sonchi Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

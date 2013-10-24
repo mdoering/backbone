@@ -1,5 +1,4 @@
-Zundeliomyces Vánky GENUS
-=======
+# Zundeliomyces Vánky GENUS
 
 #### Status
 ACCEPTED

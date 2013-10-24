@@ -1,5 +1,4 @@
-Dibaeis globulifera Kalb & Gierl SPECIES
-=======
+# Dibaeis globulifera Kalb & Gierl SPECIES
 
 #### Status
 ACCEPTED

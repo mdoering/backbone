@@ -1,5 +1,4 @@
-Rhabdospora microspora Har. & P. Karst. SPECIES
-=======
+# Rhabdospora microspora Har. & P. Karst. SPECIES
 
 #### Status
 ACCEPTED

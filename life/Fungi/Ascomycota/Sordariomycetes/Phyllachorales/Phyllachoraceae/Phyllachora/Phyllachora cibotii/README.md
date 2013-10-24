@@ -1,5 +1,4 @@
-Phyllachora cibotii Hodges, 1981 SPECIES
-=======
+# Phyllachora cibotii Hodges, 1981 SPECIES
 
 #### Status
 ACCEPTED

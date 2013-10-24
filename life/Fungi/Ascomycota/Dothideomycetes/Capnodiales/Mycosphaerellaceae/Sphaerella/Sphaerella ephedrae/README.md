@@ -1,5 +1,4 @@
-Sphaerella ephedrae Hollós SPECIES
-=======
+# Sphaerella ephedrae Hollós SPECIES
 
 #### Status
 ACCEPTED

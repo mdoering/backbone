@@ -1,5 +1,4 @@
-Mariprofundus ferrooxydans Emerson, Rentz, Lilburn, Davis, Aldrich, Chan & Moyer, 2007 SPECIES
-=======
+# Mariprofundus ferrooxydans Emerson, Rentz, Lilburn, Davis, Aldrich, Chan & Moyer, 2007 SPECIES
 
 #### Status
 ACCEPTED

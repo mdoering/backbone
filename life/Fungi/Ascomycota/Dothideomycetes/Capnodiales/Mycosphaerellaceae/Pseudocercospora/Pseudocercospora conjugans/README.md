@@ -1,5 +1,4 @@
-Pseudocercospora conjugans (F. Stevens & Solheim) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora conjugans (F. Stevens & Solheim) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

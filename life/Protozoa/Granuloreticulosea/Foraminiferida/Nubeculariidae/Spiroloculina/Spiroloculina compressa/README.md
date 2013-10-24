@@ -1,5 +1,4 @@
-Spiroloculina compressa SPECIES
-=======
+# Spiroloculina compressa SPECIES
 
 #### Status
 ACCEPTED

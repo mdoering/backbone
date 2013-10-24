@@ -1,5 +1,4 @@
-Meliola leeae (Hansf.) Cif. SPECIES
-=======
+# Meliola leeae (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

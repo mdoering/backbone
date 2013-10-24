@@ -1,5 +1,4 @@
-Leucocoprinus bulbipes (Mont.) Raithelh. SPECIES
-=======
+# Leucocoprinus bulbipes (Mont.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

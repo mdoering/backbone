@@ -1,5 +1,4 @@
-Entoloma galericolor Courtec. SPECIES
-=======
+# Entoloma galericolor Courtec. SPECIES
 
 #### Status
 ACCEPTED

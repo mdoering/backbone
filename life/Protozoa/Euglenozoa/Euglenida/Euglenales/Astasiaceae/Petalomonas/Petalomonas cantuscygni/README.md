@@ -1,5 +1,4 @@
-Petalomonas cantuscygni J. Cann & N. Pennick SPECIES
-=======
+# Petalomonas cantuscygni J. Cann & N. Pennick SPECIES
 
 #### Status
 ACCEPTED

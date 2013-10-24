@@ -1,5 +1,4 @@
-Uromyces agropyri Barclay SPECIES
-=======
+# Uromyces agropyri Barclay SPECIES
 
 #### Status
 ACCEPTED

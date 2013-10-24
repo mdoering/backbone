@@ -1,5 +1,4 @@
-Paraphysomonas gladiata Preisig & D.J.Hibberd SPECIES
-=======
+# Paraphysomonas gladiata Preisig & D.J.Hibberd SPECIES
 
 #### Status
 ACCEPTED

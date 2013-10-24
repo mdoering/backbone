@@ -1,5 +1,4 @@
-Flexibacter ruber Lewin, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Flexibacter ruber Lewin, 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

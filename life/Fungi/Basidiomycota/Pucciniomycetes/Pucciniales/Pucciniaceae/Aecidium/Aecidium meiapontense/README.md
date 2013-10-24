@@ -1,5 +1,4 @@
-Aecidium meiapontense Henn. SPECIES
-=======
+# Aecidium meiapontense Henn. SPECIES
 
 #### Status
 ACCEPTED

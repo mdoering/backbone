@@ -1,5 +1,4 @@
-Pezizella achyroclines Rehm SPECIES
-=======
+# Pezizella achyroclines Rehm SPECIES
 
 #### Status
 ACCEPTED

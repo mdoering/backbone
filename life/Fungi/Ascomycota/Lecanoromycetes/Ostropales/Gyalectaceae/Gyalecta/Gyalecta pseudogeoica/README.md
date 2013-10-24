@@ -1,5 +1,4 @@
-Gyalecta pseudogeoica Anzi SPECIES
-=======
+# Gyalecta pseudogeoica Anzi SPECIES
 
 #### Status
 ACCEPTED

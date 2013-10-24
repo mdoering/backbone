@@ -1,5 +1,4 @@
-Podospora vertesensis (Tóth) N. Lundq. SPECIES
-=======
+# Podospora vertesensis (Tóth) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

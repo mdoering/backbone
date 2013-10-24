@@ -1,5 +1,4 @@
-Phyllosticta rehmii Bubák SPECIES
-=======
+# Phyllosticta rehmii Bubák SPECIES
 
 #### Status
 ACCEPTED

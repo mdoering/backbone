@@ -1,5 +1,4 @@
-Quinqueloculina stalkeri SPECIES
-=======
+# Quinqueloculina stalkeri SPECIES
 
 #### Status
 ACCEPTED

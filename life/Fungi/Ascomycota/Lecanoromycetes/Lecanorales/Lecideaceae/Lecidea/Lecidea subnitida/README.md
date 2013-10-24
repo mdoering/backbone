@@ -1,5 +1,4 @@
-Lecidea subnitida (Hellb.) Norrl. SPECIES
-=======
+# Lecidea subnitida (Hellb.) Norrl. SPECIES
 
 #### Status
 ACCEPTED

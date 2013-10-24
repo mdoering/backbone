@@ -1,5 +1,4 @@
-Lamtostyla raptans (Hemberger, 1985) Foissner, 1997 SPECIES
-=======
+# Lamtostyla raptans (Hemberger, 1985) Foissner, 1997 SPECIES
 
 #### Status
 ACCEPTED

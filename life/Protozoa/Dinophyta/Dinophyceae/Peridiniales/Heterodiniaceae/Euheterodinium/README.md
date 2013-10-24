@@ -1,5 +1,4 @@
-Euheterodinium C.A. Kofoid, 1906 GENUS
-=======
+# Euheterodinium C.A. Kofoid, 1906 GENUS
 
 #### Status
 ACCEPTED

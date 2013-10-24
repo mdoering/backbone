@@ -1,5 +1,4 @@
-Stigmina rhois Crous & U. Braun SPECIES
-=======
+# Stigmina rhois Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

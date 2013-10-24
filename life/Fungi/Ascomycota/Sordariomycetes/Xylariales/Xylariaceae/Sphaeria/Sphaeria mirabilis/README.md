@@ -1,5 +1,4 @@
-Sphaeria mirabilis Peck SPECIES
-=======
+# Sphaeria mirabilis Peck SPECIES
 
 #### Status
 ACCEPTED

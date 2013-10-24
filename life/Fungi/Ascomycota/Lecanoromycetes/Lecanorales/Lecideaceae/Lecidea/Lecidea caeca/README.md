@@ -1,5 +1,4 @@
-Lecidea caeca J. Lowe SPECIES
-=======
+# Lecidea caeca J. Lowe SPECIES
 
 #### Status
 ACCEPTED

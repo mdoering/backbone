@@ -1,5 +1,4 @@
-Amerostege Theiss. GENUS
-=======
+# Amerostege Theiss. GENUS
 
 #### Status
 ACCEPTED

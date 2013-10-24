@@ -1,17 +1,16 @@
-Peltistroma leopoldinense (Bat. & Peres) Inácio & P.F. Cannon, 2008 SPECIES
-=======
+# Polypedia leopoldinensis Bat. & Peres, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 16: 119 (1959)
 
 #### Original name
-null
+Polypedia leopoldinensis Bat. & Peres, 1959
 
 ### Remarks
 null

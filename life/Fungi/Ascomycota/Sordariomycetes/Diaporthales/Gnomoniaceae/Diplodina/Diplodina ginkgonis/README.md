@@ -1,5 +1,4 @@
-Diplodina ginkgonis Negru SPECIES
-=======
+# Diplodina ginkgonis Negru SPECIES
 
 #### Status
 ACCEPTED

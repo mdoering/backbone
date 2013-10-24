@@ -1,5 +1,4 @@
-Otthia aceris G. Winter SPECIES
-=======
+# Otthia aceris G. Winter SPECIES
 
 #### Status
 ACCEPTED

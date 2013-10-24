@@ -1,5 +1,4 @@
-Gymnodinium kowalevskii Pitzik, 1967 SPECIES
-=======
+# Gymnodinium kowalevskii Pitzik, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina asperata (Schwein.) Berk. & M.A. Curtis SPECIES
-=======
+# Asterina asperata (Schwein.) Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

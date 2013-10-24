@@ -1,5 +1,4 @@
-Gloniella typhae (Fuckel) Sacc. SPECIES
-=======
+# Gloniella typhae (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exophiala alcalophila Goto & Sugiy., 1982 SPECIES
-=======
+# Exophiala alcalophila Goto & Sugiy., 1982 SPECIES
 
 #### Status
 ACCEPTED

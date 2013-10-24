@@ -1,5 +1,4 @@
-Penicillium antarcticum A.D. Hocking & C.F. McRae SPECIES
-=======
+# Penicillium antarcticum A.D. Hocking & C.F. McRae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon atrocinereum H. Magn. SPECIES
-=======
+# Dermatocarpon atrocinereum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

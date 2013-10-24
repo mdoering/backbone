@@ -1,5 +1,4 @@
-Ustilago convertere-sexualis Durán SPECIES
-=======
+# Ustilago convertere-sexualis Durán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena sulphurea Velen. SPECIES
-=======
+# Mycena sulphurea Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyanodontia spathulata Hjortstam, 1987 SPECIES
-=======
+# Cyanodontia spathulata Hjortstam, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula punctella (Nyl.) Trevis. SPECIES
-=======
+# Pyrenula punctella (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

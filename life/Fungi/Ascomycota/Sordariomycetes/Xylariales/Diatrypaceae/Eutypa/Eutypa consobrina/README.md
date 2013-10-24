@@ -1,5 +1,4 @@
-Eutypa consobrina (Mont.) Rappaz SPECIES
-=======
+# Eutypa consobrina (Mont.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltella GENUS
-=======
+# Peltella GENUS
 
 #### Status
 ACCEPTED

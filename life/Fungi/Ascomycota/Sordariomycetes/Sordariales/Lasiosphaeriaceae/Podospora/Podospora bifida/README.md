@@ -1,5 +1,4 @@
-Podospora bifida N. Lundq., 1972 SPECIES
-=======
+# Podospora bifida N. Lundq., 1972 SPECIES
 
 #### Status
 ACCEPTED

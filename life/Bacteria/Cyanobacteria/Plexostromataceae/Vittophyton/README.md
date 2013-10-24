@@ -1,5 +1,4 @@
-Vittophyton A.G.Vologdin GENUS
-=======
+# Vittophyton A.G.Vologdin GENUS
 
 #### Status
 ACCEPTED

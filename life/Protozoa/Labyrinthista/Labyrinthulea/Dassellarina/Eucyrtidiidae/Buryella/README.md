@@ -1,5 +1,4 @@
-Buryella Foreman, 1973 GENUS
-=======
+# Buryella Foreman, 1973 GENUS
 
 #### Status
 ACCEPTED

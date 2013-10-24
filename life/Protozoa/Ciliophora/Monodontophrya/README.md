@@ -1,5 +1,4 @@
-Monodontophrya Veidovsky, 1892 GENUS
-=======
+# Monodontophrya Veidovsky, 1892 GENUS
 
 #### Status
 ACCEPTED

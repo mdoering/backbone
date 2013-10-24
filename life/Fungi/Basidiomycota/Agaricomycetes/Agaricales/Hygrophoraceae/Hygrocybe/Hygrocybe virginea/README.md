@@ -1,17 +1,16 @@
-Cuphophyllus ochraceopallidus var. ochraceopallidus VARIETY
-=======
+# Hygrocybe virginea (Wulfen Fr.) P.D. Orton & Watling SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 14(no. 56): 10 (1985)
+null
 
 #### Original name
-Cuphophyllus ochraceopallidus var. ochraceopallidus
+null
 
 ### Remarks
 null

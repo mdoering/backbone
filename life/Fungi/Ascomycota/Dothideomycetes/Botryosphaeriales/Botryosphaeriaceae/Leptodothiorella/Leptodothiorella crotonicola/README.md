@@ -1,5 +1,4 @@
-Leptodothiorella crotonicola Kamal, P. Kumar & D.N. Shukla SPECIES
-=======
+# Leptodothiorella crotonicola Kamal, P. Kumar & D.N. Shukla SPECIES
 
 #### Status
 ACCEPTED

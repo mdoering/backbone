@@ -1,5 +1,4 @@
-Patellaria intricata (Ach.) Spreng. SPECIES
-=======
+# Patellaria intricata (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

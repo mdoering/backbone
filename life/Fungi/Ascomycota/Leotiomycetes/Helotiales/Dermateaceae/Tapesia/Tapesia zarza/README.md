@@ -1,5 +1,4 @@
-Tapesia zarza R. Galán SPECIES
-=======
+# Tapesia zarza R. Galán SPECIES
 
 #### Status
 ACCEPTED

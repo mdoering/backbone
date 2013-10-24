@@ -1,5 +1,4 @@
-Melophia protii Bat. SPECIES
-=======
+# Melophia protii Bat. SPECIES
 
 #### Status
 ACCEPTED

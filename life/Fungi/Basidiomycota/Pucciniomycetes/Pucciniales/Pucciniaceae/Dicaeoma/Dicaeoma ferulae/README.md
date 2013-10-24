@@ -1,5 +1,4 @@
-Dicaeoma ferulae (F. Rudolphi) Kuntze SPECIES
-=======
+# Dicaeoma ferulae (F. Rudolphi) Kuntze SPECIES
 
 #### Status
 ACCEPTED

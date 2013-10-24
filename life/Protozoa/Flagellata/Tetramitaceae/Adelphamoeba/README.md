@@ -1,5 +1,4 @@
-Adelphamoeba J.Napolitano, M.Wall, C.Ganz, 1970 GENUS
-=======
+# Adelphamoeba J.Napolitano, M.Wall, C.Ganz, 1970 GENUS
 
 #### Status
 ACCEPTED

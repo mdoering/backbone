@@ -1,5 +1,4 @@
-Amygdalaria tellensis Esnault & Cl. Roux SPECIES
-=======
+# Amygdalaria tellensis Esnault & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

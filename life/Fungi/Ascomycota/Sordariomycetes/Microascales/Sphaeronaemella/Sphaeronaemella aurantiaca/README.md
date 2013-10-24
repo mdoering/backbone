@@ -1,5 +1,4 @@
-Sphaeronaemella aurantiaca (Ces.) Sacc. SPECIES
-=======
+# Sphaeronaemella aurantiaca (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia pardalios (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Rosellinia pardalios (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

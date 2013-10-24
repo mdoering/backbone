@@ -1,17 +1,16 @@
-Macrophoma cylindrospora f. cylindrospora FORM
-=======
+# Coleophoma cylindrospora (Desm.) Höhn., 1919 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. dt. bot. Ges. 37: 114 (1919)
 
 #### Original name
-Macrophoma cylindrospora f. cylindrospora
+null
 
 ### Remarks
 null

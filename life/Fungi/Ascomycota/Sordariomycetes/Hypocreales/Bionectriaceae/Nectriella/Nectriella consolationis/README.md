@@ -1,17 +1,16 @@
-Hyponectria consolationis (Sacc.) Cooke, 1884 SPECIES
-=======
+# Nectriella consolationis (Sacc.) E. Müll., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 624 (1962)
 
 #### Original name
-null
+Charonectria consolationis Sacc., 1880
 
 ### Remarks
 null

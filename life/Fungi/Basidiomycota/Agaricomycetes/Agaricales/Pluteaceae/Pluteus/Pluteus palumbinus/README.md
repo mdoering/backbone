@@ -1,5 +1,4 @@
-Pluteus palumbinus Berk. SPECIES
-=======
+# Pluteus palumbinus Berk. SPECIES
 
 #### Status
 ACCEPTED

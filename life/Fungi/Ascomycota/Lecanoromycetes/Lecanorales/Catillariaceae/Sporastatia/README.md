@@ -1,17 +1,16 @@
-Gyrothecium Nyl. GENUS
-=======
+# Sporastatia A. Massal. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. natn. Sci. nat. math. Cherbourg 3: 186 (1855)
+Geneac. Lich. 9 (1854)
 
 #### Original name
-Gyrothecium Nyl.
+Sporastatia A. Massal.
 
 ### Remarks
 null

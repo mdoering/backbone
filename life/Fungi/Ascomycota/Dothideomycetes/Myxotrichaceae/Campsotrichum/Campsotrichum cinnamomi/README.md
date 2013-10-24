@@ -1,5 +1,4 @@
-Campsotrichum cinnamomi Corda SPECIES
-=======
+# Campsotrichum cinnamomi Corda SPECIES
 
 #### Status
 ACCEPTED

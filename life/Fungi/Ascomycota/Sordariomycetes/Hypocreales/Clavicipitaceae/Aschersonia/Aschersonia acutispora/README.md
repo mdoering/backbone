@@ -1,5 +1,4 @@
-Aschersonia acutispora Petch SPECIES
-=======
+# Aschersonia acutispora Petch SPECIES
 
 #### Status
 ACCEPTED

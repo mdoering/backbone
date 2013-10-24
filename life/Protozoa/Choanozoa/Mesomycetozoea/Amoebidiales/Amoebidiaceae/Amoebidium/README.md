@@ -1,14 +1,13 @@
-Amoeboidium GENUS
-=======
+# Amoebidium Cienkowsky, 1861 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Bot. Ztg. , 19, 169-173.
 
 #### Original name
 null

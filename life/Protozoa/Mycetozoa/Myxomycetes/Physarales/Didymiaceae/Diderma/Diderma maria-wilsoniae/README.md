@@ -1,17 +1,16 @@
-Diderma mariae-wilsoniae Peck SPECIES
-=======
+# Diderma maria-wilsoniae Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 26: 74 (1874)
 
 #### Original name
-Diderma mariae-wilsoniae Peck
+Diderma maria-wilsoniae Peck
 
 ### Remarks
 null

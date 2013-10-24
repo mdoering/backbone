@@ -1,5 +1,4 @@
-Phoma hirta Sacc. SPECIES
-=======
+# Phoma hirta Sacc. SPECIES
 
 #### Status
 ACCEPTED

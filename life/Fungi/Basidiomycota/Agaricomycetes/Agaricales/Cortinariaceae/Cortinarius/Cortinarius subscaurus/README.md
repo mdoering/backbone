@@ -1,5 +1,4 @@
-Cortinarius subscaurus (M.M. Moser) M.M. Moser SPECIES
-=======
+# Cortinarius subscaurus (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

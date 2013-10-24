@@ -1,5 +1,4 @@
-Cercospora carolinensis Tharp SPECIES
-=======
+# Cercospora carolinensis Tharp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium stramineum Velen. SPECIES
-=======
+# Helotium stramineum Velen. SPECIES
 
 #### Status
 ACCEPTED

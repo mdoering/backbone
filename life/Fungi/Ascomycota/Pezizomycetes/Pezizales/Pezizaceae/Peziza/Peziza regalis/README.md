@@ -1,5 +1,4 @@
-Peziza regalis Cooke & Ellis SPECIES
-=======
+# Peziza regalis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

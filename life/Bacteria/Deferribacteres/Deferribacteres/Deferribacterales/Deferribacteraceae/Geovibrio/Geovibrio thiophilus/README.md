@@ -1,5 +1,4 @@
-Geovibrio thiophilus Janssen et al., 2002 SPECIES
-=======
+# Geovibrio thiophilus Janssen et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora clauzadei B. de Lesd. SPECIES
-=======
+# Lecanora clauzadei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Sphacelaria corymbosa. Dickie SPECIES
-=======
+# Alethocladus corymbosus. (Dickie) Sauvageau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,17 +1,16 @@
-Uredo farinosa salicis-capreae Pers. SUBSPECIES
-=======
+# Uredo caprearum DC. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
-null
+Fl. franç. (Paris), Edn 3 6: 80 (1815)
 
 #### Original name
-null
+Uredo caprearum DC.
 
 ### Remarks
 null

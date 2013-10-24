@@ -1,5 +1,4 @@
-Periconiella ellisii Merny & B. Huguenin ex M.B. Ellis SPECIES
-=======
+# Periconiella ellisii Merny & B. Huguenin ex M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

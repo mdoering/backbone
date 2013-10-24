@@ -1,5 +1,4 @@
-Maculatasporites amplus Segroves, 1967 SPECIES
-=======
+# Maculatasporites amplus Segroves, 1967 SPECIES
 
 #### Status
 ACCEPTED

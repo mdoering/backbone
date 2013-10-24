@@ -1,5 +1,4 @@
-Septoria oxalidis-japonicae Pat. SPECIES
-=======
+# Septoria oxalidis-japonicae Pat. SPECIES
 
 #### Status
 ACCEPTED

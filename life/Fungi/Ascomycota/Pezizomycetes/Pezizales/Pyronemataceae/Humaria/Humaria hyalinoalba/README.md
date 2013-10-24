@@ -1,5 +1,4 @@
-Humaria hyalinoalba Speg. SPECIES
-=======
+# Humaria hyalinoalba Speg. SPECIES
 
 #### Status
 ACCEPTED

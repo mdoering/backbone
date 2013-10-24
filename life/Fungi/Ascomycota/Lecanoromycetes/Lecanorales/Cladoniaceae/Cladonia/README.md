@@ -1,17 +1,16 @@
-Scyphorus Raf. GENUS
-=======
+# Cladonia P. Browne GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Nat. Tabl. Univ. 208 (1815)
+Prim. fl. holsat. (Kiliae) 90 (1756)
 
 #### Original name
-Scyphorus Raf.
+Cladonia P. Browne
 
 ### Remarks
 null

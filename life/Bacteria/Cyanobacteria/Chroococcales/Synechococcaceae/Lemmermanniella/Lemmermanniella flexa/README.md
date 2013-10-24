@@ -1,5 +1,4 @@
-Lemmermanniella flexa Hindák SPECIES
-=======
+# Lemmermanniella flexa Hindák SPECIES
 
 #### Status
 ACCEPTED

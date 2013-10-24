@@ -1,5 +1,4 @@
-Eutypella minuta Berl. & F. Sacc. SPECIES
-=======
+# Eutypella minuta Berl. & F. Sacc. SPECIES
 
 #### Status
 ACCEPTED

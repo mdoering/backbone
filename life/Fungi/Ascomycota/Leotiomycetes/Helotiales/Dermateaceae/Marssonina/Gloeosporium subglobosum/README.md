@@ -1,5 +1,4 @@
-Gloeosporium subglobosum Cooke & Massee SPECIES
-=======
+# Gloeosporium subglobosum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aschersoniopsis globosa Henn. SPECIES
-=======
+# Aschersoniopsis globosa Henn. SPECIES
 
 #### Status
 ACCEPTED

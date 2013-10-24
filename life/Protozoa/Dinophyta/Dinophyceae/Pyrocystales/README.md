@@ -1,5 +1,4 @@
-Pyrocystales ORDER
-=======
+# Pyrocystales ORDER
 
 #### Status
 ACCEPTED

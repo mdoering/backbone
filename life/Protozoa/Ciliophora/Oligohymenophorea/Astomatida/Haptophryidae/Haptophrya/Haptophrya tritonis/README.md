@@ -1,5 +1,4 @@
-Haptophrya tritonis SPECIES
-=======
+# Haptophrya tritonis SPECIES
 
 #### Status
 ACCEPTED

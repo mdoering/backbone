@@ -1,5 +1,4 @@
-Blastenia apostatica (Nyl.) Zahlbr. SPECIES
-=======
+# Blastenia apostatica (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoventuria angustispora M.E. Barr SPECIES
-=======
+# Protoventuria angustispora M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

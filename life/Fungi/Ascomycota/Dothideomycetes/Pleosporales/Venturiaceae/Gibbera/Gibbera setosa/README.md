@@ -1,5 +1,4 @@
-Gibbera setosa Petr. SPECIES
-=======
+# Gibbera setosa Petr. SPECIES
 
 #### Status
 ACCEPTED

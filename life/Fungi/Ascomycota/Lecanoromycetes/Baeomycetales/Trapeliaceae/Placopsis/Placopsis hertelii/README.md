@@ -1,5 +1,4 @@
-Placopsis hertelii D. J. Galloway SPECIES
-=======
+# Placopsis hertelii D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

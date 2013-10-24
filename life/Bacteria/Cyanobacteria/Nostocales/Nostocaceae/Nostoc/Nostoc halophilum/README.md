@@ -1,5 +1,4 @@
-Nostoc halophilum var. gaditanum P. González VARIETY
-=======
+# Nostoc halophilum Hansgirg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Granulodiplodia megalospora (Berk. & M.A. Curtis) Zambett. SPECIES
-=======
+# Granulodiplodia megalospora (Berk. & M.A. Curtis) Zambett. SPECIES
 
 #### Status
 ACCEPTED

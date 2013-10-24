@@ -1,5 +1,4 @@
-Uncinula spiralis Berk. & M.A. Curtis SPECIES
-=======
+# Uncinula spiralis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizosolenia castracanei var. neglecta Sundström, 1986 VARIETY
-=======
+# Rhizosolenia castracanei H.Peragallo, 1888 SPECIES
 
 #### Status
 ACCEPTED

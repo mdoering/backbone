@@ -1,5 +1,4 @@
-Lentinus lecomtei Fr. SPECIES
-=======
+# Lentinus lecomtei Fr. SPECIES
 
 #### Status
 ACCEPTED

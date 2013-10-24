@@ -1,5 +1,4 @@
-Psorotheciopsis premneella (Müll. Arg.) R. Sant. SPECIES
-=======
+# Psorotheciopsis premneella (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

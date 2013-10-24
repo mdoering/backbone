@@ -1,5 +1,4 @@
-Botryodiplodia oncidii (Henn.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia oncidii (Henn.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

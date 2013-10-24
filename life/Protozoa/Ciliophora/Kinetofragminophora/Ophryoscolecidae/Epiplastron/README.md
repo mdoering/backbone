@@ -1,5 +1,4 @@
-Epiplastron Kofoid & MacLennan, 1933 GENUS
-=======
+# Epiplastron Kofoid & MacLennan, 1933 GENUS
 
 #### Status
 ACCEPTED

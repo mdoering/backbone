@@ -1,5 +1,4 @@
-Reophax platycollaris Zheng & Fu, 2001 SPECIES
-=======
+# Reophax platycollaris Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

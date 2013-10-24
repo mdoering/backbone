@@ -1,17 +1,16 @@
-Hendersonia zeae (Lév.) Hazsl. SPECIES
-=======
+# Stenocarpella maydis (Berk.) B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Math. Természettud. Közl. Magg. Tudom. Akad. 10: 48 (1872)
+The Coelomycetes (Kew) 432 (1980)
 
 #### Original name
-Diplodia zeae Lév., 1848
+Sphaeria maydis Berk., 1847
 
 ### Remarks
 null

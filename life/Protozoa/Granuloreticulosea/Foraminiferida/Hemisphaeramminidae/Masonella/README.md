@@ -1,5 +1,4 @@
-Masonella Brady, 1889 GENUS
-=======
+# Masonella Brady, 1889 GENUS
 
 #### Status
 ACCEPTED

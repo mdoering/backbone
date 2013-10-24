@@ -1,14 +1,13 @@
-Dictyuchus clavatus de Bary, 1888 SPECIES
-=======
+# Thraustotheca clavata (de Bary) Humphrey, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 46: 648 (1888)
+Trans. Am. phil. Soc. 17: 131 (1893)
 
 #### Original name
 Dictyuchus clavatus de Bary, 1888

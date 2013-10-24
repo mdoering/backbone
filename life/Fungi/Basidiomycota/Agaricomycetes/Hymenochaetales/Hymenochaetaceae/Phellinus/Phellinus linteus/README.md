@@ -1,14 +1,13 @@
-Polyporus linteus Berk. & M.A. Curtis, 1860 SPECIES
-=======
+# Phellinus linteus (Berk. & M.A. Curtis) Teng, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 4: 122 (1860)
+Chung-kuo Ti Chen-chun, [Fungi of China] 762 (1963)
 
 #### Original name
 Polyporus linteus Berk. & M.A. Curtis, 1860

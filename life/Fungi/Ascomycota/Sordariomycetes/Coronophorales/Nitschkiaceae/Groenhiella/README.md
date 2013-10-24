@@ -1,5 +1,4 @@
-Groenhiella Jørg. Koch, E.B.G. Jones & S.T. Moss GENUS
-=======
+# Groenhiella Jørg. Koch, E.B.G. Jones & S.T. Moss GENUS
 
 #### Status
 ACCEPTED

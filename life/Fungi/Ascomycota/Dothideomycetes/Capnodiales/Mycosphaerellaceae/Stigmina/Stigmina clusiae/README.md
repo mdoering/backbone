@@ -1,5 +1,4 @@
-Stigmina clusiae M.B. Ellis SPECIES
-=======
+# Stigmina clusiae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

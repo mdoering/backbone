@@ -1,5 +1,4 @@
-Camarosporium cerei (Peck) Sacc. SPECIES
-=======
+# Camarosporium cerei (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

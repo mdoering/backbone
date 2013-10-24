@@ -1,14 +1,13 @@
-Phyllachora marginata (Lév.) Cooke, 1885 SPECIES
-=======
+# Dothidella marginata (Lév.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 69 (1885)
+Syll. fung. (Abellini) 2: 629 (1883)
 
 #### Original name
 Dothidea marginata Lév., 1846

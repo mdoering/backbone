@@ -1,5 +1,4 @@
-Ramularia lineola Peck SPECIES
-=======
+# Ramularia lineola Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplographium flexuosum (Preuss) Sacc. SPECIES
-=======
+# Haplographium flexuosum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

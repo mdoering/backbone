@@ -1,5 +1,4 @@
-Clathrus pedatus J.C. Schmidt SPECIES
-=======
+# Clathrus pedatus J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

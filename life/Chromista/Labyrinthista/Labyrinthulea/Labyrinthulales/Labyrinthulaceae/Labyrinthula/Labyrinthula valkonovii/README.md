@@ -1,5 +1,4 @@
-Labyrinthula valkonovii J.S. Karling, 1944 SPECIES
-=======
+# Labyrinthula valkonovii J.S. Karling, 1944 SPECIES
 
 #### Status
 ACCEPTED

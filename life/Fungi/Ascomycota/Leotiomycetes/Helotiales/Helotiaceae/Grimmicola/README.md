@@ -1,5 +1,4 @@
-Grimmicola Döbbeler & Hertel GENUS
-=======
+# Grimmicola Döbbeler & Hertel GENUS
 
 #### Status
 ACCEPTED

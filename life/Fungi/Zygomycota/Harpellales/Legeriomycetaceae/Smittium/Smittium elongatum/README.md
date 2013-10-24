@@ -1,5 +1,4 @@
-Smittium elongatum Lichtw., 1972 SPECIES
-=======
+# Smittium elongatum Lichtw., 1972 SPECIES
 
 #### Status
 ACCEPTED

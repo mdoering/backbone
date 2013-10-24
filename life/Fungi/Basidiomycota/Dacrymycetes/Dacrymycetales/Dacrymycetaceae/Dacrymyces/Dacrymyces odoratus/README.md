@@ -1,5 +1,4 @@
-Dacrymyces odoratus Holterm. SPECIES
-=======
+# Dacrymyces odoratus Holterm. SPECIES
 
 #### Status
 ACCEPTED

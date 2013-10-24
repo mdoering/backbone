@@ -1,5 +1,4 @@
-Acarospora romanica Codor. SPECIES
-=======
+# Acarospora romanica Codor. SPECIES
 
 #### Status
 ACCEPTED

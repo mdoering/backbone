@@ -1,5 +1,4 @@
-Rhizopogon subcinnamomeus A.H. Sm. SPECIES
-=======
+# Rhizopogon subcinnamomeus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

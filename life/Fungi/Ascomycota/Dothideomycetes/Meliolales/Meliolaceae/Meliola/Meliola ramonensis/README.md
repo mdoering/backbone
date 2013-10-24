@@ -1,5 +1,4 @@
-Meliola ramonensis Syd. SPECIES
-=======
+# Meliola ramonensis Syd. SPECIES
 
 #### Status
 ACCEPTED

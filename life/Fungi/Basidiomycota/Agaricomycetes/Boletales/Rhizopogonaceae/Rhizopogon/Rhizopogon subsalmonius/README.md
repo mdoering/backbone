@@ -1,17 +1,16 @@
-Rhizopogon subsalmonius var. griseolilascens A.H. Sm. VARIETY
-=======
+# Rhizopogon subsalmonius A.H. Sm., 1966 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. N. Y. bot. Gdn 14(2): 145 (1966)
+Mem. N. Y. bot. Gdn 14(2): 142 (1966)
 
 #### Original name
-Rhizopogon subsalmonius var. griseolilascens A.H. Sm.
+Rhizopogon subsalmonius A.H. Sm., 1966
 
 ### Remarks
 null

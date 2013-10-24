@@ -1,5 +1,4 @@
-Mycena xantholeuca Kühner SPECIES
-=======
+# Mycena xantholeuca Kühner SPECIES
 
 #### Status
 ACCEPTED

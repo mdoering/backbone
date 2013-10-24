@@ -1,17 +1,16 @@
-Marasmius cinnamoneus Cleland SPECIES
-=======
+# Marasmius cinnamomeus Cleland SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Toadstools and Mushrooms and Other Larger Fungi of South Australia (Adelaide) 132 (1934)
 
 #### Original name
-Marasmius cinnamoneus Cleland
+Marasmius cinnamomeus Cleland
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aecidium elongatum Link SPECIES
-=======
+# Aecidium elongatum Link SPECIES
 
 #### Status
 ACCEPTED

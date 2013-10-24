@@ -1,5 +1,4 @@
-Stereocaulon macrocarpum SPECIES
-=======
+# Stereocaulon macrocarpum SPECIES
 
 #### Status
 ACCEPTED

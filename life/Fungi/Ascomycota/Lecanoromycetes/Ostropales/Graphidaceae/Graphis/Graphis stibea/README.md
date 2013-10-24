@@ -1,5 +1,4 @@
-Graphis stibea Ach. SPECIES
-=======
+# Graphis stibea Ach. SPECIES
 
 #### Status
 ACCEPTED

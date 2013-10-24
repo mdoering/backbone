@@ -1,5 +1,4 @@
-Illosporium conicola Ellis & Everh. SPECIES
-=======
+# Illosporium conicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Shearia acericola Petr. SPECIES
-=======
+# Shearia acericola Petr. SPECIES
 
 #### Status
 ACCEPTED

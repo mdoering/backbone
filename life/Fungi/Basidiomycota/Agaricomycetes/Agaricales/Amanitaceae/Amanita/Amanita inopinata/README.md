@@ -1,5 +1,4 @@
-Amanita inopinata D.A. Reid & Bas, 1987 SPECIES
-=======
+# Amanita inopinata D.A. Reid & Bas, 1987 SPECIES
 
 #### Status
 ACCEPTED

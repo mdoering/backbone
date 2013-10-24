@@ -1,5 +1,4 @@
-Cenangium difforme Fr. SPECIES
-=======
+# Cenangium difforme Fr. SPECIES
 
 #### Status
 ACCEPTED

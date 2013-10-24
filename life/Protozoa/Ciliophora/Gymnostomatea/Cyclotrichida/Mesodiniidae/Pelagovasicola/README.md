@@ -1,5 +1,4 @@
-Pelagovasicola Yankovskij, 1980 GENUS
-=======
+# Pelagovasicola Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

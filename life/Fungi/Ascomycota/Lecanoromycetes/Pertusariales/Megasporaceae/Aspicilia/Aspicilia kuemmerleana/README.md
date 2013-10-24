@@ -1,5 +1,4 @@
-Aspicilia kuemmerleana Gyeln. SPECIES
-=======
+# Aspicilia kuemmerleana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

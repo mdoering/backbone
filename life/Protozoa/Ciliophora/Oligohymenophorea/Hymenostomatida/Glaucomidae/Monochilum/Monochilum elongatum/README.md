@@ -1,5 +1,4 @@
-Monochilum elongatum SPECIES
-=======
+# Monochilum elongatum SPECIES
 
 #### Status
 ACCEPTED

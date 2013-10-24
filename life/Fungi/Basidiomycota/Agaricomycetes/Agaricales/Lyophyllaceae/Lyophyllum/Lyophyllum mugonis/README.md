@@ -1,5 +1,4 @@
-Lyophyllum mugonis Grilli & Marulli ex Grilli & Contu SPECIES
-=======
+# Lyophyllum mugonis Grilli & Marulli ex Grilli & Contu SPECIES
 
 #### Status
 ACCEPTED

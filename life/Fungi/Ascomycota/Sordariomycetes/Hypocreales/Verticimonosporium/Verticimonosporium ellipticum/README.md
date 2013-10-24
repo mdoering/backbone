@@ -1,5 +1,4 @@
-Verticimonosporium ellipticum Matsush., 1975 SPECIES
-=======
+# Verticimonosporium ellipticum Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marinecta GENUS
-=======
+# Marinecta GENUS
 
 #### Status
 ACCEPTED

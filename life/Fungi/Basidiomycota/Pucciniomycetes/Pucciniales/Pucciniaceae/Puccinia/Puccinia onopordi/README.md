@@ -1,5 +1,4 @@
-Puccinia onopordi P. Syd. & Syd. SPECIES
-=======
+# Puccinia onopordi P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

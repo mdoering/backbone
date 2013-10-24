@@ -1,5 +1,4 @@
-Asterina yucatanensis Ellis & Everh. SPECIES
-=======
+# Asterina yucatanensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

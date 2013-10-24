@@ -1,5 +1,4 @@
-Ceratomyces floridanus Thaxt. SPECIES
-=======
+# Ceratomyces floridanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

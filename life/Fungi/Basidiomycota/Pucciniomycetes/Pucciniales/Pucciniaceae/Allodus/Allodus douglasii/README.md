@@ -1,5 +1,4 @@
-Allodus douglasii (Ellis & Everh.) Orton SPECIES
-=======
+# Allodus douglasii (Ellis & Everh.) Orton SPECIES
 
 #### Status
 ACCEPTED

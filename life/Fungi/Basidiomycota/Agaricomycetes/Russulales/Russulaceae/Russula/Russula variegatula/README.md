@@ -1,5 +1,4 @@
-Russula variegatula Romagn. ex Bon SPECIES
-=======
+# Russula variegatula Romagn. ex Bon SPECIES
 
 #### Status
 ACCEPTED

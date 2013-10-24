@@ -1,5 +1,4 @@
-Verrucaria atricolor H. Magn. SPECIES
-=======
+# Verrucaria atricolor H. Magn. SPECIES
 
 #### Status
 ACCEPTED

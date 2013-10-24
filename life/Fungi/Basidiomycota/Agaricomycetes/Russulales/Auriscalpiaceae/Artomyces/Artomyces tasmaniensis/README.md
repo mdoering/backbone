@@ -1,5 +1,4 @@
-Artomyces tasmaniensis Lickey, 2003 SPECIES
-=======
+# Artomyces tasmaniensis Lickey, 2003 SPECIES
 
 #### Status
 ACCEPTED

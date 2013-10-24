@@ -1,5 +1,4 @@
-Ramularia stellariae Rabenh. SPECIES
-=======
+# Ramularia stellariae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

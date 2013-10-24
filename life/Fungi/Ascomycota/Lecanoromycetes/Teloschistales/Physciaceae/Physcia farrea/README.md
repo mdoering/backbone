@@ -1,5 +1,4 @@
-Physcia farrea f. farrea FORM
-=======
+# Physcia farrea (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia farrea f. farrea
+null
 
 ### Remarks
 null

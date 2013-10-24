@@ -1,5 +1,4 @@
-Massarinula bambusincola Rehm SPECIES
-=======
+# Massarinula bambusincola Rehm SPECIES
 
 #### Status
 ACCEPTED

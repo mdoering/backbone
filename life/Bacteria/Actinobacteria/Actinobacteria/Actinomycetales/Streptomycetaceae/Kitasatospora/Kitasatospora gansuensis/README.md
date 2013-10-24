@@ -1,5 +1,4 @@
-Kitasatospora gansuensis Groth et al., 2004 SPECIES
-=======
+# Kitasatospora gansuensis Groth et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

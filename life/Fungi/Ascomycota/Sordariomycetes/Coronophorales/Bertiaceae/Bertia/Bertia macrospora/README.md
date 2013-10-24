@@ -1,5 +1,4 @@
-Bertia macrospora Massee SPECIES
-=======
+# Bertia macrospora Massee SPECIES
 
 #### Status
 ACCEPTED

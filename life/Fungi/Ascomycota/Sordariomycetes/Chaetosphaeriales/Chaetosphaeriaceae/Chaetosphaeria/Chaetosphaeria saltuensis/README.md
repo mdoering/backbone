@@ -1,5 +1,4 @@
-Chaetosphaeria saltuensis K.D. Hyde, Goh, Joanne E. Taylor & J. Fröhl. SPECIES
-=======
+# Chaetosphaeria saltuensis K.D. Hyde, Goh, Joanne E. Taylor & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

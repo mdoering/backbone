@@ -1,5 +1,4 @@
-Microbacterium GENUS
-=======
+# Microbacterium GENUS
 
 #### Status
 ACCEPTED

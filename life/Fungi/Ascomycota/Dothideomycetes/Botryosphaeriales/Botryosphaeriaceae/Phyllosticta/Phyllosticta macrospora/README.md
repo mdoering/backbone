@@ -1,5 +1,4 @@
-Phyllosticta macrospora Ellis & Everh. SPECIES
-=======
+# Phyllosticta macrospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

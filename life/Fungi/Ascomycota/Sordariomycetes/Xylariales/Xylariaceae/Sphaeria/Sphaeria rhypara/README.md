@@ -1,5 +1,4 @@
-Sphaeria rhypara Berk. & Broome SPECIES
-=======
+# Sphaeria rhypara Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

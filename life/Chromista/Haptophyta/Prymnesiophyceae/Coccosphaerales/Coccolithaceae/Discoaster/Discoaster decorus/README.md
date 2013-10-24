@@ -1,5 +1,4 @@
-Discoaster decorus (Bukry, 1971) Bukry, 1973 SPECIES
-=======
+# Discoaster decorus (Bukry, 1971) Bukry, 1973 SPECIES
 
 #### Status
 ACCEPTED

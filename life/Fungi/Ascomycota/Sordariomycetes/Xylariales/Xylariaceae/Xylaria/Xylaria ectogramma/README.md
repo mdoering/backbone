@@ -1,5 +1,4 @@
-Xylaria ectogramma Berk. SPECIES
-=======
+# Xylaria ectogramma Berk. SPECIES
 
 #### Status
 ACCEPTED

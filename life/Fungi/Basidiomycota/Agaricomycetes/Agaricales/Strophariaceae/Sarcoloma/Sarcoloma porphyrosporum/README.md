@@ -1,5 +1,4 @@
-Sarcoloma porphyrosporum (Maire) Locq. SPECIES
-=======
+# Sarcoloma porphyrosporum (Maire) Locq. SPECIES
 
 #### Status
 ACCEPTED

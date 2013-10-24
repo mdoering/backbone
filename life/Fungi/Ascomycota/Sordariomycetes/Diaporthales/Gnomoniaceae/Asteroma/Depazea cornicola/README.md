@@ -1,5 +1,4 @@
-Depazea cornicola DC. SPECIES
-=======
+# Depazea cornicola DC. SPECIES
 
 #### Status
 ACCEPTED

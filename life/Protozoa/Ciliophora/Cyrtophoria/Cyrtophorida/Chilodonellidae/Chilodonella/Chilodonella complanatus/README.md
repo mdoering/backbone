@@ -1,5 +1,4 @@
-Chilodonella complanatus SPECIES
-=======
+# Chilodonella complanatus SPECIES
 
 #### Status
 ACCEPTED

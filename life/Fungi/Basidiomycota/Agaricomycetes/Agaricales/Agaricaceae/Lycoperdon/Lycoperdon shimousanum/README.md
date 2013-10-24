@@ -1,5 +1,4 @@
-Lycoperdon shimousanum Kasuya & Katum. SPECIES
-=======
+# Lycoperdon shimousanum Kasuya & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma underwoodii Dennis SPECIES
-=======
+# Entoloma underwoodii Dennis SPECIES
 
 #### Status
 ACCEPTED

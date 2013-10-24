@@ -1,5 +1,4 @@
-Blastenia sordida Zahlbr. SPECIES
-=======
+# Blastenia sordida Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

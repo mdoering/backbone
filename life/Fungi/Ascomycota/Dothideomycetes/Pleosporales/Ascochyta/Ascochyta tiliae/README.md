@@ -1,5 +1,4 @@
-Ascochyta tiliae Kabát & Bubák SPECIES
-=======
+# Ascochyta tiliae Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

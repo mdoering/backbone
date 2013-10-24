@@ -1,5 +1,4 @@
-Lecidea callaina Stizenb. SPECIES
-=======
+# Lecidea callaina Stizenb. SPECIES
 
 #### Status
 ACCEPTED

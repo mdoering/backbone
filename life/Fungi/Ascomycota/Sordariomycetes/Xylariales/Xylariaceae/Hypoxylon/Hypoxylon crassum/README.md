@@ -1,5 +1,4 @@
-Hypoxylon crassum Mattir. & Sacc. SPECIES
-=======
+# Hypoxylon crassum Mattir. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

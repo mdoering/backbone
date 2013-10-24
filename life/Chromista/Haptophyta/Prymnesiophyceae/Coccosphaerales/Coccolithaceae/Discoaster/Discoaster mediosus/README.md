@@ -1,5 +1,4 @@
-Discoaster mediosus Bramlette & Sullivan, 1961 SPECIES
-=======
+# Discoaster mediosus Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

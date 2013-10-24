@@ -1,5 +1,4 @@
-Russula pilocystidiata McNabb, 1973 SPECIES
-=======
+# Russula pilocystidiata McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

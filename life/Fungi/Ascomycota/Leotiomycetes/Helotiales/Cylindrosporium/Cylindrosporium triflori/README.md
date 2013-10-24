@@ -1,5 +1,4 @@
-Cylindrosporium triflori H.C. Greene SPECIES
-=======
+# Cylindrosporium triflori H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

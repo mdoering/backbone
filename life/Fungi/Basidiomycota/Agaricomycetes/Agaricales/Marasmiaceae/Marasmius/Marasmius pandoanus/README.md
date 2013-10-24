@@ -1,5 +1,4 @@
-Marasmius pandoanus Singer SPECIES
-=======
+# Marasmius pandoanus Singer SPECIES
 
 #### Status
 ACCEPTED

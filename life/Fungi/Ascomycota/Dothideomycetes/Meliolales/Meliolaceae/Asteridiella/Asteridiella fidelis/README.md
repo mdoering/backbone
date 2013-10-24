@@ -1,5 +1,4 @@
-Asteridiella fidelis (Toro) Hansf. SPECIES
-=======
+# Asteridiella fidelis (Toro) Hansf. SPECIES
 
 #### Status
 ACCEPTED

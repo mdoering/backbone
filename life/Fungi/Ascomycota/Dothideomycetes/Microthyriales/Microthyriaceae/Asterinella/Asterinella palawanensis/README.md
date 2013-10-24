@@ -1,5 +1,4 @@
-Asterinella palawanensis Syd. & P. Syd. SPECIES
-=======
+# Asterinella palawanensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

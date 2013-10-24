@@ -1,5 +1,4 @@
-Stereum hamamelidis Yasuda SPECIES
-=======
+# Stereum hamamelidis Yasuda SPECIES
 
 #### Status
 ACCEPTED

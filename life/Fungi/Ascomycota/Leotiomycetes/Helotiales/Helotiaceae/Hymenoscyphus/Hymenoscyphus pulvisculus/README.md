@@ -1,5 +1,4 @@
-Hymenoscyphus pulvisculus (Cooke) Kuntze SPECIES
-=======
+# Hymenoscyphus pulvisculus (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

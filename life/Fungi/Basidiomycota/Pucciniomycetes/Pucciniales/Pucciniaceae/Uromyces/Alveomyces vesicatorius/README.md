@@ -1,5 +1,4 @@
-Alveomyces vesicatorius Bubák SPECIES
-=======
+# Alveomyces vesicatorius Bubák SPECIES
 
 #### Status
 ACCEPTED

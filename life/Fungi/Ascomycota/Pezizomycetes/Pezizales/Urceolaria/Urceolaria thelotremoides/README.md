@@ -1,5 +1,4 @@
-Urceolaria thelotremoides A. Massal. SPECIES
-=======
+# Urceolaria thelotremoides A. Massal. SPECIES
 
 #### Status
 ACCEPTED

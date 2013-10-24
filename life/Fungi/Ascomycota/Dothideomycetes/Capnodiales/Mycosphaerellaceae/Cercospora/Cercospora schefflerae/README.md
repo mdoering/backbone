@@ -1,5 +1,4 @@
-Cercospora schefflerae Boedijn SPECIES
-=======
+# Cercospora schefflerae Boedijn SPECIES
 
 #### Status
 ACCEPTED

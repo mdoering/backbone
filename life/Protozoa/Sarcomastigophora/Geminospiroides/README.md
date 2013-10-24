@@ -1,5 +1,4 @@
-Geminospiroides McCulloch, 1977 GENUS
-=======
+# Geminospiroides McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

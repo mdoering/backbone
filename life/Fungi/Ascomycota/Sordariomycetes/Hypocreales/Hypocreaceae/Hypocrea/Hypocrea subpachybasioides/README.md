@@ -1,5 +1,4 @@
-Hypocrea subpachybasioides Yoshim. Doi SPECIES
-=======
+# Hypocrea subpachybasioides Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

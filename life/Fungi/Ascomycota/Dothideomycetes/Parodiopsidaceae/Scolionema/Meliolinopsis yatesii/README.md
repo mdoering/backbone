@@ -1,5 +1,4 @@
-Meliolinopsis yatesii (Syd.) Beeli SPECIES
-=======
+# Meliolinopsis yatesii (Syd.) Beeli SPECIES
 
 #### Status
 ACCEPTED

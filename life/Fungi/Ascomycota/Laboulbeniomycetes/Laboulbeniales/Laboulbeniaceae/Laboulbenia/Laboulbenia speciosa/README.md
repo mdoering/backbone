@@ -1,5 +1,4 @@
-Laboulbenia speciosa Thaxt. SPECIES
-=======
+# Laboulbenia speciosa Thaxt. SPECIES
 
 #### Status
 ACCEPTED

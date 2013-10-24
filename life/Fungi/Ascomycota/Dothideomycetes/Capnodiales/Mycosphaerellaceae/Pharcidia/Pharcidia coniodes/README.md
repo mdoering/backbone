@@ -1,5 +1,4 @@
-Pharcidia coniodes (Nyl.) Sacc. & D. Sacc. SPECIES
-=======
+# Pharcidia coniodes (Nyl.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

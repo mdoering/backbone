@@ -1,5 +1,4 @@
-Hymenula umbilicata Fr. SPECIES
-=======
+# Hymenula umbilicata Fr. SPECIES
 
 #### Status
 ACCEPTED

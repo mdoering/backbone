@@ -1,5 +1,4 @@
-Hymenoscyphus typhae anon. SPECIES
-=======
+# Hymenoscyphus typhae anon. SPECIES
 
 #### Status
 ACCEPTED

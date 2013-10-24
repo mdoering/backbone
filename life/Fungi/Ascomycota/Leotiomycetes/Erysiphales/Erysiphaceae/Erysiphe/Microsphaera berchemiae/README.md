@@ -1,5 +1,4 @@
-Microsphaera berchemiae Sawada SPECIES
-=======
+# Microsphaera berchemiae Sawada SPECIES
 
 #### Status
 ACCEPTED

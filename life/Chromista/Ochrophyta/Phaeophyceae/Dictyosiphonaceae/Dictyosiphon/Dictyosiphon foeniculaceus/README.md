@@ -1,11 +1,10 @@
-Scytosiphon hippuroides Lyngbye SPECIES
-=======
+# Dictyosiphon foeniculaceus (Hudson) Greville SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Integrated Taxonomic Information System
 
 #### Published in
 null

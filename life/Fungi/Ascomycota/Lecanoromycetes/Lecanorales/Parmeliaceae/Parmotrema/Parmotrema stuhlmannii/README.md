@@ -1,17 +1,16 @@
-Parmelia stuhimanni C.W. Dodge SPECIES
-=======
+# Parmotrema stuhlmannii (C. W. Dodge) Krog & Swinscow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 15(2): 130 (1983)
 
 #### Original name
-Parmelia stuhimanni C.W. Dodge
+Parmelia stuhlmannii C. W. Dodge
 
 ### Remarks
 null

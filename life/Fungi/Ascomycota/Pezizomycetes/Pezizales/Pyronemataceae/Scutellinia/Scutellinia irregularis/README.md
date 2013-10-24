@@ -1,5 +1,4 @@
-Scutellinia irregularis Clem. SPECIES
-=======
+# Scutellinia irregularis Clem. SPECIES
 
 #### Status
 ACCEPTED

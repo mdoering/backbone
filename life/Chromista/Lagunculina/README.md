@@ -1,5 +1,4 @@
-Lagunculina Rhumbler, 1904 GENUS
-=======
+# Lagunculina Rhumbler, 1904 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capronia baeomycetis Diederich SPECIES
-=======
+# Capronia baeomycetis Diederich SPECIES
 
 #### Status
 ACCEPTED

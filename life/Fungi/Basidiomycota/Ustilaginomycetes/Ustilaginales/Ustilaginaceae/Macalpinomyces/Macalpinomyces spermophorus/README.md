@@ -1,17 +1,16 @@
-Ustilago spermophora var. spermophora Berk. & M.A. Curtis VARIETY
-=======
+# Macalpinomyces spermophorus (Berk. & M.A. Curtis ex de Toni) Vánky, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Curtis, Geol. Nat. Hist. Surv. N. Carol. 3: 123 (1867)
+Fungal Diversity 14: 210 (2003)
 
 #### Original name
-Ustilago spermophora var. spermophora Berk. & M.A. Curtis
+Ustilago spermophora Berk. & M.A. Curtis
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllosticta jaffueli Speg. SPECIES
-=======
+# Phyllosticta jaffueli Speg. SPECIES
 
 #### Status
 ACCEPTED

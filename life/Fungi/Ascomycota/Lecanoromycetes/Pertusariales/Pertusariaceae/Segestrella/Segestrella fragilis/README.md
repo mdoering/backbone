@@ -1,5 +1,4 @@
-Segestrella fragilis Arnold SPECIES
-=======
+# Segestrella fragilis Arnold SPECIES
 
 #### Status
 ACCEPTED

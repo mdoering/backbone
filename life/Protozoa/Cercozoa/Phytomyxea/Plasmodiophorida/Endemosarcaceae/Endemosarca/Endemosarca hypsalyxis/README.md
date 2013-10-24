@@ -1,5 +1,4 @@
-Endemosarca hypsalyxis Erdos & L.S. Olive, 1971 SPECIES
-=======
+# Endemosarca hypsalyxis Erdos & L.S. Olive, 1971 SPECIES
 
 #### Status
 ACCEPTED

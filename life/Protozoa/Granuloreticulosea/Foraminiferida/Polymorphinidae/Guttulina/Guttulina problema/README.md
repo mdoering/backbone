@@ -1,5 +1,4 @@
-Guttulina problema SPECIES
-=======
+# Guttulina problema SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria haultainii C. Knight SPECIES
-=======
+# Verrucaria haultainii C. Knight SPECIES
 
 #### Status
 ACCEPTED

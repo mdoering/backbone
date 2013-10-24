@@ -1,5 +1,4 @@
-Clostridium aminovalericum Hardman and Stadtman, 1960 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium aminovalericum Hardman and Stadtman, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

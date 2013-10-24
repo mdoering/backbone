@@ -1,5 +1,4 @@
-Cucurbitaria macilenta Cooke SPECIES
-=======
+# Cucurbitaria macilenta Cooke SPECIES
 
 #### Status
 ACCEPTED

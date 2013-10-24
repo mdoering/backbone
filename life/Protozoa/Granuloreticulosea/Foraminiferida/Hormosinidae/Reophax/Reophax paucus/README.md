@@ -1,5 +1,4 @@
-Reophax paucus Hada, 1957 SPECIES
-=======
+# Reophax paucus Hada, 1957 SPECIES
 
 #### Status
 ACCEPTED

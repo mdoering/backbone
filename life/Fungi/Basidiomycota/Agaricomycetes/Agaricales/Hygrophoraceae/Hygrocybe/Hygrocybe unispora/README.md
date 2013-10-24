@@ -1,5 +1,4 @@
-Hygrocybe unispora A.M. Young SPECIES
-=======
+# Hygrocybe unispora A.M. Young SPECIES
 
 #### Status
 ACCEPTED

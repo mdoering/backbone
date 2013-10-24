@@ -1,5 +1,4 @@
-Dacryopinax parmastoensis Raitv. SPECIES
-=======
+# Dacryopinax parmastoensis Raitv. SPECIES
 
 #### Status
 ACCEPTED

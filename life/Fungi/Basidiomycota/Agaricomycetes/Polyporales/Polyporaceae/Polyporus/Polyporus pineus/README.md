@@ -1,5 +1,4 @@
-Polyporus pineus Peck SPECIES
-=======
+# Polyporus pineus Peck SPECIES
 
 #### Status
 ACCEPTED

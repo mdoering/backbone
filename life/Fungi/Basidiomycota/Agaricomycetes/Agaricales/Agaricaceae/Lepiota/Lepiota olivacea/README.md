@@ -1,5 +1,4 @@
-Lepiota olivacea Kauffman SPECIES
-=======
+# Lepiota olivacea Kauffman SPECIES
 
 #### Status
 ACCEPTED

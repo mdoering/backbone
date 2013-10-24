@@ -1,5 +1,4 @@
-Marasmius termiticola Corner SPECIES
-=======
+# Marasmius termiticola Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Katagnymene spiralis Lemmermann SPECIES
-=======
+# Katagnymene spiralis Lemmermann SPECIES
 
 #### Status
 ACCEPTED

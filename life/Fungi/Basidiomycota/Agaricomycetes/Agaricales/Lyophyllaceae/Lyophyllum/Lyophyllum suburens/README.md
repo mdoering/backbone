@@ -1,5 +1,4 @@
-Lyophyllum suburens Clémençon SPECIES
-=======
+# Lyophyllum suburens Clémençon SPECIES
 
 #### Status
 ACCEPTED

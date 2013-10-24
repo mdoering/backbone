@@ -1,5 +1,4 @@
-Lichen sulphureus J. König SPECIES
-=======
+# Lichen sulphureus J. König SPECIES
 
 #### Status
 ACCEPTED

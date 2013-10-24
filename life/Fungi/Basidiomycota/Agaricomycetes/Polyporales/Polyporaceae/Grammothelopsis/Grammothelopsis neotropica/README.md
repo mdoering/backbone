@@ -1,5 +1,4 @@
-Grammothelopsis neotropica Robledo & Ryvarden SPECIES
-=======
+# Grammothelopsis neotropica Robledo & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

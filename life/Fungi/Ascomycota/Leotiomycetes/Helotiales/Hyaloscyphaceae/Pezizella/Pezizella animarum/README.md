@@ -1,5 +1,4 @@
-Pezizella animarum Velen. SPECIES
-=======
+# Pezizella animarum Velen. SPECIES
 
 #### Status
 ACCEPTED

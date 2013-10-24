@@ -1,5 +1,4 @@
-Lorenziella arcuata Knauer & Nagy, 1964 SPECIES
-=======
+# Lorenziella arcuata Knauer & Nagy, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolbitius brunneodiscus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Bolbitius brunneodiscus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

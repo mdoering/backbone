@@ -1,5 +1,4 @@
-Cryptogenella GENUS
-=======
+# Cryptogenella GENUS
 
 #### Status
 ACCEPTED

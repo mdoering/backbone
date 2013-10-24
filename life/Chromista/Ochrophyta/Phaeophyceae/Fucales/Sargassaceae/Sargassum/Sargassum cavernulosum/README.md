@@ -1,5 +1,4 @@
-Sargassum cavernulosum Kraft, 2009 SPECIES
-=======
+# Sargassum cavernulosum Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma subamarum Herp. SPECIES
-=======
+# Tricholoma subamarum Herp. SPECIES
 
 #### Status
 ACCEPTED

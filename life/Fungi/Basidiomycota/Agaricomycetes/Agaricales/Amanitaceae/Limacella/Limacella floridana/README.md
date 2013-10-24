@@ -1,5 +1,4 @@
-Limacella floridana (Murrill) H.V. Sm. SPECIES
-=======
+# Limacella floridana (Murrill) H.V. Sm. SPECIES
 
 #### Status
 ACCEPTED

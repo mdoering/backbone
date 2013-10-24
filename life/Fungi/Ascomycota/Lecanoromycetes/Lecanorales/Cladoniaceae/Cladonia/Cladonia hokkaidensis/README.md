@@ -1,5 +1,4 @@
-Cladonia hokkaidensis Asahina SPECIES
-=======
+# Cladonia hokkaidensis Asahina SPECIES
 
 #### Status
 ACCEPTED

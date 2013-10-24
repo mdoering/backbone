@@ -1,5 +1,4 @@
-Inocybe brevicystis Métrod ex Kuyper SPECIES
-=======
+# Inocybe brevicystis Métrod ex Kuyper SPECIES
 
 #### Status
 ACCEPTED

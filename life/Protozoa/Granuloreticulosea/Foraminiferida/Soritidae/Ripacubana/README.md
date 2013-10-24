@@ -1,5 +1,4 @@
-Ripacubana GENUS
-=======
+# Ripacubana GENUS
 
 #### Status
 ACCEPTED

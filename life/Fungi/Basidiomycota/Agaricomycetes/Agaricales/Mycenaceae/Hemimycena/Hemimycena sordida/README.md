@@ -1,5 +1,4 @@
-Hemimycena sordida Noordel. & Antonín SPECIES
-=======
+# Hemimycena sordida Noordel. & Antonín SPECIES
 
 #### Status
 ACCEPTED

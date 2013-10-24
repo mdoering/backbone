@@ -1,5 +1,4 @@
-Biatora delincta (Müll. Arg.) Arnold SPECIES
-=======
+# Biatora delincta (Müll. Arg.) Arnold SPECIES
 
 #### Status
 ACCEPTED

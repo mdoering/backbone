@@ -1,5 +1,4 @@
-Chiodecton ocellulatum Vain. SPECIES
-=======
+# Chiodecton ocellulatum Vain. SPECIES
 
 #### Status
 ACCEPTED

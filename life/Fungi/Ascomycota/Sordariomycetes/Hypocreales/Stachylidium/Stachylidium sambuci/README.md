@@ -1,5 +1,4 @@
-Stachylidium sambuci Richon SPECIES
-=======
+# Stachylidium sambuci Richon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulbothrix haleana Sérus. SPECIES
-=======
+# Bulbothrix haleana Sérus. SPECIES
 
 #### Status
 ACCEPTED

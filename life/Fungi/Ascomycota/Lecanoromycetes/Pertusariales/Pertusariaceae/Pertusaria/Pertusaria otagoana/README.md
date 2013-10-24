@@ -1,5 +1,4 @@
-Pertusaria otagoana D.J. Galloway SPECIES
-=======
+# Pertusaria otagoana D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

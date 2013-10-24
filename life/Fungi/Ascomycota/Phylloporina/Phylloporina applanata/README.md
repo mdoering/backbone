@@ -1,5 +1,4 @@
-Phylloporina applanata (Vain.) Zahlbr. SPECIES
-=======
+# Phylloporina applanata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

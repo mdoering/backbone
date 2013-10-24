@@ -1,14 +1,13 @@
-Stigmatomyces anoplischii Thaxt., 1912 SPECIES
-=======
+# Stemmatomyces anoplischii (Thaxt.) Thaxt., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts 48: 176 (1912)
+Mem. Amer. Acad. Arts, ser. 2 16(1): 108 (1931)
 
 #### Original name
 Stigmatomyces anoplischii Thaxt., 1912

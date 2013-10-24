@@ -1,5 +1,4 @@
-Meliola sclerochitonis Kalchbr. SPECIES
-=======
+# Meliola sclerochitonis Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

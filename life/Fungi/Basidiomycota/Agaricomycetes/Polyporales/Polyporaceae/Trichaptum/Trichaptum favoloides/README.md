@@ -1,5 +1,4 @@
-Trichaptum favoloides Corner, 1987 SPECIES
-=======
+# Trichaptum favoloides Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

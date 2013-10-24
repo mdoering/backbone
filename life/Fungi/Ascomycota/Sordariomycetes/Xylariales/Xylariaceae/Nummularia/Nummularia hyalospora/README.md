@@ -1,5 +1,4 @@
-Nummularia hyalospora Pat. SPECIES
-=======
+# Nummularia hyalospora Pat. SPECIES
 
 #### Status
 ACCEPTED

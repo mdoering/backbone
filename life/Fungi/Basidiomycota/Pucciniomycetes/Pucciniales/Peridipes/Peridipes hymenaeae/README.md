@@ -1,5 +1,4 @@
-Peridipes hymenaeae (Mayor) Buriticá & J.F. Hennen SPECIES
-=======
+# Peridipes hymenaeae (Mayor) Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

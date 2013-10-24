@@ -1,5 +1,4 @@
-Gloeocapsa sanguinolenta Kützing SPECIES
-=======
+# Gloeocapsa sanguinolenta Kützing SPECIES
 
 #### Status
 ACCEPTED

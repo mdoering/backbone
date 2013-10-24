@@ -1,5 +1,4 @@
-Lecidea meiobola Nyl. SPECIES
-=======
+# Lecidea meiobola Nyl. SPECIES
 
 #### Status
 ACCEPTED

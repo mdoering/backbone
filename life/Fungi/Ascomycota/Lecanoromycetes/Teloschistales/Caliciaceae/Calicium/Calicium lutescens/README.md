@@ -1,5 +1,4 @@
-Calicium lutescens Tibell SPECIES
-=======
+# Calicium lutescens Tibell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lionotus folium Wrzesniowski, 1870 SPECIES
-=======
+# Lionotus folium Wrzesniowski, 1870 SPECIES
 
 #### Status
 ACCEPTED

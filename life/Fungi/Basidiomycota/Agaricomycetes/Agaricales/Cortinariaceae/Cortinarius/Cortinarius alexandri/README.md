@@ -1,17 +1,16 @@
-Cortinarius alexandrii Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius alexandri Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bidaud, Moënne-Loccoz, Reumaux & Henry, Atlas des Cortinaires (Meyzieu) 6: 189 (1994)
 
 #### Original name
-Cortinarius alexandrii Bidaud, Moënne-Locc. & Reumaux
+Cortinarius alexandri Bidaud, Moënne-Locc. & Reumaux
 
 ### Remarks
 null

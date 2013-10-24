@@ -1,5 +1,4 @@
-Russula yaeneroensis Buyck SPECIES
-=======
+# Russula yaeneroensis Buyck SPECIES
 
 #### Status
 ACCEPTED

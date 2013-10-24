@@ -1,17 +1,16 @@
-Coprinus radians var. radians VARIETY
-=======
+# Coprinellus radians (Desm.) Vilgalys, Hopple & Jacq. Johnson, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 248 (1838)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 234 (2001)
 
 #### Original name
-Coprinus radians var. radians
+Agaricus radians J.F. Gmel., 1792
 
 ### Remarks
 null

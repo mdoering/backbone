@@ -1,5 +1,4 @@
-Bovimyces GENUS
-=======
+# Bovimyces GENUS
 
 #### Status
 ACCEPTED

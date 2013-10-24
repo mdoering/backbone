@@ -1,5 +1,4 @@
-Propionivibrio dicarboxylicus Tanaka et al., 1991 SPECIES
-=======
+# Propionivibrio dicarboxylicus Tanaka et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

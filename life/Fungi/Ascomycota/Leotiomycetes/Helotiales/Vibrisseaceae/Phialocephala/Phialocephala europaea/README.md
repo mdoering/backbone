@@ -1,5 +1,4 @@
-Phialocephala europaea Grünig & T.N. Sieber SPECIES
-=======
+# Phialocephala europaea Grünig & T.N. Sieber SPECIES
 
 #### Status
 ACCEPTED

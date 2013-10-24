@@ -1,5 +1,4 @@
-Phoma zantedeschiae Dippen., 1931 SPECIES
-=======
+# Phoma zantedeschiae Dippen., 1931 SPECIES
 
 #### Status
 ACCEPTED

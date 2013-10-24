@@ -1,5 +1,4 @@
-Catillaria mongolica H. Magn. SPECIES
-=======
+# Catillaria mongolica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

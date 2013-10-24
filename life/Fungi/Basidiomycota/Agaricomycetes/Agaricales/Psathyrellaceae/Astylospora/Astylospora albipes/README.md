@@ -1,5 +1,4 @@
-Astylospora albipes Murrill SPECIES
-=======
+# Astylospora albipes Murrill SPECIES
 
 #### Status
 ACCEPTED

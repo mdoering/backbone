@@ -1,5 +1,4 @@
-Comasphaeridium williereae (Deflandre & Deflandre-Rigaud, 1965 ex Lister, 1970) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium williereae (Deflandre & Deflandre-Rigaud, 1965 ex Lister, 1970) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia cerasi Schumach. SPECIES
-=======
+# Tubercularia cerasi Schumach. SPECIES
 
 #### Status
 ACCEPTED

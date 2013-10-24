@@ -1,5 +1,4 @@
-Macrosporium meliloti Peck SPECIES
-=======
+# Macrosporium meliloti Peck SPECIES
 
 #### Status
 ACCEPTED

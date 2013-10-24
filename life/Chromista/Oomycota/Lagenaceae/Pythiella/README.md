@@ -1,5 +1,4 @@
-Pythiella Couch GENUS
-=======
+# Pythiella Couch GENUS
 
 #### Status
 ACCEPTED

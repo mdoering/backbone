@@ -1,5 +1,4 @@
-Sphaerella mulgedii-alpini (Petr.) Sacc. SPECIES
-=======
+# Sphaerella mulgedii-alpini (Petr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

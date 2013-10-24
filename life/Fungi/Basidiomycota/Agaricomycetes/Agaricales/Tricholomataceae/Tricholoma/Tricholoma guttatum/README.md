@@ -1,5 +1,4 @@
-Tricholoma guttatum (Schaeff.) Sacc. SPECIES
-=======
+# Tricholoma guttatum (Schaeff.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

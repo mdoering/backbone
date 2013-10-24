@@ -1,8 +1,7 @@
-Mycosphaerella tomilinae T.M. Achundov SPECIES
-=======
+# Mycosphaerella tomilinii T.M. Achundov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycosphaerella tomilinae T.M. Achundov
+Mycosphaerella tomilinii T.M. Achundov
 
 ### Remarks
 null

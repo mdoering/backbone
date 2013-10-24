@@ -1,5 +1,4 @@
-Teichospora bartholomewii M.E. Barr SPECIES
-=======
+# Teichospora bartholomewii M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

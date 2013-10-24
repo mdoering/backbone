@@ -1,5 +1,4 @@
-Russula hoehnelii Singer SPECIES
-=======
+# Russula hoehnelii Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyochaeta tumidoseta Kuthub. & Nawawi SPECIES
-=======
+# Dictyochaeta tumidoseta Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED

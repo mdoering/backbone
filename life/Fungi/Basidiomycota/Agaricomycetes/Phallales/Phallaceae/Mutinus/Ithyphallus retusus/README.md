@@ -1,5 +1,4 @@
-Ithyphallus retusus (Kalchbr.) E. Fisch. SPECIES
-=======
+# Ithyphallus retusus (Kalchbr.) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

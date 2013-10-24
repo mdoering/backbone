@@ -1,5 +1,4 @@
-Puccinia imperatae Doidge SPECIES
-=======
+# Puccinia imperatae Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catinulus Haeckel, 1887 GENUS
-=======
+# Catinulus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

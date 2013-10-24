@@ -1,5 +1,4 @@
-Pectinotrichum Varsavsky & G.F. Orr, 1971 GENUS
-=======
+# Pectinotrichum Varsavsky & G.F. Orr, 1971 GENUS
 
 #### Status
 ACCEPTED

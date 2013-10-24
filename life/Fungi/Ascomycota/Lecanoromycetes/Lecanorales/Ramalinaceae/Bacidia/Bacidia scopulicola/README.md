@@ -1,14 +1,13 @@
-Lecidea scopulicola Nyl. SPECIES
-=======
+# Bacidia scopulicola (Nyl.) A. L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 57: 312 (1874)
+Monogr. Brit. Lich. 2: 156 (1911)
 
 #### Original name
 Lecidea scopulicola Nyl.

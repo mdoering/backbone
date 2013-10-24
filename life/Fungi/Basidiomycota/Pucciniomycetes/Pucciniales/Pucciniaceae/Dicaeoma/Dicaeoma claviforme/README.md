@@ -1,5 +1,4 @@
-Dicaeoma claviforme (Lagerh.) Kuntze SPECIES
-=======
+# Dicaeoma claviforme (Lagerh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

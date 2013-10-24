@@ -1,5 +1,4 @@
-Leptopeltina antarctica Speg. SPECIES
-=======
+# Leptopeltina antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

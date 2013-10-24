@@ -1,5 +1,4 @@
-Protohalopteris Draisma, Prud'homme & H.Kawai, 2010 GENUS
-=======
+# Protohalopteris Draisma, Prud'homme & H.Kawai, 2010 GENUS
 
 #### Status
 ACCEPTED

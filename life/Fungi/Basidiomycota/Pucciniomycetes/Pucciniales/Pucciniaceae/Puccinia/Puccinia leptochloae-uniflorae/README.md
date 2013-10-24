@@ -1,5 +1,4 @@
-Puccinia leptochloae-uniflorae Cummins SPECIES
-=======
+# Puccinia leptochloae-uniflorae Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptococcus bacillisporus Kwon-Chung & J.E. Benn. SPECIES
-=======
+# Cryptococcus bacillisporus Kwon-Chung & J.E. Benn. SPECIES
 
 #### Status
 ACCEPTED

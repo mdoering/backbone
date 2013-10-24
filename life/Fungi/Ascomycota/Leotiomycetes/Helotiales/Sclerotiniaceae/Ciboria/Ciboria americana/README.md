@@ -1,14 +1,13 @@
-Rutstroemia americana (E.J. Durand) W.L. White, 1941 SPECIES
-=======
+# Ciboria americana E.J. Durand, 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 4: 188 (1941)
+Bull. Torrey bot. Club 29: 461 (1902)
 
 #### Original name
 Ciboria americana E.J. Durand, 1902

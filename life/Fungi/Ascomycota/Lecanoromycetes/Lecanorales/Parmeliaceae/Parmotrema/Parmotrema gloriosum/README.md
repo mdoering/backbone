@@ -1,5 +1,4 @@
-Parmotrema gloriosum (Kurok.) Streimann SPECIES
-=======
+# Parmotrema gloriosum (Kurok.) Streimann SPECIES
 
 #### Status
 ACCEPTED

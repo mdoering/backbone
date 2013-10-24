@@ -1,5 +1,4 @@
-Likropalla G.K. Colbath, 1979 GENUS
-=======
+# Likropalla G.K. Colbath, 1979 GENUS
 
 #### Status
 ACCEPTED

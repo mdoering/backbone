@@ -1,8 +1,7 @@
-Dasyscypha virginellus (Cooke) Sacc. SPECIES
-=======
+# Dasyscyphus virginellus (Cooke) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

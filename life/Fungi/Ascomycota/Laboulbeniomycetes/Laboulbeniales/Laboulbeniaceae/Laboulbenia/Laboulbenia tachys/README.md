@@ -1,5 +1,4 @@
-Laboulbenia tachys Thaxter SPECIES
-=======
+# Laboulbenia tachys Thaxter SPECIES
 
 #### Status
 ACCEPTED

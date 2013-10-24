@@ -1,14 +1,13 @@
-Ophiodothis henningsiana Möller, 1901 SPECIES
-=======
+# Balansia henningsiana (Möller) Diehl, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mitt. Trop. 9: 302 (1901)
+Agriculture Monogr. , US Dept Agric. 4: 36 (1950)
 
 #### Original name
 Ophiodothis henningsiana Möller, 1901

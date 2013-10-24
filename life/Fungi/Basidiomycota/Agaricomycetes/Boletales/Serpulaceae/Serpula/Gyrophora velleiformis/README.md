@@ -1,5 +1,4 @@
-Gyrophora velleiformis (Bellardi) Ach. SPECIES
-=======
+# Gyrophora velleiformis (Bellardi) Ach. SPECIES
 
 #### Status
 ACCEPTED

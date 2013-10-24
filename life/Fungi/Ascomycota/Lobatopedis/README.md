@@ -1,5 +1,4 @@
-Lobatopedis P.M. Kirk GENUS
-=======
+# Lobatopedis P.M. Kirk GENUS
 
 #### Status
 ACCEPTED

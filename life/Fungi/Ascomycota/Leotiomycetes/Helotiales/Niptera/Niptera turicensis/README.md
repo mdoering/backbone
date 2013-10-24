@@ -1,5 +1,4 @@
-Niptera turicensis Rehm SPECIES
-=======
+# Niptera turicensis Rehm SPECIES
 
 #### Status
 ACCEPTED

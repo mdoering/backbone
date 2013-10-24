@@ -1,5 +1,4 @@
-Cladonia hookeri Tuck. SPECIES
-=======
+# Cladonia hookeri Tuck. SPECIES
 
 #### Status
 ACCEPTED

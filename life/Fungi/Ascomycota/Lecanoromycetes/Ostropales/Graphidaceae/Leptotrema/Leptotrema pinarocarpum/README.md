@@ -1,5 +1,4 @@
-Leptotrema pinarocarpum Zahlbr. SPECIES
-=======
+# Leptotrema pinarocarpum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

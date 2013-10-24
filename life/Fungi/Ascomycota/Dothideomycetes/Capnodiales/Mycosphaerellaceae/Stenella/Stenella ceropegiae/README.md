@@ -1,5 +1,4 @@
-Stenella ceropegiae M.S. Patil & Sawant SPECIES
-=======
+# Stenella ceropegiae M.S. Patil & Sawant SPECIES
 
 #### Status
 ACCEPTED

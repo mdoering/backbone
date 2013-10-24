@@ -1,5 +1,4 @@
-Boletellus rufescens (Cooke & Massee) Singer SPECIES
-=======
+# Boletellus rufescens (Cooke & Massee) Singer SPECIES
 
 #### Status
 ACCEPTED

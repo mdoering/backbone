@@ -1,5 +1,4 @@
-Stereocaulon esterhuysenae I.M. Lamb SPECIES
-=======
+# Stereocaulon esterhuysenae I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

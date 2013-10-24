@@ -1,5 +1,4 @@
-Cercosporina hiptages (Petch) Sacc. SPECIES
-=======
+# Cercosporina hiptages (Petch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

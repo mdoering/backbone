@@ -1,5 +1,4 @@
-Physcia firmula Nyl. SPECIES
-=======
+# Physcia firmula Nyl. SPECIES
 
 #### Status
 ACCEPTED

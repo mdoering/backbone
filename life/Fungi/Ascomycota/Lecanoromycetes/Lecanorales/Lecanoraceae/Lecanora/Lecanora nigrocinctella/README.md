@@ -1,5 +1,4 @@
-Lecanora nigrocinctella Nyl. SPECIES
-=======
+# Lecanora nigrocinctella Nyl. SPECIES
 
 #### Status
 ACCEPTED

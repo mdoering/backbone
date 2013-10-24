@@ -1,5 +1,4 @@
-Leptosphaeria briosiana Pollacci SPECIES
-=======
+# Leptosphaeria briosiana Pollacci SPECIES
 
 #### Status
 ACCEPTED

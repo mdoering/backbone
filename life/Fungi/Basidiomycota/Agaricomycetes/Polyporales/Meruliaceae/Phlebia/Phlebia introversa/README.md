@@ -1,14 +1,13 @@
-Corticium introversum Rehill & B.K. Bakshi, 1965 SPECIES
-=======
+# Phlebia introversa (Rehill & B.K. Bakshi) Hjortstam, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Forest Bull. , Dehra Dunn, n. s. 242: 12 (1965)
+Mycotaxon 54: 190 (1995)
 
 #### Original name
 Corticium introversum Rehill & B.K. Bakshi, 1965

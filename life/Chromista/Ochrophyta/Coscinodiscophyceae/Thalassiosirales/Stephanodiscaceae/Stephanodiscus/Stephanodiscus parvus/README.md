@@ -1,11 +1,10 @@
-Stephanodiscus hantzschii f. parva Grunow ex Cleve & Möller, 1879 FORM
-=======
+# Stephanodiscus parvus Stoermer & Håk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

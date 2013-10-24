@@ -1,17 +1,16 @@
-Lecidea mcleani C.W. Dodge SPECIES
-=======
+# Lecidea macleanii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 100 (1948)
 
 #### Original name
-Lecidea mcleani C.W. Dodge
+Lecidea macleanii C.W. Dodge
 
 ### Remarks
 null

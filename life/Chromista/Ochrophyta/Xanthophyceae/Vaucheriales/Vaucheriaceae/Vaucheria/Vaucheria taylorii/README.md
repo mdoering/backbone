@@ -1,5 +1,4 @@
-Vaucheria taylorii Blum SPECIES
-=======
+# Vaucheria taylorii Blum SPECIES
 
 #### Status
 ACCEPTED

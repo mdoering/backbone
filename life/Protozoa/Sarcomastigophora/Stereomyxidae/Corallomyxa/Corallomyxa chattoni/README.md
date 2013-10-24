@@ -1,5 +1,4 @@
-Corallomyxa chattoni Grell & Benwitz, 1978 SPECIES
-=======
+# Corallomyxa chattoni Grell & Benwitz, 1978 SPECIES
 
 #### Status
 ACCEPTED

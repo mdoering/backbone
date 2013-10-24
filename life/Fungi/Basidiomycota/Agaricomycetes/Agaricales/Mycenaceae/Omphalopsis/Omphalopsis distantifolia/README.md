@@ -1,5 +1,4 @@
-Omphalopsis distantifolia Murrill SPECIES
-=======
+# Omphalopsis distantifolia Murrill SPECIES
 
 #### Status
 ACCEPTED

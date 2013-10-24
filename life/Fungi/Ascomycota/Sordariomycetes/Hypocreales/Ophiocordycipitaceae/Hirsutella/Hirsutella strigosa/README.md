@@ -1,5 +1,4 @@
-Hirsutella strigosa Petch, 1939 SPECIES
-=======
+# Hirsutella strigosa Petch, 1939 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium amabile Fink SPECIES
-=======
+# Placodium amabile Fink SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleps lacustris SPECIES
-=======
+# Coleps lacustris SPECIES
 
 #### Status
 ACCEPTED

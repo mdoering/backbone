@@ -1,5 +1,4 @@
-Leptosphaeria vindobonensis Petr. SPECIES
-=======
+# Leptosphaeria vindobonensis Petr. SPECIES
 
 #### Status
 ACCEPTED

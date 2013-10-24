@@ -1,5 +1,4 @@
-Mycena hausknechtii Maas Geest. SPECIES
-=======
+# Mycena hausknechtii Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

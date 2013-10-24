@@ -1,5 +1,4 @@
-Passalora pyrrosiae (Togashi & Katsuki) C. Nakash. & I. Araki SPECIES
-=======
+# Passalora pyrrosiae (Togashi & Katsuki) C. Nakash. & I. Araki SPECIES
 
 #### Status
 ACCEPTED

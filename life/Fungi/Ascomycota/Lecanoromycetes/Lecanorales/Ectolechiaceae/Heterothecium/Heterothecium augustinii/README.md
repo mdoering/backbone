@@ -1,5 +1,4 @@
-Heterothecium augustinii (Tuck.) SPECIES
-=======
+# Heterothecium augustinii (Tuck.) SPECIES
 
 #### Status
 ACCEPTED

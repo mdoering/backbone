@@ -1,17 +1,16 @@
-Bactrexcipula Höhn. GENUS
-=======
+# Rhizothyrium Naumov GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 60: 161 (1918)
+Bull. Soc. mycol. Fr. 30: 429 (1915)
 
 #### Original name
-Bactrexcipula Höhn.
+Rhizothyrium Naumov
 
 ### Remarks
 null

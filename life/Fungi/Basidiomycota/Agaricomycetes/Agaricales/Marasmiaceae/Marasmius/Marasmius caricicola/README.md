@@ -1,5 +1,4 @@
-Marasmius caricicola Kauffman SPECIES
-=======
+# Marasmius caricicola Kauffman SPECIES
 
 #### Status
 ACCEPTED

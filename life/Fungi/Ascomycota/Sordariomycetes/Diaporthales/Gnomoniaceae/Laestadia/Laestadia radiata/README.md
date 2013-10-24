@@ -1,5 +1,4 @@
-Laestadia radiata (Wallr.) Sacc. SPECIES
-=======
+# Laestadia radiata (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

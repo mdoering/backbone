@@ -1,5 +1,4 @@
-Lebessphaera Meier, Janofske & Willems, 2002 GENUS
-=======
+# Lebessphaera Meier, Janofske & Willems, 2002 GENUS
 
 #### Status
 ACCEPTED

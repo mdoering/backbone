@@ -1,5 +1,4 @@
-Ectocarpus plasticola Noda SPECIES
-=======
+# Ectocarpus plasticola Noda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Coprinus bulleri Cacialli, Caroti & Doveri, 1999 SPECIES
-=======
+# Coprinus stellatus Buller, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monografie di Pagine di Micologia (Vicenza) 1: 236 (1999)
+Fl. ital. crypt. (Genoa), Hymeniales 1(16): 864 (1916)
 
 #### Original name
-Coprinus stellatus Buller, 1929
+Agaricus stellatus Fr., 1815
 
 ### Remarks
 null

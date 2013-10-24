@@ -1,8 +1,7 @@
-Parodiella puncta (Cooke) Sacc., 1882 SPECIES
-=======
+# Phyllachora microsperma Parbery, 1967 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

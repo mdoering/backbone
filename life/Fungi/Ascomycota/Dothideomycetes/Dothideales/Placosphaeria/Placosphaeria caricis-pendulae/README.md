@@ -1,5 +1,4 @@
-Placosphaeria caricis-pendulae Unamuno SPECIES
-=======
+# Placosphaeria caricis-pendulae Unamuno SPECIES
 
 #### Status
 ACCEPTED

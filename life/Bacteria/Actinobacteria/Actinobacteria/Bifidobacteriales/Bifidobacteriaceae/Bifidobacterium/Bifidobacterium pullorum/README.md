@@ -1,5 +1,4 @@
-Bifidobacterium pullorum Trovatelli et al., 1974 (Approved Lists, 1980) SPECIES
-=======
+# Bifidobacterium pullorum Trovatelli et al., 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

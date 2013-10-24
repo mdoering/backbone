@@ -1,5 +1,4 @@
-Nigredo rickeriana (Arthur) Arthur SPECIES
-=======
+# Nigredo rickeriana (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

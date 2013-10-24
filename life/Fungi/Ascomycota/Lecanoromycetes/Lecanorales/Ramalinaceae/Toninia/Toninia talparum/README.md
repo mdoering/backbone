@@ -1,5 +1,4 @@
-Toninia talparum Timdal SPECIES
-=======
+# Toninia talparum Timdal SPECIES
 
 #### Status
 ACCEPTED

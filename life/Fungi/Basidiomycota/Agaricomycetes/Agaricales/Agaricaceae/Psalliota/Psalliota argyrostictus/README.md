@@ -1,5 +1,4 @@
-Psalliota argyrostictus Copel. SPECIES
-=======
+# Psalliota argyrostictus Copel. SPECIES
 
 #### Status
 ACCEPTED

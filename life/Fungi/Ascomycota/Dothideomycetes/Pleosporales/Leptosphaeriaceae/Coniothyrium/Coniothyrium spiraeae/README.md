@@ -1,5 +1,4 @@
-Coniothyrium spiraeae T. Miyake SPECIES
-=======
+# Coniothyrium spiraeae T. Miyake SPECIES
 
 #### Status
 ACCEPTED

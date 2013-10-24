@@ -1,5 +1,4 @@
-Claudopus pusillus Velen. SPECIES
-=======
+# Claudopus pusillus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota variegata Velen. SPECIES
-=======
+# Lepiota variegata Velen. SPECIES
 
 #### Status
 ACCEPTED

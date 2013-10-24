@@ -1,5 +1,4 @@
-Porina pertensa (Stirt.) Müll. Arg. SPECIES
-=======
+# Porina pertensa (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

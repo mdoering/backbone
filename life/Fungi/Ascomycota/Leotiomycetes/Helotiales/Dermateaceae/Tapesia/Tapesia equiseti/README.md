@@ -1,5 +1,4 @@
-Tapesia equiseti Velen. SPECIES
-=======
+# Tapesia equiseti Velen. SPECIES
 
 #### Status
 ACCEPTED

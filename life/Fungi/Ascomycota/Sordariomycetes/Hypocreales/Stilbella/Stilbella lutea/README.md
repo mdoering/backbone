@@ -1,5 +1,4 @@
-Stilbella lutea (Pers.) Lindau SPECIES
-=======
+# Stilbella lutea (Pers.) Lindau SPECIES
 
 #### Status
 ACCEPTED

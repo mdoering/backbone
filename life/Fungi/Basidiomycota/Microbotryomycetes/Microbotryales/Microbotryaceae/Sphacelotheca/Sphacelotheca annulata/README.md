@@ -1,5 +1,4 @@
-Sphacelotheca annulata (Ellis & Everh.) Mundk. SPECIES
-=======
+# Sphacelotheca annulata (Ellis & Everh.) Mundk. SPECIES
 
 #### Status
 ACCEPTED

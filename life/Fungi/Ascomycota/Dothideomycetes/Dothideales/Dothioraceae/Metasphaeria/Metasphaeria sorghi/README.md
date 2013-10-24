@@ -1,5 +1,4 @@
-Metasphaeria sorghi Saccas SPECIES
-=======
+# Metasphaeria sorghi Saccas SPECIES
 
 #### Status
 ACCEPTED

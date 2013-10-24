@@ -1,14 +1,13 @@
-Lecanora asperella Nyl. SPECIES
-=======
+# Psoroma asperellum Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. meth. lich. 2: 24 (1863)
 
 #### Original name
 Lecanora asperella Nyl.

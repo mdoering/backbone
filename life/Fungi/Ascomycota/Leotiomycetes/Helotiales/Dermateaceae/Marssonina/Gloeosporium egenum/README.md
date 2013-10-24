@@ -1,5 +1,4 @@
-Gloeosporium egenum Davis SPECIES
-=======
+# Gloeosporium egenum Davis SPECIES
 
 #### Status
 ACCEPTED

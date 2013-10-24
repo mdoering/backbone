@@ -1,5 +1,4 @@
-Byssosphaeria oviformis M.E. Barr SPECIES
-=======
+# Byssosphaeria oviformis M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

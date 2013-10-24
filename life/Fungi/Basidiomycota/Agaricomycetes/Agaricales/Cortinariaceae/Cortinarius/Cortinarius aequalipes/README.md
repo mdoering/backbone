@@ -1,5 +1,4 @@
-Cortinarius aequalipes Rob. Henry SPECIES
-=======
+# Cortinarius aequalipes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

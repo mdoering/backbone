@@ -1,14 +1,13 @@
-Ophiostoma pluriannulatum (Hedgc.) Syd. & P. Syd., 1919 SPECIES
-=======
+# Ceratocystis pluriannulata (Hedgc.) C. Moreau, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 17(1): 43 (1919)
+Revue Mycol. , Paris 17(Suppl. Colon. no. 1): 22 (1952)
 
 #### Original name
 Ceratostomella pluriannulata Hedgc., 1907

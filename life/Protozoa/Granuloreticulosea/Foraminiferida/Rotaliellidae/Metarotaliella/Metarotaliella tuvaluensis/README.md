@@ -1,5 +1,4 @@
-Metarotaliella tuvaluensis Collen, 1998 SPECIES
-=======
+# Metarotaliella tuvaluensis Collen, 1998 SPECIES
 
 #### Status
 ACCEPTED

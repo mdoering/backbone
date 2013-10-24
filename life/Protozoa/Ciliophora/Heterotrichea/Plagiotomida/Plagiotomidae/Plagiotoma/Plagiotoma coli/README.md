@@ -1,5 +1,4 @@
-Plagiotoma coli SPECIES
-=======
+# Plagiotoma coli SPECIES
 
 #### Status
 ACCEPTED

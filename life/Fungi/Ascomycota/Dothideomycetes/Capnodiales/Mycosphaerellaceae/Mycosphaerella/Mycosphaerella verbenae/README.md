@@ -1,5 +1,4 @@
-Mycosphaerella verbenae (Unamuno) M. Morelet SPECIES
-=======
+# Mycosphaerella verbenae (Unamuno) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

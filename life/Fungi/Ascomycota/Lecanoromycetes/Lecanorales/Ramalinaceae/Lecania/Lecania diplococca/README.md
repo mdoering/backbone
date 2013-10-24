@@ -1,5 +1,4 @@
-Lecania diplococca M. Steiner & Poelt SPECIES
-=======
+# Lecania diplococca M. Steiner & Poelt SPECIES
 
 #### Status
 ACCEPTED

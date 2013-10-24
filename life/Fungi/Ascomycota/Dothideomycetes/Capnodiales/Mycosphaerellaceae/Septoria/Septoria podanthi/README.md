@@ -1,5 +1,4 @@
-Septoria podanthi Speg. SPECIES
-=======
+# Septoria podanthi Speg. SPECIES
 
 #### Status
 ACCEPTED

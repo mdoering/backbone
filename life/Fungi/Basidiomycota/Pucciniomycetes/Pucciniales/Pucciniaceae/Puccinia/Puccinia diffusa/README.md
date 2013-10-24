@@ -1,5 +1,4 @@
-Puccinia diffusa Holw. SPECIES
-=======
+# Puccinia diffusa Holw. SPECIES
 
 #### Status
 ACCEPTED

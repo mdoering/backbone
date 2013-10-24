@@ -1,5 +1,4 @@
-Thelidium riparium (Hepp) Zahlbr. SPECIES
-=======
+# Thelidium riparium (Hepp) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

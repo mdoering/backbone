@@ -1,5 +1,4 @@
-Sedecula Zeller GENUS
-=======
+# Sedecula Zeller GENUS
 
 #### Status
 ACCEPTED

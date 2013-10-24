@@ -1,5 +1,4 @@
-Ammatoidea aegaea K. Anagnostidis & A. Pantazidou SPECIES
-=======
+# Ammatoidea aegaea K. Anagnostidis & A. Pantazidou SPECIES
 
 #### Status
 ACCEPTED

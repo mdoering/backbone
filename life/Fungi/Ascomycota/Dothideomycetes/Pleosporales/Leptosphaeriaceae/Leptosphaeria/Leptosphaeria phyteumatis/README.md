@@ -1,5 +1,4 @@
-Leptosphaeria phyteumatis (Fuckel) Sacc. SPECIES
-=======
+# Leptosphaeria phyteumatis (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

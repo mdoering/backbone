@@ -1,5 +1,4 @@
-Physciella denigrata (Hue) Essl. SPECIES
-=======
+# Physciella denigrata (Hue) Essl. SPECIES
 
 #### Status
 ACCEPTED

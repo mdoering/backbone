@@ -1,5 +1,4 @@
-Agaricus subrimosus Schulzer SPECIES
-=======
+# Agaricus subrimosus Schulzer SPECIES
 
 #### Status
 ACCEPTED

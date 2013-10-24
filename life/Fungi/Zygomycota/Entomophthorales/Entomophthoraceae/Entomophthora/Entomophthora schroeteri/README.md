@@ -1,5 +1,4 @@
-Entomophthora schroeteri Brumpt SPECIES
-=======
+# Entomophthora schroeteri Brumpt SPECIES
 
 #### Status
 ACCEPTED

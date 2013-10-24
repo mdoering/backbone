@@ -1,5 +1,4 @@
-Polyblastia mexicana B. de Lesd. SPECIES
-=======
+# Polyblastia mexicana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

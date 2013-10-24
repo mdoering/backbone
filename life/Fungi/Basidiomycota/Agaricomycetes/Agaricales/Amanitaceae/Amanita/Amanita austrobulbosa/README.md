@@ -1,5 +1,4 @@
-Amanita austrobulbosa Grgur. SPECIES
-=======
+# Amanita austrobulbosa Grgur. SPECIES
 
 #### Status
 ACCEPTED

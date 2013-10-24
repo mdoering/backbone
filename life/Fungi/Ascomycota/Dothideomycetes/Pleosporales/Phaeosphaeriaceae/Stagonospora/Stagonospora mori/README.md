@@ -1,5 +1,4 @@
-Stagonospora mori T. Miyake SPECIES
-=======
+# Stagonospora mori T. Miyake SPECIES
 
 #### Status
 ACCEPTED

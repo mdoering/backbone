@@ -1,5 +1,4 @@
-Uredo jozankensis S. Ito SPECIES
-=======
+# Uredo jozankensis S. Ito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porosphaera Haeckel, 1887 GENUS
-=======
+# Porosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

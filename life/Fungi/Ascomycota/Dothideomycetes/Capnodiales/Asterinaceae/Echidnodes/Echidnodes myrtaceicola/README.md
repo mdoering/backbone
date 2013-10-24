@@ -1,5 +1,4 @@
-Echidnodes myrtaceicola Bat. & Gayão SPECIES
-=======
+# Echidnodes myrtaceicola Bat. & Gayão SPECIES
 
 #### Status
 ACCEPTED

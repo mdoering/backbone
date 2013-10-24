@@ -1,5 +1,4 @@
-Creodiplodina Petr. GENUS
-=======
+# Creodiplodina Petr. GENUS
 
 #### Status
 ACCEPTED

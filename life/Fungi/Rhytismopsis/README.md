@@ -1,5 +1,4 @@
-Rhytismopsis Geyl. GENUS
-=======
+# Rhytismopsis Geyl. GENUS
 
 #### Status
 ACCEPTED

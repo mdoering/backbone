@@ -1,5 +1,4 @@
-Phoma galegae Thüm., 1878 SPECIES
-=======
+# Phoma galegae Thüm., 1878 SPECIES
 
 #### Status
 ACCEPTED

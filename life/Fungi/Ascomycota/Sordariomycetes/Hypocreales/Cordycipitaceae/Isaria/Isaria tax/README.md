@@ -1,5 +1,4 @@
-Isaria tax D. Kumar, C.S. Roy, Z.R. Khan, Yazdani, Hameed & M. Mahmood, 1983 SPECIES
-=======
+# Isaria tax D. Kumar, C.S. Roy, Z.R. Khan, Yazdani, Hameed & M. Mahmood, 1983 SPECIES
 
 #### Status
 ACCEPTED

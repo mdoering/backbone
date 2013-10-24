@@ -1,14 +1,13 @@
-Spegazzinula dubitationum (Speg.) Sacc. SPECIES
-=======
+# Dubitatio dubitationum Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 2: 538 (1883)
+Anal. Soc. cient. argent. 12(5): 212 [no. 202] (1881)
 
 #### Original name
 Dubitatio dubitationum Speg.

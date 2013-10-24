@@ -1,5 +1,4 @@
-Leiofusa belata Sheshegova, 1984 SPECIES
-=======
+# Leiofusa belata Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria lagerheimii Pat. SPECIES
-=======
+# Septoria lagerheimii Pat. SPECIES
 
 #### Status
 ACCEPTED

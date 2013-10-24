@@ -1,5 +1,4 @@
-Phyllosticta jasminicola (Desm.) Sacc. SPECIES
-=======
+# Phyllosticta jasminicola (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

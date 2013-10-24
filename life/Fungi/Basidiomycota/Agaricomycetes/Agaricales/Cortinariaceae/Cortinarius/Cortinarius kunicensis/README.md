@@ -1,5 +1,4 @@
-Cortinarius kunicensis var. kunicensis VARIETY
-=======
+# Cortinarius kunicensis (Velen.) Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Bidaud, Moënne-Loccoz, Reumaux, Carteret & Eyssartier, Atlas des Cortinaires (Meyzieu) 11: 573 (2001)
 
 #### Original name
-Cortinarius kunicensis var. kunicensis
+Telamonia kunicensis Velen.
 
 ### Remarks
 null

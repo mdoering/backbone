@@ -1,5 +1,4 @@
-Boletus badiorufus R. Heim SPECIES
-=======
+# Boletus badiorufus R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhachomyces mirei Balazuc SPECIES
-=======
+# Rhachomyces mirei Balazuc SPECIES
 
 #### Status
 ACCEPTED

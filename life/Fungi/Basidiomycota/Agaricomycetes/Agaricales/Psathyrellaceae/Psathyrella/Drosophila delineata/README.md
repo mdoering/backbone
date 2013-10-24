@@ -1,5 +1,4 @@
-Drosophila delineata (Peck) Merr. SPECIES
-=======
+# Drosophila delineata (Peck) Merr. SPECIES
 
 #### Status
 ACCEPTED

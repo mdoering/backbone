@@ -1,5 +1,4 @@
-Vishnumyces GENUS
-=======
+# Vishnumyces GENUS
 
 #### Status
 ACCEPTED

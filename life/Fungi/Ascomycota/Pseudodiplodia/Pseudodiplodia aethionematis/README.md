@@ -1,14 +1,13 @@
-Pseudodiplodia aethionemae (Gonz. Frag.) Petr. SPECIES
-=======
+# Pseudodiplodia aethionematis (Gonz. Frag.) Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 7(5-6): 305 (1953)
 
 #### Original name
 Ascochytella aethionemae (Gonz. Frag.) Petr. & Syd.

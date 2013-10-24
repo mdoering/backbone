@@ -1,5 +1,4 @@
-Lamprospora paechnatzii Benkert SPECIES
-=======
+# Lamprospora paechnatzii Benkert SPECIES
 
 #### Status
 ACCEPTED

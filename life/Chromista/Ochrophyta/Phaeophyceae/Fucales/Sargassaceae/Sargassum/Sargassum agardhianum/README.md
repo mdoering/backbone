@@ -1,5 +1,4 @@
-Sargassum agardhianum Farlow ex J. Agardh SPECIES
-=======
+# Sargassum agardhianum Farlow ex J. Agardh SPECIES
 
 #### Status
 ACCEPTED

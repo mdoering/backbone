@@ -1,5 +1,4 @@
-Stereocaulon albicans Th. Fr. SPECIES
-=======
+# Stereocaulon albicans Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

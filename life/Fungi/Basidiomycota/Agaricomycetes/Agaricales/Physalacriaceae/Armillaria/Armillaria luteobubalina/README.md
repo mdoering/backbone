@@ -1,5 +1,4 @@
-Armillaria luteobubalina Watling & Kile, 1978 SPECIES
-=======
+# Armillaria luteobubalina Watling & Kile, 1978 SPECIES
 
 #### Status
 ACCEPTED

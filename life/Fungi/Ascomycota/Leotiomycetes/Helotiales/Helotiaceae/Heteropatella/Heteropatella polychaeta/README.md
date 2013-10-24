@@ -1,5 +1,4 @@
-Heteropatella polychaeta Maire SPECIES
-=======
+# Heteropatella polychaeta Maire SPECIES
 
 #### Status
 ACCEPTED

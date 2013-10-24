@@ -1,5 +1,4 @@
-Lacrimatoria epistomium (Müller) Bory, 1824 SPECIES
-=======
+# Lacrimatoria epistomium (Müller) Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

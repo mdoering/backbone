@@ -1,5 +1,4 @@
-Psilocybe subaeruginosa Cleland, 1927 SPECIES
-=======
+# Psilocybe subaeruginosa Cleland, 1927 SPECIES
 
 #### Status
 ACCEPTED

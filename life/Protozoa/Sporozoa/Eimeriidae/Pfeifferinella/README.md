@@ -1,5 +1,4 @@
-Pfeifferinella Wasielewski, 1904 GENUS
-=======
+# Pfeifferinella Wasielewski, 1904 GENUS
 
 #### Status
 ACCEPTED

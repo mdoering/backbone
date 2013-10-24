@@ -1,5 +1,4 @@
-Phlegmacium pseudocrassum (Joss.) M.M. Moser SPECIES
-=======
+# Phlegmacium pseudocrassum (Joss.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

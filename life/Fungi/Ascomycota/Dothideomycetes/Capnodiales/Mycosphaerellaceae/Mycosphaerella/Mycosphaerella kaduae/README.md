@@ -1,5 +1,4 @@
-Mycosphaerella kaduae F. Stevens & P.A. Young SPECIES
-=======
+# Mycosphaerella kaduae F. Stevens & P.A. Young SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita proxima Dumée SPECIES
-=======
+# Amanita proxima Dumée SPECIES
 
 #### Status
 ACCEPTED

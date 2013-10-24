@@ -1,5 +1,4 @@
-Diplodia juglandina G.H. Otth SPECIES
-=======
+# Diplodia juglandina G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

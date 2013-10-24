@@ -1,5 +1,4 @@
-Didymium linkii Fr. & Palmquist SPECIES
-=======
+# Didymium linkii Fr. & Palmquist SPECIES
 
 #### Status
 ACCEPTED

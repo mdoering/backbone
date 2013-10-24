@@ -1,5 +1,4 @@
-Arenariomyces majusculus Kohlm. & Volkm.-Kohlm., 1989 SPECIES
-=======
+# Arenariomyces majusculus Kohlm. & Volkm.-Kohlm., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis griseola Sacc. SPECIES
-=======
+# Botrytis griseola Sacc. SPECIES
 
 #### Status
 ACCEPTED

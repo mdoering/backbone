@@ -1,5 +1,4 @@
-Hypha penicillum (Scop.) Pers. SPECIES
-=======
+# Hypha penicillum (Scop.) Pers. SPECIES
 
 #### Status
 ACCEPTED

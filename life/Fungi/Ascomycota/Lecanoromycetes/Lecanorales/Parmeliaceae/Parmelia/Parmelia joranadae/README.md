@@ -1,5 +1,4 @@
-Parmelia joranadae T.H. Nash SPECIES
-=======
+# Parmelia joranadae T.H. Nash SPECIES
 
 #### Status
 ACCEPTED

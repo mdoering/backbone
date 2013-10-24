@@ -1,17 +1,16 @@
-Inocybe ovalispora f. brunneola J. Favre FORM
-=======
+# Inocybe tjallingiorum Kuyper, 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia, Suppl. 3: 192 (1986)
 
 #### Original name
-Inocybe ovalispora f. brunneola J. Favre
+Inocybe tjallingiorum Kuyper, 1986
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Dothidea musae Klotzsch, 1833 SPECIES
-=======
+# Phyllachora musae (Klotzsch) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 8: 489 (1833)
+Syll. fung. (Abellini) 2: 613 (1883)
 
 #### Original name
 Dothidea musae Klotzsch, 1833

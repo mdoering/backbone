@@ -1,5 +1,4 @@
-Agaricus aurantioferrugineus Britzelm. SPECIES
-=======
+# Agaricus aurantioferrugineus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

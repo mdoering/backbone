@@ -1,5 +1,4 @@
-Pocosphaeria dendromeconis Earle SPECIES
-=======
+# Pocosphaeria dendromeconis Earle SPECIES
 
 #### Status
 ACCEPTED

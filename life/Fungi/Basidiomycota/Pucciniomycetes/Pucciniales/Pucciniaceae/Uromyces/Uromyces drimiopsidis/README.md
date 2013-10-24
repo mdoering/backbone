@@ -1,5 +1,4 @@
-Uromyces drimiopsidis Doidge SPECIES
-=======
+# Uromyces drimiopsidis Doidge SPECIES
 
 #### Status
 ACCEPTED

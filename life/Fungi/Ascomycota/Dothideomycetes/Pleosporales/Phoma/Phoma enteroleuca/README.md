@@ -1,5 +1,4 @@
-Phoma enteroleuca var. enteroleuca Sacc., 1878 VARIETY
-=======
+# Phoma enteroleuca Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Michelia 1(no. 4): 358 (1878)
 
 #### Original name
-Phoma enteroleuca var. enteroleuca Sacc., 1878
+Phoma enteroleuca Sacc.
 
 ### Remarks
 null

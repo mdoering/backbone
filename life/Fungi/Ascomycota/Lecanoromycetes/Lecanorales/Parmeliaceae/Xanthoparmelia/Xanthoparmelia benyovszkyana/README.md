@@ -1,5 +1,4 @@
-Xanthoparmelia benyovszkyana (Gyel.) Hale SPECIES
-=======
+# Xanthoparmelia benyovszkyana (Gyel.) Hale SPECIES
 
 #### Status
 ACCEPTED

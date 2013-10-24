@@ -1,5 +1,4 @@
-Russula lepidiformis Murrill SPECIES
-=======
+# Russula lepidiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

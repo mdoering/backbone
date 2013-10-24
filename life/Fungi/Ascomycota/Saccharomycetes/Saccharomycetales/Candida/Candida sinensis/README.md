@@ -1,17 +1,16 @@
-Candida sinonsis S.F. Lin & C.S. Tsou SPECIES
-=======
+# Candida sinensis S.F. Lin & C.S. Tsou SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Method. Lich. 75: 42 (1977)
 
 #### Original name
-Candida sinonsis S.F. Lin & C.S. Tsou
+Candida sinensis S.F. Lin & C.S. Tsou
 
 ### Remarks
 null

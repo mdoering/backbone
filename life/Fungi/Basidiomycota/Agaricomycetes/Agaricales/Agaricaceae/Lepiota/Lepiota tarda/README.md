@@ -1,5 +1,4 @@
-Lepiota tarda (Peck) Murrill SPECIES
-=======
+# Lepiota tarda (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

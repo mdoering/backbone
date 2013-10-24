@@ -1,5 +1,4 @@
-Parmelia hollermayeri Räsänen SPECIES
-=======
+# Parmelia hollermayeri Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza fuscoatra Rebent. SPECIES
-=======
+# Peziza fuscoatra Rebent. SPECIES
 
 #### Status
 ACCEPTED

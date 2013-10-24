@@ -1,5 +1,4 @@
-Mycoplasma pirum Del Giudice et al., 1985 SPECIES
-=======
+# Mycoplasma pirum Del Giudice et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

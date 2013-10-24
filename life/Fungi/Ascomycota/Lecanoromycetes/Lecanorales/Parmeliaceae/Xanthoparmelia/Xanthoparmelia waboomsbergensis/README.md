@@ -1,5 +1,4 @@
-Xanthoparmelia waboomsbergensis Elix SPECIES
-=======
+# Xanthoparmelia waboomsbergensis Elix SPECIES
 
 #### Status
 ACCEPTED

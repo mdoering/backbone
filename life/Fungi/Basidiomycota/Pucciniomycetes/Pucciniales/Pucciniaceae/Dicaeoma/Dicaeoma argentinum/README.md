@@ -1,5 +1,4 @@
-Dicaeoma argentinum (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma argentinum (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xenostomella monninae (Syd.) Arx SPECIES
-=======
+# Xenostomella monninae (Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

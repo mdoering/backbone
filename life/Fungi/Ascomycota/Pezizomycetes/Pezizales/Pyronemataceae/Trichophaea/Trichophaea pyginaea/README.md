@@ -1,5 +1,4 @@
-Trichophaea pyginaea (Clem.) Waraitch SPECIES
-=======
+# Trichophaea pyginaea (Clem.) Waraitch SPECIES
 
 #### Status
 ACCEPTED

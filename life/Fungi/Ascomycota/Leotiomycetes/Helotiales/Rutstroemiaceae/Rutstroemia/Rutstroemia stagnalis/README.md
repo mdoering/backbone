@@ -1,5 +1,4 @@
-Rutstroemia stagnalis Velen. SPECIES
-=======
+# Rutstroemia stagnalis Velen. SPECIES
 
 #### Status
 ACCEPTED

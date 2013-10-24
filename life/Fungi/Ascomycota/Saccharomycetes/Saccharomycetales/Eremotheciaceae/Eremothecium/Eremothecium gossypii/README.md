@@ -1,14 +1,13 @@
-Nematospora gossypii S.F. Ashby & W. Nowell, 1926 SPECIES
-=======
+# Eremothecium gossypii (S.F. Ashby & W. Nowell) Kurtzman, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. , Lond. 40: 69 (1926)
+J. Industr. Microbiol. 14(6): 527 (1995)
 
 #### Original name
 Nematospora gossypii S.F. Ashby & W. Nowell, 1926

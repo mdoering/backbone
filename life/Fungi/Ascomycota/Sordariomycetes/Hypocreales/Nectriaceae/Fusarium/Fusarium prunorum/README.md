@@ -1,5 +1,4 @@
-Fusarium prunorum McAlpine SPECIES
-=======
+# Fusarium prunorum McAlpine SPECIES
 
 #### Status
 ACCEPTED

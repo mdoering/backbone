@@ -1,5 +1,4 @@
-Lycoperdon coloratum Peck SPECIES
-=======
+# Lycoperdon coloratum Peck SPECIES
 
 #### Status
 ACCEPTED

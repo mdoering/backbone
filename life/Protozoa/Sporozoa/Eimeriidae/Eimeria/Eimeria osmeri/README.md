@@ -1,5 +1,4 @@
-Eimeria osmeri Molnar & Fernando, 1974 SPECIES
-=======
+# Eimeria osmeri Molnar & Fernando, 1974 SPECIES
 
 #### Status
 ACCEPTED

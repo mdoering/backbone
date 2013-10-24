@@ -1,5 +1,4 @@
-Pertusaria quassiae var. infuscata Kremp. VARIETY
-=======
+# Pertusaria quassiae (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 4 15: 45 (1861)
 
 #### Original name
-Pertusaria quassiae var. infuscata Kremp.
+Porina quassiae Fée
 
 ### Remarks
 null

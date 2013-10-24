@@ -1,5 +1,4 @@
-Mycena neoavenacea Hongo SPECIES
-=======
+# Mycena neoavenacea Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichormus anomalus (F. E. Fritsch) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus anomalus (F. E. Fritsch) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

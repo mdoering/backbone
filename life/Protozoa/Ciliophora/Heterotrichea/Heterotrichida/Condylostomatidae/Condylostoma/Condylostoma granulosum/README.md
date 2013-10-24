@@ -1,5 +1,4 @@
-Condylostoma granulosum Bullington, 1940 SPECIES
-=======
+# Condylostoma granulosum Bullington, 1940 SPECIES
 
 #### Status
 ACCEPTED

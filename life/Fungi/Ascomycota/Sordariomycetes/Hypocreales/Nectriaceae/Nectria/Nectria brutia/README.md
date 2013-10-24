@@ -1,5 +1,4 @@
-Nectria brutia Diederich & Puntillo SPECIES
-=======
+# Nectria brutia Diederich & Puntillo SPECIES
 
 #### Status
 ACCEPTED

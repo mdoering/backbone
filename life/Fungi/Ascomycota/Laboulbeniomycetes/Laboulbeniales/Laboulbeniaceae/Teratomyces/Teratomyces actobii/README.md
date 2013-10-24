@@ -1,5 +1,4 @@
-Teratomyces actobii Thaxt., 1894 SPECIES
-=======
+# Teratomyces actobii Thaxt., 1894 SPECIES
 
 #### Status
 ACCEPTED

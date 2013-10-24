@@ -1,5 +1,4 @@
-Buellia cinereoglauca B. de Lesd. SPECIES
-=======
+# Buellia cinereoglauca B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

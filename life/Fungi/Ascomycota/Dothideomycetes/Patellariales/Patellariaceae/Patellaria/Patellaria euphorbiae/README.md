@@ -1,5 +1,4 @@
-Patellaria euphorbiae R. Rao SPECIES
-=======
+# Patellaria euphorbiae R. Rao SPECIES
 
 #### Status
 ACCEPTED

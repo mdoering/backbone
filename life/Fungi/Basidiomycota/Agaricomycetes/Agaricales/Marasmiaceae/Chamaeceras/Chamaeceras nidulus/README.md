@@ -1,5 +1,4 @@
-Chamaeceras nidulus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras nidulus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria magnoliae J.H. Mill. & G.E. Thomps. SPECIES
-=======
+# Didymosphaeria magnoliae J.H. Mill. & G.E. Thomps. SPECIES
 
 #### Status
 ACCEPTED

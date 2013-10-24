@@ -1,5 +1,4 @@
-Debaryolipomyces Ramírez, 1957 GENUS
-=======
+# Debaryolipomyces Ramírez, 1957 GENUS
 
 #### Status
 ACCEPTED

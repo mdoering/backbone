@@ -1,5 +1,4 @@
-Phyllosticta paraopebensis Bat. & Peres SPECIES
-=======
+# Phyllosticta paraopebensis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

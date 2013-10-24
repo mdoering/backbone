@@ -1,5 +1,4 @@
-Coprinus lacunosus Pers. SPECIES
-=======
+# Coprinus lacunosus Pers. SPECIES
 
 #### Status
 ACCEPTED

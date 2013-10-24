@@ -1,8 +1,7 @@
-Vorticella conica sensu Dons, 1918 SPECIES
-=======
+# Vorticella obconica Kahl, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

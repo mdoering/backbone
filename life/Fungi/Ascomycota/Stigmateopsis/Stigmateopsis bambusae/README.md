@@ -1,5 +1,4 @@
-Stigmateopsis bambusae Bat. SPECIES
-=======
+# Stigmateopsis bambusae Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elphidium tsudai Chiji & Nakaseko SPECIES
-=======
+# Elphidium tsudai Chiji & Nakaseko SPECIES
 
 #### Status
 ACCEPTED

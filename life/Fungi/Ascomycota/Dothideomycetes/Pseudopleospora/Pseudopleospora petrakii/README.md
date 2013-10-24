@@ -1,14 +1,13 @@
-Pleospora petrakii E. Müll., 1953 SPECIES
-=======
+# Pseudopleospora petrakii (E. Müll.) Crivelli, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 7: 276 (1953)
+null
 
 #### Original name
 Pleospora petrakii E. Müll., 1953

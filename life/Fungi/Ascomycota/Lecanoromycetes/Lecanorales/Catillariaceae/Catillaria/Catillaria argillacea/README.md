@@ -1,5 +1,4 @@
-Catillaria argillacea (Bellardi) Hazsl. SPECIES
-=======
+# Catillaria argillacea (Bellardi) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

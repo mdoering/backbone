@@ -1,5 +1,4 @@
-Lyngbya subcapitata Yoneda SPECIES
-=======
+# Lyngbya subcapitata Yoneda SPECIES
 
 #### Status
 ACCEPTED

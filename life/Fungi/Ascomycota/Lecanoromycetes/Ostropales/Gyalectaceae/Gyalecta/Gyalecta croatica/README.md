@@ -1,5 +1,4 @@
-Gyalecta croatica Zahlbr. SPECIES
-=======
+# Gyalecta croatica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

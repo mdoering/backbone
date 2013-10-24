@@ -1,5 +1,4 @@
-Dictyosporium nigroapice Goh, W.H. Ho & K.D. Hyde SPECIES
-=======
+# Dictyosporium nigroapice Goh, W.H. Ho & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

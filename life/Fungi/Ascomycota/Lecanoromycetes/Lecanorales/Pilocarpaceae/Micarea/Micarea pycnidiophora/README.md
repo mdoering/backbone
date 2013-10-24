@@ -1,5 +1,4 @@
-Micarea pycnidiophora Coppins & P. James SPECIES
-=======
+# Micarea pycnidiophora Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelotheca excelsa Syd. SPECIES
-=======
+# Sphacelotheca excelsa Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe melleiconica Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe melleiconica Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

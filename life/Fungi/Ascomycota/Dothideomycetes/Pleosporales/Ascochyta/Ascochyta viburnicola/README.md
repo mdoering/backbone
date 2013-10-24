@@ -1,5 +1,4 @@
-Ascochyta viburnicola Oudem. SPECIES
-=======
+# Ascochyta viburnicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe interveniens P. Karst. SPECIES
-=======
+# Clitocybe interveniens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

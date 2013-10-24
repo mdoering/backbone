@@ -1,5 +1,4 @@
-Scopularia halepensis Biraghi SPECIES
-=======
+# Scopularia halepensis Biraghi SPECIES
 
 #### Status
 ACCEPTED

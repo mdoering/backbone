@@ -1,5 +1,4 @@
-Cladosporium tomentosum Corda SPECIES
-=======
+# Cladosporium tomentosum Corda SPECIES
 
 #### Status
 ACCEPTED

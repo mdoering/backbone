@@ -1,5 +1,4 @@
-Leptogium tacomae P. M. Jørg. & Tønsberg SPECIES
-=======
+# Leptogium tacomae P. M. Jørg. & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

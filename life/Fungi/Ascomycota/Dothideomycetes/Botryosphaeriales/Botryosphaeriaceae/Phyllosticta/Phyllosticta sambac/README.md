@@ -1,5 +1,4 @@
-Phyllosticta sambac Shreem. SPECIES
-=======
+# Phyllosticta sambac Shreem. SPECIES
 
 #### Status
 ACCEPTED

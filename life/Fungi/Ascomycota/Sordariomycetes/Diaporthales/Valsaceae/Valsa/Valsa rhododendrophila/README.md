@@ -1,5 +1,4 @@
-Valsa rhododendrophila Rehm SPECIES
-=======
+# Valsa rhododendrophila Rehm SPECIES
 
 #### Status
 ACCEPTED

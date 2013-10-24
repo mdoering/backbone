@@ -1,8 +1,7 @@
-Gobia saxicola Okamura & Yamada SPECIES
-=======
+# Heteroralfsia saxicola (Okamura & Yamada) Kawai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

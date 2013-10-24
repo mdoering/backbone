@@ -1,5 +1,4 @@
-Cortinarius collinitoides Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius collinitoides Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hebeloma crustuliniforme f. alpinum (J. Favre) Vassilkov, 1970 FORM
-=======
+# Hebeloma alpinum (J. Favre) Bruchet, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Novin (Ed. ), Ecologiya i Biologiya Rastenii Vo. vtochnoevropeskot Lesotundry [Ecology and Biology of Plants of the East-European Forest Tundra], Pt. 1 (Leningrad) 59 (1970)
+Bull. mens. Soc. linn. Lyon 39(6[Suppl. ]): 68 (1970)
 
 #### Original name
 Hebeloma crustuliniforme var. alpinum J. Favre, 1955

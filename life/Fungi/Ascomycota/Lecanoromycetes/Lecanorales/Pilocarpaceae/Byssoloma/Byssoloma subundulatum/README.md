@@ -1,14 +1,13 @@
-Lecania subundulata (Stirt.) Müll. Arg. SPECIES
-=======
+# Byssoloma subundulatum (Stirt.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Folia geobot. phytotax. 21(2): 216 (1986)
 
 #### Original name
 Lecanora subundulata Stirt.

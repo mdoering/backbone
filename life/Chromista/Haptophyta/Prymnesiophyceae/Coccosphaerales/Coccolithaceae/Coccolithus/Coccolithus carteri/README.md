@@ -1,5 +1,4 @@
-Coccolithus carteri (Wallich) Kamptner, 1941 SPECIES
-=======
+# Coccolithus carteri (Wallich) Kamptner, 1941 SPECIES
 
 #### Status
 ACCEPTED

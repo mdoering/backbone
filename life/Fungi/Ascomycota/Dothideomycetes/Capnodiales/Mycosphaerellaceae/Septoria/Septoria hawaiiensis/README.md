@@ -1,5 +1,4 @@
-Septoria hawaiiensis F. Stevens & Plunkett SPECIES
-=======
+# Septoria hawaiiensis F. Stevens & Plunkett SPECIES
 
 #### Status
 ACCEPTED

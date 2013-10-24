@@ -1,17 +1,16 @@
-Sphaerobolus carpobolus (L.) J. Schröt. SPECIES
-=======
+# Sphaerobolus stellatus Tode, 1790 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fung. mecklenb. sel. (Lüneburg) 1: 43 (1790)
 
 #### Original name
-null
+Sphaerobolus stellatus Tode, 1790
 
 ### Remarks
 null

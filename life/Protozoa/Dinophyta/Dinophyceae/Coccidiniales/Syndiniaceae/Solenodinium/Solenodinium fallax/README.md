@@ -1,5 +1,4 @@
-Solenodinium fallax Chatton SPECIES
-=======
+# Solenodinium fallax Chatton SPECIES
 
 #### Status
 ACCEPTED

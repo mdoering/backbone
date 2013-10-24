@@ -1,5 +1,4 @@
-Mironovella Dain, 1970 GENUS
-=======
+# Mironovella Dain, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratium trichoceors (Ehrenberg) Kofoid SPECIES
-=======
+# Ceratium trichoceors (Ehrenberg) Kofoid SPECIES
 
 #### Status
 ACCEPTED

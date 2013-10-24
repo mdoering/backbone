@@ -1,5 +1,4 @@
-Viscomacula aenea R. Sprague, 1951 SPECIES
-=======
+# Viscomacula aenea R. Sprague, 1951 SPECIES
 
 #### Status
 ACCEPTED

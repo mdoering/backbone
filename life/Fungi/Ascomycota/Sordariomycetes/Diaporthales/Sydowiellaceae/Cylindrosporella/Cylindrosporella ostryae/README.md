@@ -1,5 +1,4 @@
-Cylindrosporella ostryae (C. Massal.) Arx SPECIES
-=======
+# Cylindrosporella ostryae (C. Massal.) Arx SPECIES
 
 #### Status
 ACCEPTED

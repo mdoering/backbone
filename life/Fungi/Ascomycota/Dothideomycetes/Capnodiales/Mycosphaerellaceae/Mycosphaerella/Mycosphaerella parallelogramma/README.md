@@ -1,5 +1,4 @@
-Mycosphaerella parallelogramma (Rehm) Lindau SPECIES
-=======
+# Mycosphaerella parallelogramma (Rehm) Lindau SPECIES
 
 #### Status
 ACCEPTED

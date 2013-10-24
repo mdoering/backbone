@@ -1,5 +1,4 @@
-Peziza armata Roth SPECIES
-=======
+# Peziza armata Roth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyactis epigaea Bonord. SPECIES
-=======
+# Polyactis epigaea Bonord. SPECIES
 
 #### Status
 ACCEPTED

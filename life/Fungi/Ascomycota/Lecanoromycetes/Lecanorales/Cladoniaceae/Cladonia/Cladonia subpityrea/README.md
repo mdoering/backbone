@@ -1,5 +1,4 @@
-Cladonia subpityrea Sandst. SPECIES
-=======
+# Cladonia subpityrea Sandst. SPECIES
 
 #### Status
 ACCEPTED

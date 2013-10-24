@@ -1,5 +1,4 @@
-Tylopilus pernanus (Pat. & C.F. Baker) Watling SPECIES
-=======
+# Tylopilus pernanus (Pat. & C.F. Baker) Watling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria crotonis Kamal, R.P. Singh & P. Kumar SPECIES
-=======
+# Alternaria crotonis Kamal, R.P. Singh & P. Kumar SPECIES
 
 #### Status
 ACCEPTED

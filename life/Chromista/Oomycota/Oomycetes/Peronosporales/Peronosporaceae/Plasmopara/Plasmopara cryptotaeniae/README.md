@@ -1,5 +1,4 @@
-Plasmopara cryptotaeniae J.F. Tao & Y. Qin SPECIES
-=======
+# Plasmopara cryptotaeniae J.F. Tao & Y. Qin SPECIES
 
 #### Status
 ACCEPTED

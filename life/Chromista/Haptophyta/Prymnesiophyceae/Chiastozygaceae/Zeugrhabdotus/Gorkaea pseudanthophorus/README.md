@@ -1,5 +1,4 @@
-Gorkaea pseudanthophorus SPECIES
-=======
+# Gorkaea pseudanthophorus SPECIES
 
 #### Status
 DOUBTFUL

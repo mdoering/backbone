@@ -1,14 +1,13 @@
-Pseudoclitocybe oregonensis (Murrill) Singer, 1962 SPECIES
-=======
+# Cantharellula oregonensis (Murrill) Singer, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 15: 52 (1962)
+Lloydia 5: 120 (1942)
 
 #### Original name
 Clitocybe oregonensis Murrill, 1913

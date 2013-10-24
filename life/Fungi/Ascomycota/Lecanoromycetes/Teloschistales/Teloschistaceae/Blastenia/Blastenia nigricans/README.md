@@ -1,5 +1,4 @@
-Blastenia nigricans (Th. Fr.) Zahlbr. SPECIES
-=======
+# Blastenia nigricans (Th. Fr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus guttifer Mosseray SPECIES
-=======
+# Aspergillus guttifer Mosseray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia pygmaea var. pygmaea Erikss., 1895 VARIETY
-=======
+# Puccinia pygmaea Erikss. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Fungi paras. scand. no. 449 (1895)
 
 #### Original name
-Puccinia pygmaea var. pygmaea Erikss., 1895
+Puccinia pygmaea Erikss.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Helicobasidium tanakae Miyabe SPECIES
-=======
+# Helicobasidium tanakae Miyabe SPECIES
 
 #### Status
 ACCEPTED

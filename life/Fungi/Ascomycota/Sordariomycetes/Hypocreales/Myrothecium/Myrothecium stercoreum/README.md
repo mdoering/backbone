@@ -1,5 +1,4 @@
-Myrothecium stercoreum Tode SPECIES
-=======
+# Myrothecium stercoreum Tode SPECIES
 
 #### Status
 ACCEPTED

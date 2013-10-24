@@ -1,5 +1,4 @@
-Gloeophyllum concentricum G. Cunn., 1965 SPECIES
-=======
+# Gloeophyllum concentricum G. Cunn., 1965 SPECIES
 
 #### Status
 ACCEPTED

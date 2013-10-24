@@ -1,5 +1,4 @@
-Hebeloma parvifructum Peck SPECIES
-=======
+# Hebeloma parvifructum Peck SPECIES
 
 #### Status
 ACCEPTED

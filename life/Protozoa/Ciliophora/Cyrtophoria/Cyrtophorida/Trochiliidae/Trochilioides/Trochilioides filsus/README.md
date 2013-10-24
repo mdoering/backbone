@@ -1,5 +1,4 @@
-Trochilioides filsus Fauré-Fremiet & Guilcher, 1947 SPECIES
-=======
+# Trochilioides filsus Fauré-Fremiet & Guilcher, 1947 SPECIES
 
 #### Status
 ACCEPTED

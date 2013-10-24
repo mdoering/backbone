@@ -1,17 +1,16 @@
-Oidium pharbitis Sandu SPECIES
-=======
+# Oidium pharbitidis Sandu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sandu-Ville et al. , Stud. Cercet Stiint. Iasi, Biol. Stiinte agric. 13: 274 (1962)
 
 #### Original name
-Oidium pharbitis Sandu
+Oidium pharbitidis Sandu
 
 ### Remarks
 null

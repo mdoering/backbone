@@ -1,5 +1,4 @@
-Blastobotrys mokoenaii (Mokwena, E. Jansen & Myburgh) Kurtzman & Robnett, 2007 SPECIES
-=======
+# Blastobotrys mokoenaii (Mokwena, E. Jansen & Myburgh) Kurtzman & Robnett, 2007 SPECIES
 
 #### Status
 ACCEPTED

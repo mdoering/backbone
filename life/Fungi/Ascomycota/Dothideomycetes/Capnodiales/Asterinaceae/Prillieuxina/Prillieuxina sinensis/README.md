@@ -1,5 +1,4 @@
-Prillieuxina sinensis Petr. SPECIES
-=======
+# Prillieuxina sinensis Petr. SPECIES
 
 #### Status
 ACCEPTED

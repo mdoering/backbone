@@ -1,5 +1,4 @@
-Scolecopeltidium tabernaemontanae Bat. SPECIES
-=======
+# Scolecopeltidium tabernaemontanae Bat. SPECIES
 
 #### Status
 ACCEPTED

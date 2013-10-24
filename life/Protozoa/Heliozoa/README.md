@@ -1,5 +1,4 @@
-Heliozoa CLASS
-=======
+# Heliozoa CLASS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis plagiostoma Daday, 1887 SPECIES
-=======
+# Tintinnopsis plagiostoma Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

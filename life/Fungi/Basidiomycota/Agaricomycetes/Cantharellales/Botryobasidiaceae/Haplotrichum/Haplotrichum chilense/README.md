@@ -1,14 +1,13 @@
-Oidium chilense Linder, 1942 SPECIES
-=======
+# Haplotrichum chilense (Linder) Hol.-Jech., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 5(3): 196 (1942)
+Ceská Mykol. 30(1): 3 (1976)
 
 #### Original name
 Oidium chilense Linder, 1942

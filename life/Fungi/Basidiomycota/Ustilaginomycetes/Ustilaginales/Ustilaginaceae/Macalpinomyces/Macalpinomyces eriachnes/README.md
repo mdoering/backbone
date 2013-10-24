@@ -1,14 +1,13 @@
-Sorosporium eriachnes Thüm., 1877 SPECIES
-=======
+# Macalpinomyces eriachnes (Thüm.) Langdon & Full., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. mycol. austr. 2: 4, no. 97 (1877)
+Trans. Br. mycol. Soc. 68(1): 30 (1977)
 
 #### Original name
 Sorosporium eriachnes Thüm., 1877

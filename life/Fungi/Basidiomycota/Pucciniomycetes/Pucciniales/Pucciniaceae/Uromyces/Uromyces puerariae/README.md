@@ -1,5 +1,4 @@
-Uromyces puerariae (Henn.) Dietel SPECIES
-=======
+# Uromyces puerariae (Henn.) Dietel SPECIES
 
 #### Status
 ACCEPTED

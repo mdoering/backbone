@@ -1,5 +1,4 @@
-Fellhanera silicis R.C. Harris & Ladd SPECIES
-=======
+# Fellhanera silicis R.C. Harris & Ladd SPECIES
 
 #### Status
 ACCEPTED

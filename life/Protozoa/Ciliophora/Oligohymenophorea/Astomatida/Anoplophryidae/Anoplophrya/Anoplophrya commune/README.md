@@ -1,5 +1,4 @@
-Anoplophrya commune Puytorac, 1954 SPECIES
-=======
+# Anoplophrya commune Puytorac, 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma allochroum Noordel. SPECIES
-=======
+# Entoloma allochroum Noordel. SPECIES
 
 #### Status
 ACCEPTED

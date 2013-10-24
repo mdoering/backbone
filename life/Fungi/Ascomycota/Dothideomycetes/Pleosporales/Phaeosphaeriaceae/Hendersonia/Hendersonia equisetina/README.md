@@ -1,5 +1,4 @@
-Hendersonia equisetina Rostr. SPECIES
-=======
+# Hendersonia equisetina Rostr. SPECIES
 
 #### Status
 ACCEPTED

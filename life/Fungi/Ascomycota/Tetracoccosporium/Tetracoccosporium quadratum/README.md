@@ -1,5 +1,4 @@
-Tetracoccosporium quadratum (Cooke) Wiltshire SPECIES
-=======
+# Tetracoccosporium quadratum (Cooke) Wiltshire SPECIES
 
 #### Status
 ACCEPTED

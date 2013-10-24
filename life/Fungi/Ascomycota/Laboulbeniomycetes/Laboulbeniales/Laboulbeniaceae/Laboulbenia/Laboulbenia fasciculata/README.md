@@ -1,5 +1,4 @@
-Laboulbenia fasciculata Peyr., 1873 SPECIES
-=======
+# Laboulbenia fasciculata Peyr., 1873 SPECIES
 
 #### Status
 ACCEPTED

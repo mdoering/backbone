@@ -1,5 +1,4 @@
-Puccinia urticae Barclay, 1889 SPECIES
-=======
+# Puccinia urticae Barclay, 1889 SPECIES
 
 #### Status
 ACCEPTED

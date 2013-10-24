@@ -1,5 +1,4 @@
-Stereum kurzianum Cooke SPECIES
-=======
+# Stereum kurzianum Cooke SPECIES
 
 #### Status
 ACCEPTED

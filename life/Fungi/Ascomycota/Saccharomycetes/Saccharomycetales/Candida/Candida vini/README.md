@@ -1,17 +1,16 @@
-Kloeckera cerevisiae (Desm.) Janke, 1923 SPECIES
-=======
+# Candida vini (J.N. Vallot ex Desm.) Uden & H.R. Buckley ex S.A. Mey. & Ahearn, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lodder, Mycotaxon 17: 298 (1983)
 
 #### Original name
-null
+Mycoderma vini J.N. Vallot ex Desm., 1823
 
 ### Remarks
 null

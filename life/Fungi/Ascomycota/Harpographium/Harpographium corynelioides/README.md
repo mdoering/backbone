@@ -1,5 +1,4 @@
-Harpographium corynelioides Cooke & Massee SPECIES
-=======
+# Harpographium corynelioides Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sediminitomix Khan, Nakagawa & Harayama, 2007 GENUS
-=======
+# Sediminitomix Khan, Nakagawa & Harayama, 2007 GENUS
 
 #### Status
 ACCEPTED

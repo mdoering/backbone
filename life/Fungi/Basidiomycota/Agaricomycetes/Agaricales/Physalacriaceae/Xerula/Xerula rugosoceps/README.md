@@ -1,5 +1,4 @@
-Xerula rugosoceps (G.F. Atk.) Redhead, Ginns & Shoemaker SPECIES
-=======
+# Xerula rugosoceps (G.F. Atk.) Redhead, Ginns & Shoemaker SPECIES
 
 #### Status
 ACCEPTED

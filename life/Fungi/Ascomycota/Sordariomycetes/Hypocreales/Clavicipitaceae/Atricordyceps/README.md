@@ -1,5 +1,4 @@
-Atricordyceps Samuels, 1983 GENUS
-=======
+# Atricordyceps Samuels, 1983 GENUS
 
 #### Status
 ACCEPTED

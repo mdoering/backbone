@@ -1,5 +1,4 @@
-Multicellaesporites differentialis Ramanujam & Srisailam SPECIES
-=======
+# Multicellaesporites differentialis Ramanujam & Srisailam SPECIES
 
 #### Status
 ACCEPTED

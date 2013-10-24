@@ -1,5 +1,4 @@
-Phialea dispersella (P. Karst.) Dennis SPECIES
-=======
+# Phialea dispersella (P. Karst.) Dennis SPECIES
 
 #### Status
 ACCEPTED

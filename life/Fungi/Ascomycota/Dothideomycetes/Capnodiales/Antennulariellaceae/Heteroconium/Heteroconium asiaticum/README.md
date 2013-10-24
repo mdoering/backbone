@@ -1,5 +1,4 @@
-Heteroconium asiaticum R. Chaudhary, C. Gupta & Kamal SPECIES
-=======
+# Heteroconium asiaticum R. Chaudhary, C. Gupta & Kamal SPECIES
 
 #### Status
 ACCEPTED

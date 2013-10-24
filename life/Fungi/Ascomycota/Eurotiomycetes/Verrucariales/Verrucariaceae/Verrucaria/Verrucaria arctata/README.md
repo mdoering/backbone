@@ -1,5 +1,4 @@
-Verrucaria arctata Stirt. SPECIES
-=======
+# Verrucaria arctata Stirt. SPECIES
 
 #### Status
 ACCEPTED

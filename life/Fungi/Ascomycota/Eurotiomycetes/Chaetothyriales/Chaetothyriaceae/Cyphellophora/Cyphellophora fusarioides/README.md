@@ -1,5 +1,4 @@
-Cyphellophora fusarioides (B. Sutton & C.K. Campb.) Decock SPECIES
-=======
+# Cyphellophora fusarioides (B. Sutton & C.K. Campb.) Decock SPECIES
 
 #### Status
 ACCEPTED

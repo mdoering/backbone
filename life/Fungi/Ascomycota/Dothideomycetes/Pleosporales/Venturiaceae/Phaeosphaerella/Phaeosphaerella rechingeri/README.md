@@ -1,5 +1,4 @@
-Phaeosphaerella rechingeri Petr. SPECIES
-=======
+# Phaeosphaerella rechingeri Petr. SPECIES
 
 #### Status
 ACCEPTED

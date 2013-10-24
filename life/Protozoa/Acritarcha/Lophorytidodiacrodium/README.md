@@ -1,5 +1,4 @@
-Lophorytidodiacrodium B.V. Timofeev, 1958 GENUS
-=======
+# Lophorytidodiacrodium B.V. Timofeev, 1958 GENUS
 
 #### Status
 ACCEPTED

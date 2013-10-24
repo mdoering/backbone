@@ -1,5 +1,4 @@
-Sphaeronaema viride Jacz. SPECIES
-=======
+# Sphaeronaema viride Jacz. SPECIES
 
 #### Status
 ACCEPTED

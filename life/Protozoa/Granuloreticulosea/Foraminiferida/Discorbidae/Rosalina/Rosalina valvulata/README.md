@@ -1,5 +1,4 @@
-Rosalina valvulata SPECIES
-=======
+# Rosalina valvulata SPECIES
 
 #### Status
 ACCEPTED

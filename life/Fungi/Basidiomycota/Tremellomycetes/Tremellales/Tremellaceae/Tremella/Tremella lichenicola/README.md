@@ -1,5 +1,4 @@
-Tremella lichenicola Diederich, 1986 SPECIES
-=======
+# Tremella lichenicola Diederich, 1986 SPECIES
 
 #### Status
 ACCEPTED

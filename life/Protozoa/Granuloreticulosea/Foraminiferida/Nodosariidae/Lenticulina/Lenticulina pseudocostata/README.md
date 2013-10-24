@@ -1,5 +1,4 @@
-Lenticulina pseudocostata Plummer SPECIES
-=======
+# Lenticulina pseudocostata Plummer SPECIES
 
 #### Status
 ACCEPTED

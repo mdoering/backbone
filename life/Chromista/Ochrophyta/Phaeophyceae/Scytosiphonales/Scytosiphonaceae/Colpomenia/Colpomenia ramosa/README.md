@@ -1,5 +1,4 @@
-Colpomenia ramosa W.R. Taylor SPECIES
-=======
+# Colpomenia ramosa W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

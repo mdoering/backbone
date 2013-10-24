@@ -1,5 +1,4 @@
-Lecidea fungicola Ach. SPECIES
-=======
+# Lecidea fungicola Ach. SPECIES
 
 #### Status
 ACCEPTED

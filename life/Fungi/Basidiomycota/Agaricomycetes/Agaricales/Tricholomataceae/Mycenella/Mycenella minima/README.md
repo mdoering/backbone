@@ -1,5 +1,4 @@
-Mycenella minima Singer, 1969 SPECIES
-=======
+# Mycenella minima Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED

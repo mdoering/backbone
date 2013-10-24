@@ -1,5 +1,4 @@
-Pyronema rhopalascum Sacc. SPECIES
-=======
+# Pyronema rhopalascum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Toninia aromatica subsp. cervina (Lönnr.) Hild. Baumgärtner SUBSPECIES
-=======
+# Toninia verrucarioides (Nyl.) Timdal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Revision der Europäischen Arten der Gattung Toninia (Massal. ) ampl. Th. Fr. [Thesis] (Munich) 118 (1979)
+Op. bot. 110: 116 (1991)
 
 #### Original name
-Toninia cervina Lönnr.
+Lecidea aromatica var. verrucarioides Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Physcia setosa var. setosa VARIETY
-=======
+# Physcia setosa SPECIES
 
 #### Status
 ACCEPTED

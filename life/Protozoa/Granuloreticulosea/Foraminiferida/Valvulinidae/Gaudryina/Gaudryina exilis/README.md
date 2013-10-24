@@ -1,5 +1,4 @@
-Gaudryina exilis SPECIES
-=======
+# Gaudryina exilis SPECIES
 
 #### Status
 ACCEPTED

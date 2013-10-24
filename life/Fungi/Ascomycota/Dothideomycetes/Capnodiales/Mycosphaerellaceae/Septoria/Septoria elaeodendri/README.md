@@ -1,5 +1,4 @@
-Septoria elaeodendri Henn. SPECIES
-=======
+# Septoria elaeodendri Henn. SPECIES
 
 #### Status
 ACCEPTED

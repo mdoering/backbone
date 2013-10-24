@@ -1,5 +1,4 @@
-Lepiota hemichlora (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota hemichlora (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

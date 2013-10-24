@@ -1,5 +1,4 @@
-Vannella miroides SPECIES
-=======
+# Vannella miroides SPECIES
 
 #### Status
 ACCEPTED

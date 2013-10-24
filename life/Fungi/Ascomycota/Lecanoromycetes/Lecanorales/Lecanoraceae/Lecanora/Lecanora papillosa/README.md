@@ -1,5 +1,4 @@
-Lecanora papillosa (Vain.) SPECIES
-=======
+# Lecanora papillosa (Vain.) SPECIES
 
 #### Status
 ACCEPTED

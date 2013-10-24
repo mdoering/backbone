@@ -1,5 +1,4 @@
-Tetrasphaera duodecadis (Lochhead, 1958) Ishikawa & Yokota, 2006 SPECIES
-=======
+# Tetrasphaera duodecadis (Lochhead, 1958) Ishikawa & Yokota, 2006 SPECIES
 
 #### Status
 ACCEPTED

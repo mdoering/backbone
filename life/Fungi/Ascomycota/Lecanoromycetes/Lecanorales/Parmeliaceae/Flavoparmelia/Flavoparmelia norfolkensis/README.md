@@ -1,5 +1,4 @@
-Flavoparmelia norfolkensis Elix & Streimann SPECIES
-=======
+# Flavoparmelia norfolkensis Elix & Streimann SPECIES
 
 #### Status
 ACCEPTED

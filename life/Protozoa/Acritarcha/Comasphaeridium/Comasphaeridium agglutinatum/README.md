@@ -1,5 +1,4 @@
-Comasphaeridium agglutinatum M. Moczydowska SPECIES
-=======
+# Comasphaeridium agglutinatum M. Moczydowska SPECIES
 
 #### Status
 ACCEPTED

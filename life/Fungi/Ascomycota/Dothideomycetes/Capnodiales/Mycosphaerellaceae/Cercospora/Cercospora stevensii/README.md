@@ -1,5 +1,4 @@
-Cercospora stevensii E. Young SPECIES
-=======
+# Cercospora stevensii E. Young SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptococcus canis Devriese et al., 1986 SPECIES
-=======
+# Streptococcus canis Devriese et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

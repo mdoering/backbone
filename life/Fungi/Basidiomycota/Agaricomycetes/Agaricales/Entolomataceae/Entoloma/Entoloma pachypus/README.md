@@ -1,5 +1,4 @@
-Entoloma pachypus (Holmsk.) Cooke SPECIES
-=======
+# Entoloma pachypus (Holmsk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

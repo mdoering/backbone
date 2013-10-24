@@ -1,5 +1,4 @@
-Physalospora borealis Sacc. SPECIES
-=======
+# Physalospora borealis Sacc. SPECIES
 
 #### Status
 ACCEPTED

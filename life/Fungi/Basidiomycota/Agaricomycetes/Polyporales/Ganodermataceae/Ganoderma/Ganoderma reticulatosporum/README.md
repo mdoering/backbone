@@ -1,14 +1,13 @@
-Polyporus reticulatosporus Van der Byl, 1927 SPECIES
-=======
+# Ganoderma reticulatosporum (Van der Byl) D.A. Reid, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-S. Afr. J. Sci. 24: 225 (1927)
+Jl S. Afr. Bot. 39(2): 161 (1973)
 
 #### Original name
 Polyporus reticulatosporus Van der Byl, 1927

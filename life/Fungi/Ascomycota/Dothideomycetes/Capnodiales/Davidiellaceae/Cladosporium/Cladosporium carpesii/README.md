@@ -1,5 +1,4 @@
-Cladosporium carpesii Sawada SPECIES
-=======
+# Cladosporium carpesii Sawada SPECIES
 
 #### Status
 ACCEPTED

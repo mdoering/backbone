@@ -1,5 +1,4 @@
-Hyponectria eugeniae Petch SPECIES
-=======
+# Hyponectria eugeniae Petch SPECIES
 
 #### Status
 ACCEPTED

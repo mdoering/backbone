@@ -1,5 +1,4 @@
-Baltisphaeridium sarjeantii Boltenhagen, 1977 SPECIES
-=======
+# Baltisphaeridium sarjeantii Boltenhagen, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammula dryophila (Murrill) Murrill SPECIES
-=======
+# Flammula dryophila (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

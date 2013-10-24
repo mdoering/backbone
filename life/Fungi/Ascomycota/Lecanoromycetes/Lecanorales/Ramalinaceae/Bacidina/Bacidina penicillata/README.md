@@ -1,5 +1,4 @@
-Bacidina penicillata Aptroot, M. Cáceres, Lücking & Sparrius SPECIES
-=======
+# Bacidina penicillata Aptroot, M. Cáceres, Lücking & Sparrius SPECIES
 
 #### Status
 ACCEPTED

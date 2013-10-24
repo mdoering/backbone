@@ -1,5 +1,4 @@
-Strigula nylanderiana F. Schill. SPECIES
-=======
+# Strigula nylanderiana F. Schill. SPECIES
 
 #### Status
 ACCEPTED

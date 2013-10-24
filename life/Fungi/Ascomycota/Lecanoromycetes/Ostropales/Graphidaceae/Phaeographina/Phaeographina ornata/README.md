@@ -1,5 +1,4 @@
-Phaeographina ornata Müll. Arg. SPECIES
-=======
+# Phaeographina ornata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perichaena papulosa C.H. Liu & J.H. Chang, 2007 SPECIES
-=======
+# Perichaena papulosa C.H. Liu & J.H. Chang, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratostoma cinctum Pat. SPECIES
-=======
+# Ceratostoma cinctum Pat. SPECIES
 
 #### Status
 ACCEPTED

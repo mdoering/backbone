@@ -1,5 +1,4 @@
-Lamproderma australiensis S.L. Stephenson, G. Moreno & H. Singer SPECIES
-=======
+# Lamproderma australiensis S.L. Stephenson, G. Moreno & H. Singer SPECIES
 
 #### Status
 ACCEPTED

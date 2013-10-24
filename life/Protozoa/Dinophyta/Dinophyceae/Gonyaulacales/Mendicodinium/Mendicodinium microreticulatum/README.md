@@ -1,5 +1,4 @@
-Mendicodinium microreticulatum A. Kumar SPECIES
-=======
+# Mendicodinium microreticulatum A. Kumar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceriomyces alachuanus Murrill SPECIES
-=======
+# Ceriomyces alachuanus Murrill SPECIES
 
 #### Status
 ACCEPTED

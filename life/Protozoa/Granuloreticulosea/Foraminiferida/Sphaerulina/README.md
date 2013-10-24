@@ -1,5 +1,4 @@
-Sphaerulina Lee, 1934 GENUS
-=======
+# Sphaerulina Lee, 1934 GENUS
 
 #### Status
 ACCEPTED

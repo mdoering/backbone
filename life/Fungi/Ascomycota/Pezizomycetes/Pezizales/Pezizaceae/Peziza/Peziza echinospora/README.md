@@ -1,17 +1,16 @@
-Galactinia echinospora var. echinospora VARIETY
-=======
+# Peziza echinospora P. Karst., 1869 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 15: 74 (1961)
+Fungi Fenniae Exsiccati, Fasc. no. 541 (1869)
 
 #### Original name
-Galactinia echinospora var. echinospora
+Peziza echinospora P. Karst., 1869
 
 ### Remarks
 null

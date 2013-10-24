@@ -1,5 +1,4 @@
-Centritractus ellipsoideus f. excentricus L. Krienitz & H. Heynig FORM
-=======
+# Centritractus ellipsoideus SPECIES
 
 #### Status
 ACCEPTED

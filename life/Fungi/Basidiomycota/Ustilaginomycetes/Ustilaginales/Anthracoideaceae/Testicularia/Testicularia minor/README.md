@@ -1,14 +1,13 @@
-Testicularia cyperi var. minor Juel, 1897 VARIETY
-=======
+# Testicularia minor (Juel) L. Ling, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 23(no. 10): 9 (1897)
+Lloydia 14: 109 (1951)
 
 #### Original name
 Testicularia cyperi var. minor Juel, 1897

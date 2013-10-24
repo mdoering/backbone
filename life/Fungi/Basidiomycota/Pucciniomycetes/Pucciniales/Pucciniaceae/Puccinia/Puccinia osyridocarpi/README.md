@@ -1,5 +1,4 @@
-Puccinia osyridocarpi Grove SPECIES
-=======
+# Puccinia osyridocarpi Grove SPECIES
 
 #### Status
 ACCEPTED

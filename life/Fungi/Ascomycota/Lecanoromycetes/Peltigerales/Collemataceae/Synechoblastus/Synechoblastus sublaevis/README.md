@@ -1,5 +1,4 @@
-Synechoblastus sublaevis Jatta SPECIES
-=======
+# Synechoblastus sublaevis Jatta SPECIES
 
 #### Status
 ACCEPTED

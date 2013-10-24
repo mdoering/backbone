@@ -1,5 +1,4 @@
-Porina terrae-reginae P.M. McCarthy, Lücking & Vezda, 2001 SPECIES
-=======
+# Porina terrae-reginae P.M. McCarthy, Lücking & Vezda, 2001 SPECIES
 
 #### Status
 DOUBTFUL

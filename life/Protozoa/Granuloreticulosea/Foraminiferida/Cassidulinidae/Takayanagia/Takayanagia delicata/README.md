@@ -1,5 +1,4 @@
-Takayanagia delicata (Cushman, 1927) SPECIES
-=======
+# Takayanagia delicata (Cushman, 1927) SPECIES
 
 #### Status
 ACCEPTED

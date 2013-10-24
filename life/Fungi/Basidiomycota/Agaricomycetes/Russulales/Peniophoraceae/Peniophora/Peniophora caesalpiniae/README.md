@@ -1,5 +1,4 @@
-Peniophora caesalpiniae Henn. SPECIES
-=======
+# Peniophora caesalpiniae Henn. SPECIES
 
 #### Status
 ACCEPTED

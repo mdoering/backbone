@@ -1,5 +1,4 @@
-Amphisphaeria pakistanae E. Müll. & S. Ahmad SPECIES
-=======
+# Amphisphaeria pakistanae E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomassaria calophylli (Gonz. Frag. & Cif.) Arx SPECIES
-=======
+# Pseudomassaria calophylli (Gonz. Frag. & Cif.) Arx SPECIES
 
 #### Status
 ACCEPTED

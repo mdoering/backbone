@@ -1,5 +1,4 @@
-Endoxylina quercicola (Berk.) Sacc. SPECIES
-=======
+# Endoxylina quercicola (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

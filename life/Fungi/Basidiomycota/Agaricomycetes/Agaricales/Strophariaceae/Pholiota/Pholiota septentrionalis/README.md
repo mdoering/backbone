@@ -1,5 +1,4 @@
-Pholiota septentrionalis A.H. Sm. SPECIES
-=======
+# Pholiota septentrionalis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

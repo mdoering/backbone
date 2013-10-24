@@ -1,5 +1,4 @@
-Inermisia buchsii (Henn.) J. Moravec SPECIES
-=======
+# Inermisia buchsii (Henn.) J. Moravec SPECIES
 
 #### Status
 ACCEPTED

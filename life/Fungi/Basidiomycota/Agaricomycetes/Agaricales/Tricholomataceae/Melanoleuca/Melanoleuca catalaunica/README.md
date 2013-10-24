@@ -1,5 +1,4 @@
-Melanoleuca catalaunica Singer SPECIES
-=======
+# Melanoleuca catalaunica Singer SPECIES
 
 #### Status
 ACCEPTED

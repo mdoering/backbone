@@ -1,5 +1,4 @@
-Cerebellocapsula Dumitrica, 1999 GENUS
-=======
+# Cerebellocapsula Dumitrica, 1999 GENUS
 
 #### Status
 ACCEPTED

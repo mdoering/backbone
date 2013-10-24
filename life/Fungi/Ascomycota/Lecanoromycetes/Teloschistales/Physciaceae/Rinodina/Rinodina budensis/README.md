@@ -1,5 +1,4 @@
-Rinodina budensis SPECIES
-=======
+# Rinodina budensis SPECIES
 
 #### Status
 ACCEPTED

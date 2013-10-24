@@ -1,5 +1,4 @@
-Sphaerella fraxinea Peck SPECIES
-=======
+# Sphaerella fraxinea Peck SPECIES
 
 #### Status
 ACCEPTED

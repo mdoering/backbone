@@ -1,5 +1,4 @@
-Sphaeria isiaca Ces. SPECIES
-=======
+# Sphaeria isiaca Ces. SPECIES
 
 #### Status
 ACCEPTED

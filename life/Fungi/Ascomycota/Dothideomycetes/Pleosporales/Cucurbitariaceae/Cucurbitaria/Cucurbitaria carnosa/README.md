@@ -1,5 +1,4 @@
-Cucurbitaria carnosa Cooke SPECIES
-=======
+# Cucurbitaria carnosa Cooke SPECIES
 
 #### Status
 ACCEPTED

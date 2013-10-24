@@ -1,5 +1,4 @@
-Geitleriella De Toni, 1936 GENUS
-=======
+# Geitleriella De Toni, 1936 GENUS
 
 #### Status
 SYNONYM

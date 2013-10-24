@@ -1,5 +1,4 @@
-Pirottaea adenostylidis Nannf. SPECIES
-=======
+# Pirottaea adenostylidis Nannf. SPECIES
 
 #### Status
 ACCEPTED

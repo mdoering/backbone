@@ -1,5 +1,4 @@
-Leptonia subrhombispora (Hesler) Largent SPECIES
-=======
+# Leptonia subrhombispora (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

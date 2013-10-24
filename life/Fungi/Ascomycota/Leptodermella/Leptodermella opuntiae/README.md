@@ -1,5 +1,4 @@
-Leptodermella opuntiae B.O. Dodge SPECIES
-=======
+# Leptodermella opuntiae B.O. Dodge SPECIES
 
 #### Status
 ACCEPTED

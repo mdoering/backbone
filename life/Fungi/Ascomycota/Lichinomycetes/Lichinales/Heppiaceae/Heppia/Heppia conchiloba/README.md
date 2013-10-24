@@ -1,5 +1,4 @@
-Heppia conchiloba Zahlbr. SPECIES
-=======
+# Heppia conchiloba Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

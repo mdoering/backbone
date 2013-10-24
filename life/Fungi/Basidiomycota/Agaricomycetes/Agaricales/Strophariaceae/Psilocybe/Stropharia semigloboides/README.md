@@ -1,5 +1,4 @@
-Stropharia semigloboides Murrill SPECIES
-=======
+# Stropharia semigloboides Murrill SPECIES
 
 #### Status
 ACCEPTED

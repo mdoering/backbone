@@ -1,5 +1,4 @@
-Lecanora atraeformis Vain. SPECIES
-=======
+# Lecanora atraeformis Vain. SPECIES
 
 #### Status
 ACCEPTED

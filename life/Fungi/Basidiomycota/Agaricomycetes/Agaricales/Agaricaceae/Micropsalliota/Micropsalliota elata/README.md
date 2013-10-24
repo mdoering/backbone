@@ -1,5 +1,4 @@
-Micropsalliota elata Heinem. SPECIES
-=======
+# Micropsalliota elata Heinem. SPECIES
 
 #### Status
 ACCEPTED

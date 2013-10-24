@@ -1,5 +1,4 @@
-Cortinarius imbutus Britzelm. SPECIES
-=======
+# Cortinarius imbutus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

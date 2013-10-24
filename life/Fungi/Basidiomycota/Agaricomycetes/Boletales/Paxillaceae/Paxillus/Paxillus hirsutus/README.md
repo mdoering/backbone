@@ -1,5 +1,4 @@
-Paxillus hirsutus Peck SPECIES
-=======
+# Paxillus hirsutus Peck SPECIES
 
 #### Status
 ACCEPTED

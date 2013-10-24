@@ -1,5 +1,4 @@
-Corticium pausiacum Liberta SPECIES
-=======
+# Corticium pausiacum Liberta SPECIES
 
 #### Status
 ACCEPTED

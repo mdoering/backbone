@@ -1,14 +1,13 @@
-Microascus nidicola Massee & E.S. Salmon, 1901 SPECIES
-=======
+# Pithoascus nidicola (Massee & E.S. Salmon) Arx, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. , Lond. 15: 313 (1901)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 76(3): 292 (1973)
 
 #### Original name
 Microascus nidicola Massee & E.S. Salmon, 1901

@@ -1,5 +1,4 @@
-Aurosphaera ovalis J. Schiller SPECIES
-=======
+# Aurosphaera ovalis J. Schiller SPECIES
 
 #### Status
 ACCEPTED

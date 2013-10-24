@@ -1,5 +1,4 @@
-Tintinnidium campanula Ehrenberg, 1848 SPECIES
-=======
+# Tintinnidium campanula Ehrenberg, 1848 SPECIES
 
 #### Status
 ACCEPTED

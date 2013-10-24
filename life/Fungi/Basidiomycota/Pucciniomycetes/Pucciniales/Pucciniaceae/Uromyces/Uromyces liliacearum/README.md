@@ -1,5 +1,4 @@
-Uromyces liliacearum Unger SPECIES
-=======
+# Uromyces liliacearum Unger SPECIES
 
 #### Status
 ACCEPTED

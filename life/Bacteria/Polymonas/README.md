@@ -1,5 +1,4 @@
-Polymonas GENUS
-=======
+# Polymonas GENUS
 
 #### Status
 ACCEPTED

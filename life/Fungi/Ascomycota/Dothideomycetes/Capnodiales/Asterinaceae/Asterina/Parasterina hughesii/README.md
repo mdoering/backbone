@@ -1,5 +1,4 @@
-Parasterina hughesii Bat. & H. Maia SPECIES
-=======
+# Parasterina hughesii Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

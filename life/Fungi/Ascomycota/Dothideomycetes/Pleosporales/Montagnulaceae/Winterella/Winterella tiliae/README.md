@@ -1,5 +1,4 @@
-Winterella tiliae (Tul. & C. Tul.) Kuntze SPECIES
-=======
+# Winterella tiliae (Tul. & C. Tul.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

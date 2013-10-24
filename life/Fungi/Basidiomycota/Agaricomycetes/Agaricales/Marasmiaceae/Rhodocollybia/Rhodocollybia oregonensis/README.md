@@ -1,5 +1,4 @@
-Rhodocollybia oregonensis (A.H. Sm.) Lennox SPECIES
-=======
+# Rhodocollybia oregonensis (A.H. Sm.) Lennox SPECIES
 
 #### Status
 ACCEPTED

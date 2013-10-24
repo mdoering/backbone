@@ -1,5 +1,4 @@
-Helikobacterium GENUS
-=======
+# Helikobacterium GENUS
 
 #### Status
 ACCEPTED

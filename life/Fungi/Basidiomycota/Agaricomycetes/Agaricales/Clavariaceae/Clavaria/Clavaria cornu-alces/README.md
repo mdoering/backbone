@@ -1,5 +1,4 @@
-Clavaria cornu-alces Batsch SPECIES
-=======
+# Clavaria cornu-alces Batsch SPECIES
 
 #### Status
 ACCEPTED

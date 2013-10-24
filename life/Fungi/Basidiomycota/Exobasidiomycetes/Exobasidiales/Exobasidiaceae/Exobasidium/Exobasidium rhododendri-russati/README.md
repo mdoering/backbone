@@ -1,5 +1,4 @@
-Exobasidium rhododendri-russati Zhen Ying Li & L. Guo SPECIES
-=======
+# Exobasidium rhododendri-russati Zhen Ying Li & L. Guo SPECIES
 
 #### Status
 ACCEPTED

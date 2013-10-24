@@ -1,5 +1,4 @@
-Naucoria tsugae Velen. SPECIES
-=======
+# Naucoria tsugae Velen. SPECIES
 
 #### Status
 ACCEPTED

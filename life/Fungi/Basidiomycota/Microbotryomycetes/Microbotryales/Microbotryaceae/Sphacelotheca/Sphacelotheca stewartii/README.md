@@ -1,5 +1,4 @@
-Sphacelotheca stewartii Mundk. SPECIES
-=======
+# Sphacelotheca stewartii Mundk. SPECIES
 
 #### Status
 ACCEPTED

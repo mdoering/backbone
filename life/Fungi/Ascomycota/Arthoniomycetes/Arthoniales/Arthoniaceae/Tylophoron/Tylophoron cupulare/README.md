@@ -1,5 +1,4 @@
-Tylophoron cupulare Vain. SPECIES
-=======
+# Tylophoron cupulare Vain. SPECIES
 
 #### Status
 ACCEPTED

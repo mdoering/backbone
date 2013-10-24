@@ -1,5 +1,4 @@
-Parmeliella endomilta var. endomilta VARIETY
-=======
+# Parmeliella endomilta (Vain.) Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycotaxon 71: 330 (1999)
 
 #### Original name
-Parmeliella endomilta var. endomilta
+Pannaria endomilta Vain.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Darluca gracillima Cooke SPECIES
-=======
+# Darluca gracillima Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cannosphaeropsis hyperacantha SPECIES
-=======
+# Cannosphaeropsis hyperacantha SPECIES
 
 #### Status
 ACCEPTED

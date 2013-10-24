@@ -1,5 +1,4 @@
-Phyllosticta hydrangeae-quercifoliae M. Bechet & Crisan SPECIES
-=======
+# Phyllosticta hydrangeae-quercifoliae M. Bechet & Crisan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus sibircus Sacc. SPECIES
-=======
+# Polystictus sibircus Sacc. SPECIES
 
 #### Status
 ACCEPTED

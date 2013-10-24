@@ -1,5 +1,4 @@
-Cercospora farsetiana I.D. Singh SPECIES
-=======
+# Cercospora farsetiana I.D. Singh SPECIES
 
 #### Status
 ACCEPTED

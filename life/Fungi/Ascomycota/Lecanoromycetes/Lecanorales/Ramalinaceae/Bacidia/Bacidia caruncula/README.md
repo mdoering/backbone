@@ -1,5 +1,4 @@
-Bacidia caruncula (Stizenb.) Zahlbr. SPECIES
-=======
+# Bacidia caruncula (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

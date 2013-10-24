@@ -1,5 +1,4 @@
-Enchelydium armata (Tucolesco, 1962) Foissner, 1984 SPECIES
-=======
+# Enchelydium armata (Tucolesco, 1962) Foissner, 1984 SPECIES
 
 #### Status
 ACCEPTED

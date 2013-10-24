@@ -1,5 +1,4 @@
-Pluteus citrinocarnescens Henn. SPECIES
-=======
+# Pluteus citrinocarnescens Henn. SPECIES
 
 #### Status
 ACCEPTED

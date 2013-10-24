@@ -1,5 +1,4 @@
-Wettsteinina triseptata Lar.N. Vassiljeva SPECIES
-=======
+# Wettsteinina triseptata Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

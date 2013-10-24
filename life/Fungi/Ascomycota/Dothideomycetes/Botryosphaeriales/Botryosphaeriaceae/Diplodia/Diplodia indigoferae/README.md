@@ -1,5 +1,4 @@
-Diplodia indigoferae Brunaud SPECIES
-=======
+# Diplodia indigoferae Brunaud SPECIES
 
 #### Status
 ACCEPTED

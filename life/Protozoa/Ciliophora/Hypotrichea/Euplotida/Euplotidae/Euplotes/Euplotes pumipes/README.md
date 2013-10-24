@@ -1,5 +1,4 @@
-Euplotes pumipes Stokes, 1884 SPECIES
-=======
+# Euplotes pumipes Stokes, 1884 SPECIES
 
 #### Status
 ACCEPTED

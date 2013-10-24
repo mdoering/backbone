@@ -1,5 +1,4 @@
-Lycoperdon quercinum Pers. SPECIES
-=======
+# Lycoperdon quercinum Pers. SPECIES
 
 #### Status
 ACCEPTED

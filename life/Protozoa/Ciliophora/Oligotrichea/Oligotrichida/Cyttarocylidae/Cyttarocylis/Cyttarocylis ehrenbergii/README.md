@@ -1,5 +1,4 @@
-Cyttarocylis ehrenbergii subsp. subannulata Jörgensen SUBSPECIES
-=======
+# Cyttarocylis ehrenbergii (Claparède & Lachmann, 1858) ?, ? SPECIES
 
 #### Status
 ACCEPTED

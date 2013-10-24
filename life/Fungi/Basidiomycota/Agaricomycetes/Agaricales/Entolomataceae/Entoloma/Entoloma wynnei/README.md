@@ -1,8 +1,7 @@
-Leptonia wynnei (Berk. & Broome) P.D. Orton, 1991 SPECIES
-=======
+# Entoloma wynnei (Berk. & Broome) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

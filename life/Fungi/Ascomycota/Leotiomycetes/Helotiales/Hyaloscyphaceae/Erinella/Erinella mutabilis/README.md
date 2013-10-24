@@ -1,5 +1,4 @@
-Erinella mutabilis Quél. SPECIES
-=======
+# Erinella mutabilis Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Grandinia luteocinerea Rick SPECIES
-=======
+# Grandinia luteocinerea Rick SPECIES
 
 #### Status
 ACCEPTED

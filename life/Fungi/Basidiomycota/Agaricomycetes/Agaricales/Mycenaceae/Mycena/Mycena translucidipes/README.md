@@ -1,5 +1,4 @@
-Mycena translucidipes Métrod SPECIES
-=======
+# Mycena translucidipes Métrod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora leptidea (Hazsl.) Sacc. & Trotter SPECIES
-=======
+# Physalospora leptidea (Hazsl.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naemosphaerella japonica (Sacc. & P. Syd.) Syd. SPECIES
-=======
+# Naemosphaerella japonica (Sacc. & P. Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

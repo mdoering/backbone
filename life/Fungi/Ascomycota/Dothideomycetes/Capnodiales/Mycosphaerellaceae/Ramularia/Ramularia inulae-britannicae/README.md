@@ -1,5 +1,4 @@
-Ramularia inulae-britannicae Allesch. SPECIES
-=======
+# Ramularia inulae-britannicae Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phlyctaena vagabunda Desm. SPECIES
-=======
+# Neofabraea alba (E.J. Guthrie) Verkley, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 44: 125 (1999)
 
 #### Original name
-null
+Pezicula alba E.J. Guthrie, 1959
 
 ### Remarks
 null

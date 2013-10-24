@@ -1,17 +1,16 @@
-Arthoniomyces E.A. Thomas ex Cif. & Tomas. GENUS
-=======
+# Arthonia Ach. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 68 (1953)
+Neues J. Bot. 1(3): 3 (1806)
 
 #### Original name
-Arthoniomyces E.A. Thomas ex Cif. & Tomas.
+Arthonia Ach.
 
 ### Remarks
 null

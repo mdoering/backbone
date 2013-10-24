@@ -1,5 +1,4 @@
-Depazea adoxicola Lasch SPECIES
-=======
+# Depazea adoxicola Lasch SPECIES
 
 #### Status
 ACCEPTED

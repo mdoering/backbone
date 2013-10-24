@@ -1,5 +1,4 @@
-Septoria hayachinensis Sawada SPECIES
-=======
+# Septoria hayachinensis Sawada SPECIES
 
 #### Status
 ACCEPTED

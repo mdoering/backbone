@@ -1,5 +1,4 @@
-Dactylospora rostrupii Alstrup SPECIES
-=======
+# Dactylospora rostrupii Alstrup SPECIES
 
 #### Status
 ACCEPTED

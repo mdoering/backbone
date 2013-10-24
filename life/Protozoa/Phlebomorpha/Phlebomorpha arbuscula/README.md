@@ -1,5 +1,4 @@
-Phlebomorpha arbuscula Schwein. SPECIES
-=======
+# Phlebomorpha arbuscula Schwein. SPECIES
 
 #### Status
 ACCEPTED

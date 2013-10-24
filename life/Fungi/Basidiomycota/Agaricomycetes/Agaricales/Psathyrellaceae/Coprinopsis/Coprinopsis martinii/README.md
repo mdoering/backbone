@@ -1,5 +1,4 @@
-Coprinopsis martinii (P.D. Orton) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis martinii (P.D. Orton) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

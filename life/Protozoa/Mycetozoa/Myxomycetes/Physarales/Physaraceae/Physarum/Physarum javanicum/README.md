@@ -1,17 +1,16 @@
-Physarum javanicum var. macrosporum T.N. Lakh. & Mukerji VARIETY
-=======
+# Physarum javanicum Racib., 1898 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 78: 211 (1981)
+Hedwigia 38: 53 (1898)
 
 #### Original name
-Physarum javanicum var. macrosporum T.N. Lakh. & Mukerji
+Physarum javanicum Racib., 1898
 
 ### Remarks
 null

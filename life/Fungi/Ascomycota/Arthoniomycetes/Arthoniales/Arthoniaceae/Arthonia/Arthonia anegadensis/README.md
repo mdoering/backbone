@@ -1,5 +1,4 @@
-Arthonia anegadensis Riddle SPECIES
-=======
+# Arthonia anegadensis Riddle SPECIES
 
 #### Status
 ACCEPTED

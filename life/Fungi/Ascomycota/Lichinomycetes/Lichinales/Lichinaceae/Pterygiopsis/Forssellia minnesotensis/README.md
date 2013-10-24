@@ -1,5 +1,4 @@
-Forssellia minnesotensis (Fink) Fink SPECIES
-=======
+# Forssellia minnesotensis (Fink) Fink SPECIES
 
 #### Status
 ACCEPTED

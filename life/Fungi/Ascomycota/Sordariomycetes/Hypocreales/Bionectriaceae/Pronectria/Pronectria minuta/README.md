@@ -1,5 +1,4 @@
-Pronectria minuta Motiejunaite & Kukwa SPECIES
-=======
+# Pronectria minuta Motiejunaite & Kukwa SPECIES
 
 #### Status
 ACCEPTED

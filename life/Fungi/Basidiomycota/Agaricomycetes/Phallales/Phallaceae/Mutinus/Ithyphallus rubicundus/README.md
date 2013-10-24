@@ -1,5 +1,4 @@
-Ithyphallus rubicundus var. rubicundus VARIETY
-=======
+# Ithyphallus rubicundus (Bosc) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ithyphallus rubicundus var. rubicundus
+Satyrus rubicundus Bosc
 
 ### Remarks
 null

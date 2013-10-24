@@ -1,5 +1,4 @@
-Collema cheileum f. cheileum FORM
-=======
+# Collema cheileum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Collema cheileum f. cheileum
+null
 
 ### Remarks
 null

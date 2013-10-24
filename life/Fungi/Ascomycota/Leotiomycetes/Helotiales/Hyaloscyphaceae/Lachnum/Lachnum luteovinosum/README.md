@@ -1,5 +1,4 @@
-Lachnum luteovinosum Wilberf. & P.R. Sm., 2004 SPECIES
-=======
+# Lachnum luteovinosum Wilberf. & P.R. Sm., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium atropae Naumov SPECIES
-=======
+# Coniothyrium atropae Naumov SPECIES
 
 #### Status
 ACCEPTED

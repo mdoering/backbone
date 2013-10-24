@@ -1,5 +1,4 @@
-Cortinarius phaeoloma Rob. Henry SPECIES
-=======
+# Cortinarius phaeoloma Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

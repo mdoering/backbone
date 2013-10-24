@@ -1,14 +1,13 @@
-Cintractia cubensis M. Piepenbr., 1999 SPECIES
-=======
+# Ustanciosporium cubense (M. Piepenbr.) M. Piepenbr. & Begerow, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 103(4): 459 (1999)
+in Piepenbring, Nova Hedwigia 70(3-4): 332 (2000)
 
 #### Original name
 Cintractia cubensis M. Piepenbr., 1999

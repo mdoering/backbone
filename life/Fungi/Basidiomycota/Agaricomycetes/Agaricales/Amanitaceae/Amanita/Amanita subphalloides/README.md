@@ -1,5 +1,4 @@
-Amanita subphalloides (Murrill) Murrill SPECIES
-=======
+# Amanita subphalloides (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

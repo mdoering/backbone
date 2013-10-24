@@ -1,17 +1,16 @@
-Xerocarpus glaucescens (Fr.) P. Karst., 1882 SPECIES
-=======
+# Veluticeps abietina (Pers.) Hjortstam & Tellería, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 37: 135 (1882)
+Mycotaxon 37: 54 (1990)
 
 #### Original name
-Stereum glaucescens Fr., 1874
+Thelephora abietina Pers., 1801
 
 ### Remarks
 null

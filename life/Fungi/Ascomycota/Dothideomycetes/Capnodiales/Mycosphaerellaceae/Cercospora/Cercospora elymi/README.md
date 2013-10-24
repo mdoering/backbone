@@ -1,5 +1,4 @@
-Cercospora elymi Rostr. SPECIES
-=======
+# Cercospora elymi Rostr. SPECIES
 
 #### Status
 ACCEPTED

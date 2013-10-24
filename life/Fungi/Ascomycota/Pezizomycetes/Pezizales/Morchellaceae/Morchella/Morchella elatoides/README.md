@@ -1,5 +1,4 @@
-Morchella elatoides var. elatoides VARIETY
-=======
+# Morchella elatoides Jacquet. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Jacquetant & Bon, Docums Mycol. 14(no. 56): 1 (1985)
 
 #### Original name
-Morchella elatoides var. elatoides
+Morchella elatoides Jacquet.
 
 ### Remarks
 null

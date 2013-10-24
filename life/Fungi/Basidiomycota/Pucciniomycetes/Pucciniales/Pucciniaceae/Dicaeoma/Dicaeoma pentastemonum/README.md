@@ -1,5 +1,4 @@
-Dicaeoma pentastemonum (Lév.) Kuntze SPECIES
-=======
+# Dicaeoma pentastemonum (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

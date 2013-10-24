@@ -1,5 +1,4 @@
-Venturia juncaginearum (Lasch) M.E. Barr, 1968 SPECIES
-=======
+# Venturia juncaginearum (Lasch) M.E. Barr, 1968 SPECIES
 
 #### Status
 ACCEPTED

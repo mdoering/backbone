@@ -1,5 +1,4 @@
-Puccinia otopappicola Jørst. SPECIES
-=======
+# Puccinia otopappicola Jørst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Anthostoma pimpriana A. Pande & K.R.G. Nair SPECIES
-=======
+# Anthostoma pimprianum A. Pande & K.R.G. Nair SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Univ. Poona, Sci. Techn. 44: 179 (1973)
 
 #### Original name
-Anthostoma pimpriana A. Pande & K.R.G. Nair
+Anthostoma pimprianum A. Pande & K.R.G. Nair
 
 ### Remarks
 null

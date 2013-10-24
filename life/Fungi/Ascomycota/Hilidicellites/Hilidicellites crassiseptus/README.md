@@ -1,5 +1,4 @@
-Hilidicellites crassiseptus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Hilidicellites crassiseptus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

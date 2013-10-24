@@ -1,5 +1,4 @@
-Xanthoparmelia hypothamnolica Elix & U. Becker SPECIES
-=======
+# Xanthoparmelia hypothamnolica Elix & U. Becker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calonectria truncata Petch SPECIES
-=======
+# Calonectria truncata Petch SPECIES
 
 #### Status
 ACCEPTED

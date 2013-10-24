@@ -1,5 +1,4 @@
-Craspedodiscus coscinodiscus Ehrenberg SPECIES
-=======
+# Craspedodiscus coscinodiscus Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella bartholomaei Ellis & Everh. SPECIES
-=======
+# Volutella bartholomaei Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

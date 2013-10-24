@@ -1,5 +1,4 @@
-Aecidium melampyri Kunze & J.C. Schmidt SPECIES
-=======
+# Aecidium melampyri Kunze & J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

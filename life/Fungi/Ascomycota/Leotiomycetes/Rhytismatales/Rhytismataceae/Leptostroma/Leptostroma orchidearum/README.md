@@ -1,5 +1,4 @@
-Leptostroma orchidearum Mont. SPECIES
-=======
+# Leptostroma orchidearum Mont. SPECIES
 
 #### Status
 ACCEPTED

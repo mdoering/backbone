@@ -1,5 +1,4 @@
-Diplodia dalbergiae Died. SPECIES
-=======
+# Diplodia dalbergiae Died. SPECIES
 
 #### Status
 ACCEPTED

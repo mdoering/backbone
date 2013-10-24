@@ -1,5 +1,4 @@
-Pseudocercospora curta (Syd.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora curta (Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

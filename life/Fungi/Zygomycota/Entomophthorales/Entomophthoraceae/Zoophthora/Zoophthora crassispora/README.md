@@ -1,5 +1,4 @@
-Zoophthora crassispora Balazy, 1993 SPECIES
-=======
+# Zoophthora crassispora Balazy, 1993 SPECIES
 
 #### Status
 ACCEPTED

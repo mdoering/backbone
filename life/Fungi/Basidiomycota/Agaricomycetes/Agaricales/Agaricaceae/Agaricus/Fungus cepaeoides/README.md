@@ -1,14 +1,13 @@
-Fungus cepaeodes (Ces.) Kuntze SPECIES
-=======
+# Fungus cepaeoides (Ces.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 479 (1898)
 
 #### Original name
 Agaricus cepaeoides Ces.

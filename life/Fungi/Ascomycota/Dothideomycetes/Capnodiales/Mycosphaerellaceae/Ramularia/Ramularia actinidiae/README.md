@@ -1,5 +1,4 @@
-Ramularia actinidiae Ablak. SPECIES
-=======
+# Ramularia actinidiae Ablak. SPECIES
 
 #### Status
 ACCEPTED

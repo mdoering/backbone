@@ -1,5 +1,4 @@
-Reophax ellisi Brenner, 1962 SPECIES
-=======
+# Reophax ellisi Brenner, 1962 SPECIES
 
 #### Status
 ACCEPTED

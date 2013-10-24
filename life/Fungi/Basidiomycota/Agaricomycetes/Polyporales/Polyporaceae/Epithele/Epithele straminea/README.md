@@ -1,5 +1,4 @@
-Epithele straminea Rick SPECIES
-=======
+# Epithele straminea Rick SPECIES
 
 #### Status
 ACCEPTED

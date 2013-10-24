@@ -1,5 +1,4 @@
-Puccinia tianguensis Berndt & F.O. Freire SPECIES
-=======
+# Puccinia tianguensis Berndt & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

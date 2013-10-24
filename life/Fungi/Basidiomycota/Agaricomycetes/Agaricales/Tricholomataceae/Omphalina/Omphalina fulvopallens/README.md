@@ -1,5 +1,4 @@
-Omphalina fulvopallens P.D. Orton, 1984 SPECIES
-=======
+# Omphalina fulvopallens P.D. Orton, 1984 SPECIES
 
 #### Status
 ACCEPTED

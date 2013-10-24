@@ -1,5 +1,4 @@
-Pleospora negundinis Oudem., 1900 SPECIES
-=======
+# Pleospora negundinis Oudem., 1900 SPECIES
 
 #### Status
 ACCEPTED

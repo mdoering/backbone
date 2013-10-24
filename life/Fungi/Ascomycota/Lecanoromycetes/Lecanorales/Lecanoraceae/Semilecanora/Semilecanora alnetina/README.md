@@ -1,5 +1,4 @@
-Semilecanora alnetina Motyka SPECIES
-=======
+# Semilecanora alnetina Motyka SPECIES
 
 #### Status
 ACCEPTED

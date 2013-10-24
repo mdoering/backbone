@@ -1,14 +1,13 @@
-Rhodophyllus majaloides (P.D. Orton) M.M. Moser, 1967 SPECIES
-=======
+# Entoloma majaloides P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 156 (1967)
+Trans. Br. mycol. Soc. 43: 230 (1960)
 
 #### Original name
 Entoloma majaloides P.D. Orton, 1960

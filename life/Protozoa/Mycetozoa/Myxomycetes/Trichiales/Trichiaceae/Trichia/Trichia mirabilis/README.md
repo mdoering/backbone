@@ -1,5 +1,4 @@
-Trichia mirabilis Nann.-Bremek., 1966 SPECIES
-=======
+# Trichia mirabilis Nann.-Bremek., 1966 SPECIES
 
 #### Status
 ACCEPTED

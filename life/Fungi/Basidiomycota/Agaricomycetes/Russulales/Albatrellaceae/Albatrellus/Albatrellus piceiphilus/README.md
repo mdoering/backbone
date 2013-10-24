@@ -1,5 +1,4 @@
-Albatrellus piceiphilus B.K. Cui & Y.C. Dai SPECIES
-=======
+# Albatrellus piceiphilus B.K. Cui & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

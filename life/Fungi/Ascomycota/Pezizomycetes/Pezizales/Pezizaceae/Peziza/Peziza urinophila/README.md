@@ -1,5 +1,4 @@
-Peziza urinophila Yei Z. Wang & Sagara SPECIES
-=======
+# Peziza urinophila Yei Z. Wang & Sagara SPECIES
 
 #### Status
 ACCEPTED

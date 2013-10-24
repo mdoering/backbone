@@ -1,5 +1,4 @@
-Scalidium ophiosporum Hellb. SPECIES
-=======
+# Scalidium ophiosporum Hellb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teratosphaeria juvenalis Crous & M.J. Wingf., 2009 SPECIES
-=======
+# Teratosphaeria juvenalis Crous & M.J. Wingf., 2009 SPECIES
 
 #### Status
 ACCEPTED

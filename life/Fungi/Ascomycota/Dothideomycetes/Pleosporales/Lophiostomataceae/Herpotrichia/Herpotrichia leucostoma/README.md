@@ -1,5 +1,4 @@
-Herpotrichia leucostoma Peck SPECIES
-=======
+# Herpotrichia leucostoma Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prunulus ochraceocinereus Murrill SPECIES
-=======
+# Prunulus ochraceocinereus Murrill SPECIES
 
 #### Status
 ACCEPTED

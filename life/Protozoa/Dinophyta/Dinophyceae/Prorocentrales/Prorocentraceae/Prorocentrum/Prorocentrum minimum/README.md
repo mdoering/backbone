@@ -1,14 +1,13 @@
-Prorocentrum marie-lebouriae (Parke & Ballantine) Loeblich Iii, 1970 SPECIES
-=======
+# Prorocentrum minimum (Pavillard) J. Schiller SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pavillard J. 1916. Recherches sur les péridiniens du Golf de Lion. Inst. Bot. Univ. Montpellier et Stat. Zool. Cette. Trav. , sér. mixte, Mém. 4: 1-73.
 
 #### Original name
 null

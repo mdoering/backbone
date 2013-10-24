@@ -1,5 +1,4 @@
-Verrucaria erumpens (A. Massal.) Garov. SPECIES
-=======
+# Verrucaria erumpens (A. Massal.) Garov. SPECIES
 
 #### Status
 ACCEPTED

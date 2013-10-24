@@ -1,5 +1,4 @@
-Sphaeria interspersa Cooke SPECIES
-=======
+# Sphaeria interspersa Cooke SPECIES
 
 #### Status
 ACCEPTED

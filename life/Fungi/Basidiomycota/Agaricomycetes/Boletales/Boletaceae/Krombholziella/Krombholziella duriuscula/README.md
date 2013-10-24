@@ -1,5 +1,4 @@
-Krombholziella duriuscula (Schulzer ex Kalchbr.) SPECIES
-=======
+# Krombholziella duriuscula (Schulzer ex Kalchbr.) SPECIES
 
 #### Status
 ACCEPTED

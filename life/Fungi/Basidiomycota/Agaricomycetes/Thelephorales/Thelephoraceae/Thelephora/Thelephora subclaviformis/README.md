@@ -1,17 +1,16 @@
-Thelephora subclavaeformis Berk. SPECIES
-=======
+# Thelephora subclaviformis Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hooker's J. Bot. Kew Gard. Misc. 8: 238 (1856)
 
 #### Original name
-Thelephora subclavaeformis Berk.
+Thelephora subclaviformis Berk.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Colletotrichum yaquense Petr. & Cif. SPECIES
-=======
+# Colletotrichum yaquense Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

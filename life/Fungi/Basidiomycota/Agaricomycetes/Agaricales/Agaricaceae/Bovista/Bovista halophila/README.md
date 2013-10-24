@@ -1,5 +1,4 @@
-Bovista halophila Kreisel & Hauskn. SPECIES
-=======
+# Bovista halophila Kreisel & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

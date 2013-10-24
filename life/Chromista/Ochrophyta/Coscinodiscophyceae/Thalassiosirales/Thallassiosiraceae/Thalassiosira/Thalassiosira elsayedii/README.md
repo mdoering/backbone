@@ -1,5 +1,4 @@
-Thalassiosira elsayedii Fryxell, 1975 SPECIES
-=======
+# Thalassiosira elsayedii Fryxell, 1975 SPECIES
 
 #### Status
 ACCEPTED

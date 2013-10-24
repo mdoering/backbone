@@ -1,8 +1,7 @@
-Buellia arthonioides (Fée) Arnold SPECIES
-=======
+# Melaspilea arthonioides (Fée) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Skierka Racib. GENUS
-=======
+# Skierka Racib. GENUS
 
 #### Status
 ACCEPTED

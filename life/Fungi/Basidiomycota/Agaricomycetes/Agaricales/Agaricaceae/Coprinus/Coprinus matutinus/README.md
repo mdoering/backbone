@@ -1,5 +1,4 @@
-Coprinus matutinus Mont. SPECIES
-=======
+# Coprinus matutinus Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Nocardiopsis alba subsp. prasina SUBSPECIES
-=======
+# Nocardiopsis prasina (Miyashita et al., 1984) Yassin et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

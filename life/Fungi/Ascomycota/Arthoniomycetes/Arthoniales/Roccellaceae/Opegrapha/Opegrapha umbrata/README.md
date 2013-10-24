@@ -1,5 +1,4 @@
-Opegrapha umbrata Fée SPECIES
-=======
+# Opegrapha umbrata Fée SPECIES
 
 #### Status
 ACCEPTED

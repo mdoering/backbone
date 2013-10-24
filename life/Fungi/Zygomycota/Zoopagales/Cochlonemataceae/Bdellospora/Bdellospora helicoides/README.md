@@ -1,5 +1,4 @@
-Bdellospora helicoides Drechsler, 1935 SPECIES
-=======
+# Bdellospora helicoides Drechsler, 1935 SPECIES
 
 #### Status
 ACCEPTED

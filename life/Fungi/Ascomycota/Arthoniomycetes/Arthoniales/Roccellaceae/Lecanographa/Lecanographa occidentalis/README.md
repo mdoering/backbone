@@ -1,5 +1,4 @@
-Lecanographa occidentalis Egea & Torrente SPECIES
-=======
+# Lecanographa occidentalis Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia esculenta (Pall.) Ach. SPECIES
-=======
+# Arthonia esculenta (Pall.) Ach. SPECIES
 
 #### Status
 ACCEPTED

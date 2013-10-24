@@ -1,5 +1,4 @@
-Sphaeria meliloti Lasch SPECIES
-=======
+# Sphaeria meliloti Lasch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scindalma peguanum (Mont.) Kuntze SPECIES
-=======
+# Scindalma peguanum (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gyalecta stictidea (Nyl.) Zahlbr. SPECIES
-=======
+# Ocellularia stictidea (Nyl.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 714 (1924)
+Ark. Bot. , Ser. 2 7: 177 (1969)
 
 #### Original name
 Lecidea stictidea Nyl.

@@ -1,14 +1,13 @@
-Isoachlya itoana Nagai, 1931 SPECIES
-=======
+# Saprolegnia itoana (Nagai) T.W. Johnson & R.L. Seym., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Fac. agric. , Hokkaido Imp. Univ. Sapporo 32(1): 11 (1931)
+Mycotaxon 92: 28 (2005)
 
 #### Original name
 Isoachlya itoana Nagai, 1931

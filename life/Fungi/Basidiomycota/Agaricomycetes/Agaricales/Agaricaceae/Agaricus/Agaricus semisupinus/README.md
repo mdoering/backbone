@@ -1,5 +1,4 @@
-Agaricus semisupinus Berk. & Broome SPECIES
-=======
+# Agaricus semisupinus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

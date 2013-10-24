@@ -1,5 +1,4 @@
-Orygmatosphaeridium minutum Sheshegova, 1984 SPECIES
-=======
+# Orygmatosphaeridium minutum Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

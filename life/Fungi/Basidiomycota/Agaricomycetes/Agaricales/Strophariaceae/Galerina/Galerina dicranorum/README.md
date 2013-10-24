@@ -1,5 +1,4 @@
-Galerina dicranorum A.H. Sm. & Singer SPECIES
-=======
+# Galerina dicranorum A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

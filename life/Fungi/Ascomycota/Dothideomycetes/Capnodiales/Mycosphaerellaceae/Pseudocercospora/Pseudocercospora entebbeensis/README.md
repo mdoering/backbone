@@ -1,5 +1,4 @@
-Pseudocercospora entebbeensis (Deighton) Deighton SPECIES
-=======
+# Pseudocercospora entebbeensis (Deighton) Deighton SPECIES
 
 #### Status
 ACCEPTED

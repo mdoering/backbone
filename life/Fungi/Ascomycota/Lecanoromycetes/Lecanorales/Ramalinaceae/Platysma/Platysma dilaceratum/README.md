@@ -1,5 +1,4 @@
-Platysma dilaceratum (Hoffm.) Frege SPECIES
-=======
+# Platysma dilaceratum (Hoffm.) Frege SPECIES
 
 #### Status
 ACCEPTED

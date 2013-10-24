@@ -1,5 +1,4 @@
-Mycosphaerella salicina (Ellis & Everh.) Tomilin SPECIES
-=======
+# Mycosphaerella salicina (Ellis & Everh.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

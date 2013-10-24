@@ -1,5 +1,4 @@
-Agaricus stipiticus L. SPECIES
-=======
+# Agaricus stipiticus L. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Combodia Fr. GENUS
-=======
+# Lasiodiplodia Ellis & Everhart, 1896 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 422 (1849)
+null
 
 #### Original name
-Combodia Fr.
+null
 
 ### Remarks
 null

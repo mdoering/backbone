@@ -1,5 +1,4 @@
-Euglena platydesma Skuja SPECIES
-=======
+# Euglena platydesma Skuja SPECIES
 
 #### Status
 ACCEPTED

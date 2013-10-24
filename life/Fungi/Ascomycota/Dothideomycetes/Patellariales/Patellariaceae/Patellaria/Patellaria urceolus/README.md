@@ -1,5 +1,4 @@
-Patellaria urceolus Fuckel SPECIES
-=======
+# Patellaria urceolus Fuckel SPECIES
 
 #### Status
 ACCEPTED

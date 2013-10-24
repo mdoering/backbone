@@ -1,5 +1,4 @@
-Sporothrix splendens G.J. Marais & M.J. Wingf. SPECIES
-=======
+# Sporothrix splendens G.J. Marais & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

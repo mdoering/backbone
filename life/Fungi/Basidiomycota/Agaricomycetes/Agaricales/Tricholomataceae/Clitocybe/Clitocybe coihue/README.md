@@ -1,5 +1,4 @@
-Clitocybe coihue Raithelh. SPECIES
-=======
+# Clitocybe coihue Raithelh. SPECIES
 
 #### Status
 ACCEPTED

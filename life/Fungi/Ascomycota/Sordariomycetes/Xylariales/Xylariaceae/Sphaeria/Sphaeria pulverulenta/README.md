@@ -1,5 +1,4 @@
-Sphaeria pulverulenta Nees & T. Nees SPECIES
-=======
+# Sphaeria pulverulenta Nees & T. Nees SPECIES
 
 #### Status
 ACCEPTED

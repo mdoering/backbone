@@ -1,5 +1,4 @@
-Daedalea volhynicus (E.V. Eichw.) Lév. SPECIES
-=======
+# Daedalea volhynicus (E.V. Eichw.) Lév. SPECIES
 
 #### Status
 ACCEPTED

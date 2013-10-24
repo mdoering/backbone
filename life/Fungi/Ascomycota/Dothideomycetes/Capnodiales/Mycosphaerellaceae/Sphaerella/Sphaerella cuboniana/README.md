@@ -1,5 +1,4 @@
-Sphaerella cuboniana D. Sacc. SPECIES
-=======
+# Sphaerella cuboniana D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

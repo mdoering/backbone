@@ -1,5 +1,4 @@
-Asterina ilicicola W. Yamam. SPECIES
-=======
+# Asterina ilicicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

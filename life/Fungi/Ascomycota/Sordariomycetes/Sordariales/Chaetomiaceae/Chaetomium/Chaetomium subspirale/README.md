@@ -1,17 +1,16 @@
-Chaetomium pulchellum L.M. Ames, 1963 SPECIES
-=======
+# Chaetomium subspirale Chivers, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of the Chaetomiaceae (U. S. Army Research and Development Service) 34 (1963)
+Proc. Amer. Acad. Arts 48(4): 84 (1912)
 
 #### Original name
-Chaetomium pulchellum L.M. Ames, 1963
+Chaetomium subspirale Chivers, 1912
 
 ### Remarks
 null

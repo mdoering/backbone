@@ -1,5 +1,4 @@
-Ramalina intermixta Gyeln. SPECIES
-=======
+# Ramalina intermixta Gyeln. SPECIES
 
 #### Status
 ACCEPTED

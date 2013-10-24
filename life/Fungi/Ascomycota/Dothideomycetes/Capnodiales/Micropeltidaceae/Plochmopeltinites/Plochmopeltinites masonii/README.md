@@ -1,5 +1,4 @@
-Plochmopeltinites masonii Cookson SPECIES
-=======
+# Plochmopeltinites masonii Cookson SPECIES
 
 #### Status
 ACCEPTED

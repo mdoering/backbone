@@ -1,5 +1,4 @@
-Vibrio coralliilyticus Ben-Haim et al., 2003 SPECIES
-=======
+# Vibrio coralliilyticus Ben-Haim et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

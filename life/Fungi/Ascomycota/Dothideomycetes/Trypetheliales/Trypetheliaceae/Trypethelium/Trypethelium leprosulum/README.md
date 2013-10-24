@@ -1,5 +1,4 @@
-Trypethelium leprosulum Zahlbr. SPECIES
-=======
+# Trypethelium leprosulum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

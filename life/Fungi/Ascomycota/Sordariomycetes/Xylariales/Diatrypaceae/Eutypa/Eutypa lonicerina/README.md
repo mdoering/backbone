@@ -1,5 +1,4 @@
-Eutypa lonicerina Lar.N. Vassiljeva SPECIES
-=======
+# Eutypa lonicerina Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

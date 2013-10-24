@@ -1,5 +1,4 @@
-Aecidium effusum Niessl SPECIES
-=======
+# Aecidium effusum Niessl SPECIES
 
 #### Status
 ACCEPTED

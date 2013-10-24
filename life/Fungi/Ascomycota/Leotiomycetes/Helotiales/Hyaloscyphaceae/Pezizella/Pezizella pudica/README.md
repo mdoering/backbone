@@ -1,5 +1,4 @@
-Pezizella pudica Rehm SPECIES
-=======
+# Pezizella pudica Rehm SPECIES
 
 #### Status
 ACCEPTED

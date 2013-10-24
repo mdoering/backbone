@@ -1,5 +1,4 @@
-Belonocystis Rainer, 1968 GENUS
-=======
+# Belonocystis Rainer, 1968 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiosoma micropteri SPECIES
-=======
+# Apiosoma micropteri SPECIES
 
 #### Status
 ACCEPTED

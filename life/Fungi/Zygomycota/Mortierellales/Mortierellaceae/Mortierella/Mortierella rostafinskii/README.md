@@ -1,5 +1,4 @@
-Mortierella rostafinskii Bref., 1881 SPECIES
-=======
+# Mortierella rostafinskii Bref., 1881 SPECIES
 
 #### Status
 ACCEPTED

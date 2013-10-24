@@ -1,14 +1,13 @@
-Agaricus ombrophilus var. brunneolus Fr., 1884 VARIETY
-=======
+# Agrocybe brunneola (Fr.) Bon, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ges. naturf. Freunde, Berlin 2: pl. 2 (1884)
+Docums Mycol. 10(nos 37-38): 91 (1980)
 
 #### Original name
 Agaricus ombrophilus var. brunneolus Fr., 1884

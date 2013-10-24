@@ -1,5 +1,4 @@
-Siphonaperta sabulosa SPECIES
-=======
+# Siphonaperta sabulosa SPECIES
 
 #### Status
 ACCEPTED

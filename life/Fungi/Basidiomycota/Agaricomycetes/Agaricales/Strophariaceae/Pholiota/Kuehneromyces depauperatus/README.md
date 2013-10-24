@@ -1,5 +1,4 @@
-Kuehneromyces depauperatus Singer & A.H. Sm. SPECIES
-=======
+# Kuehneromyces depauperatus Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

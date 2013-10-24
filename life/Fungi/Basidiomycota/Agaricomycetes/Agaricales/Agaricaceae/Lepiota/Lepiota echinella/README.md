@@ -1,5 +1,4 @@
-Lepiota echinella var. echinella VARIETY
-=======
+# Lepiota echinella Quél. & Bernard SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 4: pl. 1, fig. 2 (1888)
+null
 
 #### Original name
-Lepiota echinella var. echinella
+null
 
 ### Remarks
 null

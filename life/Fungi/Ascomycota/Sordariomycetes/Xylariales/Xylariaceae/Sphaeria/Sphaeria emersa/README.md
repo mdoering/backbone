@@ -1,5 +1,4 @@
-Sphaeria emersa Sowerby SPECIES
-=======
+# Sphaeria emersa Sowerby SPECIES
 
 #### Status
 ACCEPTED

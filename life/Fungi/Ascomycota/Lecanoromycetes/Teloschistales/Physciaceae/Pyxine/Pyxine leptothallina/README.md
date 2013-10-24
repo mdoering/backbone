@@ -1,5 +1,4 @@
-Pyxine leptothallina Zahlbr. SPECIES
-=======
+# Pyxine leptothallina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthoniopsis GENUS
-=======
+# Arthoniopsis GENUS
 
 #### Status
 ACCEPTED

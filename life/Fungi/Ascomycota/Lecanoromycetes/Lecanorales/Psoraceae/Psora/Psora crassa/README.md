@@ -1,5 +1,4 @@
-Psora crassa (Stizenb.) C.W. Dodge SPECIES
-=======
+# Psora crassa (Stizenb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

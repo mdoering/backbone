@@ -1,5 +1,4 @@
-Peziza rhaphidophora Berk. & M.A. Curtis SPECIES
-=======
+# Peziza rhaphidophora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

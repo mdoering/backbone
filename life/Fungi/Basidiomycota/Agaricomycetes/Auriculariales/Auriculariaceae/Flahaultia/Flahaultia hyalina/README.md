@@ -1,5 +1,4 @@
-Flahaultia hyalina G. Arnaud SPECIES
-=======
+# Flahaultia hyalina G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

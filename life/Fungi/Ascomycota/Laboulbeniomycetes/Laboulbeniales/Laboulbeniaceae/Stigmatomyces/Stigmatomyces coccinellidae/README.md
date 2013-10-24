@@ -1,5 +1,4 @@
-Stigmatomyces coccinellidae Thaxt. SPECIES
-=======
+# Stigmatomyces coccinellidae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratostomella hydrophila Mouton SPECIES
-=======
+# Ceratostomella hydrophila Mouton SPECIES
 
 #### Status
 ACCEPTED

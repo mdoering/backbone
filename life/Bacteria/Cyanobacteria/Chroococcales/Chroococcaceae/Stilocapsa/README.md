@@ -1,5 +1,4 @@
-Stilocapsa Ley, 1947 GENUS
-=======
+# Stilocapsa Ley, 1947 GENUS
 
 #### Status
 SYNONYM

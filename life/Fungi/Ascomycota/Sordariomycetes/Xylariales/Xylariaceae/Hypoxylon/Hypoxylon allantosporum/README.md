@@ -1,5 +1,4 @@
-Hypoxylon allantosporum Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon allantosporum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

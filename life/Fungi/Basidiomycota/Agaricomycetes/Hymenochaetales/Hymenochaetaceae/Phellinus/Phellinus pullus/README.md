@@ -1,5 +1,4 @@
-Phellinus pullus (Mont. & Berk.) Ryvarden SPECIES
-=======
+# Phellinus pullus (Mont. & Berk.) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

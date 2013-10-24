@@ -1,5 +1,4 @@
-Dialonectria erythrinella (Nyl.) Cooke SPECIES
-=======
+# Dialonectria erythrinella (Nyl.) Cooke SPECIES
 
 #### Status
 ACCEPTED

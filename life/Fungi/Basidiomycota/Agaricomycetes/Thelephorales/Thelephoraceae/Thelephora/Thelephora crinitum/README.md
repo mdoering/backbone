@@ -1,5 +1,4 @@
-Thelephora crinitum Fr. SPECIES
-=======
+# Thelephora crinitum Fr. SPECIES
 
 #### Status
 ACCEPTED

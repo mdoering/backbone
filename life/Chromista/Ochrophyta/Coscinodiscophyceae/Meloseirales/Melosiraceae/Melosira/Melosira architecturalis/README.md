@@ -1,5 +1,4 @@
-Melosira architecturalis Ehrenberg SPECIES
-=======
+# Melosira architecturalis Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

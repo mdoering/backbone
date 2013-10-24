@@ -1,5 +1,4 @@
-Caeoma rhynchosiae Sawada SPECIES
-=======
+# Caeoma rhynchosiae Sawada SPECIES
 
 #### Status
 ACCEPTED

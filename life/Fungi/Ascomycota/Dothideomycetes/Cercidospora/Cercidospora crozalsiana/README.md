@@ -1,5 +1,4 @@
-Cercidospora crozalsiana (H. Olivier) Nav.-Ros., Cl. Roux & Casares SPECIES
-=======
+# Cercidospora crozalsiana (H. Olivier) Nav.-Ros., Cl. Roux & Casares SPECIES
 
 #### Status
 ACCEPTED

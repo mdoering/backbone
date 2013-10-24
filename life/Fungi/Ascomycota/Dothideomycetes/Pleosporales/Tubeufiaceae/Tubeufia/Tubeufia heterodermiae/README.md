@@ -1,5 +1,4 @@
-Tubeufia heterodermiae Etayo, 2002 SPECIES
-=======
+# Tubeufia heterodermiae Etayo, 2002 SPECIES
 
 #### Status
 ACCEPTED

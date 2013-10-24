@@ -1,5 +1,4 @@
-Psathyra rugosa Velen. SPECIES
-=======
+# Psathyra rugosa Velen. SPECIES
 
 #### Status
 ACCEPTED

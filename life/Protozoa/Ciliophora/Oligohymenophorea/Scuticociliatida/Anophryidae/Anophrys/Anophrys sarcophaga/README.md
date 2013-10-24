@@ -1,8 +1,7 @@
-Anophrys sacrophaga Rees SPECIES
-=======
+# Anophrys sarcophaga Cohn, 1866 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

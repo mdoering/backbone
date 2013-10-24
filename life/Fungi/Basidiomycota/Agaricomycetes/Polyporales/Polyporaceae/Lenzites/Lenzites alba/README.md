@@ -1,5 +1,4 @@
-Lenzites alba Beeli SPECIES
-=======
+# Lenzites alba Beeli SPECIES
 
 #### Status
 ACCEPTED

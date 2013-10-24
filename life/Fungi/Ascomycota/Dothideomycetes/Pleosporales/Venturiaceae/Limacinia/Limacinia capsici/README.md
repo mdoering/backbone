@@ -1,5 +1,4 @@
-Limacinia capsici Bat. SPECIES
-=======
+# Limacinia capsici Bat. SPECIES
 
 #### Status
 ACCEPTED

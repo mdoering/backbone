@@ -1,17 +1,16 @@
-Grandiniochaete late-contextum Rick SPECIES
-=======
+# Grandiniochaete latecontexta Rick SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 38(1): 59 (1940)
 
 #### Original name
-Grandiniochaete late-contextum Rick
+Grandiniochaete latecontexta Rick
 
 ### Remarks
 null

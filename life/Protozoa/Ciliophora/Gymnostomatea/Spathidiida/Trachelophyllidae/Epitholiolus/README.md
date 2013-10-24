@@ -1,5 +1,4 @@
-Epitholiolus Foissner, Agatha & Berger, 2002 GENUS
-=======
+# Epitholiolus Foissner, Agatha & Berger, 2002 GENUS
 
 #### Status
 ACCEPTED

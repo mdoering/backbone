@@ -1,5 +1,4 @@
-Macrophoma shoreae Bagchee SPECIES
-=======
+# Macrophoma shoreae Bagchee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella anastomosans var. anastomosans VARIETY
-=======
+# Asteridiella anastomosans (G. Winter) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 699 (1961)
 
 #### Original name
-Asteridiella anastomosans var. anastomosans
+Meliola anastomosans G. Winter
 
 ### Remarks
 null

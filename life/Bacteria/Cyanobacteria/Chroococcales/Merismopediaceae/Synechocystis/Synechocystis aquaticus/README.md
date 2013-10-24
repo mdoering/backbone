@@ -1,5 +1,4 @@
-Synechocystis aquaticus C. Sauvageau, 1892 SPECIES
-=======
+# Synechocystis aquaticus C. Sauvageau, 1892 SPECIES
 
 #### Status
 ACCEPTED

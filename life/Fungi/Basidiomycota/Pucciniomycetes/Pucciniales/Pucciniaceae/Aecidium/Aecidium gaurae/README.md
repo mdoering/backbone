@@ -1,5 +1,4 @@
-Aecidium gaurae Ellis & Everh. SPECIES
-=======
+# Aecidium gaurae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

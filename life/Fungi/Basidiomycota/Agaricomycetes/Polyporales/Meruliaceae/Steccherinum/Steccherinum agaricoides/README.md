@@ -1,5 +1,4 @@
-Steccherinum agaricoides (Sw.) Banker SPECIES
-=======
+# Steccherinum agaricoides (Sw.) Banker SPECIES
 
 #### Status
 ACCEPTED

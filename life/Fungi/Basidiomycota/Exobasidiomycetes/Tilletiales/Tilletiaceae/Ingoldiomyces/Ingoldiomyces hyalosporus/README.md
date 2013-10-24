@@ -1,17 +1,16 @@
-Tilletia hyalospora var. cuzcoensis Hirschh. VARIETY
-=======
+# Ingoldiomyces hyalosporus (Massee) Vánky, 1996 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Vánky & Bauer, Mycotaxon 59: 280 (1996)
 
 #### Original name
-Tilletia hyalospora var. cuzcoensis Hirschh.
+Tilletia hyalospora Massee, 1899
 
 ### Remarks
 null

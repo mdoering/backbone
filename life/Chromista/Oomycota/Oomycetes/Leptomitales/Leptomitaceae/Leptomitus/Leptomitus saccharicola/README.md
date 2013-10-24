@@ -1,5 +1,4 @@
-Leptomitus saccharicola Kütz. SPECIES
-=======
+# Leptomitus saccharicola Kütz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kangiella Yoon et al., 2004 GENUS
-=======
+# Kangiella Yoon et al., 2004 GENUS
 
 #### Status
 ACCEPTED

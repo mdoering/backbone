@@ -1,5 +1,4 @@
-Poronia caelata Pat. SPECIES
-=======
+# Poronia caelata Pat. SPECIES
 
 #### Status
 ACCEPTED

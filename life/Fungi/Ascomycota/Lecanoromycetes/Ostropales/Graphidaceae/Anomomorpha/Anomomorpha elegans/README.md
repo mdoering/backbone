@@ -1,5 +1,4 @@
-Anomomorpha elegans B. O. Sharma, Makhija & Khadilkar SPECIES
-=======
+# Anomomorpha elegans B. O. Sharma, Makhija & Khadilkar SPECIES
 
 #### Status
 ACCEPTED

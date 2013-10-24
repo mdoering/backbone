@@ -1,5 +1,4 @@
-Vorticella scyphina Müller, 1786 SPECIES
-=======
+# Vorticella scyphina Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

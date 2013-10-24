@@ -1,5 +1,4 @@
-Blastospora smilacis Dietel, 1908 SPECIES
-=======
+# Blastospora smilacis Dietel, 1908 SPECIES
 
 #### Status
 ACCEPTED

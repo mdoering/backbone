@@ -1,5 +1,4 @@
-Squamacidia janeirensis (Müll. Arg.) Brako SPECIES
-=======
+# Squamacidia janeirensis (Müll. Arg.) Brako SPECIES
 
 #### Status
 ACCEPTED

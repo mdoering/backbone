@@ -1,5 +1,4 @@
-Ticinella Reichel, 1950 GENUS
-=======
+# Ticinella Reichel, 1950 GENUS
 
 #### Status
 ACCEPTED

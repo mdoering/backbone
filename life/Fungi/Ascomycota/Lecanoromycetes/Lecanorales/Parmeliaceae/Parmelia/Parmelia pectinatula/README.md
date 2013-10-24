@@ -1,5 +1,4 @@
-Parmelia pectinatula Zahlbr. SPECIES
-=======
+# Parmelia pectinatula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

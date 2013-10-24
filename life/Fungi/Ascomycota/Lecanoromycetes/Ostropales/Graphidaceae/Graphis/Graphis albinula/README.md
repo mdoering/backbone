@@ -1,5 +1,4 @@
-Graphis albinula Müll. Arg. SPECIES
-=======
+# Graphis albinula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

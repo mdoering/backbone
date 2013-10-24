@@ -1,5 +1,4 @@
-Sphaeronaema leporum Marchal & É.J. Marchal SPECIES
-=======
+# Sphaeronaema leporum Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

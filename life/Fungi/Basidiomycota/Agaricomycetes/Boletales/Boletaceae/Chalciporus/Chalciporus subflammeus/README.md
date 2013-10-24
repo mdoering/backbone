@@ -1,5 +1,4 @@
-Chalciporus subflammeus (Berk.) Klofac & Krisai SPECIES
-=======
+# Chalciporus subflammeus (Berk.) Klofac & Krisai SPECIES
 
 #### Status
 ACCEPTED

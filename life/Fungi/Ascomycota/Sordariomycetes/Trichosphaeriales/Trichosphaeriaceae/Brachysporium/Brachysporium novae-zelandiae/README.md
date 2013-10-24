@@ -1,5 +1,4 @@
-Brachysporium novae-zelandiae S. Hughes, 1965 SPECIES
-=======
+# Brachysporium novae-zelandiae S. Hughes, 1965 SPECIES
 
 #### Status
 ACCEPTED

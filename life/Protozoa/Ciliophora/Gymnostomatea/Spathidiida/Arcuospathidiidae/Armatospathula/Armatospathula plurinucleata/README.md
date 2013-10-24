@@ -1,5 +1,4 @@
-Armatospathula plurinucleata Foissner & Xu, 2007 SPECIES
-=======
+# Armatospathula plurinucleata Foissner & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

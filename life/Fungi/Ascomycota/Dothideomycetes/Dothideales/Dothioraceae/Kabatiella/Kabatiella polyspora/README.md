@@ -1,5 +1,4 @@
-Kabatiella polyspora (Bubák & Syd.) Karak. SPECIES
-=======
+# Kabatiella polyspora (Bubák & Syd.) Karak. SPECIES
 
 #### Status
 ACCEPTED

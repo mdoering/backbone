@@ -1,5 +1,4 @@
-Cortinarius vacciniophilus Brandrud SPECIES
-=======
+# Cortinarius vacciniophilus Brandrud SPECIES
 
 #### Status
 ACCEPTED

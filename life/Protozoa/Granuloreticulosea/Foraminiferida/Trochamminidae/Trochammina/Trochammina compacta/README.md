@@ -1,5 +1,4 @@
-Trochammina compacta SPECIES
-=======
+# Trochammina compacta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma farinaceum Murrill SPECIES
-=======
+# Tricholoma farinaceum Murrill SPECIES
 
 #### Status
 ACCEPTED

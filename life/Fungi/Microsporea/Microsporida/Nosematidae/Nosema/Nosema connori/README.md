@@ -1,5 +1,4 @@
-Nosema connori Sprague SPECIES
-=======
+# Nosema connori Sprague SPECIES
 
 #### Status
 ACCEPTED

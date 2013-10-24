@@ -1,5 +1,4 @@
-Cortinarius castaneopallidus Carteret SPECIES
-=======
+# Cortinarius castaneopallidus Carteret SPECIES
 
 #### Status
 ACCEPTED

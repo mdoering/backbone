@@ -1,5 +1,4 @@
-Saccothecium hercynicum Kirschst. SPECIES
-=======
+# Saccothecium hercynicum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

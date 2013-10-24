@@ -1,5 +1,4 @@
-Porina peraffinis Müll. Arg. SPECIES
-=======
+# Porina peraffinis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

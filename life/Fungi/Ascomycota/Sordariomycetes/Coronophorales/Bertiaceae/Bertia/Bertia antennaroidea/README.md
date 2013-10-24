@@ -1,5 +1,4 @@
-Bertia antennaroidea Z.Q. Yuan SPECIES
-=======
+# Bertia antennaroidea Z.Q. Yuan SPECIES
 
 #### Status
 ACCEPTED

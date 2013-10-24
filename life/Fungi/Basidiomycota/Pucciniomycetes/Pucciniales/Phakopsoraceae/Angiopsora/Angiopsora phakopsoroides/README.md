@@ -1,5 +1,4 @@
-Angiopsora phakopsoroides (Arthur & Mains) Mains SPECIES
-=======
+# Angiopsora phakopsoroides (Arthur & Mains) Mains SPECIES
 
 #### Status
 ACCEPTED

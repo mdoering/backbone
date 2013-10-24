@@ -1,5 +1,4 @@
-Niesslia globospora Etayo SPECIES
-=======
+# Niesslia globospora Etayo SPECIES
 
 #### Status
 ACCEPTED

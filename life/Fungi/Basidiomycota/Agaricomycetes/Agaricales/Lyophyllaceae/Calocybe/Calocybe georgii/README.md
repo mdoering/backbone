@@ -1,5 +1,4 @@
-Calocybe georgii (L.) Kühner ex Kalamees SPECIES
-=======
+# Calocybe georgii (L.) Kühner ex Kalamees SPECIES
 
 #### Status
 ACCEPTED

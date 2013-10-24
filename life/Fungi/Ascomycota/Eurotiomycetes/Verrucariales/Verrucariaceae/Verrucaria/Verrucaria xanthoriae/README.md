@@ -1,5 +1,4 @@
-Verrucaria xanthoriae f. xanthoriae FORM
-=======
+# Verrucaria xanthoriae Wedd. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. bot. Fr. 21: 374 (1874)
 
 #### Original name
-Verrucaria xanthoriae f. xanthoriae
+Verrucaria xanthoriae Wedd.
 
 ### Remarks
 null

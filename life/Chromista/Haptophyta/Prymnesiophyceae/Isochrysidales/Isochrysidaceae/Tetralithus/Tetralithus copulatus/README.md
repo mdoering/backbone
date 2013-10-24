@@ -1,5 +1,4 @@
-Tetralithus copulatus Deflandre SPECIES
-=======
+# Tetralithus copulatus Deflandre SPECIES
 
 #### Status
 ACCEPTED

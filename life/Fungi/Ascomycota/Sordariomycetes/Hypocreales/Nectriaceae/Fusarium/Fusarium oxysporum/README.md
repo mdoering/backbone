@@ -1,17 +1,16 @@
-Fusarium oxysporum f. sp FORM
-=======
+# Fusarium oxysporum Schltdl., 1824 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-GRIN Taxonomy for Plants
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Amer. J. Bot. 27:66. 1940
+Fl. berol. (Berlin) 2: 139 (1824)
 
 #### Original name
-null
+Fusarium oxysporum Schltdl., 1824
 
 ### Remarks
 null

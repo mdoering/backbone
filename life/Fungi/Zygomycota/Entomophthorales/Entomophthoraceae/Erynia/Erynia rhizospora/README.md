@@ -1,14 +1,13 @@
-Empusa rhizospora Thaxt., 1888 SPECIES
-=======
+# Erynia rhizospora (Thaxt.) Remaud. & Hennebert, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Memoirs of the Boston Soc. Nat. Hist. 4(6): 183 (1888)
+Mycotaxon 11(1): 302 (1980)
 
 #### Original name
 Empusa rhizospora Thaxt., 1888

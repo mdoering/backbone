@@ -1,5 +1,4 @@
-Coccolithus tenuistriatus Kamptner SPECIES
-=======
+# Coccolithus tenuistriatus Kamptner SPECIES
 
 #### Status
 ACCEPTED

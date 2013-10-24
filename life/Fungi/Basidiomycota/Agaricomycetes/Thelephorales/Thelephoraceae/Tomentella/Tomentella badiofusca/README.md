@@ -1,5 +1,4 @@
-Tomentella badiofusca var. badiofusca VARIETY
-=======
+# Tomentella badiofusca Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hyménomyc. de France (Sceaux) 497 (1928)
 
 #### Original name
-Tomentella badiofusca var. badiofusca
+Tomentella badiofusca Bourdot & Galzin
 
 ### Remarks
 null

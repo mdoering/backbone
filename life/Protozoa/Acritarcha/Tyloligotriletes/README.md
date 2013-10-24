@@ -1,5 +1,4 @@
-Tyloligotriletes GENUS
-=======
+# Tyloligotriletes GENUS
 
 #### Status
 ACCEPTED

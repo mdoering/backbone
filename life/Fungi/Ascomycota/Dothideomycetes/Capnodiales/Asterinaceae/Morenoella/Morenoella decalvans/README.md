@@ -1,5 +1,4 @@
-Morenoella decalvans (Pat.) Theiss. SPECIES
-=======
+# Morenoella decalvans (Pat.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

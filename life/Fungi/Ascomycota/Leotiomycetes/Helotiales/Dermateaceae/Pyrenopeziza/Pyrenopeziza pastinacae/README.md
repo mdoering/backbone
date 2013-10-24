@@ -1,14 +1,13 @@
-Mollisia pastinacae Nannf., 1932 SPECIES
-=======
+# Pyrenopeziza pastinacae (Nannf.) Gremmen, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 4 8(2): 127 (1932)
+Fungus 28: 42 (1958)
 
 #### Original name
 Mollisia pastinacae Nannf., 1932

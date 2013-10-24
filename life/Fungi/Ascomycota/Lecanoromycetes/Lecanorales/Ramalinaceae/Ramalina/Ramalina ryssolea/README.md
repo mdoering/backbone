@@ -1,5 +1,4 @@
-Ramalina ryssolea SPECIES
-=======
+# Ramalina ryssolea SPECIES
 
 #### Status
 ACCEPTED

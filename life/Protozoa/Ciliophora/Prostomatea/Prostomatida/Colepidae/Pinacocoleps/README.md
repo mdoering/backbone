@@ -1,5 +1,4 @@
-Pinacocoleps Diesing, 1866 GENUS
-=======
+# Pinacocoleps Diesing, 1866 GENUS
 
 #### Status
 ACCEPTED

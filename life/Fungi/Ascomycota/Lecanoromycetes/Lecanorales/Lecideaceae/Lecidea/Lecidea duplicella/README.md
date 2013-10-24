@@ -1,5 +1,4 @@
-Lecidea duplicella Nyl. SPECIES
-=======
+# Lecidea duplicella Nyl. SPECIES
 
 #### Status
 ACCEPTED

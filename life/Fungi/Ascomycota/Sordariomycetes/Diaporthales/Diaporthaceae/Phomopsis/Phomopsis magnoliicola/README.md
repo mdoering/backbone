@@ -1,14 +1,13 @@
-Phoma magnoliicola Syd. & P. Syd., 1900 SPECIES
-=======
+# Phomopsis magnoliicola (Syd. & P. Syd.) Died., 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia, Beibl. 39: 2 (1900)
+Annls mycol. 9(1): 26 (1911)
 
 #### Original name
 Phoma magnoliicola Syd. & P. Syd., 1900

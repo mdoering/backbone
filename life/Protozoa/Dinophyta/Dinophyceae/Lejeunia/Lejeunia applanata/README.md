@@ -1,5 +1,4 @@
-Lejeunia applanata M. R. Bradford SPECIES
-=======
+# Lejeunia applanata M. R. Bradford SPECIES
 
 #### Status
 ACCEPTED

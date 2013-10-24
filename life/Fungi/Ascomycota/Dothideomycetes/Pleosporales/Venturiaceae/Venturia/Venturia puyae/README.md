@@ -1,5 +1,4 @@
-Venturia puyae Speg. SPECIES
-=======
+# Venturia puyae Speg. SPECIES
 
 #### Status
 ACCEPTED

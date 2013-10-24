@@ -1,5 +1,4 @@
-Lachnea heterothrix (Clem.) Sacc. & D. Sacc. SPECIES
-=======
+# Lachnea heterothrix (Clem.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

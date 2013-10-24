@@ -1,5 +1,4 @@
-Vermicularia discoidea Ellis & Langl. SPECIES
-=======
+# Vermicularia discoidea Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

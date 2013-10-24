@@ -1,5 +1,4 @@
-Phyllosticta cryptomeriae Kawam. SPECIES
-=======
+# Phyllosticta cryptomeriae Kawam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rhizidium apiculatum (A. Braun) Zopf, 1884 SPECIES
-=======
+# Entophlyctis apiculata (A. Braun) A. Fisch., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta Acad. Caes. Leop. -Carol. 47: 207 (1884)
+Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(4): 117 (1892)
 
 #### Original name
 Chytridium apiculatum A. Braun, 1856

@@ -1,5 +1,4 @@
-Cantharellula intermedia (Kauffman) Singer SPECIES
-=======
+# Cantharellula intermedia (Kauffman) Singer SPECIES
 
 #### Status
 ACCEPTED

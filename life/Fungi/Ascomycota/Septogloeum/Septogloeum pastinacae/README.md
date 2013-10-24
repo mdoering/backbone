@@ -1,5 +1,4 @@
-Septogloeum pastinacae Bres. SPECIES
-=======
+# Septogloeum pastinacae Bres. SPECIES
 
 #### Status
 ACCEPTED

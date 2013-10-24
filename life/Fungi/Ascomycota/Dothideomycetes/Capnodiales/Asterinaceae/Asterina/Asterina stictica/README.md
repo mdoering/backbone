@@ -1,5 +1,4 @@
-Asterina stictica Berk. SPECIES
-=======
+# Asterina stictica Berk. SPECIES
 
 #### Status
 ACCEPTED

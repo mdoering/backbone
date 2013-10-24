@@ -1,5 +1,4 @@
-Caryotoma GENUS
-=======
+# Caryotoma GENUS
 
 #### Status
 ACCEPTED

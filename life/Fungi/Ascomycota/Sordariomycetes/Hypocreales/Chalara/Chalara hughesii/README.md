@@ -1,5 +1,4 @@
-Chalara hughesii Nag Raj & W.B. Kendr., 1974 SPECIES
-=======
+# Chalara hughesii Nag Raj & W.B. Kendr., 1974 SPECIES
 
 #### Status
 ACCEPTED

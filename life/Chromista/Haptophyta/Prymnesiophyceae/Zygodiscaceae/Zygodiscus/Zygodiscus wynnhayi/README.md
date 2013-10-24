@@ -1,5 +1,4 @@
-Zygodiscus wynnhayi J.B. Risatti SPECIES
-=======
+# Zygodiscus wynnhayi J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

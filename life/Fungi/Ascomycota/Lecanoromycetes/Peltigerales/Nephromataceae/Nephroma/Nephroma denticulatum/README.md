@@ -1,5 +1,4 @@
-Nephroma denticulatum (Vain.) Gyeln. SPECIES
-=======
+# Nephroma denticulatum (Vain.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

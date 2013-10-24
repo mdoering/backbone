@@ -1,5 +1,4 @@
-Cortinarius colymbadinus Fr. SPECIES
-=======
+# Cortinarius colymbadinus Fr. SPECIES
 
 #### Status
 ACCEPTED

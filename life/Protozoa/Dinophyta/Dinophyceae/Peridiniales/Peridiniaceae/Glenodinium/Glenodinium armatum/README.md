@@ -1,5 +1,4 @@
-Glenodinium armatum Levander SPECIES
-=======
+# Glenodinium armatum Levander SPECIES
 
 #### Status
 ACCEPTED

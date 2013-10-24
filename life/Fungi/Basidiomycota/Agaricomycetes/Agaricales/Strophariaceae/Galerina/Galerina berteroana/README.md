@@ -1,5 +1,4 @@
-Galerina berteroana Singer SPECIES
-=======
+# Galerina berteroana Singer SPECIES
 
 #### Status
 ACCEPTED

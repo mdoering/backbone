@@ -1,5 +1,4 @@
-Pseudomycena acicularum Velen. SPECIES
-=======
+# Pseudomycena acicularum Velen. SPECIES
 
 #### Status
 ACCEPTED

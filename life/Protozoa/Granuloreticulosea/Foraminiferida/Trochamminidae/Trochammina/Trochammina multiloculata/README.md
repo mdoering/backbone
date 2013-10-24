@@ -1,5 +1,4 @@
-Trochammina multiloculata Höglund, 1947 SPECIES
-=======
+# Trochammina multiloculata Höglund, 1947 SPECIES
 
 #### Status
 ACCEPTED

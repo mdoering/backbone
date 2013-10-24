@@ -1,5 +1,4 @@
-Ceramothyrium calycanthi Bat. SPECIES
-=======
+# Ceramothyrium calycanthi Bat. SPECIES
 
 #### Status
 ACCEPTED

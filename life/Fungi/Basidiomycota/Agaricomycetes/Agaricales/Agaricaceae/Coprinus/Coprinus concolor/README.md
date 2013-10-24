@@ -1,5 +1,4 @@
-Coprinus concolor Copel. SPECIES
-=======
+# Coprinus concolor Copel. SPECIES
 
 #### Status
 ACCEPTED

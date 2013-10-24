@@ -1,5 +1,4 @@
-Helicobacter cetorum Harper et al., 2006 SPECIES
-=======
+# Helicobacter cetorum Harper et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

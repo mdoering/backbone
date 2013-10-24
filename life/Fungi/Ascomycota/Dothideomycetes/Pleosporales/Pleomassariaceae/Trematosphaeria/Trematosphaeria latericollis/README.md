@@ -1,5 +1,4 @@
-Trematosphaeria latericollis Fuckel SPECIES
-=======
+# Trematosphaeria latericollis Fuckel SPECIES
 
 #### Status
 ACCEPTED

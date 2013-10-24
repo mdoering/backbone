@@ -1,5 +1,4 @@
-Lopadium duplicatum (Vain.) SPECIES
-=======
+# Lopadium duplicatum (Vain.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scirrhia silvatica L. Holm & K. Holm SPECIES
-=======
+# Scirrhia silvatica L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discorbis scabriculus (Chapman) SPECIES
-=======
+# Discorbis scabriculus (Chapman) SPECIES
 
 #### Status
 ACCEPTED

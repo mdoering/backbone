@@ -1,5 +1,4 @@
-Coniothyrium septorioides Cooke & Massee SPECIES
-=======
+# Coniothyrium septorioides Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

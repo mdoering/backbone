@@ -1,17 +1,16 @@
-Polyporus sulphureus var. wilsonianus (Lloyd) Cleland & Cheel, 1917 VARIETY
-=======
+# Polyporus anthracophilus Cooke, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 12(no. 61): 16 (1883)
 
 #### Original name
-Polyporus wilsonianus Lloyd, 1914
+Polyporus anthracophilus Cooke, 1883
 
 ### Remarks
 null

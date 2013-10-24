@@ -1,5 +1,4 @@
-Mycoplasma glycophilum Forrest & Bradbury, 1984 SPECIES
-=======
+# Mycoplasma glycophilum Forrest & Bradbury, 1984 SPECIES
 
 #### Status
 ACCEPTED

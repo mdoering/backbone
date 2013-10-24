@@ -1,5 +1,4 @@
-Caloplaca velaniza (M. Choisy & Werner) Zahlbr. SPECIES
-=======
+# Caloplaca velaniza (M. Choisy & Werner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

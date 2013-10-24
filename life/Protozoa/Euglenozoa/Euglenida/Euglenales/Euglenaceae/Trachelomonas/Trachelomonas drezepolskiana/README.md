@@ -1,5 +1,4 @@
-Trachelomonas drezepolskiana Conrad SPECIES
-=======
+# Trachelomonas drezepolskiana Conrad SPECIES
 
 #### Status
 ACCEPTED

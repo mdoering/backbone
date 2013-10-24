@@ -1,5 +1,4 @@
-Hydnum herpetodon Lév. SPECIES
-=======
+# Hydnum herpetodon Lév. SPECIES
 
 #### Status
 ACCEPTED

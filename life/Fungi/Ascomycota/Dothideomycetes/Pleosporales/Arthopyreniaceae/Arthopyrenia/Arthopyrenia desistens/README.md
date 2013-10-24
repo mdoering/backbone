@@ -1,5 +1,4 @@
-Arthopyrenia desistens (Nyl.) A.L. Sm. SPECIES
-=======
+# Arthopyrenia desistens (Nyl.) A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

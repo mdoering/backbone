@@ -1,5 +1,4 @@
-Asteroma scrophulariae Brunaud SPECIES
-=======
+# Asteroma scrophulariae Brunaud SPECIES
 
 #### Status
 ACCEPTED

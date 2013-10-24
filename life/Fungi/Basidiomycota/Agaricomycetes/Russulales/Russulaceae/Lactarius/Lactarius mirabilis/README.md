@@ -1,5 +1,4 @@
-Lactarius mirabilis Stubbe, Verbeken & Watling SPECIES
-=======
+# Lactarius mirabilis Stubbe, Verbeken & Watling SPECIES
 
 #### Status
 ACCEPTED

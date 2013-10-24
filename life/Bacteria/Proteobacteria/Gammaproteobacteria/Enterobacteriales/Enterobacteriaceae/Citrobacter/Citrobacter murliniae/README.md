@@ -1,5 +1,4 @@
-Citrobacter murliniae Brenner et al., 2000 SPECIES
-=======
+# Citrobacter murliniae Brenner et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

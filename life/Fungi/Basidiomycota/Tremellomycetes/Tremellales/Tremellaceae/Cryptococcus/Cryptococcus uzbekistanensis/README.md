@@ -1,5 +1,4 @@
-Cryptococcus uzbekistanensis Á. Fonseca, Scorzetti & Fell SPECIES
-=======
+# Cryptococcus uzbekistanensis Á. Fonseca, Scorzetti & Fell SPECIES
 
 #### Status
 ACCEPTED

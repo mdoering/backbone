@@ -1,5 +1,4 @@
-Metasphaeria cichorii Pass. SPECIES
-=======
+# Metasphaeria cichorii Pass. SPECIES
 
 #### Status
 ACCEPTED

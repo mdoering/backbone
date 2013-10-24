@@ -1,5 +1,4 @@
-Actinobolina smalli Holt, Lynn & Corliss, 1973 SPECIES
-=======
+# Actinobolina smalli Holt, Lynn & Corliss, 1973 SPECIES
 
 #### Status
 ACCEPTED

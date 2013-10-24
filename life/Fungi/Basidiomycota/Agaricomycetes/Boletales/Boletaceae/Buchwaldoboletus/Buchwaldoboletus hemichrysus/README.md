@@ -1,14 +1,13 @@
-Ceriomyces hemichrysus (Berk. & M.A. Curtis) Murrill, 1909 SPECIES
-=======
+# Buchwaldoboletus hemichrysus (Berk. & M.A. Curtis) Pilát, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 1(4): 148 (1909)
+Friesia 9: 217 (1969)
 
 #### Original name
 Boletus hemichrysus Berk. & M.A. Curtis, 1853

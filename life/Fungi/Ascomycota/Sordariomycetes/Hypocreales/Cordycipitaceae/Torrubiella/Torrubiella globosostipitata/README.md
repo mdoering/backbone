@@ -1,5 +1,4 @@
-Torrubiella globosostipitata Kobayasi & Shimizu SPECIES
-=======
+# Torrubiella globosostipitata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blitridium taxodii (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Blitridium taxodii (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

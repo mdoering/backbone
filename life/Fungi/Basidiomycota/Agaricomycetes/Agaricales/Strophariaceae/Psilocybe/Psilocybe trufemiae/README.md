@@ -1,17 +1,16 @@
-Psilocybe truphemi Guzmán & Bononi SPECIES
-=======
+# Psilocybe trufemiae Guzmán & Bononi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Guzmán, Bononi & Grandi, Mycotaxon 19: 344 (1984)
 
 #### Original name
-Psilocybe truphemi Guzmán & Bononi
+Psilocybe trufemiae Guzmán & Bononi
 
 ### Remarks
 null

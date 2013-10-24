@@ -1,5 +1,4 @@
-Patellaria olivaceorufa (Zenk.) Müll. Arg. SPECIES
-=======
+# Patellaria olivaceorufa (Zenk.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

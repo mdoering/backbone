@@ -1,14 +1,13 @@
-Verrucaria pallidula Nyl. SPECIES
-=======
+# Endocarpon pallidulum (Nyl.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 57: 73 (1874)
+in Hue, Nouvelles archives du Museum d'Histoire Naturelle, Paris, 3 Série 4: 106 (1892)
 
 #### Original name
 Verrucaria pallidula Nyl.

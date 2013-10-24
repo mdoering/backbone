@@ -1,5 +1,4 @@
-Polystictus sciurinus (Kalchbr.) Cooke SPECIES
-=======
+# Polystictus sciurinus (Kalchbr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

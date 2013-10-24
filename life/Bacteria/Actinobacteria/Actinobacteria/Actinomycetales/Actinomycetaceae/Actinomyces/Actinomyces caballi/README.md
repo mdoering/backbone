@@ -1,5 +1,4 @@
-Actinomyces caballi Morquer & Comby SPECIES
-=======
+# Actinomyces caballi Morquer & Comby SPECIES
 
 #### Status
 ACCEPTED

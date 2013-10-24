@@ -1,5 +1,4 @@
-Sclerophomella gentianae-asclepiadeae Petr. SPECIES
-=======
+# Sclerophomella gentianae-asclepiadeae Petr. SPECIES
 
 #### Status
 ACCEPTED

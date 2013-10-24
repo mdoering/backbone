@@ -1,5 +1,4 @@
-Distopyrenis Aptroot GENUS
-=======
+# Distopyrenis Aptroot GENUS
 
 #### Status
 ACCEPTED

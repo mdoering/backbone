@@ -1,5 +1,4 @@
-Rinodina antillarum Vain. SPECIES
-=======
+# Rinodina antillarum Vain. SPECIES
 
 #### Status
 ACCEPTED

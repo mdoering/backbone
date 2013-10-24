@@ -1,5 +1,4 @@
-Rhodotorula tokyoensis var. tokyoensis VARIETY
-=======
+# Rhodotorula tokyoensis Kobay. {?} SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Rep. Wood Saccharification Discussion Ctee (Japan) 2: 93 (1953)
 
 #### Original name
-Rhodotorula tokyoensis var. tokyoensis
+Rhodotorula tokyoensis Kobay. {?}
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diplodina lysimachiae (Oudem.) Sacc. & P. Syd. SPECIES
-=======
+# Diplodina lysimachiae (Oudem.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

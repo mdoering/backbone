@@ -1,5 +1,4 @@
-Lambertellinia Korf & Lizon GENUS
-=======
+# Lambertellinia Korf & Lizon GENUS
 
 #### Status
 ACCEPTED

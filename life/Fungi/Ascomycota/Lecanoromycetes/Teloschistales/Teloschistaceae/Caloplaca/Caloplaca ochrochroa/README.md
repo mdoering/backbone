@@ -1,14 +1,13 @@
-Callopisma ochrochroum Müll. Arg. SPECIES
-=======
+# Caloplaca ochrochroa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 1: 36 (1892)
+Cat. Lich. Univers. 7: 160 (1930)
 
 #### Original name
 Callopisma ochrochroum Müll. Arg.

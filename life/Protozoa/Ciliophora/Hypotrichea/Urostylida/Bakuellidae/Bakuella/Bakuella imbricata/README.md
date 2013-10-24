@@ -1,5 +1,4 @@
-Bakuella imbricata (Laackmann, 1910) Kofoid & Cambpell, 1929 SPECIES
-=======
+# Bakuella imbricata (Laackmann, 1910) Kofoid & Cambpell, 1929 SPECIES
 
 #### Status
 ACCEPTED

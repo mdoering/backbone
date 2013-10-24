@@ -1,5 +1,4 @@
-Buellia subpedicellata (Hue) Darb. SPECIES
-=======
+# Buellia subpedicellata (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

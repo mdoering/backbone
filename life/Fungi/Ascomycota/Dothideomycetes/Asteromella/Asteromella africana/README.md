@@ -1,5 +1,4 @@
-Asteromella africana Syd. SPECIES
-=======
+# Asteromella africana Syd. SPECIES
 
 #### Status
 ACCEPTED

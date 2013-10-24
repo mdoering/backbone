@@ -1,5 +1,4 @@
-Chaetothyrium bauhiniae Bat. & I.H. Lima SPECIES
-=======
+# Chaetothyrium bauhiniae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

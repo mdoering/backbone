@@ -1,5 +1,4 @@
-Eualectoria tortuosa (G. Merr.) Gyeln. SPECIES
-=======
+# Eualectoria tortuosa (G. Merr.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

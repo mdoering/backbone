@@ -1,5 +1,4 @@
-Scolecopeltella longispora var. longispora VARIETY
-=======
+# Scolecopeltella longispora (Earle) Bat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Scolecopeltella longispora var. longispora
+Micropeltis longispora Earle
 
 ### Remarks
 null

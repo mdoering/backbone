@@ -1,5 +1,4 @@
-Isthmolongispora basitruncata Matsush. SPECIES
-=======
+# Isthmolongispora basitruncata Matsush. SPECIES
 
 #### Status
 ACCEPTED

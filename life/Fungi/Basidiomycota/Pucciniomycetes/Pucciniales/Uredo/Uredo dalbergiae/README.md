@@ -1,5 +1,4 @@
-Uredo dalbergiae Henn. SPECIES
-=======
+# Uredo dalbergiae Henn. SPECIES
 
 #### Status
 ACCEPTED

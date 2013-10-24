@@ -1,5 +1,4 @@
-Lecidea subdisjungenda Zahlbr. SPECIES
-=======
+# Lecidea subdisjungenda Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

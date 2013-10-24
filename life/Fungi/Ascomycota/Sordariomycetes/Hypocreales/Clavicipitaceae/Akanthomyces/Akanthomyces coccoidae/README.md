@@ -1,5 +1,4 @@
-Akanthomyces coccoidae ined. SPECIES
-=======
+# Akanthomyces coccoidae ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrothrix flagella (Cooke & Ellis) Piroz. SPECIES
-=======
+# Gyrothrix flagella (Cooke & Ellis) Piroz. SPECIES
 
 #### Status
 ACCEPTED

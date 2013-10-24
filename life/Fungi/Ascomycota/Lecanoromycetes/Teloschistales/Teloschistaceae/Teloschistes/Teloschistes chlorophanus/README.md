@@ -1,5 +1,4 @@
-Teloschistes chlorophanus (Wahlenb.) Norman SPECIES
-=======
+# Teloschistes chlorophanus (Wahlenb.) Norman SPECIES
 
 #### Status
 ACCEPTED

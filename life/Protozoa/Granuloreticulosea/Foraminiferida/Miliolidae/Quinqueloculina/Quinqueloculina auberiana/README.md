@@ -1,5 +1,4 @@
-Quinqueloculina auberiana SPECIES
-=======
+# Quinqueloculina auberiana SPECIES
 
 #### Status
 ACCEPTED

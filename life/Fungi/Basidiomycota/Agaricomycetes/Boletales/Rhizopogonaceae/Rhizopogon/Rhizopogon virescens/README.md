@@ -1,5 +1,4 @@
-Rhizopogon virescens P. Karst. SPECIES
-=======
+# Rhizopogon virescens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

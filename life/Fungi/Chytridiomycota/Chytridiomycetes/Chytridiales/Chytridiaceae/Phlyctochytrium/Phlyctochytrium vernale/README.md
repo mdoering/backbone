@@ -1,5 +1,4 @@
-Phlyctochytrium vernale Zopf SPECIES
-=======
+# Phlyctochytrium vernale Zopf SPECIES
 
 #### Status
 ACCEPTED

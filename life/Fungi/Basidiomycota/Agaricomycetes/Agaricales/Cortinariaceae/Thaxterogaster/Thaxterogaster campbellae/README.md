@@ -1,5 +1,4 @@
-Thaxterogaster campbellae (Berk. & Broome ex Zeller & C.W. Dodge) G.W. Beaton, Pegler & T.W.K. Young SPECIES
-=======
+# Thaxterogaster campbellae (Berk. & Broome ex Zeller & C.W. Dodge) G.W. Beaton, Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

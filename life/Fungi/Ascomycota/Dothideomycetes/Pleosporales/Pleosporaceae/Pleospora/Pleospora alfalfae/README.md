@@ -1,5 +1,4 @@
-Pleospora alfalfae E.G. Simmons, 1986 SPECIES
-=======
+# Pleospora alfalfae E.G. Simmons, 1986 SPECIES
 
 #### Status
 ACCEPTED

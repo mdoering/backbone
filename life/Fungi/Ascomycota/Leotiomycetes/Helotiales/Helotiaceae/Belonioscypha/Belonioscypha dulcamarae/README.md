@@ -1,5 +1,4 @@
-Belonioscypha dulcamarae Feltgen SPECIES
-=======
+# Belonioscypha dulcamarae Feltgen SPECIES
 
 #### Status
 ACCEPTED

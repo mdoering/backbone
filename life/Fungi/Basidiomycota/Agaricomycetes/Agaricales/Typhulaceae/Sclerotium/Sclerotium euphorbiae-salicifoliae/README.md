@@ -1,5 +1,4 @@
-Sclerotium euphorbiae-salicifoliae Savul. & Sandu SPECIES
-=======
+# Sclerotium euphorbiae-salicifoliae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

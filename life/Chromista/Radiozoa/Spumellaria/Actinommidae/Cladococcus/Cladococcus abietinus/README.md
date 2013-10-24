@@ -1,5 +1,4 @@
-Cladococcus abietinus Haeckel, 1887 SPECIES
-=======
+# Cladococcus abietinus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

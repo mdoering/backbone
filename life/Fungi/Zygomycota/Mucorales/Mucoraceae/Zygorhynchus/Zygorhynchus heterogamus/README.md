@@ -1,17 +1,16 @@
-Mucor neglectus Vuill., 1887 SPECIES
-=======
+# Zygorhynchus heterogamus (Vuill.) Vuill., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Séanc. Soc. Sci. Nancy, Sér. 2 8: 83 (1887)
+Bull. Soc. mycol. Fr. 19: 117 (1903)
 
 #### Original name
-Mucor neglectus Vuill., 1887
+Mucor heterogamus Vuill., 1887
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clavulinopsis tenerrima (Massee & Crossl.) Corner SPECIES
-=======
+# Clavulinopsis tenerrima (Massee & Crossl.) Corner SPECIES
 
 #### Status
 ACCEPTED

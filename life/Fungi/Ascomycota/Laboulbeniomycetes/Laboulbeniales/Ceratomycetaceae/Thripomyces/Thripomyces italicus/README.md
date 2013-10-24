@@ -1,5 +1,4 @@
-Thripomyces italicus Speg., 1915 SPECIES
-=======
+# Thripomyces italicus Speg., 1915 SPECIES
 
 #### Status
 ACCEPTED

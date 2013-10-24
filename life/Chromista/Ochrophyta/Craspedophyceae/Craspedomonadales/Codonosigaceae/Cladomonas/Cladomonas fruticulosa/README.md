@@ -1,5 +1,4 @@
-Cladomonas fruticulosa Stein SPECIES
-=======
+# Cladomonas fruticulosa Stein SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetosphaeria potentillae Rostr. SPECIES
-=======
+# Chaetosphaeria potentillae Rostr. SPECIES
 
 #### Status
 ACCEPTED

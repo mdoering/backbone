@@ -1,5 +1,4 @@
-Enteroramus Lichtw., M.M. White, Cafaro & Misra GENUS
-=======
+# Enteroramus Lichtw., M.M. White, Cafaro & Misra GENUS
 
 #### Status
 ACCEPTED

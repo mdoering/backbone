@@ -1,5 +1,4 @@
-Hygrocybe bubalinoviscida A.M. Young SPECIES
-=======
+# Hygrocybe bubalinoviscida A.M. Young SPECIES
 
 #### Status
 ACCEPTED

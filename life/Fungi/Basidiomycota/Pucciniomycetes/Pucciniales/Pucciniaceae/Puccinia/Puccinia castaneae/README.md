@@ -1,5 +1,4 @@
-Puccinia castaneae Dietel SPECIES
-=======
+# Puccinia castaneae Dietel SPECIES
 
 #### Status
 ACCEPTED

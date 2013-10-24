@@ -1,8 +1,7 @@
-Geaster sowerbyi Corda SPECIES
-=======
+# Geastrum sowerbyi Corda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster sowerbyi Corda
+Geastrum sowerbyi Corda
 
 ### Remarks
 null

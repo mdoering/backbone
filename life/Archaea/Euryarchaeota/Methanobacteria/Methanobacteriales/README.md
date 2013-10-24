@@ -1,5 +1,4 @@
-Methanobacteriales ORDER
-=======
+# Methanobacteriales ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stachylina manicata M.C. Williams & Lichtw., 1984 SPECIES
-=======
+# Stachylina manicata M.C. Williams & Lichtw., 1984 SPECIES
 
 #### Status
 ACCEPTED

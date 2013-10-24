@@ -1,5 +1,4 @@
-Thelephora crocea Schrad. ex J.F. Gmel. SPECIES
-=======
+# Thelephora crocea Schrad. ex J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

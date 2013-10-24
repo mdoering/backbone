@@ -1,5 +1,4 @@
-Euplotes balticus Kahl, 1932 SPECIES
-=======
+# Euplotes balticus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

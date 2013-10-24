@@ -1,5 +1,4 @@
-Carnobacterium Collns, Farrow, Phillips, Feresu & Jones, 1987 GENUS
-=======
+# Carnobacterium Collns, Farrow, Phillips, Feresu & Jones, 1987 GENUS
 
 #### Status
 ACCEPTED

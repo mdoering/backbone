@@ -1,5 +1,4 @@
-Poria vesiculosa (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Poria vesiculosa (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

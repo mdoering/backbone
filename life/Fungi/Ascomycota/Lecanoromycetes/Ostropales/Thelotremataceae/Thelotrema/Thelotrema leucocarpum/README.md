@@ -1,14 +1,13 @@
-Phaeotrema leucocarpum (Nyl.) Zahlbr. SPECIES
-=======
+# Thelotrema leucocarpum Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 608 (1923)
+Annls Sci. Nat. , Bot. , sér. 4 19: 333 (1863)
 
 #### Original name
 Thelotrema leucocarpum Nyl.

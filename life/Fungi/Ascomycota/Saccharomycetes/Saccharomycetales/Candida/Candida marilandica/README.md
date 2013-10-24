@@ -1,5 +1,4 @@
-Candida marilandica Kurtzman, 2007 SPECIES
-=======
+# Candida marilandica Kurtzman, 2007 SPECIES
 
 #### Status
 ACCEPTED

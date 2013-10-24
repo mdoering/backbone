@@ -1,5 +1,4 @@
-Roesleria candida (Speg.) Sacc. SPECIES
-=======
+# Roesleria candida (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

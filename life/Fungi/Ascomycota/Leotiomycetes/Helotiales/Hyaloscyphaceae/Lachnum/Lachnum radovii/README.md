@@ -1,5 +1,4 @@
-Lachnum radovii Svrcek SPECIES
-=======
+# Lachnum radovii Svrcek SPECIES
 
 #### Status
 ACCEPTED

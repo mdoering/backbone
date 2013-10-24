@@ -1,5 +1,4 @@
-Lachnella niduliformis (Murrill) Locq. SPECIES
-=======
+# Lachnella niduliformis (Murrill) Locq. SPECIES
 
 #### Status
 ACCEPTED

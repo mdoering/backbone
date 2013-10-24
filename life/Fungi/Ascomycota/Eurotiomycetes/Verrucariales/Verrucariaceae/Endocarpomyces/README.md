@@ -1,5 +1,4 @@
-Endocarpomyces GENUS
-=======
+# Endocarpomyces GENUS
 
 #### Status
 ACCEPTED

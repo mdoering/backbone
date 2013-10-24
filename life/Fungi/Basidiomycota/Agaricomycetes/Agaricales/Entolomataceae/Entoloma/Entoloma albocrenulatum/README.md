@@ -1,5 +1,4 @@
-Entoloma albocrenulatum E. Horak SPECIES
-=======
+# Entoloma albocrenulatum E. Horak SPECIES
 
 #### Status
 ACCEPTED

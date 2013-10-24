@@ -1,5 +1,4 @@
-Sphaerophoma brencklei Petr., 1924 SPECIES
-=======
+# Sphaerophoma brencklei Petr., 1924 SPECIES
 
 #### Status
 ACCEPTED

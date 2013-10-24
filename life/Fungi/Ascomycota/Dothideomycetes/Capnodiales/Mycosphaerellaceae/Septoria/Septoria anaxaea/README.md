@@ -1,5 +1,4 @@
-Septoria anaxaea Sacc. SPECIES
-=======
+# Septoria anaxaea Sacc. SPECIES
 
 #### Status
 ACCEPTED

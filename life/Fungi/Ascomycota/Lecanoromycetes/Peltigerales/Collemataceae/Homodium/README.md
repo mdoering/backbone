@@ -1,5 +1,4 @@
-Homodium GENUS
-=======
+# Homodium GENUS
 
 #### Status
 ACCEPTED

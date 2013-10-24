@@ -1,5 +1,4 @@
-Cladonia uleana Müll. Arg. SPECIES
-=======
+# Cladonia uleana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

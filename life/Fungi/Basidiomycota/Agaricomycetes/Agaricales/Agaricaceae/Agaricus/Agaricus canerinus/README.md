@@ -1,5 +1,4 @@
-Agaricus canerinus Meyer SPECIES
-=======
+# Agaricus canerinus Meyer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus bryantii Copel. SPECIES
-=======
+# Coprinus bryantii Copel. SPECIES
 
 #### Status
 ACCEPTED

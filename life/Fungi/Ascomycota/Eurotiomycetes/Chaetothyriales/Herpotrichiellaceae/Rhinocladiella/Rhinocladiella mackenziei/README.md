@@ -1,5 +1,4 @@
-Rhinocladiella mackenziei (C.K. Campb. & Al-Hedaithy) Arzanlou & Crous, 2007 SPECIES
-=======
+# Rhinocladiella mackenziei (C.K. Campb. & Al-Hedaithy) Arzanlou & Crous, 2007 SPECIES
 
 #### Status
 ACCEPTED

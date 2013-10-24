@@ -1,5 +1,4 @@
-Hypoxylon rogersii A. Pande SPECIES
-=======
+# Hypoxylon rogersii A. Pande SPECIES
 
 #### Status
 ACCEPTED

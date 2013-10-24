@@ -1,5 +1,4 @@
-Leptonia forquignonii Quél. SPECIES
-=======
+# Leptonia forquignonii Quél. SPECIES
 
 #### Status
 ACCEPTED

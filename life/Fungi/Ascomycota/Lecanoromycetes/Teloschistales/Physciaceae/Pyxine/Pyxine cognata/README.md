@@ -1,5 +1,4 @@
-Pyxine cognata Stirt. SPECIES
-=======
+# Pyxine cognata Stirt. SPECIES
 
 #### Status
 ACCEPTED

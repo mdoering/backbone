@@ -1,14 +1,13 @@
-Lecidea lateritia Taylor SPECIES
-=======
+# Caloplaca lateritia (Taylor) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-London J. Bot. 6: 149 (1847)
+Cat. Lich. Univers. 7: 154 (1930)
 
 #### Original name
 Lecidea lateritia Taylor

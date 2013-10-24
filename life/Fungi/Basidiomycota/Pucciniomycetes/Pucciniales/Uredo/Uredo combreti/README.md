@@ -1,5 +1,4 @@
-Uredo combreti F. Kern & Thurst. SPECIES
-=======
+# Uredo combreti F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

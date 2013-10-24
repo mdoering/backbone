@@ -1,5 +1,4 @@
-Wickerhamomyces canadensis (Wick.) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Wickerhamomyces canadensis (Wick.) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
 ACCEPTED

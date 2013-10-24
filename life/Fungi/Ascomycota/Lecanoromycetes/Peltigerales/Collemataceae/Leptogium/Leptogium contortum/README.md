@@ -1,5 +1,4 @@
-Leptogium contortum Sierk SPECIES
-=======
+# Leptogium contortum Sierk SPECIES
 
 #### Status
 ACCEPTED

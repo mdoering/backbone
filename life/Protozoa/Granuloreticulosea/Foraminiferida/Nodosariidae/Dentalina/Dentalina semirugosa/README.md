@@ -1,5 +1,4 @@
-Dentalina semirugosa (d'Orbigny) SPECIES
-=======
+# Dentalina semirugosa (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

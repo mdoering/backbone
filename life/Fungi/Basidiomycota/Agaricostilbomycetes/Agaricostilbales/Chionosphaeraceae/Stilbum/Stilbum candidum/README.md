@@ -1,5 +1,4 @@
-Stilbum candidum Fuckel SPECIES
-=======
+# Stilbum candidum Fuckel SPECIES
 
 #### Status
 ACCEPTED

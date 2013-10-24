@@ -1,5 +1,4 @@
-Autoicomyces marginalis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Autoicomyces marginalis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus globocephalus Lloyd SPECIES
-=======
+# Polyporus globocephalus Lloyd SPECIES
 
 #### Status
 ACCEPTED

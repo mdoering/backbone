@@ -1,5 +1,4 @@
-Chaetomium pimprinum Aruna & Gopalkr. SPECIES
-=======
+# Chaetomium pimprinum Aruna & Gopalkr. SPECIES
 
 #### Status
 ACCEPTED

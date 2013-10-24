@@ -1,5 +1,4 @@
-Acarospora suprasedens H. Magn. SPECIES
-=======
+# Acarospora suprasedens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

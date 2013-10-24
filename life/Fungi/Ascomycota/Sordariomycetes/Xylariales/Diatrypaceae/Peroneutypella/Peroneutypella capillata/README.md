@@ -1,5 +1,4 @@
-Peroneutypella capillata (Ellis & Everh.) Berl. SPECIES
-=======
+# Peroneutypella capillata (Ellis & Everh.) Berl. SPECIES
 
 #### Status
 ACCEPTED

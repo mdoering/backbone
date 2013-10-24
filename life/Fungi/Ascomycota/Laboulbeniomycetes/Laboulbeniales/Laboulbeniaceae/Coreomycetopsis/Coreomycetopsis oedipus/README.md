@@ -1,5 +1,4 @@
-Coreomycetopsis oedipus Thaxt., 1920 SPECIES
-=======
+# Coreomycetopsis oedipus Thaxt., 1920 SPECIES
 
 #### Status
 ACCEPTED

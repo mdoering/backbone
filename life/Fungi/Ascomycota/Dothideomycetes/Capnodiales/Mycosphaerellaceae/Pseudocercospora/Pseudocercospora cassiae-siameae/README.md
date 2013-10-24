@@ -1,5 +1,4 @@
-Pseudocercospora cassiae-siameae (Chidd.) Deighton SPECIES
-=======
+# Pseudocercospora cassiae-siameae (Chidd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

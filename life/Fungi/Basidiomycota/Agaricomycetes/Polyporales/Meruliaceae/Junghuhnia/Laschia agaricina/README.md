@@ -1,5 +1,4 @@
-Laschia agaricina (Mont.) Pat. SPECIES
-=======
+# Laschia agaricina (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes thujae J.D. Zhao SPECIES
-=======
+# Trametes thujae J.D. Zhao SPECIES
 
 #### Status
 ACCEPTED

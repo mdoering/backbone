@@ -1,5 +1,4 @@
-Puccinia pallidissima Speg. SPECIES
-=======
+# Puccinia pallidissima Speg. SPECIES
 
 #### Status
 ACCEPTED

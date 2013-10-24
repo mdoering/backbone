@@ -1,5 +1,4 @@
-Dermatocarpon ceuthocarpum (Wahlenb.) Servít SPECIES
-=======
+# Dermatocarpon ceuthocarpum (Wahlenb.) Servít SPECIES
 
 #### Status
 ACCEPTED

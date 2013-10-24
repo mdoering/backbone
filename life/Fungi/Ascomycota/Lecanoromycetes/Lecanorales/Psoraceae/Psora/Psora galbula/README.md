@@ -1,5 +1,4 @@
-Psora galbula SPECIES
-=======
+# Psora galbula SPECIES
 
 #### Status
 ACCEPTED

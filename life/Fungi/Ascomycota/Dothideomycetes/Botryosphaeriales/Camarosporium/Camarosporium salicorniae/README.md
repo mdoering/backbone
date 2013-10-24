@@ -1,5 +1,4 @@
-Camarosporium salicorniae Hansf. SPECIES
-=======
+# Camarosporium salicorniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

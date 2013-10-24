@@ -1,5 +1,4 @@
-Agaricus omnituens Berk. SPECIES
-=======
+# Agaricus omnituens Berk. SPECIES
 
 #### Status
 ACCEPTED

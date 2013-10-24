@@ -1,5 +1,4 @@
-Hysterangium crassirhachis Zeller & C.W. Dodge SPECIES
-=======
+# Hysterangium crassirhachis Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tomentella spinosispora Cížek, 2004 SPECIES
-=======
+# Tomentella spinosispora Cížek, 2004 SPECIES
 
 #### Status
 ACCEPTED

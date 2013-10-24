@@ -1,5 +1,4 @@
-Mycosphaerella bupleurina Petr. SPECIES
-=======
+# Mycosphaerella bupleurina Petr. SPECIES
 
 #### Status
 ACCEPTED

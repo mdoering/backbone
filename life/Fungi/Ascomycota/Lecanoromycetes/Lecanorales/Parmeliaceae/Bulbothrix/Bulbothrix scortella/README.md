@@ -1,5 +1,4 @@
-Bulbothrix scortella (Nyl.) Hale SPECIES
-=======
+# Bulbothrix scortella (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

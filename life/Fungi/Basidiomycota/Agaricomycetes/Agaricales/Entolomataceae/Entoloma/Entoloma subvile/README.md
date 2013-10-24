@@ -1,5 +1,4 @@
-Entoloma subvile (Peck) Hesler SPECIES
-=======
+# Entoloma subvile (Peck) Hesler SPECIES
 
 #### Status
 ACCEPTED

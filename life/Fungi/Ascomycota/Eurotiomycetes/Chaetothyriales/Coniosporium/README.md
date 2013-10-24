@@ -1,5 +1,4 @@
-Coniosporium Link, 1809 GENUS
-=======
+# Coniosporium Link, 1809 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta rugulosa Taylor SPECIES
-=======
+# Sticta rugulosa Taylor SPECIES
 
 #### Status
 ACCEPTED

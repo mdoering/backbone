@@ -1,5 +1,4 @@
-Pavlova gyrans Butcher SPECIES
-=======
+# Pavlova gyrans Butcher SPECIES
 
 #### Status
 ACCEPTED

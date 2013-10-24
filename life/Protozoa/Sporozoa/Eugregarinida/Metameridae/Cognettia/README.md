@@ -1,5 +1,4 @@
-Cognettia Levine, 1979 GENUS
-=======
+# Cognettia Levine, 1979 GENUS
 
 #### Status
 ACCEPTED

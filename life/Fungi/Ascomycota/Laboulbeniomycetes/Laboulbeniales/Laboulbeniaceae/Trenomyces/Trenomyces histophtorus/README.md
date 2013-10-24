@@ -1,5 +1,4 @@
-Trenomyces histophtorus Chatton & F. Picard, 1908 SPECIES
-=======
+# Trenomyces histophtorus Chatton & F. Picard, 1908 SPECIES
 
 #### Status
 ACCEPTED

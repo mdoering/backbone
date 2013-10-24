@@ -1,5 +1,4 @@
-Inocybe oreadoides Carteret SPECIES
-=======
+# Inocybe oreadoides Carteret SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiosphaera angustilabra (Berk. & Broome) SPECIES
-=======
+# Lophiosphaera angustilabra (Berk. & Broome) SPECIES
 
 #### Status
 ACCEPTED

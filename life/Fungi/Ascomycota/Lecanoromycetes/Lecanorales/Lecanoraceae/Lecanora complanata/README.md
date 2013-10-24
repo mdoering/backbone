@@ -1,5 +1,4 @@
-Lecanora complanata f. complanata FORM
-=======
+# Lecanora complanata Harm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora complanata f. complanata
+Lecanora complanata Harm.
 
 ### Remarks
 null

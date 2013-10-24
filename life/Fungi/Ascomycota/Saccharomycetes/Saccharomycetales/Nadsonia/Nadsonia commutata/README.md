@@ -1,5 +1,4 @@
-Nadsonia commutata Golubev, 1973 SPECIES
-=======
+# Nadsonia commutata Golubev, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea nigrocinnamomea C.W. Dodge SPECIES
-=======
+# Lecidea nigrocinnamomea C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

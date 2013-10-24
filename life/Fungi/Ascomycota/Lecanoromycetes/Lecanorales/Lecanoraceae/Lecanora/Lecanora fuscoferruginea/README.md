@@ -1,5 +1,4 @@
-Lecanora fuscoferruginea SPECIES
-=======
+# Lecanora fuscoferruginea SPECIES
 
 #### Status
 ACCEPTED

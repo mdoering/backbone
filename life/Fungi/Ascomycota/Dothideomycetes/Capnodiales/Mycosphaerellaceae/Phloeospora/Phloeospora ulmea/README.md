@@ -1,5 +1,4 @@
-Phloeospora ulmea Politis SPECIES
-=======
+# Phloeospora ulmea Politis SPECIES
 
 #### Status
 ACCEPTED

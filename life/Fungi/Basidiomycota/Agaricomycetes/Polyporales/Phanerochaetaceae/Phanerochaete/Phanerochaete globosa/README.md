@@ -1,17 +1,16 @@
-Phanerochaete globosum Sang H. Lin & Z.C. Chen SPECIES
-=======
+# Phanerochaete globosa Sang H. Lin & Z.C. Chen, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taiwania 35(2): 100 (1990)
 
 #### Original name
-Phanerochaete globosum Sang H. Lin & Z.C. Chen
+Phanerochaete globosa Sang H. Lin & Z.C. Chen, 1990
 
 ### Remarks
 null

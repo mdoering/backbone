@@ -1,5 +1,4 @@
-Microthyriella inaequalis Bat. SPECIES
-=======
+# Microthyriella inaequalis Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium isatidis F. Re SPECIES
-=======
+# Aecidium isatidis F. Re SPECIES
 
 #### Status
 ACCEPTED

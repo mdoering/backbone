@@ -1,5 +1,4 @@
-Stictis collospermi P.R. Johnst. SPECIES
-=======
+# Stictis collospermi P.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synsphaeridium gotlandicum Eisenack, 1965 SPECIES
-=======
+# Synsphaeridium gotlandicum Eisenack, 1965 SPECIES
 
 #### Status
 ACCEPTED

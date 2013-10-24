@@ -1,17 +1,16 @@
-Gloeosporium glochidionis Sawada SPECIES
-=======
+# Gloeosporium glochidii Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Special Bulletin Agricultural Experiment Station Formosa 19: 656 (1919)
 
 #### Original name
-Gloeosporium glochidionis Sawada
+Gloeosporium glochidii Sawada
 
 ### Remarks
 null

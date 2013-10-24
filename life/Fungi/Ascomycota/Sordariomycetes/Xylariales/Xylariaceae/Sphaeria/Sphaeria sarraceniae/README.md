@@ -1,5 +1,4 @@
-Sphaeria sarraceniae Schwein. SPECIES
-=======
+# Sphaeria sarraceniae Schwein. SPECIES
 
 #### Status
 ACCEPTED

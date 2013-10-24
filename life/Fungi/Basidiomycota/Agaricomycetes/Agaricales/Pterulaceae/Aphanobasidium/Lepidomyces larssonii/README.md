@@ -1,5 +1,4 @@
-Lepidomyces larssonii Grosse-Brauckm. SPECIES
-=======
+# Lepidomyces larssonii Grosse-Brauckm. SPECIES
 
 #### Status
 ACCEPTED

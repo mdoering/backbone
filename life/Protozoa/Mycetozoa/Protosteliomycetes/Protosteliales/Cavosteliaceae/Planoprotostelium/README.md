@@ -1,5 +1,4 @@
-Planoprotostelium L.S. Olive & Stoian. GENUS
-=======
+# Planoprotostelium L.S. Olive & Stoian. GENUS
 
 #### Status
 ACCEPTED

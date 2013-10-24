@@ -1,17 +1,16 @@
-Phlegmacium fulvoincarnatum Joachim ex M.M. Moser, 1953 SPECIES
-=======
+# Cortinarius fulvoincarnatus Joachim ex Bidaud, Moënne-Locc. & Reumaux, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams, Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Baupilze (Agaricales und Gastromycetes) 2b: 175 (1953)
+in Bidaud, Moënne-Loccoz, Reumaux, Carteret & Eyssartier, Atlas des Cortinaires (Meyzieu) 11: 613 (2001)
 
 #### Original name
-Phlegmacium fulvoincarnatum Joachim ex M.M. Moser, 1953
+Cortinarius fulvoincarnatus Joachim ex Bidaud, Moënne-Locc. & Reumaux, 2001
 
 ### Remarks
 null

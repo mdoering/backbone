@@ -1,5 +1,4 @@
-Tapeinosphaeridium N.S.Ioannides, G.N.Stavrinos & C.Downie GENUS
-=======
+# Tapeinosphaeridium N.S.Ioannides, G.N.Stavrinos & C.Downie GENUS
 
 #### Status
 ACCEPTED

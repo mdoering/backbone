@@ -1,5 +1,4 @@
-Halographis runica Kohlm. & Volkm.-Kohlm. SPECIES
-=======
+# Halographis runica Kohlm. & Volkm.-Kohlm. SPECIES
 
 #### Status
 ACCEPTED

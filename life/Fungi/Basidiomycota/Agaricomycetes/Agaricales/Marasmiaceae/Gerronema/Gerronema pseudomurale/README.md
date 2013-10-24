@@ -1,5 +1,4 @@
-Gerronema pseudomurale (Speg.) Singer SPECIES
-=======
+# Gerronema pseudomurale (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

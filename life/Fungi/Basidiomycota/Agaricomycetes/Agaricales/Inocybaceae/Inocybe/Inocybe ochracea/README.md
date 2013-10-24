@@ -1,5 +1,4 @@
-Inocybe ochracea Stangl SPECIES
-=======
+# Inocybe ochracea Stangl SPECIES
 
 #### Status
 ACCEPTED

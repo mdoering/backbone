@@ -1,5 +1,4 @@
-Tremella urticae Pers. SPECIES
-=======
+# Tremella urticae Pers. SPECIES
 
 #### Status
 ACCEPTED

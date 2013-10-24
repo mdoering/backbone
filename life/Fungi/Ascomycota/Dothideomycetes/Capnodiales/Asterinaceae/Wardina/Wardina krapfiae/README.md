@@ -1,5 +1,4 @@
-Wardina krapfiae Bat. & H. Maia SPECIES
-=======
+# Wardina krapfiae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

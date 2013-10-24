@@ -1,5 +1,4 @@
-Sporidesmium alytosporii Richon SPECIES
-=======
+# Sporidesmium alytosporii Richon SPECIES
 
 #### Status
 ACCEPTED

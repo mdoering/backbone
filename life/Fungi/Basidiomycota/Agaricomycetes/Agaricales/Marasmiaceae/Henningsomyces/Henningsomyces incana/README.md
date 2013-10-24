@@ -1,5 +1,4 @@
-Henningsomyces incana (Alb. & Schwein.) Kuntze SPECIES
-=======
+# Henningsomyces incana (Alb. & Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

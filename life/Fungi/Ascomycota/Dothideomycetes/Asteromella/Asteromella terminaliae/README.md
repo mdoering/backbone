@@ -1,5 +1,4 @@
-Asteromella terminaliae (Henn.) Aa SPECIES
-=======
+# Asteromella terminaliae (Henn.) Aa SPECIES
 
 #### Status
 ACCEPTED

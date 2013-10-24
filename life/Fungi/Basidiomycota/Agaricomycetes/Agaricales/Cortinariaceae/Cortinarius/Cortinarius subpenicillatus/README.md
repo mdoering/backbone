@@ -1,5 +1,4 @@
-Cortinarius subpenicillatus Carteret & Reumaux SPECIES
-=======
+# Cortinarius subpenicillatus Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

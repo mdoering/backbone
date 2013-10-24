@@ -1,5 +1,4 @@
-Anaeromyxobacter dehalogenans Sanford et al., 2002 SPECIES
-=======
+# Anaeromyxobacter dehalogenans Sanford et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

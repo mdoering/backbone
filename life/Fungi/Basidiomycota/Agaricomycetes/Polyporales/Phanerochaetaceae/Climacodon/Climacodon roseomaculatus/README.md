@@ -1,14 +1,13 @@
-Climacodon roseomaculatum (Henn. & E. Nyman) Jülich SPECIES
-=======
+# Climacodon roseomaculatus (Henn. & E. Nyman) Jülich, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 85: 400 (1982)
 
 #### Original name
 Hydnum roseomaculatum Henn. & E. Nyman, 1899

@@ -1,5 +1,4 @@
-Hendersonia sambucina Naumov SPECIES
-=======
+# Hendersonia sambucina Naumov SPECIES
 
 #### Status
 ACCEPTED

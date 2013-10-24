@@ -1,17 +1,16 @@
-Mastigomyces philippovi Imshen. & Kriss SPECIES
-=======
+# Mastigomyces philippovii Imshen. & Kriss, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Dokl. Akad. Nauk SSSR, ser. A, 1933 (1933)
 
 #### Original name
-Mastigomyces philippovi Imshen. & Kriss
+Mastigomyces philippovii Imshen. & Kriss, 1933
 
 ### Remarks
 null

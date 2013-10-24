@@ -1,5 +1,4 @@
-Euplotes patella subsp. patella SUBSPECIES
-=======
+# Euplotes patella (Müller, 1773) ? SPECIES
 
 #### Status
 ACCEPTED

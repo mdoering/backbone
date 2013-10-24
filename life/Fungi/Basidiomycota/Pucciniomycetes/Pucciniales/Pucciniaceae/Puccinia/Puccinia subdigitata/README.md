@@ -1,5 +1,4 @@
-Puccinia subdigitata Arthur & Holw. SPECIES
-=======
+# Puccinia subdigitata Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

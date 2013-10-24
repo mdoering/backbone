@@ -1,5 +1,4 @@
-Volvariopsis earleae (Murrill) Murrill SPECIES
-=======
+# Volvariopsis earleae (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

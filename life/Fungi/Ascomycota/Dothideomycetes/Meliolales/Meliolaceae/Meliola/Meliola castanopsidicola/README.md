@@ -1,17 +1,16 @@
-Meliola castanopsicola J.L. Crane & A.G. Jones SPECIES
-=======
+# Meliola castanopsidicola J.L. Crane & A.G. Jones SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 77: 146 (2001)
 
 #### Original name
-Meliola castanopsicola J.L. Crane & A.G. Jones
+Meliola castanopsis Budathoki & P.N. Singh
 
 ### Remarks
 null

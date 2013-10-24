@@ -1,5 +1,4 @@
-Trichoderma brevicompactum G.F. Kraus, C.P. Kubicek & W. Gams SPECIES
-=======
+# Trichoderma brevicompactum G.F. Kraus, C.P. Kubicek & W. Gams SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora hungarica (Moesz) Wehm. SPECIES
-=======
+# Pleospora hungarica (Moesz) Wehm. SPECIES
 
 #### Status
 ACCEPTED

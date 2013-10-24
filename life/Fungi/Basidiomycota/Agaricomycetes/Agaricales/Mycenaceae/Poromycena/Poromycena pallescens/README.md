@@ -1,5 +1,4 @@
-Poromycena pallescens Boedijn SPECIES
-=======
+# Poromycena pallescens Boedijn SPECIES
 
 #### Status
 ACCEPTED

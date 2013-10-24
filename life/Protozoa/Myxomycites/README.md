@@ -1,5 +1,4 @@
-Myxomycites Mesch. GENUS
-=======
+# Myxomycites Mesch. GENUS
 
 #### Status
 ACCEPTED

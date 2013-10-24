@@ -1,5 +1,4 @@
-Lecanora dimorphodes (Hue) Zahlbr. SPECIES
-=======
+# Lecanora dimorphodes (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

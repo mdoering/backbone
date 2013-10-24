@@ -1,17 +1,16 @@
-Catenulaster anacardicola Bat. & C.A.A. Costa SPECIES
-=======
+# Catenulaster anacardiicola Bat. & C.A.A. Costa, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Batista & Ciferri, Mycopath. Mycol. appl. 11(1-2): 9 (1959)
 
 #### Original name
-Catenulaster anacardicola Bat. & C.A.A. Costa
+Catenulaster anacardiicola Bat. & C.A.A. Costa, 1959
 
 ### Remarks
 null

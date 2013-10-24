@@ -1,5 +1,4 @@
-Secoliga atrosanguinea (Hepp) SPECIES
-=======
+# Secoliga atrosanguinea (Hepp) SPECIES
 
 #### Status
 ACCEPTED

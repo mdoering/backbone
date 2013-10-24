@@ -1,17 +1,16 @@
-Cortinarius safranopes var. laevipes Reumaux VARIETY
-=======
+# Cortinarius safranopes Rob. Henry, 1938 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bidaud, Moënne-Loccoz, Reumaux & Henry, Atlas des Cortinaires, Hors-Serie 1: 150 (1997)
+Bull. trimest. Soc. mycol. Fr. 54: 95 (1938)
 
 #### Original name
-Cortinarius safranopes var. laevipes Reumaux
+Cortinarius safranopes Rob. Henry, 1938
 
 ### Remarks
 null

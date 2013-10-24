@@ -1,5 +1,4 @@
-Irenopsis lagerstroemiae var. lagerstroemiae VARIETY
-=======
+# Irenopsis lagerstroemiae Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Batista, Nascimento & Maia, Publções Inst. Micol. Recife 25: 5 (1956)
 
 #### Original name
-Irenopsis lagerstroemiae var. lagerstroemiae
+Irenopsis lagerstroemiae Bat. & Nascim.
 
 ### Remarks
 null

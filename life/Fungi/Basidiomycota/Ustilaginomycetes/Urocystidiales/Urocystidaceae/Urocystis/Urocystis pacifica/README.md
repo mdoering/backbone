@@ -1,5 +1,4 @@
-Urocystis pacifica (Lavrov) Zundel SPECIES
-=======
+# Urocystis pacifica (Lavrov) Zundel SPECIES
 
 #### Status
 ACCEPTED

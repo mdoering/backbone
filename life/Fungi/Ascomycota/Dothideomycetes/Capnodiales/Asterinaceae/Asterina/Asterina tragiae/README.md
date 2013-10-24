@@ -1,5 +1,4 @@
-Asterina tragiae S. Hughes SPECIES
-=======
+# Asterina tragiae S. Hughes SPECIES
 
 #### Status
 ACCEPTED

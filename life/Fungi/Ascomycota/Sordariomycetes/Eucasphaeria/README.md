@@ -1,5 +1,4 @@
-Eucasphaeria Crous GENUS
-=======
+# Eucasphaeria Crous GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriostigmella guatteriae (G. Arnaud) SPECIES
-=======
+# Myriostigmella guatteriae (G. Arnaud) SPECIES
 
 #### Status
 ACCEPTED

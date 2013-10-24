@@ -1,5 +1,4 @@
-Marasmiellus foliicola Singer SPECIES
-=======
+# Marasmiellus foliicola Singer SPECIES
 
 #### Status
 ACCEPTED

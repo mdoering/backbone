@@ -1,5 +1,4 @@
-Pertusaria kagamugana Elix & A.W. Archer SPECIES
-=======
+# Pertusaria kagamugana Elix & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

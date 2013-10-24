@@ -1,5 +1,4 @@
-Coniothyrium macrospermum (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Coniothyrium macrospermum (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

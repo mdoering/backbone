@@ -1,5 +1,4 @@
-Phaeodimeriella asterinae Ahn & J.L. Crane, 2004 SPECIES
-=======
+# Phaeodimeriella asterinae Ahn & J.L. Crane, 2004 SPECIES
 
 #### Status
 ACCEPTED

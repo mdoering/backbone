@@ -1,5 +1,4 @@
-Psammina elegiae S.J. Lee & Crous SPECIES
-=======
+# Psammina elegiae S.J. Lee & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia cooperta (Desm.) Sacc. SPECIES
-=======
+# Laestadia cooperta (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

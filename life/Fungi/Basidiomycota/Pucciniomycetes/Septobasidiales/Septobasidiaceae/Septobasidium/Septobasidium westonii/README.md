@@ -1,17 +1,16 @@
-Septobasidium westoni Couch SPECIES
-=======
+# Septobasidium westonii Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lankesteriana 4(1): 95 (2004)
 
 #### Original name
-Septobasidium westoni Couch
+Septobasidium westonii Couch ex L.D. Gómez & Henk
 
 ### Remarks
 null

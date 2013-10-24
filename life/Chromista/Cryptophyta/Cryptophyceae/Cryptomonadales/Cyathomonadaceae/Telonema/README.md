@@ -1,5 +1,4 @@
-Telonema Griessmann, 1913 GENUS
-=======
+# Telonema Griessmann, 1913 GENUS
 
 #### Status
 ACCEPTED

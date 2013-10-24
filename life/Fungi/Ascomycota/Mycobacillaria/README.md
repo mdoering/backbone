@@ -1,5 +1,4 @@
-Mycobacillaria Naumov GENUS
-=======
+# Mycobacillaria Naumov GENUS
 
 #### Status
 ACCEPTED

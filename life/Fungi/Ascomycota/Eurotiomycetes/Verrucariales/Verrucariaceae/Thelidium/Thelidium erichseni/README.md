@@ -1,5 +1,4 @@
-Thelidium erichseni Keissl. SPECIES
-=======
+# Thelidium erichseni Keissl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeophyscia echinata (Frey) N.S. Golubk. SPECIES
-=======
+# Phaeophyscia echinata (Frey) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

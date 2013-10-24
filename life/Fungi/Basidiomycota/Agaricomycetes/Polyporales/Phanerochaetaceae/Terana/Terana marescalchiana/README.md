@@ -1,5 +1,4 @@
-Terana marescalchiana (Mancini & Sacc.) Kuntze SPECIES
-=======
+# Terana marescalchiana (Mancini & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

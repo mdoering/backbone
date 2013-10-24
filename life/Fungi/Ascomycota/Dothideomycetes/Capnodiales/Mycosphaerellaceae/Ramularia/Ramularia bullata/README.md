@@ -1,5 +1,4 @@
-Ramularia bullata (Ellis & Everh.) U. Braun SPECIES
-=======
+# Ramularia bullata (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

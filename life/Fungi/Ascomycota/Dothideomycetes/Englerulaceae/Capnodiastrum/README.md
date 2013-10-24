@@ -1,5 +1,4 @@
-Capnodiastrum Speg. GENUS
-=======
+# Capnodiastrum Speg. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella myrtillina (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella myrtillina (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

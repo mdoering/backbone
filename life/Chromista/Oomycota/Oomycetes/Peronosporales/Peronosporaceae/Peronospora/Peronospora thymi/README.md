@@ -1,5 +1,4 @@
-Peronospora thymi P. Syd. SPECIES
-=======
+# Peronospora thymi P. Syd. SPECIES
 
 #### Status
 ACCEPTED

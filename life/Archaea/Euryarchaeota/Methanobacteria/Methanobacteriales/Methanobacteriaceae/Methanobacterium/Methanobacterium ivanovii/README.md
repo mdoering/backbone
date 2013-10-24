@@ -1,5 +1,4 @@
-Methanobacterium ivanovii Jain et al., 1988 SPECIES
-=======
+# Methanobacterium ivanovii Jain et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

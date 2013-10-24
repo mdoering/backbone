@@ -1,5 +1,4 @@
-Tintinnopsis cratera (Leidy) Hada SPECIES
-=======
+# Tintinnopsis cratera (Leidy) Hada SPECIES
 
 #### Status
 ACCEPTED

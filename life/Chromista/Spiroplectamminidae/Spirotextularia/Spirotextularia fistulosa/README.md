@@ -1,8 +1,7 @@
-Textularia sagittula var. fistulosa Brady, 1884 VARIETY
-=======
+# Spirotextularia fistulosa (Brady, 1884) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

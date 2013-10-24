@@ -1,5 +1,4 @@
-Cortinarius crassoides M.M. Moser SPECIES
-=======
+# Cortinarius crassoides M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

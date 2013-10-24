@@ -1,5 +1,4 @@
-Collema spongiosum Fée SPECIES
-=======
+# Collema spongiosum Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecaniella hymenocarpa (Vain.) Vain. SPECIES
-=======
+# Lecaniella hymenocarpa (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

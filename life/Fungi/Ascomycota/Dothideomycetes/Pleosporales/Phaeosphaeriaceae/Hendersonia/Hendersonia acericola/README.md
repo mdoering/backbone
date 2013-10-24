@@ -1,5 +1,4 @@
-Hendersonia acericola Sacc. SPECIES
-=======
+# Hendersonia acericola Sacc. SPECIES
 
 #### Status
 ACCEPTED

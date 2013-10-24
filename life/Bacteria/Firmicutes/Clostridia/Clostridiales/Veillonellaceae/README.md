@@ -1,5 +1,4 @@
-Veillonellaceae FAMILY
-=======
+# Veillonellaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linkiella tenuis (Burrill) Syd. SPECIES
-=======
+# Linkiella tenuis (Burrill) Syd. SPECIES
 
 #### Status
 ACCEPTED

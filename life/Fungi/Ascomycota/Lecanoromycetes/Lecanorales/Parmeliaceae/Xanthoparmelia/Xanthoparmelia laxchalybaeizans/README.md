@@ -1,5 +1,4 @@
-Xanthoparmelia laxchalybaeizans Hale SPECIES
-=======
+# Xanthoparmelia laxchalybaeizans Hale SPECIES
 
 #### Status
 ACCEPTED

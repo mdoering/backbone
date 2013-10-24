@@ -1,5 +1,4 @@
-Biatorina hemitropa (Nyl.) Hellb. SPECIES
-=======
+# Biatorina hemitropa (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

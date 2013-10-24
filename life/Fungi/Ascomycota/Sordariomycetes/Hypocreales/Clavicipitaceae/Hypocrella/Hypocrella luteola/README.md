@@ -1,5 +1,4 @@
-Hypocrella luteola Hywel-Jones & Mongkolsamrit SPECIES
-=======
+# Hypocrella luteola Hywel-Jones & Mongkolsamrit SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Davidgallowaya Aptroot GENUS
-=======
+# Davidgallowaya Aptroot GENUS
 
 #### Status
 ACCEPTED

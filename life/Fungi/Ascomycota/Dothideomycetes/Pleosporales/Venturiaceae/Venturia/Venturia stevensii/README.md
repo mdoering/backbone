@@ -1,5 +1,4 @@
-Venturia stevensii (Syd.) E. Müll. SPECIES
-=======
+# Venturia stevensii (Syd.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

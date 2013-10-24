@@ -1,5 +1,4 @@
-Tulasnella echinospora P. Roberts, 2004 SPECIES
-=======
+# Tulasnella echinospora P. Roberts, 2004 SPECIES
 
 #### Status
 ACCEPTED

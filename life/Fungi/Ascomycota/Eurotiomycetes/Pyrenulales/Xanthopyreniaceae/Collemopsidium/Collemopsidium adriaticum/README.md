@@ -1,5 +1,4 @@
-Collemopsidium adriaticum var. adriaticum VARIETY
-=======
+# Collemopsidium adriaticum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 785 (1924)
 
 #### Original name
-Collemopsidium adriaticum var. adriaticum
+Collemopsidium adriaticum Zahlbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora polyspora SPECIES
-=======
+# Lecanora polyspora SPECIES
 
 #### Status
 ACCEPTED

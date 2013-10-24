@@ -1,5 +1,4 @@
-Polystictus lavendulus Lloyd SPECIES
-=======
+# Polystictus lavendulus Lloyd SPECIES
 
 #### Status
 ACCEPTED

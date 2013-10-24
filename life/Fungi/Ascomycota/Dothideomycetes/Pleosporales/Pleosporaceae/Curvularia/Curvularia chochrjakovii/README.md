@@ -1,5 +1,4 @@
-Curvularia chochrjakovii Gornostai, 1976 SPECIES
-=======
+# Curvularia chochrjakovii Gornostai, 1976 SPECIES
 
 #### Status
 ACCEPTED

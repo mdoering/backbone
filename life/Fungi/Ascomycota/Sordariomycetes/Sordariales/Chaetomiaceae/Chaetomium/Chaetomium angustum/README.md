@@ -1,5 +1,4 @@
-Chaetomium angustum Chivers, 1915 SPECIES
-=======
+# Chaetomium angustum Chivers, 1915 SPECIES
 
 #### Status
 ACCEPTED

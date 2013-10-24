@@ -1,5 +1,4 @@
-Scutiger caeruleoporus (Peck) Murrill SPECIES
-=======
+# Scutiger caeruleoporus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

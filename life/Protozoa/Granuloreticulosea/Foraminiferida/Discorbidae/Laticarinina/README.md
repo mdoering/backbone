@@ -1,17 +1,16 @@
-Carinina Galloway & Wissler, 1927 GENUS
-=======
+# Laticarinina Galloway & Wissler, 1927 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Paleont. , 1, 51.
+J. Paleont. , 1, 193.
 
 #### Original name
-null
+Carinina Galloway & Wissler, 1927
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tavaresiella hebri T. Majewski, 1980 SPECIES
-=======
+# Tavaresiella hebri T. Majewski, 1980 SPECIES
 
 #### Status
 ACCEPTED

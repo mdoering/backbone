@@ -1,5 +1,4 @@
-Lecania fuscelloides B. D. Ryan & van den Boom SPECIES
-=======
+# Lecania fuscelloides B. D. Ryan & van den Boom SPECIES
 
 #### Status
 ACCEPTED

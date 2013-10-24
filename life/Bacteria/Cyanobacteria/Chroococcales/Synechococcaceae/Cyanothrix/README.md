@@ -1,5 +1,4 @@
-Cyanothrix GENUS
-=======
+# Cyanothrix GENUS
 
 #### Status
 ACCEPTED

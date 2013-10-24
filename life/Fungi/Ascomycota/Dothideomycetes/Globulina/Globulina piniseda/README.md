@@ -1,5 +1,4 @@
-Globulina piniseda Velen. SPECIES
-=======
+# Globulina piniseda Velen. SPECIES
 
 #### Status
 ACCEPTED

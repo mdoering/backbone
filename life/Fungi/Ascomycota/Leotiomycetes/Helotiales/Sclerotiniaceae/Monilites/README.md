@@ -1,5 +1,4 @@
-Monilites Pampaloni, 1902 GENUS
-=======
+# Monilites Pampaloni, 1902 GENUS
 
 #### Status
 ACCEPTED

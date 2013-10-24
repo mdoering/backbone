@@ -1,5 +1,4 @@
-Arctoheppia GENUS
-=======
+# Arctoheppia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium rufofulvum Mont. SPECIES
-=======
+# Corticium rufofulvum Mont. SPECIES
 
 #### Status
 ACCEPTED

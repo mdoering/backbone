@@ -1,5 +1,4 @@
-Phomatospora berteroae Gäum. SPECIES
-=======
+# Phomatospora berteroae Gäum. SPECIES
 
 #### Status
 ACCEPTED

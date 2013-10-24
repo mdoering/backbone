@@ -1,5 +1,4 @@
-Entoloma austroroseum G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma austroroseum G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

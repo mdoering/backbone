@@ -1,5 +1,4 @@
-Chiodecton cincta Fée SPECIES
-=======
+# Chiodecton cincta Fée SPECIES
 
 #### Status
 ACCEPTED

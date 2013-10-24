@@ -1,5 +1,4 @@
-Laschia merulioides R. Heim SPECIES
-=======
+# Laschia merulioides R. Heim SPECIES
 
 #### Status
 ACCEPTED

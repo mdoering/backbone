@@ -1,5 +1,4 @@
-Omphalia lignatilis var. lignatilis VARIETY
-=======
+# Omphalia lignatilis anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Omphalia lignatilis var. lignatilis
+Omphalia lignatilis anon.
 
 ### Remarks
 null

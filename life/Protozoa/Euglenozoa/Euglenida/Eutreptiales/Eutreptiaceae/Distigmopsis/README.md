@@ -1,5 +1,4 @@
-Distigmopsis Hollande, 1942 GENUS
-=======
+# Distigmopsis Hollande, 1942 GENUS
 
 #### Status
 ACCEPTED

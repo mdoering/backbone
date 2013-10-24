@@ -1,5 +1,4 @@
-Lecanora denudata (Nyl.) Motyka SPECIES
-=======
+# Lecanora denudata (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

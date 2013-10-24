@@ -1,5 +1,4 @@
-Haplosporidium aulodrii Jírovec SPECIES
-=======
+# Haplosporidium aulodrii Jírovec SPECIES
 
 #### Status
 ACCEPTED

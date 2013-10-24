@@ -1,5 +1,4 @@
-Phyllosticta ashtonii H.Y. Yip SPECIES
-=======
+# Phyllosticta ashtonii H.Y. Yip SPECIES
 
 #### Status
 ACCEPTED

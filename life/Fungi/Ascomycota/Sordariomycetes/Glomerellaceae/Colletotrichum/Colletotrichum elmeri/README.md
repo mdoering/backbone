@@ -1,5 +1,4 @@
-Colletotrichum elmeri Syd. SPECIES
-=======
+# Colletotrichum elmeri Syd. SPECIES
 
 #### Status
 ACCEPTED

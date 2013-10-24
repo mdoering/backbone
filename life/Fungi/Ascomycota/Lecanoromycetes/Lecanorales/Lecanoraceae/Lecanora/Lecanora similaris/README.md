@@ -1,5 +1,4 @@
-Lecanora similaris (Hoffm.) Ach. SPECIES
-=======
+# Lecanora similaris (Hoffm.) Ach. SPECIES
 
 #### Status
 ACCEPTED

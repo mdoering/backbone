@@ -1,14 +1,13 @@
-Odontia rudis Bres., 1920 SPECIES
-=======
+# Peniophorella rude (Bres.) K.H. Larss., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 18(1/3): 42 (1920)
+Mycol. Res. 111(2): 192 (2007)
 
 #### Original name
 Odontia rudis Bres., 1920

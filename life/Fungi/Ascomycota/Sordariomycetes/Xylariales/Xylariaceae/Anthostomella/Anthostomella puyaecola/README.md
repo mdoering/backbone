@@ -1,5 +1,4 @@
-Anthostomella puyaecola Speg. SPECIES
-=======
+# Anthostomella puyaecola Speg. SPECIES
 
 #### Status
 ACCEPTED

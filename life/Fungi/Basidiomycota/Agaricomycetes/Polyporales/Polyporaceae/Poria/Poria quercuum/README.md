@@ -1,5 +1,4 @@
-Poria quercuum D.V. Baxter SPECIES
-=======
+# Poria quercuum D.V. Baxter SPECIES
 
 #### Status
 ACCEPTED

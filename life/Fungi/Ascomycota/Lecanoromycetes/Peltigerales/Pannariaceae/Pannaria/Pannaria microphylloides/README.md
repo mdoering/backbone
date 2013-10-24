@@ -1,5 +1,4 @@
-Pannaria microphylloides Nyl. SPECIES
-=======
+# Pannaria microphylloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleophoma eucalypti Z.Q. Yuan SPECIES
-=======
+# Coleophoma eucalypti Z.Q. Yuan SPECIES
 
 #### Status
 ACCEPTED

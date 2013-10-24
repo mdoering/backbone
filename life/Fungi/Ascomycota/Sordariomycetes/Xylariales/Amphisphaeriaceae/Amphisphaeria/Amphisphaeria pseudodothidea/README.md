@@ -1,5 +1,4 @@
-Amphisphaeria pseudodothidea Rehm SPECIES
-=======
+# Amphisphaeria pseudodothidea Rehm SPECIES
 
 #### Status
 ACCEPTED

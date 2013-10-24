@@ -1,5 +1,4 @@
-Cucurbitaria ostiolorum (Berk. & Cooke) Kuntze SPECIES
-=======
+# Cucurbitaria ostiolorum (Berk. & Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

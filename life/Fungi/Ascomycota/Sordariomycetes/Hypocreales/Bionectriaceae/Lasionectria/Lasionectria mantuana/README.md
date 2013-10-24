@@ -1,14 +1,13 @@
-Nectria mantuana Sacc. SPECIES
-=======
+# Lasionectria mantuana (Sacc.) Cooke, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 12: (1884)
 
 #### Original name
 Nectria mantuana Sacc.

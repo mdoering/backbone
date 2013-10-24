@@ -1,5 +1,4 @@
-Plicatura obliqua (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Plicatura obliqua (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

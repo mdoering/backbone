@@ -1,5 +1,4 @@
-Cylindrosporella conspicua H.C. Greene SPECIES
-=======
+# Cylindrosporella conspicua H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

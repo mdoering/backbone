@@ -1,14 +1,13 @@
-Ramularia beckeropsis (Hansf.) Deighton SPECIES
-=======
+# Ramularia beckeropsidis (Hansf.) Deighton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 133: 38 (1973)
 
 #### Original name
 Cercosporella beckeropsidis Hansf.

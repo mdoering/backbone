@@ -1,17 +1,16 @@
-Septoria podolica Bubák & Wróbl. SPECIES
-=======
+# Septoria podolina Bubák & Wróbl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 57: 334 (1916)
 
 #### Original name
-Septoria podolica Bubák & Wróbl.
+Septoria podolina Bubák & Wróbl.
 
 ### Remarks
 null

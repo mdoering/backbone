@@ -1,5 +1,4 @@
-Lechriopyla Lynch, 1930 GENUS
-=======
+# Lechriopyla Lynch, 1930 GENUS
 
 #### Status
 ACCEPTED

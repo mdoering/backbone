@@ -1,5 +1,4 @@
-Leptoporus coeruleus (Schumach.) Quél. SPECIES
-=======
+# Leptoporus coeruleus (Schumach.) Quél. SPECIES
 
 #### Status
 ACCEPTED

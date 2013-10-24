@@ -1,5 +1,4 @@
-Galorrheus cilicioides (Fr.) P. Kumm. SPECIES
-=======
+# Galorrheus cilicioides (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

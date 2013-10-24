@@ -1,5 +1,4 @@
-Intranstylum duplicatum Precht, 1935 SPECIES
-=======
+# Intranstylum duplicatum Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

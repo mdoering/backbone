@@ -1,5 +1,4 @@
-Lactarius tottoriensis Matsuura SPECIES
-=======
+# Lactarius tottoriensis Matsuura SPECIES
 
 #### Status
 ACCEPTED

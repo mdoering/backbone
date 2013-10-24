@@ -1,5 +1,4 @@
-Esfandiariomyces Ershad GENUS
-=======
+# Esfandiariomyces Ershad GENUS
 
 #### Status
 ACCEPTED

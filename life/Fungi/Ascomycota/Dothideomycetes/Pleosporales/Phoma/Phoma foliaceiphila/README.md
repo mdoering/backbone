@@ -1,5 +1,4 @@
-Phoma foliaceiphila Diederich, Kocourk. & Etayo SPECIES
-=======
+# Phoma foliaceiphila Diederich, Kocourk. & Etayo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota decurrens Velen. SPECIES
-=======
+# Pholiota decurrens Velen. SPECIES
 
 #### Status
 ACCEPTED

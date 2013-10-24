@@ -1,5 +1,4 @@
-Hexalastrum Haeckel, 1881 GENUS
-=======
+# Hexalastrum Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

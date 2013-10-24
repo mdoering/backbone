@@ -1,5 +1,4 @@
-Fuscoporella corruscans Murrill SPECIES
-=======
+# Fuscoporella corruscans Murrill SPECIES
 
 #### Status
 ACCEPTED

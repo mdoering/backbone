@@ -1,5 +1,4 @@
-Helminthosporium kok-saghyz Cherem. SPECIES
-=======
+# Helminthosporium kok-saghyz Cherem. SPECIES
 
 #### Status
 ACCEPTED

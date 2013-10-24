@@ -1,14 +1,13 @@
-Parmelia domingensis Ach. SPECIES
-=======
+# Heterodermia domingensis (Ach.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nuovo Giorn. Bot. Ital. 1: 114 (1869)
 
 #### Original name
 Parmelia domingensis Ach.

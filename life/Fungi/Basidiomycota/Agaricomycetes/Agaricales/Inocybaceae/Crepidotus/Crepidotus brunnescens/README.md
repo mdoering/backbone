@@ -1,5 +1,4 @@
-Crepidotus brunnescens Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus brunnescens Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

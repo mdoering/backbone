@@ -1,5 +1,4 @@
-Phragmidiites Babajan & Tasl. GENUS
-=======
+# Phragmidiites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

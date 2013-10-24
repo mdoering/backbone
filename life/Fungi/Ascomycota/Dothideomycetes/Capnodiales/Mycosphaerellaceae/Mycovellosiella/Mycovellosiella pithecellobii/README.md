@@ -1,5 +1,4 @@
-Mycovellosiella pithecellobii (J.L. Mulder) Deighton SPECIES
-=======
+# Mycovellosiella pithecellobii (J.L. Mulder) Deighton SPECIES
 
 #### Status
 ACCEPTED

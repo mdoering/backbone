@@ -1,5 +1,4 @@
-Eomicrhystridium aremoricanum Deflandre, 1968 SPECIES
-=======
+# Eomicrhystridium aremoricanum Deflandre, 1968 SPECIES
 
 #### Status
 ACCEPTED

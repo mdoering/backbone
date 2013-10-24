@@ -1,5 +1,4 @@
-Comesia cunicularia (Boud.) Sacc. SPECIES
-=======
+# Comesia cunicularia (Boud.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

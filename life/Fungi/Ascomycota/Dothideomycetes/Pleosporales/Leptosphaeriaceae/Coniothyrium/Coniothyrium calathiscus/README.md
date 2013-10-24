@@ -1,5 +1,4 @@
-Coniothyrium calathiscus (Corda) Kuntze SPECIES
-=======
+# Coniothyrium calathiscus (Corda) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhaphidospora friesii Mont. SPECIES
-=======
+# Rhaphidospora friesii Mont. SPECIES
 
 #### Status
 ACCEPTED

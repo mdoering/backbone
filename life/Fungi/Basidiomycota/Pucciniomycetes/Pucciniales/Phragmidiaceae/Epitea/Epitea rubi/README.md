@@ -1,5 +1,4 @@
-Epitea rubi Fr. SPECIES
-=======
+# Epitea rubi Fr. SPECIES
 
 #### Status
 ACCEPTED

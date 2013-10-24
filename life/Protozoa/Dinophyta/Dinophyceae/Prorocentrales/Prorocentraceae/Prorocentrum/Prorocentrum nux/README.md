@@ -1,5 +1,4 @@
-Prorocentrum nux Puigserver & Zingone SPECIES
-=======
+# Prorocentrum nux Puigserver & Zingone SPECIES
 
 #### Status
 ACCEPTED

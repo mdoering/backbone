@@ -1,5 +1,4 @@
-Apogaeumannomyces Matsush. GENUS
-=======
+# Apogaeumannomyces Matsush. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrovalsaria Petr. GENUS
-=======
+# Macrovalsaria Petr. GENUS
 
 #### Status
 ACCEPTED

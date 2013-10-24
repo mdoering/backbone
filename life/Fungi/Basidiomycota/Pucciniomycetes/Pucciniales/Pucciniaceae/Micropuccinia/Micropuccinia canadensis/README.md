@@ -1,5 +1,4 @@
-Micropuccinia canadensis (Arthur) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia canadensis (Arthur) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

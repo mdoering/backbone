@@ -1,5 +1,4 @@
-Microbispora thermodiastatica Nonomura and Ohara, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Microbispora thermodiastatica Nonomura and Ohara, 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

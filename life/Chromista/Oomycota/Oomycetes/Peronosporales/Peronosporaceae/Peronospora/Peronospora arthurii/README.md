@@ -1,5 +1,4 @@
-Peronospora arthurii Farl., 1883 SPECIES
-=======
+# Peronospora arthurii Farl., 1883 SPECIES
 
 #### Status
 ACCEPTED

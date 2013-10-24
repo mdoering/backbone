@@ -1,5 +1,4 @@
-Hygrophoropsis morganii (Peck) H.E. Bigelow SPECIES
-=======
+# Hygrophoropsis morganii (Peck) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

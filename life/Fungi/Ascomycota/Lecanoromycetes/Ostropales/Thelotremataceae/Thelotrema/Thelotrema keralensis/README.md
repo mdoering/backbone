@@ -1,5 +1,4 @@
-Thelotrema keralensis Patw. & Kulk. SPECIES
-=======
+# Thelotrema keralensis Patw. & Kulk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calicium pallescens Nyl. SPECIES
-=======
+# Calicium pallescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

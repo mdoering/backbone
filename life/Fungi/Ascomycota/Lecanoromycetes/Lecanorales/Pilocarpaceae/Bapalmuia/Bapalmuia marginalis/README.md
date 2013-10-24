@@ -1,14 +1,13 @@
-Helotiopsis marginalis Vain. SPECIES
-=======
+# Bapalmuia marginalis (Vain.) Sérus. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15: 151 (1921)
+Nordic Jl Bot. 13(4): 451 (1993)
 
 #### Original name
 Helotiopsis marginalis Vain.

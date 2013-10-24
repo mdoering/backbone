@@ -1,5 +1,4 @@
-Plasmopara acalyphae (G.W. Wilson) G.W. Wilson SPECIES
-=======
+# Plasmopara acalyphae (G.W. Wilson) G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

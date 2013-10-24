@@ -1,5 +1,4 @@
-Metopus pullus Kahl, 1932 SPECIES
-=======
+# Metopus pullus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

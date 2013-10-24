@@ -1,5 +1,4 @@
-Trichosporum euonymi Oudem. SPECIES
-=======
+# Trichosporum euonymi Oudem. SPECIES
 
 #### Status
 ACCEPTED

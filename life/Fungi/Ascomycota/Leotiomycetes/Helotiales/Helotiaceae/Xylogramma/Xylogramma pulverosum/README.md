@@ -1,5 +1,4 @@
-Xylogramma pulverosum Bacc. SPECIES
-=======
+# Xylogramma pulverosum Bacc. SPECIES
 
 #### Status
 ACCEPTED

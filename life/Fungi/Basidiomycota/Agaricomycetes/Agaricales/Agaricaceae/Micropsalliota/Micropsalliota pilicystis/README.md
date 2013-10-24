@@ -1,5 +1,4 @@
-Micropsalliota pilicystis Heinem. SPECIES
-=======
+# Micropsalliota pilicystis Heinem. SPECIES
 
 #### Status
 ACCEPTED

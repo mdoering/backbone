@@ -1,5 +1,4 @@
-Halostagnicola larsenii Castillo et al., 2006 SPECIES
-=======
+# Halostagnicola larsenii Castillo et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

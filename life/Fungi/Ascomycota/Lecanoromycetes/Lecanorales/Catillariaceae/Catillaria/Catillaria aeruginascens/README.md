@@ -1,5 +1,4 @@
-Catillaria aeruginascens (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria aeruginascens (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

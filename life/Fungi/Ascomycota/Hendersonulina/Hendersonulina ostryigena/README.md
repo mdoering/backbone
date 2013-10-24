@@ -1,5 +1,4 @@
-Hendersonulina ostryigena (Ellis & Dearn.) Tassi SPECIES
-=======
+# Hendersonulina ostryigena (Ellis & Dearn.) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus palmeranus Bogart SPECIES
-=======
+# Coprinus palmeranus Bogart SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus fumigatoides var. fumigatoides VARIETY
-=======
+# Aspergillus fumigatoides Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspergillus fumigatoides var. fumigatoides
+Aspergillus fumigatoides Bainier & Sartory
 
 ### Remarks
 null

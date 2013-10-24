@@ -1,5 +1,4 @@
-Metazythiopsis M. Morelet GENUS
-=======
+# Metazythiopsis M. Morelet GENUS
 
 #### Status
 ACCEPTED

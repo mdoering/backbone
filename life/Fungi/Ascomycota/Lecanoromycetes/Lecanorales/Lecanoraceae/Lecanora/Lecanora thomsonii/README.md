@@ -1,5 +1,4 @@
-Lecanora thomsonii H. Magn. SPECIES
-=======
+# Lecanora thomsonii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

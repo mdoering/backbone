@@ -1,5 +1,4 @@
-Psilocybe musci Cleland & Cheel SPECIES
-=======
+# Psilocybe musci Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

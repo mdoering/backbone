@@ -1,5 +1,4 @@
-Leprantha GENUS
-=======
+# Leprantha GENUS
 
 #### Status
 ACCEPTED

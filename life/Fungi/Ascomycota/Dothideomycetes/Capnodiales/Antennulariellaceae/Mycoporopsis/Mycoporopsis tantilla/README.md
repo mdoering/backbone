@@ -1,5 +1,4 @@
-Mycoporopsis tantilla Müll. Arg. SPECIES
-=======
+# Mycoporopsis tantilla Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

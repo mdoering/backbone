@@ -1,5 +1,4 @@
-Mycobacterium tuberculosis subsp. tuberculosis (Zopf, 1883) Lehmann & Neumann, 1896 SUBSPECIES
-=======
+# Mycobacterium tuberculosis (Zopf, 1883) Lehmann & Neumann, 1896 SPECIES
 
 #### Status
 ACCEPTED

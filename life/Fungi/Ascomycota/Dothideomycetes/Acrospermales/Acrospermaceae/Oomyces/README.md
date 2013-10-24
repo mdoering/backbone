@@ -1,5 +1,4 @@
-Oomyces Berk. & Broome GENUS
-=======
+# Oomyces Berk. & Broome GENUS
 
 #### Status
 ACCEPTED

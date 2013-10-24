@@ -1,5 +1,4 @@
-Cylindrosporium bombycinum Kalani SPECIES
-=======
+# Cylindrosporium bombycinum Kalani SPECIES
 
 #### Status
 ACCEPTED

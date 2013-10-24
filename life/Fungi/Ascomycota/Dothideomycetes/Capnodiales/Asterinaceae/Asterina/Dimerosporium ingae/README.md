@@ -1,5 +1,4 @@
-Dimerosporium ingae Henn. SPECIES
-=======
+# Dimerosporium ingae Henn. SPECIES
 
 #### Status
 ACCEPTED

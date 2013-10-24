@@ -1,5 +1,4 @@
-Parmelia lechleri Müll. Arg. SPECIES
-=======
+# Parmelia lechleri Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta astilbes Miura SPECIES
-=======
+# Phyllosticta astilbes Miura SPECIES
 
 #### Status
 ACCEPTED

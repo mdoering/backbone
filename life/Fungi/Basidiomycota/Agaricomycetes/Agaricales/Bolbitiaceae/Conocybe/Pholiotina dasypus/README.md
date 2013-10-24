@@ -1,5 +1,4 @@
-Pholiotina dasypus (Romagn.) P.-A. Moreau SPECIES
-=======
+# Pholiotina dasypus (Romagn.) P.-A. Moreau SPECIES
 
 #### Status
 ACCEPTED

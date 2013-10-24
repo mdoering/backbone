@@ -1,5 +1,4 @@
-Pseudosphaeriaceae Höhn. FAMILY
-=======
+# Pseudosphaeriaceae Höhn. FAMILY
 
 #### Status
 ACCEPTED

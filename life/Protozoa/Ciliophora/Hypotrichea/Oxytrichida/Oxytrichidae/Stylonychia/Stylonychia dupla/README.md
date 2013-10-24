@@ -1,5 +1,4 @@
-Stylonychia dupla Dumas SPECIES
-=======
+# Stylonychia dupla Dumas SPECIES
 
 #### Status
 ACCEPTED

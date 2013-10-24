@@ -1,5 +1,4 @@
-Laboulbenia subvulgaris Speg. SPECIES
-=======
+# Laboulbenia subvulgaris Speg. SPECIES
 
 #### Status
 ACCEPTED

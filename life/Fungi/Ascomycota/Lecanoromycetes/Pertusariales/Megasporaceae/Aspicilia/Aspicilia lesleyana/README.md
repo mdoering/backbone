@@ -1,5 +1,4 @@
-Aspicilia lesleyana Darb. SPECIES
-=======
+# Aspicilia lesleyana Darb. SPECIES
 
 #### Status
 ACCEPTED

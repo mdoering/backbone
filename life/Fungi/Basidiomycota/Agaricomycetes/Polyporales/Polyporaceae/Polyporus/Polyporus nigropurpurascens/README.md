@@ -1,5 +1,4 @@
-Polyporus nigropurpurascens Schwein. SPECIES
-=======
+# Polyporus nigropurpurascens Schwein. SPECIES
 
 #### Status
 ACCEPTED

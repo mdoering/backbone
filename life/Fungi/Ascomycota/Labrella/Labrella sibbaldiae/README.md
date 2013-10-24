@@ -1,5 +1,4 @@
-Labrella sibbaldiae Thüm. SPECIES
-=======
+# Labrella sibbaldiae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon subradicatus A.H. Sm. SPECIES
-=======
+# Rhizopogon subradicatus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

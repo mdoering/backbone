@@ -1,5 +1,4 @@
-Pertusaria boweniana A. W. Archer & Elix SPECIES
-=======
+# Pertusaria boweniana A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phymatotrichum pyramidale Bonord., 1851 SPECIES
-=======
+# Botrytis pyramidalis (Bonord.) Sacc., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handb. Allgem. mykol. (Stuttgart) 116 (1851)
+Syll. fung. (Abellini) 4: 135 (1886)
 
 #### Original name
 Phymatotrichum pyramidale Bonord., 1851

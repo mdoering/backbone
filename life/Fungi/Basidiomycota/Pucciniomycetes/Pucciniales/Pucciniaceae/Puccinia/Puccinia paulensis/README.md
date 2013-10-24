@@ -1,5 +1,4 @@
-Puccinia paulensis Rangel SPECIES
-=======
+# Puccinia paulensis Rangel SPECIES
 
 #### Status
 ACCEPTED

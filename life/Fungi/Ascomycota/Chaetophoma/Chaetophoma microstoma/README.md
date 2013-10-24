@@ -1,5 +1,4 @@
-Chaetophoma microstoma Speg. SPECIES
-=======
+# Chaetophoma microstoma Speg. SPECIES
 
 #### Status
 ACCEPTED

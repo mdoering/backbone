@@ -1,5 +1,4 @@
-Entolomina G. Arnaud GENUS
-=======
+# Entolomina G. Arnaud GENUS
 
 #### Status
 ACCEPTED

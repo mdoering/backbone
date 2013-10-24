@@ -1,5 +1,4 @@
-Ustilago welwitschiae Bres. SPECIES
-=======
+# Ustilago welwitschiae Bres. SPECIES
 
 #### Status
 ACCEPTED

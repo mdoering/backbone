@@ -1,8 +1,7 @@
-Micronectria syzigii Ciccar. SPECIES
-=======
+# Micronectria syzygii Ciccar. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Micronectria syzigii Ciccar.
+Micronectria syzygii Ciccar.
 
 ### Remarks
 null

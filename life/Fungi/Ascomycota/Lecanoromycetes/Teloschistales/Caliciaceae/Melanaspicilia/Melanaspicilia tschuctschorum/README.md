@@ -1,5 +1,4 @@
-Melanaspicilia tschuctschorum SPECIES
-=======
+# Melanaspicilia tschuctschorum SPECIES
 
 #### Status
 ACCEPTED

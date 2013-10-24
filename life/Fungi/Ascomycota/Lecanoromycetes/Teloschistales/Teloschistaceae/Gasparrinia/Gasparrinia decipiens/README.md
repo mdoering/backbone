@@ -1,5 +1,4 @@
-Gasparrinia decipiens f. decipiens FORM
-=======
+# Gasparrinia decipiens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gasparrinia decipiens f. decipiens
+null
 
 ### Remarks
 null

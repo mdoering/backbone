@@ -1,5 +1,4 @@
-Cordyceps stenocori Quél. SPECIES
-=======
+# Cordyceps stenocori Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agonium Örsted, 1844 GENUS
-=======
+# Agonium Örsted, 1844 GENUS
 
 #### Status
 ACCEPTED

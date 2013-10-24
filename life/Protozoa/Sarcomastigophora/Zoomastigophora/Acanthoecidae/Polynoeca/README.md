@@ -1,5 +1,4 @@
-Polynoeca W.S. Kent, 1878 GENUS
-=======
+# Polynoeca W.S. Kent, 1878 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletellus domingensis Ortiz & Lodge SPECIES
-=======
+# Boletellus domingensis Ortiz & Lodge SPECIES
 
 #### Status
 ACCEPTED

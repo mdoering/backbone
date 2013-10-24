@@ -1,5 +1,4 @@
-Sarcographa heteroclita (Mont.) Zahlbr. SPECIES
-=======
+# Sarcographa heteroclita (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

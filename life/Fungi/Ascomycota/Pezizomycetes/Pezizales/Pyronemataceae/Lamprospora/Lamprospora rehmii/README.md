@@ -1,5 +1,4 @@
-Lamprospora rehmii Benkert SPECIES
-=======
+# Lamprospora rehmii Benkert SPECIES
 
 #### Status
 ACCEPTED

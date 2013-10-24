@@ -1,5 +1,4 @@
-Septoria zimmermanni-hugonis Bubák SPECIES
-=======
+# Septoria zimmermanni-hugonis Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanodiscus damasi SPECIES
-=======
+# Stephanodiscus damasi SPECIES
 
 #### Status
 ACCEPTED

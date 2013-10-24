@@ -1,5 +1,4 @@
-Alternaria ciceris E.G. Simmons SPECIES
-=======
+# Alternaria ciceris E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

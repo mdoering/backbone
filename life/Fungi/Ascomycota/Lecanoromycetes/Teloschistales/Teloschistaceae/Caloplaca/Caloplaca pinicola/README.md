@@ -1,5 +1,4 @@
-Caloplaca pinicola H. Magn. SPECIES
-=======
+# Caloplaca pinicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

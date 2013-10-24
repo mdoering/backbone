@@ -1,5 +1,4 @@
-Lepiota cupressea Burl. SPECIES
-=======
+# Lepiota cupressea Burl. SPECIES
 
 #### Status
 ACCEPTED

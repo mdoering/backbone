@@ -1,5 +1,4 @@
-Cylindrosporium fasciculatum Richon SPECIES
-=======
+# Cylindrosporium fasciculatum Richon SPECIES
 
 #### Status
 ACCEPTED

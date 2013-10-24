@@ -1,5 +1,4 @@
-Cylindrospermum catenatum (Ralfs) Bornet & Flahault SPECIES
-=======
+# Cylindrospermum catenatum (Ralfs) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

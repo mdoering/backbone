@@ -1,5 +1,4 @@
-Coniochaetidium mirabile Udagawa & Tsub. SPECIES
-=======
+# Coniochaetidium mirabile Udagawa & Tsub. SPECIES
 
 #### Status
 ACCEPTED

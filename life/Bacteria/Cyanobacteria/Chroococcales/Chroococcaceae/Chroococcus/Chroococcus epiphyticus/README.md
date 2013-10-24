@@ -1,5 +1,4 @@
-Chroococcus epiphyticus Jao SPECIES
-=======
+# Chroococcus epiphyticus Jao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prathigada gymnocladi (Ellis & Kellerm.) U. Braun SPECIES
-=======
+# Prathigada gymnocladi (Ellis & Kellerm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

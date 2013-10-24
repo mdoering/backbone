@@ -1,5 +1,4 @@
-Ehrenbergina pacifica Cushman, 1927 SPECIES
-=======
+# Ehrenbergina pacifica Cushman, 1927 SPECIES
 
 #### Status
 ACCEPTED

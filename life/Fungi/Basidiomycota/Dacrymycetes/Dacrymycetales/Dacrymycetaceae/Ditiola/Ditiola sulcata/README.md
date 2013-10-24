@@ -1,5 +1,4 @@
-Ditiola sulcata (Tode) Fr. SPECIES
-=======
+# Ditiola sulcata (Tode) Fr. SPECIES
 
 #### Status
 ACCEPTED

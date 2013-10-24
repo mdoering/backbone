@@ -1,17 +1,16 @@
-Cercospora franserae Ellis & Everh. SPECIES
-=======
+# Cercospora fraserae Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. , 1894 46: 379 (1894)
 
 #### Original name
-Cercospora franserae Ellis & Everh.
+Cercospora fraserae Ellis & Everh.
 
 ### Remarks
 null

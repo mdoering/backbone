@@ -1,5 +1,4 @@
-Galerina ovalispora Kalamees SPECIES
-=======
+# Galerina ovalispora Kalamees SPECIES
 
 #### Status
 ACCEPTED

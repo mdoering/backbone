@@ -1,5 +1,4 @@
-Sorosporium saharianum Trotter SPECIES
-=======
+# Sorosporium saharianum Trotter SPECIES
 
 #### Status
 ACCEPTED

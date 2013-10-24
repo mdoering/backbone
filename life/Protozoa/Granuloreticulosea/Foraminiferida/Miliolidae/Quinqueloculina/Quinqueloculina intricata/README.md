@@ -1,5 +1,4 @@
-Quinqueloculina intricata SPECIES
-=======
+# Quinqueloculina intricata SPECIES
 
 #### Status
 ACCEPTED

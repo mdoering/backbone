@@ -1,17 +1,16 @@
-Aphanocladium aranearum var. aranearum (Petch) W. Gams VARIETY
-=======
+# Lecanicillium aphanocladii Zare & W. Gams, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cephalosporium-artige Schimmelpilze (Stuttgart) 198 (1971)
+Nova Hedwigia 73(1-2): 27 (2001)
 
 #### Original name
-Aphanocladium aranearum var. aranearum (Petch) W. Gams
+Acremonium aranearum Petch, 1932
 
 ### Remarks
 null

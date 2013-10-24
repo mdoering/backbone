@@ -1,5 +1,4 @@
-Coccomyces ledi Rehm, 1913 SPECIES
-=======
+# Coccomyces ledi Rehm, 1913 SPECIES
 
 #### Status
 ACCEPTED

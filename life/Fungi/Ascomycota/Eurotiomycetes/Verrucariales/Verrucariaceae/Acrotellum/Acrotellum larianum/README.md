@@ -1,5 +1,4 @@
-Acrotellum larianum (A. Massal.) Tomas. & Cif. SPECIES
-=======
+# Acrotellum larianum (A. Massal.) Tomas. & Cif. SPECIES
 
 #### Status
 ACCEPTED

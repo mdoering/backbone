@@ -1,5 +1,4 @@
-Genistella GENUS
-=======
+# Genistella GENUS
 
 #### Status
 ACCEPTED

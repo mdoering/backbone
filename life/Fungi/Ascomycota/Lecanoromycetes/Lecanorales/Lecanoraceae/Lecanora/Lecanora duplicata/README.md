@@ -1,5 +1,4 @@
-Lecanora duplicata Vain. SPECIES
-=======
+# Lecanora duplicata Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gardnerula tenuissima Tseng & Hua SPECIES
-=======
+# Gardnerula tenuissima Tseng & Hua SPECIES
 
 #### Status
 ACCEPTED

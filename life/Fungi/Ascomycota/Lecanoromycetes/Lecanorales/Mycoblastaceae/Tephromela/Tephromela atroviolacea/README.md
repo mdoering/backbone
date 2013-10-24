@@ -1,5 +1,4 @@
-Tephromela atroviolacea (Flot.) Fryday SPECIES
-=======
+# Tephromela atroviolacea (Flot.) Fryday SPECIES
 
 #### Status
 ACCEPTED

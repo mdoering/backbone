@@ -1,5 +1,4 @@
-Penicillium canum Preuss SPECIES
-=======
+# Penicillium canum Preuss SPECIES
 
 #### Status
 ACCEPTED

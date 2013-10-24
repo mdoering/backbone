@@ -1,5 +1,4 @@
-Pseudozonosphaera verrucosa Xing Yusheng & Liu Kuizhih, 1973 SPECIES
-=======
+# Pseudozonosphaera verrucosa Xing Yusheng & Liu Kuizhih, 1973 SPECIES
 
 #### Status
 ACCEPTED

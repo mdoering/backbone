@@ -1,5 +1,4 @@
-Dictyothyriella Spegazzini, 1924 GENUS
-=======
+# Dictyothyriella Spegazzini, 1924 GENUS
 
 #### Status
 ACCEPTED

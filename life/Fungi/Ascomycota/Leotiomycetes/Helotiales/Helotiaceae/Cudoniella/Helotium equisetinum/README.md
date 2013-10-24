@@ -1,5 +1,4 @@
-Helotium equisetinum Quél. SPECIES
-=======
+# Helotium equisetinum Quél. SPECIES
 
 #### Status
 ACCEPTED

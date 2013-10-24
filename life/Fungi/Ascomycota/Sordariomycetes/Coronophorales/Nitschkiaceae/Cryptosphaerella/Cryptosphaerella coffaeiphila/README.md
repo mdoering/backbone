@@ -1,5 +1,4 @@
-Cryptosphaerella coffaeiphila Speg. SPECIES
-=======
+# Cryptosphaerella coffaeiphila Speg. SPECIES
 
 #### Status
 ACCEPTED

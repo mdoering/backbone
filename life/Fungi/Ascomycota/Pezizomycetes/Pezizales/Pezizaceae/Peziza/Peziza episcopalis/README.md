@@ -1,5 +1,4 @@
-Peziza episcopalis Dufour SPECIES
-=======
+# Peziza episcopalis Dufour SPECIES
 
 #### Status
 ACCEPTED

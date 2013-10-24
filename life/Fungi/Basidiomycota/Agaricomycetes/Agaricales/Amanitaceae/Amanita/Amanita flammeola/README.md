@@ -1,5 +1,4 @@
-Amanita flammeola Pegler & Piearce SPECIES
-=======
+# Amanita flammeola Pegler & Piearce SPECIES
 
 #### Status
 ACCEPTED

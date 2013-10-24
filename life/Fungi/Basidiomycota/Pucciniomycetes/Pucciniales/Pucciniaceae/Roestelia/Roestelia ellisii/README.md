@@ -1,5 +1,4 @@
-Roestelia ellisii Peck SPECIES
-=======
+# Roestelia ellisii Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporum colletosporium Sacc. SPECIES
-=======
+# Trichosporum colletosporium Sacc. SPECIES
 
 #### Status
 ACCEPTED

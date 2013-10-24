@@ -1,5 +1,4 @@
-Actidiographium orientale Lar.N. Vassiljeva, 2000 SPECIES
-=======
+# Actidiographium orientale Lar.N. Vassiljeva, 2000 SPECIES
 
 #### Status
 ACCEPTED

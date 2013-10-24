@@ -1,5 +1,4 @@
-Lepiota littoralis Quél. SPECIES
-=======
+# Lepiota littoralis Quél. SPECIES
 
 #### Status
 ACCEPTED

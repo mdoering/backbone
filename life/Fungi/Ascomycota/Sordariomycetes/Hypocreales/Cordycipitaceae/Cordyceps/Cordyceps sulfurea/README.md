@@ -1,5 +1,4 @@
-Cordyceps sulfurea Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps sulfurea Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

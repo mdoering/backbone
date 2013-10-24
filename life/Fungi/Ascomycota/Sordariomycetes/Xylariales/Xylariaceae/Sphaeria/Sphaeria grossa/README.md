@@ -1,5 +1,4 @@
-Sphaeria grossa Pers. SPECIES
-=======
+# Sphaeria grossa Pers. SPECIES
 
 #### Status
 ACCEPTED

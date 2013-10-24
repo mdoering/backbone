@@ -1,5 +1,4 @@
-Meliola adanantherae SPECIES
-=======
+# Meliola adanantherae SPECIES
 
 #### Status
 ACCEPTED

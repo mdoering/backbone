@@ -1,5 +1,4 @@
-Pertusaria sublutescens Zahlbr. SPECIES
-=======
+# Pertusaria sublutescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

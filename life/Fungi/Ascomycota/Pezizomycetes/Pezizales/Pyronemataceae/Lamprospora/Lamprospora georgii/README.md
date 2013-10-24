@@ -1,5 +1,4 @@
-Lamprospora georgii Svrcek SPECIES
-=======
+# Lamprospora georgii Svrcek SPECIES
 
 #### Status
 ACCEPTED

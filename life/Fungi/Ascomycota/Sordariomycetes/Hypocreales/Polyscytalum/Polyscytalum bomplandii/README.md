@@ -1,5 +1,4 @@
-Polyscytalum bomplandii Speg. SPECIES
-=======
+# Polyscytalum bomplandii Speg. SPECIES
 
 #### Status
 ACCEPTED

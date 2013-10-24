@@ -1,5 +1,4 @@
-Uromyces stipinus Tranzschel & Erem. SPECIES
-=======
+# Uromyces stipinus Tranzschel & Erem. SPECIES
 
 #### Status
 ACCEPTED

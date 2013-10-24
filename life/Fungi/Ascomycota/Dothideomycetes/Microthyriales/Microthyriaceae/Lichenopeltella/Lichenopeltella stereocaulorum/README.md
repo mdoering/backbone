@@ -1,5 +1,4 @@
-Lichenopeltella stereocaulorum Zhurb., 2010 SPECIES
-=======
+# Lichenopeltella stereocaulorum Zhurb., 2010 SPECIES
 
 #### Status
 ACCEPTED

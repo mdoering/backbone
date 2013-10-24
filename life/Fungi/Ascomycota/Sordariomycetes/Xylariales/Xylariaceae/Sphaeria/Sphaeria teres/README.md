@@ -1,5 +1,4 @@
-Sphaeria teres Schwein. SPECIES
-=======
+# Sphaeria teres Schwein. SPECIES
 
 #### Status
 ACCEPTED

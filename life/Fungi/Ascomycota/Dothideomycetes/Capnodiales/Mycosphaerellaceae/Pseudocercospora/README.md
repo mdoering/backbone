@@ -1,17 +1,16 @@
-Ancylospora Sawada GENUS
-=======
+# Pseudocercospora Spegazzini, 1910 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Report of the Department of Agriculture, Government Research Institute of Formosa 87: 77 (1944)
+null
 
 #### Original name
-Ancylospora Sawada
+null
 
 ### Remarks
 null

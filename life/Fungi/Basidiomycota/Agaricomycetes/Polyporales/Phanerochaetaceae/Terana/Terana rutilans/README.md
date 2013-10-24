@@ -1,5 +1,4 @@
-Terana rutilans (Fr.) Kuntze SPECIES
-=======
+# Terana rutilans (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

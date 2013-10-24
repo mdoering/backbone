@@ -1,5 +1,4 @@
-Colletogloeum perseae Sivan. SPECIES
-=======
+# Colletogloeum perseae Sivan. SPECIES
 
 #### Status
 ACCEPTED

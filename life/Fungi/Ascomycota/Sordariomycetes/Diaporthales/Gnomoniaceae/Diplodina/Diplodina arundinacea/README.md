@@ -1,5 +1,4 @@
-Diplodina arundinacea Sacc. SPECIES
-=======
+# Diplodina arundinacea Sacc. SPECIES
 
 #### Status
 ACCEPTED

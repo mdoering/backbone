@@ -1,5 +1,4 @@
-Puccinia tiliaefolia T.S. Ramakr. & Sundaram SPECIES
-=======
+# Puccinia tiliaefolia T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

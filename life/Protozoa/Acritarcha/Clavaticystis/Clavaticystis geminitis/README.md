@@ -1,5 +1,4 @@
-Clavaticystis geminitis Habib & Knapp, 1982 SPECIES
-=======
+# Clavaticystis geminitis Habib & Knapp, 1982 SPECIES
 
 #### Status
 ACCEPTED

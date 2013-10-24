@@ -1,5 +1,4 @@
-Winterina tuberculifera (Ellis & Everh.) Sacc. SPECIES
-=======
+# Winterina tuberculifera (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

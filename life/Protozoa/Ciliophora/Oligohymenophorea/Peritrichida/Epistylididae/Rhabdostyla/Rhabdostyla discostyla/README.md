@@ -1,5 +1,4 @@
-Rhabdostyla discostyla Svec, 1897 SPECIES
-=======
+# Rhabdostyla discostyla Svec, 1897 SPECIES
 
 #### Status
 ACCEPTED

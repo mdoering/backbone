@@ -1,5 +1,4 @@
-Microdiplodia subtecta Allesch., 1901 SPECIES
-=======
+# Microdiplodia subtecta Allesch., 1901 SPECIES
 
 #### Status
 ACCEPTED

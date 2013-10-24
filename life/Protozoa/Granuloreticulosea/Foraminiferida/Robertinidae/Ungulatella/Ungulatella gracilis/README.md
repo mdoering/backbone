@@ -1,5 +1,4 @@
-Ungulatella gracilis SPECIES
-=======
+# Ungulatella gracilis SPECIES
 
 #### Status
 ACCEPTED

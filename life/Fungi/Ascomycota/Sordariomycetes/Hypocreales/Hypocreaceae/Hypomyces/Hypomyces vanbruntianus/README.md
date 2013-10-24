@@ -1,5 +1,4 @@
-Hypomyces vanbruntianus W.R. Gerard SPECIES
-=======
+# Hypomyces vanbruntianus W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

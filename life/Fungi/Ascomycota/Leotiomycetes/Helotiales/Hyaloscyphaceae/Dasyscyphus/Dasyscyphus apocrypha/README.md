@@ -1,8 +1,7 @@
-Dasyscypha apocrypha Rehm SPECIES
-=======
+# Dasyscyphus apocrypha Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha apocrypha Rehm
+Dasyscyphus apocrypha Rehm
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Septoria putrida Strasser SPECIES
-=======
+# Septoria putrida Strasser SPECIES
 
 #### Status
 ACCEPTED

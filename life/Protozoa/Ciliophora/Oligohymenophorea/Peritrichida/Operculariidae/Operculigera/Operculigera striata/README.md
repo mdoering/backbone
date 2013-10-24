@@ -1,5 +1,4 @@
-Operculigera striata Jankowski, 1986 SPECIES
-=======
+# Operculigera striata Jankowski, 1986 SPECIES
 
 #### Status
 ACCEPTED

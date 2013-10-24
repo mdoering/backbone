@@ -1,5 +1,4 @@
-Cucurbitaria punctum (Boud.) Kuntze SPECIES
-=======
+# Cucurbitaria punctum (Boud.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

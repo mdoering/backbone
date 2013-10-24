@@ -1,5 +1,4 @@
-Planorbulina acervalis SPECIES
-=======
+# Planorbulina acervalis SPECIES
 
 #### Status
 ACCEPTED

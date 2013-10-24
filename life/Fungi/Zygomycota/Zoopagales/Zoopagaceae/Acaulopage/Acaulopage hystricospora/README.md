@@ -1,5 +1,4 @@
-Acaulopage hystricospora Drechsler, 1946 SPECIES
-=======
+# Acaulopage hystricospora Drechsler, 1946 SPECIES
 
 #### Status
 ACCEPTED

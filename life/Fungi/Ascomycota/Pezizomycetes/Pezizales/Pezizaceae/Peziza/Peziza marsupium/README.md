@@ -1,5 +1,4 @@
-Peziza marsupium var. marsupium VARIETY
-=======
+# Peziza marsupium Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Observ. mycol. (Lipsiae) 1: 29 (1796)
 
 #### Original name
-Peziza marsupium var. marsupium
+Peziza marsupium Pers.
 
 ### Remarks
 null

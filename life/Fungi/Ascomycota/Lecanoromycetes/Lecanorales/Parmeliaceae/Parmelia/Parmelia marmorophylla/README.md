@@ -1,5 +1,4 @@
-Parmelia marmorophylla Kurok. SPECIES
-=======
+# Parmelia marmorophylla Kurok. SPECIES
 
 #### Status
 ACCEPTED

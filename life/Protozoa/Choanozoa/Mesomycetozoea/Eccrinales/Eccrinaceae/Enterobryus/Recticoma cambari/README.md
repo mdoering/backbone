@@ -1,5 +1,4 @@
-Recticoma cambari D. Scheer SPECIES
-=======
+# Recticoma cambari D. Scheer SPECIES
 
 #### Status
 ACCEPTED

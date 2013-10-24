@@ -1,5 +1,4 @@
-Quinquerhabdus colossicus Bukry & Bramlette, 1969 SPECIES
-=======
+# Quinquerhabdus colossicus Bukry & Bramlette, 1969 SPECIES
 
 #### Status
 ACCEPTED

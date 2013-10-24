@@ -1,5 +1,4 @@
-Clithris sequoiae Bonar SPECIES
-=======
+# Clithris sequoiae Bonar SPECIES
 
 #### Status
 ACCEPTED

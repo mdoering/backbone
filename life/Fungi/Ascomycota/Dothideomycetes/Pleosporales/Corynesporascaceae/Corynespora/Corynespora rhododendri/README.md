@@ -1,5 +1,4 @@
-Corynespora rhododendri K. Zhang & X.G. Zhang SPECIES
-=======
+# Corynespora rhododendri K. Zhang & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

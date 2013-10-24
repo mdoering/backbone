@@ -1,5 +1,4 @@
-Phacidium sibiricum Sacc. SPECIES
-=======
+# Phacidium sibiricum Sacc. SPECIES
 
 #### Status
 ACCEPTED

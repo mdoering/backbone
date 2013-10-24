@@ -1,5 +1,4 @@
-Naucoria nimbosa (Fr.) Sacc. SPECIES
-=======
+# Naucoria nimbosa (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

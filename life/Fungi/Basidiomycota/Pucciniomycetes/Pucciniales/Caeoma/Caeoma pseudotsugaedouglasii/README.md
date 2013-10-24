@@ -1,5 +1,4 @@
-Caeoma pseudotsugaedouglasii Tubeuf SPECIES
-=======
+# Caeoma pseudotsugaedouglasii Tubeuf SPECIES
 
 #### Status
 ACCEPTED

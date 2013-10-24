@@ -1,5 +1,4 @@
-Leiophloea amygdali (A. Massal.) Trevis. SPECIES
-=======
+# Leiophloea amygdali (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

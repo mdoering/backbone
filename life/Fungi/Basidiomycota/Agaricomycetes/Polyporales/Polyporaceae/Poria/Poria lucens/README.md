@@ -1,5 +1,4 @@
-Poria lucens (Wettst.) Sacc. SPECIES
-=======
+# Poria lucens (Wettst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

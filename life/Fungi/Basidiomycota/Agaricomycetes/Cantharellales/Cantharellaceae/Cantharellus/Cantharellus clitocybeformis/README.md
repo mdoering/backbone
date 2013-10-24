@@ -1,5 +1,4 @@
-Cantharellus clitocybeformis Velen. SPECIES
-=======
+# Cantharellus clitocybeformis Velen. SPECIES
 
 #### Status
 ACCEPTED

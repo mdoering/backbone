@@ -1,5 +1,4 @@
-Piptocephalis minuta Kuzuha, 1976 SPECIES
-=======
+# Piptocephalis minuta Kuzuha, 1976 SPECIES
 
 #### Status
 ACCEPTED

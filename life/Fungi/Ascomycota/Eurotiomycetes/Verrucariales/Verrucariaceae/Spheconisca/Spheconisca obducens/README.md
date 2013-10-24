@@ -1,5 +1,4 @@
-Spheconisca obducens Norman SPECIES
-=======
+# Spheconisca obducens Norman SPECIES
 
 #### Status
 ACCEPTED

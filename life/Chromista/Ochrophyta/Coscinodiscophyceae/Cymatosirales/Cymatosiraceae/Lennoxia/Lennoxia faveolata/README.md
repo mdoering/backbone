@@ -1,5 +1,4 @@
-Lennoxia faveolata H.A. Thomsen & K.R. Buck SPECIES
-=======
+# Lennoxia faveolata H.A. Thomsen & K.R. Buck SPECIES
 
 #### Status
 ACCEPTED

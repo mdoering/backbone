@@ -1,5 +1,4 @@
-Conocybe septentrionalis (A.H. Sm.) Bon & Courtec. SPECIES
-=======
+# Conocybe septentrionalis (A.H. Sm.) Bon & Courtec. SPECIES
 
 #### Status
 ACCEPTED

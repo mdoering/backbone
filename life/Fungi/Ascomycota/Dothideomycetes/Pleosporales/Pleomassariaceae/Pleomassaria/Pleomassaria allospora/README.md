@@ -1,5 +1,4 @@
-Pleomassaria allospora (G.H. Otth) Jacz. SPECIES
-=======
+# Pleomassaria allospora (G.H. Otth) Jacz. SPECIES
 
 #### Status
 ACCEPTED

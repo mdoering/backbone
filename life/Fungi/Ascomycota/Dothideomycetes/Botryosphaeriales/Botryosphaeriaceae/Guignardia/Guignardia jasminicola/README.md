@@ -1,5 +1,4 @@
-Guignardia jasminicola Gonz. Frag. SPECIES
-=======
+# Guignardia jasminicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urosporella magnoliae (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Urosporella magnoliae (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

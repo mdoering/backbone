@@ -1,5 +1,4 @@
-Strigula buxi Chodat SPECIES
-=======
+# Strigula buxi Chodat SPECIES
 
 #### Status
 ACCEPTED

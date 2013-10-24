@@ -1,5 +1,4 @@
-Bacidia idahoensis H. Magn. SPECIES
-=======
+# Bacidia idahoensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

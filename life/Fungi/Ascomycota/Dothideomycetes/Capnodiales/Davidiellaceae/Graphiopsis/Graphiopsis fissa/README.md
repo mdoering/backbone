@@ -1,5 +1,4 @@
-Graphiopsis fissa (Preuss) Bainier SPECIES
-=======
+# Graphiopsis fissa (Preuss) Bainier SPECIES
 
 #### Status
 ACCEPTED

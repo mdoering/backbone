@@ -1,5 +1,4 @@
-Marasmius underwoodii Murrill SPECIES
-=======
+# Marasmius underwoodii Murrill SPECIES
 
 #### Status
 ACCEPTED

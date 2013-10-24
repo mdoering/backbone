@@ -1,5 +1,4 @@
-Psathyrella luteopallida A.H. Sm. SPECIES
-=======
+# Psathyrella luteopallida A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

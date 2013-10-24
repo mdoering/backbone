@@ -1,5 +1,4 @@
-Chlorosplenium collematoides Rehm SPECIES
-=======
+# Chlorosplenium collematoides Rehm SPECIES
 
 #### Status
 ACCEPTED

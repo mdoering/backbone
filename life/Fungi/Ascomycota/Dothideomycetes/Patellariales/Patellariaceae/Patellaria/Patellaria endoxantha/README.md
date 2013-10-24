@@ -1,5 +1,4 @@
-Patellaria endoxantha Müll. Arg. SPECIES
-=======
+# Patellaria endoxantha Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

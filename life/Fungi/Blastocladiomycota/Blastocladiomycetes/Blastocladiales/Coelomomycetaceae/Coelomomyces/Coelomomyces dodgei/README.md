@@ -1,5 +1,4 @@
-Coelomomyces dodgei Couch, 1945 SPECIES
-=======
+# Coelomomyces dodgei Couch, 1945 SPECIES
 
 #### Status
 ACCEPTED

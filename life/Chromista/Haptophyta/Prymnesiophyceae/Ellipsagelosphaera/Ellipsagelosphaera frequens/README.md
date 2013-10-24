@@ -1,5 +1,4 @@
-Ellipsagelosphaera frequens D. NoÃ«l SPECIES
-=======
+# Ellipsagelosphaera frequens D. NoÃ«l SPECIES
 
 #### Status
 ACCEPTED

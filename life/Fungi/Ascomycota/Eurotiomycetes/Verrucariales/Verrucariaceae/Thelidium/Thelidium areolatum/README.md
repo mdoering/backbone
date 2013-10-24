@@ -1,5 +1,4 @@
-Thelidium areolatum J.W. Thomson SPECIES
-=======
+# Thelidium areolatum J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

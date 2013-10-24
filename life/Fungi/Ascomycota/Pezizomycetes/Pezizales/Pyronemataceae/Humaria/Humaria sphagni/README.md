@@ -1,5 +1,4 @@
-Humaria sphagni (Bong.) Sacc. SPECIES
-=======
+# Humaria sphagni (Bong.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

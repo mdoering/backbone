@@ -1,5 +1,4 @@
-Caloplaca altoandina (Malme) Zahlbr. SPECIES
-=======
+# Caloplaca altoandina (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

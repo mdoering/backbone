@@ -1,5 +1,4 @@
-Tremella nashii Diederich SPECIES
-=======
+# Tremella nashii Diederich SPECIES
 
 #### Status
 ACCEPTED

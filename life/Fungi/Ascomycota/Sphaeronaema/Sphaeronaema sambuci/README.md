@@ -1,5 +1,4 @@
-Sphaeronaema sambuci Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeronaema sambuci Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

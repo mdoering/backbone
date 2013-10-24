@@ -1,5 +1,4 @@
-Sphaeria cuticularis Schwein. SPECIES
-=======
+# Sphaeria cuticularis Schwein. SPECIES
 
 #### Status
 ACCEPTED

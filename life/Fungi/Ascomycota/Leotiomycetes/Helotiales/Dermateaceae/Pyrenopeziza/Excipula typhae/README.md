@@ -1,5 +1,4 @@
-Excipula typhae Lasch SPECIES
-=======
+# Excipula typhae Lasch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hohenbuehelia applicata (Batsch) Zerova SPECIES
-=======
+# Hohenbuehelia applicata (Batsch) Zerova SPECIES
 
 #### Status
 ACCEPTED

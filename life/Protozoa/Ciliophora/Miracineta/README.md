@@ -1,5 +1,4 @@
-Miracineta Jankowski, 1981 GENUS
-=======
+# Miracineta Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

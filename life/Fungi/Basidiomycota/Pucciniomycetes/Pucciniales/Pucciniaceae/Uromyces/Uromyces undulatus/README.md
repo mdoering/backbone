@@ -1,5 +1,4 @@
-Uromyces undulatus Tranzschel SPECIES
-=======
+# Uromyces undulatus Tranzschel SPECIES
 
 #### Status
 ACCEPTED

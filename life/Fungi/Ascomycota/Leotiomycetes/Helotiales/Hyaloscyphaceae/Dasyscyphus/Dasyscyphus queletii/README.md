@@ -1,17 +1,16 @@
-Dasyscypha queletii Sacc. & P. Syd. SPECIES
-=======
+# Dasyscyphus queletii Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 14: 781 (1899)
 
 #### Original name
-Dasyscypha queletii Sacc. & P. Syd.
+Erinella puberula Quél.
 
 ### Remarks
 null

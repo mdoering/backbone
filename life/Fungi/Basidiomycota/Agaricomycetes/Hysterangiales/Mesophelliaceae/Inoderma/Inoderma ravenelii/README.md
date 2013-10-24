@@ -1,14 +1,13 @@
-Inoderma raveneli (Berk. & M.A. Curtis) P. Karst. SPECIES
-=======
+# Inoderma ravenelii (Berk. & M.A. Curtis) P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Meddn Soc. Fauna Flora fenn. 5: 39 (1879)
 
 #### Original name
 Polystictus ravenelii Berk. & Fr.

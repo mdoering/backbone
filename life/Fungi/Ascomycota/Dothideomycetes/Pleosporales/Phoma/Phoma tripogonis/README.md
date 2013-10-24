@@ -1,5 +1,4 @@
-Phoma tripogonis Faurel & Schotter SPECIES
-=======
+# Phoma tripogonis Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

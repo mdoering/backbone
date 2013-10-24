@@ -1,5 +1,4 @@
-Coniothyrium burchardiae McAlpine SPECIES
-=======
+# Coniothyrium burchardiae McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gartnerago chiasta SPECIES
-=======
+# Gartnerago chiasta SPECIES
 
 #### Status
 ACCEPTED

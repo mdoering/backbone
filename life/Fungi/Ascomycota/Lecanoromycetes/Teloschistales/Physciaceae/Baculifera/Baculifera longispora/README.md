@@ -1,5 +1,4 @@
-Baculifera longispora Marbach SPECIES
-=======
+# Baculifera longispora Marbach SPECIES
 
 #### Status
 ACCEPTED

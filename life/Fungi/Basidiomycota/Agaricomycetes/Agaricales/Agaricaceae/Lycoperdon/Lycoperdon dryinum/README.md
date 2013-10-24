@@ -1,5 +1,4 @@
-Lycoperdon dryinum Morgan SPECIES
-=======
+# Lycoperdon dryinum Morgan SPECIES
 
 #### Status
 ACCEPTED

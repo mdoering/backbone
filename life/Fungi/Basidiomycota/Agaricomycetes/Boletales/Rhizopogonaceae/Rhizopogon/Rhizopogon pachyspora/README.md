@@ -1,5 +1,4 @@
-Rhizopogon pachyspora Hosford SPECIES
-=======
+# Rhizopogon pachyspora Hosford SPECIES
 
 #### Status
 ACCEPTED

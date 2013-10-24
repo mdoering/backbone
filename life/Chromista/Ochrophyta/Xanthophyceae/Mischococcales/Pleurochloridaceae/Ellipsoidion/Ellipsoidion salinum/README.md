@@ -1,5 +1,4 @@
-Ellipsoidion salinum R. E. Norris SPECIES
-=======
+# Ellipsoidion salinum R. E. Norris SPECIES
 
 #### Status
 ACCEPTED

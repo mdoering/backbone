@@ -1,5 +1,4 @@
-Eutypella stenocalycis Syd. {?} SPECIES
-=======
+# Eutypella stenocalycis Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

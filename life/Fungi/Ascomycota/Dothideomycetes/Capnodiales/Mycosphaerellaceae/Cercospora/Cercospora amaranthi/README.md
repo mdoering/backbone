@@ -1,5 +1,4 @@
-Cercospora amaranthi Lobik SPECIES
-=======
+# Cercospora amaranthi Lobik SPECIES
 
 #### Status
 ACCEPTED

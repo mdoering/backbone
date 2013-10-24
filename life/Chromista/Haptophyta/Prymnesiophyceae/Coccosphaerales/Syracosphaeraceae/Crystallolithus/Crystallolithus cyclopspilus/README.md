@@ -1,5 +1,4 @@
-Crystallolithus cyclopspilus SPECIES
-=======
+# Crystallolithus cyclopspilus SPECIES
 
 #### Status
 ACCEPTED

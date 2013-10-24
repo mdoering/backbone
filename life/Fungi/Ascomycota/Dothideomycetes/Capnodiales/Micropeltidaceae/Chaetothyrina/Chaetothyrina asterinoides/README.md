@@ -1,5 +1,4 @@
-Chaetothyrina asterinoides (Ellis & G.W. Martin) M.E. Barr SPECIES
-=======
+# Chaetothyrina asterinoides (Ellis & G.W. Martin) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

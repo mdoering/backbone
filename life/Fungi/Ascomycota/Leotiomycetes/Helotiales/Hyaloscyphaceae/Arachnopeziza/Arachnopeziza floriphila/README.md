@@ -1,5 +1,4 @@
-Arachnopeziza floriphila Baral SPECIES
-=======
+# Arachnopeziza floriphila Baral SPECIES
 
 #### Status
 ACCEPTED

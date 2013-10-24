@@ -1,5 +1,4 @@
-Neopycnodothis GENUS
-=======
+# Neopycnodothis GENUS
 
 #### Status
 ACCEPTED

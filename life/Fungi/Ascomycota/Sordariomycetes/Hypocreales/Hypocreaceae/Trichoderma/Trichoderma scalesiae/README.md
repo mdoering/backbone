@@ -1,5 +1,4 @@
-Trichoderma scalesiae Samuels & H.C. Evans SPECIES
-=======
+# Trichoderma scalesiae Samuels & H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

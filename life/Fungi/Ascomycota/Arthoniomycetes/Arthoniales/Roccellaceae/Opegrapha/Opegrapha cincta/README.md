@@ -1,5 +1,4 @@
-Opegrapha cincta Pers. SPECIES
-=======
+# Opegrapha cincta Pers. SPECIES
 
 #### Status
 ACCEPTED

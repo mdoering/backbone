@@ -1,5 +1,4 @@
-Polygonium dedalinum (Fombella, 1978) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Polygonium dedalinum (Fombella, 1978) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

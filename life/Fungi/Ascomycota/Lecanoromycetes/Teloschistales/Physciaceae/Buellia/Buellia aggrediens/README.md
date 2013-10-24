@@ -1,5 +1,4 @@
-Buellia aggrediens (Stirt.) Zahlbr. SPECIES
-=======
+# Buellia aggrediens (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

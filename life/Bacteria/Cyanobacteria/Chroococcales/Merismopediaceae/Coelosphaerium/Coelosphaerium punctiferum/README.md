@@ -1,5 +1,4 @@
-Coelosphaerium punctiferum J. Komárek & J. Komárková-Legnerová SPECIES
-=======
+# Coelosphaerium punctiferum J. Komárek & J. Komárková-Legnerová SPECIES
 
 #### Status
 ACCEPTED

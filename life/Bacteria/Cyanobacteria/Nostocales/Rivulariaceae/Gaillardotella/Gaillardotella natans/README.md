@@ -1,5 +1,4 @@
-Gaillardotella natans (Hedwig) Bory de St.-Vincent SPECIES
-=======
+# Gaillardotella natans (Hedwig) Bory de St.-Vincent SPECIES
 
 #### Status
 ACCEPTED

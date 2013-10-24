@@ -1,5 +1,4 @@
-Opegrapha rubiformis (A. Massal.) H. Olivier SPECIES
-=======
+# Opegrapha rubiformis (A. Massal.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

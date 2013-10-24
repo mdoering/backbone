@@ -1,17 +1,16 @@
-Piricularia lourinae F.C. Albuq. & M.L. Duarte SPECIES
-=======
+# Pyricularia lourinae F.C. Albuq. & M.L. Duarte SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pesquisa agropec. bras. , ser. Agron. 6: 180 (1971)
 
 #### Original name
-Piricularia lourinae F.C. Albuq. & M.L. Duarte
+Pyricularia lourinae F.C. Albuq. & M.L. Duarte
 
 ### Remarks
 null

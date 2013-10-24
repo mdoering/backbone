@@ -1,8 +1,7 @@
-Actinobispora aurantiaca Xu et al., 1999 SPECIES
-=======
+# Pseudonocardia aurantiaca (Xu et al., 1999) Huang et al., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

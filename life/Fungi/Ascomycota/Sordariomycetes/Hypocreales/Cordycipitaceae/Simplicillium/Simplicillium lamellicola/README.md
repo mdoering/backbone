@@ -1,17 +1,16 @@
-Cephalosporium lamellaecola F.E.V. Sm. SPECIES
-=======
+# Simplicillium lamellicola (F.E.V. Sm.) Zare & W. Gams, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 73(1-2): 42 (2001)
 
 #### Original name
-Cephalosporium lamellaecola F.E.V. Sm.
+Cephalosporium lamellicola F.E.V. Sm., 1924
 
 ### Remarks
 null

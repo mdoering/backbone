@@ -1,5 +1,4 @@
-Ramulariites oblongisporus (Caspari) Pia SPECIES
-=======
+# Ramulariites oblongisporus (Caspari) Pia SPECIES
 
 #### Status
 ACCEPTED

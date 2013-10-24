@@ -1,5 +1,4 @@
-Asterina grewiae var. grewiae VARIETY
-=======
+# Asterina grewiae Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 10(no. 56): 130 (1882)
 
 #### Original name
-Asterina grewiae var. grewiae
+Asterina grewiae Cooke
 
 ### Remarks
 null

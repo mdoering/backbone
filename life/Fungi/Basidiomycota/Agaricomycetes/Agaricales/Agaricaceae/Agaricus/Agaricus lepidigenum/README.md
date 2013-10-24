@@ -1,5 +1,4 @@
-Agaricus lepidigenum Ellis SPECIES
-=======
+# Agaricus lepidigenum Ellis SPECIES
 
 #### Status
 ACCEPTED

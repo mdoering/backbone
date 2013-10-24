@@ -1,17 +1,16 @@
-Monilinia megalospora subsp. megalospora SUBSPECIES
-=======
+# Monilinia megalospora (Woronin) Whetzel, 1945 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 37(6): 673 (1945)
 
 #### Original name
-Monilinia megalospora subsp. megalospora
+Sclerotinia megalospora Woronin, 1888
 
 ### Remarks
 null

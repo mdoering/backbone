@@ -1,5 +1,4 @@
-Thermincola carboxydiphila Sokolova et al., 2005 SPECIES
-=======
+# Thermincola carboxydiphila Sokolova et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

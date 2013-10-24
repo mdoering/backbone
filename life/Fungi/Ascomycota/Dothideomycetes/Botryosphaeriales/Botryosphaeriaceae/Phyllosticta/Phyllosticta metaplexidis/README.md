@@ -1,5 +1,4 @@
-Phyllosticta metaplexidis Sawada SPECIES
-=======
+# Phyllosticta metaplexidis Sawada SPECIES
 
 #### Status
 ACCEPTED

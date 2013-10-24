@@ -1,5 +1,4 @@
-Diderma yucatanense Estrada, Lado & S.L. Stephenson, 2003 SPECIES
-=======
+# Diderma yucatanense Estrada, Lado & S.L. Stephenson, 2003 SPECIES
 
 #### Status
 ACCEPTED

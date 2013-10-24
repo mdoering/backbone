@@ -1,5 +1,4 @@
-Penicillium theissenii Rick SPECIES
-=======
+# Penicillium theissenii Rick SPECIES
 
 #### Status
 ACCEPTED

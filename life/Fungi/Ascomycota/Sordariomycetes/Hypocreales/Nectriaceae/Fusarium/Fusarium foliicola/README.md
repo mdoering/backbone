@@ -1,5 +1,4 @@
-Fusarium foliicola Allesch. SPECIES
-=======
+# Fusarium foliicola Allesch. SPECIES
 
 #### Status
 ACCEPTED

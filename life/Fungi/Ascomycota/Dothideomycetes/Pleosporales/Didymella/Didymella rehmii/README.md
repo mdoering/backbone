@@ -1,5 +1,4 @@
-Didymella rehmii (J. Kunze) Sacc. SPECIES
-=======
+# Didymella rehmii (J. Kunze) Sacc. SPECIES
 
 #### Status
 ACCEPTED

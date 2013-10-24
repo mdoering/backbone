@@ -1,5 +1,4 @@
-Laminaria ephemera Setchell SPECIES
-=======
+# Laminaria ephemera Setchell SPECIES
 
 #### Status
 ACCEPTED

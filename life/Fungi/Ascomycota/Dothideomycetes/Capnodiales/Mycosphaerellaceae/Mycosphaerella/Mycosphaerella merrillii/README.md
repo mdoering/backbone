@@ -1,5 +1,4 @@
-Mycosphaerella merrillii H.S. Yates SPECIES
-=======
+# Mycosphaerella merrillii H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

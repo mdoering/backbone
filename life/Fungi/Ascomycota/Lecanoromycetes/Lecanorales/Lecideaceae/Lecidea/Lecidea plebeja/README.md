@@ -1,17 +1,16 @@
-Lecidea plebeja f. plebeja FORM
-=======
+# Lecidea plebeja Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecidea plebeja f. plebeja
+Lecidea plebeja Nyl.
 
 ### Remarks
 null

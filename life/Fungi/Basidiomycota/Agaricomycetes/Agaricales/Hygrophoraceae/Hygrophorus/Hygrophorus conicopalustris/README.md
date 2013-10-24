@@ -1,5 +1,4 @@
-Hygrophorus conicopalustris R. Haller Aar. SPECIES
-=======
+# Hygrophorus conicopalustris R. Haller Aar. SPECIES
 
 #### Status
 ACCEPTED

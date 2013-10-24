@@ -1,5 +1,4 @@
-Urocystis oryzopsidis Padwick & Azmatullah SPECIES
-=======
+# Urocystis oryzopsidis Padwick & Azmatullah SPECIES
 
 #### Status
 ACCEPTED

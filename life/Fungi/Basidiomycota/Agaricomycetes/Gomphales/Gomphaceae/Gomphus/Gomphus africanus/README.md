@@ -1,5 +1,4 @@
-Gomphus africanus R.H. Petersen, 1976 SPECIES
-=======
+# Gomphus africanus R.H. Petersen, 1976 SPECIES
 
 #### Status
 ACCEPTED

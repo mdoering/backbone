@@ -1,5 +1,4 @@
-Rossyatella Pawlowski & Zaninetti, 1993 GENUS
-=======
+# Rossyatella Pawlowski & Zaninetti, 1993 GENUS
 
 #### Status
 ACCEPTED

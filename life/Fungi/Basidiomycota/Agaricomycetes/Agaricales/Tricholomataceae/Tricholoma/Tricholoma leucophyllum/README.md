@@ -1,5 +1,4 @@
-Tricholoma leucophyllum Ovrebo & Tylutki SPECIES
-=======
+# Tricholoma leucophyllum Ovrebo & Tylutki SPECIES
 
 #### Status
 ACCEPTED

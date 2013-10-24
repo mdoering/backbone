@@ -1,5 +1,4 @@
-Patellaria ocrinaeta (Ach.) Balbis SPECIES
-=======
+# Patellaria ocrinaeta (Ach.) Balbis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Marsoniella GENUS
-=======
+# Marssoniella Lemmermann, 1900 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-null
+Ber. Dtsch. Bot. Ges. 18: 275.
 
 #### Original name
-null
+Marssoniella Lemmermann, 1900
 
 ### Remarks
 null

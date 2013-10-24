@@ -1,5 +1,4 @@
-Diporimonodicellaesporites Frunzescu & Bacaran GENUS
-=======
+# Diporimonodicellaesporites Frunzescu & Bacaran GENUS
 
 #### Status
 ACCEPTED

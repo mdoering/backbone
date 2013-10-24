@@ -1,8 +1,7 @@
-Difflugiella lamingerae Chardez, 1977 SPECIES
-=======
+# Cryptodifflugia lamingerae (Chardez, 1977) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

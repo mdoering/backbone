@@ -1,5 +1,4 @@
-Bacidia meizospora (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia meizospora (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

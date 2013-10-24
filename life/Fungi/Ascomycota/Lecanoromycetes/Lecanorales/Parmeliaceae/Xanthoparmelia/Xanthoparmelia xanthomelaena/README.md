@@ -1,14 +1,13 @@
-Parmelia xanthomelaena Müll. Arg. SPECIES
-=======
+# Xanthoparmelia xanthomelaena (Müll. Arg.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 66: 48 (1883)
+Mycotaxon 30: 334 (1987)
 
 #### Original name
 Parmelia xanthomelaena Müll. Arg.

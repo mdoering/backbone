@@ -1,5 +1,4 @@
-Cladococcus viminalis Haeckel, 1860 SPECIES
-=======
+# Cladococcus viminalis Haeckel, 1860 SPECIES
 
 #### Status
 ACCEPTED

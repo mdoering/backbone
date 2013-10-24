@@ -1,5 +1,4 @@
-Hydnum ochroleucum Bres. SPECIES
-=======
+# Hydnum ochroleucum Bres. SPECIES
 
 #### Status
 ACCEPTED

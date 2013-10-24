@@ -1,5 +1,4 @@
-Uromyces pannosus Vestergr. SPECIES
-=======
+# Uromyces pannosus Vestergr. SPECIES
 
 #### Status
 ACCEPTED

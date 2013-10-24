@@ -1,5 +1,4 @@
-Globulocephalus Baudoin, 1964 GENUS
-=======
+# Globulocephalus Baudoin, 1964 GENUS
 
 #### Status
 ACCEPTED

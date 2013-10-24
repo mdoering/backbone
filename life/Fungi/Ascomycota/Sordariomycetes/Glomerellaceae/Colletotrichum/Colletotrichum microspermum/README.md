@@ -1,5 +1,4 @@
-Colletotrichum microspermum Corda SPECIES
-=======
+# Colletotrichum microspermum Corda SPECIES
 
 #### Status
 ACCEPTED

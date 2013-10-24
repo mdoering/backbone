@@ -1,5 +1,4 @@
-Fumago sorbina (P. Karst.) S. Hughes SPECIES
-=======
+# Fumago sorbina (P. Karst.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

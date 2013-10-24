@@ -1,5 +1,4 @@
-Peziza amphora Quél. SPECIES
-=======
+# Peziza amphora Quél. SPECIES
 
 #### Status
 ACCEPTED

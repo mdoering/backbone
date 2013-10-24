@@ -1,5 +1,4 @@
-Mycelithe fungifera Gasp., 1842 SPECIES
-=======
+# Mycelithe fungifera Gasp., 1842 SPECIES
 
 #### Status
 ACCEPTED

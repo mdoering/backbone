@@ -1,5 +1,4 @@
-Marasmius leighii A.H. Sm. SPECIES
-=======
+# Marasmius leighii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

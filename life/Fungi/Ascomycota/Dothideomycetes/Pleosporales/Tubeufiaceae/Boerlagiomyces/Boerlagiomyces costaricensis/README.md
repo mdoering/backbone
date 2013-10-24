@@ -1,5 +1,4 @@
-Boerlagiomyces costaricensis Stchigel, Umaña & Guarro, 2007 SPECIES
-=======
+# Boerlagiomyces costaricensis Stchigel, Umaña & Guarro, 2007 SPECIES
 
 #### Status
 ACCEPTED

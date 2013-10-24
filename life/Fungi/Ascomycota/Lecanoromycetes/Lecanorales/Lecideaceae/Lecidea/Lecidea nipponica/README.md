@@ -1,5 +1,4 @@
-Lecidea nipponica Zahlbr. SPECIES
-=======
+# Lecidea nipponica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

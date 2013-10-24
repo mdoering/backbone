@@ -1,5 +1,4 @@
-Hypha minima (Humb.) Pers. SPECIES
-=======
+# Hypha minima (Humb.) Pers. SPECIES
 
 #### Status
 ACCEPTED

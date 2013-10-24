@@ -1,5 +1,4 @@
-Peniophora aluticolor Bres. & Torrend SPECIES
-=======
+# Peniophora aluticolor Bres. & Torrend SPECIES
 
 #### Status
 ACCEPTED

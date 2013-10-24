@@ -1,14 +1,13 @@
-Perisporiopsella anacardii Bat., J.L. Bezerra, Castr. & Matta, 1964 SPECIES
-=======
+# Pilgeriella anacardii (Bat., J.L. Bezerra, Castr. & Matta) Arx & E. Müll., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publções Inst. Micol. Recife 431: 5 (1964)
+Stud. Mycol. 9: 50 (1975)
 
 #### Original name
 Perisporiopsella anacardii Bat., J.L. Bezerra, Castr. & Matta, 1964

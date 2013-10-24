@@ -1,14 +1,13 @@
-Catacauma myrciae (Lév.) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora myrciae (Lév.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 393 (1915)
+Syll. fung. (Abellini) 2: 597 (1883)
 
 #### Original name
 Dothidea myrciae Lév., 1846

@@ -1,5 +1,4 @@
-Stichotrichida Fauré-Fremiet, 1961 ORDER
-=======
+# Stichotrichida Fauré-Fremiet, 1961 ORDER
 
 #### Status
 ACCEPTED

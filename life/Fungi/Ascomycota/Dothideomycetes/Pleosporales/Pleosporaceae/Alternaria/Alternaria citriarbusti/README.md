@@ -1,5 +1,4 @@
-Alternaria citriarbusti E.G. Simmons SPECIES
-=======
+# Alternaria citriarbusti E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

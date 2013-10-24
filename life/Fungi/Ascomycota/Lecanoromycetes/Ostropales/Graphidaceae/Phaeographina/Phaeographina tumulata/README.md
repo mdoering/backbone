@@ -1,5 +1,4 @@
-Phaeographina tumulata (Nyl.) Müll. Arg. SPECIES
-=======
+# Phaeographina tumulata (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

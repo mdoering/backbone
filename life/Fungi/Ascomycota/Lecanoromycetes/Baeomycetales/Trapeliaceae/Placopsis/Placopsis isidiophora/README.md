@@ -1,5 +1,4 @@
-Placopsis isidiophora Vain. SPECIES
-=======
+# Placopsis isidiophora Vain. SPECIES
 
 #### Status
 ACCEPTED

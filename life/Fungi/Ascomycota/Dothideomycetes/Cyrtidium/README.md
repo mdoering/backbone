@@ -1,5 +1,4 @@
-Cyrtidium Vainio, 1921 GENUS
-=======
+# Cyrtidium Vainio, 1921 GENUS
 
 #### Status
 ACCEPTED

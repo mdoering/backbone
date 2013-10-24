@@ -1,5 +1,4 @@
-Asteromphalus robustus Castr. SPECIES
-=======
+# Asteromphalus robustus Castr. SPECIES
 
 #### Status
 ACCEPTED

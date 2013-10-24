@@ -1,5 +1,4 @@
-Cantharellus lilacinopruinatus Hermitte, Eyssart. & Poumarat, 2005 SPECIES
-=======
+# Cantharellus lilacinopruinatus Hermitte, Eyssart. & Poumarat, 2005 SPECIES
 
 #### Status
 ACCEPTED

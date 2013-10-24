@@ -1,5 +1,4 @@
-Crandallia anthurii Bat. SPECIES
-=======
+# Crandallia anthurii Bat. SPECIES
 
 #### Status
 ACCEPTED

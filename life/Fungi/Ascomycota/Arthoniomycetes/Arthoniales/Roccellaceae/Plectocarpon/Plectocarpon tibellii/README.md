@@ -1,5 +1,4 @@
-Plectocarpon tibellii Ertz & Diederich SPECIES
-=======
+# Plectocarpon tibellii Ertz & Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antennaria tropica Mont. SPECIES
-=======
+# Antennaria tropica Mont. SPECIES
 
 #### Status
 ACCEPTED

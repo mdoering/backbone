@@ -1,5 +1,4 @@
-Diclasmia GENUS
-=======
+# Diclasmia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo laricis-pentandrae Arthur SPECIES
-=======
+# Uredo laricis-pentandrae Arthur SPECIES
 
 #### Status
 ACCEPTED

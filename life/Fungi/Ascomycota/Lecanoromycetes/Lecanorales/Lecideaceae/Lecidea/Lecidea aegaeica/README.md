@@ -1,5 +1,4 @@
-Lecidea aegaeica var. aegaeica VARIETY
-=======
+# Lecidea aegaeica Szatala SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea aegaeica var. aegaeica
+Lecidea aegaeica Szatala
 
 ### Remarks
 null

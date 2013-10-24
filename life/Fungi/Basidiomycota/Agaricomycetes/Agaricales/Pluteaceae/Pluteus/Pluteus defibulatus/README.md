@@ -1,5 +1,4 @@
-Pluteus defibulatus Singer SPECIES
-=======
+# Pluteus defibulatus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosporium mycophilum P. Karst. SPECIES
-=======
+# Leptosporium mycophilum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

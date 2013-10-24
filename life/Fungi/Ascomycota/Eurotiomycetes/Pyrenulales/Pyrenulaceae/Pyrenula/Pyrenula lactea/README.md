@@ -1,5 +1,4 @@
-Pyrenula lactea (A. Massal.) Tuck. SPECIES
-=======
+# Pyrenula lactea (A. Massal.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

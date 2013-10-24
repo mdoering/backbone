@@ -1,5 +1,4 @@
-Ustilago trebouxii Syd. & P. Syd. SPECIES
-=======
+# Ustilago trebouxii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

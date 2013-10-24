@@ -1,5 +1,4 @@
-Phyllosticta phytolaccicola Brunaud SPECIES
-=======
+# Phyllosticta phytolaccicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

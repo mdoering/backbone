@@ -1,5 +1,4 @@
-Biatorina sublutescens (Nyl.) C.W. Dodge SPECIES
-=======
+# Biatorina sublutescens (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

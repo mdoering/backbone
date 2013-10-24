@@ -1,5 +1,4 @@
-Polycoccum jamesii D. Hawksw. SPECIES
-=======
+# Polycoccum jamesii D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

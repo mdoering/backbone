@@ -1,5 +1,4 @@
-Stagonospora tainanensis W.H. Hsieh SPECIES
-=======
+# Stagonospora tainanensis W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Durella nigrescens Rehm SPECIES
-=======
+# Durella nigrescens Rehm SPECIES
 
 #### Status
 ACCEPTED

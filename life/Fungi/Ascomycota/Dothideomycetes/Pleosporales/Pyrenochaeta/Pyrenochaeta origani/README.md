@@ -1,5 +1,4 @@
-Pyrenochaeta origani S. Ahmad SPECIES
-=======
+# Pyrenochaeta origani S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

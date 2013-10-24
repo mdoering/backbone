@@ -1,5 +1,4 @@
-Coccolithites Kamptner, 1955 GENUS
-=======
+# Coccolithites Kamptner, 1955 GENUS
 
 #### Status
 ACCEPTED

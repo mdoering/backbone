@@ -1,5 +1,4 @@
-Lalaria polystichi R.T. Moore SPECIES
-=======
+# Lalaria polystichi R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

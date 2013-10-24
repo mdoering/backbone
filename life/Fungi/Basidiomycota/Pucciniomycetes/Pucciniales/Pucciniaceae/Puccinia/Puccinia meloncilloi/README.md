@@ -1,5 +1,4 @@
-Puccinia meloncilloi J.C. Lindq. SPECIES
-=======
+# Puccinia meloncilloi J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

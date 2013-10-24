@@ -1,5 +1,4 @@
-Kareliana Korde GENUS
-=======
+# Kareliana Korde GENUS
 
 #### Status
 ACCEPTED

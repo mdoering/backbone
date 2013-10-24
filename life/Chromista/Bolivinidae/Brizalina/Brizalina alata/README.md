@@ -1,8 +1,7 @@
-Vulvulina alata Seguenza, 1862 SPECIES
-=======
+# Brizalina alata (Seguenza, 1862) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Baeomyces prostii Duf. SPECIES
-=======
+# Baeomyces prostii Duf. SPECIES
 
 #### Status
 ACCEPTED

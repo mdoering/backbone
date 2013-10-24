@@ -1,5 +1,4 @@
-Haplostiche Reuss, 1862 GENUS
-=======
+# Haplostiche Reuss, 1862 GENUS
 
 #### Status
 ACCEPTED

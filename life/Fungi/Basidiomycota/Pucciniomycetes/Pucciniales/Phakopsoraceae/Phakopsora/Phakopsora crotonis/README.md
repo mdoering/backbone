@@ -1,5 +1,4 @@
-Phakopsora crotonis (Burrill) Arthur SPECIES
-=======
+# Phakopsora crotonis (Burrill) Arthur SPECIES
 
 #### Status
 ACCEPTED

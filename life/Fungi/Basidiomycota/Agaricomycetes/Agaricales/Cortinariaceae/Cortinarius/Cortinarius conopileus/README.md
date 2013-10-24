@@ -1,5 +1,4 @@
-Cortinarius conopileus K.A. Thomas, M.M. Moser, Peintner & Manim. SPECIES
-=======
+# Cortinarius conopileus K.A. Thomas, M.M. Moser, Peintner & Manim. SPECIES
 
 #### Status
 ACCEPTED

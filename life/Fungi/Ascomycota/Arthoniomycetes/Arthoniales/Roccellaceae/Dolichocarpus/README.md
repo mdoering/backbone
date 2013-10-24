@@ -1,5 +1,4 @@
-Dolichocarpus R. Sant. GENUS
-=======
+# Dolichocarpus R. Sant. GENUS
 
 #### Status
 ACCEPTED

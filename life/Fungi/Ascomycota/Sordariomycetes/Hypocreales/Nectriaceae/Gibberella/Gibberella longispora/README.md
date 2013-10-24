@@ -1,5 +1,4 @@
-Gibberella longispora Maubl. SPECIES
-=======
+# Gibberella longispora Maubl. SPECIES
 
 #### Status
 ACCEPTED

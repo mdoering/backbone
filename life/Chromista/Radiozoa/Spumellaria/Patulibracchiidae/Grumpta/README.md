@@ -1,5 +1,4 @@
-Grumpta GENUS
-=======
+# Grumpta GENUS
 
 #### Status
 ACCEPTED

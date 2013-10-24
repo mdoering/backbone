@@ -1,5 +1,4 @@
-Thelotrema fissuratum Nagarkar & Hale SPECIES
-=======
+# Thelotrema fissuratum Nagarkar & Hale SPECIES
 
 #### Status
 ACCEPTED

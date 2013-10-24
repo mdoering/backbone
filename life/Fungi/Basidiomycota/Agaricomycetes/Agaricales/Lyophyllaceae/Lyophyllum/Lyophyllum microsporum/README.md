@@ -1,5 +1,4 @@
-Lyophyllum microsporum A. Gennari SPECIES
-=======
+# Lyophyllum microsporum A. Gennari SPECIES
 
 #### Status
 ACCEPTED

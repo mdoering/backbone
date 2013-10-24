@@ -1,5 +1,4 @@
-Lecanora xylitella Nyl. SPECIES
-=======
+# Lecanora xylitella Nyl. SPECIES
 
 #### Status
 ACCEPTED

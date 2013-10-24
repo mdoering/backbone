@@ -1,5 +1,4 @@
-Polyporus pachyotis Speg. SPECIES
-=======
+# Polyporus pachyotis Speg. SPECIES
 
 #### Status
 ACCEPTED

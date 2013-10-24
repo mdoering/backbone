@@ -1,5 +1,4 @@
-Nannoceratopsiaceae FAMILY
-=======
+# Nannoceratopsiaceae FAMILY
 
 #### Status
 ACCEPTED

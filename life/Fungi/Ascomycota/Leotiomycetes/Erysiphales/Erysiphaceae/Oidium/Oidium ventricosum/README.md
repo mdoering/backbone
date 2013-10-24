@@ -1,5 +1,4 @@
-Oidium ventricosum Harkn. SPECIES
-=======
+# Oidium ventricosum Harkn. SPECIES
 
 #### Status
 ACCEPTED

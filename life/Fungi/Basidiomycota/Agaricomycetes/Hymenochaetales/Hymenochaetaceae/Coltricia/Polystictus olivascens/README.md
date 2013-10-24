@@ -1,5 +1,4 @@
-Polystictus olivascens Rostr. SPECIES
-=======
+# Polystictus olivascens Rostr. SPECIES
 
 #### Status
 ACCEPTED

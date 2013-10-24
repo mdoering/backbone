@@ -1,5 +1,4 @@
-Puccinia pseudostriiformis M. Abbasi, Hedjar. & M. Scholler SPECIES
-=======
+# Puccinia pseudostriiformis M. Abbasi, Hedjar. & M. Scholler SPECIES
 
 #### Status
 ACCEPTED

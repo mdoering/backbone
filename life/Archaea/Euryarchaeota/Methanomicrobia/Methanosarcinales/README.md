@@ -1,5 +1,4 @@
-Methanosarcinales ORDER
-=======
+# Methanosarcinales ORDER
 
 #### Status
 ACCEPTED

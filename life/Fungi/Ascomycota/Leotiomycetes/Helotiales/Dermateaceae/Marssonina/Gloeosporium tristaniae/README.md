@@ -1,5 +1,4 @@
-Gloeosporium tristaniae Massee SPECIES
-=======
+# Gloeosporium tristaniae Massee SPECIES
 
 #### Status
 ACCEPTED

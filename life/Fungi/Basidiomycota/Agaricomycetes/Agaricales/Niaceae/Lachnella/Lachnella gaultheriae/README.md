@@ -1,5 +1,4 @@
-Lachnella gaultheriae (Ellis & Everh.) Seaver SPECIES
-=======
+# Lachnella gaultheriae (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria iridicola F. Lamb. & Fautrey SPECIES
-=======
+# Leptosphaeria iridicola F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

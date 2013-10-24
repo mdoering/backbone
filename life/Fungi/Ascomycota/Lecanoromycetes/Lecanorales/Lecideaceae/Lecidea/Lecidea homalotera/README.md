@@ -1,5 +1,4 @@
-Lecidea homalotera Nyl. SPECIES
-=======
+# Lecidea homalotera Nyl. SPECIES
 
 #### Status
 ACCEPTED

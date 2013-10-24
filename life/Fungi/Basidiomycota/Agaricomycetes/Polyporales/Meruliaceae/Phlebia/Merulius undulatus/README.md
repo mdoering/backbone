@@ -1,5 +1,4 @@
-Merulius undulatus subsp. undulatus SUBSPECIES
-=======
+# Merulius undulatus Raf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ann. Bot. (Desvaux) 1: 237 (1813)
 
 #### Original name
-null
+Merulius undulatus Raf.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hygrophorus arenicola Murrill SPECIES
-=======
+# Hygrophorus arenicola Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium vesiculiferum Höhn. SPECIES
-=======
+# Macrosporium vesiculiferum Höhn. SPECIES
 
 #### Status
 ACCEPTED

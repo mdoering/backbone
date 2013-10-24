@@ -1,5 +1,4 @@
-Chaetomiopsis dinae Moustafa & Abdul-Wahid, 1990 SPECIES
-=======
+# Chaetomiopsis dinae Moustafa & Abdul-Wahid, 1990 SPECIES
 
 #### Status
 ACCEPTED

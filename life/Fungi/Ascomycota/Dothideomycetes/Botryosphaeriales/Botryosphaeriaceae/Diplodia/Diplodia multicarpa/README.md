@@ -1,5 +1,4 @@
-Diplodia multicarpa Peck SPECIES
-=======
+# Diplodia multicarpa Peck SPECIES
 
 #### Status
 ACCEPTED

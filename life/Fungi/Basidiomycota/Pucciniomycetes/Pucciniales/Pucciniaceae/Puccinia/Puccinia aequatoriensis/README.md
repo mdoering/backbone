@@ -1,5 +1,4 @@
-Puccinia aequatoriensis P. Syd. & Syd. SPECIES
-=======
+# Puccinia aequatoriensis P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

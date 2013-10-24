@@ -1,5 +1,4 @@
-Trematosphaeria saxauli Kravtzev SPECIES
-=======
+# Trematosphaeria saxauli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

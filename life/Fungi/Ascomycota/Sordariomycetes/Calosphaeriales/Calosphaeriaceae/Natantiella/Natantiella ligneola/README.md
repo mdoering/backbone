@@ -1,5 +1,4 @@
-Natantiella ligneola (Berk. & Broome) Réblová, 2009 SPECIES
-=======
+# Natantiella ligneola (Berk. & Broome) Réblová, 2009 SPECIES
 
 #### Status
 ACCEPTED

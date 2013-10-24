@@ -1,5 +1,4 @@
-Xanthoparmelia kleinswartbergensis Elix SPECIES
-=======
+# Xanthoparmelia kleinswartbergensis Elix SPECIES
 
 #### Status
 ACCEPTED

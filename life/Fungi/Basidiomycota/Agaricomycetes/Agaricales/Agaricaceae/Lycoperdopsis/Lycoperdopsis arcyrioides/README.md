@@ -1,5 +1,4 @@
-Lycoperdopsis arcyrioides Henn. & E. Nyman, 1900 SPECIES
-=======
+# Lycoperdopsis arcyrioides Henn. & E. Nyman, 1900 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium agaricicola Berk. & Broome SPECIES
-=======
+# Helotium agaricicola Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

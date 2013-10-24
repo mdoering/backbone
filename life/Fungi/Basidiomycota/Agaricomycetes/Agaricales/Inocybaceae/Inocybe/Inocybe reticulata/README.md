@@ -1,5 +1,4 @@
-Inocybe reticulata Cout. SPECIES
-=======
+# Inocybe reticulata Cout. SPECIES
 
 #### Status
 ACCEPTED

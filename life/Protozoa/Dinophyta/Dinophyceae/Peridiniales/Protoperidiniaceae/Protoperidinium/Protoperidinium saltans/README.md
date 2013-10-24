@@ -1,11 +1,10 @@
-Protoperidinium valgus Abé, 1981 SPECIES
-=======
+# Protoperidinium saltans (Meunier) Balech SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

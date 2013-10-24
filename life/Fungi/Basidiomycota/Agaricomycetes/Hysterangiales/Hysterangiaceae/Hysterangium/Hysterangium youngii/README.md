@@ -1,5 +1,4 @@
-Hysterangium youngii Castellano & Beever, 1994 SPECIES
-=======
+# Hysterangium youngii Castellano & Beever, 1994 SPECIES
 
 #### Status
 ACCEPTED

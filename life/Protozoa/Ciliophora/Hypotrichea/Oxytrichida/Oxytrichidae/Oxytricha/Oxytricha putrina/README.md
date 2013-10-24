@@ -1,5 +1,4 @@
-Oxytricha putrina Stokes, 1885 SPECIES
-=======
+# Oxytricha putrina Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

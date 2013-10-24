@@ -1,5 +1,4 @@
-Pseudocercospora argyreiae (J.M. Yen, A.K. Kar & B.K. Das) Deighton SPECIES
-=======
+# Pseudocercospora argyreiae (J.M. Yen, A.K. Kar & B.K. Das) Deighton SPECIES
 
 #### Status
 ACCEPTED

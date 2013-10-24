@@ -1,5 +1,4 @@
-Pythium euthyphyphon Sideris SPECIES
-=======
+# Pythium euthyphyphon Sideris SPECIES
 
 #### Status
 ACCEPTED

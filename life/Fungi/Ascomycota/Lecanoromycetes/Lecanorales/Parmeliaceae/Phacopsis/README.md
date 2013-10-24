@@ -1,5 +1,4 @@
-Phacopsis Tulasne, 1852 GENUS
-=======
+# Phacopsis Tulasne, 1852 GENUS
 
 #### Status
 ACCEPTED

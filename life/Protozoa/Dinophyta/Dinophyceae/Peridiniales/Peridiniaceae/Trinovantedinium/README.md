@@ -1,5 +1,4 @@
-Trinovantedinium P.C.Reid, 1977 GENUS
-=======
+# Trinovantedinium P.C.Reid, 1977 GENUS
 
 #### Status
 ACCEPTED

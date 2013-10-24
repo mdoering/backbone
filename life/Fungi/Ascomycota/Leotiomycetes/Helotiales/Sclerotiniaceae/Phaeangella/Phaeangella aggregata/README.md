@@ -1,5 +1,4 @@
-Phaeangella aggregata (Hazsl.) Sacc. & D. Sacc. SPECIES
-=======
+# Phaeangella aggregata (Hazsl.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Potriphila epiphylla Döbbeler SPECIES
-=======
+# Potriphila epiphylla Döbbeler SPECIES
 
 #### Status
 ACCEPTED

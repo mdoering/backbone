@@ -1,5 +1,4 @@
-Psathyrella galeroides Romagn. SPECIES
-=======
+# Psathyrella galeroides Romagn. SPECIES
 
 #### Status
 ACCEPTED

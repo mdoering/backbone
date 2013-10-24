@@ -1,5 +1,4 @@
-Skyttea thelotrematis Diederich & Etayo SPECIES
-=======
+# Skyttea thelotrematis Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

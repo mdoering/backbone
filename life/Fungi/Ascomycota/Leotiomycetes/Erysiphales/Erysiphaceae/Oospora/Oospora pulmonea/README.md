@@ -1,5 +1,4 @@
-Oospora pulmonea (J.E. Benn.) Sacc. SPECIES
-=======
+# Oospora pulmonea (J.E. Benn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

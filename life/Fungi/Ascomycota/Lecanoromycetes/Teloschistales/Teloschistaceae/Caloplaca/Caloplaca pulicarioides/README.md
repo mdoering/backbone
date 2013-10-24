@@ -1,5 +1,4 @@
-Caloplaca pulicarioides Aptroot SPECIES
-=======
+# Caloplaca pulicarioides Aptroot SPECIES
 
 #### Status
 ACCEPTED

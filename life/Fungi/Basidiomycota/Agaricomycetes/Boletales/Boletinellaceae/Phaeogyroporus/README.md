@@ -1,5 +1,4 @@
-Phaeogyroporus GENUS
-=======
+# Phaeogyroporus GENUS
 
 #### Status
 ACCEPTED

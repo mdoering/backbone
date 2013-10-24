@@ -1,5 +1,4 @@
-Puccinia philippinensis Syd. & P. Syd. SPECIES
-=======
+# Puccinia philippinensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

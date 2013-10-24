@@ -1,5 +1,4 @@
-Krishnania acuminata Sahni & Shrivastava, 1954 SPECIES
-=======
+# Krishnania acuminata Sahni & Shrivastava, 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella juglandis Kaz. Itô & Tak. Kobay. SPECIES
-=======
+# Cercosporella juglandis Kaz. Itô & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

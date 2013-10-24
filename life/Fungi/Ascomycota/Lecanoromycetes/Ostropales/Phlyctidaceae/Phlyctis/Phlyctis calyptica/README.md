@@ -1,5 +1,4 @@
-Phlyctis calyptica (Kremp.) Zahlbr. SPECIES
-=======
+# Phlyctis calyptica (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

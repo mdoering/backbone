@@ -1,5 +1,4 @@
-Omphalaria nodulosa (Nyl.) Harm. SPECIES
-=======
+# Omphalaria nodulosa (Nyl.) Harm. SPECIES
 
 #### Status
 ACCEPTED

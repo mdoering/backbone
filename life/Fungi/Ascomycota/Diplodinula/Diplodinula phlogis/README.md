@@ -1,5 +1,4 @@
-Diplodinula phlogis (Fautrey) Tassi SPECIES
-=======
+# Diplodinula phlogis (Fautrey) Tassi SPECIES
 
 #### Status
 ACCEPTED

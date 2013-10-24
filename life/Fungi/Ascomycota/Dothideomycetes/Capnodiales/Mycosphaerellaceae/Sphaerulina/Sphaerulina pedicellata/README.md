@@ -1,5 +1,4 @@
-Sphaerulina pedicellata T.W. Johnson, 1957 SPECIES
-=======
+# Sphaerulina pedicellata T.W. Johnson, 1957 SPECIES
 
 #### Status
 ACCEPTED

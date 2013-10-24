@@ -1,5 +1,4 @@
-Uromyces stellariae-saxatilis L. Guo & Y.C. Wang SPECIES
-=======
+# Uromyces stellariae-saxatilis L. Guo & Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

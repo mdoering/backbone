@@ -1,17 +1,16 @@
-Lecania albocarnea Nyl. SPECIES
-=======
+# Lecania hutchinsiae (Nyl.) A. L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Brit. Lich. 1: 348 (1918)
 
 #### Original name
-Lecania albocarnea Nyl.
+Lecanora hutchinsiae Nyl.
 
 ### Remarks
 null

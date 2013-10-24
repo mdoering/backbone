@@ -1,5 +1,4 @@
-Nodulosphaeria holmii Lar.N. Vassiljeva SPECIES
-=======
+# Nodulosphaeria holmii Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

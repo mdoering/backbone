@@ -1,5 +1,4 @@
-Frondicularia bermaguiensis Yassini & Jones, 1995 SPECIES
-=======
+# Frondicularia bermaguiensis Yassini & Jones, 1995 SPECIES
 
 #### Status
 ACCEPTED

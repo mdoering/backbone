@@ -1,5 +1,4 @@
-Verticillium clavisedum Sacc. SPECIES
-=======
+# Verticillium clavisedum Sacc. SPECIES
 
 #### Status
 ACCEPTED

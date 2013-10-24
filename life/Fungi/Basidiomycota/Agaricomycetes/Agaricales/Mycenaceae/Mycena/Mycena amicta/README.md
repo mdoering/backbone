@@ -1,17 +1,16 @@
-Mycena marginella var. marginella VARIETY
-=======
+# Mycena amicta (Fr.) Quél., 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 109 (1871)
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 243 (1872)
 
 #### Original name
-Agaricus marginellus Pers.
+Agaricus amictus Fr., 1821
 
 ### Remarks
 null

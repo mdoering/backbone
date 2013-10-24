@@ -1,17 +1,16 @@
-Nectriella Sacc. GENUS
-=======
+# Pseudonectria Seaver, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Michelia 1(no. 1): 51 (1877)
+null
 
 #### Original name
-Nectriella Sacc.
+null
 
 ### Remarks
 null

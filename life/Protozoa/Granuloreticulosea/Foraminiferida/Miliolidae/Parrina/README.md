@@ -1,17 +1,16 @@
-Silvestria Schubert, 1920 GENUS
-=======
+# Parrina Cushman, 1931 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Palaeont. Z. , 3, 166.
+Contr. Cushman Lab. Foram. Res. , 7, 20.
 
 #### Original name
-null
+Silvestria Schubert, 1920
 
 ### Remarks
 null

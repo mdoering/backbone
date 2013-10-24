@@ -1,5 +1,4 @@
-Spinomersinellidae Kozur, Moix & Ozsvárt, 2007 FAMILY
-=======
+# Spinomersinellidae Kozur, Moix & Ozsvárt, 2007 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus laestadii Fr. & Berk. SPECIES
-=======
+# Polyporus laestadii Fr. & Berk. SPECIES
 
 #### Status
 ACCEPTED

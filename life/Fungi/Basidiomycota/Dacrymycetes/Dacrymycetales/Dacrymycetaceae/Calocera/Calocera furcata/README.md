@@ -1,5 +1,4 @@
-Calocera furcata (Fr.) Fr., 1827 SPECIES
-=======
+# Calocera furcata (Fr.) Fr., 1827 SPECIES
 
 #### Status
 ACCEPTED

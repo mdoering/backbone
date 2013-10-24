@@ -1,5 +1,4 @@
-Didymella iranica Petr. SPECIES
-=======
+# Didymella iranica Petr. SPECIES
 
 #### Status
 ACCEPTED

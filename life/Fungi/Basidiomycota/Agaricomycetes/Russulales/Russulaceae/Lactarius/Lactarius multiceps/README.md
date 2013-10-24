@@ -1,5 +1,4 @@
-Lactarius multiceps S.L. Mill., Aime & T.W. Henkel SPECIES
-=======
+# Lactarius multiceps S.L. Mill., Aime & T.W. Henkel SPECIES
 
 #### Status
 ACCEPTED

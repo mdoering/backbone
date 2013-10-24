@@ -1,5 +1,4 @@
-Lactarius steffenii Rick SPECIES
-=======
+# Lactarius steffenii Rick SPECIES
 
 #### Status
 ACCEPTED

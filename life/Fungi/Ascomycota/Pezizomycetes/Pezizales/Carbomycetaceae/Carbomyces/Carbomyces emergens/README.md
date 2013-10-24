@@ -1,5 +1,4 @@
-Carbomyces emergens Gilkey, 1954 SPECIES
-=======
+# Carbomyces emergens Gilkey, 1954 SPECIES
 
 #### Status
 ACCEPTED

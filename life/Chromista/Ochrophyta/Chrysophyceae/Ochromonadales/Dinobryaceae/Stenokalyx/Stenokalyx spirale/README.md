@@ -1,5 +1,4 @@
-Stenokalyx spirale SPECIES
-=======
+# Stenokalyx spirale SPECIES
 
 #### Status
 ACCEPTED

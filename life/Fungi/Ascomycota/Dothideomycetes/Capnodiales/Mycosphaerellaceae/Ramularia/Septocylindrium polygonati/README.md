@@ -1,5 +1,4 @@
-Septocylindrium polygonati Naumov {?} SPECIES
-=======
+# Septocylindrium polygonati Naumov {?} SPECIES
 
 #### Status
 ACCEPTED

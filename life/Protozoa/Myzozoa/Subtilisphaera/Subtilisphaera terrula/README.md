@@ -1,5 +1,4 @@
-Subtilisphaera terrula (Davey, 1974) Lentin & Williams, 1975 SPECIES
-=======
+# Subtilisphaera terrula (Davey, 1974) Lentin & Williams, 1975 SPECIES
 
 #### Status
 ACCEPTED

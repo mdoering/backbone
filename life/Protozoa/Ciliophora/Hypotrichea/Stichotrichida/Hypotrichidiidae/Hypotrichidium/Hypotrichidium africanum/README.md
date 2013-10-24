@@ -1,5 +1,4 @@
-Hypotrichidium africanum Jankowski, 1979 SPECIES
-=======
+# Hypotrichidium africanum Jankowski, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis conus SPECIES
-=======
+# Tintinnopsis conus SPECIES
 
 #### Status
 ACCEPTED

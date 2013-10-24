@@ -1,5 +1,4 @@
-Septoria eriophori Oudem. SPECIES
-=======
+# Septoria eriophori Oudem. SPECIES
 
 #### Status
 ACCEPTED

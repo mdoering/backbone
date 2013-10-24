@@ -1,5 +1,4 @@
-Lecanora lilacina C.W. Dodge & G.E. Baker SPECIES
-=======
+# Lecanora lilacina C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

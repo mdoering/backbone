@@ -1,5 +1,4 @@
-Physisporus vitellinus P. Karst. SPECIES
-=======
+# Physisporus vitellinus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

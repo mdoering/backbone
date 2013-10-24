@@ -1,5 +1,4 @@
-Euglena simulacra Walton SPECIES
-=======
+# Euglena simulacra Walton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora persicae Schwein. SPECIES
-=======
+# Cytospora persicae Schwein. SPECIES
 
 #### Status
 ACCEPTED

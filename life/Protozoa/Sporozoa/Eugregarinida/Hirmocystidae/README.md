@@ -1,5 +1,4 @@
-Hirmocystidae FAMILY
-=======
+# Hirmocystidae FAMILY
 
 #### Status
 ACCEPTED

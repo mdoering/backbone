@@ -1,5 +1,4 @@
-Lecanora aberrata (Stirt.) Elix SPECIES
-=======
+# Lecanora aberrata (Stirt.) Elix SPECIES
 
 #### Status
 ACCEPTED

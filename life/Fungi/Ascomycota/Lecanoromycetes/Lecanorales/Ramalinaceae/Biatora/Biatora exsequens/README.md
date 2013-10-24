@@ -1,5 +1,4 @@
-Biatora exsequens (Nyl.) Arnold SPECIES
-=======
+# Biatora exsequens (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

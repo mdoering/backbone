@@ -1,5 +1,4 @@
-Buellia xantholepsis (Stizenb.) Müll. Arg. SPECIES
-=======
+# Buellia xantholepsis (Stizenb.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

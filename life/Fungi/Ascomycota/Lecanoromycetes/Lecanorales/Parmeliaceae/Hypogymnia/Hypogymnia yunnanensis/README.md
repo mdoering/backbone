@@ -1,5 +1,4 @@
-Hypogymnia yunnanensis Y.M. Jiang & J.C. Wei SPECIES
-=======
+# Hypogymnia yunnanensis Y.M. Jiang & J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

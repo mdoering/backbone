@@ -1,5 +1,4 @@
-Microeurotium albidum Ghatak, 1936 SPECIES
-=======
+# Microeurotium albidum Ghatak, 1936 SPECIES
 
 #### Status
 ACCEPTED

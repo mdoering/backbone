@@ -1,5 +1,4 @@
-Sphaeria macowaniae Kalchbr. & Cooke SPECIES
-=======
+# Sphaeria macowaniae Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

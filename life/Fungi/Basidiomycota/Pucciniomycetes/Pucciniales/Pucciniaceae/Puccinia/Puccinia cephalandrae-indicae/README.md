@@ -1,5 +1,4 @@
-Puccinia cephalandrae-indicae Syd. & P. Syd., 1906 SPECIES
-=======
+# Puccinia cephalandrae-indicae Syd. & P. Syd., 1906 SPECIES
 
 #### Status
 ACCEPTED

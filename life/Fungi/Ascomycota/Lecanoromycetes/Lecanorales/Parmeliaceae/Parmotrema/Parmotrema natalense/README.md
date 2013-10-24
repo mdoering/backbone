@@ -1,5 +1,4 @@
-Parmotrema natalense (J. Steiner & Zahlbr.) Hale SPECIES
-=======
+# Parmotrema natalense (J. Steiner & Zahlbr.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina cinerosula (Bagl.) Zahlbr. SPECIES
-=======
+# Porina cinerosula (Bagl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

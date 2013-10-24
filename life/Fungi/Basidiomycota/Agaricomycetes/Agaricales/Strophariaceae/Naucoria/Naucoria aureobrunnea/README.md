@@ -1,5 +1,4 @@
-Naucoria aureobrunnea (Berk. & M.A. Curtis) Cout. SPECIES
-=======
+# Naucoria aureobrunnea (Berk. & M.A. Curtis) Cout. SPECIES
 
 #### Status
 ACCEPTED

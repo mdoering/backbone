@@ -1,5 +1,4 @@
-Uredo paeoniarum Desm. SPECIES
-=======
+# Uredo paeoniarum Desm. SPECIES
 
 #### Status
 ACCEPTED

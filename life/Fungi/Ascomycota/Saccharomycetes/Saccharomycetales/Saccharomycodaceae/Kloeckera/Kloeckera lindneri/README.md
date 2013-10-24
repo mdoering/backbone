@@ -1,5 +1,4 @@
-Kloeckera lindneri var. lindneri VARIETY
-=======
+# Kloeckera lindneri anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Kloeckera lindneri var. lindneri
+Kloeckera lindneri anon.
 
 ### Remarks
 null

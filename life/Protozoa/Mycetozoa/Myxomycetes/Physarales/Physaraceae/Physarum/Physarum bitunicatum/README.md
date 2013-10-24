@@ -1,5 +1,4 @@
-Physarum bitunicatum S. Carter & Nann.-Bremek., 1972 SPECIES
-=======
+# Physarum bitunicatum S. Carter & Nann.-Bremek., 1972 SPECIES
 
 #### Status
 ACCEPTED

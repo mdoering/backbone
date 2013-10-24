@@ -1,5 +1,4 @@
-Chaetophiophoma trematis Speg., 1910 SPECIES
-=======
+# Chaetophiophoma trematis Speg., 1910 SPECIES
 
 #### Status
 ACCEPTED

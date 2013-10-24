@@ -1,14 +1,13 @@
-Favolaschia minima (Jungh.) Kuntze, 1898 SPECIES
-=======
+# Panellus minimus (Jungh.) P.R. Johnst. & Moncalvo, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 476 (1898)
+in Johnston, Whitton, Buchanan, Park, Pennycook, Johnson & Moncalvo, N. Z. Jl Bot. 44(1): 78 (2006)
 
 #### Original name
 Polyporus minimus (Fr.) Mussat, 1900

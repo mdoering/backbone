@@ -1,5 +1,4 @@
-Humaria parasitica Velen. SPECIES
-=======
+# Humaria parasitica Velen. SPECIES
 
 #### Status
 ACCEPTED

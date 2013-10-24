@@ -1,5 +1,4 @@
-Stereogloeocystidium GENUS
-=======
+# Stereogloeocystidium GENUS
 
 #### Status
 ACCEPTED

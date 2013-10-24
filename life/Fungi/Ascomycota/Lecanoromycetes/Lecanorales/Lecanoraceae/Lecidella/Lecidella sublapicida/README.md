@@ -1,14 +1,13 @@
-Lecidea sublapicida C. Knight SPECIES
-=======
+# Lecidella sublapicida (C. Knight) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 19: 444 (1983)
 
 #### Original name
 Lecidea sublapicida C. Knight

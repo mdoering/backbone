@@ -1,5 +1,4 @@
-Erymnodinium J.K. Lentin, R.A. Fensom & G.L. Williams, 1994 GENUS
-=======
+# Erymnodinium J.K. Lentin, R.A. Fensom & G.L. Williams, 1994 GENUS
 
 #### Status
 ACCEPTED

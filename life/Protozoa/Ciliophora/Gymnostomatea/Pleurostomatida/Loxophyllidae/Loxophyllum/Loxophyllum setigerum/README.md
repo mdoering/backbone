@@ -1,8 +1,7 @@
-Loxophylum setigerum SPECIES
-=======
+# Loxophyllum setigerum Quennerstedt, 1867 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

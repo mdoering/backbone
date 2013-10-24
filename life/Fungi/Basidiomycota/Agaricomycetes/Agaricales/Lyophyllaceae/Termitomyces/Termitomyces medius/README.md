@@ -1,5 +1,4 @@
-Termitomyces medius R. Heim & Grassé {?} SPECIES
-=======
+# Termitomyces medius R. Heim & Grassé {?} SPECIES
 
 #### Status
 ACCEPTED

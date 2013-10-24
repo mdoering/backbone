@@ -1,5 +1,4 @@
-Sphaerella togniniana Traverso SPECIES
-=======
+# Sphaerella togniniana Traverso SPECIES
 
 #### Status
 ACCEPTED

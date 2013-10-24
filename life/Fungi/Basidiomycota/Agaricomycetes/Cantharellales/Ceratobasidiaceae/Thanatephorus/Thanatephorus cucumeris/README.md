@@ -1,17 +1,16 @@
-Pellicularia filamentosa f. sp FORM
-=======
+# Thanatephorus cucumeris (A.B. Frank) Donk, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 45: 717 (1953)
+Reinwardtia 3: 376 (1956)
 
 #### Original name
-Pellicularia filamentosa f. sp
+Hypochnus cucumeris A.B. Frank, 1883
 
 ### Remarks
 null

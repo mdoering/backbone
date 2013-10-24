@@ -1,5 +1,4 @@
-Tubercularia bicolor Alb. & Schwein. SPECIES
-=======
+# Tubercularia bicolor Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

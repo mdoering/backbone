@@ -1,5 +1,4 @@
-Phaeographidomyces sordidae Cif. & Tomas. SPECIES
-=======
+# Phaeographidomyces sordidae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

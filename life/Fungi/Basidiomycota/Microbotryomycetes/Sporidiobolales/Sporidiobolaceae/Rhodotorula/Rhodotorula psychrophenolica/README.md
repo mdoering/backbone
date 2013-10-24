@@ -1,5 +1,4 @@
-Rhodotorula psychrophenolica Margesin & Sampaio SPECIES
-=======
+# Rhodotorula psychrophenolica Margesin & Sampaio SPECIES
 
 #### Status
 ACCEPTED

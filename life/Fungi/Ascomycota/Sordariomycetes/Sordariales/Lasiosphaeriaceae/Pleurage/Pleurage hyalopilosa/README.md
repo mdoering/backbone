@@ -1,5 +1,4 @@
-Pleurage hyalopilosa R. Stratton SPECIES
-=======
+# Pleurage hyalopilosa R. Stratton SPECIES
 
 #### Status
 ACCEPTED

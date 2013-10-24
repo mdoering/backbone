@@ -1,17 +1,16 @@
-Sticta shirleyana Müll. Arg. SPECIES
-=======
+# Sticta stipitata C. Knight ex F. Wilson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 32: 122 (1893)
+in Wilson, Proc. R. Soc. Qd. 7: 10 (1891)
 
 #### Original name
-Sticta shirleyana Müll. Arg.
+Sticta stipitata C. Knight ex F. Wilson
 
 ### Remarks
 null

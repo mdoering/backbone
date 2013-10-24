@@ -1,14 +1,13 @@
-Marssonia necans (Ellis & Everh.) Sacc., 1892 SPECIES
-=======
+# Marssonina necans (Ellis & Everh.) Magnus, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 10: 480 (1892)
+Hedwigia 45: 90 (1906)
 
 #### Original name
 Gloeosporium necans Ellis & Everh., 1888

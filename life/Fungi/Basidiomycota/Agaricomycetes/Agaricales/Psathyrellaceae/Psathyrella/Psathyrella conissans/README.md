@@ -1,5 +1,4 @@
-Psathyrella conissans (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella conissans (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

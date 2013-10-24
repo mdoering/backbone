@@ -1,5 +1,4 @@
-Physcia formosa Fée SPECIES
-=======
+# Physcia formosa Fée SPECIES
 
 #### Status
 ACCEPTED

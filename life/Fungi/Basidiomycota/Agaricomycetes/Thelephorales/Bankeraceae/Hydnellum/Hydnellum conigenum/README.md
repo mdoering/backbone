@@ -1,5 +1,4 @@
-Hydnellum conigenum (Peck) Banker SPECIES
-=======
+# Hydnellum conigenum (Peck) Banker SPECIES
 
 #### Status
 ACCEPTED

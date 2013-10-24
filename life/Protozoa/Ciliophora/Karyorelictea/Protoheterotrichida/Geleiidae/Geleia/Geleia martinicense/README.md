@@ -1,5 +1,4 @@
-Geleia martinicense Nouzarède, 1976 SPECIES
-=======
+# Geleia martinicense Nouzarède, 1976 SPECIES
 
 #### Status
 ACCEPTED

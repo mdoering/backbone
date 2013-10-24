@@ -1,5 +1,4 @@
-Gorgoniceps viridula Huhtinen & Iturr., 1987 SPECIES
-=======
+# Gorgoniceps viridula Huhtinen & Iturr., 1987 SPECIES
 
 #### Status
 ACCEPTED

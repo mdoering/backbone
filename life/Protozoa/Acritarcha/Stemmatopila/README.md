@@ -1,5 +1,4 @@
-Stemmatopila G. Claus & B. Nagy, 1962 GENUS
-=======
+# Stemmatopila G. Claus & B. Nagy, 1962 GENUS
 
 #### Status
 ACCEPTED

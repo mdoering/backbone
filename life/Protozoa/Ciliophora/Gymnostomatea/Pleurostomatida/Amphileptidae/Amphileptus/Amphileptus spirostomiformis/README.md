@@ -1,5 +1,4 @@
-Amphileptus spirostomiformis Dumas SPECIES
-=======
+# Amphileptus spirostomiformis Dumas SPECIES
 
 #### Status
 ACCEPTED

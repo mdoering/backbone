@@ -1,5 +1,4 @@
-Pleosporonites R.T. Lange & P.H. Sm. GENUS
-=======
+# Pleosporonites R.T. Lange & P.H. Sm. GENUS
 
 #### Status
 ACCEPTED

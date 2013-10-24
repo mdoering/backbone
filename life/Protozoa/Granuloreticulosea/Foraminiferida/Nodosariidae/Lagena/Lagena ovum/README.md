@@ -1,5 +1,4 @@
-Lagena ovum Ehrenberg, 1843 SPECIES
-=======
+# Lagena ovum Ehrenberg, 1843 SPECIES
 
 #### Status
 ACCEPTED

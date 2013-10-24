@@ -1,5 +1,4 @@
-Bovista cervina Berk. SPECIES
-=======
+# Bovista cervina Berk. SPECIES
 
 #### Status
 ACCEPTED

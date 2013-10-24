@@ -1,5 +1,4 @@
-Lecanora dovrensis Hedl. SPECIES
-=======
+# Lecanora dovrensis Hedl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavulinopsis daigremontiana (Boud.) Corner SPECIES
-=======
+# Clavulinopsis daigremontiana (Boud.) Corner SPECIES
 
 #### Status
 ACCEPTED

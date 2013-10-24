@@ -1,5 +1,4 @@
-Metasphaeria stypheliae Hansf. SPECIES
-=======
+# Metasphaeria stypheliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

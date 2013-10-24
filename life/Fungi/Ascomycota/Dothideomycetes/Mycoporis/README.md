@@ -1,5 +1,4 @@
-Mycoporis Clem. GENUS
-=======
+# Mycoporis Clem. GENUS
 
 #### Status
 ACCEPTED

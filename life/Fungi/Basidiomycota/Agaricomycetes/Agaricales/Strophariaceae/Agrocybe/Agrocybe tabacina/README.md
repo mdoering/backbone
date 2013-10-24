@@ -1,5 +1,4 @@
-Agrocybe tabacina (DC.) Konrad & Maubl. SPECIES
-=======
+# Agrocybe tabacina (DC.) Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED

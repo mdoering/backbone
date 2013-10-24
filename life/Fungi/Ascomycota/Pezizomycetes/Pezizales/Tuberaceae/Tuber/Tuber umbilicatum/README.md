@@ -1,5 +1,4 @@
-Tuber umbilicatum Juan Chen & P.G. Liu SPECIES
-=======
+# Tuber umbilicatum Juan Chen & P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

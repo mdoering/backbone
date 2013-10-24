@@ -1,5 +1,4 @@
-Inocybe lasseri Dennis SPECIES
-=======
+# Inocybe lasseri Dennis SPECIES
 
 #### Status
 ACCEPTED

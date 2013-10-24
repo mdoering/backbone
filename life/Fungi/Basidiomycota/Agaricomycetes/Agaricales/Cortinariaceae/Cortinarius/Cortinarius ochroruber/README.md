@@ -1,5 +1,4 @@
-Cortinarius ochroruber Rob. Henry SPECIES
-=======
+# Cortinarius ochroruber Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

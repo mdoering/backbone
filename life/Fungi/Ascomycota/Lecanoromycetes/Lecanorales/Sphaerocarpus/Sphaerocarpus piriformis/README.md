@@ -1,5 +1,4 @@
-Sphaerocarpus piriformis Bull. SPECIES
-=======
+# Sphaerocarpus piriformis Bull. SPECIES
 
 #### Status
 ACCEPTED

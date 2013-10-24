@@ -1,5 +1,4 @@
-Cryptococcus nemorosus Golubev, Gadanho, J.P. Samp. & N.W. Golubev SPECIES
-=======
+# Cryptococcus nemorosus Golubev, Gadanho, J.P. Samp. & N.W. Golubev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammodiscus flavidus Hoeglund, 1947 SPECIES
-=======
+# Ammodiscus flavidus Hoeglund, 1947 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoderma lactis-butyri Desm. SPECIES
-=======
+# Mycoderma lactis-butyri Desm. SPECIES
 
 #### Status
 ACCEPTED

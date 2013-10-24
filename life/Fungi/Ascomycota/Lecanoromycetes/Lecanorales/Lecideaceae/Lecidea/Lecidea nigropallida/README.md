@@ -1,8 +1,7 @@
-Lecidea nigro-pallida Nyl. SPECIES
-=======
+# Lecidea nigropallida Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea nigro-pallida Nyl.
+Lecidea nigropallida Nyl.
 
 ### Remarks
 null

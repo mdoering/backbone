@@ -1,5 +1,4 @@
-Massarina submediana Kaz. Tanaka & Y. Harada, 2003 SPECIES
-=======
+# Massarina submediana Kaz. Tanaka & Y. Harada, 2003 SPECIES
 
 #### Status
 ACCEPTED

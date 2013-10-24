@@ -1,5 +1,4 @@
-Verrucaria euganea Trevis. SPECIES
-=======
+# Verrucaria euganea Trevis. SPECIES
 
 #### Status
 ACCEPTED

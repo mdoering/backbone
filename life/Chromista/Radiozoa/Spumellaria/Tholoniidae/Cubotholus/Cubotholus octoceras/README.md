@@ -1,5 +1,4 @@
-Cubotholus octoceras Haeckel, 1887 SPECIES
-=======
+# Cubotholus octoceras Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

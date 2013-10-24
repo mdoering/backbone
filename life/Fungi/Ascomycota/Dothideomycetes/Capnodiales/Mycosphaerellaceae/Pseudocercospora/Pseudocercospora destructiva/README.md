@@ -1,5 +1,4 @@
-Pseudocercospora destructiva (Ravenel) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora destructiva (Ravenel) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

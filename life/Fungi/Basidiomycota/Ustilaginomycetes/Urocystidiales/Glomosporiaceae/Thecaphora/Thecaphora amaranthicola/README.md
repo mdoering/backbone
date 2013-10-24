@@ -1,5 +1,4 @@
-Thecaphora amaranthicola M. Piepenbr. SPECIES
-=======
+# Thecaphora amaranthicola M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

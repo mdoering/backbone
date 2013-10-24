@@ -1,5 +1,4 @@
-Mucor aureus Mart. SPECIES
-=======
+# Mucor aureus Mart. SPECIES
 
 #### Status
 ACCEPTED

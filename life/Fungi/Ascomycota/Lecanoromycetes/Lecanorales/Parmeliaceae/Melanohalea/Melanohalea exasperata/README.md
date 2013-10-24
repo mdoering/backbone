@@ -1,5 +1,4 @@
-Parmelia aspera f. aspera FORM
-=======
+# Melanohalea exasperata (De Not.) O. Blanco, A. Crespo, Divakar, Essl., D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Memor. Lichenogr. 53, fig. 56 (1853)
+Mycol. Res. 108(8): 882 (2004)
 
 #### Original name
-Parmelia aspera f. aspera
+Parmelia exasperata
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Allomyces strangulata Minden SPECIES
-=======
+# Allomyces strangulata Minden SPECIES
 
 #### Status
 ACCEPTED

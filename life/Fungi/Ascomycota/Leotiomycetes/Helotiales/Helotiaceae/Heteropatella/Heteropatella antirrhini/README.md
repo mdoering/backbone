@@ -1,5 +1,4 @@
-Heteropatella antirrhini Buddin & Wakef., 1926 SPECIES
-=======
+# Heteropatella antirrhini Buddin & Wakef., 1926 SPECIES
 
 #### Status
 ACCEPTED

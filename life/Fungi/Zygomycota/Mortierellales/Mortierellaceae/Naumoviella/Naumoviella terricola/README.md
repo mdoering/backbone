@@ -1,5 +1,4 @@
-Naumoviella terricola Naumov & Ibrah. SPECIES
-=======
+# Naumoviella terricola Naumov & Ibrah. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza hyperici (J. Schröt.) Sacc. SPECIES
-=======
+# Trichopeziza hyperici (J. Schröt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

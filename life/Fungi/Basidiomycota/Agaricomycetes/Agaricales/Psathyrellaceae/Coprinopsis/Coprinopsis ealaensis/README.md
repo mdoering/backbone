@@ -1,17 +1,16 @@
-Coprinopsis ealeansis Beeli SPECIES
-=======
+# Coprinopsis ealaensis Beeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 61(1): 98 (1928)
 
 #### Original name
-Coprinopsis ealeansis Beeli
+Coprinopsis ealaensis Beeli
 
 ### Remarks
 null

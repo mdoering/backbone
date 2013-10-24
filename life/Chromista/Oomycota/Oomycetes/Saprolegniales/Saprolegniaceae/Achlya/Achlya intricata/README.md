@@ -1,5 +1,4 @@
-Achlya intricata Beneke, 1948 SPECIES
-=======
+# Achlya intricata Beneke, 1948 SPECIES
 
 #### Status
 ACCEPTED

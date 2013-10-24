@@ -1,5 +1,4 @@
-Jakubowskia O. Varol, 1989 GENUS
-=======
+# Jakubowskia O. Varol, 1989 GENUS
 
 #### Status
 ACCEPTED

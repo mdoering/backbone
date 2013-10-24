@@ -1,17 +1,16 @@
-Helotium nervicolum Velen. SPECIES
-=======
+# Helotium nervicola Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 206 (1934)
 
 #### Original name
-Helotium nervicolum Velen.
+Helotium nervicola Velen.
 
 ### Remarks
 null

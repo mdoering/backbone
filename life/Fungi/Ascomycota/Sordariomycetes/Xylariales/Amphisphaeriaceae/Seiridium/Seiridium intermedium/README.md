@@ -1,14 +1,13 @@
-Ceratophorum intermedium (Sacc.) G. Arnaud, 1954 SPECIES
-=======
+# Seiridium intermedium (Sacc.) B. Sutton, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 69: 287 (1954)
+Mycol. Pap. 138: 120 (1975)
 
 #### Original name
 Coryneum intermedium Sacc., 1877

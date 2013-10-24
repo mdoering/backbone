@@ -1,5 +1,4 @@
-Epilithonimonas tenax O'Sullivan et al., 2006 SPECIES
-=======
+# Epilithonimonas tenax O'Sullivan et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

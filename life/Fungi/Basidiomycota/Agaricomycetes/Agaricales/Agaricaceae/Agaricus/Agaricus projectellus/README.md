@@ -1,5 +1,4 @@
-Agaricus projectellus Murrill SPECIES
-=======
+# Agaricus projectellus Murrill SPECIES
 
 #### Status
 ACCEPTED

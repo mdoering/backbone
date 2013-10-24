@@ -1,17 +1,16 @@
-Pseudohansfordia hughii S.M. Reddy & Bilgrami, 1975 SPECIES
-=======
+# Pseudohansfordia irregularis G.R.W. Arnold, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 26(1): 153 (1975)
+Z. Pilzk. 35(3-4): 308 (1970)
 
 #### Original name
-Pseudohansfordia hughii S.M. Reddy & Bilgrami, 1975
+Pseudohansfordia irregularis G.R.W. Arnold, 1970
 
 ### Remarks
 null

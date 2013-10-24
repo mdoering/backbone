@@ -1,5 +1,4 @@
-Mycobilimbia austrocalifornica (Zahlbr.) Knudsen SPECIES
-=======
+# Mycobilimbia austrocalifornica (Zahlbr.) Knudsen SPECIES
 
 #### Status
 ACCEPTED

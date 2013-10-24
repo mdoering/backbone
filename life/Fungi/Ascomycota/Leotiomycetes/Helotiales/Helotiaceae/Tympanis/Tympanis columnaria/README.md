@@ -1,5 +1,4 @@
-Tympanis columnaria Höhn. SPECIES
-=======
+# Tympanis columnaria Höhn. SPECIES
 
 #### Status
 ACCEPTED

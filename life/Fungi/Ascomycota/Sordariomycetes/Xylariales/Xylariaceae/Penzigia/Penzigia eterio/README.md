@@ -1,5 +1,4 @@
-Penzigia eterio (Berk. & Broome) Petch SPECIES
-=======
+# Penzigia eterio (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

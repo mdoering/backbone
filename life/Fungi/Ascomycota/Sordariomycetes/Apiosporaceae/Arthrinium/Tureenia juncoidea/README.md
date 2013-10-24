@@ -1,5 +1,4 @@
-Tureenia juncoidea J.G. Hall SPECIES
-=======
+# Tureenia juncoidea J.G. Hall SPECIES
 
 #### Status
 ACCEPTED

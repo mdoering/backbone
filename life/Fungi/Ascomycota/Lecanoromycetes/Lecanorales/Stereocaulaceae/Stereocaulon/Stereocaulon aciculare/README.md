@@ -1,5 +1,4 @@
-Stereocaulon aciculare (Ach.) Tuck. SPECIES
-=======
+# Stereocaulon aciculare (Ach.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

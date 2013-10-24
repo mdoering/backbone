@@ -1,5 +1,4 @@
-Labyrinthodinium truncatum Piasecki, 1980 SPECIES
-=======
+# Labyrinthodinium truncatum Piasecki, 1980 SPECIES
 
 #### Status
 ACCEPTED

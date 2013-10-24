@@ -1,5 +1,4 @@
-Theoperidae Haeckel, 1881 FAMILY
-=======
+# Theoperidae Haeckel, 1881 FAMILY
 
 #### Status
 ACCEPTED

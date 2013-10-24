@@ -1,5 +1,4 @@
-Verrucaria vallis SPECIES
-=======
+# Verrucaria vallis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe peruviana (Syd.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe peruviana (Syd.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

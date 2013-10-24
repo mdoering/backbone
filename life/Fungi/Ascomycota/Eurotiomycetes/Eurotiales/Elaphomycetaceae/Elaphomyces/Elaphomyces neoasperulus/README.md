@@ -1,5 +1,4 @@
-Elaphomyces neoasperulus Kobayasi SPECIES
-=======
+# Elaphomyces neoasperulus Kobayasi SPECIES
 
 #### Status
 ACCEPTED

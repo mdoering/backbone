@@ -1,5 +1,4 @@
-Placodium flavorubens Nyl. SPECIES
-=======
+# Placodium flavorubens Nyl. SPECIES
 
 #### Status
 ACCEPTED

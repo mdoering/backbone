@@ -1,5 +1,4 @@
-Pyxicola pusilla Kent, 1882 SPECIES
-=======
+# Pyxicola pusilla Kent, 1882 SPECIES
 
 #### Status
 ACCEPTED

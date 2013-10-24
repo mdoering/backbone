@@ -1,5 +1,4 @@
-Vaucheria gyrogyna T. J. Entwisle SPECIES
-=======
+# Vaucheria gyrogyna T. J. Entwisle SPECIES
 
 #### Status
 ACCEPTED

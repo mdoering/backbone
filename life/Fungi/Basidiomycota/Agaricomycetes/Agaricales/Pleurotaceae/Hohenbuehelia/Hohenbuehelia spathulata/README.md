@@ -1,5 +1,4 @@
-Hohenbuehelia spathulata (Pers.) Singer SPECIES
-=======
+# Hohenbuehelia spathulata (Pers.) Singer SPECIES
 
 #### Status
 ACCEPTED

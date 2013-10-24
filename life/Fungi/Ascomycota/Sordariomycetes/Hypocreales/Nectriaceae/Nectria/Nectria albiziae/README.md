@@ -1,5 +1,4 @@
-Nectria albiziae Woron. SPECIES
-=======
+# Nectria albiziae Woron. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria gymnosporiae Syd. SPECIES
-=======
+# Septoria gymnosporiae Syd. SPECIES
 
 #### Status
 ACCEPTED

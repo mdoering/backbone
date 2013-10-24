@@ -1,5 +1,4 @@
-Mycothyridium deviatum (Petr.) Petr. SPECIES
-=======
+# Mycothyridium deviatum (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiotina mycenoides (Fr.) Singer SPECIES
-=======
+# Pholiotina mycenoides (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

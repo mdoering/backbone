@@ -1,5 +1,4 @@
-Microcystis reinboldii (Richter) Forti SPECIES
-=======
+# Microcystis reinboldii (Richter) Forti SPECIES
 
 #### Status
 ACCEPTED

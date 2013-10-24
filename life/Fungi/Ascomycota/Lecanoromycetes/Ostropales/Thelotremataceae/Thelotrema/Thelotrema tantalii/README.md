@@ -1,5 +1,4 @@
-Thelotrema tantalii Zahlbr. SPECIES
-=======
+# Thelotrema tantalii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium subpallidulum Litsch. SPECIES
-=======
+# Corticium subpallidulum Litsch. SPECIES
 
 #### Status
 ACCEPTED

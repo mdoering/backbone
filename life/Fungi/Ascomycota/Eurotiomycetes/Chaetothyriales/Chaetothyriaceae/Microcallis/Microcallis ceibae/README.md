@@ -1,5 +1,4 @@
-Microcallis ceibae Bat. & I.H. Lima SPECIES
-=======
+# Microcallis ceibae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Borkovia Mikryukov & Mylnikov, 1996 GENUS
-=======
+# Borkovia Mikryukov & Mylnikov, 1996 GENUS
 
 #### Status
 ACCEPTED

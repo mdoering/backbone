@@ -1,5 +1,4 @@
-Petalomonas ventritracta Skuja SPECIES
-=======
+# Petalomonas ventritracta Skuja SPECIES
 
 #### Status
 ACCEPTED

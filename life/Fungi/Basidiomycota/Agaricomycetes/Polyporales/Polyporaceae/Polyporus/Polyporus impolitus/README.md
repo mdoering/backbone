@@ -1,5 +1,4 @@
-Polyporus impolitus Fr. SPECIES
-=======
+# Polyporus impolitus Fr. SPECIES
 
 #### Status
 ACCEPTED

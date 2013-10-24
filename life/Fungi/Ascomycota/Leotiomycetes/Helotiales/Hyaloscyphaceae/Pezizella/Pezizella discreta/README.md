@@ -1,5 +1,4 @@
-Pezizella discreta (P. Karst.) Dennis, 1956 SPECIES
-=======
+# Pezizella discreta (P. Karst.) Dennis, 1956 SPECIES
 
 #### Status
 ACCEPTED

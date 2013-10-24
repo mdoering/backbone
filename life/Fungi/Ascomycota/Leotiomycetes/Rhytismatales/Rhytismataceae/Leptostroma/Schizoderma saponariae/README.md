@@ -1,5 +1,4 @@
-Schizoderma saponariae Fr. SPECIES
-=======
+# Schizoderma saponariae Fr. SPECIES
 
 #### Status
 ACCEPTED

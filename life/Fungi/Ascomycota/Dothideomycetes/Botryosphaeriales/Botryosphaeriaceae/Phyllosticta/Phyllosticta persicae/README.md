@@ -1,5 +1,4 @@
-Phyllosticta persicae Sacc. SPECIES
-=======
+# Phyllosticta persicae Sacc. SPECIES
 
 #### Status
 ACCEPTED

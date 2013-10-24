@@ -1,5 +1,4 @@
-Amanita dunicola Guzmán SPECIES
-=======
+# Amanita dunicola Guzmán SPECIES
 
 #### Status
 ACCEPTED

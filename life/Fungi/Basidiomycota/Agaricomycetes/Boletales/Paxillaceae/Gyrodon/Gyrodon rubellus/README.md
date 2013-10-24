@@ -1,5 +1,4 @@
-Gyrodon rubellus McWeeney SPECIES
-=======
+# Gyrodon rubellus McWeeney SPECIES
 
 #### Status
 ACCEPTED

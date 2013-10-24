@@ -1,5 +1,4 @@
-Cercospora schreberae Mahmud SPECIES
-=======
+# Cercospora schreberae Mahmud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia arcu Berk. & Broome SPECIES
-=======
+# Hendersonia arcu Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

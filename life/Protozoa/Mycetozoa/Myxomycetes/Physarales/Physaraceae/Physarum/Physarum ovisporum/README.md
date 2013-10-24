@@ -1,5 +1,4 @@
-Physarum ovisporum G. Lister, 1921 SPECIES
-=======
+# Physarum ovisporum G. Lister, 1921 SPECIES
 
 #### Status
 ACCEPTED

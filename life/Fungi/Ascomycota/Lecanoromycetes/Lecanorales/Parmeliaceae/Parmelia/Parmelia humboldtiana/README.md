@@ -1,5 +1,4 @@
-Parmelia humboldtiana SPECIES
-=======
+# Parmelia humboldtiana SPECIES
 
 #### Status
 ACCEPTED

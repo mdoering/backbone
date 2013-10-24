@@ -1,5 +1,4 @@
-Leptographium longiclavatum S.W. Lee, J.J. Kim & C. Breuil SPECIES
-=======
+# Leptographium longiclavatum S.W. Lee, J.J. Kim & C. Breuil SPECIES
 
 #### Status
 ACCEPTED

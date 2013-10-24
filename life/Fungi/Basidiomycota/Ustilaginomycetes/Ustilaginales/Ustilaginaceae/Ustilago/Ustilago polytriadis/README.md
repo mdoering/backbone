@@ -1,5 +1,4 @@
-Ustilago polytriadis Massee SPECIES
-=======
+# Ustilago polytriadis Massee SPECIES
 
 #### Status
 ACCEPTED

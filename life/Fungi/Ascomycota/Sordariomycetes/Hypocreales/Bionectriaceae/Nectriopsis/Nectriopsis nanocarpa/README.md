@@ -1,5 +1,4 @@
-Nectriopsis nanocarpa Samuels SPECIES
-=======
+# Nectriopsis nanocarpa Samuels SPECIES
 
 #### Status
 ACCEPTED

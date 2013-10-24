@@ -1,5 +1,4 @@
-Polycoccum serusiauxii Matzer SPECIES
-=======
+# Polycoccum serusiauxii Matzer SPECIES
 
 #### Status
 ACCEPTED

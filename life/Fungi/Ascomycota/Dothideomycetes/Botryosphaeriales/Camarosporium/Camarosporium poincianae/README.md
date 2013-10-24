@@ -1,17 +1,16 @@
-Camarosporium poincianum Gucevic SPECIES
-=======
+# Camarosporium poincianae Gucevic SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trudy gos. nikit. bot. Sada 32: 151 (1960)
 
 #### Original name
-Camarosporium poincianum Gucevic
+Camarosporium poincianae Gucevic
 
 ### Remarks
 null

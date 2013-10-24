@@ -1,5 +1,4 @@
-Ascochyta sambuci Pandotra & K.S.M. Sastry SPECIES
-=======
+# Ascochyta sambuci Pandotra & K.S.M. Sastry SPECIES
 
 #### Status
 ACCEPTED

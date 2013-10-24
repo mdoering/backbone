@@ -1,5 +1,4 @@
-Baltisphaeridium parvirochesterensis Cramer & Díez, 1972 SPECIES
-=======
+# Baltisphaeridium parvirochesterensis Cramer & Díez, 1972 SPECIES
 
 #### Status
 ACCEPTED

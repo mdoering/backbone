@@ -1,5 +1,4 @@
-Rosellinia canzacotoana Pat. SPECIES
-=======
+# Rosellinia canzacotoana Pat. SPECIES
 
 #### Status
 ACCEPTED

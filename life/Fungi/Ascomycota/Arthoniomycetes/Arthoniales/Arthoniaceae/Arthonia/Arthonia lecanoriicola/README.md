@@ -1,5 +1,4 @@
-Arthonia lecanoriicola Alstrup & Olech SPECIES
-=======
+# Arthonia lecanoriicola Alstrup & Olech SPECIES
 
 #### Status
 ACCEPTED

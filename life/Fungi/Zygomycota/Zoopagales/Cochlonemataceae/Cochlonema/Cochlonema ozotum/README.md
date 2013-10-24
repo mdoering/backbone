@@ -1,5 +1,4 @@
-Cochlonema ozotum Drechsler, 1945 SPECIES
-=======
+# Cochlonema ozotum Drechsler, 1945 SPECIES
 
 #### Status
 ACCEPTED

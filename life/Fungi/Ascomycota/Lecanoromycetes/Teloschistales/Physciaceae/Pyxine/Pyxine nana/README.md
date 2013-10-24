@@ -1,5 +1,4 @@
-Pyxine nana Kalb SPECIES
-=======
+# Pyxine nana Kalb SPECIES
 
 #### Status
 ACCEPTED

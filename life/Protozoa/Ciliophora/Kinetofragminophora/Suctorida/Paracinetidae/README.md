@@ -1,5 +1,4 @@
-Paracinetidae Jankowksi, 1978 FAMILY
-=======
+# Paracinetidae Jankowksi, 1978 FAMILY
 
 #### Status
 ACCEPTED

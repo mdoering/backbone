@@ -1,5 +1,4 @@
-Lepiota continua Berk. SPECIES
-=======
+# Lepiota continua Berk. SPECIES
 
 #### Status
 ACCEPTED

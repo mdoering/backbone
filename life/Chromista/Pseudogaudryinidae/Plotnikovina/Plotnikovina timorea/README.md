@@ -1,5 +1,4 @@
-Plotnikovina timorea Loeblich & Tappan, 1994 SPECIES
-=======
+# Plotnikovina timorea Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

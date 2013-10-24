@@ -1,5 +1,4 @@
-Phyllosticta stangeriae H. Zimm. SPECIES
-=======
+# Phyllosticta stangeriae H. Zimm. SPECIES
 
 #### Status
 ACCEPTED

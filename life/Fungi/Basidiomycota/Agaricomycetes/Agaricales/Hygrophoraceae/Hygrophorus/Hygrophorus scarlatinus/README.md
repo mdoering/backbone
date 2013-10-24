@@ -1,5 +1,4 @@
-Hygrophorus scarlatinus Kalchbr. SPECIES
-=======
+# Hygrophorus scarlatinus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

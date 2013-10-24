@@ -1,5 +1,4 @@
-Pseudopyrenula chionea (Mont.) Zahlbr. SPECIES
-=======
+# Pseudopyrenula chionea (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

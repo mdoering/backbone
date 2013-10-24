@@ -1,5 +1,4 @@
-Collybia trinitatis Dennis SPECIES
-=======
+# Collybia trinitatis Dennis SPECIES
 
 #### Status
 ACCEPTED

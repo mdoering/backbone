@@ -1,5 +1,4 @@
-Merulius purpureus Pers. SPECIES
-=======
+# Merulius purpureus Pers. SPECIES
 
 #### Status
 ACCEPTED

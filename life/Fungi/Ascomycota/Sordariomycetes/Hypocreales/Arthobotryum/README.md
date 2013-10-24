@@ -1,5 +1,4 @@
-Arthobotryum GENUS
-=======
+# Arthobotryum GENUS
 
 #### Status
 ACCEPTED

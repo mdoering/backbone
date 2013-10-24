@@ -1,5 +1,4 @@
-Tessaraspis Haeckel, 1881 GENUS
-=======
+# Tessaraspis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

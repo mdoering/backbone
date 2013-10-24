@@ -1,5 +1,4 @@
-Hemithecium isidiatum Upreti & U. Dubey SPECIES
-=======
+# Hemithecium isidiatum Upreti & U. Dubey SPECIES
 
 #### Status
 ACCEPTED

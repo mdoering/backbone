@@ -1,5 +1,4 @@
-Morchella rufobrunnea Guzmán & F. Tapia SPECIES
-=======
+# Morchella rufobrunnea Guzmán & F. Tapia SPECIES
 
 #### Status
 ACCEPTED

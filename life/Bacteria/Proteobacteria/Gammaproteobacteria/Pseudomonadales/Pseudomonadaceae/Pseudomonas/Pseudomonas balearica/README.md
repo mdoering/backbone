@@ -1,5 +1,4 @@
-Pseudomonas balearica Bennasar et al., 1996 SPECIES
-=======
+# Pseudomonas balearica Bennasar et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

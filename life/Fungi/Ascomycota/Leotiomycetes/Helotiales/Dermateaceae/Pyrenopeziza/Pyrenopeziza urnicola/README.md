@@ -1,5 +1,4 @@
-Pyrenopeziza urnicola Mouton & Sacc. SPECIES
-=======
+# Pyrenopeziza urnicola Mouton & Sacc. SPECIES
 
 #### Status
 ACCEPTED

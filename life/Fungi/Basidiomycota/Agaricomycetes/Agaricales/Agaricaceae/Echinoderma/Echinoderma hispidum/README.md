@@ -1,5 +1,4 @@
-Echinoderma hispidum (Lasch) Bon SPECIES
-=======
+# Echinoderma hispidum (Lasch) Bon SPECIES
 
 #### Status
 ACCEPTED

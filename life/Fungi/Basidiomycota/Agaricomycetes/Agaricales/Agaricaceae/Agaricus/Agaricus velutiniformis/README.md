@@ -1,5 +1,4 @@
-Agaricus velutiniformis Schulzer SPECIES
-=======
+# Agaricus velutiniformis Schulzer SPECIES
 
 #### Status
 ACCEPTED

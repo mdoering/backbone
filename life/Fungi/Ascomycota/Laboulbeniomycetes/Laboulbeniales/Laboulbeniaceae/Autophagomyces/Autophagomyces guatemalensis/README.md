@@ -1,5 +1,4 @@
-Autophagomyces guatemalensis Thaxt. SPECIES
-=======
+# Autophagomyces guatemalensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

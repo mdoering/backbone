@@ -1,5 +1,4 @@
-Cortinarius fundatus Britzelm. SPECIES
-=======
+# Cortinarius fundatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

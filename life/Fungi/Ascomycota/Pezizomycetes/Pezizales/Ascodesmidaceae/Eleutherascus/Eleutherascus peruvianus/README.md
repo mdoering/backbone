@@ -1,5 +1,4 @@
-Eleutherascus peruvianus L.H. Huang, 1975 SPECIES
-=======
+# Eleutherascus peruvianus L.H. Huang, 1975 SPECIES
 
 #### Status
 ACCEPTED

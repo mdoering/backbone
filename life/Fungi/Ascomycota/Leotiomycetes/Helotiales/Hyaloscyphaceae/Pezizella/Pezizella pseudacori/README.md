@@ -1,5 +1,4 @@
-Pezizella pseudacori Feltgen SPECIES
-=======
+# Pezizella pseudacori Feltgen SPECIES
 
 #### Status
 ACCEPTED

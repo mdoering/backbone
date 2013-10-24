@@ -1,5 +1,4 @@
-Lecanora tegularis (Ehrh.) Röhl. SPECIES
-=======
+# Lecanora tegularis (Ehrh.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe peralbida Murrill SPECIES
-=======
+# Clitocybe peralbida Murrill SPECIES
 
 #### Status
 ACCEPTED

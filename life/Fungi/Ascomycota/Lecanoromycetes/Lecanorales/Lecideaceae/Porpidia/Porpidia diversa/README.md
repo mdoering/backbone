@@ -1,5 +1,4 @@
-Porpidia diversa (J. Lowe) Gowan SPECIES
-=======
+# Porpidia diversa (J. Lowe) Gowan SPECIES
 
 #### Status
 ACCEPTED

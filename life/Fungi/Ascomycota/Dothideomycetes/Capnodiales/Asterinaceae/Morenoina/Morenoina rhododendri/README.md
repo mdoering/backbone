@@ -1,5 +1,4 @@
-Morenoina rhododendri J.P. Ellis, 1980 SPECIES
-=======
+# Morenoina rhododendri J.P. Ellis, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia pryorii Petr. SPECIES
-=======
+# Puccinia pryorii Petr. SPECIES
 
 #### Status
 ACCEPTED

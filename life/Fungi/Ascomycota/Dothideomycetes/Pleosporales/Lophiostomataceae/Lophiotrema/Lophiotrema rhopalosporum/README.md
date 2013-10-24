@@ -1,5 +1,4 @@
-Lophiotrema rhopalosporum Ellis & Everh. SPECIES
-=======
+# Lophiotrema rhopalosporum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

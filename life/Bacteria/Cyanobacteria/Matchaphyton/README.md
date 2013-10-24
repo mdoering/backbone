@@ -1,5 +1,4 @@
-Matchaphyton P.N. Kolosov, 1982 GENUS
-=======
+# Matchaphyton P.N. Kolosov, 1982 GENUS
 
 #### Status
 ACCEPTED

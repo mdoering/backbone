@@ -1,17 +1,16 @@
-Biatora fuscorubens f. fuscorubens FORM
-=======
+# Biatora fuscorubens SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Biatora fuscorubens f. fuscorubens
+null
 
 ### Remarks
 null

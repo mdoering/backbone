@@ -1,5 +1,4 @@
-Asterina cassiae Syd. & P. Syd. SPECIES
-=======
+# Asterina cassiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

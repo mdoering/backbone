@@ -1,5 +1,4 @@
-Pertusaria americana Mont. SPECIES
-=======
+# Pertusaria americana Mont. SPECIES
 
 #### Status
 ACCEPTED

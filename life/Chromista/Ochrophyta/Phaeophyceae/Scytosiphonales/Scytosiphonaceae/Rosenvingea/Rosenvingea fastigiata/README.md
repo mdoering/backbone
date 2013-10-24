@@ -1,8 +1,7 @@
-Asperococcus fastigiatus f. major Reinbold FORM
-=======
+# Rosenvingea fastigiata (Zanardini) Børgesen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

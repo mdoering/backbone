@@ -1,5 +1,4 @@
-Phacidium depressum Berk. SPECIES
-=======
+# Phacidium depressum Berk. SPECIES
 
 #### Status
 ACCEPTED

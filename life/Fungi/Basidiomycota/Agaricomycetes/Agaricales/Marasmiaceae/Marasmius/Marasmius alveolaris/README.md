@@ -1,5 +1,4 @@
-Marasmius alveolaris Cleland SPECIES
-=======
+# Marasmius alveolaris Cleland SPECIES
 
 #### Status
 ACCEPTED

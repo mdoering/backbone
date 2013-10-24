@@ -1,5 +1,4 @@
-Alternaria gaisen Nagano, 1928 SPECIES
-=======
+# Alternaria gaisen Nagano, 1928 SPECIES
 
 #### Status
 ACCEPTED

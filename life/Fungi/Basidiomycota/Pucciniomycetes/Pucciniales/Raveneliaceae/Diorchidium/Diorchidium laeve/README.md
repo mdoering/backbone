@@ -1,5 +1,4 @@
-Diorchidium laeve Sacc. & Bizz. SPECIES
-=======
+# Diorchidium laeve Sacc. & Bizz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia apteropteridis Kantvilas & Vezda SPECIES
-=======
+# Arthonia apteropteridis Kantvilas & Vezda SPECIES
 
 #### Status
 ACCEPTED

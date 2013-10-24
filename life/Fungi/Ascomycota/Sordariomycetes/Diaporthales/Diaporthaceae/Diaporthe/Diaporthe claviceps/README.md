@@ -1,5 +1,4 @@
-Diaporthe claviceps Ellis & Dearn. SPECIES
-=======
+# Diaporthe claviceps Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

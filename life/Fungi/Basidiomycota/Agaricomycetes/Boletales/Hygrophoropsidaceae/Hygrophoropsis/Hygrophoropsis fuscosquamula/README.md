@@ -1,5 +1,4 @@
-Hygrophoropsis fuscosquamula P.D. Orton, 1960 SPECIES
-=======
+# Hygrophoropsis fuscosquamula P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED

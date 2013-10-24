@@ -1,5 +1,4 @@
-Taphrina sorbi (Jacz.) Mix SPECIES
-=======
+# Taphrina sorbi (Jacz.) Mix SPECIES
 
 #### Status
 ACCEPTED

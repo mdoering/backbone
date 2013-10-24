@@ -1,17 +1,16 @@
-Aphanodictyon papilatum Huneycutt SPECIES
-=======
+# Aphanodictyon papillatum Huneycutt, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 64: 279 (1948)
 
 #### Original name
-Aphanodictyon papilatum Huneycutt
+Aphanodictyon papillatum Huneycutt, 1948
 
 ### Remarks
 null

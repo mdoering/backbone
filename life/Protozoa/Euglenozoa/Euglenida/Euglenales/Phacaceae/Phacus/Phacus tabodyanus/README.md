@@ -1,5 +1,4 @@
-Phacus tabodyanus Hortobágyi SPECIES
-=======
+# Phacus tabodyanus Hortobágyi SPECIES
 
 #### Status
 ACCEPTED

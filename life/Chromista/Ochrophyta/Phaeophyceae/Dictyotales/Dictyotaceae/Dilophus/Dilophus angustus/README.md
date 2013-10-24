@@ -1,5 +1,4 @@
-Dilophus angustus J. Agardh SPECIES
-=======
+# Dilophus angustus J. Agardh SPECIES
 
 #### Status
 ACCEPTED

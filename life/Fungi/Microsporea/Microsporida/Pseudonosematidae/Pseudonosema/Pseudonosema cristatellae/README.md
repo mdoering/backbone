@@ -1,5 +1,4 @@
-Pseudonosema cristatellae (Canning, Okamura & Curry) E.U. Canninga, D. Refardtb, C.R. Vossbrinckc, B. Okamurad & A. Curry SPECIES
-=======
+# Pseudonosema cristatellae (Canning, Okamura & Curry) E.U. Canninga, D. Refardtb, C.R. Vossbrinckc, B. Okamurad & A. Curry SPECIES
 
 #### Status
 ACCEPTED

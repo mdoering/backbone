@@ -1,5 +1,4 @@
-Diplopelta steinii (T. H. Abé) E. Balech SPECIES
-=======
+# Diplopelta steinii (T. H. Abé) E. Balech SPECIES
 
 #### Status
 ACCEPTED

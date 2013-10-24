@@ -1,5 +1,4 @@
-Coprinus bilanatus Kemp SPECIES
-=======
+# Coprinus bilanatus Kemp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia bambusicola S.X. Wei & J.Y. Zhuang SPECIES
-=======
+# Puccinia bambusicola S.X. Wei & J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

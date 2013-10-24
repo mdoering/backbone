@@ -1,5 +1,4 @@
-Gymnopus nigritiformis Murrill SPECIES
-=======
+# Gymnopus nigritiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

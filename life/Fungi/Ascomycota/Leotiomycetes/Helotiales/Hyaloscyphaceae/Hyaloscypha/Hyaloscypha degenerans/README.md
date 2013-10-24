@@ -1,5 +1,4 @@
-Hyaloscypha degenerans Velen. SPECIES
-=======
+# Hyaloscypha degenerans Velen. SPECIES
 
 #### Status
 ACCEPTED

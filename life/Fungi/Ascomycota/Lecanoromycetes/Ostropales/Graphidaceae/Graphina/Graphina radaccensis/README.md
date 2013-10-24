@@ -1,5 +1,4 @@
-Graphina radaccensis (G. Mey.) Zahlbr. SPECIES
-=======
+# Graphina radaccensis (G. Mey.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

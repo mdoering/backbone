@@ -1,5 +1,4 @@
-Sphacelotheca pamparum (Speg.) G.P. Clinton SPECIES
-=======
+# Sphacelotheca pamparum (Speg.) G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

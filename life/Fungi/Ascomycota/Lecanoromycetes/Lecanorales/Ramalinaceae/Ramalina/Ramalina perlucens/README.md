@@ -1,5 +1,4 @@
-Ramalina perlucens Hue SPECIES
-=======
+# Ramalina perlucens Hue SPECIES
 
 #### Status
 ACCEPTED

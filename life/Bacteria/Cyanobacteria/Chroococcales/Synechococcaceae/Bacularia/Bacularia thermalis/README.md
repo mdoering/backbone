@@ -1,5 +1,4 @@
-Bacularia thermalis Frémy SPECIES
-=======
+# Bacularia thermalis Frémy SPECIES
 
 #### Status
 ACCEPTED

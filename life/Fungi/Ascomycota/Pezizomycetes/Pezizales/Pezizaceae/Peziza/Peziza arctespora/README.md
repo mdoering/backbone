@@ -1,5 +1,4 @@
-Peziza arctespora Cooke & W. Phillips SPECIES
-=======
+# Peziza arctespora Cooke & W. Phillips SPECIES
 
 #### Status
 ACCEPTED

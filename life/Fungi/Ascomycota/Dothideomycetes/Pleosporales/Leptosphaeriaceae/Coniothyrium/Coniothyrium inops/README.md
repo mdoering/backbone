@@ -1,5 +1,4 @@
-Coniothyrium inops Sacc. SPECIES
-=======
+# Coniothyrium inops Sacc. SPECIES
 
 #### Status
 ACCEPTED

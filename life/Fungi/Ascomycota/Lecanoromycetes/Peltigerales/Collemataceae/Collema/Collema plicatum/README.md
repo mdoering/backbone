@@ -1,5 +1,4 @@
-Collema plicatum Pers. SPECIES
-=======
+# Collema plicatum Pers. SPECIES
 
 #### Status
 ACCEPTED

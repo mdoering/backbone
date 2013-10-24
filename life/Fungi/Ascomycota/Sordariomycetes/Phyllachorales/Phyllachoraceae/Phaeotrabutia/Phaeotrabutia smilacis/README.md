@@ -1,5 +1,4 @@
-Phaeotrabutia smilacis Chardón, 1946 SPECIES
-=======
+# Phaeotrabutia smilacis Chardón, 1946 SPECIES
 
 #### Status
 ACCEPTED

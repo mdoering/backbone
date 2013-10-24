@@ -1,5 +1,4 @@
-Septoria tritomae Pat. SPECIES
-=======
+# Septoria tritomae Pat. SPECIES
 
 #### Status
 ACCEPTED

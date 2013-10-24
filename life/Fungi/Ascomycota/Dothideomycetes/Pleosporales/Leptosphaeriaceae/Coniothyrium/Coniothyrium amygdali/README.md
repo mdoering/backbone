@@ -1,5 +1,4 @@
-Coniothyrium amygdali Politis SPECIES
-=======
+# Coniothyrium amygdali Politis SPECIES
 
 #### Status
 ACCEPTED

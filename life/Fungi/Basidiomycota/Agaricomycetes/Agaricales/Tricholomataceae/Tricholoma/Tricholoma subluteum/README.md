@@ -1,5 +1,4 @@
-Tricholoma subluteum Peck SPECIES
-=======
+# Tricholoma subluteum Peck SPECIES
 
 #### Status
 ACCEPTED

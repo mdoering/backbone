@@ -1,5 +1,4 @@
-Gymnopilus lacticolor Murrill SPECIES
-=======
+# Gymnopilus lacticolor Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Laurera madreporiformis var. madreporiformis VARIETY
-=======
+# Bathelium madreporiforme (Eschw.) Trevis. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Howe, Torreya 16: 50 (1916)
+Flora, Jena 44: 21 (1861)
 
 #### Original name
-Laurera madreporiformis var. madreporiformis
+Trypethelium madreporiforme Eschw.
 
 ### Remarks
 null

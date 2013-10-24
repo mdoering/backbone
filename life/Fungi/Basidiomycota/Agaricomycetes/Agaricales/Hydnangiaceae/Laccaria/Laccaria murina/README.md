@@ -1,5 +1,4 @@
-Laccaria murina S. Imai SPECIES
-=======
+# Laccaria murina S. Imai SPECIES
 
 #### Status
 ACCEPTED

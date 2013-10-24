@@ -1,5 +1,4 @@
-Lithothelium triseptatum (Nyl.) Aptroot SPECIES
-=======
+# Lithothelium triseptatum (Nyl.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

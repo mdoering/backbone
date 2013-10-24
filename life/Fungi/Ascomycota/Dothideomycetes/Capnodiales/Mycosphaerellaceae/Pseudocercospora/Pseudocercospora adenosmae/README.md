@@ -1,5 +1,4 @@
-Pseudocercospora adenosmae Y.L. Guo SPECIES
-=======
+# Pseudocercospora adenosmae Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

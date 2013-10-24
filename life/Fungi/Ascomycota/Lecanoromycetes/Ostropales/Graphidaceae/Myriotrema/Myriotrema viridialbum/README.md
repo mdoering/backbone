@@ -1,5 +1,4 @@
-Myriotrema viridialbum (Kremp.) Hale SPECIES
-=======
+# Myriotrema viridialbum (Kremp.) Hale SPECIES
 
 #### Status
 ACCEPTED

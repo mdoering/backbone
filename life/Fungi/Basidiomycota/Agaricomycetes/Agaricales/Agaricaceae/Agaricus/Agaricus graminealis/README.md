@@ -1,5 +1,4 @@
-Agaricus graminealis Lasch SPECIES
-=======
+# Agaricus graminealis Lasch SPECIES
 
 #### Status
 ACCEPTED

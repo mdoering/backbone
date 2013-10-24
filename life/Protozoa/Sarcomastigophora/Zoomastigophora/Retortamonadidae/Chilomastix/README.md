@@ -1,14 +1,13 @@
-Fanapepia GENUS
-=======
+# Chilomastix Alexeieff, 1910 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Arch. Zool. exp. gén. Paris, (5) 6, xi.
 
 #### Original name
 null

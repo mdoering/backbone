@@ -1,5 +1,4 @@
-Nostoc album Gardner SPECIES
-=======
+# Nostoc album Gardner SPECIES
 
 #### Status
 ACCEPTED

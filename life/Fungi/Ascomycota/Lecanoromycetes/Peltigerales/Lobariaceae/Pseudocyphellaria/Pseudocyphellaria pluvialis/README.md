@@ -1,5 +1,4 @@
-Pseudocyphellaria pluvialis R. Sant. SPECIES
-=======
+# Pseudocyphellaria pluvialis R. Sant. SPECIES
 
 #### Status
 ACCEPTED

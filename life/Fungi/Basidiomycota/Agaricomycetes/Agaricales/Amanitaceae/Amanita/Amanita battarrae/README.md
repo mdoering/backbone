@@ -1,17 +1,16 @@
-Amanita umbrinolutea var. fusco-olivacea Kühner ex Contu VARIETY
-=======
+# Amanita battarrae (Boud.) Bon, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boln Soc. Micol. Madrid 13: 91 (1989)
+Docums Mycol. 16(no. 61): 16 (1985)
 
 #### Original name
-Amanita umbrinolutea var. fusco-olivacea Kühner ex Contu
+Amanitopsis battarrae Boud., 1902
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Peziza microscopica Wallr. SPECIES
-=======
+# Peziza microscopica Wallr. SPECIES
 
 #### Status
 ACCEPTED

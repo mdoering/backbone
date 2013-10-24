@@ -1,17 +1,16 @@
-Cercospora sonchi var. sonchi Chupp VARIETY
-=======
+# Cercospora sonchi Chupp, 1954 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Monograph of Cercospora 159 (1954)
 
 #### Original name
-Cercospora sonchi var. sonchi Chupp
+Cercospora sonchi Chupp, 1954
 
 ### Remarks
 null

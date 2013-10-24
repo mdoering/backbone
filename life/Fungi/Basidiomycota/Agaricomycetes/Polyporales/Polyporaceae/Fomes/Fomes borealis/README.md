@@ -1,5 +1,4 @@
-Fomes borealis Lloyd SPECIES
-=======
+# Fomes borealis Lloyd SPECIES
 
 #### Status
 ACCEPTED

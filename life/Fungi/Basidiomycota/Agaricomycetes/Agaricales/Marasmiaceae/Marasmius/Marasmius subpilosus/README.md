@@ -1,5 +1,4 @@
-Marasmius subpilosus Peck SPECIES
-=======
+# Marasmius subpilosus Peck SPECIES
 
 #### Status
 ACCEPTED

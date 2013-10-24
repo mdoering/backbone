@@ -1,5 +1,4 @@
-Parmelia lamarckii (DC.) Schaer. SPECIES
-=======
+# Parmelia lamarckii (DC.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

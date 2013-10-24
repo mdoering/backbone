@@ -1,5 +1,4 @@
-Mycoblastus implicatus (Stirt.) Müll. Arg. SPECIES
-=======
+# Mycoblastus implicatus (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

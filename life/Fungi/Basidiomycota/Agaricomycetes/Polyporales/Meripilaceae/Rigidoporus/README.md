@@ -1,17 +1,16 @@
-Leucofomes Kotl. & Pouzar GENUS
-=======
+# Rigidoporus Murrill, 1905 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ceská Mykol. 11(3): 157 (1957)
+null
 
 #### Original name
-Leucofomes Kotl. & Pouzar
+null
 
 ### Remarks
 null

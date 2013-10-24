@@ -1,5 +1,4 @@
-Lemonniera filiformis R.H. Petersen ex Dyko, 1977 SPECIES
-=======
+# Lemonniera filiformis R.H. Petersen ex Dyko, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus versatilis Berk. SPECIES
-=======
+# Polyporus versatilis Berk. SPECIES
 
 #### Status
 ACCEPTED

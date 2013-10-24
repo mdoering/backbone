@@ -1,5 +1,4 @@
-Sphaerella epitea Auersw. SPECIES
-=======
+# Sphaerella epitea Auersw. SPECIES
 
 #### Status
 ACCEPTED

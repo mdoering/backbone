@@ -1,5 +1,4 @@
-Coniothyrium kallangurense B. Sutton & Alcorn, 1975 SPECIES
-=======
+# Coniothyrium kallangurense B. Sutton & Alcorn, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomallomonas R. Chodat, 1921 GENUS
-=======
+# Pseudomallomonas R. Chodat, 1921 GENUS
 
 #### Status
 ACCEPTED

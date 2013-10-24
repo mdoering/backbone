@@ -1,5 +1,4 @@
-Agaricus foveolaris Spreng. ex J. Otto SPECIES
-=======
+# Agaricus foveolaris Spreng. ex J. Otto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium seminiforme Göpp. & J.A. Menge SPECIES
-=======
+# Sclerotium seminiforme Göpp. & J.A. Menge SPECIES
 
 #### Status
 ACCEPTED

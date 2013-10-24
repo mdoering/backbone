@@ -1,5 +1,4 @@
-Desulforhabdus Oude Elferink et al., 1997 GENUS
-=======
+# Desulforhabdus Oude Elferink et al., 1997 GENUS
 
 #### Status
 ACCEPTED

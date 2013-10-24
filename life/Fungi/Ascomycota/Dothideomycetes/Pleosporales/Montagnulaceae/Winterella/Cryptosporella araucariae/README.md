@@ -1,5 +1,4 @@
-Cryptosporella araucariae Voglino SPECIES
-=======
+# Cryptosporella araucariae Voglino SPECIES
 
 #### Status
 ACCEPTED

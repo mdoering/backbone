@@ -1,5 +1,4 @@
-Boletus olivaceobrunneus Zeller & F.D. Bailey SPECIES
-=======
+# Boletus olivaceobrunneus Zeller & F.D. Bailey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thelephora cruenta var. cruenta VARIETY
-=======
+# Hymenochaete cruenta (Pers.) Donk, 1959 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 1(1): 51 (1959)
 
 #### Original name
-null
+Thelephora cruenta Pers., 1801
 
 ### Remarks
 null

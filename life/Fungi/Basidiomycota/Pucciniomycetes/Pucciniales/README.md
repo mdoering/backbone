@@ -1,5 +1,4 @@
-Pucciniales Clem. & Shear ORDER
-=======
+# Pucciniales Clem. & Shear ORDER
 
 #### Status
 ACCEPTED

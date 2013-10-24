@@ -1,17 +1,16 @@
-Leptosphaeria culmicola f. culmicola FORM
-=======
+# Leptosphaeria culmicola (Fr.) P. Karst., 1866 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bot. Ztg. 24: 412 (1866)
 
 #### Original name
-Leptosphaeria culmicola f. culmicola
+Sphaeria culmicola Fr., 1823
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora monilifera H. Magn. SPECIES
-=======
+# Lecanora monilifera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

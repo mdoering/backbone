@@ -1,5 +1,4 @@
-Microdiplodia pituranthi Trotter SPECIES
-=======
+# Microdiplodia pituranthi Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia bartsiae Johanson, 1884 SPECIES
-=======
+# Ramularia bartsiae Johanson, 1884 SPECIES
 
 #### Status
 ACCEPTED

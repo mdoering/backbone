@@ -1,5 +1,4 @@
-Nannoceratopsis triceras Drugg, 1978 SPECIES
-=======
+# Nannoceratopsis triceras Drugg, 1978 SPECIES
 
 #### Status
 ACCEPTED

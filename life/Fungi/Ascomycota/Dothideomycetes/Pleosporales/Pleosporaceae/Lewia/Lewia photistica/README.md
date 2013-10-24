@@ -1,5 +1,4 @@
-Lewia photistica E.G. Simmons, 1986 SPECIES
-=======
+# Lewia photistica E.G. Simmons, 1986 SPECIES
 
 #### Status
 ACCEPTED

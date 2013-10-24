@@ -1,14 +1,13 @@
-Lecidea byssomorpha Nyl. SPECIES
-=======
+# Auriculora byssomorpha (Nyl.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichenes Neotropici (Neumarkt), Fascicle <b>X</b> (nos 401-450) 2 (1988)
 
 #### Original name
 Lecidea byssomorpha Nyl.

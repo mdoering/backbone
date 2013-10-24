@@ -1,5 +1,4 @@
-Anaptychia obesa f. caesiocrocata Zahlbr. FORM
-=======
+# Anaptychia obesa (Pers.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 734 (1931)
 
 #### Original name
-Anaptychia obesa f. caesiocrocata Zahlbr.
+Parmelia obesa (Pers.) Mont.
 
 ### Remarks
 null

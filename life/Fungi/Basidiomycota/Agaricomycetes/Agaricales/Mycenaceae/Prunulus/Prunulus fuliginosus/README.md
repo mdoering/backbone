@@ -1,5 +1,4 @@
-Prunulus fuliginosus Murrill SPECIES
-=======
+# Prunulus fuliginosus Murrill SPECIES
 
 #### Status
 ACCEPTED

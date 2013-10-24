@@ -1,5 +1,4 @@
-Allarthothelium crenulatum (B. de Lesd.) Redinger SPECIES
-=======
+# Allarthothelium crenulatum (B. de Lesd.) Redinger SPECIES
 
 #### Status
 ACCEPTED

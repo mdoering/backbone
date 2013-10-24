@@ -1,5 +1,4 @@
-Phlebia icterina P. Roberts, 2000 SPECIES
-=======
+# Phlebia icterina P. Roberts, 2000 SPECIES
 
 #### Status
 ACCEPTED

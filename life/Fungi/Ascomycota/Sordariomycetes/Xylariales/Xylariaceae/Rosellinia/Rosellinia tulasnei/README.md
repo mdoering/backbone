@@ -1,5 +1,4 @@
-Rosellinia tulasnei (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Rosellinia tulasnei (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

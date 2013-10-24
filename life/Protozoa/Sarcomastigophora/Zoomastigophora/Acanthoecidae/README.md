@@ -1,5 +1,4 @@
-Acanthoecidae Norris, 1965 FAMILY
-=======
+# Acanthoecidae Norris, 1965 FAMILY
 
 #### Status
 ACCEPTED

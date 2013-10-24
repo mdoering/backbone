@@ -1,5 +1,4 @@
-Phacellium gracilipes (Davis) U. Braun SPECIES
-=======
+# Phacellium gracilipes (Davis) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora oblongispora Ellis & Everh. SPECIES
-=======
+# Teichospora oblongispora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

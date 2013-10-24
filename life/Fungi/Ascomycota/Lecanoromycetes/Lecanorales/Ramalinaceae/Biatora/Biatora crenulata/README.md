@@ -1,5 +1,4 @@
-Biatora crenulata (Hepp) SPECIES
-=======
+# Biatora crenulata (Hepp) SPECIES
 
 #### Status
 ACCEPTED

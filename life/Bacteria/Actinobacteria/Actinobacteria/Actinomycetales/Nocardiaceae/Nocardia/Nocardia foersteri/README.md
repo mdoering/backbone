@@ -1,5 +1,4 @@
-Nocardia foersteri (E. Cohn) Trevis. SPECIES
-=======
+# Nocardia foersteri (E. Cohn) Trevis. SPECIES
 
 #### Status
 ACCEPTED

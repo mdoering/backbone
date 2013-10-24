@@ -1,5 +1,4 @@
-Lachnea nicaeensis (Boud.) Sacc. SPECIES
-=======
+# Lachnea nicaeensis (Boud.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

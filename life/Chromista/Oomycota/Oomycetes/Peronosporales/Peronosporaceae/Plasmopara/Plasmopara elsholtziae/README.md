@@ -1,5 +1,4 @@
-Plasmopara elsholtziae J.F. Tao & Y. Qin SPECIES
-=======
+# Plasmopara elsholtziae J.F. Tao & Y. Qin SPECIES
 
 #### Status
 ACCEPTED

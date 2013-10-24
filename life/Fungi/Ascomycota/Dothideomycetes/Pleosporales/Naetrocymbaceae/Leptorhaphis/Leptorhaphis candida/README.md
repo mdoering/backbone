@@ -1,5 +1,4 @@
-Leptorhaphis candida J. Steiner ex Keissl. SPECIES
-=======
+# Leptorhaphis candida J. Steiner ex Keissl. SPECIES
 
 #### Status
 ACCEPTED

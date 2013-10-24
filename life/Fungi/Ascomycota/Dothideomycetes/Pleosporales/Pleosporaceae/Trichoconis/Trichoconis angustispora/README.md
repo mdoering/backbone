@@ -1,5 +1,4 @@
-Trichoconis angustispora (Hansf.) Deighton & Piroz. SPECIES
-=======
+# Trichoconis angustispora (Hansf.) Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deightoniella argemonensis Pollack & D. Matthews SPECIES
-=======
+# Deightoniella argemonensis Pollack & D. Matthews SPECIES
 
 #### Status
 ACCEPTED

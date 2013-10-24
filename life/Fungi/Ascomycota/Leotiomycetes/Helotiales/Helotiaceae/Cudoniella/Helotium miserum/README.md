@@ -1,5 +1,4 @@
-Helotium miserum Berk. & M.A. Curtis SPECIES
-=======
+# Helotium miserum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

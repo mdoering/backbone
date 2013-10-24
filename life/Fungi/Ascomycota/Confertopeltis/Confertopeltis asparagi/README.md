@@ -1,5 +1,4 @@
-Confertopeltis asparagi Tehon SPECIES
-=======
+# Confertopeltis asparagi Tehon SPECIES
 
 #### Status
 ACCEPTED

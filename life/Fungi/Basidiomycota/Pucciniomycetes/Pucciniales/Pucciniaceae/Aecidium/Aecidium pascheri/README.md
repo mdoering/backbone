@@ -1,5 +1,4 @@
-Aecidium pascheri Bubák SPECIES
-=======
+# Aecidium pascheri Bubák SPECIES
 
 #### Status
 ACCEPTED

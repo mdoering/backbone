@@ -1,5 +1,4 @@
-Sphaeria phaselina Mont. SPECIES
-=======
+# Sphaeria phaselina Mont. SPECIES
 
 #### Status
 ACCEPTED

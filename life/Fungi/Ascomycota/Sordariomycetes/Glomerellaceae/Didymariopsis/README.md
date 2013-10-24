@@ -1,5 +1,4 @@
-Didymariopsis GENUS
-=======
+# Didymariopsis GENUS
 
 #### Status
 ACCEPTED

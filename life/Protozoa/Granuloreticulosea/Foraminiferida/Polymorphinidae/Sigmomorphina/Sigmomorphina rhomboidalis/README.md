@@ -1,5 +1,4 @@
-Sigmomorphina rhomboidalis Vella, 1957 SPECIES
-=======
+# Sigmomorphina rhomboidalis Vella, 1957 SPECIES
 
 #### Status
 ACCEPTED

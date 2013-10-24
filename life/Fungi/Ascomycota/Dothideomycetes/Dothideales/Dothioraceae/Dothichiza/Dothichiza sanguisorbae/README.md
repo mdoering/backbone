@@ -1,5 +1,4 @@
-Dothichiza sanguisorbae Baudy & Picb. SPECIES
-=======
+# Dothichiza sanguisorbae Baudy & Picb. SPECIES
 
 #### Status
 ACCEPTED

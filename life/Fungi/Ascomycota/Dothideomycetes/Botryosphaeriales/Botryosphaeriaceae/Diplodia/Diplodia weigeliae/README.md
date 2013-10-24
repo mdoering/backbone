@@ -1,5 +1,4 @@
-Diplodia weigeliae Sacc. SPECIES
-=======
+# Diplodia weigeliae Sacc. SPECIES
 
 #### Status
 ACCEPTED

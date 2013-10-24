@@ -1,14 +1,13 @@
-Thecaphora muellerianum (Thüm.) Thirum. & Neerg. SPECIES
-=======
+# Moreaua muelleriana (Thüm.) Vánky, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 74(2): 353 (2000)
 
 #### Original name
 Sorosporium muellerianum Thüm.

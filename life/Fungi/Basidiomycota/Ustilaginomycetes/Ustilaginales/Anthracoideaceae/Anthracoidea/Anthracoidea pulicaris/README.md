@@ -1,5 +1,4 @@
-Anthracoidea pulicaris Kukkonen, 1963 SPECIES
-=======
+# Anthracoidea pulicaris Kukkonen, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella donacina f. donacina FORM
-=======
+# Anthostomella donacina Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Anthostomella donacina f. donacina
+Anthostomella donacina Rehm
 
 ### Remarks
 null

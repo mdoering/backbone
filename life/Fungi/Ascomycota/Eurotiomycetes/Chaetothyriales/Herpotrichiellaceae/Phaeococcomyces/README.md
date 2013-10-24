@@ -1,17 +1,16 @@
-Phaeococcus de Hoog GENUS
-=======
+# Phaeococcomyces de Hoog, 1979 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Stud. Mycol. 15: 122 (1977)
+null
 
 #### Original name
-Phaeococcus de Hoog
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gymnodinium areuginosum Stein SPECIES
-=======
+# Gymnodinium areuginosum Stein SPECIES
 
 #### Status
 ACCEPTED

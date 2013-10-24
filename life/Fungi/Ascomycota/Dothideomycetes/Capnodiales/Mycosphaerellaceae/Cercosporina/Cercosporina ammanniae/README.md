@@ -1,5 +1,4 @@
-Cercosporina ammanniae (Tharp) Sacc. SPECIES
-=======
+# Cercosporina ammanniae (Tharp) Sacc. SPECIES
 
 #### Status
 ACCEPTED

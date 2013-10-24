@@ -1,5 +1,4 @@
-Russula amoenoides var. amoenoides VARIETY
-=======
+# Russula amoenoides Romagn. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Russules d'Europe Afr. Nord 714 (1967)
 
 #### Original name
-Russula amoenoides var. amoenoides
+Russula amoenoides Romagn.
 
 ### Remarks
 null

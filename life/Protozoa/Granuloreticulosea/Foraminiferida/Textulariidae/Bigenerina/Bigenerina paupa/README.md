@@ -1,5 +1,4 @@
-Bigenerina paupa d'Orbigny, 1826 SPECIES
-=======
+# Bigenerina paupa d'Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

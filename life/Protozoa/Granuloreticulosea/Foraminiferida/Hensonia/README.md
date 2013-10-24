@@ -1,5 +1,4 @@
-Hensonia GENUS
-=======
+# Hensonia GENUS
 
 #### Status
 ACCEPTED

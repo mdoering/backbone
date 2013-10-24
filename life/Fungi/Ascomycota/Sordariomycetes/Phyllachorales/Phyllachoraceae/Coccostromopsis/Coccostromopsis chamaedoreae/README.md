@@ -1,14 +1,13 @@
-Bagnisiopsis chamaedoreae (Syd.) Petr., 1928 SPECIES
-=======
+# Coccostromopsis chamaedoreae (Syd.) K.D. Hyde & P.F. Cannon, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 68(5): 288 (1928)
+Mycol. Pap. 175: 60 (1999)
 
 #### Original name
 Phoenicostroma chamaedoreae Syd., 1925

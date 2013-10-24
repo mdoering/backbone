@@ -1,5 +1,4 @@
-Luteococcus japonicus Tamura et al., 1994 SPECIES
-=======
+# Luteococcus japonicus Tamura et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

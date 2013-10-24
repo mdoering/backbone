@@ -1,5 +1,4 @@
-Puccinia grata Arthur & Cummins SPECIES
-=======
+# Puccinia grata Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

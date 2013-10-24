@@ -1,5 +1,4 @@
-Trogia venulosa Corner SPECIES
-=======
+# Trogia venulosa Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria labei A. Witkowski & D. Metzeltin SPECIES
-=======
+# Fragilaria labei A. Witkowski & D. Metzeltin SPECIES
 
 #### Status
 ACCEPTED

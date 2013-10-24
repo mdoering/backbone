@@ -1,5 +1,4 @@
-Hippea maritima Miroshnichenko et al., 1999 SPECIES
-=======
+# Hippea maritima Miroshnichenko et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

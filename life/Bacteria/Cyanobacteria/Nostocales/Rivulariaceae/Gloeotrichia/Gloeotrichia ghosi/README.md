@@ -1,5 +1,4 @@
-Gloeotrichia ghosi SPECIES
-=======
+# Gloeotrichia ghosi SPECIES
 
 #### Status
 ACCEPTED

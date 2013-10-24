@@ -1,5 +1,4 @@
-Ascobolus leiocarpus Berk. & Broome SPECIES
-=======
+# Ascobolus leiocarpus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

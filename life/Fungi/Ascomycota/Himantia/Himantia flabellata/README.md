@@ -1,5 +1,4 @@
-Himantia flabellata Pers. SPECIES
-=======
+# Himantia flabellata Pers. SPECIES
 
 #### Status
 ACCEPTED

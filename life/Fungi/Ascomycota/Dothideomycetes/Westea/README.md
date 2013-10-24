@@ -1,5 +1,4 @@
-Westea H.J. Swart GENUS
-=======
+# Westea H.J. Swart GENUS
 
 #### Status
 ACCEPTED

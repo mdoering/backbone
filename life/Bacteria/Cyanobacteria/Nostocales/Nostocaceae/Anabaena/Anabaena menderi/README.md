@@ -1,5 +1,4 @@
-Anabaena menderi Huber-Pestalozzi SPECIES
-=======
+# Anabaena menderi Huber-Pestalozzi SPECIES
 
 #### Status
 ACCEPTED

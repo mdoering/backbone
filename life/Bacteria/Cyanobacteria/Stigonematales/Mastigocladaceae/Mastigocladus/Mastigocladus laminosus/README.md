@@ -1,5 +1,4 @@
-Mastigocladus laminosus Cohn SPECIES
-=======
+# Mastigocladus laminosus Cohn SPECIES
 
 #### Status
 ACCEPTED

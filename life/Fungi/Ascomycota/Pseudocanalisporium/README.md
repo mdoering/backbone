@@ -1,5 +1,4 @@
-Pseudocanalisporium R.F. Castañeda & W.B. Kendr. GENUS
-=======
+# Pseudocanalisporium R.F. Castañeda & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza nigrocincta Berk. & M.A. Curtis SPECIES
-=======
+# Peziza nigrocincta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

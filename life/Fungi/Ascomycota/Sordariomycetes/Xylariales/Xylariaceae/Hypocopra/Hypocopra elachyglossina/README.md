@@ -1,5 +1,4 @@
-Hypocopra elachyglossina J.C. Krug & Cain SPECIES
-=======
+# Hypocopra elachyglossina J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

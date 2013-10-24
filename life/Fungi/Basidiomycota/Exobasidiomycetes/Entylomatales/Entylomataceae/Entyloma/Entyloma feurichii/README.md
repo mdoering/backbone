@@ -1,5 +1,4 @@
-Entyloma feurichii var. feurichii VARIETY
-=======
+# Entyloma feurichii Krieg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia, Beibl. 44: (86) (1905)
 
 #### Original name
-Entyloma feurichii var. feurichii
+Entyloma feurichii Krieg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Metasphaeria fructicicola Kirschst. SPECIES
-=======
+# Metasphaeria fructicicola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

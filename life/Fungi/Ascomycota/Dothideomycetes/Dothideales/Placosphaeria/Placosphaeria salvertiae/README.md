@@ -1,5 +1,4 @@
-Placosphaeria salvertiae Allesch. SPECIES
-=======
+# Placosphaeria salvertiae Allesch. SPECIES
 
 #### Status
 ACCEPTED

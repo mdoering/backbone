@@ -1,5 +1,4 @@
-Tholonium Haeckel, 1887 GENUS
-=======
+# Tholonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

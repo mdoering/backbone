@@ -1,5 +1,4 @@
-Platygrapha constricta Kremp. SPECIES
-=======
+# Platygrapha constricta Kremp. SPECIES
 
 #### Status
 ACCEPTED

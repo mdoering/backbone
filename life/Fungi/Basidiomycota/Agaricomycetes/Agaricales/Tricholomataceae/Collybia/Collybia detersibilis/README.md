@@ -1,5 +1,4 @@
-Collybia detersibilis Berk. & M.A. Curtis SPECIES
-=======
+# Collybia detersibilis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

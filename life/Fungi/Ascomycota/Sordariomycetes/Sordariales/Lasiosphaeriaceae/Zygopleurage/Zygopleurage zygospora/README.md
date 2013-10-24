@@ -1,14 +1,13 @@
-Podospora zygospora (Speg.) Niessl, 1883 SPECIES
-=======
+# Zygopleurage zygospora (Speg.) Boedijn, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 22: 156 (1883)
+Persoonia 2(3): 316 (1962)
 
 #### Original name
 Sordaria zygospora Speg., 1878

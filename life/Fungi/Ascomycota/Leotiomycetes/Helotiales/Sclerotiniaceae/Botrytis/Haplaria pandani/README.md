@@ -1,5 +1,4 @@
-Haplaria pandani Gutner SPECIES
-=======
+# Haplaria pandani Gutner SPECIES
 
 #### Status
 ACCEPTED

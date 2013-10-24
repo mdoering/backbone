@@ -1,14 +1,13 @@
-Sphaeria leucospila Berk. & M.A. Curtis, 1876 SPECIES
-=======
+# Ophiodothella leucospila (Berk. & M.A. Curtis) J.H. Mill. & G.E. Thomps., 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 4(no. 32): 153 (1876)
+Mycologia 32: 10 (1940)
 
 #### Original name
 Sphaeria leucospila Berk. & M.A. Curtis, 1876

@@ -1,5 +1,4 @@
-Lecanora calcarea f. calcarea FORM
-=======
+# Lecanora calcarea SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Suppl. Fl. lapp. (Oslo) 102 (1826)
+null
 
 #### Original name
-Lecanora calcarea f. calcarea
+null
 
 ### Remarks
 null

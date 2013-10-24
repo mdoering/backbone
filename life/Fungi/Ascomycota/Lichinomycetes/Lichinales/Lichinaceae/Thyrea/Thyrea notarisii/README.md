@@ -1,5 +1,4 @@
-Thyrea notarisii (A. Massal.) A. Massal. SPECIES
-=======
+# Thyrea notarisii (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

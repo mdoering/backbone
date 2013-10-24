@@ -1,5 +1,4 @@
-Planonephros Christensen, 1978 GENUS
-=======
+# Planonephros Christensen, 1978 GENUS
 
 #### Status
 ACCEPTED

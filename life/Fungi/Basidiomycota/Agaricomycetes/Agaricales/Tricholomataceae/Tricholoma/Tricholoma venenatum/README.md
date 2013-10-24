@@ -1,5 +1,4 @@
-Tricholoma venenatum G.F. Atk. SPECIES
-=======
+# Tricholoma venenatum G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calycellina caricina Dennis, 1971 SPECIES
-=======
+# Calycellina caricina Dennis, 1971 SPECIES
 
 #### Status
 ACCEPTED

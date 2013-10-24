@@ -1,5 +1,4 @@
-Mycosphaerella yuccina Woron. SPECIES
-=======
+# Mycosphaerella yuccina Woron. SPECIES
 
 #### Status
 ACCEPTED

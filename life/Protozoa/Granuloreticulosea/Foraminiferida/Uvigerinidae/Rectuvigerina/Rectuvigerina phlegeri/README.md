@@ -1,5 +1,4 @@
-Rectuvigerina phlegeri Le Calvez, 1958 SPECIES
-=======
+# Rectuvigerina phlegeri Le Calvez, 1958 SPECIES
 
 #### Status
 ACCEPTED

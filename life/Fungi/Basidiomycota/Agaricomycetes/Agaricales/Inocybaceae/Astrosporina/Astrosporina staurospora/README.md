@@ -1,5 +1,4 @@
-Astrosporina staurospora E. Horak SPECIES
-=======
+# Astrosporina staurospora E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus epileucus var. candidus Peck VARIETY
-=======
+# Polyporus epileucus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 38: 91 (1885)
+Epicr. syst. mycol. (Upsaliae) 452 (1838)
 
 #### Original name
-Polyporus epileucus var. candidus Peck
+Polyporus epileucus Fr.
 
 ### Remarks
 null

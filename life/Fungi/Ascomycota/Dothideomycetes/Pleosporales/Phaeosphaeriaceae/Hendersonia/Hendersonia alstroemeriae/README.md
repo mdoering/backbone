@@ -1,5 +1,4 @@
-Hendersonia alstroemeriae (Speg.) Sacc. & Trotter SPECIES
-=======
+# Hendersonia alstroemeriae (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

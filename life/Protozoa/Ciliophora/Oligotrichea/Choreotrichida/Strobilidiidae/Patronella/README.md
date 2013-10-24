@@ -1,5 +1,4 @@
-Patronella Corliss, 1979 GENUS
-=======
+# Patronella Corliss, 1979 GENUS
 
 #### Status
 ACCEPTED

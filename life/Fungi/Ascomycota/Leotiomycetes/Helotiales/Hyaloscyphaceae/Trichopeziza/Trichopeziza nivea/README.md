@@ -1,5 +1,4 @@
-Trichopeziza nivea Fuckel SPECIES
-=======
+# Trichopeziza nivea Fuckel SPECIES
 
 #### Status
 ACCEPTED

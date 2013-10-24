@@ -1,5 +1,4 @@
-Ustilago lygei Rabenh. SPECIES
-=======
+# Ustilago lygei Rabenh. SPECIES
 
 #### Status
 ACCEPTED

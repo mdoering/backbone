@@ -1,5 +1,4 @@
-Pseudocercospora chenopodiacearum U. Braun SPECIES
-=======
+# Pseudocercospora chenopodiacearum U. Braun SPECIES
 
 #### Status
 ACCEPTED

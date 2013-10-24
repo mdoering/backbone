@@ -1,5 +1,4 @@
-Phlyctis uncinata Stirt. SPECIES
-=======
+# Phlyctis uncinata Stirt. SPECIES
 
 #### Status
 ACCEPTED

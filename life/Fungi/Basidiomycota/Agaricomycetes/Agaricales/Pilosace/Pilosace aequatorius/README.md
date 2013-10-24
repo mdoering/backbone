@@ -1,5 +1,4 @@
-Pilosace aequatorius (Mont.) Kuntze SPECIES
-=======
+# Pilosace aequatorius (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

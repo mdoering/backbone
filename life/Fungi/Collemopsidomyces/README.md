@@ -1,5 +1,4 @@
-Collemopsidomyces Ciferri & Tomaselli, 1953 GENUS
-=======
+# Collemopsidomyces Ciferri & Tomaselli, 1953 GENUS
 
 #### Status
 ACCEPTED

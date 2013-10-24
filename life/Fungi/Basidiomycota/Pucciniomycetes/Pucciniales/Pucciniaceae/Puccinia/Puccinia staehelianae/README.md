@@ -1,5 +1,4 @@
-Puccinia staehelianae Gäum. SPECIES
-=======
+# Puccinia staehelianae Gäum. SPECIES
 
 #### Status
 ACCEPTED

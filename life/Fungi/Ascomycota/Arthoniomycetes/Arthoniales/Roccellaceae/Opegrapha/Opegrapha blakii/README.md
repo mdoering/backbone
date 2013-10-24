@@ -1,5 +1,4 @@
-Opegrapha blakii Ertz & Diederich SPECIES
-=======
+# Opegrapha blakii Ertz & Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea aurantiaca Motyka SPECIES
-=======
+# Usnea aurantiaca Motyka SPECIES
 
 #### Status
 ACCEPTED

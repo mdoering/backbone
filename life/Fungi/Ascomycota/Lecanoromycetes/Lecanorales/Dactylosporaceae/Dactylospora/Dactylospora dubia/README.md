@@ -1,5 +1,4 @@
-Dactylospora dubia (Rehm) Rehm ex Arnold SPECIES
-=======
+# Dactylospora dubia (Rehm) Rehm ex Arnold SPECIES
 
 #### Status
 ACCEPTED

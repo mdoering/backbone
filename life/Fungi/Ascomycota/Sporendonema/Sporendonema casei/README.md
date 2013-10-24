@@ -1,5 +1,4 @@
-Sporendonema casei Desm., 1827 SPECIES
-=======
+# Sporendonema casei Desm., 1827 SPECIES
 
 #### Status
 ACCEPTED

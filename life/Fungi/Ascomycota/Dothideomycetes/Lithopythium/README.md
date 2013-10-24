@@ -1,5 +1,4 @@
-Lithopythium Bornet & Flahault GENUS
-=======
+# Lithopythium Bornet & Flahault GENUS
 
 #### Status
 ACCEPTED

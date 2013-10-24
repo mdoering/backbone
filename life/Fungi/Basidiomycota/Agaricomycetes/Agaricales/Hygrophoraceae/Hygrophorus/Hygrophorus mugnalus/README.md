@@ -1,5 +1,4 @@
-Hygrophorus mugnalus (Scop.) Murrill SPECIES
-=======
+# Hygrophorus mugnalus (Scop.) Murrill SPECIES
 
 #### Status
 ACCEPTED

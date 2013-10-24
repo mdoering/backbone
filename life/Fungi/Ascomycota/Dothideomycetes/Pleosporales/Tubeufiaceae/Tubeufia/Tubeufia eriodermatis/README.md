@@ -1,17 +1,16 @@
-Tubeufia eriodermae Etayo, 2002 SPECIES
-=======
+# Tubeufia eriodermatis Etayo, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 84: 139 (2002)
 
 #### Original name
-Tubeufia eriodermae Etayo, 2002
+Tubeufia eriodermatis Etayo, 2002
 
 ### Remarks
 null

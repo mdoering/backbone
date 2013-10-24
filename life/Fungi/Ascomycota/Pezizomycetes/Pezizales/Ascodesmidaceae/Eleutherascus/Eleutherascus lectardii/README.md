@@ -1,14 +1,13 @@
-Arachniotus lectardii Nicot, 1970 SPECIES
-=======
+# Eleutherascus lectardii (Nicot) Arx, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 85(3): 319 (1970)
+Persoonia 6(3): 377 (1971)
 
 #### Original name
 Arachniotus lectardii Nicot, 1970

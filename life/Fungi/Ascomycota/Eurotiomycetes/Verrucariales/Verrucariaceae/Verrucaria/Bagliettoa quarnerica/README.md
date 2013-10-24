@@ -1,5 +1,4 @@
-Bagliettoa quarnerica (Zahlbr.) Vezda SPECIES
-=======
+# Bagliettoa quarnerica (Zahlbr.) Vezda SPECIES
 
 #### Status
 ACCEPTED

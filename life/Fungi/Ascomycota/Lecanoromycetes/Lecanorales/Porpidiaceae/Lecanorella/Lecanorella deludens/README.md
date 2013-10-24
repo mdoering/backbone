@@ -1,5 +1,4 @@
-Lecanorella deludens Motyka SPECIES
-=======
+# Lecanorella deludens Motyka SPECIES
 
 #### Status
 ACCEPTED

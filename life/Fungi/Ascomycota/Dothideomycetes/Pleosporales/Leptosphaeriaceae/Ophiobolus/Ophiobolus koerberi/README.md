@@ -1,5 +1,4 @@
-Ophiobolus koerberi (Stein) Berl. & Voglino SPECIES
-=======
+# Ophiobolus koerberi (Stein) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliolinopsis anomala (Tracy & Earle) Beeli SPECIES
-=======
+# Meliolinopsis anomala (Tracy & Earle) Beeli SPECIES
 
 #### Status
 ACCEPTED

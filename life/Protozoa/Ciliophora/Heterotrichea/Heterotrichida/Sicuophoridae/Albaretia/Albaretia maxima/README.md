@@ -1,5 +1,4 @@
-Albaretia maxima SPECIES
-=======
+# Albaretia maxima SPECIES
 
 #### Status
 ACCEPTED

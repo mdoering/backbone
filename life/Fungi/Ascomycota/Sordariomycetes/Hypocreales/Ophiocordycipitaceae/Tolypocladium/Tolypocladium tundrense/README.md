@@ -1,14 +1,13 @@
-Beauveria tundrense (Bissett) Arx SPECIES
-=======
+# Tolypocladium tundrense Bissett, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 61(5): 1322 (1983)
 
 #### Original name
 Tolypocladium tundrense Bissett, 1983

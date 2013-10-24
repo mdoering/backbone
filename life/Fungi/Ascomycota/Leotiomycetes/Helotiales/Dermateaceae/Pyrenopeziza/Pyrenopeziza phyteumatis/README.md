@@ -1,5 +1,4 @@
-Pyrenopeziza phyteumatis Fuckel SPECIES
-=======
+# Pyrenopeziza phyteumatis Fuckel SPECIES
 
 #### Status
 ACCEPTED

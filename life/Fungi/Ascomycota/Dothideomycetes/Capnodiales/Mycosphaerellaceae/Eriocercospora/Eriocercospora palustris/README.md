@@ -1,5 +1,4 @@
-Eriocercospora palustris R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Eriocercospora palustris R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

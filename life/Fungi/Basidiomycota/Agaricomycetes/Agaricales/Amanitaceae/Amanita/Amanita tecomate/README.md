@@ -1,5 +1,4 @@
-Amanita tecomate Guzmán & Ram.-Guill. SPECIES
-=======
+# Amanita tecomate Guzmán & Ram.-Guill. SPECIES
 
 #### Status
 ACCEPTED

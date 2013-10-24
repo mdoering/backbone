@@ -1,5 +1,4 @@
-Sporidesmium filiferum Piroz. SPECIES
-=======
+# Sporidesmium filiferum Piroz. SPECIES
 
 #### Status
 ACCEPTED

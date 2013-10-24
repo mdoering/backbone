@@ -1,5 +1,4 @@
-Verrucaria cuprea var. cuprea VARIETY
-=======
+# Verrucaria cuprea Eschw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria cuprea var. cuprea
+Verrucaria cuprea Eschw.
 
 ### Remarks
 null

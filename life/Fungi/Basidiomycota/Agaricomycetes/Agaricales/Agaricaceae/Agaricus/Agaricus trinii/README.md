@@ -1,5 +1,4 @@
-Agaricus trinii var. trinii Weinm. VARIETY
-=======
+# Agaricus trinii Weinm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Gallicum 194 (1836)
 
 #### Original name
-Agaricus trinii var. trinii Weinm.
+Agaricus trinii Weinm.
 
 ### Remarks
 null

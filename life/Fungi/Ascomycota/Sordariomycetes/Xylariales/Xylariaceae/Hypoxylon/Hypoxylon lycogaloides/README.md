@@ -1,5 +1,4 @@
-Hypoxylon lycogaloides Berk. & Broome SPECIES
-=======
+# Hypoxylon lycogaloides Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

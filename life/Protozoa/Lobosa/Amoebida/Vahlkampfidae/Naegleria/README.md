@@ -1,5 +1,4 @@
-Naegleria Alexeieff, 1912 GENUS
-=======
+# Naegleria Alexeieff, 1912 GENUS
 
 #### Status
 ACCEPTED

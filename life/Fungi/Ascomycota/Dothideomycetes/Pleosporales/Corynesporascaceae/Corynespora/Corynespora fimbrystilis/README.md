@@ -1,5 +1,4 @@
-Corynespora fimbrystilis Sawada SPECIES
-=======
+# Corynespora fimbrystilis Sawada SPECIES
 
 #### Status
 ACCEPTED

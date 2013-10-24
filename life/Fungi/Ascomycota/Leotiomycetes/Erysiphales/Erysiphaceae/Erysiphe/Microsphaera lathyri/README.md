@@ -1,5 +1,4 @@
-Microsphaera lathyri (Jacz.) Golovin SPECIES
-=======
+# Microsphaera lathyri (Jacz.) Golovin SPECIES
 
 #### Status
 ACCEPTED

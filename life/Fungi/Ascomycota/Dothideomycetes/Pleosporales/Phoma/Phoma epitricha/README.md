@@ -1,14 +1,13 @@
-Sphaeropsis epitricha Berk. & Broome, 1850 SPECIES
-=======
+# Phoma epitricha (Berk. & Broome) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 5: 422 (1850)
+Syll. fung. (Abellini) 3: 168 (1884)
 
 #### Original name
 Sphaeropsis epitricha Berk. & Broome, 1850

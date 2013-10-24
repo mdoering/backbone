@@ -1,5 +1,4 @@
-Cortinarius molochinus Bidaud & Ramm SPECIES
-=======
+# Cortinarius molochinus Bidaud & Ramm SPECIES
 
 #### Status
 ACCEPTED

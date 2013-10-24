@@ -1,5 +1,4 @@
-Russula variata Banning SPECIES
-=======
+# Russula variata Banning SPECIES
 
 #### Status
 ACCEPTED

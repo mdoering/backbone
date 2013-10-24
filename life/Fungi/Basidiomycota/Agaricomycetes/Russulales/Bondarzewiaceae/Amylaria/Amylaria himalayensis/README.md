@@ -1,5 +1,4 @@
-Amylaria himalayensis Corner, 1955 SPECIES
-=======
+# Amylaria himalayensis Corner, 1955 SPECIES
 
 #### Status
 ACCEPTED

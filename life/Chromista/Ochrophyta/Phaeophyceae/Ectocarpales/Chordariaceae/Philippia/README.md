@@ -1,5 +1,4 @@
-Philippia P. Kuckuck, 1929 GENUS
-=======
+# Philippia P. Kuckuck, 1929 GENUS
 
 #### Status
 ACCEPTED

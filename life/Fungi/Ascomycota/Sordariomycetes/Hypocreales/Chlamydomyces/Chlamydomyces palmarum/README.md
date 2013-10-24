@@ -1,14 +1,13 @@
-Uredo palmarum (Cooke) Sacc., 1888 SPECIES
-=======
+# Chlamydomyces palmarum (Cooke) E.W. Mason, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 2: 37 (1928)
 
 #### Original name
 null

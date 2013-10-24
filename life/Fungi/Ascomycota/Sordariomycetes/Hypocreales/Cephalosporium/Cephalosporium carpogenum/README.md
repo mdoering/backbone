@@ -1,5 +1,4 @@
-Cephalosporium carpogenum Ruehle SPECIES
-=======
+# Cephalosporium carpogenum Ruehle SPECIES
 
 #### Status
 ACCEPTED

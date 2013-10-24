@@ -1,5 +1,4 @@
-Arthonia subilicina Leight. SPECIES
-=======
+# Arthonia subilicina Leight. SPECIES
 
 #### Status
 ACCEPTED

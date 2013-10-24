@@ -1,14 +1,13 @@
-Hydnum aitchisonii Berk., 1876 SPECIES
-=======
+# Mycoleptodonoides aitchisonii (Berk.) Maas Geest., 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 4(no. 31): 137 (1876)
+Persoonia 1(4): 411 (1961)
 
 #### Original name
 Hydnum aitchisonii Berk., 1876

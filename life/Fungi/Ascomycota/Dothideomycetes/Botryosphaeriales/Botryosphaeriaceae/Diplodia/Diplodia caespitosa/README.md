@@ -1,14 +1,13 @@
-Aplosporella caespitosa (Berk. & Broome) Sacc. SPECIES
-=======
+# Diplodia caespitosa Berk. & Broome, 1850 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 2 5: no. 409 (1850)
 
 #### Original name
 Diplodia caespitosa Berk. & Broome, 1850

@@ -1,5 +1,4 @@
-Taeniolella ionaspisicola SPECIES
-=======
+# Taeniolella ionaspisicola SPECIES
 
 #### Status
 ACCEPTED

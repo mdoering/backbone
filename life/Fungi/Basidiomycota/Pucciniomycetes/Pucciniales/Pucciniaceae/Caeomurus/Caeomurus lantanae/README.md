@@ -1,5 +1,4 @@
-Caeomurus lantanae (Speg.) Kuntze SPECIES
-=======
+# Caeomurus lantanae (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

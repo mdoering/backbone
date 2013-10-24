@@ -1,5 +1,4 @@
-Poroniopsis bruchii Speg. SPECIES
-=======
+# Poroniopsis bruchii Speg. SPECIES
 
 #### Status
 ACCEPTED

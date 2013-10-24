@@ -1,5 +1,4 @@
-Sphaerulina rhododendri Syd. SPECIES
-=======
+# Sphaerulina rhododendri Syd. SPECIES
 
 #### Status
 ACCEPTED

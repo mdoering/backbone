@@ -1,5 +1,4 @@
-Pseudocercospora gracilenta (Syd.) Deighton SPECIES
-=======
+# Pseudocercospora gracilenta (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

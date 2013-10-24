@@ -1,5 +1,4 @@
-Agaricus squarrulosus Pers. SPECIES
-=======
+# Agaricus squarrulosus Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia exornata Arthur SPECIES
-=======
+# Puccinia exornata Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria glarensis Servít SPECIES
-=======
+# Verrucaria glarensis Servít SPECIES
 
 #### Status
 ACCEPTED

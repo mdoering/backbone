@@ -1,5 +1,4 @@
-Xenolophium pseudotrichioides A. Bell & Mahoney, 2008 SPECIES
-=======
+# Xenolophium pseudotrichioides A. Bell & Mahoney, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus rabidus Berk. & Broome SPECIES
-=======
+# Cantharellus rabidus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

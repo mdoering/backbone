@@ -1,17 +1,16 @@
-Pholiota lubrica var. lubrica VARIETY
-=======
+# Pholiota lubrica (Pers.) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Lilloa 22: 516 (1951)
 
 #### Original name
-Pholiota lubrica var. lubrica
+Agaricus lubricus Pers., 1801
 
 ### Remarks
 null

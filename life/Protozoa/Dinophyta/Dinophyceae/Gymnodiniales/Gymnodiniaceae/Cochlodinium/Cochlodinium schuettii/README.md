@@ -1,5 +1,4 @@
-Cochlodinium schuettii Kofoid & Swezy SPECIES
-=======
+# Cochlodinium schuettii Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

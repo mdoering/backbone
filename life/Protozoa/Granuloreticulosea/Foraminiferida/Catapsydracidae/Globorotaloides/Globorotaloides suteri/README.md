@@ -1,5 +1,4 @@
-Globorotaloides suteri Bolli SPECIES
-=======
+# Globorotaloides suteri Bolli SPECIES
 
 #### Status
 ACCEPTED

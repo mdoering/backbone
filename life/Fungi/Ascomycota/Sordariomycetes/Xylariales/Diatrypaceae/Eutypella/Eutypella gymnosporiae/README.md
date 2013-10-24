@@ -1,5 +1,4 @@
-Eutypella gymnosporiae (Gambhir) Rappaz SPECIES
-=======
+# Eutypella gymnosporiae (Gambhir) Rappaz SPECIES
 
 #### Status
 ACCEPTED

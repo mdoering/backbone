@@ -1,17 +1,16 @@
-Valsa caryigena Berk. & M.A. Curtis SPECIES
-=======
+# Valsa caryogena Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 4(no. 31): 102 (1876)
 
 #### Original name
-Valsa caryigena Berk. & M.A. Curtis
+Valsa caryogena Berk. & M.A. Curtis
 
 ### Remarks
 null

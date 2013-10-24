@@ -1,5 +1,4 @@
-Calonectria coralloides Maubl. SPECIES
-=======
+# Calonectria coralloides Maubl. SPECIES
 
 #### Status
 ACCEPTED

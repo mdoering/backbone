@@ -1,5 +1,4 @@
-Coenogonium ciliatum Kalb & Lücking SPECIES
-=======
+# Coenogonium ciliatum Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED

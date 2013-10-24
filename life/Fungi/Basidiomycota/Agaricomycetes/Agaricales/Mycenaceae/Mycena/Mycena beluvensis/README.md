@@ -1,5 +1,4 @@
-Mycena beluvensis Maas Geest. & Hauskn. SPECIES
-=======
+# Mycena beluvensis Maas Geest. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

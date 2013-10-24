@@ -1,5 +1,4 @@
-Clavaria arborescens Berk., 1855 SPECIES
-=======
+# Clavaria arborescens Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

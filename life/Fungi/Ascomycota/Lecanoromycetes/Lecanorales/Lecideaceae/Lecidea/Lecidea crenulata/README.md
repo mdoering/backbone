@@ -1,5 +1,4 @@
-Lecidea crenulata (Hepp) Overeem SPECIES
-=======
+# Lecidea crenulata (Hepp) Overeem SPECIES
 
 #### Status
 ACCEPTED

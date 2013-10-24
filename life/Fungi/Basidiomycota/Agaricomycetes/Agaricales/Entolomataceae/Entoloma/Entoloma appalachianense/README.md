@@ -1,5 +1,4 @@
-Entoloma appalachianense Hesler SPECIES
-=======
+# Entoloma appalachianense Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalaria pitardii Harm. SPECIES
-=======
+# Omphalaria pitardii Harm. SPECIES
 
 #### Status
 ACCEPTED

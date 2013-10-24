@@ -1,5 +1,4 @@
-Asterodon hyalinus Rick SPECIES
-=======
+# Asterodon hyalinus Rick SPECIES
 
 #### Status
 ACCEPTED

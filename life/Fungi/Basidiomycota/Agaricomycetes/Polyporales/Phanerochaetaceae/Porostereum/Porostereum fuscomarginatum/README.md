@@ -1,5 +1,4 @@
-Porostereum fuscomarginatum (Burt) Hjortstam SPECIES
-=======
+# Porostereum fuscomarginatum (Burt) Hjortstam SPECIES
 
 #### Status
 ACCEPTED

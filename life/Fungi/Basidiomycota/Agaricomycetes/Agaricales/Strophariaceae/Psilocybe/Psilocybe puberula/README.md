@@ -1,5 +1,4 @@
-Psilocybe puberula Bas & Noordel. SPECIES
-=======
+# Psilocybe puberula Bas & Noordel. SPECIES
 
 #### Status
 ACCEPTED

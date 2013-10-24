@@ -1,14 +1,13 @@
-Poria wirtgeni (Fr.) Sacc. SPECIES
-=======
+# Poria wirtgenii (Fr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 6: 308 (1888)
 
 #### Original name
 Polyporus wirtgenii Fr.

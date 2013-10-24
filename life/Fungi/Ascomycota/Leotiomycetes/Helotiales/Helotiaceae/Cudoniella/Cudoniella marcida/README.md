@@ -1,5 +1,4 @@
-Cudoniella marcida (O.F. Müll.) Sacc. SPECIES
-=======
+# Cudoniella marcida (O.F. Müll.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

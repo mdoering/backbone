@@ -1,5 +1,4 @@
-Aposphaeria minutula (Peck) Sacc. SPECIES
-=======
+# Aposphaeria minutula (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

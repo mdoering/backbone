@@ -1,5 +1,4 @@
-Tomentella nitellina Bourdot & Galzin, 1924 SPECIES
-=======
+# Tomentella nitellina Bourdot & Galzin, 1924 SPECIES
 
 #### Status
 ACCEPTED

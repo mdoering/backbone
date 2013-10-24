@@ -1,17 +1,16 @@
-Sticta lobariaeformis Vain. SPECIES
-=======
+# Sticta lobariiformis Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+University of Calif. Publ. Bot. 12(1): 6 (1924)
 
 #### Original name
-Sticta lobariaeformis Vain.
+Sticta lobariiformis Vain.
 
 ### Remarks
 null

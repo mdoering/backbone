@@ -1,5 +1,4 @@
-Uredo consimilis (Arthur) Cummins SPECIES
-=======
+# Uredo consimilis (Arthur) Cummins SPECIES
 
 #### Status
 ACCEPTED

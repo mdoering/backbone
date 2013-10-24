@@ -1,5 +1,4 @@
-Telatynella Gawor-Biedowa, 1987 GENUS
-=======
+# Telatynella Gawor-Biedowa, 1987 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuberculariella sanguinea (Fuckel) Höhn. SPECIES
-=======
+# Tuberculariella sanguinea (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

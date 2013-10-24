@@ -1,5 +1,4 @@
-Lecanora praedalosa Nyl. SPECIES
-=======
+# Lecanora praedalosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

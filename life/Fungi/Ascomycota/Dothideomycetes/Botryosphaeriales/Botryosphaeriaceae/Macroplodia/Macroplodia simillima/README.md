@@ -1,5 +1,4 @@
-Macroplodia simillima (Peck) Dearn. & House SPECIES
-=======
+# Macroplodia simillima (Peck) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

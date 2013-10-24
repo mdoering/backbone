@@ -1,17 +1,16 @@
-Lecanactiomyces patellarioidis Werner SPECIES
-=======
+# Lecanactiomyces patellarioides Werner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 92(1): 42 (1976)
 
 #### Original name
-Lecanactiomyces patellarioidis Werner
+Lecanactiomyces patellarioides Werner
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Camarophyllus sphaerosporus (Peck) Murrill SPECIES
-=======
+# Camarophyllus sphaerosporus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

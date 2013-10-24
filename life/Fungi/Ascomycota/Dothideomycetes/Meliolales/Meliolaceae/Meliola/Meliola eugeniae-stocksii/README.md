@@ -1,5 +1,4 @@
-Meliola eugeniae-stocksii Hosag. SPECIES
-=======
+# Meliola eugeniae-stocksii Hosag. SPECIES
 
 #### Status
 ACCEPTED

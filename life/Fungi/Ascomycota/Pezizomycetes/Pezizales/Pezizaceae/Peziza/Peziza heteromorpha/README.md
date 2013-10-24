@@ -1,5 +1,4 @@
-Peziza heteromorpha Ellis & Everh. SPECIES
-=======
+# Peziza heteromorpha Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta staticis Tschern. SPECIES
-=======
+# Phyllosticta staticis Tschern. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelina pastillifera f. pastillifera FORM
-=======
+# Parmelina pastillifera (Harm.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Smithson. Contr. bot. 33: 39 (1976)
 
 #### Original name
-Parmelina pastillifera f. pastillifera
+Parmelia scortea var. pastillifera Harm.
 
 ### Remarks
 null

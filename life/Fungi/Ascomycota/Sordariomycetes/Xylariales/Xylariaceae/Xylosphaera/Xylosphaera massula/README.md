@@ -1,5 +1,4 @@
-Xylosphaera massula (Ces.) Dennis SPECIES
-=======
+# Xylosphaera massula (Ces.) Dennis SPECIES
 
 #### Status
 ACCEPTED

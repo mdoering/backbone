@@ -1,5 +1,4 @@
-Catharinia valdobbiae Sacc. SPECIES
-=======
+# Catharinia valdobbiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

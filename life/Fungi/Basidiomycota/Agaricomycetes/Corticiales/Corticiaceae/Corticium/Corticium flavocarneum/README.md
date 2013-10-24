@@ -1,5 +1,4 @@
-Corticium flavocarneum Petch SPECIES
-=======
+# Corticium flavocarneum Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entorrhiza citriformis Vánky & McKenzie, 2004 SPECIES
-=======
+# Entorrhiza citriformis Vánky & McKenzie, 2004 SPECIES
 
 #### Status
 ACCEPTED

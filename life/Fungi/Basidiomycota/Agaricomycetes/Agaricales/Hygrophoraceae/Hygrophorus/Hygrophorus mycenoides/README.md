@@ -1,5 +1,4 @@
-Hygrophorus mycenoides Velen. SPECIES
-=======
+# Hygrophorus mycenoides Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis ligustri-vulgaris Petr. SPECIES
-=======
+# Phomopsis ligustri-vulgaris Petr. SPECIES
 
 #### Status
 ACCEPTED

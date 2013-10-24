@@ -1,5 +1,4 @@
-Strombomonas morenensis Balech & Dastugue SPECIES
-=======
+# Strombomonas morenensis Balech & Dastugue SPECIES
 
 #### Status
 ACCEPTED

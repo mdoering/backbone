@@ -1,5 +1,4 @@
-Pandora neoaphidis (Remaud. & Hennebert) Humber, 1989 SPECIES
-=======
+# Pandora neoaphidis (Remaud. & Hennebert) Humber, 1989 SPECIES
 
 #### Status
 ACCEPTED

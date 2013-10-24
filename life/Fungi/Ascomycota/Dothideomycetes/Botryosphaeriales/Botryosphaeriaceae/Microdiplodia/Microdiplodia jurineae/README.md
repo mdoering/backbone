@@ -1,5 +1,4 @@
-Microdiplodia jurineae I.E. Brezhnev SPECIES
-=======
+# Microdiplodia jurineae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

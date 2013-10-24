@@ -1,5 +1,4 @@
-Rosellinia bambusae Henn. SPECIES
-=======
+# Rosellinia bambusae Henn. SPECIES
 
 #### Status
 ACCEPTED

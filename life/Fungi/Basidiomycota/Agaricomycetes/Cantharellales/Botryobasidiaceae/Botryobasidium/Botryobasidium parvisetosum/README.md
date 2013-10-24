@@ -1,5 +1,4 @@
-Botryobasidium parvisetosum Boidin & Gilles, 1988 SPECIES
-=======
+# Botryobasidium parvisetosum Boidin & Gilles, 1988 SPECIES
 
 #### Status
 ACCEPTED

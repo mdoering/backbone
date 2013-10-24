@@ -1,5 +1,4 @@
-Diaporthe desmodiana Cooke & Ellis SPECIES
-=======
+# Diaporthe desmodiana Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

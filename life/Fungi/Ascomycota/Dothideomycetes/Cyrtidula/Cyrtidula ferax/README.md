@@ -1,5 +1,4 @@
-Cyrtidula ferax Minks SPECIES
-=======
+# Cyrtidula ferax Minks SPECIES
 
 #### Status
 ACCEPTED

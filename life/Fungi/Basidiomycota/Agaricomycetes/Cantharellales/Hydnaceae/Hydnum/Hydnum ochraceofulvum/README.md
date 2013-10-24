@@ -1,5 +1,4 @@
-Hydnum ochraceofulvum Britzelm. SPECIES
-=======
+# Hydnum ochraceofulvum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

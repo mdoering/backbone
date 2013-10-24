@@ -1,17 +1,16 @@
-Simocybe sumptuosa f. sumptuosa FORM
-=======
+# Simocybe sumptuosa (P.D. Orton) Singer, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 15: 74 (1962)
 
 #### Original name
-null
+Naucoria sumptuosa P.D. Orton, 1960
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stysanus capitatus Reinke & Berthold SPECIES
-=======
+# Stysanus capitatus Reinke & Berthold SPECIES
 
 #### Status
 ACCEPTED

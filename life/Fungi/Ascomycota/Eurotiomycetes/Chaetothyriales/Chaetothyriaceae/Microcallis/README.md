@@ -1,17 +1,16 @@
-Neopeltis Petr. GENUS
-=======
+# Microcallis Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 3: 234 (1949)
+Annls mycol. 24(5/6): 337 (1926)
 
 #### Original name
-Neopeltis Petr.
+Microcallis Syd.
 
 ### Remarks
 null

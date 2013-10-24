@@ -1,5 +1,4 @@
-Asterina geniostomatis Hansf., 1954 SPECIES
-=======
+# Asterina geniostomatis Hansf., 1954 SPECIES
 
 #### Status
 ACCEPTED

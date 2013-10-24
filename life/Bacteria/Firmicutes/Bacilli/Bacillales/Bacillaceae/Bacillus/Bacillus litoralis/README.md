@@ -1,5 +1,4 @@
-Bacillus litoralis Yoon & Oh, 2005 SPECIES
-=======
+# Bacillus litoralis Yoon & Oh, 2005 SPECIES
 
 #### Status
 ACCEPTED

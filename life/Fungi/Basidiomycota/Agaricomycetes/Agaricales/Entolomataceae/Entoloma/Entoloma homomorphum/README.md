@@ -1,5 +1,4 @@
-Entoloma homomorphum (Romagn.) Singer SPECIES
-=======
+# Entoloma homomorphum (Romagn.) Singer SPECIES
 
 #### Status
 ACCEPTED

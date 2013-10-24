@@ -1,5 +1,4 @@
-Puccinia riparia Holw. SPECIES
-=======
+# Puccinia riparia Holw. SPECIES
 
 #### Status
 ACCEPTED

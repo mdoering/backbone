@@ -1,5 +1,4 @@
-Cortinarius iris Massee SPECIES
-=======
+# Cortinarius iris Massee SPECIES
 
 #### Status
 ACCEPTED

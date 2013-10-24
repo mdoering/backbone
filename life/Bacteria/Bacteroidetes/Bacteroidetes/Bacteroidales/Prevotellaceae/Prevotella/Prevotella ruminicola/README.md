@@ -1,11 +1,10 @@
-Ruminobacter ruminicola (Bryant et al., 1958) Prévot, 1966 SPECIES
-=======
+# Prevotella ruminicola (Bryant et al., 1958) Shah & Collins, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

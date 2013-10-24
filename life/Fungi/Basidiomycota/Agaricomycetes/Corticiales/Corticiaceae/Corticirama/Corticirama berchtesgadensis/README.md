@@ -1,5 +1,4 @@
-Corticirama berchtesgadensis E. Ludw. & Schmid-Heckel, 1988 SPECIES
-=======
+# Corticirama berchtesgadensis E. Ludw. & Schmid-Heckel, 1988 SPECIES
 
 #### Status
 ACCEPTED

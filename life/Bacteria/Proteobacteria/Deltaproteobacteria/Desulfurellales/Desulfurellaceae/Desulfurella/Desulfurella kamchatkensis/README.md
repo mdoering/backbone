@@ -1,5 +1,4 @@
-Desulfurella kamchatkensis Miroshnichenko, 1998 SPECIES
-=======
+# Desulfurella kamchatkensis Miroshnichenko, 1998 SPECIES
 
 #### Status
 ACCEPTED

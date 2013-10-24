@@ -1,5 +1,4 @@
-Mollisia incerta (P. Karst.) Boud. SPECIES
-=======
+# Mollisia incerta (P. Karst.) Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lamproderma argenteobrunneum A. Ronikier, Lado & Mar. Mey., 2010 SPECIES
-=======
+# Lamproderma argenteobrunneum A. Ronikier, Lado & Mar. Mey., 2010 SPECIES
 
 #### Status
 ACCEPTED

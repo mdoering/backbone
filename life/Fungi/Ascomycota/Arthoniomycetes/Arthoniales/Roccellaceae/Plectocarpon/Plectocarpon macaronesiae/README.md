@@ -1,5 +1,4 @@
-Plectocarpon macaronesiae Diederich, Etayo & Sérus. SPECIES
-=======
+# Plectocarpon macaronesiae Diederich, Etayo & Sérus. SPECIES
 
 #### Status
 ACCEPTED

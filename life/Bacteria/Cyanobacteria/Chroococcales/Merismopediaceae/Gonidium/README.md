@@ -1,5 +1,4 @@
-Gonidium Ehrenberg, 1849 GENUS
-=======
+# Gonidium Ehrenberg, 1849 GENUS
 
 #### Status
 SYNONYM

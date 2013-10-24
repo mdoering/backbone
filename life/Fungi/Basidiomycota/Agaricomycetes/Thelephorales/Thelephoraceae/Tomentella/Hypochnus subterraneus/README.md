@@ -1,5 +1,4 @@
-Hypochnus subterraneus (Harz) Sacc. SPECIES
-=======
+# Hypochnus subterraneus (Harz) Sacc. SPECIES
 
 #### Status
 ACCEPTED

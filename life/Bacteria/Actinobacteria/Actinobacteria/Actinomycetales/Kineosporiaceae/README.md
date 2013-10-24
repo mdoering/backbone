@@ -1,5 +1,4 @@
-Kineosporiaceae FAMILY
-=======
+# Kineosporiaceae FAMILY
 
 #### Status
 ACCEPTED

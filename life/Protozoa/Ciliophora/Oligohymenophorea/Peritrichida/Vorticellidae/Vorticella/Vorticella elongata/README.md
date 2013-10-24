@@ -1,11 +1,10 @@
-Vorticella elongata subsp. elongata SUBSPECIES
-=======
+# Vorticella elongata Fromentel SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

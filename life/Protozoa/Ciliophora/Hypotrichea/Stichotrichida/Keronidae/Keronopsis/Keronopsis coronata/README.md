@@ -1,5 +1,4 @@
-Keronopsis coronata Gourret & Roeser, 1888 SPECIES
-=======
+# Keronopsis coronata Gourret & Roeser, 1888 SPECIES
 
 #### Status
 ACCEPTED

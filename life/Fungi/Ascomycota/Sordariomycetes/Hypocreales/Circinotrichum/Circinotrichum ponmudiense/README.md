@@ -1,17 +1,16 @@
-Circinotrichum ponmudiensis Varghese & V.G. Rao SPECIES
-=======
+# Circinotrichum ponmudiense Varghese & V.G. Rao, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Notiser 131(2): 215 (1978)
 
 #### Original name
-Circinotrichum ponmudiensis Varghese & V.G. Rao
+Circinotrichum ponmudiense Varghese & V.G. Rao, 1978
 
 ### Remarks
 null

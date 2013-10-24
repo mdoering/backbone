@@ -1,5 +1,4 @@
-Polycoccum rubellianae Calat. & V. Atienza SPECIES
-=======
+# Polycoccum rubellianae Calat. & V. Atienza SPECIES
 
 #### Status
 ACCEPTED

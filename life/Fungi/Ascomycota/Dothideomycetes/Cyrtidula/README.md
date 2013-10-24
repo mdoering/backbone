@@ -1,5 +1,4 @@
-Cyrtidula Minks GENUS
-=======
+# Cyrtidula Minks GENUS
 
 #### Status
 ACCEPTED

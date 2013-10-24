@@ -1,17 +1,16 @@
-Placynthium pannariellum f. pannariellum FORM
-=======
+# Placynthium pannariellum (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Forteckning over Skandinaviens Vaxter, 4, Lavar (Lurid) 4(Lavar): 24 (1936)
 
 #### Original name
-null
+Pterygium pannariellum Nyl.
 
 ### Remarks
 null

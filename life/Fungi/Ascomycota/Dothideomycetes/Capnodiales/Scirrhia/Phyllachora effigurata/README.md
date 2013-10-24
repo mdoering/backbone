@@ -1,8 +1,7 @@
-Phyllachora dendroidea Henn., 1908 SPECIES
-=======
+# Phyllachora effigurata Syd. & P. Syd., 1903 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

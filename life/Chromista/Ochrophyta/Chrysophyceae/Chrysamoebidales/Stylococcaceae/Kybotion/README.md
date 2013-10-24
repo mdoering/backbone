@@ -1,5 +1,4 @@
-Kybotion Pascher, 1940 GENUS
-=======
+# Kybotion Pascher, 1940 GENUS
 
 #### Status
 ACCEPTED

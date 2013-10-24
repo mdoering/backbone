@@ -1,5 +1,4 @@
-Cladosporium simplex Schwein. SPECIES
-=======
+# Cladosporium simplex Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nyssopsora Arthur GENUS
-=======
+# Nyssopsora Arthur GENUS
 
 #### Status
 ACCEPTED

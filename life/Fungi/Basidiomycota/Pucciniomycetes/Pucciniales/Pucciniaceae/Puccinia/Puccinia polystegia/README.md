@@ -1,5 +1,4 @@
-Puccinia polystegia Syd. SPECIES
-=======
+# Puccinia polystegia Syd. SPECIES
 
 #### Status
 ACCEPTED

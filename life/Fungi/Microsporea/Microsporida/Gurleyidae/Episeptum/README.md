@@ -1,5 +1,4 @@
-Episeptum J.I.R. Larsson GENUS
-=======
+# Episeptum J.I.R. Larsson GENUS
 
 #### Status
 ACCEPTED

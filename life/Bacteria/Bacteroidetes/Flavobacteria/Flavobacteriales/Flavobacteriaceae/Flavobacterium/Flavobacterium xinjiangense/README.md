@@ -1,5 +1,4 @@
-Flavobacterium xinjiangense Zhu et al., 2003 SPECIES
-=======
+# Flavobacterium xinjiangense Zhu et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

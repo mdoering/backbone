@@ -1,5 +1,4 @@
-Tulostoma rivulosum Long SPECIES
-=======
+# Tulostoma rivulosum Long SPECIES
 
 #### Status
 ACCEPTED

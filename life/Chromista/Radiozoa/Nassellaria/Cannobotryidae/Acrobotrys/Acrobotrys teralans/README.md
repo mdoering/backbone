@@ -1,5 +1,4 @@
-Acrobotrys teralans Renz, 1976 SPECIES
-=======
+# Acrobotrys teralans Renz, 1976 SPECIES
 
 #### Status
 ACCEPTED

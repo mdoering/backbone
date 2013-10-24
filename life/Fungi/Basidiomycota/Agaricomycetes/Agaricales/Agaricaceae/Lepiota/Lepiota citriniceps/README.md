@@ -1,5 +1,4 @@
-Lepiota citriniceps Murrill SPECIES
-=======
+# Lepiota citriniceps Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Balladynastrum entebbeensis Hansf. SPECIES
-=======
+# Balladynastrum entebbeense Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. London 153: (1941)
 
 #### Original name
-Balladynastrum entebbeensis Hansf.
+Balladynastrum entebbeense Hansf.
 
 ### Remarks
 null

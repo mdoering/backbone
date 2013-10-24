@@ -1,5 +1,4 @@
-Phyllosticta pucciniophila C. Massal. SPECIES
-=======
+# Phyllosticta pucciniophila C. Massal. SPECIES
 
 #### Status
 ACCEPTED

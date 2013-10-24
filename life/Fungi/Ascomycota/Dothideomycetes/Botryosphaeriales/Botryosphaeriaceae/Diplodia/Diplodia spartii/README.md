@@ -1,5 +1,4 @@
-Diplodia spartii var. spartii VARIETY
-=======
+# Diplodia spartii Castagne ex Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fungi herb. Bruxell. no. 33 (1895)
 
 #### Original name
-Diplodia spartii var. spartii
+Diplodia spartii Castagne ex Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Strickeria dura (Fuckel) G. Winter SPECIES
-=======
+# Strickeria dura (Fuckel) G. Winter SPECIES
 
 #### Status
 ACCEPTED

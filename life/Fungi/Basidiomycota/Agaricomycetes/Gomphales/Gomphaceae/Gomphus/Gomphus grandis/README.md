@@ -1,5 +1,4 @@
-Gomphus grandis Corner SPECIES
-=======
+# Gomphus grandis Corner SPECIES
 
 #### Status
 ACCEPTED

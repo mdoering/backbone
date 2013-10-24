@@ -1,5 +1,4 @@
-Trichopeziza glandulosa (Gillet) Sacc. SPECIES
-=======
+# Trichopeziza glandulosa (Gillet) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinocyclus curvulatus SPECIES
-=======
+# Actinocyclus curvulatus SPECIES
 
 #### Status
 ACCEPTED

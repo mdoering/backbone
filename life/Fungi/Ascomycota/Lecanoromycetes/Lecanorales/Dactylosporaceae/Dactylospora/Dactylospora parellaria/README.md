@@ -1,14 +1,13 @@
-Lecidea parellaria Nyl. SPECIES
-=======
+# Dactylospora parellaria (Nyl.) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 60: 300 (1877)
 
 #### Original name
 Lecidea parellaria Nyl.

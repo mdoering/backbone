@@ -1,5 +1,4 @@
-Phomopsis sterculiae S.M. Lin & P.K. Chi SPECIES
-=======
+# Phomopsis sterculiae S.M. Lin & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria bambusae Rolland SPECIES
-=======
+# Leptosphaeria bambusae Rolland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peyritschiella staphylini (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella staphylini (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

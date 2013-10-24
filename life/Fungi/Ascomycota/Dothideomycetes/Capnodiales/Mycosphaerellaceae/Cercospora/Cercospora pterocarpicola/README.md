@@ -1,17 +1,16 @@
-Cercospora ptericarpicola J.M. Yen SPECIES
-=======
+# Cercospora pterocarpicola J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 42(2): 147 (1978)
 
 #### Original name
-Cercospora ptericarpicola J.M. Yen
+Cercospora pterocarpicola J.M. Yen
 
 ### Remarks
 null

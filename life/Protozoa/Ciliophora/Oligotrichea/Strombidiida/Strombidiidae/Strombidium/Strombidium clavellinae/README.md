@@ -1,5 +1,4 @@
-Strombidium clavellinae Buddenbrock, 1922 SPECIES
-=======
+# Strombidium clavellinae Buddenbrock, 1922 SPECIES
 
 #### Status
 ACCEPTED

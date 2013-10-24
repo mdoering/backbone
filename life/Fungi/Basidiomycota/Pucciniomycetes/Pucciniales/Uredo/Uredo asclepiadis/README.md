@@ -1,5 +1,4 @@
-Uredo asclepiadis Schwein. SPECIES
-=======
+# Uredo asclepiadis Schwein. SPECIES
 
 #### Status
 ACCEPTED

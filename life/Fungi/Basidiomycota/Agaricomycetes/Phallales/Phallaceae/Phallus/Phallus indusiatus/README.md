@@ -1,17 +1,16 @@
-Dictyophora indusiata f. rosea (Ces.) Kobayasi FORM
-=======
+# Phallus indusiatus Vent., 1798 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Hymenophallus roseus Ces.
+Phallus indusiatus Vent., 1798
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius subfuligineus Bidaud SPECIES
-=======
+# Cortinarius subfuligineus Bidaud SPECIES
 
 #### Status
 ACCEPTED

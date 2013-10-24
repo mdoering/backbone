@@ -1,5 +1,4 @@
-Lagenella euchlora (Ehrenberg) J. F. Weisse SPECIES
-=======
+# Lagenella euchlora (Ehrenberg) J. F. Weisse SPECIES
 
 #### Status
 ACCEPTED

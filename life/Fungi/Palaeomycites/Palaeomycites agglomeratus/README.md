@@ -1,5 +1,4 @@
-Palaeomycites agglomeratus (Kidst. & W.H. Lang) Kalgutkar & Janson. SPECIES
-=======
+# Palaeomycites agglomeratus (Kidst. & W.H. Lang) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

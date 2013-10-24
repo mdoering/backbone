@@ -1,5 +1,4 @@
-Anteholosticha alpestris Kahl, 1932 SPECIES
-=======
+# Anteholosticha alpestris Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

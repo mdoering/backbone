@@ -1,5 +1,4 @@
-Phaeographis luzonensis (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis luzonensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

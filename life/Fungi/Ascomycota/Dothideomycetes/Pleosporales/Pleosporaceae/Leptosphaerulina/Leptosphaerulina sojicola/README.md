@@ -1,14 +1,13 @@
-Leptosphaerulina sojaecola (Miura) Byzova SPECIES
-=======
+# Leptosphaerulina sojicola (Miura) Byzova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Vasyagina, Byzova & Tartenova, Flora Sporovykh Rastenii Kazakhstana (Alma-Ata), Sumchatye. Griby Lokuloaskomitsety (Loculoascomycetes) 83 (1987)
 
 #### Original name
 Pleosphaerulina sojaecola Miura

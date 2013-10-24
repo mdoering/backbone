@@ -1,5 +1,4 @@
-Sphacelotheca doliaris Liro SPECIES
-=======
+# Sphacelotheca doliaris Liro SPECIES
 
 #### Status
 ACCEPTED

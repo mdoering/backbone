@@ -1,5 +1,4 @@
-Pholiota pusilla Rick, 1919 SPECIES
-=======
+# Pholiota pusilla Rick, 1919 SPECIES
 
 #### Status
 ACCEPTED

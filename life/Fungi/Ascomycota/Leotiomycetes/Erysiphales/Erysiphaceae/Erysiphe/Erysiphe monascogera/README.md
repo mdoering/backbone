@@ -1,5 +1,4 @@
-Erysiphe monascogera Shiroya, C. Nakash. & S. Takam. SPECIES
-=======
+# Erysiphe monascogera Shiroya, C. Nakash. & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis infundibulum Daday, 1887 SPECIES
-=======
+# Tintinnopsis infundibulum Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phyllachora miscanthi-japonici Sawada, 1943 SPECIES
-=======
+# Phyllachora miscanthi Syd. & P. Syd., 1917 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

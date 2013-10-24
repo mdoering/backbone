@@ -1,5 +1,4 @@
-Pleospora smyrnii Gonz. Frag. SPECIES
-=======
+# Pleospora smyrnii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

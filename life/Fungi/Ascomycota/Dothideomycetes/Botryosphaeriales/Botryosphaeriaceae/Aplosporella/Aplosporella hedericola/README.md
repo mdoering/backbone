@@ -1,5 +1,4 @@
-Aplosporella hedericola Speg. SPECIES
-=======
+# Aplosporella hedericola Speg. SPECIES
 
 #### Status
 ACCEPTED

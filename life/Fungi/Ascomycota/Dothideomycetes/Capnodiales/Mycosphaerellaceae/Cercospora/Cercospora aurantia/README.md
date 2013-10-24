@@ -1,5 +1,4 @@
-Cercospora aurantia Heald & F.A. Wolf, 1911 SPECIES
-=======
+# Cercospora aurantia Heald & F.A. Wolf, 1911 SPECIES
 
 #### Status
 ACCEPTED

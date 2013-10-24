@@ -1,5 +1,4 @@
-Mycenoporella subglobospora Corner SPECIES
-=======
+# Mycenoporella subglobospora Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Parmelia everardensis Elix & P. M. Armstr. SPECIES
-=======
+# Xanthoparmelia everardensis (Elix & P. M. Armstr.) Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. J. Bot. 31(5): 473 (1983)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 242 (1986)
 
 #### Original name
 Parmelia everardensis Elix & P. M. Armstr.

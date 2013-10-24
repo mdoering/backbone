@@ -1,14 +1,13 @@
-Triblidium insculptum Cooke, 1876 SPECIES
-=======
+# Endotryblidium insculptum (Cooke) Petr., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 4(no. 32): 182 (1876)
+Sydowia 13: 245 (1959)
 
 #### Original name
 Triblidium insculptum Cooke, 1876

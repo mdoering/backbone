@@ -1,14 +1,13 @@
-Heterothecium mariae (Trevis.) Müll. Arg. SPECIES
-=======
+# Brigantiaea mariae Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 69: 126 (1886)
+Spighe Paglie 7 (1853)
 
 #### Original name
 Brigantiaea mariae Trevis.

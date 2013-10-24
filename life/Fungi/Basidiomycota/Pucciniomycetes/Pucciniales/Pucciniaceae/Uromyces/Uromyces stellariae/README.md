@@ -1,5 +1,4 @@
-Uromyces stellariae Syd. & P. Syd. SPECIES
-=======
+# Uromyces stellariae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclomyces gigas Chardón SPECIES
-=======
+# Cyclomyces gigas Chardón SPECIES
 
 #### Status
 ACCEPTED

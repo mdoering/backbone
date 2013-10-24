@@ -1,5 +1,4 @@
-Cryptosporium lonicerae Cooke & Ellis SPECIES
-=======
+# Cryptosporium lonicerae Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

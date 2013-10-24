@@ -1,5 +1,4 @@
-Troposporella P. Karst. GENUS
-=======
+# Troposporella P. Karst. GENUS
 
 #### Status
 ACCEPTED

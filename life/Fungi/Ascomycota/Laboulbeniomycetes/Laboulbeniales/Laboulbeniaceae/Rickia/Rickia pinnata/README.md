@@ -1,5 +1,4 @@
-Rickia pinnata Thaxt. SPECIES
-=======
+# Rickia pinnata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

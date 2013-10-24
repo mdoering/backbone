@@ -1,17 +1,16 @@
-Bactrodesmium heimi Cif. SPECIES
-=======
+# Bactrodesmium heimii Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 19: 93 (1962)
 
 #### Original name
-Bactrodesmium heimi Cif.
+Bactrodesmium heimii Cif.
 
 ### Remarks
 null

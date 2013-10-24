@@ -1,5 +1,4 @@
-Hemimycena drepanocladi Singer SPECIES
-=======
+# Hemimycena drepanocladi Singer SPECIES
 
 #### Status
 ACCEPTED

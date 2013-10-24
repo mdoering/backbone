@@ -1,5 +1,4 @@
-Ansatospora bromi (R. Sprague) R. Sprague SPECIES
-=======
+# Ansatospora bromi (R. Sprague) R. Sprague SPECIES
 
 #### Status
 ACCEPTED

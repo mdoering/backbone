@@ -1,5 +1,4 @@
-Pseudopyrenula uberina SPECIES
-=======
+# Pseudopyrenula uberina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeoporus corrugatus Berk. ex Cooke SPECIES
-=======
+# Gloeoporus corrugatus Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

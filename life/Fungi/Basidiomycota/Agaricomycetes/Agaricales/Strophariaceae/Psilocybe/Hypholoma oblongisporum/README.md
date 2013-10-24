@@ -1,5 +1,4 @@
-Hypholoma oblongisporum C.S. Parker SPECIES
-=======
+# Hypholoma oblongisporum C.S. Parker SPECIES
 
 #### Status
 ACCEPTED

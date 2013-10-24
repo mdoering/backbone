@@ -1,5 +1,4 @@
-Fusarium sinensis Z.H. Zhao & G.Z. Lu SPECIES
-=======
+# Fusarium sinensis Z.H. Zhao & G.Z. Lu SPECIES
 
 #### Status
 ACCEPTED

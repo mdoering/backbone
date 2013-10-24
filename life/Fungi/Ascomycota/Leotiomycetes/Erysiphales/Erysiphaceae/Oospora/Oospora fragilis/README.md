@@ -1,5 +1,4 @@
-Oospora fragilis Schaede SPECIES
-=======
+# Oospora fragilis Schaede SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nigredo epicampis (Dietel & Holw.) Arthur SPECIES
-=======
+# Nigredo epicampis (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

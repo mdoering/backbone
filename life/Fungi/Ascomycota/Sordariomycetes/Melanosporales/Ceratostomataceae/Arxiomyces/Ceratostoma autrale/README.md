@@ -1,5 +1,4 @@
-Ceratostoma autrale SPECIES
-=======
+# Ceratostoma autrale SPECIES
 
 #### Status
 ACCEPTED

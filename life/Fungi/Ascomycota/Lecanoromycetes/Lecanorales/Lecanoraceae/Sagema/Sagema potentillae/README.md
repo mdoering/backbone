@@ -1,5 +1,4 @@
-Sagema potentillae Poelt & Grube SPECIES
-=======
+# Sagema potentillae Poelt & Grube SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocomus rubrosquamulosus Snell, E.A. Dick & Hesler SPECIES
-=======
+# Xerocomus rubrosquamulosus Snell, E.A. Dick & Hesler SPECIES
 
 #### Status
 ACCEPTED

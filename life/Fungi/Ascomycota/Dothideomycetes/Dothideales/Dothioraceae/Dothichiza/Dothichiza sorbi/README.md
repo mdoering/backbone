@@ -1,5 +1,4 @@
-Dothichiza sorbi Lib. SPECIES
-=======
+# Dothichiza sorbi Lib. SPECIES
 
 #### Status
 ACCEPTED

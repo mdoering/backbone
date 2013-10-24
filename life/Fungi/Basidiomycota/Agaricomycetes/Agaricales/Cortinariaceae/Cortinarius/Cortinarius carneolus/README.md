@@ -1,5 +1,4 @@
-Cortinarius carneolus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius carneolus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

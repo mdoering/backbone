@@ -1,5 +1,4 @@
-Pistillaria elegantula (P. Karst.) Corner SPECIES
-=======
+# Pistillaria elegantula (P. Karst.) Corner SPECIES
 
 #### Status
 ACCEPTED

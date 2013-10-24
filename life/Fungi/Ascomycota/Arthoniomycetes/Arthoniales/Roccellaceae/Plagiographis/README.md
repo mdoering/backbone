@@ -1,5 +1,4 @@
-Plagiographis GENUS
-=======
+# Plagiographis GENUS
 
 #### Status
 ACCEPTED

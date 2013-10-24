@@ -1,5 +1,4 @@
-Fusisporium cylindricum Mont. SPECIES
-=======
+# Fusisporium cylindricum Mont. SPECIES
 
 #### Status
 ACCEPTED

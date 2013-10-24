@@ -1,14 +1,13 @@
-Poria inermis Ellis & Everh., 1894 SPECIES
-=======
+# Phellinus inermis (Ellis & Everh.) G. Cunn., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Acad. nat. Sci. Philad. , 1894 46: 322 (1894)
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 164: 234 (1965)
 
 #### Original name
 Poria inermis Ellis & Everh., 1894

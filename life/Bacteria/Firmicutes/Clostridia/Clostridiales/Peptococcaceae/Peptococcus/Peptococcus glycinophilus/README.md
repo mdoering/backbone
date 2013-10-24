@@ -1,11 +1,10 @@
-Diplococcus glycinophilus Cardon & Barker, 1946 SPECIES
-=======
+# Peptococcus glycinophilus (Cardon and Barker, 1946) Douglas, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

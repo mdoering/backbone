@@ -1,5 +1,4 @@
-Puccinia bombacis Dietel SPECIES
-=======
+# Puccinia bombacis Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria petri Chevaug. SPECIES
-=======
+# Leptosphaeria petri Chevaug. SPECIES
 
 #### Status
 ACCEPTED

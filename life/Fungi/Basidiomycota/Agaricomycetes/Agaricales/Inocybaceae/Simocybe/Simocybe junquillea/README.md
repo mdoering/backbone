@@ -1,17 +1,16 @@
-Simocybe junquillea var. junquillea VARIETY
-=======
+# Simocybe junquillea Singer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Sydowia 15(1-6): 72 (1962)
 
 #### Original name
-null
+Simocybe junquillea Singer
 
 ### Remarks
 null

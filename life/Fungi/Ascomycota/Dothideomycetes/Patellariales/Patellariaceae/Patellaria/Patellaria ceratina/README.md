@@ -1,5 +1,4 @@
-Patellaria ceratina (Stirt.) Müll. Arg. SPECIES
-=======
+# Patellaria ceratina (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

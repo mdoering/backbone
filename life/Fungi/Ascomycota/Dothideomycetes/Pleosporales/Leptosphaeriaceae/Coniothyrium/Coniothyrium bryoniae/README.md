@@ -1,5 +1,4 @@
-Coniothyrium bryoniae Kalymb. SPECIES
-=======
+# Coniothyrium bryoniae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

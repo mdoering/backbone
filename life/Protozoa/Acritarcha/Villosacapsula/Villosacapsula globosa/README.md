@@ -1,5 +1,4 @@
-Villosacapsula globosa Vanguestaine et al., 1983 SPECIES
-=======
+# Villosacapsula globosa Vanguestaine et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

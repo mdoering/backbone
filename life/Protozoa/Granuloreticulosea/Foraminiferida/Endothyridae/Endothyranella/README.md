@@ -1,5 +1,4 @@
-Endothyranella Galloway & Harlton in Galloway & Ryniker, 1930 GENUS
-=======
+# Endothyranella Galloway & Harlton in Galloway & Ryniker, 1930 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetosphaeria eximia Sacc. SPECIES
-=======
+# Chaetosphaeria eximia Sacc. SPECIES
 
 #### Status
 ACCEPTED

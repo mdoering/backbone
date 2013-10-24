@@ -1,5 +1,4 @@
-Pucciniostele philippinensis Cummins & Thirum., 1953 SPECIES
-=======
+# Pucciniostele philippinensis Cummins & Thirum., 1953 SPECIES
 
 #### Status
 ACCEPTED

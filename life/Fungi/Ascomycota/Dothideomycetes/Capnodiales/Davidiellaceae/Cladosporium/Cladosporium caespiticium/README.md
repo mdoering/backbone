@@ -1,5 +1,4 @@
-Cladosporium caespiticium Rabenh. SPECIES
-=======
+# Cladosporium caespiticium Rabenh. SPECIES
 
 #### Status
 ACCEPTED

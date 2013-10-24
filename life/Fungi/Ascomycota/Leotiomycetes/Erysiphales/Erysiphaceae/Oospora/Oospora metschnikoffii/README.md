@@ -1,5 +1,4 @@
-Oospora metschnikoffii Sauv. SPECIES
-=======
+# Oospora metschnikoffii Sauv. SPECIES
 
 #### Status
 ACCEPTED

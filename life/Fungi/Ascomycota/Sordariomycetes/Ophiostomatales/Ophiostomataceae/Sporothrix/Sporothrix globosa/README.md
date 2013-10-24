@@ -1,5 +1,4 @@
-Sporothrix globosa Gené, Cano & Guarro, 2007 SPECIES
-=======
+# Sporothrix globosa Gené, Cano & Guarro, 2007 SPECIES
 
 #### Status
 ACCEPTED

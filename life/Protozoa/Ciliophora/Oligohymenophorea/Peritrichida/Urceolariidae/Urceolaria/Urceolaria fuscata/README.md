@@ -1,5 +1,4 @@
-Urceolaria fuscata SPECIES
-=======
+# Urceolaria fuscata SPECIES
 
 #### Status
 ACCEPTED

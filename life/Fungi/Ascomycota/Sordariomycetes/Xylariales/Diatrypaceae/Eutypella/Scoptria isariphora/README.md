@@ -1,5 +1,4 @@
-Scoptria isariphora Nitschke SPECIES
-=======
+# Scoptria isariphora Nitschke SPECIES
 
 #### Status
 ACCEPTED

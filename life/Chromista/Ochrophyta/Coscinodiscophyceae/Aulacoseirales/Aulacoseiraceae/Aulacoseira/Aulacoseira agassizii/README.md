@@ -1,5 +1,4 @@
-Aulacoseira agassizii var. malayensis (Hustedt) Simonsen VARIETY
-=======
+# Aulacoseira agassizii (Ostenf.) Simonsen SPECIES
 
 #### Status
 ACCEPTED

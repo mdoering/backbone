@@ -1,5 +1,4 @@
-Amanitopsis calopus Beeli SPECIES
-=======
+# Amanitopsis calopus Beeli SPECIES
 
 #### Status
 ACCEPTED

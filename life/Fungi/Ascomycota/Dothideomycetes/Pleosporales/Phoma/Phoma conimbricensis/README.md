@@ -1,5 +1,4 @@
-Phoma conimbricensis Traverso & Spessa SPECIES
-=======
+# Phoma conimbricensis Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

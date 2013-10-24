@@ -1,5 +1,4 @@
-Hydnum auriculatum Fr. SPECIES
-=======
+# Hydnum auriculatum Fr. SPECIES
 
 #### Status
 ACCEPTED

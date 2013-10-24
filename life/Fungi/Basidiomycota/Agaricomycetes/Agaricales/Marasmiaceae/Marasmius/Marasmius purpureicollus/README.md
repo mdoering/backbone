@@ -1,5 +1,4 @@
-Marasmius purpureicollus Corner SPECIES
-=======
+# Marasmius purpureicollus Corner SPECIES
 
 #### Status
 ACCEPTED

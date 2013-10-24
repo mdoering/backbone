@@ -1,5 +1,4 @@
-Lecanora pergibbosa H. Magn. SPECIES
-=======
+# Lecanora pergibbosa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

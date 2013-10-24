@@ -1,5 +1,4 @@
-Chaetostylum GENUS
-=======
+# Chaetostylum GENUS
 
 #### Status
 ACCEPTED

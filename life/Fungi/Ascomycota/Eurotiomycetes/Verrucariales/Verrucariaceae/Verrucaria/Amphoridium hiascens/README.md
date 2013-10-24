@@ -1,5 +1,4 @@
-Amphoridium hiascens (Ach.) A. Massal. SPECIES
-=======
+# Amphoridium hiascens (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria arenaria A.L. Guyot SPECIES
-=======
+# Leptosphaeria arenaria A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peckiella minima Sacc. & Bres. SPECIES
-=======
+# Peckiella minima Sacc. & Bres. SPECIES
 
 #### Status
 ACCEPTED

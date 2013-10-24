@@ -1,5 +1,4 @@
-Dioicomyces anthicicola Speg. SPECIES
-=======
+# Dioicomyces anthicicola Speg. SPECIES
 
 #### Status
 ACCEPTED

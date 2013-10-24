@@ -1,5 +1,4 @@
-Balansia brunnans E.A. Lewis & J.F. White SPECIES
-=======
+# Balansia brunnans E.A. Lewis & J.F. White SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma pseudogriseoalbum Z.S. Bi SPECIES
-=======
+# Entoloma pseudogriseoalbum Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

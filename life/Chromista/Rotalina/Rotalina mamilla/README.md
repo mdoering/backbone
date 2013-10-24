@@ -1,5 +1,4 @@
-Rotalina mamilla Williamson, 1858 SPECIES
-=======
+# Rotalina mamilla Williamson, 1858 SPECIES
 
 #### Status
 ACCEPTED

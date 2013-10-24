@@ -1,5 +1,4 @@
-Lichen carbonarius Wulfen SPECIES
-=======
+# Lichen carbonarius Wulfen SPECIES
 
 #### Status
 ACCEPTED

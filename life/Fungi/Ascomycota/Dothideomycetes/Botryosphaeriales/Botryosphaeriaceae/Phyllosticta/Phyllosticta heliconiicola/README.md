@@ -1,5 +1,4 @@
-Phyllosticta heliconiicola Bat. & A.F. Vital SPECIES
-=======
+# Phyllosticta heliconiicola Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

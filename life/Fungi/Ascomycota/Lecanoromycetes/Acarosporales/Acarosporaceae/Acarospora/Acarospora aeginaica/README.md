@@ -1,5 +1,4 @@
-Acarospora aeginaica H. Magn. SPECIES
-=======
+# Acarospora aeginaica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

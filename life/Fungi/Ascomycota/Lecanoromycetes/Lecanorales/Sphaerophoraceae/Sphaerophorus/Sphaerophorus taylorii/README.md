@@ -1,5 +1,4 @@
-Sphaerophorus taylorii C.W. Dodge SPECIES
-=======
+# Sphaerophorus taylorii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

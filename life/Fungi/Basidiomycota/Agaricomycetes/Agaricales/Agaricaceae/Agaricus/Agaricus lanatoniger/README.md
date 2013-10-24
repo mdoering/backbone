@@ -1,5 +1,4 @@
-Agaricus lanatoniger Heinem., 1974 SPECIES
-=======
+# Agaricus lanatoniger Heinem., 1974 SPECIES
 
 #### Status
 ACCEPTED

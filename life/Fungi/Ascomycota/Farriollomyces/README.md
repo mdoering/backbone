@@ -1,5 +1,4 @@
-Farriollomyces GENUS
-=======
+# Farriollomyces GENUS
 
 #### Status
 ACCEPTED

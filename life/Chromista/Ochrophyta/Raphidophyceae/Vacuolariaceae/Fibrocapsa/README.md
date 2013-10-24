@@ -1,5 +1,4 @@
-Fibrocapsa S.Toriumi & H.Takano, 1973 GENUS
-=======
+# Fibrocapsa S.Toriumi & H.Takano, 1973 GENUS
 
 #### Status
 ACCEPTED

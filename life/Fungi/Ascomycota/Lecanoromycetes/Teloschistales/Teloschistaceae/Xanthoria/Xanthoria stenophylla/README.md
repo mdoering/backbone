@@ -1,5 +1,4 @@
-Xanthoria stenophylla (Harm.) B. de Lesd. SPECIES
-=======
+# Xanthoria stenophylla (Harm.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dinophysis pavillardi Schröder, 1906 SPECIES
-=======
+# Dinophysis sacculus Stein SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stein F. R. von 1883. Der Organismus der Infusionstiere. III Abth. Der Organismus der Arthrodelen Flagellaten. Einleitung und Erklarüng der Abbildungen. II Hälfte: 23-26.
 
 #### Original name
 null

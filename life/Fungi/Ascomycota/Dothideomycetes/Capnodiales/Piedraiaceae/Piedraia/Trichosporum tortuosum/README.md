@@ -1,5 +1,4 @@
-Trichosporum tortuosum P. Karst. SPECIES
-=======
+# Trichosporum tortuosum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

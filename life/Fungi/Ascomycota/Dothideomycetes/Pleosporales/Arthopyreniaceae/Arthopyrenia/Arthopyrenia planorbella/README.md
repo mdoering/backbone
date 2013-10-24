@@ -1,5 +1,4 @@
-Arthopyrenia planorbella (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia planorbella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

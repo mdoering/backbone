@@ -1,5 +1,4 @@
-Ramaria concreta Velen. SPECIES
-=======
+# Ramaria concreta Velen. SPECIES
 
 #### Status
 ACCEPTED

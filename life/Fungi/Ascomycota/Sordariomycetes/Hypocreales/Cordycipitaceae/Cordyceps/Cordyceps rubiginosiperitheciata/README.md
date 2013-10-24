@@ -1,17 +1,16 @@
-Cordyceps rubiginosoperitheciata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps rubiginosiperitheciata Kobayasi & Shimizu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. natn. Sci. Mus. , Tokyo, B 9(1): 14 (1983)
 
 #### Original name
-Cordyceps rubiginosoperitheciata Kobayasi & Shimizu
+Cordyceps rubiginosiperitheciata Kobayasi & Shimizu
 
 ### Remarks
 null

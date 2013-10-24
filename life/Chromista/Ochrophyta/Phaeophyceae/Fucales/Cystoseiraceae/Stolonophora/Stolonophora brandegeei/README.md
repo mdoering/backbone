@@ -1,8 +1,7 @@
-Blossevillea brandegeei Setchell & N.L.Gardner, 1913 SPECIES
-=======
+# Stolonophora brandegeei (Setchell & Foslie) Nizamuddin, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

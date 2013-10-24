@@ -1,5 +1,4 @@
-Haliea rubra Urios, Intertaglia, Lesongeur & Lebaron, 2009 SPECIES
-=======
+# Haliea rubra Urios, Intertaglia, Lesongeur & Lebaron, 2009 SPECIES
 
 #### Status
 ACCEPTED

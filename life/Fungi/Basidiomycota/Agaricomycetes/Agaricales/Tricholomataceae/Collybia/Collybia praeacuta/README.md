@@ -1,5 +1,4 @@
-Collybia praeacuta (Ellis) Gilliam SPECIES
-=======
+# Collybia praeacuta (Ellis) Gilliam SPECIES
 
 #### Status
 ACCEPTED

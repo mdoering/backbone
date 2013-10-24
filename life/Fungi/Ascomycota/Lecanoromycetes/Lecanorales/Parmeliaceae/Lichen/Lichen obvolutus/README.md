@@ -1,5 +1,4 @@
-Lichen obvolutus Sw. SPECIES
-=======
+# Lichen obvolutus Sw. SPECIES
 
 #### Status
 ACCEPTED

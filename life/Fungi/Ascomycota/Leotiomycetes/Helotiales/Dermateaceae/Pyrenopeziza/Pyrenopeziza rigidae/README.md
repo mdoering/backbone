@@ -1,5 +1,4 @@
-Pyrenopeziza rigidae (Nannf.) Défago SPECIES
-=======
+# Pyrenopeziza rigidae (Nannf.) Défago SPECIES
 
 #### Status
 ACCEPTED

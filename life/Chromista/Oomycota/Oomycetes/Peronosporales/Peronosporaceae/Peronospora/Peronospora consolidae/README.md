@@ -1,5 +1,4 @@
-Peronospora consolidae Lagerh. ex Gäum. SPECIES
-=======
+# Peronospora consolidae Lagerh. ex Gäum. SPECIES
 
 #### Status
 ACCEPTED

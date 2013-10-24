@@ -1,5 +1,4 @@
-Parastigmatellina maranhensis Bat. & Cavalc. SPECIES
-=======
+# Parastigmatellina maranhensis Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

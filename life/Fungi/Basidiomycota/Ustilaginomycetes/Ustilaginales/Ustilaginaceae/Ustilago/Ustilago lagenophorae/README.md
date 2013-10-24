@@ -1,5 +1,4 @@
-Ustilago lagenophorae McAlpine SPECIES
-=======
+# Ustilago lagenophorae McAlpine SPECIES
 
 #### Status
 ACCEPTED

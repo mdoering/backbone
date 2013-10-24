@@ -1,5 +1,4 @@
-Trochila astragali Rehm, 1896 SPECIES
-=======
+# Trochila astragali Rehm, 1896 SPECIES
 
 #### Status
 ACCEPTED

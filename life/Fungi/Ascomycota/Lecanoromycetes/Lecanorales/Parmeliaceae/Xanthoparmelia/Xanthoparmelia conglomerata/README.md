@@ -1,5 +1,4 @@
-Xanthoparmelia conglomerata Canêz & Marcelli SPECIES
-=======
+# Xanthoparmelia conglomerata Canêz & Marcelli SPECIES
 
 #### Status
 ACCEPTED

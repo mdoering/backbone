@@ -1,5 +1,4 @@
-Cortinarius fulguritans Reumaux SPECIES
-=======
+# Cortinarius fulguritans Reumaux SPECIES
 
 #### Status
 ACCEPTED

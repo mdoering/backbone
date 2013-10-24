@@ -1,14 +1,13 @@
-Hygrocybe luteovirens E. Horak, 1973 SPECIES
-=======
+# Humidicutis luteovirens (E. Horak) E. Horak, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 43: 148 (1973)
+N. Z. Jl Bot. 28(3): 296 (1990)
 
 #### Original name
 Hygrocybe luteovirens E. Horak, 1973

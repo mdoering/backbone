@@ -1,5 +1,4 @@
-Agaricus melanotus Kalchbr. SPECIES
-=======
+# Agaricus melanotus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

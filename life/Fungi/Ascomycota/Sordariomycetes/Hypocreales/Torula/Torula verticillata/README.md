@@ -1,5 +1,4 @@
-Torula verticillata Sacc. SPECIES
-=======
+# Torula verticillata Sacc. SPECIES
 
 #### Status
 ACCEPTED

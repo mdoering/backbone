@@ -1,5 +1,4 @@
-Bellotia simplex Denizot, 1965 SPECIES
-=======
+# Bellotia simplex Denizot, 1965 SPECIES
 
 #### Status
 ACCEPTED

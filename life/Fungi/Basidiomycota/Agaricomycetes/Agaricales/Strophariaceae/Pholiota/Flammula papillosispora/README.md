@@ -1,5 +1,4 @@
-Flammula papillosispora Speg. SPECIES
-=======
+# Flammula papillosispora Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia avenae-pubescentis Bubák SPECIES
-=======
+# Puccinia avenae-pubescentis Bubák SPECIES
 
 #### Status
 ACCEPTED

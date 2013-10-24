@@ -1,5 +1,4 @@
-Sclerophomina tritici Negru & Verona SPECIES
-=======
+# Sclerophomina tritici Negru & Verona SPECIES
 
 #### Status
 ACCEPTED

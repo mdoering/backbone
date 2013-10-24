@@ -1,5 +1,4 @@
-Autoicomyces longipes Thaxt. SPECIES
-=======
+# Autoicomyces longipes Thaxt. SPECIES
 
 #### Status
 ACCEPTED

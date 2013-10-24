@@ -1,5 +1,4 @@
-Corticium stelligerum Speg. SPECIES
-=======
+# Corticium stelligerum Speg. SPECIES
 
 #### Status
 ACCEPTED

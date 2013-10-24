@@ -1,17 +1,16 @@
-Pseudomicrodochium cafferum Matsush. SPECIES
-=======
+# Pseudomicrodochium caffrum Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 22 (1996)
 
 #### Original name
-Pseudomicrodochium cafferum Matsush.
+Pseudomicrodochium caffrum Matsush.
 
 ### Remarks
 null

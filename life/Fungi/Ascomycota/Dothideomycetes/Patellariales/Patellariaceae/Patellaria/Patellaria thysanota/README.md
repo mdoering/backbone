@@ -1,5 +1,4 @@
-Patellaria thysanota (Tuck.) Müll. Arg. SPECIES
-=======
+# Patellaria thysanota (Tuck.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

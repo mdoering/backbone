@@ -1,5 +1,4 @@
-Sorosporium arundinellae Syd. {?} SPECIES
-=======
+# Sorosporium arundinellae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

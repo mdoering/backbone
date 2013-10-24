@@ -1,5 +1,4 @@
-Poria homaema var. homaema VARIETY
-=======
+# Poria homaema Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 6: 323 (1888)
 
 #### Original name
-Poria homaema var. homaema
+Poria homaema Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Orbopercularia scheubeli SPECIES
-=======
+# Orbopercularia scheubeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystomellomyces Bat. GENUS
-=======
+# Polystomellomyces Bat. GENUS
 
 #### Status
 ACCEPTED

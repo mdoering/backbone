@@ -1,5 +1,4 @@
-Synechococcus vulcanus var. bacillarioides Copeland VARIETY
-=======
+# Synechococcus vulcanus Copeland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cymatosira belgica Grunow SPECIES
-=======
+# Cymatosira belgica Grunow SPECIES
 
 #### Status
 ACCEPTED

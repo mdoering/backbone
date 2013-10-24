@@ -1,5 +1,4 @@
-Mycosphaerella angentinensis Frezzi SPECIES
-=======
+# Mycosphaerella angentinensis Frezzi SPECIES
 
 #### Status
 ACCEPTED

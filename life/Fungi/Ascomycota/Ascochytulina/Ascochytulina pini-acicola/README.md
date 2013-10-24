@@ -1,5 +1,4 @@
-Ascochytulina pini-acicola H.C. Evans & Punith., 1985 SPECIES
-=======
+# Ascochytulina pini-acicola H.C. Evans & Punith., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acetofilamentum rigidum Dietrich et al., 1989 SPECIES
-=======
+# Acetofilamentum rigidum Dietrich et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

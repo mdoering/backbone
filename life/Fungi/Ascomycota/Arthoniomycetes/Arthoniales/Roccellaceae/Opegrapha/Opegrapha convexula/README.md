@@ -1,5 +1,4 @@
-Opegrapha convexula Pers. SPECIES
-=======
+# Opegrapha convexula Pers. SPECIES
 
 #### Status
 ACCEPTED

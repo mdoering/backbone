@@ -1,5 +1,4 @@
-Glandulina ozawai Cushman, 1931 SPECIES
-=======
+# Glandulina ozawai Cushman, 1931 SPECIES
 
 #### Status
 ACCEPTED

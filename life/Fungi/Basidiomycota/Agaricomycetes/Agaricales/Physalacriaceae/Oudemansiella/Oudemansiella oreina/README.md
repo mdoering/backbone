@@ -1,5 +1,4 @@
-Oudemansiella oreina Pacioni & Lalli SPECIES
-=======
+# Oudemansiella oreina Pacioni & Lalli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Simocybe coniophora (Romagn.) Watling SPECIES
-=======
+# Simocybe coniophora (Romagn.) Watling SPECIES
 
 #### Status
 ACCEPTED

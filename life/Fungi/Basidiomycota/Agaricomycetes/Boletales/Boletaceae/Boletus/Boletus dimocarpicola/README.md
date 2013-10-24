@@ -1,5 +1,4 @@
-Boletus dimocarpicola M. Zang & Sittigul SPECIES
-=======
+# Boletus dimocarpicola M. Zang & Sittigul SPECIES
 
 #### Status
 ACCEPTED

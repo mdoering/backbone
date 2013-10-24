@@ -1,5 +1,4 @@
-Stagonospora cryptogea Syd. SPECIES
-=======
+# Stagonospora cryptogea Syd. SPECIES
 
 #### Status
 ACCEPTED

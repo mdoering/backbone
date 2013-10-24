@@ -1,5 +1,4 @@
-Rhizomorpha criniformis Pers. SPECIES
-=======
+# Rhizomorpha criniformis Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sodalis glossinidius Dale & Maudlin, 1999 SPECIES
-=======
+# Sodalis glossinidius Dale & Maudlin, 1999 SPECIES
 
 #### Status
 ACCEPTED

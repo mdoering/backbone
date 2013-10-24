@@ -1,5 +1,4 @@
-Scytonema myochroum SPECIES
-=======
+# Scytonema myochroum SPECIES
 
 #### Status
 ACCEPTED

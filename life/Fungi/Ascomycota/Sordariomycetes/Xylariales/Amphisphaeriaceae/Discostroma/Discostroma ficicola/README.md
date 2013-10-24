@@ -1,5 +1,4 @@
-Discostroma ficicola B.C. Paulus, Gadek & K.D. Hyde SPECIES
-=======
+# Discostroma ficicola B.C. Paulus, Gadek & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

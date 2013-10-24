@@ -1,5 +1,4 @@
-Lecania badiella Samp. SPECIES
-=======
+# Lecania badiella Samp. SPECIES
 
 #### Status
 ACCEPTED

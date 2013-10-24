@@ -1,5 +1,4 @@
-Calicium ochroleucum Körb. SPECIES
-=======
+# Calicium ochroleucum Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endopyrenium terrigenum (Tomin) Dzhur. SPECIES
-=======
+# Endopyrenium terrigenum (Tomin) Dzhur. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialostele Deighton GENUS
-=======
+# Phialostele Deighton GENUS
 
 #### Status
 ACCEPTED

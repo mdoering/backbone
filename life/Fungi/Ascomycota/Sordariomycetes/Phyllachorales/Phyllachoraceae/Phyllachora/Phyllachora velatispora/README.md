@@ -1,5 +1,4 @@
-Phyllachora velatispora var. velatispora VARIETY
-=======
+# Phyllachora velatispora SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 98(12): 1403 (1994)
+null
 
 #### Original name
-Phyllachora velatispora var. velatispora
+null
 
 ### Remarks
 null

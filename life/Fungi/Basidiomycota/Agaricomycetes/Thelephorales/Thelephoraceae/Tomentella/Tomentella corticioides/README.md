@@ -1,5 +1,4 @@
-Tomentella corticioides Wakef. SPECIES
-=======
+# Tomentella corticioides Wakef. SPECIES
 
 #### Status
 ACCEPTED

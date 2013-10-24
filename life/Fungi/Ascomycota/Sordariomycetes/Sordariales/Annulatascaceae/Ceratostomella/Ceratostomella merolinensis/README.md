@@ -1,5 +1,4 @@
-Ceratostomella merolinensis Georgev. SPECIES
-=======
+# Ceratostomella merolinensis Georgev. SPECIES
 
 #### Status
 ACCEPTED

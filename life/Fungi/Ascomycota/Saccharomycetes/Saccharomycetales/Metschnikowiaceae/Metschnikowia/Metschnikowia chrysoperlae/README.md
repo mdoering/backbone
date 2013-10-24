@@ -1,5 +1,4 @@
-Metschnikowia chrysoperlae S.O. Suh, C.M. Gibson & M. Blackw., 2004 SPECIES
-=======
+# Metschnikowia chrysoperlae S.O. Suh, C.M. Gibson & M. Blackw., 2004 SPECIES
 
 #### Status
 ACCEPTED

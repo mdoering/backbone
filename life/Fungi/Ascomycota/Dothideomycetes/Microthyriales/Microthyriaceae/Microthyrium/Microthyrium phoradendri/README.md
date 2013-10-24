@@ -1,5 +1,4 @@
-Microthyrium phoradendri Orejuela SPECIES
-=======
+# Microthyrium phoradendri Orejuela SPECIES
 
 #### Status
 ACCEPTED

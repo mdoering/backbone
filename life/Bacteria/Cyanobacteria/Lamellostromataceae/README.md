@@ -1,5 +1,4 @@
-Lamellostromataceae FAMILY
-=======
+# Lamellostromataceae FAMILY
 
 #### Status
 ACCEPTED

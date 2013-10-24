@@ -1,5 +1,4 @@
-Rhizopogon obtextus (Spreng.) R. Rauschert SPECIES
-=======
+# Rhizopogon obtextus (Spreng.) R. Rauschert SPECIES
 
 #### Status
 ACCEPTED

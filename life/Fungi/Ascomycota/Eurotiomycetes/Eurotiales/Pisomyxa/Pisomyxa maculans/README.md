@@ -1,5 +1,4 @@
-Pisomyxa maculans Kunze SPECIES
-=======
+# Pisomyxa maculans Kunze SPECIES
 
 #### Status
 ACCEPTED

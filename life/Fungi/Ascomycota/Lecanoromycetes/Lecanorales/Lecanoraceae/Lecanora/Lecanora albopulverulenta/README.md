@@ -1,5 +1,4 @@
-Lecanora albopulverulenta var. albopulverulenta (Schaer.) Servít VARIETY
-=======
+# Lecanora albopulverulenta (Schaer.) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora albopulverulenta var. albopulverulenta (Schaer.) Servít
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cylindrosporium arundinaceum Moesz & Smarods SPECIES
-=======
+# Cylindrosporium arundinaceum Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

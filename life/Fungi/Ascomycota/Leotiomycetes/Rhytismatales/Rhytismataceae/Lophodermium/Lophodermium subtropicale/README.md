@@ -1,14 +1,13 @@
-Lophodermellina subtropicalis (Speg.) Tehon, 1935 SPECIES
-=======
+# Lophodermium subtropicale Speg., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 13(4): 82 (1935)
+Anal. Mus. nac. Hist. nat. B. Aires 23: 88 (1912)
 
 #### Original name
 Lophodermium subtropicale Speg., 1912

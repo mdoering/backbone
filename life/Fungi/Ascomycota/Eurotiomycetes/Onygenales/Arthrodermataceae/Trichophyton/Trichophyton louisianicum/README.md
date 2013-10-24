@@ -1,5 +1,4 @@
-Trichophyton louisianicum Castell. SPECIES
-=======
+# Trichophyton louisianicum Castell. SPECIES
 
 #### Status
 ACCEPTED

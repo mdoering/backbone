@@ -1,5 +1,4 @@
-Armillaria jezoënsis J.Y. Cha & Igarashi SPECIES
-=======
+# Armillaria jezoënsis J.Y. Cha & Igarashi SPECIES
 
 #### Status
 ACCEPTED

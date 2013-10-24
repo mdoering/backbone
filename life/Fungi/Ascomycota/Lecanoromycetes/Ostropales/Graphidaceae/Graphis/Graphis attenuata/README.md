@@ -1,5 +1,4 @@
-Graphis attenuata Kremp. SPECIES
-=======
+# Graphis attenuata Kremp. SPECIES
 
 #### Status
 ACCEPTED

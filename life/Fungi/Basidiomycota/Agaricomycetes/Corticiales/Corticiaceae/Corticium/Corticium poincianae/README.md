@@ -1,5 +1,4 @@
-Corticium poincianae Pat. SPECIES
-=======
+# Corticium poincianae Pat. SPECIES
 
 #### Status
 ACCEPTED

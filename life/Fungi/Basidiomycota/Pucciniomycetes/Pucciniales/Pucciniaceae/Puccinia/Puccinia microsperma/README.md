@@ -1,5 +1,4 @@
-Puccinia microsperma Berk. & M.A. Curtis SPECIES
-=======
+# Puccinia microsperma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

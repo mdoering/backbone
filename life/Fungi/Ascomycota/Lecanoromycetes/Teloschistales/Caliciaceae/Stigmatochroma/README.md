@@ -1,5 +1,4 @@
-Stigmatochroma Marbach GENUS
-=======
+# Stigmatochroma Marbach GENUS
 
 #### Status
 ACCEPTED

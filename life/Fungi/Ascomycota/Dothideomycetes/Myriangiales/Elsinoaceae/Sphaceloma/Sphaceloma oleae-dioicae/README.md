@@ -1,5 +1,4 @@
-Sphaceloma oleae-dioicae Wani & Thirum. SPECIES
-=======
+# Sphaceloma oleae-dioicae Wani & Thirum. SPECIES
 
 #### Status
 ACCEPTED

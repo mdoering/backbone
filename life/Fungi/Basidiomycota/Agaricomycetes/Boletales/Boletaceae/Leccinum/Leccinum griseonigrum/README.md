@@ -1,5 +1,4 @@
-Leccinum griseonigrum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum griseonigrum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor communis Bainier SPECIES
-=======
+# Mucor communis Bainier SPECIES
 
 #### Status
 ACCEPTED

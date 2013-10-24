@@ -1,5 +1,4 @@
-Diploschistes maunakeae H. Magn. SPECIES
-=======
+# Diploschistes maunakeae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

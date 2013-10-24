@@ -1,5 +1,4 @@
-Gonatophragmium justiciae M.S. Tripathi & V. Tripathi SPECIES
-=======
+# Gonatophragmium justiciae M.S. Tripathi & V. Tripathi SPECIES
 
 #### Status
 ACCEPTED

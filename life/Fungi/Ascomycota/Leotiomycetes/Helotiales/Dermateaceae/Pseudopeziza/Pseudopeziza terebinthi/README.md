@@ -1,5 +1,4 @@
-Pseudopeziza terebinthi Grelet & Croz. SPECIES
-=======
+# Pseudopeziza terebinthi Grelet & Croz. SPECIES
 
 #### Status
 ACCEPTED

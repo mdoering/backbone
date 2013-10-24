@@ -1,5 +1,4 @@
-Hohenbuehelia karrara Grgur. SPECIES
-=======
+# Hohenbuehelia karrara Grgur. SPECIES
 
 #### Status
 ACCEPTED

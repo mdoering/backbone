@@ -1,5 +1,4 @@
-Calicium nigronitidum Tibell SPECIES
-=======
+# Calicium nigronitidum Tibell SPECIES
 
 #### Status
 ACCEPTED

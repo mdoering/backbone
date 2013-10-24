@@ -1,5 +1,4 @@
-Diplodina junci Oudem. SPECIES
-=======
+# Diplodina junci Oudem. SPECIES
 
 #### Status
 ACCEPTED

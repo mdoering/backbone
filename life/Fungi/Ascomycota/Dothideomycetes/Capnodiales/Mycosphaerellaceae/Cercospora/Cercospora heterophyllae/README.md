@@ -1,5 +1,4 @@
-Cercospora heterophyllae Kamal SPECIES
-=======
+# Cercospora heterophyllae Kamal SPECIES
 
 #### Status
 ACCEPTED

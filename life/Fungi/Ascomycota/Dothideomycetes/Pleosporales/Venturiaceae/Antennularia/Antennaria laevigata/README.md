@@ -1,5 +1,4 @@
-Antennaria laevigata Corda, 1837 SPECIES
-=======
+# Antennaria laevigata Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED

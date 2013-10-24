@@ -1,5 +1,4 @@
-Sepedonium brunneum Peck SPECIES
-=======
+# Sepedonium brunneum Peck SPECIES
 
 #### Status
 ACCEPTED

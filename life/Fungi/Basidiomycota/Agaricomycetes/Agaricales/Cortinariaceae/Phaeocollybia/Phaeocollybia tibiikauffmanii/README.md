@@ -1,5 +1,4 @@
-Phaeocollybia tibiikauffmanii Norvell SPECIES
-=======
+# Phaeocollybia tibiikauffmanii Norvell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia lobeliae W.R. Gerard SPECIES
-=======
+# Puccinia lobeliae W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

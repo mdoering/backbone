@@ -1,5 +1,4 @@
-Lagenophrys ovalis Swarczewsky, 1930 SPECIES
-=======
+# Lagenophrys ovalis Swarczewsky, 1930 SPECIES
 
 #### Status
 ACCEPTED

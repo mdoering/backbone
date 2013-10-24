@@ -1,5 +1,4 @@
-Trichopeziza mitralis (Quél.) Sacc. & Traverso SPECIES
-=======
+# Trichopeziza mitralis (Quél.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

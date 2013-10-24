@@ -1,5 +1,4 @@
-Pestalotiopsis nelumbinis Y.X. Chen & G. Wei SPECIES
-=======
+# Pestalotiopsis nelumbinis Y.X. Chen & G. Wei SPECIES
 
 #### Status
 ACCEPTED

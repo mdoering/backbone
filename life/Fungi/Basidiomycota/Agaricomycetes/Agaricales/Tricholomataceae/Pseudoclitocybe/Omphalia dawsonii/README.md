@@ -1,5 +1,4 @@
-Omphalia dawsonii (Murrill) Murrill SPECIES
-=======
+# Omphalia dawsonii (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

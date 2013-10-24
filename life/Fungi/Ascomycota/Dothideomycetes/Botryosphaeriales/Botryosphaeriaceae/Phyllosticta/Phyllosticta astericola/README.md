@@ -1,5 +1,4 @@
-Phyllosticta astericola Ellis & Everh. SPECIES
-=======
+# Phyllosticta astericola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

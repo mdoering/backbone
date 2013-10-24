@@ -1,5 +1,4 @@
-Pseudevernia ceratea (Ach.) Zopf SPECIES
-=======
+# Pseudevernia ceratea (Ach.) Zopf SPECIES
 
 #### Status
 ACCEPTED

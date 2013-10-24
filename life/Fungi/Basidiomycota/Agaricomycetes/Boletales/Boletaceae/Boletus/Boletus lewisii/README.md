@@ -1,5 +1,4 @@
-Boletus lewisii (Singer ex Both) Bessette, Roody & A.R. Bessette SPECIES
-=======
+# Boletus lewisii (Singer ex Both) Bessette, Roody & A.R. Bessette SPECIES
 
 #### Status
 ACCEPTED

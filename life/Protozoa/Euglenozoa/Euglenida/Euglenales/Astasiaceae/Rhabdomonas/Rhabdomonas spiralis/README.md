@@ -1,5 +1,4 @@
-Rhabdomonas spiralis E. G. Pringsheim SPECIES
-=======
+# Rhabdomonas spiralis E. G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

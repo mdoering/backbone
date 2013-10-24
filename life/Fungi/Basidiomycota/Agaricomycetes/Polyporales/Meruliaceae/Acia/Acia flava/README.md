@@ -1,5 +1,4 @@
-Acia flava Cejp SPECIES
-=======
+# Acia flava Cejp SPECIES
 
 #### Status
 ACCEPTED

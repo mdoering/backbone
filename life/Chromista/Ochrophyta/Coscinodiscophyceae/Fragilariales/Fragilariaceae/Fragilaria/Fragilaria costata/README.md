@@ -1,5 +1,4 @@
-Fragilaria costata (Rehakova) Lange-Bertalot SPECIES
-=======
+# Fragilaria costata (Rehakova) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

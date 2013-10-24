@@ -1,5 +1,4 @@
-Pyrenula subsoluta (Müll. Arg.) Aptroot SPECIES
-=======
+# Pyrenula subsoluta (Müll. Arg.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

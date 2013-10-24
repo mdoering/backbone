@@ -1,5 +1,4 @@
-Gymnopus sublatericius Murrill SPECIES
-=======
+# Gymnopus sublatericius Murrill SPECIES
 
 #### Status
 ACCEPTED

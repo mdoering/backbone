@@ -1,5 +1,4 @@
-Verrucaria richardii Servít SPECIES
-=======
+# Verrucaria richardii Servít SPECIES
 
 #### Status
 ACCEPTED

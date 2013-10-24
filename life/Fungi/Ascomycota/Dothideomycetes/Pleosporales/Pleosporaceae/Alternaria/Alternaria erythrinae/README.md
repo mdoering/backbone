@@ -1,5 +1,4 @@
-Alternaria erythrinae Agostinia {?} SPECIES
-=======
+# Alternaria erythrinae Agostinia {?} SPECIES
 
 #### Status
 ACCEPTED

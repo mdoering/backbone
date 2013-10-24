@@ -1,5 +1,4 @@
-Hypocrea koningii Lieckf., Samuels & W. Gams, 1999 SPECIES
-=======
+# Hypocrea koningii Lieckf., Samuels & W. Gams, 1999 SPECIES
 
 #### Status
 ACCEPTED

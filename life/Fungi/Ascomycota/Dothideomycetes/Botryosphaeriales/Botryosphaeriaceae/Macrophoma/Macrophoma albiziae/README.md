@@ -1,17 +1,16 @@
-Macrophoma albizziae S. Ahmad SPECIES
-=======
+# Macrophoma albiziae S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 17(1): 18 (1971)
 
 #### Original name
-Macrophoma albizziae S. Ahmad
+Macrophoma albiziae S. Ahmad
 
 ### Remarks
 null

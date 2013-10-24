@@ -1,5 +1,4 @@
-Gyrophila glioderma Quél. SPECIES
-=======
+# Gyrophila glioderma Quél. SPECIES
 
 #### Status
 ACCEPTED

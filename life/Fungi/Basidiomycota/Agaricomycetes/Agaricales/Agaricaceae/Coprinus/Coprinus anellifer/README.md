@@ -1,5 +1,4 @@
-Coprinus anellifer Quél. SPECIES
-=======
+# Coprinus anellifer Quél. SPECIES
 
 #### Status
 ACCEPTED

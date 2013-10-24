@@ -1,5 +1,4 @@
-Synedra danica Kützing SPECIES
-=======
+# Synedra danica Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pylaiella petaloniae Noda SPECIES
-=======
+# Pylaiella petaloniae Noda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia bacillaris f. bacillaris FORM
-=======
+# Cladonia bacillaris (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Not. Sällsk. Fauna et Fl. Fenn. Förh. 8: 179 (1866)
 
 #### Original name
-Cladonia bacillaris f. bacillaris
+Cladonia macilenta subsp. bacillaris Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Petalomonas minuta Hollande SPECIES
-=======
+# Petalomonas minuta Hollande SPECIES
 
 #### Status
 ACCEPTED

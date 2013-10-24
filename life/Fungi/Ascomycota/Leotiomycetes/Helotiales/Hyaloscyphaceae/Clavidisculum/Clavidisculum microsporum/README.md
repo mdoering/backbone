@@ -1,14 +1,13 @@
-Cistella microspora (Graddon) M.P. Sharma, 1983 SPECIES
-=======
+# Clavidisculum microsporum Graddon, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 36(2-4): 710 (1983)
+Trans. Br. mycol. Soc. 69(2): 261 (1977)
 
 #### Original name
 Clavidisculum microsporum Graddon, 1977

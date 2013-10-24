@@ -1,5 +1,4 @@
-Cortinarius coartatus E. Horak SPECIES
-=======
+# Cortinarius coartatus E. Horak SPECIES
 
 #### Status
 ACCEPTED

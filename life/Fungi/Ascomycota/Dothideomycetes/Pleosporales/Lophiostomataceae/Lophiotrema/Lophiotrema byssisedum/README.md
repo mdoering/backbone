@@ -1,5 +1,4 @@
-Lophiotrema byssisedum (P. Crouan & H. Crouan) Chenant. SPECIES
-=======
+# Lophiotrema byssisedum (P. Crouan & H. Crouan) Chenant. SPECIES
 
 #### Status
 ACCEPTED

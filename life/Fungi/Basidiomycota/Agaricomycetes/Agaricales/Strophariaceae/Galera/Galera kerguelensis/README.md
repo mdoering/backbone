@@ -1,5 +1,4 @@
-Galera kerguelensis (Berk.) Sacc. SPECIES
-=======
+# Galera kerguelensis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

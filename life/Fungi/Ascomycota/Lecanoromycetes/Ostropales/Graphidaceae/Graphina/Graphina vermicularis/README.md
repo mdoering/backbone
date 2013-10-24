@@ -1,5 +1,4 @@
-Graphina vermicularis (Vain.) Zahlbr. SPECIES
-=======
+# Graphina vermicularis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

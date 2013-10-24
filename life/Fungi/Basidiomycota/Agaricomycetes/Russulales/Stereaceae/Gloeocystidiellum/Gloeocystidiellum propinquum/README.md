@@ -1,5 +1,4 @@
-Gloeocystidiellum propinquum (H.S. Jacks. & Dearden) Parmasto SPECIES
-=======
+# Gloeocystidiellum propinquum (H.S. Jacks. & Dearden) Parmasto SPECIES
 
 #### Status
 ACCEPTED

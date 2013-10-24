@@ -1,5 +1,4 @@
-Epidermophyton cerebriforme C.W. Dodge SPECIES
-=======
+# Epidermophyton cerebriforme C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

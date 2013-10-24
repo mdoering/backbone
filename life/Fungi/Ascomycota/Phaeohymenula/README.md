@@ -1,5 +1,4 @@
-Phaeohymenula Petr. GENUS
-=======
+# Phaeohymenula Petr. GENUS
 
 #### Status
 ACCEPTED

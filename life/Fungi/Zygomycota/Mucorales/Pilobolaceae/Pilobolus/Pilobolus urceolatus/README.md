@@ -1,5 +1,4 @@
-Pilobolus urceolatus Pulton {?} SPECIES
-=======
+# Pilobolus urceolatus Pulton {?} SPECIES
 
 #### Status
 ACCEPTED

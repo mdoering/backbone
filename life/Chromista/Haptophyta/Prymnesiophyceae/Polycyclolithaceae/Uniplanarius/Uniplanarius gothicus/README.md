@@ -1,5 +1,4 @@
-Uniplanarius gothicus (Deflandre) J.G. Hattner & S.W. Wise SPECIES
-=======
+# Uniplanarius gothicus (Deflandre) J.G. Hattner & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

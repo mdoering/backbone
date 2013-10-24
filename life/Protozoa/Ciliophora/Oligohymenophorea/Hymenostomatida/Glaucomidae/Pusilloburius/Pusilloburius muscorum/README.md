@@ -1,8 +1,7 @@
-Pseudoglaucoma muscorum Kahl SPECIES
-=======
+# Pusilloburius muscorum SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

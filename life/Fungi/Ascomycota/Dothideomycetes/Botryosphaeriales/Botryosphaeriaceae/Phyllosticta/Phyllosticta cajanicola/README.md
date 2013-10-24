@@ -1,5 +1,4 @@
-Phyllosticta cajanicola Trotter SPECIES
-=======
+# Phyllosticta cajanicola Trotter SPECIES
 
 #### Status
 ACCEPTED

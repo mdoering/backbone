@@ -1,5 +1,4 @@
-Phomopsis ficina Sacc. SPECIES
-=======
+# Phomopsis ficina Sacc. SPECIES
 
 #### Status
 ACCEPTED

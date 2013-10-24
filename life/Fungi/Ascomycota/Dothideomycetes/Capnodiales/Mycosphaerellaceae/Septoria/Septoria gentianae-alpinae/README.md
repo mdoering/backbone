@@ -1,5 +1,4 @@
-Septoria gentianae-alpinae Durrieu SPECIES
-=======
+# Septoria gentianae-alpinae Durrieu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora italica H. Magn. SPECIES
-=======
+# Lecanora italica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

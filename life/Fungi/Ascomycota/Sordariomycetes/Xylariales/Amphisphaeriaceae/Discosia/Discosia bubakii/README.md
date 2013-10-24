@@ -1,5 +1,4 @@
-Discosia bubakii Kabát SPECIES
-=======
+# Discosia bubakii Kabát SPECIES
 
 #### Status
 ACCEPTED

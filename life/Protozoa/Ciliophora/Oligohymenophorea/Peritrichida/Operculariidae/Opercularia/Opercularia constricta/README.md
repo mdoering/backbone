@@ -1,5 +1,4 @@
-Opercularia constricta Kellicott, 1885 SPECIES
-=======
+# Opercularia constricta Kellicott, 1885 SPECIES
 
 #### Status
 ACCEPTED

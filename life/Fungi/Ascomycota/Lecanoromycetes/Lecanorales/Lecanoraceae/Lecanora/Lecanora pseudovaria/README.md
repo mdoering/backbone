@@ -1,5 +1,4 @@
-Lecanora pseudovaria Degel. SPECIES
-=======
+# Lecanora pseudovaria Degel. SPECIES
 
 #### Status
 ACCEPTED

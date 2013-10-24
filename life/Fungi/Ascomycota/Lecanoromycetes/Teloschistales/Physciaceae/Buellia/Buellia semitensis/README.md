@@ -1,5 +1,4 @@
-Buellia semitensis Tuck. SPECIES
-=======
+# Buellia semitensis Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcostroma mahinapuense Gadgil & M.A. Dick, 1999 SPECIES
-=======
+# Sarcostroma mahinapuense Gadgil & M.A. Dick, 1999 SPECIES
 
 #### Status
 ACCEPTED

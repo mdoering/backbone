@@ -1,5 +1,4 @@
-Hexagonia zambeziana Torrend SPECIES
-=======
+# Hexagonia zambeziana Torrend SPECIES
 
 #### Status
 ACCEPTED

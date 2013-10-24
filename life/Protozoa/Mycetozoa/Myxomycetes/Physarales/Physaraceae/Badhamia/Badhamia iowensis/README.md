@@ -1,5 +1,4 @@
-Badhamia iowensis T. Macbr., 1922 SPECIES
-=======
+# Badhamia iowensis T. Macbr., 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Distephanus variabilis SPECIES
-=======
+# Distephanus variabilis SPECIES
 
 #### Status
 ACCEPTED

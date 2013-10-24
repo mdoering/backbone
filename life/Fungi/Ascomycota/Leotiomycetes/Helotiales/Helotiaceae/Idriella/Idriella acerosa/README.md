@@ -1,5 +1,4 @@
-Idriella acerosa R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Idriella acerosa R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

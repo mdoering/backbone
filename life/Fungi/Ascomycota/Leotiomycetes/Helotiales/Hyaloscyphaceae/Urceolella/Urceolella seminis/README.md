@@ -1,5 +1,4 @@
-Urceolella seminis (Cooke & W. Phillips) Dennis SPECIES
-=======
+# Urceolella seminis (Cooke & W. Phillips) Dennis SPECIES
 
 #### Status
 ACCEPTED

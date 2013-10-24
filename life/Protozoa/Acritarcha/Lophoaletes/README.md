@@ -1,5 +1,4 @@
-Lophoaletes GENUS
-=======
+# Lophoaletes GENUS
 
 #### Status
 ACCEPTED

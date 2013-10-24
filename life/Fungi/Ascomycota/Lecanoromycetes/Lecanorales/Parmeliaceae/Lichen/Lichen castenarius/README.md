@@ -1,5 +1,4 @@
-Lichen castenarius Lam. SPECIES
-=======
+# Lichen castenarius Lam. SPECIES
 
 #### Status
 ACCEPTED

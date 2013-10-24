@@ -1,5 +1,4 @@
-Graphis endoxantha Nyl. SPECIES
-=======
+# Graphis endoxantha Nyl. SPECIES
 
 #### Status
 ACCEPTED

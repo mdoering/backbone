@@ -1,5 +1,4 @@
-Asteroma graphoides Roberge ex Desm. SPECIES
-=======
+# Asteroma graphoides Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

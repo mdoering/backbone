@@ -1,5 +1,4 @@
-Sphaerella ilicicola Maubl. SPECIES
-=======
+# Sphaerella ilicicola Maubl. SPECIES
 
 #### Status
 ACCEPTED

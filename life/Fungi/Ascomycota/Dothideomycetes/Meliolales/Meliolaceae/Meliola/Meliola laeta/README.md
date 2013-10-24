@@ -1,5 +1,4 @@
-Meliola laeta Theiss. SPECIES
-=======
+# Meliola laeta Theiss. SPECIES
 
 #### Status
 ACCEPTED

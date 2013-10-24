@@ -1,5 +1,4 @@
-Pleuroflammula Singer GENUS
-=======
+# Pleuroflammula Singer GENUS
 
 #### Status
 ACCEPTED

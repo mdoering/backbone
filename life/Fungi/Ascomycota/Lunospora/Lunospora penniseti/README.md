@@ -1,5 +1,4 @@
-Lunospora penniseti (Trotter) Frandsen SPECIES
-=======
+# Lunospora penniseti (Trotter) Frandsen SPECIES
 
 #### Status
 ACCEPTED

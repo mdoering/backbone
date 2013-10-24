@@ -1,5 +1,4 @@
-Calosphaeria gregaria Nitschke SPECIES
-=======
+# Calosphaeria gregaria Nitschke SPECIES
 
 #### Status
 ACCEPTED

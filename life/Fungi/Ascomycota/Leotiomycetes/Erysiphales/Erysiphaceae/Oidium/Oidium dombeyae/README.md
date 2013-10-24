@@ -1,5 +1,4 @@
-Oidium dombeyae G.J.M. Gorter & Eicker SPECIES
-=======
+# Oidium dombeyae G.J.M. Gorter & Eicker SPECIES
 
 #### Status
 ACCEPTED

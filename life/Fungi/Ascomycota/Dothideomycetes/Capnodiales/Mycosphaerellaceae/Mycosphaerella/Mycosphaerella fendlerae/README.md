@@ -1,5 +1,4 @@
-Mycosphaerella fendlerae Clem., 1906 SPECIES
-=======
+# Mycosphaerella fendlerae Clem., 1906 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rozites occultus Bougher, Fuhrer & E. Horak SPECIES
-=======
+# Rozites occultus Bougher, Fuhrer & E. Horak SPECIES
 
 #### Status
 ACCEPTED

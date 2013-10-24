@@ -1,5 +1,4 @@
-Corethromyces dachnochili Thaxt. SPECIES
-=======
+# Corethromyces dachnochili Thaxt. SPECIES
 
 #### Status
 ACCEPTED

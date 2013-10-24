@@ -1,5 +1,4 @@
-Heteromastix lens (O.F. Müller) Woodcock SPECIES
-=======
+# Heteromastix lens (O.F. Müller) Woodcock SPECIES
 
 #### Status
 DOUBTFUL

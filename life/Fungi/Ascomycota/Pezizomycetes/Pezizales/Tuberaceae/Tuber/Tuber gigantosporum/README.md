@@ -1,5 +1,4 @@
-Tuber gigantosporum Y. Wang & Z.P. Li SPECIES
-=======
+# Tuber gigantosporum Y. Wang & Z.P. Li SPECIES
 
 #### Status
 ACCEPTED

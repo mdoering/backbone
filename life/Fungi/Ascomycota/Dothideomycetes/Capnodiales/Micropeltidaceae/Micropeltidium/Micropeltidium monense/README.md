@@ -1,5 +1,4 @@
-Micropeltidium monense Speg. SPECIES
-=======
+# Micropeltidium monense Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gilmania xyphopaga (Viégas) Bat. SPECIES
-=======
+# Gilmania xyphopaga (Viégas) Bat. SPECIES
 
 #### Status
 ACCEPTED

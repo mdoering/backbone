@@ -1,5 +1,4 @@
-Lecidea variabilis Hue SPECIES
-=======
+# Lecidea variabilis Hue SPECIES
 
 #### Status
 ACCEPTED

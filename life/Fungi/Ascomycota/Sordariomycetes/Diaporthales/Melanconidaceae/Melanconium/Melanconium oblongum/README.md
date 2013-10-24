@@ -1,5 +1,4 @@
-Melanconium oblongum Berk. SPECIES
-=======
+# Melanconium oblongum Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gliocladium sampajense Subram. & Bhat SPECIES
-=======
+# Gliocladium sampajense Subram. & Bhat SPECIES
 
 #### Status
 ACCEPTED

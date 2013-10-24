@@ -1,5 +1,4 @@
-Blepharisma velatum Vacelet, 1961 SPECIES
-=======
+# Blepharisma velatum Vacelet, 1961 SPECIES
 
 #### Status
 ACCEPTED

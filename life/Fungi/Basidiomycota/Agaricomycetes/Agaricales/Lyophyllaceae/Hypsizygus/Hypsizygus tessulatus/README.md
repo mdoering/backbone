@@ -1,17 +1,16 @@
-Agaricus tessulatus var. tessulatus VARIETY
-=======
+# Hypsizygus tessulatus (Bull.) Singer, 1945 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 37(1): 77 (1945)
 
 #### Original name
-null
+Agaricus tessulatus Bull., 1791
 
 ### Remarks
 null

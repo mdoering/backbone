@@ -1,5 +1,4 @@
-Cribraria angulospora C.H. Liu & J.H. Chang, 2007 SPECIES
-=======
+# Cribraria angulospora C.H. Liu & J.H. Chang, 2007 SPECIES
 
 #### Status
 ACCEPTED

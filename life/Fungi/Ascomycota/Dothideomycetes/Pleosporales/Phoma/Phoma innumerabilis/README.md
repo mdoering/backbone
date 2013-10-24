@@ -1,5 +1,4 @@
-Phoma innumerabilis Thüm. SPECIES
-=======
+# Phoma innumerabilis Thüm. SPECIES
 
 #### Status
 ACCEPTED

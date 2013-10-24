@@ -1,5 +1,4 @@
-Inocybe excoriata Peck SPECIES
-=======
+# Inocybe excoriata Peck SPECIES
 
 #### Status
 ACCEPTED

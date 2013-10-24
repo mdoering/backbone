@@ -1,5 +1,4 @@
-Globonectria cochensis Etayo, 2002 SPECIES
-=======
+# Globonectria cochensis Etayo, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hilidicellites Kalgutkar & Janson. GENUS
-=======
+# Hilidicellites Kalgutkar & Janson. GENUS
 
 #### Status
 ACCEPTED

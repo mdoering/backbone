@@ -1,5 +1,4 @@
-Arthopyrenia cupreoferruginea Hav. SPECIES
-=======
+# Arthopyrenia cupreoferruginea Hav. SPECIES
 
 #### Status
 ACCEPTED

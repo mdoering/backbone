@@ -1,17 +1,16 @@
-Williopsis bulgaricus M.K. Garab. & Genova SPECIES
-=======
+# Williopsis bulgarica M.K. Garab. & Genova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Antonie van Leeuwenhoek 35(Suppl. ): A29 (1970)
 
 #### Original name
-Williopsis bulgaricus M.K. Garab. & Genova
+Williopsis bulgarica M.K. Garab. & Genova
 
 ### Remarks
 null

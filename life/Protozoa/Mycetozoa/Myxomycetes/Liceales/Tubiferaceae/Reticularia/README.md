@@ -1,17 +1,16 @@
-Liceopsis Torrend GENUS
-=======
+# Reticularia Bulliard, 1791 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. Portug. Sci. Nat. 2: 63 (1908)
+Hist. Champignons, 83.
 
 #### Original name
-Liceopsis Torrend
+Reticularia Bulliard, 1791
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Nummularia tinctor (Berk.) Ellis & Everh., 1892 SPECIES
-=======
+# Hypoxylon tinctor (Berk.) Cooke, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Pyren. (Newfield) 627 (1892)
+Grevillea 11(no. 60): 133 (1883)
 
 #### Original name
 Sphaeria tinctor Berk., 1845

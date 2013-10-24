@@ -1,17 +1,16 @@
-Sporothrix tuberum A. Fontana & Fas.-Bonf. SPECIES
-=======
+# Sporothrix tuberi A. Fontana & Fas.-Bonf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Allionia 17: 12 (1971)
 
 #### Original name
-Sporothrix tuberum A. Fontana & Fas.-Bonf.
+Sporothrix tuberi A. Fontana & Fas.-Bonf.
 
 ### Remarks
 null

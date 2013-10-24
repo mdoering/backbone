@@ -1,5 +1,4 @@
-Hericium cardium Pers. SPECIES
-=======
+# Hericium cardium Pers. SPECIES
 
 #### Status
 ACCEPTED

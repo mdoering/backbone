@@ -1,5 +1,4 @@
-Lycoperdon conspurcatum Berk. & Broome SPECIES
-=======
+# Lycoperdon conspurcatum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

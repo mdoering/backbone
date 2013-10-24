@@ -1,5 +1,4 @@
-Thaxterogaster glutinopallens E. Horak SPECIES
-=======
+# Thaxterogaster glutinopallens E. Horak SPECIES
 
 #### Status
 ACCEPTED

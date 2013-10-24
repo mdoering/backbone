@@ -1,5 +1,4 @@
-Mycena iocephala Berk. & M.A. Curtis SPECIES
-=======
+# Mycena iocephala Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

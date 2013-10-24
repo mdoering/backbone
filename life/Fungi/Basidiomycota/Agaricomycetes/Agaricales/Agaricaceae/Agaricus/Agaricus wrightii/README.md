@@ -1,5 +1,4 @@
-Agaricus wrightii E. Valenz., Heinem. & Esteve-Rav. SPECIES
-=======
+# Agaricus wrightii E. Valenz., Heinem. & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

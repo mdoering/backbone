@@ -1,5 +1,4 @@
-Sargassum tenuifolioides Tseng & Lu SPECIES
-=======
+# Sargassum tenuifolioides Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

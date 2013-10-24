@@ -1,5 +1,4 @@
-Parmelia rudecta f. rudecta FORM
-=======
+# Parmelia rudecta (Huds.) M. Choisy & Werner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syn. meth. lich.
 
 #### Original name
-Parmelia rudecta f. rudecta
+null
 
 ### Remarks
 null

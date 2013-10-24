@@ -1,5 +1,4 @@
-Cytospora kalmiae Sacc. SPECIES
-=======
+# Cytospora kalmiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

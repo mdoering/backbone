@@ -1,5 +1,4 @@
-Ciboria dallasiana Ellis & Everh. SPECIES
-=======
+# Ciboria dallasiana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

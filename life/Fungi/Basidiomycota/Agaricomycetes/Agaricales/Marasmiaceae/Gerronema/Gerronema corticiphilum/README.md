@@ -1,8 +1,7 @@
-Gerronema corticiphila Lj.N. Vassiljeva SPECIES
-=======
+# Gerronema corticiphilum Lj.N. Vassiljeva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gerronema corticiphila Lj.N. Vassiljeva
+Gerronema corticiphilum Lj.N. Vassiljeva
 
 ### Remarks
 null

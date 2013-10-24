@@ -1,17 +1,16 @@
-Ericianella auvea Brond. SPECIES
-=======
+# Ericianella aurea Brond. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Recueil de Plantes Cryptogames de l'Agenais (Agen) (1828)
 
 #### Original name
-Ericianella auvea Brond.
+Ericianella aurea Brond.
 
 ### Remarks
 null

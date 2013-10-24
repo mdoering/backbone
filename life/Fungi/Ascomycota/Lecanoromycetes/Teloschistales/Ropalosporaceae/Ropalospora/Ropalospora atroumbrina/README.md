@@ -1,5 +1,4 @@
-Ropalospora atroumbrina (H. Magn.) S. Ekman SPECIES
-=======
+# Ropalospora atroumbrina (H. Magn.) S. Ekman SPECIES
 
 #### Status
 ACCEPTED

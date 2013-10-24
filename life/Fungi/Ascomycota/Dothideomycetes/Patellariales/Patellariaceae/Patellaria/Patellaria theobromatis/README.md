@@ -1,5 +1,4 @@
-Patellaria theobromatis J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Patellaria theobromatis J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

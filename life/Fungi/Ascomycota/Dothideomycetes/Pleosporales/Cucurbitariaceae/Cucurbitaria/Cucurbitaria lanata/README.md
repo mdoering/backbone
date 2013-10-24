@@ -1,5 +1,4 @@
-Cucurbitaria lanata (Pat.) Kuntze SPECIES
-=======
+# Cucurbitaria lanata (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

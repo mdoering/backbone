@@ -1,5 +1,4 @@
-Biatora boreella (Nyl.) Hellb. SPECIES
-=======
+# Biatora boreella (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

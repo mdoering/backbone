@@ -1,5 +1,4 @@
-Gloeoskene Fott, 1957 GENUS
-=======
+# Gloeoskene Fott, 1957 GENUS
 
 #### Status
 ACCEPTED

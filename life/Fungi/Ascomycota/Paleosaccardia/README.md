@@ -1,5 +1,4 @@
-Paleosaccardia M. Locquin & C. Prive-Gill, 1984 GENUS
-=======
+# Paleosaccardia M. Locquin & C. Prive-Gill, 1984 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria pyrrhopora (Durieu & Mont.) Cooke SPECIES
-=======
+# Poria pyrrhopora (Durieu & Mont.) Cooke SPECIES
 
 #### Status
 ACCEPTED

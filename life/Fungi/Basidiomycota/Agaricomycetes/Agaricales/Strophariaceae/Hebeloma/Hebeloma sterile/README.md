@@ -1,5 +1,4 @@
-Hebeloma sterile (Jungh.) Sacc. SPECIES
-=======
+# Hebeloma sterile (Jungh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

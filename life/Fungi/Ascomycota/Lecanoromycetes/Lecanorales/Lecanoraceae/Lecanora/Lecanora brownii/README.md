@@ -1,5 +1,4 @@
-Lecanora brownii C.W. Dodge SPECIES
-=======
+# Lecanora brownii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

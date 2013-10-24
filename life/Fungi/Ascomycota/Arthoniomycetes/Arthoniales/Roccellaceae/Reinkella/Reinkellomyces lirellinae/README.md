@@ -1,5 +1,4 @@
-Reinkellomyces lirellinae Cif. & Tomas. SPECIES
-=======
+# Reinkellomyces lirellinae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

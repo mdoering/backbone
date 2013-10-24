@@ -1,5 +1,4 @@
-Inocybe fastuosa Tak. Kobay. SPECIES
-=======
+# Inocybe fastuosa Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

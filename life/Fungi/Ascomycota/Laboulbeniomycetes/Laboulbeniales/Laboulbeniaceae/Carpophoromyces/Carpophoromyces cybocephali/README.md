@@ -1,5 +1,4 @@
-Carpophoromyces cybocephali Thaxt., 1931 SPECIES
-=======
+# Carpophoromyces cybocephali Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

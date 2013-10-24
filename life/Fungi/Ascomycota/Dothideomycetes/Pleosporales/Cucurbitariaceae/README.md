@@ -1,5 +1,4 @@
-Cucurbitariaceae G. Winter FAMILY
-=======
+# Cucurbitariaceae G. Winter FAMILY
 
 #### Status
 ACCEPTED

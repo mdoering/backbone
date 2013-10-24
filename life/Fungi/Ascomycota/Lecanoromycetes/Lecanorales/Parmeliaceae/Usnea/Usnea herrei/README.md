@@ -1,5 +1,4 @@
-Usnea herrei Hale SPECIES
-=======
+# Usnea herrei Hale SPECIES
 
 #### Status
 ACCEPTED

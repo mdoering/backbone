@@ -1,5 +1,4 @@
-Tintinnidium karajacensis Brandt, 1908 SPECIES
-=======
+# Tintinnidium karajacensis Brandt, 1908 SPECIES
 
 #### Status
 ACCEPTED

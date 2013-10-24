@@ -1,5 +1,4 @@
-Lecania cesatii (A. Massal.) Bagl. SPECIES
-=======
+# Lecania cesatii (A. Massal.) Bagl. SPECIES
 
 #### Status
 ACCEPTED

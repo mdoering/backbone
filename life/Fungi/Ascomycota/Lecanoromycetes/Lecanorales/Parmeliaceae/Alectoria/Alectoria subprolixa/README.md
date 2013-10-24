@@ -1,5 +1,4 @@
-Alectoria subprolixa (Nyl.) Motyka SPECIES
-=======
+# Alectoria subprolixa (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

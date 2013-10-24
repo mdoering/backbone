@@ -1,5 +1,4 @@
-Basidioascus Matsush. GENUS
-=======
+# Basidioascus Matsush. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia viridis Rabenh. SPECIES
-=======
+# Puccinia viridis Rabenh. SPECIES
 
 #### Status
 ACCEPTED

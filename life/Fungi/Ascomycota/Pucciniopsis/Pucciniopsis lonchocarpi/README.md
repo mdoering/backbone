@@ -1,5 +1,4 @@
-Pucciniopsis lonchocarpi Linder SPECIES
-=======
+# Pucciniopsis lonchocarpi Linder SPECIES
 
 #### Status
 ACCEPTED

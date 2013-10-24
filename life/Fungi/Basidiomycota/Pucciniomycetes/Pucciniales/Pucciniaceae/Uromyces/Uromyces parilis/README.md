@@ -1,5 +1,4 @@
-Uromyces parilis Syd. SPECIES
-=======
+# Uromyces parilis Syd. SPECIES
 
 #### Status
 ACCEPTED

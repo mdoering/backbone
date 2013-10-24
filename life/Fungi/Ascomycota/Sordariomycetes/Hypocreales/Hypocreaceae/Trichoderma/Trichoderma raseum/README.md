@@ -1,5 +1,4 @@
-Trichoderma raseum SPECIES
-=======
+# Trichoderma raseum SPECIES
 
 #### Status
 ACCEPTED

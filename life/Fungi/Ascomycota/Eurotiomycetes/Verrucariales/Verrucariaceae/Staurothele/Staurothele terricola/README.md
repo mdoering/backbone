@@ -1,5 +1,4 @@
-Staurothele terricola (Bagl.) Poelt & Nimis SPECIES
-=======
+# Staurothele terricola (Bagl.) Poelt & Nimis SPECIES
 
 #### Status
 ACCEPTED

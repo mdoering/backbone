@@ -1,5 +1,4 @@
-Struvea elegans Børgesen, 1912 SPECIES
-=======
+# Struvea elegans Børgesen, 1912 SPECIES
 
 #### Status
 ACCEPTED

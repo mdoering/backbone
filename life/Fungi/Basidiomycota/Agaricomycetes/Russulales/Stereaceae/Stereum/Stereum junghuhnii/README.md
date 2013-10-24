@@ -1,5 +1,4 @@
-Stereum junghuhnii Fr. SPECIES
-=======
+# Stereum junghuhnii Fr. SPECIES
 
 #### Status
 ACCEPTED

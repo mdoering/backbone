@@ -1,5 +1,4 @@
-Peronospora cerastii-glandulosi S. Ito & Tokun. SPECIES
-=======
+# Peronospora cerastii-glandulosi S. Ito & Tokun. SPECIES
 
 #### Status
 ACCEPTED

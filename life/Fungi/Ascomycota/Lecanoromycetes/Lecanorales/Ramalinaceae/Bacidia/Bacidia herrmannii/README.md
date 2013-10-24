@@ -1,5 +1,4 @@
-Bacidia herrmannii Zahlbr. SPECIES
-=======
+# Bacidia herrmannii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

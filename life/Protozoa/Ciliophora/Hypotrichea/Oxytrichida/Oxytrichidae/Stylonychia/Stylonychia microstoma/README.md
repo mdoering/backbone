@@ -1,5 +1,4 @@
-Stylonychia microstoma SPECIES
-=======
+# Stylonychia microstoma SPECIES
 
 #### Status
 ACCEPTED

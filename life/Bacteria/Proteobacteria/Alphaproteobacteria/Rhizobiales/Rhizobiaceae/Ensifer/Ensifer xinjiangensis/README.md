@@ -1,11 +1,10 @@
-Sinorhizobium xinjiangense Chen et al., 1988 SPECIES
-=======
+# Ensifer xinjiangensis (Chen et al., 1988) Young, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

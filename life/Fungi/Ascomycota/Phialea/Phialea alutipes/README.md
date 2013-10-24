@@ -1,5 +1,4 @@
-Phialea alutipes (W. Phillips) Sacc. SPECIES
-=======
+# Phialea alutipes (W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

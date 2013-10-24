@@ -1,14 +1,13 @@
-Pulvinaria typica Rodway, 1918 SPECIES
-=======
+# Waydora typica (Rodway) B. Sutton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sutton, Rao & Mhaskar, Trans. Br. mycol. Soc. 67(2): 248 (1976)
 
 #### Original name
 null

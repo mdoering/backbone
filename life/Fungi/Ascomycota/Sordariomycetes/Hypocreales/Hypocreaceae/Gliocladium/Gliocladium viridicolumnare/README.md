@@ -1,5 +1,4 @@
-Gliocladium viridicolumnare Matsush. SPECIES
-=======
+# Gliocladium viridicolumnare Matsush. SPECIES
 
 #### Status
 ACCEPTED

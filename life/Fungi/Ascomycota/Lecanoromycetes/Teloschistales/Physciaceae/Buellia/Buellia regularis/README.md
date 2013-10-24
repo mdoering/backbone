@@ -1,5 +1,4 @@
-Buellia regularis Kalb SPECIES
-=======
+# Buellia regularis Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithoecis GENUS
-=======
+# Lithoecis GENUS
 
 #### Status
 ACCEPTED

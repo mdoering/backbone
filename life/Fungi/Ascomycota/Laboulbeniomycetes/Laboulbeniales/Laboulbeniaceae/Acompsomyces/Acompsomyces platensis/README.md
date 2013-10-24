@@ -1,5 +1,4 @@
-Acompsomyces platensis Speg. SPECIES
-=======
+# Acompsomyces platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

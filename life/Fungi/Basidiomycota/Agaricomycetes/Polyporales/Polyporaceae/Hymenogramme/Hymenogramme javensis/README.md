@@ -1,14 +1,13 @@
-Aschersonia javensis (Mont. & Berk.) Kuntze, 1898 SPECIES
-=======
+# Hymenogramme javensis Mont. & Berk., 1844 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 444 (1898)
+J. Bot. , London 3: 330 (1844)
 
 #### Original name
 Hymenogramme javensis Mont. & Berk., 1844

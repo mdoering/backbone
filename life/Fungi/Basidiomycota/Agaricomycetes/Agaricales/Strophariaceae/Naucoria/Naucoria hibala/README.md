@@ -1,5 +1,4 @@
-Naucoria hibala (Kalchbr.) Sacc. SPECIES
-=======
+# Naucoria hibala (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pesotum australe Kamgan, K. Jacobs & M.J. Wingf. SPECIES
-=======
+# Pesotum australe Kamgan, K. Jacobs & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

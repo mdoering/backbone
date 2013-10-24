@@ -1,5 +1,4 @@
-Fomes obsoletus (Fr.) Cooke SPECIES
-=======
+# Fomes obsoletus (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

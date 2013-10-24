@@ -1,5 +1,4 @@
-Trichosporum elaeochroum (Fr.) Fr. SPECIES
-=======
+# Trichosporum elaeochroum (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

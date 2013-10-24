@@ -1,14 +1,13 @@
-Pharcidia epiramalina Vouaux, 1911 SPECIES
-=======
+# Stigmidium epiramalina (Vouaux) Hafellner, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Vouaux in Pitard & Harmand, Bull. Soc. bot. Fr. 58(Mem. 22): 71 (1911)
+Bull. Soc. linn. Provence 44: 230 (1994)
 
 #### Original name
 Pharcidia epiramalina Vouaux, 1911

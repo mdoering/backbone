@@ -1,5 +1,4 @@
-Clintoniella incarnata (Pat. & Har.) Sacc. & Trotter SPECIES
-=======
+# Clintoniella incarnata (Pat. & Har.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

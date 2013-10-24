@@ -1,5 +1,4 @@
-Arthothelium awasthii Patw. & Makhija SPECIES
-=======
+# Arthothelium awasthii Patw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

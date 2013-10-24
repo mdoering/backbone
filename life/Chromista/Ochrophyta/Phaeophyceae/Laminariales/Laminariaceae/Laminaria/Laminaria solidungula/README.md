@@ -1,5 +1,4 @@
-Laminaria solidungula J. Agardh SPECIES
-=======
+# Laminaria solidungula J. Agardh SPECIES
 
 #### Status
 ACCEPTED

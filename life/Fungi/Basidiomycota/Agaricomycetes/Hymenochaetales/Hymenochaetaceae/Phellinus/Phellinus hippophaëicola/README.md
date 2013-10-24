@@ -1,17 +1,16 @@
-Phellinus robustus f. hippophaes Donk, 1937 FORM
-=======
+# Phellinus hippophaëicola H. Jahn, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 28(1): 105 (1976)
 
 #### Original name
-null
+Phellinus hippophaëicola H. Jahn, 1976
 
 ### Remarks
 null

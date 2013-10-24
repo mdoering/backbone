@@ -1,5 +1,4 @@
-Chaetodiplodia arachnoidea (Ces.) Sacc. SPECIES
-=======
+# Chaetodiplodia arachnoidea (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

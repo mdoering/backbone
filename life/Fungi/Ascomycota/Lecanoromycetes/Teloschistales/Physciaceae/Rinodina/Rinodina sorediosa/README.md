@@ -1,5 +1,4 @@
-Rinodina sorediosa Cretz. SPECIES
-=======
+# Rinodina sorediosa Cretz. SPECIES
 
 #### Status
 ACCEPTED

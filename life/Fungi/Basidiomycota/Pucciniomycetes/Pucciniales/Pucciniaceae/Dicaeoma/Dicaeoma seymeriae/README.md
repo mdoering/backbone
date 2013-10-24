@@ -1,5 +1,4 @@
-Dicaeoma seymeriae (Burrill) Kuntze SPECIES
-=======
+# Dicaeoma seymeriae (Burrill) Kuntze SPECIES
 
 #### Status
 ACCEPTED

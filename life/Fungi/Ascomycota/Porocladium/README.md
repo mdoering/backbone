@@ -1,5 +1,4 @@
-Porocladium Descals GENUS
-=======
+# Porocladium Descals GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucilopilus castaneiceps (Hongo) Hid. Takah. SPECIES
-=======
+# Mucilopilus castaneiceps (Hongo) Hid. Takah. SPECIES
 
 #### Status
 ACCEPTED

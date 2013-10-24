@@ -1,14 +1,13 @@
-Anguillospora vermiformis (Davis) Redhead & G.P. White, 1985 SPECIES
-=======
+# Anguillosporella vermiformis (Davis) U. Braun, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 63(8): 1431 (1985)
+Monogr. Cercosporella, Ramularia Allied Genera (Phytopath. Hyphom. ) 1: 234 (1995)
 
 #### Original name
 Cylindrosporium vermiforme Davis, 1916

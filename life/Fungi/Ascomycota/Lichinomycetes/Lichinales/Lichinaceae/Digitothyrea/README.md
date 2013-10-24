@@ -1,5 +1,4 @@
-Digitothyrea P.P. Moreno & Egea GENUS
-=======
+# Digitothyrea P.P. Moreno & Egea GENUS
 
 #### Status
 ACCEPTED

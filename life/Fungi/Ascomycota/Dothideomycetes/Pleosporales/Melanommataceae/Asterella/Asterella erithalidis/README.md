@@ -1,5 +1,4 @@
-Asterella erithalidis Ellis & Everh. SPECIES
-=======
+# Asterella erithalidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

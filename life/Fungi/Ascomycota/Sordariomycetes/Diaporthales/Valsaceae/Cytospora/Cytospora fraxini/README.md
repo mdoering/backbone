@@ -1,5 +1,4 @@
-Cytospora fraxini Delacr. SPECIES
-=======
+# Cytospora fraxini Delacr. SPECIES
 
 #### Status
 ACCEPTED

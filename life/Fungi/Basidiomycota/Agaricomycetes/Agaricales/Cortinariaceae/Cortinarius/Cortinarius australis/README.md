@@ -1,5 +1,4 @@
-Cortinarius australis Gasparini SPECIES
-=======
+# Cortinarius australis Gasparini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sonoraphlyctis ranzonii Letcher, 2008 SPECIES
-=======
+# Sonoraphlyctis ranzonii Letcher, 2008 SPECIES
 
 #### Status
 ACCEPTED

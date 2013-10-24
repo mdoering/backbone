@@ -1,5 +1,4 @@
-Methylosoma Rahalkar et al., 2007 GENUS
-=======
+# Methylosoma Rahalkar et al., 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudosagedia cestrensis (Tuck. ex E. Michener) R.C. Harris SPECIES
-=======
+# Pseudosagedia cestrensis (Tuck. ex E. Michener) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

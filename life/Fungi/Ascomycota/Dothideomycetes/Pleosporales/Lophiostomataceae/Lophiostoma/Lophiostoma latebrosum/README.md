@@ -1,5 +1,4 @@
-Lophiostoma latebrosum (Ellis) Huhndorf SPECIES
-=======
+# Lophiostoma latebrosum (Ellis) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

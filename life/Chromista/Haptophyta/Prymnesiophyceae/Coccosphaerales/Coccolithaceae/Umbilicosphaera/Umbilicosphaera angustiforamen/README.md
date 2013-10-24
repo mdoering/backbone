@@ -1,5 +1,4 @@
-Umbilicosphaera angustiforamen Okada & McIntyre, 1977 SPECIES
-=======
+# Umbilicosphaera angustiforamen Okada & McIntyre, 1977 SPECIES
 
 #### Status
 ACCEPTED

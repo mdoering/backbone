@@ -1,5 +1,4 @@
-Conocybe minuta (Quél.) Singer SPECIES
-=======
+# Conocybe minuta (Quél.) Singer SPECIES
 
 #### Status
 ACCEPTED

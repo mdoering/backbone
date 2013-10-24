@@ -1,17 +1,16 @@
-Sticta suberecta (Stirt.) Zahlbr. SPECIES
-=======
+# Sticta brevipes (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 3: 399 (1925)
+Cat. Lich. Univers. 3: 373 (1925)
 
 #### Original name
-Stictina suberecta Stirt.
+Stictina brevipes Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerodictyon Geitler, 1925 GENUS
-=======
+# Sphaerodictyon Geitler, 1925 GENUS
 
 #### Status
 SYNONYM

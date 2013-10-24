@@ -1,17 +1,16 @@
-Meliola ailanthii J.K. Sharma, C.N. Mohanan & Florence SPECIES
-=======
+# Meliola ailanthi J.K. Sharma, C.N. Mohanan & Florence SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Research Report. Kerala Forest Research Institute 36: 248 (1985)
 
 #### Original name
-Meliola ailanthii J.K. Sharma, C.N. Mohanan & Florence
+Meliola ailanthi J.K. Sharma, C.N. Mohanan & Florence
 
 ### Remarks
 null

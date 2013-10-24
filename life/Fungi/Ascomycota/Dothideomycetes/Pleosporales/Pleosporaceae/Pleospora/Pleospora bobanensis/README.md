@@ -1,5 +1,4 @@
-Pleospora bobanensis Bubák SPECIES
-=======
+# Pleospora bobanensis Bubák SPECIES
 
 #### Status
 ACCEPTED

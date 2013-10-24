@@ -1,8 +1,7 @@
-Wallackia bujoreani (Lepsi, 1951) Berger & Foissner, 1989 SPECIES
-=======
+# Paraholosticha bujoreani (Lepsi, 1951) Berger & Foissner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

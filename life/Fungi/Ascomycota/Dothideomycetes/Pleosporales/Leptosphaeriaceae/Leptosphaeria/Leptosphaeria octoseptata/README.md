@@ -1,5 +1,4 @@
-Leptosphaeria octoseptata Wehm. SPECIES
-=======
+# Leptosphaeria octoseptata Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanidium wawreanoides (Nyl.) C.W. Dodge SPECIES
-=======
+# Lecanidium wawreanoides (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

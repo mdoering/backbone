@@ -1,5 +1,4 @@
-Ascochyta poagena Punith. SPECIES
-=======
+# Ascochyta poagena Punith. SPECIES
 
 #### Status
 ACCEPTED

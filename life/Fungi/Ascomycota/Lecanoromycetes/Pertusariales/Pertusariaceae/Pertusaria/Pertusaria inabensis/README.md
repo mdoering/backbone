@@ -1,5 +1,4 @@
-Pertusaria inabensis Vain. SPECIES
-=======
+# Pertusaria inabensis Vain. SPECIES
 
 #### Status
 ACCEPTED

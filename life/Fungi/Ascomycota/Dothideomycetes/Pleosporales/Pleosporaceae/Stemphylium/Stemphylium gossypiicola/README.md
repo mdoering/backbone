@@ -1,14 +1,13 @@
-Stemphylium gossypicola (Nisik.) E.G. Simmons SPECIES
-=======
+# Stemphylium gossypiicola (Nisik.) E.G. Simmons SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 88: 193 (2003)
 
 #### Original name
 Thyrospora gossypiicola Nisik.

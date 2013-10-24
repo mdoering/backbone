@@ -1,5 +1,4 @@
-Diplosporium morchellae Beeli SPECIES
-=======
+# Diplosporium morchellae Beeli SPECIES
 
 #### Status
 ACCEPTED

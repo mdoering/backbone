@@ -1,5 +1,4 @@
-Buliminoididae Seiglie, 1970 FAMILY
-=======
+# Buliminoididae Seiglie, 1970 FAMILY
 
 #### Status
 ACCEPTED

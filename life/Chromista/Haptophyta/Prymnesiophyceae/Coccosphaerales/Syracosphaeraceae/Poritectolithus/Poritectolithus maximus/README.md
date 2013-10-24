@@ -1,5 +1,4 @@
-Poritectolithus maximus A. Kleijne SPECIES
-=======
+# Poritectolithus maximus A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

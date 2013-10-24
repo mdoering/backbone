@@ -1,5 +1,4 @@
-Ascochyta boni-henrici Ranoj. SPECIES
-=======
+# Ascochyta boni-henrici Ranoj. SPECIES
 
 #### Status
 ACCEPTED

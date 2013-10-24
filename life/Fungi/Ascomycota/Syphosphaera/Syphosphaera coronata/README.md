@@ -1,5 +1,4 @@
-Syphosphaera coronata Dumort., 1822 SPECIES
-=======
+# Syphosphaera coronata Dumort., 1822 SPECIES
 
 #### Status
 ACCEPTED

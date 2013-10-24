@@ -1,17 +1,16 @@
-Paecilomyces parvosporus Y.F. Han & Z.Q. Liang SPECIES
-=======
+# Paecilomyces parvisporus Y.F. Han & Z.Q. Liang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Han, Liang, Chu & Kang, Mycotaxon 94: 360 (2006)
 
 #### Original name
-Paecilomyces parvosporus Y.F. Han & Z.Q. Liang
+Paecilomyces parvisporus Y.F. Han & Z.Q. Liang
 
 ### Remarks
 null

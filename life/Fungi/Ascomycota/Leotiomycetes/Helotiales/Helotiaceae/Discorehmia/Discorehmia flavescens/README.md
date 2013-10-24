@@ -1,5 +1,4 @@
-Discorehmia flavescens Kirschst. SPECIES
-=======
+# Discorehmia flavescens Kirschst. SPECIES
 
 #### Status
 ACCEPTED

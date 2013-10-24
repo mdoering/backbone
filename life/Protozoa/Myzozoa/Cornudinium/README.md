@@ -1,5 +1,4 @@
-Cornudinium S.A.J.Pocock GENUS
-=======
+# Cornudinium S.A.J.Pocock GENUS
 
 #### Status
 ACCEPTED

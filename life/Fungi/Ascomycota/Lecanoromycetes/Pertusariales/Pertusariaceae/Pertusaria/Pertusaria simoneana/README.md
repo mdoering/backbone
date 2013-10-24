@@ -1,5 +1,4 @@
-Pertusaria simoneana A.W. Archer & Elix SPECIES
-=======
+# Pertusaria simoneana A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

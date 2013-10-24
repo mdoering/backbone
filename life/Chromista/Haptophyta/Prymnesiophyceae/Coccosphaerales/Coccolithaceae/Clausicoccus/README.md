@@ -1,14 +1,13 @@
-Ericsoniella J. Krhovský in V. Pokorný, 1979 GENUS
-=======
+# Clausicoccus B. Prins, 1979 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+INA (Int. Nannoplank. Ass. ) Newsl. 1 (1): N2.
 
 #### Original name
 null

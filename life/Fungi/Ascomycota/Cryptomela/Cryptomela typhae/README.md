@@ -1,5 +1,4 @@
-Cryptomela typhae Died. SPECIES
-=======
+# Cryptomela typhae Died. SPECIES
 
 #### Status
 ACCEPTED

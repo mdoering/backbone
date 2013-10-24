@@ -1,5 +1,4 @@
-Lewia daucicaulis E.G. Simmons, 2007 SPECIES
-=======
+# Lewia daucicaulis E.G. Simmons, 2007 SPECIES
 
 #### Status
 ACCEPTED

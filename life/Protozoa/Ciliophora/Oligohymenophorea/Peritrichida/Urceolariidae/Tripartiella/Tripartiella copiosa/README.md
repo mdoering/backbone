@@ -1,8 +1,7 @@
-Semitrichodina copiosa (Lom, 1959) Haider, 1964 SPECIES
-=======
+# Tripartiella copiosa (Lom, 1959) Raabe, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

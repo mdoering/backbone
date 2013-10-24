@@ -1,5 +1,4 @@
-Questieriella quercina S. Hughes SPECIES
-=======
+# Questieriella quercina S. Hughes SPECIES
 
 #### Status
 ACCEPTED

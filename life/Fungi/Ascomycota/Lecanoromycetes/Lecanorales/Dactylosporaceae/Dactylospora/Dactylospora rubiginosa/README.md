@@ -1,5 +1,4 @@
-Dactylospora rubiginosa Hafellner SPECIES
-=======
+# Dactylospora rubiginosa Hafellner SPECIES
 
 #### Status
 ACCEPTED

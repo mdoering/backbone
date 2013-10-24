@@ -1,5 +1,4 @@
-Arkhangelskiella specillata Vekshina, 1959 SPECIES
-=======
+# Arkhangelskiella specillata Vekshina, 1959 SPECIES
 
 #### Status
 ACCEPTED

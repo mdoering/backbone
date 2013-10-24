@@ -1,5 +1,4 @@
-Hormiscium lechlerianum (Sacc.) Sacc. SPECIES
-=======
+# Hormiscium lechlerianum (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

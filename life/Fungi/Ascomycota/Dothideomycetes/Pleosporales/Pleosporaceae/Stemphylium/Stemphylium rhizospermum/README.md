@@ -1,5 +1,4 @@
-Stemphylium rhizospermum (Corda) Bonord. SPECIES
-=======
+# Stemphylium rhizospermum (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

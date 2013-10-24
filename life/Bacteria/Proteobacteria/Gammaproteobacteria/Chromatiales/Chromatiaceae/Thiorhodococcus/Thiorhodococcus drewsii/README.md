@@ -1,5 +1,4 @@
-Thiorhodococcus drewsii Zaar, Fuchs, Golecki & Overmann, 2003 SPECIES
-=======
+# Thiorhodococcus drewsii Zaar, Fuchs, Golecki & Overmann, 2003 SPECIES
 
 #### Status
 ACCEPTED

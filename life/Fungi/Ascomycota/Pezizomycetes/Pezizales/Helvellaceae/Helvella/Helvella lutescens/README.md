@@ -1,5 +1,4 @@
-Helvella lutescens anon. SPECIES
-=======
+# Helvella lutescens anon. SPECIES
 
 #### Status
 ACCEPTED

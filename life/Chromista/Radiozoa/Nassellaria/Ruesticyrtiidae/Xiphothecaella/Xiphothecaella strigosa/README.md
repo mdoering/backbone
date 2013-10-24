@@ -1,5 +1,4 @@
-Xiphothecaella strigosa SPECIES
-=======
+# Xiphothecaella strigosa SPECIES
 
 #### Status
 ACCEPTED

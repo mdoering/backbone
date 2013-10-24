@@ -1,5 +1,4 @@
-Meliola sterculiae Hansf. & Deighton SPECIES
-=======
+# Meliola sterculiae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

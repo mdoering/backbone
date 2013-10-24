@@ -1,5 +1,4 @@
-Dictyosteliomycetes D. Hawksw., B. Sutton & Ainsw. CLASS
-=======
+# Dictyosteliomycetes D. Hawksw., B. Sutton & Ainsw. CLASS
 
 #### Status
 ACCEPTED

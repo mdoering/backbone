@@ -1,5 +1,4 @@
-Pleospora hispidula Niessl SPECIES
-=======
+# Pleospora hispidula Niessl SPECIES
 
 #### Status
 ACCEPTED

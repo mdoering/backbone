@@ -1,5 +1,4 @@
-Placodium squamosum var. tectorum (B. de Lesd.) B. de Lesd. VARIETY
-=======
+# Placodium squamosum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Placodium squamosum B. de Lesd.
 
 ### Remarks
 null

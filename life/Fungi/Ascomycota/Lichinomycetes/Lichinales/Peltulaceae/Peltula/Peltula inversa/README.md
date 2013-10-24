@@ -1,5 +1,4 @@
-Peltula inversa Büdel & M. Schultz SPECIES
-=======
+# Peltula inversa Büdel & M. Schultz SPECIES
 
 #### Status
 ACCEPTED

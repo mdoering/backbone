@@ -1,5 +1,4 @@
-Crinipellis tomentosa (Quél.) Singer SPECIES
-=======
+# Crinipellis tomentosa (Quél.) Singer SPECIES
 
 #### Status
 ACCEPTED

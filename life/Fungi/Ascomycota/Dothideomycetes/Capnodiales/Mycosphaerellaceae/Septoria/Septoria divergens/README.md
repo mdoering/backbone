@@ -1,5 +1,4 @@
-Septoria divergens Bubák & Kabát SPECIES
-=======
+# Septoria divergens Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

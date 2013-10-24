@@ -1,5 +1,4 @@
-Lepiota agricola (Murrill) Sacc. & Trotter SPECIES
-=======
+# Lepiota agricola (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

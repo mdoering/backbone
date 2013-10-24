@@ -1,5 +1,4 @@
-Caeoma potentillarum (DC.) Link SPECIES
-=======
+# Caeoma potentillarum (DC.) Link SPECIES
 
 #### Status
 ACCEPTED

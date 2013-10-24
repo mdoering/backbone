@@ -1,5 +1,4 @@
-Peronospora phlogina Dietel & Holw., 1894 SPECIES
-=======
+# Peronospora phlogina Dietel & Holw., 1894 SPECIES
 
 #### Status
 ACCEPTED

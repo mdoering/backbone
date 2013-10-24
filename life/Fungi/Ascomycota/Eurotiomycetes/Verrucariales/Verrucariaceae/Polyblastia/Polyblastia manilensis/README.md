@@ -1,5 +1,4 @@
-Polyblastia manilensis SPECIES
-=======
+# Polyblastia manilensis SPECIES
 
 #### Status
 ACCEPTED

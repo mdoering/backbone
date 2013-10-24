@@ -1,5 +1,4 @@
-Catillaria obfuscata (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria obfuscata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta paliuri Brunaud SPECIES
-=======
+# Phyllosticta paliuri Brunaud SPECIES
 
 #### Status
 ACCEPTED

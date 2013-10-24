@@ -1,5 +1,4 @@
-Collybia tamatavae Bouriquet SPECIES
-=======
+# Collybia tamatavae Bouriquet SPECIES
 
 #### Status
 ACCEPTED

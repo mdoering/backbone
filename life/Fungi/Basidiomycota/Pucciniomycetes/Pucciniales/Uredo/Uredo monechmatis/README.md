@@ -1,17 +1,16 @@
-Uredo monechmae Cummins SPECIES
-=======
+# Uredo monechmatis Cummins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 79(3): 231 (1952)
 
 #### Original name
-Uredo monechmae Cummins
+Uredo monechmatis Cummins
 
 ### Remarks
 null

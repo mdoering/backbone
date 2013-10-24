@@ -1,5 +1,4 @@
-Xeromedulla leptospora W.Y. Zhuang & Korf, 1987 SPECIES
-=======
+# Xeromedulla leptospora W.Y. Zhuang & Korf, 1987 SPECIES
 
 #### Status
 ACCEPTED

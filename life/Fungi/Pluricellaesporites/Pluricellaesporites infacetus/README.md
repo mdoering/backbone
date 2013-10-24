@@ -1,5 +1,4 @@
-Pluricellaesporites infacetus (Kalgutkar) Kalgutkar & Janson. SPECIES
-=======
+# Pluricellaesporites infacetus (Kalgutkar) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

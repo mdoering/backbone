@@ -1,5 +1,4 @@
-Segestria macularis (Wallr.) Zwackh SPECIES
-=======
+# Segestria macularis (Wallr.) Zwackh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporidiella shawii Arx SPECIES
-=======
+# Gloeosporidiella shawii Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyramidulina gallowayi (Cushman, 1929) SPECIES
-=======
+# Pyramidulina gallowayi (Cushman, 1929) SPECIES
 
 #### Status
 ACCEPTED

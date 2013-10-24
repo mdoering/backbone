@@ -1,5 +1,4 @@
-Glandulina semistriata Collins, 1958 SPECIES
-=======
+# Glandulina semistriata Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

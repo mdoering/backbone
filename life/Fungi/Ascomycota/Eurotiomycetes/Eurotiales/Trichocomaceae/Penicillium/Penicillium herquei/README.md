@@ -1,5 +1,4 @@
-Penicillium herquei Bainier & Sartory, 1912 SPECIES
-=======
+# Penicillium herquei Bainier & Sartory, 1912 SPECIES
 
 #### Status
 ACCEPTED

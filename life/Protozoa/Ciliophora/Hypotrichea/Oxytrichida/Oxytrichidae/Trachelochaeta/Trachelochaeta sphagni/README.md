@@ -1,5 +1,4 @@
-Trachelochaeta sphagni SPECIES
-=======
+# Trachelochaeta sphagni SPECIES
 
 #### Status
 ACCEPTED

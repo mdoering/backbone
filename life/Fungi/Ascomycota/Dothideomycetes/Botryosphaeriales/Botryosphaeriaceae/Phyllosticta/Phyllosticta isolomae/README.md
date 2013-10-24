@@ -1,5 +1,4 @@
-Phyllosticta isolomae Gonz. Frag. & Cif. SPECIES
-=======
+# Phyllosticta isolomae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

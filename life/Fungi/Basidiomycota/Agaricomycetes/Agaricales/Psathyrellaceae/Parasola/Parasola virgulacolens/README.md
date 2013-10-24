@@ -1,14 +1,13 @@
-Coprinus virgulacolens Cleland, 1933 SPECIES
-=======
+# Parasola virgulacolens (Cleland) J.A. Simpson & Grgur., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. South Australia 57: 194 (1933)
+Australas. Mycol. 20(1): 55 (2001)
 
 #### Original name
 Coprinus virgulacolens Cleland, 1933

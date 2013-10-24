@@ -1,5 +1,4 @@
-Acineta laomedeae Precht, 1935 SPECIES
-=======
+# Acineta laomedeae Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

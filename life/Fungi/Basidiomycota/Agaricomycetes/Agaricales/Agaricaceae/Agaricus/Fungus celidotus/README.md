@@ -1,5 +1,4 @@
-Fungus celidotus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus celidotus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

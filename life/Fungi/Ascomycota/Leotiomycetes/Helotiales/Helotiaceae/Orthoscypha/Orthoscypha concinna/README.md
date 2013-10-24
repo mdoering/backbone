@@ -1,14 +1,13 @@
-Pocillum concinnum (Syd.) Petr., 1951 SPECIES
-=======
+# Orthoscypha concinna Syd., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 5(3-6): 346 (1951)
+Annls mycol. 25(1/2): 100 (1927)
 
 #### Original name
 Orthoscypha concinna Syd., 1927

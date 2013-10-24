@@ -1,5 +1,4 @@
-Ramaria maculospora R.H. Petersen, 1986 SPECIES
-=======
+# Ramaria maculospora R.H. Petersen, 1986 SPECIES
 
 #### Status
 ACCEPTED

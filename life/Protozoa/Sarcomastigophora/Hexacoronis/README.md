@@ -1,5 +1,4 @@
-Hexacoronis Haeckel, 1887 GENUS
-=======
+# Hexacoronis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

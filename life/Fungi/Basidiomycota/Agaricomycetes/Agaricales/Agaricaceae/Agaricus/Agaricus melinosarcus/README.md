@@ -1,5 +1,4 @@
-Agaricus melinosarcus Kalchbr. SPECIES
-=======
+# Agaricus melinosarcus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

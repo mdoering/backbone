@@ -1,5 +1,4 @@
-Endobasidium Speschnew GENUS
-=======
+# Endobasidium Speschnew GENUS
 
 #### Status
 ACCEPTED

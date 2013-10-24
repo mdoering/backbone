@@ -1,5 +1,4 @@
-Phoma aspidioticola Narendra & V.G. Rao SPECIES
-=======
+# Phoma aspidioticola Narendra & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

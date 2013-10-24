@@ -1,8 +1,7 @@
-Flavobacterium gleum Holmes et al., 1984 SPECIES
-=======
+# Chryseobacterium gleum (Holmes et al., 1984) Vandamme et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

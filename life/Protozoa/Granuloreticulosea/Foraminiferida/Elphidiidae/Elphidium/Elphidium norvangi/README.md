@@ -1,5 +1,4 @@
-Elphidium norvangi SPECIES
-=======
+# Elphidium norvangi SPECIES
 
 #### Status
 ACCEPTED

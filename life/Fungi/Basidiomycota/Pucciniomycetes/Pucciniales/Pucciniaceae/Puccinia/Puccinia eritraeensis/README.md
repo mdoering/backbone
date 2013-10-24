@@ -1,5 +1,4 @@
-Puccinia eritraeensis Pazschke SPECIES
-=======
+# Puccinia eritraeensis Pazschke SPECIES
 
 #### Status
 ACCEPTED

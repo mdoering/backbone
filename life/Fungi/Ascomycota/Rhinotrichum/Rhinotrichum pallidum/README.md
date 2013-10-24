@@ -1,5 +1,4 @@
-Rhinotrichum pallidum Berk. & Broome SPECIES
-=======
+# Rhinotrichum pallidum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

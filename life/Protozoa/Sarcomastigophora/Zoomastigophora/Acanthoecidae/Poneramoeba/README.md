@@ -1,5 +1,4 @@
-Poneramoeba Lühe, 1909 GENUS
-=======
+# Poneramoeba Lühe, 1909 GENUS
 
 #### Status
 ACCEPTED

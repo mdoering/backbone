@@ -1,17 +1,16 @@
-Acrasidae FAMILY
-=======
+# Acrasiaceae Poche FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Protistenk. 30: 177 (1913)
 
 #### Original name
-null
+Acrasiaceae Poche
 
 ### Remarks
 null

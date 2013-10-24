@@ -1,5 +1,4 @@
-Prosthemium asterosporum T. Kowalski & Holdenr. SPECIES
-=======
+# Prosthemium asterosporum T. Kowalski & Holdenr. SPECIES
 
 #### Status
 ACCEPTED

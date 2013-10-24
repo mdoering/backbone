@@ -1,5 +1,4 @@
-Phoma helicis Pass. & Beltr. SPECIES
-=======
+# Phoma helicis Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

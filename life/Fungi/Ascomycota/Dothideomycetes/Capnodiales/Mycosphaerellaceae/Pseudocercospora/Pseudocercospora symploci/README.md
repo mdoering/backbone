@@ -1,5 +1,4 @@
-Pseudocercospora symploci Katsuki & Tak. Kobay. ex U. Braun & Crous SPECIES
-=======
+# Pseudocercospora symploci Katsuki & Tak. Kobay. ex U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

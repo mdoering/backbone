@@ -1,17 +1,16 @@
-Psora vesicularis var. vesicularis VARIETY
-=======
+# Psora vesicularis (Hoffm.) SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Lichen vesicularis Hoffm.
 
 ### Remarks
 null

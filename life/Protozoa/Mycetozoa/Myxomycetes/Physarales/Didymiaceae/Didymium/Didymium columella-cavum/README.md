@@ -1,5 +1,4 @@
-Didymium columella-cavum Hochg., Gottsb. & Nann.-Bremek. SPECIES
-=======
+# Didymium columella-cavum Hochg., Gottsb. & Nann.-Bremek. SPECIES
 
 #### Status
 ACCEPTED

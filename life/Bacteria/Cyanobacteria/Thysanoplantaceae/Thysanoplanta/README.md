@@ -1,5 +1,4 @@
-Thysanoplanta A.G. Vologdin & T.N. Titorenko, 1966 GENUS
-=======
+# Thysanoplanta A.G. Vologdin & T.N. Titorenko, 1966 GENUS
 
 #### Status
 ACCEPTED

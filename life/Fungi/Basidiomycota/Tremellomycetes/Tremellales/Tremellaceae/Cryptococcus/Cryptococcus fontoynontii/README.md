@@ -1,5 +1,4 @@
-Cryptococcus fontoynontii Vuill. SPECIES
-=======
+# Cryptococcus fontoynontii Vuill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe chrysocephala F.H. Nishida SPECIES
-=======
+# Inocybe chrysocephala F.H. Nishida SPECIES
 
 #### Status
 ACCEPTED

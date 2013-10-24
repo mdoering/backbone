@@ -1,5 +1,4 @@
-Rhizoplaca charcotiana (Hue) Follmann SPECIES
-=======
+# Rhizoplaca charcotiana (Hue) Follmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biedafranciszkina Gawor-Biedowa, 1992 GENUS
-=======
+# Biedafranciszkina Gawor-Biedowa, 1992 GENUS
 
 #### Status
 ACCEPTED

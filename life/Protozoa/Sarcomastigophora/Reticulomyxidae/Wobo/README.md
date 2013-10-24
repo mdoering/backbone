@@ -1,5 +1,4 @@
-Wobo Hülsmann, 2006 GENUS
-=======
+# Wobo Hülsmann, 2006 GENUS
 
 #### Status
 ACCEPTED

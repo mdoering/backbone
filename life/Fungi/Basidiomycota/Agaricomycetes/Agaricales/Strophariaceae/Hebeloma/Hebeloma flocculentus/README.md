@@ -1,5 +1,4 @@
-Hebeloma flocculentus anon. SPECIES
-=======
+# Hebeloma flocculentus anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nannoconus elongatus Bronnimann, 1955 SPECIES
-=======
+# Nannoconus elongatus Bronnimann, 1955 SPECIES
 
 #### Status
 ACCEPTED

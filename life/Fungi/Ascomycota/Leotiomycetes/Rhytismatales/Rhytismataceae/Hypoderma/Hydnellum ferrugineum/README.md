@@ -1,8 +1,7 @@
-Hydnellum hybridum (Bull.) Banker, 1913 SPECIES
-=======
+# Hydnellum ferrugineum (Fr.) P. Karst., 1880 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

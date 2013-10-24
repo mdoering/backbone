@@ -1,5 +1,4 @@
-Cortinarius sparsus (Chevassut & Rob. Henry) Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius sparsus (Chevassut & Rob. Henry) Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

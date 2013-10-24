@@ -1,5 +1,4 @@
-Clavaria alutacea Lasch SPECIES
-=======
+# Clavaria alutacea Lasch SPECIES
 
 #### Status
 ACCEPTED

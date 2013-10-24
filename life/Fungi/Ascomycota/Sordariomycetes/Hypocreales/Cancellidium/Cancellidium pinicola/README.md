@@ -1,5 +1,4 @@
-Cancellidium pinicola S.Y. Yeung, Jeewon & K.D. Hyde SPECIES
-=======
+# Cancellidium pinicola S.Y. Yeung, Jeewon & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

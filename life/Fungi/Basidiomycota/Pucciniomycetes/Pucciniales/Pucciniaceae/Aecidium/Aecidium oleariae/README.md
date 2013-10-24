@@ -1,5 +1,4 @@
-Aecidium oleariae McAlpine SPECIES
-=======
+# Aecidium oleariae McAlpine SPECIES
 
 #### Status
 ACCEPTED

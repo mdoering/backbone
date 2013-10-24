@@ -1,5 +1,4 @@
-Lacunopsophosphaera gyrusoformis Pykhova, 1969 SPECIES
-=======
+# Lacunopsophosphaera gyrusoformis Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

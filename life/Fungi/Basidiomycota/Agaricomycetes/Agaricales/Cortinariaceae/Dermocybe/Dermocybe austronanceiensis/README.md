@@ -1,5 +1,4 @@
-Dermocybe austronanceiensis M.M. Moser SPECIES
-=======
+# Dermocybe austronanceiensis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza albobadia Saut. SPECIES
-=======
+# Peziza albobadia Saut. SPECIES
 
 #### Status
 ACCEPTED

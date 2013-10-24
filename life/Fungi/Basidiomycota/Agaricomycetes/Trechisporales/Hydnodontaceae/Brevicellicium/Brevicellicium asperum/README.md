@@ -1,5 +1,4 @@
-Brevicellicium asperum Hjortstam & Ryvarden, 2005 SPECIES
-=======
+# Brevicellicium asperum Hjortstam & Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

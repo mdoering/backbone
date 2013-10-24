@@ -1,5 +1,4 @@
-Gliocladium luteolum Höhn., 1903 SPECIES
-=======
+# Gliocladium luteolum Höhn., 1903 SPECIES
 
 #### Status
 ACCEPTED

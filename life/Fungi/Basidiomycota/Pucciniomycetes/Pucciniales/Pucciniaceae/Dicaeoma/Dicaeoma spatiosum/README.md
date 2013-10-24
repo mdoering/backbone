@@ -1,5 +1,4 @@
-Dicaeoma spatiosum (F. Kern) Arthur & F. Kern SPECIES
-=======
+# Dicaeoma spatiosum (F. Kern) Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

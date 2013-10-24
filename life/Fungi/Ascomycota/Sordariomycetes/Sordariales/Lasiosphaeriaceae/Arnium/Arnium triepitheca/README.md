@@ -1,5 +1,4 @@
-Arnium triepitheca J.C. Krug & Cain SPECIES
-=======
+# Arnium triepitheca J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

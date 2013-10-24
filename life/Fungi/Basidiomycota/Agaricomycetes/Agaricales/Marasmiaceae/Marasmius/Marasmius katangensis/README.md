@@ -1,5 +1,4 @@
-Marasmius katangensis Singer SPECIES
-=======
+# Marasmius katangensis Singer SPECIES
 
 #### Status
 ACCEPTED

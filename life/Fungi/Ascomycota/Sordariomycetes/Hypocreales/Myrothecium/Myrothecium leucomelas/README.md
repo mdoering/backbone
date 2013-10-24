@@ -1,5 +1,4 @@
-Myrothecium leucomelas (Syd. & P. Syd.) Höhn. SPECIES
-=======
+# Myrothecium leucomelas (Syd. & P. Syd.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

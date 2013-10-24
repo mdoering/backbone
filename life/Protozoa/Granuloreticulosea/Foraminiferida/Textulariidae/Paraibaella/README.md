@@ -1,17 +1,16 @@
-Spiroplectamminoides Brönnimann & Beurlen, 1977 GENUS
-=======
+# Paraibaella Bronnimann & Beurlen, 1977 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Archs Sci. Geneve 30: 86.
+Archs Sci. Geneve 30: 279.
 
 #### Original name
-null
+Spiroplectamminoides Brönnimann & Beurlen, 1977
 
 ### Remarks
 null

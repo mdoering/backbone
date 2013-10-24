@@ -1,14 +1,13 @@
-Bertia collapsa Romell, 1889 SPECIES
-=======
+# Nitschkia collapsa (Romell) Chenant., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Notiser
+Bull. Soc. mycol. Fr. 34(1-2): 73 (1918)
 
 #### Original name
 Bertia collapsa Romell, 1889

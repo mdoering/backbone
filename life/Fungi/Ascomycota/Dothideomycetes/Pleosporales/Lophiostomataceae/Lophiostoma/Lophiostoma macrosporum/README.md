@@ -1,5 +1,4 @@
-Lophiostoma macrosporum Speg. SPECIES
-=======
+# Lophiostoma macrosporum Speg. SPECIES
 
 #### Status
 ACCEPTED

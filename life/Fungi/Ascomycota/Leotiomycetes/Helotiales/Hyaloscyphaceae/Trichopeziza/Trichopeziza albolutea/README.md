@@ -1,5 +1,4 @@
-Trichopeziza albolutea (Pers.) Sacc. SPECIES
-=======
+# Trichopeziza albolutea (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

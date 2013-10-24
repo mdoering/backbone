@@ -1,5 +1,4 @@
-Sporidesmium inflatum (Berk. & Ravenel) M.B. Ellis SPECIES
-=======
+# Sporidesmium inflatum (Berk. & Ravenel) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

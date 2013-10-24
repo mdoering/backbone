@@ -1,5 +1,4 @@
-Hebeloma angustifolium (Britzelm.) Sacc. SPECIES
-=======
+# Hebeloma angustifolium (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

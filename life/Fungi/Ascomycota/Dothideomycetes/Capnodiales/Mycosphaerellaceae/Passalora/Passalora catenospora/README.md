@@ -1,5 +1,4 @@
-Passalora catenospora (G.F. Atk.) U. Braun & Crous SPECIES
-=======
+# Passalora catenospora (G.F. Atk.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

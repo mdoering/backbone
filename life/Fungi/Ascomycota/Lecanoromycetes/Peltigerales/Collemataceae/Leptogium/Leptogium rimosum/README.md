@@ -1,5 +1,4 @@
-Leptogium rimosum (Sommerf.) Nyl. SPECIES
-=======
+# Leptogium rimosum (Sommerf.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

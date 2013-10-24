@@ -1,5 +1,4 @@
-Lecidea subconcolor (Anzi) Jatta SPECIES
-=======
+# Lecidea subconcolor (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

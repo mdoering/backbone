@@ -1,5 +1,4 @@
-Phomopsioides mastoldea SPECIES
-=======
+# Phomopsioides mastoldea SPECIES
 
 #### Status
 ACCEPTED

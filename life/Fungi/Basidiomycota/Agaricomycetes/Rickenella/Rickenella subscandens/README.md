@@ -1,5 +1,4 @@
-Rickenella subscandens (Raithelh.) Raithelh. SPECIES
-=======
+# Rickenella subscandens (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

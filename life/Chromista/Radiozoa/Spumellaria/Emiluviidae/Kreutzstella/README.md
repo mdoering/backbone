@@ -1,5 +1,4 @@
-Kreutzstella GENUS
-=======
+# Kreutzstella GENUS
 
 #### Status
 ACCEPTED

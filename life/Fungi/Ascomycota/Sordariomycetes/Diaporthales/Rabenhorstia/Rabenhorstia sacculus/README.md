@@ -1,5 +1,4 @@
-Rabenhorstia sacculus (Schwein.) Starbäck SPECIES
-=======
+# Rabenhorstia sacculus (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

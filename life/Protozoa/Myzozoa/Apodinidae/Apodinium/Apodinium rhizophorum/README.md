@@ -1,8 +1,7 @@
-Parapodinium catenaria SPECIES
-=======
+# Apodinium rhizophorum Cachon & Cachon, 19** SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

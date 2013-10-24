@@ -1,5 +1,4 @@
-Lipmanella Loeblich & Tappan, 1961 GENUS
-=======
+# Lipmanella Loeblich & Tappan, 1961 GENUS
 
 #### Status
 ACCEPTED

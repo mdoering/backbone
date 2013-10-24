@@ -1,5 +1,4 @@
-Baltisphaeridium basioconstrictum Vanguestaine et al., 1983 SPECIES
-=======
+# Baltisphaeridium basioconstrictum Vanguestaine et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

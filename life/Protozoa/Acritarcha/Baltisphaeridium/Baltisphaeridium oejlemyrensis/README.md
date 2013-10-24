@@ -1,5 +1,4 @@
-Baltisphaeridium oejlemyrensis Eiserhardt, 1989 SPECIES
-=======
+# Baltisphaeridium oejlemyrensis Eiserhardt, 1989 SPECIES
 
 #### Status
 ACCEPTED

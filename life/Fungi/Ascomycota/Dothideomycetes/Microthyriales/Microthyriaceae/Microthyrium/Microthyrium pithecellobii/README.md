@@ -1,17 +1,16 @@
-Microthyrium pithecolobii Bat. & C.A.A. Costa SPECIES
-=======
+# Microthyrium pithecellobii Bat. & C.A.A. Costa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anais Soc. Biol. Pernambuco 16(1): 75 (1959)
 
 #### Original name
-Microthyrium pithecolobii Bat. & C.A.A. Costa
+Microthyrium pithecellobii Bat. & C.A.A. Costa
 
 ### Remarks
 null

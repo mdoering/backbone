@@ -1,17 +1,16 @@
-Uredo peteloti Pat. SPECIES
-=======
+# Uredo petelotii Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 39: 46 (1923)
 
 #### Original name
-Uredo peteloti Pat.
+Uredo petelotii Pat.
 
 ### Remarks
 null

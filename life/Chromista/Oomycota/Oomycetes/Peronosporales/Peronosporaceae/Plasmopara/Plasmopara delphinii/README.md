@@ -1,5 +1,4 @@
-Plasmopara delphinii (Gapon.) Novot. SPECIES
-=======
+# Plasmopara delphinii (Gapon.) Novot. SPECIES
 
 #### Status
 ACCEPTED

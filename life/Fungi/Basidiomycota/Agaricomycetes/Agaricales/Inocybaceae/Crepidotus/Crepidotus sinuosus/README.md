@@ -1,5 +1,4 @@
-Crepidotus sinuosus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus sinuosus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

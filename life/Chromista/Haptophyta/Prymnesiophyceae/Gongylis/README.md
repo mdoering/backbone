@@ -1,5 +1,4 @@
-Gongylis N. Hoffmann, 1970 GENUS
-=======
+# Gongylis N. Hoffmann, 1970 GENUS
 
 #### Status
 ACCEPTED

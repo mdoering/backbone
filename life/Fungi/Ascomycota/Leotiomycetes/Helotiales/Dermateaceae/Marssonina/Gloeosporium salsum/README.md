@@ -1,5 +1,4 @@
-Gloeosporium salsum Grove SPECIES
-=======
+# Gloeosporium salsum Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus tjibodensis Henn. SPECIES
-=======
+# Crepidotus tjibodensis Henn. SPECIES
 
 #### Status
 ACCEPTED

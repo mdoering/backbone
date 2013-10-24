@@ -1,5 +1,4 @@
-Phormidium tinctorium Kützing SPECIES
-=======
+# Phormidium tinctorium Kützing SPECIES
 
 #### Status
 ACCEPTED

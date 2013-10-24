@@ -1,5 +1,4 @@
-Spilonema revertens Nyl. SPECIES
-=======
+# Spilonema revertens Nyl. SPECIES
 
 #### Status
 ACCEPTED

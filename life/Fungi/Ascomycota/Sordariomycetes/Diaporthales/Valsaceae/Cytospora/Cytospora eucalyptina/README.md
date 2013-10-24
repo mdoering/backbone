@@ -1,5 +1,4 @@
-Cytospora eucalyptina Speg. SPECIES
-=======
+# Cytospora eucalyptina Speg. SPECIES
 
 #### Status
 ACCEPTED

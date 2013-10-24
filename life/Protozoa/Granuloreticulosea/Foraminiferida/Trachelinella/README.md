@@ -1,5 +1,4 @@
-Trachelinella Gallitelli, 1956 GENUS
-=======
+# Trachelinella Gallitelli, 1956 GENUS
 
 #### Status
 ACCEPTED

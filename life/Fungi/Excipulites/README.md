@@ -1,5 +1,4 @@
-Excipulites Göpp. GENUS
-=======
+# Excipulites Göpp. GENUS
 
 #### Status
 ACCEPTED

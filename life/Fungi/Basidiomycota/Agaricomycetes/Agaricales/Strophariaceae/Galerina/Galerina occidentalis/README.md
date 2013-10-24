@@ -1,5 +1,4 @@
-Galerina occidentalis A.H. Sm. SPECIES
-=======
+# Galerina occidentalis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monochaetia diospyri Yoshii SPECIES
-=======
+# Monochaetia diospyri Yoshii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocrea schizostachyi Syd. & P. Syd., 1917 SPECIES
-=======
+# Stereocrea schizostachyi Syd. & P. Syd., 1917 SPECIES
 
 #### Status
 ACCEPTED

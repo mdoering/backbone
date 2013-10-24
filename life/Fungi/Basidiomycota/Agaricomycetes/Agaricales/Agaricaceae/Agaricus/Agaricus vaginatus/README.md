@@ -1,5 +1,4 @@
-Agaricus vaginatus var. vaginatus VARIETY
-=======
+# Agaricus vaginatus SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Herb. Fr. 3: tab. 98 (1783)
+null
 
 #### Original name
-Agaricus vaginatus var. vaginatus
+Agaricus vaginatus
 
 ### Remarks
 null

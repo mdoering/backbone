@@ -1,8 +1,7 @@
-Mycosphaerella nyssaecola (Cooke) F.A. Wolf SPECIES
-=======
+# Mycosphaerella nyssicola (Cooke) F.A. Wolf SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

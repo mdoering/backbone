@@ -1,5 +1,4 @@
-Megasphaera GENUS
-=======
+# Megasphaera GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polycephalum cordobense Speg. SPECIES
-=======
+# Polycephalum cordobense Speg. SPECIES
 
 #### Status
 ACCEPTED

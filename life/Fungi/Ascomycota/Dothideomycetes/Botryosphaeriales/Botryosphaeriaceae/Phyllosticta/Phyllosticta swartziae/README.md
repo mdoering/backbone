@@ -1,5 +1,4 @@
-Phyllosticta swartziae Bat. SPECIES
-=======
+# Phyllosticta swartziae Bat. SPECIES
 
 #### Status
 ACCEPTED

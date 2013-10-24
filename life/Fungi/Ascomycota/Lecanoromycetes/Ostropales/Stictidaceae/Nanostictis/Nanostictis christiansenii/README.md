@@ -1,5 +1,4 @@
-Nanostictis christiansenii Etayo SPECIES
-=======
+# Nanostictis christiansenii Etayo SPECIES
 
 #### Status
 ACCEPTED

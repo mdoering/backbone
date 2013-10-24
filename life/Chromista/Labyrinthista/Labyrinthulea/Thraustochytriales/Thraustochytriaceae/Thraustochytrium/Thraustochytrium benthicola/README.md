@@ -1,5 +1,4 @@
-Thraustochytrium benthicola Raghuk., 1980 SPECIES
-=======
+# Thraustochytrium benthicola Raghuk., 1980 SPECIES
 
 #### Status
 ACCEPTED

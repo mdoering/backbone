@@ -1,5 +1,4 @@
-Isaria elegantula Syd. SPECIES
-=======
+# Isaria elegantula Syd. SPECIES
 
 #### Status
 ACCEPTED

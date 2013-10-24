@@ -1,5 +1,4 @@
-Leccinum eximium (Pers.) Singer SPECIES
-=======
+# Leccinum eximium (Pers.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora spatholobi Syd., 1935 SPECIES
-=======
+# Phyllachora spatholobi Syd., 1935 SPECIES
 
 #### Status
 ACCEPTED

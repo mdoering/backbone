@@ -1,5 +1,4 @@
-Asterina alchorniicola Hansf. SPECIES
-=======
+# Asterina alchorniicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

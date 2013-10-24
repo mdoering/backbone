@@ -1,5 +1,4 @@
-Fusarium mollerianum Thüm. SPECIES
-=======
+# Fusarium mollerianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

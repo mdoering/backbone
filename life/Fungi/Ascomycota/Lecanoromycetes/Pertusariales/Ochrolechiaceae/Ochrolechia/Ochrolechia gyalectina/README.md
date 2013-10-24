@@ -1,5 +1,4 @@
-Ochrolechia gyalectina (Nyl.) Zahlbr. SPECIES
-=======
+# Ochrolechia gyalectina (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

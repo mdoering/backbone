@@ -1,5 +1,4 @@
-Ptychocylis obtusa subsp. obtusa SUBSPECIES
-=======
+# Ptychocylis obtusa Brandt, 1896 SPECIES
 
 #### Status
 ACCEPTED

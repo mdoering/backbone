@@ -1,5 +1,4 @@
-Phallus tenuis (Fisch.) Kuntze SPECIES
-=======
+# Phallus tenuis (Fisch.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacidium divergens Desm. SPECIES
-=======
+# Phacidium divergens Desm. SPECIES
 
 #### Status
 ACCEPTED

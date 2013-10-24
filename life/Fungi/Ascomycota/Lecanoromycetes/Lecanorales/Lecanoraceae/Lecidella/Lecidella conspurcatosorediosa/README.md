@@ -1,5 +1,4 @@
-Lecidella conspurcatosorediosa (Harm.) Diederich SPECIES
-=======
+# Lecidella conspurcatosorediosa (Harm.) Diederich SPECIES
 
 #### Status
 ACCEPTED

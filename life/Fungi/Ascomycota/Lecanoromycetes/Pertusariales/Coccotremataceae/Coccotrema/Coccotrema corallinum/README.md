@@ -1,17 +1,16 @@
-Coccotrema corallina Messuti SPECIES
-=======
+# Coccotrema corallinum Messuti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 82: 430 (2002)
 
 #### Original name
-Coccotrema corallina Messuti
+Coccotrema corallinum Messuti
 
 ### Remarks
 null

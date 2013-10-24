@@ -1,5 +1,4 @@
-Balansia paspali Henn. SPECIES
-=======
+# Balansia paspali Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Escherichia sphingidis SPECIES
-=======
+# Escherichia sphingidis SPECIES
 
 #### Status
 ACCEPTED

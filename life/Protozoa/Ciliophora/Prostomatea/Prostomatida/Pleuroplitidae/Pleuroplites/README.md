@@ -1,5 +1,4 @@
-Pleuroplites Foissner, 1988 GENUS
-=======
+# Pleuroplites Foissner, 1988 GENUS
 
 #### Status
 ACCEPTED

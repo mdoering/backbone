@@ -1,5 +1,4 @@
-Phaeopeltosphaeria irregularis Wehm. SPECIES
-=======
+# Phaeopeltosphaeria irregularis Wehm. SPECIES
 
 #### Status
 ACCEPTED

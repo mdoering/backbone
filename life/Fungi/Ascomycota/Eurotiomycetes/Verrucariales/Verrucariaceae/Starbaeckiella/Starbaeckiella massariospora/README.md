@@ -1,5 +1,4 @@
-Starbaeckiella massariospora (Starbäck) Syd. & P. Syd. SPECIES
-=======
+# Starbaeckiella massariospora (Starbäck) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

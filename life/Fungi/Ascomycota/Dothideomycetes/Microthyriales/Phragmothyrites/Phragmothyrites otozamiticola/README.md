@@ -1,5 +1,4 @@
-Phragmothyrites otozamiticola (Krassilov) Kalgutkar & Janson. SPECIES
-=======
+# Phragmothyrites otozamiticola (Krassilov) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

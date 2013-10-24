@@ -1,5 +1,4 @@
-Pyxidium sessile (Bull.) Gray SPECIES
-=======
+# Pyxidium sessile (Bull.) Gray SPECIES
 
 #### Status
 ACCEPTED

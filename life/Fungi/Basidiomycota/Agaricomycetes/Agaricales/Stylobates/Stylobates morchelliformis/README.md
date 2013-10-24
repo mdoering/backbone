@@ -1,5 +1,4 @@
-Stylobates morchelliformis Fr. SPECIES
-=======
+# Stylobates morchelliformis Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Limacella furnacea (Letell.) E.-J. Gilbert SPECIES
-=======
+# Limacella furnacea (Letell.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

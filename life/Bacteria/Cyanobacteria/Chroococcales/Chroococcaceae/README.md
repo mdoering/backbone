@@ -1,5 +1,4 @@
-Chroococcaceae Rabenhorst, 1863 FAMILY
-=======
+# Chroococcaceae Rabenhorst, 1863 FAMILY
 
 #### Status
 ACCEPTED

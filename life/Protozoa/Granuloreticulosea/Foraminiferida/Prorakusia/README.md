@@ -1,5 +1,4 @@
-Prorakusia di Bari & Laghi, 1994 GENUS
-=======
+# Prorakusia di Bari & Laghi, 1994 GENUS
 
 #### Status
 ACCEPTED

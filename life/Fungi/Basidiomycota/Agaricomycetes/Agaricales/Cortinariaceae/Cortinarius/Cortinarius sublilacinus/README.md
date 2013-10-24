@@ -1,17 +1,16 @@
-Cortinaria sublilacina Murrill SPECIES
-=======
+# Cortinarius sublilacinus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 7(4): 320 (1945)
 
 #### Original name
-Cortinaria sublilacina Murrill
+Cortinarius sublilacinus Murrill
 
 ### Remarks
 null

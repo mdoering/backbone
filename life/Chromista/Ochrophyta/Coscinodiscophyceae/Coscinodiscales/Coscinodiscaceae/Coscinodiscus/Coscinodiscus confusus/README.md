@@ -1,5 +1,4 @@
-Coscinodiscus confusus Rattray, 1890 SPECIES
-=======
+# Coscinodiscus confusus Rattray, 1890 SPECIES
 
 #### Status
 ACCEPTED

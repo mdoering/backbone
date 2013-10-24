@@ -1,5 +1,4 @@
-Vermicularia conidifera Prill. & Delacr. SPECIES
-=======
+# Vermicularia conidifera Prill. & Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerosporium vagans (Speg.) G. Arnaud SPECIES
-=======
+# Dimerosporium vagans (Speg.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

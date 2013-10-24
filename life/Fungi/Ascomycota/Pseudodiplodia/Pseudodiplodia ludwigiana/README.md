@@ -1,5 +1,4 @@
-Pseudodiplodia ludwigiana (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia ludwigiana (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

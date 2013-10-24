@@ -1,5 +1,4 @@
-Buellia melaxanthiza (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia melaxanthiza (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

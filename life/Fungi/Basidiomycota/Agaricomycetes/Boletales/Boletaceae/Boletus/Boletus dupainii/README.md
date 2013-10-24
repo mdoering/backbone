@@ -1,5 +1,4 @@
-Boletus dupainii Boud. SPECIES
-=======
+# Boletus dupainii Boud. SPECIES
 
 #### Status
 ACCEPTED

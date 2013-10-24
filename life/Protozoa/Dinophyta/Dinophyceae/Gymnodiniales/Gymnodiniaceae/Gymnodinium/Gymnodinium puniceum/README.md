@@ -1,5 +1,4 @@
-Gymnodinium puniceum Kofoid & Swezy SPECIES
-=======
+# Gymnodinium puniceum Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

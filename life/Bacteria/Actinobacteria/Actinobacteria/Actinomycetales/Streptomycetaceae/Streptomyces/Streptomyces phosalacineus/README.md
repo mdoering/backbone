@@ -1,5 +1,4 @@
-Streptomyces phosalacineus (Takahashi et al., 1985) Wellington et al., 1992 SPECIES
-=======
+# Streptomyces phosalacineus (Takahashi et al., 1985) Wellington et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

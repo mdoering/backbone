@@ -1,5 +1,4 @@
-Pseudocercospora vismiicola (Chupp) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora vismiicola (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhaphidophora lacroixii Mont. SPECIES
-=======
+# Rhaphidophora lacroixii Mont. SPECIES
 
 #### Status
 ACCEPTED

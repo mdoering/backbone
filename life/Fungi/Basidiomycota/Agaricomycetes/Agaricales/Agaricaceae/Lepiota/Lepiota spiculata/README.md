@@ -1,5 +1,4 @@
-Lepiota spiculata Pegler SPECIES
-=======
+# Lepiota spiculata Pegler SPECIES
 
 #### Status
 ACCEPTED

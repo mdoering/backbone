@@ -1,5 +1,4 @@
-Gloeosporium canavaliae Syd. & P. Syd. SPECIES
-=======
+# Gloeosporium canavaliae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

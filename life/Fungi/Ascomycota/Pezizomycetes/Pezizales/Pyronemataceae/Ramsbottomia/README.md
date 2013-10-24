@@ -1,5 +1,4 @@
-Ramsbottomia W.D. Buckley GENUS
-=======
+# Ramsbottomia W.D. Buckley GENUS
 
 #### Status
 ACCEPTED

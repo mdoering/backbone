@@ -1,5 +1,4 @@
-Paranectria coralloides (Maubl.) Hansf. SPECIES
-=======
+# Paranectria coralloides (Maubl.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria duppensis A.W. Archer & Malcolm SPECIES
-=======
+# Pertusaria duppensis A.W. Archer & Malcolm SPECIES
 
 #### Status
 ACCEPTED

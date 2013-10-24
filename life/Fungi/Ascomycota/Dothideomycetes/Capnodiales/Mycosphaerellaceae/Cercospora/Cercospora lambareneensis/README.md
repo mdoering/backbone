@@ -1,5 +1,4 @@
-Cercospora lambareneensis J.M. Yen SPECIES
-=======
+# Cercospora lambareneensis J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

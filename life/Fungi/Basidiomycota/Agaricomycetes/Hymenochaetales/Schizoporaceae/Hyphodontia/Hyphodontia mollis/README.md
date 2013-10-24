@@ -1,17 +1,16 @@
-Xylodon lenis Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia mollis Sheng H. Wu, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta bot. fenn. 142: 95 (1990)
 
 #### Original name
-null
+Hyphodontia mollis Sheng H. Wu, 1990
 
 ### Remarks
 null

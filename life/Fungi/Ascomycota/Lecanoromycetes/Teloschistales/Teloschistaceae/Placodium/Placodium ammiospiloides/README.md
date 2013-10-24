@@ -1,5 +1,4 @@
-Placodium ammiospiloides (Nyl.) Räsänen SPECIES
-=======
+# Placodium ammiospiloides (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

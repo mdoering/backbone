@@ -1,5 +1,4 @@
-Candelabrochaete Boidin, 1970 GENUS
-=======
+# Candelabrochaete Boidin, 1970 GENUS
 
 #### Status
 ACCEPTED

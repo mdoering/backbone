@@ -1,5 +1,4 @@
-Otthiella cyathoidea Rehm SPECIES
-=======
+# Otthiella cyathoidea Rehm SPECIES
 
 #### Status
 ACCEPTED

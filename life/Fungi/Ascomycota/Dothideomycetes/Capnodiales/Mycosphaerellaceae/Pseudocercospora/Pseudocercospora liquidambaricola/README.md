@@ -1,5 +1,4 @@
-Pseudocercospora liquidambaricola (J.M. Yen) U. Braun SPECIES
-=======
+# Pseudocercospora liquidambaricola (J.M. Yen) U. Braun SPECIES
 
 #### Status
 ACCEPTED

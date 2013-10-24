@@ -1,5 +1,4 @@
-Conoplea quercina Pers. SPECIES
-=======
+# Conoplea quercina Pers. SPECIES
 
 #### Status
 ACCEPTED

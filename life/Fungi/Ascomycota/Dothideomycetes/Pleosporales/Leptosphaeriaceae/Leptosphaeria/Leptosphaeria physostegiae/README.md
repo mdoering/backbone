@@ -1,5 +1,4 @@
-Leptosphaeria physostegiae Fairm. SPECIES
-=======
+# Leptosphaeria physostegiae Fairm. SPECIES
 
 #### Status
 ACCEPTED

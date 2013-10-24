@@ -1,5 +1,4 @@
-Russula griseoflaccida Sarnari SPECIES
-=======
+# Russula griseoflaccida Sarnari SPECIES
 
 #### Status
 ACCEPTED

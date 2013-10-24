@@ -1,5 +1,4 @@
-Fellhanera winkleriana Lücking SPECIES
-=======
+# Fellhanera winkleriana Lücking SPECIES
 
 #### Status
 ACCEPTED

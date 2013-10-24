@@ -1,5 +1,4 @@
-Hormodendrum chamaeleon Goid. SPECIES
-=======
+# Hormodendrum chamaeleon Goid. SPECIES
 
 #### Status
 ACCEPTED

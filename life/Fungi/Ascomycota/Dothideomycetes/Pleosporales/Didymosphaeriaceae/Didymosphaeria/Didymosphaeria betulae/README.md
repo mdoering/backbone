@@ -1,5 +1,4 @@
-Didymosphaeria betulae (Niessl) Sacc. SPECIES
-=======
+# Didymosphaeria betulae (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

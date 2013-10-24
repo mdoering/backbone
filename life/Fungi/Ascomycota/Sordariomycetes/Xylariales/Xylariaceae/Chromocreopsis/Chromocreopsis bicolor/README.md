@@ -1,5 +1,4 @@
-Chromocreopsis bicolor (Ellis & Everh.) Seaver SPECIES
-=======
+# Chromocreopsis bicolor (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

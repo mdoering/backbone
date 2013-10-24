@@ -1,5 +1,4 @@
-Cordierites muscoides Berk. & M.A. Curtis SPECIES
-=======
+# Cordierites muscoides Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

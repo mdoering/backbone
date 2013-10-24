@@ -1,5 +1,4 @@
-Volvariella paraguayensis (Speg.) Shaffer SPECIES
-=======
+# Volvariella paraguayensis (Speg.) Shaffer SPECIES
 
 #### Status
 ACCEPTED

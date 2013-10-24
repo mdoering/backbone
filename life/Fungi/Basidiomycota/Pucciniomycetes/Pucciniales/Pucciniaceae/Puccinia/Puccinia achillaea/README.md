@@ -1,5 +1,4 @@
-Puccinia achillaea SPECIES
-=======
+# Puccinia achillaea SPECIES
 
 #### Status
 ACCEPTED

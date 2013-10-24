@@ -1,5 +1,4 @@
-Conocybe solitaria K.A. Thomas, Hauskn. & Manim. SPECIES
-=======
+# Conocybe solitaria K.A. Thomas, Hauskn. & Manim. SPECIES
 
 #### Status
 ACCEPTED

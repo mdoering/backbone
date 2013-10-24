@@ -1,5 +1,4 @@
-Microdiplodia camelliae (Berl.) Sacc. SPECIES
-=======
+# Microdiplodia camelliae (Berl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria nigropunctata Speg. SPECIES
-=======
+# Nectria nigropunctata Speg. SPECIES
 
 #### Status
 ACCEPTED

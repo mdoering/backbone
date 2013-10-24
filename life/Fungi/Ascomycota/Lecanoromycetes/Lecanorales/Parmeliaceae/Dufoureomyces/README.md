@@ -1,5 +1,4 @@
-Dufoureomyces GENUS
-=======
+# Dufoureomyces GENUS
 
 #### Status
 ACCEPTED

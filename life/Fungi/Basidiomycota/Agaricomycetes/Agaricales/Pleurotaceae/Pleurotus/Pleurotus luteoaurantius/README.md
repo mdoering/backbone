@@ -1,5 +1,4 @@
-Pleurotus luteoaurantius (Kalchbr.) Sacc. SPECIES
-=======
+# Pleurotus luteoaurantius (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

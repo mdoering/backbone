@@ -1,5 +1,4 @@
-Loma camerounensis SPECIES
-=======
+# Loma camerounensis SPECIES
 
 #### Status
 ACCEPTED

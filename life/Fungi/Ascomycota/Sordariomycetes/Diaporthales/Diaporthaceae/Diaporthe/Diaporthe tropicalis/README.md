@@ -1,5 +1,4 @@
-Diaporthe tropicalis Speg. SPECIES
-=======
+# Diaporthe tropicalis Speg. SPECIES
 
 #### Status
 ACCEPTED

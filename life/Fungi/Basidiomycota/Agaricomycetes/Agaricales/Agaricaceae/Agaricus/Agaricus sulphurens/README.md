@@ -1,5 +1,4 @@
-Agaricus sulphurens SPECIES
-=======
+# Agaricus sulphurens SPECIES
 
 #### Status
 ACCEPTED

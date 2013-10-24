@@ -1,5 +1,4 @@
-Gloeosporium davisii Ellis & Everh. SPECIES
-=======
+# Gloeosporium davisii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

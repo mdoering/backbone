@@ -1,5 +1,4 @@
-Sphaeria graminicola Haller, 1768 SPECIES
-=======
+# Sphaeria graminicola Haller, 1768 SPECIES
 
 #### Status
 ACCEPTED

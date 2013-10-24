@@ -1,5 +1,4 @@
-Brachysporium belgolandicum Schaumann SPECIES
-=======
+# Brachysporium belgolandicum Schaumann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lingulina aselliformis Buchner, 1942 SPECIES
-=======
+# Lingulina aselliformis Buchner, 1942 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobatopedis elegans P.M. Kirk, 1982 SPECIES
-=======
+# Lobatopedis elegans P.M. Kirk, 1982 SPECIES
 
 #### Status
 ACCEPTED

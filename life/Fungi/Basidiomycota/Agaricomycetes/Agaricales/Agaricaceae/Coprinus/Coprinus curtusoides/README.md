@@ -1,5 +1,4 @@
-Coprinus curtusoides Bogart SPECIES
-=======
+# Coprinus curtusoides Bogart SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria erythraeae Henn. SPECIES
-=======
+# Trematosphaeria erythraeae Henn. SPECIES
 
 #### Status
 ACCEPTED

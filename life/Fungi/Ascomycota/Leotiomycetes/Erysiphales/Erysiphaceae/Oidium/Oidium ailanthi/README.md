@@ -1,17 +1,16 @@
-Oidium ailanthii P.K. Dubey, P. Prakash & Manohar. SPECIES
-=======
+# Oidium ailanthi P.K. Dubey, P. Prakash & Manohar. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Botanical Reporter 2(2): 157 (1984)
 
 #### Original name
-Oidium ailanthii P.K. Dubey, P. Prakash & Manohar.
+Oidium ailanthi P.K. Dubey, P. Prakash & Manohar.
 
 ### Remarks
 null

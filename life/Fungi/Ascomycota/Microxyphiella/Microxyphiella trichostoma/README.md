@@ -1,5 +1,4 @@
-Microxyphiella trichostoma (Speg.) Bat. & Cif. SPECIES
-=======
+# Microxyphiella trichostoma (Speg.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella fraxinophila A.H. Sm. SPECIES
-=======
+# Psathyrella fraxinophila A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

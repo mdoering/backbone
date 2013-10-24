@@ -1,5 +1,4 @@
-Heterobasidion parviporum Niemelä & Korhonen, 1998 SPECIES
-=======
+# Heterobasidion parviporum Niemelä & Korhonen, 1998 SPECIES
 
 #### Status
 ACCEPTED

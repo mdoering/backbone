@@ -1,5 +1,4 @@
-Parmastomyces umbrinus Corner, 1989 SPECIES
-=======
+# Parmastomyces umbrinus Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

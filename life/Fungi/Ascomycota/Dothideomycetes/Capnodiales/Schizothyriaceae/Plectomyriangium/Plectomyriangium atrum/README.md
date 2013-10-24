@@ -1,5 +1,4 @@
-Plectomyriangium atrum C. Moreau & M. Moreau SPECIES
-=======
+# Plectomyriangium atrum C. Moreau & M. Moreau SPECIES
 
 #### Status
 ACCEPTED

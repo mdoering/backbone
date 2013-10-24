@@ -1,5 +1,4 @@
-Mollisia dextrinospora Korf, 1980 SPECIES
-=======
+# Mollisia dextrinospora Korf, 1980 SPECIES
 
 #### Status
 ACCEPTED

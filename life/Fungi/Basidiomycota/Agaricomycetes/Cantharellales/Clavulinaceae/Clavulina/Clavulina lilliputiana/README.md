@@ -1,5 +1,4 @@
-Clavulina lilliputiana Trappe & Castellano SPECIES
-=======
+# Clavulina lilliputiana Trappe & Castellano SPECIES
 
 #### Status
 ACCEPTED

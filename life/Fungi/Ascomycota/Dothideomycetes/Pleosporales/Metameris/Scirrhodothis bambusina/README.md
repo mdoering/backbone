@@ -1,5 +1,4 @@
-Scirrhodothis bambusina (Penz. & Sacc.) Theiss. & Syd. SPECIES
-=======
+# Scirrhodothis bambusina (Penz. & Sacc.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

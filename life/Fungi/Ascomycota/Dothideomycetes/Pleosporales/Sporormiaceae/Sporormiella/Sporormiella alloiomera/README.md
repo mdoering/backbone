@@ -1,5 +1,4 @@
-Sporormiella alloiomera S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella alloiomera S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactifluus capsicoides (Fr.) Kuntze SPECIES
-=======
+# Lactifluus capsicoides (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo panici-plicati Sawada SPECIES
-=======
+# Uredo panici-plicati Sawada SPECIES
 
 #### Status
 ACCEPTED

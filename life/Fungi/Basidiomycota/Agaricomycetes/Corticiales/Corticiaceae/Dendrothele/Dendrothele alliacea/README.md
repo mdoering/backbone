@@ -1,17 +1,16 @@
-Corticium alliaceum var. aceris Schulzer VARIETY
-=======
+# Dendrothele alliacea (Quél.) P.A. Lemke, 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 24: 148 (1885)
+Persoonia 3(3): 366 (1965)
 
 #### Original name
-Corticium alliaceum var. aceris Schulzer
+Corticium alliaceum Quél., 1884
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Podaxis deciduus Bat. SPECIES
-=======
+# Podaxis deciduus Bat. SPECIES
 
 #### Status
 ACCEPTED

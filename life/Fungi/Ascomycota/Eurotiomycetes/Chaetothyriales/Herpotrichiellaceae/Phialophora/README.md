@@ -1,8 +1,7 @@
-Lecythophora Nannfeldt, 1934 GENUS
-=======
+# Phialophora Medlar, 1915 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

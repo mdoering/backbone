@@ -1,5 +1,4 @@
-Helocarpon pulverulum (Th. Fr.) Turkenst. & Hafellner SPECIES
-=======
+# Helocarpon pulverulum (Th. Fr.) Turkenst. & Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina parabranchicola Laird, 1953 SPECIES
-=======
+# Trichodina parabranchicola Laird, 1953 SPECIES
 
 #### Status
 ACCEPTED

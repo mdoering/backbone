@@ -1,5 +1,4 @@
-Marasmius marasmioides (Singer) Singer SPECIES
-=======
+# Marasmius marasmioides (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

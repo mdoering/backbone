@@ -1,5 +1,4 @@
-Sporidesmium paludosum M.B. Ellis, 1958 SPECIES
-=======
+# Sporidesmium paludosum M.B. Ellis, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hypochnicium bombycinum f. ramulosa Bourdot FORM
-=======
+# Hypochnicium bombycinum (Sommerf.) J. Erikss., 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 16(no. 1): 101 (1958)
 
 #### Original name
-null
+Thelephora bombycina Sommerf., 1826
 
 ### Remarks
 null

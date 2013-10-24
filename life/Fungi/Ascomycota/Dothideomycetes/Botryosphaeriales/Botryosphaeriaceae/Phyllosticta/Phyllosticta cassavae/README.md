@@ -1,5 +1,4 @@
-Phyllosticta cassavae Sawada SPECIES
-=======
+# Phyllosticta cassavae Sawada SPECIES
 
 #### Status
 ACCEPTED

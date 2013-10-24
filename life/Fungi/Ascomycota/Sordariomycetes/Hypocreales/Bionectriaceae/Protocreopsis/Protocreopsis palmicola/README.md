@@ -1,5 +1,4 @@
-Protocreopsis palmicola Yoshim. Doi SPECIES
-=======
+# Protocreopsis palmicola Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

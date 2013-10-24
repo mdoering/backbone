@@ -1,8 +1,7 @@
-Desmarestia aculeata f. viridescens A.Zinova FORM
-=======
+# Desmarestia aculeata (Linnaeus) J.V. Lamouroux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

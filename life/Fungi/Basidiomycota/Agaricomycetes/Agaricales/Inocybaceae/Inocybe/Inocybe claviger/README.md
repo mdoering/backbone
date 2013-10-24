@@ -1,5 +1,4 @@
-Inocybe claviger E. Horak & Bas SPECIES
-=======
+# Inocybe claviger E. Horak & Bas SPECIES
 
 #### Status
 ACCEPTED

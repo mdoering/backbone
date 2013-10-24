@@ -1,5 +1,4 @@
-Metulodontia sphaericospora Gilb. & Hemmes SPECIES
-=======
+# Metulodontia sphaericospora Gilb. & Hemmes SPECIES
 
 #### Status
 ACCEPTED

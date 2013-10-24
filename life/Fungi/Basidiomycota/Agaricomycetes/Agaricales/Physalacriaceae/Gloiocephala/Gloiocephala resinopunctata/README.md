@@ -1,5 +1,4 @@
-Gloiocephala resinopunctata Manim. & K.A. Thomas SPECIES
-=======
+# Gloiocephala resinopunctata Manim. & K.A. Thomas SPECIES
 
 #### Status
 ACCEPTED

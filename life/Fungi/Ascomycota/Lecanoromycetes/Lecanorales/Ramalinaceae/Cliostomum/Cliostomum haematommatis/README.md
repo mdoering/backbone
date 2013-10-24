@@ -1,5 +1,4 @@
-Cliostomum haematommatis (Keissl.) D. Hawksw. SPECIES
-=======
+# Cliostomum haematommatis (Keissl.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

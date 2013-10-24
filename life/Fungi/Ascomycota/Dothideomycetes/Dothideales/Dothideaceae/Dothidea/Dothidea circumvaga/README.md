@@ -1,5 +1,4 @@
-Dothidea circumvaga var. circumvaga VARIETY
-=======
+# Dothidea circumvaga Desm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dothidea circumvaga var. circumvaga
+Dothidea circumvaga Desm.
 
 ### Remarks
 null

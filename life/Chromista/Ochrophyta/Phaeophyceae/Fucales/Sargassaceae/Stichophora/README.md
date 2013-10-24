@@ -1,5 +1,4 @@
-Stichophora (Endlicher) Kützing, 1845 GENUS
-=======
+# Stichophora (Endlicher) Kützing, 1845 GENUS
 
 #### Status
 ACCEPTED

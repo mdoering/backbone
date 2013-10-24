@@ -1,5 +1,4 @@
-Septoria laburni Pass. SPECIES
-=======
+# Septoria laburni Pass. SPECIES
 
 #### Status
 ACCEPTED

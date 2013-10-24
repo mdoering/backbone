@@ -1,5 +1,4 @@
-Pyricularia globbae Siwasin & Giatgong SPECIES
-=======
+# Pyricularia globbae Siwasin & Giatgong SPECIES
 
 #### Status
 ACCEPTED

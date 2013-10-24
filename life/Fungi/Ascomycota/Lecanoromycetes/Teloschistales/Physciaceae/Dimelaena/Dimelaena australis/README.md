@@ -1,5 +1,4 @@
-Dimelaena australis SPECIES
-=======
+# Dimelaena australis SPECIES
 
 #### Status
 ACCEPTED

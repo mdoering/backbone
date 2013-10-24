@@ -1,5 +1,4 @@
-Catillaria perminuta B. de Lesd. SPECIES
-=======
+# Catillaria perminuta B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

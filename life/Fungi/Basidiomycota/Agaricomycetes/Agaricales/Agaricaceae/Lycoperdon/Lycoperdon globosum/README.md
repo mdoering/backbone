@@ -1,5 +1,4 @@
-Lycoperdon globosum Bolton, 1790 SPECIES
-=======
+# Lycoperdon globosum Bolton, 1790 SPECIES
 
 #### Status
 ACCEPTED

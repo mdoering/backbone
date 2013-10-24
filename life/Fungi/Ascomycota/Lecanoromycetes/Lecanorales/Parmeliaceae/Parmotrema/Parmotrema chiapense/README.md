@@ -1,5 +1,4 @@
-Parmotrema chiapense (Hale) Hale SPECIES
-=======
+# Parmotrema chiapense (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gasparrinia etesiae (Nyl.) Oxner SPECIES
-=======
+# Gasparrinia etesiae (Nyl.) Oxner SPECIES
 
 #### Status
 ACCEPTED

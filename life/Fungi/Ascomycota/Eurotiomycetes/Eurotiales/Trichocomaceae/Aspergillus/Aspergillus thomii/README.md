@@ -1,5 +1,4 @@
-Aspergillus thomii G. Sm., 1951 SPECIES
-=======
+# Aspergillus thomii G. Sm., 1951 SPECIES
 
 #### Status
 ACCEPTED

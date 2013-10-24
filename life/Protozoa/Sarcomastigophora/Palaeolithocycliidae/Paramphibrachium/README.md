@@ -1,5 +1,4 @@
-Paramphibrachium Kozur & Mostler, 1978 GENUS
-=======
+# Paramphibrachium Kozur & Mostler, 1978 GENUS
 
 #### Status
 ACCEPTED

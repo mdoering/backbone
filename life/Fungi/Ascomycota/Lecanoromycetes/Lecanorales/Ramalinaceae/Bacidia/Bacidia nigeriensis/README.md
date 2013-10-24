@@ -1,5 +1,4 @@
-Bacidia nigeriensis C.W. Dodge SPECIES
-=======
+# Bacidia nigeriensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium striassimum Hulbert SPECIES
-=======
+# Gymnodinium striassimum Hulbert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoalteromonas marina Nam, Chang, Park, Kwon, Quan, Park, Lee, Yoon & Bae, 2007 SPECIES
-=======
+# Pseudoalteromonas marina Nam, Chang, Park, Kwon, Quan, Park, Lee, Yoon & Bae, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylocrea elliotti A.L. Sm. SPECIES
-=======
+# Xylocrea elliotti A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiocordyceps ryogamiensis (Kobayasi & Shimizu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps ryogamiensis (Kobayasi & Shimizu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

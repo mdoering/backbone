@@ -1,5 +1,4 @@
-Cercidospora media (Sacc.) Kuntze SPECIES
-=======
+# Cercidospora media (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbilicaria fuliginosa Pers. SPECIES
-=======
+# Umbilicaria fuliginosa Pers. SPECIES
 
 #### Status
 ACCEPTED

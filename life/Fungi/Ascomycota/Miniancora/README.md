@@ -1,5 +1,4 @@
-Miniancora Marvanová & Bärl. GENUS
-=======
+# Miniancora Marvanová & Bärl. GENUS
 
 #### Status
 ACCEPTED

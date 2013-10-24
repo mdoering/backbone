@@ -1,5 +1,4 @@
-Polyscytalum fragile R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Polyscytalum fragile R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

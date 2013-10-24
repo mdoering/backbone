@@ -1,5 +1,4 @@
-Pseudocyphellaria ceylonensis H. Magn. SPECIES
-=======
+# Pseudocyphellaria ceylonensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

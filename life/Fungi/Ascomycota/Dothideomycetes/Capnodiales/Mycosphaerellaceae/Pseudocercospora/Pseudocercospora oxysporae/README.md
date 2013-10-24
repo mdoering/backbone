@@ -1,5 +1,4 @@
-Pseudocercospora oxysporae (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora oxysporae (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

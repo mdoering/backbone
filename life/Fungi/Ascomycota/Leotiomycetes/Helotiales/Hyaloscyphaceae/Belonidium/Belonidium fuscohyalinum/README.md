@@ -1,5 +1,4 @@
-Belonidium fuscohyalinum Rehm SPECIES
-=======
+# Belonidium fuscohyalinum Rehm SPECIES
 
 #### Status
 ACCEPTED

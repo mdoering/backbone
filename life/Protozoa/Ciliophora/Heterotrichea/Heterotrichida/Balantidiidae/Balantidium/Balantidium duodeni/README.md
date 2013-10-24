@@ -1,8 +1,7 @@
-Balantidiopsis duodeni (Stein, 1867) Bütschli, 1889 SPECIES
-=======
+# Balantidium duodeni Stein, 1867 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

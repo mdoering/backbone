@@ -1,5 +1,4 @@
-Rhodococcus rhodnii Goodfellow and Alderson, 1979 (Approved Lists, 1980) SPECIES
-=======
+# Rhodococcus rhodnii Goodfellow and Alderson, 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

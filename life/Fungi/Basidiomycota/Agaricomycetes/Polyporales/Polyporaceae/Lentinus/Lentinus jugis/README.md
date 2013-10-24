@@ -1,5 +1,4 @@
-Lentinus jugis (Fr.) Fr. SPECIES
-=======
+# Lentinus jugis (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

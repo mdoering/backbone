@@ -1,5 +1,4 @@
-Streblotrichia Guignard GENUS
-=======
+# Streblotrichia Guignard GENUS
 
 #### Status
 DOUBTFUL

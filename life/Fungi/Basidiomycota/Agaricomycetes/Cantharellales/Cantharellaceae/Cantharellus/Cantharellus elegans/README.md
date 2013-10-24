@@ -1,5 +1,4 @@
-Cantharellus elegans Berk. & Broome SPECIES
-=======
+# Cantharellus elegans Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

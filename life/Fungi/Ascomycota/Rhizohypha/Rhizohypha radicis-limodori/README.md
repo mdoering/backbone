@@ -1,5 +1,4 @@
-Rhizohypha radicis-limodori Chodat & Sigr., 1911 SPECIES
-=======
+# Rhizohypha radicis-limodori Chodat & Sigr., 1911 SPECIES
 
 #### Status
 ACCEPTED

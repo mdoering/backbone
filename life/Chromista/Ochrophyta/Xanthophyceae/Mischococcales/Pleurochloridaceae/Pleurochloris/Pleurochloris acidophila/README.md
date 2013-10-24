@@ -1,5 +1,4 @@
-Pleurochloris acidophila Fritsch & John SPECIES
-=======
+# Pleurochloris acidophila Fritsch & John SPECIES
 
 #### Status
 ACCEPTED

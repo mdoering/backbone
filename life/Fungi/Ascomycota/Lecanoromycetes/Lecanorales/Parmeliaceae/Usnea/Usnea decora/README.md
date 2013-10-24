@@ -1,5 +1,4 @@
-Usnea decora Motyka SPECIES
-=======
+# Usnea decora Motyka SPECIES
 
 #### Status
 ACCEPTED

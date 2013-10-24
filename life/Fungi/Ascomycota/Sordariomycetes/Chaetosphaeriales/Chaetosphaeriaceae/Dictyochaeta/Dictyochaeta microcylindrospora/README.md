@@ -1,5 +1,4 @@
-Dictyochaeta microcylindrospora Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Dictyochaeta microcylindrospora Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

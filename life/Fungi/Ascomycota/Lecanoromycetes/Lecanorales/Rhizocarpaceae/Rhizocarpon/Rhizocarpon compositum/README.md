@@ -1,5 +1,4 @@
-Rhizocarpon compositum I.M. Lamb SPECIES
-=======
+# Rhizocarpon compositum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

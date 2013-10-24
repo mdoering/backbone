@@ -1,14 +1,13 @@
-Kuehneola markhamiae (Henn.) P. Syd. & Syd., 1914 SPECIES
-=======
+# Phragmidiella markhamiae Henn., 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Uredin. (Lipsiae) 3(2): 318 (1914)
+Bot. Jb. 38: (1905)
 
 #### Original name
 Phragmidiella markhamiae Henn., 1905

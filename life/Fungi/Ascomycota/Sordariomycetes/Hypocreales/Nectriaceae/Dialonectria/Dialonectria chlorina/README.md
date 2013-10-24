@@ -1,5 +1,4 @@
-Dialonectria chlorina (P. Crouan & H. Crouan) Cooke SPECIES
-=======
+# Dialonectria chlorina (P. Crouan & H. Crouan) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psiloglonium uspallatense (Speg.) E. Boehm & C.L. Schoch, 2009 SPECIES
-=======
+# Psiloglonium uspallatense (Speg.) E. Boehm & C.L. Schoch, 2009 SPECIES
 
 #### Status
 ACCEPTED

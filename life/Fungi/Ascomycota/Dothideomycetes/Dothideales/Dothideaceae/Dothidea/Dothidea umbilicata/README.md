@@ -1,5 +1,4 @@
-Dothidea umbilicata Fr. SPECIES
-=======
+# Dothidea umbilicata Fr. SPECIES
 
 #### Status
 ACCEPTED

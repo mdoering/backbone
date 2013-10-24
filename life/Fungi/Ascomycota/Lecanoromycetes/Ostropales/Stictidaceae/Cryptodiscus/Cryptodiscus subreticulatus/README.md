@@ -1,5 +1,4 @@
-Cryptodiscus subreticulatus (Berk. & Broome) Sacc. SPECIES
-=======
+# Cryptodiscus subreticulatus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

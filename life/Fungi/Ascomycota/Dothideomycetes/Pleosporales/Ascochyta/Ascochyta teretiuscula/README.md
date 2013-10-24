@@ -1,14 +1,13 @@
-Diplodina teretiuscula (Sacc. & Roum.) Died. SPECIES
-=======
+# Ascochyta teretiuscula Sacc. & Roum., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 10(2): 140 (1912)
+Michelia 2(no. 8): 622 (1882)
 
 #### Original name
 Ascochyta teretiuscula Sacc. & Roum., 1882

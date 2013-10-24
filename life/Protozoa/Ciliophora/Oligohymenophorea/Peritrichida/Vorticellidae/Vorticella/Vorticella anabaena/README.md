@@ -1,5 +1,4 @@
-Vorticella anabaena Stiller, 1940 SPECIES
-=======
+# Vorticella anabaena Stiller, 1940 SPECIES
 
 #### Status
 ACCEPTED

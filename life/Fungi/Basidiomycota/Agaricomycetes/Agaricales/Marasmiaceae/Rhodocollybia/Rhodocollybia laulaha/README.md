@@ -1,5 +1,4 @@
-Rhodocollybia laulaha Desjardin, Halling & Hemmes SPECIES
-=======
+# Rhodocollybia laulaha Desjardin, Halling & Hemmes SPECIES
 
 #### Status
 ACCEPTED

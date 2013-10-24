@@ -1,5 +1,4 @@
-Niptera ramincola Rehm SPECIES
-=======
+# Niptera ramincola Rehm SPECIES
 
 #### Status
 ACCEPTED

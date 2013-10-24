@@ -1,17 +1,16 @@
-Septoria pseudophoma Sacc., 1879 SPECIES
-=======
+# Diaporthe putator Nitschke, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 5): 528 (1879)
+Pyrenomycetes Germanici 2: 306 (1870)
 
 #### Original name
-Septoria pseudophoma Sacc., 1879
+Diaporthe putator Nitschke, 1870
 
 ### Remarks
 null

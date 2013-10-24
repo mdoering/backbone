@@ -1,5 +1,4 @@
-Valvulineria biohermalis SPECIES
-=======
+# Valvulineria biohermalis SPECIES
 
 #### Status
 ACCEPTED

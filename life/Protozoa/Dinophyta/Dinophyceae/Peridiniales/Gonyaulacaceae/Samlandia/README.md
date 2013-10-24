@@ -1,5 +1,4 @@
-Samlandia A. Eisenack, 1954 GENUS
-=======
+# Samlandia A. Eisenack, 1954 GENUS
 
 #### Status
 ACCEPTED

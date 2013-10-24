@@ -1,8 +1,7 @@
-Misgomyces coneglianensis (Speg.) Thaxt. SPECIES
-=======
+# Misgomyces coneglanensis (Speg.) Thaxt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,17 +1,16 @@
-Cercospora kleinhoviae Höhn., 1907 SPECIES
-=======
+# Pseudocercospora kleinhoviae (Höhn.) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 140: 117 (1976)
 
 #### Original name
-null
+Cercospora kleinhofiae Höhn.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Hydnum sinclairii Berk., 1867 SPECIES
-=======
+# Phellodon sinclairii (Berk.) G. Cunn., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handb. N. Z. Fl. 756 (1867)
+Trans. Roy. Soc. New Zealand 85(4): 590 (1958)
 
 #### Original name
 Hydnum sinclairii Berk., 1867

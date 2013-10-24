@@ -1,5 +1,4 @@
-Sphaeria orni De Not. SPECIES
-=======
+# Sphaeria orni De Not. SPECIES
 
 #### Status
 ACCEPTED

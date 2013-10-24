@@ -1,5 +1,4 @@
-Lignosus superpositus (Berk.) Lloyd. SPECIES
-=======
+# Lignosus superpositus (Berk.) Lloyd. SPECIES
 
 #### Status
 ACCEPTED

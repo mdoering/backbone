@@ -1,5 +1,4 @@
-Urceolaria austronorvegica (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria austronorvegica (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

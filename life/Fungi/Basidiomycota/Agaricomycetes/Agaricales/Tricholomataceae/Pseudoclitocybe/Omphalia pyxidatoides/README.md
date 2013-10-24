@@ -1,5 +1,4 @@
-Omphalia pyxidatoides A. Pearson SPECIES
-=======
+# Omphalia pyxidatoides A. Pearson SPECIES
 
 #### Status
 ACCEPTED

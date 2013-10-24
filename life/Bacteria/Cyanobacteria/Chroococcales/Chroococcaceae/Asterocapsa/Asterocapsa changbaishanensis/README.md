@@ -1,5 +1,4 @@
-Asterocapsa changbaishanensis Wang SPECIES
-=======
+# Asterocapsa changbaishanensis Wang SPECIES
 
 #### Status
 ACCEPTED

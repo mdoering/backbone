@@ -1,5 +1,4 @@
-Keriosphaera gemma Pascher SPECIES
-=======
+# Keriosphaera gemma Pascher SPECIES
 
 #### Status
 ACCEPTED

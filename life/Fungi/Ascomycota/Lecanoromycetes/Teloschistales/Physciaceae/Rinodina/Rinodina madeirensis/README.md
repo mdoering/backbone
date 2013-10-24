@@ -1,5 +1,4 @@
-Rinodina madeirensis Kalb & Hafellner SPECIES
-=======
+# Rinodina madeirensis Kalb & Hafellner SPECIES
 
 #### Status
 ACCEPTED

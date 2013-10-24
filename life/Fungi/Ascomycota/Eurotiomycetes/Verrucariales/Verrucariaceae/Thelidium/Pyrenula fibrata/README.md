@@ -1,5 +1,4 @@
-Pyrenula fibrata (Stirt. ex F.M. Bailey) Zahlbr., 1922 SPECIES
-=======
+# Pyrenula fibrata (Stirt. ex F.M. Bailey) Zahlbr., 1922 SPECIES
 
 #### Status
 DOUBTFUL

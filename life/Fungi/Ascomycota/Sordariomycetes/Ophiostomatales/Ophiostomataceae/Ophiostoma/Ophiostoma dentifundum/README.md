@@ -1,5 +1,4 @@
-Ophiostoma dentifundum Aghayeva & M.J. Wingf. SPECIES
-=======
+# Ophiostoma dentifundum Aghayeva & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

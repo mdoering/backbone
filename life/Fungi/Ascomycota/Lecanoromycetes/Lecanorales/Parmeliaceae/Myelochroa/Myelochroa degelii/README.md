@@ -1,14 +1,13 @@
-Parmelina degelii Hale SPECIES
-=======
+# Myelochroa degelii (Hale) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Smithson. Contr. bot. 33: 25 (1976)
+Mycotaxon 29: 240 (1987)
 
 #### Original name
 Parmelina degelii Hale

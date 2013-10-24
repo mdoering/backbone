@@ -1,5 +1,4 @@
-Septoria tini (Arcang.) Sacc. SPECIES
-=======
+# Septoria tini (Arcang.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

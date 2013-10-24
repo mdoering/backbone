@@ -1,5 +1,4 @@
-Physarum botrytis Sommerf. SPECIES
-=======
+# Physarum botrytis Sommerf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium bicuspidatum (Berk.) Kuntze SPECIES
-=======
+# Coniothyrium bicuspidatum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

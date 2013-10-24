@@ -1,5 +1,4 @@
-Aecidium berberidis-ruscifoliae Henn. SPECIES
-=======
+# Aecidium berberidis-ruscifoliae Henn. SPECIES
 
 #### Status
 ACCEPTED

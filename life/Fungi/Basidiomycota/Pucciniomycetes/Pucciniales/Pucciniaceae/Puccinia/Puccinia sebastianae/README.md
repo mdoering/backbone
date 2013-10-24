@@ -1,5 +1,4 @@
-Puccinia sebastianae Syd. {?} SPECIES
-=======
+# Puccinia sebastianae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

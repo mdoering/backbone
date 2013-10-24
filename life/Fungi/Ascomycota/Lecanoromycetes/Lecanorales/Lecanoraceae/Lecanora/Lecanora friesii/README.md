@@ -1,5 +1,4 @@
-Lecanora friesii Lynge SPECIES
-=======
+# Lecanora friesii Lynge SPECIES
 
 #### Status
 ACCEPTED

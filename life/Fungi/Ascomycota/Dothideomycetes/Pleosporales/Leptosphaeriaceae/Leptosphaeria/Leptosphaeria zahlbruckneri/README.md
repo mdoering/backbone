@@ -1,5 +1,4 @@
-Leptosphaeria zahlbruckneri Strasser SPECIES
-=======
+# Leptosphaeria zahlbruckneri Strasser SPECIES
 
 #### Status
 ACCEPTED

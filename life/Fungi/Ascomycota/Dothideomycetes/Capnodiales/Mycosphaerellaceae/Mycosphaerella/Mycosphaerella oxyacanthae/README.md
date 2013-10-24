@@ -1,14 +1,13 @@
-Sphaerella oxyacanthae (Jaap) Sacc. & Trotter, 1913 SPECIES
-=======
+# Mycosphaerella oxyacanthae Jaap, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 22: 127 (1913)
+null
 
 #### Original name
 Mycosphaerella oxyacanthae Jaap, 1907

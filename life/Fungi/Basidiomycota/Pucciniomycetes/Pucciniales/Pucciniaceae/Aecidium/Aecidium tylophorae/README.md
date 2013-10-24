@@ -1,5 +1,4 @@
-Aecidium tylophorae Cooke SPECIES
-=======
+# Aecidium tylophorae Cooke SPECIES
 
 #### Status
 ACCEPTED

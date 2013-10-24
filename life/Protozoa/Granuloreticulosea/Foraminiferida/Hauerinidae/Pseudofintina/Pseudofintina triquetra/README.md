@@ -1,5 +1,4 @@
-Pseudofintina triquetra (Brady) SPECIES
-=======
+# Pseudofintina triquetra (Brady) SPECIES
 
 #### Status
 ACCEPTED

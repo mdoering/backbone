@@ -1,5 +1,4 @@
-Umbilicaria hottentotta Fée SPECIES
-=======
+# Umbilicaria hottentotta Fée SPECIES
 
 #### Status
 ACCEPTED

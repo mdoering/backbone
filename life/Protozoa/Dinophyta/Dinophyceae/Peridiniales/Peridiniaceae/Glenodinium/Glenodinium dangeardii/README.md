@@ -1,5 +1,4 @@
-Glenodinium dangeardii (Dangeard) Lemmermann SPECIES
-=======
+# Glenodinium dangeardii (Dangeard) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Secotium decipiens Peck SPECIES
-=======
+# Secotium decipiens Peck SPECIES
 
 #### Status
 ACCEPTED

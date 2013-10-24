@@ -1,5 +1,4 @@
-Parmelia synalliza (Ach.) Ach. SPECIES
-=======
+# Parmelia synalliza (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

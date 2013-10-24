@@ -1,5 +1,4 @@
-Stereum contrastum Lloyd SPECIES
-=======
+# Stereum contrastum Lloyd SPECIES
 
 #### Status
 ACCEPTED

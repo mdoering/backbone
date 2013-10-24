@@ -1,5 +1,4 @@
-Torula sacchari-lactis Oudem. SPECIES
-=======
+# Torula sacchari-lactis Oudem. SPECIES
 
 #### Status
 ACCEPTED

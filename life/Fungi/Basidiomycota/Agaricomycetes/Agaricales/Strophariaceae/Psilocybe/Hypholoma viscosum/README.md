@@ -1,5 +1,4 @@
-Hypholoma viscosum Velen. SPECIES
-=======
+# Hypholoma viscosum Velen. SPECIES
 
 #### Status
 ACCEPTED

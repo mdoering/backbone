@@ -1,5 +1,4 @@
-Chytridium coconeidis Canter SPECIES
-=======
+# Chytridium coconeidis Canter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius funiculosus Corner SPECIES
-=======
+# Marasmius funiculosus Corner SPECIES
 
 #### Status
 ACCEPTED

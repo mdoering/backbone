@@ -1,5 +1,4 @@
-Endophyllum euphorbiae-nicaeensis Liou SPECIES
-=======
+# Endophyllum euphorbiae-nicaeensis Liou SPECIES
 
 #### Status
 ACCEPTED

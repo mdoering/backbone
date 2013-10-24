@@ -1,5 +1,4 @@
-Capnodium sphaeroideum Delacr. SPECIES
-=======
+# Capnodium sphaeroideum Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassothamnidae Haecker, 1906 FAMILY
-=======
+# Thalassothamnidae Haecker, 1906 FAMILY
 
 #### Status
 ACCEPTED

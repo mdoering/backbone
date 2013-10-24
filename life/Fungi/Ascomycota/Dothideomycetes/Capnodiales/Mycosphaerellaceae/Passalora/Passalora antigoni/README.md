@@ -1,5 +1,4 @@
-Passalora antigoni (M.L. Farr) U. Braun & Crous SPECIES
-=======
+# Passalora antigoni (M.L. Farr) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

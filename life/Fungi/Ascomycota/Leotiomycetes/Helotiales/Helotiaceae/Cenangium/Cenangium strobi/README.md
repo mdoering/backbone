@@ -1,5 +1,4 @@
-Cenangium strobi Fr. SPECIES
-=======
+# Cenangium strobi Fr. SPECIES
 
 #### Status
 ACCEPTED

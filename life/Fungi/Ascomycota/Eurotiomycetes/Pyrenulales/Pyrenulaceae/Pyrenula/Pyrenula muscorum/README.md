@@ -1,5 +1,4 @@
-Pyrenula muscorum Hepp SPECIES
-=======
+# Pyrenula muscorum Hepp SPECIES
 
 #### Status
 ACCEPTED

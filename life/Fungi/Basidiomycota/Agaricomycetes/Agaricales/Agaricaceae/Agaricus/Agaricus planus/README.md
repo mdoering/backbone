@@ -1,5 +1,4 @@
-Agaricus planus var. planus VARIETY
-=======
+# Agaricus planus Schumach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hist. fung. Halifax (Huddersfield) 2: 73 (1788)
 
 #### Original name
-Agaricus planus var. planus
+Agaricus planus Schumach.
 
 ### Remarks
 null

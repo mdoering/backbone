@@ -1,5 +1,4 @@
-Huglusphaera yini SPECIES
-=======
+# Huglusphaera yini SPECIES
 
 #### Status
 ACCEPTED

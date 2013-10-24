@@ -1,5 +1,4 @@
-Tenacibaculum litopenaei Sheu, Lin, Chou, Chang, Arun, Young & Chen, 2007 SPECIES
-=======
+# Tenacibaculum litopenaei Sheu, Lin, Chou, Chang, Arun, Young & Chen, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbum daphnopsidis Pat. SPECIES
-=======
+# Stilbum daphnopsidis Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amazonia gomphandrae Hosag. SPECIES
-=======
+# Amazonia gomphandrae Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haladaptatus Savage, Krumholz, Oren & Elshahed, 2007 GENUS
-=======
+# Haladaptatus Savage, Krumholz, Oren & Elshahed, 2007 GENUS
 
 #### Status
 ACCEPTED

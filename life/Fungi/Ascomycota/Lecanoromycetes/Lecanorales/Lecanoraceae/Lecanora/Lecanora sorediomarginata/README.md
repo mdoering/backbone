@@ -1,5 +1,4 @@
-Lecanora sorediomarginata Rodrigues, Terrón & Elix SPECIES
-=======
+# Lecanora sorediomarginata Rodrigues, Terrón & Elix SPECIES
 
 #### Status
 ACCEPTED

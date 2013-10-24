@@ -1,5 +1,4 @@
-Passalora mertensiae U. Braun & Rogerson SPECIES
-=======
+# Passalora mertensiae U. Braun & Rogerson SPECIES
 
 #### Status
 ACCEPTED

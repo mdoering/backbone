@@ -1,5 +1,4 @@
-Amanita tjibodensis Boedijn SPECIES
-=======
+# Amanita tjibodensis Boedijn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia inornata (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Bacidia inornata (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

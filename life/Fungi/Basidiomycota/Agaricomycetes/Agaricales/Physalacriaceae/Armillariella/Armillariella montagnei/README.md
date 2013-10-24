@@ -1,5 +1,4 @@
-Armillariella montagnei var. montagnei VARIETY
-=======
+# Armillariella montagnei Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lloydia 19: 182 (1956)
 
 #### Original name
-Armillariella montagnei var. montagnei
+Armillariella montagnei Singer
 
 ### Remarks
 null

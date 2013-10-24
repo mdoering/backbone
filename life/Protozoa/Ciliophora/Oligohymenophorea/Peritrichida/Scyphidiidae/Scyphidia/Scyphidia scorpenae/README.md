@@ -1,5 +1,4 @@
-Scyphidia scorpenae Fabre-Domergue, 1888 SPECIES
-=======
+# Scyphidia scorpenae Fabre-Domergue, 1888 SPECIES
 
 #### Status
 ACCEPTED

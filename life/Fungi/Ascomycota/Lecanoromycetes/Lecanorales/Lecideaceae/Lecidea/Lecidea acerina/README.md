@@ -1,5 +1,4 @@
-Lecidea acerina (Ach.) Röhling SPECIES
-=======
+# Lecidea acerina (Ach.) Röhling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongomonas intestinalis Cienkowski SPECIES
-=======
+# Spongomonas intestinalis Cienkowski SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phyllachora zollingeri (Mont. & Berk.) Cooke SPECIES
-=======
+# Phaeodothiopsis zollingeri (Mont. & Berk.) Theiss. & Syd., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 69 (1885)
+Annls mycol. 12(2): 192 (1914)
 
 #### Original name
 Dothidea zollingeri Mont. & Berk., 1845

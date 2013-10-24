@@ -1,5 +1,4 @@
-Platystomum cotini (Fabre) Lindau SPECIES
-=======
+# Platystomum cotini (Fabre) Lindau SPECIES
 
 #### Status
 ACCEPTED

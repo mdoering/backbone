@@ -1,5 +1,4 @@
-Puccinia makiana Hirats. SPECIES
-=======
+# Puccinia makiana Hirats. SPECIES
 
 #### Status
 ACCEPTED

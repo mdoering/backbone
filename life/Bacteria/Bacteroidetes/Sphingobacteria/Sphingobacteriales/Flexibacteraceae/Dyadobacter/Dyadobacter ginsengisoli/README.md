@@ -1,5 +1,4 @@
-Dyadobacter ginsengisoli Liu et al., 2006 SPECIES
-=======
+# Dyadobacter ginsengisoli Liu et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

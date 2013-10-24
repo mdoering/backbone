@@ -1,5 +1,4 @@
-Psora aenea (Dufour) anzi SPECIES
-=======
+# Psora aenea (Dufour) anzi SPECIES
 
 #### Status
 ACCEPTED

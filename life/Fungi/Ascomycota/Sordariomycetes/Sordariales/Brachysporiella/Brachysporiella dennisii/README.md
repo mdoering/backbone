@@ -1,5 +1,4 @@
-Brachysporiella dennisii J.L. Crane & Dumont SPECIES
-=======
+# Brachysporiella dennisii J.L. Crane & Dumont SPECIES
 
 #### Status
 ACCEPTED

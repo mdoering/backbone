@@ -1,5 +1,4 @@
-Autoicomyces aquatilis (F. Picard) I.I. Tav. SPECIES
-=======
+# Autoicomyces aquatilis (F. Picard) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

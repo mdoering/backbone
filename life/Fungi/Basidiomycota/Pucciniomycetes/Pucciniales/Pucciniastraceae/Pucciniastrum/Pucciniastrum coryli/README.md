@@ -1,5 +1,4 @@
-Pucciniastrum coryli Kom., 1899 SPECIES
-=======
+# Pucciniastrum coryli Kom., 1899 SPECIES
 
 #### Status
 ACCEPTED

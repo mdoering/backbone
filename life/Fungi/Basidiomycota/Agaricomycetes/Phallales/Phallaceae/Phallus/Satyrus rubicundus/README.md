@@ -1,5 +1,4 @@
-Satyrus rubicundus Bosc SPECIES
-=======
+# Satyrus rubicundus Bosc SPECIES
 
 #### Status
 ACCEPTED

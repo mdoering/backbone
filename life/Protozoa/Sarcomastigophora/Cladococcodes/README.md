@@ -1,5 +1,4 @@
-Cladococcodes Haeckel, 1887 GENUS
-=======
+# Cladococcodes Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

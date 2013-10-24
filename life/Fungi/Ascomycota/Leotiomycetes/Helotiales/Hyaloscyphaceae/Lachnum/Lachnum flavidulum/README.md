@@ -1,5 +1,4 @@
-Lachnum flavidulum (Rehm) J.H. Haines SPECIES
-=======
+# Lachnum flavidulum (Rehm) J.H. Haines SPECIES
 
 #### Status
 ACCEPTED

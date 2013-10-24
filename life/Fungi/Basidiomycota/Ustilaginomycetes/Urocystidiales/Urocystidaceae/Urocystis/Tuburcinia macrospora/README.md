@@ -1,5 +1,4 @@
-Tuburcinia macrospora (Desm.) Liro SPECIES
-=======
+# Tuburcinia macrospora (Desm.) Liro SPECIES
 
 #### Status
 ACCEPTED

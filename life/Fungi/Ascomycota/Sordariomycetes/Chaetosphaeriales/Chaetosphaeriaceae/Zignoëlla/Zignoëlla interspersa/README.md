@@ -1,5 +1,4 @@
-Zignoëlla interspersa Penz. & Sacc. SPECIES
-=======
+# Zignoëlla interspersa Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

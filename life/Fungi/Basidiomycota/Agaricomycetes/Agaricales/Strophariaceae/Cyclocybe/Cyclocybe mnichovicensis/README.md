@@ -1,5 +1,4 @@
-Cyclocybe mnichovicensis Velen. SPECIES
-=======
+# Cyclocybe mnichovicensis Velen. SPECIES
 
 #### Status
 ACCEPTED

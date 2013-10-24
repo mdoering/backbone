@@ -1,5 +1,4 @@
-Uredinopsis phegopteridis Arthur SPECIES
-=======
+# Uredinopsis phegopteridis Arthur SPECIES
 
 #### Status
 ACCEPTED

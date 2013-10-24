@@ -1,17 +1,16 @@
-Peltidea canina var. canina VARIETY
-=======
+# Peltigera canina (L.) Willd. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Berol. Prodr. 347 (1787)
 
 #### Original name
-Peltidea canina var. canina
+Lichen caninus L.
 
 ### Remarks
 null

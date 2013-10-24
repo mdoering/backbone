@@ -1,17 +1,16 @@
-Mucor rufescens A. Fisch., 1892 SPECIES
-=======
+# Mucor odoratus Treschew, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(4): 192 (1892)
+Bot. Tidsskr. 45: 148 (1940)
 
 #### Original name
-Mucor rufescens A. Fisch., 1892
+Mucor odoratus Treschew, 1940
 
 ### Remarks
 null

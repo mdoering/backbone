@@ -1,5 +1,4 @@
-Leptonia striatula (Hesler) Largent SPECIES
-=======
+# Leptonia striatula (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

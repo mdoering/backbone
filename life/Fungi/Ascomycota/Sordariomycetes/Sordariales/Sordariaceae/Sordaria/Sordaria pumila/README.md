@@ -1,5 +1,4 @@
-Sordaria pumila A. Bayer SPECIES
-=======
+# Sordaria pumila A. Bayer SPECIES
 
 #### Status
 ACCEPTED

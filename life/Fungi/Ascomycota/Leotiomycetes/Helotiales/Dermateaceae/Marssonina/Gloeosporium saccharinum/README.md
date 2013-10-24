@@ -1,5 +1,4 @@
-Gloeosporium saccharinum Ellis & Everh. SPECIES
-=======
+# Gloeosporium saccharinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

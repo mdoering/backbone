@@ -1,5 +1,4 @@
-Urceolaria obvallata (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria obvallata (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

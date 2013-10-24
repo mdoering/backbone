@@ -1,5 +1,4 @@
-Hygrocybe lacma (Schumach.) P.D. Orton & Watling, 1969 SPECIES
-=======
+# Hygrocybe lacma (Schumach.) P.D. Orton & Watling, 1969 SPECIES
 
 #### Status
 ACCEPTED

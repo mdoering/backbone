@@ -1,5 +1,4 @@
-Entyloma saniculae Peck SPECIES
-=======
+# Entyloma saniculae Peck SPECIES
 
 #### Status
 ACCEPTED

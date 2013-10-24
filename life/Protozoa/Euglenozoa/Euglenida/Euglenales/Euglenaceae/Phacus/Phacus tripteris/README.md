@@ -1,5 +1,4 @@
-Phacus tripteris Dujardin SPECIES
-=======
+# Phacus tripteris Dujardin SPECIES
 
 #### Status
 ACCEPTED

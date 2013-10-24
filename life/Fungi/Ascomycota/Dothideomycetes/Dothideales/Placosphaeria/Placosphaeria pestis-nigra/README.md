@@ -1,5 +1,4 @@
-Placosphaeria pestis-nigra Speg. SPECIES
-=======
+# Placosphaeria pestis-nigra Speg. SPECIES
 
 #### Status
 ACCEPTED

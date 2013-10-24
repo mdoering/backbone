@@ -1,5 +1,4 @@
-Inonotus japonicus Ryvarden, 2005 SPECIES
-=======
+# Inonotus japonicus Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

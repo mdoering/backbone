@@ -1,5 +1,4 @@
-Arthrobacter stackebrandtii Tvrzová et al., 2005 SPECIES
-=======
+# Arthrobacter stackebrandtii Tvrzová et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

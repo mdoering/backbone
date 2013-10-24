@@ -1,5 +1,4 @@
-Alanlordia Banner & Samuel, 1995 GENUS
-=======
+# Alanlordia Banner & Samuel, 1995 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentaria soluta (P. Karst.) Pilát SPECIES
-=======
+# Lentaria soluta (P. Karst.) Pilát SPECIES
 
 #### Status
 ACCEPTED

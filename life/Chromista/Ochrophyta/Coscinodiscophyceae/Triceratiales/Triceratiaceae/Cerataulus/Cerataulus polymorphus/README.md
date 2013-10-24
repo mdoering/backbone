@@ -1,5 +1,4 @@
-Cerataulus polymorphus (Montagne) Van Heurck SPECIES
-=======
+# Cerataulus polymorphus (Montagne) Van Heurck SPECIES
 
 #### Status
 ACCEPTED

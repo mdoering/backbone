@@ -1,5 +1,4 @@
-Trachelomonas werneri Bourrelly & Gayral SPECIES
-=======
+# Trachelomonas werneri Bourrelly & Gayral SPECIES
 
 #### Status
 ACCEPTED

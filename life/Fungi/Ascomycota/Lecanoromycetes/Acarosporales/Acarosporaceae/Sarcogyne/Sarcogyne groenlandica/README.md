@@ -1,5 +1,4 @@
-Sarcogyne groenlandica H. Magn. SPECIES
-=======
+# Sarcogyne groenlandica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

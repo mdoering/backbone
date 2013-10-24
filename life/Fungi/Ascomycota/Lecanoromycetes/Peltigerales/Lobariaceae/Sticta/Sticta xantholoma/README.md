@@ -1,5 +1,4 @@
-Sticta xantholoma Delise SPECIES
-=======
+# Sticta xantholoma Delise SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orromyces spiralis B. Sur & G.R. Ghosh, 1987 SPECIES
-=======
+# Orromyces spiralis B. Sur & G.R. Ghosh, 1987 SPECIES
 
 #### Status
 ACCEPTED

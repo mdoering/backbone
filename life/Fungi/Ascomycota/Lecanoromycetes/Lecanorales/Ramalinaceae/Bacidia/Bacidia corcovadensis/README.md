@@ -1,5 +1,4 @@
-Bacidia corcovadensis Malme SPECIES
-=======
+# Bacidia corcovadensis Malme SPECIES
 
 #### Status
 ACCEPTED

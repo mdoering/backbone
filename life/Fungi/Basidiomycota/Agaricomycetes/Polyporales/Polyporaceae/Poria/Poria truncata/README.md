@@ -1,5 +1,4 @@
-Poria truncata (Lloyd) Ginns SPECIES
-=======
+# Poria truncata (Lloyd) Ginns SPECIES
 
 #### Status
 ACCEPTED

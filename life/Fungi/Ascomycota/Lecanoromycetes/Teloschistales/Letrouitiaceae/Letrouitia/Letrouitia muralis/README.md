@@ -1,5 +1,4 @@
-Letrouitia muralis Hafellner SPECIES
-=======
+# Letrouitia muralis Hafellner SPECIES
 
 #### Status
 ACCEPTED

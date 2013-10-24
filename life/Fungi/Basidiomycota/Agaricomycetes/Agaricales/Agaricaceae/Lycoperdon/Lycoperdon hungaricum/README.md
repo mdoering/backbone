@@ -1,5 +1,4 @@
-Lycoperdon hungaricum Hollós SPECIES
-=======
+# Lycoperdon hungaricum Hollós SPECIES
 
 #### Status
 ACCEPTED

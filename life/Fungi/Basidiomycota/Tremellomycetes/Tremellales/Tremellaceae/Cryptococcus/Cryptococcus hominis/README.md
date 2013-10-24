@@ -1,5 +1,4 @@
-Cryptococcus hominis var. hominis VARIETY
-=======
+# Cryptococcus hominis Vuill. ex Guég. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cryptococcus hominis var. hominis
+Cryptococcus hominis Vuill. ex Guég.
 
 ### Remarks
 null

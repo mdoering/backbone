@@ -1,5 +1,4 @@
-Arthonia calospora Müll. Arg. SPECIES
-=======
+# Arthonia calospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

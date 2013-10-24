@@ -1,5 +1,4 @@
-Lophosphaeridium parverarum Stockmans & Willière, 1963 SPECIES
-=======
+# Lophosphaeridium parverarum Stockmans & Willière, 1963 SPECIES
 
 #### Status
 ACCEPTED

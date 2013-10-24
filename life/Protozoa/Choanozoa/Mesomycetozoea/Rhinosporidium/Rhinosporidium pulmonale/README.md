@@ -1,5 +1,4 @@
-Rhinosporidium pulmonale Kirschenblatt SPECIES
-=======
+# Rhinosporidium pulmonale Kirschenblatt SPECIES
 
 #### Status
 ACCEPTED

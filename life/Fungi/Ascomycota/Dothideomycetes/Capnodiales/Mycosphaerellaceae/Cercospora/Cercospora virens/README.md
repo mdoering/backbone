@@ -1,5 +1,4 @@
-Cercospora virens Sacc. SPECIES
-=======
+# Cercospora virens Sacc. SPECIES
 
 #### Status
 ACCEPTED

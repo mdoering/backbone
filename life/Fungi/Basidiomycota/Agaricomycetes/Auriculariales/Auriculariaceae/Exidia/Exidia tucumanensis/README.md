@@ -1,5 +1,4 @@
-Exidia tucumanensis Lowy SPECIES
-=======
+# Exidia tucumanensis Lowy SPECIES
 
 #### Status
 ACCEPTED

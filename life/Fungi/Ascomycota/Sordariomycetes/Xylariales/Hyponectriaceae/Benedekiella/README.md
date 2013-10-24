@@ -1,5 +1,4 @@
-Benedekiella GENUS
-=======
+# Benedekiella GENUS
 
 #### Status
 ACCEPTED

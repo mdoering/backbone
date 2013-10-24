@@ -1,5 +1,4 @@
-Ataxophragmiidae Schwager, 1877 FAMILY
-=======
+# Ataxophragmiidae Schwager, 1877 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia muscigera SPECIES
-=======
+# Collybia muscigera SPECIES
 
 #### Status
 ACCEPTED

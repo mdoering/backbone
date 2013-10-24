@@ -1,5 +1,4 @@
-Aecidium complanatum Barclay SPECIES
-=======
+# Aecidium complanatum Barclay SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea humicola Fink SPECIES
-=======
+# Lecidea humicola Fink SPECIES
 
 #### Status
 ACCEPTED

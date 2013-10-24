@@ -1,5 +1,4 @@
-Pyrenula cinerosa Ach. SPECIES
-=======
+# Pyrenula cinerosa Ach. SPECIES
 
 #### Status
 ACCEPTED

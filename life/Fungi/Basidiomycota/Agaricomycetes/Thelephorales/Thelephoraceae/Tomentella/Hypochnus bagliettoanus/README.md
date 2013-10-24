@@ -1,5 +1,4 @@
-Hypochnus bagliettoanus (Fr.) Sacc. SPECIES
-=======
+# Hypochnus bagliettoanus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

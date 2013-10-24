@@ -1,5 +1,4 @@
-Phloeospora cerris Kabát & Bubák SPECIES
-=======
+# Phloeospora cerris Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

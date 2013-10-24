@@ -1,5 +1,4 @@
-Botryobasidium sordidulum Boidin & Gilles, 1982 SPECIES
-=======
+# Botryobasidium sordidulum Boidin & Gilles, 1982 SPECIES
 
 #### Status
 ACCEPTED

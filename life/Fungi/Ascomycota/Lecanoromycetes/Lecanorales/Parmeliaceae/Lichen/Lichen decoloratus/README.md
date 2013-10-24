@@ -1,5 +1,4 @@
-Lichen decoloratus Ach. SPECIES
-=======
+# Lichen decoloratus Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus albiceps Peck SPECIES
-=======
+# Polyporus albiceps Peck SPECIES
 
 #### Status
 ACCEPTED

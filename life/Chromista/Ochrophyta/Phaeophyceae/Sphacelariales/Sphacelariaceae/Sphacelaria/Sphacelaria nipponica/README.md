@@ -1,5 +1,4 @@
-Sphacelaria nipponica Kitayama SPECIES
-=======
+# Sphacelaria nipponica Kitayama SPECIES
 
 #### Status
 ACCEPTED

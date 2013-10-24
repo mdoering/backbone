@@ -1,17 +1,16 @@
-Ovularia bistortae var. bistortae VARIETY
-=======
+# Ramularia bistortae Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 23-24: 361 (1870)
 
 #### Original name
-Ovularia bistortae var. bistortae
+Ramularia bistortae Fuckel, 1870
 
 ### Remarks
 null

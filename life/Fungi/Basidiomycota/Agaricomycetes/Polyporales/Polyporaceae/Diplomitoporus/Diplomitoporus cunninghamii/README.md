@@ -1,17 +1,16 @@
-Polyporus mollis var. resupinatus Pers. VARIETY
-=======
+# Diplomitoporus cunninghamii P.K. Buchanan & Ryvarden, 1998 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 36(2): 222 (1998)
 
 #### Original name
-Polyporus mollis var. resupinatus Pers.
+Diplomitoporus cunninghamii P.K. Buchanan & Ryvarden, 1998
 
 ### Remarks
 null

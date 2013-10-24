@@ -1,5 +1,4 @@
-Cercospora leeae Chidd. SPECIES
-=======
+# Cercospora leeae Chidd. SPECIES
 
 #### Status
 ACCEPTED

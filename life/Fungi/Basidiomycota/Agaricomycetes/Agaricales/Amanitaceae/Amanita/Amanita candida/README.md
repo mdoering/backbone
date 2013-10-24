@@ -1,5 +1,4 @@
-Amanita candida Peck SPECIES
-=======
+# Amanita candida Peck SPECIES
 
 #### Status
 ACCEPTED

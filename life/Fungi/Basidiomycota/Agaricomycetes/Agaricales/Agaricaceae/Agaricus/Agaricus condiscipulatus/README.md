@@ -1,5 +1,4 @@
-Agaricus condiscipulatus Berk. SPECIES
-=======
+# Agaricus condiscipulatus Berk. SPECIES
 
 #### Status
 ACCEPTED

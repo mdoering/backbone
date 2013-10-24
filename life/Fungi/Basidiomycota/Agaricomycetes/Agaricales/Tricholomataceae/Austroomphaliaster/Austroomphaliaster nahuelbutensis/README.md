@@ -1,5 +1,4 @@
-Austroomphaliaster nahuelbutensis Garrido, 1988 SPECIES
-=======
+# Austroomphaliaster nahuelbutensis Garrido, 1988 SPECIES
 
 #### Status
 ACCEPTED

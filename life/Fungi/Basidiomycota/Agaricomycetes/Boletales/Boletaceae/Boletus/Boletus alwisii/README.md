@@ -1,5 +1,4 @@
-Boletus alwisii Massee SPECIES
-=======
+# Boletus alwisii Massee SPECIES
 
 #### Status
 ACCEPTED

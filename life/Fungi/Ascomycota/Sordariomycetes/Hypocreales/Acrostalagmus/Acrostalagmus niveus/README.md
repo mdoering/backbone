@@ -1,5 +1,4 @@
-Acrostalagmus niveus Delacr. SPECIES
-=======
+# Acrostalagmus niveus Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora cheresina subsp. cheresina SUBSPECIES
-=======
+# Lecanora cheresina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora cheresina subsp. cheresina
+Lecanora cheresina Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhynchostoma lageniforme Teng SPECIES
-=======
+# Rhynchostoma lageniforme Teng SPECIES
 
 #### Status
 ACCEPTED

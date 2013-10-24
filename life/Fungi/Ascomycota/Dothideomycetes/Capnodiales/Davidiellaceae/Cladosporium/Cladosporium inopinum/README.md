@@ -1,14 +1,13 @@
-Cercospora inopina Petr., 1950 SPECIES
-=======
+# Cladosporium inopinum (Petr.) U. Braun, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 4: 570 (1950)
+Mycotaxon 55: 224 (1995)
 
 #### Original name
 Cercospora inopina Petr., 1950

@@ -1,5 +1,4 @@
-Gaudryinopsis Podobina, 1976 GENUS
-=======
+# Gaudryinopsis Podobina, 1976 GENUS
 
 #### Status
 ACCEPTED

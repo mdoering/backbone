@@ -1,5 +1,4 @@
-Placodium fuscoatroides (J. Steiner) Szatala SPECIES
-=======
+# Placodium fuscoatroides (J. Steiner) Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannoparmelia (Müll. Arg.) Darb. GENUS
-=======
+# Pannoparmelia (Müll. Arg.) Darb. GENUS
 
 #### Status
 ACCEPTED

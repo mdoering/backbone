@@ -1,5 +1,4 @@
-Peziza echinosperma Peck SPECIES
-=======
+# Peziza echinosperma Peck SPECIES
 
 #### Status
 ACCEPTED

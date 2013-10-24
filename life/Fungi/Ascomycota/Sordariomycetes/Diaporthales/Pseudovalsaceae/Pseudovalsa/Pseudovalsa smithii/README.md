@@ -1,5 +1,4 @@
-Pseudovalsa smithii Ellis & Everh. SPECIES
-=======
+# Pseudovalsa smithii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discolithus crux Deflandre & Fert SPECIES
-=======
+# Discolithus crux Deflandre & Fert SPECIES
 
 #### Status
 DOUBTFUL

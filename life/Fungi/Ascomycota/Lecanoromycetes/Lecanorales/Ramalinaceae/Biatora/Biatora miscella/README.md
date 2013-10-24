@@ -1,5 +1,4 @@
-Biatora miscella (Ach.) Fr. SPECIES
-=======
+# Biatora miscella (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

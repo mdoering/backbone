@@ -1,5 +1,4 @@
-Hyalopycnis hyalina Höhn., 1918 SPECIES
-=======
+# Hyalopycnis hyalina Höhn., 1918 SPECIES
 
 #### Status
 ACCEPTED

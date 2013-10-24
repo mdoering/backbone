@@ -1,5 +1,4 @@
-Aphanistis Sorokin GENUS
-=======
+# Aphanistis Sorokin GENUS
 
 #### Status
 ACCEPTED

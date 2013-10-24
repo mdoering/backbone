@@ -1,5 +1,4 @@
-Ombrophila solani Velen. SPECIES
-=======
+# Ombrophila solani Velen. SPECIES
 
 #### Status
 ACCEPTED

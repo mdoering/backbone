@@ -1,5 +1,4 @@
-Rhabdospora oxycocci Shear SPECIES
-=======
+# Rhabdospora oxycocci Shear SPECIES
 
 #### Status
 ACCEPTED

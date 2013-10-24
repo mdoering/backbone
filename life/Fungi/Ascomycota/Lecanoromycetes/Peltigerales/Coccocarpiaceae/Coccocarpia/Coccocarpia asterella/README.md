@@ -1,5 +1,4 @@
-Coccocarpia asterella (Nyl.) Vain. SPECIES
-=======
+# Coccocarpia asterella (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

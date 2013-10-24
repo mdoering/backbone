@@ -1,5 +1,4 @@
-Lindnera alba Fuss SPECIES
-=======
+# Lindnera alba Fuss SPECIES
 
 #### Status
 ACCEPTED

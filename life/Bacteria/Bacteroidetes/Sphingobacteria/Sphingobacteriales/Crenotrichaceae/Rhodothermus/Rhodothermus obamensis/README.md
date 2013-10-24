@@ -1,5 +1,4 @@
-Rhodothermus obamensis Sako et al., 1996 SPECIES
-=======
+# Rhodothermus obamensis Sako et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

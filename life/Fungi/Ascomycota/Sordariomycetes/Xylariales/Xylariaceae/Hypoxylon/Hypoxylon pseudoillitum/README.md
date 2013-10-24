@@ -1,5 +1,4 @@
-Hypoxylon pseudoillitum Lar.N. Vassiljeva SPECIES
-=======
+# Hypoxylon pseudoillitum Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

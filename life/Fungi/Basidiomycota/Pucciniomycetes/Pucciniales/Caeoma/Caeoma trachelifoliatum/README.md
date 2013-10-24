@@ -1,5 +1,4 @@
-Caeoma trachelifoliatum Schwein. SPECIES
-=======
+# Caeoma trachelifoliatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

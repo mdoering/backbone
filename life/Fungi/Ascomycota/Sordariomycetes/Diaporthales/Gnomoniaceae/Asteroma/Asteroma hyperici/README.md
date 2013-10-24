@@ -1,5 +1,4 @@
-Asteroma hyperici Lasch SPECIES
-=======
+# Asteroma hyperici Lasch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sentusidinium hexagonalis A. Kumar SPECIES
-=======
+# Sentusidinium hexagonalis A. Kumar SPECIES
 
 #### Status
 ACCEPTED

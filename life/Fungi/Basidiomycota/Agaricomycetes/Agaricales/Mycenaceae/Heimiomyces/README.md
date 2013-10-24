@@ -1,5 +1,4 @@
-Heimiomyces GENUS
-=======
+# Heimiomyces GENUS
 
 #### Status
 ACCEPTED

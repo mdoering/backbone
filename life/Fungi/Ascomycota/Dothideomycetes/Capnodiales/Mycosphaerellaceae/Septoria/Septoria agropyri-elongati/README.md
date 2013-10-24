@@ -1,5 +1,4 @@
-Septoria agropyri-elongati var. agropyri-elongati VARIETY
-=======
+# Septoria agropyri-elongati Lobik SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bolezni rastenii 17(3-4): 177 (1928)
 
 #### Original name
-Septoria agropyri-elongati var. agropyri-elongati
+Septoria agropyri-elongati Lobik
 
 ### Remarks
 null

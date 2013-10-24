@@ -1,5 +1,4 @@
-Graphina dealbata (Nyl.) Müll. Arg. SPECIES
-=======
+# Graphina dealbata (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

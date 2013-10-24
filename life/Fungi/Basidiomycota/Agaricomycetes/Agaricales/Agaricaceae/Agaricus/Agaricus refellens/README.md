@@ -1,5 +1,4 @@
-Agaricus refellens Britzelm. SPECIES
-=======
+# Agaricus refellens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

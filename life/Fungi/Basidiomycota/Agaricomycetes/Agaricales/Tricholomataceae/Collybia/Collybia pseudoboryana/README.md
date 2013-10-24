@@ -1,5 +1,4 @@
-Collybia pseudoboryana Dennis SPECIES
-=======
+# Collybia pseudoboryana Dennis SPECIES
 
 #### Status
 ACCEPTED

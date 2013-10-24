@@ -1,5 +1,4 @@
-Calostoma retisporum Boedijn SPECIES
-=======
+# Calostoma retisporum Boedijn SPECIES
 
 #### Status
 ACCEPTED

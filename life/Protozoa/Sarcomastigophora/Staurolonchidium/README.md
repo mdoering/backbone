@@ -1,5 +1,4 @@
-Staurolonchidium Haeckel, 1887 GENUS
-=======
+# Staurolonchidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

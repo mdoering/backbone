@@ -1,8 +1,7 @@
-Sahulia patelliformis Loeblich & Tappan, 1985 SPECIES
-=======
+# Sahulia barkeri (Hofker, 1978) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,14 +1,13 @@
-Helotium phascoides (Pers.) Fr., 1849 SPECIES
-=======
+# Hymenoscyphus phascoides (Pers.) Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 355 (1849)
+null
 
 #### Original name
 null

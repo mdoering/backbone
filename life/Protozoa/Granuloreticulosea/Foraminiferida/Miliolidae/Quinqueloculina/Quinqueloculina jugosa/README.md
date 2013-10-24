@@ -1,5 +1,4 @@
-Quinqueloculina jugosa SPECIES
-=======
+# Quinqueloculina jugosa SPECIES
 
 #### Status
 ACCEPTED

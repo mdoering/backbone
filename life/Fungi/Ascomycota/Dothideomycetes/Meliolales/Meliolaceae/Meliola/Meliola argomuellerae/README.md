@@ -1,5 +1,4 @@
-Meliola argomuellerae Hansf. SPECIES
-=======
+# Meliola argomuellerae Hansf. SPECIES
 
 #### Status
 ACCEPTED

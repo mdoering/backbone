@@ -1,5 +1,4 @@
-Ochromitra sphaerospora (Peck) Velen. SPECIES
-=======
+# Ochromitra sphaerospora (Peck) Velen. SPECIES
 
 #### Status
 ACCEPTED

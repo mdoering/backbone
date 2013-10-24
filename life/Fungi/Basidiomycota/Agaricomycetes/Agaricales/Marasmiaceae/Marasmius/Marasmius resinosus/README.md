@@ -1,17 +1,16 @@
-Marasmius resinosus var. resinosus VARIETY
-=======
+# Marasmius resinosus (Peck) Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Marasmius resinosus var. resinosus
+Agaricus resinosus Peck, 1873
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cladosporium lophodermii Georgescu & Tutunaru, 1958 SPECIES
-=======
+# Cladosporium lophodermii Georgescu & Tutunaru, 1958 SPECIES
 
 #### Status
 ACCEPTED

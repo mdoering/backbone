@@ -1,5 +1,4 @@
-Schizothrix rivularis (Wolle) Drouet SPECIES
-=======
+# Schizothrix rivularis (Wolle) Drouet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium olla H.E. Petersen SPECIES
-=======
+# Rhizophydium olla H.E. Petersen SPECIES
 
 #### Status
 ACCEPTED

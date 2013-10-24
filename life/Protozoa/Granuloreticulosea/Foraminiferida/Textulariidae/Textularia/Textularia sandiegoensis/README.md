@@ -1,5 +1,4 @@
-Textularia sandiegoensis Uchio, 1960 SPECIES
-=======
+# Textularia sandiegoensis Uchio, 1960 SPECIES
 
 #### Status
 ACCEPTED

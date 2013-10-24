@@ -1,5 +1,4 @@
-Parmelia appressa Spreng. SPECIES
-=======
+# Parmelia appressa Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nematospora hoehnelii (Rehm) Rossman SPECIES
-=======
+# Nematospora hoehnelii (Rehm) Rossman SPECIES
 
 #### Status
 ACCEPTED

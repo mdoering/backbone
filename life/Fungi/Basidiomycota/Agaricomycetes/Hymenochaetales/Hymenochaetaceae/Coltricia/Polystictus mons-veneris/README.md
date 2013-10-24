@@ -1,8 +1,7 @@
-Polystictus montis-veneris (Jungh.) Fr. SPECIES
-=======
+# Polystictus mons-veneris (Jungh.) Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

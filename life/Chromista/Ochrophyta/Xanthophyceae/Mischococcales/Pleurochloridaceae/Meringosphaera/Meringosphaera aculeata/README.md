@@ -1,5 +1,4 @@
-Meringosphaera aculeata Pascher SPECIES
-=======
+# Meringosphaera aculeata Pascher SPECIES
 
 #### Status
 ACCEPTED

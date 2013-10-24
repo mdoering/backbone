@@ -1,5 +1,4 @@
-Lingulotrochammina Hercogova, 1987 GENUS
-=======
+# Lingulotrochammina Hercogova, 1987 GENUS
 
 #### Status
 ACCEPTED

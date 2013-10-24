@@ -1,5 +1,4 @@
-Chaetomium berkeleyi J. Schröt. SPECIES
-=======
+# Chaetomium berkeleyi J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

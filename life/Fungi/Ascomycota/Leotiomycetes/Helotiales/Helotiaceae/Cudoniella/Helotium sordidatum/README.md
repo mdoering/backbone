@@ -1,5 +1,4 @@
-Helotium sordidatum P. Karst. & Starbäck SPECIES
-=======
+# Helotium sordidatum P. Karst. & Starbäck SPECIES
 
 #### Status
 ACCEPTED

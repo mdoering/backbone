@@ -1,5 +1,4 @@
-Umbillicaria crustulosa (Ach.) Frey SPECIES
-=======
+# Umbillicaria crustulosa (Ach.) Frey SPECIES
 
 #### Status
 DOUBTFUL

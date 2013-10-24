@@ -1,5 +1,4 @@
-Spongasterisculus Haeckel, 1887 GENUS
-=======
+# Spongasterisculus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

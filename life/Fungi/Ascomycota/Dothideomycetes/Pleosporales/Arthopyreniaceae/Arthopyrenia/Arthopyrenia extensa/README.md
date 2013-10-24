@@ -1,5 +1,4 @@
-Arthopyrenia extensa Zahlbr. SPECIES
-=======
+# Arthopyrenia extensa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

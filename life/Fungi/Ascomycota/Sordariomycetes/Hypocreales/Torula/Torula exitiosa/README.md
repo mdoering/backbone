@@ -1,5 +1,4 @@
-Torula exitiosa De Seynes SPECIES
-=======
+# Torula exitiosa De Seynes SPECIES
 
 #### Status
 ACCEPTED

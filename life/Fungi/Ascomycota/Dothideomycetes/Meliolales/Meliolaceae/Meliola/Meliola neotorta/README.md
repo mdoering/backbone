@@ -1,5 +1,4 @@
-Meliola neotorta S. Hughes SPECIES
-=======
+# Meliola neotorta S. Hughes SPECIES
 
 #### Status
 ACCEPTED

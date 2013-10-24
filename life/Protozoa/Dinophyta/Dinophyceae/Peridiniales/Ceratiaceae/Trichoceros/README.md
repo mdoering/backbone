@@ -1,5 +1,4 @@
-Trichoceros Böhm, 1931 GENUS
-=======
+# Trichoceros Böhm, 1931 GENUS
 
 #### Status
 ACCEPTED

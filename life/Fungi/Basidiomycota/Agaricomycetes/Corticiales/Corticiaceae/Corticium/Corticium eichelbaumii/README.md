@@ -1,5 +1,4 @@
-Corticium eichelbaumii Henn. SPECIES
-=======
+# Corticium eichelbaumii Henn. SPECIES
 
 #### Status
 ACCEPTED

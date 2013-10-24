@@ -1,5 +1,4 @@
-Ramularia lactucosa F. Lamb. & Fautrey SPECIES
-=======
+# Ramularia lactucosa F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

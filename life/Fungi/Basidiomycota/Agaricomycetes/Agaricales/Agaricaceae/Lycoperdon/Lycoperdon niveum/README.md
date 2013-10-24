@@ -1,5 +1,4 @@
-Lycoperdon niveum Kreisel SPECIES
-=======
+# Lycoperdon niveum Kreisel SPECIES
 
 #### Status
 ACCEPTED

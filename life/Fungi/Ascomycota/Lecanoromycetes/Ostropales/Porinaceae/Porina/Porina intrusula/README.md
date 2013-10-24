@@ -1,5 +1,4 @@
-Porina intrusula (Stirt.) Zahlbr. SPECIES
-=======
+# Porina intrusula (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

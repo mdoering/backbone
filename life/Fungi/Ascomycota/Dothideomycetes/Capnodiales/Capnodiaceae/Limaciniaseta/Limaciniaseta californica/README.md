@@ -1,5 +1,4 @@
-Limaciniaseta californica D.R. Reynolds, 1998 SPECIES
-=======
+# Limaciniaseta californica D.R. Reynolds, 1998 SPECIES
 
 #### Status
 ACCEPTED

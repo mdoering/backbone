@@ -1,5 +1,4 @@
-Xanthoparmelia pustulosorediata Hale SPECIES
-=======
+# Xanthoparmelia pustulosorediata Hale SPECIES
 
 #### Status
 ACCEPTED

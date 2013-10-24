@@ -1,5 +1,4 @@
-Sphaeria circulifer Heer SPECIES
-=======
+# Sphaeria circulifer Heer SPECIES
 
 #### Status
 ACCEPTED

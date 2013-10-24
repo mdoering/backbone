@@ -1,5 +1,4 @@
-Cortinarius resinaceus M.M. Moser & McKnight SPECIES
-=======
+# Cortinarius resinaceus M.M. Moser & McKnight SPECIES
 
 #### Status
 ACCEPTED

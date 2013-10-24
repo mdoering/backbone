@@ -1,5 +1,4 @@
-Marasmius austrorotula Singer SPECIES
-=======
+# Marasmius austrorotula Singer SPECIES
 
 #### Status
 ACCEPTED

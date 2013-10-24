@@ -1,5 +1,4 @@
-Pseudocercospora whalianensis (J.M. Yen & S.K. Sun) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora whalianensis (J.M. Yen & S.K. Sun) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

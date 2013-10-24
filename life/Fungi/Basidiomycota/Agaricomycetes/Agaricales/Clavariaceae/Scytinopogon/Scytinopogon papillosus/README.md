@@ -1,5 +1,4 @@
-Scytinopogon papillosus Corner SPECIES
-=======
+# Scytinopogon papillosus Corner SPECIES
 
 #### Status
 ACCEPTED

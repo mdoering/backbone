@@ -1,5 +1,4 @@
-Pseudocercospora schefflerae W.H. Hsieh & Goh SPECIES
-=======
+# Pseudocercospora schefflerae W.H. Hsieh & Goh SPECIES
 
 #### Status
 ACCEPTED

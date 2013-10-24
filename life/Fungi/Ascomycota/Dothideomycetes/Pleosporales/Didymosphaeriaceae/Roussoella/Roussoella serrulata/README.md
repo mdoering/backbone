@@ -1,14 +1,13 @@
-Amphisphaeria serrulata (Ellis & G. Martin) M.E. Barr, 1989 SPECIES
-=======
+# Roussoella serrulata (Ellis & G. Martin) K.D. Hyde & Aptroot, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 31: 24 (1989)
+in Aptroot, Nova Hedwigia 60(3-4): 369 (1995)
 
 #### Original name
 Didymosphaeria serrulata Ellis & G. Martin, 1885

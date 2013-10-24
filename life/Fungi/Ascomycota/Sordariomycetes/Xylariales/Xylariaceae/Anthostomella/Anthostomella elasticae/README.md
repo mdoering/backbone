@@ -1,5 +1,4 @@
-Anthostomella elasticae Koord. SPECIES
-=======
+# Anthostomella elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scoliciosporum atrosanguineum (Hepp) SPECIES
-=======
+# Scoliciosporum atrosanguineum (Hepp) SPECIES
 
 #### Status
 ACCEPTED

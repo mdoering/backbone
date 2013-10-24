@@ -1,5 +1,4 @@
-Imbricaria hottentottum (Ach.) Schwend. SPECIES
-=======
+# Imbricaria hottentottum (Ach.) Schwend. SPECIES
 
 #### Status
 ACCEPTED

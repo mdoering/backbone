@@ -1,5 +1,4 @@
-Hypocrea olivacea Cooke & Ellis SPECIES
-=======
+# Hypocrea olivacea Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

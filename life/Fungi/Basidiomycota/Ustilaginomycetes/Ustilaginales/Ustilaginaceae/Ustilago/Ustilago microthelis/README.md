@@ -1,5 +1,4 @@
-Ustilago microthelis Syd. & P. Syd. SPECIES
-=======
+# Ustilago microthelis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

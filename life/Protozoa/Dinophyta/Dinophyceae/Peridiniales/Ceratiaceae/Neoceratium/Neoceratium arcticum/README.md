@@ -1,5 +1,4 @@
-Neoceratium arcticum (Ehrenberg) F.Gómez, D.Moreira & P.López-Garcia, 2001 SPECIES
-=======
+# Neoceratium arcticum (Ehrenberg) F.Gómez, D.Moreira & P.López-Garcia, 2001 SPECIES
 
 #### Status
 ACCEPTED

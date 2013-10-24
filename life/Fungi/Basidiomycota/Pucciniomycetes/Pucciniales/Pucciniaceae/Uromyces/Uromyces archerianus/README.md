@@ -1,5 +1,4 @@
-Uromyces archerianus Arthur & Fromme SPECIES
-=======
+# Uromyces archerianus Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

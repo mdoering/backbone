@@ -1,5 +1,4 @@
-Thermotogales ORDER
-=======
+# Thermotogales ORDER
 
 #### Status
 ACCEPTED

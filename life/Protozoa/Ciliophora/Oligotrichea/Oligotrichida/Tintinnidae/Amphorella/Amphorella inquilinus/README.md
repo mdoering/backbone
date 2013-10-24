@@ -1,5 +1,4 @@
-Amphorella inquilinus Entz SPECIES
-=======
+# Amphorella inquilinus Entz SPECIES
 
 #### Status
 ACCEPTED

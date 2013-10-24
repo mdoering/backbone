@@ -1,5 +1,4 @@
-Mycosphaerella ilicis-canariensis Petr. SPECIES
-=======
+# Mycosphaerella ilicis-canariensis Petr. SPECIES
 
 #### Status
 ACCEPTED

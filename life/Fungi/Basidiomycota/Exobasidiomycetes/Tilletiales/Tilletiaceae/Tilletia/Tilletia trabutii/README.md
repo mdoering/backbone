@@ -1,8 +1,7 @@
-Tilletia trabuti Jacz. SPECIES
-=======
+# Tilletia trabutii Jacz. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tilletia trabuti Jacz.
+Tilletia trabutii Jacz.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Galerula paludicola G.F. Atk. SPECIES
-=======
+# Galerula paludicola G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

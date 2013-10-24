@@ -1,5 +1,4 @@
-Septoria tulipae Died. SPECIES
-=======
+# Septoria tulipae Died. SPECIES
 
 #### Status
 ACCEPTED

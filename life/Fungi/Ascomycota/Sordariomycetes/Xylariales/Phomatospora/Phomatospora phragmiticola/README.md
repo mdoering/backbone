@@ -1,5 +1,4 @@
-Phomatospora phragmiticola Poon & K.D. Hyde, 1998 SPECIES
-=======
+# Phomatospora phragmiticola Poon & K.D. Hyde, 1998 SPECIES
 
 #### Status
 ACCEPTED

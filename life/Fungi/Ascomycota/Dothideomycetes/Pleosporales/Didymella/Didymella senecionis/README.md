@@ -1,5 +1,4 @@
-Didymella senecionis Hollós SPECIES
-=======
+# Didymella senecionis Hollós SPECIES
 
 #### Status
 ACCEPTED

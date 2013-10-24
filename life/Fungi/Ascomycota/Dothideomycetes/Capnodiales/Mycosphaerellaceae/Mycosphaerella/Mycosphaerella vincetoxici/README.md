@@ -1,5 +1,4 @@
-Mycosphaerella vincetoxici (Sacc.) Lindau SPECIES
-=======
+# Mycosphaerella vincetoxici (Sacc.) Lindau SPECIES
 
 #### Status
 ACCEPTED

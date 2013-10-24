@@ -1,5 +1,4 @@
-Laboulbenia olivinicola Speg. SPECIES
-=======
+# Laboulbenia olivinicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Mycothyridium desertorum (Petr.) Petr., 1962 SPECIES
-=======
+# Xylosphaeria desertorum (Petr.) Petr., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 4: 19 (1950)
 
 #### Original name
 Thyridium desertorum Petr., 1940

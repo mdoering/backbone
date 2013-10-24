@@ -1,5 +1,4 @@
-Cyrtolophosidida Foissner, 1978 ORDER
-=======
+# Cyrtolophosidida Foissner, 1978 ORDER
 
 #### Status
 ACCEPTED

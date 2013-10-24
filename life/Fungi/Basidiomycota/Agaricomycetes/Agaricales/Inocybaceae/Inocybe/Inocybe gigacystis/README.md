@@ -1,5 +1,4 @@
-Inocybe gigacystis Singer SPECIES
-=======
+# Inocybe gigacystis Singer SPECIES
 
 #### Status
 ACCEPTED

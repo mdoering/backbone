@@ -1,5 +1,4 @@
-Alectoria boryana Delise SPECIES
-=======
+# Alectoria boryana Delise SPECIES
 
 #### Status
 ACCEPTED

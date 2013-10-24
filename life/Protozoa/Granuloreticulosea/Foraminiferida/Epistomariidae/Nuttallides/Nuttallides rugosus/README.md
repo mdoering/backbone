@@ -1,8 +1,7 @@
-Osangularia rugosa (Phleger & Parker, 1951) SPECIES
-=======
+# Nuttallides rugosus (Phleger & Parker, 1951) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

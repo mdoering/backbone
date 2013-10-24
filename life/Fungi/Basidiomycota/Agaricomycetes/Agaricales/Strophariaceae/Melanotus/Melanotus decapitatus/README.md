@@ -1,5 +1,4 @@
-Melanotus decapitatus Singer SPECIES
-=======
+# Melanotus decapitatus Singer SPECIES
 
 #### Status
 ACCEPTED

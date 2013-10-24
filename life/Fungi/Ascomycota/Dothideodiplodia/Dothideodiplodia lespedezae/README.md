@@ -1,5 +1,4 @@
-Dothideodiplodia lespedezae Ziling SPECIES
-=======
+# Dothideodiplodia lespedezae Ziling SPECIES
 
 #### Status
 ACCEPTED

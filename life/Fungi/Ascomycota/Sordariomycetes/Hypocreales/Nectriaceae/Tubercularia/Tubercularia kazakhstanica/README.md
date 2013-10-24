@@ -1,5 +1,4 @@
-Tubercularia kazakhstanica Schwarzman & Philimonova SPECIES
-=======
+# Tubercularia kazakhstanica Schwarzman & Philimonova SPECIES
 
 #### Status
 ACCEPTED

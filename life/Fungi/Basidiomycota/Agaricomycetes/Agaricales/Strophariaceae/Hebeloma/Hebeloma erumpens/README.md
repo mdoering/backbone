@@ -1,5 +1,4 @@
-Hebeloma erumpens Contu SPECIES
-=======
+# Hebeloma erumpens Contu SPECIES
 
 #### Status
 ACCEPTED

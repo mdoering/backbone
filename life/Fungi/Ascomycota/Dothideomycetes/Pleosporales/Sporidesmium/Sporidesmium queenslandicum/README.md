@@ -1,5 +1,4 @@
-Sporidesmium queenslandicum Matsush. SPECIES
-=======
+# Sporidesmium queenslandicum Matsush. SPECIES
 
 #### Status
 ACCEPTED

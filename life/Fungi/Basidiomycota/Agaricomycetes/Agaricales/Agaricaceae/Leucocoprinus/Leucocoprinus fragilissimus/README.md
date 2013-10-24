@@ -1,17 +1,16 @@
-Agaricus licmophorus Berk. & Broome, 1883 SPECIES
-=======
+# Leucocoprinus fragilissimus (Berk. & M.A. Curtis) Pat., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 5 12: 370 (1883)
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 171 (1900)
 
 #### Original name
-Agaricus licmophorus Berk. & Broome, 1883
+Hiatula fragilissima Ravenel & Berk., 1853
 
 ### Remarks
 null

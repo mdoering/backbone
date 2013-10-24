@@ -1,5 +1,4 @@
-Trichobelonium rehmii Feltgen SPECIES
-=======
+# Trichobelonium rehmii Feltgen SPECIES
 
 #### Status
 ACCEPTED

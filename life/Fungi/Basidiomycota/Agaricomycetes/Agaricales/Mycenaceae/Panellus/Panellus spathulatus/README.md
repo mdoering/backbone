@@ -1,5 +1,4 @@
-Panellus spathulatus K. Syme SPECIES
-=======
+# Panellus spathulatus K. Syme SPECIES
 
 #### Status
 ACCEPTED

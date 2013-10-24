@@ -1,5 +1,4 @@
-Haematomma hilare Zahlbr. SPECIES
-=======
+# Haematomma hilare Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

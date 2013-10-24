@@ -1,5 +1,4 @@
-Arthopyrenia incurva Müll. Arg. SPECIES
-=======
+# Arthopyrenia incurva Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

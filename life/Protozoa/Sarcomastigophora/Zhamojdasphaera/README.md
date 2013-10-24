@@ -1,5 +1,4 @@
-Zhamojdasphaera Kozur & Mostler, 1979 GENUS
-=======
+# Zhamojdasphaera Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

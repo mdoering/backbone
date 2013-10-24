@@ -1,5 +1,4 @@
-Phyllosticta soriformis Cooke & Massee SPECIES
-=======
+# Phyllosticta soriformis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

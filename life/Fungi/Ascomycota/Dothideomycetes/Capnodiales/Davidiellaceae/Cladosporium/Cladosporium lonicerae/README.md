@@ -1,5 +1,4 @@
-Cladosporium lonicerae Sawada SPECIES
-=======
+# Cladosporium lonicerae Sawada SPECIES
 
 #### Status
 ACCEPTED

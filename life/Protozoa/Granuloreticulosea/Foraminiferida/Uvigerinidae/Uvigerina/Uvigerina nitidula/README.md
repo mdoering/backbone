@@ -1,5 +1,4 @@
-Uvigerina nitidula Schwager SPECIES
-=======
+# Uvigerina nitidula Schwager SPECIES
 
 #### Status
 ACCEPTED

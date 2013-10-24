@@ -1,5 +1,4 @@
-Quasidiscus simmondsii B. Sutton, 1991 SPECIES
-=======
+# Quasidiscus simmondsii B. Sutton, 1991 SPECIES
 
 #### Status
 ACCEPTED

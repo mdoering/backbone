@@ -1,5 +1,4 @@
-Lophosphaeridium papulatum Martin, 1983 SPECIES
-=======
+# Lophosphaeridium papulatum Martin, 1983 SPECIES
 
 #### Status
 ACCEPTED

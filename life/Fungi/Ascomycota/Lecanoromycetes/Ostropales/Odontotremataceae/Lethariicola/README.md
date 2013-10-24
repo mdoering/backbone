@@ -1,5 +1,4 @@
-Lethariicola Grummann GENUS
-=======
+# Lethariicola Grummann GENUS
 
 #### Status
 ACCEPTED

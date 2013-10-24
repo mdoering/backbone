@@ -1,5 +1,4 @@
-Dendrosarcus facifer (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus facifer (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

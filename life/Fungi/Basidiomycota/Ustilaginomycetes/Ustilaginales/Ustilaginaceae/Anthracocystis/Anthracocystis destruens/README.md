@@ -1,5 +1,4 @@
-Anthracocystis destruens Bref. SPECIES
-=======
+# Anthracocystis destruens Bref. SPECIES
 
 #### Status
 ACCEPTED

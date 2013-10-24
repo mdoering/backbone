@@ -1,5 +1,4 @@
-Polystictus semi-incrustans Lloyd SPECIES
-=======
+# Polystictus semi-incrustans Lloyd SPECIES
 
 #### Status
 ACCEPTED

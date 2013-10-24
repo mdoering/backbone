@@ -1,5 +1,4 @@
-Trametes palisotii (Fr.) Imazeki SPECIES
-=======
+# Trametes palisotii (Fr.) Imazeki SPECIES
 
 #### Status
 ACCEPTED

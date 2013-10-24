@@ -1,5 +1,4 @@
-Heterodermia lepidota Swinscow & Krog SPECIES
-=======
+# Heterodermia lepidota Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

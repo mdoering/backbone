@@ -1,5 +1,4 @@
-Reticulophragmium venezuelanum (Maync, 1952) SPECIES
-=======
+# Reticulophragmium venezuelanum (Maync, 1952) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desmazieria tigrina (Follmann) Follmann & Huneck SPECIES
-=======
+# Desmazieria tigrina (Follmann) Follmann & Huneck SPECIES
 
 #### Status
 ACCEPTED

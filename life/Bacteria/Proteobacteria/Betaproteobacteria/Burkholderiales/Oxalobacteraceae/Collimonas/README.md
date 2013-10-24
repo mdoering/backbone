@@ -1,5 +1,4 @@
-Collimonas De Boer et al., 2004 GENUS
-=======
+# Collimonas De Boer et al., 2004 GENUS
 
 #### Status
 ACCEPTED

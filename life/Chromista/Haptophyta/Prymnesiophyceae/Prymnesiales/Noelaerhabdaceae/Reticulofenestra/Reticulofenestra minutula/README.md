@@ -1,5 +1,4 @@
-Reticulofenestra minutula (Gartner, 1967) Haq & Berggren, 1978 SPECIES
-=======
+# Reticulofenestra minutula (Gartner, 1967) Haq & Berggren, 1978 SPECIES
 
 #### Status
 ACCEPTED

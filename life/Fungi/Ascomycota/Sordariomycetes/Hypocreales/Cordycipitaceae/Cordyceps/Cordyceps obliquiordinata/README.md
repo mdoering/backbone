@@ -1,5 +1,4 @@
-Cordyceps obliquiordinata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps obliquiordinata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

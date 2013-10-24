@@ -1,5 +1,4 @@
-Muirella R. Sprague, 1959 GENUS
-=======
+# Muirella R. Sprague, 1959 GENUS
 
 #### Status
 ACCEPTED

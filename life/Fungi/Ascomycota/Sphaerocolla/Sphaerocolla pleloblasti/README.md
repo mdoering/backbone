@@ -1,5 +1,4 @@
-Sphaerocolla pleloblasti I. Hino & Katum. SPECIES
-=======
+# Sphaerocolla pleloblasti I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

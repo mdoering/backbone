@@ -1,5 +1,4 @@
-Cladosporium playcodonis SPECIES
-=======
+# Cladosporium playcodonis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria subsequens Rehm SPECIES
-=======
+# Nectria subsequens Rehm SPECIES
 
 #### Status
 ACCEPTED

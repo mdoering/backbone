@@ -1,14 +1,13 @@
-Amphoroblastia agraria (Th. Fr.) Servít SPECIES
-=======
+# Polyblastia agraria Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceskoslov. Liejn. Celedi Verrucariaceae 61 (1954)
+Öfvers. kongl. Svensk. Vetensk. -Akad. Förhandl. 21: 275 (1864)
 
 #### Original name
 Polyblastia agraria Th. Fr.

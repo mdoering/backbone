@@ -1,5 +1,4 @@
-Puccinia tageticola Dietel & Holw. SPECIES
-=======
+# Puccinia tageticola Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

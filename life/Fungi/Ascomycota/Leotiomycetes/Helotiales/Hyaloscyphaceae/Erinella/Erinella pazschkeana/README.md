@@ -1,5 +1,4 @@
-Erinella pazschkeana Henn. SPECIES
-=======
+# Erinella pazschkeana Henn. SPECIES
 
 #### Status
 ACCEPTED

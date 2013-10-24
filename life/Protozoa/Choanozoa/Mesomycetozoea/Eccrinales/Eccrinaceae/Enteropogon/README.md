@@ -1,5 +1,4 @@
-Enteropogon Hibbits, 1979 GENUS
-=======
+# Enteropogon Hibbits, 1979 GENUS
 
 #### Status
 ACCEPTED

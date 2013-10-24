@@ -1,5 +1,4 @@
-Porpidia striata Fryday SPECIES
-=======
+# Porpidia striata Fryday SPECIES
 
 #### Status
 ACCEPTED

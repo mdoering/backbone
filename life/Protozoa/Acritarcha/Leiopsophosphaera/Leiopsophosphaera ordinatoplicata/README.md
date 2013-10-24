@@ -1,5 +1,4 @@
-Leiopsophosphaera ordinatoplicata N. Umnova, 1975 SPECIES
-=======
+# Leiopsophosphaera ordinatoplicata N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

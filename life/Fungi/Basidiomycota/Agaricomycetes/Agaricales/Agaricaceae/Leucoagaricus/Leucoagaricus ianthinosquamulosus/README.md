@@ -1,5 +1,4 @@
-Leucoagaricus ianthinosquamulosus Guinb. SPECIES
-=======
+# Leucoagaricus ianthinosquamulosus Guinb. SPECIES
 
 #### Status
 ACCEPTED

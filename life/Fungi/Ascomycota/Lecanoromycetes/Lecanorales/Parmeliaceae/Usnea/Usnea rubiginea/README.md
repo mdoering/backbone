@@ -1,5 +1,4 @@
-Usnea rubiginea (Michx.) A. Massal. SPECIES
-=======
+# Usnea rubiginea (Michx.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

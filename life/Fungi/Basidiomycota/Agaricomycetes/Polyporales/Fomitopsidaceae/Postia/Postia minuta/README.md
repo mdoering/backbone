@@ -1,5 +1,4 @@
-Postia minuta Rajchenb. SPECIES
-=======
+# Postia minuta Rajchenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen cumatilis Rutstr. SPECIES
-=======
+# Lichen cumatilis Rutstr. SPECIES
 
 #### Status
 ACCEPTED

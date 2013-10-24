@@ -1,5 +1,4 @@
-Neuropogon GENUS
-=======
+# Neuropogon GENUS
 
 #### Status
 ACCEPTED

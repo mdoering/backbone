@@ -1,5 +1,4 @@
-Amphisphaeria citri Henn. SPECIES
-=======
+# Amphisphaeria citri Henn. SPECIES
 
 #### Status
 ACCEPTED

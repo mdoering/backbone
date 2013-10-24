@@ -1,5 +1,4 @@
-Lecidea subglabella Malme SPECIES
-=======
+# Lecidea subglabella Malme SPECIES
 
 #### Status
 ACCEPTED

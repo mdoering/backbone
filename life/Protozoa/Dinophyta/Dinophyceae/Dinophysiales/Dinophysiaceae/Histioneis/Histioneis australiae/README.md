@@ -1,5 +1,4 @@
-Histioneis australiae Wood, 1963 SPECIES
-=======
+# Histioneis australiae Wood, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora melanocheila Malme SPECIES
-=======
+# Lecanora melanocheila Malme SPECIES
 
 #### Status
 ACCEPTED

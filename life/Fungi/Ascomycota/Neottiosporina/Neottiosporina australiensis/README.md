@@ -1,5 +1,4 @@
-Neottiosporina australiensis B. Sutton & Alcorn, 1974 SPECIES
-=======
+# Neottiosporina australiensis B. Sutton & Alcorn, 1974 SPECIES
 
 #### Status
 ACCEPTED

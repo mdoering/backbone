@@ -1,5 +1,4 @@
-Gymnosporium Corda GENUS
-=======
+# Gymnosporium Corda GENUS
 
 #### Status
 ACCEPTED

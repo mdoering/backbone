@@ -1,5 +1,4 @@
-Sporidesmium njalaense M.B. Ellis SPECIES
-=======
+# Sporidesmium njalaense M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

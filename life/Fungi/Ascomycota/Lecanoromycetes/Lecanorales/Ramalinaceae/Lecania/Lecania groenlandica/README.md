@@ -1,5 +1,4 @@
-Lecania groenlandica (Lynge) SPECIES
-=======
+# Lecania groenlandica (Lynge) SPECIES
 
 #### Status
 ACCEPTED

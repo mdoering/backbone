@@ -1,5 +1,4 @@
-Cytospora taxi Sacc., 1884 SPECIES
-=======
+# Cytospora taxi Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

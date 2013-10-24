@@ -1,5 +1,4 @@
-Tylopilus eximius var. eximius VARIETY
-=======
+# Tylopilus eximius (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Am. Midl. Nat. 37: 109 (1947)
 
 #### Original name
-Tylopilus eximius var. eximius
+Boletus eximius Peck
 
 ### Remarks
 null

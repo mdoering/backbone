@@ -1,5 +1,4 @@
-Plactogene lindigii (Pat.) Theiss. SPECIES
-=======
+# Plactogene lindigii (Pat.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Textularia crater Kennett, 1967 SPECIES
-=======
+# Textularia crater Kennett, 1967 SPECIES
 
 #### Status
 ACCEPTED

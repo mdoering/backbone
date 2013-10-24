@@ -1,5 +1,4 @@
-Meliola benguetensis (F. Stevens & Roldan) Cif. SPECIES
-=======
+# Meliola benguetensis (F. Stevens & Roldan) Cif. SPECIES
 
 #### Status
 ACCEPTED

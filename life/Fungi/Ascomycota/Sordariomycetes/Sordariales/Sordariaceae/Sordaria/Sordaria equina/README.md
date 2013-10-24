@@ -1,5 +1,4 @@
-Sordaria equina (Berk. & Ravenel) J.H. Mirza & Cain SPECIES
-=======
+# Sordaria equina (Berk. & Ravenel) J.H. Mirza & Cain SPECIES
 
 #### Status
 ACCEPTED

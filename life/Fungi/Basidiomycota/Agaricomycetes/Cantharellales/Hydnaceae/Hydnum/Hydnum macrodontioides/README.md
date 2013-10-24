@@ -1,5 +1,4 @@
-Hydnum macrodontioides Torrend SPECIES
-=======
+# Hydnum macrodontioides Torrend SPECIES
 
 #### Status
 ACCEPTED

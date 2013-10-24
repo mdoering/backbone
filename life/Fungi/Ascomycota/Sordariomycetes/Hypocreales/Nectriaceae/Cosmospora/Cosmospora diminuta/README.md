@@ -1,5 +1,4 @@
-Cosmospora diminuta (Berk. & M.A. Curtis) Rossman & Samuels SPECIES
-=======
+# Cosmospora diminuta (Berk. & M.A. Curtis) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

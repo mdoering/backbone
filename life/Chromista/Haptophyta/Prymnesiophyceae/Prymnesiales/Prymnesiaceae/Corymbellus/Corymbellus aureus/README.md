@@ -1,5 +1,4 @@
-Corymbellus aureus Green SPECIES
-=======
+# Corymbellus aureus Green SPECIES
 
 #### Status
 ACCEPTED

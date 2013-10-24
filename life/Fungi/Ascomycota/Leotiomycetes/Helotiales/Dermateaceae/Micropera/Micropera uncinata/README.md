@@ -1,5 +1,4 @@
-Micropera uncinata A. Funk SPECIES
-=======
+# Micropera uncinata A. Funk SPECIES
 
 #### Status
 ACCEPTED

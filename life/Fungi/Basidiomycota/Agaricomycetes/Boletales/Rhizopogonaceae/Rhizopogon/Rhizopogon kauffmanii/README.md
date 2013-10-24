@@ -1,5 +1,4 @@
-Rhizopogon kauffmanii A.H. Sm. & Zeller SPECIES
-=======
+# Rhizopogon kauffmanii A.H. Sm. & Zeller SPECIES
 
 #### Status
 ACCEPTED

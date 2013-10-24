@@ -1,5 +1,4 @@
-Kitasatospora arboriphila Groth et al., 2004 SPECIES
-=======
+# Kitasatospora arboriphila Groth et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exosporium extensum (Petch) M.B. Ellis SPECIES
-=======
+# Exosporium extensum (Petch) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

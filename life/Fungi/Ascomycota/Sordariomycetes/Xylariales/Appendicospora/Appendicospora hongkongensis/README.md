@@ -1,5 +1,4 @@
-Appendicospora hongkongensis Yanna, K.D. Hyde & J. Fröhl., 1997 SPECIES
-=======
+# Appendicospora hongkongensis Yanna, K.D. Hyde & J. Fröhl., 1997 SPECIES
 
 #### Status
 ACCEPTED

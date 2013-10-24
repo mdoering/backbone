@@ -1,5 +1,4 @@
-Imprimospora ramanujamii P. Kumar SPECIES
-=======
+# Imprimospora ramanujamii P. Kumar SPECIES
 
 #### Status
 ACCEPTED

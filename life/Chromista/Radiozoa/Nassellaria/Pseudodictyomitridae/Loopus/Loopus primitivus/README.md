@@ -1,5 +1,4 @@
-Loopus primitivus SPECIES
-=======
+# Loopus primitivus SPECIES
 
 #### Status
 ACCEPTED

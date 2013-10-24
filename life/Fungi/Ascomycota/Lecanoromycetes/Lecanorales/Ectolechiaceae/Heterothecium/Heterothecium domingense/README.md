@@ -1,5 +1,4 @@
-Heterothecium domingense (Pers.) Tuck. SPECIES
-=======
+# Heterothecium domingense (Pers.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

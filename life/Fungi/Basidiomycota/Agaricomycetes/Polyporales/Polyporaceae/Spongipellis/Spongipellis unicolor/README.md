@@ -1,14 +1,13 @@
-Trametes unicolor f. unicolor (Schwein.) Murrill, 1905 FORM
-=======
+# Spongipellis unicolor (Schwein.) Murrill, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Fl. (New York) 9(1): 37 (1907)
 
 #### Original name
 Boletus unicolor Bull., 1785

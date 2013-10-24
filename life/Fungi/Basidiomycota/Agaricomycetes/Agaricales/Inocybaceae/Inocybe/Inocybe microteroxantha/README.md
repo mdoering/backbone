@@ -1,5 +1,4 @@
-Inocybe microteroxantha Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe microteroxantha Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

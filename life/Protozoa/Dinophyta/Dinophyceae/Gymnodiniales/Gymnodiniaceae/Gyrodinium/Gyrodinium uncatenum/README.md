@@ -1,5 +1,4 @@
-Gyrodinium uncatenum Hulburt, 1957 SPECIES
-=======
+# Gyrodinium uncatenum Hulburt, 1957 SPECIES
 
 #### Status
 ACCEPTED

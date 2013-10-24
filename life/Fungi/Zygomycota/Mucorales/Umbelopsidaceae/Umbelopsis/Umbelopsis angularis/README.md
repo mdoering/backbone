@@ -1,5 +1,4 @@
-Umbelopsis angularis W. Gams & M. Sugiy., 2003 SPECIES
-=======
+# Umbelopsis angularis W. Gams & M. Sugiy., 2003 SPECIES
 
 #### Status
 ACCEPTED

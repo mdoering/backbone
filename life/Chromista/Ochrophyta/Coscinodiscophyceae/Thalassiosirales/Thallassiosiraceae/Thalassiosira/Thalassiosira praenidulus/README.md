@@ -1,5 +1,4 @@
-Thalassiosira praenidulus F. Akiba SPECIES
-=======
+# Thalassiosira praenidulus F. Akiba SPECIES
 
 #### Status
 ACCEPTED

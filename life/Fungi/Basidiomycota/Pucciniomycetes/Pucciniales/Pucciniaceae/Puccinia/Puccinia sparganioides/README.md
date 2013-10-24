@@ -1,5 +1,4 @@
-Puccinia sparganioides Ellis & Tracy, 1896 SPECIES
-=======
+# Puccinia sparganioides Ellis & Tracy, 1896 SPECIES
 
 #### Status
 ACCEPTED

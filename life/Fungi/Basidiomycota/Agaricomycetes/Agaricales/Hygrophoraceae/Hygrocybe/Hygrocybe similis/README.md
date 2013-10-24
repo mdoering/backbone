@@ -1,5 +1,4 @@
-Hygrocybe similis (Petch) Pegler SPECIES
-=======
+# Hygrocybe similis (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

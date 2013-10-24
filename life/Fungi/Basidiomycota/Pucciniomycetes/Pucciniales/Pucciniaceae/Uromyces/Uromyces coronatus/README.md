@@ -1,5 +1,4 @@
-Uromyces coronatus Yoshin., 1907 SPECIES
-=======
+# Uromyces coronatus Yoshin., 1907 SPECIES
 
 #### Status
 ACCEPTED

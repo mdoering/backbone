@@ -1,5 +1,4 @@
-Hyphodontia aloha Gilb. & Adask., 1993 SPECIES
-=======
+# Hyphodontia aloha Gilb. & Adask., 1993 SPECIES
 
 #### Status
 ACCEPTED

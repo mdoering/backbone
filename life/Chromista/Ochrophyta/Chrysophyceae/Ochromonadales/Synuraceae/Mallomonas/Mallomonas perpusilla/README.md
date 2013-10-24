@@ -1,5 +1,4 @@
-Mallomonas perpusilla Dürrschmidt SPECIES
-=======
+# Mallomonas perpusilla Dürrschmidt SPECIES
 
 #### Status
 ACCEPTED

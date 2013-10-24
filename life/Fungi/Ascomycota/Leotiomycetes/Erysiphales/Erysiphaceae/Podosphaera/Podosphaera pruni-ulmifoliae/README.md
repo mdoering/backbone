@@ -1,5 +1,4 @@
-Podosphaera pruni-ulmifoliae Golovin SPECIES
-=======
+# Podosphaera pruni-ulmifoliae Golovin SPECIES
 
 #### Status
 ACCEPTED

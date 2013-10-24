@@ -1,5 +1,4 @@
-Lithothelium Müll. Arg. GENUS
-=======
+# Lithothelium Müll. Arg. GENUS
 
 #### Status
 ACCEPTED

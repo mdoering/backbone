@@ -1,17 +1,16 @@
-Arthopyrenia fallax f. fallax FORM
-=======
+# Arthopyrenia lapponina Anzi SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 23: 505 (1873)
+null
 
 #### Original name
-Arthopyrenia fallax f. fallax
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tricholoma borgsjoeënse Jacobsson & Muskos SPECIES
-=======
+# Tricholoma borgsjoeënse Jacobsson & Muskos SPECIES
 
 #### Status
 ACCEPTED

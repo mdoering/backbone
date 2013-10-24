@@ -1,5 +1,4 @@
-Rinodina pyreniospora SPECIES
-=======
+# Rinodina pyreniospora SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula vincentina Vain. SPECIES
-=======
+# Strigula vincentina Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora eminens Asta, Clauzade & Cl. Roux SPECIES
-=======
+# Lecanora eminens Asta, Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

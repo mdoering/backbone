@@ -1,5 +1,4 @@
-Domingoella albiziae M.B. Ellis SPECIES
-=======
+# Domingoella albiziae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

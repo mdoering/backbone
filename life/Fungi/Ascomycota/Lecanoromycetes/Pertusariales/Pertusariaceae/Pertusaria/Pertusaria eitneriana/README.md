@@ -1,5 +1,4 @@
-Pertusaria eitneriana Zahlbr. SPECIES
-=======
+# Pertusaria eitneriana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

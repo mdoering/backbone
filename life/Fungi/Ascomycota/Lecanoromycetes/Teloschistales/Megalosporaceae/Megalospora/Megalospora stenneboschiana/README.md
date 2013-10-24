@@ -1,5 +1,4 @@
-Megalospora stenneboschiana (Vain.) C.W. Dodge SPECIES
-=======
+# Megalospora stenneboschiana (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

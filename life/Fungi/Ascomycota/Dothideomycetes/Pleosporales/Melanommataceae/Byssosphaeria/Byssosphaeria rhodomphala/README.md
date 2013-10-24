@@ -1,17 +1,16 @@
-Sphaeria rhodomphalos Berk. SPECIES
-=======
+# Byssosphaeria rhodomphala (Berk.) Cooke, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 15(no. 75): 81 (1887)
 
 #### Original name
-Sphaeria rhodomphalos Berk.
+Sphaeria rhodomphala Berk., 1845
 
 ### Remarks
 null

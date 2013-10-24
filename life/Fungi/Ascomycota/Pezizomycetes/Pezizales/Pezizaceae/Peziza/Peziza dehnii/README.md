@@ -1,5 +1,4 @@
-Peziza dehnii Rabenh. SPECIES
-=======
+# Peziza dehnii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

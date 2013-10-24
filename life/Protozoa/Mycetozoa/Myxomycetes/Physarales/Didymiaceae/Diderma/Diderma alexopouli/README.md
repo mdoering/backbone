@@ -1,5 +1,4 @@
-Diderma alexopouli T.N. Lakh., 1978 SPECIES
-=======
+# Diderma alexopouli T.N. Lakh., 1978 SPECIES
 
 #### Status
 ACCEPTED

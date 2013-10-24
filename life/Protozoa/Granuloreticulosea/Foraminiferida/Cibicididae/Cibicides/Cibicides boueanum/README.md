@@ -1,8 +1,7 @@
-Truncatulina boueana d'Orbigny, 1846 SPECIES
-=======
+# Cibicides boueanum (d'Orbigny, 1846) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

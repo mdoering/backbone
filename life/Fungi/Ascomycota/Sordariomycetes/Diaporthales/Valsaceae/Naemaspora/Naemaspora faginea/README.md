@@ -1,5 +1,4 @@
-Naemaspora faginea Schumach. SPECIES
-=======
+# Naemaspora faginea Schumach. SPECIES
 
 #### Status
 ACCEPTED

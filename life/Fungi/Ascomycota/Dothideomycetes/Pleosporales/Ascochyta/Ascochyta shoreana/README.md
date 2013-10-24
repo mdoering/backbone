@@ -1,5 +1,4 @@
-Ascochyta shoreana Sacc. SPECIES
-=======
+# Ascochyta shoreana Sacc. SPECIES
 
 #### Status
 ACCEPTED

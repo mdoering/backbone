@@ -1,5 +1,4 @@
-Dimeromyces uniflagellatus Thaxt. SPECIES
-=======
+# Dimeromyces uniflagellatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

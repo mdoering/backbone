@@ -1,5 +1,4 @@
-Sphaeria testacea Fr. SPECIES
-=======
+# Sphaeria testacea Fr. SPECIES
 
 #### Status
 ACCEPTED

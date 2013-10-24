@@ -1,5 +1,4 @@
-Neottiella (Cooke) Sacc. GENUS
-=======
+# Neottiella (Cooke) Sacc. GENUS
 
 #### Status
 ACCEPTED

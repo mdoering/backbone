@@ -1,5 +1,4 @@
-Bispora media Sacc. SPECIES
-=======
+# Bispora media Sacc. SPECIES
 
 #### Status
 ACCEPTED

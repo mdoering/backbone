@@ -1,5 +1,4 @@
-Puccinia subsessilis Sowerby SPECIES
-=======
+# Puccinia subsessilis Sowerby SPECIES
 
 #### Status
 ACCEPTED

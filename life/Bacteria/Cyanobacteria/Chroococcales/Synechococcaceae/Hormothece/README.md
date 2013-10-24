@@ -1,5 +1,4 @@
-Hormothece C.-C.Jao, 1944 GENUS
-=======
+# Hormothece C.-C.Jao, 1944 GENUS
 
 #### Status
 ACCEPTED

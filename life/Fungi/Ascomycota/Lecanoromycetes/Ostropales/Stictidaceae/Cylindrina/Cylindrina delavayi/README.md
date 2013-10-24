@@ -1,5 +1,4 @@
-Cylindrina delavayi Pat. SPECIES
-=======
+# Cylindrina delavayi Pat. SPECIES
 
 #### Status
 ACCEPTED

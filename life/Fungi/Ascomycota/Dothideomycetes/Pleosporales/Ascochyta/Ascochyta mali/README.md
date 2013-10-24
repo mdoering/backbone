@@ -1,5 +1,4 @@
-Ascochyta mali Ellis & Everh. SPECIES
-=======
+# Ascochyta mali Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

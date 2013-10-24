@@ -1,5 +1,4 @@
-Gongylia GENUS
-=======
+# Gongylia GENUS
 
 #### Status
 ACCEPTED

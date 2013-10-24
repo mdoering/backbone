@@ -1,17 +1,16 @@
-Agaricus cyanea Bolton SPECIES
-=======
+# Agaricus cyaneus Bolton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Herb. Fr. 4: tab. 170 (1784)
 
 #### Original name
-Agaricus cyanea Bolton
+Agaricus cyaneus Bolton
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Eccilia purpureopunctata Rick SPECIES
-=======
+# Eccilia purpureopunctata Rick SPECIES
 
 #### Status
 ACCEPTED

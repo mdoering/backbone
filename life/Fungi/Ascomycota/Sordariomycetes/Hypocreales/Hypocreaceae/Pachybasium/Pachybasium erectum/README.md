@@ -1,5 +1,4 @@
-Pachybasium erectum Steyaert SPECIES
-=======
+# Pachybasium erectum Steyaert SPECIES
 
 #### Status
 ACCEPTED

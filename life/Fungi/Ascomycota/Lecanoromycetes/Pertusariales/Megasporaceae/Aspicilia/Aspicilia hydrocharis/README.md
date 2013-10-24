@@ -1,5 +1,4 @@
-Aspicilia hydrocharis Poelt & Nimis SPECIES
-=======
+# Aspicilia hydrocharis Poelt & Nimis SPECIES
 
 #### Status
 ACCEPTED

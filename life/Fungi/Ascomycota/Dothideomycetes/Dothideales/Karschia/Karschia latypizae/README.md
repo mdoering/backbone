@@ -1,5 +1,4 @@
-Karschia latypizae (Harm.) Keissl. SPECIES
-=======
+# Karschia latypizae (Harm.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

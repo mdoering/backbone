@@ -1,5 +1,4 @@
-Mycoporellum melatyloides (Nyl.) Zahlbr. SPECIES
-=======
+# Mycoporellum melatyloides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

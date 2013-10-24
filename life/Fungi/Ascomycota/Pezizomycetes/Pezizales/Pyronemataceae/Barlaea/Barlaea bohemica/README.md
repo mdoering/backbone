@@ -1,5 +1,4 @@
-Barlaea bohemica Klika SPECIES
-=======
+# Barlaea bohemica Klika SPECIES
 
 #### Status
 ACCEPTED

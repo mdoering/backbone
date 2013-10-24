@@ -1,11 +1,10 @@
-Rhabdammina discreta subsp. discreta SUBSPECIES
-=======
+# Rhabdammina discreta SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

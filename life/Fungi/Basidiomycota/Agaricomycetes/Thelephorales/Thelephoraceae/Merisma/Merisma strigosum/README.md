@@ -1,5 +1,4 @@
-Merisma strigosum Pers. SPECIES
-=======
+# Merisma strigosum Pers. SPECIES
 
 #### Status
 ACCEPTED

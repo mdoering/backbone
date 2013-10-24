@@ -1,5 +1,4 @@
-Spiropes effusus (Pat.) M.B. Ellis SPECIES
-=======
+# Spiropes effusus (Pat.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

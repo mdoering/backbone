@@ -1,5 +1,4 @@
-Legerioides tumidus M.M. White, 1999 SPECIES
-=======
+# Legerioides tumidus M.M. White, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe inedita (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe inedita (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

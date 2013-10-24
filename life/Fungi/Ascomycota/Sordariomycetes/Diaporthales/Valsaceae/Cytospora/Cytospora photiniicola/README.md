@@ -1,8 +1,7 @@
-Cytospora photinicola Bubák SPECIES
-=======
+# Cytospora photiniicola Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cytospora photinicola Bubák
+Cytospora photiniicola Bubák
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Caudellopeltis eugeniae Bat. & H. Maia SPECIES
-=======
+# Caudellopeltis eugeniae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia ochrochaeta Ellis & Everh. SPECIES
-=======
+# Vermicularia ochrochaeta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

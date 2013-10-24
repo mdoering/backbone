@@ -1,5 +1,4 @@
-Diaporthe take Hara SPECIES
-=======
+# Diaporthe take Hara SPECIES
 
 #### Status
 ACCEPTED

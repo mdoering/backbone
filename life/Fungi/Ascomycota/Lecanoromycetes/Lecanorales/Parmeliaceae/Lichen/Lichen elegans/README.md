@@ -1,5 +1,4 @@
-Lichen elegans var. elegans VARIETY
-=======
+# Lichen elegans Lam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Lichen elegans Lam.
 
 ### Remarks
 null

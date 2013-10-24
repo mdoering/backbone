@@ -1,14 +1,13 @@
-Porina zizyphi (A. Massal.) Zahlbr. SPECIES
-=======
+# Porina ziziphi (A. Massal.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 1: 410 (1922)
 
 #### Original name
 Sagedia ziziphi A. Massal.

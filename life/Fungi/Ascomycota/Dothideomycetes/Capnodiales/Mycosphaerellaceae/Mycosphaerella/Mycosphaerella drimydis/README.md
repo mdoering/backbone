@@ -1,5 +1,4 @@
-Mycosphaerella drimydis (Berk.) Rehm SPECIES
-=======
+# Mycosphaerella drimydis (Berk.) Rehm SPECIES
 
 #### Status
 ACCEPTED

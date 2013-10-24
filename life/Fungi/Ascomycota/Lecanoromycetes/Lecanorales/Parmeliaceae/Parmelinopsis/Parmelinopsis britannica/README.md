@@ -1,5 +1,4 @@
-Parmelinopsis britannica (D. Hawksw. & P. James) Elix SPECIES
-=======
+# Parmelinopsis britannica (D. Hawksw. & P. James) Elix SPECIES
 
 #### Status
 ACCEPTED

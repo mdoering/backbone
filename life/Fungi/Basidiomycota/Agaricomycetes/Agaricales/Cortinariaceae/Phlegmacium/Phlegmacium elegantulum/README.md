@@ -1,5 +1,4 @@
-Phlegmacium elegantulum M.M. Moser SPECIES
-=======
+# Phlegmacium elegantulum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

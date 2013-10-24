@@ -1,5 +1,4 @@
-Uredo minima Schwein. SPECIES
-=======
+# Uredo minima Schwein. SPECIES
 
 #### Status
 ACCEPTED

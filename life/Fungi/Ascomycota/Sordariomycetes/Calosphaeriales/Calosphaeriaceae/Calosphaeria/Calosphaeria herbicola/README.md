@@ -1,5 +1,4 @@
-Calosphaeria herbicola Ellis & Everh. SPECIES
-=======
+# Calosphaeria herbicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

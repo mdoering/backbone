@@ -1,5 +1,4 @@
-Clavaria byssacea Roth ex Pers. SPECIES
-=======
+# Clavaria byssacea Roth ex Pers. SPECIES
 
 #### Status
 ACCEPTED

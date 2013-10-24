@@ -1,5 +1,4 @@
-Leiosphaeridia tenuissima Eisenack, 1958 SPECIES
-=======
+# Leiosphaeridia tenuissima Eisenack, 1958 SPECIES
 
 #### Status
 ACCEPTED

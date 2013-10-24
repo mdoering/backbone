@@ -1,5 +1,4 @@
-Mycoblastus thallicolus (A. Massal.) Trevis. SPECIES
-=======
+# Mycoblastus thallicolus (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

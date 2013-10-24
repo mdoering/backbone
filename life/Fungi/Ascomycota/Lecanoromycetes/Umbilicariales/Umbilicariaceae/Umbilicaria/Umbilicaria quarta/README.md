@@ -1,5 +1,4 @@
-Umbilicaria quarta (Darb.) Cretz. SPECIES
-=======
+# Umbilicaria quarta (Darb.) Cretz. SPECIES
 
 #### Status
 ACCEPTED

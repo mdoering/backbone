@@ -1,5 +1,4 @@
-Catillaria sphaerica (A. Massal.) Zahlbr. SPECIES
-=======
+# Catillaria sphaerica (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Redbia trichomambusta R.W. Barreto SPECIES
-=======
+# Redbia trichomambusta R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

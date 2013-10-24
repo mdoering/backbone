@@ -1,5 +1,4 @@
-Aleuria olivacea Gillet SPECIES
-=======
+# Aleuria olivacea Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordosphaeridium uncinispinosum J. De Coninck SPECIES
-=======
+# Cordosphaeridium uncinispinosum J. De Coninck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Japonochytrium Kobayasi & M. Ôkubo GENUS
-=======
+# Japonochytrium Kobayasi & M. Ôkubo GENUS
 
 #### Status
 ACCEPTED

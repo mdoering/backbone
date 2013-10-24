@@ -1,5 +1,4 @@
-Phoma minuta Alcalde SPECIES
-=======
+# Phoma minuta Alcalde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Letharia cladonioides (Nyl.) Hue SPECIES
-=======
+# Letharia cladonioides (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

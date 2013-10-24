@@ -1,5 +1,4 @@
-Phanerochaete vesiculosa S. Martínez & Nakasone SPECIES
-=======
+# Phanerochaete vesiculosa S. Martínez & Nakasone SPECIES
 
 #### Status
 ACCEPTED

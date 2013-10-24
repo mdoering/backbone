@@ -1,5 +1,4 @@
-Phaeographis girringunensis A. W. Archer & Elix SPECIES
-=======
+# Phaeographis girringunensis A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

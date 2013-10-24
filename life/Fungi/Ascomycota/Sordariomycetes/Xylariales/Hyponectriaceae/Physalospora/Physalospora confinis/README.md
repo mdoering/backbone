@@ -1,5 +1,4 @@
-Physalospora confinis Sacc. & D. Sacc. SPECIES
-=======
+# Physalospora confinis Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

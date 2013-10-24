@@ -1,5 +1,4 @@
-Parmentaria grossa Müll. Arg. SPECIES
-=======
+# Parmentaria grossa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

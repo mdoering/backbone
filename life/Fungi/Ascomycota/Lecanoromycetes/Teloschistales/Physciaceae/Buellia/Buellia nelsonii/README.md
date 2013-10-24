@@ -1,5 +1,4 @@
-Buellia nelsonii Darb. SPECIES
-=======
+# Buellia nelsonii Darb. SPECIES
 
 #### Status
 ACCEPTED

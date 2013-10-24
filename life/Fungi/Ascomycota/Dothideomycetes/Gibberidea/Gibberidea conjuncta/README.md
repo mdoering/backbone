@@ -1,5 +1,4 @@
-Gibberidea conjuncta (Petr.) Arx SPECIES
-=======
+# Gibberidea conjuncta (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

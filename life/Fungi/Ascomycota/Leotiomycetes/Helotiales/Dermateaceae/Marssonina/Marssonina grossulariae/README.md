@@ -1,5 +1,4 @@
-Marssonina grossulariae (Oudem.) Magnus SPECIES
-=======
+# Marssonina grossulariae (Oudem.) Magnus SPECIES
 
 #### Status
 ACCEPTED

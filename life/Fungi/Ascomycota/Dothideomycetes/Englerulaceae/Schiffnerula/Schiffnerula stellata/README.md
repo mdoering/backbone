@@ -1,5 +1,4 @@
-Schiffnerula stellata (Speg.) S. Hughes SPECIES
-=======
+# Schiffnerula stellata (Speg.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

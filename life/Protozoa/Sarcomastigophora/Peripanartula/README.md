@@ -1,5 +1,4 @@
-Peripanartula Haeckel, 1887 GENUS
-=======
+# Peripanartula Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

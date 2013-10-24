@@ -1,5 +1,4 @@
-Leptogium ulvaceum (Pers.) Vain. SPECIES
-=======
+# Leptogium ulvaceum (Pers.) Vain. SPECIES
 
 #### Status
 ACCEPTED

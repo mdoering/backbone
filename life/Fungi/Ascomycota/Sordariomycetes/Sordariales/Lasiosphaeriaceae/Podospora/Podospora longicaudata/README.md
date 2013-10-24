@@ -1,5 +1,4 @@
-Podospora longicaudata (Griffiths) Cain SPECIES
-=======
+# Podospora longicaudata (Griffiths) Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurodoras Haeckel, 1881 GENUS
-=======
+# Staurodoras Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria aconiti Sacc. SPECIES
-=======
+# Leptosphaeria aconiti Sacc. SPECIES
 
 #### Status
 ACCEPTED

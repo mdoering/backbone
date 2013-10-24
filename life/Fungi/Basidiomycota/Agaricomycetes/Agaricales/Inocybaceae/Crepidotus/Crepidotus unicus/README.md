@@ -1,5 +1,4 @@
-Crepidotus unicus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus unicus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

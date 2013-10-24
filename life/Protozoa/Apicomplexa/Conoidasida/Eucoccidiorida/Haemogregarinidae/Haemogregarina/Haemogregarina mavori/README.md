@@ -1,5 +1,4 @@
-Haemogregarina mavori Laird & Bullock, 1969 SPECIES
-=======
+# Haemogregarina mavori Laird & Bullock, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Coelosphaerium collinsii Drouet & Daily SPECIES
-=======
+# Coelomoron pusillum (Van Goor) Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

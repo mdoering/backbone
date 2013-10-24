@@ -1,5 +1,4 @@
-Pholiota galerinoides A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota galerinoides A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

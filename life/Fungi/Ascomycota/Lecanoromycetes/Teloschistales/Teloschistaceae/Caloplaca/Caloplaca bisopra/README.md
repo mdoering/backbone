@@ -1,5 +1,4 @@
-Caloplaca bisopra SPECIES
-=======
+# Caloplaca bisopra SPECIES
 
 #### Status
 ACCEPTED

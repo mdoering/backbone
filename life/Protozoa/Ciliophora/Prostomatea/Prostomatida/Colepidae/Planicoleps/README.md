@@ -1,5 +1,4 @@
-Planicoleps Dragesco & Dragesco-Kernéis, 1991 GENUS
-=======
+# Planicoleps Dragesco & Dragesco-Kernéis, 1991 GENUS
 
 #### Status
 ACCEPTED

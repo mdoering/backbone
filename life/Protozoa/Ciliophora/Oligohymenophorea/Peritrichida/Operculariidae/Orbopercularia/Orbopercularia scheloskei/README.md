@@ -1,5 +1,4 @@
-Orbopercularia scheloskei SPECIES
-=======
+# Orbopercularia scheloskei SPECIES
 
 #### Status
 ACCEPTED

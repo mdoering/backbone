@@ -1,5 +1,4 @@
-Gloiocephala mycenoides Singer SPECIES
-=======
+# Gloiocephala mycenoides Singer SPECIES
 
 #### Status
 ACCEPTED

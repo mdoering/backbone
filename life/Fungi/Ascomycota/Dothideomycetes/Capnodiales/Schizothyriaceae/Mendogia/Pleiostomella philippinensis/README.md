@@ -1,5 +1,4 @@
-Pleiostomella philippinensis Syd. & P. Syd. SPECIES
-=======
+# Pleiostomella philippinensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

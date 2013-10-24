@@ -1,5 +1,4 @@
-Lemmermanniella L. Geitler in A. Engler & K. Prantl, 1942 GENUS
-=======
+# Lemmermanniella L. Geitler in A. Engler & K. Prantl, 1942 GENUS
 
 #### Status
 ACCEPTED

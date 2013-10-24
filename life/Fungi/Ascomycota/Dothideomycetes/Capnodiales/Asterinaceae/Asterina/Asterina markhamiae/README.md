@@ -1,5 +1,4 @@
-Asterina markhamiae Hansf. SPECIES
-=======
+# Asterina markhamiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

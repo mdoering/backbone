@@ -1,5 +1,4 @@
-Epithele hydnoides Burt SPECIES
-=======
+# Epithele hydnoides Burt SPECIES
 
 #### Status
 ACCEPTED

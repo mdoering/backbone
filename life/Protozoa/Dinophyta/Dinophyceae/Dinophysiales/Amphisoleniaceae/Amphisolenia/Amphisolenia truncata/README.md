@@ -1,5 +1,4 @@
-Amphisolenia truncata Kofoid & Michener SPECIES
-=======
+# Amphisolenia truncata Kofoid & Michener SPECIES
 
 #### Status
 ACCEPTED

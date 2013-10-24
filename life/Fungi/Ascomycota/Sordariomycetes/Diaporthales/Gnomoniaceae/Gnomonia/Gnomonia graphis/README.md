@@ -1,5 +1,4 @@
-Gnomonia graphis Fuckel, 1870 SPECIES
-=======
+# Gnomonia graphis Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

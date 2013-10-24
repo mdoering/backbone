@@ -1,5 +1,4 @@
-Coleophoma mangiferae S. Ahmad SPECIES
-=======
+# Coleophoma mangiferae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

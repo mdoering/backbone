@@ -2,11 +2,8 @@
 The [GBIF Backbone taxonomy][nub] put into GitHub as a filesystem based taxonomy with one folder per taxon.
 Every folder is named after the canonical name of the taxon and contains 2 files:
 
-README.md
-: A simple human readable overview of the taxon
-
-data.json
-: A json file representing the NameUsage as retrieved from the GBIF API, for example Bufo bufo: http://api.gbif.org/v0.9/species/5217160
+ * _README.md_: A simple human readable overview of the taxon
+ * _data.json_: A json file representing the NameUsage as retrieved from the GBIF API, for example Bufo bufo: http://api.gbif.org/v0.9/species/5217160
 
 The folder hierarchy in the filesystem exactly represents the taxonomic classification.
 

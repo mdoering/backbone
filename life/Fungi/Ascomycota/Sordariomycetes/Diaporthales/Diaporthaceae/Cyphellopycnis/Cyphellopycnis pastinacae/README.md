@@ -1,5 +1,4 @@
-Cyphellopycnis pastinacae Tehon & G.L. Stout SPECIES
-=======
+# Cyphellopycnis pastinacae Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

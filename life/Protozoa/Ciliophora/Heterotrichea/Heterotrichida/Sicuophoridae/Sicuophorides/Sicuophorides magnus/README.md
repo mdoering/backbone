@@ -1,8 +1,7 @@
-Nyctotherus magnus Bezzenberger, 1904 SPECIES
-=======
+# Sicuophorides magnus (Bezzenberger, 1904) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

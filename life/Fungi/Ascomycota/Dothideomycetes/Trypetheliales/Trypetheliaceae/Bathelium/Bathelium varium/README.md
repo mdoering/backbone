@@ -1,5 +1,4 @@
-Bathelium varium (Fée) Trevis. SPECIES
-=======
+# Bathelium varium (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

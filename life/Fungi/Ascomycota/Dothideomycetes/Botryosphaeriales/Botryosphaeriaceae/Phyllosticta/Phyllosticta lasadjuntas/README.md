@@ -1,5 +1,4 @@
-Phyllosticta lasadjuntas Toro SPECIES
-=======
+# Phyllosticta lasadjuntas Toro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scyphidia patellae Cuenot, 1891 SPECIES
-=======
+# Scyphidia patellae Cuenot, 1891 SPECIES
 
 #### Status
 ACCEPTED

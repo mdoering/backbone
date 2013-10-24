@@ -1,5 +1,4 @@
-Procerolagena purii (Andersen, 1961) SPECIES
-=======
+# Procerolagena purii (Andersen, 1961) SPECIES
 
 #### Status
 ACCEPTED

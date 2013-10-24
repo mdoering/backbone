@@ -1,5 +1,4 @@
-Trigonopyxidia ginella Cookson & Eisenack SPECIES
-=======
+# Trigonopyxidia ginella Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

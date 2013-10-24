@@ -1,5 +1,4 @@
-Ustilago sparsa Underw. SPECIES
-=======
+# Ustilago sparsa Underw. SPECIES
 
 #### Status
 ACCEPTED

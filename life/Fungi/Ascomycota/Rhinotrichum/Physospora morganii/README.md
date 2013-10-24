@@ -1,5 +1,4 @@
-Physospora morganii Sacc. & Traverso SPECIES
-=======
+# Physospora morganii Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

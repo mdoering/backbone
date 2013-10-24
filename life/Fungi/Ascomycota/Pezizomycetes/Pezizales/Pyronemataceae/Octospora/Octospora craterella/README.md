@@ -1,5 +1,4 @@
-Octospora craterella (Hedw.) SPECIES
-=======
+# Octospora craterella (Hedw.) SPECIES
 
 #### Status
 ACCEPTED

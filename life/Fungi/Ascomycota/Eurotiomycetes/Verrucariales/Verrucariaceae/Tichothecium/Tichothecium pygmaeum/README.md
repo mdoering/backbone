@@ -1,5 +1,4 @@
-Tichothecium pygmaeum var. pygmaeum VARIETY
-=======
+# Tichothecium pygmaeum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Plasmopara cubensis var. atra (Zimm.) Sacc. & D. Sacc. VARIETY
-=======
+# Pseudoperonospora cubensis (Berk. & M.A. Curtis) Rostovzev, 1903 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annals Inst. Agron. Moscow 9: 47 (1903)
 
 #### Original name
-Peronospora atra Zimm.
+Peronospora cubensis Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

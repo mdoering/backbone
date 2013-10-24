@@ -1,5 +1,4 @@
-Acanthothecis intertexta (Müll. Arg.) Staiger & Kalb SPECIES
-=======
+# Acanthothecis intertexta (Müll. Arg.) Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

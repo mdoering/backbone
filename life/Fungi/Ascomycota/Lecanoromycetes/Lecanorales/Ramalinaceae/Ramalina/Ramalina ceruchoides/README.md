@@ -1,5 +1,4 @@
-Ramalina ceruchoides H. Magn. SPECIES
-=======
+# Ramalina ceruchoides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

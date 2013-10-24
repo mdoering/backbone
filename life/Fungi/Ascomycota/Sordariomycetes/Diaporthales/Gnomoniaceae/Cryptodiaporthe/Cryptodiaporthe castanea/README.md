@@ -1,17 +1,16 @@
-Phomopsis castanea (Sacc.) Petr., 1921 SPECIES
-=======
+# Cryptodiaporthe castanea (Tul. & C. Tul.) Wehm., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19(3/4): 207 (1921)
+Trans. Br. mycol. Soc. 18(4): 284 (1933)
 
 #### Original name
-Cytospora castanea Sacc., 1879
+Valsa castanea Tul. & C. Tul., 1863
 
 ### Remarks
 null

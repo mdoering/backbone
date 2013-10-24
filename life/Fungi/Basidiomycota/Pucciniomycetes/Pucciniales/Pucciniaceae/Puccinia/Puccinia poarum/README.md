@@ -1,17 +1,16 @@
-Puccinia poarum var. petasiti-pulchellae (Lüdi) Z. Urb. & J. Marková VARIETY
-=======
+# Puccinia poarum E. Nielsen, 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Tidsskr. 3(2): 34 (1877)
 
 #### Original name
-Puccinia petasites-pulchellae Lüdi
+Puccinia poarum E. Nielsen, 1877
 
 ### Remarks
 null

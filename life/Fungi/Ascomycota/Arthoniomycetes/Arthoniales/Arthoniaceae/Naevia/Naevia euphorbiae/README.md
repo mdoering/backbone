@@ -1,5 +1,4 @@
-Naevia euphorbiae Vain. SPECIES
-=======
+# Naevia euphorbiae Vain. SPECIES
 
 #### Status
 ACCEPTED

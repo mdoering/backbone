@@ -1,5 +1,4 @@
-Lepiota sordida Rick SPECIES
-=======
+# Lepiota sordida Rick SPECIES
 
 #### Status
 ACCEPTED

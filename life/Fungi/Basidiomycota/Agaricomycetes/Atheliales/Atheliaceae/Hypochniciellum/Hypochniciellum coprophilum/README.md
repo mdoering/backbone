@@ -1,5 +1,4 @@
-Hypochniciellum coprophilum (Wakef.) Hjortstam SPECIES
-=======
+# Hypochniciellum coprophilum (Wakef.) Hjortstam SPECIES
 
 #### Status
 ACCEPTED

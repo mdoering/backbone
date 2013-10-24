@@ -1,5 +1,4 @@
-Tme prion (Transmissible mink prionencephalopathy) SPECIES
-=======
+# Tme prion (Transmissible mink prionencephalopathy) SPECIES
 
 #### Status
 ACCEPTED

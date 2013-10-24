@@ -1,5 +1,4 @@
-Pertusaria fecunda Zahlbr. SPECIES
-=======
+# Pertusaria fecunda Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

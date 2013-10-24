@@ -1,5 +1,4 @@
-Leptostroma poae Lib. SPECIES
-=======
+# Leptostroma poae Lib. SPECIES
 
 #### Status
 ACCEPTED

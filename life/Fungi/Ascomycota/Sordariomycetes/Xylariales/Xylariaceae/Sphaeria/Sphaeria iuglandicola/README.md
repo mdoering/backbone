@@ -1,5 +1,4 @@
-Sphaeria iuglandicola Schwein. SPECIES
-=======
+# Sphaeria iuglandicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

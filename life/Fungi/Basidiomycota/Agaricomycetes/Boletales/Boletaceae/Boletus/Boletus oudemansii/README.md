@@ -1,5 +1,4 @@
-Boletus oudemansii Hartsen SPECIES
-=======
+# Boletus oudemansii Hartsen SPECIES
 
 #### Status
 ACCEPTED

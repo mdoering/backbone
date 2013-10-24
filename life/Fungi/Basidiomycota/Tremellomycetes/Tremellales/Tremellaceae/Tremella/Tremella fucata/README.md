@@ -1,5 +1,4 @@
-Tremella fucata J.F. Gmel. SPECIES
-=======
+# Tremella fucata J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria thalassica Speg. SPECIES
-=======
+# Septoria thalassica Speg. SPECIES
 
 #### Status
 ACCEPTED

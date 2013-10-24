@@ -1,5 +1,4 @@
-Verrucaria subtilis Müll. Arg. SPECIES
-=======
+# Verrucaria subtilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

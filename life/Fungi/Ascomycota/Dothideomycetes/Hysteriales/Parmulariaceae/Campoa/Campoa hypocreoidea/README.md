@@ -1,5 +1,4 @@
-Campoa hypocreoidea (Petr. & Cif.) Arx SPECIES
-=======
+# Campoa hypocreoidea (Petr. & Cif.) Arx SPECIES
 
 #### Status
 ACCEPTED

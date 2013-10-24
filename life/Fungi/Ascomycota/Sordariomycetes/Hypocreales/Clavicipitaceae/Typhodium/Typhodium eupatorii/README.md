@@ -1,5 +1,4 @@
-Typhodium eupatorii Seaver SPECIES
-=======
+# Typhodium eupatorii Seaver SPECIES
 
 #### Status
 ACCEPTED

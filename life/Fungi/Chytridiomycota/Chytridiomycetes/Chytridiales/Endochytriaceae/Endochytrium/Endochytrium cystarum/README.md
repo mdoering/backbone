@@ -1,5 +1,4 @@
-Endochytrium cystarum Dogma, 1969 SPECIES
-=======
+# Endochytrium cystarum Dogma, 1969 SPECIES
 
 #### Status
 ACCEPTED

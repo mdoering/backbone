@@ -1,5 +1,4 @@
-Terebrospira GENUS
-=======
+# Terebrospira GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psychrobacter cryohalolentis Bakermans et al., 2006 SPECIES
-=======
+# Psychrobacter cryohalolentis Bakermans et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

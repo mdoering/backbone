@@ -1,5 +1,4 @@
-Amauromyces pallidus Jülich, 1978 SPECIES
-=======
+# Amauromyces pallidus Jülich, 1978 SPECIES
 
 #### Status
 ACCEPTED

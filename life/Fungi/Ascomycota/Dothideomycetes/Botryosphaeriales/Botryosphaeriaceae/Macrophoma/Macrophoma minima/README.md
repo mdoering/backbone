@@ -1,5 +1,4 @@
-Macrophoma minima I.E. Brezhnev SPECIES
-=======
+# Macrophoma minima I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

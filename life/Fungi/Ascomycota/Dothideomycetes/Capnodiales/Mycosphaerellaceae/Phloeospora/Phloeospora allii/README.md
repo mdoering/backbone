@@ -1,5 +1,4 @@
-Phloeospora allii (Solkina) Melnik SPECIES
-=======
+# Phloeospora allii (Solkina) Melnik SPECIES
 
 #### Status
 ACCEPTED

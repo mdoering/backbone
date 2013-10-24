@@ -1,5 +1,4 @@
-Lecidea alboflava (Körb.) Arnold SPECIES
-=======
+# Lecidea alboflava (Körb.) Arnold SPECIES
 
 #### Status
 ACCEPTED

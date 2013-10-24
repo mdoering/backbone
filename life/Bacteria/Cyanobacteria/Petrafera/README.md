@@ -1,5 +1,4 @@
-Petrafera L.A. Nagy, 1974 GENUS
-=======
+# Petrafera L.A. Nagy, 1974 GENUS
 
 #### Status
 ACCEPTED

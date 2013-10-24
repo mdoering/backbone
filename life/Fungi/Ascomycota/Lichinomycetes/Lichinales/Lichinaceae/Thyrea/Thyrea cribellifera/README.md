@@ -1,5 +1,4 @@
-Thyrea cribellifera (Nyl.) Zahlbr. SPECIES
-=======
+# Thyrea cribellifera (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

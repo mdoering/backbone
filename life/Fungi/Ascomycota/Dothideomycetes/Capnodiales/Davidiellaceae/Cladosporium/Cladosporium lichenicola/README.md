@@ -1,5 +1,4 @@
-Cladosporium lichenicola Linds. SPECIES
-=======
+# Cladosporium lichenicola Linds. SPECIES
 
 #### Status
 ACCEPTED

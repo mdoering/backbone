@@ -1,5 +1,4 @@
-Lecidea nivea Migula SPECIES
-=======
+# Lecidea nivea Migula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria semicircularis Sacc. & Scalia SPECIES
-=======
+# Septoria semicircularis Sacc. & Scalia SPECIES
 
 #### Status
 ACCEPTED

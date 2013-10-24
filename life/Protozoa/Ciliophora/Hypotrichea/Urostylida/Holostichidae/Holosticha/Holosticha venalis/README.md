@@ -1,5 +1,4 @@
-Holosticha venalis Stokes, 1887 SPECIES
-=======
+# Holosticha venalis Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

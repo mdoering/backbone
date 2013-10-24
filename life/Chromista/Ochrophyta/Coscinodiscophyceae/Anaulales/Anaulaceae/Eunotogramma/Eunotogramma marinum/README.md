@@ -1,5 +1,4 @@
-Eunotogramma marinum (W. Smith) H. Peragallo SPECIES
-=======
+# Eunotogramma marinum (W. Smith) H. Peragallo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physospora globifera (Berk. & Broome) Petch SPECIES
-=======
+# Physospora globifera (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

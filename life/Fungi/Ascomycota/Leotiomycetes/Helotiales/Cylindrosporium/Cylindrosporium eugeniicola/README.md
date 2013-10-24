@@ -1,5 +1,4 @@
-Cylindrosporium eugeniicola Bat. & Peres SPECIES
-=======
+# Cylindrosporium eugeniicola Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

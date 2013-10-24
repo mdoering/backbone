@@ -1,5 +1,4 @@
-Epicoccum compactum Berk. & M.A. Curtis SPECIES
-=======
+# Epicoccum compactum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

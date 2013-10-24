@@ -1,5 +1,4 @@
-Septoria aderholdii Voglino SPECIES
-=======
+# Septoria aderholdii Voglino SPECIES
 
 #### Status
 ACCEPTED

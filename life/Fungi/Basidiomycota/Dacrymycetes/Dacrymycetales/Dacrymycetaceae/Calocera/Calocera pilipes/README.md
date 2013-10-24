@@ -1,5 +1,4 @@
-Calocera pilipes Schwein. SPECIES
-=======
+# Calocera pilipes Schwein. SPECIES
 
 #### Status
 ACCEPTED

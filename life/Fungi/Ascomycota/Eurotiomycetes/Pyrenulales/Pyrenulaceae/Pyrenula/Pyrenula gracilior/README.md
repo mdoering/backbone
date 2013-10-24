@@ -1,5 +1,4 @@
-Pyrenula gracilior Müll. Arg. SPECIES
-=======
+# Pyrenula gracilior Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

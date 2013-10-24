@@ -1,5 +1,4 @@
-Orbulinoides Cordey, 1968 GENUS
-=======
+# Orbulinoides Cordey, 1968 GENUS
 
 #### Status
 ACCEPTED

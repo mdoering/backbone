@@ -1,5 +1,4 @@
-Phyllosticta personatae Allesch. SPECIES
-=======
+# Phyllosticta personatae Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exobasidiellum culmigerum SPECIES
-=======
+# Exobasidiellum culmigerum SPECIES
 
 #### Status
 ACCEPTED

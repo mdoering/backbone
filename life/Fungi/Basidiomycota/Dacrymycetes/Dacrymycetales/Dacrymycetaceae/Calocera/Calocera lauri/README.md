@@ -1,5 +1,4 @@
-Calocera lauri (Brot.) Sacc. SPECIES
-=======
+# Calocera lauri (Brot.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

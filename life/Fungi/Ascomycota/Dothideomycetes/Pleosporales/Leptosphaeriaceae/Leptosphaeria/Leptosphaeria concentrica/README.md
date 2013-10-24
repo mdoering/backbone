@@ -1,5 +1,4 @@
-Leptosphaeria concentrica Ellis & Everh. SPECIES
-=======
+# Leptosphaeria concentrica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma mutabile (Ellis & Galloway) Kuntze SPECIES
-=======
+# Dicaeoma mutabile (Ellis & Galloway) Kuntze SPECIES
 
 #### Status
 ACCEPTED

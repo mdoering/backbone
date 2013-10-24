@@ -1,8 +1,7 @@
-Genea cubispora E.A. Bessey & B.E. Thomps., 1920 SPECIES
-=======
+# Hydnotrya cubispora (E.A. Bessey & B.E. Thomps.) Gilkey, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

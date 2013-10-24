@@ -1,5 +1,4 @@
-Thelidium halophilum Keissl. SPECIES
-=======
+# Thelidium halophilum Keissl. SPECIES
 
 #### Status
 ACCEPTED

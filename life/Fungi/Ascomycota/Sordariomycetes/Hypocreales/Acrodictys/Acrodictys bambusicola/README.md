@@ -1,5 +1,4 @@
-Acrodictys bambusicola M.B. Ellis, 1961 SPECIES
-=======
+# Acrodictys bambusicola M.B. Ellis, 1961 SPECIES
 
 #### Status
 ACCEPTED

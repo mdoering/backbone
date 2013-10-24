@@ -1,5 +1,4 @@
-Amanita umbonata Pomerl. SPECIES
-=======
+# Amanita umbonata Pomerl. SPECIES
 
 #### Status
 ACCEPTED

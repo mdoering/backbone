@@ -1,5 +1,4 @@
-Dinoasteromonas Bursa, 1971 GENUS
-=======
+# Dinoasteromonas Bursa, 1971 GENUS
 
 #### Status
 ACCEPTED

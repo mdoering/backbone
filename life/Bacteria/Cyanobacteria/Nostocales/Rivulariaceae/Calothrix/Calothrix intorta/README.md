@@ -1,5 +1,4 @@
-Calothrix intorta C.-C.Jao, 1939 SPECIES
-=======
+# Calothrix intorta C.-C.Jao, 1939 SPECIES
 
 #### Status
 ACCEPTED

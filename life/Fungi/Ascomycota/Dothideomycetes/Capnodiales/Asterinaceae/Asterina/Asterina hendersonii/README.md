@@ -1,5 +1,4 @@
-Asterina hendersonii Doidge SPECIES
-=======
+# Asterina hendersonii Doidge SPECIES
 
 #### Status
 ACCEPTED

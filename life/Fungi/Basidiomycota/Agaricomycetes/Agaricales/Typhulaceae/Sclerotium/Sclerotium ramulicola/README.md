@@ -1,5 +1,4 @@
-Sclerotium ramulicola Speg. SPECIES
-=======
+# Sclerotium ramulicola Speg. SPECIES
 
 #### Status
 ACCEPTED

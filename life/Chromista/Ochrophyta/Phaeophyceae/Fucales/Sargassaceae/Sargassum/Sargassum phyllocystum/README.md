@@ -1,5 +1,4 @@
-Sargassum phyllocystum C.K. Tseng & Lu SPECIES
-=======
+# Sargassum phyllocystum C.K. Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placidiopsis pisana Bagl. SPECIES
-=======
+# Placidiopsis pisana Bagl. SPECIES
 
 #### Status
 ACCEPTED

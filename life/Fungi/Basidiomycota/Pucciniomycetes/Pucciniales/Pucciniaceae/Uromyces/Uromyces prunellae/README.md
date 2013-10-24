@@ -1,5 +1,4 @@
-Uromyces prunellae W.G. Schneid. SPECIES
-=======
+# Uromyces prunellae W.G. Schneid. SPECIES
 
 #### Status
 ACCEPTED

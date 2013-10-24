@@ -1,5 +1,4 @@
-Omphalia tenera Massee SPECIES
-=======
+# Omphalia tenera Massee SPECIES
 
 #### Status
 ACCEPTED

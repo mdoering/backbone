@@ -1,5 +1,4 @@
-Chaetocypha vernalis (Weinm.) Kuntze SPECIES
-=======
+# Chaetocypha vernalis (Weinm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

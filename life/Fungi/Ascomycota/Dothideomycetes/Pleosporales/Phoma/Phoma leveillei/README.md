@@ -1,17 +1,16 @@
-Phoma leveillei var. leveillei VARIETY
-=======
+# Phoma leveillei Boerema & G.J. Bollen, 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Persoonia 8(2): 115 (1975)
 
 #### Original name
-Phoma leveillei var. leveillei
+Phoma leveillei Boerema & G.J. Bollen, 1975
 
 ### Remarks
 null

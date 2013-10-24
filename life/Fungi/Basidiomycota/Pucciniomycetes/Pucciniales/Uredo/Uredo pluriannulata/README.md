@@ -1,5 +1,4 @@
-Uredo pluriannulata M.A. Curtis SPECIES
-=======
+# Uredo pluriannulata M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

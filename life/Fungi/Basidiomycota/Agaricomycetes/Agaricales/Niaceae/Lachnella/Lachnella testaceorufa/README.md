@@ -1,5 +1,4 @@
-Lachnella testaceorufa Speg. SPECIES
-=======
+# Lachnella testaceorufa Speg. SPECIES
 
 #### Status
 ACCEPTED

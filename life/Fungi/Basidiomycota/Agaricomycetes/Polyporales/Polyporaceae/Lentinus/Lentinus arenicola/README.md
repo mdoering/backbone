@@ -1,5 +1,4 @@
-Lentinus arenicola (Berk.) Henn. SPECIES
-=======
+# Lentinus arenicola (Berk.) Henn. SPECIES
 
 #### Status
 ACCEPTED

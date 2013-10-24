@@ -1,5 +1,4 @@
-Hebeloma floridanum Murrill SPECIES
-=======
+# Hebeloma floridanum Murrill SPECIES
 
 #### Status
 ACCEPTED

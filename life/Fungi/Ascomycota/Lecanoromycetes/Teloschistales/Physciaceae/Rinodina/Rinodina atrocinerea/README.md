@@ -1,17 +1,16 @@
-Rinodina tympanelloides Bagl. ex Arnold SPECIES
-=======
+# Rinodina atrocinerea (Hook.) Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) 125 (1855)
 
 #### Original name
-null
+Lecidea atrocinerea (Schaer.) Vain.
 
 ### Remarks
 null

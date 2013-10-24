@@ -1,5 +1,4 @@
-Ascochyta rhododendri Lind SPECIES
-=======
+# Ascochyta rhododendri Lind SPECIES
 
 #### Status
 ACCEPTED

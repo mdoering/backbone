@@ -1,5 +1,4 @@
-Lepra ferruginea Baumg. SPECIES
-=======
+# Lepra ferruginea Baumg. SPECIES
 
 #### Status
 ACCEPTED

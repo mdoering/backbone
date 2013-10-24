@@ -1,5 +1,4 @@
-Polyschidea bulbosa Stackhouse SPECIES
-=======
+# Polyschidea bulbosa Stackhouse SPECIES
 
 #### Status
 ACCEPTED

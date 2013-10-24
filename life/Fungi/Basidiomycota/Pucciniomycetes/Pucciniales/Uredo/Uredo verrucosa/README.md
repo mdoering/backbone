@@ -1,5 +1,4 @@
-Uredo verrucosa F. Strauss SPECIES
-=======
+# Uredo verrucosa F. Strauss SPECIES
 
 #### Status
 ACCEPTED

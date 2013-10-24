@@ -1,5 +1,4 @@
-Haematractidium scombri Henry, 1913 SPECIES
-=======
+# Haematractidium scombri Henry, 1913 SPECIES
 
 #### Status
 ACCEPTED

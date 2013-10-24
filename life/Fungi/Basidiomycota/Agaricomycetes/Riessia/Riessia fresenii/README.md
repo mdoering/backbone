@@ -1,5 +1,4 @@
-Riessia fresenii Schulzer SPECIES
-=======
+# Riessia fresenii Schulzer SPECIES
 
 #### Status
 ACCEPTED

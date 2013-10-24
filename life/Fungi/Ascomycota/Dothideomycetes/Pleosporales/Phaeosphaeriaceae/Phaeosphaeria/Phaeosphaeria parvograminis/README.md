@@ -1,5 +1,4 @@
-Phaeosphaeria parvograminis Shoemaker & C.E. Babc., 1989 SPECIES
-=======
+# Phaeosphaeria parvograminis Shoemaker & C.E. Babc., 1989 SPECIES
 
 #### Status
 ACCEPTED

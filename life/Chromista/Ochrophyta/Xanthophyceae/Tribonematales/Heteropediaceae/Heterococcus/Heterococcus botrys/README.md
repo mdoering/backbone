@@ -1,5 +1,4 @@
-Heterococcus botrys Pitschmann SPECIES
-=======
+# Heterococcus botrys Pitschmann SPECIES
 
 #### Status
 ACCEPTED

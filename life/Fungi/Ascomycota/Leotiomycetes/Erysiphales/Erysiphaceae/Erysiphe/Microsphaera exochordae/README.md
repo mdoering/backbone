@@ -1,5 +1,4 @@
-Microsphaera exochordae Q.X. Lu & G.Z. Lu SPECIES
-=======
+# Microsphaera exochordae Q.X. Lu & G.Z. Lu SPECIES
 
 #### Status
 ACCEPTED

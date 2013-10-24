@@ -1,5 +1,4 @@
-Sporodictyon hegetschweileri (Nägeli) Hepp ex Hazsl. SPECIES
-=======
+# Sporodictyon hegetschweileri (Nägeli) Hepp ex Hazsl. SPECIES
 
 #### Status
 ACCEPTED

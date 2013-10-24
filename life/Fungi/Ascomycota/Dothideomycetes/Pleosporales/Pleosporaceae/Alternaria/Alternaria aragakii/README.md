@@ -1,5 +1,4 @@
-Alternaria aragakii E.G. Simmons, 1993 SPECIES
-=======
+# Alternaria aragakii E.G. Simmons, 1993 SPECIES
 
 #### Status
 ACCEPTED

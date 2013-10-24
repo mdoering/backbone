@@ -1,5 +1,4 @@
-Diplodina dianthi (Ces.) Sacc. SPECIES
-=======
+# Diplodina dianthi (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

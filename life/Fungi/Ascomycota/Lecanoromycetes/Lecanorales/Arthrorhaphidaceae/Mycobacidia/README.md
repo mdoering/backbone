@@ -1,5 +1,4 @@
-Mycobacidia GENUS
-=======
+# Mycobacidia GENUS
 
 #### Status
 ACCEPTED

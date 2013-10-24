@@ -1,8 +1,7 @@
-Glaucoma piriformis Ehrenberg, 1830 SPECIES
-=======
+# Glaucoma maupasi Kahl, 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

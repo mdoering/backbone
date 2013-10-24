@@ -1,5 +1,4 @@
-Boletus subtostus Corner SPECIES
-=======
+# Boletus subtostus Corner SPECIES
 
 #### Status
 ACCEPTED

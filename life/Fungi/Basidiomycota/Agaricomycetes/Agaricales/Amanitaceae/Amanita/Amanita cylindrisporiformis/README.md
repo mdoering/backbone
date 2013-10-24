@@ -1,5 +1,4 @@
-Amanita cylindrisporiformis (Murrill) Murrill SPECIES
-=======
+# Amanita cylindrisporiformis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

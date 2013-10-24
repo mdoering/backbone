@@ -1,5 +1,4 @@
-Dictyostelium macrocarpum Vadell & Cavender, 2007 SPECIES
-=======
+# Dictyostelium macrocarpum Vadell & Cavender, 2007 SPECIES
 
 #### Status
 ACCEPTED

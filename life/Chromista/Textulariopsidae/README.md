@@ -1,5 +1,4 @@
-Textulariopsidae Loeblich & Tappan, 1982 FAMILY
-=======
+# Textulariopsidae Loeblich & Tappan, 1982 FAMILY
 
 #### Status
 ACCEPTED

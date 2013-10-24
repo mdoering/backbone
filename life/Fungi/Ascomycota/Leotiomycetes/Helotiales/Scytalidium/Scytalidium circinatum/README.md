@@ -1,5 +1,4 @@
-Scytalidium circinatum Sigler & C.J.K. Wang, 1990 SPECIES
-=======
+# Scytalidium circinatum Sigler & C.J.K. Wang, 1990 SPECIES
 
 #### Status
 ACCEPTED

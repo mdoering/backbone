@@ -1,17 +1,16 @@
-Trichoconis padwickii Ganguly, 1948 SPECIES
-=======
+# Trichoconiella padwickii (Ganguly) B.L. Jain, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Indian bot. Soc. 26: 238 (1948)
+null
 
 #### Original name
-Trichoconis padwickii Ganguly, 1948
+null
 
 ### Remarks
 null

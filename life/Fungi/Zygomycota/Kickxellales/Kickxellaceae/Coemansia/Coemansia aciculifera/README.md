@@ -1,8 +1,7 @@
-Coemansia aciculifera var. aciculifera Linder, 1943 VARIETY
-=======
+# Coemansia aciculifera Linder, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Farlowia 1: 65 (1943)
 
 #### Original name
-Coemansia aciculifera var. aciculifera Linder, 1943
+Coemansia aciculifera Linder, 1943
 
 ### Remarks
 null

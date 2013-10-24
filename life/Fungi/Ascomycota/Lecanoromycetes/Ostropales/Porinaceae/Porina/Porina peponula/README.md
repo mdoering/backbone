@@ -1,5 +1,4 @@
-Porina peponula Müll. Arg. SPECIES
-=======
+# Porina peponula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

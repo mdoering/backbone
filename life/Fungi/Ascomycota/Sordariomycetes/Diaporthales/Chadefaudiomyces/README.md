@@ -1,5 +1,4 @@
-Chadefaudiomyces Kamat, V.G. Rao, A.S. Patil & Ullasa GENUS
-=======
+# Chadefaudiomyces Kamat, V.G. Rao, A.S. Patil & Ullasa GENUS
 
 #### Status
 ACCEPTED

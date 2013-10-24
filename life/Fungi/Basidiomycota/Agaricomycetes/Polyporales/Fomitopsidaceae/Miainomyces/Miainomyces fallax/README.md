@@ -1,5 +1,4 @@
-Miainomyces fallax Schulzer SPECIES
-=======
+# Miainomyces fallax Schulzer SPECIES
 
 #### Status
 ACCEPTED

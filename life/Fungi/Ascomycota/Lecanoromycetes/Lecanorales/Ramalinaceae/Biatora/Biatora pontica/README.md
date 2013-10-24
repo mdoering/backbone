@@ -1,5 +1,4 @@
-Biatora pontica Printzen & Tønsberg SPECIES
-=======
+# Biatora pontica Printzen & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

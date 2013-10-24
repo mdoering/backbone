@@ -1,5 +1,4 @@
-Talaromyces hachijoensis Yaguchi, Someya & Udagawa SPECIES
-=======
+# Talaromyces hachijoensis Yaguchi, Someya & Udagawa SPECIES
 
 #### Status
 ACCEPTED

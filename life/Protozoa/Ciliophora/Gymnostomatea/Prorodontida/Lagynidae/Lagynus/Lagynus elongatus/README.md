@@ -1,5 +1,4 @@
-Lagynus elongatus SPECIES
-=======
+# Lagynus elongatus SPECIES
 
 #### Status
 ACCEPTED

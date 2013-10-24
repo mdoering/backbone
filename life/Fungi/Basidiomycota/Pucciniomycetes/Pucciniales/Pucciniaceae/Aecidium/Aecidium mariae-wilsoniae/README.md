@@ -1,8 +1,7 @@
-Aecidium mariae-wilsoni Peck SPECIES
-=======
+# Aecidium mariae-wilsoniae Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium mariae-wilsoni Peck
+Aecidium mariae-wilsoniae Peck
 
 ### Remarks
 null

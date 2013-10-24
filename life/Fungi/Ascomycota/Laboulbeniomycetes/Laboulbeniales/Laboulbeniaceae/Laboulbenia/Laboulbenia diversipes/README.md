@@ -1,5 +1,4 @@
-Laboulbenia diversipes Speg. SPECIES
-=======
+# Laboulbenia diversipes Speg. SPECIES
 
 #### Status
 ACCEPTED

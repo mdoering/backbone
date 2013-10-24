@@ -1,5 +1,4 @@
-Almeidaea vermispora (Hansf.) Cif. & Bat. SPECIES
-=======
+# Almeidaea vermispora (Hansf.) Cif. & Bat. SPECIES
 
 #### Status
 ACCEPTED

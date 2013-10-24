@@ -1,5 +1,4 @@
-Teichospora muricata Ellis & Everh. SPECIES
-=======
+# Teichospora muricata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

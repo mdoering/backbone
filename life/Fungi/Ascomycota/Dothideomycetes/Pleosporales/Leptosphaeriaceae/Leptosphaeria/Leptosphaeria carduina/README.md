@@ -1,5 +1,4 @@
-Leptosphaeria carduina Pass. SPECIES
-=======
+# Leptosphaeria carduina Pass. SPECIES
 
 #### Status
 ACCEPTED

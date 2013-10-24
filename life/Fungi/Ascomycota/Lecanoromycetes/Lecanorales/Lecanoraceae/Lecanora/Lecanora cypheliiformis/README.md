@@ -1,5 +1,4 @@
-Lecanora cypheliiformis Cromb. SPECIES
-=======
+# Lecanora cypheliiformis Cromb. SPECIES
 
 #### Status
 ACCEPTED

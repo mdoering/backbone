@@ -1,5 +1,4 @@
-Sphaeria eterio Berk. & Broome SPECIES
-=======
+# Sphaeria eterio Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

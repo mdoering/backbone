@@ -1,5 +1,4 @@
-Collybia bianastomosans Rick SPECIES
-=======
+# Collybia bianastomosans Rick SPECIES
 
 #### Status
 ACCEPTED

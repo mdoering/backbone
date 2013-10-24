@@ -1,5 +1,4 @@
-Homalohedra Patterson & Richardson, 1988 GENUS
-=======
+# Homalohedra Patterson & Richardson, 1988 GENUS
 
 #### Status
 ACCEPTED

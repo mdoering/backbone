@@ -1,5 +1,4 @@
-Blastenia modesta SPECIES
-=======
+# Blastenia modesta SPECIES
 
 #### Status
 ACCEPTED

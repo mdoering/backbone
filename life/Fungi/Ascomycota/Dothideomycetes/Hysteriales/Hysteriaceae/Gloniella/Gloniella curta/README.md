@@ -1,5 +1,4 @@
-Gloniella curta (P. Karst.) Sacc. SPECIES
-=======
+# Gloniella curta (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

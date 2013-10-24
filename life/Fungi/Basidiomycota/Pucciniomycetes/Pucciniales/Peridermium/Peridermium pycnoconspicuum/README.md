@@ -1,5 +1,4 @@
-Peridermium pycnoconspicuum H.P. Bell SPECIES
-=======
+# Peridermium pycnoconspicuum H.P. Bell SPECIES
 
 #### Status
 ACCEPTED

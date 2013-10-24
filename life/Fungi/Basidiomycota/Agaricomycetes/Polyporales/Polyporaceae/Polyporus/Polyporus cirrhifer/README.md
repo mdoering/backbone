@@ -1,5 +1,4 @@
-Polyporus cirrhifer Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus cirrhifer Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

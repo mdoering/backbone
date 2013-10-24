@@ -1,5 +1,4 @@
-Clostridium septicum (Macé, 1889) Ford, 1927 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium septicum (Macé, 1889) Ford, 1927 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

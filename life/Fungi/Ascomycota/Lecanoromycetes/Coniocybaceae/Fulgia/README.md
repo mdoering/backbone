@@ -1,5 +1,4 @@
-Fulgia GENUS
-=======
+# Fulgia GENUS
 
 #### Status
 ACCEPTED

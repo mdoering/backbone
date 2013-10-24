@@ -1,5 +1,4 @@
-Asterina correicola Cooke & Massee SPECIES
-=======
+# Asterina correicola Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis arthrophylli (Koord.) Aa SPECIES
-=======
+# Phomopsis arthrophylli (Koord.) Aa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calothrix antarctica F.E. Fritsch SPECIES
-=======
+# Calothrix antarctica F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

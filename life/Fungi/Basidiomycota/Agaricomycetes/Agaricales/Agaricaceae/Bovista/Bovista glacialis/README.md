@@ -1,5 +1,4 @@
-Bovista glacialis Kreisel SPECIES
-=======
+# Bovista glacialis Kreisel SPECIES
 
 #### Status
 ACCEPTED

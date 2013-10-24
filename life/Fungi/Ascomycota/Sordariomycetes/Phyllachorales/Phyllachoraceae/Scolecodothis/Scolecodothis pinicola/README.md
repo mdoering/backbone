@@ -1,5 +1,4 @@
-Scolecodothis pinicola Miles SPECIES
-=======
+# Scolecodothis pinicola Miles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphidinium kesselitzii Schiller SPECIES
-=======
+# Amphidinium kesselitzii Schiller SPECIES
 
 #### Status
 ACCEPTED

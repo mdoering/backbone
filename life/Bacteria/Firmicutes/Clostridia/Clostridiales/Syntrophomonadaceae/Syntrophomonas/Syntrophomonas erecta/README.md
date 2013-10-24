@@ -1,5 +1,4 @@
-Syntrophomonas erecta Zhang et al., 2005 SPECIES
-=======
+# Syntrophomonas erecta Zhang et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

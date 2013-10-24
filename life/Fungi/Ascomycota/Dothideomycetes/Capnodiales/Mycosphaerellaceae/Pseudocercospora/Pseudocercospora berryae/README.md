@@ -1,5 +1,4 @@
-Pseudocercospora berryae Deighton SPECIES
-=======
+# Pseudocercospora berryae Deighton SPECIES
 
 #### Status
 ACCEPTED

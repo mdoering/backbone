@@ -1,5 +1,4 @@
-Syzygospora parmeliicola Diederich, 1996 SPECIES
-=======
+# Syzygospora parmeliicola Diederich, 1996 SPECIES
 
 #### Status
 ACCEPTED

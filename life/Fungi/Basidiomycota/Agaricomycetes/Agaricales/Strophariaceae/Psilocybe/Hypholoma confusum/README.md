@@ -1,5 +1,4 @@
-Hypholoma confusum Dennis SPECIES
-=======
+# Hypholoma confusum Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphelidium deformans Zopf SPECIES
-=======
+# Aphelidium deformans Zopf SPECIES
 
 #### Status
 ACCEPTED

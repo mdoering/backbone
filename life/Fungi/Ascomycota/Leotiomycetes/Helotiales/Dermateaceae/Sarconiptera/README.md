@@ -1,5 +1,4 @@
-Sarconiptera Raitv. GENUS
-=======
+# Sarconiptera Raitv. GENUS
 
 #### Status
 ACCEPTED

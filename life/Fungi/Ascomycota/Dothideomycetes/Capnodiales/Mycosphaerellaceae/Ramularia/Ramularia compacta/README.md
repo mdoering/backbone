@@ -1,5 +1,4 @@
-Ramularia compacta (Ellis & Everh.) U. Braun SPECIES
-=======
+# Ramularia compacta (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

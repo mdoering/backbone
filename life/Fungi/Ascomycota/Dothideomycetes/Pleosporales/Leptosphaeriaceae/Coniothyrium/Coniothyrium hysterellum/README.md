@@ -1,5 +1,4 @@
-Coniothyrium hysterellum (Sacc.) Kuntze SPECIES
-=======
+# Coniothyrium hysterellum (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

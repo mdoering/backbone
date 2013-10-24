@@ -1,5 +1,4 @@
-Exobasidium savilei Nannf. SPECIES
-=======
+# Exobasidium savilei Nannf. SPECIES
 
 #### Status
 ACCEPTED

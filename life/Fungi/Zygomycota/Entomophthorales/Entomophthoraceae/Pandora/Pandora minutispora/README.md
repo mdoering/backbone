@@ -1,14 +1,13 @@
-Pandora minutospora (S. Keller) S. Keller SPECIES
-=======
+# Pandora minutispora (S. Keller) S. Keller, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Keller & Petrini, Sydowia 57(1): 41 (2005)
 
 #### Original name
 Erynia minutispora S. Keller, 1994

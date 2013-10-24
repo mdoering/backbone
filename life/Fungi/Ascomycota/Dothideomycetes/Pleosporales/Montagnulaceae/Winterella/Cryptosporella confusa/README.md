@@ -1,5 +1,4 @@
-Cryptosporella confusa (J. Reid & C. Booth) L.C. Mejia & Castl. SPECIES
-=======
+# Cryptosporella confusa (J. Reid & C. Booth) L.C. Mejia & Castl. SPECIES
 
 #### Status
 ACCEPTED

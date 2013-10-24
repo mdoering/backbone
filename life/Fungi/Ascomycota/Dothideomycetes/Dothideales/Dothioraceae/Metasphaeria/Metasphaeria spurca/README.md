@@ -1,5 +1,4 @@
-Metasphaeria spurca Pass. SPECIES
-=======
+# Metasphaeria spurca Pass. SPECIES
 
 #### Status
 ACCEPTED

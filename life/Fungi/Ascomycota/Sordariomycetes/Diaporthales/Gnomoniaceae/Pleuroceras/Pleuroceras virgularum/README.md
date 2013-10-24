@@ -1,5 +1,4 @@
-Pleuroceras virgularum M.E. Barr SPECIES
-=======
+# Pleuroceras virgularum M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

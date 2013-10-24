@@ -1,5 +1,4 @@
-Stentor sphaericus Vuxanovici, 1961 SPECIES
-=======
+# Stentor sphaericus Vuxanovici, 1961 SPECIES
 
 #### Status
 ACCEPTED

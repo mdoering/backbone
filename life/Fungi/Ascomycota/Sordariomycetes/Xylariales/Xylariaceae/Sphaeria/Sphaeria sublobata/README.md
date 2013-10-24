@@ -1,5 +1,4 @@
-Sphaeria sublobata Schwein. SPECIES
-=======
+# Sphaeria sublobata Schwein. SPECIES
 
 #### Status
 ACCEPTED

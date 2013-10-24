@@ -1,5 +1,4 @@
-Gloeopeziza zukalii Rehm SPECIES
-=======
+# Gloeopeziza zukalii Rehm SPECIES
 
 #### Status
 ACCEPTED

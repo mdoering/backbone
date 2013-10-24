@@ -1,5 +1,4 @@
-Peniophora texana Burt SPECIES
-=======
+# Peniophora texana Burt SPECIES
 
 #### Status
 ACCEPTED

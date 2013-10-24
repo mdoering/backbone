@@ -1,5 +1,4 @@
-Stagonosporopsis rosae N.F. Buchw. SPECIES
-=======
+# Stagonosporopsis rosae N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

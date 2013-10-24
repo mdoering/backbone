@@ -1,5 +1,4 @@
-Rhodothermus Alfredsson, Kristjansson, Hjorleifsdottir & Stetter, 1988 GENUS
-=======
+# Rhodothermus Alfredsson, Kristjansson, Hjorleifsdottir & Stetter, 1988 GENUS
 
 #### Status
 ACCEPTED

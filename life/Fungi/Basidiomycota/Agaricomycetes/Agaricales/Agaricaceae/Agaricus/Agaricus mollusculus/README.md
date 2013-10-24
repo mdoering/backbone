@@ -1,5 +1,4 @@
-Agaricus mollusculus Sowerby SPECIES
-=======
+# Agaricus mollusculus Sowerby SPECIES
 
 #### Status
 ACCEPTED

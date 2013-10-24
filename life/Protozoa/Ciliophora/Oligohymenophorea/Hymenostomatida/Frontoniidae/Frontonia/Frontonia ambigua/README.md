@@ -1,5 +1,4 @@
-Frontonia ambigua Dragesco, 1972 SPECIES
-=======
+# Frontonia ambigua Dragesco, 1972 SPECIES
 
 #### Status
 ACCEPTED

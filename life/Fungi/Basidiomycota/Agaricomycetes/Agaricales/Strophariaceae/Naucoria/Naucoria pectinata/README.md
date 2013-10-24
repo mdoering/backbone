@@ -1,5 +1,4 @@
-Naucoria pectinata Sacc. SPECIES
-=======
+# Naucoria pectinata Sacc. SPECIES
 
 #### Status
 ACCEPTED

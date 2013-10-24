@@ -1,5 +1,4 @@
-Leptophyma ugandensis (Hansf.) Arx SPECIES
-=======
+# Leptophyma ugandensis (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

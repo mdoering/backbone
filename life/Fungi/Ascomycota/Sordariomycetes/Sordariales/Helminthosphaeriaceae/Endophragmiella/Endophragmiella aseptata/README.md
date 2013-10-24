@@ -1,5 +1,4 @@
-Endophragmiella aseptata Hol.-Jech., 1986 SPECIES
-=======
+# Endophragmiella aseptata Hol.-Jech., 1986 SPECIES
 
 #### Status
 ACCEPTED

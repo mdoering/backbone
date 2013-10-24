@@ -1,5 +1,4 @@
-Crocynia poncinsiana Hue SPECIES
-=======
+# Crocynia poncinsiana Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptococcus sinensis Woo et al., 2002 SPECIES
-=======
+# Streptococcus sinensis Woo et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

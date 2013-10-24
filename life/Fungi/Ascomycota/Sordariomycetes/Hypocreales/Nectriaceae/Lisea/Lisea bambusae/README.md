@@ -1,5 +1,4 @@
-Lisea bambusae I. Hino & Katum. SPECIES
-=======
+# Lisea bambusae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

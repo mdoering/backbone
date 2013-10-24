@@ -1,5 +1,4 @@
-Mollisia betulina var. betulina VARIETY
-=======
+# Mollisia betulina Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 117 (1934)
 
 #### Original name
-Mollisia betulina var. betulina
+Mollisia betulina Velen.
 
 ### Remarks
 null

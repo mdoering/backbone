@@ -1,5 +1,4 @@
-Lactarius plinthogalus (J. Otto) Burl. SPECIES
-=======
+# Lactarius plinthogalus (J. Otto) Burl. SPECIES
 
 #### Status
 ACCEPTED

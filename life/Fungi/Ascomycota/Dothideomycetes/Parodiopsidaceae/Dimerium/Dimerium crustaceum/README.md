@@ -1,5 +1,4 @@
-Dimerium crustaceum (Theiss.) Sacc. & Trotter SPECIES
-=======
+# Dimerium crustaceum (Theiss.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

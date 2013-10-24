@@ -1,5 +1,4 @@
-Mycoplasma yeatsii DaMassa et al., 1994 SPECIES
-=======
+# Mycoplasma yeatsii DaMassa et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

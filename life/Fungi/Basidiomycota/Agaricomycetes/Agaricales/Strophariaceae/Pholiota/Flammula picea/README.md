@@ -1,5 +1,4 @@
-Flammula picea Velen. SPECIES
-=======
+# Flammula picea Velen. SPECIES
 
 #### Status
 ACCEPTED

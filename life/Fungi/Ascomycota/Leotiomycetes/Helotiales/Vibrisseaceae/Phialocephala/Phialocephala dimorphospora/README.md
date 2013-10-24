@@ -1,5 +1,4 @@
-Phialocephala dimorphospora W.B. Kendr., 1961 SPECIES
-=======
+# Phialocephala dimorphospora W.B. Kendr., 1961 SPECIES
 
 #### Status
 ACCEPTED

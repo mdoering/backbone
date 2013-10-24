@@ -1,5 +1,4 @@
-Cosmospora papilionacearum (Seaver) Rossman & Samuels SPECIES
-=======
+# Cosmospora papilionacearum (Seaver) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

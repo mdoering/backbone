@@ -1,17 +1,16 @@
-Paraparmelia agamalis (Brusse) Elix SPECIES
-=======
+# Xanthoparmelia agamalis (Brusse) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 87: 397 (2003)
 
 #### Original name
-null
+Parmelia agamalis Brusse
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amphidinium steini SPECIES
-=======
+# Amphidinium steini SPECIES
 
 #### Status
 ACCEPTED

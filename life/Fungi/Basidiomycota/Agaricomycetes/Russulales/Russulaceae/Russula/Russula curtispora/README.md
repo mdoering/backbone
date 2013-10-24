@@ -1,5 +1,4 @@
-Russula curtispora Moënne-Locc. SPECIES
-=======
+# Russula curtispora Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

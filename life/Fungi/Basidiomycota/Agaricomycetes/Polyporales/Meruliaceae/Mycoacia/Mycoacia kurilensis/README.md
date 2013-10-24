@@ -1,5 +1,4 @@
-Mycoacia kurilensis Parmasto SPECIES
-=======
+# Mycoacia kurilensis Parmasto SPECIES
 
 #### Status
 ACCEPTED

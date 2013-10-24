@@ -1,14 +1,13 @@
-Propolis foliicola Nograsek & Matzer, 1994 SPECIES
-=======
+# Marthamyces foliicola (Nograsek & Matzer) Minter, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 58(1-2): 30 (1994)
+Mycotaxon 87: 51 (2003)
 
 #### Original name
 Propolis foliicola Nograsek & Matzer, 1994

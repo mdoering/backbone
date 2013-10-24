@@ -1,5 +1,4 @@
-Aspicilia creberrima Motyka SPECIES
-=======
+# Aspicilia creberrima Motyka SPECIES
 
 #### Status
 ACCEPTED

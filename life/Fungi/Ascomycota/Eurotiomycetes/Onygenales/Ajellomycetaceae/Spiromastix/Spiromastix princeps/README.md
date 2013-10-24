@@ -1,5 +1,4 @@
-Spiromastix princeps Udagawa & Uchiy. SPECIES
-=======
+# Spiromastix princeps Udagawa & Uchiy. SPECIES
 
 #### Status
 ACCEPTED

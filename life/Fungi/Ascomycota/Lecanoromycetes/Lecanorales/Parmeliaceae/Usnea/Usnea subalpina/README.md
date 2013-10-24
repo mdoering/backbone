@@ -1,5 +1,4 @@
-Usnea subalpina G. N. Stevens SPECIES
-=======
+# Usnea subalpina G. N. Stevens SPECIES
 
 #### Status
 ACCEPTED

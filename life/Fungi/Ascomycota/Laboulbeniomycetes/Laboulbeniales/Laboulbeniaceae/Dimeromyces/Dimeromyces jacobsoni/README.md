@@ -1,5 +1,4 @@
-Dimeromyces jacobsoni Thaxt. SPECIES
-=======
+# Dimeromyces jacobsoni Thaxt. SPECIES
 
 #### Status
 ACCEPTED

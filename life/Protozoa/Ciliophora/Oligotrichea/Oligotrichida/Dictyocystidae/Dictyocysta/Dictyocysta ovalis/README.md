@@ -1,5 +1,4 @@
-Dictyocysta ovalis Daday, 1886 SPECIES
-=======
+# Dictyocysta ovalis Daday, 1886 SPECIES
 
 #### Status
 ACCEPTED

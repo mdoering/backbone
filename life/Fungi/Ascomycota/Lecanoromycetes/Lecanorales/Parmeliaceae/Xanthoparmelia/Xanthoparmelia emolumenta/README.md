@@ -1,17 +1,16 @@
-Parmelia emolumenta Brusse SPECIES
-=======
+# Xanthoparmelia emolumenta (Brusse) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 63: 342 (1997)
 
 #### Original name
-null
+Parmelia emolumenta Brusse
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clavaria congesta Corner SPECIES
-=======
+# Clavaria congesta Corner SPECIES
 
 #### Status
 ACCEPTED

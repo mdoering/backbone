@@ -1,5 +1,4 @@
-Gymnoascus corniculatus G.F. Orr & Plunkett SPECIES
-=======
+# Gymnoascus corniculatus G.F. Orr & Plunkett SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Byrrha portio-vaginalis Bat., F. Monnier & J.S. Silveira SPECIES
-=======
+# Byrrha portio-vaginalis Bat., F. Monnier & J.S. Silveira SPECIES
 
 #### Status
 ACCEPTED

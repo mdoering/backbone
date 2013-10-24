@@ -1,5 +1,4 @@
-Diatrype riograndensis Rehm SPECIES
-=======
+# Diatrype riograndensis Rehm SPECIES
 
 #### Status
 ACCEPTED

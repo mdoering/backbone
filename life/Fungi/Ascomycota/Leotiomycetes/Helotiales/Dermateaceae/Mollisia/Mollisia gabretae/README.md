@@ -1,5 +1,4 @@
-Mollisia gabretae Svrcek SPECIES
-=======
+# Mollisia gabretae Svrcek SPECIES
 
 #### Status
 ACCEPTED

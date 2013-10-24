@@ -1,5 +1,4 @@
-Ascorhiza leguminosarum Lecht.-Trinka, 1931 SPECIES
-=======
+# Ascorhiza leguminosarum Lecht.-Trinka, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Absidia spinosa var. spinosa Lendn., 1907 VARIETY
-=======
+# Absidia spinosa Lendn., 1905 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier, 2 sér. 7: 250 (1907)
+null
 
 #### Original name
-Absidia spinosa var. spinosa Lendn., 1907
+null
 
 ### Remarks
 null

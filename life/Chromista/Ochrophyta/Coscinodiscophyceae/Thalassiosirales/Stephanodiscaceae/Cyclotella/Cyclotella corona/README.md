@@ -1,5 +1,4 @@
-Cyclotella corona V. V. Mukhina SPECIES
-=======
+# Cyclotella corona V. V. Mukhina SPECIES
 
 #### Status
 ACCEPTED

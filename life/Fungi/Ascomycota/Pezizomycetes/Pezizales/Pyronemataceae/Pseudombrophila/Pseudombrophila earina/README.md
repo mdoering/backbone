@@ -1,5 +1,4 @@
-Pseudombrophila earina (Ellis) Brumm. SPECIES
-=======
+# Pseudombrophila earina (Ellis) Brumm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptographium aureum (Rob.-Jeffr. & R.W. Davidson) M.J. Wingf. SPECIES
-=======
+# Leptographium aureum (Rob.-Jeffr. & R.W. Davidson) M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

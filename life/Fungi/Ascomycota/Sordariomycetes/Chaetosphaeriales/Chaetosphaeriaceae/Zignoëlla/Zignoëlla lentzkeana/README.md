@@ -1,5 +1,4 @@
-Zignoëlla lentzkeana Kirschst. SPECIES
-=======
+# Zignoëlla lentzkeana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

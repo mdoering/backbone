@@ -1,5 +1,4 @@
-Pseudoparmelia relicinoides Elix & T. H. Nash SPECIES
-=======
+# Pseudoparmelia relicinoides Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

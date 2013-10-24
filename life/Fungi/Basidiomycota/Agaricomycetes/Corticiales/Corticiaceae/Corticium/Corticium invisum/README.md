@@ -1,5 +1,4 @@
-Corticium invisum Petch, 1925 SPECIES
-=======
+# Corticium invisum Petch, 1925 SPECIES
 
 #### Status
 ACCEPTED

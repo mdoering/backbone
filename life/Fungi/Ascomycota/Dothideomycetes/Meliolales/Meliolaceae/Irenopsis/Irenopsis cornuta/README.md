@@ -1,5 +1,4 @@
-Irenopsis cornuta (Rehm) Hansf. SPECIES
-=======
+# Irenopsis cornuta (Rehm) Hansf. SPECIES
 
 #### Status
 ACCEPTED

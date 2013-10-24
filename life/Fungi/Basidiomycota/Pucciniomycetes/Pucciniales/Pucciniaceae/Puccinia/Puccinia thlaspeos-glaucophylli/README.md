@@ -1,5 +1,4 @@
-Puccinia thlaspeos-glaucophylli Henn. SPECIES
-=======
+# Puccinia thlaspeos-glaucophylli Henn. SPECIES
 
 #### Status
 ACCEPTED

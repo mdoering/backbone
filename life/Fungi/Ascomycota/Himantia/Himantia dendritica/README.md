@@ -1,5 +1,4 @@
-Himantia dendritica Pers. SPECIES
-=======
+# Himantia dendritica Pers. SPECIES
 
 #### Status
 ACCEPTED

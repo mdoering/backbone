@@ -1,5 +1,4 @@
-Sphaerella haraeana (Syd. & P. Syd.) Sacc. SPECIES
-=======
+# Sphaerella haraeana (Syd. & P. Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

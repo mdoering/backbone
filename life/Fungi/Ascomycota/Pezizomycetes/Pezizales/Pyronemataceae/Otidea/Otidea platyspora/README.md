@@ -1,5 +1,4 @@
-Otidea platyspora Nannf., 1966 SPECIES
-=======
+# Otidea platyspora Nannf., 1966 SPECIES
 
 #### Status
 ACCEPTED

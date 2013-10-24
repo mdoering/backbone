@@ -1,5 +1,4 @@
-Ramalina flabelliformis Asahina SPECIES
-=======
+# Ramalina flabelliformis Asahina SPECIES
 
 #### Status
 ACCEPTED

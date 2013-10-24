@@ -1,5 +1,4 @@
-Pluricellaesporites dentatus Trivedi & C.L. Verma SPECIES
-=======
+# Pluricellaesporites dentatus Trivedi & C.L. Verma SPECIES
 
 #### Status
 ACCEPTED

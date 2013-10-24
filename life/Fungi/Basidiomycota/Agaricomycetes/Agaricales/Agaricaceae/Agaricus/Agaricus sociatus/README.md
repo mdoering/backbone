@@ -1,5 +1,4 @@
-Agaricus sociatus Schumach. SPECIES
-=======
+# Agaricus sociatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

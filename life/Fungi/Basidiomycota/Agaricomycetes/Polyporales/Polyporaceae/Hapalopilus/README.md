@@ -1,17 +1,16 @@
-Sarcoporia P. Karst. GENUS
-=======
+# Hapalopilus P. Karsten, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Hedwigia 33: 15 (1894)
+null
 
 #### Original name
-Sarcoporia P. Karst.
+null
 
 ### Remarks
 null

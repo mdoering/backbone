@@ -1,5 +1,4 @@
-Phyllosticta hymenaeicola Bat. & Silva {?} SPECIES
-=======
+# Phyllosticta hymenaeicola Bat. & Silva {?} SPECIES
 
 #### Status
 ACCEPTED

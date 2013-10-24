@@ -1,5 +1,4 @@
-Vulcanisphaera microspinosa Tynni, 1978 SPECIES
-=======
+# Vulcanisphaera microspinosa Tynni, 1978 SPECIES
 
 #### Status
 ACCEPTED

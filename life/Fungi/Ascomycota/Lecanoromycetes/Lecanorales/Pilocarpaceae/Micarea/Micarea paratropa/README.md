@@ -1,14 +1,13 @@
-Lecidea paratropa Nyl. SPECIES
-=======
+# Micarea paratropa (Nyl.) Alstrup SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 52: 84 (1869)
+in Alstrup, Christensen, Hansen & Svane, Fródskaparrit, Annales Societatis Scientiarium Færoensis 40: 96 (1994)
 
 #### Original name
 Lecidea paratropa Nyl.

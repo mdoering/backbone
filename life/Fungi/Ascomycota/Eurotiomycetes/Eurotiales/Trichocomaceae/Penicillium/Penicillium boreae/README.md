@@ -1,5 +1,4 @@
-Penicillium boreae S.W. Peterson & Sigler, 2002 SPECIES
-=======
+# Penicillium boreae S.W. Peterson & Sigler, 2002 SPECIES
 
 #### Status
 ACCEPTED

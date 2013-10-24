@@ -1,5 +1,4 @@
-Fusarium globulosum Pass. SPECIES
-=======
+# Fusarium globulosum Pass. SPECIES
 
 #### Status
 ACCEPTED

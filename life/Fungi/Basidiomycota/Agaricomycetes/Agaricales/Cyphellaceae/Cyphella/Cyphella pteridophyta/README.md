@@ -1,5 +1,4 @@
-Cyphella pteridophyta Rodway SPECIES
-=======
+# Cyphella pteridophyta Rodway SPECIES
 
 #### Status
 ACCEPTED

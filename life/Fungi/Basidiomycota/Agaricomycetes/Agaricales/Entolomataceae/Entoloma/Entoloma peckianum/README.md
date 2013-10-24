@@ -1,5 +1,4 @@
-Entoloma peckianum Burt SPECIES
-=======
+# Entoloma peckianum Burt SPECIES
 
 #### Status
 ACCEPTED

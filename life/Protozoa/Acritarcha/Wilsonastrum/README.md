@@ -1,5 +1,4 @@
-Wilsonastrum Jansonius GENUS
-=======
+# Wilsonastrum Jansonius GENUS
 
 #### Status
 ACCEPTED

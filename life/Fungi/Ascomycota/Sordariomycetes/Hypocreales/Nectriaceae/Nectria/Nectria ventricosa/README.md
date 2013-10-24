@@ -1,17 +1,16 @@
-Nectria solani f. zanthoxyli Reinke & Berthold FORM
-=======
+# Nectria ventricosa C. Booth, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. Pilzk. 37(1-4): 193 (1972)
+The Genus Fusarium 55 (1971)
 
 #### Original name
-Nectria solani f. zanthoxyli Reinke & Berthold
+Nectria ventricosa C. Booth, 1971
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllosticta miyakei Syd. SPECIES
-=======
+# Phyllosticta miyakei Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria cyperina Pass. SPECIES
-=======
+# Leptosphaeria cyperina Pass. SPECIES
 
 #### Status
 ACCEPTED

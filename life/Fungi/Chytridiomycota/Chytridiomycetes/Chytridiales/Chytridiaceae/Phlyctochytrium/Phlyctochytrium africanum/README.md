@@ -1,5 +1,4 @@
-Phlyctochytrium africanum A. Gaertn., 1954 SPECIES
-=======
+# Phlyctochytrium africanum A. Gaertn., 1954 SPECIES
 
 #### Status
 ACCEPTED

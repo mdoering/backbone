@@ -1,17 +1,16 @@
-Acarospora badiofusca subsp. badiofusca (Nyl.) Th. Fr. SUBSPECIES
-=======
+# Acarospora badiofusca (Nyl.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Nova Acta R. Soc. Scient. upsal. , Ser. 3 3: 190 (1861)
 
 #### Original name
-Acarospora badiofusca subsp. badiofusca (Nyl.) Th. Fr.
+Lecanora badiofusca Nyl.
 
 ### Remarks
 null

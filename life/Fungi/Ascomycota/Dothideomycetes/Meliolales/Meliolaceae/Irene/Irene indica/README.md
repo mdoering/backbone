@@ -1,5 +1,4 @@
-Irene indica Anahosur SPECIES
-=======
+# Irene indica Anahosur SPECIES
 
 #### Status
 ACCEPTED

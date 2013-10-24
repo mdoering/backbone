@@ -1,5 +1,4 @@
-Coprinus diaphanus Quél. SPECIES
-=======
+# Coprinus diaphanus Quél. SPECIES
 
 #### Status
 ACCEPTED

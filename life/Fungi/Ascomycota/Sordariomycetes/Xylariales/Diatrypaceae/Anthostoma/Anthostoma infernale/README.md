@@ -1,5 +1,4 @@
-Anthostoma infernale Fabre SPECIES
-=======
+# Anthostoma infernale Fabre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnea scubalonta (Cooke & W.R. Gerard) Sacc. SPECIES
-=======
+# Lachnea scubalonta (Cooke & W.R. Gerard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

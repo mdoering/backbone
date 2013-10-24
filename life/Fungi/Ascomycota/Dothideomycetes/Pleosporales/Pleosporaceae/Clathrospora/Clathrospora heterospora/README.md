@@ -1,5 +1,4 @@
-Clathrospora heterospora var. heterospora (De Not.) Wehm. VARIETY
-=======
+# Clathrospora heterospora (De Not.) Wehm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 World Monograph of the Genus Pleospora and its Segregates 269 (1961)
 
 #### Original name
-Clathrospora heterospora var. heterospora (De Not.) Wehm.
+Pleospora heterospora De Not.
 
 ### Remarks
 null

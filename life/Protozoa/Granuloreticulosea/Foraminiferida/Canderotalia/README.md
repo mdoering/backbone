@@ -1,5 +1,4 @@
-Canderotalia Saito, 1992 GENUS
-=======
+# Canderotalia Saito, 1992 GENUS
 
 #### Status
 ACCEPTED

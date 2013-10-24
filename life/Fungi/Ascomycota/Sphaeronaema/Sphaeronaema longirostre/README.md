@@ -1,5 +1,4 @@
-Sphaeronaema longirostre Clem. SPECIES
-=======
+# Sphaeronaema longirostre Clem. SPECIES
 
 #### Status
 ACCEPTED

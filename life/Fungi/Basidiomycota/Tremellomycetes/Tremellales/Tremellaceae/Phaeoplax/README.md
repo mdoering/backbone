@@ -1,5 +1,4 @@
-Phaeoplax Pascher GENUS
-=======
+# Phaeoplax Pascher GENUS
 
 #### Status
 ACCEPTED

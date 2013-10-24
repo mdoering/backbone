@@ -1,5 +1,4 @@
-Hymenochaete lignosa G. Cunn., 1957 SPECIES
-=======
+# Hymenochaete lignosa G. Cunn., 1957 SPECIES
 
 #### Status
 ACCEPTED

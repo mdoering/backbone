@@ -1,5 +1,4 @@
-Tapesia arachnoidea (Schwein.) Sacc. SPECIES
-=======
+# Tapesia arachnoidea (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

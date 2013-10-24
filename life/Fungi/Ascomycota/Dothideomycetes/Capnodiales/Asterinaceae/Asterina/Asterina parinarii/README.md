@@ -1,5 +1,4 @@
-Asterina parinarii Syd. SPECIES
-=======
+# Asterina parinarii Syd. SPECIES
 
 #### Status
 ACCEPTED

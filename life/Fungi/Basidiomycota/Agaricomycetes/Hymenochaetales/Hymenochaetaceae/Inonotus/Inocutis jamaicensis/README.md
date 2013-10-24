@@ -1,5 +1,4 @@
-Inocutis jamaicensis (Murrill) A.M. Gottlieb, J.E. Wright & Moncalvo SPECIES
-=======
+# Inocutis jamaicensis (Murrill) A.M. Gottlieb, J.E. Wright & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

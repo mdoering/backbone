@@ -1,5 +1,4 @@
-Torula cucurbitarum Schwein. SPECIES
-=======
+# Torula cucurbitarum Schwein. SPECIES
 
 #### Status
 ACCEPTED

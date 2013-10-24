@@ -1,5 +1,4 @@
-Cyclopeltella orbicularis Petr., 1953 SPECIES
-=======
+# Cyclopeltella orbicularis Petr., 1953 SPECIES
 
 #### Status
 ACCEPTED

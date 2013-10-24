@@ -1,5 +1,4 @@
-Vorticella lichenicola Greeff, 1888 SPECIES
-=======
+# Vorticella lichenicola Greeff, 1888 SPECIES
 
 #### Status
 ACCEPTED

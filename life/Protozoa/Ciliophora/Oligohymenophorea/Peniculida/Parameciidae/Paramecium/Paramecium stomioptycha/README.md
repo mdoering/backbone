@@ -1,8 +1,7 @@
-Paramaecium stomioptycha Eckhard, 1846 SPECIES
-=======
+# Paramecium stomioptycha Eckhard, 1846 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

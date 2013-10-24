@@ -1,5 +1,4 @@
-Phyllosticta verbenae Sacc. SPECIES
-=======
+# Phyllosticta verbenae Sacc. SPECIES
 
 #### Status
 ACCEPTED

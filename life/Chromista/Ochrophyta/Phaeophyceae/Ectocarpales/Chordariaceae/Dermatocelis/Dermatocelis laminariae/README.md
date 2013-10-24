@@ -1,5 +1,4 @@
-Dermatocelis laminariae Rosenvinge SPECIES
-=======
+# Dermatocelis laminariae Rosenvinge SPECIES
 
 #### Status
 ACCEPTED

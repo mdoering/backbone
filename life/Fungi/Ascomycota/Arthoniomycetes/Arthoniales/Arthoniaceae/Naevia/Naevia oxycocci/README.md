@@ -1,5 +1,4 @@
-Naevia oxycocci Dearn. ex Cash SPECIES
-=======
+# Naevia oxycocci Dearn. ex Cash SPECIES
 
 #### Status
 ACCEPTED

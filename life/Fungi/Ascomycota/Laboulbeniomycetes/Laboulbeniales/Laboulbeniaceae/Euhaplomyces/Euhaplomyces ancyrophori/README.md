@@ -1,5 +1,4 @@
-Euhaplomyces ancyrophori Thaxt., 1901 SPECIES
-=======
+# Euhaplomyces ancyrophori Thaxt., 1901 SPECIES
 
 #### Status
 ACCEPTED

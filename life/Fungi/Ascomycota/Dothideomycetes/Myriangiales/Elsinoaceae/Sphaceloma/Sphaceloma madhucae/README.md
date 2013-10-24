@@ -1,5 +1,4 @@
-Sphaceloma madhucae Wani & Thirum. SPECIES
-=======
+# Sphaceloma madhucae Wani & Thirum. SPECIES
 
 #### Status
 ACCEPTED

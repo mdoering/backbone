@@ -1,5 +1,4 @@
-Hebeloma caulocystidiosum Hesler SPECIES
-=======
+# Hebeloma caulocystidiosum Hesler SPECIES
 
 #### Status
 ACCEPTED

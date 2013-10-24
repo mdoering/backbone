@@ -1,14 +1,13 @@
-Libertella equiseti Desm., 1847 SPECIES
-=======
+# Stamnaria persoonii (Moug.) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 23-24: 309 (1870)
 
 #### Original name
 null

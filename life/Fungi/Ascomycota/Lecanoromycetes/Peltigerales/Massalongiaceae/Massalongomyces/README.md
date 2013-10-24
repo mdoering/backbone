@@ -1,5 +1,4 @@
-Massalongomyces GENUS
-=======
+# Massalongomyces GENUS
 
 #### Status
 ACCEPTED

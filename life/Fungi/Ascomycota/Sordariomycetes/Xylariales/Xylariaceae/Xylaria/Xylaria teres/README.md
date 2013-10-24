@@ -1,5 +1,4 @@
-Xylaria teres Sacc. SPECIES
-=======
+# Xylaria teres Sacc. SPECIES
 
 #### Status
 ACCEPTED

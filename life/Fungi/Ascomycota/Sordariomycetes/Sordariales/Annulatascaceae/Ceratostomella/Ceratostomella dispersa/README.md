@@ -1,5 +1,4 @@
-Ceratostomella dispersa (P. Karst.) Sacc. SPECIES
-=======
+# Ceratostomella dispersa (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

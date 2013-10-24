@@ -1,5 +1,4 @@
-Stemphylium alfalfae E.G. Simmons SPECIES
-=======
+# Stemphylium alfalfae E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

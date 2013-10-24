@@ -1,5 +1,4 @@
-Sphaeronaema leonuri Byzova SPECIES
-=======
+# Sphaeronaema leonuri Byzova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora tortuosa Tassi SPECIES
-=======
+# Stagonospora tortuosa Tassi SPECIES
 
 #### Status
 ACCEPTED

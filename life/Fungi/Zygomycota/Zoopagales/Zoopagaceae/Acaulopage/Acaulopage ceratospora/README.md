@@ -1,5 +1,4 @@
-Acaulopage ceratospora Drechsler, 1935 SPECIES
-=======
+# Acaulopage ceratospora Drechsler, 1935 SPECIES
 
 #### Status
 ACCEPTED

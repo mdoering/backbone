@@ -1,5 +1,4 @@
-Dothichiza caroliniana Demaree & M.S. Wilcox SPECIES
-=======
+# Dothichiza caroliniana Demaree & M.S. Wilcox SPECIES
 
 #### Status
 ACCEPTED

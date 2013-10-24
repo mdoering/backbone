@@ -1,5 +1,4 @@
-Tricholoma subrancidum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma subrancidum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

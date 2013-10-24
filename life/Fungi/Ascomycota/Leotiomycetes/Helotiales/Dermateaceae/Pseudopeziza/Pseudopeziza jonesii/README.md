@@ -1,5 +1,4 @@
-Pseudopeziza jonesii Nannf. SPECIES
-=======
+# Pseudopeziza jonesii Nannf. SPECIES
 
 #### Status
 ACCEPTED

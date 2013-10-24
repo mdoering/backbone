@@ -1,5 +1,4 @@
-Pasteurella aerogenes McAllister and Carter, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Pasteurella aerogenes McAllister and Carter, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

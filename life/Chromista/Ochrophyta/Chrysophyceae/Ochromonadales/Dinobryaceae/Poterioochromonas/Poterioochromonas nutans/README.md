@@ -1,8 +1,7 @@
-Poteriochromonas nutans Jane, 1944 SPECIES
-=======
+# Poterioochromonas nutans Jane, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

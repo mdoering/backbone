@@ -1,5 +1,4 @@
-Porina discopoda SPECIES
-=======
+# Porina discopoda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ustilago montagnei var. montagnei VARIETY
-=======
+# Ustanciosporium montagnei (Tul. & C. Tul.) M. Piepenbr., Begerow & Oberw., 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 7: 88 (1847)
+in Piepenbring, Nova Hedwigia 70(3-4): 344 (2000)
 
 #### Original name
-Ustilago montagnei var. montagnei
+Ustilago montagnei Tul. & C. Tul., 1847
 
 ### Remarks
 null

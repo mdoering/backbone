@@ -1,5 +1,4 @@
-Aecidium stellatus Debey & Ettingsh. SPECIES
-=======
+# Aecidium stellatus Debey & Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

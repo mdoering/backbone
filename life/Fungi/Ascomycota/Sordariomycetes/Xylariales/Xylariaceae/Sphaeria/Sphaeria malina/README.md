@@ -1,5 +1,4 @@
-Sphaeria malina Fr. SPECIES
-=======
+# Sphaeria malina Fr. SPECIES
 
 #### Status
 ACCEPTED

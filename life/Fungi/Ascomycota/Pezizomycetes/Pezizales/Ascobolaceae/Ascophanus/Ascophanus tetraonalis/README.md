@@ -1,5 +1,4 @@
-Ascophanus tetraonalis Peck SPECIES
-=======
+# Ascophanus tetraonalis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecidea grossulina Stirt. SPECIES
-=======
+# Catillaria grossulina (Stirt.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. & Proc. Roy. Soc. Victoria 17: 77 (1881)
+Cat. Lich. Univers. 4: 46 (1926)
 
 #### Original name
 Lecidea grossulina Stirt.

@@ -1,5 +1,4 @@
-Cladosporium cerasi (Rabenh.) Aderh. SPECIES
-=======
+# Cladosporium cerasi (Rabenh.) Aderh. SPECIES
 
 #### Status
 ACCEPTED

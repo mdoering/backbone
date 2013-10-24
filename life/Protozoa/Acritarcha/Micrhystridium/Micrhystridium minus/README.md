@@ -1,5 +1,4 @@
-Micrhystridium minus K. Takahashi SPECIES
-=======
+# Micrhystridium minus K. Takahashi SPECIES
 
 #### Status
 ACCEPTED

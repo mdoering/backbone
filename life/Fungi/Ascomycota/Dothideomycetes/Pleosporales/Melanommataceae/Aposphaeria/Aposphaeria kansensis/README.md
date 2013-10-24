@@ -1,5 +1,4 @@
-Aposphaeria kansensis Ellis & Everh. SPECIES
-=======
+# Aposphaeria kansensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

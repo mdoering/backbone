@@ -1,5 +1,4 @@
-Thelotrema parvizebrinum Mangold SPECIES
-=======
+# Thelotrema parvizebrinum Mangold SPECIES
 
 #### Status
 ACCEPTED

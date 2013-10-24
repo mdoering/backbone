@@ -1,17 +1,16 @@
-Gloeosporium phomiforme Sacc. & Ellis, 1882 SPECIES
-=======
+# Dothiorella ellisii Arx, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Michelia 2(no. 8): 574 (1882)
+Verh. K. ned. Akad. Wet. , Afd. Natuurkunde, Tweede Reeks 51(3): 118 (1957)
 
 #### Original name
-Gloeosporium phomiforme Sacc. & Ellis, 1882
+Dothiorella ellisii Arx, 1957
 
 ### Remarks
 null

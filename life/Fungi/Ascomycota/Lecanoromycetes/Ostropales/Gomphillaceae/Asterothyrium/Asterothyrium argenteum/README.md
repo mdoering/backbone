@@ -1,5 +1,4 @@
-Asterothyrium argenteum Müll. Arg. SPECIES
-=======
+# Asterothyrium argenteum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

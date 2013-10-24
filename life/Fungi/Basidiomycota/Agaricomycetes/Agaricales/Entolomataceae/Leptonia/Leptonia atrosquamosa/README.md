@@ -1,5 +1,4 @@
-Leptonia atrosquamosa Murrill SPECIES
-=======
+# Leptonia atrosquamosa Murrill SPECIES
 
 #### Status
 ACCEPTED

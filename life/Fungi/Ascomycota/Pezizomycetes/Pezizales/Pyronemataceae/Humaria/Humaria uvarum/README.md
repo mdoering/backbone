@@ -1,5 +1,4 @@
-Humaria uvarum Rehm SPECIES
-=======
+# Humaria uvarum Rehm SPECIES
 
 #### Status
 ACCEPTED

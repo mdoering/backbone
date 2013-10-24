@@ -1,5 +1,4 @@
-Polycornum Malcolm & Vezda GENUS
-=======
+# Polycornum Malcolm & Vezda GENUS
 
 #### Status
 ACCEPTED

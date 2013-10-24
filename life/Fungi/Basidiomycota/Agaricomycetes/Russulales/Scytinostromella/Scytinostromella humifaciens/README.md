@@ -1,14 +1,13 @@
-Peniophora humifaciens Burt, 1926 SPECIES
-=======
+# Scytinostromella humifaciens (Burt) G.W. Freeman & R.H. Petersen, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 12: 225 (1926)
+Mycologia 71(1): 86 (1979)
 
 #### Original name
 Peniophora humifaciens Burt, 1926

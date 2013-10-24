@@ -1,5 +1,4 @@
-Pyrenula nigrocincta Müll. Arg., 1891 SPECIES
-=======
+# Pyrenula nigrocincta Müll. Arg., 1891 SPECIES
 
 #### Status
 DOUBTFUL

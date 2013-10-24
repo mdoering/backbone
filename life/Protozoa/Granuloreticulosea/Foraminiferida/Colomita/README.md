@@ -1,5 +1,4 @@
-Colomita Gonzalez-Donoso, 1968 GENUS
-=======
+# Colomita Gonzalez-Donoso, 1968 GENUS
 
 #### Status
 ACCEPTED

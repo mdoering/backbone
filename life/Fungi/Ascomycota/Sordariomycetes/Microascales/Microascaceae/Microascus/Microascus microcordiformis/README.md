@@ -1,5 +1,4 @@
-Microascus microcordiformis Matsush. SPECIES
-=======
+# Microascus microcordiformis Matsush. SPECIES
 
 #### Status
 ACCEPTED

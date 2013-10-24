@@ -1,5 +1,4 @@
-Sterigmatocystis glauca Bainier SPECIES
-=======
+# Sterigmatocystis glauca Bainier SPECIES
 
 #### Status
 ACCEPTED

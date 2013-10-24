@@ -1,5 +1,4 @@
-Pyrenocollerma pelvetica (G.K. Sutherl.) D.L. Hawks., 1988 SPECIES
-=======
+# Pyrenocollerma pelvetica (G.K. Sutherl.) D.L. Hawks., 1988 SPECIES
 
 #### Status
 ACCEPTED

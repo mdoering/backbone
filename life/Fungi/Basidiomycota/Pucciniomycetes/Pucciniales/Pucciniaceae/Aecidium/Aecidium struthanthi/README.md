@@ -1,5 +1,4 @@
-Aecidium struthanthi H.S. Jacks. & Holw. SPECIES
-=======
+# Aecidium struthanthi H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

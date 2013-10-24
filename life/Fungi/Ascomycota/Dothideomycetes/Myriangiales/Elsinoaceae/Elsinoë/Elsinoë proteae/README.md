@@ -1,5 +1,4 @@
-Elsinoë proteae Crous & L. Swart, 2001 SPECIES
-=======
+# Elsinoë proteae Crous & L. Swart, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurolemma fruticosum Henssen SPECIES
-=======
+# Staurolemma fruticosum Henssen SPECIES
 
 #### Status
 ACCEPTED

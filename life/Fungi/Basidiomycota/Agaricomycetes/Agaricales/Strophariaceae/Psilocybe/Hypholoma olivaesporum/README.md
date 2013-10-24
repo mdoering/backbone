@@ -1,5 +1,4 @@
-Hypholoma olivaesporum Ellis & Everh. SPECIES
-=======
+# Hypholoma olivaesporum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

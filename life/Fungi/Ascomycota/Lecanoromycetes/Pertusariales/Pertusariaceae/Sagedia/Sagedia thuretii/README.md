@@ -1,5 +1,4 @@
-Sagedia thuretii (Hepp) Körb. SPECIES
-=======
+# Sagedia thuretii (Hepp) Körb. SPECIES
 
 #### Status
 ACCEPTED

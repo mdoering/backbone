@@ -1,5 +1,4 @@
-Metaleiofusa D. Wall, 1965 GENUS
-=======
+# Metaleiofusa D. Wall, 1965 GENUS
 
 #### Status
 ACCEPTED

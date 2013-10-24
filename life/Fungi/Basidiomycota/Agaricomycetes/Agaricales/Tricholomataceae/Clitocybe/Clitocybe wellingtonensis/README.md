@@ -1,5 +1,4 @@
-Clitocybe wellingtonensis G.M. Taylor & G. Stev., 1964 SPECIES
-=======
+# Clitocybe wellingtonensis G.M. Taylor & G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

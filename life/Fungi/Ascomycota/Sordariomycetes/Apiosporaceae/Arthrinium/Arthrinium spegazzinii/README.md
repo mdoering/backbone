@@ -1,5 +1,4 @@
-Arthrinium spegazzinii Subram. SPECIES
-=======
+# Arthrinium spegazzinii Subram. SPECIES
 
 #### Status
 ACCEPTED

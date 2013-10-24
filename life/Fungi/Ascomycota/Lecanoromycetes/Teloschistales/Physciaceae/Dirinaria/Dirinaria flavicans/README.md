@@ -1,5 +1,4 @@
-Dirinaria flavicans (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Dirinaria flavicans (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

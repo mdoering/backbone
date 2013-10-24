@@ -1,5 +1,4 @@
-Barnardina Taylor, Patterson & Choi, 1985 GENUS
-=======
+# Barnardina Taylor, Patterson & Choi, 1985 GENUS
 
 #### Status
 ACCEPTED

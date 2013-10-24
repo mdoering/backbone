@@ -1,5 +1,4 @@
-Septoria artemisiae Unamuno SPECIES
-=======
+# Septoria artemisiae Unamuno SPECIES
 
 #### Status
 ACCEPTED

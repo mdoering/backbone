@@ -1,5 +1,4 @@
-Crinipellis trichialis (Lév.) Pat. ex Antonín R. Ryoo & H.D. Shin SPECIES
-=======
+# Crinipellis trichialis (Lév.) Pat. ex Antonín R. Ryoo & H.D. Shin SPECIES
 
 #### Status
 ACCEPTED

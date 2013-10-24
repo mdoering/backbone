@@ -1,5 +1,4 @@
-Phyllosticta extensa Ellis & Everh. SPECIES
-=======
+# Phyllosticta extensa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella fennica (P. Karst.) Arx SPECIES
-=======
+# Didymella fennica (P. Karst.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Piricauda trichophila (Syd.) R.T. Moore SPECIES
-=======
+# Piricauda trichophila (Syd.) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

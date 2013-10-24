@@ -1,14 +1,13 @@
-Veluticeps heimii Malençon, 1939 SPECIES
-=======
+# Campylomyces heimii (Malençon) Nakasone, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 55: 42 (1939)
+Sydowia 56(2): 262 (2004)
 
 #### Original name
 Veluticeps heimii Malençon, 1939

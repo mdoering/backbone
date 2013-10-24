@@ -1,5 +1,4 @@
-Lecanora ventosa SPECIES
-=======
+# Lecanora ventosa SPECIES
 
 #### Status
 ACCEPTED

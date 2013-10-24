@@ -1,5 +1,4 @@
-Gymnodinium pyrocystis Jörg SPECIES
-=======
+# Gymnodinium pyrocystis Jörg SPECIES
 
 #### Status
 ACCEPTED

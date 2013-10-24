@@ -1,5 +1,4 @@
-Paramazzantia biennis (Dearn.) Petr. SPECIES
-=======
+# Paramazzantia biennis (Dearn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

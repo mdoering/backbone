@@ -1,5 +1,4 @@
-Chrysosporium alboluteolum (Sacc. & Marchal) Dominik SPECIES
-=======
+# Chrysosporium alboluteolum (Sacc. & Marchal) Dominik SPECIES
 
 #### Status
 ACCEPTED

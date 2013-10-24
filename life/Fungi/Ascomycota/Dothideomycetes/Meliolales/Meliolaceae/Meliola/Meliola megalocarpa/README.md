@@ -1,5 +1,4 @@
-Meliola megalocarpa var. megalocarpa VARIETY
-=======
+# Meliola megalocarpa Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola megalocarpa var. megalocarpa
+Meliola megalocarpa Syd.
 
 ### Remarks
 null

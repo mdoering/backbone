@@ -1,5 +1,4 @@
-Evernia canariensis (Ach.) Mont. SPECIES
-=======
+# Evernia canariensis (Ach.) Mont. SPECIES
 
 #### Status
 ACCEPTED

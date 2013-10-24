@@ -1,5 +1,4 @@
-Agaricus inflatus Britzelm. SPECIES
-=======
+# Agaricus inflatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

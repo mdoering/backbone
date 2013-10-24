@@ -1,5 +1,4 @@
-Septoria phlomidis-herbae-venti Unamuno SPECIES
-=======
+# Septoria phlomidis-herbae-venti Unamuno SPECIES
 
 #### Status
 ACCEPTED

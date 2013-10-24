@@ -1,5 +1,4 @@
-Collybia maulensis Garrido SPECIES
-=======
+# Collybia maulensis Garrido SPECIES
 
 #### Status
 ACCEPTED

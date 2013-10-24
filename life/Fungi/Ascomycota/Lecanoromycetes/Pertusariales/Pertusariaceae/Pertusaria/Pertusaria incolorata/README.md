@@ -1,5 +1,4 @@
-Pertusaria incolorata Erichsen ex Almb. SPECIES
-=======
+# Pertusaria incolorata Erichsen ex Almb. SPECIES
 
 #### Status
 ACCEPTED

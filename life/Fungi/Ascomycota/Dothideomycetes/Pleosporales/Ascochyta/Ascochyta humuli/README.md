@@ -1,8 +1,7 @@
-Phloeospora humuli Westend., 1854 SPECIES
-=======
+# Ascochyta humuli Kabát & Bubák, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Phloeospora humuli Westend., 1854
+Ascochyta humuli Kabát & Bubák, 1904
 
 ### Remarks
 null

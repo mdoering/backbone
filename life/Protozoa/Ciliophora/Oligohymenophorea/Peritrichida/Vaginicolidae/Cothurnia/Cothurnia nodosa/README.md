@@ -1,5 +1,4 @@
-Cothurnia nodosa Entz, 1884 SPECIES
-=======
+# Cothurnia nodosa Entz, 1884 SPECIES
 
 #### Status
 ACCEPTED

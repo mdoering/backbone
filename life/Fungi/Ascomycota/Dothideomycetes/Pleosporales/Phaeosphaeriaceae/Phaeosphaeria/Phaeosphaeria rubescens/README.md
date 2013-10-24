@@ -1,5 +1,4 @@
-Phaeosphaeria rubescens Checa & M.E. Barr SPECIES
-=======
+# Phaeosphaeria rubescens Checa & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

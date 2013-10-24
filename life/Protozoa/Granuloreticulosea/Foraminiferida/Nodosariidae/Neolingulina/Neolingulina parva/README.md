@@ -1,5 +1,4 @@
-Neolingulina parva McCulloch, 1977 SPECIES
-=======
+# Neolingulina parva McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

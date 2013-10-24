@@ -1,5 +1,4 @@
-Leptosphaeria cavarae Curzi SPECIES
-=======
+# Leptosphaeria cavarae Curzi SPECIES
 
 #### Status
 ACCEPTED

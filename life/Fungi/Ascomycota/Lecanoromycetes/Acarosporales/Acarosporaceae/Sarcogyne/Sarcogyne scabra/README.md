@@ -1,5 +1,4 @@
-Sarcogyne scabra Nyl. SPECIES
-=======
+# Sarcogyne scabra Nyl. SPECIES
 
 #### Status
 ACCEPTED

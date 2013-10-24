@@ -1,17 +1,16 @@
-Cercospora castillosae Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Cercospora castillae Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Rep. China 2(2): 126 (1987)
 
 #### Original name
-Cercospora castillosae Sawada ex Goh & W.H. Hsieh
+Cercospora castillae Sawada ex Goh & W.H. Hsieh
 
 ### Remarks
 null

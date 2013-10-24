@@ -1,5 +1,4 @@
-Mortierella traversiana Peyronel SPECIES
-=======
+# Mortierella traversiana Peyronel SPECIES
 
 #### Status
 ACCEPTED

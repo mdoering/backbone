@@ -1,5 +1,4 @@
-Thiorhodospira Bryantseva et al., 1999 GENUS
-=======
+# Thiorhodospira Bryantseva et al., 1999 GENUS
 
 #### Status
 ACCEPTED

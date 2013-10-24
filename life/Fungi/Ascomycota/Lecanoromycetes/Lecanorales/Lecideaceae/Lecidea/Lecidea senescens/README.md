@@ -1,5 +1,4 @@
-Lecidea senescens Zahlbr. SPECIES
-=======
+# Lecidea senescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

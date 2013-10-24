@@ -1,5 +1,4 @@
-Rutstroemia oligospora Velen. SPECIES
-=======
+# Rutstroemia oligospora Velen. SPECIES
 
 #### Status
 ACCEPTED

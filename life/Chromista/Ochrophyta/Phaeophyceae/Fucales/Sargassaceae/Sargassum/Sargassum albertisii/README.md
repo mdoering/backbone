@@ -1,5 +1,4 @@
-Sargassum albertisii Picc. SPECIES
-=======
+# Sargassum albertisii Picc. SPECIES
 
 #### Status
 ACCEPTED

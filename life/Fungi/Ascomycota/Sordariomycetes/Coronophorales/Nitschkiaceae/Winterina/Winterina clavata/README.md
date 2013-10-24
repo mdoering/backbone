@@ -1,5 +1,4 @@
-Winterina clavata Munk SPECIES
-=======
+# Winterina clavata Munk SPECIES
 
 #### Status
 ACCEPTED

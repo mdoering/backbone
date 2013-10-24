@@ -1,5 +1,4 @@
-Parmelia cylindrophora Taylor SPECIES
-=======
+# Parmelia cylindrophora Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius turibulosus (Jul. Schäff. & E. Horak) Bon & G. Garnier SPECIES
-=======
+# Cortinarius turibulosus (Jul. Schäff. & E. Horak) Bon & G. Garnier SPECIES
 
 #### Status
 ACCEPTED

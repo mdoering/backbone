@@ -1,5 +1,4 @@
-Dendrophoma fructicola D. Sacc. SPECIES
-=======
+# Dendrophoma fructicola D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

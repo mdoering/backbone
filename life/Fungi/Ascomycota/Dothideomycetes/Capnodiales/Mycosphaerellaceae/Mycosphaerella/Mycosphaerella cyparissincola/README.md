@@ -1,5 +1,4 @@
-Mycosphaerella cyparissincola Petr. SPECIES
-=======
+# Mycosphaerella cyparissincola Petr. SPECIES
 
 #### Status
 ACCEPTED

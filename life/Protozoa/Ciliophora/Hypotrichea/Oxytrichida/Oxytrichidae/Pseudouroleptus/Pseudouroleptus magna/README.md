@@ -1,8 +1,7 @@
-Metaurostyla magna Alekperov, 1984 SPECIES
-=======
+# Pseudouroleptus magna Alekperov, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

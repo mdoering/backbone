@@ -1,5 +1,4 @@
-Trametes warburgiana (Henn.) Teixeira SPECIES
-=======
+# Trametes warburgiana (Henn.) Teixeira SPECIES
 
 #### Status
 ACCEPTED

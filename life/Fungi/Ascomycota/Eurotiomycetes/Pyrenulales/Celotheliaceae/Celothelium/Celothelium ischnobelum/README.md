@@ -1,17 +1,16 @@
-Leptorhaphis carrollii A.L. Sm., 1911 SPECIES
-=======
+# Celothelium ischnobelum (Nyl.) M. B. Aguirre SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 21(2): 139 (1991)
 
 #### Original name
-null
+Melanotheca ischnobela Nyl.
 
 ### Remarks
 null

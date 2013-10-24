@@ -1,5 +1,4 @@
-Coniothyrium rumicis Petr. SPECIES
-=======
+# Coniothyrium rumicis Petr. SPECIES
 
 #### Status
 ACCEPTED

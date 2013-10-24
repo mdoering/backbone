@@ -1,5 +1,4 @@
-Lambertella pseudostriata Dumont SPECIES
-=======
+# Lambertella pseudostriata Dumont SPECIES
 
 #### Status
 ACCEPTED

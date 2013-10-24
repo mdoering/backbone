@@ -1,5 +1,4 @@
-Polycephalum Kalchbr. & Cooke GENUS
-=======
+# Polycephalum Kalchbr. & Cooke GENUS
 
 #### Status
 ACCEPTED

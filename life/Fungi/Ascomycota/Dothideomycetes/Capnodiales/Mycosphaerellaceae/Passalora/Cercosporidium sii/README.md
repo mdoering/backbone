@@ -1,5 +1,4 @@
-Cercosporidium sii (Ellis & Everh.) Deighton SPECIES
-=======
+# Cercosporidium sii (Ellis & Everh.) Deighton SPECIES
 
 #### Status
 ACCEPTED

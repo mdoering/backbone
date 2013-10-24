@@ -1,5 +1,4 @@
-Cortinarius paraviolaceus M.M. Moser SPECIES
-=======
+# Cortinarius paraviolaceus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

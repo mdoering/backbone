@@ -1,5 +1,4 @@
-Flammula compernis Fr. SPECIES
-=======
+# Flammula compernis Fr. SPECIES
 
 #### Status
 ACCEPTED

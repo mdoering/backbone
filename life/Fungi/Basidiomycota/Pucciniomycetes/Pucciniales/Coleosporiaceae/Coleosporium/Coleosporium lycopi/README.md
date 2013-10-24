@@ -1,5 +1,4 @@
-Coleosporium lycopi Syd. & P. Syd. SPECIES
-=======
+# Coleosporium lycopi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

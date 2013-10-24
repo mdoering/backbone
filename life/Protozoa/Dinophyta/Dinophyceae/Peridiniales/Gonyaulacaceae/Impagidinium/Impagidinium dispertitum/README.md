@@ -1,5 +1,4 @@
-Impagidinium dispertitum (Cookson & Eisenack, 1965) Stover & Evitt SPECIES
-=======
+# Impagidinium dispertitum (Cookson & Eisenack, 1965) Stover & Evitt SPECIES
 
 #### Status
 ACCEPTED

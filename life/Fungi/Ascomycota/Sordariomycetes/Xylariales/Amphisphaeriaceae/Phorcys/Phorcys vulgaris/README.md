@@ -1,5 +1,4 @@
-Phorcys vulgaris (Griffiths) Höhn. SPECIES
-=======
+# Phorcys vulgaris (Griffiths) Höhn. SPECIES
 
 #### Status
 ACCEPTED

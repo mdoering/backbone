@@ -1,5 +1,4 @@
-Trichocephalum pilosum Schur SPECIES
-=======
+# Trichocephalum pilosum Schur SPECIES
 
 #### Status
 ACCEPTED

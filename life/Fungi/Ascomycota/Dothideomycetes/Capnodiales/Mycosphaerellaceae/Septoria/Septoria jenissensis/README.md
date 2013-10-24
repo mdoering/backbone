@@ -1,5 +1,4 @@
-Septoria jenissensis Sacc. SPECIES
-=======
+# Septoria jenissensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

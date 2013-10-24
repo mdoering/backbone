@@ -1,5 +1,4 @@
-Parmelia deweyana Spreng. SPECIES
-=======
+# Parmelia deweyana Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia cateilea (Vain.) R. Sant. SPECIES
-=======
+# Bacidia cateilea (Vain.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

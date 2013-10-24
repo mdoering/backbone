@@ -1,5 +1,4 @@
-Plicaforacapsa O'Dogherty, Gorican & Dumitrica, 2006 GENUS
-=======
+# Plicaforacapsa O'Dogherty, Gorican & Dumitrica, 2006 GENUS
 
 #### Status
 ACCEPTED

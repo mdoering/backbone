@@ -1,17 +1,16 @@
-Puccinia tragopogonis subsp. tragopogonis SUBSPECIES
-=======
+# Puccinia hysterium Röhl., 1813 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Deutschl. Fl. (Frankfurt), Abth. 2 3(3): 131 (1813)
 
 #### Original name
-null
+Puccinia hysterium Röhl., 1813
 
 ### Remarks
 null

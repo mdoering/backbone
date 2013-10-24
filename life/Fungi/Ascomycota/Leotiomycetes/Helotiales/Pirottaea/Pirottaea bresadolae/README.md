@@ -1,5 +1,4 @@
-Pirottaea bresadolae var. bresadolae Sacc., 1889 VARIETY
-=======
+# Pirottaea bresadolae Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 387 (1889)
+null
 
 #### Original name
-Pirottaea bresadolae var. bresadolae Sacc., 1889
+null
 
 ### Remarks
 null

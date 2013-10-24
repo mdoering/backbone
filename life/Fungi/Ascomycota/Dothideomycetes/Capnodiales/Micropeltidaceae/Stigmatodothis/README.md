@@ -1,5 +1,4 @@
-Stigmatodothis Syd. & P. Syd. GENUS
-=======
+# Stigmatodothis Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

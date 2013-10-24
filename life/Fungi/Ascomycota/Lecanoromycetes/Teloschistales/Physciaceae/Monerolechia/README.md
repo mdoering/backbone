@@ -1,5 +1,4 @@
-Monerolechia GENUS
-=======
+# Monerolechia GENUS
 
 #### Status
 ACCEPTED

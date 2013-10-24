@@ -1,5 +1,4 @@
-Astrosphaeriella splendida K.D. Hyde & J. Fröhl. SPECIES
-=======
+# Astrosphaeriella splendida K.D. Hyde & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

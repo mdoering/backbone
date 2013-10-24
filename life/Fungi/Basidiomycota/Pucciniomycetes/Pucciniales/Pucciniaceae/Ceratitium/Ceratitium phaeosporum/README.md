@@ -1,5 +1,4 @@
-Ceratitium phaeosporum Ces. SPECIES
-=======
+# Ceratitium phaeosporum Ces. SPECIES
 
 #### Status
 ACCEPTED

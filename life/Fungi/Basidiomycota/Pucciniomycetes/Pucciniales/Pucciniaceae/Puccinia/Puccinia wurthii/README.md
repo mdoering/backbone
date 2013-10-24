@@ -1,5 +1,4 @@
-Puccinia wurthii E. Fisch. SPECIES
-=======
+# Puccinia wurthii E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

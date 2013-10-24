@@ -1,5 +1,4 @@
-Stannophyllum indistinctum Tendal, 1972 SPECIES
-=======
+# Stannophyllum indistinctum Tendal, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora loti Hollós, 1907 SPECIES
-=======
+# Cercospora loti Hollós, 1907 SPECIES
 
 #### Status
 ACCEPTED

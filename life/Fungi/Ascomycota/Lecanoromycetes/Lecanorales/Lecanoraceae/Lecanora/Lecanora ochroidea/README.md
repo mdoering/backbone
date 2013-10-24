@@ -1,14 +1,13 @@
-Lichen ochroides Ach. SPECIES
-=======
+# Lecanora ochroidea (Ach.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Deutschl. Fl. (Frankfurt), Abth. 2 3: 75 (1813)
 
 #### Original name
 Lichen ochroides Ach.

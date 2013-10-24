@@ -1,5 +1,4 @@
-Globigerinoides gomitulus (Seguenza, 1880) SPECIES
-=======
+# Globigerinoides gomitulus (Seguenza, 1880) SPECIES
 
 #### Status
 ACCEPTED

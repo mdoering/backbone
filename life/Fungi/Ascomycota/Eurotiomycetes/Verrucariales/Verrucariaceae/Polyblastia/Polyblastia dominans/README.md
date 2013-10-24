@@ -1,5 +1,4 @@
-Polyblastia dominans f. dominans FORM
-=======
+# Polyblastia dominans (Arnold) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polyblastia dominans f. dominans
+Thelidium dominans Arnold
 
 ### Remarks
 null

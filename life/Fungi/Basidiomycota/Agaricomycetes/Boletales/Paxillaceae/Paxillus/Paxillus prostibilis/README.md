@@ -1,5 +1,4 @@
-Paxillus prostibilis Britzelm. SPECIES
-=======
+# Paxillus prostibilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

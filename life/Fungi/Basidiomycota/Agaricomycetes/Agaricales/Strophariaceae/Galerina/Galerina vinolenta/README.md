@@ -1,5 +1,4 @@
-Galerina vinolenta (Berk.) A.H. Sm. & Singer SPECIES
-=======
+# Galerina vinolenta (Berk.) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

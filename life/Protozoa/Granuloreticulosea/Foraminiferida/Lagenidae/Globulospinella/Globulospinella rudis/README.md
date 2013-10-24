@@ -1,5 +1,4 @@
-Globulospinella rudis (Reuss, 1863) SPECIES
-=======
+# Globulospinella rudis (Reuss, 1863) SPECIES
 
 #### Status
 ACCEPTED

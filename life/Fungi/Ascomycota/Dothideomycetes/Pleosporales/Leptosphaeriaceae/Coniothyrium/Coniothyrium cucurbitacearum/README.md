@@ -1,5 +1,4 @@
-Coniothyrium cucurbitacearum (Tassi) Sacc. & D. Sacc. SPECIES
-=======
+# Coniothyrium cucurbitacearum (Tassi) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

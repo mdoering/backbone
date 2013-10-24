@@ -1,5 +1,4 @@
-Podostroma leucopus P. Karst., 1892 SPECIES
-=======
+# Podostroma leucopus P. Karst., 1892 SPECIES
 
 #### Status
 ACCEPTED

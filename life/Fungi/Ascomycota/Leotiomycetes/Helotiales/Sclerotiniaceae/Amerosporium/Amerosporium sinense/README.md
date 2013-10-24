@@ -1,5 +1,4 @@
-Amerosporium sinense Teng SPECIES
-=======
+# Amerosporium sinense Teng SPECIES
 
 #### Status
 ACCEPTED

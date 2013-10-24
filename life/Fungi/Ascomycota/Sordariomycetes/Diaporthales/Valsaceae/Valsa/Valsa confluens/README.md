@@ -1,5 +1,4 @@
-Valsa confluens Nitschke SPECIES
-=======
+# Valsa confluens Nitschke SPECIES
 
 #### Status
 ACCEPTED

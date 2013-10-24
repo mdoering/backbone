@@ -1,5 +1,4 @@
-Chaetomium terreum Kiril. SPECIES
-=======
+# Chaetomium terreum Kiril. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Operculigera velata Jankowski, 1986 SPECIES
-=======
+# Operculigera velata Jankowski, 1986 SPECIES
 
 #### Status
 ACCEPTED

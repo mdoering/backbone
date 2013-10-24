@@ -1,5 +1,4 @@
-Phyllosticta malabailae T.M. Achundov & Agajeva SPECIES
-=======
+# Phyllosticta malabailae T.M. Achundov & Agajeva SPECIES
 
 #### Status
 ACCEPTED

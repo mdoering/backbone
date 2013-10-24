@@ -1,5 +1,4 @@
-Dicaeoma badium (Holw.) Arthur SPECIES
-=======
+# Dicaeoma badium (Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

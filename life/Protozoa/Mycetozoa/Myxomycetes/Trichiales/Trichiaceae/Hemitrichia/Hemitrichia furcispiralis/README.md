@@ -1,5 +1,4 @@
-Hemitrichia furcispiralis Q. Wang, Yu Li & H.Z. Li SPECIES
-=======
+# Hemitrichia furcispiralis Q. Wang, Yu Li & H.Z. Li SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bifrontia Norman, 1872 GENUS
-=======
+# Bifrontia Norman, 1872 GENUS
 
 #### Status
 ACCEPTED

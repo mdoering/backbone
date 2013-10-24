@@ -1,5 +1,4 @@
-Globulus L.G. Voronova & N.A. Drosdova, 1987 GENUS
-=======
+# Globulus L.G. Voronova & N.A. Drosdova, 1987 GENUS
 
 #### Status
 ACCEPTED

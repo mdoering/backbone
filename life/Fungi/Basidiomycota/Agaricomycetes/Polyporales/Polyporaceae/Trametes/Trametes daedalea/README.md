@@ -1,5 +1,4 @@
-Trametes daedalea Speg. SPECIES
-=======
+# Trametes daedalea Speg. SPECIES
 
 #### Status
 ACCEPTED

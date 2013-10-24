@@ -1,5 +1,4 @@
-Septobasidium spiniferum Burt SPECIES
-=======
+# Septobasidium spiniferum Burt SPECIES
 
 #### Status
 ACCEPTED

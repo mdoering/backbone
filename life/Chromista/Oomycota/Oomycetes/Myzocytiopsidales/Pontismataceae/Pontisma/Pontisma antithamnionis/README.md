@@ -1,14 +1,13 @@
-Olpidiopsis antithamnionis Whittick & South, 1972 SPECIES
-=======
+# Pontisma antithamnionis (Whittick & South) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Mikrobiol. 82(4): 354 (1972)
+Straminipilous Fungi (Dordrecht) 363 (2001)
 
 #### Original name
 Olpidiopsis antithamnionis Whittick & South, 1972

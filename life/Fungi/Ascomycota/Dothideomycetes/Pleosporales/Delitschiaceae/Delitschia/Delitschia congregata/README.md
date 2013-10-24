@@ -1,5 +1,4 @@
-Delitschia congregata Speg. SPECIES
-=======
+# Delitschia congregata Speg. SPECIES
 
 #### Status
 ACCEPTED

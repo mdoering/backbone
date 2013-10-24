@@ -1,5 +1,4 @@
-Lepraria usnica Sipman SPECIES
-=======
+# Lepraria usnica Sipman SPECIES
 
 #### Status
 ACCEPTED

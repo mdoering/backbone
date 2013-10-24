@@ -1,5 +1,4 @@
-Cercosporina hierosolymitana Rayss SPECIES
-=======
+# Cercosporina hierosolymitana Rayss SPECIES
 
 #### Status
 ACCEPTED

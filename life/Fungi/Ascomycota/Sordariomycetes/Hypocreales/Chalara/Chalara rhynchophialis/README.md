@@ -1,17 +1,16 @@
-Chalara rhynchophiala Nag Raj & W.B. Kendr. SPECIES
-=======
+# Chalara rhynchophialis Nag Raj & W.B. Kendr., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Chalara Allied Genera (Waterloo) 132 (1975)
 
 #### Original name
-Chalara rhynchophiala Nag Raj & W.B. Kendr.
+Chalara rhynchophialis Nag Raj & W.B. Kendr., 1975
 
 ### Remarks
 null

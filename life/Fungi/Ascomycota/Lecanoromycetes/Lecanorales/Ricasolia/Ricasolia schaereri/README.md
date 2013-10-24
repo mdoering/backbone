@@ -1,5 +1,4 @@
-Ricasolia schaereri (Mont. & Bosch) Nyl. SPECIES
-=======
+# Ricasolia schaereri (Mont. & Bosch) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovistella dominicensis Lloyd SPECIES
-=======
+# Bovistella dominicensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenophoma heliotropii Vasyag. SPECIES
-=======
+# Selenophoma heliotropii Vasyag. SPECIES
 
 #### Status
 ACCEPTED

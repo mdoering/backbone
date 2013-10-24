@@ -1,14 +1,13 @@
-Verneolina Costa, 1856 GENUS
-=======
+# Verneuilina d'Orbigny, 1839 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Accad. Pontan. , 7, 368.
+in Sagra, Cuba (Foram. ), 104.
 
 #### Original name
 null

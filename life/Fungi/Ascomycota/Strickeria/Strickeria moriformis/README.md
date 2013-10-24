@@ -1,5 +1,4 @@
-Strickeria moriformis (Fuckel) Cooke SPECIES
-=======
+# Strickeria moriformis (Fuckel) Cooke SPECIES
 
 #### Status
 ACCEPTED

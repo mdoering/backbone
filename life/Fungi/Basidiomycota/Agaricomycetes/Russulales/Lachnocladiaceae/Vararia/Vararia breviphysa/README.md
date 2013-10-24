@@ -1,5 +1,4 @@
-Vararia breviphysa Boidin & Lanq., 1976 SPECIES
-=======
+# Vararia breviphysa Boidin & Lanq., 1976 SPECIES
 
 #### Status
 ACCEPTED

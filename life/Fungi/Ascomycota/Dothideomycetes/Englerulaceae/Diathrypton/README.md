@@ -1,5 +1,4 @@
-Diathrypton GENUS
-=======
+# Diathrypton GENUS
 
 #### Status
 ACCEPTED

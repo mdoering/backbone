@@ -1,5 +1,4 @@
-Clitocybe arenosa Lucien SPECIES
-=======
+# Clitocybe arenosa Lucien SPECIES
 
 #### Status
 ACCEPTED

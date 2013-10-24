@@ -1,5 +1,4 @@
-Stylophycus J.H.Johnson GENUS
-=======
+# Stylophycus J.H.Johnson GENUS
 
 #### Status
 ACCEPTED

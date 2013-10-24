@@ -1,5 +1,4 @@
-Subheronallenia McCulloch, 1977 GENUS
-=======
+# Subheronallenia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

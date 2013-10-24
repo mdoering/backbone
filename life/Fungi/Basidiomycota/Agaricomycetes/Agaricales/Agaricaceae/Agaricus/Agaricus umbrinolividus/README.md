@@ -1,5 +1,4 @@
-Agaricus umbrinolividus J. Otto SPECIES
-=======
+# Agaricus umbrinolividus J. Otto SPECIES
 
 #### Status
 ACCEPTED

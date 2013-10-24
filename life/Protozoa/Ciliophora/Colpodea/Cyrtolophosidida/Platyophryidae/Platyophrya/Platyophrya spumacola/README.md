@@ -1,5 +1,4 @@
-Platyophrya spumacola subsp. hexasticha Foissner, Agatha & Berger, 2002 SUBSPECIES
-=======
+# Platyophrya spumacola Kahl SPECIES
 
 #### Status
 ACCEPTED

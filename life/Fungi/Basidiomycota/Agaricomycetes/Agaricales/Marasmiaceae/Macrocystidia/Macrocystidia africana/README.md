@@ -1,5 +1,4 @@
-Macrocystidia africana Singer SPECIES
-=======
+# Macrocystidia africana Singer SPECIES
 
 #### Status
 ACCEPTED

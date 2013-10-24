@@ -1,5 +1,4 @@
-Fischerella ambiqua (Naegeli) Gomont SPECIES
-=======
+# Fischerella ambiqua (Naegeli) Gomont SPECIES
 
 #### Status
 ACCEPTED

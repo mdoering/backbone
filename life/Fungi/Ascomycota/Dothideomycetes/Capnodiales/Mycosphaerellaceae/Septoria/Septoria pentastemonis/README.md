@@ -1,5 +1,4 @@
-Septoria pentastemonis (Ellis & Everh.) Sacc. SPECIES
-=======
+# Septoria pentastemonis (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

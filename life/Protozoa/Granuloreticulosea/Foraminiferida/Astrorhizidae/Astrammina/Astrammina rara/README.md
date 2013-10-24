@@ -1,5 +1,4 @@
-Astrammina rara SPECIES
-=======
+# Astrammina rara SPECIES
 
 #### Status
 ACCEPTED

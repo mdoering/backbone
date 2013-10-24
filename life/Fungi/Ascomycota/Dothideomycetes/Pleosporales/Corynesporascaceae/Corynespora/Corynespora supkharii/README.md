@@ -1,5 +1,4 @@
-Corynespora supkharii N. Sharma, Soni, Jamaluddin & R.K. Verma SPECIES
-=======
+# Corynespora supkharii N. Sharma, Soni, Jamaluddin & R.K. Verma SPECIES
 
 #### Status
 ACCEPTED

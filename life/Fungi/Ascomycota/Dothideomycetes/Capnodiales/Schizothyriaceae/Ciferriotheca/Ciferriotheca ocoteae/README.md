@@ -1,5 +1,4 @@
-Ciferriotheca ocoteae Bat. & Peres SPECIES
-=======
+# Ciferriotheca ocoteae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

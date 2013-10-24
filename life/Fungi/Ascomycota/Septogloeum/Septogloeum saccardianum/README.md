@@ -1,5 +1,4 @@
-Septogloeum saccardianum Trotter SPECIES
-=======
+# Septogloeum saccardianum Trotter SPECIES
 
 #### Status
 ACCEPTED

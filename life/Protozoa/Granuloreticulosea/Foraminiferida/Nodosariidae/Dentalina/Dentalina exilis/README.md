@@ -1,5 +1,4 @@
-Dentalina exilis SPECIES
-=======
+# Dentalina exilis SPECIES
 
 #### Status
 ACCEPTED

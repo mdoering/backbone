@@ -1,5 +1,4 @@
-Depazea pyrina Riess SPECIES
-=======
+# Depazea pyrina Riess SPECIES
 
 #### Status
 ACCEPTED

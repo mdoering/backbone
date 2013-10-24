@@ -1,5 +1,4 @@
-Cycloporus greenei (Berk.) Murrill SPECIES
-=======
+# Cycloporus greenei (Berk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

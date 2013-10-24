@@ -1,5 +1,4 @@
-Dothidotthia andersonii (Shoemaker) M.E. Barr SPECIES
-=======
+# Dothidotthia andersonii (Shoemaker) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

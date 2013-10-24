@@ -1,5 +1,4 @@
-Stachylidium variabile Schulzer & Sacc. SPECIES
-=======
+# Stachylidium variabile Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

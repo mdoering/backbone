@@ -1,5 +1,4 @@
-Amphisiella kihni Jankowski SPECIES
-=======
+# Amphisiella kihni Jankowski SPECIES
 
 #### Status
 ACCEPTED

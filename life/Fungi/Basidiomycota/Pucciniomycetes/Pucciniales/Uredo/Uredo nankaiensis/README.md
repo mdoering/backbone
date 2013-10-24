@@ -1,5 +1,4 @@
-Uredo nankaiensis S. Uchida SPECIES
-=======
+# Uredo nankaiensis S. Uchida SPECIES
 
 #### Status
 ACCEPTED

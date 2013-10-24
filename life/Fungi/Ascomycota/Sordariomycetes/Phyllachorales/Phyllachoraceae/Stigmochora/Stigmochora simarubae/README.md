@@ -1,5 +1,4 @@
-Stigmochora simarubae Bat. & Peres, 1965 SPECIES
-=======
+# Stigmochora simarubae Bat. & Peres, 1965 SPECIES
 
 #### Status
 ACCEPTED

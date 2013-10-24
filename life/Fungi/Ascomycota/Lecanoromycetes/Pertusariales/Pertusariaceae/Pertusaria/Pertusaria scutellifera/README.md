@@ -1,5 +1,4 @@
-Pertusaria scutellifera A.W. Archer & Elix SPECIES
-=======
+# Pertusaria scutellifera A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

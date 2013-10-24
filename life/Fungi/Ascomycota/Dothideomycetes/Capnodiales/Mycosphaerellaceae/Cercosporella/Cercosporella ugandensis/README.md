@@ -1,5 +1,4 @@
-Cercosporella ugandensis Deighton SPECIES
-=======
+# Cercosporella ugandensis Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalloidima squalens (Nyl.) Arnold SPECIES
-=======
+# Thalloidima squalens (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

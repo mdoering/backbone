@@ -1,5 +1,4 @@
-Discosia eucalypti (Pat.) Nag Raj SPECIES
-=======
+# Discosia eucalypti (Pat.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

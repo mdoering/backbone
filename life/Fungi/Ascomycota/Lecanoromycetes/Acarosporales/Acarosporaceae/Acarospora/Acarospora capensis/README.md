@@ -1,5 +1,4 @@
-Acarospora capensis Zahlbr. SPECIES
-=======
+# Acarospora capensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

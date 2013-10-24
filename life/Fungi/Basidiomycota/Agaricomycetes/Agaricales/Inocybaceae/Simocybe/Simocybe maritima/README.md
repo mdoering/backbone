@@ -1,5 +1,4 @@
-Simocybe maritima (Bon) SPECIES
-=======
+# Simocybe maritima (Bon) SPECIES
 
 #### Status
 ACCEPTED

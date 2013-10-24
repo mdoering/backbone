@@ -1,5 +1,4 @@
-Hymenoscyphus delavayi (Pat.) Kuntze SPECIES
-=======
+# Hymenoscyphus delavayi (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

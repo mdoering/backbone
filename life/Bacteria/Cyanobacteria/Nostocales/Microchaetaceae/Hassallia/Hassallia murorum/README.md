@@ -1,5 +1,4 @@
-Hassallia murorum Trevisan SPECIES
-=======
+# Hassallia murorum Trevisan SPECIES
 
 #### Status
 ACCEPTED

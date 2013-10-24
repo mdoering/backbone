@@ -1,5 +1,4 @@
-Nectria albofimbriata Penz. & Sacc. SPECIES
-=======
+# Nectria albofimbriata Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

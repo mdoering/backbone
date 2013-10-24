@@ -1,5 +1,4 @@
-Herpocladiella J. Schröt. GENUS
-=======
+# Herpocladiella J. Schröt. GENUS
 
 #### Status
 ACCEPTED

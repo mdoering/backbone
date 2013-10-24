@@ -1,5 +1,4 @@
-Pseudocercospora punjabensis (Syd.) U. Braun & Bagyan. SPECIES
-=======
+# Pseudocercospora punjabensis (Syd.) U. Braun & Bagyan. SPECIES
 
 #### Status
 ACCEPTED

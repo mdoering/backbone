@@ -1,5 +1,4 @@
-Sclerochaetella melampyri Höhn. SPECIES
-=======
+# Sclerochaetella melampyri Höhn. SPECIES
 
 #### Status
 ACCEPTED

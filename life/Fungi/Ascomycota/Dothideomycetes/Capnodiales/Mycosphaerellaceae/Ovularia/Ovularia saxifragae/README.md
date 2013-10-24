@@ -1,5 +1,4 @@
-Ovularia saxifragae Rostr. SPECIES
-=======
+# Ovularia saxifragae Rostr. SPECIES
 
 #### Status
 ACCEPTED

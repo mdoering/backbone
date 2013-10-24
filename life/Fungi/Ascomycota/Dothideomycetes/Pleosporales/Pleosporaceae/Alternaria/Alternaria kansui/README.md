@@ -1,17 +1,16 @@
-Alternaria kansuiae T.Y. Zhang & J.Z. Zhang SPECIES
-=======
+# Alternaria kansui T.Y. Zhang & J.Z. Zhang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 72: 425 (1999)
 
 #### Original name
-Alternaria kansuiae T.Y. Zhang & J.Z. Zhang
+Alternaria kansui T.Y. Zhang & J.Z. Zhang
 
 ### Remarks
 null

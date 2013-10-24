@@ -1,5 +1,4 @@
-Spathulospora phycophila A.R. Caval. & T.W. Johnson, 1965 SPECIES
-=======
+# Spathulospora phycophila A.R. Caval. & T.W. Johnson, 1965 SPECIES
 
 #### Status
 ACCEPTED

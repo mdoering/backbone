@@ -1,5 +1,4 @@
-Amallocystis fagei Boschma {?} SPECIES
-=======
+# Amallocystis fagei Boschma {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia yünnana SPECIES
-=======
+# Buellia yünnana SPECIES
 
 #### Status
 ACCEPTED

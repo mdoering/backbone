@@ -1,5 +1,4 @@
-Squamaria chrysoleuca var. chrysoleuca VARIETY
-=======
+# Squamaria chrysoleuca SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamaria chrysoleuca var. chrysoleuca
+null
 
 ### Remarks
 null

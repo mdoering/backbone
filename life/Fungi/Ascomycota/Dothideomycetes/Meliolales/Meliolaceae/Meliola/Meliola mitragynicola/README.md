@@ -1,5 +1,4 @@
-Meliola mitragynicola var. mitragynicola VARIETY
-=======
+# Meliola mitragynicola Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sydowia 11: 110 (1958)
 
 #### Original name
-Meliola mitragynicola var. mitragynicola
+Meliola mitragynicola Deighton
 
 ### Remarks
 null

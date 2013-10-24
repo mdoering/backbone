@@ -1,5 +1,4 @@
-Polystictus proximus Bres. SPECIES
-=======
+# Polystictus proximus Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammonia tepida (Cushman, 1926) SPECIES
-=======
+# Ammonia tepida (Cushman, 1926) SPECIES
 
 #### Status
 ACCEPTED

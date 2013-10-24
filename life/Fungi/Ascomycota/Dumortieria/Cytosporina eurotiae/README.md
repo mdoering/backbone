@@ -1,5 +1,4 @@
-Cytosporina eurotiae Kravtzev SPECIES
-=======
+# Cytosporina eurotiae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoleiosphaeridium diarcuatum Yin Leiming, 1983 SPECIES
-=======
+# Protoleiosphaeridium diarcuatum Yin Leiming, 1983 SPECIES
 
 #### Status
 ACCEPTED

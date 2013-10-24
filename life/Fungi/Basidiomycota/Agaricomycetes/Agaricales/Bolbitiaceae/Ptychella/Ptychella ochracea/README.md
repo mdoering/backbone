@@ -1,5 +1,4 @@
-Ptychella ochracea Boud., 1879 SPECIES
-=======
+# Ptychella ochracea Boud., 1879 SPECIES
 
 #### Status
 ACCEPTED

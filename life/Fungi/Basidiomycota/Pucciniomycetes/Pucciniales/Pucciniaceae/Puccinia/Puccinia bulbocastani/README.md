@@ -1,17 +1,16 @@
-Puccinia bunii G. Winter, 1882 SPECIES
-=======
+# Puccinia bulbocastani (Cumino) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. , Edn 2 1(1): 197 (1882)
+Jb. nassau. Ver. Naturk. 23-24: 52 (1870)
 
 #### Original name
-Puccinia bunii G. Winter, 1882
+Aecidium bulbocastani Cumino, 1805
 
 ### Remarks
 null

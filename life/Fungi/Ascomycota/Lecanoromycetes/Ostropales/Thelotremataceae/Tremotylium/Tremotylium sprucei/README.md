@@ -1,5 +1,4 @@
-Tremotylium sprucei Müll. Arg. SPECIES
-=======
+# Tremotylium sprucei Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

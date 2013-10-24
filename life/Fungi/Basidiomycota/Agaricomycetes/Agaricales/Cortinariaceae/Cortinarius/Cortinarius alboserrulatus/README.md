@@ -1,5 +1,4 @@
-Cortinarius alboserrulatus E. Horak & Soop SPECIES
-=======
+# Cortinarius alboserrulatus E. Horak & Soop SPECIES
 
 #### Status
 ACCEPTED

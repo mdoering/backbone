@@ -1,5 +1,4 @@
-Puccinia steiractiniae H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia steiractiniae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

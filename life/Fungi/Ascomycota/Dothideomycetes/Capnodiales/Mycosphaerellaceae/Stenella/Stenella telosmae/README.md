@@ -1,5 +1,4 @@
-Stenella telosmae K. Srivast., A.K. Srivast. & Kamal SPECIES
-=======
+# Stenella telosmae K. Srivast., A.K. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

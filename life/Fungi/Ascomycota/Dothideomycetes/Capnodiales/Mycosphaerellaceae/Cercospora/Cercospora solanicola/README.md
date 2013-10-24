@@ -1,5 +1,4 @@
-Cercospora solanicola G.F. Atk., 1892 SPECIES
-=======
+# Cercospora solanicola G.F. Atk., 1892 SPECIES
 
 #### Status
 ACCEPTED

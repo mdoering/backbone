@@ -1,5 +1,4 @@
-Puccinia bambusarum (Henn.) Arthur SPECIES
-=======
+# Puccinia bambusarum (Henn.) Arthur SPECIES
 
 #### Status
 ACCEPTED

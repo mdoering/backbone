@@ -1,5 +1,4 @@
-Bacidia microbola (Clemente) A. Crespo & Barreno SPECIES
-=======
+# Bacidia microbola (Clemente) A. Crespo & Barreno SPECIES
 
 #### Status
 ACCEPTED

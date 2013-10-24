@@ -1,5 +1,4 @@
-Hypodermium Link GENUS
-=======
+# Hypodermium Link GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nummularia GENUS
-=======
+# Nummularia GENUS
 
 #### Status
 ACCEPTED

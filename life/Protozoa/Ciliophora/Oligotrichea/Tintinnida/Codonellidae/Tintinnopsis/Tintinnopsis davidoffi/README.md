@@ -1,5 +1,4 @@
-Tintinnopsis davidoffi Daday, 1887 SPECIES
-=======
+# Tintinnopsis davidoffi Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

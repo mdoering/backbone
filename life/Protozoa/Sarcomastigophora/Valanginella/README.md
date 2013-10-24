@@ -1,5 +1,4 @@
-Valanginella Dain, 1980 GENUS
-=======
+# Valanginella Dain, 1980 GENUS
 
 #### Status
 ACCEPTED

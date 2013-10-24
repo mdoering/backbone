@@ -1,5 +1,4 @@
-Didymosphaeria padina Sacc. SPECIES
-=======
+# Didymosphaeria padina Sacc. SPECIES
 
 #### Status
 ACCEPTED

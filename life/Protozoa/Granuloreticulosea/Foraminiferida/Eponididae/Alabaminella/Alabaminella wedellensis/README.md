@@ -1,8 +1,7 @@
-Eponides weddelensis Earland, 1936 SPECIES
-=======
+# Alabaminella wedellensis (Earland, 1936) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

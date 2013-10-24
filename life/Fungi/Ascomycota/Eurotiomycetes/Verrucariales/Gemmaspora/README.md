@@ -1,5 +1,4 @@
-Gemmaspora D. Hawksw. & Halici GENUS
-=======
+# Gemmaspora D. Hawksw. & Halici GENUS
 
 #### Status
 ACCEPTED

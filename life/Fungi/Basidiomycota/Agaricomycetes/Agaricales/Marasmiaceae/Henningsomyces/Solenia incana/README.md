@@ -1,5 +1,4 @@
-Solenia incana Alb. & Schwein. SPECIES
-=======
+# Solenia incana Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

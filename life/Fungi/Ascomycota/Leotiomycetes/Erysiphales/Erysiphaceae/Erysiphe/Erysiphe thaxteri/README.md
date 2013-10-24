@@ -1,5 +1,4 @@
-Erysiphe thaxteri (Havryl. & U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe thaxteri (Havryl. & U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

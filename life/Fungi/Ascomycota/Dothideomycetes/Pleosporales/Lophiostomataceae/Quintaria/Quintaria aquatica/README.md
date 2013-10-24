@@ -1,5 +1,4 @@
-Quintaria aquatica K.D. Hyde & Goh, 1999 SPECIES
-=======
+# Quintaria aquatica K.D. Hyde & Goh, 1999 SPECIES
 
 #### Status
 ACCEPTED

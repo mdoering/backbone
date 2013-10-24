@@ -1,5 +1,4 @@
-Cenangium fibrisedum Schwein. SPECIES
-=======
+# Cenangium fibrisedum Schwein. SPECIES
 
 #### Status
 ACCEPTED

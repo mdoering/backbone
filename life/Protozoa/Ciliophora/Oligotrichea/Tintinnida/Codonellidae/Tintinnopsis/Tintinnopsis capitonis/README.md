@@ -1,5 +1,4 @@
-Tintinnopsis capitonis Balech, 1968 SPECIES
-=======
+# Tintinnopsis capitonis Balech, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula rigelliae Velen. SPECIES
-=======
+# Russula rigelliae Velen. SPECIES
 
 #### Status
 ACCEPTED

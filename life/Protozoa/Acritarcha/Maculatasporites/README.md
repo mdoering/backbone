@@ -1,5 +1,4 @@
-Maculatasporites R.S. Tiwari, 1964 GENUS
-=======
+# Maculatasporites R.S. Tiwari, 1964 GENUS
 
 #### Status
 ACCEPTED

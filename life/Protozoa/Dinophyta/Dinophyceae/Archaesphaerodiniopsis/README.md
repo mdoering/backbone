@@ -1,5 +1,4 @@
-Archaesphaerodiniopsis GENUS
-=======
+# Archaesphaerodiniopsis GENUS
 
 #### Status
 ACCEPTED

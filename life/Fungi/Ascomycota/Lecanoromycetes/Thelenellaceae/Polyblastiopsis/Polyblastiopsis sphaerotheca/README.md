@@ -1,5 +1,4 @@
-Polyblastiopsis sphaerotheca (Norman) Zahlbr. SPECIES
-=======
+# Polyblastiopsis sphaerotheca (Norman) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

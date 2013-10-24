@@ -1,17 +1,16 @@
-Puccinia albi-peridia Arthur SPECIES
-=======
+# Puccinia alboperidia Arthur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 8(2): 53 (1902)
 
 #### Original name
-Puccinia albi-peridia Arthur
+Puccinia alboperidia Arthur
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aspicilia dimorphodes Hue SPECIES
-=======
+# Aspicilia dimorphodes Hue SPECIES
 
 #### Status
 ACCEPTED

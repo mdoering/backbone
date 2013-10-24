@@ -1,5 +1,4 @@
-Linochora rubefaciens Syd. SPECIES
-=======
+# Linochora rubefaciens Syd. SPECIES
 
 #### Status
 ACCEPTED

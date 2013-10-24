@@ -1,5 +1,4 @@
-Mycoplasma gallopavonis Jordan et al., 1982 SPECIES
-=======
+# Mycoplasma gallopavonis Jordan et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

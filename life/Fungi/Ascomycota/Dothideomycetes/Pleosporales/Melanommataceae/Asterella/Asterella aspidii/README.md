@@ -1,5 +1,4 @@
-Asterella aspidii Henn. SPECIES
-=======
+# Asterella aspidii Henn. SPECIES
 
 #### Status
 ACCEPTED

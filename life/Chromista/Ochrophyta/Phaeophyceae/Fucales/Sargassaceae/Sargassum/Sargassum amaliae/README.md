@@ -1,5 +1,4 @@
-Sargassum amaliae Grunow SPECIES
-=======
+# Sargassum amaliae Grunow SPECIES
 
 #### Status
 ACCEPTED

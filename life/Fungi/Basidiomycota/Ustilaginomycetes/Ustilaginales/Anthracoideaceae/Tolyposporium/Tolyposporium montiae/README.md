@@ -1,5 +1,4 @@
-Tolyposporium montiae (Rostr.) Rostr. SPECIES
-=======
+# Tolyposporium montiae (Rostr.) Rostr. SPECIES
 
 #### Status
 ACCEPTED

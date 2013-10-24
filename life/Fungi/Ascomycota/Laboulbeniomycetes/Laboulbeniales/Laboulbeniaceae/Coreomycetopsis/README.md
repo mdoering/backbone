@@ -1,5 +1,4 @@
-Coreomycetopsis Thaxt. GENUS
-=======
+# Coreomycetopsis Thaxt. GENUS
 
 #### Status
 ACCEPTED

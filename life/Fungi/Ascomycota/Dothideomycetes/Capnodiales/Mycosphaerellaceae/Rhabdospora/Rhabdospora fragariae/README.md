@@ -1,5 +1,4 @@
-Rhabdospora fragariae G.F. Atk. SPECIES
-=======
+# Rhabdospora fragariae G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

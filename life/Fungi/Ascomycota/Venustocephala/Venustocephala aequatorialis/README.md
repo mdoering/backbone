@@ -1,5 +1,4 @@
-Venustocephala aequatorialis Matsush., 1995 SPECIES
-=======
+# Venustocephala aequatorialis Matsush., 1995 SPECIES
 
 #### Status
 ACCEPTED

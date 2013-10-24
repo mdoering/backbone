@@ -1,5 +1,4 @@
-Pholiota subsquarrosa (Fr.) Quél. SPECIES
-=======
+# Pholiota subsquarrosa (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

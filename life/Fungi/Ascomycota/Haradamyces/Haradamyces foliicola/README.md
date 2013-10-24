@@ -1,5 +1,4 @@
-Haradamyces foliicola Masuya, Kusunoki, Kosaka & Aikawa, 2009 SPECIES
-=======
+# Haradamyces foliicola Masuya, Kusunoki, Kosaka & Aikawa, 2009 SPECIES
 
 #### Status
 ACCEPTED

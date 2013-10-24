@@ -1,5 +1,4 @@
-Sphaeria weddellii Mont. SPECIES
-=======
+# Sphaeria weddellii Mont. SPECIES
 
 #### Status
 ACCEPTED

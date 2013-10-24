@@ -1,5 +1,4 @@
-Gammaproteobacteria CLASS
-=======
+# Gammaproteobacteria CLASS
 
 #### Status
 ACCEPTED

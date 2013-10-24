@@ -1,5 +1,4 @@
-Pseudodiplodia rhodopensis (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia rhodopensis (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

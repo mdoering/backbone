@@ -1,5 +1,4 @@
-Barnettella D. Rao & P. Rag. Rao GENUS
-=======
+# Barnettella D. Rao & P. Rag. Rao GENUS
 
 #### Status
 ACCEPTED

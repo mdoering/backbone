@@ -1,5 +1,4 @@
-Tremella geophila Fr. SPECIES
-=======
+# Tremella geophila Fr. SPECIES
 
 #### Status
 ACCEPTED

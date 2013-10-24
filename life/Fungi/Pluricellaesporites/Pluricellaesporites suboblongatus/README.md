@@ -1,5 +1,4 @@
-Pluricellaesporites suboblongatus Sheffy & Dilcher SPECIES
-=======
+# Pluricellaesporites suboblongatus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

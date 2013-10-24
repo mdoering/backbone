@@ -1,5 +1,4 @@
-Cylindrocolla cylindrophora Ellis & Everh. SPECIES
-=======
+# Cylindrocolla cylindrophora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

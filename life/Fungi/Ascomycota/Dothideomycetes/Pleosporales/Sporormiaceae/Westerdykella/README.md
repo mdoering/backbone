@@ -1,5 +1,4 @@
-Westerdykella Stolk, 1955 GENUS
-=======
+# Westerdykella Stolk, 1955 GENUS
 
 #### Status
 ACCEPTED

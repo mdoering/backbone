@@ -1,5 +1,4 @@
-Opegrapha fuscescens Kremp. SPECIES
-=======
+# Opegrapha fuscescens Kremp. SPECIES
 
 #### Status
 ACCEPTED

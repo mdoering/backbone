@@ -1,17 +1,16 @@
-Endoblastomyces Odinzowa ex Kudrjanzev GENUS
-=======
+# Issatchenkia Kudrjanzev GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mater. Otd. Sporov. Rast. Bot. Inst. Komarova Akad. Nauk S. S. S. R. 13: 149 (1960)
+Bot. Mater. Otd. Sporov. Rast. Bot. Inst. Komarova Akad. Nauk S. S. S. R. 13: 143 (1960)
 
 #### Original name
-Endoblastomyces Odinzowa ex Kudrjanzev
+Issatchenkia Kudrjanzev
 
 ### Remarks
 null

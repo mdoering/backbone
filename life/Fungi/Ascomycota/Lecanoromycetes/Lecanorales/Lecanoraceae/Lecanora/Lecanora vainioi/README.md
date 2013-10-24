@@ -1,5 +1,4 @@
-Lecanora vainioi Vänskä SPECIES
-=======
+# Lecanora vainioi Vänskä SPECIES
 
 #### Status
 ACCEPTED

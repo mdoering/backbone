@@ -1,5 +1,4 @@
-Cantharellus graminum Velen. SPECIES
-=======
+# Cantharellus graminum Velen. SPECIES
 
 #### Status
 ACCEPTED

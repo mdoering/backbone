@@ -1,14 +1,13 @@
-Bombyliospora flavidula (Tuck.) Zahlbr. SPECIES
-=======
+# Letrouitia flavidula (Tuck.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 7: 53 (1930)
+Nova Hedwigia 35(4): 685 (1983)
 
 #### Original name
 Lecidea flavidula Tuck.

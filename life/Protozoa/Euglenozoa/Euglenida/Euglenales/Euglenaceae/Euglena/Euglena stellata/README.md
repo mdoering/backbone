@@ -1,5 +1,4 @@
-Euglena stellata Mainx SPECIES
-=======
+# Euglena stellata Mainx SPECIES
 
 #### Status
 ACCEPTED

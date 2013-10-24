@@ -1,5 +1,4 @@
-Ditremis inspersa (Müll. Arg.) Clem. SPECIES
-=======
+# Ditremis inspersa (Müll. Arg.) Clem. SPECIES
 
 #### Status
 ACCEPTED

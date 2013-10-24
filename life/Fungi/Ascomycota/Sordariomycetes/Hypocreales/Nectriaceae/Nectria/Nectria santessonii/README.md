@@ -1,5 +1,4 @@
-Nectria santessonii anon. SPECIES
-=======
+# Nectria santessonii anon. SPECIES
 
 #### Status
 ACCEPTED

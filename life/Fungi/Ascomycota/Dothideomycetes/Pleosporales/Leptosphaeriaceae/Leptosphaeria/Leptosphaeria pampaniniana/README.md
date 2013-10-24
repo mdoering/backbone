@@ -1,5 +1,4 @@
-Leptosphaeria pampaniniana Sacc. SPECIES
-=======
+# Leptosphaeria pampaniniana Sacc. SPECIES
 
 #### Status
 ACCEPTED

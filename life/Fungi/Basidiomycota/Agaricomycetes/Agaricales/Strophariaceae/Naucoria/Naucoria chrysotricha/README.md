@@ -1,5 +1,4 @@
-Naucoria chrysotricha (Berk. & M.A. Curtis) Cout. SPECIES
-=======
+# Naucoria chrysotricha (Berk. & M.A. Curtis) Cout. SPECIES
 
 #### Status
 ACCEPTED

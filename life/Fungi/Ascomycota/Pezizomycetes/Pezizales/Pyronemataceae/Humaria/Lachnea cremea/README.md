@@ -1,5 +1,4 @@
-Lachnea cremea Bánhegyi SPECIES
-=======
+# Lachnea cremea Bánhegyi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella luzulae (Cooke) SPECIES
-=======
+# Mycosphaerella luzulae (Cooke) SPECIES
 
 #### Status
 ACCEPTED

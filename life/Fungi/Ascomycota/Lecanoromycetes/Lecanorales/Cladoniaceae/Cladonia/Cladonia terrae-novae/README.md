@@ -1,5 +1,4 @@
-Cladonia terrae-novae f. terrae-novae FORM
-=======
+# Cladonia terrae-novae Ahti SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia terrae-novae f. terrae-novae
+Cladonia terrae-novae Ahti
 
 ### Remarks
 null

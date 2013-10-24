@@ -1,5 +1,4 @@
-Collema bicaudatum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Collema bicaudatum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

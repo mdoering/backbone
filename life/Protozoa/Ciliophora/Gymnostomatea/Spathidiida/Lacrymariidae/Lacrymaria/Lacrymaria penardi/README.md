@@ -1,5 +1,4 @@
-Lacrymaria penardi Kahl, 1926 SPECIES
-=======
+# Lacrymaria penardi Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

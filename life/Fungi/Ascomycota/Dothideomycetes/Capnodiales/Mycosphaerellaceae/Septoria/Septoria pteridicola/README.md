@@ -1,5 +1,4 @@
-Septoria pteridicola Kabát & Bubák SPECIES
-=======
+# Septoria pteridicola Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

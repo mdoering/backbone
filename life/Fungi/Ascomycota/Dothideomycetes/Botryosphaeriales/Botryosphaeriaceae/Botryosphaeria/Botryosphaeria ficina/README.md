@@ -1,5 +1,4 @@
-Botryosphaeria ficina (Cooke & Harkn.) Weese SPECIES
-=======
+# Botryosphaeria ficina (Cooke & Harkn.) Weese SPECIES
 
 #### Status
 ACCEPTED

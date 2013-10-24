@@ -1,5 +1,4 @@
-Puccinia foliola Mains & Holw. SPECIES
-=======
+# Puccinia foliola Mains & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spegazzinula GENUS
-=======
+# Spegazzinula GENUS
 
 #### Status
 ACCEPTED

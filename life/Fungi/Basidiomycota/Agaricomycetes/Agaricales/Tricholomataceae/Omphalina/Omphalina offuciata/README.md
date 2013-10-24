@@ -1,5 +1,4 @@
-Omphalina offuciata (Fr.) Bon SPECIES
-=======
+# Omphalina offuciata (Fr.) Bon SPECIES
 
 #### Status
 ACCEPTED

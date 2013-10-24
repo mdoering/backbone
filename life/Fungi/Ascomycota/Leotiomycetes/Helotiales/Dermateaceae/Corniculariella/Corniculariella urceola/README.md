@@ -1,5 +1,4 @@
-Corniculariella urceola (Höhn.) DiCosmo SPECIES
-=======
+# Corniculariella urceola (Höhn.) DiCosmo SPECIES
 
 #### Status
 ACCEPTED

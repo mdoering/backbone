@@ -1,5 +1,4 @@
-Scyphosphaera tercisensis Lezaud, 1968 SPECIES
-=======
+# Scyphosphaera tercisensis Lezaud, 1968 SPECIES
 
 #### Status
 ACCEPTED

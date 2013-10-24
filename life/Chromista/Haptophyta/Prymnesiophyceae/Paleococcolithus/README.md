@@ -1,5 +1,4 @@
-Paleococcolithus S. Gartner & R. Gentile, 1973 GENUS
-=======
+# Paleococcolithus S. Gartner & R. Gentile, 1973 GENUS
 
 #### Status
 ACCEPTED

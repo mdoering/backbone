@@ -1,5 +1,4 @@
-Emericella miyajii Y. Horie, 1997 SPECIES
-=======
+# Emericella miyajii Y. Horie, 1997 SPECIES
 
 #### Status
 ACCEPTED

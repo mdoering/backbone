@@ -1,5 +1,4 @@
-Corticium hydnatinum Berk. SPECIES
-=======
+# Corticium hydnatinum Berk. SPECIES
 
 #### Status
 ACCEPTED

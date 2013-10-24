@@ -1,5 +1,4 @@
-Gurleya daphniae C. Friedrich, O. Winder, K. Schaffler & F.F. Reinthaler SPECIES
-=======
+# Gurleya daphniae C. Friedrich, O. Winder, K. Schaffler & F.F. Reinthaler SPECIES
 
 #### Status
 ACCEPTED

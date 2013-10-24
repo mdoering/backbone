@@ -1,5 +1,4 @@
-Verticillium seriatum Glockling, 1997 SPECIES
-=======
+# Verticillium seriatum Glockling, 1997 SPECIES
 
 #### Status
 ACCEPTED

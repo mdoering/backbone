@@ -1,5 +1,4 @@
-Graphis chloroalba Makhija & Adaw. SPECIES
-=======
+# Graphis chloroalba Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fellomyces mexicanus Lopandic, O. Molnár & Prillinger SPECIES
-=======
+# Fellomyces mexicanus Lopandic, O. Molnár & Prillinger SPECIES
 
 #### Status
 ACCEPTED

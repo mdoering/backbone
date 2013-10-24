@@ -1,5 +1,4 @@
-Parmelina conlabrosa (Hale) Elix & J. Johnst. SPECIES
-=======
+# Parmelina conlabrosa (Hale) Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

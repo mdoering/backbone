@@ -1,5 +1,4 @@
-Mycena inconspicua L. Krieg. SPECIES
-=======
+# Mycena inconspicua L. Krieg. SPECIES
 
 #### Status
 ACCEPTED

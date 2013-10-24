@@ -1,5 +1,4 @@
-Coprinus caribaeus Pegler SPECIES
-=======
+# Coprinus caribaeus Pegler SPECIES
 
 #### Status
 ACCEPTED

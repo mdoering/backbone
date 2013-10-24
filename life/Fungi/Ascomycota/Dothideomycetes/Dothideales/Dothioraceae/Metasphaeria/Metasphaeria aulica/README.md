@@ -1,5 +1,4 @@
-Metasphaeria aulica (Cooke & Ellis) Sacc. SPECIES
-=======
+# Metasphaeria aulica (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia verrucaria (Mont.) Sacc. SPECIES
-=======
+# Rosellinia verrucaria (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

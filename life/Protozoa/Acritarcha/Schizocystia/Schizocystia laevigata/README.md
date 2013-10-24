@@ -1,5 +1,4 @@
-Schizocystia laevigata Cookson & Eisenack, 1962 SPECIES
-=======
+# Schizocystia laevigata Cookson & Eisenack, 1962 SPECIES
 
 #### Status
 ACCEPTED

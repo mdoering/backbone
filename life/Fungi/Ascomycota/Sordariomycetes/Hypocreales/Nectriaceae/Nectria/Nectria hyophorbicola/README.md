@@ -1,5 +1,4 @@
-Nectria hyophorbicola Henn. SPECIES
-=======
+# Nectria hyophorbicola Henn. SPECIES
 
 #### Status
 ACCEPTED

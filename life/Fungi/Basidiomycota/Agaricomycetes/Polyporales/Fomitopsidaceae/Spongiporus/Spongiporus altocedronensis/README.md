@@ -1,5 +1,4 @@
-Spongiporus altocedronensis Murrill SPECIES
-=======
+# Spongiporus altocedronensis Murrill SPECIES
 
 #### Status
 ACCEPTED

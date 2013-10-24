@@ -1,5 +1,4 @@
-Phaeosphaeria fetanensis Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria fetanensis Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

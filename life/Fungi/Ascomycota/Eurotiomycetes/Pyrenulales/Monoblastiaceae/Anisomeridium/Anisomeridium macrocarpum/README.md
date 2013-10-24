@@ -1,17 +1,16 @@
-Arthopyrenia macrocarpa f. dealbata (J. Lahm) Grummann FORM
-=======
+# Anisomeridium macrocarpum (Körb.) V. Wirth SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flechtenflora (Stuttgart) 531 (1980)
 
 #### Original name
-Acrocordia polycarpa f. dealbata J. Lahm
+Acrocordia macrocarpa Körb.
 
 ### Remarks
 null

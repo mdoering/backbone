@@ -1,5 +1,4 @@
-Irenina hippocrateae Hansf. & Deighton SPECIES
-=======
+# Irenina hippocrateae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

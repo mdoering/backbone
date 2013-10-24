@@ -1,5 +1,4 @@
-Ganoderma barretii SPECIES
-=======
+# Ganoderma barretii SPECIES
 
 #### Status
 ACCEPTED

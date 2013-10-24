@@ -1,5 +1,4 @@
-Ustilago elymicola Syd. SPECIES
-=======
+# Ustilago elymicola Syd. SPECIES
 
 #### Status
 ACCEPTED

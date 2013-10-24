@@ -1,17 +1,16 @@
-Flammulina flammulinae Bas SPECIES
-=======
+# Flammulina fennae Bas, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 12(1): 52 (1983)
 
 #### Original name
-Flammulina flammulinae Bas
+Flammulina fennae Bas, 1983
 
 ### Remarks
 null

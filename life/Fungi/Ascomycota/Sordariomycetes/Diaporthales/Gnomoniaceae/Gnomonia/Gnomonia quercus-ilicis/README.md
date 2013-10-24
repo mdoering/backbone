@@ -1,5 +1,4 @@
-Gnomonia quercus-ilicis Berl. SPECIES
-=======
+# Gnomonia quercus-ilicis Berl. SPECIES
 
 #### Status
 ACCEPTED

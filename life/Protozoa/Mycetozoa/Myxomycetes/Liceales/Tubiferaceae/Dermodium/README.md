@@ -1,5 +1,4 @@
-Dermodium Link, 1809 GENUS
-=======
+# Dermodium Link, 1809 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hypochnus epigaeus Burt, 1916 SPECIES
-=======
+# Tomentella epigaea (Burt) M.J. Larsen, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 225 (1916)
+Can. J. Bot. 43: 1493 (1965)
 
 #### Original name
 Hypochnus epigaeus Burt, 1916

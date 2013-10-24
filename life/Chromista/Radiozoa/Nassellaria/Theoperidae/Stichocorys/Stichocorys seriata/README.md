@@ -1,5 +1,4 @@
-Stichocorys seriata Joergensen, 1905 SPECIES
-=======
+# Stichocorys seriata Joergensen, 1905 SPECIES
 
 #### Status
 ACCEPTED

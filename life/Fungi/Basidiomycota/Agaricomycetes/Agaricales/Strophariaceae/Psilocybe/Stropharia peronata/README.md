@@ -1,5 +1,4 @@
-Stropharia peronata Massee SPECIES
-=======
+# Stropharia peronata Massee SPECIES
 
 #### Status
 ACCEPTED

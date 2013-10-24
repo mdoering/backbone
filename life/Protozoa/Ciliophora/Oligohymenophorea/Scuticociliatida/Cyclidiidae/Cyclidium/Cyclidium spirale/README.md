@@ -1,5 +1,4 @@
-Cyclidium spirale Kahl, 1926 SPECIES
-=======
+# Cyclidium spirale Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

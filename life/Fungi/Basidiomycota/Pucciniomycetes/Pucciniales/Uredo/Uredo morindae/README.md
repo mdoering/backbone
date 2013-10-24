@@ -1,5 +1,4 @@
-Uredo morindae Morim. SPECIES
-=======
+# Uredo morindae Morim. SPECIES
 
 #### Status
 ACCEPTED

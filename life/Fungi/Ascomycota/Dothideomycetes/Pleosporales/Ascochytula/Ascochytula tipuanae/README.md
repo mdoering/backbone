@@ -1,5 +1,4 @@
-Ascochytula tipuanae Bond.-Mont. SPECIES
-=======
+# Ascochytula tipuanae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cortinarius mucifluus subsp. pinicola (P.D. Orton) Melot SUBSPECIES
-=======
+# Cortinarius mucifluus Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 20(no. 77): 95 (1989)
+Epicr. syst. mycol. (Upsaliae) 274 (1838)
 
 #### Original name
-Cortinarius pinicola P.D. Orton, 1960
+Cortinarius mucifluus Fr., 1838
 
 ### Remarks
 null

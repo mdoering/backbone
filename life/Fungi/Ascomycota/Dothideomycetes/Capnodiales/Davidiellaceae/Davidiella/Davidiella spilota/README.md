@@ -1,5 +1,4 @@
-Davidiella spilota (Syd.) Aptroot, 2006 SPECIES
-=======
+# Davidiella spilota (Syd.) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED

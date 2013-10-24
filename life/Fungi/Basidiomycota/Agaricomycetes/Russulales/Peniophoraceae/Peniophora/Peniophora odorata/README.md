@@ -1,5 +1,4 @@
-Peniophora odorata (P. Karst.) Burt SPECIES
-=======
+# Peniophora odorata (P. Karst.) Burt SPECIES
 
 #### Status
 ACCEPTED

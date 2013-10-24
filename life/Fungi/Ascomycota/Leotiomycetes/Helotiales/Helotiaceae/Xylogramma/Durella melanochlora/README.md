@@ -1,17 +1,16 @@
-Durella melanochlora subsp. melanochlora (Sommerf.) Rehm SUBSPECIES
-=======
+# Durella melanochlora (Sommerf.) Rehm, 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hedwigia 21(8): 114 (1882)
 
 #### Original name
-Durella melanochlora subsp. melanochlora (Sommerf.) Rehm
+null
 
 ### Remarks
 null

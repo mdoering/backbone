@@ -1,5 +1,4 @@
-Phyllachora asiatica P.F. Cannon SPECIES
-=======
+# Phyllachora asiatica P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

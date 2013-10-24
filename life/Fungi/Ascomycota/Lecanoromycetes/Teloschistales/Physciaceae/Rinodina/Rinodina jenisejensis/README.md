@@ -1,5 +1,4 @@
-Rinodina jenisejensis H. Magn. SPECIES
-=======
+# Rinodina jenisejensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

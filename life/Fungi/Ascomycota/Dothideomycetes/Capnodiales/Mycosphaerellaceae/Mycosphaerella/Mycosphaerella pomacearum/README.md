@@ -1,17 +1,16 @@
-Sphaerella pomacearum (Crié) Sacc., 1882 SPECIES
-=======
+# Mycosphaerella pomacearum (Crié) Oudem., 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. K. ned. Akad. Wet. , Afd. Natuurkunde, Tweede Reeks 11: 249 (1905)
 
 #### Original name
-null
+Depazea pomacearum Crié, 1878
 
 ### Remarks
 null

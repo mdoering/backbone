@@ -1,5 +1,4 @@
-Vermicularia GENUS
-=======
+# Vermicularia GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Corticium subillaqueatum Litsch., 1941 SPECIES
-=======
+# Amylocorticiellum subillaqueatum (Litsch.) Spirin & Zmitr., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mikol. Fitopatol. 36(1): 23 (2002)
 
 #### Original name
 null

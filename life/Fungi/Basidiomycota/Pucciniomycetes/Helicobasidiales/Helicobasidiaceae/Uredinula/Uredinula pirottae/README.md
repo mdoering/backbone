@@ -1,5 +1,4 @@
-Uredinula pirottae Speg. SPECIES
-=======
+# Uredinula pirottae Speg. SPECIES
 
 #### Status
 ACCEPTED

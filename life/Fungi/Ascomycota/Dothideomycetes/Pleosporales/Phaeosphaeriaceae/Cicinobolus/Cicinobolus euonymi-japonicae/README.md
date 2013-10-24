@@ -1,14 +1,13 @@
-Ampelomyces evonymi (Arcang.) Rudakov SPECIES
-=======
+# Cicinobolus euonymi-japonicae Arcang., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atti Soc. Tosc. Sci. Nat. Pisa Processi Verbali [2] (1900)
 
 #### Original name
 Cicinobolus euonymi-japonicae Arcang., 1900

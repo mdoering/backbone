@@ -1,5 +1,4 @@
-Scopula hyalina G. Arnaud SPECIES
-=======
+# Scopula hyalina G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

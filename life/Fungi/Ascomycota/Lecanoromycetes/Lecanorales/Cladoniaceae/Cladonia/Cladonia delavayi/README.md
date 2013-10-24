@@ -1,5 +1,4 @@
-Cladonia delavayi Abbayes SPECIES
-=======
+# Cladonia delavayi Abbayes SPECIES
 
 #### Status
 ACCEPTED

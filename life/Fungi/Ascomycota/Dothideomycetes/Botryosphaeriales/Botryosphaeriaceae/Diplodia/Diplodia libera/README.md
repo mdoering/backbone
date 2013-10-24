@@ -1,5 +1,4 @@
-Diplodia libera Schulzer & Sacc. SPECIES
-=======
+# Diplodia libera Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

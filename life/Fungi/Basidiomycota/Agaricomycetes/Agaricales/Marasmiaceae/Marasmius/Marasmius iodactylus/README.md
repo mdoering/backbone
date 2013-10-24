@@ -1,5 +1,4 @@
-Marasmius iodactylus Singer SPECIES
-=======
+# Marasmius iodactylus Singer SPECIES
 
 #### Status
 ACCEPTED

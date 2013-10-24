@@ -1,5 +1,4 @@
-Helmisporium allii Brond. SPECIES
-=======
+# Helmisporium allii Brond. SPECIES
 
 #### Status
 ACCEPTED

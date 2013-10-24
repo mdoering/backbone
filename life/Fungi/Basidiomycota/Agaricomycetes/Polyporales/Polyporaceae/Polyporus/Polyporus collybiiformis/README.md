@@ -1,17 +1,16 @@
-Polyporus collybiaeformis Beeli SPECIES
-=======
+# Polyporus collybiiformis Beeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 62(1): 59 (1929)
 
 #### Original name
-Polyporus collybiaeformis Beeli
+Polyporus collybiiformis Beeli
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rosalina subaraucana SPECIES
-=======
+# Rosalina subaraucana SPECIES
 
 #### Status
 ACCEPTED

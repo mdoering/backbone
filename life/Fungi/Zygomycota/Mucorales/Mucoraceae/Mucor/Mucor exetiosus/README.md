@@ -1,5 +1,4 @@
-Mucor exetiosus Massee SPECIES
-=======
+# Mucor exetiosus Massee SPECIES
 
 #### Status
 ACCEPTED

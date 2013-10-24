@@ -1,5 +1,4 @@
-Cucurbitaria celtidis Shear SPECIES
-=======
+# Cucurbitaria celtidis Shear SPECIES
 
 #### Status
 ACCEPTED

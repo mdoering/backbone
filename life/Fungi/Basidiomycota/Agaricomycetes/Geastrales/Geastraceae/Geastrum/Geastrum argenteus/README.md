@@ -1,8 +1,7 @@
-Geaster argenteus Cooke SPECIES
-=======
+# Geastrum argenteus Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster argenteus Cooke
+Geastrum argenteus Cooke
 
 ### Remarks
 null

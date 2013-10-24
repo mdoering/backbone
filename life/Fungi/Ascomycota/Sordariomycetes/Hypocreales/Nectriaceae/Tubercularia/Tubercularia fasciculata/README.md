@@ -1,5 +1,4 @@
-Tubercularia fasciculata Tode SPECIES
-=======
+# Tubercularia fasciculata Tode SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo antiguensis Cummins SPECIES
-=======
+# Uredo antiguensis Cummins SPECIES
 
 #### Status
 ACCEPTED

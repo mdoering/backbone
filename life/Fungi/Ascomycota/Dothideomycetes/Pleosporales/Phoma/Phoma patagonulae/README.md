@@ -1,5 +1,4 @@
-Phoma patagonulae Tassi SPECIES
-=======
+# Phoma patagonulae Tassi SPECIES
 
 #### Status
 ACCEPTED

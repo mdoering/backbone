@@ -1,5 +1,4 @@
-Corethromyces uncinuhis SPECIES
-=======
+# Corethromyces uncinuhis SPECIES
 
 #### Status
 ACCEPTED

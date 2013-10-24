@@ -1,5 +1,4 @@
-Boletellus squamosus M. Zang SPECIES
-=======
+# Boletellus squamosus M. Zang SPECIES
 
 #### Status
 ACCEPTED

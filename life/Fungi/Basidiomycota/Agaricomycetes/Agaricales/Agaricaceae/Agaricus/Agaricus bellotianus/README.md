@@ -1,5 +1,4 @@
-Agaricus bellotianus Berk. SPECIES
-=======
+# Agaricus bellotianus Berk. SPECIES
 
 #### Status
 ACCEPTED

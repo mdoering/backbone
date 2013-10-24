@@ -1,5 +1,4 @@
-Hexonaspidium Haeckel, 1887 GENUS
-=======
+# Hexonaspidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

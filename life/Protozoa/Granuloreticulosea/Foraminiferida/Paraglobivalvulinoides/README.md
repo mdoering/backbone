@@ -1,5 +1,4 @@
-Paraglobivalvulinoides Zaninetti & Jenny-Deshusses, 1985 GENUS
-=======
+# Paraglobivalvulinoides Zaninetti & Jenny-Deshusses, 1985 GENUS
 
 #### Status
 ACCEPTED

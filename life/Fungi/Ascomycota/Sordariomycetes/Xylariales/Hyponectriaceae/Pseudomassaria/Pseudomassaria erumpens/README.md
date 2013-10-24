@@ -1,5 +1,4 @@
-Pseudomassaria erumpens M.E. Barr SPECIES
-=======
+# Pseudomassaria erumpens M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

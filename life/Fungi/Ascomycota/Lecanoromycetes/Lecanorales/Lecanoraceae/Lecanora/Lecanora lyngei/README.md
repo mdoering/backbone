@@ -1,5 +1,4 @@
-Lecanora lyngei Zahlbr. SPECIES
-=======
+# Lecanora lyngei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

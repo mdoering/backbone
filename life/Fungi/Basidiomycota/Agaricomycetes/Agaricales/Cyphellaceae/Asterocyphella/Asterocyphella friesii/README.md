@@ -1,14 +1,13 @@
-Chaetocypha friesii (P. Crouan & H. Crouan) Kuntze, 1891 SPECIES
-=======
+# Asterocyphella friesii (P. Crouan & H. Crouan) W.B. Cooke, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 847 (1891)
+Beih. Sydowia 4: 119 (1961)
 
 #### Original name
 Cyphella friesii P. Crouan & H. Crouan, 1867

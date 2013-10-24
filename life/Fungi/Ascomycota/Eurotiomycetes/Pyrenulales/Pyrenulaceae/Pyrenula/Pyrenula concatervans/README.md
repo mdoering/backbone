@@ -1,14 +1,13 @@
-Verrucaria concatervans Nyl. SPECIES
-=======
+# Pyrenula concatervans (Nyl.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Japon. 109 (1890)
+in Tucker & Harris, Bryologist 83(1): 15 (1980)
 
 #### Original name
 Verrucaria concatervans Nyl.

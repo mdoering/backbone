@@ -1,5 +1,4 @@
-Pseudocercospora rungiae R.K. Verma & Kamal SPECIES
-=======
+# Pseudocercospora rungiae R.K. Verma & Kamal SPECIES
 
 #### Status
 ACCEPTED

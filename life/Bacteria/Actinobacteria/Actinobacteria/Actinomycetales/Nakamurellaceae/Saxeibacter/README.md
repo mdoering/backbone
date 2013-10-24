@@ -1,5 +1,4 @@
-Saxeibacter Lee et al., 2008 GENUS
-=======
+# Saxeibacter Lee et al., 2008 GENUS
 
 #### Status
 ACCEPTED

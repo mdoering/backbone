@@ -1,5 +1,4 @@
-Filariomyces forficulae Shanor, 1952 SPECIES
-=======
+# Filariomyces forficulae Shanor, 1952 SPECIES
 
 #### Status
 ACCEPTED

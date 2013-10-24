@@ -1,5 +1,4 @@
-Vorticella striatula Dons, 1918 SPECIES
-=======
+# Vorticella striatula Dons, 1918 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diploschistes bellus Zahlbr. SPECIES
-=======
+# Diploschistes bellus Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

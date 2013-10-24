@@ -1,5 +1,4 @@
-Rickia trichophora Thaxt. SPECIES
-=======
+# Rickia trichophora Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridermium floridanum Hedgc. & G. Hahn SPECIES
-=======
+# Peridermium floridanum Hedgc. & G. Hahn SPECIES
 
 #### Status
 ACCEPTED

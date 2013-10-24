@@ -1,5 +1,4 @@
-Leiosphaeridia disca Timofeev, 1962 ex Downie & Sarjeant, 1965 SPECIES
-=======
+# Leiosphaeridia disca Timofeev, 1962 ex Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

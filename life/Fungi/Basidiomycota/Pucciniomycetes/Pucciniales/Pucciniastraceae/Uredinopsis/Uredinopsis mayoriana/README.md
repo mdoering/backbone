@@ -1,5 +1,4 @@
-Uredinopsis mayoriana Dietel SPECIES
-=======
+# Uredinopsis mayoriana Dietel SPECIES
 
 #### Status
 ACCEPTED

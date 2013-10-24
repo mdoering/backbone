@@ -1,5 +1,4 @@
-Hygrophorus capreolarius Kalchbr. SPECIES
-=======
+# Hygrophorus capreolarius Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

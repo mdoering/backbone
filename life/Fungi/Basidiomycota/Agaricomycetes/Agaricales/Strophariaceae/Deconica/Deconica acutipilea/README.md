@@ -1,5 +1,4 @@
-Deconica acutipilea Speg. SPECIES
-=======
+# Deconica acutipilea Speg. SPECIES
 
 #### Status
 ACCEPTED

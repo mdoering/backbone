@@ -1,5 +1,4 @@
-Phyllosticta phellodendricola Melnik SPECIES
-=======
+# Phyllosticta phellodendricola Melnik SPECIES
 
 #### Status
 ACCEPTED

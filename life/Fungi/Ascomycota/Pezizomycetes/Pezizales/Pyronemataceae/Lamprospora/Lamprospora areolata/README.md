@@ -1,5 +1,4 @@
-Lamprospora areolata Seaver SPECIES
-=======
+# Lamprospora areolata Seaver SPECIES
 
 #### Status
 ACCEPTED

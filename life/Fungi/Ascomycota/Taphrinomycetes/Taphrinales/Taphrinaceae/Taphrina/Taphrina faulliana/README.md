@@ -1,5 +1,4 @@
-Taphrina faulliana Mix SPECIES
-=======
+# Taphrina faulliana Mix SPECIES
 
 #### Status
 ACCEPTED

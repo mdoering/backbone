@@ -1,5 +1,4 @@
-Porina papillifera (Stirt.) F. Schill. SPECIES
-=======
+# Porina papillifera (Stirt.) F. Schill. SPECIES
 
 #### Status
 ACCEPTED

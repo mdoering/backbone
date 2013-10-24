@@ -1,5 +1,4 @@
-Aecidium linosyridis Lagerh. SPECIES
-=======
+# Aecidium linosyridis Lagerh. SPECIES
 
 #### Status
 ACCEPTED

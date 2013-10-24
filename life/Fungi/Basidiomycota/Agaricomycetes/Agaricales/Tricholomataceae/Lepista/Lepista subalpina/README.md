@@ -1,5 +1,4 @@
-Lepista subalpina (H.E. Bigelow & A.H. Sm.) Harmaja SPECIES
-=======
+# Lepista subalpina (H.E. Bigelow & A.H. Sm.) Harmaja SPECIES
 
 #### Status
 ACCEPTED

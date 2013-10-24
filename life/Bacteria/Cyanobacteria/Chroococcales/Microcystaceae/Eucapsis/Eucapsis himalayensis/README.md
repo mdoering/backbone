@@ -1,5 +1,4 @@
-Eucapsis himalayensis M. Watanabe & Komárek SPECIES
-=======
+# Eucapsis himalayensis M. Watanabe & Komárek SPECIES
 
 #### Status
 ACCEPTED

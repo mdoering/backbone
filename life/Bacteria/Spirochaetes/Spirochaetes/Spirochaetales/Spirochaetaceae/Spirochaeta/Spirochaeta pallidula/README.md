@@ -1,5 +1,4 @@
-Spirochaeta pallidula SPECIES
-=======
+# Spirochaeta pallidula SPECIES
 
 #### Status
 ACCEPTED

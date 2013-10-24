@@ -1,5 +1,4 @@
-Gyalidea lecideopsis (A. Massal.) Lettau ex Vezda SPECIES
-=======
+# Gyalidea lecideopsis (A. Massal.) Lettau ex Vezda SPECIES
 
 #### Status
 ACCEPTED

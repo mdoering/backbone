@@ -1,5 +1,4 @@
-Uromyces valerianae-wallichii Arthur & Cummins SPECIES
-=======
+# Uromyces valerianae-wallichii Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

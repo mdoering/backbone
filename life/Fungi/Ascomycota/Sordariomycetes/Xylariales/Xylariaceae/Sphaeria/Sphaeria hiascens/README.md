@@ -1,5 +1,4 @@
-Sphaeria hiascens Fr. SPECIES
-=======
+# Sphaeria hiascens Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cupriavidus gilardii (Coenye et al., 1999) Vandamme & Coenye, 2004 SPECIES
-=======
+# Wautersia gilardii (Coenye et al., 1999) Vaneechoutte et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

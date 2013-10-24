@@ -1,5 +1,4 @@
-Asteridiella hansfordii var. hansfordii VARIETY
-=======
+# Asteridiella hansfordii (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 214 (1961)
 
 #### Original name
-Asteridiella hansfordii var. hansfordii
+Irenina hansfordii F. Stevens
 
 ### Remarks
 null

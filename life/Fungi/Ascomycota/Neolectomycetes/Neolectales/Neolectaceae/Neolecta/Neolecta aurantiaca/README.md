@@ -1,5 +1,4 @@
-Neolecta aurantiaca Feltgen, 1905 SPECIES
-=======
+# Neolecta aurantiaca Feltgen, 1905 SPECIES
 
 #### Status
 ACCEPTED

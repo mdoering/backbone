@@ -1,17 +1,16 @@
-Omphalia mellea var. gymnopodia (Bull.) Quél., 1886 VARIETY
-=======
+# Pholiota gymnopodia (Bull.) A.F.M. Reijnders, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 17(1): 113 (1998)
 
 #### Original name
-null
+Agaricus gymnopodius Bull., 1798
 
 ### Remarks
 null

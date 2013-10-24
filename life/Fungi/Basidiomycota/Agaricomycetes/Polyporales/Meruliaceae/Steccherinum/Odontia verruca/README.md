@@ -1,5 +1,4 @@
-Odontia verruca H. Furuk. SPECIES
-=======
+# Odontia verruca H. Furuk. SPECIES
 
 #### Status
 ACCEPTED

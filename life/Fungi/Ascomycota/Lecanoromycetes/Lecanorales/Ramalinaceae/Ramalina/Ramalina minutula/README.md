@@ -1,5 +1,4 @@
-Ramalina minutula (Ach.) Röhl. SPECIES
-=======
+# Ramalina minutula (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Domasia bispinosa Downie, 1960 SPECIES
-=======
+# Domasia bispinosa Downie, 1960 SPECIES
 
 #### Status
 ACCEPTED

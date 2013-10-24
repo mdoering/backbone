@@ -1,14 +1,13 @@
-Caloplaca pyracea f. cerinelloides Erichsen FORM
-=======
+# Caloplaca cerinelloides (Erichsen) Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 50: 99 (1992)
 
 #### Original name
 Caloplaca pyracea f. cerinelloides Erichsen

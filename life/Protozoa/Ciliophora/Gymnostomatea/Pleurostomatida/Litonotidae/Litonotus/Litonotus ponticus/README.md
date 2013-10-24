@@ -1,5 +1,4 @@
-Litonotus ponticus Lepsi, 1962 SPECIES
-=======
+# Litonotus ponticus Lepsi, 1962 SPECIES
 
 #### Status
 ACCEPTED

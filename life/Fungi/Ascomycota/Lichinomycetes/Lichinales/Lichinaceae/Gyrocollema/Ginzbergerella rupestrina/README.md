@@ -1,5 +1,4 @@
-Ginzbergerella rupestrina Zahlbr. SPECIES
-=======
+# Ginzbergerella rupestrina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

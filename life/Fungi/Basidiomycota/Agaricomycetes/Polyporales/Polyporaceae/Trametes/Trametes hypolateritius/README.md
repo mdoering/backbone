@@ -1,5 +1,4 @@
-Trametes hypolateritius (Berk. ex Cooke) SPECIES
-=======
+# Trametes hypolateritius (Berk. ex Cooke) SPECIES
 
 #### Status
 ACCEPTED

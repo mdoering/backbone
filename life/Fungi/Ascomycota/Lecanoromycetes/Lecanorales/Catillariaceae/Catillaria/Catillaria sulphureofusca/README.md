@@ -1,5 +1,4 @@
-Catillaria sulphureofusca SPECIES
-=======
+# Catillaria sulphureofusca SPECIES
 
 #### Status
 ACCEPTED

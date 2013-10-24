@@ -1,5 +1,4 @@
-Ramularia inulae (Sacc.) Höhn. SPECIES
-=======
+# Ramularia inulae (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

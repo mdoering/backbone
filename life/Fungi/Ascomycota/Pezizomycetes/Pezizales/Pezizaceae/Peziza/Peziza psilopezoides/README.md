@@ -1,5 +1,4 @@
-Peziza psilopezoides Cooke & W. Phillips SPECIES
-=======
+# Peziza psilopezoides Cooke & W. Phillips SPECIES
 
 #### Status
 ACCEPTED

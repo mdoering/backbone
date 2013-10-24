@@ -1,5 +1,4 @@
-Gyalideopsis bispora Vezda SPECIES
-=======
+# Gyalideopsis bispora Vezda SPECIES
 
 #### Status
 ACCEPTED

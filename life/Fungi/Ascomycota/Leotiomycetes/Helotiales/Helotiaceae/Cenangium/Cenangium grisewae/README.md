@@ -1,5 +1,4 @@
-Cenangium grisewae Dearn. & House SPECIES
-=======
+# Cenangium grisewae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

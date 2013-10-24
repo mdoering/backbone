@@ -1,14 +1,13 @@
-Ascidium attenuatum C. Knight SPECIES
-=======
+# Thelotrema attenuatum (C. Knight) Hellb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. New Zealand Inst. 15: 354 (1883)
+K. svenska Vetensk-Akad. Handl. 21(Afd. 3, 13): 78 (1896)
 
 #### Original name
 Ascidium attenuatum C. Knight

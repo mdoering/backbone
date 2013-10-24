@@ -1,8 +1,7 @@
-Pulvinulinella pontoni Cushman, 1930 SPECIES
-=======
+# Pseudoparella pontoni (Cushman, 1930) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

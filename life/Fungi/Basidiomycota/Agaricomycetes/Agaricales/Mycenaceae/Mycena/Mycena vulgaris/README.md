@@ -1,17 +1,16 @@
-Mycena vulgaris var. caespitosa Kauffman & A.H. Sm. VARIETY
-=======
+# Mycena vulgaris (Pers.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) 108 (1871)
 
 #### Original name
-Mycena vulgaris var. caespitosa Kauffman & A.H. Sm.
+Agaricus vulgaris Pers., 1794
 
 ### Remarks
 null

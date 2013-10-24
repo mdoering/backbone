@@ -1,5 +1,4 @@
-Thelidium scotodes (Nyl.) Arnold SPECIES
-=======
+# Thelidium scotodes (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

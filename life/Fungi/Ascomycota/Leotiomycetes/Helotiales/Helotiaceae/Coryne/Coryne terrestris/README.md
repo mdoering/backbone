@@ -1,5 +1,4 @@
-Coryne terrestris Velen. SPECIES
-=======
+# Coryne terrestris Velen. SPECIES
 
 #### Status
 ACCEPTED

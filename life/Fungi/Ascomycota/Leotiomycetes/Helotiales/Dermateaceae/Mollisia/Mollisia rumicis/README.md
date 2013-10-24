@@ -1,5 +1,4 @@
-Mollisia rumicis E. Müll. SPECIES
-=======
+# Mollisia rumicis E. Müll. SPECIES
 
 #### Status
 ACCEPTED

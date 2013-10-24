@@ -1,5 +1,4 @@
-Dothiora pruni-padi Froid. SPECIES
-=======
+# Dothiora pruni-padi Froid. SPECIES
 
 #### Status
 ACCEPTED

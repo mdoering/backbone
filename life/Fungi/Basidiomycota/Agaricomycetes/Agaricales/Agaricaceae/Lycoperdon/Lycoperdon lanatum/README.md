@@ -1,5 +1,4 @@
-Lycoperdon lanatum Batsch SPECIES
-=======
+# Lycoperdon lanatum Batsch SPECIES
 
 #### Status
 ACCEPTED

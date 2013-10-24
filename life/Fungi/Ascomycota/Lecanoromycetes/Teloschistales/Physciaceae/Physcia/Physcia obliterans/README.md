@@ -1,5 +1,4 @@
-Physcia obliterans (Nyl.) Arnold SPECIES
-=======
+# Physcia obliterans (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

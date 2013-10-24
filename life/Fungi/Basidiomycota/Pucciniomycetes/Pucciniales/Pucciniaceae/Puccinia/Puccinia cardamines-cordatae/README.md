@@ -1,5 +1,4 @@
-Puccinia cardamines-cordatae Dietel & Neger SPECIES
-=======
+# Puccinia cardamines-cordatae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

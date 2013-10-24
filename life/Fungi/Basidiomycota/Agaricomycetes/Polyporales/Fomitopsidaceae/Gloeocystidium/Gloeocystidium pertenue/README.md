@@ -1,5 +1,4 @@
-Gloeocystidium pertenue (P. Karst.) SPECIES
-=======
+# Gloeocystidium pertenue (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

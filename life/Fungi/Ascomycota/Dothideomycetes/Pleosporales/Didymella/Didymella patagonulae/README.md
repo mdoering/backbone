@@ -1,5 +1,4 @@
-Didymella patagonulae Tassi SPECIES
-=======
+# Didymella patagonulae Tassi SPECIES
 
 #### Status
 ACCEPTED

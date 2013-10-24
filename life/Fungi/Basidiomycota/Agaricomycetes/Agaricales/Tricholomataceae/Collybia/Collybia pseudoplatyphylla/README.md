@@ -1,5 +1,4 @@
-Collybia pseudoplatyphylla Britzelm. SPECIES
-=======
+# Collybia pseudoplatyphylla Britzelm. SPECIES
 
 #### Status
 ACCEPTED

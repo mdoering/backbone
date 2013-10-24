@@ -1,14 +1,13 @@
-Helotium leucellum (P. Karst.) P. Karst., 1870 SPECIES
-=======
+# Calycellina leucella (P. Karst.) Dennis ex E. Müll., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Not. Sällsk. Fauna et Fl. Fenn. Förh. 11: 240 (1870)
+Beitr. Kryptfl. Schweiz 15(no. 1): 29 (1977)
 
 #### Original name
 null

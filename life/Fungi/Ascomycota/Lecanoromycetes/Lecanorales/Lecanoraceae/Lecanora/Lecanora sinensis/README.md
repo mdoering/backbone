@@ -1,5 +1,4 @@
-Lecanora sinensis (Zahlbr.) H. Magn. SPECIES
-=======
+# Lecanora sinensis (Zahlbr.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

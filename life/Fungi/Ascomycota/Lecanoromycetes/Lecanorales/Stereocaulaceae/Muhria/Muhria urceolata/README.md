@@ -1,14 +1,13 @@
-Stereocaulon urceolatum (P.M. Jørg.) Högnabba SPECIES
-=======
+# Muhria urceolata P.M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycol. Res. 110(9): 1085 (2006)
+in Jørgensen & Jahns, Notes R. bot. Gdn Edinb. 44(3): 583 (1987)
 
 #### Original name
 Muhria urceolata P.M. Jørg.

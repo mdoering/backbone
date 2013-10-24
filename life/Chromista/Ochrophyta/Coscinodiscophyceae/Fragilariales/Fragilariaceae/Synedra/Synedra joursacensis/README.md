@@ -1,5 +1,4 @@
-Synedra joursacensis Héribaud SPECIES
-=======
+# Synedra joursacensis Héribaud SPECIES
 
 #### Status
 ACCEPTED

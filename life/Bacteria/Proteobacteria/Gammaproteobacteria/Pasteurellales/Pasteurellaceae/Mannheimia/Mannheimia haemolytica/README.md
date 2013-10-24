@@ -1,8 +1,7 @@
-Pasteurella haemolytica Newsom and Cross, 1932 (Approved Lists, 1980) SPECIES
-=======
+# Mannheimia haemolytica (Newsom & Cross, 1932) Angen et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

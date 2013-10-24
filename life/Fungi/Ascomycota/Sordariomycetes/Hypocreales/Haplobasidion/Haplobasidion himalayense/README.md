@@ -1,17 +1,16 @@
-Haplobasidion haplobasidium J.N. Kapoor & Munjal SPECIES
-=======
+# Haplobasidion himalayense J.N. Kapoor & Munjal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. , Suppl. Issue 21: 109 (1968)
 
 #### Original name
-Haplobasidion haplobasidium J.N. Kapoor & Munjal
+Haplobasidion himalayense J.N. Kapoor & Munjal
 
 ### Remarks
 null

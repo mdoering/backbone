@@ -1,14 +1,13 @@
-Pholiotina nemoralis var. dentatomarginata (Watling) Hauskn., 2007 VARIETY
-=======
+# Conocybe dentatomarginata Watling, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öst. Z. Pilzk. 16: 92 (2007)
+Notes R. bot. Gdn Edinb. 38(2): 333 (1980)
 
 #### Original name
 Conocybe dentatomarginata Watling, 1980

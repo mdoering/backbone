@@ -1,5 +1,4 @@
-Russula alpium Reumaux SPECIES
-=======
+# Russula alpium Reumaux SPECIES
 
 #### Status
 ACCEPTED

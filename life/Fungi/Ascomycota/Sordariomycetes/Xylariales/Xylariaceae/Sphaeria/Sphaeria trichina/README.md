@@ -1,5 +1,4 @@
-Sphaeria trichina Pers. SPECIES
-=======
+# Sphaeria trichina Pers. SPECIES
 
 #### Status
 ACCEPTED

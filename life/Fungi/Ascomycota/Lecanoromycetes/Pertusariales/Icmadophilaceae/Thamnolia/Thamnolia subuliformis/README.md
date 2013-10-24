@@ -1,17 +1,16 @@
-Thamnolia subuliformis f. subuliformis FORM
-=======
+# Thamnolia subuliformis (Ehrh.) W. L. Culb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brittonia 15: 144 (1963)
+null
 
 #### Original name
-Thamnolia subuliformis f. subuliformis
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phoma cicatricum Pass. SPECIES
-=======
+# Phoma cicatricum Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysosporium kuzurovianum Scharapov SPECIES
-=======
+# Chrysosporium kuzurovianum Scharapov SPECIES
 
 #### Status
 ACCEPTED

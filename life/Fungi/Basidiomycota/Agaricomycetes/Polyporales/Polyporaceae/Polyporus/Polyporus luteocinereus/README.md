@@ -1,5 +1,4 @@
-Polyporus luteocinereus Britzelm. SPECIES
-=======
+# Polyporus luteocinereus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Gelasinospora mirabilis var. mirabilis VARIETY
-=======
+# Gelasinospora mirabilis Furuya & Udagawa, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Mycol. Soc. Japan 17(3-4): 313 (1976)
 
 #### Original name
-Gelasinospora mirabilis var. mirabilis
+Gelasinospora mirabilis Furuya & Udagawa, 1976
 
 ### Remarks
 null

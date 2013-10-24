@@ -1,8 +1,7 @@
-Cephaloidophora foresti Théodoridès, 1967 SPECIES
-=======
+# Nematopsis foresti Théodoridès, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

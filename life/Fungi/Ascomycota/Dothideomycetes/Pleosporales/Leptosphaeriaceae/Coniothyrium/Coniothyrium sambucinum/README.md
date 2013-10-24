@@ -1,5 +1,4 @@
-Coniothyrium sambucinum (Cooke) Tassi SPECIES
-=======
+# Coniothyrium sambucinum (Cooke) Tassi SPECIES
 
 #### Status
 ACCEPTED

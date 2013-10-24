@@ -1,5 +1,4 @@
-Ehrlichia ewingii Anderson et al., 1992 SPECIES
-=======
+# Ehrlichia ewingii Anderson et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

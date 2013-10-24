@@ -1,5 +1,4 @@
-Stakmania formosana (Syd. & P. Syd.) Sathe SPECIES
-=======
+# Stakmania formosana (Syd. & P. Syd.) Sathe SPECIES
 
 #### Status
 ACCEPTED

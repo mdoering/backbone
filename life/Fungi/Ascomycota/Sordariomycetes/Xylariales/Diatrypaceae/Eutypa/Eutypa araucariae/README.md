@@ -1,5 +1,4 @@
-Eutypa araucariae Viégas SPECIES
-=======
+# Eutypa araucariae Viégas SPECIES
 
 #### Status
 ACCEPTED

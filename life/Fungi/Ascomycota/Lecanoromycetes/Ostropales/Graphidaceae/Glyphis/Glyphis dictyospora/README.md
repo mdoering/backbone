@@ -1,5 +1,4 @@
-Glyphis dictyospora Staiger SPECIES
-=======
+# Glyphis dictyospora Staiger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Calvocephalis nodosa (Tiegh.) Bainier, 1882 SPECIES
-=======
+# Syncephalis nodosa Tiegh., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Étud. Mucor. (Paris), (Thèse, Paris) 120 (1882)
+Annls Sci. Nat. , Bot. , sér. 6 1: 131 (1875)
 
 #### Original name
 Syncephalis nodosa Tiegh., 1875

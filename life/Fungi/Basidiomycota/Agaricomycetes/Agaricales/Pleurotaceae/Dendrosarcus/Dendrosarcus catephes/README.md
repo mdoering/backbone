@@ -1,5 +1,4 @@
-Dendrosarcus catephes (Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus catephes (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

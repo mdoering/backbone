@@ -1,5 +1,4 @@
-Asteromella pterandrae (Allesch.) Vanev & Aa SPECIES
-=======
+# Asteromella pterandrae (Allesch.) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

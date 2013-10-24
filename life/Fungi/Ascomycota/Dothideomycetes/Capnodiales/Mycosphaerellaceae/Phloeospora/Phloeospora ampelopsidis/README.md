@@ -1,5 +1,4 @@
-Phloeospora ampelopsidis (Ellis & Everh.) Bubák, 1916 SPECIES
-=======
+# Phloeospora ampelopsidis (Ellis & Everh.) Bubák, 1916 SPECIES
 
 #### Status
 ACCEPTED

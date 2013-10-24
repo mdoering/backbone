@@ -1,5 +1,4 @@
-Hohenbuehelia austrocedri Fazio & Albertó, 2001 SPECIES
-=======
+# Hohenbuehelia austrocedri Fazio & Albertó, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrypella minutispora Dearn. SPECIES
-=======
+# Diatrypella minutispora Dearn. SPECIES
 
 #### Status
 ACCEPTED

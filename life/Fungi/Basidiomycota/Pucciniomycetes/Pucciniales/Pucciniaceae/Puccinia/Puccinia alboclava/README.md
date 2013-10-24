@@ -1,5 +1,4 @@
-Puccinia alboclava G.T.S. Baylis, 1954 SPECIES
-=======
+# Puccinia alboclava G.T.S. Baylis, 1954 SPECIES
 
 #### Status
 ACCEPTED

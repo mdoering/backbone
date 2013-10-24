@@ -1,5 +1,4 @@
-Irenina implicata (Doidge) F. Stevens SPECIES
-=======
+# Irenina implicata (Doidge) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracoidea wakatipu Vánky, 2000 SPECIES
-=======
+# Anthracoidea wakatipu Vánky, 2000 SPECIES
 
 #### Status
 ACCEPTED

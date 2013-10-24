@@ -1,14 +1,13 @@
-Phyllachora galii (Fr.) Cooke, 1885 SPECIES
-=======
+# Mazzantia galii (Fr.) Mont., 1856 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 67 (1885)
+Syll. gen. sp. crypt. (Paris) 246 (1856)
 
 #### Original name
 Sphaeria galii Fr., 1828

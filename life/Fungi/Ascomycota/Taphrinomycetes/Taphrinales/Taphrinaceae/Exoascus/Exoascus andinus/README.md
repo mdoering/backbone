@@ -1,5 +1,4 @@
-Exoascus andinus (Palm) Sacc. & Trotter SPECIES
-=======
+# Exoascus andinus (Palm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

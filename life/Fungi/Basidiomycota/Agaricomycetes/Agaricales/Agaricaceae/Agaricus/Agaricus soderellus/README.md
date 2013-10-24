@@ -1,5 +1,4 @@
-Agaricus soderellus Scop. SPECIES
-=======
+# Agaricus soderellus Scop. SPECIES
 
 #### Status
 ACCEPTED

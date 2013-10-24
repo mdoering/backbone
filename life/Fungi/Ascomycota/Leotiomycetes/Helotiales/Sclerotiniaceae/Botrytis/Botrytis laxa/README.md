@@ -1,5 +1,4 @@
-Botrytis laxa Fr. SPECIES
-=======
+# Botrytis laxa Fr. SPECIES
 
 #### Status
 ACCEPTED

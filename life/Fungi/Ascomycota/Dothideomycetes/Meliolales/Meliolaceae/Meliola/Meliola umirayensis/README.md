@@ -1,5 +1,4 @@
-Meliola umirayensis H.S. Yates SPECIES
-=======
+# Meliola umirayensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

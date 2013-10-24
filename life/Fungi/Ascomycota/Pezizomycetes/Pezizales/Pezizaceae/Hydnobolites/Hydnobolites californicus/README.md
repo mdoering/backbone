@@ -1,5 +1,4 @@
-Hydnobolites californicus E. Fisch. SPECIES
-=======
+# Hydnobolites californicus E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

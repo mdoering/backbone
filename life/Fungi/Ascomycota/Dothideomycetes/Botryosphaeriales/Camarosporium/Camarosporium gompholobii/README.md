@@ -1,5 +1,4 @@
-Camarosporium gompholobii Petr. SPECIES
-=======
+# Camarosporium gompholobii Petr. SPECIES
 
 #### Status
 ACCEPTED

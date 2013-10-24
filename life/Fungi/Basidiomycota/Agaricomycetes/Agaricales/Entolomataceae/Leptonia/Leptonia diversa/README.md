@@ -1,5 +1,4 @@
-Leptonia diversa Largent SPECIES
-=======
+# Leptonia diversa Largent SPECIES
 
 #### Status
 ACCEPTED

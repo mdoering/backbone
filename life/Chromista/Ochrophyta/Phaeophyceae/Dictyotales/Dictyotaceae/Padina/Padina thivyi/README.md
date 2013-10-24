@@ -1,5 +1,4 @@
-Padina thivyi Doty & Newhouse SPECIES
-=======
+# Padina thivyi Doty & Newhouse SPECIES
 
 #### Status
 ACCEPTED

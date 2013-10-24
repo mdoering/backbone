@@ -1,5 +1,4 @@
-Micrhystridium taleum (Wicander, 1974) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Micrhystridium taleum (Wicander, 1974) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria scoparia Pat. SPECIES
-=======
+# Xylaria scoparia Pat. SPECIES
 
 #### Status
 ACCEPTED

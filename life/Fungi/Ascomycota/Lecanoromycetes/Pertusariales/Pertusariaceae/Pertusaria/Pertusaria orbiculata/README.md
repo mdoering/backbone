@@ -1,5 +1,4 @@
-Pertusaria orbiculata (Schreb.) Zahlbr. SPECIES
-=======
+# Pertusaria orbiculata (Schreb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

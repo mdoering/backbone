@@ -1,5 +1,4 @@
-Helotium infundibulum Velen. SPECIES
-=======
+# Helotium infundibulum Velen. SPECIES
 
 #### Status
 ACCEPTED

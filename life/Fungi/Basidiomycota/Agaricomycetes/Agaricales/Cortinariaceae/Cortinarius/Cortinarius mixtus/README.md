@@ -1,5 +1,4 @@
-Cortinarius mixtus Reumaux SPECIES
-=======
+# Cortinarius mixtus Reumaux SPECIES
 
 #### Status
 ACCEPTED

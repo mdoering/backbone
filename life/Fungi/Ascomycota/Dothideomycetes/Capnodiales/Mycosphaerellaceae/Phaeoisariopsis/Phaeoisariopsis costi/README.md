@@ -1,17 +1,16 @@
-Phaeoisariopsis costusae A.K. Singh, S.K. Singh & Kamal SPECIES
-=======
+# Phaeoisariopsis costi A.K. Singh, S.K. Singh & Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 53(16): 876 (1984)
 
 #### Original name
-Phaeoisariopsis costusae A.K. Singh, S.K. Singh & Kamal
+Phaeoisariopsis costi A.K. Singh, S.K. Singh & Kamal
 
 ### Remarks
 null

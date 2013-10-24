@@ -1,5 +1,4 @@
-Collybia rugulosa Schulzer & Bres. SPECIES
-=======
+# Collybia rugulosa Schulzer & Bres. SPECIES
 
 #### Status
 ACCEPTED

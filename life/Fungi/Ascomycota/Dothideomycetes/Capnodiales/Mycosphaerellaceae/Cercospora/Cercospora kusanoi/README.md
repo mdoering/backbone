@@ -1,5 +1,4 @@
-Cercospora kusanoi Sawada SPECIES
-=======
+# Cercospora kusanoi Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterococcus hirae Farrow & Collins, 1985 SPECIES
-=======
+# Enterococcus hirae Farrow & Collins, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria imitans P. Karst. SPECIES
-=======
+# Sphaeria imitans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

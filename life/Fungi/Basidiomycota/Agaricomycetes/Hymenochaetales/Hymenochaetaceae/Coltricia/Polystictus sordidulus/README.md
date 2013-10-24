@@ -1,5 +1,4 @@
-Polystictus sordidulus (Berk.) Cooke SPECIES
-=======
+# Polystictus sordidulus (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

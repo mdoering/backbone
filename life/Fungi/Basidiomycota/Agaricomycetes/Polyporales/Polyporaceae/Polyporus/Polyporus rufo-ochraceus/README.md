@@ -1,5 +1,4 @@
-Polyporus rufo-ochraceus Pat. SPECIES
-=======
+# Polyporus rufo-ochraceus Pat. SPECIES
 
 #### Status
 ACCEPTED

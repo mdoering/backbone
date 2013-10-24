@@ -1,5 +1,4 @@
-Phyllosticta cinnamomi (Sacc.) Allesch. SPECIES
-=======
+# Phyllosticta cinnamomi (Sacc.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

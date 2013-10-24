@@ -1,5 +1,4 @@
-Haptophryopsis de Puytorac, 1971 GENUS
-=======
+# Haptophryopsis de Puytorac, 1971 GENUS
 
 #### Status
 ACCEPTED

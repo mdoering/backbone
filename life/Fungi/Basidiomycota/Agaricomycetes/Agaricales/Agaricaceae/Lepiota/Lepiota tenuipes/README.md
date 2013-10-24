@@ -1,5 +1,4 @@
-Lepiota tenuipes Beeli SPECIES
-=======
+# Lepiota tenuipes Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spatoglossum vietnamense Pham-Hoàng Hô SPECIES
-=======
+# Spatoglossum vietnamense Pham-Hoàng Hô SPECIES
 
 #### Status
 ACCEPTED

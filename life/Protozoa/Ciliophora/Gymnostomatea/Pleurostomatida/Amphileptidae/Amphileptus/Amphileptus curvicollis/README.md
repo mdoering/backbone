@@ -1,5 +1,4 @@
-Amphileptus curvicollis Dumas SPECIES
-=======
+# Amphileptus curvicollis Dumas SPECIES
 
 #### Status
 ACCEPTED

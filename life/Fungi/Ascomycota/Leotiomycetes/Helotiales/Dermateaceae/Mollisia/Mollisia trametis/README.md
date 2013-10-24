@@ -1,5 +1,4 @@
-Mollisia trametis Ellis & Everh. SPECIES
-=======
+# Mollisia trametis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma pteridicola G. Stev. SPECIES
-=======
+# Entoloma pteridicola G. Stev. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Navicella biformis (Nitschke) Kuntze SPECIES
-=======
+# Navicella biformis (Nitschke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora leersiae Petr. SPECIES
-=======
+# Stagonospora leersiae Petr. SPECIES
 
 #### Status
 ACCEPTED

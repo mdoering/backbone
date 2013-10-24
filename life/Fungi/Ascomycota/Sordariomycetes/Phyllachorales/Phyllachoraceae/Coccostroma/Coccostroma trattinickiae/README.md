@@ -1,5 +1,4 @@
-Coccostroma trattinickiae Viégas, 1946 SPECIES
-=======
+# Coccostroma trattinickiae Viégas, 1946 SPECIES
 
 #### Status
 ACCEPTED

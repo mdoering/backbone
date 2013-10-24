@@ -1,5 +1,4 @@
-Cercospora briareus Ellis & Everh. SPECIES
-=======
+# Cercospora briareus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

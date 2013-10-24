@@ -1,5 +1,4 @@
-Sorostomasphaera McClellan, 1966 GENUS
-=======
+# Sorostomasphaera McClellan, 1966 GENUS
 
 #### Status
 ACCEPTED

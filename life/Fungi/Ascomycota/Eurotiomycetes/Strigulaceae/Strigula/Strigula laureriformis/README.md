@@ -1,5 +1,4 @@
-Strigula laureriformis Aptroot & Lücking SPECIES
-=======
+# Strigula laureriformis Aptroot & Lücking SPECIES
 
 #### Status
 ACCEPTED

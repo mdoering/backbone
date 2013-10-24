@@ -1,5 +1,4 @@
-Endocarpon subnitescens (Nyl.) Nyl. SPECIES
-=======
+# Endocarpon subnitescens (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

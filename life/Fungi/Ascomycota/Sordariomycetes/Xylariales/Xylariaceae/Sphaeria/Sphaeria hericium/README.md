@@ -1,5 +1,4 @@
-Sphaeria hericium Schwein. SPECIES
-=======
+# Sphaeria hericium Schwein. SPECIES
 
 #### Status
 ACCEPTED

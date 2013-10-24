@@ -1,5 +1,4 @@
-Pseudocercospora tuberculans (Ellis & Everh.) U. Braun SPECIES
-=======
+# Pseudocercospora tuberculans (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Castellania GENUS
-=======
+# Castellania GENUS
 
 #### Status
 ACCEPTED

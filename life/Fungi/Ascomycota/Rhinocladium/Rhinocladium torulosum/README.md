@@ -1,5 +1,4 @@
-Rhinocladium torulosum (Bonord.) Sacc., Marchal & É.J. Marchal SPECIES
-=======
+# Rhinocladium torulosum (Bonord.) Sacc., Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

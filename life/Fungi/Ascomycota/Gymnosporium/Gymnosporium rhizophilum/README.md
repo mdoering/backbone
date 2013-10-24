@@ -1,5 +1,4 @@
-Gymnosporium rhizophilum Preuss SPECIES
-=======
+# Gymnosporium rhizophilum Preuss SPECIES
 
 #### Status
 ACCEPTED

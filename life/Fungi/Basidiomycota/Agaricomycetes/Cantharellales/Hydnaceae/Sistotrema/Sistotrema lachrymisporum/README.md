@@ -1,5 +1,4 @@
-Sistotrema lachrymisporum S.S. Rattan SPECIES
-=======
+# Sistotrema lachrymisporum S.S. Rattan SPECIES
 
 #### Status
 ACCEPTED

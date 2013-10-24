@@ -1,5 +1,4 @@
-Favolaschia testudinella (R.E. Fr.) Kuntze SPECIES
-=======
+# Favolaschia testudinella (R.E. Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

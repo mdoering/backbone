@@ -1,5 +1,4 @@
-Scolecostigmina combreti (J. Kranz) U. Braun SPECIES
-=======
+# Scolecostigmina combreti (J. Kranz) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta flexuosa Verpl. & Van den Broecke SPECIES
-=======
+# Phyllosticta flexuosa Verpl. & Van den Broecke SPECIES
 
 #### Status
 ACCEPTED

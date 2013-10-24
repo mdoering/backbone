@@ -1,5 +1,4 @@
-Umbillicaria havaasii Llano SPECIES
-=======
+# Umbillicaria havaasii Llano SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Lachnella disseminata Agerer, 1983 SPECIES
-=======
+# Lachnella disseminata Agerer, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena farinacea Murrill SPECIES
-=======
+# Mycena farinacea Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetothyrium permixtum Syd., 1926 SPECIES
-=======
+# Chaetothyrium permixtum Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED

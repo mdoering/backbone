@@ -1,5 +1,4 @@
-Leptomelanconium Petr. GENUS
-=======
+# Leptomelanconium Petr. GENUS
 
 #### Status
 ACCEPTED

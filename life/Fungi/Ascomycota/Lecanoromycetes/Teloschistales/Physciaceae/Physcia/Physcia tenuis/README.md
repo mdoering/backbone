@@ -1,5 +1,4 @@
-Physcia tenuis Moberg SPECIES
-=======
+# Physcia tenuis Moberg SPECIES
 
 #### Status
 ACCEPTED

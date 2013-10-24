@@ -1,5 +1,4 @@
-Agaricus anthrachophilus Lasch SPECIES
-=======
+# Agaricus anthrachophilus Lasch SPECIES
 
 #### Status
 ACCEPTED

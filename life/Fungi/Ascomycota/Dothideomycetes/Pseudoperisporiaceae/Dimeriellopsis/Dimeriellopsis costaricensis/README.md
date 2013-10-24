@@ -1,5 +1,4 @@
-Dimeriellopsis costaricensis F. Stevens SPECIES
-=======
+# Dimeriellopsis costaricensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

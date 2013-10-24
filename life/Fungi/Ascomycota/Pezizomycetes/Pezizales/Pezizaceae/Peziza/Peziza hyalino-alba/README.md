@@ -1,5 +1,4 @@
-Peziza hyalino-alba Speg. SPECIES
-=======
+# Peziza hyalino-alba Speg. SPECIES
 
 #### Status
 ACCEPTED

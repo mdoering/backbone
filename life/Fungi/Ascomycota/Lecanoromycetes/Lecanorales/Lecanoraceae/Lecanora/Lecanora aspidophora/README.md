@@ -1,5 +1,4 @@
-Lecanora aspidophora f. aspidophora FORM
-=======
+# Lecanora aspidophora Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Résult. Voy. Belgica, Lich. 19 (1903)
 
 #### Original name
-Lecanora aspidophora f. aspidophora
+Lecanora aspidophora Vain.
 
 ### Remarks
 null

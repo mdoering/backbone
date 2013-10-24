@@ -1,5 +1,4 @@
-Myrothecium nipponicum Matsush. SPECIES
-=======
+# Myrothecium nipponicum Matsush. SPECIES
 
 #### Status
 ACCEPTED

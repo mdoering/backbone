@@ -1,14 +1,13 @@
-Isaria pulcherrima Berk. & Broome, 1875 SPECIES
-=======
+# Agaricostilbum pulcherrimum (Berk. & Broome) B.L. Brady, B. Sutton & Samson, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 96 (1875)
+Trans. Br. mycol. Soc. 83(3): 540 (1984)
 
 #### Original name
 Isaria pulcherrima Berk. & Broome, 1875

@@ -1,5 +1,4 @@
-Barlaea verrucosa Rodway SPECIES
-=======
+# Barlaea verrucosa Rodway SPECIES
 
 #### Status
 ACCEPTED

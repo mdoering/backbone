@@ -1,5 +1,4 @@
-Rhizophyton sciadii Zopf SPECIES
-=======
+# Rhizophyton sciadii Zopf SPECIES
 
 #### Status
 ACCEPTED

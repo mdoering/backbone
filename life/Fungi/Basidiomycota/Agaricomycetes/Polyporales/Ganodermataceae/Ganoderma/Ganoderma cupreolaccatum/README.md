@@ -1,17 +1,16 @@
-Polyporus laccatus subsp. laccatus SUBSPECIES
-=======
+# Ganoderma cupreolaccatum (Kalchbr.) Z. Igmándy, 1968 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Phytopathologica Academiae Scientiarum Hungaricae 3: 234 (1968)
 
 #### Original name
-null
+Polyporus cupreolaccatus Kalchbr., 1885
 
 ### Remarks
 null

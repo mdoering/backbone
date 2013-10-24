@@ -1,5 +1,4 @@
-Humaria xylariicola Henn. & E. Nyman SPECIES
-=======
+# Humaria xylariicola Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

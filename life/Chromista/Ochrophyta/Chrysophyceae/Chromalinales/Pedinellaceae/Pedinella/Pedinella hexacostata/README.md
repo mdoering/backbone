@@ -1,5 +1,4 @@
-Pedinella hexacostata Vysotskii, 1887 SPECIES
-=======
+# Pedinella hexacostata Vysotskii, 1887 SPECIES
 
 #### Status
 ACCEPTED

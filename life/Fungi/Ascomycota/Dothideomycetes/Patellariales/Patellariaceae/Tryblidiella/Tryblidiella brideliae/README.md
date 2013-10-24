@@ -1,5 +1,4 @@
-Tryblidiella brideliae Marchal & Steyaert SPECIES
-=======
+# Tryblidiella brideliae Marchal & Steyaert SPECIES
 
 #### Status
 ACCEPTED

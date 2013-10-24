@@ -1,5 +1,4 @@
-Bovista africana Kreisel SPECIES
-=======
+# Bovista africana Kreisel SPECIES
 
 #### Status
 ACCEPTED

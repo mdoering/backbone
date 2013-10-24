@@ -1,5 +1,4 @@
-Candelariella australis (Arnold) Zahlbr. SPECIES
-=======
+# Candelariella australis (Arnold) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

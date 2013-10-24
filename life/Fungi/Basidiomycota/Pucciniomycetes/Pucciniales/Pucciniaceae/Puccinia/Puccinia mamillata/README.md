@@ -1,5 +1,4 @@
-Puccinia mamillata R.G. Bagn. SPECIES
-=======
+# Puccinia mamillata R.G. Bagn. SPECIES
 
 #### Status
 ACCEPTED

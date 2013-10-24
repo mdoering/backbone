@@ -1,5 +1,4 @@
-Pleospora limoniastri Pat. SPECIES
-=======
+# Pleospora limoniastri Pat. SPECIES
 
 #### Status
 ACCEPTED

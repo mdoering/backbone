@@ -1,5 +1,4 @@
-Meliola zamboagensis Hansf. SPECIES
-=======
+# Meliola zamboagensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

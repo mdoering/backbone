@@ -1,5 +1,4 @@
-Marasmius buzungolo Singer SPECIES
-=======
+# Marasmius buzungolo Singer SPECIES
 
 #### Status
 ACCEPTED

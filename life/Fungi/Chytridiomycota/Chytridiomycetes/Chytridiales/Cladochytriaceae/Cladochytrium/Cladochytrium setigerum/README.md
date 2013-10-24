@@ -1,5 +1,4 @@
-Cladochytrium setigerum Karling SPECIES
-=======
+# Cladochytrium setigerum Karling SPECIES
 
 #### Status
 ACCEPTED

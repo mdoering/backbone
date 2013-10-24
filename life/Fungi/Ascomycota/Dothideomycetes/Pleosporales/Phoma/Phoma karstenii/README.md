@@ -1,5 +1,4 @@
-Phoma karstenii Berl. & Voglino SPECIES
-=======
+# Phoma karstenii Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

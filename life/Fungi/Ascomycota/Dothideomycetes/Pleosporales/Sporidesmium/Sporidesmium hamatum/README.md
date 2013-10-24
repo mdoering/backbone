@@ -1,5 +1,4 @@
-Sporidesmium hamatum M.B. Ellis SPECIES
-=======
+# Sporidesmium hamatum M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

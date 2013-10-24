@@ -1,5 +1,4 @@
-Trichophytia GENUS
-=======
+# Trichophytia GENUS
 
 #### Status
 ACCEPTED

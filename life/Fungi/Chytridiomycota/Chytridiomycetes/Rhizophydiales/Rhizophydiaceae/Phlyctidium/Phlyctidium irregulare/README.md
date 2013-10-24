@@ -1,5 +1,4 @@
-Phlyctidium irregulare De Wild. SPECIES
-=======
+# Phlyctidium irregulare De Wild. SPECIES
 
 #### Status
 ACCEPTED

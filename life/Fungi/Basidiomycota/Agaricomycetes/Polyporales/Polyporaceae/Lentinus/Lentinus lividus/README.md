@@ -1,5 +1,4 @@
-Lentinus lividus Beeli SPECIES
-=======
+# Lentinus lividus Beeli SPECIES
 
 #### Status
 ACCEPTED

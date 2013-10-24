@@ -1,5 +1,4 @@
-Irenopsis paulensis Hansf. SPECIES
-=======
+# Irenopsis paulensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

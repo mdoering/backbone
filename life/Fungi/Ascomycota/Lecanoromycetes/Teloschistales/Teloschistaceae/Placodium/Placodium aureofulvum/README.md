@@ -1,5 +1,4 @@
-Placodium aureofulvum Vain. SPECIES
-=======
+# Placodium aureofulvum Vain. SPECIES
 
 #### Status
 ACCEPTED

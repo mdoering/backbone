@@ -1,5 +1,4 @@
-Porophora pustulata (Leight.) SPECIES
-=======
+# Porophora pustulata (Leight.) SPECIES
 
 #### Status
 ACCEPTED

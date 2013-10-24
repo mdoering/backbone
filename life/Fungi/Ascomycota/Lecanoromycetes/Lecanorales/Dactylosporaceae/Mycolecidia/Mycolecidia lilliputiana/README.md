@@ -1,5 +1,4 @@
-Mycolecidia lilliputiana Bat. SPECIES
-=======
+# Mycolecidia lilliputiana Bat. SPECIES
 
 #### Status
 ACCEPTED

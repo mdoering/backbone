@@ -1,17 +1,16 @@
-Tomentella fuscella f. fuscella FORM
-=======
+# Tomentella fuscella (Sacc.) S. Lundell SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Fungi Exsiccati Suecici 9 (1954)
 
 #### Original name
-null
+Hypochnus fuscellus J. Schröt.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Sphaeria livida var. livida Pers. VARIETY
-=======
+# Dyrithium lividum (Fr.) M.E. Barr, 1994 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 1: 80 (1801)
+Mycotaxon 51: 204 (1994)
 
 #### Original name
-Sphaeria livida var. livida Pers.
+Sphaeria livida Fr., 1823
 
 ### Remarks
 null

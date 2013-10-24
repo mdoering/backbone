@@ -1,14 +1,13 @@
-Lecanactis dictyoplaca (Mont. & Bosch) Zahlbr. SPECIES
-=======
+# Catarraphia dictyoplaca (Mont. & Bosch) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annals Cryptog. Exot. 1: 156 (1928)
+Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 252 (1860)
 
 #### Original name
 Parmelia dictyoplaca Mont. & Bosch

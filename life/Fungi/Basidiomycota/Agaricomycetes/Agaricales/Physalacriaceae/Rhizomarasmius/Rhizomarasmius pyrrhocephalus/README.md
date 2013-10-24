@@ -1,14 +1,13 @@
-Marasmius pyrrhocephalus Berk., 1847 SPECIES
-=======
+# Rhizomarasmius pyrrhocephalus (Berk.) R.H. Petersen, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 6: 316 (1847)
+Mycotaxon 75: 334 (2000)
 
 #### Original name
 Marasmius pyrrhocephalus Berk., 1847

@@ -1,5 +1,4 @@
-Agrococcus lahaulensis Mayilraj et al., 2006 SPECIES
-=======
+# Agrococcus lahaulensis Mayilraj et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

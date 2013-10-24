@@ -1,5 +1,4 @@
-Pertusaria sphaerospora Tomin SPECIES
-=======
+# Pertusaria sphaerospora Tomin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaeria larseniana (Munk) Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria larseniana (Munk) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

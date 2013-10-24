@@ -1,5 +1,4 @@
-Sphaerostilbe bambusae Pat. SPECIES
-=======
+# Sphaerostilbe bambusae Pat. SPECIES
 
 #### Status
 ACCEPTED

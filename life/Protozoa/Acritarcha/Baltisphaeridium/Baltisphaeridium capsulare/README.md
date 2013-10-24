@@ -1,5 +1,4 @@
-Baltisphaeridium capsulare Pykhova, 1973 SPECIES
-=======
+# Baltisphaeridium capsulare Pykhova, 1973 SPECIES
 
 #### Status
 ACCEPTED

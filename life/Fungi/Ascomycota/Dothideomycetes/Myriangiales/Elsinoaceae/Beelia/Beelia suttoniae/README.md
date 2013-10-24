@@ -1,5 +1,4 @@
-Beelia suttoniae F. Stevens & R.W. Ryan, 1925 SPECIES
-=======
+# Beelia suttoniae F. Stevens & R.W. Ryan, 1925 SPECIES
 
 #### Status
 ACCEPTED

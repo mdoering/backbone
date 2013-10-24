@@ -1,5 +1,4 @@
-Arecophila striatispora (Cand. & Katum.) You Z. Wang & K.D. Hyde SPECIES
-=======
+# Arecophila striatispora (Cand. & Katum.) You Z. Wang & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

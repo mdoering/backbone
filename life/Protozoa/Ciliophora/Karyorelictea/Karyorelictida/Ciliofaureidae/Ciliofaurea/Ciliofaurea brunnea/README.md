@@ -1,5 +1,4 @@
-Ciliofaurea brunnea Dragesco, 1965 SPECIES
-=======
+# Ciliofaurea brunnea Dragesco, 1965 SPECIES
 
 #### Status
 ACCEPTED

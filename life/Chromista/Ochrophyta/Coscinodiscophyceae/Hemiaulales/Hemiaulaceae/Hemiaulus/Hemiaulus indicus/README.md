@@ -1,5 +1,4 @@
-Hemiaulus indicus G.H.H.Karsten SPECIES
-=======
+# Hemiaulus indicus G.H.H.Karsten SPECIES
 
 #### Status
 ACCEPTED

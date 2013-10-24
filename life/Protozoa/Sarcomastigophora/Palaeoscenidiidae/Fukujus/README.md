@@ -1,5 +1,4 @@
-Fukujus GENUS
-=======
+# Fukujus GENUS
 
 #### Status
 ACCEPTED

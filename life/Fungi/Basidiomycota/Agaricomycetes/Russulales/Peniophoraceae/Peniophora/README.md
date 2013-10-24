@@ -1,17 +1,16 @@
-Sterellum P. Karst. GENUS
-=======
+# Peniophora Cooke, 1879 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 48: 405 (1889)
+null
 
 #### Original name
-Sterellum P. Karst.
+null
 
 ### Remarks
 null

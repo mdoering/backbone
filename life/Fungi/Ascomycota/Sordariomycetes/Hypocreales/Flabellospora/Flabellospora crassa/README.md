@@ -1,5 +1,4 @@
-Flabellospora crassa Alas., 1968 SPECIES
-=======
+# Flabellospora crassa Alas., 1968 SPECIES
 
 #### Status
 ACCEPTED

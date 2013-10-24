@@ -1,17 +1,16 @@
-Massariella xanthoxyli Peck SPECIES
-=======
+# Massariella zanthoxyli Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. 46: 36 (1894)
 
 #### Original name
-Massariella xanthoxyli Peck
+Massariella zanthoxyli Peck
 
 ### Remarks
 null

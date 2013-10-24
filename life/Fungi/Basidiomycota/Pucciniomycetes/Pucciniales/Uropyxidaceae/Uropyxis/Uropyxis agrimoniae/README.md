@@ -1,5 +1,4 @@
-Uropyxis agrimoniae Arthur SPECIES
-=======
+# Uropyxis agrimoniae Arthur SPECIES
 
 #### Status
 ACCEPTED

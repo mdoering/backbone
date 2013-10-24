@@ -1,5 +1,4 @@
-Asterinotheca popowiae Bat. & H. Maia SPECIES
-=======
+# Asterinotheca popowiae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

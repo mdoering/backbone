@@ -1,5 +1,4 @@
-Lophosphaeridium shaveri Loeblich & Tappan, 1978 SPECIES
-=======
+# Lophosphaeridium shaveri Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

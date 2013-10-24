@@ -1,5 +1,4 @@
-Lecidea argillacea (Bellardi) Fr. SPECIES
-=======
+# Lecidea argillacea (Bellardi) Fr. SPECIES
 
 #### Status
 ACCEPTED

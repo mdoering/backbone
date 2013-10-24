@@ -1,5 +1,4 @@
-Coniothyrium clerodendri S. Ahmad SPECIES
-=======
+# Coniothyrium clerodendri S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

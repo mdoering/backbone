@@ -1,5 +1,4 @@
-Rubidibacter D.H.Choi, J.H.Lee, C.M.Lee & S.Rho, 2008 GENUS
-=======
+# Rubidibacter D.H.Choi, J.H.Lee, C.M.Lee & S.Rho, 2008 GENUS
 
 #### Status
 ACCEPTED

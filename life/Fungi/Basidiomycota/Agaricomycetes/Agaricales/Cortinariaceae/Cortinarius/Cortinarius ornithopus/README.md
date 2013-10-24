@@ -1,5 +1,4 @@
-Cortinarius ornithopus Rob. Henry SPECIES
-=======
+# Cortinarius ornithopus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia polychaeta Cooke & Harkn. SPECIES
-=======
+# Pestalotia polychaeta Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe tasmaniana Guzmán & Watling, 1978 SPECIES
-=======
+# Psilocybe tasmaniana Guzmán & Watling, 1978 SPECIES
 
 #### Status
 ACCEPTED

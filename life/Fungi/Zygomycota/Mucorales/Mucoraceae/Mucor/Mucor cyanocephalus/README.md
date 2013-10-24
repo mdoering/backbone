@@ -1,5 +1,4 @@
-Mucor cyanocephalus Mart. SPECIES
-=======
+# Mucor cyanocephalus Mart. SPECIES
 
 #### Status
 ACCEPTED

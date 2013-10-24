@@ -1,5 +1,4 @@
-Rhodotorula ferulica J.P. Samp. & Uden SPECIES
-=======
+# Rhodotorula ferulica J.P. Samp. & Uden SPECIES
 
 #### Status
 ACCEPTED

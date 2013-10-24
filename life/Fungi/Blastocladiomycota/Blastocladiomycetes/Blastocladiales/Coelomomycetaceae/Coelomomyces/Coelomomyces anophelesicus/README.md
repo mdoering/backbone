@@ -1,17 +1,16 @@
-Coelomomyces anophelesica A.V.V. Iyengar SPECIES
-=======
+# Coelomomyces anophelesicus A.V.V. Iyengar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 78: 134 (1962)
 
 #### Original name
-Coelomomyces anophelesica A.V.V. Iyengar
+Coelomomyces anophelesicus A.V.V. Iyengar
 
 ### Remarks
 null

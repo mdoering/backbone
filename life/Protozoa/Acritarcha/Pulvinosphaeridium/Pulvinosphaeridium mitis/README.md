@@ -1,5 +1,4 @@
-Pulvinosphaeridium mitis (Timofeev, 1966) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Pulvinosphaeridium mitis (Timofeev, 1966) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

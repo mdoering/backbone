@@ -1,5 +1,4 @@
-Foveodiporites harrisii (C.P. Varma & Rawat) Kalgutkar & Janson. SPECIES
-=======
+# Foveodiporites harrisii (C.P. Varma & Rawat) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

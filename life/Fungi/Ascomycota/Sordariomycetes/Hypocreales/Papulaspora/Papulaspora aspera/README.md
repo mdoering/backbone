@@ -1,5 +1,4 @@
-Papulaspora aspera Bernhardt & Duniway, 1985 SPECIES
-=======
+# Papulaspora aspera Bernhardt & Duniway, 1985 SPECIES
 
 #### Status
 ACCEPTED

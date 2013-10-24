@@ -1,5 +1,4 @@
-Volutella lohwagii Petr. SPECIES
-=======
+# Volutella lohwagii Petr. SPECIES
 
 #### Status
 ACCEPTED

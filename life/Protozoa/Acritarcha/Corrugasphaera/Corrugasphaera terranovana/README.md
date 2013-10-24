@@ -1,5 +1,4 @@
-Corrugasphaera terranovana Martin in Martin & Dean, 1988 ex Fensome et al., 1990 SPECIES
-=======
+# Corrugasphaera terranovana Martin in Martin & Dean, 1988 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

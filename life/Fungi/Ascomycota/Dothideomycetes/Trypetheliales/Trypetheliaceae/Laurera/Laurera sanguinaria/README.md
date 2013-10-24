@@ -1,5 +1,4 @@
-Laurera sanguinaria Malme SPECIES
-=======
+# Laurera sanguinaria Malme SPECIES
 
 #### Status
 ACCEPTED

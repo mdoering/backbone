@@ -1,5 +1,4 @@
-Lophiostoma aphanoascum Maire SPECIES
-=======
+# Lophiostoma aphanoascum Maire SPECIES
 
 #### Status
 ACCEPTED

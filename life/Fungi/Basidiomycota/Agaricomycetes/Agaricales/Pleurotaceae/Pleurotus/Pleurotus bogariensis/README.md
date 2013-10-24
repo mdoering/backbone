@@ -1,5 +1,4 @@
-Pleurotus bogariensis Lév. SPECIES
-=======
+# Pleurotus bogariensis Lév. SPECIES
 
 #### Status
 ACCEPTED

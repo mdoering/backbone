@@ -1,5 +1,4 @@
-Saccharina latissima (Linnaeus) C.E.Lane, C.Mayes, Druehl & G.W.Saunders, 2006 SPECIES
-=======
+# Saccharina latissima (Linnaeus) C.E.Lane, C.Mayes, Druehl & G.W.Saunders, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diderma aurantiocolumellatum Adamonyte, Seraoui & Michaud, 2011 SPECIES
-=======
+# Diderma aurantiocolumellatum Adamonyte, Seraoui & Michaud, 2011 SPECIES
 
 #### Status
 ACCEPTED

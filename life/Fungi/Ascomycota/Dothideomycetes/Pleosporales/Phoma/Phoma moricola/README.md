@@ -1,5 +1,4 @@
-Phoma moricola Sacc. SPECIES
-=======
+# Phoma moricola Sacc. SPECIES
 
 #### Status
 ACCEPTED

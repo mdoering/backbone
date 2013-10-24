@@ -1,5 +1,4 @@
-Meliola capitai anon. SPECIES
-=======
+# Meliola capitai anon. SPECIES
 
 #### Status
 ACCEPTED

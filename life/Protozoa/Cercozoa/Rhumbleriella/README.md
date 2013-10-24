@@ -1,5 +1,4 @@
-Rhumbleriella Golemansky, 1971 GENUS
-=======
+# Rhumbleriella Golemansky, 1971 GENUS
 
 #### Status
 ACCEPTED

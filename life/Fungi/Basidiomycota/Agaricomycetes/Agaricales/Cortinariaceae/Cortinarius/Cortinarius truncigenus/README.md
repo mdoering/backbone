@@ -1,5 +1,4 @@
-Cortinarius truncigenus Britzelm. SPECIES
-=======
+# Cortinarius truncigenus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

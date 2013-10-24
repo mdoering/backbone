@@ -1,5 +1,4 @@
-Gonohymenia baicalensis Makryi SPECIES
-=======
+# Gonohymenia baicalensis Makryi SPECIES
 
 #### Status
 ACCEPTED

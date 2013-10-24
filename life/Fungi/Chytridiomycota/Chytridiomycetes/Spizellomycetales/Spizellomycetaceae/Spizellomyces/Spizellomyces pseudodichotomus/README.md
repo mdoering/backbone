@@ -1,5 +1,4 @@
-Spizellomyces pseudodichotomus D.J.S. Barr, 1984 SPECIES
-=======
+# Spizellomyces pseudodichotomus D.J.S. Barr, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria wakkeri Sacc. & P. Syd. SPECIES
-=======
+# Clavaria wakkeri Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

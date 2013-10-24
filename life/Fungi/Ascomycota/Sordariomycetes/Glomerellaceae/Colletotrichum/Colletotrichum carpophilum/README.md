@@ -1,5 +1,4 @@
-Colletotrichum carpophilum Kellerm. & Swingle SPECIES
-=======
+# Colletotrichum carpophilum Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED

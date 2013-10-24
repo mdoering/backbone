@@ -1,5 +1,4 @@
-Nectria muscicola Sacc. SPECIES
-=======
+# Nectria muscicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

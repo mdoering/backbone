@@ -1,5 +1,4 @@
-Agaricus exsertus Viv. SPECIES
-=======
+# Agaricus exsertus Viv. SPECIES
 
 #### Status
 ACCEPTED

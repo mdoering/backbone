@@ -1,5 +1,4 @@
-Stephanodiscus tenuis f. minor (Hustedt) Gasse FORM
-=======
+# Stephanodiscus tenuis Hustedt SPECIES
 
 #### Status
 ACCEPTED

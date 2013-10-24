@@ -1,5 +1,4 @@
-Digitosarcinella S. Hughes GENUS
-=======
+# Digitosarcinella S. Hughes GENUS
 
 #### Status
 ACCEPTED

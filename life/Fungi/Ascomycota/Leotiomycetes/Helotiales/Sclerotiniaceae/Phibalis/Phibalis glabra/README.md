@@ -1,5 +1,4 @@
-Phibalis glabra Wallr. SPECIES
-=======
+# Phibalis glabra Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps lunti Giard SPECIES
-=======
+# Cordyceps lunti Giard SPECIES
 
 #### Status
 ACCEPTED

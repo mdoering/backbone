@@ -1,17 +1,16 @@
-Piptocephalis macrospora J.F.H. Beyma, 1944 SPECIES
-=======
+# Piptocephalis tieghemiana Matr., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 10: 42 (1944)
+Bull. Soc. mycol. Fr. 16: 58 (1900)
 
 #### Original name
-Piptocephalis macrospora J.F.H. Beyma, 1944
+Piptocephalis tieghemiana Matr., 1900
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora transtagatana Harm. SPECIES
-=======
+# Lecanora transtagatana Harm. SPECIES
 
 #### Status
 ACCEPTED

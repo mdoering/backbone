@@ -1,5 +1,4 @@
-Conocybe fimicola Watling SPECIES
-=======
+# Conocybe fimicola Watling SPECIES
 
 #### Status
 ACCEPTED

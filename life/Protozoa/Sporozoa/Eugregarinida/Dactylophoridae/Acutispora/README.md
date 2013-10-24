@@ -1,5 +1,4 @@
-Acutispora Crawley, 1903 GENUS
-=======
+# Acutispora Crawley, 1903 GENUS
 
 #### Status
 ACCEPTED

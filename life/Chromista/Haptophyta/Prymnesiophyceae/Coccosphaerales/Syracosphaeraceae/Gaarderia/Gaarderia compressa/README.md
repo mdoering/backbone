@@ -1,5 +1,4 @@
-Gaarderia compressa Carbonell-Moore, 1994 SPECIES
-=======
+# Gaarderia compressa Carbonell-Moore, 1994 SPECIES
 
 #### Status
 ACCEPTED

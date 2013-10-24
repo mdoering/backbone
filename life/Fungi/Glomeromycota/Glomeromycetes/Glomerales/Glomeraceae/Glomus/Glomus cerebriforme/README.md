@@ -1,5 +1,4 @@
-Glomus cerebriforme McGee SPECIES
-=======
+# Glomus cerebriforme McGee SPECIES
 
 #### Status
 ACCEPTED

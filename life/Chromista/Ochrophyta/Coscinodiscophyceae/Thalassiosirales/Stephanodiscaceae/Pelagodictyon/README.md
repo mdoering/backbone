@@ -1,5 +1,4 @@
-Pelagodictyon R.B.Clarke, 1994 GENUS
-=======
+# Pelagodictyon R.B.Clarke, 1994 GENUS
 
 #### Status
 ACCEPTED

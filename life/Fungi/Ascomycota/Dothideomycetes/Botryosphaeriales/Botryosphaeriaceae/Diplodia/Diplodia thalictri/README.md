@@ -1,5 +1,4 @@
-Diplodia thalictri Ellis & Dearn. SPECIES
-=======
+# Diplodia thalictri Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

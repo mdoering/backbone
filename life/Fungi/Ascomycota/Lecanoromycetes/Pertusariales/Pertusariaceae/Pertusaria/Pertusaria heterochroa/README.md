@@ -1,17 +1,16 @@
-Pertusaria heterochroa var. heterochroa VARIETY
-=======
+# Pertusaria heterochroa (Müll. Arg.) Erichsen SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Pertusaria heterochroa var. heterochroa
+null
 
 ### Remarks
 null

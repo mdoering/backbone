@@ -1,5 +1,4 @@
-Fomes lingua Nees SPECIES
-=======
+# Fomes lingua Nees SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialea juncifida Gillet SPECIES
-=======
+# Phialea juncifida Gillet SPECIES
 
 #### Status
 ACCEPTED

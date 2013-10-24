@@ -1,5 +1,4 @@
-Dimerosporium microcarpum Starbäck SPECIES
-=======
+# Dimerosporium microcarpum Starbäck SPECIES
 
 #### Status
 ACCEPTED

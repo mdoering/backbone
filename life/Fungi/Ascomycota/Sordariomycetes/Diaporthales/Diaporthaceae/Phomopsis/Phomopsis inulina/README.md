@@ -1,5 +1,4 @@
-Phomopsis inulina (Sacc.) Petr. SPECIES
-=======
+# Phomopsis inulina (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

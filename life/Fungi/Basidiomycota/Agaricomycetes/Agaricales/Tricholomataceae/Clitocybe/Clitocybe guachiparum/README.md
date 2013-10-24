@@ -1,5 +1,4 @@
-Clitocybe guachiparum Speg. SPECIES
-=======
+# Clitocybe guachiparum Speg. SPECIES
 
 #### Status
 ACCEPTED

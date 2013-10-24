@@ -1,5 +1,4 @@
-Cyanisticta sandwicensis SPECIES
-=======
+# Cyanisticta sandwicensis SPECIES
 
 #### Status
 ACCEPTED

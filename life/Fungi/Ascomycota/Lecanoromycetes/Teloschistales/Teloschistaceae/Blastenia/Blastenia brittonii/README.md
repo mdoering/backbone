@@ -1,5 +1,4 @@
-Blastenia brittonii Zahlbr. SPECIES
-=======
+# Blastenia brittonii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

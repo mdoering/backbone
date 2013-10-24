@@ -1,14 +1,13 @@
-Leptotrema laeviusculum (Nyl.) Zahlbr. SPECIES
-=======
+# Myriotrema laeviusculum (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 635 (1923)
+Mycotaxon 11(1): 134 (1980)
 
 #### Original name
 Thelotrema laeviusculum Nyl.

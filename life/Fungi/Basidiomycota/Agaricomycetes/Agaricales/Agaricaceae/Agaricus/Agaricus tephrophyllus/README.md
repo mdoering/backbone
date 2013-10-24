@@ -1,5 +1,4 @@
-Agaricus tephrophyllus Pers. SPECIES
-=======
+# Agaricus tephrophyllus Pers. SPECIES
 
 #### Status
 ACCEPTED

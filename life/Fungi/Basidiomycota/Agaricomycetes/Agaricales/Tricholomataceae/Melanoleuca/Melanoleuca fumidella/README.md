@@ -1,5 +1,4 @@
-Melanoleuca fumidella (Peck) Murrill SPECIES
-=======
+# Melanoleuca fumidella (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

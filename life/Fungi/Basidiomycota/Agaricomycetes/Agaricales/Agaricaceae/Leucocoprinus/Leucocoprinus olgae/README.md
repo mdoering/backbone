@@ -1,5 +1,4 @@
-Leucocoprinus olgae (Velen.) Locq. SPECIES
-=======
+# Leucocoprinus olgae (Velen.) Locq. SPECIES
 
 #### Status
 ACCEPTED

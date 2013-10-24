@@ -1,5 +1,4 @@
-Apertospathula inermis Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Apertospathula inermis Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

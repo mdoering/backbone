@@ -1,5 +1,4 @@
-Phloeosporina Höhn. GENUS
-=======
+# Phloeosporina Höhn. GENUS
 
 #### Status
 ACCEPTED

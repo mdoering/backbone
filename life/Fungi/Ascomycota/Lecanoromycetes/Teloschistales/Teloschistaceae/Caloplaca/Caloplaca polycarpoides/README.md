@@ -1,5 +1,4 @@
-Caloplaca polycarpoides (J. Steiner) M. Steiner & Poelt SPECIES
-=======
+# Caloplaca polycarpoides (J. Steiner) M. Steiner & Poelt SPECIES
 
 #### Status
 ACCEPTED

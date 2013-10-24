@@ -1,14 +1,13 @@
-Catacauma ocoteae F. Stevens, 1920 SPECIES
-=======
+# Phyllachora perplexans Chardón, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. , Chicago 70: 251 (1920)
+J. Dept. Agric. Porto Rico 16: 182 (1932)
 
 #### Original name
 Catacauma ocoteae F. Stevens, 1920

@@ -1,8 +1,7 @@
-Geaster tonkinensis Pat. SPECIES
-=======
+# Geastrum tonkinensis Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster tonkinensis Pat.
+Geastrum tonkinensis Pat.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pezizella tiliacea Velen. SPECIES
-=======
+# Pezizella tiliacea Velen. SPECIES
 
 #### Status
 ACCEPTED

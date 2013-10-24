@@ -1,5 +1,4 @@
-Melampsora stratosa Cooke SPECIES
-=======
+# Melampsora stratosa Cooke SPECIES
 
 #### Status
 ACCEPTED

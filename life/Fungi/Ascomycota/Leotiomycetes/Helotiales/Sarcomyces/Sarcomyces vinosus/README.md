@@ -1,17 +1,16 @@
-Sarcomyces vinosa Massee SPECIES
-=======
+# Sarcomyces vinosus Massee, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Mycol. 6(4): 178 (1891)
 
 #### Original name
-Sarcomyces vinosa Massee
+Sarcomyces vinosus Massee, 1891
 
 ### Remarks
 null

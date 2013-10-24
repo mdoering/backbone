@@ -1,5 +1,4 @@
-Gillinia hymenophora Cookson & Eisenack SPECIES
-=======
+# Gillinia hymenophora Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

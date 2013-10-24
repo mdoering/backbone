@@ -1,5 +1,4 @@
-Lophodermium nigrofactum P.R. Johnst., 1989 SPECIES
-=======
+# Lophodermium nigrofactum P.R. Johnst., 1989 SPECIES
 
 #### Status
 ACCEPTED

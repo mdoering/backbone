@@ -1,5 +1,4 @@
-Diophrys scutum (Dujardin, 1841) Kahl, 1932 SPECIES
-=======
+# Diophrys scutum (Dujardin, 1841) Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

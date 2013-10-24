@@ -1,5 +1,4 @@
-Xanthoparmelia felkaensis (Gyelnik) Hale SPECIES
-=======
+# Xanthoparmelia felkaensis (Gyelnik) Hale SPECIES
 
 #### Status
 ACCEPTED

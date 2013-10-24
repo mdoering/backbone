@@ -1,5 +1,4 @@
-Cordierites Mont. GENUS
-=======
+# Cordierites Mont. GENUS
 
 #### Status
 ACCEPTED

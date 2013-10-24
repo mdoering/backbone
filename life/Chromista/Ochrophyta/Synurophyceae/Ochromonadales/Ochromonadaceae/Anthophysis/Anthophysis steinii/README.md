@@ -1,5 +1,4 @@
-Anthophysis steinii Senn SPECIES
-=======
+# Anthophysis steinii Senn SPECIES
 
 #### Status
 ACCEPTED

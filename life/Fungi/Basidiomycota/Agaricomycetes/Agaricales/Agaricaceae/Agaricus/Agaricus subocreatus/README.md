@@ -1,5 +1,4 @@
-Agaricus subocreatus Cooke SPECIES
-=======
+# Agaricus subocreatus Cooke SPECIES
 
 #### Status
 ACCEPTED

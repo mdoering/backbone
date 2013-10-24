@@ -1,5 +1,4 @@
-Inocybe titibuensis Kobayasi SPECIES
-=======
+# Inocybe titibuensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

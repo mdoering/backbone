@@ -1,5 +1,4 @@
-Anoplophrya gammari SPECIES
-=======
+# Anoplophrya gammari SPECIES
 
 #### Status
 ACCEPTED

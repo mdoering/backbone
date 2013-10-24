@@ -1,5 +1,4 @@
-Chromophysomonas trioralis (E. Takah.) Preisig & D.J. Hibberd SPECIES
-=======
+# Chromophysomonas trioralis (E. Takah.) Preisig & D.J. Hibberd SPECIES
 
 #### Status
 ACCEPTED

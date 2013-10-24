@@ -1,5 +1,4 @@
-Parmotrema aptrootii Aubel SPECIES
-=======
+# Parmotrema aptrootii Aubel SPECIES
 
 #### Status
 ACCEPTED

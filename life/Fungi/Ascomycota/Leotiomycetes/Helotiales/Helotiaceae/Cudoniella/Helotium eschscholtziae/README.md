@@ -1,5 +1,4 @@
-Helotium eschscholtziae (W. Phillips & Harkn.) Seaver SPECIES
-=======
+# Helotium eschscholtziae (W. Phillips & Harkn.) Seaver SPECIES
 
 #### Status
 ACCEPTED

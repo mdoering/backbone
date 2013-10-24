@@ -1,5 +1,4 @@
-Gyrophora labradorensis (Hulting) SPECIES
-=======
+# Gyrophora labradorensis (Hulting) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria myopori Cooke & Massee SPECIES
-=======
+# Septoria myopori Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

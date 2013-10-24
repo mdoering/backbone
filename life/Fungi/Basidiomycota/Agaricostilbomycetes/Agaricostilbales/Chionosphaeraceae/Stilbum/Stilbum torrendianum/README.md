@@ -1,5 +1,4 @@
-Stilbum torrendianum Sacc. SPECIES
-=======
+# Stilbum torrendianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

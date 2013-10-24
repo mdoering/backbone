@@ -1,5 +1,4 @@
-Pyrenula corticata (Müll. Arg.) R.C. Harris, 1989 SPECIES
-=======
+# Pyrenula corticata (Müll. Arg.) R.C. Harris, 1989 SPECIES
 
 #### Status
 DOUBTFUL

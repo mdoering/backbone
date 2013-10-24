@@ -1,5 +1,4 @@
-Kirschsteiniothelia recessa (Cooke & Peck) D. Hawksw. SPECIES
-=======
+# Kirschsteiniothelia recessa (Cooke & Peck) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

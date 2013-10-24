@@ -1,5 +1,4 @@
-Leprieuria Laessøe, J.D. Rogers & Whalley GENUS
-=======
+# Leprieuria Laessøe, J.D. Rogers & Whalley GENUS
 
 #### Status
 ACCEPTED

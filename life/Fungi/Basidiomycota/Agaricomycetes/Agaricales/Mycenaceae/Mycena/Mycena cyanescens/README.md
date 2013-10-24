@@ -1,5 +1,4 @@
-Mycena cyanescens Mont. SPECIES
-=======
+# Mycena cyanescens Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago heterogena Henn. SPECIES
-=======
+# Ustilago heterogena Henn. SPECIES
 
 #### Status
 ACCEPTED

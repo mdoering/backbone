@@ -1,5 +1,4 @@
-Naetrocymbe megalospora (Lönnr.) R.C. Harris SPECIES
-=======
+# Naetrocymbe megalospora (Lönnr.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

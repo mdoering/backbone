@@ -1,5 +1,4 @@
-Didymosporium culmicola S. Ahmad SPECIES
-=======
+# Didymosporium culmicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

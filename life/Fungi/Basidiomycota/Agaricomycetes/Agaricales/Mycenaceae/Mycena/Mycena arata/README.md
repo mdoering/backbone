@@ -1,5 +1,4 @@
-Mycena arata Berk. SPECIES
-=======
+# Mycena arata Berk. SPECIES
 
 #### Status
 ACCEPTED

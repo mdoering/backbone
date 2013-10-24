@@ -1,5 +1,4 @@
-Phoma anthyllidicola Henn. SPECIES
-=======
+# Phoma anthyllidicola Henn. SPECIES
 
 #### Status
 ACCEPTED

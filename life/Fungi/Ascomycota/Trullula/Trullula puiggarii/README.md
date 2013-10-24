@@ -1,5 +1,4 @@
-Trullula puiggarii Speg. SPECIES
-=======
+# Trullula puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

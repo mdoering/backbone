@@ -1,5 +1,4 @@
-Strombidinopsis grandis Xu & Bai, 1998 SPECIES
-=======
+# Strombidinopsis grandis Xu & Bai, 1998 SPECIES
 
 #### Status
 ACCEPTED

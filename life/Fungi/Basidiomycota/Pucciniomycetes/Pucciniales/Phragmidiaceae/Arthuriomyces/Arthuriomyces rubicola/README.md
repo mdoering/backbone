@@ -1,5 +1,4 @@
-Arthuriomyces rubicola J.Y. Zhuang & S.X. Wei, 1993 SPECIES
-=======
+# Arthuriomyces rubicola J.Y. Zhuang & S.X. Wei, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalodium phalacrum (Hue) C.W. Dodge SPECIES
-=======
+# Omphalodium phalacrum (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

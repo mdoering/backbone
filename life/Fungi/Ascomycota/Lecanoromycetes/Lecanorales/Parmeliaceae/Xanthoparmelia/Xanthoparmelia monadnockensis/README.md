@@ -1,5 +1,4 @@
-Xanthoparmelia monadnockensis Elix SPECIES
-=======
+# Xanthoparmelia monadnockensis Elix SPECIES
 
 #### Status
 ACCEPTED

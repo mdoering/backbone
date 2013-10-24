@@ -1,5 +1,4 @@
-Mycobacterium lentiflavum Springer et al., 1996 SPECIES
-=======
+# Mycobacterium lentiflavum Springer et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium wilczekii Pouchet, 1894 SPECIES
-=======
+# Gymnodinium wilczekii Pouchet, 1894 SPECIES
 
 #### Status
 ACCEPTED

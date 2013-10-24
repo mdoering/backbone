@@ -1,5 +1,4 @@
-Coprinopsis picacea (Bull.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis picacea (Bull.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

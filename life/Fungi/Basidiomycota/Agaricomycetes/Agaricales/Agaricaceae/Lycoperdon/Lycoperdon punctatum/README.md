@@ -1,5 +1,4 @@
-Lycoperdon punctatum (Rostk.) Bonord. SPECIES
-=======
+# Lycoperdon punctatum (Rostk.) Bonord. SPECIES
 
 #### Status
 ACCEPTED

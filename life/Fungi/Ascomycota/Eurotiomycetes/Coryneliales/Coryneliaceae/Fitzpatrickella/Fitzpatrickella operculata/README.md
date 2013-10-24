@@ -1,5 +1,4 @@
-Fitzpatrickella operculata Benny, Samuelson & Kimbr., 1985 SPECIES
-=======
+# Fitzpatrickella operculata Benny, Samuelson & Kimbr., 1985 SPECIES
 
 #### Status
 ACCEPTED

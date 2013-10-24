@@ -1,5 +1,4 @@
-Ammobaculites baculusalsus Schiebel & Timm, 1996 SPECIES
-=======
+# Ammobaculites baculusalsus Schiebel & Timm, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dicaeoma oxyriae (Fuckel) Kuntze, 1898 SPECIES
-=======
+# Puccinia oxyriae Fuckel, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 469 (1898)
+Jb. nassau. Ver. Naturk. 29-30: 14 (1875)
 
 #### Original name
 Puccinia oxyriae Fuckel, 1875

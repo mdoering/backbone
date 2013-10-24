@@ -1,5 +1,4 @@
-Stilbella arndtii Lingelsh. SPECIES
-=======
+# Stilbella arndtii Lingelsh. SPECIES
 
 #### Status
 ACCEPTED

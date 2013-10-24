@@ -1,5 +1,4 @@
-Hohenbuehelia aurantiocystis Pegler, 1977 SPECIES
-=======
+# Hohenbuehelia aurantiocystis Pegler, 1977 SPECIES
 
 #### Status
 ACCEPTED

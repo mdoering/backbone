@@ -1,5 +1,4 @@
-Leucoagaricus rosabrunneus (Raithelh.) Raithelh. SPECIES
-=======
+# Leucoagaricus rosabrunneus (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

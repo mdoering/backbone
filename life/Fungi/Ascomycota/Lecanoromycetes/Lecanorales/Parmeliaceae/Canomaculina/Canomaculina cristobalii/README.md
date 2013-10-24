@@ -1,5 +1,4 @@
-Canomaculina cristobalii (L.I. Ferraro & Elix) Elix SPECIES
-=======
+# Canomaculina cristobalii (L.I. Ferraro & Elix) Elix SPECIES
 
 #### Status
 ACCEPTED

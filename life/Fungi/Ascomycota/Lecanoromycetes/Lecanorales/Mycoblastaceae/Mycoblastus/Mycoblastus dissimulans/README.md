@@ -1,5 +1,4 @@
-Mycoblastus dissimulans (Nyl.) Zahlbr. SPECIES
-=======
+# Mycoblastus dissimulans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

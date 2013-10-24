@@ -1,5 +1,4 @@
-Peltigera arenosa SPECIES
-=======
+# Peltigera arenosa SPECIES
 
 #### Status
 ACCEPTED

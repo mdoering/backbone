@@ -1,17 +1,16 @@
-Polystictus melanapilus Lloyd SPECIES
-=======
+# Polystictus melanopilus Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 7: 1148 (1922)
 
 #### Original name
-Polystictus melanapilus Lloyd
+Polystictus melanopilus Lloyd
 
 ### Remarks
 null

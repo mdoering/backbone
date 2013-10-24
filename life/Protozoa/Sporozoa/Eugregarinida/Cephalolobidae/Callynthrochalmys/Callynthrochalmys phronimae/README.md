@@ -1,5 +1,4 @@
-Callynthrochalmys phronimae Frenzel, 1885 SPECIES
-=======
+# Callynthrochalmys phronimae Frenzel, 1885 SPECIES
 
 #### Status
 ACCEPTED

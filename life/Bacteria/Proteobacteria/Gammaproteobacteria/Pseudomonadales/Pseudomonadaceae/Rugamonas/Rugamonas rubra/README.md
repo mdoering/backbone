@@ -1,5 +1,4 @@
-Rugamonas rubra Austin & Moss, 1987 SPECIES
-=======
+# Rugamonas rubra Austin & Moss, 1987 SPECIES
 
 #### Status
 ACCEPTED

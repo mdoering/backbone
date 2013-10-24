@@ -1,5 +1,4 @@
-Agaricus coffeae Viv. SPECIES
-=======
+# Agaricus coffeae Viv. SPECIES
 
 #### Status
 ACCEPTED

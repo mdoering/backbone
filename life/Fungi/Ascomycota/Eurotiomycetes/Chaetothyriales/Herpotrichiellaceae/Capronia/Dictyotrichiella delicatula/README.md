@@ -1,5 +1,4 @@
-Dictyotrichiella delicatula (Vestergr.) O.E. Erikss. SPECIES
-=======
+# Dictyotrichiella delicatula (Vestergr.) O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

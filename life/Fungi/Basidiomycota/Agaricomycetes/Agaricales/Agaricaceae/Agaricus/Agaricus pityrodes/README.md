@@ -1,5 +1,4 @@
-Agaricus pityrodes F. Brig. SPECIES
-=======
+# Agaricus pityrodes F. Brig. SPECIES
 
 #### Status
 ACCEPTED

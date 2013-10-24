@@ -1,5 +1,4 @@
-Rinodina cinnamomea (Th. Fr.) Räsänen SPECIES
-=======
+# Rinodina cinnamomea (Th. Fr.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

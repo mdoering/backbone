@@ -1,5 +1,4 @@
-Aureoboletus Pouzar, 1957 GENUS
-=======
+# Aureoboletus Pouzar, 1957 GENUS
 
 #### Status
 ACCEPTED

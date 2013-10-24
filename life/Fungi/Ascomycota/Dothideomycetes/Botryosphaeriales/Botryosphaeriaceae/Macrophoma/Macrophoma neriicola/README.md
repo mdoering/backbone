@@ -1,5 +1,4 @@
-Macrophoma neriicola Severini SPECIES
-=======
+# Macrophoma neriicola Severini SPECIES
 
 #### Status
 ACCEPTED

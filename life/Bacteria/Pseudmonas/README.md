@@ -1,5 +1,4 @@
-Pseudmonas GENUS
-=======
+# Pseudmonas GENUS
 
 #### Status
 ACCEPTED

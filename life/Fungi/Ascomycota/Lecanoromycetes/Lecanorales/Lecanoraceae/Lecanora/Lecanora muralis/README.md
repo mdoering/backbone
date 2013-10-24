@@ -1,17 +1,16 @@
-Placodium saxicola var. saxicola VARIETY
-=======
+# Lecanora muralis (Schreb.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Deutschl. Krypt. -Fl. (Leipzig) 2: 42 (1845)
 
 #### Original name
-null
+Lichen muralis Schreb.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cercidospora bryoniae (Fuckel) Kuntze SPECIES
-=======
+# Cercidospora bryoniae (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

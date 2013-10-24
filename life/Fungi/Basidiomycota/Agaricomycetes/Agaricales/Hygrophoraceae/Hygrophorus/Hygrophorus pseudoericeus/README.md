@@ -1,17 +1,16 @@
-Hygrophorus pseudericeus Henn. SPECIES
-=======
+# Hygrophorus pseudoericeus Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Voeltzkow, Reise Ostafr. , Syst. Arbeit. 3: 26 (1908)
 
 #### Original name
-Hygrophorus pseudericeus Henn.
+Hygrophorus pseudoericeus Henn.
 
 ### Remarks
 null

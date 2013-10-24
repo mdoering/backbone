@@ -1,5 +1,4 @@
-Collemopsis riparia (Körb.) Trevis. SPECIES
-=======
+# Collemopsis riparia (Körb.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

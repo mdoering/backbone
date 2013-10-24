@@ -1,5 +1,4 @@
-Gaudryina pseudofiliformis SPECIES
-=======
+# Gaudryina pseudofiliformis SPECIES
 
 #### Status
 ACCEPTED

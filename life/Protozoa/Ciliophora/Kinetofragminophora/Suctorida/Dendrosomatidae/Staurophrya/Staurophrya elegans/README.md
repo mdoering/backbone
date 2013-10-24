@@ -1,5 +1,4 @@
-Staurophrya elegans SPECIES
-=======
+# Staurophrya elegans SPECIES
 
 #### Status
 ACCEPTED

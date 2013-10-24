@@ -1,5 +1,4 @@
-Gymnopus spissus A.W. Wilson, Desjardin & E. Horak SPECIES
-=======
+# Gymnopus spissus A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces phlei-michelii Cruchet SPECIES
-=======
+# Uromyces phlei-michelii Cruchet SPECIES
 
 #### Status
 ACCEPTED

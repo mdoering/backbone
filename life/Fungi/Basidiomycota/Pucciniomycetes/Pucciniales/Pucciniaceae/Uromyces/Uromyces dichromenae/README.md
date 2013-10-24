@@ -1,5 +1,4 @@
-Uromyces dichromenae W.T. Dale SPECIES
-=======
+# Uromyces dichromenae W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

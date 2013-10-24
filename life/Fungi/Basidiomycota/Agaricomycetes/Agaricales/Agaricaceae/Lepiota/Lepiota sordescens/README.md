@@ -1,5 +1,4 @@
-Lepiota sordescens (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Lepiota sordescens (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

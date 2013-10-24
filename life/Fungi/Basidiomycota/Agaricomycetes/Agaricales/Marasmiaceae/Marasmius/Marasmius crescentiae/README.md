@@ -1,5 +1,4 @@
-Marasmius crescentiae Murrill SPECIES
-=======
+# Marasmius crescentiae Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynespora solani N. Sharma, S. Chaudhary & Kamal SPECIES
-=======
+# Corynespora solani N. Sharma, S. Chaudhary & Kamal SPECIES
 
 #### Status
 ACCEPTED

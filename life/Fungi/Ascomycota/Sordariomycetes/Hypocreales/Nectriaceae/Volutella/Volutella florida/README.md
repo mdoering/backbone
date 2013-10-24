@@ -1,5 +1,4 @@
-Volutella florida Höhn. SPECIES
-=======
+# Volutella florida Höhn. SPECIES
 
 #### Status
 ACCEPTED

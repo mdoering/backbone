@@ -1,5 +1,4 @@
-Valsa fraxinina Peck SPECIES
-=======
+# Valsa fraxinina Peck SPECIES
 
 #### Status
 ACCEPTED

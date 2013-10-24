@@ -1,5 +1,4 @@
-Cercospora alchemillae Syd. SPECIES
-=======
+# Cercospora alchemillae Syd. SPECIES
 
 #### Status
 ACCEPTED

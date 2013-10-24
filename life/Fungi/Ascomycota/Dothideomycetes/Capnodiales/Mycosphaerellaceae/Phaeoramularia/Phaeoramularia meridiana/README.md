@@ -1,5 +1,4 @@
-Phaeoramularia meridiana (Chupp) Deighton SPECIES
-=======
+# Phaeoramularia meridiana (Chupp) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcinastrum Lagerheim, 1900 GENUS
-=======
+# Sarcinastrum Lagerheim, 1900 GENUS
 
 #### Status
 ACCEPTED

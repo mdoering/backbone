@@ -1,5 +1,4 @@
-Tricholoma alboalutaceus F.H. Møller SPECIES
-=======
+# Tricholoma alboalutaceus F.H. Møller SPECIES
 
 #### Status
 ACCEPTED

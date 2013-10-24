@@ -1,5 +1,4 @@
-Amylocorticiellum Spirin & Zmitr. GENUS
-=======
+# Amylocorticiellum Spirin & Zmitr. GENUS
 
 #### Status
 ACCEPTED

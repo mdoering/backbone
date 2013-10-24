@@ -1,5 +1,4 @@
-Carchesium kurczycai SPECIES
-=======
+# Carchesium kurczycai SPECIES
 
 #### Status
 ACCEPTED

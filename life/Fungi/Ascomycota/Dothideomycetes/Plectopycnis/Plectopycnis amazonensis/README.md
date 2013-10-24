@@ -1,5 +1,4 @@
-Plectopycnis amazonensis Bat. & H. Maia SPECIES
-=======
+# Plectopycnis amazonensis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

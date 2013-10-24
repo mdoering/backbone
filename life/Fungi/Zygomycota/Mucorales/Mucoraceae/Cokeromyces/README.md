@@ -1,5 +1,4 @@
-Cokeromyces Shanor GENUS
-=======
+# Cokeromyces Shanor GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora leguminosae Chupp & Linder SPECIES
-=======
+# Cercospora leguminosae Chupp & Linder SPECIES
 
 #### Status
 ACCEPTED

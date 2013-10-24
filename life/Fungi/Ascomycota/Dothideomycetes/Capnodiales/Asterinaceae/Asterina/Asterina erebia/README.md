@@ -1,5 +1,4 @@
-Asterina erebia Syd., 1927 SPECIES
-=======
+# Asterina erebia Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

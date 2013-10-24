@@ -1,5 +1,4 @@
-Xanthoparmelia microphyllizans Elix SPECIES
-=======
+# Xanthoparmelia microphyllizans Elix SPECIES
 
 #### Status
 ACCEPTED

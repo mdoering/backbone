@@ -1,5 +1,4 @@
-Torula grumulosa J. Lindau SPECIES
-=======
+# Torula grumulosa J. Lindau SPECIES
 
 #### Status
 ACCEPTED

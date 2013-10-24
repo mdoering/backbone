@@ -1,5 +1,4 @@
-Vaginicola cratera Swarczewsky, 1930 SPECIES
-=======
+# Vaginicola cratera Swarczewsky, 1930 SPECIES
 
 #### Status
 ACCEPTED

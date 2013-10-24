@@ -1,5 +1,4 @@
-Hyponectria auripuncta (Harkn.) M.E. Barr SPECIES
-=======
+# Hyponectria auripuncta (Harkn.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

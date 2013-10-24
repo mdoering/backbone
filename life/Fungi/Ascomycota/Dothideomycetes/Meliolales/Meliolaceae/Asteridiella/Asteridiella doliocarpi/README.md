@@ -1,5 +1,4 @@
-Asteridiella doliocarpi (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella doliocarpi (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

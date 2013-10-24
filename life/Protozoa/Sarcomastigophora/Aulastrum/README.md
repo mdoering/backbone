@@ -1,5 +1,4 @@
-Aulastrum Haeckel, 1887 GENUS
-=======
+# Aulastrum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

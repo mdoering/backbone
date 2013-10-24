@@ -1,5 +1,4 @@
-Cercospora stomatica Ellis & Davis SPECIES
-=======
+# Cercospora stomatica Ellis & Davis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stoeckeria FAMILY
-=======
+# Stoeckeria FAMILY
 
 #### Status
 ACCEPTED

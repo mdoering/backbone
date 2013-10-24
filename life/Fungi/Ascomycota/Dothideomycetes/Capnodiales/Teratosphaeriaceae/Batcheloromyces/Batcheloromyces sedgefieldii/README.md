@@ -1,5 +1,4 @@
-Batcheloromyces sedgefieldii Crous, 2008 SPECIES
-=======
+# Batcheloromyces sedgefieldii Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

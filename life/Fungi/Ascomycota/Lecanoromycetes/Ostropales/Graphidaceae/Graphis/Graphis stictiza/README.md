@@ -1,5 +1,4 @@
-Graphis stictiza Nyl. SPECIES
-=======
+# Graphis stictiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia myopori Sousa da Câmara SPECIES
-=======
+# Guignardia myopori Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

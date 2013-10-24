@@ -1,5 +1,4 @@
-Arthopyrenia intersistens (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia intersistens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia spongiosa (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Collybia spongiosa (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

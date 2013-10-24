@@ -1,5 +1,4 @@
-Biatorella amabilis B. de Lesd. SPECIES
-=======
+# Biatorella amabilis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia euthallina Zahlbr. SPECIES
-=======
+# Blastenia euthallina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

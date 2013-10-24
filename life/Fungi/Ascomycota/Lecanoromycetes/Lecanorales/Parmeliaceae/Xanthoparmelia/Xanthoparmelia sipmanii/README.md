@@ -1,5 +1,4 @@
-Xanthoparmelia sipmanii T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia sipmanii T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces beccarii W. Rossi SPECIES
-=======
+# Stigmatomyces beccarii W. Rossi SPECIES
 
 #### Status
 ACCEPTED

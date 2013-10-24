@@ -1,5 +1,4 @@
-Phloeopeccania hispanica Henssen & G. Willems SPECIES
-=======
+# Phloeopeccania hispanica Henssen & G. Willems SPECIES
 
 #### Status
 ACCEPTED

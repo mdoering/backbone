@@ -1,5 +1,4 @@
-Psathyrella badiophylla (Romagn.) Park.-Rhodes SPECIES
-=======
+# Psathyrella badiophylla (Romagn.) Park.-Rhodes SPECIES
 
 #### Status
 ACCEPTED

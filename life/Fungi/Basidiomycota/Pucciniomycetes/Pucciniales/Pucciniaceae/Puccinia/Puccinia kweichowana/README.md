@@ -1,5 +1,4 @@
-Puccinia kweichowana Cummins SPECIES
-=======
+# Puccinia kweichowana Cummins SPECIES
 
 #### Status
 ACCEPTED

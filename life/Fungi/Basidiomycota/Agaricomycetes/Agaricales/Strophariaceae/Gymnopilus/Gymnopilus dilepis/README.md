@@ -1,14 +1,13 @@
-Agaricus dilepis Berk. & Broome, 1871 SPECIES
-=======
+# Gymnopilus dilepis (Berk. & Broome) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 11(no. 56): 542 (1871)
+Lilloa 22: 560 (1951)
 
 #### Original name
 Agaricus dilepis Berk. & Broome, 1871

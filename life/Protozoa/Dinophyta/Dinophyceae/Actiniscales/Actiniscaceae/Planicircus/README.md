@@ -1,5 +1,4 @@
-Planicircus J. Frenguelli, 1940 GENUS
-=======
+# Planicircus J. Frenguelli, 1940 GENUS
 
 #### Status
 ACCEPTED

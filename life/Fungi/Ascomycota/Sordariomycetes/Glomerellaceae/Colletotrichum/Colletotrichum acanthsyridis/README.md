@@ -1,5 +1,4 @@
-Colletotrichum acanthsyridis Speg. SPECIES
-=======
+# Colletotrichum acanthsyridis Speg. SPECIES
 
 #### Status
 ACCEPTED

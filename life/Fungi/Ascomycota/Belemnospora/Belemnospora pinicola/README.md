@@ -1,5 +1,4 @@
-Belemnospora pinicola P.M. Kirk, 1981 SPECIES
-=======
+# Belemnospora pinicola P.M. Kirk, 1981 SPECIES
 
 #### Status
 ACCEPTED

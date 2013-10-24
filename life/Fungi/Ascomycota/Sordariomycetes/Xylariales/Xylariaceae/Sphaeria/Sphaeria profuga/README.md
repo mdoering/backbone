@@ -1,5 +1,4 @@
-Sphaeria profuga Ehrenb. SPECIES
-=======
+# Sphaeria profuga Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

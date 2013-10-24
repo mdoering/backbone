@@ -1,5 +1,4 @@
-Lecidea leucotripta SPECIES
-=======
+# Lecidea leucotripta SPECIES
 
 #### Status
 ACCEPTED

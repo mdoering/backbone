@@ -1,5 +1,4 @@
-Helminthosporium dactylidis (Shoemaker) Nishih. SPECIES
-=======
+# Helminthosporium dactylidis (Shoemaker) Nishih. SPECIES
 
 #### Status
 ACCEPTED

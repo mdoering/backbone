@@ -1,5 +1,4 @@
-Asterinella hiugensis Hino {?} & Hidaka SPECIES
-=======
+# Asterinella hiugensis Hino {?} & Hidaka SPECIES
 
 #### Status
 ACCEPTED

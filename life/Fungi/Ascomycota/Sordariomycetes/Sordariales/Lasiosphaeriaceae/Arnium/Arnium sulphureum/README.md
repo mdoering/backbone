@@ -1,5 +1,4 @@
-Arnium sulphureum T. Muroi, Udagawa & Y. Otani SPECIES
-=======
+# Arnium sulphureum T. Muroi, Udagawa & Y. Otani SPECIES
 
 #### Status
 ACCEPTED

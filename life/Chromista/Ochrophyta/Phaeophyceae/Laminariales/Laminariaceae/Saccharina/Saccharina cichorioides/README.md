@@ -1,5 +1,4 @@
-Saccharina cichorioides f. sachalinensis (Miyabe) Selivanova, Zhigadlova & G.I.Hansen FORM
-=======
+# Saccharina cichorioides (Miyabe) C.E.Lane, C.Mayes, Druehl & G.W.Saunders, 2006 SPECIES
 
 #### Status
 ACCEPTED

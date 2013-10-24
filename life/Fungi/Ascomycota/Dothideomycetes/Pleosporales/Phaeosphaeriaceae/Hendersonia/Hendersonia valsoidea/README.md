@@ -1,14 +1,13 @@
-Hendersonia valsodea (Briard & Sacc.) Kuntze SPECIES
-=======
+# Hendersonia valsoidea (Briard & Sacc.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 483 (1898)
 
 #### Original name
 Stagonospora valsoidea Sacc. & Briard

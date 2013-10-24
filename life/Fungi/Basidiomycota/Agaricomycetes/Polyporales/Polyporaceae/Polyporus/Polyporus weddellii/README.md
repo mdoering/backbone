@@ -1,5 +1,4 @@
-Polyporus weddellii Mont. SPECIES
-=======
+# Polyporus weddellii Mont. SPECIES
 
 #### Status
 ACCEPTED

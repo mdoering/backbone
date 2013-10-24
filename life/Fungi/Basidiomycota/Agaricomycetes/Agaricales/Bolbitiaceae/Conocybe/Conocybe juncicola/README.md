@@ -1,5 +1,4 @@
-Conocybe juncicola Hauskn. SPECIES
-=======
+# Conocybe juncicola Hauskn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora camarae Curzi SPECIES
-=======
+# Cercospora camarae Curzi SPECIES
 
 #### Status
 ACCEPTED

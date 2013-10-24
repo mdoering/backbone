@@ -1,5 +1,4 @@
-Chaetalysis GENUS
-=======
+# Chaetalysis GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Physaridae FAMILY
-=======
+# Physaraceae Chevall. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. gén. env. Paris (Paris) 1: 332 (1826)
 
 #### Original name
-null
+Physaraceae Chevall.
 
 ### Remarks
 null

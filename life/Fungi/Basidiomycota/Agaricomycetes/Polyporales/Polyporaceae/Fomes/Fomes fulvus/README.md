@@ -1,17 +1,16 @@
-Fomes fulvus f. fulvus FORM
-=======
+# Fomes fulvus (Scop.) Gillet, 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hyménomycètes (Alençon) 685 (1878)
 
 #### Original name
-Fomes fulvus f. fulvus
+Fomes fulvus (Scop.) Gillet, 1878
 
 ### Remarks
 null

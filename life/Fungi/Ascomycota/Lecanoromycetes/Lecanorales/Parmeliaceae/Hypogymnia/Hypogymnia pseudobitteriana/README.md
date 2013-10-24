@@ -1,14 +1,13 @@
-Parmelia pseudobitteriana D.D. Awasthi SPECIES
-=======
+# Hypogymnia pseudobitteriana (D. D. Awasthi) D. D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Geophytology 1: 101 (1971)
 
 #### Original name
 Parmelia pseudobitteriana D.D. Awasthi

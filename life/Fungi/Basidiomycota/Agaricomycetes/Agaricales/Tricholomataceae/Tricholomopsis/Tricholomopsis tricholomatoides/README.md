@@ -1,5 +1,4 @@
-Tricholomopsis tricholomatoides Singer SPECIES
-=======
+# Tricholomopsis tricholomatoides Singer SPECIES
 
 #### Status
 ACCEPTED

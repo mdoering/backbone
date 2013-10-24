@@ -1,5 +1,4 @@
-Coriolus subluteus (Ellis & Everh.) Murrill SPECIES
-=======
+# Coriolus subluteus (Ellis & Everh.) Murrill SPECIES
 
 #### Status
 ACCEPTED

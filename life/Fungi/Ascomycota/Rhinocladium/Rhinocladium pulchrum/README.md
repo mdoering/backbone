@@ -1,5 +1,4 @@
-Rhinocladium pulchrum S. Hughes & Hol.-Jech., 1980 SPECIES
-=======
+# Rhinocladium pulchrum S. Hughes & Hol.-Jech., 1980 SPECIES
 
 #### Status
 ACCEPTED

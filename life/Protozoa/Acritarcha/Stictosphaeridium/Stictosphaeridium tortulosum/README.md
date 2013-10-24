@@ -1,5 +1,4 @@
-Stictosphaeridium tortulosum Timofeev, 1966 SPECIES
-=======
+# Stictosphaeridium tortulosum Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

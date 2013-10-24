@@ -1,5 +1,4 @@
-Puccinia nodosa Ellis & Harkn. SPECIES
-=======
+# Puccinia nodosa Ellis & Harkn. SPECIES
 
 #### Status
 ACCEPTED

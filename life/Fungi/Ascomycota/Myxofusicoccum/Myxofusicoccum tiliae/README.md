@@ -1,5 +1,4 @@
-Myxofusicoccum tiliae Died. SPECIES
-=======
+# Myxofusicoccum tiliae Died. SPECIES
 
 #### Status
 ACCEPTED

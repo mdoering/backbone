@@ -1,5 +1,4 @@
-Mycena heroica Singer SPECIES
-=======
+# Mycena heroica Singer SPECIES
 
 #### Status
 ACCEPTED

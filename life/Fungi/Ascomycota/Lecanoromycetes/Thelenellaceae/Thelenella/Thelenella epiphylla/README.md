@@ -1,5 +1,4 @@
-Thelenella epiphylla (Müll. Arg.) Vain. SPECIES
-=======
+# Thelenella epiphylla (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

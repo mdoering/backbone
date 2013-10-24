@@ -1,5 +1,4 @@
-Trichomonascus rutilus Hauerslev, 1987 SPECIES
-=======
+# Trichomonascus rutilus Hauerslev, 1987 SPECIES
 
 #### Status
 ACCEPTED

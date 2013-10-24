@@ -1,5 +1,4 @@
-Phaeoplaca thallosa Chodat SPECIES
-=======
+# Phaeoplaca thallosa Chodat SPECIES
 
 #### Status
 ACCEPTED

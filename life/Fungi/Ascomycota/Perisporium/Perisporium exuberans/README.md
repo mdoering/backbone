@@ -1,5 +1,4 @@
-Perisporium exuberans Fr. SPECIES
-=======
+# Perisporium exuberans Fr. SPECIES
 
 #### Status
 ACCEPTED

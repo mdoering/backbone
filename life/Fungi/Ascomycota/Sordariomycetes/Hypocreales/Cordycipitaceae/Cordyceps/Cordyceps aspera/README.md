@@ -1,5 +1,4 @@
-Cordyceps aspera Pat. SPECIES
-=======
+# Cordyceps aspera Pat. SPECIES
 
 #### Status
 ACCEPTED

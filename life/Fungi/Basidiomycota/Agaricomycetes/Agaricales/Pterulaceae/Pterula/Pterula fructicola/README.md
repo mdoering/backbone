@@ -1,5 +1,4 @@
-Pterula fructicola Bres. SPECIES
-=======
+# Pterula fructicola Bres. SPECIES
 
 #### Status
 ACCEPTED

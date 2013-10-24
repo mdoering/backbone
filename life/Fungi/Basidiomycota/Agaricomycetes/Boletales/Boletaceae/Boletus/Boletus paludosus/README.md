@@ -1,5 +1,4 @@
-Boletus paludosus Massee SPECIES
-=======
+# Boletus paludosus Massee SPECIES
 
 #### Status
 ACCEPTED

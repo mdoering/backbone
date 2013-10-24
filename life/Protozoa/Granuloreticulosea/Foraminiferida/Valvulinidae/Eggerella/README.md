@@ -1,5 +1,4 @@
-Eggerella Cushman, 1933 GENUS
-=======
+# Eggerella Cushman, 1933 GENUS
 
 #### Status
 ACCEPTED

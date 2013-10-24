@@ -1,5 +1,4 @@
-Phormostichoartus furcaspiculata (Popofsky) Caulet, 1986 SPECIES
-=======
+# Phormostichoartus furcaspiculata (Popofsky) Caulet, 1986 SPECIES
 
 #### Status
 ACCEPTED

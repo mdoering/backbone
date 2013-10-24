@@ -1,5 +1,4 @@
-Cornuspiroides striolatus (Brady, 1882) SPECIES
-=======
+# Cornuspiroides striolatus (Brady, 1882) SPECIES
 
 #### Status
 ACCEPTED

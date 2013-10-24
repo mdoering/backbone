@@ -1,5 +1,4 @@
-Platysma sanguineum (Schaer.) Hue SPECIES
-=======
+# Platysma sanguineum (Schaer.) Hue SPECIES
 
 #### Status
 ACCEPTED

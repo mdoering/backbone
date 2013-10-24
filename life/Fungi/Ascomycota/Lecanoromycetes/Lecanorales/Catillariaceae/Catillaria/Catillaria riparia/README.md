@@ -1,5 +1,4 @@
-Catillaria riparia (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria riparia (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

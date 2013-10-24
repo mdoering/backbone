@@ -1,14 +1,13 @@
-Arthrobotryum beccarianum Ces., 1879 SPECIES
-=======
+# Podosporium beccarianum (Ces.) Seifert & G. Okada, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Seifert, Mem. N. Y. bot. Gdn 59: 137 (1990)
 
 #### Original name
 Arthrobotryum beccarianum Ces., 1879

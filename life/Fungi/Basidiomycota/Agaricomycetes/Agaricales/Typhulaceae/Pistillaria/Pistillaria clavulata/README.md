@@ -1,5 +1,4 @@
-Pistillaria clavulata Ellis SPECIES
-=======
+# Pistillaria clavulata Ellis SPECIES
 
 #### Status
 ACCEPTED

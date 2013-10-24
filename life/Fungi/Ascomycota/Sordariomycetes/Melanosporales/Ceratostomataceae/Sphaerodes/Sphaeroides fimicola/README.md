@@ -1,5 +1,4 @@
-Sphaeroides fimicola (E.C. Hansen) P.F. Cannon D.L. Hawks., 1982 SPECIES
-=======
+# Sphaeroides fimicola (E.C. Hansen) P.F. Cannon D.L. Hawks., 1982 SPECIES
 
 #### Status
 ACCEPTED

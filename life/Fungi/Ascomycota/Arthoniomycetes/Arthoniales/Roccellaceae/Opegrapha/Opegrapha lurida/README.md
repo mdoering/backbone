@@ -1,5 +1,4 @@
-Opegrapha lurida Duby SPECIES
-=======
+# Opegrapha lurida Duby SPECIES
 
 #### Status
 ACCEPTED

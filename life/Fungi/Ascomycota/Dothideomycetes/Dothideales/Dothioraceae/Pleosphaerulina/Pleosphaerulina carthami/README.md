@@ -1,5 +1,4 @@
-Pleosphaerulina carthami Tropova SPECIES
-=======
+# Pleosphaerulina carthami Tropova SPECIES
 
 #### Status
 ACCEPTED

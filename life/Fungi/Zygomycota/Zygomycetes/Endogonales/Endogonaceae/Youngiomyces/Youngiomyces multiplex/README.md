@@ -1,14 +1,13 @@
-Endogone multiplex Thaxt., 1922 SPECIES
-=======
+# Youngiomyces multiplex (Thaxt.) Y.J. Yao, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 57(12): 301 (1922)
+in Yao, Pegler & Young, Kew Bull. 50(2): 356 (1995)
 
 #### Original name
 Endogone multiplex Thaxt., 1922

@@ -1,5 +1,4 @@
-Meliola symphoniae Bat. & H. Maia SPECIES
-=======
+# Meliola symphoniae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

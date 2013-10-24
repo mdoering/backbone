@@ -1,5 +1,4 @@
-Pyrenula galactina (Shirley) Kantvilas, 1988 SPECIES
-=======
+# Pyrenula galactina (Shirley) Kantvilas, 1988 SPECIES
 
 #### Status
 DOUBTFUL

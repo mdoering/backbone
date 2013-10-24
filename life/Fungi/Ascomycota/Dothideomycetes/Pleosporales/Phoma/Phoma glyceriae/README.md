@@ -1,5 +1,4 @@
-Phoma glyceriae Brunaud SPECIES
-=======
+# Phoma glyceriae Brunaud SPECIES
 
 #### Status
 ACCEPTED

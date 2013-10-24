@@ -1,5 +1,4 @@
-Urocystis skirgielloi SPECIES
-=======
+# Urocystis skirgielloi SPECIES
 
 #### Status
 ACCEPTED

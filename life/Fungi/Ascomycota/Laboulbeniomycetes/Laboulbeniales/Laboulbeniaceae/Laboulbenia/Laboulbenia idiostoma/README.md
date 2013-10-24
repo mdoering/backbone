@@ -1,5 +1,4 @@
-Laboulbenia idiostoma Thaxt. SPECIES
-=======
+# Laboulbenia idiostoma Thaxt. SPECIES
 
 #### Status
 ACCEPTED

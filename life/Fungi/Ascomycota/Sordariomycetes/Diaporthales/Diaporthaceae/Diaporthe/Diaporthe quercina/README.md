@@ -1,5 +1,4 @@
-Diaporthe quercina Fuckel SPECIES
-=======
+# Diaporthe quercina Fuckel SPECIES
 
 #### Status
 ACCEPTED

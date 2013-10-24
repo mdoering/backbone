@@ -1,5 +1,4 @@
-Insolitignum MacDonald, 1999 GENUS
-=======
+# Insolitignum MacDonald, 1999 GENUS
 
 #### Status
 ACCEPTED

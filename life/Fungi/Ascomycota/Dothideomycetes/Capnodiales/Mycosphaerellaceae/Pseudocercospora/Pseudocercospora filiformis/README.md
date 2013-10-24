@@ -1,5 +1,4 @@
-Pseudocercospora filiformis (Davis) J.K. Bai & M.Y. Cheng SPECIES
-=======
+# Pseudocercospora filiformis (Davis) J.K. Bai & M.Y. Cheng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomitrula Gamundí GENUS
-=======
+# Pseudomitrula Gamundí GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula intricata Buyck SPECIES
-=======
+# Russula intricata Buyck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma wambensis Beeli SPECIES
-=======
+# Hypholoma wambensis Beeli SPECIES
 
 #### Status
 ACCEPTED

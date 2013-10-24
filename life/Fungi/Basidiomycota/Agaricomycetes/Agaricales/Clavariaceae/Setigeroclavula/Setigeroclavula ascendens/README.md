@@ -1,5 +1,4 @@
-Setigeroclavula ascendens R.H. Petersen, 1988 SPECIES
-=======
+# Setigeroclavula ascendens R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola celastracearum Hosag. & B.R. Dayal SPECIES
-=======
+# Meliola celastracearum Hosag. & B.R. Dayal SPECIES
 
 #### Status
 ACCEPTED

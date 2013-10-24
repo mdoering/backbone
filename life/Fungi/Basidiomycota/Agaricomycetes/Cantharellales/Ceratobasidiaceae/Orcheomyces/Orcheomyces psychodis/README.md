@@ -1,5 +1,4 @@
-Orcheomyces psychodis Burgeff SPECIES
-=======
+# Orcheomyces psychodis Burgeff SPECIES
 
 #### Status
 ACCEPTED

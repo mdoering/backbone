@@ -1,5 +1,4 @@
-Russula purpureoflava Cleland SPECIES
-=======
+# Russula purpureoflava Cleland SPECIES
 
 #### Status
 ACCEPTED

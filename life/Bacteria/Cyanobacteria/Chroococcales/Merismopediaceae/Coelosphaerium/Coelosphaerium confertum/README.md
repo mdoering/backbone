@@ -1,5 +1,4 @@
-Coelosphaerium confertum W. West & G.S. West SPECIES
-=======
+# Coelosphaerium confertum W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

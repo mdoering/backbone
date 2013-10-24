@@ -1,5 +1,4 @@
-Anzina Scheid. GENUS
-=======
+# Anzina Scheid. GENUS
 
 #### Status
 ACCEPTED

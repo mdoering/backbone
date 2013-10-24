@@ -1,5 +1,4 @@
-Valsa spegazziniana Sacc. SPECIES
-=======
+# Valsa spegazziniana Sacc. SPECIES
 
 #### Status
 ACCEPTED

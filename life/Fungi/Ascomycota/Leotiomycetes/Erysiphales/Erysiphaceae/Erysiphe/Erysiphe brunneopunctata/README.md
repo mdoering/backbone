@@ -1,14 +1,13 @@
-Golovinomyces brunneopunctatus (U. Braun) V.P. Heluta, 1988 SPECIES
-=======
+# Erysiphe brunneopunctata U. Braun, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ukr. bot. Zh. 45(5): 62 (1988)
+Mycotaxon 20(2): 494 (1984)
 
 #### Original name
 Erysiphe brunneopunctata U. Braun, 1984

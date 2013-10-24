@@ -1,5 +1,4 @@
-Ornithocercus calolinae SPECIES
-=======
+# Ornithocercus calolinae SPECIES
 
 #### Status
 ACCEPTED

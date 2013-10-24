@@ -1,5 +1,4 @@
-Irpex microdon Rick SPECIES
-=======
+# Irpex microdon Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia asterisci (Speg.) Sacc. & Trotter SPECIES
-=======
+# Hendersonia asterisci (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

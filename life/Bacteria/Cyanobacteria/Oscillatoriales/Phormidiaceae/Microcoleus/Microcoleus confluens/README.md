@@ -1,5 +1,4 @@
-Microcoleus confluens Setchell & N.L.Gardner SPECIES
-=======
+# Microcoleus confluens Setchell & N.L.Gardner SPECIES
 
 #### Status
 ACCEPTED

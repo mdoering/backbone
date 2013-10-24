@@ -1,17 +1,16 @@
-Psilocybe elongatipes Peck, 1875 SPECIES
-=======
+# Hypholoma elongatipes (Peck) A.H. Sm., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 27: 40 (1875)
+Mycologia 25: 196 (1933)
 
 #### Original name
-Psilocybe elongatipes Peck, 1875
+Hypholoma elongatipes (Peck) A.H. Sm., 1941
 
 ### Remarks
 null

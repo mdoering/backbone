@@ -1,5 +1,4 @@
-Cercospora somaliensis Curzi SPECIES
-=======
+# Cercospora somaliensis Curzi SPECIES
 
 #### Status
 ACCEPTED

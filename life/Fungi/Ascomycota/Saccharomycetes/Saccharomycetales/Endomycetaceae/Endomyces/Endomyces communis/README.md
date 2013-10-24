@@ -1,5 +1,4 @@
-Endomyces communis Castell. SPECIES
-=======
+# Endomyces communis Castell. SPECIES
 
 #### Status
 ACCEPTED

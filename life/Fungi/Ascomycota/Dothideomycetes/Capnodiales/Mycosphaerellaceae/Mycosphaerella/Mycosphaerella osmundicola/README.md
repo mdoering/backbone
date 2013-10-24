@@ -1,5 +1,4 @@
-Mycosphaerella osmundicola (Kirschst.) M. Morelet SPECIES
-=======
+# Mycosphaerella osmundicola (Kirschst.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

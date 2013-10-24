@@ -1,5 +1,4 @@
-Peziza scutellata Bolton SPECIES
-=======
+# Peziza scutellata Bolton SPECIES
 
 #### Status
 ACCEPTED

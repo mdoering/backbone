@@ -1,17 +1,16 @@
-Calopeltis Sydow, 1925 GENUS
-=======
+# Cyclotheca Theissen, 1914 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 23(3/6): 392 (1925)
+Annls mycol. 12: 70 (1914)
 
 #### Original name
-Calopeltis Sydow, 1925
+Cyclotheca Theissen, 1914
 
 ### Remarks
 null

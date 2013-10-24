@@ -1,5 +1,4 @@
-Gloeosporium bataticola Sawada SPECIES
-=======
+# Gloeosporium bataticola Sawada SPECIES
 
 #### Status
 ACCEPTED

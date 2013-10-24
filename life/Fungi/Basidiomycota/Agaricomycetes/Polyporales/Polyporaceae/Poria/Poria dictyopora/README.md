@@ -1,5 +1,4 @@
-Poria dictyopora (Cooke) Sacc. SPECIES
-=======
+# Poria dictyopora (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

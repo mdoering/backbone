@@ -1,5 +1,4 @@
-Rhabdospora verruciformis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rhabdospora verruciformis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

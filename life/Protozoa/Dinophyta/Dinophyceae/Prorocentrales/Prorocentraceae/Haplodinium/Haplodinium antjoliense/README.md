@@ -1,5 +1,4 @@
-Haplodinium antjoliense Klebs SPECIES
-=======
+# Haplodinium antjoliense Klebs SPECIES
 
 #### Status
 ACCEPTED

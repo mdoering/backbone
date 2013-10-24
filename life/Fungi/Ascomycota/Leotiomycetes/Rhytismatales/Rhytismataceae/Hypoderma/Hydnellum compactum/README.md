@@ -1,8 +1,7 @@
-Hydnellum acre (Quél.) Donk, 1933 SPECIES
-=======
+# Hydnellum compactum (Pers.) P. Karst., 1880 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

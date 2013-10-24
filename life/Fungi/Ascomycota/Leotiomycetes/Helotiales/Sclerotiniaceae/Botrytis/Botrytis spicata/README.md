@@ -1,5 +1,4 @@
-Botrytis spicata P. Micheli SPECIES
-=======
+# Botrytis spicata P. Micheli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cladonia perfoliata Flörke SPECIES
-=======
+# Cladonia crinita (Delise ex Pers.) Ahti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Ahti & Marcelli, Biblthca Lichenol. 58: 13 (1995)
 
 #### Original name
-null
+Cenomyce crinita Delise ex Pers.
 
 ### Remarks
 null

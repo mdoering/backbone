@@ -1,5 +1,4 @@
-Cylindrosporium triostei Kellerm. & Swingle SPECIES
-=======
+# Cylindrosporium triostei Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED

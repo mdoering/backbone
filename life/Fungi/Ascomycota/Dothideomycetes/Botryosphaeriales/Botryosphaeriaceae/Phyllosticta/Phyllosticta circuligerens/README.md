@@ -1,5 +1,4 @@
-Phyllosticta circuligerens Tehon & E.Y. Daniels SPECIES
-=======
+# Phyllosticta circuligerens Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

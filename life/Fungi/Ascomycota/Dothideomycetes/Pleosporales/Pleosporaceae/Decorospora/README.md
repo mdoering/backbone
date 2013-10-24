@@ -1,5 +1,4 @@
-Decorospora Inderb., Kohlm. & Volkm.-Kohlm. GENUS
-=======
+# Decorospora Inderb., Kohlm. & Volkm.-Kohlm. GENUS
 
 #### Status
 ACCEPTED

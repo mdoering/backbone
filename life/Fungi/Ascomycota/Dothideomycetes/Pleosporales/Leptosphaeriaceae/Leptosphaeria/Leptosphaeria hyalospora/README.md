@@ -1,5 +1,4 @@
-Leptosphaeria hyalospora Sacc. SPECIES
-=======
+# Leptosphaeria hyalospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

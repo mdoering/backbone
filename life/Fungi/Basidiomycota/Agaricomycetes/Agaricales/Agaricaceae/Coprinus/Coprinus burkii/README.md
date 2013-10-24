@@ -1,5 +1,4 @@
-Coprinus burkii A.H. Sm. SPECIES
-=======
+# Coprinus burkii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

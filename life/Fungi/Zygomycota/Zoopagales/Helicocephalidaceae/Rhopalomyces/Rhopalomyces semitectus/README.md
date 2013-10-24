@@ -1,5 +1,4 @@
-Rhopalomyces semitectus Drechsler SPECIES
-=======
+# Rhopalomyces semitectus Drechsler SPECIES
 
 #### Status
 ACCEPTED

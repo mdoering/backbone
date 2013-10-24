@@ -1,5 +1,4 @@
-Septoria chelidonii Desm., 1842 SPECIES
-=======
+# Septoria chelidonii Desm., 1842 SPECIES
 
 #### Status
 ACCEPTED

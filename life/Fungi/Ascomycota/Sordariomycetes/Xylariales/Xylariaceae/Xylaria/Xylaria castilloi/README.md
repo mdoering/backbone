@@ -1,5 +1,4 @@
-Xylaria castilloi F. San Martín & J.D. Rogers SPECIES
-=======
+# Xylaria castilloi F. San Martín & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

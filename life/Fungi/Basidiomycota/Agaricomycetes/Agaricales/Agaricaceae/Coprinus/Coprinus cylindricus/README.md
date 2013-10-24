@@ -1,5 +1,4 @@
-Coprinus cylindricus Fr. SPECIES
-=======
+# Coprinus cylindricus Fr. SPECIES
 
 #### Status
 ACCEPTED

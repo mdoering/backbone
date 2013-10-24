@@ -1,5 +1,4 @@
-Olisthodiscus magnus Hulbert SPECIES
-=======
+# Olisthodiscus magnus Hulbert SPECIES
 
 #### Status
 ACCEPTED

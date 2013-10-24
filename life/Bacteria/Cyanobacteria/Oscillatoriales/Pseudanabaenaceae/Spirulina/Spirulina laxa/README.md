@@ -1,5 +1,4 @@
-Spirulina laxa G. M. Smith SPECIES
-=======
+# Spirulina laxa G. M. Smith SPECIES
 
 #### Status
 ACCEPTED

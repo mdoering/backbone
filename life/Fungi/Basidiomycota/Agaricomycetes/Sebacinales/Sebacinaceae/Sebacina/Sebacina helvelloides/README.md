@@ -1,5 +1,4 @@
-Sebacina helvelloides (Schwein.) Fr. SPECIES
-=======
+# Sebacina helvelloides (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

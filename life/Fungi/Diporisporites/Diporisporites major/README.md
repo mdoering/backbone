@@ -1,5 +1,4 @@
-Diporisporites major A. Chandra, R.K. Saxena & Setty SPECIES
-=======
+# Diporisporites major A. Chandra, R.K. Saxena & Setty SPECIES
 
 #### Status
 ACCEPTED

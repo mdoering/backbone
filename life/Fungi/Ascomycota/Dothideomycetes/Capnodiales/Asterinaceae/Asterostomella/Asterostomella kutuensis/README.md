@@ -1,5 +1,4 @@
-Asterostomella kutuensis (Henn.) Bat. & Cif. SPECIES
-=======
+# Asterostomella kutuensis (Henn.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

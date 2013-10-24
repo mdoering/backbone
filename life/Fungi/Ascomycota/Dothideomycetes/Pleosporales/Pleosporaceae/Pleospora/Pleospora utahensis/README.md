@@ -1,5 +1,4 @@
-Pleospora utahensis Ellis & Everh. SPECIES
-=======
+# Pleospora utahensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

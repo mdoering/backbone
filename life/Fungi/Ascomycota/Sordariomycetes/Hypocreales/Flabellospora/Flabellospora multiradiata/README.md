@@ -1,5 +1,4 @@
-Flabellospora multiradiata Nawawi SPECIES
-=======
+# Flabellospora multiradiata Nawawi SPECIES
 
 #### Status
 ACCEPTED

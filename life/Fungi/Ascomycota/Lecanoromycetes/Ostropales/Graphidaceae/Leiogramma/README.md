@@ -1,5 +1,4 @@
-Leiogramma GENUS
-=======
+# Leiogramma GENUS
 
 #### Status
 ACCEPTED

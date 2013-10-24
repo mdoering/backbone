@@ -1,5 +1,4 @@
-Haradamyces Masuya, Kusunoki, Kosaka & Aikawa GENUS
-=======
+# Haradamyces Masuya, Kusunoki, Kosaka & Aikawa GENUS
 
 #### Status
 ACCEPTED

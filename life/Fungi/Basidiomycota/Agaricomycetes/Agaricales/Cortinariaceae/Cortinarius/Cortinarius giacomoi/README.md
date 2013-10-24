@@ -1,5 +1,4 @@
-Cortinarius giacomoi Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius giacomoi Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

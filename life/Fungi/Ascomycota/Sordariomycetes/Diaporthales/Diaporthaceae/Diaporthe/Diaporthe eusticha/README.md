@@ -1,5 +1,4 @@
-Diaporthe eusticha Ellis & Everh. SPECIES
-=======
+# Diaporthe eusticha Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

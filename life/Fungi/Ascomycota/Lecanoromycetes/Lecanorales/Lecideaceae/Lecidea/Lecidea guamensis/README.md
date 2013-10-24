@@ -1,5 +1,4 @@
-Lecidea guamensis Vain. SPECIES
-=======
+# Lecidea guamensis Vain. SPECIES
 
 #### Status
 ACCEPTED

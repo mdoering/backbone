@@ -1,5 +1,4 @@
-Diplodia faginea Fr., 1849 SPECIES
-=======
+# Diplodia faginea Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED

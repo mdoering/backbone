@@ -1,5 +1,4 @@
-Characiopsis columnaris var. pusilla H. Pizarro & G. Tell VARIETY
-=======
+# Characiopsis columnaris SPECIES
 
 #### Status
 ACCEPTED

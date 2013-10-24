@@ -1,5 +1,4 @@
-Prosopsenus sinuatus André, 1916 SPECIES
-=======
+# Prosopsenus sinuatus André, 1916 SPECIES
 
 #### Status
 ACCEPTED

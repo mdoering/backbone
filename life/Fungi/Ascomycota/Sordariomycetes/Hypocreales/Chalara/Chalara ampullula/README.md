@@ -1,5 +1,4 @@
-Chalara ampullula var. ampullula VARIETY
-=======
+# Chalara ampullula (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Michelia 1(no. 1): 80 (1877)
 
 #### Original name
-Chalara ampullula var. ampullula
+Sporoschisma ampullula Sacc.
 
 ### Remarks
 null

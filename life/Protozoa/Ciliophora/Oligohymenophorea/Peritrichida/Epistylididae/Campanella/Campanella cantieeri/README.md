@@ -1,5 +1,4 @@
-Campanella cantieeri SPECIES
-=======
+# Campanella cantieeri SPECIES
 
 #### Status
 ACCEPTED

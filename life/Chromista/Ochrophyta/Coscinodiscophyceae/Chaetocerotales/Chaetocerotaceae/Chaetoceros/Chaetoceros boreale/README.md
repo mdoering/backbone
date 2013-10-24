@@ -1,5 +1,4 @@
-Chaetoceros boreale J.W. Bailey SPECIES
-=======
+# Chaetoceros boreale J.W. Bailey SPECIES
 
 #### Status
 ACCEPTED

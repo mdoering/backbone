@@ -1,5 +1,4 @@
-Strobilidium velox sensu Schmitz, 1986 SPECIES
-=======
+# Strobilidium velox sensu Schmitz, 1986 SPECIES
 
 #### Status
 ACCEPTED

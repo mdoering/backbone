@@ -1,5 +1,4 @@
-Marasmius beelianus Singer SPECIES
-=======
+# Marasmius beelianus Singer SPECIES
 
 #### Status
 ACCEPTED

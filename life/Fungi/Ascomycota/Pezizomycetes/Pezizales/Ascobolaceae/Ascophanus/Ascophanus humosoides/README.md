@@ -1,5 +1,4 @@
-Ascophanus humosoides Peck SPECIES
-=======
+# Ascophanus humosoides Peck SPECIES
 
 #### Status
 ACCEPTED

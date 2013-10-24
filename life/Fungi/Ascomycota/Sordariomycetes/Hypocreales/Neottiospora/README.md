@@ -1,17 +1,16 @@
-Samukuta Subram. & K. Ramakr. GENUS
-=======
+# Neottiospora Desm. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Indian bot. Soc. 36: 75 (1957)
+Annls Sci. Nat. , Bot. , sér. 2 19: 346 (1843)
 
 #### Original name
-Samukuta Subram. & K. Ramakr.
+Neottiospora Desm.
 
 ### Remarks
 null

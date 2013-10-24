@@ -1,5 +1,4 @@
-Staphylococcus hominis subsp. novobiosepticus Kloos et al., 1998 SUBSPECIES
-=======
+# Staphylococcus hominis Kloos & Schleifer, 1975 SPECIES
 
 #### Status
 ACCEPTED

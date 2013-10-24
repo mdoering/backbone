@@ -1,5 +1,4 @@
-Arthopyrenia gemmulata Harm. SPECIES
-=======
+# Arthopyrenia gemmulata Harm. SPECIES
 
 #### Status
 ACCEPTED

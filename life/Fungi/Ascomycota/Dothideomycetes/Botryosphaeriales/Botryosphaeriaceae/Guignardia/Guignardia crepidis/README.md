@@ -1,5 +1,4 @@
-Guignardia crepidis E. Müll. SPECIES
-=======
+# Guignardia crepidis E. Müll. SPECIES
 
 #### Status
 ACCEPTED

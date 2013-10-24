@@ -1,5 +1,4 @@
-Cortinarius cylindripes Kauffman SPECIES
-=======
+# Cortinarius cylindripes Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinemasporium fimeti Plowr. & W. Phillips, 1876 SPECIES
-=======
+# Dinemasporium fimeti Plowr. & W. Phillips, 1876 SPECIES
 
 #### Status
 ACCEPTED

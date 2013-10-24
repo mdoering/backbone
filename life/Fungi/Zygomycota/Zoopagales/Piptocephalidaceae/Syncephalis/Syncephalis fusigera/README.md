@@ -1,17 +1,16 @@
-Syncephalis fusiger Bainier SPECIES
-=======
+# Syncephalis fusigera Bainier, 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Étud. Mucor. (Paris), (Thèse, Paris) 123 (1882)
 
 #### Original name
-Syncephalis fusiger Bainier
+Syncephalis fusigera Bainier, 1882
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cytospora occulta Sacc., 1884 SPECIES
-=======
+# Cytospora occulta Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

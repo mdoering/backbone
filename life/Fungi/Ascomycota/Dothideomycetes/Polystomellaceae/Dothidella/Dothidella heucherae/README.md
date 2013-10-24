@@ -1,5 +1,4 @@
-Dothidella heucherae Ellis & Everh. SPECIES
-=======
+# Dothidella heucherae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

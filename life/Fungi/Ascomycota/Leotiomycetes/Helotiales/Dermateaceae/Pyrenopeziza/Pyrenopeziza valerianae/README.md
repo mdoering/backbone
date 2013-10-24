@@ -1,5 +1,4 @@
-Pyrenopeziza valerianae Kirschst. SPECIES
-=======
+# Pyrenopeziza valerianae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptobelonium sulphureotestaceum (Höhn.) Höhn. SPECIES
-=======
+# Leptobelonium sulphureotestaceum (Höhn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

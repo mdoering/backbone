@@ -1,5 +1,4 @@
-Pleospora persica Syd. SPECIES
-=======
+# Pleospora persica Syd. SPECIES
 
 #### Status
 ACCEPTED

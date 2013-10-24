@@ -1,17 +1,16 @@
-Phaeoisariopsis lagerstroemeae R.C. Rajak, Soni & G.P. Pathak SPECIES
-=======
+# Phaeoisariopsis lagerstroemiae R.C. Rajak, Soni & G.P. Pathak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 47(11): 398 (1978)
 
 #### Original name
-Phaeoisariopsis lagerstroemeae R.C. Rajak, Soni & G.P. Pathak
+Phaeoisariopsis lagerstroemiae R.C. Rajak, Soni & G.P. Pathak
 
 ### Remarks
 null

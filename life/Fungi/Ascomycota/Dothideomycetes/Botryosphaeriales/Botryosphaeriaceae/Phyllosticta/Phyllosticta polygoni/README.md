@@ -1,5 +1,4 @@
-Phyllosticta polygoni Hollós SPECIES
-=======
+# Phyllosticta polygoni Hollós SPECIES
 
 #### Status
 ACCEPTED

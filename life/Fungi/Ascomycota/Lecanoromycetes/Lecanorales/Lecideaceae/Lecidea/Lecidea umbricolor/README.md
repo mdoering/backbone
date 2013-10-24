@@ -1,5 +1,4 @@
-Lecidea umbricolor Nyl. SPECIES
-=======
+# Lecidea umbricolor Nyl. SPECIES
 
 #### Status
 ACCEPTED

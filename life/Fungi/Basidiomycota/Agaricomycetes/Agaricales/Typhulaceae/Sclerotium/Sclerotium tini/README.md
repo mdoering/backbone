@@ -1,5 +1,4 @@
-Sclerotium tini Sacc. SPECIES
-=======
+# Sclerotium tini Sacc. SPECIES
 
 #### Status
 ACCEPTED

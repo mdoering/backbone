@@ -1,5 +1,4 @@
-Phaeographina dolichographa (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeographina dolichographa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

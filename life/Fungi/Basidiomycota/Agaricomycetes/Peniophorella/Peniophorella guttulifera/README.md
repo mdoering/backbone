@@ -1,14 +1,13 @@
-Hyphoderma guttuliferum (P. Karst.) Donk, 1962 SPECIES
-=======
+# Peniophorella guttulifera (P. Karst.) K.H. Larss., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 2(2): 223 (1962)
+Mycol. Res. 111(2): 192 (2007)
 
 #### Original name
 Gloeocystidium guttuliferum P. Karst., 1889

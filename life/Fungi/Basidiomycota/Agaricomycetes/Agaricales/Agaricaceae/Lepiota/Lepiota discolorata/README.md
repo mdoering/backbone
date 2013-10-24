@@ -1,5 +1,4 @@
-Lepiota discolorata Cleland SPECIES
-=======
+# Lepiota discolorata Cleland SPECIES
 
 #### Status
 ACCEPTED

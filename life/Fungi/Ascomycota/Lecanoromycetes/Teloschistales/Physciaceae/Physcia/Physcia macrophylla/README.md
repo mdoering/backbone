@@ -1,5 +1,4 @@
-Physcia macrophylla Stizenb. SPECIES
-=======
+# Physcia macrophylla Stizenb. SPECIES
 
 #### Status
 ACCEPTED

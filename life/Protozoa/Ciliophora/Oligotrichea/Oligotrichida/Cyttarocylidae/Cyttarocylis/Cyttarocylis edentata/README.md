@@ -1,5 +1,4 @@
-Cyttarocylis edentata SPECIES
-=======
+# Cyttarocylis edentata SPECIES
 
 #### Status
 ACCEPTED

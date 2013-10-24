@@ -1,5 +1,4 @@
-Metasphaeria cyparissi Pass. SPECIES
-=======
+# Metasphaeria cyparissi Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lenzites interrupta Fr. SPECIES
-=======
+# Lenzites interrupta Fr. SPECIES
 
 #### Status
 ACCEPTED

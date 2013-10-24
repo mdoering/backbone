@@ -1,5 +1,4 @@
-Allarthonia tenellula (Nyl.) B. de Lesd. SPECIES
-=======
+# Allarthonia tenellula (Nyl.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

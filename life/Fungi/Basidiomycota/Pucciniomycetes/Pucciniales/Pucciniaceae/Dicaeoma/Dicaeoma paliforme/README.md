@@ -1,5 +1,4 @@
-Dicaeoma paliforme (Fuckel) Kuntze SPECIES
-=======
+# Dicaeoma paliforme (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

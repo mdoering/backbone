@@ -1,17 +1,16 @@
-Gyrophora spodochroa var. spodochroa VARIETY
-=======
+# Gyrophora spodochroa SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Lichen spodochrous Ehrh. ex Hoffm.
+null
 
 ### Remarks
 null

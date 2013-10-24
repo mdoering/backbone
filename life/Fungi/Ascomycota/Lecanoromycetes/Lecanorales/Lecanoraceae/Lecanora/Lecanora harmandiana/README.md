@@ -1,5 +1,4 @@
-Lecanora harmandiana (Hue) Zahlbr. SPECIES
-=======
+# Lecanora harmandiana (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium capense P. M. Jørg. & Wallace SPECIES
-=======
+# Leptogium capense P. M. Jørg. & Wallace SPECIES
 
 #### Status
 ACCEPTED

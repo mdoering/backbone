@@ -1,5 +1,4 @@
-Passalora ficina (S.K. Singh & R.K. Chaudhary) U. Braun & Crous SPECIES
-=======
+# Passalora ficina (S.K. Singh & R.K. Chaudhary) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

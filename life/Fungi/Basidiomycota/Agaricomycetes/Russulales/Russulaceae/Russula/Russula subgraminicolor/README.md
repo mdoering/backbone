@@ -1,5 +1,4 @@
-Russula subgraminicolor Murrill SPECIES
-=======
+# Russula subgraminicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

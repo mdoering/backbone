@@ -1,5 +1,4 @@
-Uromyces goyazensis Henn. SPECIES
-=======
+# Uromyces goyazensis Henn. SPECIES
 
 #### Status
 ACCEPTED

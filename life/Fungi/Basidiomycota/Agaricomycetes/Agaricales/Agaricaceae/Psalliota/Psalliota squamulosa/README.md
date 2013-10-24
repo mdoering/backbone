@@ -1,5 +1,4 @@
-Psalliota squamulosa Velen. SPECIES
-=======
+# Psalliota squamulosa Velen. SPECIES
 
 #### Status
 ACCEPTED

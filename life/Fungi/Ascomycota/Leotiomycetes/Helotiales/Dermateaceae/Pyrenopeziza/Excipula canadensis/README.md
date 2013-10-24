@@ -1,5 +1,4 @@
-Excipula canadensis Ellis & Everh. SPECIES
-=======
+# Excipula canadensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

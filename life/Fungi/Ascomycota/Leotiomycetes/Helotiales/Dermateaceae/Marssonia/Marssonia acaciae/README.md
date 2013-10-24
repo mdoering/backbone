@@ -1,5 +1,4 @@
-Marssonia acaciae Cooke & Massee SPECIES
-=======
+# Marssonia acaciae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

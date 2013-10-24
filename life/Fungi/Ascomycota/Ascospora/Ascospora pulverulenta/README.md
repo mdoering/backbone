@@ -1,5 +1,4 @@
-Ascospora pulverulenta Riess SPECIES
-=======
+# Ascospora pulverulenta Riess SPECIES
 
 #### Status
 ACCEPTED

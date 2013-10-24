@@ -1,14 +1,13 @@
-Microporus mollerianus (Sacc. & Berl.) Kuntze SPECIES
-=======
+# Microporus moellerianus (Sacc. & Berl.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 496 (1898)
 
 #### Original name
 Polyporus moellerianus Sacc. & Berl.

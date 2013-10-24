@@ -1,14 +1,13 @@
-Prillieuxina mimusopsidis (Doidge) R.W. Ryan SPECIES
-=======
+# Prillieuxina mimusopis (Doidge) R.W. Ryan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Illinois Biol. Monogr. (Urbana) 17(2): 81 (1939)
 
 #### Original name
 Asterina mimusopis Hansf.

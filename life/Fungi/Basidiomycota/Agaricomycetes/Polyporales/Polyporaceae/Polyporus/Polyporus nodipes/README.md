@@ -1,5 +1,4 @@
-Polyporus nodipes Berk. SPECIES
-=======
+# Polyporus nodipes Berk. SPECIES
 
 #### Status
 ACCEPTED

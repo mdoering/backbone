@@ -1,8 +1,7 @@
-Ditylum inaequale J.W. Bailey ex L.W. Bailey SPECIES
-=======
+# Ditylum brightwellii (T. West) Grunow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

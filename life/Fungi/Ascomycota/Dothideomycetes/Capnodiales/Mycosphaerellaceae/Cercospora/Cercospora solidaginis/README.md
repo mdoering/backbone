@@ -1,5 +1,4 @@
-Cercospora solidaginis Chupp & H.C. Greene SPECIES
-=======
+# Cercospora solidaginis Chupp & H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium fragariae Sowerby SPECIES
-=======
+# Aecidium fragariae Sowerby SPECIES
 
 #### Status
 ACCEPTED

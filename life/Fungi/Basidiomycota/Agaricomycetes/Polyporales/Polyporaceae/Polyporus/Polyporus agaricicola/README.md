@@ -1,5 +1,4 @@
-Polyporus agaricicola F. Ludw. SPECIES
-=======
+# Polyporus agaricicola F. Ludw. SPECIES
 
 #### Status
 ACCEPTED

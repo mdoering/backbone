@@ -1,17 +1,16 @@
-Didymosphaeria minuta var. minuta VARIETY
-=======
+# Didymosphaeria minuta Niessl, 1875 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Didymosphaeria minuta var. minuta
+Didymosphaeria minuta Niessl, 1875
 
 ### Remarks
 null

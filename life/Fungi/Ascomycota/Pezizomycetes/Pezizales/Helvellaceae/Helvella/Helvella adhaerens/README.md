@@ -1,5 +1,4 @@
-Helvella adhaerens Peck SPECIES
-=======
+# Helvella adhaerens Peck SPECIES
 
 #### Status
 ACCEPTED

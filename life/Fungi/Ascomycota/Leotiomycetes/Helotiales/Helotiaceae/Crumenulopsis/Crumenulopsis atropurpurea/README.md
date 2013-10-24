@@ -1,5 +1,4 @@
-Crumenulopsis atropurpurea (E.K. Cash & R.W. Davidson) Hanlin & B. Jiménez SPECIES
-=======
+# Crumenulopsis atropurpurea (E.K. Cash & R.W. Davidson) Hanlin & B. Jiménez SPECIES
 
 #### Status
 ACCEPTED

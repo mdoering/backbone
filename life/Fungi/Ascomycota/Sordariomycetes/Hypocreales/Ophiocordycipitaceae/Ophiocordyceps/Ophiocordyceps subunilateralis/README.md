@@ -1,5 +1,4 @@
-Ophiocordyceps subunilateralis (Henn.) Kobayasi SPECIES
-=======
+# Ophiocordyceps subunilateralis (Henn.) Kobayasi SPECIES
 
 #### Status
 ACCEPTED

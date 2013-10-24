@@ -1,5 +1,4 @@
-Ramalina straminea (Pers.) Ach. SPECIES
-=======
+# Ramalina straminea (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED

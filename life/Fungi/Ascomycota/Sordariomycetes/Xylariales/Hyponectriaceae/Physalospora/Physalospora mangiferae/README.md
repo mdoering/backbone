@@ -1,5 +1,4 @@
-Physalospora mangiferae Bat. SPECIES
-=======
+# Physalospora mangiferae Bat. SPECIES
 
 #### Status
 ACCEPTED

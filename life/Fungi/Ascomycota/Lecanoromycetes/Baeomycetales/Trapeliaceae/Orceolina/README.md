@@ -1,17 +1,16 @@
-Urceolina Tuck. GENUS
-=======
+# Orceolina Hertel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 6: 58 (1875)
+Vortrag. Gesamtgeb. Bot. , ser. 2 4: 182 (1970)
 
 #### Original name
-Urceolina Tuck.
+Orceolina Hertel
 
 ### Remarks
 null

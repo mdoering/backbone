@@ -1,5 +1,4 @@
-Letrouitia hafellneri S. Y. Kondr. & Elix SPECIES
-=======
+# Letrouitia hafellneri S. Y. Kondr. & Elix SPECIES
 
 #### Status
 ACCEPTED

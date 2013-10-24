@@ -1,5 +1,4 @@
-Pseudocercospora tabebuiae-caraibae Inácio & Dianese SPECIES
-=======
+# Pseudocercospora tabebuiae-caraibae Inácio & Dianese SPECIES
 
 #### Status
 ACCEPTED

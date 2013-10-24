@@ -1,14 +1,13 @@
-Arthrobotrys multiformis (Dowsett, J. Reid & Kalkat) M. Scholler, Hagedorn & A. Rubner, 1999 SPECIES
-=======
+# Monacrosporium multiforme (Dowsett, J. Reid & Kalkat) A. Rubner, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 51(1): 103 (1999)
+Stud. Mycol. 39: 84 (1996)
 
 #### Original name
 Dactylella multiformis Dowsett, J. Reid & Kalkat, 1984

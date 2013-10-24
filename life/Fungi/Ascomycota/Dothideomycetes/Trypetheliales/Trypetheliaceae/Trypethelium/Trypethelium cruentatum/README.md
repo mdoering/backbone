@@ -1,5 +1,4 @@
-Trypethelium cruentatum Nyl. SPECIES
-=======
+# Trypethelium cruentatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

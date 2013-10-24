@@ -1,5 +1,4 @@
-Russula carminipes J. Blum, 1954 SPECIES
-=======
+# Russula carminipes J. Blum, 1954 SPECIES
 
 #### Status
 ACCEPTED

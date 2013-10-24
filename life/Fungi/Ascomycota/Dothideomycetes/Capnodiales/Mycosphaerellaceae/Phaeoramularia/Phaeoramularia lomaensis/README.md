@@ -1,5 +1,4 @@
-Phaeoramularia lomaensis Deighton SPECIES
-=======
+# Phaeoramularia lomaensis Deighton SPECIES
 
 #### Status
 ACCEPTED

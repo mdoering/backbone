@@ -1,5 +1,4 @@
-Xanthoparmelia minuta M. D. E. Knox & Hale SPECIES
-=======
+# Xanthoparmelia minuta M. D. E. Knox & Hale SPECIES
 
 #### Status
 ACCEPTED

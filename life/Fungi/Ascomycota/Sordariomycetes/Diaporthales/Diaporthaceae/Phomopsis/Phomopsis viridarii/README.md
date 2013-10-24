@@ -1,5 +1,4 @@
-Phomopsis viridarii f. viridarii FORM
-=======
+# Phomopsis viridarii (Sacc.) Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Saccardo, Syll. fung. (Abellini) 22: 898 (1913)
 
 #### Original name
-Phomopsis viridarii f. viridarii
+Macrophoma viridarii Sacc.
 
 ### Remarks
 null

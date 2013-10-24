@@ -1,5 +1,4 @@
-Pannaria poeltii P.M. Jørg. SPECIES
-=======
+# Pannaria poeltii P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecanidium nothofagi (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Pertusaria truncata Kremp. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 19(3-4): 490 (1971)
+Verh. zool. -bot. Ges. Wein 26: 452 (1876)
 
 #### Original name
-Pertusaria nothofagi Zahlbr.
+Pertusaria truncata Kremp.
 
 ### Remarks
 null

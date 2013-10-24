@@ -1,5 +1,4 @@
-Hygrocybe miniatofirma S.A. Cantrell & Lodge SPECIES
-=======
+# Hygrocybe miniatofirma S.A. Cantrell & Lodge SPECIES
 
 #### Status
 ACCEPTED

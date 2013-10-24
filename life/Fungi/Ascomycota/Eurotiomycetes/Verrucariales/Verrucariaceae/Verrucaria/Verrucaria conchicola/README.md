@@ -1,5 +1,4 @@
-Verrucaria conchicola Erichsen SPECIES
-=======
+# Verrucaria conchicola Erichsen SPECIES
 
 #### Status
 ACCEPTED

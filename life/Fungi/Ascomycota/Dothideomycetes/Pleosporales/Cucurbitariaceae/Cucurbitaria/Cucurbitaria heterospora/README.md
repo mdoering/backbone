@@ -1,5 +1,4 @@
-Cucurbitaria heterospora (Speg.) Kuntze SPECIES
-=======
+# Cucurbitaria heterospora (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

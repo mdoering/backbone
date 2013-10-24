@@ -1,5 +1,4 @@
-Uromyces polymniae (Henn.) Dietel & Holw. SPECIES
-=======
+# Uromyces polymniae (Henn.) Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

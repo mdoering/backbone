@@ -1,5 +1,4 @@
-Parmelia kamtschadalis var. kamtschadalis VARIETY
-=======
+# Parmelia kamtschadalis (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

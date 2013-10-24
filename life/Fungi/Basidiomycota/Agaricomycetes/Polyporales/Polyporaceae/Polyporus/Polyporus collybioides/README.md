@@ -1,5 +1,4 @@
-Polyporus collybioides Kalchbr. SPECIES
-=======
+# Polyporus collybioides Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

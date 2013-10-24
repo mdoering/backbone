@@ -1,5 +1,4 @@
-Asterina tariacensis Petr. SPECIES
-=======
+# Asterina tariacensis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia galatica Syd. SPECIES
-=======
+# Puccinia galatica Syd. SPECIES
 
 #### Status
 ACCEPTED

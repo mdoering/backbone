@@ -1,5 +1,4 @@
-Conidiobolus chlamydosporus Drechsler, 1955 SPECIES
-=======
+# Conidiobolus chlamydosporus Drechsler, 1955 SPECIES
 
 #### Status
 ACCEPTED

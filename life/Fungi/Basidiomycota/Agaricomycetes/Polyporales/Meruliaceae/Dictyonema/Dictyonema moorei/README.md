@@ -1,5 +1,4 @@
-Dictyonema moorei (Nyl.) Henssen, 1963 SPECIES
-=======
+# Dictyonema moorei (Nyl.) Henssen, 1963 SPECIES
 
 #### Status
 ACCEPTED

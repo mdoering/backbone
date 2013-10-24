@@ -1,5 +1,4 @@
-Harknessia foeda Sacc. & Dearn. SPECIES
-=======
+# Harknessia foeda Sacc. & Dearn. SPECIES
 
 #### Status
 ACCEPTED

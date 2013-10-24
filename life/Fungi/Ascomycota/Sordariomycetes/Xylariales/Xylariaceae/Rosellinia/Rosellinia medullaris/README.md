@@ -1,5 +1,4 @@
-Rosellinia medullaris (Wallr.) Ces. & De Not. SPECIES
-=======
+# Rosellinia medullaris (Wallr.) Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

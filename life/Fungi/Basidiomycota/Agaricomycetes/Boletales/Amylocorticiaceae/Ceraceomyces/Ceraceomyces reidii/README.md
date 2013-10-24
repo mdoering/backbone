@@ -1,5 +1,4 @@
-Ceraceomyces reidii (K.S. Thind & S.S. Rattan) S.S. Rattan, 1977 SPECIES
-=======
+# Ceraceomyces reidii (K.S. Thind & S.S. Rattan) S.S. Rattan, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glomospira tracta Saidova, 1975 SPECIES
-=======
+# Glomospira tracta Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes fornicatus (Fr.) Sacc. SPECIES
-=======
+# Fomes fornicatus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

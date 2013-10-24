@@ -1,5 +1,4 @@
-Hericium ramaria (Fr.) Pers. SPECIES
-=======
+# Hericium ramaria (Fr.) Pers. SPECIES
 
 #### Status
 ACCEPTED

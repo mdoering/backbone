@@ -1,14 +1,13 @@
-Hyphoderma compta (H.S. Jacks.) Jülich SPECIES
-=======
+# Peniophorella compta (H.S. Jacks.) K.H. Larss., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 111(2): 191 (2007)
 
 #### Original name
 Peniophora compta H.S. Jacks., 1948

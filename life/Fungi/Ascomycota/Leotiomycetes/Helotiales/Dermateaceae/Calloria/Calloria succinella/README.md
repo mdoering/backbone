@@ -1,5 +1,4 @@
-Calloria succinella Sacc. SPECIES
-=======
+# Calloria succinella Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe densissima Schwein. SPECIES
-=======
+# Erysiphe densissima Schwein. SPECIES
 
 #### Status
 ACCEPTED

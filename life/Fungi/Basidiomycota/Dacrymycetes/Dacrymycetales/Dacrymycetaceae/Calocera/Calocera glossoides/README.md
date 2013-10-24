@@ -1,17 +1,16 @@
-Calocera glossoides var. glossoides (Pers.) Fr. VARIETY
-=======
+# Calocera glossoides (Pers.) Fr., 1827 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Stirp. Agri. Femison. 5: 67 (1827)
 
 #### Original name
-Calocera glossoides var. glossoides (Pers.) Fr.
+null
 
 ### Remarks
 null

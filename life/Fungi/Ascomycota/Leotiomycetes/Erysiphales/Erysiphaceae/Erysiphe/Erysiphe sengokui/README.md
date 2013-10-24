@@ -1,5 +1,4 @@
-Erysiphe sengokui (E.S. Salmon) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe sengokui (E.S. Salmon) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

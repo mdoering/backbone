@@ -1,5 +1,4 @@
-Arthopyrenia rhyparella (Nyl.) Arnold SPECIES
-=======
+# Arthopyrenia rhyparella (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

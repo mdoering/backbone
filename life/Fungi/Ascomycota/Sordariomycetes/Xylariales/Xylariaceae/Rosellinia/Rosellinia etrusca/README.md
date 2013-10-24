@@ -1,5 +1,4 @@
-Rosellinia etrusca Fabre SPECIES
-=======
+# Rosellinia etrusca Fabre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micronectria eugeniae Petch SPECIES
-=======
+# Micronectria eugeniae Petch SPECIES
 
 #### Status
 ACCEPTED

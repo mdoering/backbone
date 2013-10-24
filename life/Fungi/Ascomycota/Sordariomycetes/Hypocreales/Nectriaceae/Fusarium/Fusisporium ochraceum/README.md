@@ -1,5 +1,4 @@
-Fusisporium ochraceum Mont. SPECIES
-=======
+# Fusisporium ochraceum Mont. SPECIES
 
 #### Status
 ACCEPTED

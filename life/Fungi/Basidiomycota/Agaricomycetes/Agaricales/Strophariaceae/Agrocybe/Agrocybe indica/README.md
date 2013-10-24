@@ -1,5 +1,4 @@
-Agrocybe indica Watling & S.P. Abraham SPECIES
-=======
+# Agrocybe indica Watling & S.P. Abraham SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina melastomae-candidi Sawada & W. Yamam. SPECIES
-=======
+# Asterina melastomae-candidi Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

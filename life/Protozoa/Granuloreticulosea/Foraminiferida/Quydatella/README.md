@@ -1,5 +1,4 @@
-Quydatella GENUS
-=======
+# Quydatella GENUS
 
 #### Status
 ACCEPTED

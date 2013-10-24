@@ -1,5 +1,4 @@
-Coccocyclia Haeckel, 1881 GENUS
-=======
+# Coccocyclia Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

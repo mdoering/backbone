@@ -1,5 +1,4 @@
-Mycena caliginosa Maas Geest. & Enderle SPECIES
-=======
+# Mycena caliginosa Maas Geest. & Enderle SPECIES
 
 #### Status
 ACCEPTED

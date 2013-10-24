@@ -1,5 +1,4 @@
-Puccinia trochomeriae Cooke SPECIES
-=======
+# Puccinia trochomeriae Cooke SPECIES
 
 #### Status
 ACCEPTED

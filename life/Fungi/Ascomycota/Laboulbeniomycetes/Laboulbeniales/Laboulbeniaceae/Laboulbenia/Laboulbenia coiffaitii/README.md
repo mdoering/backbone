@@ -1,17 +1,16 @@
-Laboulbenia coiffaiti Balazuc ex Balazuc SPECIES
-=======
+# Laboulbenia coiffaitii Balazuc ex Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. mens. Soc. linn. Lyon 43(1): 19 (1974)
 
 #### Original name
-Laboulbenia coiffaiti Balazuc ex Balazuc
+Laboulbenia coiffaitii Balazuc ex Balazuc
 
 ### Remarks
 null

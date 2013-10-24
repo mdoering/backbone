@@ -1,5 +1,4 @@
-Crepidotus valdivianus E. Horak SPECIES
-=======
+# Crepidotus valdivianus E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cladonia deformis f. gonecha Ach. FORM
-=======
+# Cladonia sulphurina (Michx.) Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. eur. reform. (Lund) 237 (1831)
 
 #### Original name
-Cladonia deformis f. gonecha Ach.
+Scyphophorus sulphurinus Michx.
 
 ### Remarks
 null

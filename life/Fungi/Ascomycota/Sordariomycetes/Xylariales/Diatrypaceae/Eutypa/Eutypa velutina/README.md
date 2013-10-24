@@ -1,14 +1,13 @@
-Valsa velutina (Wallr.) Chernetsk., 1929 SPECIES
-=======
+# Eutypa velutina (Wallr.) Sacc., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trudy Severo-Kavkazskoi Assotsiatisii Nauchno-Issledovatel'skikh Institutov, no. 52: 55 (1929)
+Fungi venet. nov. vel. Crit. 16 (1875)
 
 #### Original name
 Sphaeria velutina Wallr., 1833

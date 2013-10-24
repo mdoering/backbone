@@ -1,14 +1,13 @@
-Mollisia solidaginis P. Karst. SPECIES
-=======
+# Pyrenopeziza solidaginis (P. Karst.) J. Schröt., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(12): 114 (1893)
 
 #### Original name
 Mollisia solidaginis P. Karst.

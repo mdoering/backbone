@@ -1,5 +1,4 @@
-Buellia subgranularis H. Magn. SPECIES
-=======
+# Buellia subgranularis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Coccolithus subdistichus (Roth & Hay in Hay et al., 1967) Bukry et al., 1971 SPECIES
-=======
+# Ericsonia subdisticha (Roth & Hay in Hay et al., 1967) Roth in Baumann & Roth, 1969 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

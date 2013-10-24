@@ -1,5 +1,4 @@
-Heterolagynion Pascher, 1912 GENUS
-=======
+# Heterolagynion Pascher, 1912 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium macrotrichum (Corda) S. Hughes SPECIES
-=======
+# Sporidesmium macrotrichum (Corda) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

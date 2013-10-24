@@ -1,5 +1,4 @@
-Phoma fraxinifolii Allesch. SPECIES
-=======
+# Phoma fraxinifolii Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimastigamoeba vorax Massart SPECIES
-=======
+# Dimastigamoeba vorax Massart SPECIES
 
 #### Status
 ACCEPTED

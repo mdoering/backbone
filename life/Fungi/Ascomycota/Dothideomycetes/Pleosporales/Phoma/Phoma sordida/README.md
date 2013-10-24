@@ -1,5 +1,4 @@
-Phoma sordida Sacc. SPECIES
-=======
+# Phoma sordida Sacc. SPECIES
 
 #### Status
 ACCEPTED

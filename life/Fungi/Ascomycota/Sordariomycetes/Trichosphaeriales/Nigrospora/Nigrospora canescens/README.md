@@ -1,5 +1,4 @@
-Nigrospora canescens McLennan & Hoëtte SPECIES
-=======
+# Nigrospora canescens McLennan & Hoëtte SPECIES
 
 #### Status
 ACCEPTED

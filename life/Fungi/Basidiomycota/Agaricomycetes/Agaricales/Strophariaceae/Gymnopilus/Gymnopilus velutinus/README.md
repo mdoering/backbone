@@ -1,5 +1,4 @@
-Gymnopilus velutinus (Petch) Singer SPECIES
-=======
+# Gymnopilus velutinus (Petch) Singer SPECIES
 
 #### Status
 ACCEPTED

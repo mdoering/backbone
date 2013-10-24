@@ -1,17 +1,16 @@
-Verrucaria microbola Tuck. SPECIES
-=======
+# Thelidium fontigenum A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Drummond, Can. Natural. , NS 7: 221 (1875)
+Miscell. Lich. 31 (1856)
 
 #### Original name
-Verrucaria microbola Tuck.
+Thelidium fontigenum A. Massal.
 
 ### Remarks
 null

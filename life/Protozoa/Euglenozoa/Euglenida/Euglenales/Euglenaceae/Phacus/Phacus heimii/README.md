@@ -1,5 +1,4 @@
-Phacus heimii Lefèvre SPECIES
-=======
+# Phacus heimii Lefèvre SPECIES
 
 #### Status
 ACCEPTED

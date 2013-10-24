@@ -1,5 +1,4 @@
-Isaria sphingophila Link SPECIES
-=======
+# Isaria sphingophila Link SPECIES
 
 #### Status
 ACCEPTED

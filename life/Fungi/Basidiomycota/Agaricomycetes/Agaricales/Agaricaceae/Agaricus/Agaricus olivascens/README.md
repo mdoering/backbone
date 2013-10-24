@@ -1,5 +1,4 @@
-Agaricus olivascens var. viridis Alb. & Schwein. VARIETY
-=======
+# Agaricus olivascens Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Consp. fung. (Leipzig) 215 (1805)
+Elench. fung. (Halle), cont. sec. 3, tab. 31:185 (1789)
 
 #### Original name
-Agaricus olivascens var. viridis Alb. & Schwein.
+Agaricus olivascens Pers.
 
 ### Remarks
 null

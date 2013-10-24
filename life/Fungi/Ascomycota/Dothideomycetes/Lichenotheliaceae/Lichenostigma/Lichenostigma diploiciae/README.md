@@ -1,5 +1,4 @@
-Lichenostigma diploiciae Calat., Nav.-Ros. & Hafellner SPECIES
-=======
+# Lichenostigma diploiciae Calat., Nav.-Ros. & Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria fiorii D. Sacc. SPECIES
-=======
+# Naucoria fiorii D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

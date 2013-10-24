@@ -1,5 +1,4 @@
-Rickia celaenopsis Thaxt. SPECIES
-=======
+# Rickia celaenopsis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

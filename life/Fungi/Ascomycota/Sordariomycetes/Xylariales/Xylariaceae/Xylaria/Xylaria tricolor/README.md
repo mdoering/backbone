@@ -1,5 +1,4 @@
-Xylaria tricolor Fr. SPECIES
-=======
+# Xylaria tricolor Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agrocybe karelica Singer SPECIES
-=======
+# Agrocybe karelica Singer SPECIES
 
 #### Status
 ACCEPTED

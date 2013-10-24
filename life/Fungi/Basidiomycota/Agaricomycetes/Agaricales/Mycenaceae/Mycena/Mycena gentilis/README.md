@@ -1,5 +1,4 @@
-Mycena gentilis Maas Geest. SPECIES
-=======
+# Mycena gentilis Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

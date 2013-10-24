@@ -1,5 +1,4 @@
-Epicoccum hyalopes I. Miyake SPECIES
-=======
+# Epicoccum hyalopes I. Miyake SPECIES
 
 #### Status
 ACCEPTED

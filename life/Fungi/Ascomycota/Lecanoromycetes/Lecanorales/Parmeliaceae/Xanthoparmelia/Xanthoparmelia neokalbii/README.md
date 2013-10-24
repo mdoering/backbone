@@ -1,5 +1,4 @@
-Xanthoparmelia neokalbii T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia neokalbii T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

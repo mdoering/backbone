@@ -1,5 +1,4 @@
-Eutypella nainitalensis Dargan & Bhatia SPECIES
-=======
+# Eutypella nainitalensis Dargan & Bhatia SPECIES
 
 #### Status
 ACCEPTED

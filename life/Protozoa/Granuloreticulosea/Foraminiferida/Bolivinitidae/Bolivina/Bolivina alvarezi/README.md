@@ -1,5 +1,4 @@
-Bolivina alvarezi SPECIES
-=======
+# Bolivina alvarezi SPECIES
 
 #### Status
 ACCEPTED

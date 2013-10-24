@@ -1,5 +1,4 @@
-Pertusaria diaziana A. Massal. SPECIES
-=======
+# Pertusaria diaziana A. Massal. SPECIES
 
 #### Status
 ACCEPTED

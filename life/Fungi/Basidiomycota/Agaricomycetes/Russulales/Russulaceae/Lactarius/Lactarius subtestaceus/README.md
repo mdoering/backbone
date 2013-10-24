@@ -1,17 +1,16 @@
-Lactaria subtestacea Murrill SPECIES
-=======
+# Lactarius subtestaceus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 66: 31 (1939)
 
 #### Original name
-Lactaria subtestacea Murrill
+Lactarius subtestaceus Murrill
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thelohania obesa R. Kudo SPECIES
-=======
+# Thelohania obesa R. Kudo SPECIES
 
 #### Status
 ACCEPTED

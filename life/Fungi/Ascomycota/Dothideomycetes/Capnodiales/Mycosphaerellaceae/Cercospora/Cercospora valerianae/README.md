@@ -1,5 +1,4 @@
-Cercospora valerianae (Siemaszko) U. Braun SPECIES
-=======
+# Cercospora valerianae (Siemaszko) U. Braun SPECIES
 
 #### Status
 ACCEPTED

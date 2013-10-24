@@ -1,5 +1,4 @@
-Compositosphaeridium polonicum (Gorka, 1965) Erkmen & Sarjeant SPECIES
-=======
+# Compositosphaeridium polonicum (Gorka, 1965) Erkmen & Sarjeant SPECIES
 
 #### Status
 ACCEPTED

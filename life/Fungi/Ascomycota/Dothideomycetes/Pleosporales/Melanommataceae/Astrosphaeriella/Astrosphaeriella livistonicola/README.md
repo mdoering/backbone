@@ -1,5 +1,4 @@
-Astrosphaeriella livistonicola K.D. Hyde & J. Fröhl. SPECIES
-=======
+# Astrosphaeriella livistonicola K.D. Hyde & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

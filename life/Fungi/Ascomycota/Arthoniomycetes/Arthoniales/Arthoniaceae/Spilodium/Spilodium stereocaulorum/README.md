@@ -1,5 +1,4 @@
-Spilodium stereocaulorum (Anzi) Nieuwl. SPECIES
-=======
+# Spilodium stereocaulorum (Anzi) Nieuwl. SPECIES
 
 #### Status
 ACCEPTED

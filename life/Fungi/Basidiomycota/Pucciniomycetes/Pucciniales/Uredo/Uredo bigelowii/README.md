@@ -1,5 +1,4 @@
-Uredo bigelowii (Thüm.) Arthur SPECIES
-=======
+# Uredo bigelowii (Thüm.) Arthur SPECIES
 
 #### Status
 ACCEPTED

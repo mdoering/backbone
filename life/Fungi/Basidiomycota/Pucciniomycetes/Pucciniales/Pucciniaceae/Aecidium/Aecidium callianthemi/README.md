@@ -1,5 +1,4 @@
-Aecidium callianthemi Murashk. SPECIES
-=======
+# Aecidium callianthemi Murashk. SPECIES
 
 #### Status
 ACCEPTED

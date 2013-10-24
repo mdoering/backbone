@@ -1,5 +1,4 @@
-Phaulomyces denticulatus Santam., 1992 SPECIES
-=======
+# Phaulomyces denticulatus Santam., 1992 SPECIES
 
 #### Status
 ACCEPTED

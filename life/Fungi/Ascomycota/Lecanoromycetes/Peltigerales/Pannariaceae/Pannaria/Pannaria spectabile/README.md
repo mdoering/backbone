@@ -1,5 +1,4 @@
-Pannaria spectabile Zahlbr. SPECIES
-=======
+# Pannaria spectabile Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

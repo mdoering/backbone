@@ -1,5 +1,4 @@
-Uromyces trichoneurae Doidge SPECIES
-=======
+# Uromyces trichoneurae Doidge SPECIES
 
 #### Status
 ACCEPTED

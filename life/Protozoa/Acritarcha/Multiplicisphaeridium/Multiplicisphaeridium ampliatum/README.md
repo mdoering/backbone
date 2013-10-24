@@ -1,5 +1,4 @@
-Multiplicisphaeridium ampliatum Playford, 1977 SPECIES
-=======
+# Multiplicisphaeridium ampliatum Playford, 1977 SPECIES
 
 #### Status
 ACCEPTED

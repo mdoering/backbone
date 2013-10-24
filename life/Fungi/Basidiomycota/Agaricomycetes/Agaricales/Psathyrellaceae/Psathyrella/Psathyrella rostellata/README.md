@@ -1,5 +1,4 @@
-Psathyrella rostellata Örstadius, 1986 SPECIES
-=======
+# Psathyrella rostellata Örstadius, 1986 SPECIES
 
 #### Status
 ACCEPTED

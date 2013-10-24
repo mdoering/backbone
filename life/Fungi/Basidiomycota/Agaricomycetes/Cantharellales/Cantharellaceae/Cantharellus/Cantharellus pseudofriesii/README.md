@@ -1,5 +1,4 @@
-Cantharellus pseudofriesii Heinem., 1958 SPECIES
-=======
+# Cantharellus pseudofriesii Heinem., 1958 SPECIES
 
 #### Status
 ACCEPTED

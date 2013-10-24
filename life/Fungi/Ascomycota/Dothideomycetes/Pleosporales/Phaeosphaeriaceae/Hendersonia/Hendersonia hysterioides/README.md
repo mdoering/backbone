@@ -1,5 +1,4 @@
-Hendersonia hysterioides P. Karst. SPECIES
-=======
+# Hendersonia hysterioides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

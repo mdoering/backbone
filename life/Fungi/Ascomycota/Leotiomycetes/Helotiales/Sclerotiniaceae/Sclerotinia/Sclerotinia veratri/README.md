@@ -1,5 +1,4 @@
-Sclerotinia veratri E.K. Cash & R.W. Davidson SPECIES
-=======
+# Sclerotinia veratri E.K. Cash & R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

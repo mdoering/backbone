@@ -1,5 +1,4 @@
-Lecidea lavicola H. Magn. SPECIES
-=======
+# Lecidea lavicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

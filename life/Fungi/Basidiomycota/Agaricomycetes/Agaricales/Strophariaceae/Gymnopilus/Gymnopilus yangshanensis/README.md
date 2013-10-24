@@ -1,5 +1,4 @@
-Gymnopilus yangshanensis Z.S. Bi SPECIES
-=======
+# Gymnopilus yangshanensis Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

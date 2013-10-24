@@ -1,5 +1,4 @@
-Lecidea glaucopa var. oculans (Nyl.) Zahlbr. VARIETY
-=======
+# Lecidea glaucopa Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+London J. Bot. 3: 637 (1844)
 
 #### Original name
-Lecidea oculans Nyl.
+Lecidea glaucopa Hook. f. & Taylor
 
 ### Remarks
 null

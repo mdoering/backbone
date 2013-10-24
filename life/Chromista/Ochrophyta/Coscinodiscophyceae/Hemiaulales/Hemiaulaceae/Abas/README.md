@@ -1,5 +1,4 @@
-Abas R.Ross & P.A.Sims, 1980 GENUS
-=======
+# Abas R.Ross & P.A.Sims, 1980 GENUS
 
 #### Status
 ACCEPTED

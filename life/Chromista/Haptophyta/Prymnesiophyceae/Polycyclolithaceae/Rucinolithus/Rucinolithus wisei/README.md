@@ -1,5 +1,4 @@
-Rucinolithus wisei Thierstein, 1971 SPECIES
-=======
+# Rucinolithus wisei Thierstein, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Crinipellis perniciosa var. perniciosa VARIETY
-=======
+# Moniliophthora perniciosa (Stahel) Aime & Phillips-Mora, 2006 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 97(5): 1021 (2006)
 
 #### Original name
-null
+Marasmius perniciosus Stahel, 1915
 
 ### Remarks
 null

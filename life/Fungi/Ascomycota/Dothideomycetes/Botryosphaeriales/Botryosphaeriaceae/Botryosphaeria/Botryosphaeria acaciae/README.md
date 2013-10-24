@@ -1,5 +1,4 @@
-Botryosphaeria acaciae (Hansf.) Dingley, 1970 SPECIES
-=======
+# Botryosphaeria acaciae (Hansf.) Dingley, 1970 SPECIES
 
 #### Status
 ACCEPTED

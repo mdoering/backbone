@@ -1,5 +1,4 @@
-Phyllachora flavocincta Rehm, 1897 SPECIES
-=======
+# Phyllachora flavocincta Rehm, 1897 SPECIES
 
 #### Status
 DOUBTFUL

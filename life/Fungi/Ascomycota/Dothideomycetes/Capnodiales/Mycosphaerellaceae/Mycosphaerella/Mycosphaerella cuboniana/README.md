@@ -1,5 +1,4 @@
-Mycosphaerella cuboniana (D. Sacc.) Tomilin SPECIES
-=======
+# Mycosphaerella cuboniana (D. Sacc.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

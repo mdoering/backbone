@@ -1,5 +1,4 @@
-Aspicilia rhizophora (Müll. Arg.) Hue SPECIES
-=======
+# Aspicilia rhizophora (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

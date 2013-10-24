@@ -1,5 +1,4 @@
-Puccinia metanarthecii Pat. SPECIES
-=======
+# Puccinia metanarthecii Pat. SPECIES
 
 #### Status
 ACCEPTED

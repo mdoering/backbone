@@ -1,5 +1,4 @@
-Lysurus pusillus Coker SPECIES
-=======
+# Lysurus pusillus Coker SPECIES
 
 #### Status
 ACCEPTED

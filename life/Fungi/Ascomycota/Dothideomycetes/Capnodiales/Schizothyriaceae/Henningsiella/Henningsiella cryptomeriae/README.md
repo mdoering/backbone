@@ -1,5 +1,4 @@
-Henningsiella cryptomeriae Sawada SPECIES
-=======
+# Henningsiella cryptomeriae Sawada SPECIES
 
 #### Status
 ACCEPTED

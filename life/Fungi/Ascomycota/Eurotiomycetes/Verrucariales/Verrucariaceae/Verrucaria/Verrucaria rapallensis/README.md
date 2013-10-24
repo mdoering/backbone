@@ -1,5 +1,4 @@
-Verrucaria rapallensis Servít SPECIES
-=======
+# Verrucaria rapallensis Servít SPECIES
 
 #### Status
 ACCEPTED

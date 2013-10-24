@@ -1,5 +1,4 @@
-Humarina pallens (Boud.) Seaver SPECIES
-=======
+# Humarina pallens (Boud.) Seaver SPECIES
 
 #### Status
 ACCEPTED

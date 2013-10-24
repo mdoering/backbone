@@ -1,5 +1,4 @@
-Acrostalagmus characeus (Corda) Sacc. SPECIES
-=======
+# Acrostalagmus characeus (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

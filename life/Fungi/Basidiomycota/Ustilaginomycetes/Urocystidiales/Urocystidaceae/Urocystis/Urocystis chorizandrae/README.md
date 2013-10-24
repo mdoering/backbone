@@ -1,5 +1,4 @@
-Urocystis chorizandrae Cunningt., R.G. Shivas & Vánky, 2003 SPECIES
-=======
+# Urocystis chorizandrae Cunningt., R.G. Shivas & Vánky, 2003 SPECIES
 
 #### Status
 ACCEPTED

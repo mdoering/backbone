@@ -1,5 +1,4 @@
-Lecidea subkochiana Leight. SPECIES
-=======
+# Lecidea subkochiana Leight. SPECIES
 
 #### Status
 ACCEPTED

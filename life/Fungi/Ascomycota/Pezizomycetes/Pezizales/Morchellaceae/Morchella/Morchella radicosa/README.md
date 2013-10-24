@@ -1,5 +1,4 @@
-Morchella radicosa Leuba SPECIES
-=======
+# Morchella radicosa Leuba SPECIES
 
 #### Status
 ACCEPTED

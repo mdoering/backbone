@@ -1,5 +1,4 @@
-Sporoctomorpha J.V. Almeida & Sousa da Câmara GENUS
-=======
+# Sporoctomorpha J.V. Almeida & Sousa da Câmara GENUS
 
 #### Status
 ACCEPTED

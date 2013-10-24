@@ -1,5 +1,4 @@
-Caloplaca commixta (Malme) Zahlbr. SPECIES
-=======
+# Caloplaca commixta (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

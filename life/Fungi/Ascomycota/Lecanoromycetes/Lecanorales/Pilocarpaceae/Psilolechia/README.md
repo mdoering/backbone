@@ -1,5 +1,4 @@
-Psilolechia A. Massal. GENUS
-=======
+# Psilolechia A. Massal. GENUS
 
 #### Status
 ACCEPTED

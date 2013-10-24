@@ -1,5 +1,4 @@
-Cortinarius diosmoides Rob. Henry SPECIES
-=======
+# Cortinarius diosmoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

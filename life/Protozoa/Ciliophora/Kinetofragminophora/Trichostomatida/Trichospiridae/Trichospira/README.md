@@ -1,5 +1,4 @@
-Trichospira Roux, 1899 GENUS
-=======
+# Trichospira Roux, 1899 GENUS
 
 #### Status
 ACCEPTED

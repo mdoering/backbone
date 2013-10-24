@@ -1,5 +1,4 @@
-Dimerosporium orbiculatum McAlpine SPECIES
-=======
+# Dimerosporium orbiculatum McAlpine SPECIES
 
 #### Status
 ACCEPTED

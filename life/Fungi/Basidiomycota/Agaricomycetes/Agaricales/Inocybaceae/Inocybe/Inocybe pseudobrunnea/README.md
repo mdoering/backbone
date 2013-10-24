@@ -1,5 +1,4 @@
-Inocybe pseudobrunnea Alessio SPECIES
-=======
+# Inocybe pseudobrunnea Alessio SPECIES
 
 #### Status
 ACCEPTED

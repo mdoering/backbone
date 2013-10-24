@@ -1,5 +1,4 @@
-Hansfordiellopsis aburiensis Deighton, 1960 SPECIES
-=======
+# Hansfordiellopsis aburiensis Deighton, 1960 SPECIES
 
 #### Status
 ACCEPTED

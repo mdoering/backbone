@@ -1,5 +1,4 @@
-Lycoperdon flavum Massee SPECIES
-=======
+# Lycoperdon flavum Massee SPECIES
 
 #### Status
 ACCEPTED

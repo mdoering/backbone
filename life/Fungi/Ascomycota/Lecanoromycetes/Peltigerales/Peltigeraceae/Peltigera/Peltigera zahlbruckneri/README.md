@@ -1,5 +1,4 @@
-Peltigera zahlbruckneri var. zahlbruckneri VARIETY
-=======
+# Peltigera zahlbruckneri Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltigera zahlbruckneri var. zahlbruckneri
+Peltigera zahlbruckneri Gyeln.
 
 ### Remarks
 null

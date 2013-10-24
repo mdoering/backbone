@@ -1,5 +1,4 @@
-Pistillaria peronata (Pers.) Corner SPECIES
-=======
+# Pistillaria peronata (Pers.) Corner SPECIES
 
 #### Status
 ACCEPTED

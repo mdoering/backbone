@@ -1,5 +1,4 @@
-Entoloma nanosordidum E. Horak & Desjardin SPECIES
-=======
+# Entoloma nanosordidum E. Horak & Desjardin SPECIES
 
 #### Status
 ACCEPTED

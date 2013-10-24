@@ -1,5 +1,4 @@
-Entoloma intermixtum Berk. & Broome SPECIES
-=======
+# Entoloma intermixtum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

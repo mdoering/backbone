@@ -1,5 +1,4 @@
-Encoelia fuckelii Dennis, 1971 SPECIES
-=======
+# Encoelia fuckelii Dennis, 1971 SPECIES
 
 #### Status
 ACCEPTED

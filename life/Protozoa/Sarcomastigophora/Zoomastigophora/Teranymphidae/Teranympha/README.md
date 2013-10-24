@@ -1,14 +1,13 @@
-Teratonympha Koidzumi, 1921 GENUS
-=======
+# Teranympha Koidzumi, 1917 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Parasitology, 13, 261.
+Dairokkai Hakugi Chosa Hokoku (Rep. Termites, 6), 107.
 
 #### Original name
 null

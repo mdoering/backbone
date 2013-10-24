@@ -1,5 +1,4 @@
-Endomyces enterica Castell. SPECIES
-=======
+# Endomyces enterica Castell. SPECIES
 
 #### Status
 ACCEPTED

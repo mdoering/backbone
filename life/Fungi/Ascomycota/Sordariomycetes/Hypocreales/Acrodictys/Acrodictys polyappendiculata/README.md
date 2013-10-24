@@ -1,5 +1,4 @@
-Acrodictys polyappendiculata J. L. Chen & Tzean SPECIES
-=======
+# Acrodictys polyappendiculata J. L. Chen & Tzean SPECIES
 
 #### Status
 ACCEPTED

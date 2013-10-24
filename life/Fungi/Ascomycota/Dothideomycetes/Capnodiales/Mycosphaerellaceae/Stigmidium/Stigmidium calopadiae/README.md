@@ -1,5 +1,4 @@
-Stigmidium calopadiae Matzer SPECIES
-=======
+# Stigmidium calopadiae Matzer SPECIES
 
 #### Status
 ACCEPTED

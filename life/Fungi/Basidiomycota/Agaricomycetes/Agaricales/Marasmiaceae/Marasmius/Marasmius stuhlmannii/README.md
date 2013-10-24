@@ -1,17 +1,16 @@
-Marasmius stuhlmanni Henn. SPECIES
-=======
+# Marasmius stuhlmannii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 17: 32 (1893)
 
 #### Original name
-Marasmius stuhlmanni Henn.
+Marasmius stuhlmannii Henn.
 
 ### Remarks
 null

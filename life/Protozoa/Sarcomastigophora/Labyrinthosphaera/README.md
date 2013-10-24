@@ -1,5 +1,4 @@
-Labyrinthosphaera Noble & Maletz, 2000 GENUS
-=======
+# Labyrinthosphaera Noble & Maletz, 2000 GENUS
 
 #### Status
 ACCEPTED

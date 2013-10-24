@@ -1,5 +1,4 @@
-Apiosordaria vestita Udagawa & Y. Horie, 1982 SPECIES
-=======
+# Apiosordaria vestita Udagawa & Y. Horie, 1982 SPECIES
 
 #### Status
 ACCEPTED

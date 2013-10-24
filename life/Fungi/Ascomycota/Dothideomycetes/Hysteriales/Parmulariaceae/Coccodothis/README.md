@@ -1,5 +1,4 @@
-Coccodothis Theiss. & Syd. GENUS
-=======
+# Coccodothis Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

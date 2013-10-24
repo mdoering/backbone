@@ -1,5 +1,4 @@
-Phyllosticta indianensis J.M. Hook SPECIES
-=======
+# Phyllosticta indianensis J.M. Hook SPECIES
 
 #### Status
 ACCEPTED

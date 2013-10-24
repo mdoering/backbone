@@ -1,5 +1,4 @@
-Fusidium bryoniae Brunaud SPECIES
-=======
+# Fusidium bryoniae Brunaud SPECIES
 
 #### Status
 ACCEPTED

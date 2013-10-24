@@ -1,5 +1,4 @@
-Chaetomium torulosum Bainier, 1909 SPECIES
-=======
+# Chaetomium torulosum Bainier, 1909 SPECIES
 
 #### Status
 ACCEPTED

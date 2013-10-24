@@ -1,14 +1,13 @@
-Coprinus niveus subsp. astroideus (Fr.) Sacc. SUBSPECIES
-=======
+# Coprinus astroideus (Fr.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 12: 935 (1887)
+Epicr. syst. mycol. (Upsaliae) 247 (1838)
 
 #### Original name
 Agaricus astroideus Fr., 1821

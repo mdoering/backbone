@@ -1,5 +1,4 @@
-Hyalodiscus lentiginosus J. John, 1982 SPECIES
-=======
+# Hyalodiscus lentiginosus J. John, 1982 SPECIES
 
 #### Status
 ACCEPTED

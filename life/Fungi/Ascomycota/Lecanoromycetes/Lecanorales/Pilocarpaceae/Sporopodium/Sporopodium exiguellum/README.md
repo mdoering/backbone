@@ -1,5 +1,4 @@
-Sporopodium exiguellum var. exiguellum VARIETY
-=======
+# Sporopodium exiguellum Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Acad. Sci. fenn. , Ser. A 15: 96 (1921)
 
 #### Original name
-Sporopodium exiguellum var. exiguellum
+Sporopodium exiguellum Vain.
 
 ### Remarks
 null

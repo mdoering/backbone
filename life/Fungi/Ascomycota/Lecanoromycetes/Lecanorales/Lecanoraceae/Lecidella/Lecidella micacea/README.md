@@ -1,5 +1,4 @@
-Lecidella micacea Körb. SPECIES
-=======
+# Lecidella micacea Körb. SPECIES
 
 #### Status
 ACCEPTED

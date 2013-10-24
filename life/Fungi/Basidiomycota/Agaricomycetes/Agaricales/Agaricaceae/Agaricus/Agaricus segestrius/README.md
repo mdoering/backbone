@@ -1,5 +1,4 @@
-Agaricus segestrius Fr. SPECIES
-=======
+# Agaricus segestrius Fr. SPECIES
 
 #### Status
 ACCEPTED

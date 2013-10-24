@@ -1,5 +1,4 @@
-Sporidesmium delavayae Cheng K. Shi & X.G. Zhang SPECIES
-=======
+# Sporidesmium delavayae Cheng K. Shi & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

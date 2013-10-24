@@ -1,5 +1,4 @@
-Discoaster musicus Stradner, 1959 SPECIES
-=======
+# Discoaster musicus Stradner, 1959 SPECIES
 
 #### Status
 ACCEPTED

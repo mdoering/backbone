@@ -1,5 +1,4 @@
-Ditremis harrisii Makhija & Patw. SPECIES
-=======
+# Ditremis harrisii Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acrothecium arnaudii Zeller & Tóth SPECIES
-=======
+# Acrothecium arnaudii Zeller & Tóth SPECIES
 
 #### Status
 ACCEPTED

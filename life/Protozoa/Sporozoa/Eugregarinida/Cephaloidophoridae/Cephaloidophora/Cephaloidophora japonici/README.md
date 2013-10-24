@@ -1,8 +1,7 @@
-Carcinoecetes japonicus H. Hoshide, 1958 SPECIES
-=======
+# Cephaloidophora japonici Hoshide, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Govindua Bat. & H. Maia GENUS
-=======
+# Govindua Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

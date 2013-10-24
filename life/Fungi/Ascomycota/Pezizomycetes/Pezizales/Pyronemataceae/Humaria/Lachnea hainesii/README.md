@@ -1,5 +1,4 @@
-Lachnea hainesii (Ellis) Sacc. SPECIES
-=======
+# Lachnea hainesii (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

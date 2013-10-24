@@ -1,5 +1,4 @@
-Phellinus piptadeniae Teixeira SPECIES
-=======
+# Phellinus piptadeniae Teixeira SPECIES
 
 #### Status
 ACCEPTED

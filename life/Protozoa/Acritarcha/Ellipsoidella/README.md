@@ -1,5 +1,4 @@
-Ellipsoidella P. Palik, 1966 GENUS
-=======
+# Ellipsoidella P. Palik, 1966 GENUS
 
 #### Status
 ACCEPTED

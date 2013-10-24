@@ -1,14 +1,13 @@
-Didymosphaeria sadasivanii K.R.C. Reddy, 1962 SPECIES
-=======
+# Didymocrea sadasivanii (T.K.R. Reddy) Kowalski, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 53(5): 471 (1962)
+Mycologia 57(3): 405 (1965)
 
 #### Original name
 Didymosphaeria sadasivanii K.R.C. Reddy, 1962

@@ -1,5 +1,4 @@
-Inocybe griseovelata Kühner SPECIES
-=======
+# Inocybe griseovelata Kühner SPECIES
 
 #### Status
 ACCEPTED

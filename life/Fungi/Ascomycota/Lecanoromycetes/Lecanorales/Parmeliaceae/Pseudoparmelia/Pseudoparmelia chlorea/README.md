@@ -1,17 +1,16 @@
-Parmelia subschenckiana Gyeln. SPECIES
-=======
+# Pseudoparmelia chlorea (Stizenb.) Krog & Swinscow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 19(4): 424 (1987)
 
 #### Original name
-null
+Parmelia chlorea Stizenb.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycosphaerella guttiferae Miles SPECIES
-=======
+# Mycosphaerella guttiferae Miles SPECIES
 
 #### Status
 ACCEPTED

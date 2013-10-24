@@ -1,5 +1,4 @@
-Anamika indica K.A. Thomas, Peintner, M.M. Moser & Manim., 2002 SPECIES
-=======
+# Anamika indica K.A. Thomas, Peintner, M.M. Moser & Manim., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius purpureoluteus Lamoure SPECIES
-=======
+# Cortinarius purpureoluteus Lamoure SPECIES
 
 #### Status
 ACCEPTED

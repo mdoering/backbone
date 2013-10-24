@@ -1,17 +1,16 @@
-Parmelia shinanoana f. shinanoana Zahlbr. FORM
-=======
+# Parmelia shinanoana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Parmelia shinanoana f. shinanoana Zahlbr.
+Parmelia shinanoana Zahlbr.
 
 ### Remarks
 null

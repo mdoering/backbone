@@ -1,5 +1,4 @@
-Diplodina arctii Czerepan. SPECIES
-=======
+# Diplodina arctii Czerepan. SPECIES
 
 #### Status
 ACCEPTED

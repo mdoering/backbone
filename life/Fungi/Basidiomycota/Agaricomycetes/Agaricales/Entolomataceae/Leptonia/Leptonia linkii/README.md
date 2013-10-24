@@ -1,5 +1,4 @@
-Leptonia linkii (Fr.) Sacc. SPECIES
-=======
+# Leptonia linkii (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

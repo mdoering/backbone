@@ -1,5 +1,4 @@
-Placodium saxorum Flagey SPECIES
-=======
+# Placodium saxorum Flagey SPECIES
 
 #### Status
 ACCEPTED

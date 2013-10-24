@@ -1,5 +1,4 @@
-Colletotrichum typhae H.C. Greene, 1956 SPECIES
-=======
+# Colletotrichum typhae H.C. Greene, 1956 SPECIES
 
 #### Status
 ACCEPTED

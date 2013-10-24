@@ -1,5 +1,4 @@
-Libertella parva Fautrey & Lambotte, 1894 SPECIES
-=======
+# Libertella parva Fautrey & Lambotte, 1894 SPECIES
 
 #### Status
 ACCEPTED

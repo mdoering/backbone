@@ -1,5 +1,4 @@
-Cercidospora galligena Hafellner, 2009 SPECIES
-=======
+# Cercidospora galligena Hafellner, 2009 SPECIES
 
 #### Status
 ACCEPTED

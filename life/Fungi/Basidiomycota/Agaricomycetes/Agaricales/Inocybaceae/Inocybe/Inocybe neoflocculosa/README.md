@@ -1,5 +1,4 @@
-Inocybe neoflocculosa Kobayasi SPECIES
-=======
+# Inocybe neoflocculosa Kobayasi SPECIES
 
 #### Status
 ACCEPTED

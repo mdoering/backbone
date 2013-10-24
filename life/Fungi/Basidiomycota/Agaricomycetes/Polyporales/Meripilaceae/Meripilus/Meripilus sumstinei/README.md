@@ -1,14 +1,13 @@
-Polyporus sumstinei (Murrill) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Meripilus sumstinei (Murrill) M.J. Larsen & Lombard, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 17: 108 (1905)
+Mycologia 80(5): 615 (1988)
 
 #### Original name
 Grifola sumstinei Murrill, 1904

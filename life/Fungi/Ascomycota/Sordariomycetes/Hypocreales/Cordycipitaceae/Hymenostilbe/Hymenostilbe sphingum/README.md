@@ -1,5 +1,4 @@
-Hymenostilbe sphingum (Schwein.) Petch SPECIES
-=======
+# Hymenostilbe sphingum (Schwein.) Petch SPECIES
 
 #### Status
 ACCEPTED

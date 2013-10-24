@@ -1,5 +1,4 @@
-Pestalotia pallidicolor Speg. SPECIES
-=======
+# Pestalotia pallidicolor Speg. SPECIES
 
 #### Status
 ACCEPTED

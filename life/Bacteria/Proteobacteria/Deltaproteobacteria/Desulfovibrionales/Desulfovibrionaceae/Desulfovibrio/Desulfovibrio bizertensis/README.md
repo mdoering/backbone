@@ -1,5 +1,4 @@
-Desulfovibrio bizertensis Haouari, Fardeau, Casalot, Tholozan, Hamdi & Olliver, 2006 SPECIES
-=======
+# Desulfovibrio bizertensis Haouari, Fardeau, Casalot, Tholozan, Hamdi & Olliver, 2006 SPECIES
 
 #### Status
 ACCEPTED

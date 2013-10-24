@@ -1,5 +1,4 @@
-Corethromyces cornutus Thaxt. SPECIES
-=======
+# Corethromyces cornutus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

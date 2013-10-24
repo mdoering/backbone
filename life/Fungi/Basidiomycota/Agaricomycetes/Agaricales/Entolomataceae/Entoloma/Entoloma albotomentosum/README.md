@@ -1,5 +1,4 @@
-Entoloma albotomentosum Noordel. & Hauskn., 1989 SPECIES
-=======
+# Entoloma albotomentosum Noordel. & Hauskn., 1989 SPECIES
 
 #### Status
 ACCEPTED

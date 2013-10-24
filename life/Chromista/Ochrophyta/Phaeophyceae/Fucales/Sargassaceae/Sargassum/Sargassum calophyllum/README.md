@@ -1,5 +1,4 @@
-Sargassum calophyllum De Notaris SPECIES
-=======
+# Sargassum calophyllum De Notaris SPECIES
 
 #### Status
 ACCEPTED

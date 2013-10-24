@@ -1,5 +1,4 @@
-Mycena latifolia (Peck) A.H. Sm. SPECIES
-=======
+# Mycena latifolia (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

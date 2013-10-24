@@ -1,5 +1,4 @@
-Marasmius abrubtipes Corner SPECIES
-=======
+# Marasmius abrubtipes Corner SPECIES
 
 #### Status
 ACCEPTED

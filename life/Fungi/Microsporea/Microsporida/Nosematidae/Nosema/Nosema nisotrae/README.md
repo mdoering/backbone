@@ -1,5 +1,4 @@
-Nosema nisotrae B.S. Toguebaye & B. Marchand SPECIES
-=======
+# Nosema nisotrae B.S. Toguebaye & B. Marchand SPECIES
 
 #### Status
 ACCEPTED

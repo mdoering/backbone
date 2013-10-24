@@ -1,5 +1,4 @@
-Aspergillus roseovelutinus Kamyschko SPECIES
-=======
+# Aspergillus roseovelutinus Kamyschko SPECIES
 
 #### Status
 ACCEPTED

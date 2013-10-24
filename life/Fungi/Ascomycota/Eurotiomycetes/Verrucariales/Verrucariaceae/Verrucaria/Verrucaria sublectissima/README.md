@@ -1,5 +1,4 @@
-Verrucaria sublectissima Nyl. SPECIES
-=======
+# Verrucaria sublectissima Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus samarensis Pilát SPECIES
-=======
+# Lentinus samarensis Pilát SPECIES
 
 #### Status
 ACCEPTED

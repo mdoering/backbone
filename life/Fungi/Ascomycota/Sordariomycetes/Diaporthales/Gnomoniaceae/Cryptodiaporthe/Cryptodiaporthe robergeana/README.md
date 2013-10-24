@@ -1,17 +1,16 @@
-Plagiostoma robergeanum (Desm.) Sogonov, 2008 SPECIES
-=======
+# Cryptodiaporthe robergeana (Desm.) Wehm., 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monograph of the Genus Diaporthe Nitschke & its Segregates 200 (1933)
 
 #### Original name
-null
+Sphaeria robergeana Desm., 1850
 
 ### Remarks
 null

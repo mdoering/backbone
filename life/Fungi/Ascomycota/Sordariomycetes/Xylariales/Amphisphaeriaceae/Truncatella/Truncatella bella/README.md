@@ -1,5 +1,4 @@
-Truncatella bella Bat., 1960 SPECIES
-=======
+# Truncatella bella Bat., 1960 SPECIES
 
 #### Status
 ACCEPTED

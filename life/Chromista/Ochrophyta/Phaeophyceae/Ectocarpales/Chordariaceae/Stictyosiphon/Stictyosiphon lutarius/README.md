@@ -1,5 +1,4 @@
-Stictyosiphon lutarius W.R. Taylor SPECIES
-=======
+# Stictyosiphon lutarius W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

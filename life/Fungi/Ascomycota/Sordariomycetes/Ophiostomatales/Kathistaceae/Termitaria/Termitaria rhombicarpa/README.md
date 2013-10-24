@@ -1,5 +1,4 @@
-Termitaria rhombicarpa Kimbr. & M. Lenz SPECIES
-=======
+# Termitaria rhombicarpa Kimbr. & M. Lenz SPECIES
 
 #### Status
 ACCEPTED

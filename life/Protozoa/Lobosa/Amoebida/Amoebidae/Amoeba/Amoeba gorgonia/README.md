@@ -1,5 +1,4 @@
-Amoeba gorgonia Pen. SPECIES
-=======
+# Amoeba gorgonia Pen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia phormicola P. Hermansaez {?} SPECIES
-=======
+# Diplodia phormicola P. Hermansaez {?} SPECIES
 
 #### Status
 ACCEPTED

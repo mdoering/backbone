@@ -1,5 +1,4 @@
-Leiosphaeridia volynica Timofeev, 1973 SPECIES
-=======
+# Leiosphaeridia volynica Timofeev, 1973 SPECIES
 
 #### Status
 ACCEPTED

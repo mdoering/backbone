@@ -1,14 +1,13 @@
-Disciseda ater (Lloyd) Zeller SPECIES
-=======
+# Disciseda atra (Lloyd) Zeller SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 39(3): 307 (1947)
 
 #### Original name
 Catastoma atra Lloyd

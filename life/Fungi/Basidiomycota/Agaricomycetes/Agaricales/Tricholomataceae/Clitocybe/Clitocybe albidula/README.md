@@ -1,5 +1,4 @@
-Clitocybe albidula Peck SPECIES
-=======
+# Clitocybe albidula Peck SPECIES
 
 #### Status
 ACCEPTED

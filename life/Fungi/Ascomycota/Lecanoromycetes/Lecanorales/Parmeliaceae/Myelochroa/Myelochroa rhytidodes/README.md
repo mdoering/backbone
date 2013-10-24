@@ -1,17 +1,16 @@
-Parmelina rhytidodes Hale SPECIES
-=======
+# Myelochroa rhytidodes (Hale) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 29: 241 (1987)
 
 #### Original name
-null
+Parmelina rhytidodes Hale
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Graphis pseudoserpens Chaves & Lücking SPECIES
-=======
+# Graphis pseudoserpens Chaves & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tephrocybe graminicola Bon SPECIES
-=======
+# Tephrocybe graminicola Bon SPECIES
 
 #### Status
 ACCEPTED

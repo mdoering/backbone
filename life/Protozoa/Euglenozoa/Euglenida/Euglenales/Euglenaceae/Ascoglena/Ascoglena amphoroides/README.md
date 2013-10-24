@@ -1,8 +1,7 @@
-Ascoglena vaginicola var. amphoroides Francé VARIETY
-=======
+# Ascoglena amphoroides (Francé) Lemmermann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

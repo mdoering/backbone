@@ -1,17 +1,16 @@
-Pyrenula nova-granadensis Upreti & Ajay Singh SPECIES
-=======
+# Pyrenula novae-granadensis Upreti & Ajay Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 57(3-4): 465 (1993)
 
 #### Original name
-Pyrenula nova-granadensis Upreti & Ajay Singh
+Pyrenula novae-granadensis Upreti & Ajay Singh
 
 ### Remarks
 null

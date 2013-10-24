@@ -1,5 +1,4 @@
-Taeniocystis Léger, 1905 GENUS
-=======
+# Taeniocystis Léger, 1905 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium ranunculi-lyallii G. Cunn., 1930 SPECIES
-=======
+# Aecidium ranunculi-lyallii G. Cunn., 1930 SPECIES
 
 #### Status
 ACCEPTED

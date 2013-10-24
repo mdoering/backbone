@@ -1,5 +1,4 @@
-Acarospora bornmuelleri J. Steiner SPECIES
-=======
+# Acarospora bornmuelleri J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma maroccanum Maire SPECIES
-=======
+# Entyloma maroccanum Maire SPECIES
 
 #### Status
 ACCEPTED

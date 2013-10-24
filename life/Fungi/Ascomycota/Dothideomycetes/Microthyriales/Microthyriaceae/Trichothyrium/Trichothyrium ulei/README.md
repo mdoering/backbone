@@ -1,5 +1,4 @@
-Trichothyrium ulei (Henn.) Höhn. SPECIES
-=======
+# Trichothyrium ulei (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

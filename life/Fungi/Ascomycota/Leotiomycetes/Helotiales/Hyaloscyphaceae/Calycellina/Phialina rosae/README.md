@@ -1,5 +1,4 @@
-Phialina rosae Raitv. SPECIES
-=======
+# Phialina rosae Raitv. SPECIES
 
 #### Status
 ACCEPTED

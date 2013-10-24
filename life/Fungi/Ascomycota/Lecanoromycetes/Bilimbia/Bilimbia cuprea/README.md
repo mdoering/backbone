@@ -1,5 +1,4 @@
-Bilimbia cuprea f. cuprea FORM
-=======
+# Bilimbia cuprea SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Lotos 6: 77 (1856)
+null
 
 #### Original name
-Bilimbia cuprea f. cuprea
+null
 
 ### Remarks
 null

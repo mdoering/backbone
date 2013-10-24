@@ -1,5 +1,4 @@
-Alectoria arctica Elenkin & Savicz SPECIES
-=======
+# Alectoria arctica Elenkin & Savicz SPECIES
 
 #### Status
 ACCEPTED

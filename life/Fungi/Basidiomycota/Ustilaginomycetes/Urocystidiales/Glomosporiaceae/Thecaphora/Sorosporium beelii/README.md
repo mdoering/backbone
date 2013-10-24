@@ -1,5 +1,4 @@
-Sorosporium beelii var. beelii VARIETY
-=======
+# Sorosporium beelii Zundel SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bothalia 3: 307 (1938)
 
 #### Original name
-Sorosporium beelii var. beelii
+Sorosporium panici E. Mackinnon, 1912
 
 ### Remarks
 null

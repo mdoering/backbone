@@ -1,5 +1,4 @@
-Agaricus cymbalifer Mont. SPECIES
-=======
+# Agaricus cymbalifer Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scaphidiomyces baeocerae Thaxt., 1912 SPECIES
-=======
+# Scaphidiomyces baeocerae Thaxt., 1912 SPECIES
 
 #### Status
 ACCEPTED

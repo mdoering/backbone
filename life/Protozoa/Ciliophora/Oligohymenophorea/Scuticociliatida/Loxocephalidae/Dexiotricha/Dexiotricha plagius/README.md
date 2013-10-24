@@ -1,5 +1,4 @@
-Dexiotricha plagius Stokes, 1885 SPECIES
-=======
+# Dexiotricha plagius Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

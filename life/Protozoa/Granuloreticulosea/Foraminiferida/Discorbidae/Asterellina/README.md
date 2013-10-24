@@ -1,5 +1,4 @@
-Asterellina Anderson, 1963 GENUS
-=======
+# Asterellina Anderson, 1963 GENUS
 
 #### Status
 ACCEPTED

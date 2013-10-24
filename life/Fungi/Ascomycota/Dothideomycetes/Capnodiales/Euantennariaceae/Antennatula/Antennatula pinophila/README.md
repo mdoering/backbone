@@ -1,17 +1,16 @@
-Hormiscium pithyophilum f. pithyophilum (Wallr.) Sacc. FORM
-=======
+# Antennatula pinophila Fr., 1850 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 265 (1886)
+Flora, Jena 33(Beil. ): 99 (1850)
 
 #### Original name
-Hormiscium pithyophilum f. pithyophilum (Wallr.) Sacc.
+Antennatula pinophila Fr., 1850
 
 ### Remarks
 null

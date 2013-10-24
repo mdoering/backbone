@@ -1,5 +1,4 @@
-Lepiota cristatella (Peck) Sacc. SPECIES
-=======
+# Lepiota cristatella (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

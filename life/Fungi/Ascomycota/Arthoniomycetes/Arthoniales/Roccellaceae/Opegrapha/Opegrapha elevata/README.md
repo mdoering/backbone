@@ -1,5 +1,4 @@
-Opegrapha elevata DC. SPECIES
-=======
+# Opegrapha elevata DC. SPECIES
 
 #### Status
 ACCEPTED

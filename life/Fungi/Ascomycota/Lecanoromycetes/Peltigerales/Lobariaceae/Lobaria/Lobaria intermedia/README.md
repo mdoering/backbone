@@ -1,5 +1,4 @@
-Lobaria intermedia (Nyl.) Vain. SPECIES
-=======
+# Lobaria intermedia (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

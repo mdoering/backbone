@@ -1,5 +1,4 @@
-Buellia australissima Zahlbr. SPECIES
-=======
+# Buellia australissima Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

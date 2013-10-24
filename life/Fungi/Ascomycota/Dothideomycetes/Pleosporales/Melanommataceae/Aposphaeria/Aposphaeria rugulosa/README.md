@@ -1,5 +1,4 @@
-Aposphaeria rugulosa Sacc. SPECIES
-=======
+# Aposphaeria rugulosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

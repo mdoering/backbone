@@ -1,17 +1,16 @@
-Sphaceloma braziliensis Zundel SPECIES
-=======
+# Sphaceloma brasiliensis Zundel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 23(4): 297 (1931)
 
 #### Original name
-Sphaceloma braziliensis Zundel
+Sphaceloma brasiliensis Zundel
 
 ### Remarks
 null

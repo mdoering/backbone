@@ -1,5 +1,4 @@
-Barlaea melina Velen. SPECIES
-=======
+# Barlaea melina Velen. SPECIES
 
 #### Status
 ACCEPTED

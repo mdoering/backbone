@@ -1,5 +1,4 @@
-Russula singeriana Bon SPECIES
-=======
+# Russula singeriana Bon SPECIES
 
 #### Status
 ACCEPTED

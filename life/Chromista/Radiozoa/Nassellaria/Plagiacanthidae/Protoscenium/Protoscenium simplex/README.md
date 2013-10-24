@@ -1,5 +1,4 @@
-Protoscenium simplex Joergensen, 1905 SPECIES
-=======
+# Protoscenium simplex Joergensen, 1905 SPECIES
 
 #### Status
 ACCEPTED

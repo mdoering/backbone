@@ -1,5 +1,4 @@
-Polyactis infestans Hazsl. SPECIES
-=======
+# Polyactis infestans Hazsl. SPECIES
 
 #### Status
 ACCEPTED

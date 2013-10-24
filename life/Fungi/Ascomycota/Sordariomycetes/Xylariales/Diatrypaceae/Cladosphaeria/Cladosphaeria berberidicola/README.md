@@ -1,5 +1,4 @@
-Cladosphaeria berberidicola G.H. Otth SPECIES
-=======
+# Cladosphaeria berberidicola G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

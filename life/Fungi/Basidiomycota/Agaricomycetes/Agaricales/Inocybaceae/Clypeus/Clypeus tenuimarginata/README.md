@@ -1,5 +1,4 @@
-Clypeus tenuimarginata Britzelm. SPECIES
-=======
+# Clypeus tenuimarginata Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora oudemansii Henn. SPECIES
-=======
+# Rhabdospora oudemansii Henn. SPECIES
 
 #### Status
 ACCEPTED

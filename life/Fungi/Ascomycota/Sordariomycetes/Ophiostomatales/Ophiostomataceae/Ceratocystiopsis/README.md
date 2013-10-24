@@ -1,5 +1,4 @@
-Ceratocystiopsis GENUS
-=======
+# Ceratocystiopsis GENUS
 
 #### Status
 ACCEPTED

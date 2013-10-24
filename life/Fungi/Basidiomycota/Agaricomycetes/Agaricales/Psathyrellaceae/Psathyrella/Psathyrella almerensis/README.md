@@ -1,5 +1,4 @@
-Psathyrella almerensis Kits van Wav. SPECIES
-=======
+# Psathyrella almerensis Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

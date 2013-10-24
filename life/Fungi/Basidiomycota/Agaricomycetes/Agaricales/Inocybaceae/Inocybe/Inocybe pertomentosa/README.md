@@ -1,5 +1,4 @@
-Inocybe pertomentosa Murrill SPECIES
-=======
+# Inocybe pertomentosa Murrill SPECIES
 
 #### Status
 ACCEPTED

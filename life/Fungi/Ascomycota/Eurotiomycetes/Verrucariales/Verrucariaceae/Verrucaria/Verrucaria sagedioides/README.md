@@ -1,5 +1,4 @@
-Verrucaria sagedioides Servít SPECIES
-=======
+# Verrucaria sagedioides Servít SPECIES
 
 #### Status
 ACCEPTED

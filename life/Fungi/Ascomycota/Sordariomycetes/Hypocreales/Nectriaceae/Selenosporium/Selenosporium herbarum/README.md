@@ -1,5 +1,4 @@
-Selenosporium herbarum Corda SPECIES
-=======
+# Selenosporium herbarum Corda SPECIES
 
 #### Status
 ACCEPTED

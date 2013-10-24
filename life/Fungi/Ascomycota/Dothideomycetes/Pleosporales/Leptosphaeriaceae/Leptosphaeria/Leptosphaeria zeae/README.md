@@ -1,5 +1,4 @@
-Leptosphaeria zeae G.L. Stout SPECIES
-=======
+# Leptosphaeria zeae G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

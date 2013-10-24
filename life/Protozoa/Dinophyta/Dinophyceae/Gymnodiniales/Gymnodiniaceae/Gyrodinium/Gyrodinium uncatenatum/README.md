@@ -1,5 +1,4 @@
-Gyrodinium uncatenatum Hulburt SPECIES
-=======
+# Gyrodinium uncatenatum Hulburt SPECIES
 
 #### Status
 ACCEPTED

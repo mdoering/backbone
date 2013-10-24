@@ -1,5 +1,4 @@
-Lecidea afra Sitzenb. SPECIES
-=======
+# Lecidea afra Sitzenb. SPECIES
 
 #### Status
 ACCEPTED

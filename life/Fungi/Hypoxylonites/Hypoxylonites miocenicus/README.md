@@ -1,5 +1,4 @@
-Hypoxylonites miocenicus Elsik SPECIES
-=======
+# Hypoxylonites miocenicus Elsik SPECIES
 
 #### Status
 ACCEPTED

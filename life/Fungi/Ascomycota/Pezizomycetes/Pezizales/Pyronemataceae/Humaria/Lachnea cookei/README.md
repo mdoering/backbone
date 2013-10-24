@@ -1,5 +1,4 @@
-Lachnea cookei Svrcek SPECIES
-=======
+# Lachnea cookei Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocollybia dotae J.L. Mata & Halling SPECIES
-=======
+# Rhodocollybia dotae J.L. Mata & Halling SPECIES
 
 #### Status
 ACCEPTED

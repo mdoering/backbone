@@ -1,5 +1,4 @@
-Penicillium flavogenum Frisvad SPECIES
-=======
+# Penicillium flavogenum Frisvad SPECIES
 
 #### Status
 ACCEPTED

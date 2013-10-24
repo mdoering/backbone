@@ -1,5 +1,4 @@
-Buellia subramanyamii R. Chowdhury SPECIES
-=======
+# Buellia subramanyamii R. Chowdhury SPECIES
 
 #### Status
 ACCEPTED

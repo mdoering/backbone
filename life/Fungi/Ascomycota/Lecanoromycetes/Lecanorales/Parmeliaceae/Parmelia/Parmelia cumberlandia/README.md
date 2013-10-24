@@ -1,5 +1,4 @@
-Parmelia cumberlandia (Gyeln.) Hale SPECIES
-=======
+# Parmelia cumberlandia (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED

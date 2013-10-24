@@ -1,5 +1,4 @@
-Woloszynskia Thompson, 1951 GENUS
-=======
+# Woloszynskia Thompson, 1951 GENUS
 
 #### Status
 ACCEPTED

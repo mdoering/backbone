@@ -1,5 +1,4 @@
-Discosia spegazzinii Vanev SPECIES
-=======
+# Discosia spegazzinii Vanev SPECIES
 
 #### Status
 ACCEPTED

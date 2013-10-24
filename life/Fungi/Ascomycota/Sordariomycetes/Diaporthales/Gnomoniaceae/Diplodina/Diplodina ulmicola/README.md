@@ -1,5 +1,4 @@
-Diplodina ulmicola Gucevic SPECIES
-=======
+# Diplodina ulmicola Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypertrachytriletes GENUS
-=======
+# Hypertrachytriletes GENUS
 
 #### Status
 ACCEPTED

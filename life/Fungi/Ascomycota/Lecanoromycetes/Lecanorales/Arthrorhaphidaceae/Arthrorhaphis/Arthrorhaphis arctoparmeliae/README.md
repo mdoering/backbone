@@ -1,5 +1,4 @@
-Arthrorhaphis arctoparmeliae Kocourk. & van den Boom SPECIES
-=======
+# Arthrorhaphis arctoparmeliae Kocourk. & van den Boom SPECIES
 
 #### Status
 ACCEPTED

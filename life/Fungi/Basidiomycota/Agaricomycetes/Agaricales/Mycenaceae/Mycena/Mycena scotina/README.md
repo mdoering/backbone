@@ -1,5 +1,4 @@
-Mycena scotina Maas Geest. & de Meijer SPECIES
-=======
+# Mycena scotina Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

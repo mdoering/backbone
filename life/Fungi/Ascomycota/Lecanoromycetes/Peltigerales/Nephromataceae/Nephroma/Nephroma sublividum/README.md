@@ -1,5 +1,4 @@
-Nephroma sublividum f. sublividum FORM
-=======
+# Nephroma sublividum (Vain.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nephroma sublividum f. sublividum
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Microsticta vagans Desm., 1849 SPECIES
-=======
+# Microsticta vagans Desm., 1849 SPECIES
 
 #### Status
 ACCEPTED

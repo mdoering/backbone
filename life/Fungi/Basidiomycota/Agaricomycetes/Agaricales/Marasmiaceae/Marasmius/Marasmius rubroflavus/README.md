@@ -1,5 +1,4 @@
-Marasmius rubroflavus (Theiss.) Singer SPECIES
-=======
+# Marasmius rubroflavus (Theiss.) Singer SPECIES
 
 #### Status
 ACCEPTED

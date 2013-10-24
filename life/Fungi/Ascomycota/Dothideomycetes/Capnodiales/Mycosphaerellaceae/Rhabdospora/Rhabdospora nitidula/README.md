@@ -1,5 +1,4 @@
-Rhabdospora nitidula Durieu & Mont. SPECIES
-=======
+# Rhabdospora nitidula Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

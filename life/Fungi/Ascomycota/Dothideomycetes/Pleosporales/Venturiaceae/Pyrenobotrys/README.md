@@ -1,5 +1,4 @@
-Pyrenobotrys Theiss. & Syd. GENUS
-=======
+# Pyrenobotrys Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

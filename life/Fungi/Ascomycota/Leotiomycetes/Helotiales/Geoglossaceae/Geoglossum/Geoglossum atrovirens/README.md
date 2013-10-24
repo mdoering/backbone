@@ -1,5 +1,4 @@
-Geoglossum atrovirens Kunze & J.C. Schmidt SPECIES
-=======
+# Geoglossum atrovirens Kunze & J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

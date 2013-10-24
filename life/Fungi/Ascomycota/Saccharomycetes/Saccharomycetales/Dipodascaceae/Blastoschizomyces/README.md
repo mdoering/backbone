@@ -1,5 +1,4 @@
-Blastoschizomyces Salkin, M.A. Gordon, Sams. & Rieder GENUS
-=======
+# Blastoschizomyces Salkin, M.A. Gordon, Sams. & Rieder GENUS
 
 #### Status
 ACCEPTED

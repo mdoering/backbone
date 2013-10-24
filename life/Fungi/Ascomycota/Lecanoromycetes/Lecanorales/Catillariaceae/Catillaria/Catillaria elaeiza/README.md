@@ -1,5 +1,4 @@
-Catillaria elaeiza (Nyl.) Lettau SPECIES
-=======
+# Catillaria elaeiza (Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

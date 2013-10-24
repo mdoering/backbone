@@ -1,5 +1,4 @@
-Boletus holothejus Pat. SPECIES
-=======
+# Boletus holothejus Pat. SPECIES
 
 #### Status
 ACCEPTED

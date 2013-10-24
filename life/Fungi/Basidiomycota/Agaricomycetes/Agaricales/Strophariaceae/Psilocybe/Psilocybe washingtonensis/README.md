@@ -1,5 +1,4 @@
-Psilocybe washingtonensis A.H. Sm. SPECIES
-=======
+# Psilocybe washingtonensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

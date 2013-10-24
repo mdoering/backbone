@@ -1,5 +1,4 @@
-Bilimbia gyalizella (Nyl.) Fink SPECIES
-=======
+# Bilimbia gyalizella (Nyl.) Fink SPECIES
 
 #### Status
 ACCEPTED

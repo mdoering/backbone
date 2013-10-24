@@ -1,5 +1,4 @@
-Ochotrichobolus Kimbr. & Korf GENUS
-=======
+# Ochotrichobolus Kimbr. & Korf GENUS
 
 #### Status
 ACCEPTED

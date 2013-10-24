@@ -1,5 +1,4 @@
-Didymella purpurearum (Auersw.) Sacc. SPECIES
-=======
+# Didymella purpurearum (Auersw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

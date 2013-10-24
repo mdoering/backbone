@@ -1,5 +1,4 @@
-Ustilago circumdata Vánky SPECIES
-=======
+# Ustilago circumdata Vánky SPECIES
 
 #### Status
 ACCEPTED

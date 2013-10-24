@@ -1,5 +1,4 @@
-Cercospora arrectaria Chupp SPECIES
-=======
+# Cercospora arrectaria Chupp SPECIES
 
 #### Status
 ACCEPTED

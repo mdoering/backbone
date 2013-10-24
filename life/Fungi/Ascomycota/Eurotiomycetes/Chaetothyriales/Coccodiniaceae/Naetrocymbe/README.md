@@ -1,5 +1,4 @@
-Naetrocymbe GENUS
-=======
+# Naetrocymbe GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balticammina pseudomacrescens Brönnimann, Lutze & Whittaker, 1989 SPECIES
-=======
+# Balticammina pseudomacrescens Brönnimann, Lutze & Whittaker, 1989 SPECIES
 
 #### Status
 ACCEPTED

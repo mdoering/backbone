@@ -1,8 +1,7 @@
-Rochalimaea henselae Regnery et al., 1992 SPECIES
-=======
+# Bartonella henselae (Regnery et al., 1992) Brenner et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

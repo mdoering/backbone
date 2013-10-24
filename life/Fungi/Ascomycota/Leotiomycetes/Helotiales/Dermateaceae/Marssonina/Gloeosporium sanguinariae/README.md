@@ -1,5 +1,4 @@
-Gloeosporium sanguinariae Ellis & Everh. SPECIES
-=======
+# Gloeosporium sanguinariae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

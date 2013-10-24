@@ -1,5 +1,4 @@
-Legeriomyces leptocerci M.M. White & Strongman, 2008 SPECIES
-=======
+# Legeriomyces leptocerci M.M. White & Strongman, 2008 SPECIES
 
 #### Status
 ACCEPTED

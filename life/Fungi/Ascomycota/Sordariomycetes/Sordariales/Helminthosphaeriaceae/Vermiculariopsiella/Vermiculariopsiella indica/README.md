@@ -1,5 +1,4 @@
-Vermiculariopsiella indica Kesh. Prasad, D'Souza & Bhat SPECIES
-=======
+# Vermiculariopsiella indica Kesh. Prasad, D'Souza & Bhat SPECIES
 
 #### Status
 ACCEPTED

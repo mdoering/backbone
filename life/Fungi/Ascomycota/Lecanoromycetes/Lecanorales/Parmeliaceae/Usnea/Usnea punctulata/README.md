@@ -1,5 +1,4 @@
-Usnea punctulata G. N. Stevens SPECIES
-=======
+# Usnea punctulata G. N. Stevens SPECIES
 
 #### Status
 ACCEPTED

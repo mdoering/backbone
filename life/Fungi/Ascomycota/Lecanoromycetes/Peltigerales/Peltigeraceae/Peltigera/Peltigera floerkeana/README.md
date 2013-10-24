@@ -1,5 +1,4 @@
-Peltigera floerkeana Spreng. SPECIES
-=======
+# Peltigera floerkeana Spreng. SPECIES
 
 #### Status
 ACCEPTED

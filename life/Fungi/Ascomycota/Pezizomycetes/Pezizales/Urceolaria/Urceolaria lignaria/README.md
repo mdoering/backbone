@@ -1,5 +1,4 @@
-Urceolaria lignaria (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria lignaria (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

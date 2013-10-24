@@ -1,5 +1,4 @@
-Coprinopsis kimurae (Hongo & Aoki) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis kimurae (Hongo & Aoki) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

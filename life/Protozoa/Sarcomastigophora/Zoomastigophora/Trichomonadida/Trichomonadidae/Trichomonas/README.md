@@ -1,5 +1,4 @@
-Trichomonas A. Donné, 1836 GENUS
-=======
+# Trichomonas A. Donné, 1836 GENUS
 
 #### Status
 ACCEPTED

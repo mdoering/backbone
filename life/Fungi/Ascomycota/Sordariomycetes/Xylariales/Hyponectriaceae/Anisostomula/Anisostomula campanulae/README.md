@@ -1,5 +1,4 @@
-Anisostomula campanulae Petr. SPECIES
-=======
+# Anisostomula campanulae Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paracercomonas marina Cavalier-Smith & Bass, 2006 SPECIES
-=======
+# Paracercomonas marina Cavalier-Smith & Bass, 2006 SPECIES
 
 #### Status
 ACCEPTED

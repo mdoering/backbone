@@ -1,5 +1,4 @@
-Clavaria puccinia Batsch SPECIES
-=======
+# Clavaria puccinia Batsch SPECIES
 
 #### Status
 ACCEPTED

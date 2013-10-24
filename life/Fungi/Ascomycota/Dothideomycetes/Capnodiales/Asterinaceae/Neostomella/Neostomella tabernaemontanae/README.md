@@ -1,5 +1,4 @@
-Neostomella tabernaemontanae Syd., 1927 SPECIES
-=======
+# Neostomella tabernaemontanae Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

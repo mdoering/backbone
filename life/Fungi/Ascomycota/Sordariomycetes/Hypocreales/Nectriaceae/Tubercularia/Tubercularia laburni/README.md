@@ -1,5 +1,4 @@
-Tubercularia laburni Opiz SPECIES
-=======
+# Tubercularia laburni Opiz SPECIES
 
 #### Status
 ACCEPTED

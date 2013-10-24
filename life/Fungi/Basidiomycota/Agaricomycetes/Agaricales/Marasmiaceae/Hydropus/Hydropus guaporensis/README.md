@@ -1,5 +1,4 @@
-Hydropus guaporensis Singer SPECIES
-=======
+# Hydropus guaporensis Singer SPECIES
 
 #### Status
 ACCEPTED

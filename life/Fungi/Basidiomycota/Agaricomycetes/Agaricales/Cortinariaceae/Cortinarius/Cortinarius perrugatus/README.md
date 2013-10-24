@@ -1,5 +1,4 @@
-Cortinarius perrugatus Rob. Henry SPECIES
-=======
+# Cortinarius perrugatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

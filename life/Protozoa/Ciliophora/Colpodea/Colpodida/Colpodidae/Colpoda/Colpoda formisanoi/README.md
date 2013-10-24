@@ -1,5 +1,4 @@
-Colpoda formisanoi Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Colpoda formisanoi Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

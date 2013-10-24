@@ -1,5 +1,4 @@
-Pleurotus langei Pilát SPECIES
-=======
+# Pleurotus langei Pilát SPECIES
 
 #### Status
 ACCEPTED

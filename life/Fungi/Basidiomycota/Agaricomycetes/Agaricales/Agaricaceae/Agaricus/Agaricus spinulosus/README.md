@@ -1,5 +1,4 @@
-Agaricus spinulosus Stev. & W.G. Sm. SPECIES
-=======
+# Agaricus spinulosus Stev. & W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

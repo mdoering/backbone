@@ -1,5 +1,4 @@
-Dimelaena stanleyi Stein SPECIES
-=======
+# Dimelaena stanleyi Stein SPECIES
 
 #### Status
 ACCEPTED

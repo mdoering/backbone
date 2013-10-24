@@ -1,17 +1,16 @@
-Sphaeria pallida var. pallida VARIETY
-=======
+# Hypocrea gelatinosa (Tode) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 383 (1849)
 
 #### Original name
-null
+Sphaeria gelatinosa Tode, 1791
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hypoxylon epixanthum (Berk. & Broome) Petch SPECIES
-=======
+# Hypoxylon epixanthum (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

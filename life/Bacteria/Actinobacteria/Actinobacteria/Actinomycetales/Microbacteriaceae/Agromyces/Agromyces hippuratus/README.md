@@ -1,8 +1,7 @@
-Agromyces fucosus subsp. hippuratus Zgurskaya et al., 1992 SUBSPECIES
-=======
+# Agromyces hippuratus (Zgurskaya et al., 1992) Ortiz-Martinez et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

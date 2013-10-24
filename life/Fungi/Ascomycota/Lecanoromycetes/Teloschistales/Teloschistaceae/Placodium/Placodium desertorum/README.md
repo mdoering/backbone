@@ -1,5 +1,4 @@
-Placodium desertorum Tomin SPECIES
-=======
+# Placodium desertorum Tomin SPECIES
 
 #### Status
 ACCEPTED

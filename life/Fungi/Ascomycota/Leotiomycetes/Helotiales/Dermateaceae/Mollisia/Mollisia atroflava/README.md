@@ -1,5 +1,4 @@
-Mollisia atroflava Rehm SPECIES
-=======
+# Mollisia atroflava Rehm SPECIES
 
 #### Status
 ACCEPTED

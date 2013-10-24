@@ -1,5 +1,4 @@
-Entoloma phaeomarginatum E. Horak, 1973 SPECIES
-=======
+# Entoloma phaeomarginatum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

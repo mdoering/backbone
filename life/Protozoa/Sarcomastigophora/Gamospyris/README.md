@@ -1,5 +1,4 @@
-Gamospyris Haeckel, 1881 GENUS
-=======
+# Gamospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium salicis J. Schröt. SPECIES
-=======
+# Cenangium salicis J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

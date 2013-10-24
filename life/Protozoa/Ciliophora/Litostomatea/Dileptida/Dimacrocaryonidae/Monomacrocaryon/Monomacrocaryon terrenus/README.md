@@ -1,5 +1,4 @@
-Monomacrocaryon terrenus (Foissner, 1981) Vdacny, Orsi, Bourland, Shimano & Foissner, 2011 SPECIES
-=======
+# Monomacrocaryon terrenus (Foissner, 1981) Vdacny, Orsi, Bourland, Shimano & Foissner, 2011 SPECIES
 
 #### Status
 ACCEPTED

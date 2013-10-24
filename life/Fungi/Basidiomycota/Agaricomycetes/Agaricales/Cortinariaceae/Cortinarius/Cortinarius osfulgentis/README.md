@@ -1,5 +1,4 @@
-Cortinarius osfulgentis Rob. Henry SPECIES
-=======
+# Cortinarius osfulgentis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fuckelina GENUS
-=======
+# Fuckelina GENUS
 
 #### Status
 ACCEPTED

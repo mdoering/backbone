@@ -1,5 +1,4 @@
-Wetzeliella irregularis Cookson & Eisenack SPECIES
-=======
+# Wetzeliella irregularis Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

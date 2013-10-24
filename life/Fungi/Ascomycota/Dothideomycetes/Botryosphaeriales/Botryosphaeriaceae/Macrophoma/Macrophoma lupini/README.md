@@ -1,5 +1,4 @@
-Macrophoma lupini (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Macrophoma lupini (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma nevadensis Gonz. Frag. SPECIES
-=======
+# Macrophoma nevadensis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoagaricus acaciarum Singer SPECIES
-=======
+# Leucoagaricus acaciarum Singer SPECIES
 
 #### Status
 ACCEPTED

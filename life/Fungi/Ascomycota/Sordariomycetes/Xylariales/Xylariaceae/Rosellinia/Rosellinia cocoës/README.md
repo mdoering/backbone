@@ -1,5 +1,4 @@
-Rosellinia cocoës Henn. SPECIES
-=======
+# Rosellinia cocoës Henn. SPECIES
 
 #### Status
 ACCEPTED

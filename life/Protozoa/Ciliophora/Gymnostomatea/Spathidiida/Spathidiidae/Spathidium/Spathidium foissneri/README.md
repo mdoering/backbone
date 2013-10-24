@@ -1,5 +1,4 @@
-Spathidium foissneri Vdacny, Hlubikova & Tirjakova, 2006 SPECIES
-=======
+# Spathidium foissneri Vdacny, Hlubikova & Tirjakova, 2006 SPECIES
 
 #### Status
 ACCEPTED

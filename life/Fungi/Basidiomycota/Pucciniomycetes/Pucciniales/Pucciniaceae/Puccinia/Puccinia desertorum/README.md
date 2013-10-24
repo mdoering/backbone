@@ -1,5 +1,4 @@
-Puccinia desertorum Syd. & P. Syd. SPECIES
-=======
+# Puccinia desertorum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

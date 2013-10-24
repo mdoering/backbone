@@ -1,5 +1,4 @@
-Stigmina californiae Joanne E. Taylor & Crous SPECIES
-=======
+# Stigmina californiae Joanne E. Taylor & Crous SPECIES
 
 #### Status
 ACCEPTED

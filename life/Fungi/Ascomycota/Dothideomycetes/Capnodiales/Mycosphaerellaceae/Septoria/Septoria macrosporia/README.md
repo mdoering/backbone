@@ -1,5 +1,4 @@
-Septoria macrosporia Dearn. SPECIES
-=======
+# Septoria macrosporia Dearn. SPECIES
 
 #### Status
 ACCEPTED

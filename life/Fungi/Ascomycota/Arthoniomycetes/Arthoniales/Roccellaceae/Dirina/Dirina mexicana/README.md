@@ -1,5 +1,4 @@
-Dirina mexicana Tehler SPECIES
-=======
+# Dirina mexicana Tehler SPECIES
 
 #### Status
 ACCEPTED

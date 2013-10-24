@@ -1,5 +1,4 @@
-Helvella agaricoides Kreh SPECIES
-=======
+# Helvella agaricoides Kreh SPECIES
 
 #### Status
 ACCEPTED

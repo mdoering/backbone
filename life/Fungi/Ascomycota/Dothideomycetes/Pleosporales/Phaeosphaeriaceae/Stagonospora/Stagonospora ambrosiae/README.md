@@ -1,5 +1,4 @@
-Stagonospora ambrosiae Savile SPECIES
-=======
+# Stagonospora ambrosiae Savile SPECIES
 
 #### Status
 ACCEPTED

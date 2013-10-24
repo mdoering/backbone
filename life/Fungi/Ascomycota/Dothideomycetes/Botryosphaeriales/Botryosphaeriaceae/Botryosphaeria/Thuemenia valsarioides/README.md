@@ -1,5 +1,4 @@
-Thuemenia valsarioides Rehm SPECIES
-=======
+# Thuemenia valsarioides Rehm SPECIES
 
 #### Status
 ACCEPTED

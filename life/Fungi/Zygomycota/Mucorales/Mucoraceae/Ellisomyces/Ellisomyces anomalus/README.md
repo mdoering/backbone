@@ -1,14 +1,13 @@
-Thamnidium anomalum Hesselt. & P. Anderson, 1956 SPECIES
-=======
+# Ellisomyces anomalus (Hesselt. & P. Anderson) Benny & R.K. Benj., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 43: 699 (1956)
+Aliso 8(3): 330 (1975)
 
 #### Original name
 Thamnidium anomalum Hesselt. & P. Anderson, 1956

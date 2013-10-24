@@ -1,5 +1,4 @@
-Cladonia libifera Savicz SPECIES
-=======
+# Cladonia libifera Savicz SPECIES
 
 #### Status
 ACCEPTED

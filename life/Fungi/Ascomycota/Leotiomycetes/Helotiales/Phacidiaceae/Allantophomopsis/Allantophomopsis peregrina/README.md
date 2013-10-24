@@ -1,5 +1,4 @@
-Allantophomopsis peregrina Petr. & Cif., 1930 SPECIES
-=======
+# Allantophomopsis peregrina Petr. & Cif., 1930 SPECIES
 
 #### Status
 ACCEPTED

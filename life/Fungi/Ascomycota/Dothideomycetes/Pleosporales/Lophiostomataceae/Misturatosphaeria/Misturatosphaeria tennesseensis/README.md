@@ -1,5 +1,4 @@
-Misturatosphaeria tennesseensis Mugambi, A.N. Mill. & Huhndorf, 2009 SPECIES
-=======
+# Misturatosphaeria tennesseensis Mugambi, A.N. Mill. & Huhndorf, 2009 SPECIES
 
 #### Status
 ACCEPTED

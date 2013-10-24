@@ -1,5 +1,4 @@
-Lecanora haydenii Tuck. SPECIES
-=======
+# Lecanora haydenii Tuck. SPECIES
 
 #### Status
 ACCEPTED

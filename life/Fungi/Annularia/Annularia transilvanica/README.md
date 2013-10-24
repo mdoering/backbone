@@ -1,5 +1,4 @@
-Annularia transilvanica Schulzer SPECIES
-=======
+# Annularia transilvanica Schulzer SPECIES
 
 #### Status
 ACCEPTED

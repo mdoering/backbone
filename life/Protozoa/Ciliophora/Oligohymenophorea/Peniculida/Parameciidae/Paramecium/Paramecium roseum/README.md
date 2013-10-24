@@ -1,5 +1,4 @@
-Paramecium roseum Fromentel, 1876 SPECIES
-=======
+# Paramecium roseum Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

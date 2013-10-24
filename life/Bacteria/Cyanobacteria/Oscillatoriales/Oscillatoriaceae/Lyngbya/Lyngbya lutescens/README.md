@@ -1,5 +1,4 @@
-Lyngbya lutescens (Meneghini) Hansgirg SPECIES
-=======
+# Lyngbya lutescens (Meneghini) Hansgirg SPECIES
 
 #### Status
 ACCEPTED

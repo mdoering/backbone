@@ -1,5 +1,4 @@
-Nodosarina striolata Goes, 1894 SPECIES
-=======
+# Nodosarina striolata Goes, 1894 SPECIES
 
 #### Status
 ACCEPTED

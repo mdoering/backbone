@@ -1,5 +1,4 @@
-Septoria mellitidis Sacc. & Speg. SPECIES
-=======
+# Septoria mellitidis Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

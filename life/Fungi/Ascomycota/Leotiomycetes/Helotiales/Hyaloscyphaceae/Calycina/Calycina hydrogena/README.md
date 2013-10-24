@@ -1,5 +1,4 @@
-Calycina hydrogena (Peck) Kuntze SPECIES
-=======
+# Calycina hydrogena (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

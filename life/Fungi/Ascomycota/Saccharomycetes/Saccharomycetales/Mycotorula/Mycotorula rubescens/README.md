@@ -1,5 +1,4 @@
-Mycotorula rubescens (Saito) Cif. & Redaelli SPECIES
-=======
+# Mycotorula rubescens (Saito) Cif. & Redaelli SPECIES
 
 #### Status
 ACCEPTED

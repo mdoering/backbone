@@ -1,5 +1,4 @@
-Catillaria tristior (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria tristior (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

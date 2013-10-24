@@ -1,5 +1,4 @@
-Ectosticta psidii Bat., Peres & J.L. Bezerra SPECIES
-=======
+# Ectosticta psidii Bat., Peres & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

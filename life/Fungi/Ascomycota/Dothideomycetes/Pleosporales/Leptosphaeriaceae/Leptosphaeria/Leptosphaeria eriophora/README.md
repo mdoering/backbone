@@ -1,5 +1,4 @@
-Leptosphaeria eriophora (Cooke) Sacc. SPECIES
-=======
+# Leptosphaeria eriophora (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius austroturmalis var. austroturmalis VARIETY
-=======
+# Cortinarius austroturmalis M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 52: 151 (1975)
 
 #### Original name
-Cortinarius austroturmalis var. austroturmalis
+Cortinarius austroturmalis M.M. Moser & E. Horak
 
 ### Remarks
 null

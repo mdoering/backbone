@@ -1,5 +1,4 @@
-Corticium inopinatum H.S. Jacks. SPECIES
-=======
+# Corticium inopinatum H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

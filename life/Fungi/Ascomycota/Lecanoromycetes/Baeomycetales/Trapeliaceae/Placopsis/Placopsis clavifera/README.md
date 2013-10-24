@@ -1,14 +1,13 @@
-Placopsis trachyderma var. clavifera (I.M. Lamb) P. James VARIETY
-=======
+# Placopsis clavifera (I.M. Lamb) D.J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Mark et al. , N. Z. Jl Bot. 2: 82 (1964)
+Biblthca Lichenol. 78: 54 (2001)
 
 #### Original name
 Placopsis alphoplacoides var. clavifera I.M. Lamb

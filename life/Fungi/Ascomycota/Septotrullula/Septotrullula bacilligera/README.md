@@ -1,17 +1,16 @@
-Septotrullula bacilligera var. bacilligera VARIETY
-=======
+# Septotrullula bacilligera Höhn., 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 111(1): 1026 (1902)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 111: 1026 (1902)
 
 #### Original name
-Septotrullula bacilligera var. bacilligera
+Septotrullula bacilligera Höhn., 1902
 
 ### Remarks
 null

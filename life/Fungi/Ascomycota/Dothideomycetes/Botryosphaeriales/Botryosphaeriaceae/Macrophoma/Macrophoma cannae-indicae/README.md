@@ -1,5 +1,4 @@
-Macrophoma cannae-indicae N.D. Sharma SPECIES
-=======
+# Macrophoma cannae-indicae N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

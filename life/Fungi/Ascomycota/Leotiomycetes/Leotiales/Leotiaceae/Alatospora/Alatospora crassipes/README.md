@@ -1,5 +1,4 @@
-Alatospora crassipes Marvanová, 1977 SPECIES
-=======
+# Alatospora crassipes Marvanová, 1977 SPECIES
 
 #### Status
 ACCEPTED

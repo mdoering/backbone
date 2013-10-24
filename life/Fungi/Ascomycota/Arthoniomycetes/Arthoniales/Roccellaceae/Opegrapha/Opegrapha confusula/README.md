@@ -1,5 +1,4 @@
-Opegrapha confusula Müll. Arg. SPECIES
-=======
+# Opegrapha confusula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

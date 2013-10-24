@@ -1,5 +1,4 @@
-Melanconium taxi Rabenh. SPECIES
-=======
+# Melanconium taxi Rabenh. SPECIES
 
 #### Status
 ACCEPTED

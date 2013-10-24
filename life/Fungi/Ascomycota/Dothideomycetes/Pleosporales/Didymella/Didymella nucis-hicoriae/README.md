@@ -1,5 +1,4 @@
-Didymella nucis-hicoriae Fairm. SPECIES
-=======
+# Didymella nucis-hicoriae Fairm. SPECIES
 
 #### Status
 ACCEPTED

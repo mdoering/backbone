@@ -1,5 +1,4 @@
-Melanomma pleurostomum var. pleurostomum VARIETY
-=======
+# Melanomma pleurostomum (Rehm) Berl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanomma pleurostomum var. pleurostomum
+Trematosphaeria pleurostoma Rehm
 
 ### Remarks
 null

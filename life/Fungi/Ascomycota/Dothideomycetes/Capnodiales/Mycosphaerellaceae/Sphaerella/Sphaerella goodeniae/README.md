@@ -1,5 +1,4 @@
-Sphaerella goodeniae Tassi SPECIES
-=======
+# Sphaerella goodeniae Tassi SPECIES
 
 #### Status
 ACCEPTED

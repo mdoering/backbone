@@ -1,5 +1,4 @@
-Cephalosporium ballagii Oomen SPECIES
-=======
+# Cephalosporium ballagii Oomen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenomonadales G. Novarino & I.A.N. Lucas ORDER
-=======
+# Pyrenomonadales G. Novarino & I.A.N. Lucas ORDER
 
 #### Status
 ACCEPTED

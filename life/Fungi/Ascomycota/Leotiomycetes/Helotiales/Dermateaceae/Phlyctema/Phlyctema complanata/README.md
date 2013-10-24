@@ -1,5 +1,4 @@
-Phlyctema complanata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Phlyctema complanata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo cavernula Berndt & R.S. Peterson SPECIES
-=======
+# Uredo cavernula Berndt & R.S. Peterson SPECIES
 
 #### Status
 ACCEPTED

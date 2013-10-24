@@ -1,5 +1,4 @@
-Diplodia comari Henn. SPECIES
-=======
+# Diplodia comari Henn. SPECIES
 
 #### Status
 ACCEPTED

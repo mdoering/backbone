@@ -1,5 +1,4 @@
-Cyclicargolithus doronicoides (M. Black & B. Barnes) S.W. Wise SPECIES
-=======
+# Cyclicargolithus doronicoides (M. Black & B. Barnes) S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

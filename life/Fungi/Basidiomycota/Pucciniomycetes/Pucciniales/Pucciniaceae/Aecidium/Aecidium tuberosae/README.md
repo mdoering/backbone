@@ -1,5 +1,4 @@
-Aecidium tuberosae Henn. SPECIES
-=======
+# Aecidium tuberosae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neisseriaceae FAMILY
-=======
+# Neisseriaceae FAMILY
 
 #### Status
 ACCEPTED

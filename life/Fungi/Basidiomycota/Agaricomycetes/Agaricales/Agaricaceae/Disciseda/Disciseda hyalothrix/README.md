@@ -1,5 +1,4 @@
-Disciseda hyalothrix (Cooke & Massee) Hollós SPECIES
-=======
+# Disciseda hyalothrix (Cooke & Massee) Hollós SPECIES
 
 #### Status
 ACCEPTED

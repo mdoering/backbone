@@ -1,17 +1,16 @@
-Secotium novae-zealandiae G. Cunn. SPECIES
-=======
+# Weraroa novae-zelandiae (G. Cunn.) Singer, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lloydia 21: 46 (1958)
 
 #### Original name
-Secotium novae-zealandiae G. Cunn.
+Secotium novae-zelandiae G. Cunn., 1924
 
 ### Remarks
 null

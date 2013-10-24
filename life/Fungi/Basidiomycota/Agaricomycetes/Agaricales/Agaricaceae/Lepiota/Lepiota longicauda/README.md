@@ -1,5 +1,4 @@
-Lepiota longicauda Henn. SPECIES
-=======
+# Lepiota longicauda Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium cratoechinatum Brenner, 1974 SPECIES
-=======
+# Baltisphaeridium cratoechinatum Brenner, 1974 SPECIES
 
 #### Status
 ACCEPTED

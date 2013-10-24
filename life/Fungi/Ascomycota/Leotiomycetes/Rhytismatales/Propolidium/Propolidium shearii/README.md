@@ -1,5 +1,4 @@
-Propolidium shearii E.K. Cash SPECIES
-=======
+# Propolidium shearii E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

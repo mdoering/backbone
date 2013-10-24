@@ -1,5 +1,4 @@
-Agaricus anatolii Lév. SPECIES
-=======
+# Agaricus anatolii Lév. SPECIES
 
 #### Status
 ACCEPTED

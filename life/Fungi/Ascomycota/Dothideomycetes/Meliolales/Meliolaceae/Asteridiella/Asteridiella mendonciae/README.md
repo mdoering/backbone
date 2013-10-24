@@ -1,5 +1,4 @@
-Asteridiella mendonciae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella mendonciae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropera ilicina (Ellis & Everh.) Höhn. SPECIES
-=======
+# Micropera ilicina (Ellis & Everh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

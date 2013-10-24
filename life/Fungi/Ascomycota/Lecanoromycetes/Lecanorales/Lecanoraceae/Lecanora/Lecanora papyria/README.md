@@ -1,5 +1,4 @@
-Lecanora papyria Motyka SPECIES
-=======
+# Lecanora papyria Motyka SPECIES
 
 #### Status
 ACCEPTED

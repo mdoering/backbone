@@ -1,14 +1,13 @@
-Hilidicellites ovumformis (Mart.-Hern. & Tom.-Ort.) Kalgutkar & Janson. SPECIES
-=======
+# Hilidicellites oviformis (Mart.-Hern. & Tom.-Ort.) Kalgutkar & Janson. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+AASP Contributions Series (Dallas) 39: 135 (2000)
 
 #### Original name
 Didymoporisporonites oviformis Mart.-Hern. & Tom.-Ort.

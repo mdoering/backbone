@@ -1,5 +1,4 @@
-Heterochlamys javanica Racib. SPECIES
-=======
+# Heterochlamys javanica Racib. SPECIES
 
 #### Status
 ACCEPTED

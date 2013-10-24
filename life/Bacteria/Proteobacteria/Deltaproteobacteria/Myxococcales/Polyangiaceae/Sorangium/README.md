@@ -1,5 +1,4 @@
-Sorangium (ex Jahn, 1924) Reichenbach, 2007 GENUS
-=======
+# Sorangium (ex Jahn, 1924) Reichenbach, 2007 GENUS
 
 #### Status
 ACCEPTED

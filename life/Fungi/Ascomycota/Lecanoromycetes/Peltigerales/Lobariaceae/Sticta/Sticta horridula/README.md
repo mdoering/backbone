@@ -1,5 +1,4 @@
-Sticta horridula Zahlbr. SPECIES
-=======
+# Sticta horridula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

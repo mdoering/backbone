@@ -1,5 +1,4 @@
-Hirneola rufa (Berk.) Fr. SPECIES
-=======
+# Hirneola rufa (Berk.) Fr. SPECIES
 
 #### Status
 ACCEPTED

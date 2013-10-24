@@ -1,5 +1,4 @@
-Sticta cometiella Nyl. SPECIES
-=======
+# Sticta cometiella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina mniaraeoides SPECIES
-=======
+# Rinodina mniaraeoides SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cubasina microspora M.F.O. Marques, Gusmão & R.F. Castañeda SPECIES
-=======
+# Cubasina microspora M.F.O. Marques, Gusmão & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

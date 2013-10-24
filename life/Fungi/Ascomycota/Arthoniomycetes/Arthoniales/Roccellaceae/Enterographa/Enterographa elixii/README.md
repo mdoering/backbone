@@ -1,5 +1,4 @@
-Enterographa elixii Sparrius SPECIES
-=======
+# Enterographa elixii Sparrius SPECIES
 
 #### Status
 ACCEPTED

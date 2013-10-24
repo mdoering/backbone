@@ -1,5 +1,4 @@
-Hemiophrys bivacuolata subsp. bivacuolata SUBSPECIES
-=======
+# Hemiophrys bivacuolata Kahl SPECIES
 
 #### Status
 ACCEPTED

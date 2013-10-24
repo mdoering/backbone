@@ -1,5 +1,4 @@
-Melampsoropsis ilicina Arthur SPECIES
-=======
+# Melampsoropsis ilicina Arthur SPECIES
 
 #### Status
 ACCEPTED

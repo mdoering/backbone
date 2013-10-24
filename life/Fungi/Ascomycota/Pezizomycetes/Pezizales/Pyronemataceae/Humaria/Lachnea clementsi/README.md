@@ -1,5 +1,4 @@
-Lachnea clementsi Sacc. & P. Syd. SPECIES
-=======
+# Lachnea clementsi Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

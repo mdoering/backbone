@@ -1,5 +1,4 @@
-Botryodiplodia aromatica Speg. SPECIES
-=======
+# Botryodiplodia aromatica Speg. SPECIES
 
 #### Status
 ACCEPTED

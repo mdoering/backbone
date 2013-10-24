@@ -1,5 +1,4 @@
-Amanita caesareoides Lj.N. Vassiljeva SPECIES
-=======
+# Amanita caesareoides Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

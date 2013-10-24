@@ -1,5 +1,4 @@
-Psora confusa SPECIES
-=======
+# Psora confusa SPECIES
 
 #### Status
 ACCEPTED

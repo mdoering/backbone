@@ -1,5 +1,4 @@
-Pithites Deroux & Dragesco, 1968 GENUS
-=======
+# Pithites Deroux & Dragesco, 1968 GENUS
 
 #### Status
 ACCEPTED

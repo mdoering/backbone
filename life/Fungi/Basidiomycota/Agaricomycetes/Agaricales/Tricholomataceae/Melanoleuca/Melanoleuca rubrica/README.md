@@ -1,5 +1,4 @@
-Melanoleuca rubrica Raithelh. SPECIES
-=======
+# Melanoleuca rubrica Raithelh. SPECIES
 
 #### Status
 ACCEPTED

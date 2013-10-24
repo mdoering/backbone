@@ -1,5 +1,4 @@
-Diaporthe chionanthi Brunaud SPECIES
-=======
+# Diaporthe chionanthi Brunaud SPECIES
 
 #### Status
 ACCEPTED

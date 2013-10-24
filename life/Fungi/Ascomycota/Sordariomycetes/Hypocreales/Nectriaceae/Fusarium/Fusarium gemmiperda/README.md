@@ -1,5 +1,4 @@
-Fusarium gemmiperda Aderh. SPECIES
-=======
+# Fusarium gemmiperda Aderh. SPECIES
 
 #### Status
 ACCEPTED

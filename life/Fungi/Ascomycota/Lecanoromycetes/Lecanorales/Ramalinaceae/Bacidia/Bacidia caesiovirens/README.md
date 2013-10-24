@@ -1,5 +1,4 @@
-Bacidia caesiovirens S. Ekman & Holien SPECIES
-=======
+# Bacidia caesiovirens S. Ekman & Holien SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium bourdotii Bres. SPECIES
-=======
+# Corticium bourdotii Bres. SPECIES
 
 #### Status
 ACCEPTED

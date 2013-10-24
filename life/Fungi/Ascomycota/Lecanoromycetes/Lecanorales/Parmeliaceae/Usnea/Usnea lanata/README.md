@@ -1,5 +1,4 @@
-Usnea lanata (Neck.) SPECIES
-=======
+# Usnea lanata (Neck.) SPECIES
 
 #### Status
 ACCEPTED

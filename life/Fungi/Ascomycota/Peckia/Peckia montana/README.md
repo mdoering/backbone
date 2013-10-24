@@ -1,5 +1,4 @@
-Peckia montana Höhn. SPECIES
-=======
+# Peckia montana Höhn. SPECIES
 
 #### Status
 ACCEPTED

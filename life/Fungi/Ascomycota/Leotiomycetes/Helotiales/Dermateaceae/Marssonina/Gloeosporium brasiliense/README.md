@@ -1,5 +1,4 @@
-Gloeosporium brasiliense Speg. SPECIES
-=======
+# Gloeosporium brasiliense Speg. SPECIES
 
 #### Status
 ACCEPTED

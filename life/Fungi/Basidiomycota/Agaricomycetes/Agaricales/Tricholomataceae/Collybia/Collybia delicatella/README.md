@@ -1,5 +1,4 @@
-Collybia delicatella Peck SPECIES
-=======
+# Collybia delicatella Peck SPECIES
 
 #### Status
 ACCEPTED

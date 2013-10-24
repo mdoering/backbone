@@ -1,5 +1,4 @@
-Sphaeria chloromela Fr. SPECIES
-=======
+# Sphaeria chloromela Fr. SPECIES
 
 #### Status
 ACCEPTED

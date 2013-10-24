@@ -1,5 +1,4 @@
-Rhaetotorulus Tollmann & Kristan-Tollmann, 1970 GENUS
-=======
+# Rhaetotorulus Tollmann & Kristan-Tollmann, 1970 GENUS
 
 #### Status
 ACCEPTED

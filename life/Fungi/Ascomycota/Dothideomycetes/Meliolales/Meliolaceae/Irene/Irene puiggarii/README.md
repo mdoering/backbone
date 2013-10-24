@@ -1,5 +1,4 @@
-Irene puiggarii (Speg.) Doidge SPECIES
-=======
+# Irene puiggarii (Speg.) Doidge SPECIES
 
 #### Status
 ACCEPTED

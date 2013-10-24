@@ -1,5 +1,4 @@
-Gymnopilus perisporius Garrido SPECIES
-=======
+# Gymnopilus perisporius Garrido SPECIES
 
 #### Status
 ACCEPTED

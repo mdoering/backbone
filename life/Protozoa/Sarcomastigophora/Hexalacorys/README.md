@@ -1,5 +1,4 @@
-Hexalacorys Haeckel, 1881 GENUS
-=======
+# Hexalacorys Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

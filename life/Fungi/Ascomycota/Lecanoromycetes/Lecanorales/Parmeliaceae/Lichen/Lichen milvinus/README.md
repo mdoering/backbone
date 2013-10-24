@@ -1,5 +1,4 @@
-Lichen milvinus SPECIES
-=======
+# Lichen milvinus SPECIES
 
 #### Status
 ACCEPTED

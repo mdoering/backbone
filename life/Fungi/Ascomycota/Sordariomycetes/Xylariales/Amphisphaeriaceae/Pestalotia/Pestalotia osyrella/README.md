@@ -1,5 +1,4 @@
-Pestalotia osyrella Tassi SPECIES
-=======
+# Pestalotia osyrella Tassi SPECIES
 
 #### Status
 ACCEPTED

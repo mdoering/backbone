@@ -1,5 +1,4 @@
-Astacolus occidentalis SPECIES
-=======
+# Astacolus occidentalis SPECIES
 
 #### Status
 ACCEPTED

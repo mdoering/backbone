@@ -1,5 +1,4 @@
-Cantharellus olivaceus (Paulet) Lév. SPECIES
-=======
+# Cantharellus olivaceus (Paulet) Lév. SPECIES
 
 #### Status
 ACCEPTED

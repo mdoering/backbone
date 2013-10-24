@@ -1,5 +1,4 @@
-Podocystis spathula (Shadbolt) Van Heurck SPECIES
-=======
+# Podocystis spathula (Shadbolt) Van Heurck SPECIES
 
 #### Status
 ACCEPTED

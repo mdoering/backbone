@@ -1,5 +1,4 @@
-Pertusaria floridana Dibben SPECIES
-=======
+# Pertusaria floridana Dibben SPECIES
 
 #### Status
 ACCEPTED

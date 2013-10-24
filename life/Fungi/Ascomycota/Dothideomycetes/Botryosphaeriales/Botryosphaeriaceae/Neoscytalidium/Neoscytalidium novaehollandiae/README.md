@@ -1,5 +1,4 @@
-Neoscytalidium novaehollandiae Pavlic, T.I. Burgess, M.J. Wingf., 2008 SPECIES
-=======
+# Neoscytalidium novaehollandiae Pavlic, T.I. Burgess, M.J. Wingf., 2008 SPECIES
 
 #### Status
 ACCEPTED

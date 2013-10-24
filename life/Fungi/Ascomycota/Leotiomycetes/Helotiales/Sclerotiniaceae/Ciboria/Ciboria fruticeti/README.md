@@ -1,5 +1,4 @@
-Ciboria fruticeti Rehm SPECIES
-=======
+# Ciboria fruticeti Rehm SPECIES
 
 #### Status
 ACCEPTED

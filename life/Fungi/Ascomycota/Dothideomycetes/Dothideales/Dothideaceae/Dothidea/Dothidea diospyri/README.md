@@ -1,5 +1,4 @@
-Dothidea diospyri (Schwein.) Fr. SPECIES
-=======
+# Dothidea diospyri (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

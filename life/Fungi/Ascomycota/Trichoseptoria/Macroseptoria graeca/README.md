@@ -1,5 +1,4 @@
-Macroseptoria graeca Petr. SPECIES
-=======
+# Macroseptoria graeca Petr. SPECIES
 
 #### Status
 ACCEPTED

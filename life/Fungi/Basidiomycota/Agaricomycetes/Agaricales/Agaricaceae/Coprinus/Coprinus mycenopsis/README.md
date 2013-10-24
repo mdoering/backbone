@@ -1,5 +1,4 @@
-Coprinus mycenopsis P. Karst. SPECIES
-=======
+# Coprinus mycenopsis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

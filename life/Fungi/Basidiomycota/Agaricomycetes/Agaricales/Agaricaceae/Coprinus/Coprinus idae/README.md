@@ -1,5 +1,4 @@
-Coprinus idae Uljé SPECIES
-=======
+# Coprinus idae Uljé SPECIES
 
 #### Status
 ACCEPTED

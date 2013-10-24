@@ -1,5 +1,4 @@
-Ascochyta ranunculi Fuckel SPECIES
-=======
+# Ascochyta ranunculi Fuckel SPECIES
 
 #### Status
 ACCEPTED

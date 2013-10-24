@@ -1,17 +1,16 @@
-Ganoderma emini Henn. SPECIES
-=======
+# Humphreya eminii (Henn.) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 95 (1980)
 
 #### Original name
-Ganoderma emini Henn.
+Ganoderma eminii Henn., 1893
 
 ### Remarks
 null

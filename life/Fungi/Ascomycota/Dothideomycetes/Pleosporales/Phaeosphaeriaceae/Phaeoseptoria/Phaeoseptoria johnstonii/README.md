@@ -1,5 +1,4 @@
-Phaeoseptoria johnstonii N.D. Sharma SPECIES
-=======
+# Phaeoseptoria johnstonii N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

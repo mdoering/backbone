@@ -1,5 +1,4 @@
-Diatrypella ciliatula (Fr.) P. Karst. SPECIES
-=======
+# Diatrypella ciliatula (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

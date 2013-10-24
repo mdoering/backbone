@@ -1,5 +1,4 @@
-Crepidotus amarus Murrill SPECIES
-=======
+# Crepidotus amarus Murrill SPECIES
 
 #### Status
 ACCEPTED

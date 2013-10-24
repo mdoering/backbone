@@ -1,5 +1,4 @@
-Autophagomyces grenadinus Thaxt. SPECIES
-=======
+# Autophagomyces grenadinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

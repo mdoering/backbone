@@ -1,5 +1,4 @@
-Gymnostellatospora Udagawa, Uchiy. & Kamiya GENUS
-=======
+# Gymnostellatospora Udagawa, Uchiy. & Kamiya GENUS
 
 #### Status
 ACCEPTED

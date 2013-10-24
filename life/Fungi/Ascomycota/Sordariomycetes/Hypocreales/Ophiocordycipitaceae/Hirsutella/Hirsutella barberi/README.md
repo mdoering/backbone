@@ -1,5 +1,4 @@
-Hirsutella barberi (Giard) Petch SPECIES
-=======
+# Hirsutella barberi (Giard) Petch SPECIES
 
 #### Status
 ACCEPTED

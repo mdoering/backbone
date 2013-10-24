@@ -1,5 +1,4 @@
-Hydrocybe ochraceoleonina Velen. SPECIES
-=======
+# Hydrocybe ochraceoleonina Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea pallidonigra Ach. SPECIES
-=======
+# Lecidea pallidonigra Ach. SPECIES
 
 #### Status
 ACCEPTED

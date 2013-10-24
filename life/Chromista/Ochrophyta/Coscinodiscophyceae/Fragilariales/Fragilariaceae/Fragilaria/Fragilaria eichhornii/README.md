@@ -1,5 +1,4 @@
-Fragilaria eichhornii Witkowski & Lange-Bertalot SPECIES
-=======
+# Fragilaria eichhornii Witkowski & Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Bacterium amylovorus (Burrill, 1882) Chester, 1897 SPECIES
-=======
+# Erwinia amylovora (Burrill, 1882) Winslow et al., 1920 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

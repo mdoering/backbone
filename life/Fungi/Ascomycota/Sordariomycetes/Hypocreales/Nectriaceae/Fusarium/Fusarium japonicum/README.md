@@ -1,5 +1,4 @@
-Fusarium japonicum Allesch. SPECIES
-=======
+# Fusarium japonicum Allesch. SPECIES
 
 #### Status
 ACCEPTED

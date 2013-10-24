@@ -1,5 +1,4 @@
-Scoleciocarpus tener Berk. SPECIES
-=======
+# Scoleciocarpus tener Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia pseudohungarica var. pseudohungarica VARIETY
-=======
+# Parmelia pseudohungarica (Gyeln.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia pseudohungarica var. pseudohungarica
+Parmelia convoluta var. pseudohungarica Gyeln.
 
 ### Remarks
 null

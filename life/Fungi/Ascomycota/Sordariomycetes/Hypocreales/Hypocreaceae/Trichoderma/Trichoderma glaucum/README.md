@@ -1,5 +1,4 @@
-Trichoderma glaucum E.V. Abbott, 1927 SPECIES
-=======
+# Trichoderma glaucum E.V. Abbott, 1927 SPECIES
 
 #### Status
 ACCEPTED

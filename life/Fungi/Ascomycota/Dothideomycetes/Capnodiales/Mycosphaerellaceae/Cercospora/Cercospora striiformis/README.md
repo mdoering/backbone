@@ -1,17 +1,16 @@
-Cercospora striaeforme G. Winter SPECIES
-=======
+# Cercospora striiformis G. Winter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 25: 103 (1886)
 
 #### Original name
-Cercospora striaeforme G. Winter
+Cercospora striiformis G. Winter
 
 ### Remarks
 null

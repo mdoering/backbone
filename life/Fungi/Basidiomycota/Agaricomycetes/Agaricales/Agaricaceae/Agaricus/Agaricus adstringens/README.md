@@ -1,5 +1,4 @@
-Agaricus adstringens Pers. SPECIES
-=======
+# Agaricus adstringens Pers. SPECIES
 
 #### Status
 ACCEPTED

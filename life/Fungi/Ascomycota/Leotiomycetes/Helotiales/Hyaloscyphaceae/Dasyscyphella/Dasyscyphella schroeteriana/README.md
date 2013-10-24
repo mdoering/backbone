@@ -1,5 +1,4 @@
-Dasyscyphella schroeteriana Rehm SPECIES
-=======
+# Dasyscyphella schroeteriana Rehm SPECIES
 
 #### Status
 ACCEPTED

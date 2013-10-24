@@ -1,5 +1,4 @@
-Episphaerella araucariae Butin & Speer SPECIES
-=======
+# Episphaerella araucariae Butin & Speer SPECIES
 
 #### Status
 ACCEPTED

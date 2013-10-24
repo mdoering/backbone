@@ -1,5 +1,4 @@
-Cortinarius micaceus M.M. Moser SPECIES
-=======
+# Cortinarius micaceus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

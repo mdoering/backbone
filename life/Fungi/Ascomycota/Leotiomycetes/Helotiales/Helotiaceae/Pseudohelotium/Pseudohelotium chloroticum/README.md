@@ -1,5 +1,4 @@
-Pseudohelotium chloroticum Kunze SPECIES
-=======
+# Pseudohelotium chloroticum Kunze SPECIES
 
 #### Status
 ACCEPTED

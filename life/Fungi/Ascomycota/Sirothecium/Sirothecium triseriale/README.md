@@ -1,5 +1,4 @@
-Sirothecium triseriale D.M. Hu, Hong Zhu, K.Q. Zhang, L. Cai & K.D. Hyde SPECIES
-=======
+# Sirothecium triseriale D.M. Hu, Hong Zhu, K.Q. Zhang, L. Cai & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

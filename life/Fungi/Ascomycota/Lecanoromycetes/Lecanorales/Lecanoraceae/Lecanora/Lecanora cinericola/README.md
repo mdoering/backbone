@@ -1,5 +1,4 @@
-Lecanora cinericola Hue SPECIES
-=======
+# Lecanora cinericola Hue SPECIES
 
 #### Status
 ACCEPTED

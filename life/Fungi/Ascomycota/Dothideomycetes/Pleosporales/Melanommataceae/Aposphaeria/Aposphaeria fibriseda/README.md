@@ -1,5 +1,4 @@
-Aposphaeria fibriseda (Cooke & Ellis) Sacc. SPECIES
-=======
+# Aposphaeria fibriseda (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

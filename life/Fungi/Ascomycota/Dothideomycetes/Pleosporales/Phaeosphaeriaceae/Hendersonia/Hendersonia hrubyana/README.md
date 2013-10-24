@@ -1,5 +1,4 @@
-Hendersonia hrubyana Petr. SPECIES
-=======
+# Hendersonia hrubyana Petr. SPECIES
 
 #### Status
 ACCEPTED

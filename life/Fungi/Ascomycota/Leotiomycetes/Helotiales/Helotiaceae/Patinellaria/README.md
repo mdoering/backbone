@@ -1,5 +1,4 @@
-Patinellaria H. Karst. GENUS
-=======
+# Patinellaria H. Karst. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystangium pineti Singer, 1985 SPECIES
-=======
+# Cystangium pineti Singer, 1985 SPECIES
 
 #### Status
 ACCEPTED

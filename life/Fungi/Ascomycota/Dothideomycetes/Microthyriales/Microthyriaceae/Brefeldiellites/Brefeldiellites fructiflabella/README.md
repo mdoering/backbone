@@ -1,5 +1,4 @@
-Brefeldiellites fructiflabella Dilcher SPECIES
-=======
+# Brefeldiellites fructiflabella Dilcher SPECIES
 
 #### Status
 ACCEPTED

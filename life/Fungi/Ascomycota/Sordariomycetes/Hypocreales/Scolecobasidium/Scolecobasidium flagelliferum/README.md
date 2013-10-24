@@ -1,5 +1,4 @@
-Scolecobasidium flagelliferum Matsush. SPECIES
-=======
+# Scolecobasidium flagelliferum Matsush. SPECIES
 
 #### Status
 ACCEPTED

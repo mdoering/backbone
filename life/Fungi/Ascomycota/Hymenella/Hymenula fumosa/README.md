@@ -1,5 +1,4 @@
-Hymenula fumosa Cooke & Ellis SPECIES
-=======
+# Hymenula fumosa Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spilomium trachylioides (Th. Fr.) Erichsen SPECIES
-=======
+# Spilomium trachylioides (Th. Fr.) Erichsen SPECIES
 
 #### Status
 ACCEPTED

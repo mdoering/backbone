@@ -1,5 +1,4 @@
-Eichleriella alliciens (Berk. & Cooke) Burt SPECIES
-=======
+# Eichleriella alliciens (Berk. & Cooke) Burt SPECIES
 
 #### Status
 ACCEPTED

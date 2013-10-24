@@ -1,5 +1,4 @@
-Lecidora acrustacea (Schaer.) Motyka SPECIES
-=======
+# Lecidora acrustacea (Schaer.) Motyka SPECIES
 
 #### Status
 ACCEPTED

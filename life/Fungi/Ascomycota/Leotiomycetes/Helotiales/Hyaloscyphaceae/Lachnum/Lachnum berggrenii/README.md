@@ -1,5 +1,4 @@
-Lachnum berggrenii Spooner, 1987 SPECIES
-=======
+# Lachnum berggrenii Spooner, 1987 SPECIES
 
 #### Status
 ACCEPTED

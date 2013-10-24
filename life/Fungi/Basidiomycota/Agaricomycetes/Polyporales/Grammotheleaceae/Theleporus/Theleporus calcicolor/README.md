@@ -1,14 +1,13 @@
-Poria calcicolor Sacc. & P. Syd., 1899 SPECIES
-=======
+# Theleporus calcicolor (Sacc. & P. Syd.) Ryvarden, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 14(1): 192 (1899)
+Trans. Br. mycol. Soc. 73(1): 12 (1979)
 
 #### Original name
 Poria calcicolor Sacc. & P. Syd., 1899

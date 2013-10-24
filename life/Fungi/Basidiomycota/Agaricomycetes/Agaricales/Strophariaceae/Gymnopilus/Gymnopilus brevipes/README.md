@@ -1,5 +1,4 @@
-Gymnopilus brevipes (Cleland) Grgur. SPECIES
-=======
+# Gymnopilus brevipes (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

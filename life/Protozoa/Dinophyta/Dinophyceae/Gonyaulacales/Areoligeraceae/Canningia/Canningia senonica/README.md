@@ -1,5 +1,4 @@
-Canningia senonica Clarke & Verdier, 1967 SPECIES
-=======
+# Canningia senonica Clarke & Verdier, 1967 SPECIES
 
 #### Status
 ACCEPTED

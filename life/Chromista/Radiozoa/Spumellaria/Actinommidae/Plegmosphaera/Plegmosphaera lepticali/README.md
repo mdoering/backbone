@@ -1,5 +1,4 @@
-Plegmosphaera lepticali Renz, 1976 SPECIES
-=======
+# Plegmosphaera lepticali Renz, 1976 SPECIES
 
 #### Status
 ACCEPTED

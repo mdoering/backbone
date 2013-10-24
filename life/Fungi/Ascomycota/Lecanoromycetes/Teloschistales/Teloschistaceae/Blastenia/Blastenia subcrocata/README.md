@@ -1,5 +1,4 @@
-Blastenia subcrocata (J. Steiner) Zahlbr. SPECIES
-=======
+# Blastenia subcrocata (J. Steiner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Frontonia alba Fromentel, 1876 SPECIES
-=======
+# Frontonia alba Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

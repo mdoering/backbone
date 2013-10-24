@@ -1,5 +1,4 @@
-Pseudotristix GENUS
-=======
+# Pseudotristix GENUS
 
 #### Status
 ACCEPTED

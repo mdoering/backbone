@@ -1,8 +1,7 @@
-Polyangium cellulosum (ex Imshenetski & Solntseva, 1936) Brockman, 1989 SPECIES
-=======
+# Sorangium cellulosum SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

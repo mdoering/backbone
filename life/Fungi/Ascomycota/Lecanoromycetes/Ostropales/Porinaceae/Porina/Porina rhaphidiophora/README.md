@@ -1,14 +1,13 @@
-Porina rhaphidospora (C. Knight) Müll. Arg. SPECIES
-=======
+# Porina rhaphidiophora (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Meetings Australs. Assoc. Advancem. Sci. 453 (1895)
+Hedwigia 31: 288 (1892)
 
 #### Original name
 null

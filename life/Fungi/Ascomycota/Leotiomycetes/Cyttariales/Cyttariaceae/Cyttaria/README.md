@@ -1,5 +1,4 @@
-Cyttaria Berk. GENUS
-=======
+# Cyttaria Berk. GENUS
 
 #### Status
 ACCEPTED

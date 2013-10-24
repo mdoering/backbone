@@ -1,5 +1,4 @@
-Stegophorella axonopifolii Bat. & Peres SPECIES
-=======
+# Stegophorella axonopifolii Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

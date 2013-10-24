@@ -1,5 +1,4 @@
-Buellia pandani H. Magn. SPECIES
-=======
+# Buellia pandani H. Magn. SPECIES
 
 #### Status
 ACCEPTED

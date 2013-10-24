@@ -1,5 +1,4 @@
-Gamsiella (R.K. Benj.) Benny & M. Blackw. GENUS
-=======
+# Gamsiella (R.K. Benj.) Benny & M. Blackw. GENUS
 
 #### Status
 ACCEPTED

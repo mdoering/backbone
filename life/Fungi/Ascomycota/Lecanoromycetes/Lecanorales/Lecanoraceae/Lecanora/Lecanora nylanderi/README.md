@@ -1,5 +1,4 @@
-Lecanora nylanderi P. Crouan & H. Crouan SPECIES
-=======
+# Lecanora nylanderi P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

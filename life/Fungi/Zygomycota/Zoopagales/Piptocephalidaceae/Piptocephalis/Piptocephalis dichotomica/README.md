@@ -1,5 +1,4 @@
-Piptocephalis dichotomica Krzemien. & Badura, 1954 SPECIES
-=======
+# Piptocephalis dichotomica Krzemien. & Badura, 1954 SPECIES
 
 #### Status
 ACCEPTED

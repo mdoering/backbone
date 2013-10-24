@@ -1,5 +1,4 @@
-Glabratella venezuelensis SPECIES
-=======
+# Glabratella venezuelensis SPECIES
 
 #### Status
 ACCEPTED

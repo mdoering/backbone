@@ -1,5 +1,4 @@
-Phyllosticta urenae (Syd.) Aa SPECIES
-=======
+# Phyllosticta urenae (Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

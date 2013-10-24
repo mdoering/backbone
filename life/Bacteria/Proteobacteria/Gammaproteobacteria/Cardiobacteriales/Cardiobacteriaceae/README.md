@@ -1,5 +1,4 @@
-Cardiobacteriaceae FAMILY
-=======
+# Cardiobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

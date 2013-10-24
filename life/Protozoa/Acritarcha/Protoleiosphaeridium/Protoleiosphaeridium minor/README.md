@@ -1,5 +1,4 @@
-Protoleiosphaeridium minor Shepeleva, 1963 ex Yin Leiming & Li Zaiping SPECIES
-=======
+# Protoleiosphaeridium minor Shepeleva, 1963 ex Yin Leiming & Li Zaiping SPECIES
 
 #### Status
 ACCEPTED

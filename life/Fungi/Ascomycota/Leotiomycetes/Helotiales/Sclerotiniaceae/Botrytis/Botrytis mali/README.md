@@ -1,5 +1,4 @@
-Botrytis mali Heald SPECIES
-=======
+# Botrytis mali Heald SPECIES
 
 #### Status
 ACCEPTED

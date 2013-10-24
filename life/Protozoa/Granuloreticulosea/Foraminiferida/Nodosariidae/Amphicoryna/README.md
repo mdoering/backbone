@@ -1,14 +1,13 @@
-Amphicoryne Brady, 1884 GENUS
-=======
+# Amphicoryna Milne-Edwards, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Voy. Challenger, Zool. , 9, 556.
+C. R. Acad. Sci. Paris, 93, 881.
 
 #### Original name
 null

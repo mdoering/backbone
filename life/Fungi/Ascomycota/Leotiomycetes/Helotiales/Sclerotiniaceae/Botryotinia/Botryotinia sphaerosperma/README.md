@@ -1,14 +1,13 @@
-Sclerotinia sphaerosperma P.H. Greg., 1941 SPECIES
-=======
+# Botryotinia sphaerosperma (P.H. Greg.) N.F. Buchw., 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 25: 37 (1941)
+K. VetHojsk. Aarsskr. 32: 137 (1949)
 
 #### Original name
 Sclerotinia sphaerosperma P.H. Greg., 1941

@@ -1,5 +1,4 @@
-Gautieria chilensis Zeller & C.W. Dodge SPECIES
-=======
+# Gautieria chilensis Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

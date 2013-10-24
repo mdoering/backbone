@@ -1,5 +1,4 @@
-Aspicilia laurensii B. de Lesd. SPECIES
-=======
+# Aspicilia laurensii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

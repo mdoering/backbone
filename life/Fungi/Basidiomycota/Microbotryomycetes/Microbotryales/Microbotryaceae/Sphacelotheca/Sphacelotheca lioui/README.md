@@ -1,5 +1,4 @@
-Sphacelotheca lioui W.Y. Yen SPECIES
-=======
+# Sphacelotheca lioui W.Y. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Biatora petsamoënsis (Räsänen) Räsänen SPECIES
-=======
+# Biatora petsamoensis (Räsänen) Räsänen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

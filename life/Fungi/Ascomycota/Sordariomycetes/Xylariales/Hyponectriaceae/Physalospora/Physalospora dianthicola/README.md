@@ -1,5 +1,4 @@
-Physalospora dianthicola T.M. Achundov SPECIES
-=======
+# Physalospora dianthicola T.M. Achundov SPECIES
 
 #### Status
 ACCEPTED

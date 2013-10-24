@@ -1,5 +1,4 @@
-Pseudolachnea pallida Velen. SPECIES
-=======
+# Pseudolachnea pallida Velen. SPECIES
 
 #### Status
 ACCEPTED

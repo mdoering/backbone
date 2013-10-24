@@ -1,5 +1,4 @@
-Xylaria torulosa (Jungh.) Speg. SPECIES
-=======
+# Xylaria torulosa (Jungh.) Speg. SPECIES
 
 #### Status
 ACCEPTED

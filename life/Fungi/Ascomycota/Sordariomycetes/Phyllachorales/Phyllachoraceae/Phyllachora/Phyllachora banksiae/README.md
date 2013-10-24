@@ -1,5 +1,4 @@
-Phyllachora banksiae banksiae (H.J. Swart) C.A. Pearce & K.D. Hyde, 2001 INFRASPECIFIC_NAME
-=======
+# Phyllachora banksiae SPECIES
 
 #### Status
 ACCEPTED

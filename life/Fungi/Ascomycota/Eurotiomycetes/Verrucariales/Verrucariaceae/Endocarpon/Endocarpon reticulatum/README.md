@@ -1,5 +1,4 @@
-Endocarpon reticulatum Dufour SPECIES
-=======
+# Endocarpon reticulatum Dufour SPECIES
 
 #### Status
 ACCEPTED

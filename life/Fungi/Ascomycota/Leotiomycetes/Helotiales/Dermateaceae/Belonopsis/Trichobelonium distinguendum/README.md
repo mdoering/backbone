@@ -1,5 +1,4 @@
-Trichobelonium distinguendum Syd. {?} SPECIES
-=======
+# Trichobelonium distinguendum Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

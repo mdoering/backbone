@@ -1,5 +1,4 @@
-Coniothyrium chochrjakovii Hüseyin SPECIES
-=======
+# Coniothyrium chochrjakovii Hüseyin SPECIES
 
 #### Status
 ACCEPTED

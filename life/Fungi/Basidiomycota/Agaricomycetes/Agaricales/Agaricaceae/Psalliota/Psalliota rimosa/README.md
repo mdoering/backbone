@@ -1,5 +1,4 @@
-Psalliota rimosa Henn. SPECIES
-=======
+# Psalliota rimosa Henn. SPECIES
 
 #### Status
 ACCEPTED

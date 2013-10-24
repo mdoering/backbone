@@ -1,8 +1,7 @@
-Stokesia tetraedrica Faure-Fremiet, ? SPECIES
-=======
+# Disematostoma tetraedricum (Faure-Fremiet, 1924) Kahl, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

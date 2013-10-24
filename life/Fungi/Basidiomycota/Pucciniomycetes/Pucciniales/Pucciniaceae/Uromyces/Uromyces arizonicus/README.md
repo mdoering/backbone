@@ -1,5 +1,4 @@
-Uromyces arizonicus Tracy & L.D. Galloway SPECIES
-=======
+# Uromyces arizonicus Tracy & L.D. Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma irregulare (Dietel) Arthur & H.S. Jacks. SPECIES
-=======
+# Dicaeoma irregulare (Dietel) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

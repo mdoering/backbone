@@ -1,5 +1,4 @@
-Leptosphaeria indica Syd. & E.J. Butler SPECIES
-=======
+# Leptosphaeria indica Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

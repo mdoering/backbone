@@ -1,5 +1,4 @@
-Septoria thespesicola Thirum. SPECIES
-=======
+# Septoria thespesicola Thirum. SPECIES
 
 #### Status
 ACCEPTED

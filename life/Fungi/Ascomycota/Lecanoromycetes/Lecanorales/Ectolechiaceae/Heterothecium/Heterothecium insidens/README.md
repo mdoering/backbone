@@ -1,5 +1,4 @@
-Heterothecium insidens (Stirt.) Müll. Arg. SPECIES
-=======
+# Heterothecium insidens (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

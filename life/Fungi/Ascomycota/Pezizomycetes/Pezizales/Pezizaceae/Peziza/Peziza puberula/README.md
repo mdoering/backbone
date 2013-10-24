@@ -1,5 +1,4 @@
-Peziza puberula Berk. & M.A. Curtis SPECIES
-=======
+# Peziza puberula Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

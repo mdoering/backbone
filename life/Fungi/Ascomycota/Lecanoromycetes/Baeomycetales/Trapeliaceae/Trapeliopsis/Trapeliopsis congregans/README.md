@@ -1,14 +1,13 @@
-Lecidea congregans Zahlbr. SPECIES
-=======
+# Trapeliopsis congregans (Zahlbr.) Brako SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 35(1): 16 (1989)
 
 #### Original name
 Lecidea congregans Zahlbr.

@@ -1,5 +1,4 @@
-Balansia brevis (Berk. & Broome) Höhn. SPECIES
-=======
+# Balansia brevis (Berk. & Broome) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium hispanicum Guarro & Arx, 1986 SPECIES
-=======
+# Chaetomium hispanicum Guarro & Arx, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Planolinderina Freudenthal, 1969 GENUS
-=======
+# Planolinderina Freudenthal, 1969 GENUS
 
 #### Status
 ACCEPTED

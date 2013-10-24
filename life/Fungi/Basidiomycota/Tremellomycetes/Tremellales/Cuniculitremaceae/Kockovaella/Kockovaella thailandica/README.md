@@ -1,5 +1,4 @@
-Kockovaella thailandica Nakase, I. Banno & Y. Yamada, 1991 SPECIES
-=======
+# Kockovaella thailandica Nakase, I. Banno & Y. Yamada, 1991 SPECIES
 
 #### Status
 ACCEPTED

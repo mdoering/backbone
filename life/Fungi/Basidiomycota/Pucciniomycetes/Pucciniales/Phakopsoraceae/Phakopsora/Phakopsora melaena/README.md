@@ -1,5 +1,4 @@
-Phakopsora melaena Syd. SPECIES
-=======
+# Phakopsora melaena Syd. SPECIES
 
 #### Status
 ACCEPTED

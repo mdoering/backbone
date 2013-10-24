@@ -1,14 +1,13 @@
-Dothidea explanata Lév., 1845 SPECIES
-=======
+# Phyllachora explanata (Lév.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 3: 56 (1845)
+Syll. fung. (Abellini) 2: 596 (1883)
 
 #### Original name
 Dothidea explanata Lév., 1845

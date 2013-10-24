@@ -1,5 +1,4 @@
-Clitopilus unitinctus Peck SPECIES
-=======
+# Clitopilus unitinctus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Transversopontis pulcher (Deflandre in Deflandre & Fert, 1954) Perch-Nielsen, 1967 SPECIES
-=======
+# Transversopontis pulcher (Deflandre in Deflandre & Fert, 1954) Perch-Nielsen, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia vulpinoideae Dietel & Holw. SPECIES
-=======
+# Puccinia vulpinoideae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

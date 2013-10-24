@@ -1,5 +1,4 @@
-Phyllosticta rosae Desm., 1859 SPECIES
-=======
+# Phyllosticta rosae Desm., 1859 SPECIES
 
 #### Status
 ACCEPTED

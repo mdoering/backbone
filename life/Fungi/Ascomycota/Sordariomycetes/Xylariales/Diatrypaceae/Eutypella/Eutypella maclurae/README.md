@@ -1,5 +1,4 @@
-Eutypella maclurae (Cooke & Ellis) Ellis SPECIES
-=======
+# Eutypella maclurae (Cooke & Ellis) Ellis SPECIES
 
 #### Status
 ACCEPTED

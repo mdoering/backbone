@@ -1,5 +1,4 @@
-Nigredo eleocharidis (Arthur) Arthur SPECIES
-=======
+# Nigredo eleocharidis (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

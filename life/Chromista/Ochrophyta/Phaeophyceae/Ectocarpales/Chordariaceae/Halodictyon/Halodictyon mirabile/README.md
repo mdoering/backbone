@@ -1,5 +1,4 @@
-Halodictyon mirabile Zanardini SPECIES
-=======
+# Halodictyon mirabile Zanardini SPECIES
 
 #### Status
 ACCEPTED

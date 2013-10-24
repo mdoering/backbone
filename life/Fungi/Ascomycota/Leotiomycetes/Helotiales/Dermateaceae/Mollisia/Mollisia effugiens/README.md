@@ -1,5 +1,4 @@
-Mollisia effugiens (Roberge ex Desm.) W. Phillips SPECIES
-=======
+# Mollisia effugiens (Roberge ex Desm.) W. Phillips SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collarium Link, 1809 GENUS
-=======
+# Collarium Link, 1809 GENUS
 
 #### Status
 ACCEPTED

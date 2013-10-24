@@ -1,5 +1,4 @@
-Stetsonia horvathi Green, 1960 SPECIES
-=======
+# Stetsonia horvathi Green, 1960 SPECIES
 
 #### Status
 ACCEPTED

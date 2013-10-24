@@ -1,5 +1,4 @@
-Asterina coriacella Speg., 1889 SPECIES
-=======
+# Asterina coriacella Speg., 1889 SPECIES
 
 #### Status
 ACCEPTED

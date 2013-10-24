@@ -1,17 +1,16 @@
-Catacauma macrosiphoniae (Henn.) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora heteropteridis Henn., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 397 (1915)
+Hedwigia 41: 110 (1902)
 
 #### Original name
-Phyllachora macrosiphoniae Henn., 1904
+Phyllachora heteropteridis Henn., 1902
 
 ### Remarks
 null

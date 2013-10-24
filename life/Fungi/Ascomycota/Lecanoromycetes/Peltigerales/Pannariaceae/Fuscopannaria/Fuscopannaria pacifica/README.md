@@ -1,5 +1,4 @@
-Fuscopannaria pacifica P. M. Jørg. SPECIES
-=======
+# Fuscopannaria pacifica P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

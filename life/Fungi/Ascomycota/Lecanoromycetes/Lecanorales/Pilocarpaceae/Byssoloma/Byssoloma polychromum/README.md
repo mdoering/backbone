@@ -1,5 +1,4 @@
-Byssoloma polychromum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Byssoloma polychromum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

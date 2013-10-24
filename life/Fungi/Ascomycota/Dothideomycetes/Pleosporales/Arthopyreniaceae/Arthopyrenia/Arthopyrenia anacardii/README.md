@@ -1,5 +1,4 @@
-Arthopyrenia anacardii Vain. SPECIES
-=======
+# Arthopyrenia anacardii Vain. SPECIES
 
 #### Status
 ACCEPTED

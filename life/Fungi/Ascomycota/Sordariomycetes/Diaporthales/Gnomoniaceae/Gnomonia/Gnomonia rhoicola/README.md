@@ -1,17 +1,16 @@
-Gnomonia rhuicola M.E. Barr SPECIES
-=======
+# Gnomonia rhoicola M.E. Barr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Mem. 7: 50 (1978)
 
 #### Original name
-Gnomonia rhuicola M.E. Barr
+Gnomonia rhoicola M.E. Barr
 
 ### Remarks
 null

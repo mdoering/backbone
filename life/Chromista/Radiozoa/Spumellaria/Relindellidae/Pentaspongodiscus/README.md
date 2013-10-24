@@ -1,5 +1,4 @@
-Pentaspongodiscus Kozur & Mostler, 1979 GENUS
-=======
+# Pentaspongodiscus Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coelomomyces dentialatus Couch & Rajap. SPECIES
-=======
+# Coelomomyces dentialatus Couch & Rajap. SPECIES
 
 #### Status
 ACCEPTED

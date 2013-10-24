@@ -1,5 +1,4 @@
-Cyphella tijucensis Henn. SPECIES
-=======
+# Cyphella tijucensis Henn. SPECIES
 
 #### Status
 ACCEPTED

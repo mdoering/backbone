@@ -1,5 +1,4 @@
-Fulvimonas Mergaert et al., 2002 GENUS
-=======
+# Fulvimonas Mergaert et al., 2002 GENUS
 
 #### Status
 ACCEPTED

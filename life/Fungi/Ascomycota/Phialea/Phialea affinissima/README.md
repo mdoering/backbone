@@ -1,5 +1,4 @@
-Phialea affinissima (Peck) Sacc. SPECIES
-=======
+# Phialea affinissima (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

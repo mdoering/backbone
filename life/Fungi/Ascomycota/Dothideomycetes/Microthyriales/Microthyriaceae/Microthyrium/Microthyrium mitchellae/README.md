@@ -1,5 +1,4 @@
-Microthyrium mitchellae Cooke SPECIES
-=======
+# Microthyrium mitchellae Cooke SPECIES
 
 #### Status
 ACCEPTED

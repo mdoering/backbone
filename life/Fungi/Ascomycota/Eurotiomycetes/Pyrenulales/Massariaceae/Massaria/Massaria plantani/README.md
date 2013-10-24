@@ -1,5 +1,4 @@
-Massaria plantani var. plantani VARIETY
-=======
+# Massaria plantani SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Massaria plantani var. plantani
+Massaria plantani
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Comptaluta alisoniae Colbath, 1979 SPECIES
-=======
+# Comptaluta alisoniae Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

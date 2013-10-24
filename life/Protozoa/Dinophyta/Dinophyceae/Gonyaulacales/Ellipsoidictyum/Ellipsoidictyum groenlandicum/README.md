@@ -1,5 +1,4 @@
-Ellipsoidictyum groenlandicum M. Smelror SPECIES
-=======
+# Ellipsoidictyum groenlandicum M. Smelror SPECIES
 
 #### Status
 ACCEPTED

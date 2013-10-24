@@ -1,5 +1,4 @@
-Plicaria disciformis Velen. SPECIES
-=======
+# Plicaria disciformis Velen. SPECIES
 
 #### Status
 ACCEPTED

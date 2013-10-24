@@ -1,17 +1,16 @@
-Poria lamellosa var. lamellosa VARIETY
-=======
+# Gloiothele lamellosa (Henn.) Bres., 1920 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 33: 35 (1904)
+Annls mycol. 18(1/3): 43 (1920)
 
 #### Original name
-Poria lamellosa var. lamellosa
+Poria lamellosa Henn., 1904
 
 ### Remarks
 null

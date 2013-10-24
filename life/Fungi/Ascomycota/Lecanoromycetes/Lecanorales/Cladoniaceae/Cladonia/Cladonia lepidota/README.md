@@ -1,5 +1,4 @@
-Cladonia lepidota var. lepidota VARIETY
-=======
+# Cladonia lepidota Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia lepidota var. lepidota
+Cladonia lepidota Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Verrucaria limae Samp. SPECIES
-=======
+# Verrucaria limae Samp. SPECIES
 
 #### Status
 ACCEPTED

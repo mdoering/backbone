@@ -1,5 +1,4 @@
-Lichen denticulatus Schrank SPECIES
-=======
+# Lichen denticulatus Schrank SPECIES
 
 #### Status
 ACCEPTED

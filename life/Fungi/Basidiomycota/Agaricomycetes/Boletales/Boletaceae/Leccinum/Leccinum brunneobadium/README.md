@@ -1,5 +1,4 @@
-Leccinum brunneobadium (J. Blum) Lannoy & Estadès SPECIES
-=======
+# Leccinum brunneobadium (J. Blum) Lannoy & Estadès SPECIES
 
 #### Status
 ACCEPTED

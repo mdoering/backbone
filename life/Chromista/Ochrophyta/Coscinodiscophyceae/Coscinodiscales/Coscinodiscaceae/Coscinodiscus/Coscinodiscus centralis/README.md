@@ -1,5 +1,4 @@
-Coscinodiscus centralis Ehrenberg, 1844 SPECIES
-=======
+# Coscinodiscus centralis Ehrenberg, 1844 SPECIES
 
 #### Status
 ACCEPTED

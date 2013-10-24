@@ -1,5 +1,4 @@
-Pyrenochaeta oryzae Shirai ex I. Miyake, 1910 SPECIES
-=======
+# Pyrenochaeta oryzae Shirai ex I. Miyake, 1910 SPECIES
 
 #### Status
 ACCEPTED

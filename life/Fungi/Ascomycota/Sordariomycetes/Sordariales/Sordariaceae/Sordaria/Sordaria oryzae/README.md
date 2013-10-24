@@ -1,5 +1,4 @@
-Sordaria oryzae Hara SPECIES
-=======
+# Sordaria oryzae Hara SPECIES
 
 #### Status
 ACCEPTED

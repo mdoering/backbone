@@ -1,5 +1,4 @@
-Ceriomyces pseudoboletinus Murrill SPECIES
-=======
+# Ceriomyces pseudoboletinus Murrill SPECIES
 
 #### Status
 ACCEPTED

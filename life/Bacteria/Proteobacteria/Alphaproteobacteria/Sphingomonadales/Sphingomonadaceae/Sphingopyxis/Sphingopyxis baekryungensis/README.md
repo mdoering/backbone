@@ -1,5 +1,4 @@
-Sphingopyxis baekryungensis Yoon et al., 2005 SPECIES
-=======
+# Sphingopyxis baekryungensis Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

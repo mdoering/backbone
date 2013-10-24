@@ -1,14 +1,13 @@
-Craterellus humphreyi Burt, 1914 SPECIES
-=======
+# Stereopsis humphreyi (Burt) Redhead & D.A. Reid, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 1: 344 (1914)
+Can. J. Bot. 61(12): 3088 (1984)
 
 #### Original name
 Craterellus humphreyi Burt, 1914

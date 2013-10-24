@@ -1,5 +1,4 @@
-Psilosphaera S.C.D. Sah & R.K. Kar, 1974 GENUS
-=======
+# Psilosphaera S.C.D. Sah & R.K. Kar, 1974 GENUS
 
 #### Status
 ACCEPTED

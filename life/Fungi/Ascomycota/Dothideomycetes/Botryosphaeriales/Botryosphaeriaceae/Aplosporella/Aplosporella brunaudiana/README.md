@@ -1,5 +1,4 @@
-Aplosporella brunaudiana Pass. SPECIES
-=======
+# Aplosporella brunaudiana Pass. SPECIES
 
 #### Status
 ACCEPTED

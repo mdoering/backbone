@@ -1,5 +1,4 @@
-Aplosporella briosiana Tognini SPECIES
-=======
+# Aplosporella briosiana Tognini SPECIES
 
 #### Status
 ACCEPTED

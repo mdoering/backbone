@@ -1,5 +1,4 @@
-Anthracothecium collosporum SPECIES
-=======
+# Anthracothecium collosporum SPECIES
 
 #### Status
 ACCEPTED

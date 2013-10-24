@@ -1,5 +1,4 @@
-Leptosphaeria themedicola L. Ling SPECIES
-=======
+# Leptosphaeria themedicola L. Ling SPECIES
 
 #### Status
 ACCEPTED

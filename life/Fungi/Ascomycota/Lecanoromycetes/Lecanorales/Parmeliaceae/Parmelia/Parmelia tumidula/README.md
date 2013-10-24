@@ -1,5 +1,4 @@
-Parmelia tumidula (Pers.) Spreng. SPECIES
-=======
+# Parmelia tumidula (Pers.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

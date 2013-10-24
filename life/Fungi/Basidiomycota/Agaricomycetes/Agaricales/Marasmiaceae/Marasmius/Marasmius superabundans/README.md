@@ -1,5 +1,4 @@
-Marasmius superabundans Murrill SPECIES
-=======
+# Marasmius superabundans Murrill SPECIES
 
 #### Status
 ACCEPTED

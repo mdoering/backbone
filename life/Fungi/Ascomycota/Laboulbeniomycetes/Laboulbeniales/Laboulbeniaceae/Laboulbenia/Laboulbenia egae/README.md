@@ -1,5 +1,4 @@
-Laboulbenia egae Thaxt. SPECIES
-=======
+# Laboulbenia egae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

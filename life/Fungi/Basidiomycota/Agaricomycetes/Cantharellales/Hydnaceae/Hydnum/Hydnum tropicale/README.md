@@ -1,5 +1,4 @@
-Hydnum tropicale Pat. & Gaillard SPECIES
-=======
+# Hydnum tropicale Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

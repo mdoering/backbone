@@ -1,5 +1,4 @@
-Cryptovalsa rubi Pass. & Beltr. SPECIES
-=======
+# Cryptovalsa rubi Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

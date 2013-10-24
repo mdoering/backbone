@@ -1,5 +1,4 @@
-Lecanora leptacinodes (Vain.) C.W. Dodge SPECIES
-=======
+# Lecanora leptacinodes (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

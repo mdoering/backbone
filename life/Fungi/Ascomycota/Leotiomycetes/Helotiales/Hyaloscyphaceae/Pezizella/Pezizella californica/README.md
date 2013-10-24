@@ -1,5 +1,4 @@
-Pezizella californica (Sacc.) Rehm SPECIES
-=======
+# Pezizella californica (Sacc.) Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria analtiza Stirt. SPECIES
-=======
+# Verrucaria analtiza Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium trifurcatum SPECIES
-=======
+# Baltisphaeridium trifurcatum SPECIES
 
 #### Status
 ACCEPTED

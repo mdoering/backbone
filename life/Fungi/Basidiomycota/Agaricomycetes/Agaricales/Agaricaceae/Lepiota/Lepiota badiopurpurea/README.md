@@ -1,5 +1,4 @@
-Lepiota badiopurpurea Papetti SPECIES
-=======
+# Lepiota badiopurpurea Papetti SPECIES
 
 #### Status
 ACCEPTED

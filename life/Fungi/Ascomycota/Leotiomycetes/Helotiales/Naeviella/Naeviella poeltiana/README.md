@@ -1,5 +1,4 @@
-Naeviella poeltiana Scheuer, 1988 SPECIES
-=======
+# Naeviella poeltiana Scheuer, 1988 SPECIES
 
 #### Status
 ACCEPTED

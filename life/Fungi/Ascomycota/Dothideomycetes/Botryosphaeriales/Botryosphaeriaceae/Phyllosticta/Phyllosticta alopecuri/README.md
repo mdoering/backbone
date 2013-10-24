@@ -1,5 +1,4 @@
-Phyllosticta alopecuri Lavrov SPECIES
-=======
+# Phyllosticta alopecuri Lavrov SPECIES
 
 #### Status
 ACCEPTED

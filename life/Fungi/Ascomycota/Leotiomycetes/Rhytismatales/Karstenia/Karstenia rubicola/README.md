@@ -1,5 +1,4 @@
-Karstenia rubicola (Ellis & Dearn.) Sherwood, 1980 SPECIES
-=======
+# Karstenia rubicola (Ellis & Dearn.) Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

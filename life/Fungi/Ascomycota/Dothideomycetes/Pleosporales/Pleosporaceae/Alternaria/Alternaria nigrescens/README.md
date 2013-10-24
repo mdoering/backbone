@@ -1,5 +1,4 @@
-Alternaria nigrescens Neerg. SPECIES
-=======
+# Alternaria nigrescens Neerg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Aposphaeria stenospora Harm. SPECIES
-=======
+# Epicladonia stenospora (Harm.) D. Hawksw., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 9(1): 20 (1981)
 
 #### Original name
 null

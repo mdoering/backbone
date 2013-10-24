@@ -1,5 +1,4 @@
-Phoma pittospori var. pittospori Cooke & Harkn. VARIETY
-=======
+# Phoma pittospori Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma pittospori var. pittospori Cooke & Harkn.
+Phoma pittospori Cooke & Harkn.
 
 ### Remarks
 null

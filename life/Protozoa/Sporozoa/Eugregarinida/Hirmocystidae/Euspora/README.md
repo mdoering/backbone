@@ -1,5 +1,4 @@
-Euspora Schneider, 1875 GENUS
-=======
+# Euspora Schneider, 1875 GENUS
 
 #### Status
 ACCEPTED

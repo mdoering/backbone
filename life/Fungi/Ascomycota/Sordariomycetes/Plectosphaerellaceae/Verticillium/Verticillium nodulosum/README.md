@@ -1,5 +1,4 @@
-Verticillium nodulosum (Petch) W. Gams SPECIES
-=======
+# Verticillium nodulosum (Petch) W. Gams SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta concava Seaver SPECIES
-=======
+# Phyllosticta concava Seaver SPECIES
 
 #### Status
 ACCEPTED

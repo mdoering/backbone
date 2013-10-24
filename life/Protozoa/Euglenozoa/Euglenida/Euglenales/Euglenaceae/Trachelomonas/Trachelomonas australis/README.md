@@ -1,5 +1,4 @@
-Trachelomonas australis var. obesa Playfair VARIETY
-=======
+# Trachelomonas australis Playfair SPECIES
 
 #### Status
 ACCEPTED

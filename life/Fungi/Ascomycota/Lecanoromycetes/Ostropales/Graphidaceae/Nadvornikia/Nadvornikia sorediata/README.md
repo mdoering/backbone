@@ -1,5 +1,4 @@
-Nadvornikia sorediata R.C. Harris SPECIES
-=======
+# Nadvornikia sorediata R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

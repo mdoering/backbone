@@ -1,5 +1,4 @@
-Xerocomus njalaensis (Beeli) Heinem. SPECIES
-=======
+# Xerocomus njalaensis (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

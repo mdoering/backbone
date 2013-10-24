@@ -1,5 +1,4 @@
-Ramalina reticulata (Hoffm.) Kremp. SPECIES
-=======
+# Ramalina reticulata (Hoffm.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

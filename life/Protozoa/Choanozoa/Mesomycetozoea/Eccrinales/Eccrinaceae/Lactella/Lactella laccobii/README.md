@@ -1,5 +1,4 @@
-Lactella laccobii Maessen SPECIES
-=======
+# Lactella laccobii Maessen SPECIES
 
 #### Status
 ACCEPTED

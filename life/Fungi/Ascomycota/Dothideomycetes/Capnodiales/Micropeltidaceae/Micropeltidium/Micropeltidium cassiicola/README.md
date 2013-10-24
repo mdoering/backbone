@@ -1,5 +1,4 @@
-Micropeltidium cassiicola Bat. SPECIES
-=======
+# Micropeltidium cassiicola Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Striglia levis (Hook.) Kuntze SPECIES
-=======
+# Striglia levis (Hook.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

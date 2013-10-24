@@ -1,5 +1,4 @@
-Clitocybe subbulbipes Murrill SPECIES
-=======
+# Clitocybe subbulbipes Murrill SPECIES
 
 #### Status
 ACCEPTED

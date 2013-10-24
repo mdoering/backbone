@@ -1,5 +1,4 @@
-Trachelomonas terminus Palmer SPECIES
-=======
+# Trachelomonas terminus Palmer SPECIES
 
 #### Status
 ACCEPTED

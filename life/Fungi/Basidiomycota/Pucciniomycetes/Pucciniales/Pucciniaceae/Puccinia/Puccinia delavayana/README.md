@@ -1,5 +1,4 @@
-Puccinia delavayana Pat. & Har. SPECIES
-=======
+# Puccinia delavayana Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

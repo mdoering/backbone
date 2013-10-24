@@ -1,5 +1,4 @@
-Coltriciella corticicola Corner SPECIES
-=======
+# Coltriciella corticicola Corner SPECIES
 
 #### Status
 ACCEPTED

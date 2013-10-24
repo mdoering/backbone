@@ -1,5 +1,4 @@
-Verrucaria perexigua (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria perexigua (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

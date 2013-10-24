@@ -1,5 +1,4 @@
-Kroswia P.M. Jørg. GENUS
-=======
+# Kroswia P.M. Jørg. GENUS
 
 #### Status
 ACCEPTED

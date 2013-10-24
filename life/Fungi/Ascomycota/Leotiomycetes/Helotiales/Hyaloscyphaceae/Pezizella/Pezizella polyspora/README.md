@@ -1,5 +1,4 @@
-Pezizella polyspora var. punctiformis P. Karst. VARIETY
-=======
+# Pezizella polyspora anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pezizella polyspora var. punctiformis P. Karst.
+Pezizella polyspora anon.
 
 ### Remarks
 null

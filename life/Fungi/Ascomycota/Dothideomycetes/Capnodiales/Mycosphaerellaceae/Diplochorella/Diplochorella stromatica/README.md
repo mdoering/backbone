@@ -1,5 +1,4 @@
-Diplochorella stromatica (Rehm) Theiss. & Syd. SPECIES
-=======
+# Diplochorella stromatica (Rehm) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

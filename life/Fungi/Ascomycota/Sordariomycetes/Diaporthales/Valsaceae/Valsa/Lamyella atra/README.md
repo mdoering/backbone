@@ -1,5 +1,4 @@
-Lamyella atra Bonord. SPECIES
-=======
+# Lamyella atra Bonord. SPECIES
 
 #### Status
 ACCEPTED

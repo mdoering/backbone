@@ -1,5 +1,4 @@
-Loxophyllum elaverinum Dumas, 1929 SPECIES
-=======
+# Loxophyllum elaverinum Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

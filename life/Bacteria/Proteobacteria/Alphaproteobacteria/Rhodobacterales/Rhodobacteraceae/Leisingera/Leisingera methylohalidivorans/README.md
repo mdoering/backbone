@@ -1,5 +1,4 @@
-Leisingera methylohalidivorans Schäfer et al., 2002 SPECIES
-=======
+# Leisingera methylohalidivorans Schäfer et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

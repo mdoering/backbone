@@ -1,14 +1,13 @@
-Panus fulvus var. similis (Berk. & Broome) Corner, 1981 VARIETY
-=======
+# Panus similis (Berk. & Broome) T.W. May & A.E. Wood, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 69: 85 (1981)
+Mycotaxon 54: 148 (1995)
 
 #### Original name
 Lentinus similis Berk. & Broome, 1875

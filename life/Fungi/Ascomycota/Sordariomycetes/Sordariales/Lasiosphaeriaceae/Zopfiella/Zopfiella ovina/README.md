@@ -1,14 +1,13 @@
-Triangularia ovina Udagawa, 1980 SPECIES
-=======
+# Zopfiella ovina (Udagawa) Guarro, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 21(3): 283 (1980)
+in Guarro & Cano, Trans. Br. mycol. Soc. 91(4): 589 (1988)
 
 #### Original name
 Triangularia ovina Udagawa, 1980

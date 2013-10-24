@@ -1,5 +1,4 @@
-Lepiota multicolor Berk. & Broome SPECIES
-=======
+# Lepiota multicolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

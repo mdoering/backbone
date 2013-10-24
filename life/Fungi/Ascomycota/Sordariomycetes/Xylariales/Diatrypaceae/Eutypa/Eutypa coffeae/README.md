@@ -1,5 +1,4 @@
-Eutypa coffeae Saccas SPECIES
-=======
+# Eutypa coffeae Saccas SPECIES
 
 #### Status
 ACCEPTED

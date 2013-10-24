@@ -1,5 +1,4 @@
-Astrophacura Haeckel, 1887 GENUS
-=======
+# Astrophacura Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

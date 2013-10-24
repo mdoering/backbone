@@ -1,5 +1,4 @@
-Pseudodiplodia symica (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia symica (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

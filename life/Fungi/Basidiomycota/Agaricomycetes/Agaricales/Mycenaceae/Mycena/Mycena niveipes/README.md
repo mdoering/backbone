@@ -1,5 +1,4 @@
-Mycena niveipes var. niveipes VARIETY
-=======
+# Mycena niveipes (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycologia 8(4): 221 (1916)
 
 #### Original name
-Mycena niveipes var. niveipes
+Prunulus niveipes Murrill
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Triposporium pinophilum Neger, 1917 SPECIES
-=======
+# Tripospermum pinophilum (Neger) Borowska, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 110: 112 (1917)
+Acta Mycologica, Warszawa 9(1): 102 (1973)
 
 #### Original name
 Triposporium pinophilum Neger, 1917

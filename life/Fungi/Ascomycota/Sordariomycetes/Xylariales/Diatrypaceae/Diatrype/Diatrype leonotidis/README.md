@@ -1,5 +1,4 @@
-Diatrype leonotidis Doidge SPECIES
-=======
+# Diatrype leonotidis Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Papularia rosea Grebenjuk & Kusnezowa SPECIES
-=======
+# Papularia rosea Grebenjuk & Kusnezowa SPECIES
 
 #### Status
 ACCEPTED

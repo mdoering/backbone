@@ -1,5 +1,4 @@
-Attheya lata Wooszynska SPECIES
-=======
+# Attheya lata Wooszynska SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diploschistes conceptionis Vain. SPECIES
-=======
+# Diploschistes conceptionis Vain. SPECIES
 
 #### Status
 ACCEPTED

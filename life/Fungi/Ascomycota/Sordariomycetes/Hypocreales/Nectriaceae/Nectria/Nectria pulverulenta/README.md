@@ -1,5 +1,4 @@
-Nectria pulverulenta Dingley SPECIES
-=======
+# Nectria pulverulenta Dingley SPECIES
 
 #### Status
 ACCEPTED

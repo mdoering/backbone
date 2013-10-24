@@ -1,5 +1,4 @@
-Asteroma bupleuri Thüm. SPECIES
-=======
+# Asteroma bupleuri Thüm. SPECIES
 
 #### Status
 ACCEPTED

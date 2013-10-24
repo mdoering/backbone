@@ -1,5 +1,4 @@
-Cortinarius albolilascens Rob. Henry SPECIES
-=======
+# Cortinarius albolilascens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

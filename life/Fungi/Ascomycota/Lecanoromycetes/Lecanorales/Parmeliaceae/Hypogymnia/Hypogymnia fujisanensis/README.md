@@ -1,5 +1,4 @@
-Hypogymnia fujisanensis (Asahina) Kurok. SPECIES
-=======
+# Hypogymnia fujisanensis (Asahina) Kurok. SPECIES
 
 #### Status
 ACCEPTED

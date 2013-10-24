@@ -1,5 +1,4 @@
-Sorokina uleana Rehm SPECIES
-=======
+# Sorokina uleana Rehm SPECIES
 
 #### Status
 ACCEPTED

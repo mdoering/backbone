@@ -1,5 +1,4 @@
-Buellia atromaculata Sandst. SPECIES
-=======
+# Buellia atromaculata Sandst. SPECIES
 
 #### Status
 ACCEPTED

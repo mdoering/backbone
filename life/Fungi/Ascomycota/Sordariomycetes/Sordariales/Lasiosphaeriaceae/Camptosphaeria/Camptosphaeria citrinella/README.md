@@ -1,14 +1,13 @@
-Cercophora citrinella N. Lundq., 1972 SPECIES
-=======
+# Camptosphaeria citrinella (N. Lundq.) J.C. Krug & Jeng, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 20(no. 1): 116 (1972)
+Sydowia 29(1-6): 74 (1977)
 
 #### Original name
 Cercophora citrinella N. Lundq., 1972

@@ -1,5 +1,4 @@
-Indicola Singh & Kalia, 1970 GENUS
-=======
+# Indicola Singh & Kalia, 1970 GENUS
 
 #### Status
 ACCEPTED

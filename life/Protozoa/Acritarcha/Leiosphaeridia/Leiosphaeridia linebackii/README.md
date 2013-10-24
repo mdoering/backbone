@@ -1,5 +1,4 @@
-Leiosphaeridia linebackii Boneham, 1970 SPECIES
-=======
+# Leiosphaeridia linebackii Boneham, 1970 SPECIES
 
 #### Status
 ACCEPTED

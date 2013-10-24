@@ -1,5 +1,4 @@
-Cryptococcus burnieri Nann. SPECIES
-=======
+# Cryptococcus burnieri Nann. SPECIES
 
 #### Status
 ACCEPTED

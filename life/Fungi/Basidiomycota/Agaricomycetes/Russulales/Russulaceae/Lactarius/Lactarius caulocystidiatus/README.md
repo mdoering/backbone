@@ -1,5 +1,4 @@
-Lactarius caulocystidiatus Verbeken & E. Horak SPECIES
-=======
+# Lactarius caulocystidiatus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

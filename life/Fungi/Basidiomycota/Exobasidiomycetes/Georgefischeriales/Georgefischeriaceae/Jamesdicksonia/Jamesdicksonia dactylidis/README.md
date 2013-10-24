@@ -1,17 +1,16 @@
-Entyloma crastophilum var. crastophilum VARIETY
-=======
+# Jamesdicksonia dactylidis (Pass.) R. Bauer, Begerow, A. Nagler & Oberw., 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 5): 540 (1879)
+Mycol. Res. 105(4): 422 (2001)
 
 #### Original name
-Entyloma crastophilum var. crastophilum
+null
 
 ### Remarks
 null

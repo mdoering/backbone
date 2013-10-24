@@ -1,5 +1,4 @@
-Armillaria laschii (Fr.) Gillet SPECIES
-=======
+# Armillaria laschii (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

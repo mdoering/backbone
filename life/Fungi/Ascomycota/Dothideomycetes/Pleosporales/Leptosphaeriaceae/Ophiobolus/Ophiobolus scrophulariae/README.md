@@ -1,5 +1,4 @@
-Ophiobolus scrophulariae Gucevic SPECIES
-=======
+# Ophiobolus scrophulariae Gucevic SPECIES
 
 #### Status
 ACCEPTED

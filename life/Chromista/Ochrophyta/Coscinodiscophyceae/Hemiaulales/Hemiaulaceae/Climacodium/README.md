@@ -1,5 +1,4 @@
-Climacodium Grunow GENUS
-=======
+# Climacodium Grunow GENUS
 
 #### Status
 ACCEPTED

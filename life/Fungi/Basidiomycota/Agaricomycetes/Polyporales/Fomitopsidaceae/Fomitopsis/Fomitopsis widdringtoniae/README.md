@@ -1,5 +1,4 @@
-Fomitopsis widdringtoniae Masuka & Ryvarden, 1993 SPECIES
-=======
+# Fomitopsis widdringtoniae Masuka & Ryvarden, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha ulcerata Müll. Arg. SPECIES
-=======
+# Opegrapha ulcerata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

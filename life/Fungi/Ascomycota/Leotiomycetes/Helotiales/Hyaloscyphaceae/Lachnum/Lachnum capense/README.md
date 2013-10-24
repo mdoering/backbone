@@ -1,5 +1,4 @@
-Lachnum capense Raitviir & Schneller SPECIES
-=======
+# Lachnum capense Raitviir & Schneller SPECIES
 
 #### Status
 ACCEPTED

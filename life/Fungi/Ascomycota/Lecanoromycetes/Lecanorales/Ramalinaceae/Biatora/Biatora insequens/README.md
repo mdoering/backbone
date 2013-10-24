@@ -1,5 +1,4 @@
-Biatora insequens (Nyl.) Arnold SPECIES
-=======
+# Biatora insequens (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

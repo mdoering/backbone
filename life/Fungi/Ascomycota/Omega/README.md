@@ -1,5 +1,4 @@
-Omega B. Sutton & Minter, 1988 GENUS
-=======
+# Omega B. Sutton & Minter, 1988 GENUS
 
 #### Status
 ACCEPTED

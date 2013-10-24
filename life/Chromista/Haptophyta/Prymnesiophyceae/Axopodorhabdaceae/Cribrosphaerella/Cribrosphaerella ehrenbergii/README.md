@@ -1,5 +1,4 @@
-Cribrosphaerella ehrenbergii (Arkhangelsky, 1912) Deflandre in Piveteau, 1952 SPECIES
-=======
+# Cribrosphaerella ehrenbergii (Arkhangelsky, 1912) Deflandre in Piveteau, 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ostreola Darker, 1963 GENUS
-=======
+# Ostreola Darker, 1963 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia gaudialis Britzelm. SPECIES
-=======
+# Collybia gaudialis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

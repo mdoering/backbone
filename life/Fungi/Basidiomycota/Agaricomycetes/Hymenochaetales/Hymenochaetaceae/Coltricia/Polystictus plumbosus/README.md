@@ -1,5 +1,4 @@
-Polystictus plumbosus Fr. SPECIES
-=======
+# Polystictus plumbosus Fr. SPECIES
 
 #### Status
 ACCEPTED

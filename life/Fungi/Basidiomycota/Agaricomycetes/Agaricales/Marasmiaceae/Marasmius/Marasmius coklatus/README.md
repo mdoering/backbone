@@ -1,5 +1,4 @@
-Marasmius coklatus Desjardin, Retn. & E. Horak SPECIES
-=======
+# Marasmius coklatus Desjardin, Retn. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

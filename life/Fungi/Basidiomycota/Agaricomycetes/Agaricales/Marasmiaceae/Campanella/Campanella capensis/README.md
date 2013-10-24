@@ -1,5 +1,4 @@
-Campanella capensis (Berk.) D.A. Reid SPECIES
-=======
+# Campanella capensis (Berk.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

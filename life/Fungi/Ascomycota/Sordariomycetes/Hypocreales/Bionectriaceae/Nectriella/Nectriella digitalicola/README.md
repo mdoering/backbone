@@ -1,5 +1,4 @@
-Nectriella digitalicola (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Nectriella digitalicola (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

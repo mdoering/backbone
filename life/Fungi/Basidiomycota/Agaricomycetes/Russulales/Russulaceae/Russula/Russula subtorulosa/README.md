@@ -1,5 +1,4 @@
-Russula subtorulosa Singer SPECIES
-=======
+# Russula subtorulosa Singer SPECIES
 
 #### Status
 ACCEPTED

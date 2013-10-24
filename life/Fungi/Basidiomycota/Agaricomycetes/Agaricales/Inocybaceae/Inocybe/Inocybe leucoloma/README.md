@@ -1,5 +1,4 @@
-Inocybe leucoloma Kühner SPECIES
-=======
+# Inocybe leucoloma Kühner SPECIES
 
 #### Status
 ACCEPTED

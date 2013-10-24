@@ -1,5 +1,4 @@
-Diplodia radicina Cooke & Ellis SPECIES
-=======
+# Diplodia radicina Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

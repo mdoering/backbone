@@ -1,5 +1,4 @@
-Berengeria controversa SPECIES
-=======
+# Berengeria controversa SPECIES
 
 #### Status
 ACCEPTED

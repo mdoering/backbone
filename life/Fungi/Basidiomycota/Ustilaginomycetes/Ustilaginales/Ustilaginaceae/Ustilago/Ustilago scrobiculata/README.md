@@ -1,5 +1,4 @@
-Ustilago scrobiculata Liro SPECIES
-=======
+# Ustilago scrobiculata Liro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplaria candidissima (Schwein.) Sacc. SPECIES
-=======
+# Haplaria candidissima (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

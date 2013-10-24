@@ -1,5 +1,4 @@
-Taphrina janus (Thomas {?} ) Giesenh. SPECIES
-=======
+# Taphrina janus (Thomas {?} ) Giesenh. SPECIES
 
 #### Status
 ACCEPTED

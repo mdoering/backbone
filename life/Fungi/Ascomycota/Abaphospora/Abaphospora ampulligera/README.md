@@ -1,5 +1,4 @@
-Abaphospora ampulligera (P. Karst. & Starbäck) Kirschst. SPECIES
-=======
+# Abaphospora ampulligera (P. Karst. & Starbäck) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

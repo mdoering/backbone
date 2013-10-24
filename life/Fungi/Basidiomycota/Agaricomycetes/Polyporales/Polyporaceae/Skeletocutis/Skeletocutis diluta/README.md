@@ -1,5 +1,4 @@
-Skeletocutis diluta (Rajchenb.) A. David & Rajchenb. SPECIES
-=======
+# Skeletocutis diluta (Rajchenb.) A. David & Rajchenb. SPECIES
 
 #### Status
 ACCEPTED

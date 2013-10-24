@@ -1,5 +1,4 @@
-Anthostomella genistae (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Anthostomella genistae (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

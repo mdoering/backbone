@@ -1,5 +1,4 @@
-Coelomomyces lacunosus var. lacunosus VARIETY
-=======
+# Coelomomyces lacunosus Couch & O.E. Sousa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 The Genus Coelomomyces (Orlando) 188 (1985)
 
 #### Original name
-Coelomomyces lacunosus var. lacunosus
+Coelomomyces lacunosus Couch & O.E. Sousa
 
 ### Remarks
 null

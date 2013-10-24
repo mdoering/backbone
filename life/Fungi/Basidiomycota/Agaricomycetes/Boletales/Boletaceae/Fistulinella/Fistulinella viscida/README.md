@@ -1,17 +1,16 @@
-Mucilopilus viscidus var. viscidus VARIETY
-=======
+# Fistulinella viscida (McNabb) Singer, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 10(1): 130 (1979)
+Persoonia 9(4): 435 (1978)
 
 #### Original name
-Mucilopilus viscidus var. viscidus
+Porphyrellus viscidus McNabb, 1967
 
 ### Remarks
 null

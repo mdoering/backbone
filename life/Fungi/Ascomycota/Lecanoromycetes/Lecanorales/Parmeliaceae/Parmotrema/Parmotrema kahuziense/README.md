@@ -1,5 +1,4 @@
-Parmotrema kahuziense Sérus. SPECIES
-=======
+# Parmotrema kahuziense Sérus. SPECIES
 
 #### Status
 ACCEPTED

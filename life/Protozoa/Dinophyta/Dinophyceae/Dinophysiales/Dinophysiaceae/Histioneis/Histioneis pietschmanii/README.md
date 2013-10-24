@@ -1,5 +1,4 @@
-Histioneis pietschmanii SPECIES
-=======
+# Histioneis pietschmanii SPECIES
 
 #### Status
 ACCEPTED

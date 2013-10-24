@@ -1,5 +1,4 @@
-Sagedia caliginosa Anzi SPECIES
-=======
+# Sagedia caliginosa Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormiella minutisperma Doveri & Coué, 2008 SPECIES
-=======
+# Sporormiella minutisperma Doveri & Coué, 2008 SPECIES
 
 #### Status
 ACCEPTED

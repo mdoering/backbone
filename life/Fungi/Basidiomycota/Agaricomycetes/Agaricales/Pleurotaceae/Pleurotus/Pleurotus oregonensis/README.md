@@ -1,5 +1,4 @@
-Pleurotus oregonensis Murrill SPECIES
-=======
+# Pleurotus oregonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

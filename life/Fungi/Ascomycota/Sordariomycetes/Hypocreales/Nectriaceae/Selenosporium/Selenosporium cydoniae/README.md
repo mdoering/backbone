@@ -1,5 +1,4 @@
-Selenosporium cydoniae Schulzer SPECIES
-=======
+# Selenosporium cydoniae Schulzer SPECIES
 
 #### Status
 ACCEPTED

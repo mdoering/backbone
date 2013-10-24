@@ -1,5 +1,4 @@
-Tromera myriosperma SPECIES
-=======
+# Tromera myriosperma SPECIES
 
 #### Status
 ACCEPTED

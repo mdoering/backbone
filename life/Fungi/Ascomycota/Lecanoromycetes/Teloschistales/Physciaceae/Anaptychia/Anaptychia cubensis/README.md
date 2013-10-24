@@ -1,5 +1,4 @@
-Anaptychia cubensis Kurok. SPECIES
-=======
+# Anaptychia cubensis Kurok. SPECIES
 
 #### Status
 ACCEPTED

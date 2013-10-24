@@ -1,5 +1,4 @@
-Microdiplodia passeriniana var. passeriniana VARIETY
-=======
+# Microdiplodia passeriniana (Thüm.) Allesch. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microdiplodia passeriniana var. passeriniana
+Diplodia passeriniana (Thüm.) Allesch.
 
 ### Remarks
 null

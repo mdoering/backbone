@@ -1,5 +1,4 @@
-Xylaria lobata Cooke SPECIES
-=======
+# Xylaria lobata Cooke SPECIES
 
 #### Status
 ACCEPTED

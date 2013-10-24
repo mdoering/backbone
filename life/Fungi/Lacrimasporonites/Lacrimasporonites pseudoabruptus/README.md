@@ -1,5 +1,4 @@
-Lacrimasporonites pseudoabruptus M.G. Parsons & G. Norris SPECIES
-=======
+# Lacrimasporonites pseudoabruptus M.G. Parsons & G. Norris SPECIES
 
 #### Status
 ACCEPTED

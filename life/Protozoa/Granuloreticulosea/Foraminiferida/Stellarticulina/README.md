@@ -1,5 +1,4 @@
-Stellarticulina Papp & Schmid, 1978 GENUS
-=======
+# Stellarticulina Papp & Schmid, 1978 GENUS
 
 #### Status
 ACCEPTED

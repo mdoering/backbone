@@ -1,5 +1,4 @@
-Candida pini (Lodder & Kreger-van Rij) S.A. Mey. & Yarrow SPECIES
-=======
+# Candida pini (Lodder & Kreger-van Rij) S.A. Mey. & Yarrow SPECIES
 
 #### Status
 ACCEPTED

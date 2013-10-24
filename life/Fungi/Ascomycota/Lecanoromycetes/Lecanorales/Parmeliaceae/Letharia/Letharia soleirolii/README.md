@@ -1,5 +1,4 @@
-Letharia soleirolii (Schaer.) Hue SPECIES
-=======
+# Letharia soleirolii (Schaer.) Hue SPECIES
 
 #### Status
 ACCEPTED

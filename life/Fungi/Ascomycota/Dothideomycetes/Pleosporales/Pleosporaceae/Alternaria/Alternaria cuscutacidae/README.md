@@ -1,5 +1,4 @@
-Alternaria cuscutacidae Rudakov SPECIES
-=======
+# Alternaria cuscutacidae Rudakov SPECIES
 
 #### Status
 ACCEPTED

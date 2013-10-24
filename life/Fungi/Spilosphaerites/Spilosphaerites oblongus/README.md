@@ -1,5 +1,4 @@
-Spilosphaerites oblongus C. Massal. SPECIES
-=======
+# Spilosphaerites oblongus C. Massal. SPECIES
 
 #### Status
 ACCEPTED

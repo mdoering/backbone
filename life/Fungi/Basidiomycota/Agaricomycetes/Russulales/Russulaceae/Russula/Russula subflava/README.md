@@ -1,5 +1,4 @@
-Russula subflava Murrill SPECIES
-=======
+# Russula subflava Murrill SPECIES
 
 #### Status
 ACCEPTED

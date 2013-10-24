@@ -1,5 +1,4 @@
-Dermatea tijucensis Henn. SPECIES
-=======
+# Dermatea tijucensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia atkinsonii G. Cunn., 1923 SPECIES
-=======
+# Puccinia atkinsonii G. Cunn., 1923 SPECIES
 
 #### Status
 ACCEPTED

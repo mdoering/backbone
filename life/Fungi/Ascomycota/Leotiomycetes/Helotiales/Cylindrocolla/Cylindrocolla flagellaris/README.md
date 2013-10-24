@@ -1,5 +1,4 @@
-Cylindrocolla flagellaris Ellis & Everh. SPECIES
-=======
+# Cylindrocolla flagellaris Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dactylella bembicodes Drechsler, 1937 SPECIES
-=======
+# Monacrosporium bembicodes (Drechsler) Subram., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 29(4): 491 (1937)
+J. Indian bot. Soc. 42: 293 (1964)
 
 #### Original name
 Dactylella bembicodes Drechsler, 1937

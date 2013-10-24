@@ -1,5 +1,4 @@
-Zalerion varium Anastasiou SPECIES
-=======
+# Zalerion varium Anastasiou SPECIES
 
 #### Status
 ACCEPTED

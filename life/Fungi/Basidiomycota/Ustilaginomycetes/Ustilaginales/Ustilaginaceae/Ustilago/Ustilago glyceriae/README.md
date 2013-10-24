@@ -1,5 +1,4 @@
-Ustilago glyceriae Cif. SPECIES
-=======
+# Ustilago glyceriae Cif. SPECIES
 
 #### Status
 ACCEPTED

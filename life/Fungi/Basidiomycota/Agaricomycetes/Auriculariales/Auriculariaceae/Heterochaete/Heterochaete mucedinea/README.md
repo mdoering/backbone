@@ -1,5 +1,4 @@
-Heterochaete mucedinea Rick SPECIES
-=======
+# Heterochaete mucedinea Rick SPECIES
 
 #### Status
 ACCEPTED

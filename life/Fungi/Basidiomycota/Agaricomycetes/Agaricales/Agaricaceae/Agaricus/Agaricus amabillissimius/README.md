@@ -1,5 +1,4 @@
-Agaricus amabillissimius Peck SPECIES
-=======
+# Agaricus amabillissimius Peck SPECIES
 
 #### Status
 ACCEPTED

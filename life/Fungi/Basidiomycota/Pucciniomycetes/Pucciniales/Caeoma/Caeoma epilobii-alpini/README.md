@@ -1,5 +1,4 @@
-Caeoma epilobii-alpini Jørst. SPECIES
-=======
+# Caeoma epilobii-alpini Jørst. SPECIES
 
 #### Status
 ACCEPTED

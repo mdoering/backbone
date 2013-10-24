@@ -1,5 +1,4 @@
-Physalospora juglandis Syd. & P. Syd. SPECIES
-=======
+# Physalospora juglandis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanconium stenosporum Ellis & Everh. SPECIES
-=======
+# Melanconium stenosporum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

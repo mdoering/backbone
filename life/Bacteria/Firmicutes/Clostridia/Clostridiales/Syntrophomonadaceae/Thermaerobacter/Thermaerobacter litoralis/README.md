@@ -1,5 +1,4 @@
-Thermaerobacter litoralis Tanaka et al., 2006 SPECIES
-=======
+# Thermaerobacter litoralis Tanaka et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

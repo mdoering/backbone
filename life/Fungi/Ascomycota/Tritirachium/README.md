@@ -1,5 +1,4 @@
-Tritirachium Limber, 1940 GENUS
-=======
+# Tritirachium Limber, 1940 GENUS
 
 #### Status
 ACCEPTED

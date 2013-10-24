@@ -1,5 +1,4 @@
-Lophiostoma tingens (Schwein.) Ellis SPECIES
-=======
+# Lophiostoma tingens (Schwein.) Ellis SPECIES
 
 #### Status
 ACCEPTED

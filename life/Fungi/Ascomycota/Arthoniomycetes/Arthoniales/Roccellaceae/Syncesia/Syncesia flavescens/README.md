@@ -1,5 +1,4 @@
-Syncesia flavescens (Nyl.) Tehler SPECIES
-=======
+# Syncesia flavescens (Nyl.) Tehler SPECIES
 
 #### Status
 ACCEPTED

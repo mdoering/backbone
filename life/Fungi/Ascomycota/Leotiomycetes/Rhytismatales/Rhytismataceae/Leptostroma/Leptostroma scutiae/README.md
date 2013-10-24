@@ -1,5 +1,4 @@
-Leptostroma scutiae Hansf. SPECIES
-=======
+# Leptostroma scutiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

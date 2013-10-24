@@ -1,5 +1,4 @@
-Saccharomyces sennae Thüm. SPECIES
-=======
+# Saccharomyces sennae Thüm. SPECIES
 
 #### Status
 ACCEPTED

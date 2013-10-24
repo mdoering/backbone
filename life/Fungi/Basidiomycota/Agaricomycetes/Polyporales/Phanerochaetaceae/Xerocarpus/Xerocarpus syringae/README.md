@@ -1,5 +1,4 @@
-Xerocarpus syringae P. Karst. SPECIES
-=======
+# Xerocarpus syringae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

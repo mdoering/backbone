@@ -1,5 +1,4 @@
-Verrucaria simillima Servít SPECIES
-=======
+# Verrucaria simillima Servít SPECIES
 
 #### Status
 ACCEPTED

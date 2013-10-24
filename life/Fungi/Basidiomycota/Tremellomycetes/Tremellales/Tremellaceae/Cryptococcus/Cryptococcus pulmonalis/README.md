@@ -1,5 +1,4 @@
-Cryptococcus pulmonalis (Cif. & Redaelli) Nann. SPECIES
-=======
+# Cryptococcus pulmonalis (Cif. & Redaelli) Nann. SPECIES
 
 #### Status
 ACCEPTED

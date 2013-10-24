@@ -1,5 +1,4 @@
-Schismatosphaeridium kumaunii Nautiyal, 1978 SPECIES
-=======
+# Schismatosphaeridium kumaunii Nautiyal, 1978 SPECIES
 
 #### Status
 ACCEPTED

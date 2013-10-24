@@ -1,14 +1,13 @@
-Parmotrema hababiana (Gyeln.) Hale SPECIES
-=======
+# Parmotrema hababianum (Gyeln.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(4): 336 (1974)
 
 #### Original name
 Parmelia hababiana Gyeln.

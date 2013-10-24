@@ -1,5 +1,4 @@
-Sporocarpon leismanii Stubblef., T.N. Taylor, C.E. Mill. & G.T. Cole SPECIES
-=======
+# Sporocarpon leismanii Stubblef., T.N. Taylor, C.E. Mill. & G.T. Cole SPECIES
 
 #### Status
 ACCEPTED

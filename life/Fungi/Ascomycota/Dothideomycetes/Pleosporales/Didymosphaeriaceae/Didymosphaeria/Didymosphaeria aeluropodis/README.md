@@ -1,5 +1,4 @@
-Didymosphaeria aeluropodis Lobik SPECIES
-=======
+# Didymosphaeria aeluropodis Lobik SPECIES
 
 #### Status
 ACCEPTED

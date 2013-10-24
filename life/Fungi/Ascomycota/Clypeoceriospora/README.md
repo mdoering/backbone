@@ -1,5 +1,4 @@
-Clypeoceriospora Sousa da Câmara GENUS
-=======
+# Clypeoceriospora Sousa da Câmara GENUS
 
 #### Status
 ACCEPTED

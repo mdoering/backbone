@@ -1,5 +1,4 @@
-Flabellophora intertexta Corner, 1987 SPECIES
-=======
+# Flabellophora intertexta Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium fragile Deflandre, 1947 SPECIES
-=======
+# Micrhystridium fragile Deflandre, 1947 SPECIES
 
 #### Status
 ACCEPTED

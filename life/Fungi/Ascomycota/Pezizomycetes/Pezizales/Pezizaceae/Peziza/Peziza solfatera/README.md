@@ -1,5 +1,4 @@
-Peziza solfatera Cooke & Ellis, 1878 SPECIES
-=======
+# Peziza solfatera Cooke & Ellis, 1878 SPECIES
 
 #### Status
 ACCEPTED

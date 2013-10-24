@@ -1,5 +1,4 @@
-Clypeolinopsis germanica (Kirschst.) Bat. SPECIES
-=======
+# Clypeolinopsis germanica (Kirschst.) Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucronella togoensis Henn. SPECIES
-=======
+# Mucronella togoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

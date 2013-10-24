@@ -1,5 +1,4 @@
-Pseudocercospora marasasii Crous & M.J. Wingf. SPECIES
-=======
+# Pseudocercospora marasasii Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

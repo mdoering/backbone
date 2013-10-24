@@ -1,5 +1,4 @@
-Vermilacinia rigida Spjut SPECIES
-=======
+# Vermilacinia rigida Spjut SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anisomeridium nidulans (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Anisomeridium nidulans (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

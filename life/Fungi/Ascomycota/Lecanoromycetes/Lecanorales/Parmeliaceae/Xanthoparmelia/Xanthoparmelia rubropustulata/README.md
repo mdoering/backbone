@@ -1,17 +1,16 @@
-Parmelia rubropustulata (Hale) Brusse SPECIES
-=======
+# Xanthoparmelia rubropustulata Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 29: 264 (1987)
 
 #### Original name
-null
+Xanthoparmelia rubropustulata Hale
 
 ### Remarks
 null

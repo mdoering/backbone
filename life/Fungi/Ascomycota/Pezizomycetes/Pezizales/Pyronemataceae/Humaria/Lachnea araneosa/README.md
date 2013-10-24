@@ -1,5 +1,4 @@
-Lachnea araneosa Velen. SPECIES
-=======
+# Lachnea araneosa Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis oliveirana Dias & Teixeira SPECIES
-=======
+# Phomopsis oliveirana Dias & Teixeira SPECIES
 
 #### Status
 ACCEPTED

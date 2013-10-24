@@ -1,5 +1,4 @@
-Sphaeria persicaria Schwein. SPECIES
-=======
+# Sphaeria persicaria Schwein. SPECIES
 
 #### Status
 ACCEPTED

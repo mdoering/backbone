@@ -1,5 +1,4 @@
-Asterina hederae Desm. SPECIES
-=======
+# Asterina hederae Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Magnusia Saccardo, 1878 GENUS
-=======
+# Kernia Nieuwland, 1916 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 2): 123 (1878)
+Am. Midl. Nat. 4: 379 (1916)
 
 #### Original name
-Magnusia Saccardo, 1878
+Kernia Nieuwland, 1916
 
 ### Remarks
 null

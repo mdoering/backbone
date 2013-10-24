@@ -1,5 +1,4 @@
-Parapeltella lecythidis Bat. & H. Maia SPECIES
-=======
+# Parapeltella lecythidis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia narinensis F. Kern & Whetzel SPECIES
-=======
+# Puccinia narinensis F. Kern & Whetzel SPECIES
 
 #### Status
 ACCEPTED

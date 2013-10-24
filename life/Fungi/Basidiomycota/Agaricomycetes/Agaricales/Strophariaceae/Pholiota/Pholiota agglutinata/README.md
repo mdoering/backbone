@@ -1,5 +1,4 @@
-Pholiota agglutinata A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota agglutinata A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

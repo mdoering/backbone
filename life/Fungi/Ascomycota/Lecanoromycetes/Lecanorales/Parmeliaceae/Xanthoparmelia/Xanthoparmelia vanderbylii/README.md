@@ -1,17 +1,16 @@
-Parmelia van-der-byiii Zahlbr. SPECIES
-=======
+# Xanthoparmelia vanderbylii (Zahlbr.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 87: 402 (2003)
 
 #### Original name
-Parmelia van-der-byiii Zahlbr.
+Parmelia vanderbylii Zahlbr.
 
 ### Remarks
 null

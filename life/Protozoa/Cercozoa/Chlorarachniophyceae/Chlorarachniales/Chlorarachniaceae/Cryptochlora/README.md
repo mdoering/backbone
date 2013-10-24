@@ -1,5 +1,4 @@
-Cryptochlora E.Calderon-Saenz & R.Schnetter, 1987 GENUS
-=======
+# Cryptochlora E.Calderon-Saenz & R.Schnetter, 1987 GENUS
 
 #### Status
 ACCEPTED

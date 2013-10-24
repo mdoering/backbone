@@ -1,5 +1,4 @@
-Lecanora epichlora Vain. SPECIES
-=======
+# Lecanora epichlora Vain. SPECIES
 
 #### Status
 ACCEPTED

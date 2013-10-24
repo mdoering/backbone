@@ -1,5 +1,4 @@
-Psorothecium ikomae Räsänen SPECIES
-=======
+# Psorothecium ikomae Räsänen SPECIES
 
 #### Status
 ACCEPTED

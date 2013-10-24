@@ -1,5 +1,4 @@
-Coniothyrium punctum Cooke & Harkn. SPECIES
-=======
+# Coniothyrium punctum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

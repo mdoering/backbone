@@ -1,5 +1,4 @@
-Amanita bertaultii Contu SPECIES
-=======
+# Amanita bertaultii Contu SPECIES
 
 #### Status
 ACCEPTED

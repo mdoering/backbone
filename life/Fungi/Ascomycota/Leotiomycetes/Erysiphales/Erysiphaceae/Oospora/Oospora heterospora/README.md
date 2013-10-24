@@ -1,5 +1,4 @@
-Oospora heterospora Ellis & Everh. SPECIES
-=======
+# Oospora heterospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

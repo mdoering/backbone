@@ -1,5 +1,4 @@
-Tandonella wangii F.Y. Zhai, Y.L. Guo & Yu Li SPECIES
-=======
+# Tandonella wangii F.Y. Zhai, Y.L. Guo & Yu Li SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia eluta (Nyl.) Parrique SPECIES
-=======
+# Aspicilia eluta (Nyl.) Parrique SPECIES
 
 #### Status
 ACCEPTED

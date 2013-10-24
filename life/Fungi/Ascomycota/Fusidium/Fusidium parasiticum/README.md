@@ -1,5 +1,4 @@
-Fusidium parasiticum Westend. SPECIES
-=======
+# Fusidium parasiticum Westend. SPECIES
 
 #### Status
 ACCEPTED

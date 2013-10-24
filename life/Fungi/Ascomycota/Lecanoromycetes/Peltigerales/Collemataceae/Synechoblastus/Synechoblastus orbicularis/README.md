@@ -1,5 +1,4 @@
-Synechoblastus orbicularis (Schaer.) Dalla Torre & Sarnth. SPECIES
-=======
+# Synechoblastus orbicularis (Schaer.) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

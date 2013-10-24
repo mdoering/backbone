@@ -1,5 +1,4 @@
-Boletus inedulis (Murrill) Murrill SPECIES
-=======
+# Boletus inedulis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

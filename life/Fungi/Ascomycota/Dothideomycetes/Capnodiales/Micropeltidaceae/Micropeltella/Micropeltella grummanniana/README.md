@@ -1,5 +1,4 @@
-Micropeltella grummanniana Kirschst. SPECIES
-=======
+# Micropeltella grummanniana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

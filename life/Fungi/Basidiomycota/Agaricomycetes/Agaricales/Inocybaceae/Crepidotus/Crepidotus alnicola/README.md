@@ -1,5 +1,4 @@
-Crepidotus alnicola Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus alnicola Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

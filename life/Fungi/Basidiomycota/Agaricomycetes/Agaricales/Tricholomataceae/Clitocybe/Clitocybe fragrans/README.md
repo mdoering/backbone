@@ -1,17 +1,16 @@
-Clitocybe fragrans var. fragrans VARIETY
-=======
+# Clitocybe fragrans (With.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Col. fig. Engl. Fung. Mushr. pl. 121 (1821)
+Führ. Pilzk. (Zwickau) 121 (1871)
 
 #### Original name
-Clitocybe fragrans var. fragrans
+Clitocybe fragrans (With.) P. Kumm., 1871
 
 ### Remarks
 null

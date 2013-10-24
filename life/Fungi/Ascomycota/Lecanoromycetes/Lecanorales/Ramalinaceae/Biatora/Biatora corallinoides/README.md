@@ -1,5 +1,4 @@
-Biatora corallinoides var. corallinoides VARIETY
-=======
+# Biatora corallinoides (Schaer.) Hepp SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatora corallinoides var. corallinoides
+Lecidea microphylla var. corallinoides Ach.
 
 ### Remarks
 null

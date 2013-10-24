@@ -1,5 +1,4 @@
-Phyllosticta pruni-virginianae H.C. Greene SPECIES
-=======
+# Phyllosticta pruni-virginianae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

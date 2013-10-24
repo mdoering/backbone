@@ -1,5 +1,4 @@
-Lycoperdon proteus var. proteus VARIETY
-=======
+# Lycoperdon proteus Bull. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Col. fig. Engl. Fung. Mushr. (London) 3: pl. 332 (1801)
 
 #### Original name
-Lycoperdon proteus var. proteus
+Lycoperdon proteus Bull.
 
 ### Remarks
 null

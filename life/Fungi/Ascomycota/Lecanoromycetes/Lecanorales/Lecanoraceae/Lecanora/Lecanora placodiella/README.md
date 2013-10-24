@@ -1,5 +1,4 @@
-Lecanora placodiella Zaschacke SPECIES
-=======
+# Lecanora placodiella Zaschacke SPECIES
 
 #### Status
 ACCEPTED

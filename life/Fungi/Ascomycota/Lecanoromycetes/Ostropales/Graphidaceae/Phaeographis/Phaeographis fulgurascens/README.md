@@ -1,5 +1,4 @@
-Phaeographis fulgurascens Zahlbr. SPECIES
-=======
+# Phaeographis fulgurascens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

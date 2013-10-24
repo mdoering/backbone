@@ -1,5 +1,4 @@
-Arthonia aleta Willey SPECIES
-=======
+# Arthonia aleta Willey SPECIES
 
 #### Status
 ACCEPTED

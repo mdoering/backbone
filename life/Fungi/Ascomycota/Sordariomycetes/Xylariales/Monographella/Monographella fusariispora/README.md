@@ -1,5 +1,4 @@
-Monographella fusariispora (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Monographella fusariispora (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

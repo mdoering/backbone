@@ -1,5 +1,4 @@
-Septoria stellariae Roberge ex Desm., 1847 SPECIES
-=======
+# Septoria stellariae Roberge ex Desm., 1847 SPECIES
 
 #### Status
 ACCEPTED

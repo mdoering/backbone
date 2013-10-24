@@ -1,5 +1,4 @@
-Romeria bicornis SPECIES
-=======
+# Romeria bicornis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Psora epigaea Hoffm. SPECIES
-=======
+# Buellia epigaea (Hoffm.) Tuck. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Deutschl. Fl. (Erlangen), Zweiter Theil 1643 (1796)
+Geneac. Lich. 185 (1872)
 
 #### Original name
 Psora epigaea Hoffm.

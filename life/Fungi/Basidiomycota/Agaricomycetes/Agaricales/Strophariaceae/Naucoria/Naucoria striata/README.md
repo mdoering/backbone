@@ -1,5 +1,4 @@
-Naucoria striata Clem. & Shear SPECIES
-=======
+# Naucoria striata Clem. & Shear SPECIES
 
 #### Status
 ACCEPTED

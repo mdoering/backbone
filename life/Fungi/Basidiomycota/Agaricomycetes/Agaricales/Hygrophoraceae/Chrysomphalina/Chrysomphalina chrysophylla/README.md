@@ -1,17 +1,16 @@
-Omphalia chrysophylla var. chrysophylla VARIETY
-=======
+# Chrysomphalina chrysophylla (Fr.) Clémençon, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. Mykol. 48(2): 203 (1982)
 
 #### Original name
-null
+Agaricus chrysophyllus Fr., 1821
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lentinus radicatus Cooke SPECIES
-=======
+# Lentinus radicatus Cooke SPECIES
 
 #### Status
 ACCEPTED

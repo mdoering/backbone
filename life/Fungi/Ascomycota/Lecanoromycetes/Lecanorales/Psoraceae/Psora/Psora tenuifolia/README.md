@@ -1,5 +1,4 @@
-Psora tenuifolia Timdal SPECIES
-=======
+# Psora tenuifolia Timdal SPECIES
 
 #### Status
 ACCEPTED

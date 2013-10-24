@@ -1,5 +1,4 @@
-Agaricus GENUS
-=======
+# Agaricus GENUS
 
 #### Status
 ACCEPTED

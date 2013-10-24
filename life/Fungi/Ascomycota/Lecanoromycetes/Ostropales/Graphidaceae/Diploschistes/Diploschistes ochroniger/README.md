@@ -1,5 +1,4 @@
-Diploschistes ochroniger Zahlbr. SPECIES
-=======
+# Diploschistes ochroniger Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

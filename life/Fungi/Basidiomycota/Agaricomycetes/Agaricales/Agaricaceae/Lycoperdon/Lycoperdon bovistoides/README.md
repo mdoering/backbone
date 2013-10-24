@@ -1,5 +1,4 @@
-Lycoperdon bovistoides Sacc. SPECIES
-=======
+# Lycoperdon bovistoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

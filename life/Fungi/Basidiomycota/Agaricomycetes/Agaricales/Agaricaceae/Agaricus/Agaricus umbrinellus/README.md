@@ -1,5 +1,4 @@
-Agaricus umbrinellus Pers. SPECIES
-=======
+# Agaricus umbrinellus Pers. SPECIES
 
 #### Status
 ACCEPTED

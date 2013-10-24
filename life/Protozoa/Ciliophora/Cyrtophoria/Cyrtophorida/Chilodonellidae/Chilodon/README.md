@@ -1,5 +1,4 @@
-Chilodon GENUS
-=======
+# Chilodon GENUS
 
 #### Status
 ACCEPTED

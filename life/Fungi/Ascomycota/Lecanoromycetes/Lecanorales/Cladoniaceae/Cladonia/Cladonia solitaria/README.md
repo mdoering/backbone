@@ -1,5 +1,4 @@
-Cladonia solitaria H. Magn. SPECIES
-=======
+# Cladonia solitaria H. Magn. SPECIES
 
 #### Status
 ACCEPTED

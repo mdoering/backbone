@@ -1,5 +1,4 @@
-Rhizoctonia stahlii Burgeff, 1936 SPECIES
-=======
+# Rhizoctonia stahlii Burgeff, 1936 SPECIES
 
 #### Status
 ACCEPTED

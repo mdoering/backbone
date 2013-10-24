@@ -1,17 +1,16 @@
-Barlaea astroidea var. astroidea VARIETY
-=======
+# Lamprospora astroidea (Hazsl.) Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Barlaea astroidea var. astroidea
+Peziza astroidea Hazsl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Boletus schmitzii Heinem. SPECIES
-=======
+# Boletus schmitzii Heinem. SPECIES
 
 #### Status
 ACCEPTED

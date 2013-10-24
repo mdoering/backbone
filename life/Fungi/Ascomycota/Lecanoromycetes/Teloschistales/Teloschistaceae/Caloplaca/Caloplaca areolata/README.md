@@ -1,5 +1,4 @@
-Caloplaca areolata (Zahlbr.) Clauzade SPECIES
-=======
+# Caloplaca areolata (Zahlbr.) Clauzade SPECIES
 
 #### Status
 ACCEPTED

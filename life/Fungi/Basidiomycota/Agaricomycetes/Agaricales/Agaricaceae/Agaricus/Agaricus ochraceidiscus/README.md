@@ -1,5 +1,4 @@
-Agaricus ochraceidiscus Murrill SPECIES
-=======
+# Agaricus ochraceidiscus Murrill SPECIES
 
 #### Status
 ACCEPTED

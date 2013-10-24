@@ -1,5 +1,4 @@
-Lecidea conioptiza Nyl. SPECIES
-=======
+# Lecidea conioptiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

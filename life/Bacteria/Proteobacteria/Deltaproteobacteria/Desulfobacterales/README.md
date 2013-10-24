@@ -1,5 +1,4 @@
-Desulfobacterales ORDER
-=======
+# Desulfobacterales ORDER
 
 #### Status
 ACCEPTED

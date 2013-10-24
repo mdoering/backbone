@@ -1,5 +1,4 @@
-Aspicilia dwaliensis Räsänen SPECIES
-=======
+# Aspicilia dwaliensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

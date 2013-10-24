@@ -1,5 +1,4 @@
-Agaricus fulvomarginatus Weinm. SPECIES
-=======
+# Agaricus fulvomarginatus Weinm. SPECIES
 
 #### Status
 ACCEPTED

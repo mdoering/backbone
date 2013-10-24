@@ -1,5 +1,4 @@
-Globobulimina affinis (d'Orbigny, 1839) SPECIES
-=======
+# Globobulimina affinis (d'Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

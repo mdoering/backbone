@@ -1,5 +1,4 @@
-Eriomycopsis minima Hansf. SPECIES
-=======
+# Eriomycopsis minima Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pucciniastrum hakkodense (Ito {?} & Hirats.) Jørst. SPECIES
-=======
+# Pucciniastrum hakkodense (Ito {?} & Hirats.) Jørst. SPECIES
 
 #### Status
 ACCEPTED

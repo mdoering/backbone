@@ -1,5 +1,4 @@
-Flavoparmelia proeuplecta Elix & J. Johnst. SPECIES
-=======
+# Flavoparmelia proeuplecta Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cirrogaster Ozaki & Yagiu, 1942 GENUS
-=======
+# Gastrocirrhus Lepsi, 1928 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Parasitol. , Paris, 1, 195.
 
 #### Original name
 null

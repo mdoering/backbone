@@ -1,5 +1,4 @@
-Favolus pusillus Fr. SPECIES
-=======
+# Favolus pusillus Fr. SPECIES
 
 #### Status
 ACCEPTED

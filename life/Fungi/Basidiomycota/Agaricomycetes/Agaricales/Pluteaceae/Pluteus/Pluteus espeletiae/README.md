@@ -1,5 +1,4 @@
-Pluteus espeletiae Singer SPECIES
-=======
+# Pluteus espeletiae Singer SPECIES
 
 #### Status
 ACCEPTED

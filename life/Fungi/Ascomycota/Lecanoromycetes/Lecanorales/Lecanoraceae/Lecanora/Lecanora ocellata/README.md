@@ -1,5 +1,4 @@
-Lecanora ocellata Zenker SPECIES
-=======
+# Lecanora ocellata Zenker SPECIES
 
 #### Status
 ACCEPTED

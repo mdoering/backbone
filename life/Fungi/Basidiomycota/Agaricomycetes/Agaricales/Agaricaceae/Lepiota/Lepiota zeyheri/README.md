@@ -1,5 +1,4 @@
-Lepiota zeyheri var. zeyheri VARIETY
-=======
+# Lepiota zeyheri Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lepiota zeyheri var. zeyheri
+Lepiota zeyheri Berk.
 
 ### Remarks
 null

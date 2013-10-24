@@ -1,5 +1,4 @@
-Phallus gigus Batsch SPECIES
-=======
+# Phallus gigus Batsch SPECIES
 
 #### Status
 ACCEPTED

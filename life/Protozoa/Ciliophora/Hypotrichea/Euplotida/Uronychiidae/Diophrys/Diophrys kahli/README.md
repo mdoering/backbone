@@ -1,5 +1,4 @@
-Diophrys kahli Dragesco, 1963 SPECIES
-=======
+# Diophrys kahli Dragesco, 1963 SPECIES
 
 #### Status
 ACCEPTED

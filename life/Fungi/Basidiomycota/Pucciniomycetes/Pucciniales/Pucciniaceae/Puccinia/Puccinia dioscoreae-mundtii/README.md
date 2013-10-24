@@ -1,5 +1,4 @@
-Puccinia dioscoreae-mundtii Berndt, A.R. Wood & E. Uhlmann SPECIES
-=======
+# Puccinia dioscoreae-mundtii Berndt, A.R. Wood & E. Uhlmann SPECIES
 
 #### Status
 ACCEPTED

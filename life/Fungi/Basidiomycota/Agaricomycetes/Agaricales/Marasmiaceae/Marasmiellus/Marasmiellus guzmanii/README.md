@@ -1,5 +1,4 @@
-Marasmiellus guzmanii Singer SPECIES
-=======
+# Marasmiellus guzmanii Singer SPECIES
 
 #### Status
 ACCEPTED

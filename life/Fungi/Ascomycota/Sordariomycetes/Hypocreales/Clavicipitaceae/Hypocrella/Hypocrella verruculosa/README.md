@@ -1,5 +1,4 @@
-Hypocrella verruculosa Möller SPECIES
-=======
+# Hypocrella verruculosa Möller SPECIES
 
 #### Status
 ACCEPTED

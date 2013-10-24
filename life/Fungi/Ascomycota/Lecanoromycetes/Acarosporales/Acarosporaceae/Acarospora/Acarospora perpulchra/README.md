@@ -1,5 +1,4 @@
-Acarospora perpulchra Hue SPECIES
-=======
+# Acarospora perpulchra Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonyaulax nivicola (Meunier, 1910) Kofoid, 1911 SPECIES
-=======
+# Gonyaulax nivicola (Meunier, 1910) Kofoid, 1911 SPECIES
 
 #### Status
 ACCEPTED

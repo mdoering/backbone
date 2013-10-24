@@ -1,5 +1,4 @@
-Lachnocladium tubulosum (Fr.) Lév. SPECIES
-=======
+# Lachnocladium tubulosum (Fr.) Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Depazea dianthi Alb. & Schwein. SPECIES
-=======
+# Depazea dianthi Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

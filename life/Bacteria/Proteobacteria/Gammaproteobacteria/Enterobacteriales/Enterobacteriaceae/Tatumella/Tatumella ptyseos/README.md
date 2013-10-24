@@ -1,5 +1,4 @@
-Tatumella ptyseos Hollis et al., 1982 SPECIES
-=======
+# Tatumella ptyseos Hollis et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

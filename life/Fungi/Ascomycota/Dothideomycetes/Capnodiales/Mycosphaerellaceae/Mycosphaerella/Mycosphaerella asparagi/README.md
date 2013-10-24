@@ -1,5 +1,4 @@
-Mycosphaerella asparagi var. asparagi VARIETY
-=======
+# Mycosphaerella asparagi (Bres.) Magnus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycosphaerella asparagi var. asparagi
+Sphaerella asparagi Bres.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Xylaria memecylonii A. Pande SPECIES
-=======
+# Xylaria memecyli A. Pande SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 24(1): 14 (1974)
 
 #### Original name
-Xylaria memecylonii A. Pande
+Xylaria memecyli A. Pande
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rivularia planctonica Elenkin SPECIES
-=======
+# Rivularia planctonica Elenkin SPECIES
 
 #### Status
 ACCEPTED

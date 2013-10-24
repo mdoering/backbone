@@ -1,8 +1,7 @@
-Coscinodiscus neoradiatus Cleve-Euler SPECIES
-=======
+# Coscinodiscus radiatus Ehrenberg, 1840 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

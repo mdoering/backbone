@@ -1,5 +1,4 @@
-Auerswaldia Saccardo, 1883 GENUS
-=======
+# Auerswaldia Saccardo, 1883 GENUS
 
 #### Status
 ACCEPTED

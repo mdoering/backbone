@@ -1,5 +1,4 @@
-Meliola butyrospermi Hansf. & Deighton SPECIES
-=======
+# Meliola butyrospermi Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

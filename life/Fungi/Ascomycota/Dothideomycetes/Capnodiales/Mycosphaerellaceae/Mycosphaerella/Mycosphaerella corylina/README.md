@@ -1,5 +1,4 @@
-Mycosphaerella corylina (P. Karst.) Tomilin SPECIES
-=======
+# Mycosphaerella corylina (P. Karst.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

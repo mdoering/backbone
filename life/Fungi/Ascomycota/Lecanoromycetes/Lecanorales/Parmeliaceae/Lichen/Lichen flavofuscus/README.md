@@ -1,5 +1,4 @@
-Lichen flavofuscus Schrad. SPECIES
-=======
+# Lichen flavofuscus Schrad. SPECIES
 
 #### Status
 ACCEPTED
