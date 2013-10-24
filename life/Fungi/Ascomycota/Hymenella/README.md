@@ -1,5 +1,4 @@
-Hymenella E.M. Fries, 1822 GENUS
-=======
+# Hymenella E.M. Fries, 1822 GENUS
 
 #### Status
 ACCEPTED

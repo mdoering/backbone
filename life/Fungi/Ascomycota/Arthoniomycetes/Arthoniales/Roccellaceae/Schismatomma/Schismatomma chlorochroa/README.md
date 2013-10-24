@@ -1,5 +1,4 @@
-Schismatomma chlorochroa (Kremp.) Overeem SPECIES
-=======
+# Schismatomma chlorochroa (Kremp.) Overeem SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cicinnobolus major Dearn. & Barthol. SPECIES
-=======
+# Cicinobolus major Dearn. & Barthol. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus major Dearn. & Barthol.
+Cicinobolus major Dearn. & Barthol.
 
 ### Remarks
 null

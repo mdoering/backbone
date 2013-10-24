@@ -1,5 +1,4 @@
-Stenella bischofiae-javanicae R.K. Chaudhary, Tripathi, P.N. Singh & S. Chaudhary SPECIES
-=======
+# Stenella bischofiae-javanicae R.K. Chaudhary, Tripathi, P.N. Singh & S. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

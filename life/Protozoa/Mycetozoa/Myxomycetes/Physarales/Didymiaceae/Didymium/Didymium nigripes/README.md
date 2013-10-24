@@ -1,17 +1,16 @@
-Didymium nigripes var. genuinum VARIETY
-=======
+# Didymium nigripes (Link) Fr., 1829 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 3(1): 119 (1829)
 
 #### Original name
-Didymium nigripes var. genuinum
+Physarum nigripes Link, 1809
 
 ### Remarks
 null

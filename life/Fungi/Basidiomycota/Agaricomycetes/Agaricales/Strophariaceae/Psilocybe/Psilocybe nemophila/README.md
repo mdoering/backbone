@@ -1,5 +1,4 @@
-Psilocybe nemophila (Fr.) Sacc. SPECIES
-=======
+# Psilocybe nemophila (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

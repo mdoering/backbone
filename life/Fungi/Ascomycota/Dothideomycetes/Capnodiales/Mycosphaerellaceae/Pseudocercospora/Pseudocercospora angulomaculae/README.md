@@ -1,5 +1,4 @@
-Pseudocercospora angulomaculae (A.K. Kar & M. Mandal) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora angulomaculae (A.K. Kar & M. Mandal) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

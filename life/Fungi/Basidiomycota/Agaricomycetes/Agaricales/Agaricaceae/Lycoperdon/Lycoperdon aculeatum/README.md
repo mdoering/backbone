@@ -1,5 +1,4 @@
-Lycoperdon aculeatum (Rostk.) Bonord. SPECIES
-=======
+# Lycoperdon aculeatum (Rostk.) Bonord. SPECIES
 
 #### Status
 ACCEPTED

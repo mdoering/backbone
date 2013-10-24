@@ -1,5 +1,4 @@
-Xylaria delitschii Auersw. SPECIES
-=======
+# Xylaria delitschii Auersw. SPECIES
 
 #### Status
 ACCEPTED

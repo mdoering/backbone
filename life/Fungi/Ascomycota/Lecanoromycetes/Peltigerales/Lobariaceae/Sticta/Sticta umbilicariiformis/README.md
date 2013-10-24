@@ -1,8 +1,7 @@
-Sticta umbilicariaeoformis Hochst. ex Flot. SPECIES
-=======
+# Sticta umbilicariiformis Hochst. ex Flot. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta umbilicariaeoformis Hochst. ex Flot.
+Sticta umbilicariiformis Hochst. ex Flot.
 
 ### Remarks
 null

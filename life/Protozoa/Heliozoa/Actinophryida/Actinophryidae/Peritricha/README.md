@@ -1,5 +1,4 @@
-Peritricha Bory de St. Vincent, 1827 GENUS
-=======
+# Peritricha Bory de St. Vincent, 1827 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria pseudobombarda (Mont.) Sacc. SPECIES
-=======
+# Trematosphaeria pseudobombarda (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

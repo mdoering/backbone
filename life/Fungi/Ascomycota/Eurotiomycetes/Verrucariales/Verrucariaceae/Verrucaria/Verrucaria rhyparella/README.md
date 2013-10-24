@@ -1,5 +1,4 @@
-Verrucaria rhyparella Nyl. SPECIES
-=======
+# Verrucaria rhyparella Nyl. SPECIES
 
 #### Status
 ACCEPTED

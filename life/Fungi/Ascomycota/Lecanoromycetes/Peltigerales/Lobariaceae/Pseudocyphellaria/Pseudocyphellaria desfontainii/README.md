@@ -1,17 +1,16 @@
-Sticta desfontainii var. desfontainii Delise VARIETY
-=======
+# Pseudocyphellaria desfontainii (Delise) D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 17(3): 304 (1985)
 
 #### Original name
-Sticta desfontainii var. desfontainii Delise
+Sticta desfontainii Delise
 
 ### Remarks
 null

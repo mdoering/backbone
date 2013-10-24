@@ -1,17 +1,16 @@
-Malupa jatrophicola (Arthur) Buriticá & J.F. Hennen, 1994 SPECIES
-=======
+# Phakopsora jatrophicola Cummins, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Buriticá, Revta ICNE, Instit. Cienc. Nat. Ecol. 5(2): 180 (1994)
+Mycologia 48: 604 (1956)
 
 #### Original name
-Uredo jatrophicola Arthur, 1915
+Phakopsora jatrophicola Cummins, 1956
 
 ### Remarks
 null

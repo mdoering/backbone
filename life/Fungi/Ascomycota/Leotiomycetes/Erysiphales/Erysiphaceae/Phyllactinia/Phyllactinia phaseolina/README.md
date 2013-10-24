@@ -1,5 +1,4 @@
-Phyllactinia phaseolina N. Ahmad, D.K. Agarwal & A.K. Sarbhoy SPECIES
-=======
+# Phyllactinia phaseolina N. Ahmad, D.K. Agarwal & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

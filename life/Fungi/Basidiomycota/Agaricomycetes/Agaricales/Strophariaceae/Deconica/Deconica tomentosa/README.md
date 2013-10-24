@@ -1,5 +1,4 @@
-Deconica tomentosa Murrill SPECIES
-=======
+# Deconica tomentosa Murrill SPECIES
 
 #### Status
 ACCEPTED

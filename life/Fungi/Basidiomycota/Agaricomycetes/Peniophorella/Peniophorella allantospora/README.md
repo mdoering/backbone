@@ -1,14 +1,13 @@
-Hyphoderma allantosporum Sheng H. Wu, 1990 SPECIES
-=======
+# Peniophorella allantospora (Sheng H. Wu) K.H. Larss., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. fenn. 142: 65 (1990)
+Mycol. Res. 111(2): 191 (2007)
 
 #### Original name
 Hyphoderma allantosporum Sheng H. Wu, 1990

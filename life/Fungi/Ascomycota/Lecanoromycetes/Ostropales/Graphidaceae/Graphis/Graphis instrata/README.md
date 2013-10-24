@@ -1,5 +1,4 @@
-Graphis instrata Stirt. SPECIES
-=======
+# Graphis instrata Stirt. SPECIES
 
 #### Status
 ACCEPTED

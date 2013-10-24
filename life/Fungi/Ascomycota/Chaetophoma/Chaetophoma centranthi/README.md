@@ -1,5 +1,4 @@
-Chaetophoma centranthi Gucevic SPECIES
-=======
+# Chaetophoma centranthi Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coreomyces micronectae Thaxt. SPECIES
-=======
+# Coreomyces micronectae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

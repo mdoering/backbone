@@ -1,14 +1,13 @@
-Pseudodiplodia capparidis (Castagne) Petr. SPECIES
-=======
+# Pseudodiplodia capparis (Castagne) Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 7(5-6): 305 (1953)
 
 #### Original name
 Perisporium capparis Castagne

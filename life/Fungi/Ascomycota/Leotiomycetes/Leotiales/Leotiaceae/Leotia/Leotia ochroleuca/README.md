@@ -1,5 +1,4 @@
-Leotia ochroleuca Cooke & J.M. Hook SPECIES
-=======
+# Leotia ochroleuca Cooke & J.M. Hook SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ptychomiliola Eimer & Fickert, 1899 GENUS
-=======
+# Ptychomiliola Eimer & Fickert, 1899 GENUS
 
 #### Status
 ACCEPTED

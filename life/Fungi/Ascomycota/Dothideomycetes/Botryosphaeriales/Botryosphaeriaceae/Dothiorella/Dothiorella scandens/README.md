@@ -1,5 +1,4 @@
-Dothiorella scandens (Sacc.) Petr. & Syd. SPECIES
-=======
+# Dothiorella scandens (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

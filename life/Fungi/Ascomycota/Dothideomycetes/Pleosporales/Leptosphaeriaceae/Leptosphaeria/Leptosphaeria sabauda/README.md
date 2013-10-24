@@ -1,5 +1,4 @@
-Leptosphaeria sabauda Speg. SPECIES
-=======
+# Leptosphaeria sabauda Speg. SPECIES
 
 #### Status
 ACCEPTED

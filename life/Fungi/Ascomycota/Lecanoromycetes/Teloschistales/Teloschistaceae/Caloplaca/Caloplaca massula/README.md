@@ -1,5 +1,4 @@
-Caloplaca massula (Stizenb.) Zahlbr. SPECIES
-=======
+# Caloplaca massula (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

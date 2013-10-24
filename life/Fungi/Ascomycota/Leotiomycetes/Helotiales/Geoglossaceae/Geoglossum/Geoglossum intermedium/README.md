@@ -1,5 +1,4 @@
-Geoglossum intermedium E.J. Durand SPECIES
-=======
+# Geoglossum intermedium E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

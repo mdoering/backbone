@@ -1,5 +1,4 @@
-Stereothalia V.B.A.Trevisan, 1849 GENUS
-=======
+# Stereothalia V.B.A.Trevisan, 1849 GENUS
 
 #### Status
 ACCEPTED

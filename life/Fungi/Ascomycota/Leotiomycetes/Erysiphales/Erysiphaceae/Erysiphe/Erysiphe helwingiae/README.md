@@ -1,5 +1,4 @@
-Erysiphe helwingiae (Sawada) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe helwingiae (Sawada) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

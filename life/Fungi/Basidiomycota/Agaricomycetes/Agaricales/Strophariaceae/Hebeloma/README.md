@@ -1,17 +1,16 @@
-Picromyces Battarra ex Earle GENUS
-=======
+# Hebeloma (E.M. Fries) P. Kummer, 1871 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bulletin of the New York Botanical Garden 5: 438 (1909)
+null
 
 #### Original name
-Picromyces Battarra ex Earle
+null
 
 ### Remarks
 null

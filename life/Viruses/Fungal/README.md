@@ -1,5 +1,4 @@
-Fungal Prions FAMILY
-=======
+# Fungal Prions FAMILY
 
 #### Status
 ACCEPTED

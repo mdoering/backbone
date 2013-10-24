@@ -1,5 +1,4 @@
-Clitocybe jalapensis (Murrill) Singer SPECIES
-=======
+# Clitocybe jalapensis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

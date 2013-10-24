@@ -1,5 +1,4 @@
-Entorhipidium multimicronucleatum Lynch, 1929 SPECIES
-=======
+# Entorhipidium multimicronucleatum Lynch, 1929 SPECIES
 
 #### Status
 ACCEPTED

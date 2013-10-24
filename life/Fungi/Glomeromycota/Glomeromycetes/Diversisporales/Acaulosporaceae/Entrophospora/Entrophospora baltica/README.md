@@ -1,5 +1,4 @@
-Entrophospora baltica Blaszk., Madej & Tadych, 1998 SPECIES
-=======
+# Entrophospora baltica Blaszk., Madej & Tadych, 1998 SPECIES
 
 #### Status
 ACCEPTED

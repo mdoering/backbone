@@ -1,5 +1,4 @@
-Phyllosticta insignis Gucevic SPECIES
-=======
+# Phyllosticta insignis Gucevic SPECIES
 
 #### Status
 ACCEPTED

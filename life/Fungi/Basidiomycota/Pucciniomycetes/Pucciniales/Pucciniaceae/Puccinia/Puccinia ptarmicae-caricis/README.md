@@ -1,5 +1,4 @@
-Puccinia ptarmicae-caricis Zwetko SPECIES
-=======
+# Puccinia ptarmicae-caricis Zwetko SPECIES
 
 #### Status
 ACCEPTED

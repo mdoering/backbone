@@ -1,5 +1,4 @@
-Psathyrella deparcula (Britzelm.) Sacc. SPECIES
-=======
+# Psathyrella deparcula (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stegonsporium eversmanniae Vasyag. SPECIES
-=======
+# Stegonsporium eversmanniae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

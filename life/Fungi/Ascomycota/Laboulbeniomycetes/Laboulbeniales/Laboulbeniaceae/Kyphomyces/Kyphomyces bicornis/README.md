@@ -1,5 +1,4 @@
-Kyphomyces bicornis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Kyphomyces bicornis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

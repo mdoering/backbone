@@ -1,8 +1,7 @@
-Rhytidhysterium scortechinii Sacc. & Berl. SPECIES
-=======
+# Rhytidhysteron scortechinii Sacc. & Berl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhytidhysterium scortechinii Sacc. & Berl.
+Rhytidhysteron scortechinii Sacc. & Berl.
 
 ### Remarks
 null

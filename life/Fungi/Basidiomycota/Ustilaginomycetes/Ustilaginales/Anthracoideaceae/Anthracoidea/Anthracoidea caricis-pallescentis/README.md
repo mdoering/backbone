@@ -1,5 +1,4 @@
-Anthracoidea caricis-pallescentis (Lehtola) Zambett. SPECIES
-=======
+# Anthracoidea caricis-pallescentis (Lehtola) Zambett. SPECIES
 
 #### Status
 ACCEPTED

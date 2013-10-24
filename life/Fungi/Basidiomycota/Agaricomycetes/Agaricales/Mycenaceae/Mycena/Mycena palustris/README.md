@@ -1,5 +1,4 @@
-Mycena palustris (Peck) Sacc. SPECIES
-=======
+# Mycena palustris (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

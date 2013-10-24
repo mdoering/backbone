@@ -1,5 +1,4 @@
-Haplographium penicillatum (Richon) Sacc. SPECIES
-=======
+# Haplographium penicillatum (Richon) Sacc. SPECIES
 
 #### Status
 ACCEPTED

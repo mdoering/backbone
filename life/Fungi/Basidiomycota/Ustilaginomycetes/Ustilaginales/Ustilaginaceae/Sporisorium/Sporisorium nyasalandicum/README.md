@@ -1,5 +1,4 @@
-Sporisorium nyasalandicum (L. Ling) Vánky SPECIES
-=======
+# Sporisorium nyasalandicum (L. Ling) Vánky SPECIES
 
 #### Status
 ACCEPTED

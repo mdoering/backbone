@@ -1,5 +1,4 @@
-Fragilaria oblonga SPECIES
-=======
+# Fragilaria oblonga SPECIES
 
 #### Status
 ACCEPTED

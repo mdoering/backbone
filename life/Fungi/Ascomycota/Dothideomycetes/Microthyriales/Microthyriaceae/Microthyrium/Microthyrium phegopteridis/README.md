@@ -1,5 +1,4 @@
-Microthyrium phegopteridis Magnus SPECIES
-=======
+# Microthyrium phegopteridis Magnus SPECIES
 
 #### Status
 ACCEPTED

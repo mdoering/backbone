@@ -1,5 +1,4 @@
-Phialophorophoma litoralis Linder, 1944 SPECIES
-=======
+# Phialophorophoma litoralis Linder, 1944 SPECIES
 
 #### Status
 ACCEPTED

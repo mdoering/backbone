@@ -1,5 +1,4 @@
-Valsa microcarpa Ellis & Everh. SPECIES
-=======
+# Valsa microcarpa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

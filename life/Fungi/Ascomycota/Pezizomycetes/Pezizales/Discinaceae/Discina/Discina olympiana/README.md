@@ -1,5 +1,4 @@
-Discina olympiana var. olympiana VARIETY
-=======
+# Discina olympiana Kanouse SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 39: 648 (1947)
 
 #### Original name
-Discina olympiana var. olympiana
+Discina olympiana Kanouse
 
 ### Remarks
 null

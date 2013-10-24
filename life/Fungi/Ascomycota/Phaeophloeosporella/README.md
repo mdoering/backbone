@@ -1,5 +1,4 @@
-Phaeophloeosporella Crous & B. Sutton GENUS
-=======
+# Phaeophloeosporella Crous & B. Sutton GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota augustana (Britzelm.) Sacc. SPECIES
-=======
+# Lepiota augustana (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita xanthogala Bas SPECIES
-=======
+# Amanita xanthogala Bas SPECIES
 
 #### Status
 ACCEPTED

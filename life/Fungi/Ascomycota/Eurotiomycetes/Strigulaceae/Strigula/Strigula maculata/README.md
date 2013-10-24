@@ -1,17 +1,16 @@
-Micropeltis maculata var. maculata VARIETY
-=======
+# Strigula maculata (Cooke & Massee) R. Sant. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 18(no. 86): 35 (1889)
+Symb. bot. upsal. 12(no. 1): 186 (1952)
 
 #### Original name
-Micropeltis maculata var. maculata
+Micropeltis maculata Cooke & Massee
 
 ### Remarks
 null

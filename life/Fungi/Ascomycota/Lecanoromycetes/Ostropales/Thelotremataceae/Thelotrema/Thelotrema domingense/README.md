@@ -1,5 +1,4 @@
-Thelotrema domingense SPECIES
-=======
+# Thelotrema domingense SPECIES
 
 #### Status
 ACCEPTED

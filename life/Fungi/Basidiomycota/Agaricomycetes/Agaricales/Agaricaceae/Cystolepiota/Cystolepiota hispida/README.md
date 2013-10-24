@@ -1,5 +1,4 @@
-Cystolepiota hispida (Lasch) Bon SPECIES
-=======
+# Cystolepiota hispida (Lasch) Bon SPECIES
 
 #### Status
 ACCEPTED

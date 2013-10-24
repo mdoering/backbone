@@ -1,5 +1,4 @@
-Stegobolus austroafricanus Frisch SPECIES
-=======
+# Stegobolus austroafricanus Frisch SPECIES
 
 #### Status
 ACCEPTED

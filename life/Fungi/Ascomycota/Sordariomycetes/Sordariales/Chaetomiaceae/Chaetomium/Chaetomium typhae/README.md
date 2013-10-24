@@ -1,5 +1,4 @@
-Chaetomium typhae Schwein. SPECIES
-=======
+# Chaetomium typhae Schwein. SPECIES
 
 #### Status
 ACCEPTED

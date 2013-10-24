@@ -1,5 +1,4 @@
-Lyophyllum pusillum Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum pusillum Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora heimii Vienn.-Bourg., 1939 SPECIES
-=======
+# Phyllachora heimii Vienn.-Bourg., 1939 SPECIES
 
 #### Status
 ACCEPTED

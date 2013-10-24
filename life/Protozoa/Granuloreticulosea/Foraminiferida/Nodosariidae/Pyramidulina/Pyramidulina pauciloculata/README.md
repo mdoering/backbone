@@ -1,8 +1,7 @@
-Nodosaria pauciloculata Cushman, 1917 SPECIES
-=======
+# Pyramidulina pauciloculata (Cushman, 1917) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

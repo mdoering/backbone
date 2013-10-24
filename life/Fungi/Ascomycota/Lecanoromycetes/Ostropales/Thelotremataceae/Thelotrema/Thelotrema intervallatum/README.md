@@ -1,5 +1,4 @@
-Thelotrema intervallatum Nyl. SPECIES
-=======
+# Thelotrema intervallatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen radians Lam. SPECIES
-=======
+# Lichen radians Lam. SPECIES
 
 #### Status
 ACCEPTED

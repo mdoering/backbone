@@ -1,5 +1,4 @@
-Penicillites curtipes (Berk.) Mesch. SPECIES
-=======
+# Penicillites curtipes (Berk.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

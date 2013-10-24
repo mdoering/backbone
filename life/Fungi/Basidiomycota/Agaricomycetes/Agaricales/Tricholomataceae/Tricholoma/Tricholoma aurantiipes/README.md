@@ -1,5 +1,4 @@
-Tricholoma aurantiipes Hongo SPECIES
-=======
+# Tricholoma aurantiipes Hongo SPECIES
 
 #### Status
 ACCEPTED

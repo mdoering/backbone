@@ -1,5 +1,4 @@
-Nipicola K.D. Hyde GENUS
-=======
+# Nipicola K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

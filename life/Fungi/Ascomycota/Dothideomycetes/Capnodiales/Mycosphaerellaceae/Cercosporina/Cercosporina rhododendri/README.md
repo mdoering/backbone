@@ -1,5 +1,4 @@
-Cercosporina rhododendri (Ferraris) Sacc. SPECIES
-=======
+# Cercosporina rhododendri (Ferraris) Sacc. SPECIES
 
 #### Status
 ACCEPTED

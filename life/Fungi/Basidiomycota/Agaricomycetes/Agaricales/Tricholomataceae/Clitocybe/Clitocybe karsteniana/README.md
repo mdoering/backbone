@@ -1,5 +1,4 @@
-Clitocybe karsteniana Lebedeva SPECIES
-=======
+# Clitocybe karsteniana Lebedeva SPECIES
 
 #### Status
 ACCEPTED

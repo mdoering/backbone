@@ -1,5 +1,4 @@
-Manina Adanson, 1763 GENUS
-=======
+# Manina Adanson, 1763 GENUS
 
 #### Status
 ACCEPTED

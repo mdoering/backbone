@@ -1,5 +1,4 @@
-Graphis indita Vain. SPECIES
-=======
+# Graphis indita Vain. SPECIES
 
 #### Status
 ACCEPTED

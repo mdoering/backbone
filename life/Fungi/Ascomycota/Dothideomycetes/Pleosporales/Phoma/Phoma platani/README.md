@@ -1,5 +1,4 @@
-Phoma platani H. Mori SPECIES
-=======
+# Phoma platani H. Mori SPECIES
 
 #### Status
 ACCEPTED

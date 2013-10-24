@@ -1,5 +1,4 @@
-Agaricus naufragus Speg. SPECIES
-=======
+# Agaricus naufragus Speg. SPECIES
 
 #### Status
 ACCEPTED

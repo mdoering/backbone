@@ -1,5 +1,4 @@
-Mycoporum lahmii (Müll. Arg.) Stizenb. SPECIES
-=======
+# Mycoporum lahmii (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

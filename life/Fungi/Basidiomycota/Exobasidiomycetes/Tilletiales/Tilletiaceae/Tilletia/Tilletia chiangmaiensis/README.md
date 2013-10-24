@@ -1,5 +1,4 @@
-Tilletia chiangmaiensis R.G. Shivas, Vánky & Athip., 2006 SPECIES
-=======
+# Tilletia chiangmaiensis R.G. Shivas, Vánky & Athip., 2006 SPECIES
 
 #### Status
 ACCEPTED

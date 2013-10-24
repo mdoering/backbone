@@ -1,5 +1,4 @@
-Hydnum inquinatum Banker SPECIES
-=======
+# Hydnum inquinatum Banker SPECIES
 
 #### Status
 ACCEPTED

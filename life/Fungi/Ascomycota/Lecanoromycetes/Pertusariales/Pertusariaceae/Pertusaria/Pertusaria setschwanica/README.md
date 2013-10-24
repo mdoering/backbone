@@ -1,5 +1,4 @@
-Pertusaria setschwanica SPECIES
-=======
+# Pertusaria setschwanica SPECIES
 
 #### Status
 ACCEPTED

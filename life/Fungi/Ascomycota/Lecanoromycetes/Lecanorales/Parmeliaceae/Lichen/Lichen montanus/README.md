@@ -1,5 +1,4 @@
-Lichen montanus Wibel SPECIES
-=======
+# Lichen montanus Wibel SPECIES
 
 #### Status
 ACCEPTED

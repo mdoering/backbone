@@ -1,5 +1,4 @@
-Teichospora mesascium (De Not.) Sacc. SPECIES
-=======
+# Teichospora mesascium (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

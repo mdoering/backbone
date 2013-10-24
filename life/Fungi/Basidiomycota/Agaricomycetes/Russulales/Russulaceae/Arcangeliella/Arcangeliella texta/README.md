@@ -1,5 +1,4 @@
-Arcangeliella texta (J.W. Cribb) Pegler & T.W.K. Young SPECIES
-=======
+# Arcangeliella texta (J.W. Cribb) Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

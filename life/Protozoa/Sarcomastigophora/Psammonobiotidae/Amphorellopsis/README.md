@@ -1,5 +1,4 @@
-Amphorellopsis GENUS
-=======
+# Amphorellopsis GENUS
 
 #### Status
 ACCEPTED

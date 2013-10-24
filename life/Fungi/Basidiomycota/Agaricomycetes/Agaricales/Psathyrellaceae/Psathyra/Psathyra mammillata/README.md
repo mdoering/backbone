@@ -1,5 +1,4 @@
-Psathyra mammillata Murrill SPECIES
-=======
+# Psathyra mammillata Murrill SPECIES
 
 #### Status
 ACCEPTED

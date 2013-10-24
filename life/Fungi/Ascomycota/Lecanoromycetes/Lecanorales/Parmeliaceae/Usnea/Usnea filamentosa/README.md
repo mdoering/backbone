@@ -1,5 +1,4 @@
-Usnea filamentosa Motyka SPECIES
-=======
+# Usnea filamentosa Motyka SPECIES
 
 #### Status
 ACCEPTED

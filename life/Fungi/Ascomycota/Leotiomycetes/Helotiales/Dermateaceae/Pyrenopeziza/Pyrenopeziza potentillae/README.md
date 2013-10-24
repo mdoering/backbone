@@ -1,5 +1,4 @@
-Pyrenopeziza potentillae Velen. SPECIES
-=======
+# Pyrenopeziza potentillae Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora diffusa (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Passalora diffusa (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

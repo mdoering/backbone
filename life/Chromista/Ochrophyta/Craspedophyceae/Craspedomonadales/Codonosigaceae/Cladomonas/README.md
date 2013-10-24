@@ -1,5 +1,4 @@
-Cladomonas F. Stein, 1878 GENUS
-=======
+# Cladomonas F. Stein, 1878 GENUS
 
 #### Status
 ACCEPTED

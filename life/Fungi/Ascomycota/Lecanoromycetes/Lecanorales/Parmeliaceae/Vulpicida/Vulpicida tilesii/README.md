@@ -1,14 +1,13 @@
-Platysma tilesii (Ach.) Nyl. SPECIES
-=======
+# Vulpicida tilesii (Ach.) J.-E. Mattsson & M.J. Lai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 46: 428 (1993)
 
 #### Original name
 Cetraria tilesii Ach.

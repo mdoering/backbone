@@ -1,5 +1,4 @@
-Diaporthe nomurai Hara SPECIES
-=======
+# Diaporthe nomurai Hara SPECIES
 
 #### Status
 ACCEPTED

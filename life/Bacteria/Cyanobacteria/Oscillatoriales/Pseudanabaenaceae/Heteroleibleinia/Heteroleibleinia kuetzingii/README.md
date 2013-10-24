@@ -1,5 +1,4 @@
-Heteroleibleinia kuetzingii (Schmidle) Compère SPECIES
-=======
+# Heteroleibleinia kuetzingii (Schmidle) Compère SPECIES
 
 #### Status
 ACCEPTED

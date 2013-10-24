@@ -1,5 +1,4 @@
-Amanita strobilaceovolvata Beeli SPECIES
-=======
+# Amanita strobilaceovolvata Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma mume Hara SPECIES
-=======
+# Phoma mume Hara SPECIES
 
 #### Status
 ACCEPTED

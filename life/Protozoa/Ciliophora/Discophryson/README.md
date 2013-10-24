@@ -1,5 +1,4 @@
-Discophryson GENUS
-=======
+# Discophryson GENUS
 
 #### Status
 ACCEPTED

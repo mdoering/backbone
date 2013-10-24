@@ -1,5 +1,4 @@
-Phomopsis endogena (Speg.) Cif. SPECIES
-=======
+# Phomopsis endogena (Speg.) Cif. SPECIES
 
 #### Status
 ACCEPTED

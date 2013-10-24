@@ -1,5 +1,4 @@
-Skepperia andina Pat., 1893 SPECIES
-=======
+# Skepperia andina Pat., 1893 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dictyococcites productellus Bukry, 1975 SPECIES
-=======
+# Dictyococcites productus (Kamptner, 1963) Backman, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

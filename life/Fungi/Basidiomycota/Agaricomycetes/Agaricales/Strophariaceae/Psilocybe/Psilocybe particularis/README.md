@@ -1,5 +1,4 @@
-Psilocybe particularis (Britzelm.) Sacc. SPECIES
-=======
+# Psilocybe particularis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

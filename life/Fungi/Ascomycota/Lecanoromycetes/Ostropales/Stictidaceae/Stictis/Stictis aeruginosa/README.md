@@ -1,5 +1,4 @@
-Stictis aeruginosa Pers. SPECIES
-=======
+# Stictis aeruginosa Pers. SPECIES
 
 #### Status
 ACCEPTED

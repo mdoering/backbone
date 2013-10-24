@@ -1,5 +1,4 @@
-Volucribacter amazonae Christensen et al., 2004 SPECIES
-=======
+# Volucribacter amazonae Christensen et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

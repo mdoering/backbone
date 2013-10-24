@@ -1,5 +1,4 @@
-Ustilago flowersii SPECIES
-=======
+# Ustilago flowersii SPECIES
 
 #### Status
 ACCEPTED

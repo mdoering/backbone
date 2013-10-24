@@ -1,5 +1,4 @@
-Septoria hamiltoniae B.V. Patil, Sukapure & Thirum. SPECIES
-=======
+# Septoria hamiltoniae B.V. Patil, Sukapure & Thirum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Autophagomyces peyerimhoffii Maire SPECIES
-=======
+# Autophagomyces peyerimhoffii Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rogersella eburnea Hjortstam & Høgholen, 1980 SPECIES
-=======
+# Rogersella eburnea Hjortstam & Høgholen, 1980 SPECIES
 
 #### Status
 ACCEPTED

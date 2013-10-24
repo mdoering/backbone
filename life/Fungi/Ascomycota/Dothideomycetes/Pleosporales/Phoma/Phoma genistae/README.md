@@ -1,5 +1,4 @@
-Phoma genistae Brunaud SPECIES
-=======
+# Phoma genistae Brunaud SPECIES
 
 #### Status
 ACCEPTED

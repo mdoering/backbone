@@ -1,5 +1,4 @@
-Corticium simile Berk. & M.A. Curtis SPECIES
-=======
+# Corticium simile Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

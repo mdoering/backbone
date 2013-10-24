@@ -1,8 +1,7 @@
-Lecidea hohenbühelii (Poetsch) Nyl. SPECIES
-=======
+# Lecidea hohenbuehelii (Poetsch) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

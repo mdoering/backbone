@@ -1,5 +1,4 @@
-Hesseltinella H.P. Upadhyay GENUS
-=======
+# Hesseltinella H.P. Upadhyay GENUS
 
 #### Status
 ACCEPTED

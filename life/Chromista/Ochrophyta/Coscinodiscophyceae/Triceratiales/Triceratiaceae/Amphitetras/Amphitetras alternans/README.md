@@ -1,5 +1,4 @@
-Amphitetras alternans H.L. Smith SPECIES
-=======
+# Amphitetras alternans H.L. Smith SPECIES
 
 #### Status
 ACCEPTED

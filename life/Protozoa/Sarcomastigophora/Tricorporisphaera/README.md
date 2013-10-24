@@ -1,5 +1,4 @@
-Tricorporisphaera O'Connor, 1999 GENUS
-=======
+# Tricorporisphaera O'Connor, 1999 GENUS
 
 #### Status
 ACCEPTED

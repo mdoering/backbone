@@ -1,5 +1,4 @@
-Helotium phaeoconium (Fairm.) Seaver SPECIES
-=======
+# Helotium phaeoconium (Fairm.) Seaver SPECIES
 
 #### Status
 ACCEPTED

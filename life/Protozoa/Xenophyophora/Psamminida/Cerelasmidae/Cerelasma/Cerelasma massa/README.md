@@ -1,5 +1,4 @@
-Cerelasma massa Tendal, 1972 SPECIES
-=======
+# Cerelasma massa Tendal, 1972 SPECIES
 
 #### Status
 ACCEPTED

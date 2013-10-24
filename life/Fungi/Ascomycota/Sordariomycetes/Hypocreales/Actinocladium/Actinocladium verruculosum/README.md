@@ -1,5 +1,4 @@
-Actinocladium verruculosum W.P. Wu SPECIES
-=======
+# Actinocladium verruculosum W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

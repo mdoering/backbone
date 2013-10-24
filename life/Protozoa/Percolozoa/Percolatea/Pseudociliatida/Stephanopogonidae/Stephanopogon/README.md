@@ -1,5 +1,4 @@
-Stephanopogon Entz, 1884 GENUS
-=======
+# Stephanopogon Entz, 1884 GENUS
 
 #### Status
 ACCEPTED

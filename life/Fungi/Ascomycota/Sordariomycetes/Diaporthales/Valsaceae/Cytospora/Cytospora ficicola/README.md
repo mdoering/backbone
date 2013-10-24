@@ -1,5 +1,4 @@
-Cytospora ficicola Berk. & M.A. Curtis SPECIES
-=======
+# Cytospora ficicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

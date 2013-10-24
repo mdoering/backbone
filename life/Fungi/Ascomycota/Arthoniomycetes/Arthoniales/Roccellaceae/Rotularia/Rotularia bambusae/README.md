@@ -1,5 +1,4 @@
-Rotularia bambusae Vain. SPECIES
-=======
+# Rotularia bambusae Vain. SPECIES
 
 #### Status
 ACCEPTED

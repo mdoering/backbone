@@ -1,5 +1,4 @@
-Uromyces myrsines Dietel SPECIES
-=======
+# Uromyces myrsines Dietel SPECIES
 
 #### Status
 ACCEPTED

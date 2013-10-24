@@ -1,5 +1,4 @@
-Dimelaena alboplumbea SPECIES
-=======
+# Dimelaena alboplumbea SPECIES
 
 #### Status
 ACCEPTED

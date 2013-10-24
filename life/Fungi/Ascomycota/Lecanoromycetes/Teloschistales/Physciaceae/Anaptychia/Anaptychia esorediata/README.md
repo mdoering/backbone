@@ -1,5 +1,4 @@
-Anaptychia esorediata f. esorediata FORM
-=======
+# Anaptychia esorediata (Vain.) Du Rietz & Lynge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Anaptychia esorediata f. esorediata
+Anaptychia speciosa var. esorediata Vain.
 
 ### Remarks
 null

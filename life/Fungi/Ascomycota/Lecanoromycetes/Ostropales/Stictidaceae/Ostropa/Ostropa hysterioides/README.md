@@ -1,5 +1,4 @@
-Ostropa hysterioides Schwein. SPECIES
-=======
+# Ostropa hysterioides Schwein. SPECIES
 
 #### Status
 ACCEPTED

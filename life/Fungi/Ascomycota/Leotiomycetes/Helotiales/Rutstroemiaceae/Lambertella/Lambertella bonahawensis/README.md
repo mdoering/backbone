@@ -1,5 +1,4 @@
-Lambertella bonahawensis var. bonahawensis VARIETY
-=======
+# Lambertella bonahawensis Dumont SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 22(1): 29 (1971)
 
 #### Original name
-Lambertella bonahawensis var. bonahawensis
+Lambertella bonahawensis Dumont
 
 ### Remarks
 null

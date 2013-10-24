@@ -1,5 +1,4 @@
-Phoma galini Gucevic SPECIES
-=======
+# Phoma galini Gucevic SPECIES
 
 #### Status
 ACCEPTED

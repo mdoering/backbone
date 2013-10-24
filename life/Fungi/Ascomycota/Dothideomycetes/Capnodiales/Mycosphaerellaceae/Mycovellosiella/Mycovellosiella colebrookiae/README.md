@@ -1,5 +1,4 @@
-Mycovellosiella colebrookiae Bhalla, N. Srivast. & Kamal SPECIES
-=======
+# Mycovellosiella colebrookiae Bhalla, N. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

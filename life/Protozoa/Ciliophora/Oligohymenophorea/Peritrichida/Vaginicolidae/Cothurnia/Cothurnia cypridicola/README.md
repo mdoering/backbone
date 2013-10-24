@@ -1,5 +1,4 @@
-Cothurnia cypridicola Kahl, 1933 SPECIES
-=======
+# Cothurnia cypridicola Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

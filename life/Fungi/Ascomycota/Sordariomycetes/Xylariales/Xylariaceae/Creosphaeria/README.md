@@ -1,5 +1,4 @@
-Creosphaeria Theiss. GENUS
-=======
+# Creosphaeria Theiss. GENUS
 
 #### Status
 ACCEPTED

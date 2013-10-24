@@ -1,5 +1,4 @@
-Puccinia detonsa Arthur & Holw. SPECIES
-=======
+# Puccinia detonsa Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

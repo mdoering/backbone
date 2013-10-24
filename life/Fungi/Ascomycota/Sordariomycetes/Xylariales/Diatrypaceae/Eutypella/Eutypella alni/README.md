@@ -1,5 +1,4 @@
-Eutypella alni (Fr.) Lar.N. Vassiljeva SPECIES
-=======
+# Eutypella alni (Fr.) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

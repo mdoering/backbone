@@ -1,5 +1,4 @@
-Geitlerinema earlei (Gardner) Anagnostidis SPECIES
-=======
+# Geitlerinema earlei (Gardner) Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

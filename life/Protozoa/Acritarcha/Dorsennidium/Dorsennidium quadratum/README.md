@@ -1,5 +1,4 @@
-Dorsennidium quadratum (Schaarschmidt, 1963) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Dorsennidium quadratum (Schaarschmidt, 1963) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

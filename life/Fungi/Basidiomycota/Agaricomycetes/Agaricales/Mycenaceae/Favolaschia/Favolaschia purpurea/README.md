@@ -1,5 +1,4 @@
-Favolaschia purpurea (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Favolaschia purpurea (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

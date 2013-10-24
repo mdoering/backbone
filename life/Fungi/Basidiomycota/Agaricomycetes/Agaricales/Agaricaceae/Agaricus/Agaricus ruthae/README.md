@@ -1,5 +1,4 @@
-Agaricus ruthae Berk. & Broome SPECIES
-=======
+# Agaricus ruthae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

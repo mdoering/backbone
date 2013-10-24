@@ -1,5 +1,4 @@
-Triceratium schulzii var. quadrilobum J. Fenner VARIETY
-=======
+# Triceratium schulzii A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

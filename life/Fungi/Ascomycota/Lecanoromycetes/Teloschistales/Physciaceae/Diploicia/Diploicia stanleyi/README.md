@@ -1,5 +1,4 @@
-Diploicia stanleyi (Stein) C.W. Dodge SPECIES
-=======
+# Diploicia stanleyi (Stein) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

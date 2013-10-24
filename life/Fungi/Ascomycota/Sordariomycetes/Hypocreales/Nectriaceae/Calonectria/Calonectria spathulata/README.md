@@ -1,5 +1,4 @@
-Calonectria spathulata El-Gholl, Kimbr., E.L. Barnard, Alfieri & Schoult., 1986 SPECIES
-=======
+# Calonectria spathulata El-Gholl, Kimbr., E.L. Barnard, Alfieri & Schoult., 1986 SPECIES
 
 #### Status
 ACCEPTED

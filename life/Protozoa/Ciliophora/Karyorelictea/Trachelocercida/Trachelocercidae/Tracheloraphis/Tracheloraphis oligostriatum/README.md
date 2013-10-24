@@ -1,5 +1,4 @@
-Tracheloraphis oligostriatum (Raikov, 1962) Foissner & Dragesco, 1996 SPECIES
-=======
+# Tracheloraphis oligostriatum (Raikov, 1962) Foissner & Dragesco, 1996 SPECIES
 
 #### Status
 ACCEPTED

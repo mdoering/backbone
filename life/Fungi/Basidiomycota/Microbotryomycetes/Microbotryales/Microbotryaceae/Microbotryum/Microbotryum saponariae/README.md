@@ -1,5 +1,4 @@
-Microbotryum saponariae M. Lutz, Göker, Piatek, Kemler, Begerow & Oberw., 2005 SPECIES
-=======
+# Microbotryum saponariae M. Lutz, Göker, Piatek, Kemler, Begerow & Oberw., 2005 SPECIES
 
 #### Status
 ACCEPTED

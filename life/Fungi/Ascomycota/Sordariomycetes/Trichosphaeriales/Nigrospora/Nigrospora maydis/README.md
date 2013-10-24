@@ -1,5 +1,4 @@
-Nigrospora maydis (Garov.) Hol.-Jech. SPECIES
-=======
+# Nigrospora maydis (Garov.) Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

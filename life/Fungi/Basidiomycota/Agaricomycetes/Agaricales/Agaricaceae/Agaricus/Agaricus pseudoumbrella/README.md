@@ -1,5 +1,4 @@
-Agaricus pseudoumbrella Bohus SPECIES
-=======
+# Agaricus pseudoumbrella Bohus SPECIES
 
 #### Status
 ACCEPTED

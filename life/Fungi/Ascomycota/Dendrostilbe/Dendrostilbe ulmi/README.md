@@ -1,5 +1,4 @@
-Dendrostilbe ulmi Dearn. SPECIES
-=======
+# Dendrostilbe ulmi Dearn. SPECIES
 
 #### Status
 ACCEPTED

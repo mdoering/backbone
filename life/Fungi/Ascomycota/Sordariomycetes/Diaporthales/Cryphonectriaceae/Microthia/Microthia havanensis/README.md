@@ -1,14 +1,13 @@
-Endothia havanensis Bruner, 1916 SPECIES
-=======
+# Microthia havanensis (Bruner) Gryzenh. & M.J. Wingf., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 8(5): 241 (1916)
+in Gryzenhout, Myburg, Hodges, Wingfield & Wingfield, Stud. Mycol. 55: 44 (2006)
 
 #### Original name
 Endothia havanensis Bruner, 1916

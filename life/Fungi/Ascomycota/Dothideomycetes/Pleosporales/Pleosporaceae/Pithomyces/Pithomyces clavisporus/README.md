@@ -1,5 +1,4 @@
-Pithomyces clavisporus Morgan-Jones SPECIES
-=======
+# Pithomyces clavisporus Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

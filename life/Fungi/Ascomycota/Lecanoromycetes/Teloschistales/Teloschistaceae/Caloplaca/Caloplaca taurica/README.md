@@ -1,5 +1,4 @@
-Caloplaca taurica Mereschk. SPECIES
-=======
+# Caloplaca taurica Mereschk. SPECIES
 
 #### Status
 ACCEPTED

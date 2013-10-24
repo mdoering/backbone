@@ -1,5 +1,4 @@
-Haematomma papuense Kalb & Staiger SPECIES
-=======
+# Haematomma papuense Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED

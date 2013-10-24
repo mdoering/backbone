@@ -1,5 +1,4 @@
-Leiophloea cincta (Fée) Trevis. SPECIES
-=======
+# Leiophloea cincta (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

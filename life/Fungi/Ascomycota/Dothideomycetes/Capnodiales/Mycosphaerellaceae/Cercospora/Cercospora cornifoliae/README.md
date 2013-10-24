@@ -1,17 +1,16 @@
-Cercospora cormfoliae Chupp SPECIES
-=======
+# Cercospora cornifoliae Chupp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monograph of Cercospora 366 (1954)
 
 #### Original name
-Cercospora cormfoliae Chupp
+Cercospora cornifoliae Chupp
 
 ### Remarks
 null

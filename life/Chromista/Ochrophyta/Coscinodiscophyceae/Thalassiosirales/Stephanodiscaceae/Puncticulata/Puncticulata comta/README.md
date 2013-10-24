@@ -1,5 +1,4 @@
-Puncticulata comta (Ehrenberg) H. Hakansson, 2002 SPECIES
-=======
+# Puncticulata comta (Ehrenberg) H. Hakansson, 2002 SPECIES
 
 #### Status
 ACCEPTED

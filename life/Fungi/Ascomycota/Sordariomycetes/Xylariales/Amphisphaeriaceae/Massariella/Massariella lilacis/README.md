@@ -1,5 +1,4 @@
-Massariella lilacis (G.H. Otth) Jacz. SPECIES
-=======
+# Massariella lilacis (G.H. Otth) Jacz. SPECIES
 
 #### Status
 ACCEPTED

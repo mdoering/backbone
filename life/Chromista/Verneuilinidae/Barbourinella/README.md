@@ -1,5 +1,4 @@
-Barbourinella Bermudez, 1940 GENUS
-=======
+# Barbourinella Bermudez, 1940 GENUS
 
 #### Status
 ACCEPTED

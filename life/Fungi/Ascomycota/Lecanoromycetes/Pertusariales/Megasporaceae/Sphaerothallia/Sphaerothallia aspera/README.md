@@ -1,5 +1,4 @@
-Sphaerothallia aspera (Mereschk.) Follmann & A. Crespo SPECIES
-=======
+# Sphaerothallia aspera (Mereschk.) Follmann & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

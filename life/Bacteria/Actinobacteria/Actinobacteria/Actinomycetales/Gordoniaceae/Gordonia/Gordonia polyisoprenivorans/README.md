@@ -1,5 +1,4 @@
-Gordonia polyisoprenivorans Linos et al., 1999 SPECIES
-=======
+# Gordonia polyisoprenivorans Linos et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

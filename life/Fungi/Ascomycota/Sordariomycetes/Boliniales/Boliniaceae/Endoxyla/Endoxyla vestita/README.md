@@ -1,5 +1,4 @@
-Endoxyla vestita (Sacc.) Munk, 1966 SPECIES
-=======
+# Endoxyla vestita (Sacc.) Munk, 1966 SPECIES
 
 #### Status
 ACCEPTED

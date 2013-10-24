@@ -1,5 +1,4 @@
-Cubonia niepolomicensis Rouppert {?} SPECIES
-=======
+# Cubonia niepolomicensis Rouppert {?} SPECIES
 
 #### Status
 ACCEPTED

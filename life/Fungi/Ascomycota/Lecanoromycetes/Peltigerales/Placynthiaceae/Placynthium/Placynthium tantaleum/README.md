@@ -1,17 +1,16 @@
-Biatora corallinoides var. tantalea Hepp VARIETY
-=======
+# Placynthium tantaleum (Hepp) Hue SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. linn. Normandie, sér. 5 9: 153 (1906)
 
 #### Original name
-null
+Biatora corallinoides var. tantaleum Hepp
 
 ### Remarks
 null

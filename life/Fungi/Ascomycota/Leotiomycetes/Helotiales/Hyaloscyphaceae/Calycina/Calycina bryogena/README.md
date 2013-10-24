@@ -1,5 +1,4 @@
-Calycina bryogena (Peck) Kuntze SPECIES
-=======
+# Calycina bryogena (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

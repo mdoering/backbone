@@ -1,5 +1,4 @@
-Multicellaesporites leguminosus Z.C. Song SPECIES
-=======
+# Multicellaesporites leguminosus Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

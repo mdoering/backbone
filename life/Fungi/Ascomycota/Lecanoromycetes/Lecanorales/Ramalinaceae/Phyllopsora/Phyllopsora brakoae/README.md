@@ -1,5 +1,4 @@
-Phyllopsora brakoae Timdal SPECIES
-=======
+# Phyllopsora brakoae Timdal SPECIES
 
 #### Status
 ACCEPTED

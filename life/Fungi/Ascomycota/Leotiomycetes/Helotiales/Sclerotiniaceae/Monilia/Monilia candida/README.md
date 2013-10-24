@@ -1,5 +1,4 @@
-Monilia candida subsp. candida SUBSPECIES
-=======
+# Monilia candida Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Lindner, Handb. Allgem. mykol. (Stuttgart) 1: 120 (1844)
 
 #### Original name
-Monilia candida subsp. candida
+Monilia candida Peck
 
 ### Remarks
 null

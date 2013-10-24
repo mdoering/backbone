@@ -1,17 +1,16 @@
-Coniothyrium rupicolum Petr. SPECIES
-=======
+# Coniothyrium rupicola Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annln naturh. Mus. Wien 52: 375 (1942)
 
 #### Original name
-Coniothyrium rupicolum Petr.
+Coniothyrium rupicola Petr.
 
 ### Remarks
 null

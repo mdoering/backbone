@@ -1,5 +1,4 @@
-Mallomonas retrorsa P. A. Siver SPECIES
-=======
+# Mallomonas retrorsa P. A. Siver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium polymorphum Peyl SPECIES
-=======
+# Cladosporium polymorphum Peyl SPECIES
 
 #### Status
 ACCEPTED

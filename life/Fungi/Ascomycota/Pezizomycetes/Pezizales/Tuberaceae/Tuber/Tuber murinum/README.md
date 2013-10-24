@@ -1,5 +1,4 @@
-Tuber murinum R. Hesse SPECIES
-=======
+# Tuber murinum R. Hesse SPECIES
 
 #### Status
 ACCEPTED

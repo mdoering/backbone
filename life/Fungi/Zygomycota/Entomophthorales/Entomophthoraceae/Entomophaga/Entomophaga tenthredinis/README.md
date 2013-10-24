@@ -1,14 +1,13 @@
-Entomophthora tenthredinis Fresen., 1858 SPECIES
-=======
+# Entomophaga tenthredinis (Fresen.) A. Batko, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Abh. senckenb. naturforsch. Ges. 2(2): 205 (1858)
+Atlas of Entomopathogenic Fungi (Berlin) 17 (1964)
 
 #### Original name
 Entomophthora tenthredinis Fresen., 1858

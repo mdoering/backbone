@@ -1,5 +1,4 @@
-Phaeosporis Clem. GENUS
-=======
+# Phaeosporis Clem. GENUS
 
 #### Status
 ACCEPTED

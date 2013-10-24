@@ -1,5 +1,4 @@
-Tintinnopsis angustior (Joergensen, 1924) SPECIES
-=======
+# Tintinnopsis angustior (Joergensen, 1924) SPECIES
 
 #### Status
 ACCEPTED

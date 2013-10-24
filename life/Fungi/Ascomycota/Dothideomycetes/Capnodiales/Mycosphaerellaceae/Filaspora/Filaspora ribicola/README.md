@@ -1,5 +1,4 @@
-Filaspora ribicola (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Filaspora ribicola (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

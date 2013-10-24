@@ -1,11 +1,10 @@
-Clostridium feseri Trevisan, 1885 SPECIES
-=======
+# Clostridium chauvoei (Arloing et al., 1887) Scott, 1928 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

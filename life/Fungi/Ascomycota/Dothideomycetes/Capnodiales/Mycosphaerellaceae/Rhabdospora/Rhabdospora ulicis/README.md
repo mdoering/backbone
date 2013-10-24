@@ -1,5 +1,4 @@
-Rhabdospora ulicis Grove SPECIES
-=======
+# Rhabdospora ulicis Grove SPECIES
 
 #### Status
 ACCEPTED

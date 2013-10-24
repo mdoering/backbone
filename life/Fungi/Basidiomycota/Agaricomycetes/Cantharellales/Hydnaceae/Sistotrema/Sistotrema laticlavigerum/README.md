@@ -1,5 +1,4 @@
-Sistotrema laticlavigerum Boidin & Gilles SPECIES
-=======
+# Sistotrema laticlavigerum Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desmarestia intermedia var. fuscescens Postels & Ruprecht VARIETY
-=======
+# Desmarestia intermedia Postels & Ruprecht SPECIES
 
 #### Status
 ACCEPTED

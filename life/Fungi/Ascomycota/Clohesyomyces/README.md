@@ -1,5 +1,4 @@
-Clohesyomyces K.D. Hyde GENUS
-=======
+# Clohesyomyces K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

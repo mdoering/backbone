@@ -1,5 +1,4 @@
-Sticta imbricatula Taylor SPECIES
-=======
+# Sticta imbricatula Taylor SPECIES
 
 #### Status
 ACCEPTED

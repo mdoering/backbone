@@ -1,14 +1,13 @@
-Tuburcinia alopecuri (A.B. Frank) Liro, 1922 SPECIES
-=======
+# Urocystis alopecuri A.B. Frank, 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Univ. fenn. Aboënsis, Ser. A 1(no. 1): (1922)
+Exantheme der Pflanzen. Up. 440 (1880)
 
 #### Original name
 Urocystis alopecuri A.B. Frank, 1880

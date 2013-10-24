@@ -1,17 +1,16 @@
-Tricholoma graminicolum Velen. SPECIES
-=======
+# Melanoleuca graminicola (Velen.) Kühner & Maire, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 50: 18 (1934)
 
 #### Original name
-Tricholoma graminicolum Velen.
+Tricholoma graminicola Velen., 1939
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arthonia gyrosa Ach. SPECIES
-=======
+# Arthonia gyrosa Ach. SPECIES
 
 #### Status
 ACCEPTED

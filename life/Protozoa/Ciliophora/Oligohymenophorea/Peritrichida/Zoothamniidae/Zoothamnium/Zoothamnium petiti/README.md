@@ -1,5 +1,4 @@
-Zoothamnium petiti SPECIES
-=======
+# Zoothamnium petiti SPECIES
 
 #### Status
 ACCEPTED

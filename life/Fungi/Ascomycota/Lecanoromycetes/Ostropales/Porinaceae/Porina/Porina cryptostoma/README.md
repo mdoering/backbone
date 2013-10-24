@@ -1,5 +1,4 @@
-Porina cryptostoma Malme SPECIES
-=======
+# Porina cryptostoma Malme SPECIES
 
 #### Status
 ACCEPTED

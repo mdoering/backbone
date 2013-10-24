@@ -1,5 +1,4 @@
-Pseudohelicomyces albus Garnica & E. Valenz., 2000 SPECIES
-=======
+# Pseudohelicomyces albus Garnica & E. Valenz., 2000 SPECIES
 
 #### Status
 ACCEPTED

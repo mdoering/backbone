@@ -1,5 +1,4 @@
-Trichoderma minutum Bainier SPECIES
-=======
+# Trichoderma minutum Bainier SPECIES
 
 #### Status
 ACCEPTED

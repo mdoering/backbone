@@ -1,5 +1,4 @@
-Densospora solicarpa McGee, 1996 SPECIES
-=======
+# Densospora solicarpa McGee, 1996 SPECIES
 
 #### Status
 ACCEPTED

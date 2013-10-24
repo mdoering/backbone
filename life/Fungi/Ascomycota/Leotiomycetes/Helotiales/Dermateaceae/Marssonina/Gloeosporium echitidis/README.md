@@ -1,5 +1,4 @@
-Gloeosporium echitidis Henn. SPECIES
-=======
+# Gloeosporium echitidis Henn. SPECIES
 
 #### Status
 ACCEPTED

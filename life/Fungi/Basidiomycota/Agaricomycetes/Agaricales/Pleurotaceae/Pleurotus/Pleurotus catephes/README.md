@@ -1,5 +1,4 @@
-Pleurotus catephes (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus catephes (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

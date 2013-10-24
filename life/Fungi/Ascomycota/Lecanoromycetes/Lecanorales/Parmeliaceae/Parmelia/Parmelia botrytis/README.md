@@ -1,5 +1,4 @@
-Parmelia botrytis Wallr. SPECIES
-=======
+# Parmelia botrytis Wallr. SPECIES
 
 #### Status
 ACCEPTED

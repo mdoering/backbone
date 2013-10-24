@@ -1,5 +1,4 @@
-Parmelia leiopylla Kurok. SPECIES
-=======
+# Parmelia leiopylla Kurok. SPECIES
 
 #### Status
 ACCEPTED

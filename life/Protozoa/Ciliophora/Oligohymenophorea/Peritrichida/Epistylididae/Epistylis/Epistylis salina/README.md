@@ -1,5 +1,4 @@
-Epistylis salina SPECIES
-=======
+# Epistylis salina SPECIES
 
 #### Status
 ACCEPTED

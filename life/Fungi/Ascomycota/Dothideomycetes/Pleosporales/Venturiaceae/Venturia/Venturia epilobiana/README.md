@@ -1,5 +1,4 @@
-Venturia epilobiana (Sacc.) G. Winter SPECIES
-=======
+# Venturia epilobiana (Sacc.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

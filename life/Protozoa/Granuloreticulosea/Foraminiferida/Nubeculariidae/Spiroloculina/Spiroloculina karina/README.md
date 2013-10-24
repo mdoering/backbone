@@ -1,5 +1,4 @@
-Spiroloculina karina SPECIES
-=======
+# Spiroloculina karina SPECIES
 
 #### Status
 ACCEPTED

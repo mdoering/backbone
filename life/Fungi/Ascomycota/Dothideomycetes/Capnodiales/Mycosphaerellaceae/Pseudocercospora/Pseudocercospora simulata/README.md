@@ -1,5 +1,4 @@
-Pseudocercospora simulata (Ellis & Everh.) U. Braun & R.F. Castañeda SPECIES
-=======
+# Pseudocercospora simulata (Ellis & Everh.) U. Braun & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

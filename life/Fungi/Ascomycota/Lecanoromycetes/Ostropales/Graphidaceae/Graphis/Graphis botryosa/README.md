@@ -1,5 +1,4 @@
-Graphis botryosa Tuck. SPECIES
-=======
+# Graphis botryosa Tuck. SPECIES
 
 #### Status
 ACCEPTED

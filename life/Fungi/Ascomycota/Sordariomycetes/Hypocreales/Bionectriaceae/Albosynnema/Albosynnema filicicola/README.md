@@ -1,17 +1,16 @@
-Albosynnema filicola Sherwood SPECIES
-=======
+# Albosynnema filicicola Sherwood, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 1(2): 117 (1974)
 
 #### Original name
-Albosynnema filicola Sherwood
+Albosynnema filicicola Sherwood, 1974
 
 ### Remarks
 null

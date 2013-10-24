@@ -1,5 +1,4 @@
-Corynebacterium septatum SPECIES
-=======
+# Corynebacterium septatum SPECIES
 
 #### Status
 ACCEPTED

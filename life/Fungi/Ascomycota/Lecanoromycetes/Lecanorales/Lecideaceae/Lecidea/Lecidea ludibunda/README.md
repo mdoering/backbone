@@ -1,5 +1,4 @@
-Lecidea ludibunda Müll. Arg. SPECIES
-=======
+# Lecidea ludibunda Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

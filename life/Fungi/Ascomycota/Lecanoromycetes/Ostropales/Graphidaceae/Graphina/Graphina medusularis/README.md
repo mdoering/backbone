@@ -1,5 +1,4 @@
-Graphina medusularis SPECIES
-=======
+# Graphina medusularis SPECIES
 
 #### Status
 ACCEPTED

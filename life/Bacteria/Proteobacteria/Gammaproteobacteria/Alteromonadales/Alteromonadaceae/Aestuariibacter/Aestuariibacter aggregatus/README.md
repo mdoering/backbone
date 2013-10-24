@@ -1,5 +1,4 @@
-Aestuariibacter aggregatus Wang, Wang, Liu, Lai, Shao, Austin & Zhang, 2010 SPECIES
-=======
+# Aestuariibacter aggregatus Wang, Wang, Liu, Lai, Shao, Austin & Zhang, 2010 SPECIES
 
 #### Status
 ACCEPTED

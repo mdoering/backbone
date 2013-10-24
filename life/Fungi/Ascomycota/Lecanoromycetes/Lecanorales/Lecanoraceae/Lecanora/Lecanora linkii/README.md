@@ -1,5 +1,4 @@
-Lecanora linkii Chevall. SPECIES
-=======
+# Lecanora linkii Chevall. SPECIES
 
 #### Status
 ACCEPTED

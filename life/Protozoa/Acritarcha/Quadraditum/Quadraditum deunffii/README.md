@@ -1,5 +1,4 @@
-Quadraditum deunffii Pöthé de Baldis, 1981 SPECIES
-=======
+# Quadraditum deunffii Pöthé de Baldis, 1981 SPECIES
 
 #### Status
 ACCEPTED

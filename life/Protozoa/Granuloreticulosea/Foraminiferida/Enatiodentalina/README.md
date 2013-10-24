@@ -1,5 +1,4 @@
-Enatiodentalina GENUS
-=======
+# Enatiodentalina GENUS
 
 #### Status
 ACCEPTED

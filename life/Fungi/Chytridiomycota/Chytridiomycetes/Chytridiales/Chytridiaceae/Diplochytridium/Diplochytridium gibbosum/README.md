@@ -1,5 +1,4 @@
-Diplochytridium gibbosum (Scherff.) Karling SPECIES
-=======
+# Diplochytridium gibbosum (Scherff.) Karling SPECIES
 
 #### Status
 ACCEPTED

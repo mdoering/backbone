@@ -1,5 +1,4 @@
-Cercospora heraclei N.P. Golovina SPECIES
-=======
+# Cercospora heraclei N.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

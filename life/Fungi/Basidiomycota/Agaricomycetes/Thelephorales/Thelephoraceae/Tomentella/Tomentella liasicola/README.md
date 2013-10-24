@@ -1,5 +1,4 @@
-Tomentella liasicola Bourdot & Galzin SPECIES
-=======
+# Tomentella liasicola Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

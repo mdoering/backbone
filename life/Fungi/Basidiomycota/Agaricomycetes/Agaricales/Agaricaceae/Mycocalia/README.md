@@ -1,5 +1,4 @@
-Mycocalia J.T. Palmer, 1961 GENUS
-=======
+# Mycocalia J.T. Palmer, 1961 GENUS
 
 #### Status
 ACCEPTED

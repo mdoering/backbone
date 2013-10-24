@@ -1,5 +1,4 @@
-Rotorbinella lepida McCulloch, 1977 SPECIES
-=======
+# Rotorbinella lepida McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cohnilembus elongatus SPECIES
-=======
+# Cohnilembus elongatus SPECIES
 
 #### Status
 ACCEPTED

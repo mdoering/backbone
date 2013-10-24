@@ -1,5 +1,4 @@
-Sphaeronaema geranii Ces. SPECIES
-=======
+# Sphaeronaema geranii Ces. SPECIES
 
 #### Status
 ACCEPTED

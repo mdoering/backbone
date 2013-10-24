@@ -1,5 +1,4 @@
-Valsaria subtropica Speg. SPECIES
-=======
+# Valsaria subtropica Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus acidus Kozak. SPECIES
-=======
+# Aspergillus acidus Kozak. SPECIES
 
 #### Status
 ACCEPTED

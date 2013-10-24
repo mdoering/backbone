@@ -1,5 +1,4 @@
-Vizella grandis Speg. SPECIES
-=======
+# Vizella grandis Speg. SPECIES
 
 #### Status
 ACCEPTED

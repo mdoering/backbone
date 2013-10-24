@@ -1,5 +1,4 @@
-Caligella GENUS
-=======
+# Caligella GENUS
 
 #### Status
 ACCEPTED

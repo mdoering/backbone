@@ -1,5 +1,4 @@
-Dasyscyphus columbinus (Kalchbr. & Cooke) Dennis SPECIES
-=======
+# Dasyscyphus columbinus (Kalchbr. & Cooke) Dennis SPECIES
 
 #### Status
 ACCEPTED

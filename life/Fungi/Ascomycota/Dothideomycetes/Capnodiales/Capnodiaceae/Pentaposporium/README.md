@@ -1,5 +1,4 @@
-Pentaposporium GENUS
-=======
+# Pentaposporium GENUS
 
 #### Status
 ACCEPTED

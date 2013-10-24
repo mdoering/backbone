@@ -1,5 +1,4 @@
-Leptosphaeria endophaena E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Leptosphaeria endophaena E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stradnerlithus cotortuosus Medd in Gallois & Medd, 1979 SPECIES
-=======
+# Stradnerlithus cotortuosus Medd in Gallois & Medd, 1979 SPECIES
 
 #### Status
 ACCEPTED

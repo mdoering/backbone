@@ -1,5 +1,4 @@
-Phaeographis manipurensis Müll. Arg. SPECIES
-=======
+# Phaeographis manipurensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

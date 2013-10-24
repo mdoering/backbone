@@ -1,5 +1,4 @@
-Goniosphaeridium sufflatum Welsch, 1986 SPECIES
-=======
+# Goniosphaeridium sufflatum Welsch, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hirsutusporos Batson, 1983 GENUS
-=======
+# Hirsutusporos Batson, 1983 GENUS
 
 #### Status
 ACCEPTED

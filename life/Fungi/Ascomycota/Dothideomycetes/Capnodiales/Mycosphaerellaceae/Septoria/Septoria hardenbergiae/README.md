@@ -1,5 +1,4 @@
-Septoria hardenbergiae Sacc. SPECIES
-=======
+# Septoria hardenbergiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

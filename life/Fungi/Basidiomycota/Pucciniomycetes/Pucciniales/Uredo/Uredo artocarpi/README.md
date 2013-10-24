@@ -1,14 +1,13 @@
-Physopella artocarpi (Berk. & Broome) Petr., 1907 SPECIES
-=======
+# Uredo artocarpi Berk. & Broome, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 14(2): 93 (1875)
 
 #### Original name
 Uredo artocarpi Berk. & Broome, 1875

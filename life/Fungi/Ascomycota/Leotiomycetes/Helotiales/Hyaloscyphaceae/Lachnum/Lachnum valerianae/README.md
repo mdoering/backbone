@@ -1,5 +1,4 @@
-Lachnum valerianae Velen. SPECIES
-=======
+# Lachnum valerianae Velen. SPECIES
 
 #### Status
 ACCEPTED

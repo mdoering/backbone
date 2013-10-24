@@ -1,5 +1,4 @@
-Asteridiella pitya (Sacc.) Hansf. SPECIES
-=======
+# Asteridiella pitya (Sacc.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

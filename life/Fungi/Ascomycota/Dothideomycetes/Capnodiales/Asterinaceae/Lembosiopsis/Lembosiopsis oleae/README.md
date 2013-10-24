@@ -1,5 +1,4 @@
-Lembosiopsis oleae (Tracy & Earle) Theiss. SPECIES
-=======
+# Lembosiopsis oleae (Tracy & Earle) Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Inocybe fastigiata subsp. curreyi (Berk.) Dermek & J. Veselský SUBSPECIES
-=======
+# Inocybe curreyi (Berk.) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 31(4): 191 (1977)
+Syll. fung. (Abellini) 5: 775 (1887)
 
 #### Original name
 Agaricus curreyi Berk., 1860

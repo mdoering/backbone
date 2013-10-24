@@ -1,5 +1,4 @@
-Sclerotium foliaceum Fr. SPECIES
-=======
+# Sclerotium foliaceum Fr. SPECIES
 
 #### Status
 ACCEPTED

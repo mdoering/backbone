@@ -1,5 +1,4 @@
-Puccinia cambucae Puttemans SPECIES
-=======
+# Puccinia cambucae Puttemans SPECIES
 
 #### Status
 ACCEPTED

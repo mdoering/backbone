@@ -1,5 +1,4 @@
-Protomyces najadis S.R. Chowdhury SPECIES
-=======
+# Protomyces najadis S.R. Chowdhury SPECIES
 
 #### Status
 ACCEPTED

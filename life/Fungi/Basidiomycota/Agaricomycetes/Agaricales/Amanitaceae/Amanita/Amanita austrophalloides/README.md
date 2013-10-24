@@ -1,5 +1,4 @@
-Amanita austrophalloides A.E. Wood SPECIES
-=======
+# Amanita austrophalloides A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

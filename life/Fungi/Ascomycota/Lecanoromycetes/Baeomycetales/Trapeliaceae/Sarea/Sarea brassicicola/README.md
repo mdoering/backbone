@@ -1,17 +1,16 @@
-Sarea brassicaecola Schwein. SPECIES
-=======
+# Sarea brassicicola Schwein. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Am. phil. Soc. , New Series 4(2): 178 (1832)
 
 #### Original name
-Sarea brassicaecola Schwein.
+Sarea brassicicola Schwein.
 
 ### Remarks
 null

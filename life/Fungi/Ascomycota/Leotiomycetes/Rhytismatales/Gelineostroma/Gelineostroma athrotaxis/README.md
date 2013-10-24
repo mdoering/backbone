@@ -1,17 +1,16 @@
-Gelineostroma arthrotaxis H.J. Swart SPECIES
-=======
+# Gelineostroma athrotaxis H.J. Swart, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 90(3): 446 (1988)
 
 #### Original name
-Gelineostroma arthrotaxis H.J. Swart
+Gelineostroma athrotaxis H.J. Swart, 1988
 
 ### Remarks
 null

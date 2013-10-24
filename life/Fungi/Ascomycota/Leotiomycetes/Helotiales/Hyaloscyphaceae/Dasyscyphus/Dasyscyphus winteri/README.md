@@ -1,5 +1,4 @@
-Dasyscyphus winteri (Cooke) Svrcek SPECIES
-=======
+# Dasyscyphus winteri (Cooke) Svrcek SPECIES
 
 #### Status
 ACCEPTED

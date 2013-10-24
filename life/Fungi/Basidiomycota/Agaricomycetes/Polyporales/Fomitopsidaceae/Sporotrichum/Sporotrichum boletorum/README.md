@@ -1,5 +1,4 @@
-Sporotrichum boletorum Ehrenb. SPECIES
-=======
+# Sporotrichum boletorum Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

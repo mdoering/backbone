@@ -1,5 +1,4 @@
-Cryptosporella fusca Nag Raj & DiCosmo SPECIES
-=======
+# Cryptosporella fusca Nag Raj & DiCosmo SPECIES
 
 #### Status
 ACCEPTED

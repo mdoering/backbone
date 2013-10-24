@@ -1,5 +1,4 @@
-Camarosporium cercidicola Brunaud SPECIES
-=======
+# Camarosporium cercidicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

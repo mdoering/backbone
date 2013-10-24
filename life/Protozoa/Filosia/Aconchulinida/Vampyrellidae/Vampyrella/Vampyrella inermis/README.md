@@ -1,5 +1,4 @@
-Vampyrella inermis L. Klein SPECIES
-=======
+# Vampyrella inermis L. Klein SPECIES
 
 #### Status
 ACCEPTED

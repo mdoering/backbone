@@ -1,5 +1,4 @@
-Porina elliptica Makhija, Adaw. & Patw. SPECIES
-=======
+# Porina elliptica Makhija, Adaw. & Patw. SPECIES
 
 #### Status
 ACCEPTED

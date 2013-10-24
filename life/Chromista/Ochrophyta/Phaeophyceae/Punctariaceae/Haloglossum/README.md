@@ -1,5 +1,4 @@
-Haloglossum Kützing, 1843 GENUS
-=======
+# Haloglossum Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

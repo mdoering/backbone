@@ -1,5 +1,4 @@
-Meiorganum R. Heim GENUS
-=======
+# Meiorganum R. Heim GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Oidium doidgei Bappamm., Hosag. & Udaiyan SPECIES
-=======
+# Oidium doidgeae Bappamm., Hosag. & Udaiyan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+New Botanist 22: 124 (1995)
 
 #### Original name
-Oidium doidgei Bappamm., Hosag. & Udaiyan
+Oidium doidgeae Bappamm., Hosag. & Udaiyan
 
 ### Remarks
 null

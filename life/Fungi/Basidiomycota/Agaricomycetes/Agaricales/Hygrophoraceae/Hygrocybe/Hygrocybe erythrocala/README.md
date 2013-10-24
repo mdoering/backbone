@@ -1,5 +1,4 @@
-Hygrocybe erythrocala A.M. Young SPECIES
-=======
+# Hygrocybe erythrocala A.M. Young SPECIES
 
 #### Status
 ACCEPTED

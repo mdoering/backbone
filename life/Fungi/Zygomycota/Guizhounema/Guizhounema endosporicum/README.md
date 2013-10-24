@@ -1,5 +1,4 @@
-Guizhounema endosporicum X. Mu SPECIES
-=======
+# Guizhounema endosporicum X. Mu SPECIES
 
 #### Status
 ACCEPTED

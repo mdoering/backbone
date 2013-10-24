@@ -1,5 +1,4 @@
-Lecidea euthallina (Zahlbr.) Hue SPECIES
-=======
+# Lecidea euthallina (Zahlbr.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria maritima A. W. Archer & Elix SPECIES
-=======
+# Pertusaria maritima A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

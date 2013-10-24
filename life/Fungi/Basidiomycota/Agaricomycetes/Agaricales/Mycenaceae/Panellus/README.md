@@ -1,17 +1,16 @@
-Sarcomyxa P. Karst. GENUS
-=======
+# Panellus P. Karsten, 1879 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 18: 62 (1891)
+null
 
 #### Original name
-Sarcomyxa P. Karst.
+null
 
 ### Remarks
 null

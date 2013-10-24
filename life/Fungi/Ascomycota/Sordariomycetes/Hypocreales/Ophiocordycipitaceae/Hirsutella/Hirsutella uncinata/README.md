@@ -1,5 +1,4 @@
-Hirsutella uncinata Seifert & H. Boulay SPECIES
-=======
+# Hirsutella uncinata Seifert & H. Boulay SPECIES
 
 #### Status
 ACCEPTED

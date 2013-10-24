@@ -1,5 +1,4 @@
-Phlegmacium ochraceoalbidum Ricek SPECIES
-=======
+# Phlegmacium ochraceoalbidum Ricek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria cydoniae Schulzer SPECIES
-=======
+# Amphisphaeria cydoniae Schulzer SPECIES
 
 #### Status
 ACCEPTED

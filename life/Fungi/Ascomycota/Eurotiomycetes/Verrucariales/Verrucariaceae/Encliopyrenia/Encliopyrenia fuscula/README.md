@@ -1,5 +1,4 @@
-Encliopyrenia fuscula (Nyl.) Trevis. SPECIES
-=======
+# Encliopyrenia fuscula (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

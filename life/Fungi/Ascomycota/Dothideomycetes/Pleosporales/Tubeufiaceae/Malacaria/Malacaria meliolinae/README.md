@@ -1,17 +1,16 @@
-Annellospermosporella meliolinae P.R. Johnst., 1999 SPECIES
-=======
+# Malacaria meliolinae Hansf., 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 37(2): 290 (1999)
+Proc. Linn. Soc. London 156: 109 (1944)
 
 #### Original name
-Annellospermosporella meliolinae P.R. Johnst., 1999
+Malacaria meliolinae Hansf., 1944
 
 ### Remarks
 null

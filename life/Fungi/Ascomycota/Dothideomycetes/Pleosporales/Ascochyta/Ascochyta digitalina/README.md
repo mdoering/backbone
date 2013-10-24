@@ -1,5 +1,4 @@
-Ascochyta digitalina Vanev & Bakalova SPECIES
-=======
+# Ascochyta digitalina Vanev & Bakalova SPECIES
 
 #### Status
 ACCEPTED

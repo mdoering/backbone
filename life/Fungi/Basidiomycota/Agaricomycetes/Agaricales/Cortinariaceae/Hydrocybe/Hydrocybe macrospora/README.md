@@ -1,5 +1,4 @@
-Hydrocybe macrospora Velen. SPECIES
-=======
+# Hydrocybe macrospora Velen. SPECIES
 
 #### Status
 ACCEPTED

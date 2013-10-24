@@ -1,5 +1,4 @@
-Lecidea injuncta Nyl. SPECIES
-=======
+# Lecidea injuncta Nyl. SPECIES
 
 #### Status
 ACCEPTED

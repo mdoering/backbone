@@ -1,5 +1,4 @@
-Lecania olivacella (Nyl.) Zahlbr. SPECIES
-=======
+# Lecania olivacella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

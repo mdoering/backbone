@@ -1,5 +1,4 @@
-Pterygellus Corner GENUS
-=======
+# Pterygellus Corner GENUS
 
 #### Status
 ACCEPTED

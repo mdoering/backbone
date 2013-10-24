@@ -1,5 +1,4 @@
-Ramularia cerasorum Ellis & Marchal SPECIES
-=======
+# Ramularia cerasorum Ellis & Marchal SPECIES
 
 #### Status
 ACCEPTED

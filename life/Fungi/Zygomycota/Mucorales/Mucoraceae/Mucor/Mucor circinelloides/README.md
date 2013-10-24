@@ -1,17 +1,16 @@
-Mucor circinelloides subsp. circinelloides SUBSPECIES
-=======
+# Mucor circinelloides Tiegh. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 6 1: 94 (1875)
 
 #### Original name
-null
+Mucor circinelloides Tiegh.
 
 ### Remarks
 null

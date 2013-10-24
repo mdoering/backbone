@@ -1,5 +1,4 @@
-Sphaeria ulmaticolor Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria ulmaticolor Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

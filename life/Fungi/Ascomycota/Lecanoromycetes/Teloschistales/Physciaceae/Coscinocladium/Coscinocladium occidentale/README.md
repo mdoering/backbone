@@ -1,5 +1,4 @@
-Coscinocladium occidentale Kunze SPECIES
-=======
+# Coscinocladium occidentale Kunze SPECIES
 
 #### Status
 ACCEPTED

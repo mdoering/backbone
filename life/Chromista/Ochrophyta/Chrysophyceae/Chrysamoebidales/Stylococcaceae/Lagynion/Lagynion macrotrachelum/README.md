@@ -1,5 +1,4 @@
-Lagynion macrotrachelum Pascher SPECIES
-=======
+# Lagynion macrotrachelum Pascher SPECIES
 
 #### Status
 ACCEPTED

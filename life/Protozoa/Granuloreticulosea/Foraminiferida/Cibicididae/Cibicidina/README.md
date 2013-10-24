@@ -1,5 +1,4 @@
-Cibicidina Bandy, 1949 GENUS
-=======
+# Cibicidina Bandy, 1949 GENUS
 
 #### Status
 ACCEPTED

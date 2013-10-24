@@ -1,5 +1,4 @@
-Dicaeoma melanocephalum (Syd. & P. Syd.) Arthur & Fromme SPECIES
-=======
+# Dicaeoma melanocephalum (Syd. & P. Syd.) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

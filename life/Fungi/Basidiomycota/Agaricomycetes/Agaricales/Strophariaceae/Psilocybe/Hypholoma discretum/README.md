@@ -1,5 +1,4 @@
-Hypholoma discretum (Cooke & Massee) McAlpine SPECIES
-=======
+# Hypholoma discretum (Cooke & Massee) McAlpine SPECIES
 
 #### Status
 ACCEPTED

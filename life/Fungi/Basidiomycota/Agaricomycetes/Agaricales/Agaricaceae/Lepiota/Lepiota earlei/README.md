@@ -1,5 +1,4 @@
-Lepiota earlei Peck SPECIES
-=======
+# Lepiota earlei Peck SPECIES
 
 #### Status
 ACCEPTED

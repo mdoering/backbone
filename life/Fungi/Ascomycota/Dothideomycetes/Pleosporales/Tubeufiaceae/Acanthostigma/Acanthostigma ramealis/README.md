@@ -1,5 +1,4 @@
-Acanthostigma ramealis Feltgen SPECIES
-=======
+# Acanthostigma ramealis Feltgen SPECIES
 
 #### Status
 ACCEPTED

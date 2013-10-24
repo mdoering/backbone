@@ -1,5 +1,4 @@
-Naucoria silacea Herp. SPECIES
-=======
+# Naucoria silacea Herp. SPECIES
 
 #### Status
 ACCEPTED

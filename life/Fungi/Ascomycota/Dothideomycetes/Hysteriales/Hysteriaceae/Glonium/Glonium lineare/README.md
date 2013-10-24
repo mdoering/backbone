@@ -1,17 +1,16 @@
-Glonium lineare f. lineare FORM
-=======
+# Glonium lineare (Fr.) De Not., 1846 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 G. bot. ital. 2: 594 (1846)
 
 #### Original name
-Glonium lineare f. lineare
+Hysterium lineare Fr., 1823
 
 ### Remarks
 null

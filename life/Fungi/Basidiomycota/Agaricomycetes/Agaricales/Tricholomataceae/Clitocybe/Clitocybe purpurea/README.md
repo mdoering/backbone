@@ -1,5 +1,4 @@
-Clitocybe purpurea Beeli SPECIES
-=======
+# Clitocybe purpurea Beeli SPECIES
 
 #### Status
 ACCEPTED

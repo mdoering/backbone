@@ -1,5 +1,4 @@
-Phoma ornithogali Thüm. SPECIES
-=======
+# Phoma ornithogali Thüm. SPECIES
 
 #### Status
 ACCEPTED

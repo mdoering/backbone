@@ -1,5 +1,4 @@
-Patriciannia Haman, 1988 GENUS
-=======
+# Patriciannia Haman, 1988 GENUS
 
 #### Status
 ACCEPTED

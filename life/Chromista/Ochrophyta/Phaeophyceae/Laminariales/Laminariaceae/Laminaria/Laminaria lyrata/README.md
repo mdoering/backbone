@@ -1,5 +1,4 @@
-Laminaria lyrata Delise ex Despréaux SPECIES
-=======
+# Laminaria lyrata Delise ex Despréaux SPECIES
 
 #### Status
 ACCEPTED

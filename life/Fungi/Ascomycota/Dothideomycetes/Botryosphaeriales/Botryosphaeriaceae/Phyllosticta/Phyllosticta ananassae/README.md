@@ -1,5 +1,4 @@
-Phyllosticta ananassae Sawada SPECIES
-=======
+# Phyllosticta ananassae Sawada SPECIES
 
 #### Status
 ACCEPTED

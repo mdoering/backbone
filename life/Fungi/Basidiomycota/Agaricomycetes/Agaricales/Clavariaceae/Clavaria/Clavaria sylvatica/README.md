@@ -1,5 +1,4 @@
-Clavaria sylvatica Pers. SPECIES
-=======
+# Clavaria sylvatica Pers. SPECIES
 
 #### Status
 ACCEPTED

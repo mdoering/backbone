@@ -1,5 +1,4 @@
-Thermodesulfovibrio Henry et al., 1994 GENUS
-=======
+# Thermodesulfovibrio Henry et al., 1994 GENUS
 
 #### Status
 ACCEPTED

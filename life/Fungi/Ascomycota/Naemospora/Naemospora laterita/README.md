@@ -1,5 +1,4 @@
-Naemospora laterita Fresen. SPECIES
-=======
+# Naemospora laterita Fresen. SPECIES
 
 #### Status
 ACCEPTED

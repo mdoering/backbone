@@ -1,5 +1,4 @@
-Caloplaca juniperi Poelt & Hinter. SPECIES
-=======
+# Caloplaca juniperi Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

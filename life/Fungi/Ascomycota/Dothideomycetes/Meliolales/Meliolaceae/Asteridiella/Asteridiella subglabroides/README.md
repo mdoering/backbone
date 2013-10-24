@@ -1,5 +1,4 @@
-Asteridiella subglabroides Hansf. SPECIES
-=======
+# Asteridiella subglabroides Hansf. SPECIES
 
 #### Status
 ACCEPTED

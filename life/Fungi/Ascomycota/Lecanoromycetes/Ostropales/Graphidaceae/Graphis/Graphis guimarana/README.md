@@ -1,5 +1,4 @@
-Graphis guimarana Vain. SPECIES
-=======
+# Graphis guimarana Vain. SPECIES
 
 #### Status
 ACCEPTED

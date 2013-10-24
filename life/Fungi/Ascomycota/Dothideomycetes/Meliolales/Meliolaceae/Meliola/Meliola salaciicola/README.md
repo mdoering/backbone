@@ -1,5 +1,4 @@
-Meliola salaciicola Hosag., D.K. Agarwal, H. Biju & Archana SPECIES
-=======
+# Meliola salaciicola Hosag., D.K. Agarwal, H. Biju & Archana SPECIES
 
 #### Status
 ACCEPTED

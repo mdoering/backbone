@@ -1,5 +1,4 @@
-Pleistophora typicalis Gurley SPECIES
-=======
+# Pleistophora typicalis Gurley SPECIES
 
 #### Status
 ACCEPTED

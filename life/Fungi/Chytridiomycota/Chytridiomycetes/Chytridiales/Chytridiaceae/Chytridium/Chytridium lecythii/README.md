@@ -1,5 +1,4 @@
-Chytridium lecythii (Ingold) Goldie-Sm. SPECIES
-=======
+# Chytridium lecythii (Ingold) Goldie-Sm. SPECIES
 
 #### Status
 ACCEPTED

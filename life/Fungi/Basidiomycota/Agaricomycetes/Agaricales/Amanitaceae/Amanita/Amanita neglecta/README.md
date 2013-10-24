@@ -1,5 +1,4 @@
-Amanita neglecta Boedijn SPECIES
-=======
+# Amanita neglecta Boedijn SPECIES
 
 #### Status
 ACCEPTED

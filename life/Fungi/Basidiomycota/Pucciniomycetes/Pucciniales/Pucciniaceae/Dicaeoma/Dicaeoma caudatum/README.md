@@ -1,5 +1,4 @@
-Dicaeoma caudatum (Barclay) Kuntze SPECIES
-=======
+# Dicaeoma caudatum (Barclay) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parapeltella macropelta (Penz. & Sacc.) Bat. SPECIES
-=======
+# Parapeltella macropelta (Penz. & Sacc.) Bat. SPECIES
 
 #### Status
 ACCEPTED

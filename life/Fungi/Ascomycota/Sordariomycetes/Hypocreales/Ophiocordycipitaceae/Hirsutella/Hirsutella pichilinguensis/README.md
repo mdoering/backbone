@@ -1,5 +1,4 @@
-Hirsutella pichilinguensis H.C. Evans & Samson SPECIES
-=======
+# Hirsutella pichilinguensis H.C. Evans & Samson SPECIES
 
 #### Status
 ACCEPTED

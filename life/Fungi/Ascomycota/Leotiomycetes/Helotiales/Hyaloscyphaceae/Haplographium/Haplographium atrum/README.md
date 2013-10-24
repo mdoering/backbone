@@ -1,5 +1,4 @@
-Haplographium atrum Beeli SPECIES
-=======
+# Haplographium atrum Beeli SPECIES
 
 #### Status
 ACCEPTED

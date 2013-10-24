@@ -1,5 +1,4 @@
-Pyrenophora dichondrae Y. Huang & F. Fang, 2008 SPECIES
-=======
+# Pyrenophora dichondrae Y. Huang & F. Fang, 2008 SPECIES
 
 #### Status
 ACCEPTED

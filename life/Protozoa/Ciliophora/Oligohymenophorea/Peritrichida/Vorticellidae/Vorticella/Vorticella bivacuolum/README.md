@@ -1,5 +1,4 @@
-Vorticella bivacuolum SPECIES
-=======
+# Vorticella bivacuolum SPECIES
 
 #### Status
 ACCEPTED

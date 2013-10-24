@@ -1,5 +1,4 @@
-Capnophaeum fuliginoides (Rehm) W. Yamam. SPECIES
-=======
+# Capnophaeum fuliginoides (Rehm) W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

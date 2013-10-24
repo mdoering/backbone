@@ -1,5 +1,4 @@
-Hendersonula crataegi (Allesch.) Höhn. SPECIES
-=======
+# Hendersonula crataegi (Allesch.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

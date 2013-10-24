@@ -1,5 +1,4 @@
-Irenopsis hiptages W. Yamam. SPECIES
-=======
+# Irenopsis hiptages W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta lunariae Vanev & Bakalova SPECIES
-=======
+# Phyllosticta lunariae Vanev & Bakalova SPECIES
 
 #### Status
 ACCEPTED

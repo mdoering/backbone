@@ -1,5 +1,4 @@
-Diplodia aloysiae Tassi SPECIES
-=======
+# Diplodia aloysiae Tassi SPECIES
 
 #### Status
 ACCEPTED

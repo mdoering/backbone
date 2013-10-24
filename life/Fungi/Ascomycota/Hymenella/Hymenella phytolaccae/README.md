@@ -1,5 +1,4 @@
-Hymenella phytolaccae Berk. SPECIES
-=======
+# Hymenella phytolaccae Berk. SPECIES
 
 #### Status
 ACCEPTED

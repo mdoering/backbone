@@ -1,5 +1,4 @@
-Peronospora daturae Hulea SPECIES
-=======
+# Peronospora daturae Hulea SPECIES
 
 #### Status
 ACCEPTED

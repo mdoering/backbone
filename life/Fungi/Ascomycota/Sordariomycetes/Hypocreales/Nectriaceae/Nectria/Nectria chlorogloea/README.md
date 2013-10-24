@@ -1,5 +1,4 @@
-Nectria chlorogloea Samuels SPECIES
-=======
+# Nectria chlorogloea Samuels SPECIES
 
 #### Status
 ACCEPTED

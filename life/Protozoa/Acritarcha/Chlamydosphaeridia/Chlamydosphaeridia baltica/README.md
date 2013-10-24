@@ -1,5 +1,4 @@
-Chlamydosphaeridia baltica Eisenack, 1971 SPECIES
-=======
+# Chlamydosphaeridia baltica Eisenack, 1971 SPECIES
 
 #### Status
 ACCEPTED

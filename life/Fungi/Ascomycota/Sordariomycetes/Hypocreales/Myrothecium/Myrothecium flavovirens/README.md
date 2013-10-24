@@ -1,5 +1,4 @@
-Myrothecium flavovirens B. Sutton SPECIES
-=======
+# Myrothecium flavovirens B. Sutton SPECIES
 
 #### Status
 ACCEPTED

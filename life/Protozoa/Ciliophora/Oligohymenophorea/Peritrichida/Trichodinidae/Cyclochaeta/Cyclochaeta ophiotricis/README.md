@@ -1,5 +1,4 @@
-Cyclochaeta ophiotricis Fabre-Domergue, 1888 SPECIES
-=======
+# Cyclochaeta ophiotricis Fabre-Domergue, 1888 SPECIES
 
 #### Status
 ACCEPTED

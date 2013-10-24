@@ -1,5 +1,4 @@
-Dyadosporites verrucatus (Ramanujam & Srisailam) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites verrucatus (Ramanujam & Srisailam) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

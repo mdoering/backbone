@@ -1,5 +1,4 @@
-Ascochyta conorum Henn. SPECIES
-=======
+# Ascochyta conorum Henn. SPECIES
 
 #### Status
 ACCEPTED

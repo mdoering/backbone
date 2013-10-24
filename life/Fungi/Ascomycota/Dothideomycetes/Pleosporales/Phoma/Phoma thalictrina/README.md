@@ -1,5 +1,4 @@
-Phoma thalictrina Sacc. & Malbr. SPECIES
-=======
+# Phoma thalictrina Sacc. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

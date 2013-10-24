@@ -1,5 +1,4 @@
-Pleurostomella alterans SPECIES
-=======
+# Pleurostomella alterans SPECIES
 
 #### Status
 ACCEPTED

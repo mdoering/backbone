@@ -1,5 +1,4 @@
-Physcia triseptata Vain. SPECIES
-=======
+# Physcia triseptata Vain. SPECIES
 
 #### Status
 ACCEPTED

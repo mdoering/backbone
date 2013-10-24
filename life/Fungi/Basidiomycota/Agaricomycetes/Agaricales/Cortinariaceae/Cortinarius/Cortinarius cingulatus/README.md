@@ -1,5 +1,4 @@
-Cortinarius cingulatus (Velen.) Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius cingulatus (Velen.) Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

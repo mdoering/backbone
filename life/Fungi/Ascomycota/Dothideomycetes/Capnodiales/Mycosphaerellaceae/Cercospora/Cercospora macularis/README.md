@@ -1,5 +1,4 @@
-Cercospora macularis J. Schröt. SPECIES
-=======
+# Cercospora macularis J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

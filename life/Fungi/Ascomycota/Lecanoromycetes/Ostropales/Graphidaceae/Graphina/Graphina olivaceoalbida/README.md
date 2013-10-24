@@ -1,5 +1,4 @@
-Graphina olivaceoalbida Fink SPECIES
-=======
+# Graphina olivaceoalbida Fink SPECIES
 
 #### Status
 ACCEPTED

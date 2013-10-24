@@ -1,5 +1,4 @@
-Lecanora aphanotripta Nyl. SPECIES
-=======
+# Lecanora aphanotripta Nyl. SPECIES
 
 #### Status
 ACCEPTED

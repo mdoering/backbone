@@ -1,5 +1,4 @@
-Dictyocha anguinea P. F. Ciesielski & C. A. Shaw SPECIES
-=======
+# Dictyocha anguinea P. F. Ciesielski & C. A. Shaw SPECIES
 
 #### Status
 ACCEPTED

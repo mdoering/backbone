@@ -1,5 +1,4 @@
-Lecidea theodori Lynge SPECIES
-=======
+# Lecidea theodori Lynge SPECIES
 
 #### Status
 ACCEPTED

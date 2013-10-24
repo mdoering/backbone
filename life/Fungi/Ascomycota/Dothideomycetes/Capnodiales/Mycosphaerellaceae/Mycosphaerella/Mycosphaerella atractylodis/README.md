@@ -1,5 +1,4 @@
-Mycosphaerella atractylodis Koval SPECIES
-=======
+# Mycosphaerella atractylodis Koval SPECIES
 
 #### Status
 ACCEPTED

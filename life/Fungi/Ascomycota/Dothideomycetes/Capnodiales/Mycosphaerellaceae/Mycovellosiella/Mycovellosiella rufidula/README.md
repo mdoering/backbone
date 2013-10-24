@@ -1,5 +1,4 @@
-Mycovellosiella rufidula (Petr.) Deighton SPECIES
-=======
+# Mycovellosiella rufidula (Petr.) Deighton SPECIES
 
 #### Status
 ACCEPTED

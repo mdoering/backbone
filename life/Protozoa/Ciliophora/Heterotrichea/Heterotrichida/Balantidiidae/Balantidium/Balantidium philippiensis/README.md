@@ -1,5 +1,4 @@
-Balantidium philippiensis Hegner, 1934 SPECIES
-=======
+# Balantidium philippiensis Hegner, 1934 SPECIES
 
 #### Status
 ACCEPTED

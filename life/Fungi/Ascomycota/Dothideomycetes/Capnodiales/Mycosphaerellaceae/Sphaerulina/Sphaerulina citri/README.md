@@ -1,5 +1,4 @@
-Sphaerulina citri Hara SPECIES
-=======
+# Sphaerulina citri Hara SPECIES
 
 #### Status
 ACCEPTED

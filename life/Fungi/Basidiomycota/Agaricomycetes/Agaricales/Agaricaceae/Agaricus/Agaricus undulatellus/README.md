@@ -1,5 +1,4 @@
-Agaricus undulatellus Peck SPECIES
-=======
+# Agaricus undulatellus Peck SPECIES
 
 #### Status
 ACCEPTED

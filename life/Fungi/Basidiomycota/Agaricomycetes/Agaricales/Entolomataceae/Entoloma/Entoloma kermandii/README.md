@@ -1,5 +1,4 @@
-Entoloma kermandii G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma kermandii G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

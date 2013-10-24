@@ -1,5 +1,4 @@
-Lecanora placomorpha SPECIES
-=======
+# Lecanora placomorpha SPECIES
 
 #### Status
 ACCEPTED

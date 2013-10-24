@@ -1,5 +1,4 @@
-Ditopella asclepiadea Bonar SPECIES
-=======
+# Ditopella asclepiadea Bonar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium celastri Thüm. SPECIES
-=======
+# Sporidesmium celastri Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Zygorhynchus indicus (Lendn.) Arx, 1982 SPECIES
-=======
+# Mucor indicus Lendn., 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 35: 16 (1982)
+Bull. Soc. bot. Genève, 2 sér. 21: 258 (1930)
 
 #### Original name
 Mucor indicus Lendn., 1930

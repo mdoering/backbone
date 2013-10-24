@@ -1,5 +1,4 @@
-Thomasinellidae FAMILY
-=======
+# Thomasinellidae FAMILY
 
 #### Status
 ACCEPTED

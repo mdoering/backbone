@@ -1,5 +1,4 @@
-Rhabdospora imperialis f. imperialis FORM
-=======
+# Rhabdospora imperialis (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhabdospora imperialis f. imperialis
+Septoria imperialis Sacc.
 
 ### Remarks
 null

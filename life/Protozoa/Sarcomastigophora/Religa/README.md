@@ -1,5 +1,4 @@
-Religa Whalen & Carter, 2002 GENUS
-=======
+# Religa Whalen & Carter, 2002 GENUS
 
 #### Status
 ACCEPTED

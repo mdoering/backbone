@@ -1,5 +1,4 @@
-Nostocopsis L.M. Yin & Z.P. Li, 1978 GENUS
-=======
+# Nostocopsis L.M. Yin & Z.P. Li, 1978 GENUS
 
 #### Status
 ACCEPTED

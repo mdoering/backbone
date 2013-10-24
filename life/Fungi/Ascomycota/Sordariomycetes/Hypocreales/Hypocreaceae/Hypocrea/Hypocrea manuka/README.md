@@ -1,5 +1,4 @@
-Hypocrea manuka Dingley, 1952 SPECIES
-=======
+# Hypocrea manuka Dingley, 1952 SPECIES
 
 #### Status
 ACCEPTED

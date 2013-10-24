@@ -1,8 +1,7 @@
-Phyllosticta capparidicola Speg. SPECIES
-=======
+# Phyllosticta capparicola Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta capparidicola Speg.
+Phyllosticta capparicola Speg.
 
 ### Remarks
 null

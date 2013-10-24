@@ -1,5 +1,4 @@
-Marasmiellus paralacteus (S. Imai) S. Ito SPECIES
-=======
+# Marasmiellus paralacteus (S. Imai) S. Ito SPECIES
 
 #### Status
 ACCEPTED

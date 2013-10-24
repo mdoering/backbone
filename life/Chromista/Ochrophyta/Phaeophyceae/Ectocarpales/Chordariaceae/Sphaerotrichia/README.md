@@ -1,5 +1,4 @@
-Sphaerotrichia Kylin, 1940 GENUS
-=======
+# Sphaerotrichia Kylin, 1940 GENUS
 
 #### Status
 ACCEPTED

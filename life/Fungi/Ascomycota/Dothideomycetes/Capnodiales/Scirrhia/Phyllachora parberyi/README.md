@@ -1,5 +1,4 @@
-Phyllachora parberyi Kamat & A. Pande, 1974 SPECIES
-=======
+# Phyllachora parberyi Kamat & A. Pande, 1974 SPECIES
 
 #### Status
 DOUBTFUL

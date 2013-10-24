@@ -1,5 +1,4 @@
-Taphrina fusca Giesenh. SPECIES
-=======
+# Taphrina fusca Giesenh. SPECIES
 
 #### Status
 ACCEPTED

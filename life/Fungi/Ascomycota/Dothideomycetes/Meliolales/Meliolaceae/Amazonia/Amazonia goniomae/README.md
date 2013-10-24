@@ -1,5 +1,4 @@
-Amazonia goniomae Doidge SPECIES
-=======
+# Amazonia goniomae Doidge SPECIES
 
 #### Status
 ACCEPTED

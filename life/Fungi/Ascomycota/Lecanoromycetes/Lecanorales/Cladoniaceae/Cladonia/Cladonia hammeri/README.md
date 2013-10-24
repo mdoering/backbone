@@ -1,5 +1,4 @@
-Cladonia hammeri Ahti SPECIES
-=======
+# Cladonia hammeri Ahti SPECIES
 
 #### Status
 ACCEPTED

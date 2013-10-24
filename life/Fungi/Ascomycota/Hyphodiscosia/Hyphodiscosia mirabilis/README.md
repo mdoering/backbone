@@ -1,5 +1,4 @@
-Hyphodiscosia mirabilis Melnik & B. Sutton SPECIES
-=======
+# Hyphodiscosia mirabilis Melnik & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia ustipes Berk. SPECIES
-=======
+# Collybia ustipes Berk. SPECIES
 
 #### Status
 ACCEPTED

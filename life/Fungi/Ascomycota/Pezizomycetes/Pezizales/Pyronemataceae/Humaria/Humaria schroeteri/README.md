@@ -1,5 +1,4 @@
-Humaria schroeteri (Cooke) Sacc. SPECIES
-=======
+# Humaria schroeteri (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

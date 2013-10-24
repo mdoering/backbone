@@ -1,5 +1,4 @@
-Acarospora fremyi Werner SPECIES
-=======
+# Acarospora fremyi Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora renauldiana (Flagey) Stizenb. SPECIES
-=======
+# Lecanora renauldiana (Flagey) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbelopsis fusiformis H.Y. Yip, 1986 SPECIES
-=======
+# Umbelopsis fusiformis H.Y. Yip, 1986 SPECIES
 
 #### Status
 ACCEPTED

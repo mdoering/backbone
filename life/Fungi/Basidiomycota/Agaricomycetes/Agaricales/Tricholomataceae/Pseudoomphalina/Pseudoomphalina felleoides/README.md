@@ -1,8 +1,7 @@
-Pseudoomphalina felloides (Speg.) Singer SPECIES
-=======
+# Pseudoomphalina felleoides (Speg.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

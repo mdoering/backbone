@@ -1,5 +1,4 @@
-Macrophoma laurocerasi Unamuno SPECIES
-=======
+# Macrophoma laurocerasi Unamuno SPECIES
 
 #### Status
 ACCEPTED

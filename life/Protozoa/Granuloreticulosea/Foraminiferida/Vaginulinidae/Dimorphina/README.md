@@ -1,5 +1,4 @@
-Dimorphina d'Orbigny, 1826 GENUS
-=======
+# Dimorphina d'Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

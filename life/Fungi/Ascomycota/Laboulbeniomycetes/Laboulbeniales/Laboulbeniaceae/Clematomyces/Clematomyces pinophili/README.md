@@ -1,5 +1,4 @@
-Clematomyces pinophili Thaxt., 1900 SPECIES
-=======
+# Clematomyces pinophili Thaxt., 1900 SPECIES
 
 #### Status
 ACCEPTED

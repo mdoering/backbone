@@ -1,5 +1,4 @@
-Cercophora sparganiicola (Plowr.) N. Lundq. SPECIES
-=======
+# Cercophora sparganiicola (Plowr.) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

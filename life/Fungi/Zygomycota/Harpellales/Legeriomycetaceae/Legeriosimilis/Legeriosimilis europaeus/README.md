@@ -1,5 +1,4 @@
-Legeriosimilis europaeus M.M. White & Lichtw., 2004 SPECIES
-=======
+# Legeriosimilis europaeus M.M. White & Lichtw., 2004 SPECIES
 
 #### Status
 ACCEPTED

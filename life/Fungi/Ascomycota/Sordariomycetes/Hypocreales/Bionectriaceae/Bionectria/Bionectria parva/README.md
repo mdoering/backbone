@@ -1,5 +1,4 @@
-Bionectria parva Schroers SPECIES
-=======
+# Bionectria parva Schroers SPECIES
 
 #### Status
 ACCEPTED

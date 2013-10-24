@@ -1,5 +1,4 @@
-Physalospora phomopsis (Cooke & Ellis) Sacc. SPECIES
-=======
+# Physalospora phomopsis (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

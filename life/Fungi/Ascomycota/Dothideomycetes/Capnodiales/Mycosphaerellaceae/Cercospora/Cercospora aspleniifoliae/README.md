@@ -1,17 +1,16 @@
-Cercospora asplenifoliae Narain & B.S. Mehrotra SPECIES
-=======
+# Cercospora aspleniifoliae Narain & B.S. Mehrotra SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 24(1-6): 328 (1971)
 
 #### Original name
-Cercospora asplenifoliae Narain & B.S. Mehrotra
+Cercospora aspleniifoliae Narain & B.S. Mehrotra
 
 ### Remarks
 null

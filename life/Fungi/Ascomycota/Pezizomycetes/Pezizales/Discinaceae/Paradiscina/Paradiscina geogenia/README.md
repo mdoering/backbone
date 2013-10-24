@@ -1,5 +1,4 @@
-Paradiscina geogenia (Rahm) Benedix SPECIES
-=======
+# Paradiscina geogenia (Rahm) Benedix SPECIES
 
 #### Status
 ACCEPTED

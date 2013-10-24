@@ -1,5 +1,4 @@
-Physcia pusilloides Zahlbr. SPECIES
-=======
+# Physcia pusilloides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

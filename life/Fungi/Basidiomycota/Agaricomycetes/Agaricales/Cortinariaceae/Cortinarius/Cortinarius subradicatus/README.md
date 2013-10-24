@@ -1,5 +1,4 @@
-Cortinarius subradicatus Herp. SPECIES
-=======
+# Cortinarius subradicatus Herp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calonectria tessellata Petch, 1938 SPECIES
-=======
+# Calonectria tessellata Petch, 1938 SPECIES
 
 #### Status
 ACCEPTED

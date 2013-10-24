@@ -1,5 +1,4 @@
-Hebeloma velatum Velen. SPECIES
-=======
+# Hebeloma velatum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia grisea var. strictipes (Peck) Largent VARIETY
-=======
+# Leptonia grisea Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Biblthca Mycol. 55: 262 (1977)
+Ann. Rep. N. Y. St. Mus. 45: 19 (1893)
 
 #### Original name
-Leptonia stricticeps Peck
+Leptonia grisea Peck
 
 ### Remarks
 null

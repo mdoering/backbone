@@ -1,5 +1,4 @@
-Leptosphaeria lucina Sacc., 1875 SPECIES
-=======
+# Leptosphaeria lucina Sacc., 1875 SPECIES
 
 #### Status
 ACCEPTED

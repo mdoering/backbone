@@ -1,5 +1,4 @@
-Dasyscyphus rubroguttatus Svrcek SPECIES
-=======
+# Dasyscyphus rubroguttatus Svrcek SPECIES
 
 #### Status
 ACCEPTED

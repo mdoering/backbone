@@ -1,5 +1,4 @@
-Termitomyces perforans R. Heim SPECIES
-=======
+# Termitomyces perforans R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa cephalotaxi Sawada SPECIES
-=======
+# Valsa cephalotaxi Sawada SPECIES
 
 #### Status
 ACCEPTED

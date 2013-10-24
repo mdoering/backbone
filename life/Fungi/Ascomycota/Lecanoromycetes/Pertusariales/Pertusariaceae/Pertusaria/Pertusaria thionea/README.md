@@ -1,5 +1,4 @@
-Pertusaria thionea SPECIES
-=======
+# Pertusaria thionea SPECIES
 
 #### Status
 ACCEPTED

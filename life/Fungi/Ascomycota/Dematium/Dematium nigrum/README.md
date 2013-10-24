@@ -1,14 +1,13 @@
-Racodium nigrum (Link) Schumach. SPECIES
-=======
+# Dematium nigrum Link, 1809 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): 21 (1809)
 
 #### Original name
 Dematium nigrum Link, 1809

@@ -1,14 +1,13 @@
-Empusa aulicae E. Reichardt, 1869 SPECIES
-=======
+# Entomophaga aulicae (E. Reichardt) Humber, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bail, Schrift. Naturf. Gesellsch. Danzig, N. S. 2(2): 3 (1869)
+Mycotaxon 21: 270 (1984)
 
 #### Original name
 Empusa aulicae E. Reichardt, 1869

@@ -1,5 +1,4 @@
-Aspergillus carnoyi Biourge ex Thom & Raper, 1941 SPECIES
-=======
+# Aspergillus carnoyi Biourge ex Thom & Raper, 1941 SPECIES
 
 #### Status
 ACCEPTED

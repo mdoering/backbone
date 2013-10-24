@@ -1,5 +1,4 @@
-Thermonema lapsum Hudson et al., 1989 SPECIES
-=======
+# Thermonema lapsum Hudson et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

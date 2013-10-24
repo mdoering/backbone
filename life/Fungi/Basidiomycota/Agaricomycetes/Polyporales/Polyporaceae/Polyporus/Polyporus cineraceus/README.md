@@ -1,5 +1,4 @@
-Polyporus cineraceus Lév. SPECIES
-=======
+# Polyporus cineraceus Lév. SPECIES
 
 #### Status
 ACCEPTED

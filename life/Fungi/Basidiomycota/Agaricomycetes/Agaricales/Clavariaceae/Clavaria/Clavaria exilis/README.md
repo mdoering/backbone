@@ -1,5 +1,4 @@
-Clavaria exilis Pers. SPECIES
-=======
+# Clavaria exilis Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes beyrichii (Fr.) Sacc. SPECIES
-=======
+# Trametes beyrichii (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

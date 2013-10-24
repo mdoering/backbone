@@ -1,5 +1,4 @@
-Boletus macroporus Rostk. SPECIES
-=======
+# Boletus macroporus Rostk. SPECIES
 
 #### Status
 ACCEPTED

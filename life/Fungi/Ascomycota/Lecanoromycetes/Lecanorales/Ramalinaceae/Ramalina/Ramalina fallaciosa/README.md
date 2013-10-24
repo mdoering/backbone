@@ -1,5 +1,4 @@
-Ramalina fallaciosa M. Choisy ex Werner SPECIES
-=======
+# Ramalina fallaciosa M. Choisy ex Werner SPECIES
 
 #### Status
 ACCEPTED

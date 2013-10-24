@@ -1,5 +1,4 @@
-Caeoma cornutum (Pers. ex J.F. Gmel.) Schltdl. SPECIES
-=======
+# Caeoma cornutum (Pers. ex J.F. Gmel.) Schltdl. SPECIES
 
 #### Status
 ACCEPTED

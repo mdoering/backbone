@@ -1,5 +1,4 @@
-Paraoxychona Yankovskii, 1973 GENUS
-=======
+# Paraoxychona Yankovskii, 1973 GENUS
 
 #### Status
 ACCEPTED

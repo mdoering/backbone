@@ -1,5 +1,4 @@
-Florentinia R.J. Davey & J.P. Verdier, 1973 GENUS
-=======
+# Florentinia R.J. Davey & J.P. Verdier, 1973 GENUS
 
 #### Status
 ACCEPTED

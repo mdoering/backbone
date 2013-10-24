@@ -1,5 +1,4 @@
-Cladonia consimilis Vain. SPECIES
-=======
+# Cladonia consimilis Vain. SPECIES
 
 #### Status
 ACCEPTED

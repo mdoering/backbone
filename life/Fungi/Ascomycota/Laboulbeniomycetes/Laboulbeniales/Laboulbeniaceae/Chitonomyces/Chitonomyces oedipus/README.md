@@ -1,5 +1,4 @@
-Chitonomyces oedipus Thaxt. SPECIES
-=======
+# Chitonomyces oedipus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcoxylon inflatum Pat. SPECIES
-=======
+# Sarcoxylon inflatum Pat. SPECIES
 
 #### Status
 ACCEPTED

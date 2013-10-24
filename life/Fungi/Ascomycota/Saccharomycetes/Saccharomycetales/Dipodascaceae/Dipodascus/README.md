@@ -1,17 +1,16 @@
-Endyllium Clem. GENUS
-=======
+# Dipodascus Lagerh. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Clements & Shear, Gen. fung. (Minneapolis), Edn 2 46, 245 (1931)
+Jb. wiss. Bot. 24: 549 (1892)
 
 #### Original name
-Endyllium Clem.
+Dipodascus Lagerh.
 
 ### Remarks
 null

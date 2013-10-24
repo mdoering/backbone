@@ -1,5 +1,4 @@
-Phialea eschscholtziae (W. Phillips & Harkn.) Sacc. SPECIES
-=======
+# Phialea eschscholtziae (W. Phillips & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

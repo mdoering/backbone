@@ -1,5 +1,4 @@
-Anthostomella punctata var. punctata VARIETY
-=======
+# Anthostomella punctata anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Anthostomella punctata var. punctata
+Anthostomella punctata anon.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asteridiella pileae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella pileae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

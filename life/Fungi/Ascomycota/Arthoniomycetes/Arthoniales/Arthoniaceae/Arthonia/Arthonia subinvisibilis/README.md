@@ -1,5 +1,4 @@
-Arthonia subinvisibilis Vain. SPECIES
-=======
+# Arthonia subinvisibilis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus lacteus f. lacteus FORM
-=======
+# Russula rosea Pers., 1796 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. mycol. France (Paris) 349 (1939)
 
 #### Original name
-Agaricus lacteus f. lacteus
+Russula rosea Pers., 1796
 
 ### Remarks
 null

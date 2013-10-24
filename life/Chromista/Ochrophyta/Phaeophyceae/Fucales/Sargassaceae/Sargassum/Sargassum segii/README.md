@@ -1,8 +1,7 @@
-Sargassum ringoldianum f. ellipticum Okamura FORM
-=======
+# Sargassum segii Yoshida SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

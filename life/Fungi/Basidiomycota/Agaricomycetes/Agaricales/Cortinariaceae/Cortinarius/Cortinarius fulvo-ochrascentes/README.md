@@ -1,5 +1,4 @@
-Cortinarius fulvo-ochrascentes var. subcaninicolor Rob. Henry VARIETY
-=======
+# Cortinarius fulvo-ochrascentes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 105(2): 124 (1989)
+null
 
 #### Original name
-Cortinarius fulvo-ochrascentes var. subcaninicolor Rob. Henry
+Cortinarius fulvo-ochrascentes Rob. Henry
 
 ### Remarks
 null

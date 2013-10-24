@@ -1,5 +1,4 @@
-Methanocalculus taiwanensis Lai et al., 2002 SPECIES
-=======
+# Methanocalculus taiwanensis Lai et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora inelegans Hue SPECIES
-=======
+# Lecanora inelegans Hue SPECIES
 
 #### Status
 ACCEPTED

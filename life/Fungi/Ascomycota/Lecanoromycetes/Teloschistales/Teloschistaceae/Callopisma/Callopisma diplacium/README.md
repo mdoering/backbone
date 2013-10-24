@@ -1,5 +1,4 @@
-Callopisma diplacium (Ach.) Müll. Arg. SPECIES
-=======
+# Callopisma diplacium (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

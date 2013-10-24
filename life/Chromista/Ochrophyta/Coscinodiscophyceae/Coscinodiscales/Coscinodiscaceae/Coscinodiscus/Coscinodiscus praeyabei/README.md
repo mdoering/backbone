@@ -1,5 +1,4 @@
-Coscinodiscus praeyabei H.J. Schrader SPECIES
-=======
+# Coscinodiscus praeyabei H.J. Schrader SPECIES
 
 #### Status
 ACCEPTED

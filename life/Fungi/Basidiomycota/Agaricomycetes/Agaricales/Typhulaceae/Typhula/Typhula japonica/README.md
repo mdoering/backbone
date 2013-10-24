@@ -1,5 +1,4 @@
-Typhula japonica Terui SPECIES
-=======
+# Typhula japonica Terui SPECIES
 
 #### Status
 ACCEPTED

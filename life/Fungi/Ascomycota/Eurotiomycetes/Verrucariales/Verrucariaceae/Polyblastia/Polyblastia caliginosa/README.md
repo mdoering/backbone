@@ -1,5 +1,4 @@
-Polyblastia caliginosa Norman SPECIES
-=======
+# Polyblastia caliginosa Norman SPECIES
 
 #### Status
 ACCEPTED

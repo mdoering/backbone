@@ -1,14 +1,13 @@
-Lobaria latifrons (A. Rich.) Trevis. SPECIES
-=======
+# Sticta latifrons A. Rich. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Dumont d'Urville, Voy. Astrolabe, Botanique 1: 27 (1832)
 
 #### Original name
 Sticta latifrons A. Rich.

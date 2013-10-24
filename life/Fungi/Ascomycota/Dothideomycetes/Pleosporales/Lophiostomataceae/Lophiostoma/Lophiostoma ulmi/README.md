@@ -1,5 +1,4 @@
-Lophiostoma ulmi (Fabre) Sacc. SPECIES
-=======
+# Lophiostoma ulmi (Fabre) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peziza aquifoliae Cooke & Ellis SPECIES
-=======
+# Peziza aquifolii Cooke & Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 6(no. 39): 91 (1878)
 
 #### Original name
-Peziza aquifoliae Cooke & Ellis
+Peziza aquifolii Cooke & Ellis
 
 ### Remarks
 null

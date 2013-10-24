@@ -1,5 +1,4 @@
-Biatora regeliana Hepp SPECIES
-=======
+# Biatora regeliana Hepp SPECIES
 
 #### Status
 ACCEPTED

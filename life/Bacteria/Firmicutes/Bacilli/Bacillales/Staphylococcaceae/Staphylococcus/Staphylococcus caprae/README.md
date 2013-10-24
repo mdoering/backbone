@@ -1,5 +1,4 @@
-Staphylococcus caprae Devriese et al., 1983 SPECIES
-=======
+# Staphylococcus caprae Devriese et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

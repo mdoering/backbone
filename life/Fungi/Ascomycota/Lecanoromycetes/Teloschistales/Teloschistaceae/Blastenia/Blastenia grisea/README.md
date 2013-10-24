@@ -1,5 +1,4 @@
-Blastenia grisea C.W. Dodge & G.E. Baker SPECIES
-=======
+# Blastenia grisea C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

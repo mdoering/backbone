@@ -1,5 +1,4 @@
-Syringoderma abyssicola (Setchell & N.L. Gardner) Levring SPECIES
-=======
+# Syringoderma abyssicola (Setchell & N.L. Gardner) Levring SPECIES
 
 #### Status
 ACCEPTED

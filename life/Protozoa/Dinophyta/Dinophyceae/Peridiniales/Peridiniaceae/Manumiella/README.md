@@ -1,5 +1,4 @@
-Manumiella J.P. Bujak & E.H. Davies, 1983 GENUS
-=======
+# Manumiella J.P. Bujak & E.H. Davies, 1983 GENUS
 
 #### Status
 ACCEPTED

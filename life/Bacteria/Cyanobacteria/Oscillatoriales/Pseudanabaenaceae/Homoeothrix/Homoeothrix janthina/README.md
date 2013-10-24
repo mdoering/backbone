@@ -1,5 +1,4 @@
-Homoeothrix janthina (Born. & Flah.) Starmach SPECIES
-=======
+# Homoeothrix janthina (Born. & Flah.) Starmach SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia fauriei Abbayes SPECIES
-=======
+# Cladonia fauriei Abbayes SPECIES
 
 #### Status
 ACCEPTED

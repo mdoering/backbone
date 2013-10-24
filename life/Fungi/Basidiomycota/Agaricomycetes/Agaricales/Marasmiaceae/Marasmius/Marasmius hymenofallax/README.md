@@ -1,5 +1,4 @@
-Marasmius hymenofallax De Seynes SPECIES
-=======
+# Marasmius hymenofallax De Seynes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platygrapha subattingens Nyl. SPECIES
-=======
+# Platygrapha subattingens Nyl. SPECIES
 
 #### Status
 ACCEPTED

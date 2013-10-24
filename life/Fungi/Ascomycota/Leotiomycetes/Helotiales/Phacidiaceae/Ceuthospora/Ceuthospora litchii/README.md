@@ -1,5 +1,4 @@
-Ceuthospora litchii Chona & Munjal SPECIES
-=======
+# Ceuthospora litchii Chona & Munjal SPECIES
 
 #### Status
 ACCEPTED

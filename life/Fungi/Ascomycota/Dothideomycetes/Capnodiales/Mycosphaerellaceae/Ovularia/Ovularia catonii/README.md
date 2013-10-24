@@ -1,5 +1,4 @@
-Ovularia catonii Bres. SPECIES
-=======
+# Ovularia catonii Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina meridionalis Blanchon & Bannister SPECIES
-=======
+# Ramalina meridionalis Blanchon & Bannister SPECIES
 
 #### Status
 ACCEPTED

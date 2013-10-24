@@ -1,14 +1,13 @@
-Sporothrix pitereka (J. Walker & Bertus) U. Braun, 1998 SPECIES
-=======
+# Quambalaria pitereka (J. Walker & Bertus) J.A. Simpson, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Braun, Monogr. Cercosporella, Ramularia Allied Genera (Phytopath. Hyphom. ) 2: 416 (1998)
+Australas. Mycol. 19(2): 60 (2000)
 
 #### Original name
 null

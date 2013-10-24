@@ -1,5 +1,4 @@
-Puccinia fusiformis Dietel SPECIES
-=======
+# Puccinia fusiformis Dietel SPECIES
 
 #### Status
 ACCEPTED

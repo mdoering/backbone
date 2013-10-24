@@ -1,5 +1,4 @@
-Peltigera pellucida f. pellucida (Weber) Gyeln. FORM
-=======
+# Peltigera pellucida (Weber) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus aurantiorufescens Singer SPECIES
-=======
+# Marasmiellus aurantiorufescens Singer SPECIES
 
 #### Status
 ACCEPTED

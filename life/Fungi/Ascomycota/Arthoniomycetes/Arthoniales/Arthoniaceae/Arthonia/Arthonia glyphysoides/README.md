@@ -1,5 +1,4 @@
-Arthonia glyphysoides Fée SPECIES
-=======
+# Arthonia glyphysoides Fée SPECIES
 
 #### Status
 ACCEPTED

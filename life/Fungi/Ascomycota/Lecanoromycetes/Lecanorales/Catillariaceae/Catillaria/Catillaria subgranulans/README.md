@@ -1,5 +1,4 @@
-Catillaria subgranulans SPECIES
-=======
+# Catillaria subgranulans SPECIES
 
 #### Status
 ACCEPTED

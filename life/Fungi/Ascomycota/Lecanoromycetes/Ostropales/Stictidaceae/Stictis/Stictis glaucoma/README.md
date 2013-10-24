@@ -1,5 +1,4 @@
-Stictis glaucoma Berk. & M.A. Curtis SPECIES
-=======
+# Stictis glaucoma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

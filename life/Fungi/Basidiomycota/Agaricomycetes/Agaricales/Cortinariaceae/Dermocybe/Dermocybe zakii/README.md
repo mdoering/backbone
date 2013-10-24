@@ -1,5 +1,4 @@
-Dermocybe zakii (Ammirati & A.H. Sm.) Ammirati SPECIES
-=======
+# Dermocybe zakii (Ammirati & A.H. Sm.) Ammirati SPECIES
 
 #### Status
 ACCEPTED

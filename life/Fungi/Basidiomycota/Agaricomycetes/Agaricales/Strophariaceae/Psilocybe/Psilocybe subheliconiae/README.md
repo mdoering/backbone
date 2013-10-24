@@ -1,5 +1,4 @@
-Psilocybe subheliconiae Guzmán, Ram.-Guill. & M. Torres SPECIES
-=======
+# Psilocybe subheliconiae Guzmán, Ram.-Guill. & M. Torres SPECIES
 
 #### Status
 ACCEPTED

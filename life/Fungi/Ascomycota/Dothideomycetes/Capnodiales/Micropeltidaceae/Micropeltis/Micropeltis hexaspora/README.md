@@ -1,5 +1,4 @@
-Micropeltis hexaspora Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis hexaspora Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

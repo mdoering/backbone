@@ -1,5 +1,4 @@
-Clavaria schweinfurthiana Henn. SPECIES
-=======
+# Clavaria schweinfurthiana Henn. SPECIES
 
 #### Status
 ACCEPTED

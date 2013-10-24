@@ -1,5 +1,4 @@
-Chrysosporium hispanicum Skou, 1992 SPECIES
-=======
+# Chrysosporium hispanicum Skou, 1992 SPECIES
 
 #### Status
 ACCEPTED

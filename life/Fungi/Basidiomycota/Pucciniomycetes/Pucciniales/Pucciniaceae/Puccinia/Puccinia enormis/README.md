@@ -1,5 +1,4 @@
-Puccinia enormis Fuckel SPECIES
-=======
+# Puccinia enormis Fuckel SPECIES
 
 #### Status
 ACCEPTED

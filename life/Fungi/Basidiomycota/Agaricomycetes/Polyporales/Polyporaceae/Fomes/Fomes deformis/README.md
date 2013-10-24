@@ -1,5 +1,4 @@
-Fomes deformis (Schaeff.) Cooke SPECIES
-=======
+# Fomes deformis (Schaeff.) Cooke SPECIES
 
 #### Status
 ACCEPTED

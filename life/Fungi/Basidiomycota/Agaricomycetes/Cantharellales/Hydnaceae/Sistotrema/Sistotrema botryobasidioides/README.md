@@ -1,5 +1,4 @@
-Sistotrema botryobasidioides Gresl., 2001 SPECIES
-=======
+# Sistotrema botryobasidioides Gresl., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonapodya bohemica Cejp SPECIES
-=======
+# Gonapodya bohemica Cejp SPECIES
 
 #### Status
 ACCEPTED

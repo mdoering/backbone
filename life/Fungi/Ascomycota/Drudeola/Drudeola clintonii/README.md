@@ -1,5 +1,4 @@
-Drudeola clintonii (Peck) Kuntze SPECIES
-=======
+# Drudeola clintonii (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

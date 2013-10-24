@@ -1,5 +1,4 @@
-Parmotrema setchellii (Vain.) Hale SPECIES
-=======
+# Parmotrema setchellii (Vain.) Hale SPECIES
 
 #### Status
 ACCEPTED

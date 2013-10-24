@@ -1,5 +1,4 @@
-Agaricus nigrocinnamomeus Kalchbr. SPECIES
-=======
+# Agaricus nigrocinnamomeus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

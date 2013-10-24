@@ -1,5 +1,4 @@
-Cylindrocarpon schischkinae Mamuk. SPECIES
-=======
+# Cylindrocarpon schischkinae Mamuk. SPECIES
 
 #### Status
 ACCEPTED

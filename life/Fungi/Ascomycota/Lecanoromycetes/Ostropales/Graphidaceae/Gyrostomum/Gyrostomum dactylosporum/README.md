@@ -1,5 +1,4 @@
-Gyrostomum dactylosporum Zahlbr. SPECIES
-=======
+# Gyrostomum dactylosporum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma subviolaceum A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma subviolaceum A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudophacidium couepiae Henn. SPECIES
-=======
+# Pseudophacidium couepiae Henn. SPECIES
 
 #### Status
 ACCEPTED

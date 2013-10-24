@@ -1,5 +1,4 @@
-Chlamydodon Ehrenberg, 1835 GENUS
-=======
+# Chlamydodon Ehrenberg, 1835 GENUS
 
 #### Status
 ACCEPTED

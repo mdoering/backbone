@@ -1,5 +1,4 @@
-Usnea nobilis Motyka SPECIES
-=======
+# Usnea nobilis Motyka SPECIES
 
 #### Status
 ACCEPTED

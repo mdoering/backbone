@@ -1,5 +1,4 @@
-Sphaerodothis viticifoliae Bat. & Nascim., 1956 SPECIES
-=======
+# Sphaerodothis viticifoliae Bat. & Nascim., 1956 SPECIES
 
 #### Status
 ACCEPTED

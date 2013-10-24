@@ -1,5 +1,4 @@
-Godal Adans. GENUS
-=======
+# Godal Adans. GENUS
 
 #### Status
 ACCEPTED

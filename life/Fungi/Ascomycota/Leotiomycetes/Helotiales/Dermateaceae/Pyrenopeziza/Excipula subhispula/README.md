@@ -1,5 +1,4 @@
-Excipula subhispula Cooke SPECIES
-=======
+# Excipula subhispula Cooke SPECIES
 
 #### Status
 ACCEPTED

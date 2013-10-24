@@ -1,5 +1,4 @@
-Placosphaeria machaerii Henn. SPECIES
-=======
+# Placosphaeria machaerii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sparassis ramosa Schaeff. SPECIES
-=======
+# Sparassis ramosa Schaeff. SPECIES
 
 #### Status
 ACCEPTED

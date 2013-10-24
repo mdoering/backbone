@@ -1,5 +1,4 @@
-Clypeolella inversa Höhn. SPECIES
-=======
+# Clypeolella inversa Höhn. SPECIES
 
 #### Status
 ACCEPTED

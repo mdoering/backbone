@@ -1,5 +1,4 @@
-Nodosaria longiscata d'Orbigny SPECIES
-=======
+# Nodosaria longiscata d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

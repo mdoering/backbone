@@ -1,5 +1,4 @@
-Ascochyta moravica (Petr.) P.K. Buchanan SPECIES
-=======
+# Ascochyta moravica (Petr.) P.K. Buchanan SPECIES
 
 #### Status
 ACCEPTED

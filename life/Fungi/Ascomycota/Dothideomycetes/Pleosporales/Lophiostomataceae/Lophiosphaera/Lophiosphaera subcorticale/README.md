@@ -1,5 +1,4 @@
-Lophiosphaera subcorticale Sacc. SPECIES
-=======
+# Lophiosphaera subcorticale Sacc. SPECIES
 
 #### Status
 ACCEPTED

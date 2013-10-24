@@ -1,5 +1,4 @@
-Gymnosporangium orientale Syd. SPECIES
-=======
+# Gymnosporangium orientale Syd. SPECIES
 
 #### Status
 ACCEPTED

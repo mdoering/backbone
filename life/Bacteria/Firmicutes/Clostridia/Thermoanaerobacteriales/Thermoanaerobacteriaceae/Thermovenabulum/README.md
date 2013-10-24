@@ -1,5 +1,4 @@
-Thermovenabulum Zavarzina et al., 2002 GENUS
-=======
+# Thermovenabulum Zavarzina et al., 2002 GENUS
 
 #### Status
 ACCEPTED

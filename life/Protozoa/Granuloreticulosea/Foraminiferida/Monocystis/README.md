@@ -1,5 +1,4 @@
-Monocystis Ehrenberg, 1854 GENUS
-=======
+# Monocystis Ehrenberg, 1854 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenina sandorici (Rehm) F. Stevens SPECIES
-=======
+# Irenina sandorici (Rehm) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

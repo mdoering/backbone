@@ -1,5 +1,4 @@
-Patellina italichroma Speg. SPECIES
-=======
+# Patellina italichroma Speg. SPECIES
 
 #### Status
 ACCEPTED

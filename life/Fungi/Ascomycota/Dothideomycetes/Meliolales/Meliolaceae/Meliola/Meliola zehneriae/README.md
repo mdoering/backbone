@@ -1,5 +1,4 @@
-Meliola zehneriae Van der Byl SPECIES
-=======
+# Meliola zehneriae Van der Byl SPECIES
 
 #### Status
 ACCEPTED

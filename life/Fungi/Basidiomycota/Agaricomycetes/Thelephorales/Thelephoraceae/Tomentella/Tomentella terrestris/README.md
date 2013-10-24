@@ -1,5 +1,4 @@
-Tomentella terrestris (Berk. & Broome) M.J. Larsen, 1974 SPECIES
-=======
+# Tomentella terrestris (Berk. & Broome) M.J. Larsen, 1974 SPECIES
 
 #### Status
 ACCEPTED

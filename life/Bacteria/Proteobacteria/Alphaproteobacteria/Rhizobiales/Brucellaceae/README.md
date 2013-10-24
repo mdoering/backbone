@@ -1,5 +1,4 @@
-Brucellaceae FAMILY
-=======
+# Brucellaceae FAMILY
 
 #### Status
 ACCEPTED

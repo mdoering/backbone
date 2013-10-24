@@ -1,5 +1,4 @@
-Sphaerella callistea Syd. SPECIES
-=======
+# Sphaerella callistea Syd. SPECIES
 
 #### Status
 ACCEPTED

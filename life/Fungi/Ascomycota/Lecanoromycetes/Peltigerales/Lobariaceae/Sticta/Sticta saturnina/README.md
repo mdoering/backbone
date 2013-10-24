@@ -1,5 +1,4 @@
-Sticta saturnina C.F.W. Meissn. SPECIES
-=======
+# Sticta saturnina C.F.W. Meissn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus magnisporus (Murrill) Murrill SPECIES
-=======
+# Polyporus magnisporus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

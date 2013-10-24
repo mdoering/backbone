@@ -1,5 +1,4 @@
-Pholiota phylicigena (Berk.) Sacc. SPECIES
-=======
+# Pholiota phylicigena (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

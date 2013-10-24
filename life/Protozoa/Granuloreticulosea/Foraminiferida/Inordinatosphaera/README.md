@@ -1,5 +1,4 @@
-Inordinatosphaera Mohan & Soodan, 1967 GENUS
-=======
+# Inordinatosphaera Mohan & Soodan, 1967 GENUS
 
 #### Status
 ACCEPTED

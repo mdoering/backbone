@@ -1,8 +1,7 @@
-Cantharellula felloides (Speg.) Singer SPECIES
-=======
+# Cantharellula felleoides (Speg.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

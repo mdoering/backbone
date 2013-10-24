@@ -1,5 +1,4 @@
-Agaricus alborusseus Berk. & Broome SPECIES
-=======
+# Agaricus alborusseus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

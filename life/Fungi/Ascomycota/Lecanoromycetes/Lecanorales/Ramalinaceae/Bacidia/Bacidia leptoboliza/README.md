@@ -1,5 +1,4 @@
-Bacidia leptoboliza (Nyl.) SPECIES
-=======
+# Bacidia leptoboliza (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

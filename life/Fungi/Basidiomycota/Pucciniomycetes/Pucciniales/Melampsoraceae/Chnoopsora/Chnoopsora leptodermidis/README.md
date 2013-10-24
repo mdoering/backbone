@@ -1,5 +1,4 @@
-Chnoopsora leptodermidis (Barclay) E.J. Butler SPECIES
-=======
+# Chnoopsora leptodermidis (Barclay) E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

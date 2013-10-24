@@ -1,5 +1,4 @@
-Opegrapha striatula Ach. SPECIES
-=======
+# Opegrapha striatula Ach. SPECIES
 
 #### Status
 ACCEPTED

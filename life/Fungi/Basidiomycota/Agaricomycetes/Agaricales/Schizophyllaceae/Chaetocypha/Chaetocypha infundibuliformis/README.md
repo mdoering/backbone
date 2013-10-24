@@ -1,5 +1,4 @@
-Chaetocypha infundibuliformis (Alb. & Schwein. ex Fr.) Kuntze SPECIES
-=======
+# Chaetocypha infundibuliformis (Alb. & Schwein. ex Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe fuchsiae Petr. SPECIES
-=======
+# Diaporthe fuchsiae Petr. SPECIES
 
 #### Status
 ACCEPTED

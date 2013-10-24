@@ -1,5 +1,4 @@
-Diplodia diatrype Lév. SPECIES
-=======
+# Diplodia diatrype Lév. SPECIES
 
 #### Status
 ACCEPTED

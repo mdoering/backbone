@@ -1,5 +1,4 @@
-Leptosphaeria conii Rostr. SPECIES
-=======
+# Leptosphaeria conii Rostr. SPECIES
 
 #### Status
 ACCEPTED

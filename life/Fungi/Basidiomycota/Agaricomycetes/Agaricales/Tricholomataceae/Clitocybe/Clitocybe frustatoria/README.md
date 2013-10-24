@@ -1,5 +1,4 @@
-Clitocybe frustatoria (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe frustatoria (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

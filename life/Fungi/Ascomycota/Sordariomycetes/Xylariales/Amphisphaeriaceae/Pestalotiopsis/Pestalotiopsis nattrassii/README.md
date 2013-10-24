@@ -1,14 +1,13 @@
-Monochaetia nattrassii (Steyaert) B. Sutton, 1969 SPECIES
-=======
+# Pestalotiopsis nattrassii Steyaert, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 47(12): 2091 (1969)
+Trans. Br. mycol. Soc. 36: 82 (1953)
 
 #### Original name
 Pestalotiopsis nattrassii Steyaert, 1953

@@ -1,5 +1,4 @@
-Echidnodella melastomacearum R.W. Ryan SPECIES
-=======
+# Echidnodella melastomacearum R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

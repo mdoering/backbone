@@ -1,5 +1,4 @@
-Naevia obscuromarginata Starbäck SPECIES
-=======
+# Naevia obscuromarginata Starbäck SPECIES
 
 #### Status
 ACCEPTED

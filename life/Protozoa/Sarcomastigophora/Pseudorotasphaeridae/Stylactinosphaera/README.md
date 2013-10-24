@@ -1,5 +1,4 @@
-Stylactinosphaera Noble, 1994 GENUS
-=======
+# Stylactinosphaera Noble, 1994 GENUS
 
 #### Status
 ACCEPTED

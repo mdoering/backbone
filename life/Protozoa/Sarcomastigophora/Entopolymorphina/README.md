@@ -1,5 +1,4 @@
-Entopolymorphina McCulloch, 1977 GENUS
-=======
+# Entopolymorphina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

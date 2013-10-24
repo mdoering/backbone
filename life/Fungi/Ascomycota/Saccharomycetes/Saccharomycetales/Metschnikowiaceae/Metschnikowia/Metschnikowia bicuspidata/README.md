@@ -1,5 +1,4 @@
-Metschnikowia bicuspidata var. bicuspidata (Metschn.) T. Kamienski, 1899 VARIETY
-=======
+# Metschnikowia bicuspidata (Metschn.) T. Kamienski SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Trudy imp. S-peterb. Obshch. Estest. 30: 363 (1899)
 
 #### Original name
-Metschnikowia bicuspidata var. bicuspidata (Metschn.) T. Kamienski, 1899
+Monospora bicuspidata Metschn., 1884
 
 ### Remarks
 null

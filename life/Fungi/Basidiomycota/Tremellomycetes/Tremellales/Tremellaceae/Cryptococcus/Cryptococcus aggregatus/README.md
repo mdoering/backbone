@@ -1,5 +1,4 @@
-Cryptococcus aggregatus H.W. Anderson SPECIES
-=======
+# Cryptococcus aggregatus H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

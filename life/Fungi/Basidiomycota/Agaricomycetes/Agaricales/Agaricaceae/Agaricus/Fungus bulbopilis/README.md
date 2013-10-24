@@ -1,5 +1,4 @@
-Fungus bulbopilis (Raddi) Kuntze SPECIES
-=======
+# Fungus bulbopilis (Raddi) Kuntze SPECIES
 
 #### Status
 ACCEPTED

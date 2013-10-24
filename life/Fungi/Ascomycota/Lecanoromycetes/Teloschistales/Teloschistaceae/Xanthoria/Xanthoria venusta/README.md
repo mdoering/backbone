@@ -1,5 +1,4 @@
-Xanthoria venusta (Ach.) Horw. SPECIES
-=======
+# Xanthoria venusta (Ach.) Horw. SPECIES
 
 #### Status
 ACCEPTED

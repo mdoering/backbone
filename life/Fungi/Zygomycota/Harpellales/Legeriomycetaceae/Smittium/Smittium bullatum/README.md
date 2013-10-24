@@ -1,5 +1,4 @@
-Smittium bullatum Lichtw. & M.C. Williams, 1992 SPECIES
-=======
+# Smittium bullatum Lichtw. & M.C. Williams, 1992 SPECIES
 
 #### Status
 ACCEPTED

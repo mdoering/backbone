@@ -1,5 +1,4 @@
-Patellaria nigrocyanea W. Phillips & Harkn. SPECIES
-=======
+# Patellaria nigrocyanea W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

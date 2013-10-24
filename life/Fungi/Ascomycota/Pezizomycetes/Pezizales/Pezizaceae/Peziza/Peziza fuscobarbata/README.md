@@ -1,5 +1,4 @@
-Peziza fuscobarbata Schwein. SPECIES
-=======
+# Peziza fuscobarbata Schwein. SPECIES
 
 #### Status
 ACCEPTED

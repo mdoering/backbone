@@ -1,5 +1,4 @@
-Sistotrema coronilla (Höhn. & Litsch.) Donk ex D.P. Rogers, 1935 SPECIES
-=======
+# Sistotrema coronilla (Höhn. & Litsch.) Donk ex D.P. Rogers, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta seemannii Bab. SPECIES
-=======
+# Sticta seemannii Bab. SPECIES
 
 #### Status
 ACCEPTED

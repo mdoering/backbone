@@ -1,5 +1,4 @@
-Phoma bacteriosperma Bubák SPECIES
-=======
+# Phoma bacteriosperma Bubák SPECIES
 
 #### Status
 ACCEPTED

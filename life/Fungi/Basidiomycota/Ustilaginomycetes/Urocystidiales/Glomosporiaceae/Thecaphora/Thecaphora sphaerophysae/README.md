@@ -1,5 +1,4 @@
-Thecaphora sphaerophysae Z.Y. Zhao & Y.W. Xi SPECIES
-=======
+# Thecaphora sphaerophysae Z.Y. Zhao & Y.W. Xi SPECIES
 
 #### Status
 ACCEPTED

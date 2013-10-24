@@ -1,5 +1,4 @@
-Anthostomella stegophora (Mont.) Sacc. SPECIES
-=======
+# Anthostomella stegophora (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

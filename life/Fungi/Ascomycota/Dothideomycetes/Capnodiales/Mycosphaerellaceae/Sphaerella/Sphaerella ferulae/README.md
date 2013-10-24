@@ -1,5 +1,4 @@
-Sphaerella ferulae Maffei SPECIES
-=======
+# Sphaerella ferulae Maffei SPECIES
 
 #### Status
 ACCEPTED

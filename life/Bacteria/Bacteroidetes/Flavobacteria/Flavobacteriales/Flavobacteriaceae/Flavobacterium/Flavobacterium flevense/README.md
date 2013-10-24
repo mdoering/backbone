@@ -1,8 +1,7 @@
-Cytophaga flevensis van der Meulen et al., 1974 (Approved Lists, 1980) SPECIES
-=======
+# Flavobacterium flevense (van der Meulen et al., 1974) Bernardet et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

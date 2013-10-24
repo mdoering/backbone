@@ -1,5 +1,4 @@
-Schizoxylon lividum McAlpine SPECIES
-=======
+# Schizoxylon lividum McAlpine SPECIES
 
 #### Status
 ACCEPTED

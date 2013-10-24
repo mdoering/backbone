@@ -1,5 +1,4 @@
-Passalora ecuadoriana (Constant.) U. Braun & Crous SPECIES
-=======
+# Passalora ecuadoriana (Constant.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

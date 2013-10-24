@@ -1,5 +1,4 @@
-Microcoryne H.F.G. Strömfelt, 1888 GENUS
-=======
+# Microcoryne H.F.G. Strömfelt, 1888 GENUS
 
 #### Status
 ACCEPTED

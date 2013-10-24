@@ -1,5 +1,4 @@
-Puccinia cryptotaeniae Peck SPECIES
-=======
+# Puccinia cryptotaeniae Peck SPECIES
 
 #### Status
 ACCEPTED

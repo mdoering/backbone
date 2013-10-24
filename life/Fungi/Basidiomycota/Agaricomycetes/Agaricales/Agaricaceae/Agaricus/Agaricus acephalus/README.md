@@ -1,5 +1,4 @@
-Agaricus acephalus Humb. SPECIES
-=======
+# Agaricus acephalus Humb. SPECIES
 
 #### Status
 ACCEPTED

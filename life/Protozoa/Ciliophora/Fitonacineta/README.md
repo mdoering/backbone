@@ -1,5 +1,4 @@
-Fitonacineta Jankowski, 1981 GENUS
-=======
+# Fitonacineta Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

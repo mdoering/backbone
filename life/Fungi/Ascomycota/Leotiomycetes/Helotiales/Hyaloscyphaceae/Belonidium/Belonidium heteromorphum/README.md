@@ -1,5 +1,4 @@
-Belonidium heteromorphum (Ellis & Everh.) Sacc. SPECIES
-=======
+# Belonidium heteromorphum (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus latipes (Berk.) Kuntze SPECIES
-=======
+# Fungus latipes (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

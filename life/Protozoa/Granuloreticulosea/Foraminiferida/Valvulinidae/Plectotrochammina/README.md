@@ -1,5 +1,4 @@
-Plectotrochammina Parr, 1950 GENUS
-=======
+# Plectotrochammina Parr, 1950 GENUS
 
 #### Status
 ACCEPTED

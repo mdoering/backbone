@@ -1,14 +1,13 @@
-Misgomyces ansatus Thaxt., 1931 SPECIES
-=======
+# Kyphomyces ansatus (Thaxt.) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts, ser. 2 16(1): 298 (1931)
+Mycol. Mem. 9: 243 (1985)
 
 #### Original name
 Misgomyces ansatus Thaxt., 1931

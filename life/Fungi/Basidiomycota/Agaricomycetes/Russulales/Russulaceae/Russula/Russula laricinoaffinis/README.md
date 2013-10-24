@@ -1,5 +1,4 @@
-Russula laricinoaffinis Bon SPECIES
-=======
+# Russula laricinoaffinis Bon SPECIES
 
 #### Status
 ACCEPTED

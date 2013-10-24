@@ -1,5 +1,4 @@
-Calonectria kurdica Petr. SPECIES
-=======
+# Calonectria kurdica Petr. SPECIES
 
 #### Status
 ACCEPTED

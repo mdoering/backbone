@@ -1,5 +1,4 @@
-Buellia posthabita (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia posthabita (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

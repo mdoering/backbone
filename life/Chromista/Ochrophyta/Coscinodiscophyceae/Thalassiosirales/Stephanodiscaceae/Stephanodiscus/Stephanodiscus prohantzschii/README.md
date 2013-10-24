@@ -1,5 +1,4 @@
-Stephanodiscus prohantzschii A. P. Jousé SPECIES
-=======
+# Stephanodiscus prohantzschii A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

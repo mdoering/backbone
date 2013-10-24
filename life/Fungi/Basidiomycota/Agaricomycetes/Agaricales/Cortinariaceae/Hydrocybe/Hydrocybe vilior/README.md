@@ -1,5 +1,4 @@
-Hydrocybe vilior (P. Karst.) M.M. Moser SPECIES
-=======
+# Hydrocybe vilior (P. Karst.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

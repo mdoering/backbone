@@ -1,5 +1,4 @@
-Anomalacantha dentata Mast, 1910 SPECIES
-=======
+# Anomalacantha dentata Mast, 1910 SPECIES
 
 #### Status
 ACCEPTED

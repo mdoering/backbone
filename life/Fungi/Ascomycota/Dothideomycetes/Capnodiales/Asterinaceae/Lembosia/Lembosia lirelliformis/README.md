@@ -1,5 +1,4 @@
-Lembosia lirelliformis (Cooke) Sacc. SPECIES
-=======
+# Lembosia lirelliformis (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

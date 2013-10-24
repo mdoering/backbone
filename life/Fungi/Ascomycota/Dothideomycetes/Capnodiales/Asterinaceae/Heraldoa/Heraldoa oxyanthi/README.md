@@ -1,5 +1,4 @@
-Heraldoa oxyanthi Bat. SPECIES
-=======
+# Heraldoa oxyanthi Bat. SPECIES
 
 #### Status
 ACCEPTED

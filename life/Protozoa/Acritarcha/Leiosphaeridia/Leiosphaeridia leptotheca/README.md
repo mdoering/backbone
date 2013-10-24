@@ -1,5 +1,4 @@
-Leiosphaeridia leptotheca Eisenack, 1968 SPECIES
-=======
+# Leiosphaeridia leptotheca Eisenack, 1968 SPECIES
 
 #### Status
 ACCEPTED

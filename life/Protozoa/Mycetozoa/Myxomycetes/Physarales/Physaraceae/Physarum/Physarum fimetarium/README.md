@@ -1,5 +1,4 @@
-Physarum fimetarium Fr. SPECIES
-=======
+# Physarum fimetarium Fr. SPECIES
 
 #### Status
 ACCEPTED

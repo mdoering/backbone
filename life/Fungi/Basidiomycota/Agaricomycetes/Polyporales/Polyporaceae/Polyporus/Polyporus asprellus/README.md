@@ -1,5 +1,4 @@
-Polyporus asprellus Lév. SPECIES
-=======
+# Polyporus asprellus Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium stellariae Fuckel, 1870 SPECIES
-=======
+# Synchytrium stellariae Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

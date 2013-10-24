@@ -1,5 +1,4 @@
-Amauroascus rwandensis P. Vidal, Cano & Guarro SPECIES
-=======
+# Amauroascus rwandensis P. Vidal, Cano & Guarro SPECIES
 
 #### Status
 ACCEPTED

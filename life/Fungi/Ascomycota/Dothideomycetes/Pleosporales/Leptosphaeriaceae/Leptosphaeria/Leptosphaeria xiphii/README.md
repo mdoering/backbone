@@ -1,5 +1,4 @@
-Leptosphaeria xiphii Pass. SPECIES
-=======
+# Leptosphaeria xiphii Pass. SPECIES
 
 #### Status
 ACCEPTED

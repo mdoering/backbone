@@ -1,5 +1,4 @@
-Diplodiella tamaricis Maubl. SPECIES
-=======
+# Diplodiella tamaricis Maubl. SPECIES
 
 #### Status
 ACCEPTED

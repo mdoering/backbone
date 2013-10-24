@@ -1,5 +1,4 @@
-Clasterosporium strumarum Cooke SPECIES
-=======
+# Clasterosporium strumarum Cooke SPECIES
 
 #### Status
 ACCEPTED

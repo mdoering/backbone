@@ -1,5 +1,4 @@
-Fomitiporia aethiopica Decock, Bitew & G. Castillo SPECIES
-=======
+# Fomitiporia aethiopica Decock, Bitew & G. Castillo SPECIES
 
 #### Status
 ACCEPTED

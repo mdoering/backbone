@@ -1,5 +1,4 @@
-Minutocellus Hasle, Stosch & Syvertsen, 1983 GENUS
-=======
+# Minutocellus Hasle, Stosch & Syvertsen, 1983 GENUS
 
 #### Status
 ACCEPTED

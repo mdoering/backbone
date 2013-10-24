@@ -1,5 +1,4 @@
-Pythium periilum Drechsler, 1931 SPECIES
-=======
+# Pythium periilum Drechsler, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxidium ramosa SPECIES
-=======
+# Pyxidium ramosa SPECIES
 
 #### Status
 ACCEPTED

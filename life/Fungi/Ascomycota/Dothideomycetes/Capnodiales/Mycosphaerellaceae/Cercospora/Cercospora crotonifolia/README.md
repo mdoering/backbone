@@ -1,5 +1,4 @@
-Cercospora crotonifolia Cooke SPECIES
-=======
+# Cercospora crotonifolia Cooke SPECIES
 
 #### Status
 ACCEPTED

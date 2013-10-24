@@ -1,5 +1,4 @@
-Leucoloma GENUS
-=======
+# Leucoloma GENUS
 
 #### Status
 ACCEPTED

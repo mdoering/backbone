@@ -1,5 +1,4 @@
-Acarospora stenospora (Stizenb.) Hue SPECIES
-=======
+# Acarospora stenospora (Stizenb.) Hue SPECIES
 
 #### Status
 ACCEPTED

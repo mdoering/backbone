@@ -1,5 +1,4 @@
-Cortinarius sommerfeltii Høil., 1984 SPECIES
-=======
+# Cortinarius sommerfeltii Høil., 1984 SPECIES
 
 #### Status
 ACCEPTED

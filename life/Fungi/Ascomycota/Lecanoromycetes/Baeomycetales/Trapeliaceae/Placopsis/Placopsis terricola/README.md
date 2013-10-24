@@ -1,5 +1,4 @@
-Placopsis terricola (Cromb.) I.M. Lamb SPECIES
-=======
+# Placopsis terricola (Cromb.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

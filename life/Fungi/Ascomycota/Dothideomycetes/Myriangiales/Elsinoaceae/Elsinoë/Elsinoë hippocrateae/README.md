@@ -1,5 +1,4 @@
-Elsinoë hippocrateae B.V. Patil & Thirum. SPECIES
-=======
+# Elsinoë hippocrateae B.V. Patil & Thirum. SPECIES
 
 #### Status
 ACCEPTED

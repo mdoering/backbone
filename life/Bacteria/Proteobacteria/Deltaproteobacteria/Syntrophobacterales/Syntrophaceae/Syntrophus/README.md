@@ -1,5 +1,4 @@
-Syntrophus Mountfort et al., 1984 GENUS
-=======
+# Syntrophus Mountfort et al., 1984 GENUS
 
 #### Status
 ACCEPTED

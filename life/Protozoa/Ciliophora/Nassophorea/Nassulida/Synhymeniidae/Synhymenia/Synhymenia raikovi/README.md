@@ -1,5 +1,4 @@
-Synhymenia raikovi (Aliev, 1990) Jankowski, 1992 SPECIES
-=======
+# Synhymenia raikovi (Aliev, 1990) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

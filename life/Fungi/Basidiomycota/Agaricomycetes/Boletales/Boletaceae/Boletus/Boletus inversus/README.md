@@ -1,5 +1,4 @@
-Boletus inversus Vill. SPECIES
-=======
+# Boletus inversus Vill. SPECIES
 
 #### Status
 ACCEPTED

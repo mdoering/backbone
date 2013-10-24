@@ -1,5 +1,4 @@
-Ferroplasma acidiphilum Golyshina et al., 2000 SPECIES
-=======
+# Ferroplasma acidiphilum Golyshina et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

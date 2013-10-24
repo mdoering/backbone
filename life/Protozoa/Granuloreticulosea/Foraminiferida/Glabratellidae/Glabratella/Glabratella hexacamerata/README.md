@@ -1,5 +1,4 @@
-Glabratella hexacamerata Seiglie & Bermúdez, 1965 SPECIES
-=======
+# Glabratella hexacamerata Seiglie & Bermúdez, 1965 SPECIES
 
 #### Status
 ACCEPTED

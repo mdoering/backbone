@@ -1,5 +1,4 @@
-Marasmiellus subchrysophyllus (Murrill) Singer SPECIES
-=======
+# Marasmiellus subchrysophyllus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

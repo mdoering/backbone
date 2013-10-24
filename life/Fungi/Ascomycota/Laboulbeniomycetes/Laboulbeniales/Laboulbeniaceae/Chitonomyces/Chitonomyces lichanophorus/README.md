@@ -1,5 +1,4 @@
-Chitonomyces lichanophorus Thaxt. SPECIES
-=======
+# Chitonomyces lichanophorus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

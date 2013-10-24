@@ -1,14 +1,13 @@
-Septogloeum agrostis (Rostr.) Gunnerb. SPECIES
-=======
+# Septogloeum agrostidis (Rostr.) Gunnerb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Svensk bot. Tidskr. 65(1): 48 (1971)
 
 #### Original name
 Fusidium agrostidis Rostr.

@@ -1,5 +1,4 @@
-Boletus mariae A.H. Sm. & Thiers SPECIES
-=======
+# Boletus mariae A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

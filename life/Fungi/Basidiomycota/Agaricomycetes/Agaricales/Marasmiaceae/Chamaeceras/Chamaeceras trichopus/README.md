@@ -1,5 +1,4 @@
-Chamaeceras trichopus (Beltr. & Pass.) Kuntze SPECIES
-=======
+# Chamaeceras trichopus (Beltr. & Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

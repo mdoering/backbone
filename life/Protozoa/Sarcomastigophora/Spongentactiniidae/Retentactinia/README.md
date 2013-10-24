@@ -1,5 +1,4 @@
-Retentactinia Won, 1997 GENUS
-=======
+# Retentactinia Won, 1997 GENUS
 
 #### Status
 ACCEPTED

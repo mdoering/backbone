@@ -1,5 +1,4 @@
-Tapesia jaceae Velen. SPECIES
-=======
+# Tapesia jaceae Velen. SPECIES
 
 #### Status
 ACCEPTED

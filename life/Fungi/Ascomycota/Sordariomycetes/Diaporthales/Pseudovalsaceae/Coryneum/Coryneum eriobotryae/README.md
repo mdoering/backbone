@@ -1,5 +1,4 @@
-Coryneum eriobotryae Scalia SPECIES
-=======
+# Coryneum eriobotryae Scalia SPECIES
 
 #### Status
 ACCEPTED

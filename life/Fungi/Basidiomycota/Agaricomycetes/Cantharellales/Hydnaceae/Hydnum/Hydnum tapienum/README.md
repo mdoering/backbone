@@ -1,5 +1,4 @@
-Hydnum tapienum Massee SPECIES
-=======
+# Hydnum tapienum Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus erythrocephalus Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Aspergillus erythrocephalus Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
 ACCEPTED

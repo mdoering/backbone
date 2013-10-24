@@ -1,5 +1,4 @@
-Cercosporella dioscoreae Sawada SPECIES
-=======
+# Cercosporella dioscoreae Sawada SPECIES
 
 #### Status
 ACCEPTED

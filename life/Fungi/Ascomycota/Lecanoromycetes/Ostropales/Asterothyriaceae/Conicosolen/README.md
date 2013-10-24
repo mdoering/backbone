@@ -1,5 +1,4 @@
-Conicosolen GENUS
-=======
+# Conicosolen GENUS
 
 #### Status
 ACCEPTED

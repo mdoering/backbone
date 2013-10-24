@@ -1,5 +1,4 @@
-Squamaria coccinea Colmeiro SPECIES
-=======
+# Squamaria coccinea Colmeiro SPECIES
 
 #### Status
 ACCEPTED

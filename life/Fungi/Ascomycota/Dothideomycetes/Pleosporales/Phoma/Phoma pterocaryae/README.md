@@ -1,5 +1,4 @@
-Phoma pterocaryae Syd. SPECIES
-=======
+# Phoma pterocaryae Syd. SPECIES
 
 #### Status
 ACCEPTED

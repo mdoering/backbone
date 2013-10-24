@@ -1,5 +1,4 @@
-Hepeviridae FAMILY
-=======
+# Hepeviridae FAMILY
 
 #### Status
 ACCEPTED

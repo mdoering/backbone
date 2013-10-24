@@ -1,5 +1,4 @@
-Fuscopannaria sorediata P. M. Jørg. SPECIES
-=======
+# Fuscopannaria sorediata P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

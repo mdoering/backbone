@@ -1,5 +1,4 @@
-Terfezia schweinfurthii Henn. SPECIES
-=======
+# Terfezia schweinfurthii Henn. SPECIES
 
 #### Status
 ACCEPTED

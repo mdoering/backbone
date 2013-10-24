@@ -1,5 +1,4 @@
-Corticium basale Peck SPECIES
-=======
+# Corticium basale Peck SPECIES
 
 #### Status
 ACCEPTED

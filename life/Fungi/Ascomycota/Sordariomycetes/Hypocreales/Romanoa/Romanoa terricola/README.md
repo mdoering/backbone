@@ -1,5 +1,4 @@
-Romanoa terricola Thirum., 1954 SPECIES
-=======
+# Romanoa terricola Thirum., 1954 SPECIES
 
 #### Status
 ACCEPTED

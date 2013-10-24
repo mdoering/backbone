@@ -1,5 +1,4 @@
-Leptotriticites Skinner & Wilde, 1965 GENUS
-=======
+# Leptotriticites Skinner & Wilde, 1965 GENUS
 
 #### Status
 ACCEPTED

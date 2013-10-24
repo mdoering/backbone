@@ -1,5 +1,4 @@
-Russula delicula Romagn. SPECIES
-=======
+# Russula delicula Romagn. SPECIES
 
 #### Status
 ACCEPTED

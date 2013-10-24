@@ -1,5 +1,4 @@
-Bovista verrucosa G. Cunn. SPECIES
-=======
+# Bovista verrucosa G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza venustula (Desm.) Sacc. SPECIES
-=======
+# Trichopeziza venustula (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe lilacinolamellata (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Inocybe lilacinolamellata (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

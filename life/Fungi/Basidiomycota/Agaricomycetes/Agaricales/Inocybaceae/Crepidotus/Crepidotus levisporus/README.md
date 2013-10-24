@@ -1,5 +1,4 @@
-Crepidotus levisporus Singer SPECIES
-=======
+# Crepidotus levisporus Singer SPECIES
 
 #### Status
 ACCEPTED

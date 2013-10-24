@@ -1,5 +1,4 @@
-Microsporum felineum var. niveum (Truffi) C.W. Dodge VARIETY
-=======
+# Microsporum felineum Mewborn SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Medical mycology. Fungous diseases of men and other mammals 542 (1935)
+New York med. Journal 76: 844 (1902)
 
 #### Original name
-Microsporum tomentosum var. niveum Truffi
+Microsporum felineum Mewborn
 
 ### Remarks
 null

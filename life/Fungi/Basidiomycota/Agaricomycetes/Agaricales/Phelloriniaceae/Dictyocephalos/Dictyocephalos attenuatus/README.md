@@ -1,17 +1,16 @@
-Battarreopsis artinii Henn. SPECIES
-=======
+# Dictyocephalos attenuatus (Peck) Long & Plunkett, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 32(6): 697 (1940)
 
 #### Original name
-Battarreopsis artinii Henn.
+Battarrea attenuata Peck, 1895
 
 ### Remarks
 null

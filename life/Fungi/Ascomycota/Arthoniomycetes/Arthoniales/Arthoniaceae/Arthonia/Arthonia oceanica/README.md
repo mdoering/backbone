@@ -1,5 +1,4 @@
-Arthonia oceanica Zahlbr. SPECIES
-=======
+# Arthonia oceanica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

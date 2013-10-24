@@ -1,5 +1,4 @@
-Elphidium striatopunctata SPECIES
-=======
+# Elphidium striatopunctata SPECIES
 
 #### Status
 ACCEPTED

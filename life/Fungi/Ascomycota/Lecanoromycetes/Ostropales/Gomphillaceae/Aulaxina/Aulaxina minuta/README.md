@@ -1,5 +1,4 @@
-Aulaxina minuta R. Sant. SPECIES
-=======
+# Aulaxina minuta R. Sant. SPECIES
 
 #### Status
 ACCEPTED

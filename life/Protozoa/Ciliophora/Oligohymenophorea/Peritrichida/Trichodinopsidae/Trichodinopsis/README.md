@@ -1,5 +1,4 @@
-Trichodinopsis Claparède & Lachmann, 1858 GENUS
-=======
+# Trichodinopsis Claparède & Lachmann, 1858 GENUS
 
 #### Status
 ACCEPTED

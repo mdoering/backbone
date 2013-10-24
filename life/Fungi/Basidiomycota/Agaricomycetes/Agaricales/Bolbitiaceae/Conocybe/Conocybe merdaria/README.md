@@ -1,5 +1,4 @@
-Conocybe merdaria Arnolds & Hauskn., 2003 SPECIES
-=======
+# Conocybe merdaria Arnolds & Hauskn., 2003 SPECIES
 
 #### Status
 ACCEPTED

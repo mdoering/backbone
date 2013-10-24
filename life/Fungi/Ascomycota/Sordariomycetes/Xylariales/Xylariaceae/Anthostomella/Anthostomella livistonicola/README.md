@@ -1,5 +1,4 @@
-Anthostomella livistonicola K.D. Hyde, 1994 SPECIES
-=======
+# Anthostomella livistonicola K.D. Hyde, 1994 SPECIES
 
 #### Status
 ACCEPTED

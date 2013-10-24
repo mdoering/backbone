@@ -1,5 +1,4 @@
-Entomophthora grandis S. Keller, 2002 SPECIES
-=======
+# Entomophthora grandis S. Keller, 2002 SPECIES
 
 #### Status
 ACCEPTED

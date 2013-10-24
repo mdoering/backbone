@@ -1,5 +1,4 @@
-Calonectria celata Döbbeler SPECIES
-=======
+# Calonectria celata Döbbeler SPECIES
 
 #### Status
 ACCEPTED

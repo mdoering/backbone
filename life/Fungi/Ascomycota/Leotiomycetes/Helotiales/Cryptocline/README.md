@@ -1,17 +1,16 @@
-Gloeotrochila Petr. GENUS
-=======
+# Cryptocline Petrak, 1924 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sydowia 1: 50 (1947)
+null
 
 #### Original name
-Gloeotrochila Petr.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trichothelium subargenteum Flakus & Lücking SPECIES
-=======
+# Trichothelium subargenteum Flakus & Lücking SPECIES
 
 #### Status
 ACCEPTED

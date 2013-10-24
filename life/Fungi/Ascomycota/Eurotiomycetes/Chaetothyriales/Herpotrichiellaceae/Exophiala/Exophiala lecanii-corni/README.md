@@ -1,14 +1,13 @@
-Torula lecanii-corni Benedek & G. Specht, 1933 SPECIES
-=======
+# Exophiala lecanii-corni (Benedek & G. Specht) Haase & de Hoog, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. I 130: 86 (1933)
+Stud. Mycol. 43: 93 (1999)
 
 #### Original name
 Torula lecanii-corni Benedek & G. Specht, 1933

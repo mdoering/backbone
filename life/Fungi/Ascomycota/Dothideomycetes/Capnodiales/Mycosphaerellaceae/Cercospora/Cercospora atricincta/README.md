@@ -1,5 +1,4 @@
-Cercospora atricincta Heald. & Wolf. SPECIES
-=======
+# Cercospora atricincta Heald. & Wolf. SPECIES
 
 #### Status
 ACCEPTED

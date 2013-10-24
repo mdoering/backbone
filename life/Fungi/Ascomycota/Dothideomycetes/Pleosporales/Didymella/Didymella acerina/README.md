@@ -1,5 +1,4 @@
-Didymella acerina Fabre SPECIES
-=======
+# Didymella acerina Fabre SPECIES
 
 #### Status
 ACCEPTED

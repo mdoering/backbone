@@ -1,14 +1,13 @@
-Microascus setifer Alf. Schmidt, 1912 SPECIES
-=======
+# Petriella setifera (Alf. Schmidt) Curzi, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Boll. R. Staz. Patalog. Veget. Roma, N. S. 10: 34 (1930)
 
 #### Original name
 Microascus setifer Alf. Schmidt, 1912

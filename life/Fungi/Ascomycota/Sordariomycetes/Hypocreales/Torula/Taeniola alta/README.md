@@ -1,5 +1,4 @@
-Taeniola alta Bonord. SPECIES
-=======
+# Taeniola alta Bonord. SPECIES
 
 #### Status
 ACCEPTED

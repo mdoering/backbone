@@ -1,8 +1,7 @@
-Verrucaria koerberi Hepp, 1855 SPECIES
-=======
+# Porina guentheri (Flot.) Zahlbr., 1922 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

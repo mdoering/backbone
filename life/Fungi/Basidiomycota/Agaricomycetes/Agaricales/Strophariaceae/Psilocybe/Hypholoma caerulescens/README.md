@@ -1,17 +1,16 @@
-Hypholoma coerulescens (Pat.) Sacc. & Trotter SPECIES
-=======
+# Hypholoma caerulescens (Pat.) Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 21: 212 (1912)
 
 #### Original name
-Nematoloma caerulescens Pat.
+Naematoloma caerulescens Pat.
 
 ### Remarks
 null

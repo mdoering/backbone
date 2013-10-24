@@ -1,14 +1,13 @@
-Merisma capillare Lév., 1844 SPECIES
-=======
+# Pterula capillaris (Lév.) Sacc., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 2: 208 (1844)
+Syll. fung. (Abellini) 6: 742 (1888)
 
 #### Original name
 Merisma capillare Lév., 1844

@@ -1,5 +1,4 @@
-Heliomyces verpoides Rick SPECIES
-=======
+# Heliomyces verpoides Rick SPECIES
 
 #### Status
 ACCEPTED

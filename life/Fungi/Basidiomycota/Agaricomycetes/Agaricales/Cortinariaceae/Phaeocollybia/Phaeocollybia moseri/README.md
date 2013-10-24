@@ -1,5 +1,4 @@
-Phaeocollybia moseri Bandala & Guzmán SPECIES
-=======
+# Phaeocollybia moseri Bandala & Guzmán SPECIES
 
 #### Status
 ACCEPTED

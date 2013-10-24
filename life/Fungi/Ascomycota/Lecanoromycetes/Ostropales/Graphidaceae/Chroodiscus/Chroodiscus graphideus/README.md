@@ -1,5 +1,4 @@
-Chroodiscus graphideus Lücking & Kalb SPECIES
-=======
+# Chroodiscus graphideus Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium leprolytum SPECIES
-=======
+# Placodium leprolytum SPECIES
 
 #### Status
 ACCEPTED

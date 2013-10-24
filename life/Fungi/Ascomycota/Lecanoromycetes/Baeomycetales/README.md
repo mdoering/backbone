@@ -1,5 +1,4 @@
-Baeomycetales Lumbsch, Huhndorf & Lutzoni ORDER
-=======
+# Baeomycetales Lumbsch, Huhndorf & Lutzoni ORDER
 
 #### Status
 ACCEPTED

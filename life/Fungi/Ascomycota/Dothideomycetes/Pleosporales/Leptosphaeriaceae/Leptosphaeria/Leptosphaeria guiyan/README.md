@@ -1,5 +1,4 @@
-Leptosphaeria guiyan Chuan F. Zhang & P.K. Chi SPECIES
-=======
+# Leptosphaeria guiyan Chuan F. Zhang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

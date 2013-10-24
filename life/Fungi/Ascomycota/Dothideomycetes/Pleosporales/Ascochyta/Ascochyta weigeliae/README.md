@@ -1,5 +1,4 @@
-Ascochyta weigeliae Sacc. & Speg. SPECIES
-=======
+# Ascochyta weigeliae Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

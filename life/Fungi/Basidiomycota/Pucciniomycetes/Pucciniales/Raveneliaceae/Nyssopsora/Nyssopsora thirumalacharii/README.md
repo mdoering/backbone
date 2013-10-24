@@ -1,5 +1,4 @@
-Nyssopsora thirumalacharii R.N. Goswami & Ngachan, 1985 SPECIES
-=======
+# Nyssopsora thirumalacharii R.N. Goswami & Ngachan, 1985 SPECIES
 
 #### Status
 ACCEPTED

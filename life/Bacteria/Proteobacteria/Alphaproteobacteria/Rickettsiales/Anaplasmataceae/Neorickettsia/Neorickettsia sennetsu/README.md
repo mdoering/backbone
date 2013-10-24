@@ -1,8 +1,7 @@
-Rickettsia sennetsu Misao and Kobayashi, 1956 (Approved Lists, 1980) SPECIES
-=======
+# Neorickettsia sennetsu (Misao & Kobayashi, 1956) Dumler et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

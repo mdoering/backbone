@@ -1,5 +1,4 @@
-Cercospora bertrandii Chupp SPECIES
-=======
+# Cercospora bertrandii Chupp SPECIES
 
 #### Status
 ACCEPTED

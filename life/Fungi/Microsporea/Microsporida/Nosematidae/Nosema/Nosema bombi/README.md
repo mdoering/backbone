@@ -1,5 +1,4 @@
-Nosema bombi SPECIES
-=======
+# Nosema bombi SPECIES
 
 #### Status
 ACCEPTED

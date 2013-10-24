@@ -1,5 +1,4 @@
-Parodiella Spegazzini, 1880 GENUS
-=======
+# Parodiella Spegazzini, 1880 GENUS
 
 #### Status
 ACCEPTED

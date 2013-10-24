@@ -1,5 +1,4 @@
-Ramaria cedretorum (Maire) Malençon SPECIES
-=======
+# Ramaria cedretorum (Maire) Malençon SPECIES
 
 #### Status
 ACCEPTED

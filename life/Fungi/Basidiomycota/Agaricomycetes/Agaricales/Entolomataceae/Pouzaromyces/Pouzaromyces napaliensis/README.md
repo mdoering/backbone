@@ -1,5 +1,4 @@
-Pouzaromyces napaliensis Desjardin & T.J. Baroni SPECIES
-=======
+# Pouzaromyces napaliensis Desjardin & T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

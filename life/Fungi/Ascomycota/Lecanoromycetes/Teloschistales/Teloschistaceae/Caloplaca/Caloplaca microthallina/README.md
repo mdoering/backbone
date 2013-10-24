@@ -1,17 +1,16 @@
-Placodium obliterascens (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca microthallina (Wedd.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. natn. Sci. nat. math. Cherbourg 19: 276 (1875)
 
 #### Original name
-Lecanora obliterascens Nyl.
+Caloplaca microthallina (Wedd.) Zahlbr.
 
 ### Remarks
 null

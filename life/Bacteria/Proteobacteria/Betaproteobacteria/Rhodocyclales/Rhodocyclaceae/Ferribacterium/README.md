@@ -1,5 +1,4 @@
-Ferribacterium Cummings et al., 2000 GENUS
-=======
+# Ferribacterium Cummings et al., 2000 GENUS
 
 #### Status
 ACCEPTED

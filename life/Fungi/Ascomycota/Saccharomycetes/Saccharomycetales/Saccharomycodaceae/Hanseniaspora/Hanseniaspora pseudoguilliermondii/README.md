@@ -1,5 +1,4 @@
-Hanseniaspora pseudoguilliermondii Cadez, Raspor & M.T. Sm., 2006 SPECIES
-=======
+# Hanseniaspora pseudoguilliermondii Cadez, Raspor & M.T. Sm., 2006 SPECIES
 
 #### Status
 ACCEPTED

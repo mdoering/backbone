@@ -1,5 +1,4 @@
-Stilbum capillamentosum Preuss SPECIES
-=======
+# Stilbum capillamentosum Preuss SPECIES
 
 #### Status
 ACCEPTED

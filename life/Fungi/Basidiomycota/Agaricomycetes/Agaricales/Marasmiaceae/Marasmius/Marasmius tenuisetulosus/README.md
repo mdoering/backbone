@@ -1,5 +1,4 @@
-Marasmius tenuisetulosus (Singer) Singer SPECIES
-=======
+# Marasmius tenuisetulosus (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

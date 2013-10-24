@@ -1,5 +1,4 @@
-Aposphaeria hysterella Sacc. SPECIES
-=======
+# Aposphaeria hysterella Sacc. SPECIES
 
 #### Status
 ACCEPTED

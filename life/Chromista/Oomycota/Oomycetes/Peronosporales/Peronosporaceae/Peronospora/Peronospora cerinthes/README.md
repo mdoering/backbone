@@ -1,17 +1,16 @@
-Peronospora cerinthe Uljan. SPECIES
-=======
+# Peronospora cerinthes Uljan. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Jaczewski & Jaczewski, Opredelitel' Gribov. Sovershennye Griby (Diploidnye Stadii). Vol. <b>I</b> <i>Fikomitsety</i> (Moscow) 129 (1931)
 
 #### Original name
-Peronospora cerinthe Uljan.
+Peronospora cerinthes Uljan.
 
 ### Remarks
 null

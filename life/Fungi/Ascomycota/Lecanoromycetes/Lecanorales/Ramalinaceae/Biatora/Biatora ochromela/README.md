@@ -1,5 +1,4 @@
-Biatora ochromela Hepp SPECIES
-=======
+# Biatora ochromela Hepp SPECIES
 
 #### Status
 ACCEPTED

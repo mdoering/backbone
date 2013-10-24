@@ -1,5 +1,4 @@
-Patellaria nigrofusca Müll. Arg. SPECIES
-=======
+# Patellaria nigrofusca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

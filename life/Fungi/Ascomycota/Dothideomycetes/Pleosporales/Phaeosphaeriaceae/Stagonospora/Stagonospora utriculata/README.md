@@ -1,5 +1,4 @@
-Stagonospora utriculata Allesch. SPECIES
-=======
+# Stagonospora utriculata Allesch. SPECIES
 
 #### Status
 ACCEPTED

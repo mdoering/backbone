@@ -1,5 +1,4 @@
-Phoma scleroticola Pat. & Gaillard SPECIES
-=======
+# Phoma scleroticola Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

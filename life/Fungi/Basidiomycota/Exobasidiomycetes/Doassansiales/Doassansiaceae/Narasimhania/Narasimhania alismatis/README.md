@@ -1,17 +1,16 @@
-Narasimhania alismalis Pavgi & Thirum. SPECIES
-=======
+# Narasimhania alismatis Pavgi & Thirum., 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 6(5-6): 390 (1952)
 
 #### Original name
-Narasimhania alismalis Pavgi & Thirum.
+Narasimhania alismatis Pavgi & Thirum., 1952
 
 ### Remarks
 null

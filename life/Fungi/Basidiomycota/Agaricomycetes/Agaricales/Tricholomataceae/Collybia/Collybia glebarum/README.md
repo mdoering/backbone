@@ -1,5 +1,4 @@
-Collybia glebarum (Berk.) Sacc. & Traverso SPECIES
-=======
+# Collybia glebarum (Berk.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

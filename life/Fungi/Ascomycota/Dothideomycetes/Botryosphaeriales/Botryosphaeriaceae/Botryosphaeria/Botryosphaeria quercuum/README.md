@@ -1,17 +1,16 @@
-Botryosphaeria quercuum var. quercuum VARIETY
-=======
+# Botryosphaeria quercuum (Schwein.) Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 1: 456 (1882)
 
 #### Original name
-Botryosphaeria quercuum var. quercuum
+Sphaeria quercuum Schwein., 1822
 
 ### Remarks
 null

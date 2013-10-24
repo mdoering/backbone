@@ -1,11 +1,10 @@
-Ascocyclus magnusii Sauvageau SPECIES
-=======
+# Myrionema magnusii Sauvageau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Integrated Taxonomic Information System
 
 #### Published in
 null

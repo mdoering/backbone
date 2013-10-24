@@ -1,5 +1,4 @@
-Rickia encymonalis Thaxt. SPECIES
-=======
+# Rickia encymonalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

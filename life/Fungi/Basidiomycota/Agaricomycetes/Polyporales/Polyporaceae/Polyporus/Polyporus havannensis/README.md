@@ -1,5 +1,4 @@
-Polyporus havannensis Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus havannensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

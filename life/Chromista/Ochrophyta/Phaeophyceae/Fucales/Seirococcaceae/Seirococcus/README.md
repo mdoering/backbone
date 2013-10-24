@@ -1,5 +1,4 @@
-Seirococcus Greville, 1830 GENUS
-=======
+# Seirococcus Greville, 1830 GENUS
 
 #### Status
 ACCEPTED

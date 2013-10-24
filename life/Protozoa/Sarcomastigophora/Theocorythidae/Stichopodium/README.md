@@ -1,5 +1,4 @@
-Stichopodium Haeckel, 1881 GENUS
-=======
+# Stichopodium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

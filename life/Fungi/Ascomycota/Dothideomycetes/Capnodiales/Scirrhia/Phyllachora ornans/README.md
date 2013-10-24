@@ -1,5 +1,4 @@
-Phyllachora ornans (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora ornans (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

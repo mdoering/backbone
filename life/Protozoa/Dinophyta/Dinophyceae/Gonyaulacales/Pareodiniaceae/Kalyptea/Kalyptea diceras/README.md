@@ -1,5 +1,4 @@
-Kalyptea diceras Cookson & Eisenack SPECIES
-=======
+# Kalyptea diceras Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

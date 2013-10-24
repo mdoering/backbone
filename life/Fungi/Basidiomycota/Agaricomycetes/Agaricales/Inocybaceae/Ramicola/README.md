@@ -1,5 +1,4 @@
-Ramicola GENUS
-=======
+# Ramicola GENUS
 
 #### Status
 ACCEPTED

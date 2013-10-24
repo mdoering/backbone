@@ -1,5 +1,4 @@
-Pleurobasidium G. Arnaud GENUS
-=======
+# Pleurobasidium G. Arnaud GENUS
 
 #### Status
 ACCEPTED

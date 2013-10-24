@@ -1,5 +1,4 @@
-Palaeosordaria lagena Sahni & H.S. Rao SPECIES
-=======
+# Palaeosordaria lagena Sahni & H.S. Rao SPECIES
 
 #### Status
 ACCEPTED

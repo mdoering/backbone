@@ -1,5 +1,4 @@
-Dothidella janus (Berk. & M.A. Curtis) Höhn. SPECIES
-=======
+# Dothidella janus (Berk. & M.A. Curtis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Codonomonas van Goor, 1925 GENUS
-=======
+# Codonomonas van Goor, 1925 GENUS
 
 #### Status
 ACCEPTED

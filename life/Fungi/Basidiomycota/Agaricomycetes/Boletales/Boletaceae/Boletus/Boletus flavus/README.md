@@ -1,14 +1,13 @@
-Boletus elegans var. flavus (With.) Rea, 1922 VARIETY
-=======
+# Boletus flavus With., 1796 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. basidiomyc. (Cambridge) 559 (1922)
+Hort. Veron. Pl. Nov. (1816)
 
 #### Original name
 Boletus flavus With., 1796

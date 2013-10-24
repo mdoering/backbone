@@ -1,14 +1,13 @@
-Laccaria pruinosispes (Vellinga) Pázmány SPECIES
-=======
+# Laccaria pruinosipes (Vellinga) Pázmány SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Z. Mykol. 60(1): 8 (1994)
 
 #### Original name
 Laccaria laccata var. pruinosipes Vellinga

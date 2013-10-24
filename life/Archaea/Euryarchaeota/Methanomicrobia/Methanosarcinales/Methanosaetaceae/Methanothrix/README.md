@@ -1,5 +1,4 @@
-Methanothrix Huser et al., 1983 GENUS
-=======
+# Methanothrix Huser et al., 1983 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora illinoensis Barthol. SPECIES
-=======
+# Cercospora illinoensis Barthol. SPECIES
 
 #### Status
 ACCEPTED

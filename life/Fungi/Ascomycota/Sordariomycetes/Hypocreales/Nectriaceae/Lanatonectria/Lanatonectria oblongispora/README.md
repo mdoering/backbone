@@ -1,5 +1,4 @@
-Lanatonectria oblongispora Y. Nong & W.Y. Zhuang SPECIES
-=======
+# Lanatonectria oblongispora Y. Nong & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peziza ferruginea var. ferruginea VARIETY
-=======
+# Peziza ferruginea Pers. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Mycol. eur. (Erlanga) 1: 274 (1822)
 
 #### Original name
-null
+Peziza ferruginea Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia iostephanes Dietel & Holw. SPECIES
-=======
+# Puccinia iostephanes Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

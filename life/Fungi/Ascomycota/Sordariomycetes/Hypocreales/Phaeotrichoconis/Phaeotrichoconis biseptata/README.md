@@ -1,5 +1,4 @@
-Phaeotrichoconis biseptata U. Braun SPECIES
-=======
+# Phaeotrichoconis biseptata U. Braun SPECIES
 
 #### Status
 ACCEPTED

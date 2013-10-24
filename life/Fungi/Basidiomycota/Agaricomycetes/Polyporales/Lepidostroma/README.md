@@ -1,5 +1,4 @@
-Lepidostroma Mägd. & S. Winkl. GENUS
-=======
+# Lepidostroma Mägd. & S. Winkl. GENUS
 
 #### Status
 ACCEPTED

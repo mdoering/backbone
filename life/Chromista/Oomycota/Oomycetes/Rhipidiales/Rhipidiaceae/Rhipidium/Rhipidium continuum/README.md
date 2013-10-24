@@ -1,5 +1,4 @@
-Rhipidium continuum Cornu SPECIES
-=======
+# Rhipidium continuum Cornu SPECIES
 
 #### Status
 ACCEPTED

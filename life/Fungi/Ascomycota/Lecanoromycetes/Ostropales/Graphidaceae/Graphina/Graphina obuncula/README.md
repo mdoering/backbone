@@ -1,5 +1,4 @@
-Graphina obuncula (Kremp.) Müll. Arg. SPECIES
-=======
+# Graphina obuncula (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

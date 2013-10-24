@@ -1,5 +1,4 @@
-Schuttiella GENUS
-=======
+# Schuttiella GENUS
 
 #### Status
 ACCEPTED

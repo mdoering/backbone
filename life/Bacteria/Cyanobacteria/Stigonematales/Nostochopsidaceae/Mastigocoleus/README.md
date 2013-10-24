@@ -1,5 +1,4 @@
-Mastigocoleus Lagerheim ex Bornet & Flahault, 1886 GENUS
-=======
+# Mastigocoleus Lagerheim ex Bornet & Flahault, 1886 GENUS
 
 #### Status
 ACCEPTED

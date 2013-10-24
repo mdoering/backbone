@@ -1,5 +1,4 @@
-Sirosporium morindinum Kamal, B. Rai & Morgan-Jones SPECIES
-=======
+# Sirosporium morindinum Kamal, B. Rai & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria subvirescens Velen. SPECIES
-=======
+# Humaria subvirescens Velen. SPECIES
 
 #### Status
 ACCEPTED

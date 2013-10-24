@@ -1,14 +1,13 @@
-Ctenomyces eriotrephon (Papeg.) Nann., 1934 SPECIES
-=======
+# Trichophyton eriotrephon Papeg., 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trattato di Micopatologia Umana (Firenze) 4: 146 (1934)
+null
 
 #### Original name
 Trichophyton eriotrephon Papeg., 1925

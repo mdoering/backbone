@@ -1,5 +1,4 @@
-Rhabdospora knautiae I.E. Brezhnev SPECIES
-=======
+# Rhabdospora knautiae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

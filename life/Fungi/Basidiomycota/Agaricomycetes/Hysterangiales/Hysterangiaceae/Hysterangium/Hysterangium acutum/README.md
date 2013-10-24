@@ -1,5 +1,4 @@
-Hysterangium acutum Schumach. SPECIES
-=======
+# Hysterangium acutum Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhopalogaster transversarius (Bosc) J.R. Johnst., 1902 SPECIES
-=======
+# Rhopalogaster transversarius (Bosc) J.R. Johnst., 1902 SPECIES
 
 #### Status
 ACCEPTED

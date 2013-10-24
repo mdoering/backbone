@@ -1,5 +1,4 @@
-Panus convivalis Corner SPECIES
-=======
+# Panus convivalis Corner SPECIES
 
 #### Status
 ACCEPTED

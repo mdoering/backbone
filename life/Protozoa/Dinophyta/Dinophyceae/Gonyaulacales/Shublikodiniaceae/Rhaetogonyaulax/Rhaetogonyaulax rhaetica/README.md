@@ -1,5 +1,4 @@
-Rhaetogonyaulax rhaetica (Sarjeant, 1963) Loeblich & Loeblich, 1968 SPECIES
-=======
+# Rhaetogonyaulax rhaetica (Sarjeant, 1963) Loeblich & Loeblich, 1968 SPECIES
 
 #### Status
 ACCEPTED

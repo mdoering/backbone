@@ -1,5 +1,4 @@
-Phoma culmicola Schwein. SPECIES
-=======
+# Phoma culmicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

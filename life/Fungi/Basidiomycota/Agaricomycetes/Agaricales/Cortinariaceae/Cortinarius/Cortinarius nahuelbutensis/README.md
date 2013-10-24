@@ -1,5 +1,4 @@
-Cortinarius nahuelbutensis (Garrido) E. Valenz. & G. Moreno SPECIES
-=======
+# Cortinarius nahuelbutensis (Garrido) E. Valenz. & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

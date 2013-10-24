@@ -1,5 +1,4 @@
-Agaricus araneosus var. araneosus VARIETY
-=======
+# Agaricus araneosus Schumach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 319 (1803)
 
 #### Original name
-Agaricus araneosus var. araneosus
+Agaricus araneosus Schumach.
 
 ### Remarks
 null

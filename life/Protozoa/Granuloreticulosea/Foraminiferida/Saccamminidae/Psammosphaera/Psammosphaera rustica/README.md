@@ -1,5 +1,4 @@
-Psammosphaera rustica SPECIES
-=======
+# Psammosphaera rustica SPECIES
 
 #### Status
 ACCEPTED

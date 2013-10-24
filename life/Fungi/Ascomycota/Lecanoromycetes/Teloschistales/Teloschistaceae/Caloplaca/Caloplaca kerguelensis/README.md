@@ -1,5 +1,4 @@
-Caloplaca kerguelensis B. de Lesd. SPECIES
-=======
+# Caloplaca kerguelensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multientactinia Won, 1997 GENUS
-=======
+# Multientactinia Won, 1997 GENUS
 
 #### Status
 ACCEPTED

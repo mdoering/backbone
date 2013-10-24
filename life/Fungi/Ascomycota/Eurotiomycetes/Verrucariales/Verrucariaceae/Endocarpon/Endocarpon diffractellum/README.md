@@ -1,5 +1,4 @@
-Endocarpon diffractellum (Nyl.) Gueidan & Cl. Roux SPECIES
-=======
+# Endocarpon diffractellum (Nyl.) Gueidan & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trihyphites fractus (Z.C. Song & Liu Cao) Kalgutkar & Janson. SPECIES
-=======
+# Trihyphites fractus (Z.C. Song & Liu Cao) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

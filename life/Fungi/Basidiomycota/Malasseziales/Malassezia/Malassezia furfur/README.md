@@ -1,17 +1,16 @@
-Microsporon furfur C.P. Robin SPECIES
-=======
+# Malassezia furfur (C.P. Robin) Baill., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Traité Bot. Méd. Crypt. 234 (1889)
 
 #### Original name
-null
+Microsporum furfur C.P. Robin, 1853
 
 ### Remarks
 null

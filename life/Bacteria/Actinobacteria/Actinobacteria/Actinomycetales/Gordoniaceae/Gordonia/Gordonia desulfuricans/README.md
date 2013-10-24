@@ -1,5 +1,4 @@
-Gordonia desulfuricans Kim et al., 1999 SPECIES
-=======
+# Gordonia desulfuricans Kim et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca declarata (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca declarata (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

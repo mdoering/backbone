@@ -1,5 +1,4 @@
-Verrucaria dermatoidea Servít SPECIES
-=======
+# Verrucaria dermatoidea Servít SPECIES
 
 #### Status
 ACCEPTED

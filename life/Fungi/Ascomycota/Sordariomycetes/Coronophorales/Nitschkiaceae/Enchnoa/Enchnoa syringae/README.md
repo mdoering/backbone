@@ -1,5 +1,4 @@
-Enchnoa syringae Feltgen SPECIES
-=======
+# Enchnoa syringae Feltgen SPECIES
 
 #### Status
 ACCEPTED

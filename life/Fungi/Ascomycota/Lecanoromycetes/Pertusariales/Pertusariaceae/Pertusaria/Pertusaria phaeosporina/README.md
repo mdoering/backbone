@@ -1,5 +1,4 @@
-Pertusaria phaeosporina Zahlbr. SPECIES
-=======
+# Pertusaria phaeosporina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

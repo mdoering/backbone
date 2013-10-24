@@ -1,5 +1,4 @@
-Eupezizella GENUS
-=======
+# Eupezizella GENUS
 
 #### Status
 ACCEPTED

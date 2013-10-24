@@ -1,5 +1,4 @@
-Phyllosticta stenotaphri Thüm. SPECIES
-=======
+# Phyllosticta stenotaphri Thüm. SPECIES
 
 #### Status
 ACCEPTED

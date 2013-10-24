@@ -1,5 +1,4 @@
-Sticta dictyota Stirt. SPECIES
-=======
+# Sticta dictyota Stirt. SPECIES
 
 #### Status
 ACCEPTED

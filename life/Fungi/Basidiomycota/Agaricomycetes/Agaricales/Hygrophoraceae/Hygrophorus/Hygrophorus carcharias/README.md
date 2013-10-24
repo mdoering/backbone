@@ -1,5 +1,4 @@
-Hygrophorus carcharias E. Horak, 1973 SPECIES
-=======
+# Hygrophorus carcharias E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

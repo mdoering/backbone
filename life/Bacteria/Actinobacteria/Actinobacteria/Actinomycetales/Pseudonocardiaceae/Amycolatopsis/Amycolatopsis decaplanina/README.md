@@ -1,5 +1,4 @@
-Amycolatopsis decaplanina Wink et al., 2004 SPECIES
-=======
+# Amycolatopsis decaplanina Wink et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

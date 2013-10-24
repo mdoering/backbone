@@ -1,5 +1,4 @@
-Sporotrichum cinereovirens (Kunze & J.C. Schmidt) Fr. SPECIES
-=======
+# Sporotrichum cinereovirens (Kunze & J.C. Schmidt) Fr. SPECIES
 
 #### Status
 ACCEPTED

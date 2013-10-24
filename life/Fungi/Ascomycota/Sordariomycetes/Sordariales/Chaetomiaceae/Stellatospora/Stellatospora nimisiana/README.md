@@ -1,5 +1,4 @@
-Stellatospora nimisiana Calat. & Barreno SPECIES
-=======
+# Stellatospora nimisiana Calat. & Barreno SPECIES
 
 #### Status
 ACCEPTED

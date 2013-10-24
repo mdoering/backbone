@@ -1,5 +1,4 @@
-Usnea nexilis Motyka SPECIES
-=======
+# Usnea nexilis Motyka SPECIES
 
 #### Status
 ACCEPTED

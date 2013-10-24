@@ -1,5 +1,4 @@
-Neosartorya pseudofischeri S.W. Peterson, 1992 SPECIES
-=======
+# Neosartorya pseudofischeri S.W. Peterson, 1992 SPECIES
 
 #### Status
 ACCEPTED

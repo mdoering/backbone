@@ -1,5 +1,4 @@
-Alternaria gossypii (Jacz.) Y. Nisik., K. Kimura & Miyaw. SPECIES
-=======
+# Alternaria gossypii (Jacz.) Y. Nisik., K. Kimura & Miyaw. SPECIES
 
 #### Status
 ACCEPTED

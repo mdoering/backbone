@@ -1,5 +1,4 @@
-Mycosphaerella gneticola Syd. {?} SPECIES
-=======
+# Mycosphaerella gneticola Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plicaria tropica Rehm SPECIES
-=======
+# Plicaria tropica Rehm SPECIES
 
 #### Status
 ACCEPTED

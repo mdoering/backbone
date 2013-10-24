@@ -1,5 +1,4 @@
-Xylaria luxurians (Rehm) Lloyd SPECIES
-=======
+# Xylaria luxurians (Rehm) Lloyd SPECIES
 
 #### Status
 ACCEPTED

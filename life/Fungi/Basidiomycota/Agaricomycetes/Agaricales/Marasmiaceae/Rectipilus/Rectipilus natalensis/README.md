@@ -1,14 +1,13 @@
-Solenia natalensis W.B. Cooke, 1956 SPECIES
-=======
+# Rectipilus natalensis (W.B. Cooke) Agerer, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bothalia 6: 481 (1956)
+Persoonia 7(3): 425 (1973)
 
 #### Original name
 Solenia natalensis W.B. Cooke, 1956

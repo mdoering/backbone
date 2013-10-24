@@ -1,5 +1,4 @@
-Stereum effusum Berk. SPECIES
-=======
+# Stereum effusum Berk. SPECIES
 
 #### Status
 ACCEPTED

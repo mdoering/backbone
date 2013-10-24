@@ -1,5 +1,4 @@
-Kretzschmaria curvirima J.D. Rogers & Y.M. Ju, 1998 SPECIES
-=======
+# Kretzschmaria curvirima J.D. Rogers & Y.M. Ju, 1998 SPECIES
 
 #### Status
 ACCEPTED

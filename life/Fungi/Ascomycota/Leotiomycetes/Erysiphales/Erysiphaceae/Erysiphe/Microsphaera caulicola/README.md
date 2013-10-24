@@ -1,5 +1,4 @@
-Microsphaera caulicola Petr. SPECIES
-=======
+# Microsphaera caulicola Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Resinicium friabile Hjortstam & Melo, 1997 SPECIES
-=======
+# Resinicium friabile Hjortstam & Melo, 1997 SPECIES
 
 #### Status
 ACCEPTED

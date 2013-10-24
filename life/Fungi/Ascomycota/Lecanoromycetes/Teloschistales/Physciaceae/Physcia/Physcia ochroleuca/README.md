@@ -1,5 +1,4 @@
-Physcia ochroleuca Müll. Arg. SPECIES
-=======
+# Physcia ochroleuca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

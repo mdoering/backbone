@@ -1,5 +1,4 @@
-Calloria trigoniae Rehm SPECIES
-=======
+# Calloria trigoniae Rehm SPECIES
 
 #### Status
 ACCEPTED

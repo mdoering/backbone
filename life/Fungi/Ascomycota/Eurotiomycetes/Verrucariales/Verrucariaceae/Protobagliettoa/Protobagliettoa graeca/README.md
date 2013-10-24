@@ -1,5 +1,4 @@
-Protobagliettoa graeca (Servít) Servít SPECIES
-=======
+# Protobagliettoa graeca (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

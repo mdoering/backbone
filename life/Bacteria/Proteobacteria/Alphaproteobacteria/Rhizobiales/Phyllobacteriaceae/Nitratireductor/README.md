@@ -1,5 +1,4 @@
-Nitratireductor Labbe, Parent & Villemur, 2004 GENUS
-=======
+# Nitratireductor Labbe, Parent & Villemur, 2004 GENUS
 
 #### Status
 ACCEPTED

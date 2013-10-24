@@ -1,5 +1,4 @@
-Trichopeziza relicina (Fr.) Fuckel SPECIES
-=======
+# Trichopeziza relicina (Fr.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

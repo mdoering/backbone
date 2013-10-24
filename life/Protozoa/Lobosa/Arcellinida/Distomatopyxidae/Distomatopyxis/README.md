@@ -1,5 +1,4 @@
-Distomatopyxis Bonnet, 1970 GENUS
-=======
+# Distomatopyxis Bonnet, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium mucosum Speg. SPECIES
-=======
+# Gloeosporium mucosum Speg. SPECIES
 
 #### Status
 ACCEPTED

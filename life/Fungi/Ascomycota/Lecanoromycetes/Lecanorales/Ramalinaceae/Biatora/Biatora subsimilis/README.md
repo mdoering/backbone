@@ -1,5 +1,4 @@
-Biatora subsimilis Hellb. SPECIES
-=======
+# Biatora subsimilis Hellb. SPECIES
 
 #### Status
 ACCEPTED

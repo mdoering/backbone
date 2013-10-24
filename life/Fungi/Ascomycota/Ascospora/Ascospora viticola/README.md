@@ -1,5 +1,4 @@
-Ascospora viticola Nasyrov SPECIES
-=======
+# Ascospora viticola Nasyrov SPECIES
 
 #### Status
 ACCEPTED

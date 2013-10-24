@@ -1,5 +1,4 @@
-Cercospora grisella Peck SPECIES
-=======
+# Cercospora grisella Peck SPECIES
 
 #### Status
 ACCEPTED

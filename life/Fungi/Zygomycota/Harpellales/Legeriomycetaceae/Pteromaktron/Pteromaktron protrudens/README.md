@@ -1,5 +1,4 @@
-Pteromaktron protrudens Whisler, 1963 SPECIES
-=======
+# Pteromaktron protrudens Whisler, 1963 SPECIES
 
 #### Status
 ACCEPTED

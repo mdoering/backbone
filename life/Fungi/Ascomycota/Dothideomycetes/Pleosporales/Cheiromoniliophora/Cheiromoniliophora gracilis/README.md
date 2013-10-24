@@ -1,5 +1,4 @@
-Cheiromoniliophora gracilis R.F. Castañeda, Guarro & Cano SPECIES
-=======
+# Cheiromoniliophora gracilis R.F. Castañeda, Guarro & Cano SPECIES
 
 #### Status
 ACCEPTED

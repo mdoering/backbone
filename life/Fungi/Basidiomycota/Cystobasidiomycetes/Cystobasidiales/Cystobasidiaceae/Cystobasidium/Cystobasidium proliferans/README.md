@@ -1,5 +1,4 @@
-Cystobasidium proliferans L.S. Olive, 1952 SPECIES
-=======
+# Cystobasidium proliferans L.S. Olive, 1952 SPECIES
 
 #### Status
 ACCEPTED

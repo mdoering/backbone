@@ -1,5 +1,4 @@
-Agaricus morulus Berk. SPECIES
-=======
+# Agaricus morulus Berk. SPECIES
 
 #### Status
 ACCEPTED

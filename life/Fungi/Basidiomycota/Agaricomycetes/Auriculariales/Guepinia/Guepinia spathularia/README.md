@@ -1,5 +1,4 @@
-Guepinia spathularia SPECIES
-=======
+# Guepinia spathularia SPECIES
 
 #### Status
 ACCEPTED

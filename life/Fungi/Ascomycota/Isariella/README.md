@@ -1,5 +1,4 @@
-Isariella Henn. GENUS
-=======
+# Isariella Henn. GENUS
 
 #### Status
 ACCEPTED

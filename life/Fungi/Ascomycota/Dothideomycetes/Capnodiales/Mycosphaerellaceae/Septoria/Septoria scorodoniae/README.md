@@ -1,5 +1,4 @@
-Septoria scorodoniae Pass. ex Sacc., 1884 SPECIES
-=======
+# Septoria scorodoniae Pass. ex Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

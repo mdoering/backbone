@@ -1,5 +1,4 @@
-Urceolaria gibbosula (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria gibbosula (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thuemenia wisteriae Rehm SPECIES
-=======
+# Thuemenia wisteriae Rehm SPECIES
 
 #### Status
 ACCEPTED

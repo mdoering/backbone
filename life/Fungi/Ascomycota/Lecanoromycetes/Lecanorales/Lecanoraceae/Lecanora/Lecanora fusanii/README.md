@@ -1,5 +1,4 @@
-Lecanora fusanii Hue SPECIES
-=======
+# Lecanora fusanii Hue SPECIES
 
 #### Status
 ACCEPTED

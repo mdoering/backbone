@@ -1,5 +1,4 @@
-Parmelia quercifolia f. quercifolia FORM
-=======
+# Parmelia quercifolia (Wulfen) Schaer. SPECIES
 
 #### Status
 ACCEPTED

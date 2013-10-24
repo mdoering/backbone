@@ -1,5 +1,4 @@
-Chlorociboria aeruginascens subsp. aeruginascens SUBSPECIES
-=======
+# Chlorociboria aeruginascens (Nyl.) Kanouse ex C.S. Ramamurthi, Korf & L.R. Batra SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycologia 49(6): 858 (1958)
 
 #### Original name
-Chlorociboria aeruginascens subsp. aeruginascens
+Peziza aeruginascens Nyl.
 
 ### Remarks
 null

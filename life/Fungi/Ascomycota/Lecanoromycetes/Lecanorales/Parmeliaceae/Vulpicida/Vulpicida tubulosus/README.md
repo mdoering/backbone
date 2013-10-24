@@ -1,17 +1,16 @@
-Cetraria alvarensis var. alvarensis VARIETY
-=======
+# Vulpicida tubulosus (Schaer.) J.-E. Mattsson & M. J. Lai SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 46: 428 (1993)
 
 #### Original name
-Cetraria alvarensis var. alvarensis
+Cetraria juniperina var. tubulosa Schaer.
 
 ### Remarks
 null

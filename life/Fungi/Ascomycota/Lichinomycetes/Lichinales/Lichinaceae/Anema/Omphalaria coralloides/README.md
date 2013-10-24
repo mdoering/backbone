@@ -1,5 +1,4 @@
-Omphalaria coralloides (A. Massal.) Hepp SPECIES
-=======
+# Omphalaria coralloides (A. Massal.) Hepp SPECIES
 
 #### Status
 ACCEPTED

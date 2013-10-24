@@ -1,5 +1,4 @@
-Mixotricha Sutherland, 1933 GENUS
-=======
+# Mixotricha Sutherland, 1933 GENUS
 
 #### Status
 ACCEPTED

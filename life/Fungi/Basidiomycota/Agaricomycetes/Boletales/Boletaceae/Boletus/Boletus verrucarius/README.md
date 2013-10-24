@@ -1,5 +1,4 @@
-Boletus verrucarius Berk. SPECIES
-=======
+# Boletus verrucarius Berk. SPECIES
 
 #### Status
 ACCEPTED

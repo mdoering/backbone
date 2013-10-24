@@ -1,14 +1,13 @@
-Trochammina atlantica Parker, 1952 SPECIES
-=======
+# Atlantiella atlantica (Parker, 1952) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Parker, F. L. 1952. Foraminifera species off Portsmouth, New Hampshire. Bulletin of the Museum of Comparative Zoology at Harvard College 106 (9), 391-423.
 
 #### Original name
 null

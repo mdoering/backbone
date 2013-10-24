@@ -1,5 +1,4 @@
-Urceolaria pragensis Motyka SPECIES
-=======
+# Urceolaria pragensis Motyka SPECIES
 
 #### Status
 ACCEPTED

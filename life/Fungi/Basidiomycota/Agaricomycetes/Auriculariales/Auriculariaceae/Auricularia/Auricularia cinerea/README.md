@@ -1,5 +1,4 @@
-Auricularia cinerea Sowerby SPECIES
-=======
+# Auricularia cinerea Sowerby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Punctelia roystoneae (Vicente & L. Xavier) Hale ex DePriest & B.W. Hale SPECIES
-=======
+# Punctelia roystoneae (Vicente & L. Xavier) Hale ex DePriest & B.W. Hale SPECIES
 
 #### Status
 ACCEPTED

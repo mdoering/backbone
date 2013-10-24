@@ -1,5 +1,4 @@
-Didymella sorghina Saccas SPECIES
-=======
+# Didymella sorghina Saccas SPECIES
 
 #### Status
 ACCEPTED

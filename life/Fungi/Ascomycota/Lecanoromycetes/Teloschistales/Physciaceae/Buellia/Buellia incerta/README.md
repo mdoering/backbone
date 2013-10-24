@@ -1,5 +1,4 @@
-Buellia incerta (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia incerta (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

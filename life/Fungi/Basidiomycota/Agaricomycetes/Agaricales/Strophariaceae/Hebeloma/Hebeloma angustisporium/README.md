@@ -1,5 +1,4 @@
-Hebeloma angustisporium Hesler SPECIES
-=======
+# Hebeloma angustisporium Hesler SPECIES
 
 #### Status
 ACCEPTED

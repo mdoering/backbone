@@ -1,5 +1,4 @@
-Triramulispora deficiens Matsush. SPECIES
-=======
+# Triramulispora deficiens Matsush. SPECIES
 
 #### Status
 ACCEPTED

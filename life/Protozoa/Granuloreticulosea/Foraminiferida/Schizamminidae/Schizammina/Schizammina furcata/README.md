@@ -1,5 +1,4 @@
-Schizammina furcata Heron-Allen & Earland, 1929 SPECIES
-=======
+# Schizammina furcata Heron-Allen & Earland, 1929 SPECIES
 
 #### Status
 ACCEPTED

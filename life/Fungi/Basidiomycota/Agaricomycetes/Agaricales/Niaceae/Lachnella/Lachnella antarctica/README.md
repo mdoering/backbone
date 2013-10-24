@@ -1,5 +1,4 @@
-Lachnella antarctica Speg. SPECIES
-=======
+# Lachnella antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

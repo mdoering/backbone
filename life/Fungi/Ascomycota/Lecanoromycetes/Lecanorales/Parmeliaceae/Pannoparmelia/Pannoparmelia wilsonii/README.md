@@ -1,17 +1,16 @@
-Anzia angustata var. isidiella (Stirt.) Zahlbr. VARIETY
-=======
+# Pannoparmelia wilsonii (Räsänen) D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 6: 276 (1930)
+N. Z. Jl Bot. 16: 267 (1978)
 
 #### Original name
-Parmelia angustata var. isidiella Stirt.
+Anzia wilsonii Räsänen
 
 ### Remarks
 null

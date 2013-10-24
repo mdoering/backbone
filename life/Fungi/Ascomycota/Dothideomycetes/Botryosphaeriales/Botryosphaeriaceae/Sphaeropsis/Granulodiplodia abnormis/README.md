@@ -1,5 +1,4 @@
-Granulodiplodia abnormis (Traverso & Spessa) Zambett. SPECIES
-=======
+# Granulodiplodia abnormis (Traverso & Spessa) Zambett. SPECIES
 
 #### Status
 ACCEPTED

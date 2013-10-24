@@ -1,5 +1,4 @@
-Phaeopyxis Rambold & Triebel GENUS
-=======
+# Phaeopyxis Rambold & Triebel GENUS
 
 #### Status
 ACCEPTED

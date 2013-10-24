@@ -1,17 +1,16 @@
-Mycoleptodon liubarskyi Pilát SPECIES
-=======
+# Mycoleptodon ljubarskii Pilát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 52(3): 326 (1937)
 
 #### Original name
-Mycoleptodon liubarskyi Pilát
+Mycoleptodon ljubarskii Pilát
 
 ### Remarks
 null

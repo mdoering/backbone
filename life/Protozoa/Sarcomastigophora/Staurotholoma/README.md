@@ -1,5 +1,4 @@
-Staurotholoma Haeckel, 1887 GENUS
-=======
+# Staurotholoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

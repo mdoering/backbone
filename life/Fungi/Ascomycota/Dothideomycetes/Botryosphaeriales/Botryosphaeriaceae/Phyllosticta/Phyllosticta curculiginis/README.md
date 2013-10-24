@@ -1,5 +1,4 @@
-Phyllosticta curculiginis Bond.-Mont. SPECIES
-=======
+# Phyllosticta curculiginis Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

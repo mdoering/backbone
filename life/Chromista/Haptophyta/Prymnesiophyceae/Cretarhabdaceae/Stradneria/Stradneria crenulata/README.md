@@ -1,8 +1,7 @@
-Cretarhabdus crenulatus Bramlette & Martini, 1964 SPECIES
-=======
+# Stradneria crenulata (Bramlette & Martini, 1964) Noël, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

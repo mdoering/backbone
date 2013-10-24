@@ -1,5 +1,4 @@
-Spirillina inequalis SPECIES
-=======
+# Spirillina inequalis SPECIES
 
 #### Status
 ACCEPTED

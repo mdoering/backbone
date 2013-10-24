@@ -1,5 +1,4 @@
-Microthyriella philippinensis Syd. SPECIES
-=======
+# Microthyriella philippinensis Syd. SPECIES
 
 #### Status
 ACCEPTED

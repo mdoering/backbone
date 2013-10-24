@@ -1,5 +1,4 @@
-Aecidium decipiens Syd. & P. Syd. SPECIES
-=======
+# Aecidium decipiens Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

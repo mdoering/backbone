@@ -1,5 +1,4 @@
-Psathyrella rhombispora P.-J. Keizer & Arnolds SPECIES
-=======
+# Psathyrella rhombispora P.-J. Keizer & Arnolds SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia aethalia (Ach.) Th. Fr. SPECIES
-=======
+# Buellia aethalia (Ach.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

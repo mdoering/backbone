@@ -1,5 +1,4 @@
-Chrysotheca Scherffel, 1927 GENUS
-=======
+# Chrysotheca Scherffel, 1927 GENUS
 
 #### Status
 SYNONYM

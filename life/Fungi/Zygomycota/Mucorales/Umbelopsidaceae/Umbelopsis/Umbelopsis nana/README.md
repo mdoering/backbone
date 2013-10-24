@@ -1,17 +1,16 @@
-Mortierella alba Manka & Gierczak, 1961 SPECIES
-=======
+# Umbelopsis nana (Linnem.) Arx, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Práce Komisji Nauk Rolniczych i Komisji Nauk Lesnych 17 (1961)
+Sydowia 35: 20 (1984)
 
 #### Original name
-Mortierella alba Manka & Gierczak, 1961
+Mortierella nana Linnem., 1941
 
 ### Remarks
 null

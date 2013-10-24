@@ -1,5 +1,4 @@
-Cortinarius insignibulbus Bidaud & Moënne-Locc. SPECIES
-=======
+# Cortinarius insignibulbus Bidaud & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

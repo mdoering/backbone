@@ -1,5 +1,4 @@
-Pseudarthopyrenia italica (Servít) Servít SPECIES
-=======
+# Pseudarthopyrenia italica (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

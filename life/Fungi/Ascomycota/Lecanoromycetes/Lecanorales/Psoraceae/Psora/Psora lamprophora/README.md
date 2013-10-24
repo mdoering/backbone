@@ -1,5 +1,4 @@
-Psora lamprophora Körb. SPECIES
-=======
+# Psora lamprophora Körb. SPECIES
 
 #### Status
 ACCEPTED

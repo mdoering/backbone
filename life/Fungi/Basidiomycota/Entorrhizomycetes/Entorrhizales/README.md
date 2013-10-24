@@ -1,5 +1,4 @@
-Entorrhizales R. Bauer & Oberw. ORDER
-=======
+# Entorrhizales R. Bauer & Oberw. ORDER
 
 #### Status
 ACCEPTED

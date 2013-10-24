@@ -1,5 +1,4 @@
-Myriotrema muluense Homchant. & Coppins SPECIES
-=======
+# Myriotrema muluense Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

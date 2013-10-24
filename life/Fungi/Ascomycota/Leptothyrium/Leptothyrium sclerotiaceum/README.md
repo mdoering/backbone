@@ -1,5 +1,4 @@
-Leptothyrium sclerotiaceum Speg. SPECIES
-=======
+# Leptothyrium sclerotiaceum Speg. SPECIES
 
 #### Status
 ACCEPTED

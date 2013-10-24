@@ -1,5 +1,4 @@
-Baltisphaeridium perclarum Loeblich & Tappan, 1978 SPECIES
-=======
+# Baltisphaeridium perclarum Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia lavicola Gyeln. SPECIES
-=======
+# Xanthoparmelia lavicola (Gyeln.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 33: 404 (1988)
 
 #### Original name
-null
+Parmelia lavicola Gyeln.
 
 ### Remarks
 null

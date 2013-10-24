@@ -1,5 +1,4 @@
-Hydnum rigidosquamulosum Henn. SPECIES
-=======
+# Hydnum rigidosquamulosum Henn. SPECIES
 
 #### Status
 ACCEPTED

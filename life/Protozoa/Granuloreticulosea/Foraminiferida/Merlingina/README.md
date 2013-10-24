@@ -1,5 +1,4 @@
-Merlingina Hamaoui & Saint-Marc, 1970 GENUS
-=======
+# Merlingina Hamaoui & Saint-Marc, 1970 GENUS
 
 #### Status
 ACCEPTED

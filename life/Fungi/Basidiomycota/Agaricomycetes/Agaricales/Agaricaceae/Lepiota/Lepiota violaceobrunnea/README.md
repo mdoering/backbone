@@ -1,5 +1,4 @@
-Lepiota violaceobrunnea Kaufman SPECIES
-=======
+# Lepiota violaceobrunnea Kaufman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypetheliopsis gigas (Zahlbr.) Aptroot SPECIES
-=======
+# Trypetheliopsis gigas (Zahlbr.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora dissentanea SPECIES
-=======
+# Lecanora dissentanea SPECIES
 
 #### Status
 ACCEPTED

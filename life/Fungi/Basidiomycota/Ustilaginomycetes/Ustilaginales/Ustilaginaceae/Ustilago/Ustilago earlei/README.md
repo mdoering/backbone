@@ -1,5 +1,4 @@
-Ustilago earlei (Griffiths) Cif. SPECIES
-=======
+# Ustilago earlei (Griffiths) Cif. SPECIES
 
 #### Status
 ACCEPTED

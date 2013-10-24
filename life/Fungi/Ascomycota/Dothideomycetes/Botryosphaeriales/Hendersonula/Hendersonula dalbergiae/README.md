@@ -1,5 +1,4 @@
-Hendersonula dalbergiae S. Ahmad & Arshad SPECIES
-=======
+# Hendersonula dalbergiae S. Ahmad & Arshad SPECIES
 
 #### Status
 ACCEPTED

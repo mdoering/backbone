@@ -1,5 +1,4 @@
-Hymenogaster parksii Zeller & C.W. Dodge SPECIES
-=======
+# Hymenogaster parksii Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota rhytipelta (F. Muell.) Sacc. SPECIES
-=======
+# Lepiota rhytipelta (F. Muell.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

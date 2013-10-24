@@ -1,5 +1,4 @@
-Buedingiisphaeridium pachydermum (Deflandre & Cookson, 1955) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Buedingiisphaeridium pachydermum (Deflandre & Cookson, 1955) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

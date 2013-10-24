@@ -1,5 +1,4 @@
-Diorchidium acanthostephum Syd. & P. Syd. SPECIES
-=======
+# Diorchidium acanthostephum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

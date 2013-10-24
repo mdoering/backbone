@@ -1,5 +1,4 @@
-Metopus intercedens subsp. intercedens Kahl, 1927 SUBSPECIES
-=======
+# Metopus intercedens Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

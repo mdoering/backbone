@@ -1,5 +1,4 @@
-Zoothamnium truncatum SPECIES
-=======
+# Zoothamnium truncatum SPECIES
 
 #### Status
 ACCEPTED

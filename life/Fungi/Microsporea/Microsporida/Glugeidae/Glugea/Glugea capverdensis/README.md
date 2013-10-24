@@ -1,5 +1,4 @@
-Glugea capverdensis Lom, Gaevskaya & Dyková, 1980 SPECIES
-=======
+# Glugea capverdensis Lom, Gaevskaya & Dyková, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium acaciae Trotter, 1916 SPECIES
-=======
+# Coniothyrium acaciae Trotter, 1916 SPECIES
 
 #### Status
 ACCEPTED

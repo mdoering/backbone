@@ -1,5 +1,4 @@
-Thalassiosira symmetrica G.A. Fryxell & Hasle, 1972 SPECIES
-=======
+# Thalassiosira symmetrica G.A. Fryxell & Hasle, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Senoniasphaera rotundata Clarke & Verdier, 1967 SPECIES
-=======
+# Senoniasphaera rotundata Clarke & Verdier, 1967 SPECIES
 
 #### Status
 ACCEPTED

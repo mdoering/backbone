@@ -1,5 +1,4 @@
-Verrucaria incrustata Clemente SPECIES
-=======
+# Verrucaria incrustata Clemente SPECIES
 
 #### Status
 ACCEPTED

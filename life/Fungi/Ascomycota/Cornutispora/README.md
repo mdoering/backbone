@@ -1,5 +1,4 @@
-Cornutispora Piroz. GENUS
-=======
+# Cornutispora Piroz. GENUS
 
 #### Status
 ACCEPTED

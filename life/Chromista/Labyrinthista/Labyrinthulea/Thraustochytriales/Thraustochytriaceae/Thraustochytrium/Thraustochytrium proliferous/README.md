@@ -1,5 +1,4 @@
-Thraustochytrium proliferous Sparrow SPECIES
-=======
+# Thraustochytrium proliferous Sparrow SPECIES
 
 #### Status
 ACCEPTED

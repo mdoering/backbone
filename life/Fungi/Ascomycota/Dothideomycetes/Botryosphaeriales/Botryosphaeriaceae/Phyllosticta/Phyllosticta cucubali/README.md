@@ -1,5 +1,4 @@
-Phyllosticta cucubali Hollós SPECIES
-=======
+# Phyllosticta cucubali Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytisma ulmicola Ettingsh. SPECIES
-=======
+# Rhytisma ulmicola Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

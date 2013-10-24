@@ -1,5 +1,4 @@
-Collybia mucubajiensis Dennis SPECIES
-=======
+# Collybia mucubajiensis Dennis SPECIES
 
 #### Status
 ACCEPTED

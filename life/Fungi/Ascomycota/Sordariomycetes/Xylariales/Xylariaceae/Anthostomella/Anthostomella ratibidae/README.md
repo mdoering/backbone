@@ -1,5 +1,4 @@
-Anthostomella ratibidae Solheim SPECIES
-=======
+# Anthostomella ratibidae Solheim SPECIES
 
 #### Status
 ACCEPTED

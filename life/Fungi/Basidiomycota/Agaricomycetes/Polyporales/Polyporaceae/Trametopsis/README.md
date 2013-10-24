@@ -1,5 +1,4 @@
-Trametopsis Tomsovský, 2008 GENUS
-=======
+# Trametopsis Tomsovský, 2008 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella commixta Bres. SPECIES
-=======
+# Lachnella commixta Bres. SPECIES
 
 #### Status
 ACCEPTED

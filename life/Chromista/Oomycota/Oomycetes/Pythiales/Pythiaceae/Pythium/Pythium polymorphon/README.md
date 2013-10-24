@@ -1,5 +1,4 @@
-Pythium polymorphon Sideris, 1932 SPECIES
-=======
+# Pythium polymorphon Sideris, 1932 SPECIES
 
 #### Status
 ACCEPTED

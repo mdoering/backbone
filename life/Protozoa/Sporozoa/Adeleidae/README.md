@@ -1,5 +1,4 @@
-Adeleidae Mesnil, 1903 FAMILY
-=======
+# Adeleidae Mesnil, 1903 FAMILY
 
 #### Status
 ACCEPTED

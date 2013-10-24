@@ -1,5 +1,4 @@
-Dicheirinia canariensis Urries, 1954 SPECIES
-=======
+# Dicheirinia canariensis Urries, 1954 SPECIES
 
 #### Status
 ACCEPTED

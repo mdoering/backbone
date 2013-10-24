@@ -1,5 +1,4 @@
-Torrentispora crassiparietis Fryar & K.D. Hyde, 2004 SPECIES
-=======
+# Torrentispora crassiparietis Fryar & K.D. Hyde, 2004 SPECIES
 
 #### Status
 ACCEPTED

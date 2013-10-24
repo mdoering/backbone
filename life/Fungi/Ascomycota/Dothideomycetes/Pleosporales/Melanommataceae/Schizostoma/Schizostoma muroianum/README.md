@@ -1,5 +1,4 @@
-Schizostoma muroianum I. Hino & Katum. SPECIES
-=======
+# Schizostoma muroianum I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

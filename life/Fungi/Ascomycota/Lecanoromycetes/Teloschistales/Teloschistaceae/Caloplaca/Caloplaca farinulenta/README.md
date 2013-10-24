@@ -1,5 +1,4 @@
-Caloplaca farinulenta Werner SPECIES
-=======
+# Caloplaca farinulenta Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora rhinanthi Naumov SPECIES
-=======
+# Pleospora rhinanthi Naumov SPECIES
 
 #### Status
 ACCEPTED

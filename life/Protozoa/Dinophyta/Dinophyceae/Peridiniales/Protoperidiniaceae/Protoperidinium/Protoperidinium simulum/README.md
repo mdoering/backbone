@@ -1,5 +1,4 @@
-Protoperidinium simulum (Paulsen) Balech SPECIES
-=======
+# Protoperidinium simulum (Paulsen) Balech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Evolvocassidulina orientalis (Cushman, 1922) SPECIES
-=======
+# Evolvocassidulina orientalis (Cushman, 1922) SPECIES
 
 #### Status
 ACCEPTED

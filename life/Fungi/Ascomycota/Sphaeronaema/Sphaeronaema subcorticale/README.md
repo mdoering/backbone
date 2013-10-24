@@ -1,5 +1,4 @@
-Sphaeronaema subcorticale Cooke & Ellis SPECIES
-=======
+# Sphaeronaema subcorticale Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

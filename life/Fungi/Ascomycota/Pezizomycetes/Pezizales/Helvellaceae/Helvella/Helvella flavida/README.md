@@ -1,5 +1,4 @@
-Helvella flavida Velen. SPECIES
-=======
+# Helvella flavida Velen. SPECIES
 
 #### Status
 ACCEPTED

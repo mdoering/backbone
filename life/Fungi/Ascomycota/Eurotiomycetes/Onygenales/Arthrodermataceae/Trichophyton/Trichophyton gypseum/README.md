@@ -1,5 +1,4 @@
-Trichophyton gypseum var. gypseum VARIETY
-=======
+# Trichophyton gypseum E. Bodin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichophyton gypseum var. gypseum
+Trichophyton gypseum E. Bodin
 
 ### Remarks
 null

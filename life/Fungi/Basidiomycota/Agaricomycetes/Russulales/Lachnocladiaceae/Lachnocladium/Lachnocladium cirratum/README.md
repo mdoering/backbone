@@ -1,5 +1,4 @@
-Lachnocladium cirratum Pat. SPECIES
-=======
+# Lachnocladium cirratum Pat. SPECIES
 
 #### Status
 ACCEPTED

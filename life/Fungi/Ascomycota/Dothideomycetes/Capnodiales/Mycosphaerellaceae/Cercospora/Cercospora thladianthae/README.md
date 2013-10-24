@@ -1,5 +1,4 @@
-Cercospora thladianthae Sawada SPECIES
-=======
+# Cercospora thladianthae Sawada SPECIES
 
 #### Status
 ACCEPTED

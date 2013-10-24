@@ -1,8 +1,7 @@
-Enterocystis yumushii Iitsuka, 1933 SPECIES
-=======
+# Echiurocystis yumushii Iitsuka, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

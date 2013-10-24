@@ -1,14 +1,13 @@
-Heteronema globiferum (Ehrenberg) SPECIES
-=======
+# Heteronema globuliferum (Ehrenberg) Stein, 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Stein, F. von (1878). Der Organismus der Infusionsthiere. III. Flagellaten I. pp. 1-154. Leipzig: Engelmann.
 
 #### Original name
 null

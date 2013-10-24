@@ -1,5 +1,4 @@
-Glycyphila Montagne, 1851 GENUS
-=======
+# Glycyphila Montagne, 1851 GENUS
 
 #### Status
 ACCEPTED

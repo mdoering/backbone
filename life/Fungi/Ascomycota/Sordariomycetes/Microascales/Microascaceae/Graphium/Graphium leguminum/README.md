@@ -1,5 +1,4 @@
-Graphium leguminum Cooke SPECIES
-=======
+# Graphium leguminum Cooke SPECIES
 
 #### Status
 ACCEPTED

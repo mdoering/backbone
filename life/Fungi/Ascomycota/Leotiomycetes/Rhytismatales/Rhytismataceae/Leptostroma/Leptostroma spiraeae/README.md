@@ -1,14 +1,13 @@
-Thyriostroma spiraeae (Fr.) Died., 1913 SPECIES
-=======
+# Leptostroma spiraeae Fr., 1823 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 599 (1823)
 
 #### Original name
 Leptostroma spiraeae Fr., 1823

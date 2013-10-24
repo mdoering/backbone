@@ -1,5 +1,4 @@
-Cercospora pakistanica S.A. Khan & M. Kamal SPECIES
-=======
+# Cercospora pakistanica S.A. Khan & M. Kamal SPECIES
 
 #### Status
 ACCEPTED

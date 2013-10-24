@@ -1,5 +1,4 @@
-Graphina simplex (Vain.) Zahlbr. SPECIES
-=======
+# Graphina simplex (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

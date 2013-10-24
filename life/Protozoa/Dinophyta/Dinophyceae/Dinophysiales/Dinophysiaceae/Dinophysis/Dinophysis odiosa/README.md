@@ -1,8 +1,7 @@
-Phalacroma odiosum Pavillard SPECIES
-=======
+# Dinophysis odiosa (Pavillard) Tai & Skogsberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

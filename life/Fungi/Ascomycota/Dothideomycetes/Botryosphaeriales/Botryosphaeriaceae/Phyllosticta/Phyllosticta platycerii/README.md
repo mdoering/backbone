@@ -1,5 +1,4 @@
-Phyllosticta platycerii (Tassi) Allesch. SPECIES
-=======
+# Phyllosticta platycerii (Tassi) Allesch. SPECIES
 
 #### Status
 ACCEPTED

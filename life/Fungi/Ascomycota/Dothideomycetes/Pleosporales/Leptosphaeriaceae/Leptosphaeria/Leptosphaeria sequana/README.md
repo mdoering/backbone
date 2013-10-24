@@ -1,5 +1,4 @@
-Leptosphaeria sequana A.L. Guyot SPECIES
-=======
+# Leptosphaeria sequana A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

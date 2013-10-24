@@ -1,5 +1,4 @@
-Parmotrema hypermaculatum Marcelli, Benatti & Elix SPECIES
-=======
+# Parmotrema hypermaculatum Marcelli, Benatti & Elix SPECIES
 
 #### Status
 ACCEPTED

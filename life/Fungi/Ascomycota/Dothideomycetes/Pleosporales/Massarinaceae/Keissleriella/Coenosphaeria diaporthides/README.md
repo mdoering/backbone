@@ -1,5 +1,4 @@
-Coenosphaeria diaporthides Munk SPECIES
-=======
+# Coenosphaeria diaporthides Munk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe lohjaensis Harmaja SPECIES
-=======
+# Clitocybe lohjaensis Harmaja SPECIES
 
 #### Status
 ACCEPTED

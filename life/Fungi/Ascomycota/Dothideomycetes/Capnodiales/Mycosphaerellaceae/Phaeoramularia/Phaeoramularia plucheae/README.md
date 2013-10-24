@@ -1,5 +1,4 @@
-Phaeoramularia plucheae (Petr. & Cif.) Deighton SPECIES
-=======
+# Phaeoramularia plucheae (Petr. & Cif.) Deighton SPECIES
 
 #### Status
 ACCEPTED

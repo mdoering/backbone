@@ -1,5 +1,4 @@
-Globuloviridae FAMILY
-=======
+# Globuloviridae FAMILY
 
 #### Status
 ACCEPTED

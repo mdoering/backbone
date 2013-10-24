@@ -1,5 +1,4 @@
-Stichopsora GENUS
-=======
+# Stichopsora GENUS
 
 #### Status
 ACCEPTED

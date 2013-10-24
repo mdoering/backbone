@@ -1,5 +1,4 @@
-Halorubrum ezzemoulense Kharroub et al., 2006 SPECIES
-=======
+# Halorubrum ezzemoulense Kharroub et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peritrachelina ornata Deflandre, 1952 SPECIES
-=======
+# Peritrachelina ornata Deflandre, 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroococcus subtilissimus Skuja SPECIES
-=======
+# Chroococcus subtilissimus Skuja SPECIES
 
 #### Status
 ACCEPTED

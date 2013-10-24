@@ -1,5 +1,4 @@
-Monochaetia cornicola I. Hino & Katum. SPECIES
-=======
+# Monochaetia cornicola I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula heppii Nägeli SPECIES
-=======
+# Pyrenula heppii Nägeli SPECIES
 
 #### Status
 ACCEPTED

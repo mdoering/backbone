@@ -1,5 +1,4 @@
-Exidia fragilis Olive SPECIES
-=======
+# Exidia fragilis Olive SPECIES
 
 #### Status
 ACCEPTED

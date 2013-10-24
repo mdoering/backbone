@@ -1,5 +1,4 @@
-Chaetocypha variabilis Corda SPECIES
-=======
+# Chaetocypha variabilis Corda SPECIES
 
 #### Status
 ACCEPTED

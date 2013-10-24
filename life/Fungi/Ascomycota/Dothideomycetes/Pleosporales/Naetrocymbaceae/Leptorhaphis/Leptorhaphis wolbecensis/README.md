@@ -1,5 +1,4 @@
-Leptorhaphis wolbecensis J. Lahm SPECIES
-=======
+# Leptorhaphis wolbecensis J. Lahm SPECIES
 
 #### Status
 ACCEPTED

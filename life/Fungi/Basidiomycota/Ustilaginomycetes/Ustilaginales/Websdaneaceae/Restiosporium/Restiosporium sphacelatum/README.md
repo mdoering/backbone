@@ -1,5 +1,4 @@
-Restiosporium sphacelatum Vánky, 2006 SPECIES
-=======
+# Restiosporium sphacelatum Vánky, 2006 SPECIES
 
 #### Status
 ACCEPTED

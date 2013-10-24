@@ -1,5 +1,4 @@
-Seiridium lignicola (Corda) Sacc. SPECIES
-=======
+# Seiridium lignicola (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

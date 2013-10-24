@@ -1,5 +1,4 @@
-Arthrobacter nicotinovorans Kodama et al., 1992 SPECIES
-=======
+# Arthrobacter nicotinovorans Kodama et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

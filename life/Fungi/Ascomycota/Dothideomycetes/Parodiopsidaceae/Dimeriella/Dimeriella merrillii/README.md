@@ -1,5 +1,4 @@
-Dimeriella merrillii (Syd.) Hansf. SPECIES
-=======
+# Dimeriella merrillii (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus fuscofolius Peck SPECIES
-=======
+# Agaricus fuscofolius Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Feltgeniomyces dichotomus Etayo & Calat. SPECIES
-=======
+# Feltgeniomyces dichotomus Etayo & Calat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces hygroscopicus subsp. hygroscopicus SUBSPECIES
-=======
+# Streptomyces hygroscopicus (Jensen, 1931) Waksman & Henrici, 1948 SPECIES
 
 #### Status
 ACCEPTED

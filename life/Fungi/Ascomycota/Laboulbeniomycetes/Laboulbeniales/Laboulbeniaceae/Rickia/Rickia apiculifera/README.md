@@ -1,5 +1,4 @@
-Rickia apiculifera Thaxt. SPECIES
-=======
+# Rickia apiculifera Thaxt. SPECIES
 
 #### Status
 ACCEPTED

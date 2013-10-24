@@ -1,5 +1,4 @@
-Catenospegazzinia Subram. GENUS
-=======
+# Catenospegazzinia Subram. GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phyllosticta patouillardi Sacc. & D. Sacc. SPECIES
-=======
+# Phyllosticta patouillardii Sacc. & D. Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta patouillardi Sacc. & D. Sacc.
+Phyllosticta patouillardii Sacc. & D. Sacc.
 
 ### Remarks
 null

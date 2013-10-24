@@ -1,5 +1,4 @@
-Macropodia fechtneri Velen. SPECIES
-=======
+# Macropodia fechtneri Velen. SPECIES
 
 #### Status
 ACCEPTED

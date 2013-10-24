@@ -1,5 +1,4 @@
-Eupenicillium javanicum var. javanicum VARIETY
-=======
+# Eupenicillium javanicum (van Beyma) Stolk & Scott SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 4(4): 398 (1967)
+null
 
 #### Original name
-Eupenicillium javanicum var. javanicum
+null
 
 ### Remarks
 null

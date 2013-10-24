@@ -1,5 +1,4 @@
-Panellus nidulans (Pers.) SPECIES
-=======
+# Panellus nidulans (Pers.) SPECIES
 
 #### Status
 ACCEPTED

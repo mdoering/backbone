@@ -1,5 +1,4 @@
-Operculites carbonis Newman, 1965 SPECIES
-=======
+# Operculites carbonis Newman, 1965 SPECIES
 
 #### Status
 ACCEPTED

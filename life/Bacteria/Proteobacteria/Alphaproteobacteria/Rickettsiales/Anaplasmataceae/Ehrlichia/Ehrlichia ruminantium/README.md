@@ -1,11 +1,10 @@
-Kurlovia ruminantium (Cowdry, 1925) Zhdanov, 1953 SPECIES
-=======
+# Ehrlichia ruminantium (Cowdry, 1925) Dumler et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

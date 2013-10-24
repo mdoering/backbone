@@ -1,5 +1,4 @@
-Verrucaria ricasolii Garov. SPECIES
-=======
+# Verrucaria ricasolii Garov. SPECIES
 
 #### Status
 ACCEPTED

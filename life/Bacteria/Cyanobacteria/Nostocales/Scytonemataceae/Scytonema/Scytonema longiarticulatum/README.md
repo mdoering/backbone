@@ -1,5 +1,4 @@
-Scytonema longiarticulatum Gardner SPECIES
-=======
+# Scytonema longiarticulatum Gardner SPECIES
 
 #### Status
 ACCEPTED

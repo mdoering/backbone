@@ -1,17 +1,16 @@
-Cladoderris spongiosa f. spongiosa FORM
-=======
+# Cymatoderma elegans Jungh., 1840 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Tijdschr. Nat. Gesch. Physiol. 7: 290 (1840)
 
 #### Original name
-null
+Cymatoderma elegans Jungh., 1840
 
 ### Remarks
 null

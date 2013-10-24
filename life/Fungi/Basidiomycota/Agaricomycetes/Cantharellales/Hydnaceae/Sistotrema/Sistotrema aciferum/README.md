@@ -1,5 +1,4 @@
-Sistotrema aciferum P. Roberts & A. Henrici SPECIES
-=======
+# Sistotrema aciferum P. Roberts & A. Henrici SPECIES
 
 #### Status
 ACCEPTED

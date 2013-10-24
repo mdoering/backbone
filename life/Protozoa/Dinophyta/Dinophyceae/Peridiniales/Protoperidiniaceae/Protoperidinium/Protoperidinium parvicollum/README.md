@@ -1,5 +1,4 @@
-Protoperidinium parvicollum (Balech, 1958) Balech, 1973 SPECIES
-=======
+# Protoperidinium parvicollum (Balech, 1958) Balech, 1973 SPECIES
 
 #### Status
 ACCEPTED

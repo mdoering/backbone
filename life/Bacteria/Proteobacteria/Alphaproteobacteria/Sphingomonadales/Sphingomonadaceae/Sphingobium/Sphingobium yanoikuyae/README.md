@@ -1,8 +1,7 @@
-Sphingomonas yanoikuyae Yabuuchi et al., 1990 SPECIES
-=======
+# Sphingobium yanoikuyae (Yabuuchi et al., 1990) Takeuchi et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

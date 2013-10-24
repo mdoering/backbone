@@ -1,5 +1,4 @@
-Genea vagans Mattir. SPECIES
-=======
+# Genea vagans Mattir. SPECIES
 
 #### Status
 ACCEPTED

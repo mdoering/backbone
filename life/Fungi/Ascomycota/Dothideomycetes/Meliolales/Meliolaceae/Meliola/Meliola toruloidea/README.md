@@ -1,5 +1,4 @@
-Meliola toruloidea F. Stevens SPECIES
-=======
+# Meliola toruloidea F. Stevens SPECIES
 
 #### Status
 ACCEPTED

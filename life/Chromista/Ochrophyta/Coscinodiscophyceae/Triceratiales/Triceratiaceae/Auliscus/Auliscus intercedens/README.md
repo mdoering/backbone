@@ -1,5 +1,4 @@
-Auliscus intercedens C. Janisch SPECIES
-=======
+# Auliscus intercedens C. Janisch SPECIES
 
 #### Status
 ACCEPTED

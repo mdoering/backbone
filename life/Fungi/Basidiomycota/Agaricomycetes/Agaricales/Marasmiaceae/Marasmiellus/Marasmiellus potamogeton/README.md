@@ -1,5 +1,4 @@
-Marasmiellus potamogeton Singer SPECIES
-=======
+# Marasmiellus potamogeton Singer SPECIES
 
 #### Status
 ACCEPTED

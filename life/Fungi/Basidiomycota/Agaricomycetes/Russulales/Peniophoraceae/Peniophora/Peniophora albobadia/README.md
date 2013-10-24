@@ -1,14 +1,13 @@
-Dendrophora albobadia (Schwein.) Chamuris, 1987 SPECIES
-=======
+# Peniophora albobadia (Schwein.) Boidin, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 28(2): 544 (1987)
+Revue Mycol. , Paris 26(3): 164 (1961)
 
 #### Original name
 Thelephora albobadia Schwein., 1822

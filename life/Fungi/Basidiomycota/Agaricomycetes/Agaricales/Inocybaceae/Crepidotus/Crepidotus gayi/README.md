@@ -1,5 +1,4 @@
-Crepidotus gayi Pilát SPECIES
-=======
+# Crepidotus gayi Pilát SPECIES
 
 #### Status
 ACCEPTED

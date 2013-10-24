@@ -1,5 +1,4 @@
-Pseudokephyrion anglica N.Carter SPECIES
-=======
+# Pseudokephyrion anglica N.Carter SPECIES
 
 #### Status
 ACCEPTED

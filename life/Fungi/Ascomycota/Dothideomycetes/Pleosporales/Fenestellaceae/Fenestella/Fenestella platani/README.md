@@ -1,5 +1,4 @@
-Fenestella platani Tavel SPECIES
-=======
+# Fenestella platani Tavel SPECIES
 
 #### Status
 ACCEPTED

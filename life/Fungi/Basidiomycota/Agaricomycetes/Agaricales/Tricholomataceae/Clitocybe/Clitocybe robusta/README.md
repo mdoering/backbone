@@ -1,14 +1,13 @@
-Lepista robusta (Peck) Harmaja, 1976 SPECIES
-=======
+# Clitocybe robusta Peck, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Karstenia 15: 15 (1976)
+Ann. Rep. N. Y. St. Mus. 49: 31 (1897)
 
 #### Original name
 Clitocybe robusta Peck, 1897

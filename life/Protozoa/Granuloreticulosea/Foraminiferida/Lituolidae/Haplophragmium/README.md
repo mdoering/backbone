@@ -1,5 +1,4 @@
-Haplophragmium Reuss, 1860 GENUS
-=======
+# Haplophragmium Reuss, 1860 GENUS
 
 #### Status
 ACCEPTED

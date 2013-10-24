@@ -1,5 +1,4 @@
-Doassansia hemigraphidis B.V. Patil & Thirum. SPECIES
-=======
+# Doassansia hemigraphidis B.V. Patil & Thirum. SPECIES
 
 #### Status
 ACCEPTED

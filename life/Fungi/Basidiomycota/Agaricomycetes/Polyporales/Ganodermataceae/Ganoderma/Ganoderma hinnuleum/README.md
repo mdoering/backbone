@@ -1,5 +1,4 @@
-Ganoderma hinnuleum Steyaert SPECIES
-=======
+# Ganoderma hinnuleum Steyaert SPECIES
 
 #### Status
 ACCEPTED

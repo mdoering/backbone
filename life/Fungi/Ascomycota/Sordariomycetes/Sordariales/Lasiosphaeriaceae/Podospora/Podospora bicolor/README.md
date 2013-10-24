@@ -1,5 +1,4 @@
-Podospora bicolor Cailleux, 1969 SPECIES
-=======
+# Podospora bicolor Cailleux, 1969 SPECIES
 
 #### Status
 ACCEPTED

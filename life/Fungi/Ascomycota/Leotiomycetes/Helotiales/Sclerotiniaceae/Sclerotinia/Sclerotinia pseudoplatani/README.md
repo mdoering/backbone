@@ -1,5 +1,4 @@
-Sclerotinia pseudoplatani Svrcek SPECIES
-=======
+# Sclerotinia pseudoplatani Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolbitius dentatus (L.) Kuntze SPECIES
-=======
+# Bolbitius dentatus (L.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

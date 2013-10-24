@@ -1,5 +1,4 @@
-Placodium subcerinum (Nyl.) Vain. SPECIES
-=======
+# Placodium subcerinum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

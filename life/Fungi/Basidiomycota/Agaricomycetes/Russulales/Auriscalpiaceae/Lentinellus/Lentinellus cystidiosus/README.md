@@ -1,5 +1,4 @@
-Lentinellus cystidiosus R.H. Petersen SPECIES
-=======
+# Lentinellus cystidiosus R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

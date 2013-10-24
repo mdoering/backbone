@@ -1,5 +1,4 @@
-Gloeosporium leptothyrioides Kabát & Bubák SPECIES
-=======
+# Gloeosporium leptothyrioides Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

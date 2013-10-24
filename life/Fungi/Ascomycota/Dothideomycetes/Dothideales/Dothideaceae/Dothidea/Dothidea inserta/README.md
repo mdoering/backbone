@@ -1,5 +1,4 @@
-Dothidea inserta Berk. & M.A. Curtis SPECIES
-=======
+# Dothidea inserta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

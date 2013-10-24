@@ -1,5 +1,4 @@
-Epistylis nympharum subsp. nympharum SUBSPECIES
-=======
+# Epistylis nympharum Engelmann, 1862 SPECIES
 
 #### Status
 ACCEPTED

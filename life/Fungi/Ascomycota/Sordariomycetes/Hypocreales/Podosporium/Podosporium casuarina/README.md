@@ -1,5 +1,4 @@
-Podosporium casuarina Penz. & Sacc. SPECIES
-=======
+# Podosporium casuarina Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

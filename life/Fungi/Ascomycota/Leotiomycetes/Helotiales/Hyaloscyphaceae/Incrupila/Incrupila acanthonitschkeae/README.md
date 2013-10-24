@@ -1,5 +1,4 @@
-Incrupila acanthonitschkeae (E.K. Cash & R.W. Davidson) Raitv. SPECIES
-=======
+# Incrupila acanthonitschkeae (E.K. Cash & R.W. Davidson) Raitv. SPECIES
 
 #### Status
 ACCEPTED

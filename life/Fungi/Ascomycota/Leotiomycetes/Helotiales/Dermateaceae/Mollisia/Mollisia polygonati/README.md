@@ -1,5 +1,4 @@
-Mollisia polygonati Feltgen SPECIES
-=======
+# Mollisia polygonati Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phloeosporina komarowi (Jacq.) Höhn. SPECIES
-=======
+# Phloeosporina komarowi (Jacq.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

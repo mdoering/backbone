@@ -1,5 +1,4 @@
-Pseudolignincola Chatmala & E.B.G. Jones GENUS
-=======
+# Pseudolignincola Chatmala & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

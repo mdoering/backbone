@@ -1,5 +1,4 @@
-Parmelia appendiculata f. appendiculata FORM
-=======
+# Parmelia appendiculata Fée SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia appendiculata f. appendiculata
+Parmelia appendiculata Fée
 
 ### Remarks
 null

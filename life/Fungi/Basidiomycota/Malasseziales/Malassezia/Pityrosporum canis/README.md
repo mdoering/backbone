@@ -1,5 +1,4 @@
-Pityrosporum canis Gustafson SPECIES
-=======
+# Pityrosporum canis Gustafson SPECIES
 
 #### Status
 ACCEPTED

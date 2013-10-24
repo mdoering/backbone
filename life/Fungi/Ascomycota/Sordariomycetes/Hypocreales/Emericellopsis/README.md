@@ -1,17 +1,16 @@
-Peyronellula Malan GENUS
-=======
+# Emericellopsis J.F.H. Beyma GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopath. Mycol. appl. 6: 173 (1952)
+Antonie van Leeuwenhoek Ned. Tijdschr. Hyg. 6: 264 (1940)
 
 #### Original name
-Peyronellula Malan
+Emericellopsis J.F.H. Beyma
 
 ### Remarks
 null

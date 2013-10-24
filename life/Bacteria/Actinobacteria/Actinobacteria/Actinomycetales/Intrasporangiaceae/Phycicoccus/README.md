@@ -1,5 +1,4 @@
-Phycicoccus Lee, 2006 GENUS
-=======
+# Phycicoccus Lee, 2006 GENUS
 
 #### Status
 ACCEPTED

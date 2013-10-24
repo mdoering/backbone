@@ -1,5 +1,4 @@
-Mycena mijoi Grgur. SPECIES
-=======
+# Mycena mijoi Grgur. SPECIES
 
 #### Status
 ACCEPTED

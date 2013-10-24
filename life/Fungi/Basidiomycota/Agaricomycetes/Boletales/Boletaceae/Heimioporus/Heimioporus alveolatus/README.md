@@ -1,14 +1,13 @@
-Heimiella alveolata (R. Heim & Perr.-Bertr.) Watling, 1990 SPECIES
-=======
+# Heimioporus alveolatus (R. Heim & Perr.-Bertr.) E. Horak, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Watling & Hollands, Notes R. bot. Gdn Edinb. 46(3): 420 (1990)
+Sydowia 56(2): 239 (2004)
 
 #### Original name
 Porphyrellus alveolatus R. Heim & Perr.-Bertr., 1964

@@ -1,5 +1,4 @@
-Polyporus maliensis Cooke SPECIES
-=======
+# Polyporus maliensis Cooke SPECIES
 
 #### Status
 ACCEPTED

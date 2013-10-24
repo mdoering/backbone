@@ -1,5 +1,4 @@
-Tetraploa divergens Tracy & Earle SPECIES
-=======
+# Tetraploa divergens Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

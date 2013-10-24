@@ -1,5 +1,4 @@
-Pseudocyphellaria latiloba C.W. Dodge SPECIES
-=======
+# Pseudocyphellaria latiloba C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

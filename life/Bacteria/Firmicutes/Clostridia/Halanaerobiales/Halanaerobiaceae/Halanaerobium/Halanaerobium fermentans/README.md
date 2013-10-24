@@ -1,5 +1,4 @@
-Halanaerobium fermentans Kobayashi et al., 2000 SPECIES
-=======
+# Halanaerobium fermentans Kobayashi et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orostaurs GENUS
-=======
+# Orostaurs GENUS
 
 #### Status
 ACCEPTED

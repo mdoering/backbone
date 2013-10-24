@@ -1,5 +1,4 @@
-Ascochyta ricinella Sacc. & Scalia SPECIES
-=======
+# Ascochyta ricinella Sacc. & Scalia SPECIES
 
 #### Status
 ACCEPTED

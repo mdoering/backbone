@@ -1,5 +1,4 @@
-Lecidea subpaupercula Mas. Inoue SPECIES
-=======
+# Lecidea subpaupercula Mas. Inoue SPECIES
 
 #### Status
 ACCEPTED

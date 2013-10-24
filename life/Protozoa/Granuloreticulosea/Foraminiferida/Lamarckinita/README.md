@@ -1,17 +1,16 @@
-Ruttenella Keyzer, 1953 GENUS
-=======
+# Lamarckinita Keyzer, 1955 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Leid. Geol. Meded. , 17, 279.
+Contr. Cush. Fdn. , 6, 119.
 
 #### Original name
-null
+Ruttenella Keyzer, 1953
 
 ### Remarks
 null

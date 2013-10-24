@@ -1,5 +1,4 @@
-Helminthosporium ellipsoidale Renault & Roche SPECIES
-=======
+# Helminthosporium ellipsoidale Renault & Roche SPECIES
 
 #### Status
 ACCEPTED

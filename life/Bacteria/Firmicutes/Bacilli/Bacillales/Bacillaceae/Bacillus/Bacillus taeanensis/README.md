@@ -1,5 +1,4 @@
-Bacillus taeanensis Lim, Jeon & Kim, 2006 SPECIES
-=======
+# Bacillus taeanensis Lim, Jeon & Kim, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis obliqua (Cooke) SPECIES
-=======
+# Botrytis obliqua (Cooke) SPECIES
 
 #### Status
 ACCEPTED

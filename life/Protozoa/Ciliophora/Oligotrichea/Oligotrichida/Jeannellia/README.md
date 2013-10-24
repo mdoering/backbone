@@ -1,5 +1,4 @@
-Jeannellia Tucolesco, 1962 GENUS
-=======
+# Jeannellia Tucolesco, 1962 GENUS
 
 #### Status
 ACCEPTED

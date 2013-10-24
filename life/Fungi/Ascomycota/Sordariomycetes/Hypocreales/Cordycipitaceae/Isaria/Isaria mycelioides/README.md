@@ -1,5 +1,4 @@
-Isaria mycelioides Lloyd SPECIES
-=======
+# Isaria mycelioides Lloyd SPECIES
 
 #### Status
 ACCEPTED

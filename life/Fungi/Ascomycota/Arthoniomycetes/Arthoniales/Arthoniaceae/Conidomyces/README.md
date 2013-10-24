@@ -1,5 +1,4 @@
-Conidomyces Bat. GENUS
-=======
+# Conidomyces Bat. GENUS
 
 #### Status
 ACCEPTED

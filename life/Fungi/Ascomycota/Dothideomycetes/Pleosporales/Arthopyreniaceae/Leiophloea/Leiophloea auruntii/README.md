@@ -1,5 +1,4 @@
-Leiophloea auruntii (A. Massal.) Trevis. SPECIES
-=======
+# Leiophloea auruntii (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

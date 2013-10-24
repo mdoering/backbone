@@ -1,5 +1,4 @@
-Olpidium diplochytrium (Tomaschek) J. Schröt. SPECIES
-=======
+# Olpidium diplochytrium (Tomaschek) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

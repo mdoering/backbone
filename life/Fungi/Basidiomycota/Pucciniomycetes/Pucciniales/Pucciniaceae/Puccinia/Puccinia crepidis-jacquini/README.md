@@ -1,5 +1,4 @@
-Puccinia crepidis-jacquini P. Cruchet, E. Fisch. & Mayor SPECIES
-=======
+# Puccinia crepidis-jacquini P. Cruchet, E. Fisch. & Mayor SPECIES
 
 #### Status
 ACCEPTED

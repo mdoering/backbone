@@ -1,17 +1,16 @@
-Phaeohelotium samaricolum Svrcek SPECIES
-=======
+# Phaeohelotium samaricola Svrcek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceská Mykol. 37(2): 67 (1983)
 
 #### Original name
-Phaeohelotium samaricolum Svrcek
+Phaeohelotium samaricola Svrcek
 
 ### Remarks
 null

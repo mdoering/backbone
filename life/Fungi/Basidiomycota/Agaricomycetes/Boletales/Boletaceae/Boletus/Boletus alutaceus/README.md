@@ -1,5 +1,4 @@
-Boletus alutaceus var. alutaceus VARIETY
-=======
+# Boletus alutaceus Morgan SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus alutaceus var. alutaceus
+Boletus alutaceus Morgan
 
 ### Remarks
 null

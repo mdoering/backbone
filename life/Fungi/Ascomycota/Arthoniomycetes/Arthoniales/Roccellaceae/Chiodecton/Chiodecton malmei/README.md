@@ -1,5 +1,4 @@
-Chiodecton malmei G. Thor SPECIES
-=======
+# Chiodecton malmei G. Thor SPECIES
 
 #### Status
 ACCEPTED

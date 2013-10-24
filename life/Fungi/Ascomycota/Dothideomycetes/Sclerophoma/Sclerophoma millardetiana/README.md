@@ -1,5 +1,4 @@
-Sclerophoma millardetiana (Sacc. & Roum.) Höhn. SPECIES
-=======
+# Sclerophoma millardetiana (Sacc. & Roum.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora sambucina Ellis & Barthol. SPECIES
-=======
+# Cytospora sambucina Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

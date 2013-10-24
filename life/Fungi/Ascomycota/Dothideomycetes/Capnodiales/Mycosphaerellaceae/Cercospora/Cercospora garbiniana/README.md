@@ -1,5 +1,4 @@
-Cercospora garbiniana C. Massal. SPECIES
-=======
+# Cercospora garbiniana C. Massal. SPECIES
 
 #### Status
 ACCEPTED

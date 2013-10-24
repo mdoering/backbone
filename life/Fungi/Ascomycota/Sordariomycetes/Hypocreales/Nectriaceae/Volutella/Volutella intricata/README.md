@@ -1,5 +1,4 @@
-Volutella intricata P. Karst. SPECIES
-=======
+# Volutella intricata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

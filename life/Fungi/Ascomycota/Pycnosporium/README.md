@@ -1,5 +1,4 @@
-Pycnosporium Siegel GENUS
-=======
+# Pycnosporium Siegel GENUS
 
 #### Status
 ACCEPTED

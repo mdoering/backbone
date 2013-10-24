@@ -1,5 +1,4 @@
-Sawayella Marcus, 1939 GENUS
-=======
+# Sawayella Marcus, 1939 GENUS
 
 #### Status
 ACCEPTED

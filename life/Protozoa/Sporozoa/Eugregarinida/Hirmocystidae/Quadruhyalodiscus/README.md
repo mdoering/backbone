@@ -1,5 +1,4 @@
-Quadruhyalodiscus Kundu & Haldar, 1984 GENUS
-=======
+# Quadruhyalodiscus Kundu & Haldar, 1984 GENUS
 
 #### Status
 ACCEPTED

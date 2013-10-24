@@ -1,5 +1,4 @@
-Schiffnerula nuxiae Hansf. SPECIES
-=======
+# Schiffnerula nuxiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

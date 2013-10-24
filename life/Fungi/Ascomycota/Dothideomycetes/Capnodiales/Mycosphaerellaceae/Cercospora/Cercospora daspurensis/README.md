@@ -1,5 +1,4 @@
-Cercospora daspurensis A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora daspurensis A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

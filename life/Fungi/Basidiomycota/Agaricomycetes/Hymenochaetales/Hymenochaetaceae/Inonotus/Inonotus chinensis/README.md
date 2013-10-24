@@ -1,5 +1,4 @@
-Inonotus chinensis Pilát SPECIES
-=======
+# Inonotus chinensis Pilát SPECIES
 
 #### Status
 ACCEPTED

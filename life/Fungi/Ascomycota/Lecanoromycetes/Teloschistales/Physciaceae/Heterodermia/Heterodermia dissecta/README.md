@@ -1,5 +1,4 @@
-Heterodermia dissecta var. dissecta VARIETY
-=======
+# Heterodermia dissecta (Kurok.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Geophytology 3: 113 (1973)
 
 #### Original name
-Heterodermia dissecta var. dissecta
+Anaptychia dissecta
 
 ### Remarks
 null

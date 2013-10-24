@@ -1,5 +1,4 @@
-Leptosphaeria crozalsii Vouaux, 1913 SPECIES
-=======
+# Leptosphaeria crozalsii Vouaux, 1913 SPECIES
 
 #### Status
 ACCEPTED

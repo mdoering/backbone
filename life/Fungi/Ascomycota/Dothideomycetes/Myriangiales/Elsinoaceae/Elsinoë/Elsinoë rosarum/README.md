@@ -1,17 +1,16 @@
-Phyllosticta rosarum Pass., 1881 SPECIES
-=======
+# Elsinoë rosarum Jenkins & Bitanc., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Erb. critt. Ital. , Ser. 2 2: no. 1092 (1881)
+Mycologia 49(1): 98 (1957)
 
 #### Original name
-Phyllosticta rosarum Pass., 1881
+Elsinoë rosarum Jenkins & Bitanc., 1957
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Caproniella Berlese, 1896 GENUS
-=======
+# Caproniella Berlese, 1896 GENUS
 
 #### Status
 ACCEPTED

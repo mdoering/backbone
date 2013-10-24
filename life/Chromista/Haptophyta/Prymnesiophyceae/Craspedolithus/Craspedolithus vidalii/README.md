@@ -1,5 +1,4 @@
-Craspedolithus vidalii D. Bukry SPECIES
-=======
+# Craspedolithus vidalii D. Bukry SPECIES
 
 #### Status
 ACCEPTED

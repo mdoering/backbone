@@ -1,5 +1,4 @@
-Pulvinosphaeridium granulatum Uutela & Tynni, 1991 SPECIES
-=======
+# Pulvinosphaeridium granulatum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes noscius Corner SPECIES
-=======
+# Fomes noscius Corner SPECIES
 
 #### Status
 ACCEPTED

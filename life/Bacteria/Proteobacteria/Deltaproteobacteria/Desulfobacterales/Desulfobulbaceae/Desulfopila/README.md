@@ -1,5 +1,4 @@
-Desulfopila Suzuki, Ueki, Amaishi & Ueki, 2007 GENUS
-=======
+# Desulfopila Suzuki, Ueki, Amaishi & Ueki, 2007 GENUS
 
 #### Status
 ACCEPTED

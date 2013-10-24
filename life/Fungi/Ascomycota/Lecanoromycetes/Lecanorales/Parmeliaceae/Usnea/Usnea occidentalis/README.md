@@ -1,5 +1,4 @@
-Usnea occidentalis Motyka SPECIES
-=======
+# Usnea occidentalis Motyka SPECIES
 
 #### Status
 ACCEPTED

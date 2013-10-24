@@ -1,5 +1,4 @@
-Cladonia radiata f. radiata FORM
-=======
+# Cladonia radiata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia radiata f. radiata
+null
 
 ### Remarks
 null

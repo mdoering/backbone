@@ -1,5 +1,4 @@
-Phyllosticta careyae V.P. Sahni SPECIES
-=======
+# Phyllosticta careyae V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

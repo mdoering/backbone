@@ -1,5 +1,4 @@
-Graphis subruiziana Sipman, Chaves & Lücking SPECIES
-=======
+# Graphis subruiziana Sipman, Chaves & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tyromyces semisupinus var. semisupinus VARIETY
-=======
+# Antrodiella citrea (Berk.) Ryvarden, 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 9(1): 34 (1907)
+Mycotaxon 20(2): 335 (1984)
 
 #### Original name
-Tyromyces semisupinus var. semisupinus
+Polyporus citreus Berk., 1872
 
 ### Remarks
 null

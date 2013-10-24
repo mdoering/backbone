@@ -1,5 +1,4 @@
-Everhartia candida Thaxt. SPECIES
-=======
+# Everhartia candida Thaxt. SPECIES
 
 #### Status
 ACCEPTED

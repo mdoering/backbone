@@ -1,17 +1,16 @@
-Sphaerella peruviana Speg., 1881 SPECIES
-=======
+# Mycosphaerella peruviana (Speg.) Tomilin, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Opredelitel' gribov roda Mycosphaerella Johans 88 (1979)
 
 #### Original name
-null
+Sphaerella peruviana Speg., 1881
 
 ### Remarks
 null

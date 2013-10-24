@@ -1,5 +1,4 @@
-Verrucaria cineriseda Nyl. SPECIES
-=======
+# Verrucaria cineriseda Nyl. SPECIES
 
 #### Status
 ACCEPTED

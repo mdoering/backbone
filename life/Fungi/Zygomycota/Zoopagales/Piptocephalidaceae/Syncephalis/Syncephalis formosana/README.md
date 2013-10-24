@@ -1,5 +1,4 @@
-Syncephalis formosana H.M. Ho & Benny, 2007 SPECIES
-=======
+# Syncephalis formosana H.M. Ho & Benny, 2007 SPECIES
 
 #### Status
 ACCEPTED

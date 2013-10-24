@@ -1,5 +1,4 @@
-Arthuria H.S. Jackson, 1931 GENUS
-=======
+# Arthuria H.S. Jackson, 1931 GENUS
 
 #### Status
 ACCEPTED

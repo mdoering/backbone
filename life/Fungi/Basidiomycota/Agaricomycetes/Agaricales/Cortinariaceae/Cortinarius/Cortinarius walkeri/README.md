@@ -1,5 +1,4 @@
-Cortinarius walkeri Cooke & Massee SPECIES
-=======
+# Cortinarius walkeri Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

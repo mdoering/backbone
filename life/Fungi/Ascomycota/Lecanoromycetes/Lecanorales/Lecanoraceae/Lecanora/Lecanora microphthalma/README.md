@@ -1,5 +1,4 @@
-Lecanora microphthalma Hook. f. & Taylor SPECIES
-=======
+# Lecanora microphthalma Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

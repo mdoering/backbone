@@ -1,5 +1,4 @@
-Chalara brachyspora Sacc. SPECIES
-=======
+# Chalara brachyspora Sacc. SPECIES
 
 #### Status
 ACCEPTED

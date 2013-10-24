@@ -1,8 +1,7 @@
-Discoitis GENUS
-=======
+# Disciotis Boudier, 1885 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Tympanis tautziana Ruhland SPECIES
-=======
+# Tympanis tautziana Ruhland SPECIES
 
 #### Status
 ACCEPTED

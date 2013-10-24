@@ -1,5 +1,4 @@
-Xyloma fothergillae Schwein. SPECIES
-=======
+# Xyloma fothergillae Schwein. SPECIES
 
 #### Status
 ACCEPTED

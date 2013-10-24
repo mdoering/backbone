@@ -1,14 +1,13 @@
-Gessnerium Y. Halim, 1967 GENUS
-=======
+# Alexandrium Halim, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Int. Revue ges. Hydrobiol. 52: 729.
+null
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Hydnum albidum Peck SPECIES
-=======
+# Hydnum albidum Peck SPECIES
 
 #### Status
 ACCEPTED

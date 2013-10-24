@@ -1,8 +1,7 @@
-Lessonia sinclairii J.D. Hooker & Harvey SPECIES
-=======
+# Laminaria sinclairii (J.D. Hooker & Harvey) Farlow, Anderson & Eaton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

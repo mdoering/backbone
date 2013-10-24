@@ -1,5 +1,4 @@
-Asterina circularis G. Winter SPECIES
-=======
+# Asterina circularis G. Winter SPECIES
 
 #### Status
 ACCEPTED

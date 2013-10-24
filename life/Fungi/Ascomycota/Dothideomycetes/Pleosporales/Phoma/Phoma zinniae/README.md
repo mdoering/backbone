@@ -1,5 +1,4 @@
-Phoma zinniae Speg. SPECIES
-=======
+# Phoma zinniae Speg. SPECIES
 
 #### Status
 ACCEPTED

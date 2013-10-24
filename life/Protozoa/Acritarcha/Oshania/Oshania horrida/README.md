@@ -1,5 +1,4 @@
-Oshania horrida Wang, Zhou & Chen, 1980 SPECIES
-=======
+# Oshania horrida Wang, Zhou & Chen, 1980 SPECIES
 
 #### Status
 ACCEPTED

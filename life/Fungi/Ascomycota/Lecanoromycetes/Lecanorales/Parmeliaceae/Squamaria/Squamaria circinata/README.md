@@ -1,5 +1,4 @@
-Squamaria circinata var. circinata VARIETY
-=======
+# Squamaria circinata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamaria circinata var. circinata
+null
 
 ### Remarks
 null

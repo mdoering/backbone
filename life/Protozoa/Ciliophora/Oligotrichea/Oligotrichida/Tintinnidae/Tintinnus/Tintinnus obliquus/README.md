@@ -1,5 +1,4 @@
-Tintinnus obliquus ß SPECIES
-=======
+# Tintinnus obliquus ß SPECIES
 
 #### Status
 ACCEPTED

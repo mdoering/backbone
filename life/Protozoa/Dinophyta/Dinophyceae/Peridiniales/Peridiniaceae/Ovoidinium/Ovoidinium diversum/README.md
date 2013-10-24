@@ -1,5 +1,4 @@
-Ovoidinium diversum R. J. Davey SPECIES
-=======
+# Ovoidinium diversum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

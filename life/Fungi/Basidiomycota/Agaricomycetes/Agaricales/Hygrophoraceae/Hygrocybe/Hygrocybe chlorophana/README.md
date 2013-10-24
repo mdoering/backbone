@@ -1,17 +1,16 @@
-Hygrophorus chlorophanus f. chlorophanus FORM
-=======
+# Hygrocybe chlorophana (Fr.) Wünsche, 1877 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 332 (1838)
+Die Pilze 112 (1877)
 
 #### Original name
-Hygrophorus chlorophanus f. chlorophanus
+Agaricus chlorophanus Fr., 1821
 
 ### Remarks
 null

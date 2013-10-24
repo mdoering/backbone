@@ -1,5 +1,4 @@
-Anthracothecium pauciloculare Herre SPECIES
-=======
+# Anthracothecium pauciloculare Herre SPECIES
 
 #### Status
 ACCEPTED

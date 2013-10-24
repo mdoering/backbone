@@ -1,5 +1,4 @@
-Heterophycus Trevisan, 1848 GENUS
-=======
+# Heterophycus Trevisan, 1848 GENUS
 
 #### Status
 ACCEPTED

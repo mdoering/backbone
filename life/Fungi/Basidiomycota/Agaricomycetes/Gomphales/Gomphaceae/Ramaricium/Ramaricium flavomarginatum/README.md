@@ -1,14 +1,13 @@
-Coniophora flavomarginata Burt, 1926 SPECIES
-=======
+# Ramaricium flavomarginatum (Burt) Ginns, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 13(3): 311 (1926)
+Bot. Notiser 132(1): 97 (1979)
 
 #### Original name
 Coniophora flavomarginata Burt, 1926

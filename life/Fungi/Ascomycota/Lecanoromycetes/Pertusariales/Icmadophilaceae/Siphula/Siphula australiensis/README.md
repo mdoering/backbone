@@ -1,5 +1,4 @@
-Siphula australiensis Kantvilas SPECIES
-=======
+# Siphula australiensis Kantvilas SPECIES
 
 #### Status
 ACCEPTED

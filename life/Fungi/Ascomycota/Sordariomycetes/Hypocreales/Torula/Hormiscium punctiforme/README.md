@@ -1,5 +1,4 @@
-Hormiscium punctiforme Höhn. SPECIES
-=======
+# Hormiscium punctiforme Höhn. SPECIES
 
 #### Status
 ACCEPTED

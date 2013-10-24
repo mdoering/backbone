@@ -1,5 +1,4 @@
-Phialea tomentophila Petr. SPECIES
-=======
+# Phialea tomentophila Petr. SPECIES
 
 #### Status
 ACCEPTED

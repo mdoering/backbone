@@ -1,5 +1,4 @@
-Meliola ellertoniae Hosag. & T.K. Abraham SPECIES
-=======
+# Meliola ellertoniae Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

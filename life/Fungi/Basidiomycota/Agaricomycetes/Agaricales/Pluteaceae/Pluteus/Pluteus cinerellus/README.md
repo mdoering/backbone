@@ -1,5 +1,4 @@
-Pluteus cinerellus Singer SPECIES
-=======
+# Pluteus cinerellus Singer SPECIES
 
 #### Status
 ACCEPTED

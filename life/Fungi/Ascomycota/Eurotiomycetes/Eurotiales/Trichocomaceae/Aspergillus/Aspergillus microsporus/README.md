@@ -1,5 +1,4 @@
-Aspergillus microsporus Böke {?} SPECIES
-=======
+# Aspergillus microsporus Böke {?} SPECIES
 
 #### Status
 ACCEPTED

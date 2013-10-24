@@ -1,5 +1,4 @@
-Trichocladium canadense S. Hughes, 1959 SPECIES
-=======
+# Trichocladium canadense S. Hughes, 1959 SPECIES
 
 #### Status
 ACCEPTED

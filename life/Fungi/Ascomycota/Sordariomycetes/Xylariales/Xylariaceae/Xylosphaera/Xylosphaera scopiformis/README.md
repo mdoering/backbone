@@ -1,5 +1,4 @@
-Xylosphaera scopiformis Mont. ex P. Joly SPECIES
-=======
+# Xylosphaera scopiformis Mont. ex P. Joly SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor caespitulosus Speg. SPECIES
-=======
+# Mucor caespitulosus Speg. SPECIES
 
 #### Status
 ACCEPTED

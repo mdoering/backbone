@@ -1,5 +1,4 @@
-Inocybe cyaneovirescens Henn. SPECIES
-=======
+# Inocybe cyaneovirescens Henn. SPECIES
 
 #### Status
 ACCEPTED

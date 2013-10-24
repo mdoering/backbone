@@ -1,5 +1,4 @@
-Pyrenochium pini Link, 1833 SPECIES
-=======
+# Pyrenochium pini Link, 1833 SPECIES
 
 #### Status
 ACCEPTED

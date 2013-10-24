@@ -1,5 +1,4 @@
-Galerina medullosa (Bres.) Clémençon SPECIES
-=======
+# Galerina medullosa (Bres.) Clémençon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces arthurii Syd. & P. Syd. SPECIES
-=======
+# Uromyces arthurii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

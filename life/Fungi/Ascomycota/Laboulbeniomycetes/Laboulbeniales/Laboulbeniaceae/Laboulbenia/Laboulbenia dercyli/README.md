@@ -1,5 +1,4 @@
-Laboulbenia dercyli Thaxt. SPECIES
-=======
+# Laboulbenia dercyli Thaxt. SPECIES
 
 #### Status
 ACCEPTED

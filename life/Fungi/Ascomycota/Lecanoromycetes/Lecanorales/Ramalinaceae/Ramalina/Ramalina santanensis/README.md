@@ -1,5 +1,4 @@
-Ramalina santanensis V. Marcano & A. Morales SPECIES
-=======
+# Ramalina santanensis V. Marcano & A. Morales SPECIES
 
 #### Status
 ACCEPTED

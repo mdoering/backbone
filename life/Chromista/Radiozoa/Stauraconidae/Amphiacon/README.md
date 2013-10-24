@@ -1,5 +1,4 @@
-Amphiacon Schewiakoff, 1926 GENUS
-=======
+# Amphiacon Schewiakoff, 1926 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella kraunhiae Gonz. Frag. SPECIES
-=======
+# Dothiorella kraunhiae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

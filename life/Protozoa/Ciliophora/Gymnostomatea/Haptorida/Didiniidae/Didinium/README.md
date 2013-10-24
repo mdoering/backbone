@@ -1,5 +1,4 @@
-Didinium Stein, 1859 GENUS
-=======
+# Didinium Stein, 1859 GENUS
 
 #### Status
 ACCEPTED

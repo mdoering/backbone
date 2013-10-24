@@ -1,5 +1,4 @@
-Opegrapha flexuososerpens Maheu & Werner SPECIES
-=======
+# Opegrapha flexuososerpens Maheu & Werner SPECIES
 
 #### Status
 ACCEPTED

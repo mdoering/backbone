@@ -1,5 +1,4 @@
-Sargassum cystocarpum C. Agardh SPECIES
-=======
+# Sargassum cystocarpum C. Agardh SPECIES
 
 #### Status
 ACCEPTED

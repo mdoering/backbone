@@ -1,5 +1,4 @@
-Schizotrichum conocarpi Seaver & Waterston, 1946 SPECIES
-=======
+# Schizotrichum conocarpi Seaver & Waterston, 1946 SPECIES
 
 #### Status
 ACCEPTED

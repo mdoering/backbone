@@ -1,5 +1,4 @@
-Sphaerella nigredo (Schwein.) Cooke SPECIES
-=======
+# Sphaerella nigredo (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

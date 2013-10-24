@@ -1,5 +1,4 @@
-Velistoma Yankovskij, 1980 GENUS
-=======
+# Velistoma Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

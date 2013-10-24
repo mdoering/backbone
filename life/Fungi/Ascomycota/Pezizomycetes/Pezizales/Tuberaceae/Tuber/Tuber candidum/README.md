@@ -1,5 +1,4 @@
-Tuber candidum Harkn. SPECIES
-=======
+# Tuber candidum Harkn. SPECIES
 
 #### Status
 ACCEPTED

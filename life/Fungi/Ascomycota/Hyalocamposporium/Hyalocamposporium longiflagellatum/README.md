@@ -1,5 +1,4 @@
-Hyalocamposporium longiflagellatum Révay & J. Gönczöl, 2007 SPECIES
-=======
+# Hyalocamposporium longiflagellatum Révay & J. Gönczöl, 2007 SPECIES
 
 #### Status
 ACCEPTED

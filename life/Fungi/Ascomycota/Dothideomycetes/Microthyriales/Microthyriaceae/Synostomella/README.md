@@ -1,5 +1,4 @@
-Synostomella GENUS
-=======
+# Synostomella GENUS
 
 #### Status
 ACCEPTED

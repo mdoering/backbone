@@ -1,5 +1,4 @@
-Trachytriletes cryptoletes Vosanchuk & Partyka, 1962 SPECIES
-=======
+# Trachytriletes cryptoletes Vosanchuk & Partyka, 1962 SPECIES
 
 #### Status
 ACCEPTED

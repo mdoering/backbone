@@ -1,14 +1,13 @@
-Macrospora typhicola (Cooke) Shoemaker & C.E. Babc., 1992 SPECIES
-=======
+# Pyrenophora typhicola (Cooke) E. Müll., 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 70(8): 1644 (1992)
+Sydowia 5: 256 (1951)
 
 #### Original name
 Sphaeria typhicola Cooke, 1877

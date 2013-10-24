@@ -1,5 +1,4 @@
-Sporidesmiopsis zhejiangensis Wongsawas, H.K. Wang, K.D. Hyde & F.C. Lin SPECIES
-=======
+# Sporidesmiopsis zhejiangensis Wongsawas, H.K. Wang, K.D. Hyde & F.C. Lin SPECIES
 
 #### Status
 ACCEPTED

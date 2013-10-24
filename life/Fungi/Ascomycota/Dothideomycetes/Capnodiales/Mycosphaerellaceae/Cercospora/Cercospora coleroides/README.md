@@ -1,5 +1,4 @@
-Cercospora coleroides Sacc. SPECIES
-=======
+# Cercospora coleroides Sacc. SPECIES
 
 #### Status
 ACCEPTED

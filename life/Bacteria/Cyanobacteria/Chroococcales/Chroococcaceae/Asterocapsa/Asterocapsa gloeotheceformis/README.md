@@ -1,5 +1,4 @@
-Asterocapsa gloeotheceformis Chu SPECIES
-=======
+# Asterocapsa gloeotheceformis Chu SPECIES
 
 #### Status
 ACCEPTED

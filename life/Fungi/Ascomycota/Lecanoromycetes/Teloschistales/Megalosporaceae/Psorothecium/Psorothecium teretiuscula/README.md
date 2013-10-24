@@ -1,5 +1,4 @@
-Psorothecium teretiuscula A. Massal. SPECIES
-=======
+# Psorothecium teretiuscula A. Massal. SPECIES
 
 #### Status
 ACCEPTED

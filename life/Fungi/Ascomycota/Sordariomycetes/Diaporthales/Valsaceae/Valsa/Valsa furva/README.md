@@ -1,5 +1,4 @@
-Valsa furva P. Karst. SPECIES
-=======
+# Valsa furva P. Karst. SPECIES
 
 #### Status
 ACCEPTED

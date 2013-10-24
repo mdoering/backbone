@@ -1,5 +1,4 @@
-Catharinia gaubae Petr. SPECIES
-=======
+# Catharinia gaubae Petr. SPECIES
 
 #### Status
 ACCEPTED

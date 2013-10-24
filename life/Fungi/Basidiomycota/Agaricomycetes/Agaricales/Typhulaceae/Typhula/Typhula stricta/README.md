@@ -1,5 +1,4 @@
-Typhula stricta K.R. Appel SPECIES
-=======
+# Typhula stricta K.R. Appel SPECIES
 
 #### Status
 ACCEPTED

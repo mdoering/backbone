@@ -1,5 +1,4 @@
-Lecania croatica (Zahlbr.) Kotlov SPECIES
-=======
+# Lecania croatica (Zahlbr.) Kotlov SPECIES
 
 #### Status
 ACCEPTED

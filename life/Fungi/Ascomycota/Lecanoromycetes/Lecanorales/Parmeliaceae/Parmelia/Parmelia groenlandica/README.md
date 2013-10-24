@@ -1,5 +1,4 @@
-Parmelia groenlandica (Oeder) Ach. SPECIES
-=======
+# Parmelia groenlandica (Oeder) Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sebacina filicola McNabb, 1966 SPECIES
-=======
+# Sebacina filicola McNabb, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanobrevibacter wolinii Miller & Lin, 2002 SPECIES
-=======
+# Methanobrevibacter wolinii Miller & Lin, 2002 SPECIES
 
 #### Status
 ACCEPTED

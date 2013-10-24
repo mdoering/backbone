@@ -1,5 +1,4 @@
-Aecidium cystopoides Speg. SPECIES
-=======
+# Aecidium cystopoides Speg. SPECIES
 
 #### Status
 ACCEPTED

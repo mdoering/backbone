@@ -1,5 +1,4 @@
-Tintinnopsis parvula Jörgensen, 1912 SPECIES
-=======
+# Tintinnopsis parvula Jörgensen, 1912 SPECIES
 
 #### Status
 ACCEPTED

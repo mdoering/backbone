@@ -1,5 +1,4 @@
-Periconiella maianthemi R. Kirschner SPECIES
-=======
+# Periconiella maianthemi R. Kirschner SPECIES
 
 #### Status
 ACCEPTED

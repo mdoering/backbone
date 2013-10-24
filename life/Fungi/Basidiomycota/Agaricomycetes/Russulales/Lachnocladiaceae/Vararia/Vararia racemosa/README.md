@@ -1,17 +1,16 @@
-Vararia racemosa subsp. racemosa SUBSPECIES
-=======
+# Vararia racemosa (Burt) D.P. Rogers & H.S. Jacks., 1943 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Farlowia 1(2): 299 (1943)
 
 #### Original name
-Vararia racemosa subsp. racemosa
+null
 
 ### Remarks
 null

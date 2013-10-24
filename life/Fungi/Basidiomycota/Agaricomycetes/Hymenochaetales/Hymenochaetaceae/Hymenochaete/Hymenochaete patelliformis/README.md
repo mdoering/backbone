@@ -1,5 +1,4 @@
-Hymenochaete patelliformis G. Cunn., 1957 SPECIES
-=======
+# Hymenochaete patelliformis G. Cunn., 1957 SPECIES
 
 #### Status
 ACCEPTED

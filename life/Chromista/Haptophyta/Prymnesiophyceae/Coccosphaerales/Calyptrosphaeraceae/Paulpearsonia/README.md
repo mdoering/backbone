@@ -1,5 +1,4 @@
-Paulpearsonia J.A. Lees, 2010 GENUS
-=======
+# Paulpearsonia J.A. Lees, 2010 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Actinopelte theobaldi Stizenb. SPECIES
-=======
+# Actinopelte theobaldii Stizenb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 44: 4 (1861)
 
 #### Original name
-Actinopelte theobaldi Stizenb.
+Actinopelte theobaldii Stizenb.
 
 ### Remarks
 null

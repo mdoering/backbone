@@ -1,5 +1,4 @@
-Amanitopsis curta (Cooke & Massee) Sacc. SPECIES
-=======
+# Amanitopsis curta (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

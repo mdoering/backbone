@@ -1,5 +1,4 @@
-Macalpinomyces zonotriches Vánky, 1996 SPECIES
-=======
+# Macalpinomyces zonotriches Vánky, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalideopsis cyanophila Sérus. SPECIES
-=======
+# Gyalideopsis cyanophila Sérus. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria insculpta (Wallr.) Schaer. SPECIES
-=======
+# Verrucaria insculpta (Wallr.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma lini Oudem. SPECIES
-=======
+# Entyloma lini Oudem. SPECIES
 
 #### Status
 ACCEPTED

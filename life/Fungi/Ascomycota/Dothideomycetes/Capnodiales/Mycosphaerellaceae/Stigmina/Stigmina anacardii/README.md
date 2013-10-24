@@ -1,5 +1,4 @@
-Stigmina anacardii (Syd.) M.B. Ellis, 1959 SPECIES
-=======
+# Stigmina anacardii (Syd.) M.B. Ellis, 1959 SPECIES
 
 #### Status
 ACCEPTED

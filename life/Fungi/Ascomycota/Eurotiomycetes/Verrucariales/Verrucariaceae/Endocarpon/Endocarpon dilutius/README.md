@@ -1,5 +1,4 @@
-Endocarpon dilutius Nyl. SPECIES
-=======
+# Endocarpon dilutius Nyl. SPECIES
 
 #### Status
 ACCEPTED

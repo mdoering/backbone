@@ -1,5 +1,4 @@
-Pyxine australiensis Kalb SPECIES
-=======
+# Pyxine australiensis Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discoaster variabilis Martini & Bramlette, 1963 SPECIES
-=======
+# Discoaster variabilis Martini & Bramlette, 1963 SPECIES
 
 #### Status
 ACCEPTED

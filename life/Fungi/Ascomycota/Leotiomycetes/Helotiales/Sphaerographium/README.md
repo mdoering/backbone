@@ -1,17 +1,16 @@
-Pseudographium Jacz. GENUS
-=======
+# Sphaerographium Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nouv. Mem. Soc. Imp. nat. Moscou 15: 96 (1898)
+Syll. fung. (Abellini) 3: 596 (1884)
 
 #### Original name
-Pseudographium Jacz.
+Sphaerographium Sacc.
 
 ### Remarks
 null

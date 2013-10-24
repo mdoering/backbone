@@ -1,5 +1,4 @@
-Vorticella dubia Fromentel, 1876 SPECIES
-=======
+# Vorticella dubia Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

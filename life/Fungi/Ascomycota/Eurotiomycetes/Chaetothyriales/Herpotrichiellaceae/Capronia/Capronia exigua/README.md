@@ -1,5 +1,4 @@
-Capronia exigua M.E. Barr SPECIES
-=======
+# Capronia exigua M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

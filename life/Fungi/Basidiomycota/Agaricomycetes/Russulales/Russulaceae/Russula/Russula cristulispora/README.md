@@ -1,5 +1,4 @@
-Russula cristulispora Singer SPECIES
-=======
+# Russula cristulispora Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina leucolyta (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina leucolyta (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

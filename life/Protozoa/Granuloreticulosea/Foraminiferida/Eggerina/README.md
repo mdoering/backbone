@@ -1,5 +1,4 @@
-Eggerina Toulmin, 1941 GENUS
-=======
+# Eggerina Toulmin, 1941 GENUS
 
 #### Status
 ACCEPTED

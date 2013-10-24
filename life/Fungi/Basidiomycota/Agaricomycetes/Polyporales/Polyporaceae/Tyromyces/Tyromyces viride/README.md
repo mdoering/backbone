@@ -1,5 +1,4 @@
-Tyromyces viride Ryvarden & Guzmán SPECIES
-=======
+# Tyromyces viride Ryvarden & Guzmán SPECIES
 
 #### Status
 ACCEPTED

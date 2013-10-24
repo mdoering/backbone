@@ -1,5 +1,4 @@
-Ruesticyrtium mostleri SPECIES
-=======
+# Ruesticyrtium mostleri SPECIES
 
 #### Status
 ACCEPTED

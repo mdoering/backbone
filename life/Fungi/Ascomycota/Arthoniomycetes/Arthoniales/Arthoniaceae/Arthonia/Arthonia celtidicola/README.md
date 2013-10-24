@@ -1,5 +1,4 @@
-Arthonia celtidicola Zahlbr. SPECIES
-=======
+# Arthonia celtidicola Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

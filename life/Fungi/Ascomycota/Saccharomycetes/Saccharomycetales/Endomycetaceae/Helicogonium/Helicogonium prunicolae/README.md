@@ -1,5 +1,4 @@
-Helicogonium prunicolae Baral, 1999 SPECIES
-=======
+# Helicogonium prunicolae Baral, 1999 SPECIES
 
 #### Status
 ACCEPTED

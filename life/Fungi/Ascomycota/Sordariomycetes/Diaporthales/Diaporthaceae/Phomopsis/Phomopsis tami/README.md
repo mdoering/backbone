@@ -1,5 +1,4 @@
-Phomopsis tami (F. Lamb. & Fautrey) Petr. SPECIES
-=======
+# Phomopsis tami (F. Lamb. & Fautrey) Petr. SPECIES
 
 #### Status
 ACCEPTED

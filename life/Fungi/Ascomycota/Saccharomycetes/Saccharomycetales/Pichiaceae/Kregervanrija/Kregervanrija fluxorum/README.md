@@ -1,14 +1,13 @@
-Debaryomyces fluxorum Phaff & E.P. Knapp SPECIES
-=======
+# Kregervanrija fluxorum (Phaff & E.P. Knapp) Kurtzman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+FEMS Yeast Res. 6(2): 291 (2006)
 
 #### Original name
 Debaryomyces fluxorum Phaff & E.P. Knapp

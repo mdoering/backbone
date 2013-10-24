@@ -1,5 +1,4 @@
-Lithocia bubulcae A. Massal. SPECIES
-=======
+# Lithocia bubulcae A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta groendaliana Ach. SPECIES
-=======
+# Sticta groendaliana Ach. SPECIES
 
 #### Status
 ACCEPTED

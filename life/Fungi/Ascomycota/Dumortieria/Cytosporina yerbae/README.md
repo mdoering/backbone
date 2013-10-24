@@ -1,5 +1,4 @@
-Cytosporina yerbae Speg. SPECIES
-=======
+# Cytosporina yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

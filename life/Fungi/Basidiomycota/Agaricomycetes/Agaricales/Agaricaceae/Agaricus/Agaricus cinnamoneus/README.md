@@ -1,5 +1,4 @@
-Agaricus cinnamoneus SPECIES
-=======
+# Agaricus cinnamoneus SPECIES
 
 #### Status
 ACCEPTED

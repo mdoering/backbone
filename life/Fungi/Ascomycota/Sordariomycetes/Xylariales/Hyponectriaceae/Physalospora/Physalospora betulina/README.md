@@ -1,5 +1,4 @@
-Physalospora betulina Ellis & Everh. SPECIES
-=======
+# Physalospora betulina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

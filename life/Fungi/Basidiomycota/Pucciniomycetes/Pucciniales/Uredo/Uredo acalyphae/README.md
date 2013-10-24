@@ -1,5 +1,4 @@
-Uredo acalyphae Speg. SPECIES
-=======
+# Uredo acalyphae Speg. SPECIES
 
 #### Status
 ACCEPTED

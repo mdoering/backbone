@@ -1,5 +1,4 @@
-Septoria callistea (Syd.) Died. SPECIES
-=======
+# Septoria callistea (Syd.) Died. SPECIES
 
 #### Status
 ACCEPTED

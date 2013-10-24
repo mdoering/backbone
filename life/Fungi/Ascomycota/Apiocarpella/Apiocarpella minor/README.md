@@ -1,5 +1,4 @@
-Apiocarpella minor R. Sprague SPECIES
-=======
+# Apiocarpella minor R. Sprague SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Marasmius ealeansis Beeli SPECIES
-=======
+# Marasmius ealaensis Beeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 60(2): 159 (1928)
 
 #### Original name
-Marasmius ealeansis Beeli
+Marasmius ealaensis Beeli
 
 ### Remarks
 null

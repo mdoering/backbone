@@ -1,5 +1,4 @@
-Septoria trientalis (Lasch) Sacc., 1890 SPECIES
-=======
+# Septoria trientalis (Lasch) Sacc., 1890 SPECIES
 
 #### Status
 ACCEPTED

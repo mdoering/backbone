@@ -1,5 +1,4 @@
-Involucrothele jeanjeani (Servít) Servít SPECIES
-=======
+# Involucrothele jeanjeani (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

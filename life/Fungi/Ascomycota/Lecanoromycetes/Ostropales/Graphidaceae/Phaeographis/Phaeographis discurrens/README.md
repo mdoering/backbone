@@ -1,5 +1,4 @@
-Phaeographis discurrens (Nyl.) Müll. Arg. SPECIES
-=======
+# Phaeographis discurrens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

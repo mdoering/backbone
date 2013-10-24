@@ -1,5 +1,4 @@
-Eccrinaceae L. Léger & Duboscq FAMILY
-=======
+# Eccrinaceae L. Léger & Duboscq FAMILY
 
 #### Status
 ACCEPTED

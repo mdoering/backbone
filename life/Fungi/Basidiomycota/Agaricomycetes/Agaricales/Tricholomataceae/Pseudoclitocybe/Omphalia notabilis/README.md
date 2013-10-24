@@ -1,5 +1,4 @@
-Omphalia notabilis (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Omphalia notabilis (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

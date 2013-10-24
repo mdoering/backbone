@@ -1,5 +1,4 @@
-Graphina aeola (Stirt.) Zahlbr. SPECIES
-=======
+# Graphina aeola (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

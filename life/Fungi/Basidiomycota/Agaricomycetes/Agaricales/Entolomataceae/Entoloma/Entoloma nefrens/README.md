@@ -1,5 +1,4 @@
-Entoloma nefrens (Fr.) Zerova SPECIES
-=======
+# Entoloma nefrens (Fr.) Zerova SPECIES
 
 #### Status
 ACCEPTED

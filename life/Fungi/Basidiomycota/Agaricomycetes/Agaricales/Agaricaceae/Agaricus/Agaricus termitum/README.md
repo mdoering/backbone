@@ -1,5 +1,4 @@
-Agaricus termitum (Dufour) Sacc. & Trotter SPECIES
-=======
+# Agaricus termitum (Dufour) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

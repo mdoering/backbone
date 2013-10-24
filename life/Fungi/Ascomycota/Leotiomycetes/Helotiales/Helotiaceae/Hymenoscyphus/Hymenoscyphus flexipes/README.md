@@ -1,8 +1,7 @@
-Hymenoscypha flexipes Cooke & W. Phillips SPECIES
-=======
+# Hymenoscyphus flexipes Cooke & W. Phillips SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hymenoscypha flexipes Cooke & W. Phillips
+Hymenoscyphus flexipes Cooke & W. Phillips
 
 ### Remarks
 null

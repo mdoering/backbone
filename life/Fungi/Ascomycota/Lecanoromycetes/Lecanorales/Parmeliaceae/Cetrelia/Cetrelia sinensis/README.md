@@ -1,5 +1,4 @@
-Cetrelia sinensis W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Cetrelia sinensis W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED

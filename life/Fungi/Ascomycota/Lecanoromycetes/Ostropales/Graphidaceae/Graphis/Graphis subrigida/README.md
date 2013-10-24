@@ -1,5 +1,4 @@
-Graphis subrigida Nyl. SPECIES
-=======
+# Graphis subrigida Nyl. SPECIES
 
 #### Status
 ACCEPTED

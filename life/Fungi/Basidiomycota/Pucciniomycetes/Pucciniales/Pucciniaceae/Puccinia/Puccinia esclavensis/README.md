@@ -1,5 +1,4 @@
-Puccinia esclavensis var. esclavensis VARIETY
-=======
+# Puccinia esclavensis Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Holway, Bot. Gaz. 24: 29 (1897)
 
 #### Original name
-Puccinia esclavensis var. esclavensis
+Puccinia esclavensis Dietel & Holw.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyrenopeziza tormentillae (Velen.) Gremmen SPECIES
-=======
+# Pyrenopeziza tormentillae (Velen.) Gremmen SPECIES
 
 #### Status
 ACCEPTED

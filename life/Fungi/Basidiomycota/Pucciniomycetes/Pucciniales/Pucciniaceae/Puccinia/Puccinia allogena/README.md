@@ -1,5 +1,4 @@
-Puccinia allogena Syd. SPECIES
-=======
+# Puccinia allogena Syd. SPECIES
 
 #### Status
 ACCEPTED

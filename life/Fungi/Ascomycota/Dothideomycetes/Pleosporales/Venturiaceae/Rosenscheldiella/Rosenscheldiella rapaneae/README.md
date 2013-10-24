@@ -1,5 +1,4 @@
-Rosenscheldiella rapaneae Bat., A.A. Silva & Peres SPECIES
-=======
+# Rosenscheldiella rapaneae Bat., A.A. Silva & Peres SPECIES
 
 #### Status
 ACCEPTED

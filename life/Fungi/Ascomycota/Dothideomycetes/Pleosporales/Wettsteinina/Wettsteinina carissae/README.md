@@ -1,5 +1,4 @@
-Wettsteinina carissae R. Rao SPECIES
-=======
+# Wettsteinina carissae R. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria spraguei Uecker & Krup. SPECIES
-=======
+# Septoria spraguei Uecker & Krup. SPECIES
 
 #### Status
 ACCEPTED

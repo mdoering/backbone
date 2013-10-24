@@ -1,5 +1,4 @@
-Sphaeria penicillata Schwein. SPECIES
-=======
+# Sphaeria penicillata Schwein. SPECIES
 
 #### Status
 ACCEPTED

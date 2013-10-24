@@ -1,5 +1,4 @@
-Volutella javanica Höhn. SPECIES
-=======
+# Volutella javanica Höhn. SPECIES
 
 #### Status
 ACCEPTED

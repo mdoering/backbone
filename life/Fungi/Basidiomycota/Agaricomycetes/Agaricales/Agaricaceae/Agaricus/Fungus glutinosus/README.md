@@ -1,5 +1,4 @@
-Fungus glutinosus (M.A. Curtis) Kuntze SPECIES
-=======
+# Fungus glutinosus (M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

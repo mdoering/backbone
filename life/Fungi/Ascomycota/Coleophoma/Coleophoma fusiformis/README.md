@@ -1,5 +1,4 @@
-Coleophoma fusiformis W.P. Wu, B. Sutton & Gange, 1996 SPECIES
-=======
+# Coleophoma fusiformis W.P. Wu, B. Sutton & Gange, 1996 SPECIES
 
 #### Status
 ACCEPTED

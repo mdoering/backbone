@@ -1,5 +1,4 @@
-Aecidium polygalinum Peck SPECIES
-=======
+# Aecidium polygalinum Peck SPECIES
 
 #### Status
 ACCEPTED

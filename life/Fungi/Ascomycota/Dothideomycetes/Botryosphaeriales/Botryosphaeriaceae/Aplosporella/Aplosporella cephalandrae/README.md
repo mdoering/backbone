@@ -1,5 +1,4 @@
-Aplosporella cephalandrae S. Ahmad SPECIES
-=======
+# Aplosporella cephalandrae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eurotium bonariense Speg. SPECIES
-=======
+# Eurotium bonariense Speg. SPECIES
 
 #### Status
 ACCEPTED

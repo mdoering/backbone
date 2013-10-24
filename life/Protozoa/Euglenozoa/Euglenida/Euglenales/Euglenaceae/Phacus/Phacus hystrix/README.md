@@ -1,5 +1,4 @@
-Phacus hystrix Pochmann SPECIES
-=======
+# Phacus hystrix Pochmann SPECIES
 
 #### Status
 ACCEPTED

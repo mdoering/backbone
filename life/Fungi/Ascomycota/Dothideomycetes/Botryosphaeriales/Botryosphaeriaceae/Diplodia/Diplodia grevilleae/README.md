@@ -1,5 +1,4 @@
-Diplodia grevilleae S. Ahmad SPECIES
-=======
+# Diplodia grevilleae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

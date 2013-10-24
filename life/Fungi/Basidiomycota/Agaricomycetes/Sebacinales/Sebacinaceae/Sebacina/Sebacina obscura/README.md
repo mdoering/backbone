@@ -1,5 +1,4 @@
-Sebacina obscura G.W. Martin SPECIES
-=======
+# Sebacina obscura G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

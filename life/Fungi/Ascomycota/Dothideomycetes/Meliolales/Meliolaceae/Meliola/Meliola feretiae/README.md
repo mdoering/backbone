@@ -1,5 +1,4 @@
-Meliola feretiae Hansf. SPECIES
-=======
+# Meliola feretiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

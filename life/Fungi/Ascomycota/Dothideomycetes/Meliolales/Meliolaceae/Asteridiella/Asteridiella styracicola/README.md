@@ -1,5 +1,4 @@
-Asteridiella styracicola (Speg.) Hansf. SPECIES
-=======
+# Asteridiella styracicola (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

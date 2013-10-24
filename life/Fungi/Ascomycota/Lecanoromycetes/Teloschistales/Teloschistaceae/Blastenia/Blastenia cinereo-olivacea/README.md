@@ -1,5 +1,4 @@
-Blastenia cinereo-olivacea (Harm.) Zahlbr. SPECIES
-=======
+# Blastenia cinereo-olivacea (Harm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

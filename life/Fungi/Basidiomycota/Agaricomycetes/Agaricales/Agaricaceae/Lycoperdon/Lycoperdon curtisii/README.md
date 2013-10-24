@@ -1,8 +1,7 @@
-Vascellum curtisii (Berk.) Kreisel, 1963 SPECIES
-=======
+# Lycoperdon curtisii Berk., 1859 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

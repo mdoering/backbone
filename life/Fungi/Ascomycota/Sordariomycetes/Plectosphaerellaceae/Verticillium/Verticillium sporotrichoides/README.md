@@ -1,5 +1,4 @@
-Verticillium sporotrichoides Sacc. SPECIES
-=======
+# Verticillium sporotrichoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

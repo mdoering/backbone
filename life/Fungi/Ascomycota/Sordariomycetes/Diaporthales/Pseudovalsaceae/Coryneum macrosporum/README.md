@@ -1,5 +1,4 @@
-Coryneum macrosporum P. Karst. SPECIES
-=======
+# Coryneum macrosporum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

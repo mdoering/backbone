@@ -1,5 +1,4 @@
-Aecidium microglossae Vienn.-Bourg. SPECIES
-=======
+# Aecidium microglossae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

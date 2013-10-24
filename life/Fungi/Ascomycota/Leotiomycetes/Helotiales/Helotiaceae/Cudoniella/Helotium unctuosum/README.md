@@ -1,5 +1,4 @@
-Helotium unctuosum (Batsch) J.F. Gmel. SPECIES
-=======
+# Helotium unctuosum (Batsch) J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

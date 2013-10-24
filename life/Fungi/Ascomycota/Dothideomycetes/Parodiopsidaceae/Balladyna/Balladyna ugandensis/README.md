@@ -1,5 +1,4 @@
-Balladyna ugandensis Syd. & P. Syd. SPECIES
-=======
+# Balladyna ugandensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

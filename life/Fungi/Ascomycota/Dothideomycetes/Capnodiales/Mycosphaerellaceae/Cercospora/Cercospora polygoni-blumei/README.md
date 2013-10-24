@@ -1,5 +1,4 @@
-Cercospora polygoni-blumei Sawada SPECIES
-=======
+# Cercospora polygoni-blumei Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophosphaeridium regulare Uutela & Tynni, 1991 SPECIES
-=======
+# Lophosphaeridium regulare Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

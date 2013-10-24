@@ -1,5 +1,4 @@
-Leptosphaeria hypericicola Gucevic SPECIES
-=======
+# Leptosphaeria hypericicola Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea rhytidospora Ces. SPECIES
-=======
+# Hypocrea rhytidospora Ces. SPECIES
 
 #### Status
 ACCEPTED

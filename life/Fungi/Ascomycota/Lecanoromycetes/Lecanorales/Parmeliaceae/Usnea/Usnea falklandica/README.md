@@ -1,5 +1,4 @@
-Usnea falklandica Motyka SPECIES
-=======
+# Usnea falklandica Motyka SPECIES
 
 #### Status
 ACCEPTED

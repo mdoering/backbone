@@ -1,8 +1,7 @@
-Perisincirra similis Foissner, 1982 SPECIES
-=======
+# Hemiurosoma similis (Foissner, 1982) Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Stylosphaeridae Haeckel, 1881 FAMILY
-=======
+# Stylosphaeridae Haeckel, 1881 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hanliniomyces Raja & Shearer GENUS
-=======
+# Hanliniomyces Raja & Shearer GENUS
 
 #### Status
 ACCEPTED

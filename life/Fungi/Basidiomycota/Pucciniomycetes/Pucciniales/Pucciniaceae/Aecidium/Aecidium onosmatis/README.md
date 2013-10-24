@@ -1,5 +1,4 @@
-Aecidium onosmatis Thüm. SPECIES
-=======
+# Aecidium onosmatis Thüm. SPECIES
 
 #### Status
 ACCEPTED

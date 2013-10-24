@@ -1,5 +1,4 @@
-Zukalia buddleiae Pat. SPECIES
-=======
+# Zukalia buddleiae Pat. SPECIES
 
 #### Status
 ACCEPTED

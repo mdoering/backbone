@@ -1,5 +1,4 @@
-Melampsorella hypericorum (DC.) SPECIES
-=======
+# Melampsorella hypericorum (DC.) SPECIES
 
 #### Status
 ACCEPTED

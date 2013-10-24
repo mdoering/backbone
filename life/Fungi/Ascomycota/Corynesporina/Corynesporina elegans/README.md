@@ -1,5 +1,4 @@
-Corynesporina elegans Subram., 1994 SPECIES
-=======
+# Corynesporina elegans Subram., 1994 SPECIES
 
 #### Status
 ACCEPTED

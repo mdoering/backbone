@@ -1,5 +1,4 @@
-Erysiphe solani Vanha SPECIES
-=======
+# Erysiphe solani Vanha SPECIES
 
 #### Status
 ACCEPTED

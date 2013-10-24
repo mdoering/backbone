@@ -1,5 +1,4 @@
-Hygrophorus buccinulus (Speg.) Dennis SPECIES
-=======
+# Hygrophorus buccinulus (Speg.) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ocellularia pruinata Nagarkar & Hale SPECIES
-=======
+# Stegobolus pruinatus (Nagarkar & Hale) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 35(2): 445 (1989)
+in Frisch & Kalb, Biblthca Lichenol. 92: 478 (2006)
 
 #### Original name
 Ocellularia pruinata Nagarkar & Hale

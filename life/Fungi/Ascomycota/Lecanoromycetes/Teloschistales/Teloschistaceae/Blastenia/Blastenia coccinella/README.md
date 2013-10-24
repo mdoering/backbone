@@ -1,5 +1,4 @@
-Blastenia coccinella (Stizenb.) C.W. Dodge SPECIES
-=======
+# Blastenia coccinella (Stizenb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

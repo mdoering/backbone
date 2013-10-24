@@ -1,5 +1,4 @@
-Puccinia concolor Syd. & P. Syd. SPECIES
-=======
+# Puccinia concolor Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

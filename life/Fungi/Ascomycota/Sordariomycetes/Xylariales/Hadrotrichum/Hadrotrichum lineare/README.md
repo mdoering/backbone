@@ -1,5 +1,4 @@
-Hadrotrichum lineare Peck SPECIES
-=======
+# Hadrotrichum lineare Peck SPECIES
 
 #### Status
 ACCEPTED

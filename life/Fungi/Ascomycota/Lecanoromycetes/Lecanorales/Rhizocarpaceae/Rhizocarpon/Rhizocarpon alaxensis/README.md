@@ -1,5 +1,4 @@
-Rhizocarpon alaxensis J.W. Thomson SPECIES
-=======
+# Rhizocarpon alaxensis J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

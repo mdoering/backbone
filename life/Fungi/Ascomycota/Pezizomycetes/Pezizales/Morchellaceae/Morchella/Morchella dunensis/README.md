@@ -1,5 +1,4 @@
-Morchella dunensis f. dunensis FORM
-=======
+# Morchella dunensis (Castañera & G. Moreno) Clowez SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Reumaux et al. , Docums Mycol. 27(no. 106): 54 (1997)
 
 #### Original name
-Morchella dunensis f. dunensis
+Morchella esculenta f. dunensis Castañera, J.L. Alonso & G. Moreno
 
 ### Remarks
 null

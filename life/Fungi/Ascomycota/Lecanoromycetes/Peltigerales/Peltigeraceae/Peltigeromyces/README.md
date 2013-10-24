@@ -1,5 +1,4 @@
-Peltigeromyces GENUS
-=======
+# Peltigeromyces GENUS
 
 #### Status
 ACCEPTED

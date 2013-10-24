@@ -1,5 +1,4 @@
-Hymenogaster anomalus Peck SPECIES
-=======
+# Hymenogaster anomalus Peck SPECIES
 
 #### Status
 ACCEPTED

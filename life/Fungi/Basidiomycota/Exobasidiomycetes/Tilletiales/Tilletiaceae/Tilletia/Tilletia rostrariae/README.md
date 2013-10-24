@@ -1,5 +1,4 @@
-Tilletia rostrariae Vánky & Ershad, 2002 SPECIES
-=======
+# Tilletia rostrariae Vánky & Ershad, 2002 SPECIES
 
 #### Status
 ACCEPTED

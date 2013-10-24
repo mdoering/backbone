@@ -1,17 +1,16 @@
-Sphaerella goodiaefolia Cooke, 1893 SPECIES
-=======
+# Mycosphaerella goodiaefolia (Cooke) Aptroot, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycosphaerella and its anamorphs: 2. Conspectus of Mycosphaerella 97 (2006)
 
 #### Original name
-null
+Sphaerella goodiaefolia Cooke, 1893
 
 ### Remarks
 null

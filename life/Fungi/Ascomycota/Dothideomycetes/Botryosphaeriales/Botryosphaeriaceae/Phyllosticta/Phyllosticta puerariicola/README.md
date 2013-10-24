@@ -1,5 +1,4 @@
-Phyllosticta puerariicola Sawada SPECIES
-=======
+# Phyllosticta puerariicola Sawada SPECIES
 
 #### Status
 ACCEPTED

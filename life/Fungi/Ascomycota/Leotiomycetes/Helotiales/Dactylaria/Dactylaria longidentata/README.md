@@ -1,5 +1,4 @@
-Dactylaria longidentata Cazau, Aramb. & Cabello SPECIES
-=======
+# Dactylaria longidentata Cazau, Aramb. & Cabello SPECIES
 
 #### Status
 ACCEPTED

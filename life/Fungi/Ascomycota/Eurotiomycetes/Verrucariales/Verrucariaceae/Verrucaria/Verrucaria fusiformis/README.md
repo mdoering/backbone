@@ -1,5 +1,4 @@
-Verrucaria fusiformis Leight. SPECIES
-=======
+# Verrucaria fusiformis Leight. SPECIES
 
 #### Status
 ACCEPTED

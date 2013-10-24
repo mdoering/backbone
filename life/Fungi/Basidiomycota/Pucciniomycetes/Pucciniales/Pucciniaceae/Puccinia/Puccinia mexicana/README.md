@@ -1,5 +1,4 @@
-Puccinia mexicana Dietel & Holw. SPECIES
-=======
+# Puccinia mexicana Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

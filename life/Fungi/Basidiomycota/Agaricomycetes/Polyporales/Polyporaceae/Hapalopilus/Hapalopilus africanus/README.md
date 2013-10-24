@@ -1,5 +1,4 @@
-Hapalopilus africanus Ryvarden, 1978 SPECIES
-=======
+# Hapalopilus africanus Ryvarden, 1978 SPECIES
 
 #### Status
 ACCEPTED

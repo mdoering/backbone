@@ -1,5 +1,4 @@
-Cortinarius pseudoglaucopus Jul. Schäff. SPECIES
-=======
+# Cortinarius pseudoglaucopus Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

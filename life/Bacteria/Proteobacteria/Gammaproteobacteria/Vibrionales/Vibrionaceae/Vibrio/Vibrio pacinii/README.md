@@ -1,5 +1,4 @@
-Vibrio pacinii Gomez-Gil et al., 2003 SPECIES
-=======
+# Vibrio pacinii Gomez-Gil et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicotrichum populi P. Crouan & H. Crouan SPECIES
-=======
+# Helicotrichum populi P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Karschia fuegiana Speg. SPECIES
-=======
+# Karschia fuegiana Speg. SPECIES
 
 #### Status
 ACCEPTED

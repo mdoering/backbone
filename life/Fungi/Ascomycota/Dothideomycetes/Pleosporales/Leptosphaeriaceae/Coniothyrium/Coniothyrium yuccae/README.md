@@ -1,5 +1,4 @@
-Coniothyrium yuccae Speg. SPECIES
-=======
+# Coniothyrium yuccae Speg. SPECIES
 
 #### Status
 ACCEPTED

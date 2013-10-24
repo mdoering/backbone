@@ -1,5 +1,4 @@
-Gerronema bethlehemicum Singer SPECIES
-=======
+# Gerronema bethlehemicum Singer SPECIES
 
 #### Status
 ACCEPTED

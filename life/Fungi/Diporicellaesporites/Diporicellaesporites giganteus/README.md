@@ -1,5 +1,4 @@
-Diporicellaesporites giganteus P. Ke & Z.Y. Shi SPECIES
-=======
+# Diporicellaesporites giganteus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

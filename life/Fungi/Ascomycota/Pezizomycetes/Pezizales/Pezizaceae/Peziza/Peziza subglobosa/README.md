@@ -1,5 +1,4 @@
-Peziza subglobosa Saut. SPECIES
-=======
+# Peziza subglobosa Saut. SPECIES
 
 #### Status
 ACCEPTED

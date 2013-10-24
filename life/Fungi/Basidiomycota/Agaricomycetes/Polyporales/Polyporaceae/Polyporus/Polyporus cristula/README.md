@@ -1,5 +1,4 @@
-Polyporus cristula Klotzsch SPECIES
-=======
+# Polyporus cristula Klotzsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces humilis Thaxt. SPECIES
-=======
+# Stigmatomyces humilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alysidiopsis pipsissewae B. Sutton, 1973 SPECIES
-=======
+# Alysidiopsis pipsissewae B. Sutton, 1973 SPECIES
 
 #### Status
 ACCEPTED

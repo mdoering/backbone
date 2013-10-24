@@ -1,5 +1,4 @@
-Trichodina fahaka Al-Rasheid, Ali, Sakranc, Abdel Bakic & Abdel Ghaffar, 2000 SPECIES
-=======
+# Trichodina fahaka Al-Rasheid, Ali, Sakranc, Abdel Bakic & Abdel Ghaffar, 2000 SPECIES
 
 #### Status
 ACCEPTED

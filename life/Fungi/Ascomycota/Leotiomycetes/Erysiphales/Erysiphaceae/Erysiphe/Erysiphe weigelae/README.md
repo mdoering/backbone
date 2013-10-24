@@ -1,5 +1,4 @@
-Erysiphe weigelae Z.X. Chen & S.B. Luo SPECIES
-=======
+# Erysiphe weigelae Z.X. Chen & S.B. Luo SPECIES
 
 #### Status
 ACCEPTED

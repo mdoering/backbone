@@ -1,5 +1,4 @@
-Gloeosporium rapaneae Speg. SPECIES
-=======
+# Gloeosporium rapaneae Speg. SPECIES
 
 #### Status
 ACCEPTED

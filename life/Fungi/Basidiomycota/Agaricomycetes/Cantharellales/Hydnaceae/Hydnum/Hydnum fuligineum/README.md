@@ -1,5 +1,4 @@
-Hydnum fuligineum Britzelm. SPECIES
-=======
+# Hydnum fuligineum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

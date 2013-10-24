@@ -1,5 +1,4 @@
-Colus hirudinosus Cavalier & Séchier, 1835 SPECIES
-=======
+# Colus hirudinosus Cavalier & Séchier, 1835 SPECIES
 
 #### Status
 ACCEPTED

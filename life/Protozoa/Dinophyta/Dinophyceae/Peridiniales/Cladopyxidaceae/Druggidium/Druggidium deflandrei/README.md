@@ -1,5 +1,4 @@
-Druggidium deflandrei (M. E. Millioud) D. Habib SPECIES
-=======
+# Druggidium deflandrei (M. E. Millioud) D. Habib SPECIES
 
 #### Status
 ACCEPTED

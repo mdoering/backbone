@@ -1,5 +1,4 @@
-Cercidospora subgemina (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cercidospora subgemina (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

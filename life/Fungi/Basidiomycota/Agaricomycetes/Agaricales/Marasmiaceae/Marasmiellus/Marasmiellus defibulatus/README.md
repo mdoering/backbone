@@ -1,5 +1,4 @@
-Marasmiellus defibulatus var. defibulatus VARIETY
-=======
+# Marasmiellus defibulatus Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 47(5): 772 (1955)
 
 #### Original name
-Marasmiellus defibulatus var. defibulatus
+Marasmiellus defibulatus Singer
 
 ### Remarks
 null

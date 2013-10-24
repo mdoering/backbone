@@ -1,5 +1,4 @@
-Moreaua elongata Vánky, 2002 SPECIES
-=======
+# Moreaua elongata Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

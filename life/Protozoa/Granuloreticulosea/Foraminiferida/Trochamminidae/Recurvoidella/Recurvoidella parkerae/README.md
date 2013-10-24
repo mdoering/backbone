@@ -1,5 +1,4 @@
-Recurvoidella parkerae Uchio, 1960 SPECIES
-=======
+# Recurvoidella parkerae Uchio, 1960 SPECIES
 
 #### Status
 ACCEPTED

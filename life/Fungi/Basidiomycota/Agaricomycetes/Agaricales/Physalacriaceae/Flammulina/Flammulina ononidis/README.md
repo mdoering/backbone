@@ -1,17 +1,16 @@
-Flammulina velutipes var. pratensis Schief., 1949 VARIETY
-=======
+# Flammulina ononidis Arnolds, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Westfälische Pilzbriefe 11(3-4): 33 (1977)
 
 #### Original name
-Flammulina velutipes var. pratensis Schief., 1949
+Flammulina ononidis Arnolds, 1977
 
 ### Remarks
 null

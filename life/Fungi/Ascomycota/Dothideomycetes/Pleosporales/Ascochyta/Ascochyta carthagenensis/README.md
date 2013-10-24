@@ -1,5 +1,4 @@
-Ascochyta carthagenensis Sacc. SPECIES
-=======
+# Ascochyta carthagenensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pyrenula neoculata Aptroot SPECIES
-=======
+# Anthracothecium oculatum Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Australasian Lichenology 60: 38 (2007)
+Nuovo Giorn. Bot. Ital. 23: 404 (1891)
 
 #### Original name
 Anthracothecium oculatum Müll. Arg.

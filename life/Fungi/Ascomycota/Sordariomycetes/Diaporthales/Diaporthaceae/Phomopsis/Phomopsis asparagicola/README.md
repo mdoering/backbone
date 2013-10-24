@@ -1,5 +1,4 @@
-Phomopsis asparagicola Alcalde SPECIES
-=======
+# Phomopsis asparagicola Alcalde SPECIES
 
 #### Status
 ACCEPTED

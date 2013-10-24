@@ -1,5 +1,4 @@
-Lactarius paucifluus Murrill SPECIES
-=======
+# Lactarius paucifluus Murrill SPECIES
 
 #### Status
 ACCEPTED

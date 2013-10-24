@@ -1,5 +1,4 @@
-Rhodomonas heteromorpha D. R. A. Hill & R. Wetherbee SPECIES
-=======
+# Rhodomonas heteromorpha D. R. A. Hill & R. Wetherbee SPECIES
 
 #### Status
 ACCEPTED

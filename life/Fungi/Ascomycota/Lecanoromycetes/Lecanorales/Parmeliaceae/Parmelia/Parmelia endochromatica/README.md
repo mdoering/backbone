@@ -1,5 +1,4 @@
-Parmelia endochromatica (Hale) Brusse SPECIES
-=======
+# Parmelia endochromatica (Hale) Brusse SPECIES
 
 #### Status
 ACCEPTED

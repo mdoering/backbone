@@ -1,5 +1,4 @@
-Eriospora achaenioides Rostr. SPECIES
-=======
+# Eriospora achaenioides Rostr. SPECIES
 
 #### Status
 ACCEPTED

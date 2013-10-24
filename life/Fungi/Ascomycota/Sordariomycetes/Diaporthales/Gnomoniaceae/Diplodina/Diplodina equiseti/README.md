@@ -1,5 +1,4 @@
-Diplodina equiseti Sacc., 1905 SPECIES
-=======
+# Diplodina equiseti Sacc., 1905 SPECIES
 
 #### Status
 ACCEPTED

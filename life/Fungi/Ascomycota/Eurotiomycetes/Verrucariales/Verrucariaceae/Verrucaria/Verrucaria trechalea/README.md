@@ -1,5 +1,4 @@
-Verrucaria trechalea Nyl. SPECIES
-=======
+# Verrucaria trechalea Nyl. SPECIES
 
 #### Status
 ACCEPTED

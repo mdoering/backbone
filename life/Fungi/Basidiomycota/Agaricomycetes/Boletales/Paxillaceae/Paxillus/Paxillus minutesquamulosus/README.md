@@ -1,5 +1,4 @@
-Paxillus minutesquamulosus E. Horak SPECIES
-=======
+# Paxillus minutesquamulosus E. Horak SPECIES
 
 #### Status
 ACCEPTED

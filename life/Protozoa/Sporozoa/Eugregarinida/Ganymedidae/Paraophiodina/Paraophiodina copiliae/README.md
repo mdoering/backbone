@@ -1,5 +1,4 @@
-Paraophiodina copiliae Rose, 1933 SPECIES
-=======
+# Paraophiodina copiliae Rose, 1933 SPECIES
 
 #### Status
 ACCEPTED

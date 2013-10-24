@@ -1,5 +1,4 @@
-Erkenia Skuja, 1948 GENUS
-=======
+# Erkenia Skuja, 1948 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonostomum ambiguum SPECIES
-=======
+# Gonostomum ambiguum SPECIES
 
 #### Status
 ACCEPTED

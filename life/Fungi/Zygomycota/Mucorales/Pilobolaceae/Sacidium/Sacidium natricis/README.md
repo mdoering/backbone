@@ -1,5 +1,4 @@
-Sacidium natricis Mont. SPECIES
-=======
+# Sacidium natricis Mont. SPECIES
 
 #### Status
 ACCEPTED

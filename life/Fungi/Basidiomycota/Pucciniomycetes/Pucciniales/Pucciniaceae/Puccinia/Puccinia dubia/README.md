@@ -1,5 +1,4 @@
-Puccinia dubia Mayor SPECIES
-=======
+# Puccinia dubia Mayor SPECIES
 
 #### Status
 ACCEPTED

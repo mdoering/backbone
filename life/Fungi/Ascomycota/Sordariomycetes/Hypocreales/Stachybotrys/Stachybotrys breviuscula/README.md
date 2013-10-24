@@ -1,17 +1,16 @@
-Stachybotrys breviusculus McKenzie SPECIES
-=======
+# Stachybotrys breviuscula McKenzie, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 41(1): 180 (1991)
 
 #### Original name
-Stachybotrys breviusculus McKenzie
+Stachybotrys breviuscula McKenzie, 1991
 
 ### Remarks
 null

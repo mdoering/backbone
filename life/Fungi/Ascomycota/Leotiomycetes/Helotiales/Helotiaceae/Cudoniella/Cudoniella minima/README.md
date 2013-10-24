@@ -1,5 +1,4 @@
-Cudoniella minima Rostaf. & Lind SPECIES
-=======
+# Cudoniella minima Rostaf. & Lind SPECIES
 
 #### Status
 ACCEPTED

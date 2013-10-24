@@ -1,5 +1,4 @@
-Porocyphus ocellatus (Th. Fr.) Henssen SPECIES
-=======
+# Porocyphus ocellatus (Th. Fr.) Henssen SPECIES
 
 #### Status
 ACCEPTED

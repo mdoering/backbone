@@ -1,14 +1,13 @@
-Peziza convexula Pers., 1800 SPECIES
-=======
+# Octospora convexula (Pers.) L.R. Batra, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Lipsiae) 2: 85 (1800)
+Bulletin of the University of Kansas, Science 44: 167 (1963)
 
 #### Original name
 Peziza convexula Pers., 1800

@@ -1,5 +1,4 @@
-Dicaeoma punctum (Link) Kuntze SPECIES
-=======
+# Dicaeoma punctum (Link) Kuntze SPECIES
 
 #### Status
 ACCEPTED

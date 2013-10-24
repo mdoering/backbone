@@ -1,5 +1,4 @@
-Dentalina funiculus Fischer, 1875 SPECIES
-=======
+# Dentalina funiculus Fischer, 1875 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Feditia Yu.Petrov & I.Gusarova, 1972 GENUS
-=======
+# Feditia Yu.Petrov & I.Gusarova, 1972 GENUS
 
 #### Status
 ACCEPTED

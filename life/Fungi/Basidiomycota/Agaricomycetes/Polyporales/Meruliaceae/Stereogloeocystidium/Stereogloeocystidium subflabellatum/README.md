@@ -1,5 +1,4 @@
-Stereogloeocystidium subflabellatum Rick SPECIES
-=======
+# Stereogloeocystidium subflabellatum Rick SPECIES
 
 #### Status
 ACCEPTED

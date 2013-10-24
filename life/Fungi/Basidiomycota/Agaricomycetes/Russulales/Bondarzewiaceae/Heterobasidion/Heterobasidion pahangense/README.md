@@ -1,5 +1,4 @@
-Heterobasidion pahangense Corner SPECIES
-=======
+# Heterobasidion pahangense Corner SPECIES
 
 #### Status
 ACCEPTED

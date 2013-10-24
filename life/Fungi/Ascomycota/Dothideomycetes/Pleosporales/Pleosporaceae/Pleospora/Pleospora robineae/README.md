@@ -1,5 +1,4 @@
-Pleospora robineae SPECIES
-=======
+# Pleospora robineae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina higginsii Mix SPECIES
-=======
+# Taphrina higginsii Mix SPECIES
 
 #### Status
 ACCEPTED

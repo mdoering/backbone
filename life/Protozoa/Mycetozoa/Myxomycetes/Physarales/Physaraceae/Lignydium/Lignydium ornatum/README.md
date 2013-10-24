@@ -1,5 +1,4 @@
-Lignydium ornatum (Peck) Kuntze SPECIES
-=======
+# Lignydium ornatum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

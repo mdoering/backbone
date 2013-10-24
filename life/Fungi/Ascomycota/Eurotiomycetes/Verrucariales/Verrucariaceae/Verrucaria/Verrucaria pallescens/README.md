@@ -1,5 +1,4 @@
-Verrucaria pallescens (L.) F.H. Wigg. SPECIES
-=======
+# Verrucaria pallescens (L.) F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

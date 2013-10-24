@@ -1,5 +1,4 @@
-Inocybe apiosmota Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe apiosmota Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

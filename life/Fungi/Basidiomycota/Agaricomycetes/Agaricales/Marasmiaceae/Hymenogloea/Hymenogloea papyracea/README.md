@@ -1,5 +1,4 @@
-Hymenogloea papyracea (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Hymenogloea papyracea (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

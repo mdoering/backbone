@@ -1,5 +1,4 @@
-Myrothecium lachastrae Sacc., 1882 SPECIES
-=======
+# Myrothecium lachastrae Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED

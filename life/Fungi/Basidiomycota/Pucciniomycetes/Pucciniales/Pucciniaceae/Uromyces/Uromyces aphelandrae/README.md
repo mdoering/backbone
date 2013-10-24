@@ -1,5 +1,4 @@
-Uromyces aphelandrae Syd. & P. Syd. SPECIES
-=======
+# Uromyces aphelandrae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

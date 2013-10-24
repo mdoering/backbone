@@ -1,5 +1,4 @@
-Exidia fuliginea Mont. SPECIES
-=======
+# Exidia fuliginea Mont. SPECIES
 
 #### Status
 ACCEPTED

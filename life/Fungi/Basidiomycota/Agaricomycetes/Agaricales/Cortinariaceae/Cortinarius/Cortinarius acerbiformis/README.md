@@ -1,5 +1,4 @@
-Cortinarius acerbiformis Reumaux SPECIES
-=======
+# Cortinarius acerbiformis Reumaux SPECIES
 
 #### Status
 ACCEPTED

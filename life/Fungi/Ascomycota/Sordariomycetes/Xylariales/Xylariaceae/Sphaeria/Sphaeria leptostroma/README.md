@@ -1,5 +1,4 @@
-Sphaeria leptostroma Ehrenb. SPECIES
-=======
+# Sphaeria leptostroma Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

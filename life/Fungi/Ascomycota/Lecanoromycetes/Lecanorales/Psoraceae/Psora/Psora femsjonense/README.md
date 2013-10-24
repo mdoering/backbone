@@ -1,5 +1,4 @@
-Psora femsjonense (Fr.) Trevis. SPECIES
-=======
+# Psora femsjonense (Fr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

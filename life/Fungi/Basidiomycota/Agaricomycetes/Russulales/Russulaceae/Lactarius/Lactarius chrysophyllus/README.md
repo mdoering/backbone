@@ -1,5 +1,4 @@
-Lactarius chrysophyllus Z. Schaef. SPECIES
-=======
+# Lactarius chrysophyllus Z. Schaef. SPECIES
 
 #### Status
 ACCEPTED

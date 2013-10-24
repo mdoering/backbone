@@ -1,5 +1,4 @@
-Chilostomella ovoidea SPECIES
-=======
+# Chilostomella ovoidea SPECIES
 
 #### Status
 ACCEPTED

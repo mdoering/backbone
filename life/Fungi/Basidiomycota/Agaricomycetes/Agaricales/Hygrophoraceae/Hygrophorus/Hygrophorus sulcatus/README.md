@@ -1,5 +1,4 @@
-Hygrophorus sulcatus P. Karst. SPECIES
-=======
+# Hygrophorus sulcatus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

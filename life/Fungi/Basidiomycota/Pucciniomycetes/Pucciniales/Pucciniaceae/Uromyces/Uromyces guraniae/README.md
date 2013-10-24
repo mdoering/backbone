@@ -1,5 +1,4 @@
-Uromyces guraniae Mayor SPECIES
-=======
+# Uromyces guraniae Mayor SPECIES
 
 #### Status
 ACCEPTED

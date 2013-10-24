@@ -1,5 +1,4 @@
-Tricholoma grande Peck SPECIES
-=======
+# Tricholoma grande Peck SPECIES
 
 #### Status
 ACCEPTED

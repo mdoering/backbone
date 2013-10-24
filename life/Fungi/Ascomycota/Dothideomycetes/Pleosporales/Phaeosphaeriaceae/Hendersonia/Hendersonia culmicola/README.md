@@ -1,17 +1,16 @@
-Hendersonia culmicola var. culmicola VARIETY
-=======
+# Hendersonia culmicola Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 1(no. 2): 201 (1878)
 
 #### Original name
-Hendersonia culmicola var. culmicola
+Hendersonia culmicola Sacc., 1878
 
 ### Remarks
 null

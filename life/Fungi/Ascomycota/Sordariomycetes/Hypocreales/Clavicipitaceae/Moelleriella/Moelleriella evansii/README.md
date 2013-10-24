@@ -1,5 +1,4 @@
-Moelleriella evansii P. Chaverri & K.T. Hodge SPECIES
-=======
+# Moelleriella evansii P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora porracea Stizenb. SPECIES
-=======
+# Lecanora porracea Stizenb. SPECIES
 
 #### Status
 ACCEPTED

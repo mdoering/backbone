@@ -1,5 +1,4 @@
-Fusicladium heterosporum Höhn. SPECIES
-=======
+# Fusicladium heterosporum Höhn. SPECIES
 
 #### Status
 ACCEPTED

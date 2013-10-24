@@ -1,5 +1,4 @@
-Diplodia millegrana Cooke & Harkn. SPECIES
-=======
+# Diplodia millegrana Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

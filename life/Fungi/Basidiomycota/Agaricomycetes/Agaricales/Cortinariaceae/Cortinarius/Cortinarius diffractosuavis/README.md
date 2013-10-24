@@ -1,5 +1,4 @@
-Cortinarius diffractosuavis Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius diffractosuavis Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

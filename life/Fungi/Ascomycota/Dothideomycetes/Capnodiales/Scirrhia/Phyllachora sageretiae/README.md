@@ -1,5 +1,4 @@
-Phyllachora sageretiae C.A. Pearce, K.D. Hyde & R.G. Shivas, 1995 SPECIES
-=======
+# Phyllachora sageretiae C.A. Pearce, K.D. Hyde & R.G. Shivas, 1995 SPECIES
 
 #### Status
 DOUBTFUL

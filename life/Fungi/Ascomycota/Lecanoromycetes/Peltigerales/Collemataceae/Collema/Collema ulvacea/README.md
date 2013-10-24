@@ -1,5 +1,4 @@
-Collema ulvacea Pers. SPECIES
-=======
+# Collema ulvacea Pers. SPECIES
 
 #### Status
 ACCEPTED

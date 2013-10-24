@@ -1,5 +1,4 @@
-Lecidea melampepla (Tuck.) SPECIES
-=======
+# Lecidea melampepla (Tuck.) SPECIES
 
 #### Status
 ACCEPTED

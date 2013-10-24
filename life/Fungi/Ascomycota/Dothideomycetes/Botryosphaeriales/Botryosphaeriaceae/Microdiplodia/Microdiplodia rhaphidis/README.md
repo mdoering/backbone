@@ -1,17 +1,16 @@
-Microdiplodia raphidis V.G. Rao & B.R.D. Yadav SPECIES
-=======
+# Microdiplodia rhaphidis V.G. Rao & B.R.D. Yadav SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. bot. 2(2-3): 189 (1991)
 
 #### Original name
-Microdiplodia raphidis V.G. Rao & B.R.D. Yadav
+Microdiplodia rhaphidis V.G. Rao & B.R.D. Yadav
 
 ### Remarks
 null

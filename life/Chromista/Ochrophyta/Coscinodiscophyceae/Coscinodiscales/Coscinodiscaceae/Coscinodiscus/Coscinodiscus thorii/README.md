@@ -1,5 +1,4 @@
-Coscinodiscus thorii SPECIES
-=======
+# Coscinodiscus thorii SPECIES
 
 #### Status
 ACCEPTED

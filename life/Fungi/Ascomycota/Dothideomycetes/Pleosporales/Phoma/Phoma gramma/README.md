@@ -1,5 +1,4 @@
-Phoma gramma (Schwein.) Starbäck SPECIES
-=======
+# Phoma gramma (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

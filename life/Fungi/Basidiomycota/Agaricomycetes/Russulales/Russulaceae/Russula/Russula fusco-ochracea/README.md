@@ -1,17 +1,16 @@
-Russula fuscoochracea Velen. SPECIES
-=======
+# Russula fusco-ochracea Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 1: 148 (1920)
 
 #### Original name
-Russula fuscoochracea Velen.
+Russula fusco-ochracea Velen.
 
 ### Remarks
 null

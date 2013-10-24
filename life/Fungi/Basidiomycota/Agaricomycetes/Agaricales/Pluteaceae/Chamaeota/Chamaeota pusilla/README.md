@@ -1,5 +1,4 @@
-Chamaeota pusilla (Pat. & Gaillard) Beardslee SPECIES
-=======
+# Chamaeota pusilla (Pat. & Gaillard) Beardslee SPECIES
 
 #### Status
 ACCEPTED

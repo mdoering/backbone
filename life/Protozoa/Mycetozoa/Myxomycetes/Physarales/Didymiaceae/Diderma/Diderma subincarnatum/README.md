@@ -1,5 +1,4 @@
-Diderma subincarnatum Kowalski, 1967 SPECIES
-=======
+# Diderma subincarnatum Kowalski, 1967 SPECIES
 
 #### Status
 ACCEPTED

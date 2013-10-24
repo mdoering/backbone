@@ -1,5 +1,4 @@
-Psalliota bivelata Velen. SPECIES
-=======
+# Psalliota bivelata Velen. SPECIES
 
 #### Status
 ACCEPTED

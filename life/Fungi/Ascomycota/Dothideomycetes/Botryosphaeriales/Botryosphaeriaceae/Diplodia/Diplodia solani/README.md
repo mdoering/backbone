@@ -1,5 +1,4 @@
-Diplodia solani Pass. SPECIES
-=======
+# Diplodia solani Pass. SPECIES
 
 #### Status
 ACCEPTED

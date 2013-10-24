@@ -1,5 +1,4 @@
-Austroboletus mucosus (Corner) Wolfe SPECIES
-=======
+# Austroboletus mucosus (Corner) Wolfe SPECIES
 
 #### Status
 ACCEPTED

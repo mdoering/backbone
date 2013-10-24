@@ -1,5 +1,4 @@
-Lecidea rubella var. fusconigella Tuck. VARIETY
-=======
+# Lecidea rubella (Ach.) Röhling SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea rubella var. fusconigella Tuck.
+Lecidea luteola var. rubella Ach.
 
 ### Remarks
 null

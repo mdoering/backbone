@@ -1,5 +1,4 @@
-Inocybe sororia Kauffman SPECIES
-=======
+# Inocybe sororia Kauffman SPECIES
 
 #### Status
 ACCEPTED

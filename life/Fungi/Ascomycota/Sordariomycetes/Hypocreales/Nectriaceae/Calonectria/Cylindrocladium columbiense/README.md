@@ -1,5 +1,4 @@
-Cylindrocladium columbiense SPECIES
-=======
+# Cylindrocladium columbiense SPECIES
 
 #### Status
 ACCEPTED

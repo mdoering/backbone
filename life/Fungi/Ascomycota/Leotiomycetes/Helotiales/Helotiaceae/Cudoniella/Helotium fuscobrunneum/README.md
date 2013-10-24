@@ -1,5 +1,4 @@
-Helotium fuscobrunneum Pat. & Gaillard SPECIES
-=======
+# Helotium fuscobrunneum Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

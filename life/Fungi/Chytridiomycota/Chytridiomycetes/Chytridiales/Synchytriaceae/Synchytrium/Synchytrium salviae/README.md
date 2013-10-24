@@ -1,5 +1,4 @@
-Synchytrium salviae Karling SPECIES
-=======
+# Synchytrium salviae Karling SPECIES
 
 #### Status
 ACCEPTED

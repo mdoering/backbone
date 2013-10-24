@@ -1,5 +1,4 @@
-Ochrolechia orientalis Vain. SPECIES
-=======
+# Ochrolechia orientalis Vain. SPECIES
 
 #### Status
 ACCEPTED

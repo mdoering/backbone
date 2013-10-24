@@ -1,5 +1,4 @@
-Coniothyrium fructicola Hollós SPECIES
-=======
+# Coniothyrium fructicola Hollós SPECIES
 
 #### Status
 ACCEPTED

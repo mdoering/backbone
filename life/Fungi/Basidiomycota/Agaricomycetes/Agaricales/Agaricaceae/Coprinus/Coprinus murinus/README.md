@@ -1,5 +1,4 @@
-Coprinus murinus Kalchbr. SPECIES
-=======
+# Coprinus murinus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

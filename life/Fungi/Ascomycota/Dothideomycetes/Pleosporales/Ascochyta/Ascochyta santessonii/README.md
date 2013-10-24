@@ -1,5 +1,4 @@
-Ascochyta santessonii Alstrup & D. Hawksw. SPECIES
-=======
+# Ascochyta santessonii Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

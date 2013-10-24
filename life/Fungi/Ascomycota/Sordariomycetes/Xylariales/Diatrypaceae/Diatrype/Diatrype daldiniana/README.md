@@ -1,5 +1,4 @@
-Diatrype daldiniana De Not. SPECIES
-=======
+# Diatrype daldiniana De Not. SPECIES
 
 #### Status
 ACCEPTED

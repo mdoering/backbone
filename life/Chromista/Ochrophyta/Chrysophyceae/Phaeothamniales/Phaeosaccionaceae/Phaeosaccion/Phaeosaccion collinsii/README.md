@@ -1,5 +1,4 @@
-Phaeosaccion collinsii Farlow SPECIES
-=======
+# Phaeosaccion collinsii Farlow SPECIES
 
 #### Status
 ACCEPTED

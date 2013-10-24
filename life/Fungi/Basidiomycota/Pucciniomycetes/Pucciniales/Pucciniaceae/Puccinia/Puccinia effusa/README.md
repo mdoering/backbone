@@ -1,5 +1,4 @@
-Puccinia effusa Dietel & Holw. SPECIES
-=======
+# Puccinia effusa Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

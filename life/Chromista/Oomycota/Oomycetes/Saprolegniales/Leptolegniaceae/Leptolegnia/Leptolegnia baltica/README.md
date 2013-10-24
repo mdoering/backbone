@@ -1,5 +1,4 @@
-Leptolegnia baltica Höhnk & Vallin SPECIES
-=======
+# Leptolegnia baltica Höhnk & Vallin SPECIES
 
 #### Status
 ACCEPTED

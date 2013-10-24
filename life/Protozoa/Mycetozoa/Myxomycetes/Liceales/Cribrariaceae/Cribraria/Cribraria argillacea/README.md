@@ -1,17 +1,16 @@
-Cribraria argillacea var. argillacea (Pers.) Pers. VARIETY
-=======
+# Cribraria argillacea (Pers. ex J.F. Gmel.) Pers., 1794 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Neues Mag. Bot. 1: 91 (1794)
 
 #### Original name
-Cribraria argillacea var. argillacea (Pers.) Pers.
+Stemonitis argillacea Pers. ex J.F. Gmel., 1792
 
 ### Remarks
 null

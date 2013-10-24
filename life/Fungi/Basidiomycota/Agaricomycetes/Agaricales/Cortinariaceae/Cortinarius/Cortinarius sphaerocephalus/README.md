@@ -1,5 +1,4 @@
-Cortinarius sphaerocephalus (E. Horak & M.M. Moser) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius sphaerocephalus (E. Horak & M.M. Moser) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

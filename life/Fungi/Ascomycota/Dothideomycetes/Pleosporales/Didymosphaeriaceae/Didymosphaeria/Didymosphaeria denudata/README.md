@@ -1,5 +1,4 @@
-Didymosphaeria denudata Ellis & Galloway SPECIES
-=======
+# Didymosphaeria denudata Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

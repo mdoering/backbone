@@ -1,5 +1,4 @@
-Ascochyta bupleuri Thüm. SPECIES
-=======
+# Ascochyta bupleuri Thüm. SPECIES
 
 #### Status
 ACCEPTED

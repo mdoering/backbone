@@ -1,5 +1,4 @@
-Grandinia brassicicola (Bres.) Bourdot & Galzin SPECIES
-=======
+# Grandinia brassicicola (Bres.) Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

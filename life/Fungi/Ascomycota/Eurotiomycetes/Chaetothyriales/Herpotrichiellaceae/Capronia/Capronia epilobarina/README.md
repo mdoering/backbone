@@ -1,5 +1,4 @@
-Capronia epilobarina S.Y. Kondr. & D.J. Galloway SPECIES
-=======
+# Capronia epilobarina S.Y. Kondr. & D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

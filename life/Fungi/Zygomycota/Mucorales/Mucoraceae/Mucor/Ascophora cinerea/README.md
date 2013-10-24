@@ -1,5 +1,4 @@
-Ascophora cinerea Preuss SPECIES
-=======
+# Ascophora cinerea Preuss SPECIES
 
 #### Status
 ACCEPTED

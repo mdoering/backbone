@@ -1,5 +1,4 @@
-Navisporus africanus Ryvarden, 2000 SPECIES
-=======
+# Navisporus africanus Ryvarden, 2000 SPECIES
 
 #### Status
 ACCEPTED

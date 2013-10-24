@@ -1,17 +1,16 @@
-Polyporus manubriatus Lév., 1854 SPECIES
-=======
+# Amauroderma scopulosum (Berk.) Imazeki, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Zollinger, Natuur-Geneesk. Arch. Ned. -Indië 17 (1854)
+Bull. Gov. Forest Exp. St. Tokyo 57: 99 (1952)
 
 #### Original name
-Polyporus manubriatus Lév., 1854
+Polyporus scopulosus Berk., 1854
 
 ### Remarks
 null

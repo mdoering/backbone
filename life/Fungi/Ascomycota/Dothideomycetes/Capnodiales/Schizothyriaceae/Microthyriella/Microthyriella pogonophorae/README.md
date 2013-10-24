@@ -1,5 +1,4 @@
-Microthyriella pogonophorae Bat. & I.H. Lima SPECIES
-=======
+# Microthyriella pogonophorae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

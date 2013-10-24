@@ -1,5 +1,4 @@
-Pyrenula aspisteoides SPECIES
-=======
+# Pyrenula aspisteoides SPECIES
 
 #### Status
 ACCEPTED

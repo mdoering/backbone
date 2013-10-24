@@ -1,5 +1,4 @@
-Cryptodiscus stictis Rehm SPECIES
-=======
+# Cryptodiscus stictis Rehm SPECIES
 
 #### Status
 ACCEPTED

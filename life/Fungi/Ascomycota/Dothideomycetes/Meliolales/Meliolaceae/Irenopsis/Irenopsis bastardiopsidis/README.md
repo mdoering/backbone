@@ -1,5 +1,4 @@
-Irenopsis bastardiopsidis (Speg.) F. Stevens SPECIES
-=======
+# Irenopsis bastardiopsidis (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

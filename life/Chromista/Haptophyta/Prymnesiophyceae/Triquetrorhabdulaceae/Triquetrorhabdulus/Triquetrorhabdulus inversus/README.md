@@ -1,5 +1,4 @@
-Triquetrorhabdulus inversus D. Bukry & M. N. Bramlette SPECIES
-=======
+# Triquetrorhabdulus inversus D. Bukry & M. N. Bramlette SPECIES
 
 #### Status
 ACCEPTED

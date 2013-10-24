@@ -1,5 +1,4 @@
-Angulodiscus Kristan, 1957 GENUS
-=======
+# Angulodiscus Kristan, 1957 GENUS
 
 #### Status
 ACCEPTED

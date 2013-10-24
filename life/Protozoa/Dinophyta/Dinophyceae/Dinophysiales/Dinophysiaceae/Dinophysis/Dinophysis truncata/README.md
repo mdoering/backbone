@@ -1,8 +1,7 @@
-Dinophysis cuneiformis Mangin, 1922 SPECIES
-=======
+# Dinophysis truncata Cleve, 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

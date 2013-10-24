@@ -1,17 +1,16 @@
-Puccinia serrulatae-cerinthefoliae Rayss SPECIES
-=======
+# Puccinia serratulae-cerinthefoliae Rayss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hommage au Prof. E. C. Teodoresco, Bucurestii 6 (1937)
 
 #### Original name
-Puccinia serrulatae-cerinthefoliae Rayss
+Puccinia serratulae-cerinthefoliae Rayss
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea sanguinariella Nyl. SPECIES
-=======
+# Lecidea sanguinariella Nyl. SPECIES
 
 #### Status
 ACCEPTED

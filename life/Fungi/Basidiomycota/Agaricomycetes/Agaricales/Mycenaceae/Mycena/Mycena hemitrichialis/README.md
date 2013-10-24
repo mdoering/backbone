@@ -1,5 +1,4 @@
-Mycena hemitrichialis Singer SPECIES
-=======
+# Mycena hemitrichialis Singer SPECIES
 
 #### Status
 ACCEPTED

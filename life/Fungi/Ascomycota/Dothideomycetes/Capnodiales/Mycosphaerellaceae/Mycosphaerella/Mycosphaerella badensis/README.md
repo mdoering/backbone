@@ -1,5 +1,4 @@
-Mycosphaerella badensis (Niessl) M. Bechet SPECIES
-=======
+# Mycosphaerella badensis (Niessl) M. Bechet SPECIES
 
 #### Status
 ACCEPTED

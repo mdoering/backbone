@@ -1,5 +1,4 @@
-Aniptodera juncicola Volkm.-Kohlm. & Kohlm., 1994 SPECIES
-=======
+# Aniptodera juncicola Volkm.-Kohlm. & Kohlm., 1994 SPECIES
 
 #### Status
 ACCEPTED

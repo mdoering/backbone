@@ -1,5 +1,4 @@
-Biatorella palmeti (Stizenb.) Zahlbr. SPECIES
-=======
+# Biatorella palmeti (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

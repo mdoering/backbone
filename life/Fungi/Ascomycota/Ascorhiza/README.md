@@ -1,5 +1,4 @@
-Ascorhiza Lechtova-Trnka, 1931 GENUS
-=======
+# Ascorhiza Lechtova-Trnka, 1931 GENUS
 
 #### Status
 ACCEPTED

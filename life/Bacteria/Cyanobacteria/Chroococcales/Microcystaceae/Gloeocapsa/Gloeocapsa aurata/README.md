@@ -1,5 +1,4 @@
-Gloeocapsa aurata Stizenberger SPECIES
-=======
+# Gloeocapsa aurata Stizenberger SPECIES
 
 #### Status
 ACCEPTED

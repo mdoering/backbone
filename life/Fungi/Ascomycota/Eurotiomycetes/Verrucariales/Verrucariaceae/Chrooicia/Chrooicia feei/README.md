@@ -1,5 +1,4 @@
-Chrooicia feei Trevis. SPECIES
-=======
+# Chrooicia feei Trevis. SPECIES
 
 #### Status
 ACCEPTED

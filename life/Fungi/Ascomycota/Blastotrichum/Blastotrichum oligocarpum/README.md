@@ -1,5 +1,4 @@
-Blastotrichum oligocarpum (Corda) Sacc. SPECIES
-=======
+# Blastotrichum oligocarpum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

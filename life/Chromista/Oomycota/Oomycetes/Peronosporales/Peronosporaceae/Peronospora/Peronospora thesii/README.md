@@ -1,5 +1,4 @@
-Peronospora thesii Lagerh. SPECIES
-=======
+# Peronospora thesii Lagerh. SPECIES
 
 #### Status
 ACCEPTED

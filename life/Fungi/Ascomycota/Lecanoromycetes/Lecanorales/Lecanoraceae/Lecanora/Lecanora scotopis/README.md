@@ -1,5 +1,4 @@
-Lecanora scotopis Nyl. SPECIES
-=======
+# Lecanora scotopis Nyl. SPECIES
 
 #### Status
 ACCEPTED

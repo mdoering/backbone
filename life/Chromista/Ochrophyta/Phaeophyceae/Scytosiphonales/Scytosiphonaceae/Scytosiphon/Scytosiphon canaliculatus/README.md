@@ -1,5 +1,4 @@
-Scytosiphon canaliculatus (Setchell & N.L. Gardner) Kogame SPECIES
-=======
+# Scytosiphon canaliculatus (Setchell & N.L. Gardner) Kogame SPECIES
 
 #### Status
 ACCEPTED

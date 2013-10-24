@@ -1,5 +1,4 @@
-Botryodiplodia majuscula Sacc. SPECIES
-=======
+# Botryodiplodia majuscula Sacc. SPECIES
 
 #### Status
 ACCEPTED

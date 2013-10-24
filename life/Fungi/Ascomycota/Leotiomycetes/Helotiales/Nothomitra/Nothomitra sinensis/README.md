@@ -1,5 +1,4 @@
-Nothomitra sinensis W.Y. Zhuang, 1997 SPECIES
-=======
+# Nothomitra sinensis W.Y. Zhuang, 1997 SPECIES
 
 #### Status
 ACCEPTED

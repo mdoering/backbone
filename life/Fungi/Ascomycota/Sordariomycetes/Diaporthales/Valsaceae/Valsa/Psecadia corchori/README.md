@@ -1,5 +1,4 @@
-Psecadia corchori Kalchbr. SPECIES
-=======
+# Psecadia corchori Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

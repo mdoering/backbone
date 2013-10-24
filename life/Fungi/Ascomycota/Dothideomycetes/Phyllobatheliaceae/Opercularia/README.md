@@ -1,5 +1,4 @@
-Opercularia GENUS
-=======
+# Opercularia GENUS
 
 #### Status
 ACCEPTED

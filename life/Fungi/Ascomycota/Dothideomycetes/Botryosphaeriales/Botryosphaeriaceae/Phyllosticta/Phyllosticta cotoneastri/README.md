@@ -1,5 +1,4 @@
-Phyllosticta cotoneastri Allesch., 1897 SPECIES
-=======
+# Phyllosticta cotoneastri Allesch., 1897 SPECIES
 
 #### Status
 ACCEPTED

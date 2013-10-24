@@ -1,5 +1,4 @@
-Hydnum moschatellinum Velen. SPECIES
-=======
+# Hydnum moschatellinum Velen. SPECIES
 
 #### Status
 ACCEPTED

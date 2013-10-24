@@ -1,5 +1,4 @@
-Macrophoma projecta (Cooke) Tassi SPECIES
-=======
+# Macrophoma projecta (Cooke) Tassi SPECIES
 
 #### Status
 ACCEPTED

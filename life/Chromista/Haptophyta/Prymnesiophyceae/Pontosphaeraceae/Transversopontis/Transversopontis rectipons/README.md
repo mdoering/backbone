@@ -1,5 +1,4 @@
-Transversopontis rectipons (Haq, 1968) Roth, 1970 SPECIES
-=======
+# Transversopontis rectipons (Haq, 1968) Roth, 1970 SPECIES
 
 #### Status
 ACCEPTED

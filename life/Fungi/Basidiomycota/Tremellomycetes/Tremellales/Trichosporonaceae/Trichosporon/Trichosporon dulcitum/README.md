@@ -1,14 +1,13 @@
-Endomyces zambettakesi (C. Ramírez) E.K. Novák & Zsolt SPECIES
-=======
+# Trichosporon dulcitum (Berkhout) Weijman, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 45(1): 126 (1979)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Bapalmuia costaricensis Lücking & Kalb SPECIES
-=======
+# Bapalmuia costaricensis Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

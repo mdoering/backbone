@@ -1,5 +1,4 @@
-Rhizaspidaceae FAMILY
-=======
+# Rhizaspidaceae FAMILY
 
 #### Status
 ACCEPTED

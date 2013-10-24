@@ -1,5 +1,4 @@
-Batistospora crucis-filii Dianese, Medeiros & Santos SPECIES
-=======
+# Batistospora crucis-filii Dianese, Medeiros & Santos SPECIES
 
 #### Status
 ACCEPTED

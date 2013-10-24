@@ -1,5 +1,4 @@
-Irene buxi I. Hino & Katum. SPECIES
-=======
+# Irene buxi I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecostigmina crotonicola (M.B. Ellis) U. Braun SPECIES
-=======
+# Scolecostigmina crotonicola (M.B. Ellis) U. Braun SPECIES
 
 #### Status
 ACCEPTED

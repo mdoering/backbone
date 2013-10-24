@@ -1,5 +1,4 @@
-Botrytis linkii Duby SPECIES
-=======
+# Botrytis linkii Duby SPECIES
 
 #### Status
 ACCEPTED

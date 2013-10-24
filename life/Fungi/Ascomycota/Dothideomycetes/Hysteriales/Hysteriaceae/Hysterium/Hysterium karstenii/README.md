@@ -1,5 +1,4 @@
-Hysterium karstenii M.L. Lohman SPECIES
-=======
+# Hysterium karstenii M.L. Lohman SPECIES
 
 #### Status
 ACCEPTED

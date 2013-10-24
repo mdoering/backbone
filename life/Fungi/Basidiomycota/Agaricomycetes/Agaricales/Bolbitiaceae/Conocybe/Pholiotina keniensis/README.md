@@ -1,5 +1,4 @@
-Pholiotina keniensis (Pegler) Hauskn. SPECIES
-=======
+# Pholiotina keniensis (Pegler) Hauskn. SPECIES
 
 #### Status
 ACCEPTED

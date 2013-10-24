@@ -1,5 +1,4 @@
-Cortinarius griseolilacinus Britzelm. SPECIES
-=======
+# Cortinarius griseolilacinus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

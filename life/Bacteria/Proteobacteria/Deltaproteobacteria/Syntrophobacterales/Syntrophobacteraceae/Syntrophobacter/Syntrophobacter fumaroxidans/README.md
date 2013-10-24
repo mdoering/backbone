@@ -1,5 +1,4 @@
-Syntrophobacter fumaroxidans Harmsen et al., 1998 SPECIES
-=======
+# Syntrophobacter fumaroxidans Harmsen et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnangium eisenii (Harkn.) Zeller & C.W. Dodge SPECIES
-=======
+# Hydnangium eisenii (Harkn.) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

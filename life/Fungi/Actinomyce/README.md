@@ -1,5 +1,4 @@
-Actinomyce Meyen GENUS
-=======
+# Actinomyce Meyen GENUS
 
 #### Status
 ACCEPTED

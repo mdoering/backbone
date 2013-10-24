@@ -1,5 +1,4 @@
-Graphina collosporella (Vain.) Zahlbr. SPECIES
-=======
+# Graphina collosporella (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

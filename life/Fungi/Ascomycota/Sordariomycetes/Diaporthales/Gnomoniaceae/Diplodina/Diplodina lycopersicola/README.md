@@ -1,5 +1,4 @@
-Diplodina lycopersicola Bond.-Mont. SPECIES
-=======
+# Diplodina lycopersicola Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

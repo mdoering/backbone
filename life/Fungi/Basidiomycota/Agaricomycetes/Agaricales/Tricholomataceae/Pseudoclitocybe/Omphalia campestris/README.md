@@ -1,5 +1,4 @@
-Omphalia campestris Romell SPECIES
-=======
+# Omphalia campestris Romell SPECIES
 
 #### Status
 ACCEPTED

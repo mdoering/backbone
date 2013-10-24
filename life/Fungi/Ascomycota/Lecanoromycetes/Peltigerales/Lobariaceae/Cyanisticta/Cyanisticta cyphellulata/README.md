@@ -1,5 +1,4 @@
-Cyanisticta cyphellulata SPECIES
-=======
+# Cyanisticta cyphellulata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosporium Plakidas & Edgerton, 1936 GENUS
-=======
+# Dendrosporium Plakidas & Edgerton, 1936 GENUS
 
 #### Status
 ACCEPTED

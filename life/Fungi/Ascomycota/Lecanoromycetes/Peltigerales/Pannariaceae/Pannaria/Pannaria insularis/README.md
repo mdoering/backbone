@@ -1,5 +1,4 @@
-Pannaria insularis P. M. Jørg. & Kashiw. SPECIES
-=======
+# Pannaria insularis P. M. Jørg. & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

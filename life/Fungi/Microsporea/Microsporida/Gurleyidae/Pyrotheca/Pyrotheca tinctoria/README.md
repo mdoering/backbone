@@ -1,5 +1,4 @@
-Pyrotheca tinctoria Steud. SPECIES
-=======
+# Pyrotheca tinctoria Steud. SPECIES
 
 #### Status
 ACCEPTED

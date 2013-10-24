@@ -1,5 +1,4 @@
-Zoothamnium astacicolae Shubernetzki, 1978 SPECIES
-=======
+# Zoothamnium astacicolae Shubernetzki, 1978 SPECIES
 
 #### Status
 ACCEPTED

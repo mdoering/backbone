@@ -1,5 +1,4 @@
-Sphingomonas phyllosphaerae Rivas et al., 2004 SPECIES
-=======
+# Sphingomonas phyllosphaerae Rivas et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

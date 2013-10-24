@@ -1,5 +1,4 @@
-Sterigmatocystis bicolor J.B. Ray SPECIES
-=======
+# Sterigmatocystis bicolor J.B. Ray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rossyatella colonnensis Pawlowski & Zaninetti, 1993 SPECIES
-=======
+# Rossyatella colonnensis Pawlowski & Zaninetti, 1993 SPECIES
 
 #### Status
 ACCEPTED

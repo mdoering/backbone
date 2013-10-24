@@ -1,5 +1,4 @@
-Pleurotus rosarum Velen. SPECIES
-=======
+# Pleurotus rosarum Velen. SPECIES
 
 #### Status
 ACCEPTED

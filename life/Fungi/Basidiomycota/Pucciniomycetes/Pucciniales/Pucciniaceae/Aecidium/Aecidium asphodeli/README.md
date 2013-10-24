@@ -1,5 +1,4 @@
-Aecidium asphodeli Castagne SPECIES
-=======
+# Aecidium asphodeli Castagne SPECIES
 
 #### Status
 ACCEPTED

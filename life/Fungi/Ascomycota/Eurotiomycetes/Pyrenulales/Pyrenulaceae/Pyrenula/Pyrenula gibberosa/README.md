@@ -1,5 +1,4 @@
-Pyrenula gibberosa Vain. SPECIES
-=======
+# Pyrenula gibberosa Vain. SPECIES
 
 #### Status
 ACCEPTED

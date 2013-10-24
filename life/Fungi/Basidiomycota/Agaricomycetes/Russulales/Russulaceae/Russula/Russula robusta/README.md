@@ -1,5 +1,4 @@
-Russula robusta R. Heim SPECIES
-=======
+# Russula robusta R. Heim SPECIES
 
 #### Status
 ACCEPTED

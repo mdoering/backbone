@@ -1,5 +1,4 @@
-Cercospora lycopersicicola Bhartiya, R. Dubey & S.K. Singh SPECIES
-=======
+# Cercospora lycopersicicola Bhartiya, R. Dubey & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

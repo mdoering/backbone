@@ -1,5 +1,4 @@
-Lirula japonica S. Kaneko, 2003 SPECIES
-=======
+# Lirula japonica S. Kaneko, 2003 SPECIES
 
 #### Status
 ACCEPTED

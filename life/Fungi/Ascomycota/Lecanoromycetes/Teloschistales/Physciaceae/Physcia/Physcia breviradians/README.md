@@ -1,5 +1,4 @@
-Physcia breviradians Müll. Arg. SPECIES
-=======
+# Physcia breviradians Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

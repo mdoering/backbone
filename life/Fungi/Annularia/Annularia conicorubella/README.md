@@ -1,5 +1,4 @@
-Annularia conicorubella (Rick) Rick SPECIES
-=======
+# Annularia conicorubella (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

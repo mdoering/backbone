@@ -1,5 +1,4 @@
-Pseudocercospora plagiogyriae Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora plagiogyriae Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

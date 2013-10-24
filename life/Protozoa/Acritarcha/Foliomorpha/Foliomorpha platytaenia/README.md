@@ -1,5 +1,4 @@
-Foliomorpha platytaenia Yan Yuzhong, 1985 SPECIES
-=======
+# Foliomorpha platytaenia Yan Yuzhong, 1985 SPECIES
 
 #### Status
 ACCEPTED

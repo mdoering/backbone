@@ -1,5 +1,4 @@
-Uvigerina trilobata d'Orbigny, 1852 SPECIES
-=======
+# Uvigerina trilobata d'Orbigny, 1852 SPECIES
 
 #### Status
 ACCEPTED

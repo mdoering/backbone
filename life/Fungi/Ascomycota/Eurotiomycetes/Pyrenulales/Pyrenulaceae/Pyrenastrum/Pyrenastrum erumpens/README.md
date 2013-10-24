@@ -1,5 +1,4 @@
-Pyrenastrum erumpens C.W. Dodge SPECIES
-=======
+# Pyrenastrum erumpens C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

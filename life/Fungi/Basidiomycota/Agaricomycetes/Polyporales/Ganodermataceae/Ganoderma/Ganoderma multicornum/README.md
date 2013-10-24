@@ -1,17 +1,16 @@
-Ganoderma multicorne Ryvarden SPECIES
-=======
+# Ganoderma multicornum Ryvarden SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 92(1): 184 (2000)
 
 #### Original name
-Ganoderma multicorne Ryvarden
+Ganoderma multicornum Ryvarden
 
 ### Remarks
 null

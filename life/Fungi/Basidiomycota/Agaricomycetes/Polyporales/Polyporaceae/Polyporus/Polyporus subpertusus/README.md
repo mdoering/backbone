@@ -1,5 +1,4 @@
-Polyporus subpertusus Lloyd SPECIES
-=======
+# Polyporus subpertusus Lloyd SPECIES
 
 #### Status
 ACCEPTED

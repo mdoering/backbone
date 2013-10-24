@@ -1,5 +1,4 @@
-Hypochnus mucidus J. Schröt. SPECIES
-=======
+# Hypochnus mucidus J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

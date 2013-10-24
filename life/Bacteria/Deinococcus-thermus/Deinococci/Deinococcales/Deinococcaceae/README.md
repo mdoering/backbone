@@ -1,5 +1,4 @@
-Deinococcaceae FAMILY
-=======
+# Deinococcaceae FAMILY
 
 #### Status
 ACCEPTED

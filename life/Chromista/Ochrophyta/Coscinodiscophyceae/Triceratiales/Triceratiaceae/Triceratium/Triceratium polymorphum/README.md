@@ -1,5 +1,4 @@
-Triceratium polymorphum D. M. Harwood & T. Maruyama SPECIES
-=======
+# Triceratium polymorphum D. M. Harwood & T. Maruyama SPECIES
 
 #### Status
 ACCEPTED

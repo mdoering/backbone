@@ -1,5 +1,4 @@
-Favolus subspathulatus Lloyd SPECIES
-=======
+# Favolus subspathulatus Lloyd SPECIES
 
 #### Status
 ACCEPTED

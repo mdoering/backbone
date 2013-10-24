@@ -1,17 +1,16 @@
-Cladonia sandstedei f. sandstedei FORM
-=======
+# Cladonia sandstedei Abbayes SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Bot. 74: 349 (1938)
 
 #### Original name
-Cladonia sandstedei f. sandstedei
+Cladonia sandstedei Abbayes
 
 ### Remarks
 null

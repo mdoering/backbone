@@ -1,5 +1,4 @@
-Sphacelaria recurva Y.-S. Keum, J.H. Oak, W.F. Prud'homme van Reine & I.K. Lee SPECIES
-=======
+# Sphacelaria recurva Y.-S. Keum, J.H. Oak, W.F. Prud'homme van Reine & I.K. Lee SPECIES
 
 #### Status
 ACCEPTED

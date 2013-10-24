@@ -1,5 +1,4 @@
-Pleurotus radicosus Pat. SPECIES
-=======
+# Pleurotus radicosus Pat. SPECIES
 
 #### Status
 ACCEPTED

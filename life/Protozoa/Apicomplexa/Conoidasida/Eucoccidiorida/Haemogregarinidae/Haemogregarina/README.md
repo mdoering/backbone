@@ -1,5 +1,4 @@
-Haemogregarina Danilewsky, 1885 GENUS
-=======
+# Haemogregarina Danilewsky, 1885 GENUS
 
 #### Status
 ACCEPTED

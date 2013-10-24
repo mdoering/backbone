@@ -1,5 +1,4 @@
-Peltula farinosa Büdel SPECIES
-=======
+# Peltula farinosa Büdel SPECIES
 
 #### Status
 ACCEPTED

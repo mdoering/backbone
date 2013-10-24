@@ -1,5 +1,4 @@
-Depazites increscens (A. Braun) Heer SPECIES
-=======
+# Depazites increscens (A. Braun) Heer SPECIES
 
 #### Status
 ACCEPTED

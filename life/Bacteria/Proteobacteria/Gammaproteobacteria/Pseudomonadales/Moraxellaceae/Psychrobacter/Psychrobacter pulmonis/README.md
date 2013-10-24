@@ -1,5 +1,4 @@
-Psychrobacter pulmonis Vela et al., 2003 SPECIES
-=======
+# Psychrobacter pulmonis Vela et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

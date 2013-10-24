@@ -1,5 +1,4 @@
-Xylaria fragilis (Roth) Sacc. SPECIES
-=======
+# Xylaria fragilis (Roth) Sacc. SPECIES
 
 #### Status
 ACCEPTED

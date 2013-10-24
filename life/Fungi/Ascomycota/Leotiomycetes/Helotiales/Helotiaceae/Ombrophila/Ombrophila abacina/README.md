@@ -1,5 +1,4 @@
-Ombrophila abacina (Fr.) Fr. SPECIES
-=======
+# Ombrophila abacina (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

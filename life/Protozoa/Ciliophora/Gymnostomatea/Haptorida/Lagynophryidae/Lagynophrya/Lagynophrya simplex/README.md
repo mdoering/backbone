@@ -1,5 +1,4 @@
-Lagynophrya simplex Kahl, 1927 SPECIES
-=======
+# Lagynophrya simplex Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas conradii Skvortzov SPECIES
-=======
+# Trachelomonas conradii Skvortzov SPECIES
 
 #### Status
 ACCEPTED

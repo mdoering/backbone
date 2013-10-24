@@ -1,5 +1,4 @@
-Meliola lianchangensis G.Z. Jiang SPECIES
-=======
+# Meliola lianchangensis G.Z. Jiang SPECIES
 
 #### Status
 ACCEPTED

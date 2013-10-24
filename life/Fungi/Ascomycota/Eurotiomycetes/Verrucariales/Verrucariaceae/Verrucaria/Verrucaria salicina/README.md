@@ -1,5 +1,4 @@
-Verrucaria salicina DC. SPECIES
-=======
+# Verrucaria salicina DC. SPECIES
 
 #### Status
 ACCEPTED

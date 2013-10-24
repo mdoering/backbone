@@ -1,5 +1,4 @@
-Uredo niitakense (Hirats.f.) Hirats.f. SPECIES
-=======
+# Uredo niitakense (Hirats.f.) Hirats.f. SPECIES
 
 #### Status
 ACCEPTED

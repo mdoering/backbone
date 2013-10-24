@@ -1,5 +1,4 @@
-Verrucaria dispersa (Pers.) Hoffm. SPECIES
-=======
+# Verrucaria dispersa (Pers.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

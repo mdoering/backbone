@@ -1,5 +1,4 @@
-Diaporthe extorris Sacc. SPECIES
-=======
+# Diaporthe extorris Sacc. SPECIES
 
 #### Status
 ACCEPTED

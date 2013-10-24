@@ -1,5 +1,4 @@
-Dicaeoma valantiae (Pers.) Kuntze SPECIES
-=======
+# Dicaeoma valantiae (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

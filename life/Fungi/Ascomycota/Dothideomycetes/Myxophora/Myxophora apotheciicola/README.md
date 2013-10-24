@@ -1,5 +1,4 @@
-Myxophora apotheciicola Nik. Hoffm. & Hafellner, 2000 SPECIES
-=======
+# Myxophora apotheciicola Nik. Hoffm. & Hafellner, 2000 SPECIES
 
 #### Status
 ACCEPTED

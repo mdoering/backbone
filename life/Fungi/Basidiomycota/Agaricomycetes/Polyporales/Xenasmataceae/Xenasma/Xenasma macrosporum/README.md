@@ -1,5 +1,4 @@
-Xenasma macrosporum Liberta SPECIES
-=======
+# Xenasma macrosporum Liberta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gassicurtia manguensia Marbach SPECIES
-=======
+# Gassicurtia manguensia Marbach SPECIES
 
 #### Status
 ACCEPTED

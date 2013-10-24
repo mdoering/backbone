@@ -1,5 +1,4 @@
-Ascochyta miyakei Tanaka SPECIES
-=======
+# Ascochyta miyakei Tanaka SPECIES
 
 #### Status
 ACCEPTED

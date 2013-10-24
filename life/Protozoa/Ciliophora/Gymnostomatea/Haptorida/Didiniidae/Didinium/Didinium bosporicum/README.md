@@ -1,5 +1,4 @@
-Didinium bosporicum Hovasse, 1932 SPECIES
-=======
+# Didinium bosporicum Hovasse, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psora conglomerata Flot. SPECIES
-=======
+# Psora conglomerata Flot. SPECIES
 
 #### Status
 ACCEPTED

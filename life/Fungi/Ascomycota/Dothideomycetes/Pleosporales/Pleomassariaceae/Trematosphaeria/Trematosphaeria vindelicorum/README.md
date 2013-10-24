@@ -1,5 +1,4 @@
-Trematosphaeria vindelicorum SPECIES
-=======
+# Trematosphaeria vindelicorum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium lividum Hepp SPECIES
-=======
+# Placodium lividum Hepp SPECIES
 
 #### Status
 ACCEPTED

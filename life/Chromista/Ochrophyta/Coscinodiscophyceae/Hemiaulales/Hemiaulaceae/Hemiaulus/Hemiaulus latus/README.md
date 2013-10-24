@@ -1,5 +1,4 @@
-Hemiaulus latus A. P. Jousé SPECIES
-=======
+# Hemiaulus latus A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

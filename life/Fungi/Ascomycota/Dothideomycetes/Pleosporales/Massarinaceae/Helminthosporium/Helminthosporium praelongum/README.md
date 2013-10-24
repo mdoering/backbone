@@ -1,17 +1,16 @@
-Helmisporium praelongum Wallr. SPECIES
-=======
+# Helminthosporium praelongum Wallr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fl. crypt. Germ. (Nürnberg) 2: 166 (1833)
 
 #### Original name
-Helmisporium praelongum Wallr.
+Helminthosporium praelongum Wallr.
 
 ### Remarks
 null

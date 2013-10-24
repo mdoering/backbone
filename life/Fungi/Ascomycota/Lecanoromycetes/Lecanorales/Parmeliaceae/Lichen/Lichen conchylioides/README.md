@@ -1,5 +1,4 @@
-Lichen conchylioides (DC.) Lam. SPECIES
-=======
+# Lichen conchylioides (DC.) Lam. SPECIES
 
 #### Status
 ACCEPTED

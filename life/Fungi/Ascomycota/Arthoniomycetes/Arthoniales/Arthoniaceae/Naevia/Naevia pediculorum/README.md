@@ -1,5 +1,4 @@
-Naevia pediculorum Kirschst. SPECIES
-=======
+# Naevia pediculorum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

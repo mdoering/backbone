@@ -1,17 +1,16 @@
-Mycena lineata var. expallens Fr. VARIETY
-=======
+# Mycena lineata (Bull.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ges. naturf. Freunde, Berlin 1: tab. 78 (1873)
+Führ. Pilzk. (Zwickau) 110 (1871)
 
 #### Original name
-Mycena lineata var. expallens Fr.
+Agaricus lineatus Bull., 1791
 
 ### Remarks
 null

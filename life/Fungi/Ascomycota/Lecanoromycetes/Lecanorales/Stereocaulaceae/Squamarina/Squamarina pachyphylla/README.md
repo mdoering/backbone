@@ -1,5 +1,4 @@
-Squamarina pachyphylla (H. Magn.) J.C. Wei SPECIES
-=======
+# Squamarina pachyphylla (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

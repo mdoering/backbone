@@ -1,5 +1,4 @@
-Uredo desmodii-triquetri Petch SPECIES
-=======
+# Uredo desmodii-triquetri Petch SPECIES
 
 #### Status
 ACCEPTED

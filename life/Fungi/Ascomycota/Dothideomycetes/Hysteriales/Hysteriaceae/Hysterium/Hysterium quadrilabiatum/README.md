@@ -1,5 +1,4 @@
-Hysterium quadrilabiatum Tode SPECIES
-=======
+# Hysterium quadrilabiatum Tode SPECIES
 
 #### Status
 ACCEPTED

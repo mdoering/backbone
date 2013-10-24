@@ -1,5 +1,4 @@
-Trachyspora Fuckel GENUS
-=======
+# Trachyspora Fuckel GENUS
 
 #### Status
 ACCEPTED

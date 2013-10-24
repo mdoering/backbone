@@ -1,5 +1,4 @@
-Eudarluca brenesii (Petr.) E. Müll. SPECIES
-=======
+# Eudarluca brenesii (Petr.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

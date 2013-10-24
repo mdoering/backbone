@@ -1,5 +1,4 @@
-Puccinia paulsenii Syd. SPECIES
-=======
+# Puccinia paulsenii Syd. SPECIES
 
 #### Status
 ACCEPTED

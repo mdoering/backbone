@@ -1,5 +1,4 @@
-Aurantimonas coralicida Denner et al., 2003 SPECIES
-=======
+# Aurantimonas coralicida Denner et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

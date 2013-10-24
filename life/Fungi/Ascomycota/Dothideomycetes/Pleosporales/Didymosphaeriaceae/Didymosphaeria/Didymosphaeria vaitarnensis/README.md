@@ -1,5 +1,4 @@
-Didymosphaeria vaitarnensis C. Ramesh SPECIES
-=======
+# Didymosphaeria vaitarnensis C. Ramesh SPECIES
 
 #### Status
 ACCEPTED

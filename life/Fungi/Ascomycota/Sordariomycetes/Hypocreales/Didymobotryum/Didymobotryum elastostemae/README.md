@@ -1,5 +1,4 @@
-Didymobotryum elastostemae Sawada SPECIES
-=======
+# Didymobotryum elastostemae Sawada SPECIES
 
 #### Status
 ACCEPTED

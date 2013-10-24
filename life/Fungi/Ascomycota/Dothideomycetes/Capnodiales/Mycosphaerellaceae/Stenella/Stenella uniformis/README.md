@@ -1,5 +1,4 @@
-Stenella uniformis J.L. Mulder SPECIES
-=======
+# Stenella uniformis J.L. Mulder SPECIES
 
 #### Status
 ACCEPTED

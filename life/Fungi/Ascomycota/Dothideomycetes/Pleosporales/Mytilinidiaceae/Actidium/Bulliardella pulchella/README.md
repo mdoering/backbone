@@ -1,5 +1,4 @@
-Bulliardella pulchella Teng SPECIES
-=======
+# Bulliardella pulchella Teng SPECIES
 
 #### Status
 ACCEPTED

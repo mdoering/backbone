@@ -1,5 +1,4 @@
-Hygrophorus subremotus Cooke & Massee SPECIES
-=======
+# Hygrophorus subremotus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

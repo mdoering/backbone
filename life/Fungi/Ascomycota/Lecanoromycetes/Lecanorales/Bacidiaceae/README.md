@@ -1,5 +1,4 @@
-Bacidiaceae Walt. Watson FAMILY
-=======
+# Bacidiaceae Walt. Watson FAMILY
 
 #### Status
 ACCEPTED

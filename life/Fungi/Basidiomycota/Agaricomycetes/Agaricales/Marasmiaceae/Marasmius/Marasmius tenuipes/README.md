@@ -1,5 +1,4 @@
-Marasmius tenuipes Lév. SPECIES
-=======
+# Marasmius tenuipes Lév. SPECIES
 
 #### Status
 ACCEPTED

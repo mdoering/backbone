@@ -1,5 +1,4 @@
-Phaeographina stramineoglauca (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographina stramineoglauca (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

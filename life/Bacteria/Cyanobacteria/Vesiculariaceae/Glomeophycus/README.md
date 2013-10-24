@@ -1,5 +1,4 @@
-Glomeophycus A.G. Vologdin, 1962 GENUS
-=======
+# Glomeophycus A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

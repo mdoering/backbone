@@ -1,5 +1,4 @@
-Oswaldoa cupaniae Bat. & Cavalc. SPECIES
-=======
+# Oswaldoa cupaniae Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

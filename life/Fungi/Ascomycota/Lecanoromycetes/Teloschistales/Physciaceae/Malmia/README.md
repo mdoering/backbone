@@ -1,5 +1,4 @@
-Malmia GENUS
-=======
+# Malmia GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peridermium pini var. corticola Rabenh. VARIETY
-=======
+# Endocronartium pini (Willd.) Y. Hirats., 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Deutschl. Krypt. -Fl. (Leipzig) 1: 21 (1844)
+Can. J. Bot. 47(9): 1494 (1969)
 
 #### Original name
-Peridermium pini var. corticola Rabenh.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gymnopus fasciatus (Penn.) Halling SPECIES
-=======
+# Gymnopus fasciatus (Penn.) Halling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ungulina calaginosa f. calaginosa FORM
-=======
+# Ungulina calaginosa Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ungulina calaginosa f. calaginosa
+Ungulina calaginosa Pat.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Schizostoma schomburgkii (Berk.) Sacc. SPECIES
-=======
+# Schizostoma schomburgkii (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

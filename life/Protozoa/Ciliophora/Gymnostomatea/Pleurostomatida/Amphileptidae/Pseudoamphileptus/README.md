@@ -1,5 +1,4 @@
-Pseudoamphileptus Foissner, 1983 GENUS
-=======
+# Pseudoamphileptus Foissner, 1983 GENUS
 
 #### Status
 ACCEPTED

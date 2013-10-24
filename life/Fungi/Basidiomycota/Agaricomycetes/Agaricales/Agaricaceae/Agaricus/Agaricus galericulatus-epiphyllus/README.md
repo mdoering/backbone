@@ -1,5 +1,4 @@
-Agaricus galericulatus-epiphyllus Fr. SPECIES
-=======
+# Agaricus galericulatus-epiphyllus Fr. SPECIES
 
 #### Status
 ACCEPTED

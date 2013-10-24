@@ -1,5 +1,4 @@
-Porina subdissipens SPECIES
-=======
+# Porina subdissipens SPECIES
 
 #### Status
 ACCEPTED

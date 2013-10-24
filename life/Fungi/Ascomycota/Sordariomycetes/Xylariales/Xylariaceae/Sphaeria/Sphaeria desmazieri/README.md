@@ -1,5 +1,4 @@
-Sphaeria desmazieri Haller, 1768 SPECIES
-=======
+# Sphaeria desmazieri Haller, 1768 SPECIES
 
 #### Status
 ACCEPTED

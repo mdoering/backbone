@@ -1,5 +1,4 @@
-Lecanora endomelaena SPECIES
-=======
+# Lecanora endomelaena SPECIES
 
 #### Status
 ACCEPTED

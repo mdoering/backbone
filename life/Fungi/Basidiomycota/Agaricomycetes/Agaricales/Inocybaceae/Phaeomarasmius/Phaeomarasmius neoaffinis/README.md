@@ -1,5 +1,4 @@
-Phaeomarasmius neoaffinis P.G. Liu SPECIES
-=======
+# Phaeomarasmius neoaffinis P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

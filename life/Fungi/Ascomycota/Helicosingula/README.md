@@ -1,5 +1,4 @@
-Helicosingula P.S. van Wyk, Marasas, Baard & Knox-Dav. GENUS
-=======
+# Helicosingula P.S. van Wyk, Marasas, Baard & Knox-Dav. GENUS
 
 #### Status
 ACCEPTED

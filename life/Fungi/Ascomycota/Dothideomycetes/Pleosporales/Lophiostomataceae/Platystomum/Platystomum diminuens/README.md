@@ -1,8 +1,7 @@
-Lophidium diminuens (Pers.) Ces. & De Not., 1863 SPECIES
-=======
+# Platystomum diminuens (Pers.) Sacc. & D. Sacc., 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

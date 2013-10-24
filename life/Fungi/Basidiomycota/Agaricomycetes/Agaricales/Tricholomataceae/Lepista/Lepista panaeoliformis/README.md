@@ -1,5 +1,4 @@
-Lepista panaeoliformis Murrill SPECIES
-=======
+# Lepista panaeoliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

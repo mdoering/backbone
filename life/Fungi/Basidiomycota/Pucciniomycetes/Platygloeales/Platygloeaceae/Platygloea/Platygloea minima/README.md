@@ -1,5 +1,4 @@
-Platygloea minima Rick SPECIES
-=======
+# Platygloea minima Rick SPECIES
 
 #### Status
 ACCEPTED

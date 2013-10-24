@@ -1,5 +1,4 @@
-Lecania subpunicea Müll. Arg. SPECIES
-=======
+# Lecania subpunicea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

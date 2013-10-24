@@ -1,5 +1,4 @@
-Puccinia hyptidicola P. Syd. & Syd. SPECIES
-=======
+# Puccinia hyptidicola P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

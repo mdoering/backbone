@@ -1,14 +1,13 @@
-Shepheardia Siddall, 1880 GENUS
-=======
+# Shepheardella Siddall, 1880 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Quart. J. Micr. Sci. , 20, 130 (as Shepheardella; also as Shepheardia on pl. ).
+Quart. J. Micr. Sci. , 20, 130 (as Shepheardia on pl. ).
 
 #### Original name
 null

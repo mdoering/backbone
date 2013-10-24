@@ -1,5 +1,4 @@
-Curreya rhoina Feltgen SPECIES
-=======
+# Curreya rhoina Feltgen SPECIES
 
 #### Status
 ACCEPTED

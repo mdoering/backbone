@@ -1,5 +1,4 @@
-Cronartium malloti Racib. SPECIES
-=======
+# Cronartium malloti Racib. SPECIES
 
 #### Status
 ACCEPTED

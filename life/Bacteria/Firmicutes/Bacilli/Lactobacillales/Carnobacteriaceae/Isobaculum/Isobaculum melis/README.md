@@ -1,5 +1,4 @@
-Isobaculum melis Collins et al., 2002 SPECIES
-=======
+# Isobaculum melis Collins et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

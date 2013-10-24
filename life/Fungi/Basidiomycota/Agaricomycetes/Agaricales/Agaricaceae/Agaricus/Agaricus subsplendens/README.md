@@ -1,5 +1,4 @@
-Agaricus subsplendens Cooke & Massee SPECIES
-=======
+# Agaricus subsplendens Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

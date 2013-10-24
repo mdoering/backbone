@@ -1,8 +1,7 @@
-Peckiella luteovirens (Fr.) S. Imai, 1935 SPECIES
-=======
+# Hypomyces luteovirens (Fr.) Tul. & C. Tul., 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Sphaeria luteovirens Fr., 1817
+null
 
 ### Remarks
 null

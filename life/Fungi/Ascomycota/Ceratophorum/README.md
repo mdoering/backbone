@@ -1,5 +1,4 @@
-Ceratophorum Saccardo, 1880 GENUS
-=======
+# Ceratophorum Saccardo, 1880 GENUS
 
 #### Status
 ACCEPTED

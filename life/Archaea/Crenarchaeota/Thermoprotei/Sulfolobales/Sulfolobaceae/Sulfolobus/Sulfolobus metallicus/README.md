@@ -1,5 +1,4 @@
-Sulfolobus metallicus Huber & Stetter, 1992 SPECIES
-=======
+# Sulfolobus metallicus Huber & Stetter, 1992 SPECIES
 
 #### Status
 ACCEPTED

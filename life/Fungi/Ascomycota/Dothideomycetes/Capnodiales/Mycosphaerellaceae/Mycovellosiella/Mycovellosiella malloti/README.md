@@ -1,5 +1,4 @@
-Mycovellosiella malloti Kharwar, P.N. Singh & R.K. Chaudhary SPECIES
-=======
+# Mycovellosiella malloti Kharwar, P.N. Singh & R.K. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

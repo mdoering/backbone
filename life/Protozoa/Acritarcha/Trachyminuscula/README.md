@@ -1,5 +1,4 @@
-Trachyminuscula Naumova, 1961 GENUS
-=======
+# Trachyminuscula Naumova, 1961 GENUS
 
 #### Status
 ACCEPTED

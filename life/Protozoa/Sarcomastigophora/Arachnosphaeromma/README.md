@@ -1,5 +1,4 @@
-Arachnosphaeromma Haeckel, 1887 GENUS
-=======
+# Arachnosphaeromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

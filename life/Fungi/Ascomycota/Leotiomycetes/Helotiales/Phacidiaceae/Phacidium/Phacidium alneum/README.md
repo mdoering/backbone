@@ -1,5 +1,4 @@
-Phacidium alneum Wormsk. ex Fr. SPECIES
-=======
+# Phacidium alneum Wormsk. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

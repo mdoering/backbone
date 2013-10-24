@@ -1,5 +1,4 @@
-Valsa paucispora Peck SPECIES
-=======
+# Valsa paucispora Peck SPECIES
 
 #### Status
 ACCEPTED

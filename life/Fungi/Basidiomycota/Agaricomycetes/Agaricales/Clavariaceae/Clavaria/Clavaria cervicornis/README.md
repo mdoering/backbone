@@ -1,5 +1,4 @@
-Clavaria cervicornis A.L. Sm. SPECIES
-=======
+# Clavaria cervicornis A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

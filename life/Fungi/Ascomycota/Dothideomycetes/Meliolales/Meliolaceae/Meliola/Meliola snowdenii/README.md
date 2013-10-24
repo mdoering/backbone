@@ -1,5 +1,4 @@
-Meliola snowdenii Hansf. & F. Stevens SPECIES
-=======
+# Meliola snowdenii Hansf. & F. Stevens SPECIES
 
 #### Status
 ACCEPTED

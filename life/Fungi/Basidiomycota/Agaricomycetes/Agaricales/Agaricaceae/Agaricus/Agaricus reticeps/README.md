@@ -1,5 +1,4 @@
-Agaricus reticeps Mont. SPECIES
-=======
+# Agaricus reticeps Mont. SPECIES
 
 #### Status
 ACCEPTED

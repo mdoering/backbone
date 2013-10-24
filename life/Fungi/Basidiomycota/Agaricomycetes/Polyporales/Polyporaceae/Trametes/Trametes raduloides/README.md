@@ -1,5 +1,4 @@
-Trametes raduloides (Pilát) Pilát SPECIES
-=======
+# Trametes raduloides (Pilát) Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aquificae Reysenbach, 2002 PHYLUM
-=======
+# Aquificae Reysenbach, 2002 PHYLUM
 
 #### Status
 ACCEPTED

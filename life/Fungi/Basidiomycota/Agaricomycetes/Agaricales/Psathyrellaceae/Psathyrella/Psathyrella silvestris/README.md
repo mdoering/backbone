@@ -1,5 +1,4 @@
-Psathyrella silvestris (Gillet) M.M. Moser SPECIES
-=======
+# Psathyrella silvestris (Gillet) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

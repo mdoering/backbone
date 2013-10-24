@@ -1,5 +1,4 @@
-Lycoperdon aggregatum Retzd. {?} SPECIES
-=======
+# Lycoperdon aggregatum Retzd. {?} SPECIES
 
 #### Status
 ACCEPTED

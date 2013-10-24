@@ -1,5 +1,4 @@
-Macrodiplodia curreyi (Sacc. & Roum.) Sacc. SPECIES
-=======
+# Macrodiplodia curreyi (Sacc. & Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

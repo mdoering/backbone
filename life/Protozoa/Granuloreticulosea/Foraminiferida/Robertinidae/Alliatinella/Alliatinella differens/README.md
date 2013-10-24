@@ -1,5 +1,4 @@
-Alliatinella differens (McCulloch, 1977) SPECIES
-=======
+# Alliatinella differens (McCulloch, 1977) SPECIES
 
 #### Status
 ACCEPTED

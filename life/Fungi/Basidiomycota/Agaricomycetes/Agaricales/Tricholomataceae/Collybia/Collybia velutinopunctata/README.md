@@ -1,5 +1,4 @@
-Collybia velutinopunctata Lj.N. Vassiljeva SPECIES
-=======
+# Collybia velutinopunctata Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

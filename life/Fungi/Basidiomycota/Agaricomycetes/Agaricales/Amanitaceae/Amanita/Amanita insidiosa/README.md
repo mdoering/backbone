@@ -1,14 +1,13 @@
-Amanita insidiosus (Letell.) Lucand SPECIES
-=======
+# Amanita insidiosa (Letell.) Lucand SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Figures des Champignons . . . 15: nos. 351-375 (1893)
 
 #### Original name
 Agaricus insidiosa Letell.

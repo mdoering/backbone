@@ -1,5 +1,4 @@
-Antarctissa strelkovi Petrushevskaya, 1967 SPECIES
-=======
+# Antarctissa strelkovi Petrushevskaya, 1967 SPECIES
 
 #### Status
 ACCEPTED

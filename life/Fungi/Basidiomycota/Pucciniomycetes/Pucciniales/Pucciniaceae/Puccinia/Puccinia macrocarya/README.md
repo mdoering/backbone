@@ -1,5 +1,4 @@
-Puccinia macrocarya Racib. SPECIES
-=======
+# Puccinia macrocarya Racib. SPECIES
 
 #### Status
 ACCEPTED

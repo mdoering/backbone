@@ -1,5 +1,4 @@
-Gloeocapsa thermalis Kützing SPECIES
-=======
+# Gloeocapsa thermalis Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena pseudolaevigata var. pseudolaevigata VARIETY
-=======
+# Mycena pseudolaevigata Kalamees SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Vaasma, Kalamees & Raitviir, Scripta Mycol. , Tartu 13: 78 (1986)
 
 #### Original name
-Mycena pseudolaevigata var. pseudolaevigata
+Mycena pseudolaevigata Kalamees
 
 ### Remarks
 null

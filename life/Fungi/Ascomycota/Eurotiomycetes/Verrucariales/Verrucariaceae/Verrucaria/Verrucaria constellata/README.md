@@ -1,5 +1,4 @@
-Verrucaria constellata (Ach.) Eschw. SPECIES
-=======
+# Verrucaria constellata (Ach.) Eschw. SPECIES
 
 #### Status
 ACCEPTED

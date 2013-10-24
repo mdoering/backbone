@@ -1,5 +1,4 @@
-Ramularia aucubae C. Massal. SPECIES
-=======
+# Ramularia aucubae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

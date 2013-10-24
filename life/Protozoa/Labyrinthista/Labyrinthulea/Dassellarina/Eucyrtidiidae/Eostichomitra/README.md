@@ -1,5 +1,4 @@
-Eostichomitra Empson-Morin, 1981 GENUS
-=======
+# Eostichomitra Empson-Morin, 1981 GENUS
 
 #### Status
 ACCEPTED

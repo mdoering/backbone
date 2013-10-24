@@ -1,5 +1,4 @@
-Patellaria reuteri Trevis. SPECIES
-=======
+# Patellaria reuteri Trevis. SPECIES
 
 #### Status
 ACCEPTED

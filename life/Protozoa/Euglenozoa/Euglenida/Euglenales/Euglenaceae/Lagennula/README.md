@@ -1,5 +1,4 @@
-Lagennula GENUS
-=======
+# Lagennula GENUS
 
 #### Status
 ACCEPTED

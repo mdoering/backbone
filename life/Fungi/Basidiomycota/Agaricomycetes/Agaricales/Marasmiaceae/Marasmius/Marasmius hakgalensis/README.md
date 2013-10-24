@@ -1,5 +1,4 @@
-Marasmius hakgalensis Petch SPECIES
-=======
+# Marasmius hakgalensis Petch SPECIES
 
 #### Status
 ACCEPTED

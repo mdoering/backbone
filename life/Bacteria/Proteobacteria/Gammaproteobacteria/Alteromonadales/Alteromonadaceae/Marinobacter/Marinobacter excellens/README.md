@@ -1,5 +1,4 @@
-Marinobacter excellens Gorshkova et al., 2003 SPECIES
-=======
+# Marinobacter excellens Gorshkova et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

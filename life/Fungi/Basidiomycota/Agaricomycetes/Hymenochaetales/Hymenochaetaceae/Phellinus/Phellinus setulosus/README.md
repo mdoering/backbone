@@ -1,17 +1,16 @@
-Phellinus setulosus var. setulosus VARIETY
-=======
+# Phellinus setulosus (Lloyd) Imazeki, 1943 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Tokyo Sci. Mus. 6: 104 (1943)
 
 #### Original name
-Phellinus setulosus var. setulosus
+Fomes setulosus Lloyd, 1915
 
 ### Remarks
 null

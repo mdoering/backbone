@@ -1,5 +1,4 @@
-Naevia atomaria (A. Massal.) A. Massal. SPECIES
-=======
+# Naevia atomaria (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

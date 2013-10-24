@@ -1,5 +1,4 @@
-Trachelomonas spinosa Stokes SPECIES
-=======
+# Trachelomonas spinosa Stokes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia chalybaeizans f. chalybaeizans FORM
-=======
+# Parmelia chalybaeizans (J. Steiner & Zahlbr.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Septoria hydrocotyles var. hydrocotyles Desm. VARIETY
-=======
+# Septoria spegazzinii Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 2 17: 109 (1842)
+Syll. fung. (Abellini) 3: 351 (1884)
 
 #### Original name
-Septoria hydrocotyles var. hydrocotyles Desm.
+Septoria hydrocotyles Speg., 1882
 
 ### Remarks
 null

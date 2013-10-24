@@ -1,5 +1,4 @@
-Lecidea stupparia Stizenb. SPECIES
-=======
+# Lecidea stupparia Stizenb. SPECIES
 
 #### Status
 ACCEPTED

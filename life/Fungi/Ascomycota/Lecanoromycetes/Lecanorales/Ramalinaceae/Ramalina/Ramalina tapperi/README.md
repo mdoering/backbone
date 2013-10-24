@@ -1,5 +1,4 @@
-Ramalina tapperi Krog & Swinscow SPECIES
-=======
+# Ramalina tapperi Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

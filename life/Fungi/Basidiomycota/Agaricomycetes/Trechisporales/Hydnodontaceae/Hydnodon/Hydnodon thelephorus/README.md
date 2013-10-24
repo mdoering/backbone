@@ -1,5 +1,4 @@
-Hydnodon thelephorus (Lév.) Banker, 1913 SPECIES
-=======
+# Hydnodon thelephorus (Lév.) Banker, 1913 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia dichotoma Vain. SPECIES
-=======
+# Arthonia dichotoma Vain. SPECIES
 
 #### Status
 ACCEPTED

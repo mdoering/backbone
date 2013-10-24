@@ -1,5 +1,4 @@
-Dicaeoma tecleae (Pass.) Kuntze SPECIES
-=======
+# Dicaeoma tecleae (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

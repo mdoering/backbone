@@ -1,5 +1,4 @@
-Phoma actaeae Boerema, Gruyter & Noordel., 1997 SPECIES
-=======
+# Phoma actaeae Boerema, Gruyter & Noordel., 1997 SPECIES
 
 #### Status
 ACCEPTED

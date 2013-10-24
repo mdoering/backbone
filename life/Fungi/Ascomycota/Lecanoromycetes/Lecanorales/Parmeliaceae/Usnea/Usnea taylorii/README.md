@@ -1,5 +1,4 @@
-Usnea taylorii Hook. f. & Taylor SPECIES
-=======
+# Usnea taylorii Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

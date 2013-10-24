@@ -1,5 +1,4 @@
-Psathyrella elliptispora A.H. Sm. SPECIES
-=======
+# Psathyrella elliptispora A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

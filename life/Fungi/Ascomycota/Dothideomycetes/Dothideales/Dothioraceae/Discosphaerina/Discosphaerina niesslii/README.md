@@ -1,5 +1,4 @@
-Discosphaerina niesslii (Kunze ex Rehm) L. Holm, K. Holm & M.E. Barr SPECIES
-=======
+# Discosphaerina niesslii (Kunze ex Rehm) L. Holm, K. Holm & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

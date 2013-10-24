@@ -1,5 +1,4 @@
-Lecanora fusconigrescens (Nyl.) Kremp. SPECIES
-=======
+# Lecanora fusconigrescens (Nyl.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

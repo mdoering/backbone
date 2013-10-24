@@ -1,5 +1,4 @@
-Peziza grata Berk. SPECIES
-=======
+# Peziza grata Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Torula candida Saito, 1922 SPECIES
-=======
+# Candida saitoana Nakase & M. Suzuki, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Japanese Journal of Botany 1(1): 41 (1922)
+J. gen. appl. Microbiol. , Tokyo 31: 85 (1985)
 
 #### Original name
 Torula candida Saito, 1922

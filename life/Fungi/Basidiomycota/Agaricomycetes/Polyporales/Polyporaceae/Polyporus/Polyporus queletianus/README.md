@@ -1,5 +1,4 @@
-Polyporus queletianus Sacc. & Traverso SPECIES
-=======
+# Polyporus queletianus Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa salicis (Fuckel) SPECIES
-=======
+# Valsa salicis (Fuckel) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Physcia grisea var. elbursiana Szatala VARIETY
-=======
+# Anaptychia elbursiana (Szatala) Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Physcia grisea var. elbursiana Szatala
 
 ### Remarks
 null

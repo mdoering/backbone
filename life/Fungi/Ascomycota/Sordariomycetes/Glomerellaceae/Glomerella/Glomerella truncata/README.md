@@ -1,5 +1,4 @@
-Glomerella truncata C.L. Armstr. & Banniza SPECIES
-=======
+# Glomerella truncata C.L. Armstr. & Banniza SPECIES
 
 #### Status
 ACCEPTED

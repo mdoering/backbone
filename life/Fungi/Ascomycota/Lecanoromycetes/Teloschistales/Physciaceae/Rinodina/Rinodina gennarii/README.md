@@ -1,17 +1,16 @@
-Rinodina salina f. salina FORM
-=======
+# Rinodina gennarii Bagl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Comm. Soc. crittog. Ital. 1: 17 (1861)
 
 #### Original name
-Rinodina salina f. salina
+Rinodina gennarii Bagl.
 
 ### Remarks
 null

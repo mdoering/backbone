@@ -1,5 +1,4 @@
-Austrographa pseudopallidella Sparrius, Elix & A. W. Archer SPECIES
-=======
+# Austrographa pseudopallidella Sparrius, Elix & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

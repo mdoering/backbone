@@ -1,5 +1,4 @@
-Pilosace bulbillosus (Fr.) Kuntze SPECIES
-=======
+# Pilosace bulbillosus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

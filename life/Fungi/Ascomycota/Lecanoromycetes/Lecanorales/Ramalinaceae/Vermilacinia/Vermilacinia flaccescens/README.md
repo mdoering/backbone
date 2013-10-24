@@ -1,5 +1,4 @@
-Vermilacinia flaccescens (Nyl.) Spjut & Hale SPECIES
-=======
+# Vermilacinia flaccescens (Nyl.) Spjut & Hale SPECIES
 
 #### Status
 ACCEPTED

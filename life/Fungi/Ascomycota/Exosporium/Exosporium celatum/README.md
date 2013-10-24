@@ -1,5 +1,4 @@
-Exosporium celatum (Welw. & Curr.) A.L. Sm. SPECIES
-=======
+# Exosporium celatum (Welw. & Curr.) A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

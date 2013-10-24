@@ -1,5 +1,4 @@
-Diporicellaesporites fusiformis Ramanujam & Srisailam SPECIES
-=======
+# Diporicellaesporites fusiformis Ramanujam & Srisailam SPECIES
 
 #### Status
 ACCEPTED

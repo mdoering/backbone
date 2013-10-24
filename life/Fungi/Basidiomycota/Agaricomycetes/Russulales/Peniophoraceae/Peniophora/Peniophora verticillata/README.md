@@ -1,5 +1,4 @@
-Peniophora verticillata Burt SPECIES
-=======
+# Peniophora verticillata Burt SPECIES
 
 #### Status
 ACCEPTED

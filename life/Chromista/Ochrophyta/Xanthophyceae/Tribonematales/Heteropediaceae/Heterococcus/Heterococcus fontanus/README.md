@@ -1,5 +1,4 @@
-Heterococcus fontanus Pitschmann SPECIES
-=======
+# Heterococcus fontanus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

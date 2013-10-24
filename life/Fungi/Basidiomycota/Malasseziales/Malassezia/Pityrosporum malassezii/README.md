@@ -1,5 +1,4 @@
-Pityrosporum malassezii Sabour. SPECIES
-=======
+# Pityrosporum malassezii Sabour. SPECIES
 
 #### Status
 ACCEPTED

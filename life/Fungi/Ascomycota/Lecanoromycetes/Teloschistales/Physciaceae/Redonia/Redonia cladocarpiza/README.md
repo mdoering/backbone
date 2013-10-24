@@ -1,5 +1,4 @@
-Redonia cladocarpiza (I.M. Lamb) C.W. Dodge SPECIES
-=======
+# Redonia cladocarpiza (I.M. Lamb) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

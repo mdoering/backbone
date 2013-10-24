@@ -1,5 +1,4 @@
-Typhula tasmanica Rodway SPECIES
-=======
+# Typhula tasmanica Rodway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus abruptus (Fr.) Hornicek SPECIES
-=======
+# Gymnopilus abruptus (Fr.) Hornicek SPECIES
 
 #### Status
 ACCEPTED

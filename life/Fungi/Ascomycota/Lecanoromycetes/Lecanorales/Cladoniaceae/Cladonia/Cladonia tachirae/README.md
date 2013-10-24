@@ -1,5 +1,4 @@
-Cladonia tachirae Ahti SPECIES
-=======
+# Cladonia tachirae Ahti SPECIES
 
 #### Status
 ACCEPTED

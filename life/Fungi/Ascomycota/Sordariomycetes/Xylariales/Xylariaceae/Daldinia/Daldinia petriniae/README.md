@@ -1,5 +1,4 @@
-Daldinia petriniae Y.M. Ju, J.D. Rogers & F. San Martín, 1997 SPECIES
-=======
+# Daldinia petriniae Y.M. Ju, J.D. Rogers & F. San Martín, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca micromera (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca micromera (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

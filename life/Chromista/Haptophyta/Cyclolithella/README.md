@@ -1,5 +1,4 @@
-Cyclolithella Loeblich & Tappan GENUS
-=======
+# Cyclolithella Loeblich & Tappan GENUS
 
 #### Status
 ACCEPTED

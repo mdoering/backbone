@@ -1,5 +1,4 @@
-Puccinia longiana Syd. & P. Syd. SPECIES
-=======
+# Puccinia longiana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

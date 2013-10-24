@@ -1,5 +1,4 @@
-Collemodium polycarpoides Nyl. SPECIES
-=======
+# Collemodium polycarpoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

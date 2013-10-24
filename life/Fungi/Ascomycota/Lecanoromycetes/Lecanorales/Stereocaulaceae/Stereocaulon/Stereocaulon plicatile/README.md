@@ -1,5 +1,4 @@
-Stereocaulon plicatile (Leight.) Fryday & Coppins SPECIES
-=======
+# Stereocaulon plicatile (Leight.) Fryday & Coppins SPECIES
 
 #### Status
 ACCEPTED

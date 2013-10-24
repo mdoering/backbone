@@ -1,5 +1,4 @@
-Opalina Purkinye & Valentin, 1835 GENUS
-=======
+# Opalina Purkinye & Valentin, 1835 GENUS
 
 #### Status
 ACCEPTED

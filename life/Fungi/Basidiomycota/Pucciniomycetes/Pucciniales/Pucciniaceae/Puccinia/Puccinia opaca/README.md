@@ -1,5 +1,4 @@
-Puccinia opaca Dietel & Holw. SPECIES
-=======
+# Puccinia opaca Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

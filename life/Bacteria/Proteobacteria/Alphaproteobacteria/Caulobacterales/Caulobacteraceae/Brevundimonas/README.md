@@ -1,5 +1,4 @@
-Brevundimonas Segers et al., 1994 GENUS
-=======
+# Brevundimonas Segers et al., 1994 GENUS
 
 #### Status
 ACCEPTED

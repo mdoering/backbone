@@ -1,5 +1,4 @@
-Polyedrina Padilha de Quadros, 1986 GENUS
-=======
+# Polyedrina Padilha de Quadros, 1986 GENUS
 
 #### Status
 ACCEPTED

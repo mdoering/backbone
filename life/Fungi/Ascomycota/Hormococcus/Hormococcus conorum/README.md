@@ -1,5 +1,4 @@
-Hormococcus conorum (Sacc. & Roum.) Robak SPECIES
-=======
+# Hormococcus conorum (Sacc. & Roum.) Robak SPECIES
 
 #### Status
 ACCEPTED

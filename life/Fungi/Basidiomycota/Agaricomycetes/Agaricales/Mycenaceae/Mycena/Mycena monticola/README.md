@@ -1,5 +1,4 @@
-Mycena monticola A.H. Sm. SPECIES
-=======
+# Mycena monticola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

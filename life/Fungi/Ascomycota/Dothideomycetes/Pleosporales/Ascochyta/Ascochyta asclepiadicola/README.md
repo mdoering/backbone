@@ -1,5 +1,4 @@
-Ascochyta asclepiadicola Ellis & Everh. SPECIES
-=======
+# Ascochyta asclepiadicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

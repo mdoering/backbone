@@ -1,5 +1,4 @@
-Hendersonulina sparsa (G. Winter) Tassi SPECIES
-=======
+# Hendersonulina sparsa (G. Winter) Tassi SPECIES
 
 #### Status
 ACCEPTED

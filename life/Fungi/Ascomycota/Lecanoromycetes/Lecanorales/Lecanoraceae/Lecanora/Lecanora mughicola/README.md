@@ -1,17 +1,16 @@
-Lecanora mughicola f. cibinica (Gyeln.) Cretz. FORM
-=======
+# Lecanora mughicola Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 55: 248 (1872)
 
 #### Original name
-Lecanora mughicola subsp. cibinica Gyeln.
+Lecanora mughicola Nyl.
 
 ### Remarks
 null

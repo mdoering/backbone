@@ -1,5 +1,4 @@
-Amylocorticium cebennense (Bourdot) Pouzar, 1959 SPECIES
-=======
+# Amylocorticium cebennense (Bourdot) Pouzar, 1959 SPECIES
 
 #### Status
 ACCEPTED

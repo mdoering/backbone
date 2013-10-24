@@ -1,5 +1,4 @@
-Cercospora rottboelliicola J.M. Yen SPECIES
-=======
+# Cercospora rottboelliicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

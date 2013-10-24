@@ -1,5 +1,4 @@
-Hypoxylon guianense Mont. SPECIES
-=======
+# Hypoxylon guianense Mont. SPECIES
 
 #### Status
 ACCEPTED

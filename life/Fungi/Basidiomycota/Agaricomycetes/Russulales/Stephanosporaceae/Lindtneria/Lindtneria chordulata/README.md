@@ -1,14 +1,13 @@
-Pellicularia chordulata D.P. Rogers, 1943 SPECIES
-=======
+# Lindtneria chordulata (D.P. Rogers) Hjortstam, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 1(1): 98 (1943)
+Mycotaxon 28(1): 33 (1987)
 
 #### Original name
 Pellicularia chordulata D.P. Rogers, 1943

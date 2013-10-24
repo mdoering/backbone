@@ -1,5 +1,4 @@
-Androsaceus glaucopus Pat. SPECIES
-=======
+# Androsaceus glaucopus Pat. SPECIES
 
 #### Status
 ACCEPTED

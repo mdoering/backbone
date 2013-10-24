@@ -1,5 +1,4 @@
-Sirosporium rutacearum Kamal, B. Rai & Morgan-Jones SPECIES
-=======
+# Sirosporium rutacearum Kamal, B. Rai & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

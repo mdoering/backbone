@@ -1,5 +1,4 @@
-Erineum anomalum Schwein. SPECIES
-=======
+# Erineum anomalum Schwein. SPECIES
 
 #### Status
 ACCEPTED

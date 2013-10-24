@@ -1,5 +1,4 @@
-Uredo pteridiformis A. Funk SPECIES
-=======
+# Uredo pteridiformis A. Funk SPECIES
 
 #### Status
 ACCEPTED

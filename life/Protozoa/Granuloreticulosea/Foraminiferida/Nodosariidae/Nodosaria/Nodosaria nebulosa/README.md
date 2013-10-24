@@ -1,8 +1,7 @@
-Lagenonodosaria nebulosa Ishizaki, 1943 SPECIES
-=======
+# Nodosaria nebulosa (Ishizaki, 1943) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

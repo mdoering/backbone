@@ -1,5 +1,4 @@
-Usnea alboverrucata G. N. Stevens SPECIES
-=======
+# Usnea alboverrucata G. N. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanactis farinosa (Hepp) Egea, Torrente & Manrique SPECIES
-=======
+# Lecanactis farinosa (Hepp) Egea, Torrente & Manrique SPECIES
 
 #### Status
 ACCEPTED

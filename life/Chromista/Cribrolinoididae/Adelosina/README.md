@@ -1,5 +1,4 @@
-Adelosina d’Orbigny, 1826 GENUS
-=======
+# Adelosina d’Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

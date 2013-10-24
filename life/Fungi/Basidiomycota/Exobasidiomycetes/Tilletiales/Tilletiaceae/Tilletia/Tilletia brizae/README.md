@@ -1,5 +1,4 @@
-Tilletia brizae Ule SPECIES
-=======
+# Tilletia brizae Ule SPECIES
 
 #### Status
 ACCEPTED

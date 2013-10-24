@@ -1,5 +1,4 @@
-Rhynchosporium dryopteridis Sawada SPECIES
-=======
+# Rhynchosporium dryopteridis Sawada SPECIES
 
 #### Status
 ACCEPTED

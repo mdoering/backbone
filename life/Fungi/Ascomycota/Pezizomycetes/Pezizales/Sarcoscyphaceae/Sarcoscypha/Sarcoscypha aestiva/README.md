@@ -1,5 +1,4 @@
-Sarcoscypha aestiva Velen. SPECIES
-=======
+# Sarcoscypha aestiva Velen. SPECIES
 
 #### Status
 ACCEPTED

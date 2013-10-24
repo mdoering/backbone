@@ -1,5 +1,4 @@
-Limacium kauffmanii (A.H. Sm. & Hesler) Singer SPECIES
-=======
+# Limacium kauffmanii (A.H. Sm. & Hesler) Singer SPECIES
 
 #### Status
 ACCEPTED

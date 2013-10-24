@@ -1,5 +1,4 @@
-Cyathus rudis Pat. SPECIES
-=======
+# Cyathus rudis Pat. SPECIES
 
 #### Status
 ACCEPTED

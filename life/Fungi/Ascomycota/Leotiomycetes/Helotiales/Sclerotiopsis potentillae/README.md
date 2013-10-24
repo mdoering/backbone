@@ -1,5 +1,4 @@
-Sclerotiopsis potentillae Oudem. SPECIES
-=======
+# Sclerotiopsis potentillae Oudem. SPECIES
 
 #### Status
 ACCEPTED

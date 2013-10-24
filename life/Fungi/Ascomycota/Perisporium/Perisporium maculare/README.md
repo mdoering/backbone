@@ -1,5 +1,4 @@
-Perisporium maculare (Fr.) Fr. SPECIES
-=======
+# Perisporium maculare (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

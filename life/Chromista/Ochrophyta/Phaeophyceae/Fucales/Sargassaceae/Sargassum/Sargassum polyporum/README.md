@@ -1,5 +1,4 @@
-Sargassum polyporum Montagne, 1842 SPECIES
-=======
+# Sargassum polyporum Montagne, 1842 SPECIES
 
 #### Status
 ACCEPTED

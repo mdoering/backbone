@@ -1,5 +1,4 @@
-Aschersonia cinnabarina Henn. SPECIES
-=======
+# Aschersonia cinnabarina Henn. SPECIES
 
 #### Status
 ACCEPTED

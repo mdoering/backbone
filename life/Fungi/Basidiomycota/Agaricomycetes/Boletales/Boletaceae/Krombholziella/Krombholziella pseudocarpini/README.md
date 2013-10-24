@@ -1,5 +1,4 @@
-Krombholziella pseudocarpini (J. Blum) Bon SPECIES
-=======
+# Krombholziella pseudocarpini (J. Blum) Bon SPECIES
 
 #### Status
 ACCEPTED

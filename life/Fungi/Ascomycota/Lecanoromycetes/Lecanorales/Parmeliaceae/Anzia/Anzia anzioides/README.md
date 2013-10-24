@@ -1,5 +1,4 @@
-Anzia anzioides (Darb.) I.M. Lamb SPECIES
-=======
+# Anzia anzioides (Darb.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe ventricosa (Bull.) P. Kumm. SPECIES
-=======
+# Psilocybe ventricosa (Bull.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

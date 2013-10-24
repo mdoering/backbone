@@ -1,5 +1,4 @@
-Cornularia microscopica (Fuckel) Sacc. SPECIES
-=======
+# Cornularia microscopica (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

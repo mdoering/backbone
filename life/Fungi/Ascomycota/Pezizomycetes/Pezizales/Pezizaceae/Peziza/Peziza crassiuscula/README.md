@@ -1,5 +1,4 @@
-Peziza crassiuscula Marchal & É.J. Marchal SPECIES
-=======
+# Peziza crassiuscula Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

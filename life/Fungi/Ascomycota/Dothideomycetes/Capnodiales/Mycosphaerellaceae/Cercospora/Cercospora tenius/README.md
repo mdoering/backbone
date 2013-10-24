@@ -1,5 +1,4 @@
-Cercospora tenius Peck SPECIES
-=======
+# Cercospora tenius Peck SPECIES
 
 #### Status
 ACCEPTED

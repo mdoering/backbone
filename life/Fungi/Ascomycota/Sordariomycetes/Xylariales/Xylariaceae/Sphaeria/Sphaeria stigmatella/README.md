@@ -1,5 +1,4 @@
-Sphaeria stigmatella Wallr. SPECIES
-=======
+# Sphaeria stigmatella Wallr. SPECIES
 
 #### Status
 ACCEPTED

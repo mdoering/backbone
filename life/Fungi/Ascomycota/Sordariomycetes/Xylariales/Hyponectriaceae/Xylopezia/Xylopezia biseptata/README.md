@@ -1,5 +1,4 @@
-Xylopezia biseptata Sherwood SPECIES
-=======
+# Xylopezia biseptata Sherwood SPECIES
 
 #### Status
 ACCEPTED

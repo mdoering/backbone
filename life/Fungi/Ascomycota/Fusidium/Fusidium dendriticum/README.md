@@ -1,5 +1,4 @@
-Fusidium dendriticum Riess SPECIES
-=======
+# Fusidium dendriticum Riess SPECIES
 
 #### Status
 ACCEPTED

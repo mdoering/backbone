@@ -1,5 +1,4 @@
-Ascochyta citricola McAlpine SPECIES
-=======
+# Ascochyta citricola McAlpine SPECIES
 
 #### Status
 ACCEPTED

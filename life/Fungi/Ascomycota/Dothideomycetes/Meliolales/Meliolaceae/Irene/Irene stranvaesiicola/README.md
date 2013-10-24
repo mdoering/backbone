@@ -1,5 +1,4 @@
-Irene stranvaesiicola W. Yamam. SPECIES
-=======
+# Irene stranvaesiicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

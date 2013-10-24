@@ -1,14 +1,13 @@
-Pyrenula achariana (Fée) Vain. SPECIES
-=======
+# Melanotheca achariana Fée SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Essai Crypt. Exot. (Paris), Suppl. 71 (1837)
 
 #### Original name
 Melanotheca achariana Fée

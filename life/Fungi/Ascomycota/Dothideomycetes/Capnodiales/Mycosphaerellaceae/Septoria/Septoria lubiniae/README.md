@@ -1,5 +1,4 @@
-Septoria lubiniae Pat. SPECIES
-=======
+# Septoria lubiniae Pat. SPECIES
 
 #### Status
 ACCEPTED

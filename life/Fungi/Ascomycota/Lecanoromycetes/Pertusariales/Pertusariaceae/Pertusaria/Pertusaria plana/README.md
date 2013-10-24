@@ -1,5 +1,4 @@
-Pertusaria plana Vain. SPECIES
-=======
+# Pertusaria plana Vain. SPECIES
 
 #### Status
 ACCEPTED

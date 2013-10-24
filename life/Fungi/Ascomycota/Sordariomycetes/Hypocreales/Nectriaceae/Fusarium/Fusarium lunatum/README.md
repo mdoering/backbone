@@ -1,5 +1,4 @@
-Fusarium lunatum (Ellis & Everh.) Arx SPECIES
-=======
+# Fusarium lunatum (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

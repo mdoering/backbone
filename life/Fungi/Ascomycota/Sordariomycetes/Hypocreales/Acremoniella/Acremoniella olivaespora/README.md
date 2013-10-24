@@ -1,5 +1,4 @@
-Acremoniella olivaespora Cif. & Ashford SPECIES
-=======
+# Acremoniella olivaespora Cif. & Ashford SPECIES
 
 #### Status
 ACCEPTED

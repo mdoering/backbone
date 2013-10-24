@@ -1,5 +1,4 @@
-Pseudocercospora thouiniae (F. Stevens) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora thouiniae (F. Stevens) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

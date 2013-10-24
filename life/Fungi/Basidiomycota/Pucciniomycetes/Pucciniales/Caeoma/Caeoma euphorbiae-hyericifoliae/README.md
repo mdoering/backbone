@@ -1,5 +1,4 @@
-Caeoma euphorbiae-hyericifoliae Schwein. SPECIES
-=======
+# Caeoma euphorbiae-hyericifoliae Schwein. SPECIES
 
 #### Status
 ACCEPTED

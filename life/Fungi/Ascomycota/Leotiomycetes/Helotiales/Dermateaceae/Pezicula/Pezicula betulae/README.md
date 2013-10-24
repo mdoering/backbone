@@ -1,5 +1,4 @@
-Pezicula betulae Rehm SPECIES
-=======
+# Pezicula betulae Rehm SPECIES
 
 #### Status
 ACCEPTED

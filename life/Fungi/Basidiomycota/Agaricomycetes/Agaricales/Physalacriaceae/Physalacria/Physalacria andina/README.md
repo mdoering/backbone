@@ -1,5 +1,4 @@
-Physalacria andina (Pat.) Pat. SPECIES
-=======
+# Physalacria andina (Pat.) Pat. SPECIES
 
 #### Status
 ACCEPTED

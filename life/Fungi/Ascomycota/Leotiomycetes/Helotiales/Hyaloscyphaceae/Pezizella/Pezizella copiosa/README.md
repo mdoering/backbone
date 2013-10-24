@@ -1,5 +1,4 @@
-Pezizella copiosa Velen. SPECIES
-=======
+# Pezizella copiosa Velen. SPECIES
 
 #### Status
 ACCEPTED

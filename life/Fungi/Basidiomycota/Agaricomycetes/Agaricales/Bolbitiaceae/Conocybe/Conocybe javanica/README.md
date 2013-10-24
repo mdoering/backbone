@@ -1,5 +1,4 @@
-Conocybe javanica Singer SPECIES
-=======
+# Conocybe javanica Singer SPECIES
 
 #### Status
 ACCEPTED

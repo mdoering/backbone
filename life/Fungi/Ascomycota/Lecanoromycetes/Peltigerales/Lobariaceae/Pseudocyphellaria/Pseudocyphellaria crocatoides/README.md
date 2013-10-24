@@ -1,5 +1,4 @@
-Pseudocyphellaria crocatoides D. J. Galloway SPECIES
-=======
+# Pseudocyphellaria crocatoides D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

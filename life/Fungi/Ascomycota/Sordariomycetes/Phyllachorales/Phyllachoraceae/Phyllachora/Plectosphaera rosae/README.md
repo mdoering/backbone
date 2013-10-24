@@ -1,5 +1,4 @@
-Plectosphaera rosae Arx & E. Müll., 1954 SPECIES
-=======
+# Plectosphaera rosae Arx & E. Müll., 1954 SPECIES
 
 #### Status
 ACCEPTED

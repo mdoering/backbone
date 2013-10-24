@@ -1,5 +1,4 @@
-Relicinopsis Elix & Verdon GENUS
-=======
+# Relicinopsis Elix & Verdon GENUS
 
 #### Status
 ACCEPTED

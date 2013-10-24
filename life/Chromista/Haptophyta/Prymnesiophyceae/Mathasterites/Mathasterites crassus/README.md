@@ -1,5 +1,4 @@
-Mathasterites crassus SPECIES
-=======
+# Mathasterites crassus SPECIES
 
 #### Status
 ACCEPTED

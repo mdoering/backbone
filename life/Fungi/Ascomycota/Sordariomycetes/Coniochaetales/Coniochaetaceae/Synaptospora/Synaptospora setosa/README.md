@@ -1,5 +1,4 @@
-Synaptospora setosa Huhndorf, F.A. Fernández & Cand. SPECIES
-=======
+# Synaptospora setosa Huhndorf, F.A. Fernández & Cand. SPECIES
 
 #### Status
 ACCEPTED

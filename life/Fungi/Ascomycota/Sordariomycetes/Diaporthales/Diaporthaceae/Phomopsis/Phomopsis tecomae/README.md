@@ -1,14 +1,13 @@
-Phoma tecomae Sacc., 1876 SPECIES
-=======
+# Phomopsis tecomae (Sacc.) Traverso & Spessa, 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bolm Soc. broteriana 25: 124 (1910)
 
 #### Original name
 Phoma tecomae Sacc., 1876

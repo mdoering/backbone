@@ -1,5 +1,4 @@
-Lepidoma scalare Gray SPECIES
-=======
+# Lepidoma scalare Gray SPECIES
 
 #### Status
 ACCEPTED

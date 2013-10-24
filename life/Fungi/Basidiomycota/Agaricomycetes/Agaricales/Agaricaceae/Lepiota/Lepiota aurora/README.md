@@ -1,5 +1,4 @@
-Lepiota aurora Murrill SPECIES
-=======
+# Lepiota aurora Murrill SPECIES
 
 #### Status
 ACCEPTED

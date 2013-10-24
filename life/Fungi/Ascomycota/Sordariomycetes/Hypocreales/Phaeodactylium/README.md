@@ -1,5 +1,4 @@
-Phaeodactylium Agnihothr. GENUS
-=======
+# Phaeodactylium Agnihothr. GENUS
 
 #### Status
 ACCEPTED

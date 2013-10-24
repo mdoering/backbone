@@ -1,5 +1,4 @@
-Amauroderma elegantissimum Ryvarden & Iturr., 2004 SPECIES
-=======
+# Amauroderma elegantissimum Ryvarden & Iturr., 2004 SPECIES
 
 #### Status
 ACCEPTED

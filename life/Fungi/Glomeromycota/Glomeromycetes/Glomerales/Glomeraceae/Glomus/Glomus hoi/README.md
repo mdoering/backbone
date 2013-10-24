@@ -1,5 +1,4 @@
-Glomus hoi S.M. Berch & Trappe, 1985 SPECIES
-=======
+# Glomus hoi S.M. Berch & Trappe, 1985 SPECIES
 
 #### Status
 ACCEPTED

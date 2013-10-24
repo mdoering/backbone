@@ -1,5 +1,4 @@
-Paliphora porosa Kuthub., 1987 SPECIES
-=======
+# Paliphora porosa Kuthub., 1987 SPECIES
 
 #### Status
 ACCEPTED

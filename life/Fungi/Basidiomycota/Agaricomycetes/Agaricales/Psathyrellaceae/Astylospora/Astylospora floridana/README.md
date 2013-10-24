@@ -1,17 +1,16 @@
-Atylospora floridana Murrill SPECIES
-=======
+# Astylospora floridana Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 8: 288 (1946)
 
 #### Original name
-Atylospora floridana Murrill
+Astylospora floridana Murrill
 
 ### Remarks
 null

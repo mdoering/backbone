@@ -1,5 +1,4 @@
-Asteristion erumpens Leight. SPECIES
-=======
+# Asteristion erumpens Leight. SPECIES
 
 #### Status
 ACCEPTED

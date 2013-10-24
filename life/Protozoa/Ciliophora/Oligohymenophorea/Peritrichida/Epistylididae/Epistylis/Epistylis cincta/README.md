@@ -1,5 +1,4 @@
-Epistylis cincta Sommer, 1951 SPECIES
-=======
+# Epistylis cincta Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

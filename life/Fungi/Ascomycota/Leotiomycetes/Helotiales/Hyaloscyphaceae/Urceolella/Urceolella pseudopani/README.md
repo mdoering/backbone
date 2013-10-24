@@ -1,5 +1,4 @@
-Urceolella pseudopani Hosoya SPECIES
-=======
+# Urceolella pseudopani Hosoya SPECIES
 
 #### Status
 ACCEPTED

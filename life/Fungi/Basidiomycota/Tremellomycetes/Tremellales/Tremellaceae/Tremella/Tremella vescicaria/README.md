@@ -1,5 +1,4 @@
-Tremella vescicaria Speg. SPECIES
-=======
+# Tremella vescicaria Speg. SPECIES
 
 #### Status
 ACCEPTED

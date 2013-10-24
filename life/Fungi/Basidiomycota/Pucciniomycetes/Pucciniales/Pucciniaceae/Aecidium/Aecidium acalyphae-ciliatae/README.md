@@ -1,5 +1,4 @@
-Aecidium acalyphae-ciliatae P.B. Chavan SPECIES
-=======
+# Aecidium acalyphae-ciliatae P.B. Chavan SPECIES
 
 #### Status
 ACCEPTED

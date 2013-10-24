@@ -1,5 +1,4 @@
-Lepiota harithaka T.K.A. Kumar & Manim. SPECIES
-=======
+# Lepiota harithaka T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

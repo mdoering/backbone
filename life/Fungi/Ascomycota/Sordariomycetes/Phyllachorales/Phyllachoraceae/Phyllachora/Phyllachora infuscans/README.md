@@ -1,5 +1,4 @@
-Phyllachora infuscans G. Winter, 1887 SPECIES
-=======
+# Phyllachora infuscans G. Winter, 1887 SPECIES
 
 #### Status
 ACCEPTED

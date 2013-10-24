@@ -1,5 +1,4 @@
-Rimularia Nylander, 1868 GENUS
-=======
+# Rimularia Nylander, 1868 GENUS
 
 #### Status
 ACCEPTED

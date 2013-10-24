@@ -1,5 +1,4 @@
-Rhizophidites Daugherty GENUS
-=======
+# Rhizophidites Daugherty GENUS
 
 #### Status
 ACCEPTED

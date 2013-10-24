@@ -1,5 +1,4 @@
-Puccinia vernoniae-monosis (Syd. {?} ) T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Puccinia vernoniae-monosis (Syd. {?} ) T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

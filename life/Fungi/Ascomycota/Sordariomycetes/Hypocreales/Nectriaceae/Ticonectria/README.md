@@ -1,5 +1,4 @@
-Ticonectria Döbbeler GENUS
-=======
+# Ticonectria Döbbeler GENUS
 
 #### Status
 ACCEPTED

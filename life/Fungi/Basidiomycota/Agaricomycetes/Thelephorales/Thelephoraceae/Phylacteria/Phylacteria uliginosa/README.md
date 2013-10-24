@@ -1,5 +1,4 @@
-Phylacteria uliginosa (Boud.) Bigeard & H. Guill. SPECIES
-=======
+# Phylacteria uliginosa (Boud.) Bigeard & H. Guill. SPECIES
 
 #### Status
 ACCEPTED

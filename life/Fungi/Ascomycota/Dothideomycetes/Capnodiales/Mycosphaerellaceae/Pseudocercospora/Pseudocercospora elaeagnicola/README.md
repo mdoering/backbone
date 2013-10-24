@@ -1,5 +1,4 @@
-Pseudocercospora elaeagnicola (Chidd.) Deighton SPECIES
-=======
+# Pseudocercospora elaeagnicola (Chidd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

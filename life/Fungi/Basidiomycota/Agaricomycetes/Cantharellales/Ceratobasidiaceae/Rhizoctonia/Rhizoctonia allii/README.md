@@ -1,5 +1,4 @@
-Rhizoctonia allii A.H. Graves SPECIES
-=======
+# Rhizoctonia allii A.H. Graves SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cytophaga arvensicola Oyaizu et al., 1983 SPECIES
-=======
+# Chitinophaga arvensicola (Oyaizu et al., 1983) Kämpfer et al., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

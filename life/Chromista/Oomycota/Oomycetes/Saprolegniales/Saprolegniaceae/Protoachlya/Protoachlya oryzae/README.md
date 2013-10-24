@@ -1,5 +1,4 @@
-Protoachlya oryzae Khulbe, 1983 SPECIES
-=======
+# Protoachlya oryzae Khulbe, 1983 SPECIES
 
 #### Status
 ACCEPTED

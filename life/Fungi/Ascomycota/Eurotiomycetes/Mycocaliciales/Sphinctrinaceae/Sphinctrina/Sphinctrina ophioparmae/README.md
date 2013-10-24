@@ -1,5 +1,4 @@
-Sphinctrina ophioparmae Kalb SPECIES
-=======
+# Sphinctrina ophioparmae Kalb SPECIES
 
 #### Status
 ACCEPTED

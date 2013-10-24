@@ -1,5 +1,4 @@
-Sporotrichum solubile Schwein. SPECIES
-=======
+# Sporotrichum solubile Schwein. SPECIES
 
 #### Status
 ACCEPTED

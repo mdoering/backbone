@@ -1,5 +1,4 @@
-Arthopyrenia thuretii (Hepp) H. Olivier SPECIES
-=======
+# Arthopyrenia thuretii (Hepp) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

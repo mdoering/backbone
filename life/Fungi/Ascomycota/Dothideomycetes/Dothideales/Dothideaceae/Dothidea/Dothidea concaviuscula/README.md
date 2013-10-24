@@ -1,5 +1,4 @@
-Dothidea concaviuscula Ellis & Everh. SPECIES
-=======
+# Dothidea concaviuscula Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

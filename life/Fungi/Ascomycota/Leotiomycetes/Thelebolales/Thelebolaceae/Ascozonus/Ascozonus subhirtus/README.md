@@ -1,14 +1,13 @@
-Ryparobius subhirtus (Renny) W. Phillips, 1887 SPECIES
-=======
+# Ascozonus subhirtus Renny, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 302 (1887)
+J. Bot. , Paris 357 (1874)
 
 #### Original name
 Ascozonus subhirtus Renny, 1874

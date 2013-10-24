@@ -1,5 +1,4 @@
-Paxillus russuloides Petch SPECIES
-=======
+# Paxillus russuloides Petch SPECIES
 
 #### Status
 ACCEPTED

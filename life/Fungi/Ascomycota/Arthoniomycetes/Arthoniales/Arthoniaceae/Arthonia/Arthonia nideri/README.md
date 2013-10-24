@@ -1,5 +1,4 @@
-Arthonia nideri (J. Steiner) Clauzade, Diederich & Cl. Roux SPECIES
-=======
+# Arthonia nideri (J. Steiner) Clauzade, Diederich & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

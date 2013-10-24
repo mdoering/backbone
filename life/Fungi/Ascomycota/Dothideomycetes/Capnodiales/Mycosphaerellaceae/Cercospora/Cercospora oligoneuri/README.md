@@ -1,17 +1,16 @@
-Cercospora oligoneuronis H.C. Greene SPECIES
-=======
+# Cercospora oligoneuri H.C. Greene SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Wis. Acad. Sci. Arts Lett. 46: 158 (1958)
 
 #### Original name
-Cercospora oligoneuronis H.C. Greene
+Cercospora oligoneuri H.C. Greene
 
 ### Remarks
 null

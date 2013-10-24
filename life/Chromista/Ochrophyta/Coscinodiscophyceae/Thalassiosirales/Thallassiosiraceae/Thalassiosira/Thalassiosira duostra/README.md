@@ -1,5 +1,4 @@
-Thalassiosira duostra C. Pienaar SPECIES
-=======
+# Thalassiosira duostra C. Pienaar SPECIES
 
 #### Status
 ACCEPTED

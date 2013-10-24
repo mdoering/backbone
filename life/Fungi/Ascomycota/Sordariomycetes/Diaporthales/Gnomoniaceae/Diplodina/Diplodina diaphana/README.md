@@ -1,5 +1,4 @@
-Diplodina diaphana Jacz. SPECIES
-=======
+# Diplodina diaphana Jacz. SPECIES
 
 #### Status
 ACCEPTED

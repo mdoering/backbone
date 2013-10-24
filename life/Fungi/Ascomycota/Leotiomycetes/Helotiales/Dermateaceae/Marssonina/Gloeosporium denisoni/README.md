@@ -1,5 +1,4 @@
-Gloeosporium denisoni Sacc. & Berl. SPECIES
-=======
+# Gloeosporium denisoni Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

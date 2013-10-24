@@ -1,5 +1,4 @@
-Discophrya elegans Goodrich & Jahn, 1943 SPECIES
-=======
+# Discophrya elegans Goodrich & Jahn, 1943 SPECIES
 
 #### Status
 ACCEPTED

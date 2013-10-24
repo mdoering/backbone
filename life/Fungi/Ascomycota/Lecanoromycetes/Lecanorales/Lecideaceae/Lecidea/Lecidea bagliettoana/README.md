@@ -1,5 +1,4 @@
-Lecidea bagliettoana Zahlbr. SPECIES
-=======
+# Lecidea bagliettoana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

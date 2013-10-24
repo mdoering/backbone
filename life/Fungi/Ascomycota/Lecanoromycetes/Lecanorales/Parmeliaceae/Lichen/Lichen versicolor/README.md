@@ -1,5 +1,4 @@
-Lichen versicolor (Ach.) Lam. SPECIES
-=======
+# Lichen versicolor (Ach.) Lam. SPECIES
 
 #### Status
 ACCEPTED

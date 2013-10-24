@@ -1,5 +1,4 @@
-Charomyces Seifert GENUS
-=======
+# Charomyces Seifert GENUS
 
 #### Status
 ACCEPTED

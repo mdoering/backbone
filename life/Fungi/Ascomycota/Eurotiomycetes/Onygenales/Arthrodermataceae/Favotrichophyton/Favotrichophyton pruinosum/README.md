@@ -1,5 +1,4 @@
-Favotrichophyton pruinosum (Catanei) C.W. Dodge SPECIES
-=======
+# Favotrichophyton pruinosum (Catanei) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

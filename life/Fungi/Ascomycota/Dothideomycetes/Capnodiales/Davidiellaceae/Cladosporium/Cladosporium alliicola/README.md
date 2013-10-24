@@ -1,5 +1,4 @@
-Cladosporium alliicola H.D. Shin & U. Braun, 1995 SPECIES
-=======
+# Cladosporium alliicola H.D. Shin & U. Braun, 1995 SPECIES
 
 #### Status
 ACCEPTED

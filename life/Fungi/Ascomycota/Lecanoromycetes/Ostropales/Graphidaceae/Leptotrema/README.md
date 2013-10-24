@@ -1,5 +1,4 @@
-Leptotrema GENUS
-=======
+# Leptotrema GENUS
 
 #### Status
 ACCEPTED

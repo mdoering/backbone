@@ -1,5 +1,4 @@
-Caeoma stellariae Link SPECIES
-=======
+# Caeoma stellariae Link SPECIES
 
 #### Status
 ACCEPTED

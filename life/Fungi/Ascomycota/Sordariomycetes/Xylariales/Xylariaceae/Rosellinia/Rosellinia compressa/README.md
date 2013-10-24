@@ -1,5 +1,4 @@
-Rosellinia compressa Ellis & Dearn. SPECIES
-=======
+# Rosellinia compressa Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

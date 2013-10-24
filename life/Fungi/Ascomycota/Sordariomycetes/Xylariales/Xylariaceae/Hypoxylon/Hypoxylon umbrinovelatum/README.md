@@ -1,5 +1,4 @@
-Hypoxylon umbrinovelatum Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon umbrinovelatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

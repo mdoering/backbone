@@ -1,5 +1,4 @@
-Phoma subtruncata A.L. Guyot SPECIES
-=======
+# Phoma subtruncata A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

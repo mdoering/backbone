@@ -1,5 +1,4 @@
-Anoxybacillus Pikuta, Cleland & Tang, 2003 GENUS
-=======
+# Anoxybacillus Pikuta, Cleland & Tang, 2003 GENUS
 
 #### Status
 ACCEPTED

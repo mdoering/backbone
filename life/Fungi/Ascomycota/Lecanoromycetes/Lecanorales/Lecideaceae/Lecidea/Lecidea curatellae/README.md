@@ -1,5 +1,4 @@
-Lecidea curatellae Malme SPECIES
-=======
+# Lecidea curatellae Malme SPECIES
 
 #### Status
 ACCEPTED

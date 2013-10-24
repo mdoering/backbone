@@ -1,5 +1,4 @@
-Puccinia erikssonii Bubák SPECIES
-=======
+# Puccinia erikssonii Bubák SPECIES
 
 #### Status
 ACCEPTED

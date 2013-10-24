@@ -1,5 +1,4 @@
-Rickia anomala Thaxt. SPECIES
-=======
+# Rickia anomala Thaxt. SPECIES
 
 #### Status
 ACCEPTED

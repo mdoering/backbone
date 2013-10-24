@@ -1,5 +1,4 @@
-Peziza perforata P. Karst. SPECIES
-=======
+# Peziza perforata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

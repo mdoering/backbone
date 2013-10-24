@@ -1,5 +1,4 @@
-Patellea karschioides Kirschst. SPECIES
-=======
+# Patellea karschioides Kirschst. SPECIES
 
 #### Status
 ACCEPTED

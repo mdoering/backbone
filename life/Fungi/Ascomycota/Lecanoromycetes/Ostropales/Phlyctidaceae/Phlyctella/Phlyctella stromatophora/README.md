@@ -1,5 +1,4 @@
-Phlyctella stromatophora (C. Knight) Müll. Arg. SPECIES
-=======
+# Phlyctella stromatophora (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

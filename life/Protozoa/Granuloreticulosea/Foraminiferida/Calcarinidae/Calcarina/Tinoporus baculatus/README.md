@@ -1,5 +1,4 @@
-Tinoporus baculatus SPECIES
-=======
+# Tinoporus baculatus SPECIES
 
 #### Status
 ACCEPTED

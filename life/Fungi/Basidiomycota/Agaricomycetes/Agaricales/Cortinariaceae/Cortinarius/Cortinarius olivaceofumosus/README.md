@@ -1,5 +1,4 @@
-Cortinarius olivaceofumosus E. Horak SPECIES
-=======
+# Cortinarius olivaceofumosus E. Horak SPECIES
 
 #### Status
 ACCEPTED

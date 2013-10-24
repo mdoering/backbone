@@ -1,5 +1,4 @@
-Rinodina articulata Bagl. SPECIES
-=======
+# Rinodina articulata Bagl. SPECIES
 
 #### Status
 ACCEPTED

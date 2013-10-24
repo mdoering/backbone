@@ -1,5 +1,4 @@
-Pseudodictyomitra Pessagno, 1977 GENUS
-=======
+# Pseudodictyomitra Pessagno, 1977 GENUS
 
 #### Status
 ACCEPTED

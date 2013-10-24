@@ -1,5 +1,4 @@
-Coleroa daphnes Balf.-Browne SPECIES
-=======
+# Coleroa daphnes Balf.-Browne SPECIES
 
 #### Status
 ACCEPTED

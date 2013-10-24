@@ -1,5 +1,4 @@
-Sagedia ariae Müll. Arg. SPECIES
-=======
+# Sagedia ariae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

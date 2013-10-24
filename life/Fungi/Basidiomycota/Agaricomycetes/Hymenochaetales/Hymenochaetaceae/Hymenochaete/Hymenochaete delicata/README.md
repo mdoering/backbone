@@ -1,5 +1,4 @@
-Hymenochaete delicata (Kl. {?} ) Bres. SPECIES
-=======
+# Hymenochaete delicata (Kl. {?} ) Bres. SPECIES
 
 #### Status
 ACCEPTED

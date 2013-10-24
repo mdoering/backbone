@@ -1,5 +1,4 @@
-Chaetoceros gracele Schutt SPECIES
-=======
+# Chaetoceros gracele Schutt SPECIES
 
 #### Status
 ACCEPTED

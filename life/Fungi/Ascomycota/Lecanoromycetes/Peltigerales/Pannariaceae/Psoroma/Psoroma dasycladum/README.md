@@ -1,5 +1,4 @@
-Psoroma dasycladum Zahlbr. SPECIES
-=======
+# Psoroma dasycladum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

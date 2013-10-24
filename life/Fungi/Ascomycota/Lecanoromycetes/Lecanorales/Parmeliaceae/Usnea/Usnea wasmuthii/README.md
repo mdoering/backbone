@@ -1,17 +1,16 @@
-Usnea wasmuthii var. wasmuthii VARIETY
-=======
+# Usnea wasmuthii Räsänen SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Die Flecht. Estlands 1: 19 (1931)
 
 #### Original name
-Usnea wasmuthii var. wasmuthii
+Usnea wasmuthii Räsänen
 
 ### Remarks
 null

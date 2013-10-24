@@ -1,5 +1,4 @@
-Meliola heterodonta Syd. SPECIES
-=======
+# Meliola heterodonta Syd. SPECIES
 
 #### Status
 ACCEPTED

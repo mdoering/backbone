@@ -1,5 +1,4 @@
-Lagenosolenia vannicapitata McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia vannicapitata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia berkeleyana De Toni SPECIES
-=======
+# Puccinia berkeleyana De Toni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytoplea adeniae Du Plessis SPECIES
-=======
+# Cytoplea adeniae Du Plessis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnangium purpureum Zeller & C.W. Dodge SPECIES
-=======
+# Hydnangium purpureum Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

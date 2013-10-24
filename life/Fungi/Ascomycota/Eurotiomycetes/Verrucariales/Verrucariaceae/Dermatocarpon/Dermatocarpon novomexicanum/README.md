@@ -1,5 +1,4 @@
-Dermatocarpon novomexicanum (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Dermatocarpon novomexicanum (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

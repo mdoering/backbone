@@ -1,5 +1,4 @@
-Biscutum grande SPECIES
-=======
+# Biscutum grande SPECIES
 
 #### Status
 ACCEPTED

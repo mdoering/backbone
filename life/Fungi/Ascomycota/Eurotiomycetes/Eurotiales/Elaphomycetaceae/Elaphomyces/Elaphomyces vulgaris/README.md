@@ -1,5 +1,4 @@
-Elaphomyces vulgaris var. vulgaris VARIETY
-=======
+# Elaphomyces vulgaris Corda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Elaphomyces vulgaris var. vulgaris
+Elaphomyces vulgaris Corda
 
 ### Remarks
 null

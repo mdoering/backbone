@@ -1,5 +1,4 @@
-Tremella hemisphaerica Weigel SPECIES
-=======
+# Tremella hemisphaerica Weigel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catapyrenium trachyticum (Hazsl.) R. Sant. SPECIES
-=======
+# Catapyrenium trachyticum (Hazsl.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

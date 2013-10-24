@@ -1,5 +1,4 @@
-Bartonella clarridgeiae Lawson & Collins, 1996 SPECIES
-=======
+# Bartonella clarridgeiae Lawson & Collins, 1996 SPECIES
 
 #### Status
 ACCEPTED

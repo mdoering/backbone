@@ -1,5 +1,4 @@
-Sphaeroderma wentii (Koord.) Sacc. & Trotter SPECIES
-=======
+# Sphaeroderma wentii (Koord.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella tjibodensis Penz. & Sacc. SPECIES
-=======
+# Pezizella tjibodensis Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

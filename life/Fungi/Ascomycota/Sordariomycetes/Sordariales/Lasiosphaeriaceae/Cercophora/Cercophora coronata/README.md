@@ -1,5 +1,4 @@
-Cercophora coronata (Cailleux) Udagawa & T. Muroi SPECIES
-=======
+# Cercophora coronata (Cailleux) Udagawa & T. Muroi SPECIES
 
 #### Status
 ACCEPTED

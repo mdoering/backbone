@@ -1,5 +1,4 @@
-Submersisphaeria rattanicola J. Fröhl. & K.D. Hyde, 2000 SPECIES
-=======
+# Submersisphaeria rattanicola J. Fröhl. & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

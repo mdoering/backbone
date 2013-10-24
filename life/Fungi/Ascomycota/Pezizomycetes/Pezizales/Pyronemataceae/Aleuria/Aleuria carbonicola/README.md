@@ -1,5 +1,4 @@
-Aleuria carbonicola (J. Moravec) J. Moravec SPECIES
-=======
+# Aleuria carbonicola (J. Moravec) J. Moravec SPECIES
 
 #### Status
 ACCEPTED

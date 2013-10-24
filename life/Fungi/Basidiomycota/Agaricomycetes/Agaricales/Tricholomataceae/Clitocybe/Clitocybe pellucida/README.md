@@ -1,5 +1,4 @@
-Clitocybe pellucida Velen. SPECIES
-=======
+# Clitocybe pellucida Velen. SPECIES
 
 #### Status
 ACCEPTED

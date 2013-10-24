@@ -1,5 +1,4 @@
-Lichen vespertilio Lightf. SPECIES
-=======
+# Lichen vespertilio Lightf. SPECIES
 
 #### Status
 ACCEPTED

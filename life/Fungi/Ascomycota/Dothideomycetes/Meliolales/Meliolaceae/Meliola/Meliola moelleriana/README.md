@@ -1,8 +1,7 @@
-Meliola molleriana var. sidicola (F. Stevens & Tehon) F. Stevens VARIETY
-=======
+# Meliola moelleriana G. Winter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Irene sidicola F. Stevens & Tehon
+Meliola moelleriana G. Winter
 
 ### Remarks
 null

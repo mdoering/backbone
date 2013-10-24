@@ -1,5 +1,4 @@
-Septoria euonymina Severini SPECIES
-=======
+# Septoria euonymina Severini SPECIES
 
 #### Status
 ACCEPTED

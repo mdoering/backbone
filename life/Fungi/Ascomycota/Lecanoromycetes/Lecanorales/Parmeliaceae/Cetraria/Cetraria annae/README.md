@@ -1,5 +1,4 @@
-Cetraria annae Oxner SPECIES
-=======
+# Cetraria annae Oxner SPECIES
 
 #### Status
 ACCEPTED

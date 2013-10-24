@@ -1,5 +1,4 @@
-Gloeocystidium calciferum Litsch. SPECIES
-=======
+# Gloeocystidium calciferum Litsch. SPECIES
 
 #### Status
 ACCEPTED

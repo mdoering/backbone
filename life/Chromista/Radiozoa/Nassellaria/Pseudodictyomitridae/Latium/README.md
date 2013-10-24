@@ -1,5 +1,4 @@
-Latium Blome, 1984 GENUS
-=======
+# Latium Blome, 1984 GENUS
 
 #### Status
 ACCEPTED

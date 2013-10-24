@@ -1,5 +1,4 @@
-Graphium sordidiceps Fairm. SPECIES
-=======
+# Graphium sordidiceps Fairm. SPECIES
 
 #### Status
 ACCEPTED

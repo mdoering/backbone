@@ -1,5 +1,4 @@
-Subulispora britannica B. Sutton, 1973 SPECIES
-=======
+# Subulispora britannica B. Sutton, 1973 SPECIES
 
 #### Status
 ACCEPTED

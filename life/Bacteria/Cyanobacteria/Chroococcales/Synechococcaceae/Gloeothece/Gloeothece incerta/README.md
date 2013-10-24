@@ -1,5 +1,4 @@
-Gloeothece incerta Skuja SPECIES
-=======
+# Gloeothece incerta Skuja SPECIES
 
 #### Status
 ACCEPTED

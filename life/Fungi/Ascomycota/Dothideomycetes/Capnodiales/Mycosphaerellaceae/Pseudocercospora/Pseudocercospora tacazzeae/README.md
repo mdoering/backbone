@@ -1,5 +1,4 @@
-Pseudocercospora tacazzeae (J.M. Yen & Gilles) J.M. Yen SPECIES
-=======
+# Pseudocercospora tacazzeae (J.M. Yen & Gilles) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

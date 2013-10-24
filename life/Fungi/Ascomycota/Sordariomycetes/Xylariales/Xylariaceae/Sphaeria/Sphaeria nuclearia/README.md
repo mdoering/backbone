@@ -1,5 +1,4 @@
-Sphaeria nuclearia Duby SPECIES
-=======
+# Sphaeria nuclearia Duby SPECIES
 
 #### Status
 ACCEPTED

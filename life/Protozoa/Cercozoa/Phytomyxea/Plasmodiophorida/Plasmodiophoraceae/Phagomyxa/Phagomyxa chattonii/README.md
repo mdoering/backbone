@@ -1,14 +1,13 @@
-Labyrinthula chattonii P.A. Dang., 1932 SPECIES
-=======
+# Phagomyxa chattonii (P.A. Dang.) Karling, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Le Botaniste 24: 223 (1932)
+Am. J. Bot. 31: 51 (1944)
 
 #### Original name
 Labyrinthula chattonii P.A. Dang., 1932

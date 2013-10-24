@@ -1,5 +1,4 @@
-Tylopilus vinaceogriseus Singer, J. García & L.D. Gómez SPECIES
-=======
+# Tylopilus vinaceogriseus Singer, J. García & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

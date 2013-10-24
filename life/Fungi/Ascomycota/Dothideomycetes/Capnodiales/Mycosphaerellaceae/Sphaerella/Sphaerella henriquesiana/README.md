@@ -1,5 +1,4 @@
-Sphaerella henriquesiana G. Winter SPECIES
-=======
+# Sphaerella henriquesiana G. Winter SPECIES
 
 #### Status
 ACCEPTED

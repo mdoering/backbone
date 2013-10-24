@@ -1,5 +1,4 @@
-Pyrgo globula SPECIES
-=======
+# Pyrgo globula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha lavicola H. Magn. SPECIES
-=======
+# Opegrapha lavicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

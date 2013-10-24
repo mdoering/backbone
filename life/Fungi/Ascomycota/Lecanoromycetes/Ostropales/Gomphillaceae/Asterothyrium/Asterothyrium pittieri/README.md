@@ -1,5 +1,4 @@
-Asterothyrium pittieri Müll. Arg. SPECIES
-=======
+# Asterothyrium pittieri Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

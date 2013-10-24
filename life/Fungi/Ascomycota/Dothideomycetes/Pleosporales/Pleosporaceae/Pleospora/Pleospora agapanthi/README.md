@@ -1,5 +1,4 @@
-Pleospora agapanthi Cruchet SPECIES
-=======
+# Pleospora agapanthi Cruchet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea ceruchis (Ach.) Mont. SPECIES
-=======
+# Usnea ceruchis (Ach.) Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Duportella pirispora Boidin, Lanq. & Gilles, 1991 SPECIES
-=======
+# Duportella pirispora Boidin, Lanq. & Gilles, 1991 SPECIES
 
 #### Status
 ACCEPTED

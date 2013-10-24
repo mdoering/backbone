@@ -1,5 +1,4 @@
-Merisma diffusum (Fr.) P. Karst. SPECIES
-=======
+# Merisma diffusum (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

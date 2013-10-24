@@ -1,8 +1,7 @@
-Phoma parca (Berk. & Broome) Sacc. SPECIES
-=======
+# Sphaeropsis parca Berk. & Broome, 1850 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

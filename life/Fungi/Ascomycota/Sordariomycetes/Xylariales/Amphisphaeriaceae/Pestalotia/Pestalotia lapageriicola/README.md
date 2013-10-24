@@ -1,5 +1,4 @@
-Pestalotia lapageriicola (Speg.) Speg. ex Subram. SPECIES
-=======
+# Pestalotia lapageriicola (Speg.) Speg. ex Subram. SPECIES
 
 #### Status
 ACCEPTED

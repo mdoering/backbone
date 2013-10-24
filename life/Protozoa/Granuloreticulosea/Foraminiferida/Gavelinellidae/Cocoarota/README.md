@@ -1,5 +1,4 @@
-Cocoarota Loeblich & Tappan, 1986 GENUS
-=======
+# Cocoarota Loeblich & Tappan, 1986 GENUS
 
 #### Status
 ACCEPTED

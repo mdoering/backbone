@@ -1,5 +1,4 @@
-Stenella adeniae (Hansf.) Deighton, 1979 SPECIES
-=======
+# Stenella adeniae (Hansf.) Deighton, 1979 SPECIES
 
 #### Status
 ACCEPTED

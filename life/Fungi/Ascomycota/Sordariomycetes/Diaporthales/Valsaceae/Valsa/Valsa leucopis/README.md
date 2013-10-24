@@ -1,5 +1,4 @@
-Valsa leucopis (Fr.) Quél. SPECIES
-=======
+# Valsa leucopis (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

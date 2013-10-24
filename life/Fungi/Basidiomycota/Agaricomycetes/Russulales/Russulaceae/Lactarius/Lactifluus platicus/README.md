@@ -1,5 +1,4 @@
-Lactifluus platicus (Britzelm.) Kuntze SPECIES
-=======
+# Lactifluus platicus (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

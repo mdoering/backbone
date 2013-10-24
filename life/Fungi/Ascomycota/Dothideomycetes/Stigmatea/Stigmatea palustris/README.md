@@ -1,5 +1,4 @@
-Stigmatea palustris Mont. SPECIES
-=======
+# Stigmatea palustris Mont. SPECIES
 
 #### Status
 ACCEPTED

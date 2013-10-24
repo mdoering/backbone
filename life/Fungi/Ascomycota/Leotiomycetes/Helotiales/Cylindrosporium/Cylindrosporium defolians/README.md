@@ -1,5 +1,4 @@
-Cylindrosporium defolians (Harkn.) Vassiljevsky SPECIES
-=======
+# Cylindrosporium defolians (Harkn.) Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

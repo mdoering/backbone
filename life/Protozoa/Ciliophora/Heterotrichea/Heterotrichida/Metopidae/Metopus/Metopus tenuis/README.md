@@ -1,5 +1,4 @@
-Metopus tenuis Kahl, 1927 SPECIES
-=======
+# Metopus tenuis Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

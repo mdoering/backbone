@@ -1,5 +1,4 @@
-Hendersonia rostrata Sacc. & Ellis SPECIES
-=======
+# Hendersonia rostrata Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

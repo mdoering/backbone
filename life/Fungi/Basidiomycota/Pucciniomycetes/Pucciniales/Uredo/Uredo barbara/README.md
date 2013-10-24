@@ -1,5 +1,4 @@
-Uredo barbara Speg. SPECIES
-=======
+# Uredo barbara Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurosira harrisonii var. fossilis Pantocsek VARIETY
-=======
+# Staurosira harrisonii SPECIES
 
 #### Status
 ACCEPTED

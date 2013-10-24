@@ -1,5 +1,4 @@
-Stilbum tetraonum Cooke SPECIES
-=======
+# Stilbum tetraonum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolivina subtenuis Cushman SPECIES
-=======
+# Bolivina subtenuis Cushman SPECIES
 
 #### Status
 ACCEPTED

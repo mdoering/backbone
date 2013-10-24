@@ -1,5 +1,4 @@
-Hendersonia insularis (Speg.) Kuntze SPECIES
-=======
+# Hendersonia insularis (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

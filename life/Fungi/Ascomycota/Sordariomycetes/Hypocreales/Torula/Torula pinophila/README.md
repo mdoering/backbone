@@ -1,5 +1,4 @@
-Torula pinophila Chevall. SPECIES
-=======
+# Torula pinophila Chevall. SPECIES
 
 #### Status
 ACCEPTED

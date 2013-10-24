@@ -1,5 +1,4 @@
-Histopomphus redriverensis (Tappan) SPECIES
-=======
+# Histopomphus redriverensis (Tappan) SPECIES
 
 #### Status
 ACCEPTED

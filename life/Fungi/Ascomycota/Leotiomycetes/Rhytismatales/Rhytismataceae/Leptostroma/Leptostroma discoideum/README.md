@@ -1,5 +1,4 @@
-Leptostroma discoideum Cooke SPECIES
-=======
+# Leptostroma discoideum Cooke SPECIES
 
 #### Status
 ACCEPTED

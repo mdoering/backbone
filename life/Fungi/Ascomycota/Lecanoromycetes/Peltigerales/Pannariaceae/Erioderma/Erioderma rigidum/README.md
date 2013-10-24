@@ -1,5 +1,4 @@
-Erioderma rigidum P. M. Jørg. SPECIES
-=======
+# Erioderma rigidum P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

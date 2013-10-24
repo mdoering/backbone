@@ -1,5 +1,4 @@
-Skeletonia Gooday, Kamenskaya & Cedhagen, 2007 GENUS
-=======
+# Skeletonia Gooday, Kamenskaya & Cedhagen, 2007 GENUS
 
 #### Status
 ACCEPTED

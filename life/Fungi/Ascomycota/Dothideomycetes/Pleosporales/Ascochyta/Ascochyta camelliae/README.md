@@ -1,5 +1,4 @@
-Ascochyta camelliae Pass. SPECIES
-=======
+# Ascochyta camelliae Pass. SPECIES
 
 #### Status
 ACCEPTED

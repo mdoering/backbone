@@ -1,17 +1,16 @@
-Gyrophana ianthinospora Pat. SPECIES
-=======
+# Gyrophana janthinospora Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Expl. sci. Tunisie 4: 108, tab. 4, fig. 1 (1894)
 
 #### Original name
-Gyrophana ianthinospora Pat.
+Gyrophana janthinospora Pat.
 
 ### Remarks
 null

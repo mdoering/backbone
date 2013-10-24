@@ -1,14 +1,13 @@
-Parmelia trulla Ach. SPECIES
-=======
+# Everniopsis trulla (Ach.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Method. Lich. 256 (1803)
+Syn. meth. lich. 1(2): 375 (1860)
 
 #### Original name
 Parmelia trulla Ach.

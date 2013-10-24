@@ -1,5 +1,4 @@
-Gloeosporium medinillae Verpl. & Claess. SPECIES
-=======
+# Gloeosporium medinillae Verpl. & Claess. SPECIES
 
 #### Status
 ACCEPTED

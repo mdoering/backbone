@@ -1,17 +1,16 @@
-Hyalopus furcatum Bat. & C. Ram SPECIES
-=======
+# Acremonium recifei (Leão & Lôbo) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cephalosporium-artige Schimmelpilze (Stuttgart) 133 (1971)
 
 #### Original name
-Hyalopus furcatum Bat. & C. Ram
+Cephalosporium recifei Leão & Lôbo, 1934
 
 ### Remarks
 null

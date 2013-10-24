@@ -1,5 +1,4 @@
-Lophiostoma brachypodii Fabre SPECIES
-=======
+# Lophiostoma brachypodii Fabre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Geaster juniperinus T. Macbr. SPECIES
-=======
+# Geastrum juniperinus T. Macbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster juniperinus T. Macbr.
+Geastrum juniperinus T. Macbr.
 
 ### Remarks
 null

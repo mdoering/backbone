@@ -1,5 +1,4 @@
-Rhodomyces GENUS
-=======
+# Rhodomyces GENUS
 
 #### Status
 ACCEPTED

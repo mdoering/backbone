@@ -1,5 +1,4 @@
-Tholosina margineforata Rhumbler, 1935 SPECIES
-=======
+# Tholosina margineforata Rhumbler, 1935 SPECIES
 
 #### Status
 ACCEPTED

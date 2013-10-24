@@ -1,5 +1,4 @@
-Nucellosphaeridium simplex Luo Qiling, 1985 SPECIES
-=======
+# Nucellosphaeridium simplex Luo Qiling, 1985 SPECIES
 
 #### Status
 ACCEPTED

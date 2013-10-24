@@ -1,5 +1,4 @@
-Thelidium jeanjeani Servít SPECIES
-=======
+# Thelidium jeanjeani Servít SPECIES
 
 #### Status
 ACCEPTED

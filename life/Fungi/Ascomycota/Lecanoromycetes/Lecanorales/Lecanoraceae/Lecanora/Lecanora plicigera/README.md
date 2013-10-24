@@ -1,5 +1,4 @@
-Lecanora plicigera f. glaucescens Zahlbr. FORM
-=======
+# Lecanora plicigera Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora plicigera f. glaucescens Zahlbr.
+Lecanora plicigera Zahlbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeria stilbosporans Schwein. SPECIES
-=======
+# Sphaeria stilbosporans Schwein. SPECIES
 
 #### Status
 ACCEPTED

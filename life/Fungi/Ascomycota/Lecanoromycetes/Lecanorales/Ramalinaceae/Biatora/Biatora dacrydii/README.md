@@ -1,5 +1,4 @@
-Biatora dacrydii (Müll. Arg.) Hellb. SPECIES
-=======
+# Biatora dacrydii (Müll. Arg.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

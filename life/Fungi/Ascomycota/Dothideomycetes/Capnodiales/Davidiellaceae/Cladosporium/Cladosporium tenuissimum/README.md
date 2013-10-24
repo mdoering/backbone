@@ -1,5 +1,4 @@
-Cladosporium tenuissimum Cooke, 1878 SPECIES
-=======
+# Cladosporium tenuissimum Cooke, 1878 SPECIES
 
 #### Status
 ACCEPTED

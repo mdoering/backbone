@@ -1,5 +1,4 @@
-Tephromela calcarea (Jatta) Motyka SPECIES
-=======
+# Tephromela calcarea (Jatta) Motyka SPECIES
 
 #### Status
 ACCEPTED

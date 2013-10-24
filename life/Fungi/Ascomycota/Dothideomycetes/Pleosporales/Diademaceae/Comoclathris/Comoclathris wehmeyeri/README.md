@@ -1,5 +1,4 @@
-Comoclathris wehmeyeri A. Pande SPECIES
-=======
+# Comoclathris wehmeyeri A. Pande SPECIES
 
 #### Status
 ACCEPTED

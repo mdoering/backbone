@@ -1,5 +1,4 @@
-Diplodina clematidicola Gonz. Frag. SPECIES
-=======
+# Diplodina clematidicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia subreclinis (Murrill) Murrill SPECIES
-=======
+# Omphalia subreclinis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

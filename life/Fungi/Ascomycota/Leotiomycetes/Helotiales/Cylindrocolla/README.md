@@ -1,5 +1,4 @@
-Cylindrocolla Bonord. GENUS
-=======
+# Cylindrocolla Bonord. GENUS
 
 #### Status
 ACCEPTED

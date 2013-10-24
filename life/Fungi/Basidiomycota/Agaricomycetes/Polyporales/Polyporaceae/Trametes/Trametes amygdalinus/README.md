@@ -1,5 +1,4 @@
-Trametes amygdalinus (Berk. & Ravenel) Teng SPECIES
-=======
+# Trametes amygdalinus (Berk. & Ravenel) Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptothecia inexspectata G. Thor SPECIES
-=======
+# Cryptothecia inexspectata G. Thor SPECIES
 
 #### Status
 ACCEPTED

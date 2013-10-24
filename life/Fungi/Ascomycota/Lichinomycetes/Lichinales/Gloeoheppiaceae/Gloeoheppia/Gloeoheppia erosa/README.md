@@ -1,14 +1,13 @@
-Heppia erosa J. Steiner SPECIES
-=======
+# Gloeoheppia erosa (J. Steiner) Marton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Marton & Galun, Israel J. Bot. 30(3): 144 (1982)
 
 #### Original name
 Heppia erosa J. Steiner

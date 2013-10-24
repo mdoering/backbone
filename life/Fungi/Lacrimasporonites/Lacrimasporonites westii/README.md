@@ -1,5 +1,4 @@
-Lacrimasporonites westii Elsik SPECIES
-=======
+# Lacrimasporonites westii Elsik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora horii C. Nakash. & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora horii C. Nakash. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discogloeum concentricum (Heald & F.A. Wolf) Morgan-Jones SPECIES
-=======
+# Discogloeum concentricum (Heald & F.A. Wolf) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohelotium microcenangium Penz. & Sacc. SPECIES
-=======
+# Pseudohelotium microcenangium Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

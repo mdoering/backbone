@@ -1,17 +1,16 @@
-Geaster xylogenus Long & Stouffer SPECIES
-=======
+# Geastrum xylogenus Long & Stouffer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 40(5): 563 (1948)
 
 #### Original name
-Geaster xylogenus Long & Stouffer
+Geastrum xylogenus Long & Stouffer
 
 ### Remarks
 null

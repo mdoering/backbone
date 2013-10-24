@@ -1,5 +1,4 @@
-Astrosporina subfibrosoides (Singer) E. Horak SPECIES
-=======
+# Astrosporina subfibrosoides (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

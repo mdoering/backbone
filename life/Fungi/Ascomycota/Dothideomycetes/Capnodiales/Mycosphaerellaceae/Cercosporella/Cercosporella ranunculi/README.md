@@ -1,5 +1,4 @@
-Cercosporella ranunculi Jaap SPECIES
-=======
+# Cercosporella ranunculi Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus triplicatus Berk. SPECIES
-=======
+# Agaricus triplicatus Berk. SPECIES
 
 #### Status
 ACCEPTED

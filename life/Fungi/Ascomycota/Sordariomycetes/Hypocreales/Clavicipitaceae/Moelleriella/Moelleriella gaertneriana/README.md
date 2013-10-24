@@ -1,5 +1,4 @@
-Moelleriella gaertneriana (A. Moller) P. Chaverri & K.T. Hodge SPECIES
-=======
+# Moelleriella gaertneriana (A. Moller) P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

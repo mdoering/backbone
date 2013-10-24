@@ -1,5 +1,4 @@
-Clavulinopsis solomonensis Corner SPECIES
-=======
+# Clavulinopsis solomonensis Corner SPECIES
 
 #### Status
 ACCEPTED

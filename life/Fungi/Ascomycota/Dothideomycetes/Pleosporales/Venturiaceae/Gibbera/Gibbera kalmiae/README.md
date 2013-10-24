@@ -1,5 +1,4 @@
-Gibbera kalmiae (Peck) M.E. Barr SPECIES
-=======
+# Gibbera kalmiae (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

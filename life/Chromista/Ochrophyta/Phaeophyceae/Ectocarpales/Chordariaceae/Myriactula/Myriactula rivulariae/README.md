@@ -1,8 +1,7 @@
-Gonodia pulvinata (Kützing) Nieuwland SPECIES
-=======
+# Myriactula rivulariae (Suhr) Feldmann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

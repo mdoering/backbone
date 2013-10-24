@@ -1,5 +1,4 @@
-Terfezia decaryi R. Heim SPECIES
-=======
+# Terfezia decaryi R. Heim SPECIES
 
 #### Status
 ACCEPTED

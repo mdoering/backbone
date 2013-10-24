@@ -1,5 +1,4 @@
-Stephanotheca Syd. & P. Syd. GENUS
-=======
+# Stephanotheca Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

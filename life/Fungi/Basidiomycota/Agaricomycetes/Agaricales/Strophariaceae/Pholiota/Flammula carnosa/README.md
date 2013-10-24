@@ -1,5 +1,4 @@
-Flammula carnosa Massee SPECIES
-=======
+# Flammula carnosa Massee SPECIES
 
 #### Status
 ACCEPTED

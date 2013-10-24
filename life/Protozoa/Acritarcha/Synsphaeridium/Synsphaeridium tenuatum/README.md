@@ -1,5 +1,4 @@
-Synsphaeridium tenuatum Chepikova, 1971 SPECIES
-=======
+# Synsphaeridium tenuatum Chepikova, 1971 SPECIES
 
 #### Status
 ACCEPTED

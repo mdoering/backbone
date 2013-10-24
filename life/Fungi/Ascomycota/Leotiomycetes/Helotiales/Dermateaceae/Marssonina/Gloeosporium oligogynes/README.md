@@ -1,5 +1,4 @@
-Gloeosporium oligogynes Henn. SPECIES
-=======
+# Gloeosporium oligogynes Henn. SPECIES
 
 #### Status
 ACCEPTED

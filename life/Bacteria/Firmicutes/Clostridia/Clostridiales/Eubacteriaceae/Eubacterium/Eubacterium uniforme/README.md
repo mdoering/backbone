@@ -1,5 +1,4 @@
-Eubacterium uniforme van Gylswyk & van der Toorn, 1985 SPECIES
-=======
+# Eubacterium uniforme van Gylswyk & van der Toorn, 1985 SPECIES
 
 #### Status
 ACCEPTED

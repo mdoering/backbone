@@ -1,5 +1,4 @@
-Incolaria Herzer GENUS
-=======
+# Incolaria Herzer GENUS
 
 #### Status
 ACCEPTED

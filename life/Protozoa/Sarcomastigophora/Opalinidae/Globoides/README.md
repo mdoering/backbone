@@ -1,5 +1,4 @@
-Globoides Amaro, 1966 GENUS
-=======
+# Globoides Amaro, 1966 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia giovanellae Bres. SPECIES
-=======
+# Omphalia giovanellae Bres. SPECIES
 
 #### Status
 ACCEPTED

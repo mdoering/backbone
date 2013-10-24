@@ -1,5 +1,4 @@
-Ovularia lotophaga Ellis & Everh. SPECIES
-=======
+# Ovularia lotophaga Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

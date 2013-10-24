@@ -1,5 +1,4 @@
-Puccinia huber-morathii Petr. SPECIES
-=======
+# Puccinia huber-morathii Petr. SPECIES
 
 #### Status
 ACCEPTED

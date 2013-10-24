@@ -1,5 +1,4 @@
-Histomonas meleagridis Tyzzer, 1924 SPECIES
-=======
+# Histomonas meleagridis Tyzzer, 1924 SPECIES
 
 #### Status
 ACCEPTED

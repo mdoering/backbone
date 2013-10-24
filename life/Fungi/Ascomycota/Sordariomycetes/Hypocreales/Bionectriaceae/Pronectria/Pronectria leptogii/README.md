@@ -1,5 +1,4 @@
-Pronectria leptogii Etayo SPECIES
-=======
+# Pronectria leptogii Etayo SPECIES
 
 #### Status
 ACCEPTED

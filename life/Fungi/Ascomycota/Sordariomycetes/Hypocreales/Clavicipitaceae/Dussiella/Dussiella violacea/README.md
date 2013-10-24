@@ -1,5 +1,4 @@
-Dussiella violacea Höhn. SPECIES
-=======
+# Dussiella violacea Höhn. SPECIES
 
 #### Status
 ACCEPTED

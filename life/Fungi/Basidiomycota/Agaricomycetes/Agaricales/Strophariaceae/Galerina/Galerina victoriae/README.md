@@ -1,5 +1,4 @@
-Galerina victoriae Singer SPECIES
-=======
+# Galerina victoriae Singer SPECIES
 
 #### Status
 ACCEPTED

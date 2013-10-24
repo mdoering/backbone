@@ -1,5 +1,4 @@
-Baeomyces speciosus (Körb.) Lindau SPECIES
-=======
+# Baeomyces speciosus (Körb.) Lindau SPECIES
 
 #### Status
 ACCEPTED

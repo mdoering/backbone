@@ -1,5 +1,4 @@
-Cortinarius piriodolens Moënne-Locc. SPECIES
-=======
+# Cortinarius piriodolens Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

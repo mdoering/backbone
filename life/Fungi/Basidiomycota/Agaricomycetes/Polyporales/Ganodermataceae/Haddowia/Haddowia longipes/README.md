@@ -1,17 +1,16 @@
-Polyporus costatus Lloyd, 1915 SPECIES
-=======
+# Haddowia longipes (Lév.) Steyaert, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 4 (Letter 54) 9 (1915)
+Persoonia 7(1): 109 (1972)
 
 #### Original name
-Polyporus costatus Lloyd, 1915
+Polyporus longipes Lév., 1846
 
 ### Remarks
 null

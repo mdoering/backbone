@@ -1,5 +1,4 @@
-Mucor polysporus Yosh. Yamam. SPECIES
-=======
+# Mucor polysporus Yosh. Yamam. SPECIES
 
 #### Status
 ACCEPTED

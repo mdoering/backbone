@@ -1,14 +1,13 @@
-Racoblenna garovaglioi A. Massal. SPECIES
-=======
+# Placynthium garovaglioi (A. Massal.) Malme SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Memor. Lichenogr. 134 (1853)
+null
 
 #### Original name
 Racoblenna garovaglioi A. Massal.

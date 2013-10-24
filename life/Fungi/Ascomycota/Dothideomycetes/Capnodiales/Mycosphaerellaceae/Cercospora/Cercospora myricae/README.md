@@ -1,5 +1,4 @@
-Cercospora myricae Tracy & Earle SPECIES
-=======
+# Cercospora myricae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Imbatodinium T.F.Vozzhennikova, 1967 GENUS
-=======
+# Imbatodinium T.F.Vozzhennikova, 1967 GENUS
 
 #### Status
 ACCEPTED

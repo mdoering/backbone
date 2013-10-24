@@ -1,5 +1,4 @@
-Diplodina bolivarii Gonz. Frag. SPECIES
-=======
+# Diplodina bolivarii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

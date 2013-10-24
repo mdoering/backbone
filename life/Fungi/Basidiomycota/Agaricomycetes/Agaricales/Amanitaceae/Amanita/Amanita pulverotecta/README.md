@@ -1,5 +1,4 @@
-Amanita pulverotecta Bas SPECIES
-=======
+# Amanita pulverotecta Bas SPECIES
 
 #### Status
 ACCEPTED

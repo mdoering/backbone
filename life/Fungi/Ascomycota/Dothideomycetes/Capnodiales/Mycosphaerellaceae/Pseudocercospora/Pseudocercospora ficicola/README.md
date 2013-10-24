@@ -1,5 +1,4 @@
-Pseudocercospora ficicola H.S.G. Rao, S. Chandra & Kamal SPECIES
-=======
+# Pseudocercospora ficicola H.S.G. Rao, S. Chandra & Kamal SPECIES
 
 #### Status
 ACCEPTED

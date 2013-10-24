@@ -1,5 +1,4 @@
-Asterella discoidea (Ellis) Sacc. SPECIES
-=======
+# Asterella discoidea (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

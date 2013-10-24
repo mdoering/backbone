@@ -1,5 +1,4 @@
-Phyllosticta ulmariae Thüm. SPECIES
-=======
+# Phyllosticta ulmariae Thüm. SPECIES
 
 #### Status
 ACCEPTED

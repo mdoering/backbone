@@ -1,5 +1,4 @@
-Graphis endochroma (Fée) Spreng. SPECIES
-=======
+# Graphis endochroma (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

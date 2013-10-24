@@ -1,5 +1,4 @@
-Pezizella livida Velen. SPECIES
-=======
+# Pezizella livida Velen. SPECIES
 
 #### Status
 ACCEPTED

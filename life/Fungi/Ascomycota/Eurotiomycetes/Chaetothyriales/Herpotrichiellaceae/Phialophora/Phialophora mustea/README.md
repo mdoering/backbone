@@ -1,5 +1,4 @@
-Phialophora mustea Neerg., 1942 SPECIES
-=======
+# Phialophora mustea Neerg., 1942 SPECIES
 
 #### Status
 ACCEPTED

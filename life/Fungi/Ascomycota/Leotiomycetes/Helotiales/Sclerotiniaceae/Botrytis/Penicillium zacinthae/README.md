@@ -1,5 +1,4 @@
-Penicillium zacinthae C. Ramírez & A.T. Martínez, 1981 SPECIES
-=======
+# Penicillium zacinthae C. Ramírez & A.T. Martínez, 1981 SPECIES
 
 #### Status
 DOUBTFUL

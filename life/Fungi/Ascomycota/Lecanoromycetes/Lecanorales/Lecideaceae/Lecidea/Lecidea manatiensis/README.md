@@ -1,5 +1,4 @@
-Lecidea manatiensis Vain. SPECIES
-=======
+# Lecidea manatiensis Vain. SPECIES
 
 #### Status
 ACCEPTED

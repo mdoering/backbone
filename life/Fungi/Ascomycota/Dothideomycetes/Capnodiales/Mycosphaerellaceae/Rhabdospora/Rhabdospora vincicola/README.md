@@ -1,5 +1,4 @@
-Rhabdospora vincicola Hollós SPECIES
-=======
+# Rhabdospora vincicola Hollós SPECIES
 
 #### Status
 ACCEPTED

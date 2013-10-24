@@ -1,5 +1,4 @@
-Epistigme erodens Bat. & R. Garnier SPECIES
-=======
+# Epistigme erodens Bat. & R. Garnier SPECIES
 
 #### Status
 ACCEPTED

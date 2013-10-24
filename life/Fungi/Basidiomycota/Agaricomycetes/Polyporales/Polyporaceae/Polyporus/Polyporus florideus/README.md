@@ -1,5 +1,4 @@
-Polyporus florideus Berk. SPECIES
-=======
+# Polyporus florideus Berk. SPECIES
 
 #### Status
 ACCEPTED

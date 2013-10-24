@@ -1,5 +1,4 @@
-Adara matutinum Fombella Blanco, 1977 SPECIES
-=======
+# Adara matutinum Fombella Blanco, 1977 SPECIES
 
 #### Status
 ACCEPTED

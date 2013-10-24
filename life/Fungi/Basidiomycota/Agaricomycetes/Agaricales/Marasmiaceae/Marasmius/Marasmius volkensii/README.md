@@ -1,5 +1,4 @@
-Marasmius volkensii Henn. SPECIES
-=======
+# Marasmius volkensii Henn. SPECIES
 
 #### Status
 ACCEPTED

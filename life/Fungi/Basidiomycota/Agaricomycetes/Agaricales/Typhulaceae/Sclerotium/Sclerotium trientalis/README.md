@@ -1,5 +1,4 @@
-Sclerotium trientalis (Fr.) Fr. SPECIES
-=======
+# Sclerotium trientalis (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

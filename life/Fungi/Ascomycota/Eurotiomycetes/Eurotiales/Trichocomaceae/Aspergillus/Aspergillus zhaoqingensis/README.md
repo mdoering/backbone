@@ -1,5 +1,4 @@
-Aspergillus zhaoqingensis Z.T. Qi & Z.M. Sun, 1991 SPECIES
-=======
+# Aspergillus zhaoqingensis Z.T. Qi & Z.M. Sun, 1991 SPECIES
 
 #### Status
 ACCEPTED

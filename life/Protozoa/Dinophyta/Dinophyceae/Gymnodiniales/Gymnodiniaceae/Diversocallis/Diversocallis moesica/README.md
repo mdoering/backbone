@@ -1,5 +1,4 @@
-Diversocallis moesica O. Dragastan & I. Bucur SPECIES
-=======
+# Diversocallis moesica O. Dragastan & I. Bucur SPECIES
 
 #### Status
 ACCEPTED

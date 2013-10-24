@@ -1,5 +1,4 @@
-Bacidia incomptula (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia incomptula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

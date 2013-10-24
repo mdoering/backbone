@@ -1,5 +1,4 @@
-Entophlyctis aurantiaca Scherff. SPECIES
-=======
+# Entophlyctis aurantiaca Scherff. SPECIES
 
 #### Status
 ACCEPTED

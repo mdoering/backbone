@@ -1,17 +1,16 @@
-Clavaria purpurea var. purpurea VARIETY
-=======
+# Alloclavaria purpurea (Fr.) Dentinger & D.J. McLaughlin, 2007 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 480 (1821)
+Mycologia 98(5): 757 (2007)
 
 #### Original name
-Clavaria purpurea var. purpurea
+Clavaria purpurea Fr., 1821
 
 ### Remarks
 null

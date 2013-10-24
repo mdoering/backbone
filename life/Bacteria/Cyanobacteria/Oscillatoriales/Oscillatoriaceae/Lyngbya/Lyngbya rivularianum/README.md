@@ -1,5 +1,4 @@
-Lyngbya rivularianum Gomont SPECIES
-=======
+# Lyngbya rivularianum Gomont SPECIES
 
 #### Status
 ACCEPTED

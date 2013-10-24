@@ -1,5 +1,4 @@
-Archibursa Haeckel, 1881 GENUS
-=======
+# Archibursa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

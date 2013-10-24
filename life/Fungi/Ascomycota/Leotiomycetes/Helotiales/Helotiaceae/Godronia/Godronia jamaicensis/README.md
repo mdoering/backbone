@@ -1,5 +1,4 @@
-Godronia jamaicensis Seaver SPECIES
-=======
+# Godronia jamaicensis Seaver SPECIES
 
 #### Status
 ACCEPTED

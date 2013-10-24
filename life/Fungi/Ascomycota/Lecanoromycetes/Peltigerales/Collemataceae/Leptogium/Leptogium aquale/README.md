@@ -1,17 +1,16 @@
-Leptogium pusillum var. aquale Arnold VARIETY
-=======
+# Leptogium aquale (Arnold) P. M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 26(1): 1 (1994)
 
 #### Original name
-null
+Leptogium pusillum var. aquale Arnold
 
 ### Remarks
 null

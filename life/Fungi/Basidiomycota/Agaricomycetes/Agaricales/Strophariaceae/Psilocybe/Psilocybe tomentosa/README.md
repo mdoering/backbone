@@ -1,5 +1,4 @@
-Psilocybe tomentosa (Murrill) A.H. Sm. SPECIES
-=======
+# Psilocybe tomentosa (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

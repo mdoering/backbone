@@ -1,17 +1,16 @@
-Phialoconidiophora M. Moore & F.P. Almeida GENUS
-=======
+# Rhinocladiella Nannfeldt, 1934 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 23: 548 (1937)
+in Melin & Nannfeldt, Svensk Skogsvårdsförening Tidskr. , Hafte 32(3-4): 461 (1934)
 
 #### Original name
-Phialoconidiophora M. Moore & F.P. Almeida
+Rhinocladiella Nannfeldt, 1934
 
 ### Remarks
 null

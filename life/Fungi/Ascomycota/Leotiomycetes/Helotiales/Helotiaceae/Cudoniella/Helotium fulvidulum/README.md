@@ -1,5 +1,4 @@
-Helotium fulvidulum (Boud.) Sacc. & Traverso SPECIES
-=======
+# Helotium fulvidulum (Boud.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

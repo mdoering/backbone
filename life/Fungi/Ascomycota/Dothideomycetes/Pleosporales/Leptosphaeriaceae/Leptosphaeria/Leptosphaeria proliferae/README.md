@@ -1,5 +1,4 @@
-Leptosphaeria proliferae Feltgen SPECIES
-=======
+# Leptosphaeria proliferae Feltgen SPECIES
 
 #### Status
 ACCEPTED

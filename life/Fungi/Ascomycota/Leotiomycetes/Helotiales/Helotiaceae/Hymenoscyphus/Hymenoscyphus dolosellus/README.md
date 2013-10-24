@@ -1,5 +1,4 @@
-Hymenoscyphus dolosellus (P. Karst.) Kuntze SPECIES
-=======
+# Hymenoscyphus dolosellus (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

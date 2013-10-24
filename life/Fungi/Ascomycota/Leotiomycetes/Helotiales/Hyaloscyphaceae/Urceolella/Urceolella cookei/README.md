@@ -1,5 +1,4 @@
-Urceolella cookei (Pass.) Dennis SPECIES
-=======
+# Urceolella cookei (Pass.) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cohnilembus putrinus SPECIES
-=======
+# Cohnilembus putrinus SPECIES
 
 #### Status
 ACCEPTED

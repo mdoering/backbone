@@ -1,5 +1,4 @@
-Panellus stypticus (Bull. Fr) Karst. SPECIES
-=======
+# Panellus stypticus (Bull. Fr) Karst. SPECIES
 
 #### Status
 ACCEPTED

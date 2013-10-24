@@ -1,14 +1,13 @@
-Dermatea peckiana (Rehm) J.W. Groves, 1937 SPECIES
-=======
+# Dermea peckiana (Rehm) Seaver, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 29(1): 67 (1937)
+North American Cup-fungi (New York), (Inoperculates) 356 (1951)
 
 #### Original name
 Cenangium peckianum Rehm, 1915

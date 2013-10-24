@@ -1,5 +1,4 @@
-Camarosporium laureolae Briosi & Har. SPECIES
-=======
+# Camarosporium laureolae Briosi & Har. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthoepimeritus Hoshide, 1959 GENUS
-=======
+# Acanthoepimeritus Hoshide, 1959 GENUS
 
 #### Status
 ACCEPTED

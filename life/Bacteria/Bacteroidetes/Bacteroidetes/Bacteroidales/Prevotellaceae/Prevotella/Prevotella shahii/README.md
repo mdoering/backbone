@@ -1,5 +1,4 @@
-Prevotella shahii Sakamoto et al., 2004 SPECIES
-=======
+# Prevotella shahii Sakamoto et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma aphyllantis Alcalde SPECIES
-=======
+# Macrophoma aphyllantis Alcalde SPECIES
 
 #### Status
 ACCEPTED

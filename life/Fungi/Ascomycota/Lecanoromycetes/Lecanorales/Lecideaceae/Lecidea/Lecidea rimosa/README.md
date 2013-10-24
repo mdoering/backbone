@@ -1,5 +1,4 @@
-Lecidea rimosa (Dicks.) SPECIES
-=======
+# Lecidea rimosa (Dicks.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ogataea thermomethanolica Limtong, Srisuk, Yongman., Yurim., Nakase & N. Kato ex Limtong, Srisuk, Yongman., Yurim. & Nakase 20 SPECIES
-=======
+# Ogataea thermomethanolica Limtong, Srisuk, Yongman., Yurim., Nakase & N. Kato ex Limtong, Srisuk, Yongman., Yurim. & Nakase 20 SPECIES
 
 #### Status
 ACCEPTED

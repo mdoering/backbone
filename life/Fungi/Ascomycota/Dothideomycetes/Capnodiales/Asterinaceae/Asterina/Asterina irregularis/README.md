@@ -1,5 +1,4 @@
-Asterina irregularis Syd. SPECIES
-=======
+# Asterina irregularis Syd. SPECIES
 
 #### Status
 ACCEPTED

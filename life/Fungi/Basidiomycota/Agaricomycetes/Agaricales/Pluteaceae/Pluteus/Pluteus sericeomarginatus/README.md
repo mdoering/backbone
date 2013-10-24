@@ -1,5 +1,4 @@
-Pluteus sericeomarginatus Beeli SPECIES
-=======
+# Pluteus sericeomarginatus Beeli SPECIES
 
 #### Status
 ACCEPTED

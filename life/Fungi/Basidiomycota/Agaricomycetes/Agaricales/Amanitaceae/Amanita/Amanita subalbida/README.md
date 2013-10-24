@@ -1,5 +1,4 @@
-Amanita subalbida Cleland SPECIES
-=======
+# Amanita subalbida Cleland SPECIES
 
 #### Status
 ACCEPTED

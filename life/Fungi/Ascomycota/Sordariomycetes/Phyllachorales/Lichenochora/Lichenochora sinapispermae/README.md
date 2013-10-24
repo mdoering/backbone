@@ -1,5 +1,4 @@
-Lichenochora sinapispermae Etayo & Nav.-Ros., 2001 SPECIES
-=======
+# Lichenochora sinapispermae Etayo & Nav.-Ros., 2001 SPECIES
 
 #### Status
 ACCEPTED

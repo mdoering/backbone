@@ -1,5 +1,4 @@
-Arcanobacterium hippocoleae Hoyles et al., 2002 SPECIES
-=======
+# Arcanobacterium hippocoleae Hoyles et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

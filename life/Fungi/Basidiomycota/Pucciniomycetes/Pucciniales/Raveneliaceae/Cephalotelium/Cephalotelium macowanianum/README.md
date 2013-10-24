@@ -1,5 +1,4 @@
-Cephalotelium macowanianum (Pazschke) Syd. SPECIES
-=======
+# Cephalotelium macowanianum (Pazschke) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lionotus anaticula Claparède & Lachmann, 1859 SPECIES
-=======
+# Lionotus anaticula Claparède & Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

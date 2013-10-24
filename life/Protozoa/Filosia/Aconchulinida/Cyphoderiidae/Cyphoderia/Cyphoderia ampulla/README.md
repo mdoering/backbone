@@ -1,11 +1,10 @@
-Cyphoderia margaritacea Schlumberger, 1845 SPECIES
-=======
+# Cyphoderia ampulla (Ehrenberg, 1840) Leidy, 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

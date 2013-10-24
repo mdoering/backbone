@@ -1,5 +1,4 @@
-Agaricus concrescens Secr. SPECIES
-=======
+# Agaricus concrescens Secr. SPECIES
 
 #### Status
 ACCEPTED

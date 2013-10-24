@@ -1,5 +1,4 @@
-Leptonia floridana (Murrill) Murrill SPECIES
-=======
+# Leptonia floridana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

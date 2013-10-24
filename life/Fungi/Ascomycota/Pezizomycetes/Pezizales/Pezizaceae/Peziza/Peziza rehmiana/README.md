@@ -1,5 +1,4 @@
-Peziza rehmiana Sacc. SPECIES
-=======
+# Peziza rehmiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

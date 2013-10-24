@@ -1,5 +1,4 @@
-Sphaerella analoga Sacc. & Paol. SPECIES
-=======
+# Sphaerella analoga Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

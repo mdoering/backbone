@@ -1,5 +1,4 @@
-Darluca australis var. australis VARIETY
-=======
+# Darluca australis Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 26(1): 64 (1888)
 
 #### Original name
-Darluca australis var. australis
+Darluca australis Speg.
 
 ### Remarks
 null

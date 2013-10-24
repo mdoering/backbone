@@ -1,5 +1,4 @@
-Horocontus Deroux, 1976 GENUS
-=======
+# Horocontus Deroux, 1976 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Yersinia mollaretii Wauters et al., 1988 SPECIES
-=======
+# Yersinia mollaretii Wauters et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

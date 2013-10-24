@@ -1,5 +1,4 @@
-Lecidella aurata Knoph & Leuckert SPECIES
-=======
+# Lecidella aurata Knoph & Leuckert SPECIES
 
 #### Status
 ACCEPTED

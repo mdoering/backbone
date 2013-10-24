@@ -1,5 +1,4 @@
-Pleospora macrospora (De Not.) Ces. & De Not., 1863 SPECIES
-=======
+# Pleospora macrospora (De Not.) Ces. & De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED

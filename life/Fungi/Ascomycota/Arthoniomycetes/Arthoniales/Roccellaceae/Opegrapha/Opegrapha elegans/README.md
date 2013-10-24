@@ -1,5 +1,4 @@
-Opegrapha elegans Müll. Arg. SPECIES
-=======
+# Opegrapha elegans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

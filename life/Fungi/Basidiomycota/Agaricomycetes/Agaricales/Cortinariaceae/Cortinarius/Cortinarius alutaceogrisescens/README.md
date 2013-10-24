@@ -1,5 +1,4 @@
-Cortinarius alutaceogrisescens Bidaud SPECIES
-=======
+# Cortinarius alutaceogrisescens Bidaud SPECIES
 
 #### Status
 ACCEPTED

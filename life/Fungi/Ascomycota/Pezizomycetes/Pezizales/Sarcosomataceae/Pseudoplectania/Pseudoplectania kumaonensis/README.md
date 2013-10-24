@@ -1,5 +1,4 @@
-Pseudoplectania kumaonensis Sanwal SPECIES
-=======
+# Pseudoplectania kumaonensis Sanwal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmidium haesitans (Nyl.) Hafellner SPECIES
-=======
+# Stigmidium haesitans (Nyl.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

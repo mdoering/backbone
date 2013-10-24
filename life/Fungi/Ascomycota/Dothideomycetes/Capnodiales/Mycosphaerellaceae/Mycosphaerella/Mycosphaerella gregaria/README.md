@@ -1,5 +1,4 @@
-Mycosphaerella gregaria Carnegie & Keane, 1997 SPECIES
-=======
+# Mycosphaerella gregaria Carnegie & Keane, 1997 SPECIES
 
 #### Status
 ACCEPTED

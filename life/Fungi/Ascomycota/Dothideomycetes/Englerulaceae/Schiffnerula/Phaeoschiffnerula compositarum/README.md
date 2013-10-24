@@ -1,5 +1,4 @@
-Phaeoschiffnerula compositarum Theiss. SPECIES
-=======
+# Phaeoschiffnerula compositarum Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caedobacter GENUS
-=======
+# Caedobacter GENUS
 
 #### Status
 ACCEPTED

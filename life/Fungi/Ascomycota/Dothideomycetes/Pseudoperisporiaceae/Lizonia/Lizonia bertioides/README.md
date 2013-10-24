@@ -1,5 +1,4 @@
-Lizonia bertioides Sacc. & Berl. SPECIES
-=======
+# Lizonia bertioides Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spilomyces swartziae Bat. SPECIES
-=======
+# Spilomyces swartziae Bat. SPECIES
 
 #### Status
 ACCEPTED

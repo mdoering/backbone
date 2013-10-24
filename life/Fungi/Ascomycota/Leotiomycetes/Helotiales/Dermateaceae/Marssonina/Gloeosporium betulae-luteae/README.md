@@ -1,5 +1,4 @@
-Gloeosporium betulae-luteae Sacc. & Dearn. SPECIES
-=======
+# Gloeosporium betulae-luteae Sacc. & Dearn. SPECIES
 
 #### Status
 ACCEPTED

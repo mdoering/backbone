@@ -1,5 +1,4 @@
-Lecanactis emersa (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanactis emersa (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

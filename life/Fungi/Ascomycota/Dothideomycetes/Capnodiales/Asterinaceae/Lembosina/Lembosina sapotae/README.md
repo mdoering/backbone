@@ -1,5 +1,4 @@
-Lembosina sapotae (R.W. Ryan) Arx SPECIES
-=======
+# Lembosina sapotae (R.W. Ryan) Arx SPECIES
 
 #### Status
 ACCEPTED

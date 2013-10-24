@@ -1,5 +1,4 @@
-Marasmius salicigena anon. SPECIES
-=======
+# Marasmius salicigena anon. SPECIES
 
 #### Status
 ACCEPTED

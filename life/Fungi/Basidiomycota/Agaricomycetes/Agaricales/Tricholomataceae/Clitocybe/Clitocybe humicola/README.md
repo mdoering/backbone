@@ -1,5 +1,4 @@
-Clitocybe humicola Velen. SPECIES
-=======
+# Clitocybe humicola Velen. SPECIES
 
 #### Status
 ACCEPTED

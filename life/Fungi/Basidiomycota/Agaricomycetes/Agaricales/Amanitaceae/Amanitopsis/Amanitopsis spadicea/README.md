@@ -1,5 +1,4 @@
-Amanitopsis spadicea Pers. SPECIES
-=======
+# Amanitopsis spadicea Pers. SPECIES
 
 #### Status
 ACCEPTED

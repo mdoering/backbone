@@ -1,5 +1,4 @@
-Arcyria margino-undulata Nann.-Brem. & Y. Yamam. SPECIES
-=======
+# Arcyria margino-undulata Nann.-Brem. & Y. Yamam. SPECIES
 
 #### Status
 ACCEPTED

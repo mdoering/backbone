@@ -1,5 +1,4 @@
-Thecaphora lathyri J.G. Kühn, 1873 SPECIES
-=======
+# Thecaphora lathyri J.G. Kühn, 1873 SPECIES
 
 #### Status
 ACCEPTED

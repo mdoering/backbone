@@ -1,5 +1,4 @@
-Maireella tarrietiae Hansf. SPECIES
-=======
+# Maireella tarrietiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

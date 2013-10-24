@@ -1,14 +1,13 @@
-Botrytis arborescens Berk., 1846 SPECIES
-=======
+# Peronospora arborescens (Berk.) de Bary, 1855 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. hort. Soc. , London 1: 9-34 (1846)
+Monatsber. Königl. Preuss. Akad. Wiss. Berlin 308-333 (1855)
 
 #### Original name
 Botrytis arborescens Berk., 1846

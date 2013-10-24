@@ -1,5 +1,4 @@
-Phyllopsora mediocris Swinscow & Krog SPECIES
-=======
+# Phyllopsora mediocris Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

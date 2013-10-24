@@ -1,5 +1,4 @@
-Lobaria hookeri (C. Bab.) Trevis. SPECIES
-=======
+# Lobaria hookeri (C. Bab.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

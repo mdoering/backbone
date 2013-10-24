@@ -1,5 +1,4 @@
-Epicoccum humicola (R.E. Buchanan) Sacc. SPECIES
-=======
+# Epicoccum humicola (R.E. Buchanan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

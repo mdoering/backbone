@@ -1,5 +1,4 @@
-Isthmiella Darker, 1967 GENUS
-=======
+# Isthmiella Darker, 1967 GENUS
 
 #### Status
 ACCEPTED

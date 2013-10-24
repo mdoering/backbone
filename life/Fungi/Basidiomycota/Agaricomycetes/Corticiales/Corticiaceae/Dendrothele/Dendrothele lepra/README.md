@@ -1,14 +1,13 @@
-Corticium lepra (Berk. & Broome) Massee, 1890 SPECIES
-=======
+# Dendrothele lepra (Berk. & Broome) P.A. Lemke, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 27: 130 (1890)
+Persoonia 3(3): 366 (1965)
 
 #### Original name
 Stereum lepra Berk. & Broome, 1875

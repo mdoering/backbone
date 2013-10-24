@@ -1,5 +1,4 @@
-Setigeroclavula R.H. Petersen GENUS
-=======
+# Setigeroclavula R.H. Petersen GENUS
 
 #### Status
 ACCEPTED

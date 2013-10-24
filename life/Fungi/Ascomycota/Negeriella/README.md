@@ -1,5 +1,4 @@
-Negeriella Henn. GENUS
-=======
+# Negeriella Henn. GENUS
 
 #### Status
 ACCEPTED

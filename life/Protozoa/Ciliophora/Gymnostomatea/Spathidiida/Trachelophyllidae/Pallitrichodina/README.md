@@ -1,5 +1,4 @@
-Pallitrichodina van As & Basson, 1993 GENUS
-=======
+# Pallitrichodina van As & Basson, 1993 GENUS
 
 #### Status
 ACCEPTED

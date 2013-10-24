@@ -1,5 +1,4 @@
-Protousnea duesenii SPECIES
-=======
+# Protousnea duesenii SPECIES
 
 #### Status
 ACCEPTED

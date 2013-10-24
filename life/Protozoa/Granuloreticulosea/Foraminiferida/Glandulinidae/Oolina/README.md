@@ -1,14 +1,13 @@
-Ovulina Ehrenberg, 1845 GENUS
-=======
+# Oolina d'Orbigny, 1839 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-MonatsBer. Akad. Wiss. Berlin, 1845, 358.
+Arch. Naturgesch. , 7 (1), 416.
 
 #### Original name
 null

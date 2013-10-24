@@ -1,5 +1,4 @@
-Sorosporium ischaemi L. Ling SPECIES
-=======
+# Sorosporium ischaemi L. Ling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhopalodictyum Ehrenberg, 1860 GENUS
-=======
+# Rhopalodictyum Ehrenberg, 1860 GENUS
 
 #### Status
 ACCEPTED

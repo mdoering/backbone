@@ -1,5 +1,4 @@
-Cenangium lignicola Preuss SPECIES
-=======
+# Cenangium lignicola Preuss SPECIES
 
 #### Status
 ACCEPTED

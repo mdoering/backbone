@@ -1,5 +1,4 @@
-Domasia C. Downie, 1960 GENUS
-=======
+# Domasia C. Downie, 1960 GENUS
 
 #### Status
 ACCEPTED

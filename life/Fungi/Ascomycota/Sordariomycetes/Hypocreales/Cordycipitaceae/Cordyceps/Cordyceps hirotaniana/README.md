@@ -1,5 +1,4 @@
-Cordyceps hirotaniana Kobayasi SPECIES
-=======
+# Cordyceps hirotaniana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

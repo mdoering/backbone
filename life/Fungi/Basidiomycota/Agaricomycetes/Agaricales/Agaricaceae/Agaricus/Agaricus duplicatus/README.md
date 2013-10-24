@@ -1,5 +1,4 @@
-Agaricus duplicatus Berk. SPECIES
-=======
+# Agaricus duplicatus Berk. SPECIES
 
 #### Status
 ACCEPTED

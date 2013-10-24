@@ -1,14 +1,13 @@
-Agaricus violaceofuscus Cooke & Massee, 1890 SPECIES
-=======
+# Cortinarius violaceofuscus (Cooke & Massee) Massee, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 18(no. 87): 52 (1890)
+Ann. Bot. , Lond. 18: 501 (1904)
 
 #### Original name
 Agaricus violaceofuscus Cooke & Massee, 1890

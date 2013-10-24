@@ -1,5 +1,4 @@
-Cosmospora triqua (Samuels) Rossman & Samuels SPECIES
-=======
+# Cosmospora triqua (Samuels) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

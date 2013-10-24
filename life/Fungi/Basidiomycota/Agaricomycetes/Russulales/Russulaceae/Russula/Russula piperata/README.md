@@ -1,5 +1,4 @@
-Russula piperata Velen. SPECIES
-=======
+# Russula piperata Velen. SPECIES
 
 #### Status
 ACCEPTED

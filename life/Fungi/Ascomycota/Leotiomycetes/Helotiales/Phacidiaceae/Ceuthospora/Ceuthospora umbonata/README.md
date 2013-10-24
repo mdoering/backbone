@@ -1,5 +1,4 @@
-Ceuthospora umbonata Wallr. SPECIES
-=======
+# Ceuthospora umbonata Wallr. SPECIES
 
 #### Status
 ACCEPTED

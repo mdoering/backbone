@@ -1,5 +1,4 @@
-Ophionectria balladynae Hansf. SPECIES
-=======
+# Ophionectria balladynae Hansf. SPECIES
 
 #### Status
 ACCEPTED

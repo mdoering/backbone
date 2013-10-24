@@ -1,5 +1,4 @@
-Acarospora radicata H. Magn. SPECIES
-=======
+# Acarospora radicata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

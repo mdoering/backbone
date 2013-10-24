@@ -1,5 +1,4 @@
-Cortinarius paludinellus Moënne-Locc. SPECIES
-=======
+# Cortinarius paludinellus Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

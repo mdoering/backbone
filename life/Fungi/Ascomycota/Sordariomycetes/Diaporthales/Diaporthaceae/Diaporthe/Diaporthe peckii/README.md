@@ -1,5 +1,4 @@
-Diaporthe peckii Sacc. SPECIES
-=======
+# Diaporthe peckii Sacc. SPECIES
 
 #### Status
 ACCEPTED

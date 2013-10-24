@@ -1,5 +1,4 @@
-Sporoglena velutina Sacc., 1894 SPECIES
-=======
+# Sporoglena velutina Sacc., 1894 SPECIES
 
 #### Status
 ACCEPTED

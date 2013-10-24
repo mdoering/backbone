@@ -1,5 +1,4 @@
-Leptosphaeria major (Rehm) M.L. Farr & Horner SPECIES
-=======
+# Leptosphaeria major (Rehm) M.L. Farr & Horner SPECIES
 
 #### Status
 ACCEPTED

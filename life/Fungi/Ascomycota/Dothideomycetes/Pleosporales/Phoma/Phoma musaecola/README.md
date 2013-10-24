@@ -1,5 +1,4 @@
-Phoma musaecola Tassi SPECIES
-=======
+# Phoma musaecola Tassi SPECIES
 
 #### Status
 ACCEPTED

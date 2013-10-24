@@ -1,5 +1,4 @@
-Phyllachora sycomori (Bacc.) E. Castell. & Cif., 1937 SPECIES
-=======
+# Phyllachora sycomori (Bacc.) E. Castell. & Cif., 1937 SPECIES
 
 #### Status
 DOUBTFUL

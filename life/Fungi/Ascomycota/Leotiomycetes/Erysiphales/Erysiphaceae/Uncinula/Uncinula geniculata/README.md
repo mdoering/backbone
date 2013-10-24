@@ -1,5 +1,4 @@
-Uncinula geniculata W.R. Gerard SPECIES
-=======
+# Uncinula geniculata W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

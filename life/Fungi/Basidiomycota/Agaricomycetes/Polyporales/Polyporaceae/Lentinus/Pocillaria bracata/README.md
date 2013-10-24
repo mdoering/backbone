@@ -1,14 +1,13 @@
-Pocillaria braccata (Lév.) Kuntze SPECIES
-=======
+# Pocillaria bracata (Lév.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 2: (1891)
 
 #### Original name
 Lentinus bracatus Lév.

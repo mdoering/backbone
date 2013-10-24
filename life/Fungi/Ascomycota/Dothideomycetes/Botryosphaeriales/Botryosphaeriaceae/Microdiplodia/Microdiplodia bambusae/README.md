@@ -1,5 +1,4 @@
-Microdiplodia bambusae (Ellis & Langl.) Sacc. SPECIES
-=======
+# Microdiplodia bambusae (Ellis & Langl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

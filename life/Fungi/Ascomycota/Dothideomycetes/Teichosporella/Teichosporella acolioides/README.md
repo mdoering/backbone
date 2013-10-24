@@ -1,5 +1,4 @@
-Teichosporella acolioides Rehm SPECIES
-=======
+# Teichosporella acolioides Rehm SPECIES
 
 #### Status
 ACCEPTED

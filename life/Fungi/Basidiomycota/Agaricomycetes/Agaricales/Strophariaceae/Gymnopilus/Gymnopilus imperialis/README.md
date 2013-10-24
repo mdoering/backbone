@@ -1,5 +1,4 @@
-Gymnopilus imperialis (Speg.) Singer SPECIES
-=======
+# Gymnopilus imperialis (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

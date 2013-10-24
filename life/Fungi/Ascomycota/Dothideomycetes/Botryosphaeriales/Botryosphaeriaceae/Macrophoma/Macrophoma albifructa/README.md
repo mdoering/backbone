@@ -1,17 +1,16 @@
-Macrophoma albifructua (Peck) Berl. & Voglino SPECIES
-=======
+# Macrophoma albifructa (Peck) Berl. & Voglino SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Soc. Veneto-Trent. Sci. Nat. 10(1): 188 (1886)
 
 #### Original name
-Phoma albifructua Peck
+Phoma albifructa Peck
 
 ### Remarks
 null

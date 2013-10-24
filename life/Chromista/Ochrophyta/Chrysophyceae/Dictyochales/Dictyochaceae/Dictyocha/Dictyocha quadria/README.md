@@ -1,5 +1,4 @@
-Dictyocha quadria (Y. J. Mandra) E. Martini & C. Müller SPECIES
-=======
+# Dictyocha quadria (Y. J. Mandra) E. Martini & C. Müller SPECIES
 
 #### Status
 ACCEPTED

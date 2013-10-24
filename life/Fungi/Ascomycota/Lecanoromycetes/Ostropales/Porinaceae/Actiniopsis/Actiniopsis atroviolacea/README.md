@@ -1,5 +1,4 @@
-Actiniopsis atroviolacea Henn. SPECIES
-=======
+# Actiniopsis atroviolacea Henn. SPECIES
 
 #### Status
 ACCEPTED

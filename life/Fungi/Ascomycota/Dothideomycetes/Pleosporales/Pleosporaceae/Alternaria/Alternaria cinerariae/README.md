@@ -1,5 +1,4 @@
-Alternaria cinerariae Hori & Enjoji, 1931 SPECIES
-=======
+# Alternaria cinerariae Hori & Enjoji, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula schaefferi Kärcher SPECIES
-=======
+# Russula schaefferi Kärcher SPECIES
 
 #### Status
 ACCEPTED

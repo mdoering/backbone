@@ -1,5 +1,4 @@
-Yamadazyma akitaensis (K. Kodama) Kurtzman & M. Suzuki, 2009 SPECIES
-=======
+# Yamadazyma akitaensis (K. Kodama) Kurtzman & M. Suzuki, 2009 SPECIES
 
 #### Status
 ACCEPTED

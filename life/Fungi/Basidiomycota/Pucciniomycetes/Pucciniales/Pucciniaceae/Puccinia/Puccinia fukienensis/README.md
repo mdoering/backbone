@@ -1,5 +1,4 @@
-Puccinia fukienensis Y.C. Wang & J.Y. Zhuang SPECIES
-=======
+# Puccinia fukienensis Y.C. Wang & J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

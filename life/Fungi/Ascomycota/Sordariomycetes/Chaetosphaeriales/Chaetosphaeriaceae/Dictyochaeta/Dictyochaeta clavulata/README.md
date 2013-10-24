@@ -1,5 +1,4 @@
-Dictyochaeta clavulata (Hol.-Jech.) Hol.-Jech. SPECIES
-=======
+# Dictyochaeta clavulata (Hol.-Jech.) Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

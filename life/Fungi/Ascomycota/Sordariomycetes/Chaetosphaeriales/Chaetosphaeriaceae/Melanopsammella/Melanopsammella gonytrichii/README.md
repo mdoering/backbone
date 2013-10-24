@@ -1,5 +1,4 @@
-Melanopsammella gonytrichii F.A. Fernández & Huhndorf SPECIES
-=======
+# Melanopsammella gonytrichii F.A. Fernández & Huhndorf SPECIES
 
 #### Status
 ACCEPTED

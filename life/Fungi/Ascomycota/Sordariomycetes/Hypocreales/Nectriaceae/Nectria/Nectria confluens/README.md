@@ -1,5 +1,4 @@
-Nectria confluens Seaver SPECIES
-=======
+# Nectria confluens Seaver SPECIES
 
 #### Status
 ACCEPTED

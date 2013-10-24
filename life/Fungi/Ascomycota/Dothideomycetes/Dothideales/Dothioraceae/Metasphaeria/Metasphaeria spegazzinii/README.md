@@ -1,5 +1,4 @@
-Metasphaeria spegazzinii Sacc. & Trotter SPECIES
-=======
+# Metasphaeria spegazzinii Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

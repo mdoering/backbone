@@ -1,8 +1,7 @@
-Nemacystus erythraeus var. hispanicus Sauvageau VARIETY
-=======
+# Nemacystus hispanicus (Sauvageau) Kylin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

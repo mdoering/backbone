@@ -1,5 +1,4 @@
-Phoma lentiscina Maire SPECIES
-=======
+# Phoma lentiscina Maire SPECIES
 
 #### Status
 ACCEPTED

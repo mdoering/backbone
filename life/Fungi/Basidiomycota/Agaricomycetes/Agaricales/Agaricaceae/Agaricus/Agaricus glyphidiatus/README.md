@@ -1,5 +1,4 @@
-Agaricus glyphidiatus Berk. & Broome SPECIES
-=======
+# Agaricus glyphidiatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

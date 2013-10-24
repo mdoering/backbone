@@ -1,5 +1,4 @@
-Thecadinium striatum Yoshimatsu, Toriumi & Dodge SPECIES
-=======
+# Thecadinium striatum Yoshimatsu, Toriumi & Dodge SPECIES
 
 #### Status
 ACCEPTED

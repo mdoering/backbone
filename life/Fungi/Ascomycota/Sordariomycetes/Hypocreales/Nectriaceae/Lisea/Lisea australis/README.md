@@ -1,5 +1,4 @@
-Lisea australis Speg. SPECIES
-=======
+# Lisea australis Speg. SPECIES
 
 #### Status
 ACCEPTED

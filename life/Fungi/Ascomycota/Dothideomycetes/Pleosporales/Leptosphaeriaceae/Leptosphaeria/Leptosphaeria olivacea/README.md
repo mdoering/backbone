@@ -1,5 +1,4 @@
-Leptosphaeria olivacea Ellis SPECIES
-=======
+# Leptosphaeria olivacea Ellis SPECIES
 
 #### Status
 ACCEPTED

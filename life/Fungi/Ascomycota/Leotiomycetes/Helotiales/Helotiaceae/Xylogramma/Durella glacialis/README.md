@@ -1,5 +1,4 @@
-Durella glacialis Rehm SPECIES
-=======
+# Durella glacialis Rehm SPECIES
 
 #### Status
 ACCEPTED

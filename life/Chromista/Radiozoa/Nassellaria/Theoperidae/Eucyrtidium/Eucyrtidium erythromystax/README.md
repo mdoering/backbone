@@ -1,5 +1,4 @@
-Eucyrtidium erythromystax Nigrini & Caulet, 1992 SPECIES
-=======
+# Eucyrtidium erythromystax Nigrini & Caulet, 1992 SPECIES
 
 #### Status
 ACCEPTED

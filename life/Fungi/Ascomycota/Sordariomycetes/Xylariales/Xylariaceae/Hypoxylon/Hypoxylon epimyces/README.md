@@ -1,5 +1,4 @@
-Hypoxylon epimyces Speg. SPECIES
-=======
+# Hypoxylon epimyces Speg. SPECIES
 
 #### Status
 ACCEPTED

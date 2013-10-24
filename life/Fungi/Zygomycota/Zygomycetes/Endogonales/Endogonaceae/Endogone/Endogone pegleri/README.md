@@ -1,5 +1,4 @@
-Endogone pegleri Y.J. Yao SPECIES
-=======
+# Endogone pegleri Y.J. Yao SPECIES
 
 #### Status
 ACCEPTED

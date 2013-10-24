@@ -1,17 +1,16 @@
-Levispora Routien GENUS
-=======
+# Pseudeurotium J.F.H. Beyma GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 49: 189 (1957)
+Zentbl. Bakt. ParasitKde, Abt. II 96(20-23): 415 (1937)
 
 #### Original name
-Levispora Routien
+Pseudeurotium J.F.H. Beyma
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Kermincola ulc GENUS
-=======
+# Kermincola ulc GENUS
 
 #### Status
 ACCEPTED

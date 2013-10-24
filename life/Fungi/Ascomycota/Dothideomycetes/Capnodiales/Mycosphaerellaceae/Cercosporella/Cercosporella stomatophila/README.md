@@ -1,5 +1,4 @@
-Cercosporella stomatophila Speg. SPECIES
-=======
+# Cercosporella stomatophila Speg. SPECIES
 
 #### Status
 ACCEPTED

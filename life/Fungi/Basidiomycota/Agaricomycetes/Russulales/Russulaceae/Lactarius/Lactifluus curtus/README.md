@@ -1,5 +1,4 @@
-Lactifluus curtus (Britzelm.) Kuntze SPECIES
-=======
+# Lactifluus curtus (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

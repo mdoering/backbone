@@ -1,5 +1,4 @@
-Physalospora piperis Gutner SPECIES
-=======
+# Physalospora piperis Gutner SPECIES
 
 #### Status
 ACCEPTED

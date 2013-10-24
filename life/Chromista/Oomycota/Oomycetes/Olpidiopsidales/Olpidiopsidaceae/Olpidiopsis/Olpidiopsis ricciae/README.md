@@ -1,5 +1,4 @@
-Olpidiopsis ricciae du Plessis SPECIES
-=======
+# Olpidiopsis ricciae du Plessis SPECIES
 
 #### Status
 ACCEPTED

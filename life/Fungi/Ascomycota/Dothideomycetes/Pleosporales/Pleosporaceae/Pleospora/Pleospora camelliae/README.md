@@ -1,5 +1,4 @@
-Pleospora camelliae Dippen. SPECIES
-=======
+# Pleospora camelliae Dippen. SPECIES
 
 #### Status
 ACCEPTED

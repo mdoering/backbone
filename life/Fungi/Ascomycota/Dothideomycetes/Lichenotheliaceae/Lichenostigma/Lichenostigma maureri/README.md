@@ -1,5 +1,4 @@
-Lichenostigma maureri Hafellner SPECIES
-=======
+# Lichenostigma maureri Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyscyphus eburneus (Kirschst.) Dennis SPECIES
-=======
+# Dasyscyphus eburneus (Kirschst.) Dennis SPECIES
 
 #### Status
 ACCEPTED

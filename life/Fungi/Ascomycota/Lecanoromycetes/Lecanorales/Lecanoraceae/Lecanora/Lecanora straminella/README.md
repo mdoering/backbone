@@ -1,5 +1,4 @@
-Lecanora straminella f. lithophila Bagl. FORM
-=======
+# Lecanora straminella Bagl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora straminella f. lithophila Bagl.
+Lecanora straminella Bagl.
 
 ### Remarks
 null

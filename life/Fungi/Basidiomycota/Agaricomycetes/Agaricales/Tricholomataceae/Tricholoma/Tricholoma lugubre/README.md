@@ -1,5 +1,4 @@
-Tricholoma lugubre Peck SPECIES
-=======
+# Tricholoma lugubre Peck SPECIES
 
 #### Status
 ACCEPTED

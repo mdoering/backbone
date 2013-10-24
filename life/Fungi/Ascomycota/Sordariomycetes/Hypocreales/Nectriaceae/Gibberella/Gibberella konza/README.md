@@ -1,5 +1,4 @@
-Gibberella konza Zeller, Summerell & J.F. Leslie SPECIES
-=======
+# Gibberella konza Zeller, Summerell & J.F. Leslie SPECIES
 
 #### Status
 ACCEPTED

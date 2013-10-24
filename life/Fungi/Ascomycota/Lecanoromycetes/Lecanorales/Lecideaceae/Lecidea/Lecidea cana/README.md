@@ -1,5 +1,4 @@
-Lecidea cana Clemente SPECIES
-=======
+# Lecidea cana Clemente SPECIES
 
 #### Status
 ACCEPTED

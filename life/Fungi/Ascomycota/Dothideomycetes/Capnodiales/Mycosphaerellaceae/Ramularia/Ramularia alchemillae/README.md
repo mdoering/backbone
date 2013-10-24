@@ -1,5 +1,4 @@
-Ramularia alchemillae Voglino SPECIES
-=======
+# Ramularia alchemillae Voglino SPECIES
 
 #### Status
 ACCEPTED

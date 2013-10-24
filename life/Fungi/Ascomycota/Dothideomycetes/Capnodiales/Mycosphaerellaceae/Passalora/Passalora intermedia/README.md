@@ -1,5 +1,4 @@
-Passalora intermedia Crous & M.J. Wingf. SPECIES
-=======
+# Passalora intermedia Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

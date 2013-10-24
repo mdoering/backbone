@@ -1,5 +1,4 @@
-Parmelia pseudomarinariza D.D. Awasthi SPECIES
-=======
+# Parmelia pseudomarinariza D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

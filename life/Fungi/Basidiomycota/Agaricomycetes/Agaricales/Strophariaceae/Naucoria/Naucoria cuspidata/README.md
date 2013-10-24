@@ -1,5 +1,4 @@
-Naucoria cuspidata Bres. SPECIES
-=======
+# Naucoria cuspidata Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria lacrymans Southw. SPECIES
-=======
+# Poria lacrymans Southw. SPECIES
 
 #### Status
 ACCEPTED

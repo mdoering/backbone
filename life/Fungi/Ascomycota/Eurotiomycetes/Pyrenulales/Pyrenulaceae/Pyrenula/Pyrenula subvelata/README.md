@@ -1,5 +1,4 @@
-Pyrenula subvelata Müll. Arg. SPECIES
-=======
+# Pyrenula subvelata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

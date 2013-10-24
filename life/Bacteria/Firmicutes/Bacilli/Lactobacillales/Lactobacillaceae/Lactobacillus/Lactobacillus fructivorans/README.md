@@ -1,5 +1,4 @@
-Lactobacillus fructivorans Charlton et al., 1934 (Approved Lists, 1980) SPECIES
-=======
+# Lactobacillus fructivorans Charlton et al., 1934 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

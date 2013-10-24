@@ -1,5 +1,4 @@
-Gromia paludosa Cienkowski, 1876 SPECIES
-=======
+# Gromia paludosa Cienkowski, 1876 SPECIES
 
 #### Status
 ACCEPTED

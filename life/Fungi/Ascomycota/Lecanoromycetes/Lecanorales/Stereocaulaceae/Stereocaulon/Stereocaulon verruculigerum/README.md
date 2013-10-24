@@ -1,5 +1,4 @@
-Stereocaulon verruculigerum var. verruculigerum VARIETY
-=======
+# Stereocaulon verruculigerum Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Hattori bot. Lab. 43: 267 (1977)
 
 #### Original name
-Stereocaulon verruculigerum var. verruculigerum
+Stereocaulon verruculigerum Hue
 
 ### Remarks
 null

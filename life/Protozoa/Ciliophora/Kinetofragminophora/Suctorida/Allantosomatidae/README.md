@@ -1,5 +1,4 @@
-Allantosomatidae FAMILY
-=======
+# Allantosomatidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodiplodia hilata Bianchin. SPECIES
-=======
+# Placodiplodia hilata Bianchin. SPECIES
 
 #### Status
 ACCEPTED

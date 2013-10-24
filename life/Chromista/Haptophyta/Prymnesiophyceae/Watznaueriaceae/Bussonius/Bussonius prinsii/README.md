@@ -1,5 +1,4 @@
-Bussonius prinsii SPECIES
-=======
+# Bussonius prinsii SPECIES
 
 #### Status
 ACCEPTED

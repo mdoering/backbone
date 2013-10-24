@@ -1,5 +1,4 @@
-Phomopsis tanakae Ts. Kobay. & Sakuma SPECIES
-=======
+# Phomopsis tanakae Ts. Kobay. & Sakuma SPECIES
 
 #### Status
 ACCEPTED

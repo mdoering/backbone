@@ -1,5 +1,4 @@
-Diaporthe medusina (Fr.) Sacc. SPECIES
-=======
+# Diaporthe medusina (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

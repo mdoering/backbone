@@ -1,5 +1,4 @@
-Bacidia spadicea (Ach.) Zahlbr. SPECIES
-=======
+# Bacidia spadicea (Ach.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

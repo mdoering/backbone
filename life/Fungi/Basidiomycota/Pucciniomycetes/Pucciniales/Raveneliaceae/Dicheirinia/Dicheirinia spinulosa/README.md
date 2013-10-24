@@ -1,14 +1,13 @@
-Diorchidium spinulosum J.W. Baxter, 1964 SPECIES
-=======
+# Dicheirinia spinulosa (J.W. Baxter) J.F. Hennen & Cummins, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rep. Tottori Mycol. Inst. 10: 170 (1973)
 
 #### Original name
 Diorchidium spinulosum J.W. Baxter, 1964

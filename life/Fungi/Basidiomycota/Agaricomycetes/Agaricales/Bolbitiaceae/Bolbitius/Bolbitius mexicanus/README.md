@@ -1,5 +1,4 @@
-Bolbitius mexicanus (Murrill) Murrill, 1912 SPECIES
-=======
+# Bolbitius mexicanus (Murrill) Murrill, 1912 SPECIES
 
 #### Status
 ACCEPTED

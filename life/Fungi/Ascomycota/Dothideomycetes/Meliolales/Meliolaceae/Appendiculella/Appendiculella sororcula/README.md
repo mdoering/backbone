@@ -1,5 +1,4 @@
-Appendiculella sororcula var. sororcula VARIETY
-=======
+# Appendiculella sororcula (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Sydowia 2: 615 (1961)
 
 #### Original name
-Appendiculella sororcula var. sororcula
+Meliola sororcula Speg.
 
 ### Remarks
 null

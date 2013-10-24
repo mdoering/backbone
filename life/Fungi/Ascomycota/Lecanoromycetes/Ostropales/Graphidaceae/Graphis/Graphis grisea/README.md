@@ -1,5 +1,4 @@
-Graphis grisea Nyl. SPECIES
-=======
+# Graphis grisea Nyl. SPECIES
 
 #### Status
 ACCEPTED

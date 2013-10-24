@@ -1,5 +1,4 @@
-Lophiotrema cookei (Nitschke) Berl. & Voglino SPECIES
-=======
+# Lophiotrema cookei (Nitschke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

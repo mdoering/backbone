@@ -1,5 +1,4 @@
-Azymomyces GENUS
-=======
+# Azymomyces GENUS
 
 #### Status
 ACCEPTED

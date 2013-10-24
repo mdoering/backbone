@@ -1,5 +1,4 @@
-Phaeosphaeria inclusa Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria inclusa Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alaria flagellaris Strömfelt SPECIES
-=======
+# Alaria flagellaris Strömfelt SPECIES
 
 #### Status
 ACCEPTED

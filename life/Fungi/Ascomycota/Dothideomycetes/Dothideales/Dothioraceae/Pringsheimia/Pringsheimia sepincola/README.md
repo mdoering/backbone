@@ -1,17 +1,16 @@
-Pleosphaerulina sepincola var. sepincola VARIETY
-=======
+# Pringsheimia sepincola (Fr.) Höhn., 1920 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 18(1/3): 97 (1920)
 
 #### Original name
-Pleosphaerulina sepincola var. sepincola
+Sphaeria sepincola Berk. & Broome, 1852
 
 ### Remarks
 null

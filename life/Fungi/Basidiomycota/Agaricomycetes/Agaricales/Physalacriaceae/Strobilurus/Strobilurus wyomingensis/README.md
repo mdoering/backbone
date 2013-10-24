@@ -1,5 +1,4 @@
-Strobilurus wyomingensis (A.H. Sm. & Arenb.) V.L. Wells & Kempton SPECIES
-=======
+# Strobilurus wyomingensis (A.H. Sm. & Arenb.) V.L. Wells & Kempton SPECIES
 
 #### Status
 ACCEPTED

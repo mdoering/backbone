@@ -1,5 +1,4 @@
-Ramularia helianthi Ellis & Everh. SPECIES
-=======
+# Ramularia helianthi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthothelium chiodectoides (Nyl.) Zahlbr. SPECIES
-=======
+# Arthothelium chiodectoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

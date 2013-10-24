@@ -1,5 +1,4 @@
-Verrucaria trabalis Nyl. SPECIES
-=======
+# Verrucaria trabalis Nyl. SPECIES
 
 #### Status
 ACCEPTED

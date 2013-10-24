@@ -1,5 +1,4 @@
-Phyllosticta palaquii Henn. SPECIES
-=======
+# Phyllosticta palaquii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia dufourei (Ach. ex Nyl.) Lettau SPECIES
-=======
+# Bacidia dufourei (Ach. ex Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

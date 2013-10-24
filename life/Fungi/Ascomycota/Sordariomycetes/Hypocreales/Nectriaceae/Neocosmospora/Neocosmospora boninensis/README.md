@@ -1,5 +1,4 @@
-Neocosmospora boninensis Udagawa, Y. Horie & P.F. Cannon, 1989 SPECIES
-=======
+# Neocosmospora boninensis Udagawa, Y. Horie & P.F. Cannon, 1989 SPECIES
 
 #### Status
 ACCEPTED

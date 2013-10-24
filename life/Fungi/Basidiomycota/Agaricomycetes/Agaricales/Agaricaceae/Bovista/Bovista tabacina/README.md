@@ -1,5 +1,4 @@
-Bovista tabacina Sacc. SPECIES
-=======
+# Bovista tabacina Sacc. SPECIES
 
 #### Status
 ACCEPTED

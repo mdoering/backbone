@@ -1,17 +1,16 @@
-Flammula fusus subsp. filia (Fr.) Gillet SUBSPECIES
-=======
+# Pholiota mixta (Fr.) Kuyper & Tjall.-Beuk., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 13(1): 81 (1986)
 
 #### Original name
-Agaricus filius Fr., 1878
+Agaricus mixtus Fr., 1838
 
 ### Remarks
 null

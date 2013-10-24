@@ -1,5 +1,4 @@
-Cortinarius flexibilis Rob. Henry SPECIES
-=======
+# Cortinarius flexibilis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

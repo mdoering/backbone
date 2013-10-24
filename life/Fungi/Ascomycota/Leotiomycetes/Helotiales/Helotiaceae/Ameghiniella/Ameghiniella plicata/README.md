@@ -1,5 +1,4 @@
-Ameghiniella plicata (W. Phillips & Harkn.) W.Y. Zhuang & Korf SPECIES
-=======
+# Ameghiniella plicata (W. Phillips & Harkn.) W.Y. Zhuang & Korf SPECIES
 
 #### Status
 ACCEPTED

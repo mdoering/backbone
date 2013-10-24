@@ -1,5 +1,4 @@
-Epipolaeum sulcicola B. Erikss. SPECIES
-=======
+# Epipolaeum sulcicola B. Erikss. SPECIES
 
 #### Status
 ACCEPTED

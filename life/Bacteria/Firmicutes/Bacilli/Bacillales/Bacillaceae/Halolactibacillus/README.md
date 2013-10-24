@@ -1,5 +1,4 @@
-Halolactibacillus Ishikawa, Nakajima, Itamiya, Furukawa, Yamamoto & Yamasato, 2005 GENUS
-=======
+# Halolactibacillus Ishikawa, Nakajima, Itamiya, Furukawa, Yamamoto & Yamasato, 2005 GENUS
 
 #### Status
 ACCEPTED

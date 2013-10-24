@@ -1,5 +1,4 @@
-Bacidia pammellii (Fink) Zahlbr. SPECIES
-=======
+# Bacidia pammellii (Fink) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

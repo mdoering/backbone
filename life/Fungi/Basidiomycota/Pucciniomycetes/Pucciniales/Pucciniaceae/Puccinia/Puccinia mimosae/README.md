@@ -1,5 +1,4 @@
-Puccinia mimosae P. Syd. & Syd. SPECIES
-=======
+# Puccinia mimosae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

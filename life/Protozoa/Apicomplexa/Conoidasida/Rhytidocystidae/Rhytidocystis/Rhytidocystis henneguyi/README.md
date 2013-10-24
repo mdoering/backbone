@@ -1,5 +1,4 @@
-Rhytidocystis henneguyi de Beauchamp, 1913 SPECIES
-=======
+# Rhytidocystis henneguyi de Beauchamp, 1913 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Berengeria caesiella SPECIES
-=======
+# Berengeria caesiella SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hormiactis hepaticicola Speg. SPECIES
-=======
+# Hormiactis hepaticicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella berengeriana (Arnaud) Sacc. & D. Sacc. SPECIES
-=======
+# Didymella berengeriana (Arnaud) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

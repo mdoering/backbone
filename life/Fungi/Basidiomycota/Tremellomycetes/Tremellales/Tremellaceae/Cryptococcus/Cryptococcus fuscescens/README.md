@@ -1,5 +1,4 @@
-Cryptococcus fuscescens Golubev SPECIES
-=======
+# Cryptococcus fuscescens Golubev SPECIES
 
 #### Status
 ACCEPTED

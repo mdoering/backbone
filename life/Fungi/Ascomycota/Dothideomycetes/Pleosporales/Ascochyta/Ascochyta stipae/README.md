@@ -1,5 +1,4 @@
-Ascochyta stipae Died. SPECIES
-=======
+# Ascochyta stipae Died. SPECIES
 
 #### Status
 ACCEPTED

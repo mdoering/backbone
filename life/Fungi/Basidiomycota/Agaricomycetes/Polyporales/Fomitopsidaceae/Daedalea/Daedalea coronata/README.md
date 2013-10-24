@@ -1,5 +1,4 @@
-Daedalea coronata (Cragin) SPECIES
-=======
+# Daedalea coronata (Cragin) SPECIES
 
 #### Status
 ACCEPTED

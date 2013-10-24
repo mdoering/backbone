@@ -1,8 +1,7 @@
-Catellatospora matsumotoense Asano et al., 1989 SPECIES
-=======
+# Micromonospora matsumotoense (Asano et al., 1989) Lee et al., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

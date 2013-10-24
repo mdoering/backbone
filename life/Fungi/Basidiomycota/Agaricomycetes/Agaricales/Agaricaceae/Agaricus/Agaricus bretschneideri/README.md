@@ -1,5 +1,4 @@
-Agaricus bretschneideri Kalchbr. SPECIES
-=======
+# Agaricus bretschneideri Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

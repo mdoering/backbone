@@ -1,5 +1,4 @@
-Penicillium platense Speg. SPECIES
-=======
+# Penicillium platense Speg. SPECIES
 
 #### Status
 ACCEPTED

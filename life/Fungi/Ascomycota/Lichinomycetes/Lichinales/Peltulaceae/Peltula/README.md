@@ -1,5 +1,4 @@
-Peltula Nyl. GENUS
-=======
+# Peltula Nyl. GENUS
 
 #### Status
 ACCEPTED

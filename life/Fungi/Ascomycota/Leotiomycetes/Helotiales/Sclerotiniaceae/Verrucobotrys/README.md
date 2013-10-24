@@ -1,5 +1,4 @@
-Verrucobotrys Hennebert, 1973 GENUS
-=======
+# Verrucobotrys Hennebert, 1973 GENUS
 
 #### Status
 ACCEPTED

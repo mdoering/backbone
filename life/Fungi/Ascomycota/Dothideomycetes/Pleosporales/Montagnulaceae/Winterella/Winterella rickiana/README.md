@@ -1,5 +1,4 @@
-Winterella rickiana Rehm SPECIES
-=======
+# Winterella rickiana Rehm SPECIES
 
 #### Status
 ACCEPTED

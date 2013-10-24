@@ -1,5 +1,4 @@
-Stilbospora anceps Pass. SPECIES
-=======
+# Stilbospora anceps Pass. SPECIES
 
 #### Status
 ACCEPTED

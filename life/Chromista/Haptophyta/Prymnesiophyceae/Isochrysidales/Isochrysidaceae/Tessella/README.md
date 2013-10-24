@@ -1,5 +1,4 @@
-Tessella G. Playfair, 1915 GENUS
-=======
+# Tessella G. Playfair, 1915 GENUS
 
 #### Status
 ACCEPTED

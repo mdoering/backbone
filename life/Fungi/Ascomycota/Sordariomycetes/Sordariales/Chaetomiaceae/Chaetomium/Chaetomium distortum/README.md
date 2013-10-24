@@ -1,5 +1,4 @@
-Chaetomium distortum L.M. Ames, 1963 SPECIES
-=======
+# Chaetomium distortum L.M. Ames, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gelatosphaera abietina Bat. & H. Maia SPECIES
-=======
+# Gelatosphaera abietina Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

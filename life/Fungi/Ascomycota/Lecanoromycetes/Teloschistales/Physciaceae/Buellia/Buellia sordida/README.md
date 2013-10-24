@@ -1,5 +1,4 @@
-Buellia sordida (A. Massal.) Jatta SPECIES
-=======
+# Buellia sordida (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

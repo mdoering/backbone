@@ -1,5 +1,4 @@
-Sphaeria cirrhata Sowerby SPECIES
-=======
+# Sphaeria cirrhata Sowerby SPECIES
 
 #### Status
 ACCEPTED

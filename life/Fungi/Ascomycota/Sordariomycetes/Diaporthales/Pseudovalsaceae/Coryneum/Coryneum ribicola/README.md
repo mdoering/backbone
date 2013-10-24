@@ -1,5 +1,4 @@
-Coryneum ribicola Lebezh. SPECIES
-=======
+# Coryneum ribicola Lebezh. SPECIES
 
 #### Status
 ACCEPTED

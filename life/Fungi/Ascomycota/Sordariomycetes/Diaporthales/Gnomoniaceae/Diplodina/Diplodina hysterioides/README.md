@@ -1,5 +1,4 @@
-Diplodina hysterioides P. Karst. & Har. SPECIES
-=======
+# Diplodina hysterioides P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

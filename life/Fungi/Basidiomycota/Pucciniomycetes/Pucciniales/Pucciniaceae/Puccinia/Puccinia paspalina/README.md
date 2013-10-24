@@ -1,5 +1,4 @@
-Puccinia paspalina Cummins, 1945 SPECIES
-=======
+# Puccinia paspalina Cummins, 1945 SPECIES
 
 #### Status
 ACCEPTED

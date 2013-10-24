@@ -1,5 +1,4 @@
-Naucoria aggregata Henn. SPECIES
-=======
+# Naucoria aggregata Henn. SPECIES
 
 #### Status
 ACCEPTED

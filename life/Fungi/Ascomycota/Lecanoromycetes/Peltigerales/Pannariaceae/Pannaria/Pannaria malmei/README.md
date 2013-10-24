@@ -1,5 +1,4 @@
-Pannaria malmei C. W. Dodge SPECIES
-=======
+# Pannaria malmei C. W. Dodge SPECIES
 
 #### Status
 ACCEPTED

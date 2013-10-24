@@ -1,5 +1,4 @@
-Agaricus cyanofilipes Secr. SPECIES
-=======
+# Agaricus cyanofilipes Secr. SPECIES
 
 #### Status
 ACCEPTED

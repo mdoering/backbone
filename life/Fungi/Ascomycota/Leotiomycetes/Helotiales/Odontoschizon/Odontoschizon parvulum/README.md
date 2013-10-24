@@ -1,5 +1,4 @@
-Odontoschizon parvulum Syd. & P. Syd. SPECIES
-=======
+# Odontoschizon parvulum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

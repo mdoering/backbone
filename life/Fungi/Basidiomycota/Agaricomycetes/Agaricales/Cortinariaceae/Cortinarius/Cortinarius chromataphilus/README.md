@@ -1,5 +1,4 @@
-Cortinarius chromataphilus Rob. Henry SPECIES
-=======
+# Cortinarius chromataphilus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

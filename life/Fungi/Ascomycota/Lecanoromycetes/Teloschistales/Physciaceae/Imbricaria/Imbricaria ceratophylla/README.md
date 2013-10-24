@@ -1,5 +1,4 @@
-Imbricaria ceratophylla (Sw.) Hepp SPECIES
-=======
+# Imbricaria ceratophylla (Sw.) Hepp SPECIES
 
 #### Status
 ACCEPTED

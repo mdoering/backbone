@@ -1,5 +1,4 @@
-Septoria asterina Tharp SPECIES
-=======
+# Septoria asterina Tharp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia baicalensis Tranzschel SPECIES
-=======
+# Puccinia baicalensis Tranzschel SPECIES
 
 #### Status
 ACCEPTED

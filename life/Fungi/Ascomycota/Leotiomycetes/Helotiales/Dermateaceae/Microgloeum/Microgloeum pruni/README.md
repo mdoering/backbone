@@ -1,5 +1,4 @@
-Microgloeum pruni Petr., 1922 SPECIES
-=======
+# Microgloeum pruni Petr., 1922 SPECIES
 
 #### Status
 ACCEPTED

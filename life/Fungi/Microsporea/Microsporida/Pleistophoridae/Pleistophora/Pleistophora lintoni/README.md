@@ -1,5 +1,4 @@
-Pleistophora lintoni SPECIES
-=======
+# Pleistophora lintoni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Stereum sulcatum f. sulcatum FORM
-=======
+# Laurilia sulcata (Burt) Pouzar, 1959 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. Reg. St. N. Y. 54: 154 (1901)
+Ceská Mykol. 13: 14 (1959)
 
 #### Original name
-Stereum sulcatum f. sulcatum
+Stereum sulcatum Burt, 1901
 
 ### Remarks
 null

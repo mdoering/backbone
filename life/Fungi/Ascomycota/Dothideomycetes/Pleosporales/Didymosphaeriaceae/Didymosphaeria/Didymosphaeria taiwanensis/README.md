@@ -1,5 +1,4 @@
-Didymosphaeria taiwanensis W.Y. Yen & C.C. Chi SPECIES
-=======
+# Didymosphaeria taiwanensis W.Y. Yen & C.C. Chi SPECIES
 
 #### Status
 ACCEPTED

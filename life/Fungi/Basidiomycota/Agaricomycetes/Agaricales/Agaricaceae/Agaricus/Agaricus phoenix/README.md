@@ -1,5 +1,4 @@
-Agaricus phoenix Fr. SPECIES
-=======
+# Agaricus phoenix Fr. SPECIES
 
 #### Status
 ACCEPTED

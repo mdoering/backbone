@@ -1,5 +1,4 @@
-Pseudaegerita websteri Abdullah, Gené & Guarro SPECIES
-=======
+# Pseudaegerita websteri Abdullah, Gené & Guarro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella isabellina Lloyd SPECIES
-=======
+# Tremella isabellina Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyscyphus ledi Raitv. SPECIES
-=======
+# Dasyscyphus ledi Raitv. SPECIES
 
 #### Status
 ACCEPTED

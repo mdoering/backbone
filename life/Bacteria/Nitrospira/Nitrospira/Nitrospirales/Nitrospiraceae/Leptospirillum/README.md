@@ -1,5 +1,4 @@
-Leptospirillum (ex Markosyan, 1972) Hippe, 2000 GENUS
-=======
+# Leptospirillum (ex Markosyan, 1972) Hippe, 2000 GENUS
 
 #### Status
 ACCEPTED

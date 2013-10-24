@@ -1,5 +1,4 @@
-Rehmiomyces profusus Syd. & E.J. Butler SPECIES
-=======
+# Rehmiomyces profusus Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

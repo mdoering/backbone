@@ -1,5 +1,4 @@
-Craterellus incarnatus Quél. SPECIES
-=======
+# Craterellus incarnatus Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Staurothele yunnana H. Harada & Li S. Wang SPECIES
-=======
+# Staurothele yunnanica H. Harada & Li S. Wang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 28(4): 298 (1996)
 
 #### Original name
-Staurothele yunnana H. Harada & Li S. Wang
+Staurothele yunnanica H. Harada & Li S. Wang
 
 ### Remarks
 null

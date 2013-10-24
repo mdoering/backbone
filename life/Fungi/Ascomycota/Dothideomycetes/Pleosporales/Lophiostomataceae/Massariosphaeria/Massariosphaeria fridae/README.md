@@ -1,5 +1,4 @@
-Massariosphaeria fridae Spooren, 2007 SPECIES
-=======
+# Massariosphaeria fridae Spooren, 2007 SPECIES
 
 #### Status
 ACCEPTED

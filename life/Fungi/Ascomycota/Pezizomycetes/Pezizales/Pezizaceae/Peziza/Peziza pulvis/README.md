@@ -1,5 +1,4 @@
-Peziza pulvis Rebent. SPECIES
-=======
+# Peziza pulvis Rebent. SPECIES
 
 #### Status
 ACCEPTED

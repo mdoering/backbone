@@ -1,5 +1,4 @@
-Naemospora citrinula Speg. SPECIES
-=======
+# Naemospora citrinula Speg. SPECIES
 
 #### Status
 ACCEPTED

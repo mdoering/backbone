@@ -1,5 +1,4 @@
-Cercospora concinna Syd. SPECIES
-=======
+# Cercospora concinna Syd. SPECIES
 
 #### Status
 ACCEPTED

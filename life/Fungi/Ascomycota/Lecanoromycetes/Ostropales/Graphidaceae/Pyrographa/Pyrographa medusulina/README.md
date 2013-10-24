@@ -1,5 +1,4 @@
-Pyrographa medusulina A. Massal. SPECIES
-=======
+# Pyrographa medusulina A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia polonica Motyka SPECIES
-=======
+# Aspicilia polonica Motyka SPECIES
 
 #### Status
 ACCEPTED

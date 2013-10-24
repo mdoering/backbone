@@ -1,5 +1,4 @@
-Keratosphaera multiseptata Flakus & Lücking, 2008 SPECIES
-=======
+# Keratosphaera multiseptata Flakus & Lücking, 2008 SPECIES
 
 #### Status
 ACCEPTED

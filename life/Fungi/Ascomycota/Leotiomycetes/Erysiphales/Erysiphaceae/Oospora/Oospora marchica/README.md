@@ -1,5 +1,4 @@
-Oospora marchica Syd. SPECIES
-=======
+# Oospora marchica Syd. SPECIES
 
 #### Status
 ACCEPTED

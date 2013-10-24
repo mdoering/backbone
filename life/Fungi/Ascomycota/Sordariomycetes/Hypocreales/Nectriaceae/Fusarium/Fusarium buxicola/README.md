@@ -1,17 +1,16 @@
-Fusarium buxicola var. buxicola Sacc. VARIETY
-=======
+# Fusarium buxicola Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 2: 518 (1883)
 
 #### Original name
-Fusarium buxicola var. buxicola Sacc.
+Fusarium buxicola Sacc., 1883
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Methanofollis Zellner, Boone, Keswani, Whitman, Woese, Hagelstein, Tindall & Stackebrandt, 1999 GENUS
-=======
+# Methanofollis Zellner, Boone, Keswani, Whitman, Woese, Hagelstein, Tindall & Stackebrandt, 1999 GENUS
 
 #### Status
 ACCEPTED

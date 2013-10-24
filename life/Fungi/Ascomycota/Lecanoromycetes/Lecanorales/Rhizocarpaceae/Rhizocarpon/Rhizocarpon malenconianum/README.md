@@ -1,5 +1,4 @@
-Rhizocarpon malenconianum (Llimona & Werner) Hafellner & Mayrhofer {?} SPECIES
-=======
+# Rhizocarpon malenconianum (Llimona & Werner) Hafellner & Mayrhofer {?} SPECIES
 
 #### Status
 ACCEPTED

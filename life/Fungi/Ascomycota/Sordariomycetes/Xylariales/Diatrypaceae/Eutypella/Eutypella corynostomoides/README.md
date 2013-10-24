@@ -1,17 +1,16 @@
-Eutypella corynostomoides var. corynostomoides VARIETY
-=======
+# Eutypella corynostomoides (Rehm) Rappaz SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Mycol. helv. 2(3): 533 (1987)
 
 #### Original name
-null
+Peroneutypella corynostomoides Rehm
 
 ### Remarks
 null

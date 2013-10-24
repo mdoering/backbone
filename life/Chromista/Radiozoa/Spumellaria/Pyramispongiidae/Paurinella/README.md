@@ -1,5 +1,4 @@
-Paurinella GENUS
-=======
+# Paurinella GENUS
 
 #### Status
 ACCEPTED

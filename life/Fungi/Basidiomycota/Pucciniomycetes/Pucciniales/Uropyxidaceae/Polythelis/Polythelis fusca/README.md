@@ -1,5 +1,4 @@
-Polythelis fusca Arthur SPECIES
-=======
+# Polythelis fusca Arthur SPECIES
 
 #### Status
 ACCEPTED

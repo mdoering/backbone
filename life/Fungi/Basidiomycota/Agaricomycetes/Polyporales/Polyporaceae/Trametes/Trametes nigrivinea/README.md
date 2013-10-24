@@ -1,5 +1,4 @@
-Trametes nigrivinea Corner SPECIES
-=======
+# Trametes nigrivinea Corner SPECIES
 
 #### Status
 ACCEPTED

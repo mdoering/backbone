@@ -1,5 +1,4 @@
-Leptographium koreanum J.J. Kim & G.H. Kim, 2005 SPECIES
-=======
+# Leptographium koreanum J.J. Kim & G.H. Kim, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ogivus El Kadiri, 1992 GENUS
-=======
+# Ogivus El Kadiri, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parascedosporium Gilgado, Gené, Cano & Guarro GENUS
-=======
+# Parascedosporium Gilgado, Gené, Cano & Guarro GENUS
 
 #### Status
 ACCEPTED

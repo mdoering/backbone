@@ -1,5 +1,4 @@
-Sphaeria radicium Schwein. SPECIES
-=======
+# Sphaeria radicium Schwein. SPECIES
 
 #### Status
 ACCEPTED

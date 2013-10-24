@@ -1,5 +1,4 @@
-Sphaeronaemella rosae Ellis & Everh. SPECIES
-=======
+# Sphaeronaemella rosae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

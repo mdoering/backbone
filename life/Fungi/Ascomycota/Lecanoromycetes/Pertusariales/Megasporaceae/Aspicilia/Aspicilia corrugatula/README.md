@@ -1,5 +1,4 @@
-Aspicilia corrugatula (Arnold) Hue SPECIES
-=======
+# Aspicilia corrugatula (Arnold) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cryptoderma sanfordii (Lloyd) Imazeki, 1955 SPECIES
-=======
+# Phellinus sanfordii (Lloyd) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Fl. Japan 2(4): 366 (1955)
+Norw. Jl Bot. 19: 235 (1972)
 
 #### Original name
 Fomes sanfordii Lloyd, 1915

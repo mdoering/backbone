@@ -1,5 +1,4 @@
-Baltisphaeridium granosum Kjellström, 1971 SPECIES
-=======
+# Baltisphaeridium granosum Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

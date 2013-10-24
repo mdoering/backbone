@@ -1,5 +1,4 @@
-Caeoma abietis-pectinatae C.C. Rees SPECIES
-=======
+# Caeoma abietis-pectinatae C.C. Rees SPECIES
 
 #### Status
 ACCEPTED

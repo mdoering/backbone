@@ -1,5 +1,4 @@
-Phyllostictella gastonis (Roum.) Tassi SPECIES
-=======
+# Phyllostictella gastonis (Roum.) Tassi SPECIES
 
 #### Status
 ACCEPTED

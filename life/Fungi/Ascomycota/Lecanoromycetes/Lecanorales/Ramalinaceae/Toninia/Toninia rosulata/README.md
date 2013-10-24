@@ -1,14 +1,13 @@
-Lecidea rosulata (Anzi) Stizenb. SPECIES
-=======
+# Toninia rosulata (Anzi) H. Olivier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Acad. Intern. Géogr. Bot. 21: 161 (1911)
 
 #### Original name
 Thalloidima rosulatum Anzi

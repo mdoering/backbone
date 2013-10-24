@@ -1,5 +1,4 @@
-Eucantharomyces neocolpodis Balazuc SPECIES
-=======
+# Eucantharomyces neocolpodis Balazuc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Acineta pugmaea Swarczewsky, 1928 SPECIES
-=======
+# Acineta pygmaea Swarczewsky, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

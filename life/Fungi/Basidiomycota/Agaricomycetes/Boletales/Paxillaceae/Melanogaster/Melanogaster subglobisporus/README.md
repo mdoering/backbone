@@ -1,17 +1,16 @@
-Melanogaster subglobosporus K. Tao, Ming C. Chang & B. Liu SPECIES
-=======
+# Melanogaster subglobisporus K. Tao, Ming C. Chang & B. Liu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Wang, Chang, Tao & Liu, Journal of Shanxi University, Natural Science 18(4): 451 (1995)
 
 #### Original name
-Melanogaster subglobosporus K. Tao, Ming C. Chang & B. Liu
+Melanogaster subglobisporus K. Tao, Ming C. Chang & B. Liu
 
 ### Remarks
 null

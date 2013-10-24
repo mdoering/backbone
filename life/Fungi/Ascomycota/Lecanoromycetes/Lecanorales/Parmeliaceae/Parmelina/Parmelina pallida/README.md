@@ -1,5 +1,4 @@
-Parmelina pallida Elix & Kantvilas SPECIES
-=======
+# Parmelina pallida Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

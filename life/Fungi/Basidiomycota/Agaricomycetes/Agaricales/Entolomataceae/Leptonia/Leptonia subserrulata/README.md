@@ -1,5 +1,4 @@
-Leptonia subserrulata Peck SPECIES
-=======
+# Leptonia subserrulata Peck SPECIES
 
 #### Status
 ACCEPTED

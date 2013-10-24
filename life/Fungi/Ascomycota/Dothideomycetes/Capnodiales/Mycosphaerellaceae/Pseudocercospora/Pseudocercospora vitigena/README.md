@@ -1,5 +1,4 @@
-Pseudocercospora vitigena J.M. Yen, A.K. Kar & B.K. Das SPECIES
-=======
+# Pseudocercospora vitigena J.M. Yen, A.K. Kar & B.K. Das SPECIES
 
 #### Status
 ACCEPTED

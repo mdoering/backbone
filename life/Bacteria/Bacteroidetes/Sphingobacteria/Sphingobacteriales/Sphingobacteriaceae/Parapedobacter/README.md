@@ -1,5 +1,4 @@
-Parapedobacter Kim et al., 2007 GENUS
-=======
+# Parapedobacter Kim et al., 2007 GENUS
 
 #### Status
 ACCEPTED

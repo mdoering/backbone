@@ -1,5 +1,4 @@
-Cordyceps coccinea var. coccinea VARIETY
-=======
+# Cordyceps coccinea Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cordyceps coccinea var. coccinea
+Cordyceps coccinea Penz. & Sacc.
 
 ### Remarks
 null

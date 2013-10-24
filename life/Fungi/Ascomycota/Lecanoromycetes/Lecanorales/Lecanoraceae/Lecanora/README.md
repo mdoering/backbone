@@ -1,17 +1,16 @@
-Parmularia Nilson GENUS
-=======
+# Lecanora Ach. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flecht. Sarekgebirg. 34 (1907)
+in Luyken, Tent. Hist. Lich. 90 (1809)
 
 #### Original name
-Parmularia Nilson
+Lecanora Ach.
 
 ### Remarks
 null

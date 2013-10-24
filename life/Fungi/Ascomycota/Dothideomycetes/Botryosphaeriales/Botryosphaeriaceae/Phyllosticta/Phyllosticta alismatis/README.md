@@ -1,5 +1,4 @@
-Phyllosticta alismatis var. alismatis VARIETY
-=======
+# Phyllosticta alismatis Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 1(no. 2): 144 (1878)
 
 #### Original name
-Phyllosticta alismatis var. alismatis
+Phyllosticta alismatis Sacc. & Speg.
 
 ### Remarks
 null

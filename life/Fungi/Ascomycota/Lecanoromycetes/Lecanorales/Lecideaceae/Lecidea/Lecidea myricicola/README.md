@@ -1,5 +1,4 @@
-Lecidea myricicola Vain. SPECIES
-=======
+# Lecidea myricicola Vain. SPECIES
 
 #### Status
 ACCEPTED

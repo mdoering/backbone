@@ -1,5 +1,4 @@
-Sphaeria tephrocoma Berk. & Broome SPECIES
-=======
+# Sphaeria tephrocoma Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanconium bambusinum Speg. SPECIES
-=======
+# Melanconium bambusinum Speg. SPECIES
 
 #### Status
 ACCEPTED

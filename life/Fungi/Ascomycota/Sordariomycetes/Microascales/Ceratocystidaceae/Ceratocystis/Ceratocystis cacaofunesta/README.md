@@ -1,5 +1,4 @@
-Ceratocystis cacaofunesta Engelbr. & T.C. Harr., 2005 SPECIES
-=======
+# Ceratocystis cacaofunesta Engelbr. & T.C. Harr., 2005 SPECIES
 
 #### Status
 ACCEPTED

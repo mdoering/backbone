@@ -1,5 +1,4 @@
-Septoria olivae Pass. & Thüm. SPECIES
-=======
+# Septoria olivae Pass. & Thüm. SPECIES
 
 #### Status
 ACCEPTED

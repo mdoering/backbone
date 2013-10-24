@@ -1,5 +1,4 @@
-Chitonomyces dentifer Thaxt. SPECIES
-=======
+# Chitonomyces dentifer Thaxt. SPECIES
 
 #### Status
 ACCEPTED

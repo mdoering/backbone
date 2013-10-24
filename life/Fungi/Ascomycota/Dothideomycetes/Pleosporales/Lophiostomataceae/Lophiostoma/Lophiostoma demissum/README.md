@@ -1,5 +1,4 @@
-Lophiostoma demissum Nitschke SPECIES
-=======
+# Lophiostoma demissum Nitschke SPECIES
 
 #### Status
 ACCEPTED

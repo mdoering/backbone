@@ -1,5 +1,4 @@
-Caudiholosticha setifera (Kahl, 1932) Berger SPECIES
-=======
+# Caudiholosticha setifera (Kahl, 1932) Berger SPECIES
 
 #### Status
 ACCEPTED

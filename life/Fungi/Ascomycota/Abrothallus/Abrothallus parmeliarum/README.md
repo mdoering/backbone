@@ -1,17 +1,16 @@
-Abrothallus parmeliarum f. parmeliarum (Sommerf.) Nyl., 1869 FORM
-=======
+# Abrothallus parmeliarum (Sommerf.) Nyl., 1869 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. linn. Normandie, sér. 2 3: 12 (1869)
 
 #### Original name
-null
+Lecidea parmeliarum Sommerf., 1826
 
 ### Remarks
 null

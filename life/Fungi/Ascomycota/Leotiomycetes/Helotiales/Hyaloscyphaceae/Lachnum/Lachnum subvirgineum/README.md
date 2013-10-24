@@ -1,5 +1,4 @@
-Lachnum subvirgineum Baral SPECIES
-=======
+# Lachnum subvirgineum Baral SPECIES
 
 #### Status
 ACCEPTED

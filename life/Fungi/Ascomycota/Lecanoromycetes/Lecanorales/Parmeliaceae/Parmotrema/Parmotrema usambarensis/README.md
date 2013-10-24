@@ -1,5 +1,4 @@
-Parmotrema usambarensis (J. Steiner & Zahlbr.) Krog & Swinscow SPECIES
-=======
+# Parmotrema usambarensis (J. Steiner & Zahlbr.) Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

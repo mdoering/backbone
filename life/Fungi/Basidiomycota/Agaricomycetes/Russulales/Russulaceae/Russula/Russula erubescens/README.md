@@ -1,5 +1,4 @@
-Russula erubescens Zvára SPECIES
-=======
+# Russula erubescens Zvára SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula anamalaiensis (Upreti & Ajay Singh) Upreti SPECIES
-=======
+# Pyrenula anamalaiensis (Upreti & Ajay Singh) Upreti SPECIES
 
 #### Status
 ACCEPTED

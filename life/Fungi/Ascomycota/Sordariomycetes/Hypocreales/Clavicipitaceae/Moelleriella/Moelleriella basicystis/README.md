@@ -1,5 +1,4 @@
-Moelleriella basicystis P. Chaverri & K.T. Hodge SPECIES
-=======
+# Moelleriella basicystis P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

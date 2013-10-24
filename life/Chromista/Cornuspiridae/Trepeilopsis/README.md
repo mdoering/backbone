@@ -1,5 +1,4 @@
-Trepeilopsis Cushman & Waters, 1928 GENUS
-=======
+# Trepeilopsis Cushman & Waters, 1928 GENUS
 
 #### Status
 ACCEPTED

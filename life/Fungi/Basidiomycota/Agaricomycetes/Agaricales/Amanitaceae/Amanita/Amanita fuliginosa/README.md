@@ -1,5 +1,4 @@
-Amanita fuliginosa Beeli SPECIES
-=======
+# Amanita fuliginosa Beeli SPECIES
 
 #### Status
 ACCEPTED

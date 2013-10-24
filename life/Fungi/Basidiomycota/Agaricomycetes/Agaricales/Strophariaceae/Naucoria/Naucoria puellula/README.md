@@ -1,5 +1,4 @@
-Naucoria puellula Speg. SPECIES
-=======
+# Naucoria puellula Speg. SPECIES
 
 #### Status
 ACCEPTED

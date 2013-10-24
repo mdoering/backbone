@@ -1,5 +1,4 @@
-Filaspora caulicola (Sacc.) Kuntze SPECIES
-=======
+# Filaspora caulicola (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

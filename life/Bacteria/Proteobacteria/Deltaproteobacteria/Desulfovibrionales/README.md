@@ -1,5 +1,4 @@
-Desulfovibrionales ORDER
-=======
+# Desulfovibrionales ORDER
 
 #### Status
 ACCEPTED

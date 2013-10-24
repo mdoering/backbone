@@ -1,5 +1,4 @@
-Exotrichum leucomelas Syd. & P. Syd. SPECIES
-=======
+# Exotrichum leucomelas Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

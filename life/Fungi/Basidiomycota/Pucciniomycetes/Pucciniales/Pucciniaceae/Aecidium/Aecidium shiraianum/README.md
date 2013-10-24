@@ -1,5 +1,4 @@
-Aecidium shiraianum Syd. & P. Syd. SPECIES
-=======
+# Aecidium shiraianum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

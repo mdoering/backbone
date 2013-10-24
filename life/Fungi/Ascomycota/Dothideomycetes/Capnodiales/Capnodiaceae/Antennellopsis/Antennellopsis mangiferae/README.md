@@ -1,5 +1,4 @@
-Antennellopsis mangiferae J.M. Mend. SPECIES
-=======
+# Antennellopsis mangiferae J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

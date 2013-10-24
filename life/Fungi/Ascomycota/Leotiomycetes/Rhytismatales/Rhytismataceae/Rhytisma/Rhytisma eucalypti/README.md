@@ -1,5 +1,4 @@
-Rhytisma eucalypti Ettingsh. & Garden {?}, 1880 SPECIES
-=======
+# Rhytisma eucalypti Ettingsh. & Garden {?}, 1880 SPECIES
 
 #### Status
 ACCEPTED

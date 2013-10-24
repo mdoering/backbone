@@ -1,5 +1,4 @@
-Ammotium Loeblich & Tappan, 1953 GENUS
-=======
+# Ammotium Loeblich & Tappan, 1953 GENUS
 
 #### Status
 ACCEPTED

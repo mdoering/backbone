@@ -1,5 +1,4 @@
-Stigmopeltopsis amazonensis Peres SPECIES
-=======
+# Stigmopeltopsis amazonensis Peres SPECIES
 
 #### Status
 ACCEPTED

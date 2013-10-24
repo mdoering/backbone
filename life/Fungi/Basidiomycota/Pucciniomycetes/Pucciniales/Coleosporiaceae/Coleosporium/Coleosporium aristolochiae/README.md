@@ -1,5 +1,4 @@
-Coleosporium aristolochiae Y. Ono SPECIES
-=======
+# Coleosporium aristolochiae Y. Ono SPECIES
 
 #### Status
 ACCEPTED

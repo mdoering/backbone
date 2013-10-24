@@ -1,5 +1,4 @@
-Emmetrocysta L.E. Stover, 1975 GENUS
-=======
+# Emmetrocysta L.E. Stover, 1975 GENUS
 
 #### Status
 ACCEPTED

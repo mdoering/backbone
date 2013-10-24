@@ -1,8 +1,7 @@
-Nostocella minuta (Desmazières) Gaillon SPECIES
-=======
+# Nostoc minutum Desmazières SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

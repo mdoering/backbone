@@ -1,17 +1,16 @@
-Cyathus montagnei var. montagnei VARIETY
-=======
+# Cyathus montagnei Tul. & C. Tul., 1844 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls Sci. Nat. , Bot. , sér. 3 1: 70 (1844)
 
 #### Original name
-Cyathus montagnei var. montagnei
+Cyathus montagnei Tul. & C. Tul., 1844
 
 ### Remarks
 null

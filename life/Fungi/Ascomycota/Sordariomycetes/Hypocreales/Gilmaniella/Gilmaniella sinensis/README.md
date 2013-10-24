@@ -1,5 +1,4 @@
-Gilmaniella sinensis X.M. Zhang SPECIES
-=======
+# Gilmaniella sinensis X.M. Zhang SPECIES
 
 #### Status
 ACCEPTED

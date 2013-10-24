@@ -1,5 +1,4 @@
-Acladium niveum (Lév.) Sacc. SPECIES
-=======
+# Acladium niveum (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

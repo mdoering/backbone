@@ -1,5 +1,4 @@
-Asterostroma andinum Pat., 1893 SPECIES
-=======
+# Asterostroma andinum Pat., 1893 SPECIES
 
 #### Status
 ACCEPTED

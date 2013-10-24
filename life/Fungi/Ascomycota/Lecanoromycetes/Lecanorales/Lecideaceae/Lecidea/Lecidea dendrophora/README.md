@@ -1,5 +1,4 @@
-Lecidea dendrophora Vain. SPECIES
-=======
+# Lecidea dendrophora Vain. SPECIES
 
 #### Status
 ACCEPTED

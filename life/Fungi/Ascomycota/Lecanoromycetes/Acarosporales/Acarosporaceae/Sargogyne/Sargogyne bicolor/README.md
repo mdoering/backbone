@@ -1,5 +1,4 @@
-Sargogyne bicolor SPECIES
-=======
+# Sargogyne bicolor SPECIES
 
 #### Status
 ACCEPTED

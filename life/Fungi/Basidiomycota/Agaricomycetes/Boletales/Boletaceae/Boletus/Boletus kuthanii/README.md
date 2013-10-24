@@ -1,5 +1,4 @@
-Boletus kuthanii Assyov & Denchev SPECIES
-=======
+# Boletus kuthanii Assyov & Denchev SPECIES
 
 #### Status
 ACCEPTED

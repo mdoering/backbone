@@ -1,5 +1,4 @@
-Tripospermum pes-gallinae var. pes-gallinae VARIETY
-=======
+# Tripospermum pes-gallinae Cif., Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Publções Inst. Micol. Recife 50: 3 (1956)
 
 #### Original name
-Tripospermum pes-gallinae var. pes-gallinae
+Tripospermum pes-gallinae Cif., Bat. & Nascim.
 
 ### Remarks
 null

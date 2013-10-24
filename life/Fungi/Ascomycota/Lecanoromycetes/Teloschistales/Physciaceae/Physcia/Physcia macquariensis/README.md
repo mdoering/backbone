@@ -1,5 +1,4 @@
-Physcia macquariensis C.W. Dodge SPECIES
-=======
+# Physcia macquariensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

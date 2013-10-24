@@ -1,5 +1,4 @@
-Menaella Cherchi & Schroeder, 2005 GENUS
-=======
+# Menaella Cherchi & Schroeder, 2005 GENUS
 
 #### Status
 ACCEPTED

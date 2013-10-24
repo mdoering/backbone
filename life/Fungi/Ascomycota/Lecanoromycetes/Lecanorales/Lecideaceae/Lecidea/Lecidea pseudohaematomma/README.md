@@ -1,5 +1,4 @@
-Lecidea pseudohaematomma Asahina SPECIES
-=======
+# Lecidea pseudohaematomma Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea louisianae B. de Lesd. SPECIES
-=======
+# Lecidea louisianae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

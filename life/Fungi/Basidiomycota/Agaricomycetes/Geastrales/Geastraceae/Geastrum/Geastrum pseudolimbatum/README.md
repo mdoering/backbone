@@ -1,5 +1,4 @@
-Geastrum pseudolimbatum Hollos SPECIES
-=======
+# Geastrum pseudolimbatum Hollos SPECIES
 
 #### Status
 ACCEPTED

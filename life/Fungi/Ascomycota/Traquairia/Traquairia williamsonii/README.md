@@ -1,5 +1,4 @@
-Traquairia williamsonii Stubblef. & T.N. Taylor SPECIES
-=======
+# Traquairia williamsonii Stubblef. & T.N. Taylor SPECIES
 
 #### Status
 ACCEPTED

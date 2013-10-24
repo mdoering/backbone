@@ -1,5 +1,4 @@
-Septoria mitteriana Syd. SPECIES
-=======
+# Septoria mitteriana Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gigaspora rosea T.H. Nicolson & N.C. Schenck, 1979 SPECIES
-=======
+# Gigaspora rosea T.H. Nicolson & N.C. Schenck, 1979 SPECIES
 
 #### Status
 ACCEPTED

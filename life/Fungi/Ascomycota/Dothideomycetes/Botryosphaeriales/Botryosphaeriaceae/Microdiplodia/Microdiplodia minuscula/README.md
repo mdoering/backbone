@@ -1,5 +1,4 @@
-Microdiplodia minuscula (Penz. & Sacc.) Tassi, 1902 SPECIES
-=======
+# Microdiplodia minuscula (Penz. & Sacc.) Tassi, 1902 SPECIES
 
 #### Status
 ACCEPTED

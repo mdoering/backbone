@@ -1,8 +1,7 @@
-Peridinium palustre var. raciborskii (Woloszynska) M. Lefèvre VARIETY
-=======
+# Peridinium raciborskii Woloszynska SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

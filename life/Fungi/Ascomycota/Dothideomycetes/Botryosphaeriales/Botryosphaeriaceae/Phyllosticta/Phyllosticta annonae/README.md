@@ -1,17 +1,16 @@
-Phyllosticta anonae Henn. SPECIES
-=======
+# Phyllosticta annonae Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 41: 113 (1902)
 
 #### Original name
-Phyllosticta anonae Henn.
+Phyllosticta annonae Henn.
 
 ### Remarks
 null

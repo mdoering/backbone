@@ -1,5 +1,4 @@
-Penicillium aromaticum-casei Johan-Olsen SPECIES
-=======
+# Penicillium aromaticum-casei Johan-Olsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desmarestia viridis var. major Postels & Ruprecht VARIETY
-=======
+# Desmarestia viridis (O.F. Müller) J.V. Lamouroux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella phlomidis N.P. Golovina SPECIES
-=======
+# Cercosporella phlomidis N.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

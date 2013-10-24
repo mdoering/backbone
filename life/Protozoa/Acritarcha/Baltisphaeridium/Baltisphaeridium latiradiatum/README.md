@@ -1,5 +1,4 @@
-Baltisphaeridium latiradiatum (Eisenack, 1959) Staplin, Jansonius & Pocock, 1965 SPECIES
-=======
+# Baltisphaeridium latiradiatum (Eisenack, 1959) Staplin, Jansonius & Pocock, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycorhynchella exilis (Höhn.) Höhn. SPECIES
-=======
+# Mycorhynchella exilis (Höhn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

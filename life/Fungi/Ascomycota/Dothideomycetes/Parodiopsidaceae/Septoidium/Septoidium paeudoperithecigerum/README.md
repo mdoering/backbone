@@ -1,5 +1,4 @@
-Septoidium paeudoperithecigerum (Speg.) Cif. SPECIES
-=======
+# Septoidium paeudoperithecigerum (Speg.) Cif. SPECIES
 
 #### Status
 ACCEPTED

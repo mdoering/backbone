@@ -1,5 +1,4 @@
-Pringsheimia chamaecyparidis Froid., 1973 SPECIES
-=======
+# Pringsheimia chamaecyparidis Froid., 1973 SPECIES
 
 #### Status
 ACCEPTED

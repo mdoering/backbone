@@ -1,5 +1,4 @@
-Polyporus submollis Z.S. Bi & G.Y. Zheng SPECIES
-=======
+# Polyporus submollis Z.S. Bi & G.Y. Zheng SPECIES
 
 #### Status
 ACCEPTED

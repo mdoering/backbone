@@ -1,5 +1,4 @@
-Agaricus subflabellatus Cout. SPECIES
-=======
+# Agaricus subflabellatus Cout. SPECIES
 
 #### Status
 ACCEPTED

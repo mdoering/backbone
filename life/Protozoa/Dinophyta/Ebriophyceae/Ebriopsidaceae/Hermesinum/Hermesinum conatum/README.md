@@ -1,5 +1,4 @@
-Hermesinum conatum Deflandre SPECIES
-=======
+# Hermesinum conatum Deflandre SPECIES
 
 #### Status
 ACCEPTED

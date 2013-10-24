@@ -1,5 +1,4 @@
-Puccinia houstoniae P. Syd. & Syd. SPECIES
-=======
+# Puccinia houstoniae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

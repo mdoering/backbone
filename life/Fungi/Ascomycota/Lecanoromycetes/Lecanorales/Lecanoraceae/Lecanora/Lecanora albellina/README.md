@@ -1,5 +1,4 @@
-Lecanora albellina var. albellina VARIETY
-=======
+# Lecanora albellina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Miss. Sc. Cap Horn, Lich. 162 (1889)
 
 #### Original name
-Lecanora albellina var. albellina
+Lecanora albellina Müll. Arg.
 
 ### Remarks
 null

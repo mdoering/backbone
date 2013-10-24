@@ -1,5 +1,4 @@
-Peziza quercina Pers. SPECIES
-=======
+# Peziza quercina Pers. SPECIES
 
 #### Status
 ACCEPTED

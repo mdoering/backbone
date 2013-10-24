@@ -1,5 +1,4 @@
-Parmotrema neocaledonicum (Nyl.) Elix SPECIES
-=======
+# Parmotrema neocaledonicum (Nyl.) Elix SPECIES
 
 #### Status
 ACCEPTED

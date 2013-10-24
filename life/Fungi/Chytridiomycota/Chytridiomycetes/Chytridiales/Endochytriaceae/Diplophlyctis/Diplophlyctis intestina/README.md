@@ -1,14 +1,13 @@
-Rhizidium intestinum Schenk, 1858 SPECIES
-=======
+# Diplophlyctis intestina (Schenk) J. Schröt., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1: 78 (1892)
 
 #### Original name
 Rhizidium intestinum Schenk, 1858

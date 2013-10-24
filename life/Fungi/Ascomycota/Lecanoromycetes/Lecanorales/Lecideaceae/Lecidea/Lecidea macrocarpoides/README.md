@@ -1,5 +1,4 @@
-Lecidea macrocarpoides Samp. SPECIES
-=======
+# Lecidea macrocarpoides Samp. SPECIES
 
 #### Status
 ACCEPTED

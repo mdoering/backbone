@@ -1,5 +1,4 @@
-Umbilicaria pateriformis C.W. Dodge & G.E. Baker SPECIES
-=======
+# Umbilicaria pateriformis C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

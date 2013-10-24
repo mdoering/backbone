@@ -1,5 +1,4 @@
-Acarospora gallica H. Magn. SPECIES
-=======
+# Acarospora gallica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

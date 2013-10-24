@@ -1,5 +1,4 @@
-Ramicola micacea Velen. SPECIES
-=======
+# Ramicola micacea Velen. SPECIES
 
 #### Status
 ACCEPTED

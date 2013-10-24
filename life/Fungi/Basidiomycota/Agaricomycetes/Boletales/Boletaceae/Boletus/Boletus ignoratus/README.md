@@ -1,5 +1,4 @@
-Boletus ignoratus Banning & Peck SPECIES
-=======
+# Boletus ignoratus Banning & Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Goniolithus fluckigeri Deflandre, 1957 SPECIES
-=======
+# Goniolithus fluckigeri Deflandre, 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratocystiopsis rollhanseniana (J. Reid, Eyjólfsd. & Georg Hausner) Zipfel, Z.W. Beer & M.J. Wingf. SPECIES
-=======
+# Ceratocystiopsis rollhanseniana (J. Reid, Eyjólfsd. & Georg Hausner) Zipfel, Z.W. Beer & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius scabrosus (Cooke & Massee) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius scabrosus (Cooke & Massee) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

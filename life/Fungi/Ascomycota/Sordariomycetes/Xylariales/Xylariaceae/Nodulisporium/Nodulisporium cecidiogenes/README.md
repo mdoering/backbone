@@ -1,5 +1,4 @@
-Nodulisporium cecidiogenes Jørg. Koch, 1994 SPECIES
-=======
+# Nodulisporium cecidiogenes Jørg. Koch, 1994 SPECIES
 
 #### Status
 ACCEPTED

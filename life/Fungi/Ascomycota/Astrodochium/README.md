@@ -1,5 +1,4 @@
-Astrodochium Ellis & Everh. GENUS
-=======
+# Astrodochium Ellis & Everh. GENUS
 
 #### Status
 ACCEPTED

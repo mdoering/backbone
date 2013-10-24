@@ -1,5 +1,4 @@
-Mycena epipterygia var. epipterygia VARIETY
-=======
+# Mycena epipterygia (Scop. Fr.) Gray SPECIES
 
 #### Status
 ACCEPTED

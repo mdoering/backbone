@@ -1,14 +1,13 @@
-Cicadocola cicadanim (ulc) Bain SPECIES
-=======
+# Cicadocola cicadarum (Šulc) Bain, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Univ. Stellenbosch, Reeks A (1923)
 
 #### Original name
 Saccharomyces cicadarum Šulc, 1910

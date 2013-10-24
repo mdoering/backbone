@@ -1,5 +1,4 @@
-Apiosporium polymorphum Corda SPECIES
-=======
+# Apiosporium polymorphum Corda SPECIES
 
 #### Status
 ACCEPTED

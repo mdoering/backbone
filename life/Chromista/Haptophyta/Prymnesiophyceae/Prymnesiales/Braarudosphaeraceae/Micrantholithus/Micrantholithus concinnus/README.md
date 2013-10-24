@@ -1,5 +1,4 @@
-Micrantholithus concinnus Bramlette & Sullivan, 1961 SPECIES
-=======
+# Micrantholithus concinnus Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenogaster megasporus Soehner SPECIES
-=======
+# Hymenogaster megasporus Soehner SPECIES
 
 #### Status
 ACCEPTED

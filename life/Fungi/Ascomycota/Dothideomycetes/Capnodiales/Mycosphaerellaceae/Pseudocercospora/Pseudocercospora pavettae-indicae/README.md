@@ -1,5 +1,4 @@
-Pseudocercospora pavettae-indicae (Govindu & Thirum.) J.M. Yen, A.K. Kar & B.K. Das SPECIES
-=======
+# Pseudocercospora pavettae-indicae (Govindu & Thirum.) J.M. Yen, A.K. Kar & B.K. Das SPECIES
 
 #### Status
 ACCEPTED

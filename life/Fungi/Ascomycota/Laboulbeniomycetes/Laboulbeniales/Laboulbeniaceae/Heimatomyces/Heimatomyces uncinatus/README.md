@@ -1,5 +1,4 @@
-Heimatomyces uncinatus Thaxt. SPECIES
-=======
+# Heimatomyces uncinatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

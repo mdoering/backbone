@@ -1,8 +1,7 @@
-Streptococcus salivarius subsp. thermophilus (Orla-Jensen, 1919) Farrow & Collins, 1984 SUBSPECIES
-=======
+# Streptococcus thermophilus (Orla-Jensen, 1919) Schleifer et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Ramalina verrucosa Hook. f. & Taylor SPECIES
-=======
+# Ramalina verrucosa Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

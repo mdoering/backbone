@@ -1,5 +1,4 @@
-Antrodia citrina Bernicchia & Ryvarden, 2005 SPECIES
-=======
+# Antrodia citrina Bernicchia & Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

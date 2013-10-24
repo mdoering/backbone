@@ -1,5 +1,4 @@
-Streptomonospora alba Li et al., 2003 SPECIES
-=======
+# Streptomonospora alba Li et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

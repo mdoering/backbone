@@ -1,5 +1,4 @@
-Ustilago flectens (Lagerh.) Nannf. SPECIES
-=======
+# Ustilago flectens (Lagerh.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

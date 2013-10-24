@@ -1,5 +1,4 @@
-Endophragmia mirabilis Duvernoy & Maire SPECIES
-=======
+# Endophragmia mirabilis Duvernoy & Maire SPECIES
 
 #### Status
 ACCEPTED

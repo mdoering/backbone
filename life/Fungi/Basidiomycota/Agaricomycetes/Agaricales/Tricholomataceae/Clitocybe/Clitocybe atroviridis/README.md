@@ -1,5 +1,4 @@
-Clitocybe atroviridis H.E. Bigelow SPECIES
-=======
+# Clitocybe atroviridis H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

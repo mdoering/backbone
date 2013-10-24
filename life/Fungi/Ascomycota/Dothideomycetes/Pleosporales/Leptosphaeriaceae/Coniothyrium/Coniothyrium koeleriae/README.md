@@ -1,5 +1,4 @@
-Coniothyrium koeleriae A.L. Guyot SPECIES
-=======
+# Coniothyrium koeleriae A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

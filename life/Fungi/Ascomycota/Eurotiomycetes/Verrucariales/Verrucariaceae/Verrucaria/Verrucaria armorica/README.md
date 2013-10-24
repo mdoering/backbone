@@ -1,5 +1,4 @@
-Verrucaria armorica P. Crouan & H. Crouan SPECIES
-=======
+# Verrucaria armorica P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

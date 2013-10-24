@@ -1,5 +1,4 @@
-Cladosporium atriellum Cooke, 1878 SPECIES
-=======
+# Cladosporium atriellum Cooke, 1878 SPECIES
 
 #### Status
 ACCEPTED

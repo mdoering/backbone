@@ -1,5 +1,4 @@
-Agaricus affricatus Fr. SPECIES
-=======
+# Agaricus affricatus Fr. SPECIES
 
 #### Status
 ACCEPTED

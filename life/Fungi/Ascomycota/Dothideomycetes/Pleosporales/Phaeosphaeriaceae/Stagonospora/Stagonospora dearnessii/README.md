@@ -1,5 +1,4 @@
-Stagonospora dearnessii Sacc. SPECIES
-=======
+# Stagonospora dearnessii Sacc. SPECIES
 
 #### Status
 ACCEPTED

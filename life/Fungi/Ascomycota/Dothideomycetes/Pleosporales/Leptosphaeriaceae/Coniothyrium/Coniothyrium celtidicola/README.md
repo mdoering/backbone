@@ -1,5 +1,4 @@
-Coniothyrium celtidicola Miura SPECIES
-=======
+# Coniothyrium celtidicola Miura SPECIES
 
 #### Status
 ACCEPTED

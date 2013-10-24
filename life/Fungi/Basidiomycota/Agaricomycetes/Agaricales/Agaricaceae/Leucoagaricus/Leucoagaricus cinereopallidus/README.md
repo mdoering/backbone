@@ -1,5 +1,4 @@
-Leucoagaricus cinereopallidus (Contu) Consiglio & Contu SPECIES
-=======
+# Leucoagaricus cinereopallidus (Contu) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

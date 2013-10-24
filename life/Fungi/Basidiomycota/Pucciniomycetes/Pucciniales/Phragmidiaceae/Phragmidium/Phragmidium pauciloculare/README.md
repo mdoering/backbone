@@ -1,8 +1,7 @@
-Phragmidium barnardii var. paucilocalare Dietel, 1902 VARIETY
-=======
+# Phragmidium pauciloculare P. Syd. & Syd., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

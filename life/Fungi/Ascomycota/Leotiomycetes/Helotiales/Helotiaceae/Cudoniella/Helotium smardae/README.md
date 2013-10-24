@@ -1,5 +1,4 @@
-Helotium smardae Velen. SPECIES
-=======
+# Helotium smardae Velen. SPECIES
 
 #### Status
 ACCEPTED

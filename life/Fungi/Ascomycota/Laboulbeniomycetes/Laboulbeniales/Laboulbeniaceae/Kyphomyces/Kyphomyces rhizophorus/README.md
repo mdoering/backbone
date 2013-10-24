@@ -1,5 +1,4 @@
-Kyphomyces rhizophorus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Kyphomyces rhizophorus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Riemerella Segers et al., 1993 GENUS
-=======
+# Riemerella Segers et al., 1993 GENUS
 
 #### Status
 ACCEPTED

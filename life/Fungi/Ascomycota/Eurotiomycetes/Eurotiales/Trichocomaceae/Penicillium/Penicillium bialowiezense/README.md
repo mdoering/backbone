@@ -1,5 +1,4 @@
-Penicillium bialowiezense K.M. Zalessky SPECIES
-=======
+# Penicillium bialowiezense K.M. Zalessky SPECIES
 
 #### Status
 ACCEPTED

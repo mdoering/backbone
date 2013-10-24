@@ -1,5 +1,4 @@
-Peridermium piceae-hondoensis Dietel SPECIES
-=======
+# Peridermium piceae-hondoensis Dietel SPECIES
 
 #### Status
 ACCEPTED

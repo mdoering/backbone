@@ -1,5 +1,4 @@
-Remototrachyna dodapetta (Hale & Patw.) Divakar & A. Crespo SPECIES
-=======
+# Remototrachyna dodapetta (Hale & Patw.) Divakar & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

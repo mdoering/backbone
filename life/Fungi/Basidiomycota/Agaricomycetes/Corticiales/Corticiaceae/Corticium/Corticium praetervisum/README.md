@@ -1,5 +1,4 @@
-Corticium praetervisum Bourdot & Galzin SPECIES
-=======
+# Corticium praetervisum Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

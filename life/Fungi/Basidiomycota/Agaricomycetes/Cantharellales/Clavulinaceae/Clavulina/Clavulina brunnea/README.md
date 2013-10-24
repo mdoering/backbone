@@ -1,5 +1,4 @@
-Clavulina brunnea Corner SPECIES
-=======
+# Clavulina brunnea Corner SPECIES
 
 #### Status
 ACCEPTED

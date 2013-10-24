@@ -1,5 +1,4 @@
-Kuhneria P.A. Dang. GENUS
-=======
+# Kuhneria P.A. Dang. GENUS
 
 #### Status
 ACCEPTED

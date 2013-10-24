@@ -1,5 +1,4 @@
-Agaricus eleutherophyllus Marchand SPECIES
-=======
+# Agaricus eleutherophyllus Marchand SPECIES
 
 #### Status
 ACCEPTED

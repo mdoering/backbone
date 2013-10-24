@@ -1,5 +1,4 @@
-Diaporthe salsuginosa Vrijmoed, K.D. Hyde & E.B.G. Jones, 1994 SPECIES
-=======
+# Diaporthe salsuginosa Vrijmoed, K.D. Hyde & E.B.G. Jones, 1994 SPECIES
 
 #### Status
 ACCEPTED

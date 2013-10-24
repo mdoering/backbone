@@ -1,5 +1,4 @@
-Nosema grylli Sokolova, Selezniov, Dolgikh, I.V. Issi SPECIES
-=======
+# Nosema grylli Sokolova, Selezniov, Dolgikh, I.V. Issi SPECIES
 
 #### Status
 ACCEPTED

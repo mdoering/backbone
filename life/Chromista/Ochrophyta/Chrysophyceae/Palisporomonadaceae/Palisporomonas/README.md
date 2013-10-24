@@ -1,5 +1,4 @@
-Palisporomonas H. de Saedeleer, 1947 GENUS
-=======
+# Palisporomonas H. de Saedeleer, 1947 GENUS
 
 #### Status
 ACCEPTED

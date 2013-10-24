@@ -1,5 +1,4 @@
-Laccaria fibrillosa McNabb, 1972 SPECIES
-=======
+# Laccaria fibrillosa McNabb, 1972 SPECIES
 
 #### Status
 ACCEPTED

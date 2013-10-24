@@ -1,17 +1,16 @@
-Rhizocarpon concentricum f. concentricum FORM
-=======
+# Rhizocarpon concentricum (Davies) Beltr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Bassan. 187 (1858)
 
 #### Original name
-Rhizocarpon concentricum f. concentricum
+Lichen concentricus Davies
 
 ### Remarks
 null

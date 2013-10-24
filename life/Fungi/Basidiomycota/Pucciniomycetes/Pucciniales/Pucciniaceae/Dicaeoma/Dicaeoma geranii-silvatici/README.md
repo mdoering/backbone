@@ -1,17 +1,16 @@
-Dicaeoma geranii-sylvatici Kuntze SPECIES
-=======
+# Dicaeoma geranii-silvatici Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): (1898)
 
 #### Original name
-Dicaeoma geranii-sylvatici Kuntze
+Dicaeoma geranii-silvatici Kuntze
 
 ### Remarks
 null

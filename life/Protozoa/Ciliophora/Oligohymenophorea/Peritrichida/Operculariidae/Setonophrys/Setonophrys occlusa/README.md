@@ -1,5 +1,4 @@
-Setonophrys occlusa (Kane, 1969) Clamp, 1991 SPECIES
-=======
+# Setonophrys occlusa (Kane, 1969) Clamp, 1991 SPECIES
 
 #### Status
 ACCEPTED

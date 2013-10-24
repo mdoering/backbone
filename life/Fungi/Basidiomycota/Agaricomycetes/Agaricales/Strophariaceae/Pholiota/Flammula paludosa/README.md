@@ -1,5 +1,4 @@
-Flammula paludosa Hruby SPECIES
-=======
+# Flammula paludosa Hruby SPECIES
 
 #### Status
 ACCEPTED

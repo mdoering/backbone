@@ -1,5 +1,4 @@
-Planococcus maitriensis Alam et al., 2004 SPECIES
-=======
+# Planococcus maitriensis Alam et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

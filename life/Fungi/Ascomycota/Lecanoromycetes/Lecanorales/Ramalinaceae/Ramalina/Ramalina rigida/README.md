@@ -1,5 +1,4 @@
-Ramalina rigida f. rigida FORM
-=======
+# Ramalina rigida Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syn. meth. lich. 294 (1814)
 
 #### Original name
-Ramalina rigida f. rigida
+Ramalina rigida Ach.
 
 ### Remarks
 null

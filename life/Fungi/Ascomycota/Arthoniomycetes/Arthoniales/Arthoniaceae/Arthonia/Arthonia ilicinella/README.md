@@ -1,5 +1,4 @@
-Arthonia ilicinella Nyl. SPECIES
-=======
+# Arthonia ilicinella Nyl. SPECIES
 
 #### Status
 ACCEPTED

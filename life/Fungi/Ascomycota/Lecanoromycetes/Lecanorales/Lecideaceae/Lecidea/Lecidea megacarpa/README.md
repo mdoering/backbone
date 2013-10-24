@@ -1,5 +1,4 @@
-Lecidea megacarpa Nyl. SPECIES
-=======
+# Lecidea megacarpa Nyl. SPECIES
 
 #### Status
 ACCEPTED

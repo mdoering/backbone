@@ -1,5 +1,4 @@
-Corethron valdiviae Karsten SPECIES
-=======
+# Corethron valdiviae Karsten SPECIES
 
 #### Status
 ACCEPTED

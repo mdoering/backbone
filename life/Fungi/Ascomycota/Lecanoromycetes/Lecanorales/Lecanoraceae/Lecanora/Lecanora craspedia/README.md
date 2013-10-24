@@ -1,5 +1,4 @@
-Lecanora craspedia (Ach.) Ach. SPECIES
-=======
+# Lecanora craspedia (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

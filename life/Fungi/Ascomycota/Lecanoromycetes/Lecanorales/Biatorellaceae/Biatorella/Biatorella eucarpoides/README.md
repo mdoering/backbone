@@ -1,5 +1,4 @@
-Biatorella eucarpoides Vain. SPECIES
-=======
+# Biatorella eucarpoides Vain. SPECIES
 
 #### Status
 ACCEPTED

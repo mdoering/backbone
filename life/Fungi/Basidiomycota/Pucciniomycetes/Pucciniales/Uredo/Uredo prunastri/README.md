@@ -1,5 +1,4 @@
-Uredo prunastri DC. SPECIES
-=======
+# Uredo prunastri DC. SPECIES
 
 #### Status
 ACCEPTED

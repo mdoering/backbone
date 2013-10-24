@@ -1,5 +1,4 @@
-Chryseobacterium piscium de Beer et al., 2006 SPECIES
-=======
+# Chryseobacterium piscium de Beer et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

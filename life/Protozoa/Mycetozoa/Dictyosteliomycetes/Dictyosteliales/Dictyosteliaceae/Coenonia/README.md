@@ -1,5 +1,4 @@
-Coenonia Van Tieghem, 1884 GENUS
-=======
+# Coenonia Van Tieghem, 1884 GENUS
 
 #### Status
 ACCEPTED

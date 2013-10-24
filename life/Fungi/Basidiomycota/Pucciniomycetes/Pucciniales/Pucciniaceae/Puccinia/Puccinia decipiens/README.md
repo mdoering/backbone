@@ -1,5 +1,4 @@
-Puccinia decipiens Massee SPECIES
-=======
+# Puccinia decipiens Massee SPECIES
 
 #### Status
 ACCEPTED

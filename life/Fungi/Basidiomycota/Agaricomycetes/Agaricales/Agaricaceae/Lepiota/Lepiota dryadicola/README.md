@@ -1,5 +1,4 @@
-Lepiota dryadicola Kühner SPECIES
-=======
+# Lepiota dryadicola Kühner SPECIES
 
 #### Status
 ACCEPTED

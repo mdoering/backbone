@@ -1,5 +1,4 @@
-Sporisorium furcatum (Syd. & P. Syd.) Vánky SPECIES
-=======
+# Sporisorium furcatum (Syd. & P. Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

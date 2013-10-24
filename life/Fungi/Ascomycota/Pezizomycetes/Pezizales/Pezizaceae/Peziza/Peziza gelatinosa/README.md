@@ -1,5 +1,4 @@
-Peziza gelatinosa Haller SPECIES
-=======
+# Peziza gelatinosa Haller SPECIES
 
 #### Status
 ACCEPTED

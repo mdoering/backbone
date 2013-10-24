@@ -1,8 +1,7 @@
-Penicillium korosum J.N. Rai, Wadhwani & J.P. Tewari, 1969 SPECIES
-=======
+# Penicillium pinophilum Thom, 1910 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

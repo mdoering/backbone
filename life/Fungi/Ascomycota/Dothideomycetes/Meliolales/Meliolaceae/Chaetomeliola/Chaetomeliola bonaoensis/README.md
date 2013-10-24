@@ -1,5 +1,4 @@
-Chaetomeliola bonaoensis (Cif.) Bat., H. Maia & M.L. Farr SPECIES
-=======
+# Chaetomeliola bonaoensis (Cif.) Bat., H. Maia & M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

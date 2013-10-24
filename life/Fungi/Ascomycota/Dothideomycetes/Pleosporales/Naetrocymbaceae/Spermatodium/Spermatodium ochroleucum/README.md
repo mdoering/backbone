@@ -1,5 +1,4 @@
-Spermatodium ochroleucum (Eschw.) Trevis. SPECIES
-=======
+# Spermatodium ochroleucum (Eschw.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

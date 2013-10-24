@@ -1,5 +1,4 @@
-Marasmius vergeliensis Singer SPECIES
-=======
+# Marasmius vergeliensis Singer SPECIES
 
 #### Status
 ACCEPTED

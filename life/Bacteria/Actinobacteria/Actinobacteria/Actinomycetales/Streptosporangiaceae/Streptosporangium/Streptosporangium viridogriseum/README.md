@@ -1,5 +1,4 @@
-Streptosporangium viridogriseum Okuda et al., 1966 SPECIES
-=======
+# Streptosporangium viridogriseum Okuda et al., 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynespora maculiformis (Corda) Hol.-Jech. SPECIES
-=======
+# Corynespora maculiformis (Corda) Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

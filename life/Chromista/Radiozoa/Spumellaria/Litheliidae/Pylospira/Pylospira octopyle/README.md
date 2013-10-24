@@ -1,5 +1,4 @@
-Pylospira octopyle Haeckel, 1887 SPECIES
-=======
+# Pylospira octopyle Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

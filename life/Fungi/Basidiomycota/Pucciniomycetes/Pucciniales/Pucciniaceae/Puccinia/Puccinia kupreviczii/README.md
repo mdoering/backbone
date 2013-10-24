@@ -1,5 +1,4 @@
-Puccinia kupreviczii Golovin SPECIES
-=======
+# Puccinia kupreviczii Golovin SPECIES
 
 #### Status
 ACCEPTED

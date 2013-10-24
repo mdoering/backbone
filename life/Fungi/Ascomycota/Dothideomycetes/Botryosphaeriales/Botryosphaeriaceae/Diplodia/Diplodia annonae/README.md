@@ -1,5 +1,4 @@
-Diplodia annonae Sacc. SPECIES
-=======
+# Diplodia annonae Sacc. SPECIES
 
 #### Status
 ACCEPTED

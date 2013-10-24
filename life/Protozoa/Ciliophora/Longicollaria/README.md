@@ -1,5 +1,4 @@
-Longicollaria Pop, 1997 GENUS
-=======
+# Longicollaria Pop, 1997 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nyctalospora E.F. Morris GENUS
-=======
+# Nyctalospora E.F. Morris GENUS
 
 #### Status
 ACCEPTED

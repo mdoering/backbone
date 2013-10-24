@@ -1,5 +1,4 @@
-Lecidea sororiella Nyl. SPECIES
-=======
+# Lecidea sororiella Nyl. SPECIES
 
 #### Status
 ACCEPTED

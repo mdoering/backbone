@@ -1,5 +1,4 @@
-Xylaria claviceps F.S.M. González & J.D. Rogers SPECIES
-=======
+# Xylaria claviceps F.S.M. González & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

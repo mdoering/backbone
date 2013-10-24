@@ -1,5 +1,4 @@
-Hadrotrichum pyrenaicum Petrini & Cand. SPECIES
-=======
+# Hadrotrichum pyrenaicum Petrini & Cand. SPECIES
 
 #### Status
 ACCEPTED

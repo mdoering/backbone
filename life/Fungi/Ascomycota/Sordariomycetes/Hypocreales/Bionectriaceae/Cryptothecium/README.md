@@ -1,5 +1,4 @@
-Cryptothecium GENUS
-=======
+# Cryptothecium GENUS
 
 #### Status
 ACCEPTED

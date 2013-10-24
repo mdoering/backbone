@@ -1,5 +1,4 @@
-Elaphomyces rubescens R. Hesse SPECIES
-=======
+# Elaphomyces rubescens R. Hesse SPECIES
 
 #### Status
 ACCEPTED

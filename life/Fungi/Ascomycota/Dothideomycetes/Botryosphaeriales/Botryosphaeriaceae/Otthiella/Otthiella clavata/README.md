@@ -1,5 +1,4 @@
-Otthiella clavata E. Müll. & S. Ahmad SPECIES
-=======
+# Otthiella clavata E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

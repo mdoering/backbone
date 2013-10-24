@@ -1,5 +1,4 @@
-Omphalophallus muellerianus Kalchbr. SPECIES
-=======
+# Omphalophallus muellerianus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

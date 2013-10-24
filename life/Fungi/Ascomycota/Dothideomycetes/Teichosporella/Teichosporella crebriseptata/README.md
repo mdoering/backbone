@@ -1,5 +1,4 @@
-Teichosporella crebriseptata Höhn. SPECIES
-=======
+# Teichosporella crebriseptata Höhn. SPECIES
 
 #### Status
 ACCEPTED

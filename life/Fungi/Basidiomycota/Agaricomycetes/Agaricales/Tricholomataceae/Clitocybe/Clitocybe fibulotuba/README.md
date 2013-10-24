@@ -1,5 +1,4 @@
-Clitocybe fibulotuba Ramain SPECIES
-=======
+# Clitocybe fibulotuba Ramain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotiella carnosula (Rehm) Sacc. SPECIES
-=======
+# Helotiella carnosula (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

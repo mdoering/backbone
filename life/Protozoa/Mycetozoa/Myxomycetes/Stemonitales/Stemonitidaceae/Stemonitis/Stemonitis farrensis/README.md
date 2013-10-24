@@ -1,5 +1,4 @@
-Stemonitis farrensis T.N. Lakh. & K.G. Mukerji, 1977 SPECIES
-=======
+# Stemonitis farrensis T.N. Lakh. & K.G. Mukerji, 1977 SPECIES
 
 #### Status
 ACCEPTED

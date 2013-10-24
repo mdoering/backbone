@@ -1,5 +1,4 @@
-Endopyrenium aegyptiacum (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Endopyrenium aegyptiacum (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

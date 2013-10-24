@@ -1,5 +1,4 @@
-Sirostromella polonica Petr. SPECIES
-=======
+# Sirostromella polonica Petr. SPECIES
 
 #### Status
 ACCEPTED

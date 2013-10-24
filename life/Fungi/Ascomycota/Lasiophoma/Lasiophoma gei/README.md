@@ -1,5 +1,4 @@
-Lasiophoma gei I.E. Brezhnev SPECIES
-=======
+# Lasiophoma gei I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

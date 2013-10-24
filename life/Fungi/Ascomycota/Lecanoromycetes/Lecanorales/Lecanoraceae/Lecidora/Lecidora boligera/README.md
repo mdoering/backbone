@@ -1,5 +1,4 @@
-Lecidora boligera (Norman) Motyka SPECIES
-=======
+# Lecidora boligera (Norman) Motyka SPECIES
 
 #### Status
 ACCEPTED

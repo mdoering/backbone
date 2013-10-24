@@ -1,5 +1,4 @@
-Placodium subrubellianum Vain. SPECIES
-=======
+# Placodium subrubellianum Vain. SPECIES
 
 #### Status
 ACCEPTED

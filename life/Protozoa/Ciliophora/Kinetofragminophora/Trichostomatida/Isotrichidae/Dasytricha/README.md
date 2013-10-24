@@ -1,5 +1,4 @@
-Dasytricha Schuberg, 1888 GENUS
-=======
+# Dasytricha Schuberg, 1888 GENUS
 
 #### Status
 ACCEPTED

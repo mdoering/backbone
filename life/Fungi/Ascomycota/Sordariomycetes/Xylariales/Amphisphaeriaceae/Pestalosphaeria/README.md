@@ -1,5 +1,4 @@
-Pestalosphaeria M.E. Barr GENUS
-=======
+# Pestalosphaeria M.E. Barr GENUS
 
 #### Status
 ACCEPTED

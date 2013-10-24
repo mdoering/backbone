@@ -1,5 +1,4 @@
-Gloniopsis fibriseda (W.R. Gerard) Sacc. SPECIES
-=======
+# Gloniopsis fibriseda (W.R. Gerard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

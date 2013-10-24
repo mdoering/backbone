@@ -1,5 +1,4 @@
-Stigmatomyces matilei Balazuc SPECIES
-=======
+# Stigmatomyces matilei Balazuc SPECIES
 
 #### Status
 ACCEPTED

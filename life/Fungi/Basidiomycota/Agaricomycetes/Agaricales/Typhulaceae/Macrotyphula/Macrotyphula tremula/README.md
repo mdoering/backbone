@@ -1,5 +1,4 @@
-Macrotyphula tremula Berthier, 1974 SPECIES
-=======
+# Macrotyphula tremula Berthier, 1974 SPECIES
 
 #### Status
 ACCEPTED

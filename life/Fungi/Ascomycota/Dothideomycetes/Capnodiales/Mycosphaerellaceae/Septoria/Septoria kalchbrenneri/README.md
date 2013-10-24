@@ -1,5 +1,4 @@
-Septoria kalchbrenneri Sacc. SPECIES
-=======
+# Septoria kalchbrenneri Sacc. SPECIES
 
 #### Status
 ACCEPTED

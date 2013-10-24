@@ -1,5 +1,4 @@
-Olpidium lauderiae Gran SPECIES
-=======
+# Olpidium lauderiae Gran SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella craterella Dumas, 1929 SPECIES
-=======
+# Vorticella craterella Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

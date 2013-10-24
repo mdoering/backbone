@@ -1,5 +1,4 @@
-Dacryopsella typhae (Höhn.) Höhn. SPECIES
-=======
+# Dacryopsella typhae (Höhn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

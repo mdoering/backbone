@@ -1,5 +1,4 @@
-Phoma leycesteriae Henn. SPECIES
-=======
+# Phoma leycesteriae Henn. SPECIES
 
 #### Status
 ACCEPTED

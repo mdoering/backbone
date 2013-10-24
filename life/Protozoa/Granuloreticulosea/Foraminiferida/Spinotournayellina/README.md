@@ -1,5 +1,4 @@
-Spinotournayellina Wu in Wu & Liao, 2001 GENUS
-=======
+# Spinotournayellina Wu in Wu & Liao, 2001 GENUS
 
 #### Status
 ACCEPTED

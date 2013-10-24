@@ -1,17 +1,16 @@
-Clavaria guilleminii SPECIES
-=======
+# Clavaria crosslandii Cotton, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Naturalist 86 (1912)
 
 #### Original name
-Clavaria guilleminii
+Clavaria crosslandii Cotton, 1912
 
 ### Remarks
 null

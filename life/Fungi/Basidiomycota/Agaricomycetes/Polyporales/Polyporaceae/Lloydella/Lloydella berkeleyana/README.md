@@ -1,5 +1,4 @@
-Lloydella berkeleyana (Ces.) Rick SPECIES
-=======
+# Lloydella berkeleyana (Ces.) Rick SPECIES
 
 #### Status
 ACCEPTED

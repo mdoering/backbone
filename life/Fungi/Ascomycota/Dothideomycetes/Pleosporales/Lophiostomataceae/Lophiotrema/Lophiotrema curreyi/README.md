@@ -1,17 +1,16 @@
-Lophiostoma hysterioides var. oenotherae (Ellis & Everh.) Chesters & A.E. Bell VARIETY
-=======
+# Lophiotrema curreyi Sacc., 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 120: 14 (1970)
+Syll. fung. (Abellini) 9: 1078 (1891)
 
 #### Original name
-Lophiotrema oenotherae Ellis & Everh.
+Lophiotrema curreyi Sacc., 1891
 
 ### Remarks
 null

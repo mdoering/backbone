@@ -1,5 +1,4 @@
-Sylvanidium operculatum Vavrdová, 1978 SPECIES
-=======
+# Sylvanidium operculatum Vavrdová, 1978 SPECIES
 
 #### Status
 ACCEPTED

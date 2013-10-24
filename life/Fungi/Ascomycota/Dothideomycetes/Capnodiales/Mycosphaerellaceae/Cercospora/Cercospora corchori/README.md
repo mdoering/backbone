@@ -1,5 +1,4 @@
-Cercospora corchori Sawada SPECIES
-=======
+# Cercospora corchori Sawada SPECIES
 
 #### Status
 ACCEPTED

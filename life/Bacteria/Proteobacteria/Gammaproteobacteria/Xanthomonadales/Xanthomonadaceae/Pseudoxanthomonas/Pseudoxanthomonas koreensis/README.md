@@ -1,5 +1,4 @@
-Pseudoxanthomonas koreensis Yang et al., 2005 SPECIES
-=======
+# Pseudoxanthomonas koreensis Yang et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Singraulipollenites finitimus Sinha, 1969 SPECIES
-=======
+# Singraulipollenites finitimus Sinha, 1969 SPECIES
 
 #### Status
 ACCEPTED

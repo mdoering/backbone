@@ -1,5 +1,4 @@
-Holosticha Wrzesnioski, 1877 GENUS
-=======
+# Holosticha Wrzesnioski, 1877 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiodecton thomense G. Thor SPECIES
-=======
+# Chiodecton thomense G. Thor SPECIES
 
 #### Status
 ACCEPTED

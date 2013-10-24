@@ -1,5 +1,4 @@
-Stigmatomyces inconstans W. Rossi SPECIES
-=======
+# Stigmatomyces inconstans W. Rossi SPECIES
 
 #### Status
 ACCEPTED

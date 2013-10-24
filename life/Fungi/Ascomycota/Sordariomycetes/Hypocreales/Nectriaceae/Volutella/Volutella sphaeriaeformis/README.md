@@ -1,5 +1,4 @@
-Volutella sphaeriaeformis (Mont.) Berk. & M.A. Curtis SPECIES
-=======
+# Volutella sphaeriaeformis (Mont.) Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

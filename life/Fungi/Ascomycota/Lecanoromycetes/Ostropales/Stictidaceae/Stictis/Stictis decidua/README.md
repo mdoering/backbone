@@ -1,5 +1,4 @@
-Stictis decidua Ellis & Everh. SPECIES
-=======
+# Stictis decidua Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

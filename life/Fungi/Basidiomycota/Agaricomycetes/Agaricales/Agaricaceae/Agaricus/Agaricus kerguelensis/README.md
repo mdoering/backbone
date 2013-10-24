@@ -1,17 +1,16 @@
-Agaricus kerguelenensis Berk. SPECIES
-=======
+# Agaricus kerguelensis Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Bot. , London 14: (1876)
 
 #### Original name
-Agaricus kerguelenensis Berk.
+Agaricus kerguelensis Berk.
 
 ### Remarks
 null

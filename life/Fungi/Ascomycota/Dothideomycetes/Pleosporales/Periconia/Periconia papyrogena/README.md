@@ -1,5 +1,4 @@
-Periconia papyrogena Sacc. SPECIES
-=======
+# Periconia papyrogena Sacc. SPECIES
 
 #### Status
 ACCEPTED

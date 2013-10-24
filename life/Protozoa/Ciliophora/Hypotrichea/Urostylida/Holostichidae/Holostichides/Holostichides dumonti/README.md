@@ -1,5 +1,4 @@
-Holostichides dumonti Foissner, 2000 SPECIES
-=======
+# Holostichides dumonti Foissner, 2000 SPECIES
 
 #### Status
 ACCEPTED

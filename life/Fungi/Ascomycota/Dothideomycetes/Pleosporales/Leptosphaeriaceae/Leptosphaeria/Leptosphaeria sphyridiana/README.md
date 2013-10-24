@@ -1,5 +1,4 @@
-Leptosphaeria sphyridiana (J. Lahm) G. Winter SPECIES
-=======
+# Leptosphaeria sphyridiana (J. Lahm) G. Winter SPECIES
 
 #### Status
 ACCEPTED

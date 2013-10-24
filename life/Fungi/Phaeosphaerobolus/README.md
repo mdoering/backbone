@@ -1,5 +1,4 @@
-Phaeosphaerobolus D. Hawksw. & Hafellner GENUS
-=======
+# Phaeosphaerobolus D. Hawksw. & Hafellner GENUS
 
 #### Status
 ACCEPTED

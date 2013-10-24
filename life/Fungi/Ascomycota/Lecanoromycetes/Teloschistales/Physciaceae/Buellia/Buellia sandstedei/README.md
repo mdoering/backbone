@@ -1,5 +1,4 @@
-Buellia sandstedei (Zwackh) Sandst. SPECIES
-=======
+# Buellia sandstedei (Zwackh) Sandst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcoscypha pateraeformis (Durieu & Lév.) Sacc. SPECIES
-=======
+# Sarcoscypha pateraeformis (Durieu & Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Steccherinum helvolum (Zipp. ex Lév.) S. Ito SPECIES
-=======
+# Steccherinum helvolum (Zipp. ex Lév.) S. Ito SPECIES
 
 #### Status
 ACCEPTED

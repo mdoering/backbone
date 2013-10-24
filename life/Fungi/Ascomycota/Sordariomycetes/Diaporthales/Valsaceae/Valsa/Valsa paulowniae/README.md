@@ -1,5 +1,4 @@
-Valsa paulowniae Miyabe & Hemmi, 1916 SPECIES
-=======
+# Valsa paulowniae Miyabe & Hemmi, 1916 SPECIES
 
 #### Status
 ACCEPTED

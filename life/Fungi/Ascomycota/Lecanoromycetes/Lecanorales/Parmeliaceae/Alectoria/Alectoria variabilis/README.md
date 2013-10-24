@@ -1,5 +1,4 @@
-Alectoria variabilis Bystrek SPECIES
-=======
+# Alectoria variabilis Bystrek SPECIES
 
 #### Status
 ACCEPTED

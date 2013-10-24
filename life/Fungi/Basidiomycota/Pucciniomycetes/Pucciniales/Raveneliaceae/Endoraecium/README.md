@@ -1,5 +1,4 @@
-Endoraecium Hodges & D.E. Gardner GENUS
-=======
+# Endoraecium Hodges & D.E. Gardner GENUS
 
 #### Status
 ACCEPTED

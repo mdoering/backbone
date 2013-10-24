@@ -1,5 +1,4 @@
-Tephrophana ochraceobrunnea Métrod SPECIES
-=======
+# Tephrophana ochraceobrunnea Métrod SPECIES
 
 #### Status
 ACCEPTED

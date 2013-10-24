@@ -1,5 +1,4 @@
-Stictopatella Höhn. GENUS
-=======
+# Stictopatella Höhn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lepiota tepeitensis var. tepeitensis VARIETY
-=======
+# Lepiota tepeitensis Murrill SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Mycologia 3(2): 82 (1911)
 
 #### Original name
-null
+Lepiota tepeitensis Murrill
 
 ### Remarks
 null

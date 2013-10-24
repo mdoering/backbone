@@ -1,5 +1,4 @@
-Septoria rechingeri Petr. SPECIES
-=======
+# Septoria rechingeri Petr. SPECIES
 
 #### Status
 ACCEPTED

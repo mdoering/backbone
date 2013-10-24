@@ -1,5 +1,4 @@
-Scytonematopsis pilosa (Harvey ex Bornet & Flahault) I. Umezaki & M. Watanabe SPECIES
-=======
+# Scytonematopsis pilosa (Harvey ex Bornet & Flahault) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

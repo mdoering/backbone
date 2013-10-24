@@ -1,5 +1,4 @@
-Septoria typhae Sawada SPECIES
-=======
+# Septoria typhae Sawada SPECIES
 
 #### Status
 ACCEPTED

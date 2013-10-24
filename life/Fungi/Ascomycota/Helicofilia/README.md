@@ -1,5 +1,4 @@
-Helicofilia Matsush. GENUS
-=======
+# Helicofilia Matsush. GENUS
 
 #### Status
 ACCEPTED

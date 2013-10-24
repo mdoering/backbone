@@ -1,5 +1,4 @@
-Lophionema cylindrosporum Kauffman SPECIES
-=======
+# Lophionema cylindrosporum Kauffman SPECIES
 
 #### Status
 ACCEPTED

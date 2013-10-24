@@ -1,5 +1,4 @@
-Laboulbenia perpendicularis Thaxt. SPECIES
-=======
+# Laboulbenia perpendicularis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

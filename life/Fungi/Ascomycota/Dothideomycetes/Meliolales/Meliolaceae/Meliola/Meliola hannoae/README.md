@@ -1,5 +1,4 @@
-Meliola hannoae Deighton SPECIES
-=======
+# Meliola hannoae Deighton SPECIES
 
 #### Status
 ACCEPTED

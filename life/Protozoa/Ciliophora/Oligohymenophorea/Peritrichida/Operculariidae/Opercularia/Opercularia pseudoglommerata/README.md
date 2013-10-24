@@ -1,5 +1,4 @@
-Opercularia pseudoglommerata SPECIES
-=======
+# Opercularia pseudoglommerata SPECIES
 
 #### Status
 ACCEPTED

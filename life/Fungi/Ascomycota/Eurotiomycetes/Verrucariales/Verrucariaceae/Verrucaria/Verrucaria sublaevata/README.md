@@ -1,5 +1,4 @@
-Verrucaria sublaevata Müll. Arg. SPECIES
-=======
+# Verrucaria sublaevata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

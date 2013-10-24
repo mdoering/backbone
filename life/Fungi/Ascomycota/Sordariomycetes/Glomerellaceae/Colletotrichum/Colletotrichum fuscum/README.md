@@ -1,5 +1,4 @@
-Colletotrichum fuscum Laubert, 1927 SPECIES
-=======
+# Colletotrichum fuscum Laubert, 1927 SPECIES
 
 #### Status
 ACCEPTED

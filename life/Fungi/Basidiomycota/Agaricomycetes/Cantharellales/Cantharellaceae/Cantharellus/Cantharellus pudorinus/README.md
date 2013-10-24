@@ -1,5 +1,4 @@
-Cantharellus pudorinus Corner SPECIES
-=======
+# Cantharellus pudorinus Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius inaquosi Desjardin SPECIES
-=======
+# Marasmius inaquosi Desjardin SPECIES
 
 #### Status
 ACCEPTED

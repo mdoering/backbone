@@ -1,5 +1,4 @@
-Macrophoma photiniae Bubák SPECIES
-=======
+# Macrophoma photiniae Bubák SPECIES
 
 #### Status
 ACCEPTED

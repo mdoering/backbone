@@ -1,5 +1,4 @@
-Elsinoë eucalyptorum Crous & Summerell, 2006 SPECIES
-=======
+# Elsinoë eucalyptorum Crous & Summerell, 2006 SPECIES
 
 #### Status
 ACCEPTED

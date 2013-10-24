@@ -1,5 +1,4 @@
-Spicariopsis GENUS
-=======
+# Spicariopsis GENUS
 
 #### Status
 ACCEPTED

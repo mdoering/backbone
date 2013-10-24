@@ -1,5 +1,4 @@
-Boletus rawlingsii McNabb, 1968 SPECIES
-=======
+# Boletus rawlingsii McNabb, 1968 SPECIES
 
 #### Status
 ACCEPTED

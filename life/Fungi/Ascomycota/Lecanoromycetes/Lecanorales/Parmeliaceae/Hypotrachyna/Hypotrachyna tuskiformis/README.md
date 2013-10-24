@@ -1,5 +1,4 @@
-Hypotrachyna tuskiformis (Elix) Benatti & Marcelli SPECIES
-=======
+# Hypotrachyna tuskiformis (Elix) Benatti & Marcelli SPECIES
 
 #### Status
 ACCEPTED

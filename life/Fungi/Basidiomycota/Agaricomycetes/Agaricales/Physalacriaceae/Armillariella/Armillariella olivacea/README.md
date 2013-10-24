@@ -1,5 +1,4 @@
-Armillariella olivacea (Rick) Singer SPECIES
-=======
+# Armillariella olivacea (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

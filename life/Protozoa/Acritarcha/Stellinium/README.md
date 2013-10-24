@@ -1,5 +1,4 @@
-Stellinium S. Jardin, A. Combaz, L. Magloire, G. Peniguel & G. Vachey, 1972 GENUS
-=======
+# Stellinium S. Jardin, A. Combaz, L. Magloire, G. Peniguel & G. Vachey, 1972 GENUS
 
 #### Status
 ACCEPTED

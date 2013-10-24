@@ -1,5 +1,4 @@
-Calyptocoryphe Foreman, 1968 GENUS
-=======
+# Calyptocoryphe Foreman, 1968 GENUS
 
 #### Status
 ACCEPTED

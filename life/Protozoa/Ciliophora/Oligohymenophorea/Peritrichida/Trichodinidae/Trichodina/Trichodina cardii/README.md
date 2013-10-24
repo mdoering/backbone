@@ -1,5 +1,4 @@
-Trichodina cardii (Delphy, 1838) Uzmann & Stickney, 1954 SPECIES
-=======
+# Trichodina cardii (Delphy, 1838) Uzmann & Stickney, 1954 SPECIES
 
 #### Status
 ACCEPTED

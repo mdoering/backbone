@@ -1,5 +1,4 @@
-Polysporinopsis rugulosa (Körb.) Vezda SPECIES
-=======
+# Polysporinopsis rugulosa (Körb.) Vezda SPECIES
 
 #### Status
 ACCEPTED

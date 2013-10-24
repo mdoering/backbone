@@ -1,5 +1,4 @@
-Uncinula crataegi Bunkina SPECIES
-=======
+# Uncinula crataegi Bunkina SPECIES
 
 #### Status
 ACCEPTED

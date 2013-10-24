@@ -1,5 +1,4 @@
-Septosporium graminum Hoffm. SPECIES
-=======
+# Septosporium graminum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

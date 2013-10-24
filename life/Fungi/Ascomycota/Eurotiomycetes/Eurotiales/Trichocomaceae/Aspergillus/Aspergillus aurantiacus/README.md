@@ -1,5 +1,4 @@
-Aspergillus aurantiacus (Desm.) Berk. SPECIES
-=======
+# Aspergillus aurantiacus (Desm.) Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Radulochaete horridula (Rick) Rick SPECIES
-=======
+# Radulochaete horridula (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

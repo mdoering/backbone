@@ -1,5 +1,4 @@
-Flammula austera Fr. SPECIES
-=======
+# Flammula austera Fr. SPECIES
 
 #### Status
 ACCEPTED

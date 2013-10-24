@@ -1,5 +1,4 @@
-Buellia pruinella Imshaug SPECIES
-=======
+# Buellia pruinella Imshaug SPECIES
 
 #### Status
 ACCEPTED

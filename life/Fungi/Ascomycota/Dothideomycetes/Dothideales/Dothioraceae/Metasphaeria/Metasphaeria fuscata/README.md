@@ -1,5 +1,4 @@
-Metasphaeria fuscata Ellis & Everh. SPECIES
-=======
+# Metasphaeria fuscata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeolecta GENUS
-=======
+# Gloeolecta GENUS
 
 #### Status
 ACCEPTED

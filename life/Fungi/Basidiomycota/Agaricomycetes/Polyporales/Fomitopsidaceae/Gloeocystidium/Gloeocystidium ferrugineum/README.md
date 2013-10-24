@@ -1,5 +1,4 @@
-Gloeocystidium ferrugineum Rick SPECIES
-=======
+# Gloeocystidium ferrugineum Rick SPECIES
 
 #### Status
 ACCEPTED

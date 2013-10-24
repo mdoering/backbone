@@ -1,5 +1,4 @@
-Lichen miscellus Sm. SPECIES
-=======
+# Lichen miscellus Sm. SPECIES
 
 #### Status
 ACCEPTED

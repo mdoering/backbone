@@ -1,5 +1,4 @@
-Puccinia capsici Av.-Saccá SPECIES
-=======
+# Puccinia capsici Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

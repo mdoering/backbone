@@ -1,5 +1,4 @@
-Cumulospora I. Schmidt GENUS
-=======
+# Cumulospora I. Schmidt GENUS
 
 #### Status
 ACCEPTED

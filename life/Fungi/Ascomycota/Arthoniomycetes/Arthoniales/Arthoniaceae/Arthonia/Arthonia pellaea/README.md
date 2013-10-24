@@ -1,5 +1,4 @@
-Arthonia pellaea Leight. SPECIES
-=======
+# Arthonia pellaea Leight. SPECIES
 
 #### Status
 ACCEPTED

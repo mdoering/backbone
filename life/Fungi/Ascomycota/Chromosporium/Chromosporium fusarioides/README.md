@@ -1,5 +1,4 @@
-Chromosporium fusarioides P. Karst. SPECIES
-=======
+# Chromosporium fusarioides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

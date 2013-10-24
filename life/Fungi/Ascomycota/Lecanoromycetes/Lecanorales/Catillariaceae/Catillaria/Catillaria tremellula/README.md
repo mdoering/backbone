@@ -1,5 +1,4 @@
-Catillaria tremellula (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria tremellula (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

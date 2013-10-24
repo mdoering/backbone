@@ -1,5 +1,4 @@
-Orphella coronata L. Léger & M. Gauthier, 1931 SPECIES
-=======
+# Orphella coronata L. Léger & M. Gauthier, 1931 SPECIES
 
 #### Status
 ACCEPTED

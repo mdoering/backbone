@@ -1,5 +1,4 @@
-Colletotrichum bauhiniae Gutner SPECIES
-=======
+# Colletotrichum bauhiniae Gutner SPECIES
 
 #### Status
 ACCEPTED

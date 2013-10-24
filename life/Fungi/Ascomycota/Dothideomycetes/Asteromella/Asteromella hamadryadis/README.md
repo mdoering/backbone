@@ -1,5 +1,4 @@
-Asteromella hamadryadis (Speg.) Vanev & Aa SPECIES
-=======
+# Asteromella hamadryadis (Speg.) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

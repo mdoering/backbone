@@ -1,5 +1,4 @@
-Cryptostictis inaequalis Tehon & G.L. Stout SPECIES
-=======
+# Cryptostictis inaequalis Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma eleocharidis (Arthur) Kuntze SPECIES
-=======
+# Dicaeoma eleocharidis (Arthur) Kuntze SPECIES
 
 #### Status
 ACCEPTED

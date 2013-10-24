@@ -1,5 +1,4 @@
-Monopycnis crataegi Naumov SPECIES
-=======
+# Monopycnis crataegi Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta bellidicola Nelen SPECIES
-=======
+# Phyllosticta bellidicola Nelen SPECIES
 
 #### Status
 ACCEPTED

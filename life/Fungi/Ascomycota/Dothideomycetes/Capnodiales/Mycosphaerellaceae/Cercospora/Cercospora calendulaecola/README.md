@@ -1,5 +1,4 @@
-Cercospora calendulaecola Narayan, Kharwar & R.K. Singh SPECIES
-=======
+# Cercospora calendulaecola Narayan, Kharwar & R.K. Singh SPECIES
 
 #### Status
 ACCEPTED

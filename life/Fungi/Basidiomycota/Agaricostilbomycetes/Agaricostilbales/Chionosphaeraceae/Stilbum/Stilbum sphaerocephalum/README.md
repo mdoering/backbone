@@ -1,5 +1,4 @@
-Stilbum sphaerocephalum Massee SPECIES
-=======
+# Stilbum sphaerocephalum Massee SPECIES
 
 #### Status
 ACCEPTED

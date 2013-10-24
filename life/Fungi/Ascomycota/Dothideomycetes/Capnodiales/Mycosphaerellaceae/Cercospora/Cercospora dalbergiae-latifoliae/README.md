@@ -1,5 +1,4 @@
-Cercospora dalbergiae-latifoliae Chidd. SPECIES
-=======
+# Cercospora dalbergiae-latifoliae Chidd. SPECIES
 
 #### Status
 ACCEPTED

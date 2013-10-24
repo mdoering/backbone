@@ -1,5 +1,4 @@
-Coronophora occulta (G.H. Otth) Sacc. & P. Syd. SPECIES
-=======
+# Coronophora occulta (G.H. Otth) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

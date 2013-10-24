@@ -1,5 +1,4 @@
-Uredo gardeniicola Kakish. & Tak. Kobay. SPECIES
-=======
+# Uredo gardeniicola Kakish. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

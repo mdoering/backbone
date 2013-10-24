@@ -1,5 +1,4 @@
-Phaeomarasmius infidus Corner & E. Horak SPECIES
-=======
+# Phaeomarasmius infidus Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

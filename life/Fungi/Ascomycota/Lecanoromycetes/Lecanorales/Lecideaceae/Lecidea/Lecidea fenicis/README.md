@@ -1,8 +1,7 @@
-Lecidea fénicis Vain. SPECIES
-=======
+# Lecidea fenicis Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea fénicis Vain.
+Lecidea fenicis Vain.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Calonectria apoensis Petr. SPECIES
-=======
+# Calonectria apoensis Petr. SPECIES
 
 #### Status
 ACCEPTED

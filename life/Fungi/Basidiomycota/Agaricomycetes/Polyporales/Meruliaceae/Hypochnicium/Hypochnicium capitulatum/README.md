@@ -1,5 +1,4 @@
-Hypochnicium capitulatum Boidin & Gilles SPECIES
-=======
+# Hypochnicium capitulatum Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

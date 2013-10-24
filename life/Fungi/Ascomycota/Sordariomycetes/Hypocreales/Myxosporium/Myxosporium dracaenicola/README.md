@@ -1,5 +1,4 @@
-Myxosporium dracaenicola Berk. & Broome SPECIES
-=======
+# Myxosporium dracaenicola Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

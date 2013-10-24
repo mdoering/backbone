@@ -1,5 +1,4 @@
-Imbricaria physodes f. physodes FORM
-=======
+# Hypogymnia physodes (L.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lich. Envir. Paris 39 (1896)
 
 #### Original name
 Lichen physodes L.

@@ -1,5 +1,4 @@
-Heteroconium arundicum Chowdhry SPECIES
-=======
+# Heteroconium arundicum Chowdhry SPECIES
 
 #### Status
 ACCEPTED

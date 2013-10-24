@@ -1,5 +1,4 @@
-Lagenophrys lunatus Imamura, 1940 SPECIES
-=======
+# Lagenophrys lunatus Imamura, 1940 SPECIES
 
 #### Status
 ACCEPTED

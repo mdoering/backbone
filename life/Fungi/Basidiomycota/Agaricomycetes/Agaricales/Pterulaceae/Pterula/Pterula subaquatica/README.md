@@ -1,5 +1,4 @@
-Pterula subaquatica Bres. & Roum. SPECIES
-=======
+# Pterula subaquatica Bres. & Roum. SPECIES
 
 #### Status
 ACCEPTED

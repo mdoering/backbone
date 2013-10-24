@@ -1,5 +1,4 @@
-Merulius ramealis (Jungh.) Kuntze SPECIES
-=======
+# Merulius ramealis (Jungh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

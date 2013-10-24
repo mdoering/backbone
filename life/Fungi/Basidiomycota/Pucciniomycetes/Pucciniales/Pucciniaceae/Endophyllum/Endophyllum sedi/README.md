@@ -1,5 +1,4 @@
-Endophyllum sedi (DC.) Lév., 1825 SPECIES
-=======
+# Endophyllum sedi (DC.) Lév., 1825 SPECIES
 
 #### Status
 ACCEPTED

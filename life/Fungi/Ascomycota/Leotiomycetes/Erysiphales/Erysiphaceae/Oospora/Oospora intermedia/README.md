@@ -1,5 +1,4 @@
-Oospora intermedia W. Krüger SPECIES
-=======
+# Oospora intermedia W. Krüger SPECIES
 
 #### Status
 ACCEPTED

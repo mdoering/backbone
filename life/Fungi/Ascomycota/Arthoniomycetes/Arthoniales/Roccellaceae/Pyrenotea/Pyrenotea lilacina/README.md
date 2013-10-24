@@ -1,5 +1,4 @@
-Pyrenotea lilacina (Ach.) Stenh. SPECIES
-=======
+# Pyrenotea lilacina (Ach.) Stenh. SPECIES
 
 #### Status
 ACCEPTED

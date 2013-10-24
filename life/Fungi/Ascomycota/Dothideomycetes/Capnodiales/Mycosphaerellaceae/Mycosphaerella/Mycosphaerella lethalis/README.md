@@ -1,5 +1,4 @@
-Mycosphaerella lethalis R. Stone SPECIES
-=======
+# Mycosphaerella lethalis R. Stone SPECIES
 
 #### Status
 ACCEPTED

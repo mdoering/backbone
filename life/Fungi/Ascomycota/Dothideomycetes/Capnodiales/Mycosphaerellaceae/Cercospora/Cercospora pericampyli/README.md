@@ -1,5 +1,4 @@
-Cercospora pericampyli Munjal, Lall & Chona SPECIES
-=======
+# Cercospora pericampyli Munjal, Lall & Chona SPECIES
 
 #### Status
 ACCEPTED

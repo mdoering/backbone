@@ -1,5 +1,4 @@
-Ascobolus dadei A.E. Bell & Mahoney, 2005 SPECIES
-=======
+# Ascobolus dadei A.E. Bell & Mahoney, 2005 SPECIES
 
 #### Status
 ACCEPTED

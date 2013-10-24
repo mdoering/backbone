@@ -1,5 +1,4 @@
-Corethromyces brachyglutae (Siemaszko) Thaxt. SPECIES
-=======
+# Corethromyces brachyglutae (Siemaszko) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

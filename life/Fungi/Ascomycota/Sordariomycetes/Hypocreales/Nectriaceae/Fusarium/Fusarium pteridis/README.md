@@ -1,5 +1,4 @@
-Fusarium pteridis Ellis & Everh. SPECIES
-=======
+# Fusarium pteridis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

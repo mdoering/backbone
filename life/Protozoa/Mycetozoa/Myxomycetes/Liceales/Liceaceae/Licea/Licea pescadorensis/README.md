@@ -1,5 +1,4 @@
-Licea pescadorensis Chao H. Chung & C.H. Liu, 1996 SPECIES
-=======
+# Licea pescadorensis Chao H. Chung & C.H. Liu, 1996 SPECIES
 
 #### Status
 ACCEPTED

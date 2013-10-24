@@ -1,5 +1,4 @@
-Epicoccum panici Gonz. Frag. SPECIES
-=======
+# Epicoccum panici Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

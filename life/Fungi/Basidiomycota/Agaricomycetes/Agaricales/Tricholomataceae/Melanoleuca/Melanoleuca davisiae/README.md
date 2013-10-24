@@ -1,5 +1,4 @@
-Melanoleuca davisiae (Peck) Murrill SPECIES
-=======
+# Melanoleuca davisiae (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium aureolum (E. M. Hulburt) G. Hansen SPECIES
-=======
+# Gymnodinium aureolum (E. M. Hulburt) G. Hansen SPECIES
 
 #### Status
 ACCEPTED

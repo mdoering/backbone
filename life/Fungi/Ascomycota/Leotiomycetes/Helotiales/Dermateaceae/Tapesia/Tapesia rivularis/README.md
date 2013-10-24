@@ -1,5 +1,4 @@
-Tapesia rivularis Svrcek SPECIES
-=======
+# Tapesia rivularis Svrcek SPECIES
 
 #### Status
 ACCEPTED

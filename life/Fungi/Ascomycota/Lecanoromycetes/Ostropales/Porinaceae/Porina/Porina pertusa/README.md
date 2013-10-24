@@ -1,17 +1,16 @@
-Porina pertusa var. pertusa VARIETY
-=======
+# Porina pertusa SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Porina pertusa var. pertusa
+null
 
 ### Remarks
 null

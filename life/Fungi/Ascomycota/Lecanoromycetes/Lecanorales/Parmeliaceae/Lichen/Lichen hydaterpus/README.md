@@ -1,5 +1,4 @@
-Lichen hydaterpus Ach. SPECIES
-=======
+# Lichen hydaterpus Ach. SPECIES
 
 #### Status
 ACCEPTED

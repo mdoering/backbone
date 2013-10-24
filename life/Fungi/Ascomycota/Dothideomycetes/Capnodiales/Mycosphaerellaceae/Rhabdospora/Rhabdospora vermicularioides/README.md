@@ -1,5 +1,4 @@
-Rhabdospora vermicularioides Dietel & P. Syd. SPECIES
-=======
+# Rhabdospora vermicularioides Dietel & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

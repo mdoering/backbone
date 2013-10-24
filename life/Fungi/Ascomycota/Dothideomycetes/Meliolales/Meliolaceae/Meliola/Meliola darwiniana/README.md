@@ -1,5 +1,4 @@
-Meliola darwiniana Mibey SPECIES
-=======
+# Meliola darwiniana Mibey SPECIES
 
 #### Status
 ACCEPTED

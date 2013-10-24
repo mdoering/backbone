@@ -1,5 +1,4 @@
-Agaricodochium camelliae X.J. Liu, A.J. Wei & S.G. Fan, 1981 SPECIES
-=======
+# Agaricodochium camelliae X.J. Liu, A.J. Wei & S.G. Fan, 1981 SPECIES
 
 #### Status
 ACCEPTED

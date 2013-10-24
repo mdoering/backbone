@@ -1,5 +1,4 @@
-Cordyceps nigriceps Peck SPECIES
-=======
+# Cordyceps nigriceps Peck SPECIES
 
 #### Status
 ACCEPTED

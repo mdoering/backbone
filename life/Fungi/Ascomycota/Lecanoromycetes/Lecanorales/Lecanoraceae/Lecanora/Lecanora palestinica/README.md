@@ -1,5 +1,4 @@
-Lecanora palestinica Räsänen SPECIES
-=======
+# Lecanora palestinica Räsänen SPECIES
 
 #### Status
 ACCEPTED

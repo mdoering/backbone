@@ -1,17 +1,16 @@
-Parmeliomyces E.A. Thomas ex Cif. & Tomas. GENUS
-=======
+# Parmelina Hale, 1974 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 43, 69 (1953)
+Phytologia 28(5): 481 (1974)
 
 #### Original name
-Parmeliomyces E.A. Thomas ex Cif. & Tomas.
+Parmelina Hale, 1974
 
 ### Remarks
 null

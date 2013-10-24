@@ -1,5 +1,4 @@
-Polyascomyces trichophyae Thaxt., 1900 SPECIES
-=======
+# Polyascomyces trichophyae Thaxt., 1900 SPECIES
 
 #### Status
 ACCEPTED

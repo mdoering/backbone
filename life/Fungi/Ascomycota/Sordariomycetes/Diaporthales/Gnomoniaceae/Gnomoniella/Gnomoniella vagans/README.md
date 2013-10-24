@@ -1,5 +1,4 @@
-Gnomoniella vagans Johanson SPECIES
-=======
+# Gnomoniella vagans Johanson SPECIES
 
 #### Status
 ACCEPTED

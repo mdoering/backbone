@@ -1,5 +1,4 @@
-Uromyces puttemansii Rangel SPECIES
-=======
+# Uromyces puttemansii Rangel SPECIES
 
 #### Status
 ACCEPTED

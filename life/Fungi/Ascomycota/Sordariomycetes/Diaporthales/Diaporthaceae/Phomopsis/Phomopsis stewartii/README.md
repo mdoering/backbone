@@ -1,5 +1,4 @@
-Phomopsis stewartii Peck SPECIES
-=======
+# Phomopsis stewartii Peck SPECIES
 
 #### Status
 ACCEPTED

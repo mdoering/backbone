@@ -1,5 +1,4 @@
-Usnea hereroensis (Vain.) Darb. SPECIES
-=======
+# Usnea hereroensis (Vain.) Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria calycophylli Speg. SPECIES
-=======
+# Septoria calycophylli Speg. SPECIES
 
 #### Status
 ACCEPTED

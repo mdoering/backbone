@@ -1,5 +1,4 @@
-Corticium kalchbrenneri Massee SPECIES
-=======
+# Corticium kalchbrenneri Massee SPECIES
 
 #### Status
 ACCEPTED

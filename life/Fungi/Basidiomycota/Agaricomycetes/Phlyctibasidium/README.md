@@ -1,5 +1,4 @@
-Phlyctibasidium Jülich GENUS
-=======
+# Phlyctibasidium Jülich GENUS
 
 #### Status
 ACCEPTED

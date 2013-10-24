@@ -1,5 +1,4 @@
-Spondylocladium tenellum Peck SPECIES
-=======
+# Spondylocladium tenellum Peck SPECIES
 
 #### Status
 ACCEPTED

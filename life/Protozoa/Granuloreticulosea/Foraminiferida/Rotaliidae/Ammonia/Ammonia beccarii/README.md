@@ -1,5 +1,4 @@
-Ammonia beccarii agg. tepida INFRASPECIFIC_NAME
-=======
+# Ammonia beccarii (Linne) SPECIES
 
 #### Status
 ACCEPTED

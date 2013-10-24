@@ -1,14 +1,13 @@
-Cantharus Montfort, 1808 GENUS
-=======
+# Polymorphina d'Orbigny, 1826 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Conch. , 1, 298.
+Ann. Sci. Nat. , 7 (27), 265.
 
 #### Original name
 null

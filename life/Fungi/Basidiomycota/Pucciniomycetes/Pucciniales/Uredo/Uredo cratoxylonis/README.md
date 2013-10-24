@@ -1,5 +1,4 @@
-Uredo cratoxylonis Arthur & Cummins SPECIES
-=======
+# Uredo cratoxylonis Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

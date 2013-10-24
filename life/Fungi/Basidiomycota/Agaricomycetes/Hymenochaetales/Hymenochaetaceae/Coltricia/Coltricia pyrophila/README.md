@@ -1,14 +1,13 @@
-Polyporus pyrophilus Wakef., 1916 SPECIES
-=======
+# Coltricia pyrophila (Wakef.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 71 (1916)
+Norw. Jl Bot. 19: 231 (1972)
 
 #### Original name
 Polyporus pyrophilus Wakef., 1916

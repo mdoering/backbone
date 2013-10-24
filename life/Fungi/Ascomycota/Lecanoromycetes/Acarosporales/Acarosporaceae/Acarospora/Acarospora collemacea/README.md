@@ -1,5 +1,4 @@
-Acarospora collemacea Wedd. SPECIES
-=======
+# Acarospora collemacea Wedd. SPECIES
 
 #### Status
 ACCEPTED

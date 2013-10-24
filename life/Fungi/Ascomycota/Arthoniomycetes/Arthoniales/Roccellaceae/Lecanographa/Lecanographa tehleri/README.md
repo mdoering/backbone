@@ -1,5 +1,4 @@
-Lecanographa tehleri Egea, Sérus., Torrente & Wessels SPECIES
-=======
+# Lecanographa tehleri Egea, Sérus., Torrente & Wessels SPECIES
 
 #### Status
 ACCEPTED

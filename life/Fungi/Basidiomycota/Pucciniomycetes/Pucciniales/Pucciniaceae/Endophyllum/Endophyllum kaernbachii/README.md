@@ -1,5 +1,4 @@
-Endophyllum kaernbachii (Henn.) F. Stevens & Mendiola, 1931 SPECIES
-=======
+# Endophyllum kaernbachii (Henn.) F. Stevens & Mendiola, 1931 SPECIES
 
 #### Status
 ACCEPTED

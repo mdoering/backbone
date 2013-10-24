@@ -1,5 +1,4 @@
-Capnodium usteri Rehm SPECIES
-=======
+# Capnodium usteri Rehm SPECIES
 
 #### Status
 ACCEPTED

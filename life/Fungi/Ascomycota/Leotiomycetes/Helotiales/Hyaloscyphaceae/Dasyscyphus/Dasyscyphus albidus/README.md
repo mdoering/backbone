@@ -1,5 +1,4 @@
-Dasyscyphus albidus (Penz. & Sacc.) Dennis SPECIES
-=======
+# Dasyscyphus albidus (Penz. & Sacc.) Dennis SPECIES
 
 #### Status
 ACCEPTED

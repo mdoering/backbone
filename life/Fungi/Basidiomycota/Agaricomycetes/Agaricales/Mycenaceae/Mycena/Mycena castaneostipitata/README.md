@@ -1,5 +1,4 @@
-Mycena castaneostipitata Singer SPECIES
-=======
+# Mycena castaneostipitata Singer SPECIES
 
 #### Status
 ACCEPTED

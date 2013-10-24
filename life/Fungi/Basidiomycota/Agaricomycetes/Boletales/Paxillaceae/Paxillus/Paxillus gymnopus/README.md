@@ -1,5 +1,4 @@
-Paxillus gymnopus C. Hahn SPECIES
-=======
+# Paxillus gymnopus C. Hahn SPECIES
 
 #### Status
 ACCEPTED

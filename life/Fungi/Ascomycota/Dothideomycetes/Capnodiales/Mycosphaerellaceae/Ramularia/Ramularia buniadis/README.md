@@ -1,5 +1,4 @@
-Ramularia buniadis Vestergr. SPECIES
-=======
+# Ramularia buniadis Vestergr. SPECIES
 
 #### Status
 ACCEPTED

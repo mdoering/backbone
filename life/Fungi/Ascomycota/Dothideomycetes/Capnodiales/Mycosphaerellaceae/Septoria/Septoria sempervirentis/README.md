@@ -1,5 +1,4 @@
-Septoria sempervirentis Durieu & Mont. SPECIES
-=======
+# Septoria sempervirentis Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

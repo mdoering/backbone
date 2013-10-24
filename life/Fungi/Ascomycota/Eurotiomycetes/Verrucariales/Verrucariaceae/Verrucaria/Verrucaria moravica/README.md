@@ -1,5 +1,4 @@
-Verrucaria moravica Servít SPECIES
-=======
+# Verrucaria moravica Servít SPECIES
 
 #### Status
 ACCEPTED

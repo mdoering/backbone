@@ -1,5 +1,4 @@
-Lachnella viticola Gonz. Frag. SPECIES
-=======
+# Lachnella viticola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

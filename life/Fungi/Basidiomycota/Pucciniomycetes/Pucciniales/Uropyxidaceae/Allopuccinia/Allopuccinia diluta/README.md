@@ -1,5 +1,4 @@
-Allopuccinia diluta H.S. Jacks. & Holw. SPECIES
-=======
+# Allopuccinia diluta H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

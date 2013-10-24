@@ -1,5 +1,4 @@
-Vararia perplexa Boidin, Lanq. & Gilles, 1980 SPECIES
-=======
+# Vararia perplexa Boidin, Lanq. & Gilles, 1980 SPECIES
 
 #### Status
 ACCEPTED

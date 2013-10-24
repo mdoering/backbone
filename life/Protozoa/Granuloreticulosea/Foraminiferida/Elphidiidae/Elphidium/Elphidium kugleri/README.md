@@ -1,5 +1,4 @@
-Elphidium kugleri (Cushman & Brönnimann, 1948) SPECIES
-=======
+# Elphidium kugleri (Cushman & Brönnimann, 1948) SPECIES
 
 #### Status
 ACCEPTED

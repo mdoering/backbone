@@ -1,5 +1,4 @@
-Cyphella straminea J. Schröt. SPECIES
-=======
+# Cyphella straminea J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

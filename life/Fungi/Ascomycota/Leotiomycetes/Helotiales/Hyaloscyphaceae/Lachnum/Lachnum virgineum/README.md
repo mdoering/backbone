@@ -1,17 +1,16 @@
-Dasyscyphus virgineus var. virgineus VARIETY
-=======
+# Lachnum virgineum (Batsch) P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Arr. Brit. Pl. (London) 1: 671 (1821)
+Bidr. Känn. Finl. Nat. Folk 19: 169 (1871)
 
 #### Original name
-Dasyscyphus virgineus var. virgineus
+null
 
 ### Remarks
 null

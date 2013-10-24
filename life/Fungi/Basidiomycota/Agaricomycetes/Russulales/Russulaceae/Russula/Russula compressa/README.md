@@ -1,5 +1,4 @@
-Russula compressa Buyck SPECIES
-=======
+# Russula compressa Buyck SPECIES
 
 #### Status
 ACCEPTED

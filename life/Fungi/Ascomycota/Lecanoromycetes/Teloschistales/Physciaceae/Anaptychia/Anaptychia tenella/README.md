@@ -1,5 +1,4 @@
-Anaptychia tenella SPECIES
-=======
+# Anaptychia tenella SPECIES
 
 #### Status
 ACCEPTED

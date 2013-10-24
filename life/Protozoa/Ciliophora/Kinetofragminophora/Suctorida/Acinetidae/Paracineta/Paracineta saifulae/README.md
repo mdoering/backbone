@@ -1,8 +1,7 @@
-Acineta saifulae Mereschkowsky, 1877 SPECIES
-=======
+# Paracineta saifulae (Mereschkowsky, 1877) Dovgal, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

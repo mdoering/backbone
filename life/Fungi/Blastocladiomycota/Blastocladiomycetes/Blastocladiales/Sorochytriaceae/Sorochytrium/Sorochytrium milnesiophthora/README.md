@@ -1,5 +1,4 @@
-Sorochytrium milnesiophthora Dewel, 1985 SPECIES
-=======
+# Sorochytrium milnesiophthora Dewel, 1985 SPECIES
 
 #### Status
 ACCEPTED

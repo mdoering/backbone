@@ -1,5 +1,4 @@
-Fucus areschougii f. nanus Kjellman FORM
-=======
+# Fucus areschougii Kjellman SPECIES
 
 #### Status
 ACCEPTED

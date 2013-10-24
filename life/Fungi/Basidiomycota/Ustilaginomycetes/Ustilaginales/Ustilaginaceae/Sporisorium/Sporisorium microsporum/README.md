@@ -1,5 +1,4 @@
-Sporisorium microsporum (J. Schröt. & Henn.) M. Piepenbr. SPECIES
-=======
+# Sporisorium microsporum (J. Schröt. & Henn.) M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

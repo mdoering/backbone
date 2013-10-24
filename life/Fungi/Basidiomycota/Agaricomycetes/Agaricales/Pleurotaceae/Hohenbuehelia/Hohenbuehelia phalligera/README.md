@@ -1,5 +1,4 @@
-Hohenbuehelia phalligera (Mont.) Singer SPECIES
-=======
+# Hohenbuehelia phalligera (Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

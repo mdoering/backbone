@@ -1,5 +1,4 @@
-Chlorocloster pyrenigera Pascher SPECIES
-=======
+# Chlorocloster pyrenigera Pascher SPECIES
 
 #### Status
 ACCEPTED

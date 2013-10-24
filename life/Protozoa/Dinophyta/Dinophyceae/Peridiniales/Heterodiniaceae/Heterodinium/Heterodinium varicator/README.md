@@ -1,5 +1,4 @@
-Heterodinium varicator Kofoid & Adamson, 1933 SPECIES
-=======
+# Heterodinium varicator Kofoid & Adamson, 1933 SPECIES
 
 #### Status
 ACCEPTED

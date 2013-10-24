@@ -1,5 +1,4 @@
-Trimosina otukai Uchio, 1953 SPECIES
-=======
+# Trimosina otukai Uchio, 1953 SPECIES
 
 #### Status
 ACCEPTED

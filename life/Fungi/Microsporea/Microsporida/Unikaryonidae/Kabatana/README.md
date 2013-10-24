@@ -1,5 +1,4 @@
-Kabatana J. Lom, I. Dyková & K. Tonguthai GENUS
-=======
+# Kabatana J. Lom, I. Dyková & K. Tonguthai GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus hamatus Schumach. SPECIES
-=======
+# Agaricus hamatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

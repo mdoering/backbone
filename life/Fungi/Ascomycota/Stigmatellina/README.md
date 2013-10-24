@@ -1,5 +1,4 @@
-Stigmatellina Bat. & H. Maia GENUS
-=======
+# Stigmatellina Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

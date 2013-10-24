@@ -1,17 +1,16 @@
-Meliolina novae-zealandiae Hansf. SPECIES
-=======
+# Meliolina novae-zelandiae Hansf., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Linn. Soc. N. S. W. 79(3/4): 99 (1954)
 
 #### Original name
-Meliolina novae-zealandiae Hansf.
+Meliolina novae-zelandiae Hansf., 1954
 
 ### Remarks
 null

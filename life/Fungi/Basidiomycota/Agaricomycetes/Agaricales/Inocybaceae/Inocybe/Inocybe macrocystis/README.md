@@ -1,5 +1,4 @@
-Inocybe macrocystis Velen. SPECIES
-=======
+# Inocybe macrocystis Velen. SPECIES
 
 #### Status
 ACCEPTED

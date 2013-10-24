@@ -1,5 +1,4 @@
-Vorticella nana Kahl, 1933 SPECIES
-=======
+# Vorticella nana Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

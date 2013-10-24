@@ -1,5 +1,4 @@
-Xanthoria subelegans (Nyl.) Tav. & Poelt SPECIES
-=======
+# Xanthoria subelegans (Nyl.) Tav. & Poelt SPECIES
 
 #### Status
 ACCEPTED

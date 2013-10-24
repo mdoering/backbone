@@ -1,5 +1,4 @@
-Eimeria glossogobii Mukherjee & Haldar, 1980 SPECIES
-=======
+# Eimeria glossogobii Mukherjee & Haldar, 1980 SPECIES
 
 #### Status
 ACCEPTED

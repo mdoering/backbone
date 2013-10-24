@@ -1,5 +1,4 @@
-Goosiomyces N.K. Rao & Manohar. GENUS
-=======
+# Goosiomyces N.K. Rao & Manohar. GENUS
 
 #### Status
 ACCEPTED

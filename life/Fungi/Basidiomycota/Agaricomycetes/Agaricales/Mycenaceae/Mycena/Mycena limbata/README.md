@@ -1,5 +1,4 @@
-Mycena limbata Lasch SPECIES
-=======
+# Mycena limbata Lasch SPECIES
 
 #### Status
 ACCEPTED

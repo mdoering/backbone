@@ -1,8 +1,7 @@
-Amycolata hydrocarbonoxydans (Nolof & Hirsch, 1962) Lechevalier et al., 1986 SPECIES
-=======
+# Pseudonocardia hydrocarbonoxydans (Nolof & Hirsch, 1962) Warwick et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

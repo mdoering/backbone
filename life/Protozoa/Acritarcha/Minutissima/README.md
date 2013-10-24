@@ -1,5 +1,4 @@
-Minutissima Naumova in Naumova & Pavlovski, 1961 GENUS
-=======
+# Minutissima Naumova in Naumova & Pavlovski, 1961 GENUS
 
 #### Status
 ACCEPTED

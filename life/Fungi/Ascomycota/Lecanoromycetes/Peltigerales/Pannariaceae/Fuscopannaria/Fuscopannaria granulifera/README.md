@@ -1,5 +1,4 @@
-Fuscopannaria granulifera P. M. Jørg. & Upreti SPECIES
-=======
+# Fuscopannaria granulifera P. M. Jørg. & Upreti SPECIES
 
 #### Status
 ACCEPTED

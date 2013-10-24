@@ -1,5 +1,4 @@
-Aecidium shansiense Petr. SPECIES
-=======
+# Aecidium shansiense Petr. SPECIES
 
 #### Status
 ACCEPTED

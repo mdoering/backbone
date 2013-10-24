@@ -1,5 +1,4 @@
-Asterina lobeliae Hansf. SPECIES
-=======
+# Asterina lobeliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma resedae Oudem. SPECIES
-=======
+# Phoma resedae Oudem. SPECIES
 
 #### Status
 ACCEPTED

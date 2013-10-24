@@ -1,17 +1,16 @@
-Pseudoparmelia annexa (Kurok.) Hale SPECIES
-=======
+# Xanthoparmelia annexa (Kurok.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 87: 397 (2003)
 
 #### Original name
-null
+Parmelia annexa Kurok.
 
 ### Remarks
 null

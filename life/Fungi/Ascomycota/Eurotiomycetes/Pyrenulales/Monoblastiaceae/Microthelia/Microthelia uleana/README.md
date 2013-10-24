@@ -1,5 +1,4 @@
-Microthelia uleana SPECIES
-=======
+# Microthelia uleana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia gaultheriae Dearn. & House SPECIES
-=======
+# Pestalotia gaultheriae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Tephrocybe semiustum (Singer) Raithelh. SPECIES
-=======
+# Tephrocybe semiusta (Singer) Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Metrodiana 19(2): 56 (1992)
 
 #### Original name
 Lyophyllum semiustum Singer

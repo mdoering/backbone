@@ -1,8 +1,7 @@
-Montagnites spegazzini Sacc. & Trotter SPECIES
-=======
+# Montagnites spegazzinii Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Montagnites spegazzini Sacc. & Trotter
+Montagnites spegazzinii Sacc. & Trotter
 
 ### Remarks
 null

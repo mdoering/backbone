@@ -1,5 +1,4 @@
-Bibanasiella R.F. Castañeda & W.B. Kendr. GENUS
-=======
+# Bibanasiella R.F. Castañeda & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

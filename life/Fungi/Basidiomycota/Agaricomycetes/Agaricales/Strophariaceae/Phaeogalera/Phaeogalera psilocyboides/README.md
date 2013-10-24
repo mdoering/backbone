@@ -1,5 +1,4 @@
-Phaeogalera psilocyboides (Maire) Bon SPECIES
-=======
+# Phaeogalera psilocyboides (Maire) Bon SPECIES
 
 #### Status
 ACCEPTED

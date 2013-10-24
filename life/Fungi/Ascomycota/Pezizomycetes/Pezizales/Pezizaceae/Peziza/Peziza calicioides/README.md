@@ -1,5 +1,4 @@
-Peziza calicioides DC. SPECIES
-=======
+# Peziza calicioides DC. SPECIES
 
 #### Status
 ACCEPTED

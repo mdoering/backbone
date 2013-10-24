@@ -1,5 +1,4 @@
-Pseudometacylis Balech, 1968 GENUS
-=======
+# Pseudometacylis Balech, 1968 GENUS
 
 #### Status
 ACCEPTED

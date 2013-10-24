@@ -1,5 +1,4 @@
-Dicaeoma baccharidis (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Dicaeoma baccharidis (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

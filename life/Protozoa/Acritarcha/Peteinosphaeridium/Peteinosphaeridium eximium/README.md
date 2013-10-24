@@ -1,5 +1,4 @@
-Peteinosphaeridium eximium Playford, Ribecai & Tongiorgi, 1995 SPECIES
-=======
+# Peteinosphaeridium eximium Playford, Ribecai & Tongiorgi, 1995 SPECIES
 
 #### Status
 ACCEPTED

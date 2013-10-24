@@ -1,5 +1,4 @@
-Stictis oleae De Not. SPECIES
-=======
+# Stictis oleae De Not. SPECIES
 
 #### Status
 ACCEPTED

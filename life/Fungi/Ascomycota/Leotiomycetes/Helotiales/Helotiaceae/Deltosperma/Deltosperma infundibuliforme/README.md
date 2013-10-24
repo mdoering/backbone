@@ -1,17 +1,16 @@
-Deltosperma infundibuliformis W.Y. Zhuang SPECIES
-=======
+# Deltosperma infundibuliforme W.Y. Zhuang, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 32(1): 42 (1988)
 
 #### Original name
-Deltosperma infundibuliformis W.Y. Zhuang
+Deltosperma infundibuliforme W.Y. Zhuang, 1988
 
 ### Remarks
 null

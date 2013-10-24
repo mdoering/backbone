@@ -1,5 +1,4 @@
-Tyromyces cinnamomeiporus Corner SPECIES
-=======
+# Tyromyces cinnamomeiporus Corner SPECIES
 
 #### Status
 ACCEPTED

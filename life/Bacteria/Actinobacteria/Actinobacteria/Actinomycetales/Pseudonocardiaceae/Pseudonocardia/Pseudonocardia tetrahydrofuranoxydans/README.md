@@ -1,5 +1,4 @@
-Pseudonocardia tetrahydrofuranoxydans Kämpfer et al., 2006 SPECIES
-=======
+# Pseudonocardia tetrahydrofuranoxydans Kämpfer et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

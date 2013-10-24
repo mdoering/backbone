@@ -1,5 +1,4 @@
-Irenopsis crotonis (F. Stevens & Tehon) F. Stevens SPECIES
-=======
+# Irenopsis crotonis (F. Stevens & Tehon) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia malvastri Linder SPECIES
-=======
+# Ramularia malvastri Linder SPECIES
 
 #### Status
 ACCEPTED

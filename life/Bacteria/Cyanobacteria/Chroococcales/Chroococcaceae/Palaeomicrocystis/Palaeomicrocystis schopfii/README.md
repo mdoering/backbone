@@ -1,5 +1,4 @@
-Palaeomicrocystis schopfii P. K. Maithy SPECIES
-=======
+# Palaeomicrocystis schopfii P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

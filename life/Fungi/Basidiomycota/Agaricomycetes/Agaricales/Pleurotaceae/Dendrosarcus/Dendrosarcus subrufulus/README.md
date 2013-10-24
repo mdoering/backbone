@@ -1,5 +1,4 @@
-Dendrosarcus subrufulus (P. Karst.) Kuntze SPECIES
-=======
+# Dendrosarcus subrufulus (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cribrolenticulina akersi Haman, 1978 SPECIES
-=======
+# Cribrolenticulina akersi Haman, 1978 SPECIES
 
 #### Status
 ACCEPTED

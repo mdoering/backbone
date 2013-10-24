@@ -1,5 +1,4 @@
-Parmelia ecklonii Samp. SPECIES
-=======
+# Parmelia ecklonii Samp. SPECIES
 
 #### Status
 ACCEPTED

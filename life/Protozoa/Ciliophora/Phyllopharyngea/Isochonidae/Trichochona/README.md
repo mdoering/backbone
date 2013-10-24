@@ -1,5 +1,4 @@
-Trichochona Mohr, 1948 GENUS
-=======
+# Trichochona Mohr, 1948 GENUS
 
 #### Status
 ACCEPTED

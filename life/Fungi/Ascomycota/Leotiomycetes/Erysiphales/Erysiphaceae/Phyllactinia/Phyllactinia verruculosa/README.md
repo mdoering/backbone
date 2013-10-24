@@ -1,5 +1,4 @@
-Phyllactinia verruculosa D.Z. Xie SPECIES
-=======
+# Phyllactinia verruculosa D.Z. Xie SPECIES
 
 #### Status
 ACCEPTED

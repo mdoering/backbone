@@ -1,14 +1,13 @@
-Clathrus triscapus (Turpin) Fr., 1823 SPECIES
-=======
+# Laternea triscapa Turpin, 1822 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 2(2): 287 (1823)
+Dict. Sci. Nat. 25: (1822)
 
 #### Original name
 Laternea triscapa Turpin, 1822

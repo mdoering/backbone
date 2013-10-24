@@ -1,5 +1,4 @@
-Eriosphaeria corylina Mouton SPECIES
-=======
+# Eriosphaeria corylina Mouton SPECIES
 
 #### Status
 ACCEPTED

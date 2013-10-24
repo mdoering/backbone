@@ -1,5 +1,4 @@
-Disciseda ochrochalcea Kreisel SPECIES
-=======
+# Disciseda ochrochalcea Kreisel SPECIES
 
 #### Status
 ACCEPTED

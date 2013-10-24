@@ -1,5 +1,4 @@
-Phyllosticta mauroceniae Sacc. & D. Sacc. SPECIES
-=======
+# Phyllosticta mauroceniae Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

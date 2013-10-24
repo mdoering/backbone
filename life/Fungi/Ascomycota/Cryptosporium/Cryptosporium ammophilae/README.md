@@ -1,5 +1,4 @@
-Cryptosporium ammophilae Durieu & Mont. SPECIES
-=======
+# Cryptosporium ammophilae Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

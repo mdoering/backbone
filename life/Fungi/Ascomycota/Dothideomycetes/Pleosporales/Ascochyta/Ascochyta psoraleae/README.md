@@ -1,17 +1,16 @@
-Ascochyta psorlareae P.K. Chi SPECIES
-=======
+# Ascochyta psoraleae P.K. Chi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Chih, Pai & Zhu, Fungal Diseases of Cultivated Plants in Kirin Province (Beijing) 478 (1966)
 
 #### Original name
-Ascochyta psorlareae P.K. Chi
+Ascochyta psoraleae P.K. Chi
 
 ### Remarks
 null

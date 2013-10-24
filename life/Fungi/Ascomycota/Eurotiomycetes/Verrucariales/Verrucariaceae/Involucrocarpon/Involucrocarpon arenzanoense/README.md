@@ -1,5 +1,4 @@
-Involucrocarpon arenzanoense Servít SPECIES
-=======
+# Involucrocarpon arenzanoense Servít SPECIES
 
 #### Status
 ACCEPTED

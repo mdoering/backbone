@@ -1,14 +1,13 @@
-Catacauma distinguendum (Rehm) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora distinguenda Rehm, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 397 (1915)
+Hedwigia 36: 367 (1897)
 
 #### Original name
 Phyllachora distinguenda Rehm, 1897

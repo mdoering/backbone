@@ -1,5 +1,4 @@
-Stipitoporos polychloris Ettl SPECIES
-=======
+# Stipitoporos polychloris Ettl SPECIES
 
 #### Status
 ACCEPTED

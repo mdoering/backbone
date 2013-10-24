@@ -1,5 +1,4 @@
-Flammulasphaera Richards & Mullins, 2003 GENUS
-=======
+# Flammulasphaera Richards & Mullins, 2003 GENUS
 
 #### Status
 ACCEPTED

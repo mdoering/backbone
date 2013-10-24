@@ -1,5 +1,4 @@
-Uredo rhynchosporae Henn. SPECIES
-=======
+# Uredo rhynchosporae Henn. SPECIES
 
 #### Status
 ACCEPTED

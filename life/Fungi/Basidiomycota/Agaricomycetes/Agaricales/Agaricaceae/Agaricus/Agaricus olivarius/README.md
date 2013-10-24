@@ -1,17 +1,16 @@
-Agaricus olivaria Peck SPECIES
-=======
+# Agaricus olivarius Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. Reg. Univ. St. N. Y. 25: 76 (1873)
 
 #### Original name
-Agaricus olivaria Peck
+Agaricus olivarius Peck
 
 ### Remarks
 null

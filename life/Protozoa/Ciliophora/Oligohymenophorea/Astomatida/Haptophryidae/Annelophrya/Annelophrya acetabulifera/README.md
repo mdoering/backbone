@@ -1,5 +1,4 @@
-Annelophrya acetabulifera SPECIES
-=======
+# Annelophrya acetabulifera SPECIES
 
 #### Status
 ACCEPTED

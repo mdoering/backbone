@@ -1,5 +1,4 @@
-Mycena mandaiensis Corner SPECIES
-=======
+# Mycena mandaiensis Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum piceum Velen. SPECIES
-=======
+# Lachnum piceum Velen. SPECIES
 
 #### Status
 ACCEPTED

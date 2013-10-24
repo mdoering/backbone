@@ -1,5 +1,4 @@
-Paradiophrys irmgard (Mansfeld, 1923) Jankowski, 1978 SPECIES
-=======
+# Paradiophrys irmgard (Mansfeld, 1923) Jankowski, 1978 SPECIES
 
 #### Status
 ACCEPTED

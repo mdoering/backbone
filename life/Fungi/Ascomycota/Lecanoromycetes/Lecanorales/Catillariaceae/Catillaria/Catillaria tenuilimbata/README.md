@@ -1,14 +1,13 @@
-Lecidea tenuilimbata C. Knight SPECIES
-=======
+# Catillaria tenuilimbata (C. Knight) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Linn. Soc. London, Bot. 2: 46 (1882)
+Cat. Lich. Univers. 4: 25 (1926)
 
 #### Original name
 Lecidea tenuilimbata C. Knight

@@ -1,14 +1,13 @@
-Alnicola luteolofibrillosa Kühner, 1926 SPECIES
-=======
+# Naucoria luteolofibrillosa (Kühner) Kühner & Romagn., 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Le Botaniste 17: 176 (1926)
+Fl. Analyt. Champ. Supér. (Paris) 237 (1953)
 
 #### Original name
 Alnicola luteolofibrillosa Kühner, 1926

@@ -1,5 +1,4 @@
-Aspergillus proliferans G. Sm., 1943 SPECIES
-=======
+# Aspergillus proliferans G. Sm., 1943 SPECIES
 
 #### Status
 ACCEPTED

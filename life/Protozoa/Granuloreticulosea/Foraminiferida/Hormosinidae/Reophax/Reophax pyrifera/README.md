@@ -1,5 +1,4 @@
-Reophax pyrifera Rhumbler, 1905 SPECIES
-=======
+# Reophax pyrifera Rhumbler, 1905 SPECIES
 
 #### Status
 ACCEPTED

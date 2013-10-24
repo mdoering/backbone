@@ -1,5 +1,4 @@
-Spirosphaera microfilamentosa Gené SPECIES
-=======
+# Spirosphaera microfilamentosa Gené SPECIES
 
 #### Status
 ACCEPTED

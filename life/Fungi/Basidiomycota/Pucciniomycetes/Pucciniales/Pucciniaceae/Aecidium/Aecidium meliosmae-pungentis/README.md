@@ -1,17 +1,16 @@
-Aecidium meliosmatis-pungentis Henn. & Shirai SPECIES
-=======
+# Aecidium meliosmae-pungentis Henn. & Shirai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Engler's Bot. Jahrb. 28: 265 (1900)
 
 #### Original name
-Aecidium meliosmatis-pungentis Henn. & Shirai
+Aecidium meliosmae-pungentis Henn. & Shirai
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Peteinosphaeridium dissolutum (Burmann, 1970) Eisenack et al., 1979 SPECIES
-=======
+# Peteinosphaeridium dissolutum (Burmann, 1970) Eisenack et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

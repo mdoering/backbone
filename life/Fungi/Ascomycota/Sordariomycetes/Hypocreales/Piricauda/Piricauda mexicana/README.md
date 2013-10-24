@@ -1,5 +1,4 @@
-Piricauda mexicana Mercado, Heredia & J. Mena SPECIES
-=======
+# Piricauda mexicana Mercado, Heredia & J. Mena SPECIES
 
 #### Status
 ACCEPTED

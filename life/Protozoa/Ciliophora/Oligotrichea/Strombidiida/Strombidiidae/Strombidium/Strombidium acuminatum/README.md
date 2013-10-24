@@ -1,5 +1,4 @@
-Strombidium acuminatum Stein SPECIES
-=======
+# Strombidium acuminatum Stein SPECIES
 
 #### Status
 ACCEPTED

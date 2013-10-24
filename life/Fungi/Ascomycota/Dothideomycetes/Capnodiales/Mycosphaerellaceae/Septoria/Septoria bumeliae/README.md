@@ -1,5 +1,4 @@
-Septoria bumeliae Sacc. SPECIES
-=======
+# Septoria bumeliae Sacc. SPECIES
 
 #### Status
 ACCEPTED

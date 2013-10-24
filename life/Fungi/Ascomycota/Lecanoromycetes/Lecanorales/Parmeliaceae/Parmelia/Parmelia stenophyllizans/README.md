@@ -1,5 +1,4 @@
-Parmelia stenophyllizans Zahlbr. SPECIES
-=======
+# Parmelia stenophyllizans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

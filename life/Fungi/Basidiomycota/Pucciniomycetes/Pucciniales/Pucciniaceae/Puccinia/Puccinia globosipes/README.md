@@ -1,5 +1,4 @@
-Puccinia globosipes Peck SPECIES
-=======
+# Puccinia globosipes Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solisphaeridium bimodulentum Moczydlowska, 1998 SPECIES
-=======
+# Solisphaeridium bimodulentum Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena exalbida Métrod SPECIES
-=======
+# Mycena exalbida Métrod SPECIES
 
 #### Status
 ACCEPTED

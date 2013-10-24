@@ -1,5 +1,4 @@
-Guttatisphaeridium E.R. Wicander, 1974 GENUS
-=======
+# Guttatisphaeridium E.R. Wicander, 1974 GENUS
 
 #### Status
 ACCEPTED

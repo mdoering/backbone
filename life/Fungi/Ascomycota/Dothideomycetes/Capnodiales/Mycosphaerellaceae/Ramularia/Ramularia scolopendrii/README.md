@@ -1,5 +1,4 @@
-Ramularia scolopendrii Fautrey, 1892 SPECIES
-=======
+# Ramularia scolopendrii Fautrey, 1892 SPECIES
 
 #### Status
 ACCEPTED

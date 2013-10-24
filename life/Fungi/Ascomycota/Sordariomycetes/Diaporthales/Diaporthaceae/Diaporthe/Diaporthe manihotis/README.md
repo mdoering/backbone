@@ -1,17 +1,16 @@
-Phoma manihot (Speg.) M.S. Gonzáles & N. Pons, 1986 SPECIES
-=======
+# Diaporthe manihotis Punith., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ernstia 37: 30 (1986)
+Kavaka 3: 29 (1976)
 
 #### Original name
-Phyllosticta manihoti Speg., 1910
+Diaporthe manihotis Punith., 1976
 
 ### Remarks
 null

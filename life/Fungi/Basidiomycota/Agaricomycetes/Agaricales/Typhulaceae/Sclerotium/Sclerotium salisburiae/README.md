@@ -1,5 +1,4 @@
-Sclerotium salisburiae C. Massal. SPECIES
-=======
+# Sclerotium salisburiae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

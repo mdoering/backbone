@@ -1,5 +1,4 @@
-Trypanosphaerium Haeckel, 1887 GENUS
-=======
+# Trypanosphaerium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pouzarella fibrillosipes (Murrill) Mazzer SPECIES
-=======
+# Pouzarella fibrillosipes (Murrill) Mazzer SPECIES
 
 #### Status
 ACCEPTED

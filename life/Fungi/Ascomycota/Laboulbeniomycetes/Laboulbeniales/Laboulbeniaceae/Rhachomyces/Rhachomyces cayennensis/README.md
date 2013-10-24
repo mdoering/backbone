@@ -1,5 +1,4 @@
-Rhachomyces cayennensis Thaxt. SPECIES
-=======
+# Rhachomyces cayennensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

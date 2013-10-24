@@ -1,5 +1,4 @@
-Teichospora vetusta (Ellis) Sacc. SPECIES
-=======
+# Teichospora vetusta (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

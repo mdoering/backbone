@@ -1,5 +1,4 @@
-Erysiphe huayinensis R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Erysiphe huayinensis R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hafellia microspora Pusswald SPECIES
-=======
+# Hafellia microspora Pusswald SPECIES
 
 #### Status
 ACCEPTED

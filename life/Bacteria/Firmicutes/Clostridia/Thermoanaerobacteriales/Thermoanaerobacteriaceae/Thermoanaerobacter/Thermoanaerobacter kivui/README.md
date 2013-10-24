@@ -1,8 +1,7 @@
-Acetogenium kivui Leigh & Wolfe, 1983 SPECIES
-=======
+# Thermoanaerobacter kivui (Leigh & Wolfe, 1983) Collins et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

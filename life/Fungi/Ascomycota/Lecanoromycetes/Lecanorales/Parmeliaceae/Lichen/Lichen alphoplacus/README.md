@@ -1,5 +1,4 @@
-Lichen alphoplacus Wahlenb. SPECIES
-=======
+# Lichen alphoplacus Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

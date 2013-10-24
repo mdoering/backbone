@@ -1,5 +1,4 @@
-Ascosphaera parasitica Skou SPECIES
-=======
+# Ascosphaera parasitica Skou SPECIES
 
 #### Status
 ACCEPTED

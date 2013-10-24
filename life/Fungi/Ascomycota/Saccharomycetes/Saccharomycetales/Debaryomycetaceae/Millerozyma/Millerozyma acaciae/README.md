@@ -1,5 +1,4 @@
-Millerozyma acaciae (Van der Walt) Kurtzman & M. Suzuki, 2010 SPECIES
-=======
+# Millerozyma acaciae (Van der Walt) Kurtzman & M. Suzuki, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithastrinus pentabrachius SPECIES
-=======
+# Lithastrinus pentabrachius SPECIES
 
 #### Status
 ACCEPTED

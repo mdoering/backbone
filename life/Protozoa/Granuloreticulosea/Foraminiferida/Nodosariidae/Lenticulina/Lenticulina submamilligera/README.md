@@ -1,5 +1,4 @@
-Lenticulina submamilligera SPECIES
-=======
+# Lenticulina submamilligera SPECIES
 
 #### Status
 ACCEPTED

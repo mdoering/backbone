@@ -1,5 +1,4 @@
-Xylosphaera lutea (Beeli) Dennis SPECIES
-=======
+# Xylosphaera lutea (Beeli) Dennis SPECIES
 
 #### Status
 ACCEPTED

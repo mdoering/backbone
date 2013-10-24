@@ -1,5 +1,4 @@
-Phyllachora caricis var. caricis VARIETY
-=======
+# Phyllachora caricis (Fr.) Nitschke SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 2: 625 (1883)
+null
 
 #### Original name
-Phyllachora caricis var. caricis
+null
 
 ### Remarks
 null

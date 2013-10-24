@@ -1,5 +1,4 @@
-Capsammina Gooday, Aranda da Silva, Koho & Lecroq, 2010 GENUS
-=======
+# Capsammina Gooday, Aranda da Silva, Koho & Lecroq, 2010 GENUS
 
 #### Status
 ACCEPTED

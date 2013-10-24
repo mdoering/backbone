@@ -1,5 +1,4 @@
-Mycobacterium hassiacum Schröder et al., 1997 SPECIES
-=======
+# Mycobacterium hassiacum Schröder et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

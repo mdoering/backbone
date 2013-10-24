@@ -1,8 +1,7 @@
-Astrorhiza crassatina Brady, 1884 SPECIES
-=======
+# Bathysiphon crassatina (Brady, 1884) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Samara longifolia Benth. SPECIES
-=======
+# Samara longifolia Benth. SPECIES
 
 #### Status
 ACCEPTED

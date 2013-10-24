@@ -1,5 +1,4 @@
-Gyroporus pseudomicrosporus M. Zang SPECIES
-=======
+# Gyroporus pseudomicrosporus M. Zang SPECIES
 
 #### Status
 ACCEPTED

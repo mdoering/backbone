@@ -1,5 +1,4 @@
-Acanthostomella armilla SPECIES
-=======
+# Acanthostomella armilla SPECIES
 
 #### Status
 ACCEPTED

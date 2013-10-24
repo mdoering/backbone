@@ -1,5 +1,4 @@
-Lepista polycephala Harmaja SPECIES
-=======
+# Lepista polycephala Harmaja SPECIES
 
 #### Status
 ACCEPTED

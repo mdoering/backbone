@@ -1,5 +1,4 @@
-Entyloma costaricense Cif. SPECIES
-=======
+# Entyloma costaricense Cif. SPECIES
 
 #### Status
 ACCEPTED

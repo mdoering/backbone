@@ -1,5 +1,4 @@
-Gomphillaceae Walt. Watson ex Hafellner FAMILY
-=======
+# Gomphillaceae Walt. Watson ex Hafellner FAMILY
 
 #### Status
 ACCEPTED

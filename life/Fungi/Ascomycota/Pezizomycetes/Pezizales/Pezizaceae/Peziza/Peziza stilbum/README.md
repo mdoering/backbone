@@ -1,5 +1,4 @@
-Peziza stilbum Fuckel SPECIES
-=======
+# Peziza stilbum Fuckel SPECIES
 
 #### Status
 ACCEPTED

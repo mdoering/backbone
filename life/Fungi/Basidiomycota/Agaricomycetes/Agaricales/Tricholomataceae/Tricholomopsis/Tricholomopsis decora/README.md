@@ -1,17 +1,16 @@
-Agaricus decorus var. decorus VARIETY
-=======
+# Tricholomopsis decora (Fr.) Singer, 1939 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schweiz. Z. Pilzk. 17: 56 (1939)
 
 #### Original name
-Agaricus decorus var. decorus
+Agaricus decorus Fr., 1821
 
 ### Remarks
 null

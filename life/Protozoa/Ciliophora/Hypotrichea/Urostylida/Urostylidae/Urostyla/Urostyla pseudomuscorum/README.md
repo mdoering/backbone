@@ -1,5 +1,4 @@
-Urostyla pseudomuscorum SPECIES
-=======
+# Urostyla pseudomuscorum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fulvimonas soli Mergaert et al., 2002 SPECIES
-=======
+# Fulvimonas soli Mergaert et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

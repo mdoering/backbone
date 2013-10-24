@@ -1,5 +1,4 @@
-Boletinus GENUS
-=======
+# Boletinus GENUS
 
 #### Status
 ACCEPTED

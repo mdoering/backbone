@@ -1,5 +1,4 @@
-Ramaria magnifica Schild, 1983 SPECIES
-=======
+# Ramaria magnifica Schild, 1983 SPECIES
 
 #### Status
 ACCEPTED

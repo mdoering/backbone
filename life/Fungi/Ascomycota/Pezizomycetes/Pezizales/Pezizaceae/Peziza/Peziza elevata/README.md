@@ -1,5 +1,4 @@
-Peziza elevata Schumach. SPECIES
-=======
+# Peziza elevata Schumach. SPECIES
 
 #### Status
 ACCEPTED

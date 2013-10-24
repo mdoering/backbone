@@ -1,5 +1,4 @@
-Stagonospora albanica Petr. SPECIES
-=======
+# Stagonospora albanica Petr. SPECIES
 
 #### Status
 ACCEPTED

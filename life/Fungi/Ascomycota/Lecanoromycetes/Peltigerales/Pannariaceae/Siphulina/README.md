@@ -1,5 +1,4 @@
-Siphulina (Hue) C.W. Dodge GENUS
-=======
+# Siphulina (Hue) C.W. Dodge GENUS
 
 #### Status
 ACCEPTED

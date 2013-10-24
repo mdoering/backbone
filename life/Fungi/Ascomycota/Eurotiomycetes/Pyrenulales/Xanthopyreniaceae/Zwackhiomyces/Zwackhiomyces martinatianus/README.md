@@ -1,5 +1,4 @@
-Zwackhiomyces martinatianus (Arnold) Triebel & Grube SPECIES
-=======
+# Zwackhiomyces martinatianus (Arnold) Triebel & Grube SPECIES
 
 #### Status
 ACCEPTED

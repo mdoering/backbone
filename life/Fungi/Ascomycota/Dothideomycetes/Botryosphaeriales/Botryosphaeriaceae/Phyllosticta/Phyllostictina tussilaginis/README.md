@@ -1,5 +1,4 @@
-Phyllostictina tussilaginis Petr. SPECIES
-=======
+# Phyllostictina tussilaginis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoderma aconiti Marcello SPECIES
-=======
+# Mycoderma aconiti Marcello SPECIES
 
 #### Status
 ACCEPTED

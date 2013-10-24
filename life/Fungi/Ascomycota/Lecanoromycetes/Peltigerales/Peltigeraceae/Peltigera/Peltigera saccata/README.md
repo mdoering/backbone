@@ -1,5 +1,4 @@
-Peltigera saccata var. saccata VARIETY
-=======
+# Peltigera saccata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltigera saccata var. saccata
+null
 
 ### Remarks
 null

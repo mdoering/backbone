@@ -1,5 +1,4 @@
-Cochliobolus sporoboli E. Castell. SPECIES
-=======
+# Cochliobolus sporoboli E. Castell. SPECIES
 
 #### Status
 ACCEPTED

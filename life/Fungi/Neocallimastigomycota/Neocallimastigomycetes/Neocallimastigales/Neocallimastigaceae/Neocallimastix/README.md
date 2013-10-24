@@ -1,5 +1,4 @@
-Neocallimastix Vavra & Joyon ex I.B. Heath GENUS
-=======
+# Neocallimastix Vavra & Joyon ex I.B. Heath GENUS
 
 #### Status
 ACCEPTED

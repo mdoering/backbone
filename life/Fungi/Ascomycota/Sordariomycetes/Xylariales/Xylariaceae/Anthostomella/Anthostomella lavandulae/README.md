@@ -1,5 +1,4 @@
-Anthostomella lavandulae M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Anthostomella lavandulae M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

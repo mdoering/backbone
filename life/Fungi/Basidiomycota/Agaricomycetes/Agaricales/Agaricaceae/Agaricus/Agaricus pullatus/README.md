@@ -1,5 +1,4 @@
-Agaricus pullatus Bolton SPECIES
-=======
+# Agaricus pullatus Bolton SPECIES
 
 #### Status
 ACCEPTED

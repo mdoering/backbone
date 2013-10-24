@@ -1,5 +1,4 @@
-Astrothelium hypoxylon Nyl. SPECIES
-=======
+# Astrothelium hypoxylon Nyl. SPECIES
 
 #### Status
 ACCEPTED

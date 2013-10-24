@@ -1,5 +1,4 @@
-Cytospora alyxiae Petr. SPECIES
-=======
+# Cytospora alyxiae Petr. SPECIES
 
 #### Status
 ACCEPTED

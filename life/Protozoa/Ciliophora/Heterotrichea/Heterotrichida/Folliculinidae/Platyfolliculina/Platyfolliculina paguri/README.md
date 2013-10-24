@@ -1,5 +1,4 @@
-Platyfolliculina paguri Andrews & Reinhard, 1943 SPECIES
-=======
+# Platyfolliculina paguri Andrews & Reinhard, 1943 SPECIES
 
 #### Status
 ACCEPTED

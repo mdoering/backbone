@@ -1,5 +1,4 @@
-Sporonites R. Potonié GENUS
-=======
+# Sporonites R. Potonié GENUS
 
 #### Status
 ACCEPTED

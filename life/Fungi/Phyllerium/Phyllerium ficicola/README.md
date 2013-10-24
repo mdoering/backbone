@@ -1,5 +1,4 @@
-Phyllerium ficicola Ettingsh. SPECIES
-=======
+# Phyllerium ficicola Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

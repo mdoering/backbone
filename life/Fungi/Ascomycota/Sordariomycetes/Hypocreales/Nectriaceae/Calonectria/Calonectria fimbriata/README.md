@@ -1,5 +1,4 @@
-Calonectria fimbriata Seaver & Waterston SPECIES
-=======
+# Calonectria fimbriata Seaver & Waterston SPECIES
 
 #### Status
 ACCEPTED

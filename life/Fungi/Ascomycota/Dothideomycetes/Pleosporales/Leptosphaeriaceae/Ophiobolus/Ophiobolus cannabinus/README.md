@@ -1,5 +1,4 @@
-Ophiobolus cannabinus Pass. SPECIES
-=======
+# Ophiobolus cannabinus Pass. SPECIES
 
 #### Status
 ACCEPTED

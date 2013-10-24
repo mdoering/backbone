@@ -1,5 +1,4 @@
-Pterocorythidae Haeckel, 1881 FAMILY
-=======
+# Pterocorythidae Haeckel, 1881 FAMILY
 
 #### Status
 ACCEPTED

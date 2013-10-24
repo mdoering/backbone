@@ -1,5 +1,4 @@
-Psathyrella tenacipes A.H. Sm. SPECIES
-=======
+# Psathyrella tenacipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

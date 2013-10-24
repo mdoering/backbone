@@ -1,5 +1,4 @@
-Scutula leptogica (Nyl.) Zopf SPECIES
-=======
+# Scutula leptogica (Nyl.) Zopf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia glomerulata Cocc. & Morini SPECIES
-=======
+# Tilletia glomerulata Cocc. & Morini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia liriodendri (Ellis & Everh.) Kuntze SPECIES
-=======
+# Hendersonia liriodendri (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

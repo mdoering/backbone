@@ -1,5 +1,4 @@
-Endophyllum euphorbiae-sylvaticae (DC.) G. Winter, 1881 SPECIES
-=======
+# Endophyllum euphorbiae-sylvaticae (DC.) G. Winter, 1881 SPECIES
 
 #### Status
 ACCEPTED

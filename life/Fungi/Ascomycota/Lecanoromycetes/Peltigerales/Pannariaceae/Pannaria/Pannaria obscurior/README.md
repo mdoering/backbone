@@ -1,5 +1,4 @@
-Pannaria obscurior Nyl. SPECIES
-=======
+# Pannaria obscurior Nyl. SPECIES
 
 #### Status
 ACCEPTED

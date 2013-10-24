@@ -1,17 +1,16 @@
-Polyporus mamelliporus Beeli, 1929 SPECIES
-=======
+# Ganoderma subresinosum (Murrill) C.J. Humphrey, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 62: 62 (1929)
+Mycologia 30: 332 (1938)
 
 #### Original name
-Polyporus mamelliporus Beeli, 1929
+Fomes subresinosus Murrill, 1908
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chlorociboria strobilina (Alb. & Schwein.) Seaver SPECIES
-=======
+# Chlorociboria strobilina (Alb. & Schwein.) Seaver SPECIES
 
 #### Status
 ACCEPTED

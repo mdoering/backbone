@@ -1,5 +1,4 @@
-Leiosphaerella falcata M.E. Barr SPECIES
-=======
+# Leiosphaerella falcata M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

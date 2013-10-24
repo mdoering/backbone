@@ -1,5 +1,4 @@
-Clasterosporium eremita (Corda) Sacc. SPECIES
-=======
+# Clasterosporium eremita (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

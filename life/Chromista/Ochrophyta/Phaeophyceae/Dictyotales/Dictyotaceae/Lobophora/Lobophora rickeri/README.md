@@ -1,5 +1,4 @@
-Lobophora rickeri Kraft, 2009 SPECIES
-=======
+# Lobophora rickeri Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

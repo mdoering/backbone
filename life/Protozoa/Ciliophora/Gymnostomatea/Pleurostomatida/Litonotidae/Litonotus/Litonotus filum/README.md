@@ -1,8 +1,7 @@
-Lionotus filum Gruber, 1884 SPECIES
-=======
+# Litonotus filum Gruber SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

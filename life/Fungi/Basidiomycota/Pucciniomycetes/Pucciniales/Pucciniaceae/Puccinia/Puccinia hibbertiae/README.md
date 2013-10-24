@@ -1,5 +1,4 @@
-Puccinia hibbertiae McAlpine SPECIES
-=======
+# Puccinia hibbertiae McAlpine SPECIES
 
 #### Status
 ACCEPTED

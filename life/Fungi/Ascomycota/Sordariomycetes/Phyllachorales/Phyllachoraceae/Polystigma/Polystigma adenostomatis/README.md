@@ -1,5 +1,4 @@
-Polystigma adenostomatis Farl., 1905 SPECIES
-=======
+# Polystigma adenostomatis Farl., 1905 SPECIES
 
 #### Status
 ACCEPTED

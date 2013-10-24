@@ -1,17 +1,16 @@
-Hygrophorus miniatus var. miniatus VARIETY
-=======
+# Hygrocybe miniata (Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 330 (1838)
+Führ. Pilzk. (Zwickau) 112 (1871)
 
 #### Original name
-Hygrophorus miniatus var. miniatus
+Agaricus miniatus Batsch, 1783
 
 ### Remarks
 null

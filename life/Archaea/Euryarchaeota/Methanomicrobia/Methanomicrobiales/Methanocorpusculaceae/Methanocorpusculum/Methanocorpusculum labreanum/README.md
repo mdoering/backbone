@@ -1,5 +1,4 @@
-Methanocorpusculum labreanum Zhao et al., 1989 SPECIES
-=======
+# Methanocorpusculum labreanum Zhao et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

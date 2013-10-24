@@ -1,5 +1,4 @@
-Uredo ferruginea Schumach. SPECIES
-=======
+# Uredo ferruginea Schumach. SPECIES
 
 #### Status
 ACCEPTED

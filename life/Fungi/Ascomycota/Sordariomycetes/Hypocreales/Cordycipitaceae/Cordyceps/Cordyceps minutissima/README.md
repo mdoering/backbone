@@ -1,5 +1,4 @@
-Cordyceps minutissima Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps minutissima Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

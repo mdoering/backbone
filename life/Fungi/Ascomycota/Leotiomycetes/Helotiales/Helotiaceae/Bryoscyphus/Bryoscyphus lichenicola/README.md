@@ -1,5 +1,4 @@
-Bryoscyphus lichenicola Alstrup & M.S. Cole, 1998 SPECIES
-=======
+# Bryoscyphus lichenicola Alstrup & M.S. Cole, 1998 SPECIES
 
 #### Status
 ACCEPTED

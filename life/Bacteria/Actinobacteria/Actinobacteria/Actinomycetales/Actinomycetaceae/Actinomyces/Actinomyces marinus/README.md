@@ -1,5 +1,4 @@
-Actinomyces marinus Humm & Shephard SPECIES
-=======
+# Actinomyces marinus Humm & Shephard SPECIES
 
 #### Status
 ACCEPTED

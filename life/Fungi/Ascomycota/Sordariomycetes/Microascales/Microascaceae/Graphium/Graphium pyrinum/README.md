@@ -1,5 +1,4 @@
-Graphium pyrinum Goid., 1935 SPECIES
-=======
+# Graphium pyrinum Goid., 1935 SPECIES
 
 #### Status
 ACCEPTED

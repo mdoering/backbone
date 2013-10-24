@@ -1,5 +1,4 @@
-Leptopuccinia corrigiolae (Chevall.) Syd. SPECIES
-=======
+# Leptopuccinia corrigiolae (Chevall.) Syd. SPECIES
 
 #### Status
 ACCEPTED

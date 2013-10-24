@@ -1,5 +1,4 @@
-Cyrtidula americana Minks ex Willey SPECIES
-=======
+# Cyrtidula americana Minks ex Willey SPECIES
 
 #### Status
 ACCEPTED

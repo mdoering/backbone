@@ -1,14 +1,13 @@
-Gibberella calamia Cooke, 1884 SPECIES
-=======
+# Pleogibberella calamia (Cooke) Berl. & Voglino, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini), Addit. (1886)
 
 #### Original name
 Gibberella calamia Cooke, 1884

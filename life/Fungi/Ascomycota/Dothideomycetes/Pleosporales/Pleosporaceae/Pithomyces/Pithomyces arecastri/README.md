@@ -1,5 +1,4 @@
-Pithomyces arecastri X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Pithomyces arecastri X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

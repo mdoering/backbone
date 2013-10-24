@@ -1,17 +1,16 @@
-Ramulina Velen. GENUS
-=======
+# Pseudombrophila Boudier, 1885 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Novit. Mycol. Nov. , (Op. Bot. Cech. ) 146 (1947)
+null
 
 #### Original name
-Ramulina Velen.
+null
 
 ### Remarks
 null

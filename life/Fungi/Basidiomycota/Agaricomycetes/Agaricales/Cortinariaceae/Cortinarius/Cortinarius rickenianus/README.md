@@ -1,17 +1,16 @@
-Cortinarius rickenianus f. rickenianus FORM
-=======
+# Cortinarius rickenianus Maire, 1937 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trab. Mus. Ciènc. nat. Barcelona, sèr. bot. 3(4): 111 (1937)
 
 #### Original name
-Cortinarius rickenianus f. rickenianus
+Cortinarius rickenianus Maire, 1937
 
 ### Remarks
 null

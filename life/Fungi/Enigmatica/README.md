@@ -1,5 +1,4 @@
-Enigmatica GENUS
-=======
+# Enigmatica GENUS
 
 #### Status
 ACCEPTED

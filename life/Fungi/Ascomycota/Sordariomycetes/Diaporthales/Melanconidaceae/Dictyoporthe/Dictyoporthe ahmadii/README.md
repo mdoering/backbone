@@ -1,5 +1,4 @@
-Dictyoporthe ahmadii Petr., 1955 SPECIES
-=======
+# Dictyoporthe ahmadii Petr., 1955 SPECIES
 
 #### Status
 ACCEPTED

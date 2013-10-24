@@ -1,5 +1,4 @@
-Reticularia verruculosa Berk. & M.A. Curtis SPECIES
-=======
+# Reticularia verruculosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

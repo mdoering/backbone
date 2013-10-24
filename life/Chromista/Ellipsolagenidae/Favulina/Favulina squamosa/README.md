@@ -1,8 +1,7 @@
-Entosolenia squamosa var. scalariformis Williamson, 1848 VARIETY
-=======
+# Favulina squamosa (Montagu, 1803) SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

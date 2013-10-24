@@ -1,17 +1,16 @@
-Amanita contui Bon & Courtec., 1989 SPECIES
-=======
+# Amanita flavescens (E.-J. Gilbert & S. Lundell) Contu, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bon, Migliozzi & Cherubini, Docums Mycol. 19(no. 76): 74 (1989)
+Pagine Botaniche 12: 12 (1988)
 
 #### Original name
-Amanita vaginata var. flavescens E.-J. Gilbert & S. Lundell, 1941
+Amanita flavescens (E.-J. Gilbert & S. Lundell) Contu, 1988
 
 ### Remarks
 null

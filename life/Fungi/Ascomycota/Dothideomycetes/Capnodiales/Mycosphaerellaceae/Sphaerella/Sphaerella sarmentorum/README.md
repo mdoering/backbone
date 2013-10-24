@@ -1,5 +1,4 @@
-Sphaerella sarmentorum (Pirotta) Sacc. SPECIES
-=======
+# Sphaerella sarmentorum (Pirotta) Sacc. SPECIES
 
 #### Status
 ACCEPTED

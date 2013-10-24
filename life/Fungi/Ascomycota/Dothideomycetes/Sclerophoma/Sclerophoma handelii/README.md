@@ -1,5 +1,4 @@
-Sclerophoma handelii Bubák SPECIES
-=======
+# Sclerophoma handelii Bubák SPECIES
 
 #### Status
 ACCEPTED

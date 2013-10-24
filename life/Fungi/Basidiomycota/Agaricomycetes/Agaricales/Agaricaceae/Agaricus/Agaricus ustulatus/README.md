@@ -1,5 +1,4 @@
-Agaricus ustulatus Pegler SPECIES
-=======
+# Agaricus ustulatus Pegler SPECIES
 
 #### Status
 ACCEPTED

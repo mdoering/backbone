@@ -1,5 +1,4 @@
-Eriomycopsis endogena Piroz. SPECIES
-=======
+# Eriomycopsis endogena Piroz. SPECIES
 
 #### Status
 ACCEPTED

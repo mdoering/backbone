@@ -1,5 +1,4 @@
-Passalora eucalyptorum (Crous) Crous & U. Braun SPECIES
-=======
+# Passalora eucalyptorum (Crous) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

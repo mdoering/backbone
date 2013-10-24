@@ -1,5 +1,4 @@
-Cymatiogalea bouvardii Martin, 1972 SPECIES
-=======
+# Cymatiogalea bouvardii Martin, 1972 SPECIES
 
 #### Status
 ACCEPTED

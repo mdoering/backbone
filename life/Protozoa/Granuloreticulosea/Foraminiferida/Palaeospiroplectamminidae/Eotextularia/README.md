@@ -1,5 +1,4 @@
-Eotextularia GENUS
-=======
+# Eotextularia GENUS
 
 #### Status
 ACCEPTED

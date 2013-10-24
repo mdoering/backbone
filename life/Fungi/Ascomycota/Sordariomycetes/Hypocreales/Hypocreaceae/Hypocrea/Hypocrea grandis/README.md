@@ -1,5 +1,4 @@
-Hypocrea grandis S. Imai SPECIES
-=======
+# Hypocrea grandis S. Imai SPECIES
 
 #### Status
 ACCEPTED

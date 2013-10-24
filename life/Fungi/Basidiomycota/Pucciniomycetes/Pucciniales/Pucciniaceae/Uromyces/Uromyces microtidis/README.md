@@ -1,14 +1,13 @@
-Caeomurus microtidis (Cooke) Kuntze, 1898 SPECIES
-=======
+# Uromyces microtidis Cooke, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 450 (1898)
+Grevillea 14(no. 69): 12 (1885)
 
 #### Original name
 Uromyces microtidis Cooke, 1885

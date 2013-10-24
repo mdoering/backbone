@@ -1,5 +1,4 @@
-Xiphomyces caricis Jørst., 1947 SPECIES
-=======
+# Xiphomyces caricis Jørst., 1947 SPECIES
 
 #### Status
 ACCEPTED

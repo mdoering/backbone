@@ -1,14 +1,13 @@
-Ramularia peltigericola D. Hawksw. SPECIES
-=======
+# Hawksworthiana peltigericola (D. Hawksw.) U. Braun, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notes R. bot. Gdn Edinb. 38(1): 172 (1980)
+Int. J. Mycol. Lichenol. 3(2-3): 276 (1988)
 
 #### Original name
 Ramularia peltigericola D. Hawksw.

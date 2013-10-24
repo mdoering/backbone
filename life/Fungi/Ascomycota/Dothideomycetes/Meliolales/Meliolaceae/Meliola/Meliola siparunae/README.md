@@ -1,5 +1,4 @@
-Meliola siparunae Syd. SPECIES
-=======
+# Meliola siparunae Syd. SPECIES
 
 #### Status
 ACCEPTED

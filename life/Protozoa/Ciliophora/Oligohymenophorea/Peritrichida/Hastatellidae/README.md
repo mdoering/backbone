@@ -1,5 +1,4 @@
-Hastatellidae FAMILY
-=======
+# Hastatellidae FAMILY
 
 #### Status
 ACCEPTED

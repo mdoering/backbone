@@ -1,5 +1,4 @@
-Podospora austroamericana (Speg.) J.H. Mirza & Cain, 1970 SPECIES
-=======
+# Podospora austroamericana (Speg.) J.H. Mirza & Cain, 1970 SPECIES
 
 #### Status
 ACCEPTED

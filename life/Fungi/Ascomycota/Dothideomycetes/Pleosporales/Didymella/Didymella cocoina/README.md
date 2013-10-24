@@ -1,5 +1,4 @@
-Didymella cocoina Séchet SPECIES
-=======
+# Didymella cocoina Séchet SPECIES
 
 #### Status
 ACCEPTED

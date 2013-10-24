@@ -1,5 +1,4 @@
-Volucrispora Haskins GENUS
-=======
+# Volucrispora Haskins GENUS
 
 #### Status
 ACCEPTED

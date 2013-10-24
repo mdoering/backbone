@@ -1,5 +1,4 @@
-Sphaeria carnea Desm. SPECIES
-=======
+# Sphaeria carnea Desm. SPECIES
 
 #### Status
 ACCEPTED

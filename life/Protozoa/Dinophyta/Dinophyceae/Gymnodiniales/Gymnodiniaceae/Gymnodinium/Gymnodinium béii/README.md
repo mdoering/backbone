@@ -1,5 +1,4 @@
-Gymnodinium béii H.J. Spero SPECIES
-=======
+# Gymnodinium béii H.J. Spero SPECIES
 
 #### Status
 ACCEPTED

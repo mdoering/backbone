@@ -1,5 +1,4 @@
-Graphis insularis Makhija & Adaw. SPECIES
-=======
+# Graphis insularis Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

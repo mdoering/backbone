@@ -1,5 +1,4 @@
-Phyllachora phoebeicola Speg., 1912 SPECIES
-=======
+# Phyllachora phoebeicola Speg., 1912 SPECIES
 
 #### Status
 ACCEPTED

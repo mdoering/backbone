@@ -1,5 +1,4 @@
-Eccrinopsis GENUS
-=======
+# Eccrinopsis GENUS
 
 #### Status
 ACCEPTED

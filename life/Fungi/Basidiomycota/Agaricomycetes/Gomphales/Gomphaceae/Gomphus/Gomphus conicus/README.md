@@ -1,5 +1,4 @@
-Gomphus conicus Pers. SPECIES
-=======
+# Gomphus conicus Pers. SPECIES
 
 #### Status
 ACCEPTED

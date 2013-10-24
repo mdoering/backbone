@@ -1,5 +1,4 @@
-Physalacria langloisii Ellis & Everh. SPECIES
-=======
+# Physalacria langloisii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

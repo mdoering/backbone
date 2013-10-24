@@ -1,5 +1,4 @@
-Phyllosticta nymphaeacea Ellis & Everh. SPECIES
-=======
+# Phyllosticta nymphaeacea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

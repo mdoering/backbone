@@ -1,17 +1,16 @@
-Heptameria eustomella (Sacc.) Cooke, 1889 SPECIES
-=======
+# Phaeosphaeria nigrans (Roberge ex Desm.) L. Holm, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 14(no. 3): 112 (1957)
 
 #### Original name
-null
+Sphaeria nigrans Roberge ex Desm., 1846
 
 ### Remarks
 null

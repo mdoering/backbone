@@ -1,5 +1,4 @@
-Puccinia centaureae-asperae Castagne SPECIES
-=======
+# Puccinia centaureae-asperae Castagne SPECIES
 
 #### Status
 ACCEPTED

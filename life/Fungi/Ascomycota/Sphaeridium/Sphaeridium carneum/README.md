@@ -1,5 +1,4 @@
-Sphaeridium carneum Speg. SPECIES
-=======
+# Sphaeridium carneum Speg. SPECIES
 
 #### Status
 ACCEPTED

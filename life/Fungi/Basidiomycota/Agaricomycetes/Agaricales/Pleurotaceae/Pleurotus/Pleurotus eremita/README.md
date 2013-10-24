@@ -1,5 +1,4 @@
-Pleurotus eremita Maire SPECIES
-=======
+# Pleurotus eremita Maire SPECIES
 
 #### Status
 ACCEPTED

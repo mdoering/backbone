@@ -1,5 +1,4 @@
-Spongellipsis Haeckel, 1887 GENUS
-=======
+# Spongellipsis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

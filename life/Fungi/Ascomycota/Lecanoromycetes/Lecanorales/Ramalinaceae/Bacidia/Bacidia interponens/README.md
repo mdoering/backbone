@@ -1,5 +1,4 @@
-Bacidia interponens (Nyl.) SPECIES
-=======
+# Bacidia interponens (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

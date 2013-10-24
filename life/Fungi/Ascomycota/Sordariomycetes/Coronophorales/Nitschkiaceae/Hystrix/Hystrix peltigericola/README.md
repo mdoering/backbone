@@ -1,5 +1,4 @@
-Hystrix peltigericola Alstrup & Olech SPECIES
-=======
+# Hystrix peltigericola Alstrup & Olech SPECIES
 
 #### Status
 ACCEPTED

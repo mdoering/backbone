@@ -1,5 +1,4 @@
-Aecidium punicum Juel SPECIES
-=======
+# Aecidium punicum Juel SPECIES
 
 #### Status
 ACCEPTED

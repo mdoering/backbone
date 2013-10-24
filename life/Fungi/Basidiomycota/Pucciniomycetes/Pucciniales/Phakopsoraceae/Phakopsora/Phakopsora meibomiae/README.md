@@ -1,14 +1,13 @@
-Malupa meibomiae (Arthur) Y. Ono, Buriticá & J.F. Hennen, 1992 SPECIES
-=======
+# Phakopsora meibomiae (Arthur) Arthur, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 96(10): 828 (1992)
+Bull. Torrey bot. Club 44: 509 (1917)
 
 #### Original name
 Physopella meibomiae Arthur, 1917

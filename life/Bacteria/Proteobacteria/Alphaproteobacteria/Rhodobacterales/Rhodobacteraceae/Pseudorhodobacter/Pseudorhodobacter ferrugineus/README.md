@@ -1,8 +1,7 @@
-Agrobacterium ferrugineum (ex Ahrens & Rheinheimer, 1967) Rüger & Höfle, 1992 SPECIES
-=======
+# Pseudorhodobacter ferrugineus (Rüger & Höfle, 1992) Uchino et al., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

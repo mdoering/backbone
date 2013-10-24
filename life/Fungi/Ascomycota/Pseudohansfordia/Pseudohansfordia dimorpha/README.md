@@ -1,5 +1,4 @@
-Pseudohansfordia dimorpha Matsush. SPECIES
-=======
+# Pseudohansfordia dimorpha Matsush. SPECIES
 
 #### Status
 ACCEPTED

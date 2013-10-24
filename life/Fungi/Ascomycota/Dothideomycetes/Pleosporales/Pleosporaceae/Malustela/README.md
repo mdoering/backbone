@@ -1,5 +1,4 @@
-Malustela GENUS
-=======
+# Malustela GENUS
 
 #### Status
 ACCEPTED

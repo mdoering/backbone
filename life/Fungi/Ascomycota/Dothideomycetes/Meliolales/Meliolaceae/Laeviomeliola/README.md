@@ -1,5 +1,4 @@
-Laeviomeliola Bat. GENUS
-=======
+# Laeviomeliola Bat. GENUS
 
 #### Status
 ACCEPTED

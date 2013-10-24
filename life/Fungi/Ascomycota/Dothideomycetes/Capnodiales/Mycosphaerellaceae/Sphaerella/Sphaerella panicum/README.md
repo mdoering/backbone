@@ -1,5 +1,4 @@
-Sphaerella panicum Cooke SPECIES
-=======
+# Sphaerella panicum Cooke SPECIES
 
 #### Status
 ACCEPTED

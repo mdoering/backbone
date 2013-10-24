@@ -1,5 +1,4 @@
-Podospora cecropiae C. Ram SPECIES
-=======
+# Podospora cecropiae C. Ram SPECIES
 
 #### Status
 ACCEPTED

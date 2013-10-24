@@ -1,5 +1,4 @@
-Caloplaca albolutea (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca albolutea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

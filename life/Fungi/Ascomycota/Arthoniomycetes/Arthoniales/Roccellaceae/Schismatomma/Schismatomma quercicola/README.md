@@ -1,5 +1,4 @@
-Schismatomma quercicola Coppins & P. James SPECIES
-=======
+# Schismatomma quercicola Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium onniense (Turner, 1984) Uutela & Tynni, 1991 SPECIES
-=======
+# Baltisphaeridium onniense (Turner, 1984) Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

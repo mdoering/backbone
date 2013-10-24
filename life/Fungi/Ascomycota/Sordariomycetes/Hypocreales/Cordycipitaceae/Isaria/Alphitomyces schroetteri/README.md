@@ -1,5 +1,4 @@
-Alphitomyces schroetteri Reissek SPECIES
-=======
+# Alphitomyces schroetteri Reissek SPECIES
 
 #### Status
 ACCEPTED

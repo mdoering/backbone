@@ -1,5 +1,4 @@
-Alternaria malvae-vulgaris (A.G. Eliasson) E.G. Simmons SPECIES
-=======
+# Alternaria malvae-vulgaris (A.G. Eliasson) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

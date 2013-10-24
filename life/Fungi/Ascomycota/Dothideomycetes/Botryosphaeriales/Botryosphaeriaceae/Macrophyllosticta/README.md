@@ -1,5 +1,4 @@
-Macrophyllosticta GENUS
-=======
+# Macrophyllosticta GENUS
 
 #### Status
 ACCEPTED

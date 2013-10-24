@@ -1,5 +1,4 @@
-Cylindrocarpon mirum Brayford & Samuels SPECIES
-=======
+# Cylindrocarpon mirum Brayford & Samuels SPECIES
 
 #### Status
 ACCEPTED

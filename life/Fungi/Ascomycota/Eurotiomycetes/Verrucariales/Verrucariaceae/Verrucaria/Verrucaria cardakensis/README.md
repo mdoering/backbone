@@ -1,5 +1,4 @@
-Verrucaria cardakensis Servít SPECIES
-=======
+# Verrucaria cardakensis Servít SPECIES
 
 #### Status
 ACCEPTED

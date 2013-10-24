@@ -1,5 +1,4 @@
-Theocapsomella nodosa SPECIES
-=======
+# Theocapsomella nodosa SPECIES
 
 #### Status
 ACCEPTED

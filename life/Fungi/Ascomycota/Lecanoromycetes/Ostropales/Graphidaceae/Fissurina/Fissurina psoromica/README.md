@@ -1,5 +1,4 @@
-Fissurina psoromica (A.W. Archer) A.W. Archer SPECIES
-=======
+# Fissurina psoromica (A.W. Archer) A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

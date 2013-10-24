@@ -1,5 +1,4 @@
-Micropuccinia gulosa (H.S. Jacks.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia gulosa (H.S. Jacks.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

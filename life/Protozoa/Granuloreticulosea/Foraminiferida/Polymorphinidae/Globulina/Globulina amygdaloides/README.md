@@ -1,5 +1,4 @@
-Globulina amygdaloides (Reuss) SPECIES
-=======
+# Globulina amygdaloides (Reuss) SPECIES
 
 #### Status
 ACCEPTED

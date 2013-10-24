@@ -1,5 +1,4 @@
-Naegleria thorntoni (Singh, 1952) Page, 1976 SPECIES
-=======
+# Naegleria thorntoni (Singh, 1952) Page, 1976 SPECIES
 
 #### Status
 ACCEPTED

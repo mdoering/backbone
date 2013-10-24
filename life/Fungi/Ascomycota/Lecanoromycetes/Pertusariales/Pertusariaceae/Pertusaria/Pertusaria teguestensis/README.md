@@ -1,5 +1,4 @@
-Pertusaria teguestensis Erichsen SPECIES
-=======
+# Pertusaria teguestensis Erichsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula fusca (Bonord.) Sacc., 1886 SPECIES
-=======
+# Torula fusca (Bonord.) Sacc., 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe laporteae U. Braun SPECIES
-=======
+# Erysiphe laporteae U. Braun SPECIES
 
 #### Status
 ACCEPTED

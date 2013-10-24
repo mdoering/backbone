@@ -1,5 +1,4 @@
-Arthopyrenia syltensis (Erichsen) SPECIES
-=======
+# Arthopyrenia syltensis (Erichsen) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena obcalyx Corner SPECIES
-=======
+# Mycena obcalyx Corner SPECIES
 
 #### Status
 ACCEPTED

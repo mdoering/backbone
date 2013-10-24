@@ -1,5 +1,4 @@
-Fusarium stictoides Durieu & Mont. SPECIES
-=======
+# Fusarium stictoides Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Codonella sphaerica Carazzi, 1900 SPECIES
-=======
+# Codonella sphaerica Carazzi, 1900 SPECIES
 
 #### Status
 ACCEPTED

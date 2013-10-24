@@ -1,5 +1,4 @@
-Helotium discedens P. Karst. SPECIES
-=======
+# Helotium discedens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

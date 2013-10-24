@@ -1,5 +1,4 @@
-Plagiostromella pleurostoma Höhn., 1917 SPECIES
-=======
+# Plagiostromella pleurostoma Höhn., 1917 SPECIES
 
 #### Status
 ACCEPTED

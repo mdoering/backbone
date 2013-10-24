@@ -1,5 +1,4 @@
-Marasmius atroviridis Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius atroviridis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

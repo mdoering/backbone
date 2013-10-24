@@ -1,8 +1,7 @@
-Gloeocapsa pleurocapsoides Novácek SPECIES
-=======
+# Gloeocapsopsis pleurocapsoides (Novácek) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

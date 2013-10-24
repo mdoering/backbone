@@ -1,5 +1,4 @@
-Microdiplodia alkannae Hollós SPECIES
-=======
+# Microdiplodia alkannae Hollós SPECIES
 
 #### Status
 ACCEPTED

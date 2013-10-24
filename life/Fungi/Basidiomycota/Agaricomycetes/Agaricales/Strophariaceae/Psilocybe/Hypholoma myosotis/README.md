@@ -1,17 +1,16 @@
-Flammula myosotis f. myosotis FORM
-=======
+# Hypholoma myosotis (Fr.) M. Lange, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 2: 241 (1937)
+Meddr Grønland, Biosc. 148(2): 64 (1955)
 
 #### Original name
-Flammula myosotis f. myosotis
+Agaricus myosotis Fr., 1818
 
 ### Remarks
 null

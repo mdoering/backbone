@@ -1,5 +1,4 @@
-Thelotrema adjectum Nyl. SPECIES
-=======
+# Thelotrema adjectum Nyl. SPECIES
 
 #### Status
 ACCEPTED

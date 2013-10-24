@@ -1,5 +1,4 @@
-Russula liberiensis Singer SPECIES
-=======
+# Russula liberiensis Singer SPECIES
 
 #### Status
 ACCEPTED

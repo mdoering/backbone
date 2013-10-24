@@ -1,5 +1,4 @@
-Fulvibacter Khan, Nakagawa & Harayama, 2008 GENUS
-=======
+# Fulvibacter Khan, Nakagawa & Harayama, 2008 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium phlomidis Thüm. SPECIES
-=======
+# Aecidium phlomidis Thüm. SPECIES
 
 #### Status
 ACCEPTED

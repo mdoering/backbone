@@ -1,5 +1,4 @@
-Pertusaria papillata (Ach.) Tuck. SPECIES
-=======
+# Pertusaria papillata (Ach.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

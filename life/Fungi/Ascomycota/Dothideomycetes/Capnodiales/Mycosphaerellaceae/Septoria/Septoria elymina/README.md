@@ -1,5 +1,4 @@
-Septoria elymina Frandsen SPECIES
-=======
+# Septoria elymina Frandsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus fuscofibrillosus (F.H. Møller) Pilát, 1951 SPECIES
-=======
+# Agaricus fuscofibrillosus (F.H. Møller) Pilát, 1951 SPECIES
 
 #### Status
 ACCEPTED

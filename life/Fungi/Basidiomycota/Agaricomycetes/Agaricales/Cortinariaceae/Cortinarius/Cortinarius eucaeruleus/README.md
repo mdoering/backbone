@@ -1,5 +1,4 @@
-Cortinarius eucaeruleus Rob. Henry SPECIES
-=======
+# Cortinarius eucaeruleus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

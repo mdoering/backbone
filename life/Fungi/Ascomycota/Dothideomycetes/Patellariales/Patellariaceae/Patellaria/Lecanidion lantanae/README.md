@@ -1,5 +1,4 @@
-Lecanidion lantanae (R. Rao) P.N. Mathur, R.R. Jain & G.G. Saini SPECIES
-=======
+# Lecanidion lantanae (R. Rao) P.N. Mathur, R.R. Jain & G.G. Saini SPECIES
 
 #### Status
 ACCEPTED

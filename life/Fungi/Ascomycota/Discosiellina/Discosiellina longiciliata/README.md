@@ -1,14 +1,13 @@
-Discosiella longiciliata Agnihothr., 1958 SPECIES
-=======
+# Discosiellina longiciliata (Agnihothr.) Subram. & K.R.C. Reddy, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Indian bot. Soc. 37: 44 (1958)
+Proc. Indian Acad. Sci. , Sect. B 75(3): 116 (1972)
 
 #### Original name
 Discosiella longiciliata Agnihothr., 1958

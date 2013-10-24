@@ -1,5 +1,4 @@
-Nectria pallida Ellis & Everh., 1894 SPECIES
-=======
+# Nectria pallida Ellis & Everh., 1894 SPECIES
 
 #### Status
 ACCEPTED

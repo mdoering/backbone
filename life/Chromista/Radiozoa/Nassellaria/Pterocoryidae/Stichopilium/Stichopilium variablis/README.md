@@ -1,5 +1,4 @@
-Stichopilium variablis Popofsky, 1908 SPECIES
-=======
+# Stichopilium variablis Popofsky, 1908 SPECIES
 
 #### Status
 ACCEPTED

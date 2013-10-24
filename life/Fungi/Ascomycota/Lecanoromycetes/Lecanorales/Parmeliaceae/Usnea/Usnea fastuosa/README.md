@@ -1,5 +1,4 @@
-Usnea fastuosa (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Usnea fastuosa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

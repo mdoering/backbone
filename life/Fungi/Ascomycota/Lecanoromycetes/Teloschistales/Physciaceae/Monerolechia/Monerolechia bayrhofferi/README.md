@@ -1,14 +1,13 @@
-Karschia bayrhofferi (Schaer.) H. Olivier SPECIES
-=======
+# Monerolechia bayrhofferi (Schaer.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Linnaea 28: 296 (1857)
 
 #### Original name
 Lecidea bayrhofferi Schaer.

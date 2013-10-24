@@ -1,5 +1,4 @@
-Ainoa geochroa (Körb.) Lumbsch & I. Schmitt SPECIES
-=======
+# Ainoa geochroa (Körb.) Lumbsch & I. Schmitt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria usambarensis Eichelb. SPECIES
-=======
+# Naucoria usambarensis Eichelb. SPECIES
 
 #### Status
 ACCEPTED

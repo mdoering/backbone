@@ -1,5 +1,4 @@
-Arthonia incarnata Kullh. ex Almq. SPECIES
-=======
+# Arthonia incarnata Kullh. ex Almq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenopsis acanthopoda (Pat.) Hansf. SPECIES
-=======
+# Irenopsis acanthopoda (Pat.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

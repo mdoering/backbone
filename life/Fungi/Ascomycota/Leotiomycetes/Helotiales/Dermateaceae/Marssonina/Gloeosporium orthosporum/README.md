@@ -1,5 +1,4 @@
-Gloeosporium orthosporum Sacc. SPECIES
-=======
+# Gloeosporium orthosporum Sacc. SPECIES
 
 #### Status
 ACCEPTED

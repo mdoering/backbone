@@ -1,5 +1,4 @@
-Galerina filiformis A.H. Sm. & Singer SPECIES
-=======
+# Galerina filiformis A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

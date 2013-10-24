@@ -1,5 +1,4 @@
-Septoria quitensis Syd. SPECIES
-=======
+# Septoria quitensis Syd. SPECIES
 
 #### Status
 ACCEPTED

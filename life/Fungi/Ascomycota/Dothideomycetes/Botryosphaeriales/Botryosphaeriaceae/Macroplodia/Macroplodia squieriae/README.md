@@ -1,5 +1,4 @@
-Macroplodia squieriae (Clinton) Kuntze SPECIES
-=======
+# Macroplodia squieriae (Clinton) Kuntze SPECIES
 
 #### Status
 ACCEPTED

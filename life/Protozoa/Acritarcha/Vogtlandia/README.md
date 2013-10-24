@@ -1,5 +1,4 @@
-Vogtlandia G.Burmann GENUS
-=======
+# Vogtlandia G.Burmann GENUS
 
 #### Status
 ACCEPTED

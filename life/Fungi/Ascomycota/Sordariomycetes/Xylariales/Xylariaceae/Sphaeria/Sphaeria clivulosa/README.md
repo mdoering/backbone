@@ -1,5 +1,4 @@
-Sphaeria clivulosa Mont. SPECIES
-=======
+# Sphaeria clivulosa Mont. SPECIES
 
 #### Status
 ACCEPTED

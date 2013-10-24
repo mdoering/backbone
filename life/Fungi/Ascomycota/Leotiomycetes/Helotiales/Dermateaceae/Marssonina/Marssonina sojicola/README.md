@@ -1,17 +1,16 @@
-Marssonina sojaecola Mashkina, M.I. Nikol. & Uspensk. SPECIES
-=======
+# Marssonina sojicola Mashkina, M.I. Nikol. & Uspensk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mikol. Fitopatol. 16(2): 110 (1982)
 
 #### Original name
-Marssonina sojaecola Mashkina, M.I. Nikol. & Uspensk.
+Marssonina sojicola Mashkina, M.I. Nikol. & Uspensk.
 
 ### Remarks
 null

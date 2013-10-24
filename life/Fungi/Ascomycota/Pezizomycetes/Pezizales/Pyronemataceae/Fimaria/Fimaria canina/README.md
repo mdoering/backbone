@@ -1,5 +1,4 @@
-Fimaria canina Calonge SPECIES
-=======
+# Fimaria canina Calonge SPECIES
 
 #### Status
 ACCEPTED

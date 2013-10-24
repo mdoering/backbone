@@ -1,5 +1,4 @@
-Ascomyces polysporus Sorokin SPECIES
-=======
+# Ascomyces polysporus Sorokin SPECIES
 
 #### Status
 ACCEPTED

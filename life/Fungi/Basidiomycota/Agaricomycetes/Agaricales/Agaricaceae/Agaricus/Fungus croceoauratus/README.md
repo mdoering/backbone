@@ -1,5 +1,4 @@
-Fungus croceoauratus (V. Brig.) Kuntze SPECIES
-=======
+# Fungus croceoauratus (V. Brig.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

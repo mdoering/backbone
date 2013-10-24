@@ -1,5 +1,4 @@
-Entoloma neocaledonicum E. Horak SPECIES
-=======
+# Entoloma neocaledonicum E. Horak SPECIES
 
 #### Status
 ACCEPTED

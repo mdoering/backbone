@@ -1,5 +1,4 @@
-Rotundocylis arcellopsis Kufferath, 1950 SPECIES
-=======
+# Rotundocylis arcellopsis Kufferath, 1950 SPECIES
 
 #### Status
 ACCEPTED

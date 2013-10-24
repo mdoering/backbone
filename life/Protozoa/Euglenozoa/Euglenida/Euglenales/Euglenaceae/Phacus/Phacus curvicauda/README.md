@@ -1,5 +1,4 @@
-Phacus curvicauda f. thracicus I.K. Kirjakov FORM
-=======
+# Phacus curvicauda Svirenko SPECIES
 
 #### Status
 ACCEPTED

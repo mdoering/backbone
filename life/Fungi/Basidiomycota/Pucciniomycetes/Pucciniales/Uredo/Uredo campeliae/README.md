@@ -1,5 +1,4 @@
-Uredo campeliae F. Kern & Whetzel SPECIES
-=======
+# Uredo campeliae F. Kern & Whetzel SPECIES
 
 #### Status
 ACCEPTED

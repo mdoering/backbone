@@ -1,5 +1,4 @@
-Cylindrosporium acerinum Tracy & Earle SPECIES
-=======
+# Cylindrosporium acerinum Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neonorthidium Marheinecke, 1992 GENUS
-=======
+# Neonorthidium Marheinecke, 1992 GENUS
 
 #### Status
 ACCEPTED

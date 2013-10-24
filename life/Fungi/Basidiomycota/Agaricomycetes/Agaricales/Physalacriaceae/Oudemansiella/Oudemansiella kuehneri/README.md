@@ -1,5 +1,4 @@
-Oudemansiella kuehneri (Romagn.) Singer SPECIES
-=======
+# Oudemansiella kuehneri (Romagn.) Singer SPECIES
 
 #### Status
 ACCEPTED

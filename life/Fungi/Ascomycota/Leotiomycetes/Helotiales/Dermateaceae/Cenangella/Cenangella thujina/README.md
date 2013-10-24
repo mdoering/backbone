@@ -1,5 +1,4 @@
-Cenangella thujina Ellis & Barthol. SPECIES
-=======
+# Cenangella thujina Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

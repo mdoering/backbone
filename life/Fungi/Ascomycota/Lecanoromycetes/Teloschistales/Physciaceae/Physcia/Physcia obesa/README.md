@@ -1,5 +1,4 @@
-Physcia obesa f. obesa FORM
-=======
+# Physcia obesa Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia obesa f. obesa
+Physcia obesa Pers.
 
 ### Remarks
 null

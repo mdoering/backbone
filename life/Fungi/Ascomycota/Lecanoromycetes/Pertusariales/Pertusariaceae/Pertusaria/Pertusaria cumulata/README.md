@@ -1,5 +1,4 @@
-Pertusaria cumulata Tuck. ex C.W. Dodge SPECIES
-=======
+# Pertusaria cumulata Tuck. ex C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

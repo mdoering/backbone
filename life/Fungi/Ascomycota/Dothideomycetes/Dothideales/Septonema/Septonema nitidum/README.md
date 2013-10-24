@@ -1,5 +1,4 @@
-Septonema nitidum P. Karst. SPECIES
-=======
+# Septonema nitidum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

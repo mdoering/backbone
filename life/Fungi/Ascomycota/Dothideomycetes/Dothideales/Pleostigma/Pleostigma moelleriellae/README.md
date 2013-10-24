@@ -1,14 +1,13 @@
-Pleosphaeria moelleriellae (Rick) Sacc. & Trotter, 1913 SPECIES
-=======
+# Pleostigma moelleriellae (Rick) Kirschst., 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 22: 287 (1913)
+Annls mycol. 37: 91 (1939)
 
 #### Original name
 Acanthostigma moelleriellae Rick, 1906

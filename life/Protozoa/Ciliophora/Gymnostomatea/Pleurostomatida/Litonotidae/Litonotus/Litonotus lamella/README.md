@@ -1,11 +1,10 @@
-Litonotus binucleatus (Kahl, 1933) SPECIES
-=======
+# Litonotus lamella sensu Fryd-Versavel et al., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

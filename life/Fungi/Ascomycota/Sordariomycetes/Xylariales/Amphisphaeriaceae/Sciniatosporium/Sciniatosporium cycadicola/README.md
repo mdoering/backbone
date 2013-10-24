@@ -1,5 +1,4 @@
-Sciniatosporium cycadicola (Thirum.) Morgan-Jones SPECIES
-=======
+# Sciniatosporium cycadicola (Thirum.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

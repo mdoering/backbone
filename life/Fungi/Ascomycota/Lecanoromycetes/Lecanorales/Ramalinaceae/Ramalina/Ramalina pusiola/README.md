@@ -1,5 +1,4 @@
-Ramalina pusiola Müll. Arg. SPECIES
-=======
+# Ramalina pusiola Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Citromyces foetens Sopp SPECIES
-=======
+# Citromyces foetens Sopp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drosophila pecosense (Cockerell) Murrill SPECIES
-=======
+# Drosophila pecosense (Cockerell) Murrill SPECIES
 
 #### Status
 ACCEPTED

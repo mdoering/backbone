@@ -1,5 +1,4 @@
-Dichomera oreades Cooke SPECIES
-=======
+# Dichomera oreades Cooke SPECIES
 
 #### Status
 ACCEPTED

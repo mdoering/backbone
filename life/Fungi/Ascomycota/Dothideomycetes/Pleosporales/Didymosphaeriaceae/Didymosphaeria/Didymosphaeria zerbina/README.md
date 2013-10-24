@@ -1,5 +1,4 @@
-Didymosphaeria zerbina (De Not.) Sacc. SPECIES
-=======
+# Didymosphaeria zerbina (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

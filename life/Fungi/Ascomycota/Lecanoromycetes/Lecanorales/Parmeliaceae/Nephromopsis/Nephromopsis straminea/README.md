@@ -1,5 +1,4 @@
-Nephromopsis straminea Räsänen SPECIES
-=======
+# Nephromopsis straminea Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola marcgraviae Tehon SPECIES
-=======
+# Meliola marcgraviae Tehon SPECIES
 
 #### Status
 ACCEPTED

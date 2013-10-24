@@ -1,5 +1,4 @@
-Didymella austriaca Petr. SPECIES
-=======
+# Didymella austriaca Petr. SPECIES
 
 #### Status
 ACCEPTED

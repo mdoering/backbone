@@ -1,5 +1,4 @@
-Himantia flammea Jungh. SPECIES
-=======
+# Himantia flammea Jungh. SPECIES
 
 #### Status
 ACCEPTED

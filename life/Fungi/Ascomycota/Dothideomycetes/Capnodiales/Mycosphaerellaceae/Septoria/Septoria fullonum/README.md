@@ -1,5 +1,4 @@
-Septoria fullonum Sacc. SPECIES
-=======
+# Septoria fullonum Sacc. SPECIES
 
 #### Status
 ACCEPTED

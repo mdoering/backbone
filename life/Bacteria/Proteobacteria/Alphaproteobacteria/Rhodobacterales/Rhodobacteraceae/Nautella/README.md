@@ -1,5 +1,4 @@
-Nautella Vandecandelaere, Nercessian, Segaert, Achouak, Mollica, Faimali & Vandamme, 2009 GENUS
-=======
+# Nautella Vandecandelaere, Nercessian, Segaert, Achouak, Mollica, Faimali & Vandamme, 2009 GENUS
 
 #### Status
 ACCEPTED

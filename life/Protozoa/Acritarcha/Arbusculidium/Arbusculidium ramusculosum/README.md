@@ -1,5 +1,4 @@
-Arbusculidium ramusculosum (Combaz, 1967) Fensome et al., 1990 SPECIES
-=======
+# Arbusculidium ramusculosum (Combaz, 1967) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

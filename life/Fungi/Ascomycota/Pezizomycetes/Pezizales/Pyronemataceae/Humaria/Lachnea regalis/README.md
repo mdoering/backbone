@@ -1,5 +1,4 @@
-Lachnea regalis Velen. SPECIES
-=======
+# Lachnea regalis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis cichoracaearum (Sacc.) Bubák SPECIES
-=======
+# Phomopsis cichoracaearum (Sacc.) Bubák SPECIES
 
 #### Status
 ACCEPTED

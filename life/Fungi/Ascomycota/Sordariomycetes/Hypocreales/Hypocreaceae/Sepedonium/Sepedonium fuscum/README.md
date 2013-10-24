@@ -1,5 +1,4 @@
-Sepedonium fuscum Bonord. SPECIES
-=======
+# Sepedonium fuscum Bonord. SPECIES
 
 #### Status
 ACCEPTED

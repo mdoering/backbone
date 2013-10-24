@@ -1,5 +1,4 @@
-Kolpoda solea Bory, 1824 SPECIES
-=======
+# Kolpoda solea Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

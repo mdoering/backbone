@@ -1,5 +1,4 @@
-Cercospora thlaspeos Chupp & H.C. Greene SPECIES
-=======
+# Cercospora thlaspeos Chupp & H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

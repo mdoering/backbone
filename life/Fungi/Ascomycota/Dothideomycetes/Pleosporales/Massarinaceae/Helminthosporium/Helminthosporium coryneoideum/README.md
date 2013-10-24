@@ -1,5 +1,4 @@
-Helminthosporium coryneoideum var. coryneoideum VARIETY
-=======
+# Helminthosporium coryneoideum De Not. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helminthosporium coryneoideum var. coryneoideum
+Helminthosporium coryneoideum De Not.
 
 ### Remarks
 null

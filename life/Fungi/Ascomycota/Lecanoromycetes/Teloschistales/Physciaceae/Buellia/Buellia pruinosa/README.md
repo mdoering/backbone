@@ -1,5 +1,4 @@
-Buellia pruinosa Müll. Arg. SPECIES
-=======
+# Buellia pruinosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

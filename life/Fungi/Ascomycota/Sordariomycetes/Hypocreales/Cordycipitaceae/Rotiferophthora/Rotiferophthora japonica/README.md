@@ -1,5 +1,4 @@
-Rotiferophthora japonica Glockling SPECIES
-=======
+# Rotiferophthora japonica Glockling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammodiscus anguillae SPECIES
-=======
+# Ammodiscus anguillae SPECIES
 
 #### Status
 ACCEPTED

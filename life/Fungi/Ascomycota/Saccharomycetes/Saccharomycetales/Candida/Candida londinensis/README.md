@@ -1,5 +1,4 @@
-Candida londinensis (Castell. & Chalm.) Cif. SPECIES
-=======
+# Candida londinensis (Castell. & Chalm.) Cif. SPECIES
 
 #### Status
 ACCEPTED

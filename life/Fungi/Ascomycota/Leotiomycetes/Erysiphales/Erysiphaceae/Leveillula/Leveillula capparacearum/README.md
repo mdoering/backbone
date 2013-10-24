@@ -1,5 +1,4 @@
-Leveillula capparacearum f. capparacearum FORM
-=======
+# Leveillula capparacearum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula capparacearum f. capparacearum
+Leveillula capparacearum Golovin
 
 ### Remarks
 null

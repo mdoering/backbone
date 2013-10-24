@@ -1,5 +1,4 @@
-Anthostoma chusqueicola Speg. SPECIES
-=======
+# Anthostoma chusqueicola Speg. SPECIES
 
 #### Status
 ACCEPTED

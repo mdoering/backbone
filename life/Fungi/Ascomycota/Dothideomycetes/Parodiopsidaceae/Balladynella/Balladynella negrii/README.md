@@ -1,5 +1,4 @@
-Balladynella negrii (E. Castell.) Bat. & J.L. Bezerra SPECIES
-=======
+# Balladynella negrii (E. Castell.) Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

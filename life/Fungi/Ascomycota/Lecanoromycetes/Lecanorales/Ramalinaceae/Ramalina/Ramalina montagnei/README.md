@@ -1,5 +1,4 @@
-Ramalina montagnei De Not. SPECIES
-=======
+# Ramalina montagnei De Not. SPECIES
 
 #### Status
 ACCEPTED

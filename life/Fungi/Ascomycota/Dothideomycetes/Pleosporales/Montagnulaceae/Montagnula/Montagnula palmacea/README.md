@@ -1,5 +1,4 @@
-Montagnula palmacea (Cooke) Aptroot SPECIES
-=======
+# Montagnula palmacea (Cooke) Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ocellularia crassa (Müll. Arg.) Hale SPECIES
-=======
+# Stegobolus crassus (Müll. Arg.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 11(1): 136 (1980)
+in Frisch & Kalb, Biblthca Lichenol. 92: 448 (2006)
 
 #### Original name
 Leptotrema crassum Müll. Arg.

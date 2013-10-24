@@ -1,14 +1,13 @@
-Rhinocladiella spinifera (H.S. Nielsen & Conant) de Hoog, 1977 SPECIES
-=======
+# Exophiala spinifera (H.S. Nielsen & Conant) McGinnis, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 15: 93 (1977)
+Mycotaxon 5(1): 337 (1977)
 
 #### Original name
 Phialophora spinifera H.S. Nielsen & Conant, 1968

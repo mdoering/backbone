@@ -1,5 +1,4 @@
-Streptomyces nashvillensis McVeigh and Reyes, 1961 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces nashvillensis McVeigh and Reyes, 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

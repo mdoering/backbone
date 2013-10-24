@@ -1,14 +1,13 @@
-Ustilago intermedia J. Schröt., 1877 SPECIES
-=======
+# Microbotryum intermedium (J. Schröt.) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Beitr. Biol. Pfl. 2: 352 (1877)
+Mycotaxon 67: 44 (1998)
 
 #### Original name
 Ustilago intermedia J. Schröt., 1877

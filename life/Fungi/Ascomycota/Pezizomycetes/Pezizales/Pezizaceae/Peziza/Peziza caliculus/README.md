@@ -1,5 +1,4 @@
-Peziza caliculus Sowerby SPECIES
-=======
+# Peziza caliculus Sowerby SPECIES
 
 #### Status
 ACCEPTED

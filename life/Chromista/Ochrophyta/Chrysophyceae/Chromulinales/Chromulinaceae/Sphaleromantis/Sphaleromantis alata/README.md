@@ -1,5 +1,4 @@
-Sphaleromantis alata Conrad SPECIES
-=======
+# Sphaleromantis alata Conrad SPECIES
 
 #### Status
 ACCEPTED

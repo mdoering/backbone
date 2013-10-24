@@ -1,5 +1,4 @@
-Periconiella leonensis M.B. Ellis SPECIES
-=======
+# Periconiella leonensis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

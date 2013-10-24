@@ -1,5 +1,4 @@
-Peridinium belgicum SPECIES
-=======
+# Peridinium belgicum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagenosolenia peltatusella Loeblich & Tappan, 1994 SPECIES
-=======
+# Lagenosolenia peltatusella Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria elevans Schwein. SPECIES
-=======
+# Sphaeria elevans Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium subcuticulare Vassiljevsky SPECIES
-=======
+# Cylindrosporium subcuticulare Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

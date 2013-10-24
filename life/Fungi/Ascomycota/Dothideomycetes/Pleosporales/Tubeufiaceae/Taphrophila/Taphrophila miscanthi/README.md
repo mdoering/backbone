@@ -1,5 +1,4 @@
-Taphrophila miscanthi (W.H. Hsieh, Chi Y. Chen & Sivan.) Réblová & M.E. Barr, 1998 SPECIES
-=======
+# Taphrophila miscanthi (W.H. Hsieh, Chi Y. Chen & Sivan.) Réblová & M.E. Barr, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prolixosphaeridiopsis Hogg & Bailey, 1997 GENUS
-=======
+# Prolixosphaeridiopsis Hogg & Bailey, 1997 GENUS
 
 #### Status
 ACCEPTED

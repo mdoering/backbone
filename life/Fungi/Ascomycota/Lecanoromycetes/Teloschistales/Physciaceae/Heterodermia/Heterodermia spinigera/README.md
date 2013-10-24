@@ -1,5 +1,4 @@
-Heterodermia spinigera (Kurok.) Trass SPECIES
-=======
+# Heterodermia spinigera (Kurok.) Trass SPECIES
 
 #### Status
 ACCEPTED

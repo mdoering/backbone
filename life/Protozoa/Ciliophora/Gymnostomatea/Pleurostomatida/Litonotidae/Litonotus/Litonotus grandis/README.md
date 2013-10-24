@@ -1,5 +1,4 @@
-Litonotus grandis SPECIES
-=======
+# Litonotus grandis SPECIES
 
 #### Status
 ACCEPTED

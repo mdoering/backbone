@@ -1,5 +1,4 @@
-Pluteus sulcatus Singer SPECIES
-=======
+# Pluteus sulcatus Singer SPECIES
 
 #### Status
 ACCEPTED

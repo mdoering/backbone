@@ -1,5 +1,4 @@
-Papyrodiscus ferrugineus D.A. Reid, 1979 SPECIES
-=======
+# Papyrodiscus ferrugineus D.A. Reid, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo floscopae Henn. SPECIES
-=======
+# Uredo floscopae Henn. SPECIES
 
 #### Status
 ACCEPTED

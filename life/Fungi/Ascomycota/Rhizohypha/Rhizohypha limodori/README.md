@@ -1,5 +1,4 @@
-Rhizohypha limodori Chodat SPECIES
-=======
+# Rhizohypha limodori Chodat SPECIES
 
 #### Status
 ACCEPTED

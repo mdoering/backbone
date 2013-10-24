@@ -1,8 +1,7 @@
-Oxytricha platystoma Perty, 1825 SPECIES
-=======
+# Steinia platystoma (Ehrenberg, 1831) Diesing, 1866 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

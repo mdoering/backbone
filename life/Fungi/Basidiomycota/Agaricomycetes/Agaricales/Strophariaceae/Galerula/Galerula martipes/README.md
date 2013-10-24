@@ -1,5 +1,4 @@
-Galerula martipes (Kauffman) Zeller SPECIES
-=======
+# Galerula martipes (Kauffman) Zeller SPECIES
 
 #### Status
 ACCEPTED

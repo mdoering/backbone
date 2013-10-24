@@ -1,5 +1,4 @@
-Enterobacter gergoviae Brenner et al., 1980 SPECIES
-=======
+# Enterobacter gergoviae Brenner et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

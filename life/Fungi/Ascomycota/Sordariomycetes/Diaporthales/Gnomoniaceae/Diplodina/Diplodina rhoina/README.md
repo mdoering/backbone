@@ -1,5 +1,4 @@
-Diplodina rhoina Hollós SPECIES
-=======
+# Diplodina rhoina Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Monacrosporium robustum J.S. McCulloch, 1977 SPECIES
-=======
+# Gamsylella robusta (J.S. McCulloch) M. Scholler, Hagedorn & A. Rubner, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 68(2): 177 (1977)
+Sydowia 51(1): 109 (1999)
 
 #### Original name
 Monacrosporium robustum J.S. McCulloch, 1977

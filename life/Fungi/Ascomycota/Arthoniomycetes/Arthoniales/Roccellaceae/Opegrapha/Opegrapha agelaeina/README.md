@@ -1,5 +1,4 @@
-Opegrapha agelaeina Jatta SPECIES
-=======
+# Opegrapha agelaeina Jatta SPECIES
 
 #### Status
 ACCEPTED

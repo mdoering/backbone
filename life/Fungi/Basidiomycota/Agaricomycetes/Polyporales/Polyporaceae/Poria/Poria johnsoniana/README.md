@@ -1,5 +1,4 @@
-Poria johnsoniana (Murrill) Sacc. & Trotter SPECIES
-=======
+# Poria johnsoniana (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

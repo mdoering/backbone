@@ -1,5 +1,4 @@
-Beauveria delacroixii (Sacc.) Petch SPECIES
-=======
+# Beauveria delacroixii (Sacc.) Petch SPECIES
 
 #### Status
 ACCEPTED

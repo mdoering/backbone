@@ -1,5 +1,4 @@
-Dictyopyxidia punctata K. P. Jain SPECIES
-=======
+# Dictyopyxidia punctata K. P. Jain SPECIES
 
 #### Status
 ACCEPTED

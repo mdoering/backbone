@@ -1,5 +1,4 @@
-Tulostoma subfuscum V.S. White SPECIES
-=======
+# Tulostoma subfuscum V.S. White SPECIES
 
 #### Status
 ACCEPTED

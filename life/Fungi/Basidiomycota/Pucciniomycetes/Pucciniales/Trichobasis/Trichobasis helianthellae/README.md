@@ -1,5 +1,4 @@
-Trichobasis helianthellae Peck SPECIES
-=======
+# Trichobasis helianthellae Peck SPECIES
 
 #### Status
 ACCEPTED

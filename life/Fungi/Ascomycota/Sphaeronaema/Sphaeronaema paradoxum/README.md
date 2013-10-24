@@ -1,5 +1,4 @@
-Sphaeronaema paradoxum Durieu & Mont. SPECIES
-=======
+# Sphaeronaema paradoxum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

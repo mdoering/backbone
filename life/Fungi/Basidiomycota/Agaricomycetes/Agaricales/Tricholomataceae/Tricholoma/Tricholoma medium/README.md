@@ -1,5 +1,4 @@
-Tricholoma medium Paulet ex Brebeck SPECIES
-=======
+# Tricholoma medium Paulet ex Brebeck SPECIES
 
 #### Status
 ACCEPTED

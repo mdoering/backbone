@@ -1,5 +1,4 @@
-Asterina horsfieldiae Hansf. SPECIES
-=======
+# Asterina horsfieldiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

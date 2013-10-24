@@ -1,5 +1,4 @@
-Dothidea advena Ces. SPECIES
-=======
+# Dothidea advena Ces. SPECIES
 
 #### Status
 ACCEPTED

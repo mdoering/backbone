@@ -1,5 +1,4 @@
-Mycena subgrisea (Peck) Maas Geest. SPECIES
-=======
+# Mycena subgrisea (Peck) Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora primulae Crivelli SPECIES
-=======
+# Pleospora primulae Crivelli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytodiplospora parallela Dearn. SPECIES
-=======
+# Cytodiplospora parallela Dearn. SPECIES
 
 #### Status
 ACCEPTED

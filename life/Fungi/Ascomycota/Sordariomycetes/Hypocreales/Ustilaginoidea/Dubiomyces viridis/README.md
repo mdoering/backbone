@@ -1,5 +1,4 @@
-Dubiomyces viridis Lloyd SPECIES
-=======
+# Dubiomyces viridis Lloyd SPECIES
 
 #### Status
 ACCEPTED

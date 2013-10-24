@@ -1,5 +1,4 @@
-Geotrichum lutescens (Sacc.) Lindau SPECIES
-=======
+# Geotrichum lutescens (Sacc.) Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea paratropoides Müll. Arg. SPECIES
-=======
+# Lecidea paratropoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

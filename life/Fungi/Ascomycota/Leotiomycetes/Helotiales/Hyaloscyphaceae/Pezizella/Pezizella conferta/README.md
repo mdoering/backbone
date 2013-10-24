@@ -1,5 +1,4 @@
-Pezizella conferta Velen. SPECIES
-=======
+# Pezizella conferta Velen. SPECIES
 
 #### Status
 ACCEPTED

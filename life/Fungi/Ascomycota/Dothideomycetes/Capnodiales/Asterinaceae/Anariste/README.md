@@ -1,5 +1,4 @@
-Anariste Syd. GENUS
-=======
+# Anariste Syd. GENUS
 
 #### Status
 ACCEPTED

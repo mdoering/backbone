@@ -1,5 +1,4 @@
-Monochaetia paeoniae (Maubl.) Sacc. & D. Sacc. SPECIES
-=======
+# Monochaetia paeoniae (Maubl.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

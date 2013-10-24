@@ -1,5 +1,4 @@
-Leptonia bicolor Massee SPECIES
-=======
+# Leptonia bicolor Massee SPECIES
 
 #### Status
 ACCEPTED

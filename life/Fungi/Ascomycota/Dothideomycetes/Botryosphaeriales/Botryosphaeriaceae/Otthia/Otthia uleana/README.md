@@ -1,5 +1,4 @@
-Otthia uleana (Sacc. & Syd.) Höhn. SPECIES
-=======
+# Otthia uleana (Sacc. & Syd.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

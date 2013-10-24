@@ -1,5 +1,4 @@
-Limacella asperulospora Corner SPECIES
-=======
+# Limacella asperulospora Corner SPECIES
 
 #### Status
 ACCEPTED

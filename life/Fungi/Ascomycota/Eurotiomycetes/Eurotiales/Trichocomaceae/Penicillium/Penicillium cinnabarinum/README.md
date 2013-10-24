@@ -1,5 +1,4 @@
-Penicillium cinnabarinum Fuckel SPECIES
-=======
+# Penicillium cinnabarinum Fuckel SPECIES
 
 #### Status
 ACCEPTED

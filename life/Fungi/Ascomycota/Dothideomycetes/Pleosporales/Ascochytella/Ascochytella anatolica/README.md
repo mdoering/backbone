@@ -1,5 +1,4 @@
-Ascochytella anatolica Petr. SPECIES
-=======
+# Ascochytella anatolica Petr. SPECIES
 
 #### Status
 ACCEPTED

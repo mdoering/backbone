@@ -1,5 +1,4 @@
-Camarosporium pommersheimii Moesz SPECIES
-=======
+# Camarosporium pommersheimii Moesz SPECIES
 
 #### Status
 ACCEPTED

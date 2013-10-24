@@ -1,5 +1,4 @@
-Cercospora lindtneri Moesz SPECIES
-=======
+# Cercospora lindtneri Moesz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia polypogonis Speg. SPECIES
-=======
+# Puccinia polypogonis Speg. SPECIES
 
 #### Status
 ACCEPTED

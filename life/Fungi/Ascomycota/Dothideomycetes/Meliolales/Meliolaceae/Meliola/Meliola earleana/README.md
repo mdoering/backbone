@@ -1,5 +1,4 @@
-Meliola earleana Cif. SPECIES
-=======
+# Meliola earleana Cif. SPECIES
 
 #### Status
 ACCEPTED

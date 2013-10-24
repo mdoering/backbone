@@ -1,14 +1,13 @@
-Ceraceomyces violascens var. cystidiatus J. Erikss. & Hjortstam, 1972 VARIETY
-=======
+# Ceraceomyces cystidiatus (J. Erikss. & Hjortstam) Hjortstam, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Willdenowia 7: 146 (1972)
+Svensk bot. Tidskr. 67(2): 105 (1973)
 
 #### Original name
 Ceraceomyces violascens var. cystidiatus J. Erikss. & Hjortstam, 1972

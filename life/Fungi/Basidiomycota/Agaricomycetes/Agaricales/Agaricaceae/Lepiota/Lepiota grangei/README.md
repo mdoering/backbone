@@ -1,17 +1,16 @@
-Lepiota grangei f. grangei FORM
-=======
+# Lepiota grangei (Eyre) J.E. Lange, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Fl. Agaric. Danic. 1: 30 (1935)
 
 #### Original name
-Lepiota grangei f. grangei
+Schulzeria grangei Eyre, 1903
 
 ### Remarks
 null

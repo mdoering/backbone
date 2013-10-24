@@ -1,5 +1,4 @@
-Placidium psorinum A. Massal. SPECIES
-=======
+# Placidium psorinum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

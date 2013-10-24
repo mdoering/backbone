@@ -1,5 +1,4 @@
-Trichothecium helminthosporii (Thüm.) Sacc. SPECIES
-=======
+# Trichothecium helminthosporii (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

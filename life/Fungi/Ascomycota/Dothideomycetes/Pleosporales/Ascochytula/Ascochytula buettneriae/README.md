@@ -1,5 +1,4 @@
-Ascochytula buettneriae Bond.-Mont. SPECIES
-=======
+# Ascochytula buettneriae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

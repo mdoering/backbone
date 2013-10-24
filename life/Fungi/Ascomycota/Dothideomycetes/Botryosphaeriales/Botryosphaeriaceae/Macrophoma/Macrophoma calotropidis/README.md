@@ -1,5 +1,4 @@
-Macrophoma calotropidis (Thüm.) Berl. & Voglino SPECIES
-=======
+# Macrophoma calotropidis (Thüm.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

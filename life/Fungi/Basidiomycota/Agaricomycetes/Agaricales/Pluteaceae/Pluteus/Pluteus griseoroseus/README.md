@@ -1,5 +1,4 @@
-Pluteus griseoroseus Beeli SPECIES
-=======
+# Pluteus griseoroseus Beeli SPECIES
 
 #### Status
 ACCEPTED

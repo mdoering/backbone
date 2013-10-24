@@ -1,5 +1,4 @@
-Squamaria persica (Müll. Arg.) Szatala SPECIES
-=======
+# Squamaria persica (Müll. Arg.) Szatala SPECIES
 
 #### Status
 ACCEPTED

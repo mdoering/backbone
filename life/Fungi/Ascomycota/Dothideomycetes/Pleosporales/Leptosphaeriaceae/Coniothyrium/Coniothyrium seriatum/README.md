@@ -1,5 +1,4 @@
-Coniothyrium seriatum (Pers.) Kuntze SPECIES
-=======
+# Coniothyrium seriatum (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

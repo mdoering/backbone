@@ -1,5 +1,4 @@
-Helotium uralense Naumov SPECIES
-=======
+# Helotium uralense Naumov SPECIES
 
 #### Status
 ACCEPTED

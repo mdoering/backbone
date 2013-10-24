@@ -1,5 +1,4 @@
-Oxytricha parvistyla Stokes, 1887 SPECIES
-=======
+# Oxytricha parvistyla Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

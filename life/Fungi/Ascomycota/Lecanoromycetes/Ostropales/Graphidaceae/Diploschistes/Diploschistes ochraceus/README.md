@@ -1,5 +1,4 @@
-Diploschistes ochraceus var. ochraceus VARIETY
-=======
+# Diploschistes ochraceus J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diploschistes ochraceus var. ochraceus
+Diploschistes ochraceus J. Steiner
 
 ### Remarks
 null

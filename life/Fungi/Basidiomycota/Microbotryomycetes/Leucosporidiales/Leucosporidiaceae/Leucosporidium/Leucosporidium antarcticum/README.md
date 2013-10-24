@@ -1,5 +1,4 @@
-Leucosporidium antarcticum Fell, Statzell, I.L. Hunter & Phaff SPECIES
-=======
+# Leucosporidium antarcticum Fell, Statzell, I.L. Hunter & Phaff SPECIES
 
 #### Status
 ACCEPTED

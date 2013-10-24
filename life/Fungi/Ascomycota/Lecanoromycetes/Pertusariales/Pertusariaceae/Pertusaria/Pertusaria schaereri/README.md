@@ -1,5 +1,4 @@
-Pertusaria schaereri Hafellner SPECIES
-=======
+# Pertusaria schaereri Hafellner SPECIES
 
 #### Status
 ACCEPTED

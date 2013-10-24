@@ -1,5 +1,4 @@
-Laestadia diffusa (Crié) Sacc. & Traverso SPECIES
-=======
+# Laestadia diffusa (Crié) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

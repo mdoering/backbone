@@ -1,5 +1,4 @@
-Verticillium allochroum (Link) Corda SPECIES
-=======
+# Verticillium allochroum (Link) Corda SPECIES
 
 #### Status
 ACCEPTED

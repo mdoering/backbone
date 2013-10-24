@@ -1,5 +1,4 @@
-Aschersoniopsis GENUS
-=======
+# Aschersoniopsis GENUS
 
 #### Status
 ACCEPTED

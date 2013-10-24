@@ -1,5 +1,4 @@
-Arthonia cretacea Zahlbr. SPECIES
-=======
+# Arthonia cretacea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

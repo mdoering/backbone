@@ -1,5 +1,4 @@
-Sphaeria graphis (Fuckel) SPECIES
-=======
+# Sphaeria graphis (Fuckel) SPECIES
 
 #### Status
 ACCEPTED

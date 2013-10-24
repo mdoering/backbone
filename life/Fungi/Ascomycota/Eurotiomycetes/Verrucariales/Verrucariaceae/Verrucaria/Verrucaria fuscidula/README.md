@@ -1,5 +1,4 @@
-Verrucaria fuscidula Servít SPECIES
-=======
+# Verrucaria fuscidula Servít SPECIES
 
 #### Status
 ACCEPTED

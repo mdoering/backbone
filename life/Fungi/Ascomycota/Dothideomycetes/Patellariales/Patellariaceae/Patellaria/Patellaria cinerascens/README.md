@@ -1,5 +1,4 @@
-Patellaria cinerascens (Schaer.) Trevis. SPECIES
-=======
+# Patellaria cinerascens (Schaer.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

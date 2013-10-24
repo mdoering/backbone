@@ -1,5 +1,4 @@
-Gymnodinium massarti J. Schiller SPECIES
-=======
+# Gymnodinium massarti J. Schiller SPECIES
 
 #### Status
 ACCEPTED

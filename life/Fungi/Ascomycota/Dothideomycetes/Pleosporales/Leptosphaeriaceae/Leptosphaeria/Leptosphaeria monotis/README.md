@@ -1,5 +1,4 @@
-Leptosphaeria monotis Rehm SPECIES
-=======
+# Leptosphaeria monotis Rehm SPECIES
 
 #### Status
 ACCEPTED

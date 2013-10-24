@@ -1,5 +1,4 @@
-Cucurbitaria adesmicola Speg. SPECIES
-=======
+# Cucurbitaria adesmicola Speg. SPECIES
 
 #### Status
 ACCEPTED

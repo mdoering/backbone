@@ -1,5 +1,4 @@
-Diplodina ischaemi Morochk. SPECIES
-=======
+# Diplodina ischaemi Morochk. SPECIES
 
 #### Status
 ACCEPTED

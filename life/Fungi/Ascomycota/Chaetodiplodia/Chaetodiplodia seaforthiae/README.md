@@ -1,5 +1,4 @@
-Chaetodiplodia seaforthiae (Henn.) Died. SPECIES
-=======
+# Chaetodiplodia seaforthiae (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

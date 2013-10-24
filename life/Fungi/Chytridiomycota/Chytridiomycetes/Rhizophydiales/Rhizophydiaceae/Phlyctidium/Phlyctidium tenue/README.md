@@ -1,5 +1,4 @@
-Phlyctidium tenue Sparrow SPECIES
-=======
+# Phlyctidium tenue Sparrow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cyanostylon cylindrocellulare Geitler SPECIES
-=======
+# Hormothece cylindrocellulare (Geitler) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

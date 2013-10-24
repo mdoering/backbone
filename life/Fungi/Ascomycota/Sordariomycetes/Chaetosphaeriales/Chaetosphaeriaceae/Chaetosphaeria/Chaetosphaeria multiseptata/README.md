@@ -1,5 +1,4 @@
-Chaetosphaeria multiseptata Wehm. SPECIES
-=======
+# Chaetosphaeria multiseptata Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora wilsonii H. Magn. SPECIES
-=======
+# Acarospora wilsonii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

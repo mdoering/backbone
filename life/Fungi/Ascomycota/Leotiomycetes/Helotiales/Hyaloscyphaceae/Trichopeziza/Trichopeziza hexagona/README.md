@@ -1,5 +1,4 @@
-Trichopeziza hexagona (Fuckel) Sacc. SPECIES
-=======
+# Trichopeziza hexagona (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

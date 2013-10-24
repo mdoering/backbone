@@ -1,5 +1,4 @@
-Rinodina microbola Tuck. SPECIES
-=======
+# Rinodina microbola Tuck. SPECIES
 
 #### Status
 ACCEPTED

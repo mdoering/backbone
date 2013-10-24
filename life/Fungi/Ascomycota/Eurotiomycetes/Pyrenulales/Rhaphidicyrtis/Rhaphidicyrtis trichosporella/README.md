@@ -1,14 +1,13 @@
-Mycoporum trichosporellum Nyl. SPECIES
-=======
+# Rhaphidicyrtis trichosporella (Nyl.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 57: 14 (1874)
+Acta Soc. Fauna Flora fenn. 49(no. 2): 217 (1921)
 
 #### Original name
 Mycoporum trichosporellum Nyl.

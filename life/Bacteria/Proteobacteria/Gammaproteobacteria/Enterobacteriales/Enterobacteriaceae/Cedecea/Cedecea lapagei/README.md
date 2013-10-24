@@ -1,5 +1,4 @@
-Cedecea lapagei Grimont et al., 1981 SPECIES
-=======
+# Cedecea lapagei Grimont et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

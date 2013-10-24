@@ -1,5 +1,4 @@
-Oscillatoriopsis psilata P. K. Maithy & M. Shukla SPECIES
-=======
+# Oscillatoriopsis psilata P. K. Maithy & M. Shukla SPECIES
 
 #### Status
 ACCEPTED

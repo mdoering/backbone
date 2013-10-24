@@ -1,5 +1,4 @@
-Cryptella cyanophora Pascher SPECIES
-=======
+# Cryptella cyanophora Pascher SPECIES
 
 #### Status
 ACCEPTED

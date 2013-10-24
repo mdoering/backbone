@@ -1,5 +1,4 @@
-Vorticella bosminae SPECIES
-=======
+# Vorticella bosminae SPECIES
 
 #### Status
 ACCEPTED

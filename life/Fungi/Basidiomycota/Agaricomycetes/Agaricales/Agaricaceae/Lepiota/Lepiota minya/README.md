@@ -1,5 +1,4 @@
-Lepiota minya Grgur. SPECIES
-=======
+# Lepiota minya Grgur. SPECIES
 
 #### Status
 ACCEPTED

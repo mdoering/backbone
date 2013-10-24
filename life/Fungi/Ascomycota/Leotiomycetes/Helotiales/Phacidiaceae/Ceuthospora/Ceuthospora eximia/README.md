@@ -1,5 +1,4 @@
-Ceuthospora eximia Höhn. SPECIES
-=======
+# Ceuthospora eximia Höhn. SPECIES
 
 #### Status
 ACCEPTED

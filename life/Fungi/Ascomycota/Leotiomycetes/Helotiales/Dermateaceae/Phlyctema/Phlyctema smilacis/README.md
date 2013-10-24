@@ -1,5 +1,4 @@
-Phlyctema smilacis Cooke SPECIES
-=======
+# Phlyctema smilacis Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paranotila L.R.Cleveland GENUS
-=======
+# Paranotila L.R.Cleveland GENUS
 
 #### Status
 ACCEPTED

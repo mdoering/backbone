@@ -1,5 +1,4 @@
-Pertusaria dealbens Nyl. SPECIES
-=======
+# Pertusaria dealbens Nyl. SPECIES
 
 #### Status
 ACCEPTED

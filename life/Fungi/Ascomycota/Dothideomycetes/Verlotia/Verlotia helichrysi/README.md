@@ -1,5 +1,4 @@
-Verlotia helichrysi Fabre SPECIES
-=======
+# Verlotia helichrysi Fabre SPECIES
 
 #### Status
 ACCEPTED

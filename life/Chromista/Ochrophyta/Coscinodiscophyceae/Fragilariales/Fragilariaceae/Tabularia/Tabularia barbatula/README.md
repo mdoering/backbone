@@ -1,5 +1,4 @@
-Tabularia barbatula (Kützing) D.M. Williams & Round SPECIES
-=======
+# Tabularia barbatula (Kützing) D.M. Williams & Round SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina syringae Hollós SPECIES
-=======
+# Diplodina syringae Hollós SPECIES
 
 #### Status
 ACCEPTED

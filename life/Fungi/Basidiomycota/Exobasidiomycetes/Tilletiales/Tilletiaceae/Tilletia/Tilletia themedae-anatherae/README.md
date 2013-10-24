@@ -1,5 +1,4 @@
-Tilletia themedae-anatherae Pavgi & Thirum. SPECIES
-=======
+# Tilletia themedae-anatherae Pavgi & Thirum. SPECIES
 
 #### Status
 ACCEPTED

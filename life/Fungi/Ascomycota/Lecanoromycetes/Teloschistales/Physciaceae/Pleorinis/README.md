@@ -1,5 +1,4 @@
-Pleorinis GENUS
-=======
+# Pleorinis GENUS
 
 #### Status
 ACCEPTED

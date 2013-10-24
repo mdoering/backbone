@@ -1,5 +1,4 @@
-Bryostroma bryi Döbbeler, 1982 SPECIES
-=======
+# Bryostroma bryi Döbbeler, 1982 SPECIES
 
 #### Status
 ACCEPTED

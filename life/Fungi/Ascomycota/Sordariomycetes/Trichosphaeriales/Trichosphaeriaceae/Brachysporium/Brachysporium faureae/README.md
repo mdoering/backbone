@@ -1,5 +1,4 @@
-Brachysporium faureae Henn. SPECIES
-=======
+# Brachysporium faureae Henn. SPECIES
 
 #### Status
 ACCEPTED

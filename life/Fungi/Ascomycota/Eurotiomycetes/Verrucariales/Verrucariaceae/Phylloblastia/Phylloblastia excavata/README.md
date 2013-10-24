@@ -1,5 +1,4 @@
-Phylloblastia excavata P. M. McCarthy SPECIES
-=======
+# Phylloblastia excavata P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

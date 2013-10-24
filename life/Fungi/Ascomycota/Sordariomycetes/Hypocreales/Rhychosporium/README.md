@@ -1,5 +1,4 @@
-Rhychosporium GENUS
-=======
+# Rhychosporium GENUS
 
 #### Status
 ACCEPTED

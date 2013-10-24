@@ -1,5 +1,4 @@
-Cortinarius ignipes M.M. Moser SPECIES
-=======
+# Cortinarius ignipes M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

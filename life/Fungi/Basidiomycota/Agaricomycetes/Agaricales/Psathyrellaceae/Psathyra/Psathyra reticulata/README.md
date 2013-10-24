@@ -1,5 +1,4 @@
-Psathyra reticulata Petr. SPECIES
-=======
+# Psathyra reticulata Petr. SPECIES
 
 #### Status
 ACCEPTED

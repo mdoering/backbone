@@ -1,5 +1,4 @@
-Lepiota icterina F.H. Møller SPECIES
-=======
+# Lepiota icterina F.H. Møller SPECIES
 
 #### Status
 ACCEPTED

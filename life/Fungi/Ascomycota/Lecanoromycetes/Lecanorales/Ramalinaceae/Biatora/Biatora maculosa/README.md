@@ -1,5 +1,4 @@
-Biatora maculosa (H. Magn.) Räsänen SPECIES
-=======
+# Biatora maculosa (H. Magn.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

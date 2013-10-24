@@ -1,5 +1,4 @@
-Cryptococcus friedmannii Vishniac SPECIES
-=======
+# Cryptococcus friedmannii Vishniac SPECIES
 
 #### Status
 ACCEPTED

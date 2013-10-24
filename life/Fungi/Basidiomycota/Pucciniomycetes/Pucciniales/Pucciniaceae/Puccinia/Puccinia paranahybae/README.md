@@ -1,5 +1,4 @@
-Puccinia paranahybae Henn. SPECIES
-=======
+# Puccinia paranahybae Henn. SPECIES
 
 #### Status
 ACCEPTED

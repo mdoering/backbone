@@ -1,5 +1,4 @@
-Tetracilia Valkanov, 1970 GENUS
-=======
+# Tetracilia Valkanov, 1970 GENUS
 
 #### Status
 ACCEPTED

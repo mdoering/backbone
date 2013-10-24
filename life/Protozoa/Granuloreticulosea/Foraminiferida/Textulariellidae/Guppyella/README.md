@@ -1,5 +1,4 @@
-Guppyella Bronnimann, 1951 GENUS
-=======
+# Guppyella Bronnimann, 1951 GENUS
 
 #### Status
 ACCEPTED

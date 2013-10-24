@@ -1,5 +1,4 @@
-Diplodia fructus-pandani Henn. SPECIES
-=======
+# Diplodia fructus-pandani Henn. SPECIES
 
 #### Status
 ACCEPTED

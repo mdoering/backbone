@@ -1,5 +1,4 @@
-Rhabdospora senecionis-aetnensis (Scalia) Sacc. & P. Syd. SPECIES
-=======
+# Rhabdospora senecionis-aetnensis (Scalia) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

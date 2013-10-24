@@ -1,5 +1,4 @@
-Placodium subnivale (Nyl.) Motyka SPECIES
-=======
+# Placodium subnivale (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

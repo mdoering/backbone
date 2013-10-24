@@ -1,5 +1,4 @@
-Ajellomycetaceae Unter., J.A. Scott & Sigler FAMILY
-=======
+# Ajellomycetaceae Unter., J.A. Scott & Sigler FAMILY
 
 #### Status
 ACCEPTED

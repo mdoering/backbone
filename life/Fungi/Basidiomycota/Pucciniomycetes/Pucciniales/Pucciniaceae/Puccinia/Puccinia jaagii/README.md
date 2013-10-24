@@ -1,5 +1,4 @@
-Puccinia jaagii Boedijn SPECIES
-=======
+# Puccinia jaagii Boedijn SPECIES
 
 #### Status
 ACCEPTED

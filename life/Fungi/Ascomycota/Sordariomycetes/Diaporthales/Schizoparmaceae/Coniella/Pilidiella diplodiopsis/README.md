@@ -1,5 +1,4 @@
-Pilidiella diplodiopsis Crous & Van Niekerk SPECIES
-=======
+# Pilidiella diplodiopsis Crous & Van Niekerk SPECIES
 
 #### Status
 ACCEPTED

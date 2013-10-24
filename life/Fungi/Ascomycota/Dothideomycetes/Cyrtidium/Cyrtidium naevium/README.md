@@ -1,5 +1,4 @@
-Cyrtidium naevium Vain., 1921 SPECIES
-=======
+# Cyrtidium naevium Vain., 1921 SPECIES
 
 #### Status
 ACCEPTED

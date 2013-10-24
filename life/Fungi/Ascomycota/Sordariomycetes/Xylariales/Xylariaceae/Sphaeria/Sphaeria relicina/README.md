@@ -1,5 +1,4 @@
-Sphaeria relicina Fr. SPECIES
-=======
+# Sphaeria relicina Fr. SPECIES
 
 #### Status
 ACCEPTED

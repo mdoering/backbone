@@ -1,5 +1,4 @@
-Dermocybe glutinosa Velen. SPECIES
-=======
+# Dermocybe glutinosa Velen. SPECIES
 
 #### Status
 ACCEPTED

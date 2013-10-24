@@ -1,5 +1,4 @@
-Gyalorhethium angustispinosum Uutela & Tynni, 1991 SPECIES
-=======
+# Gyalorhethium angustispinosum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

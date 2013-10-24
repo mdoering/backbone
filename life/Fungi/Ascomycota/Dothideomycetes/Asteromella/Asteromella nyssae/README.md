@@ -1,5 +1,4 @@
-Asteromella nyssae (Cooke) Aa SPECIES
-=======
+# Asteromella nyssae (Cooke) Aa SPECIES
 
 #### Status
 ACCEPTED

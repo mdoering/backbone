@@ -1,5 +1,4 @@
-Asterothyriaceae Walt. Watson ex R. Sant. FAMILY
-=======
+# Asterothyriaceae Walt. Watson ex R. Sant. FAMILY
 
 #### Status
 ACCEPTED

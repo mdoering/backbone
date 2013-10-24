@@ -1,5 +1,4 @@
-Scutellinia texensis (Berk. & M.A. Curtis) Le Gal SPECIES
-=======
+# Scutellinia texensis (Berk. & M.A. Curtis) Le Gal SPECIES
 
 #### Status
 ACCEPTED

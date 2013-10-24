@@ -1,5 +1,4 @@
-Candida peoriaensis Kurtzman, 2001 SPECIES
-=======
+# Candida peoriaensis Kurtzman, 2001 SPECIES
 
 #### Status
 ACCEPTED

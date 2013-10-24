@@ -1,5 +1,4 @@
-Thermoleophilum minutum Zarilla & Perry, 1986 SPECIES
-=======
+# Thermoleophilum minutum Zarilla & Perry, 1986 SPECIES
 
 #### Status
 ACCEPTED

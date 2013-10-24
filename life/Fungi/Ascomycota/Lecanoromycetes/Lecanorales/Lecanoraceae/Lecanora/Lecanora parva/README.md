@@ -1,5 +1,4 @@
-Lecanora parva Lynge SPECIES
-=======
+# Lecanora parva Lynge SPECIES
 
 #### Status
 ACCEPTED

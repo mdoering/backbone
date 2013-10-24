@@ -1,5 +1,4 @@
-Rhizopogon affinis Velen. SPECIES
-=======
+# Rhizopogon affinis Velen. SPECIES
 
 #### Status
 ACCEPTED

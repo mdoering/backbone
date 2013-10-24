@@ -1,5 +1,4 @@
-Apiosoma campanulata SPECIES
-=======
+# Apiosoma campanulata SPECIES
 
 #### Status
 ACCEPTED

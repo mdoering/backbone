@@ -1,5 +1,4 @@
-Lecanactis planiuscula Mont. & Bosch SPECIES
-=======
+# Lecanactis planiuscula Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agrocybe illicita Peck SPECIES
-=======
+# Agrocybe illicita Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium grindeliae Griffiths SPECIES
-=======
+# Aecidium grindeliae Griffiths SPECIES
 
 #### Status
 ACCEPTED

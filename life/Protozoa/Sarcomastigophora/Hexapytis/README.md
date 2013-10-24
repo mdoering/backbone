@@ -1,5 +1,4 @@
-Hexapytis Haeckel, 1887 GENUS
-=======
+# Hexapytis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

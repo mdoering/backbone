@@ -1,5 +1,4 @@
-Psilachnum microallantosporum Korf & W.Y. Zhuang SPECIES
-=======
+# Psilachnum microallantosporum Korf & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

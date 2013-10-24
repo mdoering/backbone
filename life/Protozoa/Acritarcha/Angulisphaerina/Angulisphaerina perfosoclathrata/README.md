@@ -1,5 +1,4 @@
-Angulisphaerina perfosoclathrata Lopukhin, 1974 SPECIES
-=======
+# Angulisphaerina perfosoclathrata Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexagonia fuscoglabra Lloyd SPECIES
-=======
+# Hexagonia fuscoglabra Lloyd SPECIES
 
 #### Status
 ACCEPTED

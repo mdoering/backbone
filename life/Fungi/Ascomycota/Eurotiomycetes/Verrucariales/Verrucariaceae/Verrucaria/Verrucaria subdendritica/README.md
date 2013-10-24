@@ -1,5 +1,4 @@
-Verrucaria subdendritica Servít SPECIES
-=======
+# Verrucaria subdendritica Servít SPECIES
 
 #### Status
 ACCEPTED

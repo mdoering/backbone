@@ -1,5 +1,4 @@
-Phoebus R.C. Harris & Ladd GENUS
-=======
+# Phoebus R.C. Harris & Ladd GENUS
 
 #### Status
 ACCEPTED

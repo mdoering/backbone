@@ -1,5 +1,4 @@
-Septoria ampelopsidis-heterophyllae Miura SPECIES
-=======
+# Septoria ampelopsidis-heterophyllae Miura SPECIES
 
 #### Status
 ACCEPTED

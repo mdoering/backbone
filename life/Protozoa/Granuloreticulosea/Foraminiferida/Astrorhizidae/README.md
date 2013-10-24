@@ -1,5 +1,4 @@
-Astrorhizidae Brady, 1881 FAMILY
-=======
+# Astrorhizidae Brady, 1881 FAMILY
 
 #### Status
 ACCEPTED

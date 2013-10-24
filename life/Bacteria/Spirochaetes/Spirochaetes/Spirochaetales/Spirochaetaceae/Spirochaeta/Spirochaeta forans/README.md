@@ -1,5 +1,4 @@
-Spirochaeta forans SPECIES
-=======
+# Spirochaeta forans SPECIES
 
 #### Status
 ACCEPTED

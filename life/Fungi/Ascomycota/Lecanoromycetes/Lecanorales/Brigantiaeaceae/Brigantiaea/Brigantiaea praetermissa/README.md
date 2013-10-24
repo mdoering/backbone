@@ -1,5 +1,4 @@
-Brigantiaea praetermissa Hafellner & St. Clair SPECIES
-=======
+# Brigantiaea praetermissa Hafellner & St. Clair SPECIES
 
 #### Status
 ACCEPTED

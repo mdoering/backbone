@@ -1,5 +1,4 @@
-Mastocystis Boisson, 1957 GENUS
-=======
+# Mastocystis Boisson, 1957 GENUS
 
 #### Status
 ACCEPTED

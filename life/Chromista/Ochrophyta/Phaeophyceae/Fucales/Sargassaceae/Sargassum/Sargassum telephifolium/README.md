@@ -1,8 +1,7 @@
-Fucus telephifolius Turner SPECIES
-=======
+# Sargassum telephifolium (Turner) C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

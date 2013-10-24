@@ -1,5 +1,4 @@
-Hemitrichia montanoides Mar.Mey. & Poulain, 2007 SPECIES
-=======
+# Hemitrichia montanoides Mar.Mey. & Poulain, 2007 SPECIES
 
 #### Status
 ACCEPTED

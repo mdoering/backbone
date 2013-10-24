@@ -1,5 +1,4 @@
-Chaetosphaeria gallica (Sacc. & Flageolet) Réblová SPECIES
-=======
+# Chaetosphaeria gallica (Sacc. & Flageolet) Réblová SPECIES
 
 #### Status
 ACCEPTED

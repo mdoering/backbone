@@ -1,5 +1,4 @@
-Rimula faginea Velen., 1934 SPECIES
-=======
+# Rimula faginea Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solorinella nigrescens G. Thor SPECIES
-=======
+# Solorinella nigrescens G. Thor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecidea sarcogyniza Nyl. SPECIES
-=======
+# Lecidea diducens Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 48: 148 (1865)
 
 #### Original name
-null
+Lecidea diducens Nyl.
 
 ### Remarks
 null

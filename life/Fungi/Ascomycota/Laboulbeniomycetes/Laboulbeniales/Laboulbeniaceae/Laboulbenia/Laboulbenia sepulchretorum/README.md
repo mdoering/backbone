@@ -1,5 +1,4 @@
-Laboulbenia sepulchretorum Speg. SPECIES
-=======
+# Laboulbenia sepulchretorum Speg. SPECIES
 
 #### Status
 ACCEPTED

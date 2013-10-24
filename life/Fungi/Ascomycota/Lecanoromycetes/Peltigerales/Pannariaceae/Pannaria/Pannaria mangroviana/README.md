@@ -1,5 +1,4 @@
-Pannaria mangroviana P.M. Jørg. SPECIES
-=======
+# Pannaria mangroviana P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

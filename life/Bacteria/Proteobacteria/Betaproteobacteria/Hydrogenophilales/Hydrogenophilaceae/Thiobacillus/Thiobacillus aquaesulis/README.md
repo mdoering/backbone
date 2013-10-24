@@ -1,5 +1,4 @@
-Thiobacillus aquaesulis Wood & Kelly, 1995 SPECIES
-=======
+# Thiobacillus aquaesulis Wood & Kelly, 1995 SPECIES
 
 #### Status
 ACCEPTED

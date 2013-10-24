@@ -1,5 +1,4 @@
-Spermoedia clavus (DC.) Fr. SPECIES
-=======
+# Spermoedia clavus (DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

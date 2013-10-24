@@ -1,5 +1,4 @@
-Lycoperdon henningsii Sacc. & P. Syd. SPECIES
-=======
+# Lycoperdon henningsii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

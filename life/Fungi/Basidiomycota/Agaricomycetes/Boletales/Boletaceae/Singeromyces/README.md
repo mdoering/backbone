@@ -1,5 +1,4 @@
-Singeromyces M.M. Moser GENUS
-=======
+# Singeromyces M.M. Moser GENUS
 
 #### Status
 ACCEPTED

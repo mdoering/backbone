@@ -1,5 +1,4 @@
-Myriactula rigida (Sauvageau) G. Hamel SPECIES
-=======
+# Myriactula rigida (Sauvageau) G. Hamel SPECIES
 
 #### Status
 ACCEPTED

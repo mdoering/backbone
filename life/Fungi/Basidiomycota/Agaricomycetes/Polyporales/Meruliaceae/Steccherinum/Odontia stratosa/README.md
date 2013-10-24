@@ -1,5 +1,4 @@
-Odontia stratosa G. Cunn., 1959 SPECIES
-=======
+# Odontia stratosa G. Cunn., 1959 SPECIES
 
 #### Status
 ACCEPTED

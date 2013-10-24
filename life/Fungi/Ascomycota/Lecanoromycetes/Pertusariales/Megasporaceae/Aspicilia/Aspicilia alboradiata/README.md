@@ -1,5 +1,4 @@
-Aspicilia alboradiata (H. Magn.) Oxner SPECIES
-=======
+# Aspicilia alboradiata (H. Magn.) Oxner SPECIES
 
 #### Status
 ACCEPTED

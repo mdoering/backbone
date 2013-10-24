@@ -1,8 +1,7 @@
-Allarthonia yunnana Zahlbr. SPECIES
-=======
+# Allarthonia yuennana Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Allarthonia yunnana Zahlbr.
+Allarthonia yuennana Zahlbr.
 
 ### Remarks
 null

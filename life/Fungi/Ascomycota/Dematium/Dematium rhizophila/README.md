@@ -1,5 +1,4 @@
-Dematium rhizophila (Pers.) Link SPECIES
-=======
+# Dematium rhizophila (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

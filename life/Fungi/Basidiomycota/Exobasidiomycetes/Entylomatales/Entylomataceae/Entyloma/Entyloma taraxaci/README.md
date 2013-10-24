@@ -1,5 +1,4 @@
-Entyloma taraxaci Vánky, 1983 SPECIES
-=======
+# Entyloma taraxaci Vánky, 1983 SPECIES
 
 #### Status
 ACCEPTED

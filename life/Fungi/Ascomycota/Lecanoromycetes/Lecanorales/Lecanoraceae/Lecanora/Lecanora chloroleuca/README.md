@@ -1,5 +1,4 @@
-Lecanora chloroleuca (Sm.) Ach. SPECIES
-=======
+# Lecanora chloroleuca (Sm.) Ach. SPECIES
 
 #### Status
 ACCEPTED

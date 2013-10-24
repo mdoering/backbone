@@ -1,5 +1,4 @@
-Parmelia obvoluta (Sw.) Ach. SPECIES
-=======
+# Parmelia obvoluta (Sw.) Ach. SPECIES
 
 #### Status
 ACCEPTED

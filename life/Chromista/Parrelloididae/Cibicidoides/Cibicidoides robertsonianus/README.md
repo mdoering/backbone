@@ -1,8 +1,7 @@
-Truncatulina robertsoniana Brady, 1881 SPECIES
-=======
+# Cibicidoides robertsonianus (Brady, 1881) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

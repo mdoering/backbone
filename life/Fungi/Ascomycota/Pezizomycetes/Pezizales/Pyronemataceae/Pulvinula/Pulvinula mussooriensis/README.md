@@ -1,5 +1,4 @@
-Pulvinula mussooriensis (K.S. Thind, E.K. Cash & Pr. Singh) L.R. Batra SPECIES
-=======
+# Pulvinula mussooriensis (K.S. Thind, E.K. Cash & Pr. Singh) L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

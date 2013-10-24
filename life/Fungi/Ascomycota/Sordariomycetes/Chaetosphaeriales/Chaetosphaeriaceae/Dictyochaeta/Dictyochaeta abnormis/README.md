@@ -1,5 +1,4 @@
-Dictyochaeta abnormis Hol.-Jech. SPECIES
-=======
+# Dictyochaeta abnormis Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

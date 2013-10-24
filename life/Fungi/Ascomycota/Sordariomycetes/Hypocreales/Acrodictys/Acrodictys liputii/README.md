@@ -1,5 +1,4 @@
-Acrodictys liputii L. Cai, K.Q. Zhang, McKenzie, W.H. Ho & K.D. Hyde SPECIES
-=======
+# Acrodictys liputii L. Cai, K.Q. Zhang, McKenzie, W.H. Ho & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

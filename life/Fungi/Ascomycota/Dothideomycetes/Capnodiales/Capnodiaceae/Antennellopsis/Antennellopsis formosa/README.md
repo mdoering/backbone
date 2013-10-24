@@ -1,5 +1,4 @@
-Antennellopsis formosa Bat. SPECIES
-=======
+# Antennellopsis formosa Bat. SPECIES
 
 #### Status
 ACCEPTED

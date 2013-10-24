@@ -1,5 +1,4 @@
-Lecidea santae-monicae H. Magn. SPECIES
-=======
+# Lecidea santae-monicae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

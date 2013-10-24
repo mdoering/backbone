@@ -1,5 +1,4 @@
-Tricholoma glaucoalbum Singer SPECIES
-=======
+# Tricholoma glaucoalbum Singer SPECIES
 
 #### Status
 ACCEPTED

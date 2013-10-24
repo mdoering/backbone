@@ -1,5 +1,4 @@
-Metapatellina McCulloch, 1977 GENUS
-=======
+# Metapatellina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

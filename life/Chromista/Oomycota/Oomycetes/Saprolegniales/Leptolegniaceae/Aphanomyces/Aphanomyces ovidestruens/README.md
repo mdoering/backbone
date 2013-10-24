@@ -1,5 +1,4 @@
-Aphanomyces ovidestruens Gickelh., 1923 SPECIES
-=======
+# Aphanomyces ovidestruens Gickelh., 1923 SPECIES
 
 #### Status
 ACCEPTED

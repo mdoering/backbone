@@ -1,5 +1,4 @@
-Cortinarius obesisporus Moënne-Locc. & Ramm SPECIES
-=======
+# Cortinarius obesisporus Moënne-Locc. & Ramm SPECIES
 
 #### Status
 ACCEPTED

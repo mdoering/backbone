@@ -1,5 +1,4 @@
-Mycovellosiella anomala (Ellis & Halst.) U. Braun SPECIES
-=======
+# Mycovellosiella anomala (Ellis & Halst.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

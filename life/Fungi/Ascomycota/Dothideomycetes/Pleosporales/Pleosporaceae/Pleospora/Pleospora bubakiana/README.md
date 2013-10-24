@@ -1,5 +1,4 @@
-Pleospora bubakiana Jaap SPECIES
-=======
+# Pleospora bubakiana Jaap SPECIES
 
 #### Status
 ACCEPTED

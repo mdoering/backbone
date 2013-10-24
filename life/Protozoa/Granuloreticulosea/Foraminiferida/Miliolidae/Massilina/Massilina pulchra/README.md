@@ -1,5 +1,4 @@
-Massilina pulchra Cushman & Gray, 1946 SPECIES
-=======
+# Massilina pulchra Cushman & Gray, 1946 SPECIES
 
 #### Status
 ACCEPTED

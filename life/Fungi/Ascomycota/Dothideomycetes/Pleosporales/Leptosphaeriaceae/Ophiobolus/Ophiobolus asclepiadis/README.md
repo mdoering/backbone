@@ -1,5 +1,4 @@
-Ophiobolus asclepiadis Fabre SPECIES
-=======
+# Ophiobolus asclepiadis Fabre SPECIES
 
 #### Status
 ACCEPTED

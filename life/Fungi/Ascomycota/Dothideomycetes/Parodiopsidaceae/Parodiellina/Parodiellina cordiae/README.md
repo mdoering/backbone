@@ -1,5 +1,4 @@
-Parodiellina cordiae Viégas SPECIES
-=======
+# Parodiellina cordiae Viégas SPECIES
 
 #### Status
 ACCEPTED

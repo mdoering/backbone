@@ -1,14 +1,13 @@
-Ramularia viticis Syd. SPECIES
-=======
+# Monodidymaria viticis (Syd.) U. Braun, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 12: 490 (1914)
+Nova Hedwigia 58(1-2): 195 (1994)
 
 #### Original name
 Ramularia viticis Syd.

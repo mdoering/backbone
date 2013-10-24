@@ -1,5 +1,4 @@
-Catinula melaleuca Lév. SPECIES
-=======
+# Catinula melaleuca Lév. SPECIES
 
 #### Status
 ACCEPTED

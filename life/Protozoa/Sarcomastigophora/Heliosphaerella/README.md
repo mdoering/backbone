@@ -1,5 +1,4 @@
-Heliosphaerella Haeckel, 1887 GENUS
-=======
+# Heliosphaerella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acrostaphylus hyperparasiticus Subram. SPECIES
-=======
+# Acrostaphylus hyperparasiticus Subram. SPECIES
 
 #### Status
 ACCEPTED

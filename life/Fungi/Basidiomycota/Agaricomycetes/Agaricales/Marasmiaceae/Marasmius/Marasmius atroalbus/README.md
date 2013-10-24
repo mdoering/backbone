@@ -1,5 +1,4 @@
-Marasmius atroalbus Henn. SPECIES
-=======
+# Marasmius atroalbus Henn. SPECIES
 
 #### Status
 ACCEPTED

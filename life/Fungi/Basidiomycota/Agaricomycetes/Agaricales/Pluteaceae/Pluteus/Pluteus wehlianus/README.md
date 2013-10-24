@@ -1,5 +1,4 @@
-Pluteus wehlianus (F. Muell.) Sacc. SPECIES
-=======
+# Pluteus wehlianus (F. Muell.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetosphaeria brevispinosa G.F. Atk. SPECIES
-=======
+# Chaetosphaeria brevispinosa G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

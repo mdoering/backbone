@@ -1,5 +1,4 @@
-Fungus consentiens (P. Karst.) Kuntze SPECIES
-=======
+# Fungus consentiens (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

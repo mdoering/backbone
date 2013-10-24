@@ -1,5 +1,4 @@
-Coccolithus oulchyensis P. M. Bouché SPECIES
-=======
+# Coccolithus oulchyensis P. M. Bouché SPECIES
 
 #### Status
 ACCEPTED

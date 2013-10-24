@@ -1,5 +1,4 @@
-Craspedolithus Kamptner, 1963 GENUS
-=======
+# Craspedolithus Kamptner, 1963 GENUS
 
 #### Status
 ACCEPTED

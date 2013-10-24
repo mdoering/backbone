@@ -1,5 +1,4 @@
-Ascochyta trollii Thüm. SPECIES
-=======
+# Ascochyta trollii Thüm. SPECIES
 
 #### Status
 ACCEPTED

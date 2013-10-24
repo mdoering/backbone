@@ -1,5 +1,4 @@
-Agaricus acetabulosus Sowerby SPECIES
-=======
+# Agaricus acetabulosus Sowerby SPECIES
 
 #### Status
 ACCEPTED

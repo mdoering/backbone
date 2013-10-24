@@ -1,5 +1,4 @@
-Scytonema chiastum Geitler SPECIES
-=======
+# Scytonema chiastum Geitler SPECIES
 
 #### Status
 ACCEPTED

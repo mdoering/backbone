@@ -1,5 +1,4 @@
-Sphaeria divaricata Fée SPECIES
-=======
+# Sphaeria divaricata Fée SPECIES
 
 #### Status
 ACCEPTED

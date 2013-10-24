@@ -1,5 +1,4 @@
-Trematosphaeria plurivora Koshk. & Frolov SPECIES
-=======
+# Trematosphaeria plurivora Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

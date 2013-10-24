@@ -1,5 +1,4 @@
-Macrophoma perseae Sawada SPECIES
-=======
+# Macrophoma perseae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea cancriformis C. W. Dodge & G. E. Baker SPECIES
-=======
+# Lecidea cancriformis C. W. Dodge & G. E. Baker SPECIES
 
 #### Status
 ACCEPTED

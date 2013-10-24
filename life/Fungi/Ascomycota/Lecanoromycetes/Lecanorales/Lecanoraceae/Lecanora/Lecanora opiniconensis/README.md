@@ -1,5 +1,4 @@
-Lecanora opiniconensis Brodo SPECIES
-=======
+# Lecanora opiniconensis Brodo SPECIES
 
 #### Status
 ACCEPTED

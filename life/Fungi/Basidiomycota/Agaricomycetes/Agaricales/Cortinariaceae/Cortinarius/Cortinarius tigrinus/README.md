@@ -1,5 +1,4 @@
-Cortinarius tigrinus Johns. {?} SPECIES
-=======
+# Cortinarius tigrinus Johns. {?} SPECIES
 
 #### Status
 ACCEPTED

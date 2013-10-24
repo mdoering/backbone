@@ -1,5 +1,4 @@
-Rhabdosphaera procera Martini, 1969 SPECIES
-=======
+# Rhabdosphaera procera Martini, 1969 SPECIES
 
 #### Status
 ACCEPTED

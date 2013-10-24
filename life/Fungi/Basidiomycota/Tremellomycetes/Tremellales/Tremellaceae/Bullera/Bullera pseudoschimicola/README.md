@@ -1,5 +1,4 @@
-Bullera pseudoschimicola F.Y. Bai, M. Takash. & Nakase SPECIES
-=======
+# Bullera pseudoschimicola F.Y. Bai, M. Takash. & Nakase SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Arthrobotrys guizhouensis (K.Q. Zhang, Xing Z. Liu & L. Cao) M. Scholler, Hagedorn & A. Rubner, 1999 SPECIES
-=======
+# Monacrosporium guizhouense K.Q. Zhang, Xing Z. Liu & L. Cao, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mycol. Sin. 51(1): 102 (1999)
+Mycol. Res. 100(3): 275 (1996)
 
 #### Original name
 Monacrosporium guizhouense K.Q. Zhang, Xing Z. Liu & L. Cao, 1996

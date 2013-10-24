@@ -1,8 +1,7 @@
-Cirrophrya terricola Foissner, 1987 SPECIES
-=======
+# Platyophrya terricola (Foissner, 1987) Foissner & Foissner, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

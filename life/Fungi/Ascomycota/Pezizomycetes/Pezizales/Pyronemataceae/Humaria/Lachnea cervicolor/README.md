@@ -1,5 +1,4 @@
-Lachnea cervicolor Ellis & Everh. SPECIES
-=======
+# Lachnea cervicolor Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

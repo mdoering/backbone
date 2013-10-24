@@ -1,5 +1,4 @@
-Parmelia isidiiveteris Poinar, E.B. Peterson & Platt SPECIES
-=======
+# Parmelia isidiiveteris Poinar, E.B. Peterson & Platt SPECIES
 
 #### Status
 ACCEPTED

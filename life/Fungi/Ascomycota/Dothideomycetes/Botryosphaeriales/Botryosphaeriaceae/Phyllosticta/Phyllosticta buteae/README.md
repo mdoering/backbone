@@ -1,5 +1,4 @@
-Phyllosticta buteae Syd. SPECIES
-=======
+# Phyllosticta buteae Syd. SPECIES
 
 #### Status
 ACCEPTED

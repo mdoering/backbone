@@ -1,5 +1,4 @@
-Dictyota fenestrata J. Agardh SPECIES
-=======
+# Dictyota fenestrata J. Agardh SPECIES
 
 #### Status
 ACCEPTED

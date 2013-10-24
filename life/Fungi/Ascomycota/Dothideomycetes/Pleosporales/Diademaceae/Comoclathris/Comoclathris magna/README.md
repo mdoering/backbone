@@ -1,5 +1,4 @@
-Comoclathris magna Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris magna Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

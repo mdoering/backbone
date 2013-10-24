@@ -1,5 +1,4 @@
-Fusarium setosum Nirenberg & Samuels SPECIES
-=======
+# Fusarium setosum Nirenberg & Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora ochraceorubescens Arnold SPECIES
-=======
+# Lecanora ochraceorubescens Arnold SPECIES
 
 #### Status
 ACCEPTED

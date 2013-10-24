@@ -1,5 +1,4 @@
-Dacampia peltigericola D. Hawksw. & C.J.B. Hitch SPECIES
-=======
+# Dacampia peltigericola D. Hawksw. & C.J.B. Hitch SPECIES
 
 #### Status
 ACCEPTED

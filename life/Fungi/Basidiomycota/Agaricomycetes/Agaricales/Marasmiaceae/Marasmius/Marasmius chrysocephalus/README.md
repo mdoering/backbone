@@ -1,5 +1,4 @@
-Marasmius chrysocephalus Singer SPECIES
-=======
+# Marasmius chrysocephalus Singer SPECIES
 
 #### Status
 ACCEPTED

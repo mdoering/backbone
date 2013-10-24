@@ -1,5 +1,4 @@
-Placolecanora liukiuensis Räsänen SPECIES
-=======
+# Placolecanora liukiuensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

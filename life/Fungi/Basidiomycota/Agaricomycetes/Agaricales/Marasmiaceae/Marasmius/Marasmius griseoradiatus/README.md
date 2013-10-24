@@ -1,5 +1,4 @@
-Marasmius griseoradiatus Desjardin & Ovrebo SPECIES
-=======
+# Marasmius griseoradiatus Desjardin & Ovrebo SPECIES
 
 #### Status
 ACCEPTED

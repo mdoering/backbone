@@ -1,5 +1,4 @@
-Lecidea sbarbarensis (Klem.) H. Magn. ex Sbarbaro SPECIES
-=======
+# Lecidea sbarbarensis (Klem.) H. Magn. ex Sbarbaro SPECIES
 
 #### Status
 ACCEPTED

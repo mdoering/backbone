@@ -1,17 +1,16 @@
-Glomus przelewicensis Blaszk. SPECIES
-=======
+# Glomus przelewicense Blaszk., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin of the Polish Academy of Sciences, Biological Sciences 36(10-12): 272 (1988)
 
 #### Original name
-Glomus przelewicensis Blaszk.
+Glomus przelewicense Blaszk., 1988
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coprinus stellaris Quél. SPECIES
-=======
+# Coprinus stellaris Quél. SPECIES
 
 #### Status
 ACCEPTED

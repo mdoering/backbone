@@ -1,5 +1,4 @@
-Leptomeliola javensis Höhn. SPECIES
-=======
+# Leptomeliola javensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

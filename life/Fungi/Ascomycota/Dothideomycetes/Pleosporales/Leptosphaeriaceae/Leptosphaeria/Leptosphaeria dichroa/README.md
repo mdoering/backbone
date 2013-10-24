@@ -1,5 +1,4 @@
-Leptosphaeria dichroa Pass. SPECIES
-=======
+# Leptosphaeria dichroa Pass. SPECIES
 
 #### Status
 ACCEPTED

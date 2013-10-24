@@ -1,5 +1,4 @@
-Pilocratera notarisiana (R.G. Bagn.) Sacc. & Traverso SPECIES
-=======
+# Pilocratera notarisiana (R.G. Bagn.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

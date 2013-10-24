@@ -1,5 +1,4 @@
-Hydrocybe croceotinctus Rob. Henry SPECIES
-=======
+# Hydrocybe croceotinctus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

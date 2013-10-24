@@ -1,5 +1,4 @@
-Xanthoria nowakii S.Y. Kondr. & Bielczyk SPECIES
-=======
+# Xanthoria nowakii S.Y. Kondr. & Bielczyk SPECIES
 
 #### Status
 ACCEPTED

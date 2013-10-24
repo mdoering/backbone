@@ -1,5 +1,4 @@
-Didymium verrucosporum A.L. Welden, 1954 SPECIES
-=======
+# Didymium verrucosporum A.L. Welden, 1954 SPECIES
 
 #### Status
 ACCEPTED

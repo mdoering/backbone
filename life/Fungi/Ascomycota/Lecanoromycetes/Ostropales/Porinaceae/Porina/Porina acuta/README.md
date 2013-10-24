@@ -1,5 +1,4 @@
-Porina acuta Vain. SPECIES
-=======
+# Porina acuta Vain. SPECIES
 
 #### Status
 ACCEPTED

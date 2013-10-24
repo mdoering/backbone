@@ -1,5 +1,4 @@
-Parmelia subconnivens (Hale) Elix & G.N. Stevens SPECIES
-=======
+# Parmelia subconnivens (Hale) Elix & G.N. Stevens SPECIES
 
 #### Status
 ACCEPTED

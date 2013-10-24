@@ -1,5 +1,4 @@
-Nyctotherus africanus Castellani, 1905 SPECIES
-=======
+# Nyctotherus africanus Castellani, 1905 SPECIES
 
 #### Status
 ACCEPTED

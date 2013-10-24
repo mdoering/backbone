@@ -1,5 +1,4 @@
-Coccotrema kerguelensis C.W. Dodge SPECIES
-=======
+# Coccotrema kerguelensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

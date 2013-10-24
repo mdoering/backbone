@@ -1,5 +1,4 @@
-Elsinoë erythrinae Sivan. & L.D. Gómez SPECIES
-=======
+# Elsinoë erythrinae Sivan. & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

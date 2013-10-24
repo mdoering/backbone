@@ -1,5 +1,4 @@
-Phomopsis lueheae Novoss. SPECIES
-=======
+# Phomopsis lueheae Novoss. SPECIES
 
 #### Status
 ACCEPTED

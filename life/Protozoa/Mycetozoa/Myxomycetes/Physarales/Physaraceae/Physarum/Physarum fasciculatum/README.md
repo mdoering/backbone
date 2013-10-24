@@ -1,5 +1,4 @@
-Physarum fasciculatum Jungh. SPECIES
-=======
+# Physarum fasciculatum Jungh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia offuscata Arthur SPECIES
-=======
+# Puccinia offuscata Arthur SPECIES
 
 #### Status
 ACCEPTED

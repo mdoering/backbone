@@ -1,5 +1,4 @@
-Falcipatella taurica Gucevic SPECIES
-=======
+# Falcipatella taurica Gucevic SPECIES
 
 #### Status
 ACCEPTED

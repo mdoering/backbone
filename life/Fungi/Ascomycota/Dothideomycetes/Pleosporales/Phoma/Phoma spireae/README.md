@@ -1,5 +1,4 @@
-Phoma spireae Sacc. SPECIES
-=======
+# Phoma spireae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Auriculibuller fuscus J.P. Samp., J. Inácio, Fonseca & Fell, 2004 SPECIES
-=======
+# Auriculibuller fuscus J.P. Samp., J. Inácio, Fonseca & Fell, 2004 SPECIES
 
 #### Status
 ACCEPTED

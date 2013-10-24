@@ -1,14 +1,13 @@
-Pleospora elynae (Rabenh.) Ces. & De Not. SPECIES
-=======
+# Clathrospora elynae Rabenh., 1857 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 1: (1857)
 
 #### Original name
 Clathrospora elynae Rabenh., 1857

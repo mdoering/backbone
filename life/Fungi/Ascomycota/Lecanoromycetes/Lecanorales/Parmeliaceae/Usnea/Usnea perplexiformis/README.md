@@ -1,5 +1,4 @@
-Usnea perplexiformis Räsänen SPECIES
-=======
+# Usnea perplexiformis Räsänen SPECIES
 
 #### Status
 ACCEPTED

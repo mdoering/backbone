@@ -1,5 +1,4 @@
-Aspergillus dorothicus Varshney & A.K. Sarbhoy, 1996 SPECIES
-=======
+# Aspergillus dorothicus Varshney & A.K. Sarbhoy, 1996 SPECIES
 
 #### Status
 ACCEPTED

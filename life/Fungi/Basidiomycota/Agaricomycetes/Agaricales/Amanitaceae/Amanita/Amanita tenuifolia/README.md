@@ -1,5 +1,4 @@
-Amanita tenuifolia (Murrill) Murrill SPECIES
-=======
+# Amanita tenuifolia (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

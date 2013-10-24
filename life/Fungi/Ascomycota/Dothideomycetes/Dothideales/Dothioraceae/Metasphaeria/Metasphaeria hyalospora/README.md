@@ -1,5 +1,4 @@
-Metasphaeria hyalospora (Sacc.) Sacc. SPECIES
-=======
+# Metasphaeria hyalospora (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

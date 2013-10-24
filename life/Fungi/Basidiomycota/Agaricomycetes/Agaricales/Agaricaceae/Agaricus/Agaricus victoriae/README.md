@@ -1,5 +1,4 @@
-Agaricus victoriae Cooke & Massee SPECIES
-=======
+# Agaricus victoriae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

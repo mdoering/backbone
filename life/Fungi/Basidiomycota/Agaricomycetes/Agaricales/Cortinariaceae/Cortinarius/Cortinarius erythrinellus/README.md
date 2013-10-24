@@ -1,5 +1,4 @@
-Cortinarius erythrinellus Reumaux SPECIES
-=======
+# Cortinarius erythrinellus Reumaux SPECIES
 
 #### Status
 ACCEPTED

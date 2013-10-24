@@ -1,5 +1,4 @@
-Daldinia intermedia Lloyd SPECIES
-=======
+# Daldinia intermedia Lloyd SPECIES
 
 #### Status
 ACCEPTED

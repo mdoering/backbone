@@ -1,5 +1,4 @@
-Steganorhynchus Percival, Clopton & Janovy, 1995 GENUS
-=======
+# Steganorhynchus Percival, Clopton & Janovy, 1995 GENUS
 
 #### Status
 ACCEPTED

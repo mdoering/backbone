@@ -1,5 +1,4 @@
-Gliocladium piliforme Boud. SPECIES
-=======
+# Gliocladium piliforme Boud. SPECIES
 
 #### Status
 ACCEPTED

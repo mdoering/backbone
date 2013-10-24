@@ -1,5 +1,4 @@
-Sphaerella euonymi (Kunze) Auersw. SPECIES
-=======
+# Sphaerella euonymi (Kunze) Auersw. SPECIES
 
 #### Status
 ACCEPTED

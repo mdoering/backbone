@@ -1,5 +1,4 @@
-Endopyrenium bajadanae B. de Lesd. SPECIES
-=======
+# Endopyrenium bajadanae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

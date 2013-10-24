@@ -1,17 +1,16 @@
-Agaricus prasiosmus Fr., 1818 SPECIES
-=======
+# Marasmius prasiosmus (Fr.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 2: 153 (1818)
+Epicr. syst. mycol. (Upsaliae) (1838)
 
 #### Original name
-Agaricus prasiosmus Fr., 1818
+Marasmius prasiosmus (Fr.) Fr., 1838
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tachysoma rigescens (Kahl, 1932) Borror, 1972 SPECIES
-=======
+# Tachysoma rigescens (Kahl, 1932) Borror, 1972 SPECIES
 
 #### Status
 ACCEPTED

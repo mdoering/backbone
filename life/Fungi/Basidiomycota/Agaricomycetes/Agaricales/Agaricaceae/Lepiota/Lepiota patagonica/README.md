@@ -1,5 +1,4 @@
-Lepiota patagonica Singer SPECIES
-=======
+# Lepiota patagonica Singer SPECIES
 
 #### Status
 ACCEPTED

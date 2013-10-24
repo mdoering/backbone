@@ -1,5 +1,4 @@
-Reticulammina labyrinthica Tendal, 1972 SPECIES
-=======
+# Reticulammina labyrinthica Tendal, 1972 SPECIES
 
 #### Status
 ACCEPTED

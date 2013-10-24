@@ -1,5 +1,4 @@
-Crystallocystidium albobadium Rick SPECIES
-=======
+# Crystallocystidium albobadium Rick SPECIES
 
 #### Status
 ACCEPTED

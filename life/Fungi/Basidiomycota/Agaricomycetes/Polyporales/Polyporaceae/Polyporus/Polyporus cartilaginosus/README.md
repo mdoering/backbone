@@ -1,5 +1,4 @@
-Polyporus cartilaginosus Rick SPECIES
-=======
+# Polyporus cartilaginosus Rick SPECIES
 
 #### Status
 ACCEPTED

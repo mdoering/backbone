@@ -1,5 +1,4 @@
-Holophrya coronata Morgan, 1925 SPECIES
-=======
+# Holophrya coronata Morgan, 1925 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polyporus raduloides Henn., 1892 SPECIES
-=======
+# Tyromyces raduloides (Henn.) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 17: 25 (1892)
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 612 (1980)
 
 #### Original name
 Polyporus raduloides Henn., 1892

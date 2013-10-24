@@ -1,5 +1,4 @@
-Dermatocarpon granulosum Müll. Arg. SPECIES
-=======
+# Dermatocarpon granulosum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

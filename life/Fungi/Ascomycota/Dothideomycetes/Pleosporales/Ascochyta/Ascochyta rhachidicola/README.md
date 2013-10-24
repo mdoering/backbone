@@ -1,5 +1,4 @@
-Ascochyta rhachidicola (Bubák) Bondartsev & Bond.-Mont. SPECIES
-=======
+# Ascochyta rhachidicola (Bubák) Bondartsev & Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

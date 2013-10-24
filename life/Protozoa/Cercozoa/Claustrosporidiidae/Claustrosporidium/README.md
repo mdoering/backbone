@@ -1,5 +1,4 @@
-Claustrosporidium Larsson, 1987 GENUS
-=======
+# Claustrosporidium Larsson, 1987 GENUS
 
 #### Status
 ACCEPTED

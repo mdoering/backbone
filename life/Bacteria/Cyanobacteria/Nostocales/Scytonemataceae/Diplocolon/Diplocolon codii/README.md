@@ -1,5 +1,4 @@
-Diplocolon codii Batters SPECIES
-=======
+# Diplocolon codii Batters SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diderma complanatum Schrad. SPECIES
-=======
+# Diderma complanatum Schrad. SPECIES
 
 #### Status
 ACCEPTED

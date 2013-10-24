@@ -1,5 +1,4 @@
-Placodium jungermanniae var. jungermanniae VARIETY
-=======
+# Placodium jungermanniae (Vahl) Tuck. SPECIES
 
 #### Status
 ACCEPTED

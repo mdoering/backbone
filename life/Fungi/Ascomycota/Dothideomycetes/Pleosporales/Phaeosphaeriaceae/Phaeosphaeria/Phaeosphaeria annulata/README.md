@@ -1,5 +1,4 @@
-Phaeosphaeria annulata Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria annulata Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosporina paucigibba (Singer) Garrido SPECIES
-=======
+# Astrosporina paucigibba (Singer) Garrido SPECIES
 
 #### Status
 ACCEPTED

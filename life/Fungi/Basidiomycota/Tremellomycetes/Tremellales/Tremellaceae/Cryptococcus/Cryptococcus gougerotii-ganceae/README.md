@@ -1,5 +1,4 @@
-Cryptococcus gougerotii-ganceae Nann. SPECIES
-=======
+# Cryptococcus gougerotii-ganceae Nann. SPECIES
 
 #### Status
 ACCEPTED

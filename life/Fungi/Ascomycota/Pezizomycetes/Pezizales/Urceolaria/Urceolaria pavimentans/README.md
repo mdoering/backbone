@@ -1,5 +1,4 @@
-Urceolaria pavimentans (Nyl.) Motyka SPECIES
-=======
+# Urceolaria pavimentans (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

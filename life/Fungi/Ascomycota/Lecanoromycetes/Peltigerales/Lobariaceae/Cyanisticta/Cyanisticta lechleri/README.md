@@ -1,5 +1,4 @@
-Cyanisticta lechleri (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Cyanisticta lechleri (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

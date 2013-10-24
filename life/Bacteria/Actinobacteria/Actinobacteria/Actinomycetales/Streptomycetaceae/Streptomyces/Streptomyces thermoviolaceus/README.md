@@ -1,5 +1,4 @@
-Streptomyces thermoviolaceus subsp. thermoviolaceus SUBSPECIES
-=======
+# Streptomyces thermoviolaceus Henssen, 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermoproteales ORDER
-=======
+# Thermoproteales ORDER
 
 #### Status
 ACCEPTED

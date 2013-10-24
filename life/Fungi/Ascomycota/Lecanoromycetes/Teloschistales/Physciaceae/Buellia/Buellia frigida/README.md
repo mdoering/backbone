@@ -1,5 +1,4 @@
-Buellia frigida Darb. SPECIES
-=======
+# Buellia frigida Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypodermopsis pteridis (Schwein.) Kuntze SPECIES
-=======
+# Hypodermopsis pteridis (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

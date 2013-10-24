@@ -1,14 +1,13 @@
-Brachysporium solani (Durieu & Mont.) Sacc., 1886 SPECIES
-=======
+# Helminthosporium solani Durieu & Mont., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 428 (1886)
+Flora Algéricae 1: 356 (1895)
 
 #### Original name
 Helminthosporium solani Durieu & Mont., 1849

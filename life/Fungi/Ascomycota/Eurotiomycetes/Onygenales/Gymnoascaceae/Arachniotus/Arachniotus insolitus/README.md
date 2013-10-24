@@ -1,5 +1,4 @@
-Arachniotus insolitus Udagawa & Uchiy. SPECIES
-=======
+# Arachniotus insolitus Udagawa & Uchiy. SPECIES
 
 #### Status
 ACCEPTED

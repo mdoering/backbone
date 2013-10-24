@@ -1,5 +1,4 @@
-Dokmaia Promp. GENUS
-=======
+# Dokmaia Promp. GENUS
 
 #### Status
 ACCEPTED

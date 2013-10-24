@@ -1,5 +1,4 @@
-Lecidea scrobiculata Th. Fr. SPECIES
-=======
+# Lecidea scrobiculata Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

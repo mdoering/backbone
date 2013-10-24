@@ -1,5 +1,4 @@
-Tremella serpentina Schumach. SPECIES
-=======
+# Tremella serpentina Schumach. SPECIES
 
 #### Status
 ACCEPTED

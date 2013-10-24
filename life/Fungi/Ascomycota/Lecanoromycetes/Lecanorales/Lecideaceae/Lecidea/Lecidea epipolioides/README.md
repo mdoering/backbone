@@ -1,5 +1,4 @@
-Lecidea epipolioides var. epipolioides VARIETY
-=======
+# Lecidea epipolioides (J. Steiner) Szatala SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea epipolioides var. epipolioides
+null
 
 ### Remarks
 null

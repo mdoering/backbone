@@ -1,5 +1,4 @@
-Cladonia artuata S. Hammer SPECIES
-=======
+# Cladonia artuata S. Hammer SPECIES
 
 #### Status
 ACCEPTED

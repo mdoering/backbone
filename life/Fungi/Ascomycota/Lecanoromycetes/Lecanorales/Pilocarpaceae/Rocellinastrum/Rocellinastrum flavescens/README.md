@@ -1,5 +1,4 @@
-Rocellinastrum flavescens Kantvilas SPECIES
-=======
+# Rocellinastrum flavescens Kantvilas SPECIES
 
 #### Status
 ACCEPTED

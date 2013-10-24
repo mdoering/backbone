@@ -1,5 +1,4 @@
-Hexagonia taxodii Murrill SPECIES
-=======
+# Hexagonia taxodii Murrill SPECIES
 
 #### Status
 ACCEPTED

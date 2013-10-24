@@ -1,5 +1,4 @@
-Sphaeria africana Kalchbr. & Cooke SPECIES
-=======
+# Sphaeria africana Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina lagerheimii Palm SPECIES
-=======
+# Taphrina lagerheimii Palm SPECIES
 
 #### Status
 ACCEPTED

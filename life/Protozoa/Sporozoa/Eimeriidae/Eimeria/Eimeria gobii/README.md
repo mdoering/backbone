@@ -1,5 +1,4 @@
-Eimeria gobii Fantham, 1932 SPECIES
-=======
+# Eimeria gobii Fantham, 1932 SPECIES
 
 #### Status
 ACCEPTED

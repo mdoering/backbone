@@ -1,5 +1,4 @@
-Volvaria earlei (Murrill) Sacc. & Trotter SPECIES
-=======
+# Volvaria earlei (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Helotium citrinum var. phalaridis (Lib.) Speg. & Roum., 1880 VARIETY
-=======
+# Calycellina phalaridis (Lib. ex P. Karst.) Höhn., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 127: 603 (1918)
 
 #### Original name
 null

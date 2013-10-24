@@ -1,5 +1,4 @@
-Russula speciosa J. Blum ex Bon SPECIES
-=======
+# Russula speciosa J. Blum ex Bon SPECIES
 
 #### Status
 ACCEPTED

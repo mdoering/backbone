@@ -1,5 +1,4 @@
-Cristallinium Vanguestaine, 1978 GENUS
-=======
+# Cristallinium Vanguestaine, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia albidolutea (Nyl.) Hellb. SPECIES
-=======
+# Bacidia albidolutea (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

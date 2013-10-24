@@ -1,5 +1,4 @@
-Cortinarius fulvorimosus Carteret & Reumaux SPECIES
-=======
+# Cortinarius fulvorimosus Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

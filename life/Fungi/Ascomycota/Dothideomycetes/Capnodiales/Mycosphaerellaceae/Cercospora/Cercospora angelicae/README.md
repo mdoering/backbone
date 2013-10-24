@@ -1,5 +1,4 @@
-Cercospora angelicae (Sacc. & Scalia) Chupp SPECIES
-=======
+# Cercospora angelicae (Sacc. & Scalia) Chupp SPECIES
 
 #### Status
 ACCEPTED

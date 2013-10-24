@@ -1,5 +1,4 @@
-Amanita venenosa var. venenosa VARIETY
-=======
+# Amanita venenosa Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amanita venenosa var. venenosa
+Amanita venenosa Pers.
 
 ### Remarks
 null

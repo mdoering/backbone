@@ -1,5 +1,4 @@
-Ovularia melittis Unamuno SPECIES
-=======
+# Ovularia melittis Unamuno SPECIES
 
 #### Status
 ACCEPTED

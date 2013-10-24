@@ -1,5 +1,4 @@
-Ophiostoma catonianum Goid. SPECIES
-=======
+# Ophiostoma catonianum Goid. SPECIES
 
 #### Status
 ACCEPTED

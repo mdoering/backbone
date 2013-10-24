@@ -1,5 +1,4 @@
-Spiralia asteroides (Sabour.) Grigoraki SPECIES
-=======
+# Spiralia asteroides (Sabour.) Grigoraki SPECIES
 
 #### Status
 ACCEPTED

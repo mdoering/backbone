@@ -1,5 +1,4 @@
-Polypodochrysis teissieri F. Magne SPECIES
-=======
+# Polypodochrysis teissieri F. Magne SPECIES
 
 #### Status
 ACCEPTED

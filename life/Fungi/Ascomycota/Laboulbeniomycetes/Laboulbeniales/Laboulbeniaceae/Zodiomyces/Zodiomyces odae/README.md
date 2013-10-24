@@ -1,5 +1,4 @@
-Zodiomyces odae T. Majewski & K. Sugiy., 1989 SPECIES
-=======
+# Zodiomyces odae T. Majewski & K. Sugiy., 1989 SPECIES
 
 #### Status
 ACCEPTED

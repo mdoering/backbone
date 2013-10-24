@@ -1,5 +1,4 @@
-Discella citricola Bat. & J.L. Bezerra SPECIES
-=======
+# Discella citricola Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

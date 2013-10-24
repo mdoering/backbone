@@ -1,5 +1,4 @@
-Asteridiella eucalyptorum (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella eucalyptorum (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

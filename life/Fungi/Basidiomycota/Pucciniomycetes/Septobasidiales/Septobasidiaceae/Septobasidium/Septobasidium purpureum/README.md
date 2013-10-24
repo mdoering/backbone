@@ -1,5 +1,4 @@
-Septobasidium purpureum Couch SPECIES
-=======
+# Septobasidium purpureum Couch SPECIES
 
 #### Status
 ACCEPTED

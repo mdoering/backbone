@@ -1,5 +1,4 @@
-Sphaeria teucrii P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria teucrii P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

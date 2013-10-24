@@ -1,5 +1,4 @@
-Clitocybe tumidosa (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe tumidosa (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

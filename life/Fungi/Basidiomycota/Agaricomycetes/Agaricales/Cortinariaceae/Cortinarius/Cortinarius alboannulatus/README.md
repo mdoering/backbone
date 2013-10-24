@@ -1,5 +1,4 @@
-Cortinarius alboannulatus Contu SPECIES
-=======
+# Cortinarius alboannulatus Contu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidulospora beklemishevi (A.V. Simakova, Pankova & I.V. Issi) Simakova, Pankova & I.V. Issi SPECIES
-=======
+# Crepidulospora beklemishevi (A.V. Simakova, Pankova & I.V. Issi) Simakova, Pankova & I.V. Issi SPECIES
 
 #### Status
 ACCEPTED

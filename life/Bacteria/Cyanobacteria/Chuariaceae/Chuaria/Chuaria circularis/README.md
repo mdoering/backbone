@@ -1,5 +1,4 @@
-Chuaria circularis Walcott, 1899 emend. Vidal & Ford, 1985 SPECIES
-=======
+# Chuaria circularis Walcott, 1899 emend. Vidal & Ford, 1985 SPECIES
 
 #### Status
 ACCEPTED

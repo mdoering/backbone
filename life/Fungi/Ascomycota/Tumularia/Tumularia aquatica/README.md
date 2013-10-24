@@ -1,14 +1,13 @@
-Dactylella aquatica (Ingold) Ranzoni SPECIES
-=======
+# Tumularia aquatica (Ingold) Descals & Marvanová, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 4: 360 (1953)
+in Marvanová & Descals, Trans. Br. mycol. Soc. 89(4): 506 (1987)
 
 #### Original name
 Pyricularia aquatica Ingold, 1943

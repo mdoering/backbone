@@ -1,8 +1,7 @@
-Phoma zizyphi Pat. SPECIES
-=======
+# Phoma ziziphi Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma zizyphi Pat.
+Phoma ziziphi Pat.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xylaria hungarica Hazsl. SPECIES
-=======
+# Xylaria hungarica Hazsl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Corallomyces Berk. & M.A. Curtis GENUS
-=======
+# Corallomycetella Henn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Acad. nat. Sci. Philad. , N. S. 2: 289 (1853)
+Hedwigia 43: 245 (1904)
 
 #### Original name
-Corallomyces Berk. & M.A. Curtis
+Corallomycetella Henn.
 
 ### Remarks
 null

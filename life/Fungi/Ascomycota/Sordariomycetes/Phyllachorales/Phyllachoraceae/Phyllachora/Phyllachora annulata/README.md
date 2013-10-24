@@ -1,5 +1,4 @@
-Phyllachora annulata Sacc., 1883 SPECIES
-=======
+# Phyllachora annulata Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

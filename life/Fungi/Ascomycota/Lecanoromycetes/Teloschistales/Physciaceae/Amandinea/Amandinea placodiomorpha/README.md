@@ -1,5 +1,4 @@
-Amandinea placodiomorpha (Vain.) Marbach SPECIES
-=======
+# Amandinea placodiomorpha (Vain.) Marbach SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterolibertia licaniicola Hansf. SPECIES
-=======
+# Asterolibertia licaniicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

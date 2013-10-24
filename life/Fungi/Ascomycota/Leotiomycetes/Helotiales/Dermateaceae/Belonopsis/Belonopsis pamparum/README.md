@@ -1,5 +1,4 @@
-Belonopsis pamparum Speg. SPECIES
-=======
+# Belonopsis pamparum Speg. SPECIES
 
 #### Status
 ACCEPTED

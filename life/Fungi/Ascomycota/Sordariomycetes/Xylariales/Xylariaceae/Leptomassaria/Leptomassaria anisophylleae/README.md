@@ -1,5 +1,4 @@
-Leptomassaria anisophylleae Petr. SPECIES
-=======
+# Leptomassaria anisophylleae Petr. SPECIES
 
 #### Status
 ACCEPTED

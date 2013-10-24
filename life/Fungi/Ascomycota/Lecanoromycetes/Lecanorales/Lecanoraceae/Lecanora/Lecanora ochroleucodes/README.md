@@ -1,8 +1,7 @@
-Lecanora ochroleucoides Zahlbr. SPECIES
-=======
+# Lecanora ochroleucodes Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Phillipsia guatemalensis Paden SPECIES
-=======
+# Phillipsia guatemalensis Paden SPECIES
 
 #### Status
 ACCEPTED

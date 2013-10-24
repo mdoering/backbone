@@ -1,5 +1,4 @@
-Schizosaccharomyces chermetis-abietis ulc SPECIES
-=======
+# Schizosaccharomyces chermetis-abietis ulc SPECIES
 
 #### Status
 ACCEPTED

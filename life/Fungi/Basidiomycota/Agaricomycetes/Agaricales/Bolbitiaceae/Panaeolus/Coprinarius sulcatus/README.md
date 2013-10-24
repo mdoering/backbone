@@ -1,5 +1,4 @@
-Coprinarius sulcatus (Dunal) Quél. SPECIES
-=======
+# Coprinarius sulcatus (Dunal) Quél. SPECIES
 
 #### Status
 ACCEPTED

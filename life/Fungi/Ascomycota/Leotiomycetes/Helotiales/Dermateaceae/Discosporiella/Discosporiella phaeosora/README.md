@@ -1,5 +1,4 @@
-Discosporiella phaeosora (Sacc.) Petr. SPECIES
-=======
+# Discosporiella phaeosora (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon umbrinofuscum Pat. SPECIES
-=======
+# Lycoperdon umbrinofuscum Pat. SPECIES
 
 #### Status
 ACCEPTED

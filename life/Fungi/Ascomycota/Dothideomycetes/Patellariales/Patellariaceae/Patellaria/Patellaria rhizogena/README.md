@@ -1,5 +1,4 @@
-Patellaria rhizogena Mont. SPECIES
-=======
+# Patellaria rhizogena Mont. SPECIES
 
 #### Status
 ACCEPTED

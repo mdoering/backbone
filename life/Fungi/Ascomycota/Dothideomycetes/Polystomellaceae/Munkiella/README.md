@@ -1,17 +1,16 @@
-Apiotrabutia Petr. GENUS
-=======
+# Munkiella Spegazzini, 1885 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 27(5/6): 334 (1929)
+Anal. Soc. cient. argent. 19(6): 248 (1885)
 
 #### Original name
-Apiotrabutia Petr.
+Munkiella Spegazzini, 1885
 
 ### Remarks
 null

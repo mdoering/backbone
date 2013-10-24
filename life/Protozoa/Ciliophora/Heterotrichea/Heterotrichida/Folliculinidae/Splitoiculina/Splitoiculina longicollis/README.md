@@ -1,5 +1,4 @@
-Splitoiculina longicollis Hadzi, 1951 SPECIES
-=======
+# Splitoiculina longicollis Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma miyakei (Syd.) Syd. SPECIES
-=======
+# Dicaeoma miyakei (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

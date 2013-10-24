@@ -1,5 +1,4 @@
-Merulius petropolitanus Fr. SPECIES
-=======
+# Merulius petropolitanus Fr. SPECIES
 
 #### Status
 ACCEPTED

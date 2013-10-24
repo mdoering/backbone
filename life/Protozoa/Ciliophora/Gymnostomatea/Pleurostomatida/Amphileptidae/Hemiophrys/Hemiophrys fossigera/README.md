@@ -1,5 +1,4 @@
-Hemiophrys fossigera Kahl, 1935 SPECIES
-=======
+# Hemiophrys fossigera Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

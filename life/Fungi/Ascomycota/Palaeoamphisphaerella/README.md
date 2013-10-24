@@ -1,5 +1,4 @@
-Palaeoamphisphaerella Ramanujam & Srisailam GENUS
-=======
+# Palaeoamphisphaerella Ramanujam & Srisailam GENUS
 
 #### Status
 ACCEPTED

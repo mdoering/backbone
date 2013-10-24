@@ -1,5 +1,4 @@
-Ectomyces calotermi P. Tate SPECIES
-=======
+# Ectomyces calotermi P. Tate SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenopezia consimilis (Oudem. & Rehm) Sacc. SPECIES
-=======
+# Solenopezia consimilis (Oudem. & Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

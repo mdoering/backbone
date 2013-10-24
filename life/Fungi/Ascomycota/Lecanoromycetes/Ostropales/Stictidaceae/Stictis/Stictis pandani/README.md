@@ -1,5 +1,4 @@
-Stictis pandani Whitton, K.D. Hyde & McKenzie SPECIES
-=======
+# Stictis pandani Whitton, K.D. Hyde & McKenzie SPECIES
 
 #### Status
 ACCEPTED

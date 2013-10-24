@@ -1,5 +1,4 @@
-Verrucaria elaeophaena Kremp. SPECIES
-=======
+# Verrucaria elaeophaena Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria fontiana Maire SPECIES
-=======
+# Naucoria fontiana Maire SPECIES
 
 #### Status
 ACCEPTED

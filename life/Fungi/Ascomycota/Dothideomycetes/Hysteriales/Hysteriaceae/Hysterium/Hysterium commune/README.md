@@ -1,5 +1,4 @@
-Hysterium commune SPECIES
-=======
+# Hysterium commune SPECIES
 
 #### Status
 ACCEPTED

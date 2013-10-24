@@ -1,5 +1,4 @@
-Krobylopteris P.Schmidt, 1942 GENUS
-=======
+# Krobylopteris P.Schmidt, 1942 GENUS
 
 #### Status
 ACCEPTED

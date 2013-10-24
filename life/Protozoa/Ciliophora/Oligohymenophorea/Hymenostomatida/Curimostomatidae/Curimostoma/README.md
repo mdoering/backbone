@@ -1,5 +1,4 @@
-Curimostoma Kozloff, 1954 GENUS
-=======
+# Curimostoma Kozloff, 1954 GENUS
 
 #### Status
 ACCEPTED

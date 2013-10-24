@@ -1,14 +1,13 @@
-Atractobolus lanariceps (Cooke & W. Phillips) Kuntze, 1898 SPECIES
-=======
+# Lachnum lanariceps (Cooke & W. Phillips) Spooner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 446 (1898)
+Biblthca Mycol. 116: 474 (1987)
 
 #### Original name
 null

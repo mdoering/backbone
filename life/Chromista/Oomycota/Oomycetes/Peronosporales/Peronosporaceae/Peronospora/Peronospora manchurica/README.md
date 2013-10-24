@@ -1,5 +1,4 @@
-Peronospora manchurica (Naoum.) Syd. SPECIES
-=======
+# Peronospora manchurica (Naoum.) Syd. SPECIES
 
 #### Status
 ACCEPTED

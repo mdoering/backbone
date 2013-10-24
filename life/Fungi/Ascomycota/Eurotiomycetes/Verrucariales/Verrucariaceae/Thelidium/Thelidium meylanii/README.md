@@ -1,5 +1,4 @@
-Thelidium meylanii SPECIES
-=======
+# Thelidium meylanii SPECIES
 
 #### Status
 ACCEPTED

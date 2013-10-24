@@ -1,5 +1,4 @@
-Ceriomyces pulchellus Speg. SPECIES
-=======
+# Ceriomyces pulchellus Speg. SPECIES
 
 #### Status
 ACCEPTED

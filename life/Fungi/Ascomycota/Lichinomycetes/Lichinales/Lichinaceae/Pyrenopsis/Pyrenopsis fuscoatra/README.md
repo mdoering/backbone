@@ -1,5 +1,4 @@
-Pyrenopsis fuscoatra Fink SPECIES
-=======
+# Pyrenopsis fuscoatra Fink SPECIES
 
 #### Status
 ACCEPTED

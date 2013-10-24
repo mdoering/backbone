@@ -1,5 +1,4 @@
-Hyperrhiza tuberosa Fr. SPECIES
-=======
+# Hyperrhiza tuberosa Fr. SPECIES
 
 #### Status
 ACCEPTED

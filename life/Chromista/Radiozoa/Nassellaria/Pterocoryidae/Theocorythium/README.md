@@ -1,5 +1,4 @@
-Theocorythium Haeckel, 1887 GENUS
-=======
+# Theocorythium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

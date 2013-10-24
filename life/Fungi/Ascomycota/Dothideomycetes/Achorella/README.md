@@ -1,5 +1,4 @@
-Achorella Theiss. & Syd. GENUS
-=======
+# Achorella Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophthalmina Rhumbler, 1936 GENUS
-=======
+# Ophthalmina Rhumbler, 1936 GENUS
 
 #### Status
 ACCEPTED

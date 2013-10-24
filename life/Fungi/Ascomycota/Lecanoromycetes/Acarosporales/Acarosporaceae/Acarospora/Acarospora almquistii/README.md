@@ -1,5 +1,4 @@
-Acarospora almquistii H. Magn. SPECIES
-=======
+# Acarospora almquistii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

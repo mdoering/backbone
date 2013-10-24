@@ -1,8 +1,7 @@
-Coccochloris stagnina Sprengel SPECIES
-=======
+# Aphanothece stagnina (Sprengel) A. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

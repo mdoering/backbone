@@ -1,5 +1,4 @@
-Puccinia ibrae J.F. Hennen & J.W. McCain SPECIES
-=======
+# Puccinia ibrae J.F. Hennen & J.W. McCain SPECIES
 
 #### Status
 ACCEPTED

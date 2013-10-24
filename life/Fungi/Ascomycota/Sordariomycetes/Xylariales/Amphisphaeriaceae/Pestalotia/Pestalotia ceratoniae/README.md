@@ -1,5 +1,4 @@
-Pestalotia ceratoniae Maubl. SPECIES
-=======
+# Pestalotia ceratoniae Maubl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia trevoae Speg. SPECIES
-=======
+# Diplodia trevoae Speg. SPECIES
 
 #### Status
 ACCEPTED

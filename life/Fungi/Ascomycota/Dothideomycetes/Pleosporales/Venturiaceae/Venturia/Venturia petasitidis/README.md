@@ -1,5 +1,4 @@
-Venturia petasitidis (Fuckel) Sacc. SPECIES
-=======
+# Venturia petasitidis (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

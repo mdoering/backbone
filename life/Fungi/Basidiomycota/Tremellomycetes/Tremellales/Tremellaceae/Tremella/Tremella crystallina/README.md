@@ -1,5 +1,4 @@
-Tremella crystallina E.H.L. Krause SPECIES
-=======
+# Tremella crystallina E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

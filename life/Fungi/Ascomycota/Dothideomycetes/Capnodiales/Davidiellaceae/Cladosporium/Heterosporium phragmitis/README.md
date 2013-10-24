@@ -1,5 +1,4 @@
-Heterosporium phragmitis (Opiz) Sacc. SPECIES
-=======
+# Heterosporium phragmitis (Opiz) Sacc. SPECIES
 
 #### Status
 ACCEPTED

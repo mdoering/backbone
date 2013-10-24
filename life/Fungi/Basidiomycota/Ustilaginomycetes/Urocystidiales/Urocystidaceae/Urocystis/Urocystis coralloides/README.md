@@ -1,5 +1,4 @@
-Urocystis coralloides Rostr. SPECIES
-=======
+# Urocystis coralloides Rostr. SPECIES
 
 #### Status
 ACCEPTED

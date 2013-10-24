@@ -1,5 +1,4 @@
-Dictyocha pumila (P. F. Ciesielski) D. Bukry SPECIES
-=======
+# Dictyocha pumila (P. F. Ciesielski) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

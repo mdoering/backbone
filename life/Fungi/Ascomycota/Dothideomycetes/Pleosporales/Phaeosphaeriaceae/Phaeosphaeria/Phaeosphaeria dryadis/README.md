@@ -1,17 +1,16 @@
-Phaeosphaeria dryadea Nograsek SPECIES
-=======
+# Phaeosphaeria dryadis Nograsek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 133: 179 (1990)
 
 #### Original name
-Phaeosphaeria dryadea Nograsek
+Phaeosphaeria dryadis Nograsek
 
 ### Remarks
 null

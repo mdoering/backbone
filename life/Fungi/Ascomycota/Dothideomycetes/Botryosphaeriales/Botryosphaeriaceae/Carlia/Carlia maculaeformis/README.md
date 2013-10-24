@@ -1,5 +1,4 @@
-Carlia maculaeformis anon. SPECIES
-=======
+# Carlia maculaeformis anon. SPECIES
 
 #### Status
 ACCEPTED

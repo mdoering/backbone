@@ -1,5 +1,4 @@
-Gyalidea portoricensis Vezda SPECIES
-=======
+# Gyalidea portoricensis Vezda SPECIES
 
 #### Status
 ACCEPTED

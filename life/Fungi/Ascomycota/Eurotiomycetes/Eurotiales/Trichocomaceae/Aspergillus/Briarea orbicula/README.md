@@ -1,5 +1,4 @@
-Briarea orbicula f. orbicula FORM
-=======
+# Briarea orbicula (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Briarea orbicula f. orbicula
+Penicillium orbicula Corda
 
 ### Remarks
 null

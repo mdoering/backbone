@@ -1,5 +1,4 @@
-Puccinia berkheyicola Doidge SPECIES
-=======
+# Puccinia berkheyicola Doidge SPECIES
 
 #### Status
 ACCEPTED

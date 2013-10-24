@@ -1,5 +1,4 @@
-Linocarpon aquaticum K.D. Hyde SPECIES
-=======
+# Linocarpon aquaticum K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

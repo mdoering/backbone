@@ -1,5 +1,4 @@
-Pertusaria etrusca Erichsen SPECIES
-=======
+# Pertusaria etrusca Erichsen SPECIES
 
 #### Status
 ACCEPTED

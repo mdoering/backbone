@@ -1,5 +1,4 @@
-Herpotrichia cerealium Delacr. SPECIES
-=======
+# Herpotrichia cerealium Delacr. SPECIES
 
 #### Status
 ACCEPTED

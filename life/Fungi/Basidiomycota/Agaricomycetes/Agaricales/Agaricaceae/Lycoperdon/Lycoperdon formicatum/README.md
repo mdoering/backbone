@@ -1,5 +1,4 @@
-Lycoperdon formicatum Bryant SPECIES
-=======
+# Lycoperdon formicatum Bryant SPECIES
 
 #### Status
 ACCEPTED

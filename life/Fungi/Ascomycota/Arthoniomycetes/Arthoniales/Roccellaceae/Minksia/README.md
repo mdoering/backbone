@@ -1,5 +1,4 @@
-Minksia Müll. Arg. GENUS
-=======
+# Minksia Müll. Arg. GENUS
 
 #### Status
 ACCEPTED

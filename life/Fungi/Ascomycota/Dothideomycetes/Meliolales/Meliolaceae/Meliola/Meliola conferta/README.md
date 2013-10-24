@@ -1,5 +1,4 @@
-Meliola conferta Tehon SPECIES
-=======
+# Meliola conferta Tehon SPECIES
 
 #### Status
 ACCEPTED

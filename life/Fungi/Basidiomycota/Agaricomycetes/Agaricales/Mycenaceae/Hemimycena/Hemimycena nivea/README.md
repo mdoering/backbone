@@ -1,5 +1,4 @@
-Hemimycena nivea (Quél.) Singer SPECIES
-=======
+# Hemimycena nivea (Quél.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Humicola stellata var. stellata VARIETY
-=======
+# Thermomyces stellatus (Bunce) Apinis, 1963 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 44: 372 (1961)
+Nova Hedwigia 5: 75 (1963)
 
 #### Original name
-Humicola stellata var. stellata
+Humicola stellata Bunce, 1961
 
 ### Remarks
 null

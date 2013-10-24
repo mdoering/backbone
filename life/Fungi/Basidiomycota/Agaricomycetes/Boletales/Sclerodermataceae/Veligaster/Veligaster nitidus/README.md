@@ -1,14 +1,13 @@
-Veligaster nitidum (Berk.) Guzmán & Tapia SPECIES
-=======
+# Veligaster nitidus (Berk.) Guzmán & Tapia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 25(nos 98-100): 188 (1995)
 
 #### Original name
 Scleroderma nitidum Lloyd

@@ -1,5 +1,4 @@
-Caloplaca malmeana Zahlbr. SPECIES
-=======
+# Caloplaca malmeana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

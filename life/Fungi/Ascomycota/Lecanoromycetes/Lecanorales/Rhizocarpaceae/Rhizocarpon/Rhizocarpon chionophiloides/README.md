@@ -1,5 +1,4 @@
-Rhizocarpon chionophiloides var. chionophiloides VARIETY
-=======
+# Rhizocarpon chionophiloides SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizocarpon chionophiloides var. chionophiloides
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Yalisphaeridium xizangense Gao Lianda, 1986 SPECIES
-=======
+# Yalisphaeridium xizangense Gao Lianda, 1986 SPECIES
 
 #### Status
 ACCEPTED

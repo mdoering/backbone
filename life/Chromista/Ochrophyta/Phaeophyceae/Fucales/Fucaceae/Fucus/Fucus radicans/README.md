@@ -1,5 +1,4 @@
-Fucus radicans L. Bergström & L. Kautsky, 2005 SPECIES
-=======
+# Fucus radicans L. Bergström & L. Kautsky, 2005 SPECIES
 
 #### Status
 ACCEPTED

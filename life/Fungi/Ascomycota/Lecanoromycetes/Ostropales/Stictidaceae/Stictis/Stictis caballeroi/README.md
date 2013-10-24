@@ -1,5 +1,4 @@
-Stictis caballeroi Alcalde SPECIES
-=======
+# Stictis caballeroi Alcalde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora nephelii B. Sutton & Peregrine, 1990 SPECIES
-=======
+# Pseudocercospora nephelii B. Sutton & Peregrine, 1990 SPECIES
 
 #### Status
 ACCEPTED

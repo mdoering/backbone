@@ -1,5 +1,4 @@
-Arwidssonia loiseleuriae B. Erikss., 1974 SPECIES
-=======
+# Arwidssonia loiseleuriae B. Erikss., 1974 SPECIES
 
 #### Status
 ACCEPTED

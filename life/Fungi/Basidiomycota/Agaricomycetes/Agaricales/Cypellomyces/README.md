@@ -1,5 +1,4 @@
-Cypellomyces Spegazzini, 1906 GENUS
-=======
+# Cypellomyces Spegazzini, 1906 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus erythrotrichus Heinem. SPECIES
-=======
+# Agaricus erythrotrichus Heinem. SPECIES
 
 #### Status
 ACCEPTED

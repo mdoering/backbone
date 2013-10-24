@@ -1,5 +1,4 @@
-Coprinus pseudomicaceus Dennis SPECIES
-=======
+# Coprinus pseudomicaceus Dennis SPECIES
 
 #### Status
 ACCEPTED

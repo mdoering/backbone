@@ -1,5 +1,4 @@
-Ovularia lampsanae (Desm.) Massee SPECIES
-=======
+# Ovularia lampsanae (Desm.) Massee SPECIES
 
 #### Status
 ACCEPTED

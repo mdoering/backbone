@@ -1,5 +1,4 @@
-Marasmius velutipes var. velutipes VARIETY
-=======
+# Marasmius velutipes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius velutipes var. velutipes
+Marasmius velutipes Berk. & M.A. Curtis
 
 ### Remarks
 null

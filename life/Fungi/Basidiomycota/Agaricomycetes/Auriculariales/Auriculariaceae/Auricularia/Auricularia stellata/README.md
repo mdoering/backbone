@@ -1,5 +1,4 @@
-Auricularia stellata Lloyd SPECIES
-=======
+# Auricularia stellata Lloyd SPECIES
 
 #### Status
 ACCEPTED

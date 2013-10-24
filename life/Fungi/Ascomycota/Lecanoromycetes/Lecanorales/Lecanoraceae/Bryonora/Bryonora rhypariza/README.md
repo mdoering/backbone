@@ -1,5 +1,4 @@
-Bryonora rhypariza var. rhypariza VARIETY
-=======
+# Bryonora rhypariza SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Nova Hedwigia 38: 97 (1983)
+null
 
 #### Original name
-Bryonora rhypariza var. rhypariza
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Conocybe huysmanii Watling SPECIES
-=======
+# Conocybe huysmanii Watling SPECIES
 
 #### Status
 ACCEPTED

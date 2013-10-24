@@ -1,5 +1,4 @@
-Vascellum floridanum A.H. Sm. SPECIES
-=======
+# Vascellum floridanum A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryotrichum peruvianum Matsush., 1975 SPECIES
-=======
+# Botryotrichum peruvianum Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

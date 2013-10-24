@@ -1,5 +1,4 @@
-Dermocybe miltina (Fr.) Ricken SPECIES
-=======
+# Dermocybe miltina (Fr.) Ricken SPECIES
 
 #### Status
 ACCEPTED

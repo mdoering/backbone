@@ -1,5 +1,4 @@
-Trematosphaeria yakushimensis T. Kobay. {?} SPECIES
-=======
+# Trematosphaeria yakushimensis T. Kobay. {?} SPECIES
 
 #### Status
 ACCEPTED

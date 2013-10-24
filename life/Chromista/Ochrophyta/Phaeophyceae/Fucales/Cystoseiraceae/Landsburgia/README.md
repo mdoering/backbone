@@ -1,5 +1,4 @@
-Landsburgia Harvey, 1855 GENUS
-=======
+# Landsburgia Harvey, 1855 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Winterella anthostomoides Sacc. SPECIES
-=======
+# Winterella anthostomoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora peronosporoidea Pat. & Har. SPECIES
-=======
+# Cercospora peronosporoidea Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

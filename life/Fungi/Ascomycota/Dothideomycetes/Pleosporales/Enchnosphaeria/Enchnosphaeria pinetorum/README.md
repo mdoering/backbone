@@ -1,5 +1,4 @@
-Enchnosphaeria pinetorum Fuckel SPECIES
-=======
+# Enchnosphaeria pinetorum Fuckel SPECIES
 
 #### Status
 ACCEPTED

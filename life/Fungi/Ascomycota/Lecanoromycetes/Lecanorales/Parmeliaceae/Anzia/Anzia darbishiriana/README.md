@@ -1,5 +1,4 @@
-Anzia darbishiriana Zahlbr. SPECIES
-=======
+# Anzia darbishiriana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

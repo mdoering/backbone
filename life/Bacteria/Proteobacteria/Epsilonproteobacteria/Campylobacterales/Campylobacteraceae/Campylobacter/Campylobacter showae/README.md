@@ -1,5 +1,4 @@
-Campylobacter showae Etoh et al., 1993 SPECIES
-=======
+# Campylobacter showae Etoh et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachysphaeridium decorum Venkatachala et al., 1972 SPECIES
-=======
+# Trachysphaeridium decorum Venkatachala et al., 1972 SPECIES
 
 #### Status
 ACCEPTED

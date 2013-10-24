@@ -1,5 +1,4 @@
-Endoconidium ampelophilum Pat. SPECIES
-=======
+# Endoconidium ampelophilum Pat. SPECIES
 
 #### Status
 ACCEPTED

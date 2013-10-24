@@ -1,5 +1,4 @@
-Cylindrospermum trichotospermum Frémy SPECIES
-=======
+# Cylindrospermum trichotospermum Frémy SPECIES
 
 #### Status
 ACCEPTED

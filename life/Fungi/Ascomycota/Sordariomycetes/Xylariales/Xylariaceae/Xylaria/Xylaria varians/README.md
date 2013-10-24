@@ -1,5 +1,4 @@
-Xylaria varians Penz. & Sacc. SPECIES
-=======
+# Xylaria varians Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

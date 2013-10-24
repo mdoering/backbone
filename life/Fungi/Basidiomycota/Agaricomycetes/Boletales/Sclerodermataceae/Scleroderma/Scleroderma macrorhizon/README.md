@@ -1,5 +1,4 @@
-Scleroderma macrorhizon Wallr. SPECIES
-=======
+# Scleroderma macrorhizon Wallr. SPECIES
 
 #### Status
 ACCEPTED

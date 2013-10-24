@@ -1,5 +1,4 @@
-Pseudascozonus racemosporus Brumm., 1985 SPECIES
-=======
+# Pseudascozonus racemosporus Brumm., 1985 SPECIES
 
 #### Status
 ACCEPTED

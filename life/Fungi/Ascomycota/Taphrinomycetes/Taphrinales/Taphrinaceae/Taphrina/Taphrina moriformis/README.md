@@ -1,5 +1,4 @@
-Taphrina moriformis Bubák SPECIES
-=======
+# Taphrina moriformis Bubák SPECIES
 
 #### Status
 ACCEPTED

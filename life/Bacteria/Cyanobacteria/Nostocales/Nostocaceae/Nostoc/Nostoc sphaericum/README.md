@@ -1,8 +1,7 @@
-Nostocella sphaerica Vaucher ex Gaillon SPECIES
-=======
+# Nostoc sphaericum Vaucher ex Bornet & Flahault SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

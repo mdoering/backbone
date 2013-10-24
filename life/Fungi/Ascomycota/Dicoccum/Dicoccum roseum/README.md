@@ -1,5 +1,4 @@
-Dicoccum roseum (Pers.) Bonord. SPECIES
-=======
+# Dicoccum roseum (Pers.) Bonord. SPECIES
 
 #### Status
 ACCEPTED

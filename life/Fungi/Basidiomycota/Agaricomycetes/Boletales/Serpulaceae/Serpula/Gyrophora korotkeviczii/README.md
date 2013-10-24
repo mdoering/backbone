@@ -1,5 +1,4 @@
-Gyrophora korotkeviczii N.S. Golubk. SPECIES
-=======
+# Gyrophora korotkeviczii N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

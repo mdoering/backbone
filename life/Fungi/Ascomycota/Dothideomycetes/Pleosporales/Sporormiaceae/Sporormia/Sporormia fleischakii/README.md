@@ -1,5 +1,4 @@
-Sporormia fleischakii Auersw. SPECIES
-=======
+# Sporormia fleischakii Auersw. SPECIES
 
 #### Status
 ACCEPTED

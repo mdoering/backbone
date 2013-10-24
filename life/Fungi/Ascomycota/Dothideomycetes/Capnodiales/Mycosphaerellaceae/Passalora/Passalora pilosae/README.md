@@ -1,5 +1,4 @@
-Passalora pilosae (T.S. Ramakr.) U. Braun & Crous SPECIES
-=======
+# Passalora pilosae (T.S. Ramakr.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

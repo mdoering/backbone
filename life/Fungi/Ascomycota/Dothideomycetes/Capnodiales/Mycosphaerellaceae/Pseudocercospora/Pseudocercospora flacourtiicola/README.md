@@ -1,5 +1,4 @@
-Pseudocercospora flacourtiicola U. Braun & Kamal SPECIES
-=======
+# Pseudocercospora flacourtiicola U. Braun & Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eccilia euchlora House SPECIES
-=======
+# Eccilia euchlora House SPECIES
 
 #### Status
 ACCEPTED

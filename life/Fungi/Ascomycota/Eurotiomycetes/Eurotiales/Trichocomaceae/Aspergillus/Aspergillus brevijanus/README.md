@@ -1,5 +1,4 @@
-Aspergillus brevijanus S.W. Peterson SPECIES
-=======
+# Aspergillus brevijanus S.W. Peterson SPECIES
 
 #### Status
 ACCEPTED

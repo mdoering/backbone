@@ -1,17 +1,16 @@
-Hypoxylon latissimum var. purpurea Rick VARIETY
-=======
+# Nemania latissima (Speg.) Y.M. Ju & J.D. Rogers, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 74(1-2): 100 (2002)
 
 #### Original name
-Hypoxylon latissimum var. purpurea Rick
+Hypoxylon latissimum Speg., 1888
 
 ### Remarks
 null

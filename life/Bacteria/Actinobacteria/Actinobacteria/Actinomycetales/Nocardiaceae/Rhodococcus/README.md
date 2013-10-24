@@ -1,5 +1,4 @@
-Rhodococcus Zopf, 1891 GENUS
-=======
+# Rhodococcus Zopf, 1891 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria rugulosaria (Linds.) Sacc. & Trotter SPECIES
-=======
+# Didymosphaeria rugulosaria (Linds.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius punctatisporus Garnica SPECIES
-=======
+# Cortinarius punctatisporus Garnica SPECIES
 
 #### Status
 ACCEPTED

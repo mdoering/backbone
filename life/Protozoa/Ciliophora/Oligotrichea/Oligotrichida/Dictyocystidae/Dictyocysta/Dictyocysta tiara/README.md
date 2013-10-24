@@ -1,5 +1,4 @@
-Dictyocysta tiara Haeckel, 1873 SPECIES
-=======
+# Dictyocysta tiara Haeckel, 1873 SPECIES
 
 #### Status
 ACCEPTED

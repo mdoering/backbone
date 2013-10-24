@@ -1,5 +1,4 @@
-Lyophyllum lutescens Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum lutescens Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

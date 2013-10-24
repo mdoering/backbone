@@ -1,5 +1,4 @@
-Quinqueloculina lucida Karrer, 1868 SPECIES
-=======
+# Quinqueloculina lucida Karrer, 1868 SPECIES
 
 #### Status
 ACCEPTED

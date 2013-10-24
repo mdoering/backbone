@@ -1,5 +1,4 @@
-Phyllosticta sissoo Died. SPECIES
-=======
+# Phyllosticta sissoo Died. SPECIES
 
 #### Status
 ACCEPTED

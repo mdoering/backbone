@@ -1,14 +1,13 @@
-Alteromonas rubra Gauthier, 1976 (Approved Lists, 1980) SPECIES
-=======
+# Pseudoalteromonas rubra (Gauthier, 1976) Gauthier et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gauthier, M. J. 1976. Alteromonas rubra sp. nov. , a new marine antibiotic-producing bacterium. Int. J. Syst. Bacteriol. 26:459-466.
 
 #### Original name
 null

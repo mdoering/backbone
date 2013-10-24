@@ -1,5 +1,4 @@
-Lecania xanthaspis (Kremp.) Zahlbr. SPECIES
-=======
+# Lecania xanthaspis (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

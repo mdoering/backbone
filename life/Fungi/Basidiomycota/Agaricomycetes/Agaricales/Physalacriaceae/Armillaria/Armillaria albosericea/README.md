@@ -1,5 +1,4 @@
-Armillaria albosericea (V. Brig.) Sacc. SPECIES
-=======
+# Armillaria albosericea (V. Brig.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

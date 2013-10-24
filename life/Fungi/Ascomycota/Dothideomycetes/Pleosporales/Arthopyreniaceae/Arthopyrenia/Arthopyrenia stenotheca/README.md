@@ -1,5 +1,4 @@
-Arthopyrenia stenotheca Müll. Arg. SPECIES
-=======
+# Arthopyrenia stenotheca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

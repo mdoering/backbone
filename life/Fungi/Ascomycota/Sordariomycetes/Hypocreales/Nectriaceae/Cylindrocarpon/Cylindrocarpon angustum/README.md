@@ -1,5 +1,4 @@
-Cylindrocarpon angustum Wollenw. SPECIES
-=======
+# Cylindrocarpon angustum Wollenw. SPECIES
 
 #### Status
 ACCEPTED

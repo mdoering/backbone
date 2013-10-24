@@ -1,5 +1,4 @@
-Phyllosticta elodea (Syd.) Aa SPECIES
-=======
+# Phyllosticta elodea (Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

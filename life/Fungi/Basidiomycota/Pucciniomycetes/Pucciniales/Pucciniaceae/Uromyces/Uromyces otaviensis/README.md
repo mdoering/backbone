@@ -1,5 +1,4 @@
-Uromyces otaviensis Mennicken, W. Maier & Oberw., 2005 SPECIES
-=======
+# Uromyces otaviensis Mennicken, W. Maier & Oberw., 2005 SPECIES
 
 #### Status
 ACCEPTED

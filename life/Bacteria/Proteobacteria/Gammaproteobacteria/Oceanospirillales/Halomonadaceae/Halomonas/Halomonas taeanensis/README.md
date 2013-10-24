@@ -1,5 +1,4 @@
-Halomonas taeanensis Lee et al., 2005 SPECIES
-=======
+# Halomonas taeanensis Lee et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

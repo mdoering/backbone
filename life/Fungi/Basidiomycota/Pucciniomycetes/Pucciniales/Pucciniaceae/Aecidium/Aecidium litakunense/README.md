@@ -1,5 +1,4 @@
-Aecidium litakunense Doidge SPECIES
-=======
+# Aecidium litakunense Doidge SPECIES
 
 #### Status
 ACCEPTED

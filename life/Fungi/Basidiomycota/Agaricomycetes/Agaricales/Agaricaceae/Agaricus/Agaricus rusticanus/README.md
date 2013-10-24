@@ -1,5 +1,4 @@
-Agaricus rusticanus Scop. SPECIES
-=======
+# Agaricus rusticanus Scop. SPECIES
 
 #### Status
 ACCEPTED

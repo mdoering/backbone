@@ -1,17 +1,16 @@
-Satwalekera D. Rao, V.G. Rao & P.Rag. Rao GENUS
-=======
+# Torula Persoon, 1794 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 18: 640 (1970)
+Ann. Bot. (Usteri) 15: 25 (1794)
 
 #### Original name
-Satwalekera D. Rao, V.G. Rao & P.Rag. Rao
+Torula Persoon, 1794
 
 ### Remarks
 null

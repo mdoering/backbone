@@ -1,5 +1,4 @@
-Cylindrosporium corni Solheim SPECIES
-=======
+# Cylindrosporium corni Solheim SPECIES
 
 #### Status
 ACCEPTED

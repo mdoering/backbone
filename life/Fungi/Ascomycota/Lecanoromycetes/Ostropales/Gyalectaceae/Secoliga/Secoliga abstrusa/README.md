@@ -1,5 +1,4 @@
-Secoliga abstrusa (Wallr.) Körb. SPECIES
-=======
+# Secoliga abstrusa (Wallr.) Körb. SPECIES
 
 #### Status
 ACCEPTED

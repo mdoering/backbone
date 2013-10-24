@@ -1,5 +1,4 @@
-Stypopodium J. Agardh GENUS
-=======
+# Stypopodium J. Agardh GENUS
 
 #### Status
 ACCEPTED

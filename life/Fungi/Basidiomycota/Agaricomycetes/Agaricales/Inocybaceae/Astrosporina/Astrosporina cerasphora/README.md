@@ -1,5 +1,4 @@
-Astrosporina cerasphora (Singer) E. Horak SPECIES
-=======
+# Astrosporina cerasphora (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

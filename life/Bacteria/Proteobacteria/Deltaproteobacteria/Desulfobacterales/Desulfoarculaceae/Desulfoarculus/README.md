@@ -1,5 +1,4 @@
-Desulfoarculus GENUS
-=======
+# Desulfoarculus GENUS
 
 #### Status
 ACCEPTED

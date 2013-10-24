@@ -1,5 +1,4 @@
-Sirotrema pusilla Bandoni, 1986 SPECIES
-=======
+# Sirotrema pusilla Bandoni, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Porina bonplandiae Müll. Arg. SPECIES
-=======
+# Mycoporum lacteum (Ach.) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 69 (1995)
 
 #### Original name
-Porina bonplandiae Müll. Arg.
+null
 
 ### Remarks
 null

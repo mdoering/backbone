@@ -1,5 +1,4 @@
-Lyophyllum daonense Ruini SPECIES
-=======
+# Lyophyllum daonense Ruini SPECIES
 
 #### Status
 ACCEPTED

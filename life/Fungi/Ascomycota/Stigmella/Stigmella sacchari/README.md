@@ -1,5 +1,4 @@
-Stigmella sacchari Speg. SPECIES
-=======
+# Stigmella sacchari Speg. SPECIES
 
 #### Status
 ACCEPTED

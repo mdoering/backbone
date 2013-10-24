@@ -1,5 +1,4 @@
-Platysma ravenelii Tuck. SPECIES
-=======
+# Platysma ravenelii Tuck. SPECIES
 
 #### Status
 ACCEPTED

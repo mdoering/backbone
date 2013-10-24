@@ -1,5 +1,4 @@
-Ladrococcus Locq. GENUS
-=======
+# Ladrococcus Locq. GENUS
 
 #### Status
 ACCEPTED

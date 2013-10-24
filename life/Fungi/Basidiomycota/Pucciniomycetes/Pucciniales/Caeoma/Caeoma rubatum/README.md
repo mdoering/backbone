@@ -1,5 +1,4 @@
-Caeoma rubatum Link SPECIES
-=======
+# Caeoma rubatum Link SPECIES
 
 #### Status
 ACCEPTED

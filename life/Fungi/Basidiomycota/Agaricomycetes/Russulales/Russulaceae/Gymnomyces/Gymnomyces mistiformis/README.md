@@ -1,14 +1,13 @@
-Martellia mistiformis Mattir., 1900 SPECIES
-=======
+# Gymnomyces mistiformis (Mattir.) T. Lebel & Trappe, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Malpighia 14: 78 (1900)
+Mycologia 92(6): 1199 (2000)
 
 #### Original name
 Martellia mistiformis Mattir., 1900

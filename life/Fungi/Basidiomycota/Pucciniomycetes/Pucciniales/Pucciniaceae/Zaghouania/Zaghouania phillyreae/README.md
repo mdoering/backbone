@@ -1,17 +1,16 @@
-Aecidium phyllyreae DC., 1815 SPECIES
-=======
+# Zaghouania phillyreae Pat., 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 96 (1815)
+Bull. Soc. mycol. Fr. 17: 187 (1901)
 
 #### Original name
-Aecidium phyllyreae DC., 1815
+Zaghouania phillyreae Pat., 1901
 
 ### Remarks
 null

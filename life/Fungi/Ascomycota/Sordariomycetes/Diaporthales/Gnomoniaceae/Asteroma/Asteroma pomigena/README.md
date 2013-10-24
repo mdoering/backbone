@@ -1,5 +1,4 @@
-Asteroma pomigena M.A. Curtis SPECIES
-=======
+# Asteroma pomigena M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporocephalum peniophorae G. Arnaud, 1952 SPECIES
-=======
+# Sporocephalum peniophorae G. Arnaud, 1952 SPECIES
 
 #### Status
 ACCEPTED

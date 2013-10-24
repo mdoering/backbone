@@ -1,5 +1,4 @@
-Mycena mackinawensis A.H. Sm. SPECIES
-=======
+# Mycena mackinawensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

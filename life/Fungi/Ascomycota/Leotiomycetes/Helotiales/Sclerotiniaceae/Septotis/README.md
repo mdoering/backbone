@@ -1,5 +1,4 @@
-Septotis N.F. Buchwald ex Arx, 1970 GENUS
-=======
+# Septotis N.F. Buchwald ex Arx, 1970 GENUS
 
 #### Status
 ACCEPTED

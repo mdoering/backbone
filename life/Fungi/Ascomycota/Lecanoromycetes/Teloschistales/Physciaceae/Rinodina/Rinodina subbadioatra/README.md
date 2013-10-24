@@ -1,14 +1,13 @@
-Buellia subbadioatra Müll. Arg. SPECIES
-=======
+# Rinodina subbadioatra (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 2(append. 1): 70 (1894)
+B. A. N. Z. Antarct. Res. Exped. Rep. , Ser. B 7: 256 (1948)
 
 #### Original name
 Buellia subbadioatra Müll. Arg.

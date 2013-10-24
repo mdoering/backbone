@@ -1,5 +1,4 @@
-Gyalecta decipiens Samp. SPECIES
-=======
+# Gyalecta decipiens Samp. SPECIES
 
 #### Status
 ACCEPTED

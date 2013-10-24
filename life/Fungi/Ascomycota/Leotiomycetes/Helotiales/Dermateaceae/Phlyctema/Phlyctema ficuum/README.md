@@ -1,5 +1,4 @@
-Phlyctema ficuum Henn. SPECIES
-=======
+# Phlyctema ficuum Henn. SPECIES
 
 #### Status
 ACCEPTED

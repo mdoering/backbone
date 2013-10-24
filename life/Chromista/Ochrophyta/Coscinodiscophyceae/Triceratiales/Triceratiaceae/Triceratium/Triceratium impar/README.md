@@ -1,5 +1,4 @@
-Triceratium impar Schmidt SPECIES
-=======
+# Triceratium impar Schmidt SPECIES
 
 #### Status
 ACCEPTED

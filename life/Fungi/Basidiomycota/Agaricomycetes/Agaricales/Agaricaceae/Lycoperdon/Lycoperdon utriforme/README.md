@@ -1,17 +1,16 @@
-Calvatia caelata f. caelata FORM
-=======
+# Lycoperdon utriforme Bull., 1791 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Cincinnati Soc. Nat. Hist. 12: 169 (1890)
+Annales de l'Institut agronomique de Moscou 153 (1791)
 
 #### Original name
-Calvatia caelata f. caelata
+Lycoperdon utriforme Bull., 1791
 
 ### Remarks
 null

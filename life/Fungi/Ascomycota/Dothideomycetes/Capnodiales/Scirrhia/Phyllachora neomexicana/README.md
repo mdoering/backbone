@@ -1,5 +1,4 @@
-Phyllachora neomexicana Trotter, 1926 SPECIES
-=======
+# Phyllachora neomexicana Trotter, 1926 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Pyrenula crassescens (Stirt.) Müll. Arg. SPECIES
-=======
+# Pyrenula crassescens (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aragonia Finlay, 1939 GENUS
-=======
+# Aragonia Finlay, 1939 GENUS
 
 #### Status
 ACCEPTED

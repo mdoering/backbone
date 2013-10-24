@@ -1,5 +1,4 @@
-Heterosporium beckii Bäumler SPECIES
-=======
+# Heterosporium beckii Bäumler SPECIES
 
 #### Status
 ACCEPTED

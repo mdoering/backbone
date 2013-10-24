@@ -1,5 +1,4 @@
-Synchytrium chrysosplenii Sorokin SPECIES
-=======
+# Synchytrium chrysosplenii Sorokin SPECIES
 
 #### Status
 ACCEPTED

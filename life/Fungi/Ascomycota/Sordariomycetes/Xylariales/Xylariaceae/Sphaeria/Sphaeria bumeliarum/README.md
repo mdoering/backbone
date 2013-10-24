@@ -1,5 +1,4 @@
-Sphaeria bumeliarum Saporta SPECIES
-=======
+# Sphaeria bumeliarum Saporta SPECIES
 
 #### Status
 ACCEPTED

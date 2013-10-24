@@ -1,5 +1,4 @@
-Dendrodochium minusculum Sacc. SPECIES
-=======
+# Dendrodochium minusculum Sacc. SPECIES
 
 #### Status
 ACCEPTED

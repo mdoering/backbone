@@ -1,5 +1,4 @@
-Asterina anogeissi R.C. Rajak SPECIES
-=======
+# Asterina anogeissi R.C. Rajak SPECIES
 
 #### Status
 ACCEPTED

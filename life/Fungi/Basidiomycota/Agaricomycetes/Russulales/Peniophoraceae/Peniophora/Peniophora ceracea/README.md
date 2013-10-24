@@ -1,5 +1,4 @@
-Peniophora ceracea Petch SPECIES
-=======
+# Peniophora ceracea Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia turicensis (G. Winter) Zschacke SPECIES
-=======
+# Polyblastia turicensis (G. Winter) Zschacke SPECIES
 
 #### Status
 ACCEPTED

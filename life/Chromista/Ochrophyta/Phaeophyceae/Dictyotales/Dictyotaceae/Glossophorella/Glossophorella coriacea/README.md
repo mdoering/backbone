@@ -1,5 +1,4 @@
-Glossophorella coriacea (Holmes) M. Nizamuddin SPECIES
-=======
+# Glossophorella coriacea (Holmes) M. Nizamuddin SPECIES
 
 #### Status
 ACCEPTED

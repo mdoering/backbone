@@ -1,5 +1,4 @@
-Ascochyta ricinicola P.K. Chi SPECIES
-=======
+# Ascochyta ricinicola P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

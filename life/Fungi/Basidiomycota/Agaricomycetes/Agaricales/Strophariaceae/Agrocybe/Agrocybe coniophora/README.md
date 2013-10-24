@@ -1,5 +1,4 @@
-Agrocybe coniophora Romagn. SPECIES
-=======
+# Agrocybe coniophora Romagn. SPECIES
 
 #### Status
 ACCEPTED

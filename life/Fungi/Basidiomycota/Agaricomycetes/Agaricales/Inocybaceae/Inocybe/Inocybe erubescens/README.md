@@ -1,17 +1,16 @@
-Inocybe patouillardi Bres. SPECIES
-=======
+# Inocybe erubescens A. Blytt, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Videnskabs-Selskabets Skrifter. I Math. -Naturv. Kl. , 1904 6: 54 (1905)
 
 #### Original name
-Inocybe patouillardi Bres.
+Inocybe erubescens A. Blytt, 1905
 
 ### Remarks
 null

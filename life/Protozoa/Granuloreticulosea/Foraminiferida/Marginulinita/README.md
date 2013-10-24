@@ -1,5 +1,4 @@
-Marginulinita Kuznetsova, 1972 GENUS
-=======
+# Marginulinita Kuznetsova, 1972 GENUS
 
 #### Status
 ACCEPTED

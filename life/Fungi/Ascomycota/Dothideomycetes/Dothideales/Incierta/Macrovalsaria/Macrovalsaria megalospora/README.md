@@ -1,17 +1,16 @@
-Melogramma megalospora (Mont.) Cooke, 1885 SPECIES
-=======
+# Macrovalsaria megalospora (Mont.) Sivan., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 65(3): 400 (1974)
 
 #### Original name
-null
+Sphaeria megalospora Mont., 1840
 
 ### Remarks
 null

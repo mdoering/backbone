@@ -1,17 +1,16 @@
-Phoma sorbi (Lasch) Sacc., 1884 SPECIES
-=======
+# Septoria sorbi Lasch, 1843 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 107 (1884)
+Klotzsch Herb. Myc. no. 459 (1843)
 
 #### Original name
-Septoria sorbi Lasch, 1843
+Cryptosporium sorbi Ces.
 
 ### Remarks
 null

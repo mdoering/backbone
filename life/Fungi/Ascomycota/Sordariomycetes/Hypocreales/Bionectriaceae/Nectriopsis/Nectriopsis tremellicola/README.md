@@ -1,14 +1,13 @@
-Hypocreopsis tremellicola (Ellis & Everh.) Seaver, 1910 SPECIES
-=======
+# Nectriopsis tremellicola (Ellis & Everh.) W. Gams, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 2(2): 83 (1910)
+in Gams & Van Zaayen, Neth. Jl Pl. Path. 88(2): 69 (1982)
 
 #### Original name
 Hypocrea tremellicola Ellis & Everh. 18??

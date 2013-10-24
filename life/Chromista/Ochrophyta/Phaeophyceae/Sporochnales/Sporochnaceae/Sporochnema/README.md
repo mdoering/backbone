@@ -1,5 +1,4 @@
-Sporochnema Womersley, 1987 GENUS
-=======
+# Sporochnema Womersley, 1987 GENUS
 
 #### Status
 ACCEPTED

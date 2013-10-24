@@ -1,5 +1,4 @@
-Lampromitra schultzei (Haeckel) Takahashi, 1991 SPECIES
-=======
+# Lampromitra schultzei (Haeckel) Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

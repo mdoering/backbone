@@ -1,5 +1,4 @@
-Clathrostomatidae FAMILY
-=======
+# Clathrostomatidae FAMILY
 
 #### Status
 ACCEPTED

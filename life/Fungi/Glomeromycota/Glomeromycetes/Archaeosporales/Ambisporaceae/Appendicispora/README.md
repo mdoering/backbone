@@ -1,5 +1,4 @@
-Appendicispora Spain, Oehl & Sieverd. GENUS
-=======
+# Appendicispora Spain, Oehl & Sieverd. GENUS
 
 #### Status
 ACCEPTED

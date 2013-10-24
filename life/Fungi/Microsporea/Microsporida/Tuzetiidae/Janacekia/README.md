@@ -1,5 +1,4 @@
-Janacekia J.I.R. Larsson, 1983 GENUS
-=======
+# Janacekia J.I.R. Larsson, 1983 GENUS
 
 #### Status
 ACCEPTED

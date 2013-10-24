@@ -1,5 +1,4 @@
-Trachelomonas ovoides var. australica Skvortsov VARIETY
-=======
+# Trachelomonas ovoides Conrad SPECIES
 
 #### Status
 ACCEPTED

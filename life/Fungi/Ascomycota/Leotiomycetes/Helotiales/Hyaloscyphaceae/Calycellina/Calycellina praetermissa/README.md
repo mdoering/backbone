@@ -1,5 +1,4 @@
-Calycellina praetermissa Svrcek SPECIES
-=======
+# Calycellina praetermissa Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus pseudodeliciosus Batsch SPECIES
-=======
+# Agaricus pseudodeliciosus Batsch SPECIES
 
 #### Status
 ACCEPTED

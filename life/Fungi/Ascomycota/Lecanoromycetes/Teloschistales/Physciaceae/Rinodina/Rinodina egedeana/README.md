@@ -1,5 +1,4 @@
-Rinodina egedeana (Linds.) Alstrup & D. Hawksw. SPECIES
-=======
+# Rinodina egedeana (Linds.) Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

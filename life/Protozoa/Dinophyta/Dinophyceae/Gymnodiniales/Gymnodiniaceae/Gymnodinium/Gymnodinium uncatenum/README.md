@@ -1,5 +1,4 @@
-Gymnodinium uncatenum (Hulburt, 1957) Hallegraeff, 2002 SPECIES
-=======
+# Gymnodinium uncatenum (Hulburt, 1957) Hallegraeff, 2002 SPECIES
 
 #### Status
 ACCEPTED

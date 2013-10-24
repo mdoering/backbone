@@ -1,5 +1,4 @@
-Tapesia ribesia (Cooke & W. Phillips) Rehm SPECIES
-=======
+# Tapesia ribesia (Cooke & W. Phillips) Rehm SPECIES
 
 #### Status
 ACCEPTED

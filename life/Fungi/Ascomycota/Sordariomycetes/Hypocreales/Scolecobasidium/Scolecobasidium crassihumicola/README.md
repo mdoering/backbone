@@ -1,5 +1,4 @@
-Scolecobasidium crassihumicola Matsush. SPECIES
-=======
+# Scolecobasidium crassihumicola Matsush. SPECIES
 
 #### Status
 ACCEPTED

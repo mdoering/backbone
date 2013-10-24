@@ -1,5 +1,4 @@
-Hysteromyces graveolens Vittad. SPECIES
-=======
+# Hysteromyces graveolens Vittad. SPECIES
 
 #### Status
 ACCEPTED

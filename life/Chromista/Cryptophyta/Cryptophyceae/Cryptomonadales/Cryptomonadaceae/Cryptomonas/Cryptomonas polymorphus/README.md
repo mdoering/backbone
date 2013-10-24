@@ -1,5 +1,4 @@
-Cryptomonas polymorphus SPECIES
-=======
+# Cryptomonas polymorphus SPECIES
 
 #### Status
 ACCEPTED

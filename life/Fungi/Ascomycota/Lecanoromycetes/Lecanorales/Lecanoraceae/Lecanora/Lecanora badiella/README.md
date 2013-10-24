@@ -1,5 +1,4 @@
-Lecanora badiella Nyl. SPECIES
-=======
+# Lecanora badiella Nyl. SPECIES
 
 #### Status
 ACCEPTED

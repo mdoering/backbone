@@ -1,17 +1,16 @@
-Haynaldia Schulzer GENUS
-=======
+# Helicostylum Corda, 1842 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Schulzer, Kanitz & Knapp, Verh. zool. -bot. Ges. Wien 16(Abh. ): 37 (1866)
+null
 
 #### Original name
-Haynaldia Schulzer
+null
 
 ### Remarks
 null

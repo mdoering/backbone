@@ -1,5 +1,4 @@
-Stigmatophragmia sassafrasicola Tehon & G.L. Stout, 1929 SPECIES
-=======
+# Stigmatophragmia sassafrasicola Tehon & G.L. Stout, 1929 SPECIES
 
 #### Status
 ACCEPTED

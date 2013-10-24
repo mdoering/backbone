@@ -1,5 +1,4 @@
-Asteromella visci Doidge SPECIES
-=======
+# Asteromella visci Doidge SPECIES
 
 #### Status
 ACCEPTED

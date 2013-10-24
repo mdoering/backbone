@@ -1,5 +1,4 @@
-Gloeosporium chilense (Mont.) Wollenw. SPECIES
-=======
+# Gloeosporium chilense (Mont.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Craterellus boyacensis Singer SPECIES
-=======
+# Craterellus boyacensis Singer SPECIES
 
 #### Status
 ACCEPTED

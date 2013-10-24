@@ -1,5 +1,4 @@
-Ecteinomyces filarius Thaxt. SPECIES
-=======
+# Ecteinomyces filarius Thaxt. SPECIES
 
 #### Status
 ACCEPTED

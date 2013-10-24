@@ -1,5 +1,4 @@
-Ravenelia striatispora Cummins & J.W. Baxter SPECIES
-=======
+# Ravenelia striatispora Cummins & J.W. Baxter SPECIES
 
 #### Status
 ACCEPTED

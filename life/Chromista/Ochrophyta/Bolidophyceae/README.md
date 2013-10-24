@@ -1,5 +1,4 @@
-Bolidophyceae L. Guillou & M.-J. Chrétiennot-Dinet CLASS
-=======
+# Bolidophyceae L. Guillou & M.-J. Chrétiennot-Dinet CLASS
 
 #### Status
 ACCEPTED

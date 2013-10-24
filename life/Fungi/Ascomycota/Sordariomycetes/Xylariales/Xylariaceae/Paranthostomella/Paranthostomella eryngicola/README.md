@@ -1,17 +1,16 @@
-Paranthostomella eryngiicola Speg. SPECIES
-=======
+# Paranthostomella eryngicola Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revta Fac. Agron. Vet. Univ. nac. La Plata 6(1): 42 (1910)
 
 #### Original name
-Paranthostomella eryngiicola Speg.
+Paranthostomella eryngicola Speg.
 
 ### Remarks
 null

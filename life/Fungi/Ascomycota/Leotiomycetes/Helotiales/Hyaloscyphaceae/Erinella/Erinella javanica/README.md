@@ -1,5 +1,4 @@
-Erinella javanica Henn. & E. Nyman SPECIES
-=======
+# Erinella javanica Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

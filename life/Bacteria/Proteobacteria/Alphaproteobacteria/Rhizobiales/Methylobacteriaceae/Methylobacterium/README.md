@@ -1,5 +1,4 @@
-Methylobacterium GENUS
-=======
+# Methylobacterium GENUS
 
 #### Status
 ACCEPTED

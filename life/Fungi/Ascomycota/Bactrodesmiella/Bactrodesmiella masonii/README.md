@@ -1,14 +1,13 @@
-Bactrodesmium masonii S. Hughes, 1953 SPECIES
-=======
+# Bactrodesmiella masonii (S. Hughes) M.B. Ellis, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 31: 654 (1953)
+Mycol. Pap. 72: 14 (1959)
 
 #### Original name
 Bactrodesmium masonii S. Hughes, 1953

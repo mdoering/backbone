@@ -1,5 +1,4 @@
-Biatora microscopica Mont. SPECIES
-=======
+# Biatora microscopica Mont. SPECIES
 
 #### Status
 ACCEPTED

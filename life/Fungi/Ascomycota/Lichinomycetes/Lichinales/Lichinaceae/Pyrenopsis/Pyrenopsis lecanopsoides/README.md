@@ -1,5 +1,4 @@
-Pyrenopsis lecanopsoides Nyl. SPECIES
-=======
+# Pyrenopsis lecanopsoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

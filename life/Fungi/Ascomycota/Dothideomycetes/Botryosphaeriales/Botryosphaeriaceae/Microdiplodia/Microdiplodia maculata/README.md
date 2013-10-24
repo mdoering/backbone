@@ -1,5 +1,4 @@
-Microdiplodia maculata (I. Miyake & Hara) Sacc. SPECIES
-=======
+# Microdiplodia maculata (I. Miyake & Hara) Sacc. SPECIES
 
 #### Status
 ACCEPTED

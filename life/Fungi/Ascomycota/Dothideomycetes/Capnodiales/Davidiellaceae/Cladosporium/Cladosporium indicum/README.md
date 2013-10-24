@@ -1,5 +1,4 @@
-Cladosporium indicum J.N. Rai, J.P. Tewari & Mukerji, 1969 SPECIES
-=======
+# Cladosporium indicum J.N. Rai, J.P. Tewari & Mukerji, 1969 SPECIES
 
 #### Status
 ACCEPTED

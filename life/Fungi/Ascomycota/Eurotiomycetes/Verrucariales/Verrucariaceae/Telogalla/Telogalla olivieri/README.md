@@ -1,14 +1,13 @@
-Guignardia verrucicola f. olivieri (Vouaux) Keissl. FORM
-=======
+# Telogalla olivieri (Vouaux) Nik. Hoffm. & Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Rabenhorst's Kryptogamen-Flora, Pilze - Die Flechtenparasiten 2(8): 342 (1930)
+Biblthca Lichenol. 77: 109 (2000)
 
 #### Original name
 null

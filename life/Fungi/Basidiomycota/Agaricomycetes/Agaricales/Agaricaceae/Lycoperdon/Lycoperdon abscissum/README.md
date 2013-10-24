@@ -1,5 +1,4 @@
-Lycoperdon abscissum R.E. Fr. SPECIES
-=======
+# Lycoperdon abscissum R.E. Fr. SPECIES
 
 #### Status
 ACCEPTED

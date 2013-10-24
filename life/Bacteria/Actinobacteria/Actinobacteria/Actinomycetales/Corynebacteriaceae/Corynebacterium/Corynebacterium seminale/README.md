@@ -1,5 +1,4 @@
-Corynebacterium seminale Riegel et al., 1996 SPECIES
-=======
+# Corynebacterium seminale Riegel et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

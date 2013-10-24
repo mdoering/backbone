@@ -1,5 +1,4 @@
-Schizoxylon buriticae Sherwood SPECIES
-=======
+# Schizoxylon buriticae Sherwood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cicadomyces rubricinctus Buchner SPECIES
-=======
+# Cicadomyces rubricinctus Buchner SPECIES
 
 #### Status
 ACCEPTED

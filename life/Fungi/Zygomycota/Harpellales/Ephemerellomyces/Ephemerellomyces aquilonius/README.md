@@ -1,5 +1,4 @@
-Ephemerellomyces aquilonius M.M. White & Lichtw., 2004 SPECIES
-=======
+# Ephemerellomyces aquilonius M.M. White & Lichtw., 2004 SPECIES
 
 #### Status
 ACCEPTED

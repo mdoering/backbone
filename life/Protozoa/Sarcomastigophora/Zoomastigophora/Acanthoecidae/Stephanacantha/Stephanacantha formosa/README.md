@@ -1,5 +1,4 @@
-Stephanacantha formosa Thomsen in Thomsen & Boonruang SPECIES
-=======
+# Stephanacantha formosa Thomsen in Thomsen & Boonruang SPECIES
 
 #### Status
 ACCEPTED

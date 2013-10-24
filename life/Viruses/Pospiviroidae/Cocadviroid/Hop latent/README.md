@@ -1,5 +1,4 @@
-Hop latent SPECIES
-=======
+# Hop latent SPECIES
 
 #### Status
 ACCEPTED

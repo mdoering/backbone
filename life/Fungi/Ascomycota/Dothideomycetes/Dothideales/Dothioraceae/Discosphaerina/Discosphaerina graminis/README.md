@@ -1,5 +1,4 @@
-Discosphaerina graminis (Lind) Lar.N. Vassiljeva SPECIES
-=======
+# Discosphaerina graminis (Lind) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

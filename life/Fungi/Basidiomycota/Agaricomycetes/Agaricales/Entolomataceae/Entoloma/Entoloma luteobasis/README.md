@@ -1,5 +1,4 @@
-Entoloma luteobasis Ebert & E. Ludw. SPECIES
-=======
+# Entoloma luteobasis Ebert & E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

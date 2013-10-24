@@ -1,5 +1,4 @@
-Graphis palmicola Makhija & Adaw. SPECIES
-=======
+# Graphis palmicola Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

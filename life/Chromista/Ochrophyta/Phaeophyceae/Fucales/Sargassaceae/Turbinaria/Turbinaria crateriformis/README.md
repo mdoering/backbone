@@ -1,5 +1,4 @@
-Turbinaria crateriformis W.R. Taylor SPECIES
-=======
+# Turbinaria crateriformis W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

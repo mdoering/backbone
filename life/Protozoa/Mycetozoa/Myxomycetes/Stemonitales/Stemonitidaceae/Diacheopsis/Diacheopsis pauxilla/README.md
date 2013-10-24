@@ -1,5 +1,4 @@
-Diacheopsis pauxilla Mar.Mey. & Poulain, 1998 SPECIES
-=======
+# Diacheopsis pauxilla Mar.Mey. & Poulain, 1998 SPECIES
 
 #### Status
 ACCEPTED

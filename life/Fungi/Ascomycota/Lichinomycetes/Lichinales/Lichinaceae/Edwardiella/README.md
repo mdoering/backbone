@@ -1,5 +1,4 @@
-Edwardiella Henssen GENUS
-=======
+# Edwardiella Henssen GENUS
 
 #### Status
 ACCEPTED

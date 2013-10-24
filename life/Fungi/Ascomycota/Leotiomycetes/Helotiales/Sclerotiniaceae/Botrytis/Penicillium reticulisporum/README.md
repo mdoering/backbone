@@ -1,5 +1,4 @@
-Penicillium reticulisporum Udagawa, 1968 SPECIES
-=======
+# Penicillium reticulisporum Udagawa, 1968 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Epiploca andromedae (Rehm) Kleb. SPECIES
-=======
+# Epiploca andromedae (Rehm) Kleb. SPECIES
 
 #### Status
 ACCEPTED

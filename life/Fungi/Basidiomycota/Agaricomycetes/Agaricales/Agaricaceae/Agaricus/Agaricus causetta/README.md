@@ -1,5 +1,4 @@
-Agaricus causetta Barla SPECIES
-=======
+# Agaricus causetta Barla SPECIES
 
 #### Status
 ACCEPTED

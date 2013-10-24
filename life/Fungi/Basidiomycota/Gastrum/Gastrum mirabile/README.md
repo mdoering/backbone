@@ -1,5 +1,4 @@
-Gastrum mirabile Mont. SPECIES
-=======
+# Gastrum mirabile Mont. SPECIES
 
 #### Status
 ACCEPTED

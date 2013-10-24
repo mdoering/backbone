@@ -1,5 +1,4 @@
-Puccinia galii-silvatici (G.H. Otth) Wurth SPECIES
-=======
+# Puccinia galii-silvatici (G.H. Otth) Wurth SPECIES
 
 #### Status
 ACCEPTED

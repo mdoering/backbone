@@ -1,5 +1,4 @@
-Inocybe nuda Velen. SPECIES
-=======
+# Inocybe nuda Velen. SPECIES
 
 #### Status
 ACCEPTED

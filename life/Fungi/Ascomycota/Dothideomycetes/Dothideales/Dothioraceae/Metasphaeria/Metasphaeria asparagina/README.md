@@ -1,5 +1,4 @@
-Metasphaeria asparagina var. smilacina Sacc. VARIETY
-=======
+# Metasphaeria asparagina Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Metasphaeria asparagina var. smilacina Sacc.
+Metasphaeria asparagina Sacc.
 
 ### Remarks
 null

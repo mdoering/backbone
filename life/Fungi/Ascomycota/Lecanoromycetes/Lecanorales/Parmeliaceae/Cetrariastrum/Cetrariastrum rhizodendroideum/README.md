@@ -1,5 +1,4 @@
-Cetrariastrum rhizodendroideum J.C. Wei & Y.M. Jiang SPECIES
-=======
+# Cetrariastrum rhizodendroideum J.C. Wei & Y.M. Jiang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma holmiorum M.E. Barr & Math. SPECIES
-=======
+# Lophiostoma holmiorum M.E. Barr & Math. SPECIES
 
 #### Status
 ACCEPTED

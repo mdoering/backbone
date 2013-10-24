@@ -1,5 +1,4 @@
-Septoria capsellicola Hollós SPECIES
-=======
+# Septoria capsellicola Hollós SPECIES
 
 #### Status
 ACCEPTED

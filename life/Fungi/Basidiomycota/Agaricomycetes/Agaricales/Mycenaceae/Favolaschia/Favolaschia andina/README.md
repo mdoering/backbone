@@ -1,5 +1,4 @@
-Favolaschia andina Singer, 1974 SPECIES
-=======
+# Favolaschia andina Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium pseudoanthophilum Nirenberg, O'Donnell & Mubat., 1998 SPECIES
-=======
+# Fusarium pseudoanthophilum Nirenberg, O'Donnell & Mubat., 1998 SPECIES
 
 #### Status
 ACCEPTED

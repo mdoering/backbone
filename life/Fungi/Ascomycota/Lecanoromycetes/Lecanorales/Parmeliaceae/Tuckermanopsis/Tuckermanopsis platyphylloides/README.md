@@ -1,5 +1,4 @@
-Tuckermanopsis platyphylloides (Asahina) M.J. Lai SPECIES
-=======
+# Tuckermanopsis platyphylloides (Asahina) M.J. Lai SPECIES
 
 #### Status
 ACCEPTED

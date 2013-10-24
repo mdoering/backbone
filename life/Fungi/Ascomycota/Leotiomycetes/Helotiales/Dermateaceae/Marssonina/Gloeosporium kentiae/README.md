@@ -1,5 +1,4 @@
-Gloeosporium kentiae Sousa da Câmara & Luz SPECIES
-=======
+# Gloeosporium kentiae Sousa da Câmara & Luz SPECIES
 
 #### Status
 ACCEPTED

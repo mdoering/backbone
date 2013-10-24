@@ -1,5 +1,4 @@
-Maullinia ectocarpi I. Maier, E.R. Parodi, Westermeier & D.G. Müll., 2000 SPECIES
-=======
+# Maullinia ectocarpi I. Maier, E.R. Parodi, Westermeier & D.G. Müll., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia dahliana Kristinsson SPECIES
-=======
+# Cladonia dahliana Kristinsson SPECIES
 
 #### Status
 ACCEPTED

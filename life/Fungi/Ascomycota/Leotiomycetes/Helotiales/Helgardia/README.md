@@ -1,5 +1,4 @@
-Helgardia Crous & W. Gams GENUS
-=======
+# Helgardia Crous & W. Gams GENUS
 
 #### Status
 ACCEPTED

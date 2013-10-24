@@ -1,5 +1,4 @@
-Byssonectria seaveri Pfister SPECIES
-=======
+# Byssonectria seaveri Pfister SPECIES
 
 #### Status
 ACCEPTED

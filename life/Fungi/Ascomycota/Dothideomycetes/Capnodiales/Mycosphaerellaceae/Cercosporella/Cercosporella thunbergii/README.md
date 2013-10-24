@@ -1,5 +1,4 @@
-Cercosporella thunbergii Hansf. SPECIES
-=======
+# Cercosporella thunbergii Hansf. SPECIES
 
 #### Status
 ACCEPTED

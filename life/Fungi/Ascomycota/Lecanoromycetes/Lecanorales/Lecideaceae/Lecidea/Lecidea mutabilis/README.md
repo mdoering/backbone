@@ -1,5 +1,4 @@
-Lecidea mutabilis Clemente SPECIES
-=======
+# Lecidea mutabilis Clemente SPECIES
 
 #### Status
 ACCEPTED

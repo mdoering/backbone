@@ -1,5 +1,4 @@
-Septoria rudis Sacc. SPECIES
-=======
+# Septoria rudis Sacc. SPECIES
 
 #### Status
 ACCEPTED

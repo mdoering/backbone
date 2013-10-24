@@ -1,5 +1,4 @@
-Alternaria azadirachtae E.G. Simmons & Alcorn SPECIES
-=======
+# Alternaria azadirachtae E.G. Simmons & Alcorn SPECIES
 
 #### Status
 ACCEPTED

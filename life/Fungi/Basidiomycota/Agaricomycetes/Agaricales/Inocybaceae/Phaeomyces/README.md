@@ -1,5 +1,4 @@
-Phaeomyces E. Horak GENUS
-=======
+# Phaeomyces E. Horak GENUS
 
 #### Status
 ACCEPTED

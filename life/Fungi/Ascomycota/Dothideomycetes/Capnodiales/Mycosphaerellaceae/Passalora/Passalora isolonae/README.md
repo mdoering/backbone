@@ -1,5 +1,4 @@
-Passalora isolonae (Siboe, P.M. Kirk & P.F. Cannon) U. Braun & Crous SPECIES
-=======
+# Passalora isolonae (Siboe, P.M. Kirk & P.F. Cannon) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

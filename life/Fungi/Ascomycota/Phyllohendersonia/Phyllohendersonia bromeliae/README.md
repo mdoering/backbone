@@ -1,5 +1,4 @@
-Phyllohendersonia bromeliae (Pat.) Tassi SPECIES
-=======
+# Phyllohendersonia bromeliae (Pat.) Tassi SPECIES
 
 #### Status
 ACCEPTED

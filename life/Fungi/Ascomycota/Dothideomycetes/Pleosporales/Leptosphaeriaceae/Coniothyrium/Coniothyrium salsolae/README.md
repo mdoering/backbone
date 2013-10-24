@@ -1,5 +1,4 @@
-Coniothyrium salsolae Kalymb. SPECIES
-=======
+# Coniothyrium salsolae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

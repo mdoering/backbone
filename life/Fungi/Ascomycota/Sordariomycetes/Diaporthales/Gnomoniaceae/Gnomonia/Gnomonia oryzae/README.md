@@ -1,5 +1,4 @@
-Gnomonia oryzae I. Miyake SPECIES
-=======
+# Gnomonia oryzae I. Miyake SPECIES
 
 #### Status
 ACCEPTED

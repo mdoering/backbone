@@ -1,5 +1,4 @@
-Tolyposporium Woronin ex J. Schröt. GENUS
-=======
+# Tolyposporium Woronin ex J. Schröt. GENUS
 
 #### Status
 ACCEPTED

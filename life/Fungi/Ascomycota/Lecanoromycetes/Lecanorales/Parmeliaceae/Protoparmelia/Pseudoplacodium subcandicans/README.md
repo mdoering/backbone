@@ -1,5 +1,4 @@
-Pseudoplacodium subcandicans (Müll. Arg.) Motyka SPECIES
-=======
+# Pseudoplacodium subcandicans (Müll. Arg.) Motyka SPECIES
 
 #### Status
 ACCEPTED

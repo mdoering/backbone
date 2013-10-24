@@ -1,5 +1,4 @@
-Botryodiplodia minor Berl. & Bres. SPECIES
-=======
+# Botryodiplodia minor Berl. & Bres. SPECIES
 
 #### Status
 ACCEPTED

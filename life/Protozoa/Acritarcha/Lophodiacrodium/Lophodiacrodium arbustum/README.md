@@ -1,5 +1,4 @@
-Lophodiacrodium arbustum Timofeev, 1959 SPECIES
-=======
+# Lophodiacrodium arbustum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

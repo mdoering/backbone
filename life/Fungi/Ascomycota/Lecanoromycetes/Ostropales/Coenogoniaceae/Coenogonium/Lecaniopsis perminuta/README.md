@@ -1,5 +1,4 @@
-Lecaniopsis perminuta (Vain.) Zahlbr. SPECIES
-=======
+# Lecaniopsis perminuta (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

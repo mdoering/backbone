@@ -1,5 +1,4 @@
-Eumitria endochroa Vain. SPECIES
-=======
+# Eumitria endochroa Vain. SPECIES
 
 #### Status
 ACCEPTED

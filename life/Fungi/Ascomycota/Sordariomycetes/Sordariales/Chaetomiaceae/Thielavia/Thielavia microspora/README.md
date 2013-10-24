@@ -1,5 +1,4 @@
-Thielavia microspora Mouch., 1973 SPECIES
-=======
+# Thielavia microspora Mouch., 1973 SPECIES
 
 #### Status
 ACCEPTED

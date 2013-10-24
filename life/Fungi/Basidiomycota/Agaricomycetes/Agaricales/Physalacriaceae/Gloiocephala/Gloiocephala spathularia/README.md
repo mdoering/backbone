@@ -1,5 +1,4 @@
-Gloiocephala spathularia Singer SPECIES
-=======
+# Gloiocephala spathularia Singer SPECIES
 
 #### Status
 ACCEPTED

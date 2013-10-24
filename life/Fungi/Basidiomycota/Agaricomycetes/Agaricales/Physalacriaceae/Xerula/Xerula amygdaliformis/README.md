@@ -1,17 +1,16 @@
-Xerula amygdaliformis var. amygdaliformis VARIETY
-=======
+# Xerula amygdaliformis (Zhu L. Yang & M. Zang) R.H. Petersen & Nagas. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Rep. Tottori Mycol. Inst. 43: 8 (2006)
 
 #### Original name
-null
+Oudemansiella amygdaliformis
 
 ### Remarks
 null

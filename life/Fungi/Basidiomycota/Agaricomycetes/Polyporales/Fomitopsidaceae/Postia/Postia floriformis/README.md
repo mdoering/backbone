@@ -1,17 +1,16 @@
-Leptoporus floriformis f. floriformis FORM
-=======
+# Postia floriformis (Quél.) Jülich, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 41: 127 (1925)
+Persoonia 11(4): 423 (1982)
 
 #### Original name
-Leptoporus floriformis f. floriformis
+Polyporus floriformis Quél., 1884
 
 ### Remarks
 null

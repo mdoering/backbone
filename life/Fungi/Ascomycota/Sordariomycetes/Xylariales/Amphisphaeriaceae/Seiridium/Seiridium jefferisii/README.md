@@ -1,5 +1,4 @@
-Seiridium jefferisii (Ellis) Nag Raj SPECIES
-=======
+# Seiridium jefferisii (Ellis) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

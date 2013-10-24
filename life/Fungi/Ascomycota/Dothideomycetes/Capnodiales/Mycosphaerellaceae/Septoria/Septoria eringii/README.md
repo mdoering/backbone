@@ -1,5 +1,4 @@
-Septoria eringii Westend. SPECIES
-=======
+# Septoria eringii Westend. SPECIES
 
 #### Status
 ACCEPTED

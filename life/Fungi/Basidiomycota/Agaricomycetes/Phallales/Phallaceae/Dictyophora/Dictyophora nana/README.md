@@ -1,5 +1,4 @@
-Dictyophora nana Berk. SPECIES
-=======
+# Dictyophora nana Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella cyrtopodii Dorn.-Silva, R.C. Pereira-Carvalho & Dianese SPECIES
-=======
+# Stenella cyrtopodii Dorn.-Silva, R.C. Pereira-Carvalho & Dianese SPECIES
 
 #### Status
 ACCEPTED

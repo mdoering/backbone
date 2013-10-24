@@ -1,5 +1,4 @@
-Inocybe kalchbrenneri Hazsl. SPECIES
-=======
+# Inocybe kalchbrenneri Hazsl. SPECIES
 
 #### Status
 ACCEPTED

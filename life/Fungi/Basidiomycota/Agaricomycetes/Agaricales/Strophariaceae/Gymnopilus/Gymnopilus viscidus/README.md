@@ -1,5 +1,4 @@
-Gymnopilus viscidus (Peck) Murrill SPECIES
-=======
+# Gymnopilus viscidus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

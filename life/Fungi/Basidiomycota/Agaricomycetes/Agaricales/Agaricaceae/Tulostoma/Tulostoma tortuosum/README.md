@@ -1,5 +1,4 @@
-Tulostoma tortuosum Ehrenb. SPECIES
-=======
+# Tulostoma tortuosum Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

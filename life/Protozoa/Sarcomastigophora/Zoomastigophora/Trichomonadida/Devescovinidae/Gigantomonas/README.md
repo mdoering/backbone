@@ -1,5 +1,4 @@
-Gigantomonas Dogiel, ?, 1916 GENUS
-=======
+# Gigantomonas Dogiel, ?, 1916 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps pittieri E. Bommer & M. Rousseau SPECIES
-=======
+# Cordyceps pittieri E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

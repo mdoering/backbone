@@ -1,17 +1,16 @@
-Puccinia hieracii f. sp FORM
-=======
+# Puccinia punctiformis (F. Strauss) Röhl., 1813 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neth. Jl Pl. Path. 86(4): 220 (1980)
+in Dietel, Erythea 2: 128 (1894)
 
 #### Original name
-Puccinia hieracii f. sp
+Puccinia punctiformis (F. Strauss) Röhl., 1813
 
 ### Remarks
 null

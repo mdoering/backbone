@@ -1,5 +1,4 @@
-Monilia diversispora Dadal. SPECIES
-=======
+# Monilia diversispora Dadal. SPECIES
 
 #### Status
 ACCEPTED

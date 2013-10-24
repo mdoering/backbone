@@ -1,5 +1,4 @@
-Byssonectria thuemenii (P. Karst.) K.B. Khare SPECIES
-=======
+# Byssonectria thuemenii (P. Karst.) K.B. Khare SPECIES
 
 #### Status
 ACCEPTED

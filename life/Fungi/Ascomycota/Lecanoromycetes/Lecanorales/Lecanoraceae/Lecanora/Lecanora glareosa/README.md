@@ -1,5 +1,4 @@
-Lecanora glareosa (Savicz) Zahlbr. SPECIES
-=======
+# Lecanora glareosa (Savicz) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella luzonensis Ts. Kobay., 1980 SPECIES
-=======
+# Mycosphaerella luzonensis Ts. Kobay., 1980 SPECIES
 
 #### Status
 ACCEPTED

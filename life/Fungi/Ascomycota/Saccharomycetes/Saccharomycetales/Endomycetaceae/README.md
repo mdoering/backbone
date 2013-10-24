@@ -1,5 +1,4 @@
-Endomycetaceae J. Schröt. FAMILY
-=======
+# Endomycetaceae J. Schröt. FAMILY
 
 #### Status
 ACCEPTED

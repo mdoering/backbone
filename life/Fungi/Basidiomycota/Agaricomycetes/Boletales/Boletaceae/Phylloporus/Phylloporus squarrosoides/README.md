@@ -1,5 +1,4 @@
-Phylloporus squarrosoides (Snell & E.A. Dick) Singer SPECIES
-=======
+# Phylloporus squarrosoides (Snell & E.A. Dick) Singer SPECIES
 
 #### Status
 ACCEPTED

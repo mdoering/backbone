@@ -1,5 +1,4 @@
-Balladyna chiococcae Bat. & Nascim. SPECIES
-=======
+# Balladyna chiococcae Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

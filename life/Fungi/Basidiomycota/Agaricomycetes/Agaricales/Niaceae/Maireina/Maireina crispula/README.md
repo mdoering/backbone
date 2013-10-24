@@ -1,5 +1,4 @@
-Maireina crispula Rick SPECIES
-=======
+# Maireina crispula Rick SPECIES
 
 #### Status
 ACCEPTED

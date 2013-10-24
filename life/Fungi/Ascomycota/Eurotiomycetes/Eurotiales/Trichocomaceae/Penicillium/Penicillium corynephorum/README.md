@@ -1,5 +1,4 @@
-Penicillium corynephorum Pitt & A.D. Hocking, 1985 SPECIES
-=======
+# Penicillium corynephorum Pitt & A.D. Hocking, 1985 SPECIES
 
 #### Status
 ACCEPTED

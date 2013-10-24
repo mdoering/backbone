@@ -1,5 +1,4 @@
-Cercospora giranensis Sawada SPECIES
-=======
+# Cercospora giranensis Sawada SPECIES
 
 #### Status
 ACCEPTED

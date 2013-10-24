@@ -1,5 +1,4 @@
-Pleospora juzepczukii Gucevic SPECIES
-=======
+# Pleospora juzepczukii Gucevic SPECIES
 
 #### Status
 ACCEPTED

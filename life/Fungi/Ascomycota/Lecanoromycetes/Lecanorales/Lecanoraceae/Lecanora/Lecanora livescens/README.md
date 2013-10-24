@@ -1,5 +1,4 @@
-Lecanora livescens Nyl. SPECIES
-=======
+# Lecanora livescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

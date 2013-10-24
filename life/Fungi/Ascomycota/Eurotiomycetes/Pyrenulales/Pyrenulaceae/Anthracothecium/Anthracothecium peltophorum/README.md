@@ -1,5 +1,4 @@
-Anthracothecium peltophorum Müll. Arg. SPECIES
-=======
+# Anthracothecium peltophorum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

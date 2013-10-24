@@ -1,5 +1,4 @@
-Protacanthamoeba caledonica Page, 1981 SPECIES
-=======
+# Protacanthamoeba caledonica Page, 1981 SPECIES
 
 #### Status
 ACCEPTED

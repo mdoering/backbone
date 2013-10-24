@@ -1,5 +1,4 @@
-Trametes balansae Pat. SPECIES
-=======
+# Trametes balansae Pat. SPECIES
 
 #### Status
 ACCEPTED

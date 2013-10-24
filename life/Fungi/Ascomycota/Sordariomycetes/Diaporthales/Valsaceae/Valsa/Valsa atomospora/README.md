@@ -1,5 +1,4 @@
-Valsa atomospora Ellis SPECIES
-=======
+# Valsa atomospora Ellis SPECIES
 
 #### Status
 ACCEPTED

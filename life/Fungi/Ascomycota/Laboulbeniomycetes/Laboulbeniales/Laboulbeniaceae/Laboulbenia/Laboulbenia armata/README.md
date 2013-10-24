@@ -1,5 +1,4 @@
-Laboulbenia armata Thaxt. SPECIES
-=======
+# Laboulbenia armata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

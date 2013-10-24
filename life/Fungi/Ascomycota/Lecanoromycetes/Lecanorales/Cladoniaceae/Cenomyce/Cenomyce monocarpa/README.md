@@ -1,5 +1,4 @@
-Cenomyce monocarpa (Ach.) Ach. SPECIES
-=======
+# Cenomyce monocarpa (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

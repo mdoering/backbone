@@ -1,5 +1,4 @@
-Sphaeria leucophaeata Rebent. SPECIES
-=======
+# Sphaeria leucophaeata Rebent. SPECIES
 
 #### Status
 ACCEPTED

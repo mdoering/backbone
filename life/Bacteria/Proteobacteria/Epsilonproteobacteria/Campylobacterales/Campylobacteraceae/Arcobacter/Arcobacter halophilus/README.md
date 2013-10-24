@@ -1,5 +1,4 @@
-Arcobacter halophilus Donachie et al., 2005 SPECIES
-=======
+# Arcobacter halophilus Donachie et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galactinia nothofageti Gamundí SPECIES
-=======
+# Galactinia nothofageti Gamundí SPECIES
 
 #### Status
 ACCEPTED

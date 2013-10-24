@@ -1,5 +1,4 @@
-Marasmius dictyocephalus Desjardin & E. Horak SPECIES
-=======
+# Marasmius dictyocephalus Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

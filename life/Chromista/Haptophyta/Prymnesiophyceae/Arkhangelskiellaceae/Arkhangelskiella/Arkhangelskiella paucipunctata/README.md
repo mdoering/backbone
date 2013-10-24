@@ -1,5 +1,4 @@
-Arkhangelskiella paucipunctata SPECIES
-=======
+# Arkhangelskiella paucipunctata SPECIES
 
 #### Status
 ACCEPTED

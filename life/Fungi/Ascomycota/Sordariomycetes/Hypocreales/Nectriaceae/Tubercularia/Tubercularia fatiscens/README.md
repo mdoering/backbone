@@ -1,5 +1,4 @@
-Tubercularia fatiscens Schwein. SPECIES
-=======
+# Tubercularia fatiscens Schwein. SPECIES
 
 #### Status
 ACCEPTED

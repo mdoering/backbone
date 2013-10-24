@@ -1,5 +1,4 @@
-Holosticha thiophaga Kahl, 1928 SPECIES
-=======
+# Holosticha thiophaga Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplophragmina Reitlinger, 1950 GENUS
-=======
+# Haplophragmina Reitlinger, 1950 GENUS
 
 #### Status
 ACCEPTED

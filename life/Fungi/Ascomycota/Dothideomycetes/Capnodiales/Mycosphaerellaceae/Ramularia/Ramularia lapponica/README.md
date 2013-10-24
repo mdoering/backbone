@@ -1,5 +1,4 @@
-Ramularia lapponica Lindr. SPECIES
-=======
+# Ramularia lapponica Lindr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Krombholzia GENUS
-=======
+# Krombholzia GENUS
 
 #### Status
 ACCEPTED

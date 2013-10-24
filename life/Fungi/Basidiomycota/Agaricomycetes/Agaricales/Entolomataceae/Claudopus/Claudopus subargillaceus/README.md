@@ -1,5 +1,4 @@
-Claudopus subargillaceus Kauffman SPECIES
-=======
+# Claudopus subargillaceus Kauffman SPECIES
 
 #### Status
 ACCEPTED

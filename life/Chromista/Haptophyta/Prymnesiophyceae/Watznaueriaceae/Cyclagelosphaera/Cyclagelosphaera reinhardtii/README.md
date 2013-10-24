@@ -1,5 +1,4 @@
-Cyclagelosphaera reinhardtii (K. Perch-Nielsen) P.H. Roth SPECIES
-=======
+# Cyclagelosphaera reinhardtii (K. Perch-Nielsen) P.H. Roth SPECIES
 
 #### Status
 ACCEPTED

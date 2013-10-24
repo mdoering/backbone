@@ -1,5 +1,4 @@
-Nematococcus albidus Kütz. SPECIES
-=======
+# Nematococcus albidus Kütz. SPECIES
 
 #### Status
 ACCEPTED

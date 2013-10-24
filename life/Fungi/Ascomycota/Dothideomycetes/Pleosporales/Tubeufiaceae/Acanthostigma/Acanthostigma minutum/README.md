@@ -1,17 +1,16 @@
-Acanthostigma minutum var. minutum (Fuckel) Sacc. VARIETY
-=======
+# Acanthostigma minutum (Fuckel) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 2: 209 (1883)
 
 #### Original name
-Acanthostigma minutum var. minutum (Fuckel) Sacc.
+Lasiosphaeria minuta Fuckel, 1870
 
 ### Remarks
 null

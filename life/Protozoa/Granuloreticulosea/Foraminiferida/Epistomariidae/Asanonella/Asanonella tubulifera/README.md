@@ -1,8 +1,7 @@
-Truncatulina tubulifera Heron-Allen & Earland, 1915 SPECIES
-=======
+# Asanonella tubulifera (Heron-Allen & Earland, 1915) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

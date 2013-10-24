@@ -1,5 +1,4 @@
-Deferribacterales Huber & Stetter, 2002 ORDER
-=======
+# Deferribacterales Huber & Stetter, 2002 ORDER
 
 #### Status
 ACCEPTED

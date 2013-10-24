@@ -1,5 +1,4 @@
-Phoma aucubae Westend. SPECIES
-=======
+# Phoma aucubae Westend. SPECIES
 
 #### Status
 ACCEPTED

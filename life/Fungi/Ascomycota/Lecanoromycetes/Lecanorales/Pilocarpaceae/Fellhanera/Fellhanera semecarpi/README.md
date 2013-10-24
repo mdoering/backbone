@@ -1,14 +1,13 @@
-Catillaria semecarpi Vain. SPECIES
-=======
+# Fellhanera semecarpi (Vain.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15: 110 (1921)
+Folia geobot. phytotax. 21(2): 215 (1986)
 
 #### Original name
 Catillaria semecarpi Vain.

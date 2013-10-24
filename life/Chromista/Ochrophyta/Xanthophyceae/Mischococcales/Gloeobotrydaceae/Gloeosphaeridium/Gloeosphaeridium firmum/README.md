@@ -1,8 +1,7 @@
-Gloeobotrys firmus Pascher SPECIES
-=======
+# Gloeosphaeridium firmum (Pascher) Pascher SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

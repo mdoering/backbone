@@ -1,5 +1,4 @@
-Beauveria pentatomidae ined. SPECIES
-=======
+# Beauveria pentatomidae ined. SPECIES
 
 #### Status
 ACCEPTED

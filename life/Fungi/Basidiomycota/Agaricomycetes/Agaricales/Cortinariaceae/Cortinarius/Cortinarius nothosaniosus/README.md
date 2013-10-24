@@ -1,5 +1,4 @@
-Cortinarius nothosaniosus M.M. Moser, 1966 SPECIES
-=======
+# Cortinarius nothosaniosus M.M. Moser, 1966 SPECIES
 
 #### Status
 ACCEPTED

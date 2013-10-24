@@ -1,5 +1,4 @@
-Bryoria pellucida (Motyka) Bystrek SPECIES
-=======
+# Bryoria pellucida (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

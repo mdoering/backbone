@@ -1,5 +1,4 @@
-Didymella sehimatis Somani & Wangikar SPECIES
-=======
+# Didymella sehimatis Somani & Wangikar SPECIES
 
 #### Status
 ACCEPTED

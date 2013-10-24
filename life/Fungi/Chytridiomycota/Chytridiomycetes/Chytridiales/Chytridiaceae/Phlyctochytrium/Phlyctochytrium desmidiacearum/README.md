@@ -1,5 +1,4 @@
-Phlyctochytrium desmidiacearum P.A. Dang. SPECIES
-=======
+# Phlyctochytrium desmidiacearum P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

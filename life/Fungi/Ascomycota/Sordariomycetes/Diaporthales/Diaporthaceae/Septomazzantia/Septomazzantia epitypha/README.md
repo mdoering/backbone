@@ -1,14 +1,13 @@
-Phyllachora epitypha (Cooke) Sacc., 1883 SPECIES
-=======
+# Septomazzantia epitypha (Cooke) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 605 (1883)
+Annls mycol. 13(3/4): 193 (1915)
 
 #### Original name
 Dothidea epitypha Cooke, 1879

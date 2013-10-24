@@ -1,17 +1,16 @@
-Nicholsoniella Kuntze GENUS
-=======
+# Libertiella Speg. & Roum. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 862 (1891)
+in Roumeguère, Revue mycol. , Toulouse 2(1): 21 (1880)
 
 #### Original name
-Nicholsoniella Kuntze
+Libertiella Speg. & Roum.
 
 ### Remarks
 null

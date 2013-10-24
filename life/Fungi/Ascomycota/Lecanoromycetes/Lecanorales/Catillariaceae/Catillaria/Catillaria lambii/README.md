@@ -1,5 +1,4 @@
-Catillaria lambii Räsänen SPECIES
-=======
+# Catillaria lambii Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporocybe favicola Petch SPECIES
-=======
+# Sporocybe favicola Petch SPECIES
 
 #### Status
 ACCEPTED

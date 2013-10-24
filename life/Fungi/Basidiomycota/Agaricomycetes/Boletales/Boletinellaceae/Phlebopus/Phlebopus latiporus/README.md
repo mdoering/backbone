@@ -1,5 +1,4 @@
-Phlebopus latiporus Heinem. & Rammeloo, 1982 SPECIES
-=======
+# Phlebopus latiporus Heinem. & Rammeloo, 1982 SPECIES
 
 #### Status
 ACCEPTED

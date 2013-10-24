@@ -1,5 +1,4 @@
-Rickia stenotarsi Thaxt. SPECIES
-=======
+# Rickia stenotarsi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

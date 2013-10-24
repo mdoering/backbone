@@ -1,5 +1,4 @@
-Synedra bilunaris var. elongata Sande Lacoste & Suringar VARIETY
-=======
+# Synedra bilunaris Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Histioneis skogsbergii Schiller, 1933 SPECIES
-=======
+# Histioneis cymbalaria Stein, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

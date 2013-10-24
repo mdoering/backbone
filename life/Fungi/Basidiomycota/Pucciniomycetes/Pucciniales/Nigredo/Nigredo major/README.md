@@ -1,5 +1,4 @@
-Nigredo major (Arthur) Arthur SPECIES
-=======
+# Nigredo major (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

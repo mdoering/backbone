@@ -1,5 +1,4 @@
-Cystamminoides quadriloculus Zheng & Fu, 2001 SPECIES
-=======
+# Cystamminoides quadriloculus Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acaulospora sporocarpia S.M. Berch SPECIES
-=======
+# Acaulospora sporocarpia S.M. Berch SPECIES
 
 #### Status
 ACCEPTED

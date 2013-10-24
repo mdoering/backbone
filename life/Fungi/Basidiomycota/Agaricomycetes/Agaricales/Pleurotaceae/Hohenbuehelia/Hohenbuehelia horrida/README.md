@@ -1,5 +1,4 @@
-Hohenbuehelia horrida (Boedijn) Corner SPECIES
-=======
+# Hohenbuehelia horrida (Boedijn) Corner SPECIES
 
 #### Status
 ACCEPTED

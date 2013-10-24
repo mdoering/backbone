@@ -1,5 +1,4 @@
-Epinotia aporema GV SPECIES
-=======
+# Epinotia aporema GV SPECIES
 
 #### Status
 ACCEPTED

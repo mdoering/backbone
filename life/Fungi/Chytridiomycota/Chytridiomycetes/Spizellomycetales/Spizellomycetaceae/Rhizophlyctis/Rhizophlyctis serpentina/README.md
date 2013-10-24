@@ -1,5 +1,4 @@
-Rhizophlyctis serpentina Dogma SPECIES
-=======
+# Rhizophlyctis serpentina Dogma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia chenopodii Westend. SPECIES
-=======
+# Vermicularia chenopodii Westend. SPECIES
 
 #### Status
 ACCEPTED

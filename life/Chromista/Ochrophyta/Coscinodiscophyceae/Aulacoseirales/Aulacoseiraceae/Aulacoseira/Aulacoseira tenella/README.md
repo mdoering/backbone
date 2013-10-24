@@ -1,5 +1,4 @@
-Aulacoseira tenella (Nygaard) Simonsen SPECIES
-=======
+# Aulacoseira tenella (Nygaard) Simonsen SPECIES
 
 #### Status
 ACCEPTED

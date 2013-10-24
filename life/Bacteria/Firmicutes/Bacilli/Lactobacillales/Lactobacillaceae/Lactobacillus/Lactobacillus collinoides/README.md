@@ -1,5 +1,4 @@
-Lactobacillus collinoides Carr and Davies, 1972 (Approved Lists, 1980) SPECIES
-=======
+# Lactobacillus collinoides Carr and Davies, 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

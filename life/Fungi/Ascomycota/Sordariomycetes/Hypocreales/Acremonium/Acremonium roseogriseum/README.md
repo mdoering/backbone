@@ -1,14 +1,13 @@
-Acremonium roseo-griseum (S.B. Saksena) W. Gams SPECIES
-=======
+# Acremonium roseogriseum (S.B. Saksena) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cephalosporium-artige Schimmelpilze (Stuttgart) 87 (1971)
 
 #### Original name
 Cephalosporium roseogriseum S.B. Saksena, 1956

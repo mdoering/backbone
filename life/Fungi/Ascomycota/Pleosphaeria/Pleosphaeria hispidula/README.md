@@ -1,5 +1,4 @@
-Pleosphaeria hispidula (Lambotte) Sacc. SPECIES
-=======
+# Pleosphaeria hispidula (Lambotte) Sacc. SPECIES
 
 #### Status
 ACCEPTED

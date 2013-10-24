@@ -1,5 +1,4 @@
-Peziza ovina Lib. SPECIES
-=======
+# Peziza ovina Lib. SPECIES
 
 #### Status
 ACCEPTED

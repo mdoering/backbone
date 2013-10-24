@@ -1,5 +1,4 @@
-Bordetella hinzii Vandamme et al., 1995 SPECIES
-=======
+# Bordetella hinzii Vandamme et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

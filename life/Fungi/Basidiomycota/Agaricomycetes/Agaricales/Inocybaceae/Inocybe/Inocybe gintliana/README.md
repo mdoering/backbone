@@ -1,5 +1,4 @@
-Inocybe gintliana Velen. SPECIES
-=======
+# Inocybe gintliana Velen. SPECIES
 
 #### Status
 ACCEPTED

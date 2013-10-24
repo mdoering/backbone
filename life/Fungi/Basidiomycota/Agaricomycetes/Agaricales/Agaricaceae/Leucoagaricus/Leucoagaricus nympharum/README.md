@@ -1,17 +1,16 @@
-Agaricus rhacodes var. puellaris Fr., 1863 VARIETY
-=======
+# Leucoagaricus nympharum (Kalchbr.) Bon, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Hymenomyc. Suec. (Upsaliae) 2(2): 285 (1863)
+Docums Mycol. 7(nos 27-28): 19 (1977)
 
 #### Original name
-Agaricus rhacodes var. puellaris Fr., 1863
+Agaricus nympharum Kalchbr., 1873
 
 ### Remarks
 null

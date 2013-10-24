@@ -1,5 +1,4 @@
-Radulochaete Rick GENUS
-=======
+# Radulochaete Rick GENUS
 
 #### Status
 ACCEPTED

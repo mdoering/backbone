@@ -1,5 +1,4 @@
-Lecanora ochrorubens Werner SPECIES
-=======
+# Lecanora ochrorubens Werner SPECIES
 
 #### Status
 ACCEPTED

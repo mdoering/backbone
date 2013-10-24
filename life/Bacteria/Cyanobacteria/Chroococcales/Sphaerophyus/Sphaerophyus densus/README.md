@@ -1,5 +1,4 @@
-Sphaerophyus densus Maithy, 1975 SPECIES
-=======
+# Sphaerophyus densus Maithy, 1975 SPECIES
 
 #### Status
 ACCEPTED

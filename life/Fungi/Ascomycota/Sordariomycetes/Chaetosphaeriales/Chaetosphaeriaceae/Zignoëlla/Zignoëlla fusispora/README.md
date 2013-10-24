@@ -1,5 +1,4 @@
-Zignoëlla fusispora (H. Wegelin) Sacc. SPECIES
-=======
+# Zignoëlla fusispora (H. Wegelin) Sacc. SPECIES
 
 #### Status
 ACCEPTED

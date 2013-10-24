@@ -1,5 +1,4 @@
-Haemogregarina cotti Brumpt & Lebailly, 1904 SPECIES
-=======
+# Haemogregarina cotti Brumpt & Lebailly, 1904 SPECIES
 
 #### Status
 ACCEPTED

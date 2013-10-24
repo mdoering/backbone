@@ -1,5 +1,4 @@
-Microphiale pirionii SPECIES
-=======
+# Microphiale pirionii SPECIES
 
 #### Status
 ACCEPTED

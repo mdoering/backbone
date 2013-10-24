@@ -1,5 +1,4 @@
-Mycena clavulifera (Berk. & Broome) Sacc. SPECIES
-=======
+# Mycena clavulifera (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

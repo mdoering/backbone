@@ -1,5 +1,4 @@
-Oospora bronchialis Sartory & Lasseur SPECIES
-=======
+# Oospora bronchialis Sartory & Lasseur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeocyrtidula pinea SPECIES
-=======
+# Phaeocyrtidula pinea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octospora texensis Benkert SPECIES
-=======
+# Octospora texensis Benkert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinopsis brunneofibrillosa (Dennis) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis brunneofibrillosa (Dennis) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium denudatum Lynge SPECIES
-=======
+# Thelidium denudatum Lynge SPECIES
 
 #### Status
 ACCEPTED

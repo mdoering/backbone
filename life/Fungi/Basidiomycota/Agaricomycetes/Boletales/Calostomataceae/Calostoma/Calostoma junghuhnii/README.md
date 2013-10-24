@@ -1,5 +1,4 @@
-Calostoma junghuhnii (Schl. & Mull.) Mass. SPECIES
-=======
+# Calostoma junghuhnii (Schl. & Mull.) Mass. SPECIES
 
 #### Status
 ACCEPTED

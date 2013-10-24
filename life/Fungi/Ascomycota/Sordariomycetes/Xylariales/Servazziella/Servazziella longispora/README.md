@@ -1,14 +1,13 @@
-Cryptospora longispora Servazzi SPECIES
-=======
+# Servazziella longispora (Servazzi) J. Reid & C. Booth, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boll. Labor. Speriment. Osservat. Fitopatol. Torina 15: 39 (1938)
+Can. J. Bot. 65(7): 1334 (1987)
 
 #### Original name
 Cryptospora longispora Servazzi

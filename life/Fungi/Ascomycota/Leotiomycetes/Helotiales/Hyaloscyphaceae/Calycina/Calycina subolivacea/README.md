@@ -1,5 +1,4 @@
-Calycina subolivacea (P. Karst.) Kuntze SPECIES
-=======
+# Calycina subolivacea (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

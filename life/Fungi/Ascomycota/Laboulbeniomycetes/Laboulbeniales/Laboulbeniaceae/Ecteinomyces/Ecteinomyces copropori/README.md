@@ -1,5 +1,4 @@
-Ecteinomyces copropori Thaxt. SPECIES
-=======
+# Ecteinomyces copropori Thaxt. SPECIES
 
 #### Status
 ACCEPTED

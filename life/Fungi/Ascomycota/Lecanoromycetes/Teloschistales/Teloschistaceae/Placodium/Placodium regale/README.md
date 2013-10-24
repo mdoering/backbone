@@ -1,5 +1,4 @@
-Placodium regale Vain. SPECIES
-=======
+# Placodium regale Vain. SPECIES
 
 #### Status
 ACCEPTED

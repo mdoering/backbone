@@ -1,5 +1,4 @@
-Micrhystridium stellatum Deflandre, 1945 SPECIES
-=======
+# Micrhystridium stellatum Deflandre, 1945 SPECIES
 
 #### Status
 ACCEPTED

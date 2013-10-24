@@ -1,5 +1,4 @@
-Clonostachys sporodochialis Schroers SPECIES
-=======
+# Clonostachys sporodochialis Schroers SPECIES
 
 #### Status
 ACCEPTED

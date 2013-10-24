@@ -1,5 +1,4 @@
-Uromyces cuspidatus G. Winter SPECIES
-=======
+# Uromyces cuspidatus G. Winter SPECIES
 
 #### Status
 ACCEPTED

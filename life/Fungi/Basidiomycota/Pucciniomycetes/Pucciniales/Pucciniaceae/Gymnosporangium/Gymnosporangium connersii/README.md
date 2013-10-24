@@ -1,5 +1,4 @@
-Gymnosporangium connersii Parmelee, 1965 SPECIES
-=======
+# Gymnosporangium connersii Parmelee, 1965 SPECIES
 
 #### Status
 ACCEPTED

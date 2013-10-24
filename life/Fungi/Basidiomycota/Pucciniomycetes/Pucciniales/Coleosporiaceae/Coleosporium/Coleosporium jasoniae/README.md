@@ -1,5 +1,4 @@
-Coleosporium jasoniae Gonz. Frag. SPECIES
-=======
+# Coleosporium jasoniae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

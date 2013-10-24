@@ -1,5 +1,4 @@
-Patellaria fungicola (Ach.) Duby SPECIES
-=======
+# Patellaria fungicola (Ach.) Duby SPECIES
 
 #### Status
 ACCEPTED

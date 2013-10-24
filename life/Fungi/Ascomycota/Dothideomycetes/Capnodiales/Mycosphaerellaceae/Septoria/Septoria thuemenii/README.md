@@ -1,5 +1,4 @@
-Septoria thuemenii Sacc. SPECIES
-=======
+# Septoria thuemenii Sacc. SPECIES
 
 #### Status
 ACCEPTED

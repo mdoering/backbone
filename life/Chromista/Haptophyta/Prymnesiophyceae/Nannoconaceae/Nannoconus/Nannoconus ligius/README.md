@@ -1,5 +1,4 @@
-Nannoconus ligius SPECIES
-=======
+# Nannoconus ligius SPECIES
 
 #### Status
 ACCEPTED

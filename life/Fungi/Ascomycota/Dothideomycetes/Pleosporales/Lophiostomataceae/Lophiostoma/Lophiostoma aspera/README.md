@@ -1,5 +1,4 @@
-Lophiostoma aspera Ellis & Everh. SPECIES
-=======
+# Lophiostoma aspera Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

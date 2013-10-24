@@ -1,5 +1,4 @@
-Hypogymnia billardieri (Mont.) Filson SPECIES
-=======
+# Hypogymnia billardieri (Mont.) Filson SPECIES
 
 #### Status
 ACCEPTED

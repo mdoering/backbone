@@ -1,5 +1,4 @@
-Sphaerophorus stereocauloides Nyl. SPECIES
-=======
+# Sphaerophorus stereocauloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

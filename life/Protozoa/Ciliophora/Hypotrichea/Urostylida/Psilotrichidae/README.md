@@ -1,5 +1,4 @@
-Psilotrichidae FAMILY
-=======
+# Psilotrichidae FAMILY
 
 #### Status
 ACCEPTED

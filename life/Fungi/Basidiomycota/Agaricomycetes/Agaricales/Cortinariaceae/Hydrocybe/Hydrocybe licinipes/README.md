@@ -1,5 +1,4 @@
-Hydrocybe licinipes (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe licinipes (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanomyces bosminae W.W. Scott SPECIES
-=======
+# Aphanomyces bosminae W.W. Scott SPECIES
 
 #### Status
 ACCEPTED

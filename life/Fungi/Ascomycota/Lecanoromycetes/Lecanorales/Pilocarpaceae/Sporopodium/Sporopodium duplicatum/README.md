@@ -1,5 +1,4 @@
-Sporopodium duplicatum Vain. SPECIES
-=======
+# Sporopodium duplicatum Vain. SPECIES
 
 #### Status
 ACCEPTED

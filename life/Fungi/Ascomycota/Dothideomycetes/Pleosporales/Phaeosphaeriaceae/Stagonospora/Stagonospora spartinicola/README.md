@@ -1,5 +1,4 @@
-Stagonospora spartinicola R. Sprague SPECIES
-=======
+# Stagonospora spartinicola R. Sprague SPECIES
 
 #### Status
 ACCEPTED

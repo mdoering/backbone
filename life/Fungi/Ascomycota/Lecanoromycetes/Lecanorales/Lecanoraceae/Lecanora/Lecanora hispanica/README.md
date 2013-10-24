@@ -1,5 +1,4 @@
-Lecanora hispanica I. Ibáñez & Burgaz SPECIES
-=======
+# Lecanora hispanica I. Ibáñez & Burgaz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus generosus Hid. Takah. SPECIES
-=======
+# Boletus generosus Hid. Takah. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleosphaerulina constricta (Starbäck) Sacc. SPECIES
-=======
+# Pleosphaerulina constricta (Starbäck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

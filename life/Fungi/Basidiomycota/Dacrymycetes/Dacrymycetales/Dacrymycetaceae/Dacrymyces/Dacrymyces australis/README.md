@@ -1,17 +1,16 @@
-Dacryomyces australis Lloyd SPECIES
-=======
+# Dacrymyces australis Lloyd, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Writ. 6: 924 (1920)
 
 #### Original name
-Dacryomyces australis Lloyd
+Dacrymyces australis Lloyd, 1920
 
 ### Remarks
 null

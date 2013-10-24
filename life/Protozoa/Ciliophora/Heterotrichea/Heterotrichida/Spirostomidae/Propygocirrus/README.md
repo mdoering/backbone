@@ -1,5 +1,4 @@
-Propygocirrus Mansfeld, 1923 GENUS
-=======
+# Propygocirrus Mansfeld, 1923 GENUS
 
 #### Status
 ACCEPTED

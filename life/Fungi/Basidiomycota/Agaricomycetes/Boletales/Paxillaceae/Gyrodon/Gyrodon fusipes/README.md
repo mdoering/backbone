@@ -1,5 +1,4 @@
-Gyrodon fusipes (Heufl.) Fr. SPECIES
-=======
+# Gyrodon fusipes (Heufl.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria ponapeana Kobayasi SPECIES
-=======
+# Xylaria ponapeana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

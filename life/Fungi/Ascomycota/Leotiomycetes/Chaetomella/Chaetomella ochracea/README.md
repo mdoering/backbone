@@ -1,5 +1,4 @@
-Chaetomella ochracea Torrend SPECIES
-=======
+# Chaetomella ochracea Torrend SPECIES
 
 #### Status
 ACCEPTED

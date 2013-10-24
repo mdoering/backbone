@@ -1,5 +1,4 @@
-Dictyostelium menora Vadell & Cavender SPECIES
-=======
+# Dictyostelium menora Vadell & Cavender SPECIES
 
 #### Status
 ACCEPTED

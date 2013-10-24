@@ -1,5 +1,4 @@
-Peziza tephrosia Pers. SPECIES
-=======
+# Peziza tephrosia Pers. SPECIES
 
 #### Status
 ACCEPTED

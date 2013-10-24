@@ -1,5 +1,4 @@
-Graphis annulata Kremp. SPECIES
-=======
+# Graphis annulata Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria haematochlora (Speg.) Sacc. SPECIES
-=======
+# Humaria haematochlora (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

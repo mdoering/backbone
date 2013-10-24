@@ -1,5 +1,4 @@
-Trombetta marasmioides (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Trombetta marasmioides (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

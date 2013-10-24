@@ -1,5 +1,4 @@
-Fragilaria biceps (Kützing) Lange-Bertalot SPECIES
-=======
+# Fragilaria biceps (Kützing) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

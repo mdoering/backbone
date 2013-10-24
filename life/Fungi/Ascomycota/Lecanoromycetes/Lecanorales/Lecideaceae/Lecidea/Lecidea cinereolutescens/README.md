@@ -1,5 +1,4 @@
-Lecidea cinereolutescens Nyl. SPECIES
-=======
+# Lecidea cinereolutescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

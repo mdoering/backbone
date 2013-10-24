@@ -1,5 +1,4 @@
-Gyrophora tramnitziana Körb. SPECIES
-=======
+# Gyrophora tramnitziana Körb. SPECIES
 
 #### Status
 ACCEPTED

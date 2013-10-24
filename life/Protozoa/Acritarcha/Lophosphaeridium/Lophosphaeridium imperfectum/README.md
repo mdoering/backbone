@@ -1,5 +1,4 @@
-Lophosphaeridium imperfectum Ouyang Shu et al., 1974 SPECIES
-=======
+# Lophosphaeridium imperfectum Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

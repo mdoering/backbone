@@ -1,5 +1,4 @@
-Omatia I.C.Cookson & A.Eisenack GENUS
-=======
+# Omatia I.C.Cookson & A.Eisenack GENUS
 
 #### Status
 ACCEPTED

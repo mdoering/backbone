@@ -1,5 +1,4 @@
-Penicillium jamesonlandense Frisvad & Overy SPECIES
-=======
+# Penicillium jamesonlandense Frisvad & Overy SPECIES
 
 #### Status
 ACCEPTED

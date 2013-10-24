@@ -1,5 +1,4 @@
-Zoothamnium wangi Ji, Song & Warren, 2005 SPECIES
-=======
+# Zoothamnium wangi Ji, Song & Warren, 2005 SPECIES
 
 #### Status
 ACCEPTED

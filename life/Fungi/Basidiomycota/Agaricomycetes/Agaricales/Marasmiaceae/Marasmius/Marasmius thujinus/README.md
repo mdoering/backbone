@@ -1,5 +1,4 @@
-Marasmius thujinus Peck SPECIES
-=======
+# Marasmius thujinus Peck SPECIES
 
 #### Status
 ACCEPTED

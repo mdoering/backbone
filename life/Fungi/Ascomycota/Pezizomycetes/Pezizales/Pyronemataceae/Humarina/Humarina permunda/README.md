@@ -1,5 +1,4 @@
-Humarina permunda (Cooke) Seaver SPECIES
-=======
+# Humarina permunda (Cooke) Seaver SPECIES
 
 #### Status
 ACCEPTED

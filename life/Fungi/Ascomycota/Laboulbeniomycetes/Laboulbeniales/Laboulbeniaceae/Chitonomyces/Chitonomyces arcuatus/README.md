@@ -1,5 +1,4 @@
-Chitonomyces arcuatus Thaxt. SPECIES
-=======
+# Chitonomyces arcuatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

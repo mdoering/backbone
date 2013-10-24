@@ -1,5 +1,4 @@
-Baltisphaeridium varsoviense Górka, 1969 SPECIES
-=======
+# Baltisphaeridium varsoviense Górka, 1969 SPECIES
 
 #### Status
 ACCEPTED

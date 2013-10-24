@@ -1,5 +1,4 @@
-Lepiota caroli Velen. SPECIES
-=======
+# Lepiota caroli Velen. SPECIES
 
 #### Status
 ACCEPTED

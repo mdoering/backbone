@@ -1,5 +1,4 @@
-Chaenotheca floridana R. C. Harris SPECIES
-=======
+# Chaenotheca floridana R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

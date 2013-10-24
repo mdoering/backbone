@@ -1,5 +1,4 @@
-Inocybe cavipes (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Inocybe cavipes (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

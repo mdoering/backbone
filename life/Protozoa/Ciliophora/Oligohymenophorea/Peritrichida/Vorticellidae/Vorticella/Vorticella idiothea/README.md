@@ -1,5 +1,4 @@
-Vorticella idiothea SPECIES
-=======
+# Vorticella idiothea SPECIES
 
 #### Status
 ACCEPTED

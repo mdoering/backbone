@@ -1,5 +1,4 @@
-Cenangium juglandis Berk. & M.A. Curtis SPECIES
-=======
+# Cenangium juglandis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

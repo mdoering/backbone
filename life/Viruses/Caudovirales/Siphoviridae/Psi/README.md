@@ -1,5 +1,4 @@
-PsiM1-like viruses GENUS
-=======
+# PsiM1-like viruses GENUS
 
 #### Status
 ACCEPTED

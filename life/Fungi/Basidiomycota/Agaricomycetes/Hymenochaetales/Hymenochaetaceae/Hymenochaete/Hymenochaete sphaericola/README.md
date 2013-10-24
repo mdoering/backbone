@@ -1,5 +1,4 @@
-Hymenochaete sphaericola Lloyd SPECIES
-=======
+# Hymenochaete sphaericola Lloyd SPECIES
 
 #### Status
 ACCEPTED

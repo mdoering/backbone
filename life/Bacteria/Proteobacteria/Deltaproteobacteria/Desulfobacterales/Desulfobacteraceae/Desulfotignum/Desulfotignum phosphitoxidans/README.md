@@ -1,5 +1,4 @@
-Desulfotignum phosphitoxidans Schink et al., 2002 SPECIES
-=======
+# Desulfotignum phosphitoxidans Schink et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

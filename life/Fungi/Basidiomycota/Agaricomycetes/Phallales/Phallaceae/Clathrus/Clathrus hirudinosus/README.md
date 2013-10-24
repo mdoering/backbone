@@ -1,5 +1,4 @@
-Clathrus hirudinosus Tul. SPECIES
-=======
+# Clathrus hirudinosus Tul. SPECIES
 
 #### Status
 ACCEPTED

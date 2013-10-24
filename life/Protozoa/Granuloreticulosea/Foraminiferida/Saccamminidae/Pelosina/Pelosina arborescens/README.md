@@ -1,5 +1,4 @@
-Pelosina arborescens Pearcey, 1914 SPECIES
-=======
+# Pelosina arborescens Pearcey, 1914 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ephebe intricata Lamy SPECIES
-=======
+# Ephebe intricata Lamy SPECIES
 
 #### Status
 ACCEPTED

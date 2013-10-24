@@ -1,5 +1,4 @@
-Agaricus arachnoideus Krombh. SPECIES
-=======
+# Agaricus arachnoideus Krombh. SPECIES
 
 #### Status
 ACCEPTED

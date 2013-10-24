@@ -1,5 +1,4 @@
-Diploplacosphaeria genistae H. Ruppr. SPECIES
-=======
+# Diploplacosphaeria genistae H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterostroma bruchii Speg. SPECIES
-=======
+# Asterostroma bruchii Speg. SPECIES
 
 #### Status
 ACCEPTED

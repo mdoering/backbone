@@ -1,5 +1,4 @@
-Graphis kollaimalaiensis Adaw. & Makhija SPECIES
-=======
+# Graphis kollaimalaiensis Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

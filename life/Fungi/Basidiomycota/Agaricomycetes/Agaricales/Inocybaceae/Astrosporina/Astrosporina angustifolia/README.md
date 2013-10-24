@@ -1,5 +1,4 @@
-Astrosporina angustifolia Corner & E. Horak SPECIES
-=======
+# Astrosporina angustifolia Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

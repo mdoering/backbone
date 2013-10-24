@@ -1,5 +1,4 @@
-Candida canberraensis Kurtzman, 2001 SPECIES
-=======
+# Candida canberraensis Kurtzman, 2001 SPECIES
 
 #### Status
 ACCEPTED

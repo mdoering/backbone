@@ -1,5 +1,4 @@
-Stictis ulmi P. Crouan & H. Crouan SPECIES
-=======
+# Stictis ulmi P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

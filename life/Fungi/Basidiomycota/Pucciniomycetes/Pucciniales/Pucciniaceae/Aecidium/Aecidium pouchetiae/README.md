@@ -1,5 +1,4 @@
-Aecidium pouchetiae Sacc. SPECIES
-=======
+# Aecidium pouchetiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

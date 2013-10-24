@@ -1,5 +1,4 @@
-Lichen hebraicus Hoffm. SPECIES
-=======
+# Lichen hebraicus Hoffm. SPECIES
 
 #### Status
 ACCEPTED

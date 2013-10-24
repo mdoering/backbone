@@ -1,5 +1,4 @@
-Buellia oxydata H. Magn. SPECIES
-=======
+# Buellia oxydata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

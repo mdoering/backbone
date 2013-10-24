@@ -1,5 +1,4 @@
-Mycosphaerella tamarindi Henn. SPECIES
-=======
+# Mycosphaerella tamarindi Henn. SPECIES
 
 #### Status
 ACCEPTED

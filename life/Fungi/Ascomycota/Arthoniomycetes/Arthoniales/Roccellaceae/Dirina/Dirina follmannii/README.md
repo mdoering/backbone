@@ -1,5 +1,4 @@
-Dirina follmannii (C.W. Dodge) Sparrius SPECIES
-=======
+# Dirina follmannii (C.W. Dodge) Sparrius SPECIES
 
 #### Status
 ACCEPTED

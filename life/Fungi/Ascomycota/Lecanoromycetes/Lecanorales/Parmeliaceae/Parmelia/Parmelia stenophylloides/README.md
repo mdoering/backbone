@@ -1,5 +1,4 @@
-Parmelia stenophylloides var. stenophylloides VARIETY
-=======
+# Parmelia stenophylloides (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta Soc. Fauna Flora fenn. 7(1): 62 (1890)
 
 #### Original name
-Parmelia stenophylloides var. stenophylloides
+Parmelia adpressa var. stenophylloides Müll. Arg.
 
 ### Remarks
 null

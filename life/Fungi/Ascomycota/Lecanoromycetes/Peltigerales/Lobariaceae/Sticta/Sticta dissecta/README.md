@@ -1,5 +1,4 @@
-Sticta dissecta var. dissecta (Sw.) Delise VARIETY
-=======
+# Sticta dissecta (Sw.) Delise SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta dissecta var. dissecta (Sw.) Delise
+Lichen dissectus Sw.
 
 ### Remarks
 null

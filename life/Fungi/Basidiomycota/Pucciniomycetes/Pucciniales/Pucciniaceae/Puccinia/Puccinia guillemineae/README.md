@@ -1,5 +1,4 @@
-Puccinia guillemineae Dietel & Holw. SPECIES
-=======
+# Puccinia guillemineae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria minima Duby SPECIES
-=======
+# Sphaeria minima Duby SPECIES
 
 #### Status
 ACCEPTED

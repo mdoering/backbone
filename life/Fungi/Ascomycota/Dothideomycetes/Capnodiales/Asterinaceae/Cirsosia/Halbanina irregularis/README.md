@@ -1,5 +1,4 @@
-Halbanina irregularis (Syd. & P. Syd.) G. Arnaud SPECIES
-=======
+# Halbanina irregularis (Syd. & P. Syd.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroococcus cronbergae J. Komárek & E. Novelo SPECIES
-=======
+# Chroococcus cronbergae J. Komárek & E. Novelo SPECIES
 
 #### Status
 ACCEPTED

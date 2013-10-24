@@ -1,5 +1,4 @@
-Biatora propinqua Hepp ex Stizenb. SPECIES
-=======
+# Biatora propinqua Hepp ex Stizenb. SPECIES
 
 #### Status
 ACCEPTED

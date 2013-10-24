@@ -1,5 +1,4 @@
-Polyporus lazaroi Trotter SPECIES
-=======
+# Polyporus lazaroi Trotter SPECIES
 
 #### Status
 ACCEPTED

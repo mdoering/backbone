@@ -1,5 +1,4 @@
-Sporidesmium phaeosporum (De Not.) Sacc. SPECIES
-=======
+# Sporidesmium phaeosporum (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

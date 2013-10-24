@@ -1,17 +1,16 @@
-Neesiella Kirschst. GENUS
-=======
+# Myconeesia Kirschst. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls mycol. 33: 217 (1935)
+Annls mycol. 34: 200 (1936)
 
 #### Original name
-Neesiella Kirschst.
+Myconeesia Kirschst.
 
 ### Remarks
 null

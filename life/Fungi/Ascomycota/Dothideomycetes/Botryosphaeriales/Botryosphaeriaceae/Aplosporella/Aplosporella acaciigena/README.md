@@ -1,17 +1,16 @@
-Aplosporella acarigena S. Ahmad & Arshad SPECIES
-=======
+# Aplosporella acaciigena S. Ahmad & Arshad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 18(1): 10 (1972)
 
 #### Original name
-Aplosporella acarigena S. Ahmad & Arshad
+Aplosporella acaciae (Petr.) Petr., 1926
 
 ### Remarks
 null

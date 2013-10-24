@@ -1,5 +1,4 @@
-Heterostegina antillea SPECIES
-=======
+# Heterostegina antillea SPECIES
 
 #### Status
 ACCEPTED

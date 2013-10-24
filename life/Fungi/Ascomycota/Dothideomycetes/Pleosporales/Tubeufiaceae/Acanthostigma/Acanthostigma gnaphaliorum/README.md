@@ -1,5 +1,4 @@
-Acanthostigma gnaphaliorum Speg. SPECIES
-=======
+# Acanthostigma gnaphaliorum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora costeroana Petr. & Cif. SPECIES
-=======
+# Cercospora costeroana Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

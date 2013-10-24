@@ -1,5 +1,4 @@
-Thalassiosira elliptipora (Donahue) Fenner SPECIES
-=======
+# Thalassiosira elliptipora (Donahue) Fenner SPECIES
 
 #### Status
 ACCEPTED

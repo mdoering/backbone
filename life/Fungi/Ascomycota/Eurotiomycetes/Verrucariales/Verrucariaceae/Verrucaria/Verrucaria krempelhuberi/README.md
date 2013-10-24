@@ -1,5 +1,4 @@
-Verrucaria krempelhuberi var. krempelhuberi VARIETY
-=======
+# Verrucaria krempelhuberi Lindau SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria krempelhuberi var. krempelhuberi
+Verrucaria krempelhuberi Lindau
 
 ### Remarks
 null

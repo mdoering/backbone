@@ -1,17 +1,16 @@
-Marssonia perforans Ellis & Everh. SPECIES
-=======
+# Microdochium panattonianum (Berl.) B. Sutton, Galea & T.V. Price, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Selby, Ohio Agric. Exper. Stat. Bull. 73: 224 (1896)
+in Galea, Price & Sutton, Trans. Br. mycol. Soc. 86(4): 620 (1986)
 
 #### Original name
-Marssonia perforans Ellis & Everh.
+Marssonia panattoniana Berl.
 
 ### Remarks
 null

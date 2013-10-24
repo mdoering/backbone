@@ -1,17 +1,16 @@
-Hydrocybe fuscoolivacea Velen. SPECIES
-=======
+# Hydrocybe fusco-olivacea Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 3: 475 (1921)
 
 #### Original name
-Hydrocybe fuscoolivacea Velen.
+Hydrocybe fusco-olivacea Velen.
 
 ### Remarks
 null

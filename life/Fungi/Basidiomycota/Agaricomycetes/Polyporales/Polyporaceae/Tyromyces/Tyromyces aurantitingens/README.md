@@ -1,5 +1,4 @@
-Tyromyces aurantitingens Corner SPECIES
-=======
+# Tyromyces aurantitingens Corner SPECIES
 
 #### Status
 ACCEPTED

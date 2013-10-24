@@ -1,17 +1,16 @@
-Clavaria ledermanni Bres. SPECIES
-=======
+# Clavulinopsis ledermannii (Bres.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 374 (1950)
 
 #### Original name
-Clavaria ledermanni Bres.
+Clavaria ledermannii Bres., 1914
 
 ### Remarks
 null

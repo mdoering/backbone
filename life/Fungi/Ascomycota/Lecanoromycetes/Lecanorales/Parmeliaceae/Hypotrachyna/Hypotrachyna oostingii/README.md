@@ -1,17 +1,16 @@
-Parmelia oostingii J. P. Dey SPECIES
-=======
+# Hypotrachyna oostingii (J. P. Dey) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 51 (1975)
 
 #### Original name
-null
+Parmelia oostingii J. P. Dey
 
 ### Remarks
 null

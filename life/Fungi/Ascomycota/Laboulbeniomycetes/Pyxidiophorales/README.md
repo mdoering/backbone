@@ -1,5 +1,4 @@
-Pyxidiophorales P.F. Cannon ORDER
-=======
+# Pyxidiophorales P.F. Cannon ORDER
 
 #### Status
 ACCEPTED

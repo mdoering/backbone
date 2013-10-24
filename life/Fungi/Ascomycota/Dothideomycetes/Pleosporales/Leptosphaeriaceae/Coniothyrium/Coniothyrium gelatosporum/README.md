@@ -1,5 +1,4 @@
-Coniothyrium gelatosporum Petr. SPECIES
-=======
+# Coniothyrium gelatosporum Petr. SPECIES
 
 #### Status
 ACCEPTED

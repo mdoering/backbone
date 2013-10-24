@@ -1,5 +1,4 @@
-Involutisporonites crassus Z.C. Song & Liu Cao SPECIES
-=======
+# Involutisporonites crassus Z.C. Song & Liu Cao SPECIES
 
 #### Status
 ACCEPTED

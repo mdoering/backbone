@@ -1,5 +1,4 @@
-Cercospora ajrekarii Syd. SPECIES
-=======
+# Cercospora ajrekarii Syd. SPECIES
 
 #### Status
 ACCEPTED

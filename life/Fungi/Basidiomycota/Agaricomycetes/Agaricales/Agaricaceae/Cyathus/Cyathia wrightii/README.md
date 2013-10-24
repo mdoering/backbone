@@ -1,5 +1,4 @@
-Cyathia wrightii (Berk.) V.S. White SPECIES
-=======
+# Cyathia wrightii (Berk.) V.S. White SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypa caulivora Massee SPECIES
-=======
+# Eutypa caulivora Massee SPECIES
 
 #### Status
 ACCEPTED

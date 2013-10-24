@@ -1,5 +1,4 @@
-Pulveroboletus luteocarneus Degreef & De Kesel SPECIES
-=======
+# Pulveroboletus luteocarneus Degreef & De Kesel SPECIES
 
 #### Status
 ACCEPTED

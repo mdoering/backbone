@@ -1,5 +1,4 @@
-Rhopographus bakeri Earle SPECIES
-=======
+# Rhopographus bakeri Earle SPECIES
 
 #### Status
 ACCEPTED

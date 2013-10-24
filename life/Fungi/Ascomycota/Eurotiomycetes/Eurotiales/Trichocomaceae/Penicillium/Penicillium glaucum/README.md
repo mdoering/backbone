@@ -1,17 +1,16 @@
-Penicillium glaucum var. glaucum VARIETY
-=======
+# Penicillium glaucum Link, 1805 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Observ. Mag. Gesell. Naturf. Freunde Berl. 1: 15 (1805)
 
 #### Original name
-Penicillium glaucum var. glaucum
+Penicillium glaucum Link, 1805
 
 ### Remarks
 null

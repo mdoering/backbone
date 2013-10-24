@@ -1,5 +1,4 @@
-Agaricus cuspidatus Peck SPECIES
-=======
+# Agaricus cuspidatus Peck SPECIES
 
 #### Status
 ACCEPTED

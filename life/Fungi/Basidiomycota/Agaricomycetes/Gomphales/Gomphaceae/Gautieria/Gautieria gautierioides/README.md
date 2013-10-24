@@ -1,5 +1,4 @@
-Gautieria gautierioides (Lloyd) Zeller & C.W. Dodge SPECIES
-=======
+# Gautieria gautierioides (Lloyd) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

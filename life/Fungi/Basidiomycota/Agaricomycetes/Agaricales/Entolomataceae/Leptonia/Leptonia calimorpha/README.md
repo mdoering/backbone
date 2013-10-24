@@ -1,5 +1,4 @@
-Leptonia calimorpha Weinm. SPECIES
-=======
+# Leptonia calimorpha Weinm. SPECIES
 
 #### Status
 ACCEPTED

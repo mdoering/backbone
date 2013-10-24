@@ -1,5 +1,4 @@
-Suillus caerulescens A.H. Sm. & Thiers, 1964 SPECIES
-=======
+# Suillus caerulescens A.H. Sm. & Thiers, 1964 SPECIES
 
 #### Status
 DOUBTFUL

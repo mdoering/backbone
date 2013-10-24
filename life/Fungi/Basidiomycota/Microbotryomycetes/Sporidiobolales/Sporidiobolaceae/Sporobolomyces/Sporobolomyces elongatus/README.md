@@ -1,5 +1,4 @@
-Sporobolomyces elongatus R.G. Shivas & Rodr. Mir. SPECIES
-=======
+# Sporobolomyces elongatus R.G. Shivas & Rodr. Mir. SPECIES
 
 #### Status
 ACCEPTED

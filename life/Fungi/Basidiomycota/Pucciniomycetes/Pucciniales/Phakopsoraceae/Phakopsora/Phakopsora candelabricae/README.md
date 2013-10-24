@@ -1,5 +1,4 @@
-Phakopsora candelabricae Vienn.-Bourg. SPECIES
-=======
+# Phakopsora candelabricae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

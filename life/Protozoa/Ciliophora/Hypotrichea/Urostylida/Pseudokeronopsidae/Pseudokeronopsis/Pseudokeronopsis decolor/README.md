@@ -1,5 +1,4 @@
-Pseudokeronopsis decolor Wallengren, 1900 SPECIES
-=======
+# Pseudokeronopsis decolor Wallengren, 1900 SPECIES
 
 #### Status
 ACCEPTED

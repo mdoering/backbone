@@ -1,5 +1,4 @@
-Parathelohania anophelis (R. Kudo) Hazard & Antony SPECIES
-=======
+# Parathelohania anophelis (R. Kudo) Hazard & Antony SPECIES
 
 #### Status
 ACCEPTED

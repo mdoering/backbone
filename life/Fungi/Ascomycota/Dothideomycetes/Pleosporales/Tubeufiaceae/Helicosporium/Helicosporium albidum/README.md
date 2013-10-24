@@ -1,5 +1,4 @@
-Helicosporium albidum Grove, 1886 SPECIES
-=======
+# Helicosporium albidum Grove, 1886 SPECIES
 
 #### Status
 ACCEPTED

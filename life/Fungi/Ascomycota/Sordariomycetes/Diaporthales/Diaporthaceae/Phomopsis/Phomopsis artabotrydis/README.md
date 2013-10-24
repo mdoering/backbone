@@ -1,5 +1,4 @@
-Phomopsis artabotrydis Syd. & P. Syd. SPECIES
-=======
+# Phomopsis artabotrydis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

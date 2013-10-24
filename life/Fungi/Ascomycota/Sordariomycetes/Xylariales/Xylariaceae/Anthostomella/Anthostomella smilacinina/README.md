@@ -1,5 +1,4 @@
-Anthostomella smilacinina (Peck) Sacc. SPECIES
-=======
+# Anthostomella smilacinina (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

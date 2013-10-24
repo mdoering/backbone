@@ -1,5 +1,4 @@
-Phyllactinia antarctica Speg. SPECIES
-=======
+# Phyllactinia antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hexagonia lineata Lloyd, 1923 SPECIES
-=======
+# Hexagonia dermatiphora Lloyd, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1194 (1923)
+Mycol. Writ. 3: 501 (1911)
 
 #### Original name
-Hexagonia lineata Lloyd, 1923
+Hexagonia dermatiphora Lloyd, 1911
 
 ### Remarks
 null

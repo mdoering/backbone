@@ -1,5 +1,4 @@
-Nolanea subavellanea Murrill SPECIES
-=======
+# Nolanea subavellanea Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Athelopsis capitata Hjortstam SPECIES
-=======
+# Athelopsis capitata Hjortstam SPECIES
 
 #### Status
 ACCEPTED

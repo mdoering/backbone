@@ -1,5 +1,4 @@
-Agaricus phaeophyllus Berk. SPECIES
-=======
+# Agaricus phaeophyllus Berk. SPECIES
 
 #### Status
 ACCEPTED

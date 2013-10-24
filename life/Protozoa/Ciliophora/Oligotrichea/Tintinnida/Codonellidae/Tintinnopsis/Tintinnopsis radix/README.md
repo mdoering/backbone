@@ -1,5 +1,4 @@
-Tintinnopsis radix Imhof, 1886 SPECIES
-=======
+# Tintinnopsis radix Imhof, 1886 SPECIES
 
 #### Status
 ACCEPTED

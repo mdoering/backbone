@@ -1,5 +1,4 @@
-Asteridium portoricense Speg. SPECIES
-=======
+# Asteridium portoricense Speg. SPECIES
 
 #### Status
 ACCEPTED

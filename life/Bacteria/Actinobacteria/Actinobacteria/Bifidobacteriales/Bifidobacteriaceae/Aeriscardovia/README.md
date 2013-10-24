@@ -1,5 +1,4 @@
-Aeriscardovia Simpson et al., 2004 GENUS
-=======
+# Aeriscardovia Simpson et al., 2004 GENUS
 
 #### Status
 ACCEPTED

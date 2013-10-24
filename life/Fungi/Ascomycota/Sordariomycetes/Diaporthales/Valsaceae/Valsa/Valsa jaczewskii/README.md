@@ -1,5 +1,4 @@
-Valsa jaczewskii Panas. SPECIES
-=======
+# Valsa jaczewskii Panas. SPECIES
 
 #### Status
 ACCEPTED

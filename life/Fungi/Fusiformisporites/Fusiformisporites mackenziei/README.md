@@ -1,17 +1,16 @@
-Fusiformisporites mackenzieii M.G. Parsons & G. Norris SPECIES
-=======
+# Fusiformisporites mackenziei M.G. Parsons & G. Norris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Palaeontographica, Abt. B 250(4-6): 122 + pl. 5, figs 2-4, 6-8 (1999)
 
 #### Original name
-Fusiformisporites mackenzieii M.G. Parsons & G. Norris
+Fusiformisporites mackenziei M.G. Parsons & G. Norris
 
 ### Remarks
 null

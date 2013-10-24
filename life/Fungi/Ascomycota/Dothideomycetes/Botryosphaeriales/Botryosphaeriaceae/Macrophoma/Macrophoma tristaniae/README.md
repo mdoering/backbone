@@ -1,5 +1,4 @@
-Macrophoma tristaniae Tassi SPECIES
-=======
+# Macrophoma tristaniae Tassi SPECIES
 
 #### Status
 ACCEPTED

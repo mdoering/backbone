@@ -1,5 +1,4 @@
-Colletotrichum epiphylli Tassi SPECIES
-=======
+# Colletotrichum epiphylli Tassi SPECIES
 
 #### Status
 ACCEPTED

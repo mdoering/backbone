@@ -1,5 +1,4 @@
-Allochromatium Imhoff, Suling & Petri, 1998 GENUS
-=======
+# Allochromatium Imhoff, Suling & Petri, 1998 GENUS
 
 #### Status
 ACCEPTED

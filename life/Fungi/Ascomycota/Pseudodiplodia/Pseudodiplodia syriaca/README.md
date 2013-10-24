@@ -1,5 +1,4 @@
-Pseudodiplodia syriaca (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia syriaca (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

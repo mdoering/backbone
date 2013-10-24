@@ -1,5 +1,4 @@
-Mycosphaerella tetroncii (Speg.) Cash SPECIES
-=======
+# Mycosphaerella tetroncii (Speg.) Cash SPECIES
 
 #### Status
 ACCEPTED

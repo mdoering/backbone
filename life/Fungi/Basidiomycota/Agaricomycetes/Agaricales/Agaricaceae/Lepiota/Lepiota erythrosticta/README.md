@@ -1,5 +1,4 @@
-Lepiota erythrosticta (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota erythrosticta (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

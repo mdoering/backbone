@@ -1,5 +1,4 @@
-Foraminella esorediata (Degel.) Lumbsch SPECIES
-=======
+# Foraminella esorediata (Degel.) Lumbsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizoctonia alba Matz SPECIES
-=======
+# Rhizoctonia alba Matz SPECIES
 
 #### Status
 ACCEPTED

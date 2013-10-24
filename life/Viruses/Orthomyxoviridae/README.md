@@ -1,5 +1,4 @@
-Orthomyxoviridae FAMILY
-=======
+# Orthomyxoviridae FAMILY
 
 #### Status
 ACCEPTED

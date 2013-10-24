@@ -1,5 +1,4 @@
-Neoconorbium terquemi SPECIES
-=======
+# Neoconorbium terquemi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palaeotripus Goodbody, 1986 GENUS
-=======
+# Palaeotripus Goodbody, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plesiocystis pacifica Iizuka et al., 2003 SPECIES
-=======
+# Plesiocystis pacifica Iizuka et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

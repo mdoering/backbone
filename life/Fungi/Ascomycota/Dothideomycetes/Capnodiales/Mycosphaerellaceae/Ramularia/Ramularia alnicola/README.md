@@ -1,17 +1,16 @@
-Ramularia alnicola var. alnicola Cooke VARIETY
-=======
+# Ramularia alnicola Cooke, 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 40 (1886)
 
 #### Original name
-Ramularia alnicola var. alnicola Cooke
+Ramularia alnicola Cooke, 1886
 
 ### Remarks
 null

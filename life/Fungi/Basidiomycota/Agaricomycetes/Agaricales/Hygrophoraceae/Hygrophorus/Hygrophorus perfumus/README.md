@@ -1,5 +1,4 @@
-Hygrophorus perfumus Largent SPECIES
-=======
+# Hygrophorus perfumus Largent SPECIES
 
 #### Status
 ACCEPTED

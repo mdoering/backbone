@@ -1,5 +1,4 @@
-Agaricus chloroticus Jungh. SPECIES
-=======
+# Agaricus chloroticus Jungh. SPECIES
 
 #### Status
 ACCEPTED

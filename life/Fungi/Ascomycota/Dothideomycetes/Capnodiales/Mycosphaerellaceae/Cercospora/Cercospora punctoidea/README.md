@@ -1,5 +1,4 @@
-Cercospora punctoidea Ellis & Holw. SPECIES
-=======
+# Cercospora punctoidea Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

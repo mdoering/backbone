@@ -1,17 +1,16 @@
-Laccaria tetraspora f. tetraspora FORM
-=======
+# Laccaria tetraspora Singer, 1947 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 38(6): 689 (1947)
 
 #### Original name
-Laccaria tetraspora f. tetraspora
+Laccaria tetraspora Singer, 1947
 
 ### Remarks
 null

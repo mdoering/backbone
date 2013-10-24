@@ -1,5 +1,4 @@
-Coniothyrium aeluropodis Kalymb. SPECIES
-=======
+# Coniothyrium aeluropodis Kalymb. SPECIES
 
 #### Status
 ACCEPTED

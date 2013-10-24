@@ -1,5 +1,4 @@
-Puccinia subtilipes Speg. SPECIES
-=======
+# Puccinia subtilipes Speg. SPECIES
 
 #### Status
 ACCEPTED

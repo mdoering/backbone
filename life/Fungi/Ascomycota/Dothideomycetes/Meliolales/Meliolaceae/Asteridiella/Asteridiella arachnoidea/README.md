@@ -1,5 +1,4 @@
-Asteridiella arachnoidea (Speg.) Hansf. SPECIES
-=======
+# Asteridiella arachnoidea (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

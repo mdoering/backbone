@@ -1,5 +1,4 @@
-Placynthium microphyllizum (Nyl.) Hasse SPECIES
-=======
+# Placynthium microphyllizum (Nyl.) Hasse SPECIES
 
 #### Status
 ACCEPTED

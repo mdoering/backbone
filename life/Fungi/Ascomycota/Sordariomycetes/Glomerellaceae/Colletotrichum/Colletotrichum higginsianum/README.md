@@ -1,5 +1,4 @@
-Colletotrichum higginsianum Sacc., 1917 SPECIES
-=======
+# Colletotrichum higginsianum Sacc., 1917 SPECIES
 
 #### Status
 ACCEPTED

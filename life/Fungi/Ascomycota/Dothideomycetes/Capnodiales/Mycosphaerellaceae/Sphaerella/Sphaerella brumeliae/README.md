@@ -1,5 +1,4 @@
-Sphaerella brumeliae Cooke SPECIES
-=======
+# Sphaerella brumeliae Cooke SPECIES
 
 #### Status
 ACCEPTED

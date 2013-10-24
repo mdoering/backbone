@@ -1,5 +1,4 @@
-Hoegklintia reticulata (Pöthé de Baldis, 1975) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Hoegklintia reticulata (Pöthé de Baldis, 1975) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

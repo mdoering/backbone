@@ -1,5 +1,4 @@
-Helvella panormitana Inzenga SPECIES
-=======
+# Helvella panormitana Inzenga SPECIES
 
 #### Status
 ACCEPTED

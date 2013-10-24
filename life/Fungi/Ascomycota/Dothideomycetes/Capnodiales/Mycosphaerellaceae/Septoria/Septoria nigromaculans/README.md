@@ -1,5 +1,4 @@
-Septoria nigromaculans Thüm. SPECIES
-=======
+# Septoria nigromaculans Thüm. SPECIES
 
 #### Status
 ACCEPTED

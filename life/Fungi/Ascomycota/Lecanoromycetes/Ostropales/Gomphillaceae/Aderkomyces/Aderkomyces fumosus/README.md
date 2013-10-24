@@ -1,5 +1,4 @@
-Aderkomyces fumosus (Kalb & Vezda) Lücking, Sérus. & Vezda SPECIES
-=======
+# Aderkomyces fumosus (Kalb & Vezda) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

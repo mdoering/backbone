@@ -1,5 +1,4 @@
-Entyloma rhagadioli Pass. SPECIES
-=======
+# Entyloma rhagadioli Pass. SPECIES
 
 #### Status
 ACCEPTED

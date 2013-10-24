@@ -1,5 +1,4 @@
-Puccinia puiggarii (Speg.) P. Syd. & Syd. SPECIES
-=======
+# Puccinia puiggarii (Speg.) P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platyophrya angusta sensu Buitkamp SPECIES
-=======
+# Platyophrya angusta sensu Buitkamp SPECIES
 
 #### Status
 ACCEPTED

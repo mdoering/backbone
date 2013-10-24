@@ -1,5 +1,4 @@
-Micropsalliota pleurocystidiata Heinem. & Little Flower SPECIES
-=======
+# Micropsalliota pleurocystidiata Heinem. & Little Flower SPECIES
 
 #### Status
 ACCEPTED

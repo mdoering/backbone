@@ -1,5 +1,4 @@
-Cortinarius mesophaeus M.M. Moser SPECIES
-=======
+# Cortinarius mesophaeus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

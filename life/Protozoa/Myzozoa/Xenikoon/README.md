@@ -1,5 +1,4 @@
-Xenikoon Cookson & Eisenack GENUS
-=======
+# Xenikoon Cookson & Eisenack GENUS
 
 #### Status
 ACCEPTED

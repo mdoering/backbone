@@ -1,5 +1,4 @@
-Xerocomus quercinus H. Engel & T. Brückn. SPECIES
-=======
+# Xerocomus quercinus H. Engel & T. Brückn. SPECIES
 
 #### Status
 ACCEPTED

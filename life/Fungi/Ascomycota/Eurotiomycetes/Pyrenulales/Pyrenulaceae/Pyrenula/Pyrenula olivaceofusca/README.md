@@ -1,5 +1,4 @@
-Pyrenula olivaceofusca Müll. Arg. SPECIES
-=======
+# Pyrenula olivaceofusca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

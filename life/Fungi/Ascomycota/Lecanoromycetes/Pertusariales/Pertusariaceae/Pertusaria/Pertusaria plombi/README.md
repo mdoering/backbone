@@ -1,5 +1,4 @@
-Pertusaria plombi B. de Lesd. SPECIES
-=======
+# Pertusaria plombi B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

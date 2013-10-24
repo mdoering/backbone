@@ -1,5 +1,4 @@
-Echinocyclidium Yankovskij in Small & Lynn, 1985 GENUS
-=======
+# Echinocyclidium Yankovskij in Small & Lynn, 1985 GENUS
 
 #### Status
 ACCEPTED

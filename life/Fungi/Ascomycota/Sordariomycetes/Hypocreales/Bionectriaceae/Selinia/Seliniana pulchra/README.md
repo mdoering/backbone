@@ -1,5 +1,4 @@
-Seliniana pulchra (G. Winter) Kuntze SPECIES
-=======
+# Seliniana pulchra (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cosmariospora Sacc. GENUS
-=======
+# Cosmariospora Sacc. GENUS
 
 #### Status
 ACCEPTED

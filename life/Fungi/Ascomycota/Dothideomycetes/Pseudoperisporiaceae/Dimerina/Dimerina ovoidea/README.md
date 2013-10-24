@@ -1,5 +1,4 @@
-Dimerina ovoidea (Speg.) Theiss. SPECIES
-=======
+# Dimerina ovoidea (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

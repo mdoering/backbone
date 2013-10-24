@@ -1,5 +1,4 @@
-Piersonia scabrosa Harkn. SPECIES
-=======
+# Piersonia scabrosa Harkn. SPECIES
 
 #### Status
 ACCEPTED

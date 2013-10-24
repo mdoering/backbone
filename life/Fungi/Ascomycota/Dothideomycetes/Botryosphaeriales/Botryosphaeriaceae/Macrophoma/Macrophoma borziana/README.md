@@ -1,5 +1,4 @@
-Macrophoma borziana Scalia SPECIES
-=======
+# Macrophoma borziana Scalia SPECIES
 
 #### Status
 ACCEPTED

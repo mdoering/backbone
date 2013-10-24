@@ -1,5 +1,4 @@
-Trichophyton megalosporum anon. SPECIES
-=======
+# Trichophyton megalosporum anon. SPECIES
 
 #### Status
 ACCEPTED

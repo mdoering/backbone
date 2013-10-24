@@ -1,5 +1,4 @@
-Collema microgonimum Hy SPECIES
-=======
+# Collema microgonimum Hy SPECIES
 
 #### Status
 ACCEPTED

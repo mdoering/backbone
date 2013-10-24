@@ -1,5 +1,4 @@
-Parmelia coreyi C.W. Dodge & G.E. Baker SPECIES
-=======
+# Parmelia coreyi C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

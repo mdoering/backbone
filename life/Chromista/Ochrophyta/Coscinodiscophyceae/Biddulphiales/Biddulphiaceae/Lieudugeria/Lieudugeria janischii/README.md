@@ -1,5 +1,4 @@
-Lieudugeria janischii (Grunow) Van Heurck SPECIES
-=======
+# Lieudugeria janischii (Grunow) Van Heurck SPECIES
 
 #### Status
 ACCEPTED

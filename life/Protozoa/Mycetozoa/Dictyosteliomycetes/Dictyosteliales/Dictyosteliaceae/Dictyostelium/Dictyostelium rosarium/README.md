@@ -1,5 +1,4 @@
-Dictyostelium rosarium Raper & Cavender, 1968 SPECIES
-=======
+# Dictyostelium rosarium Raper & Cavender, 1968 SPECIES
 
 #### Status
 ACCEPTED

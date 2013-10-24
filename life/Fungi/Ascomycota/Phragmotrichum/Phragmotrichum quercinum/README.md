@@ -1,5 +1,4 @@
-Phragmotrichum quercinum Hoffm. SPECIES
-=======
+# Phragmotrichum quercinum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

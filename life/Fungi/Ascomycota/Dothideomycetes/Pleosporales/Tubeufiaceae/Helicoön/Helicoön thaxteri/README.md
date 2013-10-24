@@ -1,5 +1,4 @@
-Helicoön thaxteri Linder SPECIES
-=======
+# Helicoön thaxteri Linder SPECIES
 
 #### Status
 ACCEPTED

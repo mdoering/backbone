@@ -1,5 +1,4 @@
-Xylaria fustis Mont. SPECIES
-=======
+# Xylaria fustis Mont. SPECIES
 
 #### Status
 ACCEPTED

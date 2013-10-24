@@ -1,5 +1,4 @@
-Mycena flavominiata Berk. SPECIES
-=======
+# Mycena flavominiata Berk. SPECIES
 
 #### Status
 ACCEPTED

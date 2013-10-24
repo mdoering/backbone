@@ -1,5 +1,4 @@
-Marasmius dimiticus Corner SPECIES
-=======
+# Marasmius dimiticus Corner SPECIES
 
 #### Status
 ACCEPTED

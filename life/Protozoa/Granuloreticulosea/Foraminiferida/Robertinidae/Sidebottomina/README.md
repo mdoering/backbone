@@ -1,5 +1,4 @@
-Sidebottomina Seiglie, 1964 GENUS
-=======
+# Sidebottomina Seiglie, 1964 GENUS
 
 #### Status
 ACCEPTED

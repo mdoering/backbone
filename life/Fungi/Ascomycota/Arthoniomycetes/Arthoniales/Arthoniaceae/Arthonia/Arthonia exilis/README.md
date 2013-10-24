@@ -1,5 +1,4 @@
-Arthonia exilis var. exilis VARIETY
-=======
+# Arthonia exilis (Flörke) Anzi SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Catal. Lich. Sondr. 94 (1860)
 
 #### Original name
-Arthonia exilis var. exilis
+Lecidea synothea var. exilis Flörke
 
 ### Remarks
 null

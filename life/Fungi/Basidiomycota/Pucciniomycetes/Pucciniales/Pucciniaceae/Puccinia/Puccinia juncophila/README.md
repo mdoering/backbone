@@ -1,14 +1,13 @@
-Dicaeoma juncophilum (Cooke & Massee) Kuntze, 1898 SPECIES
-=======
+# Puccinia juncophila Cooke & Massee, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 469 (1898)
+Grevillea 22(no. 102): 37 (1893)
 
 #### Original name
 Puccinia juncophila Cooke & Massee, 1893

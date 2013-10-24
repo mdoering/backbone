@@ -1,5 +1,4 @@
-Crepidotus edulis Overeem SPECIES
-=======
+# Crepidotus edulis Overeem SPECIES
 
 #### Status
 ACCEPTED

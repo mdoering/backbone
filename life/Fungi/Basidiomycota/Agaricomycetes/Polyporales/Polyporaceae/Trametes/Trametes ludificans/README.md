@@ -1,5 +1,4 @@
-Trametes ludificans Ces. SPECIES
-=======
+# Trametes ludificans Ces. SPECIES
 
 #### Status
 ACCEPTED

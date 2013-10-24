@@ -1,5 +1,4 @@
-Stomiopeltis philippinensis Syd. SPECIES
-=======
+# Stomiopeltis philippinensis Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lenzites spegazzinii Bres. SPECIES
-=======
+# Lenzites spegazzinii Bres. SPECIES
 
 #### Status
 ACCEPTED

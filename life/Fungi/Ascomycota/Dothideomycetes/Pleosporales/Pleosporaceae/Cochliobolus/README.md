@@ -1,5 +1,4 @@
-Cochliobolus Drechsler GENUS
-=======
+# Cochliobolus Drechsler GENUS
 
 #### Status
 ACCEPTED

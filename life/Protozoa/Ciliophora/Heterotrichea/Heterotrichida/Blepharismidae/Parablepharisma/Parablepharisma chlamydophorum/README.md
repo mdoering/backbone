@@ -1,5 +1,4 @@
-Parablepharisma chlamydophorum Kahl, 1932 SPECIES
-=======
+# Parablepharisma chlamydophorum Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

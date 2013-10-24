@@ -1,5 +1,4 @@
-Verrucaria naegelii (Hepp) Nyl. SPECIES
-=======
+# Verrucaria naegelii (Hepp) Nyl. SPECIES
 
 #### Status
 ACCEPTED

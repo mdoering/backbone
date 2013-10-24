@@ -1,14 +1,13 @@
-Sorosporium rhynchosporae Henn., 1896 SPECIES
-=======
+# Moreaua rhynchosporae (Henn.) Vánky, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 35: 222 (1896)
+Mycotaxon 74(2): 353 (2000)
 
 #### Original name
 Sorosporium rhynchosporae Henn., 1896

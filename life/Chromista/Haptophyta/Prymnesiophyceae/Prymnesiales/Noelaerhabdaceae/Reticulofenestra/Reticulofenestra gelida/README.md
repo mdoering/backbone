@@ -1,5 +1,4 @@
-Reticulofenestra gelida (Geitzenauer, 1972) Backman, 1978 SPECIES
-=======
+# Reticulofenestra gelida (Geitzenauer, 1972) Backman, 1978 SPECIES
 
 #### Status
 ACCEPTED

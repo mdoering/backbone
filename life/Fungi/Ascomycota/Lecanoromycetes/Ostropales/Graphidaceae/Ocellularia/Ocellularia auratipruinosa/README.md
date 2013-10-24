@@ -1,5 +1,4 @@
-Ocellularia auratipruinosa Breuss SPECIES
-=======
+# Ocellularia auratipruinosa Breuss SPECIES
 
 #### Status
 ACCEPTED

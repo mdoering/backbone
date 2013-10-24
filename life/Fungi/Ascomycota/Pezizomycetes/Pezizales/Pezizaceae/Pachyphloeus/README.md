@@ -1,17 +1,16 @@
-Pachyphlodes Zobel GENUS
-=======
+# Pachyphloeus Tulasne & C. Tulasne, 1844 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Corda, Icon. fung. (Abellini) 6: 55 (1854)
+G. bot. ital. 2(1): 60 (1844)
 
 #### Original name
-Pachyphlodes Zobel
+Pachyphloeus Tulasne & C. Tulasne, 1844
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Alternaria patula H.C. Wu & W.S. Wu SPECIES
-=======
+# Alternaria patula H.C. Wu & W.S. Wu SPECIES
 
 #### Status
 ACCEPTED

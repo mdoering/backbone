@@ -1,5 +1,4 @@
-Fusarium aridum O.A. Pratt SPECIES
-=======
+# Fusarium aridum O.A. Pratt SPECIES
 
 #### Status
 ACCEPTED

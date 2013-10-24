@@ -1,5 +1,4 @@
-Magnaporthaceae P.F. Cannon FAMILY
-=======
+# Magnaporthaceae P.F. Cannon FAMILY
 
 #### Status
 ACCEPTED

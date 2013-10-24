@@ -1,14 +1,13 @@
-Calosporella huberiana Kirschst., 1939 SPECIES
-=======
+# Calosphaeriopsis huberiana (Kirschst.) Petr., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 37: 124 (1939)
+Annls mycol. 39: 273 (1941)
 
 #### Original name
 Calosporella huberiana Kirschst., 1939

@@ -1,5 +1,4 @@
-Bolbitius luteolus Lasch SPECIES
-=======
+# Bolbitius luteolus Lasch SPECIES
 
 #### Status
 ACCEPTED

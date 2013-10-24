@@ -1,5 +1,4 @@
-Parmelia hildebrandtii f. hildebrandtii FORM
-=======
+# Parmelia hildebrandtii Kremp. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia hildebrandtii f. hildebrandtii
+Parmelia hildebrandtii Kremp.
 
 ### Remarks
 null

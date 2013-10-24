@@ -1,5 +1,4 @@
-Rickia sakkae K. Sugiy. & T. Majewski SPECIES
-=======
+# Rickia sakkae K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

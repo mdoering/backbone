@@ -1,5 +1,4 @@
-Ionomidotis umbilicarioides (A.S. Mull.) Le Gal SPECIES
-=======
+# Ionomidotis umbilicarioides (A.S. Mull.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

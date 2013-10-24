@@ -1,5 +1,4 @@
-Panellus pauciporus Corner, 1986 SPECIES
-=======
+# Panellus pauciporus Corner, 1986 SPECIES
 
 #### Status
 ACCEPTED

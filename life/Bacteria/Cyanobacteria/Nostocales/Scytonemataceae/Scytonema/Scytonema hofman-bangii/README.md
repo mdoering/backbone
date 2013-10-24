@@ -1,8 +1,7 @@
-Scytonema hofmanii C. Agardh SPECIES
-=======
+# Scytonema hofman-bangii C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

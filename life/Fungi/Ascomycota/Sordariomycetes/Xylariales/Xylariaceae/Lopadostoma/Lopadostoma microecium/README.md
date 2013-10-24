@@ -1,5 +1,4 @@
-Lopadostoma microecium (Ellis & Everh.) P.M.D. Martin SPECIES
-=======
+# Lopadostoma microecium (Ellis & Everh.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

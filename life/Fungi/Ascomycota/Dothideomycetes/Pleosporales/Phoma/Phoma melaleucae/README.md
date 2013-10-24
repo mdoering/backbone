@@ -1,5 +1,4 @@
-Phoma melaleucae Tassi SPECIES
-=======
+# Phoma melaleucae Tassi SPECIES
 
 #### Status
 ACCEPTED

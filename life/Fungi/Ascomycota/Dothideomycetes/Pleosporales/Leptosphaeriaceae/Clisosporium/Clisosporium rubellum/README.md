@@ -1,5 +1,4 @@
-Clisosporium rubellum (Cooke) Kuntze SPECIES
-=======
+# Clisosporium rubellum (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Togaria molliscorium (Cooke & Massee) W.G. Sm. SPECIES
-=======
+# Togaria molliscorium (Cooke & Massee) W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

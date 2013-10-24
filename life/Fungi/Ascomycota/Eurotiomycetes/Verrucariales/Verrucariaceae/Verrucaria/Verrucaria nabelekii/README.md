@@ -1,5 +1,4 @@
-Verrucaria nabelekii Servít SPECIES
-=======
+# Verrucaria nabelekii Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerophomina GENUS
-=======
+# Sclerophomina GENUS
 
 #### Status
 ACCEPTED

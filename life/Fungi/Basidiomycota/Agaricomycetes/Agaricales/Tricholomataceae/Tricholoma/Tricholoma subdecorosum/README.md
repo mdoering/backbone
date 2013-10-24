@@ -1,5 +1,4 @@
-Tricholoma subdecorosum (Murrill) Murrill SPECIES
-=======
+# Tricholoma subdecorosum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

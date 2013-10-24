@@ -1,5 +1,4 @@
-Ascobolus ferrugineus Ranalli & Forch. SPECIES
-=======
+# Ascobolus ferrugineus Ranalli & Forch. SPECIES
 
 #### Status
 ACCEPTED

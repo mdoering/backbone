@@ -1,5 +1,4 @@
-Didymosphaeria nana var. nana VARIETY
-=======
+# Didymosphaeria nana Rostr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Didymosphaeria nana var. nana
+Didymosphaeria nana Rostr.
 
 ### Remarks
 null

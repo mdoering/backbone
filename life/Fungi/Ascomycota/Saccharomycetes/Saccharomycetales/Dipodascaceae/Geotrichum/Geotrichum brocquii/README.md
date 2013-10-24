@@ -1,8 +1,7 @@
-Geotrichum brocqii (Beintema) Castell. & Jacono SPECIES
-=======
+# Geotrichum brocquii (Beintema) Castell. & Jacono SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

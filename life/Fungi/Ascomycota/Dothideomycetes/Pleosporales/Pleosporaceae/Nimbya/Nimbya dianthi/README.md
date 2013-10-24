@@ -1,5 +1,4 @@
-Nimbya dianthi T.Y. Zhang & G.Z. Zhao SPECIES
-=======
+# Nimbya dianthi T.Y. Zhang & G.Z. Zhao SPECIES
 
 #### Status
 ACCEPTED

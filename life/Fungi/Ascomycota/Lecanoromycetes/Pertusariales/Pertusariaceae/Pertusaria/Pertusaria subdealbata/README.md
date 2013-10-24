@@ -1,5 +1,4 @@
-Pertusaria subdealbata Nyl. SPECIES
-=======
+# Pertusaria subdealbata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia synedrellae Lagerh. SPECIES
-=======
+# Puccinia synedrellae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

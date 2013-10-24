@@ -1,5 +1,4 @@
-Ustilago valentula Syd. SPECIES
-=======
+# Ustilago valentula Syd. SPECIES
 
 #### Status
 ACCEPTED

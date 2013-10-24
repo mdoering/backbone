@@ -1,5 +1,4 @@
-Sphaeroplodia Petrak & Sydow, 1927 GENUS
-=======
+# Sphaeroplodia Petrak & Sydow, 1927 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena pseudopicta (J.E. Lange) Kühner SPECIES
-=======
+# Mycena pseudopicta (J.E. Lange) Kühner SPECIES
 
 #### Status
 ACCEPTED

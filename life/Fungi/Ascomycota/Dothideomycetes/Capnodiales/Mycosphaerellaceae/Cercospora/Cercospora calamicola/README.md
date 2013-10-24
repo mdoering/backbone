@@ -1,5 +1,4 @@
-Cercospora calamicola Henn. SPECIES
-=======
+# Cercospora calamicola Henn. SPECIES
 
 #### Status
 ACCEPTED

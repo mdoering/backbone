@@ -1,5 +1,4 @@
-Amanita marmorea Lam. SPECIES
-=======
+# Amanita marmorea Lam. SPECIES
 
 #### Status
 ACCEPTED

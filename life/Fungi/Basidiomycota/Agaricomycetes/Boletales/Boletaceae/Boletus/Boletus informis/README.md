@@ -1,5 +1,4 @@
-Boletus informis A. Cumino SPECIES
-=======
+# Boletus informis A. Cumino SPECIES
 
 #### Status
 ACCEPTED

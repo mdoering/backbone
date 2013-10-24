@@ -1,5 +1,4 @@
-Buellia scalpturata Vain. SPECIES
-=======
+# Buellia scalpturata Vain. SPECIES
 
 #### Status
 ACCEPTED

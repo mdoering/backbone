@@ -1,5 +1,4 @@
-Megalospora imshaugii Lücking SPECIES
-=======
+# Megalospora imshaugii Lücking SPECIES
 
 #### Status
 ACCEPTED

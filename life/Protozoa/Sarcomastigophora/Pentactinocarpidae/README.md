@@ -1,5 +1,4 @@
-Pentactinocarpidae Dumitrica, 1978 FAMILY
-=======
+# Pentactinocarpidae Dumitrica, 1978 FAMILY
 
 #### Status
 ACCEPTED

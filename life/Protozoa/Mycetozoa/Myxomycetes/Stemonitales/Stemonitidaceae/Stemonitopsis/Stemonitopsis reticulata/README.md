@@ -1,17 +1,16 @@
-Stemonitopsis reticulata var. macrospora Y. Yamam. VARIETY
-=======
+# Stemonitopsis reticulata (H.C. Gilbert) Nann.-Bremek. & Y. Yamam., 1995 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Myxomycete Biota of Japan (Tokyo) 634 (1998)
+in Yamamoto & Nannenga-Bremekamp, Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 98(3): 325 (1995)
 
 #### Original name
-Stemonitopsis reticulata var. macrospora Y. Yamam.
+Comatricha reticulata H.C. Gilbert, 1932
 
 ### Remarks
 null

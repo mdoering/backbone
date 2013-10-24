@@ -1,5 +1,4 @@
-Pertusaria siamensis Jariangpr. SPECIES
-=======
+# Pertusaria siamensis Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

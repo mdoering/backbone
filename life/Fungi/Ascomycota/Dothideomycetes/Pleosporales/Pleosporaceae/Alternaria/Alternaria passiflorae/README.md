@@ -1,5 +1,4 @@
-Alternaria passiflorae J.H. Simmonds, 1938 SPECIES
-=======
+# Alternaria passiflorae J.H. Simmonds, 1938 SPECIES
 
 #### Status
 ACCEPTED

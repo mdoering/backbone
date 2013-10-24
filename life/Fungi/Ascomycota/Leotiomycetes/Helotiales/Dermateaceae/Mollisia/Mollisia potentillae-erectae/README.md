@@ -1,5 +1,4 @@
-Mollisia potentillae-erectae Svrcek SPECIES
-=======
+# Mollisia potentillae-erectae Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptodinium eumorphum (Cookson & Eisenack, 1960) Sarjeant SPECIES
-=======
+# Leptodinium eumorphum (Cookson & Eisenack, 1960) Sarjeant SPECIES
 
 #### Status
 ACCEPTED

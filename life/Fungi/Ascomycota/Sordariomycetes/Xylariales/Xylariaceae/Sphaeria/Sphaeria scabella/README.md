@@ -1,5 +1,4 @@
-Sphaeria scabella Quél. SPECIES
-=======
+# Sphaeria scabella Quél. SPECIES
 
 #### Status
 ACCEPTED

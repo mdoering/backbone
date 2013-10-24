@@ -1,5 +1,4 @@
-Solenopezia darvazica Raitv. SPECIES
-=======
+# Solenopezia darvazica Raitv. SPECIES
 
 #### Status
 ACCEPTED

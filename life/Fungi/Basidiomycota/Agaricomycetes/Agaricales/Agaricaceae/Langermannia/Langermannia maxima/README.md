@@ -1,5 +1,4 @@
-Langermannia maxima (Schaeff.) Pázmány SPECIES
-=======
+# Langermannia maxima (Schaeff.) Pázmány SPECIES
 
 #### Status
 ACCEPTED

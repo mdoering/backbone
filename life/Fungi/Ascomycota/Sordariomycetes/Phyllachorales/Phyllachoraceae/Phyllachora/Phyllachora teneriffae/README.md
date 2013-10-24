@@ -1,5 +1,4 @@
-Phyllachora teneriffae Petr., 1948 SPECIES
-=======
+# Phyllachora teneriffae Petr., 1948 SPECIES
 
 #### Status
 ACCEPTED

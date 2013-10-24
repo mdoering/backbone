@@ -1,5 +1,4 @@
-Arthonia hawksworthii Halici SPECIES
-=======
+# Arthonia hawksworthii Halici SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thalloidima mammillare var. mammillare VARIETY
-=======
+# Toninia tumidula (Sm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 278 (1926)
 
 #### Original name
-Lichen mammillaris Gouan
+Lichen tumidulus Pers.
 
 ### Remarks
 null

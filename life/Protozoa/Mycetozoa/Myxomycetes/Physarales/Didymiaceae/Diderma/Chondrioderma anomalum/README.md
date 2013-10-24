@@ -1,5 +1,4 @@
-Chondrioderma anomalum Rostaf. SPECIES
-=======
+# Chondrioderma anomalum Rostaf. SPECIES
 
 #### Status
 ACCEPTED

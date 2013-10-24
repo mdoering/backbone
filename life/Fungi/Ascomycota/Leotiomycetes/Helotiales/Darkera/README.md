@@ -1,5 +1,4 @@
-Darkera H.S. Whitney, J. Reid & Piroz. GENUS
-=======
+# Darkera H.S. Whitney, J. Reid & Piroz. GENUS
 
 #### Status
 ACCEPTED

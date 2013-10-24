@@ -1,5 +1,4 @@
-Cortinarius nigrescens (Reumaux) Reumaux SPECIES
-=======
+# Cortinarius nigrescens (Reumaux) Reumaux SPECIES
 
 #### Status
 ACCEPTED

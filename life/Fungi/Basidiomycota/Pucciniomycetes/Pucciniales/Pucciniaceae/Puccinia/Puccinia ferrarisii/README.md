@@ -1,5 +1,4 @@
-Puccinia ferrarisii Lindr. SPECIES
-=======
+# Puccinia ferrarisii Lindr. SPECIES
 
 #### Status
 ACCEPTED

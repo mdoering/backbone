@@ -1,5 +1,4 @@
-Yuea chusqueicola O.E. Erikss., 2003 SPECIES
-=======
+# Yuea chusqueicola O.E. Erikss., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chnoospora bicanaliculata V. Krishnamurthy & Thomas SPECIES
-=======
+# Chnoospora bicanaliculata V. Krishnamurthy & Thomas SPECIES
 
 #### Status
 ACCEPTED

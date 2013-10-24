@@ -1,5 +1,4 @@
-Cyrtidula macrotheca Minks SPECIES
-=======
+# Cyrtidula macrotheca Minks SPECIES
 
 #### Status
 ACCEPTED

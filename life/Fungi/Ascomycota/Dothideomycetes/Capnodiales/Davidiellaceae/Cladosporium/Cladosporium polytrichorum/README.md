@@ -1,5 +1,4 @@
-Cladosporium polytrichorum Reichardt SPECIES
-=======
+# Cladosporium polytrichorum Reichardt SPECIES
 
 #### Status
 ACCEPTED

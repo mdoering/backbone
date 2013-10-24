@@ -1,5 +1,4 @@
-Pseudotasmanites V.V. Kirjanov, 1974 GENUS
-=======
+# Pseudotasmanites V.V. Kirjanov, 1974 GENUS
 
 #### Status
 ACCEPTED

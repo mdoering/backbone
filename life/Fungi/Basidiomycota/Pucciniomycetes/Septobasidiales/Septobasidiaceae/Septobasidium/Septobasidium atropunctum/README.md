@@ -1,5 +1,4 @@
-Septobasidium atropunctum Couch SPECIES
-=======
+# Septobasidium atropunctum Couch SPECIES
 
 #### Status
 ACCEPTED

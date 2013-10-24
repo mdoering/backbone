@@ -1,14 +1,13 @@
-Myrothecium gramineum Lib., 1837 SPECIES
-=======
+# Xepiculopsis graminea (Lib.) Nag Raj, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pl. crypt. Arduenna (Liège), fasc. 380 (1837)
+Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 984 (1993)
 
 #### Original name
 Myrothecium gramineum Lib., 1837

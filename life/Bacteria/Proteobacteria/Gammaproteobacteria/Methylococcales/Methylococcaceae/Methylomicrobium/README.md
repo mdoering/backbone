@@ -1,5 +1,4 @@
-Methylomicrobium Bowman et al., 1995 GENUS
-=======
+# Methylomicrobium Bowman et al., 1995 GENUS
 
 #### Status
 ACCEPTED

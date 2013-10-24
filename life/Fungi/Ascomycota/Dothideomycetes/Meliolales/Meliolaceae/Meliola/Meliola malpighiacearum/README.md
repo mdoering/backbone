@@ -1,5 +1,4 @@
-Meliola malpighiacearum Hansf. SPECIES
-=======
+# Meliola malpighiacearum Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microbacteriaceae FAMILY
-=======
+# Microbacteriaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe queletii Fr. SPECIES
-=======
+# Clitocybe queletii Fr. SPECIES
 
 #### Status
 ACCEPTED

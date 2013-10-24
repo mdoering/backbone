@@ -1,5 +1,4 @@
-Paenibacillus motobuensis Iida et al., 2005 SPECIES
-=======
+# Paenibacillus motobuensis Iida et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

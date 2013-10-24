@@ -1,5 +1,4 @@
-Aecidium pulmonariae Thüm. SPECIES
-=======
+# Aecidium pulmonariae Thüm. SPECIES
 
 #### Status
 ACCEPTED

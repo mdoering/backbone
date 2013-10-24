@@ -1,5 +1,4 @@
-Mucor petiolatus Gled. SPECIES
-=======
+# Mucor petiolatus Gled. SPECIES
 
 #### Status
 ACCEPTED

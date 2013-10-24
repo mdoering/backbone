@@ -1,5 +1,4 @@
-Hendersonia camelliae Pass. SPECIES
-=======
+# Hendersonia camelliae Pass. SPECIES
 
 #### Status
 ACCEPTED

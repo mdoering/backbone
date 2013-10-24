@@ -1,5 +1,4 @@
-Coccolithus doronicoides M. Black & B. Barnes SPECIES
-=======
+# Coccolithus doronicoides M. Black & B. Barnes SPECIES
 
 #### Status
 ACCEPTED

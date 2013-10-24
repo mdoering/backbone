@@ -1,5 +1,4 @@
-Platysma glomeruliferum (Hoffm.) Frege SPECIES
-=======
+# Platysma glomeruliferum (Hoffm.) Frege SPECIES
 
 #### Status
 ACCEPTED

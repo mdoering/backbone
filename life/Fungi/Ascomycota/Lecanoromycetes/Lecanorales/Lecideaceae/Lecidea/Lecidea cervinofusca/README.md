@@ -1,5 +1,4 @@
-Lecidea cervinofusca Nyl. SPECIES
-=======
+# Lecidea cervinofusca Nyl. SPECIES
 
 #### Status
 ACCEPTED

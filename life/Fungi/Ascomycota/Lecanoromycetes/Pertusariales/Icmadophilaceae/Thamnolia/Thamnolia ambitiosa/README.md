@@ -1,5 +1,4 @@
-Thamnolia ambitiosa (Darb.) Gyeln. SPECIES
-=======
+# Thamnolia ambitiosa (Darb.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

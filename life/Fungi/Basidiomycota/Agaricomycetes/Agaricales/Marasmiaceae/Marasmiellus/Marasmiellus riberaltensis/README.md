@@ -1,5 +1,4 @@
-Marasmiellus riberaltensis Singer SPECIES
-=======
+# Marasmiellus riberaltensis Singer SPECIES
 
 #### Status
 ACCEPTED

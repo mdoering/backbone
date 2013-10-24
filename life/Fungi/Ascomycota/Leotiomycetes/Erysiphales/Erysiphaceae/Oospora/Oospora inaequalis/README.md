@@ -1,5 +1,4 @@
-Oospora inaequalis Cooke & Massee SPECIES
-=======
+# Oospora inaequalis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

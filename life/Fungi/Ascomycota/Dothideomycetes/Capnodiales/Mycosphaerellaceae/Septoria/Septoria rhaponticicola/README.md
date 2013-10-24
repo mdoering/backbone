@@ -1,5 +1,4 @@
-Septoria rhaponticicola Jenkina SPECIES
-=======
+# Septoria rhaponticicola Jenkina SPECIES
 
 #### Status
 ACCEPTED

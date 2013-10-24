@@ -1,5 +1,4 @@
-Karoowia microscopica Hale SPECIES
-=======
+# Karoowia microscopica Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypodendrum angustipes (Peck) Overh. SPECIES
-=======
+# Hypodendrum angustipes (Peck) Overh. SPECIES
 
 #### Status
 ACCEPTED

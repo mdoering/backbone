@@ -1,17 +1,16 @@
-Panus sprucei Berk., 1856 SPECIES
-=======
+# Resupinatus dealbatus (Berk.) Singer, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. Kew Gard. Misc. 8: 142 (1856)
+Beih. Sydowia 7: 30 (1973)
 
 #### Original name
-Panus sprucei Berk., 1856
+Panus dealbatus Berk., 1847
 
 ### Remarks
 null

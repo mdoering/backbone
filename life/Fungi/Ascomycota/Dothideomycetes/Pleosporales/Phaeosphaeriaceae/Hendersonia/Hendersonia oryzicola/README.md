@@ -1,17 +1,16 @@
-Hendersonia oryzacola Hara SPECIES
-=======
+# Hendersonia oryzicola Hara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Diseases of the Rice Plant (Japan) 183 (1918)
 
 #### Original name
-Hendersonia oryzacola Hara
+Hendersonia oryzicola Hara
 
 ### Remarks
 null

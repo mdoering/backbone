@@ -1,5 +1,4 @@
-Emticicia Saha & Chakrabarti, 2006 GENUS
-=======
+# Emticicia Saha & Chakrabarti, 2006 GENUS
 
 #### Status
 ACCEPTED

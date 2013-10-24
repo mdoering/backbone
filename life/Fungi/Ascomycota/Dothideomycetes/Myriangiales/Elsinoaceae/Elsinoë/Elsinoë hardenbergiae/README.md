@@ -1,5 +1,4 @@
-Elsinoë hardenbergiae J. Walker SPECIES
-=======
+# Elsinoë hardenbergiae J. Walker SPECIES
 
 #### Status
 ACCEPTED

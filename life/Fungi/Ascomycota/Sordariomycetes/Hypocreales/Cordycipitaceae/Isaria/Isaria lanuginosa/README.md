@@ -1,5 +1,4 @@
-Isaria lanuginosa Petch SPECIES
-=======
+# Isaria lanuginosa Petch SPECIES
 
 #### Status
 ACCEPTED

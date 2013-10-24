@@ -1,5 +1,4 @@
-Poria taxodium D.V. Baxter SPECIES
-=======
+# Poria taxodium D.V. Baxter SPECIES
 
 #### Status
 ACCEPTED

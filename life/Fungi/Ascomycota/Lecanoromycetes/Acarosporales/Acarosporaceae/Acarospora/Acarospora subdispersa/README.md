@@ -1,5 +1,4 @@
-Acarospora subdispersa H. Magn. SPECIES
-=======
+# Acarospora subdispersa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

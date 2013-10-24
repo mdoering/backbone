@@ -1,5 +1,4 @@
-Martinsphaeridium listeri (Smelror, 1986) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Martinsphaeridium listeri (Smelror, 1986) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

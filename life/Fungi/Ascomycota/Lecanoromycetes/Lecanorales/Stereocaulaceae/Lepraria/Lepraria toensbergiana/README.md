@@ -1,5 +1,4 @@
-Lepraria toensbergiana Bayerova & Kukwa SPECIES
-=======
+# Lepraria toensbergiana Bayerova & Kukwa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma ribicola Ellis & Everh. SPECIES
-=======
+# Asteroma ribicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

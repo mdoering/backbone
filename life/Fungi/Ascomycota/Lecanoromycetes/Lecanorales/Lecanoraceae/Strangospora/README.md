@@ -1,5 +1,4 @@
-Strangospora Körb. GENUS
-=======
+# Strangospora Körb. GENUS
 
 #### Status
 ACCEPTED

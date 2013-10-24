@@ -1,5 +1,4 @@
-Hyalinia dilutella var. dilutella VARIETY
-=======
+# Hyalinia dilutella (Fr.) Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Hyalinia dilutella var. dilutella
+null
 
 ### Remarks
 null

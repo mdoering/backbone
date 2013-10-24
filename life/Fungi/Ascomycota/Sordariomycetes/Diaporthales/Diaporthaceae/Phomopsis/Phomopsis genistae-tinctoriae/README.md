@@ -1,5 +1,4 @@
-Phomopsis genistae-tinctoriae Petr. SPECIES
-=======
+# Phomopsis genistae-tinctoriae Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylella aphrobrocha Drechsler SPECIES
-=======
+# Dactylella aphrobrocha Drechsler SPECIES
 
 #### Status
 ACCEPTED

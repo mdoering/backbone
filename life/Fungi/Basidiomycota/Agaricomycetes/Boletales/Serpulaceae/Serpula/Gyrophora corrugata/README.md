@@ -1,5 +1,4 @@
-Gyrophora corrugata (Hoffm.) Flörke SPECIES
-=======
+# Gyrophora corrugata (Hoffm.) Flörke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium microdium (Nyl.) Zahlbr. SPECIES
-=======
+# Leptogium microdium (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

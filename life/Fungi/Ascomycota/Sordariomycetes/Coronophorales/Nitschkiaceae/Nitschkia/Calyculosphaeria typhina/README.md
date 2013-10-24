@@ -1,5 +1,4 @@
-Calyculosphaeria typhina Petr. SPECIES
-=======
+# Calyculosphaeria typhina Petr. SPECIES
 
 #### Status
 ACCEPTED

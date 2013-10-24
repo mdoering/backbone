@@ -1,5 +1,4 @@
-Henningsomyces populicola (Pat.) Kuntze SPECIES
-=======
+# Henningsomyces populicola (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

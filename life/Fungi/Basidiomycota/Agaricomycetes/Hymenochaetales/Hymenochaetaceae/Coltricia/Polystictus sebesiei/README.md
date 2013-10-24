@@ -1,5 +1,4 @@
-Polystictus sebesiei Lloyd SPECIES
-=======
+# Polystictus sebesiei Lloyd SPECIES
 
 #### Status
 ACCEPTED

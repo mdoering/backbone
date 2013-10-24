@@ -1,5 +1,4 @@
-Trichophyton ochoterenai (Cif.) Nann., 1934 SPECIES
-=======
+# Trichophyton ochoterenai (Cif.) Nann., 1934 SPECIES
 
 #### Status
 ACCEPTED

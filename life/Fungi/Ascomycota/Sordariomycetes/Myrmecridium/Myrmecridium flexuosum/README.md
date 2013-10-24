@@ -1,14 +1,13 @@
-Ramichloridium schulzeri var. flexuosum de Hoog, 1977 VARIETY
-=======
+# Myrmecridium flexuosum (de Hoog) Arzanlou, W. Gams & Crous, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 15: 67 (1977)
+in Arzanlou, Groenewald, Gams, Braun, Shin & Crous, Stud. Mycol. 58: 84 (2007)
 
 #### Original name
 Ramichloridium schulzeri var. flexuosum de Hoog, 1977

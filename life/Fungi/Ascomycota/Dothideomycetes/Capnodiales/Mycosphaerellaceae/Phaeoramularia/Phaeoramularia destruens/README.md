@@ -1,5 +1,4 @@
-Phaeoramularia destruens F. Anderson, Delhey & U. Braun SPECIES
-=======
+# Phaeoramularia destruens F. Anderson, Delhey & U. Braun SPECIES
 
 #### Status
 ACCEPTED

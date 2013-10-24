@@ -1,5 +1,4 @@
-Heterorhabdus primitivus Perch-Nielsen, 1973 SPECIES
-=======
+# Heterorhabdus primitivus Perch-Nielsen, 1973 SPECIES
 
 #### Status
 ACCEPTED

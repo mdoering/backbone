@@ -1,5 +1,4 @@
-Streblopyle Haeckel, 1887 GENUS
-=======
+# Streblopyle Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

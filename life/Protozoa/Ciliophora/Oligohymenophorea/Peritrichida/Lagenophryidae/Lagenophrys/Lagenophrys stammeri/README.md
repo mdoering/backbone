@@ -1,5 +1,4 @@
-Lagenophrys stammeri Lust, 1950 SPECIES
-=======
+# Lagenophrys stammeri Lust, 1950 SPECIES
 
 #### Status
 ACCEPTED

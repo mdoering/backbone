@@ -1,5 +1,4 @@
-Jongiella GENUS
-=======
+# Jongiella GENUS
 
 #### Status
 ACCEPTED

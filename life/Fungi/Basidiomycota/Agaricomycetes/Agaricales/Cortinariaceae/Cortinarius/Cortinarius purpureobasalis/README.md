@@ -1,5 +1,4 @@
-Cortinarius purpureobasalis Bidaud SPECIES
-=======
+# Cortinarius purpureobasalis Bidaud SPECIES
 
 #### Status
 ACCEPTED

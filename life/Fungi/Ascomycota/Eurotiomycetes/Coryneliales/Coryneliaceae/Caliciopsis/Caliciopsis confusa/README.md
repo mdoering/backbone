@@ -1,5 +1,4 @@
-Caliciopsis confusa Bat. SPECIES
-=======
+# Caliciopsis confusa Bat. SPECIES
 
 #### Status
 ACCEPTED

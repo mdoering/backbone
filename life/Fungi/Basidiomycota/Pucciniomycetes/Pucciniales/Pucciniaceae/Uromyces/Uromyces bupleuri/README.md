@@ -1,5 +1,4 @@
-Uromyces bupleuri Magnus SPECIES
-=======
+# Uromyces bupleuri Magnus SPECIES
 
 #### Status
 ACCEPTED

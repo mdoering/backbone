@@ -1,5 +1,4 @@
-Dicaeoma suffultum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma suffultum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

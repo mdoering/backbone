@@ -1,5 +1,4 @@
-Mycena manipularis var. manipularis VARIETY
-=======
+# Mycena manipularis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 272 (1887)
 
 #### Original name
-Mycena manipularis var. manipularis
+Favolus manipularis Berk.
 
 ### Remarks
 null

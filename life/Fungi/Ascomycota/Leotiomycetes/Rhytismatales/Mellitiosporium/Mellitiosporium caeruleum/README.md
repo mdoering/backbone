@@ -1,8 +1,7 @@
-Melittosporium caeruleum Rehm SPECIES
-=======
+# Mellitiosporium caeruleum Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melittosporium caeruleum Rehm
+Mellitiosporium caeruleum Rehm
 
 ### Remarks
 null

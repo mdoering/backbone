@@ -1,5 +1,4 @@
-Psorotichia myriospora Zahlbr. SPECIES
-=======
+# Psorotichia myriospora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterographa galactina (Zahlbr.) Redinger SPECIES
-=======
+# Enterographa galactina (Zahlbr.) Redinger SPECIES
 
 #### Status
 ACCEPTED

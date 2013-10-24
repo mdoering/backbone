@@ -1,5 +1,4 @@
-Sepedonium bartayrezianum Brond. SPECIES
-=======
+# Sepedonium bartayrezianum Brond. SPECIES
 
 #### Status
 ACCEPTED

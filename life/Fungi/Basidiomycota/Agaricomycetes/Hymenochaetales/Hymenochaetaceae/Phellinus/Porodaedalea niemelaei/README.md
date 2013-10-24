@@ -1,17 +1,16 @@
-Phellinus niemelaei (M. Fisch.) Zmitr., Malysheva & Spirin, 2006 SPECIES
-=======
+# Porodaedalea niemelaei M. Fisch., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Karstenia 40(1-2): 46 (2000)
 
 #### Original name
-null
+Porodaedalea niemelaei M. Fisch., 2000
 
 ### Remarks
 null

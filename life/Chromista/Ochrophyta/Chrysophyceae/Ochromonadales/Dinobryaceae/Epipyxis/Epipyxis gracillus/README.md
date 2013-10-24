@@ -1,5 +1,4 @@
-Epipyxis gracillus Hilliard SPECIES
-=======
+# Epipyxis gracillus Hilliard SPECIES
 
 #### Status
 ACCEPTED

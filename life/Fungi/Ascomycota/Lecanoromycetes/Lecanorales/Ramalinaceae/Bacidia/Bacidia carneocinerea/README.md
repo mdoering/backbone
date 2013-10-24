@@ -1,5 +1,4 @@
-Bacidia carneocinerea Vain. SPECIES
-=======
+# Bacidia carneocinerea Vain. SPECIES
 
 #### Status
 ACCEPTED

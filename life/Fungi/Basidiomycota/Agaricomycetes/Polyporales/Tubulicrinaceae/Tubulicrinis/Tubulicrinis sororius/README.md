@@ -1,17 +1,16 @@
-Peniophora juniperina f. juniperina FORM
-=======
+# Tubulicrinis sororius (Bourdot & Galzin) Oberw., 1966 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 289 (1928)
+Z. Pilzk. 31(1-2): 23 (1966)
 
 #### Original name
-Peniophora juniperina f. juniperina
+Peniophora glebulosa subsp. sororia Bourdot & Galzin
 
 ### Remarks
 null

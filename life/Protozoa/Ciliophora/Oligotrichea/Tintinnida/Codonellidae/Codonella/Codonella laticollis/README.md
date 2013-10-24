@@ -1,5 +1,4 @@
-Codonella laticollis (Daday, 1887) ? SPECIES
-=======
+# Codonella laticollis (Daday, 1887) ? SPECIES
 
 #### Status
 ACCEPTED

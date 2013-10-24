@@ -1,5 +1,4 @@
-Pseudomycena rosella Velen. SPECIES
-=======
+# Pseudomycena rosella Velen. SPECIES
 
 #### Status
 ACCEPTED

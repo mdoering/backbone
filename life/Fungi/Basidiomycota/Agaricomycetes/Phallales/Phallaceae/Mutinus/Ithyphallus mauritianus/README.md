@@ -1,5 +1,4 @@
-Ithyphallus mauritianus (Lloyd) Sacc. & Traverso SPECIES
-=======
+# Ithyphallus mauritianus (Lloyd) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

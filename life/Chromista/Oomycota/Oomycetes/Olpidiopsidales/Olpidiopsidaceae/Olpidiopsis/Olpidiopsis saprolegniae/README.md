@@ -1,17 +1,16 @@
-Olpidiopsis saprolegniae var. indica Dayal & J. Thakur, 1969 VARIETY
-=======
+# Olpidiopsis saprolegniae Cornu, 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 22(1-4): 280 (1969)
+Monogr. Saprolegn. 127 (1872)
 
 #### Original name
-Olpidiopsis saprolegniae var. indica Dayal & J. Thakur, 1969
+Olpidiopsis saprolegniae Cornu, 1872
 
 ### Remarks
 null

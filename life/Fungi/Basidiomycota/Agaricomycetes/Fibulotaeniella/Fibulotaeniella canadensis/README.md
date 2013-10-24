@@ -1,5 +1,4 @@
-Fibulotaeniella canadensis Marvanová & Bärl., 1988 SPECIES
-=======
+# Fibulotaeniella canadensis Marvanová & Bärl., 1988 SPECIES
 
 #### Status
 ACCEPTED

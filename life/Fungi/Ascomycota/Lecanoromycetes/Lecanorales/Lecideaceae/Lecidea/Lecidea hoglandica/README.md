@@ -1,5 +1,4 @@
-Lecidea hoglandica Nyl. SPECIES
-=======
+# Lecidea hoglandica Nyl. SPECIES
 
 #### Status
 ACCEPTED

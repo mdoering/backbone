@@ -1,5 +1,4 @@
-Rinodina radiata Tuck. SPECIES
-=======
+# Rinodina radiata Tuck. SPECIES
 
 #### Status
 ACCEPTED

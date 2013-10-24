@@ -1,5 +1,4 @@
-Morenoella gedeana Racib. SPECIES
-=======
+# Morenoella gedeana Racib. SPECIES
 
 #### Status
 ACCEPTED

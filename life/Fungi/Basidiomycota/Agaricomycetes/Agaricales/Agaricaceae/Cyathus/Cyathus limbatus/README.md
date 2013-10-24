@@ -1,5 +1,4 @@
-Cyathus limbatus Tul. & C. Tul., 1844 SPECIES
-=======
+# Cyathus limbatus Tul. & C. Tul., 1844 SPECIES
 
 #### Status
 ACCEPTED

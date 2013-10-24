@@ -1,5 +1,4 @@
-Meliola ardisiae Syd. SPECIES
-=======
+# Meliola ardisiae Syd. SPECIES
 
 #### Status
 ACCEPTED

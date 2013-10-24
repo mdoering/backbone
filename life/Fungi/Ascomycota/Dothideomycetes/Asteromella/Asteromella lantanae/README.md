@@ -1,5 +1,4 @@
-Asteromella lantanae Petr. SPECIES
-=======
+# Asteromella lantanae Petr. SPECIES
 
 #### Status
 ACCEPTED

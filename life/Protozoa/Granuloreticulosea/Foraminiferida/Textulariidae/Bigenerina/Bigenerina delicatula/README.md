@@ -1,5 +1,4 @@
-Bigenerina delicatula Cushman & Kellett SPECIES
-=======
+# Bigenerina delicatula Cushman & Kellett SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe bicolor Watling SPECIES
-=======
+# Conocybe bicolor Watling SPECIES
 
 #### Status
 ACCEPTED

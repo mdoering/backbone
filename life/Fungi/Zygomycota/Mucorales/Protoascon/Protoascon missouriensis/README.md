@@ -1,5 +1,4 @@
-Protoascon missouriensis L.R. Batra, Segal & R.W. Baxter SPECIES
-=======
+# Protoascon missouriensis L.R. Batra, Segal & R.W. Baxter SPECIES
 
 #### Status
 ACCEPTED

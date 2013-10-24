@@ -1,5 +1,4 @@
-Calicium affine (A. Massal.) Arnold SPECIES
-=======
+# Calicium affine (A. Massal.) Arnold SPECIES
 
 #### Status
 ACCEPTED

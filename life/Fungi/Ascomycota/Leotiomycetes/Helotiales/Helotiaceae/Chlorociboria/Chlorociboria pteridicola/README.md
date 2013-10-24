@@ -1,5 +1,4 @@
-Chlorociboria pteridicola Dougoud SPECIES
-=======
+# Chlorociboria pteridicola Dougoud SPECIES
 
 #### Status
 ACCEPTED

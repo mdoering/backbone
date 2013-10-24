@@ -1,5 +1,4 @@
-Penicillium chloroleucon Biourge SPECIES
-=======
+# Penicillium chloroleucon Biourge SPECIES
 
 #### Status
 ACCEPTED

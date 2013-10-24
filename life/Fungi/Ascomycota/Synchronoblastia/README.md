@@ -1,5 +1,4 @@
-Synchronoblastia Uecker & F.L. Caruso GENUS
-=======
+# Synchronoblastia Uecker & F.L. Caruso GENUS
 
 #### Status
 ACCEPTED

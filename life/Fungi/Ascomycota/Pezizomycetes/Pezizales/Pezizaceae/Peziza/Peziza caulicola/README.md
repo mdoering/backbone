@@ -1,17 +1,16 @@
-Peziza caulicola var. caulicola VARIETY
-=======
+# Peziza caulicola ß caulicola Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(1): 94 (1822)
 
 #### Original name
-null
+Peziza caulicola ß caulicola Fr.
 
 ### Remarks
 null

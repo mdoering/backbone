@@ -1,5 +1,4 @@
-Uredo scheffleri Syd. & P. Syd. SPECIES
-=======
+# Uredo scheffleri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola roureae var. roureae VARIETY
-=======
+# Meliola roureae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 15(3/4): 191 (1917)
 
 #### Original name
-Meliola roureae var. roureae
+Meliola roureae Syd. & P. Syd.
 
 ### Remarks
 null

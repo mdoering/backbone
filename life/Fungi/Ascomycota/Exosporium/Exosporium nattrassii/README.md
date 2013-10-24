@@ -1,5 +1,4 @@
-Exosporium nattrassii M.B. Ellis SPECIES
-=======
+# Exosporium nattrassii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo byttneriae Vienn.-Bourg. SPECIES
-=======
+# Uredo byttneriae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

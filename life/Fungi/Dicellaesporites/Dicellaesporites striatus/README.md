@@ -1,5 +1,4 @@
-Dicellaesporites striatus P. Ke & Z.Y. Shi SPECIES
-=======
+# Dicellaesporites striatus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

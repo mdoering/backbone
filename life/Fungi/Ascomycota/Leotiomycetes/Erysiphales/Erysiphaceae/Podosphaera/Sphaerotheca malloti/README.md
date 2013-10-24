@@ -1,5 +1,4 @@
-Sphaerotheca malloti Z.Y. Zhao SPECIES
-=======
+# Sphaerotheca malloti Z.Y. Zhao SPECIES
 
 #### Status
 ACCEPTED

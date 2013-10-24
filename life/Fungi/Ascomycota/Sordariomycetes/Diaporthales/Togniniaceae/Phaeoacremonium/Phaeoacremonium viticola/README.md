@@ -1,17 +1,16 @@
-Togninia viticola L. Mostert, W. Gams & Crous, 2006 SPECIES
-=======
+# Phaeoacremonium viticola J. Dupont, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Mostert, Groenewald, Summerbell, Gams & Crous, Stud. Mycol. 54: 67 (2006)
+in Dupont, Laloui, Magnin, Larignon & Roquebert, Mycologia 92(3): 502 (2000)
 
 #### Original name
-Togninia viticola L. Mostert, W. Gams & Crous, 2006
+Phaeoacremonium viticola J. Dupont, 2000
 
 ### Remarks
 null

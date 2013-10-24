@@ -1,5 +1,4 @@
-Zignoëlla ramenticola Schulzer & Sacc. SPECIES
-=======
+# Zignoëlla ramenticola Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phallus rugulosus Lloyd SPECIES
-=======
+# Phallus rugulosus Lloyd SPECIES
 
 #### Status
 ACCEPTED

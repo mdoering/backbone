@@ -1,5 +1,4 @@
-Xenosporium mirabile Penz. & Sacc., 1901 SPECIES
-=======
+# Xenosporium mirabile Penz. & Sacc., 1901 SPECIES
 
 #### Status
 ACCEPTED

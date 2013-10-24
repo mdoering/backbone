@@ -1,5 +1,4 @@
-Stereocaulon dendroides Asahina SPECIES
-=======
+# Stereocaulon dendroides Asahina SPECIES
 
 #### Status
 ACCEPTED

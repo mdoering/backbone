@@ -1,5 +1,4 @@
-Collematospora venezuelensis Jeng & Cain, 1976 SPECIES
-=======
+# Collematospora venezuelensis Jeng & Cain, 1976 SPECIES
 
 #### Status
 ACCEPTED

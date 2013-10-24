@@ -1,5 +1,4 @@
-Vavososphaeridium reticulatum Salujha, Rehman & Arora, 1972 SPECIES
-=======
+# Vavososphaeridium reticulatum Salujha, Rehman & Arora, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenochaete sordida Speg., 1926 SPECIES
-=======
+# Hymenochaete sordida Speg., 1926 SPECIES
 
 #### Status
 ACCEPTED

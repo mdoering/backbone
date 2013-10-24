@@ -1,5 +1,4 @@
-Ptychographa xylographoides Nyl. SPECIES
-=======
+# Ptychographa xylographoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

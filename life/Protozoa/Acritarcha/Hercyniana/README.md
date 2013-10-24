@@ -1,5 +1,4 @@
-Hercyniana Burmann, 1976 GENUS
-=======
+# Hercyniana Burmann, 1976 GENUS
 
 #### Status
 ACCEPTED

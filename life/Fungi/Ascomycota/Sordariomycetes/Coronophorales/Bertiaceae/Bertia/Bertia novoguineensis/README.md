@@ -1,5 +1,4 @@
-Bertia novoguineensis Henn. SPECIES
-=======
+# Bertia novoguineensis Henn. SPECIES
 
 #### Status
 ACCEPTED

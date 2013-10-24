@@ -1,5 +1,4 @@
-Phoma callospora Peck & Clinton SPECIES
-=======
+# Phoma callospora Peck & Clinton SPECIES
 
 #### Status
 ACCEPTED

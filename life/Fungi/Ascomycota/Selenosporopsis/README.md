@@ -1,5 +1,4 @@
-Selenosporopsis R.F. Castañeda & W.B. Kendr. GENUS
-=======
+# Selenosporopsis R.F. Castañeda & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

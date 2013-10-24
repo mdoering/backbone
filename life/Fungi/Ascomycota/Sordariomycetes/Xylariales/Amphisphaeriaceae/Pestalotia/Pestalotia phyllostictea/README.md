@@ -1,5 +1,4 @@
-Pestalotia phyllostictea Sacc. SPECIES
-=======
+# Pestalotia phyllostictea Sacc. SPECIES
 
 #### Status
 ACCEPTED

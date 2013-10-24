@@ -1,5 +1,4 @@
-Myxomycetes G. Winter CLASS
-=======
+# Myxomycetes G. Winter CLASS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coenogonium subsquamosum (Aptroot & Seaward) Lücking, Aptroot & Sipman SPECIES
-=======
+# Coenogonium subsquamosum (Aptroot & Seaward) Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

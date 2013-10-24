@@ -1,5 +1,4 @@
-Myriangium kamatii Tend. SPECIES
-=======
+# Myriangium kamatii Tend. SPECIES
 
 #### Status
 ACCEPTED

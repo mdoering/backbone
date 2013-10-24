@@ -1,5 +1,4 @@
-Gloeosporium morianum Sacc. SPECIES
-=======
+# Gloeosporium morianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

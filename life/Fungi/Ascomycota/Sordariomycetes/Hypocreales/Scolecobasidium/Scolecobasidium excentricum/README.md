@@ -1,5 +1,4 @@
-Scolecobasidium excentricum R.F. Castañeda, W. Gams & Saikawa, 1997 SPECIES
-=======
+# Scolecobasidium excentricum R.F. Castañeda, W. Gams & Saikawa, 1997 SPECIES
 
 #### Status
 ACCEPTED

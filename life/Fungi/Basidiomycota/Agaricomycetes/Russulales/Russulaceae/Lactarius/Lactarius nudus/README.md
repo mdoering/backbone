@@ -1,5 +1,4 @@
-Lactarius nudus R. Heim SPECIES
-=======
+# Lactarius nudus R. Heim SPECIES
 
 #### Status
 ACCEPTED

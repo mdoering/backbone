@@ -1,5 +1,4 @@
-Rotelapillus radians Noël, 1973 SPECIES
-=======
+# Rotelapillus radians Noël, 1973 SPECIES
 
 #### Status
 ACCEPTED

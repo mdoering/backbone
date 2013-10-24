@@ -1,5 +1,4 @@
-Lobaria orbicularis (Baumg.) Hoffm. SPECIES
-=======
+# Lobaria orbicularis (Baumg.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium schlechterianum Henn. SPECIES
-=======
+# Aecidium schlechterianum Henn. SPECIES
 
 #### Status
 ACCEPTED

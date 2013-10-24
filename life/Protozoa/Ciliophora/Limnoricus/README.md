@@ -1,5 +1,4 @@
-Limnoricus Jankowski, 1981 GENUS
-=======
+# Limnoricus Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

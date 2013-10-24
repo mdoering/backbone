@@ -1,5 +1,4 @@
-Mycoplasma penetrans Lo et al., 1992 SPECIES
-=======
+# Mycoplasma penetrans Lo et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

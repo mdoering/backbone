@@ -1,5 +1,4 @@
-Keithia chamaecyparissi J.F. Adams SPECIES
-=======
+# Keithia chamaecyparissi J.F. Adams SPECIES
 
 #### Status
 ACCEPTED

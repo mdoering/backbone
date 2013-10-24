@@ -1,14 +1,13 @@
-Scenidium umbrinellum (Fr.) Kuntze, 1898 SPECIES
-=======
+# Hexagonia umbrinella Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 516 (1898)
+Summa veg. Scand. (Stockholm), Section Post. 137 (1849)
 
 #### Original name
 Hexagonia umbrinella Fr., 1849

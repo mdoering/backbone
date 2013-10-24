@@ -1,5 +1,4 @@
-Ramularia artenii Sacc. SPECIES
-=======
+# Ramularia artenii Sacc. SPECIES
 
 #### Status
 ACCEPTED

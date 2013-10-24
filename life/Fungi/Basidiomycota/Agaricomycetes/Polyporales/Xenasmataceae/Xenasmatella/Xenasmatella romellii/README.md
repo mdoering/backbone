@@ -1,14 +1,13 @@
-Phlebiella romellii (Hjortstam) K.H. Larss. & Hjortstam, 1987 SPECIES
-=======
+# Xenasmatella romellii Hjortstam, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hjortstam & Larsson, Mycotaxon 29: 317 (1987)
+Mycotaxon 17: 582 (1983)
 
 #### Original name
 Xenasmatella romellii Hjortstam, 1983

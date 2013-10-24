@@ -1,5 +1,4 @@
-Hydnum humidum Banker SPECIES
-=======
+# Hydnum humidum Banker SPECIES
 
 #### Status
 ACCEPTED

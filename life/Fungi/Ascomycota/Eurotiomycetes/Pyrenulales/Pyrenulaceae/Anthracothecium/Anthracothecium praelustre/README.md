@@ -1,5 +1,4 @@
-Anthracothecium praelustre (Kremp.) Müll. Arg. SPECIES
-=======
+# Anthracothecium praelustre (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

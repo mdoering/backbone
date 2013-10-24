@@ -1,5 +1,4 @@
-Hystrichosphaeridium vitile Andreeva, 1966 SPECIES
-=======
+# Hystrichosphaeridium vitile Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

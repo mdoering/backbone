@@ -1,5 +1,4 @@
-Pleosphaerulina cannabina Gutner SPECIES
-=======
+# Pleosphaerulina cannabina Gutner SPECIES
 
 #### Status
 ACCEPTED

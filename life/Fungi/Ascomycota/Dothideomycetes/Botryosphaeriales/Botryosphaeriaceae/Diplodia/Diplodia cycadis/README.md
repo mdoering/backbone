@@ -1,5 +1,4 @@
-Diplodia cycadis I. Hino & Katum. SPECIES
-=======
+# Diplodia cycadis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype valdiviensis Speg. SPECIES
-=======
+# Diatrype valdiviensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cintractia uljanishcheviana Schwarzman, 1960 SPECIES
-=======
+# Portalia uljanishcheviana (Schwarzman) V. González, Vánky & G. Platas, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora Sporovykh Rastenii Kazakhstana (Alma-Ata) 2: 162 (1960)
+Fungal Diversity 27(1): 54 (2007)
 
 #### Original name
 Cintractia uljanishcheviana Schwarzman, 1960

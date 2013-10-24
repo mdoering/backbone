@@ -1,5 +1,4 @@
-Valsa cooperta Cooke SPECIES
-=======
+# Valsa cooperta Cooke SPECIES
 
 #### Status
 ACCEPTED

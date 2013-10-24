@@ -1,5 +1,4 @@
-Lecidea straminescens Nyl. SPECIES
-=======
+# Lecidea straminescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

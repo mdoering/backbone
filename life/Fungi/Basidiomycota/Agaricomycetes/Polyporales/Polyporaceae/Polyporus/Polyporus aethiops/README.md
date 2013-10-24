@@ -1,5 +1,4 @@
-Polyporus aethiops Cooke SPECIES
-=======
+# Polyporus aethiops Cooke SPECIES
 
 #### Status
 ACCEPTED

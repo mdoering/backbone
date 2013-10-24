@@ -1,5 +1,4 @@
-Littispora J. Campb., J.L. Anderson & Shearer GENUS
-=======
+# Littispora J. Campb., J.L. Anderson & Shearer GENUS
 
 #### Status
 ACCEPTED

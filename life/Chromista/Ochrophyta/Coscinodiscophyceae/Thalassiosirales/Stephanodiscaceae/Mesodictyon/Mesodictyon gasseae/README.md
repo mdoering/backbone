@@ -1,5 +1,4 @@
-Mesodictyon gasseae K. K. Serieyssol & E. Theriot SPECIES
-=======
+# Mesodictyon gasseae K. K. Serieyssol & E. Theriot SPECIES
 
 #### Status
 ACCEPTED

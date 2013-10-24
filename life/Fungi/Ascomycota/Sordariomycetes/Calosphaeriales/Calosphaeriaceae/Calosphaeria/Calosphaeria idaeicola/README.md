@@ -1,5 +1,4 @@
-Calosphaeria idaeicola P. Karst. SPECIES
-=======
+# Calosphaeria idaeicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

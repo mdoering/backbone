@@ -1,5 +1,4 @@
-Puccinia miyoshiana Dietel SPECIES
-=======
+# Puccinia miyoshiana Dietel SPECIES
 
 #### Status
 ACCEPTED

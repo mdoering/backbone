@@ -1,14 +1,13 @@
-Lopadium subcoerulescens Zahlbr. SPECIES
-=======
+# Calopadia subcoerulescens (Zahlbr.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. New Zealand Inst. 59: 312 (1928)
+Lichenes Selecti Exsiccati (Pruhonice), Fascicle <b>88</b> (nos 2176-2200) 88: 3, no. 2185 (1988)
 
 #### Original name
 Lopadium subcoerulescens Zahlbr.

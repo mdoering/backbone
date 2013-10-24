@@ -1,8 +1,7 @@
-Hartmannella hibernica Page, 1980 SPECIES
-=======
+# Nolandella hibernica (Page, 1980) Page, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

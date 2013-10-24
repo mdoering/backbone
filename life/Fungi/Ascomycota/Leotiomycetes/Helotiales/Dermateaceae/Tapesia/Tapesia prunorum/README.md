@@ -1,5 +1,4 @@
-Tapesia prunorum (Fr.) Fuckel SPECIES
-=======
+# Tapesia prunorum (Fr.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

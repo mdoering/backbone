@@ -1,5 +1,4 @@
-Phragmoporthe pseudotsugae A. Funk SPECIES
-=======
+# Phragmoporthe pseudotsugae A. Funk SPECIES
 
 #### Status
 ACCEPTED

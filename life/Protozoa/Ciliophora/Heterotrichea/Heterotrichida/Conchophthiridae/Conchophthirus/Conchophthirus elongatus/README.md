@@ -1,5 +1,4 @@
-Conchophthirus elongatus Ghosh, 1918 SPECIES
-=======
+# Conchophthirus elongatus Ghosh, 1918 SPECIES
 
 #### Status
 ACCEPTED

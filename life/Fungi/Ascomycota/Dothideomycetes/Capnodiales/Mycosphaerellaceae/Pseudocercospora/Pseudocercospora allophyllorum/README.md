@@ -1,5 +1,4 @@
-Pseudocercospora allophyllorum (A.K. Kar & M. Mandal) Bagyan., U. Braun & Jagad. SPECIES
-=======
+# Pseudocercospora allophyllorum (A.K. Kar & M. Mandal) Bagyan., U. Braun & Jagad. SPECIES
 
 #### Status
 ACCEPTED

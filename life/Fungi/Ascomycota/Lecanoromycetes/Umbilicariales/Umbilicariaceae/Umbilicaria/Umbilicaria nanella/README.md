@@ -1,5 +1,4 @@
-Umbilicaria nanella Frey & Poelt SPECIES
-=======
+# Umbilicaria nanella Frey & Poelt SPECIES
 
 #### Status
 ACCEPTED

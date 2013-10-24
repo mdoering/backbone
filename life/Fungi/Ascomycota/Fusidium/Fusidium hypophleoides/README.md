@@ -1,5 +1,4 @@
-Fusidium hypophleoides Corda SPECIES
-=======
+# Fusidium hypophleoides Corda SPECIES
 
 #### Status
 ACCEPTED

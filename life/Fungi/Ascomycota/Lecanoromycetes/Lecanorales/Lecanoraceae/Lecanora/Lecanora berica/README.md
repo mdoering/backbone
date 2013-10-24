@@ -1,5 +1,4 @@
-Lecanora berica (A. Massal.) Tuck. SPECIES
-=======
+# Lecanora berica (A. Massal.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

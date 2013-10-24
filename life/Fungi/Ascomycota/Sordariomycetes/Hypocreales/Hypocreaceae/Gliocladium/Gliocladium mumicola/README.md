@@ -1,5 +1,4 @@
-Gliocladium mumicola C.T. Wei SPECIES
-=======
+# Gliocladium mumicola C.T. Wei SPECIES
 
 #### Status
 ACCEPTED

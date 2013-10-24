@@ -1,5 +1,4 @@
-Coniothyrium bartholomaei Dearn. & Barthol. SPECIES
-=======
+# Coniothyrium bartholomaei Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

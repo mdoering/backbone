@@ -1,5 +1,4 @@
-Fragilaria rhomboides (Ehrenberg) DeToni, nom. nud. SPECIES
-=======
+# Fragilaria rhomboides (Ehrenberg) DeToni, nom. nud. SPECIES
 
 #### Status
 ACCEPTED

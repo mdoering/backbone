@@ -1,14 +1,13 @@
-Scopulariopsis diversispora J.F.H. Beyma, 1937 SPECIES
-=======
+# Sagenomella diversispora (J.F.H. Beyma) W. Gams, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 96(20-23): 432 (1937)
+Persoonia 10(1): 102 (1978)
 
 #### Original name
 Scopulariopsis diversispora J.F.H. Beyma, 1937

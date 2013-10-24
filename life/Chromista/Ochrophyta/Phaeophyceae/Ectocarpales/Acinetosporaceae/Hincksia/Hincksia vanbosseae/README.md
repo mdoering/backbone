@@ -1,8 +1,7 @@
-Ectocarpus vanbosseae Setchell & N.L.Gardner, 1924 SPECIES
-=======
+# Hincksia vanbosseae (Setchel & N.L.Gardner) Skelton & G.R.South, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

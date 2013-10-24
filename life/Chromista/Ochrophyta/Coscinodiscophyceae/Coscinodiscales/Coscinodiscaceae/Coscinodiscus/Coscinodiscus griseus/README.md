@@ -1,5 +1,4 @@
-Coscinodiscus griseus Greville SPECIES
-=======
+# Coscinodiscus griseus Greville SPECIES
 
 #### Status
 ACCEPTED

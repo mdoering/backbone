@@ -1,5 +1,4 @@
-Baltisphaeridium aspersilumiferum Loeblich & Tappan, 1978 SPECIES
-=======
+# Baltisphaeridium aspersilumiferum Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

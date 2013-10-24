@@ -1,5 +1,4 @@
-Ammoscalaria foliacea (Brady, 1881) SPECIES
-=======
+# Ammoscalaria foliacea (Brady, 1881) SPECIES
 
 #### Status
 ACCEPTED

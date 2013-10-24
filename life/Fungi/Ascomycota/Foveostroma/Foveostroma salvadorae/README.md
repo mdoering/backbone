@@ -1,5 +1,4 @@
-Foveostroma salvadorae Abbas, B. Sutton & Ghaffar SPECIES
-=======
+# Foveostroma salvadorae Abbas, B. Sutton & Ghaffar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phthora vastatrix d'Hérelle, 1909 SPECIES
-=======
+# Phthora vastatrix d'Hérelle, 1909 SPECIES
 
 #### Status
 ACCEPTED

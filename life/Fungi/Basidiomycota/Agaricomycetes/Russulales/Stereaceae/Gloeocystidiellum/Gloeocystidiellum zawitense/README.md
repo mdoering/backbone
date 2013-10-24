@@ -1,14 +1,13 @@
-Gloiothele zawitense (S.S. Rattan, Abdullah & Ismail) Sheng H. Wu SPECIES
-=======
+# Gloeocystidiellum zawitense S.S. Rattan, Abdullah & Ismail, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 29(3-4): 768 (1978)
 
 #### Original name
 Gloeocystidiellum zawitense S.S. Rattan, Abdullah & Ismail, 1978

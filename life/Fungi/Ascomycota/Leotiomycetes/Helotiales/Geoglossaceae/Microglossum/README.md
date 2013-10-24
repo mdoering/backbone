@@ -1,5 +1,4 @@
-Microglossum GENUS
-=======
+# Microglossum GENUS
 
 #### Status
 ACCEPTED

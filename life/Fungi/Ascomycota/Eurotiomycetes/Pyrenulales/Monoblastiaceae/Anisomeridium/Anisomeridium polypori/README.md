@@ -1,17 +1,16 @@
-Zignoella nyssogena Ellis & Everh. SPECIES
-=======
+# Anisomeridium polypori (Ellis & Everh.) M. E. Barr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Barr, Huhndorf & Rogerson, Mem. N. Y. bot. Gdn 79: 76 (1996)
 
 #### Original name
-null
+Apiospora polypori Ellis & Everh.
 
 ### Remarks
 null

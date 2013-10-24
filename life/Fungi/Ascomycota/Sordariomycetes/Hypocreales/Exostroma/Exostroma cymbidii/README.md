@@ -1,5 +1,4 @@
-Exostroma cymbidii Sawada SPECIES
-=======
+# Exostroma cymbidii Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macroplodia rosarum (Cooke & Ellis) Kuntze SPECIES
-=======
+# Macroplodia rosarum (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

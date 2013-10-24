@@ -1,5 +1,4 @@
-Calothrix wrangelii C. Agardh SPECIES
-=======
+# Calothrix wrangelii C. Agardh SPECIES
 
 #### Status
 ACCEPTED

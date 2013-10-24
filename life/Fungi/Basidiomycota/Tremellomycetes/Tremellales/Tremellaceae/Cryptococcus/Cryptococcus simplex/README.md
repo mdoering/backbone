@@ -1,5 +1,4 @@
-Cryptococcus simplex (Cif. & Redaelli) Nann. SPECIES
-=======
+# Cryptococcus simplex (Cif. & Redaelli) Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora egentissima SPECIES
-=======
+# Lecanora egentissima SPECIES
 
 #### Status
 ACCEPTED

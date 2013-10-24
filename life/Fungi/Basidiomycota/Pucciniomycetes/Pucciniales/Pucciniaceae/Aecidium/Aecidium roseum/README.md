@@ -1,5 +1,4 @@
-Aecidium roseum Dietel & Holw. SPECIES
-=======
+# Aecidium roseum Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

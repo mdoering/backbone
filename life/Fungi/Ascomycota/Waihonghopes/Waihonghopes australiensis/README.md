@@ -1,5 +1,4 @@
-Waihonghopes australiensis Yanna & K.D. Hyde, 2002 SPECIES
-=======
+# Waihonghopes australiensis Yanna & K.D. Hyde, 2002 SPECIES
 
 #### Status
 ACCEPTED

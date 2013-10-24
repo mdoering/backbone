@@ -1,5 +1,4 @@
-Peziza lutiseda P. Karst. SPECIES
-=======
+# Peziza lutiseda P. Karst. SPECIES
 
 #### Status
 ACCEPTED

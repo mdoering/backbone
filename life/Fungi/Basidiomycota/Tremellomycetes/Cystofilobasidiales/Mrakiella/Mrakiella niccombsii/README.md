@@ -1,5 +1,4 @@
-Mrakiella niccombsii Thomas-Hall, 2010 SPECIES
-=======
+# Mrakiella niccombsii Thomas-Hall, 2010 SPECIES
 
 #### Status
 ACCEPTED

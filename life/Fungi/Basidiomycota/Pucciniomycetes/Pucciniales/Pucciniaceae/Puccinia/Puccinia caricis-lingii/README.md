@@ -1,5 +1,4 @@
-Puccinia caricis-lingii J.Y. Zhuang SPECIES
-=======
+# Puccinia caricis-lingii J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Remispora quadriemis (Hohnk) Kohlmeyer SPECIES
-=======
+# Remispora quadriemis (Hohnk) Kohlmeyer SPECIES
 
 #### Status
 ACCEPTED

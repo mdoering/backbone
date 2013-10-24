@@ -1,5 +1,4 @@
-Cercosporula intermedia Matsush. SPECIES
-=======
+# Cercosporula intermedia Matsush. SPECIES
 
 #### Status
 ACCEPTED

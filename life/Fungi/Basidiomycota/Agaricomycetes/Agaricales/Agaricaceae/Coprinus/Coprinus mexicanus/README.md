@@ -1,5 +1,4 @@
-Coprinus mexicanus Murrill SPECIES
-=======
+# Coprinus mexicanus Murrill SPECIES
 
 #### Status
 ACCEPTED

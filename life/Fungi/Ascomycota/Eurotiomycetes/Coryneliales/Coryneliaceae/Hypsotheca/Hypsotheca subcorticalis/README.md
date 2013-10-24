@@ -1,5 +1,4 @@
-Hypsotheca subcorticalis (Cooke & Ellis) Ellis & Everh. SPECIES
-=======
+# Hypsotheca subcorticalis (Cooke & Ellis) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

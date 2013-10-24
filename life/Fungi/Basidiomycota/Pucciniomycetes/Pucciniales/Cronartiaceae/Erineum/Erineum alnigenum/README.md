@@ -1,5 +1,4 @@
-Erineum alnigenum Kunze SPECIES
-=======
+# Erineum alnigenum Kunze SPECIES
 
 #### Status
 ACCEPTED

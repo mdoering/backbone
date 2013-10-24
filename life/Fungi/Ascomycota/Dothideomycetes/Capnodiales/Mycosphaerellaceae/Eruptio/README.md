@@ -1,5 +1,4 @@
-Eruptio M.E. Barr GENUS
-=======
+# Eruptio M.E. Barr GENUS
 
 #### Status
 ACCEPTED

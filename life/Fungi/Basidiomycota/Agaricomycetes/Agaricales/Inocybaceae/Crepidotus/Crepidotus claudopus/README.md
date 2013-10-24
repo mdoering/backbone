@@ -1,5 +1,4 @@
-Crepidotus claudopus SPECIES
-=======
+# Crepidotus claudopus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporoblastia arceutica (A. Massal.) Trevis. SPECIES
-=======
+# Sporoblastia arceutica (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

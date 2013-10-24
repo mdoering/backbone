@@ -1,5 +1,4 @@
-Microcystis comperei Komárek SPECIES
-=======
+# Microcystis comperei Komárek SPECIES
 
 #### Status
 ACCEPTED

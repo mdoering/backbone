@@ -1,5 +1,4 @@
-Plectophomella nypae K.D. Hyde & B. Sutton, 1992 SPECIES
-=======
+# Plectophomella nypae K.D. Hyde & B. Sutton, 1992 SPECIES
 
 #### Status
 ACCEPTED

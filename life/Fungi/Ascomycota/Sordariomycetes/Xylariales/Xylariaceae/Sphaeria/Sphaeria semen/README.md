@@ -1,5 +1,4 @@
-Sphaeria semen Cooke & Peck SPECIES
-=======
+# Sphaeria semen Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

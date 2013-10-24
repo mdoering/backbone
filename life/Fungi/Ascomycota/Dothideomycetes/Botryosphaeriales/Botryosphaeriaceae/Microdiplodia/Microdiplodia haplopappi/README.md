@@ -1,5 +1,4 @@
-Microdiplodia haplopappi (Allesch.) Tassi SPECIES
-=======
+# Microdiplodia haplopappi (Allesch.) Tassi SPECIES
 
 #### Status
 ACCEPTED

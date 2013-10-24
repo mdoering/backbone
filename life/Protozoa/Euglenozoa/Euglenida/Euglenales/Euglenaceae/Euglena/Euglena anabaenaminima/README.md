@@ -1,5 +1,4 @@
-Euglena anabaenaminima Mainx SPECIES
-=======
+# Euglena anabaenaminima Mainx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea tragorum Zahlbr. SPECIES
-=======
+# Lecidea tragorum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

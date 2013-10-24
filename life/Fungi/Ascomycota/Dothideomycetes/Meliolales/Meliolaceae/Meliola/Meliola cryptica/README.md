@@ -1,5 +1,4 @@
-Meliola cryptica S. Hughes SPECIES
-=======
+# Meliola cryptica S. Hughes SPECIES
 
 #### Status
 ACCEPTED

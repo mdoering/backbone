@@ -1,5 +1,4 @@
-Phyllosticta protiicola Peres SPECIES
-=======
+# Phyllosticta protiicola Peres SPECIES
 
 #### Status
 ACCEPTED

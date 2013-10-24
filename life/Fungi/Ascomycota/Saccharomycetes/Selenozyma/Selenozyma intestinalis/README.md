@@ -1,14 +1,13 @@
-Selenotila intestinalis Krassiln., 1927 SPECIES
-=======
+# Selenozyma intestinalis (Krassiln.) Yarrow, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mikrobiol. Zh. 4(1): 134 (1927)
+in von Arx, Rodrigues de Miranda, Smith & Yarrow, Stud. Mycol. 14: 29 (1977)
 
 #### Original name
 Selenotila intestinalis Krassiln., 1927

@@ -1,5 +1,4 @@
-Ramaria zebrispora R.H. Petersen SPECIES
-=======
+# Ramaria zebrispora R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

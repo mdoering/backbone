@@ -1,5 +1,4 @@
-Navicella macrospora (Speg.) Kuntze SPECIES
-=======
+# Navicella macrospora (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

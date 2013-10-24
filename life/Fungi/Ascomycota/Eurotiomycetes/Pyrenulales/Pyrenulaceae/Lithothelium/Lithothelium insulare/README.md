@@ -1,5 +1,4 @@
-Lithothelium insulare Makhija & Adaw. SPECIES
-=======
+# Lithothelium insulare Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

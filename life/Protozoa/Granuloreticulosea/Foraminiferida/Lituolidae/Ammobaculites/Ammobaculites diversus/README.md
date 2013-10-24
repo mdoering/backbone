@@ -1,5 +1,4 @@
-Ammobaculites diversus Cushman & Brönnimann, 1948 SPECIES
-=======
+# Ammobaculites diversus Cushman & Brönnimann, 1948 SPECIES
 
 #### Status
 ACCEPTED

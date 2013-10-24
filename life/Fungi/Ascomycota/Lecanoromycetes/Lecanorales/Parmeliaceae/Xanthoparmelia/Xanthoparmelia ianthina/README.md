@@ -1,5 +1,4 @@
-Xanthoparmelia ianthina Brusse SPECIES
-=======
+# Xanthoparmelia ianthina Brusse SPECIES
 
 #### Status
 ACCEPTED

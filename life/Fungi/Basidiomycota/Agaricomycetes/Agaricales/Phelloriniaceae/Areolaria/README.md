@@ -1,5 +1,4 @@
-Areolaria GENUS
-=======
+# Areolaria GENUS
 
 #### Status
 ACCEPTED

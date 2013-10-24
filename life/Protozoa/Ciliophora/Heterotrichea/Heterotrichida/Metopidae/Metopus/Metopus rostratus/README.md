@@ -1,5 +1,4 @@
-Metopus rostratus Kahl, 1926 SPECIES
-=======
+# Metopus rostratus Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

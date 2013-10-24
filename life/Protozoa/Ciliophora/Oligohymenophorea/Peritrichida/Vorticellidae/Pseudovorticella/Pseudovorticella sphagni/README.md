@@ -1,5 +1,4 @@
-Pseudovorticella sphagni Foissner & Schiffmann, 1974 SPECIES
-=======
+# Pseudovorticella sphagni Foissner & Schiffmann, 1974 SPECIES
 
 #### Status
 ACCEPTED

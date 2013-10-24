@@ -1,5 +1,4 @@
-Macrophoma mygindae Speg. SPECIES
-=======
+# Macrophoma mygindae Speg. SPECIES
 
 #### Status
 ACCEPTED

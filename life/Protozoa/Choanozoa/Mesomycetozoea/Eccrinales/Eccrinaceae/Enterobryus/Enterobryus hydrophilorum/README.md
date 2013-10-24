@@ -1,14 +1,13 @@
-Eccrinopsis hydrophilorum L. Léger & Duboscq, 1916 SPECIES
-=======
+# Enterobryus hydrophilorum (L. Léger & Duboscq) Manier, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Archs Zool. exp. gén. 56(Notes et Revue): 22 (1916)
+Annls Sci. Nat. , Bot. Biol. Vég. , sér. 12 10(4): 602 (1970)
 
 #### Original name
 Eccrinopsis hydrophilorum L. Léger & Duboscq, 1916

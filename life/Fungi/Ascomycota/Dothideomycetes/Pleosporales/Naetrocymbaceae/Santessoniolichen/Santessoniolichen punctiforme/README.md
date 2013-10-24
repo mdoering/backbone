@@ -1,5 +1,4 @@
-Santessoniolichen punctiforme Tomas. & Cif. SPECIES
-=======
+# Santessoniolichen punctiforme Tomas. & Cif. SPECIES
 
 #### Status
 ACCEPTED

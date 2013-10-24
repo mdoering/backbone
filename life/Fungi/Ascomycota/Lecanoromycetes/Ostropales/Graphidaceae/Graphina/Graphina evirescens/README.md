@@ -1,5 +1,4 @@
-Graphina evirescens Redinger SPECIES
-=======
+# Graphina evirescens Redinger SPECIES
 
 #### Status
 ACCEPTED

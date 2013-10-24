@@ -1,5 +1,4 @@
-Tapesia ladae Velen. SPECIES
-=======
+# Tapesia ladae Velen. SPECIES
 
 #### Status
 ACCEPTED

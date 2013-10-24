@@ -1,5 +1,4 @@
-Lachnella morthieri Cooke SPECIES
-=======
+# Lachnella morthieri Cooke SPECIES
 
 #### Status
 ACCEPTED

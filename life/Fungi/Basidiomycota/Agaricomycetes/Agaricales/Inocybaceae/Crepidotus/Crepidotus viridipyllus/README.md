@@ -1,5 +1,4 @@
-Crepidotus viridipyllus Hesler SPECIES
-=======
+# Crepidotus viridipyllus Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermocarpa rosea var. major (Hansgirg) Hansgirg ex Forti VARIETY
-=======
+# Dermocarpa rosea (Reinsch) Batters SPECIES
 
 #### Status
 ACCEPTED

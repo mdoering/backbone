@@ -1,5 +1,4 @@
-Rhizosolenia morsa West & G.S.West SPECIES
-=======
+# Rhizosolenia morsa West & G.S.West SPECIES
 
 #### Status
 ACCEPTED

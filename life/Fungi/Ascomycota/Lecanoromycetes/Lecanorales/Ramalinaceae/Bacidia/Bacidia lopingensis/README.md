@@ -1,5 +1,4 @@
-Bacidia lopingensis Zahlbr. SPECIES
-=======
+# Bacidia lopingensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria azaleae Hollós SPECIES
-=======
+# Leptosphaeria azaleae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalecta convarians Nyl. SPECIES
-=======
+# Gyalecta convarians Nyl. SPECIES
 
 #### Status
 ACCEPTED

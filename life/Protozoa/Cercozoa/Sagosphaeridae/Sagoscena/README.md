@@ -1,5 +1,4 @@
-Sagoscena Haeckel, 1887 GENUS
-=======
+# Sagoscena Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

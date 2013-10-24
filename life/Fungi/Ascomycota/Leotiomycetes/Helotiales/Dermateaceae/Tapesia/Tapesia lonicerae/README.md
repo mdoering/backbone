@@ -1,5 +1,4 @@
-Tapesia lonicerae E.K. Cash SPECIES
-=======
+# Tapesia lonicerae E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

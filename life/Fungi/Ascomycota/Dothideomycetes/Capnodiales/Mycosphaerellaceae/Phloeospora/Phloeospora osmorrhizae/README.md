@@ -1,5 +1,4 @@
-Phloeospora osmorrhizae (Peck) House SPECIES
-=======
+# Phloeospora osmorrhizae (Peck) House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembidium polycarpum Körb. SPECIES
-=======
+# Lembidium polycarpum Körb. SPECIES
 
 #### Status
 ACCEPTED

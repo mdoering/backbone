@@ -1,5 +1,4 @@
-Apiosoma baninae SPECIES
-=======
+# Apiosoma baninae SPECIES
 
 #### Status
 ACCEPTED

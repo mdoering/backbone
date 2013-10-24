@@ -1,5 +1,4 @@
-Puccinia cerinthes-agropyrina Tranzschel SPECIES
-=======
+# Puccinia cerinthes-agropyrina Tranzschel SPECIES
 
 #### Status
 ACCEPTED

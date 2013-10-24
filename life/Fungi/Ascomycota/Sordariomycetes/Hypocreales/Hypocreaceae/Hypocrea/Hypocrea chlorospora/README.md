@@ -1,5 +1,4 @@
-Hypocrea chlorospora Berk. & M.A. Curtis SPECIES
-=======
+# Hypocrea chlorospora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia dispersula Nyl. SPECIES
-=======
+# Arthonia dispersula Nyl. SPECIES
 
 #### Status
 ACCEPTED

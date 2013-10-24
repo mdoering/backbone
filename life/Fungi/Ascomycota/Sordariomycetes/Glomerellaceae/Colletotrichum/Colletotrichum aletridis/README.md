@@ -1,5 +1,4 @@
-Colletotrichum aletridis Henn. SPECIES
-=======
+# Colletotrichum aletridis Henn. SPECIES
 
 #### Status
 ACCEPTED

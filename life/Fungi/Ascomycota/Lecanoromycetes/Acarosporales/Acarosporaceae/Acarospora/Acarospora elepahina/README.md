@@ -1,5 +1,4 @@
-Acarospora elepahina Hue SPECIES
-=======
+# Acarospora elepahina Hue SPECIES
 
 #### Status
 ACCEPTED

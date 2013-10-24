@@ -1,5 +1,4 @@
-Staurothele malayensis Zahlbr. SPECIES
-=======
+# Staurothele malayensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

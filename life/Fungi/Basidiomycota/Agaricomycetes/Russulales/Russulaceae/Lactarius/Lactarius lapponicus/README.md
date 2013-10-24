@@ -1,5 +1,4 @@
-Lactarius lapponicus Harmaja SPECIES
-=======
+# Lactarius lapponicus Harmaja SPECIES
 
 #### Status
 ACCEPTED

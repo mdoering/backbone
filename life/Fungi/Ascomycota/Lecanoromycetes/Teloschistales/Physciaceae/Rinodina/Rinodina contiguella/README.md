@@ -1,5 +1,4 @@
-Rinodina contiguella Vain. SPECIES
-=======
+# Rinodina contiguella Vain. SPECIES
 
 #### Status
 ACCEPTED

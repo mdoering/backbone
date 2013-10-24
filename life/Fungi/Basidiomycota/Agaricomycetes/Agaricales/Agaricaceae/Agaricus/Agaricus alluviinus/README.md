@@ -1,5 +1,4 @@
-Agaricus alluviinus Peck SPECIES
-=======
+# Agaricus alluviinus Peck SPECIES
 
 #### Status
 ACCEPTED

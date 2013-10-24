@@ -1,8 +1,7 @@
-Tillina inflata Stokes, 1884 SPECIES
-=======
+# Colpoda inflata (Stokes, 1884) Kahl, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

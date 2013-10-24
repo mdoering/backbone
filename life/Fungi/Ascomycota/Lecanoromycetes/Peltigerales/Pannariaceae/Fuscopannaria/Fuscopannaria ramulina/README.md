@@ -1,5 +1,4 @@
-Fuscopannaria ramulina P. M. Jørg. & Tønsberg SPECIES
-=======
+# Fuscopannaria ramulina P. M. Jørg. & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

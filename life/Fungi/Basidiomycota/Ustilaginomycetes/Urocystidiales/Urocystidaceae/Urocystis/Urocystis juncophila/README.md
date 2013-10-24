@@ -1,5 +1,4 @@
-Urocystis juncophila (McAlpine) Vánky, 1983 SPECIES
-=======
+# Urocystis juncophila (McAlpine) Vánky, 1983 SPECIES
 
 #### Status
 ACCEPTED

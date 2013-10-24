@@ -1,8 +1,7 @@
-Euglena viridis f. olivacea (Klebs) Popowa FORM
-=======
+# Euglena viridis (O.F. Müller) Ehrenberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

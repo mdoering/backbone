@@ -1,5 +1,4 @@
-Uredo tangaensis Henn. SPECIES
-=======
+# Uredo tangaensis Henn. SPECIES
 
 #### Status
 ACCEPTED

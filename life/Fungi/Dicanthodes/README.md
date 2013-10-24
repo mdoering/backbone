@@ -1,5 +1,4 @@
-Dicanthodes GENUS
-=======
+# Dicanthodes GENUS
 
 #### Status
 ACCEPTED

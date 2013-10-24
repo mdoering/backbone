@@ -1,5 +1,4 @@
-Clitocybe bresadolae R. Schulz SPECIES
-=======
+# Clitocybe bresadolae R. Schulz SPECIES
 
 #### Status
 ACCEPTED

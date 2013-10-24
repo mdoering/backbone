@@ -1,5 +1,4 @@
-Rhodopseudomonas julia Kompantseva, 1993 SPECIES
-=======
+# Rhodopseudomonas julia Kompantseva, 1993 SPECIES
 
 #### Status
 ACCEPTED

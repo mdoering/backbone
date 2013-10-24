@@ -1,5 +1,4 @@
-Dimerina synapheae (Henn.) Theiss. SPECIES
-=======
+# Dimerina synapheae (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicoccum cedrelae G. Arnaud & Barthelet, 1933 SPECIES
-=======
+# Fusicoccum cedrelae G. Arnaud & Barthelet, 1933 SPECIES
 
 #### Status
 ACCEPTED

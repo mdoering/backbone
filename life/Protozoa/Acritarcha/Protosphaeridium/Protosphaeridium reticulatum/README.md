@@ -1,5 +1,4 @@
-Protosphaeridium reticulatum Viswanathiah et al., 1980 SPECIES
-=======
+# Protosphaeridium reticulatum Viswanathiah et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

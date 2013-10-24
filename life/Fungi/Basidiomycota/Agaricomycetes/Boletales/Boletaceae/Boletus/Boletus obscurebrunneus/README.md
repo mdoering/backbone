@@ -1,5 +1,4 @@
-Boletus obscurebrunneus (Hongo) Har. Takah. SPECIES
-=======
+# Boletus obscurebrunneus (Hongo) Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

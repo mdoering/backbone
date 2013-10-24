@@ -1,5 +1,4 @@
-Asticcacaulis benevestitus Vasilyeva et al., 2006 SPECIES
-=======
+# Asticcacaulis benevestitus Vasilyeva et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

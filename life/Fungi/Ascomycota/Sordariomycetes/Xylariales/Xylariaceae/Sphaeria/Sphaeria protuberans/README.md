@@ -1,5 +1,4 @@
-Sphaeria protuberans Fuckel SPECIES
-=======
+# Sphaeria protuberans Fuckel SPECIES
 
 #### Status
 ACCEPTED

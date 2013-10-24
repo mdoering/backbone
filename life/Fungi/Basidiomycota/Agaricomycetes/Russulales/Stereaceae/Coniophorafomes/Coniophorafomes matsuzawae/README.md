@@ -1,5 +1,4 @@
-Coniophorafomes matsuzawae (Yasuda) Rick SPECIES
-=======
+# Coniophorafomes matsuzawae (Yasuda) Rick SPECIES
 
 #### Status
 ACCEPTED

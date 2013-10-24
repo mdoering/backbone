@@ -1,5 +1,4 @@
-Tremella laciniata Bull. SPECIES
-=======
+# Tremella laciniata Bull. SPECIES
 
 #### Status
 ACCEPTED

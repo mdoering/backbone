@@ -1,8 +1,7 @@
-Bradynella toddi Saidova, 1975 SPECIES
-=======
+# Globocassidulina toddi (Saidova, 1975) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

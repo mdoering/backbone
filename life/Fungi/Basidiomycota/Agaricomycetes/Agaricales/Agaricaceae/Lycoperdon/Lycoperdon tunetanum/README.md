@@ -1,5 +1,4 @@
-Lycoperdon tunetanum Pat. SPECIES
-=======
+# Lycoperdon tunetanum Pat. SPECIES
 
 #### Status
 ACCEPTED

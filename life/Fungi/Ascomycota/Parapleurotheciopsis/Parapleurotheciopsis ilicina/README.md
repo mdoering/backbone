@@ -1,5 +1,4 @@
-Parapleurotheciopsis ilicina P.M. Kirk, 1982 SPECIES
-=======
+# Parapleurotheciopsis ilicina P.M. Kirk, 1982 SPECIES
 
 #### Status
 ACCEPTED

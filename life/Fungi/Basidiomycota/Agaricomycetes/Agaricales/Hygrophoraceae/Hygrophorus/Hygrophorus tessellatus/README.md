@@ -1,5 +1,4 @@
-Hygrophorus tessellatus R. Heim SPECIES
-=======
+# Hygrophorus tessellatus R. Heim SPECIES
 
 #### Status
 ACCEPTED

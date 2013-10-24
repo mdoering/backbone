@@ -1,5 +1,4 @@
-Rauserella Dunbar, 1944 GENUS
-=======
+# Rauserella Dunbar, 1944 GENUS
 
 #### Status
 ACCEPTED

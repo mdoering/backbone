@@ -1,5 +1,4 @@
-Tremella sarcoides var. sarcoides VARIETY
-=======
+# Tremella sarcoides With. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Arr. Brit. Pl. (London), Edn 3 4: 78 (1796)
 
 #### Original name
-Tremella sarcoides var. sarcoides
+Tremella sarcoides With.
 
 ### Remarks
 null

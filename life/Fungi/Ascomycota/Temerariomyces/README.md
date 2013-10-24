@@ -1,5 +1,4 @@
-Temerariomyces B. Sutton GENUS
-=======
+# Temerariomyces B. Sutton GENUS
 
 #### Status
 ACCEPTED

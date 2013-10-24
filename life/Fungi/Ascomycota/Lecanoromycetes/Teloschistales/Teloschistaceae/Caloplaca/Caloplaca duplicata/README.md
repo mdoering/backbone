@@ -1,5 +1,4 @@
-Caloplaca duplicata (Vain.) H. Olivier SPECIES
-=======
+# Caloplaca duplicata (Vain.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nummulites sublaevigatus Haime & d'Archiac SPECIES
-=======
+# Nummulites sublaevigatus Haime & d'Archiac SPECIES
 
 #### Status
 ACCEPTED

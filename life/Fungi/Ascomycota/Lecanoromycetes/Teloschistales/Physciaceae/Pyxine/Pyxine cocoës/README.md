@@ -1,17 +1,16 @@
-Pyxine cocoës f. cocoës FORM
-=======
+# Pyxine cocoës (Sw.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mém. Soc. Imp. Sci. Nat. Cherbourg 5: 108 (1857)
 
 #### Original name
-Pyxine cocoës f. cocoës
+Lichen cocoës Sw.
 
 ### Remarks
 null

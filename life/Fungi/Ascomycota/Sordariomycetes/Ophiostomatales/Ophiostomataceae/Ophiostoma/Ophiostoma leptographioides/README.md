@@ -1,5 +1,4 @@
-Ophiostoma leptographioides (R.W. Davidson) Arx SPECIES
-=======
+# Ophiostoma leptographioides (R.W. Davidson) Arx SPECIES
 
 #### Status
 ACCEPTED

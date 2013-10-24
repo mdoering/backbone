@@ -1,17 +1,16 @@
-Dasyobolus immersus var. immersus VARIETY
-=======
+# Ascobolus immersus Pers., 1794 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 11: 421 (1895)
+Neues Mag. Bot. 1: 115 (1794)
 
 #### Original name
-Dasyobolus immersus var. immersus
+Ascobolus immersus Pers., 1794
 
 ### Remarks
 null

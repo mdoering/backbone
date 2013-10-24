@@ -1,5 +1,4 @@
-Tetraporina punctata (Tiwari & Neville) SPECIES
-=======
+# Tetraporina punctata (Tiwari & Neville) SPECIES
 
 #### Status
 ACCEPTED

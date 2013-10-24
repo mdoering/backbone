@@ -1,5 +1,4 @@
-Leucoagaricus boudierianus Bon SPECIES
-=======
+# Leucoagaricus boudierianus Bon SPECIES
 
 #### Status
 ACCEPTED

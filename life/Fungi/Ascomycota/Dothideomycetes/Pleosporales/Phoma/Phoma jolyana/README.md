@@ -1,5 +1,4 @@
-Phoma jolyana var. jolyana Piroz. & Morgan-Jones, 1968 VARIETY
-=======
+# Phoma jolyana Piroz. & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Trans. Br. mycol. Soc. 51: 200 (1968)
 
 #### Original name
-Phoma jolyana var. jolyana Piroz. & Morgan-Jones, 1968
+Phoma jolyana Piroz. & Morgan-Jones
 
 ### Remarks
 null

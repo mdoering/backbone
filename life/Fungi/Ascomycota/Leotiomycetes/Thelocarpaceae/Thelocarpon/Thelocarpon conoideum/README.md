@@ -1,5 +1,4 @@
-Thelocarpon conoideum Höhn. SPECIES
-=======
+# Thelocarpon conoideum Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiaster formosa Gran SPECIES
-=======
+# Ophiaster formosa Gran SPECIES
 
 #### Status
 ACCEPTED

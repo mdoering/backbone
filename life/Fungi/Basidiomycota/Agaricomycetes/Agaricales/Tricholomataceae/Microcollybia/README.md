@@ -1,5 +1,4 @@
-Microcollybia GENUS
-=======
+# Microcollybia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phylloporus centroamericanus Singer & L.D. Gómez SPECIES
-=======
+# Phylloporus centroamericanus Singer & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

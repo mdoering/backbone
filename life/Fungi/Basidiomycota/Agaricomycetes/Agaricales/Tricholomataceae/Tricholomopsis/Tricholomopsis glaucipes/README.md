@@ -1,5 +1,4 @@
-Tricholomopsis glaucipes A.H. Sm. SPECIES
-=======
+# Tricholomopsis glaucipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

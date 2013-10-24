@@ -1,5 +1,4 @@
-Vorticella ventosa Dumas, 1929 SPECIES
-=======
+# Vorticella ventosa Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

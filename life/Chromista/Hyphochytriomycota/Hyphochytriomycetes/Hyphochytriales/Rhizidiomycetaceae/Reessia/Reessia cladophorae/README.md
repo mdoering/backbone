@@ -1,5 +1,4 @@
-Reessia cladophorae C. Fisch. SPECIES
-=======
+# Reessia cladophorae C. Fisch. SPECIES
 
 #### Status
 ACCEPTED

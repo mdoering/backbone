@@ -1,5 +1,4 @@
-Urocystis schizocaulon (Ces.) Zundel SPECIES
-=======
+# Urocystis schizocaulon (Ces.) Zundel SPECIES
 
 #### Status
 ACCEPTED

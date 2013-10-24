@@ -1,5 +1,4 @@
-Leiofusa thomissa Loeblich, 1970 SPECIES
-=======
+# Leiofusa thomissa Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

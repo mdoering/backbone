@@ -1,5 +1,4 @@
-Calothrix rectangularis Setchell & Gardner SPECIES
-=======
+# Calothrix rectangularis Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

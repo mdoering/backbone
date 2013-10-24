@@ -1,5 +1,4 @@
-Collematospora Jeng & Cain GENUS
-=======
+# Collematospora Jeng & Cain GENUS
 
 #### Status
 ACCEPTED

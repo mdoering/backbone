@@ -1,5 +1,4 @@
-Asterina pittieri E. Bommer & M. Rousseau SPECIES
-=======
+# Asterina pittieri E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

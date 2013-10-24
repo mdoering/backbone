@@ -1,5 +1,4 @@
-Hebeloma cremeum Murrill SPECIES
-=======
+# Hebeloma cremeum Murrill SPECIES
 
 #### Status
 ACCEPTED

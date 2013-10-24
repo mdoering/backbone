@@ -1,5 +1,4 @@
-Diplodina tiliae I.E. Brezhnev SPECIES
-=======
+# Diplodina tiliae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

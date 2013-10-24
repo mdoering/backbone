@@ -1,17 +1,16 @@
-Closterosporium pyrosporum Sacc. SPECIES
-=======
+# Clasterosporium pyrosporum Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 102 (1883)
 
 #### Original name
-Closterosporium pyrosporum Sacc.
+Clasterosporium pyrosporum Sacc.
 
 ### Remarks
 null

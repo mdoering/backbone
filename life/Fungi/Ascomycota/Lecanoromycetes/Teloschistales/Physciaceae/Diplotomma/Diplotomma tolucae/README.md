@@ -1,5 +1,4 @@
-Diplotomma tolucae (B. de Lesd.) Szatala SPECIES
-=======
+# Diplotomma tolucae (B. de Lesd.) Szatala SPECIES
 
 #### Status
 ACCEPTED

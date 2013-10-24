@@ -1,5 +1,4 @@
-Heterodermia erecta Lendemer SPECIES
-=======
+# Heterodermia erecta Lendemer SPECIES
 
 #### Status
 ACCEPTED

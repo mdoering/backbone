@@ -1,5 +1,4 @@
-Aecidium viburnophilum Syd. & P. Syd. SPECIES
-=======
+# Aecidium viburnophilum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

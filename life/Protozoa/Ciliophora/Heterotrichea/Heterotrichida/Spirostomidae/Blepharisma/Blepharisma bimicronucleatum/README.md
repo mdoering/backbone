@@ -1,8 +1,7 @@
-Blepharisma bimicronucleata SPECIES
-=======
+# Blepharisma bimicronucleatum Villeneuve-Brachon, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

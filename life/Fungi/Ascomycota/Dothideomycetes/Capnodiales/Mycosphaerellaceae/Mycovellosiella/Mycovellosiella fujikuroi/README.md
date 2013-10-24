@@ -1,5 +1,4 @@
-Mycovellosiella fujikuroi N. Pons SPECIES
-=======
+# Mycovellosiella fujikuroi N. Pons SPECIES
 
 #### Status
 ACCEPTED

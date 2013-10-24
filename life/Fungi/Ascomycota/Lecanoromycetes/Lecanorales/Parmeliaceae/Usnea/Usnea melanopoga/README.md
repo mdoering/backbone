@@ -1,5 +1,4 @@
-Usnea melanopoga (Motyka) Bystrek SPECIES
-=======
+# Usnea melanopoga (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

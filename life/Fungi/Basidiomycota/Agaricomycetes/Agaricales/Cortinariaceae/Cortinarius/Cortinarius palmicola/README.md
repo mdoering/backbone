@@ -1,17 +1,16 @@
-Cortinarius palmicolus Sathe & J.T. Daniel SPECIES
-=======
+# Cortinarius palmicola Sathe & J.T. Daniel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Maharashtra Association for the Cultivation of Science, Monograph No. 1 Agaricales (Mushrooms) of South West India (Pune) 80 (1981)
 
 #### Original name
-Cortinarius palmicolus Sathe & J.T. Daniel
+Cortinarius palmicola Sathe & J.T. Daniel
 
 ### Remarks
 null

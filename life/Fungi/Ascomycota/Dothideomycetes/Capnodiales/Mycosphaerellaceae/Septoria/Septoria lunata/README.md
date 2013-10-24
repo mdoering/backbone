@@ -1,5 +1,4 @@
-Septoria lunata Grove SPECIES
-=======
+# Septoria lunata Grove SPECIES
 
 #### Status
 ACCEPTED

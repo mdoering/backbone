@@ -1,5 +1,4 @@
-Sphaeria homostegia Nyl. SPECIES
-=======
+# Sphaeria homostegia Nyl. SPECIES
 
 #### Status
 ACCEPTED

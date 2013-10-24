@@ -1,5 +1,4 @@
-Lecidea comorenis SPECIES
-=======
+# Lecidea comorenis SPECIES
 
 #### Status
 ACCEPTED

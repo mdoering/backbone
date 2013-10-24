@@ -1,5 +1,4 @@
-Uredo notata Arthur SPECIES
-=======
+# Uredo notata Arthur SPECIES
 
 #### Status
 ACCEPTED

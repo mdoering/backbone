@@ -1,5 +1,4 @@
-Trichoscypha discifera (Hazsl.) Sacc. SPECIES
-=======
+# Trichoscypha discifera (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

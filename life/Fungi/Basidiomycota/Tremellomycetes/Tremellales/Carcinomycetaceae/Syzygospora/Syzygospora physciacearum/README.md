@@ -1,5 +1,4 @@
-Syzygospora physciacearum Diederich, 1996 SPECIES
-=======
+# Syzygospora physciacearum Diederich, 1996 SPECIES
 
 #### Status
 ACCEPTED

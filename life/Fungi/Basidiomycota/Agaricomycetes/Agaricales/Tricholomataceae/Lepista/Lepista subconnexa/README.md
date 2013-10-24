@@ -1,5 +1,4 @@
-Lepista subconnexa (Murrill) Harmaja SPECIES
-=======
+# Lepista subconnexa (Murrill) Harmaja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermium decorum Darker, 1932 SPECIES
-=======
+# Lophodermium decorum Darker, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiothrix Nägeli in Kützing, 1849 GENUS
-=======
+# Ophiothrix Nägeli in Kützing, 1849 GENUS
 
 #### Status
 ACCEPTED

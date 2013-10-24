@@ -1,5 +1,4 @@
-Biatora tabescens Körb. SPECIES
-=======
+# Biatora tabescens Körb. SPECIES
 
 #### Status
 ACCEPTED

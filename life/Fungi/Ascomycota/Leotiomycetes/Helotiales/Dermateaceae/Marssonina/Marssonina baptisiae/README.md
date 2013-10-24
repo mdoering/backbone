@@ -1,5 +1,4 @@
-Marssonina baptisiae (Ellis & Everh.) Magnus SPECIES
-=======
+# Marssonina baptisiae (Ellis & Everh.) Magnus SPECIES
 
 #### Status
 ACCEPTED

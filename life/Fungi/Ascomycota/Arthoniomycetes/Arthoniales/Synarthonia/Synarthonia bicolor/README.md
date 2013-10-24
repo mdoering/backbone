@@ -1,5 +1,4 @@
-Synarthonia bicolor Müll. Arg. SPECIES
-=======
+# Synarthonia bicolor Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

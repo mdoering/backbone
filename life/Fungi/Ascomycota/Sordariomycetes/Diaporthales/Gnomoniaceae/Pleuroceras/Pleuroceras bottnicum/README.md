@@ -1,5 +1,4 @@
-Pleuroceras bottnicum (Lind & Vleugel) M. Monod SPECIES
-=======
+# Pleuroceras bottnicum (Lind & Vleugel) M. Monod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula virens Müll. Arg. SPECIES
-=======
+# Pyrenula virens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

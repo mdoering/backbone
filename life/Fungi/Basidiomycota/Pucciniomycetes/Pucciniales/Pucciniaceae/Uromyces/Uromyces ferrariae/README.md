@@ -1,5 +1,4 @@
-Uromyces ferrariae Doidge SPECIES
-=======
+# Uromyces ferrariae Doidge SPECIES
 
 #### Status
 ACCEPTED

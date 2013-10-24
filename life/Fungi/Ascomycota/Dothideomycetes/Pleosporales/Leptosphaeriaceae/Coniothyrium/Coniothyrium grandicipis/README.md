@@ -1,5 +1,4 @@
-Coniothyrium grandicipis Joanne E. Taylor & Crous SPECIES
-=======
+# Coniothyrium grandicipis Joanne E. Taylor & Crous SPECIES
 
 #### Status
 ACCEPTED

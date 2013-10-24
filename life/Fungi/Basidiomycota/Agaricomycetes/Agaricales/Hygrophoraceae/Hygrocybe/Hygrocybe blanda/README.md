@@ -1,5 +1,4 @@
-Hygrocybe blanda E. Horak, 1990 SPECIES
-=======
+# Hygrocybe blanda E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

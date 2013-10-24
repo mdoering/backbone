@@ -1,5 +1,4 @@
-Thecographa ceramia A. Massal. SPECIES
-=======
+# Thecographa ceramia A. Massal. SPECIES
 
 #### Status
 ACCEPTED

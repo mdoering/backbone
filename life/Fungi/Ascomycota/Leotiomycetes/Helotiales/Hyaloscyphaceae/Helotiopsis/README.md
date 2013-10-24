@@ -1,5 +1,4 @@
-Helotiopsis GENUS
-=======
+# Helotiopsis GENUS
 
 #### Status
 ACCEPTED

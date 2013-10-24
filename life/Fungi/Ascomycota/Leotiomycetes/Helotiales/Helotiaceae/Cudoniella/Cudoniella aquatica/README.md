@@ -1,5 +1,4 @@
-Cudoniella aquatica var. aquatica VARIETY
-=======
+# Cudoniella aquatica (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cudoniella aquatica var. aquatica
+Leotia aquatica Lib.
 
 ### Remarks
 null

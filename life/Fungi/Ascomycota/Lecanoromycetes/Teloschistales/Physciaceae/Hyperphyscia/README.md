@@ -1,17 +1,16 @@
-Physciopsis M. Choisy GENUS
-=======
+# Hyperphyscia Müll. Arg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. mens. Soc. linn. Lyon 19: 20 (1950)
+Bull. Herb. Boissier 2(app. 1): 10, 41 (1894)
 
 #### Original name
-Physciopsis M. Choisy
+Hyperphyscia Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Strickeria tingens H. Wegelin SPECIES
-=======
+# Strickeria tingens H. Wegelin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petalomonas septemcarinata Shawhan & Jahn SPECIES
-=======
+# Petalomonas septemcarinata Shawhan & Jahn SPECIES
 
 #### Status
 ACCEPTED

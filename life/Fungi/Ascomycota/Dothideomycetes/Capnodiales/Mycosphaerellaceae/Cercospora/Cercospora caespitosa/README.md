@@ -1,5 +1,4 @@
-Cercospora caespitosa Ellis & Everh. SPECIES
-=======
+# Cercospora caespitosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

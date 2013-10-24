@@ -1,5 +1,4 @@
-Paraphaeosphaeria oblongata (Niessl) Crivelli SPECIES
-=======
+# Paraphaeosphaeria oblongata (Niessl) Crivelli SPECIES
 
 #### Status
 ACCEPTED

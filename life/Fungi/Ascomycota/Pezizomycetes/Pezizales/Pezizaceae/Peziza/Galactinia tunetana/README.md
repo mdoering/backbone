@@ -1,5 +1,4 @@
-Galactinia tunetana Pat. SPECIES
-=======
+# Galactinia tunetana Pat. SPECIES
 
 #### Status
 ACCEPTED

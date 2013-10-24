@@ -1,5 +1,4 @@
-Coscinodiscus symmetricus Grev., 1861 SPECIES
-=======
+# Coscinodiscus symmetricus Grev., 1861 SPECIES
 
 #### Status
 ACCEPTED

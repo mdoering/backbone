@@ -1,5 +1,4 @@
-Halorhabdus utahensis Wainø et al., 2000 SPECIES
-=======
+# Halorhabdus utahensis Wainø et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia zeylanica R. Sant. SPECIES
-=======
+# Parmelia zeylanica R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Malikia Spring et al., 2005 GENUS
-=======
+# Malikia Spring et al., 2005 GENUS
 
 #### Status
 ACCEPTED

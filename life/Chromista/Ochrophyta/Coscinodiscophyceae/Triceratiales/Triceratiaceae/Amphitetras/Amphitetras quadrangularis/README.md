@@ -1,5 +1,4 @@
-Amphitetras quadrangularis (Greville) De Toni SPECIES
-=======
+# Amphitetras quadrangularis (Greville) De Toni SPECIES
 
 #### Status
 ACCEPTED

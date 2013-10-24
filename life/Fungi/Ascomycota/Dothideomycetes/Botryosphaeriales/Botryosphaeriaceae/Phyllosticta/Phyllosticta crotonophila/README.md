@@ -1,5 +1,4 @@
-Phyllosticta crotonophila Speg. SPECIES
-=======
+# Phyllosticta crotonophila Speg. SPECIES
 
 #### Status
 ACCEPTED

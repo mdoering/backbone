@@ -1,5 +1,4 @@
-Cryptosporium amygdalinum Sacc. SPECIES
-=======
+# Cryptosporium amygdalinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

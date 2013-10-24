@@ -1,5 +1,4 @@
-Sontonaella Yeh, 1987 GENUS
-=======
+# Sontonaella Yeh, 1987 GENUS
 
 #### Status
 ACCEPTED

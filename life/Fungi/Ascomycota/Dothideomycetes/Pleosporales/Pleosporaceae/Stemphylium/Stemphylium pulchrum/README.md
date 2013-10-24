@@ -1,5 +1,4 @@
-Stemphylium pulchrum (Berk.) Sacc. SPECIES
-=======
+# Stemphylium pulchrum (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

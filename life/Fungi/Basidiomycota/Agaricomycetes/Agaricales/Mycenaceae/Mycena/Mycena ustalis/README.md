@@ -1,5 +1,4 @@
-Mycena ustalis Aronsen & Maas Geest. SPECIES
-=======
+# Mycena ustalis Aronsen & Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

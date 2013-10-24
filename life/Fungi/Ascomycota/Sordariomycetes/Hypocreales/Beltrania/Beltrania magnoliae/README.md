@@ -1,5 +1,4 @@
-Beltrania magnoliae M. Morelet & Vivant SPECIES
-=======
+# Beltrania magnoliae M. Morelet & Vivant SPECIES
 
 #### Status
 ACCEPTED

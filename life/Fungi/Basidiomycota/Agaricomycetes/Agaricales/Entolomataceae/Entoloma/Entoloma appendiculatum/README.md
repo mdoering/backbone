@@ -1,5 +1,4 @@
-Entoloma appendiculatum E. Horak SPECIES
-=======
+# Entoloma appendiculatum E. Horak SPECIES
 
 #### Status
 ACCEPTED

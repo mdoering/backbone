@@ -1,5 +1,4 @@
-Virgulina J.B.G.G.M.Bory GENUS
-=======
+# Virgulina J.B.G.G.M.Bory GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calyptra plumeriae Bat. & Cif. SPECIES
-=======
+# Calyptra plumeriae Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

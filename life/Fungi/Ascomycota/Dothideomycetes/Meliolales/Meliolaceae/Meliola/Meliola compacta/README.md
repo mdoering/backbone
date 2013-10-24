@@ -1,5 +1,4 @@
-Meliola compacta Earle SPECIES
-=======
+# Meliola compacta Earle SPECIES
 
 #### Status
 ACCEPTED

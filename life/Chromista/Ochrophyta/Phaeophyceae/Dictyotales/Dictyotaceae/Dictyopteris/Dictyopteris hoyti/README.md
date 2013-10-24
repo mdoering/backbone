@@ -1,5 +1,4 @@
-Dictyopteris hoyti SPECIES
-=======
+# Dictyopteris hoyti SPECIES
 
 #### Status
 ACCEPTED

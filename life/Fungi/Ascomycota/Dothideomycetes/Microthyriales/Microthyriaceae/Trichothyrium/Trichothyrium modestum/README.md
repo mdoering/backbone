@@ -1,5 +1,4 @@
-Trichothyrium modestum Bat. & H. Maia SPECIES
-=======
+# Trichothyrium modestum Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

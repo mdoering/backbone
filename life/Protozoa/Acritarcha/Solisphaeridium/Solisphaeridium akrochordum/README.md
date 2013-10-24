@@ -1,5 +1,4 @@
-Solisphaeridium akrochordum (Rasul, 1979) Moczydlowska & Stockfors, 2004 SPECIES
-=======
+# Solisphaeridium akrochordum (Rasul, 1979) Moczydlowska & Stockfors, 2004 SPECIES
 
 #### Status
 ACCEPTED

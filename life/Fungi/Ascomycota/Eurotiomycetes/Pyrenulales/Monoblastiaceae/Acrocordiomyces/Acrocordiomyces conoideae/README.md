@@ -1,5 +1,4 @@
-Acrocordiomyces conoideae Cif. & Tomas. SPECIES
-=======
+# Acrocordiomyces conoideae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

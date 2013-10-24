@@ -1,5 +1,4 @@
-Pyrenula harrimannii (Ach.) Trevis. SPECIES
-=======
+# Pyrenula harrimannii (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

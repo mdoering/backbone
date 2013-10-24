@@ -1,5 +1,4 @@
-Sphaeria dalbergiae Heer SPECIES
-=======
+# Sphaeria dalbergiae Heer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Appendiculella splendens (F. Stevens) Hansf. SPECIES
-=======
+# Appendiculella splendens (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

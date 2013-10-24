@@ -1,17 +1,16 @@
-Pannaria ahlneri P. M. Jørg. SPECIES
-=======
+# Fuscopannaria ahlneri (P. M. Jørg.) P. M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Hattori bot. Lab. 76: 205 (1994)
 
 #### Original name
-null
+Pannaria ahlneri P. M. Jørg.
 
 ### Remarks
 null

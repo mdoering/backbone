@@ -1,5 +1,4 @@
-Ovulida de Folin, 1887 GENUS
-=======
+# Ovulida de Folin, 1887 GENUS
 
 #### Status
 ACCEPTED

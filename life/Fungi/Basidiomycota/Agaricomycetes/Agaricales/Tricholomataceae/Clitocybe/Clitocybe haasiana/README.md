@@ -1,5 +1,4 @@
-Clitocybe haasiana Raithelh. SPECIES
-=======
+# Clitocybe haasiana Raithelh. SPECIES
 
 #### Status
 ACCEPTED

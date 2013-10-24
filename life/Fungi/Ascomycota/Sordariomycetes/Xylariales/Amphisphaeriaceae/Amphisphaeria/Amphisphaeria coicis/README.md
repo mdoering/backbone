@@ -1,5 +1,4 @@
-Amphisphaeria coicis Luc SPECIES
-=======
+# Amphisphaeria coicis Luc SPECIES
 
 #### Status
 ACCEPTED

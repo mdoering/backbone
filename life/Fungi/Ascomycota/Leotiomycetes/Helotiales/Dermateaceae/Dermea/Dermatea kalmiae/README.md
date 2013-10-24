@@ -1,5 +1,4 @@
-Dermatea kalmiae Cooke SPECIES
-=======
+# Dermatea kalmiae Cooke SPECIES
 
 #### Status
 ACCEPTED

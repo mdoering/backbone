@@ -1,17 +1,16 @@
-Stereocaulon azulensis Yoshim. & W.A. Weber SPECIES
-=======
+# Stereocaulon azulense Yoshim. & W.A. Weber SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Weber, Mycotaxon 27: 494 (1986)
 
 #### Original name
-Stereocaulon azulensis Yoshim. & W.A. Weber
+Stereocaulon azulense Yoshim. & W.A. Weber
 
 ### Remarks
 null

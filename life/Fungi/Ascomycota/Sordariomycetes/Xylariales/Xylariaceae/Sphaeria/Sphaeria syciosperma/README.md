@@ -1,5 +1,4 @@
-Sphaeria syciosperma Durieu & Mont. SPECIES
-=======
+# Sphaeria syciosperma Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uvigerina bellula Bandy, 1956 SPECIES
-=======
+# Uvigerina bellula Bandy, 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corollithion protosignum SPECIES
-=======
+# Corollithion protosignum SPECIES
 
 #### Status
 ACCEPTED

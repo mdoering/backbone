@@ -1,5 +1,4 @@
-Pholiota hymaeneicola Beeli SPECIES
-=======
+# Pholiota hymaeneicola Beeli SPECIES
 
 #### Status
 ACCEPTED

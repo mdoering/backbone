@@ -1,5 +1,4 @@
-Heterostegina apogama Roettger, 1987 SPECIES
-=======
+# Heterostegina apogama Roettger, 1987 SPECIES
 
 #### Status
 ACCEPTED

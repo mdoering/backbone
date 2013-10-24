@@ -1,5 +1,4 @@
-Laestadia destructiva (Berk. & Broome) Berl. & Voglino SPECIES
-=======
+# Laestadia destructiva (Berk. & Broome) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

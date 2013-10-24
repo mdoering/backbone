@@ -1,5 +1,4 @@
-Penicillium piceum Raper & Fennell, 1948 SPECIES
-=======
+# Penicillium piceum Raper & Fennell, 1948 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Puccinia pimpinellarum Rabenh. SPECIES
-=======
+# Puccinia pimpinellarum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

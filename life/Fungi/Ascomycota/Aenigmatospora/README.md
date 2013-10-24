@@ -1,5 +1,4 @@
-Aenigmatospora R.F. Castañeda Ruiz, Saikawa, Guarro & Calduch GENUS
-=======
+# Aenigmatospora R.F. Castañeda Ruiz, Saikawa, Guarro & Calduch GENUS
 
 #### Status
 ACCEPTED

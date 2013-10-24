@@ -1,5 +1,4 @@
-Laestadia rubescens Ellis & Everh. SPECIES
-=======
+# Laestadia rubescens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

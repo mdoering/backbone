@@ -1,5 +1,4 @@
-Asterina pseudopelliculosa Speg. SPECIES
-=======
+# Asterina pseudopelliculosa Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hypoxylon lichenicolum Höhn. SPECIES
-=======
+# Hypoxylon lichenicola Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Denkschr. Akad. Wiss. , Wein, Mathematische-naturwissenschaftliche Klasse 83: 26 (1907)
 
 #### Original name
-Hypoxylon lichenicolum Höhn.
+Hypoxylon lichenicola Höhn.
 
 ### Remarks
 null

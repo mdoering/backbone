@@ -1,5 +1,4 @@
-Pseudorotalia angusta Bilman, Hottinger & Oesterle, 1980 SPECIES
-=======
+# Pseudorotalia angusta Bilman, Hottinger & Oesterle, 1980 SPECIES
 
 #### Status
 ACCEPTED

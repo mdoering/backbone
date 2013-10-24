@@ -1,5 +1,4 @@
-Caloplaca touduziana SPECIES
-=======
+# Caloplaca touduziana SPECIES
 
 #### Status
 ACCEPTED

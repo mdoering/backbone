@@ -1,5 +1,4 @@
-Peziza subgilva Kalchbr. & Cooke SPECIES
-=======
+# Peziza subgilva Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

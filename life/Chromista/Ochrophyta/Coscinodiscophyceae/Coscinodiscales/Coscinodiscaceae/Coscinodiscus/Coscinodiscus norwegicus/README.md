@@ -1,5 +1,4 @@
-Coscinodiscus norwegicus H.J. Schrader SPECIES
-=======
+# Coscinodiscus norwegicus H.J. Schrader SPECIES
 
 #### Status
 ACCEPTED

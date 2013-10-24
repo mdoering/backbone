@@ -1,5 +1,4 @@
-Oospora lutea Kamyschko SPECIES
-=======
+# Oospora lutea Kamyschko SPECIES
 
 #### Status
 ACCEPTED

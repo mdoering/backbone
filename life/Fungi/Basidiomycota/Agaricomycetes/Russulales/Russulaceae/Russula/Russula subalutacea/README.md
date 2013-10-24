@@ -1,5 +1,4 @@
-Russula subalutacea Burl. SPECIES
-=======
+# Russula subalutacea Burl. SPECIES
 
 #### Status
 ACCEPTED

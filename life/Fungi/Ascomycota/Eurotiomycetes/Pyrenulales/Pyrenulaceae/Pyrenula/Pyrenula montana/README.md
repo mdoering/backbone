@@ -1,5 +1,4 @@
-Pyrenula montana Aptroot SPECIES
-=======
+# Pyrenula montana Aptroot SPECIES
 
 #### Status
 ACCEPTED

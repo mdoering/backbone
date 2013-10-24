@@ -1,5 +1,4 @@
-Aspicilia squalida Motyka SPECIES
-=======
+# Aspicilia squalida Motyka SPECIES
 
 #### Status
 ACCEPTED

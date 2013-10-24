@@ -1,5 +1,4 @@
-Hyaloscypha falcata Velen. SPECIES
-=======
+# Hyaloscypha falcata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentomita herpotricha Sacc. SPECIES
-=======
+# Lentomita herpotricha Sacc. SPECIES
 
 #### Status
 ACCEPTED

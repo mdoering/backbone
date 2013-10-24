@@ -1,5 +1,4 @@
-Marasmius plicatulus Peck SPECIES
-=======
+# Marasmius plicatulus Peck SPECIES
 
 #### Status
 ACCEPTED

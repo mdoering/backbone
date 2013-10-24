@@ -1,5 +1,4 @@
-Mycena fragillima A.H. Sm. SPECIES
-=======
+# Mycena fragillima A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

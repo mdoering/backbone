@@ -1,5 +1,4 @@
-Aschersonia crenulata Pat. & Har. SPECIES
-=======
+# Aschersonia crenulata Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

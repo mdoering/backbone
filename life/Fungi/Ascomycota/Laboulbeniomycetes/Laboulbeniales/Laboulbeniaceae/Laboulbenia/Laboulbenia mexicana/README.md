@@ -1,5 +1,4 @@
-Laboulbenia mexicana Thaxt. SPECIES
-=======
+# Laboulbenia mexicana Thaxt. SPECIES
 
 #### Status
 ACCEPTED

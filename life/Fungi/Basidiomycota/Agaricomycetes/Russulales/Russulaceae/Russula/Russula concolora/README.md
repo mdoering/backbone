@@ -1,5 +1,4 @@
-Russula concolora Buyck SPECIES
-=======
+# Russula concolora Buyck SPECIES
 
 #### Status
 ACCEPTED

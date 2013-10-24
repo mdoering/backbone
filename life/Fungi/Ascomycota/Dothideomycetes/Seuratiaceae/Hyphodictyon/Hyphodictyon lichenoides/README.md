@@ -1,5 +1,4 @@
-Hyphodictyon lichenoides Millard SPECIES
-=======
+# Hyphodictyon lichenoides Millard SPECIES
 
 #### Status
 ACCEPTED

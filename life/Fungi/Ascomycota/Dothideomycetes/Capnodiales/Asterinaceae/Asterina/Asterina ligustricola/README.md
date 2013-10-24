@@ -1,5 +1,4 @@
-Asterina ligustricola Hosag. & Kamar., 2004 SPECIES
-=======
+# Asterina ligustricola Hosag. & Kamar., 2004 SPECIES
 
 #### Status
 ACCEPTED

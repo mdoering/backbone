@@ -1,5 +1,4 @@
-Platygrapha leucopsara Nyl. SPECIES
-=======
+# Platygrapha leucopsara Nyl. SPECIES
 
 #### Status
 ACCEPTED

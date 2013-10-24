@@ -1,5 +1,4 @@
-Gymnopilus pholiotoides Murrill SPECIES
-=======
+# Gymnopilus pholiotoides Murrill SPECIES
 
 #### Status
 ACCEPTED

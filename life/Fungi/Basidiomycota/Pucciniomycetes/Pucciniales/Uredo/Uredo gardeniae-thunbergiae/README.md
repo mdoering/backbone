@@ -1,5 +1,4 @@
-Uredo gardeniae-thunbergiae Henn. SPECIES
-=======
+# Uredo gardeniae-thunbergiae Henn. SPECIES
 
 #### Status
 ACCEPTED

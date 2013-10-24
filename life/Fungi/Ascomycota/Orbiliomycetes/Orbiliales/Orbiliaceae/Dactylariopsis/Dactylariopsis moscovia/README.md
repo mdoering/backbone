@@ -1,5 +1,4 @@
-Dactylariopsis moscovia Mekht. SPECIES
-=======
+# Dactylariopsis moscovia Mekht. SPECIES
 
 #### Status
 ACCEPTED

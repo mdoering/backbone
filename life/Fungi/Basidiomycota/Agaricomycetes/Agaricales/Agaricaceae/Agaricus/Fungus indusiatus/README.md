@@ -1,5 +1,4 @@
-Fungus indusiatus (Berk.) Kuntze SPECIES
-=======
+# Fungus indusiatus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

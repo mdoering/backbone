@@ -1,8 +1,7 @@
-Catillariopsis massalongii (Körb.) M. Choisy SPECIES
-=======
+# Catillariopsis massalongoi (Körb.) M. Choisy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

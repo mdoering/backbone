@@ -1,5 +1,4 @@
-Pezizella tenuiasca Velen. SPECIES
-=======
+# Pezizella tenuiasca Velen. SPECIES
 
 #### Status
 ACCEPTED

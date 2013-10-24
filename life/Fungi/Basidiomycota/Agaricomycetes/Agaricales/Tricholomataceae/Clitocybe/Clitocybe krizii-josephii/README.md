@@ -1,17 +1,16 @@
-Clitocybe krizii-josephi Svrcek SPECIES
-=======
+# Clitocybe krizii-josephii Svrcek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceská Mykol. 29(2): 79 (1975)
 
 #### Original name
-Clitocybe krizii-josephi Svrcek
+Clitocybe krizii-josephii Svrcek
 
 ### Remarks
 null

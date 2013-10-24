@@ -1,5 +1,4 @@
-Lentibacillus salinarum Lee, Choi, Oh & Yoon, 2008 SPECIES
-=======
+# Lentibacillus salinarum Lee, Choi, Oh & Yoon, 2008 SPECIES
 
 #### Status
 ACCEPTED

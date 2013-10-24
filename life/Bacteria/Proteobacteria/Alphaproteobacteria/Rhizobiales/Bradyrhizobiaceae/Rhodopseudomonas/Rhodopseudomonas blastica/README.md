@@ -1,5 +1,4 @@
-Rhodopseudomonas blastica Eckersley & Dow, 1981 SPECIES
-=======
+# Rhodopseudomonas blastica Eckersley & Dow, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wrightoporia aurantipora T. Hatt. SPECIES
-=======
+# Wrightoporia aurantipora T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

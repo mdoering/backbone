@@ -1,17 +1,16 @@
-Meliola cameliae (Catt.) Sacc. SPECIES
-=======
+# Meliola camelliae (Catt.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 62 (1882)
 
 #### Original name
-Fumago cameliae Catt.
+Fumago camelliae Catt.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Zografia notonectae Bogoyavl. SPECIES
-=======
+# Zografia notonectae Bogoyavl. SPECIES
 
 #### Status
 ACCEPTED

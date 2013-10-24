@@ -1,17 +1,16 @@
-Thelephora frondescens Fr., 1821 SPECIES
-=======
+# Thelephora fragilis Ehrh., 1787 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 436 (1821)
+Pl. Crypt. Linn. Exsicc. (1787)
 
 #### Original name
-Thelephora frondescens Fr., 1821
+Thelephora fragilis Ehrh., 1787
 
 ### Remarks
 null

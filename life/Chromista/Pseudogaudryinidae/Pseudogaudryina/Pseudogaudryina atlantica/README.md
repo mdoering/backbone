@@ -1,8 +1,7 @@
-Gaudryina atlantica var. pacifica Cushman & McCulloch, 1939 VARIETY
-=======
+# Pseudogaudryina atlantica (Bailey, 1851) SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

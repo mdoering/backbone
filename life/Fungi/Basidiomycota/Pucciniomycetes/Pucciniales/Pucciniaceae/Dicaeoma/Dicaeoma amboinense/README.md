@@ -1,5 +1,4 @@
-Dicaeoma amboinense (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma amboinense (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

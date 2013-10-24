@@ -1,5 +1,4 @@
-Arthonia atacamensis Follmann SPECIES
-=======
+# Arthonia atacamensis Follmann SPECIES
 
 #### Status
 ACCEPTED

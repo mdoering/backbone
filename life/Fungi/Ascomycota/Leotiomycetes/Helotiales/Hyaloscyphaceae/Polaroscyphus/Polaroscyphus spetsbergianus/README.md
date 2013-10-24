@@ -1,5 +1,4 @@
-Polaroscyphus spetsbergianus Huhtinen, 1987 SPECIES
-=======
+# Polaroscyphus spetsbergianus Huhtinen, 1987 SPECIES
 
 #### Status
 ACCEPTED

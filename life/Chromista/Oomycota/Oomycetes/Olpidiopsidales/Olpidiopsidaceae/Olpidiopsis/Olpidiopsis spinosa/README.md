@@ -1,5 +1,4 @@
-Olpidiopsis spinosa Tokun., 1933 SPECIES
-=======
+# Olpidiopsis spinosa Tokun., 1933 SPECIES
 
 #### Status
 ACCEPTED

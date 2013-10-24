@@ -1,5 +1,4 @@
-Ramularia grantii Dearn. SPECIES
-=======
+# Ramularia grantii Dearn. SPECIES
 
 #### Status
 ACCEPTED

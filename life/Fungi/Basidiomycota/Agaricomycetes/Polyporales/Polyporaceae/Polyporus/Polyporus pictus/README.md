@@ -1,5 +1,4 @@
-Polyporus pictus (Schultz) Fr. SPECIES
-=======
+# Polyporus pictus (Schultz) Fr. SPECIES
 
 #### Status
 ACCEPTED

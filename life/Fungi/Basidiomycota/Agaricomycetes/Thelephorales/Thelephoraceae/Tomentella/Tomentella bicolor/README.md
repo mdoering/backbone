@@ -1,5 +1,4 @@
-Tomentella bicolor (G.F. Atk. & Burt) Bourdot & Galzin SPECIES
-=======
+# Tomentella bicolor (G.F. Atk. & Burt) Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

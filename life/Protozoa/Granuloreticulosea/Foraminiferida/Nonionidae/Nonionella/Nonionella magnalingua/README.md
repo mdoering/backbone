@@ -1,5 +1,4 @@
-Nonionella magnalingua Finlay, 1940 SPECIES
-=======
+# Nonionella magnalingua Finlay, 1940 SPECIES
 
 #### Status
 ACCEPTED

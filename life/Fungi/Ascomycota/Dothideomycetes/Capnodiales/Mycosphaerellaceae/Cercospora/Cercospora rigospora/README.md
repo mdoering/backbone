@@ -1,5 +1,4 @@
-Cercospora rigospora G.F. Atk. SPECIES
-=======
+# Cercospora rigospora G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

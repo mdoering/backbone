@@ -1,5 +1,4 @@
-Helicosporium phragmites Hoehnel SPECIES
-=======
+# Helicosporium phragmites Hoehnel SPECIES
 
 #### Status
 ACCEPTED

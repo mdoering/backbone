@@ -1,5 +1,4 @@
-Boletus luteobadius Britzelm. SPECIES
-=======
+# Boletus luteobadius Britzelm. SPECIES
 
 #### Status
 ACCEPTED

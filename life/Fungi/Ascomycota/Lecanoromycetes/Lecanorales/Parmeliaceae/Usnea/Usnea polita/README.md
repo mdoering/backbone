@@ -1,5 +1,4 @@
-Usnea polita Motyka SPECIES
-=======
+# Usnea polita Motyka SPECIES
 
 #### Status
 ACCEPTED

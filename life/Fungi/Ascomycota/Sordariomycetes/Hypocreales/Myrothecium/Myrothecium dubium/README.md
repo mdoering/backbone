@@ -1,5 +1,4 @@
-Myrothecium dubium Tode SPECIES
-=======
+# Myrothecium dubium Tode SPECIES
 
 #### Status
 ACCEPTED

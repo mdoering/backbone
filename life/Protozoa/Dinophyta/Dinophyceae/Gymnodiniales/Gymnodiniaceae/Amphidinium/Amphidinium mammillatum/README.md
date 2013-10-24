@@ -1,8 +1,7 @@
-Amphidinium pseudogalbanum Conrad & Kufferath SPECIES
-=======
+# Amphidinium mammillatum Conrad & Kufferath SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

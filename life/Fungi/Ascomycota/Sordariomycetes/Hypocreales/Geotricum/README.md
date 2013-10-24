@@ -1,5 +1,4 @@
-Geotricum GENUS
-=======
+# Geotricum GENUS
 
 #### Status
 ACCEPTED

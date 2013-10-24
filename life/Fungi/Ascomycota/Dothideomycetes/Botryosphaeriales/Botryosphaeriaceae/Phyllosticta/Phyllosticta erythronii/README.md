@@ -1,5 +1,4 @@
-Phyllosticta erythronii W.B. Cooke & C.G. Shaw SPECIES
-=======
+# Phyllosticta erythronii W.B. Cooke & C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

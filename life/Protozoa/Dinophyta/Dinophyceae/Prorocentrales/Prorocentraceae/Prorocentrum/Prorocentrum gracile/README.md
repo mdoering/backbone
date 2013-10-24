@@ -1,8 +1,7 @@
-Prorocentrum diamantinae Wood SPECIES
-=======
+# Prorocentrum gracile Schutt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

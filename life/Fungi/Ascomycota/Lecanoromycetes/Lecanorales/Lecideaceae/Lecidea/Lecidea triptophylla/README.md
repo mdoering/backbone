@@ -1,5 +1,4 @@
-Lecidea triptophylla var. triptophylla VARIETY
-=======
+# Lecidea triptophylla SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea triptophylla var. triptophylla
+null
 
 ### Remarks
 null

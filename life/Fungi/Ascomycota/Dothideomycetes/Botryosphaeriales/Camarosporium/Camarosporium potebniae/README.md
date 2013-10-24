@@ -1,5 +1,4 @@
-Camarosporium potebniae Sacc. & Trotter SPECIES
-=======
+# Camarosporium potebniae Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

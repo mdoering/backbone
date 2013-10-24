@@ -1,5 +1,4 @@
-Fragilaria nanana Lange-Bertalot SPECIES
-=======
+# Fragilaria nanana Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

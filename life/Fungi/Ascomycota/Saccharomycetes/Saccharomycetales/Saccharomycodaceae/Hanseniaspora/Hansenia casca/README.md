@@ -1,5 +1,4 @@
-Hansenia casca (Fr.) P. Karst. SPECIES
-=======
+# Hansenia casca (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

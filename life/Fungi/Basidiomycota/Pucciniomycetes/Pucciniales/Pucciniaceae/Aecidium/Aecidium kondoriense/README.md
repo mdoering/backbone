@@ -1,5 +1,4 @@
-Aecidium kondoriense Kuprev. SPECIES
-=======
+# Aecidium kondoriense Kuprev. SPECIES
 
 #### Status
 ACCEPTED

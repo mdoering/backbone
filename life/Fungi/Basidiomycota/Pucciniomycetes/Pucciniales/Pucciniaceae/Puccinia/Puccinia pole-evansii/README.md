@@ -1,5 +1,4 @@
-Puccinia pole-evansii Doidge SPECIES
-=======
+# Puccinia pole-evansii Doidge SPECIES
 
 #### Status
 ACCEPTED

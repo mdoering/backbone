@@ -1,5 +1,4 @@
-Coprinus platensis Speg. SPECIES
-=======
+# Coprinus platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

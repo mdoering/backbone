@@ -1,5 +1,4 @@
-Thelephora pendens Corner, 1968 SPECIES
-=======
+# Thelephora pendens Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

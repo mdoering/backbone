@@ -1,5 +1,4 @@
-Parmathyrites ramanujamii H.P. Singh, R.K. Saxena & M.R. Rao SPECIES
-=======
+# Parmathyrites ramanujamii H.P. Singh, R.K. Saxena & M.R. Rao SPECIES
 
 #### Status
 ACCEPTED

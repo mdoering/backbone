@@ -1,17 +1,16 @@
-Melanomma occidentale var. occidentale (Ellis) Sacc. VARIETY
-=======
+# Cucurbitaria occidentalis Ellis, 1892 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 7: 125 (1881)
+null
 
 #### Original name
-Melanomma occidentale var. occidentale (Ellis) Sacc.
+Cucurbitaria occidentalis Ellis, 1892
 
 ### Remarks
 null

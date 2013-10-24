@@ -1,5 +1,4 @@
-Discochora asparagi (Gonz. Frag. & Cif.) Bissett SPECIES
-=======
+# Discochora asparagi (Gonz. Frag. & Cif.) Bissett SPECIES
 
 #### Status
 ACCEPTED

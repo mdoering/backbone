@@ -1,5 +1,4 @@
-Faerberia Pouzar, 1981 GENUS
-=======
+# Faerberia Pouzar, 1981 GENUS
 
 #### Status
 ACCEPTED

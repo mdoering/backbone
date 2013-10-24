@@ -1,8 +1,7 @@
-Aecidium obionis Speg. SPECIES
-=======
+# Aecidium obiones Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium obionis Speg.
+Aecidium obiones Speg.
 
 ### Remarks
 null

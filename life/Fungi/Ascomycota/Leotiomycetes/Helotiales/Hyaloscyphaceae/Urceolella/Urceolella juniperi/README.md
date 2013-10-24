@@ -1,5 +1,4 @@
-Urceolella juniperi (Velen.) Huhtinen SPECIES
-=======
+# Urceolella juniperi (Velen.) Huhtinen SPECIES
 
 #### Status
 ACCEPTED

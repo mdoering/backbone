@@ -1,5 +1,4 @@
-Fragilaria arcus (Ehrenberg) Cleve SPECIES
-=======
+# Fragilaria arcus (Ehrenberg) Cleve SPECIES
 
 #### Status
 ACCEPTED

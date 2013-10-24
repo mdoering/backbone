@@ -1,5 +1,4 @@
-Humaria appendiculata (Henn.) Boedijn SPECIES
-=======
+# Humaria appendiculata (Henn.) Boedijn SPECIES
 
 #### Status
 ACCEPTED

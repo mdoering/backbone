@@ -1,5 +1,4 @@
-Omphalina cylindrospora Dennis SPECIES
-=======
+# Omphalina cylindrospora Dennis SPECIES
 
 #### Status
 ACCEPTED

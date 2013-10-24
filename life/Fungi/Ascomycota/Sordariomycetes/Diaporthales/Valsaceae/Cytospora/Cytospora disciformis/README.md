@@ -1,5 +1,4 @@
-Cytospora disciformis G.C. Adams & M.J. Wingf. SPECIES
-=======
+# Cytospora disciformis G.C. Adams & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

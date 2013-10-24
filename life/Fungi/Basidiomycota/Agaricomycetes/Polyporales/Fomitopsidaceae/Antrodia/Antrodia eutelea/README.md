@@ -1,14 +1,13 @@
-Poria eutelea (Har. & Pat.) Sacc., 1925 SPECIES
-=======
+# Antrodia eutelea (Har. & Pat.) Ryvarden, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 23: 416 (1925)
+Occ. Pap. Farlow Herb. Crypt. Bot. 18: 18 (1983)
 
 #### Original name
 Trametes eutelea Har. & Pat., 1912

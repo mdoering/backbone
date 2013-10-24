@@ -1,5 +1,4 @@
-Gnomonia quercus-borealis M. Monod SPECIES
-=======
+# Gnomonia quercus-borealis M. Monod SPECIES
 
 #### Status
 ACCEPTED

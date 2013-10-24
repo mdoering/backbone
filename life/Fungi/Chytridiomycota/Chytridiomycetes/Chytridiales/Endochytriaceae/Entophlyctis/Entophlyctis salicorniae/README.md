@@ -1,5 +1,4 @@
-Entophlyctis salicorniae Nemec SPECIES
-=======
+# Entophlyctis salicorniae Nemec SPECIES
 
 #### Status
 ACCEPTED

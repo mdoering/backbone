@@ -1,5 +1,4 @@
-Septoria fici-indicae Voglino SPECIES
-=======
+# Septoria fici-indicae Voglino SPECIES
 
 #### Status
 ACCEPTED

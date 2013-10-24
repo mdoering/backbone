@@ -1,5 +1,4 @@
-Echidnodes psychotriae (G. Arnaud) F. Stevens SPECIES
-=======
+# Echidnodes psychotriae (G. Arnaud) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

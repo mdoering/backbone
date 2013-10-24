@@ -1,14 +1,13 @@
-Uromyces proeminens var. euphorbiicola (Berk. & M.A. Curtis) Arthur, 1934 VARIETY
-=======
+# Uromyces euphorbiicola (Berk. & M.A. Curtis) Tranzschel, 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 8(1): 8 (1910)
 
 #### Original name
 null

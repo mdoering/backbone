@@ -1,5 +1,4 @@
-Phallocysta eumekes Dörhöfer & Davies, 1980 SPECIES
-=======
+# Phallocysta eumekes Dörhöfer & Davies, 1980 SPECIES
 
 #### Status
 ACCEPTED

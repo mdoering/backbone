@@ -1,5 +1,4 @@
-Catinula Léveillé, 1848 GENUS
-=======
+# Catinula Léveillé, 1848 GENUS
 
 #### Status
 ACCEPTED

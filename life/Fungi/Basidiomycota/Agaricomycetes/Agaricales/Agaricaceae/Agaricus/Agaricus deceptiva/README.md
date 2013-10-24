@@ -1,5 +1,4 @@
-Agaricus deceptiva Kauffman SPECIES
-=======
+# Agaricus deceptiva Kauffman SPECIES
 
 #### Status
 ACCEPTED

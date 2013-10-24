@@ -1,5 +1,4 @@
-Cortinarius fiveashianus Grgur. SPECIES
-=======
+# Cortinarius fiveashianus Grgur. SPECIES
 
 #### Status
 ACCEPTED

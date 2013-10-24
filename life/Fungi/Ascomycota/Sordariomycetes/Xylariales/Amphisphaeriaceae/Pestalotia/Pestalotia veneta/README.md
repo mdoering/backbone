@@ -1,5 +1,4 @@
-Pestalotia veneta Sacc. SPECIES
-=======
+# Pestalotia veneta Sacc. SPECIES
 
 #### Status
 ACCEPTED

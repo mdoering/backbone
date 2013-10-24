@@ -1,5 +1,4 @@
-Lasiosphaeriopsis pilophori Zhurb. & Triebel SPECIES
-=======
+# Lasiosphaeriopsis pilophori Zhurb. & Triebel SPECIES
 
 #### Status
 ACCEPTED

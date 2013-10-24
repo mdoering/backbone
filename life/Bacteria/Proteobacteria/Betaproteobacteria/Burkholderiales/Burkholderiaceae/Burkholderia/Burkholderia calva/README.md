@@ -1,5 +1,4 @@
-Burkholderia calva Van Oevelen et al., 2004. SPECIES
-=======
+# Burkholderia calva Van Oevelen et al., 2004. SPECIES
 
 #### Status
 ACCEPTED

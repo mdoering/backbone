@@ -1,5 +1,4 @@
-Septoria lithospermi Davis & H.C. Greene SPECIES
-=======
+# Septoria lithospermi Davis & H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

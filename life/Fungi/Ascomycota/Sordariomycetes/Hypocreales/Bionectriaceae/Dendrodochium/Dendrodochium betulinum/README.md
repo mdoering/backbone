@@ -1,5 +1,4 @@
-Dendrodochium betulinum Rostr. SPECIES
-=======
+# Dendrodochium betulinum Rostr. SPECIES
 
 #### Status
 ACCEPTED

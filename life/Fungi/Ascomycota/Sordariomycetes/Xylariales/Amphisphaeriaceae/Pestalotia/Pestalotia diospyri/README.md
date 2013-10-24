@@ -1,14 +1,13 @@
-Pestalotiopsis diospyri (Syd. & P. Syd.) Rib. Souza, 1985 SPECIES
-=======
+# Pestalotia diospyri Syd. & P. Syd., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rodriguésia 37(no. 63): 22 (1985)
+Annls mycol. 11: 117 (1913)
 
 #### Original name
 Pestalotia diospyri Syd. & P. Syd., 1913

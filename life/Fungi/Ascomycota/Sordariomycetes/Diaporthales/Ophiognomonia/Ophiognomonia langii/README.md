@@ -1,5 +1,4 @@
-Ophiognomonia langii M. Monod SPECIES
-=======
+# Ophiognomonia langii M. Monod SPECIES
 
 #### Status
 ACCEPTED

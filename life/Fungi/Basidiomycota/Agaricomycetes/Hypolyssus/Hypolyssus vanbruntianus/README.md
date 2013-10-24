@@ -1,5 +1,4 @@
-Hypolyssus vanbruntianus (Germ.) Kuntze SPECIES
-=======
+# Hypolyssus vanbruntianus (Germ.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

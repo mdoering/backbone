@@ -1,5 +1,4 @@
-Ascobolus egyptiacus Mouch., 1977 SPECIES
-=======
+# Ascobolus egyptiacus Mouch., 1977 SPECIES
 
 #### Status
 ACCEPTED

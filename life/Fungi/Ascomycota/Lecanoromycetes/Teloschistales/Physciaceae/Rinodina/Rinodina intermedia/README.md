@@ -1,17 +1,16 @@
-Rinodina intermedia var. intermedia VARIETY
-=======
+# Rinodina intermedia Bagl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Comm. Soc. crittog. Ital. 1(4): 315 (1863)
+null
 
 #### Original name
-Rinodina intermedia var. intermedia
+null
 
 ### Remarks
 null

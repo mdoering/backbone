@@ -1,5 +1,4 @@
-Scolecodothis GENUS
-=======
+# Scolecodothis GENUS
 
 #### Status
 ACCEPTED

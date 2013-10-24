@@ -1,17 +1,16 @@
-Polyporus lobatus Schwein., 1832 SPECIES
-=======
+# Ganoderma lobatum (Schwein.) G.F. Atk., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. phil. Soc. , New Series 4(2): 157 (1832)
+Annls mycol. 6: 190 (1908)
 
 #### Original name
-Polyporus lobatus Schwein., 1832
+Fomes lobatus (Schwein.) Cooke, 1885
 
 ### Remarks
 null

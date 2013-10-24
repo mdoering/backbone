@@ -1,5 +1,4 @@
-Cystosporogenes deliaradicae J.I.R. Larsson, J. Eilenberg & J. Bresciani SPECIES
-=======
+# Cystosporogenes deliaradicae J.I.R. Larsson, J. Eilenberg & J. Bresciani SPECIES
 
 #### Status
 ACCEPTED

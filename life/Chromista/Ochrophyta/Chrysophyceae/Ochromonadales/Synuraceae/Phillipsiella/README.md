@@ -1,5 +1,4 @@
-Phillipsiella Lemmermann, 1899 GENUS
-=======
+# Phillipsiella Lemmermann, 1899 GENUS
 
 #### Status
 ACCEPTED

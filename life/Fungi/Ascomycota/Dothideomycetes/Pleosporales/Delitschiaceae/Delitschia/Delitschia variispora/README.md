@@ -1,5 +1,4 @@
-Delitschia variispora Luck-Allen & Cain SPECIES
-=======
+# Delitschia variispora Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

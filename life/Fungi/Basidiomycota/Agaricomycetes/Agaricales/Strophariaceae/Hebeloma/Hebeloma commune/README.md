@@ -1,5 +1,4 @@
-Hebeloma commune (Peck) Murrill SPECIES
-=======
+# Hebeloma commune (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora hosackiae Chupp SPECIES
-=======
+# Cercospora hosackiae Chupp SPECIES
 
 #### Status
 ACCEPTED

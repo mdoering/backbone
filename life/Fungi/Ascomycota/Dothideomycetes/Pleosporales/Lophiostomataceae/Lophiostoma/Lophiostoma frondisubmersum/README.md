@@ -1,14 +1,13 @@
-Lophiostoma fronsisubmersa (K.D. Hyde) E.C.Y. Liew, Aptroot & K.D. Hyde SPECIES
-=======
+# Lophiostoma frondisubmersum (K.D. Hyde) E.C.Y. Liew, Aptroot & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 94(5): 812 (2002)
 
 #### Original name
 Massarina fronsisubmersa K.D. Hyde

@@ -1,5 +1,4 @@
-Sethopillidae FAMILY
-=======
+# Sethopillidae FAMILY
 
 #### Status
 ACCEPTED

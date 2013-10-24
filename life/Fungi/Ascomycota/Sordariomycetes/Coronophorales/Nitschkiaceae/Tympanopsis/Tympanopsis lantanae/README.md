@@ -1,5 +1,4 @@
-Tympanopsis lantanae R. Rao SPECIES
-=======
+# Tympanopsis lantanae R. Rao SPECIES
 
 #### Status
 ACCEPTED

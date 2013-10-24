@@ -1,5 +1,4 @@
-Enantiothamnus Pinoy, 1911 GENUS
-=======
+# Enantiothamnus Pinoy, 1911 GENUS
 
 #### Status
 ACCEPTED

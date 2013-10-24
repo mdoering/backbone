@@ -1,14 +1,13 @@
-Neovossia opaca (Syd. & P. Syd.) Vánky, 1993 SPECIES
-=======
+# Tilletia opaca Syd. & P. Syd., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 48: 39 (1993)
+Philipp. J. Sci. , C, Bot. 8: 265 (1913)
 
 #### Original name
 Tilletia opaca Syd. & P. Syd., 1913

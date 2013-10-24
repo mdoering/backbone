@@ -1,5 +1,4 @@
-Peziza viridicoma Peck SPECIES
-=======
+# Peziza viridicoma Peck SPECIES
 
 #### Status
 ACCEPTED

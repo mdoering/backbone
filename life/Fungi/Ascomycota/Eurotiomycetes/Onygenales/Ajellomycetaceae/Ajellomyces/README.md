@@ -1,17 +1,16 @@
-Emmonsiella Kwon-Chung GENUS
-=======
+# Ajellomyces McDonough & A.L. Lewis GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Science, N. Y. 177: 368 (1972)
+Mycologia 60(1): 77 (1968)
 
 #### Original name
-Emmonsiella Kwon-Chung
+Ajellomyces McDonough & A.L. Lewis
 
 ### Remarks
 null

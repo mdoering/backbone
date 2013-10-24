@@ -1,5 +1,4 @@
-Pseudonovella GENUS
-=======
+# Pseudonovella GENUS
 
 #### Status
 ACCEPTED

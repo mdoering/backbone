@@ -1,5 +1,4 @@
-Thalassiosira trifulta G. Fryxell SPECIES
-=======
+# Thalassiosira trifulta G. Fryxell SPECIES
 
 #### Status
 ACCEPTED

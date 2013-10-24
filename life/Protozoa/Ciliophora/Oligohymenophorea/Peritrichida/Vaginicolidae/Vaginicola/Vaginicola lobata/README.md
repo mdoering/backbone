@@ -1,5 +1,4 @@
-Vaginicola lobata Daday, 1907 SPECIES
-=======
+# Vaginicola lobata Daday, 1907 SPECIES
 
 #### Status
 ACCEPTED

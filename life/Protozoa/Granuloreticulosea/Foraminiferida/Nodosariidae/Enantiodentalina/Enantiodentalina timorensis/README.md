@@ -1,5 +1,4 @@
-Enantiodentalina timorensis Loeblich & Tappan, 1994 SPECIES
-=======
+# Enantiodentalina timorensis Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

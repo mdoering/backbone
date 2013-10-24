@@ -1,5 +1,4 @@
-Ectocarpus cylindricus Saunders SPECIES
-=======
+# Ectocarpus cylindricus Saunders SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota flavipes Rick SPECIES
-=======
+# Lepiota flavipes Rick SPECIES
 
 #### Status
 ACCEPTED

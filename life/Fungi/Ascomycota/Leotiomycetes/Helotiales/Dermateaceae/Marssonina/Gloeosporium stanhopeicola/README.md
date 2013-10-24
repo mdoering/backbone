@@ -1,5 +1,4 @@
-Gloeosporium stanhopeicola Henn. SPECIES
-=======
+# Gloeosporium stanhopeicola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus gelatinosa Weinm. SPECIES
-=======
+# Polyporus gelatinosa Weinm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe moseri Bon SPECIES
-=======
+# Hygrocybe moseri Bon SPECIES
 
 #### Status
 ACCEPTED

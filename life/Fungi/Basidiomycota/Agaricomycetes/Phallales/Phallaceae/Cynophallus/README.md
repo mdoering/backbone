@@ -1,5 +1,4 @@
-Cynophallus GENUS
-=======
+# Cynophallus GENUS
 
 #### Status
 ACCEPTED

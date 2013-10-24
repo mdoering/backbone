@@ -1,5 +1,4 @@
-Filosporella versimorpha Marvanová, P.J. Fisher, Aimer & B.C. Segedin, 1992 SPECIES
-=======
+# Filosporella versimorpha Marvanová, P.J. Fisher, Aimer & B.C. Segedin, 1992 SPECIES
 
 #### Status
 ACCEPTED

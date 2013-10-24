@@ -1,5 +1,4 @@
-Rhizopogon amoenus K.A. Harrison & A.H. Sm. SPECIES
-=======
+# Rhizopogon amoenus K.A. Harrison & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

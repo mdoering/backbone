@@ -1,5 +1,4 @@
-Dimeromyces rugosus Thaxt. SPECIES
-=======
+# Dimeromyces rugosus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

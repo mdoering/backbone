@@ -1,17 +1,16 @@
-Parmelia dubia var. dubia VARIETY
-=======
+# Punctelia subrudecta (Nyl.) Krog SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nordic Jl Bot. 2(3): 291 (1982)
 
 #### Original name
-Parmelia dubia var. dubia
+Parmelia subrudecta Nyl.
 
 ### Remarks
 null

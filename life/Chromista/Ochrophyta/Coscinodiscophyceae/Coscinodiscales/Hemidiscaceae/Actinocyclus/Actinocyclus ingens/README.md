@@ -1,11 +1,10 @@
-Actinocyclus irregularis Van Heurck SPECIES
-=======
+# Actinocyclus ingens Rattray, 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

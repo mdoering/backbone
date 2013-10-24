@@ -1,5 +1,4 @@
-Kinyrosphaera helicata SPECIES
-=======
+# Kinyrosphaera helicata SPECIES
 
 #### Status
 ACCEPTED

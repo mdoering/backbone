@@ -1,5 +1,4 @@
-Pseudomonas azotifigens Hatayama et al., 2005 SPECIES
-=======
+# Pseudomonas azotifigens Hatayama et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

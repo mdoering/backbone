@@ -1,5 +1,4 @@
-Hysterium corylea Fr. SPECIES
-=======
+# Hysterium corylea Fr. SPECIES
 
 #### Status
 ACCEPTED

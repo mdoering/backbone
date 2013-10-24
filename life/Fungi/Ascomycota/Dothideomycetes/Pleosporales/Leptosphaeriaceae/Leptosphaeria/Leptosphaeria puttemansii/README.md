@@ -1,5 +1,4 @@
-Leptosphaeria puttemansii Maubl. SPECIES
-=======
+# Leptosphaeria puttemansii Maubl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thialkalimicrobium sibiricum SPECIES
-=======
+# Thialkalimicrobium sibiricum SPECIES
 
 #### Status
 ACCEPTED

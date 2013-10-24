@@ -1,5 +1,4 @@
-Perrotia gallica (P. Karst. & Har.) Spooner SPECIES
-=======
+# Perrotia gallica (P. Karst. & Har.) Spooner SPECIES
 
 #### Status
 ACCEPTED

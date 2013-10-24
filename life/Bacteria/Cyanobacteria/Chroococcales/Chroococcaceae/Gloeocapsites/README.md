@@ -1,5 +1,4 @@
-Gloeocapsites M.D. Zalessky, 1918 GENUS
-=======
+# Gloeocapsites M.D. Zalessky, 1918 GENUS
 
 #### Status
 ACCEPTED

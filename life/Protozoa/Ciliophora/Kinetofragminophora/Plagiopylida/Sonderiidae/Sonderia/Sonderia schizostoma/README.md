@@ -1,5 +1,4 @@
-Sonderia schizostoma Kahl, 1930 SPECIES
-=======
+# Sonderia schizostoma Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

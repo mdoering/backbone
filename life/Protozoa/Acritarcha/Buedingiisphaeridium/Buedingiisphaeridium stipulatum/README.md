@@ -1,5 +1,4 @@
-Buedingiisphaeridium stipulatum (Jansonius, 1962) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Buedingiisphaeridium stipulatum (Jansonius, 1962) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

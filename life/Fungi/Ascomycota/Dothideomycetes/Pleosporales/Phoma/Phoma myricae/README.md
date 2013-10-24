@@ -1,5 +1,4 @@
-Phoma myricae P. Karst., 1884 SPECIES
-=======
+# Phoma myricae P. Karst., 1884 SPECIES
 
 #### Status
 ACCEPTED

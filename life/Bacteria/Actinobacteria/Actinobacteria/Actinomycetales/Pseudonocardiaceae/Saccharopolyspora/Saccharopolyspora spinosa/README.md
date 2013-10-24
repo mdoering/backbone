@@ -1,5 +1,4 @@
-Saccharopolyspora spinosa Mertz & Yao, 1990 SPECIES
-=======
+# Saccharopolyspora spinosa Mertz & Yao, 1990 SPECIES
 
 #### Status
 ACCEPTED

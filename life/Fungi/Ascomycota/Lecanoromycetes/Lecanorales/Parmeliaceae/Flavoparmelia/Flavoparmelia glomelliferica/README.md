@@ -1,5 +1,4 @@
-Flavoparmelia glomelliferica Elix & Adler SPECIES
-=======
+# Flavoparmelia glomelliferica Elix & Adler SPECIES
 
 #### Status
 ACCEPTED

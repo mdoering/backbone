@@ -1,5 +1,4 @@
-Diplodia litseae Henn. SPECIES
-=======
+# Diplodia litseae Henn. SPECIES
 
 #### Status
 ACCEPTED

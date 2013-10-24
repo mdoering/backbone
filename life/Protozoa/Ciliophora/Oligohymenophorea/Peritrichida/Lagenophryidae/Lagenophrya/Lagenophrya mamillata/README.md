@@ -1,5 +1,4 @@
-Lagenophrya mamillata Gelei, 1954 SPECIES
-=======
+# Lagenophrya mamillata Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

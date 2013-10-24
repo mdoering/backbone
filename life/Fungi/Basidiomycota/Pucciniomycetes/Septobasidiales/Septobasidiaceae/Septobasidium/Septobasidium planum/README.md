@@ -1,5 +1,4 @@
-Septobasidium planum Boedijn SPECIES
-=======
+# Septobasidium planum Boedijn SPECIES
 
 #### Status
 ACCEPTED

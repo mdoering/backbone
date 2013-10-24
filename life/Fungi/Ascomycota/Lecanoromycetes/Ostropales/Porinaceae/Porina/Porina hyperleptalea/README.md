@@ -1,17 +1,16 @@
-Segestria leptaleina (Nyl.) Hellb. SPECIES
-=======
+# Porina hyperleptalea P. M. McCarthy & Kantvilas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Nov. Zeland. 131 (1896)
+Lichenologist 25(2): 142 (1993)
 
 #### Original name
-null
+Porina hyperleptalea P. M. McCarthy & Kantvilas
 
 ### Remarks
 null

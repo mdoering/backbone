@@ -1,14 +1,13 @@
-Dasyscypha ellisiana (Rehm) Sacc. SPECIES
-=======
+# Dasyscyphus ellisianus (Rehm) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 459 (1889)
 
 #### Original name
 Peziza ellisiana Rehm

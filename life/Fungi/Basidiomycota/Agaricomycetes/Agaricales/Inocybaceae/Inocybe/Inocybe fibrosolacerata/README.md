@@ -1,5 +1,4 @@
-Inocybe fibrosolacerata (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Inocybe fibrosolacerata (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

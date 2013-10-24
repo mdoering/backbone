@@ -1,5 +1,4 @@
-Pleurochloris terrestris Fritsch & John SPECIES
-=======
+# Pleurochloris terrestris Fritsch & John SPECIES
 
 #### Status
 ACCEPTED

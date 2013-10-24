@@ -1,5 +1,4 @@
-Patriciomyces D. Hawksw. GENUS
-=======
+# Patriciomyces D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

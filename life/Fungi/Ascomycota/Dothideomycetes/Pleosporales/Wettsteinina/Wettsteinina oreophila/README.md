@@ -1,5 +1,4 @@
-Wettsteinina oreophila Shoemaker & C.E. Babc. SPECIES
-=======
+# Wettsteinina oreophila Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

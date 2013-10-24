@@ -1,5 +1,4 @@
-Periconiella smeathmanniae M.B. Ellis SPECIES
-=======
+# Periconiella smeathmanniae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

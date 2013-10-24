@@ -1,5 +1,4 @@
-Dileptus cygnis Claparède & Lachmann, 1859 SPECIES
-=======
+# Dileptus cygnis Claparède & Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

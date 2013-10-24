@@ -1,5 +1,4 @@
-Arthonia stictica (Fée) Nyl. SPECIES
-=======
+# Arthonia stictica (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

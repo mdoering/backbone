@@ -1,5 +1,4 @@
-Physcia integra SPECIES
-=======
+# Physcia integra SPECIES
 
 #### Status
 ACCEPTED

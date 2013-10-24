@@ -1,5 +1,4 @@
-Sphaceloma hederae Bitanc. & Jenkins, 1946 SPECIES
-=======
+# Sphaceloma hederae Bitanc. & Jenkins, 1946 SPECIES
 
 #### Status
 ACCEPTED

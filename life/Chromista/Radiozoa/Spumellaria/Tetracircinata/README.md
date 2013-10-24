@@ -1,5 +1,4 @@
-Tetracircinata Nazarov & Ormiston, 1984 GENUS
-=======
+# Tetracircinata Nazarov & Ormiston, 1984 GENUS
 
 #### Status
 ACCEPTED

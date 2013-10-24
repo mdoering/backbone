@@ -1,5 +1,4 @@
-Pseudocercospora punctata (Wakef.) B. Sutton SPECIES
-=======
+# Pseudocercospora punctata (Wakef.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

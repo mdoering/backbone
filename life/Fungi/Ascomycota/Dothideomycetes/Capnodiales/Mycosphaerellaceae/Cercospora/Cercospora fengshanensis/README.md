@@ -1,5 +1,4 @@
-Cercospora fengshanensis T.Y. Lin & J.M. Yen SPECIES
-=======
+# Cercospora fengshanensis T.Y. Lin & J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

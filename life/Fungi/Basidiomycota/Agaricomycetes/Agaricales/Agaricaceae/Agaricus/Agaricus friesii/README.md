@@ -1,17 +1,16 @@
-Agaricus friesii subsp. friesii Lasch SUBSPECIES
-=======
+# Agaricus friesii Lév., 1844 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Linnaea 3: 155 (1828)
 
 #### Original name
-Agaricus friesii subsp. friesii Lasch
+Agaricus friesii Lév., 1844
 
 ### Remarks
 null

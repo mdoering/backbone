@@ -1,5 +1,4 @@
-Kuzuhaea R.K. Benj. GENUS
-=======
+# Kuzuhaea R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

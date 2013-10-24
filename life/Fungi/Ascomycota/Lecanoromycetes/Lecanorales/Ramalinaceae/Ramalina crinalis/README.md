@@ -1,5 +1,4 @@
-Ramalina crinalis var. crinalis VARIETY
-=======
+# Ramalina crinalis (Ach.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramalina crinalis var. crinalis
+Alectoria crinalis Ach.
 
 ### Remarks
 null

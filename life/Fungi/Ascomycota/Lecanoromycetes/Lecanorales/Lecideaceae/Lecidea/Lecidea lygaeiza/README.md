@@ -1,5 +1,4 @@
-Lecidea lygaeiza Vain. SPECIES
-=======
+# Lecidea lygaeiza Vain. SPECIES
 
 #### Status
 ACCEPTED

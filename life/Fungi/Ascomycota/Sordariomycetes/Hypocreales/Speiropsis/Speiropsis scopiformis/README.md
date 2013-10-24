@@ -1,5 +1,4 @@
-Speiropsis scopiformis Kuthub. & Nawawi, 1987 SPECIES
-=======
+# Speiropsis scopiformis Kuthub. & Nawawi, 1987 SPECIES
 
 #### Status
 ACCEPTED

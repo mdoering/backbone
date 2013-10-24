@@ -1,5 +1,4 @@
-Cercospora caudata J. Kranz SPECIES
-=======
+# Cercospora caudata J. Kranz SPECIES
 
 #### Status
 ACCEPTED

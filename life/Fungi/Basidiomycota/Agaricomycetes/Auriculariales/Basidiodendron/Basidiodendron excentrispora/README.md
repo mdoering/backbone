@@ -1,5 +1,4 @@
-Basidiodendron excentrispora P. Roberts, 2001 SPECIES
-=======
+# Basidiodendron excentrispora P. Roberts, 2001 SPECIES
 
 #### Status
 ACCEPTED

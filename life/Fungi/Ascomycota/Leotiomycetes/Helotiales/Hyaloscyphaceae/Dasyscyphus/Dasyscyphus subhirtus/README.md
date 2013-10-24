@@ -1,8 +1,7 @@
-Dasyscypha subhirtus (Schwein.) Sacc. SPECIES
-=======
+# Dasyscyphus subhirtus (Schwein.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

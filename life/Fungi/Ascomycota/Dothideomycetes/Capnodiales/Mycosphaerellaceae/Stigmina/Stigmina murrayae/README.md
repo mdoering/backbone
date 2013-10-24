@@ -1,5 +1,4 @@
-Stigmina murrayae (Henn.) M.B. Ellis SPECIES
-=======
+# Stigmina murrayae (Henn.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

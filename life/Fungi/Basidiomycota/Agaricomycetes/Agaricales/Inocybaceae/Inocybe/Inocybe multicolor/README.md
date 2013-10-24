@@ -1,17 +1,16 @@
-Inocybe mullicolore Raithelh. SPECIES
-=======
+# Inocybe multicolor Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hong. Argentin. 2: 129 (1977)
 
 #### Original name
-Inocybe mullicolore Raithelh.
+Inocybe multicolor Raithelh.
 
 ### Remarks
 null

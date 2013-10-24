@@ -1,5 +1,4 @@
-Opegrapha dicarpigera Redinger SPECIES
-=======
+# Opegrapha dicarpigera Redinger SPECIES
 
 #### Status
 ACCEPTED

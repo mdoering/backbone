@@ -1,5 +1,4 @@
-Linderina pennisoria Raper & Fennell SPECIES
-=======
+# Linderina pennisoria Raper & Fennell SPECIES
 
 #### Status
 ACCEPTED

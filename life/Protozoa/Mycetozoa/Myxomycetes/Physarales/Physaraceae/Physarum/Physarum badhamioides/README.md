@@ -1,5 +1,4 @@
-Physarum badhamioides Shuang L. Chen & Yu Li, 2000 SPECIES
-=======
+# Physarum badhamioides Shuang L. Chen & Yu Li, 2000 SPECIES
 
 #### Status
 ACCEPTED

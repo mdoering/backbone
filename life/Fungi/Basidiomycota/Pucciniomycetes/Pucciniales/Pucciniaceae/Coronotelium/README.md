@@ -1,5 +1,4 @@
-Coronotelium GENUS
-=======
+# Coronotelium GENUS
 
 #### Status
 ACCEPTED

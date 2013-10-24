@@ -1,5 +1,4 @@
-Hohenbuehelia elegans (Coker) Singer SPECIES
-=======
+# Hohenbuehelia elegans (Coker) Singer SPECIES
 
 #### Status
 ACCEPTED

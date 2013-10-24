@@ -1,5 +1,4 @@
-Fungus obturatus (Fr.) Kuntze SPECIES
-=======
+# Fungus obturatus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

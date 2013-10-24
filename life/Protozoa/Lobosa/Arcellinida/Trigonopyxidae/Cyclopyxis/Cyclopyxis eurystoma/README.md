@@ -1,5 +1,4 @@
-Cyclopyxis eurystoma Deflandre, 1929 SPECIES
-=======
+# Cyclopyxis eurystoma Deflandre, 1929 SPECIES
 
 #### Status
 ACCEPTED

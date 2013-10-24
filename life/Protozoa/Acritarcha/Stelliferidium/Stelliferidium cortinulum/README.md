@@ -1,5 +1,4 @@
-Stelliferidium cortinulum (Deunff, 1961) emend. Deunff, Górka & Rauscher, 1974 SPECIES
-=======
+# Stelliferidium cortinulum (Deunff, 1961) emend. Deunff, Górka & Rauscher, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tranzschelia arasbaranica M. Abbasi & M. Scholler, 2005 SPECIES
-=======
+# Tranzschelia arasbaranica M. Abbasi & M. Scholler, 2005 SPECIES
 
 #### Status
 ACCEPTED

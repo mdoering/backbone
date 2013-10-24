@@ -1,5 +1,4 @@
-Mariannaea pruinosa Z.Q. Liang SPECIES
-=======
+# Mariannaea pruinosa Z.Q. Liang SPECIES
 
 #### Status
 ACCEPTED

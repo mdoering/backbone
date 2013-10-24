@@ -1,14 +1,13 @@
-Gliomastix phoenicis (W. Gams) M.B. Ellis, 1976 SPECIES
-=======
+# Acremonium phoenicis W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-More Dematiaceous Hyphomycetes (Kew) 450 (1976)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 96 (1971)
 
 #### Original name
 Acremonium phoenicis W. Gams, 1971

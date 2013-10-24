@@ -1,5 +1,4 @@
-Octospora kilimanjarensis J. Moravec SPECIES
-=======
+# Octospora kilimanjarensis J. Moravec SPECIES
 
 #### Status
 ACCEPTED

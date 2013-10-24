@@ -1,5 +1,4 @@
-Placodium acaciae SPECIES
-=======
+# Placodium acaciae SPECIES
 
 #### Status
 ACCEPTED

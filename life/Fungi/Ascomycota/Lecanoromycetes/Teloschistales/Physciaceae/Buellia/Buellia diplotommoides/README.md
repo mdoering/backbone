@@ -1,5 +1,4 @@
-Buellia diplotommoides Müll. Arg. SPECIES
-=======
+# Buellia diplotommoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

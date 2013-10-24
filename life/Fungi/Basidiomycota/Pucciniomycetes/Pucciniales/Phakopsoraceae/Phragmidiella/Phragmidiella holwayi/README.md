@@ -1,14 +1,13 @@
-Cerotelium holwayi H.S. Jacks., 1932 SPECIES
-=======
+# Phragmidiella holwayi (H.S. Jacks.) Buriticá, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 24(1): 86 (1932)
+in Buriticá & Pardo-Cardona, Revta Acad. colomb. cienc. exact. fís. nat. 20(no. 77): 189 (1996)
 
 #### Original name
 Cerotelium holwayi H.S. Jacks., 1932

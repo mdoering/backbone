@@ -1,5 +1,4 @@
-Endopyrenium minutum (H. Magn.) N.S. Golubk. SPECIES
-=======
+# Endopyrenium minutum (H. Magn.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

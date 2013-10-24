@@ -1,5 +1,4 @@
-Cortinarius aurantiofulvus M.M. Moser SPECIES
-=======
+# Cortinarius aurantiofulvus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

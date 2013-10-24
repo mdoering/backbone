@@ -1,5 +1,4 @@
-Amphisphaeria chambii A.L. Guyot SPECIES
-=======
+# Amphisphaeria chambii A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

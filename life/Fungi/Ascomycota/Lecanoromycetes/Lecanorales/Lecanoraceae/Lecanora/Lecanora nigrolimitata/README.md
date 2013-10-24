@@ -1,5 +1,4 @@
-Lecanora nigrolimitata Fink SPECIES
-=======
+# Lecanora nigrolimitata Fink SPECIES
 
 #### Status
 ACCEPTED

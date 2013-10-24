@@ -1,8 +1,7 @@
-Hartmannulopsis dysterina Dragesco & Deroux, 1968 SPECIES
-=======
+# Hartmannulopsis dysteriana Deroux & Dragesco, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

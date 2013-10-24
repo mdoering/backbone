@@ -1,5 +1,4 @@
-Odontotrema bryoriae Diederich & Etayo SPECIES
-=======
+# Odontotrema bryoriae Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

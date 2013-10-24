@@ -1,5 +1,4 @@
-Maublancia gaultheriae E. Müll. SPECIES
-=======
+# Maublancia gaultheriae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

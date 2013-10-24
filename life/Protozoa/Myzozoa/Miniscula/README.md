@@ -1,5 +1,4 @@
-Miniscula GENUS
-=======
+# Miniscula GENUS
 
 #### Status
 ACCEPTED

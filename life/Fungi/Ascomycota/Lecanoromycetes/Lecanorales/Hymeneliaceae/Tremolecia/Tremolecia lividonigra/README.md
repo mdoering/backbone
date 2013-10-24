@@ -1,5 +1,4 @@
-Tremolecia lividonigra (Zahlbr.) Hertel SPECIES
-=======
+# Tremolecia lividonigra (Zahlbr.) Hertel SPECIES
 
 #### Status
 ACCEPTED

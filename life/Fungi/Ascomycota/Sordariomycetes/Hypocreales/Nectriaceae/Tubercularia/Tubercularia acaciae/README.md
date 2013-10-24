@@ -1,5 +1,4 @@
-Tubercularia acaciae Fr. SPECIES
-=======
+# Tubercularia acaciae Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium albidum (Massee ex Cooke) Sacc. SPECIES
-=======
+# Corticium albidum (Massee ex Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

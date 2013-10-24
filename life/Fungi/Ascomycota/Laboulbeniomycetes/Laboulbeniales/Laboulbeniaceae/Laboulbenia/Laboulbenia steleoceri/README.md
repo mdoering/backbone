@@ -1,5 +1,4 @@
-Laboulbenia steleoceri Thaxt. SPECIES
-=======
+# Laboulbenia steleoceri Thaxt. SPECIES
 
 #### Status
 ACCEPTED

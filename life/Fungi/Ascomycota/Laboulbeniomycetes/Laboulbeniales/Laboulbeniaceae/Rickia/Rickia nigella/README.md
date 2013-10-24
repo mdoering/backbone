@@ -1,5 +1,4 @@
-Rickia nigella Sugiy. SPECIES
-=======
+# Rickia nigella Sugiy. SPECIES
 
 #### Status
 ACCEPTED

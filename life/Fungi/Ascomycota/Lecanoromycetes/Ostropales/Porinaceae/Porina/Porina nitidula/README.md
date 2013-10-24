@@ -1,14 +1,13 @@
-Phylloporina nitidula (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Porina nitidula Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Denkschr. Akad. Wiss. , Wein, Mathematische-naturwissenschaftliche Klasse 81: 233 (1890)
+Flora, Jena 66: 336 (1883)
 
 #### Original name
 Porina nitidula Müll. Arg.

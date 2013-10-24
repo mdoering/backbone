@@ -1,5 +1,4 @@
-Meliola alstoniae Koord. SPECIES
-=======
+# Meliola alstoniae Koord. SPECIES
 
 #### Status
 ACCEPTED

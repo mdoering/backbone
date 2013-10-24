@@ -1,5 +1,4 @@
-Vermicularia samaricola Sacc. SPECIES
-=======
+# Vermicularia samaricola Sacc. SPECIES
 
 #### Status
 ACCEPTED

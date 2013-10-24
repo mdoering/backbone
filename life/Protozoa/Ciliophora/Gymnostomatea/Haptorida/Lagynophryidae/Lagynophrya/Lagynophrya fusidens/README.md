@@ -1,8 +1,7 @@
-Lagynophrya fusidans Kahl, 1927 SPECIES
-=======
+# Lagynophrya fusidens Kahl, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Camarosporium solandri Cooke, 1892 SPECIES
-=======
+# Camarosporium solandri Cooke, 1892 SPECIES
 
 #### Status
 ACCEPTED

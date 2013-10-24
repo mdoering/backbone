@@ -1,5 +1,4 @@
-Lacrymaria coronata subsp. apuae SUBSPECIES
-=======
+# Lacrymaria coronata Claparède & Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euplotespora binucleata Fokin, Di Giuseppe, Erra & Dini SPECIES
-=======
+# Euplotespora binucleata Fokin, Di Giuseppe, Erra & Dini SPECIES
 
 #### Status
 ACCEPTED

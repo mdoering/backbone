@@ -1,5 +1,4 @@
-Lecidea diversa J. Lowe SPECIES
-=======
+# Lecidea diversa J. Lowe SPECIES
 
 #### Status
 ACCEPTED

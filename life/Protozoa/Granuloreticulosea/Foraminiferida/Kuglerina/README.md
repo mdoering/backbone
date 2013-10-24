@@ -1,5 +1,4 @@
-Kuglerina Bronnimann & Braun, 1955 GENUS
-=======
+# Kuglerina Bronnimann & Braun, 1955 GENUS
 
 #### Status
 ACCEPTED

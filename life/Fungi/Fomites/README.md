@@ -1,5 +1,4 @@
-Fomites Locq. & Koeniguer GENUS
-=======
+# Fomites Locq. & Koeniguer GENUS
 
 #### Status
 ACCEPTED

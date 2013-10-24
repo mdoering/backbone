@@ -1,17 +1,16 @@
-Coelomomyces keilini Couch & H.R. Dodge SPECIES
-=======
+# Coelomomyces keilinii Couch & H.R. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 63: 74 (1947)
 
 #### Original name
-Coelomomyces keilini Couch & H.R. Dodge
+Coelomomyces keilinii Couch & H.R. Dodge
 
 ### Remarks
 null

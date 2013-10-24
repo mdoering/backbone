@@ -1,5 +1,4 @@
-Laryngosigma hyalascidia Loeblich & Tappan, 1953 SPECIES
-=======
+# Laryngosigma hyalascidia Loeblich & Tappan, 1953 SPECIES
 
 #### Status
 ACCEPTED

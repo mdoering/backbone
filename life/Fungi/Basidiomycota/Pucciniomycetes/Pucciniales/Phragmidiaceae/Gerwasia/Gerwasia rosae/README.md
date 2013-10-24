@@ -1,5 +1,4 @@
-Gerwasia rosae F.L. Tai, 1947 SPECIES
-=======
+# Gerwasia rosae F.L. Tai, 1947 SPECIES
 
 #### Status
 ACCEPTED

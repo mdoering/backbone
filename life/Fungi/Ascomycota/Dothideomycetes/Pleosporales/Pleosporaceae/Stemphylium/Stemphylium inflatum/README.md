@@ -1,5 +1,4 @@
-Stemphylium inflatum var. inflatum VARIETY
-=======
+# Stemphylium inflatum Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stemphylium inflatum var. inflatum
+Stemphylium inflatum Sacc.
 
 ### Remarks
 null

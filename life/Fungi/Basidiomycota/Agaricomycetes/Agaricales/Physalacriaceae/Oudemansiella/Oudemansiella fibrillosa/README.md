@@ -1,5 +1,4 @@
-Oudemansiella fibrillosa T.J. Baroni & B. Ortiz SPECIES
-=======
+# Oudemansiella fibrillosa T.J. Baroni & B. Ortiz SPECIES
 
 #### Status
 ACCEPTED

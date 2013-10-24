@@ -1,5 +1,4 @@
-Cupulomyces R.K. Benj. GENUS
-=======
+# Cupulomyces R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

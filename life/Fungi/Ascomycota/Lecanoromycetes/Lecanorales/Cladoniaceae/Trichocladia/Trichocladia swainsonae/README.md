@@ -1,17 +1,16 @@
-Trichocladia swainsoniae Y.N. Yu & Y.Q. Lai SPECIES
-=======
+# Trichocladia swainsonae Y.N. Yu & Y.Q. Lai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta bot. Yunn. 3(1): 40 (1981)
 
 #### Original name
-Trichocladia swainsoniae Y.N. Yu & Y.Q. Lai
+Trichocladia swainsonae Y.N. Yu & Y.Q. Lai
 
 ### Remarks
 null

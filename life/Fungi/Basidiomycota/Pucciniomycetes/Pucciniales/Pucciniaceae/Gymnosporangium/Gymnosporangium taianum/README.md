@@ -1,5 +1,4 @@
-Gymnosporangium taianum F. Kern, 1964 SPECIES
-=======
+# Gymnosporangium taianum F. Kern, 1964 SPECIES
 
 #### Status
 ACCEPTED

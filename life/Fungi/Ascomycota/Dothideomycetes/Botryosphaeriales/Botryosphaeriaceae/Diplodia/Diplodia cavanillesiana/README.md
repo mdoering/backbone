@@ -1,5 +1,4 @@
-Diplodia cavanillesiana f. cavanillesiana FORM
-=======
+# Diplodia cavanillesiana Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mus. Nat. de Cienc. Madrid, ser. Bot. 12: 56 (1917)
 
 #### Original name
-Diplodia cavanillesiana f. cavanillesiana
+Diplodia cavanillesiana Gonz. Frag.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xanthoria crenulata (Wahlenb.) Th. Fr. SPECIES
-=======
+# Xanthoria crenulata (Wahlenb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

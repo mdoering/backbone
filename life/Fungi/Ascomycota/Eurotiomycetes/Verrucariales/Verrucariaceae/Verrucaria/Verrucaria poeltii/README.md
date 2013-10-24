@@ -1,5 +1,4 @@
-Verrucaria poeltii (Servít) Breuss SPECIES
-=======
+# Verrucaria poeltii (Servít) Breuss SPECIES
 
 #### Status
 ACCEPTED

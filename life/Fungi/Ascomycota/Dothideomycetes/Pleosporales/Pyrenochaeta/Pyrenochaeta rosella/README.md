@@ -1,5 +1,4 @@
-Pyrenochaeta rosella McAlpine SPECIES
-=======
+# Pyrenochaeta rosella McAlpine SPECIES
 
 #### Status
 ACCEPTED

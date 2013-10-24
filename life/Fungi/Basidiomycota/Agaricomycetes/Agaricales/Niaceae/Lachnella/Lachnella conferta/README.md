@@ -1,5 +1,4 @@
-Lachnella conferta Gilb. & Adask. SPECIES
-=======
+# Lachnella conferta Gilb. & Adask. SPECIES
 
 #### Status
 ACCEPTED

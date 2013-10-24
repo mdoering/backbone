@@ -1,5 +1,4 @@
-Haplaria rhizophila Sacc. & F. Sacc. SPECIES
-=======
+# Haplaria rhizophila Sacc. & F. Sacc. SPECIES
 
 #### Status
 ACCEPTED

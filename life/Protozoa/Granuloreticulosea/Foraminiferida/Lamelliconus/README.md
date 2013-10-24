@@ -1,5 +1,4 @@
-Lamelliconus Piller, 1978 GENUS
-=======
+# Lamelliconus Piller, 1978 GENUS
 
 #### Status
 ACCEPTED

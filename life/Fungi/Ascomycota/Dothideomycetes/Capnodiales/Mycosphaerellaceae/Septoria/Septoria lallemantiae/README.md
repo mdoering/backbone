@@ -1,5 +1,4 @@
-Septoria lallemantiae Storozhenko SPECIES
-=======
+# Septoria lallemantiae Storozhenko SPECIES
 
 #### Status
 ACCEPTED

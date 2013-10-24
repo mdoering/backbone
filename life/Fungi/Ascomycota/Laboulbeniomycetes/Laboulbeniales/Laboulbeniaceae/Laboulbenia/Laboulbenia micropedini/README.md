@@ -1,5 +1,4 @@
-Laboulbenia micropedini T. Majewski SPECIES
-=======
+# Laboulbenia micropedini T. Majewski SPECIES
 
 #### Status
 ACCEPTED

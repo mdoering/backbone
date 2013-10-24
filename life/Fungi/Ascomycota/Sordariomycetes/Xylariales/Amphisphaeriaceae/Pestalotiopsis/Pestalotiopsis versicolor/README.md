@@ -1,17 +1,16 @@
-Pestalotia versicolor var. versicolor VARIETY
-=======
+# Pestalotiopsis versicolor (Speg.) Steyaert, 1949 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 5): 479 (1879)
+Bull. Jard. bot. État Brux. 14(3): 336 (1949)
 
 #### Original name
-Pestalotia versicolor var. versicolor
+Pestalotia versicolor Speg., 1879
 
 ### Remarks
 null

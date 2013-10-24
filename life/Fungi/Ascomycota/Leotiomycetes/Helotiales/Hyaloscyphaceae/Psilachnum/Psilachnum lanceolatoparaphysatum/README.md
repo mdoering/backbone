@@ -1,5 +1,4 @@
-Psilachnum lanceolatoparaphysatum (Rehm) Höhn. SPECIES
-=======
+# Psilachnum lanceolatoparaphysatum (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polyblastiopsis lactea var. naegelii (Hepp) Keissl. VARIETY
-=======
+# Julella lactea (A. Massal.) M. E. Barr SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 38: 13 (1986)
 
 #### Original name
-Pyrenula naegelii Hepp
+Blastodesmia lactea A. Massal.
 
 ### Remarks
 null

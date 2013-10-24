@@ -1,5 +1,4 @@
-Nectria equiseti-hiemalis P. Larsen & Munk SPECIES
-=======
+# Nectria equiseti-hiemalis P. Larsen & Munk SPECIES
 
 #### Status
 ACCEPTED

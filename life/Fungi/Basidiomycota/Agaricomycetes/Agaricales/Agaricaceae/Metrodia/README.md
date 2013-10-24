@@ -1,5 +1,4 @@
-Metrodia Raithelh. GENUS
-=======
+# Metrodia Raithelh. GENUS
 
 #### Status
 ACCEPTED

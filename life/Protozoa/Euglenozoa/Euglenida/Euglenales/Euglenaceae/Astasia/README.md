@@ -1,5 +1,4 @@
-Astasia C.G. Ehrenberg, 1830 GENUS
-=======
+# Astasia C.G. Ehrenberg, 1830 GENUS
 
 #### Status
 ACCEPTED

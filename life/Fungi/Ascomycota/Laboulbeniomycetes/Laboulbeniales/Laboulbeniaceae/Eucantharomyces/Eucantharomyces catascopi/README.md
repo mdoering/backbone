@@ -1,5 +1,4 @@
-Eucantharomyces catascopi Thaxt. SPECIES
-=======
+# Eucantharomyces catascopi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

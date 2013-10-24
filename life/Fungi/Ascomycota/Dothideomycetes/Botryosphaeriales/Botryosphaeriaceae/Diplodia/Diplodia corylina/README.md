@@ -1,5 +1,4 @@
-Diplodia corylina Brunaud SPECIES
-=======
+# Diplodia corylina Brunaud SPECIES
 
 #### Status
 ACCEPTED

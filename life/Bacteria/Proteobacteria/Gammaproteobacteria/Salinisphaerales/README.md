@@ -1,5 +1,4 @@
-Salinisphaerales ORDER
-=======
+# Salinisphaerales ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalia veronicae Bat., 1957 SPECIES
-=======
+# Ramalia veronicae Bat., 1957 SPECIES
 
 #### Status
 ACCEPTED

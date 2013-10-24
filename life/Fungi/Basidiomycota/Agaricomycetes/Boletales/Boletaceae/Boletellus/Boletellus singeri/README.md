@@ -1,5 +1,4 @@
-Boletellus singeri Gonz.-Velázq. SPECIES
-=======
+# Boletellus singeri Gonz.-Velázq. SPECIES
 
 #### Status
 ACCEPTED

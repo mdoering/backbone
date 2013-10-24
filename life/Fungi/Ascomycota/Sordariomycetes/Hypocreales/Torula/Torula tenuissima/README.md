@@ -1,5 +1,4 @@
-Torula tenuissima Corda SPECIES
-=======
+# Torula tenuissima Corda SPECIES
 
 #### Status
 ACCEPTED

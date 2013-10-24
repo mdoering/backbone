@@ -1,5 +1,4 @@
-Astrocystis sublimbata (Durieu & Mont.) G.C. Hughes SPECIES
-=======
+# Astrocystis sublimbata (Durieu & Mont.) G.C. Hughes SPECIES
 
 #### Status
 ACCEPTED

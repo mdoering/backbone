@@ -1,5 +1,4 @@
-Uromyces pereskiae H.S. Jacks. & Holw. SPECIES
-=======
+# Uromyces pereskiae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecopeltidium salacensis (Racib.) F. Stevens & Manter SPECIES
-=======
+# Scolecopeltidium salacensis (Racib.) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

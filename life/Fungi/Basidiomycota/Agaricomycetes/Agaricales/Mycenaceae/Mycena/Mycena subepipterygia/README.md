@@ -1,5 +1,4 @@
-Mycena subepipterygia (Murrill) Murrill SPECIES
-=======
+# Mycena subepipterygia (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

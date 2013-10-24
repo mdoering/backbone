@@ -1,5 +1,4 @@
-Tephromela siphulodes Poelt & Grube SPECIES
-=======
+# Tephromela siphulodes Poelt & Grube SPECIES
 
 #### Status
 ACCEPTED

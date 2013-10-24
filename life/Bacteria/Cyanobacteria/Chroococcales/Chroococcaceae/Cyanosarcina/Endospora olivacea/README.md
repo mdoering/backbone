@@ -1,5 +1,4 @@
-Endospora olivacea Gardner SPECIES
-=======
+# Endospora olivacea Gardner SPECIES
 
 #### Status
 DOUBTFUL

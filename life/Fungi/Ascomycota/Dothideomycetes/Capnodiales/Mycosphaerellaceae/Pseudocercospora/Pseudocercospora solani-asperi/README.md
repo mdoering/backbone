@@ -1,5 +1,4 @@
-Pseudocercospora solani-asperi (R.E.D. Baker & W.T. Dale) Deighton SPECIES
-=======
+# Pseudocercospora solani-asperi (R.E.D. Baker & W.T. Dale) Deighton SPECIES
 
 #### Status
 ACCEPTED

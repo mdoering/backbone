@@ -1,5 +1,4 @@
-Graphis internigricans Nyl. SPECIES
-=======
+# Graphis internigricans Nyl. SPECIES
 
 #### Status
 ACCEPTED

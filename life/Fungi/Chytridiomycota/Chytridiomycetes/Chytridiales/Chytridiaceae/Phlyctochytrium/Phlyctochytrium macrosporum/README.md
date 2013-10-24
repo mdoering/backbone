@@ -1,5 +1,4 @@
-Phlyctochytrium macrosporum J. Schröt. SPECIES
-=======
+# Phlyctochytrium macrosporum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arcangeliella saylorii Thiers SPECIES
-=======
+# Arcangeliella saylorii Thiers SPECIES
 
 #### Status
 ACCEPTED

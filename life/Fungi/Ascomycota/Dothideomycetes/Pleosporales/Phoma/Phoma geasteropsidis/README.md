@@ -1,5 +1,4 @@
-Phoma geasteropsidis Hollós SPECIES
-=======
+# Phoma geasteropsidis Hollós SPECIES
 
 #### Status
 ACCEPTED

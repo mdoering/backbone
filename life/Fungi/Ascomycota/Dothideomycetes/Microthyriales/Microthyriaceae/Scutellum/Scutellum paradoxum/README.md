@@ -1,5 +1,4 @@
-Scutellum paradoxum Speg. SPECIES
-=======
+# Scutellum paradoxum Speg. SPECIES
 
 #### Status
 ACCEPTED

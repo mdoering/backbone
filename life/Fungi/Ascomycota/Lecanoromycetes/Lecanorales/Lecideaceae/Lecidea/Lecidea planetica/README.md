@@ -1,5 +1,4 @@
-Lecidea planetica Tuck. SPECIES
-=======
+# Lecidea planetica Tuck. SPECIES
 
 #### Status
 ACCEPTED

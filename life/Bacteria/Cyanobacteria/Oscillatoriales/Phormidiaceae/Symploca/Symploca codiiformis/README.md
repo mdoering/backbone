@@ -1,5 +1,4 @@
-Symploca codiiformis Giaccone SPECIES
-=======
+# Symploca codiiformis Giaccone SPECIES
 
 #### Status
 ACCEPTED

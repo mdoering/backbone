@@ -1,5 +1,4 @@
-Marasmius ushuaiensis (Speg.) Raithelh. SPECIES
-=======
+# Marasmius ushuaiensis (Speg.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

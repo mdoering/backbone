@@ -1,17 +1,16 @@
-Lycoperdastrum citrinum (Vittad.) O. Kuntze, 1891 SPECIES
-=======
+# Elaphomyces citrinus Vittad., 1831 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Tuberac. (Milano) 65 (1831)
 
 #### Original name
-null
+Elaphomyces citrinus Vittad., 1831
 
 ### Remarks
 null

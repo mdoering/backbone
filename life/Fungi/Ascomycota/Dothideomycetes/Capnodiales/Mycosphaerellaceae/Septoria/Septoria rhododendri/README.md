@@ -1,5 +1,4 @@
-Septoria rhododendri Cooke, 1877 SPECIES
-=======
+# Septoria rhododendri Cooke, 1877 SPECIES
 
 #### Status
 ACCEPTED

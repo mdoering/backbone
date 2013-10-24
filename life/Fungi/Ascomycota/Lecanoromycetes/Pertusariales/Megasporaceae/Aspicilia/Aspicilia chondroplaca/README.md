@@ -1,5 +1,4 @@
-Aspicilia chondroplaca (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Aspicilia chondroplaca (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia microlonchi Syd. SPECIES
-=======
+# Puccinia microlonchi Syd. SPECIES
 
 #### Status
 ACCEPTED

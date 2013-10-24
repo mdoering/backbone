@@ -1,5 +1,4 @@
-Poria diffusa Berk. SPECIES
-=======
+# Poria diffusa Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus ammophilus (Menier) Kuntze SPECIES
-=======
+# Fungus ammophilus (Menier) Kuntze SPECIES
 
 #### Status
 ACCEPTED

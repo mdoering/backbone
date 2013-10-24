@@ -1,5 +1,4 @@
-Pleospora acantholimonis Henn. SPECIES
-=======
+# Pleospora acantholimonis Henn. SPECIES
 
 #### Status
 ACCEPTED

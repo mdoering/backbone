@@ -1,5 +1,4 @@
-Galera stenophylla Velen. SPECIES
-=======
+# Galera stenophylla Velen. SPECIES
 
 #### Status
 ACCEPTED

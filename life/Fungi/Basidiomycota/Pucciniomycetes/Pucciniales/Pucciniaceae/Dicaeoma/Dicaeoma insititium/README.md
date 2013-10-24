@@ -1,5 +1,4 @@
-Dicaeoma insititium Arthur SPECIES
-=======
+# Dicaeoma insititium Arthur SPECIES
 
 #### Status
 ACCEPTED

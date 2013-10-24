@@ -1,5 +1,4 @@
-Valsa pallida Ellis & Everh. SPECIES
-=======
+# Valsa pallida Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

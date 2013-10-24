@@ -1,5 +1,4 @@
-Craterium aureonucleatum Nann.-Bremek., 1961 SPECIES
-=======
+# Craterium aureonucleatum Nann.-Bremek., 1961 SPECIES
 
 #### Status
 ACCEPTED

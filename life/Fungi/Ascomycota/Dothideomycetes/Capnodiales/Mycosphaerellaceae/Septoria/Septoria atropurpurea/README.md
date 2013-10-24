@@ -1,5 +1,4 @@
-Septoria atropurpurea Peck, 1883 SPECIES
-=======
+# Septoria atropurpurea Peck, 1883 SPECIES
 
 #### Status
 ACCEPTED

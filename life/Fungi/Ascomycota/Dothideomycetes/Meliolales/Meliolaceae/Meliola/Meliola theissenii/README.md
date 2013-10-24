@@ -1,5 +1,4 @@
-Meliola theissenii Hansf. SPECIES
-=======
+# Meliola theissenii Hansf. SPECIES
 
 #### Status
 ACCEPTED

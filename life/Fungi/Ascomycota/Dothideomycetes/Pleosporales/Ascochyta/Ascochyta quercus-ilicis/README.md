@@ -1,5 +1,4 @@
-Ascochyta quercus-ilicis Güssow SPECIES
-=======
+# Ascochyta quercus-ilicis Güssow SPECIES
 
 #### Status
 ACCEPTED

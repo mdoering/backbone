@@ -1,5 +1,4 @@
-Strombidium chlorophilum Montagnes, Lynn, Stoecker & Small, 1988 SPECIES
-=======
+# Strombidium chlorophilum Montagnes, Lynn, Stoecker & Small, 1988 SPECIES
 
 #### Status
 ACCEPTED

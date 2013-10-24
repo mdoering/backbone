@@ -1,5 +1,4 @@
-Cortinarius uncinatosubnotatus Rob. Henry SPECIES
-=======
+# Cortinarius uncinatosubnotatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

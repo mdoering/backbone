@@ -1,5 +1,4 @@
-Rhizophydium dangeardii (Serbinow) Jacz. SPECIES
-=======
+# Rhizophydium dangeardii (Serbinow) Jacz. SPECIES
 
 #### Status
 ACCEPTED

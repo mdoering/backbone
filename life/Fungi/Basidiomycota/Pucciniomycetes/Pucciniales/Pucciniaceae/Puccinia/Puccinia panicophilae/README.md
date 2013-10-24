@@ -1,5 +1,4 @@
-Puccinia panicophilae Speg. SPECIES
-=======
+# Puccinia panicophilae Speg. SPECIES
 
 #### Status
 ACCEPTED

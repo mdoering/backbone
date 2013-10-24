@@ -1,5 +1,4 @@
-Rhytisma blakei M.A. Curtis SPECIES
-=======
+# Rhytisma blakei M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

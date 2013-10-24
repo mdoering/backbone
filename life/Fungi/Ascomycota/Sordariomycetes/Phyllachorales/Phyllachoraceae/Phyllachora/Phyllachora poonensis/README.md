@@ -1,5 +1,4 @@
-Phyllachora poonensis Seshadri SPECIES
-=======
+# Phyllachora poonensis Seshadri SPECIES
 
 #### Status
 ACCEPTED

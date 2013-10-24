@@ -1,5 +1,4 @@
-Irpex rickii Lloyd SPECIES
-=======
+# Irpex rickii Lloyd SPECIES
 
 #### Status
 ACCEPTED

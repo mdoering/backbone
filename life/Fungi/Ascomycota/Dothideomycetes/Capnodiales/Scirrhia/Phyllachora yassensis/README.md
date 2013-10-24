@@ -1,5 +1,4 @@
-Phyllachora yassensis Petr., 1954 SPECIES
-=======
+# Phyllachora yassensis Petr., 1954 SPECIES
 
 #### Status
 DOUBTFUL

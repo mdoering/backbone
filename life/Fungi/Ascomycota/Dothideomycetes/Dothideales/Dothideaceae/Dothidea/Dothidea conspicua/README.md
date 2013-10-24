@@ -1,5 +1,4 @@
-Dothidea conspicua Griffiths SPECIES
-=======
+# Dothidea conspicua Griffiths SPECIES
 
 #### Status
 ACCEPTED

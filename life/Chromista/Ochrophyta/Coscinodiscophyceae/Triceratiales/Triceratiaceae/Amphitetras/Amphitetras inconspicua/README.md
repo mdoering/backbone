@@ -1,5 +1,4 @@
-Amphitetras inconspicua (Greville) De Toni SPECIES
-=======
+# Amphitetras inconspicua (Greville) De Toni SPECIES
 
 #### Status
 ACCEPTED

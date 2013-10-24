@@ -1,5 +1,4 @@
-Helminthosporium obtusum Bonord. SPECIES
-=======
+# Helminthosporium obtusum Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora abortifaciens (Berk.) Sacc. & Voglino SPECIES
-=======
+# Oospora abortifaciens (Berk.) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

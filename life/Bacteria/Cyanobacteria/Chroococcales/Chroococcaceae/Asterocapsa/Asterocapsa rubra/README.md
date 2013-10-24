@@ -1,5 +1,4 @@
-Asterocapsa rubra Wang SPECIES
-=======
+# Asterocapsa rubra Wang SPECIES
 
 #### Status
 ACCEPTED

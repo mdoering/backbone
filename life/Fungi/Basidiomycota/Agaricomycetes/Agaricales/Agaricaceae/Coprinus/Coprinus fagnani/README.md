@@ -1,5 +1,4 @@
-Coprinus fagnani Raithelh. SPECIES
-=======
+# Coprinus fagnani Raithelh. SPECIES
 
 #### Status
 ACCEPTED

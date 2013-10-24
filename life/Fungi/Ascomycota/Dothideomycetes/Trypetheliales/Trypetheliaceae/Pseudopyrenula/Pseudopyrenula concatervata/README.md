@@ -1,5 +1,4 @@
-Pseudopyrenula concatervata Vain. SPECIES
-=======
+# Pseudopyrenula concatervata Vain. SPECIES
 
 #### Status
 ACCEPTED

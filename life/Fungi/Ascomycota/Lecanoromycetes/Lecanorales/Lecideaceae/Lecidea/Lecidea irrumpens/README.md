@@ -1,5 +1,4 @@
-Lecidea irrumpens Hertel SPECIES
-=======
+# Lecidea irrumpens Hertel SPECIES
 
 #### Status
 ACCEPTED

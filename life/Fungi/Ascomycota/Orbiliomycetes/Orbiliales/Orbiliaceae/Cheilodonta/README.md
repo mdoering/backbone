@@ -1,5 +1,4 @@
-Cheilodonta GENUS
-=======
+# Cheilodonta GENUS
 
 #### Status
 ACCEPTED

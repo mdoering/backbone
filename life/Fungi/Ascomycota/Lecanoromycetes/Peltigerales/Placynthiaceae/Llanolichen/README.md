@@ -1,5 +1,4 @@
-Llanolichen GENUS
-=======
+# Llanolichen GENUS
 
 #### Status
 ACCEPTED

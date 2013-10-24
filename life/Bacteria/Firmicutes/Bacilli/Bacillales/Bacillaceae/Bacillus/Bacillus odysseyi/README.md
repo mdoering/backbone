@@ -1,5 +1,4 @@
-Bacillus odysseyi La Duc et al., 2004 SPECIES
-=======
+# Bacillus odysseyi La Duc et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

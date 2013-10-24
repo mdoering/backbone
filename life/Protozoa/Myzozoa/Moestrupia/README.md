@@ -1,5 +1,4 @@
-Moestrupia G. Hansen & N. Daugbjerg, 2011 GENUS
-=======
+# Moestrupia G. Hansen & N. Daugbjerg, 2011 GENUS
 
 #### Status
 ACCEPTED

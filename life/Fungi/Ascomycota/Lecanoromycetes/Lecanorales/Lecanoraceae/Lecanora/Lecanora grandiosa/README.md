@@ -1,5 +1,4 @@
-Lecanora grandiosa Motyka SPECIES
-=======
+# Lecanora grandiosa Motyka SPECIES
 
 #### Status
 ACCEPTED

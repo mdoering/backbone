@@ -1,5 +1,4 @@
-Phoma groenlandica Allesch. SPECIES
-=======
+# Phoma groenlandica Allesch. SPECIES
 
 #### Status
 ACCEPTED

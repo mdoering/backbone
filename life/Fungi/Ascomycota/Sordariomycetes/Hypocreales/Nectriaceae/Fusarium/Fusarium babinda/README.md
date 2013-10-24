@@ -1,5 +1,4 @@
-Fusarium babinda Summerell, C.A. Rugg & L.W. Burgess, 1995 SPECIES
-=======
+# Fusarium babinda Summerell, C.A. Rugg & L.W. Burgess, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma microsperma P. Karst. SPECIES
-=======
+# Phoma microsperma P. Karst. SPECIES
 
 #### Status
 ACCEPTED

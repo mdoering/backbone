@@ -1,5 +1,4 @@
-Leptosphaeria hormodactyli Ferraris SPECIES
-=======
+# Leptosphaeria hormodactyli Ferraris SPECIES
 
 #### Status
 ACCEPTED

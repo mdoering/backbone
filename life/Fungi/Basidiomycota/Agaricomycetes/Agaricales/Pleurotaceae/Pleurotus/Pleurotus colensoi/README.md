@@ -1,5 +1,4 @@
-Pleurotus colensoi Berk. ex Massee SPECIES
-=======
+# Pleurotus colensoi Berk. ex Massee SPECIES
 
 #### Status
 ACCEPTED

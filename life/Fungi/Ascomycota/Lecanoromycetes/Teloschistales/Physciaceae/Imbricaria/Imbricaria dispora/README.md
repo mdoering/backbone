@@ -1,5 +1,4 @@
-Imbricaria dispora (Nyl.) Jatta SPECIES
-=======
+# Imbricaria dispora (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicoccum alocasiae (N.D. Sharma) Vanev SPECIES
-=======
+# Fusicoccum alocasiae (N.D. Sharma) Vanev SPECIES
 
 #### Status
 ACCEPTED

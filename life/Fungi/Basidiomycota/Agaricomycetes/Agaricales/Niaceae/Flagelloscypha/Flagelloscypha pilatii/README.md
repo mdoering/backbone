@@ -1,17 +1,16 @@
-Cyphella punctiformis stenospora Bourdot & Galzin, 1928 INFRASPECIFIC_NAME
-=======
+# Flagelloscypha pilatii Agerer, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 27(1-6): 239 (1975)
 
 #### Original name
-null
+Flagelloscypha pilatii Agerer, 1975
 
 ### Remarks
 null

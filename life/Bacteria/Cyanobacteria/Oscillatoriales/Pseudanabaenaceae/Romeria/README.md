@@ -1,14 +1,13 @@
-Raciborskia M. Koczwara, 1928 GENUS
-=======
+# Romeria M. Koczwara in Geitler, 1932 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kosmos 53: 108.
+Rabenhorst´s Kryptogamenfl. Deutschl. , ed. 2, 14: 915.
 
 #### Original name
 null

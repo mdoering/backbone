@@ -1,5 +1,4 @@
-Phanerochaete subiculosa (Burt) Burds. SPECIES
-=======
+# Phanerochaete subiculosa (Burt) Burds. SPECIES
 
 #### Status
 ACCEPTED

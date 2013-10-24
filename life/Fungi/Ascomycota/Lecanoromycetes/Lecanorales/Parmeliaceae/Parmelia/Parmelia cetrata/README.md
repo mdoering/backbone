@@ -1,5 +1,4 @@
-Parmelia cetrata var. cetrata VARIETY
-=======
+# Parmelia cetrata SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syn. meth. lich. 198 (1814)
+null
 
 #### Original name
-Parmelia cetrata var. cetrata
+null
 
 ### Remarks
 null

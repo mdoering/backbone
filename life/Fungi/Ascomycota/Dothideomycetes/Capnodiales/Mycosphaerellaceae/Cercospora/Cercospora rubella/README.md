@@ -1,5 +1,4 @@
-Cercospora rubella Cooke SPECIES
-=======
+# Cercospora rubella Cooke SPECIES
 
 #### Status
 ACCEPTED

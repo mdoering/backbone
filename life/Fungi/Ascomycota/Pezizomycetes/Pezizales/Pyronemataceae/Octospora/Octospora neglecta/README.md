@@ -1,5 +1,4 @@
-Octospora neglecta Dennis & Itzerott, 1973 SPECIES
-=======
+# Octospora neglecta Dennis & Itzerott, 1973 SPECIES
 
 #### Status
 ACCEPTED

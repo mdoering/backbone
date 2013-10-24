@@ -1,5 +1,4 @@
-Rinodina nitrophila H. Magn. SPECIES
-=======
+# Rinodina nitrophila H. Magn. SPECIES
 
 #### Status
 ACCEPTED

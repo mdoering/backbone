@@ -1,5 +1,4 @@
-Mycosphaerella sphaerelloides (Sacc. & Syd.) Petr. SPECIES
-=======
+# Mycosphaerella sphaerelloides (Sacc. & Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

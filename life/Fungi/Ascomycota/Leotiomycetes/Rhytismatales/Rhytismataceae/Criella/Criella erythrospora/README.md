@@ -1,5 +1,4 @@
-Criella erythrospora (Berk. & M.A. Curtis) Speg. SPECIES
-=======
+# Criella erythrospora (Berk. & M.A. Curtis) Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora cylindrospora F. Stevens & Solheim SPECIES
-=======
+# Cercospora cylindrospora F. Stevens & Solheim SPECIES
 
 #### Status
 ACCEPTED

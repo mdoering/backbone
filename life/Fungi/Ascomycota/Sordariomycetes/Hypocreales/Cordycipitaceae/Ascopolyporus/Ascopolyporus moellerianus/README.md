@@ -1,5 +1,4 @@
-Ascopolyporus moellerianus (Henn.) Möller SPECIES
-=======
+# Ascopolyporus moellerianus (Henn.) Möller SPECIES
 
 #### Status
 ACCEPTED

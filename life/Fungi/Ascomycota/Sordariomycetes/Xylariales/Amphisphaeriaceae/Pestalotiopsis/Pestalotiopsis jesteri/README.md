@@ -1,5 +1,4 @@
-Pestalotiopsis jesteri Strobel, J.Yi Li, E.J. Ford & W.M. Hess SPECIES
-=======
+# Pestalotiopsis jesteri Strobel, J.Yi Li, E.J. Ford & W.M. Hess SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Umbilicaria rubiginosa Pers. SPECIES
-=======
+# Lasallia rubiginosa (Pers.) Llano SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Gaudichaud-Beaupré, Voy. Uranie. Bot. 202 (1827)
+Monograph Umbilicariaceae 47 (1950)
 
 #### Original name
 Umbilicaria rubiginosa Pers.

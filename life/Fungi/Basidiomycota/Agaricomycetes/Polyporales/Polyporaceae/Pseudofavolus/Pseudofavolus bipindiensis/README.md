@@ -1,5 +1,4 @@
-Pseudofavolus bipindiensis (Henn.) Pat. SPECIES
-=======
+# Pseudofavolus bipindiensis (Henn.) Pat. SPECIES
 
 #### Status
 ACCEPTED

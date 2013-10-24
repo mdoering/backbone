@@ -1,5 +1,4 @@
-Pastrikella Cherchi, Radoicic & Schroeder, 1976 GENUS
-=======
+# Pastrikella Cherchi, Radoicic & Schroeder, 1976 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium weirianum Sacc. SPECIES
-=======
+# Gloeosporium weirianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

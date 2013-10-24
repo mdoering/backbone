@@ -1,5 +1,4 @@
-Flammula permollis Murrill SPECIES
-=======
+# Flammula permollis Murrill SPECIES
 
 #### Status
 ACCEPTED

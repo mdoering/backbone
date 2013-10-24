@@ -1,5 +1,4 @@
-Sagiolechia fusiformis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Sagiolechia fusiformis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mesodictyon hyalinum E. Theriot SPECIES
-=======
+# Mesodictyon hyalinum E. Theriot SPECIES
 
 #### Status
 ACCEPTED

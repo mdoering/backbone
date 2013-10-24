@@ -1,5 +1,4 @@
-Autoicomyces Thaxt. GENUS
-=======
+# Autoicomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

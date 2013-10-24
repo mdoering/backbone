@@ -1,5 +1,4 @@
-Oscillochloris chrysea Gorlenko & Pivovarova, 1989 SPECIES
-=======
+# Oscillochloris chrysea Gorlenko & Pivovarova, 1989 SPECIES
 
 #### Status
 ACCEPTED

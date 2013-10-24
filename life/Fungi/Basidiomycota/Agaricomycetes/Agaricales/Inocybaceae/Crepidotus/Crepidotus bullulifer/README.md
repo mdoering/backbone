@@ -1,5 +1,4 @@
-Crepidotus bullulifer Singer SPECIES
-=======
+# Crepidotus bullulifer Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium columnare Canter SPECIES
-=======
+# Rhizophydium columnare Canter SPECIES
 
 #### Status
 ACCEPTED

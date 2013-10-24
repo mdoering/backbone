@@ -1,5 +1,4 @@
-Fistulariella scoparia (Vain.) Bowler & Rundel SPECIES
-=======
+# Fistulariella scoparia (Vain.) Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

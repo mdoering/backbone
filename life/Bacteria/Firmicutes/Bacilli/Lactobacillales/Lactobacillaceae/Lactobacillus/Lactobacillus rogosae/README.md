@@ -1,5 +1,4 @@
-Lactobacillus rogosae Holdeman and Moore, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Lactobacillus rogosae Holdeman and Moore, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

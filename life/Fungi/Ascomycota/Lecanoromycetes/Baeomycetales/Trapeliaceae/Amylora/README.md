@@ -1,5 +1,4 @@
-Amylora Rambold GENUS
-=======
+# Amylora Rambold GENUS
 
 #### Status
 ACCEPTED

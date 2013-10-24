@@ -1,5 +1,4 @@
-Tubercularia australiensis Seifert SPECIES
-=======
+# Tubercularia australiensis Seifert SPECIES
 
 #### Status
 ACCEPTED

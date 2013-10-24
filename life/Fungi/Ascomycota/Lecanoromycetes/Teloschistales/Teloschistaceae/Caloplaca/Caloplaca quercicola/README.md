@@ -1,5 +1,4 @@
-Caloplaca quercicola H. Magn. SPECIES
-=======
+# Caloplaca quercicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

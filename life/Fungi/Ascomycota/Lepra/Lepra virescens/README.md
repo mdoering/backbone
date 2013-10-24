@@ -1,5 +1,4 @@
-Lepra virescens (Sm.) Schaer. SPECIES
-=======
+# Lepra virescens (Sm.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apertospathula cuneata Foissner & Xu, 2007 SPECIES
-=======
+# Apertospathula cuneata Foissner & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

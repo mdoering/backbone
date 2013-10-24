@@ -1,5 +1,4 @@
-Clonostachys pulvinata (Berk. & Broome) Petch SPECIES
-=======
+# Clonostachys pulvinata (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

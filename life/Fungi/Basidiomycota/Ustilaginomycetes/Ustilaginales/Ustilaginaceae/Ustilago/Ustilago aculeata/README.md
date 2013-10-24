@@ -1,5 +1,4 @@
-Ustilago aculeata (Ule) Liro SPECIES
-=======
+# Ustilago aculeata (Ule) Liro SPECIES
 
 #### Status
 ACCEPTED

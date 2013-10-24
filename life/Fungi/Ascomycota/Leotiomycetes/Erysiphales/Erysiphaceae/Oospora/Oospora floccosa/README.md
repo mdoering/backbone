@@ -1,5 +1,4 @@
-Oospora floccosa Ferraris SPECIES
-=======
+# Oospora floccosa Ferraris SPECIES
 
 #### Status
 ACCEPTED

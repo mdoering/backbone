@@ -1,5 +1,4 @@
-Imbricaria ryssolea Heufl. SPECIES
-=======
+# Imbricaria ryssolea Heufl. SPECIES
 
 #### Status
 ACCEPTED

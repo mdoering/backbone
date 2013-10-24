@@ -1,5 +1,4 @@
-Trombetta partita (Berk.) Kuntze SPECIES
-=======
+# Trombetta partita (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

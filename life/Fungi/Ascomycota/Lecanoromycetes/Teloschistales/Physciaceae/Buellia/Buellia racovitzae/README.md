@@ -1,5 +1,4 @@
-Buellia racovitzae C.W. Dodge SPECIES
-=======
+# Buellia racovitzae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium autumnale Kübler SPECIES
-=======
+# Cladosporium autumnale Kübler SPECIES
 
 #### Status
 ACCEPTED

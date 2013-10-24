@@ -1,5 +1,4 @@
-Hygrophorus nitrosus A. Blytt SPECIES
-=======
+# Hygrophorus nitrosus A. Blytt SPECIES
 
 #### Status
 ACCEPTED

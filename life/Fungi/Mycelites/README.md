@@ -1,5 +1,4 @@
-Mycelites W. Roux GENUS
-=======
+# Mycelites W. Roux GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leptonia roseicinnamonea Largent SPECIES
-=======
+# Leptonia roseicinnamomea Largent SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+NW Sci. 48(1): 59 (1974)
 
 #### Original name
-Leptonia roseicinnamonea Largent
+Leptonia roseicinnamomea Largent
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Paratuzetia kupermani L.G. Poddubnaya, Y.S. Tokarev & I.V. Issi SPECIES
-=======
+# Paratuzetia kupermani L.G. Poddubnaya, Y.S. Tokarev & I.V. Issi SPECIES
 
 #### Status
 ACCEPTED

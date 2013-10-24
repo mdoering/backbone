@@ -1,5 +1,4 @@
-Pertusaria papuana A.W. Archer & Elix SPECIES
-=======
+# Pertusaria papuana A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

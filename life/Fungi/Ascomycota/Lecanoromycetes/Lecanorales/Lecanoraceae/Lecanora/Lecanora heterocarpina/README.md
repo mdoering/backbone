@@ -1,5 +1,4 @@
-Lecanora heterocarpina SPECIES
-=======
+# Lecanora heterocarpina SPECIES
 
 #### Status
 ACCEPTED

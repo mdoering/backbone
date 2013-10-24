@@ -1,5 +1,4 @@
-Fistulina spathulata Berk. & M.A. Curtis SPECIES
-=======
+# Fistulina spathulata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

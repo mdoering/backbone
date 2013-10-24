@@ -1,5 +1,4 @@
-Bacidia permutata (Stirt.) Hellb. SPECIES
-=======
+# Bacidia permutata (Stirt.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

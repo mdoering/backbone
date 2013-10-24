@@ -1,5 +1,4 @@
-Cercospora fici-religiosae Chidd. SPECIES
-=======
+# Cercospora fici-religiosae Chidd. SPECIES
 
 #### Status
 ACCEPTED

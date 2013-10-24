@@ -1,5 +1,4 @@
-Placographa incerta (A. Massal.) SPECIES
-=======
+# Placographa incerta (A. Massal.) SPECIES
 
 #### Status
 ACCEPTED

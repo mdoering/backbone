@@ -1,5 +1,4 @@
-Poeltiaria howickensis (Vain.) Rambold & Haiduk SPECIES
-=======
+# Poeltiaria howickensis (Vain.) Rambold & Haiduk SPECIES
 
 #### Status
 ACCEPTED

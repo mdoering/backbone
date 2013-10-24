@@ -1,5 +1,4 @@
-Omphalia viridicarnea Berk. & Broome SPECIES
-=======
+# Omphalia viridicarnea Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

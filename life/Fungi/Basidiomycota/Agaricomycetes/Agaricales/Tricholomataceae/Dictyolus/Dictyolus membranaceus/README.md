@@ -1,5 +1,4 @@
-Dictyolus membranaceus var. membranaceus VARIETY
-=======
+# Dictyolus membranaceus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dictyolus membranaceus var. membranaceus
+null
 
 ### Remarks
 null

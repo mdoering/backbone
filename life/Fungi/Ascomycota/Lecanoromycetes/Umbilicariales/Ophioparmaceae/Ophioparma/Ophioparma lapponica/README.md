@@ -1,14 +1,13 @@
-Haematomma ventosum f. lapponicum (Räsänen) Oxner FORM
-=======
+# Ophioparma lapponica (Räsänen) Hafellner & R.W. Rogers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Rogers & Hafellner, Lichenologist 20(2): 173 (1988)
 
 #### Original name
 Haematomma lapponicum

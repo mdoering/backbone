@@ -1,5 +1,4 @@
-Peltaster fimbriatus Bat. & Cavalc. SPECIES
-=======
+# Peltaster fimbriatus Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

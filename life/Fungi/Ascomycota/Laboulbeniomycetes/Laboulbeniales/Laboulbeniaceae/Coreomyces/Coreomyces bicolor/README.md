@@ -1,5 +1,4 @@
-Coreomyces bicolor Thaxt. SPECIES
-=======
+# Coreomyces bicolor Thaxt. SPECIES
 
 #### Status
 ACCEPTED

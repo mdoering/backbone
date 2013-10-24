@@ -1,5 +1,4 @@
-Peziza reichenbachii Rabenh. SPECIES
-=======
+# Peziza reichenbachii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thielaviella Arx & T. Mahmood GENUS
-=======
+# Boothiella Lodhi & Mirza GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 51: 611 (1968)
+Mycologia 54(2): 217 (1962)
 
 #### Original name
-Thielaviella Arx & T. Mahmood
+Boothiella Lodhi & Mirza
 
 ### Remarks
 null

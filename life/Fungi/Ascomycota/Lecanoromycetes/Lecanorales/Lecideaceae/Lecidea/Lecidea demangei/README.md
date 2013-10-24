@@ -1,5 +1,4 @@
-Lecidea demangei Harm. SPECIES
-=======
+# Lecidea demangei Harm. SPECIES
 
 #### Status
 ACCEPTED

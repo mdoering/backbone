@@ -1,5 +1,4 @@
-Pseudoplacodium cupreobadium (Nyl.) Motyka SPECIES
-=======
+# Pseudoplacodium cupreobadium (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

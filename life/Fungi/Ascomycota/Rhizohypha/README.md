@@ -1,5 +1,4 @@
-Rhizohypha Chodat & Sigr. GENUS
-=======
+# Rhizohypha Chodat & Sigr. GENUS
 
 #### Status
 ACCEPTED

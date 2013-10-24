@@ -1,5 +1,4 @@
-Coprinarius fimiputris (Bull.) Quél. SPECIES
-=======
+# Coprinarius fimiputris (Bull.) Quél. SPECIES
 
 #### Status
 ACCEPTED

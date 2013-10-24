@@ -1,5 +1,4 @@
-Sphaerocreas coccogenum (Pat.) Höhn. SPECIES
-=======
+# Sphaerocreas coccogenum (Pat.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

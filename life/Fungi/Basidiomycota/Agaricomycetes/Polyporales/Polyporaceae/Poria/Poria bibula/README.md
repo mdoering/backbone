@@ -1,5 +1,4 @@
-Poria bibula ined. SPECIES
-=======
+# Poria bibula ined. SPECIES
 
 #### Status
 ACCEPTED

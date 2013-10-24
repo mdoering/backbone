@@ -1,5 +1,4 @@
-Lecidea soredians (Müll. Arg.) Hue SPECIES
-=======
+# Lecidea soredians (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

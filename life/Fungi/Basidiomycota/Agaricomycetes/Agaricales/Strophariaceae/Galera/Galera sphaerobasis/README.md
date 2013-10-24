@@ -1,5 +1,4 @@
-Galera sphaerobasis H. Post SPECIES
-=======
+# Galera sphaerobasis H. Post SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella nummularia (R.G. Bagn.) Sacc. SPECIES
-=======
+# Didymella nummularia (R.G. Bagn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

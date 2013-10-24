@@ -1,5 +1,4 @@
-Streptomyces flavoviridis (ex Preobrazhenskaya et al.) Preobrazhenskaya, 1986 SPECIES
-=======
+# Streptomyces flavoviridis (ex Preobrazhenskaya et al.) Preobrazhenskaya, 1986 SPECIES
 
 #### Status
 ACCEPTED

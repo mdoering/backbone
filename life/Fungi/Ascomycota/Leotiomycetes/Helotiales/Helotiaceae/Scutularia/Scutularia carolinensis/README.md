@@ -1,5 +1,4 @@
-Scutularia carolinensis (Ellis & Everh.) Sacc. SPECIES
-=======
+# Scutularia carolinensis (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

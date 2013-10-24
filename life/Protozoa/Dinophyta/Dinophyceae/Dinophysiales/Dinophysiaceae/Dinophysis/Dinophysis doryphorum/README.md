@@ -1,11 +1,10 @@
-Dinophysis doryphorides (P. Dangeard, 1927) Balech, 1967 SPECIES
-=======
+# Dinophysis doryphorum SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

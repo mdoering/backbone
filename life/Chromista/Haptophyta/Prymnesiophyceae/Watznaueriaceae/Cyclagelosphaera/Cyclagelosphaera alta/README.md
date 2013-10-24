@@ -1,5 +1,4 @@
-Cyclagelosphaera alta Perch-Nielsen, 1979 SPECIES
-=======
+# Cyclagelosphaera alta Perch-Nielsen, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria pycnostigma Nyl. SPECIES
-=======
+# Verrucaria pycnostigma Nyl. SPECIES
 
 #### Status
 ACCEPTED

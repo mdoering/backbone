@@ -1,5 +1,4 @@
-Porina macularis (Wallr.) Lettau SPECIES
-=======
+# Porina macularis (Wallr.) Lettau SPECIES
 
 #### Status
 ACCEPTED

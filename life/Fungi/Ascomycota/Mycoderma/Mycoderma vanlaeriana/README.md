@@ -1,5 +1,4 @@
-Mycoderma vanlaeriana Lindner & Genoud SPECIES
-=======
+# Mycoderma vanlaeriana Lindner & Genoud SPECIES
 
 #### Status
 ACCEPTED

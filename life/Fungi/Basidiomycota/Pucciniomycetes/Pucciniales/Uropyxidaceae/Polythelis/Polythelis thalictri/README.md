@@ -1,5 +1,4 @@
-Polythelis thalictri Chevall. SPECIES
-=======
+# Polythelis thalictri Chevall. SPECIES
 
 #### Status
 ACCEPTED

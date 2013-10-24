@@ -1,5 +1,4 @@
-Pharcidiella endococcoidea (Nyl.) Clem. & Shear SPECIES
-=======
+# Pharcidiella endococcoidea (Nyl.) Clem. & Shear SPECIES
 
 #### Status
 ACCEPTED

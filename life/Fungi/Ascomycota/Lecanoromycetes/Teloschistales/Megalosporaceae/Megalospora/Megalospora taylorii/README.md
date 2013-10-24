@@ -1,5 +1,4 @@
-Megalospora taylorii C.W. Dodge SPECIES
-=======
+# Megalospora taylorii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora alonsoae Syd. SPECIES
-=======
+# Cercospora alonsoae Syd. SPECIES
 
 #### Status
 ACCEPTED

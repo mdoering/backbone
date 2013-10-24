@@ -1,5 +1,4 @@
-Melanomma dryadis Johanson, 1890 SPECIES
-=======
+# Melanomma dryadis Johanson, 1890 SPECIES
 
 #### Status
 ACCEPTED

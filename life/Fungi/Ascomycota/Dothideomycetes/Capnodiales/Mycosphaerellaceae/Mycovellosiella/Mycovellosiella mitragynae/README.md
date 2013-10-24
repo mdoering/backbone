@@ -1,17 +1,16 @@
-Mycovellosiella mitragyneae P. Kumar & Kamal SPECIES
-=======
+# Mycovellosiella mitragynae P. Kumar & Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biological Bulletin of India 3(2): 119 (1981)
 
 #### Original name
-Mycovellosiella mitragyneae P. Kumar & Kamal
+Mycovellosiella mitragynae P. Kumar & Kamal
 
 ### Remarks
 null

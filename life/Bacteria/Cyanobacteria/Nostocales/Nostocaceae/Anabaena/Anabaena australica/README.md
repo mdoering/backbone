@@ -1,5 +1,4 @@
-Anabaena australica var. constricta Playfair VARIETY
-=======
+# Anabaena australica Playfair SPECIES
 
 #### Status
 ACCEPTED

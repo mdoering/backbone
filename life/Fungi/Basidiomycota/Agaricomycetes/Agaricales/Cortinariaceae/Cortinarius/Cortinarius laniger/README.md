@@ -1,5 +1,4 @@
-Cortinarius laniger Fr., 1838 SPECIES
-=======
+# Cortinarius laniger Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED

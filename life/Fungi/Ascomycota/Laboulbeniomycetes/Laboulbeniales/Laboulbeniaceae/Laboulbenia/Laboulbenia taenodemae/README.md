@@ -1,5 +1,4 @@
-Laboulbenia taenodemae Thaxt. SPECIES
-=======
+# Laboulbenia taenodemae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

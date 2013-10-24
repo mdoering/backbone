@@ -1,5 +1,4 @@
-Naemosphaera acerina (Peck) Höhn., 1916 SPECIES
-=======
+# Naemosphaera acerina (Peck) Höhn., 1916 SPECIES
 
 #### Status
 ACCEPTED

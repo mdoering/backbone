@@ -1,5 +1,4 @@
-Cladonia meridionalis Vain. SPECIES
-=======
+# Cladonia meridionalis Vain. SPECIES
 
 #### Status
 ACCEPTED

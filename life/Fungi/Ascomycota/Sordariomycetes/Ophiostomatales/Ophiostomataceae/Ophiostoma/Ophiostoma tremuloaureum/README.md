@@ -1,14 +1,13 @@
-Ceratocystis tremuloaurea R.W. Davidson & T.E. Hinds SPECIES
-=======
+# Ophiostoma tremuloaureum (R.W. Davidson & T.E. Hinds) de Hoog & R.J. Scheff. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycologia 56(6): 794 (1965)
+Mycologia 76(2): 298 (1984)
 
 #### Original name
 Ceratocystis tremuloaurea R.W. Davidson & T.E. Hinds

@@ -1,17 +1,16 @@
-Penicillium diversum var. diversum VARIETY
-=======
+# Penicillium diversum Raper & Fennell, 1948 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 40(5): 539 (1948)
 
 #### Original name
-Penicillium diversum var. diversum
+Penicillium diversum Raper & Fennell, 1948
 
 ### Remarks
 null

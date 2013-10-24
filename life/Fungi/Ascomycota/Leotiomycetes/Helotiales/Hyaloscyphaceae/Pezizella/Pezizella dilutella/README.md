@@ -1,5 +1,4 @@
-Pezizella dilutella SPECIES
-=======
+# Pezizella dilutella SPECIES
 
 #### Status
 ACCEPTED

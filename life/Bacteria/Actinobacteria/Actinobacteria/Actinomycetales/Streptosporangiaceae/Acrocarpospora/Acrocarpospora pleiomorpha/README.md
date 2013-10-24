@@ -1,5 +1,4 @@
-Acrocarpospora pleiomorpha Tamura et al., 2000 SPECIES
-=======
+# Acrocarpospora pleiomorpha Tamura et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

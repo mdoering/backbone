@@ -1,5 +1,4 @@
-Leptostroma piceum Schwein. SPECIES
-=======
+# Leptostroma piceum Schwein. SPECIES
 
 #### Status
 ACCEPTED

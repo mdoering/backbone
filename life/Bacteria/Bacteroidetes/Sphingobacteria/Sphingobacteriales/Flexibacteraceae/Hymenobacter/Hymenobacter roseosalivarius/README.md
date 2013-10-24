@@ -1,5 +1,4 @@
-Hymenobacter roseosalivarius Hirsch et al., 1999 SPECIES
-=======
+# Hymenobacter roseosalivarius Hirsch et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammodiscus intermedius Hoeglund, 1947 SPECIES
-=======
+# Ammodiscus intermedius Hoeglund, 1947 SPECIES
 
 #### Status
 ACCEPTED

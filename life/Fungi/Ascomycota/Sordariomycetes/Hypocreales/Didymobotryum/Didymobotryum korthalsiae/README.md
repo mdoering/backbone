@@ -1,5 +1,4 @@
-Didymobotryum korthalsiae Subram. SPECIES
-=======
+# Didymobotryum korthalsiae Subram. SPECIES
 
 #### Status
 ACCEPTED

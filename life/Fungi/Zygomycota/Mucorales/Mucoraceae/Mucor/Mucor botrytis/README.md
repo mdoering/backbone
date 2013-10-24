@@ -1,5 +1,4 @@
-Mucor botrytis Sowerby SPECIES
-=======
+# Mucor botrytis Sowerby SPECIES
 
 #### Status
 ACCEPTED

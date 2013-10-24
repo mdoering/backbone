@@ -1,5 +1,4 @@
-Aspergillus griseus Link, 1824 SPECIES
-=======
+# Aspergillus griseus Link, 1824 SPECIES
 
 #### Status
 ACCEPTED

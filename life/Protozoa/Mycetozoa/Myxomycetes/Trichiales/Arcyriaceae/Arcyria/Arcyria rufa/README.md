@@ -1,5 +1,4 @@
-Arcyria rufa Schumach. SPECIES
-=======
+# Arcyria rufa Schumach. SPECIES
 
 #### Status
 ACCEPTED

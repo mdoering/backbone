@@ -1,17 +1,16 @@
-Hebeloma wells-kemptonae A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma wells-kemptoniae A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Veiled species of Hebeloma in the western United States (Ann Arbor) 135 (1983)
 
 #### Original name
-Hebeloma wells-kemptonae A.H. Sm., V.S. Evenson & Mitchel
+Hebeloma wells-kemptoniae A.H. Sm., V.S. Evenson & Mitchel
 
 ### Remarks
 null

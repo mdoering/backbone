@@ -1,5 +1,4 @@
-Pleospora phyllophila Rehm SPECIES
-=======
+# Pleospora phyllophila Rehm SPECIES
 
 #### Status
 ACCEPTED

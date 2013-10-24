@@ -1,5 +1,4 @@
-Angustidinium Goodman & Evitt, 1981 GENUS
-=======
+# Angustidinium Goodman & Evitt, 1981 GENUS
 
 #### Status
 ACCEPTED

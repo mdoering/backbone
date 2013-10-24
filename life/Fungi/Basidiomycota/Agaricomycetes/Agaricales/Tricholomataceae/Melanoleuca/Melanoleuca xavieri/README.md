@@ -1,17 +1,16 @@
-Melanoleuca xavierii Singer SPECIES
-=======
+# Melanoleuca xavieri Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fieldiana, Bot. 21: 21 (1989)
 
 #### Original name
-Melanoleuca xavierii Singer
+Melanoleuca xavieri Singer
 
 ### Remarks
 null

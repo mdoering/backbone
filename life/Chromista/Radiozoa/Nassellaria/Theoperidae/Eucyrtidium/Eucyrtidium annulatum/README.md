@@ -1,5 +1,4 @@
-Eucyrtidium annulatum (Popofsky, 1913) SPECIES
-=======
+# Eucyrtidium annulatum (Popofsky, 1913) SPECIES
 
 #### Status
 ACCEPTED

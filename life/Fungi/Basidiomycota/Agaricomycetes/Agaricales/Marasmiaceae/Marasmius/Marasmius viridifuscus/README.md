@@ -1,5 +1,4 @@
-Marasmius viridifuscus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius viridifuscus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

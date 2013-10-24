@@ -1,5 +1,4 @@
-Laboulbenia grylli Thaxt. SPECIES
-=======
+# Laboulbenia grylli Thaxt. SPECIES
 
 #### Status
 ACCEPTED

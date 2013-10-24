@@ -1,5 +1,4 @@
-Spirochaeta mitis SPECIES
-=======
+# Spirochaeta mitis SPECIES
 
 #### Status
 ACCEPTED

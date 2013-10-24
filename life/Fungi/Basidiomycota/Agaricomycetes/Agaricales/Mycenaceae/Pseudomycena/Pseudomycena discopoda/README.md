@@ -1,5 +1,4 @@
-Pseudomycena discopoda (Lév.) Cejp SPECIES
-=======
+# Pseudomycena discopoda (Lév.) Cejp SPECIES
 
 #### Status
 ACCEPTED

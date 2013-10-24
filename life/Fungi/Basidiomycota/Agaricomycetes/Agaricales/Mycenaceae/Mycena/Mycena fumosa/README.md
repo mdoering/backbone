@@ -1,5 +1,4 @@
-Mycena fumosa Grgur. SPECIES
-=======
+# Mycena fumosa Grgur. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Halosarpheia lotica Shearer, 1984 SPECIES
-=======
+# Natantispora lotica (Shearer) J. Campb., J.L. Anderson & Shearer, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 20(2): 505 (1984)
+Mycologia 95(3): 543 (2003)
 
 #### Original name
 Halosarpheia lotica Shearer, 1984

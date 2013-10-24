@@ -1,5 +1,4 @@
-Oospora chalaroides G. Arnaud SPECIES
-=======
+# Oospora chalaroides G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

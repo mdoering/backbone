@@ -1,5 +1,4 @@
-Verrucaria harmandii B. de Lesd. SPECIES
-=======
+# Verrucaria harmandii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

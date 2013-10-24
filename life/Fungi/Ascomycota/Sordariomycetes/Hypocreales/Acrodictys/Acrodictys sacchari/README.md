@@ -1,5 +1,4 @@
-Acrodictys sacchari M.B. Ellis SPECIES
-=======
+# Acrodictys sacchari M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

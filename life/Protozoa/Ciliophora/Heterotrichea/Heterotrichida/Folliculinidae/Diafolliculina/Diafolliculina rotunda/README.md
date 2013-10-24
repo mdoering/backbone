@@ -1,5 +1,4 @@
-Diafolliculina rotunda Hadzi, 1951 SPECIES
-=======
+# Diafolliculina rotunda Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

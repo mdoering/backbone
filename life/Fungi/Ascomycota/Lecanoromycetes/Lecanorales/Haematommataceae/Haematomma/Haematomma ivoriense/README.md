@@ -1,5 +1,4 @@
-Haematomma ivoriense Kalb & Staiger SPECIES
-=======
+# Haematomma ivoriense Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinomyces deberardinis Namysl. SPECIES
-=======
+# Actinomyces deberardinis Namysl. SPECIES
 
 #### Status
 ACCEPTED

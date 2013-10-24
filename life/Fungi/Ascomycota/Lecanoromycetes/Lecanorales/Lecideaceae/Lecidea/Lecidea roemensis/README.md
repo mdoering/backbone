@@ -1,5 +1,4 @@
-Lecidea roemensis Erichsen SPECIES
-=======
+# Lecidea roemensis Erichsen SPECIES
 
 #### Status
 ACCEPTED

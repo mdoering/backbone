@@ -1,5 +1,4 @@
-Aspicilia obscurior (H. Magn.) Motyka SPECIES
-=======
+# Aspicilia obscurior (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

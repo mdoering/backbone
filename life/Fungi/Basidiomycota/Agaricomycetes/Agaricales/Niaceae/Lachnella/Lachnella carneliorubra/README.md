@@ -1,14 +1,13 @@
-Lachnella carnelioruber (Singer) Locq. SPECIES
-=======
+# Lachnella carneliorubra (Singer) Locq. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 68: 166 (1952)
 
 #### Original name
 Chaetocalathus carnelioruber Singer

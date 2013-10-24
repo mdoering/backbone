@@ -1,5 +1,4 @@
-Cytospora olenia Berl. & Peglion SPECIES
-=======
+# Cytospora olenia Berl. & Peglion SPECIES
 
 #### Status
 ACCEPTED

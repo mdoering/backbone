@@ -1,5 +1,4 @@
-Baltisphaeridium adiastalatum Wicander, Playford & Robertson, 1999 SPECIES
-=======
+# Baltisphaeridium adiastalatum Wicander, Playford & Robertson, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula vinosella Sacc. SPECIES
-=======
+# Torula vinosella Sacc. SPECIES
 
 #### Status
 ACCEPTED

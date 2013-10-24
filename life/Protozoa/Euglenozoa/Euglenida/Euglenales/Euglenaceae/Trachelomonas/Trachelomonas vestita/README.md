@@ -1,5 +1,4 @@
-Trachelomonas vestita Palmer SPECIES
-=======
+# Trachelomonas vestita Palmer SPECIES
 
 #### Status
 ACCEPTED

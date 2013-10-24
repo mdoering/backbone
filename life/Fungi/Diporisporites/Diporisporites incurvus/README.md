@@ -1,5 +1,4 @@
-Diporisporites incurvus P. Ke & Z.Y. Shi SPECIES
-=======
+# Diporisporites incurvus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

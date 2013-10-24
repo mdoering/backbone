@@ -1,5 +1,4 @@
-Sporidesmium bonarii M.B. Ellis SPECIES
-=======
+# Sporidesmium bonarii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

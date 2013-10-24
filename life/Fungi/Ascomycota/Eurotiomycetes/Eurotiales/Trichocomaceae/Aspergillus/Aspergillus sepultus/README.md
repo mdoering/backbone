@@ -1,5 +1,4 @@
-Aspergillus sepultus Tuthill & M. Chr., 1986 SPECIES
-=======
+# Aspergillus sepultus Tuthill & M. Chr., 1986 SPECIES
 
 #### Status
 ACCEPTED

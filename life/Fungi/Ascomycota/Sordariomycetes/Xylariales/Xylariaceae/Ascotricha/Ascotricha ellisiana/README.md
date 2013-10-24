@@ -1,5 +1,4 @@
-Ascotricha ellisiana (Sacc. & P. Syd.) D. Hawksw. SPECIES
-=======
+# Ascotricha ellisiana (Sacc. & P. Syd.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

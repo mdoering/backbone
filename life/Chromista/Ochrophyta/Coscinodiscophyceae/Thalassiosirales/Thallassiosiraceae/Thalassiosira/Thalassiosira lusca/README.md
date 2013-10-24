@@ -1,5 +1,4 @@
-Thalassiosira lusca H. J. Schrader SPECIES
-=======
+# Thalassiosira lusca H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

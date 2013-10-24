@@ -1,5 +1,4 @@
-Monochaetia ceratospora (De Not.) Guba SPECIES
-=======
+# Monochaetia ceratospora (De Not.) Guba SPECIES
 
 #### Status
 ACCEPTED

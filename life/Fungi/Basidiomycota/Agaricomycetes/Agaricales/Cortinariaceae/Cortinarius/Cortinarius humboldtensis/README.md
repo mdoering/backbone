@@ -1,5 +1,4 @@
-Cortinarius humboldtensis Ammirati & A.H. Sm. SPECIES
-=======
+# Cortinarius humboldtensis Ammirati & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

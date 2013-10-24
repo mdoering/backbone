@@ -1,5 +1,4 @@
-Hygrophorus pseudodiscoideus (Maire) Malençon & Bertault SPECIES
-=======
+# Hygrophorus pseudodiscoideus (Maire) Malençon & Bertault SPECIES
 
 #### Status
 ACCEPTED

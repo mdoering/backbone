@@ -1,5 +1,4 @@
-Hypogymnia occidentalis L. H. Pike SPECIES
-=======
+# Hypogymnia occidentalis L. H. Pike SPECIES
 
 #### Status
 ACCEPTED

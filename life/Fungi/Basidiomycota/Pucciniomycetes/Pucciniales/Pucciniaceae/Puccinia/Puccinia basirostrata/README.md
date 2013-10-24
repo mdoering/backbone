@@ -1,5 +1,4 @@
-Puccinia basirostrata Berndt SPECIES
-=======
+# Puccinia basirostrata Berndt SPECIES
 
 #### Status
 ACCEPTED

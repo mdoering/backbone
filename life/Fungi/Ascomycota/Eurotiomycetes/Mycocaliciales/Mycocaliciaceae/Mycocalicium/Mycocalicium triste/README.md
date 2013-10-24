@@ -1,5 +1,4 @@
-Mycocalicium triste SPECIES
-=======
+# Mycocalicium triste SPECIES
 
 #### Status
 ACCEPTED

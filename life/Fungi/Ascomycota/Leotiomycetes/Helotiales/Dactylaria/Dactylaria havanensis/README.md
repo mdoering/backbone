@@ -1,5 +1,4 @@
-Dactylaria havanensis R.F. Castañeda SPECIES
-=======
+# Dactylaria havanensis R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

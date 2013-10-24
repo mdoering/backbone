@@ -1,5 +1,4 @@
-Phoma tertia (Cooke) Sacc. SPECIES
-=======
+# Phoma tertia (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

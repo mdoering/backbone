@@ -1,5 +1,4 @@
-Oospora trigonospora Marchal & É.J. Marchal SPECIES
-=======
+# Oospora trigonospora Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

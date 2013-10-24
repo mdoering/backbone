@@ -1,5 +1,4 @@
-Hemimycena minutissima Desjardin, 1991 SPECIES
-=======
+# Hemimycena minutissima Desjardin, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora ganjetica Purkay. & Mallik SPECIES
-=======
+# Cercospora ganjetica Purkay. & Mallik SPECIES
 
 #### Status
 ACCEPTED

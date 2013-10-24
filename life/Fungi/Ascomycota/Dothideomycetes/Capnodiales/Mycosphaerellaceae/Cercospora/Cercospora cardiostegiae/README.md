@@ -1,5 +1,4 @@
-Cercospora cardiostegiae B.H. Davis SPECIES
-=======
+# Cercospora cardiostegiae B.H. Davis SPECIES
 
 #### Status
 ACCEPTED

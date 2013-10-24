@@ -1,5 +1,4 @@
-Trypetheliopsis boninensis Asahina SPECIES
-=======
+# Trypetheliopsis boninensis Asahina SPECIES
 
 #### Status
 ACCEPTED

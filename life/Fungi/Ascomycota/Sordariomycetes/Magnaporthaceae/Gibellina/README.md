@@ -1,17 +1,16 @@
-Gibellia Pass. GENUS
-=======
+# Gibellina Pass. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boln Comiz. Agr. Parmense 7: 5 (1886)
+in Roumeguère, Revue mycol. , Toulouse 8: 177 (1886)
 
 #### Original name
-Gibellia Pass.
+Gibellina Pass.
 
 ### Remarks
 null

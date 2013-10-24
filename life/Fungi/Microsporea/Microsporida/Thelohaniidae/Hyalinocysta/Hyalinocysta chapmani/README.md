@@ -1,5 +1,4 @@
-Hyalinocysta chapmani E.I. Hazard & Oldacre SPECIES
-=======
+# Hyalinocysta chapmani E.I. Hazard & Oldacre SPECIES
 
 #### Status
 ACCEPTED

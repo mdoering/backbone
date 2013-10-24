@@ -1,5 +1,4 @@
-Ellipsoidion oocystoides Pascher SPECIES
-=======
+# Ellipsoidion oocystoides Pascher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discoaster pacificus Haq, 1969 SPECIES
-=======
+# Discoaster pacificus Haq, 1969 SPECIES
 
 #### Status
 ACCEPTED

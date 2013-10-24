@@ -1,5 +1,4 @@
-Peltigera sancti-stephani Gyeln. SPECIES
-=======
+# Peltigera sancti-stephani Gyeln. SPECIES
 
 #### Status
 ACCEPTED

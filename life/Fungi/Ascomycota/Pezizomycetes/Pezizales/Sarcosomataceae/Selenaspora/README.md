@@ -1,5 +1,4 @@
-Selenaspora R. Heim & Le Gal, 1936 GENUS
-=======
+# Selenaspora R. Heim & Le Gal, 1936 GENUS
 
 #### Status
 ACCEPTED

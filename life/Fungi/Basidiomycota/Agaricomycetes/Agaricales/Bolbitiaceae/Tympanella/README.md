@@ -1,5 +1,4 @@
-Tympanella E. Horak GENUS
-=======
+# Tympanella E. Horak GENUS
 
 #### Status
 ACCEPTED

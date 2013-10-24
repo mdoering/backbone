@@ -1,5 +1,4 @@
-Lobaria fendleri (Tuck. & Mont.) Lindau SPECIES
-=======
+# Lobaria fendleri (Tuck. & Mont.) Lindau SPECIES
 
 #### Status
 ACCEPTED

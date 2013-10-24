@@ -1,5 +1,4 @@
-Clitocybe lentinelloides O.K. Mill. & H.E. Bigelow SPECIES
-=======
+# Clitocybe lentinelloides O.K. Mill. & H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

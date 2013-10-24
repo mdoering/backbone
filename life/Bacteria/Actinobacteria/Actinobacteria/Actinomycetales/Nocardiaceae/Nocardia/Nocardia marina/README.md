@@ -1,8 +1,7 @@
-Proactinomyces citreus marinae (Humm & Shepard) Krasil. SUBSPECIES
-=======
+# Nocardia marina (Krasil'nikov) Waksman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

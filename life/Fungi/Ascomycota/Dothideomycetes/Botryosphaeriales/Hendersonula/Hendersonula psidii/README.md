@@ -1,5 +1,4 @@
-Hendersonula psidii R. Liu & P.K. Chi SPECIES
-=======
+# Hendersonula psidii R. Liu & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

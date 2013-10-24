@@ -1,5 +1,4 @@
-Septoria melanosa f. melanosa FORM
-=======
+# Septoria melanosa Elenkin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Zh. Bolez. Rast. 3: 60 (1909)
 
 #### Original name
-Septoria melanosa f. melanosa
+Septoria ampelina Viala & Ravaz
 
 ### Remarks
 null

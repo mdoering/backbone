@@ -1,5 +1,4 @@
-Palaeoamphisphaerella keralensis Ramanujam & Srisailam SPECIES
-=======
+# Palaeoamphisphaerella keralensis Ramanujam & Srisailam SPECIES
 
 #### Status
 ACCEPTED

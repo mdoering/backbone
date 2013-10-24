@@ -1,17 +1,16 @@
-Stemonitis pallida var. rubescens Y. Yamam. VARIETY
-=======
+# Stemonitis pallida Wingate, 1899 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stapfia 73: 98 (2000)
+in Macbride, N. Amer. Slime-Moulds (New York) 123 (1899)
 
 #### Original name
-Stemonitis pallida var. rubescens Y. Yamam.
+Stemonitis pallida Wingate, 1899
 
 ### Remarks
 null

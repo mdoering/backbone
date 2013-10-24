@@ -1,8 +1,7 @@
-Micrococcus agilis Ali-Cohen, 1889 (Approved Lists, 1980) SPECIES
-=======
+# Arthrobacter agilis (Ali-Cohen, 1889) Koch et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

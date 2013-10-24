@@ -1,5 +1,4 @@
-Sphaeria equiseti Desm. SPECIES
-=======
+# Sphaeria equiseti Desm. SPECIES
 
 #### Status
 ACCEPTED

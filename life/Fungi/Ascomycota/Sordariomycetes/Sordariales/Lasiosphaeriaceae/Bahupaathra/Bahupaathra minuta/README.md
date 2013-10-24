@@ -1,5 +1,4 @@
-Bahupaathra minuta A.S. Saxena & Mukerji SPECIES
-=======
+# Bahupaathra minuta A.S. Saxena & Mukerji SPECIES
 
 #### Status
 ACCEPTED

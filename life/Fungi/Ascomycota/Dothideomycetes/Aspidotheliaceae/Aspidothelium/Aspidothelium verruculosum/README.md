@@ -1,14 +1,13 @@
-Thelenella verruculosa (R. Sant.) Farkas & Sipman, 1997 SPECIES
-=======
+# Aspidothelium verruculosum R. Sant., 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Abstracta Botanica 21(1): 195 (1997)
+Symb. bot. upsal. 12(no. 1): 285 (1952)
 
 #### Original name
 Aspidothelium verruculosum R. Sant., 1952

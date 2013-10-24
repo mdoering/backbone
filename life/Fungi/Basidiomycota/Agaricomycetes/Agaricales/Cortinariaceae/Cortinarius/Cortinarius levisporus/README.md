@@ -1,5 +1,4 @@
-Cortinarius levisporus (Massee & Rodway ex Rodway) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius levisporus (Massee & Rodway ex Rodway) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

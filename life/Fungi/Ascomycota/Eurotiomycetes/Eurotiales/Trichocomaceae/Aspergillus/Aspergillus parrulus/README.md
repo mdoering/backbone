@@ -1,5 +1,4 @@
-Aspergillus parrulus G. Sm. SPECIES
-=======
+# Aspergillus parrulus G. Sm. SPECIES
 
 #### Status
 ACCEPTED

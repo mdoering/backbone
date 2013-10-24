@@ -1,5 +1,4 @@
-Naucoria coccophila Nomura SPECIES
-=======
+# Naucoria coccophila Nomura SPECIES
 
 #### Status
 ACCEPTED

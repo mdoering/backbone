@@ -1,5 +1,4 @@
-Ditremis leptosperma (Zahlbr.) R.C. Harris SPECIES
-=======
+# Ditremis leptosperma (Zahlbr.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

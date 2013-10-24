@@ -1,5 +1,4 @@
-Borrelia valaisiana Wang et al., 1997 SPECIES
-=======
+# Borrelia valaisiana Wang et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

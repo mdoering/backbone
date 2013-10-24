@@ -1,14 +1,13 @@
-Allelogromia Saedeleer, 1934 GENUS
-=======
+# Diplogromia Rhumbler, 1904 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Arch. Protistenk. , 3, 214.
 
 #### Original name
 null

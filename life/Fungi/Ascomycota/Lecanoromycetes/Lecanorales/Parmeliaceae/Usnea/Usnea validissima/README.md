@@ -1,5 +1,4 @@
-Usnea validissima Motyka SPECIES
-=======
+# Usnea validissima Motyka SPECIES
 
 #### Status
 ACCEPTED

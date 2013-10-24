@@ -1,5 +1,4 @@
-Castanedomyces australiensis Cano, L.B. Pitarch & Guarro, 2002 SPECIES
-=======
+# Castanedomyces australiensis Cano, L.B. Pitarch & Guarro, 2002 SPECIES
 
 #### Status
 ACCEPTED

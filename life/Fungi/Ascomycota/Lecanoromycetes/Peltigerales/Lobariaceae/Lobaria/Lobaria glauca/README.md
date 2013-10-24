@@ -1,5 +1,4 @@
-Lobaria glauca (L.) Hoffm. SPECIES
-=======
+# Lobaria glauca (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

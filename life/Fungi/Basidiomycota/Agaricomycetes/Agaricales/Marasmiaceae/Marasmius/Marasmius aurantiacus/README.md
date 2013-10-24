@@ -1,5 +1,4 @@
-Marasmius aurantiacus (Murrill) Singer SPECIES
-=======
+# Marasmius aurantiacus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

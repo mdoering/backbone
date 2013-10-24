@@ -1,5 +1,4 @@
-Cintractia bambusae Miyabe & Hori SPECIES
-=======
+# Cintractia bambusae Miyabe & Hori SPECIES
 
 #### Status
 ACCEPTED

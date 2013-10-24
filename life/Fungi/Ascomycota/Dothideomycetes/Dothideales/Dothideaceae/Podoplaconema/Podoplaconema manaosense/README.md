@@ -1,5 +1,4 @@
-Podoplaconema manaosense Bat., R. Garnier & J.L. Bezerra SPECIES
-=======
+# Podoplaconema manaosense Bat., R. Garnier & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe plutonia (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Psilocybe plutonia (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

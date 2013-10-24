@@ -1,5 +1,4 @@
-Didymosphaeria canephorae Saccas SPECIES
-=======
+# Didymosphaeria canephorae Saccas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maculatasporites delicatus Foster, 1975 SPECIES
-=======
+# Maculatasporites delicatus Foster, 1975 SPECIES
 
 #### Status
 ACCEPTED

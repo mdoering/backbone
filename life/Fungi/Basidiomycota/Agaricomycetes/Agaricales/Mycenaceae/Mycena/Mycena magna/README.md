@@ -1,5 +1,4 @@
-Mycena magna Murrill SPECIES
-=======
+# Mycena magna Murrill SPECIES
 
 #### Status
 ACCEPTED

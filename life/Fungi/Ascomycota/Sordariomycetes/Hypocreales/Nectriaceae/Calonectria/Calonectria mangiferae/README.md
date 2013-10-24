@@ -1,5 +1,4 @@
-Calonectria mangiferae Séchet SPECIES
-=======
+# Calonectria mangiferae Séchet SPECIES
 
 #### Status
 ACCEPTED

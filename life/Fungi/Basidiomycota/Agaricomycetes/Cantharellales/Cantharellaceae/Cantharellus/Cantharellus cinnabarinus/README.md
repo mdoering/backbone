@@ -1,17 +1,16 @@
-Cantharellus cinnabarinus var. cinnabarinus (Schwein.) Schwein. VARIETY
-=======
+# Cantharellus cinnabarinus (Schwein.) Schwein., 1832 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Am. phil. Soc. , New Series 4(2): 153 (1832)
 
 #### Original name
-Cantharellus cinnabarinus var. cinnabarinus (Schwein.) Schwein.
+Agaricus cinnabarinus Schwein., 1822
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Oogaster rufus Corda SPECIES
-=======
+# Oogaster rufus Corda SPECIES
 
 #### Status
 ACCEPTED

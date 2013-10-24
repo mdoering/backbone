@@ -1,5 +1,4 @@
-Chromosporium strobilinum P. Karst. SPECIES
-=======
+# Chromosporium strobilinum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

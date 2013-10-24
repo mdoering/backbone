@@ -1,5 +1,4 @@
-Hendersonia polycistis Sacc., 1884 SPECIES
-=======
+# Hendersonia polycistis Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

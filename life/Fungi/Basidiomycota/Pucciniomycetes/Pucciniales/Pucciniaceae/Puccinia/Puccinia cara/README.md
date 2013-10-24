@@ -1,5 +1,4 @@
-Puccinia cara Cummins SPECIES
-=======
+# Puccinia cara Cummins SPECIES
 
 #### Status
 ACCEPTED

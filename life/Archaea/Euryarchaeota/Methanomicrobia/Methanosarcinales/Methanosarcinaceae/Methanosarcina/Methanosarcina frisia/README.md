@@ -1,8 +1,7 @@
-Methanococcus frisius Blotevogel et al., 1986 SPECIES
-=======
+# Methanosarcina frisia (Blotevogel et al., 1986) Blotevogel & Fischer, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

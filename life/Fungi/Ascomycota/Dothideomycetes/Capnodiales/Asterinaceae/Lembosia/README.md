@@ -1,17 +1,16 @@
-Lembosidium Speg. GENUS
-=======
+# Lembosia Léveillé, 1845 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 26: 342 (1924)
+null
 
 #### Original name
-Lembosidium Speg.
+null
 
 ### Remarks
 null

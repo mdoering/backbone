@@ -1,5 +1,4 @@
-Passalora ramularioides (Sacc. & Fautrey) U. Braun SPECIES
-=======
+# Passalora ramularioides (Sacc. & Fautrey) U. Braun SPECIES
 
 #### Status
 ACCEPTED

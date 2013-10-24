@@ -1,5 +1,4 @@
-Aplosporella connata (W.R. Gerard) Sacc. SPECIES
-=======
+# Aplosporella connata (W.R. Gerard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma albellum (Schaeff.) Quél. SPECIES
-=======
+# Tricholoma albellum (Schaeff.) Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis isographa Nyl. SPECIES
-=======
+# Graphis isographa Nyl. SPECIES
 
 #### Status
 ACCEPTED

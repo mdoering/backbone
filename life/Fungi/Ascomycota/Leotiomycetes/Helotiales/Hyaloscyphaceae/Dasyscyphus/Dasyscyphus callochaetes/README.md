@@ -1,8 +1,7 @@
-Dasyscypha callochaetes (Ellis & Everh.) Sacc. SPECIES
-=======
+# Dasyscyphus callochaetes (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Patellaria meyeri (J. Stein) Müll. Arg. SPECIES
-=======
+# Patellaria meyeri (J. Stein) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomassaria hesperia M.E. Barr SPECIES
-=======
+# Pseudomassaria hesperia M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

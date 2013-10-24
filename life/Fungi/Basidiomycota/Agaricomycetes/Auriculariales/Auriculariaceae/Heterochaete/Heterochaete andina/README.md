@@ -1,5 +1,4 @@
-Heterochaete andina Pat. & Lagerh., 1892 SPECIES
-=======
+# Heterochaete andina Pat. & Lagerh., 1892 SPECIES
 
 #### Status
 ACCEPTED

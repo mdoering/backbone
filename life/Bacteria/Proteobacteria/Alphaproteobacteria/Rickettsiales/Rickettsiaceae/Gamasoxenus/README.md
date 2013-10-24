@@ -1,5 +1,4 @@
-Gamasoxenus GENUS
-=======
+# Gamasoxenus GENUS
 
 #### Status
 ACCEPTED

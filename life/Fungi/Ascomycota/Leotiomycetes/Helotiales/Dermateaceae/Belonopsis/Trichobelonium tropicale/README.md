@@ -1,5 +1,4 @@
-Trichobelonium tropicale Rehm SPECIES
-=======
+# Trichobelonium tropicale Rehm SPECIES
 
 #### Status
 ACCEPTED

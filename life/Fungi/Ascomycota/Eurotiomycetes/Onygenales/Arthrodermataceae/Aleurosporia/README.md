@@ -1,5 +1,4 @@
-Aleurosporia GENUS
-=======
+# Aleurosporia GENUS
 
 #### Status
 ACCEPTED

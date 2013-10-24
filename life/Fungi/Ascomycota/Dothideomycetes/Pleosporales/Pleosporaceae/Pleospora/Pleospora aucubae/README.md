@@ -1,5 +1,4 @@
-Pleospora aucubae var. aucubae VARIETY
-=======
+# Pleospora aucubae (Westend.) De Not. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pleospora aucubae var. aucubae
+Sphaeria aucubae Westend.
 
 ### Remarks
 null

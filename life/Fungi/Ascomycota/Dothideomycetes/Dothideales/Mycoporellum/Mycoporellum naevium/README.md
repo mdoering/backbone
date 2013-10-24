@@ -1,5 +1,4 @@
-Mycoporellum naevium (Vain.) Zahlbr. SPECIES
-=======
+# Mycoporellum naevium (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

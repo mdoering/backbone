@@ -1,5 +1,4 @@
-Alectoria angolensis C.W. Dodge SPECIES
-=======
+# Alectoria angolensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

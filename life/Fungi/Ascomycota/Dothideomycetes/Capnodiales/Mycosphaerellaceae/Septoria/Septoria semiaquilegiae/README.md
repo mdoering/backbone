@@ -1,5 +1,4 @@
-Septoria semiaquilegiae Koval SPECIES
-=======
+# Septoria semiaquilegiae Koval SPECIES
 
 #### Status
 ACCEPTED

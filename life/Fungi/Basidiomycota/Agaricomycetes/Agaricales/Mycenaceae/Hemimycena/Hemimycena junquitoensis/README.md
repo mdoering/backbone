@@ -1,5 +1,4 @@
-Hemimycena junquitoensis Dennis SPECIES
-=======
+# Hemimycena junquitoensis Dennis SPECIES
 
 #### Status
 ACCEPTED

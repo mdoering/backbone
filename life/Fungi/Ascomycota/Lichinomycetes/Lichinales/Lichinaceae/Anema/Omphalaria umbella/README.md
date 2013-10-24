@@ -1,5 +1,4 @@
-Omphalaria umbella Tuck. SPECIES
-=======
+# Omphalaria umbella Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia rinodinoides Anzi SPECIES
-=======
+# Buellia rinodinoides Anzi SPECIES
 
 #### Status
 ACCEPTED

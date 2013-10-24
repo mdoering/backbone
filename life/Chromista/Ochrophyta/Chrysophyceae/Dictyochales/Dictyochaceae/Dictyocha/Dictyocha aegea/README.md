@@ -1,5 +1,4 @@
-Dictyocha aegea H. Stradner & A. Bachmann SPECIES
-=======
+# Dictyocha aegea H. Stradner & A. Bachmann SPECIES
 
 #### Status
 ACCEPTED

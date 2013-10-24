@@ -1,5 +1,4 @@
-Actinoglyphis heteroclita Mont. SPECIES
-=======
+# Actinoglyphis heteroclita Mont. SPECIES
 
 #### Status
 ACCEPTED

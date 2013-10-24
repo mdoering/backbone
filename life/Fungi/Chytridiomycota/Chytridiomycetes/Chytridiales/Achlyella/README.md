@@ -1,5 +1,4 @@
-Achlyella Lagerh. GENUS
-=======
+# Achlyella Lagerh. GENUS
 
 #### Status
 ACCEPTED

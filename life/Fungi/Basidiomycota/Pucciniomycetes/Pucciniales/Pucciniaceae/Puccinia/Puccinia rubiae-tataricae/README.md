@@ -1,5 +1,4 @@
-Puccinia rubiae-tataricae Syd. & P. Syd. SPECIES
-=======
+# Puccinia rubiae-tataricae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

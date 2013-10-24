@@ -1,5 +1,4 @@
-Rhodophyllus punctipileus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus punctipileus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

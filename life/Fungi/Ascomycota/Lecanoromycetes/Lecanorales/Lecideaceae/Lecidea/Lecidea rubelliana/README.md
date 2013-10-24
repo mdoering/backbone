@@ -1,5 +1,4 @@
-Lecidea rubelliana (Ach.) Schaer. SPECIES
-=======
+# Lecidea rubelliana (Ach.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

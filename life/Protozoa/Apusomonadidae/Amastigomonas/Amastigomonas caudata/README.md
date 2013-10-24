@@ -1,5 +1,4 @@
-Amastigomonas caudata Mylnikov, 1989 SPECIES
-=======
+# Amastigomonas caudata Mylnikov, 1989 SPECIES
 
 #### Status
 ACCEPTED

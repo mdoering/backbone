@@ -1,5 +1,4 @@
-Coenogonium degeneri (Kalb & Vezda) Kalb & Lücking SPECIES
-=======
+# Coenogonium degeneri (Kalb & Vezda) Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED

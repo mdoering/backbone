@@ -1,5 +1,4 @@
-Aecidium aroideum Cooke SPECIES
-=======
+# Aecidium aroideum Cooke SPECIES
 
 #### Status
 ACCEPTED

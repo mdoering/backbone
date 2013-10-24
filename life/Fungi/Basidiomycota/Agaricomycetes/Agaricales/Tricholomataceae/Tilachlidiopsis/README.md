@@ -1,17 +1,16 @@
-Sclerostilbum Povah GENUS
-=======
+# Tilachlidiopsis Keissl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 24: 242 (1932)
+Annln naturh. Mus. Wien 37: 215 (1924)
 
 #### Original name
-Sclerostilbum Povah
+Tilachlidiopsis Keissl.
 
 ### Remarks
 null

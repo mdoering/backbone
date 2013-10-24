@@ -1,5 +1,4 @@
-Dendrodochium densipes Sacc. & Ellis SPECIES
-=======
+# Dendrodochium densipes Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

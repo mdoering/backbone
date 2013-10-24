@@ -1,5 +1,4 @@
-Lecidea catasema Tuck. SPECIES
-=======
+# Lecidea catasema Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius nummularioides Desjardin & Y.S. Tan SPECIES
-=======
+# Marasmius nummularioides Desjardin & Y.S. Tan SPECIES
 
 #### Status
 ACCEPTED

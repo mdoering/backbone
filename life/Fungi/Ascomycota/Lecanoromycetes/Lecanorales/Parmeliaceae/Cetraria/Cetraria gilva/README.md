@@ -1,5 +1,4 @@
-Cetraria gilva Asahina SPECIES
-=======
+# Cetraria gilva Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Oscillatoria limnetica acicularis Nygaard SUBSPECIES
-=======
+# Oscillatoria limnetica Lemmermann SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+Integrated Taxonomic Information System
 
 #### Published in
 null

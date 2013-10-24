@@ -1,5 +1,4 @@
-Erinella marginata Pat. SPECIES
-=======
+# Erinella marginata Pat. SPECIES
 
 #### Status
 ACCEPTED

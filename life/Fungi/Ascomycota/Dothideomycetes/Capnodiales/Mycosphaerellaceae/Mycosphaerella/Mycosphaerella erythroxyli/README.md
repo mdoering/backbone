@@ -1,5 +1,4 @@
-Mycosphaerella erythroxyli (Speg.) M. Morelet SPECIES
-=======
+# Mycosphaerella erythroxyli (Speg.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

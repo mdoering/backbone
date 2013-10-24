@@ -1,5 +1,4 @@
-Fusicoccum aceris Grove SPECIES
-=======
+# Fusicoccum aceris Grove SPECIES
 
 #### Status
 ACCEPTED

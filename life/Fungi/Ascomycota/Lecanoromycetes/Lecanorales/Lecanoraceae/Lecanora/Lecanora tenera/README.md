@@ -1,5 +1,4 @@
-Lecanora tenera (Nyl.) Cromb. SPECIES
-=======
+# Lecanora tenera (Nyl.) Cromb. SPECIES
 
 #### Status
 ACCEPTED

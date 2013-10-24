@@ -1,5 +1,4 @@
-Beltraniella clara Onofri SPECIES
-=======
+# Beltraniella clara Onofri SPECIES
 
 #### Status
 ACCEPTED

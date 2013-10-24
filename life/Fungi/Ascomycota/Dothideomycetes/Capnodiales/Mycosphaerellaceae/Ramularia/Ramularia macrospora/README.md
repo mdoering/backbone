@@ -1,17 +1,16 @@
-Ramularia macrospora var. macrospora VARIETY
-=======
+# Ramularia macrospora Fresen., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beili. 88 (1863)
+Beili. 3: 88 (1863)
 
 #### Original name
-Ramularia macrospora var. macrospora
+Ramularia macrospora Fresen., 1863
 
 ### Remarks
 null

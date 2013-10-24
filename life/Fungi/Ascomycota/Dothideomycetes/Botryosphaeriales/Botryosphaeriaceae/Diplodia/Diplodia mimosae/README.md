@@ -1,5 +1,4 @@
-Diplodia mimosae S. Ahmad SPECIES
-=======
+# Diplodia mimosae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

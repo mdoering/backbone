@@ -1,5 +1,4 @@
-Graphis batanensis var. batanensis VARIETY
-=======
+# Graphis batanensis Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ann. Acad. Sci. fenn. 15(6): 249 (1921)
 
 #### Original name
-Graphis batanensis var. batanensis
+Graphis batanensis Vain.
 
 ### Remarks
 null

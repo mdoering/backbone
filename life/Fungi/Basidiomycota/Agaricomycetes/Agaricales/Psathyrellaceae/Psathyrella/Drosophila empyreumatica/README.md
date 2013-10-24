@@ -1,5 +1,4 @@
-Drosophila empyreumatica (Berk. & Broome) Kühner & Romagn. SPECIES
-=======
+# Drosophila empyreumatica (Berk. & Broome) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

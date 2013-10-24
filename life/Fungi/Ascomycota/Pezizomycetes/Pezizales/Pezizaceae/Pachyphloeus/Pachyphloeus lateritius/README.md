@@ -1,5 +1,4 @@
-Pachyphloeus lateritius Fogel & States SPECIES
-=======
+# Pachyphloeus lateritius Fogel & States SPECIES
 
 #### Status
 ACCEPTED

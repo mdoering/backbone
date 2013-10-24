@@ -1,5 +1,4 @@
-Apsteinia Abé, 1981 GENUS
-=======
+# Apsteinia Abé, 1981 GENUS
 
 #### Status
 ACCEPTED

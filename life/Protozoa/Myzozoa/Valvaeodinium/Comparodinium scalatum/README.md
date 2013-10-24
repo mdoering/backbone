@@ -1,5 +1,4 @@
-Comparodinium scalatum Wille & Gocht, 1979 SPECIES
-=======
+# Comparodinium scalatum Wille & Gocht, 1979 SPECIES
 
 #### Status
 DOUBTFUL

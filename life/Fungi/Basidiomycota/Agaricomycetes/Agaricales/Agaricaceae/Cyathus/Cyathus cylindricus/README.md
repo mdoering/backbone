@@ -1,5 +1,4 @@
-Cyathus cylindricus Willd. SPECIES
-=======
+# Cyathus cylindricus Willd. SPECIES
 
 #### Status
 ACCEPTED

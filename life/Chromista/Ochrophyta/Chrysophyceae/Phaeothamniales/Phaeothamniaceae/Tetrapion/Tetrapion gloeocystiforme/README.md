@@ -1,5 +1,4 @@
-Tetrapion gloeocystiforme Pascher SPECIES
-=======
+# Tetrapion gloeocystiforme Pascher SPECIES
 
 #### Status
 ACCEPTED

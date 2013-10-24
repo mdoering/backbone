@@ -1,5 +1,4 @@
-Diplodina quercina Peck SPECIES
-=======
+# Diplodina quercina Peck SPECIES
 
 #### Status
 ACCEPTED

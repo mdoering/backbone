@@ -1,5 +1,4 @@
-Amanita raphaniodora Ferry SPECIES
-=======
+# Amanita raphaniodora Ferry SPECIES
 
 #### Status
 ACCEPTED

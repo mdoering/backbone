@@ -1,5 +1,4 @@
-Marssonina truncatula (Sacc.) Magnus SPECIES
-=======
+# Marssonina truncatula (Sacc.) Magnus SPECIES
 
 #### Status
 ACCEPTED

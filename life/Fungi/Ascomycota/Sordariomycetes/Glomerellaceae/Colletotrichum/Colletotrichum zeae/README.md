@@ -1,5 +1,4 @@
-Colletotrichum zeae Lobik SPECIES
-=======
+# Colletotrichum zeae Lobik SPECIES
 
 #### Status
 ACCEPTED

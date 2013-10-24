@@ -1,5 +1,4 @@
-Puccinia gladioli-crassifolii Doidge SPECIES
-=======
+# Puccinia gladioli-crassifolii Doidge SPECIES
 
 #### Status
 ACCEPTED

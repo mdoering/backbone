@@ -1,14 +1,13 @@
-Cantharellus juranum (Quél. & Pat.) Sacc. SPECIES
-=======
+# Cantharellus juranus (Quél. & Pat.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 9: 65 (1891)
 
 #### Original name
 Dictyolus juranus Quél. & Pat.

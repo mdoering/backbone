@@ -1,14 +1,13 @@
-Phoma casuarinae Tassi, 1897 SPECIES
-=======
+# Phomopsis casuarinae (Tassi) Died., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Krypt. -Fl. Brandenburg augr. Gebiete 9(2): 251 (1912)
 
 #### Original name
 Phoma casuarinae Tassi, 1897

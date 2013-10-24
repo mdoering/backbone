@@ -1,17 +1,16 @@
-Wettsteinina yuccigena M.E. Barr, 1972 SPECIES
-=======
+# Planistromella yuccigena (M.E. Barr) M.E. Barr, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 60: 434 (1996)
 
 #### Original name
-null
+Wettsteinina yuccaegena M.E. Barr
 
 ### Remarks
 null

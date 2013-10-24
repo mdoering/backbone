@@ -1,5 +1,4 @@
-Lepiota coprinoides Beeli SPECIES
-=======
+# Lepiota coprinoides Beeli SPECIES
 
 #### Status
 ACCEPTED

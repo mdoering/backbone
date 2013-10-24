@@ -1,5 +1,4 @@
-Stirtonia A.L. Smith, 1926 GENUS
-=======
+# Stirtonia A.L. Smith, 1926 GENUS
 
 #### Status
 ACCEPTED

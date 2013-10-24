@@ -1,5 +1,4 @@
-Placidium lesdainii Breuss SPECIES
-=======
+# Placidium lesdainii Breuss SPECIES
 
 #### Status
 ACCEPTED

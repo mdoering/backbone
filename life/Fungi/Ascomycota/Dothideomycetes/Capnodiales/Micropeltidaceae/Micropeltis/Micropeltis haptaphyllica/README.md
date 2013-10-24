@@ -1,5 +1,4 @@
-Micropeltis haptaphyllica Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis haptaphyllica Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

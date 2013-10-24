@@ -1,5 +1,4 @@
-Poria rhizomorpha Bagchee SPECIES
-=======
+# Poria rhizomorpha Bagchee SPECIES
 
 #### Status
 ACCEPTED

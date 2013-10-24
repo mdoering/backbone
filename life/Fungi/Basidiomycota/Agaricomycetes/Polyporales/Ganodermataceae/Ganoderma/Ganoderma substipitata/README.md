@@ -1,5 +1,4 @@
-Ganoderma substipitata Bres. SPECIES
-=======
+# Ganoderma substipitata Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Holodiscolithis P.H. Roth, 1970 GENUS
-=======
+# Holodiscolithus Roth, 1970 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

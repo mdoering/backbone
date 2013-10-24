@@ -1,5 +1,4 @@
-Sphaerella parallela P. Karst. SPECIES
-=======
+# Sphaerella parallela P. Karst. SPECIES
 
 #### Status
 ACCEPTED

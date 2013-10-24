@@ -1,5 +1,4 @@
-Oidium zymoticum Beyer SPECIES
-=======
+# Oidium zymoticum Beyer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycenella favreana E. Horak SPECIES
-=======
+# Mycenella favreana E. Horak SPECIES
 
 #### Status
 ACCEPTED

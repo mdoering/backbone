@@ -1,5 +1,4 @@
-Wetzeliella astra Denison in Costa, Denison & Downie, 1978 SPECIES
-=======
+# Wetzeliella astra Denison in Costa, Denison & Downie, 1978 SPECIES
 
 #### Status
 ACCEPTED

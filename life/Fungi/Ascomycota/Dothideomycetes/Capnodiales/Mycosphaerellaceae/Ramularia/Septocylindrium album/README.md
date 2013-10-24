@@ -1,5 +1,4 @@
-Septocylindrium album (Preuss) Sacc. SPECIES
-=======
+# Septocylindrium album (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

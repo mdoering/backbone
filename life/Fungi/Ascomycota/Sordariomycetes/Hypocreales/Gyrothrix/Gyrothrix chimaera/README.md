@@ -1,5 +1,4 @@
-Gyrothrix chimaera Onofri & Lunghini SPECIES
-=======
+# Gyrothrix chimaera Onofri & Lunghini SPECIES
 
 #### Status
 ACCEPTED

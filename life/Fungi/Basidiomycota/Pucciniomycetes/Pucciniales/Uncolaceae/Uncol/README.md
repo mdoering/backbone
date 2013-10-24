@@ -1,5 +1,4 @@
-Uncol Buriticá & Rodríguez GENUS
-=======
+# Uncol Buriticá & Rodríguez GENUS
 
 #### Status
 ACCEPTED

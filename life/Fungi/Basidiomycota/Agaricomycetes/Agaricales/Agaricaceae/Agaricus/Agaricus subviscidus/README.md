@@ -1,5 +1,4 @@
-Agaricus subviscidus (Pers.) J. Otto SPECIES
-=======
+# Agaricus subviscidus (Pers.) J. Otto SPECIES
 
 #### Status
 ACCEPTED

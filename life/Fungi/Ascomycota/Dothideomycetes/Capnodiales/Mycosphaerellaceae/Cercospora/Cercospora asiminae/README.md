@@ -1,5 +1,4 @@
-Cercospora asiminae Ellis & Kellerm. SPECIES
-=======
+# Cercospora asiminae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

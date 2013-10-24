@@ -1,5 +1,4 @@
-Lamprospora rugensis Benkert SPECIES
-=======
+# Lamprospora rugensis Benkert SPECIES
 
 #### Status
 ACCEPTED

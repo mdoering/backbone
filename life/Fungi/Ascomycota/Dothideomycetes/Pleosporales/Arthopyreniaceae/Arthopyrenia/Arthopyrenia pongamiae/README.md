@@ -1,5 +1,4 @@
-Arthopyrenia pongamiae Vain. SPECIES
-=======
+# Arthopyrenia pongamiae Vain. SPECIES
 
 #### Status
 ACCEPTED

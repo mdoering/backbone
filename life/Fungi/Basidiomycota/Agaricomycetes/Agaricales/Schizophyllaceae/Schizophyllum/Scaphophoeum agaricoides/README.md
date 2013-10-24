@@ -1,5 +1,4 @@
-Scaphophoeum agaricoides Ehrenb. ex Wallr. SPECIES
-=======
+# Scaphophoeum agaricoides Ehrenb. ex Wallr. SPECIES
 
 #### Status
 ACCEPTED

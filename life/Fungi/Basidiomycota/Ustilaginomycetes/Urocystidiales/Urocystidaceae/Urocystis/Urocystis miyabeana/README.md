@@ -1,5 +1,4 @@
-Urocystis miyabeana Togashi & Onuma SPECIES
-=======
+# Urocystis miyabeana Togashi & Onuma SPECIES
 
 #### Status
 ACCEPTED

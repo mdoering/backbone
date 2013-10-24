@@ -1,5 +1,4 @@
-Ejectosporus trisporus Strongman, 2005 SPECIES
-=======
+# Ejectosporus trisporus Strongman, 2005 SPECIES
 
 #### Status
 ACCEPTED

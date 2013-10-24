@@ -1,5 +1,4 @@
-Cladonia kalbii (Ahti) Ahti & DePriest SPECIES
-=======
+# Cladonia kalbii (Ahti) Ahti & DePriest SPECIES
 
 #### Status
 ACCEPTED

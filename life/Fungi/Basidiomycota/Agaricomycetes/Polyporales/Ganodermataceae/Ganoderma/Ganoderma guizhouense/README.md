@@ -1,5 +1,4 @@
-Ganoderma guizhouense S.C. He, 1988 SPECIES
-=======
+# Ganoderma guizhouense S.C. He, 1988 SPECIES
 
 #### Status
 ACCEPTED

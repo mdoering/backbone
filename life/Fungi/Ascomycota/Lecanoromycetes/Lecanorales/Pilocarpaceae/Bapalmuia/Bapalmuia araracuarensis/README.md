@@ -1,5 +1,4 @@
-Bapalmuia araracuarensis Sipman & Lücking SPECIES
-=======
+# Bapalmuia araracuarensis Sipman & Lücking SPECIES
 
 #### Status
 ACCEPTED

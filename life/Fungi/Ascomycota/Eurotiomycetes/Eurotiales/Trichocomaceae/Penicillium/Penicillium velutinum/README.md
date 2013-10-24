@@ -1,17 +1,16 @@
-Citromyces fuscus Sopp, 1912 SPECIES
-=======
+# Penicillium velutinum J.F.H. Beyma, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Skr. VidenskSelsk. Christiania, Kl. I, Math. -Natur. 11: 120 (1912)
+Zentbl. Bakt. ParasitKde, Abt. II 91: 352 (1935)
 
 #### Original name
-Citromyces fuscus Sopp, 1912
+Penicillium velutinum J.F.H. Beyma, 1935
 
 ### Remarks
 null

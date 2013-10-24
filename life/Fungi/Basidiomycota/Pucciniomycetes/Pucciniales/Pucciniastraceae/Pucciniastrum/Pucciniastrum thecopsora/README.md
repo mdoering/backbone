@@ -1,5 +1,4 @@
-Pucciniastrum thecopsora Magnus SPECIES
-=======
+# Pucciniastrum thecopsora Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma hoyafragrans Noordel. & Hauskn. SPECIES
-=======
+# Entoloma hoyafragrans Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Raciborskiella prasina (Müll. Arg.) R. Sant. SPECIES
-=======
+# Strigula prasina Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 12: 197 (1952)
+Flora, Jena 68: 343 (1885)
 
 #### Original name
 Strigula prasina Müll. Arg.

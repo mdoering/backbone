@@ -1,5 +1,4 @@
-Placopyrenium arbogense (Servít) R. Sant. SPECIES
-=======
+# Placopyrenium arbogense (Servít) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

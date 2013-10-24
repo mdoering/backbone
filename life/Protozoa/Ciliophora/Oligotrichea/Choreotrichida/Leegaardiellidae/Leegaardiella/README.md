@@ -1,5 +1,4 @@
-Leegaardiella Lynn & Montagues, 1988 GENUS
-=======
+# Leegaardiella Lynn & Montagues, 1988 GENUS
 
 #### Status
 ACCEPTED

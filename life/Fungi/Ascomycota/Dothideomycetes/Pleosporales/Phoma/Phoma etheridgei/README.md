@@ -1,5 +1,4 @@
-Phoma etheridgei L.J. Hutchison & Y. Hirats. SPECIES
-=======
+# Phoma etheridgei L.J. Hutchison & Y. Hirats. SPECIES
 
 #### Status
 ACCEPTED

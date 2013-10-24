@@ -1,5 +1,4 @@
-Plowrightia bullata (Berk.) Sacc. SPECIES
-=======
+# Plowrightia bullata (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

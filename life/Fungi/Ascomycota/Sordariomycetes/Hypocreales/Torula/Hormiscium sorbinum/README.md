@@ -1,5 +1,4 @@
-Hormiscium sorbinum P. Karst. SPECIES
-=======
+# Hormiscium sorbinum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

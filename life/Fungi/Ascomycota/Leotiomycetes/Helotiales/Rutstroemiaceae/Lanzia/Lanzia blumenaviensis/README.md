@@ -1,5 +1,4 @@
-Lanzia blumenaviensis Henn. SPECIES
-=======
+# Lanzia blumenaviensis Henn. SPECIES
 
 #### Status
 ACCEPTED

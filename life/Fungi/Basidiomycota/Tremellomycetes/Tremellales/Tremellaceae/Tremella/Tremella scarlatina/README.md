@@ -1,5 +1,4 @@
-Tremella scarlatina Schumach. SPECIES
-=======
+# Tremella scarlatina Schumach. SPECIES
 
 #### Status
 ACCEPTED

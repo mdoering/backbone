@@ -1,5 +1,4 @@
-Agaricus fulvens Batsch SPECIES
-=======
+# Agaricus fulvens Batsch SPECIES
 
 #### Status
 ACCEPTED

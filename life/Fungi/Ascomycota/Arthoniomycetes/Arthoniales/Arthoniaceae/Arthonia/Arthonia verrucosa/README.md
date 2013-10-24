@@ -1,5 +1,4 @@
-Arthonia verrucosa Egea & Torrente SPECIES
-=======
+# Arthonia verrucosa Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirilliconus Blau & Wernli, 1999 GENUS
-=======
+# Spirilliconus Blau & Wernli, 1999 GENUS
 
 #### Status
 ACCEPTED

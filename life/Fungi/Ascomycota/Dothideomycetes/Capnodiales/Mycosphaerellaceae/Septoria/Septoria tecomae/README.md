@@ -1,5 +1,4 @@
-Septoria tecomae Ellis & Everh. SPECIES
-=======
+# Septoria tecomae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

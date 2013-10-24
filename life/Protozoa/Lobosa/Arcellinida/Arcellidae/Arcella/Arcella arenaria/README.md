@@ -1,5 +1,4 @@
-Arcella arenaria Greeff SPECIES
-=======
+# Arcella arenaria Greeff SPECIES
 
 #### Status
 ACCEPTED

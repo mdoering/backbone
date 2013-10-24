@@ -1,5 +1,4 @@
-Peziza alboviridis Cooke SPECIES
-=======
+# Peziza alboviridis Cooke SPECIES
 
 #### Status
 ACCEPTED

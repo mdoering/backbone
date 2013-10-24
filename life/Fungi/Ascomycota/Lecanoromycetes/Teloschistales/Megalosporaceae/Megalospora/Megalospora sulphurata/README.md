@@ -1,17 +1,16 @@
-Megalospora sulphurata var. sulphurata VARIETY
-=======
+# Megalospora sulphurata Meyen, 1843 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Meyen & Flotow, Nova Acta Acad. Caes. Leop. -Carol. Nat. Cur. 19(suppl. ): 228 (1843)
+null
 
 #### Original name
-Megalospora sulphurata var. sulphurata
+null
 
 ### Remarks
 null

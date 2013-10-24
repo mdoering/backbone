@@ -1,5 +1,4 @@
-Baltisphaeridium henryi Fensome et al., 1990 SPECIES
-=======
+# Baltisphaeridium henryi Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

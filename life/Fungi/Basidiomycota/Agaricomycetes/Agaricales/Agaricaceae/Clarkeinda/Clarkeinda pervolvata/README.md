@@ -1,5 +1,4 @@
-Clarkeinda pervolvata (Boud.) Sacc. & Trotter SPECIES
-=======
+# Clarkeinda pervolvata (Boud.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

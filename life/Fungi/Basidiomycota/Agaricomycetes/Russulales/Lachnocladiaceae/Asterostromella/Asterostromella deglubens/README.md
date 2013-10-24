@@ -1,5 +1,4 @@
-Asterostromella deglubens Rick SPECIES
-=======
+# Asterostromella deglubens Rick SPECIES
 
 #### Status
 ACCEPTED

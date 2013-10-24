@@ -1,5 +1,4 @@
-Methanosphaera stadtmanae Miller & Wolin, 1985 SPECIES
-=======
+# Methanosphaera stadtmanae Miller & Wolin, 1985 SPECIES
 
 #### Status
 ACCEPTED

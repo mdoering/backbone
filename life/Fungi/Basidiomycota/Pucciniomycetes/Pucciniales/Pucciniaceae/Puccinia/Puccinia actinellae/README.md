@@ -1,5 +1,4 @@
-Puccinia actinellae (Webber) Syd. {?} SPECIES
-=======
+# Puccinia actinellae (Webber) Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

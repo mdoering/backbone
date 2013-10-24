@@ -1,5 +1,4 @@
-Gymnodinium doma Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium doma Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

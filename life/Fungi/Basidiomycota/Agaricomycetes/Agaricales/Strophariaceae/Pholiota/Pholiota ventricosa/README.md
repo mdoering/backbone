@@ -1,5 +1,4 @@
-Pholiota ventricosa Earle SPECIES
-=======
+# Pholiota ventricosa Earle SPECIES
 
 #### Status
 ACCEPTED

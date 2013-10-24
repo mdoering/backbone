@@ -1,5 +1,4 @@
-Helminthosporium yerbae Speg. SPECIES
-=======
+# Helminthosporium yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

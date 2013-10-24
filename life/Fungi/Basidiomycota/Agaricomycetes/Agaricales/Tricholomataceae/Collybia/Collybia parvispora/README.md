@@ -1,5 +1,4 @@
-Collybia parvispora Raithelh. SPECIES
-=======
+# Collybia parvispora Raithelh. SPECIES
 
 #### Status
 ACCEPTED

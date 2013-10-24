@@ -1,17 +1,16 @@
-Racodium resinae var. resinae VARIETY
-=======
+# Sorocybe resinae (Fr.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 468 (1849)
 
 #### Original name
-Racodium resinae var. resinae
+Racodium resinae Fr., 1815
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Crocynia cespitiformis Hue SPECIES
-=======
+# Crocynia cespitiformis Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Schizoparmeaceae Rossman, D.F. Farr & Castl. FAMILY
-=======
+# Schizoparmaceae Rossman, D.F. Farr & Castl. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycoscience 48(3): 137 (2007)
 
 #### Original name
-Schizoparmeaceae Rossman, D.F. Farr & Castl.
+Schizoparmaceae Rossman, D.F. Farr & Castl.
 
 ### Remarks
 null

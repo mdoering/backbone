@@ -1,5 +1,4 @@
-Xenothecium jodophilum Höhn., 1919 SPECIES
-=======
+# Xenothecium jodophilum Höhn., 1919 SPECIES
 
 #### Status
 ACCEPTED

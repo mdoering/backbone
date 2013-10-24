@@ -1,5 +1,4 @@
-Collema albopunctatum Degel. SPECIES
-=======
+# Collema albopunctatum Degel. SPECIES
 
 #### Status
 ACCEPTED

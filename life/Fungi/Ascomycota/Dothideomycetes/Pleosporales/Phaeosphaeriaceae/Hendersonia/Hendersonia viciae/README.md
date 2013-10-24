@@ -1,5 +1,4 @@
-Hendersonia viciae I.E. Brezhnev SPECIES
-=======
+# Hendersonia viciae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

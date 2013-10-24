@@ -1,5 +1,4 @@
-Protoparmelia austro-orcadensis Øvstedal SPECIES
-=======
+# Protoparmelia austro-orcadensis Øvstedal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago lagerheimii Bref. SPECIES
-=======
+# Ustilago lagerheimii Bref. SPECIES
 
 #### Status
 ACCEPTED

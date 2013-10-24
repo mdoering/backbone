@@ -1,5 +1,4 @@
-Bilimbia mastophoriza var. lacerata Vain. VARIETY
-=======
+# Bilimbia mastophoriza Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15: 81 (1921)
+Ann. Acad. Sci. fenn. , Ser. A 15: 80 (1921)
 
 #### Original name
-Bilimbia mastophoriza var. lacerata Vain.
+Bilimbia mastophoriza Vain.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Howchinia Cushman, 1927 GENUS
-=======
+# Howchinia Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

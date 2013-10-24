@@ -1,14 +1,13 @@
-Winterella betulae (Tul. & C. Tul.) Kuntze, 1891 SPECIES
-=======
+# Cryptosporella betulae (Tul. & C. Tul.) L.C. Mejía & Castl., 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 1: 34 (1891)
+Mycol. Res. 112(1): 32 (2007)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Tricholoma cedrorum Maire SPECIES
-=======
+# Tricholoma cedrorum Maire SPECIES
 
 #### Status
 ACCEPTED

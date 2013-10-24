@@ -1,5 +1,4 @@
-Myxacium maculosum (Pers.) P. Kumm. SPECIES
-=======
+# Myxacium maculosum (Pers.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

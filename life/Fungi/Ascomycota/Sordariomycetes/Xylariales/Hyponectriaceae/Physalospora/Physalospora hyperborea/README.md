@@ -1,5 +1,4 @@
-Physalospora hyperborea Bäumler SPECIES
-=======
+# Physalospora hyperborea Bäumler SPECIES
 
 #### Status
 ACCEPTED

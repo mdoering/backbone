@@ -1,17 +1,16 @@
-Agaricus barbatulus Berk. & M.A. Curtis, 1859 SPECIES
-=======
+# Hohenbuehelia barbatula Berk. & Cooke, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 4: 287 (1859)
+Kew Bull. , Addit. Ser. 3: 48 (1970)
 
 #### Original name
-Agaricus barbatulus Berk. & M.A. Curtis, 1859
+Hohenbuehelia barbatula Berk. & Cooke, 1970
 
 ### Remarks
 null

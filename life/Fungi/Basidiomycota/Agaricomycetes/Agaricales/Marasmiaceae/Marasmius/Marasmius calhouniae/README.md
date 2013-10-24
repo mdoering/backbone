@@ -1,5 +1,4 @@
-Marasmius calhouniae Singer SPECIES
-=======
+# Marasmius calhouniae Singer SPECIES
 
 #### Status
 ACCEPTED

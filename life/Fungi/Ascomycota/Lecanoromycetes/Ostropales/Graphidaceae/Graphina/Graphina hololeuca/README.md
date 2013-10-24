@@ -1,5 +1,4 @@
-Graphina hololeuca (Mont. & Bosch) Müll. Arg. SPECIES
-=======
+# Graphina hololeuca (Mont. & Bosch) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

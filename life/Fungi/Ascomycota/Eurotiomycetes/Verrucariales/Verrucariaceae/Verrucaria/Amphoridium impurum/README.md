@@ -1,5 +1,4 @@
-Amphoridium impurum J. Nowak SPECIES
-=======
+# Amphoridium impurum J. Nowak SPECIES
 
 #### Status
 ACCEPTED

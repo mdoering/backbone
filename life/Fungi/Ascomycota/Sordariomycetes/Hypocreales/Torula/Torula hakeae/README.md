@@ -1,5 +1,4 @@
-Torula hakeae Thüm. SPECIES
-=======
+# Torula hakeae Thüm. SPECIES
 
 #### Status
 ACCEPTED

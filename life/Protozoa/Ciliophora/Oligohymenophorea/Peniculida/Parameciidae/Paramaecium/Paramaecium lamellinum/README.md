@@ -1,5 +1,4 @@
-Paramaecium lamellinum SPECIES
-=======
+# Paramaecium lamellinum SPECIES
 
 #### Status
 ACCEPTED

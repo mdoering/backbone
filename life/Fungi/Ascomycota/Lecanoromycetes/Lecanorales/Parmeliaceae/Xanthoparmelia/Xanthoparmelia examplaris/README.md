@@ -1,5 +1,4 @@
-Xanthoparmelia examplaris Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia examplaris Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

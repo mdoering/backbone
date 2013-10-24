@@ -1,5 +1,4 @@
-Gyrodinium lingulifera Lebour, 1925 SPECIES
-=======
+# Gyrodinium lingulifera Lebour, 1925 SPECIES
 
 #### Status
 ACCEPTED

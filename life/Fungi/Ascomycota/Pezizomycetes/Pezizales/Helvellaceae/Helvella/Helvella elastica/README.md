@@ -1,17 +1,16 @@
-Peziza hemisphaerica var. hemisphaerica VARIETY
-=======
+# Helvella elastica Bull., 1785 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Herb. Fr. 6: tab. 242 (1785)
 
 #### Original name
-Peziza hemisphaerica var. hemisphaerica
+Helvella elastica Bull., 1785
 
 ### Remarks
 null

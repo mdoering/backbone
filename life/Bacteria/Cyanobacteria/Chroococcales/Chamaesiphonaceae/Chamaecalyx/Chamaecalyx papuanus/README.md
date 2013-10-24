@@ -1,5 +1,4 @@
-Chamaecalyx papuanus L. Hoffmann SPECIES
-=======
+# Chamaecalyx papuanus L. Hoffmann SPECIES
 
 #### Status
 ACCEPTED

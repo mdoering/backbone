@@ -1,5 +1,4 @@
-Planularia gemmata SPECIES
-=======
+# Planularia gemmata SPECIES
 
 #### Status
 ACCEPTED

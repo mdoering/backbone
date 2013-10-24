@@ -1,5 +1,4 @@
-Mycocentrospora varians R.C. Sinclair & Morgan-Jones, 1979 SPECIES
-=======
+# Mycocentrospora varians R.C. Sinclair & Morgan-Jones, 1979 SPECIES
 
 #### Status
 ACCEPTED

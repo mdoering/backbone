@@ -1,5 +1,4 @@
-Yersinia pestis (Lehmann and Neumann, 1896) van Loghem, 1944 (Approved Lists, 1980) SPECIES
-=======
+# Yersinia pestis (Lehmann and Neumann, 1896) van Loghem, 1944 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

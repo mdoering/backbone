@@ -1,5 +1,4 @@
-Cordyceps shanxiensis B. Liu, Rong & H. Jin SPECIES
-=======
+# Cordyceps shanxiensis B. Liu, Rong & H. Jin SPECIES
 
 #### Status
 ACCEPTED

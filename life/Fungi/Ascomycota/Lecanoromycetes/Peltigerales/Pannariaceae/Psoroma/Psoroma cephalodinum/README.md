@@ -1,5 +1,4 @@
-Psoroma cephalodinum Zahlbr. SPECIES
-=======
+# Psoroma cephalodinum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

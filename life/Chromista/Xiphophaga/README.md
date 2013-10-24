@@ -1,5 +1,4 @@
-Xiphophaga GENUS
-=======
+# Xiphophaga GENUS
 
 #### Status
 ACCEPTED

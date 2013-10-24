@@ -1,8 +1,7 @@
-Tilletiopsis minor var. minor Nyland, 1950 VARIETY
-=======
+# Tilletiopsis minor Nyland, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycologia 42(4): 489 (1950)
 
 #### Original name
-Tilletiopsis minor var. minor Nyland, 1950
+Tilletiopsis minor Nyland, 1950
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hydnum radiatorugosum Britzelm. SPECIES
-=======
+# Hydnum radiatorugosum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

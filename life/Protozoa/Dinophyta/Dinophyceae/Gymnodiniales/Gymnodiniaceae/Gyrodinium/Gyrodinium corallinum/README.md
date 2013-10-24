@@ -1,5 +1,4 @@
-Gyrodinium corallinum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium corallinum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

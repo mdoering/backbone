@@ -1,5 +1,4 @@
-Meliola abjecta J. Schröt. SPECIES
-=======
+# Meliola abjecta J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Condylostomum GENUS
-=======
+# Condylostomum GENUS
 
 #### Status
 ACCEPTED

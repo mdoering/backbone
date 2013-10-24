@@ -1,5 +1,4 @@
-Lobomyces Borelli GENUS
-=======
+# Lobomyces Borelli GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium cinnabarinum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Fusarium cinnabarinum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

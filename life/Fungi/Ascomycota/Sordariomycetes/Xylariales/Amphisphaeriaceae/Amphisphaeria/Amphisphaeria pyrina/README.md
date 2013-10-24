@@ -1,5 +1,4 @@
-Amphisphaeria pyrina Frolov SPECIES
-=======
+# Amphisphaeria pyrina Frolov SPECIES
 
 #### Status
 ACCEPTED

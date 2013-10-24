@@ -1,5 +1,4 @@
-Phoma smyrnii Politis SPECIES
-=======
+# Phoma smyrnii Politis SPECIES
 
 #### Status
 ACCEPTED

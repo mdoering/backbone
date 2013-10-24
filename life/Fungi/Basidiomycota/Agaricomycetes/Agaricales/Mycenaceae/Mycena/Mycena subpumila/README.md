@@ -1,5 +1,4 @@
-Mycena subpumila Rick SPECIES
-=======
+# Mycena subpumila Rick SPECIES
 
 #### Status
 ACCEPTED

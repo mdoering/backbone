@@ -1,5 +1,4 @@
-Hystrichosphaeridium recurvatum var. polyopes Cookson & Eisenack VARIETY
-=======
+# Hystrichosphaeridium recurvatum SPECIES
 
 #### Status
 ACCEPTED

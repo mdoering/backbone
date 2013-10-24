@@ -1,5 +1,4 @@
-Hendersonia sumacis (Pass.) Kuntze SPECIES
-=======
+# Hendersonia sumacis (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

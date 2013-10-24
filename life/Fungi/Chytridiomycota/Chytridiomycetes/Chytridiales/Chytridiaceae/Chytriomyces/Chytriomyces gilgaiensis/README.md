@@ -1,5 +1,4 @@
-Chytriomyces gilgaiensis Willoughby, 1965 SPECIES
-=======
+# Chytriomyces gilgaiensis Willoughby, 1965 SPECIES
 
 #### Status
 ACCEPTED

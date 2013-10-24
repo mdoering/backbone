@@ -1,5 +1,4 @@
-Thelotrema subhiatum Patw. & Nagarkar SPECIES
-=======
+# Thelotrema subhiatum Patw. & Nagarkar SPECIES
 
 #### Status
 ACCEPTED

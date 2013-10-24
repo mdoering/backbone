@@ -1,5 +1,4 @@
-Xanthochrous pseudo-obliquus Pilát SPECIES
-=======
+# Xanthochrous pseudo-obliquus Pilát SPECIES
 
 #### Status
 ACCEPTED

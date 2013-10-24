@@ -1,5 +1,4 @@
-Acropisthiidae Foissner & Foissner, 1988 FAMILY
-=======
+# Acropisthiidae Foissner & Foissner, 1988 FAMILY
 
 #### Status
 ACCEPTED

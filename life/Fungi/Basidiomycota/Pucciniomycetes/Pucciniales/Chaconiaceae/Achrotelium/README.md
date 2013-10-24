@@ -1,5 +1,4 @@
-Achrotelium Syd. GENUS
-=======
+# Achrotelium Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lactarius pelliculatus f. pelliculatus FORM
-=======
+# Lactarius pelliculatus (Beeli) Buyck SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Bull. Jard. Bot. Nat. Belg. 59(1-2): 242 (1989)
 
 #### Original name
-null
+Armillaria pelliculata Beeli
 
 ### Remarks
 null

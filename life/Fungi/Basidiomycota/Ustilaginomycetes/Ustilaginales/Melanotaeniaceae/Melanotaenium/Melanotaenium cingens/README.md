@@ -1,17 +1,16 @@
-Cintractia cingens (Beck) De Toni, 1888 SPECIES
-=======
+# Melanotaenium cingens Bref., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berlese, De Toni & Fischer, Syll. fung. (Abellini) 7: 481 (1888)
+Öst. bot. Z. 42: 40 (1892)
 
 #### Original name
-Ustilago cingens Beck, 1881
+Melanotaenium cingens Bref., 1892
 
 ### Remarks
 null

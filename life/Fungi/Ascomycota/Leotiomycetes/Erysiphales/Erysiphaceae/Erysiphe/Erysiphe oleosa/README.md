@@ -1,5 +1,4 @@
-Erysiphe oleosa var. oleosa VARIETY
-=======
+# Erysiphe oleosa (R.Y. Zheng & G.Q. Chen) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Schlechtendalia 4: 22 (2000)
 
 #### Original name
-Erysiphe oleosa var. oleosa
+Uncinula oleosa R.Y. Zheng & G.Q. Chen
 
 ### Remarks
 null

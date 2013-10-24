@@ -1,5 +1,4 @@
-Diplodia spegazziniana Roum. & Sacc., 1882 SPECIES
-=======
+# Diplodia spegazziniana Roum. & Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED

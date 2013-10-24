@@ -1,5 +1,4 @@
-Asteroma delicatulum Desm. SPECIES
-=======
+# Asteroma delicatulum Desm. SPECIES
 
 #### Status
 ACCEPTED

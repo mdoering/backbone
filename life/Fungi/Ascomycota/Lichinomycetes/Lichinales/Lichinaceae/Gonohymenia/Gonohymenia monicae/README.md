@@ -1,5 +1,4 @@
-Gonohymenia monicae Werner SPECIES
-=======
+# Gonohymenia monicae Werner SPECIES
 
 #### Status
 ACCEPTED

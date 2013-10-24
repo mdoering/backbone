@@ -1,5 +1,4 @@
-Catapyrenium taernaënse (H. Magn.) SPECIES
-=======
+# Catapyrenium taernaënse (H. Magn.) SPECIES
 
 #### Status
 ACCEPTED

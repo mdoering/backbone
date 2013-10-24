@@ -1,5 +1,4 @@
-Heterochaete solenia Pat. SPECIES
-=======
+# Heterochaete solenia Pat. SPECIES
 
 #### Status
 ACCEPTED

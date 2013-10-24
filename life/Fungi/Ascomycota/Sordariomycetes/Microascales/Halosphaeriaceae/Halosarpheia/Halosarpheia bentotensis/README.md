@@ -1,5 +1,4 @@
-Halosarpheia bentotensis Jørg. Koch, 1982 SPECIES
-=======
+# Halosarpheia bentotensis Jørg. Koch, 1982 SPECIES
 
 #### Status
 ACCEPTED

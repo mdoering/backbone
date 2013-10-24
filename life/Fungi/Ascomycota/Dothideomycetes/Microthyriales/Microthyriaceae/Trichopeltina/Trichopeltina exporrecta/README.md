@@ -1,5 +1,4 @@
-Trichopeltina exporrecta Dilcher SPECIES
-=======
+# Trichopeltina exporrecta Dilcher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia subangulosa Müll. Arg. SPECIES
-=======
+# Arthopyrenia subangulosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

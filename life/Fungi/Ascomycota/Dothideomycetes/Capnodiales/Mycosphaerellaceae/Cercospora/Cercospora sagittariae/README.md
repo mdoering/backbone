@@ -1,5 +1,4 @@
-Cercospora sagittariae Ellis & Kellerm., 1886 SPECIES
-=======
+# Cercospora sagittariae Ellis & Kellerm., 1886 SPECIES
 
 #### Status
 ACCEPTED

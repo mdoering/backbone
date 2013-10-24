@@ -1,5 +1,4 @@
-Tubercularia liceoides Fr. SPECIES
-=======
+# Tubercularia liceoides Fr. SPECIES
 
 #### Status
 ACCEPTED

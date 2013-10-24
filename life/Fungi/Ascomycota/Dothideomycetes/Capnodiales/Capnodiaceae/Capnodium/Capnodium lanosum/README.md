@@ -1,5 +1,4 @@
-Capnodium lanosum Cooke SPECIES
-=======
+# Capnodium lanosum Cooke SPECIES
 
 #### Status
 ACCEPTED

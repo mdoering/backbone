@@ -1,5 +1,4 @@
-Chytridiopsis W.G. Schneid. GENUS
-=======
+# Chytridiopsis W.G. Schneid. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius repertus A. Favre & Vialard SPECIES
-=======
+# Cortinarius repertus A. Favre & Vialard SPECIES
 
 #### Status
 ACCEPTED

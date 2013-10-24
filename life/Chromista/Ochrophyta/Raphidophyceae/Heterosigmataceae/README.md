@@ -1,5 +1,4 @@
-Heterosigmataceae FAMILY
-=======
+# Heterosigmataceae FAMILY
 
 #### Status
 ACCEPTED

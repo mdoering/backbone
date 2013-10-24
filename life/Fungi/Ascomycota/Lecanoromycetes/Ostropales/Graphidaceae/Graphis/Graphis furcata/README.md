@@ -1,5 +1,4 @@
-Graphis furcata Fée SPECIES
-=======
+# Graphis furcata Fée SPECIES
 
 #### Status
 ACCEPTED

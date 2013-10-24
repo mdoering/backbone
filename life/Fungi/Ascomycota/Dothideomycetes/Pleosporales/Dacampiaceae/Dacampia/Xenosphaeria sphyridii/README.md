@@ -1,5 +1,4 @@
-Xenosphaeria sphyridii Hazsl. SPECIES
-=======
+# Xenosphaeria sphyridii Hazsl. SPECIES
 
 #### Status
 ACCEPTED

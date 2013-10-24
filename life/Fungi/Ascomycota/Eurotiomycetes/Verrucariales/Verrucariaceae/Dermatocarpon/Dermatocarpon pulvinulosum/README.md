@@ -1,5 +1,4 @@
-Dermatocarpon pulvinulosum (Harm.) Zahlbr. SPECIES
-=======
+# Dermatocarpon pulvinulosum (Harm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

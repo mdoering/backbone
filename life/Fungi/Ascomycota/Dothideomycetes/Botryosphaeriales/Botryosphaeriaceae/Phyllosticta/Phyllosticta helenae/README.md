@@ -1,5 +1,4 @@
-Phyllosticta helenae R. Sprague SPECIES
-=======
+# Phyllosticta helenae R. Sprague SPECIES
 
 #### Status
 ACCEPTED

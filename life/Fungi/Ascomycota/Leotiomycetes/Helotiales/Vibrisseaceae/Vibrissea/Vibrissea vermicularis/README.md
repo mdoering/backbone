@@ -1,5 +1,4 @@
-Vibrissea vermicularis Weinm. SPECIES
-=======
+# Vibrissea vermicularis Weinm. SPECIES
 
 #### Status
 ACCEPTED

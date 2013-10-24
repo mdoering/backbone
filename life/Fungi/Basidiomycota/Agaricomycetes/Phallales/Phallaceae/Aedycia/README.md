@@ -1,5 +1,4 @@
-Aedycia GENUS
-=======
+# Aedycia GENUS
 
 #### Status
 ACCEPTED

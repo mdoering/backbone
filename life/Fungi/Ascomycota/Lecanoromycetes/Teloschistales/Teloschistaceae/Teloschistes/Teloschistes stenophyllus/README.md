@@ -1,5 +1,4 @@
-Teloschistes stenophyllus (Tav.) Sipman SPECIES
-=======
+# Teloschistes stenophyllus (Tav.) Sipman SPECIES
 
 #### Status
 ACCEPTED

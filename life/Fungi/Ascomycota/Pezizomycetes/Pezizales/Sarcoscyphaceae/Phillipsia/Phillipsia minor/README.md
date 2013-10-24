@@ -1,5 +1,4 @@
-Phillipsia minor (Wakef.) Rifai SPECIES
-=======
+# Phillipsia minor (Wakef.) Rifai SPECIES
 
 #### Status
 ACCEPTED

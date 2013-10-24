@@ -1,5 +1,4 @@
-Lecania brunonis (Tuck.) Herre SPECIES
-=======
+# Lecania brunonis (Tuck.) Herre SPECIES
 
 #### Status
 ACCEPTED

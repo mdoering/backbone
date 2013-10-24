@@ -1,17 +1,16 @@
-Acetabula sulcata var. sulcata VARIETY
-=======
+# Helvella acetabulum (L.) Quél., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 330 (1870)
+Hyménomycètes (Alençon) 102 (1874)
 
 #### Original name
-Acetabula sulcata var. sulcata
+Peziza acetabulum L., 1753
 
 ### Remarks
 null

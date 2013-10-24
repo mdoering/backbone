@@ -1,5 +1,4 @@
-Hymenogaster knappii Soehner SPECIES
-=======
+# Hymenogaster knappii Soehner SPECIES
 
 #### Status
 ACCEPTED

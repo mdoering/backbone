@@ -1,5 +1,4 @@
-Thelephora ciliata Fr. SPECIES
-=======
+# Thelephora ciliata Fr. SPECIES
 
 #### Status
 ACCEPTED

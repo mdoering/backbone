@@ -1,5 +1,4 @@
-Puccinia caricis-siderostidae SPECIES
-=======
+# Puccinia caricis-siderostidae SPECIES
 
 #### Status
 ACCEPTED

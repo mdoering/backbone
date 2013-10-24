@@ -1,5 +1,4 @@
-Cladonia ochracea L. Scriba SPECIES
-=======
+# Cladonia ochracea L. Scriba SPECIES
 
 #### Status
 ACCEPTED

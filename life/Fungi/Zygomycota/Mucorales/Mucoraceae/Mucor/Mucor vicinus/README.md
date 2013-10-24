@@ -1,5 +1,4 @@
-Mucor vicinus Bainier SPECIES
-=======
+# Mucor vicinus Bainier SPECIES
 
 #### Status
 ACCEPTED

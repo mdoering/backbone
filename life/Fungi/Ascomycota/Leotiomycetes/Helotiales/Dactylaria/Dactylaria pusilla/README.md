@@ -1,5 +1,4 @@
-Dactylaria pusilla (Deighton & Piroz.) de Hoog & Arx SPECIES
-=======
+# Dactylaria pusilla (Deighton & Piroz.) de Hoog & Arx SPECIES
 
 #### Status
 ACCEPTED

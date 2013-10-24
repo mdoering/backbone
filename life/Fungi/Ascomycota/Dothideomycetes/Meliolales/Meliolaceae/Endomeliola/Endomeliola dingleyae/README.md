@@ -1,5 +1,4 @@
-Endomeliola dingleyae S. Hughes & Piroz., 1994 SPECIES
-=======
+# Endomeliola dingleyae S. Hughes & Piroz., 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microeccrina glomeridis Maessen SPECIES
-=======
+# Microeccrina glomeridis Maessen SPECIES
 
 #### Status
 ACCEPTED

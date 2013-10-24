@@ -1,5 +1,4 @@
-Marasmius incisissimus Rick SPECIES
-=======
+# Marasmius incisissimus Rick SPECIES
 
 #### Status
 ACCEPTED

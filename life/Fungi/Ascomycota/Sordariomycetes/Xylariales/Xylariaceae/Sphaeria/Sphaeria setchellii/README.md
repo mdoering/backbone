@@ -1,5 +1,4 @@
-Sphaeria setchellii Harkn. SPECIES
-=======
+# Sphaeria setchellii Harkn. SPECIES
 
 #### Status
 ACCEPTED

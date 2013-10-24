@@ -1,5 +1,4 @@
-Cortinarius cretaceus (E. Horak) E. Horak SPECIES
-=======
+# Cortinarius cretaceus (E. Horak) E. Horak SPECIES
 
 #### Status
 ACCEPTED

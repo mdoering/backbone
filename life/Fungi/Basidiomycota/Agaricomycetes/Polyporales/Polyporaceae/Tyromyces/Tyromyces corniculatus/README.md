@@ -1,5 +1,4 @@
-Tyromyces corniculatus Corner, 1989 SPECIES
-=======
+# Tyromyces corniculatus Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

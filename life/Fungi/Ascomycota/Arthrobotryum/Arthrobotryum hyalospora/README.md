@@ -1,5 +1,4 @@
-Arthrobotryum hyalospora G. Okada & Tubaki SPECIES
-=======
+# Arthrobotryum hyalospora G. Okada & Tubaki SPECIES
 
 #### Status
 ACCEPTED

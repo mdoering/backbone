@@ -1,5 +1,4 @@
-Pochonia globispora Zare & W. Gams SPECIES
-=======
+# Pochonia globispora Zare & W. Gams SPECIES
 
 #### Status
 ACCEPTED

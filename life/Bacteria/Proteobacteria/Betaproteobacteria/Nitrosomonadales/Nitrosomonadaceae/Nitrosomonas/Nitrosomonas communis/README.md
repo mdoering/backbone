@@ -1,5 +1,4 @@
-Nitrosomonas communis Koops et al., 2001 SPECIES
-=======
+# Nitrosomonas communis Koops et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

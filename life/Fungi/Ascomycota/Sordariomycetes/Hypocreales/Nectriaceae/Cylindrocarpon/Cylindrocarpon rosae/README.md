@@ -1,5 +1,4 @@
-Cylindrocarpon rosae Schischkina & Tsanava SPECIES
-=======
+# Cylindrocarpon rosae Schischkina & Tsanava SPECIES
 
 #### Status
 ACCEPTED

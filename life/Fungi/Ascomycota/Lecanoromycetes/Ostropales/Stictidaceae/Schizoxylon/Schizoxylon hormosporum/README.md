@@ -1,5 +1,4 @@
-Schizoxylon hormosporum Speg. SPECIES
-=======
+# Schizoxylon hormosporum Speg. SPECIES
 
 #### Status
 ACCEPTED

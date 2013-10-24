@@ -1,5 +1,4 @@
-Ascobolus hawaiiensis Brumm., 1967 SPECIES
-=======
+# Ascobolus hawaiiensis Brumm., 1967 SPECIES
 
 #### Status
 ACCEPTED

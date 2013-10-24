@@ -1,5 +1,4 @@
-Coprinus flavogriseus (Berk.) Manjula SPECIES
-=======
+# Coprinus flavogriseus (Berk.) Manjula SPECIES
 
 #### Status
 ACCEPTED

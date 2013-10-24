@@ -1,5 +1,4 @@
-Rubellimicrobium Denner, Kolari, Hoornstra, Tsitko, Kampfer, Busse & Salkinoja-Salonen, 2006 GENUS
-=======
+# Rubellimicrobium Denner, Kolari, Hoornstra, Tsitko, Kampfer, Busse & Salkinoja-Salonen, 2006 GENUS
 
 #### Status
 ACCEPTED

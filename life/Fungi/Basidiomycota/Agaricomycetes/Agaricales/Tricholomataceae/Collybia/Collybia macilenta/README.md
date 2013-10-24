@@ -1,5 +1,4 @@
-Collybia macilenta (Fr.) Gillet SPECIES
-=======
+# Collybia macilenta (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

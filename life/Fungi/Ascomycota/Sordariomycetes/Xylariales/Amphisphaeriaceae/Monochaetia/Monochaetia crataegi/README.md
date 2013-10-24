@@ -1,5 +1,4 @@
-Monochaetia crataegi (Ellis & Everh.) Sacc. SPECIES
-=======
+# Monochaetia crataegi (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

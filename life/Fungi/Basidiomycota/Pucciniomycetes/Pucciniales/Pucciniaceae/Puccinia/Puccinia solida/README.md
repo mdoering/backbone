@@ -1,5 +1,4 @@
-Puccinia solida Berk. & M.A. Curtis SPECIES
-=======
+# Puccinia solida Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora carnosa Burt SPECIES
-=======
+# Peniophora carnosa Burt SPECIES
 
 #### Status
 ACCEPTED

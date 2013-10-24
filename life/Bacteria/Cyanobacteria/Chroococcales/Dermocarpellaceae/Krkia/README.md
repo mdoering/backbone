@@ -1,5 +1,4 @@
-Krkia Pevalek, 1929 GENUS
-=======
+# Krkia Pevalek, 1929 GENUS
 
 #### Status
 SYNONYM

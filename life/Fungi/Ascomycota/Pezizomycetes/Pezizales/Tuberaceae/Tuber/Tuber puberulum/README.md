@@ -1,17 +1,16 @@
-Tuber puberulum var. borchoides G. Gross VARIETY
-=======
+# Tuber puberulum Berk. & Broome, 1846 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 1 18: 81 (1846)
 
 #### Original name
-null
+Tuber puberulum Berk. & Broome, 1846
 
 ### Remarks
 null

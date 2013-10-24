@@ -1,5 +1,4 @@
-Diplodia macrosperma Desm. SPECIES
-=======
+# Diplodia macrosperma Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aquaspirillum peregrinum subsp. peregrinum SUBSPECIES
-=======
+# Aquaspirillum peregrinum (Pretorius, 1963) Hylemon et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

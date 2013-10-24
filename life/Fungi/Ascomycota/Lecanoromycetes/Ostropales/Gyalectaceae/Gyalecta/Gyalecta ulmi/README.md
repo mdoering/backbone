@@ -1,17 +1,16 @@
-Patellaria rubra Hoffm. SPECIES
-=======
+# Gyalecta ulmi (Sw.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Veg. Crypt. 2: 81 (1790)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1*: 126 (1905)
 
 #### Original name
-Patellaria rubra Hoffm.
+Lichen ulmi Sw.
 
 ### Remarks
 null

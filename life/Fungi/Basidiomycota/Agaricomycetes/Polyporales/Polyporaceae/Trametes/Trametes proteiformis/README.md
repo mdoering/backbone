@@ -1,5 +1,4 @@
-Trametes proteiformis (Cooke) G. Cunn. SPECIES
-=======
+# Trametes proteiformis (Cooke) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

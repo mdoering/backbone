@@ -1,5 +1,4 @@
-Frondicularia zeta Cole & Ponton SPECIES
-=======
+# Frondicularia zeta Cole & Ponton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biseucladoniomyces GENUS
-=======
+# Biseucladoniomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sebacina opalea f. stratosa Bourdot & Galzin FORM
-=======
+# Exidiopsis opalea (Bourdot & Galzin) D.A. Reid, 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 55: 431 (1970)
 
 #### Original name
-Sebacina opalea f. stratosa Bourdot & Galzin
+Sebacina opalea Bourdot & Galzin, 1924
 
 ### Remarks
 null

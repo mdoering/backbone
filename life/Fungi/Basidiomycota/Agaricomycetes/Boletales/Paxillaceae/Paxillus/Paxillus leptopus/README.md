@@ -1,5 +1,4 @@
-Paxillus leptopus Fr. SPECIES
-=======
+# Paxillus leptopus Fr. SPECIES
 
 #### Status
 ACCEPTED

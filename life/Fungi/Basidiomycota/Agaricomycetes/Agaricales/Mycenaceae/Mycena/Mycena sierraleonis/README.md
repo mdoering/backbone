@@ -1,5 +1,4 @@
-Mycena sierraleonis Beeli SPECIES
-=======
+# Mycena sierraleonis Beeli SPECIES
 
 #### Status
 ACCEPTED

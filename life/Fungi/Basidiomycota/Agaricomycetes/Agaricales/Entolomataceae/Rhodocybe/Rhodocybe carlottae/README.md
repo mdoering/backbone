@@ -1,5 +1,4 @@
-Rhodocybe carlottae Redhead & T.J. Baroni SPECIES
-=======
+# Rhodocybe carlottae Redhead & T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

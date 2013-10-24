@@ -1,5 +1,4 @@
-Pertusaria diaxantha Nyl. SPECIES
-=======
+# Pertusaria diaxantha Nyl. SPECIES
 
 #### Status
 ACCEPTED

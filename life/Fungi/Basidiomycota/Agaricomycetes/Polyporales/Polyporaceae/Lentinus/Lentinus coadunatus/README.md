@@ -1,5 +1,4 @@
-Lentinus coadunatus Hook. f. SPECIES
-=======
+# Lentinus coadunatus Hook. f. SPECIES
 
 #### Status
 ACCEPTED

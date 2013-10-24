@@ -1,5 +1,4 @@
-Cytospora aurora Mont. & Fr., 1834 SPECIES
-=======
+# Cytospora aurora Mont. & Fr., 1834 SPECIES
 
 #### Status
 ACCEPTED

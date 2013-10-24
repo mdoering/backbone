@@ -1,5 +1,4 @@
-Mycena superincurvata (Britzelm.) Sacc. SPECIES
-=======
+# Mycena superincurvata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

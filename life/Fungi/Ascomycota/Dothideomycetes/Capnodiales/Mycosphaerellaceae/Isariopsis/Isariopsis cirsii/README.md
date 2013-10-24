@@ -1,5 +1,4 @@
-Isariopsis cirsii Maki & Katsuki SPECIES
-=======
+# Isariopsis cirsii Maki & Katsuki SPECIES
 
 #### Status
 ACCEPTED

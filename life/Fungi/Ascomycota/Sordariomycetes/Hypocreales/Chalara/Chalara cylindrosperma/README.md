@@ -1,14 +1,13 @@
-Menispora cylindrosperma Corda, 1837 SPECIES
-=======
+# Chalara cylindrosperma (Corda) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 1: 16 (1837)
+Can. J. Bot. 36: 747 (1958)
 
 #### Original name
 Menispora cylindrosperma Corda, 1837

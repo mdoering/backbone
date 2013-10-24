@@ -1,5 +1,4 @@
-Baltisphaeridium castaneum (Eisenack, 1934 ex Eisenack, 1938) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium castaneum (Eisenack, 1934 ex Eisenack, 1938) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

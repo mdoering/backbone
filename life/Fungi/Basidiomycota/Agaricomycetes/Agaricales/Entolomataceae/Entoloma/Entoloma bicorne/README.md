@@ -1,5 +1,4 @@
-Entoloma bicorne Noordel. SPECIES
-=======
+# Entoloma bicorne Noordel. SPECIES
 
 #### Status
 ACCEPTED

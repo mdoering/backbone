@@ -1,5 +1,4 @@
-Lepiota lavandulae (Cooke & Massee) Sacc. SPECIES
-=======
+# Lepiota lavandulae (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

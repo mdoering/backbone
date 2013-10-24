@@ -1,5 +1,4 @@
-Halorubrum vacuolatum (Mwatha & Grant, 1993) Kamekura et al., 1997 SPECIES
-=======
+# Halorubrum vacuolatum (Mwatha & Grant, 1993) Kamekura et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

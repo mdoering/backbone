@@ -1,5 +1,4 @@
-Melanographium cookei M.B. Ellis SPECIES
-=======
+# Melanographium cookei M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria amaurospora Hellb. SPECIES
-=======
+# Pertusaria amaurospora Hellb. SPECIES
 
 #### Status
 ACCEPTED

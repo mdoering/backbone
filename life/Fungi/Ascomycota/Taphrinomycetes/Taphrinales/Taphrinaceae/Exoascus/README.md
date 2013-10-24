@@ -1,5 +1,4 @@
-Exoascus GENUS
-=======
+# Exoascus GENUS
 
 #### Status
 ACCEPTED

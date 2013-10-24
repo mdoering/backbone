@@ -1,5 +1,4 @@
-Nectria seminicola (Seaver) Sacc. & Traverso SPECIES
-=======
+# Nectria seminicola (Seaver) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

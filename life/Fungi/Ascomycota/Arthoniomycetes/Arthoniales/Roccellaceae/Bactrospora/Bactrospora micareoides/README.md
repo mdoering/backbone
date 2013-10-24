@@ -1,5 +1,4 @@
-Bactrospora micareoides Kantvilas SPECIES
-=======
+# Bactrospora micareoides Kantvilas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus polycephalus Pers. SPECIES
-=======
+# Agaricus polycephalus Pers. SPECIES
 
 #### Status
 ACCEPTED

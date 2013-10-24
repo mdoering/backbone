@@ -1,5 +1,4 @@
-Sphaeria seminis Cooke & Harkn. SPECIES
-=======
+# Sphaeria seminis Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

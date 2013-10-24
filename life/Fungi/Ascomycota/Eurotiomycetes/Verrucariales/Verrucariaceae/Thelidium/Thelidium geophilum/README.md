@@ -1,5 +1,4 @@
-Thelidium geophilum (Nyl.) Arnold SPECIES
-=======
+# Thelidium geophilum (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

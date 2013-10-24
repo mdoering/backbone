@@ -1,5 +1,4 @@
-Lepiota cristulata Rick SPECIES
-=======
+# Lepiota cristulata Rick SPECIES
 
 #### Status
 ACCEPTED

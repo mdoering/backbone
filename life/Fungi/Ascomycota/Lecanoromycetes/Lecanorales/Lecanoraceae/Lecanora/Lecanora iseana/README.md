@@ -1,5 +1,4 @@
-Lecanora iseana Räsänen SPECIES
-=======
+# Lecanora iseana Räsänen SPECIES
 
 #### Status
 ACCEPTED

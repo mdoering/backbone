@@ -1,14 +1,13 @@
-Ascidium interponendum Nyl. SPECIES
-=======
+# Ocellularia interponenda (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Sert. Lich. Trop. Labuan Singapore 20 (1891)
+Mycotaxon 11(1): 137 (1980)
 
 #### Original name
 Ascidium interponendum Nyl.

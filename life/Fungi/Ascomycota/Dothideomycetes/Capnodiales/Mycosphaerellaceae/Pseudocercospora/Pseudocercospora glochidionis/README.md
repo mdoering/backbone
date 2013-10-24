@@ -1,5 +1,4 @@
-Pseudocercospora glochidionis (Sawada) Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora glochidionis (Sawada) Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

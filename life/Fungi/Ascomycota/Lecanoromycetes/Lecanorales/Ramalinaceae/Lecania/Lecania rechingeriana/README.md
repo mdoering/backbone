@@ -1,5 +1,4 @@
-Lecania rechingeriana Szatala SPECIES
-=======
+# Lecania rechingeriana Szatala SPECIES
 
 #### Status
 ACCEPTED

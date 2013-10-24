@@ -1,5 +1,4 @@
-Sphaeria implicata Lév. SPECIES
-=======
+# Sphaeria implicata Lév. SPECIES
 
 #### Status
 ACCEPTED

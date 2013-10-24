@@ -1,5 +1,4 @@
-Cordyceps curculionum (Tul. & C. Tul.) Sacc. SPECIES
-=======
+# Cordyceps curculionum (Tul. & C. Tul.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

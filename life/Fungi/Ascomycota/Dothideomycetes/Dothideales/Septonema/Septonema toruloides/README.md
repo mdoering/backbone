@@ -1,5 +1,4 @@
-Septonema toruloides var. toruloides VARIETY
-=======
+# Septonema toruloides Berl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 7(no. 41): 6 (1878)
 
 #### Original name
-Septonema toruloides var. toruloides
+Septonema toruloides Berl.
 
 ### Remarks
 null

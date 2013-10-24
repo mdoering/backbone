@@ -1,5 +1,4 @@
-Mitrula fusispora Preuss SPECIES
-=======
+# Mitrula fusispora Preuss SPECIES
 
 #### Status
 ACCEPTED

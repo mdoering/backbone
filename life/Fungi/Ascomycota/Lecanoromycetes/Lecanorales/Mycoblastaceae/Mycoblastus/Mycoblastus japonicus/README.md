@@ -1,5 +1,4 @@
-Mycoblastus japonicus Müll. Arg. SPECIES
-=======
+# Mycoblastus japonicus Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

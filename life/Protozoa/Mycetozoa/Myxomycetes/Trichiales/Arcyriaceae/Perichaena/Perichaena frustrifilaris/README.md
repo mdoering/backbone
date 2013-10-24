@@ -1,5 +1,4 @@
-Perichaena frustrifilaris Q. Wang, Yu Li & J.K. Bai, 2000 SPECIES
-=======
+# Perichaena frustrifilaris Q. Wang, Yu Li & J.K. Bai, 2000 SPECIES
 
 #### Status
 ACCEPTED

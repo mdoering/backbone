@@ -1,5 +1,4 @@
-Ophiocordyceps emeiensis (A.Y. Liu & Z.Q. Liang) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps emeiensis (A.Y. Liu & Z.Q. Liang) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

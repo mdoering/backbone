@@ -1,5 +1,4 @@
-Heteromarginatus J.D.Bukry GENUS
-=======
+# Heteromarginatus J.D.Bukry GENUS
 
 #### Status
 ACCEPTED

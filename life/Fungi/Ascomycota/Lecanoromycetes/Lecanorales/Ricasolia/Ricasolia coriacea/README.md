@@ -1,5 +1,4 @@
-Ricasolia coriacea (Hook. f. & Taylor) Nyl. SPECIES
-=======
+# Ricasolia coriacea (Hook. f. & Taylor) Nyl. SPECIES
 
 #### Status
 ACCEPTED

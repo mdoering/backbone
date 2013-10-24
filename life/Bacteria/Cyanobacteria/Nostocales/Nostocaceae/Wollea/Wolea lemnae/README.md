@@ -1,5 +1,4 @@
-Wolea lemnae P. González SPECIES
-=======
+# Wolea lemnae P. González SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Eimeria gadi Fiebiger, 1913 SPECIES
-=======
+# Goussia gadi (Fiebiger, 1913) Dyková & Lom, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

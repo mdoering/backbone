@@ -1,5 +1,4 @@
-Xylaria verruculosa Henn. SPECIES
-=======
+# Xylaria verruculosa Henn. SPECIES
 
 #### Status
 ACCEPTED

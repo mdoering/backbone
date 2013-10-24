@@ -1,5 +1,4 @@
-Loflammia intermedia (R. Sant.) Vezda SPECIES
-=======
+# Loflammia intermedia (R. Sant.) Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroplasma phoeniceum Saillard et al., 1987 SPECIES
-=======
+# Spiroplasma phoeniceum Saillard et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

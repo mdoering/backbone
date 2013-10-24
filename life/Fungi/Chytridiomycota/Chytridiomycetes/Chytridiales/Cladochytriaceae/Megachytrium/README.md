@@ -1,5 +1,4 @@
-Megachytrium Sparrow GENUS
-=======
+# Megachytrium Sparrow GENUS
 
 #### Status
 ACCEPTED

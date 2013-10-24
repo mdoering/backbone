@@ -1,5 +1,4 @@
-Verticillium candidum Peck SPECIES
-=======
+# Verticillium candidum Peck SPECIES
 
 #### Status
 ACCEPTED

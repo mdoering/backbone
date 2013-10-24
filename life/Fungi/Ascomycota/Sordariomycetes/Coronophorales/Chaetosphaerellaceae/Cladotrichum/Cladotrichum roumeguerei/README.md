@@ -1,8 +1,7 @@
-Cladotrichum roumegueri Speg. SPECIES
-=======
+# Cladotrichum roumeguerei Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladotrichum roumegueri Speg.
+Cladotrichum roumeguerei Speg.
 
 ### Remarks
 null

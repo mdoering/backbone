@@ -1,5 +1,4 @@
-Ocellularia verruculosa H. Magn. SPECIES
-=======
+# Ocellularia verruculosa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

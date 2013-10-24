@@ -1,5 +1,4 @@
-Antrodia macrospora Bernicchia & De Domincis, 1990 SPECIES
-=======
+# Antrodia macrospora Bernicchia & De Domincis, 1990 SPECIES
 
 #### Status
 ACCEPTED

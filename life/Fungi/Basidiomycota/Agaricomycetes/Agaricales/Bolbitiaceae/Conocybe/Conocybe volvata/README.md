@@ -1,5 +1,4 @@
-Conocybe volvata K.A. Thomas, Hauskn. & Manim. SPECIES
-=======
+# Conocybe volvata K.A. Thomas, Hauskn. & Manim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria demissa (Körb.) Rabenh. SPECIES
-=======
+# Pannaria demissa (Körb.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe minutula var. minutula VARIETY
-=======
+# Hygrocybe minutula (J.E. Lange ex S. Lundell) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hygrocybe minutula var. minutula
+Hygrophorus minutulus J.E. Lange ex S. Lundell
 
 ### Remarks
 null

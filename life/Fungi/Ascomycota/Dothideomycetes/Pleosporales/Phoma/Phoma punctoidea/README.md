@@ -1,5 +1,4 @@
-Phoma punctoidea P. Karst. SPECIES
-=======
+# Phoma punctoidea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

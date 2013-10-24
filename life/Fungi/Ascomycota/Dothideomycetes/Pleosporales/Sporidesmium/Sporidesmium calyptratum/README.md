@@ -1,5 +1,4 @@
-Sporidesmium calyptratum Cabello, Cazau & Aramb. SPECIES
-=======
+# Sporidesmium calyptratum Cabello, Cazau & Aramb. SPECIES
 
 #### Status
 ACCEPTED

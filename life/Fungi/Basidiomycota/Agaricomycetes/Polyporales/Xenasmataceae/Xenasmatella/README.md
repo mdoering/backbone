@@ -1,5 +1,4 @@
-Xenasmatella Oberwinkler, 1966 GENUS
-=======
+# Xenasmatella Oberwinkler, 1966 GENUS
 
 #### Status
 ACCEPTED

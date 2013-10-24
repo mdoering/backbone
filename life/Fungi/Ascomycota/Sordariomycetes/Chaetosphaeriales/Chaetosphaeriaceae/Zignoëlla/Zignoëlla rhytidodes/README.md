@@ -1,14 +1,13 @@
-Psilosphaeria rhytidodes (Berk. & Broome) Cooke, 1887 SPECIES
-=======
+# Zignoëlla rhytidodes (Berk. & Broome) Sacc., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 16(no. 78): 51 (1887)
+Michelia 1(no. 3): 346 (1878)
 
 #### Original name
 Sphaeria rhytidodes Berk. & Broome, 1859

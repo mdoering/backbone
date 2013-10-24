@@ -1,5 +1,4 @@
-Cercospora agarwalii Chupp SPECIES
-=======
+# Cercospora agarwalii Chupp SPECIES
 
 #### Status
 ACCEPTED

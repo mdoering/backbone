@@ -1,5 +1,4 @@
-Lophodermium hypodermoides Penz. & Sacc. SPECIES
-=======
+# Lophodermium hypodermoides Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

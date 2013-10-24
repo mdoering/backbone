@@ -1,5 +1,4 @@
-Daedalea pruinata Secr. SPECIES
-=======
+# Daedalea pruinata Secr. SPECIES
 
 #### Status
 ACCEPTED

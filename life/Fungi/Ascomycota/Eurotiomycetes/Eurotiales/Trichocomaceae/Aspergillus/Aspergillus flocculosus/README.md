@@ -1,5 +1,4 @@
-Aspergillus flocculosus Frisvad & Samson SPECIES
-=======
+# Aspergillus flocculosus Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

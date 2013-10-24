@@ -1,17 +1,16 @@
-Catacauma catacouma-costaricens F. Stevens SPECIES
-=======
+# Catacauma costaricense F. Stevens, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Illinois Biol. Monogr. (Urbana) 11(2): 184 (1927)
 
 #### Original name
-Catacauma catacouma-costaricens F. Stevens
+Catacauma costaricense F. Stevens, 1927
 
 ### Remarks
 null

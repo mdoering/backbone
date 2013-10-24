@@ -1,5 +1,4 @@
-Phyllosticta toxica Ellis & G. Martin SPECIES
-=======
+# Phyllosticta toxica Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

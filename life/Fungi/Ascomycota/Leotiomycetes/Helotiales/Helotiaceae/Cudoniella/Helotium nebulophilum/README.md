@@ -1,5 +1,4 @@
-Helotium nebulophilum Redhead SPECIES
-=======
+# Helotium nebulophilum Redhead SPECIES
 
 #### Status
 ACCEPTED

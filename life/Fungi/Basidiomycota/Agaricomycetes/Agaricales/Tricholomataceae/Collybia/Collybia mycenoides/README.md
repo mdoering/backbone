@@ -1,5 +1,4 @@
-Collybia mycenoides Dennis SPECIES
-=======
+# Collybia mycenoides Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudophormidium tenue (Thur. Ex Gom.) Anag. and Komar SPECIES
-=======
+# Pseudophormidium tenue (Thur. Ex Gom.) Anag. and Komar SPECIES
 
 #### Status
 ACCEPTED

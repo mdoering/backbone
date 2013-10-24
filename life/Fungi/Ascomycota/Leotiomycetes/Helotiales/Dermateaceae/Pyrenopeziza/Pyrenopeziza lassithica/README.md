@@ -1,5 +1,4 @@
-Pyrenopeziza lassithica Petr. SPECIES
-=======
+# Pyrenopeziza lassithica Petr. SPECIES
 
 #### Status
 ACCEPTED

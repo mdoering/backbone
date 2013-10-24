@@ -1,14 +1,13 @@
-Graphis eludens Stirt. SPECIES
-=======
+# Gymnographa eludens (Stirt.) Staiger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Roy. Soc. Victoria 17: 72 (1881)
+Biblthca Lichenol. 85: 270 (2002)
 
 #### Original name
 Graphis eludens Stirt.

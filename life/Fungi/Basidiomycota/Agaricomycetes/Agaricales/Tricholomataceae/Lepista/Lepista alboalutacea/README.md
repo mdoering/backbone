@@ -1,5 +1,4 @@
-Lepista alboalutacea F.H. Møller ex F.H. Møller & Jul. Schäff. SPECIES
-=======
+# Lepista alboalutacea F.H. Møller ex F.H. Møller & Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

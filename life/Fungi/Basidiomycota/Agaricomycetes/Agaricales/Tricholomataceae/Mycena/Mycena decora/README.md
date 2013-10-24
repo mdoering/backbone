@@ -1,5 +1,4 @@
-Mycena decora Maas Geest. SPECIES
-=======
+# Mycena decora Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

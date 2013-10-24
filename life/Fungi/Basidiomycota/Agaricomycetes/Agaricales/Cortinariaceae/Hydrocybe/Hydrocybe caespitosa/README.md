@@ -1,5 +1,4 @@
-Hydrocybe caespitosa Murrill SPECIES
-=======
+# Hydrocybe caespitosa Murrill SPECIES
 
 #### Status
 ACCEPTED

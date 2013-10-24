@@ -1,5 +1,4 @@
-Asteromella sequoiicola (Melnik) Vanev & Aa SPECIES
-=======
+# Asteromella sequoiicola (Melnik) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

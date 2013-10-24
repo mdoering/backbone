@@ -1,17 +1,16 @@
-Barklayella Sacc. GENUS
-=======
+# Neobarclaya Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 10: 475 (1892)
+in Saccardo & Sydow, Syll. fung. (Abellini) 14: 46 (1899)
 
 #### Original name
-Barklayella Sacc.
+Neobarclaya Sacc.
 
 ### Remarks
 null

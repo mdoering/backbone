@@ -1,5 +1,4 @@
-Valsa profusa (Fr.) SPECIES
-=======
+# Valsa profusa (Fr.) SPECIES
 
 #### Status
 ACCEPTED

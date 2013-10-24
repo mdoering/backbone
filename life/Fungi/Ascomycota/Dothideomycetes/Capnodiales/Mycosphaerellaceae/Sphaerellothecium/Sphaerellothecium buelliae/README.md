@@ -1,5 +1,4 @@
-Sphaerellothecium buelliae (C.W. Dodge) D. Hawksw. & Iturr. SPECIES
-=======
+# Sphaerellothecium buelliae (C.W. Dodge) D. Hawksw. & Iturr. SPECIES
 
 #### Status
 ACCEPTED

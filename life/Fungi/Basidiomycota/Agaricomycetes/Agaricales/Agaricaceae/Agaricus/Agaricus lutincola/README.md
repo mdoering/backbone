@@ -1,5 +1,4 @@
-Agaricus lutincola Lasch SPECIES
-=======
+# Agaricus lutincola Lasch SPECIES
 
 #### Status
 ACCEPTED

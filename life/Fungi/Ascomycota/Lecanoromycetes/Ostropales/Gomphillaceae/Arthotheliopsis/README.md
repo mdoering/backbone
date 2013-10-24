@@ -1,5 +1,4 @@
-Arthotheliopsis GENUS
-=======
+# Arthotheliopsis GENUS
 
 #### Status
 ACCEPTED

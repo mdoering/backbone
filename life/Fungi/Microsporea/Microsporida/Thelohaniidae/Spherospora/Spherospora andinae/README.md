@@ -1,5 +1,4 @@
-Spherospora andinae J.J. Garcia SPECIES
-=======
+# Spherospora andinae J.J. Garcia SPECIES
 
 #### Status
 ACCEPTED

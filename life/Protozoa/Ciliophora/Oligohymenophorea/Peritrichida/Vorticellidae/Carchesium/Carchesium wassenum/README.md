@@ -1,5 +1,4 @@
-Carchesium wassenum SPECIES
-=======
+# Carchesium wassenum SPECIES
 
 #### Status
 ACCEPTED

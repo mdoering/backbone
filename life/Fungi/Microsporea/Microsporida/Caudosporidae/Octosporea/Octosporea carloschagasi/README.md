@@ -1,5 +1,4 @@
-Octosporea carloschagasi SPECIES
-=======
+# Octosporea carloschagasi SPECIES
 
 #### Status
 ACCEPTED

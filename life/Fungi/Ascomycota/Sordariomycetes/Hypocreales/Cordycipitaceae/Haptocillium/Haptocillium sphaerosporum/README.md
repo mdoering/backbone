@@ -1,17 +1,16 @@
-Verticillium sphaerosporum var. sphaerosporum VARIETY
-=======
+# Haptocillium sphaerosporum (Goodey) Zare & W. Gams, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 34: 272 (1951)
+Nova Hedwigia 73(3-4): 278 (2001)
 
 #### Original name
-Verticillium sphaerosporum var. sphaerosporum
+Verticillium sphaerosporum Goodey, 1951
 
 ### Remarks
 null

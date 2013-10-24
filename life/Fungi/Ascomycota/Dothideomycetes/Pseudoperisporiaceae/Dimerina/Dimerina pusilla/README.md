@@ -1,5 +1,4 @@
-Dimerina pusilla Syd. SPECIES
-=======
+# Dimerina pusilla Syd. SPECIES
 
 #### Status
 ACCEPTED

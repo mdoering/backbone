@@ -1,5 +1,4 @@
-Phyllosticta rhea Fautrey SPECIES
-=======
+# Phyllosticta rhea Fautrey SPECIES
 
 #### Status
 ACCEPTED

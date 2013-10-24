@@ -1,5 +1,4 @@
-Suttonella Dewhirst et al., 1990 GENUS
-=======
+# Suttonella Dewhirst et al., 1990 GENUS
 
 #### Status
 ACCEPTED

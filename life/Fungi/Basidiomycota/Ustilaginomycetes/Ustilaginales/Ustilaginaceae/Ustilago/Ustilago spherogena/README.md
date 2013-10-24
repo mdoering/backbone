@@ -1,5 +1,4 @@
-Ustilago spherogena Burr. SPECIES
-=======
+# Ustilago spherogena Burr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema corniculans (Nyl.) Hale SPECIES
-=======
+# Parmotrema corniculans (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

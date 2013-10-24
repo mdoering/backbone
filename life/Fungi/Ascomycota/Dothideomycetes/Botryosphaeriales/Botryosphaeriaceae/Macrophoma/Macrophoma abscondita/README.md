@@ -1,5 +1,4 @@
-Macrophoma abscondita (Pass.) Tassi SPECIES
-=======
+# Macrophoma abscondita (Pass.) Tassi SPECIES
 
 #### Status
 ACCEPTED

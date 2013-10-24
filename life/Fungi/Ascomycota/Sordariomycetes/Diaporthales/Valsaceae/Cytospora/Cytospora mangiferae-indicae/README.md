@@ -1,8 +1,7 @@
-Cytospora magniferae-indicae V.G. Rao & Narendra SPECIES
-=======
+# Cytospora mangiferae-indicae V.G. Rao & Narendra SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cytospora magniferae-indicae V.G. Rao & Narendra
+Cytospora mangiferae-indicae V.G. Rao & Narendra
 
 ### Remarks
 null

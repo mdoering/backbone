@@ -1,5 +1,4 @@
-Asterina setulosa Pat. SPECIES
-=======
+# Asterina setulosa Pat. SPECIES
 
 #### Status
 ACCEPTED

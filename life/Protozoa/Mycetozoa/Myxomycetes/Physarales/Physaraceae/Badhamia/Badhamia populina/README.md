@@ -1,5 +1,4 @@
-Badhamia populina Lister & G. Lister, 1904 SPECIES
-=======
+# Badhamia populina Lister & G. Lister, 1904 SPECIES
 
 #### Status
 ACCEPTED

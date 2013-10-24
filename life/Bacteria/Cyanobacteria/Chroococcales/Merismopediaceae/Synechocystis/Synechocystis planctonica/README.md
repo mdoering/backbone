@@ -1,5 +1,4 @@
-Synechocystis planctonica Proskina-Lavrenko SPECIES
-=======
+# Synechocystis planctonica Proskina-Lavrenko SPECIES
 
 #### Status
 ACCEPTED

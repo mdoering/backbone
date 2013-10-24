@@ -1,5 +1,4 @@
-Arthonia invadens Coppins SPECIES
-=======
+# Arthonia invadens Coppins SPECIES
 
 #### Status
 ACCEPTED

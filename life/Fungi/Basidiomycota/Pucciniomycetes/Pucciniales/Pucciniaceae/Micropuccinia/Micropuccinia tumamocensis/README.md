@@ -1,5 +1,4 @@
-Micropuccinia tumamocensis (Arthur) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia tumamocensis (Arthur) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

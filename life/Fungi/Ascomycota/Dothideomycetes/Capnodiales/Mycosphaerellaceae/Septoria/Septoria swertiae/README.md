@@ -1,5 +1,4 @@
-Septoria swertiae Pat. SPECIES
-=======
+# Septoria swertiae Pat. SPECIES
 
 #### Status
 ACCEPTED

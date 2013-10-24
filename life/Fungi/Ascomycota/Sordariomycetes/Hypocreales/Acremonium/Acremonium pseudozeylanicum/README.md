@@ -1,14 +1,13 @@
-Sagrahamala pseudozeylanica (W. Gams) Subram., 1977 SPECIES
-=======
+# Acremonium pseudozeylanicum W. Gams, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kavaka 5: 98 (1977)
+Trans. Br. mycol. Soc. 64(3): 393 (1975)
 
 #### Original name
 Acremonium pseudozeylanicum W. Gams, 1975

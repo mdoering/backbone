@@ -1,5 +1,4 @@
-Physcia nadvornikii f. nadvornikii FORM
-=======
+# Physcia nadvornikii Frey & Poelt SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia nadvornikii f. nadvornikii
+Physcia cernohorskyi var. erosa Nádv.
 
 ### Remarks
 null

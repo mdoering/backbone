@@ -1,5 +1,4 @@
-Eubacterium pyruvativorans Wallace et al., 2003 SPECIES
-=======
+# Eubacterium pyruvativorans Wallace et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

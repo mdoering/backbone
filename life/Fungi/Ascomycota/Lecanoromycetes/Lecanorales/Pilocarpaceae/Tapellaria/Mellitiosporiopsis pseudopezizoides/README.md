@@ -1,5 +1,4 @@
-Mellitiosporiopsis pseudopezizoides Rehm SPECIES
-=======
+# Mellitiosporiopsis pseudopezizoides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Terana arctica (Speg.) Kuntze SPECIES
-=======
+# Terana arctica (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

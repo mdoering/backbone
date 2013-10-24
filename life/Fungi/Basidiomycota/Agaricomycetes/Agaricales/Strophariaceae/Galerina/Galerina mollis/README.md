@@ -1,5 +1,4 @@
-Galerina mollis A.H. Sm. & Singer SPECIES
-=======
+# Galerina mollis A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

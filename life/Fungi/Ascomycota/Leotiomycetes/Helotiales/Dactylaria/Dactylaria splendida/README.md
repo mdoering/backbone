@@ -1,5 +1,4 @@
-Dactylaria splendida R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Dactylaria splendida R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

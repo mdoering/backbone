@@ -1,5 +1,4 @@
-Hoegklintia digitata (Eisenack, 1938) Dorning, 1981 SPECIES
-=======
+# Hoegklintia digitata (Eisenack, 1938) Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

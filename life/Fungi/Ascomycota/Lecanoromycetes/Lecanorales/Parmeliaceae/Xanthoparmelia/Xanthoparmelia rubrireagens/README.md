@@ -1,17 +1,16 @@
-Parmelia eradicata (Nyl. ex Cromb.) Gyeln. SPECIES
-=======
+# Xanthoparmelia rubrireagens (Gyeln.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28: 488 (1974)
 
 #### Original name
-Parmelia constrictans var. eradicata Nyl.
+Parmelia rubrireagens Gyeln.
 
 ### Remarks
 null

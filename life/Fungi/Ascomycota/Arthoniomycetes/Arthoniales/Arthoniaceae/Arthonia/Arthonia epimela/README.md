@@ -1,5 +1,4 @@
-Arthonia epimela (Almq.) I.M. Lamb SPECIES
-=======
+# Arthonia epimela (Almq.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

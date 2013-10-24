@@ -1,5 +1,4 @@
-Arthrosporium chrysocephalum Penz. & Sacc. SPECIES
-=======
+# Arthrosporium chrysocephalum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

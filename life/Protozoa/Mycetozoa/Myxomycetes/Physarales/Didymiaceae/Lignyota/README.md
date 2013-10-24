@@ -1,5 +1,4 @@
-Lignyota Fr. GENUS
-=======
+# Lignyota Fr. GENUS
 
 #### Status
 ACCEPTED

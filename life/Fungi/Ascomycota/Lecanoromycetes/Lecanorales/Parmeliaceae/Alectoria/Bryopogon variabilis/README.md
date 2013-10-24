@@ -1,5 +1,4 @@
-Bryopogon variabilis (Bystrek) Bystrek SPECIES
-=======
+# Bryopogon variabilis (Bystrek) Bystrek SPECIES
 
 #### Status
 ACCEPTED

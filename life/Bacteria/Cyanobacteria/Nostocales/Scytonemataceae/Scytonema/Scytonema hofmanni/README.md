@@ -1,5 +1,4 @@
-Scytonema hofmanni SPECIES
-=======
+# Scytonema hofmanni SPECIES
 
 #### Status
 ACCEPTED

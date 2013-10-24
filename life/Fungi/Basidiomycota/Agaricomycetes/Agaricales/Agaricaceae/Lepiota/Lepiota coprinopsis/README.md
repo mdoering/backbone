@@ -1,5 +1,4 @@
-Lepiota coprinopsis Mont. SPECIES
-=======
+# Lepiota coprinopsis Mont. SPECIES
 
 #### Status
 ACCEPTED

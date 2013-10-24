@@ -1,5 +1,4 @@
-Synochromonas pallida Korshikov SPECIES
-=======
+# Synochromonas pallida Korshikov SPECIES
 
 #### Status
 ACCEPTED

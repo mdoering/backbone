@@ -1,5 +1,4 @@
-Hypoxiphothecaella Kozur, Moix & Ozsvárt, 2007 GENUS
-=======
+# Hypoxiphothecaella Kozur, Moix & Ozsvárt, 2007 GENUS
 
 #### Status
 ACCEPTED

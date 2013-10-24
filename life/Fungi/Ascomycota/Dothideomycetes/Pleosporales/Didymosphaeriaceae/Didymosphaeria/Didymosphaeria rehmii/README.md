@@ -1,5 +1,4 @@
-Didymosphaeria rehmii J. Kunze SPECIES
-=======
+# Didymosphaeria rehmii J. Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum fluggeae Thite & M.S. Patil SPECIES
-=======
+# Colletotrichum fluggeae Thite & M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta convallariae Pers., 1818 SPECIES
-=======
+# Phyllosticta convallariae Pers., 1818 SPECIES
 
 #### Status
 ACCEPTED

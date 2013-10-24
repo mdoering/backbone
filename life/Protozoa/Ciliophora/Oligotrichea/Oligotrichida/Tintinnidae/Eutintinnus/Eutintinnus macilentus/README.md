@@ -1,5 +1,4 @@
-Eutintinnus macilentus (Jörgensen) Kofoid & Campbell SPECIES
-=======
+# Eutintinnus macilentus (Jörgensen) Kofoid & Campbell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rugosomyces hebelomoides (Ew. Gerhardt) Bon SPECIES
-=======
+# Rugosomyces hebelomoides (Ew. Gerhardt) Bon SPECIES
 
 #### Status
 ACCEPTED

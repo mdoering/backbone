@@ -1,5 +1,4 @@
-Baltisphaeridium llanvirnianum Deunff, 1977 SPECIES
-=======
+# Baltisphaeridium llanvirnianum Deunff, 1977 SPECIES
 
 #### Status
 ACCEPTED

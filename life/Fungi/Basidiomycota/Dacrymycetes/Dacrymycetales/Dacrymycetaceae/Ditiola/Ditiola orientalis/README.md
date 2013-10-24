@@ -1,5 +1,4 @@
-Ditiola orientalis (Kobayasi) Govorova, 1994 SPECIES
-=======
+# Ditiola orientalis (Kobayasi) Govorova, 1994 SPECIES
 
 #### Status
 ACCEPTED

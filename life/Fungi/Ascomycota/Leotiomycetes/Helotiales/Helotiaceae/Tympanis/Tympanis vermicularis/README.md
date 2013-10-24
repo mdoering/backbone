@@ -1,5 +1,4 @@
-Tympanis vermicularis Ces. SPECIES
-=======
+# Tympanis vermicularis Ces. SPECIES
 
 #### Status
 ACCEPTED

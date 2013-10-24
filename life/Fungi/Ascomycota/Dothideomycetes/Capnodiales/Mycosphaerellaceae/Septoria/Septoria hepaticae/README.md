@@ -1,5 +1,4 @@
-Septoria hepaticae Desm. SPECIES
-=======
+# Septoria hepaticae Desm. SPECIES
 
 #### Status
 ACCEPTED

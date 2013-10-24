@@ -1,5 +1,4 @@
-Peziza virens Alb. & Schwein. SPECIES
-=======
+# Peziza virens Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

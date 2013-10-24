@@ -1,5 +1,4 @@
-Sympodioclathra globosa Voglmayr, 1997 SPECIES
-=======
+# Sympodioclathra globosa Voglmayr, 1997 SPECIES
 
 #### Status
 ACCEPTED

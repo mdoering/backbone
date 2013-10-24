@@ -1,5 +1,4 @@
-Prillieuxia GENUS
-=======
+# Prillieuxia GENUS
 
 #### Status
 ACCEPTED

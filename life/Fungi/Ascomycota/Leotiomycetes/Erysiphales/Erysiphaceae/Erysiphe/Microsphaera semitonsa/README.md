@@ -1,5 +1,4 @@
-Microsphaera semitonsa Berk. & M.A. Curtis SPECIES
-=======
+# Microsphaera semitonsa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

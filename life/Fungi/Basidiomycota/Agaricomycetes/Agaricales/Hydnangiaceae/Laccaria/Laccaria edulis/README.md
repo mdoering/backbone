@@ -1,5 +1,4 @@
-Laccaria edulis Bouriquet SPECIES
-=======
+# Laccaria edulis Bouriquet SPECIES
 
 #### Status
 ACCEPTED

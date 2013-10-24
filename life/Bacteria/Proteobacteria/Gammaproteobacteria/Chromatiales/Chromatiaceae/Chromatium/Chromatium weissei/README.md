@@ -1,11 +1,10 @@
-Bacterium weissii (Perty, 1852) Trevisan in de Toni & Trevisan, 1889 SPECIES
-=======
+# Chromatium weissei Perty, 1852 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

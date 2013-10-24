@@ -1,5 +1,4 @@
-Russula heliochroma var. heliochroma VARIETY
-=======
+# Russula heliochroma R. Heim SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Candollea 7: 390 (1938)
 
 #### Original name
-Russula heliochroma var. heliochroma
+Russula heliochroma R. Heim
 
 ### Remarks
 null

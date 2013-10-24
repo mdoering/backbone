@@ -1,5 +1,4 @@
-Eccrina pseudoramosa Maessen SPECIES
-=======
+# Eccrina pseudoramosa Maessen SPECIES
 
 #### Status
 ACCEPTED

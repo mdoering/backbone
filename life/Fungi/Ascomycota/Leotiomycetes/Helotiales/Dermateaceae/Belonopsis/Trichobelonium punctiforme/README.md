@@ -1,5 +1,4 @@
-Trichobelonium punctiforme Rehm SPECIES
-=======
+# Trichobelonium punctiforme Rehm SPECIES
 
 #### Status
 ACCEPTED

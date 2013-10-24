@@ -1,5 +1,4 @@
-Venturia aggregata G. Winter SPECIES
-=======
+# Venturia aggregata G. Winter SPECIES
 
 #### Status
 ACCEPTED

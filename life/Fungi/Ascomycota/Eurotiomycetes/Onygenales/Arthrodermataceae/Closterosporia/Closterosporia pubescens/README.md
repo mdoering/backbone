@@ -1,5 +1,4 @@
-Closterosporia pubescens (Sabour.) Grigoraki SPECIES
-=======
+# Closterosporia pubescens (Sabour.) Grigoraki SPECIES
 
 #### Status
 ACCEPTED

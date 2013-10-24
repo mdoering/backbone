@@ -1,8 +1,7 @@
-Puccinia osborni Samuel SPECIES
-=======
+# Puccinia osbornii Samuel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia osborni Samuel
+Puccinia osbornii Samuel
 
 ### Remarks
 null

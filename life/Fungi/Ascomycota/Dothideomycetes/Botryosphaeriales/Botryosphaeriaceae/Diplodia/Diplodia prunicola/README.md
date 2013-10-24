@@ -1,5 +1,4 @@
-Diplodia prunicola S. Ahmad SPECIES
-=======
+# Diplodia prunicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

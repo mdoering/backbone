@@ -1,5 +1,4 @@
-Macrophoma fusigera (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
-=======
+# Macrophoma fusigera (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula curvata Peck SPECIES
-=======
+# Torula curvata Peck SPECIES
 
 #### Status
 ACCEPTED

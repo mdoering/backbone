@@ -1,5 +1,4 @@
-Tetragonidiales ORDER
-=======
+# Tetragonidiales ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas fukiensis var. australica Skvortsov VARIETY
-=======
+# Trachelomonas fukiensis Skvortzov SPECIES
 
 #### Status
 ACCEPTED

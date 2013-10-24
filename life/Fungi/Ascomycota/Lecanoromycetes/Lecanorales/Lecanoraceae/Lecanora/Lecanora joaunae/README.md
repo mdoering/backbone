@@ -1,5 +1,4 @@
-Lecanora joaunae SPECIES
-=======
+# Lecanora joaunae SPECIES
 
 #### Status
 ACCEPTED

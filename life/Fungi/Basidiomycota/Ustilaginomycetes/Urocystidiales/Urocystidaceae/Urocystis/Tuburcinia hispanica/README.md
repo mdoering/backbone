@@ -1,5 +1,4 @@
-Tuburcinia hispanica Syd. SPECIES
-=======
+# Tuburcinia hispanica Syd. SPECIES
 
 #### Status
 ACCEPTED

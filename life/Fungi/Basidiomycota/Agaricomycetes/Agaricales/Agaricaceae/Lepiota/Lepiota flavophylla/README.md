@@ -1,5 +1,4 @@
-Lepiota flavophylla Massee SPECIES
-=======
+# Lepiota flavophylla Massee SPECIES
 
 #### Status
 ACCEPTED

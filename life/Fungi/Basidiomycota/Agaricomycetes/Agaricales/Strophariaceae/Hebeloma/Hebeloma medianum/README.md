@@ -1,5 +1,4 @@
-Hebeloma medianum (Britzelm.) Sacc. SPECIES
-=======
+# Hebeloma medianum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

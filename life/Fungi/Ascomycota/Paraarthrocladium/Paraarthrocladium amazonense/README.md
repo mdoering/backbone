@@ -1,5 +1,4 @@
-Paraarthrocladium amazonense Matsush., 1993 SPECIES
-=======
+# Paraarthrocladium amazonense Matsush., 1993 SPECIES
 
 #### Status
 ACCEPTED

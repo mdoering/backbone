@@ -1,14 +1,13 @@
-Trichosporon sericeum (Stautz) Diddens & Lodder, 1942 SPECIES
-=======
+# Saprochaete sericea (Stautz) de Hoog & M.T. Sm., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nachr. Ges. Wiss. Göttingen, Math. -Phys. Kl. , Fachgr. 6, Nachr. Biol. 9: 10 (1942)
+Stud. Mycol. 50(2): 507 (2004)
 
 #### Original name
 null

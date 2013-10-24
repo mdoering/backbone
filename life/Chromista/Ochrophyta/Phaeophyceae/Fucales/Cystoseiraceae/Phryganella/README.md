@@ -1,5 +1,4 @@
-Phryganella Stackhouse, 1816 GENUS
-=======
+# Phryganella Stackhouse, 1816 GENUS
 
 #### Status
 ACCEPTED

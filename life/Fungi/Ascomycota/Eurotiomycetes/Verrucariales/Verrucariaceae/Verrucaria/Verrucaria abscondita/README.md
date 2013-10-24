@@ -1,5 +1,4 @@
-Verrucaria abscondita Nyl. SPECIES
-=======
+# Verrucaria abscondita Nyl. SPECIES
 
 #### Status
 ACCEPTED

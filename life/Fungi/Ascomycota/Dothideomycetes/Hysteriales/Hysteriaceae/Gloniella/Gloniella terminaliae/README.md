@@ -1,5 +1,4 @@
-Gloniella terminaliae Sivan. & R.C. Gupta SPECIES
-=======
+# Gloniella terminaliae Sivan. & R.C. Gupta SPECIES
 
 #### Status
 ACCEPTED

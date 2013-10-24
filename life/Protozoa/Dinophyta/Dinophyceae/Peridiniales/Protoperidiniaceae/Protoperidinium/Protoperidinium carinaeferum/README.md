@@ -1,8 +1,7 @@
-Protoperidinium arinaeferum Gail SPECIES
-=======
+# Protoperidinium carinaeferum (Gail, 1950) Balech, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

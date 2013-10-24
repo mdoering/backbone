@@ -1,5 +1,4 @@
-Valsaria collematoides (Berk. & Ravenel) Berl. & Voglino SPECIES
-=======
+# Valsaria collematoides (Berk. & Ravenel) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

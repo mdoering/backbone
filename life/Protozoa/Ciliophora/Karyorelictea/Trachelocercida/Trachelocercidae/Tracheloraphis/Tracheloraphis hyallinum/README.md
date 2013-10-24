@@ -1,5 +1,4 @@
-Tracheloraphis hyallinum SPECIES
-=======
+# Tracheloraphis hyallinum SPECIES
 
 #### Status
 ACCEPTED

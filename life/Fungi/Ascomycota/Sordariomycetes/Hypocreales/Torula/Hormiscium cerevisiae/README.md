@@ -1,5 +1,4 @@
-Hormiscium cerevisiae F.M. Bailey SPECIES
-=======
+# Hormiscium cerevisiae F.M. Bailey SPECIES
 
 #### Status
 ACCEPTED

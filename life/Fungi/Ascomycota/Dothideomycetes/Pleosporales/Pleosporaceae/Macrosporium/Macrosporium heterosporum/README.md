@@ -1,5 +1,4 @@
-Macrosporium heterosporum Desm. SPECIES
-=======
+# Macrosporium heterosporum Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma echinopis Hollós SPECIES
-=======
+# Phoma echinopis Hollós SPECIES
 
 #### Status
 ACCEPTED

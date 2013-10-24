@@ -1,5 +1,4 @@
-Cochliobolus intermedius R.R. Nelson, 1961 SPECIES
-=======
+# Cochliobolus intermedius R.R. Nelson, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeophyscia pyrrhophora (Poelt) D.D. Awasthi & M. Joshi SPECIES
-=======
+# Phaeophyscia pyrrhophora (Poelt) D.D. Awasthi & M. Joshi SPECIES
 
 #### Status
 ACCEPTED

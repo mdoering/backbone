@@ -1,5 +1,4 @@
-Gorgonisphaeridium Staplin, 1965 GENUS
-=======
+# Gorgonisphaeridium Staplin, 1965 GENUS
 
 #### Status
 ACCEPTED

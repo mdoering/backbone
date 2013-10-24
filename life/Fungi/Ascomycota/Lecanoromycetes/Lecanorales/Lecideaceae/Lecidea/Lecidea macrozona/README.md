@@ -1,5 +1,4 @@
-Lecidea macrozona Fée SPECIES
-=======
+# Lecidea macrozona Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis exalbata Nyl. SPECIES
-=======
+# Graphis exalbata Nyl. SPECIES
 
 #### Status
 ACCEPTED

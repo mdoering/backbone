@@ -1,8 +1,7 @@
-Dasyscypha cyphelioides (Rehm) Sacc. SPECIES
-=======
+# Dasyscyphus cyphelioides (Rehm) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

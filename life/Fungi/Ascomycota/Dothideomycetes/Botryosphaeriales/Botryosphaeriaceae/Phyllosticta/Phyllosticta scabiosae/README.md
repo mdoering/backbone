@@ -1,5 +1,4 @@
-Phyllosticta scabiosae Kalymb. SPECIES
-=======
+# Phyllosticta scabiosae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

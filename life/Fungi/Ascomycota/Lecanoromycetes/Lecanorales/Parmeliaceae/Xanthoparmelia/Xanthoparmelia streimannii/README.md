@@ -1,14 +1,13 @@
-Parmelia streimannii Elix & P. M. Armstr. SPECIES
-=======
+# Xanthoparmelia streimannii (Elix & P. M. Armstr.) Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. J. Bot. 31(5): 481 (1983)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 324 (1986)
 
 #### Original name
 Parmelia streimannii Elix & P. M. Armstr.

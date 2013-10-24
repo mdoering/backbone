@@ -1,14 +1,13 @@
-Ramularia chenopodii Speg. SPECIES
-=======
+# Monodidymaria chenopodii (Speg.) U. Braun, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. Hist. nat. B. Aires 6: 135 (1899)
+Mycotaxon 51: 44 (1994)
 
 #### Original name
 Ramularia chenopodii Speg.

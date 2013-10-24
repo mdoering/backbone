@@ -1,5 +1,4 @@
-Ascochyta roystoneae R.C. Srivast. SPECIES
-=======
+# Ascochyta roystoneae R.C. Srivast. SPECIES
 
 #### Status
 ACCEPTED

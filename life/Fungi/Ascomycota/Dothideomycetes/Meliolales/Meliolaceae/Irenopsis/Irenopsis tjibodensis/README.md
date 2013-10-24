@@ -1,5 +1,4 @@
-Irenopsis tjibodensis Hansf. SPECIES
-=======
+# Irenopsis tjibodensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplothecium coptidis Togashi & Onuma, 1934 SPECIES
-=======
+# Haplothecium coptidis Togashi & Onuma, 1934 SPECIES
 
 #### Status
 ACCEPTED

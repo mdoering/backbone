@@ -1,5 +1,4 @@
-Scrippsiella triquetracapitata Meier, Janofske & Willems SPECIES
-=======
+# Scrippsiella triquetracapitata Meier, Janofske & Willems SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erinellina maculosa (Ellis & G. Martin) Seaver SPECIES
-=======
+# Erinellina maculosa (Ellis & G. Martin) Seaver SPECIES
 
 #### Status
 ACCEPTED

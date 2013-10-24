@@ -1,5 +1,4 @@
-Umbilicaria lambii Imshaug SPECIES
-=======
+# Umbilicaria lambii Imshaug SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporonema pulvinatum Shear SPECIES
-=======
+# Sporonema pulvinatum Shear SPECIES
 
 #### Status
 ACCEPTED

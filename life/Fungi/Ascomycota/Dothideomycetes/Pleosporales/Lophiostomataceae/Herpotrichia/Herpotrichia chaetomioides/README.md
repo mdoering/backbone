@@ -1,5 +1,4 @@
-Herpotrichia chaetomioides P. Karst. SPECIES
-=======
+# Herpotrichia chaetomioides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

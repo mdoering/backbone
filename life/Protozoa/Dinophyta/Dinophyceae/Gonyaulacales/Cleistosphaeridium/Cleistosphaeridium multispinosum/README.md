@@ -1,5 +1,4 @@
-Cleistosphaeridium multispinosum (C. Singh, 1964) Brideaux, 1971 SPECIES
-=======
+# Cleistosphaeridium multispinosum (C. Singh, 1964) Brideaux, 1971 SPECIES
 
 #### Status
 ACCEPTED

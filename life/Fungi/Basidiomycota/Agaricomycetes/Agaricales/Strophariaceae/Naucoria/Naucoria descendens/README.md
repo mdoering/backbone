@@ -1,5 +1,4 @@
-Naucoria descendens Berk. SPECIES
-=======
+# Naucoria descendens Berk. SPECIES
 
 #### Status
 ACCEPTED

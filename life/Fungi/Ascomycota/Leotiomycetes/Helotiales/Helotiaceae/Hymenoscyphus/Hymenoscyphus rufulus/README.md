@@ -1,5 +1,4 @@
-Hymenoscyphus rufulus (Schwein.) Kuntze SPECIES
-=======
+# Hymenoscyphus rufulus (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

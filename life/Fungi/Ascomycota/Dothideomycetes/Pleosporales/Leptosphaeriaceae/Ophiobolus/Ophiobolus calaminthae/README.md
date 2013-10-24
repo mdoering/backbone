@@ -1,5 +1,4 @@
-Ophiobolus calaminthae (Pass.) Sacc. SPECIES
-=======
+# Ophiobolus calaminthae (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

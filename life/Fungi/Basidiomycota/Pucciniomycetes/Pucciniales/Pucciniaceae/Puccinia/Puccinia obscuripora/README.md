@@ -1,5 +1,4 @@
-Puccinia obscuripora Gjaerum SPECIES
-=======
+# Puccinia obscuripora Gjaerum SPECIES
 
 #### Status
 ACCEPTED

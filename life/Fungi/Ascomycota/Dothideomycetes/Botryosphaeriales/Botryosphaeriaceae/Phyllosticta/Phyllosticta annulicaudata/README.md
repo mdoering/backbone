@@ -1,5 +1,4 @@
-Phyllosticta annulicaudata H.Y. Yip SPECIES
-=======
+# Phyllosticta annulicaudata H.Y. Yip SPECIES
 
 #### Status
 ACCEPTED

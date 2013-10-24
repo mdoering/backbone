@@ -1,14 +1,13 @@
-Cintractia scleriicola Cant., 1948 SPECIES
-=======
+# Ustanciosporium scleriicola (Cant.) M. Piepenbr., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 64: 169 (1948)
+Nova Hedwigia 70(3-4): 352 (2000)
 
 #### Original name
 Cintractia scleriicola Cant., 1948

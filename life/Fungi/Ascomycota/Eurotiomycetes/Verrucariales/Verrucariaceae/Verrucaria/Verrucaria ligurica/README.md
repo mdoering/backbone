@@ -1,5 +1,4 @@
-Verrucaria ligurica (Servít) SPECIES
-=======
+# Verrucaria ligurica (Servít) SPECIES
 
 #### Status
 ACCEPTED

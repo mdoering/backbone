@@ -1,5 +1,4 @@
-Schizophyllum lobatum Went SPECIES
-=======
+# Schizophyllum lobatum Went SPECIES
 
 #### Status
 ACCEPTED

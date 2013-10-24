@@ -1,5 +1,4 @@
-Streptosporangium carneum Mertz & Yao, 1990 SPECIES
-=======
+# Streptosporangium carneum Mertz & Yao, 1990 SPECIES
 
 #### Status
 ACCEPTED

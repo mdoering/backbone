@@ -1,5 +1,4 @@
-Massarina talae Henn. SPECIES
-=======
+# Massarina talae Henn. SPECIES
 
 #### Status
 ACCEPTED

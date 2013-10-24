@@ -1,5 +1,4 @@
-Cryptocolax R.A. Scott GENUS
-=======
+# Cryptocolax R.A. Scott GENUS
 
 #### Status
 ACCEPTED

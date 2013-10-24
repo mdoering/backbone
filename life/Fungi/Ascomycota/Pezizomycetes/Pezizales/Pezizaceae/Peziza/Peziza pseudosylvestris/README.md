@@ -1,5 +1,4 @@
-Peziza pseudosylvestris (Gamundí) Donadini SPECIES
-=======
+# Peziza pseudosylvestris (Gamundí) Donadini SPECIES
 
 #### Status
 ACCEPTED

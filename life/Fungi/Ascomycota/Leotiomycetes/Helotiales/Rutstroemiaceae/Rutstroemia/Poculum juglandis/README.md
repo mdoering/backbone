@@ -1,5 +1,4 @@
-Poculum juglandis (Raitv.) Dumont SPECIES
-=======
+# Poculum juglandis (Raitv.) Dumont SPECIES
 
 #### Status
 ACCEPTED

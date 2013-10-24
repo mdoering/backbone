@@ -1,5 +1,4 @@
-Cortinarius salicicoloides ined. SPECIES
-=======
+# Cortinarius salicicoloides ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria scandicis Roberge ex Desm. SPECIES
-=======
+# Septoria scandicis Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria abortiva (Ellis & Kellerm.) Tehon & E.Y. Daniels SPECIES
-=======
+# Septoria abortiva (Ellis & Kellerm.) Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

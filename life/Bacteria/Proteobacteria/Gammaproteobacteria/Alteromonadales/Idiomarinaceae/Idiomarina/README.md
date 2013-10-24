@@ -1,5 +1,4 @@
-Idiomarina Ivanova et al., 2000 GENUS
-=======
+# Idiomarina Ivanova et al., 2000 GENUS
 
 #### Status
 ACCEPTED

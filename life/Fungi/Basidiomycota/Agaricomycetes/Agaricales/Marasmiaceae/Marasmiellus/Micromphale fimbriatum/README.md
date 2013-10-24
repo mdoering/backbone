@@ -1,5 +1,4 @@
-Micromphale fimbriatum (Bolton) Gray SPECIES
-=======
+# Micromphale fimbriatum (Bolton) Gray SPECIES
 
 #### Status
 ACCEPTED

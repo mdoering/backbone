@@ -1,5 +1,4 @@
-Ramalina hamulosa Krog & Østh. SPECIES
-=======
+# Ramalina hamulosa Krog & Østh. SPECIES
 
 #### Status
 ACCEPTED

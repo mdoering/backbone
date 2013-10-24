@@ -1,5 +1,4 @@
-Adinimonas oviforme Schiller SPECIES
-=======
+# Adinimonas oviforme Schiller SPECIES
 
 #### Status
 ACCEPTED

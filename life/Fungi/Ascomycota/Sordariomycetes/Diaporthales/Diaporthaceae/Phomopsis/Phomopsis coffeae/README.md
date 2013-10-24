@@ -1,5 +1,4 @@
-Phomopsis coffeae Bond.-Mont., 1936 SPECIES
-=======
+# Phomopsis coffeae Bond.-Mont., 1936 SPECIES
 
 #### Status
 ACCEPTED

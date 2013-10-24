@@ -1,17 +1,16 @@
-Aspergillus flavofurcatis Bat. & H. Maia SPECIES
-=======
+# Aspergillus flavofurcatus Bat. & H. Maia, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anais Soc. Biol. Pernambuco 13: 94 (1955)
 
 #### Original name
-Aspergillus flavofurcatis Bat. & H. Maia
+Aspergillus flavofurcatus Bat. & H. Maia, 1955
 
 ### Remarks
 null

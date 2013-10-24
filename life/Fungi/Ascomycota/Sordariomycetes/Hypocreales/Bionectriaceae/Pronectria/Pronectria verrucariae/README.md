@@ -1,5 +1,4 @@
-Pronectria verrucariae (Vouaux) Lowen SPECIES
-=======
+# Pronectria verrucariae (Vouaux) Lowen SPECIES
 
 #### Status
 ACCEPTED

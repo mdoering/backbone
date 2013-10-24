@@ -1,5 +1,4 @@
-Pyxidium Kent, 1881 GENUS
-=======
+# Pyxidium Kent, 1881 GENUS
 
 #### Status
 ACCEPTED

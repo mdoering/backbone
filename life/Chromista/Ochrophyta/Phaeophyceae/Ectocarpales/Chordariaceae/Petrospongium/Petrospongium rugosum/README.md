@@ -1,5 +1,4 @@
-Petrospongium rugosum (Okamura) Setchell & N.L. Gardner SPECIES
-=======
+# Petrospongium rugosum (Okamura) Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

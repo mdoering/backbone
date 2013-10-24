@@ -1,5 +1,4 @@
-Hiratsukamyces Thirum., F. Kern & B.V. Patil GENUS
-=======
+# Hiratsukamyces Thirum., F. Kern & B.V. Patil GENUS
 
 #### Status
 ACCEPTED

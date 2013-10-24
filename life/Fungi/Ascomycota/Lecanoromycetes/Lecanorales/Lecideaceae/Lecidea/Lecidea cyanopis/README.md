@@ -1,5 +1,4 @@
-Lecidea cyanopis Stirt. SPECIES
-=======
+# Lecidea cyanopis Stirt. SPECIES
 
 #### Status
 ACCEPTED

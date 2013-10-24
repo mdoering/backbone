@@ -1,5 +1,4 @@
-Polystictus cuneatobrunneus Lloyd SPECIES
-=======
+# Polystictus cuneatobrunneus Lloyd SPECIES
 
 #### Status
 ACCEPTED

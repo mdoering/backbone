@@ -1,5 +1,4 @@
-Endococcus matzeri D. Hawksw. & Iturr., 2006 SPECIES
-=======
+# Endococcus matzeri D. Hawksw. & Iturr., 2006 SPECIES
 
 #### Status
 ACCEPTED

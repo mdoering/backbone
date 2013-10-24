@@ -1,5 +1,4 @@
-Pertusaria monticola Messuti SPECIES
-=======
+# Pertusaria monticola Messuti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium albovirens Cooke SPECIES
-=======
+# Helotium albovirens Cooke SPECIES
 
 #### Status
 ACCEPTED

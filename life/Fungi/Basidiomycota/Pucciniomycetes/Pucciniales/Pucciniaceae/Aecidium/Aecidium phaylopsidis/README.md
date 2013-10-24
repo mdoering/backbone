@@ -1,5 +1,4 @@
-Aecidium phaylopsidis Cummins SPECIES
-=======
+# Aecidium phaylopsidis Cummins SPECIES
 
 #### Status
 ACCEPTED

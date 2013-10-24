@@ -1,5 +1,4 @@
-Cerotelium giacomettii Dianese, L.T.P. Santos & R.B. Medeiros, 1993 SPECIES
-=======
+# Cerotelium giacomettii Dianese, L.T.P. Santos & R.B. Medeiros, 1993 SPECIES
 
 #### Status
 ACCEPTED

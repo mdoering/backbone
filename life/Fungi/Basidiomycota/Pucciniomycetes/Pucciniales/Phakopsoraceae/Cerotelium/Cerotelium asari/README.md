@@ -1,5 +1,4 @@
-Cerotelium asari S. Kaneko, Katum. & Hirats., 1984 SPECIES
-=======
+# Cerotelium asari S. Kaneko, Katum. & Hirats., 1984 SPECIES
 
 #### Status
 ACCEPTED

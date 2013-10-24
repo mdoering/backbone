@@ -1,5 +1,4 @@
-Clostridium magnum Schink, 1984 SPECIES
-=======
+# Clostridium magnum Schink, 1984 SPECIES
 
 #### Status
 ACCEPTED

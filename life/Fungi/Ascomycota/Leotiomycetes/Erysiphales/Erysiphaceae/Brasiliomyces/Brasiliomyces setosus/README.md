@@ -1,5 +1,4 @@
-Brasiliomyces setosus Hodges, 1986 SPECIES
-=======
+# Brasiliomyces setosus Hodges, 1986 SPECIES
 
 #### Status
 ACCEPTED

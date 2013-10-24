@@ -1,5 +1,4 @@
-Ceratium schmidtii SPECIES
-=======
+# Ceratium schmidtii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Myxarium varium Hauerslev, 1993 SPECIES
-=======
+# Stypella grilletii (Boud.) P. Roberts, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 49: 253 (1993)
+Mycotaxon 69: 223 (1998)
 
 #### Original name
-Myxarium varium Hauerslev, 1993
+null
 
 ### Remarks
 null

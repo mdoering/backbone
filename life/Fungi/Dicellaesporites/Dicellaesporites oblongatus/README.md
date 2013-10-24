@@ -1,5 +1,4 @@
-Dicellaesporites oblongatus Z.C. Song & Liu Cao SPECIES
-=======
+# Dicellaesporites oblongatus Z.C. Song & Liu Cao SPECIES
 
 #### Status
 ACCEPTED

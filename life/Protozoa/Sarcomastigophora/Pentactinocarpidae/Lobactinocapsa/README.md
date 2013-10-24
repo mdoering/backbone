@@ -1,5 +1,4 @@
-Lobactinocapsa Dumitrica, 1978 GENUS
-=======
+# Lobactinocapsa Dumitrica, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Secotium lamellatum J.W. Cribb, 1956 SPECIES
-=======
+# Cribbea lamellata (J.W. Cribb) A.H. Sm. & D.A. Reid, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Dept. Bot. (formerly Biol. ) Univ. Qd. 3: 107 (1956)
+Mycologia 54(1): 101 (1962)
 
 #### Original name
 Secotium lamellatum J.W. Cribb, 1956

@@ -1,5 +1,4 @@
-Uromyces eriogoni Ellis & Harkn. SPECIES
-=======
+# Uromyces eriogoni Ellis & Harkn. SPECIES
 
 #### Status
 ACCEPTED

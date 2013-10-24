@@ -1,5 +1,4 @@
-Rhodocybe pascuensis (Peck) T.J. Baroni SPECIES
-=======
+# Rhodocybe pascuensis (Peck) T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

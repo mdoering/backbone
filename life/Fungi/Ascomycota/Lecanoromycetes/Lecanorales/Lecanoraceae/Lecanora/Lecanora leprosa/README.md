@@ -1,17 +1,16 @@
-Parmelia varia var. cinereocarnea Eschw. VARIETY
-=======
+# Lecanora leprosa Fée SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Essai Crypt. Exot. (Paris) 1: 118 (1825)
 
 #### Original name
-null
+Lecanora leprosa Fée
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hydrogenimonas Takai, Nealson & Horikoshi, 2004 GENUS
-=======
+# Hydrogenimonas Takai, Nealson & Horikoshi, 2004 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemitrichia pseudoleiocarpa Illana, G. Moreno, Lizárraga & A. Castillo, 1999 SPECIES
-=======
+# Hemitrichia pseudoleiocarpa Illana, G. Moreno, Lizárraga & A. Castillo, 1999 SPECIES
 
 #### Status
 ACCEPTED

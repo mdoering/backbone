@@ -1,5 +1,4 @@
-Mirandia fourcroyae Toro SPECIES
-=======
+# Mirandia fourcroyae Toro SPECIES
 
 #### Status
 ACCEPTED

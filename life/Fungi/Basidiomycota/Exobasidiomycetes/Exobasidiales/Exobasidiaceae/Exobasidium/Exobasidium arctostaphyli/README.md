@@ -1,5 +1,4 @@
-Exobasidium arctostaphyli Harkn. SPECIES
-=======
+# Exobasidium arctostaphyli Harkn. SPECIES
 
 #### Status
 ACCEPTED

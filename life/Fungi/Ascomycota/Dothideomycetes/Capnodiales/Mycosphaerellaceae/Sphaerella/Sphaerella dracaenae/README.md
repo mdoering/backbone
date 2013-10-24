@@ -1,5 +1,4 @@
-Sphaerella dracaenae Tassi SPECIES
-=======
+# Sphaerella dracaenae Tassi SPECIES
 
 #### Status
 ACCEPTED

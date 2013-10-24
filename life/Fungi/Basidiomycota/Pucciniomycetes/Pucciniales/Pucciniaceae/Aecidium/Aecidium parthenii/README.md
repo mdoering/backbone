@@ -1,5 +1,4 @@
-Aecidium parthenii Pat. & Har. SPECIES
-=======
+# Aecidium parthenii Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

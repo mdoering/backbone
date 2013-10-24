@@ -1,14 +1,13 @@
-Fungus coprinodes (Corda) Kuntze SPECIES
-=======
+# Fungus coprinoides (Corda) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 479 (1898)
 
 #### Original name
 Agaricus coprinoides Peck, 1874

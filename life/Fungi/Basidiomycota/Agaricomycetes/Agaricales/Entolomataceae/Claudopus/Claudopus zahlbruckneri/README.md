@@ -1,5 +1,4 @@
-Claudopus zahlbruckneri (Beck) Sacc. SPECIES
-=======
+# Claudopus zahlbruckneri (Beck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

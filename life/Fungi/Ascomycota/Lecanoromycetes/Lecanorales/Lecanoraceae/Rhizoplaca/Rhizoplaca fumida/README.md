@@ -1,5 +1,4 @@
-Rhizoplaca fumida X.Q. Gao SPECIES
-=======
+# Rhizoplaca fumida X.Q. Gao SPECIES
 
 #### Status
 ACCEPTED

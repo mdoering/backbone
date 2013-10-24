@@ -1,17 +1,16 @@
-Puccinia heucherae var. heucherae VARIETY
-=======
+# Puccinia heucherae (Schwein.) Dietel, 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ber. dt. bot. Ges. 9: 42 (1891)
 
 #### Original name
-Puccinia heucherae var. heucherae
+Uredo heucherae Schwein., 1822
 
 ### Remarks
 null

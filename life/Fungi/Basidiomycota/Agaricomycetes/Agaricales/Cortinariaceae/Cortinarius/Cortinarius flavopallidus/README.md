@@ -1,5 +1,4 @@
-Cortinarius flavopallidus (M.M. Moser) M.M. Moser SPECIES
-=======
+# Cortinarius flavopallidus (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

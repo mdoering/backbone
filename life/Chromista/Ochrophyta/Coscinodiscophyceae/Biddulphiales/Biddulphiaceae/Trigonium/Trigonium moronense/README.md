@@ -1,5 +1,4 @@
-Trigonium moronense var. nicobaricum (Grunow) T. V. Desikachary VARIETY
-=======
+# Trigonium moronense (Greville) T. V. Desikachary SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colpodidium Wilbert, 1982 GENUS
-=======
+# Colpodidium Wilbert, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora dumentorum Fairm. SPECIES
-=======
+# Rhabdospora dumentorum Fairm. SPECIES
 
 #### Status
 ACCEPTED

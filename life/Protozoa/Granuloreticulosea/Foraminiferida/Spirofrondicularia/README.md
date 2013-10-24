@@ -1,5 +1,4 @@
-Spirofrondicularia Schubert, 1902 GENUS
-=======
+# Spirofrondicularia Schubert, 1902 GENUS
 
 #### Status
 ACCEPTED

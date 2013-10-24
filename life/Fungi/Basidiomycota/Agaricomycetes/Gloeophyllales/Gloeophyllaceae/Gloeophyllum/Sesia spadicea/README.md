@@ -1,5 +1,4 @@
-Sesia spadicea (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Sesia spadicea (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

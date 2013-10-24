@@ -1,5 +1,4 @@
-Rhizopogon molallaensis A.H. Sm. SPECIES
-=======
+# Rhizopogon molallaensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

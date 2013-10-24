@@ -1,5 +1,4 @@
-Sargassum ammophilum Yoshida & T. Konno SPECIES
-=======
+# Sargassum ammophilum Yoshida & T. Konno SPECIES
 
 #### Status
 ACCEPTED

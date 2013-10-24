@@ -1,5 +1,4 @@
-Psathyrella sepulcreti A.H. Sm. SPECIES
-=======
+# Psathyrella sepulcreti A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

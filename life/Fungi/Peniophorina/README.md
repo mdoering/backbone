@@ -1,5 +1,4 @@
-Peniophorina Höhn. GENUS
-=======
+# Peniophorina Höhn. GENUS
 
 #### Status
 ACCEPTED

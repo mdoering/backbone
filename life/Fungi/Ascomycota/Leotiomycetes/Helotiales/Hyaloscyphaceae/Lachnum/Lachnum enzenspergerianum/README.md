@@ -1,14 +1,13 @@
-Dasyscyphus enzenspergerianus (Henn.) Dennis, 1958 SPECIES
-=======
+# Lachnum enzenspergerianum Henn., 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Deutsche Südpolar-Expedit. 8: 6 (1906)
 
 #### Original name
 Lachnum enzenspergerianum Henn., 1906

@@ -1,5 +1,4 @@
-Chloridium phaeosporum W. Gams & Hol.-Jech. SPECIES
-=======
+# Chloridium phaeosporum W. Gams & Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

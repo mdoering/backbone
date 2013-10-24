@@ -1,5 +1,4 @@
-Ocellularia gentingensis Nagarkar & Hale SPECIES
-=======
+# Ocellularia gentingensis Nagarkar & Hale SPECIES
 
 #### Status
 ACCEPTED

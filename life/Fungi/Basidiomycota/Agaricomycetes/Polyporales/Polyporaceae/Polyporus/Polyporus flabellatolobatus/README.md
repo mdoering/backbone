@@ -1,5 +1,4 @@
-Polyporus flabellatolobatus Henn. SPECIES
-=======
+# Polyporus flabellatolobatus Henn. SPECIES
 
 #### Status
 ACCEPTED

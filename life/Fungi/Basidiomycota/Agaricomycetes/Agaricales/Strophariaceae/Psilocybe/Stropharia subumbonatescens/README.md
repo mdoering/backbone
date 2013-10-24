@@ -1,5 +1,4 @@
-Stropharia subumbonatescens Murrill SPECIES
-=======
+# Stropharia subumbonatescens Murrill SPECIES
 
 #### Status
 ACCEPTED

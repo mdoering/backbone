@@ -1,5 +1,4 @@
-Sporormiella albolanata A.E. Bell & Mahoney, 2005 SPECIES
-=======
+# Sporormiella albolanata A.E. Bell & Mahoney, 2005 SPECIES
 
 #### Status
 ACCEPTED

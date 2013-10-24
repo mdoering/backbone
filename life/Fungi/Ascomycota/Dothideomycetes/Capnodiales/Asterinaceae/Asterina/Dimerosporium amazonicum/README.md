@@ -1,5 +1,4 @@
-Dimerosporium amazonicum Henn. SPECIES
-=======
+# Dimerosporium amazonicum Henn. SPECIES
 
 #### Status
 ACCEPTED

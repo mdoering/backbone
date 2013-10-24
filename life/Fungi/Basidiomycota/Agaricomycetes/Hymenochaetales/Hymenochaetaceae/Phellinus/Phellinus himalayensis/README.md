@@ -1,5 +1,4 @@
-Phellinus himalayensis Y.C. Dai, 1999 SPECIES
-=======
+# Phellinus himalayensis Y.C. Dai, 1999 SPECIES
 
 #### Status
 ACCEPTED

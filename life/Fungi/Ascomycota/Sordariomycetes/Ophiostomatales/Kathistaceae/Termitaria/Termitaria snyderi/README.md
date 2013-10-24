@@ -1,5 +1,4 @@
-Termitaria snyderi Thaxt. SPECIES
-=======
+# Termitaria snyderi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

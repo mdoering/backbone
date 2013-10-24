@@ -1,5 +1,4 @@
-Stictis cundinamareae Sherwood SPECIES
-=======
+# Stictis cundinamareae Sherwood SPECIES
 
 #### Status
 ACCEPTED

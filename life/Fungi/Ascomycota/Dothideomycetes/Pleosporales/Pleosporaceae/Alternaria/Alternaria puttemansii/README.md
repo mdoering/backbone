@@ -1,5 +1,4 @@
-Alternaria puttemansii (Henn.) P. Joly SPECIES
-=======
+# Alternaria puttemansii (Henn.) P. Joly SPECIES
 
 #### Status
 ACCEPTED

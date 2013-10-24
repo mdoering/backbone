@@ -1,5 +1,4 @@
-Psathyrella langei (Singer) SPECIES
-=======
+# Psathyrella langei (Singer) SPECIES
 
 #### Status
 ACCEPTED

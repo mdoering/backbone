@@ -1,5 +1,4 @@
-Coniophora indica Massee SPECIES
-=======
+# Coniophora indica Massee SPECIES
 
 #### Status
 ACCEPTED

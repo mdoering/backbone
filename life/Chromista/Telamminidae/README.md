@@ -1,5 +1,4 @@
-Telamminidae FAMILY
-=======
+# Telamminidae FAMILY
 
 #### Status
 ACCEPTED

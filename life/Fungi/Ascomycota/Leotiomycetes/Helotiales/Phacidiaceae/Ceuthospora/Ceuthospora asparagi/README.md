@@ -1,5 +1,4 @@
-Ceuthospora asparagi Lasch SPECIES
-=======
+# Ceuthospora asparagi Lasch SPECIES
 
 #### Status
 ACCEPTED

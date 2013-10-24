@@ -1,5 +1,4 @@
-Meliola alstoniicola Hansf. SPECIES
-=======
+# Meliola alstoniicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

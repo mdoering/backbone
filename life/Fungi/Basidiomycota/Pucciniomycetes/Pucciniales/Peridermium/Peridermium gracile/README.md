@@ -1,5 +1,4 @@
-Peridermium gracile Arthur & F. Kern SPECIES
-=======
+# Peridermium gracile Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

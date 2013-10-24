@@ -1,5 +1,4 @@
-Cortinellus berkeleyanus S. Ito & S. Imai SPECIES
-=======
+# Cortinellus berkeleyanus S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Difflugia acuminata Dai SPECIES
-=======
+# Difflugia acuminata Dai SPECIES
 
 #### Status
 ACCEPTED

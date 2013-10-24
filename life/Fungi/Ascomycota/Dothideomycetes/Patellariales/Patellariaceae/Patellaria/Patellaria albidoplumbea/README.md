@@ -1,5 +1,4 @@
-Patellaria albidoplumbea (Hook. f. & Taylor) Müll. Arg. SPECIES
-=======
+# Patellaria albidoplumbea (Hook. f. & Taylor) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

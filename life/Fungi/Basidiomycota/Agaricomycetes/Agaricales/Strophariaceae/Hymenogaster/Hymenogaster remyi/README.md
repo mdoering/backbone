@@ -1,5 +1,4 @@
-Hymenogaster remyi Zeller & C.W. Dodge SPECIES
-=======
+# Hymenogaster remyi Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

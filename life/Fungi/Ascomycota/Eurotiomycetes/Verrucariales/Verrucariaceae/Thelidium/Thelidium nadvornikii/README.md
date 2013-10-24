@@ -1,5 +1,4 @@
-Thelidium nadvornikii Servít SPECIES
-=======
+# Thelidium nadvornikii Servít SPECIES
 
 #### Status
 ACCEPTED

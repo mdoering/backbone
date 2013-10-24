@@ -1,5 +1,4 @@
-Calciodinellum levantinum Meier, Janofske & Willems SPECIES
-=======
+# Calciodinellum levantinum Meier, Janofske & Willems SPECIES
 
 #### Status
 ACCEPTED

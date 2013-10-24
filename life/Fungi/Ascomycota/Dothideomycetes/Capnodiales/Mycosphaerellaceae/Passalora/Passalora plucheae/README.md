@@ -1,5 +1,4 @@
-Passalora plucheae (Petr. & Cif.) U. Braun & Crous SPECIES
-=======
+# Passalora plucheae (Petr. & Cif.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

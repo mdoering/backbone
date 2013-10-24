@@ -1,5 +1,4 @@
-Patellaria rhododendri Schwein. SPECIES
-=======
+# Patellaria rhododendri Schwein. SPECIES
 
 #### Status
 ACCEPTED

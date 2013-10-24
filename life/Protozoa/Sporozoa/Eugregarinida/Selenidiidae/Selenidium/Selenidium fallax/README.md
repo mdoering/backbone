@@ -1,5 +1,4 @@
-Selenidium fallax MacGregor & Thomasson, 1965 SPECIES
-=======
+# Selenidium fallax MacGregor & Thomasson, 1965 SPECIES
 
 #### Status
 ACCEPTED

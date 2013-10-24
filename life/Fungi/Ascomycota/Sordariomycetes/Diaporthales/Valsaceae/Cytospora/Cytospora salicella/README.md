@@ -1,5 +1,4 @@
-Cytospora salicella Sacc. SPECIES
-=======
+# Cytospora salicella Sacc. SPECIES
 
 #### Status
 ACCEPTED

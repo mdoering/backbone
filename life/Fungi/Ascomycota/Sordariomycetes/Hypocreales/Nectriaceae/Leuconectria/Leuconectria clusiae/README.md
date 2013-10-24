@@ -1,14 +1,13 @@
-Pseudonectria clusiae Samuels & Rogerson, 1990 SPECIES
-=======
+# Leuconectria clusiae (Samuels & Rogerson) Rossman, Samuels & Lowen, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. N. Y. bot. Gdn 64: 173 (1990)
+Mycologia 85(4): 687 (1993)
 
 #### Original name
 Pseudonectria clusiae Samuels & Rogerson, 1990

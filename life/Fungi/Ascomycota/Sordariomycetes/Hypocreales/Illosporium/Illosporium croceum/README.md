@@ -1,5 +1,4 @@
-Illosporium croceum Westend. SPECIES
-=======
+# Illosporium croceum Westend. SPECIES
 
 #### Status
 ACCEPTED

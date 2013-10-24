@@ -1,5 +1,4 @@
-Spirulina subtilissima Kützing, 1843 SPECIES
-=======
+# Spirulina subtilissima Kützing, 1843 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius leonis Kytöv. SPECIES
-=======
+# Lactarius leonis Kytöv. SPECIES
 
 #### Status
 ACCEPTED

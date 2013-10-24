@@ -1,5 +1,4 @@
-Phaeoramularia pruni Y.L. Guo & X.J. Liu SPECIES
-=======
+# Phaeoramularia pruni Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

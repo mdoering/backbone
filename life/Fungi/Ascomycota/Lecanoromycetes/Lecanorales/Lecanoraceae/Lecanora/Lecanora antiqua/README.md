@@ -1,5 +1,4 @@
-Lecanora antiqua J. R. Laundon SPECIES
-=======
+# Lecanora antiqua J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED

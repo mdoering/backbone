@@ -1,5 +1,4 @@
-Taeniophora graminea Tomilin SPECIES
-=======
+# Taeniophora graminea Tomilin SPECIES
 
 #### Status
 ACCEPTED

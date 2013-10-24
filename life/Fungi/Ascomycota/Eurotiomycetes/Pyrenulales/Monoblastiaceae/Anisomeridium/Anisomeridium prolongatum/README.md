@@ -1,5 +1,4 @@
-Anisomeridium prolongatum Lücking SPECIES
-=======
+# Anisomeridium prolongatum Lücking SPECIES
 
 #### Status
 ACCEPTED

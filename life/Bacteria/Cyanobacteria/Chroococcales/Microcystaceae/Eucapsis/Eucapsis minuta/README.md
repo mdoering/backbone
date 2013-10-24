@@ -1,5 +1,4 @@
-Eucapsis minuta Fritsch SPECIES
-=======
+# Eucapsis minuta Fritsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium diducendum Vain. SPECIES
-=======
+# Placodium diducendum Vain. SPECIES
 
 #### Status
 ACCEPTED

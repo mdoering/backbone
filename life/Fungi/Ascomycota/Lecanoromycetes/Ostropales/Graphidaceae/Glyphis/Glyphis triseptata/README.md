@@ -1,5 +1,4 @@
-Glyphis triseptata Redinger SPECIES
-=======
+# Glyphis triseptata Redinger SPECIES
 
 #### Status
 ACCEPTED

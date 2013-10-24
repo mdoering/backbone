@@ -1,17 +1,16 @@
-Puccinia paraënsis Dietel SPECIES
-=======
+# Puccinia paraensis Dietel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 6: 96 (1908)
 
 #### Original name
-Puccinia paraënsis Dietel
+Puccinia paraensis Dietel
 
 ### Remarks
 null

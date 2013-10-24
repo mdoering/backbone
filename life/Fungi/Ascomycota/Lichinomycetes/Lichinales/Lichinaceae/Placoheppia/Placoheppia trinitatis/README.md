@@ -1,5 +1,4 @@
-Placoheppia trinitatis (Vain.) Oxner SPECIES
-=======
+# Placoheppia trinitatis (Vain.) Oxner SPECIES
 
 #### Status
 ACCEPTED

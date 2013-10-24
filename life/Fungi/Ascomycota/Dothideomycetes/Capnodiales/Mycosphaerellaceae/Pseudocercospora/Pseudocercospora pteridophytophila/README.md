@@ -1,5 +1,4 @@
-Pseudocercospora pteridophytophila Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora pteridophytophila Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

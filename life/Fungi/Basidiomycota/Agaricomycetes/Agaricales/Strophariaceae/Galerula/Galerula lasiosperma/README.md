@@ -1,5 +1,4 @@
-Galerula lasiosperma G.F. Atk. SPECIES
-=======
+# Galerula lasiosperma G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

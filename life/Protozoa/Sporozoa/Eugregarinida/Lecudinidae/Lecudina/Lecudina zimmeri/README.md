@@ -1,5 +1,4 @@
-Lecudina zimmeri Levine, 1974 SPECIES
-=======
+# Lecudina zimmeri Levine, 1974 SPECIES
 
 #### Status
 ACCEPTED

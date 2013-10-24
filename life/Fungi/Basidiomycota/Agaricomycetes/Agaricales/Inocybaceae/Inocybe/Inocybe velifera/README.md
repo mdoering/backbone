@@ -1,5 +1,4 @@
-Inocybe velifera (Kühner) Bon SPECIES
-=======
+# Inocybe velifera (Kühner) Bon SPECIES
 
 #### Status
 ACCEPTED

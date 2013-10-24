@@ -1,17 +1,16 @@
-Termitomyces subumkowaanii Mossebo SPECIES
-=======
+# Termitomyces subumkowaan Mossebo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Mossebo, Amougou & Atangana, Bull. Soc. mycol. Fr. 118(3): 224 (2003)
 
 #### Original name
-Termitomyces subumkowaanii Mossebo
+Termitomyces subumkowaan Mossebo
 
 ### Remarks
 null

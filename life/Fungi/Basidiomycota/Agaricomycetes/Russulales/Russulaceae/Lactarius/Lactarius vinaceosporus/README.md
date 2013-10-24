@@ -1,5 +1,4 @@
-Lactarius vinaceosporus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius vinaceosporus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

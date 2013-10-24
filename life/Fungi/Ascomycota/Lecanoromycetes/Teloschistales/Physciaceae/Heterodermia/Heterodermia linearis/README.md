@@ -1,17 +1,16 @@
-Heterodermia lineare Moberg & T.H. Nash SPECIES
-=======
+# Heterodermia linearis Moberg & T. H. Nash SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 102(1): 7 (1999)
 
 #### Original name
-Heterodermia lineare Moberg & T.H. Nash
+Heterodermia linearis Moberg & T. H. Nash
 
 ### Remarks
 null

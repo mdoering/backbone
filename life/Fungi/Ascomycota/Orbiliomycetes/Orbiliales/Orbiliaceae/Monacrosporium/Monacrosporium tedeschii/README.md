@@ -1,8 +1,7 @@
-Monacrosporium tedeschi A. Agostini SPECIES
-=======
+# Monacrosporium tedeschii A. Agostini SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Monacrosporium tedeschi A. Agostini
+Monacrosporium tedeschii A. Agostini
 
 ### Remarks
 null

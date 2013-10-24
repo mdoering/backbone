@@ -1,5 +1,4 @@
-Lecanora granulescens Jatta SPECIES
-=======
+# Lecanora granulescens Jatta SPECIES
 
 #### Status
 ACCEPTED

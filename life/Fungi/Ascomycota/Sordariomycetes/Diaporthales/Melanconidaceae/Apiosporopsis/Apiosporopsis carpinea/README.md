@@ -1,17 +1,16 @@
-Laestadia carpinea var. carpinea VARIETY
-=======
+# Apiosporopsis carpinea (Fr.) Traverso, 1913 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 426 (1882)
+Atti Soc. ital. Sci. nat. (Modena) 50: 165 (1911)
 
 #### Original name
-Laestadia carpinea var. carpinea
+Xyloma carpini Fr.
 
 ### Remarks
 null

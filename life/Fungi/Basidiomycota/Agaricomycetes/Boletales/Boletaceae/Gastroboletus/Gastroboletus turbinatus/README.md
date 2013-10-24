@@ -1,14 +1,13 @@
-Boletus turbinatus Snell, 1936 SPECIES
-=======
+# Gastroboletus turbinatus (Snell) A.H. Sm. & Singer, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 28(1): 20 (1936)
+Brittonia 11: 208 (1959)
 
 #### Original name
 Boletus turbinatus Snell, 1936

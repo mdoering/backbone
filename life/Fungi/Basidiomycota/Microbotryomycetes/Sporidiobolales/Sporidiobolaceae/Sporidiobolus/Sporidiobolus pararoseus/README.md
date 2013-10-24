@@ -1,5 +1,4 @@
-Sporidiobolus pararoseus Fell & Tallman, 1981 SPECIES
-=======
+# Sporidiobolus pararoseus Fell & Tallman, 1981 SPECIES
 
 #### Status
 ACCEPTED

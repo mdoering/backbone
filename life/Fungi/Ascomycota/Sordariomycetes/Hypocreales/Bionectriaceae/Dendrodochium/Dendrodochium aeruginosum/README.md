@@ -1,5 +1,4 @@
-Dendrodochium aeruginosum Höhn. SPECIES
-=======
+# Dendrodochium aeruginosum Höhn. SPECIES
 
 #### Status
 ACCEPTED

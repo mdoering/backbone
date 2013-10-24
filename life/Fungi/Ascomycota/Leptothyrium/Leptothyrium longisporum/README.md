@@ -1,5 +1,4 @@
-Leptothyrium longisporum Kabát & Bubák SPECIES
-=======
+# Leptothyrium longisporum Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

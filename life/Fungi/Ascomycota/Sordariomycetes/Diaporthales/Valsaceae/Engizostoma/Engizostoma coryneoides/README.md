@@ -1,14 +1,13 @@
-Engizostoma coryneodes (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Engizostoma coryneoides (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 473 (1898)
 
 #### Original name
 Valsa coryneoides Berk. & M.A. Curtis

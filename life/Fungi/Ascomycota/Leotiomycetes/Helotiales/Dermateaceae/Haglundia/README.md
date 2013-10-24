@@ -1,5 +1,4 @@
-Haglundia Nannfeldt, 1932 GENUS
-=======
+# Haglundia Nannfeldt, 1932 GENUS
 
 #### Status
 ACCEPTED

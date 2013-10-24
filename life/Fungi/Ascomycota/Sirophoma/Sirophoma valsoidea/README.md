@@ -1,5 +1,4 @@
-Sirophoma valsoidea Petr. SPECIES
-=======
+# Sirophoma valsoidea Petr. SPECIES
 
 #### Status
 ACCEPTED

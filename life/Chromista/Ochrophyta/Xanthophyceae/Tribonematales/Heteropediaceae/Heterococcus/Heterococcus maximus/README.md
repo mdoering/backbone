@@ -1,5 +1,4 @@
-Heterococcus maximus Pitschmann SPECIES
-=======
+# Heterococcus maximus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

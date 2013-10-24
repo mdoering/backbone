@@ -1,5 +1,4 @@
-Gymnopilus corticophilus B.J. Rees SPECIES
-=======
+# Gymnopilus corticophilus B.J. Rees SPECIES
 
 #### Status
 ACCEPTED

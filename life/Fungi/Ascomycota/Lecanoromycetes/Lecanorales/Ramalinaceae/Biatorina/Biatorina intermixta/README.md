@@ -1,5 +1,4 @@
-Biatorina intermixta (Nyl.) Kieffer SPECIES
-=======
+# Biatorina intermixta (Nyl.) Kieffer SPECIES
 
 #### Status
 ACCEPTED

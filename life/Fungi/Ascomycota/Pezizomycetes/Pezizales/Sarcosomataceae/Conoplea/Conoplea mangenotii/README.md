@@ -1,5 +1,4 @@
-Conoplea mangenotii Reisinger, 1967 SPECIES
-=======
+# Conoplea mangenotii Reisinger, 1967 SPECIES
 
 #### Status
 ACCEPTED

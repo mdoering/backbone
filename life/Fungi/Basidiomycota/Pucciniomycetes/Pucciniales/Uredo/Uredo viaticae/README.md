@@ -1,5 +1,4 @@
-Uredo viaticae Syd. & P. Syd. SPECIES
-=======
+# Uredo viaticae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphidinium boggayum Shauna Murray & D.J. Patterson SPECIES
-=======
+# Amphidinium boggayum Shauna Murray & D.J. Patterson SPECIES
 
 #### Status
 ACCEPTED

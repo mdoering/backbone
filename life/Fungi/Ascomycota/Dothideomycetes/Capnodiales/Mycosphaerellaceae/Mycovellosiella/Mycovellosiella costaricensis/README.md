@@ -1,5 +1,4 @@
-Mycovellosiella costaricensis (Syd.) Deighton SPECIES
-=======
+# Mycovellosiella costaricensis (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

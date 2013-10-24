@@ -1,17 +1,16 @@
-Phyllachora cudrani Henn. SPECIES
-=======
+# Hymenopsis cudraniae Massee, 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Misc. Inf. , Kew 167 (1899)
 
 #### Original name
-Phyllachora cudrani Henn.
+Hymenopsis cudraniae Massee, 1899
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pleistosporidium Codreanu-Balcescu & Codreanu GENUS
-=======
+# Pleistosporidium Codreanu-Balcescu & Codreanu GENUS
 
 #### Status
 ACCEPTED

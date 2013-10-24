@@ -1,5 +1,4 @@
-Armillaria megalopoda Bres. SPECIES
-=======
+# Armillaria megalopoda Bres. SPECIES
 
 #### Status
 ACCEPTED

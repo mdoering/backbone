@@ -1,5 +1,4 @@
-Dicaeoma eulaliae (Barclay) Kuntze SPECIES
-=======
+# Dicaeoma eulaliae (Barclay) Kuntze SPECIES
 
 #### Status
 ACCEPTED

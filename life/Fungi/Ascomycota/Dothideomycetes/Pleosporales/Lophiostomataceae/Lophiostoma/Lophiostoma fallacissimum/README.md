@@ -1,5 +1,4 @@
-Lophiostoma fallacissimum P. Karst. SPECIES
-=======
+# Lophiostoma fallacissimum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

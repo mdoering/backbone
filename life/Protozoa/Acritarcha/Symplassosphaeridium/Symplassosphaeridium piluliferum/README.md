@@ -1,5 +1,4 @@
-Symplassosphaeridium piluliferum Rudavskaya in Rudavskaya & Timofeev SPECIES
-=======
+# Symplassosphaeridium piluliferum Rudavskaya in Rudavskaya & Timofeev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia obscuratula Zahlbr. SPECIES
-=======
+# Arthonia obscuratula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

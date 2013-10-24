@@ -1,5 +1,4 @@
-Cladosporium pilicola Richon SPECIES
-=======
+# Cladosporium pilicola Richon SPECIES
 
 #### Status
 ACCEPTED

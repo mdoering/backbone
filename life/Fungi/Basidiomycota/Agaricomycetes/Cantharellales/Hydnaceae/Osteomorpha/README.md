@@ -1,5 +1,4 @@
-Osteomorpha G. Arnaud GENUS
-=======
+# Osteomorpha G. Arnaud GENUS
 
 #### Status
 ACCEPTED

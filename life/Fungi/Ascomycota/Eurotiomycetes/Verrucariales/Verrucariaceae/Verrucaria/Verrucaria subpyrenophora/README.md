@@ -1,5 +1,4 @@
-Verrucaria subpyrenophora Leight. SPECIES
-=======
+# Verrucaria subpyrenophora Leight. SPECIES
 
 #### Status
 ACCEPTED

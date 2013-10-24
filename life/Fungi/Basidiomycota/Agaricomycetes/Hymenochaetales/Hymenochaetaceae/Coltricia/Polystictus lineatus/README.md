@@ -1,5 +1,4 @@
-Polystictus lineatus Pers. SPECIES
-=======
+# Polystictus lineatus Pers. SPECIES
 
 #### Status
 ACCEPTED

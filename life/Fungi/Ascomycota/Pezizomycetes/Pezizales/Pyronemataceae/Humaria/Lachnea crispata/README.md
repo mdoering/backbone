@@ -1,5 +1,4 @@
-Lachnea crispata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Lachnea crispata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

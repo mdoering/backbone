@@ -1,5 +1,4 @@
-Cryptococcus lactis (Adametz) Nann. SPECIES
-=======
+# Cryptococcus lactis (Adametz) Nann. SPECIES
 
 #### Status
 ACCEPTED

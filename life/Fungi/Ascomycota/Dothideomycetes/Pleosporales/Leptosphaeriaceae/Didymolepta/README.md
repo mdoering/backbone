@@ -1,5 +1,4 @@
-Didymolepta Munk GENUS
-=======
+# Didymolepta Munk GENUS
 
 #### Status
 ACCEPTED

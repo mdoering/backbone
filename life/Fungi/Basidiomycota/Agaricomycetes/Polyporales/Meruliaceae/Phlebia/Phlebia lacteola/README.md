@@ -1,14 +1,13 @@
-Corticium lacteolum Bourdot, 1922 SPECIES
-=======
+# Phlebia lacteola (Bourdot) M.P. Christ., 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rev. Sci. Bourb. Centr. Fr. 35(1): 14 (1922)
+Dansk bot. Ark. 19(no. 2): 167 (1960)
 
 #### Original name
 Corticium lacteolum Bourdot, 1922

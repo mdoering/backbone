@@ -1,5 +1,4 @@
-Uredo bibasiporulus Pardo-Card. SPECIES
-=======
+# Uredo bibasiporulus Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

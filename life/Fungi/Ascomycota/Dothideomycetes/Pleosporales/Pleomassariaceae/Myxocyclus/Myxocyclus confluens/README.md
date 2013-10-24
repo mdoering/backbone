@@ -1,5 +1,4 @@
-Myxocyclus confluens Riess SPECIES
-=======
+# Myxocyclus confluens Riess SPECIES
 
 #### Status
 ACCEPTED

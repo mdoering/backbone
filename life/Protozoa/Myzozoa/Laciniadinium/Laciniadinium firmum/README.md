@@ -1,5 +1,4 @@
-Laciniadinium firmum (Harland, 1973) Morgan, 1977 SPECIES
-=======
+# Laciniadinium firmum (Harland, 1973) Morgan, 1977 SPECIES
 
 #### Status
 ACCEPTED

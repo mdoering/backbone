@@ -1,5 +1,4 @@
-Belonidium hirtipes A.L. Sm. SPECIES
-=======
+# Belonidium hirtipes A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exidia umbrinella Bres. SPECIES
-=======
+# Exidia umbrinella Bres. SPECIES
 
 #### Status
 ACCEPTED

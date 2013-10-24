@@ -1,5 +1,4 @@
-Melanoleuca inocybiformis Murrill SPECIES
-=======
+# Melanoleuca inocybiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

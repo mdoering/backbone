@@ -1,5 +1,4 @@
-Lactarius inversus Gooss.-Font. & R. Heim SPECIES
-=======
+# Lactarius inversus Gooss.-Font. & R. Heim SPECIES
 
 #### Status
 ACCEPTED

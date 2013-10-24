@@ -1,5 +1,4 @@
-Corynebacterium liquefaciens (Okabayashi & Masuo, 1960) Lanéelle et al., 1980 SPECIES
-=======
+# Corynebacterium liquefaciens (Okabayashi & Masuo, 1960) Lanéelle et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

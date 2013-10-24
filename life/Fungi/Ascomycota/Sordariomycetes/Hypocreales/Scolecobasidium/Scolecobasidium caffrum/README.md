@@ -1,17 +1,16 @@
-Scolecobasidium cafferum Matsush. SPECIES
-=======
+# Scolecobasidium caffrum Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 25 (1996)
 
 #### Original name
-Scolecobasidium cafferum Matsush.
+Scolecobasidium caffrum Matsush.
 
 ### Remarks
 null

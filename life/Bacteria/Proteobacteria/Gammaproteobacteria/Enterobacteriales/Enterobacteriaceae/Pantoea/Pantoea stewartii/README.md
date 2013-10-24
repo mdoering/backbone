@@ -1,5 +1,4 @@
-Pantoea stewartii subsp. stewartii SUBSPECIES
-=======
+# Pantoea stewartii (Smith, 1898) Mergaert et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Azotobacter paspali Döbereiner, 1966 (Approved Lists, 1980) SPECIES
-=======
+# Azorhizophilus paspali (Döbereiner, 1966) Thompson & Skerman, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

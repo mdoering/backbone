@@ -1,5 +1,4 @@
-Globotruncana Cushman, 1927 GENUS
-=======
+# Globotruncana Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe radula Nitschke SPECIES
-=======
+# Diaporthe radula Nitschke SPECIES
 
 #### Status
 ACCEPTED

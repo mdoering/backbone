@@ -1,5 +1,4 @@
-Arthonia lecythidicola (Bat. & H. Maia) Lücking & Sérus. SPECIES
-=======
+# Arthonia lecythidicola (Bat. & H. Maia) Lücking & Sérus. SPECIES
 
 #### Status
 ACCEPTED

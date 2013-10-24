@@ -1,5 +1,4 @@
-Aecidium wittmackianum Henn. SPECIES
-=======
+# Aecidium wittmackianum Henn. SPECIES
 
 #### Status
 ACCEPTED

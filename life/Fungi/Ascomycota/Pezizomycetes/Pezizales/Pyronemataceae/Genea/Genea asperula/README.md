@@ -1,5 +1,4 @@
-Genea asperula Trappe, Guzmán & Herrera {?} SPECIES
-=======
+# Genea asperula Trappe, Guzmán & Herrera {?} SPECIES
 
 #### Status
 ACCEPTED

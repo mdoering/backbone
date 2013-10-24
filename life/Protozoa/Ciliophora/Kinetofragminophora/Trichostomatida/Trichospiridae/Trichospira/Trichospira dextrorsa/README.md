@@ -1,5 +1,4 @@
-Trichospira dextrorsa Roux, 1899 SPECIES
-=======
+# Trichospira dextrorsa Roux, 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periconia pseudohispidula P.Rag. Rao & D. Rao SPECIES
-=======
+# Periconia pseudohispidula P.Rag. Rao & D. Rao SPECIES
 
 #### Status
 ACCEPTED

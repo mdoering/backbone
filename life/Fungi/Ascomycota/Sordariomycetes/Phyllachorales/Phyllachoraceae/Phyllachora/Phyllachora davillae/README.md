@@ -1,5 +1,4 @@
-Phyllachora davillae F. Stevens, 1930 SPECIES
-=======
+# Phyllachora davillae F. Stevens, 1930 SPECIES
 
 #### Status
 ACCEPTED

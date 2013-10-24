@@ -1,5 +1,4 @@
-Eschatogonia angustiloba Timdal SPECIES
-=======
+# Eschatogonia angustiloba Timdal SPECIES
 
 #### Status
 ACCEPTED

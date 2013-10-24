@@ -1,5 +1,4 @@
-Pyrenopeziza campanulae Fuckel SPECIES
-=======
+# Pyrenopeziza campanulae Fuckel SPECIES
 
 #### Status
 ACCEPTED

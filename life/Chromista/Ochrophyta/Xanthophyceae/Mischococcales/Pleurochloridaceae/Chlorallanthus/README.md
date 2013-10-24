@@ -1,5 +1,4 @@
-Chlorallanthus Pascher, 1930 GENUS
-=======
+# Chlorallanthus Pascher, 1930 GENUS
 
 #### Status
 ACCEPTED

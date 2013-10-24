@@ -1,5 +1,4 @@
-Pileolaria discoidea (Racib.) Dietel SPECIES
-=======
+# Pileolaria discoidea (Racib.) Dietel SPECIES
 
 #### Status
 ACCEPTED

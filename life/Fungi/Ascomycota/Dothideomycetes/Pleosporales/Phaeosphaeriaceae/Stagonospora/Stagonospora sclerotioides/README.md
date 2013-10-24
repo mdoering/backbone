@@ -1,5 +1,4 @@
-Stagonospora sclerotioides Ellis & Everh. SPECIES
-=======
+# Stagonospora sclerotioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

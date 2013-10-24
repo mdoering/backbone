@@ -1,14 +1,13 @@
-Nectria joca Samuels, 1991 SPECIES
-=======
+# Cosmospora joca (Samuels) Rossman & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Samuels, Rossman, Lowen & Rogerson, Mycol. Pap. 164: 21 (1991)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 122 (1999)
 
 #### Original name
 Nectria joca Samuels, 1991

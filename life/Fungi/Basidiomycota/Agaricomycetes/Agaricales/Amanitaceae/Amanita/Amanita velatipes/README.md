@@ -1,8 +1,7 @@
-Amanita velatipis G.F. Atk. SPECIES
-=======
+# Amanita velatipes G.F. Atk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amanita velatipis G.F. Atk.
+Amanita velatipes G.F. Atk.
 
 ### Remarks
 null

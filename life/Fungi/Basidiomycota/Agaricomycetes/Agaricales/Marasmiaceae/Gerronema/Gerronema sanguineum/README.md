@@ -1,14 +1,13 @@
-Gerronema sanguinea (Sacc.) Pegler SPECIES
-=======
+# Gerronema sanguineum (Sacc.) Pegler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. 42(3): 530 (1987)
 
 #### Original name
 Omphalia sanguinea Sacc.

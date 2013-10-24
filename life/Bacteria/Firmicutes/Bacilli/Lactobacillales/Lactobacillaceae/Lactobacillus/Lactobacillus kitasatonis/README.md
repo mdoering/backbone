@@ -1,5 +1,4 @@
-Lactobacillus kitasatonis Mukai et al., 2003 SPECIES
-=======
+# Lactobacillus kitasatonis Mukai et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

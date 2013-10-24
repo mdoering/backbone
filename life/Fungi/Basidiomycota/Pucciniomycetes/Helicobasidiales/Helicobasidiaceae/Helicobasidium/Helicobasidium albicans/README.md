@@ -1,5 +1,4 @@
-Helicobasidium albicans Sawada SPECIES
-=======
+# Helicobasidium albicans Sawada SPECIES
 
 #### Status
 ACCEPTED

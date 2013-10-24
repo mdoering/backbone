@@ -1,5 +1,4 @@
-Peltigera biformis (Flörke) Wallr. SPECIES
-=======
+# Peltigera biformis (Flörke) Wallr. SPECIES
 
 #### Status
 ACCEPTED

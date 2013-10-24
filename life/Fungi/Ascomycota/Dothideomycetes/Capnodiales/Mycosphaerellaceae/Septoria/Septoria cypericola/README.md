@@ -1,5 +1,4 @@
-Septoria cypericola Gonz. Frag. & Cif. SPECIES
-=======
+# Septoria cypericola Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

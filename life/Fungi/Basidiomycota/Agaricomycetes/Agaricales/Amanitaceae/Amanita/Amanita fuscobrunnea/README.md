@@ -1,5 +1,4 @@
-Amanita fuscobrunnea A.E. Wood SPECIES
-=======
+# Amanita fuscobrunnea A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

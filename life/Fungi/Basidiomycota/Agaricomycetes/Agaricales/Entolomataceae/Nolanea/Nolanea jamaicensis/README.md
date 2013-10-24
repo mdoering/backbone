@@ -1,17 +1,16 @@
-Nolanea jamaicense Murrill SPECIES
-=======
+# Nolanea jamaicensis Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 3(6): 275 (1911)
 
 #### Original name
-Nolanea jamaicense Murrill
+Nolanea jamaicensis Murrill
 
 ### Remarks
 null

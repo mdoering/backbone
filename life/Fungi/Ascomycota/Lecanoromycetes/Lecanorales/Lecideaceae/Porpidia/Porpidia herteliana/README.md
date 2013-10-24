@@ -1,5 +1,4 @@
-Porpidia herteliana Gowan SPECIES
-=======
+# Porpidia herteliana Gowan SPECIES
 
 #### Status
 ACCEPTED

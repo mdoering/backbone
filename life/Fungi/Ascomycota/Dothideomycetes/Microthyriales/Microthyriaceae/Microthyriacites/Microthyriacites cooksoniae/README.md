@@ -1,17 +1,16 @@
-Microthyriacites cooksoni Rao SPECIES
-=======
+# Microthyriacites cooksoniae Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Palaeobotanist 7(1): 45 and figs. 710 (1958)
 
 #### Original name
-Microthyriacites cooksoni Rao
+Microthyriacites cooksoniae Rao
 
 ### Remarks
 null

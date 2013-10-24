@@ -1,5 +1,4 @@
-Pocillaria reticulata (Berk.) Kuntze SPECIES
-=======
+# Pocillaria reticulata (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

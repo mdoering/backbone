@@ -1,5 +1,4 @@
-Batkoa Humber GENUS
-=======
+# Batkoa Humber GENUS
 
 #### Status
 ACCEPTED

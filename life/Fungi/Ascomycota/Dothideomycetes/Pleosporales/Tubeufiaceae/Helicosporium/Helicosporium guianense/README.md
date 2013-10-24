@@ -1,17 +1,16 @@
-Helicosporium guianensis Linder SPECIES
-=======
+# Helicosporium guianense Linder SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 16: 280 (1929)
 
 #### Original name
-Helicosporium guianensis Linder
+Helicosporium guianense Linder
 
 ### Remarks
 null

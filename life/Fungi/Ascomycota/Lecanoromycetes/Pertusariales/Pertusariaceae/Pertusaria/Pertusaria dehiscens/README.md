@@ -1,5 +1,4 @@
-Pertusaria dehiscens var. dehiscens VARIETY
-=======
+# Pertusaria dehiscens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Flora, Jena 67: 349 (1884)
 
 #### Original name
-Pertusaria dehiscens var. dehiscens
+Pertusaria dehiscens Müll. Arg.
 
 ### Remarks
 null

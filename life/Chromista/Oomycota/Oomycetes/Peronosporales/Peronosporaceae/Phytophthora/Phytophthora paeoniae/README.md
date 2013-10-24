@@ -1,5 +1,4 @@
-Phytophthora paeoniae D.C. Cooper & Porter {?} SPECIES
-=======
+# Phytophthora paeoniae D.C. Cooper & Porter {?} SPECIES
 
 #### Status
 ACCEPTED

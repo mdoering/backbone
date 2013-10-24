@@ -1,5 +1,4 @@
-Inocybe explanata (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe explanata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

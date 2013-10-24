@@ -1,5 +1,4 @@
-Anthostomella cavarica (Petr.) P.M.D. Martin SPECIES
-=======
+# Anthostomella cavarica (Petr.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

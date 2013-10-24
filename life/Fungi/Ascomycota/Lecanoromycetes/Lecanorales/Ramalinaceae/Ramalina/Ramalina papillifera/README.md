@@ -1,5 +1,4 @@
-Ramalina papillifera J. Steiner SPECIES
-=======
+# Ramalina papillifera J. Steiner SPECIES
 
 #### Status
 ACCEPTED

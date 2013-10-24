@@ -1,5 +1,4 @@
-Leiorreuma sordidum A. Massal. SPECIES
-=======
+# Leiorreuma sordidum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

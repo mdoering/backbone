@@ -1,5 +1,4 @@
-Teremanticola Yankovskij, 1980 GENUS
-=======
+# Teremanticola Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

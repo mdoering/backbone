@@ -1,5 +1,4 @@
-Boletus areolatus Berk. SPECIES
-=======
+# Boletus areolatus Berk. SPECIES
 
 #### Status
 ACCEPTED

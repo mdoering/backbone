@@ -1,5 +1,4 @@
-Meliola glochidiicola W. Yamam. SPECIES
-=======
+# Meliola glochidiicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

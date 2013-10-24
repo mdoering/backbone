@@ -1,14 +1,13 @@
-Cryptospora saccardiana Traverso & Spessa SPECIES
-=======
+# Ditopellina saccardiana (Traverso & Spessa) J. Reid & C. Booth SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 45: 1481 (1967)
 
 #### Original name
 Cryptospora saccardiana Traverso & Spessa

@@ -1,5 +1,4 @@
-Poria gallo-grisea Berk. ex Cooke SPECIES
-=======
+# Poria gallo-grisea Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

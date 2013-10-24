@@ -1,5 +1,4 @@
-Haramonas Horiguchi, 1996 GENUS
-=======
+# Haramonas Horiguchi, 1996 GENUS
 
 #### Status
 ACCEPTED

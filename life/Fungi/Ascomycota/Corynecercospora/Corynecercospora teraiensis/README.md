@@ -1,5 +1,4 @@
-Corynecercospora teraiensis V.K. Pal, Akhtar, N. Ahmad, Kamal & D.K. Agarwal SPECIES
-=======
+# Corynecercospora teraiensis V.K. Pal, Akhtar, N. Ahmad, Kamal & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

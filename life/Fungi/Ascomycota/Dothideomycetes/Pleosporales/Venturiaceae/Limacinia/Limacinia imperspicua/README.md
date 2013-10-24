@@ -1,5 +1,4 @@
-Limacinia imperspicua Sacc. SPECIES
-=======
+# Limacinia imperspicua Sacc. SPECIES
 
 #### Status
 ACCEPTED

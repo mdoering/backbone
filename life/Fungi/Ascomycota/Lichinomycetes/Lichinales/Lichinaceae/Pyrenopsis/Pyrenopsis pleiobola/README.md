@@ -1,5 +1,4 @@
-Pyrenopsis pleiobola Nyl. SPECIES
-=======
+# Pyrenopsis pleiobola Nyl. SPECIES
 
 #### Status
 ACCEPTED

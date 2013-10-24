@@ -1,5 +1,4 @@
-Cercospora langloisii Sacc. SPECIES
-=======
+# Cercospora langloisii Sacc. SPECIES
 
 #### Status
 ACCEPTED

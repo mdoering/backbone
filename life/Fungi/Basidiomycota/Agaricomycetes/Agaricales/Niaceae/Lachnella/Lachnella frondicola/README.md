@@ -1,5 +1,4 @@
-Lachnella frondicola Ellis & Everh. SPECIES
-=======
+# Lachnella frondicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

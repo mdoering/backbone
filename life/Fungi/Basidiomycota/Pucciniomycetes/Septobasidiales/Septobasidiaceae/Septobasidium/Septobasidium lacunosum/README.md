@@ -1,5 +1,4 @@
-Septobasidium lacunosum Couch SPECIES
-=======
+# Septobasidium lacunosum Couch SPECIES
 
 #### Status
 ACCEPTED

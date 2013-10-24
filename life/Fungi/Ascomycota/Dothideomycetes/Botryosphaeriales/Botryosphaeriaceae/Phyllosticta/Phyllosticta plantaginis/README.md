@@ -1,5 +1,4 @@
-Phyllosticta plantaginis (Sacc.) Sacc. SPECIES
-=======
+# Phyllosticta plantaginis (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

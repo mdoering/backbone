@@ -1,5 +1,4 @@
-Xyloma arbuti Fr. SPECIES
-=======
+# Xyloma arbuti Fr. SPECIES
 
 #### Status
 ACCEPTED

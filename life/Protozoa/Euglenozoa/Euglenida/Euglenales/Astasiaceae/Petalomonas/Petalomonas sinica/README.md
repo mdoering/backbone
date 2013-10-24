@@ -1,5 +1,4 @@
-Petalomonas sinica Skvortzov SPECIES
-=======
+# Petalomonas sinica Skvortzov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces amphigenus Link SPECIES
-=======
+# Uromyces amphigenus Link SPECIES
 
 #### Status
 ACCEPTED

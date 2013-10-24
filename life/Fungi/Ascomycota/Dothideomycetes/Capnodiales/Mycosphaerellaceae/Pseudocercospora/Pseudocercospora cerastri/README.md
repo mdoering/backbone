@@ -1,5 +1,4 @@
-Pseudocercospora cerastri Suj. Singh SPECIES
-=======
+# Pseudocercospora cerastri Suj. Singh SPECIES
 
 #### Status
 ACCEPTED

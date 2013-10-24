@@ -1,5 +1,4 @@
-Tylopilus castaneiceps Hongo SPECIES
-=======
+# Tylopilus castaneiceps Hongo SPECIES
 
 #### Status
 ACCEPTED

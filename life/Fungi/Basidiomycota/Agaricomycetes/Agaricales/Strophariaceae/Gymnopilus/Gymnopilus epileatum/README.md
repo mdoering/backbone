@@ -1,5 +1,4 @@
-Gymnopilus epileatum Ryvarden SPECIES
-=======
+# Gymnopilus epileatum Ryvarden SPECIES
 
 #### Status
 ACCEPTED

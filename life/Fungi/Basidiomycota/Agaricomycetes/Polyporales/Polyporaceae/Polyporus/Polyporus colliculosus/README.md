@@ -1,5 +1,4 @@
-Polyporus colliculosus Pers. SPECIES
-=======
+# Polyporus colliculosus Pers. SPECIES
 
 #### Status
 ACCEPTED

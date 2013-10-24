@@ -1,5 +1,4 @@
-Aecidium abietinum Alb. & Schwein. SPECIES
-=======
+# Aecidium abietinum Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon maculatus Zeller & C.W. Dodge, 1918 SPECIES
-=======
+# Rhizopogon maculatus Zeller & C.W. Dodge, 1918 SPECIES
 
 #### Status
 ACCEPTED

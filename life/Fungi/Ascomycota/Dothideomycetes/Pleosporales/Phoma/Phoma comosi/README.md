@@ -1,5 +1,4 @@
-Phoma comosi Pavgi & Gupta {?} SPECIES
-=======
+# Phoma comosi Pavgi & Gupta {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinoplanaceae FAMILY
-=======
+# Actinoplanaceae FAMILY
 
 #### Status
 ACCEPTED

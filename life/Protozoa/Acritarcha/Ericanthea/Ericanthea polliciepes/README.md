@@ -1,5 +1,4 @@
-Ericanthea polliciepes Cramer & Díez, 1977 SPECIES
-=======
+# Ericanthea polliciepes Cramer & Díez, 1977 SPECIES
 
 #### Status
 ACCEPTED

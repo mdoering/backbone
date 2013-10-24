@@ -1,5 +1,4 @@
-Puccinia cuilapensis Cummins SPECIES
-=======
+# Puccinia cuilapensis Cummins SPECIES
 
 #### Status
 ACCEPTED

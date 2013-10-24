@@ -1,5 +1,4 @@
-Phacidium philadelphi Niessl SPECIES
-=======
+# Phacidium philadelphi Niessl SPECIES
 
 #### Status
 ACCEPTED

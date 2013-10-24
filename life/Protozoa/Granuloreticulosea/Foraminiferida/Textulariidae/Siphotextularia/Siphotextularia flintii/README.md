@@ -1,8 +1,7 @@
-Textularia flintii f. caroliniana Cushman, 1922 FORM
-=======
+# Siphotextularia flintii (Cushman, 1911) SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

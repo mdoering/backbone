@@ -1,5 +1,4 @@
-Phoma verbenae Tassi SPECIES
-=======
+# Phoma verbenae Tassi SPECIES
 
 #### Status
 ACCEPTED

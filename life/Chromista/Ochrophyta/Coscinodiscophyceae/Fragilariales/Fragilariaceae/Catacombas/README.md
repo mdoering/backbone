@@ -1,5 +1,4 @@
-Catacombas D.M.Williams & Round, 1986 GENUS
-=======
+# Catacombas D.M.Williams & Round, 1986 GENUS
 
 #### Status
 ACCEPTED

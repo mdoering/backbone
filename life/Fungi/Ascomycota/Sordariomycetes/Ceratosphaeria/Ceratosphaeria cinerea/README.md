@@ -1,5 +1,4 @@
-Ceratosphaeria cinerea (Quél.) Sacc. SPECIES
-=======
+# Ceratosphaeria cinerea (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

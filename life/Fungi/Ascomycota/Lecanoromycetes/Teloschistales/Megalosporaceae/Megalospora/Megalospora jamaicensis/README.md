@@ -1,5 +1,4 @@
-Megalospora jamaicensis Riddle SPECIES
-=======
+# Megalospora jamaicensis Riddle SPECIES
 
 #### Status
 ACCEPTED

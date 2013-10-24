@@ -1,5 +1,4 @@
-Phialosporostilbe catenata Sureshk., Sharath, Kunwar & Manohar. SPECIES
-=======
+# Phialosporostilbe catenata Sureshk., Sharath, Kunwar & Manohar. SPECIES
 
 #### Status
 ACCEPTED

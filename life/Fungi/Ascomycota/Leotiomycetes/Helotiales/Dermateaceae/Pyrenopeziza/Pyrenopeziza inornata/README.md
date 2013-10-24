@@ -1,5 +1,4 @@
-Pyrenopeziza inornata Graddon, 1972 SPECIES
-=======
+# Pyrenopeziza inornata Graddon, 1972 SPECIES
 
 #### Status
 ACCEPTED

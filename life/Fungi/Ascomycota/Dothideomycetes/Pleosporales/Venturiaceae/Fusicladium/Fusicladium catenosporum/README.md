@@ -1,14 +1,13 @@
-Pollaccia catenospora Butin, 1992 SPECIES
-=======
+# Fusicladium catenosporum (Butin) Ritschel & U. Braun, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 96(8): 658 (1992)
+in Schubert, Ritschel & Braun, Schlechtendalia 9: 30 (2003)
 
 #### Original name
 Pollaccia catenospora Butin, 1992

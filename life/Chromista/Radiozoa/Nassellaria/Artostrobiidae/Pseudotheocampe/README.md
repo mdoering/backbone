@@ -1,5 +1,4 @@
-Pseudotheocampe GENUS
-=======
+# Pseudotheocampe GENUS
 
 #### Status
 ACCEPTED

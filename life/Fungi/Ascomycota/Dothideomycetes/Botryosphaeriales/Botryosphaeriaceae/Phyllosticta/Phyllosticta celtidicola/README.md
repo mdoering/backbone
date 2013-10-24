@@ -1,5 +1,4 @@
-Phyllosticta celtidicola Brunaud SPECIES
-=======
+# Phyllosticta celtidicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

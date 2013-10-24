@@ -1,5 +1,4 @@
-Bactrodesmium ramosius Matsush. SPECIES
-=======
+# Bactrodesmium ramosius Matsush. SPECIES
 
 #### Status
 ACCEPTED

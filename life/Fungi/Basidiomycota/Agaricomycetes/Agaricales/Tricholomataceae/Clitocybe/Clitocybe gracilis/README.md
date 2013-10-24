@@ -1,5 +1,4 @@
-Clitocybe gracilis (H.E. Bigelow & A.H. Sm.) Harmaja SPECIES
-=======
+# Clitocybe gracilis (H.E. Bigelow & A.H. Sm.) Harmaja SPECIES
 
 #### Status
 ACCEPTED

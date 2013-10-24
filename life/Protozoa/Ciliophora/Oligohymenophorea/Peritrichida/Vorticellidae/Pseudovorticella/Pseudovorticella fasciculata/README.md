@@ -1,8 +1,7 @@
-Vorticella smaragdina Stokes, 1885 SPECIES
-=======
+# Pseudovorticella fasciculata (Müller, 1773) Foissner & Brozek, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

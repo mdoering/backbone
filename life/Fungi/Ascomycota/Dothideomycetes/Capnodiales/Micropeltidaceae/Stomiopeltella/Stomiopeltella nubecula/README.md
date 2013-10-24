@@ -1,5 +1,4 @@
-Stomiopeltella nubecula (Berk. & M.A. Curtis) Theiss. SPECIES
-=======
+# Stomiopeltella nubecula (Berk. & M.A. Curtis) Theiss. SPECIES
 
 #### Status
 ACCEPTED

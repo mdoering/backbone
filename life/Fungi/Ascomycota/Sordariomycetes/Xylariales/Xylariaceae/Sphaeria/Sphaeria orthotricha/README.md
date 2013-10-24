@@ -1,5 +1,4 @@
-Sphaeria orthotricha Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria orthotricha Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

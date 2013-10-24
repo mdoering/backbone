@@ -1,5 +1,4 @@
-Peziza albotecta Berk. & M.A. Curtis SPECIES
-=======
+# Peziza albotecta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

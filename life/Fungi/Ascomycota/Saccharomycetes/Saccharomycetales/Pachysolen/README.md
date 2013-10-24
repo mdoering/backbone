@@ -1,5 +1,4 @@
-Pachysolen Boidin & Adzet, 1958 GENUS
-=======
+# Pachysolen Boidin & Adzet, 1958 GENUS
 
 #### Status
 ACCEPTED

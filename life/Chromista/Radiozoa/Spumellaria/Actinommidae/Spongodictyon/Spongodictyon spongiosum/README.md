@@ -1,5 +1,4 @@
-Spongodictyon spongiosum (Mueller, 1858) SPECIES
-=======
+# Spongodictyon spongiosum (Mueller, 1858) SPECIES
 
 #### Status
 ACCEPTED

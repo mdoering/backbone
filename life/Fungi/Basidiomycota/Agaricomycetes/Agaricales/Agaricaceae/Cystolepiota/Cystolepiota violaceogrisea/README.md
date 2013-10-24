@@ -1,5 +1,4 @@
-Cystolepiota violaceogrisea (Rick) Singer SPECIES
-=======
+# Cystolepiota violaceogrisea (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

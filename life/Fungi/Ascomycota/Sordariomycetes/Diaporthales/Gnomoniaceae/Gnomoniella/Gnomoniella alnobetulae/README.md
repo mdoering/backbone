@@ -1,5 +1,4 @@
-Gnomoniella alnobetulae Volkart SPECIES
-=======
+# Gnomoniella alnobetulae Volkart SPECIES
 
 #### Status
 ACCEPTED

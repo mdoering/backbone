@@ -1,5 +1,4 @@
-Ductifera rosea Rick SPECIES
-=======
+# Ductifera rosea Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula tuberum Corda SPECIES
-=======
+# Torula tuberum Corda SPECIES
 
 #### Status
 ACCEPTED

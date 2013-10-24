@@ -1,5 +1,4 @@
-Cercospora ramularia Siemaszko SPECIES
-=======
+# Cercospora ramularia Siemaszko SPECIES
 
 #### Status
 ACCEPTED

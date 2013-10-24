@@ -1,5 +1,4 @@
-Siderococcus GENUS
-=======
+# Siderococcus GENUS
 
 #### Status
 ACCEPTED

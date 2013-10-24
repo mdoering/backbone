@@ -1,5 +1,4 @@
-Porina wilsonii Riddle SPECIES
-=======
+# Porina wilsonii Riddle SPECIES
 
 #### Status
 ACCEPTED

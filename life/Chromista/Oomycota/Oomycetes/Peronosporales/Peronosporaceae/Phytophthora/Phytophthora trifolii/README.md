@@ -1,17 +1,16 @@
-Phytophthora megasperma f. sp FORM
-=======
+# Phytophthora trifolii E.M. Hansen & D.P. Maxwell, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 71(3): 280 (1981)
+Mycologia 83(3): 378 (1991)
 
 #### Original name
-Phytophthora megasperma f. sp
+Phytophthora trifolii E.M. Hansen & D.P. Maxwell, 1991
 
 ### Remarks
 null

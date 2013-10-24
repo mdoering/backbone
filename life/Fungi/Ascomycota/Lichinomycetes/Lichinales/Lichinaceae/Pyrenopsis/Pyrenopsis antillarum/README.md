@@ -1,5 +1,4 @@
-Pyrenopsis antillarum Vain. SPECIES
-=======
+# Pyrenopsis antillarum Vain. SPECIES
 
 #### Status
 ACCEPTED

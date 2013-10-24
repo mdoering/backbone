@@ -1,5 +1,4 @@
-Lecanora ochromelana SPECIES
-=======
+# Lecanora ochromelana SPECIES
 
 #### Status
 ACCEPTED

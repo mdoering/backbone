@@ -1,5 +1,4 @@
-Patellaria sinapisperma DC. SPECIES
-=======
+# Patellaria sinapisperma DC. SPECIES
 
 #### Status
 ACCEPTED

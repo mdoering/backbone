@@ -1,14 +1,13 @@
-Amphoridium muricolum (Servít) Servít SPECIES
-=======
+# Amphoridium muricola (Servít) Servít SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceskoslov. Liejn. Celedi Verrucariaceae 39 (1954)
 
 #### Original name
 Verrucaria muricola Servít

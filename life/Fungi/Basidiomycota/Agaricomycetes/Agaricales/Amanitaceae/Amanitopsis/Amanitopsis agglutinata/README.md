@@ -1,5 +1,4 @@
-Amanitopsis agglutinata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Amanitopsis agglutinata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

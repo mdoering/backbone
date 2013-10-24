@@ -1,5 +1,4 @@
-Stigmella palawanensis Syd. & P. Syd. SPECIES
-=======
+# Stigmella palawanensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

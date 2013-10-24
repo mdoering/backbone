@@ -1,5 +1,4 @@
-Peziza plantaginis (Fuckel) Cooke SPECIES
-=======
+# Peziza plantaginis (Fuckel) Cooke SPECIES
 
 #### Status
 ACCEPTED

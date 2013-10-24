@@ -1,17 +1,16 @@
-Ustilago caricis var. caricis VARIETY
-=======
+# Anthracoidea arenariae (Syd.) Nannf., 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Notiser 130(4): 365 (1977)
 
 #### Original name
-Ustilago caricis var. caricis
+Cintractia arenariae Syd., 1924
 
 ### Remarks
 null

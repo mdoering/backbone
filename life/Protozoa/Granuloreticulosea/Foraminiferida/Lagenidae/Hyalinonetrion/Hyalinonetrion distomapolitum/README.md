@@ -1,5 +1,4 @@
-Hyalinonetrion distomapolitum (Parker & Jones, 1865) SPECIES
-=======
+# Hyalinonetrion distomapolitum (Parker & Jones, 1865) SPECIES
 
 #### Status
 ACCEPTED

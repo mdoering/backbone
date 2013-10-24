@@ -1,17 +1,16 @@
-Didymosphaeria gaubiae Petr. SPECIES
-=======
+# Amphisphaeria gaubae (Petr.) You Z. Wang, Aptroot & K.D. Hyde, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungal Diversity Res. Ser. (Hong Kong) 13: 13 (2004)
 
 #### Original name
-Didymosphaeria gaubiae Petr.
+Didymosphaeria gaubae Petr., 1954
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Macrosporium curtisii (Berk.) Pound & Clem. SPECIES
-=======
+# Macrosporium curtisii (Berk.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

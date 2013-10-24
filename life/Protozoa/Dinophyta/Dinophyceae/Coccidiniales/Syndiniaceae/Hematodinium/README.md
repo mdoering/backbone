@@ -1,5 +1,4 @@
-Hematodinium Chatton & Poisson, 1930 GENUS
-=======
+# Hematodinium Chatton & Poisson, 1930 GENUS
 
 #### Status
 ACCEPTED

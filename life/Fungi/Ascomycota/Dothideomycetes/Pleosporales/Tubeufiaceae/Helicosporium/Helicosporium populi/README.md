@@ -1,5 +1,4 @@
-Helicosporium populi (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Helicosporium populi (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

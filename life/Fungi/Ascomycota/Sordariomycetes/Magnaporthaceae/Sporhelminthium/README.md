@@ -1,5 +1,4 @@
-Sporhelminthium GENUS
-=======
+# Sporhelminthium GENUS
 
 #### Status
 ACCEPTED

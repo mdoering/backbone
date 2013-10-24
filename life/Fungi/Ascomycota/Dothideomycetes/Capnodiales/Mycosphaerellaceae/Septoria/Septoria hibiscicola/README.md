@@ -1,5 +1,4 @@
-Septoria hibiscicola H.D. Shin & Sameva SPECIES
-=======
+# Septoria hibiscicola H.D. Shin & Sameva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiodecton stellulatum (Fée) Müll. Arg. SPECIES
-=======
+# Chiodecton stellulatum (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

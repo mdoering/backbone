@@ -1,5 +1,4 @@
-Puccinia akiyoshidanensis Morim. SPECIES
-=======
+# Puccinia akiyoshidanensis Morim. SPECIES
 
 #### Status
 ACCEPTED

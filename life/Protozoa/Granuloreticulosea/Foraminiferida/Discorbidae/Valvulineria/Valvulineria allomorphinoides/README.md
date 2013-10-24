@@ -1,5 +1,4 @@
-Valvulineria allomorphinoides (Reuss, 1860) SPECIES
-=======
+# Valvulineria allomorphinoides (Reuss, 1860) SPECIES
 
 #### Status
 ACCEPTED

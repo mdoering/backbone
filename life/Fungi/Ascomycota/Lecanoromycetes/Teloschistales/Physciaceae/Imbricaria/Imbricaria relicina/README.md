@@ -1,5 +1,4 @@
-Imbricaria relicina (Fr.) Jatta SPECIES
-=======
+# Imbricaria relicina (Fr.) Jatta SPECIES
 
 #### Status
 ACCEPTED

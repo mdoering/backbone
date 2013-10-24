@@ -1,5 +1,4 @@
-Arthonia subnovella Müll. Arg. SPECIES
-=======
+# Arthonia subnovella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

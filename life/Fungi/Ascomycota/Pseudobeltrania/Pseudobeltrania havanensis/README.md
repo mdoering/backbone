@@ -1,5 +1,4 @@
-Pseudobeltrania havanensis Hol.-Jech. SPECIES
-=======
+# Pseudobeltrania havanensis Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

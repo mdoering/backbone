@@ -1,5 +1,4 @@
-Tricholoma pseudoacerbum Costantin & L.M. Dufour SPECIES
-=======
+# Tricholoma pseudoacerbum Costantin & L.M. Dufour SPECIES
 
 #### Status
 ACCEPTED

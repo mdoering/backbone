@@ -1,5 +1,4 @@
-Phyllosticta ambrosiae Davis SPECIES
-=======
+# Phyllosticta ambrosiae Davis SPECIES
 
 #### Status
 ACCEPTED

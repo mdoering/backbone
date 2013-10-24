@@ -1,5 +1,4 @@
-Ascochyta poonensis Punith. SPECIES
-=======
+# Ascochyta poonensis Punith. SPECIES
 
 #### Status
 ACCEPTED

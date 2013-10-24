@@ -1,5 +1,4 @@
-Boletellus flocculosipes (Murrill) Perr.-Bertr. SPECIES
-=======
+# Boletellus flocculosipes (Murrill) Perr.-Bertr. SPECIES
 
 #### Status
 ACCEPTED

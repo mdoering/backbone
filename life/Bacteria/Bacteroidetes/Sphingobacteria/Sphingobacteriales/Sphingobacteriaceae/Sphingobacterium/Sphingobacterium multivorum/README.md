@@ -1,8 +1,7 @@
-Flavobacterium multivorum Holmes et al., 1981 SPECIES
-=======
+# Sphingobacterium multivorum (Holmes et al., 1981) Yabuuchi et al., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

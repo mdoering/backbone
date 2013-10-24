@@ -1,5 +1,4 @@
-Puccinia pallor Arthur & Holw. SPECIES
-=======
+# Puccinia pallor Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

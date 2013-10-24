@@ -1,5 +1,4 @@
-Poria roseoisabellina Pat. SPECIES
-=======
+# Poria roseoisabellina Pat. SPECIES
 
 #### Status
 ACCEPTED

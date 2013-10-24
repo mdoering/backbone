@@ -1,5 +1,4 @@
-Phyllachora pittieri Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora pittieri Theiss. & Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

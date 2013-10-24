@@ -1,5 +1,4 @@
-Cortinarius olorinatus E. Horak, 1990 SPECIES
-=======
+# Cortinarius olorinatus E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

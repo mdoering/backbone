@@ -1,5 +1,4 @@
-Endogone torrendii Bres. SPECIES
-=======
+# Endogone torrendii Bres. SPECIES
 
 #### Status
 ACCEPTED

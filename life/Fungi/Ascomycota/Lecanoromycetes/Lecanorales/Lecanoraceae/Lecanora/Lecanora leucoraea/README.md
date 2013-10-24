@@ -1,5 +1,4 @@
-Lecanora leucoraea (Ach.) Nyl. SPECIES
-=======
+# Lecanora leucoraea (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

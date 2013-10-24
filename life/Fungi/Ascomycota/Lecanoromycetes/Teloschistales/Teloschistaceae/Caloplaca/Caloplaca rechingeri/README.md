@@ -1,5 +1,4 @@
-Caloplaca rechingeri Servít SPECIES
-=======
+# Caloplaca rechingeri Servít SPECIES
 
 #### Status
 ACCEPTED

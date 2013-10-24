@@ -1,5 +1,4 @@
-Pleospora lusitanica Pass. & Thüm. SPECIES
-=======
+# Pleospora lusitanica Pass. & Thüm. SPECIES
 
 #### Status
 ACCEPTED

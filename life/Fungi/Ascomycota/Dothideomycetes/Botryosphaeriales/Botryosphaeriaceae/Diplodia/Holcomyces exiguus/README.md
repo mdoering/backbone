@@ -1,5 +1,4 @@
-Holcomyces exiguus J. Lindau SPECIES
-=======
+# Holcomyces exiguus J. Lindau SPECIES
 
 #### Status
 ACCEPTED

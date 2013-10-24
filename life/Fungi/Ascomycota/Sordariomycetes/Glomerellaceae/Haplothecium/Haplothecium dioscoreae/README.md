@@ -1,5 +1,4 @@
-Haplothecium dioscoreae F. Stevens, 1927 SPECIES
-=======
+# Haplothecium dioscoreae F. Stevens, 1927 SPECIES
 
 #### Status
 ACCEPTED

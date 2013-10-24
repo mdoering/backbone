@@ -1,14 +1,13 @@
-Hymenogaster purpureus J.W. Cribb, 1956 SPECIES
-=======
+# Protoglossum purpureum (J.W. Cribb) T.W. May, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Dept. Bot. (formerly Biol. ) Univ. Qd. 3: 127 (1956)
+Muelleria 8(3): 288 (1995)
 
 #### Original name
 Hymenogaster purpureus J.W. Cribb, 1956

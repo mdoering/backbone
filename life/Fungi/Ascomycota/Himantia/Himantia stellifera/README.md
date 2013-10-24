@@ -1,5 +1,4 @@
-Himantia stellifera J.R. Johnst. SPECIES
-=======
+# Himantia stellifera J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

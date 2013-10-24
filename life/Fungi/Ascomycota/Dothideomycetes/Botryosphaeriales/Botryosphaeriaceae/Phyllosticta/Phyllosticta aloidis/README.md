@@ -1,5 +1,4 @@
-Phyllosticta aloidis Oudem. SPECIES
-=======
+# Phyllosticta aloidis Oudem. SPECIES
 
 #### Status
 ACCEPTED

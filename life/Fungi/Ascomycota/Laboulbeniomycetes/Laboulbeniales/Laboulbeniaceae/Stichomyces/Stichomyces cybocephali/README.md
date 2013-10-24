@@ -1,5 +1,4 @@
-Stichomyces cybocephali Thaxt. SPECIES
-=======
+# Stichomyces cybocephali Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Schizosaccharomyces chremetis ulc SPECIES
-=======
+# Schizosaccharomyces chermetis-strobilobii ulc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sitzungber. K. bohm. Ges. Wiss. , 1910 22 (1911)
 
 #### Original name
-Schizosaccharomyces chremetis ulc
+Schizosaccharomyces chermetis-strobilobii ulc
 
 ### Remarks
 null

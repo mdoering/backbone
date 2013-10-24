@@ -1,14 +1,13 @@
-Microsphaera palczewskii Jacz., 1927 SPECIES
-=======
+# Erysiphe palczewskii (Jacz.) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Karmannyi Opredelitel' Gribov. Vip. 2. Muchnisto-Rosyanye Griby 2: 339 (1927)
+Schlechtendalia 4: 12 (2000)
 
 #### Original name
 Microsphaera palczewskii Jacz., 1927

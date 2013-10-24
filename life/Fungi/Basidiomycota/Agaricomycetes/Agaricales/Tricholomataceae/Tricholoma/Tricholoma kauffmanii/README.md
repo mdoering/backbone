@@ -1,8 +1,7 @@
-Tricholoma kauffmani (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma kauffmanii (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

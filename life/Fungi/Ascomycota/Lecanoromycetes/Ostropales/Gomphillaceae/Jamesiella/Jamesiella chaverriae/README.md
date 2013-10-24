@@ -1,5 +1,4 @@
-Jamesiella chaverriae Chaves, Umaña & Lücking SPECIES
-=======
+# Jamesiella chaverriae Chaves, Umaña & Lücking SPECIES
 
 #### Status
 ACCEPTED

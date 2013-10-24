@@ -1,5 +1,4 @@
-Cercospora lysimachiae Ellis & Halst. SPECIES
-=======
+# Cercospora lysimachiae Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

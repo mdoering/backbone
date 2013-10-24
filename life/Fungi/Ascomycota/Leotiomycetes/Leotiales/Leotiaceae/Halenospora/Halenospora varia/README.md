@@ -1,17 +1,16 @@
-Zalerion varia var. varia VARIETY
-=======
+# Halenospora varia (Anastasiou) E.B.G. Jones, 2009 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 41: 1136 (1963)
+Fungal Diversity 35: 154 (2009)
 
 #### Original name
-Zalerion varia var. varia
+Zalerion varia Anastasiou, 1963
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Graphis curvula Ehrh. SPECIES
-=======
+# Graphis curvula Ehrh. SPECIES
 
 #### Status
 ACCEPTED

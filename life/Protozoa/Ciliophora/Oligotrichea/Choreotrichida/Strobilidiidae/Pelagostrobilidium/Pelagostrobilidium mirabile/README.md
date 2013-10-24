@@ -1,5 +1,4 @@
-Pelagostrobilidium mirabile (Penard, 1916) Krainer, 1991 SPECIES
-=======
+# Pelagostrobilidium mirabile (Penard, 1916) Krainer, 1991 SPECIES
 
 #### Status
 ACCEPTED

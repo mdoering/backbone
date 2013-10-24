@@ -1,5 +1,4 @@
-Schizothecium oedotrichum N. Lundq. SPECIES
-=======
+# Schizothecium oedotrichum N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

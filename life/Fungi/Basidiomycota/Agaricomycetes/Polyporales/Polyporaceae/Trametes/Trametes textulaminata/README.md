@@ -1,5 +1,4 @@
-Trametes textulaminata Corner SPECIES
-=======
+# Trametes textulaminata Corner SPECIES
 
 #### Status
 ACCEPTED

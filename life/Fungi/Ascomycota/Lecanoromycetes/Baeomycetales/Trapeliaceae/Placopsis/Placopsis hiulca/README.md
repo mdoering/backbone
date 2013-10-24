@@ -1,5 +1,4 @@
-Placopsis hiulca (Nyl.) Nyl. SPECIES
-=======
+# Placopsis hiulca (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phytophthora bahamensis Fell & Master, 1975 SPECIES
-=======
+# Halophytophthora bahamensis (Fell & Master) H.H. Ho & S.C. Jong, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 53: 2908-2922 (1975)
+Mycotaxon 36(2): 381 (1990)
 
 #### Original name
 Phytophthora bahamensis Fell & Master, 1975

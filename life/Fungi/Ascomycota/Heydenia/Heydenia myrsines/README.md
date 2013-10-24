@@ -1,5 +1,4 @@
-Heydenia myrsines Keissl. SPECIES
-=======
+# Heydenia myrsines Keissl. SPECIES
 
 #### Status
 ACCEPTED

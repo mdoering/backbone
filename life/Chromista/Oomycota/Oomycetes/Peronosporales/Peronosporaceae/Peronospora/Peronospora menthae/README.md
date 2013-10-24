@@ -1,5 +1,4 @@
-Peronospora menthae H.C. Bai & X.Y. Cheng SPECIES
-=======
+# Peronospora menthae H.C. Bai & X.Y. Cheng SPECIES
 
 #### Status
 ACCEPTED

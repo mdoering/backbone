@@ -1,5 +1,4 @@
-Rhynchosphaeria dusenii Henn. SPECIES
-=======
+# Rhynchosphaeria dusenii Henn. SPECIES
 
 #### Status
 ACCEPTED

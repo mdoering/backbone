@@ -1,5 +1,4 @@
-Anthracothecium borbonicum (Nyl.) Müll. Arg. SPECIES
-=======
+# Anthracothecium borbonicum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

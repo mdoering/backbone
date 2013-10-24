@@ -1,5 +1,4 @@
-Clavaria pteruloides Pat. & Gaillard SPECIES
-=======
+# Clavaria pteruloides Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia jasmini DC. SPECIES
-=======
+# Puccinia jasmini DC. SPECIES
 
 #### Status
 ACCEPTED

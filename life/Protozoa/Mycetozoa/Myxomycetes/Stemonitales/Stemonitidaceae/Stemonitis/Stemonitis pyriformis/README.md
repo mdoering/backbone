@@ -1,5 +1,4 @@
-Stemonitis pyriformis Scop. SPECIES
-=======
+# Stemonitis pyriformis Scop. SPECIES
 
 #### Status
 ACCEPTED

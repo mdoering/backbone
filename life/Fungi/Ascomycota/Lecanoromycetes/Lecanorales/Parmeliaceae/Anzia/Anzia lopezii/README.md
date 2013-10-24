@@ -1,5 +1,4 @@
-Anzia lopezii Yoshim. SPECIES
-=======
+# Anzia lopezii Yoshim. SPECIES
 
 #### Status
 ACCEPTED

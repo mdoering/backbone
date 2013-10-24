@@ -1,5 +1,4 @@
-Nectria plagianthi Dingley, 1951 SPECIES
-=======
+# Nectria plagianthi Dingley, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epicoccum virescens Rabenh. SPECIES
-=======
+# Epicoccum virescens Rabenh. SPECIES
 
 #### Status
 ACCEPTED

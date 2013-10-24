@@ -1,5 +1,4 @@
-Squamaria placorodia (Ach.) Nyl. SPECIES
-=======
+# Squamaria placorodia (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

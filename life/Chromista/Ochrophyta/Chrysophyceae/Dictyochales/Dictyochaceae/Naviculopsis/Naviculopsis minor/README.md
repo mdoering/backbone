@@ -1,5 +1,4 @@
-Naviculopsis minor (P. Schulz) D. Bukry SPECIES
-=======
+# Naviculopsis minor (P. Schulz) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterochona Jankowski, 1972 GENUS
-=======
+# Heterochona Jankowski, 1972 GENUS
 
 #### Status
 ACCEPTED

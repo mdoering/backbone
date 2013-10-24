@@ -1,5 +1,4 @@
-Pleurotus subfunereus (Berk.) Sacc. SPECIES
-=======
+# Pleurotus subfunereus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

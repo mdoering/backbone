@@ -1,8 +1,7 @@
-Lagotia abyssorum (Giard, 1883) Hadzi SPECIES
-=======
+# Folliculina abyssorum Giard, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

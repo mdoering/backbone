@@ -1,5 +1,4 @@
-Excipula kriegeriana Syd. SPECIES
-=======
+# Excipula kriegeriana Syd. SPECIES
 
 #### Status
 ACCEPTED

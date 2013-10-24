@@ -1,5 +1,4 @@
-Gibbera philippinensis Rehm SPECIES
-=======
+# Gibbera philippinensis Rehm SPECIES
 
 #### Status
 ACCEPTED

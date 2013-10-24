@@ -1,5 +1,4 @@
-Heterodermia chondroidea W.A. Weber & D.D. Awasthi SPECIES
-=======
+# Heterodermia chondroidea W.A. Weber & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Merulius brassicaefolius Schwein. SPECIES
-=======
+# Merulius brassicifolius Schwein. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Schr. naturf. Ges. Leipzig 1: 93 (1822)
 
 #### Original name
-Merulius brassicaefolius Schwein.
+Merulius brassicifolius Schwein.
 
 ### Remarks
 null

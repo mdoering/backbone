@@ -1,5 +1,4 @@
-Chaetosphaeria thalictri Clem. SPECIES
-=======
+# Chaetosphaeria thalictri Clem. SPECIES
 
 #### Status
 ACCEPTED

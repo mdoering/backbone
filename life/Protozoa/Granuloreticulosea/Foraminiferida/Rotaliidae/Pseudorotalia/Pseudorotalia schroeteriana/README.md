@@ -1,8 +1,7 @@
-Rotalia schroeteriana var. inflata Millett, 1904 VARIETY
-=======
+# Pseudorotalia schroeteriana (Parker & Jones in Carpenter, 1862) SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

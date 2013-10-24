@@ -1,5 +1,4 @@
-Melophia polygonati T. Miyake SPECIES
-=======
+# Melophia polygonati T. Miyake SPECIES
 
 #### Status
 ACCEPTED

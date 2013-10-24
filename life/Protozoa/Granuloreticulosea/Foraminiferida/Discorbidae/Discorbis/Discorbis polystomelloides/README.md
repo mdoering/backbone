@@ -1,5 +1,4 @@
-Discorbis polystomelloides SPECIES
-=======
+# Discorbis polystomelloides SPECIES
 
 #### Status
 ACCEPTED

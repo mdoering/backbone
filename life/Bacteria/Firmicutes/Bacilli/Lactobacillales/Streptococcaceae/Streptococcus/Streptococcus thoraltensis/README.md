@@ -1,5 +1,4 @@
-Streptococcus thoraltensis Devriese et al., 1997 SPECIES
-=======
+# Streptococcus thoraltensis Devriese et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

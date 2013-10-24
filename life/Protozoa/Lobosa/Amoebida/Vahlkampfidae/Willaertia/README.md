@@ -1,5 +1,4 @@
-Willaertia De Jonckheere, Dive, Pussard & Vickerman GENUS
-=======
+# Willaertia De Jonckheere, Dive, Pussard & Vickerman GENUS
 
 #### Status
 ACCEPTED

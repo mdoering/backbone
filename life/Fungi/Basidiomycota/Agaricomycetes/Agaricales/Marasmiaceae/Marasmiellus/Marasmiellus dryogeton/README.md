@@ -1,5 +1,4 @@
-Marasmiellus dryogeton Singer SPECIES
-=======
+# Marasmiellus dryogeton Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe veronicae Rehm, 1916 SPECIES
-=======
+# Diaporthe veronicae Rehm, 1916 SPECIES
 
 #### Status
 ACCEPTED

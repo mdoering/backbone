@@ -1,5 +1,4 @@
-Thiodendron Lackey & Lackey, 1961 GENUS
-=======
+# Thiodendron Lackey & Lackey, 1961 GENUS
 
 #### Status
 ACCEPTED

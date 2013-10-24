@@ -1,5 +1,4 @@
-Mycosphaerella pascuorum (Fautrey) Dias SPECIES
-=======
+# Mycosphaerella pascuorum (Fautrey) Dias SPECIES
 
 #### Status
 ACCEPTED

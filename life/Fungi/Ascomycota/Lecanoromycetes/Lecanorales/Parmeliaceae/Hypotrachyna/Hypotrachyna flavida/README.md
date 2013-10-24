@@ -1,17 +1,16 @@
-Parmelia flava var. flava VARIETY
-=======
+# Hypotrachyna flavida (Zahlbr.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 37 (1975)
 
 #### Original name
-Parmelia flava var. flava
+Parmelia flavida Zahlbr.
 
 ### Remarks
 null

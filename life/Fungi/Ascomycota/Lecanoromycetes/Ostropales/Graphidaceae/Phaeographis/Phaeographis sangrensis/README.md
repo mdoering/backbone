@@ -1,5 +1,4 @@
-Phaeographis sangrensis (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis sangrensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

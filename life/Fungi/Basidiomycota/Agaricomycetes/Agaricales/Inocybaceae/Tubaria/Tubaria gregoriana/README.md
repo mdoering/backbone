@@ -1,5 +1,4 @@
-Tubaria gregoriana (Speg.) Sacc. SPECIES
-=======
+# Tubaria gregoriana (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum retirugum Cooke SPECIES
-=======
+# Stereum retirugum Cooke SPECIES
 
 #### Status
 ACCEPTED

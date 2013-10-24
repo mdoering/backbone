@@ -1,5 +1,4 @@
-Hormoconis Arx & G.A. de Vries GENUS
-=======
+# Hormoconis Arx & G.A. de Vries GENUS
 
 #### Status
 ACCEPTED

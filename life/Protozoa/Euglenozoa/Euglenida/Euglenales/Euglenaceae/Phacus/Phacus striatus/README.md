@@ -1,8 +1,7 @@
-Phacus enigmaticus Drezepolski SPECIES
-=======
+# Phacus striatus (Drezepolski) Francé SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Coniothyrium hulthemiae Kravtzev SPECIES
-=======
+# Coniothyrium hulthemiae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia bullula (V. Brig.) Sacc. SPECIES
-=======
+# Omphalia bullula (V. Brig.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

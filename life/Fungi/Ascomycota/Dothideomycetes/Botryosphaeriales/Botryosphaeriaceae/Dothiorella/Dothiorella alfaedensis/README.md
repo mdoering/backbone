@@ -1,5 +1,4 @@
-Dothiorella alfaedensis C. Massal. SPECIES
-=======
+# Dothiorella alfaedensis C. Massal. SPECIES
 
 #### Status
 ACCEPTED

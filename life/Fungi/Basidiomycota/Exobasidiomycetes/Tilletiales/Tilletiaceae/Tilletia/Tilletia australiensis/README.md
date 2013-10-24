@@ -1,5 +1,4 @@
-Tilletia australiensis R.G. Shivas, Cother, G.J. Ash, Jane D. Ray & Vánky SPECIES
-=======
+# Tilletia australiensis R.G. Shivas, Cother, G.J. Ash, Jane D. Ray & Vánky SPECIES
 
 #### Status
 ACCEPTED

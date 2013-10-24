@@ -1,5 +1,4 @@
-Diplodina gallae Ellis & Everh. SPECIES
-=======
+# Diplodina gallae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

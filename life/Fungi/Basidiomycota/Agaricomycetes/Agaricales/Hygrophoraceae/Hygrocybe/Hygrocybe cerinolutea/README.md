@@ -1,5 +1,4 @@
-Hygrocybe cerinolutea E. Horak, 1973 SPECIES
-=======
+# Hygrocybe cerinolutea E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

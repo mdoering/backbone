@@ -1,5 +1,4 @@
-Ectocarpidium G.Shperk, 1869 GENUS
-=======
+# Ectocarpidium G.Shperk, 1869 GENUS
 
 #### Status
 ACCEPTED

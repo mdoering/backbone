@@ -1,5 +1,4 @@
-Phaeographis neocaledonica Müll. Arg. SPECIES
-=======
+# Phaeographis neocaledonica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodermia translucens (Kurok.) D. Hawksw. SPECIES
-=======
+# Heterodermia translucens (Kurok.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

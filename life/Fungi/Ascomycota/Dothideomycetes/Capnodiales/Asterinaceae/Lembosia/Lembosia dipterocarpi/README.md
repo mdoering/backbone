@@ -1,5 +1,4 @@
-Lembosia dipterocarpi Henn. SPECIES
-=======
+# Lembosia dipterocarpi Henn. SPECIES
 
 #### Status
 ACCEPTED

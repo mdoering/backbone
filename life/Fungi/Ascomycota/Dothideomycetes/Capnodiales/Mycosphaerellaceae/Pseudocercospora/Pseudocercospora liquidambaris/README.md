@@ -1,5 +1,4 @@
-Pseudocercospora liquidambaris Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora liquidambaris Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

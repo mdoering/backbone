@@ -1,5 +1,4 @@
-Minimidochium nipponicum Matsush. SPECIES
-=======
+# Minimidochium nipponicum Matsush. SPECIES
 
 #### Status
 ACCEPTED

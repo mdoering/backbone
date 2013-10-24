@@ -1,5 +1,4 @@
-Septoria allardii J.A. Stev. & Pollack SPECIES
-=======
+# Septoria allardii J.A. Stev. & Pollack SPECIES
 
 #### Status
 ACCEPTED

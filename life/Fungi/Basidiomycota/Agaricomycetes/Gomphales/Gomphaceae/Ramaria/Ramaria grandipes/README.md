@@ -1,5 +1,4 @@
-Ramaria grandipes Schild & R.H. Petersen, 1980 SPECIES
-=======
+# Ramaria grandipes Schild & R.H. Petersen, 1980 SPECIES
 
 #### Status
 ACCEPTED

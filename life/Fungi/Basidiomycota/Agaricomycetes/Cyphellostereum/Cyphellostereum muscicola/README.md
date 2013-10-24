@@ -1,14 +1,13 @@
-Stereum muscicola Pat., 1897 SPECIES
-=======
+# Cyphellostereum muscicola (Pat.) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Jard. Bot. Buitenzorg, suppl. 1(Suppl. ): 116 (1897)
+Beih. Nova Hedwigia 18: 345 (1965)
 
 #### Original name
 Stereum muscicola Pat., 1897

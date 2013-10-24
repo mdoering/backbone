@@ -1,5 +1,4 @@
-Tricholoma hybridum Kühner SPECIES
-=======
+# Tricholoma hybridum Kühner SPECIES
 
 #### Status
 ACCEPTED

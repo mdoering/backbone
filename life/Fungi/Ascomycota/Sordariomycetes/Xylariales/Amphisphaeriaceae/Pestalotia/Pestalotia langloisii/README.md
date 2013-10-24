@@ -1,5 +1,4 @@
-Pestalotia langloisii Guba SPECIES
-=======
+# Pestalotia langloisii Guba SPECIES
 
 #### Status
 ACCEPTED

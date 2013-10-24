@@ -1,5 +1,4 @@
-Puccinia narcissi G.F. Laundon SPECIES
-=======
+# Puccinia narcissi G.F. Laundon SPECIES
 
 #### Status
 ACCEPTED

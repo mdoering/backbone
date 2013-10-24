@@ -1,5 +1,4 @@
-Metasphaeria pinnarum (Pass.) Sacc. SPECIES
-=======
+# Metasphaeria pinnarum (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

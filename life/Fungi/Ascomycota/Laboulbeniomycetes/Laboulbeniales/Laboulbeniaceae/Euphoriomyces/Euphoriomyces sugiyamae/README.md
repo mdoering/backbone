@@ -1,5 +1,4 @@
-Euphoriomyces sugiyamae T. Majewski SPECIES
-=======
+# Euphoriomyces sugiyamae T. Majewski SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium bogoriense Penz. & Sacc. SPECIES
-=======
+# Sporidesmium bogoriense Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

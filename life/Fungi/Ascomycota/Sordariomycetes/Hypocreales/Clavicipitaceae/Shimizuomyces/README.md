@@ -1,5 +1,4 @@
-Shimizuomyces Kobayasi GENUS
-=======
+# Shimizuomyces Kobayasi GENUS
 
 #### Status
 ACCEPTED

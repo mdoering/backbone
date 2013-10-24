@@ -1,5 +1,4 @@
-Squamanita cettoiana M.M. Moser SPECIES
-=======
+# Squamanita cettoiana M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

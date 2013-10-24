@@ -1,5 +1,4 @@
-Truncatella betulae (Morochk.) S.J. Lee & Crous SPECIES
-=======
+# Truncatella betulae (Morochk.) S.J. Lee & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sordaria gagliardi De Not. SPECIES
-=======
+# Sordaria gagliardi De Not. SPECIES
 
 #### Status
 ACCEPTED

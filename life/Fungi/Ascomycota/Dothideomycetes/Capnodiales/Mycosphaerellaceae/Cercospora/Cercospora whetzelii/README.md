@@ -1,5 +1,4 @@
-Cercospora whetzelii Chupp SPECIES
-=======
+# Cercospora whetzelii Chupp SPECIES
 
 #### Status
 ACCEPTED

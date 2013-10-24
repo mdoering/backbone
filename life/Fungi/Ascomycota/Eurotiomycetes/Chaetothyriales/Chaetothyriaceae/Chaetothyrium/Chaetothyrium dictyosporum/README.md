@@ -1,5 +1,4 @@
-Chaetothyrium dictyosporum Petr. SPECIES
-=======
+# Chaetothyrium dictyosporum Petr. SPECIES
 
 #### Status
 ACCEPTED

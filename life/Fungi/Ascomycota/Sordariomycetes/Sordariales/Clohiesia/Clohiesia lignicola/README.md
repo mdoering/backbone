@@ -1,5 +1,4 @@
-Clohiesia lignicola K.M. Tsui, K.D. Hyde & Hodgkiss, 1998 SPECIES
-=======
+# Clohiesia lignicola K.M. Tsui, K.D. Hyde & Hodgkiss, 1998 SPECIES
 
 #### Status
 ACCEPTED

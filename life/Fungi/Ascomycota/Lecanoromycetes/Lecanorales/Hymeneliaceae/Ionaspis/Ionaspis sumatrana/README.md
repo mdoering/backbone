@@ -1,5 +1,4 @@
-Ionaspis sumatrana Zahlbr. SPECIES
-=======
+# Ionaspis sumatrana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

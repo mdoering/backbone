@@ -1,5 +1,4 @@
-Puccinia paederiae (F. Stevens & Mendiola) Gorlenko SPECIES
-=======
+# Puccinia paederiae (F. Stevens & Mendiola) Gorlenko SPECIES
 
 #### Status
 ACCEPTED

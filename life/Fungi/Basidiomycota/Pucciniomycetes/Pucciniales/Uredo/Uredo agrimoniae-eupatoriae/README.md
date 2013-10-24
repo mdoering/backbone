@@ -1,5 +1,4 @@
-Uredo agrimoniae-eupatoriae G. Winter SPECIES
-=======
+# Uredo agrimoniae-eupatoriae G. Winter SPECIES
 
 #### Status
 ACCEPTED

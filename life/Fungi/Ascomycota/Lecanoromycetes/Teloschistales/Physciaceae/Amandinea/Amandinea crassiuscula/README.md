@@ -1,5 +1,4 @@
-Amandinea crassiuscula Giralt & Etayo SPECIES
-=======
+# Amandinea crassiuscula Giralt & Etayo SPECIES
 
 #### Status
 ACCEPTED

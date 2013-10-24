@@ -1,5 +1,4 @@
-Verrucaria elaeoplaca f. elaeoplaca FORM
-=======
+# Verrucaria elaeoplaca Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Résult. Voy. Belgica, Lich. 37 (1903)
 
 #### Original name
-Verrucaria elaeoplaca f. elaeoplaca
+Verrucaria elaeoplaca Vain.
 
 ### Remarks
 null

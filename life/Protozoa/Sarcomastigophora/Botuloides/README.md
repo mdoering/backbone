@@ -1,5 +1,4 @@
-Botuloides Zheng, 1979 GENUS
-=======
+# Botuloides Zheng, 1979 GENUS
 
 #### Status
 ACCEPTED

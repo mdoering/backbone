@@ -1,5 +1,4 @@
-Dendrodochium tenue Petch SPECIES
-=======
+# Dendrodochium tenue Petch SPECIES
 
 #### Status
 ACCEPTED

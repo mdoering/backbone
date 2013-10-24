@@ -1,5 +1,4 @@
-Agaricus fumidellus Peck SPECIES
-=======
+# Agaricus fumidellus Peck SPECIES
 
 #### Status
 ACCEPTED

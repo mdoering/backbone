@@ -1,5 +1,4 @@
-Phyllachora noackii Syd. & P. Syd., 1907 SPECIES
-=======
+# Phyllachora noackii Syd. & P. Syd., 1907 SPECIES
 
 #### Status
 ACCEPTED

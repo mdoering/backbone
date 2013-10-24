@@ -1,5 +1,4 @@
-Aspicilia oreinomoides (H. Magn.) SPECIES
-=======
+# Aspicilia oreinomoides (H. Magn.) SPECIES
 
 #### Status
 ACCEPTED

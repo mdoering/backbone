@@ -1,5 +1,4 @@
-Globoquadrina altispira SPECIES
-=======
+# Globoquadrina altispira SPECIES
 
 #### Status
 ACCEPTED

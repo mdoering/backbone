@@ -1,5 +1,4 @@
-Cortinarius luteinus Soop, 2003 SPECIES
-=======
+# Cortinarius luteinus Soop, 2003 SPECIES
 
 #### Status
 ACCEPTED

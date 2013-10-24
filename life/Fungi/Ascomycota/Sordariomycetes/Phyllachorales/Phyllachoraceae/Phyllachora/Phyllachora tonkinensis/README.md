@@ -1,14 +1,13 @@
-Trabutia tonkinensis (Sacc.) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora tonkinensis Sacc., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 355 (1915)
+Syll. fung. (Abellini) 14(2): 669 (1899)
 
 #### Original name
 Phyllachora tonkinensis Sacc., 1899

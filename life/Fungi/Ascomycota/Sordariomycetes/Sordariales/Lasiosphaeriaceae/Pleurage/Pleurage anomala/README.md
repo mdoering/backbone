@@ -1,5 +1,4 @@
-Pleurage anomala Griffiths SPECIES
-=======
+# Pleurage anomala Griffiths SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis kyusyuensis I. Hino & Katum. SPECIES
-=======
+# Micropeltis kyusyuensis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

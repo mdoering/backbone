@@ -1,5 +1,4 @@
-Melampsora ribesii-auritae Kleb. SPECIES
-=======
+# Melampsora ribesii-auritae Kleb. SPECIES
 
 #### Status
 ACCEPTED

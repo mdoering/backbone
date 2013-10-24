@@ -1,5 +1,4 @@
-Collybia pallida Murrill SPECIES
-=======
+# Collybia pallida Murrill SPECIES
 
 #### Status
 ACCEPTED

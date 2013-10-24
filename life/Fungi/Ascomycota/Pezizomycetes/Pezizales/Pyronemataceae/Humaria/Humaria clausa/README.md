@@ -1,5 +1,4 @@
-Humaria clausa Clem. SPECIES
-=======
+# Humaria clausa Clem. SPECIES
 
 #### Status
 ACCEPTED

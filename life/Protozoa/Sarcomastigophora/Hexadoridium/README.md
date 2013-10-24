@@ -1,5 +1,4 @@
-Hexadoridium Haeckel, 1881 GENUS
-=======
+# Hexadoridium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

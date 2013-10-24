@@ -1,5 +1,4 @@
-Sphaeria deformis Fr. SPECIES
-=======
+# Sphaeria deformis Fr. SPECIES
 
 #### Status
 ACCEPTED

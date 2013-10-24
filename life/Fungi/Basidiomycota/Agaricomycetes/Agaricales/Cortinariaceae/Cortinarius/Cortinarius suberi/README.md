@@ -1,17 +1,16 @@
-Cortinarius suberi var. suberi VARIETY
-=======
+# Cortinarius suberi Soop SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Agarica 10/11(no. 19-20): 106 (1990)
 
 #### Original name
-null
+Cortinarius suberi Soop
 
 ### Remarks
 null

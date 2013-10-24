@@ -1,5 +1,4 @@
-Hypocopra brevilineata Munk SPECIES
-=======
+# Hypocopra brevilineata Munk SPECIES
 
 #### Status
 ACCEPTED

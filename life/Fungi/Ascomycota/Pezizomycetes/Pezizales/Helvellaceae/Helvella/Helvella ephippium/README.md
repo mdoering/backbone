@@ -1,17 +1,16 @@
-Leptopodia murina var. murina VARIETY
-=======
+# Helvella ephippium Lév., 1841 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 2 16: 240 (1841)
 
 #### Original name
-Leptopodia murina var. murina
+Helvella ephippium Lév., 1841
 
 ### Remarks
 null

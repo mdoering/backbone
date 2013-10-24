@@ -1,5 +1,4 @@
-Cortinarius danili Rob. Henry, 1943 SPECIES
-=======
+# Cortinarius danili Rob. Henry, 1943 SPECIES
 
 #### Status
 ACCEPTED

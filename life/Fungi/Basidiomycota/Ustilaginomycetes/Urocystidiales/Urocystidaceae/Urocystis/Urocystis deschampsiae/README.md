@@ -1,5 +1,4 @@
-Urocystis deschampsiae Piatek, 2006 SPECIES
-=======
+# Urocystis deschampsiae Piatek, 2006 SPECIES
 
 #### Status
 ACCEPTED

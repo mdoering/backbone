@@ -1,14 +1,13 @@
-Lophodermium arundinaceum var. juncinum Jaap, 1917 VARIETY
-=======
+# Lophodermium juncinum (Jaap) Terrier, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 15(1-2): 103 (1917)
+Beitr. Kryptfl. Schweiz 15(no. 1): 15 (1977)
 
 #### Original name
 Lophodermium arundinaceum var. juncinum Jaap, 1917

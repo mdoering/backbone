@@ -1,5 +1,4 @@
-Amanita microlepis Bas SPECIES
-=======
+# Amanita microlepis Bas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina asperulispora Gaillard SPECIES
-=======
+# Asterina asperulispora Gaillard SPECIES
 
 #### Status
 ACCEPTED

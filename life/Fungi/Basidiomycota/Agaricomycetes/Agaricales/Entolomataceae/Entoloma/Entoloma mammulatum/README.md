@@ -1,5 +1,4 @@
-Entoloma mammulatum Hesler SPECIES
-=======
+# Entoloma mammulatum Hesler SPECIES
 
 #### Status
 ACCEPTED

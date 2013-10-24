@@ -1,5 +1,4 @@
-Puccinia toddaleae Racib. SPECIES
-=======
+# Puccinia toddaleae Racib. SPECIES
 
 #### Status
 ACCEPTED

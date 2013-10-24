@@ -1,5 +1,4 @@
-Tubercularia ailanthi Cooke SPECIES
-=======
+# Tubercularia ailanthi Cooke SPECIES
 
 #### Status
 ACCEPTED

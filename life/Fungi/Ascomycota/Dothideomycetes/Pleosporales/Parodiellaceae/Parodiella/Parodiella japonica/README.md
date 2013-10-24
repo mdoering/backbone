@@ -1,5 +1,4 @@
-Parodiella japonica I. Hino & Katum., 1961 SPECIES
-=======
+# Parodiella japonica I. Hino & Katum., 1961 SPECIES
 
 #### Status
 ACCEPTED

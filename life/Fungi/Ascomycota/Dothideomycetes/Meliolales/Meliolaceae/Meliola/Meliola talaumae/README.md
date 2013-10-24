@@ -1,5 +1,4 @@
-Meliola talaumae Hansf. SPECIES
-=======
+# Meliola talaumae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium cylindricum G.F. Atk. SPECIES
-=======
+# Leptothyrium cylindricum G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

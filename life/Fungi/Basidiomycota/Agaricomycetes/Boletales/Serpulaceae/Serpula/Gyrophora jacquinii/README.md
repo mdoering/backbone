@@ -1,5 +1,4 @@
-Gyrophora jacquinii (J.F. Gmel.) Ach. SPECIES
-=======
+# Gyrophora jacquinii (J.F. Gmel.) Ach. SPECIES
 
 #### Status
 ACCEPTED

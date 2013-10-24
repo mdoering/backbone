@@ -1,5 +1,4 @@
-Myriogloea chilensis (Montagne) Llaña SPECIES
-=======
+# Myriogloea chilensis (Montagne) Llaña SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella cryptosporae Byzova SPECIES
-=======
+# Cercosporella cryptosporae Byzova SPECIES
 
 #### Status
 ACCEPTED

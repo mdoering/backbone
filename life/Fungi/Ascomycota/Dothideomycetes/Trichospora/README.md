@@ -1,5 +1,4 @@
-Trichospora ined. GENUS
-=======
+# Trichospora ined. GENUS
 
 #### Status
 ACCEPTED

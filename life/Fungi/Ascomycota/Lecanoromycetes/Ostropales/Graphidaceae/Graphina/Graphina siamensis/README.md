@@ -1,5 +1,4 @@
-Graphina siamensis (Vain.) Zahlbr. SPECIES
-=======
+# Graphina siamensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

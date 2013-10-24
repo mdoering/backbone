@@ -1,5 +1,4 @@
-Entomorphinoides opposita McCulloch, 1977 SPECIES
-=======
+# Entomorphinoides opposita McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

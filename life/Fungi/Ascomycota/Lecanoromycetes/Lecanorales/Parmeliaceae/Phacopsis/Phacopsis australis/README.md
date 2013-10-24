@@ -1,5 +1,4 @@
-Phacopsis australis Aptroot & Triebel SPECIES
-=======
+# Phacopsis australis Aptroot & Triebel SPECIES
 
 #### Status
 ACCEPTED

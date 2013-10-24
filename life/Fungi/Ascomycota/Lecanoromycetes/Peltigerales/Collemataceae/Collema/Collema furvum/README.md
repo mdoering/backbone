@@ -1,5 +1,4 @@
-Collema furvum f. furvum FORM
-=======
+# Collema furvum (Ach.) DC. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 385 (1805)
 
 #### Original name
-Collema furvum f. furvum
+Lichen furvus Ach.
 
 ### Remarks
 null

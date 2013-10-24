@@ -1,5 +1,4 @@
-Polyporus scabriusculus Berk. SPECIES
-=======
+# Polyporus scabriusculus Berk. SPECIES
 
 #### Status
 ACCEPTED

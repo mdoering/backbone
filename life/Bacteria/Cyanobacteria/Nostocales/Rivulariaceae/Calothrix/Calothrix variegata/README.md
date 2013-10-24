@@ -1,5 +1,4 @@
-Calothrix variegata Zanardini SPECIES
-=======
+# Calothrix variegata Zanardini SPECIES
 
 #### Status
 ACCEPTED

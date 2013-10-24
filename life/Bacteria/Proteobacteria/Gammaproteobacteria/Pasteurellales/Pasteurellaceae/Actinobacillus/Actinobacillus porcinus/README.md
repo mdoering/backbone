@@ -1,5 +1,4 @@
-Actinobacillus porcinus Møller et al., 1996 SPECIES
-=======
+# Actinobacillus porcinus Møller et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

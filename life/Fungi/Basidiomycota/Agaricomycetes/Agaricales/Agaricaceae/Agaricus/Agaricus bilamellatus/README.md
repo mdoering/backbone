@@ -1,5 +1,4 @@
-Agaricus bilamellatus Peck SPECIES
-=======
+# Agaricus bilamellatus Peck SPECIES
 
 #### Status
 ACCEPTED

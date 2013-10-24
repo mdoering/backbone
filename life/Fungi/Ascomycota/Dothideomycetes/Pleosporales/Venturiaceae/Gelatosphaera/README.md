@@ -1,5 +1,4 @@
-Gelatosphaera GENUS
-=======
+# Gelatosphaera GENUS
 
 #### Status
 ACCEPTED

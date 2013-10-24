@@ -1,5 +1,4 @@
-Glomus multiforum Tadych & Blaszk., 1997 SPECIES
-=======
+# Glomus multiforum Tadych & Blaszk., 1997 SPECIES
 
 #### Status
 ACCEPTED

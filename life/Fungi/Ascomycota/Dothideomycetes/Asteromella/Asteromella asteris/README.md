@@ -1,5 +1,4 @@
-Asteromella asteris Peck SPECIES
-=======
+# Asteromella asteris Peck SPECIES
 
 #### Status
 ACCEPTED

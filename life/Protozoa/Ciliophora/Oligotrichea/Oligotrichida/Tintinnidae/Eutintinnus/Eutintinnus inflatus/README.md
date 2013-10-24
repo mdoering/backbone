@@ -1,5 +1,4 @@
-Eutintinnus inflatus SPECIES
-=======
+# Eutintinnus inflatus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis acuminata Vain. SPECIES
-=======
+# Graphis acuminata Vain. SPECIES
 
 #### Status
 ACCEPTED

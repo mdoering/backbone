@@ -1,17 +1,16 @@
-Ustilago braziliensis Zundel SPECIES
-=======
+# Ustilago brasiliensis Zundel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 23(4): 296 (1931)
 
 #### Original name
-Ustilago braziliensis Zundel
+Ustilago brasiliensis Zundel
 
 ### Remarks
 null

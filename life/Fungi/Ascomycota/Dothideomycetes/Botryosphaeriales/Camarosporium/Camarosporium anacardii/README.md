@@ -1,5 +1,4 @@
-Camarosporium anacardii Bat. & Peres SPECIES
-=======
+# Camarosporium anacardii Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

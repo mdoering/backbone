@@ -1,5 +1,4 @@
-Campanella fimbriata Segedin, 1993 SPECIES
-=======
+# Campanella fimbriata Segedin, 1993 SPECIES
 
 #### Status
 ACCEPTED

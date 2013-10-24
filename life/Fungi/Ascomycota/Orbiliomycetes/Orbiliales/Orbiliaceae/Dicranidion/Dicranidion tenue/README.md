@@ -1,5 +1,4 @@
-Dicranidion tenue Matsush. SPECIES
-=======
+# Dicranidion tenue Matsush. SPECIES
 
 #### Status
 ACCEPTED

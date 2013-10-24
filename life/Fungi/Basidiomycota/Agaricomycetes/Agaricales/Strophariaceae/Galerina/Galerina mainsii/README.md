@@ -1,5 +1,4 @@
-Galerina mainsii A.H. Sm. & Singer SPECIES
-=======
+# Galerina mainsii A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

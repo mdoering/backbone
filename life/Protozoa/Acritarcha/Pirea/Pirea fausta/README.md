@@ -1,5 +1,4 @@
-Pirea fausta Fombello-Blanco, 1986 SPECIES
-=======
+# Pirea fausta Fombello-Blanco, 1986 SPECIES
 
 #### Status
 ACCEPTED

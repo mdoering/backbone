@@ -1,5 +1,4 @@
-Leptogium sphinctrinum Nyl. SPECIES
-=======
+# Leptogium sphinctrinum Nyl. SPECIES
 
 #### Status
 ACCEPTED

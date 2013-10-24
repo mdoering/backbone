@@ -1,14 +1,13 @@
-Pseudocercospora chenopodii-ambrosioides (J.M. Yen) U. Braun & R.F. Castañeda SPECIES
-=======
+# Pseudocercospora chenopodii-ambrosioidis (J.M. Yen) U. Braun & R.F. Castañeda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Castañeda Ruiz & Braun, Cryptog. bot. 1(1): 51 (1989)
 
 #### Original name
 Cercospora chenopodii-ambrosioidis J.M. Yen

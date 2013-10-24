@@ -1,5 +1,4 @@
-Dothidea membranacea Ces. SPECIES
-=======
+# Dothidea membranacea Ces. SPECIES
 
 #### Status
 ACCEPTED

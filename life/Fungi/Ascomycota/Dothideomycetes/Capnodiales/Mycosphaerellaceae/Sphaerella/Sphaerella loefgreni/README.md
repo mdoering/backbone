@@ -1,5 +1,4 @@
-Sphaerella loefgreni F. Noack SPECIES
-=======
+# Sphaerella loefgreni F. Noack SPECIES
 
 #### Status
 ACCEPTED

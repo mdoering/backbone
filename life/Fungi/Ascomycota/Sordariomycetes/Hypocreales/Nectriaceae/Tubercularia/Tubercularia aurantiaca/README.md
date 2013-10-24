@@ -1,5 +1,4 @@
-Tubercularia aurantiaca (Bab.) Seifert, 1985 SPECIES
-=======
+# Tubercularia aurantiaca (Bab.) Seifert, 1985 SPECIES
 
 #### Status
 ACCEPTED

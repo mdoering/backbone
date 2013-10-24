@@ -1,5 +1,4 @@
-Entoloma niranjanum Manim., A.V. Joseph & Leelav. SPECIES
-=======
+# Entoloma niranjanum Manim., A.V. Joseph & Leelav. SPECIES
 
 #### Status
 ACCEPTED

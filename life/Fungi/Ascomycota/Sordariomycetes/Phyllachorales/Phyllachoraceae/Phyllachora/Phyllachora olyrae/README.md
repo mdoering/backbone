@@ -1,5 +1,4 @@
-Phyllachora olyrae Rehm, 1897 SPECIES
-=======
+# Phyllachora olyrae Rehm, 1897 SPECIES
 
 #### Status
 ACCEPTED

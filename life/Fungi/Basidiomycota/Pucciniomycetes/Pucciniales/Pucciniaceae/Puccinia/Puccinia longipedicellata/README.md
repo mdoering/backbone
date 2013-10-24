@@ -1,5 +1,4 @@
-Puccinia longipedicellata Barthol. SPECIES
-=======
+# Puccinia longipedicellata Barthol. SPECIES
 
 #### Status
 ACCEPTED

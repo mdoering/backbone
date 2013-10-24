@@ -1,5 +1,4 @@
-Cortinarius subcroceophyllus Rob. Henry SPECIES
-=======
+# Cortinarius subcroceophyllus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

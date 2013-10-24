@@ -1,5 +1,4 @@
-Hendersonulina junci (G. Boyer & Jacz.) Tassi SPECIES
-=======
+# Hendersonulina junci (G. Boyer & Jacz.) Tassi SPECIES
 
 #### Status
 ACCEPTED

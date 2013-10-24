@@ -1,5 +1,4 @@
-Chukchia pedicellata R.T.Wilce, P.M.Pedersen & S.Sekida, 2009 SPECIES
-=======
+# Chukchia pedicellata R.T.Wilce, P.M.Pedersen & S.Sekida, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calopeltis iochromatis (Rehm) Petr. SPECIES
-=======
+# Calopeltis iochromatis (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

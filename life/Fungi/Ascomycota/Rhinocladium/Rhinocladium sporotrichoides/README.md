@@ -1,5 +1,4 @@
-Rhinocladium sporotrichoides Kamyschko SPECIES
-=======
+# Rhinocladium sporotrichoides Kamyschko SPECIES
 
 #### Status
 ACCEPTED

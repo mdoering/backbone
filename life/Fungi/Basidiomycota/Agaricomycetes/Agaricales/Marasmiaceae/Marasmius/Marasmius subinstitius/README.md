@@ -1,5 +1,4 @@
-Marasmius subinstitius Cleland SPECIES
-=======
+# Marasmius subinstitius Cleland SPECIES
 
 #### Status
 ACCEPTED

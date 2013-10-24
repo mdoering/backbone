@@ -1,5 +1,4 @@
-Tympanopsis uniseriata Fitzp. SPECIES
-=======
+# Tympanopsis uniseriata Fitzp. SPECIES
 
 #### Status
 ACCEPTED

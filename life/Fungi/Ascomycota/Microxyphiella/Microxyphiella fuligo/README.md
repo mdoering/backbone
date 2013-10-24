@@ -1,5 +1,4 @@
-Microxyphiella fuligo (Berk. & Desm.) Speg., 1918 SPECIES
-=======
+# Microxyphiella fuligo (Berk. & Desm.) Speg., 1918 SPECIES
 
 #### Status
 ACCEPTED

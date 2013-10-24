@@ -1,5 +1,4 @@
-Agaricus sordido-ochraceus Heinem. SPECIES
-=======
+# Agaricus sordido-ochraceus Heinem. SPECIES
 
 #### Status
 ACCEPTED

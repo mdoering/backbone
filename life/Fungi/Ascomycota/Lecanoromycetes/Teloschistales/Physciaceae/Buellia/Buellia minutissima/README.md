@@ -1,5 +1,4 @@
-Buellia minutissima Lynge SPECIES
-=======
+# Buellia minutissima Lynge SPECIES
 
 #### Status
 ACCEPTED

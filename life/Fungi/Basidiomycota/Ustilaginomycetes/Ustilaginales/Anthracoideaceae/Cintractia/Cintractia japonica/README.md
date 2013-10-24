@@ -1,5 +1,4 @@
-Cintractia japonica Syd. SPECIES
-=======
+# Cintractia japonica Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora planaica Lumbsch SPECIES
-=======
+# Lecanora planaica Lumbsch SPECIES
 
 #### Status
 ACCEPTED

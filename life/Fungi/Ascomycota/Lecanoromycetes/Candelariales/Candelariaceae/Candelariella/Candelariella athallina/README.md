@@ -1,5 +1,4 @@
-Candelariella athallina f. athallina FORM
-=======
+# Candelariella athallina (Wedd.) Du Rietz SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Candelariella athallina f. athallina
+Lecanora vitellina f. athallina Wedd.
 
 ### Remarks
 null

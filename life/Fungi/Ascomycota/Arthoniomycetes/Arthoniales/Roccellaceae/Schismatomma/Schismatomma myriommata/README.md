@@ -1,5 +1,4 @@
-Schismatomma myriommata (C. Knight) Zahlbr. SPECIES
-=======
+# Schismatomma myriommata (C. Knight) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

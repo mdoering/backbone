@@ -1,5 +1,4 @@
-Aposphaeria jubaeae Speg. SPECIES
-=======
+# Aposphaeria jubaeae Speg. SPECIES
 
 #### Status
 ACCEPTED

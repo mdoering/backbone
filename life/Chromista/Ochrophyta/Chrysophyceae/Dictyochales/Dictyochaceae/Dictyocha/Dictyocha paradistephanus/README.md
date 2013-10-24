@@ -1,5 +1,4 @@
-Dictyocha paradistephanus K. Tsumura SPECIES
-=======
+# Dictyocha paradistephanus K. Tsumura SPECIES
 
 #### Status
 ACCEPTED

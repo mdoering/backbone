@@ -1,5 +1,4 @@
-Cenomyce antilopaea var. antilopaea VARIETY
-=======
+# Cenomyce antilopaea Delise SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cenomyce antilopaea var. antilopaea
+Cenomyce antilopaea Delise
 
 ### Remarks
 null

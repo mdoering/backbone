@@ -1,5 +1,4 @@
-Aecidium menyharthi Henn. SPECIES
-=======
+# Aecidium menyharthi Henn. SPECIES
 
 #### Status
 ACCEPTED

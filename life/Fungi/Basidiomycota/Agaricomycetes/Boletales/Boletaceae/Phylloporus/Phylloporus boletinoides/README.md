@@ -1,5 +1,4 @@
-Phylloporus boletinoides A.H. Sm. & Thiers SPECIES
-=======
+# Phylloporus boletinoides A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

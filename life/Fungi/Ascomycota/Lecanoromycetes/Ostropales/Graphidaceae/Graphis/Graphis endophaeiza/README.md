@@ -1,5 +1,4 @@
-Graphis endophaeiza Stirt. SPECIES
-=======
+# Graphis endophaeiza Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula alnicrispae I.L. Brunner SPECIES
-=======
+# Russula alnicrispae I.L. Brunner SPECIES
 
 #### Status
 ACCEPTED

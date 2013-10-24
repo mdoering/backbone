@@ -1,5 +1,4 @@
-Macrophoma urenae (Guillemat) Guillemat SPECIES
-=======
+# Macrophoma urenae (Guillemat) Guillemat SPECIES
 
 #### Status
 ACCEPTED

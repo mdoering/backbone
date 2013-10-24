@@ -1,5 +1,4 @@
-Phlegmacium pinetorum M.M. Moser SPECIES
-=======
+# Phlegmacium pinetorum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

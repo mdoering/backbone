@@ -1,5 +1,4 @@
-Opegrapha melambo Fée SPECIES
-=======
+# Opegrapha melambo Fée SPECIES
 
 #### Status
 ACCEPTED

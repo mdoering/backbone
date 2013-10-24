@@ -1,5 +1,4 @@
-Lasiosordaria indica Tilak & Gaikwad SPECIES
-=======
+# Lasiosordaria indica Tilak & Gaikwad SPECIES
 
 #### Status
 ACCEPTED

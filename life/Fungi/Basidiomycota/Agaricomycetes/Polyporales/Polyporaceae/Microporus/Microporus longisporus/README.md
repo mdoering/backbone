@@ -1,5 +1,4 @@
-Microporus longisporus T. Hatt., 2000 SPECIES
-=======
+# Microporus longisporus T. Hatt., 2000 SPECIES
 
 #### Status
 ACCEPTED

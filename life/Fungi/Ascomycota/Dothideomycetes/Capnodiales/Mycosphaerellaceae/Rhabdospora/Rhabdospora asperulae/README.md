@@ -1,5 +1,4 @@
-Rhabdospora asperulae Sandu & Mítítíuc SPECIES
-=======
+# Rhabdospora asperulae Sandu & Mítítíuc SPECIES
 
 #### Status
 ACCEPTED

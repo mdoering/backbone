@@ -1,5 +1,4 @@
-Stachybotrys havanensis Mercado & J. Mena SPECIES
-=======
+# Stachybotrys havanensis Mercado & J. Mena SPECIES
 
 #### Status
 ACCEPTED

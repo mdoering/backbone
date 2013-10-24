@@ -1,5 +1,4 @@
-Endosphaera Engelmann, 1876 GENUS
-=======
+# Endosphaera Engelmann, 1876 GENUS
 
 #### Status
 ACCEPTED

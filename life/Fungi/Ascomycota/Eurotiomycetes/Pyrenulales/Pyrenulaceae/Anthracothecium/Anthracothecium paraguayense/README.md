@@ -1,5 +1,4 @@
-Anthracothecium paraguayense Malme SPECIES
-=======
+# Anthracothecium paraguayense Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermoascus Miehe, 1907 GENUS
-=======
+# Thermoascus Miehe, 1907 GENUS
 
 #### Status
 ACCEPTED

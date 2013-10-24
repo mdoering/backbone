@@ -1,5 +1,4 @@
-Hebeloma deflectens P. Karst. SPECIES
-=======
+# Hebeloma deflectens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

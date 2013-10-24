@@ -1,5 +1,4 @@
-Agaricus ochrascens Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus ochrascens Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

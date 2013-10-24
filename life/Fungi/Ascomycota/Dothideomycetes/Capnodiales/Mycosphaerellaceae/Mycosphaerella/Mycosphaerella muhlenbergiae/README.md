@@ -1,5 +1,4 @@
-Mycosphaerella muhlenbergiae (Ellis) Wehm. SPECIES
-=======
+# Mycosphaerella muhlenbergiae (Ellis) Wehm. SPECIES
 
 #### Status
 ACCEPTED

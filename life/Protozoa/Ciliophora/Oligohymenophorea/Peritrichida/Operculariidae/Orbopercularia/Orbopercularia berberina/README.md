@@ -1,8 +1,7 @@
-Vorticella berberina (Linnaeus, 1758) Linnaeus, 1767 SPECIES
-=======
+# Orbopercularia berberina (Linnaeus, 1758) Guhl, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

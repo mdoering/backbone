@@ -1,5 +1,4 @@
-Hypoxylon viridirufum (Berk. & Ravenel) Cooke SPECIES
-=======
+# Hypoxylon viridirufum (Berk. & Ravenel) Cooke SPECIES
 
 #### Status
 ACCEPTED

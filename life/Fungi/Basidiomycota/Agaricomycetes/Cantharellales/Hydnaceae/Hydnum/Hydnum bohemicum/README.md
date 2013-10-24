@@ -1,5 +1,4 @@
-Hydnum bohemicum Velen. SPECIES
-=======
+# Hydnum bohemicum Velen. SPECIES
 
 #### Status
 ACCEPTED

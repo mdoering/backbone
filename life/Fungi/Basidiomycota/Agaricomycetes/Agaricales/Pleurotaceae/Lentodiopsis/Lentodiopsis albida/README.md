@@ -1,5 +1,4 @@
-Lentodiopsis albida Bubák SPECIES
-=======
+# Lentodiopsis albida Bubák SPECIES
 
 #### Status
 ACCEPTED

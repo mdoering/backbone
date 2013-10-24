@@ -1,5 +1,4 @@
-Dictyocysta pacifica Kofoid & Campbell, 1929 SPECIES
-=======
+# Dictyocysta pacifica Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

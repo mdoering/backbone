@@ -1,5 +1,4 @@
-Lecidea epichlorotica var. epichlorotica VARIETY
-=======
+# Lecidea epichlorotica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Miss. Sc. Cap Horn, Lich. 164 (1889)
 
 #### Original name
-Lecidea epichlorotica var. epichlorotica
+Lecidea epichlorotica Müll. Arg.
 
 ### Remarks
 null

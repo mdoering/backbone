@@ -1,5 +1,4 @@
-Polysporidiella iranica Petr., 1960 SPECIES
-=======
+# Polysporidiella iranica Petr., 1960 SPECIES
 
 #### Status
 ACCEPTED

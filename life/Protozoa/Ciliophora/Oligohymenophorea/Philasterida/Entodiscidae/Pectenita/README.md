@@ -1,5 +1,4 @@
-Pectenita Yankovskii, 1973 GENUS
-=======
+# Pectenita Yankovskii, 1973 GENUS
 
 #### Status
 ACCEPTED

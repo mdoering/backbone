@@ -1,5 +1,4 @@
-Phyllosticta galinsogae Cejp & Dolej SPECIES
-=======
+# Phyllosticta galinsogae Cejp & Dolej SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyota beccariana Zanardini SPECIES
-=======
+# Dictyota beccariana Zanardini SPECIES
 
 #### Status
 ACCEPTED

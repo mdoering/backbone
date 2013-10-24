@@ -1,8 +1,7 @@
-Actinomadura libanotica Meyer, 1981 SPECIES
-=======
+# Actinocorallia libanotica (Meyer, 1981) Zhang et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

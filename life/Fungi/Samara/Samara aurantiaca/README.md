@@ -1,5 +1,4 @@
-Samara aurantiaca Arn. SPECIES
-=======
+# Samara aurantiaca Arn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenopsis cupaniicola Hansf. SPECIES
-=======
+# Irenopsis cupaniicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

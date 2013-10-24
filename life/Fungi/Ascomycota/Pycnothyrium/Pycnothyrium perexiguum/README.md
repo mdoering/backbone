@@ -1,5 +1,4 @@
-Pycnothyrium perexiguum (Speg.) Arx SPECIES
-=======
+# Pycnothyrium perexiguum (Speg.) Arx SPECIES
 
 #### Status
 ACCEPTED

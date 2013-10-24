@@ -1,14 +1,13 @@
-Doassansia punctiformis G. Winter, 1886 SPECIES
-=======
+# Heterodoassansia punctiformis (G. Winter) Vánky, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 8: 29 (1886)
+Mycotaxon 48: 28 (1993)
 
 #### Original name
 Doassansia punctiformis G. Winter, 1886

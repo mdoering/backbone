@@ -1,5 +1,4 @@
-Caloplaca californica Zahlbr. SPECIES
-=======
+# Caloplaca californica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

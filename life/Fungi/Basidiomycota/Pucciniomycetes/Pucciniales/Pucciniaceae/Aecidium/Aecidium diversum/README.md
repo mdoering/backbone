@@ -1,5 +1,4 @@
-Aecidium diversum J.C. Lindq. SPECIES
-=======
+# Aecidium diversum J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

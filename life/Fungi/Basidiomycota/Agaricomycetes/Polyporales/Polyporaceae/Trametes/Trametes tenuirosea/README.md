@@ -1,17 +1,16 @@
-Trametes tenuo-rosea Lloyd SPECIES
-=======
+# Trametes tenuirosea Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 7(no. 69): 1193 (1923)
 
 #### Original name
-Trametes tenuo-rosea Lloyd
+Trametes tenuirosea Lloyd
 
 ### Remarks
 null

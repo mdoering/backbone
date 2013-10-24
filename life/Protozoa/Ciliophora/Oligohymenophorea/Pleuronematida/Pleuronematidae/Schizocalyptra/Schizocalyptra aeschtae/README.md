@@ -1,5 +1,4 @@
-Schizocalyptra aeschtae Long, Song, Warren, Al-Rasheid, Gong & Chen, 2007 SPECIES
-=======
+# Schizocalyptra aeschtae Long, Song, Warren, Al-Rasheid, Gong & Chen, 2007 SPECIES
 
 #### Status
 ACCEPTED

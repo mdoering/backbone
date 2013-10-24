@@ -1,5 +1,4 @@
-Lepista nudoidea Sathe & S.D. Deshp. SPECIES
-=======
+# Lepista nudoidea Sathe & S.D. Deshp. SPECIES
 
 #### Status
 ACCEPTED

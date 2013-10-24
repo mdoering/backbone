@@ -1,5 +1,4 @@
-Dietelia mesoamericana H.C. Evans & C.A. Ellison, 2005 SPECIES
-=======
+# Dietelia mesoamericana H.C. Evans & C.A. Ellison, 2005 SPECIES
 
 #### Status
 ACCEPTED

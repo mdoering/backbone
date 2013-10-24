@@ -1,5 +1,4 @@
-Amanita flavorubescens G.F. Atk. SPECIES
-=======
+# Amanita flavorubescens G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

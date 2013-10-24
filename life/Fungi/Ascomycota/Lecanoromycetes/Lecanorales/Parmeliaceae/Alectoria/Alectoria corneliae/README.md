@@ -1,5 +1,4 @@
-Alectoria corneliae Gyeln. SPECIES
-=======
+# Alectoria corneliae Gyeln. SPECIES
 
 #### Status
 ACCEPTED

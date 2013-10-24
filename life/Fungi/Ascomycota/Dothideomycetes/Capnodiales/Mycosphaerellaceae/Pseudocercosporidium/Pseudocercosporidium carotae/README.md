@@ -1,14 +1,13 @@
-Acrothecium carotae Årsvoll, 1965 SPECIES
-=======
+# Pseudocercosporidium carotae (Årsvoll) de Hoog & Oorschot, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Agric. scand. 15: 112 (1965)
+Stud. Mycol. 26: 103 (1985)
 
 #### Original name
 Acrothecium carotae Årsvoll, 1965

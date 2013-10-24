@@ -1,5 +1,4 @@
-Macrosporium florigenum Ellis & Dearn. SPECIES
-=======
+# Macrosporium florigenum Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

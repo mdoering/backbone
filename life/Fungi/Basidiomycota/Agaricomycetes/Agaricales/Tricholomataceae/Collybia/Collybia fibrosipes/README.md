@@ -1,5 +1,4 @@
-Collybia fibrosipes (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Collybia fibrosipes (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecanora prevostii var. prevostii VARIETY
-=======
+# Hymenelia prevostii (Duby) Kremp. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 35: 25 (1852)
 
 #### Original name
-Lecanora prevostii var. prevostii
+null
 
 ### Remarks
 null

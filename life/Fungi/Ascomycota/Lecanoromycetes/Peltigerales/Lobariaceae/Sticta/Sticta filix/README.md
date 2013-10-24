@@ -1,17 +1,16 @@
-Sticta filix var. filix (Sw.) Nyl. VARIETY
-=======
+# Sticta filix (Sw.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Linn. Soc. , Bot. 9: 246 (1866)
 
 #### Original name
-Sticta filix var. filix (Sw.) Nyl.
+Lichen filix Sw.
 
 ### Remarks
 null

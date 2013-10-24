@@ -1,5 +1,4 @@
-Septoria jonesii Pammel & H.H. Hume SPECIES
-=======
+# Septoria jonesii Pammel & H.H. Hume SPECIES
 
 #### Status
 ACCEPTED

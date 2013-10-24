@@ -1,17 +1,16 @@
-Clavaria spinulosa subsp. spinulosa SUBSPECIES
-=======
+# Ramaria spinulosa (Pers.) Quél., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Lipsiae) 2: 59 (1800)
+Fl. mycol. France (Paris) 468 (1888)
 
 #### Original name
-Clavaria spinulosa subsp. spinulosa
+Clavaria spinulosa Pers., 1800
 
 ### Remarks
 null

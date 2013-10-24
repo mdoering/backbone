@@ -1,5 +1,4 @@
-Sphaerita trachelomonadis Skvortsov, 1927 SPECIES
-=======
+# Sphaerita trachelomonadis Skvortsov, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza earina Ellis SPECIES
-=======
+# Peziza earina Ellis SPECIES
 
 #### Status
 ACCEPTED

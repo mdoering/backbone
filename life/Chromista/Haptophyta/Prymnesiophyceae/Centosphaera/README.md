@@ -1,5 +1,4 @@
-Centosphaera F.H.Wind & S.W.Wise, 1977 GENUS
-=======
+# Centosphaera F.H.Wind & S.W.Wise, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius stephanopus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius stephanopus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella spinosae Velen. SPECIES
-=======
+# Lachnella spinosae Velen. SPECIES
 
 #### Status
 ACCEPTED

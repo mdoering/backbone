@@ -1,5 +1,4 @@
-Phycorella Döbbeler GENUS
-=======
+# Phycorella Döbbeler GENUS
 
 #### Status
 ACCEPTED

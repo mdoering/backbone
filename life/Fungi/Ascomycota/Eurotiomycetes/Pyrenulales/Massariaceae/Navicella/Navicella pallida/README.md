@@ -1,5 +1,4 @@
-Navicella pallida Aptroot SPECIES
-=======
+# Navicella pallida Aptroot SPECIES
 
 #### Status
 ACCEPTED

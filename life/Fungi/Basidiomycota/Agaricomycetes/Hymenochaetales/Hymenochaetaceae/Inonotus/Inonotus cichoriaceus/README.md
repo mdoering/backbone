@@ -1,5 +1,4 @@
-Inonotus cichoriaceus (Berk.) G. Cunn. SPECIES
-=======
+# Inonotus cichoriaceus (Berk.) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

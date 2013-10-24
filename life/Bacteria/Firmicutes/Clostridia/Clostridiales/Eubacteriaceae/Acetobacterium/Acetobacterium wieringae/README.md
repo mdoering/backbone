@@ -1,5 +1,4 @@
-Acetobacterium wieringae Braun & Gottschalk, 1983 SPECIES
-=======
+# Acetobacterium wieringae Braun & Gottschalk, 1983 SPECIES
 
 #### Status
 ACCEPTED

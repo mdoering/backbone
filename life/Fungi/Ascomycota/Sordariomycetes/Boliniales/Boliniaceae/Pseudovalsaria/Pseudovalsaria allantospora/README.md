@@ -1,5 +1,4 @@
-Pseudovalsaria allantospora (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Pseudovalsaria allantospora (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

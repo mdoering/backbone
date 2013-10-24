@@ -1,5 +1,4 @@
-Uromyces pentaceae D.K. Agarwal, 2003 SPECIES
-=======
+# Uromyces pentaceae D.K. Agarwal, 2003 SPECIES
 
 #### Status
 ACCEPTED

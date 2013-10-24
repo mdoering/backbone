@@ -1,5 +1,4 @@
-Ustilago megalospora (Riess) Cif. SPECIES
-=======
+# Ustilago megalospora (Riess) Cif. SPECIES
 
 #### Status
 ACCEPTED

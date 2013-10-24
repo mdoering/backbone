@@ -1,5 +1,4 @@
-Galactomyces candidus de Hoog & M.T. Sm. SPECIES
-=======
+# Galactomyces candidus de Hoog & M.T. Sm. SPECIES
 
 #### Status
 ACCEPTED

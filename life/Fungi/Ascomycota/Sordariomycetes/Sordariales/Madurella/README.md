@@ -1,5 +1,4 @@
-Madurella Brumpt, 1905 GENUS
-=======
+# Madurella Brumpt, 1905 GENUS
 
 #### Status
 ACCEPTED

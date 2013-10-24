@@ -1,5 +1,4 @@
-Hyalacrotes pseudopani (Hosoya) Raitv. SPECIES
-=======
+# Hyalacrotes pseudopani (Hosoya) Raitv. SPECIES
 
 #### Status
 ACCEPTED

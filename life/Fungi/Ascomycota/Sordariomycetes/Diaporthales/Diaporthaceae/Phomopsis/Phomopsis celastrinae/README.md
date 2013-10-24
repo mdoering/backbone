@@ -1,5 +1,4 @@
-Phomopsis celastrinae (Cooke) Bubák & Kabát SPECIES
-=======
+# Phomopsis celastrinae (Cooke) Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia punctiformis Fr. SPECIES
-=======
+# Vermicularia punctiformis Fr. SPECIES
 
 #### Status
 ACCEPTED

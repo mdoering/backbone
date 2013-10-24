@@ -1,5 +1,4 @@
-Urceolaria porphyrica Motyka SPECIES
-=======
+# Urceolaria porphyrica Motyka SPECIES
 
 #### Status
 ACCEPTED

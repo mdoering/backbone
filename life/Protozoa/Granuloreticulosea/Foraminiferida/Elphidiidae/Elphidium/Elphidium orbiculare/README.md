@@ -1,5 +1,4 @@
-Elphidium orbiculare SPECIES
-=======
+# Elphidium orbiculare SPECIES
 
 #### Status
 ACCEPTED

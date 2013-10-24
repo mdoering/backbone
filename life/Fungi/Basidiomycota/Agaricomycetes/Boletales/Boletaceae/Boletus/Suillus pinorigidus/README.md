@@ -1,5 +1,4 @@
-Suillus pinorigidus Snell & E.A. Dick, 1956 SPECIES
-=======
+# Suillus pinorigidus Snell & E.A. Dick, 1956 SPECIES
 
 #### Status
 DOUBTFUL

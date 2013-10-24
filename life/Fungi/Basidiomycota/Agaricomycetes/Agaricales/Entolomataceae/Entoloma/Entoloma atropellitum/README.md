@@ -1,5 +1,4 @@
-Entoloma atropellitum (J. Favre) Bon & Courtec. SPECIES
-=======
+# Entoloma atropellitum (J. Favre) Bon & Courtec. SPECIES
 
 #### Status
 ACCEPTED

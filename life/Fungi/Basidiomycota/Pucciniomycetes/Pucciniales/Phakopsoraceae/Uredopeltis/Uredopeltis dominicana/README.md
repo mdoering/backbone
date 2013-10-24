@@ -1,14 +1,13 @@
-Baeodromus dominicana (F. Kern) Thirum. & F. Kern, 1949 SPECIES
-=======
+# Uredopeltis dominicana (F. Kern) Buriticá & J.F. Hennen, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 41(3): 284 (1949)
+in Buriticá, Revta Acad. colomb. cienc. exact. fís. nat. 22(no. 84): 330 (1998)
 
 #### Original name
 Phakopsora dominicana F. Kern, 1928

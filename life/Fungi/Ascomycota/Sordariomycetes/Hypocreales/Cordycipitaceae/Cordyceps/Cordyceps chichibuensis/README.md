@@ -1,5 +1,4 @@
-Cordyceps chichibuensis Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps chichibuensis Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

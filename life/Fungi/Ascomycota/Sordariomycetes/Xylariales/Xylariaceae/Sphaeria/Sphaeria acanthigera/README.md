@@ -1,5 +1,4 @@
-Sphaeria acanthigera Berk. & Broome SPECIES
-=======
+# Sphaeria acanthigera Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

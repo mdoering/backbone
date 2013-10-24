@@ -1,5 +1,4 @@
-Endogone lactiflua Berk., 1846 SPECIES
-=======
+# Endogone lactiflua Berk., 1846 SPECIES
 
 #### Status
 ACCEPTED

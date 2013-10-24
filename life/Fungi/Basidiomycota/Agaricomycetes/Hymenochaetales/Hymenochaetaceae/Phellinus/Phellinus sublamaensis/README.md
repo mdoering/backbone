@@ -1,14 +1,13 @@
-Fomes sublamaensis Lloyd, 1922 SPECIES
-=======
+# Phellinus sublamaensis (Lloyd) Ryvarden, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1128 (1922)
+Mycotaxon 35(2): 235 (1989)
 
 #### Original name
 Fomes sublamaensis Lloyd, 1922

@@ -1,5 +1,4 @@
-Postendothyra Lin, 1984 GENUS
-=======
+# Postendothyra Lin, 1984 GENUS
 
 #### Status
 ACCEPTED

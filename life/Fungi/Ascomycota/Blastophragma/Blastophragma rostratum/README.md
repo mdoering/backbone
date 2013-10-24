@@ -1,17 +1,16 @@
-Blastophragma rostrata Subram. SPECIES
-=======
+# Blastophragma rostratum Subram. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 20/21(1-2): 57 (1995)
 
 #### Original name
-Blastophragma rostrata Subram.
+Blastophragma rostratum Subram.
 
 ### Remarks
 null

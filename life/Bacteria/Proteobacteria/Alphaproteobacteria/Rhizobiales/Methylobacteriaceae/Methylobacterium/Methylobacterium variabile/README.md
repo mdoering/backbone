@@ -1,5 +1,4 @@
-Methylobacterium variabile Gallego et al., 2005 SPECIES
-=======
+# Methylobacterium variabile Gallego et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

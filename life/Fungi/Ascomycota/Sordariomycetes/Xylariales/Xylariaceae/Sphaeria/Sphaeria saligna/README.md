@@ -1,5 +1,4 @@
-Sphaeria saligna Ehrenb. SPECIES
-=======
+# Sphaeria saligna Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

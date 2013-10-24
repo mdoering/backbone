@@ -1,5 +1,4 @@
-Russula puiggarii (Speg.) Singer SPECIES
-=======
+# Russula puiggarii (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe subleiospora Hauskn. SPECIES
-=======
+# Conocybe subleiospora Hauskn. SPECIES
 
 #### Status
 ACCEPTED

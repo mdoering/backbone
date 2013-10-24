@@ -1,5 +1,4 @@
-Puccinia manangensis Durrieu SPECIES
-=======
+# Puccinia manangensis Durrieu SPECIES
 
 #### Status
 ACCEPTED

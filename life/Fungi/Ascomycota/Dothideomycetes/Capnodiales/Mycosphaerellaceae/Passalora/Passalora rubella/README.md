@@ -1,5 +1,4 @@
-Passalora rubella (Cooke) U. Braun & Crous SPECIES
-=======
+# Passalora rubella (Cooke) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amazonia daphniphylli M.S. Patil SPECIES
-=======
+# Amazonia daphniphylli M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

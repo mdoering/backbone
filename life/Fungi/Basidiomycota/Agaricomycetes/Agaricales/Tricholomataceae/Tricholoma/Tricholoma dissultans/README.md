@@ -1,5 +1,4 @@
-Tricholoma dissultans P. Karst. SPECIES
-=======
+# Tricholoma dissultans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

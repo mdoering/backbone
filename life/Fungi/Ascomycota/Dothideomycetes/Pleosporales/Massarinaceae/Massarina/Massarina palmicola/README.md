@@ -1,5 +1,4 @@
-Massarina palmicola K.D. Hyde & Aptroot SPECIES
-=======
+# Massarina palmicola K.D. Hyde & Aptroot SPECIES
 
 #### Status
 ACCEPTED

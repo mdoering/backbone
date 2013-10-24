@@ -1,5 +1,4 @@
-Didymosphaeria enormis Grove, 1930 SPECIES
-=======
+# Didymosphaeria enormis Grove, 1930 SPECIES
 
 #### Status
 ACCEPTED

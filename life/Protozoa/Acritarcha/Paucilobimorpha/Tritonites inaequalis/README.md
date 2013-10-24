@@ -1,5 +1,4 @@
-Tritonites inaequalis Marshall & Partridge, 1988 SPECIES
-=======
+# Tritonites inaequalis Marshall & Partridge, 1988 SPECIES
 
 #### Status
 DOUBTFUL

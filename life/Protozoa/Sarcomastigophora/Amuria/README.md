@@ -1,5 +1,4 @@
-Amuria Whalen & Carter, 1998 GENUS
-=======
+# Amuria Whalen & Carter, 1998 GENUS
 
 #### Status
 ACCEPTED

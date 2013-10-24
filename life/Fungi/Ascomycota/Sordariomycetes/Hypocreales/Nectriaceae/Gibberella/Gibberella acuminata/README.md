@@ -1,17 +1,16 @@
-Fusarium acuminatum subsp. acuminatum Ellis & Everh. SUBSPECIES
-=======
+# Gibberella acuminata Wollenw., 1943 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Acad. nat. Sci. Philad. 47: 441 (1895)
+Zentbl. Bakt. ParasitKde, Abt. II 106: 190 (1943)
 
 #### Original name
-Fusarium acuminatum subsp. acuminatum Ellis & Everh.
+Gibberella acuminata Wollenw., 1943
 
 ### Remarks
 null

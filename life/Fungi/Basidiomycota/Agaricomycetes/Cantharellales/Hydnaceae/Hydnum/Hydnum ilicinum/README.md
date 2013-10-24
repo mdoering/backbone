@@ -1,5 +1,4 @@
-Hydnum ilicinum Fr. SPECIES
-=======
+# Hydnum ilicinum Fr. SPECIES
 
 #### Status
 ACCEPTED

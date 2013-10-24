@@ -1,5 +1,4 @@
-Pluteus variabilicolor Babos SPECIES
-=======
+# Pluteus variabilicolor Babos SPECIES
 
 #### Status
 ACCEPTED

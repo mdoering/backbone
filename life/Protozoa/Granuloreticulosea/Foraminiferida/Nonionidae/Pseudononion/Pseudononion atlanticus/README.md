@@ -1,5 +1,4 @@
-Pseudononion atlanticus SPECIES
-=======
+# Pseudononion atlanticus SPECIES
 
 #### Status
 ACCEPTED

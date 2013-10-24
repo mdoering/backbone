@@ -1,5 +1,4 @@
-Stigmatomyces pinguis Thaxt. SPECIES
-=======
+# Stigmatomyces pinguis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

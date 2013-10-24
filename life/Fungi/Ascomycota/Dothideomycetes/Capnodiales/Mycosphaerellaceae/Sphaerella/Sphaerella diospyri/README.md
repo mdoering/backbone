@@ -1,5 +1,4 @@
-Sphaerella diospyri (Syd. & P. Syd.) Sacc. SPECIES
-=======
+# Sphaerella diospyri (Syd. & P. Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

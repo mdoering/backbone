@@ -1,5 +1,4 @@
-Cornumyces M.W. Dick GENUS
-=======
+# Cornumyces M.W. Dick GENUS
 
 #### Status
 ACCEPTED

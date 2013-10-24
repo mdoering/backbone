@@ -1,5 +1,4 @@
-Helvella jiaohensis J.Z. Cao, L. Fan & B. Liu SPECIES
-=======
+# Helvella jiaohensis J.Z. Cao, L. Fan & B. Liu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe fuliginea Beeli SPECIES
-=======
+# Clitocybe fuliginea Beeli SPECIES
 
 #### Status
 ACCEPTED

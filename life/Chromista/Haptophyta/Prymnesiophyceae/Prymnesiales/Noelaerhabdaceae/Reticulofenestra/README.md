@@ -1,5 +1,4 @@
-Reticulofenestra W.W.Hay, Mohler & M.Wade, 1966 GENUS
-=======
+# Reticulofenestra W.W.Hay, Mohler & M.Wade, 1966 GENUS
 
 #### Status
 ACCEPTED

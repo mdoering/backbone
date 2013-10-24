@@ -1,5 +1,4 @@
-Macrophoma sinensis Pass. SPECIES
-=======
+# Macrophoma sinensis Pass. SPECIES
 
 #### Status
 ACCEPTED

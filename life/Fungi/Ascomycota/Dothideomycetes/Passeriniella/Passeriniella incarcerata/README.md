@@ -1,8 +1,7 @@
-Heptameria incarcerata (Berk. & M.A. Curtis) Cooke, 1889 SPECIES
-=======
+# Passeriniella incarcerata (Berk. & M.A. Curtis) Berl., 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Sphaeria incarcerata Desm., 1846
 
 ### Remarks
 null

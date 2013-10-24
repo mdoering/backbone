@@ -1,5 +1,4 @@
-Usnea papillata Motyka SPECIES
-=======
+# Usnea papillata Motyka SPECIES
 
 #### Status
 ACCEPTED

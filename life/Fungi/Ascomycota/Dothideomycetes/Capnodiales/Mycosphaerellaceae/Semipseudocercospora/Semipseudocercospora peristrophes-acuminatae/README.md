@@ -1,14 +1,13 @@
-Cercospora peristrophes-acuminatae J.M. Yen, 1964 SPECIES
-=======
+# Semipseudocercospora peristrophes-acuminatae (J.M. Yen) J.M. Yen, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 29: 234 (1964)
+Mycotaxon 17: 363 (1983)
 
 #### Original name
 Cercospora peristrophes-acuminatae J.M. Yen, 1964

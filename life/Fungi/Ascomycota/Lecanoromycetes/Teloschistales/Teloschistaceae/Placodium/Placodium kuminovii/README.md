@@ -1,5 +1,4 @@
-Placodium kuminovii Sedeln. SPECIES
-=======
+# Placodium kuminovii Sedeln. SPECIES
 
 #### Status
 ACCEPTED

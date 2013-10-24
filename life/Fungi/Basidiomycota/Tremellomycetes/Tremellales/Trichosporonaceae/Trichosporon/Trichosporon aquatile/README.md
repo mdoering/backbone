@@ -1,5 +1,4 @@
-Trichosporon aquatile L.R. Hedrick & P.D. Dupont SPECIES
-=======
+# Trichosporon aquatile L.R. Hedrick & P.D. Dupont SPECIES
 
 #### Status
 ACCEPTED

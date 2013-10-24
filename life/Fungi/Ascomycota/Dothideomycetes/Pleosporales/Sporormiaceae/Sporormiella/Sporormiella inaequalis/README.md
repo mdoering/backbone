@@ -1,5 +1,4 @@
-Sporormiella inaequalis S.I. Ahmed & Asad SPECIES
-=======
+# Sporormiella inaequalis S.I. Ahmed & Asad SPECIES
 
 #### Status
 ACCEPTED

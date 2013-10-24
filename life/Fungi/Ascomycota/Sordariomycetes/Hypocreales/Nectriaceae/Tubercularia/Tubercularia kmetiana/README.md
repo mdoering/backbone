@@ -1,5 +1,4 @@
-Tubercularia kmetiana Bäumler SPECIES
-=======
+# Tubercularia kmetiana Bäumler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapesia pseudotapesia Velen. SPECIES
-=======
+# Tapesia pseudotapesia Velen. SPECIES
 
 #### Status
 ACCEPTED

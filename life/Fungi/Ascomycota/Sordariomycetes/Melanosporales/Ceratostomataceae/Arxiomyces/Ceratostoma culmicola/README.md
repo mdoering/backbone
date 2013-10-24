@@ -1,5 +1,4 @@
-Ceratostoma culmicola Sacc. SPECIES
-=======
+# Ceratostoma culmicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

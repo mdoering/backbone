@@ -1,5 +1,4 @@
-Favolaschia magnifica Henn. SPECIES
-=======
+# Favolaschia magnifica Henn. SPECIES
 
 #### Status
 ACCEPTED

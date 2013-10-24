@@ -1,17 +1,16 @@
-Mastomyces Mont. GENUS
-=======
+# Topospora E.M. Fries, 1836 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 10: 134 (1848)
+null
 
 #### Original name
-Mastomyces Mont.
+null
 
 ### Remarks
 null

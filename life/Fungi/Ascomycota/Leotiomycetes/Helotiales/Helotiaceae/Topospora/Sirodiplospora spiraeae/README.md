@@ -1,5 +1,4 @@
-Sirodiplospora spiraeae Lebedeva SPECIES
-=======
+# Sirodiplospora spiraeae Lebedeva SPECIES
 
 #### Status
 ACCEPTED

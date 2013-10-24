@@ -1,5 +1,4 @@
-Millisia Soddell et al., 2006 GENUS
-=======
+# Millisia Soddell et al., 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusichalara dimorphospora S. Hughes & Nag Raj, 1973 SPECIES
-=======
+# Fusichalara dimorphospora S. Hughes & Nag Raj, 1973 SPECIES
 
 #### Status
 ACCEPTED

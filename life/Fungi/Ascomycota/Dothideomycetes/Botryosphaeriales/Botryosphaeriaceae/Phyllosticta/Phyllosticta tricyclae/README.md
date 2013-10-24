@@ -1,5 +1,4 @@
-Phyllosticta tricyclae Speg. SPECIES
-=======
+# Phyllosticta tricyclae Speg. SPECIES
 
 #### Status
 ACCEPTED

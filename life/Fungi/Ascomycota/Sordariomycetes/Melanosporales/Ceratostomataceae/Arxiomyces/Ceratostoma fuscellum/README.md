@@ -1,5 +1,4 @@
-Ceratostoma fuscellum P. Karst. SPECIES
-=======
+# Ceratostoma fuscellum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

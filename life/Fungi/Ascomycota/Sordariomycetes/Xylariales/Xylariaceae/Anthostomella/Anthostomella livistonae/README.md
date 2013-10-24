@@ -1,5 +1,4 @@
-Anthostomella livistonae Girz. SPECIES
-=======
+# Anthostomella livistonae Girz. SPECIES
 
 #### Status
 ACCEPTED

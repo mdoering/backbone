@@ -1,5 +1,4 @@
-Acarospora persica (J. Steiner) Hue SPECIES
-=======
+# Acarospora persica (J. Steiner) Hue SPECIES
 
 #### Status
 ACCEPTED

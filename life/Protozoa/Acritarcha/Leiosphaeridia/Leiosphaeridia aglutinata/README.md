@@ -1,5 +1,4 @@
-Leiosphaeridia aglutinata Venkatachala et al., 1974 SPECIES
-=======
+# Leiosphaeridia aglutinata Venkatachala et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

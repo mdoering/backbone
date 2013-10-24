@@ -1,5 +1,4 @@
-Xylaria musooriensis Dargan SPECIES
-=======
+# Xylaria musooriensis Dargan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis pithya Lind. {?} SPECIES
-=======
+# Phomopsis pithya Lind. {?} SPECIES
 
 #### Status
 ACCEPTED

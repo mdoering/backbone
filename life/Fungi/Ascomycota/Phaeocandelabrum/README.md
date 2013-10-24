@@ -1,5 +1,4 @@
-Phaeocandelabrum R.F. Castañeda, Heredia, Saikawa GENUS
-=======
+# Phaeocandelabrum R.F. Castañeda, Heredia, Saikawa GENUS
 
 #### Status
 ACCEPTED

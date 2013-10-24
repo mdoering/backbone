@@ -1,5 +1,4 @@
-Stragularia spongiocarpa (Batters) G. Hamel SPECIES
-=======
+# Stragularia spongiocarpa (Batters) G. Hamel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyocha bachmannii P. Dumitrica SPECIES
-=======
+# Dictyocha bachmannii P. Dumitrica SPECIES
 
 #### Status
 ACCEPTED

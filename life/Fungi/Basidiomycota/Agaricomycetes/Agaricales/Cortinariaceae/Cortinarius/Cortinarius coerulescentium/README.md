@@ -1,17 +1,16 @@
-Cortinarius coerulescentinus Rob. Henry SPECIES
-=======
+# Cortinarius coerulescentium Rob. Henry, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 66(3): 283 (1952)
 
 #### Original name
-Cortinarius coerulescentinus Rob. Henry
+Cortinarius coerulescentium Rob. Henry, 1952
 
 ### Remarks
 null

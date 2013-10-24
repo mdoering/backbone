@@ -1,5 +1,4 @@
-Aecidium delphinii-consolidae Hollós SPECIES
-=======
+# Aecidium delphinii-consolidae Hollós SPECIES
 
 #### Status
 ACCEPTED

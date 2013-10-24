@@ -1,5 +1,4 @@
-Basidiosporites ellipsoideus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Basidiosporites ellipsoideus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

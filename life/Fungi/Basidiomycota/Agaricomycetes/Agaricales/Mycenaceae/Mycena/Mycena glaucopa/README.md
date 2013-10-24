@@ -1,5 +1,4 @@
-Mycena glaucopa Velen. SPECIES
-=======
+# Mycena glaucopa Velen. SPECIES
 
 #### Status
 ACCEPTED

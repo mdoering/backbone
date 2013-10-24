@@ -1,5 +1,4 @@
-Psathyrella distantifolia Murrill SPECIES
-=======
+# Psathyrella distantifolia Murrill SPECIES
 
 #### Status
 ACCEPTED

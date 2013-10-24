@@ -1,5 +1,4 @@
-Phialea tuberosa Gillet SPECIES
-=======
+# Phialea tuberosa Gillet SPECIES
 
 #### Status
 ACCEPTED

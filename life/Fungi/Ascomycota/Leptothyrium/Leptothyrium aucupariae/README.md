@@ -1,5 +1,4 @@
-Leptothyrium aucupariae Kabát & Bubák SPECIES
-=======
+# Leptothyrium aucupariae Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria buddleiae Gucevic SPECIES
-=======
+# Aposphaeria buddleiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

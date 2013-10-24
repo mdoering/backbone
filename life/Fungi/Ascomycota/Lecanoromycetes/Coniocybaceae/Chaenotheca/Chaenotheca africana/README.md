@@ -1,5 +1,4 @@
-Chaenotheca africana (Zahlbr.) Nádv. SPECIES
-=======
+# Chaenotheca africana (Zahlbr.) Nádv. SPECIES
 
 #### Status
 ACCEPTED

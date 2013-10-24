@@ -1,5 +1,4 @@
-Septoria apocyni Khokhr. SPECIES
-=======
+# Septoria apocyni Khokhr. SPECIES
 
 #### Status
 ACCEPTED

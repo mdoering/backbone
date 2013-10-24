@@ -1,5 +1,4 @@
-Orthosorus atomarius Trevisan SPECIES
-=======
+# Orthosorus atomarius Trevisan SPECIES
 
 #### Status
 ACCEPTED

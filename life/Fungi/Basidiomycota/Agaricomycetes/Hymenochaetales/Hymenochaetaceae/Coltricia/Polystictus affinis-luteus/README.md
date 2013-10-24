@@ -1,5 +1,4 @@
-Polystictus affinis-luteus Lloyd SPECIES
-=======
+# Polystictus affinis-luteus Lloyd SPECIES
 
 #### Status
 ACCEPTED

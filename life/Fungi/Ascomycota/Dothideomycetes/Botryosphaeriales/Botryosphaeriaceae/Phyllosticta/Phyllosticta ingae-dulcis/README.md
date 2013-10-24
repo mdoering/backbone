@@ -1,5 +1,4 @@
-Phyllosticta ingae-dulcis Died. SPECIES
-=======
+# Phyllosticta ingae-dulcis Died. SPECIES
 
 #### Status
 ACCEPTED

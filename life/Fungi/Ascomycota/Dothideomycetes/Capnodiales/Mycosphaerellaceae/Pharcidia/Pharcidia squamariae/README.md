@@ -1,5 +1,4 @@
-Pharcidia squamariae B. de Lesd. SPECIES
-=======
+# Pharcidia squamariae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podosporium furcatum R. Sharma & Panwar SPECIES
-=======
+# Podosporium furcatum R. Sharma & Panwar SPECIES
 
 #### Status
 ACCEPTED

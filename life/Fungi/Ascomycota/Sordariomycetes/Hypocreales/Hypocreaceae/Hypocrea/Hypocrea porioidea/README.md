@@ -1,5 +1,4 @@
-Hypocrea porioidea Henn. SPECIES
-=======
+# Hypocrea porioidea Henn. SPECIES
 
 #### Status
 ACCEPTED

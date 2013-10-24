@@ -1,5 +1,4 @@
-Hysterostoma pavettae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Hysterostoma pavettae T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

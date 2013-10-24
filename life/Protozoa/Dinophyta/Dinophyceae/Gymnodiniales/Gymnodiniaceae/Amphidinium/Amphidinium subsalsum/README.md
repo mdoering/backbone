@@ -1,5 +1,4 @@
-Amphidinium subsalsum Beicheler, 1952 SPECIES
-=======
+# Amphidinium subsalsum Beicheler, 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphagnomphalia GENUS
-=======
+# Sphagnomphalia GENUS
 
 #### Status
 ACCEPTED

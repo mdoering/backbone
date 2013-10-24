@@ -1,5 +1,4 @@
-Fungus illotus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus illotus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

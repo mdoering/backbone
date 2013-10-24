@@ -1,5 +1,4 @@
-Marasmius hypophaeus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius hypophaeus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

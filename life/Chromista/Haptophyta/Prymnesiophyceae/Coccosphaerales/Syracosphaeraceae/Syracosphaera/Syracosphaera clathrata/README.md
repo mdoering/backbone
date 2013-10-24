@@ -1,5 +1,4 @@
-Syracosphaera clathrata Roth & Hay in Hay et al., 1967 SPECIES
-=======
+# Syracosphaera clathrata Roth & Hay in Hay et al., 1967 SPECIES
 
 #### Status
 ACCEPTED

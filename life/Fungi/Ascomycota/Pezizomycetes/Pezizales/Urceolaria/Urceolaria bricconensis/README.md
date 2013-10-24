@@ -1,5 +1,4 @@
-Urceolaria bricconensis (Hue) Motyka SPECIES
-=======
+# Urceolaria bricconensis (Hue) Motyka SPECIES
 
 #### Status
 ACCEPTED

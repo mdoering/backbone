@@ -1,5 +1,4 @@
-Diplopeltis GENUS
-=======
+# Diplopeltis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lalaria robinsoniana R.T. Moore SPECIES
-=======
+# Lalaria robinsoniana R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

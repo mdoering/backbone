@@ -1,5 +1,4 @@
-Lycoperdon bispinosum Yasuda SPECIES
-=======
+# Lycoperdon bispinosum Yasuda SPECIES
 
 #### Status
 ACCEPTED

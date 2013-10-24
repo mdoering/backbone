@@ -1,5 +1,4 @@
-Halothrix coccophorae Ohta SPECIES
-=======
+# Halothrix coccophorae Ohta SPECIES
 
 #### Status
 ACCEPTED

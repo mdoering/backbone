@@ -1,5 +1,4 @@
-Penicillium bainieri Sacc. SPECIES
-=======
+# Penicillium bainieri Sacc. SPECIES
 
 #### Status
 ACCEPTED

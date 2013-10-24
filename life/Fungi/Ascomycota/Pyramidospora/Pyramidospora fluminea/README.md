@@ -1,5 +1,4 @@
-Pyramidospora fluminea Miura & K.I. Kudo SPECIES
-=======
+# Pyramidospora fluminea Miura & K.I. Kudo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocybe davisii (Peck) Murrill SPECIES
-=======
+# Hydrocybe davisii (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

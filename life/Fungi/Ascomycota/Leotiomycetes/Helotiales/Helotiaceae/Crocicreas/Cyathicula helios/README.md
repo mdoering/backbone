@@ -1,5 +1,4 @@
-Cyathicula helios (Penz. & Sacc.) Korf SPECIES
-=======
+# Cyathicula helios (Penz. & Sacc.) Korf SPECIES
 
 #### Status
 ACCEPTED

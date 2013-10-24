@@ -1,5 +1,4 @@
-Flabellites oblonga (Bukry, 1969) Crux in Crux et al., 1982 SPECIES
-=======
+# Flabellites oblonga (Bukry, 1969) Crux in Crux et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

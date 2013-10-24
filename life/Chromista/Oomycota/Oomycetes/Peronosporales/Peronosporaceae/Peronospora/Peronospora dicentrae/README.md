@@ -1,5 +1,4 @@
-Peronospora dicentrae Syd., 1923 SPECIES
-=======
+# Peronospora dicentrae Syd., 1923 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Peziza mellea Cooke & Plowr. SPECIES
-=======
+# Aleuria mellea (Cooke & Plowr.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

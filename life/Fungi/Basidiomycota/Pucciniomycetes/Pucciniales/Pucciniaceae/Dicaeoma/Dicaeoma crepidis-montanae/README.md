@@ -1,5 +1,4 @@
-Dicaeoma crepidis-montanae (Syd. & P. Syd.) Arthur SPECIES
-=======
+# Dicaeoma crepidis-montanae (Syd. & P. Syd.) Arthur SPECIES
 
 #### Status
 ACCEPTED

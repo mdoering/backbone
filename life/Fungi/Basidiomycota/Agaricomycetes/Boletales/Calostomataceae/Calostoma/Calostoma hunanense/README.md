@@ -1,5 +1,4 @@
-Calostoma hunanense B. Liu & Y.B. Peng SPECIES
-=======
+# Calostoma hunanense B. Liu & Y.B. Peng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma millepunctata (Penz.) Berl. & Voglino SPECIES
-=======
+# Macrophoma millepunctata (Penz.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

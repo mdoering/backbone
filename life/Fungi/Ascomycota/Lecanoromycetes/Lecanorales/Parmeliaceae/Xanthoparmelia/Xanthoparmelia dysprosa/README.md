@@ -1,5 +1,4 @@
-Xanthoparmelia dysprosa Brusse & M. D. E. Knox SPECIES
-=======
+# Xanthoparmelia dysprosa Brusse & M. D. E. Knox SPECIES
 
 #### Status
 ACCEPTED

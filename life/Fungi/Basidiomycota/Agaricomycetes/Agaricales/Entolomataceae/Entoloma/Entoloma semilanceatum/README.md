@@ -1,5 +1,4 @@
-Entoloma semilanceatum (Romagn.) E. Horak SPECIES
-=======
+# Entoloma semilanceatum (Romagn.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

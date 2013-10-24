@@ -1,5 +1,4 @@
-Mycena contulmensis Garrido SPECIES
-=======
+# Mycena contulmensis Garrido SPECIES
 
 #### Status
 ACCEPTED

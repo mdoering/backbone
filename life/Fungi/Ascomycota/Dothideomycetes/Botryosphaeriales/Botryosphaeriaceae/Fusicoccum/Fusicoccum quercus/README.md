@@ -1,5 +1,4 @@
-Fusicoccum quercus Oudem., 1894 SPECIES
-=======
+# Fusicoccum quercus Oudem., 1894 SPECIES
 
 #### Status
 ACCEPTED

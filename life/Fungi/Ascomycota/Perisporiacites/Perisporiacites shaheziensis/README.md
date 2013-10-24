@@ -1,5 +1,4 @@
-Perisporiacites shaheziensis S.L. Zheng & W. Zhang SPECIES
-=======
+# Perisporiacites shaheziensis S.L. Zheng & W. Zhang SPECIES
 
 #### Status
 ACCEPTED

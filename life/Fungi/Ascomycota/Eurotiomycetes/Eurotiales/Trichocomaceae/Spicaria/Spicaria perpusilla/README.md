@@ -1,5 +1,4 @@
-Spicaria perpusilla Speg. SPECIES
-=======
+# Spicaria perpusilla Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia injucunda (Vain.) H. Magn. SPECIES
-=======
+# Buellia injucunda (Vain.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

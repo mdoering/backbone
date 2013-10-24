@@ -1,5 +1,4 @@
-Hygrocybe striatella Singer SPECIES
-=======
+# Hygrocybe striatella Singer SPECIES
 
 #### Status
 ACCEPTED

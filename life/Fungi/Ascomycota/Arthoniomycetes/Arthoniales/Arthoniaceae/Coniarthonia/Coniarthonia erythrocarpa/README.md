@@ -1,17 +1,16 @@
-Arthonia erythrocarpa var. erythrocarpa VARIETY
-=======
+# Coniarthonia erythrocarpa (Vain.) Grube SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 33(6): 495 (2001)
 
 #### Original name
-Arthonia erythrocarpa var. erythrocarpa
+Arthonia erythrocarpa Vain.
 
 ### Remarks
 null

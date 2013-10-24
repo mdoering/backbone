@@ -1,5 +1,4 @@
-Stagonospora smilacis (Ellis & G. Martin) Sacc. SPECIES
-=======
+# Stagonospora smilacis (Ellis & G. Martin) Sacc. SPECIES
 
 #### Status
 ACCEPTED

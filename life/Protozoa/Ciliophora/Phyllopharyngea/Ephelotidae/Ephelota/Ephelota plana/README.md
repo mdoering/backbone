@@ -1,5 +1,4 @@
-Ephelota plana SPECIES
-=======
+# Ephelota plana SPECIES
 
 #### Status
 ACCEPTED

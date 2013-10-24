@@ -1,5 +1,4 @@
-Pleurocollybia Singer GENUS
-=======
+# Pleurocollybia Singer GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis meridionalis M. Nakan. SPECIES
-=======
+# Graphis meridionalis M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

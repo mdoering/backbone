@@ -1,5 +1,4 @@
-Amphisphaeria haloxyli Kravtzev SPECIES
-=======
+# Amphisphaeria haloxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

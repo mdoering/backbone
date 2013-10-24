@@ -1,5 +1,4 @@
-Graphis flexibilis Kremp. SPECIES
-=======
+# Graphis flexibilis Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia fallax Thaxt. SPECIES
-=======
+# Laboulbenia fallax Thaxt. SPECIES
 
 #### Status
 ACCEPTED

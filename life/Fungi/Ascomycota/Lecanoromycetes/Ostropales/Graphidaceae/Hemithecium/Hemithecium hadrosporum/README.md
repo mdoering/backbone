@@ -1,14 +1,13 @@
-Hemithecium hadrospora (A.W. Archer) A.W. Archer SPECIES
-=======
+# Hemithecium hadrosporum (A.W. Archer) A.W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Telopea 11(1): 75 (2005)
 
 #### Original name
 Phaeographina hadrospora A.W. Archer

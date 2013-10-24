@@ -1,5 +1,4 @@
-Parmelia semirasa (Nyl.) Nyl. SPECIES
-=======
+# Parmelia semirasa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

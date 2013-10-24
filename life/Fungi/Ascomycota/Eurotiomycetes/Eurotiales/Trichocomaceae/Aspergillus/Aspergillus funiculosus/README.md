@@ -1,5 +1,4 @@
-Aspergillus funiculosus G. Sm., 1956 SPECIES
-=======
+# Aspergillus funiculosus G. Sm., 1956 SPECIES
 
 #### Status
 ACCEPTED

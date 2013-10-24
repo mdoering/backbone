@@ -1,5 +1,4 @@
-Margarita intermedia (Meyl.) SPECIES
-=======
+# Margarita intermedia (Meyl.) SPECIES
 
 #### Status
 ACCEPTED

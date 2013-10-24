@@ -1,5 +1,4 @@
-Marasmius albidocremeus Antonín SPECIES
-=======
+# Marasmius albidocremeus Antonín SPECIES
 
 #### Status
 ACCEPTED

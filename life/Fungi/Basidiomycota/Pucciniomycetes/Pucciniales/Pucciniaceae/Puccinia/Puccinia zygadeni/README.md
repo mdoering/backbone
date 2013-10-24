@@ -1,5 +1,4 @@
-Puccinia zygadeni Trel. SPECIES
-=======
+# Puccinia zygadeni Trel. SPECIES
 
 #### Status
 ACCEPTED

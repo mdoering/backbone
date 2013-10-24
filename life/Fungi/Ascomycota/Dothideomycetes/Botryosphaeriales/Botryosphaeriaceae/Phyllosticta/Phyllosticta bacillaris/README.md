@@ -1,5 +1,4 @@
-Phyllosticta bacillaris Montem. SPECIES
-=======
+# Phyllosticta bacillaris Montem. SPECIES
 
 #### Status
 ACCEPTED

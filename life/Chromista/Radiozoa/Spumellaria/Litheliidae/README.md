@@ -1,5 +1,4 @@
-Litheliidae Haeckel, 1862 FAMILY
-=======
+# Litheliidae Haeckel, 1862 FAMILY
 
 #### Status
 ACCEPTED

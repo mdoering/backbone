@@ -1,14 +1,13 @@
-Coprinus pachyterus Berk. & Broome, 1871 SPECIES
-=======
+# Parasola pachytera (Berk. & Broome) Redhead, Vilgalys & Hopple, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 236 (2001)
 
 #### Original name
 Coprinus pachyterus Berk. & Broome, 1871

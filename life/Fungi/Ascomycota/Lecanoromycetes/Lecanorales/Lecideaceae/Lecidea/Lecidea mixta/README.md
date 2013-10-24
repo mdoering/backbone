@@ -1,5 +1,4 @@
-Lecidea mixta (Fr.) Sommerf. SPECIES
-=======
+# Lecidea mixta (Fr.) Sommerf. SPECIES
 
 #### Status
 ACCEPTED

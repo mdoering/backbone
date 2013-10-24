@@ -1,5 +1,4 @@
-Cortinarius regularis Peck SPECIES
-=======
+# Cortinarius regularis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia iwakuniensis Morim. SPECIES
-=======
+# Puccinia iwakuniensis Morim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monocapnuchosphaera Tekin, 1999 GENUS
-=======
+# Monocapnuchosphaera Tekin, 1999 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zodiomyces Thaxt. GENUS
-=======
+# Zodiomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

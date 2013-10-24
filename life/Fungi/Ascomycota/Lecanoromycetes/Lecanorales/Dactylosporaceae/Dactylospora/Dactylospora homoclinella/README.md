@@ -1,5 +1,4 @@
-Dactylospora homoclinella (Nyl.) Hafellner SPECIES
-=======
+# Dactylospora homoclinella (Nyl.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

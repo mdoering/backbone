@@ -1,5 +1,4 @@
-Clitocybe sulphurea Peck SPECIES
-=======
+# Clitocybe sulphurea Peck SPECIES
 
 #### Status
 ACCEPTED

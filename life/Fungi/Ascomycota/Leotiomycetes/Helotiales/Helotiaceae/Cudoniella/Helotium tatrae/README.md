@@ -1,5 +1,4 @@
-Helotium tatrae Svrcek SPECIES
-=======
+# Helotium tatrae Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pucciniastrum rubiae (Kom.) Jørst. SPECIES
-=======
+# Pucciniastrum rubiae (Kom.) Jørst. SPECIES
 
 #### Status
 ACCEPTED

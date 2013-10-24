@@ -1,17 +1,16 @@
-Sirosporium zizyphicola U. Braun & Bagyan. SPECIES
-=======
+# Sirosporium ziziphicola U. Braun & Bagyan. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 48(2): 218 (1996)
 
 #### Original name
-Sirosporium zizyphicola U. Braun & Bagyan.
+Sirosporium ziziphicola U. Braun & Bagyan.
 
 ### Remarks
 null

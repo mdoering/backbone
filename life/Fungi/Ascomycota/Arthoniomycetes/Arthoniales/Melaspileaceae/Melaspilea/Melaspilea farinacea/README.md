@@ -1,5 +1,4 @@
-Melaspilea farinacea H. Olivier SPECIES
-=======
+# Melaspilea farinacea H. Olivier SPECIES
 
 #### Status
 ACCEPTED

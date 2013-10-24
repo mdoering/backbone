@@ -1,5 +1,4 @@
-Aphelaria spiculosa Corner SPECIES
-=======
+# Aphelaria spiculosa Corner SPECIES
 
 #### Status
 ACCEPTED

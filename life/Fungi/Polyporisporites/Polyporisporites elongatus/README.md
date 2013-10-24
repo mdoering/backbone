@@ -1,5 +1,4 @@
-Polyporisporites elongatus Hammen SPECIES
-=======
+# Polyporisporites elongatus Hammen SPECIES
 
 #### Status
 ACCEPTED

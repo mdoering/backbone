@@ -1,5 +1,4 @@
-Trichaleurina GENUS
-=======
+# Trichaleurina GENUS
 
 #### Status
 ACCEPTED

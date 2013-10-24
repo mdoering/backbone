@@ -1,14 +1,13 @@
-Carlia lineolata (Roberge ex Desm.) Höhn., 1925 SPECIES
-=======
+# Mycosphaerella lineolata (Roberge ex Desm.) J. Schröt., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. bot. Inst. tech. Hochsch. Wien, II 3: 90 (1925)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(3): 339 (1894)
 
 #### Original name
 Sphaeria lineolata Roberge ex Desm., 1843

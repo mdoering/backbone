@@ -1,5 +1,4 @@
-Pertusaria schiffneri SPECIES
-=======
+# Pertusaria schiffneri SPECIES
 
 #### Status
 ACCEPTED

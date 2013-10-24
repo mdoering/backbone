@@ -1,14 +1,13 @@
-Rhodophyllus prismatospermus Romagn., 1974 SPECIES
-=======
+# Entoloma prismatospermum (Romagn.) E. Horak, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contribution a l'Etude de Quelques Aspergilles 43: 386 (1974)
+Sydowia 28: 216 (1976)
 
 #### Original name
 Rhodophyllus prismatospermus Romagn., 1974

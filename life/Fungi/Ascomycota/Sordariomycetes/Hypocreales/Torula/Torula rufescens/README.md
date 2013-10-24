@@ -1,5 +1,4 @@
-Torula rufescens Fresen. SPECIES
-=======
+# Torula rufescens Fresen. SPECIES
 
 #### Status
 ACCEPTED

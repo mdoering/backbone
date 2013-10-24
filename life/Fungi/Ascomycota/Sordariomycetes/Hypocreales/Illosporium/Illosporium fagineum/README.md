@@ -1,5 +1,4 @@
-Illosporium fagineum Lib. SPECIES
-=======
+# Illosporium fagineum Lib. SPECIES
 
 #### Status
 ACCEPTED

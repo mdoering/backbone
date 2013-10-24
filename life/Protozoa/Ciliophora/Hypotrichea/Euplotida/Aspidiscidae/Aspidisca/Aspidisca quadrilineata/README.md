@@ -1,5 +1,4 @@
-Aspidisca quadrilineata Kahl, 1932 SPECIES
-=======
+# Aspidisca quadrilineata Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

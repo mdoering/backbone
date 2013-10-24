@@ -1,5 +1,4 @@
-Dermocarpa incrustans Batters SPECIES
-=======
+# Dermocarpa incrustans Batters SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora pseudehretiae Chao H. Chung & Tzean SPECIES
-=======
+# Pseudocercospora pseudehretiae Chao H. Chung & Tzean SPECIES
 
 #### Status
 ACCEPTED

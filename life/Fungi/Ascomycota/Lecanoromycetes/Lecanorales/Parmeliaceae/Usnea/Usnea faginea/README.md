@@ -1,5 +1,4 @@
-Usnea faginea var. faginea VARIETY
-=======
+# Usnea faginea Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea faginea var. faginea
+Usnea faginea Motyka
 
 ### Remarks
 null

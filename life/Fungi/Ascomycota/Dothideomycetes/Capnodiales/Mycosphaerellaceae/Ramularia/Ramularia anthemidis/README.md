@@ -1,5 +1,4 @@
-Ramularia anthemidis Hollós, 1907 SPECIES
-=======
+# Ramularia anthemidis Hollós, 1907 SPECIES
 
 #### Status
 ACCEPTED

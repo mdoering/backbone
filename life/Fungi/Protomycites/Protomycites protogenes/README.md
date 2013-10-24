@@ -1,5 +1,4 @@
-Protomycites protogenes Wm. G. Sm. SPECIES
-=======
+# Protomycites protogenes Wm. G. Sm. SPECIES
 
 #### Status
 ACCEPTED

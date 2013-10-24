@@ -1,17 +1,16 @@
-Anthostomella agavie Narendra & V.G. Rao SPECIES
-=======
+# Anthostomella agaves Narendra & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Rao & Narendra, Indian Journal of Mycology and Plant Pathology 4(2): 171 (1975)
 
 #### Original name
-Anthostomella agavie Narendra & V.G. Rao
+Anthostomella agaves Narendra & V.G. Rao
 
 ### Remarks
 null

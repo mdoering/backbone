@@ -1,5 +1,4 @@
-Verticillium pulvinatum Berk. & M.A. Curtis SPECIES
-=======
+# Verticillium pulvinatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

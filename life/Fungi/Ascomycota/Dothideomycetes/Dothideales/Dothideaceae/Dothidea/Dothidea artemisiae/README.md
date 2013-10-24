@@ -1,5 +1,4 @@
-Dothidea artemisiae Schwein. SPECIES
-=======
+# Dothidea artemisiae Schwein. SPECIES
 
 #### Status
 ACCEPTED

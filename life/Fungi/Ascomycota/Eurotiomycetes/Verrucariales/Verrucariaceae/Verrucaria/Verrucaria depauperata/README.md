@@ -1,5 +1,4 @@
-Verrucaria depauperata (Servít) Servít SPECIES
-=======
+# Verrucaria depauperata (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

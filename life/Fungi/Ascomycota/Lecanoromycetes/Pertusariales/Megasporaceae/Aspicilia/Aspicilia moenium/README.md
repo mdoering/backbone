@@ -1,14 +1,13 @@
-Acarospora moenium (Vain.) Räsänen SPECIES
-=======
+# Aspicilia moenium (Vain.) G. Thor & Timdal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Graphis Scripta 4(2): 66 (1992)
 
 #### Original name
 Endocarpon moenium Vain.

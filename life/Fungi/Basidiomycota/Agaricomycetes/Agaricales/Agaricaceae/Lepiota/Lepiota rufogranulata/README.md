@@ -1,5 +1,4 @@
-Lepiota rufogranulata Henn. SPECIES
-=======
+# Lepiota rufogranulata Henn. SPECIES
 
 #### Status
 ACCEPTED

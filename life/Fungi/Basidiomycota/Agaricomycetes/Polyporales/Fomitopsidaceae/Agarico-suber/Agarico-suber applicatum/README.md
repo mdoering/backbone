@@ -1,5 +1,4 @@
-Agarico-suber applicatum Paulet SPECIES
-=======
+# Agarico-suber applicatum Paulet SPECIES
 
 #### Status
 ACCEPTED

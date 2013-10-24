@@ -1,5 +1,4 @@
-Lepiota aureola Raithelh. SPECIES
-=======
+# Lepiota aureola Raithelh. SPECIES
 
 #### Status
 ACCEPTED

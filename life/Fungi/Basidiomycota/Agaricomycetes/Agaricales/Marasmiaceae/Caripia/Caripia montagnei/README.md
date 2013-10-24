@@ -1,5 +1,4 @@
-Caripia montagnei (Berk.) Kuntze SPECIES
-=======
+# Caripia montagnei (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

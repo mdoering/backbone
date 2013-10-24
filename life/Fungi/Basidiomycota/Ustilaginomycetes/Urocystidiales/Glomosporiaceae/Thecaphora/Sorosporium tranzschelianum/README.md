@@ -1,5 +1,4 @@
-Sorosporium tranzschelianum Lavrov SPECIES
-=======
+# Sorosporium tranzschelianum Lavrov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporiella Kamyschko, 1960 GENUS
-=======
+# Trichosporiella Kamyschko, 1960 GENUS
 
 #### Status
 ACCEPTED

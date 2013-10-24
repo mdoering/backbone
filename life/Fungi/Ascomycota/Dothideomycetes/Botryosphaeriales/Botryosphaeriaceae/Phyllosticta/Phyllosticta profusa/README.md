@@ -1,5 +1,4 @@
-Phyllosticta profusa Sacc. SPECIES
-=======
+# Phyllosticta profusa Sacc. SPECIES
 
 #### Status
 ACCEPTED

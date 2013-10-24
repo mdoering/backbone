@@ -1,5 +1,4 @@
-Lipomyces mesembrius Botha, Van der Walt & M.T. Sm., 1997 SPECIES
-=======
+# Lipomyces mesembrius Botha, Van der Walt & M.T. Sm., 1997 SPECIES
 
 #### Status
 ACCEPTED

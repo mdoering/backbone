@@ -1,17 +1,16 @@
-Meliola elephantopodis Hansf. SPECIES
-=======
+# Meliola elephantopi Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 11(1-6): 55 (1958)
 
 #### Original name
-Meliola elephantopodis Hansf.
+Meliola elephantopi Hansf.
 
 ### Remarks
 null

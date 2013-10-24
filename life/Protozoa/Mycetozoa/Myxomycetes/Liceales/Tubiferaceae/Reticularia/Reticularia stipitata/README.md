@@ -1,5 +1,4 @@
-Reticularia stipitata Bull. SPECIES
-=======
+# Reticularia stipitata Bull. SPECIES
 
 #### Status
 ACCEPTED

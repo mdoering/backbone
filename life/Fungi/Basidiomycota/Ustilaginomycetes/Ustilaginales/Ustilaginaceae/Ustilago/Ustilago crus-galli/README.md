@@ -1,17 +1,16 @@
-Ustilago crus-galli var. crus-galli Tracy & Earle VARIETY
-=======
+# Ustilago crus-galli Tracy & Earle, 1895 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 22: 175 (1895)
 
 #### Original name
-Ustilago crus-galli var. crus-galli Tracy & Earle
+Ustilago crus-galli Tracy & Earle, 1895
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Glyphanodinium facetum Drugg, 1964 SPECIES
-=======
+# Glyphanodinium facetum Drugg, 1964 SPECIES
 
 #### Status
 ACCEPTED

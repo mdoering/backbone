@@ -1,5 +1,4 @@
-Sphaerella implexae var. implexicola Sacc. VARIETY
-=======
+# Sphaerella implexae Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella implexae var. implexicola Sacc.
+Sphaerella implexae Pass.
 
 ### Remarks
 null

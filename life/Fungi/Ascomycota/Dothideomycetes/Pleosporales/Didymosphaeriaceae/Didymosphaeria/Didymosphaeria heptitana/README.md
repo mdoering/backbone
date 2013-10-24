@@ -1,5 +1,4 @@
-Didymosphaeria heptitana Trotter SPECIES
-=======
+# Didymosphaeria heptitana Trotter SPECIES
 
 #### Status
 ACCEPTED

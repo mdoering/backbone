@@ -1,5 +1,4 @@
-Thelotrema annuloelevatum Nagarkar, Sethy & Patw. SPECIES
-=======
+# Thelotrema annuloelevatum Nagarkar, Sethy & Patw. SPECIES
 
 #### Status
 ACCEPTED

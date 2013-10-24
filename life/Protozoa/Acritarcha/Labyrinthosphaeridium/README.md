@@ -1,5 +1,4 @@
-Labyrinthosphaeridium Uutela & Tynni, 1991 GENUS
-=======
+# Labyrinthosphaeridium Uutela & Tynni, 1991 GENUS
 
 #### Status
 ACCEPTED

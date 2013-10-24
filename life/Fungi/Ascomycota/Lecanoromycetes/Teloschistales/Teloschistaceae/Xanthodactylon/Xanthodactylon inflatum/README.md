@@ -1,5 +1,4 @@
-Xanthodactylon inflatum (Eichenberger, Aptroot & Honegger) S. Y. Kondr., Fedorenko, S. Stenroos, Kärnefelt, Elix SPECIES
-=======
+# Xanthodactylon inflatum (Eichenberger, Aptroot & Honegger) S. Y. Kondr., Fedorenko, S. Stenroos, Kärnefelt, Elix SPECIES
 
 #### Status
 ACCEPTED

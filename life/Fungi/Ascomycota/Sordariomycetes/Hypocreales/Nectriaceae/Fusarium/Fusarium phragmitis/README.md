@@ -1,5 +1,4 @@
-Fusarium phragmitis Matsush. SPECIES
-=======
+# Fusarium phragmitis Matsush. SPECIES
 
 #### Status
 ACCEPTED

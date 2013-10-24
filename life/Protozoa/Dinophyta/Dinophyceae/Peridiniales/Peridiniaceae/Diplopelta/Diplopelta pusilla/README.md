@@ -1,5 +1,4 @@
-Diplopelta pusilla E. Balech & R. Akselman SPECIES
-=======
+# Diplopelta pusilla E. Balech & R. Akselman SPECIES
 
 #### Status
 ACCEPTED

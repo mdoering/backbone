@@ -1,5 +1,4 @@
-Botryosphaeria erythrinae Petch SPECIES
-=======
+# Botryosphaeria erythrinae Petch SPECIES
 
 #### Status
 ACCEPTED

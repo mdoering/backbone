@@ -1,5 +1,4 @@
-Omphalia struthiopteris Velen. SPECIES
-=======
+# Omphalia struthiopteris Velen. SPECIES
 
 #### Status
 ACCEPTED

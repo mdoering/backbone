@@ -1,5 +1,4 @@
-Belonium blumenaviensis Henn. SPECIES
-=======
+# Belonium blumenaviensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina werwaesti (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Porina werwaesti (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

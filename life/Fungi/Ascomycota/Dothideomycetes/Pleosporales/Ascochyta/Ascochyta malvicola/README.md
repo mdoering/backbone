@@ -1,5 +1,4 @@
-Ascochyta malvicola Sacc. SPECIES
-=======
+# Ascochyta malvicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

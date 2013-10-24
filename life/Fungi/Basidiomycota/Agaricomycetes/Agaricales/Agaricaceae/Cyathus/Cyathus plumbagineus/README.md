@@ -1,5 +1,4 @@
-Cyathus plumbagineus McAlpine SPECIES
-=======
+# Cyathus plumbagineus McAlpine SPECIES
 
 #### Status
 ACCEPTED

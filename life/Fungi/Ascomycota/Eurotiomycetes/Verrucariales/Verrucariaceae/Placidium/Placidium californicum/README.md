@@ -1,5 +1,4 @@
-Placidium californicum Breuss SPECIES
-=======
+# Placidium californicum Breuss SPECIES
 
 #### Status
 ACCEPTED

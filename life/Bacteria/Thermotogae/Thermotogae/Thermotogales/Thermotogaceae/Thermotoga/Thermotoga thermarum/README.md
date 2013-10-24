@@ -1,5 +1,4 @@
-Thermotoga thermarum Windberger et al., 1992 SPECIES
-=======
+# Thermotoga thermarum Windberger et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

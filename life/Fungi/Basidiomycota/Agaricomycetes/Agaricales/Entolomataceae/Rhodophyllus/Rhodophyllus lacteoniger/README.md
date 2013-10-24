@@ -1,5 +1,4 @@
-Rhodophyllus lacteoniger Singer SPECIES
-=======
+# Rhodophyllus lacteoniger Singer SPECIES
 
 #### Status
 ACCEPTED

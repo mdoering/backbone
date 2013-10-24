@@ -1,5 +1,4 @@
-Ceratophoma Höhn. GENUS
-=======
+# Ceratophoma Höhn. GENUS
 
 #### Status
 ACCEPTED

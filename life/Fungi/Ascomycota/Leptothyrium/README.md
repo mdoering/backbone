@@ -1,5 +1,4 @@
-Leptothyrium Kunze, 1823 GENUS
-=======
+# Leptothyrium Kunze, 1823 GENUS
 
 #### Status
 ACCEPTED

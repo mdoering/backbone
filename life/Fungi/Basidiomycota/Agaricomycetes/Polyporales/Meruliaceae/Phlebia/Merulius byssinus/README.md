@@ -1,5 +1,4 @@
-Merulius byssinus Scop. SPECIES
-=======
+# Merulius byssinus Scop. SPECIES
 
 #### Status
 ACCEPTED

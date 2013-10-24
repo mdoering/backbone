@@ -1,5 +1,4 @@
-Leptosporella Penz. & Sacc. GENUS
-=======
+# Leptosporella Penz. & Sacc. GENUS
 
 #### Status
 ACCEPTED

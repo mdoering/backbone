@@ -1,5 +1,4 @@
-Porphyromonas circumdentaria Love et al., 1992 SPECIES
-=======
+# Porphyromonas circumdentaria Love et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrobotrys longispora Soprunov SPECIES
-=======
+# Arthrobotrys longispora Soprunov SPECIES
 
 #### Status
 ACCEPTED

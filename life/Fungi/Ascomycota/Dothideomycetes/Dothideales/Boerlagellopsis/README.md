@@ -1,5 +1,4 @@
-Boerlagellopsis C. Ramesh GENUS
-=======
+# Boerlagellopsis C. Ramesh GENUS
 
 #### Status
 ACCEPTED

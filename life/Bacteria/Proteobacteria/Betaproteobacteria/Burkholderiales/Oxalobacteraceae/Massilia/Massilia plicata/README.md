@@ -1,5 +1,4 @@
-Massilia plicata Zhang et al., 2006 SPECIES
-=======
+# Massilia plicata Zhang et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

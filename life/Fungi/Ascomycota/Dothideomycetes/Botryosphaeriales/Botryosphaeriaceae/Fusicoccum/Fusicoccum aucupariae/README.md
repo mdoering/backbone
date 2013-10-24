@@ -1,5 +1,4 @@
-Fusicoccum aucupariae (Died.) Grove SPECIES
-=======
+# Fusicoccum aucupariae (Died.) Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multicellaesporites ellipticus Sheffy & Dilcher SPECIES
-=======
+# Multicellaesporites ellipticus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

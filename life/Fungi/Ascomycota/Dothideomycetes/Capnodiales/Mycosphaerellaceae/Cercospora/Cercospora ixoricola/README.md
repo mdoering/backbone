@@ -1,17 +1,16 @@
-Cercospora ixoraecola J.M. Yen SPECIES
-=======
+# Cercospora ixoricola J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 31: 120 (1966)
 
 #### Original name
-Cercospora ixoraecola J.M. Yen
+Cercospora ixoricola J.M. Yen
 
 ### Remarks
 null

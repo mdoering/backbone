@@ -1,5 +1,4 @@
-Peziza subaurantiaca (Massee) Rifai SPECIES
-=======
+# Peziza subaurantiaca (Massee) Rifai SPECIES
 
 #### Status
 ACCEPTED

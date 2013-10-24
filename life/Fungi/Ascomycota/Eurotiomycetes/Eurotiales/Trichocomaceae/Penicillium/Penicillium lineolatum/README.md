@@ -1,5 +1,4 @@
-Penicillium lineolatum Warcup SPECIES
-=======
+# Penicillium lineolatum Warcup SPECIES
 
 #### Status
 ACCEPTED

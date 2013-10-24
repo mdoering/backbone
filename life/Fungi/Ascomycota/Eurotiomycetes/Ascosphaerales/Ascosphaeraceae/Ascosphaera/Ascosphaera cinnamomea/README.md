@@ -1,5 +1,4 @@
-Ascosphaera cinnamomea Skou, 1988 SPECIES
-=======
+# Ascosphaera cinnamomea Skou, 1988 SPECIES
 
 #### Status
 ACCEPTED

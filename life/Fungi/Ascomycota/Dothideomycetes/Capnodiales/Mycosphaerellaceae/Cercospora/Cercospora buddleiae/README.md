@@ -1,5 +1,4 @@
-Cercospora buddleiae W. Yamam. SPECIES
-=======
+# Cercospora buddleiae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota densesquamosa Velen. SPECIES
-=======
+# Lepiota densesquamosa Velen. SPECIES
 
 #### Status
 ACCEPTED

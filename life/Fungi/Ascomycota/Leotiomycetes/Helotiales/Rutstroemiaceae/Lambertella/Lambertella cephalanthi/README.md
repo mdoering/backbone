@@ -1,5 +1,4 @@
-Lambertella cephalanthi Whetzel SPECIES
-=======
+# Lambertella cephalanthi Whetzel SPECIES
 
 #### Status
 ACCEPTED

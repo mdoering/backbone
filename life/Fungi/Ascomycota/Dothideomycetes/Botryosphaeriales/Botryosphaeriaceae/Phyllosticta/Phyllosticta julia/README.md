@@ -1,5 +1,4 @@
-Phyllosticta julia Speg. SPECIES
-=======
+# Phyllosticta julia Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitopilus apalus (Berk. & Broome) Petch SPECIES
-=======
+# Clitopilus apalus (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

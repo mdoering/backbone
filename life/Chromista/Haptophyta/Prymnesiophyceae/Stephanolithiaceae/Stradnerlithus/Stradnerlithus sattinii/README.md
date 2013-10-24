@@ -1,5 +1,4 @@
-Stradnerlithus sattinii Medd, 1979 SPECIES
-=======
+# Stradnerlithus sattinii Medd, 1979 SPECIES
 
 #### Status
 ACCEPTED

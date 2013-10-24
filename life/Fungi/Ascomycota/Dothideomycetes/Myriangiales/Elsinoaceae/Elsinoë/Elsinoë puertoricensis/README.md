@@ -1,5 +1,4 @@
-Elsinoë puertoricensis Jenkins & Bitanc. SPECIES
-=======
+# Elsinoë puertoricensis Jenkins & Bitanc. SPECIES
 
 #### Status
 ACCEPTED

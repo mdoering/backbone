@@ -1,5 +1,4 @@
-Hapalosiphon confervaceus Borzi SPECIES
-=======
+# Hapalosiphon confervaceus Borzi SPECIES
 
 #### Status
 ACCEPTED

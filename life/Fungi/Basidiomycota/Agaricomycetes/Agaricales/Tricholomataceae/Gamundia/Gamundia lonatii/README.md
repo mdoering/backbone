@@ -1,5 +1,4 @@
-Gamundia lonatii Bon & Röllin, 1999 SPECIES
-=======
+# Gamundia lonatii Bon & Röllin, 1999 SPECIES
 
 #### Status
 ACCEPTED

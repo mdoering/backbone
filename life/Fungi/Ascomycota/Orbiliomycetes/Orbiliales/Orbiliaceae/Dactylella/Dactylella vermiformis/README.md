@@ -1,5 +1,4 @@
-Dactylella vermiformis Z.F. Yu, Ying Zhang & K.Q. Zhang SPECIES
-=======
+# Dactylella vermiformis Z.F. Yu, Ying Zhang & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

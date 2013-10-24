@@ -1,5 +1,4 @@
-Hologloea micropora (Pat.) Pat. SPECIES
-=======
+# Hologloea micropora (Pat.) Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema cupulare Müll. Arg. SPECIES
-=======
+# Thelotrema cupulare Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

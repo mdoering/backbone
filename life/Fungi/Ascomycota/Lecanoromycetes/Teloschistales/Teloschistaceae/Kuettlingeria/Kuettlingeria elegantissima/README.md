@@ -1,5 +1,4 @@
-Kuettlingeria elegantissima (Nyl.) C.W. Dodge SPECIES
-=======
+# Kuettlingeria elegantissima (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

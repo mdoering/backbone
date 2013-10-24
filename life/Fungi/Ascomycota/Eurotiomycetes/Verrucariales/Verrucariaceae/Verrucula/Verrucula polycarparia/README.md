@@ -1,5 +1,4 @@
-Verrucula polycarparia Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucula polycarparia Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

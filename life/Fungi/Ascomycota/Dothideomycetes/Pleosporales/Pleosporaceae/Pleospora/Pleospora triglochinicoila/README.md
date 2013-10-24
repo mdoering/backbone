@@ -1,5 +1,4 @@
-Pleospora triglochinicoila J. Webster, 1969 SPECIES
-=======
+# Pleospora triglochinicoila J. Webster, 1969 SPECIES
 
 #### Status
 ACCEPTED

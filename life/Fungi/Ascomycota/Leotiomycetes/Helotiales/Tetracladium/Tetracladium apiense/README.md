@@ -1,5 +1,4 @@
-Tetracladium apiense R.C. Sinclair & Eicker, 1981 SPECIES
-=======
+# Tetracladium apiense R.C. Sinclair & Eicker, 1981 SPECIES
 
 #### Status
 ACCEPTED

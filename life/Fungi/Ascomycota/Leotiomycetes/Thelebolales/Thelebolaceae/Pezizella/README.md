@@ -1,5 +1,4 @@
-Pezizella GENUS
-=======
+# Pezizella GENUS
 
 #### Status
 ACCEPTED

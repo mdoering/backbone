@@ -1,5 +1,4 @@
-Tilletia youngii G.P. Clinton & Zundel SPECIES
-=======
+# Tilletia youngii G.P. Clinton & Zundel SPECIES
 
 #### Status
 ACCEPTED

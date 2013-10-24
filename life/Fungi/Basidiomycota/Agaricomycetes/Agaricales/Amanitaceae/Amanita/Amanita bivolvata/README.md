@@ -1,5 +1,4 @@
-Amanita bivolvata Peck SPECIES
-=======
+# Amanita bivolvata Peck SPECIES
 
 #### Status
 ACCEPTED

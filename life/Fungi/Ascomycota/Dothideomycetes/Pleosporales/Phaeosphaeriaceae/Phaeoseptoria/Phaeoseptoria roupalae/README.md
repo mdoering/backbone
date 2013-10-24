@@ -1,5 +1,4 @@
-Phaeoseptoria roupalae Bat. & Cavalc. SPECIES
-=======
+# Phaeoseptoria roupalae Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Parmelia pseudoamphixantha Elix SPECIES
-=======
+# Xanthoparmelia pseudoamphixantha (Elix) Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. J. Bot. 29(3): 365 (1981)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 309 (1986)
 
 #### Original name
 Parmelia pseudoamphixantha Elix

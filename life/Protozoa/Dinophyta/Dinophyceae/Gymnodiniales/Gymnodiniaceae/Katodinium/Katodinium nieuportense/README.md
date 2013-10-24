@@ -1,8 +1,7 @@
-Massartia nieuportensis Conrad SPECIES
-=======
+# Katodinium nieuportense (Conrad) Loeblich Jr. & Loeblich Iii SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

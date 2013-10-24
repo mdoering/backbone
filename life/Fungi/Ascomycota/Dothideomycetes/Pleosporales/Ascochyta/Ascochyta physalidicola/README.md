@@ -1,8 +1,7 @@
-Ascochyta physalicola Oudem. SPECIES
-=======
+# Ascochyta physalidicola Oudem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta physalicola Oudem.
+Ascochyta physalidicola Oudem.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pholiota alutispora Berk. SPECIES
-=======
+# Pholiota alutispora Berk. SPECIES
 
 #### Status
 ACCEPTED

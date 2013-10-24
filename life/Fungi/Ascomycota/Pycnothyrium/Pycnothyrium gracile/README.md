@@ -1,5 +1,4 @@
-Pycnothyrium gracile Died. SPECIES
-=======
+# Pycnothyrium gracile Died. SPECIES
 
 #### Status
 ACCEPTED

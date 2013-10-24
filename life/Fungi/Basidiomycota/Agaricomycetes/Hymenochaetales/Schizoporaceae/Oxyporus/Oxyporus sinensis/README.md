@@ -1,5 +1,4 @@
-Oxyporus sinensis X.L. Zeng SPECIES
-=======
+# Oxyporus sinensis X.L. Zeng SPECIES
 
 #### Status
 ACCEPTED

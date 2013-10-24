@@ -1,5 +1,4 @@
-Mycosphaerella graminis (Sacc.) Tomilin SPECIES
-=======
+# Mycosphaerella graminis (Sacc.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

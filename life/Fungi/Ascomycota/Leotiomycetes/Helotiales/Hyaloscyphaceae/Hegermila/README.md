@@ -1,5 +1,4 @@
-Hegermila Raitv. GENUS
-=======
+# Hegermila Raitv. GENUS
 
 #### Status
 ACCEPTED

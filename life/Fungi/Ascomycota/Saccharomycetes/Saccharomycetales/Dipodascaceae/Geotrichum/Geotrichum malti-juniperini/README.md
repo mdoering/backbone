@@ -1,5 +1,4 @@
-Geotrichum malti-juniperini (Desm.) F.P. Almeida SPECIES
-=======
+# Geotrichum malti-juniperini (Desm.) F.P. Almeida SPECIES
 
 #### Status
 ACCEPTED

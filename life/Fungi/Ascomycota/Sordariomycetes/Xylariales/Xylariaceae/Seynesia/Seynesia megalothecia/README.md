@@ -1,5 +1,4 @@
-Seynesia megalothecia Speg. SPECIES
-=======
+# Seynesia megalothecia Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia bruniana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia bruniana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

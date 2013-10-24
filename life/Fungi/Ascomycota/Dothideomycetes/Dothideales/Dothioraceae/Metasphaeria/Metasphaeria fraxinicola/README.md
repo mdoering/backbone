@@ -1,5 +1,4 @@
-Metasphaeria fraxinicola G.H. Otth SPECIES
-=======
+# Metasphaeria fraxinicola G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis splendida (Schwein.) Sacc. SPECIES
-=======
+# Botrytis splendida (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Clathrus gracilis (Berk.) Schltdl., 1861 SPECIES
-=======
+# Ileodictyon gracile Berk., 1845 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 166 (1861)
+J. Bot. , London 4: 69 (1845)
 
 #### Original name
 Ileodictyon gracile Berk., 1845

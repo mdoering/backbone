@@ -1,5 +1,4 @@
-Hispanaediscus verrucatus Cramer, 1966 emend. Burgess & Richardson, 1991 SPECIES
-=======
+# Hispanaediscus verrucatus Cramer, 1966 emend. Burgess & Richardson, 1991 SPECIES
 
 #### Status
 ACCEPTED

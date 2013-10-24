@@ -1,5 +1,4 @@
-Durella similis (W.R. Gerard) Sacc. SPECIES
-=======
+# Durella similis (W.R. Gerard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta erysimi Hollós SPECIES
-=======
+# Pyrenochaeta erysimi Hollós SPECIES
 
 #### Status
 ACCEPTED

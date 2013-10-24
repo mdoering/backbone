@@ -1,5 +1,4 @@
-Sphaeria smilacicola Schwein. SPECIES
-=======
+# Sphaeria smilacicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

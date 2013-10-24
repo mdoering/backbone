@@ -1,5 +1,4 @@
-Endocarpon mailae I.M. Lamb SPECIES
-=======
+# Endocarpon mailae I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

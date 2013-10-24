@@ -1,14 +1,13 @@
-Codinaea botulispora S. Hughes & W.B. Kendr., 1968 SPECIES
-=======
+# Dictyochaeta botulispora (S. Hughes & W.B. Kendr.) Whitton, McKenzie & K.D. Hyde, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 6: 332 (1968)
+Fungal Diversity 4: 137 (2000)
 
 #### Original name
 Codinaea botulispora S. Hughes & W.B. Kendr., 1968

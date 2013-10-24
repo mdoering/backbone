@@ -1,5 +1,4 @@
-Irene castanopsidifoliae W. Yamam. SPECIES
-=======
+# Irene castanopsidifoliae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

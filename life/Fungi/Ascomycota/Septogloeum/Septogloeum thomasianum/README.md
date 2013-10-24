@@ -1,5 +1,4 @@
-Septogloeum thomasianum (Sacc.) Höhn. SPECIES
-=======
+# Septogloeum thomasianum (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

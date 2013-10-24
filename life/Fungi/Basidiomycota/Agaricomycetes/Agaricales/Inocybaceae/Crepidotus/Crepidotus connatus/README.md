@@ -1,5 +1,4 @@
-Crepidotus connatus (Berk.) Murrill SPECIES
-=======
+# Crepidotus connatus (Berk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

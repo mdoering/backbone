@@ -1,5 +1,4 @@
-Miltidea Stirt. GENUS
-=======
+# Miltidea Stirt. GENUS
 
 #### Status
 ACCEPTED

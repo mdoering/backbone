@@ -1,5 +1,4 @@
-Pleistophora legeri J.J. Lipa SPECIES
-=======
+# Pleistophora legeri J.J. Lipa SPECIES
 
 #### Status
 ACCEPTED

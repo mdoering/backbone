@@ -1,5 +1,4 @@
-Pertusaria lactea var. lactea VARIETY
-=======
+# Pertusaria lactea (L.) Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Verh. zool. -bot. Ges. Wein 22: 283 (1872)
 
 #### Original name
-Pertusaria lactea var. lactea
+Lichen lacteus Sibth.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Endogonium Crocq. {?} GENUS
-=======
+# Endogonium Crocq. {?} GENUS
 
 #### Status
 ACCEPTED

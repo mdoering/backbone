@@ -1,5 +1,4 @@
-Thalassiosira nordenskioldii Cleve SPECIES
-=======
+# Thalassiosira nordenskioldii Cleve SPECIES
 
 #### Status
 ACCEPTED

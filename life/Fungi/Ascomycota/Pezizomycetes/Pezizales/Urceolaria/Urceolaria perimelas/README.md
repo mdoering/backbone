@@ -1,5 +1,4 @@
-Urceolaria perimelas Chevall. SPECIES
-=======
+# Urceolaria perimelas Chevall. SPECIES
 
 #### Status
 ACCEPTED

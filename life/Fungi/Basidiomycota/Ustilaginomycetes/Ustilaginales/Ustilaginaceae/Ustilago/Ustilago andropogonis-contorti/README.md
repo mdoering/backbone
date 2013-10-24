@@ -1,5 +1,4 @@
-Ustilago andropogonis-contorti Henn. SPECIES
-=======
+# Ustilago andropogonis-contorti Henn. SPECIES
 
 #### Status
 ACCEPTED

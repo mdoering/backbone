@@ -1,5 +1,4 @@
-Pestalotiopsis taslimiana (Mundk. & Khesw.) Kausar SPECIES
-=======
+# Pestalotiopsis taslimiana (Mundk. & Khesw.) Kausar SPECIES
 
 #### Status
 ACCEPTED

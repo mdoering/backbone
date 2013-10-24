@@ -1,5 +1,4 @@
-Graphina parilis (Kremp.) Müll. Arg. SPECIES
-=======
+# Graphina parilis (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

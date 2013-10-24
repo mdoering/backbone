@@ -1,5 +1,4 @@
-Heliomyces gigasporus Rick SPECIES
-=======
+# Heliomyces gigasporus Rick SPECIES
 
 #### Status
 ACCEPTED

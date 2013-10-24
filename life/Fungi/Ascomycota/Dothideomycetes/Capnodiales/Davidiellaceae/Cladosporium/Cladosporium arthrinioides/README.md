@@ -1,5 +1,4 @@
-Cladosporium arthrinioides Thüm. & Beltrani, 1876 SPECIES
-=======
+# Cladosporium arthrinioides Thüm. & Beltrani, 1876 SPECIES
 
 #### Status
 ACCEPTED

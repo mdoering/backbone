@@ -1,5 +1,4 @@
-Paramecium pseudotrichium Dragesco, 1970 SPECIES
-=======
+# Paramecium pseudotrichium Dragesco, 1970 SPECIES
 
 #### Status
 ACCEPTED

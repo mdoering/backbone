@@ -1,5 +1,4 @@
-Squamaria sulforides var. sulforides VARIETY
-=======
+# Squamaria sulforides Maheu & Werner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamaria sulforides var. sulforides
+Squamaria sulforides Maheu & Werner
 
 ### Remarks
 null

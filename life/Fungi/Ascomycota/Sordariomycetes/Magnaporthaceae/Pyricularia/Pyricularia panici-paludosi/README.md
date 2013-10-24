@@ -1,14 +1,13 @@
-Pyricularia piricularia (Sawada) S. Ito SPECIES
-=======
+# Pyricularia panici-paludosi (Sawada) S. Ito SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Mag. , Tokyo 32: 308 (Japanese section) (1918)
 
 #### Original name
 Dactylaria panici-paludosi Sawada

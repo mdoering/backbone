@@ -1,5 +1,4 @@
-Hypocrea vinosa Cooke, 1879 SPECIES
-=======
+# Hypocrea vinosa Cooke, 1879 SPECIES
 
 #### Status
 ACCEPTED

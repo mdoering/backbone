@@ -1,5 +1,4 @@
-Polyporus subvirgatus Lloyd SPECIES
-=======
+# Polyporus subvirgatus Lloyd SPECIES
 
 #### Status
 ACCEPTED

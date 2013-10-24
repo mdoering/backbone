@@ -1,5 +1,4 @@
-Aecidium lilii-cordifolii Dietel SPECIES
-=======
+# Aecidium lilii-cordifolii Dietel SPECIES
 
 #### Status
 ACCEPTED

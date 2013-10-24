@@ -1,5 +1,4 @@
-Sphaerella garganica Sacc. SPECIES
-=======
+# Sphaerella garganica Sacc. SPECIES
 
 #### Status
 ACCEPTED

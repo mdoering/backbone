@@ -1,5 +1,4 @@
-Acolium viridescens var. viridescens VARIETY
-=======
+# Acolium viridescens Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acolium viridescens var. viridescens
+Acolium viridescens Vain.
 
 ### Remarks
 null

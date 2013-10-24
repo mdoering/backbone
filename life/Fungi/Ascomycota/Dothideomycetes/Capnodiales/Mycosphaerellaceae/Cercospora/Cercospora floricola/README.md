@@ -1,5 +1,4 @@
-Cercospora floricola Heald & F.A. Wolf SPECIES
-=======
+# Cercospora floricola Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

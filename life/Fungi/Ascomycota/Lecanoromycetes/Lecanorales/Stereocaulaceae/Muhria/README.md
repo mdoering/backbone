@@ -1,5 +1,4 @@
-Muhria P.M. Jørg. GENUS
-=======
+# Muhria P.M. Jørg. GENUS
 
 #### Status
 ACCEPTED

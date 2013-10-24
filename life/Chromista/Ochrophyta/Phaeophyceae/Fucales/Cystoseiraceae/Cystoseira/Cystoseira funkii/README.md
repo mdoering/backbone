@@ -1,5 +1,4 @@
-Cystoseira funkii Schiffner ex Gerloff & Nizamuddin SPECIES
-=======
+# Cystoseira funkii Schiffner ex Gerloff & Nizamuddin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lopadostoma saprophilum (Ellis & Everh.) Rappaz, 1995 SPECIES
-=======
+# Anthostoma saprophilum Ellis & Everh., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. helv. 7(1): 129 (1995)
+J. Mycol. 3(4): 43 (1887)
 
 #### Original name
 Anthostoma saprophilum Ellis & Everh., 1887

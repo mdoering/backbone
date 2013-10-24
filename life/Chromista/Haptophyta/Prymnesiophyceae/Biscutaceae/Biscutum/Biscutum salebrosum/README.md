@@ -1,8 +1,7 @@
-Palaeopontosphaera salebrosa (Black, 1971) Prins & Sissingh in Sissingh, 1977 SPECIES
-=======
+# Biscutum salebrosum (Black, 1971) Perch-Nielsen, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

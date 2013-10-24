@@ -1,5 +1,4 @@
-Leiosphaeridia gyperborea Timofeev, 1962 ex Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia gyperborea Timofeev, 1962 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

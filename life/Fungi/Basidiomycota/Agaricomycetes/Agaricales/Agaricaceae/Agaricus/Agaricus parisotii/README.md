@@ -1,5 +1,4 @@
-Agaricus parisotii Pat. SPECIES
-=======
+# Agaricus parisotii Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon pseudoumbrinum Hollós SPECIES
-=======
+# Lycoperdon pseudoumbrinum Hollós SPECIES
 
 #### Status
 ACCEPTED

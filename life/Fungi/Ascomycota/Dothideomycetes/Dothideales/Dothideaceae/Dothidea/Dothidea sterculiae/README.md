@@ -1,5 +1,4 @@
-Dothidea sterculiae Ettingsh. SPECIES
-=======
+# Dothidea sterculiae Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

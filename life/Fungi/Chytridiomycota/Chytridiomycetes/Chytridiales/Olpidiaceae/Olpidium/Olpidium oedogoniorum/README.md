@@ -1,5 +1,4 @@
-Olpidium oedogoniorum (Sorokin) De Wild. SPECIES
-=======
+# Olpidium oedogoniorum (Sorokin) De Wild. SPECIES
 
 #### Status
 ACCEPTED

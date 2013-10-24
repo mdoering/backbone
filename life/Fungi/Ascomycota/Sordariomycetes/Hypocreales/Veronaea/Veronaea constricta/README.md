@@ -1,5 +1,4 @@
-Veronaea constricta Moustafa & Abdul-Wahid, 1990 SPECIES
-=======
+# Veronaea constricta Moustafa & Abdul-Wahid, 1990 SPECIES
 
 #### Status
 ACCEPTED

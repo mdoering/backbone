@@ -1,5 +1,4 @@
-Leptoxyphium zeae Mukerji & M. Khanna SPECIES
-=======
+# Leptoxyphium zeae Mukerji & M. Khanna SPECIES
 
 #### Status
 ACCEPTED

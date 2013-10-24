@@ -1,5 +1,4 @@
-Psoroma implexum Stirt. SPECIES
-=======
+# Psoroma implexum Stirt. SPECIES
 
 #### Status
 ACCEPTED

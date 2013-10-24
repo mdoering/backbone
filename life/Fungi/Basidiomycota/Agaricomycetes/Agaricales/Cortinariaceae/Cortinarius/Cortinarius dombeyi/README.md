@@ -1,5 +1,4 @@
-Cortinarius dombeyi (Singer) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius dombeyi (Singer) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

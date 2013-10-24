@@ -1,5 +1,4 @@
-Pleuropus subcinereus Murrill SPECIES
-=======
+# Pleuropus subcinereus Murrill SPECIES
 
 #### Status
 ACCEPTED

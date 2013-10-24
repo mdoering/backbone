@@ -1,5 +1,4 @@
-Boletus scabroides Kauffman SPECIES
-=======
+# Boletus scabroides Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tribonema elegans Pascher SPECIES
-=======
+# Tribonema elegans Pascher SPECIES
 
 #### Status
 ACCEPTED

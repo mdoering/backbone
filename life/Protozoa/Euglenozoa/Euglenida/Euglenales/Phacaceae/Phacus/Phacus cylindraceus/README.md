@@ -1,5 +1,4 @@
-Phacus cylindraceus Popowa SPECIES
-=======
+# Phacus cylindraceus Popowa SPECIES
 
 #### Status
 ACCEPTED

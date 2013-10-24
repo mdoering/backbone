@@ -1,5 +1,4 @@
-Phoma ampelogena Sacc. SPECIES
-=======
+# Phoma ampelogena Sacc. SPECIES
 
 #### Status
 ACCEPTED

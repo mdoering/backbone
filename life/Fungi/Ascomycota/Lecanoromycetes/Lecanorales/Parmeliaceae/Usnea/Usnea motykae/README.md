@@ -1,5 +1,4 @@
-Usnea motykae Räsänen SPECIES
-=======
+# Usnea motykae Räsänen SPECIES
 
 #### Status
 ACCEPTED

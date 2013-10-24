@@ -1,5 +1,4 @@
-Pezizella amenti (Batsch Fr.) Dennis SPECIES
-=======
+# Pezizella amenti (Batsch Fr.) Dennis SPECIES
 
 #### Status
 ACCEPTED

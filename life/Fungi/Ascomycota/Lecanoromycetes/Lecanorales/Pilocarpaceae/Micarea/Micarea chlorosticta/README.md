@@ -1,5 +1,4 @@
-Micarea chlorosticta (Tuck.) R.C. Harris SPECIES
-=======
+# Micarea chlorosticta (Tuck.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

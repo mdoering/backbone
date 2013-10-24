@@ -1,5 +1,4 @@
-Lyngbya Gaillon in F. Cuvier, 1828 GENUS
-=======
+# Lyngbya Gaillon in F. Cuvier, 1828 GENUS
 
 #### Status
 ACCEPTED

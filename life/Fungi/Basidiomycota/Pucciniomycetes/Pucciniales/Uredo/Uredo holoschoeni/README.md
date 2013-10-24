@@ -1,5 +1,4 @@
-Uredo holoschoeni Castagne SPECIES
-=======
+# Uredo holoschoeni Castagne SPECIES
 
 #### Status
 ACCEPTED

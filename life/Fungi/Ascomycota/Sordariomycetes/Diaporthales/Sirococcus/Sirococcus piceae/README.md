@@ -1,5 +1,4 @@
-Sirococcus piceae G.Z. Wang SPECIES
-=======
+# Sirococcus piceae G.Z. Wang SPECIES
 
 #### Status
 ACCEPTED

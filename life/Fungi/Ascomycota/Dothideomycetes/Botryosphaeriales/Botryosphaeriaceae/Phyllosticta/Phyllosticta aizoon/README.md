@@ -1,5 +1,4 @@
-Phyllosticta aizoon Cooke SPECIES
-=======
+# Phyllosticta aizoon Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cladolegnia subterranea (Dissmann) Johannes, 1955 SPECIES
-=======
+# Isoachlya subterranea Dissmann, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. Spec. Nov. Regni Veg. 58: 213 (1955)
+Beih. bot. Zbl. 48(1): 110 (1931)
 
 #### Original name
 Isoachlya subterranea Dissmann, 1931

@@ -1,17 +1,16 @@
-Clavaria mairei Battetta, 1938 SPECIES
-=======
+# Clavicorona taxophila (Thom) Doty, 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 54: 44 (1938)
+Lloydia 10: 39 (1947)
 
 #### Original name
-Clavaria mairei Battetta, 1938
+Craterellus taxophilus Thom, 1904
 
 ### Remarks
 null

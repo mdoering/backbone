@@ -1,5 +1,4 @@
-Pyrenula irregularis Fée SPECIES
-=======
+# Pyrenula irregularis Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prospodium tabebuiae F. Kern SPECIES
-=======
+# Prospodium tabebuiae F. Kern SPECIES
 
 #### Status
 ACCEPTED

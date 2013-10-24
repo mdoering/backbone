@@ -1,5 +1,4 @@
-Venturia inopina G. Newc. SPECIES
-=======
+# Venturia inopina G. Newc. SPECIES
 
 #### Status
 ACCEPTED

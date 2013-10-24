@@ -1,5 +1,4 @@
-Cercidospora truncata (P. Karst.) Kuntze SPECIES
-=======
+# Cercidospora truncata (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysomyxa butleri Syd. SPECIES
-=======
+# Chrysomyxa butleri Syd. SPECIES
 
 #### Status
 ACCEPTED

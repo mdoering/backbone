@@ -1,5 +1,4 @@
-Tolediella GENUS
-=======
+# Tolediella GENUS
 
 #### Status
 ACCEPTED

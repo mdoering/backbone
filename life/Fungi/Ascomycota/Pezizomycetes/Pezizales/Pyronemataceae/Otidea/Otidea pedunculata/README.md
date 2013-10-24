@@ -1,5 +1,4 @@
-Otidea pedunculata Velen. SPECIES
-=======
+# Otidea pedunculata Velen. SPECIES
 
 #### Status
 ACCEPTED

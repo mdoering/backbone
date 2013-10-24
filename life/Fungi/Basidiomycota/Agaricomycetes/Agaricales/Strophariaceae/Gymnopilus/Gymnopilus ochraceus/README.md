@@ -1,5 +1,4 @@
-Gymnopilus ochraceus Høil. SPECIES
-=======
+# Gymnopilus ochraceus Høil. SPECIES
 
 #### Status
 ACCEPTED

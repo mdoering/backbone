@@ -1,5 +1,4 @@
-Pseudocercospora feigeana U. Braun SPECIES
-=======
+# Pseudocercospora feigeana U. Braun SPECIES
 
 #### Status
 ACCEPTED

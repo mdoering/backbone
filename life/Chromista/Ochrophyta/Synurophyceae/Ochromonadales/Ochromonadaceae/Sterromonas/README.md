@@ -1,5 +1,4 @@
-Sterromonas Kent, 1880 GENUS
-=======
+# Sterromonas Kent, 1880 GENUS
 
 #### Status
 ACCEPTED

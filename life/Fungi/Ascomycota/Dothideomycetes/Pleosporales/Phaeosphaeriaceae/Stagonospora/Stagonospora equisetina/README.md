@@ -1,5 +1,4 @@
-Stagonospora equisetina Trail, 1887 SPECIES
-=======
+# Stagonospora equisetina Trail, 1887 SPECIES
 
 #### Status
 ACCEPTED

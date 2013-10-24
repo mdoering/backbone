@@ -1,14 +1,13 @@
-Acremonium coenophialum Morgan-Jones & W. Gams, 1982 SPECIES
-=======
+# Neotyphodium coenophialum (Morgan-Jones & W. Gams) Glenn, C.W. Bacon & Hanlin, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 15: 313 (1982)
+in Glenn, Bacon, Price & Hanlin, Mycologia 88(3): 377 (1996)
 
 #### Original name
 Acremonium coenophialum Morgan-Jones & W. Gams, 1982

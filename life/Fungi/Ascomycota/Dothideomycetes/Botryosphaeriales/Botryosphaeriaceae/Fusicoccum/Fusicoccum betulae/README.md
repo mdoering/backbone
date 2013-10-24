@@ -1,5 +1,4 @@
-Fusicoccum betulae Cooke SPECIES
-=======
+# Fusicoccum betulae Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thysanothecium indicum SPECIES
-=======
+# Thysanothecium indicum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyschistes lusitanica (Nyl.) Keissl. SPECIES
-=======
+# Polyschistes lusitanica (Nyl.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

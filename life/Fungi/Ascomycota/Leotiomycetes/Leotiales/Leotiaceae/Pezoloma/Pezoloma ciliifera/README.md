@@ -1,17 +1,16 @@
-Ombrophila ciliifera var. ciliifera VARIETY
-=======
+# Pezoloma ciliifera (P. Karst.) Korf, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoth. fenn. (Helsinki) 1: 91 (1871)
+Phytologia 21(4): 205 (1971)
 
 #### Original name
-Ombrophila ciliifera var. ciliifera
+null
 
 ### Remarks
 null

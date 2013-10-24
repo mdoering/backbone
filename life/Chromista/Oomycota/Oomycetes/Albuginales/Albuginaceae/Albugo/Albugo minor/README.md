@@ -1,5 +1,4 @@
-Albugo minor (Speg.) Cif. SPECIES
-=======
+# Albugo minor (Speg.) Cif. SPECIES
 
 #### Status
 ACCEPTED

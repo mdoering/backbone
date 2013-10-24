@@ -1,5 +1,4 @@
-Macrosporium alliorum Cooke & Massee SPECIES
-=======
+# Macrosporium alliorum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

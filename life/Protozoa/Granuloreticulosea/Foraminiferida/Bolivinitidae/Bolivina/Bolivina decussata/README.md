@@ -1,5 +1,4 @@
-Bolivina decussata SPECIES
-=======
+# Bolivina decussata SPECIES
 
 #### Status
 ACCEPTED

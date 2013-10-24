@@ -1,17 +1,16 @@
-Gnomonia vesca M. Monod SPECIES
-=======
+# Gnomonia vescae M. Monod SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 9: 109 (1983)
 
 #### Original name
-Gnomonia vesca M. Monod
+Gnomonia vescae M. Monod
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pseudogoniochloris L.Krienitz, E.Hegewald, O.L.Reymond & T.Peschke, 1993 GENUS
-=======
+# Pseudogoniochloris L.Krienitz, E.Hegewald, O.L.Reymond & T.Peschke, 1993 GENUS
 
 #### Status
 ACCEPTED

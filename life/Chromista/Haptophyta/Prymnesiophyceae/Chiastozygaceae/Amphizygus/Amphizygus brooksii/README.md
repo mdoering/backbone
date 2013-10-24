@@ -1,5 +1,4 @@
-Amphizygus brooksii SPECIES
-=======
+# Amphizygus brooksii SPECIES
 
 #### Status
 ACCEPTED

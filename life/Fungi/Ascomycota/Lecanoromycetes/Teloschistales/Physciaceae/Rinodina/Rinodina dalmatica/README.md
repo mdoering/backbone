@@ -1,5 +1,4 @@
-Rinodina dalmatica Zahlbr. SPECIES
-=======
+# Rinodina dalmatica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagenosolenia sigmoidelliformis McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia sigmoidelliformis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

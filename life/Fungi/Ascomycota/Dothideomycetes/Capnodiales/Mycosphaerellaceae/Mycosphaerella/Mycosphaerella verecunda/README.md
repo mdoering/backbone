@@ -1,5 +1,4 @@
-Mycosphaerella verecunda Syd. SPECIES
-=======
+# Mycosphaerella verecunda Syd. SPECIES
 
 #### Status
 ACCEPTED

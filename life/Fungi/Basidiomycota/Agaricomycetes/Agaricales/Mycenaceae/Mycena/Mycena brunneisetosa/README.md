@@ -1,5 +1,4 @@
-Mycena brunneisetosa Corner SPECIES
-=======
+# Mycena brunneisetosa Corner SPECIES
 
 #### Status
 ACCEPTED

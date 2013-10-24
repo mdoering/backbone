@@ -1,5 +1,4 @@
-Nectria fibropapillata Samuels SPECIES
-=======
+# Nectria fibropapillata Samuels SPECIES
 
 #### Status
 ACCEPTED

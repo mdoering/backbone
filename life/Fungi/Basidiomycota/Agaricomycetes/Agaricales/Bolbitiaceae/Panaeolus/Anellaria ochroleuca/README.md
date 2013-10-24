@@ -1,5 +1,4 @@
-Anellaria ochroleuca Sawada SPECIES
-=======
+# Anellaria ochroleuca Sawada SPECIES
 
 #### Status
 ACCEPTED

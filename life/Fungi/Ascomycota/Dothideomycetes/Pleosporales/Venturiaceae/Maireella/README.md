@@ -1,5 +1,4 @@
-Maireella GENUS
-=======
+# Maireella GENUS
 
 #### Status
 ACCEPTED

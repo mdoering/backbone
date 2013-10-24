@@ -1,8 +1,7 @@
-Cothurnia thuricolae Shubernetzki, 1978 SPECIES
-=======
+# Donicola thuricolae (Shubernetzki, 1978) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

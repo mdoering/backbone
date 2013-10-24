@@ -1,5 +1,4 @@
-Elasmomyces textus (J.W. Cribb) A.H. Sm. SPECIES
-=======
+# Elasmomyces textus (J.W. Cribb) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

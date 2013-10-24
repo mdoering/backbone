@@ -1,17 +1,16 @@
-Anatolinites alaskaensis Elsik, V.S. Ediger & Bati SPECIES
-=======
+# Anatolinites alaskensis Elsik, V.S. Ediger & Bati SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Palynology 14: 94 (1990)
 
 #### Original name
-Anatolinites alaskaensis Elsik, V.S. Ediger & Bati
+Anatolinites alaskensis Elsik, V.S. Ediger & Bati
 
 ### Remarks
 null

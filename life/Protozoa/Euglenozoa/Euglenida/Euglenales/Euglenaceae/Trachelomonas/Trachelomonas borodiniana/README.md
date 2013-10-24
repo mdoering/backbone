@@ -1,5 +1,4 @@
-Trachelomonas borodiniana Svirenko SPECIES
-=======
+# Trachelomonas borodiniana Svirenko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea leptadina Sommerf. SPECIES
-=======
+# Lecidea leptadina Sommerf. SPECIES
 
 #### Status
 ACCEPTED

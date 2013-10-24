@@ -1,5 +1,4 @@
-Jenmania W. Wächter, 1897 GENUS
-=======
+# Jenmania W. Wächter, 1897 GENUS
 
 #### Status
 ACCEPTED

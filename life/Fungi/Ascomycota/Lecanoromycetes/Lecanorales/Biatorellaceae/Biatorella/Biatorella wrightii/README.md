@@ -1,5 +1,4 @@
-Biatorella wrightii (Tuck.) Zahlbr. SPECIES
-=======
+# Biatorella wrightii (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

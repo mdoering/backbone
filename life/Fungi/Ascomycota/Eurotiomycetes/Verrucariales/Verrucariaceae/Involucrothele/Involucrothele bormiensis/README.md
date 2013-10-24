@@ -1,5 +1,4 @@
-Involucrothele bormiensis (Servít) Servít SPECIES
-=======
+# Involucrothele bormiensis (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

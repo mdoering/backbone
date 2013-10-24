@@ -1,5 +1,4 @@
-Rinodina verruciformis Sheard SPECIES
-=======
+# Rinodina verruciformis Sheard SPECIES
 
 #### Status
 ACCEPTED

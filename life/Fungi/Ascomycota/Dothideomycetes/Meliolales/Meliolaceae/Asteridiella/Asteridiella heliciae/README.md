@@ -1,5 +1,4 @@
-Asteridiella heliciae B. Song & T.H. Li SPECIES
-=======
+# Asteridiella heliciae B. Song & T.H. Li SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Durella groenlandica (Rostr.) Sacc. SPECIES
-=======
+# Durella groenlandica (Rostr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

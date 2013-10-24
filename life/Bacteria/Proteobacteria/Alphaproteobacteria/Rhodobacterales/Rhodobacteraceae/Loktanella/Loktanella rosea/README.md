@@ -1,5 +1,4 @@
-Loktanella rosea Ivanova et al., 2005 SPECIES
-=======
+# Loktanella rosea Ivanova et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

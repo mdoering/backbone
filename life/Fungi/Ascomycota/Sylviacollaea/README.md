@@ -1,5 +1,4 @@
-Sylviacollaea Cif. GENUS
-=======
+# Sylviacollaea Cif. GENUS
 
 #### Status
 ACCEPTED

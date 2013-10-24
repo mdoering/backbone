@@ -1,5 +1,4 @@
-Macrophoma triacanthi (Sacc.) Berl. & Voglino SPECIES
-=======
+# Macrophoma triacanthi (Sacc.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

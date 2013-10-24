@@ -1,5 +1,4 @@
-Ditrypanocystis Burt, Denny & Thomasson, 1963 GENUS
-=======
+# Ditrypanocystis Burt, Denny & Thomasson, 1963 GENUS
 
 #### Status
 ACCEPTED

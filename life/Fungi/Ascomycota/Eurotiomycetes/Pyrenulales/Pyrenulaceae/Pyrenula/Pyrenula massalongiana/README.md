@@ -1,5 +1,4 @@
-Pyrenula massalongiana Trevis. SPECIES
-=======
+# Pyrenula massalongiana Trevis. SPECIES
 
 #### Status
 ACCEPTED

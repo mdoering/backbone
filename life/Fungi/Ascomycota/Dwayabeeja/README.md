@@ -1,5 +1,4 @@
-Dwayabeeja Subram. GENUS
-=======
+# Dwayabeeja Subram. GENUS
 
 #### Status
 ACCEPTED

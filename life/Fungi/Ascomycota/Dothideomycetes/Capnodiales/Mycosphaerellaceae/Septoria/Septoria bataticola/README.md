@@ -1,5 +1,4 @@
-Septoria bataticola Taubenh., 1914 SPECIES
-=======
+# Septoria bataticola Taubenh., 1914 SPECIES
 
 #### Status
 ACCEPTED

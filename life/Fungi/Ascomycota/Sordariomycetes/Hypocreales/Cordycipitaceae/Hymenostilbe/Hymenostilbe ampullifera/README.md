@@ -1,5 +1,4 @@
-Hymenostilbe ampullifera Petch SPECIES
-=======
+# Hymenostilbe ampullifera Petch SPECIES
 
 #### Status
 ACCEPTED

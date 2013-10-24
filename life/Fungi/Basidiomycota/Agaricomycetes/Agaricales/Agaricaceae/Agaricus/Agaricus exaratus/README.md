@@ -1,5 +1,4 @@
-Agaricus exaratus With. SPECIES
-=======
+# Agaricus exaratus With. SPECIES
 
 #### Status
 ACCEPTED

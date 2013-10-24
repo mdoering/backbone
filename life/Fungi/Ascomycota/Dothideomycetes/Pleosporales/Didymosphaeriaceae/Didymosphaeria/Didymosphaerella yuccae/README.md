@@ -1,5 +1,4 @@
-Didymosphaerella yuccae A.W. Ramaley & M.E. Barr SPECIES
-=======
+# Didymosphaerella yuccae A.W. Ramaley & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

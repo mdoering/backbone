@@ -1,5 +1,4 @@
-Thrombium verrucosum SPECIES
-=======
+# Thrombium verrucosum SPECIES
 
 #### Status
 ACCEPTED

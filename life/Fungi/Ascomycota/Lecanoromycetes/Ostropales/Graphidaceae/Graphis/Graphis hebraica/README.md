@@ -1,5 +1,4 @@
-Graphis hebraica (Hoffm.) Röhl. SPECIES
-=======
+# Graphis hebraica (Hoffm.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

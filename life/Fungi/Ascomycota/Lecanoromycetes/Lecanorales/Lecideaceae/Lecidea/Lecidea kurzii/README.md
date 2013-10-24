@@ -1,5 +1,4 @@
-Lecidea kurzii (Kremp.) Hue SPECIES
-=======
+# Lecidea kurzii (Kremp.) Hue SPECIES
 
 #### Status
 ACCEPTED

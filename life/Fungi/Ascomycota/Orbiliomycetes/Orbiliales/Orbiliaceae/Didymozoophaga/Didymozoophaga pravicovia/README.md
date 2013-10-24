@@ -1,5 +1,4 @@
-Didymozoophaga pravicovia Soprunov & Galiulina SPECIES
-=======
+# Didymozoophaga pravicovia Soprunov & Galiulina SPECIES
 
 #### Status
 ACCEPTED

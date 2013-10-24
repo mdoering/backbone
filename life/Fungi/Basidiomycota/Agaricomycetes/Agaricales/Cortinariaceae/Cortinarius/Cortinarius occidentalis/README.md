@@ -1,5 +1,4 @@
-Cortinarius occidentalis var. occidentalis A.H. Sm., 1939 VARIETY
-=======
+# Cortinarius occidentalis A.H. Sm., 1939 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contr. Univ. Mich. Herb. 1: 15 (1939)
+null
 
 #### Original name
-Cortinarius occidentalis var. occidentalis A.H. Sm., 1939
+null
 
 ### Remarks
 null

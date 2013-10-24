@@ -1,5 +1,4 @@
-Pholiota pseudoerebia A. Pearson SPECIES
-=======
+# Pholiota pseudoerebia A. Pearson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torresina intermedia Parr SPECIES
-=======
+# Torresina intermedia Parr SPECIES
 
 #### Status
 ACCEPTED

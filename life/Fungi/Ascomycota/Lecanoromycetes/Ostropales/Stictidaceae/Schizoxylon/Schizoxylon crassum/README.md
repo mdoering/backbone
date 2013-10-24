@@ -1,5 +1,4 @@
-Schizoxylon crassum Sherwood SPECIES
-=======
+# Schizoxylon crassum Sherwood SPECIES
 
 #### Status
 ACCEPTED

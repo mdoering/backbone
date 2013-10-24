@@ -1,5 +1,4 @@
-Coccodiscus GENUS
-=======
+# Coccodiscus GENUS
 
 #### Status
 ACCEPTED

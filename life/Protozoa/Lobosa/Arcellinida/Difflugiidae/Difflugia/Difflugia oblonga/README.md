@@ -1,5 +1,4 @@
-Difflugia oblonga Ehr. SPECIES
-=======
+# Difflugia oblonga Ehr. SPECIES
 
 #### Status
 ACCEPTED

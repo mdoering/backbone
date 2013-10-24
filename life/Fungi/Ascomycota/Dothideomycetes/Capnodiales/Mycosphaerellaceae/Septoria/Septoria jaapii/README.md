@@ -1,5 +1,4 @@
-Septoria jaapii Bres. SPECIES
-=======
+# Septoria jaapii Bres. SPECIES
 
 #### Status
 ACCEPTED

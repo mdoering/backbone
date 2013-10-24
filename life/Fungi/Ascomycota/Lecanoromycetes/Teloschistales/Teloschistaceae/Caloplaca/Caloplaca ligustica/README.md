@@ -1,5 +1,4 @@
-Caloplaca ligustica B. de Lesd. SPECIES
-=======
+# Caloplaca ligustica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

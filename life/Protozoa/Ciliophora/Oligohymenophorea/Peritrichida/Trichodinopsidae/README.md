@@ -1,5 +1,4 @@
-Trichodinopsidae FAMILY
-=======
+# Trichodinopsidae FAMILY
 
 #### Status
 ACCEPTED

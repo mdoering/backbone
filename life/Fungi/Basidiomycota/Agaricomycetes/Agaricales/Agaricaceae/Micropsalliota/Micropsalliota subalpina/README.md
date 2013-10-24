@@ -1,5 +1,4 @@
-Micropsalliota subalpina Guzm.-Dáv. & Heinem. SPECIES
-=======
+# Micropsalliota subalpina Guzm.-Dáv. & Heinem. SPECIES
 
 #### Status
 ACCEPTED

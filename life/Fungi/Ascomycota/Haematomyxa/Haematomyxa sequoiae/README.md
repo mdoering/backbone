@@ -1,5 +1,4 @@
-Haematomyxa sequoiae (Plowr.) Bonar SPECIES
-=======
+# Haematomyxa sequoiae (Plowr.) Bonar SPECIES
 
 #### Status
 ACCEPTED

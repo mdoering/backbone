@@ -1,5 +1,4 @@
-Nectria sensitiva Rehm SPECIES
-=======
+# Nectria sensitiva Rehm SPECIES
 
 #### Status
 ACCEPTED

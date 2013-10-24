@@ -1,11 +1,10 @@
-Bacterium purifaciens Christiansen, 1917 SPECIES
-=======
+# Actinobacillus lignieresii Brumpt, 1910 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

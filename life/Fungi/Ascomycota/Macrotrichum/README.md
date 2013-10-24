@@ -1,5 +1,4 @@
-Macrotrichum Grev. GENUS
-=======
+# Macrotrichum Grev. GENUS
 
 #### Status
 ACCEPTED

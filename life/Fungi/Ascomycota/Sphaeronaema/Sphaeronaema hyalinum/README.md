@@ -1,5 +1,4 @@
-Sphaeronaema hyalinum F. Lamb. & Fautrey SPECIES
-=======
+# Sphaeronaema hyalinum F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

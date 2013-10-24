@@ -1,5 +1,4 @@
-Parmelia breviciliata Hale SPECIES
-=======
+# Parmelia breviciliata Hale SPECIES
 
 #### Status
 ACCEPTED

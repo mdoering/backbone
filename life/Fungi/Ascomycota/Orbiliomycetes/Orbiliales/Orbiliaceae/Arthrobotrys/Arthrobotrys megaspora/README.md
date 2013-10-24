@@ -1,5 +1,4 @@
-Arthrobotrys megaspora (Boedijn) Oorschot SPECIES
-=======
+# Arthrobotrys megaspora (Boedijn) Oorschot SPECIES
 
 #### Status
 ACCEPTED

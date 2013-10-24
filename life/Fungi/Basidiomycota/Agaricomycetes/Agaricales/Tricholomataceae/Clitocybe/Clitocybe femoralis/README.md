@@ -1,5 +1,4 @@
-Clitocybe femoralis H.E. Bigelow SPECIES
-=======
+# Clitocybe femoralis H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

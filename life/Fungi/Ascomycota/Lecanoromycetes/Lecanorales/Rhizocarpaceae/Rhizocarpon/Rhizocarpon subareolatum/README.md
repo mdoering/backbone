@@ -1,5 +1,4 @@
-Rhizocarpon subareolatum E. S. Hansen SPECIES
-=======
+# Rhizocarpon subareolatum E. S. Hansen SPECIES
 
 #### Status
 ACCEPTED

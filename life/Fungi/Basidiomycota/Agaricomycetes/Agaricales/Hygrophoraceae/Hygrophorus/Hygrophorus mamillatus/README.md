@@ -1,5 +1,4 @@
-Hygrophorus mamillatus Largent SPECIES
-=======
+# Hygrophorus mamillatus Largent SPECIES
 
 #### Status
 ACCEPTED

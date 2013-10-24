@@ -1,5 +1,4 @@
-Asterina loranthicola Syd. & P. Syd. SPECIES
-=======
+# Asterina loranthicola Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

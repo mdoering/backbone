@@ -1,5 +1,4 @@
-Calonectria cucurbitula (Fr.) Sacc. SPECIES
-=======
+# Calonectria cucurbitula (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

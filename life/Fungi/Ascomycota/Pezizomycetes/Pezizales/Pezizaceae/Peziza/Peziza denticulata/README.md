@@ -1,5 +1,4 @@
-Peziza denticulata Oeder SPECIES
-=======
+# Peziza denticulata Oeder SPECIES
 
 #### Status
 ACCEPTED

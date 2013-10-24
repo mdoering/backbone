@@ -1,5 +1,4 @@
-Echidnodella fourcroyae R.W. Ryan SPECIES
-=======
+# Echidnodella fourcroyae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

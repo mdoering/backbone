@@ -1,5 +1,4 @@
-Uredo indigoferae Doidge SPECIES
-=======
+# Uredo indigoferae Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entylomella sii-latifolii (Sacc.) U. Braun & Mulenko SPECIES
-=======
+# Entylomella sii-latifolii (Sacc.) U. Braun & Mulenko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma haloxylicola Kravtzev SPECIES
-=======
+# Phoma haloxylicola Kravtzev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita crassa Bas SPECIES
-=======
+# Amanita crassa Bas SPECIES
 
 #### Status
 ACCEPTED

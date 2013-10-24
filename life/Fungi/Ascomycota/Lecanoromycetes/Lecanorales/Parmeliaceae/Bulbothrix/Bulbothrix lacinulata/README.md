@@ -1,5 +1,4 @@
-Bulbothrix lacinulata Marcelli, Jungbluth & Elix SPECIES
-=======
+# Bulbothrix lacinulata Marcelli, Jungbluth & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrolepiota colombiana Franco-Mol. SPECIES
-=======
+# Macrolepiota colombiana Franco-Mol. SPECIES
 
 #### Status
 ACCEPTED

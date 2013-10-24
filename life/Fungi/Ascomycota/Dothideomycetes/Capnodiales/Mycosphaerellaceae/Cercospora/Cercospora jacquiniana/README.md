@@ -1,5 +1,4 @@
-Cercospora jacquiniana Thüm. SPECIES
-=======
+# Cercospora jacquiniana Thüm. SPECIES
 
 #### Status
 ACCEPTED

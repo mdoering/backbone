@@ -1,5 +1,4 @@
-Pleurocapsa africana Gayral & Mazancourt SPECIES
-=======
+# Pleurocapsa africana Gayral & Mazancourt SPECIES
 
 #### Status
 ACCEPTED

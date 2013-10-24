@@ -1,5 +1,4 @@
-Tintinnopsis loricata Brandt, 1906 SPECIES
-=======
+# Tintinnopsis loricata Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

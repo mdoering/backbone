@@ -1,5 +1,4 @@
-Sphaeria crypta Fr. SPECIES
-=======
+# Sphaeria crypta Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium paeoniae-anomalae Sacc. SPECIES
-=======
+# Cladosporium paeoniae-anomalae Sacc. SPECIES
 
 #### Status
 ACCEPTED

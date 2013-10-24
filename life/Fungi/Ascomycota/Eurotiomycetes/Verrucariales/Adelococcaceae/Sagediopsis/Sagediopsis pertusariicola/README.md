@@ -1,5 +1,4 @@
-Sagediopsis pertusariicola Zhurb. SPECIES
-=======
+# Sagediopsis pertusariicola Zhurb. SPECIES
 
 #### Status
 ACCEPTED

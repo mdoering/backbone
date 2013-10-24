@@ -1,5 +1,4 @@
-Pyrenula pachycheila Tuck. SPECIES
-=======
+# Pyrenula pachycheila Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora polliae Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora polliae Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

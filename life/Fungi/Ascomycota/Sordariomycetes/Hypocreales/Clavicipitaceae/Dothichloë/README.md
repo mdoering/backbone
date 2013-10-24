@@ -1,5 +1,4 @@
-Dothichloë GENUS
-=======
+# Dothichloë GENUS
 
 #### Status
 ACCEPTED

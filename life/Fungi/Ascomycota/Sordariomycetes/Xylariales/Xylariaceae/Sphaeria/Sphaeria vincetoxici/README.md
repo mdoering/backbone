@@ -1,5 +1,4 @@
-Sphaeria vincetoxici (Ficinus & C. Schub.) Fr. SPECIES
-=======
+# Sphaeria vincetoxici (Ficinus & C. Schub.) Fr. SPECIES
 
 #### Status
 ACCEPTED

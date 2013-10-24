@@ -1,5 +1,4 @@
-Stylopage hadra Drechsler, 1935 SPECIES
-=======
+# Stylopage hadra Drechsler, 1935 SPECIES
 
 #### Status
 ACCEPTED

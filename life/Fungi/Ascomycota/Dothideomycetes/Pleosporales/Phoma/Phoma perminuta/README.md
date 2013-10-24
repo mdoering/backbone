@@ -1,5 +1,4 @@
-Phoma perminuta Sacc. SPECIES
-=======
+# Phoma perminuta Sacc. SPECIES
 
 #### Status
 ACCEPTED

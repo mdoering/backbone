@@ -1,5 +1,4 @@
-Cycloforina tenuicollis (Wiesner, 1923) SPECIES
-=======
+# Cycloforina tenuicollis (Wiesner, 1923) SPECIES
 
 #### Status
 ACCEPTED

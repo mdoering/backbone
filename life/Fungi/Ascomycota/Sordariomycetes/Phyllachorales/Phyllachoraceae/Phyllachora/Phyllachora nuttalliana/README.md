@@ -1,5 +1,4 @@
-Phyllachora nuttalliana Fairm., 1923 SPECIES
-=======
+# Phyllachora nuttalliana Fairm., 1923 SPECIES
 
 #### Status
 ACCEPTED

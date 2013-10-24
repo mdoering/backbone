@@ -1,5 +1,4 @@
-Polystictus multilobus (Kalchbr.) Cooke SPECIES
-=======
+# Polystictus multilobus (Kalchbr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

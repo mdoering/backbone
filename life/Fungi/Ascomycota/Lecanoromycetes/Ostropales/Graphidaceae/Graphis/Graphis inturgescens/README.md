@@ -1,5 +1,4 @@
-Graphis inturgescens Kremp. SPECIES
-=======
+# Graphis inturgescens Kremp. SPECIES
 
 #### Status
 ACCEPTED

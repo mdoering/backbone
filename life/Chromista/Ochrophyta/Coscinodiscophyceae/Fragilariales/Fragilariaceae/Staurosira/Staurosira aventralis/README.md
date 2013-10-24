@@ -1,5 +1,4 @@
-Staurosira aventralis Lange-Bertalot & Rumrich SPECIES
-=======
+# Staurosira aventralis Lange-Bertalot & Rumrich SPECIES
 
 #### Status
 ACCEPTED

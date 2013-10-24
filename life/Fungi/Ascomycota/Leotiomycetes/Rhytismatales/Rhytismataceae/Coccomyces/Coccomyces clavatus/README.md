@@ -1,5 +1,4 @@
-Coccomyces clavatus P.R. Johnst., 1986 SPECIES
-=======
+# Coccomyces clavatus P.R. Johnst., 1986 SPECIES
 
 #### Status
 ACCEPTED

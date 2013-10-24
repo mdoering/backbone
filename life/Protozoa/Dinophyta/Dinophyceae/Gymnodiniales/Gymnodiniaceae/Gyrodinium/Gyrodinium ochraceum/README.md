@@ -1,5 +1,4 @@
-Gyrodinium ochraceum Kofoid & Swezy SPECIES
-=======
+# Gyrodinium ochraceum Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

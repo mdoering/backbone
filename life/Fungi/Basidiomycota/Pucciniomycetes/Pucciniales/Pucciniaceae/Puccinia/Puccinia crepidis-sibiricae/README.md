@@ -1,5 +1,4 @@
-Puccinia crepidis-sibiricae Lindr. SPECIES
-=======
+# Puccinia crepidis-sibiricae Lindr. SPECIES
 
 #### Status
 ACCEPTED

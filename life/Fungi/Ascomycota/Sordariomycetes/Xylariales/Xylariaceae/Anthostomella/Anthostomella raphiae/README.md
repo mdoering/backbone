@@ -1,5 +1,4 @@
-Anthostomella raphiae B.S. Lu & K.D. Hyde, 2000 SPECIES
-=======
+# Anthostomella raphiae B.S. Lu & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

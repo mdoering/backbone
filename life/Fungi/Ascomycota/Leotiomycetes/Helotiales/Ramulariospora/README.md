@@ -1,5 +1,4 @@
-Ramulariospora GENUS
-=======
+# Ramulariospora GENUS
 
 #### Status
 ACCEPTED

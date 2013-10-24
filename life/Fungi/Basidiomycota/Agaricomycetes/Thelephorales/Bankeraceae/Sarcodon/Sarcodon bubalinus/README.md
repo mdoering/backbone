@@ -1,5 +1,4 @@
-Sarcodon bubalinus (Pers.) Maas Geest. SPECIES
-=======
+# Sarcodon bubalinus (Pers.) Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

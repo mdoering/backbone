@@ -1,5 +1,4 @@
-Pyrenochaeta kuznetzoviana Schwarzman SPECIES
-=======
+# Pyrenochaeta kuznetzoviana Schwarzman SPECIES
 
 #### Status
 ACCEPTED

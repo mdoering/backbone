@@ -1,8 +1,7 @@
-Hymenopsis paraënsis Syd. {?} SPECIES
-=======
+# Hymenopsis paraensis Syd. {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hymenopsis paraënsis Syd. {?}
+Hymenopsis paraensis Syd. {?}
 
 ### Remarks
 null

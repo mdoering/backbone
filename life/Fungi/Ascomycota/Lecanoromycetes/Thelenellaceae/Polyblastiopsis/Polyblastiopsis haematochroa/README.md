@@ -1,5 +1,4 @@
-Polyblastiopsis haematochroa Hue SPECIES
-=======
+# Polyblastiopsis haematochroa Hue SPECIES
 
 #### Status
 ACCEPTED

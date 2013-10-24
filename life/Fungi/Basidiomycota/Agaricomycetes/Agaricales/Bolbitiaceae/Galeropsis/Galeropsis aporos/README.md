@@ -1,5 +1,4 @@
-Galeropsis aporos Courtec., 1993 SPECIES
-=======
+# Galeropsis aporos Courtec., 1993 SPECIES
 
 #### Status
 ACCEPTED

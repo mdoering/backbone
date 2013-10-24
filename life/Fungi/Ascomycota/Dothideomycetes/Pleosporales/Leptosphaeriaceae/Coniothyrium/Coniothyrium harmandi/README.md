@@ -1,5 +1,4 @@
-Coniothyrium harmandi Zopf SPECIES
-=======
+# Coniothyrium harmandi Zopf SPECIES
 
 #### Status
 ACCEPTED

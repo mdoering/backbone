@@ -1,5 +1,4 @@
-Pluteus grandis Peck SPECIES
-=======
+# Pluteus grandis Peck SPECIES
 
 #### Status
 ACCEPTED

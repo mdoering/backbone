@@ -1,5 +1,4 @@
-Disciseda brandegei (Lloyd) Zeller SPECIES
-=======
+# Disciseda brandegei (Lloyd) Zeller SPECIES
 
 #### Status
 ACCEPTED

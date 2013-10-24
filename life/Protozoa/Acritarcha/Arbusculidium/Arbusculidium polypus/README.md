@@ -1,5 +1,4 @@
-Arbusculidium polypus Di Milia et al., 1989 SPECIES
-=======
+# Arbusculidium polypus Di Milia et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

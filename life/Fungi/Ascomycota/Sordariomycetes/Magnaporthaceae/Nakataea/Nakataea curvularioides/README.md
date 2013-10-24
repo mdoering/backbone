@@ -1,5 +1,4 @@
-Nakataea curvularioides G.R.W. Arnold SPECIES
-=======
+# Nakataea curvularioides G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora grewicola Govindu & Thirum. SPECIES
-=======
+# Cercospora grewiicola Govindu & Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 8: 229 (1954)
 
 #### Original name
-Cercospora grewicola Govindu & Thirum.
+Cercospora grewiicola Govindu & Thirum.
 
 ### Remarks
 null

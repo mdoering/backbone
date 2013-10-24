@@ -1,5 +1,4 @@
-Cordyceps retipes Lév. SPECIES
-=======
+# Cordyceps retipes Lév. SPECIES
 
 #### Status
 ACCEPTED

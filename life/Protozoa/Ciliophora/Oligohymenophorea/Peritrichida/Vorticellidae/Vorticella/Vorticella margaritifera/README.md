@@ -1,5 +1,4 @@
-Vorticella margaritifera Fromentel, 1876 SPECIES
-=======
+# Vorticella margaritifera Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

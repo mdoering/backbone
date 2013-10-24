@@ -1,17 +1,16 @@
-Poria nigrescens Bres., 1897 SPECIES
-=======
+# Rigidoporus crocatus (Pat.) Ryvarden, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Acad. Agiato Rovereto 3: 83 (1897)
+Occ. Pap. Farlow Herb. Crypt. Bot. 18: 13 (1983)
 
 #### Original name
-Poria nigrescens Bres., 1897
+Poria crocata Pat., 1894
 
 ### Remarks
 null

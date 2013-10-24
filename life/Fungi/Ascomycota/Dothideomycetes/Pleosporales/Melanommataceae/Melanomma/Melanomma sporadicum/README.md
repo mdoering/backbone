@@ -1,5 +1,4 @@
-Melanomma sporadicum Ellis & Everh. SPECIES
-=======
+# Melanomma sporadicum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

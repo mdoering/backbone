@@ -1,5 +1,4 @@
-Arthopyrenia atomariella (Nyl.) Hulting SPECIES
-=======
+# Arthopyrenia atomariella (Nyl.) Hulting SPECIES
 
 #### Status
 ACCEPTED

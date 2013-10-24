@@ -1,5 +1,4 @@
-Chaetoplea ellisii (Sacc. & P. Syd.) M.E. Barr SPECIES
-=======
+# Chaetoplea ellisii (Sacc. & P. Syd.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

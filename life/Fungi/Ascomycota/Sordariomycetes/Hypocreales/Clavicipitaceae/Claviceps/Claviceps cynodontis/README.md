@@ -1,5 +1,4 @@
-Claviceps cynodontis Langdon SPECIES
-=======
+# Claviceps cynodontis Langdon SPECIES
 
 #### Status
 ACCEPTED

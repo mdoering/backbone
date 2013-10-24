@@ -1,5 +1,4 @@
-Dimeromyces mucronatus Paoli SPECIES
-=======
+# Dimeromyces mucronatus Paoli SPECIES
 
 #### Status
 ACCEPTED

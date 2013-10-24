@@ -1,5 +1,4 @@
-Cryptovalsa moravica Petr. & Sacc. SPECIES
-=======
+# Cryptovalsa moravica Petr. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

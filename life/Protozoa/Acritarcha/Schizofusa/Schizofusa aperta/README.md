@@ -1,5 +1,4 @@
-Schizofusa aperta Yan Yuzhong, 1982 SPECIES
-=======
+# Schizofusa aperta Yan Yuzhong, 1982 SPECIES
 
 #### Status
 ACCEPTED

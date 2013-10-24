@@ -1,5 +1,4 @@
-Bullera dendrophila Van der Walt & D.B. Scott SPECIES
-=======
+# Bullera dendrophila Van der Walt & D.B. Scott SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gastronautidae FAMILY
-=======
+# Gastronautidae FAMILY
 
 #### Status
 ACCEPTED

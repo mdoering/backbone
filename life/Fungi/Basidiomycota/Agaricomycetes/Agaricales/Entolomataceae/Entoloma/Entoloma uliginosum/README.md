@@ -1,5 +1,4 @@
-Entoloma uliginosum Kobayasi SPECIES
-=======
+# Entoloma uliginosum Kobayasi SPECIES
 
 #### Status
 ACCEPTED

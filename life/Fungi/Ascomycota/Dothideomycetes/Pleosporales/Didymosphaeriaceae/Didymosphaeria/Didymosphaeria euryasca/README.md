@@ -1,5 +1,4 @@
-Didymosphaeria euryasca Ellis & Galloway SPECIES
-=======
+# Didymosphaeria euryasca Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

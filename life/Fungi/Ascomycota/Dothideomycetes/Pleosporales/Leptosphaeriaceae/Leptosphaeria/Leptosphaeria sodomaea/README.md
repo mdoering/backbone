@@ -1,5 +1,4 @@
-Leptosphaeria sodomaea (De Not.) Sacc. SPECIES
-=======
+# Leptosphaeria sodomaea (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

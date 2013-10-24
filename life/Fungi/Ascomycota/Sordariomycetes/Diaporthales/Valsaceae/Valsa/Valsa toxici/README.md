@@ -1,5 +1,4 @@
-Valsa toxici (Schwein.) Cooke SPECIES
-=======
+# Valsa toxici (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

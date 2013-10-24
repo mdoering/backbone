@@ -1,5 +1,4 @@
-Puccinia ursiniae R.G. Shivas SPECIES
-=======
+# Puccinia ursiniae R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

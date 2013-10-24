@@ -1,5 +1,4 @@
-Spegazzinia intermedia M.B. Ellis, 1976 SPECIES
-=======
+# Spegazzinia intermedia M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

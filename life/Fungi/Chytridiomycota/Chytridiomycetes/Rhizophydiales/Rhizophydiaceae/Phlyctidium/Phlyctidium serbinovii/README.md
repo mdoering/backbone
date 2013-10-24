@@ -1,5 +1,4 @@
-Phlyctidium serbinovii (Jacz.) Naumov SPECIES
-=======
+# Phlyctidium serbinovii (Jacz.) Naumov SPECIES
 
 #### Status
 ACCEPTED

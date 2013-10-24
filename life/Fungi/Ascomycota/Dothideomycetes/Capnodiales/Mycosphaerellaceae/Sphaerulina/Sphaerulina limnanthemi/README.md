@@ -1,5 +1,4 @@
-Sphaerulina limnanthemi Nag Raj & Ponnappa SPECIES
-=======
+# Sphaerulina limnanthemi Nag Raj & Ponnappa SPECIES
 
 #### Status
 ACCEPTED

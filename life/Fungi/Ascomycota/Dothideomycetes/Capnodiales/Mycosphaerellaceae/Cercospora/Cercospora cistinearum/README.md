@@ -1,5 +1,4 @@
-Cercospora cistinearum Sacc., 1878 SPECIES
-=======
+# Cercospora cistinearum Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

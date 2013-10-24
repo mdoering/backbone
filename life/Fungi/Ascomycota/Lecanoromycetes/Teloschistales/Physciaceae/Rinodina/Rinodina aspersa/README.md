@@ -1,17 +1,16 @@
-Rinodina aspersa var. aspersa VARIETY
-=======
+# Rinodina aspersa (Borrer) J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 18(2): 175 (1986)
 
 #### Original name
-null
+Lecanora aspersa Borrer
 
 ### Remarks
 null

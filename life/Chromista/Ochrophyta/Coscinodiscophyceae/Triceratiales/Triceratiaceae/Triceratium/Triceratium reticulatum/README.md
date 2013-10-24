@@ -1,5 +1,4 @@
-Triceratium reticulatum Greville SPECIES
-=======
+# Triceratium reticulatum Greville SPECIES
 
 #### Status
 ACCEPTED

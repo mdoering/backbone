@@ -1,5 +1,4 @@
-Buellia novae-caledoniae B. de Lesd. SPECIES
-=======
+# Buellia novae-caledoniae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

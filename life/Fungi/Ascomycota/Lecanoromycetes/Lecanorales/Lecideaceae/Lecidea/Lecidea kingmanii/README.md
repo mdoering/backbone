@@ -1,5 +1,4 @@
-Lecidea kingmanii (Hasse) Hertel & S. Ekman SPECIES
-=======
+# Lecidea kingmanii (Hasse) Hertel & S. Ekman SPECIES
 
 #### Status
 ACCEPTED

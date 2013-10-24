@@ -1,5 +1,4 @@
-Metasphaeria ambrosiaecola var. ambrosiaecola VARIETY
-=======
+# Metasphaeria ambrosiaecola G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Metasphaeria ambrosiaecola var. ambrosiaecola
+Metasphaeria ambrosiaecola G.F. Atk.
 
 ### Remarks
 null

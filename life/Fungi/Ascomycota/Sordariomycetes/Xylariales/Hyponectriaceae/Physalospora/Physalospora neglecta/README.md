@@ -1,5 +1,4 @@
-Physalospora neglecta Petch SPECIES
-=======
+# Physalospora neglecta Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achroomyces subabditus (Hauerslev) Hauerslev SPECIES
-=======
+# Achroomyces subabditus (Hauerslev) Hauerslev SPECIES
 
 #### Status
 ACCEPTED

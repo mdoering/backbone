@@ -1,5 +1,4 @@
-Catillaria bicolorata Vain. SPECIES
-=======
+# Catillaria bicolorata Vain. SPECIES
 
 #### Status
 ACCEPTED

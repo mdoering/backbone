@@ -1,5 +1,4 @@
-Discorhabdus tubus Barnard & Hay, 1974 SPECIES
-=======
+# Discorhabdus tubus Barnard & Hay, 1974 SPECIES
 
 #### Status
 ACCEPTED

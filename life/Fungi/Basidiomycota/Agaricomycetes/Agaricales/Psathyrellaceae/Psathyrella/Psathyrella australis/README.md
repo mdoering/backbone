@@ -1,5 +1,4 @@
-Psathyrella australis (Murrill) A.H. Sm. SPECIES
-=======
+# Psathyrella australis (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

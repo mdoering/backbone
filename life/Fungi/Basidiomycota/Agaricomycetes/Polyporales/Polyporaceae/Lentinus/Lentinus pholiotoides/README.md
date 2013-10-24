@@ -1,5 +1,4 @@
-Lentinus pholiotoides Ellis & H.W. Anderson SPECIES
-=======
+# Lentinus pholiotoides Ellis & H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

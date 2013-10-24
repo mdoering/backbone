@@ -1,5 +1,4 @@
-Lecanographa farinosa (Hepp) Egea & Torrente SPECIES
-=======
+# Lecanographa farinosa (Hepp) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

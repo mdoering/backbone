@@ -1,5 +1,4 @@
-Ramularia argentinensis Deighton SPECIES
-=======
+# Ramularia argentinensis Deighton SPECIES
 
 #### Status
 ACCEPTED

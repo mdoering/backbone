@@ -1,5 +1,4 @@
-Peronospora mirabilis Jacz. SPECIES
-=======
+# Peronospora mirabilis Jacz. SPECIES
 
 #### Status
 ACCEPTED

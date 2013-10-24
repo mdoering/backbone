@@ -1,5 +1,4 @@
-Melanoleuca peralba Murrill SPECIES
-=======
+# Melanoleuca peralba Murrill SPECIES
 
 #### Status
 ACCEPTED

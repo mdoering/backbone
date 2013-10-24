@@ -1,5 +1,4 @@
-Spirillum GENUS
-=======
+# Spirillum GENUS
 
 #### Status
 ACCEPTED

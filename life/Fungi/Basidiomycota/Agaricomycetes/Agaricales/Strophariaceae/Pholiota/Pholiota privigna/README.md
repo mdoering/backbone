@@ -1,5 +1,4 @@
-Pholiota privigna (Speg.) Singer SPECIES
-=======
+# Pholiota privigna (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria poricola Theiss. SPECIES
-=======
+# Nectria poricola Theiss. SPECIES
 
 #### Status
 ACCEPTED

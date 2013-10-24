@@ -1,5 +1,4 @@
-Rhabdospora acanthophila A. Massal. SPECIES
-=======
+# Rhabdospora acanthophila A. Massal. SPECIES
 
 #### Status
 ACCEPTED

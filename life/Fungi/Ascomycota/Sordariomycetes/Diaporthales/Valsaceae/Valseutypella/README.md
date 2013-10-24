@@ -1,5 +1,4 @@
-Valseutypella Höhn. GENUS
-=======
+# Valseutypella Höhn. GENUS
 
 #### Status
 ACCEPTED

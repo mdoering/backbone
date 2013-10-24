@@ -1,14 +1,13 @@
-Proteonella Lukina, 1969 GENUS
-=======
+# Lagenammina Rhumbler, 1911 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ergebn. Plankton-Exped. , Band 1, 1909, 92, 111.
 
 #### Original name
 null

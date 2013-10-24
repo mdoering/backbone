@@ -1,5 +1,4 @@
-Tectohymenidae FAMILY
-=======
+# Tectohymenidae FAMILY
 
 #### Status
 ACCEPTED

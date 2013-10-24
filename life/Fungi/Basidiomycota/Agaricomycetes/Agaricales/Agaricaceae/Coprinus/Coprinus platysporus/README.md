@@ -1,5 +1,4 @@
-Coprinus platysporus Speg. SPECIES
-=======
+# Coprinus platysporus Speg. SPECIES
 
 #### Status
 ACCEPTED

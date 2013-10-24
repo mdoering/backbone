@@ -1,5 +1,4 @@
-Bankera Coker & Beers ex Pouzar, 1955 GENUS
-=======
+# Bankera Coker & Beers ex Pouzar, 1955 GENUS
 
 #### Status
 ACCEPTED

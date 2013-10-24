@@ -1,5 +1,4 @@
-Melosira hustedti Krasske SPECIES
-=======
+# Melosira hustedti Krasske SPECIES
 
 #### Status
 ACCEPTED

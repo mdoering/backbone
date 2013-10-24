@@ -1,5 +1,4 @@
-Pholiota chromocystis A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota chromocystis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

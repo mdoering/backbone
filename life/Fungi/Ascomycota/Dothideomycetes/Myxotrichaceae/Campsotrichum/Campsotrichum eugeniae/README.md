@@ -1,5 +1,4 @@
-Campsotrichum eugeniae Pat. SPECIES
-=======
+# Campsotrichum eugeniae Pat. SPECIES
 
 #### Status
 ACCEPTED

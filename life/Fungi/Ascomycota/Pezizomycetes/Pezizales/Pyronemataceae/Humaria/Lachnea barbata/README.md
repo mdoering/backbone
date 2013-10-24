@@ -1,5 +1,4 @@
-Lachnea barbata Velen. SPECIES
-=======
+# Lachnea barbata Velen. SPECIES
 
 #### Status
 ACCEPTED

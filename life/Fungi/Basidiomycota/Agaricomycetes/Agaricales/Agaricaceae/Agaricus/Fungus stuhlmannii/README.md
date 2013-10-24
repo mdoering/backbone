@@ -1,5 +1,4 @@
-Fungus stuhlmannii (Henn.) Kuntze SPECIES
-=======
+# Fungus stuhlmannii (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

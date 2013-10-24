@@ -1,5 +1,4 @@
-Alboleptonia subsericella (Murrill) Largent & R.G. Benedict SPECIES
-=======
+# Alboleptonia subsericella (Murrill) Largent & R.G. Benedict SPECIES
 
 #### Status
 ACCEPTED

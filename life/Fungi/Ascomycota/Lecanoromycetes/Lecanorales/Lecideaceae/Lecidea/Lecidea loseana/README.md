@@ -1,5 +1,4 @@
-Lecidea loseana SPECIES
-=======
+# Lecidea loseana SPECIES
 
 #### Status
 ACCEPTED

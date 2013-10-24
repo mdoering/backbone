@@ -1,5 +1,4 @@
-Leiosphaeridia tubulosa Eisenack, 1963 SPECIES
-=======
+# Leiosphaeridia tubulosa Eisenack, 1963 SPECIES
 
 #### Status
 ACCEPTED

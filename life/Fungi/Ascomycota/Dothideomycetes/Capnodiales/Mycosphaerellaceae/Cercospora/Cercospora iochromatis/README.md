@@ -1,8 +1,7 @@
-Cercospora jochromatis Pat. SPECIES
-=======
+# Cercospora iochromatis Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercospora jochromatis Pat.
+Cercospora iochromatis Pat.
 
 ### Remarks
 null

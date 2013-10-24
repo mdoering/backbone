@@ -1,5 +1,4 @@
-Phomatospora sesbaniae Ellis & Everh. SPECIES
-=======
+# Phomatospora sesbaniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

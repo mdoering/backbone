@@ -1,5 +1,4 @@
-Psathyrella sulcata Clem. SPECIES
-=======
+# Psathyrella sulcata Clem. SPECIES
 
 #### Status
 ACCEPTED

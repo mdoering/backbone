@@ -1,14 +1,13 @@
-Botryobasidium pruinatum var. laeve J. Erikss., 1958 VARIETY
-=======
+# Botryobasidium laeve (J. Erikss.) Parmasto, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 52(1): 10 (1958)
+Eesti NSV Tead. Akad. Toim. , Biol. seer 14(2): 220 (1965)
 
 #### Original name
 Botryobasidium pruinatum var. laeve J. Erikss., 1958

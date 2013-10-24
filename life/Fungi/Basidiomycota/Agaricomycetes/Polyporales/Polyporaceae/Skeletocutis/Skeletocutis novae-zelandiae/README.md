@@ -1,17 +1,16 @@
-Poria novaezelandiae G. Cunn. SPECIES
-=======
+# Skeletocutis novae-zelandiae (G. Cunn.) P.K. Buchanan & Ryvarden, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 31(1): 20 (1988)
 
 #### Original name
-Poria novaezelandiae G. Cunn.
+Poria novae-zelandiae G. Cunn., 1947
 
 ### Remarks
 null

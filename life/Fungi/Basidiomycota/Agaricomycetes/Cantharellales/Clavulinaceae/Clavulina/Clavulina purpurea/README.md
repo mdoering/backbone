@@ -1,5 +1,4 @@
-Clavulina purpurea R.H. Petersen, 1988 SPECIES
-=======
+# Clavulina purpurea R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

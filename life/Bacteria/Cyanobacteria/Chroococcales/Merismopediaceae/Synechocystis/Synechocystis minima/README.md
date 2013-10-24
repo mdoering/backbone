@@ -1,5 +1,4 @@
-Synechocystis minima Voronichin SPECIES
-=======
+# Synechocystis minima Voronichin SPECIES
 
 #### Status
 ACCEPTED

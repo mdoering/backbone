@@ -1,5 +1,4 @@
-Coryneum decipiens Berk. & M.A. Curtis SPECIES
-=======
+# Coryneum decipiens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

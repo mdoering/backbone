@@ -1,5 +1,4 @@
-Lecanora physciella var. physciella VARIETY
-=======
+# Lecanora physciella (Darb.) Hertel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Nova Hedwigia 79: 447 (1984)
 
 #### Original name
-Lecanora physciella var. physciella
+Lecidea physciella Darb.
 
 ### Remarks
 null

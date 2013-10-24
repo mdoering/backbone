@@ -1,5 +1,4 @@
-Stigmatomyces indentatus Thaxt. SPECIES
-=======
+# Stigmatomyces indentatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

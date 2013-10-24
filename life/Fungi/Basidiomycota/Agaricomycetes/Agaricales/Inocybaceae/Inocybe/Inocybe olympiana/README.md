@@ -1,5 +1,4 @@
-Inocybe olympiana A.H. Sm. SPECIES
-=======
+# Inocybe olympiana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

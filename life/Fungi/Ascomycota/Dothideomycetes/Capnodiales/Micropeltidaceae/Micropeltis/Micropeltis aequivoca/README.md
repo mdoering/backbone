@@ -1,5 +1,4 @@
-Micropeltis aequivoca Pass. SPECIES
-=======
+# Micropeltis aequivoca Pass. SPECIES
 
 #### Status
 ACCEPTED

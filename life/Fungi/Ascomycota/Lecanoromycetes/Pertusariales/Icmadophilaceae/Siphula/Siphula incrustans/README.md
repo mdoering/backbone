@@ -1,5 +1,4 @@
-Siphula incrustans Vain. SPECIES
-=======
+# Siphula incrustans Vain. SPECIES
 
 #### Status
 ACCEPTED

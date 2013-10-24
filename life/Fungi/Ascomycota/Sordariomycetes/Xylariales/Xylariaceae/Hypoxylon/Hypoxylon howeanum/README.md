@@ -1,17 +1,16 @@
-Hypoxylon daldiniforme P.M.D. Martin SPECIES
-=======
+# Hypoxylon howeanum Peck, 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. 24: 98 (1872)
 
 #### Original name
-Hypoxylon daldiniforme P.M.D. Martin
+Hypoxylon howeanum Peck, 1872
 
 ### Remarks
 null

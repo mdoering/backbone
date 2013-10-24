@@ -1,5 +1,4 @@
-Mycobacterium tusciae Tortoli et al., 1999 SPECIES
-=======
+# Mycobacterium tusciae Tortoli et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

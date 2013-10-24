@@ -1,17 +1,16 @@
-Polyporus officinalis (Vill.) Fr., 1821 SPECIES
-=======
+# Laricifomes officinalis (Vill.) Kotl. & Pouzar, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 11(3): 158 (1957)
 
 #### Original name
-null
+Boletus officinalis Vill., 1788
 
 ### Remarks
 null

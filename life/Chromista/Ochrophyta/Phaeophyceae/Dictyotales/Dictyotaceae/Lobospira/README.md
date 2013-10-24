@@ -1,5 +1,4 @@
-Lobospira Areschoug, 1854 GENUS
-=======
+# Lobospira Areschoug, 1854 GENUS
 
 #### Status
 ACCEPTED

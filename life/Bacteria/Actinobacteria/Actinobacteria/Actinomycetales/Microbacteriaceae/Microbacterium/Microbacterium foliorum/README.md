@@ -1,5 +1,4 @@
-Microbacterium foliorum Behrendt et al., 2001 SPECIES
-=======
+# Microbacterium foliorum Behrendt et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

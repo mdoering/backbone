@@ -1,14 +1,13 @@
-Polyporus peckianus Cooke, 1879 SPECIES
-=======
+# Xanthoporus peckianus (Cooke) Audet, 2010 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Bot. Soc. Edinb. 13: 148 (1879)
+null
 
 #### Original name
 Polyporus peckianus Cooke, 1879

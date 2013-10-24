@@ -1,5 +1,4 @@
-Lecanora maurusiaca Werner SPECIES
-=======
+# Lecanora maurusiaca Werner SPECIES
 
 #### Status
 ACCEPTED

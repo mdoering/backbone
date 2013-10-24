@@ -1,5 +1,4 @@
-Flavobacterium denitrificans Horn et al., 2005 SPECIES
-=======
+# Flavobacterium denitrificans Horn et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

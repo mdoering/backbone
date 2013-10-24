@@ -1,5 +1,4 @@
-Umbilicaria tessellata (Ach.) Duby SPECIES
-=======
+# Umbilicaria tessellata (Ach.) Duby SPECIES
 
 #### Status
 ACCEPTED

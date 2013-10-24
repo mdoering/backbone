@@ -1,14 +1,13 @@
-Barbariella tubantica Middelh. & Boelens ex Middelh., 1949 SPECIES
-=======
+# Asaphomyces tubanticus (Middelh. & Boelens) Scheloske, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ned. kruidk. Archf 56: 260 (1949)
+Parasitologische Schriftenreihe 19: 92 (1969)
 
 #### Original name
 Barbariella tubantica Middelh. & Boelens ex Middelh., 1949

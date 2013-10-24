@@ -1,5 +1,4 @@
-Verrucaria luctuosa Servít SPECIES
-=======
+# Verrucaria luctuosa Servít SPECIES
 
 #### Status
 ACCEPTED

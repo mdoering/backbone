@@ -1,5 +1,4 @@
-Monilia oregonensis Barss SPECIES
-=======
+# Monilia oregonensis Barss SPECIES
 
 #### Status
 ACCEPTED

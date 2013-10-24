@@ -1,5 +1,4 @@
-Marasmius zenkeri Henn. SPECIES
-=======
+# Marasmius zenkeri Henn. SPECIES
 
 #### Status
 ACCEPTED

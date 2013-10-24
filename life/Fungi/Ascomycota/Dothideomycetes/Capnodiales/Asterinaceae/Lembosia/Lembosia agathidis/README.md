@@ -1,5 +1,4 @@
-Lembosia agathidis Hansf. SPECIES
-=======
+# Lembosia agathidis Hansf. SPECIES
 
 #### Status
 ACCEPTED

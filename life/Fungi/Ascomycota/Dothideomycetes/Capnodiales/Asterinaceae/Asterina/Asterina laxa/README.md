@@ -1,5 +1,4 @@
-Asterina laxa G. Winter SPECIES
-=======
+# Asterina laxa G. Winter SPECIES
 
 #### Status
 ACCEPTED

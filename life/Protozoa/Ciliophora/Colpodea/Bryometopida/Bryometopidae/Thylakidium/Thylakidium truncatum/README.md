@@ -1,5 +1,4 @@
-Thylakidium truncatum Schewiakoff, 1893 SPECIES
-=======
+# Thylakidium truncatum Schewiakoff, 1893 SPECIES
 
 #### Status
 ACCEPTED

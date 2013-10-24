@@ -1,5 +1,4 @@
-Teleutosporites milloti (Renault) Mesch. SPECIES
-=======
+# Teleutosporites milloti (Renault) Mesch. SPECIES
 
 #### Status
 ACCEPTED

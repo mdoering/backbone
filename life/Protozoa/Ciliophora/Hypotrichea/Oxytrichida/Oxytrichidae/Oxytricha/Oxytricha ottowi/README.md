@@ -1,5 +1,4 @@
-Oxytricha ottowi Foissner, 1996 SPECIES
-=======
+# Oxytricha ottowi Foissner, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corallochytrium Raghuk. GENUS
-=======
+# Corallochytrium Raghuk. GENUS
 
 #### Status
 ACCEPTED

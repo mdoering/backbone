@@ -1,17 +1,16 @@
-Chiodecton sanguineum var. sanguineum VARIETY
-=======
+# Cryptothecia rubrocincta (Ehrenb.) G. Thor SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Bryologist 94: 280 (1991)
 
 #### Original name
-null
+Hypochnus rubrocinctus Ehrenb.
 
 ### Remarks
 null

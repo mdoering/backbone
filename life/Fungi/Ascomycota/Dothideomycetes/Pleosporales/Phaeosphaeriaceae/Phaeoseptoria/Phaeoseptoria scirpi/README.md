@@ -1,5 +1,4 @@
-Phaeoseptoria scirpi Wehm. SPECIES
-=======
+# Phaeoseptoria scirpi Wehm. SPECIES
 
 #### Status
 ACCEPTED

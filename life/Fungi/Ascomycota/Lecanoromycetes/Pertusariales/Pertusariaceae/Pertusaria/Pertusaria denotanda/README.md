@@ -1,5 +1,4 @@
-Pertusaria denotanda Nyl. SPECIES
-=======
+# Pertusaria denotanda Nyl. SPECIES
 
 #### Status
 ACCEPTED

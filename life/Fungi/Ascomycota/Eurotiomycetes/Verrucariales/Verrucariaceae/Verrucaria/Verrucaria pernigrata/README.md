@@ -1,5 +1,4 @@
-Verrucaria pernigrata Nyl. SPECIES
-=======
+# Verrucaria pernigrata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea schizopeltica Hertel & Leuckert SPECIES
-=======
+# Lecidea schizopeltica Hertel & Leuckert SPECIES
 
 #### Status
 ACCEPTED

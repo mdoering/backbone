@@ -1,5 +1,4 @@
-Cyanisticta rigidula (Delise) C.W. Dodge SPECIES
-=======
+# Cyanisticta rigidula (Delise) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

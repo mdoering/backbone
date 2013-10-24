@@ -1,5 +1,4 @@
-Peyritschiella princeps (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella princeps (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

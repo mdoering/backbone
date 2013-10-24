@@ -1,5 +1,4 @@
-Pertusaria aspicilioides Samp. SPECIES
-=======
+# Pertusaria aspicilioides Samp. SPECIES
 
 #### Status
 ACCEPTED

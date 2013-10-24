@@ -1,5 +1,4 @@
-Tripospyrissa Haeckel, 1887 GENUS
-=======
+# Tripospyrissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

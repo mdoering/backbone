@@ -1,5 +1,4 @@
-Xerocomus phlebophoides Heinem. SPECIES
-=======
+# Xerocomus phlebophoides Heinem. SPECIES
 
 #### Status
 ACCEPTED

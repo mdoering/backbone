@@ -1,5 +1,4 @@
-Russula umbrina B. Knauth SPECIES
-=======
+# Russula umbrina B. Knauth SPECIES
 
 #### Status
 ACCEPTED

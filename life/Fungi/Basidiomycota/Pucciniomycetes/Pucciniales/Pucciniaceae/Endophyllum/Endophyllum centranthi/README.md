@@ -1,5 +1,4 @@
-Endophyllum centranthi (Thüm.) Cif. SPECIES
-=======
+# Endophyllum centranthi (Thüm.) Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora acerina Aderh. SPECIES
-=======
+# Cytospora acerina Aderh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gelopellis tholiformis J.W. Cribb, 1997 SPECIES
-=======
+# Gelopellis tholiformis J.W. Cribb, 1997 SPECIES
 
 #### Status
 ACCEPTED

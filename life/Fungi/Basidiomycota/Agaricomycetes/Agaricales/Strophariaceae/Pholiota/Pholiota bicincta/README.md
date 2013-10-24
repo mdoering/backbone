@@ -1,5 +1,4 @@
-Pholiota bicincta (Kalchbr.) McAlpine SPECIES
-=======
+# Pholiota bicincta (Kalchbr.) McAlpine SPECIES
 
 #### Status
 ACCEPTED

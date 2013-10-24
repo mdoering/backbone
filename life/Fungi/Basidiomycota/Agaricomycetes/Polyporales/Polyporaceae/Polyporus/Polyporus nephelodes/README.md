@@ -1,5 +1,4 @@
-Polyporus nephelodes Lév. SPECIES
-=======
+# Polyporus nephelodes Lév. SPECIES
 
 #### Status
 ACCEPTED

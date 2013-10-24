@@ -1,17 +1,16 @@
-Phyllachora pastinacae Rostr., 1902 SPECIES
-=======
+# Septoria pastinacae Westend., 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Plantepatologi 511 (1902)
+Bull. Acad. R. Sci. Belg. , Cl. Sci. , sér. 5 18(2): 394 (1851)
 
 #### Original name
-Phyllachora pastinacae Rostr., 1902
+Septoria pastinacae Westend., 1851
 
 ### Remarks
 null

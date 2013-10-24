@@ -1,5 +1,4 @@
-Cucurbitaria guaranitica (Speg.) Kuntze SPECIES
-=======
+# Cucurbitaria guaranitica (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

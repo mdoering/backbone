@@ -1,5 +1,4 @@
-Moorella monocephala Matsush. SPECIES
-=======
+# Moorella monocephala Matsush. SPECIES
 
 #### Status
 ACCEPTED

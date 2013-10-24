@@ -1,5 +1,4 @@
-Yania GENUS
-=======
+# Yania GENUS
 
 #### Status
 ACCEPTED

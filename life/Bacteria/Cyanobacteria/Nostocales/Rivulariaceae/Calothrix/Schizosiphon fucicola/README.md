@@ -1,5 +1,4 @@
-Schizosiphon fucicola Kützing SPECIES
-=======
+# Schizosiphon fucicola Kützing SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Glomerella psidii J. Sheld. SPECIES
-=======
+# Glomerella psidii J. Sheld. SPECIES
 
 #### Status
 ACCEPTED

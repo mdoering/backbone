@@ -1,5 +1,4 @@
-Cortinarius davisii Murrill SPECIES
-=======
+# Cortinarius davisii Murrill SPECIES
 
 #### Status
 ACCEPTED

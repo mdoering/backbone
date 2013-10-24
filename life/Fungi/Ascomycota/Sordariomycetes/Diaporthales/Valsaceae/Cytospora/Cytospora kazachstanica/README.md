@@ -1,5 +1,4 @@
-Cytospora kazachstanica Schwarzman SPECIES
-=======
+# Cytospora kazachstanica Schwarzman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triphragmium vassilievae Azbukina SPECIES
-=======
+# Triphragmium vassilievae Azbukina SPECIES
 
 #### Status
 ACCEPTED

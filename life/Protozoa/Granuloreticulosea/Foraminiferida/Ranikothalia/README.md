@@ -1,5 +1,4 @@
-Ranikothalia Caudri, 1944 GENUS
-=======
+# Ranikothalia Caudri, 1944 GENUS
 
 #### Status
 ACCEPTED

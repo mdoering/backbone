@@ -1,5 +1,4 @@
-Ophiotrichum verbenae Dearn. & Barthol. SPECIES
-=======
+# Ophiotrichum verbenae Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

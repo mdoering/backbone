@@ -1,5 +1,4 @@
-Amphorella obliqua Claparède & Lachmann, 1858 SPECIES
-=======
+# Amphorella obliqua Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

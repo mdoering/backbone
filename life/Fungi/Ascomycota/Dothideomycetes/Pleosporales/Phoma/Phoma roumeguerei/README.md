@@ -1,8 +1,7 @@
-Phoma roumeguerii Sacc. SPECIES
-=======
+# Phoma roumeguerei Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma roumeguerii Sacc.
+Phoma roumeguerei Sacc.
 
 ### Remarks
 null

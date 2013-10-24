@@ -1,5 +1,4 @@
-Chaetomium bainieri Munk SPECIES
-=======
+# Chaetomium bainieri Munk SPECIES
 
 #### Status
 ACCEPTED

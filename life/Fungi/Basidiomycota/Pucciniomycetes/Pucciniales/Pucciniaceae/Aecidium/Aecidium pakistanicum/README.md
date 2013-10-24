@@ -1,5 +1,4 @@
-Aecidium pakistanicum Sultan, I.U. Haq, Khalid & Mukhtar SPECIES
-=======
+# Aecidium pakistanicum Sultan, I.U. Haq, Khalid & Mukhtar SPECIES
 
 #### Status
 ACCEPTED

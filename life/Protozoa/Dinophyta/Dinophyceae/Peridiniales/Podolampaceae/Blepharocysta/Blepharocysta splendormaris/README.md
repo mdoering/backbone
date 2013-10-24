@@ -1,8 +1,7 @@
-Peridinium splendormaris Ehrenberg SPECIES
-=======
+# Blepharocysta splendormaris (Ehrenberg) Ehrenberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

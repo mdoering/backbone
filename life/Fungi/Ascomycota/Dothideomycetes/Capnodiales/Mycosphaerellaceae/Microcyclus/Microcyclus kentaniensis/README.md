@@ -1,5 +1,4 @@
-Microcyclus kentaniensis Doidge SPECIES
-=======
+# Microcyclus kentaniensis Doidge SPECIES
 
 #### Status
 ACCEPTED

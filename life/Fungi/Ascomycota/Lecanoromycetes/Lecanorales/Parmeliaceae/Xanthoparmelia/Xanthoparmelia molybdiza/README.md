@@ -1,5 +1,4 @@
-Xanthoparmelia molybdiza (Nyl.) Elix SPECIES
-=======
+# Xanthoparmelia molybdiza (Nyl.) Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma houseana Sacc. SPECIES
-=======
+# Phoma houseana Sacc. SPECIES
 
 #### Status
 ACCEPTED

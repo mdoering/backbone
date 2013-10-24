@@ -1,5 +1,4 @@
-Peronospora potentillae-sterilis Gäum., 1923 SPECIES
-=======
+# Peronospora potentillae-sterilis Gäum., 1923 SPECIES
 
 #### Status
 ACCEPTED

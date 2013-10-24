@@ -1,5 +1,4 @@
-Cercospora jasminae Narayan, Kharwar & R.K. Singh SPECIES
-=======
+# Cercospora jasminae Narayan, Kharwar & R.K. Singh SPECIES
 
 #### Status
 ACCEPTED

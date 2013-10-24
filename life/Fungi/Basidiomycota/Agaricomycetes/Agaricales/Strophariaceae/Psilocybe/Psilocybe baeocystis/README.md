@@ -1,5 +1,4 @@
-Psilocybe baeocystis Singer & A.H. Sm. SPECIES
-=======
+# Psilocybe baeocystis Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

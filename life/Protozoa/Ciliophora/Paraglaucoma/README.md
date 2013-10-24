@@ -1,5 +1,4 @@
-Paraglaucoma Warren, 1932 GENUS
-=======
+# Paraglaucoma Warren, 1932 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tectatodinium simplex (R. Harland) L. E. Edwards SPECIES
-=======
+# Tectatodinium simplex (R. Harland) L. E. Edwards SPECIES
 
 #### Status
 ACCEPTED

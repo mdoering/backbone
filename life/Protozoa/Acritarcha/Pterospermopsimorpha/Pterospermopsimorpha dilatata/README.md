@@ -1,5 +1,4 @@
-Pterospermopsimorpha dilatata Pykhova, 1973 SPECIES
-=======
+# Pterospermopsimorpha dilatata Pykhova, 1973 SPECIES
 
 #### Status
 ACCEPTED

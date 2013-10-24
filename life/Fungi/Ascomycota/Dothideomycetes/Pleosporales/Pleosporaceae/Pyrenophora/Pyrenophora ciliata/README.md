@@ -1,5 +1,4 @@
-Pyrenophora ciliata var. ciliata VARIETY
-=======
+# Pyrenophora ciliata (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyrenophora ciliata var. ciliata
+Pleospora ciliata Ellis
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Microthecium episphaerium (W. Phillips & Plowr.) Höhn. SPECIES
-=======
+# Microthecium episphaerium (W. Phillips & Plowr.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

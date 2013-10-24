@@ -1,5 +1,4 @@
-Lophiostoma brenckleanum Sacc. SPECIES
-=======
+# Lophiostoma brenckleanum Sacc. SPECIES
 
 #### Status
 ACCEPTED

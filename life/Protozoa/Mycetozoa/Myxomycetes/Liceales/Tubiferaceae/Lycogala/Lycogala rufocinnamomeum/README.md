@@ -1,5 +1,4 @@
-Lycogala rufocinnamomeum Massee SPECIES
-=======
+# Lycogala rufocinnamomeum Massee SPECIES
 
 #### Status
 ACCEPTED

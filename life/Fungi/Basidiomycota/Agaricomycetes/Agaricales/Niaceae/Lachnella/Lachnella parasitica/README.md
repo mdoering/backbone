@@ -1,5 +1,4 @@
-Lachnella parasitica (Berk. & Broome) W.B. Cooke SPECIES
-=======
+# Lachnella parasitica (Berk. & Broome) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

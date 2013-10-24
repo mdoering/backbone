@@ -1,5 +1,4 @@
-Lecidea katahdinensis Degel. SPECIES
-=======
+# Lecidea katahdinensis Degel. SPECIES
 
 #### Status
 ACCEPTED

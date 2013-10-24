@@ -1,5 +1,4 @@
-Coniosporium saccardianum Teng SPECIES
-=======
+# Coniosporium saccardianum Teng SPECIES
 
 #### Status
 ACCEPTED

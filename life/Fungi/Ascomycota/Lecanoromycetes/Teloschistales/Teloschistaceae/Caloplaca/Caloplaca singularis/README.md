@@ -1,5 +1,4 @@
-Caloplaca singularis (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Caloplaca singularis (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

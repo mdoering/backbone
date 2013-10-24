@@ -1,5 +1,4 @@
-Verrucaria concatervata Nyl. SPECIES
-=======
+# Verrucaria concatervata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius miniatosporus Montoya & Bandala SPECIES
-=======
+# Lactarius miniatosporus Montoya & Bandala SPECIES
 
 #### Status
 ACCEPTED

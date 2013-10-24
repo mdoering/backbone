@@ -1,5 +1,4 @@
-Septoria holci Pass., 1879 SPECIES
-=======
+# Septoria holci Pass., 1879 SPECIES
 
 #### Status
 ACCEPTED

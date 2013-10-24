@@ -1,17 +1,16 @@
-Armillariella sparrei var. sparrei VARIETY
-=======
+# Armillaria sparrei (Singer) Herink, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 19: 183 (1956)
+Sympozium o Václavce Obecné Armillaria mellea (Vahl ex Fr. ) Kumm. (Brno) 43 (1973)
 
 #### Original name
-Armillariella sparrei var. sparrei
+Armillariella sparrei Singer, 1956
 
 ### Remarks
 null

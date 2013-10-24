@@ -1,5 +1,4 @@
-Cymatosira adaroi Azpeitia Moros SPECIES
-=======
+# Cymatosira adaroi Azpeitia Moros SPECIES
 
 #### Status
 ACCEPTED

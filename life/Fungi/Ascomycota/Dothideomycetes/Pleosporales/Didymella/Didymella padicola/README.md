@@ -1,5 +1,4 @@
-Didymella padicola Vain. SPECIES
-=======
+# Didymella padicola Vain. SPECIES
 
 #### Status
 ACCEPTED

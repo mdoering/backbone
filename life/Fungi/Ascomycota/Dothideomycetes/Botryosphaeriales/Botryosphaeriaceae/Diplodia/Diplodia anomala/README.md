@@ -1,5 +1,4 @@
-Diplodia anomala Mont. SPECIES
-=======
+# Diplodia anomala Mont. SPECIES
 
 #### Status
 ACCEPTED

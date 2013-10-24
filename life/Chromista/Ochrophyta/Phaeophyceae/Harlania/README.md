@@ -1,5 +1,4 @@
-Harlania H.R. Göppert, 1852 GENUS
-=======
+# Harlania H.R. Göppert, 1852 GENUS
 
 #### Status
 ACCEPTED

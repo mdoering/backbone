@@ -1,5 +1,4 @@
-Phomatospora miurana I. Hino & Katum. SPECIES
-=======
+# Phomatospora miurana I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

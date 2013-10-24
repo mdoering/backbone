@@ -1,5 +1,4 @@
-Puccinia barbanae anon. SPECIES
-=======
+# Puccinia barbanae anon. SPECIES
 
 #### Status
 ACCEPTED

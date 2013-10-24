@@ -1,5 +1,4 @@
-Lancisporomyces vernalis Santam., 1997 SPECIES
-=======
+# Lancisporomyces vernalis Santam., 1997 SPECIES
 
 #### Status
 ACCEPTED

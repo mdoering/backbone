@@ -1,5 +1,4 @@
-Asterina leptalea Syd. SPECIES
-=======
+# Asterina leptalea Syd. SPECIES
 
 #### Status
 ACCEPTED

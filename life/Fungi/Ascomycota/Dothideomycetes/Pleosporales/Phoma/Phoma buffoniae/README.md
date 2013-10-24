@@ -1,5 +1,4 @@
-Phoma buffoniae Gonz. Frag. SPECIES
-=======
+# Phoma buffoniae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

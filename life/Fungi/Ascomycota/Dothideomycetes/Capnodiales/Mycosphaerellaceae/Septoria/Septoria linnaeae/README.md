@@ -1,5 +1,4 @@
-Septoria linnaeae (Ehrenb.) Sacc. SPECIES
-=======
+# Septoria linnaeae (Ehrenb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

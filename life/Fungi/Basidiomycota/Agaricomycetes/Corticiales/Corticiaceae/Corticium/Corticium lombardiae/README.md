@@ -1,5 +1,4 @@
-Corticium lombardiae (M.J. Larsen & Gilb.) Boidin & Lanq., 1983 SPECIES
-=======
+# Corticium lombardiae (M.J. Larsen & Gilb.) Boidin & Lanq., 1983 SPECIES
 
 #### Status
 ACCEPTED

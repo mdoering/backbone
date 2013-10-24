@@ -1,5 +1,4 @@
-Pyripnomyces maranhensis Cavalc., 1972 SPECIES
-=======
+# Pyripnomyces maranhensis Cavalc., 1972 SPECIES
 
 #### Status
 ACCEPTED

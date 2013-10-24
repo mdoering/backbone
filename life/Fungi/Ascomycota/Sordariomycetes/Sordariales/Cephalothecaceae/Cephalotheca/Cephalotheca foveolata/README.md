@@ -1,5 +1,4 @@
-Cephalotheca foveolata Yaguchi, Nishim. & Udagawa SPECIES
-=======
+# Cephalotheca foveolata Yaguchi, Nishim. & Udagawa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massaria irregularis (DC.) Weese SPECIES
-=======
+# Massaria irregularis (DC.) Weese SPECIES
 
 #### Status
 ACCEPTED

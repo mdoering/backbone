@@ -1,5 +1,4 @@
-Lecidea nicolai (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecidea nicolai (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

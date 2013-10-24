@@ -1,5 +1,4 @@
-Hypocrea ampulliformis Yoshim. Doi & Yamat. SPECIES
-=======
+# Hypocrea ampulliformis Yoshim. Doi & Yamat. SPECIES
 
 #### Status
 ACCEPTED

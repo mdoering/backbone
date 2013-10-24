@@ -1,5 +1,4 @@
-Fomes paulensis Henn. SPECIES
-=======
+# Fomes paulensis Henn. SPECIES
 
 #### Status
 ACCEPTED

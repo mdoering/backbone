@@ -1,5 +1,4 @@
-Merulius lutescens Desm. SPECIES
-=======
+# Merulius lutescens Desm. SPECIES
 
 #### Status
 ACCEPTED

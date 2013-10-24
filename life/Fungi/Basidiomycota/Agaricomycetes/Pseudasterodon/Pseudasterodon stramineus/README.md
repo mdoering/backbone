@@ -1,5 +1,4 @@
-Pseudasterodon stramineus (Rick) Rick SPECIES
-=======
+# Pseudasterodon stramineus (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

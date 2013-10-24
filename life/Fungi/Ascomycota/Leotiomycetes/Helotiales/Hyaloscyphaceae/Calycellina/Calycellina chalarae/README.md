@@ -1,5 +1,4 @@
-Calycellina chalarae Svrcek SPECIES
-=======
+# Calycellina chalarae Svrcek SPECIES
 
 #### Status
 ACCEPTED

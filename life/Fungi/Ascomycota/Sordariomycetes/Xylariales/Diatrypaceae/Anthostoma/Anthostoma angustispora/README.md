@@ -1,17 +1,16 @@
-Anthostoma angustisporus Lar.N. Vassiljeva SPECIES
-=======
+# Anthostoma angustispora Lar.N. Vassiljeva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nizshie Rasteniya, Griby i Mokhoobraznye Dalnego Vostoka Rossii (Sankt-Peterburg), Griby. Tom <b>4</b>. Pirenomitsety i Lokuloaskomitsety 97 (1998)
 
 #### Original name
-Anthostoma angustisporus Lar.N. Vassiljeva
+Anthostoma angustispora Lar.N. Vassiljeva
 
 ### Remarks
 null

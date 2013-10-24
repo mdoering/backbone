@@ -1,5 +1,4 @@
-Cryptosporium confluens Kunze SPECIES
-=======
+# Cryptosporium confluens Kunze SPECIES
 
 #### Status
 ACCEPTED

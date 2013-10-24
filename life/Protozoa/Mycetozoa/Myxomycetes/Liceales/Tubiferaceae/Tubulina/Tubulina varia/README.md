@@ -1,5 +1,4 @@
-Tubulina varia SPECIES
-=======
+# Tubulina varia SPECIES
 
 #### Status
 ACCEPTED

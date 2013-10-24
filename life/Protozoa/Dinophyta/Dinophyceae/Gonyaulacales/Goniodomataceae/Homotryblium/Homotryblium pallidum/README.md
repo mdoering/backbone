@@ -1,5 +1,4 @@
-Homotryblium pallidum Davey & Williams, 1966 SPECIES
-=======
+# Homotryblium pallidum Davey & Williams, 1966 SPECIES
 
 #### Status
 ACCEPTED

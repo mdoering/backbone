@@ -1,5 +1,4 @@
-Thalassiosira ornata Proshkina-Lavrenko SPECIES
-=======
+# Thalassiosira ornata Proshkina-Lavrenko SPECIES
 
 #### Status
 ACCEPTED

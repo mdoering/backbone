@@ -1,5 +1,4 @@
-Dicaeoma loranthi (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma loranthi (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

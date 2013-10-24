@@ -1,17 +1,16 @@
-Hysterium abietinum ledi Alb. & Schwein., 1805 INFRASPECIFIC_NAME
-=======
+# Colpoma ledi (Alb. & Schwein.) B. Erikss., 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 19(no. 4): 14 (1970)
 
 #### Original name
-null
+Hysterium abietinum ß ledi Alb. & Schwein.
 
 ### Remarks
 null

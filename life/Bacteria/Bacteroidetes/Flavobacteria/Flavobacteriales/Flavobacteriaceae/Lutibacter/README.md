@@ -1,5 +1,4 @@
-Lutibacter Choi & Cho, 2006 GENUS
-=======
+# Lutibacter Choi & Cho, 2006 GENUS
 
 #### Status
 ACCEPTED

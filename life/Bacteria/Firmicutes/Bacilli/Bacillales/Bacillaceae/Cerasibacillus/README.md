@@ -1,5 +1,4 @@
-Cerasibacillus Nakamura et al., 2004 GENUS
-=======
+# Cerasibacillus Nakamura et al., 2004 GENUS
 
 #### Status
 ACCEPTED

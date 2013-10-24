@@ -1,5 +1,4 @@
-Nigredo solani (Dietel & Holw.) Arthur SPECIES
-=======
+# Nigredo solani (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

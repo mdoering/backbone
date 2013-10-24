@@ -1,5 +1,4 @@
-Psathyrella efflorescens (Berk. & Broome) Pegler SPECIES
-=======
+# Psathyrella efflorescens (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

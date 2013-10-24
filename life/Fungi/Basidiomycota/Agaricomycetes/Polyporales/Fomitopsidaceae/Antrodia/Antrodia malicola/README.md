@@ -1,14 +1,13 @@
-Daedalea malicola (Berk. & M.A. Curtis) Aoshima, 1967 SPECIES
-=======
+# Antrodia malicola (Berk. & M.A. Curtis) Donk, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 8: 2 (1967)
+Persoonia 4(3): 340 (1966)
 
 #### Original name
 Trametes malicola Berk. & M.A. Curtis, 1856

@@ -1,5 +1,4 @@
-Lamellostroma Vologdin GENUS
-=======
+# Lamellostroma Vologdin GENUS
 
 #### Status
 ACCEPTED

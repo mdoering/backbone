@@ -1,5 +1,4 @@
-Russula australis McNabb, 1973 SPECIES
-=======
+# Russula australis McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

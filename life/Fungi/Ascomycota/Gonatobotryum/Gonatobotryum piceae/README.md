@@ -1,5 +1,4 @@
-Gonatobotryum piceae Dörfelt & A.R. Schmidt SPECIES
-=======
+# Gonatobotryum piceae Dörfelt & A.R. Schmidt SPECIES
 
 #### Status
 ACCEPTED

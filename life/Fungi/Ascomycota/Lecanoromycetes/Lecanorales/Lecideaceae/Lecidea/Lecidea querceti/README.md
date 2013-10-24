@@ -1,5 +1,4 @@
-Lecidea querceti Nyl. SPECIES
-=======
+# Lecidea querceti Nyl. SPECIES
 
 #### Status
 ACCEPTED

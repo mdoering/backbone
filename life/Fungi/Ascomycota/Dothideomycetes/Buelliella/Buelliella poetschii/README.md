@@ -1,5 +1,4 @@
-Buelliella poetschii Hafellner, 2008 SPECIES
-=======
+# Buelliella poetschii Hafellner, 2008 SPECIES
 
 #### Status
 ACCEPTED

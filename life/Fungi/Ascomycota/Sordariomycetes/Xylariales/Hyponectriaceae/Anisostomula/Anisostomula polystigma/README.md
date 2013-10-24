@@ -1,5 +1,4 @@
-Anisostomula polystigma (Ellis & Everh.) Höhn. SPECIES
-=======
+# Anisostomula polystigma (Ellis & Everh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

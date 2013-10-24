@@ -1,5 +1,4 @@
-Agglutinella arenata (Said, 1949) SPECIES
-=======
+# Agglutinella arenata (Said, 1949) SPECIES
 
 #### Status
 ACCEPTED

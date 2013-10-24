@@ -1,5 +1,4 @@
-Sphaeria amygdali Engelhard SPECIES
-=======
+# Sphaeria amygdali Engelhard SPECIES
 
 #### Status
 ACCEPTED

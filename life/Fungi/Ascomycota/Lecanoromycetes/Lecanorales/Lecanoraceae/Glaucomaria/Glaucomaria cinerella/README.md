@@ -1,5 +1,4 @@
-Glaucomaria cinerella (Flörke) M. Choisy ex Werner SPECIES
-=======
+# Glaucomaria cinerella (Flörke) M. Choisy ex Werner SPECIES
 
 #### Status
 ACCEPTED

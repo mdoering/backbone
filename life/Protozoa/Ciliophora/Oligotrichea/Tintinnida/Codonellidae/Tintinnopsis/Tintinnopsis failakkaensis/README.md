@@ -1,5 +1,4 @@
-Tintinnopsis failakkaensis Skryabin & Al-Yamani, 2006 SPECIES
-=======
+# Tintinnopsis failakkaensis Skryabin & Al-Yamani, 2006 SPECIES
 
 #### Status
 ACCEPTED

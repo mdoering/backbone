@@ -1,5 +1,4 @@
-Solenophrya Claparède & Lachmann, 1860 GENUS
-=======
+# Solenophrya Claparède & Lachmann, 1860 GENUS
 
 #### Status
 ACCEPTED

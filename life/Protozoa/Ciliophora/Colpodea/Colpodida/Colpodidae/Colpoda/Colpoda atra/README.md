@@ -1,5 +1,4 @@
-Colpoda atra Alekperov, 1993 SPECIES
-=======
+# Colpoda atra Alekperov, 1993 SPECIES
 
 #### Status
 ACCEPTED

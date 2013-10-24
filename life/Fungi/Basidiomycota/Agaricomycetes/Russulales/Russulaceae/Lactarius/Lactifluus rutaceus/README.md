@@ -1,5 +1,4 @@
-Lactifluus rutaceus (Lasch) Kuntze SPECIES
-=======
+# Lactifluus rutaceus (Lasch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

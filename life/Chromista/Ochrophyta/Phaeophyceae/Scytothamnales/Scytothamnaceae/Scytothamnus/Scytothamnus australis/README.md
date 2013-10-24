@@ -1,5 +1,4 @@
-Scytothamnus australis (J. Agardh) J.D. Hooker & Harvey SPECIES
-=======
+# Scytothamnus australis (J. Agardh) J.D. Hooker & Harvey SPECIES
 
 #### Status
 ACCEPTED

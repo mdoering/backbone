@@ -1,5 +1,4 @@
-Corollithion madagaskarensis Perch-Nielsen, 1973 SPECIES
-=======
+# Corollithion madagaskarensis Perch-Nielsen, 1973 SPECIES
 
 #### Status
 ACCEPTED

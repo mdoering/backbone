@@ -1,5 +1,4 @@
-Chiodecton fuscocinctum Vain. SPECIES
-=======
+# Chiodecton fuscocinctum Vain. SPECIES
 
 #### Status
 ACCEPTED

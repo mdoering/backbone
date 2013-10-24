@@ -1,5 +1,4 @@
-Dicaeoma passerinii (J. Schröt.) Kuntze SPECIES
-=======
+# Dicaeoma passerinii (J. Schröt.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium berkeleyi Cooke SPECIES
-=======
+# Corticium berkeleyi Cooke SPECIES
 
 #### Status
 ACCEPTED

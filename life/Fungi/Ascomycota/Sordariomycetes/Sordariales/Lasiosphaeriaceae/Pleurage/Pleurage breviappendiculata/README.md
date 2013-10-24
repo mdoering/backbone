@@ -1,5 +1,4 @@
-Pleurage breviappendiculata Faurel & Schotter SPECIES
-=======
+# Pleurage breviappendiculata Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

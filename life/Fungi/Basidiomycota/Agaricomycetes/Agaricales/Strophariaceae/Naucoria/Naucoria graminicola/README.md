@@ -1,5 +1,4 @@
-Naucoria graminicola Velen. SPECIES
-=======
+# Naucoria graminicola Velen. SPECIES
 
 #### Status
 ACCEPTED

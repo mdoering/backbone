@@ -1,5 +1,4 @@
-Phoma ovisperma Fuckel SPECIES
-=======
+# Phoma ovisperma Fuckel SPECIES
 
 #### Status
 ACCEPTED

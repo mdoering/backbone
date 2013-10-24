@@ -1,5 +1,4 @@
-Didymella pteridicola (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Didymella pteridicola (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

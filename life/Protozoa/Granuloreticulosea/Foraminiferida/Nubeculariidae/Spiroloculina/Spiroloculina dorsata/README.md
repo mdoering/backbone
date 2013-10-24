@@ -1,5 +1,4 @@
-Spiroloculina dorsata SPECIES
-=======
+# Spiroloculina dorsata SPECIES
 
 #### Status
 ACCEPTED

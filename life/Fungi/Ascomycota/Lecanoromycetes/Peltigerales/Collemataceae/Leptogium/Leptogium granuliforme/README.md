@@ -1,5 +1,4 @@
-Leptogium granuliforme Harm. SPECIES
-=======
+# Leptogium granuliforme Harm. SPECIES
 
 #### Status
 ACCEPTED

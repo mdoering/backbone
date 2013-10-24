@@ -1,5 +1,4 @@
-Helotium nipteroides Speg. SPECIES
-=======
+# Helotium nipteroides Speg. SPECIES
 
 #### Status
 ACCEPTED

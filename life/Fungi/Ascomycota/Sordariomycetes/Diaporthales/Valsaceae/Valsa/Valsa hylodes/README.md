@@ -1,5 +1,4 @@
-Valsa hylodes Ellis & Everh. SPECIES
-=======
+# Valsa hylodes Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

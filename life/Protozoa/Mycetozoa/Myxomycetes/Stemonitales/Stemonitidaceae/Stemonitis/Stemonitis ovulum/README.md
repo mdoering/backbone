@@ -1,5 +1,4 @@
-Stemonitis ovulum Scop. SPECIES
-=======
+# Stemonitis ovulum Scop. SPECIES
 
 #### Status
 ACCEPTED

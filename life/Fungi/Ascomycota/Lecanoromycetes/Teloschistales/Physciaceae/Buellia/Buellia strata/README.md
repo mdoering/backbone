@@ -1,5 +1,4 @@
-Buellia strata var. strata VARIETY
-=======
+# Buellia strata anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia strata var. strata
+Buellia strata anon.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Triceratium harrisonianum Norman & Grev. in Grev., 1861 SPECIES
-=======
+# Triceratium harrisonianum Norman & Grev. in Grev., 1861 SPECIES
 
 #### Status
 ACCEPTED

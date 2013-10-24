@@ -1,5 +1,4 @@
-Collybia subfunicularis (Murrill) Murrill SPECIES
-=======
+# Collybia subfunicularis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

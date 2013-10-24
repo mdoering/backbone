@@ -1,5 +1,4 @@
-Couchioplanes caeruleus subsp. azureus Tamura et al., 1994 SUBSPECIES
-=======
+# Couchioplanes caeruleus (Horan & Brodsky, 1986) Tamura et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora gibberosa (Ach.) Stein SPECIES
-=======
+# Biatora gibberosa (Ach.) Stein SPECIES
 
 #### Status
 ACCEPTED

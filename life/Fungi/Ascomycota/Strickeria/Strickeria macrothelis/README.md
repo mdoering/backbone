@@ -1,5 +1,4 @@
-Strickeria macrothelis (E. Bommer, M. Rousseau & Sacc.) Lindau SPECIES
-=======
+# Strickeria macrothelis (E. Bommer, M. Rousseau & Sacc.) Lindau SPECIES
 
 #### Status
 ACCEPTED

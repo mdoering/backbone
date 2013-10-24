@@ -1,8 +1,7 @@
-Bolivina spinea Cushman, 1936 SPECIES
-=======
+# Virgulopsis spinea (Cushman, 1936) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

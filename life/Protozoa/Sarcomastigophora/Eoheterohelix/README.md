@@ -1,5 +1,4 @@
-Eoheterohelix Fuchs, 1973 GENUS
-=======
+# Eoheterohelix Fuchs, 1973 GENUS
 
 #### Status
 ACCEPTED

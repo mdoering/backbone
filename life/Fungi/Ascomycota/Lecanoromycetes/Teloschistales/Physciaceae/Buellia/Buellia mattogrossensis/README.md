@@ -1,5 +1,4 @@
-Buellia mattogrossensis Malme SPECIES
-=======
+# Buellia mattogrossensis Malme SPECIES
 
 #### Status
 ACCEPTED

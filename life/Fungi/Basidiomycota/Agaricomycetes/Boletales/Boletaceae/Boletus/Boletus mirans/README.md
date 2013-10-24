@@ -1,5 +1,4 @@
-Boletus mirans Corner SPECIES
-=======
+# Boletus mirans Corner SPECIES
 
 #### Status
 ACCEPTED

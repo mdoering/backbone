@@ -1,5 +1,4 @@
-Chloropseudomonas GENUS
-=======
+# Chloropseudomonas GENUS
 
 #### Status
 ACCEPTED

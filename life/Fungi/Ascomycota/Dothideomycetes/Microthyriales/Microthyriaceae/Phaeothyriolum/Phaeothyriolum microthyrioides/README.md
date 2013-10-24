@@ -1,14 +1,13 @@
-Asterina microthyrioides G. Winter, 1885 SPECIES
-=======
+# Phaeothyriolum microthyrioides (G. Winter) H.J. Swart, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 24: 23 (1885)
+Trans. Br. mycol. Soc. 87(1): 87 (1986)
 
 #### Original name
 Asterina microthyrioides G. Winter, 1885

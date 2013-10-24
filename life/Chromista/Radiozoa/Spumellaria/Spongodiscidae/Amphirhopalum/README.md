@@ -1,14 +1,13 @@
-Amphirrhopalum Haeckel, 1887 GENUS
-=======
+# Amphirhopalum Haeckel, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Voy. Challenger, Zool. , 18 (1), 521.
+Jena. Z. , 15, 460.
 
 #### Original name
 null

@@ -1,14 +1,13 @@
-Ditangium minutum Pat., 1895 SPECIES
-=======
+# Craterocolla minuta (Pat.) Sacc., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Patouillard & Lagerheim, Bull. Soc. mycol. Fr. 11(4): 210 (1895)
+Hedwigia, Beibl. 35(7): xii (1896)
 
 #### Original name
 Ditangium minutum Pat., 1895

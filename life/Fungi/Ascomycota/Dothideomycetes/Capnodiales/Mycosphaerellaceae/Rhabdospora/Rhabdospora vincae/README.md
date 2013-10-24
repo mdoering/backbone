@@ -1,5 +1,4 @@
-Rhabdospora vincae Oudem. SPECIES
-=======
+# Rhabdospora vincae Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protocyclidium muscicola (Kahl, 1931) Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Protocyclidium muscicola (Kahl, 1931) Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

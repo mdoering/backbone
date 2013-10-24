@@ -1,5 +1,4 @@
-Lecanora brazzae Zahlbr. SPECIES
-=======
+# Lecanora brazzae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

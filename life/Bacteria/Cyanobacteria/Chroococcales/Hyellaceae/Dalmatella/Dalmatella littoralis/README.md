@@ -1,5 +1,4 @@
-Dalmatella littoralis Ercegovic SPECIES
-=======
+# Dalmatella littoralis Ercegovic SPECIES
 
 #### Status
 ACCEPTED

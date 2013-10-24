@@ -1,5 +1,4 @@
-Leucoagaricus lacteus (Murrill) Singer SPECIES
-=======
+# Leucoagaricus lacteus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

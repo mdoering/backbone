@@ -1,5 +1,4 @@
-Desmococcus anon. GENUS
-=======
+# Desmococcus anon. GENUS
 
 #### Status
 ACCEPTED

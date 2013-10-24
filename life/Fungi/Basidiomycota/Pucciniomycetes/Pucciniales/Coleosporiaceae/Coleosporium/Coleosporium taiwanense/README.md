@@ -1,17 +1,16 @@
-Coleosporium taiwanensis S. Kaneko SPECIES
-=======
+# Coleosporium taiwanense S. Kaneko SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rep. Tottori Mycol. Inst. 15: 25 (1977)
 
 #### Original name
-Coleosporium taiwanensis S. Kaneko
+Coleosporium taiwanense S. Kaneko
 
 ### Remarks
 null

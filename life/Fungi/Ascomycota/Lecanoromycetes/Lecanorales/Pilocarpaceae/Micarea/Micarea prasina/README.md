@@ -1,17 +1,16 @@
-Catillaria prasina f. prasina FORM
-=======
+# Micarea prasina Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Scand. (Uppsala) 1: 573 (1874)
+Syst. orb. veg. (Lundae) 1: 256 (1825)
 
 #### Original name
-Catillaria prasina f. prasina
+Micarea prasina Fr.
 
 ### Remarks
 null

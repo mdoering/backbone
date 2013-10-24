@@ -1,5 +1,4 @@
-Pezizites claviformis Göpp. & Mengasc. SPECIES
-=======
+# Pezizites claviformis Göpp. & Mengasc. SPECIES
 
 #### Status
 ACCEPTED

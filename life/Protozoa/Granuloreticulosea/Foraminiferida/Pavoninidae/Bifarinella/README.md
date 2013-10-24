@@ -1,5 +1,4 @@
-Bifarinella Cushman & Hanzawa, 1936 GENUS
-=======
+# Bifarinella Cushman & Hanzawa, 1936 GENUS
 
 #### Status
 ACCEPTED

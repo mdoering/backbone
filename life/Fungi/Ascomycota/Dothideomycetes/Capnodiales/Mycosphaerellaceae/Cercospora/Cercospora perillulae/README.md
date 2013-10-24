@@ -1,5 +1,4 @@
-Cercospora perillulae Togashi & Katsuki SPECIES
-=======
+# Cercospora perillulae Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

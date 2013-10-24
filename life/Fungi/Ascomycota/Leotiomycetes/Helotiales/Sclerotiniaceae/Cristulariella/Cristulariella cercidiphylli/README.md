@@ -1,5 +1,4 @@
-Cristulariella cercidiphylli Narumi & Y. Harada SPECIES
-=======
+# Cristulariella cercidiphylli Narumi & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

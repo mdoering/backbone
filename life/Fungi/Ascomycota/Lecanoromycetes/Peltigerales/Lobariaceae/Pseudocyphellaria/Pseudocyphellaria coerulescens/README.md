@@ -1,5 +1,4 @@
-Pseudocyphellaria coerulescens (Mont.) D.J. Galloway & P. James SPECIES
-=======
+# Pseudocyphellaria coerulescens (Mont.) D.J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus munkii Tilak & R.L. Kulk. SPECIES
-=======
+# Ophiobolus munkii Tilak & R.L. Kulk. SPECIES
 
 #### Status
 ACCEPTED

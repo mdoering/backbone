@@ -1,5 +1,4 @@
-Boletus slavonicus Sacc. & Cub. SPECIES
-=======
+# Boletus slavonicus Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

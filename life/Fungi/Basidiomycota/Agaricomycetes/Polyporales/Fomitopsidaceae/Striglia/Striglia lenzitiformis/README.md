@@ -1,5 +1,4 @@
-Striglia lenzitiformis (Ces.) Kuntze SPECIES
-=======
+# Striglia lenzitiformis (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

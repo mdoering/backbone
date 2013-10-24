@@ -1,5 +1,4 @@
-Sphaeria arecae (Spreng.) Kunze SPECIES
-=======
+# Sphaeria arecae (Spreng.) Kunze SPECIES
 
 #### Status
 ACCEPTED

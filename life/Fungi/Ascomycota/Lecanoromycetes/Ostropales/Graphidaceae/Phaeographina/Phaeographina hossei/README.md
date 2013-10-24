@@ -1,5 +1,4 @@
-Phaeographina hossei Räsänen SPECIES
-=======
+# Phaeographina hossei Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metadiplodia pandani (Lév.) P. Joly SPECIES
-=======
+# Metadiplodia pandani (Lév.) P. Joly SPECIES
 
 #### Status
 ACCEPTED

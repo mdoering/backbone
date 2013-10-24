@@ -1,5 +1,4 @@
-Pachystomos Rudzinska, 1952 GENUS
-=======
+# Pachystomos Rudzinska, 1952 GENUS
 
 #### Status
 ACCEPTED

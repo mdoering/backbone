@@ -1,5 +1,4 @@
-Diplodia laureolae f. laureolae FORM
-=======
+# Diplodia laureolae Fautrey SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Revue mycol. , Toulouse 17: 168 (1895)
 
 #### Original name
-Diplodia laureolae f. laureolae
+Diplodia laureolae Fautrey
 
 ### Remarks
 null

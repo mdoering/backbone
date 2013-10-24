@@ -1,5 +1,4 @@
-Valsa atropae Mont. SPECIES
-=======
+# Valsa atropae Mont. SPECIES
 
 #### Status
 ACCEPTED

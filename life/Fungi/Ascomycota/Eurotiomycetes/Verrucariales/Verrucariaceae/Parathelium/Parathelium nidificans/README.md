@@ -1,5 +1,4 @@
-Parathelium nidificans Stirt. SPECIES
-=======
+# Parathelium nidificans Stirt. SPECIES
 
 #### Status
 ACCEPTED

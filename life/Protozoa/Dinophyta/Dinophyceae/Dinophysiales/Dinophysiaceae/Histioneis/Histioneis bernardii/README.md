@@ -1,5 +1,4 @@
-Histioneis bernardii Rampi SPECIES
-=======
+# Histioneis bernardii Rampi SPECIES
 
 #### Status
 ACCEPTED

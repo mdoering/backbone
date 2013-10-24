@@ -1,5 +1,4 @@
-Rhodocybe lateralipes E. Horak SPECIES
-=======
+# Rhodocybe lateralipes E. Horak SPECIES
 
 #### Status
 ACCEPTED

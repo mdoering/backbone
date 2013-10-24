@@ -1,5 +1,4 @@
-Laboulbenia viracocha Balazuc SPECIES
-=======
+# Laboulbenia viracocha Balazuc SPECIES
 
 #### Status
 ACCEPTED

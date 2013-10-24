@@ -1,5 +1,4 @@
-Radiolithus hollandicus SPECIES
-=======
+# Radiolithus hollandicus SPECIES
 
 #### Status
 ACCEPTED

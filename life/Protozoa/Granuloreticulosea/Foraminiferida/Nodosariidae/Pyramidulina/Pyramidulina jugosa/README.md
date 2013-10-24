@@ -1,8 +1,7 @@
-Nautilus jugosus Montagu, 1803 SPECIES
-=======
+# Pyramidulina jugosa (Montagu, 1803) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

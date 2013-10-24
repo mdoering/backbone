@@ -1,5 +1,4 @@
-Rosellinia barbatula Berk. & M.A. Curtis SPECIES
-=======
+# Rosellinia barbatula Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

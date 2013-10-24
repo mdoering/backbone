@@ -1,5 +1,4 @@
-Pyrenotrichum aeruginosum Höhn. SPECIES
-=======
+# Pyrenotrichum aeruginosum Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodococcus erythropolis (Gray and Thornton, 1928) Goodfellow and Alderson, 1979 (Approved Lists, 1980) SPECIES
-=======
+# Rhodococcus erythropolis (Gray and Thornton, 1928) Goodfellow and Alderson, 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

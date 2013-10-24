@@ -1,5 +1,4 @@
-Cortinarius candidus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius candidus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

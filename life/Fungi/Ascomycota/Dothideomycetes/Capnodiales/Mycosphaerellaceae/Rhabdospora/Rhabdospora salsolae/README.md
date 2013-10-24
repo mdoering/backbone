@@ -1,5 +1,4 @@
-Rhabdospora salsolae Kalymb. SPECIES
-=======
+# Rhabdospora salsolae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

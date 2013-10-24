@@ -1,5 +1,4 @@
-Asteridiella tapisciicola H. Hu SPECIES
-=======
+# Asteridiella tapisciicola H. Hu SPECIES
 
 #### Status
 ACCEPTED

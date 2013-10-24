@@ -1,5 +1,4 @@
-Glomerales J.B. Morton & Benny ORDER
-=======
+# Glomerales J.B. Morton & Benny ORDER
 
 #### Status
 ACCEPTED

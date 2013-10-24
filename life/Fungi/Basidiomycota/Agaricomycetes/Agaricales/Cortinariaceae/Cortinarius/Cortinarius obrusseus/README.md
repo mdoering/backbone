@@ -1,5 +1,4 @@
-Cortinarius obrusseus E. Horak SPECIES
-=======
+# Cortinarius obrusseus E. Horak SPECIES
 
 #### Status
 ACCEPTED

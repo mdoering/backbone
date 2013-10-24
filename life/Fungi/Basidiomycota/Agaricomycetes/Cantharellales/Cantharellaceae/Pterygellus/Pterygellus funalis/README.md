@@ -1,14 +1,13 @@
-Cladoderris funalis Henn., 1905 SPECIES
-=======
+# Pterygellus funalis (Henn.) D.A. Reid, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 38: 120 (1905)
+Nova Hedwigia 27(1-2): 336 (1976)
 
 #### Original name
 Cladoderris funalis Henn., 1905

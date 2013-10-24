@@ -1,17 +1,16 @@
-Phomopsis destruens (Harter) Boerema, Loer. & Hamers, 1996 SPECIES
-=======
+# Plenodomus destruens Harter, 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopathology 3(4): 245 (1913)
 
 #### Original name
-null
+Plenodomus destruens Harter, 1913
 
 ### Remarks
 null

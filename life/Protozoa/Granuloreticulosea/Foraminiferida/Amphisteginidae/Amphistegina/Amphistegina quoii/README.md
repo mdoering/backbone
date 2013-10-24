@@ -1,5 +1,4 @@
-Amphistegina quoii d’Orbigny, 1826 SPECIES
-=======
+# Amphistegina quoii d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

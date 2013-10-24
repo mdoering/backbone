@@ -1,5 +1,4 @@
-Uredo caricis-siderostictae Henn. SPECIES
-=======
+# Uredo caricis-siderostictae Henn. SPECIES
 
 #### Status
 ACCEPTED

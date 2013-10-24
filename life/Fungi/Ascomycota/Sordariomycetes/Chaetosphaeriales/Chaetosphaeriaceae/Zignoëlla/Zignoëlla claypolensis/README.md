@@ -1,5 +1,4 @@
-Zignoëlla claypolensis Speg. SPECIES
-=======
+# Zignoëlla claypolensis Speg. SPECIES
 
 #### Status
 ACCEPTED

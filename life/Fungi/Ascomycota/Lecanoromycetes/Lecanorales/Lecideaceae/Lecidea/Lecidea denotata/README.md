@@ -1,5 +1,4 @@
-Lecidea denotata Nyl. SPECIES
-=======
+# Lecidea denotata Nyl. SPECIES
 
 #### Status
 ACCEPTED

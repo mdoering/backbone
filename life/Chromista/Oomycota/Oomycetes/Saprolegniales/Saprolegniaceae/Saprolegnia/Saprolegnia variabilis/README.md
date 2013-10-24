@@ -1,5 +1,4 @@
-Saprolegnia variabilis Minden SPECIES
-=======
+# Saprolegnia variabilis Minden SPECIES
 
 #### Status
 ACCEPTED

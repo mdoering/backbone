@@ -1,5 +1,4 @@
-Crossopsora perscita Cummins SPECIES
-=======
+# Crossopsora perscita Cummins SPECIES
 
 #### Status
 ACCEPTED

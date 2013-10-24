@@ -1,5 +1,4 @@
-Saprochaete quercus de Hoog & M.T. Sm., 2004 SPECIES
-=======
+# Saprochaete quercus de Hoog & M.T. Sm., 2004 SPECIES
 
 #### Status
 ACCEPTED

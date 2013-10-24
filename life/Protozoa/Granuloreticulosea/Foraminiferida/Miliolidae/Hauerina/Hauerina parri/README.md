@@ -1,5 +1,4 @@
-Hauerina parri Cushman SPECIES
-=======
+# Hauerina parri Cushman SPECIES
 
 #### Status
 ACCEPTED

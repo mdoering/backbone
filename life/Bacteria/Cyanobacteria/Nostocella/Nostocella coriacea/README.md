@@ -1,5 +1,4 @@
-Nostocella coriacea (Vaucher) Gaillon SPECIES
-=======
+# Nostocella coriacea (Vaucher) Gaillon SPECIES
 
 #### Status
 ACCEPTED

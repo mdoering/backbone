@@ -1,5 +1,4 @@
-Artocarpomyces paradoxa Subram., 1996 SPECIES
-=======
+# Artocarpomyces paradoxa Subram., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rutstroemia nummiformis (Pat.) Le Gal SPECIES
-=======
+# Rutstroemia nummiformis (Pat.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

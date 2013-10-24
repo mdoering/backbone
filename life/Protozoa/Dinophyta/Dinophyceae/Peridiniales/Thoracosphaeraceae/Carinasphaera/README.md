@@ -1,5 +1,4 @@
-Carinasphaera Kohring, 1993 GENUS
-=======
+# Carinasphaera Kohring, 1993 GENUS
 
 #### Status
 ACCEPTED

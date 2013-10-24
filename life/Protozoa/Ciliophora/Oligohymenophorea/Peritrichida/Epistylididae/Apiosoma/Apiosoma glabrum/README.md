@@ -1,5 +1,4 @@
-Apiosoma glabrum SPECIES
-=======
+# Apiosoma glabrum SPECIES
 
 #### Status
 ACCEPTED

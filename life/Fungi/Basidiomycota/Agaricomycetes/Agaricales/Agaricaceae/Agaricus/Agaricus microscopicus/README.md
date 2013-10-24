@@ -1,5 +1,4 @@
-Agaricus microscopicus Speg. SPECIES
-=======
+# Agaricus microscopicus Speg. SPECIES
 
 #### Status
 ACCEPTED

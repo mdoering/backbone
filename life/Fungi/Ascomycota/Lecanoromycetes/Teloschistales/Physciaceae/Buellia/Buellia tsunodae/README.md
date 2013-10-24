@@ -1,5 +1,4 @@
-Buellia tsunodae Räsänen SPECIES
-=======
+# Buellia tsunodae Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ignicoccus hospitalis Paper, Jahn, Hohn, Kronner, Nather, Burghardt, Rachel, Stetter & Huber, 2007 SPECIES
-=======
+# Ignicoccus hospitalis Paper, Jahn, Hohn, Kronner, Nather, Burghardt, Rachel, Stetter & Huber, 2007 SPECIES
 
 #### Status
 ACCEPTED

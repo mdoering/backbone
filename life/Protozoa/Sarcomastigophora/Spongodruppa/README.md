@@ -1,5 +1,4 @@
-Spongodruppa Haeckel, 1887 GENUS
-=======
+# Spongodruppa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea lividella (Arnold) Zahlbr. SPECIES
-=======
+# Lecidea lividella (Arnold) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

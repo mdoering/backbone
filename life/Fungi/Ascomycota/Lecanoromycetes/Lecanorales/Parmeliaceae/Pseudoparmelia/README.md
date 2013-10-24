@@ -1,5 +1,4 @@
-Pseudoparmelia Lynge GENUS
-=======
+# Pseudoparmelia Lynge GENUS
 
 #### Status
 ACCEPTED

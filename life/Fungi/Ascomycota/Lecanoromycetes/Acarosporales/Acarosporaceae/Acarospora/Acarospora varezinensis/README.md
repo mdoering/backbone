@@ -1,5 +1,4 @@
-Acarospora varezinensis Samp. SPECIES
-=======
+# Acarospora varezinensis Samp. SPECIES
 
 #### Status
 ACCEPTED

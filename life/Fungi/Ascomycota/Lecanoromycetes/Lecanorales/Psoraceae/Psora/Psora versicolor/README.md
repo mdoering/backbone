@@ -1,5 +1,4 @@
-Psora versicolor Müll. Arg. SPECIES
-=======
+# Psora versicolor Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe weldenii Guzmán SPECIES
-=======
+# Psilocybe weldenii Guzmán SPECIES
 
 #### Status
 ACCEPTED

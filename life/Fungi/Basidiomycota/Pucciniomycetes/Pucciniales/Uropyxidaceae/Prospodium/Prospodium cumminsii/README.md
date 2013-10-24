@@ -1,5 +1,4 @@
-Prospodium cumminsii F. Kern & Thurst., 1944 SPECIES
-=======
+# Prospodium cumminsii F. Kern & Thurst., 1944 SPECIES
 
 #### Status
 ACCEPTED

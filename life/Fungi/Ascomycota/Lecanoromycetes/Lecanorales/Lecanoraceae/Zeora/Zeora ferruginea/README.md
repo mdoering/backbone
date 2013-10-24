@@ -1,5 +1,4 @@
-Zeora ferruginea (Huds.) Flot. SPECIES
-=======
+# Zeora ferruginea (Huds.) Flot. SPECIES
 
 #### Status
 ACCEPTED

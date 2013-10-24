@@ -1,17 +1,16 @@
-Entyloma veronicicola Lindr., 1904 SPECIES
-=======
+# Entyloma veronicae (Halst.) Lagerh., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 26: 13 (1904)
+Bull. Soc. mycol. Fr. 7: 170 (1891)
 
 #### Original name
-Entyloma veronicicola Lindr., 1904
+Entyloma linariae f. veronicae Halst., 1890
 
 ### Remarks
 null

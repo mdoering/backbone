@@ -1,5 +1,4 @@
-Boletus indecorus Massee SPECIES
-=======
+# Boletus indecorus Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bombyliospora conjuncta (Nyl.) Zahlbr. SPECIES
-=======
+# Bombyliospora conjuncta (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

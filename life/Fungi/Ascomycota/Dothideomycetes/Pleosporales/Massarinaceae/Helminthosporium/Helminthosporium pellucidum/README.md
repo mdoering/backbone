@@ -1,5 +1,4 @@
-Helminthosporium pellucidum Kunze SPECIES
-=======
+# Helminthosporium pellucidum Kunze SPECIES
 
 #### Status
 ACCEPTED

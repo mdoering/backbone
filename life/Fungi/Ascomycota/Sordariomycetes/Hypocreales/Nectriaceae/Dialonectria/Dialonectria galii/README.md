@@ -1,5 +1,4 @@
-Dialonectria galii (Plowr. & Harkn.) Cooke SPECIES
-=======
+# Dialonectria galii (Plowr. & Harkn.) Cooke SPECIES
 
 #### Status
 ACCEPTED

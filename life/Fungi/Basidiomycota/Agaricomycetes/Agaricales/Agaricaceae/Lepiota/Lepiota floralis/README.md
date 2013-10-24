@@ -1,5 +1,4 @@
-Lepiota floralis Berk. & M.A. Curtis SPECIES
-=======
+# Lepiota floralis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestisella GENUS
-=======
+# Pestisella GENUS
 
 #### Status
 ACCEPTED

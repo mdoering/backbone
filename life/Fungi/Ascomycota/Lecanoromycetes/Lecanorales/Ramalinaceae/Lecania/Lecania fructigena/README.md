@@ -1,5 +1,4 @@
-Lecania fructigena Zahlbr. SPECIES
-=======
+# Lecania fructigena Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

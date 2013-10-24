@@ -1,5 +1,4 @@
-Coscinodiscus debilis Rattray SPECIES
-=======
+# Coscinodiscus debilis Rattray SPECIES
 
 #### Status
 ACCEPTED

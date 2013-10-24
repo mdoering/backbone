@@ -1,5 +1,4 @@
-Calculites percernis SPECIES
-=======
+# Calculites percernis SPECIES
 
 #### Status
 ACCEPTED

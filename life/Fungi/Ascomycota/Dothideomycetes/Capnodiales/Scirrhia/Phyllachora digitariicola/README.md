@@ -1,5 +1,4 @@
-Phyllachora digitariicola Doidge, 1942 SPECIES
-=======
+# Phyllachora digitariicola Doidge, 1942 SPECIES
 
 #### Status
 DOUBTFUL

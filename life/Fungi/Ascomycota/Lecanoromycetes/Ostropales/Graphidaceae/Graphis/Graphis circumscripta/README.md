@@ -1,5 +1,4 @@
-Graphis circumscripta Kremp. SPECIES
-=======
+# Graphis circumscripta Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria africana (Kremp.) Müll. Arg. SPECIES
-=======
+# Urceolaria africana (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

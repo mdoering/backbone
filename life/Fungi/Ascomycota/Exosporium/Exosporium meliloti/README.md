@@ -1,5 +1,4 @@
-Exosporium meliloti Traverso SPECIES
-=======
+# Exosporium meliloti Traverso SPECIES
 
 #### Status
 ACCEPTED

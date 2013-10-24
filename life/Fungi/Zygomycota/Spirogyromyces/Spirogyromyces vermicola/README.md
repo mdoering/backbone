@@ -1,5 +1,4 @@
-Spirogyromyces vermicola Tzean & G.L. Barron, 1981 SPECIES
-=======
+# Spirogyromyces vermicola Tzean & G.L. Barron, 1981 SPECIES
 
 #### Status
 ACCEPTED

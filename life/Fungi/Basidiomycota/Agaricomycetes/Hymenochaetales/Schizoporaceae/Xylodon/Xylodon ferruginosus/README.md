@@ -1,5 +1,4 @@
-Xylodon ferruginosus (Fr.) Chevall. SPECIES
-=======
+# Xylodon ferruginosus (Fr.) Chevall. SPECIES
 
 #### Status
 ACCEPTED

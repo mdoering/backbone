@@ -1,5 +1,4 @@
-Phoma ephedrae Gonz. Frag. SPECIES
-=======
+# Phoma ephedrae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

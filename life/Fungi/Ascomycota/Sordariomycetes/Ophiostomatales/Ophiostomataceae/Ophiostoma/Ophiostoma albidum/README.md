@@ -1,5 +1,4 @@
-Ophiostoma albidum Math.-Käärik SPECIES
-=======
+# Ophiostoma albidum Math.-Käärik SPECIES
 
 #### Status
 ACCEPTED

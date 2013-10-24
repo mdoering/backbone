@@ -1,17 +1,16 @@
-Phyllachora glochidicola Seshadri SPECIES
-=======
+# Phyllachora glochidiicola Seshadri, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 19: 125 (1966)
 
 #### Original name
-Phyllachora glochidicola Seshadri
+Phyllachora glochidiicola Seshadri, 1966
 
 ### Remarks
 null

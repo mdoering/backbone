@@ -1,5 +1,4 @@
-Puccinia prunastri DC. SPECIES
-=======
+# Puccinia prunastri DC. SPECIES
 
 #### Status
 ACCEPTED

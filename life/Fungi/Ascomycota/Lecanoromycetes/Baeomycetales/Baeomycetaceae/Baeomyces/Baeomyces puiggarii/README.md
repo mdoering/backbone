@@ -1,5 +1,4 @@
-Baeomyces puiggarii Müll. Arg. SPECIES
-=======
+# Baeomyces puiggarii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

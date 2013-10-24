@@ -1,5 +1,4 @@
-Verrucaria subtholocarpa P. M. McCarthy & Kantvilas SPECIES
-=======
+# Verrucaria subtholocarpa P. M. McCarthy & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

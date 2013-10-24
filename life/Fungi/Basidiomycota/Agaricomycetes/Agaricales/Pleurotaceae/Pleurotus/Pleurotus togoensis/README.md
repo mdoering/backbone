@@ -1,5 +1,4 @@
-Pleurotus togoensis Henn. SPECIES
-=======
+# Pleurotus togoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

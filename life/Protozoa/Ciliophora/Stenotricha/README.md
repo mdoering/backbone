@@ -1,5 +1,4 @@
-Stenotricha Yankovskij, 1978 GENUS
-=======
+# Stenotricha Yankovskij, 1978 GENUS
 
 #### Status
 ACCEPTED

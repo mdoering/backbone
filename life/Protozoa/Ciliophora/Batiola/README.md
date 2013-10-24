@@ -1,5 +1,4 @@
-Batiola Koshevoj, 1987 GENUS
-=======
+# Batiola Koshevoj, 1987 GENUS
 
 #### Status
 ACCEPTED

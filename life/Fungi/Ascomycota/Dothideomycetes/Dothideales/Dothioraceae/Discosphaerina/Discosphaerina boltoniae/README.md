@@ -1,5 +1,4 @@
-Discosphaerina boltoniae (Dearn. & Barthol.) M.E. Barr SPECIES
-=======
+# Discosphaerina boltoniae (Dearn. & Barthol.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aleurodiscus cremicolor Hjortstam & Ryvarden, 1982 SPECIES
-=======
+# Aleurodiscus cremicolor Hjortstam & Ryvarden, 1982 SPECIES
 
 #### Status
 ACCEPTED

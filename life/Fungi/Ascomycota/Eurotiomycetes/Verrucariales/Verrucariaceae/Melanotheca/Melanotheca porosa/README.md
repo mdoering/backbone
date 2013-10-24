@@ -1,5 +1,4 @@
-Melanotheca porosa C.W. Dodge SPECIES
-=======
+# Melanotheca porosa C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

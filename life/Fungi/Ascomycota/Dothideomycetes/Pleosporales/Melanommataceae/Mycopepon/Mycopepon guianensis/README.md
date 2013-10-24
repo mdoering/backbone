@@ -1,5 +1,4 @@
-Mycopepon guianensis Boise SPECIES
-=======
+# Mycopepon guianensis Boise SPECIES
 
 #### Status
 ACCEPTED

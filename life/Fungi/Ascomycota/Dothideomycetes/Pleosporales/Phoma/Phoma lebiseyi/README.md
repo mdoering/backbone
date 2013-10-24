@@ -1,5 +1,4 @@
-Phoma lebiseyi Sacc. SPECIES
-=======
+# Phoma lebiseyi Sacc. SPECIES
 
 #### Status
 ACCEPTED

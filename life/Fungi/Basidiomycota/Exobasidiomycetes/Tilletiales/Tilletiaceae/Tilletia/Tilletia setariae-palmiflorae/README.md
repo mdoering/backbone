@@ -1,5 +1,4 @@
-Tilletia setariae-palmiflorae Mishra SPECIES
-=======
+# Tilletia setariae-palmiflorae Mishra SPECIES
 
 #### Status
 ACCEPTED

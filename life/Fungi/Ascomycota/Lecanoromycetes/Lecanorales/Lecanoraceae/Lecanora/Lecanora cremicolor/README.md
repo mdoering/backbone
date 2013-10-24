@@ -1,5 +1,4 @@
-Lecanora cremicolor (Hue) Zahlbr. SPECIES
-=======
+# Lecanora cremicolor (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

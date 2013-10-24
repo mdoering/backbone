@@ -1,5 +1,4 @@
-Coccocarpia portoricensis C.W. Dodge SPECIES
-=======
+# Coccocarpia portoricensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

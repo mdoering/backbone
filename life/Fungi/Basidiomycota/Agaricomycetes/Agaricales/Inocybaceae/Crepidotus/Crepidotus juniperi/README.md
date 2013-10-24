@@ -1,5 +1,4 @@
-Crepidotus juniperi Velen. SPECIES
-=======
+# Crepidotus juniperi Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis mazzantioides Petr. SPECIES
-=======
+# Phomopsis mazzantioides Petr. SPECIES
 
 #### Status
 ACCEPTED

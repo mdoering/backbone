@@ -1,17 +1,16 @@
-Agaricus perforans perforans Hoffm., 1789 INFRASPECIFIC_NAME
-=======
+# Gymnopus perforans (Hoffm.) Antonín & Noordel., 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Czech Mycol. 60(1): 25 (2008)
 
 #### Original name
-null
+Agaricus perforans Hoffm., 1789
 
 ### Remarks
 null

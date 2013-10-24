@@ -1,5 +1,4 @@
-Pseudopolymorphina phaleropei Cushman & Ozawa, 1930 SPECIES
-=======
+# Pseudopolymorphina phaleropei Cushman & Ozawa, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arwidssonia empetri (Rehm) B. Erikss., 1974 SPECIES
-=======
+# Arwidssonia empetri (Rehm) B. Erikss., 1974 SPECIES
 
 #### Status
 ACCEPTED

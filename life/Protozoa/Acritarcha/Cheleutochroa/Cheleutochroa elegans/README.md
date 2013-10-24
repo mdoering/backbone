@@ -1,5 +1,4 @@
-Cheleutochroa elegans Uutela & Tynni, 1991 SPECIES
-=======
+# Cheleutochroa elegans Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor pygmaeus var. pygmaeus Link VARIETY
-=======
+# Mucor pygmaeus Link SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Willdenow, Caroli a Linné Species Plantarum exhibentes Plantas Rite Cognitas ad Genera Relatas 1(1): 83 (1824)
 
 #### Original name
-Mucor pygmaeus var. pygmaeus Link
+Mucor pygmaeus Link
 
 ### Remarks
 null

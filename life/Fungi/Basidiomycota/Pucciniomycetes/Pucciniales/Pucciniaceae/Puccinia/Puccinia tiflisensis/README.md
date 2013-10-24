@@ -1,5 +1,4 @@
-Puccinia tiflisensis Petr. SPECIES
-=======
+# Puccinia tiflisensis Petr. SPECIES
 
 #### Status
 ACCEPTED

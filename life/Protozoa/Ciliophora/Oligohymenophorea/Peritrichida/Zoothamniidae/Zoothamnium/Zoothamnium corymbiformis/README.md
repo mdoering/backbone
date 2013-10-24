@@ -1,5 +1,4 @@
-Zoothamnium corymbiformis Dumas, 1930 SPECIES
-=======
+# Zoothamnium corymbiformis Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

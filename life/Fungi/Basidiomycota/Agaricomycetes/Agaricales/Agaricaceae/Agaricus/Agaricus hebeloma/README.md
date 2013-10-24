@@ -1,5 +1,4 @@
-Agaricus hebeloma Secr. SPECIES
-=======
+# Agaricus hebeloma Secr. SPECIES
 
 #### Status
 ACCEPTED

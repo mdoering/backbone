@@ -1,5 +1,4 @@
-Phoma oppilata Sacc. SPECIES
-=======
+# Phoma oppilata Sacc. SPECIES
 
 #### Status
 ACCEPTED

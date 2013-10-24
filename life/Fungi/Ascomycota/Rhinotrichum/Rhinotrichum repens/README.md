@@ -1,5 +1,4 @@
-Rhinotrichum repens Preuss, 1862 SPECIES
-=======
+# Rhinotrichum repens Preuss, 1862 SPECIES
 
 #### Status
 ACCEPTED

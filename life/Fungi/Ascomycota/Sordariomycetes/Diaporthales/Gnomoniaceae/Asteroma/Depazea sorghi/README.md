@@ -1,5 +1,4 @@
-Depazea sorghi Anzi SPECIES
-=======
+# Depazea sorghi Anzi SPECIES
 
 #### Status
 ACCEPTED

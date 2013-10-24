@@ -1,5 +1,4 @@
-Phomopsis tipuanae (Tassi) M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Phomopsis tipuanae (Tassi) M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

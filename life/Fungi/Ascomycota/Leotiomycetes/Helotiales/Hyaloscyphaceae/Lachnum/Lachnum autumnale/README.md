@@ -1,5 +1,4 @@
-Lachnum autumnale Velen. SPECIES
-=======
+# Lachnum autumnale Velen. SPECIES
 
 #### Status
 ACCEPTED

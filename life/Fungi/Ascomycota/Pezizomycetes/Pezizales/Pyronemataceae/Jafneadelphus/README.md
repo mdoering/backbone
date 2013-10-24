@@ -1,5 +1,4 @@
-Jafneadelphus GENUS
-=======
+# Jafneadelphus GENUS
 
 #### Status
 ACCEPTED

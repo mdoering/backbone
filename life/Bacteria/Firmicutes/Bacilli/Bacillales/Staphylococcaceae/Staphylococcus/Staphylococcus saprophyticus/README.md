@@ -1,5 +1,4 @@
-Staphylococcus saprophyticus subsp. saprophyticus SUBSPECIES
-=======
+# Staphylococcus saprophyticus (Fairbrother, 1940) Shaw et al., 1951 SPECIES
 
 #### Status
 ACCEPTED

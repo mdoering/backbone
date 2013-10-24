@@ -1,5 +1,4 @@
-Xanthoparmelia lopezii T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia lopezii T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

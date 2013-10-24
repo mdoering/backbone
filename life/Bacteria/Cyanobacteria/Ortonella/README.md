@@ -1,5 +1,4 @@
-Ortonella E.J. Garwood, 1914 GENUS
-=======
+# Ortonella E.J. Garwood, 1914 GENUS
 
 #### Status
 ACCEPTED

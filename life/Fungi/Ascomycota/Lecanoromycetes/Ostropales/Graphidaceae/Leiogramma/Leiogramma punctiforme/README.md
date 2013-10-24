@@ -1,5 +1,4 @@
-Leiogramma punctiforme Eschw. SPECIES
-=======
+# Leiogramma punctiforme Eschw. SPECIES
 
 #### Status
 ACCEPTED

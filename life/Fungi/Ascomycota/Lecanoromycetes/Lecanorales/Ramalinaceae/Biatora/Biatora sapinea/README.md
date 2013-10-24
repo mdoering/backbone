@@ -1,5 +1,4 @@
-Biatora sapinea Th. Fr. SPECIES
-=======
+# Biatora sapinea Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

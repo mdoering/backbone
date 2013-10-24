@@ -1,5 +1,4 @@
-Cercosporina cordobensis (Speg.) Speg. SPECIES
-=======
+# Cercosporina cordobensis (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius turbinatoides Consiglio, D. Antonini & M. Antonini SPECIES
-=======
+# Cortinarius turbinatoides Consiglio, D. Antonini & M. Antonini SPECIES
 
 #### Status
 ACCEPTED

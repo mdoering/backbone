@@ -1,5 +1,4 @@
-Lecanora homaliza (Ach.) Rabenh. SPECIES
-=======
+# Lecanora homaliza (Ach.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

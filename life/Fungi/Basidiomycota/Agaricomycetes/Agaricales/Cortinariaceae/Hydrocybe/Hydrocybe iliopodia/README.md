@@ -1,5 +1,4 @@
-Hydrocybe iliopodia (Bull.) M.M. Moser SPECIES
-=======
+# Hydrocybe iliopodia (Bull.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

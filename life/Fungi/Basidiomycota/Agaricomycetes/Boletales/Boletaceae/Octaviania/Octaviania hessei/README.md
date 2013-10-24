@@ -1,17 +1,16 @@
-Octavianina hessei Kuntze SPECIES
-=======
+# Octaviania hessei Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 2: 501 (1891)
 
 #### Original name
-Octavianina hessei Kuntze
+Octaviania hessei Kuntze
 
 ### Remarks
 null

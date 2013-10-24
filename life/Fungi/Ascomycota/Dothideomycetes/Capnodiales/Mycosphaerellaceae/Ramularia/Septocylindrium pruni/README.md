@@ -1,5 +1,4 @@
-Septocylindrium pruni Golovin SPECIES
-=======
+# Septocylindrium pruni Golovin SPECIES
 
 #### Status
 ACCEPTED

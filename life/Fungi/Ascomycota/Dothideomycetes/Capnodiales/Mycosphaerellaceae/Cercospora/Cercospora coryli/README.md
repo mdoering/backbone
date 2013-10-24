@@ -1,5 +1,4 @@
-Cercospora coryli Montem. SPECIES
-=======
+# Cercospora coryli Montem. SPECIES
 
 #### Status
 ACCEPTED

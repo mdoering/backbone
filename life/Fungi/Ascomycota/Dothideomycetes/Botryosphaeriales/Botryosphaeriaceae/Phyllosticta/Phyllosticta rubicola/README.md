@@ -1,5 +1,4 @@
-Phyllosticta rubicola var. rubicola VARIETY
-=======
+# Phyllosticta rubicola Rabenh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta rubicola var. rubicola
+Phyllosticta rubicola Rabenh.
 
 ### Remarks
 null

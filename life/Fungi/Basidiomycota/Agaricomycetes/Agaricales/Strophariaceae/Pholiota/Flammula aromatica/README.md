@@ -1,5 +1,4 @@
-Flammula aromatica (Murrill) Sacc. & Trotter SPECIES
-=======
+# Flammula aromatica (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

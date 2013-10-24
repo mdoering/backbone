@@ -1,5 +1,4 @@
-Marssonina polygoni Vasyag. SPECIES
-=======
+# Marssonina polygoni Vasyag. SPECIES
 
 #### Status
 ACCEPTED

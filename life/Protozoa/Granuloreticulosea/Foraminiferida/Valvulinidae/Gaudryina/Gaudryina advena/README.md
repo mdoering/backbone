@@ -1,5 +1,4 @@
-Gaudryina advena Cushman SPECIES
-=======
+# Gaudryina advena Cushman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria epichloë Kunze SPECIES
-=======
+# Sphaeria epichloë Kunze SPECIES
 
 #### Status
 ACCEPTED

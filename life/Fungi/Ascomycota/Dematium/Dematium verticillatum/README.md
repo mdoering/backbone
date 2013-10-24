@@ -1,5 +1,4 @@
-Dematium verticillatum Hoffm. SPECIES
-=======
+# Dematium verticillatum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

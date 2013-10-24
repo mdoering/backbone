@@ -1,5 +1,4 @@
-Loxophyllum undulatum Sauerbrey, 1928 SPECIES
-=======
+# Loxophyllum undulatum Sauerbrey, 1928 SPECIES
 
 #### Status
 ACCEPTED

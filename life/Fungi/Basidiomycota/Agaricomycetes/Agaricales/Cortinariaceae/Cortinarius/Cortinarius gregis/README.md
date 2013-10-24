@@ -1,5 +1,4 @@
-Cortinarius gregis Rob. Henry SPECIES
-=======
+# Cortinarius gregis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

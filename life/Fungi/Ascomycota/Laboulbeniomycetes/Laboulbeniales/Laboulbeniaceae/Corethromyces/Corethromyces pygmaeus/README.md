@@ -1,5 +1,4 @@
-Corethromyces pygmaeus Thaxt. SPECIES
-=======
+# Corethromyces pygmaeus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

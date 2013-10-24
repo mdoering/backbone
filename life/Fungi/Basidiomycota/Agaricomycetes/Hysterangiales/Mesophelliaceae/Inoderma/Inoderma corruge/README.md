@@ -1,5 +1,4 @@
-Inoderma corruge (Fr.) P. Karst. SPECIES
-=======
+# Inoderma corruge (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

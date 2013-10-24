@@ -1,5 +1,4 @@
-Archimerismus Loeblich & Tappan, 1984 GENUS
-=======
+# Archimerismus Loeblich & Tappan, 1984 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colpoda luganensis Perty, 1852 SPECIES
-=======
+# Colpoda luganensis Perty, 1852 SPECIES
 
 #### Status
 ACCEPTED

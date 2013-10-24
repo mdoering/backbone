@@ -1,5 +1,4 @@
-Arthopyrenia parolinii Beltr. SPECIES
-=======
+# Arthopyrenia parolinii Beltr. SPECIES
 
 #### Status
 ACCEPTED

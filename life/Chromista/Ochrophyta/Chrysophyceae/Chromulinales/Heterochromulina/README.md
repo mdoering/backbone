@@ -1,5 +1,4 @@
-Heterochromulina Pascher, 1912 GENUS
-=======
+# Heterochromulina Pascher, 1912 GENUS
 
 #### Status
 SYNONYM

@@ -1,5 +1,4 @@
-Rickia tomari Thaxt. SPECIES
-=======
+# Rickia tomari Thaxt. SPECIES
 
 #### Status
 ACCEPTED

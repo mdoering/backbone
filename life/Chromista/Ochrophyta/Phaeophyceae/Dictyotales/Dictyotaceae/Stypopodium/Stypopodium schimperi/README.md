@@ -1,8 +1,7 @@
-Zonaria schimperi Kützing SPECIES
-=======
+# Stypopodium schimperi (Buchinger ex Kützing) Verlaque & Boudouresque SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

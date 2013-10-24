@@ -1,5 +1,4 @@
-Septoria anarrhina Syd. SPECIES
-=======
+# Septoria anarrhina Syd. SPECIES
 
 #### Status
 ACCEPTED

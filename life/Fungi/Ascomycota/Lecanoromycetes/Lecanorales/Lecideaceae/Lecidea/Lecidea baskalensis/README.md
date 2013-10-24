@@ -1,5 +1,4 @@
-Lecidea baskalensis Szatala SPECIES
-=======
+# Lecidea baskalensis Szatala SPECIES
 
 #### Status
 ACCEPTED

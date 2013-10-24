@@ -1,5 +1,4 @@
-Lecanora pallidoflava Fée SPECIES
-=======
+# Lecanora pallidoflava Fée SPECIES
 
 #### Status
 ACCEPTED

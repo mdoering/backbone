@@ -1,5 +1,4 @@
-Copromyxella Raper, Worley & Kurzynski GENUS
-=======
+# Copromyxella Raper, Worley & Kurzynski GENUS
 
 #### Status
 ACCEPTED

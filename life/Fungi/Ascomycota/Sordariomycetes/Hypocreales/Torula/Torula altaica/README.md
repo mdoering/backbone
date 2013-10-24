@@ -1,5 +1,4 @@
-Torula altaica Nann. SPECIES
-=======
+# Torula altaica Nann. SPECIES
 
 #### Status
 ACCEPTED

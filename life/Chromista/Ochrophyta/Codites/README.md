@@ -1,5 +1,4 @@
-Codites S.Squinabol GENUS
-=======
+# Codites S.Squinabol GENUS
 
 #### Status
 ACCEPTED

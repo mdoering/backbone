@@ -1,5 +1,4 @@
-Malleomyces equestris Hallier SPECIES
-=======
+# Malleomyces equestris Hallier SPECIES
 
 #### Status
 ACCEPTED

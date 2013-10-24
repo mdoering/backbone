@@ -1,5 +1,4 @@
-Erysibe armeriae Wallr. SPECIES
-=======
+# Erysibe armeriae Wallr. SPECIES
 
 #### Status
 ACCEPTED

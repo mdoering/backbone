@@ -1,5 +1,4 @@
-Eriosporina tritici Tognini SPECIES
-=======
+# Eriosporina tritici Tognini SPECIES
 
 #### Status
 ACCEPTED

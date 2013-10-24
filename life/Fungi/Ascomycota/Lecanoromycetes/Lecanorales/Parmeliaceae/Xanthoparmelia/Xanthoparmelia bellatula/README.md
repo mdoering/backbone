@@ -1,14 +1,13 @@
-Parmelia bellatula Kurok. & Filson SPECIES
-=======
+# Xanthoparmelia bellatula (Kurok. & Filson) Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Filson, Aust. J. Bot. 30(5): 521 (1982)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 203 (1986)
 
 #### Original name
 Parmelia bellatula Kurok. & Filson

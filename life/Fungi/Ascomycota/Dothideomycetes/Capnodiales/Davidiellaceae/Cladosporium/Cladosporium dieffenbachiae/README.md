@@ -1,5 +1,4 @@
-Cladosporium dieffenbachiae Verpl. & Van den Broecke SPECIES
-=======
+# Cladosporium dieffenbachiae Verpl. & Van den Broecke SPECIES
 
 #### Status
 ACCEPTED

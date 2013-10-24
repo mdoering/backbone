@@ -1,5 +1,4 @@
-Discophrya hyphydri SPECIES
-=======
+# Discophrya hyphydri SPECIES
 
 #### Status
 ACCEPTED

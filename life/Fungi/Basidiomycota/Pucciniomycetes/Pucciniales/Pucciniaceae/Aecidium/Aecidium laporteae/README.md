@@ -1,5 +1,4 @@
-Aecidium laporteae Henn. SPECIES
-=======
+# Aecidium laporteae Henn. SPECIES
 
 #### Status
 ACCEPTED

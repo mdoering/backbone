@@ -1,5 +1,4 @@
-Gloeosporium raciborskii Henn. SPECIES
-=======
+# Gloeosporium raciborskii Henn. SPECIES
 
 #### Status
 ACCEPTED

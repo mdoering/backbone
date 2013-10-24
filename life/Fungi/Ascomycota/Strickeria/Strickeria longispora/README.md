@@ -1,5 +1,4 @@
-Strickeria longispora H. Wegelin SPECIES
-=======
+# Strickeria longispora H. Wegelin SPECIES
 
 #### Status
 ACCEPTED

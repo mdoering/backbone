@@ -1,17 +1,16 @@
-Meliola hystrixii A.K. Kar & Maity SPECIES
-=======
+# Meliola hystricis A.K. Kar & Maity SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nytt Mag. Bot. 17(2): 85 (1970)
 
 #### Original name
-Meliola hystrixii A.K. Kar & Maity
+Meliola hystricis A.K. Kar & Maity
 
 ### Remarks
 null

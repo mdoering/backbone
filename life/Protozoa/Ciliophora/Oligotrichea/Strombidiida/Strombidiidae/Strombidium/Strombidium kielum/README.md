@@ -1,5 +1,4 @@
-Strombidium kielum Maeda & Carey, 1985 SPECIES
-=======
+# Strombidium kielum Maeda & Carey, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asaccharobacter Minamida et al., 2008 GENUS
-=======
+# Asaccharobacter Minamida et al., 2008 GENUS
 
 #### Status
 ACCEPTED

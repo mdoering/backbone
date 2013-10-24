@@ -1,5 +1,4 @@
-Thielavia emodensis Udagawa & Y. Sugiy. SPECIES
-=======
+# Thielavia emodensis Udagawa & Y. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

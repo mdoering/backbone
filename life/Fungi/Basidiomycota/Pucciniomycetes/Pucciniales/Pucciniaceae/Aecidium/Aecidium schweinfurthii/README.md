@@ -1,5 +1,4 @@
-Aecidium schweinfurthii Henn. SPECIES
-=======
+# Aecidium schweinfurthii Henn. SPECIES
 
 #### Status
 ACCEPTED

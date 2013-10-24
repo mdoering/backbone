@@ -1,5 +1,4 @@
-Puccinia khanspurica Khalid & Afshan SPECIES
-=======
+# Puccinia khanspurica Khalid & Afshan SPECIES
 
 #### Status
 ACCEPTED

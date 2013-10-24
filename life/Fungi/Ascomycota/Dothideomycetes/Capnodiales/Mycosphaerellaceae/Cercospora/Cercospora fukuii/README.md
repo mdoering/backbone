@@ -1,17 +1,16 @@
-Cercospora fukui W. Yamam. SPECIES
-=======
+# Cercospora fukuii W. Yamam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the Society of Tropical Agriculture, Formosa 6: 601 (1934)
 
 #### Original name
-Cercospora fukui W. Yamam.
+Cercospora fukuii W. Yamam.
 
 ### Remarks
 null

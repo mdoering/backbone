@@ -1,5 +1,4 @@
-Coltricia confluens P.-J. Keizer, 1997 SPECIES
-=======
+# Coltricia confluens P.-J. Keizer, 1997 SPECIES
 
 #### Status
 ACCEPTED

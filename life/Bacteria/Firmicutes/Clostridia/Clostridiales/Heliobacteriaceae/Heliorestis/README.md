@@ -1,5 +1,4 @@
-Heliorestis Bryantseva et al., 2000 GENUS
-=======
+# Heliorestis Bryantseva et al., 2000 GENUS
 
 #### Status
 ACCEPTED

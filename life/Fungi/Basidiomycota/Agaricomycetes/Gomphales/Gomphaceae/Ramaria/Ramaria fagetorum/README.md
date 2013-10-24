@@ -1,5 +1,4 @@
-Ramaria fagetorum Maas Geest. ex Schild, 1978 SPECIES
-=======
+# Ramaria fagetorum Maas Geest. ex Schild, 1978 SPECIES
 
 #### Status
 ACCEPTED

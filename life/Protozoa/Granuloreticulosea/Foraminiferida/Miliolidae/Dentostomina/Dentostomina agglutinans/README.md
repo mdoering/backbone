@@ -1,5 +1,4 @@
-Dentostomina agglutinans (D'Orbigny) SPECIES
-=======
+# Dentostomina agglutinans (D'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

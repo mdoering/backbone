@@ -1,5 +1,4 @@
-Patellea oreophila Fairm. SPECIES
-=======
+# Patellea oreophila Fairm. SPECIES
 
 #### Status
 ACCEPTED

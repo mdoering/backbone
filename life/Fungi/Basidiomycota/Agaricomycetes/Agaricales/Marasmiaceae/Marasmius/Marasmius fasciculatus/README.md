@@ -1,5 +1,4 @@
-Marasmius fasciculatus Beeli SPECIES
-=======
+# Marasmius fasciculatus Beeli SPECIES
 
 #### Status
 ACCEPTED

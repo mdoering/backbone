@@ -1,5 +1,4 @@
-Stemphylium vinosum Torrend SPECIES
-=======
+# Stemphylium vinosum Torrend SPECIES
 
 #### Status
 ACCEPTED

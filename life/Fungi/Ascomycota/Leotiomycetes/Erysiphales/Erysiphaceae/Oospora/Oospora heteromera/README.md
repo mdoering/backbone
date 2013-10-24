@@ -1,5 +1,4 @@
-Oospora heteromera Speg. SPECIES
-=======
+# Oospora heteromera Speg. SPECIES
 
 #### Status
 ACCEPTED

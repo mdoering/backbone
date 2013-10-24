@@ -1,5 +1,4 @@
-Puccinia macroecia Ellis & Everh. SPECIES
-=======
+# Puccinia macroecia Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

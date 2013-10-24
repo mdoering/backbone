@@ -1,5 +1,4 @@
-Pelobacteraceae FAMILY
-=======
+# Pelobacteraceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Salsuginibacillus Carrasco et al., 2007 GENUS
-=======
+# Salsuginibacillus Carrasco et al., 2007 GENUS
 
 #### Status
 ACCEPTED

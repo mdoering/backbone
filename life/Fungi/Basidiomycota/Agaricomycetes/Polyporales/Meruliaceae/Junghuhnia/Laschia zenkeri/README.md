@@ -1,5 +1,4 @@
-Laschia zenkeri (Henn.) Sacc. & Trotter SPECIES
-=======
+# Laschia zenkeri (Henn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

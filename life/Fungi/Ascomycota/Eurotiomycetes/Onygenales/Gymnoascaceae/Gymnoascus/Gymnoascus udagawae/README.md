@@ -1,14 +1,13 @@
-Gymnascella udagawae (Arx) Currah, 1988 SPECIES
-=======
+# Gymnoascus udagawae Arx, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. Ascom. 7(1): 5 (1988)
+Persoonia 13(2): 181 (1986)
 
 #### Original name
 Gymnoascus udagawae Arx, 1986

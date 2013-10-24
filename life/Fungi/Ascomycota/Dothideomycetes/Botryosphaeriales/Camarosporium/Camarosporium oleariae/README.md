@@ -1,5 +1,4 @@
-Camarosporium oleariae McAlpine SPECIES
-=======
+# Camarosporium oleariae McAlpine SPECIES
 
 #### Status
 ACCEPTED

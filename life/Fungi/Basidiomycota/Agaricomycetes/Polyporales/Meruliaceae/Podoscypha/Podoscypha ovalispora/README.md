@@ -1,5 +1,4 @@
-Podoscypha ovalispora D.A. Reid, 1965 SPECIES
-=======
+# Podoscypha ovalispora D.A. Reid, 1965 SPECIES
 
 #### Status
 ACCEPTED

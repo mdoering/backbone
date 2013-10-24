@@ -1,5 +1,4 @@
-Globigerinella calida (Parker, 1962) SPECIES
-=======
+# Globigerinella calida (Parker, 1962) SPECIES
 
 #### Status
 ACCEPTED

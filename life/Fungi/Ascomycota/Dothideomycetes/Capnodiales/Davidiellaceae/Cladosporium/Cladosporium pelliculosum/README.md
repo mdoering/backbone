@@ -1,5 +1,4 @@
-Cladosporium pelliculosum Berk. & M.A. Curtis SPECIES
-=======
+# Cladosporium pelliculosum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

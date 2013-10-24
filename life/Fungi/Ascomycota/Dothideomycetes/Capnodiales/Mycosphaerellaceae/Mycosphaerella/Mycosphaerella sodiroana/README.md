@@ -1,5 +1,4 @@
-Mycosphaerella sodiroana Petr., 1950 SPECIES
-=======
+# Mycosphaerella sodiroana Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

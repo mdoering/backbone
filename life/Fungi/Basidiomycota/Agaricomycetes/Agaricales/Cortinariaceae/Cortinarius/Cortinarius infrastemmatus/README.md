@@ -1,5 +1,4 @@
-Cortinarius infrastemmatus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius infrastemmatus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paradiachea anglica Ing & P.C. Holland, 1968 SPECIES
-=======
+# Paradiachea anglica Ing & P.C. Holland, 1968 SPECIES
 
 #### Status
 ACCEPTED

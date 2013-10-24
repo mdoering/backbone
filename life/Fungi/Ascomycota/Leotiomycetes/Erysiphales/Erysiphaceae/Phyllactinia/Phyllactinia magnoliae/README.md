@@ -1,5 +1,4 @@
-Phyllactinia magnoliae Y.N. Yu & S.J. Han SPECIES
-=======
+# Phyllactinia magnoliae Y.N. Yu & S.J. Han SPECIES
 
 #### Status
 ACCEPTED

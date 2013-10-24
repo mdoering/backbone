@@ -1,5 +1,4 @@
-Bulleribasidium J.P. Samp., M. Weiss & R. Bauer GENUS
-=======
+# Bulleribasidium J.P. Samp., M. Weiss & R. Bauer GENUS
 
 #### Status
 ACCEPTED

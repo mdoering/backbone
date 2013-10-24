@@ -1,5 +1,4 @@
-Selenophoma aristidae Kalymb. SPECIES
-=======
+# Selenophoma aristidae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria propullulans Schwein. SPECIES
-=======
+# Sphaeria propullulans Schwein. SPECIES
 
 #### Status
 ACCEPTED

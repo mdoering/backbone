@@ -1,5 +1,4 @@
-Trichlorobacter De Wever et al., 2001 GENUS
-=======
+# Trichlorobacter De Wever et al., 2001 GENUS
 
 #### Status
 ACCEPTED

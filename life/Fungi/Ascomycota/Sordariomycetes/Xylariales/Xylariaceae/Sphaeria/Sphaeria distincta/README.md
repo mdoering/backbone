@@ -1,5 +1,4 @@
-Sphaeria distincta Schwein. SPECIES
-=======
+# Sphaeria distincta Schwein. SPECIES
 
 #### Status
 ACCEPTED

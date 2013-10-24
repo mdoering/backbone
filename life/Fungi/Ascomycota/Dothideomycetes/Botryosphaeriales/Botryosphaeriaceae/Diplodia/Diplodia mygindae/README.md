@@ -1,5 +1,4 @@
-Diplodia mygindae G. Winter SPECIES
-=======
+# Diplodia mygindae G. Winter SPECIES
 
 #### Status
 ACCEPTED

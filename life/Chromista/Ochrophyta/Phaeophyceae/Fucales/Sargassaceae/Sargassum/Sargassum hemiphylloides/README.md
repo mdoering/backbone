@@ -1,5 +1,4 @@
-Sargassum hemiphylloides Kützing SPECIES
-=======
+# Sargassum hemiphylloides Kützing SPECIES
 
 #### Status
 ACCEPTED

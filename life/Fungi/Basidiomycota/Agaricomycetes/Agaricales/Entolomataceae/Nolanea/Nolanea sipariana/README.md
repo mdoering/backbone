@@ -1,5 +1,4 @@
-Nolanea sipariana (Dennis) Dennis SPECIES
-=======
+# Nolanea sipariana (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

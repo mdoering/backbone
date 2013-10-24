@@ -1,5 +1,4 @@
-Puccinia sikokiana Dietel SPECIES
-=======
+# Puccinia sikokiana Dietel SPECIES
 
 #### Status
 ACCEPTED

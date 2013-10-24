@@ -1,5 +1,4 @@
-Vorticella marina Greeff, 1870 SPECIES
-=======
+# Vorticella marina Greeff, 1870 SPECIES
 
 #### Status
 ACCEPTED

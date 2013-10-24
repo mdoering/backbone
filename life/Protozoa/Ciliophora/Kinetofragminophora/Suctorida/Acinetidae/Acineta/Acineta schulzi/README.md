@@ -1,5 +1,4 @@
-Acineta schulzi Kahl, 1934 SPECIES
-=======
+# Acineta schulzi Kahl, 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerothallia esculenta (Pall.) Reichardt SPECIES
-=======
+# Sphaerothallia esculenta (Pall.) Reichardt SPECIES
 
 #### Status
 ACCEPTED

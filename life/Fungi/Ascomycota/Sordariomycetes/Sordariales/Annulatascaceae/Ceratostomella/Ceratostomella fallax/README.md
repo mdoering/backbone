@@ -1,5 +1,4 @@
-Ceratostomella fallax Cooke & Sacc. SPECIES
-=======
+# Ceratostomella fallax Cooke & Sacc. SPECIES
 
 #### Status
 ACCEPTED

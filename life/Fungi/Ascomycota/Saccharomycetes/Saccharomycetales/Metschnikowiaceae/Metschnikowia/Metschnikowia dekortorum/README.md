@@ -1,5 +1,4 @@
-Metschnikowia dekortorum Lachance & J.M. Bowles, 2002 SPECIES
-=======
+# Metschnikowia dekortorum Lachance & J.M. Bowles, 2002 SPECIES
 
 #### Status
 ACCEPTED

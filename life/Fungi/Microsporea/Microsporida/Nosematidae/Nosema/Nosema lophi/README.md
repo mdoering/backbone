@@ -1,5 +1,4 @@
-Nosema lophi (Doflein) Pace SPECIES
-=======
+# Nosema lophi (Doflein) Pace SPECIES
 
 #### Status
 ACCEPTED

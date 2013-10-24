@@ -1,5 +1,4 @@
-Leptosphaeria contecta Kohlm. SPECIES
-=======
+# Leptosphaeria contecta Kohlm. SPECIES
 
 #### Status
 ACCEPTED

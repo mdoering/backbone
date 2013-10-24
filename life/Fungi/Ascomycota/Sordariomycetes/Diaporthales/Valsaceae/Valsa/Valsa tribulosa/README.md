@@ -1,5 +1,4 @@
-Valsa tribulosa Berk. & M.A. Curtis SPECIES
-=======
+# Valsa tribulosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota proba Herp. SPECIES
-=======
+# Pholiota proba Herp. SPECIES
 
 #### Status
 ACCEPTED

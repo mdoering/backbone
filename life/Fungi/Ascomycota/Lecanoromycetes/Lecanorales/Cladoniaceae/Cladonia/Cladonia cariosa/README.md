@@ -1,17 +1,16 @@
-Cladonia cariosa var. cariosa VARIETY
-=======
+# Cladonia cariosa (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Linneaus, Syst. veg. , Edn 16 4(1 Lichenes): 272 (1827)
 
 #### Original name
-null
+Lichen cariosus Ach.
 
 ### Remarks
 null

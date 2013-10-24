@@ -1,5 +1,4 @@
-Lophiostoma petrophilae Gucevic SPECIES
-=======
+# Lophiostoma petrophilae Gucevic SPECIES
 
 #### Status
 ACCEPTED

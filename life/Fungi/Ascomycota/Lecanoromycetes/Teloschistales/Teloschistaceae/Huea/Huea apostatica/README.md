@@ -1,5 +1,4 @@
-Huea apostatica (Nyl.) C.W. Dodge SPECIES
-=======
+# Huea apostatica (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

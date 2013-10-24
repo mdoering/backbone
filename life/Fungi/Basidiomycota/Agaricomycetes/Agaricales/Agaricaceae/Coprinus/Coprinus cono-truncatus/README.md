@@ -1,5 +1,4 @@
-Coprinus cono-truncatus Lév. SPECIES
-=======
+# Coprinus cono-truncatus Lév. SPECIES
 
 #### Status
 ACCEPTED

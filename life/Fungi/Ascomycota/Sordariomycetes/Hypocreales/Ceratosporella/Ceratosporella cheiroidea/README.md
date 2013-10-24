@@ -1,5 +1,4 @@
-Ceratosporella cheiroidea R.C. Sinclair, Morgan-Jones & Eicker SPECIES
-=======
+# Ceratosporella cheiroidea R.C. Sinclair, Morgan-Jones & Eicker SPECIES
 
 #### Status
 ACCEPTED

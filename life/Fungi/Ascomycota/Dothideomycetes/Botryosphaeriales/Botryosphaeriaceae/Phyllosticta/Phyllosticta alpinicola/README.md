@@ -1,5 +1,4 @@
-Phyllosticta alpinicola Solheim SPECIES
-=======
+# Phyllosticta alpinicola Solheim SPECIES
 
 #### Status
 ACCEPTED

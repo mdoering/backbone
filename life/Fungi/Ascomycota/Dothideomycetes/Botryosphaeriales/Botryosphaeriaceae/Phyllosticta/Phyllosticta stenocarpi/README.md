@@ -1,5 +1,4 @@
-Phyllosticta stenocarpi Tassi SPECIES
-=======
+# Phyllosticta stenocarpi Tassi SPECIES
 
 #### Status
 ACCEPTED

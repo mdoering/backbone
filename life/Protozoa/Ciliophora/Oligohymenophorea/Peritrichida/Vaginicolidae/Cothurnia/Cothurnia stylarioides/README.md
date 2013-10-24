@@ -1,5 +1,4 @@
-Cothurnia stylarioides SPECIES
-=======
+# Cothurnia stylarioides SPECIES
 
 #### Status
 ACCEPTED

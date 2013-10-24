@@ -1,5 +1,4 @@
-Monosporium minutissimum Rivolta SPECIES
-=======
+# Monosporium minutissimum Rivolta SPECIES
 
 #### Status
 ACCEPTED

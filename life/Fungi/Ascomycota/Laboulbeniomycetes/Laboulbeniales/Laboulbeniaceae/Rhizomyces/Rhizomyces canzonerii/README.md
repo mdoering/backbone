@@ -1,5 +1,4 @@
-Rhizomyces canzonerii W. Rossi, 1990 SPECIES
-=======
+# Rhizomyces canzonerii W. Rossi, 1990 SPECIES
 
 #### Status
 ACCEPTED

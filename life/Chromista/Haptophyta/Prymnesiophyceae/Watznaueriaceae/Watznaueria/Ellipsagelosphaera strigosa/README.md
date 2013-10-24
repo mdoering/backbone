@@ -1,5 +1,4 @@
-Ellipsagelosphaera strigosa Grün & Zweili, 1980 SPECIES
-=======
+# Ellipsagelosphaera strigosa Grün & Zweili, 1980 SPECIES
 
 #### Status
 DOUBTFUL

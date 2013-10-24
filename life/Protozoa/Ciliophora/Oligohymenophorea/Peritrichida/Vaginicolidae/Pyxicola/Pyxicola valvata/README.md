@@ -1,5 +1,4 @@
-Pyxicola valvata (Stokes, 1894) Trueba, 1978 SPECIES
-=======
+# Pyxicola valvata (Stokes, 1894) Trueba, 1978 SPECIES
 
 #### Status
 ACCEPTED

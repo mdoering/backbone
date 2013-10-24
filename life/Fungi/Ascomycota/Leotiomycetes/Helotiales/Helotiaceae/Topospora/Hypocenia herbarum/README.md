@@ -1,5 +1,4 @@
-Hypocenia herbarum Cooke & Harkn. SPECIES
-=======
+# Hypocenia herbarum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endopyrenium pamiricum (N.S. Golubk.) Makar. SPECIES
-=======
+# Endopyrenium pamiricum (N.S. Golubk.) Makar. SPECIES
 
 #### Status
 ACCEPTED

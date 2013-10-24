@@ -1,5 +1,4 @@
-Pyxine prominula Stirt. SPECIES
-=======
+# Pyxine prominula Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyngbya pseudospirulina Pascher, 1925 SPECIES
-=======
+# Lyngbya pseudospirulina Pascher, 1925 SPECIES
 
 #### Status
 ACCEPTED

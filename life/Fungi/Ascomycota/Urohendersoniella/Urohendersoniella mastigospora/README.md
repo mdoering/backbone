@@ -1,14 +1,13 @@
-Scolecosporiella mastigospora (Petr.) B. Sutton SPECIES
-=======
+# Urohendersoniella mastigospora Petr., 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Coelomycetes (Kew) 83 (1980)
+Sydowia 9: 513 (1955)
 
 #### Original name
 Urohendersoniella mastigospora Petr., 1955

@@ -1,5 +1,4 @@
-Torula heteromorpha Penz. & Sacc. SPECIES
-=======
+# Torula heteromorpha Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

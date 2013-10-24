@@ -1,5 +1,4 @@
-Fusarium jungiae Pat. SPECIES
-=======
+# Fusarium jungiae Pat. SPECIES
 
 #### Status
 ACCEPTED

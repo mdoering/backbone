@@ -1,5 +1,4 @@
-Zoophthora nebriae (Raunk.) A. Batko SPECIES
-=======
+# Zoophthora nebriae (Raunk.) A. Batko SPECIES
 
 #### Status
 ACCEPTED

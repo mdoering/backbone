@@ -1,5 +1,4 @@
-Asteridiella tomentosa (G. Winter) Hansf. SPECIES
-=======
+# Asteridiella tomentosa (G. Winter) Hansf. SPECIES
 
 #### Status
 ACCEPTED

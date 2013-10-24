@@ -1,5 +1,4 @@
-Lachnocladium fulvum Corner, 1950 SPECIES
-=======
+# Lachnocladium fulvum Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

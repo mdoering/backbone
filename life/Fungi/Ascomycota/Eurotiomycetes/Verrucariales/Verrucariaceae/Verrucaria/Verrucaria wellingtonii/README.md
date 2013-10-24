@@ -1,5 +1,4 @@
-Verrucaria wellingtonii Stirt. SPECIES
-=======
+# Verrucaria wellingtonii Stirt. SPECIES
 
 #### Status
 ACCEPTED

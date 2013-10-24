@@ -1,5 +1,4 @@
-Uromyces bresadolae Tranzschel SPECIES
-=======
+# Uromyces bresadolae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

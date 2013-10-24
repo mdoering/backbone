@@ -1,5 +1,4 @@
-Armillaria carneogelatinosa Rick SPECIES
-=======
+# Armillaria carneogelatinosa Rick SPECIES
 
 #### Status
 ACCEPTED

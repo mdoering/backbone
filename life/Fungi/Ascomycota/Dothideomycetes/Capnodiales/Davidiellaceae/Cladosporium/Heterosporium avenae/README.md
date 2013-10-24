@@ -1,5 +1,4 @@
-Heterosporium avenae Oudem. SPECIES
-=======
+# Heterosporium avenae Oudem. SPECIES
 
 #### Status
 ACCEPTED

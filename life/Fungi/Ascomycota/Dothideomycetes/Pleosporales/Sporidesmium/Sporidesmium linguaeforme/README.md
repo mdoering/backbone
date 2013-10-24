@@ -1,5 +1,4 @@
-Sporidesmium linguaeforme Preuss SPECIES
-=======
+# Sporidesmium linguaeforme Preuss SPECIES
 
 #### Status
 ACCEPTED

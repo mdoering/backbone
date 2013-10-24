@@ -1,5 +1,4 @@
-Methylotenera Kalyuzhnaya et al., 2006 GENUS
-=======
+# Methylotenera Kalyuzhnaya et al., 2006 GENUS
 
 #### Status
 ACCEPTED

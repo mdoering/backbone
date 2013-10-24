@@ -1,5 +1,4 @@
-Distorimula mexicana F. San Martín, P. Lavín & Esqueda, 1999 SPECIES
-=======
+# Distorimula mexicana F. San Martín, P. Lavín & Esqueda, 1999 SPECIES
 
 #### Status
 ACCEPTED

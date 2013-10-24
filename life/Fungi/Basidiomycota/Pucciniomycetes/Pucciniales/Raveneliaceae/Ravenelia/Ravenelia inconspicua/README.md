@@ -1,5 +1,4 @@
-Ravenelia inconspicua Arthur SPECIES
-=======
+# Ravenelia inconspicua Arthur SPECIES
 
 #### Status
 ACCEPTED

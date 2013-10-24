@@ -1,5 +1,4 @@
-Phacidium phomatoides Mont. SPECIES
-=======
+# Phacidium phomatoides Mont. SPECIES
 
 #### Status
 ACCEPTED

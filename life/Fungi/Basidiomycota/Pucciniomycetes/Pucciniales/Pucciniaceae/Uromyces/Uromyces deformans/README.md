@@ -1,5 +1,4 @@
-Uromyces deformans Berk. & Broome SPECIES
-=======
+# Uromyces deformans Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

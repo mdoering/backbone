@@ -1,5 +1,4 @@
-Plicaria murina Fuckel SPECIES
-=======
+# Plicaria murina Fuckel SPECIES
 
 #### Status
 ACCEPTED

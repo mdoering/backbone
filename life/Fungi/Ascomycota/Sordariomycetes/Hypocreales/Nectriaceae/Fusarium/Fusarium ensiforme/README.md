@@ -1,5 +1,4 @@
-Fusarium ensiforme Wollenw. & Reinking SPECIES
-=======
+# Fusarium ensiforme Wollenw. & Reinking SPECIES
 
 #### Status
 ACCEPTED

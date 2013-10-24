@@ -1,5 +1,4 @@
-Allophylaria myricariae (Keissl.) Dennis SPECIES
-=======
+# Allophylaria myricariae (Keissl.) Dennis SPECIES
 
 #### Status
 ACCEPTED

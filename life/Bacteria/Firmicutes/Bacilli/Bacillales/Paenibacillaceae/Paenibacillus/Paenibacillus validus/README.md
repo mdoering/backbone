@@ -1,8 +1,7 @@
-Bacillus validus (ex Bredemann & Heigener, 1935) Nakamura, 1984 SPECIES
-=======
+# Paenibacillus validus (Nakamura, 1984) Ash et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

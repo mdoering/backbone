@@ -1,5 +1,4 @@
-Uromyces pachycephalus Neger SPECIES
-=======
+# Uromyces pachycephalus Neger SPECIES
 
 #### Status
 ACCEPTED

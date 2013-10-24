@@ -1,5 +1,4 @@
-Lactobacterium GENUS
-=======
+# Lactobacterium GENUS
 
 #### Status
 ACCEPTED

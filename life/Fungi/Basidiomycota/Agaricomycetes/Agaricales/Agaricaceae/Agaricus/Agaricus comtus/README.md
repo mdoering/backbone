@@ -1,5 +1,4 @@
-Agaricus comtus Fr. SPECIES
-=======
+# Agaricus comtus Fr. SPECIES
 
 #### Status
 ACCEPTED

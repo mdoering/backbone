@@ -1,5 +1,4 @@
-Valsa opulifoliae Peck SPECIES
-=======
+# Valsa opulifoliae Peck SPECIES
 
 #### Status
 ACCEPTED

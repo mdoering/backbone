@@ -1,17 +1,16 @@
-Sciurella Kopperi, 1937 GENUS
-=======
+# Sciurula Corliss, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ann. Soc. Zool. -bot. Fenn. Vanamo, 3 (2), 1935, 24.
+J. Protozool. 7: 272.
 
 #### Original name
-null
+Sciurella Kopperi, 1937
 
 ### Remarks
 null

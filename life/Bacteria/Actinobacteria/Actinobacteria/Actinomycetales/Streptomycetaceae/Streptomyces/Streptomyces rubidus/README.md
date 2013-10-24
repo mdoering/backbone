@@ -1,5 +1,4 @@
-Streptomyces rubidus Xu et al., 2006 SPECIES
-=======
+# Streptomyces rubidus Xu et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

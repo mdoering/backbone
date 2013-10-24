@@ -1,5 +1,4 @@
-Chaetomium tarraconensis Stchigel, K. Rodr. & Guarro SPECIES
-=======
+# Chaetomium tarraconensis Stchigel, K. Rodr. & Guarro SPECIES
 
 #### Status
 ACCEPTED

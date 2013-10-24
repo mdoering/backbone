@@ -1,5 +1,4 @@
-Hygrocybe imperfecta anon. SPECIES
-=======
+# Hygrocybe imperfecta anon. SPECIES
 
 #### Status
 ACCEPTED

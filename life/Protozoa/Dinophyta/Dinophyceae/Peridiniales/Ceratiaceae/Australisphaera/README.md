@@ -1,5 +1,4 @@
-Australisphaera R.J.Davey, 1978 GENUS
-=======
+# Australisphaera R.J.Davey, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercidospora kunzei (Niessl) Kuntze SPECIES
-=======
+# Cercidospora kunzei (Niessl) Kuntze SPECIES
 
 #### Status
 ACCEPTED

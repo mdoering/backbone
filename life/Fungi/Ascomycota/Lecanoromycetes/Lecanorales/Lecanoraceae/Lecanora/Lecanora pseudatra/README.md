@@ -1,5 +1,4 @@
-Lecanora pseudatra Zahlbr. SPECIES
-=======
+# Lecanora pseudatra Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

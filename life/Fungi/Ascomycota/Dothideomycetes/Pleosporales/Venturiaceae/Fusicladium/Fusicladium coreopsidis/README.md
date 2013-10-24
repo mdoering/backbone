@@ -1,14 +1,13 @@
-Cladosporium coreopsidis H.C. Greene, 1957 SPECIES
-=======
+# Fusicladium coreopsidis (H.C. Greene) K. Schub. & U. Braun, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Wis. Acad. Sci. Arts Lett. 45: 190 (1957)
+Mycotaxon 92: 67 (2005)
 
 #### Original name
 Cladosporium coreopsidis H.C. Greene, 1957

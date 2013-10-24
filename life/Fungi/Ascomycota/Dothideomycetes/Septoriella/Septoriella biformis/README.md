@@ -1,5 +1,4 @@
-Septoriella biformis Sacc. SPECIES
-=======
+# Septoriella biformis Sacc. SPECIES
 
 #### Status
 ACCEPTED

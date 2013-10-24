@@ -1,5 +1,4 @@
-Coprinopsis romagnesiana (Singer) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis romagnesiana (Singer) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

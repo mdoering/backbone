@@ -1,5 +1,4 @@
-Microporellus collybiiformis (Beeli) Ryvarden SPECIES
-=======
+# Microporellus collybiiformis (Beeli) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

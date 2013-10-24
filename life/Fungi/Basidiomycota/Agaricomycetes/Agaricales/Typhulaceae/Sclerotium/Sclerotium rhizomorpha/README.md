@@ -1,5 +1,4 @@
-Sclerotium rhizomorpha Guépin SPECIES
-=======
+# Sclerotium rhizomorpha Guépin SPECIES
 
 #### Status
 ACCEPTED

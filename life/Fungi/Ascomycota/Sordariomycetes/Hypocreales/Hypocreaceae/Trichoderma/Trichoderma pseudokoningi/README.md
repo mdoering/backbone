@@ -1,5 +1,4 @@
-Trichoderma pseudokoningi Rifai SPECIES
-=======
+# Trichoderma pseudokoningi Rifai SPECIES
 
 #### Status
 ACCEPTED

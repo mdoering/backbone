@@ -1,5 +1,4 @@
-Mycobilimbia quercina Velen. SPECIES
-=======
+# Mycobilimbia quercina Velen. SPECIES
 
 #### Status
 ACCEPTED

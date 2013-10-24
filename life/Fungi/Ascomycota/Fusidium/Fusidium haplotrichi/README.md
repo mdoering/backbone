@@ -1,5 +1,4 @@
-Fusidium haplotrichi Corda SPECIES
-=======
+# Fusidium haplotrichi Corda SPECIES
 
 #### Status
 ACCEPTED

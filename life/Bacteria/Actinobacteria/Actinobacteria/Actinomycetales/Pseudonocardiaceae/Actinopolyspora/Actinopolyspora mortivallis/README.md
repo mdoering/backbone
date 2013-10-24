@@ -1,5 +1,4 @@
-Actinopolyspora mortivallis Yoshida et al., 1991 SPECIES
-=======
+# Actinopolyspora mortivallis Yoshida et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

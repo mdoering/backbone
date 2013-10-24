@@ -1,5 +1,4 @@
-Amphisphaerellula gucevicziae Jachontova {?} SPECIES
-=======
+# Amphisphaerellula gucevicziae Jachontova {?} SPECIES
 
 #### Status
 ACCEPTED

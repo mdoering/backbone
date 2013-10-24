@@ -1,5 +1,4 @@
-Gonyaulax loculata Meunier SPECIES
-=======
+# Gonyaulax loculata Meunier SPECIES
 
 #### Status
 ACCEPTED

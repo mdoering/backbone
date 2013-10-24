@@ -1,5 +1,4 @@
-Solenophyma I.N. Golub in B.S. Sokolov, 1979 GENUS
-=======
+# Solenophyma I.N. Golub in B.S. Sokolov, 1979 GENUS
 
 #### Status
 ACCEPTED

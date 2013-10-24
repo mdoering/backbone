@@ -1,5 +1,4 @@
-Athabascaella sunwaptana Martin, 1992 SPECIES
-=======
+# Athabascaella sunwaptana Martin, 1992 SPECIES
 
 #### Status
 ACCEPTED

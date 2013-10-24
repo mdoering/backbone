@@ -1,5 +1,4 @@
-Pholiota pallida A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota pallida A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

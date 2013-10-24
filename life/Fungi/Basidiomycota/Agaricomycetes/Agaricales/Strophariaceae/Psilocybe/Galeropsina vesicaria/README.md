@@ -1,5 +1,4 @@
-Galeropsina vesicaria Velen. SPECIES
-=======
+# Galeropsina vesicaria Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melampsora ciliata Barclay SPECIES
-=======
+# Melampsora ciliata Barclay SPECIES
 
 #### Status
 ACCEPTED

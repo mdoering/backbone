@@ -1,5 +1,4 @@
-Pseudocercospora gymnosporiae R.K. Dubey, Firdousi, A.N. Rai & K.M. Vyas SPECIES
-=======
+# Pseudocercospora gymnosporiae R.K. Dubey, Firdousi, A.N. Rai & K.M. Vyas SPECIES
 
 #### Status
 ACCEPTED

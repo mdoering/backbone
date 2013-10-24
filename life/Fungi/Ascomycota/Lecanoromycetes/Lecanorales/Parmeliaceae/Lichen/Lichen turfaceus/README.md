@@ -1,5 +1,4 @@
-Lichen turfaceus Wahlenb. SPECIES
-=======
+# Lichen turfaceus Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ephelis japonica Henn. SPECIES
-=======
+# Ephelis japonica Henn. SPECIES
 
 #### Status
 ACCEPTED

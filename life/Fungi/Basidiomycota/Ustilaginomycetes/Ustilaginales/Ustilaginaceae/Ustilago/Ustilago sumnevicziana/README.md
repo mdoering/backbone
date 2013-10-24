@@ -1,5 +1,4 @@
-Ustilago sumnevicziana Lavrov SPECIES
-=======
+# Ustilago sumnevicziana Lavrov SPECIES
 
 #### Status
 ACCEPTED

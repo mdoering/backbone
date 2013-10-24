@@ -1,5 +1,4 @@
-Agaricus rieckii Rabenh. SPECIES
-=======
+# Agaricus rieckii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

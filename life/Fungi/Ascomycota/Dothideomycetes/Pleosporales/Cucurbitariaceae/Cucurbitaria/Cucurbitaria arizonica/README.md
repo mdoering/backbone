@@ -1,5 +1,4 @@
-Cucurbitaria arizonica Ellis & Everh. SPECIES
-=======
+# Cucurbitaria arizonica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

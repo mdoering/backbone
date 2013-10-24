@@ -1,5 +1,4 @@
-Cortinarius pallidipes (M.M. Moser) Nezdojm. SPECIES
-=======
+# Cortinarius pallidipes (M.M. Moser) Nezdojm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammula condensa Peck SPECIES
-=======
+# Flammula condensa Peck SPECIES
 
 #### Status
 ACCEPTED

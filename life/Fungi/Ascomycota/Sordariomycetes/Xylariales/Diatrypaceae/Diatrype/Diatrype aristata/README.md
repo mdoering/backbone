@@ -1,5 +1,4 @@
-Diatrype aristata Fr. SPECIES
-=======
+# Diatrype aristata Fr. SPECIES
 
 #### Status
 ACCEPTED

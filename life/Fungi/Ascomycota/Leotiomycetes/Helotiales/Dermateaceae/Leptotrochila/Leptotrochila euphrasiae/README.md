@@ -1,5 +1,4 @@
-Leptotrochila euphrasiae E. Müll., Hütter & Schüepp SPECIES
-=======
+# Leptotrochila euphrasiae E. Müll., Hütter & Schüepp SPECIES
 
 #### Status
 ACCEPTED

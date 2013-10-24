@@ -1,5 +1,4 @@
-Paulinella trinitatensis SPECIES
-=======
+# Paulinella trinitatensis SPECIES
 
 #### Status
 ACCEPTED

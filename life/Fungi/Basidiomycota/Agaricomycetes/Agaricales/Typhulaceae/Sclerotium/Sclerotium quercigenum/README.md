@@ -1,5 +1,4 @@
-Sclerotium quercigenum Berk. SPECIES
-=======
+# Sclerotium quercigenum Berk. SPECIES
 
 #### Status
 ACCEPTED

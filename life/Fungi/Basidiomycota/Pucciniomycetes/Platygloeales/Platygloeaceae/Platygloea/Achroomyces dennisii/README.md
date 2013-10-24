@@ -1,5 +1,4 @@
-Achroomyces dennisii P. Roberts SPECIES
-=======
+# Achroomyces dennisii P. Roberts SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycotribulus mirabilis Nag Raj & W.B. Kendr., 1970 SPECIES
-=======
+# Mycotribulus mirabilis Nag Raj & W.B. Kendr., 1970 SPECIES
 
 #### Status
 ACCEPTED

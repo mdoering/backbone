@@ -1,5 +1,4 @@
-Tremella carneocolor Lloyd SPECIES
-=======
+# Tremella carneocolor Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parvocavatus scabratus A. Kumar SPECIES
-=======
+# Parvocavatus scabratus A. Kumar SPECIES
 
 #### Status
 ACCEPTED

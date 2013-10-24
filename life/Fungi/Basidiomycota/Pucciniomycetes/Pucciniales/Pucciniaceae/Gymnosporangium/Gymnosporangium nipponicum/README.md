@@ -1,5 +1,4 @@
-Gymnosporangium nipponicum G. Yamada, 1935 SPECIES
-=======
+# Gymnosporangium nipponicum G. Yamada, 1935 SPECIES
 
 #### Status
 ACCEPTED

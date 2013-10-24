@@ -1,5 +1,4 @@
-Trypethelium phaeothelium Nyl. SPECIES
-=======
+# Trypethelium phaeothelium Nyl. SPECIES
 
 #### Status
 ACCEPTED

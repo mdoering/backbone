@@ -1,11 +1,10 @@
-Veillonella gazogenes (Hall & Howitt, 1925) Murray, 1939 SPECIES
-=======
+# Veillonella alcalescens Prévot, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

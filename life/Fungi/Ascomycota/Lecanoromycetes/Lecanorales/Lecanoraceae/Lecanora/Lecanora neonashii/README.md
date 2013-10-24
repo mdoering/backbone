@@ -1,5 +1,4 @@
-Lecanora neonashii Lumbsch SPECIES
-=======
+# Lecanora neonashii Lumbsch SPECIES
 
 #### Status
 ACCEPTED

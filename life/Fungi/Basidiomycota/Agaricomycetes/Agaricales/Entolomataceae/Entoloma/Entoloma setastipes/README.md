@@ -1,5 +1,4 @@
-Entoloma setastipes Hesler SPECIES
-=======
+# Entoloma setastipes Hesler SPECIES
 
 #### Status
 ACCEPTED

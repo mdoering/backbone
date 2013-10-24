@@ -1,5 +1,4 @@
-Uredo chikugoensis (Hirats. f.) Hirats. f. SPECIES
-=======
+# Uredo chikugoensis (Hirats. f.) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

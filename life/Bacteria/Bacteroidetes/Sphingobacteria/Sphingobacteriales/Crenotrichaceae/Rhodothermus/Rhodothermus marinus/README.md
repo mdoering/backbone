@@ -1,5 +1,4 @@
-Rhodothermus marinus Alfredsson et al., 1995 SPECIES
-=======
+# Rhodothermus marinus Alfredsson et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeoradulum luteosulphureum Rick SPECIES
-=======
+# Gloeoradulum luteosulphureum Rick SPECIES
 
 #### Status
 ACCEPTED

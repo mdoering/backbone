@@ -1,5 +1,4 @@
-Paralepista inversa (Fr.) Raithelh. SPECIES
-=======
+# Paralepista inversa (Fr.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

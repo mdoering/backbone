@@ -1,5 +1,4 @@
-Agaricus longissimus Fr. SPECIES
-=======
+# Agaricus longissimus Fr. SPECIES
 
 #### Status
 ACCEPTED

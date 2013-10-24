@@ -1,5 +1,4 @@
-Lactarius venustus (Durieu & Lév.) Sacc. SPECIES
-=======
+# Lactarius venustus (Durieu & Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

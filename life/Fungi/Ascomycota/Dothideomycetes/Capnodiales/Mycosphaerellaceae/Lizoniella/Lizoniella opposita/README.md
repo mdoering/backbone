@@ -1,5 +1,4 @@
-Lizoniella opposita (Berk. & Ravenel) Sacc. & D. Sacc. SPECIES
-=======
+# Lizoniella opposita (Berk. & Ravenel) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

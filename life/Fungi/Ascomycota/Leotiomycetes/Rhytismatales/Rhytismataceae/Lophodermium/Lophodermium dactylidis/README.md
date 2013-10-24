@@ -1,17 +1,16 @@
-Lophodermium dactylis (Roum.) Tehon SPECIES
-=======
+# Lophodermium dactylidis Hilitzer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ved. Spisy csl. Akad. zemed. 3: 92 (1929)
 
 #### Original name
-Lophodermium arundinaceum f. dactylidis Roum.
+Lophodermium dactylidis Hilitzer
 
 ### Remarks
 null

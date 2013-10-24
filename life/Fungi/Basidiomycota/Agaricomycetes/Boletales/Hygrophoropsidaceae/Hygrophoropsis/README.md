@@ -1,5 +1,4 @@
-Hygrophoropsis (J. Schröter) Maire ex Martin-Sans, 1929 GENUS
-=======
+# Hygrophoropsis (J. Schröter) Maire ex Martin-Sans, 1929 GENUS
 
 #### Status
 ACCEPTED

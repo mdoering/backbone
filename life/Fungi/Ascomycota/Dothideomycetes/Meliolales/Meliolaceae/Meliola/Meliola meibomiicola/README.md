@@ -1,5 +1,4 @@
-Meliola meibomiicola var. meibomiicola Cif. VARIETY
-=======
+# Meliola meibomiicola Cif. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 7: 154 (1954)
 
 #### Original name
-Meliola meibomiicola var. meibomiicola Cif.
+Meliola meibomiicola Cif.
 
 ### Remarks
 null

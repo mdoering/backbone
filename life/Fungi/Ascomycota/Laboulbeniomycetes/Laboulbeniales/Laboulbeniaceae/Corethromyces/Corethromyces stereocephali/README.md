@@ -1,5 +1,4 @@
-Corethromyces stereocephali Thaxt. SPECIES
-=======
+# Corethromyces stereocephali Thaxt. SPECIES
 
 #### Status
 ACCEPTED

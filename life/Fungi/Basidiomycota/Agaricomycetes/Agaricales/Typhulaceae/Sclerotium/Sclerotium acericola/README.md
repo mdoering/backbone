@@ -1,5 +1,4 @@
-Sclerotium acericola Heer SPECIES
-=======
+# Sclerotium acericola Heer SPECIES
 
 #### Status
 ACCEPTED

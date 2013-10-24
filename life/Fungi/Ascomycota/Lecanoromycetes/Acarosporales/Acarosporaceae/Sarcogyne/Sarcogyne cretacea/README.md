@@ -1,5 +1,4 @@
-Sarcogyne cretacea Poelt SPECIES
-=======
+# Sarcogyne cretacea Poelt SPECIES
 
 #### Status
 ACCEPTED

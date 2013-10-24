@@ -1,5 +1,4 @@
-Erysiphe potentillae Lib. ex Sacc. SPECIES
-=======
+# Erysiphe potentillae Lib. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

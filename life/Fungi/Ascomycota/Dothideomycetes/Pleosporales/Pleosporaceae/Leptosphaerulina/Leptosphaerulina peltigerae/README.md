@@ -1,14 +1,13 @@
-Pleospora peltigerae Fuckel, 1870 SPECIES
-=======
+# Leptosphaerulina peltigerae (Fuckel) Riedl, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 132 (1870)
+Sydowia 22(5-6): 399 (1969)
 
 #### Original name
 Pleospora peltigerae Fuckel, 1870

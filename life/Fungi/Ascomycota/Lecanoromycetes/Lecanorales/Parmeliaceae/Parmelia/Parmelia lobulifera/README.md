@@ -1,5 +1,4 @@
-Parmelia lobulifera Degel. SPECIES
-=======
+# Parmelia lobulifera Degel. SPECIES
 
 #### Status
 ACCEPTED

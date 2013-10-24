@@ -1,5 +1,4 @@
-Nectria rugispora Pat. SPECIES
-=======
+# Nectria rugispora Pat. SPECIES
 
 #### Status
 ACCEPTED

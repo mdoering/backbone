@@ -1,5 +1,4 @@
-Halalkalicoccus jeotgali Roh, Nam, Chang, Sung, Kim, Oh & Bae, 2007 SPECIES
-=======
+# Halalkalicoccus jeotgali Roh, Nam, Chang, Sung, Kim, Oh & Bae, 2007 SPECIES
 
 #### Status
 ACCEPTED

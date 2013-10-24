@@ -1,14 +1,13 @@
-Cerocorticium luteolum (Hjortstam & Ryvarden) Tellería, 1985 SPECIES
-=======
+# Uncobasidium luteolum Hjortstam & Ryvarden, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-An. Jard. bot. Madr. 42(1): 52 (1985)
+Mycotaxon 7(2): 408 (1978)
 
 #### Original name
 Uncobasidium luteolum Hjortstam & Ryvarden, 1978

@@ -1,5 +1,4 @@
-Trypethelium tropicum var. tropicum VARIETY
-=======
+# Trypethelium tropicum (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bot. Jb. 6: 393 (1885)
 
 #### Original name
-Trypethelium tropicum var. tropicum
+null
 
 ### Remarks
 null

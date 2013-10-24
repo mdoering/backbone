@@ -1,5 +1,4 @@
-Fusidium petasitidis Pass. SPECIES
-=======
+# Fusidium petasitidis Pass. SPECIES
 
 #### Status
 ACCEPTED

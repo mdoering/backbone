@@ -1,5 +1,4 @@
-Normanina Cushman, 1928 GENUS
-=======
+# Normanina Cushman, 1928 GENUS
 
 #### Status
 ACCEPTED

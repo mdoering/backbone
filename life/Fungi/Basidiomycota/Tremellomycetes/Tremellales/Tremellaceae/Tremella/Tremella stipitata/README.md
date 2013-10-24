@@ -1,5 +1,4 @@
-Tremella stipitata Pers. SPECIES
-=======
+# Tremella stipitata Pers. SPECIES
 
 #### Status
 ACCEPTED

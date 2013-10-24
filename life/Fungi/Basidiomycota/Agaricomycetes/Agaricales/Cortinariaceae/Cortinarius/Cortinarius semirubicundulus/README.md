@@ -1,5 +1,4 @@
-Cortinarius semirubicundulus M.M. Moser SPECIES
-=======
+# Cortinarius semirubicundulus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

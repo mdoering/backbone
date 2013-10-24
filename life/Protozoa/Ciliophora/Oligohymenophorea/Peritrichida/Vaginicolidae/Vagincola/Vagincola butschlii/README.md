@@ -1,5 +1,4 @@
-Vagincola butschlii SPECIES
-=======
+# Vagincola butschlii SPECIES
 
 #### Status
 ACCEPTED

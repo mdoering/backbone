@@ -1,5 +1,4 @@
-Desulfobacterium niacini Kuever et al., 2006 SPECIES
-=======
+# Desulfobacterium niacini Kuever et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

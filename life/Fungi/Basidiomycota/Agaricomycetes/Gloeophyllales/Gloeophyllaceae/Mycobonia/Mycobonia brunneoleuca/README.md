@@ -1,5 +1,4 @@
-Mycobonia brunneoleuca (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Mycobonia brunneoleuca (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

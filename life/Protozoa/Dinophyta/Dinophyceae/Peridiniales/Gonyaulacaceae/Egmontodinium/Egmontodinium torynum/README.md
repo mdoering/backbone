@@ -1,5 +1,4 @@
-Egmontodinium torynum (Cookson & Eisenack, 1960) SPECIES
-=======
+# Egmontodinium torynum (Cookson & Eisenack, 1960) SPECIES
 
 #### Status
 ACCEPTED

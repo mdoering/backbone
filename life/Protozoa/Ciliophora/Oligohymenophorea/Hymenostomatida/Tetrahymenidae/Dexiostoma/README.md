@@ -1,5 +1,4 @@
-Dexiostoma Jankowski, 1967 GENUS
-=======
+# Dexiostoma Jankowski, 1967 GENUS
 
 #### Status
 ACCEPTED

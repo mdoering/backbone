@@ -1,8 +1,7 @@
-Lynchella dirempta Deroux, 1970 SPECIES
-=======
+# Coeloperix diremptum (Deroux, 1970) Gong & Song, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

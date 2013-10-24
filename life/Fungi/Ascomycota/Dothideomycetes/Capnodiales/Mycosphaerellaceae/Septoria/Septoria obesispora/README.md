@@ -1,5 +1,4 @@
-Septoria obesispora Oudem., 1900 SPECIES
-=======
+# Septoria obesispora Oudem., 1900 SPECIES
 
 #### Status
 ACCEPTED

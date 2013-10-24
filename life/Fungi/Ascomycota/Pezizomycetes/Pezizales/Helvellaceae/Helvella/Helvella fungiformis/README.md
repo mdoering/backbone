@@ -1,5 +1,4 @@
-Helvella fungiformis Scop. SPECIES
-=======
+# Helvella fungiformis Scop. SPECIES
 
 #### Status
 ACCEPTED

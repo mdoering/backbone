@@ -1,5 +1,4 @@
-Uromyces hyperici (Schwein.) M.A. Curtis SPECIES
-=======
+# Uromyces hyperici (Schwein.) M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

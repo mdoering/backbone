@@ -1,5 +1,4 @@
-Mycosphaerella colorata (Peck) House SPECIES
-=======
+# Mycosphaerella colorata (Peck) House SPECIES
 
 #### Status
 ACCEPTED

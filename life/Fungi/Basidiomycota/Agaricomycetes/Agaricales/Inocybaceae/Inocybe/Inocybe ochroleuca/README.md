@@ -1,5 +1,4 @@
-Inocybe ochroleuca J. Favre SPECIES
-=======
+# Inocybe ochroleuca J. Favre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amblyosporium echinulatum Oudem. SPECIES
-=======
+# Amblyosporium echinulatum Oudem. SPECIES
 
 #### Status
 ACCEPTED

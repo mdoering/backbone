@@ -1,5 +1,4 @@
-Caloplaca furvescens Flagey SPECIES
-=======
+# Caloplaca furvescens Flagey SPECIES
 
 #### Status
 ACCEPTED

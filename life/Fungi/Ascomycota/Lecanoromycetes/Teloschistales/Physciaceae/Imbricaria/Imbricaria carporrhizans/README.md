@@ -1,5 +1,4 @@
-Imbricaria carporrhizans (Taylor) Jatta SPECIES
-=======
+# Imbricaria carporrhizans (Taylor) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kentingia Sivan. & W.H. Hsieh GENUS
-=======
+# Kentingia Sivan. & W.H. Hsieh GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolivina mexicana SPECIES
-=======
+# Bolivina mexicana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spadonia phalloides Fr. SPECIES
-=======
+# Spadonia phalloides Fr. SPECIES
 
 #### Status
 ACCEPTED

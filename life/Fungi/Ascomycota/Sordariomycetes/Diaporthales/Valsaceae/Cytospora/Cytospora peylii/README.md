@@ -1,5 +1,4 @@
-Cytospora peylii Rabenh. SPECIES
-=======
+# Cytospora peylii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodococcus coprophilus Rowbotham and Cross, 1979 (Approved Lists, 1980) SPECIES
-=======
+# Rhodococcus coprophilus Rowbotham and Cross, 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

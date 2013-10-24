@@ -1,5 +1,4 @@
-Clitocybe paulensis Henn. SPECIES
-=======
+# Clitocybe paulensis Henn. SPECIES
 
 #### Status
 ACCEPTED

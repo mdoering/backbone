@@ -1,5 +1,4 @@
-Lycogala cinereum Schumach. SPECIES
-=======
+# Lycogala cinereum Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia burensis SPECIES
-=======
+# Polyblastia burensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plagiotoma concharum Perty, 1852 SPECIES
-=======
+# Plagiotoma concharum Perty, 1852 SPECIES
 
 #### Status
 ACCEPTED

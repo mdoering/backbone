@@ -1,5 +1,4 @@
-Ribaldia coryli (Fuckel) Cif. SPECIES
-=======
+# Ribaldia coryli (Fuckel) Cif. SPECIES
 
 #### Status
 ACCEPTED

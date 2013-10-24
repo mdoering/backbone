@@ -1,5 +1,4 @@
-Thalassiosira lundiana Fryxell SPECIES
-=======
+# Thalassiosira lundiana Fryxell SPECIES
 
 #### Status
 ACCEPTED

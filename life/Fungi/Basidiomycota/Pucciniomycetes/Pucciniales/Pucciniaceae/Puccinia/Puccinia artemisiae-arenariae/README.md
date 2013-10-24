@@ -1,5 +1,4 @@
-Puccinia artemisiae-arenariae Const. SPECIES
-=======
+# Puccinia artemisiae-arenariae Const. SPECIES
 
 #### Status
 ACCEPTED

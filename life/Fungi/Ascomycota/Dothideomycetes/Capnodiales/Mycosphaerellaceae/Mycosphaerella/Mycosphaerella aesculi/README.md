@@ -1,8 +1,7 @@
-Sphaerella aesculi Cocc. & Morini, 1887 SPECIES
-=======
+# Mycosphaerella aesculi (Cocc. & Morini) Tomilin, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Sphaerella aesculi Cocc. & Morini, 1887
 
 ### Remarks
 null

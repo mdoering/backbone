@@ -1,5 +1,4 @@
-Marasmiellus parlatorei Singer SPECIES
-=======
+# Marasmiellus parlatorei Singer SPECIES
 
 #### Status
 ACCEPTED

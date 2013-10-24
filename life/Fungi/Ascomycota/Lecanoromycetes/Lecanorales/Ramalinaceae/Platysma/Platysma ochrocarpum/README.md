@@ -1,5 +1,4 @@
-Platysma ochrocarpum Eggerth SPECIES
-=======
+# Platysma ochrocarpum Eggerth SPECIES
 
 #### Status
 ACCEPTED

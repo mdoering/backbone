@@ -1,5 +1,4 @@
-Chondrostroma laricis Syd. SPECIES
-=======
+# Chondrostroma laricis Syd. SPECIES
 
 #### Status
 ACCEPTED

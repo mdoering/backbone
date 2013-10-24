@@ -1,5 +1,4 @@
-Phlebia georgica Parmasto SPECIES
-=======
+# Phlebia georgica Parmasto SPECIES
 
 #### Status
 ACCEPTED

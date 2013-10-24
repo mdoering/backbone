@@ -1,5 +1,4 @@
-Asterina platasca Berk. & M.A. Curtis SPECIES
-=======
+# Asterina platasca Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cheilochanus Loeblich & Tappan, 1994 GENUS
-=======
+# Cheilochanus Loeblich & Tappan, 1994 GENUS
 
 #### Status
 ACCEPTED

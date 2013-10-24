@@ -1,5 +1,4 @@
-Scolicotrichum gei Chona, Munjal & J.N. Kapoor SPECIES
-=======
+# Scolicotrichum gei Chona, Munjal & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

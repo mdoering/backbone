@@ -1,5 +1,4 @@
-Asterina aliena Ellis & Galloway SPECIES
-=======
+# Asterina aliena Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

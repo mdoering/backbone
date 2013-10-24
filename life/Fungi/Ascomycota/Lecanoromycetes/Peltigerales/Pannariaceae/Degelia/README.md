@@ -1,5 +1,4 @@
-Degelia Arv. & D.J. Galloway GENUS
-=======
+# Degelia Arv. & D.J. Galloway GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia tergua Bungartz SPECIES
-=======
+# Buellia tergua Bungartz SPECIES
 
 #### Status
 ACCEPTED

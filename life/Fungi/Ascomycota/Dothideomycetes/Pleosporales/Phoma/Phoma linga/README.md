@@ -1,5 +1,4 @@
-Phoma linga Desm. SPECIES
-=======
+# Phoma linga Desm. SPECIES
 
 #### Status
 ACCEPTED

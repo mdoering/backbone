@@ -1,5 +1,4 @@
-Emericella medias H.P. Chowdhury & R.S. Mathur SPECIES
-=======
+# Emericella medias H.P. Chowdhury & R.S. Mathur SPECIES
 
 #### Status
 ACCEPTED

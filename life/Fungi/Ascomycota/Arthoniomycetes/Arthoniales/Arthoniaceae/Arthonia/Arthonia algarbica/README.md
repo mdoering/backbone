@@ -1,5 +1,4 @@
-Arthonia algarbica Samp. SPECIES
-=======
+# Arthonia algarbica Samp. SPECIES
 
 #### Status
 ACCEPTED

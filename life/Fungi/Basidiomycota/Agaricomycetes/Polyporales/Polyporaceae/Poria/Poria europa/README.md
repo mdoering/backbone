@@ -1,5 +1,4 @@
-Poria europa P. Karst. SPECIES
-=======
+# Poria europa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

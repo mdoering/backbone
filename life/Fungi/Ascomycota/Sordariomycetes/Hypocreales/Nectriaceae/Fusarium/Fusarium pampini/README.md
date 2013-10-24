@@ -1,5 +1,4 @@
-Fusarium pampini Thüm. & Pass. SPECIES
-=======
+# Fusarium pampini Thüm. & Pass. SPECIES
 
 #### Status
 ACCEPTED

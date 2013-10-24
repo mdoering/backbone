@@ -1,14 +1,13 @@
-Ramularia sidarum Petr. & Cif., 1932 SPECIES
-=======
+# Passalora sidarum (Petr. & Cif.) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 30(3-4): 348 (1932)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 470 (2003)
 
 #### Original name
 Ramularia sidarum Petr. & Cif., 1932

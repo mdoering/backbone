@@ -1,5 +1,4 @@
-Boudiera globularis (Rolland) Speg. SPECIES
-=======
+# Boudiera globularis (Rolland) Speg. SPECIES
 
 #### Status
 ACCEPTED

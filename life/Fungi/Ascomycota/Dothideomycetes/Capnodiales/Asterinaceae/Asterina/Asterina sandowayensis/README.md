@@ -1,5 +1,4 @@
-Asterina sandowayensis Thaung SPECIES
-=======
+# Asterina sandowayensis Thaung SPECIES
 
 #### Status
 ACCEPTED

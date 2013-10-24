@@ -1,5 +1,4 @@
-Ocellularia zamiae Müll. Arg. SPECIES
-=======
+# Ocellularia zamiae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lachnum varians var. pteridophyllus (Rodway) M.P. Sharma VARIETY
-=======
+# Lachnum pteridophyllum (Rodway) Spooner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 116: 470 (1987)
 
 #### Original name
 Dasyscyphus pteridophyllus Rodway, 1921

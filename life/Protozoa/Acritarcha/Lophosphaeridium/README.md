@@ -1,5 +1,4 @@
-Lophosphaeridium B.V.Timofeev ex C.Downie, 1963 GENUS
-=======
+# Lophosphaeridium B.V.Timofeev ex C.Downie, 1963 GENUS
 
 #### Status
 ACCEPTED

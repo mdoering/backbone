@@ -1,5 +1,4 @@
-Diplotomma mixocoacense (B. de Lesd.) Szatala SPECIES
-=======
+# Diplotomma mixocoacense (B. de Lesd.) Szatala SPECIES
 
 #### Status
 ACCEPTED

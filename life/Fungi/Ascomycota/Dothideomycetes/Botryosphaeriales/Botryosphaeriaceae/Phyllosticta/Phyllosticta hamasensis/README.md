@@ -1,5 +1,4 @@
-Phyllosticta hamasensis Sacc. SPECIES
-=======
+# Phyllosticta hamasensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis mediterranea Sacc. SPECIES
-=======
+# Phomopsis mediterranea Sacc. SPECIES
 
 #### Status
 ACCEPTED

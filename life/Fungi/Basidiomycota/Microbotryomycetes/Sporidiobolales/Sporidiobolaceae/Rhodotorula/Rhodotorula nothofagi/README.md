@@ -1,5 +1,4 @@
-Rhodotorula nothofagi (C. Ramírez & A.E. González) Roeijmans SPECIES
-=======
+# Rhodotorula nothofagi (C. Ramírez & A.E. González) Roeijmans SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbum fasciculatum Berk. & Broome, 1850 SPECIES
-=======
+# Stilbum fasciculatum Berk. & Broome, 1850 SPECIES
 
 #### Status
 ACCEPTED

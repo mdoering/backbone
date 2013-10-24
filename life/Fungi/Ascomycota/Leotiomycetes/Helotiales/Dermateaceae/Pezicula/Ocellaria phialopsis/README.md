@@ -1,5 +1,4 @@
-Ocellaria phialopsis Rehm SPECIES
-=======
+# Ocellaria phialopsis Rehm SPECIES
 
 #### Status
 ACCEPTED

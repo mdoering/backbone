@@ -1,5 +1,4 @@
-Lecidea lenticella (Arnold) Stizenb. SPECIES
-=======
+# Lecidea lenticella (Arnold) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

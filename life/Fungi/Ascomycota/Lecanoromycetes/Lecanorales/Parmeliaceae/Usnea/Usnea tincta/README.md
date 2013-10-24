@@ -1,5 +1,4 @@
-Usnea tincta (Zahlbr.) Motyka SPECIES
-=======
+# Usnea tincta (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

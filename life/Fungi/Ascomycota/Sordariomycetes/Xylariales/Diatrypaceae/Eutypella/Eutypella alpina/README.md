@@ -1,5 +1,4 @@
-Eutypella alpina Ellis & Everh. SPECIES
-=======
+# Eutypella alpina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

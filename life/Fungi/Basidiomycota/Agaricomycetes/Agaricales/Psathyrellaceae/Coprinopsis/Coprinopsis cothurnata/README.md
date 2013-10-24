@@ -1,5 +1,4 @@
-Coprinopsis cothurnata (Godey) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis cothurnata (Godey) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

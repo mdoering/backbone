@@ -1,5 +1,4 @@
-Caloplaca perileuca Zahlbr. SPECIES
-=======
+# Caloplaca perileuca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Buellia obscurior (Stirt.) Aptroot SPECIES
-=======
+# Cratiria obscurior (Stirt.) Marbach & Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Aptroot & Sparrius, Fungal Diversity 14: 10 (2003)
+in Marbach, Biblthca Lichenol. 74: 186 (2000)
 
 #### Original name
 Pyxine obscurior Stirt.

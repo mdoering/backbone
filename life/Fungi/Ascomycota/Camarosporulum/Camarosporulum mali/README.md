@@ -1,5 +1,4 @@
-Camarosporulum mali (Ellis & Everh.) Tassi SPECIES
-=======
+# Camarosporulum mali (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

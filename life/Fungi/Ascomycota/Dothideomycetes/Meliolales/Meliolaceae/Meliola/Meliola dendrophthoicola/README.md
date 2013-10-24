@@ -1,17 +1,16 @@
-Meliola dendropthiicola Hosag. & T.K. Abraham SPECIES
-=======
+# Meliola dendrophthoicola Hosag. & T.K. Abraham SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 51(3): 302 (1999)
 
 #### Original name
-Meliola dendropthiicola Hosag. & T.K. Abraham
+Meliola dendrophthoicola Hosag. & T.K. Abraham
 
 ### Remarks
 null

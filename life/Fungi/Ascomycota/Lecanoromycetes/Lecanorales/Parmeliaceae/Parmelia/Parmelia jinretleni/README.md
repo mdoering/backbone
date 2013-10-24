@@ -1,5 +1,4 @@
-Parmelia jinretleni Gyeln. SPECIES
-=======
+# Parmelia jinretleni Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colpomenia nainativensis Durairatnam SPECIES
-=======
+# Colpomenia nainativensis Durairatnam SPECIES
 
 #### Status
 ACCEPTED

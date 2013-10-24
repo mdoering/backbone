@@ -1,5 +1,4 @@
-Asterina advenula Syd., 1927 SPECIES
-=======
+# Asterina advenula Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

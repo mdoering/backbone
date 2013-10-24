@@ -1,5 +1,4 @@
-Psathyrella ramicola A.H. Sm. SPECIES
-=======
+# Psathyrella ramicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

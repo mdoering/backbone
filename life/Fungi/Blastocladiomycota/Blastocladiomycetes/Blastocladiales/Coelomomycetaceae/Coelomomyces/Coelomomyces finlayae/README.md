@@ -1,5 +1,4 @@
-Coelomomyces finlayae Laird SPECIES
-=======
+# Coelomomyces finlayae Laird SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium fujikuroi Nirenberg, 1976 SPECIES
-=======
+# Fusarium fujikuroi Nirenberg, 1976 SPECIES
 
 #### Status
 ACCEPTED

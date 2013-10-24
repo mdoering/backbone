@@ -1,5 +1,4 @@
-Caloplaca fecunda Zahlbr. SPECIES
-=======
+# Caloplaca fecunda Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

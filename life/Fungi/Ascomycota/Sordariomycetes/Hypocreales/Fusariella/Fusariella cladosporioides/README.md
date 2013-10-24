@@ -1,5 +1,4 @@
-Fusariella cladosporioides P. Karst. SPECIES
-=======
+# Fusariella cladosporioides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

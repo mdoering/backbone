@@ -1,5 +1,4 @@
-Rhymbocarpus stereocaulorum (Alstrup & D. Hawksw.) Etayo & Diederich SPECIES
-=======
+# Rhymbocarpus stereocaulorum (Alstrup & D. Hawksw.) Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

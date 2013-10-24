@@ -1,5 +1,4 @@
-Asterina anisopterae Syd. & P. Syd. SPECIES
-=======
+# Asterina anisopterae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius eucalypti Berk. SPECIES
-=======
+# Marasmius eucalypti Berk. SPECIES
 
 #### Status
 ACCEPTED

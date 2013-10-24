@@ -1,5 +1,4 @@
-Pyrenopeziza hystrix (Berk.) SPECIES
-=======
+# Pyrenopeziza hystrix (Berk.) SPECIES
 
 #### Status
 ACCEPTED

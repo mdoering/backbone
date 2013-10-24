@@ -1,5 +1,4 @@
-Rosellinia stenasca Rick, 1932 SPECIES
-=======
+# Rosellinia stenasca Rick, 1932 SPECIES
 
 #### Status
 ACCEPTED

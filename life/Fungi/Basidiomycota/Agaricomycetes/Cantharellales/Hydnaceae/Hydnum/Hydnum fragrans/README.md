@@ -1,5 +1,4 @@
-Hydnum fragrans (Chodat & C. Martín) Sacc. SPECIES
-=======
+# Hydnum fragrans (Chodat & C. Martín) Sacc. SPECIES
 
 #### Status
 ACCEPTED

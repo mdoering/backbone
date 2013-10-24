@@ -1,5 +1,4 @@
-Actinomyces marimammalium Hoyles et al., 2001 SPECIES
-=======
+# Actinomyces marimammalium Hoyles et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

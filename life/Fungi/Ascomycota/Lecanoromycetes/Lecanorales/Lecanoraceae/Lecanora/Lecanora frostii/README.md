@@ -1,5 +1,4 @@
-Lecanora frostii SPECIES
-=======
+# Lecanora frostii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia acutata (Bonord.) Lind SPECIES
-=======
+# Ramularia acutata (Bonord.) Lind SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera ruderum Berk. & Mont. SPECIES
-=======
+# Galera ruderum Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plecopteromyces leptoperlarum M.C. Williams & Lichtw., 2005 SPECIES
-=======
+# Plecopteromyces leptoperlarum M.C. Williams & Lichtw., 2005 SPECIES
 
 #### Status
 ACCEPTED

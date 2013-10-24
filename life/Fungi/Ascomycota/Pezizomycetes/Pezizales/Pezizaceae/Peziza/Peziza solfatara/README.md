@@ -1,5 +1,4 @@
-Peziza solfatara Cooke & Ellis SPECIES
-=======
+# Peziza solfatara Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

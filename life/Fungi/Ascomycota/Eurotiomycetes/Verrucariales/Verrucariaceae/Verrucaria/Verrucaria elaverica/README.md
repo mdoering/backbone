@@ -1,5 +1,4 @@
-Verrucaria elaverica M.P. Christ. SPECIES
-=======
+# Verrucaria elaverica M.P. Christ. SPECIES
 
 #### Status
 ACCEPTED

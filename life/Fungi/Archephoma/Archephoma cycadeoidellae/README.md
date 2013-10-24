@@ -1,5 +1,4 @@
-Archephoma cycadeoidellae Kyoto Watan., H. Nishida & Tak. Kobay. SPECIES
-=======
+# Archephoma cycadeoidellae Kyoto Watan., H. Nishida & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

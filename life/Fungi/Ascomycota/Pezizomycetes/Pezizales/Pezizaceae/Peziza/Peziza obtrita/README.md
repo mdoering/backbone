@@ -1,5 +1,4 @@
-Peziza obtrita Pers. SPECIES
-=======
+# Peziza obtrita Pers. SPECIES
 
 #### Status
 ACCEPTED

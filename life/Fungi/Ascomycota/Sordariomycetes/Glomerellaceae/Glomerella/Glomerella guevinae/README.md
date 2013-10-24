@@ -1,5 +1,4 @@
-Glomerella guevinae (Syd.) Arx & E. Müll., 1954 SPECIES
-=======
+# Glomerella guevinae (Syd.) Arx & E. Müll., 1954 SPECIES
 
 #### Status
 ACCEPTED

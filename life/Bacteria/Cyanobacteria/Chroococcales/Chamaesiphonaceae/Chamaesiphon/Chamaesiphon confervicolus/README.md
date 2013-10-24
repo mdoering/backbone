@@ -1,8 +1,7 @@
-Chamaesiphon incrustans var. angustus Behre VARIETY
-=======
+# Chamaesiphon confervicolus A. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

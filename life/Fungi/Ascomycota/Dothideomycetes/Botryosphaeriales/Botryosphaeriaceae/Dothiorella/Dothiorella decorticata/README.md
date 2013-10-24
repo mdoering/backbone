@@ -1,5 +1,4 @@
-Dothiorella decorticata Ellis & Everh. SPECIES
-=======
+# Dothiorella decorticata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

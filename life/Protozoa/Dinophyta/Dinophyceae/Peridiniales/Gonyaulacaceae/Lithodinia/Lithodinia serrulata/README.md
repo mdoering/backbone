@@ -1,5 +1,4 @@
-Lithodinia serrulata Davies, 1983 SPECIES
-=======
+# Lithodinia serrulata Davies, 1983 SPECIES
 
 #### Status
 ACCEPTED

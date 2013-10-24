@@ -1,5 +1,4 @@
-Lactifluus capsicum (Schulzer ex Kalchbr.) Kuntze SPECIES
-=======
+# Lactifluus capsicum (Schulzer ex Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

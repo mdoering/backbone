@@ -1,5 +1,4 @@
-Asaia siamensis Katsura et al., 2001 SPECIES
-=======
+# Asaia siamensis Katsura et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

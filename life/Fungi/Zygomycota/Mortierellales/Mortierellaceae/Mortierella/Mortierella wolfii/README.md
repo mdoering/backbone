@@ -1,14 +1,13 @@
-Actinomortierella wolfii (B.S. Mehrotra & Baijal) Chalab., 1973 SPECIES
-=======
+# Mortierella wolfii B.S. Mehrotra & Baijal, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Griby Roda Mortierella 200 (1973)
+Mycopath. Mycol. appl. 20(1-2): 51 (1963)
 
 #### Original name
 Mortierella wolfii B.S. Mehrotra & Baijal, 1963

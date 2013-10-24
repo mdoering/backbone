@@ -1,5 +1,4 @@
-Terana rufofulva (Mont.) Kuntze SPECIES
-=======
+# Terana rufofulva (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

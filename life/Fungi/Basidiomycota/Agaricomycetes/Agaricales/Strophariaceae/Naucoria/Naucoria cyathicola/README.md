@@ -1,5 +1,4 @@
-Naucoria cyathicola Murrill SPECIES
-=======
+# Naucoria cyathicola Murrill SPECIES
 
 #### Status
 ACCEPTED

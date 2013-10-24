@@ -1,5 +1,4 @@
-Clavatrichoides N.S. Mikhailova in T.V. Jankauskas, 1989 GENUS
-=======
+# Clavatrichoides N.S. Mikhailova in T.V. Jankauskas, 1989 GENUS
 
 #### Status
 ACCEPTED

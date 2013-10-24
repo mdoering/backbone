@@ -1,17 +1,16 @@
-Cortinarius caesiocanescens var. caesiocanescens VARIETY
-=======
+# Cortinarius caesiocanescens M.M. Moser, 1953 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Sydowia 513 (1953)
 
 #### Original name
-Cortinarius caesiocanescens var. caesiocanescens
+Cortinarius caesiocanescens M.M. Moser, 1953
 
 ### Remarks
 null

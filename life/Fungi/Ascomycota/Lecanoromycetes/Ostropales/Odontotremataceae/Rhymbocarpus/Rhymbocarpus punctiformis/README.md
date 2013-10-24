@@ -1,5 +1,4 @@
-Rhymbocarpus punctiformis Zopf SPECIES
-=======
+# Rhymbocarpus punctiformis Zopf SPECIES
 
 #### Status
 ACCEPTED

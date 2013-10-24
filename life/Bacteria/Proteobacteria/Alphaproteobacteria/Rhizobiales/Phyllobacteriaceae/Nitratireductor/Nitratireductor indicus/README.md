@@ -1,5 +1,4 @@
-Nitratireductor indicus Lai, Yu, Yuan, Sun & Shao, 2011 SPECIES
-=======
+# Nitratireductor indicus Lai, Yu, Yuan, Sun & Shao, 2011 SPECIES
 
 #### Status
 ACCEPTED

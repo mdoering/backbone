@@ -1,5 +1,4 @@
-Geocoryne Korf GENUS
-=======
+# Geocoryne Korf GENUS
 
 #### Status
 ACCEPTED

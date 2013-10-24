@@ -1,5 +1,4 @@
-Irenopsis ekmanii (Cif.) Hansf. SPECIES
-=======
+# Irenopsis ekmanii (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lanzia alboatra (Henn.) Dumont SPECIES
-=======
+# Lanzia alboatra (Henn.) Dumont SPECIES
 
 #### Status
 ACCEPTED

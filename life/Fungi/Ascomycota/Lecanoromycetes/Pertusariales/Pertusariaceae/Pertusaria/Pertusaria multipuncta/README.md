@@ -1,17 +1,16 @@
-Pertusaria leptospora var. leptospora VARIETY
-=======
+# Pertusaria multipuncta (Turner) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 179 (1861)
 
 #### Original name
-Pertusaria leptospora var. leptospora
+Variolaria multipuncta Turner
 
 ### Remarks
 null

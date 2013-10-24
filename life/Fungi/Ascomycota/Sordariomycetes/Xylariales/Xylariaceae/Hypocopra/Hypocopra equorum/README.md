@@ -1,17 +1,16 @@
-Sordaria equorum (Fuckel) G. Winter, 1873 SPECIES
-=======
+# Hypocopra equorum (Fuckel) G. Winter, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(2): 178 (1885)
 
 #### Original name
-null
+Coprolepa equorum Fuckel, 1870
 
 ### Remarks
 null

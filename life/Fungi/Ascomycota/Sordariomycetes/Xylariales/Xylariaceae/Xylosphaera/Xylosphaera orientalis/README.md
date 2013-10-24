@@ -1,5 +1,4 @@
-Xylosphaera orientalis P. Joly SPECIES
-=======
+# Xylosphaera orientalis P. Joly SPECIES
 
 #### Status
 ACCEPTED

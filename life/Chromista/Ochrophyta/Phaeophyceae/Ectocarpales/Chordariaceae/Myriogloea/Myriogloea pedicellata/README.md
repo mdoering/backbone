@@ -1,5 +1,4 @@
-Myriogloea pedicellata M.J.Wynne, 2004 SPECIES
-=======
+# Myriogloea pedicellata M.J.Wynne, 2004 SPECIES
 
 #### Status
 ACCEPTED

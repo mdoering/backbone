@@ -1,5 +1,4 @@
-Sphaeria curvatum Sacc. SPECIES
-=======
+# Sphaeria curvatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

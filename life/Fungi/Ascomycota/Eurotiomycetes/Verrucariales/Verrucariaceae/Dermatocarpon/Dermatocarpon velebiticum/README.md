@@ -1,5 +1,4 @@
-Dermatocarpon velebiticum f. velebiticum FORM
-=======
+# Dermatocarpon velebiticum Zahlbr. ex Zschacke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Rabenh. Krypt. -Fl. (Leipzig) 9(1/1): 629 (1934)
 
 #### Original name
-Dermatocarpon velebiticum f. velebiticum
+Dermatocarpon velebiticum Zahlbr. ex Zschacke
 
 ### Remarks
 null

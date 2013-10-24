@@ -1,5 +1,4 @@
-Phellinus purpureogilvus (Petch) Ryvarden SPECIES
-=======
+# Phellinus purpureogilvus (Petch) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

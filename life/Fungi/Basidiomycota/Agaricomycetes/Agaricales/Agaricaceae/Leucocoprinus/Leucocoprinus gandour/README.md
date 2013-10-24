@@ -1,5 +1,4 @@
-Leucocoprinus gandour Har. & Pat. SPECIES
-=======
+# Leucocoprinus gandour Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

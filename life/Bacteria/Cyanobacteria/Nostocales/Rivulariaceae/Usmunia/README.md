@@ -1,5 +1,4 @@
-Usmunia L.A. Bogdanova, 1984 GENUS
-=======
+# Usmunia L.A. Bogdanova, 1984 GENUS
 
 #### Status
 ACCEPTED

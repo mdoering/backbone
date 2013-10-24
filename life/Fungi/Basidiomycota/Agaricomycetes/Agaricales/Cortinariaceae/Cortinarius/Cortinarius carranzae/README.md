@@ -1,5 +1,4 @@
-Cortinarius carranzae Ammirati, Halling & Garnica SPECIES
-=======
+# Cortinarius carranzae Ammirati, Halling & Garnica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopyrenula balia (Kremp.) Müll. Arg. SPECIES
-=======
+# Pseudopyrenula balia (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

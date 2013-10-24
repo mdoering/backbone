@@ -1,5 +1,4 @@
-Sphaerella vesicaria Pass. SPECIES
-=======
+# Sphaerella vesicaria Pass. SPECIES
 
 #### Status
 ACCEPTED

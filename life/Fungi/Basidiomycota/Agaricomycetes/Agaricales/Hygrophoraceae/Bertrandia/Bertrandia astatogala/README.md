@@ -1,5 +1,4 @@
-Bertrandia astatogala R. Heim, 1966 SPECIES
-=======
+# Bertrandia astatogala R. Heim, 1966 SPECIES
 
 #### Status
 ACCEPTED

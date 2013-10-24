@@ -1,5 +1,4 @@
-Ruminococcus Sijpesteijn, 1948 GENUS
-=======
+# Ruminococcus Sijpesteijn, 1948 GENUS
 
 #### Status
 ACCEPTED

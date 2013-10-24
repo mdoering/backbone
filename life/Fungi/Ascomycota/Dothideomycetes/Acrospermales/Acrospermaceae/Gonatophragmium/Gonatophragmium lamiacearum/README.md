@@ -1,5 +1,4 @@
-Gonatophragmium lamiacearum M.S. Tripathi & V. Tripathi SPECIES
-=======
+# Gonatophragmium lamiacearum M.S. Tripathi & V. Tripathi SPECIES
 
 #### Status
 ACCEPTED

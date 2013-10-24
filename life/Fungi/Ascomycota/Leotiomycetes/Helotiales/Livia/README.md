@@ -1,5 +1,4 @@
-Livia Velenovský, 1947 GENUS
-=======
+# Livia Velenovský, 1947 GENUS
 
 #### Status
 ACCEPTED

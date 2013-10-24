@@ -1,5 +1,4 @@
-Pirottaea aterrima (Lasch) Sacc. SPECIES
-=======
+# Pirottaea aterrima (Lasch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

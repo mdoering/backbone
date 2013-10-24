@@ -1,5 +1,4 @@
-Thelephorella P. Karst. GENUS
-=======
+# Thelephorella P. Karst. GENUS
 
 #### Status
 ACCEPTED

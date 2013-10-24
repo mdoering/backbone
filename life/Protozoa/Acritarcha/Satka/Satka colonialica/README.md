@@ -1,5 +1,4 @@
-Satka colonialica Jankauskas, 1979 SPECIES
-=======
+# Satka colonialica Jankauskas, 1979 SPECIES
 
 #### Status
 ACCEPTED

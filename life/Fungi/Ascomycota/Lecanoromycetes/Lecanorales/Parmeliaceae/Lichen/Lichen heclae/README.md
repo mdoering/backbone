@@ -1,5 +1,4 @@
-Lichen heclae Oeder SPECIES
-=======
+# Lichen heclae Oeder SPECIES
 
 #### Status
 ACCEPTED

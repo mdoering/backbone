@@ -1,5 +1,4 @@
-Uromyces bylianus Doidge SPECIES
-=======
+# Uromyces bylianus Doidge SPECIES
 
 #### Status
 ACCEPTED

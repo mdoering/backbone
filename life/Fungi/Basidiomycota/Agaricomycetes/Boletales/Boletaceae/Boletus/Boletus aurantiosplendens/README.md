@@ -1,5 +1,4 @@
-Boletus aurantiosplendens T.J. Baroni SPECIES
-=======
+# Boletus aurantiosplendens T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

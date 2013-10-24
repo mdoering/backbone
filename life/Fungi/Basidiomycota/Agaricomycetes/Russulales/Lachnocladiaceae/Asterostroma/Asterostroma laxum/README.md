@@ -1,5 +1,4 @@
-Asterostroma laxum Bres., 1920 SPECIES
-=======
+# Asterostroma laxum Bres., 1920 SPECIES
 
 #### Status
 ACCEPTED

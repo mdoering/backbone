@@ -1,5 +1,4 @@
-Anzia minor Yoshim. SPECIES
-=======
+# Anzia minor Yoshim. SPECIES
 
 #### Status
 ACCEPTED

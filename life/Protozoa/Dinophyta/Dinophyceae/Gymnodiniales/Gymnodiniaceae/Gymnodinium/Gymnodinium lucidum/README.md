@@ -1,5 +1,4 @@
-Gymnodinium lucidum Ballantine SPECIES
-=======
+# Gymnodinium lucidum Ballantine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora scutula Stizenb. SPECIES
-=======
+# Lecanora scutula Stizenb. SPECIES
 
 #### Status
 ACCEPTED

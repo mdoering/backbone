@@ -1,5 +1,4 @@
-Claussenomyces pusillus (Rehm) Korf & Abawi SPECIES
-=======
+# Claussenomyces pusillus (Rehm) Korf & Abawi SPECIES
 
 #### Status
 ACCEPTED

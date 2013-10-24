@@ -1,5 +1,4 @@
-Pucciniola hedysari-obscuri (DC.) Arthur SPECIES
-=======
+# Pucciniola hedysari-obscuri (DC.) Arthur SPECIES
 
 #### Status
 ACCEPTED

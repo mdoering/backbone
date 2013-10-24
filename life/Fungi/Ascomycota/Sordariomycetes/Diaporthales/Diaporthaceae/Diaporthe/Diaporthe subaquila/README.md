@@ -1,5 +1,4 @@
-Diaporthe subaquila (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Diaporthe subaquila (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

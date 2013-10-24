@@ -1,5 +1,4 @@
-Epidochium martensii Westend. SPECIES
-=======
+# Epidochium martensii Westend. SPECIES
 
 #### Status
 ACCEPTED

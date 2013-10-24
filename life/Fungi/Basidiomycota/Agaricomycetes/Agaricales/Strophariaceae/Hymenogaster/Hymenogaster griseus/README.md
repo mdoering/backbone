@@ -1,5 +1,4 @@
-Hymenogaster griseus Vittad., 1831 SPECIES
-=======
+# Hymenogaster griseus Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED

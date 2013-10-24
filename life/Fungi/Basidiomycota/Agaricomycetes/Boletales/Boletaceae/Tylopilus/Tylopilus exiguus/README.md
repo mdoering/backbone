@@ -1,5 +1,4 @@
-Tylopilus exiguus T.W. Henkel SPECIES
-=======
+# Tylopilus exiguus T.W. Henkel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pirozynskiella S. Hughes GENUS
-=======
+# Pirozynskiella S. Hughes GENUS
 
 #### Status
 ACCEPTED

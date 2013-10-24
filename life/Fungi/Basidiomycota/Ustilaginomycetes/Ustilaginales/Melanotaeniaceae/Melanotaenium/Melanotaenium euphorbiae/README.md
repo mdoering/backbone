@@ -1,5 +1,4 @@
-Melanotaenium euphorbiae (L.W. Lenz) M.D. Whitehead & Thirum. SPECIES
-=======
+# Melanotaenium euphorbiae (L.W. Lenz) M.D. Whitehead & Thirum. SPECIES
 
 #### Status
 ACCEPTED

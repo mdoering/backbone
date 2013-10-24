@@ -1,5 +1,4 @@
-Diplotomma atromaculatum (Sandst.) Szatala SPECIES
-=======
+# Diplotomma atromaculatum (Sandst.) Szatala SPECIES
 
 #### Status
 ACCEPTED

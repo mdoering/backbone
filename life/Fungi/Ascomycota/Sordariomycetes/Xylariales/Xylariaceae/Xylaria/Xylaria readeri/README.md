@@ -1,5 +1,4 @@
-Xylaria readeri F. Muell. SPECIES
-=======
+# Xylaria readeri F. Muell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmeliella turgida (A. Massal.) SPECIES
-=======
+# Parmeliella turgida (A. Massal.) SPECIES
 
 #### Status
 ACCEPTED

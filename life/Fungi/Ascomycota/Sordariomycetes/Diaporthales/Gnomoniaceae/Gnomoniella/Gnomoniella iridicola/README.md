@@ -1,5 +1,4 @@
-Gnomoniella iridicola P. Karst. SPECIES
-=======
+# Gnomoniella iridicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

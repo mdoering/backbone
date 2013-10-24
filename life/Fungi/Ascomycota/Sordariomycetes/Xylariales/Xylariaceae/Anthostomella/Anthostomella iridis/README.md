@@ -1,5 +1,4 @@
-Anthostomella iridis Fautrey SPECIES
-=======
+# Anthostomella iridis Fautrey SPECIES
 
 #### Status
 ACCEPTED

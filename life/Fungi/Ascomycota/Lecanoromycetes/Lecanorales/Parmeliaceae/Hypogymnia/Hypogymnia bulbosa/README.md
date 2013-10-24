@@ -1,5 +1,4 @@
-Hypogymnia bulbosa McCune & Li S. Wang SPECIES
-=======
+# Hypogymnia bulbosa McCune & Li S. Wang SPECIES
 
 #### Status
 ACCEPTED

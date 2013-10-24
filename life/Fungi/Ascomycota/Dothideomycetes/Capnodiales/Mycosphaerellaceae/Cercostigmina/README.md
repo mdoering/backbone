@@ -1,5 +1,4 @@
-Cercostigmina U. Braun GENUS
-=======
+# Cercostigmina U. Braun GENUS
 
 #### Status
 ACCEPTED

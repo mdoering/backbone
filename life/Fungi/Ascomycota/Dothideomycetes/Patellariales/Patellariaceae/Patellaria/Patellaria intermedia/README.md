@@ -1,5 +1,4 @@
-Patellaria intermedia Wallr. SPECIES
-=======
+# Patellaria intermedia Wallr. SPECIES
 
 #### Status
 ACCEPTED

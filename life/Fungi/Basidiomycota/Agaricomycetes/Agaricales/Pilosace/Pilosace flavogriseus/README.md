@@ -1,5 +1,4 @@
-Pilosace flavogriseus (Clements) Kuntze SPECIES
-=======
+# Pilosace flavogriseus (Clements) Kuntze SPECIES
 
 #### Status
 ACCEPTED

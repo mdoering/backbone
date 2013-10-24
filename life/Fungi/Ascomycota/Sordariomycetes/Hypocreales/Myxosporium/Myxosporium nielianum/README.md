@@ -1,5 +1,4 @@
-Myxosporium nielianum P. Karst. & Roum. SPECIES
-=======
+# Myxosporium nielianum P. Karst. & Roum. SPECIES
 
 #### Status
 ACCEPTED

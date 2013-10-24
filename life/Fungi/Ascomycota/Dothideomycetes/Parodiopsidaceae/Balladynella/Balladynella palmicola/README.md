@@ -1,5 +1,4 @@
-Balladynella palmicola Syd. SPECIES
-=======
+# Balladynella palmicola Syd. SPECIES
 
 #### Status
 ACCEPTED

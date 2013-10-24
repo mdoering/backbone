@@ -1,5 +1,4 @@
-Rhodophyllus pseudocystidiatus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus pseudocystidiatus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

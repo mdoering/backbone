@@ -1,17 +1,16 @@
-Dactuliophora harrisii C.L. Leakey SPECIES
-=======
+# Dactuliophora harrisiae C.L. Leakey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 47(3): 347 (1964)
 
 #### Original name
-Dactuliophora harrisii C.L. Leakey
+Dactuliophora harrisiae C.L. Leakey
 
 ### Remarks
 null

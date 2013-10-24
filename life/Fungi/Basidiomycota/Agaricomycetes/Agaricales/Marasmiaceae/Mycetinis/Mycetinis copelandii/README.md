@@ -1,5 +1,4 @@
-Mycetinis copelandii (Peck) A.W. Wilson SPECIES
-=======
+# Mycetinis copelandii (Peck) A.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

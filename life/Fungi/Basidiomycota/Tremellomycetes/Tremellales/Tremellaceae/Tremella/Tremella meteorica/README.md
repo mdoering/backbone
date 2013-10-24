@@ -1,5 +1,4 @@
-Tremella meteorica Pers. SPECIES
-=======
+# Tremella meteorica Pers. SPECIES
 
 #### Status
 ACCEPTED

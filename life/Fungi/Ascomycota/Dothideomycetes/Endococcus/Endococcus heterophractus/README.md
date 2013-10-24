@@ -1,5 +1,4 @@
-Endococcus heterophractus Nyl. SPECIES
-=======
+# Endococcus heterophractus Nyl. SPECIES
 
 #### Status
 ACCEPTED

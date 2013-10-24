@@ -1,5 +1,4 @@
-Chiodecton inconspicuum (C. Knight & Mitt.) C. Knight SPECIES
-=======
+# Chiodecton inconspicuum (C. Knight & Mitt.) C. Knight SPECIES
 
 #### Status
 ACCEPTED

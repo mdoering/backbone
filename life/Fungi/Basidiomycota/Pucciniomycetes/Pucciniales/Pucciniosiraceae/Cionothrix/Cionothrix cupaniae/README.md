@@ -1,5 +1,4 @@
-Cionothrix cupaniae Arthur & J.R. Johnst., 1918 SPECIES
-=======
+# Cionothrix cupaniae Arthur & J.R. Johnst., 1918 SPECIES
 
 #### Status
 ACCEPTED

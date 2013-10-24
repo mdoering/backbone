@@ -1,5 +1,4 @@
-Clostridium celerecrescens Palop et al., 1989 SPECIES
-=======
+# Clostridium celerecrescens Palop et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

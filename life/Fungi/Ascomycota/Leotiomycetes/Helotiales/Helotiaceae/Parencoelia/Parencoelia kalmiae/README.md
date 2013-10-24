@@ -1,14 +1,13 @@
-Trichopeziza kalmiae (Peck) Sacc., 1889 SPECIES
-=======
+# Parencoelia kalmiae (Peck) W.Y. Zhuang, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 411 (1889)
+Mycotaxon 38: 117 (1990)
 
 #### Original name
 null

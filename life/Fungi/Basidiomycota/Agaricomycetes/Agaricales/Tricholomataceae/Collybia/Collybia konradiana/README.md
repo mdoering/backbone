@@ -1,5 +1,4 @@
-Collybia konradiana Singer SPECIES
-=======
+# Collybia konradiana Singer SPECIES
 
 #### Status
 ACCEPTED

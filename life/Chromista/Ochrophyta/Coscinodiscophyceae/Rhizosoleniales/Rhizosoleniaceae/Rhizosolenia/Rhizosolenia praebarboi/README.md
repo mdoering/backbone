@@ -1,5 +1,4 @@
-Rhizosolenia praebarboi H.J. Schrader SPECIES
-=======
+# Rhizosolenia praebarboi H.J. Schrader SPECIES
 
 #### Status
 ACCEPTED

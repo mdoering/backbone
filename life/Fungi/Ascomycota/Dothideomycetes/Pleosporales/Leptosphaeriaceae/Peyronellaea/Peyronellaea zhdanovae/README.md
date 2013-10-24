@@ -1,17 +1,16 @@
-Peyronellaea zhdanovii Kusnezowa SPECIES
-=======
+# Peyronellaea zhdanovae Kusnezowa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nov. sist. Niz. Rast. , 1964 (1971)
+Nov. sist. Niz. Rast. , 1964 8: 98 (1971)
 
 #### Original name
-Peyronellaea zhdanovii Kusnezowa
+Peyronellaea zhdanovae Kusnezowa
 
 ### Remarks
 null

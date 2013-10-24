@@ -1,5 +1,4 @@
-Pseudoabsidia dubia (Bainier) Syd. SPECIES
-=======
+# Pseudoabsidia dubia (Bainier) Syd. SPECIES
 
 #### Status
 ACCEPTED

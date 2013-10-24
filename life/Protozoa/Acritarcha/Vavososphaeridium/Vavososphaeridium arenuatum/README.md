@@ -1,5 +1,4 @@
-Vavososphaeridium arenuatum Timofeev, 1963 SPECIES
-=======
+# Vavososphaeridium arenuatum Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

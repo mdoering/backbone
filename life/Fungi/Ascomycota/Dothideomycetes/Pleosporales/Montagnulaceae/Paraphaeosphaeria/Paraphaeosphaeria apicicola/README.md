@@ -1,5 +1,4 @@
-Paraphaeosphaeria apicicola Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1999 SPECIES
-=======
+# Paraphaeosphaeria apicicola Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1999 SPECIES
 
 #### Status
 ACCEPTED

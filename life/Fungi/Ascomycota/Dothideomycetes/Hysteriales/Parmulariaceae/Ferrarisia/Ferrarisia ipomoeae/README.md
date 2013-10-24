@@ -1,5 +1,4 @@
-Ferrarisia ipomoeae (Syd. & P. Syd.) Petr., 1927 SPECIES
-=======
+# Ferrarisia ipomoeae (Syd. & P. Syd.) Petr., 1927 SPECIES
 
 #### Status
 ACCEPTED

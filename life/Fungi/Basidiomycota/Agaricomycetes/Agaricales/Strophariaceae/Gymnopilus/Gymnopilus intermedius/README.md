@@ -1,5 +1,4 @@
-Gymnopilus intermedius (Singer) Singer SPECIES
-=======
+# Gymnopilus intermedius (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

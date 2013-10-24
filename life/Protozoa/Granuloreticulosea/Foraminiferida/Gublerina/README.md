@@ -1,5 +1,4 @@
-Gublerina Kikoìne, 1948 GENUS
-=======
+# Gublerina Kikoìne, 1948 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Codinaea glauco-nigra (Cooke & Ellis) S. Hughes & W.B. Kendr. SPECIES
-=======
+# Dictyochaetopsis glauconigra (Cooke & Ellis) Aramb. & Cabello, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 38: 12 (1990)
 
 #### Original name
 Menispora glauconigra Cooke & Ellis, 1878

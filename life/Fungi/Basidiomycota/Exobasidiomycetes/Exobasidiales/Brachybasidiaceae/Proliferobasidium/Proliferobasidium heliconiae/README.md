@@ -1,5 +1,4 @@
-Proliferobasidium heliconiae J.L. Cunn., 1976 SPECIES
-=======
+# Proliferobasidium heliconiae J.L. Cunn., 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diadema Shoemaker & C.E. Babcock, 1989 GENUS
-=======
+# Diadema Shoemaker & C.E. Babcock, 1989 GENUS
 
 #### Status
 ACCEPTED

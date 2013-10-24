@@ -1,5 +1,4 @@
-Pezizella leucostigmoides (Sacc.) Rehm SPECIES
-=======
+# Pezizella leucostigmoides (Sacc.) Rehm SPECIES
 
 #### Status
 ACCEPTED

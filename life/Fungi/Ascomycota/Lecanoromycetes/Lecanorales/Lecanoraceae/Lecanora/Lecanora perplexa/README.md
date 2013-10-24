@@ -1,5 +1,4 @@
-Lecanora perplexa Brodo SPECIES
-=======
+# Lecanora perplexa Brodo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius pseudofirmus Rob. Henry SPECIES
-=======
+# Cortinarius pseudofirmus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

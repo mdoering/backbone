@@ -1,5 +1,4 @@
-Discostroma rosae Brockmann, 1976 SPECIES
-=======
+# Discostroma rosae Brockmann, 1976 SPECIES
 
 #### Status
 ACCEPTED

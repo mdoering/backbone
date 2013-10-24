@@ -1,5 +1,4 @@
-Truncatella casuarinae (Cooke & Massee) B. Sutton SPECIES
-=======
+# Truncatella casuarinae (Cooke & Massee) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

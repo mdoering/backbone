@@ -1,5 +1,4 @@
-Scirrhiopsis Henn. GENUS
-=======
+# Scirrhiopsis Henn. GENUS
 
 #### Status
 ACCEPTED

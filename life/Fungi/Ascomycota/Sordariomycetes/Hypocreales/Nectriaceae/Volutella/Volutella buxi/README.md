@@ -1,17 +1,16 @@
-Chaetostroma buxi var. buxi VARIETY
-=======
+# Volutella buxi (Corda) Berk., 1850 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 2 5: 465 (1850)
 
 #### Original name
-Chaetostroma buxi var. buxi
+Volutella buxi (Corda) Berk., 1850
 
 ### Remarks
 null

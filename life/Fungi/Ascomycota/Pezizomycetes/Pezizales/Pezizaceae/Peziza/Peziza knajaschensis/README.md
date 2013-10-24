@@ -1,5 +1,4 @@
-Peziza knajaschensis P. Karst. SPECIES
-=======
+# Peziza knajaschensis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

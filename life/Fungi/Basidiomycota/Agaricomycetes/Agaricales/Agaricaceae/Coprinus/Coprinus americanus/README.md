@@ -1,5 +1,4 @@
-Coprinus americanus W.W. Patrick SPECIES
-=======
+# Coprinus americanus W.W. Patrick SPECIES
 
 #### Status
 ACCEPTED

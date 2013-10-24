@@ -1,5 +1,4 @@
-Borrera astroidea (Bagl.) Mudd SPECIES
-=======
+# Borrera astroidea (Bagl.) Mudd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorocybe GENUS
-=======
+# Sorocybe GENUS
 
 #### Status
 ACCEPTED

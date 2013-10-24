@@ -1,5 +1,4 @@
-Cercospora lantanae-indicae Munjal, Lall & Chona SPECIES
-=======
+# Cercospora lantanae-indicae Munjal, Lall & Chona SPECIES
 
 #### Status
 ACCEPTED

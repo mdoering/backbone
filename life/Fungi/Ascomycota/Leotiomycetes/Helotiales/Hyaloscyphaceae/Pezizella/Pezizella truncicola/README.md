@@ -1,5 +1,4 @@
-Pezizella truncicola Velen. SPECIES
-=======
+# Pezizella truncicola Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmothyriella luzonensis F. Stevens & W. Schneid. SPECIES
-=======
+# Phragmothyriella luzonensis F. Stevens & W. Schneid. SPECIES
 
 #### Status
 ACCEPTED

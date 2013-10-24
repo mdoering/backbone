@@ -1,5 +1,4 @@
-Facklamia languida Lawson et al., 1999 SPECIES
-=======
+# Facklamia languida Lawson et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

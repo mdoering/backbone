@@ -1,5 +1,4 @@
-Sargassum shangchuanii Tseng & Lu SPECIES
-=======
+# Sargassum shangchuanii Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

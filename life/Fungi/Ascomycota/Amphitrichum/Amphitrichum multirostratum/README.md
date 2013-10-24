@@ -1,5 +1,4 @@
-Amphitrichum multirostratum (Fuckel) Kuntze SPECIES
-=======
+# Amphitrichum multirostratum (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizoparme calamicola J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Schizoparme calamicola J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

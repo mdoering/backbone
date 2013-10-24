@@ -1,5 +1,4 @@
-Pocillaria schultzii (Kalchbr. ex G. Winter) Kuntze SPECIES
-=======
+# Pocillaria schultzii (Kalchbr. ex G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

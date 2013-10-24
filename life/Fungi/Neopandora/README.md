@@ -1,5 +1,4 @@
-Neopandora Ben Ze'ev GENUS
-=======
+# Neopandora Ben Ze'ev GENUS
 
 #### Status
 ACCEPTED

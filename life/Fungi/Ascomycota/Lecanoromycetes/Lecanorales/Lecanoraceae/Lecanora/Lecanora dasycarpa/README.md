@@ -1,5 +1,4 @@
-Lecanora dasycarpa Zahlbr. SPECIES
-=======
+# Lecanora dasycarpa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

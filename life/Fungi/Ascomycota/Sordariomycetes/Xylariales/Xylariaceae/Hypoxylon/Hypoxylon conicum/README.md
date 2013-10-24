@@ -1,5 +1,4 @@
-Hypoxylon conicum P.M.D. Martin SPECIES
-=======
+# Hypoxylon conicum P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroococcus aurantio-fuscus (Kützing) Rabenhorst SPECIES
-=======
+# Chroococcus aurantio-fuscus (Kützing) Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

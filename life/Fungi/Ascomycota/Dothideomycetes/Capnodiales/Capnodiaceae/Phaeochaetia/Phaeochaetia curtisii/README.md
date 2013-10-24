@@ -1,5 +1,4 @@
-Phaeochaetia curtisii Sacc. & Speg. SPECIES
-=======
+# Phaeochaetia curtisii Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

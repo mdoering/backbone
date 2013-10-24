@@ -1,14 +1,13 @@
-Stecchericium solomonense Corner, 1989 SPECIES
-=======
+# Wrightoporia solomonensis (Corner) T. Hatt., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 96: 124 (1989)
+Mycoscience 44(6): 461 (2003)
 
 #### Original name
 Stecchericium solomonense Corner, 1989

@@ -1,5 +1,4 @@
-Aulographum globosum I. Hino & Katum. SPECIES
-=======
+# Aulographum globosum I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

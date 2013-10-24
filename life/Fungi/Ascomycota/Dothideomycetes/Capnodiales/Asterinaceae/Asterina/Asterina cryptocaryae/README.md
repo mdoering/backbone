@@ -1,5 +1,4 @@
-Asterina cryptocaryae Cooke SPECIES
-=======
+# Asterina cryptocaryae Cooke SPECIES
 
 #### Status
 ACCEPTED

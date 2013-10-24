@@ -1,5 +1,4 @@
-Leucocoprinus permixtus (Barla) Locq. SPECIES
-=======
+# Leucocoprinus permixtus (Barla) Locq. SPECIES
 
 #### Status
 ACCEPTED

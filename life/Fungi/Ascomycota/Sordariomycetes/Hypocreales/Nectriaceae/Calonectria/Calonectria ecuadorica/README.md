@@ -1,5 +1,4 @@
-Calonectria ecuadorica Petr. SPECIES
-=======
+# Calonectria ecuadorica Petr. SPECIES
 
 #### Status
 ACCEPTED

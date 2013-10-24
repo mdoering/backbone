@@ -1,5 +1,4 @@
-Neopaxillus echinosporus Singer, 1948 SPECIES
-=======
+# Neopaxillus echinosporus Singer, 1948 SPECIES
 
 #### Status
 ACCEPTED

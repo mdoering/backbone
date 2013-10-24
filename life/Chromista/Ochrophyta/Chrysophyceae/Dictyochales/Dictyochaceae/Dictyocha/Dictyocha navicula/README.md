@@ -1,5 +1,4 @@
-Dictyocha navicula var. aspera P. Schulz VARIETY
-=======
+# Dictyocha navicula Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

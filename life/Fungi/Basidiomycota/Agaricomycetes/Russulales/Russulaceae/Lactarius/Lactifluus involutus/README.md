@@ -1,5 +1,4 @@
-Lactifluus involutus (Sopitt) Kuntze SPECIES
-=======
+# Lactifluus involutus (Sopitt) Kuntze SPECIES
 
 #### Status
 ACCEPTED

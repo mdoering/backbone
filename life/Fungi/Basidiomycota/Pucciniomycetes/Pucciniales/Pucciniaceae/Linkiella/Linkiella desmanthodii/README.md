@@ -1,5 +1,4 @@
-Linkiella desmanthodii (Dietel & Holw.) Syd. SPECIES
-=======
+# Linkiella desmanthodii (Dietel & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

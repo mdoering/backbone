@@ -1,5 +1,4 @@
-Leucocytozoon Sambon, 1908 GENUS
-=======
+# Leucocytozoon Sambon, 1908 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lichina confinis f. confinis FORM
-=======
+# Lichina confinis (O. F. Müll.) C. Agardh SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Spec. alg. 1: 105 (1821)
 
 #### Original name
-Lichina confinis f. confinis
+Lichen confinis O.F. Müller
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lentinus princeps Fr. SPECIES
-=======
+# Lentinus princeps Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria luctuosa Ces. SPECIES
-=======
+# Poria luctuosa Ces. SPECIES
 
 #### Status
 ACCEPTED

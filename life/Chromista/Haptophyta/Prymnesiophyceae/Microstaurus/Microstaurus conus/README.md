@@ -1,5 +1,4 @@
-Microstaurus conus (T.R. Worsley) F.H. Wind & P. Cepek SPECIES
-=======
+# Microstaurus conus (T.R. Worsley) F.H. Wind & P. Cepek SPECIES
 
 #### Status
 ACCEPTED

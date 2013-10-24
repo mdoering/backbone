@@ -1,17 +1,16 @@
-Ostreion Sacc. GENUS
-=======
+# Ostreichnion Duby GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 765 (1883)
+Mém. Soc. Phys. Hist. nat. Genève 16(1): 33 (1862)
 
 #### Original name
-Ostreion Sacc.
+Ostreichnion Duby
 
 ### Remarks
 null

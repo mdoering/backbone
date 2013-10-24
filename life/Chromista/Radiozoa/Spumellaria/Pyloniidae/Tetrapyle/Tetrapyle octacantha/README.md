@@ -1,5 +1,4 @@
-Tetrapyle octacantha Mueller, 1858 SPECIES
-=======
+# Tetrapyle octacantha Mueller, 1858 SPECIES
 
 #### Status
 ACCEPTED

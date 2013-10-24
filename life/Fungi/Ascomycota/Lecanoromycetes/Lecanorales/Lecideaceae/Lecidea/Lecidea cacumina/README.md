@@ -1,5 +1,4 @@
-Lecidea cacumina (J. Steiner) Szatala SPECIES
-=======
+# Lecidea cacumina (J. Steiner) Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodelitschia adelphica Luck-Allen SPECIES
-=======
+# Trichodelitschia adelphica Luck-Allen SPECIES
 
 #### Status
 ACCEPTED

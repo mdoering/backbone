@@ -1,5 +1,4 @@
-Clitopilus concentricus Gillet SPECIES
-=======
+# Clitopilus concentricus Gillet SPECIES
 
 #### Status
 ACCEPTED

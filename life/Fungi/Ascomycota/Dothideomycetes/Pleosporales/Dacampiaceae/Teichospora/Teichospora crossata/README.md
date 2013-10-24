@@ -1,5 +1,4 @@
-Teichospora crossata Ellis & Everh. SPECIES
-=======
+# Teichospora crossata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

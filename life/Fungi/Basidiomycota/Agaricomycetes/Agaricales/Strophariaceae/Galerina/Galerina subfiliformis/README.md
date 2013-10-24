@@ -1,5 +1,4 @@
-Galerina subfiliformis var. subfiliformis VARIETY
-=======
+# Galerina subfiliformis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 45: 917 (1953)
 
 #### Original name
-Galerina subfiliformis var. subfiliformis
+Galerina subfiliformis A.H. Sm.
 
 ### Remarks
 null

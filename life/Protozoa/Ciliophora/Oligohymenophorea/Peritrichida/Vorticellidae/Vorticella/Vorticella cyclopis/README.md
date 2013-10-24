@@ -1,5 +1,4 @@
-Vorticella cyclopis Kahl, 1933 SPECIES
-=======
+# Vorticella cyclopis Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

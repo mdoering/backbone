@@ -1,5 +1,4 @@
-Alicyclobacillus sendaiensis Tsuruoka et al., 2003 SPECIES
-=======
+# Alicyclobacillus sendaiensis Tsuruoka et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

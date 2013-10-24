@@ -1,5 +1,4 @@
-Lindavia scopularia Preuss ex Nieuwl. SPECIES
-=======
+# Lindavia scopularia Preuss ex Nieuwl. SPECIES
 
 #### Status
 ACCEPTED

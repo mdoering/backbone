@@ -1,5 +1,4 @@
-Orbula Foreman, 1973 GENUS
-=======
+# Orbula Foreman, 1973 GENUS
 
 #### Status
 ACCEPTED

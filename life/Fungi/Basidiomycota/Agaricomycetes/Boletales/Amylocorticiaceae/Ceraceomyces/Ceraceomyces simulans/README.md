@@ -1,5 +1,4 @@
-Ceraceomyces simulans (Berk. & Broome) Hjortstam SPECIES
-=======
+# Ceraceomyces simulans (Berk. & Broome) Hjortstam SPECIES
 
 #### Status
 ACCEPTED

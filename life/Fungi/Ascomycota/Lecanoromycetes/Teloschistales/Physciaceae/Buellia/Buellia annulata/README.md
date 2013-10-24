@@ -1,5 +1,4 @@
-Buellia annulata H. Magn. SPECIES
-=======
+# Buellia annulata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

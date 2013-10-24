@@ -1,5 +1,4 @@
-Agaricus subpurpurascens Batsch SPECIES
-=======
+# Agaricus subpurpurascens Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulimina corsiniana SPECIES
-=======
+# Bulimina corsiniana SPECIES
 
 #### Status
 ACCEPTED

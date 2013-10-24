@@ -1,5 +1,4 @@
-Oikomonas mutabilis Kent SPECIES
-=======
+# Oikomonas mutabilis Kent SPECIES
 
 #### Status
 ACCEPTED

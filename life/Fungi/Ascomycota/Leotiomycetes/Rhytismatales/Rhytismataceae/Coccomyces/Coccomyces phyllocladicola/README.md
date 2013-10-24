@@ -1,5 +1,4 @@
-Coccomyces phyllocladicola Spooner, 1990 SPECIES
-=======
+# Coccomyces phyllocladicola Spooner, 1990 SPECIES
 
 #### Status
 ACCEPTED

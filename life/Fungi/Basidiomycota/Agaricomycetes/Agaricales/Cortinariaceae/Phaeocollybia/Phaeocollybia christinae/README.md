@@ -1,5 +1,4 @@
-Phaeocollybia christinae (Fr.) R. Heim SPECIES
-=======
+# Phaeocollybia christinae (Fr.) R. Heim SPECIES
 
 #### Status
 ACCEPTED

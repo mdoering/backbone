@@ -1,5 +1,4 @@
-Aecidium fuscatum P. Karst. & Roum. SPECIES
-=======
+# Aecidium fuscatum P. Karst. & Roum. SPECIES
 
 #### Status
 ACCEPTED

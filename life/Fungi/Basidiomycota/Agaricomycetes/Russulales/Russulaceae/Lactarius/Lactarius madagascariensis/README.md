@@ -1,5 +1,4 @@
-Lactarius madagascariensis Verbeken & Buyck SPECIES
-=======
+# Lactarius madagascariensis Verbeken & Buyck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrophoma jasmini f. jasmini FORM
-=======
+# Dendrophoma jasmini Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 14: 187 (1916)
 
 #### Original name
-Dendrophoma jasmini f. jasmini
+Dendrophoma jasmini Syd.
 
 ### Remarks
 null

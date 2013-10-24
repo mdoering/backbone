@@ -1,5 +1,4 @@
-Vibrio proteolyticus (Merkel et al., 1964) Baumann et al., 1982 SPECIES
-=======
+# Vibrio proteolyticus (Merkel et al., 1964) Baumann et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

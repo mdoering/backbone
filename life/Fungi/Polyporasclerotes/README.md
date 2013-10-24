@@ -1,5 +1,4 @@
-Polyporasclerotes Stach & Pickh. GENUS
-=======
+# Polyporasclerotes Stach & Pickh. GENUS
 
 #### Status
 ACCEPTED

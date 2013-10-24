@@ -1,5 +1,4 @@
-Triparma strigata B. C. Booth SPECIES
-=======
+# Triparma strigata B. C. Booth SPECIES
 
 #### Status
 ACCEPTED

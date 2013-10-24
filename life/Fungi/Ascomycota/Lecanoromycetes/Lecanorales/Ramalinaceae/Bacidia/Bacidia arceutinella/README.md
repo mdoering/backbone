@@ -1,5 +1,4 @@
-Bacidia arceutinella Zahlbr. SPECIES
-=======
+# Bacidia arceutinella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

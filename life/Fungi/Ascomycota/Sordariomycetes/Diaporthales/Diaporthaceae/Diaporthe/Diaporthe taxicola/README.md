@@ -1,5 +1,4 @@
-Diaporthe taxicola Sacc. & P. Syd. SPECIES
-=======
+# Diaporthe taxicola Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

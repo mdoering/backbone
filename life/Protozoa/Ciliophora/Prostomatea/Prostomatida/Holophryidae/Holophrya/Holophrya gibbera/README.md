@@ -1,5 +1,4 @@
-Holophrya gibbera Fromentel, 1876 SPECIES
-=======
+# Holophrya gibbera Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterochaete gelatinosa (Berk. & M.A. Curtis) Pat., 1892 SPECIES
-=======
+# Heterochaete gelatinosa (Berk. & M.A. Curtis) Pat., 1892 SPECIES
 
 #### Status
 ACCEPTED

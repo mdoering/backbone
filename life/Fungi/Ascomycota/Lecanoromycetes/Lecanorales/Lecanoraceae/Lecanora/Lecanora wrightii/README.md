@@ -1,5 +1,4 @@
-Lecanora wrightii Tuck. SPECIES
-=======
+# Lecanora wrightii Tuck. SPECIES
 
 #### Status
 ACCEPTED

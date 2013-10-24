@@ -1,5 +1,4 @@
-Puccinia pallescens Arthur SPECIES
-=======
+# Puccinia pallescens Arthur SPECIES
 
 #### Status
 ACCEPTED

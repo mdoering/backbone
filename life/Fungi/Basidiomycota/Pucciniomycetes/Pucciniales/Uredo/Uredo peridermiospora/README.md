@@ -1,5 +1,4 @@
-Uredo peridermiospora Ellis & Tracy SPECIES
-=======
+# Uredo peridermiospora Ellis & Tracy SPECIES
 
 #### Status
 ACCEPTED

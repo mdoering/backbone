@@ -1,8 +1,7 @@
-Pulvinulina globosa Sidebottom, 1909 SPECIES
-=======
+# Glabratella globosa (Sidebottom, 1909) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

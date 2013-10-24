@@ -1,14 +1,13 @@
-Peziza maurilabra Cooke SPECIES
-=======
+# Anthracobia maurilabra (Cooke) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hist. Class. Discom. Eur. (Paris) 65 (1907)
 
 #### Original name
 Peziza maurilabra Cooke

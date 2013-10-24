@@ -1,5 +1,4 @@
-Peniophora farlowii Burt SPECIES
-=======
+# Peniophora farlowii Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium globulare Lam. & DC. SPECIES
-=======
+# Sclerotium globulare Lam. & DC. SPECIES
 
 #### Status
 ACCEPTED

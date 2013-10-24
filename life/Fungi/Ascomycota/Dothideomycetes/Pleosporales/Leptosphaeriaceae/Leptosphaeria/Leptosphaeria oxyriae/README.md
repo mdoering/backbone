@@ -1,5 +1,4 @@
-Leptosphaeria oxyriae Rostr. SPECIES
-=======
+# Leptosphaeria oxyriae Rostr. SPECIES
 
 #### Status
 ACCEPTED

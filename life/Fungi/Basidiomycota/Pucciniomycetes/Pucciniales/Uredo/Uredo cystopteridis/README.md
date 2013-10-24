@@ -1,5 +1,4 @@
-Uredo cystopteridis Hirats. f. SPECIES
-=======
+# Uredo cystopteridis Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

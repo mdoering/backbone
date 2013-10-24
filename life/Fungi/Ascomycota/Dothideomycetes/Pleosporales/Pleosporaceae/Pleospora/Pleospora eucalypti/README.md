@@ -1,5 +1,4 @@
-Pleospora eucalypti J.L. Mulder SPECIES
-=======
+# Pleospora eucalypti J.L. Mulder SPECIES
 
 #### Status
 ACCEPTED

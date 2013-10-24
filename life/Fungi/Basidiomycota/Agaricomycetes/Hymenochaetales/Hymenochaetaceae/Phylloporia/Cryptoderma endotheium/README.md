@@ -1,5 +1,4 @@
-Cryptoderma endotheium (Berk.) Imazeki SPECIES
-=======
+# Cryptoderma endotheium (Berk.) Imazeki SPECIES
 
 #### Status
 ACCEPTED

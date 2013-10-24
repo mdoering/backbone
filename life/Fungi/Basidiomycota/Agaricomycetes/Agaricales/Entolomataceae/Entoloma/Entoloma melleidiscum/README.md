@@ -1,5 +1,4 @@
-Entoloma melleidiscum Murrill SPECIES
-=======
+# Entoloma melleidiscum Murrill SPECIES
 
 #### Status
 ACCEPTED

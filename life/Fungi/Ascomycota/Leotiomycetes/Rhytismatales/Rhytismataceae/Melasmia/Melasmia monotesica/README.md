@@ -1,5 +1,4 @@
-Melasmia monotesica Petr. SPECIES
-=======
+# Melasmia monotesica Petr. SPECIES
 
 #### Status
 ACCEPTED

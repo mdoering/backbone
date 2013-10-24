@@ -1,5 +1,4 @@
-Sagedia grisea Anzi SPECIES
-=======
+# Sagedia grisea Anzi SPECIES
 
 #### Status
 ACCEPTED

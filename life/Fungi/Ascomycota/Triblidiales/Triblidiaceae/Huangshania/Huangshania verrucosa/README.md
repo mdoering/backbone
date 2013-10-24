@@ -1,5 +1,4 @@
-Huangshania verrucosa O.E. Erikss., 1992 SPECIES
-=======
+# Huangshania verrucosa O.E. Erikss., 1992 SPECIES
 
 #### Status
 ACCEPTED

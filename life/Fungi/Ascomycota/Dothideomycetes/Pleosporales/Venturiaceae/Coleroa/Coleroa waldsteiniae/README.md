@@ -1,5 +1,4 @@
-Coleroa waldsteiniae Koval SPECIES
-=======
+# Coleroa waldsteiniae Koval SPECIES
 
 #### Status
 ACCEPTED

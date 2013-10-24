@@ -1,5 +1,4 @@
-Hemidothis Syd. & P. Syd. GENUS
-=======
+# Hemidothis Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kuehneromyces castaneiceps Singer SPECIES
-=======
+# Kuehneromyces castaneiceps Singer SPECIES
 
 #### Status
 ACCEPTED

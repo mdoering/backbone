@@ -1,5 +1,4 @@
-Septoria artocarpi Cooke SPECIES
-=======
+# Septoria artocarpi Cooke SPECIES
 
 #### Status
 ACCEPTED

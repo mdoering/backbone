@@ -1,5 +1,4 @@
-Pseudodiplodia hierochloes Petr. SPECIES
-=======
+# Pseudodiplodia hierochloes Petr. SPECIES
 
 #### Status
 ACCEPTED

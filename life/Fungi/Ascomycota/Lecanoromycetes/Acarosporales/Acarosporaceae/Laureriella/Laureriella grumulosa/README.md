@@ -1,5 +1,4 @@
-Laureriella grumulosa (Schaer.) Hepp SPECIES
-=======
+# Laureriella grumulosa (Schaer.) Hepp SPECIES
 
 #### Status
 ACCEPTED

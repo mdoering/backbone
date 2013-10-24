@@ -1,5 +1,4 @@
-Tribonosphaera Haeckel, 1881 GENUS
-=======
+# Tribonosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

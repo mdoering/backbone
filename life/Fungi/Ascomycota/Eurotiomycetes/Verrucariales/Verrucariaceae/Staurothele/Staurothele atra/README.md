@@ -1,5 +1,4 @@
-Staurothele atra (Russell {?} ) Zahlbr. SPECIES
-=======
+# Staurothele atra (Russell {?} ) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

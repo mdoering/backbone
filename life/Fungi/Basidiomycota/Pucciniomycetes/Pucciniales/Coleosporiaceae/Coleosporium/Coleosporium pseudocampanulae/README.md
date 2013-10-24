@@ -1,5 +1,4 @@
-Coleosporium pseudocampanulae S. Kaneko, Kakish. & Y. Ono SPECIES
-=======
+# Coleosporium pseudocampanulae S. Kaneko, Kakish. & Y. Ono SPECIES
 
 #### Status
 ACCEPTED

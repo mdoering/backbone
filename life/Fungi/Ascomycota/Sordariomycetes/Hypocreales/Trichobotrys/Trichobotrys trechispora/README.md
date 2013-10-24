@@ -1,5 +1,4 @@
-Trichobotrys trechispora Petch SPECIES
-=======
+# Trichobotrys trechispora Petch SPECIES
 
 #### Status
 ACCEPTED

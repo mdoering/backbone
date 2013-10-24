@@ -1,17 +1,16 @@
-Menegazzia magellanica R. Sant. SPECIES
-=======
+# Menegazzia subpertusa P. James & D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. 30A(11): 23 (1942)
+in Galloway, N. Z. Jl Bot. 21(2): 195 (1983)
 
 #### Original name
-Menegazzia magellanica R. Sant.
+Menegazzia subpertusa P. James & D. J. Galloway
 
 ### Remarks
 null

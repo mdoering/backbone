@@ -1,5 +1,4 @@
-Ramularia muehlenbeckiae U. Braun & Priest SPECIES
-=======
+# Ramularia muehlenbeckiae U. Braun & Priest SPECIES
 
 #### Status
 ACCEPTED

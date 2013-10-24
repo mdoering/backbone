@@ -1,5 +1,4 @@
-Rhopographus bambusae (Cooke) Theiss. & Syd. SPECIES
-=======
+# Rhopographus bambusae (Cooke) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

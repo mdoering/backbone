@@ -1,5 +1,4 @@
-Tintinnopsis macropus SPECIES
-=======
+# Tintinnopsis macropus SPECIES
 
 #### Status
 ACCEPTED

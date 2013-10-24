@@ -1,5 +1,4 @@
-Placodium holocarpum (Ehrh.) Vain. SPECIES
-=======
+# Placodium holocarpum (Ehrh.) Vain. SPECIES
 
 #### Status
 ACCEPTED

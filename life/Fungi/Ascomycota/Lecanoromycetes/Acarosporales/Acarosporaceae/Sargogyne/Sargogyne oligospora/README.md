@@ -1,5 +1,4 @@
-Sargogyne oligospora SPECIES
-=======
+# Sargogyne oligospora SPECIES
 
 #### Status
 ACCEPTED

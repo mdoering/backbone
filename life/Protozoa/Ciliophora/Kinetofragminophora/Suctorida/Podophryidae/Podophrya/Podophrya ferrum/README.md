@@ -1,5 +1,4 @@
-Podophrya ferrum subsp. ferrum SUBSPECIES
-=======
+# Podophrya ferrum Ehrenberg, 1840 SPECIES
 
 #### Status
 ACCEPTED

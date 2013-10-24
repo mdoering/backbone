@@ -1,5 +1,4 @@
-Synedra lata (Giffen) Witkowski SPECIES
-=======
+# Synedra lata (Giffen) Witkowski SPECIES
 
 #### Status
 ACCEPTED

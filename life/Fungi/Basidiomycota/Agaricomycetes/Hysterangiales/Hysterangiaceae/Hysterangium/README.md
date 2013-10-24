@@ -1,5 +1,4 @@
-Hysterangium Vittadini, 1831 GENUS
-=======
+# Hysterangium Vittadini, 1831 GENUS
 
 #### Status
 ACCEPTED

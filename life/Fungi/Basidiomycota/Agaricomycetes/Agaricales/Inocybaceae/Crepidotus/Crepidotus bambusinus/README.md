@@ -1,5 +1,4 @@
-Crepidotus bambusinus Pat. SPECIES
-=======
+# Crepidotus bambusinus Pat. SPECIES
 
 #### Status
 ACCEPTED

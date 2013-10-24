@@ -1,5 +1,4 @@
-Gymnopilus braendlei (Peck) Hesler SPECIES
-=======
+# Gymnopilus braendlei (Peck) Hesler SPECIES
 
 #### Status
 ACCEPTED

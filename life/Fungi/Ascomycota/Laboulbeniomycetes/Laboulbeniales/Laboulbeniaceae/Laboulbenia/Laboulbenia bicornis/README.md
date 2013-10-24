@@ -1,5 +1,4 @@
-Laboulbenia bicornis Thaxt. SPECIES
-=======
+# Laboulbenia bicornis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

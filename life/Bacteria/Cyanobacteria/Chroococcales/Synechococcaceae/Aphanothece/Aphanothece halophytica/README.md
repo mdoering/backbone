@@ -1,5 +1,4 @@
-Aphanothece halophytica Frémy SPECIES
-=======
+# Aphanothece halophytica Frémy SPECIES
 
 #### Status
 ACCEPTED

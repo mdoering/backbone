@@ -1,5 +1,4 @@
-Mycena triplotricha Singer SPECIES
-=======
+# Mycena triplotricha Singer SPECIES
 
 #### Status
 ACCEPTED

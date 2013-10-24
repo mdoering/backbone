@@ -1,5 +1,4 @@
-Aecidium astragali Thüm. SPECIES
-=======
+# Aecidium astragali Thüm. SPECIES
 
 #### Status
 ACCEPTED

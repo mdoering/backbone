@@ -1,5 +1,4 @@
-Xanthoria siplei (C.W. Dodge & G.E. Baker) C.W. Dodge SPECIES
-=======
+# Xanthoria siplei (C.W. Dodge & G.E. Baker) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Graphis wilsoniana Müll. Arg. SPECIES
-=======
+# Diorygma wilsonianum (Müll. Arg.) A. W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 1: 57 (1893)
+Australasian Lichenology 56: 10 (2005)
 
 #### Original name
 Graphis wilsoniana Müll. Arg.

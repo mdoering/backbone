@@ -1,5 +1,4 @@
-Anabaena doliolum Bharadwaja SPECIES
-=======
+# Anabaena doliolum Bharadwaja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia hybrida (Kühner & Romagn.) Svrcek & Kubicka SPECIES
-=======
+# Collybia hybrida (Kühner & Romagn.) Svrcek & Kubicka SPECIES
 
 #### Status
 ACCEPTED

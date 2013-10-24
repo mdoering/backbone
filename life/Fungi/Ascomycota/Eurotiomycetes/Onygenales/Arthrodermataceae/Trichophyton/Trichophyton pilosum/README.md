@@ -1,5 +1,4 @@
-Trichophyton pilosum Sabour. SPECIES
-=======
+# Trichophyton pilosum Sabour. SPECIES
 
 #### Status
 ACCEPTED

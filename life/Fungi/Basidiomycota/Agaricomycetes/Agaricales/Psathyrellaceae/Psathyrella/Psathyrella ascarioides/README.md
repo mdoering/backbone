@@ -1,5 +1,4 @@
-Psathyrella ascarioides L. Freire & J.M. Losa SPECIES
-=======
+# Psathyrella ascarioides L. Freire & J.M. Losa SPECIES
 
 #### Status
 ACCEPTED

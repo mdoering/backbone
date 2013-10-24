@@ -1,5 +1,4 @@
-Restiosporium spathacei Vánky, R.G. Shivas & C. Vánky, 2006 SPECIES
-=======
+# Restiosporium spathacei Vánky, R.G. Shivas & C. Vánky, 2006 SPECIES
 
 #### Status
 ACCEPTED

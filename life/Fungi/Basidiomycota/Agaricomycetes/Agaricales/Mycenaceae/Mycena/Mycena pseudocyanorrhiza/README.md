@@ -1,5 +1,4 @@
-Mycena pseudocyanorrhiza Robich SPECIES
-=======
+# Mycena pseudocyanorrhiza Robich SPECIES
 
 #### Status
 ACCEPTED

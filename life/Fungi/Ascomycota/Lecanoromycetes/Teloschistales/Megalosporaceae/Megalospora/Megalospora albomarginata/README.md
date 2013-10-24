@@ -1,5 +1,4 @@
-Megalospora albomarginata Untari SPECIES
-=======
+# Megalospora albomarginata Untari SPECIES
 
 #### Status
 ACCEPTED

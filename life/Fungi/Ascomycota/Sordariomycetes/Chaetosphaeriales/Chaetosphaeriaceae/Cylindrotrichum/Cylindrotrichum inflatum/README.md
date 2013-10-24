@@ -1,5 +1,4 @@
-Cylindrotrichum inflatum Bonord. SPECIES
-=======
+# Cylindrotrichum inflatum Bonord. SPECIES
 
 #### Status
 ACCEPTED

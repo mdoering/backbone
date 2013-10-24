@@ -1,8 +1,7 @@
-Dasyscypha crassipes (Wallr.) Sacc. SPECIES
-=======
+# Dasyscyphus crassipes (Wallr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

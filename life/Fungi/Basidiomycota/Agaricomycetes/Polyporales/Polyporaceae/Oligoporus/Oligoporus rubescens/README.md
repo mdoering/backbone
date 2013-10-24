@@ -1,5 +1,4 @@
-Oligoporus rubescens Bref. SPECIES
-=======
+# Oligoporus rubescens Bref. SPECIES
 
 #### Status
 ACCEPTED

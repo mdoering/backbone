@@ -1,17 +1,16 @@
-Puccinia schneideri var. schneideri VARIETY
-=======
+# Puccinia thymi (Fuckel) P. Karst., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herb. Schles. Pilze no. 448 (1879)
+Bidr. Känn. Finl. Nat. Folk 39: 44 (1884)
 
 #### Original name
-Puccinia schneideri var. schneideri
+Aecidium thymi Fuckel, 1868
 
 ### Remarks
 null

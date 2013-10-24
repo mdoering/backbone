@@ -1,5 +1,4 @@
-Peziza calycula Schumach. SPECIES
-=======
+# Peziza calycula Schumach. SPECIES
 
 #### Status
 ACCEPTED

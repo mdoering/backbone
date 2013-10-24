@@ -1,5 +1,4 @@
-Digitodesmium elegans P.M. Kirk, 1981 SPECIES
-=======
+# Digitodesmium elegans P.M. Kirk, 1981 SPECIES
 
 #### Status
 ACCEPTED

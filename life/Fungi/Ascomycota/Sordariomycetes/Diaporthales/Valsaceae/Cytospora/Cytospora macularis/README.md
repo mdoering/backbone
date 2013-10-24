@@ -1,5 +1,4 @@
-Cytospora macularis Schulzer & Sacc. SPECIES
-=======
+# Cytospora macularis Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

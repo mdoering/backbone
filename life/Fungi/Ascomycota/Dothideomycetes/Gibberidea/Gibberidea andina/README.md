@@ -1,5 +1,4 @@
-Gibberidea andina Speg. SPECIES
-=======
+# Gibberidea andina Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlegmacium dibaphum var. dibaphum VARIETY
-=======
+# Phlegmacium dibaphum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phlegmacium dibaphum var. dibaphum
+Phlegmacium dibaphum
 
 ### Remarks
 null

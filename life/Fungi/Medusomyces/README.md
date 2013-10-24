@@ -1,5 +1,4 @@
-Medusomyces Lindau GENUS
-=======
+# Medusomyces Lindau GENUS
 
 #### Status
 ACCEPTED

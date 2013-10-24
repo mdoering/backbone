@@ -1,5 +1,4 @@
-Dictyostelium amphisporum Cavender, Vadell, J.C. Landolt & S.L. Stephenson, 2005 SPECIES
-=======
+# Dictyostelium amphisporum Cavender, Vadell, J.C. Landolt & S.L. Stephenson, 2005 SPECIES
 
 #### Status
 ACCEPTED

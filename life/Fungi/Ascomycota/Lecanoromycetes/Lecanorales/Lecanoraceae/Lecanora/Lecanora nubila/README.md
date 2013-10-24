@@ -1,5 +1,4 @@
-Lecanora nubila Stizenb. SPECIES
-=======
+# Lecanora nubila Stizenb. SPECIES
 
 #### Status
 ACCEPTED

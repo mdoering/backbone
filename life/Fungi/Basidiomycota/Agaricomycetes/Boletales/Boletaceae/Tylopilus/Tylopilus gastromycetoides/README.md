@@ -1,5 +1,4 @@
-Tylopilus gastromycetoides T.H. Li SPECIES
-=======
+# Tylopilus gastromycetoides T.H. Li SPECIES
 
 #### Status
 ACCEPTED

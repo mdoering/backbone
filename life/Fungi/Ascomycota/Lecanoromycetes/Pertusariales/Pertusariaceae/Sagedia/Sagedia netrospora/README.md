@@ -1,5 +1,4 @@
-Sagedia netrospora (Nägeli) Anzi SPECIES
-=======
+# Sagedia netrospora (Nägeli) Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycobacterium nonchromogenicum Tsukamura, 1965 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium nonchromogenicum Tsukamura, 1965 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

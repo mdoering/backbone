@@ -1,5 +1,4 @@
-Uredo brachylaenae Doidge SPECIES
-=======
+# Uredo brachylaenae Doidge SPECIES
 
 #### Status
 ACCEPTED

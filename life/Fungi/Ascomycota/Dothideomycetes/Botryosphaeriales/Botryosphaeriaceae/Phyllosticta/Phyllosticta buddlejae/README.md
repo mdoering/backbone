@@ -1,5 +1,4 @@
-Phyllosticta buddlejae Syd. SPECIES
-=======
+# Phyllosticta buddlejae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heteromyces Müller Arg., 1889 GENUS
-=======
+# Heteromyces Müller Arg., 1889 GENUS
 
 #### Status
 ACCEPTED

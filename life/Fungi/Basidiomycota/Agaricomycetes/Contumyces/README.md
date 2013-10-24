@@ -1,5 +1,4 @@
-Contumyces Redhead, Moncalvo, Vilgalys & Lutzoni GENUS
-=======
+# Contumyces Redhead, Moncalvo, Vilgalys & Lutzoni GENUS
 
 #### Status
 ACCEPTED

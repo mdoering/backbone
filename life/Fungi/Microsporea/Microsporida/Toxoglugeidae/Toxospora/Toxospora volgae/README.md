@@ -1,5 +1,4 @@
-Toxospora volgae Voronin SPECIES
-=======
+# Toxospora volgae Voronin SPECIES
 
 #### Status
 ACCEPTED

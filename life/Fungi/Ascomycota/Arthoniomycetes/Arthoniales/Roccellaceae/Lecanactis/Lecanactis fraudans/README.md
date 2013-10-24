@@ -1,5 +1,4 @@
-Lecanactis fraudans (Räsänen) Tehler SPECIES
-=======
+# Lecanactis fraudans (Räsänen) Tehler SPECIES
 
 #### Status
 ACCEPTED

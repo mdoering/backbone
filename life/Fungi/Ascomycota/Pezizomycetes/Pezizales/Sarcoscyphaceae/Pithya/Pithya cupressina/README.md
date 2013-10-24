@@ -1,5 +1,4 @@
-Pithya cupressina Fuckel, 1870 SPECIES
-=======
+# Pithya cupressina Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaerospora minuta Cain, 1956 SPECIES
-=======
+# Trichophaea minuta (Cain) Korf, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 34: 360 (1956)
+Persoonia 7(2): 194 (1973)
 
 #### Original name
 Sphaerospora minuta Cain, 1956

@@ -1,5 +1,4 @@
-Clitocybe gracillima Velen. SPECIES
-=======
+# Clitocybe gracillima Velen. SPECIES
 
 #### Status
 ACCEPTED

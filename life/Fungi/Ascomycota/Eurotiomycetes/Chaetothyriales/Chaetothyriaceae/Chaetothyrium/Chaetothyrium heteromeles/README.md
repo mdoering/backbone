@@ -1,5 +1,4 @@
-Chaetothyrium heteromeles (Cooke & Harkn.) Theiss. SPECIES
-=======
+# Chaetothyrium heteromeles (Cooke & Harkn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

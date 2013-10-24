@@ -1,5 +1,4 @@
-Quinqueloculina variolata d'Orbigny, 1826 SPECIES
-=======
+# Quinqueloculina variolata d'Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

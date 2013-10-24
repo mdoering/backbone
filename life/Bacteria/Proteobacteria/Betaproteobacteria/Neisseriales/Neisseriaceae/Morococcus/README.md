@@ -1,5 +1,4 @@
-Morococcus Long et al., 1981 GENUS
-=======
+# Morococcus Long et al., 1981 GENUS
 
 #### Status
 ACCEPTED

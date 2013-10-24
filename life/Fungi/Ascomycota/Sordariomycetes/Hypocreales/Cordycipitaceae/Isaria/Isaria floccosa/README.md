@@ -1,5 +1,4 @@
-Isaria floccosa Berk. & Broome SPECIES
-=======
+# Isaria floccosa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

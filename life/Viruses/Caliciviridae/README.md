@@ -1,5 +1,4 @@
-Caliciviridae FAMILY
-=======
+# Caliciviridae FAMILY
 
 #### Status
 ACCEPTED

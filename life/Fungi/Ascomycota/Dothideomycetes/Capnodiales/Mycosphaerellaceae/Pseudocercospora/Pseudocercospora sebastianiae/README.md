@@ -1,5 +1,4 @@
-Pseudocercospora sebastianiae (R.E.D. Baker & W.T. Dale) Deighton SPECIES
-=======
+# Pseudocercospora sebastianiae (R.E.D. Baker & W.T. Dale) Deighton SPECIES
 
 #### Status
 ACCEPTED

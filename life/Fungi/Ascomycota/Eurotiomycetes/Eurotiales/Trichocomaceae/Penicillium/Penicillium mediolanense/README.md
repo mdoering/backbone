@@ -1,17 +1,16 @@
-Penicillium mediolanensis Dragoni & Cantoni SPECIES
-=======
+# Penicillium mediolanense Dragoni & Cantoni SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Industrie Alimentari Italiana 19: 283 (1979)
 
 #### Original name
-Penicillium mediolanensis Dragoni & Cantoni
+Penicillium mediolanense Dragoni & Cantoni
 
 ### Remarks
 null

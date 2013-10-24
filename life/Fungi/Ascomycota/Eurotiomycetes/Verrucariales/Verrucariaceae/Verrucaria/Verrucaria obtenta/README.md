@@ -1,5 +1,4 @@
-Verrucaria obtenta Nyl. SPECIES
-=======
+# Verrucaria obtenta Nyl. SPECIES
 
 #### Status
 ACCEPTED

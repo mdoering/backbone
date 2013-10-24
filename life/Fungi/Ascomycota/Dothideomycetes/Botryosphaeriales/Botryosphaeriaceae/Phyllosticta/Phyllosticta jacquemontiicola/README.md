@@ -1,17 +1,16 @@
-Phyllosticta jacquimonticola B.R.D. Yadav & V.G. Rao SPECIES
-=======
+# Phyllosticta jacquemontiicola B.R.D. Yadav & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the University of Poona 54: 154 (1981)
 
 #### Original name
-Phyllosticta jacquimonticola B.R.D. Yadav & V.G. Rao
+Phyllosticta jacquemontiicola B.R.D. Yadav & V.G. Rao
 
 ### Remarks
 null

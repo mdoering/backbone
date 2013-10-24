@@ -1,5 +1,4 @@
-Rhachomyces medonalis Thaxt. SPECIES
-=======
+# Rhachomyces medonalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

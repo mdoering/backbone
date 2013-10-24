@@ -1,5 +1,4 @@
-Lecanora lithagoga Nyl. SPECIES
-=======
+# Lecanora lithagoga Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe phaeosquarrosa E. Horak, 1978 SPECIES
-=======
+# Inocybe phaeosquarrosa E. Horak, 1978 SPECIES
 
 #### Status
 ACCEPTED

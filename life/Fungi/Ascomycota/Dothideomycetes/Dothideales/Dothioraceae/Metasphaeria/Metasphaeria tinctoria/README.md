@@ -1,5 +1,4 @@
-Metasphaeria tinctoria Pass. SPECIES
-=======
+# Metasphaeria tinctoria Pass. SPECIES
 
 #### Status
 ACCEPTED

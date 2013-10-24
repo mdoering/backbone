@@ -1,5 +1,4 @@
-Xylaria atrodivaricata Y.M. Ju & H.M. Hsieh, 2008 SPECIES
-=======
+# Xylaria atrodivaricata Y.M. Ju & H.M. Hsieh, 2008 SPECIES
 
 #### Status
 ACCEPTED

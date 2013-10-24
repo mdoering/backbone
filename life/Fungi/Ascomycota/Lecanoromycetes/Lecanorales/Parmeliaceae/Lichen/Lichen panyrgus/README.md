@@ -1,5 +1,4 @@
-Lichen panyrgus (Ach.) Wahlb.. SPECIES
-=======
+# Lichen panyrgus (Ach.) Wahlb.. SPECIES
 
 #### Status
 ACCEPTED

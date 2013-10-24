@@ -1,17 +1,16 @@
-Phyllactinia pyricommuni Puzari & A.K. Sarbhoy SPECIES
-=======
+# Phyllactinia pyri-communis Puzari & A.K. Sarbhoy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Microbiol. Res. 151(2): 146 (1996)
 
 #### Original name
-Phyllactinia pyricommuni Puzari & A.K. Sarbhoy
+Phyllactinia pyri-communis Puzari & A.K. Sarbhoy
 
 ### Remarks
 null

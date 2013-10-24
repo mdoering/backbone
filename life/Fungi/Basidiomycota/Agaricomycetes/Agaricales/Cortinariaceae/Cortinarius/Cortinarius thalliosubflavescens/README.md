@@ -1,5 +1,4 @@
-Cortinarius thalliosubflavescens Rob. Henry SPECIES
-=======
+# Cortinarius thalliosubflavescens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

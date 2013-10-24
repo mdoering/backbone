@@ -1,17 +1,16 @@
-Lachnum fushanensis M.L. Wu & J.H. Haines SPECIES
-=======
+# Lachnum fushanense M.L. Wu & J.H. Haines SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 73: 45 (1999)
 
 #### Original name
-Lachnum fushanensis M.L. Wu & J.H. Haines
+Lachnum fushanense M.L. Wu & J.H. Haines
 
 ### Remarks
 null

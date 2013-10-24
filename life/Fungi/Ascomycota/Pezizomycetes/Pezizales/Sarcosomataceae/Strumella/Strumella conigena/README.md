@@ -1,5 +1,4 @@
-Strumella conigena Briosi & Sacc. SPECIES
-=======
+# Strumella conigena Briosi & Sacc. SPECIES
 
 #### Status
 ACCEPTED

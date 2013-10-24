@@ -1,5 +1,4 @@
-Lecanora ostjachorum SPECIES
-=======
+# Lecanora ostjachorum SPECIES
 
 #### Status
 ACCEPTED

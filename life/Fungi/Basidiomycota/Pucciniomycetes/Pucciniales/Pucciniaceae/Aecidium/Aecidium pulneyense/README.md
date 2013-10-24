@@ -1,5 +1,4 @@
-Aecidium pulneyense T.S. Ramakr. & Sriniv. SPECIES
-=======
+# Aecidium pulneyense T.S. Ramakr. & Sriniv. SPECIES
 
 #### Status
 ACCEPTED

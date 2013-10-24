@@ -1,5 +1,4 @@
-Coniothyrium mixtum Fuckel SPECIES
-=======
+# Coniothyrium mixtum Fuckel SPECIES
 
 #### Status
 ACCEPTED

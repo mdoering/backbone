@@ -1,5 +1,4 @@
-Tuberculispora jamaicensis Deighton & Piroz., 1972 SPECIES
-=======
+# Tuberculispora jamaicensis Deighton & Piroz., 1972 SPECIES
 
 #### Status
 ACCEPTED

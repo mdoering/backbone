@@ -1,5 +1,4 @@
-Dimerium deightonii Syd. SPECIES
-=======
+# Dimerium deightonii Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deconica australis E. Horak SPECIES
-=======
+# Deconica australis E. Horak SPECIES
 
 #### Status
 ACCEPTED

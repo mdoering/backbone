@@ -1,5 +1,4 @@
-Sphaerella elasticae (Koord.) Sacc. & Traverso SPECIES
-=======
+# Sphaerella elasticae (Koord.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

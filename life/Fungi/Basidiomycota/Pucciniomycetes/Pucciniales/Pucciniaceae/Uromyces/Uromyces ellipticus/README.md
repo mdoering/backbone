@@ -1,5 +1,4 @@
-Uromyces ellipticus Dietel & Neger SPECIES
-=======
+# Uromyces ellipticus Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Monoblepharis insignis var. minor Perrott, 1955 VARIETY
-=======
+# Monoblepharis insignis Thaxt., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 38: 263 (1955)
+Bot. Gaz. 20: 438 (1895)
 
 #### Original name
-Monoblepharis insignis var. minor Perrott, 1955
+Monoblepharis insignis Thaxt., 1895
 
 ### Remarks
 null

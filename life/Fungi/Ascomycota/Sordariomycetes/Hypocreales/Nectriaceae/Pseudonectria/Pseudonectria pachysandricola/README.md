@@ -1,5 +1,4 @@
-Pseudonectria pachysandricola B.O. Dodge, 1944 SPECIES
-=======
+# Pseudonectria pachysandricola B.O. Dodge, 1944 SPECIES
 
 #### Status
 ACCEPTED

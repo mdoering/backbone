@@ -1,5 +1,4 @@
-Pyroctonum sphaericum Prunet SPECIES
-=======
+# Pyroctonum sphaericum Prunet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodospirillum GENUS
-=======
+# Rhodospirillum GENUS
 
 #### Status
 ACCEPTED

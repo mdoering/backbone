@@ -1,5 +1,4 @@
-Intranstylum steinii Wrzesniowski, 1877 SPECIES
-=======
+# Intranstylum steinii Wrzesniowski, 1877 SPECIES
 
 #### Status
 ACCEPTED

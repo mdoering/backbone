@@ -1,5 +1,4 @@
-Pirottaea mahinapua P.R. Johnst., 1998 SPECIES
-=======
+# Pirottaea mahinapua P.R. Johnst., 1998 SPECIES
 
 #### Status
 ACCEPTED

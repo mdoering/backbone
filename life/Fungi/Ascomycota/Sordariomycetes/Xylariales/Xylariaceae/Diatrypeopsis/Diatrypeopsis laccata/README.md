@@ -1,5 +1,4 @@
-Diatrypeopsis laccata Speg. SPECIES
-=======
+# Diatrypeopsis laccata Speg. SPECIES
 
 #### Status
 ACCEPTED

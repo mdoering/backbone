@@ -1,8 +1,7 @@
-Tinocladia simplex Segawa & Ohta SPECIES
-=======
+# Myriogloea simplex (Segawa & Ohta) Inagaki SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

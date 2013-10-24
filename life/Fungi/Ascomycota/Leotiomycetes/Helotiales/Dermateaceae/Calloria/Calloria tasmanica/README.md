@@ -1,5 +1,4 @@
-Calloria tasmanica Rodway SPECIES
-=======
+# Calloria tasmanica Rodway SPECIES
 
 #### Status
 ACCEPTED

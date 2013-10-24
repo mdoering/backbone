@@ -1,5 +1,4 @@
-Asteroma immaculatum Grognot SPECIES
-=======
+# Asteroma immaculatum Grognot SPECIES
 
 #### Status
 ACCEPTED

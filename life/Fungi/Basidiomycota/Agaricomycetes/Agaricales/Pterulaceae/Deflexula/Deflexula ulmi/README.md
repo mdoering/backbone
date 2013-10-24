@@ -1,14 +1,13 @@
-Mucronella ulmi Peck, 1902 SPECIES
-=======
+# Deflexula ulmi (Peck) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 54: 154 (1902)
+Ann. Bot. Mem. 1: 400 (1950)
 
 #### Original name
 Mucronella ulmi Peck, 1902

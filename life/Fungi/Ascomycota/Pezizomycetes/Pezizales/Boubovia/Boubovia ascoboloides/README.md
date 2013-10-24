@@ -1,14 +1,13 @@
-Pulvinula ascoboloides Korf & W.Y. Zhuang, 1984 SPECIES
-=======
+# Boubovia ascoboloides (Korf & W.Y. Zhuang) Y.J. Yao & Spooner, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 20(2): 610 (1984)
+Mycol. Res. 100(2): 193 (1996)
 
 #### Original name
 Pulvinula ascoboloides Korf & W.Y. Zhuang, 1984

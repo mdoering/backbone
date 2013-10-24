@@ -1,5 +1,4 @@
-Boletus elbensis Peck SPECIES
-=======
+# Boletus elbensis Peck SPECIES
 
 #### Status
 ACCEPTED

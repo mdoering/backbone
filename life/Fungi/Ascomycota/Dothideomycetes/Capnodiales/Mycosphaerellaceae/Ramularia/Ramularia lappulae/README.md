@@ -1,5 +1,4 @@
-Ramularia lappulae Picb. SPECIES
-=======
+# Ramularia lappulae Picb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllopsora methoxymicareica Elix SPECIES
-=======
+# Phyllopsora methoxymicareica Elix SPECIES
 
 #### Status
 ACCEPTED

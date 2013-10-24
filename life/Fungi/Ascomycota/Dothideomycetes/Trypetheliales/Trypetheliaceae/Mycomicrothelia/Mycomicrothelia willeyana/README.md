@@ -1,5 +1,4 @@
-Mycomicrothelia willeyana (Müll. Arg.) D. Hawksw. SPECIES
-=======
+# Mycomicrothelia willeyana (Müll. Arg.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

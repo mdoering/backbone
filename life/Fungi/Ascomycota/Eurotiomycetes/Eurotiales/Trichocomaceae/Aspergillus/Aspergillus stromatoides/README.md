@@ -1,5 +1,4 @@
-Aspergillus stromatoides Raper & Fennell, 1965 SPECIES
-=======
+# Aspergillus stromatoides Raper & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

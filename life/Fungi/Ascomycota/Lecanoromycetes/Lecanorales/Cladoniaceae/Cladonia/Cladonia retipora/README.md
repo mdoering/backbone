@@ -1,5 +1,4 @@
-Cladonia retipora SPECIES
-=======
+# Cladonia retipora SPECIES
 
 #### Status
 ACCEPTED

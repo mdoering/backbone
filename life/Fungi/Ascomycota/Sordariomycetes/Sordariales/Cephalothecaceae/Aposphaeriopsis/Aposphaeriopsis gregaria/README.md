@@ -1,5 +1,4 @@
-Aposphaeriopsis gregaria Died. SPECIES
-=======
+# Aposphaeriopsis gregaria Died. SPECIES
 
 #### Status
 ACCEPTED

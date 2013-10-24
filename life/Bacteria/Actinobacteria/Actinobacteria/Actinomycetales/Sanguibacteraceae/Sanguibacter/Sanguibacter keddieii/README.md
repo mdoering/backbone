@@ -1,5 +1,4 @@
-Sanguibacter keddieii Fernandez-Garayzabal et al., 1995 SPECIES
-=======
+# Sanguibacter keddieii Fernandez-Garayzabal et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

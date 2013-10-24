@@ -1,5 +1,4 @@
-Dermatea fascicularis Fr. SPECIES
-=======
+# Dermatea fascicularis Fr. SPECIES
 
 #### Status
 ACCEPTED

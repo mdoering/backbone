@@ -1,5 +1,4 @@
-Urocystis dunhuangensis S.H. He & L. Guo SPECIES
-=======
+# Urocystis dunhuangensis S.H. He & L. Guo SPECIES
 
 #### Status
 ACCEPTED

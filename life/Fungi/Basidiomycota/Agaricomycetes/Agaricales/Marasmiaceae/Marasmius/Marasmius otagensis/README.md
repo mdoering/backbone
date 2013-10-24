@@ -1,5 +1,4 @@
-Marasmius otagensis G. Stev., 1964 SPECIES
-=======
+# Marasmius otagensis G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

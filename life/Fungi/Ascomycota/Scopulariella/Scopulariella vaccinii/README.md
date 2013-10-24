@@ -1,5 +1,4 @@
-Scopulariella vaccinii Gjaerum, 1971 SPECIES
-=======
+# Scopulariella vaccinii Gjaerum, 1971 SPECIES
 
 #### Status
 ACCEPTED

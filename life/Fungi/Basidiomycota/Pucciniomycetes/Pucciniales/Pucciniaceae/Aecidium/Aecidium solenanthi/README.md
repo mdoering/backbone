@@ -1,5 +1,4 @@
-Aecidium solenanthi Zaprom. SPECIES
-=======
+# Aecidium solenanthi Zaprom. SPECIES
 
 #### Status
 ACCEPTED

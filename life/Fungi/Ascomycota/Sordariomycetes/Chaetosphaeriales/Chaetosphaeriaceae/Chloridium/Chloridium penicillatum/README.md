@@ -1,5 +1,4 @@
-Chloridium penicillatum (Wallr.) Sacc. SPECIES
-=======
+# Chloridium penicillatum (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tectitheca cucullucia Cramer & Díez, 1977 SPECIES
-=======
+# Tectitheca cucullucia Cramer & Díez, 1977 SPECIES
 
 #### Status
 ACCEPTED

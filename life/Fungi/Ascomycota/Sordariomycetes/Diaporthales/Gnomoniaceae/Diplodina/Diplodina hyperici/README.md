@@ -1,5 +1,4 @@
-Diplodina hyperici Schwarzman SPECIES
-=======
+# Diplodina hyperici Schwarzman SPECIES
 
 #### Status
 ACCEPTED

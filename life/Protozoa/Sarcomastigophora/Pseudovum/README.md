@@ -1,5 +1,4 @@
-Pseudovum Cordey, 1998 GENUS
-=======
+# Pseudovum Cordey, 1998 GENUS
 
 #### Status
 ACCEPTED

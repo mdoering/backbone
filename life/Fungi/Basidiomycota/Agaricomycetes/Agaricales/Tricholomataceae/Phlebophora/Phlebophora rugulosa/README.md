@@ -1,5 +1,4 @@
-Phlebophora rugulosa Lév. SPECIES
-=======
+# Phlebophora rugulosa Lév. SPECIES
 
 #### Status
 ACCEPTED

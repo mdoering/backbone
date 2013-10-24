@@ -1,5 +1,4 @@
-Volvariella microspila (Berk. & M.A. Curtis) S. Ito SPECIES
-=======
+# Volvariella microspila (Berk. & M.A. Curtis) S. Ito SPECIES
 
 #### Status
 ACCEPTED

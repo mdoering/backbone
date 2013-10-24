@@ -1,14 +1,13 @@
-Physcia magara Kremp. SPECIES
-=======
+# Seirophora magara (Kremp.) Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 174(5/6): 440 (1983)
 
 #### Original name
 Physcia magara Kremp.

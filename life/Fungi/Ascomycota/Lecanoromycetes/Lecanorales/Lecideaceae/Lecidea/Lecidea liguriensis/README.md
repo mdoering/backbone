@@ -1,5 +1,4 @@
-Lecidea liguriensis H. Magn. SPECIES
-=======
+# Lecidea liguriensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

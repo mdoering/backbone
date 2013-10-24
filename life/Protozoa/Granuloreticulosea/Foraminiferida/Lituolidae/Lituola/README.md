@@ -1,5 +1,4 @@
-Lituola Lamarck, 1804 GENUS
-=======
+# Lituola Lamarck, 1804 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuber microsporum Vittad. SPECIES
-=======
+# Tuber microsporum Vittad. SPECIES
 
 #### Status
 ACCEPTED

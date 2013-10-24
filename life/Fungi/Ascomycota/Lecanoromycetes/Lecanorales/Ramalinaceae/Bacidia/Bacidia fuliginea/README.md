@@ -1,5 +1,4 @@
-Bacidia fuliginea Malme SPECIES
-=======
+# Bacidia fuliginea Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mimema H.S. Jackson, 1931 GENUS
-=======
+# Mimema H.S. Jackson, 1931 GENUS
 
 #### Status
 ACCEPTED

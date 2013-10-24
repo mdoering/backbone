@@ -1,5 +1,4 @@
-Stictis sphaeroboloides (Schwein.) Berk. SPECIES
-=======
+# Stictis sphaeroboloides (Schwein.) Berk. SPECIES
 
 #### Status
 ACCEPTED

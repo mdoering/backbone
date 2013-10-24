@@ -1,5 +1,4 @@
-Ooidium sablincaense Timofeev, 1957 SPECIES
-=======
+# Ooidium sablincaense Timofeev, 1957 SPECIES
 
 #### Status
 ACCEPTED

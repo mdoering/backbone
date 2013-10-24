@@ -1,5 +1,4 @@
-Luehndea P. Morgenroth, 1970 GENUS
-=======
+# Luehndea P. Morgenroth, 1970 GENUS
 
 #### Status
 ACCEPTED

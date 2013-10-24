@@ -1,5 +1,4 @@
-Pseudastrorhiza Eisenack, 1932 GENUS
-=======
+# Pseudastrorhiza Eisenack, 1932 GENUS
 
 #### Status
 ACCEPTED

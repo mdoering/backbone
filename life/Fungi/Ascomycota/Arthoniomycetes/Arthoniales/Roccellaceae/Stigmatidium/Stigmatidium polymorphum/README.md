@@ -1,5 +1,4 @@
-Stigmatidium polymorphum Müll. Arg. SPECIES
-=======
+# Stigmatidium polymorphum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

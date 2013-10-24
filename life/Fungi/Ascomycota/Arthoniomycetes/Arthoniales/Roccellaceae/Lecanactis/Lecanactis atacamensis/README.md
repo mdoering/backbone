@@ -1,5 +1,4 @@
-Lecanactis atacamensis C.W. Dodge SPECIES
-=======
+# Lecanactis atacamensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

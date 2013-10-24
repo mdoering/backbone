@@ -1,5 +1,4 @@
-Phormidium subfuscum var. joannianum (Kützing) Gomont VARIETY
-=======
+# Phormidium subfuscum Kützing ex Gomont SPECIES
 
 #### Status
 ACCEPTED

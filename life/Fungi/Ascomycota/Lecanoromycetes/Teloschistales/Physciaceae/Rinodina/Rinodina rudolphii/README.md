@@ -1,5 +1,4 @@
-Rinodina rudolphii C.W. Dodge SPECIES
-=======
+# Rinodina rudolphii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

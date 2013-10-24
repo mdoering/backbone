@@ -1,5 +1,4 @@
-Thelephora cantharella Schwein. SPECIES
-=======
+# Thelephora cantharella Schwein. SPECIES
 
 #### Status
 ACCEPTED

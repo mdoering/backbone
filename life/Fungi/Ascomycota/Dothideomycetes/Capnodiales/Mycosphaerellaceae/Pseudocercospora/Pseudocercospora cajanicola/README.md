@@ -1,5 +1,4 @@
-Pseudocercospora cajanicola (Pavgi & R.A. Singh) Deighton SPECIES
-=======
+# Pseudocercospora cajanicola (Pavgi & R.A. Singh) Deighton SPECIES
 
 #### Status
 ACCEPTED

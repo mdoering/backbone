@@ -1,5 +1,4 @@
-Phragmodothis andina (Speg.) Theiss. & Syd. SPECIES
-=======
+# Phragmodothis andina (Speg.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

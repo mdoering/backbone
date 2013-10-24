@@ -1,5 +1,4 @@
-Pezicula puberula (E.J. Durand) Verkley SPECIES
-=======
+# Pezicula puberula (E.J. Durand) Verkley SPECIES
 
 #### Status
 ACCEPTED

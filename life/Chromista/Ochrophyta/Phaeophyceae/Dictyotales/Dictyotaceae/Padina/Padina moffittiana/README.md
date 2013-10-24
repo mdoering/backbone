@@ -1,5 +1,4 @@
-Padina moffittiana Abbott & Huisman SPECIES
-=======
+# Padina moffittiana Abbott & Huisman SPECIES
 
 #### Status
 ACCEPTED

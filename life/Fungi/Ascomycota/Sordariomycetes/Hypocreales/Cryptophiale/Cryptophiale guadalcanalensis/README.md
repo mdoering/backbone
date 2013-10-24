@@ -1,17 +1,16 @@
-Cryptophiale guadalcanalense Matsush. SPECIES
-=======
+# Cryptophiale guadalcanalensis Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Microfungi of the Solomon Islands and Papua-New Guinea (Osaka) 15 (1971)
 
 #### Original name
-Cryptophiale guadalcanalense Matsush.
+Cryptophiale guadalcanalensis Matsush.
 
 ### Remarks
 null

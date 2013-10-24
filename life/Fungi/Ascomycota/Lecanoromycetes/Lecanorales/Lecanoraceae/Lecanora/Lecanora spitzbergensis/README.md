@@ -1,5 +1,4 @@
-Lecanora spitzbergensis Stizenb. SPECIES
-=======
+# Lecanora spitzbergensis Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calicium faculatum Tuck. SPECIES
-=======
+# Calicium faculatum Tuck. SPECIES
 
 #### Status
 ACCEPTED

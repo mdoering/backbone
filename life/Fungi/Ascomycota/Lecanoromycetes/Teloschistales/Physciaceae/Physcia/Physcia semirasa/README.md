@@ -1,5 +1,4 @@
-Physcia semirasa Nyl. SPECIES
-=======
+# Physcia semirasa Nyl. SPECIES
 
 #### Status
 ACCEPTED

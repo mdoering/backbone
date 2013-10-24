@@ -1,5 +1,4 @@
-Phylliscum japonicum Zahlbr. SPECIES
-=======
+# Phylliscum japonicum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

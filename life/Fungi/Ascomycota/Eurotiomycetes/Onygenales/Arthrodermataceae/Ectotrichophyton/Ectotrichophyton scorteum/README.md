@@ -1,5 +1,4 @@
-Ectotrichophyton scorteum (Priestley) C.W. Dodge SPECIES
-=======
+# Ectotrichophyton scorteum (Priestley) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

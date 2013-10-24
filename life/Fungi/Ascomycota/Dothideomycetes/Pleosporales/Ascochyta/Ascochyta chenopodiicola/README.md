@@ -1,5 +1,4 @@
-Ascochyta chenopodiicola Pisareva SPECIES
-=======
+# Ascochyta chenopodiicola Pisareva SPECIES
 
 #### Status
 ACCEPTED

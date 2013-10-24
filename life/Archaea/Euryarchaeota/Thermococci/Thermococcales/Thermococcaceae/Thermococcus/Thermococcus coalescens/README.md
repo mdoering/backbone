@@ -1,5 +1,4 @@
-Thermococcus coalescens Kuwabara et al., 2005 SPECIES
-=======
+# Thermococcus coalescens Kuwabara et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

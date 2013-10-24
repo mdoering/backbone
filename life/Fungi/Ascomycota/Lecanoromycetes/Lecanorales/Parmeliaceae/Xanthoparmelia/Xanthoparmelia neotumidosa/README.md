@@ -1,5 +1,4 @@
-Xanthoparmelia neotumidosa Hale SPECIES
-=======
+# Xanthoparmelia neotumidosa Hale SPECIES
 
 #### Status
 ACCEPTED

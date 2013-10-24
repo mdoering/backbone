@@ -1,5 +1,4 @@
-Corticium subodoratum P. Karst. ex Bourdot & Galzin SPECIES
-=======
+# Corticium subodoratum P. Karst. ex Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

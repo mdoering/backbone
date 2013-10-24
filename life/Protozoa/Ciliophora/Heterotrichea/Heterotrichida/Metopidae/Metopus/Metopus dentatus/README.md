@@ -1,5 +1,4 @@
-Metopus dentatus Kahl, 1932 SPECIES
-=======
+# Metopus dentatus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

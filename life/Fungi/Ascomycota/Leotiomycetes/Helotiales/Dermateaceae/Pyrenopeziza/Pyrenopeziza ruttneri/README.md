@@ -1,5 +1,4 @@
-Pyrenopeziza ruttneri Petr. SPECIES
-=======
+# Pyrenopeziza ruttneri Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia mayanoi Speg. SPECIES
-=======
+# Puccinia mayanoi Speg. SPECIES
 
 #### Status
 ACCEPTED

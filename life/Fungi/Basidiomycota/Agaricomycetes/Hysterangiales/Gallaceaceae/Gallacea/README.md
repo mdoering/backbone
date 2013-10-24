@@ -1,5 +1,4 @@
-Gallacea Lloyd GENUS
-=======
+# Gallacea Lloyd GENUS
 
 #### Status
 ACCEPTED

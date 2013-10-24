@@ -1,5 +1,4 @@
-Conida abrothallus anon. SPECIES
-=======
+# Conida abrothallus anon. SPECIES
 
 #### Status
 ACCEPTED

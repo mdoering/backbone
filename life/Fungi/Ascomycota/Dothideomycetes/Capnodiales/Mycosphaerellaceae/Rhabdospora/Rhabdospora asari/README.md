@@ -1,5 +1,4 @@
-Rhabdospora asari (Sacc.) Petr. SPECIES
-=======
+# Rhabdospora asari (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

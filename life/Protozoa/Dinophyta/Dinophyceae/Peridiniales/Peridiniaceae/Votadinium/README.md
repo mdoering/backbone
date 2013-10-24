@@ -1,5 +1,4 @@
-Votadinium P.C.Reid GENUS
-=======
+# Votadinium P.C.Reid GENUS
 
 #### Status
 ACCEPTED

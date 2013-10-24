@@ -1,5 +1,4 @@
-Incrustoporia percandida (Malençon & Bertault) Donk SPECIES
-=======
+# Incrustoporia percandida (Malençon & Bertault) Donk SPECIES
 
 #### Status
 ACCEPTED

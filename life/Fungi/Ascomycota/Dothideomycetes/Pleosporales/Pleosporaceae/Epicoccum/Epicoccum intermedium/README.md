@@ -1,5 +1,4 @@
-Epicoccum intermedium Allesch. SPECIES
-=======
+# Epicoccum intermedium Allesch. SPECIES
 
 #### Status
 ACCEPTED

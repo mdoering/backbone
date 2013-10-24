@@ -1,5 +1,4 @@
-Porina riparia P.M. McCarthy, 1993 SPECIES
-=======
+# Porina riparia P.M. McCarthy, 1993 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Gonyaulax buxus E. Balech SPECIES
-=======
+# Gonyaulax buxus E. Balech SPECIES
 
 #### Status
 ACCEPTED

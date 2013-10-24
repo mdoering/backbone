@@ -1,5 +1,4 @@
-Puccinia firma var. firma VARIETY
-=======
+# Puccinia firma Dietel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia firma var. firma
+Puccinia firma Dietel
 
 ### Remarks
 null

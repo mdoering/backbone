@@ -1,5 +1,4 @@
-Coniocybe rhodocephala F. Wilson SPECIES
-=======
+# Coniocybe rhodocephala F. Wilson SPECIES
 
 #### Status
 ACCEPTED

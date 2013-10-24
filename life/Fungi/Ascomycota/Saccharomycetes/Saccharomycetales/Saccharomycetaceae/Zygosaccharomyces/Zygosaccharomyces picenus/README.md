@@ -1,5 +1,4 @@
-Zygosaccharomyces picenus Cif. & Verona SPECIES
-=======
+# Zygosaccharomyces picenus Cif. & Verona SPECIES
 
 #### Status
 ACCEPTED

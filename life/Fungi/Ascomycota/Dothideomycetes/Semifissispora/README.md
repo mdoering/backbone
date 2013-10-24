@@ -1,5 +1,4 @@
-Semifissispora H.J. Swart GENUS
-=======
+# Semifissispora H.J. Swart GENUS
 
 #### Status
 ACCEPTED

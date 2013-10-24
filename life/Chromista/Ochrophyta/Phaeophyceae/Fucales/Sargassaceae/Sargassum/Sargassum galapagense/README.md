@@ -1,5 +1,4 @@
-Sargassum galapagense Grunow SPECIES
-=======
+# Sargassum galapagense Grunow SPECIES
 
 #### Status
 ACCEPTED

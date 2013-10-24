@@ -1,5 +1,4 @@
-Peckia mate Speg. SPECIES
-=======
+# Peckia mate Speg. SPECIES
 
 #### Status
 ACCEPTED

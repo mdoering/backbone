@@ -1,8 +1,7 @@
-Geaster marchicus Henn. SPECIES
-=======
+# Geastrum marchicus Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster marchicus Henn.
+Geastrum marchicus Henn.
 
 ### Remarks
 null

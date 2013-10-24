@@ -1,5 +1,4 @@
-Leiosphaeridia sinica Timofeev, 1962 ex Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia sinica Timofeev, 1962 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

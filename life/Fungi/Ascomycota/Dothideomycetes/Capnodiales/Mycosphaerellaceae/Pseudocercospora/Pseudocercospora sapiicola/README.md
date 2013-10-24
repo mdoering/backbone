@@ -1,5 +1,4 @@
-Pseudocercospora sapiicola (Speg.) U. Braun SPECIES
-=======
+# Pseudocercospora sapiicola (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma turzae Maire SPECIES
-=======
+# Phoma turzae Maire SPECIES
 
 #### Status
 ACCEPTED

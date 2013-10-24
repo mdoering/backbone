@@ -1,5 +1,4 @@
-Glossophorella M. Nizamuddin & A.C. Campbell, 1995 GENUS
-=======
+# Glossophorella M. Nizamuddin & A.C. Campbell, 1995 GENUS
 
 #### Status
 ACCEPTED

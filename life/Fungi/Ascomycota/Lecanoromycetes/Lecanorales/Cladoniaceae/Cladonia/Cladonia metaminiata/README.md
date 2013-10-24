@@ -1,5 +1,4 @@
-Cladonia metaminiata S. Stenroos & Ahti SPECIES
-=======
+# Cladonia metaminiata S. Stenroos & Ahti SPECIES
 
 #### Status
 ACCEPTED

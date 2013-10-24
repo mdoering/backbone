@@ -1,5 +1,4 @@
-Phyllosticta sclerolobii Bat. & Peres SPECIES
-=======
+# Phyllosticta sclerolobii Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

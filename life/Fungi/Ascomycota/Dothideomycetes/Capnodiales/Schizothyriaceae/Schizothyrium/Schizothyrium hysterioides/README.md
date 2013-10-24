@@ -1,5 +1,4 @@
-Schizothyrium hysterioides (Hazsl.) Sacc. & Traverso SPECIES
-=======
+# Schizothyrium hysterioides (Hazsl.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

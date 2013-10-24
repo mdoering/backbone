@@ -1,5 +1,4 @@
-Cleistosoma purpureum Harkn. SPECIES
-=======
+# Cleistosoma purpureum Harkn. SPECIES
 
 #### Status
 ACCEPTED

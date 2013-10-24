@@ -1,5 +1,4 @@
-Plagiotoma pellogaster SPECIES
-=======
+# Plagiotoma pellogaster SPECIES
 
 #### Status
 ACCEPTED

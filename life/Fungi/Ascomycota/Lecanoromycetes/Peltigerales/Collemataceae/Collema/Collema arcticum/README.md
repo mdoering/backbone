@@ -1,5 +1,4 @@
-Collema arcticum Lynge SPECIES
-=======
+# Collema arcticum Lynge SPECIES
 
 #### Status
 ACCEPTED

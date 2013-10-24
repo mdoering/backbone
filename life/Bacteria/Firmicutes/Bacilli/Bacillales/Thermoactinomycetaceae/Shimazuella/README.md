@@ -1,5 +1,4 @@
-Shimazuella Park, Dastager, Lee, Yeo, Yoon & Kim, 2007 GENUS
-=======
+# Shimazuella Park, Dastager, Lee, Yeo, Yoon & Kim, 2007 GENUS
 
 #### Status
 ACCEPTED

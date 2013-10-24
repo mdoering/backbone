@@ -1,17 +1,16 @@
-Lecidea spitsbergensis var. spitsbergensis VARIETY
-=======
+# Lecidella patavina (A. Massal.) Knoph & Leuckert SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Knoph, Biblthca Lichenol. 36: 116 (1990)
 
 #### Original name
-Lecidea spitsbergensis var. spitsbergensis
+Lecidea patavina A. Massal.
 
 ### Remarks
 null

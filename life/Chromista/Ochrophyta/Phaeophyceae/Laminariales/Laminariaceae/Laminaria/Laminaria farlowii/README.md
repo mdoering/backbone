@@ -1,5 +1,4 @@
-Laminaria farlowii Setchell SPECIES
-=======
+# Laminaria farlowii Setchell SPECIES
 
 #### Status
 ACCEPTED

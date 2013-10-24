@@ -1,5 +1,4 @@
-Acrodictys furcata M.B. Ellis SPECIES
-=======
+# Acrodictys furcata M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Zygorhynchus amphibiorum (Schipper) Arx, 1982 SPECIES
-=======
+# Mucor amphibiorum Schipper, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 35: 16 (1982)
+Stud. Mycol. 17: 14 (1978)
 
 #### Original name
 Mucor amphibiorum Schipper, 1978

@@ -1,5 +1,4 @@
-Colletotrichum arecae Syd. & P. Syd. SPECIES
-=======
+# Colletotrichum arecae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staphylococcus simulans Kloos and Schleifer, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Staphylococcus simulans Kloos and Schleifer, 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

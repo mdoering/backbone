@@ -1,5 +1,4 @@
-Squammaria GENUS
-=======
+# Squammaria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocoleum kurzii G.Martens SPECIES
-=======
+# Hydrocoleum kurzii G.Martens SPECIES
 
 #### Status
 ACCEPTED

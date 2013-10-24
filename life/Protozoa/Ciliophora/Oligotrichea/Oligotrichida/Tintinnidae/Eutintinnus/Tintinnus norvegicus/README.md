@@ -1,5 +1,4 @@
-Tintinnus norvegicus Brandt, 1896 SPECIES
-=======
+# Tintinnus norvegicus Brandt, 1896 SPECIES
 
 #### Status
 DOUBTFUL

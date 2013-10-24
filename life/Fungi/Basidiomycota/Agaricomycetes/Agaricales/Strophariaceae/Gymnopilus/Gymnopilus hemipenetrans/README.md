@@ -1,5 +1,4 @@
-Gymnopilus hemipenetrans Guzm.-Dáv. SPECIES
-=======
+# Gymnopilus hemipenetrans Guzm.-Dáv. SPECIES
 
 #### Status
 ACCEPTED

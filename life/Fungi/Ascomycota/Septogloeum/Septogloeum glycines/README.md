@@ -1,5 +1,4 @@
-Septogloeum glycines Yoshii & Nishiz. SPECIES
-=======
+# Septogloeum glycines Yoshii & Nishiz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea phaeopelidna Vain. SPECIES
-=======
+# Lecidea phaeopelidna Vain. SPECIES
 
 #### Status
 ACCEPTED

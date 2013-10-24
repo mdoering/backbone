@@ -1,5 +1,4 @@
-Phomopsis crini Chowdhry & D. Gupta SPECIES
-=======
+# Phomopsis crini Chowdhry & D. Gupta SPECIES
 
 #### Status
 ACCEPTED

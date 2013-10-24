@@ -1,5 +1,4 @@
-Bacidia nigrosticta Zahlbr. SPECIES
-=======
+# Bacidia nigrosticta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

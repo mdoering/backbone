@@ -1,5 +1,4 @@
-Archagaricon globuliferum A. Hancock & Atthey SPECIES
-=======
+# Archagaricon globuliferum A. Hancock & Atthey SPECIES
 
 #### Status
 ACCEPTED

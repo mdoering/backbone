@@ -1,5 +1,4 @@
-Corynecystis carpensis Brusse SPECIES
-=======
+# Corynecystis carpensis Brusse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmodiaporthe philadelphi Lar.N. Vassiljeva SPECIES
-=======
+# Phragmodiaporthe philadelphi Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

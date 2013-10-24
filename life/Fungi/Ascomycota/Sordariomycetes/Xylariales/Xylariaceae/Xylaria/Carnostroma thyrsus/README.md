@@ -1,5 +1,4 @@
-Carnostroma thyrsus (Berk.) Lloyd SPECIES
-=======
+# Carnostroma thyrsus (Berk.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

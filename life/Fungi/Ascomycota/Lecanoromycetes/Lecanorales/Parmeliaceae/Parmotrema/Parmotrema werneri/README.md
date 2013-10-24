@@ -1,5 +1,4 @@
-Parmotrema werneri M. Choisy SPECIES
-=======
+# Parmotrema werneri M. Choisy SPECIES
 
 #### Status
 ACCEPTED

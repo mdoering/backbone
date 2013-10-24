@@ -1,5 +1,4 @@
-Lentinus parvulus Berk. & M.A. Curtis SPECIES
-=======
+# Lentinus parvulus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

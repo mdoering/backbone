@@ -1,5 +1,4 @@
-Satka favosa Jankauskas, 1979 SPECIES
-=======
+# Satka favosa Jankauskas, 1979 SPECIES
 
 #### Status
 ACCEPTED

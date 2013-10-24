@@ -1,5 +1,4 @@
-Psilocybe dunicola (Speg.) Singer SPECIES
-=======
+# Psilocybe dunicola (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

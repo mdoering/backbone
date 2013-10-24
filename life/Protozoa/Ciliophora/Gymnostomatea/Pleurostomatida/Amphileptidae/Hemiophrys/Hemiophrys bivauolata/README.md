@@ -1,5 +1,4 @@
-Hemiophrys bivauolata Kahl, 1931 SPECIES
-=======
+# Hemiophrys bivauolata Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

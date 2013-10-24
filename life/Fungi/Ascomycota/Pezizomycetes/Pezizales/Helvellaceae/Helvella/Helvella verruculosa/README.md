@@ -1,5 +1,4 @@
-Helvella verruculosa (Sacc.) Harmaja SPECIES
-=======
+# Helvella verruculosa (Sacc.) Harmaja SPECIES
 
 #### Status
 ACCEPTED

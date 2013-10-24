@@ -1,5 +1,4 @@
-Histeridomyces acriti Thaxt., 1931 SPECIES
-=======
+# Histeridomyces acriti Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

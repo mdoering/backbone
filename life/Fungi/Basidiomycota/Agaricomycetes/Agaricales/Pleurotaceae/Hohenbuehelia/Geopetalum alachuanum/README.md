@@ -1,5 +1,4 @@
-Geopetalum alachuanum Murrill SPECIES
-=======
+# Geopetalum alachuanum Murrill SPECIES
 
 #### Status
 ACCEPTED

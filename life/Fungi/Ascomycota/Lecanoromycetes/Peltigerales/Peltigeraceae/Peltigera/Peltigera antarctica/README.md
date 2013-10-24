@@ -1,5 +1,4 @@
-Peltigera antarctica C.W. Dodge SPECIES
-=======
+# Peltigera antarctica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

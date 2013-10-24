@@ -1,5 +1,4 @@
-Mycena deformata Velen. SPECIES
-=======
+# Mycena deformata Velen. SPECIES
 
 #### Status
 ACCEPTED

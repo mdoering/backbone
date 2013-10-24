@@ -1,5 +1,4 @@
-Kamatia GENUS
-=======
+# Kamatia GENUS
 
 #### Status
 ACCEPTED

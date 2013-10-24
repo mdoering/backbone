@@ -1,5 +1,4 @@
-Phasya stevensii Syd. SPECIES
-=======
+# Phasya stevensii Syd. SPECIES
 
 #### Status
 ACCEPTED

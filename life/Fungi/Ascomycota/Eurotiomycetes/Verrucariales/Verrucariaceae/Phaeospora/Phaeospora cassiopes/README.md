@@ -1,5 +1,4 @@
-Phaeospora cassiopes Dearn. & House SPECIES
-=======
+# Phaeospora cassiopes Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

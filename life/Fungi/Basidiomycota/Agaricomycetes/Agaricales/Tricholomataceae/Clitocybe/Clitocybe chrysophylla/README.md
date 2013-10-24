@@ -1,5 +1,4 @@
-Clitocybe chrysophylla Hruby SPECIES
-=======
+# Clitocybe chrysophylla Hruby SPECIES
 
 #### Status
 ACCEPTED

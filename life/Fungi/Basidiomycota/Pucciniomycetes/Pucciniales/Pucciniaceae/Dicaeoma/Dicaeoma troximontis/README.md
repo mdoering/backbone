@@ -1,5 +1,4 @@
-Dicaeoma troximontis (Peck) Kuntze SPECIES
-=======
+# Dicaeoma troximontis (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

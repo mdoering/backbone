@@ -1,5 +1,4 @@
-Didymium echinosporum Massee SPECIES
-=======
+# Didymium echinosporum Massee SPECIES
 
 #### Status
 ACCEPTED

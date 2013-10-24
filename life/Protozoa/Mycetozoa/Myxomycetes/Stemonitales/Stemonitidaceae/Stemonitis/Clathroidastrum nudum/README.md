@@ -1,5 +1,4 @@
-Clathroidastrum nudum (L.) Kuntze SPECIES
-=======
+# Clathroidastrum nudum (L.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

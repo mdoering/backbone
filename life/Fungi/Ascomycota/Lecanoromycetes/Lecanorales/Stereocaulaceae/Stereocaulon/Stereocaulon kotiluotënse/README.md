@@ -1,5 +1,4 @@
-Stereocaulon kotiluotënse Vain. ex Räsänen SPECIES
-=======
+# Stereocaulon kotiluotënse Vain. ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

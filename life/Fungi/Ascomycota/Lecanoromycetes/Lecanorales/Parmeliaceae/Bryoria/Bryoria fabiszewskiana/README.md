@@ -1,5 +1,4 @@
-Bryoria fabiszewskiana Bystrek SPECIES
-=======
+# Bryoria fabiszewskiana Bystrek SPECIES
 
 #### Status
 ACCEPTED

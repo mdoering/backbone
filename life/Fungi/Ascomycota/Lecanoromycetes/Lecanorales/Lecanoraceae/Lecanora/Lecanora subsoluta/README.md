@@ -1,5 +1,4 @@
-Lecanora subsoluta Nyl. SPECIES
-=======
+# Lecanora subsoluta Nyl. SPECIES
 
 #### Status
 ACCEPTED

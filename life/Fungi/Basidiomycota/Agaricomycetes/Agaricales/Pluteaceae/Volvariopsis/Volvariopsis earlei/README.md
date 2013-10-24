@@ -1,5 +1,4 @@
-Volvariopsis earlei Murrill SPECIES
-=======
+# Volvariopsis earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

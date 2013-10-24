@@ -1,5 +1,4 @@
-Laestadia cephalariae var. cephalariae VARIETY
-=======
+# Laestadia cephalariae (Auersw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 425 (1882)
 
 #### Original name
-Laestadia cephalariae var. cephalariae
+Sphaerella cephalariae Auersw., 1869
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Endocarpon albatum Ach. SPECIES
-=======
+# Endocarpon albatum Ach. SPECIES
 
 #### Status
 ACCEPTED

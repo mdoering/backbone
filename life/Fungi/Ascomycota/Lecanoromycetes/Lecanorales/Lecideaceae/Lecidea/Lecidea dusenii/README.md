@@ -1,5 +1,4 @@
-Lecidea dusenii Lynge SPECIES
-=======
+# Lecidea dusenii Lynge SPECIES
 
 #### Status
 ACCEPTED

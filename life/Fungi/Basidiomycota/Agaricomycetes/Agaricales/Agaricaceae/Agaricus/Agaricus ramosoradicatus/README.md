@@ -1,5 +1,4 @@
-Agaricus ramosoradicatus Bolton SPECIES
-=======
+# Agaricus ramosoradicatus Bolton SPECIES
 
 #### Status
 ACCEPTED

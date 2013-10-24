@@ -1,5 +1,4 @@
-Gymnopus pilipes (Sowerby) Gray SPECIES
-=======
+# Gymnopus pilipes (Sowerby) Gray SPECIES
 
 #### Status
 ACCEPTED

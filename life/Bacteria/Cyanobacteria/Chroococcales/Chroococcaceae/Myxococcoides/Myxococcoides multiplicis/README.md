@@ -1,5 +1,4 @@
-Myxococcoides multiplicis Zang Wen-long in Zang Wen-long & Walter SPECIES
-=======
+# Myxococcoides multiplicis Zang Wen-long in Zang Wen-long & Walter SPECIES
 
 #### Status
 ACCEPTED

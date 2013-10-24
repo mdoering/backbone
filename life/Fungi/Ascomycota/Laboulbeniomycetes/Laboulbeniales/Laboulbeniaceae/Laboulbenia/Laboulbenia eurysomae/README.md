@@ -1,5 +1,4 @@
-Laboulbenia eurysomae Speg. SPECIES
-=======
+# Laboulbenia eurysomae Speg. SPECIES
 
 #### Status
 ACCEPTED

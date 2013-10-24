@@ -1,5 +1,4 @@
-Verpa perpusilla Rehm SPECIES
-=======
+# Verpa perpusilla Rehm SPECIES
 
 #### Status
 ACCEPTED

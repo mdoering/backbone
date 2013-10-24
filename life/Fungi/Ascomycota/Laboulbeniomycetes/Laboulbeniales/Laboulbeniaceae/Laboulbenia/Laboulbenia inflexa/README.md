@@ -1,5 +1,4 @@
-Laboulbenia inflexa Thaxt. SPECIES
-=======
+# Laboulbenia inflexa Thaxt. SPECIES
 
 #### Status
 ACCEPTED

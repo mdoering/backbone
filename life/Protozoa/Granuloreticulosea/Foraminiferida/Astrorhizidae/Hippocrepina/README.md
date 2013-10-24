@@ -1,5 +1,4 @@
-Hippocrepina Parker, 1870 GENUS
-=======
+# Hippocrepina Parker, 1870 GENUS
 
 #### Status
 ACCEPTED

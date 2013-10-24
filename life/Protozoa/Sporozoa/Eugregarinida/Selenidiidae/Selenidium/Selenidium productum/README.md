@@ -1,8 +1,7 @@
-Selenidium flabelligerae Tuzet & Ormières, 1958 SPECIES
-=======
+# Selenidium productum Tuzet & Ormières, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

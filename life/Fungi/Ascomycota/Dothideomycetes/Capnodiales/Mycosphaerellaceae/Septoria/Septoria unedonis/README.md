@@ -1,17 +1,16 @@
-Septoria unedonis var. vellanensis Briosi & Cavara VARIETY
-=======
+# Septoria unedonis Roberge ex Desm., 1847 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Funghi Parass. Piante Colt. od Utili, Fasc. 5: no. 121 (1890)
+Annls Sci. Nat. , Bot. , sér. 3 8: 20 (1847)
 
 #### Original name
-Septoria unedonis var. vellanensis Briosi & Cavara
+Septoria unedonis Roberge ex Desm., 1847
 
 ### Remarks
 null

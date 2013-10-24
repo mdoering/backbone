@@ -1,5 +1,4 @@
-Aspicilia mauritii Hue SPECIES
-=======
+# Aspicilia mauritii Hue SPECIES
 
 #### Status
 ACCEPTED

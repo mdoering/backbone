@@ -1,5 +1,4 @@
-Opegrapha eckfeldtii Zahlbr. SPECIES
-=======
+# Opegrapha eckfeldtii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

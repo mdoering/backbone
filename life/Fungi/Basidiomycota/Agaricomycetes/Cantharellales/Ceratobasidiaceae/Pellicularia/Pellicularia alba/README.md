@@ -1,5 +1,4 @@
-Pellicularia alba Dastur SPECIES
-=======
+# Pellicularia alba Dastur SPECIES
 
 #### Status
 ACCEPTED

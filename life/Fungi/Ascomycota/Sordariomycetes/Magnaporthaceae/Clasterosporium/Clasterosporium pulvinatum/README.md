@@ -1,5 +1,4 @@
-Clasterosporium pulvinatum Ellis & Everh. SPECIES
-=======
+# Clasterosporium pulvinatum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

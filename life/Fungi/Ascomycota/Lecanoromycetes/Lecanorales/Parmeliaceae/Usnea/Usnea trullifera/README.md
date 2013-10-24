@@ -1,5 +1,4 @@
-Usnea trullifera Nyl. SPECIES
-=======
+# Usnea trullifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

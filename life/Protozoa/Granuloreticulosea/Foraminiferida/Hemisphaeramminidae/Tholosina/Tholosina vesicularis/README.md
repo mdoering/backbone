@@ -1,8 +1,7 @@
-Placopsilina vesicularis Brady, 1879 SPECIES
-=======
+# Tholosina vesicularis (Brady, 1879) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

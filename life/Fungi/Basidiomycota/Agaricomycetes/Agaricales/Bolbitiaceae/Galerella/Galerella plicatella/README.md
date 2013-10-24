@@ -1,17 +1,16 @@
-Galerella coprinoides (Sacc.) SPECIES
-=======
+# Galerella plicatella (Peck) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the New York Botanical Garden 5: 422 (1909)
+Lilloa 22: 490 (1951)
 
 #### Original name
-Galera coprinoides Sacc., 1887
+Agaricus plicatellus Peck, 1878
 
 ### Remarks
 null

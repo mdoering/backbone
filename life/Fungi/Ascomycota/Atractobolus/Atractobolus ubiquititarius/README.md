@@ -1,5 +1,4 @@
-Atractobolus ubiquititarius Fr. SPECIES
-=======
+# Atractobolus ubiquititarius Fr. SPECIES
 
 #### Status
 ACCEPTED

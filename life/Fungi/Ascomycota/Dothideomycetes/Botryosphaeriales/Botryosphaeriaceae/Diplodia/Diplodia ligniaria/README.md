@@ -1,5 +1,4 @@
-Diplodia ligniaria P. Karst. SPECIES
-=======
+# Diplodia ligniaria P. Karst. SPECIES
 
 #### Status
 ACCEPTED

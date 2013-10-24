@@ -1,5 +1,4 @@
-Lentaria dendroidea (O.R. Fr.) J.H. Petersen SPECIES
-=======
+# Lentaria dendroidea (O.R. Fr.) J.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

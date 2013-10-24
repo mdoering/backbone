@@ -1,5 +1,4 @@
-Cantharellus preslii Velen. SPECIES
-=======
+# Cantharellus preslii Velen. SPECIES
 
 #### Status
 ACCEPTED

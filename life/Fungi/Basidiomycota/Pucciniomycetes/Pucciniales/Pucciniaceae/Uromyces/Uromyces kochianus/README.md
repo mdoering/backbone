@@ -1,5 +1,4 @@
-Uromyces kochianus Gäum. SPECIES
-=======
+# Uromyces kochianus Gäum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe hypnorum (Brond.) Rea SPECIES
-=======
+# Clitocybe hypnorum (Brond.) Rea SPECIES
 
 #### Status
 ACCEPTED

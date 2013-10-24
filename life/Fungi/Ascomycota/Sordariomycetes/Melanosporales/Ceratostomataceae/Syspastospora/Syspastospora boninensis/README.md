@@ -1,5 +1,4 @@
-Syspastospora boninensis Y. Horie, Udagawa & P.F. Cannon SPECIES
-=======
+# Syspastospora boninensis Y. Horie, Udagawa & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

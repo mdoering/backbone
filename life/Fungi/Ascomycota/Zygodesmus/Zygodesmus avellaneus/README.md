@@ -1,5 +1,4 @@
-Zygodesmus avellaneus Sacc. SPECIES
-=======
+# Zygodesmus avellaneus Sacc. SPECIES
 
 #### Status
 ACCEPTED

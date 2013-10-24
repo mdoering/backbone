@@ -1,5 +1,4 @@
-Psychrobacter celer Yoon et al., 2005 SPECIES
-=======
+# Psychrobacter celer Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

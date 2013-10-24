@@ -1,5 +1,4 @@
-Camarosporium ailanthi Sacc. SPECIES
-=======
+# Camarosporium ailanthi Sacc. SPECIES
 
 #### Status
 ACCEPTED

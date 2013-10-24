@@ -1,5 +1,4 @@
-Thelotrema aquilinum Vain. SPECIES
-=======
+# Thelotrema aquilinum Vain. SPECIES
 
 #### Status
 ACCEPTED

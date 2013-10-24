@@ -1,5 +1,4 @@
-Biplanata Hamaoui & Saint-Marc, 1970 GENUS
-=======
+# Biplanata Hamaoui & Saint-Marc, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaerella nashi Hara SPECIES
-=======
+# Leptosphaerella nashi Hara SPECIES
 
 #### Status
 ACCEPTED

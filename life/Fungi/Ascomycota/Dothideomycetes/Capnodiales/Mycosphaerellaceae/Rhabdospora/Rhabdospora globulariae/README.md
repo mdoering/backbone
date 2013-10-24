@@ -1,5 +1,4 @@
-Rhabdospora globulariae Maire SPECIES
-=======
+# Rhabdospora globulariae Maire SPECIES
 
 #### Status
 ACCEPTED

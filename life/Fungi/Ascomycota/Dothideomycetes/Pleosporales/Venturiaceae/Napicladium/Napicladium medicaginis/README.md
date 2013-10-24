@@ -1,5 +1,4 @@
-Napicladium medicaginis Lobik SPECIES
-=======
+# Napicladium medicaginis Lobik SPECIES
 
 #### Status
 ACCEPTED

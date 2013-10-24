@@ -1,5 +1,4 @@
-Stereum laetum Lloyd SPECIES
-=======
+# Stereum laetum Lloyd SPECIES
 
 #### Status
 ACCEPTED

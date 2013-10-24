@@ -1,5 +1,4 @@
-Chenella Miklukho-Maklay, 1959 GENUS
-=======
+# Chenella Miklukho-Maklay, 1959 GENUS
 
 #### Status
 ACCEPTED

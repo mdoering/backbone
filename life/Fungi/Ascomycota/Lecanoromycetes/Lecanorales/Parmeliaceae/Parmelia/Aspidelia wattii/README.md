@@ -1,5 +1,4 @@
-Aspidelia wattii Stirt. SPECIES
-=======
+# Aspidelia wattii Stirt. SPECIES
 
 #### Status
 ACCEPTED

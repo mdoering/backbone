@@ -1,5 +1,4 @@
-Coniothyrium globisporum Bubák & Serebrian. SPECIES
-=======
+# Coniothyrium globisporum Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen subfuscus var. subfuscus VARIETY
-=======
+# Lichen subfuscus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lichen subfuscus var. subfuscus
+null
 
 ### Remarks
 null

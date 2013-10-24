@@ -1,5 +1,4 @@
-Sporobolomyces poonsookiae M. Takash. & Nakase SPECIES
-=======
+# Sporobolomyces poonsookiae M. Takash. & Nakase SPECIES
 
 #### Status
 ACCEPTED

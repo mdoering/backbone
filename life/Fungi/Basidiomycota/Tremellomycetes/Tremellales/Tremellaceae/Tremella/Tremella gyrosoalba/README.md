@@ -1,5 +1,4 @@
-Tremella gyrosoalba Lloyd SPECIES
-=======
+# Tremella gyrosoalba Lloyd SPECIES
 
 #### Status
 ACCEPTED

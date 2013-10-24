@@ -1,5 +1,4 @@
-Baltisphaeridium lamellum Sheshegova, 1984 SPECIES
-=======
+# Baltisphaeridium lamellum Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

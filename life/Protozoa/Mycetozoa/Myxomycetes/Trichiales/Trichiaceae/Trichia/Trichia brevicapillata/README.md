@@ -1,5 +1,4 @@
-Trichia brevicapillata Sizova, Titova & Darakov, 1983 SPECIES
-=======
+# Trichia brevicapillata Sizova, Titova & Darakov, 1983 SPECIES
 
 #### Status
 ACCEPTED

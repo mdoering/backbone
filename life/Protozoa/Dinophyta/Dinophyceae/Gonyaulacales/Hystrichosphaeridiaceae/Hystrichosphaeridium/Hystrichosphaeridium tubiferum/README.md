@@ -1,5 +1,4 @@
-Hystrichosphaeridium tubiferum (Ehrenb.) Deflandre SPECIES
-=======
+# Hystrichosphaeridium tubiferum (Ehrenb.) Deflandre SPECIES
 
 #### Status
 ACCEPTED

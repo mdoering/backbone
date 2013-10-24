@@ -1,5 +1,4 @@
-Galerella Earle GENUS
-=======
+# Galerella Earle GENUS
 
 #### Status
 ACCEPTED

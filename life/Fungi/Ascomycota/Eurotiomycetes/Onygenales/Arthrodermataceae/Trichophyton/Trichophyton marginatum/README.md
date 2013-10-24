@@ -1,5 +1,4 @@
-Trichophyton marginatum Muijs SPECIES
-=======
+# Trichophyton marginatum Muijs SPECIES
 
 #### Status
 ACCEPTED

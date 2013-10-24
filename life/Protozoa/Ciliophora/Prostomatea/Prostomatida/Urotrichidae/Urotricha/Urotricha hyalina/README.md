@@ -1,5 +1,4 @@
-Urotricha hyalina Smith, 1897 SPECIES
-=======
+# Urotricha hyalina Smith, 1897 SPECIES
 
 #### Status
 ACCEPTED

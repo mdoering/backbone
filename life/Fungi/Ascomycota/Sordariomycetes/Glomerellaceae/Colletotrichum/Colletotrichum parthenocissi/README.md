@@ -1,5 +1,4 @@
-Colletotrichum parthenocissi (Shen {?} ) Teng SPECIES
-=======
+# Colletotrichum parthenocissi (Shen {?} ) Teng SPECIES
 
 #### Status
 ACCEPTED

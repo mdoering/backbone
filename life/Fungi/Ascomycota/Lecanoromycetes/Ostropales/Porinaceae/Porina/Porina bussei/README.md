@@ -1,5 +1,4 @@
-Porina bussei F. Schill. SPECIES
-=======
+# Porina bussei F. Schill. SPECIES
 
 #### Status
 ACCEPTED

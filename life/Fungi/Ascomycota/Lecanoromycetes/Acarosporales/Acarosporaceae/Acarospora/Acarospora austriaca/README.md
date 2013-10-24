@@ -1,5 +1,4 @@
-Acarospora austriaca H. Magn. SPECIES
-=======
+# Acarospora austriaca H. Magn. SPECIES
 
 #### Status
 ACCEPTED

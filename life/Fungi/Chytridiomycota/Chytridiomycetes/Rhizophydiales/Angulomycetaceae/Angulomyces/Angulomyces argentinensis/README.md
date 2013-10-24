@@ -1,5 +1,4 @@
-Angulomyces argentinensis Letcher, 2008 SPECIES
-=======
+# Angulomyces argentinensis Letcher, 2008 SPECIES
 
 #### Status
 ACCEPTED

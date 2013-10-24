@@ -1,5 +1,4 @@
-Pleospora feijoae Gucevic SPECIES
-=======
+# Pleospora feijoae Gucevic SPECIES
 
 #### Status
 ACCEPTED

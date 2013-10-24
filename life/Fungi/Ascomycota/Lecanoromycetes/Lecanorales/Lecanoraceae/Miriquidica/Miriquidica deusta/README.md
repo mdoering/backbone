@@ -1,17 +1,16 @@
-Lecidea deusta f. deusta FORM
-=======
+# Miriquidica deusta (Stenh.) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 23: 383 (1987)
 
 #### Original name
-Lecidea deusta f. deusta
+Lecidea fuscoatra var. deusta Stenh.
 
 ### Remarks
 null

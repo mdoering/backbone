@@ -1,5 +1,4 @@
-Puccinia carissae Cooke & Massee SPECIES
-=======
+# Puccinia carissae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

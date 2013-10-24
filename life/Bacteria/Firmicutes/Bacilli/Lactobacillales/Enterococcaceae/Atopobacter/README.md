@@ -1,5 +1,4 @@
-Atopobacter Lawson, Foster, Falsen Ohlen & Collins, 2000 GENUS
-=======
+# Atopobacter Lawson, Foster, Falsen Ohlen & Collins, 2000 GENUS
 
 #### Status
 ACCEPTED

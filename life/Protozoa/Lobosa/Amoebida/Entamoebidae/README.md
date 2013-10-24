@@ -1,5 +1,4 @@
-Entamoebidae FAMILY
-=======
+# Entamoebidae FAMILY
 
 #### Status
 ACCEPTED

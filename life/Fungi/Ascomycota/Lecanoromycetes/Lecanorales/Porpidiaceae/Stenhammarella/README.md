@@ -1,17 +1,16 @@
-Stenhammara Flot. ex Körb. GENUS
-=======
+# Stenhammarella Hertel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. lich. germ. (Breslau) 221 (1855)
+Nova Hedwigia, Beih. 24: 124 (1967)
 
 #### Original name
-Stenhammara Flot. ex Körb.
+Stenhammarella Hertel
 
 ### Remarks
 null

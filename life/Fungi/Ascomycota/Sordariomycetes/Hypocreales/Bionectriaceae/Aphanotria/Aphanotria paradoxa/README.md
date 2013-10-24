@@ -1,5 +1,4 @@
-Aphanotria paradoxa Döbbeler, 2007 SPECIES
-=======
+# Aphanotria paradoxa Döbbeler, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Oidium balsamii Mont., 1836 SPECIES
-=======
+# Erysiphe verbasci (Jacz.) S. Blumer, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 463 (1836)
+Beitr. Kryptfl. Schweiz 7(no. 1): 284 (1933)
 
 #### Original name
-Oidium balsamii Mont., 1836
+Erysiphe cichoracearum f. verbasci Jacz., 1927
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Protoperidinium achromaticum (Levander) Balech SPECIES
-=======
+# Protoperidinium achromaticum (Levander) Balech SPECIES
 
 #### Status
 ACCEPTED

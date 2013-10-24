@@ -1,5 +1,4 @@
-Limacella subillinita Guzmán SPECIES
-=======
+# Limacella subillinita Guzmán SPECIES
 
 #### Status
 ACCEPTED

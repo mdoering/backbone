@@ -1,14 +1,13 @@
-Platysma fendleri Nyl. SPECIES
-=======
+# Tuckermanella fendleri (Nyl.) Essl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 85: 139 (2003)
 
 #### Original name
 Platysma fendleri Nyl.

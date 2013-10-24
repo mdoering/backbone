@@ -1,5 +1,4 @@
-Placographa GENUS
-=======
+# Placographa GENUS
 
 #### Status
 ACCEPTED

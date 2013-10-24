@@ -1,5 +1,4 @@
-Sclerophoma salicina (Sacc. & Roum.) Höhn. SPECIES
-=======
+# Sclerophoma salicina (Sacc. & Roum.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

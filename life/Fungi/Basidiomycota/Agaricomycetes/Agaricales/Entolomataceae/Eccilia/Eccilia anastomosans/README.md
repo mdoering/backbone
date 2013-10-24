@@ -1,5 +1,4 @@
-Eccilia anastomosans Rick SPECIES
-=======
+# Eccilia anastomosans Rick SPECIES
 
 #### Status
 ACCEPTED

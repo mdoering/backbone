@@ -1,5 +1,4 @@
-Leptosphaeria geasteris Hollós SPECIES
-=======
+# Leptosphaeria geasteris Hollós SPECIES
 
 #### Status
 ACCEPTED

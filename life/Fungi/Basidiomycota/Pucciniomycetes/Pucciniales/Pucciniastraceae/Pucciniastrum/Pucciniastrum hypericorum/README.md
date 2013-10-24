@@ -1,5 +1,4 @@
-Pucciniastrum hypericorum P. Karst. SPECIES
-=======
+# Pucciniastrum hypericorum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

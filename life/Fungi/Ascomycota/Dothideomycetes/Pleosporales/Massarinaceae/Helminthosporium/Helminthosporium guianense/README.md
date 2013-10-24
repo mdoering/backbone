@@ -1,5 +1,4 @@
-Helminthosporium guianense F. Stevens & R.I. Dowell SPECIES
-=======
+# Helminthosporium guianense F. Stevens & R.I. Dowell SPECIES
 
 #### Status
 ACCEPTED

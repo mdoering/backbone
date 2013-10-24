@@ -1,5 +1,4 @@
-Septoria foetida Voglino SPECIES
-=======
+# Septoria foetida Voglino SPECIES
 
 #### Status
 ACCEPTED

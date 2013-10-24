@@ -1,5 +1,4 @@
-Diclonomyces stilomedonis Thaxt., 1931 SPECIES
-=======
+# Diclonomyces stilomedonis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

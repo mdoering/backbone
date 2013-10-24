@@ -1,5 +1,4 @@
-Heterochaetella alba Rick SPECIES
-=======
+# Heterochaetella alba Rick SPECIES
 
 #### Status
 ACCEPTED

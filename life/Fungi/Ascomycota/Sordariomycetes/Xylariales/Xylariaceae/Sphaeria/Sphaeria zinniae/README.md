@@ -1,5 +1,4 @@
-Sphaeria zinniae Schwein. SPECIES
-=======
+# Sphaeria zinniae Schwein. SPECIES
 
 #### Status
 ACCEPTED

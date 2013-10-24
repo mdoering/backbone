@@ -1,5 +1,4 @@
-Humaria subhepatica Rehm SPECIES
-=======
+# Humaria subhepatica Rehm SPECIES
 
 #### Status
 ACCEPTED

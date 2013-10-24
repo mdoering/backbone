@@ -1,5 +1,4 @@
-Llimoniella pertusariae Diederich & Etayo SPECIES
-=======
+# Llimoniella pertusariae Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora pseudochlarotera Brodo SPECIES
-=======
+# Lecanora pseudochlarotera Brodo SPECIES
 
 #### Status
 ACCEPTED

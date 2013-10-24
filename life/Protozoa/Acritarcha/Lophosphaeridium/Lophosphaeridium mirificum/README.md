@@ -1,5 +1,4 @@
-Lophosphaeridium mirificum Li Zaiping, 1982 SPECIES
-=======
+# Lophosphaeridium mirificum Li Zaiping, 1982 SPECIES
 
 #### Status
 ACCEPTED

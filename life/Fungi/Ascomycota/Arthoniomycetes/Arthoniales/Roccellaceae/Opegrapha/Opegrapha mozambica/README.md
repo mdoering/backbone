@@ -1,5 +1,4 @@
-Opegrapha mozambica Vain. SPECIES
-=======
+# Opegrapha mozambica Vain. SPECIES
 
 #### Status
 ACCEPTED

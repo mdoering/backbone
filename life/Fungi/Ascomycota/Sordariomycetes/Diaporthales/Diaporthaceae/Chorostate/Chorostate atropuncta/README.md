@@ -1,5 +1,4 @@
-Chorostate atropuncta (Peck) Sacc. & Trotter SPECIES
-=======
+# Chorostate atropuncta (Peck) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

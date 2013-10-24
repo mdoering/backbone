@@ -1,5 +1,4 @@
-Rosellinia catervaria (Berk. & Broome) Sacc. SPECIES
-=======
+# Rosellinia catervaria (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia arenevaga (Desm.) W. Phillips, 1887 SPECIES
-=======
+# Mollisia arenevaga (Desm.) W. Phillips, 1887 SPECIES
 
 #### Status
 ACCEPTED

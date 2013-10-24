@@ -1,5 +1,4 @@
-Polystictus aculeans var. aculeans VARIETY
-=======
+# Polystictus aculeans (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 14(no. 71): 86 (1886)
 
 #### Original name
-Polystictus aculeans var. aculeans
+Polyporus aculeans Berk.
 
 ### Remarks
 null

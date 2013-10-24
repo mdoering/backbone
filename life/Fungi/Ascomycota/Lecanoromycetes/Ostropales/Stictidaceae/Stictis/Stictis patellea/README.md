@@ -1,5 +1,4 @@
-Stictis patellea Cooke SPECIES
-=======
+# Stictis patellea Cooke SPECIES
 
 #### Status
 ACCEPTED

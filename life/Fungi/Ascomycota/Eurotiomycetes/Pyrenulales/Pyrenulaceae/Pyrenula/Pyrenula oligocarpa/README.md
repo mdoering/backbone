@@ -1,5 +1,4 @@
-Pyrenula oligocarpa Malme SPECIES
-=======
+# Pyrenula oligocarpa Malme SPECIES
 
 #### Status
 ACCEPTED

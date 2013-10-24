@@ -1,5 +1,4 @@
-Sphacelotheca zundelii Hirschh. SPECIES
-=======
+# Sphacelotheca zundelii Hirschh. SPECIES
 
 #### Status
 ACCEPTED

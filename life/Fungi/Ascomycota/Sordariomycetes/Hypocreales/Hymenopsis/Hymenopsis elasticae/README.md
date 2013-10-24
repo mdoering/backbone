@@ -1,5 +1,4 @@
-Hymenopsis elasticae Koord. SPECIES
-=======
+# Hymenopsis elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

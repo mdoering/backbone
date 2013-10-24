@@ -1,5 +1,4 @@
-Phyllachora sororcula Speg., 1888 SPECIES
-=======
+# Phyllachora sororcula Speg., 1888 SPECIES
 
 #### Status
 ACCEPTED

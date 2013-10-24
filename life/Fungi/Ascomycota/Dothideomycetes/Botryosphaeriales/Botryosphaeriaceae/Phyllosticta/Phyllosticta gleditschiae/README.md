@@ -1,5 +1,4 @@
-Phyllosticta gleditschiae Hollós SPECIES
-=======
+# Phyllosticta gleditschiae Hollós SPECIES
 
 #### Status
 ACCEPTED

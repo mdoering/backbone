@@ -1,5 +1,4 @@
-Uredo nigropuncta Henn. SPECIES
-=======
+# Uredo nigropuncta Henn. SPECIES
 
 #### Status
 ACCEPTED

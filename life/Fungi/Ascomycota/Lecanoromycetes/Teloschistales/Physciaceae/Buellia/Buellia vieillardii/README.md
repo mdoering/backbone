@@ -1,5 +1,4 @@
-Buellia vieillardii Räsänen SPECIES
-=======
+# Buellia vieillardii Räsänen SPECIES
 
 #### Status
 ACCEPTED

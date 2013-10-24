@@ -1,5 +1,4 @@
-Gephyrocapsaceae Black, 1971 FAMILY
-=======
+# Gephyrocapsaceae Black, 1971 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria verna Coker SPECIES
-=======
+# Clavaria verna Coker SPECIES
 
 #### Status
 ACCEPTED

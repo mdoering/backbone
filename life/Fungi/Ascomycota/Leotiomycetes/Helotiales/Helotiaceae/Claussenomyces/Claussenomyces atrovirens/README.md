@@ -1,14 +1,13 @@
-Ombrophila atrovirens var. atrovirens (Pers.) W. Phillips, 1887 VARIETY
-=======
+# Claussenomyces atrovirens (Pers.) Korf & Abawi, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 325 (1887)
+Can. J. Bot. 49(11): 1882 (1971)
 
 #### Original name
 null

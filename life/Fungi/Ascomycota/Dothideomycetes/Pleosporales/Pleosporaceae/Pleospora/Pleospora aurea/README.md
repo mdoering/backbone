@@ -1,5 +1,4 @@
-Pleospora aurea Tassi SPECIES
-=======
+# Pleospora aurea Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria commutata Zschacke SPECIES
-=======
+# Verrucaria commutata Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea phyllogena var. phyllogena VARIETY
-=======
+# Lecidea phyllogena (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea phyllogena var. phyllogena
+Lopadium stenosporum Malme
 
 ### Remarks
 null

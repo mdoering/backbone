@@ -1,5 +1,4 @@
-Niptera juglandis Velen. SPECIES
-=======
+# Niptera juglandis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia crypta Cooke SPECIES
-=======
+# Ramularia crypta Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porphyrobacter Fuerst et al., 1993 GENUS
-=======
+# Porphyrobacter Fuerst et al., 1993 GENUS
 
 #### Status
 ACCEPTED

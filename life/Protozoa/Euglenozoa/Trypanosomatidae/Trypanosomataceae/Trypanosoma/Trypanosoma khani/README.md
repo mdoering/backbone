@@ -1,5 +1,4 @@
-Trypanosoma khani Burreson, 2007 SPECIES
-=======
+# Trypanosoma khani Burreson, 2007 SPECIES
 
 #### Status
 ACCEPTED

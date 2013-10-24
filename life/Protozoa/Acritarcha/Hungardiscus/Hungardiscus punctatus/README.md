@@ -1,5 +1,4 @@
-Hungardiscus punctatus Jiabo, 1978 SPECIES
-=======
+# Hungardiscus punctatus Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

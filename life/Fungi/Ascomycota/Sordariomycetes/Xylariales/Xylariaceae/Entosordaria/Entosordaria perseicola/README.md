@@ -1,5 +1,4 @@
-Entosordaria perseicola Speg. SPECIES
-=======
+# Entosordaria perseicola Speg. SPECIES
 
 #### Status
 ACCEPTED

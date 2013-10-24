@@ -1,5 +1,4 @@
-Stelomorpha princeps (Brocke, 1997) Uutela & Sarjeant, 2000 SPECIES
-=======
+# Stelomorpha princeps (Brocke, 1997) Uutela & Sarjeant, 2000 SPECIES
 
 #### Status
 ACCEPTED

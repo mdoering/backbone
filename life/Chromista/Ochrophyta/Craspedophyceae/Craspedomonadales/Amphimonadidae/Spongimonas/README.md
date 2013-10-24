@@ -1,5 +1,4 @@
-Spongimonas GENUS
-=======
+# Spongimonas GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Labyrinthosphaeridium cymoides Uutela & Tynni, 1991 SPECIES
-=======
+# Labyrinthosphaeridium cymoides Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

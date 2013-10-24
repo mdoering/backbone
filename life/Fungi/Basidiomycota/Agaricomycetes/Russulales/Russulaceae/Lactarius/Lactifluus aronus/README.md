@@ -1,5 +1,4 @@
-Lactifluus aronus (Britzelm.) Kuntze SPECIES
-=======
+# Lactifluus aronus (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

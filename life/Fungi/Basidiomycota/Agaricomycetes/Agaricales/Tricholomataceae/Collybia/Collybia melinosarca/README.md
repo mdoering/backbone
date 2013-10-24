@@ -1,5 +1,4 @@
-Collybia melinosarca Kalchbr. SPECIES
-=======
+# Collybia melinosarca Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

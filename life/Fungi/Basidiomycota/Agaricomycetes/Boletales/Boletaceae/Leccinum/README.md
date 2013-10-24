@@ -1,5 +1,4 @@
-Leccinum Gray, 1821 GENUS
-=======
+# Leccinum Gray, 1821 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuckermanopsis commixta (Nyl.) W.A. Weber SPECIES
-=======
+# Tuckermanopsis commixta (Nyl.) W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

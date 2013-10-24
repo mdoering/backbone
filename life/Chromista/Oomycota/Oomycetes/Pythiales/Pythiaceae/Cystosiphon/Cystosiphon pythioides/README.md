@@ -1,14 +1,13 @@
-Pythium pythioides (Roze & Cornu) Ramsb., 1916 SPECIES
-=======
+# Cystosiphon pythioides Roze & Cornu, 1869 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 5: 320 (1917)
+Annls Sci. Nat. , Bot. , sér. 5 11: 72 (1869)
 
 #### Original name
 Cystosiphon pythioides Roze & Cornu, 1869

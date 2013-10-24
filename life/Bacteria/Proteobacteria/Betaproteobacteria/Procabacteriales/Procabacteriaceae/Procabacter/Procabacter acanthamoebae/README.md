@@ -1,5 +1,4 @@
-Procabacter acanthamoebae SPECIES
-=======
+# Procabacter acanthamoebae SPECIES
 
 #### Status
 ACCEPTED

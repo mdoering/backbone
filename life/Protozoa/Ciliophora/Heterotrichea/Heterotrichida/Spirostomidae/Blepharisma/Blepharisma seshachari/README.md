@@ -1,5 +1,4 @@
-Blepharisma seshachari Bhandary, 1962 SPECIES
-=======
+# Blepharisma seshachari Bhandary, 1962 SPECIES
 
 #### Status
 ACCEPTED

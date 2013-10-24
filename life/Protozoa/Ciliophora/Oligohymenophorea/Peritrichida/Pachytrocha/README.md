@@ -1,5 +1,4 @@
-Pachytrocha Kent, 1882 GENUS
-=======
+# Pachytrocha Kent, 1882 GENUS
 
 #### Status
 ACCEPTED

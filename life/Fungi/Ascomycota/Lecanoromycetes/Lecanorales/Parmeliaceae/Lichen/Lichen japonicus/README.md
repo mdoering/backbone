@@ -1,5 +1,4 @@
-Lichen japonicus Thunb. SPECIES
-=======
+# Lichen japonicus Thunb. SPECIES
 
 #### Status
 ACCEPTED

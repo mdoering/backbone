@@ -1,5 +1,4 @@
-Scoliciosporum corticola (Anzi) Arnold SPECIES
-=======
+# Scoliciosporum corticola (Anzi) Arnold SPECIES
 
 #### Status
 ACCEPTED

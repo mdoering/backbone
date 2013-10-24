@@ -1,5 +1,4 @@
-Microporus armenicolor (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Microporus armenicolor (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

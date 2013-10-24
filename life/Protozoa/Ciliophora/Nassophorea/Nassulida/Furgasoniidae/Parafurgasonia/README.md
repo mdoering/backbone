@@ -1,5 +1,4 @@
-Parafurgasonia Foissner & Adam, 1981 GENUS
-=======
+# Parafurgasonia Foissner & Adam, 1981 GENUS
 
 #### Status
 ACCEPTED

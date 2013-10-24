@@ -1,5 +1,4 @@
-Chamaeceras petalinus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras petalinus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

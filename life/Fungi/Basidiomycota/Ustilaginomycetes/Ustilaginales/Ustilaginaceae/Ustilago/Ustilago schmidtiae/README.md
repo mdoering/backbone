@@ -1,5 +1,4 @@
-Ustilago schmidtiae Vánky SPECIES
-=======
+# Ustilago schmidtiae Vánky SPECIES
 
 #### Status
 ACCEPTED

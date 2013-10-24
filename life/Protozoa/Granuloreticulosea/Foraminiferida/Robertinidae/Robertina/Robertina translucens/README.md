@@ -1,8 +1,7 @@
-Alliatina translucens (Cushman & Parker, 1936) SPECIES
-=======
+# Robertina translucens Cushman & Parker, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Cylindrosporium septatum f. septatum FORM
-=======
+# Cylindrosporium septatum Romell SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 10: 503 (1892)
 
 #### Original name
-Cylindrosporium septatum f. septatum
+Cylindrosporium septatum Romell
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fuscopannaria cyanolepra (Tuck.) P. M. Jørg. SPECIES
-=======
+# Fuscopannaria cyanolepra (Tuck.) P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia adnata (Huds.) Murrill SPECIES
-=======
+# Stropharia adnata (Huds.) Murrill SPECIES
 
 #### Status
 ACCEPTED

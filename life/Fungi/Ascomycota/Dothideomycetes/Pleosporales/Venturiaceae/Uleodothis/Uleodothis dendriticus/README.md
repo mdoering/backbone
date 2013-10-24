@@ -1,5 +1,4 @@
-Uleodothis dendriticus Petr. SPECIES
-=======
+# Uleodothis dendriticus Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces stenorrhynchi Henn. SPECIES
-=======
+# Uromyces stenorrhynchi Henn. SPECIES
 
 #### Status
 ACCEPTED

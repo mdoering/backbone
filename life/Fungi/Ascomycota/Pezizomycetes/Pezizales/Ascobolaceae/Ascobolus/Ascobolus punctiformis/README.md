@@ -1,5 +1,4 @@
-Ascobolus punctiformis P. Karst. SPECIES
-=======
+# Ascobolus punctiformis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

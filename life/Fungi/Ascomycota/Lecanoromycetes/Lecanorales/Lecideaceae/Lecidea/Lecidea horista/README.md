@@ -1,5 +1,4 @@
-Lecidea horista Nyl. SPECIES
-=======
+# Lecidea horista Nyl. SPECIES
 
 #### Status
 ACCEPTED

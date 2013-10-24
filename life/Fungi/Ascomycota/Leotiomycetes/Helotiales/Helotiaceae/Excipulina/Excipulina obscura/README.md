@@ -1,5 +1,4 @@
-Excipulina obscura Peck SPECIES
-=======
+# Excipulina obscura Peck SPECIES
 
 #### Status
 ACCEPTED

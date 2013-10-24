@@ -1,5 +1,4 @@
-Mycosphaerella sojae Hori SPECIES
-=======
+# Mycosphaerella sojae Hori SPECIES
 
 #### Status
 ACCEPTED

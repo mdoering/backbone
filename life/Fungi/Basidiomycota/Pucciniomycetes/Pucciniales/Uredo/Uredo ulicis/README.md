@@ -1,5 +1,4 @@
-Uredo ulicis Mayor ex A.L. Guyot & Massenot SPECIES
-=======
+# Uredo ulicis Mayor ex A.L. Guyot & Massenot SPECIES
 
 #### Status
 ACCEPTED

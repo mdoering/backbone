@@ -1,5 +1,4 @@
-Agaricus fusconiveus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus fusconiveus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

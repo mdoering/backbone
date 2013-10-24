@@ -1,5 +1,4 @@
-Aplosporella druparum (Schwein.) Starbäck SPECIES
-=======
+# Aplosporella druparum (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

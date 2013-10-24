@@ -1,17 +1,16 @@
-Fusarium sporotrichiella var. sporotrichiella Bilai VARIETY
-=======
+# Fusarium sporotrichioides Sherb., 1915 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Yadovitye griby na zerne khlebnykh zlakov (Poisonous fungi on cereal seed), Kiev 86 (1953)
+Memoirs of the Cornell University Agricultural Experimental Station 183 (1915)
 
 #### Original name
-Fusarium sporotrichiella var. sporotrichiella Bilai
+Fusarium sporotrichioides Sherb., 1915
 
 ### Remarks
 null

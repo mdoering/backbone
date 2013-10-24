@@ -1,5 +1,4 @@
-Laboulbenia sphodri Speg. SPECIES
-=======
+# Laboulbenia sphodri Speg. SPECIES
 
 #### Status
 ACCEPTED

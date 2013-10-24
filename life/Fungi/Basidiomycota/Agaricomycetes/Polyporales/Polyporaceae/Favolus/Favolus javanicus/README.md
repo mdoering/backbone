@@ -1,5 +1,4 @@
-Favolus javanicus (Holterm.) Sacc. & P. Syd. SPECIES
-=======
+# Favolus javanicus (Holterm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

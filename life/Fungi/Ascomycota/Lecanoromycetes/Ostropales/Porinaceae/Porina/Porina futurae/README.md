@@ -1,5 +1,4 @@
-Porina futurae (Kremp.) Overeem SPECIES
-=======
+# Porina futurae (Kremp.) Overeem SPECIES
 
 #### Status
 ACCEPTED

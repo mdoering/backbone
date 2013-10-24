@@ -1,5 +1,4 @@
-Mycopepon Boise GENUS
-=======
+# Mycopepon Boise GENUS
 
 #### Status
 ACCEPTED

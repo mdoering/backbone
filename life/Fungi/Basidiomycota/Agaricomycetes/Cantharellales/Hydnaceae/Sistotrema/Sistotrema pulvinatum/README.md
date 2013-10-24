@@ -1,5 +1,4 @@
-Sistotrema pulvinatum Pers. SPECIES
-=======
+# Sistotrema pulvinatum Pers. SPECIES
 
 #### Status
 ACCEPTED

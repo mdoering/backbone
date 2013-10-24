@@ -1,5 +1,4 @@
-Calcarina spengleri (Gmelin) SPECIES
-=======
+# Calcarina spengleri (Gmelin) SPECIES
 
 #### Status
 ACCEPTED

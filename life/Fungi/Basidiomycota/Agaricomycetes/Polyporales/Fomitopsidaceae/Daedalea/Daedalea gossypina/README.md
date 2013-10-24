@@ -1,5 +1,4 @@
-Daedalea gossypina Lév. SPECIES
-=======
+# Daedalea gossypina Lév. SPECIES
 
 #### Status
 ACCEPTED

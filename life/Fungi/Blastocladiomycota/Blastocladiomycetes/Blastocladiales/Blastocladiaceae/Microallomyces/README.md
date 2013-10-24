@@ -1,5 +1,4 @@
-Microallomyces R. Emers. & J.A. Robertson GENUS
-=======
+# Microallomyces R. Emers. & J.A. Robertson GENUS
 
 #### Status
 ACCEPTED

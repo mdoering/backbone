@@ -1,5 +1,4 @@
-Passalora pteleae (G. Winter) U. Braun SPECIES
-=======
+# Passalora pteleae (G. Winter) U. Braun SPECIES
 
 #### Status
 ACCEPTED

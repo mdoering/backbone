@@ -1,5 +1,4 @@
-Ophiocordyceps evdogeorgiae (Koval) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps evdogeorgiae (Koval) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

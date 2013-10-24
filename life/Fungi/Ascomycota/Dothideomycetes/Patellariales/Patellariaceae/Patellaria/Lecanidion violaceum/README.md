@@ -1,5 +1,4 @@
-Lecanidion violaceum Hazsl. SPECIES
-=======
+# Lecanidion violaceum Hazsl. SPECIES
 
 #### Status
 ACCEPTED

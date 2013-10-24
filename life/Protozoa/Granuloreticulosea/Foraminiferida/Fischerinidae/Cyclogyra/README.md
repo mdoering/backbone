@@ -1,5 +1,4 @@
-Cyclogyra GENUS
-=======
+# Cyclogyra GENUS
 
 #### Status
 ACCEPTED

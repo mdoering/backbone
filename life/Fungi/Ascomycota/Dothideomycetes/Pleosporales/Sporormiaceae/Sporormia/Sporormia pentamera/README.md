@@ -1,5 +1,4 @@
-Sporormia pentamera Oudem., 1885 SPECIES
-=======
+# Sporormia pentamera Oudem., 1885 SPECIES
 
 #### Status
 ACCEPTED

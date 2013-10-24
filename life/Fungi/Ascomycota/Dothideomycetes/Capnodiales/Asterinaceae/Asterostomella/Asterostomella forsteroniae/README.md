@@ -1,5 +1,4 @@
-Asterostomella forsteroniae (Henn.) Maubl. SPECIES
-=======
+# Asterostomella forsteroniae (Henn.) Maubl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crassicollaria parvintermedia SPECIES
-=======
+# Crassicollaria parvintermedia SPECIES
 
 #### Status
 ACCEPTED

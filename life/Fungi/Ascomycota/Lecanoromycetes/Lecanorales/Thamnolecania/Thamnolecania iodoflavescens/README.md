@@ -1,5 +1,4 @@
-Thamnolecania iodoflavescens SPECIES
-=======
+# Thamnolecania iodoflavescens SPECIES
 
 #### Status
 ACCEPTED

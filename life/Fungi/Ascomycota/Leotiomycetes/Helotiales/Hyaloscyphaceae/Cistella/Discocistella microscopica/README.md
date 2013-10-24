@@ -1,5 +1,4 @@
-Discocistella microscopica (Velen.) Svrcek SPECIES
-=======
+# Discocistella microscopica (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

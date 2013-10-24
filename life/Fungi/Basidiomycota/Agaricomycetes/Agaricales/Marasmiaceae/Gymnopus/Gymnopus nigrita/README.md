@@ -1,5 +1,4 @@
-Gymnopus nigrita (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Gymnopus nigrita (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

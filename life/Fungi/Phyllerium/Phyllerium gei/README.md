@@ -1,5 +1,4 @@
-Phyllerium gei Fr. SPECIES
-=======
+# Phyllerium gei Fr. SPECIES
 
 #### Status
 ACCEPTED

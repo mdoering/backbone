@@ -1,5 +1,4 @@
-Planistroma A.W. Ramaley GENUS
-=======
+# Planistroma A.W. Ramaley GENUS
 
 #### Status
 ACCEPTED

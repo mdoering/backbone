@@ -1,5 +1,4 @@
-Micropsalliota alba Heinem. & Little Flower SPECIES
-=======
+# Micropsalliota alba Heinem. & Little Flower SPECIES
 
 #### Status
 ACCEPTED

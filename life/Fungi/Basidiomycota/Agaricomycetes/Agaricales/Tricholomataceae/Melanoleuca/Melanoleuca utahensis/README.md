@@ -1,5 +1,4 @@
-Melanoleuca utahensis L.S. Gillman & McKnight SPECIES
-=======
+# Melanoleuca utahensis L.S. Gillman & McKnight SPECIES
 
 #### Status
 ACCEPTED

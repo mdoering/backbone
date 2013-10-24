@@ -1,5 +1,4 @@
-Valsella nemoralis Allesch. SPECIES
-=======
+# Valsella nemoralis Allesch. SPECIES
 
 #### Status
 ACCEPTED

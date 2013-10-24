@@ -1,5 +1,4 @@
-Cortinarius caesiifolius A.H. Sm. SPECIES
-=======
+# Cortinarius caesiifolius A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

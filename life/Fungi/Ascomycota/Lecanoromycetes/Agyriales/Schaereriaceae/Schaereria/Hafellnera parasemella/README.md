@@ -1,14 +1,13 @@
-Lecidella parasemella (Nyl.) Hertel SPECIES
-=======
+# Hafellnera parasemella (Nyl.) Houmeau & Cl. Roux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Poelt & Vezda, Biblthca Lichenol. 16: 198 (1981)
+Bull. Soc. bot. Centre-Ouest, Nouv. sér. 15: 142 (1984)
 
 #### Original name
 Lecidea parasemella Nyl.

@@ -1,5 +1,4 @@
-Disematostoma invallatum subsp. minor SUBSPECIES
-=======
+# Disematostoma invallatum Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

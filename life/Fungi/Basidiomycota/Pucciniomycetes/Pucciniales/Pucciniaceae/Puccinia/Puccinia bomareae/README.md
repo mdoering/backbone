@@ -1,5 +1,4 @@
-Puccinia bomareae Henn. SPECIES
-=======
+# Puccinia bomareae Henn. SPECIES
 
 #### Status
 ACCEPTED

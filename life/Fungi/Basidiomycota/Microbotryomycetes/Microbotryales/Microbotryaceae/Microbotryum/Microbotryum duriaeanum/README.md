@@ -1,14 +1,13 @@
-Haradaea duriaeana (Tul. & C. Tul.) Denchev & H.D. Shin, 2006 SPECIES
-=======
+# Microbotryum duriaeanum (Tul. & C. Tul.) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Denchev, Moore & Shin, Mycol. Balcanica 3(1): 72 (2006)
+Mycotaxon 67: 43 (1998)
 
 #### Original name
 Ustilago duriaeana Tul. & C. Tul., 1847

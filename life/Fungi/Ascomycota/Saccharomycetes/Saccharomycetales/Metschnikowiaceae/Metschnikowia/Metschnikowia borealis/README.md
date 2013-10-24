@@ -1,5 +1,4 @@
-Metschnikowia borealis (Lachance, C.A. Rosa, Starmer, Schlag-Edl., J.S.F. Barker & J.M. Bowles) Marinoni & Lachance, 2004 SPECIES
-=======
+# Metschnikowia borealis (Lachance, C.A. Rosa, Starmer, Schlag-Edl., J.S.F. Barker & J.M. Bowles) Marinoni & Lachance, 2004 SPECIES
 
 #### Status
 ACCEPTED

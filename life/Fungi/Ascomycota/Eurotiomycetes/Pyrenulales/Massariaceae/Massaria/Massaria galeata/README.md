@@ -1,5 +1,4 @@
-Massaria galeata Höhn. SPECIES
-=======
+# Massaria galeata Höhn. SPECIES
 
 #### Status
 ACCEPTED

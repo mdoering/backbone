@@ -1,5 +1,4 @@
-Usnea implicata SPECIES
-=======
+# Usnea implicata SPECIES
 
 #### Status
 ACCEPTED

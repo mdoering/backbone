@@ -1,5 +1,4 @@
-Protrichomonas Alexeieff, 1912 GENUS
-=======
+# Protrichomonas Alexeieff, 1912 GENUS
 
 #### Status
 ACCEPTED

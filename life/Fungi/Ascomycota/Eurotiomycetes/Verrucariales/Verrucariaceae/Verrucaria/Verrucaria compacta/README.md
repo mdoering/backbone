@@ -1,14 +1,13 @@
-Dermatocarpon compactum (A. Massal.) Lettau SPECIES
-=======
+# Verrucaria compacta (A. Massal.) Jatta SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 52: 97 (1912)
+Syll. Lich. Ital. 501 (1900)
 
 #### Original name
 Placidium compactum A. Massal.

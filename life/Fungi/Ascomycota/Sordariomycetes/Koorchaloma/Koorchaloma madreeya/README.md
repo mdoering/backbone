@@ -1,5 +1,4 @@
-Koorchaloma madreeya Subram., 1953 SPECIES
-=======
+# Koorchaloma madreeya Subram., 1953 SPECIES
 
 #### Status
 ACCEPTED

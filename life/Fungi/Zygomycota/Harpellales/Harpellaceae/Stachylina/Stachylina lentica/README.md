@@ -1,5 +1,4 @@
-Stachylina lentica M.M. White & Lichtw., 2004 SPECIES
-=======
+# Stachylina lentica M.M. White & Lichtw., 2004 SPECIES
 
 #### Status
 ACCEPTED

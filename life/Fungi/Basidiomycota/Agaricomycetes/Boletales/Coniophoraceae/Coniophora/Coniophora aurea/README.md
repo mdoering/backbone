@@ -1,5 +1,4 @@
-Coniophora aurea (Fr.) Massee SPECIES
-=======
+# Coniophora aurea (Fr.) Massee SPECIES
 
 #### Status
 ACCEPTED

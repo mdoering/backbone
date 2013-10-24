@@ -1,5 +1,4 @@
-Calothrix javanica De Wildeman SPECIES
-=======
+# Calothrix javanica De Wildeman SPECIES
 
 #### Status
 ACCEPTED

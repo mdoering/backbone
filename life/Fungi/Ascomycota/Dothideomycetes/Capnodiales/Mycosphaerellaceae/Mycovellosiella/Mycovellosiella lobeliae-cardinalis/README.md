@@ -1,5 +1,4 @@
-Mycovellosiella lobeliae-cardinalis (Schwein.) Deighton SPECIES
-=======
+# Mycovellosiella lobeliae-cardinalis (Schwein.) Deighton SPECIES
 
 #### Status
 ACCEPTED

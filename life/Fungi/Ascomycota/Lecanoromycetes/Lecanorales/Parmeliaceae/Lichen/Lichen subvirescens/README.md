@@ -1,5 +1,4 @@
-Lichen subvirescens G.F. Gmel. SPECIES
-=======
+# Lichen subvirescens G.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus sphaerosporus Peck SPECIES
-=======
+# Hygrophorus sphaerosporus Peck SPECIES
 
 #### Status
 ACCEPTED

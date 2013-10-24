@@ -1,5 +1,4 @@
-Ellipsagelosphaera lucasii Noël, 1965 SPECIES
-=======
+# Ellipsagelosphaera lucasii Noël, 1965 SPECIES
 
 #### Status
 DOUBTFUL

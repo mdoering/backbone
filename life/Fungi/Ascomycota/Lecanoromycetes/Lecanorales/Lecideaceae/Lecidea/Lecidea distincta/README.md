@@ -1,5 +1,4 @@
-Lecidea distincta f. distincta FORM
-=======
+# Lecidea distincta SPECIES
 
 #### Status
 ACCEPTED

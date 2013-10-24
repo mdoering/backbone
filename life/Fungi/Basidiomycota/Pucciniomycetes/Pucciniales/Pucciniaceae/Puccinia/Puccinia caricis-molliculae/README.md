@@ -1,5 +1,4 @@
-Puccinia caricis-molliculae Syd. & P. Syd. SPECIES
-=======
+# Puccinia caricis-molliculae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

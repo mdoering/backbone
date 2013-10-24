@@ -1,5 +1,4 @@
-Phacus stokesii Lemmermann, 1901 SPECIES
-=======
+# Phacus stokesii Lemmermann, 1901 SPECIES
 
 #### Status
 ACCEPTED

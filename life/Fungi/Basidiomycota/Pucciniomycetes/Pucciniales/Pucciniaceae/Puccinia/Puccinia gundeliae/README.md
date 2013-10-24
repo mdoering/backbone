@@ -1,5 +1,4 @@
-Puccinia gundeliae Cooke SPECIES
-=======
+# Puccinia gundeliae Cooke SPECIES
 
 #### Status
 ACCEPTED

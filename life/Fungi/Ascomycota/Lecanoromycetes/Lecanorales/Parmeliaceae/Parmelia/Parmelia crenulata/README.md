@@ -1,5 +1,4 @@
-Parmelia crenulata J.D. Zhao SPECIES
-=======
+# Parmelia crenulata J.D. Zhao SPECIES
 
 #### Status
 ACCEPTED

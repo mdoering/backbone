@@ -1,5 +1,4 @@
-Gloeosporium senecionis Ellis & Everh. SPECIES
-=======
+# Gloeosporium senecionis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

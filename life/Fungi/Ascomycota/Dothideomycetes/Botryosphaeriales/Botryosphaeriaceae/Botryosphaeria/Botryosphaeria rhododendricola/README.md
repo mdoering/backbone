@@ -1,5 +1,4 @@
-Botryosphaeria rhododendricola (Rehm) Weese SPECIES
-=======
+# Botryosphaeria rhododendricola (Rehm) Weese SPECIES
 
 #### Status
 ACCEPTED

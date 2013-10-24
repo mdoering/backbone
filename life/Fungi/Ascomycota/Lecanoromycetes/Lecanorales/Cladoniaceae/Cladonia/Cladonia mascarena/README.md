@@ -1,5 +1,4 @@
-Cladonia mascarena Nyl. SPECIES
-=======
+# Cladonia mascarena Nyl. SPECIES
 
 #### Status
 ACCEPTED

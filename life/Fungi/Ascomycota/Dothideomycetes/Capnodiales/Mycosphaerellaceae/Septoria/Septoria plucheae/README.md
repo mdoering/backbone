@@ -1,5 +1,4 @@
-Septoria plucheae Guba SPECIES
-=======
+# Septoria plucheae Guba SPECIES
 
 #### Status
 ACCEPTED

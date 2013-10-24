@@ -1,17 +1,16 @@
-Phellinus obliquus var. obliquus VARIETY
-=======
+# Inonotus obliquus (Ach. ex Pers.) Pilát, 1942 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Tax. Hyménomyc. (Lons-le-Saunier) 97 (1900)
+Atlas des Champignons de l'Europe, Polyporaceae 3(1): 572 (1942)
 
 #### Original name
-Phellinus obliquus var. obliquus
+Boletus obliquus Ach. ex Pers., 1801
 
 ### Remarks
 null

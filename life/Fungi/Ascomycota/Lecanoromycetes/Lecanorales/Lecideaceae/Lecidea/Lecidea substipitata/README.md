@@ -1,5 +1,4 @@
-Lecidea substipitata Nyl. SPECIES
-=======
+# Lecidea substipitata Nyl. SPECIES
 
 #### Status
 ACCEPTED

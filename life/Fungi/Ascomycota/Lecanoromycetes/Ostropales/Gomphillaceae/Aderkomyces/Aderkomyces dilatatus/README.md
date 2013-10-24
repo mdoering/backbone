@@ -1,5 +1,4 @@
-Aderkomyces dilatatus (Vezda) Lücking, Sérus. & Vezda SPECIES
-=======
+# Aderkomyces dilatatus (Vezda) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

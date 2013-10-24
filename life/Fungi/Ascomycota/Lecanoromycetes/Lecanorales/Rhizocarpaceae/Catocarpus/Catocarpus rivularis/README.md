@@ -1,5 +1,4 @@
-Catocarpus rivularis (Flot.) Arnold SPECIES
-=======
+# Catocarpus rivularis (Flot.) Arnold SPECIES
 
 #### Status
 ACCEPTED

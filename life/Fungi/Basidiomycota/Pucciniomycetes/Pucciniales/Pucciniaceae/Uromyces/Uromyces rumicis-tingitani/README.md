@@ -1,5 +1,4 @@
-Uromyces rumicis-tingitani (DC.) Malençon SPECIES
-=======
+# Uromyces rumicis-tingitani (DC.) Malençon SPECIES
 
 #### Status
 ACCEPTED

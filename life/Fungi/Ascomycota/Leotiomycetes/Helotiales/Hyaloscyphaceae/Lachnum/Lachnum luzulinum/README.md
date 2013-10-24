@@ -1,14 +1,13 @@
-Lachnella luzulina (W. Phillips) W. Phillips, 1887 SPECIES
-=======
+# Lachnum luzulinum (W. Phillips) Spooner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 244 (1887)
+null
 
 #### Original name
 null

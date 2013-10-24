@@ -1,5 +1,4 @@
-Typhula complanata de Bary SPECIES
-=======
+# Typhula complanata de Bary SPECIES
 
 #### Status
 ACCEPTED

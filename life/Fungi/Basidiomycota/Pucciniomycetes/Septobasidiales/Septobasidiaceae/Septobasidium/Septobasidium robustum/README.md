@@ -1,5 +1,4 @@
-Septobasidium robustum Boedijn & B.A. Steinm. SPECIES
-=======
+# Septobasidium robustum Boedijn & B.A. Steinm. SPECIES
 
 #### Status
 ACCEPTED

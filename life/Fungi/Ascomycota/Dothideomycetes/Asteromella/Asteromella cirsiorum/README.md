@@ -1,5 +1,4 @@
-Asteromella cirsiorum (Bondartsev) Vanev & Aa SPECIES
-=======
+# Asteromella cirsiorum (Bondartsev) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

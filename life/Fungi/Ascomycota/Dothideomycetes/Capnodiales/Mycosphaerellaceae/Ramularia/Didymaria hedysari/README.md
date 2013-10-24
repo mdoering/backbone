@@ -1,5 +1,4 @@
-Didymaria hedysari N.P. Golovina SPECIES
-=======
+# Didymaria hedysari N.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

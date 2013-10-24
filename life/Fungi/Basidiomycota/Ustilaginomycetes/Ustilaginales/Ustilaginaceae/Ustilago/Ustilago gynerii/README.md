@@ -1,5 +1,4 @@
-Ustilago gynerii Vize SPECIES
-=======
+# Ustilago gynerii Vize SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torrubiella miyagiana Kobayasi & Shimizu SPECIES
-=======
+# Torrubiella miyagiana Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

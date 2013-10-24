@@ -1,5 +1,4 @@
-Eriochona horrida Jankowksi, 1973 SPECIES
-=======
+# Eriochona horrida Jankowksi, 1973 SPECIES
 
 #### Status
 ACCEPTED

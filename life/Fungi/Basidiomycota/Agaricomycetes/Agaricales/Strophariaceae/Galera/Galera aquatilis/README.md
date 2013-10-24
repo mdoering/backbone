@@ -1,5 +1,4 @@
-Galera aquatilis (Fr.) Gillet SPECIES
-=======
+# Galera aquatilis (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

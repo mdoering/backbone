@@ -1,17 +1,16 @@
-Xylaria chamissonis var. cameroensis Henn. VARIETY
-=======
+# Thamnomyces chamissonis Ehrenb., 1820 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Horae Phys. Berol. (1820)
 
 #### Original name
-Xylaria chamissonis var. cameroensis Henn.
+Thamnomyces chamissonis Ehrenb., 1820
 
 ### Remarks
 null

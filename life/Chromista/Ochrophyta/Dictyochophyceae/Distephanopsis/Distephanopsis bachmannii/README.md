@@ -1,5 +1,4 @@
-Distephanopsis bachmannii (P. Dumitrica) P. Dumitrica SPECIES
-=======
+# Distephanopsis bachmannii (P. Dumitrica) P. Dumitrica SPECIES
 
 #### Status
 ACCEPTED

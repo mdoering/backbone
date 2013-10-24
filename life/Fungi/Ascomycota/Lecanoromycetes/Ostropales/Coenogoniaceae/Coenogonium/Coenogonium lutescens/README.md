@@ -1,17 +1,16 @@
-Dimerella lutescens Vezda & Malcolm SPECIES
-=======
+# Coenogonium lutescens (Vezda & Malcolm) Malcolm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Australasian Lichenology 54: 19 (2004)
 
 #### Original name
-null
+Dimerella lutescens Vezda & Malcolm
 
 ### Remarks
 null

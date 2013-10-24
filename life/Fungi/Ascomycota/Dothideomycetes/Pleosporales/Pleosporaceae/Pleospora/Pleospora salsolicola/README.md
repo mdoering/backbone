@@ -1,5 +1,4 @@
-Pleospora salsolicola Woron. SPECIES
-=======
+# Pleospora salsolicola Woron. SPECIES
 
 #### Status
 ACCEPTED

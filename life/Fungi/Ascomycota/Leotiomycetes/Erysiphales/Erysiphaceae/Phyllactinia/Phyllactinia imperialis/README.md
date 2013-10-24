@@ -1,5 +1,4 @@
-Phyllactinia imperialis Miyabe {?} SPECIES
-=======
+# Phyllactinia imperialis Miyabe {?} SPECIES
 
 #### Status
 ACCEPTED

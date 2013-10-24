@@ -1,5 +1,4 @@
-Mycosphaerella buna R. Kaneko & Kakish. SPECIES
-=======
+# Mycosphaerella buna R. Kaneko & Kakish. SPECIES
 
 #### Status
 ACCEPTED

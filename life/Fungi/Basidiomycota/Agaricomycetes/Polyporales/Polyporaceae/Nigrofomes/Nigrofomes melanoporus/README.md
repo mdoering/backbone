@@ -1,17 +1,16 @@
-Polyporus endophaeus Berk., 1854 SPECIES
-=======
+# Nigrofomes melanoporus (Mont.) Murrill, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. Kew Gard. Misc. 6: 142 (1854)
+Bull. Torrey bot. Club 31(8): 425 (1904)
 
 #### Original name
-Polyporus endophaeus Berk., 1854
+Polyporus melanoporus Mont., 1842
 
 ### Remarks
 null

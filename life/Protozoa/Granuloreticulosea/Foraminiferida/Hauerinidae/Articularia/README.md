@@ -1,5 +1,4 @@
-Articularia Luczkowska, 1974 GENUS
-=======
+# Articularia Luczkowska, 1974 GENUS
 
 #### Status
 ACCEPTED

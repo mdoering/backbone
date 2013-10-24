@@ -1,5 +1,4 @@
-Synechocystis bourrellyi Komárek SPECIES
-=======
+# Synechocystis bourrellyi Komárek SPECIES
 
 #### Status
 ACCEPTED

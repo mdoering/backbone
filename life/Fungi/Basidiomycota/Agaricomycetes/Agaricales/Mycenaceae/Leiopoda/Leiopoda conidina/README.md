@@ -1,5 +1,4 @@
-Leiopoda conidina Velen. SPECIES
-=======
+# Leiopoda conidina Velen. SPECIES
 
 #### Status
 ACCEPTED

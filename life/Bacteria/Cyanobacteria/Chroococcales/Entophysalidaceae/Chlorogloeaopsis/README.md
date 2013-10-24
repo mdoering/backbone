@@ -1,5 +1,4 @@
-Chlorogloeaopsis P.K.Maithy, 1975 GENUS
-=======
+# Chlorogloeaopsis P.K.Maithy, 1975 GENUS
 
 #### Status
 ACCEPTED

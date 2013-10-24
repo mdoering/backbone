@@ -1,5 +1,4 @@
-Thyridaria heimiana Leandri SPECIES
-=======
+# Thyridaria heimiana Leandri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Grosmannia yunnanensis Yamaoka, Masuya & M.J. Wingf. SPECIES
-=======
+# Grosmannia yunnanensis Yamaoka, Masuya & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

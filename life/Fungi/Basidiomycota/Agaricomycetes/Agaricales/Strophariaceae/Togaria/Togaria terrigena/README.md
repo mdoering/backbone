@@ -1,5 +1,4 @@
-Togaria terrigena (Fr.) W.G. Sm. SPECIES
-=======
+# Togaria terrigena (Fr.) W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiotrema fuegianum Speg. SPECIES
-=======
+# Lophiotrema fuegianum Speg. SPECIES
 
 #### Status
 ACCEPTED

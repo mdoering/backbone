@@ -1,5 +1,4 @@
-Phyllosticta balcanica Bubák & Picb. SPECIES
-=======
+# Phyllosticta balcanica Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

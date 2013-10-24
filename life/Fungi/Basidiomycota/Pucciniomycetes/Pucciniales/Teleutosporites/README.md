@@ -1,5 +1,4 @@
-Teleutosporites Mesch. GENUS
-=======
+# Teleutosporites Mesch. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isaria pachylomerica Kawam. SPECIES
-=======
+# Isaria pachylomerica Kawam. SPECIES
 
 #### Status
 ACCEPTED

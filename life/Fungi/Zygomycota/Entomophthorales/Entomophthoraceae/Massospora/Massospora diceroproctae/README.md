@@ -1,17 +1,16 @@
-Massospora diceroprocta R.S. Soper SPECIES
-=======
+# Massospora diceroproctae R.S. Soper, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 1(1): 23 (1974)
 
 #### Original name
-Massospora diceroprocta R.S. Soper
+Massospora diceroproctae R.S. Soper, 1974
 
 ### Remarks
 null

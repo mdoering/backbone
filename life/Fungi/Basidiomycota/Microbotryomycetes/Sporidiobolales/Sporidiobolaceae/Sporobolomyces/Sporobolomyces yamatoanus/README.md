@@ -1,5 +1,4 @@
-Sporobolomyces yamatoanus Nakase, M. Suzuki & Itoh SPECIES
-=======
+# Sporobolomyces yamatoanus Nakase, M. Suzuki & Itoh SPECIES
 
 #### Status
 ACCEPTED

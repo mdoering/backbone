@@ -1,5 +1,4 @@
-Lachnea cubensis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Lachnea cubensis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

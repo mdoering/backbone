@@ -1,5 +1,4 @@
-Psora prasinolepis (Nyl.) Dombr. SPECIES
-=======
+# Psora prasinolepis (Nyl.) Dombr. SPECIES
 
 #### Status
 ACCEPTED

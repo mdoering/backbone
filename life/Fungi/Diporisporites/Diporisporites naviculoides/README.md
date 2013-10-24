@@ -1,5 +1,4 @@
-Diporisporites naviculoides (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Diporisporites naviculoides (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

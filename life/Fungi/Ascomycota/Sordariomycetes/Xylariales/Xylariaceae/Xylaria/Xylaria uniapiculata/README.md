@@ -1,5 +1,4 @@
-Xylaria uniapiculata F.S.M. González & J.D. Rogers SPECIES
-=======
+# Xylaria uniapiculata F.S.M. González & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus sapurema Möller SPECIES
-=======
+# Polyporus sapurema Möller SPECIES
 
 #### Status
 ACCEPTED

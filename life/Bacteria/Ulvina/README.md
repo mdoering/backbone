@@ -1,5 +1,4 @@
-Ulvina Kützing GENUS
-=======
+# Ulvina Kützing GENUS
 
 #### Status
 ACCEPTED

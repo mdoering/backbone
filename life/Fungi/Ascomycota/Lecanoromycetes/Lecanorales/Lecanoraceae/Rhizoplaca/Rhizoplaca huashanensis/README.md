@@ -1,5 +1,4 @@
-Rhizoplaca huashanensis J.C. Wei SPECIES
-=======
+# Rhizoplaca huashanensis J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

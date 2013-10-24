@@ -1,5 +1,4 @@
-Ascotricha pusilla (Ellis & Everh.) Chivers, 1915 SPECIES
-=======
+# Ascotricha pusilla (Ellis & Everh.) Chivers, 1915 SPECIES
 
 #### Status
 ACCEPTED

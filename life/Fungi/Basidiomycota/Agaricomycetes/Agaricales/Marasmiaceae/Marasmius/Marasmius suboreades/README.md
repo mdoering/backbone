@@ -1,5 +1,4 @@
-Marasmius suboreades Beeli SPECIES
-=======
+# Marasmius suboreades Beeli SPECIES
 
 #### Status
 ACCEPTED

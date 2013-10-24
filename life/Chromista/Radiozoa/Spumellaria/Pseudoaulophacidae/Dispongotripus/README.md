@@ -1,5 +1,4 @@
-Dispongotripus Squinabol, 1903 GENUS
-=======
+# Dispongotripus Squinabol, 1903 GENUS
 
 #### Status
 ACCEPTED

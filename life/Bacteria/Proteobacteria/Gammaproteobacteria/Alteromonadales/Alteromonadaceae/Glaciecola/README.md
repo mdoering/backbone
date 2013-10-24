@@ -1,5 +1,4 @@
-Glaciecola Bowman et al., 1998 GENUS
-=======
+# Glaciecola Bowman et al., 1998 GENUS
 
 #### Status
 ACCEPTED

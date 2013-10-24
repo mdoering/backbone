@@ -1,5 +1,4 @@
-Thelocarpon vicinellum Nyl. SPECIES
-=======
+# Thelocarpon vicinellum Nyl. SPECIES
 
 #### Status
 ACCEPTED

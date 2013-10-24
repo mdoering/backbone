@@ -1,5 +1,4 @@
-Tintinnopsis digita SPECIES
-=======
+# Tintinnopsis digita SPECIES
 
 #### Status
 ACCEPTED

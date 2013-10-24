@@ -1,5 +1,4 @@
-Rhymbocarpus Zopf GENUS
-=======
+# Rhymbocarpus Zopf GENUS
 
 #### Status
 ACCEPTED

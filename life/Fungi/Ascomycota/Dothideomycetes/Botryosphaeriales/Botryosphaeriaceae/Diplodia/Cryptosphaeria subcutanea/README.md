@@ -1,5 +1,4 @@
-Cryptosphaeria subcutanea (Wahlenb.) Rappaz, 1984 SPECIES
-=======
+# Cryptosphaeria subcutanea (Wahlenb.) Rappaz, 1984 SPECIES
 
 #### Status
 DOUBTFUL

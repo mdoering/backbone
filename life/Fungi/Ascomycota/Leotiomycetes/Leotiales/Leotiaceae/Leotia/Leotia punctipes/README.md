@@ -1,5 +1,4 @@
-Leotia punctipes Peck SPECIES
-=======
+# Leotia punctipes Peck SPECIES
 
 #### Status
 ACCEPTED

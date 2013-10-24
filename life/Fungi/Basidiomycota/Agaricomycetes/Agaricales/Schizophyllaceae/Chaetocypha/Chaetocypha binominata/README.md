@@ -1,5 +1,4 @@
-Chaetocypha binominata Kuntze SPECIES
-=======
+# Chaetocypha binominata Kuntze SPECIES
 
 #### Status
 ACCEPTED

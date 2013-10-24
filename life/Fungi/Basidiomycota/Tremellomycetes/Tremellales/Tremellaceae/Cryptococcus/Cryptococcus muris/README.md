@@ -1,5 +1,4 @@
-Cryptococcus muris Shortt SPECIES
-=======
+# Cryptococcus muris Shortt SPECIES
 
 #### Status
 ACCEPTED

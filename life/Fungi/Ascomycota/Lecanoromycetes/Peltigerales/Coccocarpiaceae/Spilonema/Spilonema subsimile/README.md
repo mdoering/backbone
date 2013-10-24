@@ -1,5 +1,4 @@
-Spilonema subsimile Vain. SPECIES
-=======
+# Spilonema subsimile Vain. SPECIES
 
 #### Status
 ACCEPTED

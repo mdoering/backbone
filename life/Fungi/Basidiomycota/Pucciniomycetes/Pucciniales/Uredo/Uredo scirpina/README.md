@@ -1,5 +1,4 @@
-Uredo scirpina Westend. SPECIES
-=======
+# Uredo scirpina Westend. SPECIES
 
 #### Status
 ACCEPTED

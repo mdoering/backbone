@@ -1,5 +1,4 @@
-Leptogium tetrasporum Th. Fr. SPECIES
-=======
+# Leptogium tetrasporum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

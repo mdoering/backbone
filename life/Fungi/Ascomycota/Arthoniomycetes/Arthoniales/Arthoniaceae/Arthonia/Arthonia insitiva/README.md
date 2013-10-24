@@ -1,5 +1,4 @@
-Arthonia insitiva (Körb.) Clauzade, Diederich & Cl. Roux SPECIES
-=======
+# Arthonia insitiva (Körb.) Clauzade, Diederich & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

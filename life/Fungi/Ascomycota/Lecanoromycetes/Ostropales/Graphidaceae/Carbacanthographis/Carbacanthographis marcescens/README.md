@@ -1,17 +1,16 @@
-Graphis marcescens Fée SPECIES
-=======
+# Carbacanthographis marcescens (Fée) Staiger & Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Crypt. Exot. (Paris) 1: 38 (1825)
+null
 
 #### Original name
-Graphis marcescens Fée
+null
 
 ### Remarks
 null

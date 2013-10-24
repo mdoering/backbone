@@ -1,5 +1,4 @@
-Neuropogon perpusillus I.M. Lamb SPECIES
-=======
+# Neuropogon perpusillus I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

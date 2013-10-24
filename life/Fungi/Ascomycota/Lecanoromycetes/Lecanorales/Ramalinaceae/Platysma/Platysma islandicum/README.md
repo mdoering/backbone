@@ -1,5 +1,4 @@
-Platysma islandicum (L.) Ferge SPECIES
-=======
+# Platysma islandicum (L.) Ferge SPECIES
 
 #### Status
 ACCEPTED

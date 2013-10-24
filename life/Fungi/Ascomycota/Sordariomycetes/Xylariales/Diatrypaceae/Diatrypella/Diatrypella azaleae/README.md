@@ -1,5 +1,4 @@
-Diatrypella azaleae R. Rao & Deshpande {?} SPECIES
-=======
+# Diatrypella azaleae R. Rao & Deshpande {?} SPECIES
 
 #### Status
 ACCEPTED

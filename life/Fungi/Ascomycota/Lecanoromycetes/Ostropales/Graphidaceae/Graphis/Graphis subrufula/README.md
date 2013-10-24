@@ -1,5 +1,4 @@
-Graphis subrufula Müll. Arg. SPECIES
-=======
+# Graphis subrufula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

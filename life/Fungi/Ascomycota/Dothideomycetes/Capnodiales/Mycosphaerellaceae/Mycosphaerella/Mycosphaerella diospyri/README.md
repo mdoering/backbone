@@ -1,5 +1,4 @@
-Mycosphaerella diospyri Syd. & P. Syd. SPECIES
-=======
+# Mycosphaerella diospyri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

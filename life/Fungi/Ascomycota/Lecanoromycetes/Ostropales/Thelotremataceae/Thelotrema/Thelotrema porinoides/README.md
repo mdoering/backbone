@@ -1,14 +1,13 @@
-Brassia porinoides (Mont. & Bosch) A. Massal. SPECIES
-=======
+# Thelotrema porinoides Mont. & Bosch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Enumeratio Plantarum Ques In Insulis Java Et Sumatra Detexit 484 (1855)
 
 #### Original name
 Thelotrema porinoides Mont. & Bosch

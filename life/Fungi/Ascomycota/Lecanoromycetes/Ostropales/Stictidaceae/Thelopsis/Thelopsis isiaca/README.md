@@ -1,17 +1,16 @@
-Thelopsis isiaca var. australis P.M. McCarthy VARIETY
-=======
+# Thelopsis isiaca Stizenb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Muelleria 7(3): 313 (1991)
+Ber. Tät. St Gall. naturw. Ges. 262 (1895)
 
 #### Original name
-Thelopsis isiaca var. australis P.M. McCarthy
+Thelopsis isiaca Stizenb.
 
 ### Remarks
 null

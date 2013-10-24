@@ -1,5 +1,4 @@
-Panaeolus acidus Sumst. SPECIES
-=======
+# Panaeolus acidus Sumst. SPECIES
 
 #### Status
 ACCEPTED

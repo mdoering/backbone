@@ -1,5 +1,4 @@
-Dothiorella amygdali Cooke & Massee SPECIES
-=======
+# Dothiorella amygdali Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

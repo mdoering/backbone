@@ -1,5 +1,4 @@
-Hygrophorus kilimandscharicus Henn. SPECIES
-=======
+# Hygrophorus kilimandscharicus Henn. SPECIES
 
 #### Status
 ACCEPTED

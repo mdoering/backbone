@@ -1,5 +1,4 @@
-Lulworthia attenuata T.W. Johnson SPECIES
-=======
+# Lulworthia attenuata T.W. Johnson SPECIES
 
 #### Status
 ACCEPTED

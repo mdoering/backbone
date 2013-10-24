@@ -1,5 +1,4 @@
-Plowrightia mereschkowskyi Vouaux SPECIES
-=======
+# Plowrightia mereschkowskyi Vouaux SPECIES
 
 #### Status
 ACCEPTED

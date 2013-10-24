@@ -1,5 +1,4 @@
-Valsaria cariei Sacc. SPECIES
-=======
+# Valsaria cariei Sacc. SPECIES
 
 #### Status
 ACCEPTED

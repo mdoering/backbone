@@ -1,5 +1,4 @@
-Penicillium impar Svilv. SPECIES
-=======
+# Penicillium impar Svilv. SPECIES
 
 #### Status
 ACCEPTED

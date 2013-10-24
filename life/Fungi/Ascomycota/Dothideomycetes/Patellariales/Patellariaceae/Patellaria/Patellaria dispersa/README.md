@@ -1,5 +1,4 @@
-Patellaria dispersa W.R. Gerard SPECIES
-=======
+# Patellaria dispersa W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

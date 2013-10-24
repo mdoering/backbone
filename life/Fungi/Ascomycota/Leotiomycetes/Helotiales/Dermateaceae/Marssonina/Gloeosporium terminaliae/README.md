@@ -1,5 +1,4 @@
-Gloeosporium terminaliae P. Syd. & E.J. Butler SPECIES
-=======
+# Gloeosporium terminaliae P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

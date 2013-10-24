@@ -1,5 +1,4 @@
-Sphaerotheca erodii (Jacz.) Rayss SPECIES
-=======
+# Sphaerotheca erodii (Jacz.) Rayss SPECIES
 
 #### Status
 ACCEPTED

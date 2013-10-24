@@ -1,5 +1,4 @@
-Cordyceps forquignoni Quél. SPECIES
-=======
+# Cordyceps forquignoni Quél. SPECIES
 
 #### Status
 ACCEPTED

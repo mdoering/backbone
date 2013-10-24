@@ -1,17 +1,16 @@
-Poria hymenicola Murrill SPECIES
-=======
+# Poria hymeniicola Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 12(6): 305 (1920)
 
 #### Original name
-Poria hymenicola Murrill
+Poria hymeniicola Murrill
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lingulina armata Sidebottom, 1907 SPECIES
-=======
+# Lingulina armata Sidebottom, 1907 SPECIES
 
 #### Status
 ACCEPTED

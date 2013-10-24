@@ -1,5 +1,4 @@
-Uromyces valens F. Kern SPECIES
-=======
+# Uromyces valens F. Kern SPECIES
 
 #### Status
 ACCEPTED

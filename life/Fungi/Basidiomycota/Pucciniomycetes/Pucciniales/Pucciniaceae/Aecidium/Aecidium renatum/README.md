@@ -1,5 +1,4 @@
-Aecidium renatum Arthur SPECIES
-=======
+# Aecidium renatum Arthur SPECIES
 
 #### Status
 ACCEPTED

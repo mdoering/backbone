@@ -1,5 +1,4 @@
-Dictyosphaera sinica Xing Yusheng & Liu Kuizhih, 1973 SPECIES
-=======
+# Dictyosphaera sinica Xing Yusheng & Liu Kuizhih, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Uredo trichophora var. trichophora VARIETY
-=======
+# Ustilago trichophora (Link) Kunze, 1830 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 13: 369 (1830)
 
 #### Original name
-Uredo trichophora var. trichophora
+Caeoma trichophorum Link, 1825
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia taurica Tranzschel & Erem. SPECIES
-=======
+# Puccinia taurica Tranzschel & Erem. SPECIES
 
 #### Status
 ACCEPTED

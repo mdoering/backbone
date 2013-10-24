@@ -1,5 +1,4 @@
-Phoma celastrinae Cooke SPECIES
-=======
+# Phoma celastrinae Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulimina affinis SPECIES
-=======
+# Bulimina affinis SPECIES
 
 #### Status
 ACCEPTED

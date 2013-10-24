@@ -1,17 +1,16 @@
-Stereocaulon spathuliferum f. spathuliferum Vain. FORM
-=======
+# Stereocaulon spathuliferum Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ark. Bot. 8(no. 4): 36 (1909)
 
 #### Original name
-Stereocaulon spathuliferum f. spathuliferum Vain.
+Stereocaulon spathuliferum Vain.
 
 ### Remarks
 null

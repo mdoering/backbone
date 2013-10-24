@@ -1,5 +1,4 @@
-Clathrocycloma Haeckel, 1887 GENUS
-=======
+# Clathrocycloma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

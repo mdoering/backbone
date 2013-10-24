@@ -1,5 +1,4 @@
-Agaricus radiculans R. Schulz SPECIES
-=======
+# Agaricus radiculans R. Schulz SPECIES
 
 #### Status
 ACCEPTED

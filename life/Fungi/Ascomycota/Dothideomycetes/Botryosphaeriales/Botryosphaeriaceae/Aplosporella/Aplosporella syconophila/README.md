@@ -1,5 +1,4 @@
-Aplosporella syconophila Sacc. SPECIES
-=======
+# Aplosporella syconophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

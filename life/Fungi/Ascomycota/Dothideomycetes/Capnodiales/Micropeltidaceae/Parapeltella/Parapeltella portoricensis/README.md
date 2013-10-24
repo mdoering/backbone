@@ -1,5 +1,4 @@
-Parapeltella portoricensis (Speg.) Orejuela SPECIES
-=======
+# Parapeltella portoricensis (Speg.) Orejuela SPECIES
 
 #### Status
 ACCEPTED

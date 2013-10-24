@@ -1,5 +1,4 @@
-Lobaria urvillea Kuntze SPECIES
-=======
+# Lobaria urvillea Kuntze SPECIES
 
 #### Status
 ACCEPTED

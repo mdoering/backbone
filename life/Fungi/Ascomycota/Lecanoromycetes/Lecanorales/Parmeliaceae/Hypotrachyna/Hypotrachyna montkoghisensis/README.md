@@ -1,5 +1,4 @@
-Hypotrachyna montkoghisensis Louwhoff & Elix SPECIES
-=======
+# Hypotrachyna montkoghisensis Louwhoff & Elix SPECIES
 
 #### Status
 ACCEPTED

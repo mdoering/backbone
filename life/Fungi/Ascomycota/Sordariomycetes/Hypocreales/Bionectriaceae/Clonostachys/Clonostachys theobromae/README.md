@@ -1,5 +1,4 @@
-Clonostachys theobromae Delacr. SPECIES
-=======
+# Clonostachys theobromae Delacr. SPECIES
 
 #### Status
 ACCEPTED

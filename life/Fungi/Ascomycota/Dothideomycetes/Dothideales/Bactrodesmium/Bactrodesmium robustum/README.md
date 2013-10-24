@@ -1,5 +1,4 @@
-Bactrodesmium robustum (Cooke & Ellis) S. Hughes SPECIES
-=======
+# Bactrodesmium robustum (Cooke & Ellis) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

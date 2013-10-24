@@ -1,5 +1,4 @@
-Xylaria umbonata J.D. Rogers & Y.M. Ju, 2004 SPECIES
-=======
+# Xylaria umbonata J.D. Rogers & Y.M. Ju, 2004 SPECIES
 
 #### Status
 ACCEPTED

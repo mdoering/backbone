@@ -1,5 +1,4 @@
-Endophyllum macowanii Pole-Evans SPECIES
-=======
+# Endophyllum macowanii Pole-Evans SPECIES
 
 #### Status
 ACCEPTED

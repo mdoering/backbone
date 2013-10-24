@@ -1,5 +1,4 @@
-Gloeomyces Sheng H. Wu GENUS
-=======
+# Gloeomyces Sheng H. Wu GENUS
 
 #### Status
 ACCEPTED

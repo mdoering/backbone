@@ -1,5 +1,4 @@
-Haplotrichum linderi Hol.-Jech. SPECIES
-=======
+# Haplotrichum linderi Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

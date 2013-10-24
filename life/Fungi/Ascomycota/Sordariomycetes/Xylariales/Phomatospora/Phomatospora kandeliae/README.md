@@ -1,5 +1,4 @@
-Phomatospora kandeliae K.D. Hyde, 1992 SPECIES
-=======
+# Phomatospora kandeliae K.D. Hyde, 1992 SPECIES
 
 #### Status
 ACCEPTED

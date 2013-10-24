@@ -1,5 +1,4 @@
-Periconiella jasmini (Hansf.) M.B. Ellis SPECIES
-=======
+# Periconiella jasmini (Hansf.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

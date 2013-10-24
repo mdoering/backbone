@@ -1,5 +1,4 @@
-Sporidesmium lyciinum Bubák SPECIES
-=======
+# Sporidesmium lyciinum Bubák SPECIES
 
 #### Status
 ACCEPTED

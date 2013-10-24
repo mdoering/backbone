@@ -1,5 +1,4 @@
-Polyporus gogolensis Henn. SPECIES
-=======
+# Polyporus gogolensis Henn. SPECIES
 
 #### Status
 ACCEPTED

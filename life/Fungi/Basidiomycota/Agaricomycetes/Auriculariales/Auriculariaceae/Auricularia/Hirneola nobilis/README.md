@@ -1,5 +1,4 @@
-Hirneola nobilis (Lév.) Fr. SPECIES
-=======
+# Hirneola nobilis (Lév.) Fr. SPECIES
 
 #### Status
 ACCEPTED

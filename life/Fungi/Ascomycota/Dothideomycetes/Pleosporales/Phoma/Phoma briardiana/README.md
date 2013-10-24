@@ -1,5 +1,4 @@
-Phoma briardiana Trotter SPECIES
-=======
+# Phoma briardiana Trotter SPECIES
 
 #### Status
 ACCEPTED

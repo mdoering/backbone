@@ -1,5 +1,4 @@
-Boletus rufomaculatus Both SPECIES
-=======
+# Boletus rufomaculatus Both SPECIES
 
 #### Status
 ACCEPTED

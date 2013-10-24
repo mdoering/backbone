@@ -1,5 +1,4 @@
-Phaeocollybia subarduennensis Singer SPECIES
-=======
+# Phaeocollybia subarduennensis Singer SPECIES
 
 #### Status
 ACCEPTED

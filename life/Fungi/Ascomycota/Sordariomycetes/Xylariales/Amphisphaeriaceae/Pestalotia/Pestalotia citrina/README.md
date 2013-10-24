@@ -1,5 +1,4 @@
-Pestalotia citrina McAlpine SPECIES
-=======
+# Pestalotia citrina McAlpine SPECIES
 
 #### Status
 ACCEPTED

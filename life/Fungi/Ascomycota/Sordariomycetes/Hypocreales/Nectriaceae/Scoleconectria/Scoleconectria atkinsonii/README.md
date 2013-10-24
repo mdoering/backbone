@@ -1,5 +1,4 @@
-Scoleconectria atkinsonii (Rehm) Seaver SPECIES
-=======
+# Scoleconectria atkinsonii (Rehm) Seaver SPECIES
 
 #### Status
 ACCEPTED

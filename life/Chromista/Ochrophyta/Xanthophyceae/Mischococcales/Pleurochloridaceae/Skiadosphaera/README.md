@@ -1,5 +1,4 @@
-Skiadosphaera (Pascher) Pascher, 1938 GENUS
-=======
+# Skiadosphaera (Pascher) Pascher, 1938 GENUS
 
 #### Status
 ACCEPTED

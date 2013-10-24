@@ -1,5 +1,4 @@
-Pertusaria negans (Vain.) C.W. Dodge SPECIES
-=======
+# Pertusaria negans (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

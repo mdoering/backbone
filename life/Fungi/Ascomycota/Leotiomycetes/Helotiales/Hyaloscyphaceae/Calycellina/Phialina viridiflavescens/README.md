@@ -1,5 +1,4 @@
-Phialina viridiflavescens (Rehm) Raitv. SPECIES
-=======
+# Phialina viridiflavescens (Rehm) Raitv. SPECIES
 
 #### Status
 ACCEPTED

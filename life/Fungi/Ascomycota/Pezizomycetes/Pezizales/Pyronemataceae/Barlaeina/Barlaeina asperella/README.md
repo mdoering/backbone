@@ -1,5 +1,4 @@
-Barlaeina asperella (Rehm) Sacc. & Traverso SPECIES
-=======
+# Barlaeina asperella (Rehm) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

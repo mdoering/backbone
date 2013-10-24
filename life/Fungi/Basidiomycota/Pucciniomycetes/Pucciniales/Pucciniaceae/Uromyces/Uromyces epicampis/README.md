@@ -1,5 +1,4 @@
-Uromyces epicampis var. epicampis VARIETY
-=======
+# Uromyces epicampis Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Holway, Bot. Gaz. 24: 23 (1897)
 
 #### Original name
-Uromyces epicampis var. epicampis
+Uromyces epicampis Dietel & Holw.
 
 ### Remarks
 null

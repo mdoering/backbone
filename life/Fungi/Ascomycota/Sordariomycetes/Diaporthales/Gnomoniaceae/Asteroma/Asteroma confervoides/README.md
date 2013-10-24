@@ -1,5 +1,4 @@
-Asteroma confervoides Grognot SPECIES
-=======
+# Asteroma confervoides Grognot SPECIES
 
 #### Status
 ACCEPTED

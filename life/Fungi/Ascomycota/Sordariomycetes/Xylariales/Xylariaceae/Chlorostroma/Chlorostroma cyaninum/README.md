@@ -1,5 +1,4 @@
-Chlorostroma cyaninum Laessøe, Srikitikulchai & J. Fourn., 2010 SPECIES
-=======
+# Chlorostroma cyaninum Laessøe, Srikitikulchai & J. Fourn., 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammonia nakamurai (Ishizaki) SPECIES
-=======
+# Ammonia nakamurai (Ishizaki) SPECIES
 
 #### Status
 ACCEPTED

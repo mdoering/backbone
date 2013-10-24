@@ -1,5 +1,4 @@
-Dictyocha speculum f. pseudofibula P. Schulz FORM
-=======
+# Dictyocha speculum Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

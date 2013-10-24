@@ -1,5 +1,4 @@
-Goniaulax scotti Cookson & Eisenack SPECIES
-=======
+# Goniaulax scotti Cookson & Eisenack SPECIES
 
 #### Status
 DOUBTFUL

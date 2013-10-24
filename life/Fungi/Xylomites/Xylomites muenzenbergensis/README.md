@@ -1,8 +1,7 @@
-Xylomites muezenbergensis Ettingsh. SPECIES
-=======
+# Xylomites muenzenbergensis Ettingsh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylomites muezenbergensis Ettingsh.
+Xylomites muenzenbergensis Ettingsh.
 
 ### Remarks
 null

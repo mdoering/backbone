@@ -1,5 +1,4 @@
-Napicladium elasticae Koord. SPECIES
-=======
+# Napicladium elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

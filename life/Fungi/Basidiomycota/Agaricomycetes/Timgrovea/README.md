@@ -1,5 +1,4 @@
-Timgrovea Bougher & Castellano GENUS
-=======
+# Timgrovea Bougher & Castellano GENUS
 
 #### Status
 ACCEPTED

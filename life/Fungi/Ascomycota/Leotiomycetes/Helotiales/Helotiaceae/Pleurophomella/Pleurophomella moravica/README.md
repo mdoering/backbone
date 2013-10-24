@@ -1,5 +1,4 @@
-Pleurophomella moravica Petr. SPECIES
-=======
+# Pleurophomella moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia herpotricha Sacc., 1883 SPECIES
-=======
+# Hendersonia herpotricha Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

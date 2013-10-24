@@ -1,5 +1,4 @@
-Pseudocercospora zeyheriae (Henn.) Dianese, Furlan. & L.T.P. Santos SPECIES
-=======
+# Pseudocercospora zeyheriae (Henn.) Dianese, Furlan. & L.T.P. Santos SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius amazonicus Singer & I.J. Araujo SPECIES
-=======
+# Cortinarius amazonicus Singer & I.J. Araujo SPECIES
 
 #### Status
 ACCEPTED

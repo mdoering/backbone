@@ -1,5 +1,4 @@
-Titaea toddaliae Hansf. SPECIES
-=======
+# Titaea toddaliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

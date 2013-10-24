@@ -1,14 +1,13 @@
-Asordaria islandica Guarro & Aa, 1987 SPECIES
-=======
+# Sordaria islandica (Guarro & Aa) J.C. Krug & R.S. Khan, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in von Arx, Guarro & van der Aa, Persoonia 13(3): 268 (1987)
+in Khan & Krug, Mycologia 81(6): 864 (1990)
 
 #### Original name
 Asordaria islandica Guarro & Aa, 1987

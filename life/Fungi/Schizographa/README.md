@@ -1,5 +1,4 @@
-Schizographa Nyl. GENUS
-=======
+# Schizographa Nyl. GENUS
 
 #### Status
 ACCEPTED

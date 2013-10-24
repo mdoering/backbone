@@ -1,8 +1,7 @@
-Buetschlia postciliata Bundle, 1895 SPECIES
-=======
+# Bundleia postciliata (Bundle, 1895) Cunha & Muniz, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

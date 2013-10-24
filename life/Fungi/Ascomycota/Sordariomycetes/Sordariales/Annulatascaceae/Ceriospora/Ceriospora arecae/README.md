@@ -1,5 +1,4 @@
-Ceriospora arecae R. Menon SPECIES
-=======
+# Ceriospora arecae R. Menon SPECIES
 
 #### Status
 ACCEPTED

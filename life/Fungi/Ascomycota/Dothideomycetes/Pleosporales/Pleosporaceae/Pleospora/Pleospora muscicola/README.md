@@ -1,5 +1,4 @@
-Pleospora muscicola Cooke & Massee SPECIES
-=======
+# Pleospora muscicola Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastotrichum carneum (Preuss) Sacc. SPECIES
-=======
+# Blastotrichum carneum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

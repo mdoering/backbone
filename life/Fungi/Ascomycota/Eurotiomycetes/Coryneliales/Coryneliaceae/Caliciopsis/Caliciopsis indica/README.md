@@ -1,5 +1,4 @@
-Caliciopsis indica SPECIES
-=======
+# Caliciopsis indica SPECIES
 
 #### Status
 ACCEPTED

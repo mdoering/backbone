@@ -1,5 +1,4 @@
-Lachnaster gracilis Höhn. SPECIES
-=======
+# Lachnaster gracilis Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptosporium anthrisci Lind SPECIES
-=======
+# Cryptosporium anthrisci Lind SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Parmelia amphixantha Müll. Arg. SPECIES
-=======
+# Xanthoparmelia amphixantha (Müll. Arg.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 71: 139 (1888)
+Phytologia 28: 486 (1974)
 
 #### Original name
 Parmelia amphixantha Müll. Arg.

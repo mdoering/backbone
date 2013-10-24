@@ -1,5 +1,4 @@
-Haplomyces Thaxt. GENUS
-=======
+# Haplomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

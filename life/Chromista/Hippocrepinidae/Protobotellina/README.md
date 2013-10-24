@@ -1,5 +1,4 @@
-Protobotellina Heron-Allen & Earland, 1929 GENUS
-=======
+# Protobotellina Heron-Allen & Earland, 1929 GENUS
 
 #### Status
 ACCEPTED

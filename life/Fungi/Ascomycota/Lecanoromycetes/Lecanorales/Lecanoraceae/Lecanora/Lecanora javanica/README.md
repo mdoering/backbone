@@ -1,5 +1,4 @@
-Lecanora javanica (Mont. & Bosch) Müll. Arg. SPECIES
-=======
+# Lecanora javanica (Mont. & Bosch) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

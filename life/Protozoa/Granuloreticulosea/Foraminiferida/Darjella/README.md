@@ -1,5 +1,4 @@
-Darjella Malakhova, 1963 GENUS
-=======
+# Darjella Malakhova, 1963 GENUS
 
 #### Status
 ACCEPTED

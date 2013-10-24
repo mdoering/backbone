@@ -1,5 +1,4 @@
-Puccinia maculicola J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Puccinia maculicola J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

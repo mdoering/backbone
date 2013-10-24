@@ -1,5 +1,4 @@
-Pseudophacidium necans Rehm SPECIES
-=======
+# Pseudophacidium necans Rehm SPECIES
 
 #### Status
 ACCEPTED

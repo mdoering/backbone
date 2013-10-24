@@ -1,5 +1,4 @@
-Bacidia vexans (Stizenb.) Migula SPECIES
-=======
+# Bacidia vexans (Stizenb.) Migula SPECIES
 
 #### Status
 ACCEPTED

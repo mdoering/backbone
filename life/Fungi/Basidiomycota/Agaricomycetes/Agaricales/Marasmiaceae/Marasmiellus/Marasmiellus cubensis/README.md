@@ -1,5 +1,4 @@
-Marasmiellus cubensis (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Marasmiellus cubensis (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

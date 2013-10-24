@@ -1,5 +1,4 @@
-Aecidium saltense J.C. Lindq. SPECIES
-=======
+# Aecidium saltense J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

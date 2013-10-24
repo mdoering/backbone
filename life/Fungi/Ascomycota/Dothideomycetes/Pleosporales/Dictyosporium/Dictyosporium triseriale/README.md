@@ -1,5 +1,4 @@
-Dictyosporium triseriale Matsush. SPECIES
-=======
+# Dictyosporium triseriale Matsush. SPECIES
 
 #### Status
 ACCEPTED

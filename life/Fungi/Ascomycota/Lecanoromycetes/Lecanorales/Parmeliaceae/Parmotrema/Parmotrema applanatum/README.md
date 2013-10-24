@@ -1,5 +1,4 @@
-Parmotrema applanatum Marcelli & C. H. Ribeiro SPECIES
-=======
+# Parmotrema applanatum Marcelli & C. H. Ribeiro SPECIES
 
 #### Status
 ACCEPTED

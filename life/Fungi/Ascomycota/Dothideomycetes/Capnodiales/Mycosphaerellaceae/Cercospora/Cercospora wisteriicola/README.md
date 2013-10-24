@@ -1,5 +1,4 @@
-Cercospora wisteriicola J.M. Yen SPECIES
-=======
+# Cercospora wisteriicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

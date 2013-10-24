@@ -1,5 +1,4 @@
-Gorgonisphaeridium suecicum Górka, 1987 SPECIES
-=======
+# Gorgonisphaeridium suecicum Górka, 1987 SPECIES
 
 #### Status
 ACCEPTED

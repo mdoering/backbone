@@ -1,5 +1,4 @@
-Uvigerina occidentalis SPECIES
-=======
+# Uvigerina occidentalis SPECIES
 
 #### Status
 ACCEPTED

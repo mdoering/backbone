@@ -1,5 +1,4 @@
-Diplodina staphyleae Brunaud SPECIES
-=======
+# Diplodina staphyleae Brunaud SPECIES
 
 #### Status
 ACCEPTED

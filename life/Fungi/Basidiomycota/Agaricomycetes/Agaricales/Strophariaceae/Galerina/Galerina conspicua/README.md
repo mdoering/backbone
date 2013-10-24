@@ -1,5 +1,4 @@
-Galerina conspicua Singer SPECIES
-=======
+# Galerina conspicua Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera major Velen. SPECIES
-=======
+# Galera major Velen. SPECIES
 
 #### Status
 ACCEPTED

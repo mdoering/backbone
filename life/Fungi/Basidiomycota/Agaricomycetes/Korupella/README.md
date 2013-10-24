@@ -1,5 +1,4 @@
-Korupella Hjortstam & P. Roberts GENUS
-=======
+# Korupella Hjortstam & P. Roberts GENUS
 
 #### Status
 ACCEPTED

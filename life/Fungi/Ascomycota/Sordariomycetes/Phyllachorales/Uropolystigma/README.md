@@ -1,5 +1,4 @@
-Uropolystigma Maubl. GENUS
-=======
+# Uropolystigma Maubl. GENUS
 
 #### Status
 ACCEPTED

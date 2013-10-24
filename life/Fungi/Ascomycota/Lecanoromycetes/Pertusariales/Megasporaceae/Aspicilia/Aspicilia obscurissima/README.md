@@ -1,5 +1,4 @@
-Aspicilia obscurissima Motyka SPECIES
-=======
+# Aspicilia obscurissima Motyka SPECIES
 
 #### Status
 ACCEPTED

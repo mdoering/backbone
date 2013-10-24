@@ -1,14 +1,13 @@
-Aposphaeria fuscidula var. fuscidula VARIETY
-=======
+# Melanomma fuscidulum Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 1(no. 4): 450 (1878)
 
 #### Original name
 Melanomma fuscidulum Sacc., 1878

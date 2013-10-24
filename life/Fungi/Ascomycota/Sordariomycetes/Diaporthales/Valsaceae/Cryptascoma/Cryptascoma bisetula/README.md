@@ -1,5 +1,4 @@
-Cryptascoma bisetula Ananthap., 1988 SPECIES
-=======
+# Cryptascoma bisetula Ananthap., 1988 SPECIES
 
 #### Status
 ACCEPTED

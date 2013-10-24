@@ -1,5 +1,4 @@
-Pyrocystis lunula (Schütt) Schütt SPECIES
-=======
+# Pyrocystis lunula (Schütt) Schütt SPECIES
 
 #### Status
 ACCEPTED

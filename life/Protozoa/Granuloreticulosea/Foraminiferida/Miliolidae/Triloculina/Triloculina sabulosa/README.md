@@ -1,5 +1,4 @@
-Triloculina sabulosa Collins, 1974 SPECIES
-=======
+# Triloculina sabulosa Collins, 1974 SPECIES
 
 #### Status
 ACCEPTED

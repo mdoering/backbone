@@ -1,5 +1,4 @@
-Bartalinia begoniae Bat. SPECIES
-=======
+# Bartalinia begoniae Bat. SPECIES
 
 #### Status
 ACCEPTED

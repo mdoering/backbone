@@ -1,5 +1,4 @@
-Trichothecium luteum Petch SPECIES
-=======
+# Trichothecium luteum Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Aphysa rhynchosiae (Kalchbr. & Cooke) Theiss. & Syd., 1917 SPECIES
-=======
+# Coleroa rhynchosiae (Kalchbr. & Cooke) E. Müll., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 15(1/2): 134 (1917)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 418 (1962)
 
 #### Original name
 Stigmatea rhynchosiae Kalchbr. & Cooke, 1880

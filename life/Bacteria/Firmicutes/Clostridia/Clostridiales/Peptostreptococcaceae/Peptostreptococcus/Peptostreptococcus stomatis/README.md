@@ -1,5 +1,4 @@
-Peptostreptococcus stomatis Downes & Wade, 2006 SPECIES
-=======
+# Peptostreptococcus stomatis Downes & Wade, 2006 SPECIES
 
 #### Status
 ACCEPTED

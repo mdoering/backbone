@@ -1,5 +1,4 @@
-Septoria degasperiana Sacc. SPECIES
-=======
+# Septoria degasperiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

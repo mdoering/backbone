@@ -1,5 +1,4 @@
-Vouauxiomyces plantismatiae D. Hawksw. SPECIES
-=======
+# Vouauxiomyces plantismatiae D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

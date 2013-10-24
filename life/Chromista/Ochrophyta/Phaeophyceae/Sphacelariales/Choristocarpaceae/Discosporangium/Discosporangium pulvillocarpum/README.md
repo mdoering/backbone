@@ -1,5 +1,4 @@
-Discosporangium pulvillocarpum Kraft, 2009 SPECIES
-=======
+# Discosporangium pulvillocarpum Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

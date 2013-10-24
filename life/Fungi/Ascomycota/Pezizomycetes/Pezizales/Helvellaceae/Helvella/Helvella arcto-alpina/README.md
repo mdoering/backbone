@@ -1,5 +1,4 @@
-Helvella arcto-alpina Harmaja SPECIES
-=======
+# Helvella arcto-alpina Harmaja SPECIES
 
 #### Status
 ACCEPTED

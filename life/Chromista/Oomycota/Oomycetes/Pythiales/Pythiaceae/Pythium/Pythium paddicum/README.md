@@ -1,5 +1,4 @@
-Pythium paddicum Hirane, 1960 SPECIES
-=======
+# Pythium paddicum Hirane, 1960 SPECIES
 
 #### Status
 ACCEPTED

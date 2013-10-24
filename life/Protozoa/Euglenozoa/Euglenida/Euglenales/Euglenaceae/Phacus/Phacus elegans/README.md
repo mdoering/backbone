@@ -1,5 +1,4 @@
-Phacus elegans Pochmann SPECIES
-=======
+# Phacus elegans Pochmann SPECIES
 
 #### Status
 ACCEPTED

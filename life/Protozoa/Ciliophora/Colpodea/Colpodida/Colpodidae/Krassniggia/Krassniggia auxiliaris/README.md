@@ -1,5 +1,4 @@
-Krassniggia auxiliaris Foissner, 1987 SPECIES
-=======
+# Krassniggia auxiliaris Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

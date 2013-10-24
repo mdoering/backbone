@@ -1,5 +1,4 @@
-Cercosporella lewisii (Savile) U. Braun SPECIES
-=======
+# Cercosporella lewisii (Savile) U. Braun SPECIES
 
 #### Status
 ACCEPTED

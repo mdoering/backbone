@@ -1,5 +1,4 @@
-Tricholoma platyphyllum Murrill SPECIES
-=======
+# Tricholoma platyphyllum Murrill SPECIES
 
 #### Status
 ACCEPTED

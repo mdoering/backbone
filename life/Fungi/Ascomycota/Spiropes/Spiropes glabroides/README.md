@@ -1,5 +1,4 @@
-Spiropes glabroides (F. Stevens) M.B. Ellis SPECIES
-=======
+# Spiropes glabroides (F. Stevens) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

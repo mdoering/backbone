@@ -1,5 +1,4 @@
-Boletus chalcedonicus (Paulet) Lév. SPECIES
-=======
+# Boletus chalcedonicus (Paulet) Lév. SPECIES
 
 #### Status
 ACCEPTED

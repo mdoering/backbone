@@ -1,5 +1,4 @@
-Volutella pallens (Nees) Fr. SPECIES
-=======
+# Volutella pallens (Nees) Fr. SPECIES
 
 #### Status
 ACCEPTED

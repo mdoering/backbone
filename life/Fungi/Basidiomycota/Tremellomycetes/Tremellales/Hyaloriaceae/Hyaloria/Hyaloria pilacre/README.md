@@ -1,5 +1,4 @@
-Hyaloria pilacre Möller, 1895 SPECIES
-=======
+# Hyaloria pilacre Möller, 1895 SPECIES
 
 #### Status
 ACCEPTED

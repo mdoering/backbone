@@ -1,5 +1,4 @@
-Janetia M.B. Ellis, 1976 GENUS
-=======
+# Janetia M.B. Ellis, 1976 GENUS
 
 #### Status
 ACCEPTED

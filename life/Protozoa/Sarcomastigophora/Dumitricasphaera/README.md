@@ -1,5 +1,4 @@
-Dumitricasphaera Kozur & Mostler, 1980 GENUS
-=======
+# Dumitricasphaera Kozur & Mostler, 1980 GENUS
 
 #### Status
 ACCEPTED

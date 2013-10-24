@@ -1,5 +1,4 @@
-Papulaspora cinerea Hotson SPECIES
-=======
+# Papulaspora cinerea Hotson SPECIES
 
 #### Status
 ACCEPTED

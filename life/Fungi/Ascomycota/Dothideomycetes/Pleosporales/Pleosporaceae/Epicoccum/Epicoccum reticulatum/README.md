@@ -1,5 +1,4 @@
-Epicoccum reticulatum Cooke SPECIES
-=======
+# Epicoccum reticulatum Cooke SPECIES
 
 #### Status
 ACCEPTED

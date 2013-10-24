@@ -1,5 +1,4 @@
-Dryosphaera tropicalis Kohlm. & Volkm.-Kohlm., 1993 SPECIES
-=======
+# Dryosphaera tropicalis Kohlm. & Volkm.-Kohlm., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes badiuscula Corner SPECIES
-=======
+# Trametes badiuscula Corner SPECIES
 
 #### Status
 ACCEPTED

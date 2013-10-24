@@ -1,5 +1,4 @@
-Cryptococcus meningitidis C.W. Dodge SPECIES
-=======
+# Cryptococcus meningitidis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora tephra (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Peniophora tephra (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

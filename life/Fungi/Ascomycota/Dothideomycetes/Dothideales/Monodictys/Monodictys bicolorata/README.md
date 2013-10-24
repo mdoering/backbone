@@ -1,5 +1,4 @@
-Monodictys bicolorata R.F. Castañeda & Guarro SPECIES
-=======
+# Monodictys bicolorata R.F. Castañeda & Guarro SPECIES
 
 #### Status
 ACCEPTED

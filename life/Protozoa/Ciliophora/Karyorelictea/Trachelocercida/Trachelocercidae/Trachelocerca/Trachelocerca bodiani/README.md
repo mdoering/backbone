@@ -1,8 +1,7 @@
-Tracheloraphis bodiani Dragesco, 1963 SPECIES
-=======
+# Trachelocerca bodiani (Dragesco, 1963) Dragesco, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

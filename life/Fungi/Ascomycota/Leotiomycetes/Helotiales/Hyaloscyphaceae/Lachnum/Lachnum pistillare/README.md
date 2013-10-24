@@ -1,5 +1,4 @@
-Lachnum pistillare Henn. & Kirschst. SPECIES
-=======
+# Lachnum pistillare Henn. & Kirschst. SPECIES
 
 #### Status
 ACCEPTED

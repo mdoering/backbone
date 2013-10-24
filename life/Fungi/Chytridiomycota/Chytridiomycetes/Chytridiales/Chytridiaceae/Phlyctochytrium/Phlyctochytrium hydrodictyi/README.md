@@ -1,14 +1,13 @@
-Phlyctidium hydrodictyi (A. Braun) J. Schröt., 1886 SPECIES
-=======
+# Phlyctochytrium hydrodictyi (A. Braun) J. Schröt., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(18): 190 (1886)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1: 73 (1892)
 
 #### Original name
 Chytridium hydrodictyi A. Braun, 1855

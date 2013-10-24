@@ -1,5 +1,4 @@
-Phoma tragopogonis Hollós SPECIES
-=======
+# Phoma tragopogonis Hollós SPECIES
 
 #### Status
 ACCEPTED

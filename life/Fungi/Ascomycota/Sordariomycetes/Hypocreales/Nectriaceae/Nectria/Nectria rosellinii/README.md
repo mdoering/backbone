@@ -1,5 +1,4 @@
-Nectria rosellinii Carestia SPECIES
-=======
+# Nectria rosellinii Carestia SPECIES
 
 #### Status
 ACCEPTED

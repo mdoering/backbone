@@ -1,5 +1,4 @@
-Crocicreas macrostipitatum P.R. Johnst., 1989 SPECIES
-=======
+# Crocicreas macrostipitatum P.R. Johnst., 1989 SPECIES
 
 #### Status
 ACCEPTED

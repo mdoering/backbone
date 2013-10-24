@@ -1,5 +1,4 @@
-Trachyhystrichosphaera anelpa Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
-=======
+# Trachyhystrichosphaera anelpa Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemitrichia heterospora Q. Wang & Yu Li, 1995 SPECIES
-=======
+# Hemitrichia heterospora Q. Wang & Yu Li, 1995 SPECIES
 
 #### Status
 ACCEPTED

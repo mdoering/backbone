@@ -1,17 +1,16 @@
-Phyllachora stenostoma Ellis & Tracy, 1890 SPECIES
-=======
+# Phaeodothis winteri (Niessl) Aptroot, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 6(2): 76 (1890)
+Nova Hedwigia 60(3-4): 358 (1995)
 
 #### Original name
-Phyllachora stenostoma Ellis & Tracy, 1890
+Didymosphaeria winteri Niessl, 1875
 
 ### Remarks
 null

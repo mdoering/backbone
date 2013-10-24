@@ -1,5 +1,4 @@
-Aposphaeria reaumuriae T.M. Achundov SPECIES
-=======
+# Aposphaeria reaumuriae T.M. Achundov SPECIES
 
 #### Status
 ACCEPTED

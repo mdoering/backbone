@@ -1,5 +1,4 @@
-Spiropes dialii (Bat.) M.B. Ellis SPECIES
-=======
+# Spiropes dialii (Bat.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

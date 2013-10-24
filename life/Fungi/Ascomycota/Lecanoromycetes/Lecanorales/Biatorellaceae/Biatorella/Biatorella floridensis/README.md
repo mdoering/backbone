@@ -1,5 +1,4 @@
-Biatorella floridensis H. Magn. SPECIES
-=======
+# Biatorella floridensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

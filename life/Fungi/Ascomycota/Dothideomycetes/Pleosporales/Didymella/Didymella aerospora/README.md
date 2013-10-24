@@ -1,8 +1,7 @@
-Ascochyta aerospora Punith., 1981 SPECIES
-=======
+# Didymella aerospora Punith., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycol. Pap. 149: 9 (1981)
 
 #### Original name
-Ascochyta aerospora Punith., 1981
+Didymella aerospora Punith., 1981
 
 ### Remarks
 null

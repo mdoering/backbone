@@ -1,5 +1,4 @@
-Penicillium purpurogenum Stoll, 1923 SPECIES
-=======
+# Penicillium purpurogenum Stoll, 1923 SPECIES
 
 #### Status
 DOUBTFUL

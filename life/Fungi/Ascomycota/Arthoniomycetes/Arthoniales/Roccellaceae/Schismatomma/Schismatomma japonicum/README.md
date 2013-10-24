@@ -1,5 +1,4 @@
-Schismatomma japonicum Räsänen SPECIES
-=======
+# Schismatomma japonicum Räsänen SPECIES
 
 #### Status
 ACCEPTED

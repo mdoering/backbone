@@ -1,5 +1,4 @@
-Glaphyrocysta circularis K. Matsuoka SPECIES
-=======
+# Glaphyrocysta circularis K. Matsuoka SPECIES
 
 #### Status
 ACCEPTED

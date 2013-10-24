@@ -1,5 +1,4 @@
-Septoria melicae Pass., 1879 SPECIES
-=======
+# Septoria melicae Pass., 1879 SPECIES
 
 #### Status
 ACCEPTED

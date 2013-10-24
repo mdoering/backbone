@@ -1,5 +1,4 @@
-Lecanactis rubra Ertz & Sérus. SPECIES
-=======
+# Lecanactis rubra Ertz & Sérus. SPECIES
 
 #### Status
 ACCEPTED

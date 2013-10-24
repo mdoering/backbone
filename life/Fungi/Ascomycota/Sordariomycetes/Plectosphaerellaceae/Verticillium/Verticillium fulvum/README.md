@@ -1,5 +1,4 @@
-Verticillium fulvum (Schwein.) Sacc. SPECIES
-=======
+# Verticillium fulvum (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

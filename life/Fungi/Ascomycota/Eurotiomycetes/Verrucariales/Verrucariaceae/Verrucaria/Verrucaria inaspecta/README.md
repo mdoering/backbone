@@ -1,5 +1,4 @@
-Verrucaria inaspecta Servít SPECIES
-=======
+# Verrucaria inaspecta Servít SPECIES
 
 #### Status
 ACCEPTED

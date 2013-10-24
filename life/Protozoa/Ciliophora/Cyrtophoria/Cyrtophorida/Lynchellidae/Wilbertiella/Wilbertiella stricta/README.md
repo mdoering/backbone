@@ -1,8 +1,7 @@
-Chlamydonella stricta Deroux, 1976 SPECIES
-=======
+# Wilbertiella stricta (Deroux, 1976) Gong & Song, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

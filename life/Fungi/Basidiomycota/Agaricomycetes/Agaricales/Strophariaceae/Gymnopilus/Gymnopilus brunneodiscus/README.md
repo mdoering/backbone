@@ -1,5 +1,4 @@
-Gymnopilus brunneodiscus (Peck) Murrill SPECIES
-=======
+# Gymnopilus brunneodiscus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

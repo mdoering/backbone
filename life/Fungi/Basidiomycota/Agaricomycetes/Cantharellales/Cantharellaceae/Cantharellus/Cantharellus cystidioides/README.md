@@ -1,5 +1,4 @@
-Cantharellus cystidioides Lloyd SPECIES
-=======
+# Cantharellus cystidioides Lloyd SPECIES
 
 #### Status
 ACCEPTED

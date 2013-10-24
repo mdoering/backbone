@@ -1,5 +1,4 @@
-Echinothecium Zopf GENUS
-=======
+# Echinothecium Zopf GENUS
 
 #### Status
 ACCEPTED

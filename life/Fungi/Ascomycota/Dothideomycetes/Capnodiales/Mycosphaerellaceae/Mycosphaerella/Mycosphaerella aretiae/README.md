@@ -1,5 +1,4 @@
-Mycosphaerella aretiae Höhn. SPECIES
-=======
+# Mycosphaerella aretiae Höhn. SPECIES
 
 #### Status
 ACCEPTED

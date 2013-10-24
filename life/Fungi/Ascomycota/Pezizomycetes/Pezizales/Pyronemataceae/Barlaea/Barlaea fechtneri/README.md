@@ -1,5 +1,4 @@
-Barlaea fechtneri Velen. SPECIES
-=======
+# Barlaea fechtneri Velen. SPECIES
 
 #### Status
 ACCEPTED

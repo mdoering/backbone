@@ -1,5 +1,4 @@
-Phyllosticta polypodii-australis Henn. SPECIES
-=======
+# Phyllosticta polypodii-australis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizoplaca idahoensis Rosentr. & McCune SPECIES
-=======
+# Rhizoplaca idahoensis Rosentr. & McCune SPECIES
 
 #### Status
 ACCEPTED

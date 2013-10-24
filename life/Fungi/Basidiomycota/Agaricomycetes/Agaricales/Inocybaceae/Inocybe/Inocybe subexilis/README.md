@@ -1,5 +1,4 @@
-Inocybe subexilis Peck SPECIES
-=======
+# Inocybe subexilis Peck SPECIES
 
 #### Status
 ACCEPTED

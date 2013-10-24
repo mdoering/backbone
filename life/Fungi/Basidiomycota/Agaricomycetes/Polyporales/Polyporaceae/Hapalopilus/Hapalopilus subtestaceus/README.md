@@ -1,5 +1,4 @@
-Hapalopilus subtestaceus (Bres.) Bondartsev SPECIES
-=======
+# Hapalopilus subtestaceus (Bres.) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

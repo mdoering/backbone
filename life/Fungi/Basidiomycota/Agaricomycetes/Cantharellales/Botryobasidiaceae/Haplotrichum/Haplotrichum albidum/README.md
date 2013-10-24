@@ -1,5 +1,4 @@
-Haplotrichum albidum Sacc. SPECIES
-=======
+# Haplotrichum albidum Sacc. SPECIES
 
 #### Status
 ACCEPTED

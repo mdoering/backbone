@@ -1,5 +1,4 @@
-Heimatomyces spiniger Thaxt. SPECIES
-=======
+# Heimatomyces spiniger Thaxt. SPECIES
 
 #### Status
 ACCEPTED

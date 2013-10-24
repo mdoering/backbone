@@ -1,5 +1,4 @@
-Coniothyrium lupulinum Bres. SPECIES
-=======
+# Coniothyrium lupulinum Bres. SPECIES
 
 #### Status
 ACCEPTED

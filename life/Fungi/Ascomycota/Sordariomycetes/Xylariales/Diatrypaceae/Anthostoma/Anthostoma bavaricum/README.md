@@ -1,5 +1,4 @@
-Anthostoma bavaricum Petr. SPECIES
-=======
+# Anthostoma bavaricum Petr. SPECIES
 
 #### Status
 ACCEPTED

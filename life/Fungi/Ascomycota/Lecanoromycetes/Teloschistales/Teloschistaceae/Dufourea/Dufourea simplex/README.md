@@ -1,5 +1,4 @@
-Dufourea simplex Taylor SPECIES
-=======
+# Dufourea simplex Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Odontia obtusa (Schrad.) Gray SPECIES
-=======
+# Odontia obtusa (Schrad.) Gray SPECIES
 
 #### Status
 ACCEPTED

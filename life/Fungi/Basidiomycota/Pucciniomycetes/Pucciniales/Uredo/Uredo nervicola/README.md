@@ -1,5 +1,4 @@
-Uredo nervicola Tranzschel SPECIES
-=======
+# Uredo nervicola Tranzschel SPECIES
 
 #### Status
 ACCEPTED

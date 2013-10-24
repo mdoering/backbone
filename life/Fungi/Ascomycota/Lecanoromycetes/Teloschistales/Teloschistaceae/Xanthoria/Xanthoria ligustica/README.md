@@ -1,5 +1,4 @@
-Xanthoria ligustica M. Steiner SPECIES
-=======
+# Xanthoria ligustica M. Steiner SPECIES
 
 #### Status
 ACCEPTED

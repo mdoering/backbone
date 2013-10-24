@@ -1,5 +1,4 @@
-Humicola sardiniae De Bert. SPECIES
-=======
+# Humicola sardiniae De Bert. SPECIES
 
 #### Status
 ACCEPTED

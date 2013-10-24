@@ -1,5 +1,4 @@
-Lophiostoma anaxaeum Sacc. SPECIES
-=======
+# Lophiostoma anaxaeum Sacc. SPECIES
 
 #### Status
 ACCEPTED

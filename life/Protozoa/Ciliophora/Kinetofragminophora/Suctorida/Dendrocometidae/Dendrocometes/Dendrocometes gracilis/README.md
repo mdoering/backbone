@@ -1,5 +1,4 @@
-Dendrocometes gracilis Swarczewsky, 1928 SPECIES
-=======
+# Dendrocometes gracilis Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

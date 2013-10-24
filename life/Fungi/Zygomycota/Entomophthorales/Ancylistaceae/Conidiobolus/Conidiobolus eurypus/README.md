@@ -1,5 +1,4 @@
-Conidiobolus eurypus Drechsler SPECIES
-=======
+# Conidiobolus eurypus Drechsler SPECIES
 
 #### Status
 ACCEPTED

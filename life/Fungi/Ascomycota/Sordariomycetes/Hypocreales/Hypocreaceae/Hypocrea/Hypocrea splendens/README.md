@@ -1,5 +1,4 @@
-Hypocrea splendens W. Phillips & Plowr., 1885 SPECIES
-=======
+# Hypocrea splendens W. Phillips & Plowr., 1885 SPECIES
 
 #### Status
 ACCEPTED

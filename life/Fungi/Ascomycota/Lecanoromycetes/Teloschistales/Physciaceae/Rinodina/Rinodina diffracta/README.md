@@ -1,5 +1,4 @@
-Rinodina diffracta Müll. Arg. SPECIES
-=======
+# Rinodina diffracta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

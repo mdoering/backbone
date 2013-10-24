@@ -1,5 +1,4 @@
-Palaeoharpastum annulatum (Ilchenko, 1971) Fensome et al., 1990 SPECIES
-=======
+# Palaeoharpastum annulatum (Ilchenko, 1971) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

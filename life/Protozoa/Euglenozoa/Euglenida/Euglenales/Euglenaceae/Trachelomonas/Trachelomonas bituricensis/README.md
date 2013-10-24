@@ -1,5 +1,4 @@
-Trachelomonas bituricensis var. lotharingia De Pouques VARIETY
-=======
+# Trachelomonas bituricensis Wurtz SPECIES
 
 #### Status
 ACCEPTED

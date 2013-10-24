@@ -1,5 +1,4 @@
-Diploicia capensis (Taylor) C.W. Dodge SPECIES
-=======
+# Diploicia capensis (Taylor) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

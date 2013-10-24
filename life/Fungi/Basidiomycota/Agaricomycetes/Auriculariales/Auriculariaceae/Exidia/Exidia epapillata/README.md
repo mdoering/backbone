@@ -1,5 +1,4 @@
-Exidia epapillata Bref. SPECIES
-=======
+# Exidia epapillata Bref. SPECIES
 
 #### Status
 ACCEPTED

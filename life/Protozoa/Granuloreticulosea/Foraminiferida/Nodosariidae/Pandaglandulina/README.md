@@ -1,5 +1,4 @@
-Pandaglandulina Loeblich & Tappan, 1955 GENUS
-=======
+# Pandaglandulina Loeblich & Tappan, 1955 GENUS
 
 #### Status
 ACCEPTED

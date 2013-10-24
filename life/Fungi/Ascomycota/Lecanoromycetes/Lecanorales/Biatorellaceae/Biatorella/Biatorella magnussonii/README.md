@@ -1,5 +1,4 @@
-Biatorella magnussonii (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Biatorella magnussonii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

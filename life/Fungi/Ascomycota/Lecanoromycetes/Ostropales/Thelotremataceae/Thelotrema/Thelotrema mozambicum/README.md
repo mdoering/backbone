@@ -1,5 +1,4 @@
-Thelotrema mozambicum Vain. SPECIES
-=======
+# Thelotrema mozambicum Vain. SPECIES
 
 #### Status
 ACCEPTED

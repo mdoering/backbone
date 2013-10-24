@@ -1,5 +1,4 @@
-Micrhystridium bistchoense Staplin, 1961 SPECIES
-=======
+# Micrhystridium bistchoense Staplin, 1961 SPECIES
 
 #### Status
 ACCEPTED

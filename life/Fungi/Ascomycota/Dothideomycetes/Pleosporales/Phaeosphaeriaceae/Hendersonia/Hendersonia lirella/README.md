@@ -1,5 +1,4 @@
-Hendersonia lirella Cooke SPECIES
-=======
+# Hendersonia lirella Cooke SPECIES
 
 #### Status
 ACCEPTED

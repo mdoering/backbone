@@ -1,5 +1,4 @@
-Parmelia subaquila SPECIES
-=======
+# Parmelia subaquila SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium rigidum Lu Mengning & Wang Ruoshan, 1980 SPECIES
-=======
+# Micrhystridium rigidum Lu Mengning & Wang Ruoshan, 1980 SPECIES
 
 #### Status
 ACCEPTED

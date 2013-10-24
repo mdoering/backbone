@@ -1,14 +1,13 @@
-Usnea plicata var. pendulina (Motyka) Clauzade & Cl. Roux VARIETY
-=======
+# Usnea pendulina Motyka SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Soc. bot. Centre-Ouest, Nouv. sér. , num. spec. 7: 829 (1985)
+Lich. Gen. Usnea Monogr. 1: 134 (1936)
 
 #### Original name
 Usnea pendulina Motyka

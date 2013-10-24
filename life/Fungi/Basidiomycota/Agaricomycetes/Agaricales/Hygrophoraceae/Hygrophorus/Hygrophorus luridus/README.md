@@ -1,5 +1,4 @@
-Hygrophorus luridus Berk. & M.A. Curtis SPECIES
-=======
+# Hygrophorus luridus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

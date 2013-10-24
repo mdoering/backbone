@@ -1,5 +1,4 @@
-Trullula hysterioides f. medicaginis Ferraris FORM
-=======
+# Trullula hysterioides (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 732 (1884)
 
 #### Original name
-Trullula hysterioides f. medicaginis Ferraris
+Hormococcus hysterioides Speg.
 
 ### Remarks
 null

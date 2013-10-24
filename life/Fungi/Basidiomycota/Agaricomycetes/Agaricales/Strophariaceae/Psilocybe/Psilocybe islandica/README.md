@@ -1,5 +1,4 @@
-Psilocybe islandica (Kytöv.) E. Ludw. SPECIES
-=======
+# Psilocybe islandica (Kytöv.) E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

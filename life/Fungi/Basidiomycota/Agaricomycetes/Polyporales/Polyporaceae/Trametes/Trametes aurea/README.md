@@ -1,5 +1,4 @@
-Trametes aurea (Berk.) Sacc. SPECIES
-=======
+# Trametes aurea (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

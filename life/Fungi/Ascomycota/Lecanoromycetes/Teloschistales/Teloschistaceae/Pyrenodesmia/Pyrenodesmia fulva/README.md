@@ -1,5 +1,4 @@
-Pyrenodesmia fulva (Anzi) Rabenh. SPECIES
-=======
+# Pyrenodesmia fulva (Anzi) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercosporella laserpitii (Bres.) U. Braun SPECIES
-=======
+# Pseudocercosporella laserpitii (Bres.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

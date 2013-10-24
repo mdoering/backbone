@@ -1,5 +1,4 @@
-Trematosphaeria alhagi Nasyrov SPECIES
-=======
+# Trematosphaeria alhagi Nasyrov SPECIES
 
 #### Status
 ACCEPTED

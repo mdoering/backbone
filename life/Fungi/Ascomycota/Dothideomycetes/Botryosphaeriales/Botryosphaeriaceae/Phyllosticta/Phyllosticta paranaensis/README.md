@@ -1,5 +1,4 @@
-Phyllosticta paranaensis Speer SPECIES
-=======
+# Phyllosticta paranaensis Speer SPECIES
 
 #### Status
 ACCEPTED

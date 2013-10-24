@@ -1,5 +1,4 @@
-Aecidium thalictri-foetidi Magnus SPECIES
-=======
+# Aecidium thalictri-foetidi Magnus SPECIES
 
 #### Status
 ACCEPTED

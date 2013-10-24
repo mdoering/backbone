@@ -1,5 +1,4 @@
-Peptostreptococcus heliotrinreducens (Lanigan, 1983) Ezaki & Yabuuchi, 1986 SPECIES
-=======
+# Peptostreptococcus heliotrinreducens (Lanigan, 1983) Ezaki & Yabuuchi, 1986 SPECIES
 
 #### Status
 ACCEPTED

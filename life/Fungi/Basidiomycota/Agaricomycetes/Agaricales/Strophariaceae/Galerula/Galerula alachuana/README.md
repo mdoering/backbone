@@ -1,5 +1,4 @@
-Galerula alachuana Murrill SPECIES
-=======
+# Galerula alachuana Murrill SPECIES
 
 #### Status
 ACCEPTED

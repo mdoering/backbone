@@ -1,5 +1,4 @@
-Trogia papyracea (Berk. & M.A. Curtis) Corner SPECIES
-=======
+# Trogia papyracea (Berk. & M.A. Curtis) Corner SPECIES
 
 #### Status
 ACCEPTED

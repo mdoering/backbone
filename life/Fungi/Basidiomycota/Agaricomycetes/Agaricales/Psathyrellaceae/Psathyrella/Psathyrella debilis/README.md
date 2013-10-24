@@ -1,5 +1,4 @@
-Psathyrella debilis Peck SPECIES
-=======
+# Psathyrella debilis Peck SPECIES
 
 #### Status
 ACCEPTED

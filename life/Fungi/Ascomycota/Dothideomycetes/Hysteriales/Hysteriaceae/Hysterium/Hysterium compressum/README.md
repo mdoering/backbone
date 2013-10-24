@@ -1,5 +1,4 @@
-Hysterium compressum Ellis & Everh. SPECIES
-=======
+# Hysterium compressum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

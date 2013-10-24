@@ -1,5 +1,4 @@
-Ditrichomonas Cutler, 1919 GENUS
-=======
+# Ditrichomonas Cutler, 1919 GENUS
 
 #### Status
 ACCEPTED

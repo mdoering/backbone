@@ -1,5 +1,4 @@
-Inonotus baumii (Pilát) T. Wagner & M. Fisch. SPECIES
-=======
+# Inonotus baumii (Pilát) T. Wagner & M. Fisch. SPECIES
 
 #### Status
 ACCEPTED

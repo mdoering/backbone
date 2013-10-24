@@ -1,5 +1,4 @@
-Cladonia glebosa S. Hammer SPECIES
-=======
+# Cladonia glebosa S. Hammer SPECIES
 
 #### Status
 ACCEPTED

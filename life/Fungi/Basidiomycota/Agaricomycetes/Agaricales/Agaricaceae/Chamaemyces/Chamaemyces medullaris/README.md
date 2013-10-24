@@ -1,5 +1,4 @@
-Chamaemyces medullaris (Rick) Raithelh. SPECIES
-=======
+# Chamaemyces medullaris (Rick) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

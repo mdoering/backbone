@@ -1,5 +1,4 @@
-Phyllosticta calaritana Briosi & Cavara SPECIES
-=======
+# Phyllosticta calaritana Briosi & Cavara SPECIES
 
 #### Status
 ACCEPTED

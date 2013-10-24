@@ -1,5 +1,4 @@
-Bullera armeniaca Buhagiar, 1983 SPECIES
-=======
+# Bullera armeniaca Buhagiar, 1983 SPECIES
 
 #### Status
 ACCEPTED

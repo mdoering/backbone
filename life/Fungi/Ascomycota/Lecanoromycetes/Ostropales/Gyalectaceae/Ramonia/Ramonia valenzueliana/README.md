@@ -1,17 +1,16 @@
-Ramonia valenzueliana f. valenzueliana FORM
-=======
+# Ramonia valenzueliana (Mont.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. Tät. St Gall. naturw. Ges. (1862)
 
 #### Original name
-Ramonia valenzueliana f. valenzueliana
+Parmelia valenzueliana Mont.
 
 ### Remarks
 null

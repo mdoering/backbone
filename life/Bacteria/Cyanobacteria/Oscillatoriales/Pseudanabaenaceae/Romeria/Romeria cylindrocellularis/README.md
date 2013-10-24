@@ -1,5 +1,4 @@
-Romeria cylindrocellularis F. Hindák SPECIES
-=======
+# Romeria cylindrocellularis F. Hindák SPECIES
 
 #### Status
 ACCEPTED

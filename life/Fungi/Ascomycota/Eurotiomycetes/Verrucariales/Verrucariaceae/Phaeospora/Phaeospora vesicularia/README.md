@@ -1,5 +1,4 @@
-Phaeospora vesicularia anon. SPECIES
-=======
+# Phaeospora vesicularia anon. SPECIES
 
 #### Status
 ACCEPTED

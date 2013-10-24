@@ -1,5 +1,4 @@
-Lecidea thomsonii Zahlbr. SPECIES
-=======
+# Lecidea thomsonii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

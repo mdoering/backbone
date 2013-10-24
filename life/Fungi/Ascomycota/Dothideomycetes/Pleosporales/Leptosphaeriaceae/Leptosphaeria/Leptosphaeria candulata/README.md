@@ -1,5 +1,4 @@
-Leptosphaeria candulata Sacc. SPECIES
-=======
+# Leptosphaeria candulata Sacc. SPECIES
 
 #### Status
 ACCEPTED

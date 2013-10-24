@@ -1,5 +1,4 @@
-Sphaeria oreades Fr. SPECIES
-=======
+# Sphaeria oreades Fr. SPECIES
 
 #### Status
 ACCEPTED

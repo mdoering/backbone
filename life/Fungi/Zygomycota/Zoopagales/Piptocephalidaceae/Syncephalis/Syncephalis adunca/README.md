@@ -1,5 +1,4 @@
-Syncephalis adunca Vuill., 1903 SPECIES
-=======
+# Syncephalis adunca Vuill., 1903 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces sierrae-leonis W. Rossi SPECIES
-=======
+# Dimeromyces sierrae-leonis W. Rossi SPECIES
 
 #### Status
 ACCEPTED

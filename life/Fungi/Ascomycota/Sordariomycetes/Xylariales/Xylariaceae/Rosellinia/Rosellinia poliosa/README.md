@@ -1,5 +1,4 @@
-Rosellinia poliosa Ellis & Everh. SPECIES
-=======
+# Rosellinia poliosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

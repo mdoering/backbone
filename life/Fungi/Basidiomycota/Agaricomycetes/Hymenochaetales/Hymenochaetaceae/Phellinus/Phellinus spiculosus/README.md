@@ -1,14 +1,13 @@
-Poria spiculosa W.A. Campb. & R.W. Davidson, 1942 SPECIES
-=======
+# Phellinus spiculosus (W.A. Campb. & R.W. Davidson) Niemelä, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 34(1): 17 (1942)
+Suomalaisen Eläin- ja Kasvitieteellisen Seuran Vanamon Kasvitieteellisiä Julkaisuja 9: 57 (1972)
 
 #### Original name
 Poria spiculosa W.A. Campb. & R.W. Davidson, 1942

@@ -1,5 +1,4 @@
-Ripartitella Singer GENUS
-=======
+# Ripartitella Singer GENUS
 
 #### Status
 ACCEPTED

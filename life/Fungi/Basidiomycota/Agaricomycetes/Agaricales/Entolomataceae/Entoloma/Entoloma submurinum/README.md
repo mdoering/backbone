@@ -1,5 +1,4 @@
-Entoloma submurinum (Pat.) E. Horak SPECIES
-=======
+# Entoloma submurinum (Pat.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

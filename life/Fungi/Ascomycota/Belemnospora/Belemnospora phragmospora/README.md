@@ -1,5 +1,4 @@
-Belemnospora phragmospora Matsush. SPECIES
-=======
+# Belemnospora phragmospora Matsush. SPECIES
 
 #### Status
 ACCEPTED

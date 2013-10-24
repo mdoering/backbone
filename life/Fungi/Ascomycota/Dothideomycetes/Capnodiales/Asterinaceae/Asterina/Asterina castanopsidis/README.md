@@ -1,17 +1,16 @@
-Asterina castanopsis B. Song & Ouyang SPECIES
-=======
+# Asterina castanopsidis B. Song & Ouyang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Song, Ouyang & Hu, Acta Mycol. Sin. 15(3): 166 (1996)
 
 #### Original name
-Asterina castanopsis B. Song & Ouyang
+Asterina castanopsidis B. Song & Ouyang
 
 ### Remarks
 null

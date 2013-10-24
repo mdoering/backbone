@@ -1,5 +1,4 @@
-Helotium vincae Fuckel SPECIES
-=======
+# Helotium vincae Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema ogotae Zahlbr. SPECIES
-=======
+# Collema ogotae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria muricata J. C. David SPECIES
-=======
+# Pertusaria muricata J. C. David SPECIES
 
 #### Status
 ACCEPTED

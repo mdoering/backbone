@@ -1,5 +1,4 @@
-Lasiostictella Sherwood GENUS
-=======
+# Lasiostictella Sherwood GENUS
 
 #### Status
 ACCEPTED

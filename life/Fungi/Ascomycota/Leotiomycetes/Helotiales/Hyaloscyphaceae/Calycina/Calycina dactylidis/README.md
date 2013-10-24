@@ -1,5 +1,4 @@
-Calycina dactylidis (J. Schröt.) Kuntze SPECIES
-=======
+# Calycina dactylidis (J. Schröt.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

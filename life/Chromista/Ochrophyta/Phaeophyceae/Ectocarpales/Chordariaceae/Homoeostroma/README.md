@@ -1,5 +1,4 @@
-Homoeostroma J.Agardh, 1896 GENUS
-=======
+# Homoeostroma J.Agardh, 1896 GENUS
 
 #### Status
 SYNONYM

@@ -1,5 +1,4 @@
-Glaucoma wrzesniowskii Mereschkowsky, 1879 SPECIES
-=======
+# Glaucoma wrzesniowskii Mereschkowsky, 1879 SPECIES
 
 #### Status
 ACCEPTED

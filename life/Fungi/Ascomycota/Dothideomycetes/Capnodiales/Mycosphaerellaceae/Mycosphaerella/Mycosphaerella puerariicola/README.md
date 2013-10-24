@@ -1,17 +1,16 @@
-Mycosphaerella pueraricola Weimer & Luttr., 1948 SPECIES
-=======
+# Mycosphaerella puerariicola Weimer & Luttr., 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopathology 38(5): 350 (1948)
 
 #### Original name
-Mycosphaerella pueraricola Weimer & Luttr., 1948
+Mycosphaerella puerariicola Weimer & Luttr., 1948
 
 ### Remarks
 null

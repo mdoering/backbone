@@ -1,5 +1,4 @@
-Scutula subolivacea Velen. SPECIES
-=======
+# Scutula subolivacea Velen. SPECIES
 
 #### Status
 ACCEPTED

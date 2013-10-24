@@ -1,5 +1,4 @@
-Orthosphaeridium bispinosum Turner, 1984 SPECIES
-=======
+# Orthosphaeridium bispinosum Turner, 1984 SPECIES
 
 #### Status
 ACCEPTED

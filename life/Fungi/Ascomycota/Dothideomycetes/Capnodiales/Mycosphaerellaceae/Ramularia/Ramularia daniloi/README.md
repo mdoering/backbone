@@ -1,5 +1,4 @@
-Ramularia daniloi Bubák SPECIES
-=======
+# Ramularia daniloi Bubák SPECIES
 
 #### Status
 ACCEPTED

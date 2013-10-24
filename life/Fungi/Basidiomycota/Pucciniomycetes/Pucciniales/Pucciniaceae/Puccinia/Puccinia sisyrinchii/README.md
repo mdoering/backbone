@@ -1,5 +1,4 @@
-Puccinia sisyrinchii Mont. SPECIES
-=======
+# Puccinia sisyrinchii Mont. SPECIES
 
 #### Status
 ACCEPTED

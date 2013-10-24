@@ -1,5 +1,4 @@
-Phoma rohlenae Bubák SPECIES
-=======
+# Phoma rohlenae Bubák SPECIES
 
 #### Status
 ACCEPTED

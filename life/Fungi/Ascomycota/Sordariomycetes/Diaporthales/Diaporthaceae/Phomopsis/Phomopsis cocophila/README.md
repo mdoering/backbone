@@ -1,5 +1,4 @@
-Phomopsis cocophila (Speg.) Bond.-Mont. SPECIES
-=======
+# Phomopsis cocophila (Speg.) Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

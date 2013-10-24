@@ -1,5 +1,4 @@
-Ascoyunnania aquatica L. Cai & K.D. Hyde, 2005 SPECIES
-=======
+# Ascoyunnania aquatica L. Cai & K.D. Hyde, 2005 SPECIES
 
 #### Status
 ACCEPTED

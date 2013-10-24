@@ -1,5 +1,4 @@
-Aecidium pottsii Doidge SPECIES
-=======
+# Aecidium pottsii Doidge SPECIES
 
 #### Status
 ACCEPTED

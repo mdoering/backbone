@@ -1,17 +1,16 @@
-Placynthium dolichoterum var. dolichoterum (Nyl.) Trevis. VARIETY
-=======
+# Sphaerulina dolichotera (Nyl.) Vouaux, 1913 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 29: 37 (1913)
 
 #### Original name
-Placynthium dolichoterum var. dolichoterum (Nyl.) Trevis.
+Obryzum dolichoterum Nyl., 1872
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Passalora artemisiae Poonam Srivast. SPECIES
-=======
+# Passalora artemisiae Poonam Srivast. SPECIES
 
 #### Status
 ACCEPTED

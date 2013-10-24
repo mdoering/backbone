@@ -1,5 +1,4 @@
-Botryophoma salicis E. Radul. & Negru SPECIES
-=======
+# Botryophoma salicis E. Radul. & Negru SPECIES
 
 #### Status
 ACCEPTED

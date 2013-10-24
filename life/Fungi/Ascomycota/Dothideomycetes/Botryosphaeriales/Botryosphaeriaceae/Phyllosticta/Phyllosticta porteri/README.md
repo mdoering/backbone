@@ -1,5 +1,4 @@
-Phyllosticta porteri Tehon & E.Y. Daniels SPECIES
-=======
+# Phyllosticta porteri Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

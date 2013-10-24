@@ -1,5 +1,4 @@
-Flammula schinziana Henn., 1896 SPECIES
-=======
+# Flammula schinziana Henn., 1896 SPECIES
 
 #### Status
 ACCEPTED

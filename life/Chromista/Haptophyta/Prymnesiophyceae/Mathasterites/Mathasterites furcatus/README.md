@@ -1,5 +1,4 @@
-Mathasterites furcatus SPECIES
-=======
+# Mathasterites furcatus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halomonas axialensis Kaye et al., 2004 SPECIES
-=======
+# Halomonas axialensis Kaye et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

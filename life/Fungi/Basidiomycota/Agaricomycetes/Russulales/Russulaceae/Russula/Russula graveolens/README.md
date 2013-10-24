@@ -1,17 +1,16 @@
-Russula purpurea var. purpurea VARIETY
-=======
+# Russula graveolens Romell, 1885 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Assoc. Fr. Avancem. Sci. tab. 11 (1882)
+null
 
 #### Original name
-Russula purpurea var. purpurea
+Russula graveolens Romell, 1885
 
 ### Remarks
 null

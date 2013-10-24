@@ -1,5 +1,4 @@
-Lecidea xanthococcoidea Zahlbr. SPECIES
-=======
+# Lecidea xanthococcoidea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

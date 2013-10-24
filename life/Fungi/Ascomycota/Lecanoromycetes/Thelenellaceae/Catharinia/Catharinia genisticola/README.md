@@ -1,5 +1,4 @@
-Catharinia genisticola Fautrey & Lambotte SPECIES
-=======
+# Catharinia genisticola Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

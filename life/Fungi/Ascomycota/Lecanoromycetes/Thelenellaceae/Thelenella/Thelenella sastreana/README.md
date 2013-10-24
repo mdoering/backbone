@@ -1,5 +1,4 @@
-Thelenella sastreana R. C. Harris SPECIES
-=======
+# Thelenella sastreana R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prunulus confertus (Bolton) Gray SPECIES
-=======
+# Prunulus confertus (Bolton) Gray SPECIES
 
 #### Status
 ACCEPTED

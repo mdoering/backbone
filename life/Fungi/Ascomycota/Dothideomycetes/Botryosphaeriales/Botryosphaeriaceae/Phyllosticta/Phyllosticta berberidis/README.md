@@ -1,5 +1,4 @@
-Phyllosticta berberidis Westend., 1857 SPECIES
-=======
+# Phyllosticta berberidis Westend., 1857 SPECIES
 
 #### Status
 ACCEPTED

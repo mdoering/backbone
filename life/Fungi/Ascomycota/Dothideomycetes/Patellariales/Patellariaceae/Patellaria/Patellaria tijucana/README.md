@@ -1,5 +1,4 @@
-Patellaria tijucana Müll. Arg. SPECIES
-=======
+# Patellaria tijucana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

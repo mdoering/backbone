@@ -1,5 +1,4 @@
-Cercospora marsileae Ragunathan, Prasad & Purushoth. SPECIES
-=======
+# Cercospora marsileae Ragunathan, Prasad & Purushoth. SPECIES
 
 #### Status
 ACCEPTED

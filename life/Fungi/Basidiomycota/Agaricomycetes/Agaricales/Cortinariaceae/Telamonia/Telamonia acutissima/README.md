@@ -1,5 +1,4 @@
-Telamonia acutissima Velen. SPECIES
-=======
+# Telamonia acutissima Velen. SPECIES
 
 #### Status
 ACCEPTED

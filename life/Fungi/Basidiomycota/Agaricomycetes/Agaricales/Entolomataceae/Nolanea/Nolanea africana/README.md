@@ -1,5 +1,4 @@
-Nolanea africana Maire SPECIES
-=======
+# Nolanea africana Maire SPECIES
 
 #### Status
 ACCEPTED

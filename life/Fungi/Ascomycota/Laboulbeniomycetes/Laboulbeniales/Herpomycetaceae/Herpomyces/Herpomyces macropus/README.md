@@ -1,5 +1,4 @@
-Herpomyces macropus Speg. SPECIES
-=======
+# Herpomyces macropus Speg. SPECIES
 
 #### Status
 ACCEPTED

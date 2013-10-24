@@ -1,5 +1,4 @@
-Macrophoma hederacea Brunaud SPECIES
-=======
+# Macrophoma hederacea Brunaud SPECIES
 
 #### Status
 ACCEPTED

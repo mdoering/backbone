@@ -1,5 +1,4 @@
-Peziza subuliginosa Donadini SPECIES
-=======
+# Peziza subuliginosa Donadini SPECIES
 
 #### Status
 ACCEPTED

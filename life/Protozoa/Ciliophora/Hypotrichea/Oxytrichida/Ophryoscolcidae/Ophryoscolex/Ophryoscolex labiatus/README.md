@@ -1,5 +1,4 @@
-Ophryoscolex labiatus Awerinzew & Mutafowa, 1914 SPECIES
-=======
+# Ophryoscolex labiatus Awerinzew & Mutafowa, 1914 SPECIES
 
 #### Status
 ACCEPTED

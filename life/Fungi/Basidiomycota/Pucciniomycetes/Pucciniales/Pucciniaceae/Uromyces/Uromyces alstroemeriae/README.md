@@ -1,5 +1,4 @@
-Uromyces alstroemeriae Henn. SPECIES
-=======
+# Uromyces alstroemeriae Henn. SPECIES
 
 #### Status
 ACCEPTED

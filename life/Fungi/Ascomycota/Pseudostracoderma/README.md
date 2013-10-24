@@ -1,5 +1,4 @@
-Pseudostracoderma A.E. Martinez & Godeas GENUS
-=======
+# Pseudostracoderma A.E. Martinez & Godeas GENUS
 
 #### Status
 ACCEPTED

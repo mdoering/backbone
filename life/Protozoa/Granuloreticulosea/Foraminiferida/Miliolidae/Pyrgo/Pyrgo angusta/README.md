@@ -1,5 +1,4 @@
-Pyrgo angusta (Chapman) SPECIES
-=======
+# Pyrgo angusta (Chapman) SPECIES
 
 #### Status
 ACCEPTED

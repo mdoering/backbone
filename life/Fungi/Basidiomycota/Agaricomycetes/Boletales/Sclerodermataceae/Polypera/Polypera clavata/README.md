@@ -1,5 +1,4 @@
-Polypera clavata Pers. SPECIES
-=======
+# Polypera clavata Pers. SPECIES
 
 #### Status
 ACCEPTED

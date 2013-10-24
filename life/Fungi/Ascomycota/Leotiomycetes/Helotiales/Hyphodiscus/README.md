@@ -1,17 +1,16 @@
-Tanglella Höhn. GENUS
-=======
+# Hyphodiscus Kirschstein, 1906 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 127: 606 (1918)
+null
 
 #### Original name
-Tanglella Höhn.
+null
 
 ### Remarks
 null

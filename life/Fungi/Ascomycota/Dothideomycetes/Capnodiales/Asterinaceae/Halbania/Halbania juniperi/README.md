@@ -1,5 +1,4 @@
-Halbania juniperi Sawada SPECIES
-=======
+# Halbania juniperi Sawada SPECIES
 
 #### Status
 ACCEPTED

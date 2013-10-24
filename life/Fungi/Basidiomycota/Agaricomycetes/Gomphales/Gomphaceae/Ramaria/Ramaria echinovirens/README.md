@@ -1,5 +1,4 @@
-Ramaria echinovirens Corner, K.S. Thind & Dev, 1957 SPECIES
-=======
+# Ramaria echinovirens Corner, K.S. Thind & Dev, 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acinetobacter ursingii Nemec et al., 2001 SPECIES
-=======
+# Acinetobacter ursingii Nemec et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Licmophora ehrenbergi angustata (Grunow, 1862) Grunow, 1867 VARIETY
-=======
+# Licmophora ehrenbergi (Keutzing, 1844) SPECIES
 
 #### Status
 ACCEPTED

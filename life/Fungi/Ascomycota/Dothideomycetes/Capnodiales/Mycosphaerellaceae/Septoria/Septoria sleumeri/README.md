@@ -1,5 +1,4 @@
-Septoria sleumeri Petr. SPECIES
-=======
+# Septoria sleumeri Petr. SPECIES
 
 #### Status
 ACCEPTED

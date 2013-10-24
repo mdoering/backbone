@@ -1,5 +1,4 @@
-Leptocinclis GENUS
-=======
+# Leptocinclis GENUS
 
 #### Status
 ACCEPTED

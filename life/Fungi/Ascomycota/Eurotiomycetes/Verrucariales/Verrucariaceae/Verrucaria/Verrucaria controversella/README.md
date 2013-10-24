@@ -1,5 +1,4 @@
-Verrucaria controversella Servít SPECIES
-=======
+# Verrucaria controversella Servít SPECIES
 
 #### Status
 ACCEPTED

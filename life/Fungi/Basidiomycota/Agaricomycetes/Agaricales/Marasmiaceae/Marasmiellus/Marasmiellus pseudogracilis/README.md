@@ -1,5 +1,4 @@
-Marasmiellus pseudogracilis (Kühner & Maire) Singer SPECIES
-=======
+# Marasmiellus pseudogracilis (Kühner & Maire) Singer SPECIES
 
 #### Status
 ACCEPTED

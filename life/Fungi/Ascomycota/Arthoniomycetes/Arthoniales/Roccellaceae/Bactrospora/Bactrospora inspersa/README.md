@@ -1,17 +1,16 @@
-Bactrospora inspers Aptroot SPECIES
-=======
+# Bactrospora inspersa Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Aptroot, Saipunkaew, Sipman, Sparrius & Wolseley, Fungal Diversity 24: 89 (2007)
 
 #### Original name
-Bactrospora inspers Aptroot
+Bactrospora inspersa Aptroot
 
 ### Remarks
 null

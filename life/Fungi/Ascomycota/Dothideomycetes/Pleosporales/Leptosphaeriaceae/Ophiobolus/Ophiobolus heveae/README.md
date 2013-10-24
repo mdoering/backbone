@@ -1,5 +1,4 @@
-Ophiobolus heveae Henn. SPECIES
-=======
+# Ophiobolus heveae Henn. SPECIES
 
 #### Status
 ACCEPTED

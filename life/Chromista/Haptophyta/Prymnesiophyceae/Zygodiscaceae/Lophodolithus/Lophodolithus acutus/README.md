@@ -1,5 +1,4 @@
-Lophodolithus acutus Bukry & Percival, 1971 SPECIES
-=======
+# Lophodolithus acutus Bukry & Percival, 1971 SPECIES
 
 #### Status
 ACCEPTED

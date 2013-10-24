@@ -1,5 +1,4 @@
-Agaricus vespertinus Fr. SPECIES
-=======
+# Agaricus vespertinus Fr. SPECIES
 
 #### Status
 ACCEPTED

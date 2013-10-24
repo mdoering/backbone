@@ -1,5 +1,4 @@
-Acarospora xanthophana f. xanthophana FORM
-=======
+# Acarospora xanthophana (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acarospora xanthophana f. xanthophana
+Lecanora xanthophana Nyl.
 
 ### Remarks
 null

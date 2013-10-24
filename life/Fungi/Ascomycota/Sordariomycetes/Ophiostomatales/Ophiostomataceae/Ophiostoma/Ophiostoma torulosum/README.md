@@ -1,5 +1,4 @@
-Ophiostoma torulosum (Butin & G. Zimm.) Georg Hausner, J. Reid & Klassen SPECIES
-=======
+# Ophiostoma torulosum (Butin & G. Zimm.) Georg Hausner, J. Reid & Klassen SPECIES
 
 #### Status
 ACCEPTED

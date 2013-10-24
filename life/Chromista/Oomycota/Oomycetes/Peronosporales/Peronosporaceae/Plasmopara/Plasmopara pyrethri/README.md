@@ -1,5 +1,4 @@
-Plasmopara pyrethri Dudka & Burdjuk. SPECIES
-=======
+# Plasmopara pyrethri Dudka & Burdjuk. SPECIES
 
 #### Status
 ACCEPTED

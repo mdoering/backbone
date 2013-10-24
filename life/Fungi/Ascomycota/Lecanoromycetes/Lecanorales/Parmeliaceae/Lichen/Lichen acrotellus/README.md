@@ -1,5 +1,4 @@
-Lichen acrotellus SPECIES
-=======
+# Lichen acrotellus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascospora dendrostellerae (kravtzev) Kalymb. SPECIES
-=======
+# Ascospora dendrostellerae (kravtzev) Kalymb. SPECIES
 
 #### Status
 ACCEPTED

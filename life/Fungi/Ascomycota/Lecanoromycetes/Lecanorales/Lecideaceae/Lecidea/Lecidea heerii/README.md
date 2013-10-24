@@ -1,5 +1,4 @@
-Lecidea heerii Hepp SPECIES
-=======
+# Lecidea heerii Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria grimselana (A. Massal.) Trevis. SPECIES
-=======
+# Patellaria grimselana (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kyphomyces argentinensis (Speg.) I.I. Tav. SPECIES
-=======
+# Kyphomyces argentinensis (Speg.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

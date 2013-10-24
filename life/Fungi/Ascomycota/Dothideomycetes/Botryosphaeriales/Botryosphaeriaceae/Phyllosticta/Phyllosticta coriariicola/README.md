@@ -1,5 +1,4 @@
-Phyllosticta coriariicola Speg. SPECIES
-=======
+# Phyllosticta coriariicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalaria nummularoides Nyl. SPECIES
-=======
+# Omphalaria nummularoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

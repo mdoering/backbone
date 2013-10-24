@@ -1,5 +1,4 @@
-Amphisphaeria confertissima Ellis & Everh. SPECIES
-=======
+# Amphisphaeria confertissima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

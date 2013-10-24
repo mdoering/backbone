@@ -1,5 +1,4 @@
-Leandria momordicae Rangel, 1915 SPECIES
-=======
+# Leandria momordicae Rangel, 1915 SPECIES
 
 #### Status
 ACCEPTED

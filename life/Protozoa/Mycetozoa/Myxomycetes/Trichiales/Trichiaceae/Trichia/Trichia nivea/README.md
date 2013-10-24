@@ -1,5 +1,4 @@
-Trichia nivea O.F. Müll. SPECIES
-=======
+# Trichia nivea O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

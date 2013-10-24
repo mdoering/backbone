@@ -1,14 +1,13 @@
-Galera pulchella Velen., 1921 SPECIES
-=======
+# Conocybe pulchella (Velen.) Hauskn. & Svrcek, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceské Houby 3: 543 (1921)
+in Hausknecht, Czech Mycol. 51(1): 58 (1999)
 
 #### Original name
 Galera pulchella Velen., 1921

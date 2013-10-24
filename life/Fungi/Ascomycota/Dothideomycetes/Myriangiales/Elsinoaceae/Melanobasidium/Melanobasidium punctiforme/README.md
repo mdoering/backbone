@@ -1,5 +1,4 @@
-Melanobasidium punctiforme (Mont.) Höhn. SPECIES
-=======
+# Melanobasidium punctiforme (Mont.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

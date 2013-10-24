@@ -1,5 +1,4 @@
-Helvella hemisphaerica Wulfen SPECIES
-=======
+# Helvella hemisphaerica Wulfen SPECIES
 
 #### Status
 ACCEPTED

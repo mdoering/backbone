@@ -1,5 +1,4 @@
-Kocuria rhizophila Kovács et al., 1999 SPECIES
-=======
+# Kocuria rhizophila Kovács et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

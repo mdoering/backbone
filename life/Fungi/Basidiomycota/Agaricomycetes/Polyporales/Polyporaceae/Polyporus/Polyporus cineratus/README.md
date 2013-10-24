@@ -1,5 +1,4 @@
-Polyporus cineratus P. Karst. SPECIES
-=======
+# Polyporus cineratus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

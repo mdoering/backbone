@@ -1,8 +1,7 @@
-Pseudozygrhablithus latus Haq, 1971 SPECIES
-=======
+# Zygrhablithus bijugatus (Deflandre in Deflandre & Fert, 1954) Deflandre, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

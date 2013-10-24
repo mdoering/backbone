@@ -1,5 +1,4 @@
-Lecanora ameliensis Nyl. SPECIES
-=======
+# Lecanora ameliensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

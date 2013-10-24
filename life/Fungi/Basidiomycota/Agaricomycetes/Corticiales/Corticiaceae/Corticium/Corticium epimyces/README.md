@@ -1,5 +1,4 @@
-Corticium epimyces Bres. SPECIES
-=======
+# Corticium epimyces Bres. SPECIES
 
 #### Status
 ACCEPTED

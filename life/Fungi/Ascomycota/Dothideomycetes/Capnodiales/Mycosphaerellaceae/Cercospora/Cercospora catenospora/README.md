@@ -1,5 +1,4 @@
-Cercospora catenospora G.F. Atk. SPECIES
-=======
+# Cercospora catenospora G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

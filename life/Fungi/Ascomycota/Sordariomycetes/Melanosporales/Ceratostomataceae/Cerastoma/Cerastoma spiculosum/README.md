@@ -1,5 +1,4 @@
-Cerastoma spiculosum (Pers.) Quél. SPECIES
-=======
+# Cerastoma spiculosum (Pers.) Quél. SPECIES
 
 #### Status
 ACCEPTED

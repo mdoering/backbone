@@ -1,5 +1,4 @@
-Staurosirella africana (Hustedt) D.M.Williams & Round SPECIES
-=======
+# Staurosirella africana (Hustedt) D.M.Williams & Round SPECIES
 
 #### Status
 ACCEPTED

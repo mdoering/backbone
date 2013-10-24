@@ -1,5 +1,4 @@
-Parmentaria prostrata (Stirt.) Müll. Arg. SPECIES
-=======
+# Parmentaria prostrata (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

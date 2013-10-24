@@ -1,8 +1,7 @@
-Bresslaua terricola Foissner, 1987 SPECIES
-=======
+# Bresslauides terricola (Foissner, 1987) Foissner, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Bryosphaeria setifera Döbbeler, 1978 SPECIES
-=======
+# Bryosphaeria setifera Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED

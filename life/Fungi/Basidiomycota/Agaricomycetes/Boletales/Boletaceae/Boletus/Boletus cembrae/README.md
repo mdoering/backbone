@@ -1,5 +1,4 @@
-Boletus cembrae var. cembrae Stud.-Steinh. VARIETY
-=======
+# Boletus cembrae Stud.-Steinh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus cembrae var. cembrae Stud.-Steinh.
+Boletus cembrae Stud.-Steinh.
 
 ### Remarks
 null

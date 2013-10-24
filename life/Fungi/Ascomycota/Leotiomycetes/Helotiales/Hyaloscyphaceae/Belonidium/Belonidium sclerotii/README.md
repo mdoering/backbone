@@ -1,5 +1,4 @@
-Belonidium sclerotii A.L. Sm. SPECIES
-=======
+# Belonidium sclerotii A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

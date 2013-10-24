@@ -1,17 +1,16 @@
-Diplodia microsporella f. microsporella FORM
-=======
+# Microdiplodia microsporella (Sacc.) Sacc., 1906 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 357 (1884)
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1:
 
 #### Original name
-Diplodia microsporella f. microsporella
+Diplodia microsporella Sacc., 1884
 
 ### Remarks
 null

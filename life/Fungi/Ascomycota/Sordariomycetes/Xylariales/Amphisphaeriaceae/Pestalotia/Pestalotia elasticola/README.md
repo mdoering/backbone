@@ -1,5 +1,4 @@
-Pestalotia elasticola Henn. SPECIES
-=======
+# Pestalotia elasticola Henn. SPECIES
 
 #### Status
 ACCEPTED

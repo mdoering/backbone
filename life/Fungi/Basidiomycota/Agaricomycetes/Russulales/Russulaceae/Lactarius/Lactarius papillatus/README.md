@@ -1,5 +1,4 @@
-Lactarius papillatus Stubbe & Verbeken SPECIES
-=======
+# Lactarius papillatus Stubbe & Verbeken SPECIES
 
 #### Status
 ACCEPTED

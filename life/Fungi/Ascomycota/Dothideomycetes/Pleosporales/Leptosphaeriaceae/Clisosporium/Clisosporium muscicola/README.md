@@ -1,5 +1,4 @@
-Clisosporium muscicola (Ellis) Kuntze SPECIES
-=======
+# Clisosporium muscicola (Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

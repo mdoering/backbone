@@ -1,5 +1,4 @@
-Erinella rhaphidospora (Ellis) Sacc. SPECIES
-=======
+# Erinella rhaphidospora (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

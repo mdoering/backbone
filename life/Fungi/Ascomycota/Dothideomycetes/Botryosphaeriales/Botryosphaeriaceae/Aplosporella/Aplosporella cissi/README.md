@@ -1,17 +1,16 @@
-Aplosporella cissiae V.G. Rao SPECIES
-=======
+# Aplosporella cissi V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biovigyanam 12(1): 11 (1986)
 
 #### Original name
-Aplosporella cissiae V.G. Rao
+Aplosporella cissi V.G. Rao
 
 ### Remarks
 null

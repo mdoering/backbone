@@ -1,5 +1,4 @@
-Pseudospiropes hachijoensis Matsush., 1975 SPECIES
-=======
+# Pseudospiropes hachijoensis Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

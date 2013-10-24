@@ -1,5 +1,4 @@
-Austrobasidium pehueldeni Palfner, 2006 SPECIES
-=======
+# Austrobasidium pehueldeni Palfner, 2006 SPECIES
 
 #### Status
 ACCEPTED

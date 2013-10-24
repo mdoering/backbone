@@ -1,5 +1,4 @@
-Biatora pineti f. pineti FORM
-=======
+# Biatora pineti SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatora pineti f. pineti
+null
 
 ### Remarks
 null

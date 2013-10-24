@@ -1,5 +1,4 @@
-Louisettita Altiner & Bronnimann, 1980 GENUS
-=======
+# Louisettita Altiner & Bronnimann, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula brevis Romagn. ex Bon SPECIES
-=======
+# Russula brevis Romagn. ex Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema socotrense var. socotrense VARIETY
-=======
+# Collema socotrense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Collema socotrense var. socotrense
+Collema socotrense C.W. Dodge
 
 ### Remarks
 null

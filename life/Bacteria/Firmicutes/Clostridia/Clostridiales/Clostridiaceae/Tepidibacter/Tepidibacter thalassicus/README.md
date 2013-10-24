@@ -1,5 +1,4 @@
-Tepidibacter thalassicus Slobodkin et al., 2003 SPECIES
-=======
+# Tepidibacter thalassicus Slobodkin et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

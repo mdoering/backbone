@@ -1,5 +1,4 @@
-Pannaria cameroonensis C.W. Dodge SPECIES
-=======
+# Pannaria cameroonensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

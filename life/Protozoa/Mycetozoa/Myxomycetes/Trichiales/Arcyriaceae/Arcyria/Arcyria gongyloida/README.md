@@ -1,5 +1,4 @@
-Arcyria gongyloida Q. Wang & Yu Li, 1996 SPECIES
-=======
+# Arcyria gongyloida Q. Wang & Yu Li, 1996 SPECIES
 
 #### Status
 ACCEPTED

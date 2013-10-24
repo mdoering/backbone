@@ -1,5 +1,4 @@
-Globulotuba entosoleniformis Collins, 1958 SPECIES
-=======
+# Globulotuba entosoleniformis Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

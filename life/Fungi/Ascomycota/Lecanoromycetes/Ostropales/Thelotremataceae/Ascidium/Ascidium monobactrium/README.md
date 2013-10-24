@@ -1,5 +1,4 @@
-Ascidium monobactrium var. subgranulatum Nyl. VARIETY
-=======
+# Ascidium monobactrium Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascidium monobactrium var. subgranulatum Nyl.
+Ascidium monobactrium Nyl.
 
 ### Remarks
 null

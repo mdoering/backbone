@@ -1,5 +1,4 @@
-Neoeponides subornatus (Cushman) SPECIES
-=======
+# Neoeponides subornatus (Cushman) SPECIES
 
 #### Status
 ACCEPTED

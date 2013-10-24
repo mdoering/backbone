@@ -1,8 +1,7 @@
-Phyllachora pteridiicola Henn., 1904 SPECIES
-=======
+# Phyllachora rhopographoides G. Winter, 1887 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

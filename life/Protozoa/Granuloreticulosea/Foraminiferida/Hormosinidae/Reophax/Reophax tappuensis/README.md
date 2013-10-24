@@ -1,5 +1,4 @@
-Reophax tappuensis Asano, 1958 SPECIES
-=======
+# Reophax tappuensis Asano, 1958 SPECIES
 
 #### Status
 ACCEPTED

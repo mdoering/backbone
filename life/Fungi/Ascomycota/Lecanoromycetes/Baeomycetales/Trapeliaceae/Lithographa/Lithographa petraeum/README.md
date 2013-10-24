@@ -1,5 +1,4 @@
-Lithographa petraeum (Mont.) Nyl. SPECIES
-=======
+# Lithographa petraeum (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

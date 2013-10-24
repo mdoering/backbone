@@ -1,5 +1,4 @@
-Achlya leucosperma Cornu SPECIES
-=======
+# Achlya leucosperma Cornu SPECIES
 
 #### Status
 ACCEPTED

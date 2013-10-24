@@ -1,5 +1,4 @@
-Polyporus inopinus Lloyd SPECIES
-=======
+# Polyporus inopinus Lloyd SPECIES
 
 #### Status
 ACCEPTED

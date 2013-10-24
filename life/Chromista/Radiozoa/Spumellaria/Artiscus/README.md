@@ -1,5 +1,4 @@
-Artiscus Haeckel, 1881 GENUS
-=======
+# Artiscus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

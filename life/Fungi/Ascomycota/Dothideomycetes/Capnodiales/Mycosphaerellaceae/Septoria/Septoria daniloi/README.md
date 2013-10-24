@@ -1,5 +1,4 @@
-Septoria daniloi Bubák SPECIES
-=======
+# Septoria daniloi Bubák SPECIES
 
 #### Status
 ACCEPTED

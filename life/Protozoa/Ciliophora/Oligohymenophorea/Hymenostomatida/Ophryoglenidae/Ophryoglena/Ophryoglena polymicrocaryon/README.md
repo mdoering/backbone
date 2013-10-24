@@ -1,5 +1,4 @@
-Ophryoglena polymicrocaryon SPECIES
-=======
+# Ophryoglena polymicrocaryon SPECIES
 
 #### Status
 ACCEPTED

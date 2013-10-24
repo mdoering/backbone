@@ -1,5 +1,4 @@
-Physisporus subspadiceus (Fr.) Gillet SPECIES
-=======
+# Physisporus subspadiceus (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

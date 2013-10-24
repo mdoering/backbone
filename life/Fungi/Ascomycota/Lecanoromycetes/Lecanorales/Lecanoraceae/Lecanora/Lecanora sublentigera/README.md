@@ -1,5 +1,4 @@
-Lecanora sublentigera Jatta SPECIES
-=======
+# Lecanora sublentigera Jatta SPECIES
 
 #### Status
 ACCEPTED

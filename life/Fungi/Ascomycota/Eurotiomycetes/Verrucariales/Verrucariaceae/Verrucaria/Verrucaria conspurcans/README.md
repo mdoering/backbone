@@ -1,5 +1,4 @@
-Verrucaria conspurcans J. Steiner SPECIES
-=======
+# Verrucaria conspurcans J. Steiner SPECIES
 
 #### Status
 ACCEPTED

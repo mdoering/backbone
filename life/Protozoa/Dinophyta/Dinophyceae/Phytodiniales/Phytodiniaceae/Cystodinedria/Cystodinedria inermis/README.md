@@ -1,8 +1,7 @@
-Raciborskia inermis Geitler SPECIES
-=======
+# Cystodinedria inermis (Geitler) Pascher SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

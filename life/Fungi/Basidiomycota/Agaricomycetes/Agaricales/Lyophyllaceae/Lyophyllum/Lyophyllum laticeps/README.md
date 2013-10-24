@@ -1,5 +1,4 @@
-Lyophyllum laticeps (Kauffman) Clémençon SPECIES
-=======
+# Lyophyllum laticeps (Kauffman) Clémençon SPECIES
 
 #### Status
 ACCEPTED

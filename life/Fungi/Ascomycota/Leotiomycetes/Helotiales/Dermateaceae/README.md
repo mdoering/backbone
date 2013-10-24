@@ -1,5 +1,4 @@
-Dermateaceae Fr. FAMILY
-=======
+# Dermateaceae Fr. FAMILY
 
 #### Status
 ACCEPTED

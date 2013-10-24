@@ -1,5 +1,4 @@
-Neospongiostroma R.Endo GENUS
-=======
+# Neospongiostroma R.Endo GENUS
 
 #### Status
 ACCEPTED

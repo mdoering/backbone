@@ -1,5 +1,4 @@
-Agaricus opicus Fr. SPECIES
-=======
+# Agaricus opicus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolbitius acer Watling SPECIES
-=======
+# Bolbitius acer Watling SPECIES
 
 #### Status
 ACCEPTED

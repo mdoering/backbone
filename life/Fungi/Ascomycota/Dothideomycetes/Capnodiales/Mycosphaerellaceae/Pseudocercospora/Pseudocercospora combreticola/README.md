@@ -1,5 +1,4 @@
-Pseudocercospora combreticola U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora combreticola U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta puerariae Bat. & A.F. Vital SPECIES
-=======
+# Phyllosticta puerariae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

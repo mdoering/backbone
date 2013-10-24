@@ -1,5 +1,4 @@
-Meliola ilicis Henn. SPECIES
-=======
+# Meliola ilicis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Trematosphaeria astroidea (Fr.) Ellis, 1895 SPECIES
-=======
+# Eutypa astroidea (Fr.) Rappaz, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. helv. 2(3): 378 (1987)
 
 #### Original name
 Sphaeria astroidea Fr., 1818

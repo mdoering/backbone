@@ -1,5 +1,4 @@
-Parmelia gilva Pers. SPECIES
-=======
+# Parmelia gilva Pers. SPECIES
 
 #### Status
 ACCEPTED

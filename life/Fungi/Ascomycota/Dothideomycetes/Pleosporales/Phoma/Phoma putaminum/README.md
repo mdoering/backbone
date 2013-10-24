@@ -1,14 +1,13 @@
-Aposphaeria putaminum (Speg.) Sacc., 1884 SPECIES
-=======
+# Phoma putaminum Speg., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 177 (1884)
+Atti Soc. Crittogam. Ital. 3: 66 (1881)
 
 #### Original name
 Phoma putaminum Speg., 1881

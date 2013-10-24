@@ -1,5 +1,4 @@
-Cortinarius cotoneipes Rob. Henry SPECIES
-=======
+# Cortinarius cotoneipes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

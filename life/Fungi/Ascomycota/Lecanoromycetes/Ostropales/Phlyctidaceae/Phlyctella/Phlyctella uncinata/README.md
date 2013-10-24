@@ -1,5 +1,4 @@
-Phlyctella uncinata (Stirt.) Müll. Arg. SPECIES
-=======
+# Phlyctella uncinata (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

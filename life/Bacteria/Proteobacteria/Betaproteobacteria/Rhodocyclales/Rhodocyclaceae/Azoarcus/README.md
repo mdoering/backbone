@@ -1,5 +1,4 @@
-Azoarcus Reinhold-Hurek, Hurek, Gillis, Hoste, Vancanneyt, Kersters & De Ley, 1993 GENUS
-=======
+# Azoarcus Reinhold-Hurek, Hurek, Gillis, Hoste, Vancanneyt, Kersters & De Ley, 1993 GENUS
 
 #### Status
 ACCEPTED

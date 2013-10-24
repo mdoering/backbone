@@ -1,5 +1,4 @@
-Streptomyces cinereoruber subsp. fructofermentans SUBSPECIES
-=======
+# Streptomyces cinereoruber Corbaz et al., 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ramalina stevensii Elix, Laily & Samsuddin SPECIES
-=======
+# Ramalina stevensiae Elix, Laily & Samsuddin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 40: 42 (1991)
 
 #### Original name
-Ramalina stevensii Elix, Laily & Samsuddin
+Ramalina stevensiae Elix, Laily & Samsuddin
 
 ### Remarks
 null

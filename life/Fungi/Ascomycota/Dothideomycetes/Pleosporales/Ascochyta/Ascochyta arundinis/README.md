@@ -1,5 +1,4 @@
-Ascochyta arundinis Fautrey & Lambotte SPECIES
-=======
+# Ascochyta arundinis Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

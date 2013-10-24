@@ -1,17 +1,16 @@
-Synechoblastus nigrescens var. furfuraceum Arnold VARIETY
-=======
+# Collema furfuraceum (Arnold) Du Rietz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ark. Bot. 22A(no. 13): 5 (1929)
 
 #### Original name
-null
+Collema furfuraceum (Arnold) Du Rietz
 
 ### Remarks
 null

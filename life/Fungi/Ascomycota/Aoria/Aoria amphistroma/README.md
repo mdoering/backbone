@@ -1,5 +1,4 @@
-Aoria amphistroma Cif., 1962 SPECIES
-=======
+# Aoria amphistroma Cif., 1962 SPECIES
 
 #### Status
 ACCEPTED

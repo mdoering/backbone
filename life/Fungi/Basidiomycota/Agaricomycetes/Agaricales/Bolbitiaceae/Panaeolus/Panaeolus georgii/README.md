@@ -1,5 +1,4 @@
-Panaeolus georgii Szem. SPECIES
-=======
+# Panaeolus georgii Szem. SPECIES
 
 #### Status
 ACCEPTED

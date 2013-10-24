@@ -1,14 +1,13 @@
-Polyporus ligneus Berk., 1839 SPECIES
-=======
+# Fomitopsis lignea (Berk.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 1 3: 387 (1839)
+Norw. Jl Bot. 19: 231 (1972)
 
 #### Original name
 Polyporus ligneus Berk., 1839

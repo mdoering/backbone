@@ -1,5 +1,4 @@
-Dicarpella rubicola Katum. SPECIES
-=======
+# Dicarpella rubicola Katum. SPECIES
 
 #### Status
 ACCEPTED

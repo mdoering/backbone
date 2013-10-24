@@ -1,5 +1,4 @@
-Placodium spraguei Tuck. SPECIES
-=======
+# Placodium spraguei Tuck. SPECIES
 
 #### Status
 ACCEPTED

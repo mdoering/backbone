@@ -1,5 +1,4 @@
-Rickia admirabilis Thaxt. SPECIES
-=======
+# Rickia admirabilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

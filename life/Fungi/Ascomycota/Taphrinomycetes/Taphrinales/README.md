@@ -1,5 +1,4 @@
-Taphrinales Gäum. & C.W. Dodge ORDER
-=======
+# Taphrinales Gäum. & C.W. Dodge ORDER
 
 #### Status
 ACCEPTED

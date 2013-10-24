@@ -1,5 +1,4 @@
-Homothecium A. Massal. GENUS
-=======
+# Homothecium A. Massal. GENUS
 
 #### Status
 ACCEPTED

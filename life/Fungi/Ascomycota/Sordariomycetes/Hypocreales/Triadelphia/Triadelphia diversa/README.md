@@ -1,5 +1,4 @@
-Triadelphia diversa Tzean & J.L. Chen, 1989 SPECIES
-=======
+# Triadelphia diversa Tzean & J.L. Chen, 1989 SPECIES
 
 #### Status
 ACCEPTED

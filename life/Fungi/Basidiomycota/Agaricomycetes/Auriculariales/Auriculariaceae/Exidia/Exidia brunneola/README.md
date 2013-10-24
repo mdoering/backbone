@@ -1,5 +1,4 @@
-Exidia brunneola P. Karst. SPECIES
-=======
+# Exidia brunneola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

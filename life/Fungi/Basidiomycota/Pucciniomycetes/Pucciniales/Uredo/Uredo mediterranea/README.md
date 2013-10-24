@@ -1,5 +1,4 @@
-Uredo mediterranea Lindr. SPECIES
-=======
+# Uredo mediterranea Lindr. SPECIES
 
 #### Status
 ACCEPTED

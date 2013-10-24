@@ -1,17 +1,16 @@
-Peronospora parasitica f. sp FORM
-=======
+# Hyaloperonospora parasitica (Pers.) Constant., 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neth. Jl Pl. Path. 78(Suppl. 1): 33 (1972)
+in Constantinescu & Fatehi, Nova Hedwigia 74(3-4): 310 (2002)
 
 #### Original name
-Peronospora parasitica f. sp
+Botrytis parasitica Schleid., 1845
 
 ### Remarks
 null

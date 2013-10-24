@@ -1,5 +1,4 @@
-Opegrapha interductula Nyl. SPECIES
-=======
+# Opegrapha interductula Nyl. SPECIES
 
 #### Status
 ACCEPTED

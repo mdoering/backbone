@@ -1,5 +1,4 @@
-Dicoccum truncatum Corda SPECIES
-=======
+# Dicoccum truncatum Corda SPECIES
 
 #### Status
 ACCEPTED

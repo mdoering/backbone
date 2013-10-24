@@ -1,5 +1,4 @@
-Haptoglossaceae M.W. Dick FAMILY
-=======
+# Haptoglossaceae M.W. Dick FAMILY
 
 #### Status
 ACCEPTED

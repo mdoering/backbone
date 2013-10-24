@@ -1,5 +1,4 @@
-Calicium montanum Tibell SPECIES
-=======
+# Calicium montanum Tibell SPECIES
 
 #### Status
 ACCEPTED

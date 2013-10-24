@@ -1,5 +1,4 @@
-Ceriomyces scabripes (Peck) Murrill SPECIES
-=======
+# Ceriomyces scabripes (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Otosphaera Haeckel, 1887 GENUS
-=======
+# Otosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

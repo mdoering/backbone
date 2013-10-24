@@ -1,5 +1,4 @@
-Heliomyces pauciradiatus SPECIES
-=======
+# Heliomyces pauciradiatus SPECIES
 
 #### Status
 ACCEPTED

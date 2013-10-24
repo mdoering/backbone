@@ -1,5 +1,4 @@
-Thelidium minutum C.W. Dodge SPECIES
-=======
+# Thelidium minutum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thielavia magna (Bainier) Malloch & Cain SPECIES
-=======
+# Thielavia magna (Bainier) Malloch & Cain SPECIES
 
 #### Status
 ACCEPTED

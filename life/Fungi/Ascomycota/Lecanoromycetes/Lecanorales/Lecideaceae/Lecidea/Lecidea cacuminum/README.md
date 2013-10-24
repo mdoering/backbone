@@ -1,5 +1,4 @@
-Lecidea cacuminum Vain. SPECIES
-=======
+# Lecidea cacuminum Vain. SPECIES
 
 #### Status
 ACCEPTED

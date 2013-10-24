@@ -1,17 +1,16 @@
-Mamilla Scot, 1974 GENUS
-=======
+# Jascottella Huddleston & Haman, 1982 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Can. Petrol. Geol. 22: 171.
+Proceedings Biol. Soc. Wash. 95 (2): 421.
 
 #### Original name
-null
+Mamilla Scot, 1974
 
 ### Remarks
 null

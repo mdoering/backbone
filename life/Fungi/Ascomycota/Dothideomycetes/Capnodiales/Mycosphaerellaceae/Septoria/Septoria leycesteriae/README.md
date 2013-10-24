@@ -1,5 +1,4 @@
-Septoria leycesteriae Sacc. & Speg. SPECIES
-=======
+# Septoria leycesteriae Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

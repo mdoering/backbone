@@ -1,5 +1,4 @@
-Cylindrosporium dictamni (Fuckel) Lebedeva SPECIES
-=======
+# Cylindrosporium dictamni (Fuckel) Lebedeva SPECIES
 
 #### Status
 ACCEPTED

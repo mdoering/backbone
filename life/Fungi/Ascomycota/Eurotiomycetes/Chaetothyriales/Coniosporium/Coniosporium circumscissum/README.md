@@ -1,5 +1,4 @@
-Coniosporium circumscissum (Berk. & Broome) Sacc. SPECIES
-=======
+# Coniosporium circumscissum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

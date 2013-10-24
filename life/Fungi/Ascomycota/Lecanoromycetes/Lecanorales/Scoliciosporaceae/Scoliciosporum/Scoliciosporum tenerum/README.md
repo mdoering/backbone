@@ -1,5 +1,4 @@
-Scoliciosporum tenerum Lönnr. SPECIES
-=======
+# Scoliciosporum tenerum Lönnr. SPECIES
 
 #### Status
 ACCEPTED

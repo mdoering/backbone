@@ -1,5 +1,4 @@
-Diclonomyces subgaleatus Thaxt., 1931 SPECIES
-=======
+# Diclonomyces subgaleatus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

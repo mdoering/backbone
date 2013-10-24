@@ -1,5 +1,4 @@
-Grahamia Tartakowsky, 1910 GENUS
-=======
+# Grahamia Tartakowsky, 1910 GENUS
 
 #### Status
 ACCEPTED

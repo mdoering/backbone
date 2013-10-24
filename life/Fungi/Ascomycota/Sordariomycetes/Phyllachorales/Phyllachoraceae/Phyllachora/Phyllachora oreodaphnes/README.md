@@ -1,14 +1,13 @@
-Physalospora oreodaphnes Theiss., 1910 SPECIES
-=======
+# Phyllachora oreodaphnes (Theiss.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Zbl. 27: 400 (1910)
+Annls mycol. 13(5/6): 480 (1915)
 
 #### Original name
 Physalospora oreodaphnes Theiss., 1910

@@ -1,5 +1,4 @@
-Sphaerella morphaea Sacc. SPECIES
-=======
+# Sphaerella morphaea Sacc. SPECIES
 
 #### Status
 ACCEPTED

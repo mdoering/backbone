@@ -1,5 +1,4 @@
-Psilocybe liniformans var. liniformans VARIETY
-=======
+# Psilocybe liniformans Guzmán & Bas SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Persoonia 9(2): 233 (1977)
 
 #### Original name
-Psilocybe liniformans var. liniformans
+Psilocybe liniformans Guzmán & Bas
 
 ### Remarks
 null

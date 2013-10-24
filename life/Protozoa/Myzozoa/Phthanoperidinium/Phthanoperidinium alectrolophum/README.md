@@ -1,5 +1,4 @@
-Phthanoperidinium alectrolophum Eaton, 1976 SPECIES
-=======
+# Phthanoperidinium alectrolophum Eaton, 1976 SPECIES
 
 #### Status
 ACCEPTED

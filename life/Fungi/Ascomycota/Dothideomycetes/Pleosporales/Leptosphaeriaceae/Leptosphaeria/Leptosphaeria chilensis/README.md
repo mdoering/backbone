@@ -1,5 +1,4 @@
-Leptosphaeria chilensis Speg. SPECIES
-=======
+# Leptosphaeria chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

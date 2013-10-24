@@ -1,5 +1,4 @@
-Odontia setosa Rick SPECIES
-=======
+# Odontia setosa Rick SPECIES
 
 #### Status
 ACCEPTED

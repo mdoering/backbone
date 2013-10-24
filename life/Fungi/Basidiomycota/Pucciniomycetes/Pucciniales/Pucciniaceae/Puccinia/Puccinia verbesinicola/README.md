@@ -1,5 +1,4 @@
-Puccinia verbesinicola Dietel SPECIES
-=======
+# Puccinia verbesinicola Dietel SPECIES
 
 #### Status
 ACCEPTED

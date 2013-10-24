@@ -1,5 +1,4 @@
-Chalara angustata T. Kowalski & Halmschl., 1996 SPECIES
-=======
+# Chalara angustata T. Kowalski & Halmschl., 1996 SPECIES
 
 #### Status
 ACCEPTED

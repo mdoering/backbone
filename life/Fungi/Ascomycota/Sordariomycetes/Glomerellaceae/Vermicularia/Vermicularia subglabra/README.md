@@ -1,5 +1,4 @@
-Vermicularia subglabra Cooke & Harkn. SPECIES
-=======
+# Vermicularia subglabra Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

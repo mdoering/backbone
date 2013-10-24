@@ -1,8 +1,7 @@
-Gymnosporangium solenoides F. Kern, 1911 SPECIES
-=======
+# Gymnosporangium miyabei G. Yamada & I. Miyake, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Gymnosporangium solenoides F. Kern, 1911
+Gymnosporangium miyabei G. Yamada & I. Miyake, 1908
 
 ### Remarks
 null

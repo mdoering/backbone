@@ -1,5 +1,4 @@
-Gyalolechia GENUS
-=======
+# Gyalolechia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Striglia vermicularis (Pers.) Kuntze SPECIES
-=======
+# Striglia vermicularis (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

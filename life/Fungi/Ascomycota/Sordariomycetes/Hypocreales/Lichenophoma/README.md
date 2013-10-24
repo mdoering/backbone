@@ -1,5 +1,4 @@
-Lichenophoma Keissl. GENUS
-=======
+# Lichenophoma Keissl. GENUS
 
 #### Status
 ACCEPTED

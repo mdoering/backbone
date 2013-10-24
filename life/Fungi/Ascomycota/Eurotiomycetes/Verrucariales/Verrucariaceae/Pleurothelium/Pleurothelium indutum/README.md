@@ -1,5 +1,4 @@
-Pleurothelium indutum (Nyl.) Müll. Arg. SPECIES
-=======
+# Pleurothelium indutum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

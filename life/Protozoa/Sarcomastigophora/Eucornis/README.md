@@ -1,5 +1,4 @@
-Eucornis GENUS
-=======
+# Eucornis GENUS
 
 #### Status
 ACCEPTED

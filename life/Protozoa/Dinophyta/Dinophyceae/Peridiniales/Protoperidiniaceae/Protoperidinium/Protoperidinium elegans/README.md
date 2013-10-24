@@ -1,5 +1,4 @@
-Protoperidinium elegans (Cleve) Balech SPECIES
-=======
+# Protoperidinium elegans (Cleve) Balech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calloria glagosa (Ellis & Everh.) Seaver SPECIES
-=======
+# Calloria glagosa (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

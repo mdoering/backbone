@@ -1,5 +1,4 @@
-Eurasina G.R.W. Arnold, 1970 GENUS
-=======
+# Eurasina G.R.W. Arnold, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena armeniaca Beeli SPECIES
-=======
+# Mycena armeniaca Beeli SPECIES
 
 #### Status
 ACCEPTED

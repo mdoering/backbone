@@ -1,5 +1,4 @@
-Lichen scutatus Wulfen SPECIES
-=======
+# Lichen scutatus Wulfen SPECIES
 
 #### Status
 ACCEPTED

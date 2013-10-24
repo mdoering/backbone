@@ -1,5 +1,4 @@
-Bulliardella sabinae Kirschst. SPECIES
-=======
+# Bulliardella sabinae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

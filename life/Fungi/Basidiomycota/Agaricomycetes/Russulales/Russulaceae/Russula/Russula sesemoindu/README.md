@@ -1,17 +1,16 @@
-Russula sesmoindu Beeli SPECIES
-=======
+# Russula sesemoindu Beeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 60(2): 168 (1928)
 
 #### Original name
-Russula sesmoindu Beeli
+Russula sesemoindu Beeli
 
 ### Remarks
 null

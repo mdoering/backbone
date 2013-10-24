@@ -1,5 +1,4 @@
-Geopetalum betulinum (Peck) Murrill SPECIES
-=======
+# Geopetalum betulinum (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

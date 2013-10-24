@@ -1,5 +1,4 @@
-Clitocybe laccatinus (Berk.) Brittleb. SPECIES
-=======
+# Clitocybe laccatinus (Berk.) Brittleb. SPECIES
 
 #### Status
 ACCEPTED

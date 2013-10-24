@@ -1,5 +1,4 @@
-Candida transvaalensis Kurtzman SPECIES
-=======
+# Candida transvaalensis Kurtzman SPECIES
 
 #### Status
 ACCEPTED

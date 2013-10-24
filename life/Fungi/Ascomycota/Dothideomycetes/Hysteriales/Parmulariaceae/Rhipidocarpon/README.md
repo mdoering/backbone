@@ -1,5 +1,4 @@
-Rhipidocarpon (Theiss.) Theiss. & Syd. GENUS
-=======
+# Rhipidocarpon (Theiss.) Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

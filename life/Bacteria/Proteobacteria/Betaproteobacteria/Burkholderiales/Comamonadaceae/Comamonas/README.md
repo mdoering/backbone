@@ -1,5 +1,4 @@
-Comamonas (ex Davis & Park, 1962) De Vos et al., 1985 GENUS
-=======
+# Comamonas (ex Davis & Park, 1962) De Vos et al., 1985 GENUS
 
 #### Status
 ACCEPTED

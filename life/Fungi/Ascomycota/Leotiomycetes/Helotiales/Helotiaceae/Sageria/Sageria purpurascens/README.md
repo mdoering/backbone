@@ -1,5 +1,4 @@
-Sageria purpurascens (Ellis & Everh.) Verkley SPECIES
-=======
+# Sageria purpurascens (Ellis & Everh.) Verkley SPECIES
 
 #### Status
 ACCEPTED

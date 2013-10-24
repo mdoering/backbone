@@ -1,5 +1,4 @@
-Calicium triste Nyl. SPECIES
-=======
+# Calicium triste Nyl. SPECIES
 
 #### Status
 ACCEPTED

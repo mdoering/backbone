@@ -1,5 +1,4 @@
-Chaetomiopsis Mustafa & Abdul-Wahid GENUS
-=======
+# Chaetomiopsis Mustafa & Abdul-Wahid GENUS
 
 #### Status
 ACCEPTED

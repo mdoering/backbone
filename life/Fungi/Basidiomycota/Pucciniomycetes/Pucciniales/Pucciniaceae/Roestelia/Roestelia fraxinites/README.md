@@ -1,5 +1,4 @@
-Roestelia fraxinites Schwein. SPECIES
-=======
+# Roestelia fraxinites Schwein. SPECIES
 
 #### Status
 ACCEPTED

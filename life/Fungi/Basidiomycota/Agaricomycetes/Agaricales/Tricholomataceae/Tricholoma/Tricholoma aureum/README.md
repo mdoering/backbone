@@ -1,5 +1,4 @@
-Tricholoma aureum (Bull.) Sacc. SPECIES
-=======
+# Tricholoma aureum (Bull.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

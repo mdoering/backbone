@@ -1,5 +1,4 @@
-Peyerimhoffiella elegans Maire, 1916 SPECIES
-=======
+# Peyerimhoffiella elegans Maire, 1916 SPECIES
 
 #### Status
 ACCEPTED

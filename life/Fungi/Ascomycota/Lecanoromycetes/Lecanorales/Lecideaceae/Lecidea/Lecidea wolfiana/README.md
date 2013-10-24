@@ -1,5 +1,4 @@
-Lecidea wolfiana Müll. Arg. SPECIES
-=======
+# Lecidea wolfiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

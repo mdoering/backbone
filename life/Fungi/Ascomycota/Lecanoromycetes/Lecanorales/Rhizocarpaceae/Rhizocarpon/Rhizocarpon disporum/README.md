@@ -1,5 +1,4 @@
-Rhizocarpon disporum var. disporum VARIETY
-=======
+# Rhizocarpon disporum (Nägeli ex Hepp) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Revue mycol. , Toulouse 1: 170 (1879)
 
 #### Original name
-Rhizocarpon disporum var. disporum
+Lecidea dispora Nägeli ex Hepp
 
 ### Remarks
 null

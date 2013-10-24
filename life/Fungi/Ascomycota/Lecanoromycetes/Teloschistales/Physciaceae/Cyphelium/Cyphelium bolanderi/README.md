@@ -1,5 +1,4 @@
-Cyphelium bolanderi (Tuck.) Zahlbr. SPECIES
-=======
+# Cyphelium bolanderi (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

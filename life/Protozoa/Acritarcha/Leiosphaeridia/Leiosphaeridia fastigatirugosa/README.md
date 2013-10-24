@@ -1,5 +1,4 @@
-Leiosphaeridia fastigatirugosa Staplin, 1961 ex Downie & Sarjeant, 1965 SPECIES
-=======
+# Leiosphaeridia fastigatirugosa Staplin, 1961 ex Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

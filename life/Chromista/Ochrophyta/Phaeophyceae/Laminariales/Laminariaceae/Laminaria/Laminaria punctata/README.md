@@ -1,5 +1,4 @@
-Laminaria punctata Bory de St.-Vincent SPECIES
-=======
+# Laminaria punctata Bory de St.-Vincent SPECIES
 
 #### Status
 ACCEPTED

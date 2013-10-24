@@ -1,5 +1,4 @@
-Bolivina difformis SPECIES
-=======
+# Bolivina difformis SPECIES
 
 #### Status
 ACCEPTED

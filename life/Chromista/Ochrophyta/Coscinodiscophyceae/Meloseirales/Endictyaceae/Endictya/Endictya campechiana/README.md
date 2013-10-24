@@ -1,5 +1,4 @@
-Endictya campechiana (Grunow in Schmidt et al.) De Toni, 1894 SPECIES
-=======
+# Endictya campechiana (Grunow in Schmidt et al.) De Toni, 1894 SPECIES
 
 #### Status
 ACCEPTED

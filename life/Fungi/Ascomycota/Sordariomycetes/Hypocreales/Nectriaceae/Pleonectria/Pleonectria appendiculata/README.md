@@ -1,5 +1,4 @@
-Pleonectria appendiculata Vouaux SPECIES
-=======
+# Pleonectria appendiculata Vouaux SPECIES
 
 #### Status
 ACCEPTED

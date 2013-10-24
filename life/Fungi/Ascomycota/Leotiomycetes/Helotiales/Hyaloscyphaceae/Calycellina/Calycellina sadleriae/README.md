@@ -1,5 +1,4 @@
-Calycellina sadleriae (F. Stevens & P.A. Young) Dennis SPECIES
-=======
+# Calycellina sadleriae (F. Stevens & P.A. Young) Dennis SPECIES
 
 #### Status
 ACCEPTED

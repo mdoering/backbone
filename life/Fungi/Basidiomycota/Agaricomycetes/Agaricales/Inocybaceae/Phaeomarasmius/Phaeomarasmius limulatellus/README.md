@@ -1,5 +1,4 @@
-Phaeomarasmius limulatellus Singer SPECIES
-=======
+# Phaeomarasmius limulatellus Singer SPECIES
 
 #### Status
 ACCEPTED

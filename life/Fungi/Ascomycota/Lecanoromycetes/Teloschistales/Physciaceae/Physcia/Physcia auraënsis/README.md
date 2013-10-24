@@ -1,5 +1,4 @@
-Physcia auraënsis Vain. ex Räsänen SPECIES
-=======
+# Physcia auraënsis Vain. ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

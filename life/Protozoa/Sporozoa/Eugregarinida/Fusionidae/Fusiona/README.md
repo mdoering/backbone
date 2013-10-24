@@ -1,5 +1,4 @@
-Fusiona Stejskal, 1965 GENUS
-=======
+# Fusiona Stejskal, 1965 GENUS
 
 #### Status
 ACCEPTED

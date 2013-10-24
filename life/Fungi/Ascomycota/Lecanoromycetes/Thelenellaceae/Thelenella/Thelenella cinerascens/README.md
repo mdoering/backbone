@@ -1,5 +1,4 @@
-Thelenella cinerascens (Vain.) R. C. Harris SPECIES
-=======
+# Thelenella cinerascens (Vain.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

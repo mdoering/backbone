@@ -1,5 +1,4 @@
-Lenzites applanata Klotzsch SPECIES
-=======
+# Lenzites applanata Klotzsch SPECIES
 
 #### Status
 ACCEPTED

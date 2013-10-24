@@ -1,5 +1,4 @@
-Gloeosporium borgianum Sacc. SPECIES
-=======
+# Gloeosporium borgianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

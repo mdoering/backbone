@@ -1,5 +1,4 @@
-Annulatascus K.D. Hyde GENUS
-=======
+# Annulatascus K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metopus barbatus Kahl, 1927 SPECIES
-=======
+# Metopus barbatus Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

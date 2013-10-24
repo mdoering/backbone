@@ -1,5 +1,4 @@
-Chaetomium flexuosum Palliser SPECIES
-=======
+# Chaetomium flexuosum Palliser SPECIES
 
 #### Status
 ACCEPTED

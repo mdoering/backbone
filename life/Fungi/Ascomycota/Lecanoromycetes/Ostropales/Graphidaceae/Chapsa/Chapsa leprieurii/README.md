@@ -1,17 +1,16 @@
-Thelotrema leucastrum var. leucastrum Tuck. VARIETY
-=======
+# Chapsa leprieurii (Mont.) Frisch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 92: 105 (2006)
 
 #### Original name
-Thelotrema leucastrum var. leucastrum Tuck.
+Stictis leprieurii Mont.
 
 ### Remarks
 null

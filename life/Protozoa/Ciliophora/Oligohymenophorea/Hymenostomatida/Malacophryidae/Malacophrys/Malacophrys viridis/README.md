@@ -1,5 +1,4 @@
-Malacophrys viridis Foissner, 1980 SPECIES
-=======
+# Malacophrys viridis Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

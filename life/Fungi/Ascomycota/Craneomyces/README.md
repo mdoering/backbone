@@ -1,5 +1,4 @@
-Craneomyces Morgan-Jones, R.C. Sinclair & Eicker GENUS
-=======
+# Craneomyces Morgan-Jones, R.C. Sinclair & Eicker GENUS
 
 #### Status
 ACCEPTED

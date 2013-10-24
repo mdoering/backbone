@@ -1,5 +1,4 @@
-Pseudasterodon hyalinus (Rick) Rick SPECIES
-=======
+# Pseudasterodon hyalinus (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

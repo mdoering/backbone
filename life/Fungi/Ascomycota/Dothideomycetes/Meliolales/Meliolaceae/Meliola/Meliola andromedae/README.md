@@ -1,5 +1,4 @@
-Meliola andromedae Pat. SPECIES
-=======
+# Meliola andromedae Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurothele columellaris Oxner SPECIES
-=======
+# Staurothele columellaris Oxner SPECIES
 
 #### Status
 ACCEPTED

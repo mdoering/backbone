@@ -1,5 +1,4 @@
-Xenococcus pulcher Hollenberg SPECIES
-=======
+# Xenococcus pulcher Hollenberg SPECIES
 
 #### Status
 ACCEPTED

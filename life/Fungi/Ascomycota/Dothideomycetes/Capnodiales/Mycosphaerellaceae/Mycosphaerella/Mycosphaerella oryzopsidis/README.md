@@ -1,5 +1,4 @@
-Mycosphaerella oryzopsidis (Ellis & Everh.) Coons SPECIES
-=======
+# Mycosphaerella oryzopsidis (Ellis & Everh.) Coons SPECIES
 
 #### Status
 ACCEPTED

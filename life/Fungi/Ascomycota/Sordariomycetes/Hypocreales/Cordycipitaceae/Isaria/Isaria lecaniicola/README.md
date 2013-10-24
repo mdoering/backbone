@@ -1,5 +1,4 @@
-Isaria lecaniicola Jaap SPECIES
-=======
+# Isaria lecaniicola Jaap SPECIES
 
 #### Status
 ACCEPTED

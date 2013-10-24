@@ -1,5 +1,4 @@
-Xanthoparmelia harrisii Hale SPECIES
-=======
+# Xanthoparmelia harrisii Hale SPECIES
 
 #### Status
 ACCEPTED

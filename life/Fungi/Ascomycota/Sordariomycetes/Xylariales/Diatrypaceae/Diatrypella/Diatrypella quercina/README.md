@@ -1,17 +1,16 @@
-Diatrypella quercina f. quercina FORM
-=======
+# Diatrypella quercina (Pers.) Cooke, 1866 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Bot. , London 4: 99 (1866)
 
 #### Original name
-Diatrypella quercina f. quercina
+Sphaeria quercina (Grev.) Berk.
 
 ### Remarks
 null

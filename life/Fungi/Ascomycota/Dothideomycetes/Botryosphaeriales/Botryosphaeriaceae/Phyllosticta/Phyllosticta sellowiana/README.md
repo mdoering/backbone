@@ -1,5 +1,4 @@
-Phyllosticta sellowiana Gucevic SPECIES
-=======
+# Phyllosticta sellowiana Gucevic SPECIES
 
 #### Status
 ACCEPTED

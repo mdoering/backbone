@@ -1,5 +1,4 @@
-Poria langloisiana (Murrill) Sacc. & Trotter SPECIES
-=======
+# Poria langloisiana (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

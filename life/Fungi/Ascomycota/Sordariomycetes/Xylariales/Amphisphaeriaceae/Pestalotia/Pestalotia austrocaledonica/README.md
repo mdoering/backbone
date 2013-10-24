@@ -1,5 +1,4 @@
-Pestalotia austrocaledonica Crié SPECIES
-=======
+# Pestalotia austrocaledonica Crié SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella glauca (Cooke) Woron. SPECIES
-=======
+# Mycosphaerella glauca (Cooke) Woron. SPECIES
 
 #### Status
 ACCEPTED

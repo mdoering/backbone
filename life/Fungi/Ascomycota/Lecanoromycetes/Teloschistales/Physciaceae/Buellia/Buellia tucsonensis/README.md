@@ -1,5 +1,4 @@
-Buellia tucsonensis Zahlbr. SPECIES
-=======
+# Buellia tucsonensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

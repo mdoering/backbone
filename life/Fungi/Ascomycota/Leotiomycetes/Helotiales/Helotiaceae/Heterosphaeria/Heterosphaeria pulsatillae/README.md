@@ -1,5 +1,4 @@
-Heterosphaeria pulsatillae Leuchtm., 1987 SPECIES
-=======
+# Heterosphaeria pulsatillae Leuchtm., 1987 SPECIES
 
 #### Status
 ACCEPTED

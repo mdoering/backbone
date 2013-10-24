@@ -1,14 +1,13 @@
-Verrucaria ionaspicarpum (J. Nowak) Clauzade & Cl. Roux SPECIES
-=======
+# Verrucaria ionaspicarpa (J. Nowak) Clauzade & Cl. Roux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. bot. Centre-Ouest, Nouv. sér. , num. spec. 7: 830 (1985)
 
 #### Original name
 Amphoridium ionaspicarpum J. Nowak

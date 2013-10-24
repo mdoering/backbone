@@ -1,17 +1,16 @@
-Nowakowskiella moubasheriana Hassan SPECIES
-=======
+# Nowakowskiella moubasherana Hassan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycologica, Warszawa 19(1): 80 (1984)
 
 #### Original name
-Nowakowskiella moubasheriana Hassan
+Nowakowskiella moubasherana Hassan
 
 ### Remarks
 null

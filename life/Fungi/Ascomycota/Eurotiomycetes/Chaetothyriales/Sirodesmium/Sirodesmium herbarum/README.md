@@ -1,5 +1,4 @@
-Sirodesmium herbarum (Cooke) Sacc. SPECIES
-=======
+# Sirodesmium herbarum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

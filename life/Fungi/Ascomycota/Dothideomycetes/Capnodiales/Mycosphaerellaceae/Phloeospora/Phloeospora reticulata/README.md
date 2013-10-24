@@ -1,5 +1,4 @@
-Phloeospora reticulata Ellis & Everh. SPECIES
-=======
+# Phloeospora reticulata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

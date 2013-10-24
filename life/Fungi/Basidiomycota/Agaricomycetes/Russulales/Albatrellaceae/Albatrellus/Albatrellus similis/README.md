@@ -1,5 +1,4 @@
-Albatrellus similis Pouzar SPECIES
-=======
+# Albatrellus similis Pouzar SPECIES
 
 #### Status
 ACCEPTED

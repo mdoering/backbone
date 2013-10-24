@@ -1,5 +1,4 @@
-Mycosphaerella ciliata (Ellis & Everh.) House SPECIES
-=======
+# Mycosphaerella ciliata (Ellis & Everh.) House SPECIES
 
 #### Status
 ACCEPTED

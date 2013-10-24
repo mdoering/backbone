@@ -1,5 +1,4 @@
-Blepharocodon Bundle, 1895 GENUS
-=======
+# Blepharocodon Bundle, 1895 GENUS
 
 #### Status
 ACCEPTED

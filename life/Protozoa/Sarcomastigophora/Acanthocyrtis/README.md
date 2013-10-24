@@ -1,5 +1,4 @@
-Acanthocyrtis Haeckel, 1881 GENUS
-=======
+# Acanthocyrtis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

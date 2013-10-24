@@ -1,5 +1,4 @@
-Coniothyrium philadelphi Kalymb. SPECIES
-=======
+# Coniothyrium philadelphi Kalymb. SPECIES
 
 #### Status
 ACCEPTED

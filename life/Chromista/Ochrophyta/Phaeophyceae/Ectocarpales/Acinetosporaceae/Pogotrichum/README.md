@@ -1,5 +1,4 @@
-Pogotrichum Reinke, 1892 GENUS
-=======
+# Pogotrichum Reinke, 1892 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus atropes Schumach. SPECIES
-=======
+# Agaricus atropes Schumach. SPECIES
 
 #### Status
 ACCEPTED

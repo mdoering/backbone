@@ -1,5 +1,4 @@
-Leciographa weissii Körb. SPECIES
-=======
+# Leciographa weissii Körb. SPECIES
 
 #### Status
 ACCEPTED

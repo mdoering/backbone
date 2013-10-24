@@ -1,5 +1,4 @@
-Gloeocapsa compacta var. coeruleoatra Novácek VARIETY
-=======
+# Gloeocapsa compacta Kützing SPECIES
 
 #### Status
 ACCEPTED

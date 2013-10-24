@@ -1,5 +1,4 @@
-Erysiphe lagerstroemiae E. West SPECIES
-=======
+# Erysiphe lagerstroemiae E. West SPECIES
 
 #### Status
 ACCEPTED

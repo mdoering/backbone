@@ -1,17 +1,16 @@
-Pyrenopeziza artemisiae var. artemisiae VARIETY
-=======
+# Pyrenopeziza artemisiae (Lasch) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8(8): 359 (1889)
+Syll. fung. (Abellini) 8: 359 (1889)
 
 #### Original name
-Pyrenopeziza artemisiae var. artemisiae
+Peziza artemisiae Kirchn.
 
 ### Remarks
 null

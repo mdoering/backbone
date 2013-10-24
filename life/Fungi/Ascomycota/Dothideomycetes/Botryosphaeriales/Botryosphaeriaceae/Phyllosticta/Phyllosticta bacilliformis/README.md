@@ -1,5 +1,4 @@
-Phyllosticta bacilliformis Padwick & Merh SPECIES
-=======
+# Phyllosticta bacilliformis Padwick & Merh SPECIES
 
 #### Status
 ACCEPTED

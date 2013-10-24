@@ -1,5 +1,4 @@
-Laschia subvelutina Berk. SPECIES
-=======
+# Laschia subvelutina Berk. SPECIES
 
 #### Status
 ACCEPTED

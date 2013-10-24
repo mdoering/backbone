@@ -1,5 +1,4 @@
-Diploidium GENUS
-=======
+# Diploidium GENUS
 
 #### Status
 ACCEPTED

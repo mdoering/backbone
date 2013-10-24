@@ -1,5 +1,4 @@
-Cercospora parthenii Chupp SPECIES
-=======
+# Cercospora parthenii Chupp SPECIES
 
 #### Status
 ACCEPTED

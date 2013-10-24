@@ -1,5 +1,4 @@
-Acrospermum galeatum (Holmsk.) Pers. SPECIES
-=======
+# Acrospermum galeatum (Holmsk.) Pers. SPECIES
 
 #### Status
 ACCEPTED

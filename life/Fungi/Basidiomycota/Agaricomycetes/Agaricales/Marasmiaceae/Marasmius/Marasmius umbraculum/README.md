@@ -1,5 +1,4 @@
-Marasmius umbraculum Berk. & Broome SPECIES
-=======
+# Marasmius umbraculum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

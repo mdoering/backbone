@@ -1,5 +1,4 @@
-Sphaeria cladosporiosa Schwein. SPECIES
-=======
+# Sphaeria cladosporiosa Schwein. SPECIES
 
 #### Status
 ACCEPTED

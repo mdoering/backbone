@@ -1,17 +1,16 @@
-Meliola erycibis-paniculatae Hosag. SPECIES
-=======
+# Meliola erycibes-paniculatae Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hosagoudar & Goos, Mycotaxon 37: 231 (1990)
 
 #### Original name
-Meliola erycibis-paniculatae Hosag.
+Meliola erycibes-paniculatae Hosag.
 
 ### Remarks
 null

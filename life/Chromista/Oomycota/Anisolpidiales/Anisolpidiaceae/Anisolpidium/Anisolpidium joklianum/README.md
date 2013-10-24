@@ -1,17 +1,16 @@
-Pleotrachelus ectocarpii Jokl SPECIES
-=======
+# Anisolpidium joklianum M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Straminipilous Fungi (Dordrecht) 368 (2001)
 
 #### Original name
-Pleotrachelus ectocarpii Jokl
+Pleotrachelus ectocarpi Jokl, 1916
 
 ### Remarks
 null

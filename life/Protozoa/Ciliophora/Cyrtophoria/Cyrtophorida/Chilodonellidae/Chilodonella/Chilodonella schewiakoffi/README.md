@@ -1,8 +1,7 @@
-Chilodon schewiakoffi Schouteden, 1906 SPECIES
-=======
+# Chilodonella schewiakoffi (Schouteden, 1906) Kahl, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Clitocybe apposita (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe apposita (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia junci Peck SPECIES
-=======
+# Ramularia junci Peck SPECIES
 
 #### Status
 ACCEPTED

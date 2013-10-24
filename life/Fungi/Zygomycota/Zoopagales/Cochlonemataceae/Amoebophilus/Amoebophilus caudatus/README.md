@@ -1,5 +1,4 @@
-Amoebophilus caudatus P.A. Dang. SPECIES
-=======
+# Amoebophilus caudatus P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

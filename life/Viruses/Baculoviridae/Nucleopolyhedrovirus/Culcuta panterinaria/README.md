@@ -1,5 +1,4 @@
-Culcuta panterinaria Npv SPECIES
-=======
+# Culcuta panterinaria Npv SPECIES
 
 #### Status
 ACCEPTED

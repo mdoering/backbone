@@ -1,5 +1,4 @@
-Pyrenopeziza mercurialidis Graddon, 1986 SPECIES
-=======
+# Pyrenopeziza mercurialidis Graddon, 1986 SPECIES
 
 #### Status
 ACCEPTED

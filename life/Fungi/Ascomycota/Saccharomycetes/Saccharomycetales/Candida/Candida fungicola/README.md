@@ -1,5 +1,4 @@
-Candida fungicola Nakase, M. Suzuki, Sugita, S.O. Suh & Komag. SPECIES
-=======
+# Candida fungicola Nakase, M. Suzuki, Sugita, S.O. Suh & Komag. SPECIES
 
 #### Status
 ACCEPTED

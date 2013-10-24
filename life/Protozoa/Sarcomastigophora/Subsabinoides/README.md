@@ -1,5 +1,4 @@
-Subsabinoides McCulloch, 1977 GENUS
-=======
+# Subsabinoides McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

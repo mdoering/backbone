@@ -1,5 +1,4 @@
-Stauralastrum Haeckel, 1887 GENUS
-=======
+# Stauralastrum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

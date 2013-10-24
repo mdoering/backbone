@@ -1,5 +1,4 @@
-Pseudocercosporella ochracea Suj. Singh SPECIES
-=======
+# Pseudocercosporella ochracea Suj. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomerulius Jülich, 1979 GENUS
-=======
+# Pseudomerulius Jülich, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Uncinuliella flexuosa (Peck) U. Braun, 1981 SPECIES
-=======
+# Erysiphe flexuosa (Peck) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 34(3 & 4): 712 (1981)
+Schlechtendalia 4: 19 (2000)
 
 #### Original name
 Uncinula flexuosa Peck, 1872

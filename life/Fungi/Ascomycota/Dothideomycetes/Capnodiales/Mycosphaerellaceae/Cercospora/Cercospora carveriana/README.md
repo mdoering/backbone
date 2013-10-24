@@ -1,5 +1,4 @@
-Cercospora carveriana Sacc. & D. Sacc. SPECIES
-=======
+# Cercospora carveriana Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria erigerontis Berl. SPECIES
-=======
+# Leptosphaeria erigerontis Berl. SPECIES
 
 #### Status
 ACCEPTED

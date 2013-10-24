@@ -1,5 +1,4 @@
-Discoaster lenticularis Bramlette & Sullivan, 1961 SPECIES
-=======
+# Discoaster lenticularis Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

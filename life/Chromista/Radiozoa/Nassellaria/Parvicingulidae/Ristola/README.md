@@ -1,5 +1,4 @@
-Ristola Pessagno & Whalen, 1982 GENUS
-=======
+# Ristola Pessagno & Whalen, 1982 GENUS
 
 #### Status
 ACCEPTED

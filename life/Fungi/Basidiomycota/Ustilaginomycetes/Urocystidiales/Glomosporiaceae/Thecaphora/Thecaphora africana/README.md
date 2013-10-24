@@ -1,5 +1,4 @@
-Thecaphora africana H. Scholz SPECIES
-=======
+# Thecaphora africana H. Scholz SPECIES
 
 #### Status
 ACCEPTED

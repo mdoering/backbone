@@ -1,5 +1,4 @@
-Phyllosticta vanillae Henn. SPECIES
-=======
+# Phyllosticta vanillae Henn. SPECIES
 
 #### Status
 ACCEPTED

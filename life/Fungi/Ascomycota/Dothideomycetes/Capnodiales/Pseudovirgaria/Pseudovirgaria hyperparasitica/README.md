@@ -1,5 +1,4 @@
-Pseudovirgaria hyperparasitica H.D. Shin, U. Braun, Arzanlou & Crous, 2007 SPECIES
-=======
+# Pseudovirgaria hyperparasitica H.D. Shin, U. Braun, Arzanlou & Crous, 2007 SPECIES
 
 #### Status
 ACCEPTED

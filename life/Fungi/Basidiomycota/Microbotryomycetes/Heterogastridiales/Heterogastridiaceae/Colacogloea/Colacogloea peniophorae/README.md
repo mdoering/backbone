@@ -1,17 +1,16 @@
-Platygloea peniophorae var. peniophorae Bourdot & Galzin, 1909 VARIETY
-=======
+# Colacogloea peniophorae (Bourdot & Galzin) Oberw., R. Bauer & Bandoni, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 25(1): 17 (1909)
+in Oberwinkler, Bauer & Bandoni, Can. J. Bot. 68(12): 2532 (1991)
 
 #### Original name
-Platygloea peniophorae var. peniophorae Bourdot & Galzin, 1909
+Platygloea peniophorae Bourdot & Galzin, 1909
 
 ### Remarks
 null

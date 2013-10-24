@@ -1,5 +1,4 @@
-Debaryomyces kursanovii Kudryavtsev SPECIES
-=======
+# Debaryomyces kursanovii Kudryavtsev SPECIES
 
 #### Status
 ACCEPTED

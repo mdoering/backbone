@@ -1,5 +1,4 @@
-Phoma anaxaea Speg. SPECIES
-=======
+# Phoma anaxaea Speg. SPECIES
 
 #### Status
 ACCEPTED

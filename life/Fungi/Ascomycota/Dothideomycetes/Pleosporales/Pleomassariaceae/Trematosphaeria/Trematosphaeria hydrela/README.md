@@ -1,14 +1,13 @@
-Melanomma hydrelum Rehm SPECIES
-=======
+# Trematosphaeria hydrela (Rehm) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 21: 82 (1882)
+Syll. fung. (Abellini) 2: 117 (1883)
 
 #### Original name
 Melanomma hydrelum Rehm

@@ -1,5 +1,4 @@
-Boletus argentatae Corner SPECIES
-=======
+# Boletus argentatae Corner SPECIES
 
 #### Status
 ACCEPTED

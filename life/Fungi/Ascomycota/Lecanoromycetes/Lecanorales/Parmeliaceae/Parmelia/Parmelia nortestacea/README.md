@@ -1,5 +1,4 @@
-Parmelia nortestacea Elix SPECIES
-=======
+# Parmelia nortestacea Elix SPECIES
 
 #### Status
 ACCEPTED

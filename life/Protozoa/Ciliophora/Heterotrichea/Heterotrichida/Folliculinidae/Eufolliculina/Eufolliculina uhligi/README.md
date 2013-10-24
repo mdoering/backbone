@@ -1,5 +1,4 @@
-Eufolliculina uhligi Mulisch & Patterson, 1983 SPECIES
-=======
+# Eufolliculina uhligi Mulisch & Patterson, 1983 SPECIES
 
 #### Status
 ACCEPTED

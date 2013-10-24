@@ -1,5 +1,4 @@
-Corollospora quinqueseptata Nakagiri, 1988 SPECIES
-=======
+# Corollospora quinqueseptata Nakagiri, 1988 SPECIES
 
 #### Status
 ACCEPTED

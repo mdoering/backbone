@@ -1,8 +1,7 @@
-Tychonema bourrellyi (Lund) Anagnostidis & Komárek SPECIES
-=======
+# Oscillatoria bourrellyi J.W.G. Lund SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

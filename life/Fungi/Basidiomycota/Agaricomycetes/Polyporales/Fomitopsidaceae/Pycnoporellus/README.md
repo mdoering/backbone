@@ -1,17 +1,16 @@
-Aurantiporellus Murrill GENUS
-=======
+# Pycnoporellus Murrill GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 32(9): 486 (1905)
+Bull. Torrey bot. Club 32(9): 489 (1905)
 
 #### Original name
-Aurantiporellus Murrill
+Pycnoporellus Murrill
 
 ### Remarks
 null

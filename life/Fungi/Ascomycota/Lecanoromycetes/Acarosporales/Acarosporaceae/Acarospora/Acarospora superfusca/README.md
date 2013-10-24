@@ -1,5 +1,4 @@
-Acarospora superfusca SPECIES
-=======
+# Acarospora superfusca SPECIES
 
 #### Status
 ACCEPTED

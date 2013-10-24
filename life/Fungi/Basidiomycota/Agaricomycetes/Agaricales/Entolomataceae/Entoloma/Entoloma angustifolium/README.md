@@ -1,5 +1,4 @@
-Entoloma angustifolium Murrill SPECIES
-=======
+# Entoloma angustifolium Murrill SPECIES
 
 #### Status
 ACCEPTED

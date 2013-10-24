@@ -1,5 +1,4 @@
-Irene formosensis W. Yamam. SPECIES
-=======
+# Irene formosensis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

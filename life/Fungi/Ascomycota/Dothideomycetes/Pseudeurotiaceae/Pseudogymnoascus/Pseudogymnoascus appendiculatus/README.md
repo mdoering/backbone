@@ -1,5 +1,4 @@
-Pseudogymnoascus appendiculatus A.V. Rice & Currah SPECIES
-=======
+# Pseudogymnoascus appendiculatus A.V. Rice & Currah SPECIES
 
 #### Status
 ACCEPTED

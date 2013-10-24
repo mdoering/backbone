@@ -1,5 +1,4 @@
-Septoria carlinae Hollós SPECIES
-=======
+# Septoria carlinae Hollós SPECIES
 
 #### Status
 ACCEPTED

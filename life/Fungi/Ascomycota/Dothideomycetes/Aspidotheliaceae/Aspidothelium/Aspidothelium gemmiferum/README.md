@@ -1,5 +1,4 @@
-Aspidothelium gemmiferum Sérus. & Lücking SPECIES
-=======
+# Aspidothelium gemmiferum Sérus. & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia subavellanea (Murrill) Murrill SPECIES
-=======
+# Collybia subavellanea (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

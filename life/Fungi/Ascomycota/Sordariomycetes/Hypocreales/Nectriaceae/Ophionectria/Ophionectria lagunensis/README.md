@@ -1,5 +1,4 @@
-Ophionectria lagunensis Syd. & P. Syd. SPECIES
-=======
+# Ophionectria lagunensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balansia texensis (Diehl) P.V. Reddy, Clay & J.F. White SPECIES
-=======
+# Balansia texensis (Diehl) P.V. Reddy, Clay & J.F. White SPECIES
 
 #### Status
 ACCEPTED

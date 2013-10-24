@@ -1,5 +1,4 @@
-Pseudomeliola mirabilis (Petr. & Cif.) Petr. & Cif. SPECIES
-=======
+# Pseudomeliola mirabilis (Petr. & Cif.) Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

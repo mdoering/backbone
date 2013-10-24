@@ -1,5 +1,4 @@
-Porina consanguinea Müll. Arg. SPECIES
-=======
+# Porina consanguinea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

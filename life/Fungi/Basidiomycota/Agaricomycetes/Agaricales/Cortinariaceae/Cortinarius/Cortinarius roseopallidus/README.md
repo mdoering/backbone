@@ -1,5 +1,4 @@
-Cortinarius roseopallidus Murrill SPECIES
-=======
+# Cortinarius roseopallidus Murrill SPECIES
 
 #### Status
 ACCEPTED

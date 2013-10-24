@@ -1,5 +1,4 @@
-Aposphaeria consors Schulzer & Sacc. SPECIES
-=======
+# Aposphaeria consors Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

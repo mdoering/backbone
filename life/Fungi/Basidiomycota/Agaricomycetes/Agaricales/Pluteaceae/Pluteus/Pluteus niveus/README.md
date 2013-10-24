@@ -1,5 +1,4 @@
-Pluteus niveus Murrill SPECIES
-=======
+# Pluteus niveus Murrill SPECIES
 
 #### Status
 ACCEPTED

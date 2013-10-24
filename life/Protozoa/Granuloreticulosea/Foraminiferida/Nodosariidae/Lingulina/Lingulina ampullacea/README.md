@@ -1,5 +1,4 @@
-Lingulina ampullacea Costa, 1861 SPECIES
-=======
+# Lingulina ampullacea Costa, 1861 SPECIES
 
 #### Status
 ACCEPTED

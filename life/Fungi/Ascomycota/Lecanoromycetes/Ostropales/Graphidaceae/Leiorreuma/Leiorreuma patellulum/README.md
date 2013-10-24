@@ -1,17 +1,16 @@
-Graphis separanda Nyl. SPECIES
-=======
+# Leiorreuma patellulum (Fée) Staiger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 85: 303 (2002)
 
 #### Original name
-null
+Arthonia patellula Fée
 
 ### Remarks
 null

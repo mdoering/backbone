@@ -1,5 +1,4 @@
-Boletus arcuatus Frost SPECIES
-=======
+# Boletus arcuatus Frost SPECIES
 
 #### Status
 ACCEPTED

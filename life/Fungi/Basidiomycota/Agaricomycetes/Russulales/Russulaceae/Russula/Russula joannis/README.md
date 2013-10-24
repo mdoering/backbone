@@ -1,5 +1,4 @@
-Russula joannis Bon SPECIES
-=======
+# Russula joannis Bon SPECIES
 
 #### Status
 ACCEPTED

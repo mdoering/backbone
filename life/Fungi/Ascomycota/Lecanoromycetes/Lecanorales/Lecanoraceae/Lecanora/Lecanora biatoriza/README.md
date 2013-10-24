@@ -1,5 +1,4 @@
-Lecanora biatoriza Nyl. SPECIES
-=======
+# Lecanora biatoriza Nyl. SPECIES
 
 #### Status
 ACCEPTED

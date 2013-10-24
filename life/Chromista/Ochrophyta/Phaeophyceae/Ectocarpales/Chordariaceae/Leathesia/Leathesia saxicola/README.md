@@ -1,8 +1,7 @@
-Leathesia granulosa SPECIES
-=======
+# Leathesia saxicola Takamatsu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

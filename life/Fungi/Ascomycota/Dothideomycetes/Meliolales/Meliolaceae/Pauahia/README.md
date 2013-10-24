@@ -1,5 +1,4 @@
-Pauahia F. Stevens, 1925 GENUS
-=======
+# Pauahia F. Stevens, 1925 GENUS
 
 #### Status
 ACCEPTED

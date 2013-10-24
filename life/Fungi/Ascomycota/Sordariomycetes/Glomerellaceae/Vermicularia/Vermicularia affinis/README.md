@@ -1,17 +1,16 @@
-Vermicularia affinis var. calamagrostidis P. Karst. VARIETY
-=======
+# Vermicularia affinis Sacc. & Briard, 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue mycol. , Toulouse 10: 211 (1888)
 
 #### Original name
-Vermicularia affinis var. calamagrostidis P. Karst.
+Vermicularia affinis Sacc. & Briard, 1888
 
 ### Remarks
 null

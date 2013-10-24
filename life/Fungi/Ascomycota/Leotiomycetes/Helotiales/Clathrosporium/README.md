@@ -1,5 +1,4 @@
-Clathrosporium Nawawi & Kuthub. GENUS
-=======
+# Clathrosporium Nawawi & Kuthub. GENUS
 
 #### Status
 ACCEPTED

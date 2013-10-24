@@ -1,5 +1,4 @@
-Phaeodiscula gonospora var. gonospora VARIETY
-=======
+# Phaeodiscula gonospora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeodiscula gonospora var. gonospora
+Phaeodiscula gonospora Penz. & Sacc.
 
 ### Remarks
 null

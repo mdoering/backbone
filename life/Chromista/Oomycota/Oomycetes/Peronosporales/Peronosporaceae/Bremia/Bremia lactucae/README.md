@@ -1,17 +1,16 @@
-Bremia lactucae f. sp FORM
-=======
+# Bremia lactucae Regel, 1843 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 91(4): 514 (1985)
+Bot. Ztg. 1: 666 (1843)
 
 #### Original name
-Bremia lactucae f. sp
+Bremia lactucae Regel, 1843
 
 ### Remarks
 null

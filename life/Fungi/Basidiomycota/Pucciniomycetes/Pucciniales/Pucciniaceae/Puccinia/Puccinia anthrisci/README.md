@@ -1,5 +1,4 @@
-Puccinia anthrisci Thüm. SPECIES
-=======
+# Puccinia anthrisci Thüm. SPECIES
 
 #### Status
 ACCEPTED

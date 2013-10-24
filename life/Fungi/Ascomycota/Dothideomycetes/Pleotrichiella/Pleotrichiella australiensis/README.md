@@ -1,5 +1,4 @@
-Pleotrichiella australiensis Sivan., 1984 SPECIES
-=======
+# Pleotrichiella australiensis Sivan., 1984 SPECIES
 
 #### Status
 ACCEPTED

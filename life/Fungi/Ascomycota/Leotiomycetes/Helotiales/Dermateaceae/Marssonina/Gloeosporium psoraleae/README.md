@@ -1,5 +1,4 @@
-Gloeosporium psoraleae Peck SPECIES
-=======
+# Gloeosporium psoraleae Peck SPECIES
 
 #### Status
 ACCEPTED

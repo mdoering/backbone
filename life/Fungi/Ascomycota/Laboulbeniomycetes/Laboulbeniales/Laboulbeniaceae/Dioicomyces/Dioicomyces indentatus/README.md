@@ -1,5 +1,4 @@
-Dioicomyces indentatus Thaxt. SPECIES
-=======
+# Dioicomyces indentatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

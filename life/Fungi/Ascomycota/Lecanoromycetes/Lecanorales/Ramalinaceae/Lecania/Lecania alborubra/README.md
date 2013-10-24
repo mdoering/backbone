@@ -1,5 +1,4 @@
-Lecania alborubra B. de Lesd. SPECIES
-=======
+# Lecania alborubra B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

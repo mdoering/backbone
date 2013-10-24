@@ -1,5 +1,4 @@
-Trametes verticalis Corner SPECIES
-=======
+# Trametes verticalis Corner SPECIES
 
 #### Status
 ACCEPTED

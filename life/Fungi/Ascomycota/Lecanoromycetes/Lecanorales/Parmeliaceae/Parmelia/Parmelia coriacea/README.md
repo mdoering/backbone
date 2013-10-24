@@ -1,5 +1,4 @@
-Parmelia coriacea Eschw. SPECIES
-=======
+# Parmelia coriacea Eschw. SPECIES
 
 #### Status
 ACCEPTED

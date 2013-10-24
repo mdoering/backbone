@@ -1,5 +1,4 @@
-Leptasteromella inconspicua Petr. SPECIES
-=======
+# Leptasteromella inconspicua Petr. SPECIES
 
 #### Status
 ACCEPTED

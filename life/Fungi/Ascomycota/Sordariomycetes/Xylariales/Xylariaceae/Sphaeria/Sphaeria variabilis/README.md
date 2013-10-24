@@ -1,5 +1,4 @@
-Sphaeria variabilis Schwein. SPECIES
-=======
+# Sphaeria variabilis Schwein. SPECIES
 
 #### Status
 ACCEPTED

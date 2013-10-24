@@ -1,5 +1,4 @@
-Lecidea suballinita Nyl. SPECIES
-=======
+# Lecidea suballinita Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiropes desmodiicola U. Braun SPECIES
-=======
+# Spiropes desmodiicola U. Braun SPECIES
 
 #### Status
 ACCEPTED

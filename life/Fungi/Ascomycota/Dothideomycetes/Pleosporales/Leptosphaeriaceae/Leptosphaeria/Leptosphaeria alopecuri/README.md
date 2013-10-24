@@ -1,5 +1,4 @@
-Leptosphaeria alopecuri Lavrov SPECIES
-=======
+# Leptosphaeria alopecuri Lavrov SPECIES
 
 #### Status
 ACCEPTED

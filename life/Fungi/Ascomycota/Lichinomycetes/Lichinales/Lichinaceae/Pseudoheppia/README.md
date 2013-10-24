@@ -1,5 +1,4 @@
-Pseudoheppia Zahlbr. GENUS
-=======
+# Pseudoheppia Zahlbr. GENUS
 
 #### Status
 ACCEPTED

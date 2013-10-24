@@ -1,5 +1,4 @@
-Meliola harunganae (Hansf.) Cif. SPECIES
-=======
+# Meliola harunganae (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

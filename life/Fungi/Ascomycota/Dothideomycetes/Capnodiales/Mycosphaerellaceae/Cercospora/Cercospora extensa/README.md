@@ -1,5 +1,4 @@
-Cercospora extensa Siboe, P.F. Cannon & P.M. Kirk SPECIES
-=======
+# Cercospora extensa Siboe, P.F. Cannon & P.M. Kirk SPECIES
 
 #### Status
 ACCEPTED

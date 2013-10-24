@@ -1,5 +1,4 @@
-Placodiomyces GENUS
-=======
+# Placodiomyces GENUS
 
 #### Status
 ACCEPTED

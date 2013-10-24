@@ -1,5 +1,4 @@
-Marasmiellus elongatisporus Singer SPECIES
-=======
+# Marasmiellus elongatisporus Singer SPECIES
 
 #### Status
 ACCEPTED

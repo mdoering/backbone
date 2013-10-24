@@ -1,5 +1,4 @@
-Verrucispora luculiae M.K. Khan, Budathoki & Kamal SPECIES
-=======
+# Verrucispora luculiae M.K. Khan, Budathoki & Kamal SPECIES
 
 #### Status
 ACCEPTED

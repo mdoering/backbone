@@ -1,5 +1,4 @@
-Campylosphaera eodela Bukry & Percival, 1971 SPECIES
-=======
+# Campylosphaera eodela Bukry & Percival, 1971 SPECIES
 
 #### Status
 ACCEPTED

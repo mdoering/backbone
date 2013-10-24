@@ -1,5 +1,4 @@
-Verrucaria obliterata (Pers.) Hoffm. SPECIES
-=======
+# Verrucaria obliterata (Pers.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Simocybe corticalis Singer SPECIES
-=======
+# Simocybe corticalis Singer SPECIES
 
 #### Status
 ACCEPTED

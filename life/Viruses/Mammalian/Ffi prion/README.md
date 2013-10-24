@@ -1,5 +1,4 @@
-Ffi prion (Fatal familial insomnia) SPECIES
-=======
+# Ffi prion (Fatal familial insomnia) SPECIES
 
 #### Status
 ACCEPTED

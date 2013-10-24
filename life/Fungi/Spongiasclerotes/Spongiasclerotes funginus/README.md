@@ -1,5 +1,4 @@
-Spongiasclerotes funginus Stach & Pickh. SPECIES
-=======
+# Spongiasclerotes funginus Stach & Pickh. SPECIES
 
 #### Status
 ACCEPTED

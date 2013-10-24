@@ -1,5 +1,4 @@
-Cercosporella linariae Baudy & Picb. SPECIES
-=======
+# Cercosporella linariae Baudy & Picb. SPECIES
 
 #### Status
 ACCEPTED

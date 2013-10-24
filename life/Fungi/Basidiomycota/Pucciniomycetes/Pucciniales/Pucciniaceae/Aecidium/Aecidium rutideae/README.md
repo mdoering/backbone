@@ -1,5 +1,4 @@
-Aecidium rutideae Cummins SPECIES
-=======
+# Aecidium rutideae Cummins SPECIES
 
 #### Status
 ACCEPTED

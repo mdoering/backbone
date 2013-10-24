@@ -1,5 +1,4 @@
-Myxomphalos guttatus Wallr. SPECIES
-=======
+# Myxomphalos guttatus Wallr. SPECIES
 
 #### Status
 ACCEPTED

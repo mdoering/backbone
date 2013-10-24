@@ -1,5 +1,4 @@
-Xylaria alpina Speg. SPECIES
-=======
+# Xylaria alpina Speg. SPECIES
 
 #### Status
 ACCEPTED

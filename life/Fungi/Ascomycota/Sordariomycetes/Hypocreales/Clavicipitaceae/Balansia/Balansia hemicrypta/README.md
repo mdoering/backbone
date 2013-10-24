@@ -1,5 +1,4 @@
-Balansia hemicrypta Diehl SPECIES
-=======
+# Balansia hemicrypta Diehl SPECIES
 
 #### Status
 ACCEPTED

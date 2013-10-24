@@ -1,5 +1,4 @@
-Stilbohypoxylon novae-zelandiae L.E. Petrini, 2003 SPECIES
-=======
+# Stilbohypoxylon novae-zelandiae L.E. Petrini, 2003 SPECIES
 
 #### Status
 ACCEPTED

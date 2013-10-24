@@ -1,5 +1,4 @@
-Cercospora merrowii Ellis & Everh. SPECIES
-=======
+# Cercospora merrowii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

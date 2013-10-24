@@ -1,14 +1,13 @@
-Haplocarpon nadvornikianum Vezda SPECIES
-=======
+# Porpidia nadvornikiana (Vezda) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Preslia 44(3): 209 (1972)
+Beih. Nova Hedwigia 79: 437 (1984)
 
 #### Original name
 Haplocarpon nadvornikianum Vezda

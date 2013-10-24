@@ -1,5 +1,4 @@
-Tribonema angustissimum Pascher SPECIES
-=======
+# Tribonema angustissimum Pascher SPECIES
 
 #### Status
 ACCEPTED

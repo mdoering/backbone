@@ -1,5 +1,4 @@
-Septoria smyrnii Bubák SPECIES
-=======
+# Septoria smyrnii Bubák SPECIES
 
 #### Status
 ACCEPTED

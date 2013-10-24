@@ -1,5 +1,4 @@
-Mycena lactescens (Schrad.) J. Schröt. SPECIES
-=======
+# Mycena lactescens (Schrad.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

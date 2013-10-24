@@ -1,5 +1,4 @@
-Parmelia atrofusca f. atrofusca FORM
-=======
+# Parmelia atrofusca SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia atrofusca f. atrofusca
+null
 
 ### Remarks
 null

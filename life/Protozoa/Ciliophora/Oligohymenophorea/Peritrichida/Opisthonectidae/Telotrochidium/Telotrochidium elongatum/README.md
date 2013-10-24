@@ -1,5 +1,4 @@
-Telotrochidium elongatum Foissner, 1975 SPECIES
-=======
+# Telotrochidium elongatum Foissner, 1975 SPECIES
 
 #### Status
 ACCEPTED

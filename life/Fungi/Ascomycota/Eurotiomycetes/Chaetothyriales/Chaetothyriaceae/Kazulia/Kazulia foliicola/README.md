@@ -1,5 +1,4 @@
-Kazulia foliicola R.F. Castañeda SPECIES
-=======
+# Kazulia foliicola R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

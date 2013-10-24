@@ -1,5 +1,4 @@
-Cryptonectriella geoglossi (D. Overeem) Lowen SPECIES
-=======
+# Cryptonectriella geoglossi (D. Overeem) Lowen SPECIES
 
 #### Status
 ACCEPTED

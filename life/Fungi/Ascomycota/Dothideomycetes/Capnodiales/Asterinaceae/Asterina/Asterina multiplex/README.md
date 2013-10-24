@@ -1,5 +1,4 @@
-Asterina multiplex Rehm SPECIES
-=======
+# Asterina multiplex Rehm SPECIES
 
 #### Status
 ACCEPTED

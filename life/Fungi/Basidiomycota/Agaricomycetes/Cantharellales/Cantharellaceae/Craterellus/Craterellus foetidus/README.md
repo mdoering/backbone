@@ -1,5 +1,4 @@
-Craterellus foetidus A.H. Sm. SPECIES
-=======
+# Craterellus foetidus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

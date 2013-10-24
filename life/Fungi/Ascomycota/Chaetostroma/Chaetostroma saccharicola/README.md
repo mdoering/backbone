@@ -1,5 +1,4 @@
-Chaetostroma saccharicola Sacc. & P. Syd. SPECIES
-=======
+# Chaetostroma saccharicola Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

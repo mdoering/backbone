@@ -1,5 +1,4 @@
-Ascochyta frangulina Kabát & Bubák SPECIES
-=======
+# Ascochyta frangulina Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

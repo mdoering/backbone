@@ -1,5 +1,4 @@
-Asterosporium strobilorum Roum. & Fautrey, 1892 SPECIES
-=======
+# Asterosporium strobilorum Roum. & Fautrey, 1892 SPECIES
 
 #### Status
 ACCEPTED

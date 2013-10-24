@@ -1,5 +1,4 @@
-Omphalia inconspicua (Berk.) Sacc. SPECIES
-=======
+# Omphalia inconspicua (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

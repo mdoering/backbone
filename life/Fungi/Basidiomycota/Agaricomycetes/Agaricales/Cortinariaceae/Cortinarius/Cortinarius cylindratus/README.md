@@ -1,5 +1,4 @@
-Cortinarius cylindratus Rob. Henry SPECIES
-=======
+# Cortinarius cylindratus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

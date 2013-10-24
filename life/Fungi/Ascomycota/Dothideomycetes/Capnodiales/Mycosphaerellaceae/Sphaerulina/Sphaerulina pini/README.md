@@ -1,5 +1,4 @@
-Sphaerulina pini Pass. SPECIES
-=======
+# Sphaerulina pini Pass. SPECIES
 
 #### Status
 ACCEPTED

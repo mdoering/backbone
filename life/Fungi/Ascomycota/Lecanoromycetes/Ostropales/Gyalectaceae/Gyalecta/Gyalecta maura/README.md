@@ -1,5 +1,4 @@
-Gyalecta maura Werner SPECIES
-=======
+# Gyalecta maura Werner SPECIES
 
 #### Status
 ACCEPTED

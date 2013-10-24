@@ -1,5 +1,4 @@
-Ceratocyrtis galeus (Cleve) Bjoerklund, 1976 SPECIES
-=======
+# Ceratocyrtis galeus (Cleve) Bjoerklund, 1976 SPECIES
 
 #### Status
 ACCEPTED

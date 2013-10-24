@@ -1,5 +1,4 @@
-Scleroderma reae Guzmán, 1967 SPECIES
-=======
+# Scleroderma reae Guzmán, 1967 SPECIES
 
 #### Status
 ACCEPTED

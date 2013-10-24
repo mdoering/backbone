@@ -1,5 +1,4 @@
-Setia Ferrandez-Canadell, 2002 GENUS
-=======
+# Setia Ferrandez-Canadell, 2002 GENUS
 
 #### Status
 ACCEPTED

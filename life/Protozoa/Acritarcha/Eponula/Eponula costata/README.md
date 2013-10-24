@@ -1,5 +1,4 @@
-Eponula costata Vavrdová, 1989 SPECIES
-=======
+# Eponula costata Vavrdová, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epicoccum coniferarum Petr., 1934 SPECIES
-=======
+# Epicoccum coniferarum Petr., 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus squalens Fr. SPECIES
-=======
+# Agaricus squalens Fr. SPECIES
 
 #### Status
 ACCEPTED

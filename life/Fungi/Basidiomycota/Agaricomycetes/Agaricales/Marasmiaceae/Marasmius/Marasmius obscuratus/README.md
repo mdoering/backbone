@@ -1,5 +1,4 @@
-Marasmius obscuratus Petch SPECIES
-=======
+# Marasmius obscuratus Petch SPECIES
 
 #### Status
 ACCEPTED

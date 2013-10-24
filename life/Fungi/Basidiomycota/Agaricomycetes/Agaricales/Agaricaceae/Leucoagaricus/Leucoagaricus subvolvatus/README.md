@@ -1,5 +1,4 @@
-Leucoagaricus subvolvatus (Malençon & Bertault) Bon SPECIES
-=======
+# Leucoagaricus subvolvatus (Malençon & Bertault) Bon SPECIES
 
 #### Status
 ACCEPTED

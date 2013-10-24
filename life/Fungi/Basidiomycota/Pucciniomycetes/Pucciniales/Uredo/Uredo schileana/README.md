@@ -1,5 +1,4 @@
-Uredo schileana Speg. SPECIES
-=======
+# Uredo schileana Speg. SPECIES
 
 #### Status
 ACCEPTED

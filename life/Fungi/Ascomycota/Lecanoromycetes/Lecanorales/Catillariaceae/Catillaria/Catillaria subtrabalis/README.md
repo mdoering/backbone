@@ -1,5 +1,4 @@
-Catillaria subtrabalis (Vain.) Zahlbr. SPECIES
-=======
+# Catillaria subtrabalis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

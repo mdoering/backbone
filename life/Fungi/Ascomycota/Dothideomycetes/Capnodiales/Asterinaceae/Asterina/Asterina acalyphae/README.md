@@ -1,5 +1,4 @@
-Asterina acalyphae Syd. SPECIES
-=======
+# Asterina acalyphae Syd. SPECIES
 
 #### Status
 ACCEPTED

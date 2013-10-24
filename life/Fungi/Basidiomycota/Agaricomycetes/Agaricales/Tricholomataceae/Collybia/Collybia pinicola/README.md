@@ -1,5 +1,4 @@
-Collybia pinicola (Murrill) Singer SPECIES
-=======
+# Collybia pinicola (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

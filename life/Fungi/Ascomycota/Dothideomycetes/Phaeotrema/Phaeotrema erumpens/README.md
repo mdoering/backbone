@@ -1,5 +1,4 @@
-Phaeotrema erumpens (Leight.) R. Sant. SPECIES
-=======
+# Phaeotrema erumpens (Leight.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

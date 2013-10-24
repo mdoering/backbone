@@ -1,5 +1,4 @@
-Puccinia bogotensis Mayor SPECIES
-=======
+# Puccinia bogotensis Mayor SPECIES
 
 #### Status
 ACCEPTED

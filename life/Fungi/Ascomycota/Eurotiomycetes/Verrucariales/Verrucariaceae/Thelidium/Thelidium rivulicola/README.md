@@ -1,5 +1,4 @@
-Thelidium rivulicola SPECIES
-=======
+# Thelidium rivulicola SPECIES
 
 #### Status
 ACCEPTED

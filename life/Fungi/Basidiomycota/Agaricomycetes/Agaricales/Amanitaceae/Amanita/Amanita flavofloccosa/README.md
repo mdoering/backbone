@@ -1,5 +1,4 @@
-Amanita flavofloccosa Nagas. & Hongo SPECIES
-=======
+# Amanita flavofloccosa Nagas. & Hongo SPECIES
 
 #### Status
 ACCEPTED

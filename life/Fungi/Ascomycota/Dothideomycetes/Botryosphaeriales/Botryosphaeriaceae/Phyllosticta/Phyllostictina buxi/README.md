@@ -1,5 +1,4 @@
-Phyllostictina buxi M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Phyllostictina buxi M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

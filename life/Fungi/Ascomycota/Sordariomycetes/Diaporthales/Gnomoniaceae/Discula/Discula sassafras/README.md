@@ -1,5 +1,4 @@
-Discula sassafras (Cooke) Arx SPECIES
-=======
+# Discula sassafras (Cooke) Arx SPECIES
 
 #### Status
 ACCEPTED

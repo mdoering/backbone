@@ -1,5 +1,4 @@
-Cortinarius flavornatus Singer SPECIES
-=======
+# Cortinarius flavornatus Singer SPECIES
 
 #### Status
 ACCEPTED

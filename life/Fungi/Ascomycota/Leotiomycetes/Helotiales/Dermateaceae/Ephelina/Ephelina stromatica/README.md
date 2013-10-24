@@ -1,5 +1,4 @@
-Ephelina stromatica (Fuckel) Sacc. SPECIES
-=======
+# Ephelina stromatica (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

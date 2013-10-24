@@ -1,5 +1,4 @@
-Pyrenotea vermiculifera Fr. SPECIES
-=======
+# Pyrenotea vermiculifera Fr. SPECIES
 
 #### Status
 ACCEPTED

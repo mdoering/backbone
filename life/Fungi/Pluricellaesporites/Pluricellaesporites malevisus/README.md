@@ -1,5 +1,4 @@
-Pluricellaesporites malevisus Kalgutkar & Janson. SPECIES
-=======
+# Pluricellaesporites malevisus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

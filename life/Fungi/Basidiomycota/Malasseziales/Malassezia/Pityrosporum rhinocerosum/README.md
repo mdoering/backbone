@@ -1,5 +1,4 @@
-Pityrosporum rhinocerosum Sabour. SPECIES
-=======
+# Pityrosporum rhinocerosum Sabour. SPECIES
 
 #### Status
 ACCEPTED

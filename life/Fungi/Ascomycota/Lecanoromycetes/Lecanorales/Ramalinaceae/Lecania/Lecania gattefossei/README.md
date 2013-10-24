@@ -1,5 +1,4 @@
-Lecania gattefossei Werner SPECIES
-=======
+# Lecania gattefossei Werner SPECIES
 
 #### Status
 ACCEPTED

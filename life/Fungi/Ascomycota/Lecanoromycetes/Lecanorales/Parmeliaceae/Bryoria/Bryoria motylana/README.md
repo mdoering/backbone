@@ -1,5 +1,4 @@
-Bryoria motylana SPECIES
-=======
+# Bryoria motylana SPECIES
 
 #### Status
 ACCEPTED

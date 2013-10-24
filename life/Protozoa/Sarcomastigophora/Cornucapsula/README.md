@@ -1,5 +1,4 @@
-Cornucapsula Tikhomirova, 1983 GENUS
-=======
+# Cornucapsula Tikhomirova, 1983 GENUS
 
 #### Status
 ACCEPTED

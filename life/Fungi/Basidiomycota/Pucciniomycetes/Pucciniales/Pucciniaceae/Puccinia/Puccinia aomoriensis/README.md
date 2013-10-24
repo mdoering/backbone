@@ -1,5 +1,4 @@
-Puccinia aomoriensis Syd. & P. Syd. SPECIES
-=======
+# Puccinia aomoriensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

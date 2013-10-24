@@ -1,5 +1,4 @@
-Arthonia atrorufa (Müll. Arg.) Willey SPECIES
-=======
+# Arthonia atrorufa (Müll. Arg.) Willey SPECIES
 
 #### Status
 ACCEPTED

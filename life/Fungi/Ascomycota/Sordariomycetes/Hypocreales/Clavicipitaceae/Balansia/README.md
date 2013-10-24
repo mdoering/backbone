@@ -1,17 +1,16 @@
-Ophiodothis Sacc. GENUS
-=======
+# Balansia Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 652 (1883)
+Anal. Soc. cient. argent. 19: 45 (1885)
 
 #### Original name
-Ophiodothis Sacc.
+Balansia Speg.
 
 ### Remarks
 null

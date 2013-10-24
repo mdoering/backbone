@@ -1,5 +1,4 @@
-Synarthoniomyces GENUS
-=======
+# Synarthoniomyces GENUS
 
 #### Status
 ACCEPTED

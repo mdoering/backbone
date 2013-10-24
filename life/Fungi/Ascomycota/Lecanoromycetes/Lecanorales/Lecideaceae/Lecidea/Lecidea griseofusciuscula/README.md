@@ -1,5 +1,4 @@
-Lecidea griseofusciuscula Vain. ex Lynge SPECIES
-=======
+# Lecidea griseofusciuscula Vain. ex Lynge SPECIES
 
 #### Status
 ACCEPTED

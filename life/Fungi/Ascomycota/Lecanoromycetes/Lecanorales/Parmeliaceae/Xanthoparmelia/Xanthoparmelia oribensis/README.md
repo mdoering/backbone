@@ -1,5 +1,4 @@
-Xanthoparmelia oribensis Hale SPECIES
-=======
+# Xanthoparmelia oribensis Hale SPECIES
 
 #### Status
 ACCEPTED

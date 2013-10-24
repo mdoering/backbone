@@ -1,5 +1,4 @@
-Sarcogyne sikkimensis Räsänen SPECIES
-=======
+# Sarcogyne sikkimensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

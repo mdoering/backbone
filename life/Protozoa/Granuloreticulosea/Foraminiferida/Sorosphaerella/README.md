@@ -1,5 +1,4 @@
-Sorosphaerella GENUS
-=======
+# Sorosphaerella GENUS
 
 #### Status
 ACCEPTED

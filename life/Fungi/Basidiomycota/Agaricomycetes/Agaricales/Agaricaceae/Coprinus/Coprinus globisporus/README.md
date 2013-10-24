@@ -1,5 +1,4 @@
-Coprinus globisporus Romagn. SPECIES
-=======
+# Coprinus globisporus Romagn. SPECIES
 
 #### Status
 ACCEPTED

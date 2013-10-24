@@ -1,5 +1,4 @@
-Leptostroma acaciae McAlpine SPECIES
-=======
+# Leptostroma acaciae McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria atratula P. Karst. SPECIES
-=======
+# Patellaria atratula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

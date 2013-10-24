@@ -1,5 +1,4 @@
-Xanthoparmelia toninioides Hale SPECIES
-=======
+# Xanthoparmelia toninioides Hale SPECIES
 
 #### Status
 ACCEPTED

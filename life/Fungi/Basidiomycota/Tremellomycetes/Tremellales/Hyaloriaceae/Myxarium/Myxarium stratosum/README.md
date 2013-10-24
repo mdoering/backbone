@@ -1,5 +1,4 @@
-Myxarium stratosum (Bourdot & Galzin) M. Dueñas SPECIES
-=======
+# Myxarium stratosum (Bourdot & Galzin) M. Dueñas SPECIES
 
 #### Status
 ACCEPTED

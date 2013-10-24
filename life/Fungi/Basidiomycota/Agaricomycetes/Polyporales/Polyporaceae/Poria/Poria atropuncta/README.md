@@ -1,5 +1,4 @@
-Poria atropuncta Rick SPECIES
-=======
+# Poria atropuncta Rick SPECIES
 
 #### Status
 ACCEPTED

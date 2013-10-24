@@ -1,5 +1,4 @@
-Psorothecium rehmii Körb. SPECIES
-=======
+# Psorothecium rehmii Körb. SPECIES
 
 #### Status
 ACCEPTED

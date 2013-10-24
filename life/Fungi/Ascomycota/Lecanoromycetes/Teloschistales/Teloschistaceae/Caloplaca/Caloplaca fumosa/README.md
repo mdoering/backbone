@@ -1,5 +1,4 @@
-Caloplaca fumosa Zahlbr. SPECIES
-=======
+# Caloplaca fumosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

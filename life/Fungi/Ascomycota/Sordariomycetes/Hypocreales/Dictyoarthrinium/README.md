@@ -1,5 +1,4 @@
-Dictyoarthrinium S. Hughes GENUS
-=======
+# Dictyoarthrinium S. Hughes GENUS
 
 #### Status
 ACCEPTED

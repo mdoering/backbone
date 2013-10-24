@@ -1,5 +1,4 @@
-Prunulus curvipes (Peck) Murrill SPECIES
-=======
+# Prunulus curvipes (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

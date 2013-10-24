@@ -1,5 +1,4 @@
-Alternaria cicina E.G. Simmons SPECIES
-=======
+# Alternaria cicina E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

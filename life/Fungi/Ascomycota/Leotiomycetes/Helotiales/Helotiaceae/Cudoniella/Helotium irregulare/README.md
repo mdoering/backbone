@@ -1,5 +1,4 @@
-Helotium irregulare Rick SPECIES
-=======
+# Helotium irregulare Rick SPECIES
 
 #### Status
 ACCEPTED

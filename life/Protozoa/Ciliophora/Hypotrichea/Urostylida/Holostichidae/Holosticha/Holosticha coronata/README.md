@@ -1,5 +1,4 @@
-Holosticha coronata (Vuxanovici, 1963) Buitkamp, 1977 SPECIES
-=======
+# Holosticha coronata (Vuxanovici, 1963) Buitkamp, 1977 SPECIES
 
 #### Status
 ACCEPTED

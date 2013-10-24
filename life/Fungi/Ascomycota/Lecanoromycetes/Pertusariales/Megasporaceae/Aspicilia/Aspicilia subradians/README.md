@@ -1,5 +1,4 @@
-Aspicilia subradians (Nyl.) Hue SPECIES
-=======
+# Aspicilia subradians (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

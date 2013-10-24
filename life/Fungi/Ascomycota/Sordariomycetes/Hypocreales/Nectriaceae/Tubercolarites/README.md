@@ -1,5 +1,4 @@
-Tubercolarites Barsanti GENUS
-=======
+# Tubercolarites Barsanti GENUS
 
 #### Status
 ACCEPTED

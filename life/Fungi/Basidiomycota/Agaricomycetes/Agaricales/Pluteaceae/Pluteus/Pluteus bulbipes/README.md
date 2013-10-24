@@ -1,5 +1,4 @@
-Pluteus bulbipes Henn. SPECIES
-=======
+# Pluteus bulbipes Henn. SPECIES
 
 #### Status
 ACCEPTED

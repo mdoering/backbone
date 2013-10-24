@@ -1,5 +1,4 @@
-Cryptocline sphaerospora Matsush. SPECIES
-=======
+# Cryptocline sphaerospora Matsush. SPECIES
 
 #### Status
 ACCEPTED

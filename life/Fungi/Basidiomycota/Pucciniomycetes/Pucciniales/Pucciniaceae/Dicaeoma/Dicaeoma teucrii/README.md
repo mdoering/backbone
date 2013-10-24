@@ -1,5 +1,4 @@
-Dicaeoma teucrii (Biv.) Kuntze SPECIES
-=======
+# Dicaeoma teucrii (Biv.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

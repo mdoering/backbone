@@ -1,5 +1,4 @@
-Septoria vanhoffenii Henn. SPECIES
-=======
+# Septoria vanhoffenii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora tersa (Fr.) J. Steiner SPECIES
-=======
+# Acarospora tersa (Fr.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

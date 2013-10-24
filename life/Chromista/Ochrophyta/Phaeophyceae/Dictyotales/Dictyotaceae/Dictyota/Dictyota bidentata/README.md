@@ -1,5 +1,4 @@
-Dictyota bidentata Harvey & Bailey SPECIES
-=======
+# Dictyota bidentata Harvey & Bailey SPECIES
 
 #### Status
 ACCEPTED

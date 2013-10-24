@@ -1,5 +1,4 @@
-Selenidium orientale Bogolepova, 1953 SPECIES
-=======
+# Selenidium orientale Bogolepova, 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podosporium eugeniae Bat. & M.L. Farr SPECIES
-=======
+# Podosporium eugeniae Bat. & M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphairogullmia aurea Nyholm, 1974 SPECIES
-=======
+# Sphairogullmia aurea Nyholm, 1974 SPECIES
 
 #### Status
 ACCEPTED

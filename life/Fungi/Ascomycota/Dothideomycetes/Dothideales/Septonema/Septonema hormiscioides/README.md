@@ -1,5 +1,4 @@
-Septonema hormiscioides Petch SPECIES
-=======
+# Septonema hormiscioides Petch SPECIES
 
 #### Status
 ACCEPTED

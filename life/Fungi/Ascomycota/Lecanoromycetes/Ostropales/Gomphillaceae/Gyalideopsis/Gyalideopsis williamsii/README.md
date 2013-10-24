@@ -1,5 +1,4 @@
-Gyalideopsis williamsii Kalb & Vezda SPECIES
-=======
+# Gyalideopsis williamsii Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

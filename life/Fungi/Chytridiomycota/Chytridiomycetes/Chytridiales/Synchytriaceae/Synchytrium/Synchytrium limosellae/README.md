@@ -1,5 +1,4 @@
-Synchytrium limosellae Karling, 1968 SPECIES
-=======
+# Synchytrium limosellae Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Endomyces bisporus O. Beck, 1922 SPECIES
-=======
+# Wickerhamomyces bisporus (O. Beck) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 8(6): 952 (2008)
 
 #### Original name
-null
+Endomyces bisporus O. Beck, 1922
 
 ### Remarks
 null

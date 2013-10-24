@@ -1,5 +1,4 @@
-Diaporthopsis spiraeae E. Müll. & S. Ahmad SPECIES
-=======
+# Diaporthopsis spiraeae E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaceloma zelkovae Kuros. {?} & Katsuki SPECIES
-=======
+# Sphaceloma zelkovae Kuros. {?} & Katsuki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polygonium delicatum Rasul, 1979 SPECIES
-=======
+# Polygonium delicatum Rasul, 1979 SPECIES
 
 #### Status
 ACCEPTED

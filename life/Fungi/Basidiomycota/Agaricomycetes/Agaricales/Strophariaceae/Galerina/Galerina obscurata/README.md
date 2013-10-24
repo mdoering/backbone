@@ -1,5 +1,4 @@
-Galerina obscurata A.H. Sm. SPECIES
-=======
+# Galerina obscurata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

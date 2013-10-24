@@ -1,5 +1,4 @@
-Salinivibrio Mellado, Moore & Nieto, 1996 GENUS
-=======
+# Salinivibrio Mellado, Moore & Nieto, 1996 GENUS
 
 #### Status
 ACCEPTED

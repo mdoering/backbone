@@ -1,5 +1,4 @@
-Nodosaria comatula SPECIES
-=======
+# Nodosaria comatula SPECIES
 
 #### Status
 ACCEPTED

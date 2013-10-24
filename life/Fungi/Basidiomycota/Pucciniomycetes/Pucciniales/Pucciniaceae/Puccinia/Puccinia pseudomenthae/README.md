@@ -1,5 +1,4 @@
-Puccinia pseudomenthae G. Cunn. SPECIES
-=======
+# Puccinia pseudomenthae G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

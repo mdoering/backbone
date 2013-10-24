@@ -1,5 +1,4 @@
-Leptosphaeria macrochloae Lacoste SPECIES
-=======
+# Leptosphaeria macrochloae Lacoste SPECIES
 
 #### Status
 ACCEPTED

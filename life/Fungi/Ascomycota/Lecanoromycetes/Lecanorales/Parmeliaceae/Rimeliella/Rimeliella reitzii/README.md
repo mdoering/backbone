@@ -1,5 +1,4 @@
-Rimeliella reitzii (Hale) A. Fletcher SPECIES
-=======
+# Rimeliella reitzii (Hale) A. Fletcher SPECIES
 
 #### Status
 ACCEPTED

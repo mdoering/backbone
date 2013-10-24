@@ -1,5 +1,4 @@
-Calvatia septentrionalis M. Lange SPECIES
-=======
+# Calvatia septentrionalis M. Lange SPECIES
 
 #### Status
 ACCEPTED

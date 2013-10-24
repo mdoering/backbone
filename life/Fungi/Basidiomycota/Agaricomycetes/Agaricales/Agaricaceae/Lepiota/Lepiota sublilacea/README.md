@@ -1,5 +1,4 @@
-Lepiota sublilacea Peck SPECIES
-=======
+# Lepiota sublilacea Peck SPECIES
 
 #### Status
 ACCEPTED

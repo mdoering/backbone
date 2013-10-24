@@ -1,5 +1,4 @@
-Prosthemium kentiae McAlpine SPECIES
-=======
+# Prosthemium kentiae McAlpine SPECIES
 
 #### Status
 ACCEPTED

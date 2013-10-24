@@ -1,5 +1,4 @@
-Bisporella rubescens (Saut.) S.E. Carp. SPECIES
-=======
+# Bisporella rubescens (Saut.) S.E. Carp. SPECIES
 
 #### Status
 ACCEPTED

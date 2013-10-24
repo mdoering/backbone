@@ -1,5 +1,4 @@
-Sphaeria miniata Hoffm. SPECIES
-=======
+# Sphaeria miniata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

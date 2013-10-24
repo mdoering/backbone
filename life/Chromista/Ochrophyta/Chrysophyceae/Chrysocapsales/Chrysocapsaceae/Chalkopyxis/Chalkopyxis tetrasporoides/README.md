@@ -1,5 +1,4 @@
-Chalkopyxis tetrasporoides Pascher SPECIES
-=======
+# Chalkopyxis tetrasporoides Pascher SPECIES
 
 #### Status
 ACCEPTED

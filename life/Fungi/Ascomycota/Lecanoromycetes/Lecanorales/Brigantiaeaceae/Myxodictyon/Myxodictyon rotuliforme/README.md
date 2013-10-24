@@ -1,5 +1,4 @@
-Myxodictyon rotuliforme (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Myxodictyon rotuliforme (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

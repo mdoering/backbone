@@ -1,5 +1,4 @@
-Phyllosticta galacis (Cooke) Ellis & Everh. SPECIES
-=======
+# Phyllosticta galacis (Cooke) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

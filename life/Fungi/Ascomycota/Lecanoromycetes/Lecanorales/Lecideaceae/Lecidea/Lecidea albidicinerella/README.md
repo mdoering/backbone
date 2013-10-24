@@ -1,5 +1,4 @@
-Lecidea albidicinerella Vain. SPECIES
-=======
+# Lecidea albidicinerella Vain. SPECIES
 
 #### Status
 ACCEPTED

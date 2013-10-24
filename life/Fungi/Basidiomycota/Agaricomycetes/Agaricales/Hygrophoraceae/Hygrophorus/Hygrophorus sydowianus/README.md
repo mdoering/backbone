@@ -1,5 +1,4 @@
-Hygrophorus sydowianus Henn. SPECIES
-=======
+# Hygrophorus sydowianus Henn. SPECIES
 
 #### Status
 ACCEPTED

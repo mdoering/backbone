@@ -1,5 +1,4 @@
-Mycena fagetorum (Fr.) Gillet SPECIES
-=======
+# Mycena fagetorum (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

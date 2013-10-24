@@ -1,5 +1,4 @@
-Phanerochaetaceae FAMILY
-=======
+# Phanerochaetaceae FAMILY
 
 #### Status
 ACCEPTED

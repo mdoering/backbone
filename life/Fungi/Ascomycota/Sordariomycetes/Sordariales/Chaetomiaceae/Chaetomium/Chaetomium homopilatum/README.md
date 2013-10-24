@@ -1,5 +1,4 @@
-Chaetomium homopilatum Omvik, 1955 SPECIES
-=======
+# Chaetomium homopilatum Omvik, 1955 SPECIES
 
 #### Status
 ACCEPTED

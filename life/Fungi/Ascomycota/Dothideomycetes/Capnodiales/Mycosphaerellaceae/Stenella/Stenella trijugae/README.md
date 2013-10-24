@@ -1,5 +1,4 @@
-Stenella trijugae (B. Rai & Kamal) U. Braun SPECIES
-=======
+# Stenella trijugae (B. Rai & Kamal) U. Braun SPECIES
 
 #### Status
 ACCEPTED

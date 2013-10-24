@@ -1,5 +1,4 @@
-Leptosphaeria gaultheriae Dearn. SPECIES
-=======
+# Leptosphaeria gaultheriae Dearn. SPECIES
 
 #### Status
 ACCEPTED

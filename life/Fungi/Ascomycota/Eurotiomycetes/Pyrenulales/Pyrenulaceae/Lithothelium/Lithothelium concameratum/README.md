@@ -1,5 +1,4 @@
-Lithothelium concameratum (Stirt.) Makhija, Adaw. & Patw. SPECIES
-=======
+# Lithothelium concameratum (Stirt.) Makhija, Adaw. & Patw. SPECIES
 
 #### Status
 ACCEPTED

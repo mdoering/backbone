@@ -1,5 +1,4 @@
-Sphaerella wichuriana var. wichuriana VARIETY
-=======
+# Sphaerella wichuriana J. Schröt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella wichuriana var. wichuriana
+Sphaerella wichuriana J. Schröt.
 
 ### Remarks
 null

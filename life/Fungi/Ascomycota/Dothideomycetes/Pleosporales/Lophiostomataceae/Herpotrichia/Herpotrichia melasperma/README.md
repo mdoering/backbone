@@ -1,5 +1,4 @@
-Herpotrichia melasperma (Cooke) Sivan. SPECIES
-=======
+# Herpotrichia melasperma (Cooke) Sivan. SPECIES
 
 #### Status
 ACCEPTED

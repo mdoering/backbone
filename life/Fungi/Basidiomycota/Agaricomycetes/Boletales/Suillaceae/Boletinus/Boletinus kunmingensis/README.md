@@ -1,5 +1,4 @@
-Boletinus kunmingensis W.F. Chiu SPECIES
-=======
+# Boletinus kunmingensis W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

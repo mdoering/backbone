@@ -1,14 +1,13 @@
-Cercosporella poagena R. Sprague, 1942 SPECIES
-=======
+# Spermospora poagena (R. Sprague) MacGarvie & O'Rourke, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 32: 738 (1942)
+Iran. Jl agric. Res. 8(1): 165 (1969)
 
 #### Original name
 Cercosporella poagena R. Sprague, 1942

@@ -1,5 +1,4 @@
-Margosphaera E. Nagy, 1965 GENUS
-=======
+# Margosphaera E. Nagy, 1965 GENUS
 
 #### Status
 ACCEPTED

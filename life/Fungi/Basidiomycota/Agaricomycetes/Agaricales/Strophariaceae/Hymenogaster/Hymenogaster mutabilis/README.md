@@ -1,5 +1,4 @@
-Hymenogaster mutabilis (Soehner) Zeller & C.W. Dodge SPECIES
-=======
+# Hymenogaster mutabilis (Soehner) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

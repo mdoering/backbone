@@ -1,5 +1,4 @@
-Laboulbenia orechtochili Thaxt. SPECIES
-=======
+# Laboulbenia orechtochili Thaxt. SPECIES
 
 #### Status
 ACCEPTED

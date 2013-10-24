@@ -1,5 +1,4 @@
-Mycobacterium saskatchewanense Turenne et al., 2004 SPECIES
-=======
+# Mycobacterium saskatchewanense Turenne et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

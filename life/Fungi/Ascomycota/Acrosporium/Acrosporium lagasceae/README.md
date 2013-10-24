@@ -1,5 +1,4 @@
-Acrosporium lagasceae (Chidd.) Subram. SPECIES
-=======
+# Acrosporium lagasceae (Chidd.) Subram. SPECIES
 
 #### Status
 ACCEPTED

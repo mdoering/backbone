@@ -1,5 +1,4 @@
-Dimerosporium lepidagathis Henn. SPECIES
-=======
+# Dimerosporium lepidagathis Henn. SPECIES
 
 #### Status
 ACCEPTED

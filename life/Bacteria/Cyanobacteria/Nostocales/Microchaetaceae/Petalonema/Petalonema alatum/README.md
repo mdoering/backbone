@@ -1,5 +1,4 @@
-Petalonema alatum Berkeley ex Kirchner SPECIES
-=======
+# Petalonema alatum Berkeley ex Kirchner SPECIES
 
 #### Status
 ACCEPTED

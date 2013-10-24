@@ -1,5 +1,4 @@
-Boletus rubescentipes Kauffman SPECIES
-=======
+# Boletus rubescentipes Kauffman SPECIES
 
 #### Status
 ACCEPTED

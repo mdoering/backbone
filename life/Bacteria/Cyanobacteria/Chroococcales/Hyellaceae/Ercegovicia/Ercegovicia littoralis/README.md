@@ -1,8 +1,7 @@
-Brachynema littorale Ercegovic, 1931 SPECIES
-=======
+# Ercegovicia littoralis (Ercegovic) G.De Toni, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

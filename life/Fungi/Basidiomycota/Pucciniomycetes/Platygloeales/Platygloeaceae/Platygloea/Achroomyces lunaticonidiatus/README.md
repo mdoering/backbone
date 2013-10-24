@@ -1,5 +1,4 @@
-Achroomyces lunaticonidiatus Van de Put SPECIES
-=======
+# Achroomyces lunaticonidiatus Van de Put SPECIES
 
 #### Status
 ACCEPTED

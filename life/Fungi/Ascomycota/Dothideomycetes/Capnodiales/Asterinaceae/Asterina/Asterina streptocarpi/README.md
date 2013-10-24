@@ -1,5 +1,4 @@
-Asterina streptocarpi Doidge SPECIES
-=======
+# Asterina streptocarpi Doidge SPECIES
 
 #### Status
 ACCEPTED

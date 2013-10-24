@@ -1,5 +1,4 @@
-Pseudosphaerella trifolii Woron. SPECIES
-=======
+# Pseudosphaerella trifolii Woron. SPECIES
 
 #### Status
 ACCEPTED

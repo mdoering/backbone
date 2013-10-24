@@ -1,5 +1,4 @@
-Boletellus fallax (Corner) Watling SPECIES
-=======
+# Boletellus fallax (Corner) Watling SPECIES
 
 #### Status
 ACCEPTED

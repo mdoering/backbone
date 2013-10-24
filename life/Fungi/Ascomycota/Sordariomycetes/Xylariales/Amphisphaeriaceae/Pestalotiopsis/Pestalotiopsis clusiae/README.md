@@ -1,5 +1,4 @@
-Pestalotiopsis clusiae (Griffon & Maubl.) J. Xiang Zhang & T. Xu SPECIES
-=======
+# Pestalotiopsis clusiae (Griffon & Maubl.) J. Xiang Zhang & T. Xu SPECIES
 
 #### Status
 ACCEPTED

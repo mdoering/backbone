@@ -1,5 +1,4 @@
-Penicillium plumiferum Demelius SPECIES
-=======
+# Penicillium plumiferum Demelius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus virgineus Banning & Peck SPECIES
-=======
+# Coprinus virgineus Banning & Peck SPECIES
 
 #### Status
 ACCEPTED

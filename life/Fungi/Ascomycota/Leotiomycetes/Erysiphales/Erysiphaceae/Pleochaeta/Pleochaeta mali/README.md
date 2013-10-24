@@ -1,5 +1,4 @@
-Pleochaeta mali Eliade SPECIES
-=======
+# Pleochaeta mali Eliade SPECIES
 
 #### Status
 ACCEPTED

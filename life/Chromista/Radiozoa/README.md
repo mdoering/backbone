@@ -1,5 +1,4 @@
-Radiozoa PHYLUM
-=======
+# Radiozoa PHYLUM
 
 #### Status
 ACCEPTED

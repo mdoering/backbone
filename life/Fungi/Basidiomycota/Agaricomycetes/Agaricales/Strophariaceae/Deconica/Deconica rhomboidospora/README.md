@@ -1,5 +1,4 @@
-Deconica rhomboidospora G.F. Atk. SPECIES
-=======
+# Deconica rhomboidospora G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

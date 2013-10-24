@@ -1,5 +1,4 @@
-Stictis pelvicula Pers. SPECIES
-=======
+# Stictis pelvicula Pers. SPECIES
 
 #### Status
 ACCEPTED

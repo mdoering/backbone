@@ -1,5 +1,4 @@
-Devriesia chlamydospora (Matsush.) Seifert & N.L. Nick., 2004 SPECIES
-=======
+# Devriesia chlamydospora (Matsush.) Seifert & N.L. Nick., 2004 SPECIES
 
 #### Status
 ACCEPTED

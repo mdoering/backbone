@@ -1,5 +1,4 @@
-Helotium obtusum var. obtusum VARIETY
-=======
+# Helotium obtusum Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 192 (1934)
 
 #### Original name
-Helotium obtusum var. obtusum
+Helotium obtusum Velen.
 
 ### Remarks
 null

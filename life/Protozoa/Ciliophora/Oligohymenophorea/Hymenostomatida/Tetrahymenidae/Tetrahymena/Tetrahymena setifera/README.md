@@ -1,5 +1,4 @@
-Tetrahymena setifera Holz & Corliss, 1956 SPECIES
-=======
+# Tetrahymena setifera Holz & Corliss, 1956 SPECIES
 
 #### Status
 ACCEPTED

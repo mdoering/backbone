@@ -1,5 +1,4 @@
-Lecidea albonigricans SPECIES
-=======
+# Lecidea albonigricans SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula meleagris Buyck SPECIES
-=======
+# Russula meleagris Buyck SPECIES
 
 #### Status
 ACCEPTED

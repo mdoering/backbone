@@ -1,5 +1,4 @@
-Glabratella elongata SPECIES
-=======
+# Glabratella elongata SPECIES
 
 #### Status
 ACCEPTED

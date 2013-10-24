@@ -1,5 +1,4 @@
-Polychidium rivale (Tuck.) Fink SPECIES
-=======
+# Polychidium rivale (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachyhelicoon G. Arnaud GENUS
-=======
+# Brachyhelicoon G. Arnaud GENUS
 
 #### Status
 ACCEPTED

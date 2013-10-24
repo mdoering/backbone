@@ -1,5 +1,4 @@
-Omphalia caesioatra Speg. SPECIES
-=======
+# Omphalia caesioatra Speg. SPECIES
 
 #### Status
 ACCEPTED

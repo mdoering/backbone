@@ -1,5 +1,4 @@
-Sphaeria cirrhostoma Berk. & Broome SPECIES
-=======
+# Sphaeria cirrhostoma Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyromitra melaleucoides (Seaver) Pfister SPECIES
-=======
+# Gyromitra melaleucoides (Seaver) Pfister SPECIES
 
 #### Status
 ACCEPTED

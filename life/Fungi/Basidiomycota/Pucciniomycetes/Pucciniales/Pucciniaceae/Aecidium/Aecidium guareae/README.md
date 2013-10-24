@@ -1,5 +1,4 @@
-Aecidium guareae Henn. SPECIES
-=======
+# Aecidium guareae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiofusa cucumis Le Hérissé, Al-Tayyar & van der Eem, 1995 SPECIES
-=======
+# Leiofusa cucumis Le Hérissé, Al-Tayyar & van der Eem, 1995 SPECIES
 
 #### Status
 ACCEPTED

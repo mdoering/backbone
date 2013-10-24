@@ -1,14 +1,13 @@
-Gerronema subobscura (Singer) Raithelh. SPECIES
-=======
+# Gerronema subobscurum (Singer) Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Metrodiana 9(2): 48 (1980)
 
 #### Original name
 Omphalina subobscura Singer

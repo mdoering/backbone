@@ -1,5 +1,4 @@
-Galera lirata Berk. & M.A. Curtis SPECIES
-=======
+# Galera lirata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

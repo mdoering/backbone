@@ -1,5 +1,4 @@
-Symploca willei N.L. Gardner SPECIES
-=======
+# Symploca willei N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

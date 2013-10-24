@@ -1,5 +1,4 @@
-Physalospora hoyae Höhn. SPECIES
-=======
+# Physalospora hoyae Höhn. SPECIES
 
 #### Status
 ACCEPTED

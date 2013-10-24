@@ -1,5 +1,4 @@
-Psiloglonium GENUS
-=======
+# Psiloglonium GENUS
 
 #### Status
 ACCEPTED

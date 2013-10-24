@@ -1,5 +1,4 @@
-Asterina knysnae Doidge SPECIES
-=======
+# Asterina knysnae Doidge SPECIES
 
 #### Status
 ACCEPTED

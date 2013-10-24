@@ -1,5 +1,4 @@
-Opegrapha mazosiae Matzer SPECIES
-=======
+# Opegrapha mazosiae Matzer SPECIES
 
 #### Status
 ACCEPTED

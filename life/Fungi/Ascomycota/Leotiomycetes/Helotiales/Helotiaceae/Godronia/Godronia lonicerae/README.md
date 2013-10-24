@@ -1,5 +1,4 @@
-Godronia lonicerae Seaver SPECIES
-=======
+# Godronia lonicerae Seaver SPECIES
 
 #### Status
 ACCEPTED

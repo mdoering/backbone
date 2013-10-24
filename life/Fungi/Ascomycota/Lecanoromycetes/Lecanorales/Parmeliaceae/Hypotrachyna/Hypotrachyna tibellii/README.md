@@ -1,5 +1,4 @@
-Hypotrachyna tibellii Elix, T. H. Nash & Sipman SPECIES
-=======
+# Hypotrachyna tibellii Elix, T. H. Nash & Sipman SPECIES
 
 #### Status
 ACCEPTED

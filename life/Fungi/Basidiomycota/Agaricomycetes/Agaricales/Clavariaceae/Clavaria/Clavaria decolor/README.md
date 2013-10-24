@@ -1,5 +1,4 @@
-Clavaria decolor Berk. & M.A. Curtis SPECIES
-=======
+# Clavaria decolor Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

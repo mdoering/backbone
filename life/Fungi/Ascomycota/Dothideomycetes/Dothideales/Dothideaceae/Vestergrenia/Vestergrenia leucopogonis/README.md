@@ -1,5 +1,4 @@
-Vestergrenia leucopogonis Hansf., 1957 SPECIES
-=======
+# Vestergrenia leucopogonis Hansf., 1957 SPECIES
 
 #### Status
 ACCEPTED

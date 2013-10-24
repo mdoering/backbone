@@ -1,5 +1,4 @@
-Pseudoalteromonas prydzensis Bowman, 1998 SPECIES
-=======
+# Pseudoalteromonas prydzensis Bowman, 1998 SPECIES
 
 #### Status
 ACCEPTED

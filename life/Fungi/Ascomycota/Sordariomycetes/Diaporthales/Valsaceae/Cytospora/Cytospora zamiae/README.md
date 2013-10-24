@@ -1,5 +1,4 @@
-Cytospora zamiae V.G. Rao & B.R.D. Yadav SPECIES
-=======
+# Cytospora zamiae V.G. Rao & B.R.D. Yadav SPECIES
 
 #### Status
 ACCEPTED

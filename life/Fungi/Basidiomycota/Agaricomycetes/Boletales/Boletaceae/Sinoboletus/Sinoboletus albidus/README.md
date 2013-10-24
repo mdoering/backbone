@@ -1,5 +1,4 @@
-Sinoboletus albidus M. Zang & R.H. Petersen, 2004 SPECIES
-=======
+# Sinoboletus albidus M. Zang & R.H. Petersen, 2004 SPECIES
 
 #### Status
 ACCEPTED

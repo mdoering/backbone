@@ -1,17 +1,16 @@
-Hygrocybe luteolaeta Arnolds, 1985 SPECIES
-=======
+# Hygrocybe vitellina (Fr.) P. Karst., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 12(4): 477 (1985)
+Bidr. Känn. Finl. Nat. Folk 32: 233 (1879)
 
 #### Original name
-Hygrocybe luteolaeta Arnolds, 1985
+Hygrophorus vitellinus Fr., 1863
 
 ### Remarks
 null

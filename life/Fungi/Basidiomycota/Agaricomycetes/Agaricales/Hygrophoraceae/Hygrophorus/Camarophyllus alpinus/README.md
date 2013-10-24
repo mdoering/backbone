@@ -1,5 +1,4 @@
-Camarophyllus alpinus M.M. Moser SPECIES
-=======
+# Camarophyllus alpinus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

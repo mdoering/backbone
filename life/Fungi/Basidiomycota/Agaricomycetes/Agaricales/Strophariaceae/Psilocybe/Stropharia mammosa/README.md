@@ -1,5 +1,4 @@
-Stropharia mammosa Kill. SPECIES
-=======
+# Stropharia mammosa Kill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyophyllum nigrescens Hongo SPECIES
-=======
+# Lyophyllum nigrescens Hongo SPECIES
 
 #### Status
 ACCEPTED

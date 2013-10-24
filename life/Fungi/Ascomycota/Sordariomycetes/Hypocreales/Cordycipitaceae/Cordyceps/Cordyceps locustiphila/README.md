@@ -1,5 +1,4 @@
-Cordyceps locustiphila Henn. SPECIES
-=======
+# Cordyceps locustiphila Henn. SPECIES
 
 #### Status
 ACCEPTED

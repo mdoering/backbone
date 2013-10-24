@@ -1,5 +1,4 @@
-Pseudacanthosphaera GENUS
-=======
+# Pseudacanthosphaera GENUS
 
 #### Status
 ACCEPTED

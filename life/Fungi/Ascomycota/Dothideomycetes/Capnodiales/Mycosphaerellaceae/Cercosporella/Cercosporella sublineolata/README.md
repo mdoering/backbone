@@ -1,5 +1,4 @@
-Cercosporella sublineolata (Thüm.) Höhn. SPECIES
-=======
+# Cercosporella sublineolata (Thüm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

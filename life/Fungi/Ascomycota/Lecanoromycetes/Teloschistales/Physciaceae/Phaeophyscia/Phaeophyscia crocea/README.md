@@ -1,5 +1,4 @@
-Phaeophyscia crocea Aptroot & Sipman SPECIES
-=======
+# Phaeophyscia crocea Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Rhabdospora molleriana Sousa da Câmara SPECIES
-=======
+# Rhabdospora moelleriana Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhabdospora molleriana Sousa da Câmara
+Rhabdospora moelleriana Sousa da Câmara
 
 ### Remarks
 null

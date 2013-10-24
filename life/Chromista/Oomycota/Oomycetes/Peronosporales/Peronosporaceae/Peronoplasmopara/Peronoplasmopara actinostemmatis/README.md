@@ -1,8 +1,7 @@
-Peronoplasmopara actinostemmae Sawada SPECIES
-=======
+# Peronoplasmopara actinostemmatis Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peronoplasmopara actinostemmae Sawada
+Peronoplasmopara actinostemmatis Sawada
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diplodia aquifolia Westend. SPECIES
-=======
+# Diplodia aquifolia Westend. SPECIES
 
 #### Status
 ACCEPTED

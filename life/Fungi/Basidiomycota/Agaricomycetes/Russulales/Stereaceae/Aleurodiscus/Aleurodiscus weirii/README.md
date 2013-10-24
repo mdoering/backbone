@@ -1,14 +1,13 @@
-Acanthophysium weirii (Burt) Nakasone, 1990 SPECIES
-=======
+# Aleurodiscus weirii Burt, 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bi, Zheng & Li, [Macrofungus Flora of the Mountainous District of North Guangdong] (Guangdong) 47 (1990)
+Ann. Mo. bot. Gdn 5: 203 (1918)
 
 #### Original name
 Aleurodiscus weirii Burt, 1918

@@ -1,17 +1,16 @@
-Biatora crenata f. dealbata Tuck. FORM
-=======
+# Psora crenata (Taylor) Reinke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. wiss. Bot. 28: 97 (1895)
 
 #### Original name
-null
+Endocarpon crenatum Taylor
 
 ### Remarks
 null

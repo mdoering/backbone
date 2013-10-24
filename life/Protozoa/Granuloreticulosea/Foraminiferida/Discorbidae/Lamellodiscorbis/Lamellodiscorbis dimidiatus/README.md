@@ -1,8 +1,7 @@
-Discorbina dimidiata Jones & Parker in Carpenter, Parker & Jones, 1862 SPECIES
-=======
+# Lamellodiscorbis dimidiatus (Jones & Parker, 1862) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

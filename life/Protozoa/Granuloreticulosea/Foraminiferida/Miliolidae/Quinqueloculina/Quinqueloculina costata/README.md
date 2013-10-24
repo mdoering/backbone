@@ -1,5 +1,4 @@
-Quinqueloculina costata SPECIES
-=======
+# Quinqueloculina costata SPECIES
 
 #### Status
 ACCEPTED

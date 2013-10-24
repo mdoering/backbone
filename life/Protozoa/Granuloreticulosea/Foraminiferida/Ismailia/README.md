@@ -1,5 +1,4 @@
-Ismailia El-Dakkak, 1974 GENUS
-=======
+# Ismailia El-Dakkak, 1974 GENUS
 
 #### Status
 ACCEPTED

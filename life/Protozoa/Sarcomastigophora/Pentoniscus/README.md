@@ -1,5 +1,4 @@
-Pentoniscus Haeckel, 1887 GENUS
-=======
+# Pentoniscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ellipsoidion cryophilum E. Kol SPECIES
-=======
+# Ellipsoidion cryophilum E. Kol SPECIES
 
 #### Status
 ACCEPTED

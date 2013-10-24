@@ -1,5 +1,4 @@
-Cortinarius citreisporus Bidaud & Fillion SPECIES
-=======
+# Cortinarius citreisporus Bidaud & Fillion SPECIES
 
 #### Status
 ACCEPTED

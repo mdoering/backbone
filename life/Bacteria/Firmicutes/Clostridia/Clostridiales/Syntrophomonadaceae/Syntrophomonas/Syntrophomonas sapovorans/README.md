@@ -1,5 +1,4 @@
-Syntrophomonas sapovorans Roy et al., 1987 SPECIES
-=======
+# Syntrophomonas sapovorans Roy et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

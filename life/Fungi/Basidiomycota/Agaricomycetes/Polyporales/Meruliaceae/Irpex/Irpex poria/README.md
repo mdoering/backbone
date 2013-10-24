@@ -1,5 +1,4 @@
-Irpex poria Rick SPECIES
-=======
+# Irpex poria Rick SPECIES
 
 #### Status
 ACCEPTED

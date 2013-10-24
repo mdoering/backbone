@@ -1,5 +1,4 @@
-Botryodiplodia clusiae Petr. SPECIES
-=======
+# Botryodiplodia clusiae Petr. SPECIES
 
 #### Status
 ACCEPTED

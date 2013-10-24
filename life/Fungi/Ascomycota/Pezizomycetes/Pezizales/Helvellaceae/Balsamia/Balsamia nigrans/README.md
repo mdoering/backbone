@@ -1,17 +1,16 @@
-Balsamia nigrens Harkn. SPECIES
-=======
+# Balsamia nigrans Harkn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Calif. Acad. Sci. , Ser. 3, Bot. 1: 264 (1899)
 
 #### Original name
-Balsamia nigrens Harkn.
+Balsamia nigrans Harkn.
 
 ### Remarks
 null

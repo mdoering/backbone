@@ -1,5 +1,4 @@
-Tulostoma fibrillosum V.S. White SPECIES
-=======
+# Tulostoma fibrillosum V.S. White SPECIES
 
 #### Status
 ACCEPTED

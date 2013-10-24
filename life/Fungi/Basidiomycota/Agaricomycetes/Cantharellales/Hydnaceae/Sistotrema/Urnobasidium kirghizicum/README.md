@@ -1,5 +1,4 @@
-Urnobasidium kirghizicum Parmasto SPECIES
-=======
+# Urnobasidium kirghizicum Parmasto SPECIES
 
 #### Status
 ACCEPTED

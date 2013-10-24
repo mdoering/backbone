@@ -1,5 +1,4 @@
-Amanita yenii Zhu L. Yang & C.M. Chen SPECIES
-=======
+# Amanita yenii Zhu L. Yang & C.M. Chen SPECIES
 
 #### Status
 ACCEPTED

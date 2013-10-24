@@ -1,5 +1,4 @@
-Phyllohendersonia alcides (Sacc.) Tassi SPECIES
-=======
+# Phyllohendersonia alcides (Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

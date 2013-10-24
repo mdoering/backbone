@@ -1,5 +1,4 @@
-Sciniatosporium platani-racemosae (Dearn. & Barthol.) E.B.G. Jones SPECIES
-=======
+# Sciniatosporium platani-racemosae (Dearn. & Barthol.) E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

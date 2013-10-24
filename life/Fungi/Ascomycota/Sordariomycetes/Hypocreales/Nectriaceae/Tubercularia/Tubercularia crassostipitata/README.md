@@ -1,5 +1,4 @@
-Tubercularia crassostipitata Fuckel SPECIES
-=======
+# Tubercularia crassostipitata Fuckel SPECIES
 
 #### Status
 ACCEPTED

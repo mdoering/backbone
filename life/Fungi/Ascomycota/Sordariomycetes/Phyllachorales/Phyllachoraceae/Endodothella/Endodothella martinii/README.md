@@ -1,5 +1,4 @@
-Endodothella martinii Bat., 1960 SPECIES
-=======
+# Endodothella martinii Bat., 1960 SPECIES
 
 #### Status
 ACCEPTED

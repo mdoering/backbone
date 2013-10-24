@@ -1,5 +1,4 @@
-Rinodina tominii H. Mayrhofer SPECIES
-=======
+# Rinodina tominii H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

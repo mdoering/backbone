@@ -1,5 +1,4 @@
-Dicaeoma plectranthi (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma plectranthi (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

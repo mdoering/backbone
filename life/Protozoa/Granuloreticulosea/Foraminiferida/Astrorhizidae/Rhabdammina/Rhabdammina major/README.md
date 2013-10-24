@@ -1,5 +1,4 @@
-Rhabdammina major (DeFolin, 1986) SPECIES
-=======
+# Rhabdammina major (DeFolin, 1986) SPECIES
 
 #### Status
 ACCEPTED

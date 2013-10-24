@@ -1,5 +1,4 @@
-Polyporus dahlianus Henn. SPECIES
-=======
+# Polyporus dahlianus Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora berberidis Lobik SPECIES
-=======
+# Rhabdospora berberidis Lobik SPECIES
 
 #### Status
 ACCEPTED

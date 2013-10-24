@@ -1,17 +1,16 @@
-Pleurographium Goid. GENUS
-=======
+# Nodulisporium Preuss, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annali Bot. , Roma 21: 48 (1935)
+null
 
 #### Original name
-Pleurographium Goid.
+null
 
 ### Remarks
 null

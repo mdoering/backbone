@@ -1,5 +1,4 @@
-Massarina australiensis K.D. Hyde SPECIES
-=======
+# Massarina australiensis K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

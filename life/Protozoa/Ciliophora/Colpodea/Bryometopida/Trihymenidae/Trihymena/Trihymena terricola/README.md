@@ -1,5 +1,4 @@
-Trihymena terricola Foissner, 1988 SPECIES
-=======
+# Trihymena terricola Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

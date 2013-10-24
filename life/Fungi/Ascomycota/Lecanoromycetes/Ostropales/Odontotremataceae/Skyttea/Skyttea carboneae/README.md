@@ -1,5 +1,4 @@
-Skyttea carboneae Diederich & Etayo SPECIES
-=======
+# Skyttea carboneae Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

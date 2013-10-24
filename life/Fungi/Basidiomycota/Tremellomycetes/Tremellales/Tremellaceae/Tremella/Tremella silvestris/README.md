@@ -1,5 +1,4 @@
-Tremella silvestris Holterm. SPECIES
-=======
+# Tremella silvestris Holterm. SPECIES
 
 #### Status
 ACCEPTED

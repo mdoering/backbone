@@ -1,11 +1,10 @@
-Recurvoidatus trochamminiformis subsp. trochamminiformis SUBSPECIES
-=======
+# Recurvoidatus trochamminiformis (Saidova) SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+World Register of Marine Species
 
 #### Published in
 null

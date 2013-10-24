@@ -1,5 +1,4 @@
-Scutisporium soredosporum Preuss SPECIES
-=======
+# Scutisporium soredosporum Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterovibrio norvegicus Thompson et al., 2002 SPECIES
-=======
+# Enterovibrio norvegicus Thompson et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

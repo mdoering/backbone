@@ -1,5 +1,4 @@
-Sulcatosphaeridium tuberculatum N. Umnova, 1975 SPECIES
-=======
+# Sulcatosphaeridium tuberculatum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola nigra F. Stevens SPECIES
-=======
+# Meliola nigra F. Stevens SPECIES
 
 #### Status
 ACCEPTED

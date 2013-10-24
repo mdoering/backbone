@@ -1,5 +1,4 @@
-Mycobacterium immunogenum Wilson et al., 2001 SPECIES
-=======
+# Mycobacterium immunogenum Wilson et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

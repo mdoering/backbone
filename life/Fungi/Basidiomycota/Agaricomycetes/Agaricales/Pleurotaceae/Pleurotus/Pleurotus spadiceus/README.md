@@ -1,5 +1,4 @@
-Pleurotus spadiceus P. Karst. SPECIES
-=======
+# Pleurotus spadiceus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

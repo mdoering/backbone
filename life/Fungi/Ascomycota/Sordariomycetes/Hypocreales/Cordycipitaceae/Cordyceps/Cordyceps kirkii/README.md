@@ -1,5 +1,4 @@
-Cordyceps kirkii G. Cunn., 1922 SPECIES
-=======
+# Cordyceps kirkii G. Cunn., 1922 SPECIES
 
 #### Status
 ACCEPTED

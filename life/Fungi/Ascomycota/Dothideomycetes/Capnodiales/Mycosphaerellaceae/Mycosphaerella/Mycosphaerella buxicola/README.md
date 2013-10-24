@@ -1,17 +1,16 @@
-Phyllosticta limbalis var. etrusca VARIETY
-=======
+# Mycosphaerella buxicola (DC.) Tomilin, 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 6: 119 (1970)
 
 #### Original name
-Phyllosticta limbalis var. etrusca
+Sphaeria buxicola DC.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Humaria raimundoi Rehm SPECIES
-=======
+# Humaria raimundoi Rehm SPECIES
 
 #### Status
 ACCEPTED

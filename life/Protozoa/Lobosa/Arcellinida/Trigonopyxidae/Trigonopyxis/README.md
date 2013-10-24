@@ -1,5 +1,4 @@
-Trigonopyxis Penard, 1912 GENUS
-=======
+# Trigonopyxis Penard, 1912 GENUS
 
 #### Status
 ACCEPTED

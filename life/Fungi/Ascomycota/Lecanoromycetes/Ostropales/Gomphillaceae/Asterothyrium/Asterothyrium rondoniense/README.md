@@ -1,5 +1,4 @@
-Asterothyrium rondoniense Bat. & H. Maia ex Henssen & Lücking SPECIES
-=======
+# Asterothyrium rondoniense Bat. & H. Maia ex Henssen & Lücking SPECIES
 
 #### Status
 ACCEPTED

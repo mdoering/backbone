@@ -1,5 +1,4 @@
-Collemopsis numidella Nyl. SPECIES
-=======
+# Collemopsis numidella Nyl. SPECIES
 
 #### Status
 ACCEPTED

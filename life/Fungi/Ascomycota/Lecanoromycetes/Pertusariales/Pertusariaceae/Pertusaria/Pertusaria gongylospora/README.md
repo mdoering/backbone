@@ -1,5 +1,4 @@
-Pertusaria gongylospora Elix & A.W. Archer SPECIES
-=======
+# Pertusaria gongylospora Elix & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

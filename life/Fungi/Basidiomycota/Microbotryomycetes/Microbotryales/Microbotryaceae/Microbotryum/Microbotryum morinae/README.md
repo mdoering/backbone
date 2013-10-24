@@ -1,14 +1,13 @@
-Bauhinus morinae (Padwick & A. Khan) Denchev, 1997 SPECIES
-=======
+# Microbotryum morinae (Padwick & A. Khan) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 65: 423 (1997)
+Mycotaxon 67: 46 (1998)
 
 #### Original name
 Ustilago morinae Padwick & A. Khan, 1944

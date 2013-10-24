@@ -1,5 +1,4 @@
-Placodium rhodocarpum (Nyl.) Müll. Arg. SPECIES
-=======
+# Placodium rhodocarpum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodermia flavosquamosa Aptroot & Sipman SPECIES
-=======
+# Heterodermia flavosquamosa Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

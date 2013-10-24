@@ -1,5 +1,4 @@
-Hypholoma squarrosum Velen. SPECIES
-=======
+# Hypholoma squarrosum Velen. SPECIES
 
 #### Status
 ACCEPTED

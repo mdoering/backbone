@@ -1,5 +1,4 @@
-Septogloeum niisimae Hemmi SPECIES
-=======
+# Septogloeum niisimae Hemmi SPECIES
 
 #### Status
 ACCEPTED

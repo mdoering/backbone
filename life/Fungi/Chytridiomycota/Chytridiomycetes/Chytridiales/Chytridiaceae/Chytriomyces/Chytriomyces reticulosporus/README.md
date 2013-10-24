@@ -1,5 +1,4 @@
-Chytriomyces reticulosporus Dogma, 1983 SPECIES
-=======
+# Chytriomyces reticulosporus Dogma, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Franklinia Jones & Noble, 2006 GENUS
-=======
+# Franklinia Jones & Noble, 2006 GENUS
 
 #### Status
 ACCEPTED

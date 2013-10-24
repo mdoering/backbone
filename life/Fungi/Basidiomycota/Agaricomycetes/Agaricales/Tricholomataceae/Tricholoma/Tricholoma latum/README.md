@@ -1,5 +1,4 @@
-Tricholoma latum Peck SPECIES
-=======
+# Tricholoma latum Peck SPECIES
 
 #### Status
 ACCEPTED

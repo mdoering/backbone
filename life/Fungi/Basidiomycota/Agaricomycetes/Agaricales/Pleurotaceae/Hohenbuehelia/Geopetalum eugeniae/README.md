@@ -1,5 +1,4 @@
-Geopetalum eugeniae Earle SPECIES
-=======
+# Geopetalum eugeniae Earle SPECIES
 
 #### Status
 ACCEPTED

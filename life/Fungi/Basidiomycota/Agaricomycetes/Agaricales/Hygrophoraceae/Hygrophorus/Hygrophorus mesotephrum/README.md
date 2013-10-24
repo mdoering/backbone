@@ -1,5 +1,4 @@
-Hygrophorus mesotephrum Berk. & Broome SPECIES
-=======
+# Hygrophorus mesotephrum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

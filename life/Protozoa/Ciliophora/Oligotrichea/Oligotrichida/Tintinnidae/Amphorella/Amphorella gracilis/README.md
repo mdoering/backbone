@@ -1,5 +1,4 @@
-Amphorella gracilis SPECIES
-=======
+# Amphorella gracilis SPECIES
 
 #### Status
 ACCEPTED

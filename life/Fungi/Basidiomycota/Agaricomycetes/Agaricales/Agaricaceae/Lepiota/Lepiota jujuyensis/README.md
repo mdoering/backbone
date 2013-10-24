@@ -1,5 +1,4 @@
-Lepiota jujuyensis Speg. SPECIES
-=======
+# Lepiota jujuyensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella codiaeicola D. Gupta, Chowdhry & Padhi SPECIES
-=======
+# Dothiorella codiaeicola D. Gupta, Chowdhry & Padhi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dothichiza garryae Bonar, 1942 SPECIES
-=======
+# Catenophora garryae (Bonar) Nag Raj, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 34(2): 187 (1942)
+in Nag Raj & Kendrick, Can. J. Bot. 66(5): 900 (1988)
 
 #### Original name
 Dothichiza garryae Bonar, 1942

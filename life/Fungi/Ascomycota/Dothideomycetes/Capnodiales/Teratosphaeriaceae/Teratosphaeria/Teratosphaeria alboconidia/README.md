@@ -1,5 +1,4 @@
-Teratosphaeria alboconidia Crous & Summerell, 2009 SPECIES
-=======
+# Teratosphaeria alboconidia Crous & Summerell, 2009 SPECIES
 
 #### Status
 ACCEPTED

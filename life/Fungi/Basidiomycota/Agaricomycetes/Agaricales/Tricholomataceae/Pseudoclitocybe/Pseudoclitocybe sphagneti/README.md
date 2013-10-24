@@ -1,5 +1,4 @@
-Pseudoclitocybe sphagneti Raithelh. SPECIES
-=======
+# Pseudoclitocybe sphagneti Raithelh. SPECIES
 
 #### Status
 ACCEPTED

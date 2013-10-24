@@ -1,5 +1,4 @@
-Laboulbenia sicula Speg. SPECIES
-=======
+# Laboulbenia sicula Speg. SPECIES
 
 #### Status
 ACCEPTED

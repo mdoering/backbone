@@ -1,17 +1,16 @@
-Sticta cetrarioides C. Bab. SPECIES
-=======
+# Heterodea muelleri (Hampe) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Hooker, Flora Tasman. 2: 346 (1860)
+Bull. Soc. linn. Normandie, sér. 2 2: 47 (1867)
 
 #### Original name
-Sticta cetrarioides C. Bab.
+Sticta muelleri Hampe
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amphidinium oceanicum Lohmann, 1920 SPECIES
-=======
+# Amphidinium oceanicum Lohmann, 1920 SPECIES
 
 #### Status
 ACCEPTED

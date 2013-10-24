@@ -1,5 +1,4 @@
-Pyrrhoglossum ferruginosum (Lloyd) Singer, 1973 SPECIES
-=======
+# Pyrrhoglossum ferruginosum (Lloyd) Singer, 1973 SPECIES
 
 #### Status
 ACCEPTED

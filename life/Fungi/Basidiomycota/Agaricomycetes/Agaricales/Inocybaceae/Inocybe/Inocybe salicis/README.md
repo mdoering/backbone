@@ -1,5 +1,4 @@
-Inocybe salicis Kühner, 1955 SPECIES
-=======
+# Inocybe salicis Kühner, 1955 SPECIES
 
 #### Status
 ACCEPTED

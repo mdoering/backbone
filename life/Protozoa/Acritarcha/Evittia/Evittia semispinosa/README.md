@@ -1,5 +1,4 @@
-Evittia semispinosa Pöthé de Baldis, 1981 SPECIES
-=======
+# Evittia semispinosa Pöthé de Baldis, 1981 SPECIES
 
 #### Status
 ACCEPTED

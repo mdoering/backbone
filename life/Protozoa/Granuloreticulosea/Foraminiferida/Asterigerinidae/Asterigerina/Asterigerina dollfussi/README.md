@@ -1,5 +1,4 @@
-Asterigerina dollfussi Cushman, 1928 SPECIES
-=======
+# Asterigerina dollfussi Cushman, 1928 SPECIES
 
 #### Status
 ACCEPTED

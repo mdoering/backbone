@@ -1,5 +1,4 @@
-Amphisphaeria melasperma (Cooke) Sacc. SPECIES
-=======
+# Amphisphaeria melasperma (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

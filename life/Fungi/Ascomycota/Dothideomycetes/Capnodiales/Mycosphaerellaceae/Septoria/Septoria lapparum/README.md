@@ -1,5 +1,4 @@
-Septoria lapparum Sacc. SPECIES
-=======
+# Septoria lapparum Sacc. SPECIES
 
 #### Status
 ACCEPTED

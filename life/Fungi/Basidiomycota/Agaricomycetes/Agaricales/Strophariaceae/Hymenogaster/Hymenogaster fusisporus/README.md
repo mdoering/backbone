@@ -1,5 +1,4 @@
-Hymenogaster fusisporus (Massee & Rodway) G. Cunn. SPECIES
-=======
+# Hymenogaster fusisporus (Massee & Rodway) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

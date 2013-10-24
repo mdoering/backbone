@@ -1,5 +1,4 @@
-Ustilago poarum McAlpine SPECIES
-=======
+# Ustilago poarum McAlpine SPECIES
 
 #### Status
 ACCEPTED

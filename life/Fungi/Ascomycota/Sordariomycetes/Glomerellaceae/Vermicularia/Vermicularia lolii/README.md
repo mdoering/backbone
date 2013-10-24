@@ -1,5 +1,4 @@
-Vermicularia lolii Fautrey SPECIES
-=======
+# Vermicularia lolii Fautrey SPECIES
 
 #### Status
 ACCEPTED

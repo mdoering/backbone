@@ -1,5 +1,4 @@
-Bdelloidina aggregata SPECIES
-=======
+# Bdelloidina aggregata SPECIES
 
 #### Status
 ACCEPTED

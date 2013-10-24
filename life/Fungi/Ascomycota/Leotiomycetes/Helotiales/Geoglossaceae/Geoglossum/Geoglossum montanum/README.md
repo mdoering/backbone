@@ -1,5 +1,4 @@
-Geoglossum montanum Nannf. SPECIES
-=======
+# Geoglossum montanum Nannf. SPECIES
 
 #### Status
 ACCEPTED

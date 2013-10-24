@@ -1,5 +1,4 @@
-Paradiplodia Speg. ex Trotter GENUS
-=======
+# Paradiplodia Speg. ex Trotter GENUS
 
 #### Status
 ACCEPTED

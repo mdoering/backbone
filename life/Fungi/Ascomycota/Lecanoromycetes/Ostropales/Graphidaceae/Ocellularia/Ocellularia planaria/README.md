@@ -1,14 +1,13 @@
-Thelotrema planarium Hale SPECIES
-=======
+# Ocellularia planaria (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 7(2): 382 (1978)
+Mycotaxon 11(1): 137 (1980)
 
 #### Original name
 Thelotrema planarium Hale

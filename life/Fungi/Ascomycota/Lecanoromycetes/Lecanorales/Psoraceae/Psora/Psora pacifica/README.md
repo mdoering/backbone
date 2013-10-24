@@ -1,5 +1,4 @@
-Psora pacifica Timdal SPECIES
-=======
+# Psora pacifica Timdal SPECIES
 
 #### Status
 ACCEPTED

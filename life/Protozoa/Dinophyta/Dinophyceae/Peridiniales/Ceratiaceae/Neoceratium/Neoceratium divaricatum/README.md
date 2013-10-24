@@ -1,5 +1,4 @@
-Neoceratium divaricatum (Lemmermann) F.Gomez, D.Moreira & P.Lopez-Garcia, 2009 SPECIES
-=======
+# Neoceratium divaricatum (Lemmermann) F.Gomez, D.Moreira & P.Lopez-Garcia, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Graphis glauca Müll. Arg. SPECIES
-=======
+# Fissurina glauca (Müll. Arg.) Staiger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 3: 58 (1893)
+Biblthca Lichenol. 85: 159 (2002)
 
 #### Original name
 Graphis glauca Müll. Arg.

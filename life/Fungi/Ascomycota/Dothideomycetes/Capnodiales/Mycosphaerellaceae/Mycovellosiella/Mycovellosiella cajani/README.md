@@ -1,5 +1,4 @@
-Mycovellosiella cajani var. cajani VARIETY
-=======
+# Mycovellosiella cajani Henn., 1931 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 25: 942 (1931)
+null
 
 #### Original name
-Mycovellosiella cajani var. cajani
+null
 
 ### Remarks
 null

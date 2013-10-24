@@ -1,5 +1,4 @@
-Agaricus buxeus Pers. SPECIES
-=======
+# Agaricus buxeus Pers. SPECIES
 
 #### Status
 ACCEPTED

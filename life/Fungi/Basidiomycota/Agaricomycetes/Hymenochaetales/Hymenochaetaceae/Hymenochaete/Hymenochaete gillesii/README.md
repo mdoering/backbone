@@ -1,5 +1,4 @@
-Hymenochaete gillesii J.C. Léger, 1982 SPECIES
-=======
+# Hymenochaete gillesii J.C. Léger, 1982 SPECIES
 
 #### Status
 ACCEPTED

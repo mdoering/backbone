@@ -1,8 +1,7 @@
-Penicillium granatense C. Ramírez, A.T. Martínez & Berer., 1980 SPECIES
-=======
+# Penicillium janczewskii K.M. Zalessky, 1927 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

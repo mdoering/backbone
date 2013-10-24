@@ -1,5 +1,4 @@
-Rhodocybe priscua T.J. Baroni SPECIES
-=======
+# Rhodocybe priscua T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maireina linderi W.B. Cooke SPECIES
-=======
+# Maireina linderi W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

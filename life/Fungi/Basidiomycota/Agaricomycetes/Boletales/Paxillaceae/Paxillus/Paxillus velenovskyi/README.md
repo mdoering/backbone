@@ -1,5 +1,4 @@
-Paxillus velenovskyi Pilát SPECIES
-=======
+# Paxillus velenovskyi Pilát SPECIES
 
 #### Status
 ACCEPTED

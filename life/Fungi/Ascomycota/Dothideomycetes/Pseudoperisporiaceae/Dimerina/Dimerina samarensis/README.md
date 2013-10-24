@@ -1,5 +1,4 @@
-Dimerina samarensis Syd. SPECIES
-=======
+# Dimerina samarensis Syd. SPECIES
 
 #### Status
 ACCEPTED

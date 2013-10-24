@@ -1,14 +1,13 @@
-Verrucaria grumosa (Pers.) Hoffm. SPECIES
-=======
+# Tephromela grumosa (Pers.) Hafellner & Cl. Roux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. bot. Centre-Ouest, Nouv. sér. , num. spec. 7: 829 (1985)
 
 #### Original name
 Lichen grumosus Pers.

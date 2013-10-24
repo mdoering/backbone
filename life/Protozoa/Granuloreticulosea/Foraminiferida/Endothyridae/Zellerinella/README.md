@@ -1,5 +1,4 @@
-Zellerinella Mamet, 1981 GENUS
-=======
+# Zellerinella Mamet, 1981 GENUS
 
 #### Status
 ACCEPTED

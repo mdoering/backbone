@@ -1,8 +1,7 @@
-Gaudryina apicularis Cushman, 1911 SPECIES
-=======
+# Karrerulina apicularis (Cushman, 1911) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Marssonia chamaenerii var. germanica VARIETY
-=======
+# Marssonia chamaenerii Rostr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Meddr Grønland, Biosc. 3: 576 (1888)
 
 #### Original name
-Marssonia chamaenerii var. germanica
+Marssonia chamaenerii Rostr.
 
 ### Remarks
 null

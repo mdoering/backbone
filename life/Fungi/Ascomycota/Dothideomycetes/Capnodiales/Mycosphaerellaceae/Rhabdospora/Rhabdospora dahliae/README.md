@@ -1,5 +1,4 @@
-Rhabdospora dahliae Oudem. SPECIES
-=======
+# Rhabdospora dahliae Oudem. SPECIES
 
 #### Status
 ACCEPTED

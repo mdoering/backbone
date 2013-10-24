@@ -1,5 +1,4 @@
-Petalomonas dubosqui Hollande SPECIES
-=======
+# Petalomonas dubosqui Hollande SPECIES
 
 #### Status
 ACCEPTED

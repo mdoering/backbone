@@ -1,5 +1,4 @@
-Chaetoplea inverecunda (De Not.) Checa SPECIES
-=======
+# Chaetoplea inverecunda (De Not.) Checa SPECIES
 
 #### Status
 ACCEPTED

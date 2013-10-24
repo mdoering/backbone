@@ -1,5 +1,4 @@
-Volutella mellea J.F. Clark SPECIES
-=======
+# Volutella mellea J.F. Clark SPECIES
 
 #### Status
 ACCEPTED

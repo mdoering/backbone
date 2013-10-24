@@ -1,5 +1,4 @@
-Septoria densiuscula Bubák & Dearn. SPECIES
-=======
+# Septoria densiuscula Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

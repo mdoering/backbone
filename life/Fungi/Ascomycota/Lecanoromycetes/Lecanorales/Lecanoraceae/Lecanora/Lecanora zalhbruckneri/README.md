@@ -1,5 +1,4 @@
-Lecanora zalhbruckneri Lynge SPECIES
-=======
+# Lecanora zalhbruckneri Lynge SPECIES
 
 #### Status
 ACCEPTED

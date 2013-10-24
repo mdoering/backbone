@@ -1,5 +1,4 @@
-Psalliota pequinii Jul. Schäff. SPECIES
-=======
+# Psalliota pequinii Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

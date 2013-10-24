@@ -1,5 +1,4 @@
-Sirococcus elasticae Koord. SPECIES
-=======
+# Sirococcus elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

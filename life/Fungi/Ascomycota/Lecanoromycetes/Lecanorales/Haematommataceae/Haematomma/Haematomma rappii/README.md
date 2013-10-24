@@ -1,5 +1,4 @@
-Haematomma rappii Zahlbr. SPECIES
-=======
+# Haematomma rappii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

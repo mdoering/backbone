@@ -1,5 +1,4 @@
-Tetragoniomyces Oberw. & Bandoni GENUS
-=======
+# Tetragoniomyces Oberw. & Bandoni GENUS
 
 #### Status
 ACCEPTED

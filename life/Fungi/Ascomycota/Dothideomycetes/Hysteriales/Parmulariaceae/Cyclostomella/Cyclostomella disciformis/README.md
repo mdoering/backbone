@@ -1,5 +1,4 @@
-Cyclostomella disciformis Pat., 1896 SPECIES
-=======
+# Cyclostomella disciformis Pat., 1896 SPECIES
 
 #### Status
 ACCEPTED

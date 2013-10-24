@@ -1,5 +1,4 @@
-Mikrosyphar polysiphoniae Kuckuck SPECIES
-=======
+# Mikrosyphar polysiphoniae Kuckuck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microascus caviariformis Malloch & Hubart, 1987 SPECIES
-=======
+# Microascus caviariformis Malloch & Hubart, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosphaeria subcorticalis (Peck) Sacc. SPECIES
-=======
+# Trichosphaeria subcorticalis (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

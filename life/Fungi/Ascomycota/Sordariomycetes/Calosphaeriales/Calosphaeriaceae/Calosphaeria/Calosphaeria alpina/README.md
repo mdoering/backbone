@@ -1,5 +1,4 @@
-Calosphaeria alpina Sacc. SPECIES
-=======
+# Calosphaeria alpina Sacc. SPECIES
 
 #### Status
 ACCEPTED

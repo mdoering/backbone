@@ -1,5 +1,4 @@
-Winterina oxyspora (Penz. & Sacc.) Sacc. & P. Syd. SPECIES
-=======
+# Winterina oxyspora (Penz. & Sacc.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

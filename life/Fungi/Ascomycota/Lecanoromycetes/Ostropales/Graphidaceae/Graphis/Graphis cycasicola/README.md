@@ -1,5 +1,4 @@
-Graphis cycasicola A.W. Archer & Elix SPECIES
-=======
+# Graphis cycasicola A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

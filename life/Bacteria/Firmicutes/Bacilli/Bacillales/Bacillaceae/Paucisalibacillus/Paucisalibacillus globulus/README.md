@@ -1,5 +1,4 @@
-Paucisalibacillus globulus Nunes et al., 2006 SPECIES
-=======
+# Paucisalibacillus globulus Nunes et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe mammosa Velen. SPECIES
-=======
+# Inocybe mammosa Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria falcata Breuss SPECIES
-=======
+# Verrucaria falcata Breuss SPECIES
 
 #### Status
 ACCEPTED

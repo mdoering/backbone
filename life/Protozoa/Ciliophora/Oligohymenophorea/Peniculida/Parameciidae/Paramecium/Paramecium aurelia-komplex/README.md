@@ -1,8 +1,7 @@
-Paramaecium aurelia Muller, 1773 SPECIES
-=======
+# Paramecium aurelia-komplex SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

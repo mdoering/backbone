@@ -1,5 +1,4 @@
-Cylindrocladium hongkongense Crous SPECIES
-=======
+# Cylindrocladium hongkongense Crous SPECIES
 
 #### Status
 ACCEPTED

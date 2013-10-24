@@ -1,5 +1,4 @@
-Monokeramonas Schiller, 1925 GENUS
-=======
+# Monokeramonas Schiller, 1925 GENUS
 
 #### Status
 ACCEPTED

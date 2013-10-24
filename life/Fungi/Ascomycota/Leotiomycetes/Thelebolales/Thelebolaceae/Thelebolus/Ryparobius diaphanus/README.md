@@ -1,5 +1,4 @@
-Ryparobius diaphanus Faurel & Schotter SPECIES
-=======
+# Ryparobius diaphanus Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

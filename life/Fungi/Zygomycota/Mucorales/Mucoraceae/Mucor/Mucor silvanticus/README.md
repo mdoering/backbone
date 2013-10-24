@@ -1,5 +1,4 @@
-Mucor silvanticus Hagem SPECIES
-=======
+# Mucor silvanticus Hagem SPECIES
 
 #### Status
 ACCEPTED

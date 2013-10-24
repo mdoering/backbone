@@ -1,5 +1,4 @@
-Anthostoma vincensii G. Arnaud SPECIES
-=======
+# Anthostoma vincensii G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

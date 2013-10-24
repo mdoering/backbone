@@ -1,5 +1,4 @@
-Gymnodochium fimicola Massee & E.S. Salmon, 1902 SPECIES
-=======
+# Gymnodochium fimicola Massee & E.S. Salmon, 1902 SPECIES
 
 #### Status
 ACCEPTED

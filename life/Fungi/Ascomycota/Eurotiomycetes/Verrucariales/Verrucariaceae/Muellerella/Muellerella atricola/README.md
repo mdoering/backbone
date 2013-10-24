@@ -1,5 +1,4 @@
-Muellerella atricola (Linds.) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Muellerella atricola (Linds.) Sacc. & D. Sacc., 1905 SPECIES
 
 #### Status
 ACCEPTED

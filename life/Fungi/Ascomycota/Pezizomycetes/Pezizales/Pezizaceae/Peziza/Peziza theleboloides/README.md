@@ -1,5 +1,4 @@
-Peziza theleboloides SPECIES
-=======
+# Peziza theleboloides SPECIES
 
 #### Status
 ACCEPTED

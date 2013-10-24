@@ -1,5 +1,4 @@
-Botryodiplodia acerina Ellis & Everh. SPECIES
-=======
+# Botryodiplodia acerina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

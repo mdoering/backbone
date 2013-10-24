@@ -1,5 +1,4 @@
-Irenopsis graptophylli Hansf. SPECIES
-=======
+# Irenopsis graptophylli Hansf. SPECIES
 
 #### Status
 ACCEPTED

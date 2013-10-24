@@ -1,5 +1,4 @@
-Pseudogliomastix W. Gams GENUS
-=======
+# Pseudogliomastix W. Gams GENUS
 
 #### Status
 ACCEPTED

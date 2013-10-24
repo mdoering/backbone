@@ -1,5 +1,4 @@
-Botrytis plebeja Fresen. SPECIES
-=======
+# Botrytis plebeja Fresen. SPECIES
 
 #### Status
 ACCEPTED

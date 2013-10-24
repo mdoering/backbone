@@ -1,5 +1,4 @@
-Hypotrichea CLASS
-=======
+# Hypotrichea CLASS
 
 #### Status
 ACCEPTED

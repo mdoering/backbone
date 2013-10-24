@@ -1,5 +1,4 @@
-Linkosia mori K. Zhang & X.G. Zhang SPECIES
-=======
+# Linkosia mori K. Zhang & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

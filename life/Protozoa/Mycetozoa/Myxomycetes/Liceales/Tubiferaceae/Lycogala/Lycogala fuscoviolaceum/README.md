@@ -1,5 +1,4 @@
-Lycogala fuscoviolaceum Onsberg, 1972 SPECIES
-=======
+# Lycogala fuscoviolaceum Onsberg, 1972 SPECIES
 
 #### Status
 ACCEPTED

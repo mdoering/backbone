@@ -1,5 +1,4 @@
-Anoplophryopsis de Puytorac, 1954 GENUS
-=======
+# Anoplophryopsis de Puytorac, 1954 GENUS
 
 #### Status
 ACCEPTED

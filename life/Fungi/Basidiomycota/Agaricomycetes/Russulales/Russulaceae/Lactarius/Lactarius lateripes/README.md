@@ -1,5 +1,4 @@
-Lactarius lateripes (Desm.) Fr. SPECIES
-=======
+# Lactarius lateripes (Desm.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia hypericicola U. Braun SPECIES
-=======
+# Ramularia hypericicola U. Braun SPECIES
 
 #### Status
 ACCEPTED

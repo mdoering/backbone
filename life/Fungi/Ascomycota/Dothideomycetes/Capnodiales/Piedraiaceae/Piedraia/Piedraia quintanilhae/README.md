@@ -1,5 +1,4 @@
-Piedraia quintanilhae Uden, Barros-Mach. & Cast.-Branco, 1963 SPECIES
-=======
+# Piedraia quintanilhae Uden, Barros-Mach. & Cast.-Branco, 1963 SPECIES
 
 #### Status
 ACCEPTED

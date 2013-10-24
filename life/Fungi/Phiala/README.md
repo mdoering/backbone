@@ -1,5 +1,4 @@
-Phiala Rafinesque, 1815 GENUS
-=======
+# Phiala Rafinesque, 1815 GENUS
 
 #### Status
 ACCEPTED

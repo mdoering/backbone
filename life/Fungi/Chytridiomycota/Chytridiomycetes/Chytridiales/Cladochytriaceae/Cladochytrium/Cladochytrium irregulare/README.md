@@ -1,5 +1,4 @@
-Cladochytrium irregulare De Wild. SPECIES
-=======
+# Cladochytrium irregulare De Wild. SPECIES
 
 #### Status
 ACCEPTED

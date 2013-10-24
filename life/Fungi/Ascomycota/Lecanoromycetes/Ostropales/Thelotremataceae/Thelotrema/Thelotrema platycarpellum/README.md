@@ -1,5 +1,4 @@
-Thelotrema platycarpellum Vain. SPECIES
-=======
+# Thelotrema platycarpellum Vain. SPECIES
 
 #### Status
 ACCEPTED

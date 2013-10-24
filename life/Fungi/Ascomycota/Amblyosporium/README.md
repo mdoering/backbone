@@ -1,17 +1,16 @@
-Searchomyces B.S. Mehrotra & M.D. Mehrotra GENUS
-=======
+# Amblyosporium Fresenius, 1863 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sydowia 16: 213 (1963)
+null
 
 #### Original name
-Searchomyces B.S. Mehrotra & M.D. Mehrotra
+null
 
 ### Remarks
 null

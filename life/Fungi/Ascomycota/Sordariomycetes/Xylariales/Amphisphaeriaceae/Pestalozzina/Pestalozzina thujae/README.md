@@ -1,5 +1,4 @@
-Pestalozzina thujae Hollós SPECIES
-=======
+# Pestalozzina thujae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micromyces fischeri (Scherff.) Sparrow SPECIES
-=======
+# Micromyces fischeri (Scherff.) Sparrow SPECIES
 
 #### Status
 ACCEPTED

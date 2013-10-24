@@ -1,5 +1,4 @@
-Litonotus minisculus SPECIES
-=======
+# Litonotus minisculus SPECIES
 
 #### Status
 ACCEPTED

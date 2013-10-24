@@ -1,5 +1,4 @@
-Discostroma hyperboreum (P. Karst.) O.E. Erikss. SPECIES
-=======
+# Discostroma hyperboreum (P. Karst.) O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Catacauma gracillimum (Speg.) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora gracillima Speg., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 373 (1915)
+Boletín de la Academia Nacional de Ciencias de Córdoba 11(4): 542 (1889)
 
 #### Original name
 Phyllachora gracillima Speg., 1889

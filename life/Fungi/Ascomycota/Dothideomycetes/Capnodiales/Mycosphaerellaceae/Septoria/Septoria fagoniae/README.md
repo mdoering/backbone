@@ -1,5 +1,4 @@
-Septoria fagoniae Pat. SPECIES
-=======
+# Septoria fagoniae Pat. SPECIES
 
 #### Status
 ACCEPTED

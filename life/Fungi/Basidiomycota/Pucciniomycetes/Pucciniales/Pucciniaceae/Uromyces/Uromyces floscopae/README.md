@@ -1,5 +1,4 @@
-Uromyces floscopae Syd. & P. Syd. SPECIES
-=======
+# Uromyces floscopae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

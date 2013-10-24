@@ -1,8 +1,7 @@
-Urostyla concha Entz, 1884 SPECIES
-=======
+# Hemicylcliostyla concha Entz, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

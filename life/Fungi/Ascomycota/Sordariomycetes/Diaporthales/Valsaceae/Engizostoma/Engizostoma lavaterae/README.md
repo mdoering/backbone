@@ -1,5 +1,4 @@
-Engizostoma lavaterae (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Engizostoma lavaterae (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

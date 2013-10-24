@@ -1,5 +1,4 @@
-Theocorusca Haeckel, 1887 GENUS
-=======
+# Theocorusca Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

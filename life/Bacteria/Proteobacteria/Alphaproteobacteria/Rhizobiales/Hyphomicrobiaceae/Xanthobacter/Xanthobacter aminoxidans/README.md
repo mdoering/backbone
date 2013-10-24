@@ -1,5 +1,4 @@
-Xanthobacter aminoxidans Doronina & Trotsenko, 2003 SPECIES
-=======
+# Xanthobacter aminoxidans Doronina & Trotsenko, 2003 SPECIES
 
 #### Status
 ACCEPTED

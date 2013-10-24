@@ -1,5 +1,4 @@
-Straminella conizelloides Werner & M. Choisy SPECIES
-=======
+# Straminella conizelloides Werner & M. Choisy SPECIES
 
 #### Status
 ACCEPTED

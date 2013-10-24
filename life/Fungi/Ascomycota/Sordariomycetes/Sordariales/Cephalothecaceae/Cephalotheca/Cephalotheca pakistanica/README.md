@@ -1,5 +1,4 @@
-Cephalotheca pakistanica Matsush. SPECIES
-=======
+# Cephalotheca pakistanica Matsush. SPECIES
 
 #### Status
 ACCEPTED

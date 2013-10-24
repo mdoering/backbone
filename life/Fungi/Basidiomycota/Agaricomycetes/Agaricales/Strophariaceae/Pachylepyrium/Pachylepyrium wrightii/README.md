@@ -1,5 +1,4 @@
-Pachylepyrium wrightii Raithelh., 1983 SPECIES
-=======
+# Pachylepyrium wrightii Raithelh., 1983 SPECIES
 
 #### Status
 ACCEPTED

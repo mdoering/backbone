@@ -1,5 +1,4 @@
-Dorothia bulletta (Carsey) SPECIES
-=======
+# Dorothia bulletta (Carsey) SPECIES
 
 #### Status
 ACCEPTED

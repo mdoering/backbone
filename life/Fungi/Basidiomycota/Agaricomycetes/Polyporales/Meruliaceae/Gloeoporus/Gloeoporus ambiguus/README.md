@@ -1,5 +1,4 @@
-Gloeoporus ambiguus (Berk.) Zmitr. & Spirin SPECIES
-=======
+# Gloeoporus ambiguus (Berk.) Zmitr. & Spirin SPECIES
 
 #### Status
 ACCEPTED

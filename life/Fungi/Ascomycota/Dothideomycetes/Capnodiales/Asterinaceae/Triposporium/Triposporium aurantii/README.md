@@ -1,5 +1,4 @@
-Triposporium aurantii Henn. SPECIES
-=======
+# Triposporium aurantii Henn. SPECIES
 
 #### Status
 ACCEPTED

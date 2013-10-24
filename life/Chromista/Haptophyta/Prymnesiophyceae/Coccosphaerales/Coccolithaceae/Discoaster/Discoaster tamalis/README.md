@@ -1,5 +1,4 @@
-Discoaster tamalis SPECIES
-=======
+# Discoaster tamalis SPECIES
 
 #### Status
 ACCEPTED

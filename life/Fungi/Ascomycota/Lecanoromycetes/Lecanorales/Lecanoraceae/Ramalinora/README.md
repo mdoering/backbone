@@ -1,5 +1,4 @@
-Ramalinora Lumbsch, Rambold & Elix GENUS
-=======
+# Ramalinora Lumbsch, Rambold & Elix GENUS
 
 #### Status
 ACCEPTED

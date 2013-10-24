@@ -1,5 +1,4 @@
-Pleospora brachyasca Pass. SPECIES
-=======
+# Pleospora brachyasca Pass. SPECIES
 
 #### Status
 ACCEPTED

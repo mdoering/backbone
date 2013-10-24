@@ -1,5 +1,4 @@
-Ceratium lunulus Gourret SPECIES
-=======
+# Ceratium lunulus Gourret SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia peruni (Velen.) Gminder SPECIES
-=======
+# Mollisia peruni (Velen.) Gminder SPECIES
 
 #### Status
 ACCEPTED

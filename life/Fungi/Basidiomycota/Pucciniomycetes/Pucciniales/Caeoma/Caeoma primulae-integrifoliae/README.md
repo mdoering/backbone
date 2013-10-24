@@ -1,5 +1,4 @@
-Caeoma primulae-integrifoliae (DC.) Link SPECIES
-=======
+# Caeoma primulae-integrifoliae (DC.) Link SPECIES
 
 #### Status
 ACCEPTED

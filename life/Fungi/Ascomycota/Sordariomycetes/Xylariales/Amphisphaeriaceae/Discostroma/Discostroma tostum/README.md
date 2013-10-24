@@ -1,5 +1,4 @@
-Discostroma tostum (Berk. & Broome) Brockmann, 1976 SPECIES
-=======
+# Discostroma tostum (Berk. & Broome) Brockmann, 1976 SPECIES
 
 #### Status
 ACCEPTED

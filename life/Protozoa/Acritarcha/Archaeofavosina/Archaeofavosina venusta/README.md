@@ -1,5 +1,4 @@
-Archaeofavosina venusta Salujha, Rehman & Arora, 1971 SPECIES
-=======
+# Archaeofavosina venusta Salujha, Rehman & Arora, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia subflavifolia (Murrill) Murrill SPECIES
-=======
+# Collybia subflavifolia (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula actinoplaca Nyl. SPECIES
-=======
+# Strigula actinoplaca Nyl. SPECIES
 
 #### Status
 ACCEPTED

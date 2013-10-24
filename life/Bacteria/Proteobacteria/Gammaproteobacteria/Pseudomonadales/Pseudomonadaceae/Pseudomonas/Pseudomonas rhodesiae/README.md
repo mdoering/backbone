@@ -1,5 +1,4 @@
-Pseudomonas rhodesiae Coroler et al., 1997 SPECIES
-=======
+# Pseudomonas rhodesiae Coroler et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

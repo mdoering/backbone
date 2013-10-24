@@ -1,5 +1,4 @@
-Septoria ucrainica Petr. SPECIES
-=======
+# Septoria ucrainica Petr. SPECIES
 
 #### Status
 ACCEPTED

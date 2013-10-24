@@ -1,14 +1,13 @@
-Ascophanella cinerea (P. Crouan & H. Crouan) Faurel & Schotter, 1965 SPECIES
-=======
+# Thecotheus cinereus (P. Crouan & H. Crouan) Chenant., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cahiers de La Maboké 3: 130 (1965)
+null
 
 #### Original name
 Ascobolus cinereus P. Crouan & H. Crouan, 1967

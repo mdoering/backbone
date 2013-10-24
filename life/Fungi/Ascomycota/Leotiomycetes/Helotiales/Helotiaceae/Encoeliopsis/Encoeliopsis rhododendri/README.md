@@ -1,17 +1,16 @@
-Encoeliopsis rhododendri var. rhododendri VARIETY
-=======
+# Encoeliopsis rhododendri (Ces. ex Rabenh.) Nannf., 1932 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Nova Acta R. Soc. Scient. upsal. , Ser. 4 8(1. 2): 306 (1932)
 
 #### Original name
-Encoeliopsis rhododendri var. rhododendri
+null
 
 ### Remarks
 null

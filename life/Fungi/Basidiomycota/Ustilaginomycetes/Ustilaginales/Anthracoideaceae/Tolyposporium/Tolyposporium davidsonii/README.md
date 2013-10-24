@@ -1,5 +1,4 @@
-Tolyposporium davidsonii Dietel & Holw. SPECIES
-=======
+# Tolyposporium davidsonii Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

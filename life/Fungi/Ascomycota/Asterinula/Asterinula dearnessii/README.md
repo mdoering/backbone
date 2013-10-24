@@ -1,5 +1,4 @@
-Asterinula dearnessii Ellis & Everh. SPECIES
-=======
+# Asterinula dearnessii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza subgranulata Berk. & M.A. Curtis SPECIES
-=======
+# Peziza subgranulata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

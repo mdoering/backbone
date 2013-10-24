@@ -1,5 +1,4 @@
-Archiphaena Haeckel, 1887 GENUS
-=======
+# Archiphaena Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

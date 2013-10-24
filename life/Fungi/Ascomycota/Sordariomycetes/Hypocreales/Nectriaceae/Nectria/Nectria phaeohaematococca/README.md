@@ -1,5 +1,4 @@
-Nectria phaeohaematococca Rossman SPECIES
-=======
+# Nectria phaeohaematococca Rossman SPECIES
 
 #### Status
 ACCEPTED

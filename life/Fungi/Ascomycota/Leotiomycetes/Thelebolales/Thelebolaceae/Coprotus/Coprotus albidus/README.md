@@ -1,17 +1,16 @@
-Ryparobius tenacellus W. Phillips, 1891 SPECIES
-=======
+# Coprotus albidus (Boud.) Kimbr., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 19(no. 91): 74 (1891)
+Am. J. Bot. 54: 22 (1967)
 
 #### Original name
-Ryparobius tenacellus W. Phillips, 1891
+Ryparobius albidus Boud., 1887
 
 ### Remarks
 null

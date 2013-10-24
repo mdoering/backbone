@@ -1,17 +1,16 @@
-Lichen debilis Sm. SPECIES
-=======
+# Chaenothecopsis debilis (Turner & Borrer ex Sm.) Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Engl. Bot. 25: tab. 2462 (1813)
+Symb. bot. upsal. 21(no. 2): 45 (1975)
 
 #### Original name
-Lichen debilis Sm.
+Calicium debile Turner & Borrer
 
 ### Remarks
 null

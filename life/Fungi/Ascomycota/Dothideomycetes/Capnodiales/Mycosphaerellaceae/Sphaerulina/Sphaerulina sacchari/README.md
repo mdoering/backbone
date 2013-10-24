@@ -1,5 +1,4 @@
-Sphaerulina sacchari Henn., 1905 SPECIES
-=======
+# Sphaerulina sacchari Henn., 1905 SPECIES
 
 #### Status
 ACCEPTED

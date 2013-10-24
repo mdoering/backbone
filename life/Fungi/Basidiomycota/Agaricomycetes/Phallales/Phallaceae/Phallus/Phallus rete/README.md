@@ -1,5 +1,4 @@
-Phallus rete Batsch SPECIES
-=======
+# Phallus rete Batsch SPECIES
 
 #### Status
 ACCEPTED

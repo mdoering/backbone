@@ -1,5 +1,4 @@
-Basidioradulum syringae (Langer) Malysheva & Zmitr. SPECIES
-=======
+# Basidioradulum syringae (Langer) Malysheva & Zmitr. SPECIES
 
 #### Status
 ACCEPTED

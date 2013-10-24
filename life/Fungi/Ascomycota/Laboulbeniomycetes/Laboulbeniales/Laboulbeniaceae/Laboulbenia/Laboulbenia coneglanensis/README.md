@@ -1,5 +1,4 @@
-Laboulbenia coneglanensis Speg. SPECIES
-=======
+# Laboulbenia coneglanensis Speg. SPECIES
 
 #### Status
 ACCEPTED

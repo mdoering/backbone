@@ -1,5 +1,4 @@
-Theocon GENUS
-=======
+# Theocon GENUS
 
 #### Status
 ACCEPTED

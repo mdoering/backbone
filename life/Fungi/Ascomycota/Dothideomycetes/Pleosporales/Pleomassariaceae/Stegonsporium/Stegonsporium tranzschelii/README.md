@@ -1,17 +1,16 @@
-Steganosporium tranzschelii Serebrian. SPECIES
-=======
+# Stegonsporium tranzschelii Serebrian. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Tranzschel & Serebrianikow, Mycotheca rossica, Fascicle <b>6 & 7</b> 6 (1912)
 
 #### Original name
-Steganosporium tranzschelii Serebrian.
+Stegonsporium tranzschelii Serebrian.
 
 ### Remarks
 null

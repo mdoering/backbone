@@ -1,5 +1,4 @@
-Buellia lusitanica J. Steiner SPECIES
-=======
+# Buellia lusitanica J. Steiner SPECIES
 
 #### Status
 ACCEPTED

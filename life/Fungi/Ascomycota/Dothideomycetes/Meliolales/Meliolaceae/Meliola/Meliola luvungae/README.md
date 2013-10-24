@@ -1,5 +1,4 @@
-Meliola luvungae Hosag. SPECIES
-=======
+# Meliola luvungae Hosag. SPECIES
 
 #### Status
 ACCEPTED

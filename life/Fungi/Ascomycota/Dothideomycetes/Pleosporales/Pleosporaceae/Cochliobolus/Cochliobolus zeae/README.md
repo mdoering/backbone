@@ -1,5 +1,4 @@
-Cochliobolus zeae H.S. Chang SPECIES
-=======
+# Cochliobolus zeae H.S. Chang SPECIES
 
 #### Status
 ACCEPTED

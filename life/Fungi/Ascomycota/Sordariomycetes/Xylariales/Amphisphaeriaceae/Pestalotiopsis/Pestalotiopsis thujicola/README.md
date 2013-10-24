@@ -1,5 +1,4 @@
-Pestalotiopsis thujicola (J.L. Maas) Y. Suto & Tak. Kobay. SPECIES
-=======
+# Pestalotiopsis thujicola (J.L. Maas) Y. Suto & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

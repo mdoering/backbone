@@ -1,14 +1,13 @@
-Zukalia setosa Woron., 1915 SPECIES
-=======
+# Dennisiella setosa (Woron.) Bat. & Cif., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Appl. Bot. 8(6): 788 (1915)
+Beih. Sydowia 3: 38 (1962)
 
 #### Original name
 Zukalia setosa Woron., 1915

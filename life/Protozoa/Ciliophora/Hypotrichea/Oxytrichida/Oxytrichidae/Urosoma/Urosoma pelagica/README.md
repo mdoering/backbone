@@ -1,5 +1,4 @@
-Urosoma pelagica SPECIES
-=======
+# Urosoma pelagica SPECIES
 
 #### Status
 ACCEPTED

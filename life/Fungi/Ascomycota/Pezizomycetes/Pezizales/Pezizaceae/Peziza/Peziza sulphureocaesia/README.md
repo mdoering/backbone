@@ -1,5 +1,4 @@
-Peziza sulphureocaesia Schumach. SPECIES
-=======
+# Peziza sulphureocaesia Schumach. SPECIES
 
 #### Status
 ACCEPTED

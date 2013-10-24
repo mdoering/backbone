@@ -1,5 +1,4 @@
-Triramulispora duobinibrachiata K. Ando SPECIES
-=======
+# Triramulispora duobinibrachiata K. Ando SPECIES
 
 #### Status
 ACCEPTED

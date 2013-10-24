@@ -1,5 +1,4 @@
-Phoma capsicum Magnaghi SPECIES
-=======
+# Phoma capsicum Magnaghi SPECIES
 
 #### Status
 ACCEPTED

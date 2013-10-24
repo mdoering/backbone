@@ -1,5 +1,4 @@
-Nodulisporium honiaraense Matsush., 1971 SPECIES
-=======
+# Nodulisporium honiaraense Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

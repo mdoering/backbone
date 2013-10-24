@@ -1,5 +1,4 @@
-Albugo pratapi Damle SPECIES
-=======
+# Albugo pratapi Damle SPECIES
 
 #### Status
 ACCEPTED

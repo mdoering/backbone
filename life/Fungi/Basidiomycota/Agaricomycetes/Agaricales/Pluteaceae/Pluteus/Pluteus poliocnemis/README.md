@@ -1,5 +1,4 @@
-Pluteus poliocnemis Kühner SPECIES
-=======
+# Pluteus poliocnemis Kühner SPECIES
 
 #### Status
 ACCEPTED

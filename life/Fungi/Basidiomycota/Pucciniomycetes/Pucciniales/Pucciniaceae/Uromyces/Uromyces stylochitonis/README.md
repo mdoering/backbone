@@ -1,5 +1,4 @@
-Uromyces stylochitonis Doidge SPECIES
-=======
+# Uromyces stylochitonis Doidge SPECIES
 
 #### Status
 ACCEPTED

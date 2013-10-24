@@ -1,5 +1,4 @@
-Laetiporus conifericola Burds. & Banik SPECIES
-=======
+# Laetiporus conifericola Burds. & Banik SPECIES
 
 #### Status
 ACCEPTED

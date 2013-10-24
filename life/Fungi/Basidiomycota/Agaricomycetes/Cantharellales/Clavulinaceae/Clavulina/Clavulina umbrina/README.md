@@ -1,5 +1,4 @@
-Clavulina umbrina (Lév.) Overeem SPECIES
-=======
+# Clavulina umbrina (Lév.) Overeem SPECIES
 
 #### Status
 ACCEPTED

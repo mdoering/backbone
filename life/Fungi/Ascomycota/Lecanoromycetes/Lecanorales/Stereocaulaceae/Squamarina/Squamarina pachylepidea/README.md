@@ -1,5 +1,4 @@
-Squamarina pachylepidea (Hellb.) Poelt SPECIES
-=======
+# Squamarina pachylepidea (Hellb.) Poelt SPECIES
 
 #### Status
 ACCEPTED

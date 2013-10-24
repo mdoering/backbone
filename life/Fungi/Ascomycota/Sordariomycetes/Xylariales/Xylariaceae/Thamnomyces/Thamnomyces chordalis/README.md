@@ -1,5 +1,4 @@
-Thamnomyces chordalis Fr. SPECIES
-=======
+# Thamnomyces chordalis Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria brencklei Sacc. SPECIES
-=======
+# Septoria brencklei Sacc. SPECIES
 
 #### Status
 ACCEPTED

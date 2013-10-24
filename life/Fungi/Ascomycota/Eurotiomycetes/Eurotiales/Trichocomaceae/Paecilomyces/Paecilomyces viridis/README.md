@@ -1,5 +1,4 @@
-Paecilomyces viridis Segretain, Fromentin, Destombes, Brygoo & Dodin ex Samson, 1974 SPECIES
-=======
+# Paecilomyces viridis Segretain, Fromentin, Destombes, Brygoo & Dodin ex Samson, 1974 SPECIES
 
 #### Status
 ACCEPTED

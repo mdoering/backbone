@@ -1,14 +1,13 @@
-Caloplaca cinnamomea subsp. cinnamomea SUBSPECIES
-=======
+# Caloplaca cinnamomea (Th. Fr.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. natn. Sci. nat. math. Cherbourg 37: 137 (1909)
 
 #### Original name
 Caloplaca ferruginea var. cinnamonea Th. Fr.

@@ -1,5 +1,4 @@
-Pleurocapsa fuliginosa Hauck SPECIES
-=======
+# Pleurocapsa fuliginosa Hauck SPECIES
 
 #### Status
 ACCEPTED

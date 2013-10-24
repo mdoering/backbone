@@ -1,5 +1,4 @@
-Gliocladium cholodnyi var. cholodnyi VARIETY
-=======
+# Gliocladium cholodnyi Pidopl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fungus flora of coarse fodder 196 (1953)
 
 #### Original name
-Gliocladium cholodnyi var. cholodnyi
+Gliocladium cholodnyi Pidopl.
 
 ### Remarks
 null

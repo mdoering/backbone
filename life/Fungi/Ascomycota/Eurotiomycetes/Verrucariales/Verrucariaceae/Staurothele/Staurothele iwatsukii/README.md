@@ -1,5 +1,4 @@
-Staurothele iwatsukii H. Harada SPECIES
-=======
+# Staurothele iwatsukii H. Harada SPECIES
 
 #### Status
 ACCEPTED

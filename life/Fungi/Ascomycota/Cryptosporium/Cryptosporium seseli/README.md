@@ -1,5 +1,4 @@
-Cryptosporium seseli Moesz SPECIES
-=======
+# Cryptosporium seseli Moesz SPECIES
 
 #### Status
 ACCEPTED

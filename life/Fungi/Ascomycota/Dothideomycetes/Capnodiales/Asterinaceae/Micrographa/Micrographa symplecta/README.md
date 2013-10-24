@@ -1,5 +1,4 @@
-Micrographa symplecta (Stirt.) Zahlbr. SPECIES
-=======
+# Micrographa symplecta (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

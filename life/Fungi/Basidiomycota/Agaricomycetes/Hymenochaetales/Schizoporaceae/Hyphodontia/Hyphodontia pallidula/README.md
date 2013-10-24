@@ -1,14 +1,13 @@
-Kneiffiella pallidula (Bres.) Jülich & Stalpers, 1980 SPECIES
-=======
+# Hyphodontia pallidula (Bres.) J. Erikss., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. K. ned. Akad. Wet. , 2 Sectie 74: 131 (1980)
+Symb. bot. upsal. 16(no. 1): 104 (1958)
 
 #### Original name
 Gonatobotrys pallidula Bres., 1903

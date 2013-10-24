@@ -1,5 +1,4 @@
-Diaporthe pomigena (Schwein.) Miura SPECIES
-=======
+# Diaporthe pomigena (Schwein.) Miura SPECIES
 
 #### Status
 ACCEPTED

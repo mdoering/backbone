@@ -1,5 +1,4 @@
-Dothiorella eucalypti (Berk. & Broome) Sacc. SPECIES
-=======
+# Dothiorella eucalypti (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

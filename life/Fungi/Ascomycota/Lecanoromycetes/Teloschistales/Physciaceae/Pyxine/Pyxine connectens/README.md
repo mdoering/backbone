@@ -1,5 +1,4 @@
-Pyxine connectens var. connectens VARIETY
-=======
+# Pyxine connectens Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta Soc. Fauna Flora fenn. 7(1): 154 (1890)
 
 #### Original name
-Pyxine connectens var. connectens
+Pyxine connectens Vain.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Hymenochaete alabastrina G.A. Escobar ex J.C. Léger, 1990 SPECIES
-=======
+# Dichochaete ceratophora (D.J. Job) Parmasto, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cryptog. Mycol. 11: 294 (1990)
+Folia cryptog. Estonica 37: 56 (2001)
 
 #### Original name
-Hymenochaete alabastrina G.A. Escobar ex J.C. Léger, 1990
+Hymenochaete ceratophora D.J. Job, 1985
 
 ### Remarks
 null

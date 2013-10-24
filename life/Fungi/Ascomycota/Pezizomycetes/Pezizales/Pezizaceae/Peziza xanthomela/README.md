@@ -1,17 +1,16 @@
-Peziza xanthomela var. xanthomela VARIETY
-=======
+# Peziza xanthomela ß xanthomela Pers. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Peziza xanthomela ß xanthomela Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia rocherpaniana Mennicken & Oberw. SPECIES
-=======
+# Puccinia rocherpaniana Mennicken & Oberw. SPECIES
 
 #### Status
 ACCEPTED

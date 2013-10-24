@@ -1,5 +1,4 @@
-Sporastatia asiatica H. Magn. SPECIES
-=======
+# Sporastatia asiatica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

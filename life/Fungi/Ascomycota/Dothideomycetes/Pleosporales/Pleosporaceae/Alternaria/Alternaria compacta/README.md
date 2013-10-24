@@ -1,5 +1,4 @@
-Alternaria compacta (Cooke) McClellen SPECIES
-=======
+# Alternaria compacta (Cooke) McClellen SPECIES
 
 #### Status
 ACCEPTED

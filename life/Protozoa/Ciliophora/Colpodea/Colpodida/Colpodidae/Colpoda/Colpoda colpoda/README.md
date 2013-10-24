@@ -1,5 +1,4 @@
-Colpoda colpoda SPECIES
-=======
+# Colpoda colpoda SPECIES
 
 #### Status
 ACCEPTED

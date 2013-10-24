@@ -1,5 +1,4 @@
-Acidovorax temperans Willems et al., 1990 SPECIES
-=======
+# Acidovorax temperans Willems et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

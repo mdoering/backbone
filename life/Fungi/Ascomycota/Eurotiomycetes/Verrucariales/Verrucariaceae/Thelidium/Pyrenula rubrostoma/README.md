@@ -1,5 +1,4 @@
-Pyrenula rubrostoma R.C. Harris, 1980 SPECIES
-=======
+# Pyrenula rubrostoma R.C. Harris, 1980 SPECIES
 
 #### Status
 DOUBTFUL

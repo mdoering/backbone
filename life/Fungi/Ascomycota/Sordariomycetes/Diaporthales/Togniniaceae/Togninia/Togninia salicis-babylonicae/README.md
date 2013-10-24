@@ -1,5 +1,4 @@
-Togninia salicis-babylonicae (Schulzer) Berl. SPECIES
-=======
+# Togninia salicis-babylonicae (Schulzer) Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria spathulata Berk. & Broome SPECIES
-=======
+# Xylaria spathulata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

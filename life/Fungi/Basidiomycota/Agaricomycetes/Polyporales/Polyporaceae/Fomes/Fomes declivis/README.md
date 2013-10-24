@@ -1,5 +1,4 @@
-Fomes declivis (Kalchbr.) Sacc. SPECIES
-=======
+# Fomes declivis (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

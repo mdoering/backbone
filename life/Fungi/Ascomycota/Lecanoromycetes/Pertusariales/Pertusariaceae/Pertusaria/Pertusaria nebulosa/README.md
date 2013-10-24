@@ -1,5 +1,4 @@
-Pertusaria nebulosa A.W. Archer SPECIES
-=======
+# Pertusaria nebulosa A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

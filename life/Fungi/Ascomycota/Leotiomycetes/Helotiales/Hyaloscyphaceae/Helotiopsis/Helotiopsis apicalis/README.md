@@ -1,5 +1,4 @@
-Helotiopsis apicalis (Berk. & Broome) Höhn. SPECIES
-=======
+# Helotiopsis apicalis (Berk. & Broome) Höhn. SPECIES
 
 #### Status
 ACCEPTED

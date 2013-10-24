@@ -1,5 +1,4 @@
-Socotraina Banner, Whittaker, Boudagher-Fadel & Samuel, 1997 GENUS
-=======
+# Socotraina Banner, Whittaker, Boudagher-Fadel & Samuel, 1997 GENUS
 
 #### Status
 ACCEPTED

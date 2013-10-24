@@ -1,5 +1,4 @@
-Lembosiopsis brevis (Tracy & Earle) Theiss. SPECIES
-=======
+# Lembosiopsis brevis (Tracy & Earle) Theiss. SPECIES
 
 #### Status
 ACCEPTED

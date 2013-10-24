@@ -1,5 +1,4 @@
-Dactylosporites dicotylophylli Paradkar SPECIES
-=======
+# Dactylosporites dicotylophylli Paradkar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Suillus neoalbidipes M.E. Palm & E.L. Stewart, 1984 SPECIES
-=======
+# Suillus neoalbidipes M.E. Palm & E.L. Stewart, 1984 SPECIES
 
 #### Status
 DOUBTFUL

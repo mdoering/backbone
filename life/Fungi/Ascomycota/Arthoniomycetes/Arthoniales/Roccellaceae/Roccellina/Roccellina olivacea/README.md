@@ -1,5 +1,4 @@
-Roccellina olivacea Follmann SPECIES
-=======
+# Roccellina olivacea Follmann SPECIES
 
 #### Status
 ACCEPTED

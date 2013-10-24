@@ -1,5 +1,4 @@
-Pseudocyphellaria glaucolurida (Nyl.) W. Martin SPECIES
-=======
+# Pseudocyphellaria glaucolurida (Nyl.) W. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Verrucaria tamarindi Fée SPECIES
-=======
+# Anisomeridium tamarindi (Fée) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Tucker & Harris, Bryologist 83(1): 4 (1980)
 
 #### Original name
-null
+Verrucaria tamarindi Fée
 
 ### Remarks
 null

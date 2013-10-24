@@ -1,5 +1,4 @@
-Agaricus confoederans Britzelm. SPECIES
-=======
+# Agaricus confoederans Britzelm. SPECIES
 
 #### Status
 ACCEPTED

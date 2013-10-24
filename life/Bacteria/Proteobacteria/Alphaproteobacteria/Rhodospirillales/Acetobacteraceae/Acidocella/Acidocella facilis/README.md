@@ -1,11 +1,10 @@
-Acidiphilium facile Wichlacz et al., 1986 SPECIES
-=======
+# Acidocella facilis (Wichlacz et al., 1986) Kishimoto et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

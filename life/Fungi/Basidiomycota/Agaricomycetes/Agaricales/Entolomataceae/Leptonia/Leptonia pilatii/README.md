@@ -1,8 +1,7 @@
-Leptonia pilati Svrcek SPECIES
-=======
+# Leptonia pilatii Svrcek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptonia pilati Svrcek
+Leptonia pilatii Svrcek
 
 ### Remarks
 null

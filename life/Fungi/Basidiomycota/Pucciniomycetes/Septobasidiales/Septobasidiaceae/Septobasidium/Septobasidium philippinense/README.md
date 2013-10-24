@@ -1,5 +1,4 @@
-Septobasidium philippinense Couch SPECIES
-=======
+# Septobasidium philippinense Couch SPECIES
 
 #### Status
 ACCEPTED

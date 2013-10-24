@@ -1,5 +1,4 @@
-Acineta urecolata SPECIES
-=======
+# Acineta urecolata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Punctelia eganii Hodkinson & Lendemer SPECIES
-=======
+# Punctelia eganii Hodkinson & Lendemer SPECIES
 
 #### Status
 ACCEPTED

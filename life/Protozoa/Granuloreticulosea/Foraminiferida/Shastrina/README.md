@@ -1,5 +1,4 @@
-Shastrina Singh & Kalia, 1970 GENUS
-=======
+# Shastrina Singh & Kalia, 1970 GENUS
 
 #### Status
 ACCEPTED

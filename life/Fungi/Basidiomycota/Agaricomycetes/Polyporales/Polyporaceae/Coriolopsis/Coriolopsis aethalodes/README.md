@@ -1,5 +1,4 @@
-Coriolopsis aethalodes (Mont.) Ryvarden SPECIES
-=======
+# Coriolopsis aethalodes (Mont.) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

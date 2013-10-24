@@ -1,5 +1,4 @@
-Stenella scleriae McKenzie SPECIES
-=======
+# Stenella scleriae McKenzie SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placidiopsis sbarbaronis (Servazzi) Clauzade & Cl. Roux SPECIES
-=======
+# Placidiopsis sbarbaronis (Servazzi) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

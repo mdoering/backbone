@@ -1,5 +1,4 @@
-Incrupila narynica Raitv. SPECIES
-=======
+# Incrupila narynica Raitv. SPECIES
 
 #### Status
 ACCEPTED

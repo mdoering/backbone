@@ -1,5 +1,4 @@
-Anaerovibrio Hungate, 1966 GENUS
-=======
+# Anaerovibrio Hungate, 1966 GENUS
 
 #### Status
 ACCEPTED

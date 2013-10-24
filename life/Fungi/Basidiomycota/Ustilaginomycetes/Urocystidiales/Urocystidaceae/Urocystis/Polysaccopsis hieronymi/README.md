@@ -1,5 +1,4 @@
-Polysaccopsis hieronymi (J. Schröt.) Henn. SPECIES
-=======
+# Polysaccopsis hieronymi (J. Schröt.) Henn. SPECIES
 
 #### Status
 ACCEPTED

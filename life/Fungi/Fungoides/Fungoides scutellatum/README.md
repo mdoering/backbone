@@ -1,5 +1,4 @@
-Fungoides scutellatum Plum. {?} SPECIES
-=======
+# Fungoides scutellatum Plum. {?} SPECIES
 
 #### Status
 ACCEPTED

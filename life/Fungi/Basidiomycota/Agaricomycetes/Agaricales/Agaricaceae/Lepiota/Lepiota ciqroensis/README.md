@@ -1,5 +1,4 @@
-Lepiota ciqroensis Guzm.-Dáv. & Guzmán SPECIES
-=======
+# Lepiota ciqroensis Guzm.-Dáv. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

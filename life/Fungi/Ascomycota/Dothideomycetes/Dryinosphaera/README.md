@@ -1,5 +1,4 @@
-Dryinosphaera Dumort. GENUS
-=======
+# Dryinosphaera Dumort. GENUS
 
 #### Status
 ACCEPTED

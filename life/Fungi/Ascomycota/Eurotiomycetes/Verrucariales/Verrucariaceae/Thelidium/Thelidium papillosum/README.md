@@ -1,5 +1,4 @@
-Thelidium papillosum Servít SPECIES
-=======
+# Thelidium papillosum Servít SPECIES
 
 #### Status
 ACCEPTED

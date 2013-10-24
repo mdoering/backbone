@@ -1,5 +1,4 @@
-Geminiella Popescu in Popescu, Cicha & Rogl, 1998 GENUS
-=======
+# Geminiella Popescu in Popescu, Cicha & Rogl, 1998 GENUS
 
 #### Status
 ACCEPTED

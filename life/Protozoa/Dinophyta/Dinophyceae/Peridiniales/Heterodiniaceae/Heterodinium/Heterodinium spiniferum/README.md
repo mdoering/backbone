@@ -1,5 +1,4 @@
-Heterodinium spiniferum Kofoid & Michener, 1911 SPECIES
-=======
+# Heterodinium spiniferum Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Illosporium moricola Sacc. SPECIES
-=======
+# Illosporium moricola Sacc. SPECIES
 
 #### Status
 ACCEPTED

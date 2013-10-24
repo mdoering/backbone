@@ -1,5 +1,4 @@
-Minidiscus triocutatus (F.J. R. Taytor) Hasle SPECIES
-=======
+# Minidiscus triocutatus (F.J. R. Taytor) Hasle SPECIES
 
 #### Status
 ACCEPTED

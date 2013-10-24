@@ -1,5 +1,4 @@
-Bacillus fumarioli Logan et al., 2000 SPECIES
-=======
+# Bacillus fumarioli Logan et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

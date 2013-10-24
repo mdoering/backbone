@@ -1,5 +1,4 @@
-Syracosphaera delicata Cros, Kleijne, Zeltner, Billard & Young, 2000 SPECIES
-=======
+# Syracosphaera delicata Cros, Kleijne, Zeltner, Billard & Young, 2000 SPECIES
 
 #### Status
 ACCEPTED

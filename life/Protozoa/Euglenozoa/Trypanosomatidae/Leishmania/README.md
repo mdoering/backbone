@@ -1,5 +1,4 @@
-Leishmania Ross, 1903 GENUS
-=======
+# Leishmania Ross, 1903 GENUS
 
 #### Status
 ACCEPTED

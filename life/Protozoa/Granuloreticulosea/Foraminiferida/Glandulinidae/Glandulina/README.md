@@ -1,5 +1,4 @@
-Glandulina d'Orbigny, 1839 GENUS
-=======
+# Glandulina d'Orbigny, 1839 GENUS
 
 #### Status
 ACCEPTED

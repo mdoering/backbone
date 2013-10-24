@@ -1,5 +1,4 @@
-Scolecostigmina confluens (Lieneman) U. Braun SPECIES
-=======
+# Scolecostigmina confluens (Lieneman) U. Braun SPECIES
 
 #### Status
 ACCEPTED

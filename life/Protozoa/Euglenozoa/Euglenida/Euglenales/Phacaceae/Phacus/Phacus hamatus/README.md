@@ -1,5 +1,4 @@
-Phacus hamatus Pochmann SPECIES
-=======
+# Phacus hamatus Pochmann SPECIES
 
 #### Status
 ACCEPTED

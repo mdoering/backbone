@@ -1,5 +1,4 @@
-Spathidium opium SPECIES
-=======
+# Spathidium opium SPECIES
 
 #### Status
 ACCEPTED

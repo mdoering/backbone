@@ -1,5 +1,4 @@
-Gonyaulax fraterculus E. Balech SPECIES
-=======
+# Gonyaulax fraterculus E. Balech SPECIES
 
 #### Status
 ACCEPTED

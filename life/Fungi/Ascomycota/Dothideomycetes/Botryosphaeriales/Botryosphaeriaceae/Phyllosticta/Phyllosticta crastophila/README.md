@@ -1,5 +1,4 @@
-Phyllosticta crastophila var. crastophila VARIETY
-=======
+# Phyllosticta crastophila Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta crastophila var. crastophila
+Phyllosticta crastophila Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amanita sulcata Lam. SPECIES
-=======
+# Amanita sulcata Lam. SPECIES
 
 #### Status
 ACCEPTED

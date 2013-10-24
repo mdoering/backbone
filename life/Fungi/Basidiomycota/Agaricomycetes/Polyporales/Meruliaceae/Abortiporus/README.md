@@ -1,14 +1,13 @@
-Loweomyces (Kotlaba & Pouzar) Jülich, 1982 GENUS
-=======
+# Abortiporus Murrill, 1904 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Bull. Torrey Bot. Club 31: 421.
 
 #### Original name
 null

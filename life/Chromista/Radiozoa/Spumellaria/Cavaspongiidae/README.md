@@ -1,5 +1,4 @@
-Cavaspongiidae Pessagno, 1973 FAMILY
-=======
+# Cavaspongiidae Pessagno, 1973 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nummulopyrgo Hofker, 1983 GENUS
-=======
+# Nummulopyrgo Hofker, 1983 GENUS
 
 #### Status
 ACCEPTED

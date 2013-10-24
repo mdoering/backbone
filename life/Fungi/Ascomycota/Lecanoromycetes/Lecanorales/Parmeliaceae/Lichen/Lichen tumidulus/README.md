@@ -1,5 +1,4 @@
-Lichen tumidulus Pers. SPECIES
-=======
+# Lichen tumidulus Pers. SPECIES
 
 #### Status
 ACCEPTED

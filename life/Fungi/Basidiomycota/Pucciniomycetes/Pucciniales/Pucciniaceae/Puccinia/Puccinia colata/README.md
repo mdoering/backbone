@@ -1,5 +1,4 @@
-Puccinia colata var. colata VARIETY
-=======
+# Puccinia colata J.F. Hennen & Cummins SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Rep. Tottori Mycol. Inst. 10: 173 (1973)
 
 #### Original name
-Puccinia colata var. colata
+Puccinia colata J.F. Hennen & Cummins
 
 ### Remarks
 null

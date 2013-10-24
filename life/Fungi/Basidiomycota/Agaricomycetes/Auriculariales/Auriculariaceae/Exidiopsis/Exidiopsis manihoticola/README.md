@@ -1,5 +1,4 @@
-Exidiopsis manihoticola Viégas SPECIES
-=======
+# Exidiopsis manihoticola Viégas SPECIES
 
 #### Status
 ACCEPTED

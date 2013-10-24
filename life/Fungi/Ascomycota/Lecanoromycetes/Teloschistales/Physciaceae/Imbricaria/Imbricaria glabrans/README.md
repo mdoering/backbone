@@ -1,5 +1,4 @@
-Imbricaria glabrans (Nyl.) Arnold SPECIES
-=======
+# Imbricaria glabrans (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Goniomonas pacifica Larsen & Patterson, 1990 SPECIES
-=======
+# Goniomonas pacifica Larsen & Patterson, 1990 SPECIES
 
 #### Status
 ACCEPTED

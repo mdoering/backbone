@@ -1,5 +1,4 @@
-Coniothyrium mikaniae Bat. & Peres SPECIES
-=======
+# Coniothyrium mikaniae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

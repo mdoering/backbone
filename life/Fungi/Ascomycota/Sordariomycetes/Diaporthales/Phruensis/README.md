@@ -1,5 +1,4 @@
-Phruensis Pinruan GENUS
-=======
+# Phruensis Pinruan GENUS
 
 #### Status
 ACCEPTED

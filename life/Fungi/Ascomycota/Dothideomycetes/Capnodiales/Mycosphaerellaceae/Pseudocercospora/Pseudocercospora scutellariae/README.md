@@ -1,5 +1,4 @@
-Pseudocercospora scutellariae (Ellis & Everh.) U. Braun SPECIES
-=======
+# Pseudocercospora scutellariae (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

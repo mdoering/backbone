@@ -1,5 +1,4 @@
-Graphis conglomerata Spreng. SPECIES
-=======
+# Graphis conglomerata Spreng. SPECIES
 
 #### Status
 ACCEPTED

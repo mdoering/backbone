@@ -1,5 +1,4 @@
-Rosellinia variospora var. variospora VARIETY
-=======
+# Rosellinia variospora Starbäck SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ark. Bot. 5(7): 18 (1905)
 
 #### Original name
-Rosellinia variospora var. variospora
+Rosellinia variospora Starbäck
 
 ### Remarks
 null

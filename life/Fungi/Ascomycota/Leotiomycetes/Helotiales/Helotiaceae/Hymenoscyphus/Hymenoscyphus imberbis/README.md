@@ -1,17 +1,16 @@
-Helotium imberbe var. imberbe VARIETY
-=======
+# Hymenoscyphus imberbis (Bull.) Dennis, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 3(1): 75 (1964)
 
 #### Original name
-Helotium imberbe var. imberbe
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Wadeana Coppins & P. James GENUS
-=======
+# Wadeana Coppins & P. James GENUS
 
 #### Status
 ACCEPTED

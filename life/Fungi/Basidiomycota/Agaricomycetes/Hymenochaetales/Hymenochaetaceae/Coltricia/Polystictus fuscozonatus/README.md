@@ -1,5 +1,4 @@
-Polystictus fuscozonatus Lloyd SPECIES
-=======
+# Polystictus fuscozonatus Lloyd SPECIES
 
 #### Status
 ACCEPTED

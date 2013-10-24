@@ -1,5 +1,4 @@
-Pseudocercospora blepharis (Chidd.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora blepharis (Chidd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodopaxillus caffrorum (Kalchbr. & MacOwan) Singer SPECIES
-=======
+# Rhodopaxillus caffrorum (Kalchbr. & MacOwan) Singer SPECIES
 
 #### Status
 ACCEPTED

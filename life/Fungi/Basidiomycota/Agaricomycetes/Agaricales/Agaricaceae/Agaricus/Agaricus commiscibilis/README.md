@@ -1,5 +1,4 @@
-Agaricus commiscibilis Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus commiscibilis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

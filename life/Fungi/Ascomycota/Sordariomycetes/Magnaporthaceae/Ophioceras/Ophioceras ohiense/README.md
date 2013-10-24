@@ -1,5 +1,4 @@
-Ophioceras ohiense Ellis & Everh. SPECIES
-=======
+# Ophioceras ohiense Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

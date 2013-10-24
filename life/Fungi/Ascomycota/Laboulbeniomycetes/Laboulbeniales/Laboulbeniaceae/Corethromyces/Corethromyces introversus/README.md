@@ -1,5 +1,4 @@
-Corethromyces introversus Thaxt. SPECIES
-=======
+# Corethromyces introversus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

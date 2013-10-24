@@ -1,5 +1,4 @@
-Chaetomium delicatulum Roum. SPECIES
-=======
+# Chaetomium delicatulum Roum. SPECIES
 
 #### Status
 ACCEPTED

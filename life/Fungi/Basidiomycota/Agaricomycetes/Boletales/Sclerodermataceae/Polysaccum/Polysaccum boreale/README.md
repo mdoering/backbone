@@ -1,5 +1,4 @@
-Polysaccum boreale P. Karst. SPECIES
-=======
+# Polysaccum boreale P. Karst. SPECIES
 
 #### Status
 ACCEPTED

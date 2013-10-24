@@ -1,5 +1,4 @@
-Agaricus alachuanus Murrill SPECIES
-=======
+# Agaricus alachuanus Murrill SPECIES
 
 #### Status
 ACCEPTED

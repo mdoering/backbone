@@ -1,5 +1,4 @@
-Epigloeosphaera filamentosa Komárek & Cronberg SPECIES
-=======
+# Epigloeosphaera filamentosa Komárek & Cronberg SPECIES
 
 #### Status
 ACCEPTED

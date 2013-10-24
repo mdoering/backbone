@@ -1,5 +1,4 @@
-Leptolyngbya notata var. africana (Fritsch & Rich) I. Umezaki & M. Watanabe VARIETY
-=======
+# Leptolyngbya notata (Schmidle) Anagnostidis & Komarek SPECIES
 
 #### Status
 ACCEPTED

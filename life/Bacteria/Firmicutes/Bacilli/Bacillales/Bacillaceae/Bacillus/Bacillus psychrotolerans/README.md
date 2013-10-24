@@ -1,5 +1,4 @@
-Bacillus psychrotolerans Abd El-Rahman et al., 2002 SPECIES
-=======
+# Bacillus psychrotolerans Abd El-Rahman et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

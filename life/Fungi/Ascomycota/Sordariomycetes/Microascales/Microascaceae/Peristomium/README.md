@@ -1,5 +1,4 @@
-Peristomium GENUS
-=======
+# Peristomium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithocia elaeina A. Massal. SPECIES
-=======
+# Lithocia elaeina A. Massal. SPECIES
 
 #### Status
 ACCEPTED

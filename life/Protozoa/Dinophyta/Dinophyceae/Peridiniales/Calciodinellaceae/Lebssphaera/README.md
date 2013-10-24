@@ -1,5 +1,4 @@
-Lebssphaera GENUS
-=======
+# Lebssphaera GENUS
 
 #### Status
 ACCEPTED

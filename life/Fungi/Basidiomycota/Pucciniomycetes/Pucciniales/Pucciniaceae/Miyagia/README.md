@@ -1,5 +1,4 @@
-Miyagia Miyabe ex Syd. & P. Syd. GENUS
-=======
+# Miyagia Miyabe ex Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

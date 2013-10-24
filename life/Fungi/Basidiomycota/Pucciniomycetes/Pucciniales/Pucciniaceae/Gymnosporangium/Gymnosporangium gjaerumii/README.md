@@ -1,5 +1,4 @@
-Gymnosporangium gjaerumii Korbonsk. & Azbukina, 1997 SPECIES
-=======
+# Gymnosporangium gjaerumii Korbonsk. & Azbukina, 1997 SPECIES
 
 #### Status
 ACCEPTED

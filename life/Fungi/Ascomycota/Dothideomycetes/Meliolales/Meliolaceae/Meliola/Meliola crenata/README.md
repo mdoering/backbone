@@ -1,5 +1,4 @@
-Meliola crenata G. Winter SPECIES
-=======
+# Meliola crenata G. Winter SPECIES
 
 #### Status
 ACCEPTED

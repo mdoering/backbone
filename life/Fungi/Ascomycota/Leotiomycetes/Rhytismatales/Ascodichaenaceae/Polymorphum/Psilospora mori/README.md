@@ -1,5 +1,4 @@
-Psilospora mori Schulzer SPECIES
-=======
+# Psilospora mori Schulzer SPECIES
 
 #### Status
 ACCEPTED

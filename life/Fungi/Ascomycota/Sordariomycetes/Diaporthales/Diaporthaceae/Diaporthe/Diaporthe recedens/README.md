@@ -1,5 +1,4 @@
-Diaporthe recedens Sacc. SPECIES
-=======
+# Diaporthe recedens Sacc. SPECIES
 
 #### Status
 ACCEPTED

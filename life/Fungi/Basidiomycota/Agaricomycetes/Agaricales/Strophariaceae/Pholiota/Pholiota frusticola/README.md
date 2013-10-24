@@ -1,5 +1,4 @@
-Pholiota frusticola (Berk.) Pegler SPECIES
-=======
+# Pholiota frusticola (Berk.) Pegler SPECIES
 
 #### Status
 ACCEPTED

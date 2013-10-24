@@ -1,5 +1,4 @@
-Agaricus riculata Fr. SPECIES
-=======
+# Agaricus riculata Fr. SPECIES
 
 #### Status
 ACCEPTED

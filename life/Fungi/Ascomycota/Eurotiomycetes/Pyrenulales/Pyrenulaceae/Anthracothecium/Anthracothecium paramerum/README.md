@@ -1,5 +1,4 @@
-Anthracothecium paramerum (Nyl.) Müll. Arg. SPECIES
-=======
+# Anthracothecium paramerum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

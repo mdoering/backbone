@@ -1,5 +1,4 @@
-Mycomicrothelia fuliguncta (Norman) D. Hawksw. SPECIES
-=======
+# Mycomicrothelia fuliguncta (Norman) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

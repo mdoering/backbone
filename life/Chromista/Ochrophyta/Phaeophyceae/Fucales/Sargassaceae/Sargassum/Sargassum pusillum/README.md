@@ -1,5 +1,4 @@
-Sargassum pusillum W.R. Taylor SPECIES
-=======
+# Sargassum pusillum W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anguillospora Ingold GENUS
-=======
+# Anguillospora Ingold GENUS
 
 #### Status
 ACCEPTED

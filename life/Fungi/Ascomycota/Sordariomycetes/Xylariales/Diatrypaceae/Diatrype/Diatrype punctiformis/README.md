@@ -1,5 +1,4 @@
-Diatrype punctiformis SPECIES
-=======
+# Diatrype punctiformis SPECIES
 
 #### Status
 ACCEPTED

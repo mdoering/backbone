@@ -1,5 +1,4 @@
-Macrophoma chilicola Speg. SPECIES
-=======
+# Macrophoma chilicola Speg. SPECIES
 
 #### Status
 ACCEPTED

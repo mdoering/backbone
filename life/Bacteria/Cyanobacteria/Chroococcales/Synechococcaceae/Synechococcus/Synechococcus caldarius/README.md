@@ -1,5 +1,4 @@
-Synechococcus caldarius Okada SPECIES
-=======
+# Synechococcus caldarius Okada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypotrachyna divaricatica Elix & T. H. Nash SPECIES
-=======
+# Hypotrachyna divaricatica Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizothrix telephroides (Mont.) Gomont SPECIES
-=======
+# Schizothrix telephroides (Mont.) Gomont SPECIES
 
 #### Status
 ACCEPTED

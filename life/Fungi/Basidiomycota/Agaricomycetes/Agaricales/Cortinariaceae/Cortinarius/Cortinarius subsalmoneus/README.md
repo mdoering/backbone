@@ -1,5 +1,4 @@
-Cortinarius subsalmoneus Kauffman SPECIES
-=======
+# Cortinarius subsalmoneus Kauffman SPECIES
 
 #### Status
 ACCEPTED

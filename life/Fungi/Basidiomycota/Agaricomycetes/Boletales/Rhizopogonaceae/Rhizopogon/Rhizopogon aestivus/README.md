@@ -1,5 +1,4 @@
-Rhizopogon aestivus Fr. SPECIES
-=======
+# Rhizopogon aestivus Fr. SPECIES
 
 #### Status
 ACCEPTED

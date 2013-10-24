@@ -1,14 +1,13 @@
-Ustilago amplexa Syd., 1924 SPECIES
-=======
+# Tranzscheliella amplexa (Syd.) Vánky, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 22: 278 (1924)
+Mycotaxon 89(1): 109 (2004)
 
 #### Original name
 Ustilago amplexa Syd., 1924

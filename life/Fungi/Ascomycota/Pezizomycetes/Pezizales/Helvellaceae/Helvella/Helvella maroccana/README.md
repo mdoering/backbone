@@ -1,5 +1,4 @@
-Helvella maroccana Har. & Pat. SPECIES
-=======
+# Helvella maroccana Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

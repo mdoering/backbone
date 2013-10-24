@@ -1,5 +1,4 @@
-Diplodia calamicola Henn. SPECIES
-=======
+# Diplodia calamicola Henn. SPECIES
 
 #### Status
 ACCEPTED

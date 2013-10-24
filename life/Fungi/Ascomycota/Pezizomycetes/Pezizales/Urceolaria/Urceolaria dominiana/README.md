@@ -1,5 +1,4 @@
-Urceolaria dominiana (Servít) Motyka SPECIES
-=======
+# Urceolaria dominiana (Servít) Motyka SPECIES
 
 #### Status
 ACCEPTED

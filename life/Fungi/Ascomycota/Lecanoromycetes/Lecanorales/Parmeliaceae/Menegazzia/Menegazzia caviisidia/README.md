@@ -1,5 +1,4 @@
-Menegazzia caviisidia Bjerke & P. James SPECIES
-=======
+# Menegazzia caviisidia Bjerke & P. James SPECIES
 
 #### Status
 ACCEPTED

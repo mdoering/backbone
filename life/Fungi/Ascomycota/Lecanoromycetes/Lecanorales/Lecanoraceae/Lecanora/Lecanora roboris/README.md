@@ -1,5 +1,4 @@
-Lecanora roboris Nyl. SPECIES
-=======
+# Lecanora roboris Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Copromonas Dobell, 1908 GENUS
-=======
+# Copromonas Dobell, 1908 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monosporascus cannonballus Pollack & Uecker, 1974 SPECIES
-=======
+# Monosporascus cannonballus Pollack & Uecker, 1974 SPECIES
 
 #### Status
 ACCEPTED

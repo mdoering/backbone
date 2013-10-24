@@ -1,5 +1,4 @@
-Bitubulogerina GENUS
-=======
+# Bitubulogerina GENUS
 
 #### Status
 ACCEPTED

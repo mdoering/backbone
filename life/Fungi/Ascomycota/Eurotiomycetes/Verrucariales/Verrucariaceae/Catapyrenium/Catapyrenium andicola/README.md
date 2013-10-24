@@ -1,5 +1,4 @@
-Catapyrenium andicola Breuss SPECIES
-=======
+# Catapyrenium andicola Breuss SPECIES
 
 #### Status
 ACCEPTED

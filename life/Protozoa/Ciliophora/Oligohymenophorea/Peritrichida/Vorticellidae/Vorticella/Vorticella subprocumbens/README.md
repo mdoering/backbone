@@ -1,5 +1,4 @@
-Vorticella subprocumbens Ghosh, 1925 SPECIES
-=======
+# Vorticella subprocumbens Ghosh, 1925 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diexallophasis toyetaformis (Uutela & Tynni, 1991) Sarjeant & Vavrdová SPECIES
-=======
+# Diexallophasis toyetaformis (Uutela & Tynni, 1991) Sarjeant & Vavrdová SPECIES
 
 #### Status
 ACCEPTED

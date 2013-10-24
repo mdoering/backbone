@@ -1,5 +1,4 @@
-Mycomicrothelia captiosa (Kremp.) D. Hawksw. SPECIES
-=======
+# Mycomicrothelia captiosa (Kremp.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

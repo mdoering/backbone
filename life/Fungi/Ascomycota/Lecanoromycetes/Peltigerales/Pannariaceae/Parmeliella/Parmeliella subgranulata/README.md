@@ -1,5 +1,4 @@
-Parmeliella subgranulata D. J. Galloway & P. M. Jørg. SPECIES
-=======
+# Parmeliella subgranulata D. J. Galloway & P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia subflavescens (Murrill) Murrill SPECIES
-=======
+# Collybia subflavescens (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

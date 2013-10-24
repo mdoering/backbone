@@ -1,17 +1,16 @@
-Dictydiaethaliidae FAMILY
-=======
+# Dictydiaethaliaceae Nann.-Bremek. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 88: 127 (1985)
 
 #### Original name
-null
+Dictydiaethaliaceae Nann.-Bremek.
 
 ### Remarks
 null

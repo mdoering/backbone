@@ -1,5 +1,4 @@
-Balladyna strychni Hansf. SPECIES
-=======
+# Balladyna strychni Hansf. SPECIES
 
 #### Status
 ACCEPTED

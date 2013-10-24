@@ -1,5 +1,4 @@
-Labrella arctica Fuckel SPECIES
-=======
+# Labrella arctica Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyromitra suspecta (Krombh.) J. Schröt. SPECIES
-=======
+# Gyromitra suspecta (Krombh.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

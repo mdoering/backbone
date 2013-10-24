@@ -1,5 +1,4 @@
-Graphina pelophora M. Wirth & Hale SPECIES
-=======
+# Graphina pelophora M. Wirth & Hale SPECIES
 
 #### Status
 ACCEPTED

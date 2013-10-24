@@ -1,5 +1,4 @@
-Puccinia marquesii Rolland SPECIES
-=======
+# Puccinia marquesii Rolland SPECIES
 
 #### Status
 ACCEPTED

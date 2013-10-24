@@ -1,5 +1,4 @@
-Phomopsis tezpatae S.M. Singh SPECIES
-=======
+# Phomopsis tezpatae S.M. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus parlatorei Singer SPECIES
-=======
+# Crepidotus parlatorei Singer SPECIES
 
 #### Status
 ACCEPTED

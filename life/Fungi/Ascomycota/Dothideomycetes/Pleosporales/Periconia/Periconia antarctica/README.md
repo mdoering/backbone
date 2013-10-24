@@ -1,5 +1,4 @@
-Periconia antarctica (Henn.) S. Hughes SPECIES
-=======
+# Periconia antarctica (Henn.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

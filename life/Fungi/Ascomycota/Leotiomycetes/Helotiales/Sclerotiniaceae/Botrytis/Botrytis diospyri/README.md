@@ -1,5 +1,4 @@
-Botrytis diospyri Brizi, 1901 SPECIES
-=======
+# Botrytis diospyri Brizi, 1901 SPECIES
 
 #### Status
 ACCEPTED

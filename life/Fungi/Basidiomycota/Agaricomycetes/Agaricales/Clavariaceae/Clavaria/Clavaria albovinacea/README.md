@@ -1,5 +1,4 @@
-Clavaria albovinacea Pilát SPECIES
-=======
+# Clavaria albovinacea Pilát SPECIES
 
 #### Status
 ACCEPTED

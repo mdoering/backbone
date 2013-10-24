@@ -1,5 +1,4 @@
-Blastobotrys peoriensis Kurtzman, 2007 SPECIES
-=======
+# Blastobotrys peoriensis Kurtzman, 2007 SPECIES
 
 #### Status
 ACCEPTED

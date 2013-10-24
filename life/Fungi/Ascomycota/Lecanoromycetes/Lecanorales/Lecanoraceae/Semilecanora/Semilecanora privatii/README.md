@@ -1,5 +1,4 @@
-Semilecanora privatii (Müll. Arg.) Motyka SPECIES
-=======
+# Semilecanora privatii (Müll. Arg.) Motyka SPECIES
 
 #### Status
 ACCEPTED

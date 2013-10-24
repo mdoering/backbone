@@ -1,17 +1,16 @@
-Penicillium rolfsii var. rolfsii VARIETY
-=======
+# Penicillium rolfsii Thom, 1930 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Penicillia 489 (1930)
+The Penicillia 489? (1930)
 
 #### Original name
-Penicillium rolfsii var. rolfsii
+Penicillium rolfsii Thom, 1930
 
 ### Remarks
 null

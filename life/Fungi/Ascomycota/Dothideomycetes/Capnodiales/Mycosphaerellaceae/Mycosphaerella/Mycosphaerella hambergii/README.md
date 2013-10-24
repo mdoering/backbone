@@ -1,5 +1,4 @@
-Mycosphaerella hambergii (Romell & Sacc.) Petr. SPECIES
-=======
+# Mycosphaerella hambergii (Romell & Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

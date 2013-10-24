@@ -1,5 +1,4 @@
-Cytidia cristallifera Boidin & Lanq., 1995 SPECIES
-=======
+# Cytidia cristallifera Boidin & Lanq., 1995 SPECIES
 
 #### Status
 ACCEPTED

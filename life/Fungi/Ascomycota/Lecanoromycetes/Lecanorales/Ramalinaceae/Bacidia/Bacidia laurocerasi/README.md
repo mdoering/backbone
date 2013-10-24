@@ -1,17 +1,16 @@
-Bacidia subacerina var. laurocerasi Fr. VARIETY
-=======
+# Bacidia laurocerasi (Delise ex Duby) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 213 (1926)
 
 #### Original name
-Bacidia subacerina var. laurocerasi Fr.
+null
 
 ### Remarks
 null

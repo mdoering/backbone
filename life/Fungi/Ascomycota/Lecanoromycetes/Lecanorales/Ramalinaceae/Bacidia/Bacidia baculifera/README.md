@@ -1,5 +1,4 @@
-Bacidia baculifera (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia baculifera (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe brunneoceracea Cleland SPECIES
-=======
+# Clitocybe brunneoceracea Cleland SPECIES
 
 #### Status
 ACCEPTED

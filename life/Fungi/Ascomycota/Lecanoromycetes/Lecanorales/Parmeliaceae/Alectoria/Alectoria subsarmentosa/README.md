@@ -1,5 +1,4 @@
-Alectoria subsarmentosa Stirt. SPECIES
-=======
+# Alectoria subsarmentosa Stirt. SPECIES
 
 #### Status
 ACCEPTED

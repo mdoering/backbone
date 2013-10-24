@@ -1,5 +1,4 @@
-Paecilomyces cossus (Portier & Sartory) A.H.S. Br. & G. Sm. SPECIES
-=======
+# Paecilomyces cossus (Portier & Sartory) A.H.S. Br. & G. Sm. SPECIES
 
 #### Status
 ACCEPTED

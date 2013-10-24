@@ -1,5 +1,4 @@
-Pyronema canina Dearn. & Bisby SPECIES
-=======
+# Pyronema canina Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

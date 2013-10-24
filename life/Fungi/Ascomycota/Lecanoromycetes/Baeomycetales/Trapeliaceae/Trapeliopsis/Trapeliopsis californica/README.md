@@ -1,5 +1,4 @@
-Trapeliopsis californica McCune & F. J. Camacho SPECIES
-=======
+# Trapeliopsis californica McCune & F. J. Camacho SPECIES
 
 #### Status
 ACCEPTED

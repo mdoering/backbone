@@ -1,5 +1,4 @@
-Lecidea chlorocarpa Leight. SPECIES
-=======
+# Lecidea chlorocarpa Leight. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus pezizula Berk. & Broome SPECIES
-=======
+# Crepidotus pezizula Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

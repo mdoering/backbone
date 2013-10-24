@@ -1,5 +1,4 @@
-Macrosporium micromegas Cif. SPECIES
-=======
+# Macrosporium micromegas Cif. SPECIES
 
 #### Status
 ACCEPTED

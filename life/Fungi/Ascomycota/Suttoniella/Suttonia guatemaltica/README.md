@@ -1,5 +1,4 @@
-Suttonia guatemaltica H.C. Evans SPECIES
-=======
+# Suttonia guatemaltica H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

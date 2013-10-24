@@ -1,5 +1,4 @@
-Meliola glabra Berk. & M.A. Curtis SPECIES
-=======
+# Meliola glabra Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

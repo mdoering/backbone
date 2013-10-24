@@ -1,5 +1,4 @@
-Austrobasidium Palfner GENUS
-=======
+# Austrobasidium Palfner GENUS
 
 #### Status
 ACCEPTED

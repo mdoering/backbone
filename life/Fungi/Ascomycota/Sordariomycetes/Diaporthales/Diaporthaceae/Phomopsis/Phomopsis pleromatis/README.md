@@ -1,5 +1,4 @@
-Phomopsis pleromatis (Speg.) Aa SPECIES
-=======
+# Phomopsis pleromatis (Speg.) Aa SPECIES
 
 #### Status
 ACCEPTED

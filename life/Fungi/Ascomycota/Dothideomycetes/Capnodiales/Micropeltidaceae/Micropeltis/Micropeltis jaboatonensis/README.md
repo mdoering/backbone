@@ -1,5 +1,4 @@
-Micropeltis jaboatonensis Bat. SPECIES
-=======
+# Micropeltis jaboatonensis Bat. SPECIES
 
 #### Status
 ACCEPTED

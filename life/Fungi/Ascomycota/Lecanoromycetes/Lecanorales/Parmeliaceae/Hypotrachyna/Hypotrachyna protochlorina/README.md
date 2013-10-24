@@ -1,5 +1,4 @@
-Hypotrachyna protochlorina Sipman, Elix & T. H. Nash SPECIES
-=======
+# Hypotrachyna protochlorina Sipman, Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

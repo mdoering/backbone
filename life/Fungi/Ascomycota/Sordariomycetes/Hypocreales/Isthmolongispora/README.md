@@ -1,5 +1,4 @@
-Isthmolongispora Matsushima, 1971 GENUS
-=======
+# Isthmolongispora Matsushima, 1971 GENUS
 
 #### Status
 ACCEPTED

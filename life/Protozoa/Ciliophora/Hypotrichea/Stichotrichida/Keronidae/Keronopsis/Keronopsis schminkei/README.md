@@ -1,5 +1,4 @@
-Keronopsis schminkei Foissner & Al-Rasheid, 2007 SPECIES
-=======
+# Keronopsis schminkei Foissner & Al-Rasheid, 2007 SPECIES
 
 #### Status
 ACCEPTED

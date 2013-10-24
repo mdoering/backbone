@@ -1,5 +1,4 @@
-Gyrothrix citricola Piroz., 1962 SPECIES
-=======
+# Gyrothrix citricola Piroz., 1962 SPECIES
 
 #### Status
 ACCEPTED

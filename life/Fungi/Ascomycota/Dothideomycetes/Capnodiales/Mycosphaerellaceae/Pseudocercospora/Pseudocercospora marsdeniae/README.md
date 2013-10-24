@@ -1,5 +1,4 @@
-Pseudocercospora marsdeniae (Hansf.) Deighton SPECIES
-=======
+# Pseudocercospora marsdeniae (Hansf.) Deighton SPECIES
 
 #### Status
 ACCEPTED

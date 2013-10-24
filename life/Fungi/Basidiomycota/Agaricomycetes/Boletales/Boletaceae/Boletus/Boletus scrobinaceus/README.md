@@ -1,5 +1,4 @@
-Boletus scrobinaceus A. Cumino SPECIES
-=======
+# Boletus scrobinaceus A. Cumino SPECIES
 
 #### Status
 ACCEPTED

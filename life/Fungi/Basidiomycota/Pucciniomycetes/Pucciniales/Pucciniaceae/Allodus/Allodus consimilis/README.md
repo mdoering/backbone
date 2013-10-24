@@ -1,5 +1,4 @@
-Allodus consimilis (Ellis & Everh.) Orton SPECIES
-=======
+# Allodus consimilis (Ellis & Everh.) Orton SPECIES
 
 #### Status
 ACCEPTED

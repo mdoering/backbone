@@ -1,5 +1,4 @@
-Ludwigomyces Kirschst. GENUS
-=======
+# Ludwigomyces Kirschst. GENUS
 
 #### Status
 ACCEPTED

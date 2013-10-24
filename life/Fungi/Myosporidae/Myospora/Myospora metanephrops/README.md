@@ -1,5 +1,4 @@
-Myospora metanephrops Stentiford, Bateman, Small, Moss, Shields, Reece & Tuck, 2010 SPECIES
-=======
+# Myospora metanephrops Stentiford, Bateman, Small, Moss, Shields, Reece & Tuck, 2010 SPECIES
 
 #### Status
 ACCEPTED

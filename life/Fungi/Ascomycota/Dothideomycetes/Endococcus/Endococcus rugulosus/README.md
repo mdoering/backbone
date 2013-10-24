@@ -1,17 +1,16 @@
-Tichothecium calcaricola var. calcaricola VARIETY
-=======
+# Endococcus rugulosus (Borrer ex Leight.) Nyl., 1855 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Imp. Sci. Nat. Cherbourg 3: 193 (1855)
 
 #### Original name
-Tichothecium calcaricola var. calcaricola
+Verrucaria rugulosa (Schaer.) Arnold
 
 ### Remarks
 null

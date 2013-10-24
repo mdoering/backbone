@@ -1,14 +1,13 @@
-Lecidea zeoroides Anzi SPECIES
-=======
+# Porpidia zeoroides (Anzi) Knoph & Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Comm. Soc. crittog. Ital. 2(1): 17 (1864)
+in Hertel & Knoph, Mitt. bot. StSamml. , Münch. 20: 477 (1984)
 
 #### Original name
 Lecidea zeoroides Anzi

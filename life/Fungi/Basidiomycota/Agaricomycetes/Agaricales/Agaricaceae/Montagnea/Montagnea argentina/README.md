@@ -1,14 +1,13 @@
-Montagnites argentina Speg., 1898 SPECIES
-=======
+# Montagnea argentina (Speg.) Singer, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. Hist. nat. B. Aires 6: 160 (1898)
+Nova Hedwigia, Beih. 29: 369 (1969)
 
 #### Original name
 Montagnites argentina Speg., 1898

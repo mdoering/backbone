@@ -1,5 +1,4 @@
-Phialea ampla Ellis & Everh. SPECIES
-=======
+# Phialea ampla Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

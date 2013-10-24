@@ -1,5 +1,4 @@
-Bacidia coreovadensis SPECIES
-=======
+# Bacidia coreovadensis SPECIES
 
 #### Status
 ACCEPTED

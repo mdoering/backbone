@@ -1,5 +1,4 @@
-Apiosoma dallii SPECIES
-=======
+# Apiosoma dallii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tomentella asterigma Maire SPECIES
-=======
+# Tomentella asterigma Maire SPECIES
 
 #### Status
 ACCEPTED

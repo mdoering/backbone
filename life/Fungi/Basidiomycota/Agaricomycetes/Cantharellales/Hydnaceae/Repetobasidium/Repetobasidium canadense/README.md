@@ -1,5 +1,4 @@
-Repetobasidium canadense J. Erikss. & Hjortstam, 1981 SPECIES
-=======
+# Repetobasidium canadense J. Erikss. & Hjortstam, 1981 SPECIES
 
 #### Status
 ACCEPTED

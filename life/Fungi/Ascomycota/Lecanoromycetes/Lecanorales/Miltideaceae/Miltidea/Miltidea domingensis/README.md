@@ -1,5 +1,4 @@
-Miltidea domingensis (Pers.) Stirt. SPECIES
-=======
+# Miltidea domingensis (Pers.) Stirt. SPECIES
 
 #### Status
 ACCEPTED

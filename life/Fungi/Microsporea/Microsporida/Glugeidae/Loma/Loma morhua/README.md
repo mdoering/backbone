@@ -1,5 +1,4 @@
-Loma morhua C.M. Morrison & V. Sprague SPECIES
-=======
+# Loma morhua C.M. Morrison & V. Sprague SPECIES
 
 #### Status
 ACCEPTED

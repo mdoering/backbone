@@ -1,5 +1,4 @@
-Anaptychia subisidiosa (Kurok.) Kurok. SPECIES
-=======
+# Anaptychia subisidiosa (Kurok.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

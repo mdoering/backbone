@@ -1,5 +1,4 @@
-Candelariella disceptans (Nyl.) Zahlbr. SPECIES
-=======
+# Candelariella disceptans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

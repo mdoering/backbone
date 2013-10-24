@@ -1,5 +1,4 @@
-Hadrotrichum microsporum Sacc. & Malbr. SPECIES
-=======
+# Hadrotrichum microsporum Sacc. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleuroceras gleditschiae (J.H. Mill. & F.A. Wolf) M.E. Barr SPECIES
-=======
+# Pleuroceras gleditschiae (J.H. Mill. & F.A. Wolf) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

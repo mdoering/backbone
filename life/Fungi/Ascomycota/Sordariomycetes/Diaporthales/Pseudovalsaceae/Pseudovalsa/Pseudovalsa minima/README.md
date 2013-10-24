@@ -1,5 +1,4 @@
-Pseudovalsa minima Ellis & Everh. SPECIES
-=======
+# Pseudovalsa minima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

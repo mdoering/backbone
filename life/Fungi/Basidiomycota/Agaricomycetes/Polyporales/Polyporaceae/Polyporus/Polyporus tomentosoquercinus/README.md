@@ -1,5 +1,4 @@
-Polyporus tomentosoquercinus A.E. Johnson SPECIES
-=======
+# Polyporus tomentosoquercinus A.E. Johnson SPECIES
 
 #### Status
 ACCEPTED

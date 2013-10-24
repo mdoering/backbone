@@ -1,5 +1,4 @@
-Psora miniata (Hoffm.) Hoffm. SPECIES
-=======
+# Psora miniata (Hoffm.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

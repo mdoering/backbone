@@ -1,5 +1,4 @@
-Sphaeronaema cladoniscum (Ach.) Fr. SPECIES
-=======
+# Sphaeronaema cladoniscum (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

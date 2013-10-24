@@ -1,5 +1,4 @@
-Coreomyces curvatus Thaxt. SPECIES
-=======
+# Coreomyces curvatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

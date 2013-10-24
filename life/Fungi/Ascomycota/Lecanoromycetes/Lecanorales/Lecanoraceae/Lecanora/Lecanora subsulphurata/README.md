@@ -1,5 +1,4 @@
-Lecanora subsulphurata Harm. SPECIES
-=======
+# Lecanora subsulphurata Harm. SPECIES
 
 #### Status
 ACCEPTED

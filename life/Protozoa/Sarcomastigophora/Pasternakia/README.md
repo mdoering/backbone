@@ -1,5 +1,4 @@
-Pasternakia Voloshina, 1965 GENUS
-=======
+# Pasternakia Voloshina, 1965 GENUS
 
 #### Status
 ACCEPTED

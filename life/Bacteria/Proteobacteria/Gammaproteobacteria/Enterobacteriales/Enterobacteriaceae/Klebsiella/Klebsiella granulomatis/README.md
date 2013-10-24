@@ -1,11 +1,10 @@
-Donovania granulomatis Anderson et al., 1944 SPECIES
-=======
+# Klebsiella granulomatis (Aragão & Vianna, 1913) Carter et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

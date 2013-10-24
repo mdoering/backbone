@@ -1,5 +1,4 @@
-Puccinia taihaensis Hirats. f. & Hashioka SPECIES
-=======
+# Puccinia taihaensis Hirats. f. & Hashioka SPECIES
 
 #### Status
 ACCEPTED

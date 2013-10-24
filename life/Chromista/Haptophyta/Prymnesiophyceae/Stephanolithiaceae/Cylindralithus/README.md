@@ -1,14 +1,13 @@
-Darwinilithus Watkins in Watkins & Bowdler, 1984 GENUS
-=======
+# Cylindralithus Bramlette & E.Martini, 1964 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Initial Rep. Deep Sea Drilling Proj. 77: 661.
+Micropaleontology 10: 308.
 
 #### Original name
 null

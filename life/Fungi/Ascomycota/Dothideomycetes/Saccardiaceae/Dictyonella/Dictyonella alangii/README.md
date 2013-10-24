@@ -1,5 +1,4 @@
-Dictyonella alangii Hansf. & Thirum., 1948 SPECIES
-=======
+# Dictyonella alangii Hansf. & Thirum., 1948 SPECIES
 
 #### Status
 ACCEPTED

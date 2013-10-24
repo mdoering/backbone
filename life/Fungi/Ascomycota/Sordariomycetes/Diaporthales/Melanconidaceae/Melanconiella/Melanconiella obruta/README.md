@@ -1,5 +1,4 @@
-Melanconiella obruta (Ellis & Everh.) Sacc. & P. Syd. SPECIES
-=======
+# Melanconiella obruta (Ellis & Everh.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

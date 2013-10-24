@@ -1,5 +1,4 @@
-Dimeromyces nigricaulis Thaxt. SPECIES
-=======
+# Dimeromyces nigricaulis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

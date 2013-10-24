@@ -1,5 +1,4 @@
-Typhula fuscipes (Pers.) Fr. SPECIES
-=======
+# Typhula fuscipes (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

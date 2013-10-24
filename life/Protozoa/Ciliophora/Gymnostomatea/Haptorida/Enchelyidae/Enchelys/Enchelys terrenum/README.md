@@ -1,8 +1,7 @@
-Clavoplites terrenum (Foissner, 1984) Foissner, Agatha & Berger, 2 SPECIES
-=======
+# Enchelys terrenum (Foissner, 1984) Vdacny, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Phallus esculenta Fr. SPECIES
-=======
+# Phallus esculenta Fr. SPECIES
 
 #### Status
 ACCEPTED

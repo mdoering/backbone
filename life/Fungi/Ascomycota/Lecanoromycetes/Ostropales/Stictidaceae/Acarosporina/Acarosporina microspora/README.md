@@ -1,14 +1,13 @@
-Schizoxylon microsporum R.W. Davidson & R.C. Lorenz SPECIES
-=======
+# Acarosporina microspora (R.W. Davidson & R.C. Lorenz) Sherwood SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Phytopathology 28: 743 (1938)
+Mycotaxon 5(1): 36 (1977)
 
 #### Original name
 Schizoxylon microsporum R.W. Davidson & R.C. Lorenz

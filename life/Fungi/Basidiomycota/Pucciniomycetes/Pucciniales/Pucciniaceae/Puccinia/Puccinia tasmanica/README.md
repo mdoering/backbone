@@ -1,5 +1,4 @@
-Puccinia tasmanica Dietel SPECIES
-=======
+# Puccinia tasmanica Dietel SPECIES
 
 #### Status
 ACCEPTED

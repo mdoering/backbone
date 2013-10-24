@@ -1,5 +1,4 @@
-Usnea spinulifera (Vain.) Motyka SPECIES
-=======
+# Usnea spinulifera (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peroneutypa comosa (Speg.) Carmarán & A.I. Romero SPECIES
-=======
+# Peroneutypa comosa (Speg.) Carmarán & A.I. Romero SPECIES
 
 #### Status
 ACCEPTED

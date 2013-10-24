@@ -1,5 +1,4 @@
-Dictyosporium hymenaearum Bat. & J.L. Bezerra SPECIES
-=======
+# Dictyosporium hymenaearum Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

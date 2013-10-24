@@ -1,5 +1,4 @@
-Camarosporium strobilina E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Camarosporium strobilina E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

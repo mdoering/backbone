@@ -1,5 +1,4 @@
-Cylindrothyrium subericola Maire, 1907 SPECIES
-=======
+# Cylindrothyrium subericola Maire, 1907 SPECIES
 
 #### Status
 ACCEPTED

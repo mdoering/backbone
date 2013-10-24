@@ -1,5 +1,4 @@
-Peniophora fissoreticulata Petch SPECIES
-=======
+# Peniophora fissoreticulata Petch SPECIES
 
 #### Status
 ACCEPTED

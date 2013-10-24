@@ -1,5 +1,4 @@
-Heleopera Leidy, 1879 GENUS
-=======
+# Heleopera Leidy, 1879 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calycina fraterna (Peck) Kuntze SPECIES
-=======
+# Calycina fraterna (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

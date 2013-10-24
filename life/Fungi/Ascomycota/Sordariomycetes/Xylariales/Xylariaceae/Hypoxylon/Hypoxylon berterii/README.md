@@ -1,5 +1,4 @@
-Hypoxylon berterii (Mont.) Mont. SPECIES
-=======
+# Hypoxylon berterii (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius hygrophoroides Speg. SPECIES
-=======
+# Cortinarius hygrophoroides Speg. SPECIES
 
 #### Status
 ACCEPTED

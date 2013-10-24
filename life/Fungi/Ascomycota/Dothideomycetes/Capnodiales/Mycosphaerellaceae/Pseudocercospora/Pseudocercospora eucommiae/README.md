@@ -1,5 +1,4 @@
-Pseudocercospora eucommiae Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora eucommiae Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

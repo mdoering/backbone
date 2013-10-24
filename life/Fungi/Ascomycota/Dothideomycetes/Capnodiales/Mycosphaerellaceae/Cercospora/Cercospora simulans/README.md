@@ -1,5 +1,4 @@
-Cercospora simulans Ellis & Kellerm. SPECIES
-=======
+# Cercospora simulans Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

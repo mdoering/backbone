@@ -1,5 +1,4 @@
-Hypoxylon cornutum (Hoffm.) Gray SPECIES
-=======
+# Hypoxylon cornutum (Hoffm.) Gray SPECIES
 
 #### Status
 ACCEPTED

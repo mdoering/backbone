@@ -1,5 +1,4 @@
-Polyporus clusiansus Britzelm. SPECIES
-=======
+# Polyporus clusiansus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

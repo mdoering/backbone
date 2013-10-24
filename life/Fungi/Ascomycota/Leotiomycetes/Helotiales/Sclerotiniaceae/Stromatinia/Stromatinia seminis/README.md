@@ -1,5 +1,4 @@
-Stromatinia seminis (Cooke & W. Phillips) Boud. SPECIES
-=======
+# Stromatinia seminis (Cooke & W. Phillips) Boud. SPECIES
 
 #### Status
 ACCEPTED

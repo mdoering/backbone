@@ -1,5 +1,4 @@
-Adinimonadaceae FAMILY
-=======
+# Adinimonadaceae FAMILY
 
 #### Status
 ACCEPTED

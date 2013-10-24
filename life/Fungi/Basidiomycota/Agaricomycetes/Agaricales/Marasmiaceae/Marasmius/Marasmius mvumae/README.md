@@ -1,5 +1,4 @@
-Marasmius mvumae Antonín & C. Sharp SPECIES
-=======
+# Marasmius mvumae Antonín & C. Sharp SPECIES
 
 #### Status
 ACCEPTED

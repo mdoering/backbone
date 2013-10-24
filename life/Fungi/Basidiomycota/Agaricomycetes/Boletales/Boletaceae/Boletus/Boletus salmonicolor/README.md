@@ -1,5 +1,4 @@
-Boletus salmonicolor Frost SPECIES
-=======
+# Boletus salmonicolor Frost SPECIES
 
 #### Status
 ACCEPTED

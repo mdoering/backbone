@@ -1,5 +1,4 @@
-Chaedofaudia GENUS
-=======
+# Chaedofaudia GENUS
 
 #### Status
 ACCEPTED

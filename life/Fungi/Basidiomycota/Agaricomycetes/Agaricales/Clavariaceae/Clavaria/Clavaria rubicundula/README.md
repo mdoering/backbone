@@ -1,5 +1,4 @@
-Clavaria rubicundula Leathers, 1956 SPECIES
-=======
+# Clavaria rubicundula Leathers, 1956 SPECIES
 
 #### Status
 ACCEPTED

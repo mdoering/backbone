@@ -1,5 +1,4 @@
-Lecanora myrrhina (Ach.) Ach. SPECIES
-=======
+# Lecanora myrrhina (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

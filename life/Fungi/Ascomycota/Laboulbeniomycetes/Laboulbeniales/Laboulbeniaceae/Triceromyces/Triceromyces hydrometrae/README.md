@@ -1,5 +1,4 @@
-Triceromyces hydrometrae R.K. Benj. SPECIES
-=======
+# Triceromyces hydrometrae R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia rusci Sacc. & Theiss. SPECIES
-=======
+# Diplodia rusci Sacc. & Theiss. SPECIES
 
 #### Status
 ACCEPTED

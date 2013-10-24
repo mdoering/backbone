@@ -1,5 +1,4 @@
-Anabaena willei Gardner SPECIES
-=======
+# Anabaena willei Gardner SPECIES
 
 #### Status
 ACCEPTED

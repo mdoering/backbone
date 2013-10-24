@@ -1,5 +1,4 @@
-Phyllosticta favillensis H.C. Greene SPECIES
-=======
+# Phyllosticta favillensis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

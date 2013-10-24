@@ -1,5 +1,4 @@
-Graphina maravalensis (Vain.) Zahlbr. SPECIES
-=======
+# Graphina maravalensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Visbysphaera brevifurcata (Eisenack, 1954) Lister, 1970 SPECIES
-=======
+# Visbysphaera brevifurcata (Eisenack, 1954) Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

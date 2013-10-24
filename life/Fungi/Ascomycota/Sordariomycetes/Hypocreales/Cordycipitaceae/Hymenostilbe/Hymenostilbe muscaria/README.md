@@ -1,5 +1,4 @@
-Hymenostilbe muscaria Petch, 1931 SPECIES
-=======
+# Hymenostilbe muscaria Petch, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma taedium E. Horak SPECIES
-=======
+# Entoloma taedium E. Horak SPECIES
 
 #### Status
 ACCEPTED

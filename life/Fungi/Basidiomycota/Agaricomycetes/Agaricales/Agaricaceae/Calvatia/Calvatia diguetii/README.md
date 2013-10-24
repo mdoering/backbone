@@ -1,5 +1,4 @@
-Calvatia diguetii Har. & Pat. SPECIES
-=======
+# Calvatia diguetii Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

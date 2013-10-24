@@ -1,5 +1,4 @@
-Platismatia stenophylla (Tuck.) W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Platismatia stenophylla (Tuck.) W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED

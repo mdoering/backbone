@@ -1,5 +1,4 @@
-Lecanora subfulgens Nyl. SPECIES
-=======
+# Lecanora subfulgens Nyl. SPECIES
 
 #### Status
 ACCEPTED

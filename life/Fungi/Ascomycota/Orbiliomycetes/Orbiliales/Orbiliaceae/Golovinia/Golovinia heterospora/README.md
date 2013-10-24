@@ -1,5 +1,4 @@
-Golovinia heterospora (Drechsler) Mekht. SPECIES
-=======
+# Golovinia heterospora (Drechsler) Mekht. SPECIES
 
 #### Status
 ACCEPTED

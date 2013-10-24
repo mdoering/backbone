@@ -1,14 +1,13 @@
-Pestalozzina heteromorpha (Thüm.) Nag Raj, 1986 SPECIES
-=======
+# Zetiasplozna heteromorpha (Thüm.) Nag Raj, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 26: 209 (1986)
+Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 999 (1993)
 
 #### Original name
 Pestalotia heteromorpha Thüm., 1881

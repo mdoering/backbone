@@ -1,5 +1,4 @@
-Pseudophacidium atroviolaceum Höhn. SPECIES
-=======
+# Pseudophacidium atroviolaceum Höhn. SPECIES
 
 #### Status
 ACCEPTED

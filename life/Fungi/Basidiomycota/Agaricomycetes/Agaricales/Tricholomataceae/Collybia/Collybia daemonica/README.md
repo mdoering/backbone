@@ -1,5 +1,4 @@
-Collybia daemonica P. Karst. SPECIES
-=======
+# Collybia daemonica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

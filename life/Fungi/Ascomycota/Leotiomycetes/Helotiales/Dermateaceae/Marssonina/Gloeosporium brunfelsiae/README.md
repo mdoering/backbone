@@ -1,5 +1,4 @@
-Gloeosporium brunfelsiae Bond.-Mont. SPECIES
-=======
+# Gloeosporium brunfelsiae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

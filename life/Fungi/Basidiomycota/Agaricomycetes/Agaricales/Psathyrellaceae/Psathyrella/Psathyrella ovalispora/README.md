@@ -1,5 +1,4 @@
-Psathyrella ovalispora A.H. Sm. SPECIES
-=======
+# Psathyrella ovalispora A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

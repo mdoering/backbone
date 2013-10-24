@@ -1,5 +1,4 @@
-Paracolobactrum GENUS
-=======
+# Paracolobactrum GENUS
 
 #### Status
 ACCEPTED

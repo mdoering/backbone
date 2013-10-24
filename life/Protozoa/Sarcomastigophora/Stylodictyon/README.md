@@ -1,5 +1,4 @@
-Stylodictyon Haeckel, 1887 GENUS
-=======
+# Stylodictyon Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudostigmidium biseptatum Etayo, 2008 SPECIES
-=======
+# Pseudostigmidium biseptatum Etayo, 2008 SPECIES
 
 #### Status
 ACCEPTED

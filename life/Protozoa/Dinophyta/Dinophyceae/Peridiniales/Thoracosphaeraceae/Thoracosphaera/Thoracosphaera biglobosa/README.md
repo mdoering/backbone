@@ -1,5 +1,4 @@
-Thoracosphaera biglobosa Chongyou Wang SPECIES
-=======
+# Thoracosphaera biglobosa Chongyou Wang SPECIES
 
 #### Status
 ACCEPTED

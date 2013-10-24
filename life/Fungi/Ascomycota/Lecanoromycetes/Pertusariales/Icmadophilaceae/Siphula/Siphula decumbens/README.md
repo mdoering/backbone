@@ -1,17 +1,16 @@
-Siphula torulosa var. torulosa (Thunb. ex Ach.) Nyl. VARIETY
-=======
+# Siphula decumbens Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lich. Nov. Zeland. 14 (1888)
 
 #### Original name
-Lichen torulosus Thunb. ex Ach.
+Siphula decumbens Nyl.
 
 ### Remarks
 null

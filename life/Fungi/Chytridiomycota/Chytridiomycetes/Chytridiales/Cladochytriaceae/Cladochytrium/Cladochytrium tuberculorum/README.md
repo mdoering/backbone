@@ -1,5 +1,4 @@
-Cladochytrium tuberculorum Vuill. SPECIES
-=======
+# Cladochytrium tuberculorum Vuill. SPECIES
 
 #### Status
 ACCEPTED

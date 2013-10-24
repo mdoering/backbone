@@ -1,5 +1,4 @@
-Dothiorella multicocca Ellis & Barthol. SPECIES
-=======
+# Dothiorella multicocca Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

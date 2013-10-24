@@ -1,5 +1,4 @@
-Effetia craspedoconidica Bartoli, Maggi & Persiani, 1984 SPECIES
-=======
+# Effetia craspedoconidica Bartoli, Maggi & Persiani, 1984 SPECIES
 
 #### Status
 ACCEPTED

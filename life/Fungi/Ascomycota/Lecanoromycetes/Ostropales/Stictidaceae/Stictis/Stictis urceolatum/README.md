@@ -1,5 +1,4 @@
-Stictis urceolatum (Ach.) Gilenstam SPECIES
-=======
+# Stictis urceolatum (Ach.) Gilenstam SPECIES
 
 #### Status
 ACCEPTED

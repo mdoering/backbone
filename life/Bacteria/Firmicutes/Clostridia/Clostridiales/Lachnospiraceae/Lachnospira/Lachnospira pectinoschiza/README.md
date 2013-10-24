@@ -1,5 +1,4 @@
-Lachnospira pectinoschiza Cornick et al., 1994 SPECIES
-=======
+# Lachnospira pectinoschiza Cornick et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

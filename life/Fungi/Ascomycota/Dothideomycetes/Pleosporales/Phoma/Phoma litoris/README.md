@@ -1,5 +1,4 @@
-Phoma litoris Sacc. SPECIES
-=======
+# Phoma litoris Sacc. SPECIES
 
 #### Status
 ACCEPTED

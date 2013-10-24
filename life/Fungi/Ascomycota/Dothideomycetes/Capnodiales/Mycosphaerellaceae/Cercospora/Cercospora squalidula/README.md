@@ -1,5 +1,4 @@
-Cercospora squalidula Peck SPECIES
-=======
+# Cercospora squalidula Peck SPECIES
 
 #### Status
 ACCEPTED

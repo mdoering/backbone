@@ -1,5 +1,4 @@
-Coleps bicuspis Noland, 1925 SPECIES
-=======
+# Coleps bicuspis Noland, 1925 SPECIES
 
 #### Status
 ACCEPTED

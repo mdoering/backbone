@@ -1,5 +1,4 @@
-Sphaerella hydrocotyles-asiaticae Pat. SPECIES
-=======
+# Sphaerella hydrocotyles-asiaticae Pat. SPECIES
 
 #### Status
 ACCEPTED

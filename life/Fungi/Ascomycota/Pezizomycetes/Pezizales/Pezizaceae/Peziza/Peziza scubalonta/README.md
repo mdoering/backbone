@@ -1,5 +1,4 @@
-Peziza scubalonta Cooke & W.R. Gerard SPECIES
-=======
+# Peziza scubalonta Cooke & W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torrubiella minuta Kobayasi & Shimizu SPECIES
-=======
+# Torrubiella minuta Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

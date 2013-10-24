@@ -1,5 +1,4 @@
-Lecidea holocarpa (Ehrh.) Röhl. SPECIES
-=======
+# Lecidea holocarpa (Ehrh.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

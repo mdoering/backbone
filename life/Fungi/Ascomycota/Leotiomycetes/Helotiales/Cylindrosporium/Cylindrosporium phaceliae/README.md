@@ -1,5 +1,4 @@
-Cylindrosporium phaceliae Ellis & Everh. SPECIES
-=======
+# Cylindrosporium phaceliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

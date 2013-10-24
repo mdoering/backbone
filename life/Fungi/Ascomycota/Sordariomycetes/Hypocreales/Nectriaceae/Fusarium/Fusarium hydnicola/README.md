@@ -1,5 +1,4 @@
-Fusarium hydnicola Ellis & Everh. SPECIES
-=======
+# Fusarium hydnicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

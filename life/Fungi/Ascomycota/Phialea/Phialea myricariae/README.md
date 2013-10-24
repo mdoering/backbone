@@ -1,5 +1,4 @@
-Phialea myricariae Keissl. SPECIES
-=======
+# Phialea myricariae Keissl. SPECIES
 
 #### Status
 ACCEPTED

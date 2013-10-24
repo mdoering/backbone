@@ -1,5 +1,4 @@
-Ellipsoidion stellatum H. Ettl SPECIES
-=======
+# Ellipsoidion stellatum H. Ettl SPECIES
 
 #### Status
 ACCEPTED

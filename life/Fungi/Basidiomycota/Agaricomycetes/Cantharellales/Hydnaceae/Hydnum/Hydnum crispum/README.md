@@ -1,5 +1,4 @@
-Hydnum crispum Schaeff. SPECIES
-=======
+# Hydnum crispum Schaeff. SPECIES
 
 #### Status
 ACCEPTED

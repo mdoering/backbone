@@ -1,5 +1,4 @@
-Glomerella arecae Syd. SPECIES
-=======
+# Glomerella arecae Syd. SPECIES
 
 #### Status
 ACCEPTED

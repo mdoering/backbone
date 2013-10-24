@@ -1,5 +1,4 @@
-Aplanochytrium stocchinoi Andreoli & Moro, 2003 SPECIES
-=======
+# Aplanochytrium stocchinoi Andreoli & Moro, 2003 SPECIES
 
 #### Status
 ACCEPTED

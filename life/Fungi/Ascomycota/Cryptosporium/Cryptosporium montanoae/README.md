@@ -1,5 +1,4 @@
-Cryptosporium montanoae Sousa da Câmara SPECIES
-=======
+# Cryptosporium montanoae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora torae Tharp SPECIES
-=======
+# Cercospora torae Tharp SPECIES
 
 #### Status
 ACCEPTED

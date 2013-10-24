@@ -1,5 +1,4 @@
-Lithoderma piliferum var. debile R.W. Ricker VARIETY
-=======
+# Lithoderma piliferum Skottsberg SPECIES
 
 #### Status
 ACCEPTED

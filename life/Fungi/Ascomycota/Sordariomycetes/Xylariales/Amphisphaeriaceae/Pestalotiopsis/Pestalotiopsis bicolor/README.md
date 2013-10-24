@@ -1,14 +1,13 @@
-Pestalotia bicolor Ellis & Everh., 1900 SPECIES
-=======
+# Pestalotiopsis bicolor (Ellis & Everh.) A.R. Liu, T. Xu & L.D. Guo, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 27: 575 (1900)
+in Liu, Wu, Xu, Guo & Wei, Mycosystema 25(3): 390 (2006)
 
 #### Original name
 Pestalotia bicolor Ellis & Everh., 1900

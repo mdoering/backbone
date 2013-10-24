@@ -1,5 +1,4 @@
-Clitocybe cacao Velen. SPECIES
-=======
+# Clitocybe cacao Velen. SPECIES
 
 #### Status
 ACCEPTED

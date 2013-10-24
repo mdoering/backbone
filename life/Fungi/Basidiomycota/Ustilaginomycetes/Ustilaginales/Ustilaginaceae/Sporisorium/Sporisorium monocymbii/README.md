@@ -1,5 +1,4 @@
-Sporisorium monocymbii (Syd.) Vánky SPECIES
-=======
+# Sporisorium monocymbii (Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

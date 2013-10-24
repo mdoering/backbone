@@ -1,5 +1,4 @@
-Ceriomyces flaviporus (Earle) Murrill SPECIES
-=======
+# Ceriomyces flaviporus (Earle) Murrill SPECIES
 
 #### Status
 ACCEPTED

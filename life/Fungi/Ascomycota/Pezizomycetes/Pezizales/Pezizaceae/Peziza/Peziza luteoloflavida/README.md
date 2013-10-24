@@ -1,5 +1,4 @@
-Peziza luteoloflavida Svrcek SPECIES
-=======
+# Peziza luteoloflavida Svrcek SPECIES
 
 #### Status
 ACCEPTED

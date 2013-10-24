@@ -1,5 +1,4 @@
-Cuphophyllus cinereus (Fr.) Bon SPECIES
-=======
+# Cuphophyllus cinereus (Fr.) Bon SPECIES
 
 #### Status
 ACCEPTED

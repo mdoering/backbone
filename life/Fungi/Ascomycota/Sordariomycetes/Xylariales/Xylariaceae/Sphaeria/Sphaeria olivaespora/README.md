@@ -1,5 +1,4 @@
-Sphaeria olivaespora Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria olivaespora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

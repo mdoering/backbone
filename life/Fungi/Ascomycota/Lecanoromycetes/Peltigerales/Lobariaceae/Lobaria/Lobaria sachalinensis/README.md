@@ -1,5 +1,4 @@
-Lobaria sachalinensis Asahina SPECIES
-=======
+# Lobaria sachalinensis Asahina SPECIES
 
 #### Status
 ACCEPTED

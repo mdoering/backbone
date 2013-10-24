@@ -1,5 +1,4 @@
-Hornibrookina australis Edwards & Perch-Nielsen, 1975 SPECIES
-=======
+# Hornibrookina australis Edwards & Perch-Nielsen, 1975 SPECIES
 
 #### Status
 ACCEPTED

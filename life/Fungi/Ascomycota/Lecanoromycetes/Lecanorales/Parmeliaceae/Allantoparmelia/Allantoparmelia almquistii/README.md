@@ -1,17 +1,16 @@
-Parmelia almquistii f. almquistii FORM
-=======
+# Allantoparmelia almquistii (Vain.) Essl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 7(1): 46 (1978)
 
 #### Original name
-Parmelia almquistii f. almquistii
+Parmelia almquistii Vain.
 
 ### Remarks
 null

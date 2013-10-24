@@ -1,5 +1,4 @@
-Luffammina Kamenskaya, Bagirov & Simdianov, 2002 GENUS
-=======
+# Luffammina Kamenskaya, Bagirov & Simdianov, 2002 GENUS
 
 #### Status
 ACCEPTED

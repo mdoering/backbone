@@ -1,5 +1,4 @@
-Barlaea viridis (Quél.) Sacc. SPECIES
-=======
+# Barlaea viridis (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza waltersii Seaver SPECIES
-=======
+# Peziza waltersii Seaver SPECIES
 
 #### Status
 ACCEPTED

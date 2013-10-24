@@ -1,5 +1,4 @@
-Boletus canipes Opat. SPECIES
-=======
+# Boletus canipes Opat. SPECIES
 
 #### Status
 ACCEPTED

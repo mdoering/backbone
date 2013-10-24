@@ -1,5 +1,4 @@
-Puccinia ruelliae Lagerh., 1895 SPECIES
-=======
+# Puccinia ruelliae Lagerh., 1895 SPECIES
 
 #### Status
 ACCEPTED

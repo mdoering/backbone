@@ -1,5 +1,4 @@
-Monodiexodina Sosnina, 1956 GENUS
-=======
+# Monodiexodina Sosnina, 1956 GENUS
 
 #### Status
 ACCEPTED

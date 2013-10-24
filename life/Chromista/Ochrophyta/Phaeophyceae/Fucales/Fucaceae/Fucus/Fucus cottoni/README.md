@@ -1,5 +1,4 @@
-Fucus cottoni M.J.Wynne & Magne, 1991 SPECIES
-=======
+# Fucus cottoni M.J.Wynne & Magne, 1991 SPECIES
 
 #### Status
 ACCEPTED

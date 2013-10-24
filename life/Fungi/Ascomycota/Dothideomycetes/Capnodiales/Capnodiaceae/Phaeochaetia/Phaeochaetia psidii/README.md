@@ -1,5 +1,4 @@
-Phaeochaetia psidii (Bat.) Bat. & Cif. SPECIES
-=======
+# Phaeochaetia psidii (Bat.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

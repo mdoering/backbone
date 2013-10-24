@@ -1,5 +1,4 @@
-Puccinia microthelis Syd. SPECIES
-=======
+# Puccinia microthelis Syd. SPECIES
 
 #### Status
 ACCEPTED

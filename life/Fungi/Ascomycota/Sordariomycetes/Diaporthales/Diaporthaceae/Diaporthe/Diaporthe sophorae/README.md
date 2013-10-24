@@ -1,5 +1,4 @@
-Diaporthe sophorae Sacc. SPECIES
-=======
+# Diaporthe sophorae Sacc. SPECIES
 
 #### Status
 ACCEPTED

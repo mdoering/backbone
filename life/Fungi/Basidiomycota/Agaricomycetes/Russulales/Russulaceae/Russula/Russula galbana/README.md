@@ -1,5 +1,4 @@
-Russula galbana T. Lebel SPECIES
-=======
+# Russula galbana T. Lebel SPECIES
 
 #### Status
 ACCEPTED

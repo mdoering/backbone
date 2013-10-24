@@ -1,5 +1,4 @@
-Acrothecium globosum Rambelli SPECIES
-=======
+# Acrothecium globosum Rambelli SPECIES
 
 #### Status
 ACCEPTED

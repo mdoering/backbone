@@ -1,5 +1,4 @@
-Coniothyrium boyeri Tassi SPECIES
-=======
+# Coniothyrium boyeri Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kalchbrennera GENUS
-=======
+# Kalchbrennera GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus tenax Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus tenax Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

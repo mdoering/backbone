@@ -1,5 +1,4 @@
-Leptonia fibrosa (Hesler) Largent SPECIES
-=======
+# Leptonia fibrosa (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

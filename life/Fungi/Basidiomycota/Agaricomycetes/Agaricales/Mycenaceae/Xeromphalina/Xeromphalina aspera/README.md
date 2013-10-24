@@ -1,5 +1,4 @@
-Xeromphalina aspera Maas Geest. SPECIES
-=======
+# Xeromphalina aspera Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Melampsora populnea f. sp FORM
-=======
+# Melampsora populnea (Pers.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neth. Jl Pl. Path. 78(Suppl. 1): 25 (1972)
+Bidr. Känn. Finl. Nat. Folk 31: 53 (1879)
 
 #### Original name
-Melampsora populnea f. sp
+Sclerotium populinum Pers., 1800
 
 ### Remarks
 null

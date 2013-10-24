@@ -1,5 +1,4 @@
-Pterula cystidiata Corner, 1952 SPECIES
-=======
+# Pterula cystidiata Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota castaneidisca Murrill SPECIES
-=======
+# Lepiota castaneidisca Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria massariae Pass. SPECIES
-=======
+# Nectria massariae Pass. SPECIES
 
 #### Status
 ACCEPTED

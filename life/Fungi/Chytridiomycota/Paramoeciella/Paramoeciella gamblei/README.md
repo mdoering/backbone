@@ -1,5 +1,4 @@
-Paramoeciella gamblei Zebrowski SPECIES
-=======
+# Paramoeciella gamblei Zebrowski SPECIES
 
 #### Status
 ACCEPTED

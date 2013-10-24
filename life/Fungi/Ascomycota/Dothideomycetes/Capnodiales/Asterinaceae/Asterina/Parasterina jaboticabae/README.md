@@ -1,5 +1,4 @@
-Parasterina jaboticabae Bat. & H. Maia SPECIES
-=======
+# Parasterina jaboticabae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

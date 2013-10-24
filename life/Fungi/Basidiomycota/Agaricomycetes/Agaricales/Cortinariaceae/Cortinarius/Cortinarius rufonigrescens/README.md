@@ -1,5 +1,4 @@
-Cortinarius rufonigrescens Eyssart. SPECIES
-=======
+# Cortinarius rufonigrescens Eyssart. SPECIES
 
 #### Status
 ACCEPTED

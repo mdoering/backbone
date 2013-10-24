@@ -1,5 +1,4 @@
-Typhula subuliformis Berk. & M.A. Curtis SPECIES
-=======
+# Typhula subuliformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillaria montagnei (Singer) Herink SPECIES
-=======
+# Armillaria montagnei (Singer) Herink SPECIES
 
 #### Status
 ACCEPTED

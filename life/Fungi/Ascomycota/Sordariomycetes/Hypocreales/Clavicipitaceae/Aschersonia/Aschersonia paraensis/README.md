@@ -1,5 +1,4 @@
-Aschersonia paraensis Henn. SPECIES
-=======
+# Aschersonia paraensis Henn. SPECIES
 
 #### Status
 ACCEPTED

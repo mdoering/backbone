@@ -1,5 +1,4 @@
-Odontia dubiosa (Speg.) Rick SPECIES
-=======
+# Odontia dubiosa (Speg.) Rick SPECIES
 
 #### Status
 ACCEPTED

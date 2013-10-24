@@ -1,5 +1,4 @@
-Agaricus clintonianus Peck SPECIES
-=======
+# Agaricus clintonianus Peck SPECIES
 
 #### Status
 ACCEPTED

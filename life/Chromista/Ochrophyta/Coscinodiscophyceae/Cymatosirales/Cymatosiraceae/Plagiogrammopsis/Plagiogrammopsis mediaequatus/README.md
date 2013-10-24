@@ -1,5 +1,4 @@
-Plagiogrammopsis mediaequatus Gardner & Crawford, 1994 SPECIES
-=======
+# Plagiogrammopsis mediaequatus Gardner & Crawford, 1994 SPECIES
 
 #### Status
 ACCEPTED

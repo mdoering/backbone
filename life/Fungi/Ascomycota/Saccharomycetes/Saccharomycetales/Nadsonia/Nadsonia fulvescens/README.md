@@ -1,14 +1,13 @@
-Guilliermondia fulvescens Nadson & Konok., 1911 SPECIES
-=======
+# Nadsonia fulvescens (Nadson & Konok.) Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 10: (1912)
 
 #### Original name
 Guilliermondia fulvescens Nadson & Konok., 1911

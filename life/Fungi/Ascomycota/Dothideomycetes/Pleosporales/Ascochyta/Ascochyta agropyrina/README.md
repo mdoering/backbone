@@ -1,5 +1,4 @@
-Ascochyta agropyrina var. agropyrina VARIETY
-=======
+# Ascochyta agropyrina Fairm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Saccardo, Syll. fung. (Abellini) 25: 345 (1931)
 
 #### Original name
-Ascochyta agropyrina var. agropyrina
+Ascochyta agropyrina Fairm.
 
 ### Remarks
 null

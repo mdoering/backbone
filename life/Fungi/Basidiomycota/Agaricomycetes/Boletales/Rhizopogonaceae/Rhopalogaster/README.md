@@ -1,5 +1,4 @@
-Rhopalogaster J.R. Johnston, 1902 GENUS
-=======
+# Rhopalogaster J.R. Johnston, 1902 GENUS
 
 #### Status
 ACCEPTED

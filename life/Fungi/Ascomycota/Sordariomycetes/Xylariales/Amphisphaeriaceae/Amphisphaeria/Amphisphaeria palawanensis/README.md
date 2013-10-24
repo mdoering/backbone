@@ -1,5 +1,4 @@
-Amphisphaeria palawanensis Syd. & P. Syd. SPECIES
-=======
+# Amphisphaeria palawanensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

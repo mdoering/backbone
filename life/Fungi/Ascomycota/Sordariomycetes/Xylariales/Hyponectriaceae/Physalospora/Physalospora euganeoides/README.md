@@ -1,5 +1,4 @@
-Physalospora euganeoides Petr. SPECIES
-=======
+# Physalospora euganeoides Petr. SPECIES
 
 #### Status
 ACCEPTED

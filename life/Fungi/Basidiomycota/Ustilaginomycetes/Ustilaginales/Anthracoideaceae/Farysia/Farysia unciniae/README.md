@@ -1,5 +1,4 @@
-Farysia unciniae Vánky & Begerow, 2007 SPECIES
-=======
+# Farysia unciniae Vánky & Begerow, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia claudeliana (Hue) Zahlbr. SPECIES
-=======
+# Blastenia claudeliana (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

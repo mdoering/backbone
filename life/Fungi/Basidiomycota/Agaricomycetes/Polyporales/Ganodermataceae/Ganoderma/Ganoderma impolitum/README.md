@@ -1,5 +1,4 @@
-Ganoderma impolitum Corner, 1983 SPECIES
-=======
+# Ganoderma impolitum Corner, 1983 SPECIES
 
 #### Status
 ACCEPTED

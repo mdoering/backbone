@@ -1,5 +1,4 @@
-Encoelia glauca Dennis, 1975 SPECIES
-=======
+# Encoelia glauca Dennis, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria eryngicola Oudem. & Sacc. SPECIES
-=======
+# Septoria eryngicola Oudem. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

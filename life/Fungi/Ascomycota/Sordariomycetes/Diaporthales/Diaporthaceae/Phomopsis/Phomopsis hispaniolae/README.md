@@ -1,5 +1,4 @@
-Phomopsis hispaniolae (Cif. & Gonz. Frag.) Vanev & Aa SPECIES
-=======
+# Phomopsis hispaniolae (Cif. & Gonz. Frag.) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

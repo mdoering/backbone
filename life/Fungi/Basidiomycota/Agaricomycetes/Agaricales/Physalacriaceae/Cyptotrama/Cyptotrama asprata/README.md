@@ -1,14 +1,13 @@
-Agaricus aspratus Berk., 1847 SPECIES
-=======
+# Cyptotrama asprata (Berk.) Redhead & Ginns, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 6: 481 (1847)
+Can. J. Bot. 58(6): 731 (1980)
 
 #### Original name
 Agaricus aspratus Berk., 1847

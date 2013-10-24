@@ -1,5 +1,4 @@
-Hygrophorus immutabilis Peck SPECIES
-=======
+# Hygrophorus immutabilis Peck SPECIES
 
 #### Status
 ACCEPTED

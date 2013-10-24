@@ -1,5 +1,4 @@
-Phyllosticta bixina E. Young SPECIES
-=======
+# Phyllosticta bixina E. Young SPECIES
 
 #### Status
 ACCEPTED

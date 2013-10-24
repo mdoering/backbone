@@ -1,5 +1,4 @@
-Mycena cucullata (Ellis) Redhead, 1984 SPECIES
-=======
+# Mycena cucullata (Ellis) Redhead, 1984 SPECIES
 
 #### Status
 ACCEPTED

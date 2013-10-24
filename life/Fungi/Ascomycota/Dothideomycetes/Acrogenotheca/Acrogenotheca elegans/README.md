@@ -1,14 +1,13 @@
-Capnodium elegans L.R. Fraser, 1935 SPECIES
-=======
+# Acrogenotheca elegans (L.R. Fraser) Cif. & Bat., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. R. Soc. N. S. W. 60: 169 (1935)
+in Batista & Ciferri, Saccardoa 2: 52 (1963)
 
 #### Original name
 Capnodium elegans L.R. Fraser, 1935

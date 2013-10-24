@@ -1,5 +1,4 @@
-Corticium terreum Berk. SPECIES
-=======
+# Corticium terreum Berk. SPECIES
 
 #### Status
 ACCEPTED

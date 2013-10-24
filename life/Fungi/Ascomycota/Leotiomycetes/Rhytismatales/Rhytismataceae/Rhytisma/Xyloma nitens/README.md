@@ -1,5 +1,4 @@
-Xyloma nitens Schwein. SPECIES
-=======
+# Xyloma nitens Schwein. SPECIES
 
 #### Status
 ACCEPTED

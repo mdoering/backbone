@@ -1,17 +1,16 @@
-Lecidea pantherina var. pantherina VARIETY
-=======
+# Lecidea lapicida (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Method. Lich. 37 (1803)
 
 #### Original name
-Lecidea pantherina var. pantherina
+Lecidea lapicida (Ach.) Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coreomyces subdivisus Thaxt. SPECIES
-=======
+# Coreomyces subdivisus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

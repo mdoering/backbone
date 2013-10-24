@@ -1,14 +1,13 @@
-Morispora holwayii (H.S. Jacks.) Salazar-Yepes, Pardo-Card. & Buriticá SPECIES
-=======
+# Gerwasia holwayi (H.S. Jacks.) Buriticá, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revta ICNE, Instit. Cienc. Nat. Ecol. 5(2): 184 (1994)
 
 #### Original name
 Mainsia holwayi H.S. Jacks., 1931

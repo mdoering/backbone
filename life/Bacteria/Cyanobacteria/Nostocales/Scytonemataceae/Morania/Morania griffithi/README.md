@@ -1,5 +1,4 @@
-Morania griffithi SPECIES
-=======
+# Morania griffithi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria weddellii (Mont.) Sacc. SPECIES
-=======
+# Leptosphaeria weddellii (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

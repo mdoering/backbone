@@ -1,5 +1,4 @@
-Uredo panici-monticolae Gjaerum SPECIES
-=======
+# Uredo panici-monticolae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

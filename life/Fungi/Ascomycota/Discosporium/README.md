@@ -1,5 +1,4 @@
-Discosporium Saccardo & P. Sydow, 1902 GENUS
-=======
+# Discosporium Saccardo & P. Sydow, 1902 GENUS
 
 #### Status
 ACCEPTED

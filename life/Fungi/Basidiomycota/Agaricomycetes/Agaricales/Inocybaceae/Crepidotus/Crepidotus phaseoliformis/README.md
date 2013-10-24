@@ -1,5 +1,4 @@
-Crepidotus phaseoliformis Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus phaseoliformis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciferriomyces GENUS
-=======
+# Ciferriomyces GENUS
 
 #### Status
 ACCEPTED

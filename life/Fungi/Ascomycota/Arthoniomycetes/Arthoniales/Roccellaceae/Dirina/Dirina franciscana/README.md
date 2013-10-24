@@ -1,5 +1,4 @@
-Dirina franciscana Zahlbr. SPECIES
-=======
+# Dirina franciscana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

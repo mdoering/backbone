@@ -1,5 +1,4 @@
-Cercidospora angelicae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Cercidospora angelicae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

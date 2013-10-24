@@ -1,5 +1,4 @@
-Leptosphaeria erythrinae Syd. SPECIES
-=======
+# Leptosphaeria erythrinae Syd. SPECIES
 
 #### Status
 ACCEPTED

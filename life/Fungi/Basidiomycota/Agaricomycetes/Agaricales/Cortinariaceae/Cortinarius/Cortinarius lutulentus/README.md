@@ -1,5 +1,4 @@
-Cortinarius lutulentus Jul. Schäff. SPECIES
-=======
+# Cortinarius lutulentus Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

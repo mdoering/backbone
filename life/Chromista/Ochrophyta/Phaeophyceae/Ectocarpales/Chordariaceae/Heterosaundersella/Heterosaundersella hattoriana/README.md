@@ -1,5 +1,4 @@
-Heterosaundersella hattoriana Tokida SPECIES
-=======
+# Heterosaundersella hattoriana Tokida SPECIES
 
 #### Status
 ACCEPTED

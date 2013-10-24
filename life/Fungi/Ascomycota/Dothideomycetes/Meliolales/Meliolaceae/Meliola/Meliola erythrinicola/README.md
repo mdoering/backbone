@@ -1,5 +1,4 @@
-Meliola erythrinicola Deighton SPECIES
-=======
+# Meliola erythrinicola Deighton SPECIES
 
 #### Status
 ACCEPTED

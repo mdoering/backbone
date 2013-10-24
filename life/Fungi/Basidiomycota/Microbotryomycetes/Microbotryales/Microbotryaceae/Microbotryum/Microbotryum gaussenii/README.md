@@ -1,14 +1,13 @@
-Microbotryum gausseni (Durrieu) H. Scholz & I. Scholz SPECIES
-=======
+# Microbotryum gaussenii (Durrieu) H. Scholz & I. Scholz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Englera 8: 212 (1988)
 
 #### Original name
 Ustilago gaussenii Durrieu

@@ -1,5 +1,4 @@
-Boletus cornalinus Perr.-Bertr. & R. Heim SPECIES
-=======
+# Boletus cornalinus Perr.-Bertr. & R. Heim SPECIES
 
 #### Status
 ACCEPTED

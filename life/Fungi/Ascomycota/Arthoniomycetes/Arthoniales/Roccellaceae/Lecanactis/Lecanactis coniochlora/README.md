@@ -1,5 +1,4 @@
-Lecanactis coniochlora (Mont. & Bosch) Zahlbr. SPECIES
-=======
+# Lecanactis coniochlora (Mont. & Bosch) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia mixta (Schwein.) Zambett. SPECIES
-=======
+# Botryodiplodia mixta (Schwein.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

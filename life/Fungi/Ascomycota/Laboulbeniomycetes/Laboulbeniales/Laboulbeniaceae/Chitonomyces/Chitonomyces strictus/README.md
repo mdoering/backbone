@@ -1,5 +1,4 @@
-Chitonomyces strictus Thaxt. SPECIES
-=======
+# Chitonomyces strictus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

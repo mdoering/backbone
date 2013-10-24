@@ -1,5 +1,4 @@
-Meliola verbenacearum Mibey SPECIES
-=======
+# Meliola verbenacearum Mibey SPECIES
 
 #### Status
 ACCEPTED

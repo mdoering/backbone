@@ -1,5 +1,4 @@
-Aecidium viburni Henn. & Shirai SPECIES
-=======
+# Aecidium viburni Henn. & Shirai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balansia trinitensis Cooke & Massee SPECIES
-=======
+# Balansia trinitensis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

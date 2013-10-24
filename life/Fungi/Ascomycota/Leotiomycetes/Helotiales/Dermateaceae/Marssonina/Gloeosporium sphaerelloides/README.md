@@ -1,5 +1,4 @@
-Gloeosporium sphaerelloides Sacc. SPECIES
-=======
+# Gloeosporium sphaerelloides Sacc. SPECIES
 
 #### Status
 ACCEPTED

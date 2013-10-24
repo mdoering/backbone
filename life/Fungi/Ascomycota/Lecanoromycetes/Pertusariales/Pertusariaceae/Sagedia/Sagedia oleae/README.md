@@ -1,5 +1,4 @@
-Sagedia oleae A. Massal. SPECIES
-=======
+# Sagedia oleae A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialophaeoisaria spongiosa Matsush., 1995 SPECIES
-=======
+# Phialophaeoisaria spongiosa Matsush., 1995 SPECIES
 
 #### Status
 ACCEPTED

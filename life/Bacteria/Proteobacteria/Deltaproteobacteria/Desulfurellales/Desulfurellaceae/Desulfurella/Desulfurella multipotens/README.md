@@ -1,5 +1,4 @@
-Desulfurella multipotens Miroshnichenko et al., 1996 SPECIES
-=======
+# Desulfurella multipotens Miroshnichenko et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

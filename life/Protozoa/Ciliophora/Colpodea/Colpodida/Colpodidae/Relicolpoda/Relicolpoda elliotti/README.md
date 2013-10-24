@@ -1,8 +1,7 @@
-Colpoda elliotti Bradbury & Outka, 1967 SPECIES
-=======
+# Relicolpoda elliotti (Bradbury & Outka, 1967) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

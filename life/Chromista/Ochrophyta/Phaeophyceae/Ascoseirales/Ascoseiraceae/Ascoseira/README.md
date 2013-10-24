@@ -1,5 +1,4 @@
-Ascoseira Skottsberg, 1907 GENUS
-=======
+# Ascoseira Skottsberg, 1907 GENUS
 
 #### Status
 ACCEPTED

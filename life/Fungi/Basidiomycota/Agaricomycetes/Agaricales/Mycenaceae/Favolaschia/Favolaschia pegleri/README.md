@@ -1,5 +1,4 @@
-Favolaschia pegleri Parmasto, 1999 SPECIES
-=======
+# Favolaschia pegleri Parmasto, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Smittium aciculare Lichtw., 1990 SPECIES
-=======
+# Smittium aciculare Lichtw., 1990 SPECIES
 
 #### Status
 ACCEPTED

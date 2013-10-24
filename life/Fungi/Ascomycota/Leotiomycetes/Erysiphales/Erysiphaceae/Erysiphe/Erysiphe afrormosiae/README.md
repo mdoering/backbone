@@ -1,5 +1,4 @@
-Erysiphe afrormosiae (Piroz.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe afrormosiae (Piroz.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

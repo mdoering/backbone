@@ -1,5 +1,4 @@
-Phialophoropsis L.R. Batra GENUS
-=======
+# Phialophoropsis L.R. Batra GENUS
 
 #### Status
 ACCEPTED

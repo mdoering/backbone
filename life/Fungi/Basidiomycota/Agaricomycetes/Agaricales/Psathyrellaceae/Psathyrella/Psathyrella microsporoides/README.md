@@ -1,5 +1,4 @@
-Psathyrella microsporoides Heykoop & G. Moreno SPECIES
-=======
+# Psathyrella microsporoides Heykoop & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

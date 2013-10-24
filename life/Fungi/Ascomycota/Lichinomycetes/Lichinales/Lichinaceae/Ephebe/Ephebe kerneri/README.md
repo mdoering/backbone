@@ -1,5 +1,4 @@
-Ephebe kerneri Zukal SPECIES
-=======
+# Ephebe kerneri Zukal SPECIES
 
 #### Status
 ACCEPTED

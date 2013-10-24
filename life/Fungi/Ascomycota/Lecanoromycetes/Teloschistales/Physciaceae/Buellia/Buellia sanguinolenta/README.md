@@ -1,14 +1,13 @@
-Hafellia sanguinolenta (T. Schauer) Hafellner & Türk SPECIES
-=======
+# Buellia sanguinolenta T. Schauer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stapfia 76: 152 (2001)
+Mitt. bot. StSamml. , Münch. 5: 620 (1965)
 
 #### Original name
 Buellia sanguinolenta T. Schauer

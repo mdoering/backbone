@@ -1,5 +1,4 @@
-Mallopela de Folin, 1887 GENUS
-=======
+# Mallopela de Folin, 1887 GENUS
 
 #### Status
 ACCEPTED

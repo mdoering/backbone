@@ -1,5 +1,4 @@
-Lasiobelonium globulare Höhn. SPECIES
-=======
+# Lasiobelonium globulare Höhn. SPECIES
 
 #### Status
 ACCEPTED

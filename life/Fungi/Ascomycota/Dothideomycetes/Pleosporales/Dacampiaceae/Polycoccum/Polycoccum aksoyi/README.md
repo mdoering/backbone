@@ -1,5 +1,4 @@
-Polycoccum aksoyi Halici & V. Atienza SPECIES
-=======
+# Polycoccum aksoyi Halici & V. Atienza SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbilia diaphanula (Cooke) Seaver SPECIES
-=======
+# Orbilia diaphanula (Cooke) Seaver SPECIES
 
 #### Status
 ACCEPTED

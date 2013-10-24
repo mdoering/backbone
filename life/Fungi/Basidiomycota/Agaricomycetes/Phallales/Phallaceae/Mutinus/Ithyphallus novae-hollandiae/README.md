@@ -1,5 +1,4 @@
-Ithyphallus novae-hollandiae (Corda) E. Fisch. SPECIES
-=======
+# Ithyphallus novae-hollandiae (Corda) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

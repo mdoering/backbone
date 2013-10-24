@@ -1,5 +1,4 @@
-Placopsis chilena I.M. Lamb SPECIES
-=======
+# Placopsis chilena I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

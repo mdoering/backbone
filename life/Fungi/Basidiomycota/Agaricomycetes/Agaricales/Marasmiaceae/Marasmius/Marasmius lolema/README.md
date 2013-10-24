@@ -1,5 +1,4 @@
-Marasmius lolema Beeli SPECIES
-=======
+# Marasmius lolema Beeli SPECIES
 
 #### Status
 ACCEPTED

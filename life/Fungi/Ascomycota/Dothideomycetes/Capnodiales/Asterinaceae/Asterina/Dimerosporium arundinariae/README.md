@@ -1,5 +1,4 @@
-Dimerosporium arundinariae I. Hino & Katum. SPECIES
-=======
+# Dimerosporium arundinariae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

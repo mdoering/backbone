@@ -1,5 +1,4 @@
-Attheya zachariasii var. curvata P. Rivera VARIETY
-=======
+# Attheya zachariasii Brun SPECIES
 
 #### Status
 ACCEPTED

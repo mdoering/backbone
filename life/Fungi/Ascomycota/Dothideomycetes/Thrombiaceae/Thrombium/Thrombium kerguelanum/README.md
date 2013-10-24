@@ -1,5 +1,4 @@
-Thrombium kerguelanum C.W. Dodge SPECIES
-=======
+# Thrombium kerguelanum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

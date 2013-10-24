@@ -1,5 +1,4 @@
-Oidium mespilinum Thüm. SPECIES
-=======
+# Oidium mespilinum Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclostephanos pantocsekii (F. Fricke) I. A. Kuptsova & G. K. Khursevich SPECIES
-=======
+# Cyclostephanos pantocsekii (F. Fricke) I. A. Kuptsova & G. K. Khursevich SPECIES
 
 #### Status
 ACCEPTED

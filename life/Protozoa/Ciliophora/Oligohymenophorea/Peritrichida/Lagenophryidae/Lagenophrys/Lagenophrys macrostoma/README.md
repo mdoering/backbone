@@ -1,5 +1,4 @@
-Lagenophrys macrostoma Swarczewsky, 1930 SPECIES
-=======
+# Lagenophrys macrostoma Swarczewsky, 1930 SPECIES
 
 #### Status
 ACCEPTED

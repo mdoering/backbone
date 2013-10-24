@@ -1,5 +1,4 @@
-Parmelia chinense (Osbeck) SPECIES
-=======
+# Parmelia chinense (Osbeck) SPECIES
 
 #### Status
 ACCEPTED

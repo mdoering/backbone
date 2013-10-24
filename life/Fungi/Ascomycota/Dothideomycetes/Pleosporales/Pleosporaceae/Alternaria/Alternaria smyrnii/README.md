@@ -1,14 +1,13 @@
-Helminthosporium smyrnii P. Crouan & H. Crouan SPECIES
-=======
+# Alternaria smyrnii (P. Crouan & H. Crouan) E.G. Simmons, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 55: 41 (1995)
 
 #### Original name
 Helminthosporium smyrnii P. Crouan & H. Crouan

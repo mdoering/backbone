@@ -1,5 +1,4 @@
-Chuaria minima (Chapman, 1935) emend. Maithy & Shukla, 1984 SPECIES
-=======
+# Chuaria minima (Chapman, 1935) emend. Maithy & Shukla, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium speiranthis Henn. SPECIES
-=======
+# Fusarium speiranthis Henn. SPECIES
 
 #### Status
 ACCEPTED

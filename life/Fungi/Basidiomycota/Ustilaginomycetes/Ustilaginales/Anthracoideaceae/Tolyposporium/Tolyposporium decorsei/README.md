@@ -1,5 +1,4 @@
-Tolyposporium decorsei Har. & Pat. SPECIES
-=======
+# Tolyposporium decorsei Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

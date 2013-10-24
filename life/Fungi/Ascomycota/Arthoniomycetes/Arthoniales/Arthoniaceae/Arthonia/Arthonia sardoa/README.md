@@ -1,5 +1,4 @@
-Arthonia sardoa (Bagl.) H. Olivier SPECIES
-=======
+# Arthonia sardoa (Bagl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

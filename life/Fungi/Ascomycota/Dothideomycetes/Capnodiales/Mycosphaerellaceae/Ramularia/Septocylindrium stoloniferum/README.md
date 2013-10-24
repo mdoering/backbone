@@ -1,5 +1,4 @@
-Septocylindrium stoloniferum (Ellis & Everh.) Pound & Clem. SPECIES
-=======
+# Septocylindrium stoloniferum (Ellis & Everh.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

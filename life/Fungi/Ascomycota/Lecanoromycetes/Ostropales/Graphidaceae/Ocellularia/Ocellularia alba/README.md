@@ -1,5 +1,4 @@
-Ocellularia alba (Fée) Müll. Arg., 1887 SPECIES
-=======
+# Ocellularia alba (Fée) Müll. Arg., 1887 SPECIES
 
 #### Status
 ACCEPTED

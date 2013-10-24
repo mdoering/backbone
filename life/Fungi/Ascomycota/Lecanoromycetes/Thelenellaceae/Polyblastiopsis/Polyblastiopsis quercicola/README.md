@@ -1,5 +1,4 @@
-Polyblastiopsis quercicola Brodo SPECIES
-=======
+# Polyblastiopsis quercicola Brodo SPECIES
 
 #### Status
 ACCEPTED

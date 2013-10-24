@@ -1,5 +1,4 @@
-Flabellophora nana Corner, 1987 SPECIES
-=======
+# Flabellophora nana Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

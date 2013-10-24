@@ -1,14 +1,13 @@
-Corticium decipiens Höhn. & Litsch., 1908 SPECIES
-=======
+# Athelia decipiens (Höhn. & Litsch.) J. Erikss., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 16(no. 1): 86 (1958)
 
 #### Original name
 null

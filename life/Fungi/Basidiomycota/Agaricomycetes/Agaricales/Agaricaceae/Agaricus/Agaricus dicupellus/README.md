@@ -1,5 +1,4 @@
-Agaricus dicupellus Berk. SPECIES
-=======
+# Agaricus dicupellus Berk. SPECIES
 
 #### Status
 ACCEPTED

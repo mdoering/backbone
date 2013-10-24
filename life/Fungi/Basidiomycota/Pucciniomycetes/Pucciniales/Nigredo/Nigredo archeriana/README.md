@@ -1,5 +1,4 @@
-Nigredo archeriana (Arthur & Fromme) Arthur SPECIES
-=======
+# Nigredo archeriana (Arthur & Fromme) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plagiopyla minuta Powers, 1933 SPECIES
-=======
+# Plagiopyla minuta Powers, 1933 SPECIES
 
 #### Status
 ACCEPTED

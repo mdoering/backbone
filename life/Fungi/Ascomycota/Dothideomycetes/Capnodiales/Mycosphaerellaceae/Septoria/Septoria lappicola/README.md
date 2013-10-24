@@ -1,5 +1,4 @@
-Septoria lappicola Ishiy. SPECIES
-=======
+# Septoria lappicola Ishiy. SPECIES
 
 #### Status
 ACCEPTED

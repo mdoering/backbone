@@ -1,5 +1,4 @@
-Meliola hippocrateae (Hansf. & Deighton) Cif. SPECIES
-=======
+# Meliola hippocrateae (Hansf. & Deighton) Cif. SPECIES
 
 #### Status
 ACCEPTED

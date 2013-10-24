@@ -1,5 +1,4 @@
-Gonatophragmium daedalacanthi M.S. Tripathi & V. Tripathi SPECIES
-=======
+# Gonatophragmium daedalacanthi M.S. Tripathi & V. Tripathi SPECIES
 
 #### Status
 ACCEPTED

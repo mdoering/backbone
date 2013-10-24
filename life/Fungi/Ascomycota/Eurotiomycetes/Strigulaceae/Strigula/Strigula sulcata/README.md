@@ -1,5 +1,4 @@
-Strigula sulcata Vain. SPECIES
-=======
+# Strigula sulcata Vain. SPECIES
 
 #### Status
 ACCEPTED

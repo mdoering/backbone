@@ -1,5 +1,4 @@
-Jugimurammina Zheng, 2001 GENUS
-=======
+# Jugimurammina Zheng, 2001 GENUS
 
 #### Status
 ACCEPTED

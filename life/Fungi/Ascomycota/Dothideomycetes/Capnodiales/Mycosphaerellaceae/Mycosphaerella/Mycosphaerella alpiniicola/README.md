@@ -1,5 +1,4 @@
-Mycosphaerella alpiniicola S.Q. Chen & P.K. Chi SPECIES
-=======
+# Mycosphaerella alpiniicola S.Q. Chen & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

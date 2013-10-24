@@ -1,5 +1,4 @@
-Septoria gratiolae Ellis & G. Martin SPECIES
-=======
+# Septoria gratiolae Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

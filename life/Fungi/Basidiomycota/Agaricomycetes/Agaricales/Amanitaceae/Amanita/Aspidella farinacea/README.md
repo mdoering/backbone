@@ -1,5 +1,4 @@
-Aspidella farinacea (Cooke & Massee) E.-J. Gilbert SPECIES
-=======
+# Aspidella farinacea (Cooke & Massee) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

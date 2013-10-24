@@ -1,5 +1,4 @@
-Coryneum pinicola S. Ahmad SPECIES
-=======
+# Coryneum pinicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

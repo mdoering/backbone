@@ -1,5 +1,4 @@
-Cortinarius pseudopurpurascens Hongo SPECIES
-=======
+# Cortinarius pseudopurpurascens Hongo SPECIES
 
 #### Status
 ACCEPTED

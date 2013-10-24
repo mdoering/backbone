@@ -1,5 +1,4 @@
-Aecidium callirhoës Ellis & Kellerm. SPECIES
-=======
+# Aecidium callirhoës Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

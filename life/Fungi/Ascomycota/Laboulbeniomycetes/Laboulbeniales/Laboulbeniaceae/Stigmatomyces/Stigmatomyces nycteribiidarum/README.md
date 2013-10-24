@@ -1,5 +1,4 @@
-Stigmatomyces nycteribiidarum Thaxt. SPECIES
-=======
+# Stigmatomyces nycteribiidarum Thaxt. SPECIES
 
 #### Status
 ACCEPTED

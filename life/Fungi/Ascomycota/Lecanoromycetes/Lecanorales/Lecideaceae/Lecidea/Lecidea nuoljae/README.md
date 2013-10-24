@@ -1,5 +1,4 @@
-Lecidea nuoljae var. nuoljae VARIETY
-=======
+# Lecidea nuoljae H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea nuoljae var. nuoljae
+Lecidea nuoljae H. Magn.
 
 ### Remarks
 null

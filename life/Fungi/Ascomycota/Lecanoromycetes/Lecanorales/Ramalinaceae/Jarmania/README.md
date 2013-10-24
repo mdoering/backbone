@@ -1,5 +1,4 @@
-Jarmania Kantvilas GENUS
-=======
+# Jarmania Kantvilas GENUS
 
 #### Status
 ACCEPTED

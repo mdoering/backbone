@@ -1,5 +1,4 @@
-Septoria oleae-chrysophyllae Pass. SPECIES
-=======
+# Septoria oleae-chrysophyllae Pass. SPECIES
 
 #### Status
 ACCEPTED

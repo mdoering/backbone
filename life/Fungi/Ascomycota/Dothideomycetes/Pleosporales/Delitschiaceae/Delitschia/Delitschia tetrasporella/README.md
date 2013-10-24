@@ -1,5 +1,4 @@
-Delitschia tetrasporella Luck-Allen & Cain SPECIES
-=======
+# Delitschia tetrasporella Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

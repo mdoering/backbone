@@ -1,5 +1,4 @@
-Leccinum rugosum (Fr.) Bon SPECIES
-=======
+# Leccinum rugosum (Fr.) Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Laminaria gyrata Kjellman SPECIES
-=======
+# Kjellmaniella gyrata (Kjellman) Miyabe SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

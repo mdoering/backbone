@@ -1,5 +1,4 @@
-Spirochaeta ostreae SPECIES
-=======
+# Spirochaeta ostreae SPECIES
 
 #### Status
 ACCEPTED

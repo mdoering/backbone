@@ -1,5 +1,4 @@
-Sphacelotheca digitariae-pedicellaris Mishra SPECIES
-=======
+# Sphacelotheca digitariae-pedicellaris Mishra SPECIES
 
 #### Status
 ACCEPTED

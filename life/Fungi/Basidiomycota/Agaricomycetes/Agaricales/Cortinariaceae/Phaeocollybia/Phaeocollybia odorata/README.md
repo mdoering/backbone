@@ -1,5 +1,4 @@
-Phaeocollybia odorata E. Horak SPECIES
-=======
+# Phaeocollybia odorata E. Horak SPECIES
 
 #### Status
 ACCEPTED

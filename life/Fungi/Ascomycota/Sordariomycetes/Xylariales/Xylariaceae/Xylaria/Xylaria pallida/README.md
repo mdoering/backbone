@@ -1,5 +1,4 @@
-Xylaria pallida var. pallida VARIETY
-=======
+# Xylaria pallida Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Linn. Soc. , Bot. 15: 395 (1877)
 
 #### Original name
-Xylaria pallida var. pallida
+Xylaria pallida Berk. & Cooke
 
 ### Remarks
 null

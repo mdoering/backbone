@@ -1,5 +1,4 @@
-Aureotesta M. Vavrdová, 1972 GENUS
-=======
+# Aureotesta M. Vavrdová, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia extensicola-phrymae (Halst.) Arthur SPECIES
-=======
+# Puccinia extensicola-phrymae (Halst.) Arthur SPECIES
 
 #### Status
 ACCEPTED

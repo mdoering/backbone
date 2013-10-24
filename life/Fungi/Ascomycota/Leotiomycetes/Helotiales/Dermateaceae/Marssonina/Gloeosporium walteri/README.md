@@ -1,5 +1,4 @@
-Gloeosporium walteri McAlpine SPECIES
-=======
+# Gloeosporium walteri McAlpine SPECIES
 
 #### Status
 ACCEPTED

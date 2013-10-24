@@ -1,5 +1,4 @@
-Phyllosticta pisi Westend. SPECIES
-=======
+# Phyllosticta pisi Westend. SPECIES
 
 #### Status
 ACCEPTED

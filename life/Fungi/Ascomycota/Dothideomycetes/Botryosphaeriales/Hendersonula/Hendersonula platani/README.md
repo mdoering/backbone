@@ -1,5 +1,4 @@
-Hendersonula platani Sousa da Câmara & Luz SPECIES
-=======
+# Hendersonula platani Sousa da Câmara & Luz SPECIES
 
 #### Status
 ACCEPTED

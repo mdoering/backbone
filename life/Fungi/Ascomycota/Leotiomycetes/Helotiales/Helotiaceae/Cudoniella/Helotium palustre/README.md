@@ -1,17 +1,16 @@
-Helotium palustri Peck SPECIES
-=======
+# Helotium palustre Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 32: 48 (1880)
 
 #### Original name
-Helotium palustri Peck
+Helotium palustre Peck
 
 ### Remarks
 null

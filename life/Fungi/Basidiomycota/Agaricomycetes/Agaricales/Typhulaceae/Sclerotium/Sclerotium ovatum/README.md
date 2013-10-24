@@ -1,5 +1,4 @@
-Sclerotium ovatum Schumach. SPECIES
-=======
+# Sclerotium ovatum Schumach. SPECIES
 
 #### Status
 ACCEPTED

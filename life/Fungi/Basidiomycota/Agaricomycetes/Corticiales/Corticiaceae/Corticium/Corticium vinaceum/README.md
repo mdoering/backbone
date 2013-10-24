@@ -1,5 +1,4 @@
-Corticium vinaceum Burt SPECIES
-=======
+# Corticium vinaceum Burt SPECIES
 
 #### Status
 ACCEPTED

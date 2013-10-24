@@ -1,5 +1,4 @@
-Lecanora spegazzinii Müll. Arg. SPECIES
-=======
+# Lecanora spegazzinii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

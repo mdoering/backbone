@@ -1,14 +1,13 @@
-Polyporus poncei Lloyd, 1923 SPECIES
-=======
+# Inonotus poncei (Lloyd) Ryvarden, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1191 (1923)
+Syn. Fung. (Oslo) 21: 109 (2005)
 
 #### Original name
 Polyporus poncei Lloyd, 1923

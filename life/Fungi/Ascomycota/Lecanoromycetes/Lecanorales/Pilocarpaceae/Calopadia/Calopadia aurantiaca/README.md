@@ -1,5 +1,4 @@
-Calopadia aurantiaca Lücking SPECIES
-=======
+# Calopadia aurantiaca Lücking SPECIES
 
 #### Status
 ACCEPTED

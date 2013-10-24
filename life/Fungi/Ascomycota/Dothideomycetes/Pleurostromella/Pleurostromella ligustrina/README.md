@@ -1,5 +1,4 @@
-Pleurostromella ligustrina Petr. SPECIES
-=======
+# Pleurostromella ligustrina Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema minimum Died., 1914 SPECIES
-=======
+# Sphaeronaema minimum Died., 1914 SPECIES
 
 #### Status
 ACCEPTED

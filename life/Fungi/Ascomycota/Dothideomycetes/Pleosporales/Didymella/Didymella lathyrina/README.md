@@ -1,5 +1,4 @@
-Didymella lathyrina (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Didymella lathyrina (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium niederleinii Henn. SPECIES
-=======
+# Aecidium niederleinii Henn. SPECIES
 
 #### Status
 ACCEPTED

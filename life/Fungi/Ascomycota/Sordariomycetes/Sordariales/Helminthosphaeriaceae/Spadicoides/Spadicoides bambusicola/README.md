@@ -1,5 +1,4 @@
-Spadicoides bambusicola D.Q. Zhou, Goh & K.D. Hyde SPECIES
-=======
+# Spadicoides bambusicola D.Q. Zhou, Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria maclurae (Ellis & Everh.) Sacc. SPECIES
-=======
+# Metasphaeria maclurae (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

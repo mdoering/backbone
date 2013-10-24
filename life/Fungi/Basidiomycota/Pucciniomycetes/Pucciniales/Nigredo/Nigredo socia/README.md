@@ -1,5 +1,4 @@
-Nigredo socia (Arthur & Holw.) Arthur SPECIES
-=======
+# Nigredo socia (Arthur & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

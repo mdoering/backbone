@@ -1,5 +1,4 @@
-Asteridiella inermis (Kalchbr. & Cooke) Hansf. SPECIES
-=======
+# Asteridiella inermis (Kalchbr. & Cooke) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella dolichospora (Sacc. & Fautrey) Wehm. SPECIES
-=======
+# Mycosphaerella dolichospora (Sacc. & Fautrey) Wehm. SPECIES
 
 #### Status
 ACCEPTED

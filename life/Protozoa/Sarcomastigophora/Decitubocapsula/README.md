@@ -1,5 +1,4 @@
-Decitubocapsula Dumitrica, 1999 GENUS
-=======
+# Decitubocapsula Dumitrica, 1999 GENUS
 
 #### Status
 ACCEPTED

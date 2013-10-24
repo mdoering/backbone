@@ -1,5 +1,4 @@
-Hygrophorus flammans Berk. SPECIES
-=======
+# Hygrophorus flammans Berk. SPECIES
 
 #### Status
 ACCEPTED

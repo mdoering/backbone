@@ -1,5 +1,4 @@
-Opegrapha concatenata Vain. SPECIES
-=======
+# Opegrapha concatenata Vain. SPECIES
 
 #### Status
 ACCEPTED

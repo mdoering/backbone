@@ -1,5 +1,4 @@
-Gyrophana umbrina (Pers.) Bourdot & Galzin SPECIES
-=======
+# Gyrophana umbrina (Pers.) Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

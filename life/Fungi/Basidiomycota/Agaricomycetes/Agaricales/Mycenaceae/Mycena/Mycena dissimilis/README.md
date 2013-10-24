@@ -1,5 +1,4 @@
-Mycena dissimilis Maas Geest. & de Meijer SPECIES
-=======
+# Mycena dissimilis Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

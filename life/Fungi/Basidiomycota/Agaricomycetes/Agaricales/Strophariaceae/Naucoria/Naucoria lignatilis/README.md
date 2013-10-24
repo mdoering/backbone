@@ -1,5 +1,4 @@
-Naucoria lignatilis Velen. SPECIES
-=======
+# Naucoria lignatilis Velen. SPECIES
 
 #### Status
 ACCEPTED

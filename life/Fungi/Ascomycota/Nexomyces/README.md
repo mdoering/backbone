@@ -1,5 +1,4 @@
-Nexomyces Garcia et al. GENUS
-=======
+# Nexomyces Garcia et al. GENUS
 
 #### Status
 ACCEPTED

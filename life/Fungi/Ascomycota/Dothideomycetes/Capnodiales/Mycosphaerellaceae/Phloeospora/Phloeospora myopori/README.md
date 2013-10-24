@@ -1,5 +1,4 @@
-Phloeospora myopori (Cooke & Massee) Hansf. SPECIES
-=======
+# Phloeospora myopori (Cooke & Massee) Hansf. SPECIES
 
 #### Status
 ACCEPTED

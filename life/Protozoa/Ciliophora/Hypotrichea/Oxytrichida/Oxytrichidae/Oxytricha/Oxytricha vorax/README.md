@@ -1,5 +1,4 @@
-Oxytricha vorax Stokes, 1891 SPECIES
-=======
+# Oxytricha vorax Stokes, 1891 SPECIES
 
 #### Status
 ACCEPTED

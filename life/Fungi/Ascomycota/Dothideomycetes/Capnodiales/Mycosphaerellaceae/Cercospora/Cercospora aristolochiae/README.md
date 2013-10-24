@@ -1,5 +1,4 @@
-Cercospora aristolochiae Roum. SPECIES
-=======
+# Cercospora aristolochiae Roum. SPECIES
 
 #### Status
 ACCEPTED

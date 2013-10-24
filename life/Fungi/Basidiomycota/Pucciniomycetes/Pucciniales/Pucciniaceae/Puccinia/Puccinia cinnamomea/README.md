@@ -1,5 +1,4 @@
-Puccinia cinnamomea Dietel & Holw. SPECIES
-=======
+# Puccinia cinnamomea Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tritaxiidae Plotnikova, 1979 FAMILY
-=======
+# Tritaxiidae Plotnikova, 1979 FAMILY
 
 #### Status
 ACCEPTED

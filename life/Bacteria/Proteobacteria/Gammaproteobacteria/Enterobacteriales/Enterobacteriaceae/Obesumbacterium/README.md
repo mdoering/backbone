@@ -1,5 +1,4 @@
-Obesumbacterium GENUS
-=======
+# Obesumbacterium GENUS
 
 #### Status
 ACCEPTED

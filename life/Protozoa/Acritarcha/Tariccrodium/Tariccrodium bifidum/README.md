@@ -1,5 +1,4 @@
-Tariccrodium bifidum P. Pittau SPECIES
-=======
+# Tariccrodium bifidum P. Pittau SPECIES
 
 #### Status
 ACCEPTED

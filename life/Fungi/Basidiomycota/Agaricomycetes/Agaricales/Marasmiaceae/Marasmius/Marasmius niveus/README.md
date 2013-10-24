@@ -1,5 +1,4 @@
-Marasmius niveus Mont. SPECIES
-=======
+# Marasmius niveus Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus monticulosus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus monticulosus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

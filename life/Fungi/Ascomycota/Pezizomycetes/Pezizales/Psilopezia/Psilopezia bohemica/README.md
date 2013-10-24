@@ -1,5 +1,4 @@
-Psilopezia bohemica Velen. SPECIES
-=======
+# Psilopezia bohemica Velen. SPECIES
 
 #### Status
 ACCEPTED

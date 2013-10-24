@@ -1,14 +1,13 @@
-Trametes moesta Kalchbr., 1881 SPECIES
-=======
+# Daedalea moesta (Kalchbr.) Rajchenb., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 10(no. 54): 56 (1881)
+Can. J. Bot. 64(8): 2133 (1986)
 
 #### Original name
 Trametes moesta Kalchbr., 1881

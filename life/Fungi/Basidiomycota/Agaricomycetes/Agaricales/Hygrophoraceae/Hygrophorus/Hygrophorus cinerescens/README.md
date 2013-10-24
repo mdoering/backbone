@@ -1,5 +1,4 @@
-Hygrophorus cinerescens Berk. & Broome SPECIES
-=======
+# Hygrophorus cinerescens Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

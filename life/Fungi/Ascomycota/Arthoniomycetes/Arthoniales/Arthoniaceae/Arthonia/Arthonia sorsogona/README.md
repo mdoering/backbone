@@ -1,5 +1,4 @@
-Arthonia sorsogona Vain. SPECIES
-=======
+# Arthonia sorsogona Vain. SPECIES
 
 #### Status
 ACCEPTED

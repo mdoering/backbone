@@ -1,5 +1,4 @@
-Aplosporella pentatropidis S. Ahmad SPECIES
-=======
+# Aplosporella pentatropidis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

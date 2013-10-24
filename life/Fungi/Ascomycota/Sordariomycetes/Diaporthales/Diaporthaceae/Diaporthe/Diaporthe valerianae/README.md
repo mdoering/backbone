@@ -1,5 +1,4 @@
-Diaporthe valerianae Fuckel SPECIES
-=======
+# Diaporthe valerianae Fuckel SPECIES
 
 #### Status
 ACCEPTED

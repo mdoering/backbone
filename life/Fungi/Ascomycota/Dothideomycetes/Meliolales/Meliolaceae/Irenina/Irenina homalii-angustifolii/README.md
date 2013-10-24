@@ -1,5 +1,4 @@
-Irenina homalii-angustifolii Deighton SPECIES
-=======
+# Irenina homalii-angustifolii Deighton SPECIES
 
 #### Status
 ACCEPTED

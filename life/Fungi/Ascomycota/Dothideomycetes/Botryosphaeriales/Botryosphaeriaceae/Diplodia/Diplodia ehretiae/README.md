@@ -1,5 +1,4 @@
-Diplodia ehretiae S. Ahmad SPECIES
-=======
+# Diplodia ehretiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

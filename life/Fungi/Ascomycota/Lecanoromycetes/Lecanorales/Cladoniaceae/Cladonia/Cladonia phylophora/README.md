@@ -1,5 +1,4 @@
-Cladonia phylophora Ehrh. ex Hoffm. SPECIES
-=======
+# Cladonia phylophora Ehrh. ex Hoffm. SPECIES
 
 #### Status
 ACCEPTED

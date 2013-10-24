@@ -1,5 +1,4 @@
-Cercospora bryoniae T.M. Achundov SPECIES
-=======
+# Cercospora bryoniae T.M. Achundov SPECIES
 
 #### Status
 ACCEPTED

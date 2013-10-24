@@ -1,5 +1,4 @@
-Schizothrix lamyi Gomont SPECIES
-=======
+# Schizothrix lamyi Gomont SPECIES
 
 #### Status
 ACCEPTED

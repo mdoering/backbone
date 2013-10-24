@@ -1,5 +1,4 @@
-Sistotrema glaberrinum Pers. SPECIES
-=======
+# Sistotrema glaberrinum Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asperatopsophosphaera bavlensis Shepeleva, 1963 emend Kowalski, 1983 SPECIES
-=======
+# Asperatopsophosphaera bavlensis Shepeleva, 1963 emend Kowalski, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gephyrocapsa protohuxleyi McIntyre, 1970 SPECIES
-=======
+# Gephyrocapsa protohuxleyi McIntyre, 1970 SPECIES
 
 #### Status
 ACCEPTED

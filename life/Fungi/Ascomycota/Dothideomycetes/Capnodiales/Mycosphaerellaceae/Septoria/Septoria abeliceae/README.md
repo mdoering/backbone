@@ -1,5 +1,4 @@
-Septoria abeliceae Hiray. SPECIES
-=======
+# Septoria abeliceae Hiray. SPECIES
 
 #### Status
 ACCEPTED

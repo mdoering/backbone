@@ -1,5 +1,4 @@
-Sphaeronaemella diaphana (Fuckel) Sacc. SPECIES
-=======
+# Sphaeronaemella diaphana (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora pithecolobii Sawada SPECIES
-=======
+# Cercospora pithecellobii Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Taihoku Soc. Agric. 7: 119 (1942)
 
 #### Original name
-Cercospora pithecolobii Sawada
+Cercospora pithecellobii Sawada
 
 ### Remarks
 null

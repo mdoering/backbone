@@ -1,17 +1,16 @@
-Lophiosphaera fuckelii f. fuckelii FORM
-=======
+# Lophiostoma fuckelii Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 678 (1883)
+null
 
 #### Original name
-Lophiosphaera fuckelii f. fuckelii
+null
 
 ### Remarks
 null

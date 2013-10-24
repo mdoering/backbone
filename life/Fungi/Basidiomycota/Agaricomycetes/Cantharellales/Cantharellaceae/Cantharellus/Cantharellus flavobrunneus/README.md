@@ -1,5 +1,4 @@
-Cantharellus flavobrunneus R.H. Petersen, 1979 SPECIES
-=======
+# Cantharellus flavobrunneus R.H. Petersen, 1979 SPECIES
 
 #### Status
 ACCEPTED

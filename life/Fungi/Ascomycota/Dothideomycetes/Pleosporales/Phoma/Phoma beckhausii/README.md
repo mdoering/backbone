@@ -1,5 +1,4 @@
-Phoma beckhausii Cooke SPECIES
-=======
+# Phoma beckhausii Cooke SPECIES
 
 #### Status
 ACCEPTED

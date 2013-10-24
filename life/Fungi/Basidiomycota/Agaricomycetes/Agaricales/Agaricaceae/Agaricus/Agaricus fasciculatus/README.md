@@ -1,5 +1,4 @@
-Agaricus fasciculatus J.F. Gmel. SPECIES
-=======
+# Agaricus fasciculatus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

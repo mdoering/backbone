@@ -1,5 +1,4 @@
-Myxosporium sambuci Dearn. SPECIES
-=======
+# Myxosporium sambuci Dearn. SPECIES
 
 #### Status
 ACCEPTED

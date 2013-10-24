@@ -1,5 +1,4 @@
-Dicellaesporites popovii Elsik SPECIES
-=======
+# Dicellaesporites popovii Elsik SPECIES
 
 #### Status
 ACCEPTED

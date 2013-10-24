@@ -1,5 +1,4 @@
-Laboulbenia salaziana Balazuc SPECIES
-=======
+# Laboulbenia salaziana Balazuc SPECIES
 
 #### Status
 ACCEPTED

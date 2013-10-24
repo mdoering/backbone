@@ -1,5 +1,4 @@
-Graphis juglandis Garov. SPECIES
-=======
+# Graphis juglandis Garov. SPECIES
 
 #### Status
 ACCEPTED

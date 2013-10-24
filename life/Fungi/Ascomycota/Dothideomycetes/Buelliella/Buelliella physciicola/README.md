@@ -1,5 +1,4 @@
-Buelliella physciicola Poelt & Hafellner, 1979 SPECIES
-=======
+# Buelliella physciicola Poelt & Hafellner, 1979 SPECIES
 
 #### Status
 ACCEPTED

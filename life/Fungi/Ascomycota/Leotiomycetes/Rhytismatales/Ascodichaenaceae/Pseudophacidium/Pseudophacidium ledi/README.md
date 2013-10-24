@@ -1,17 +1,16 @@
-Phacidium callunae var. betulae Rehm VARIETY
-=======
+# Pseudophacidium ledi (Alb. & Schwein.) P. Karst., 1885 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Fauna Flora fenn. 2(6): 157 (1885)
 
 #### Original name
-Phacidium callunae var. betulae Rehm
+Xyloma ledi Alb. & Schwein., 1805
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uredo longicapsula DC. SPECIES
-=======
+# Uredo longicapsula DC. SPECIES
 
 #### Status
 ACCEPTED

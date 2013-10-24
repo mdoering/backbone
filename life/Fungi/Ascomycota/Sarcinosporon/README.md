@@ -1,5 +1,4 @@
-Sarcinosporon D.S. King & S.C. Jong, 1975 GENUS
-=======
+# Sarcinosporon D.S. King & S.C. Jong, 1975 GENUS
 
 #### Status
 ACCEPTED

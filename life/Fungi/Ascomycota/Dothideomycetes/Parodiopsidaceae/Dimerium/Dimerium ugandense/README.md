@@ -1,5 +1,4 @@
-Dimerium ugandense Hansf. SPECIES
-=======
+# Dimerium ugandense Hansf. SPECIES
 
 #### Status
 ACCEPTED

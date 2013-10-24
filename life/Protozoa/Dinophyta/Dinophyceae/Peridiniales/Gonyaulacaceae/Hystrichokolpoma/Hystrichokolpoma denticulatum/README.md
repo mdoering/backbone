@@ -1,5 +1,4 @@
-Hystrichokolpoma denticulatum K. Matsuoka SPECIES
-=======
+# Hystrichokolpoma denticulatum K. Matsuoka SPECIES
 
 #### Status
 ACCEPTED

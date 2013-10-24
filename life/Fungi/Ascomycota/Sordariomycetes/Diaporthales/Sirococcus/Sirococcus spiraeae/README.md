@@ -1,5 +1,4 @@
-Sirococcus spiraeae (Lebedeva) Petr. SPECIES
-=======
+# Sirococcus spiraeae (Lebedeva) Petr. SPECIES
 
 #### Status
 ACCEPTED

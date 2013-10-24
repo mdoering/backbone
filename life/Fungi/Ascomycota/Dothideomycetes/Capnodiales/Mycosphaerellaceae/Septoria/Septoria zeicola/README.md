@@ -1,5 +1,4 @@
-Septoria zeicola G.L. Stout SPECIES
-=======
+# Septoria zeicola G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

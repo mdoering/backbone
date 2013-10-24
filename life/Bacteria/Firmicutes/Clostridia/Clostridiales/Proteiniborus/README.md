@@ -1,5 +1,4 @@
-Proteiniborus Niu et al., 2008 GENUS
-=======
+# Proteiniborus Niu et al., 2008 GENUS
 
 #### Status
 ACCEPTED

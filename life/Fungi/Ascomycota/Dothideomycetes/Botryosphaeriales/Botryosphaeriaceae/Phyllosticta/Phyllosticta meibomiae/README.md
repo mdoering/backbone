@@ -1,5 +1,4 @@
-Phyllosticta meibomiae Seaver SPECIES
-=======
+# Phyllosticta meibomiae Seaver SPECIES
 
 #### Status
 ACCEPTED

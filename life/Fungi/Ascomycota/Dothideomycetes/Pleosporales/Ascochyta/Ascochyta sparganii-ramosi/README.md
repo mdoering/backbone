@@ -1,5 +1,4 @@
-Ascochyta sparganii-ramosi Punith. SPECIES
-=======
+# Ascochyta sparganii-ramosi Punith. SPECIES
 
 #### Status
 ACCEPTED

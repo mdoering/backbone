@@ -1,5 +1,4 @@
-Coniothyrium philadelphi-coronarii (Sacc.) Biga, Cif. & Bestagno SPECIES
-=======
+# Coniothyrium philadelphi-coronarii (Sacc.) Biga, Cif. & Bestagno SPECIES
 
 #### Status
 ACCEPTED

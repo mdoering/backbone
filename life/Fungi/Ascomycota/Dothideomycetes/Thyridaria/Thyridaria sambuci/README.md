@@ -1,5 +1,4 @@
-Thyridaria sambuci f. sambuci FORM
-=======
+# Thyridaria sambuci (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thyridaria sambuci f. sambuci
+Kalmusia sambuci P. Karst.
 
 ### Remarks
 null

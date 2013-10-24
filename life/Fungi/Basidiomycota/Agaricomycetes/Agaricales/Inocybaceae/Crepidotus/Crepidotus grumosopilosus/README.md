@@ -1,5 +1,4 @@
-Crepidotus grumosopilosus (Berk. & Broome) Sacc. SPECIES
-=======
+# Crepidotus grumosopilosus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

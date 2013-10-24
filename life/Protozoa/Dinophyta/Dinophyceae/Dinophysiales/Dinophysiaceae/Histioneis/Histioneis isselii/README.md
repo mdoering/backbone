@@ -1,5 +1,4 @@
-Histioneis isselii Forti, 1932 SPECIES
-=======
+# Histioneis isselii Forti, 1932 SPECIES
 
 #### Status
 ACCEPTED

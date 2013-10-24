@@ -1,5 +1,4 @@
-Sparassis minoensis Blanco-Dios & Zheng Wang, 2006 SPECIES
-=======
+# Sparassis minoensis Blanco-Dios & Zheng Wang, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexamastix Derrieu & Raynaud, 1914 GENUS
-=======
+# Hexamastix Derrieu & Raynaud, 1914 GENUS
 
 #### Status
 ACCEPTED

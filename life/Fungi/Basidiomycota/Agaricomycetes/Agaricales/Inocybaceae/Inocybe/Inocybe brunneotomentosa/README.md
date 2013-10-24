@@ -1,5 +1,4 @@
-Inocybe brunneotomentosa Huijsman SPECIES
-=======
+# Inocybe brunneotomentosa Huijsman SPECIES
 
 #### Status
 ACCEPTED

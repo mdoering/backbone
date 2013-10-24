@@ -1,5 +1,4 @@
-Amphichaeta rhododendri Sousa da Câmara SPECIES
-=======
+# Amphichaeta rhododendri Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

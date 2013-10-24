@@ -1,5 +1,4 @@
-Pinacisca cilophthalma (A. Massal.) Motyka SPECIES
-=======
+# Pinacisca cilophthalma (A. Massal.) Motyka SPECIES
 
 #### Status
 ACCEPTED

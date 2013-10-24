@@ -1,5 +1,4 @@
-Hymenochaete purpurea Cooke & Morgan SPECIES
-=======
+# Hymenochaete purpurea Cooke & Morgan SPECIES
 
 #### Status
 ACCEPTED

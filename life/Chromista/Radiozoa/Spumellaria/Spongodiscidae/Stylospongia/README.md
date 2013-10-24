@@ -1,5 +1,4 @@
-Stylospongia Haeckel, 1862 GENUS
-=======
+# Stylospongia Haeckel, 1862 GENUS
 
 #### Status
 ACCEPTED

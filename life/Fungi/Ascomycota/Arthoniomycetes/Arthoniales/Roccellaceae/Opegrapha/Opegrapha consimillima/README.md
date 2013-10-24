@@ -1,5 +1,4 @@
-Opegrapha consimillima Nyl. SPECIES
-=======
+# Opegrapha consimillima Nyl. SPECIES
 
 #### Status
 ACCEPTED

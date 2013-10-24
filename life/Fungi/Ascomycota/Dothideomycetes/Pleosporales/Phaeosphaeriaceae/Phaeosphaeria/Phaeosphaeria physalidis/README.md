@@ -1,5 +1,4 @@
-Phaeosphaeria physalidis (Ellis & Everh.) Huhndorf SPECIES
-=======
+# Phaeosphaeria physalidis (Ellis & Everh.) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

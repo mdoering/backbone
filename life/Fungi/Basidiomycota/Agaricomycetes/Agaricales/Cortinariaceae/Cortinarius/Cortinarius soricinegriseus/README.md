@@ -1,5 +1,4 @@
-Cortinarius soricinegriseus Rob. Henry SPECIES
-=======
+# Cortinarius soricinegriseus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

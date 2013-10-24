@@ -1,5 +1,4 @@
-Discosia maculicola W.R. Gerard SPECIES
-=======
+# Discosia maculicola W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

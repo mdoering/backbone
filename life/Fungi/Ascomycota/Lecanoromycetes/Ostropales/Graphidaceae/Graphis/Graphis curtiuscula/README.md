@@ -1,5 +1,4 @@
-Graphis curtiuscula SPECIES
-=======
+# Graphis curtiuscula SPECIES
 
 #### Status
 ACCEPTED

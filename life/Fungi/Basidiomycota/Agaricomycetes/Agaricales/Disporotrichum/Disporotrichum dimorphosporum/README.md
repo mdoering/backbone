@@ -1,14 +1,13 @@
-Sporotrichum dimorphosporum Arx, 1971 SPECIES
-=======
+# Disporotrichum dimorphosporum (Arx) Stalpers, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 6(2): 181 (1971)
+Stud. Mycol. 24: 30 (1984)
 
 #### Original name
 Sporotrichum dimorphosporum Arx, 1971

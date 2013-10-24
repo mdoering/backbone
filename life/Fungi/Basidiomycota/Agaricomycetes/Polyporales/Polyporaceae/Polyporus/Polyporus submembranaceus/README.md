@@ -1,5 +1,4 @@
-Polyporus submembranaceus Saut. SPECIES
-=======
+# Polyporus submembranaceus Saut. SPECIES
 
 #### Status
 ACCEPTED

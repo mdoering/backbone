@@ -1,5 +1,4 @@
-Flammula cortinella (DC.) Fr. SPECIES
-=======
+# Flammula cortinella (DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

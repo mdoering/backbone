@@ -1,5 +1,4 @@
-Helvella griseoalba N.S. Weber SPECIES
-=======
+# Helvella griseoalba N.S. Weber SPECIES
 
 #### Status
 ACCEPTED

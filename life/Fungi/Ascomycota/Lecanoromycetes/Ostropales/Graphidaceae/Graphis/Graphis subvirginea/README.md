@@ -1,5 +1,4 @@
-Graphis subvirginea Nyl. SPECIES
-=======
+# Graphis subvirginea Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora judaica Rayss SPECIES
-=======
+# Cercospora judaica Rayss SPECIES
 
 #### Status
 ACCEPTED

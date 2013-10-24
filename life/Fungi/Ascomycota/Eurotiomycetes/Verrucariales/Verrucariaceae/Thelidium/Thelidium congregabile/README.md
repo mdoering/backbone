@@ -1,5 +1,4 @@
-Thelidium congregabile (Stizenb.) Zahlbr. SPECIES
-=======
+# Thelidium congregabile (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium lagenariae Thüm. SPECIES
-=======
+# Macrosporium lagenariae Thüm. SPECIES
 
 #### Status
 ACCEPTED

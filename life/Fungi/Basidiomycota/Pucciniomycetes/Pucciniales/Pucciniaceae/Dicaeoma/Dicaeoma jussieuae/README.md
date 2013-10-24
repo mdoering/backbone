@@ -1,5 +1,4 @@
-Dicaeoma jussieuae (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma jussieuae (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

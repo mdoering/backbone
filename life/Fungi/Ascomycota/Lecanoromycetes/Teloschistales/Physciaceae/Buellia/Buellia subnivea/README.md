@@ -1,5 +1,4 @@
-Buellia subnivea (Nyl.) Jatta SPECIES
-=======
+# Buellia subnivea (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

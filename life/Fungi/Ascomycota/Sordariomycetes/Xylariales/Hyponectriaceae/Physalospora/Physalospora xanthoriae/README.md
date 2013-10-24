@@ -1,5 +1,4 @@
-Physalospora xanthoriae (Wedd.) Sacc. & D. Sacc. SPECIES
-=======
+# Physalospora xanthoriae (Wedd.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

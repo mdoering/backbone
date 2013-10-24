@@ -1,5 +1,4 @@
-Pseudocercospora murrayicola P. Kumar & Kamal SPECIES
-=======
+# Pseudocercospora murrayicola P. Kumar & Kamal SPECIES
 
 #### Status
 ACCEPTED

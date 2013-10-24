@@ -1,5 +1,4 @@
-Bimeris Petr. GENUS
-=======
+# Bimeris Petr. GENUS
 
 #### Status
 ACCEPTED

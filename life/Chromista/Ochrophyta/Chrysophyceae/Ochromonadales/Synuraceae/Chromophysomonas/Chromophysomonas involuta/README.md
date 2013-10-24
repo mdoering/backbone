@@ -1,5 +1,4 @@
-Chromophysomonas involuta B. Ã…. Jacobsen SPECIES
-=======
+# Chromophysomonas involuta B. Ã…. Jacobsen SPECIES
 
 #### Status
 ACCEPTED

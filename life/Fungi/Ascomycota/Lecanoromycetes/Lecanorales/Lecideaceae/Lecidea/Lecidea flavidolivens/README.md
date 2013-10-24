@@ -1,5 +1,4 @@
-Lecidea flavidolivens (Tuck.) Fink SPECIES
-=======
+# Lecidea flavidolivens (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

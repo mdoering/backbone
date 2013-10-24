@@ -1,5 +1,4 @@
-Succiniclasticum van Gylswyk, 1995 GENUS
-=======
+# Succiniclasticum van Gylswyk, 1995 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Collemopsis oblongans Nyl. ex Cromb. SPECIES
-=======
+# Lemmopsis oblongans (Nyl. ex Cromb.) A.L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Grevillea 3(no. 25): 22 (1874)
+Monogr. Brit. Lich. 1: 64 (1918)
 
 #### Original name
 Collemopsis oblongans Nyl. ex Cromb.

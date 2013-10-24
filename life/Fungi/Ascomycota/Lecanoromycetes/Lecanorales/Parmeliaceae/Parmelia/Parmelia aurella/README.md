@@ -1,5 +1,4 @@
-Parmelia aurella (Hoffm.) Wallr. SPECIES
-=======
+# Parmelia aurella (Hoffm.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

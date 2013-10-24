@@ -1,5 +1,4 @@
-Sorosporium anadelphiae Vienn.-Bourg. SPECIES
-=======
+# Sorosporium anadelphiae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

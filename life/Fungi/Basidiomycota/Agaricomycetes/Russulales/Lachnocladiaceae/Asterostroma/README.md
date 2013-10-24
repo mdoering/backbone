@@ -1,5 +1,4 @@
-Asterostroma Massee, 1889 GENUS
-=======
+# Asterostroma Massee, 1889 GENUS
 
 #### Status
 ACCEPTED

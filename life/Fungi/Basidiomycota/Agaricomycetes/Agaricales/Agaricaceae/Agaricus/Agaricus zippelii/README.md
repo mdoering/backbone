@@ -1,5 +1,4 @@
-Agaricus zippelii Lév. SPECIES
-=======
+# Agaricus zippelii Lév. SPECIES
 
 #### Status
 ACCEPTED

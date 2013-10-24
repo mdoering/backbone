@@ -1,17 +1,16 @@
-Dichaenopsella Petr. GENUS
-=======
+# Polymorphum Chevall. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Sydowia 6(5-6): 375 (1952)
+J. Phys. Chim. Hist. nat. Arts 92: 32 (1822)
 
 #### Original name
-Dichaenopsella Petr.
+Polymorphum Chevall.
 
 ### Remarks
 null

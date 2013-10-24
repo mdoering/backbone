@@ -1,5 +1,4 @@
-Trametes subincana Corner SPECIES
-=======
+# Trametes subincana Corner SPECIES
 
 #### Status
 ACCEPTED

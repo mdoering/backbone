@@ -1,5 +1,4 @@
-Saprolegnia intermedia Maurizio SPECIES
-=======
+# Saprolegnia intermedia Maurizio SPECIES
 
 #### Status
 ACCEPTED

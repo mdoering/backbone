@@ -1,5 +1,4 @@
-Endocarpon pseudosubnitescens Breuss SPECIES
-=======
+# Endocarpon pseudosubnitescens Breuss SPECIES
 
 #### Status
 ACCEPTED

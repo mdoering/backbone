@@ -1,5 +1,4 @@
-Leucopaxillus masakanus Pegler SPECIES
-=======
+# Leucopaxillus masakanus Pegler SPECIES
 
 #### Status
 ACCEPTED

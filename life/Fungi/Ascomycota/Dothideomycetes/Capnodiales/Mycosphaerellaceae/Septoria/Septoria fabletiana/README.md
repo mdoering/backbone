@@ -1,5 +1,4 @@
-Septoria fabletiana Speg. SPECIES
-=======
+# Septoria fabletiana Speg. SPECIES
 
 #### Status
 ACCEPTED

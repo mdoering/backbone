@@ -1,5 +1,4 @@
-Peniophora subtilis (J. Schröt.) Höhn. & Litsch. SPECIES
-=======
+# Peniophora subtilis (J. Schröt.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

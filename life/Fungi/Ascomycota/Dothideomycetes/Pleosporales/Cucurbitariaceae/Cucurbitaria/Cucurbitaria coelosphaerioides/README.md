@@ -1,14 +1,13 @@
-Cucurbitaria coelosphaeriodes (E. Bommer, M. Rousseau & Sacc.) Kuntze SPECIES
-=======
+# Cucurbitaria coelosphaerioides (E. Bommer, M. Rousseau & Sacc.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 461 (1898)
 
 #### Original name
 Nectria coelosphaerioides E. Bommer, M. Rousseau & Sacc.

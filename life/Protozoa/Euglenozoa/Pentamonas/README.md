@@ -1,5 +1,4 @@
-Pentamonas J.B.Lackey GENUS
-=======
+# Pentamonas J.B.Lackey GENUS
 
 #### Status
 ACCEPTED

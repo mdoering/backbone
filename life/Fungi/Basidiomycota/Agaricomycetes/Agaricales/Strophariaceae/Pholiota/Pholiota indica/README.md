@@ -1,5 +1,4 @@
-Pholiota indica Massee SPECIES
-=======
+# Pholiota indica Massee SPECIES
 
 #### Status
 ACCEPTED

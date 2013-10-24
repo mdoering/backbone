@@ -1,5 +1,4 @@
-Psathyrella varzeae Singer SPECIES
-=======
+# Psathyrella varzeae Singer SPECIES
 
 #### Status
 ACCEPTED

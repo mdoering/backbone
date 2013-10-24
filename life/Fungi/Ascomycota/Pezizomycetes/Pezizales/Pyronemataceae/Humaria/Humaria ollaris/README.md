@@ -1,14 +1,13 @@
-Peziza ollaris Fr., 1822 SPECIES
-=======
+# Humaria ollaris (Fr.) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 2(1): 68 (1822)
+Syll. fung. (Abellini) 8: 131 (1889)
 
 #### Original name
 Peziza ollaris Fr., 1822

@@ -1,14 +1,13 @@
-Helicosporium richonis Boud. SPECIES
-=======
+# Helicoön richonis (Boud.) Linder, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 16: 323 (1929)
 
 #### Original name
 Helicosporium richonis Boud.

@@ -1,5 +1,4 @@
-Hymenoscyphus eriolomus (Fr.) Kuntze SPECIES
-=======
+# Hymenoscyphus eriolomus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula idroboi Singer SPECIES
-=======
+# Russula idroboi Singer SPECIES
 
 #### Status
 ACCEPTED

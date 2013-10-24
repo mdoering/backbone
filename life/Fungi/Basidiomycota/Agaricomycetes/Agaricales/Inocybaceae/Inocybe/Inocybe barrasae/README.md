@@ -1,5 +1,4 @@
-Inocybe barrasae Esteve-Rav. SPECIES
-=======
+# Inocybe barrasae Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

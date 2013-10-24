@@ -1,17 +1,16 @@
-Achaetomium sulphureiis J.N. Rai & H.J. Chowdhery SPECIES
-=======
+# Achaetomium sulphureum J.N. Rai & H.J. Chowdhery SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Indian bot. Soc. 52(3-4): 310 (1974)
 
 #### Original name
-Achaetomium sulphureiis J.N. Rai & H.J. Chowdhery
+Achaetomium sulphureum J.N. Rai & H.J. Chowdhery
 
 ### Remarks
 null

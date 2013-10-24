@@ -1,5 +1,4 @@
-Peziza conchella Schwein. SPECIES
-=======
+# Peziza conchella Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Nitrosolobus multiformis Watson et al., 1971 (Approved Lists, 1980) SPECIES
-=======
+# Nitrosospira multiformis (Watson et al., 1971) Head et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

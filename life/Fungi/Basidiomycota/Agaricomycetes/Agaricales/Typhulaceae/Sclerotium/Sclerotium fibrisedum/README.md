@@ -1,5 +1,4 @@
-Sclerotium fibrisedum P. Karst. & Har. SPECIES
-=======
+# Sclerotium fibrisedum P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

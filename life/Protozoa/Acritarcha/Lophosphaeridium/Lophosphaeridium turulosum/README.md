@@ -1,5 +1,4 @@
-Lophosphaeridium turulosum Piskun, 1976 SPECIES
-=======
+# Lophosphaeridium turulosum Piskun, 1976 SPECIES
 
 #### Status
 ACCEPTED

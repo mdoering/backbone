@@ -1,5 +1,4 @@
-Odontia xantha (Berk. & M.A. Curtis) Rick SPECIES
-=======
+# Odontia xantha (Berk. & M.A. Curtis) Rick SPECIES
 
 #### Status
 ACCEPTED

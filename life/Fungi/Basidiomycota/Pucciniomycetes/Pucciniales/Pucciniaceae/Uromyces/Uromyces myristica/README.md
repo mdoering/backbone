@@ -1,5 +1,4 @@
-Uromyces myristica Berk. & Broome SPECIES
-=======
+# Uromyces myristica Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

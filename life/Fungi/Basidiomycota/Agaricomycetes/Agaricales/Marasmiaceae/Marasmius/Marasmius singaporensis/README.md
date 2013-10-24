@@ -1,5 +1,4 @@
-Marasmius singaporensis Corner SPECIES
-=======
+# Marasmius singaporensis Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyathus gallicus Mornand SPECIES
-=======
+# Cyathus gallicus Mornand SPECIES
 
 #### Status
 ACCEPTED

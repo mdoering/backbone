@@ -1,5 +1,4 @@
-Chrysamoeba pyrenoidifera Korschikov SPECIES
-=======
+# Chrysamoeba pyrenoidifera Korschikov SPECIES
 
 #### Status
 ACCEPTED

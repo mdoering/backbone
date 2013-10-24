@@ -1,5 +1,4 @@
-Agaricus grisellus Weinm. SPECIES
-=======
+# Agaricus grisellus Weinm. SPECIES
 
 #### Status
 ACCEPTED

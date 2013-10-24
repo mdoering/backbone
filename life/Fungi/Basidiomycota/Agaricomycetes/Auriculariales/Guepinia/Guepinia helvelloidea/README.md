@@ -1,5 +1,4 @@
-Guepinia helvelloidea Schwein. SPECIES
-=======
+# Guepinia helvelloidea Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria acalyphae (Nelen) E.G. Simmons SPECIES
-=======
+# Alternaria acalyphae (Nelen) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

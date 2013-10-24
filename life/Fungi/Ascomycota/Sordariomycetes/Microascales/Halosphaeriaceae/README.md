@@ -1,5 +1,4 @@
-Halosphaeriaceae E. Müll. & Arx ex Kohlm. FAMILY
-=======
+# Halosphaeriaceae E. Müll. & Arx ex Kohlm. FAMILY
 
 #### Status
 ACCEPTED

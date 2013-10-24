@@ -1,5 +1,4 @@
-Peronospora argemones Gäum. SPECIES
-=======
+# Peronospora argemones Gäum. SPECIES
 
 #### Status
 ACCEPTED

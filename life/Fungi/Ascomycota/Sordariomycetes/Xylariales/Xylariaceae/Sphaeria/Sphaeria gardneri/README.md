@@ -1,5 +1,4 @@
-Sphaeria gardneri Berk. SPECIES
-=======
+# Sphaeria gardneri Berk. SPECIES
 
 #### Status
 ACCEPTED

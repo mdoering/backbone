@@ -1,5 +1,4 @@
-Verrucaria kalenskyi Servít SPECIES
-=======
+# Verrucaria kalenskyi Servít SPECIES
 
 #### Status
 ACCEPTED

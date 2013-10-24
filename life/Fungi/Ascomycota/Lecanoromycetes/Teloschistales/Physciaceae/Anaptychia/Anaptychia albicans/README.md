@@ -1,5 +1,4 @@
-Anaptychia albicans Kurok. SPECIES
-=======
+# Anaptychia albicans Kurok. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia hirticeps Peck SPECIES
-=======
+# Collybia hirticeps Peck SPECIES
 
 #### Status
 ACCEPTED

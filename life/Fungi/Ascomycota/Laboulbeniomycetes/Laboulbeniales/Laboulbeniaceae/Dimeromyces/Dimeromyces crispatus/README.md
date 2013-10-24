@@ -1,5 +1,4 @@
-Dimeromyces crispatus Thaxt. SPECIES
-=======
+# Dimeromyces crispatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discina submembranacea Henn. SPECIES
-=======
+# Discina submembranacea Henn. SPECIES
 
 #### Status
 ACCEPTED

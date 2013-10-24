@@ -1,5 +1,4 @@
-Pleurotus saccardianus Arcang. SPECIES
-=======
+# Pleurotus saccardianus Arcang. SPECIES
 
 #### Status
 ACCEPTED

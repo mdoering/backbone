@@ -1,5 +1,4 @@
-Microsphaera sichuanica Y.N. Yu SPECIES
-=======
+# Microsphaera sichuanica Y.N. Yu SPECIES
 
 #### Status
 ACCEPTED

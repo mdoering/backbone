@@ -1,5 +1,4 @@
-Ditremis bispora Makhija & Patw. SPECIES
-=======
+# Ditremis bispora Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

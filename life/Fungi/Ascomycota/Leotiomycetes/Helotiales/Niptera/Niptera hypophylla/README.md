@@ -1,5 +1,4 @@
-Niptera hypophylla f. hypophylla FORM
-=======
+# Niptera hypophylla Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 39: 87 (1900)
 
 #### Original name
-Niptera hypophylla f. hypophylla
+Niptera hypophylla Rehm
 
 ### Remarks
 null

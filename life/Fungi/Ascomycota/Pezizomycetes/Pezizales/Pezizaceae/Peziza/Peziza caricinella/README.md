@@ -1,5 +1,4 @@
-Peziza caricinella P. Karst. SPECIES
-=======
+# Peziza caricinella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

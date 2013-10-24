@@ -1,5 +1,4 @@
-Weinmannodora Fr. GENUS
-=======
+# Weinmannodora Fr. GENUS
 
 #### Status
 ACCEPTED

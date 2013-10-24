@@ -1,5 +1,4 @@
-Pyrenophora pontresinensis Kirschst. SPECIES
-=======
+# Pyrenophora pontresinensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

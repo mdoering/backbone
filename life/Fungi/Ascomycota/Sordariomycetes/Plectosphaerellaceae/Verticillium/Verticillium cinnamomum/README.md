@@ -1,5 +1,4 @@
-Verticillium cinnamomum Sousa da Câmara SPECIES
-=======
+# Verticillium cinnamomum Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

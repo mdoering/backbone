@@ -1,5 +1,4 @@
-Valsa lixivia (Fr.) Quél. SPECIES
-=======
+# Valsa lixivia (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

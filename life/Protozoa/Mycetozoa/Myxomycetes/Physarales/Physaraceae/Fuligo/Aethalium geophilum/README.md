@@ -1,5 +1,4 @@
-Aethalium geophilum Peck SPECIES
-=======
+# Aethalium geophilum Peck SPECIES
 
 #### Status
 ACCEPTED

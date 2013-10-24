@@ -1,5 +1,4 @@
-Penicillium canariense S.W. Peterson & Sigler, 2002 SPECIES
-=======
+# Penicillium canariense S.W. Peterson & Sigler, 2002 SPECIES
 
 #### Status
 ACCEPTED

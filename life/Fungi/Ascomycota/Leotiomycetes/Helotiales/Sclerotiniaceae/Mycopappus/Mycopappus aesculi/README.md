@@ -1,5 +1,4 @@
-Mycopappus aesculi C.Z. Wei, Y. Harada & Katum. SPECIES
-=======
+# Mycopappus aesculi C.Z. Wei, Y. Harada & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbum basitruncatum Matsush. SPECIES
-=======
+# Stilbum basitruncatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

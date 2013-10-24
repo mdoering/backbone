@@ -1,5 +1,4 @@
-Quinqueloculina reticulostriata SPECIES
-=======
+# Quinqueloculina reticulostriata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema pustuligerum Hue SPECIES
-=======
+# Collema pustuligerum Hue SPECIES
 
 #### Status
 ACCEPTED

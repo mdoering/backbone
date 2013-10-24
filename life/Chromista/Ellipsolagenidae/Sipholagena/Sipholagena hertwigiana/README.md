@@ -1,5 +1,4 @@
-Sipholagena hertwigiana (Brady, 1881) SPECIES
-=======
+# Sipholagena hertwigiana (Brady, 1881) SPECIES
 
 #### Status
 ACCEPTED

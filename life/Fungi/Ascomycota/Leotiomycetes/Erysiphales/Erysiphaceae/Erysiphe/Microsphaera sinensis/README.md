@@ -1,5 +1,4 @@
-Microsphaera sinensis Y.N. Yu SPECIES
-=======
+# Microsphaera sinensis Y.N. Yu SPECIES
 
 #### Status
 ACCEPTED

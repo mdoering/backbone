@@ -1,5 +1,4 @@
-Orthoamphisiella grelli Eigner & Foissner, 1993 SPECIES
-=======
+# Orthoamphisiella grelli Eigner & Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

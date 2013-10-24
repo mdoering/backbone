@@ -1,5 +1,4 @@
-Lichen infundibuliformis Ramond SPECIES
-=======
+# Lichen infundibuliformis Ramond SPECIES
 
 #### Status
 ACCEPTED

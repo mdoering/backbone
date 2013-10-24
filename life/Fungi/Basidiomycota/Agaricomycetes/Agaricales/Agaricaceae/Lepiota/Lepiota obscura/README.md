@@ -1,14 +1,13 @@
-Lepiota griseovirens var. obscura Locq. ex Bon, 1976 VARIETY
-=======
+# Lepiota obscura (Locq. ex Bon) Bon, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 6(no. 24): 44 (1976)
+null
 
 #### Original name
 Lepiota griseovirens var. obscura Locq. ex Bon, 1976

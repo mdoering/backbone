@@ -1,5 +1,4 @@
-Dermoloma inconspicuum Dennis SPECIES
-=======
+# Dermoloma inconspicuum Dennis SPECIES
 
 #### Status
 ACCEPTED

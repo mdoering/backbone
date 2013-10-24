@@ -1,5 +1,4 @@
-Bartlettiella fragilis D.J. Galloway & P.M. Jørg. SPECIES
-=======
+# Bartlettiella fragilis D.J. Galloway & P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

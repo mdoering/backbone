@@ -1,5 +1,4 @@
-Aschersonia suzukii Miyabe & Sawada SPECIES
-=======
+# Aschersonia suzukii Miyabe & Sawada SPECIES
 
 #### Status
 ACCEPTED

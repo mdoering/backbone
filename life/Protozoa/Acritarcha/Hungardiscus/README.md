@@ -1,5 +1,4 @@
-Hungardiscus Krivan-Hutter, 1963 GENUS
-=======
+# Hungardiscus Krivan-Hutter, 1963 GENUS
 
 #### Status
 ACCEPTED

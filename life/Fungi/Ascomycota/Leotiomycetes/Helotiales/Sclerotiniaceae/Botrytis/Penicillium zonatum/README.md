@@ -1,5 +1,4 @@
-Penicillium zonatum Hodges & T.J. Perry, 1973 SPECIES
-=======
+# Penicillium zonatum Hodges & T.J. Perry, 1973 SPECIES
 
 #### Status
 DOUBTFUL

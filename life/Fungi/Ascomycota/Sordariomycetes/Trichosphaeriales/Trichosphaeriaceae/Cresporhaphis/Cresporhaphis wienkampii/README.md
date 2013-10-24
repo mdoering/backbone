@@ -1,14 +1,13 @@
-Amerosympodula wienkampii (J. Lahm ex Hazsl.) M.B. Aguirre SPECIES
-=======
+# Cresporhaphis wienkampii (J. Lahm ex Hazsl.) M.B. Aguirre, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 21(2): 154 (1991)
 
 #### Original name
 null

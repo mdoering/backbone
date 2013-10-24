@@ -1,5 +1,4 @@
-Phyllosticta tenuipes (Tassi) Allesch. SPECIES
-=======
+# Phyllosticta tenuipes (Tassi) Allesch. SPECIES
 
 #### Status
 ACCEPTED

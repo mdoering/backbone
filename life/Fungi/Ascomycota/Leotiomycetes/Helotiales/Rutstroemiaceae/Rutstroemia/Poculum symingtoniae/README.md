@@ -1,14 +1,13 @@
-Poculum symingtonius (K.S. Thind & H. Singh) K.S. Thind & M.P. Sharma SPECIES
-=======
+# Poculum symingtoniae (K.S. Thind & H. Singh) K.S. Thind & M.P. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 91: 191 (1983)
 
 #### Original name
 Rutstroemia symingtoniae K.S. Thind & H. Singh

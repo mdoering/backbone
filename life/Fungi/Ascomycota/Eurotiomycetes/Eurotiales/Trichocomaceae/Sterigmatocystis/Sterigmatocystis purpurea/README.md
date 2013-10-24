@@ -1,5 +1,4 @@
-Sterigmatocystis purpurea Tiegh. SPECIES
-=======
+# Sterigmatocystis purpurea Tiegh. SPECIES
 
 #### Status
 ACCEPTED

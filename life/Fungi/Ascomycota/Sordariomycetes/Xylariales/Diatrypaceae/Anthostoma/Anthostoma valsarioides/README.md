@@ -1,5 +1,4 @@
-Anthostoma valsarioides Penz. & Sacc. SPECIES
-=======
+# Anthostoma valsarioides Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

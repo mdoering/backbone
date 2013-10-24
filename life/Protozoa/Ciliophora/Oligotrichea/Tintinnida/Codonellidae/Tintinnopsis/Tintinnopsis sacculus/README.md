@@ -1,5 +1,4 @@
-Tintinnopsis sacculus Brandt, 1896 SPECIES
-=======
+# Tintinnopsis sacculus Brandt, 1896 SPECIES
 
 #### Status
 ACCEPTED

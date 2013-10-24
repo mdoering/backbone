@@ -1,5 +1,4 @@
-Chaetoplaca Sydow & P. Sydow, 1917 GENUS
-=======
+# Chaetoplaca Sydow & P. Sydow, 1917 GENUS
 
 #### Status
 ACCEPTED

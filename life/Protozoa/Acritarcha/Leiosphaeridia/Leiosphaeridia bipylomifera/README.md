@@ -1,5 +1,4 @@
-Leiosphaeridia bipylomifera Palacios in Palacios & Moczydlowska, 1998 SPECIES
-=======
+# Leiosphaeridia bipylomifera Palacios in Palacios & Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

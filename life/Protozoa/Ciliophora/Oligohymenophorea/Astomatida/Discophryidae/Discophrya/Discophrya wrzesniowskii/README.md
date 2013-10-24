@@ -1,5 +1,4 @@
-Discophrya wrzesniowskii SPECIES
-=======
+# Discophrya wrzesniowskii SPECIES
 
 #### Status
 ACCEPTED

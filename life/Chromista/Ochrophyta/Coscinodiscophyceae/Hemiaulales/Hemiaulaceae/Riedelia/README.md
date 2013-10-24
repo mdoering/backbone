@@ -1,5 +1,4 @@
-Riedelia A.P.Jousé & V.S.Sheshukova-Poretzkaya, 1971 GENUS
-=======
+# Riedelia A.P.Jousé & V.S.Sheshukova-Poretzkaya, 1971 GENUS
 
 #### Status
 SYNONYM

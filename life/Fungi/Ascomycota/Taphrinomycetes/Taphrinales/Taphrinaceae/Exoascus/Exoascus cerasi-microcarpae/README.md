@@ -1,5 +1,4 @@
-Exoascus cerasi-microcarpae Kuschke SPECIES
-=======
+# Exoascus cerasi-microcarpae Kuschke SPECIES
 
 #### Status
 ACCEPTED

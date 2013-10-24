@@ -1,17 +1,16 @@
-Hysterium mytilinum Pers., 1801 SPECIES
-=======
+# Lophium mytilinum (Pers.) Fr., 1818 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) (1801)
+Observ. mycol. (Havniae) 2: 345 (1818)
 
 #### Original name
-Hysterium mytilinum Pers., 1801
+Lophium mytilinum (Pers.) Fr., 1818
 
 ### Remarks
 null

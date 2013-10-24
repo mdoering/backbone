@@ -1,5 +1,4 @@
-Hirsutella abietina (Höhn.) Petch SPECIES
-=======
+# Hirsutella abietina (Höhn.) Petch SPECIES
 
 #### Status
 ACCEPTED

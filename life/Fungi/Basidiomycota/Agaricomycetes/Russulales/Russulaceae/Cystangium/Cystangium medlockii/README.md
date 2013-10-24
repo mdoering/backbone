@@ -1,14 +1,13 @@
-Martellia medlockii Trappe & Castellano, 1986 SPECIES
-=======
+# Cystangium medlockii (Trappe & Castellano) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 78(6): 918 (1986)
+Mycotaxon 81: 197 (2002)
 
 #### Original name
 Martellia medlockii Trappe & Castellano, 1986

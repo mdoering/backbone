@@ -1,5 +1,4 @@
-Aecidium alibertiae Arthur SPECIES
-=======
+# Aecidium alibertiae Arthur SPECIES
 
 #### Status
 ACCEPTED

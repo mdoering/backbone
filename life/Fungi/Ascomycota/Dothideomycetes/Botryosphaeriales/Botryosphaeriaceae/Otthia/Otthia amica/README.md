@@ -1,5 +1,4 @@
-Otthia amica Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Otthia amica Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

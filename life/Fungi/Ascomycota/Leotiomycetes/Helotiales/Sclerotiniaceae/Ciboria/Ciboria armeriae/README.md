@@ -1,5 +1,4 @@
-Ciboria armeriae Höhn. SPECIES
-=======
+# Ciboria armeriae Höhn. SPECIES
 
 #### Status
 ACCEPTED

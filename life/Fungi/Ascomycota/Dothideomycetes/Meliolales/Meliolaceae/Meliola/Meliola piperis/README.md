@@ -1,17 +1,16 @@
-Meliola piperae Thite & S.D. Patil SPECIES
-=======
+# Meliola piperis Earle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Muhlenbergia 1: 12 (1901)
 
 #### Original name
-Meliola piperae Thite & S.D. Patil
+Meliola piperis Earle
 
 ### Remarks
 null

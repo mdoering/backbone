@@ -1,5 +1,4 @@
-Asteridiella sepulta (Pat.) Hansf. SPECIES
-=======
+# Asteridiella sepulta (Pat.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

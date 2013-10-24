@@ -1,17 +1,16 @@
-Sticta crocata f. crocata FORM
-=======
+# Pseudocyphellaria crocata (L.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 37: 34 (1898)
 
 #### Original name
-Sticta crocata f. crocata
+Lichen crocatus L.
 
 ### Remarks
 null

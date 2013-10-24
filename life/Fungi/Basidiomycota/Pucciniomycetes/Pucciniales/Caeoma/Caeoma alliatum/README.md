@@ -1,5 +1,4 @@
-Caeoma alliatum Link SPECIES
-=======
+# Caeoma alliatum Link SPECIES
 
 #### Status
 ACCEPTED

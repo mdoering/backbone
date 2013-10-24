@@ -1,5 +1,4 @@
-Thelephora funalis Lév. SPECIES
-=======
+# Thelephora funalis Lév. SPECIES
 
 #### Status
 ACCEPTED

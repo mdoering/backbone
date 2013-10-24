@@ -1,5 +1,4 @@
-Comoclathris compressa (Harkn.) Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris compressa (Harkn.) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

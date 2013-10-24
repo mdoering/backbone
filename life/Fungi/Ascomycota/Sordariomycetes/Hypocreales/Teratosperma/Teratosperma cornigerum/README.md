@@ -1,5 +1,4 @@
-Teratosperma cornigerum (Ellis & Everh.) M.B. Ellis SPECIES
-=======
+# Teratosperma cornigerum (Ellis & Everh.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

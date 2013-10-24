@@ -1,5 +1,4 @@
-Coccocarpia micheneri Tuck. SPECIES
-=======
+# Coccocarpia micheneri Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lysospora singularis (Magnus) Arthur SPECIES
-=======
+# Lysospora singularis (Magnus) Arthur SPECIES
 
 #### Status
 ACCEPTED

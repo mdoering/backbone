@@ -1,5 +1,4 @@
-Parmelia inconstans Zahlbr. SPECIES
-=======
+# Parmelia inconstans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

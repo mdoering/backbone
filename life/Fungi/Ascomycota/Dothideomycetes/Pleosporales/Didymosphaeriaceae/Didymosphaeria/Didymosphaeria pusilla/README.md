@@ -1,5 +1,4 @@
-Didymosphaeria pusilla Speg. SPECIES
-=======
+# Didymosphaeria pusilla Speg. SPECIES
 
 #### Status
 ACCEPTED

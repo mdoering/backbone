@@ -1,14 +1,13 @@
-Datronia sajanensis (Parmasto) Domanski, 1974 SPECIES
-=======
+# Piloporia sajanensis (Parmasto) Niemelä, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mala flora grzybów. Tom I: Basidiomycetes (Podstawczaki), Aphyllophorales (Bezblaszkowe). Bondarzewiaceae, Fistulinaceae, Ganodermataceae, Polyporaceae (Warszawa-Krakow) 1: 196 (1974)
+Karstenia 22(1): 13 (1982)
 
 #### Original name
 Antrodia sajanensis Parmasto, 1962

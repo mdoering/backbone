@@ -1,5 +1,4 @@
-Panartella Haeckel, 1887 GENUS
-=======
+# Panartella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

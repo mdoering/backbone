@@ -1,17 +1,16 @@
-Placodium radiosum var. radiosum VARIETY
-=======
+# Aspicilia radiosa (Hoffm.) Poelt & Leuckert SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+in Hermann et al. , Willdenowia 7: 25 (1973)
 
 #### Original name
-null
+Lichen radiosus Hoffm.
 
 ### Remarks
 null

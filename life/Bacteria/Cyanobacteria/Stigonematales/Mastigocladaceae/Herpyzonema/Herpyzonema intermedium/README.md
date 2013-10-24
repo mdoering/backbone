@@ -1,5 +1,4 @@
-Herpyzonema intermedium Weber-van Bosse SPECIES
-=======
+# Herpyzonema intermedium Weber-van Bosse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria carestiae Pass. SPECIES
-=======
+# Trematosphaeria carestiae Pass. SPECIES
 
 #### Status
 ACCEPTED

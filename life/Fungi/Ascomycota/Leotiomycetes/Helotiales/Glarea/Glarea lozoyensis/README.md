@@ -1,5 +1,4 @@
-Glarea lozoyensis Bills & Peláez, 1999 SPECIES
-=======
+# Glarea lozoyensis Bills & Peláez, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mariona Stempell, 1909 GENUS
-=======
+# Nosema Nägeli, 1857 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Arch. Protistenk. , 16, 339.
+Tagebl. Vers. Dtsch. Naturf. , 33 (4), 27.
 
 #### Original name
-null
+Nosema Nägeli, 1857
 
 ### Remarks
 null

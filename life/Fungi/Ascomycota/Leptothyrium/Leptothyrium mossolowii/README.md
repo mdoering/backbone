@@ -1,5 +1,4 @@
-Leptothyrium mossolowii Henn. SPECIES
-=======
+# Leptothyrium mossolowii Henn. SPECIES
 
 #### Status
 ACCEPTED

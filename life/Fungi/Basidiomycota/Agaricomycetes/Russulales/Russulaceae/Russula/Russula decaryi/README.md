@@ -1,5 +1,4 @@
-Russula decaryi R. Heim SPECIES
-=======
+# Russula decaryi R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia distorta Ach. SPECIES
-=======
+# Parmelia distorta Ach. SPECIES
 
 #### Status
 ACCEPTED

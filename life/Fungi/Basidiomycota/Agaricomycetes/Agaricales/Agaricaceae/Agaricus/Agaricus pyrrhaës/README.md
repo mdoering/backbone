@@ -1,17 +1,16 @@
-Agaricus pyrrhaes Berk. & Broome SPECIES
-=======
+# Agaricus pyrrhaës Berk. & Broome SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 11(no. 56): 508 (1871)
 
 #### Original name
-Agaricus pyrrhaes Berk. & Broome
+Agaricus pyrrhaës Berk. & Broome
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Scopulariopsis murina Samson & Klopotek, 1972 SPECIES
-=======
+# Scopulariopsis murina Samson & Klopotek, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia spiraeae-ulmariae Hedw. SPECIES
-=======
+# Puccinia spiraeae-ulmariae Hedw. SPECIES
 
 #### Status
 ACCEPTED

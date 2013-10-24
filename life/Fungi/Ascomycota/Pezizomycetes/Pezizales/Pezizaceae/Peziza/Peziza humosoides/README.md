@@ -1,5 +1,4 @@
-Peziza humosoides Peck SPECIES
-=======
+# Peziza humosoides Peck SPECIES
 
 #### Status
 ACCEPTED

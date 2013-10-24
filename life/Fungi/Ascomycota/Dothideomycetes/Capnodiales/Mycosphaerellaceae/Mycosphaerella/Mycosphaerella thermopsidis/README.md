@@ -1,5 +1,4 @@
-Mycosphaerella thermopsidis Kalymb. SPECIES
-=======
+# Mycosphaerella thermopsidis Kalymb. SPECIES
 
 #### Status
 ACCEPTED

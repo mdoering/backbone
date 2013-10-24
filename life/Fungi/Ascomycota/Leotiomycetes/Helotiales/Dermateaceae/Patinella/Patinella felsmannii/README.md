@@ -1,5 +1,4 @@
-Patinella felsmannii (Stein) Rehm SPECIES
-=======
+# Patinella felsmannii (Stein) Rehm SPECIES
 
 #### Status
 ACCEPTED

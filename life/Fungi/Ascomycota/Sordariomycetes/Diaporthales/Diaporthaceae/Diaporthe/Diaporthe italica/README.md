@@ -1,5 +1,4 @@
-Diaporthe italica (Sacc.) Traverso SPECIES
-=======
+# Diaporthe italica (Sacc.) Traverso SPECIES
 
 #### Status
 ACCEPTED

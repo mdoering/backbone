@@ -1,5 +1,4 @@
-Macrosporium cynanchi Lobik SPECIES
-=======
+# Macrosporium cynanchi Lobik SPECIES
 
 #### Status
 ACCEPTED

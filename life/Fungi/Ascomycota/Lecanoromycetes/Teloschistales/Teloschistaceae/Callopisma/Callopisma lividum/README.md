@@ -1,5 +1,4 @@
-Callopisma lividum (Hepp) Körb. SPECIES
-=======
+# Callopisma lividum (Hepp) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus brunneopunctus E. Horak SPECIES
-=======
+# Pluteus brunneopunctus E. Horak SPECIES
 
 #### Status
 ACCEPTED

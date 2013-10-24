@@ -1,5 +1,4 @@
-Echinamoeba Page, 1975 GENUS
-=======
+# Echinamoeba Page, 1975 GENUS
 
 #### Status
 ACCEPTED

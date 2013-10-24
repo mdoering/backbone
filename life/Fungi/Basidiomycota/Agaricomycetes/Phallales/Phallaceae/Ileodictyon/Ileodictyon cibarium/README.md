@@ -1,17 +1,16 @@
-Clathrus cibarius var. cibarius VARIETY
-=======
+# Ileodictyon cibarium Tul., 1844 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Raoul, Annls Sci. Nat. , Bot. , sér. 3 2: 114 (1844)
 
 #### Original name
-null
+Ileodictyon cibarium Tul., 1844
 
 ### Remarks
 null

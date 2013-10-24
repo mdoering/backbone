@@ -1,5 +1,4 @@
-Catinaster coalitus SPECIES
-=======
+# Catinaster coalitus SPECIES
 
 #### Status
 ACCEPTED

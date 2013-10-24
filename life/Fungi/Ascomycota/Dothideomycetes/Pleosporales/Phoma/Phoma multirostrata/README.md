@@ -1,17 +1,16 @@
-Phoma multirostrata var. macrospora Boerema VARIETY
-=======
+# Phoma multirostrata (P.N. Mathur, S.K. Menon & Thirum.) Dorenb. & Boerema, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jaarboek Verslagen en Mededelingen Plantenziektenkunidge Dienst Wageningen 29 (1986)
+Mycopath. Mycol. appl. 50(3): 256 (1973)
 
 #### Original name
-Phoma multirostrata var. macrospora Boerema
+Sphaeronaema multirostratum P.N. Mathur, S.K. Menon & Thirum., 1959
 
 ### Remarks
 null

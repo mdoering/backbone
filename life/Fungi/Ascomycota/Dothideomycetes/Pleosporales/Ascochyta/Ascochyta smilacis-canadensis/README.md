@@ -1,5 +1,4 @@
-Ascochyta smilacis-canadensis Punith. SPECIES
-=======
+# Ascochyta smilacis-canadensis Punith. SPECIES
 
 #### Status
 ACCEPTED

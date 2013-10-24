@@ -1,5 +1,4 @@
-Ramalina mahoneyi Quedensley & Véliz SPECIES
-=======
+# Ramalina mahoneyi Quedensley & Véliz SPECIES
 
 #### Status
 ACCEPTED

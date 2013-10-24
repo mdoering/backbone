@@ -1,5 +1,4 @@
-Botrytis paradoxa Bals.-Criv. SPECIES
-=======
+# Botrytis paradoxa Bals.-Criv. SPECIES
 
 #### Status
 ACCEPTED

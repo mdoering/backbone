@@ -1,5 +1,4 @@
-Irpex ochrosimilis Lloyd, 1924 SPECIES
-=======
+# Irpex ochrosimilis Lloyd, 1924 SPECIES
 
 #### Status
 ACCEPTED

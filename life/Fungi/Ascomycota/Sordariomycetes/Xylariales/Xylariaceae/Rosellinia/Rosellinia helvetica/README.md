@@ -1,5 +1,4 @@
-Rosellinia helvetica L.E. Petrini, Petrini & S.M. Francis, 1989 SPECIES
-=======
+# Rosellinia helvetica L.E. Petrini, Petrini & S.M. Francis, 1989 SPECIES
 
 #### Status
 ACCEPTED

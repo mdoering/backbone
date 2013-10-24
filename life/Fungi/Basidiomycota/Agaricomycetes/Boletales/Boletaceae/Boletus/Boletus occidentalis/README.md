@@ -1,5 +1,4 @@
-Boletus occidentalis Ortiz & T.J. Baroni SPECIES
-=======
+# Boletus occidentalis Ortiz & T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

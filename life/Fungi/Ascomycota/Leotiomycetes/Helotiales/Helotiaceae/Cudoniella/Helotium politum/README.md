@@ -1,5 +1,4 @@
-Helotium politum W. Phillips, 1887 SPECIES
-=======
+# Helotium politum W. Phillips, 1887 SPECIES
 
 #### Status
 ACCEPTED

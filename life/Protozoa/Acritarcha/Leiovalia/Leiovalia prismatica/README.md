@@ -1,5 +1,4 @@
-Leiovalia prismatica Eisenack, 1976 SPECIES
-=======
+# Leiovalia prismatica Eisenack, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paucithecium rickii Lloyd, 1923 SPECIES
-=======
+# Paucithecium rickii Lloyd, 1923 SPECIES
 
 #### Status
 ACCEPTED

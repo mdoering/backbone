@@ -1,5 +1,4 @@
-Opegrapha rimulosa Mont. SPECIES
-=======
+# Opegrapha rimulosa Mont. SPECIES
 
 #### Status
 ACCEPTED

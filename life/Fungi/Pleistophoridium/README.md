@@ -1,5 +1,4 @@
-Pleistophoridium GENUS
-=======
+# Pleistophoridium GENUS
 
 #### Status
 ACCEPTED

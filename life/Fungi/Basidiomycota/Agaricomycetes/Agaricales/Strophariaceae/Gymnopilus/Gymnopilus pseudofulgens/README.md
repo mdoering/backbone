@@ -1,5 +1,4 @@
-Gymnopilus pseudofulgens Romagn. SPECIES
-=======
+# Gymnopilus pseudofulgens Romagn. SPECIES
 
 #### Status
 ACCEPTED

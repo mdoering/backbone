@@ -1,5 +1,4 @@
-Arthonia oblongula Müll. Arg. SPECIES
-=======
+# Arthonia oblongula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

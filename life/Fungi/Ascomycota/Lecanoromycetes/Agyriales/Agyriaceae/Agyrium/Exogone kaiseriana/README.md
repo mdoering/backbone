@@ -1,17 +1,16 @@
-Exogone keiseriana Henn. SPECIES
-=======
+# Exogone kaiseriana Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Verh. bot. Ver. Prov. Brandenb. 50: (1908)
 
 #### Original name
-Exogone keiseriana Henn.
+Exogone kaiseriana Henn.
 
 ### Remarks
 null

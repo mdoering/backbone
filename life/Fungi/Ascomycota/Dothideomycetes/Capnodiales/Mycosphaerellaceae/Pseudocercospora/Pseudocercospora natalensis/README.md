@@ -1,5 +1,4 @@
-Pseudocercospora natalensis Crous & T.A. Cout. SPECIES
-=======
+# Pseudocercospora natalensis Crous & T.A. Cout. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palambages Whetzel, 1961 GENUS
-=======
+# Palambages Whetzel, 1961 GENUS
 
 #### Status
 ACCEPTED

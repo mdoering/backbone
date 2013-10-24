@@ -1,5 +1,4 @@
-Uromyces atlanticus Guyot & Malençon SPECIES
-=======
+# Uromyces atlanticus Guyot & Malençon SPECIES
 
 #### Status
 ACCEPTED

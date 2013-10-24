@@ -1,5 +1,4 @@
-Cercospora kalanchoes Boedijn SPECIES
-=======
+# Cercospora kalanchoes Boedijn SPECIES
 
 #### Status
 ACCEPTED

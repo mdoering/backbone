@@ -1,5 +1,4 @@
-Marasmius bavianus Pat. SPECIES
-=======
+# Marasmius bavianus Pat. SPECIES
 
 #### Status
 ACCEPTED

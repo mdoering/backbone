@@ -1,5 +1,4 @@
-Aeromonas eucrenophila Schubert & Hegazi, 1988 SPECIES
-=======
+# Aeromonas eucrenophila Schubert & Hegazi, 1988 SPECIES
 
 #### Status
 ACCEPTED

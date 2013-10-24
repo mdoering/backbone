@@ -1,5 +1,4 @@
-Placosphaeria decipiens Dearn. & Fairm. SPECIES
-=======
+# Placosphaeria decipiens Dearn. & Fairm. SPECIES
 
 #### Status
 ACCEPTED

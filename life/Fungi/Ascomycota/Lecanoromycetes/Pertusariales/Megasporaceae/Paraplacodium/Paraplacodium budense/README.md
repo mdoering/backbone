@@ -1,5 +1,4 @@
-Paraplacodium budense (Gyeln.) Motyka SPECIES
-=======
+# Paraplacodium budense (Gyeln.) Motyka SPECIES
 
 #### Status
 ACCEPTED

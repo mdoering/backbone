@@ -1,5 +1,4 @@
-Trichonectria cladoniicola (Alstrup & Svane) Alstrup SPECIES
-=======
+# Trichonectria cladoniicola (Alstrup & Svane) Alstrup SPECIES
 
 #### Status
 ACCEPTED

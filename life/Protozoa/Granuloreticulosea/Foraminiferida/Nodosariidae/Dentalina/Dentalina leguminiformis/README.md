@@ -1,5 +1,4 @@
-Dentalina leguminiformis (Batsch, 1791) SPECIES
-=======
+# Dentalina leguminiformis (Batsch, 1791) SPECIES
 
 #### Status
 ACCEPTED

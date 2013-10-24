@@ -1,5 +1,4 @@
-Epistylis constricta Kellicott, 1855 SPECIES
-=======
+# Epistylis constricta Kellicott, 1855 SPECIES
 
 #### Status
 ACCEPTED

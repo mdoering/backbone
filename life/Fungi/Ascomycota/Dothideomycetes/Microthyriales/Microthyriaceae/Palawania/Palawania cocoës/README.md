@@ -1,5 +1,4 @@
-Palawania cocoës Syd. & P. Syd. SPECIES
-=======
+# Palawania cocoës Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

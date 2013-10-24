@@ -1,5 +1,4 @@
-Cercospora italica Curzi, 1932 SPECIES
-=======
+# Cercospora italica Curzi, 1932 SPECIES
 
 #### Status
 ACCEPTED

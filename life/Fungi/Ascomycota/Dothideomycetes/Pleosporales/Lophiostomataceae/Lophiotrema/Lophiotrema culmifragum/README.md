@@ -1,5 +1,4 @@
-Lophiotrema culmifragum Speg., 1879 SPECIES
-=======
+# Lophiotrema culmifragum Speg., 1879 SPECIES
 
 #### Status
 ACCEPTED

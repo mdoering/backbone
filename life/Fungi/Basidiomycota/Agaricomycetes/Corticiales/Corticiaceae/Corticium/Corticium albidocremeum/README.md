@@ -1,5 +1,4 @@
-Corticium albidocremeum Rehill & B.K. Bakshi SPECIES
-=======
+# Corticium albidocremeum Rehill & B.K. Bakshi SPECIES
 
 #### Status
 ACCEPTED

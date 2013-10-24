@@ -1,5 +1,4 @@
-Tephromela persordida Motyka SPECIES
-=======
+# Tephromela persordida Motyka SPECIES
 
 #### Status
 ACCEPTED

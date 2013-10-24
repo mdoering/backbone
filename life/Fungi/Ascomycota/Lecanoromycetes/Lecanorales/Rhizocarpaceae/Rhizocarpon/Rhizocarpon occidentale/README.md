@@ -1,5 +1,4 @@
-Rhizocarpon occidentale Lynge SPECIES
-=======
+# Rhizocarpon occidentale Lynge SPECIES
 
 #### Status
 ACCEPTED

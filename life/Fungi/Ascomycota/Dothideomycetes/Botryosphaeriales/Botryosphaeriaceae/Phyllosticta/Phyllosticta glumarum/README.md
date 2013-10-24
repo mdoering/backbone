@@ -1,5 +1,4 @@
-Phyllosticta glumarum Sacc. SPECIES
-=======
+# Phyllosticta glumarum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosphaeria malorum (Oudem.) Höhn. SPECIES
-=======
+# Placosphaeria malorum (Oudem.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

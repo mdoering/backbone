@@ -1,17 +1,16 @@
-Venturia ilicifolia var. ilicifolia VARIETY
-=======
+# Venturia ilicifolia SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Belgian Species List
 
 #### Published in
 null
 
 #### Original name
-Venturia ilicifolia var. ilicifolia
+null
 
 ### Remarks
 null

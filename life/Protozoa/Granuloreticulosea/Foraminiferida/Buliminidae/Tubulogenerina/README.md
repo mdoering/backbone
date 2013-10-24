@@ -1,5 +1,4 @@
-Tubulogenerina Cushman, 1927 GENUS
-=======
+# Tubulogenerina Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

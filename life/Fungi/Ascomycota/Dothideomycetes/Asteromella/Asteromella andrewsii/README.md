@@ -1,5 +1,4 @@
-Asteromella andrewsii Petr. SPECIES
-=======
+# Asteromella andrewsii Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ospriosporium Corda GENUS
-=======
+# Ospriosporium Corda GENUS
 
 #### Status
 ACCEPTED

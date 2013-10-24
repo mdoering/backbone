@@ -1,5 +1,4 @@
-Crassicollaria latintermedia SPECIES
-=======
+# Crassicollaria latintermedia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces variatus Thaxt. SPECIES
-=======
+# Stigmatomyces variatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

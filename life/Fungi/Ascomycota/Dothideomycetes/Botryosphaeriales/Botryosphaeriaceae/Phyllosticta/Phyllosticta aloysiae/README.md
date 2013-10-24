@@ -1,5 +1,4 @@
-Phyllosticta aloysiae Speg. SPECIES
-=======
+# Phyllosticta aloysiae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acrosporium cerasi Rabenh. SPECIES
-=======
+# Acrosporium cerasi Rabenh. SPECIES
 
 #### Status
 ACCEPTED

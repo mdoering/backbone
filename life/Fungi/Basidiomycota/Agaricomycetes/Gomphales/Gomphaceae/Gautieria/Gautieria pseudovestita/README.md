@@ -1,5 +1,4 @@
-Gautieria pseudovestita Malençon SPECIES
-=======
+# Gautieria pseudovestita Malençon SPECIES
 
 #### Status
 ACCEPTED

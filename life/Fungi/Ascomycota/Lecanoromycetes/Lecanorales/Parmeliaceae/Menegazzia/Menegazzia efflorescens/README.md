@@ -1,5 +1,4 @@
-Menegazzia efflorescens P. James, Aptroot, Sérus. & Diederich SPECIES
-=======
+# Menegazzia efflorescens P. James, Aptroot, Sérus. & Diederich SPECIES
 
 #### Status
 ACCEPTED

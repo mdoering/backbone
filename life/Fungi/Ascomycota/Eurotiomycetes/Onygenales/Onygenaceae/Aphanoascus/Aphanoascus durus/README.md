@@ -1,5 +1,4 @@
-Aphanoascus durus (Zukal) Cano & Guarro SPECIES
-=======
+# Aphanoascus durus (Zukal) Cano & Guarro SPECIES
 
 #### Status
 ACCEPTED

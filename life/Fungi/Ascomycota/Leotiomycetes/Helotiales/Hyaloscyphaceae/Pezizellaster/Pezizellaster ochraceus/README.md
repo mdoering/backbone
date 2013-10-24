@@ -1,5 +1,4 @@
-Pezizellaster ochraceus (Velen.) Svrcek SPECIES
-=======
+# Pezizellaster ochraceus (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

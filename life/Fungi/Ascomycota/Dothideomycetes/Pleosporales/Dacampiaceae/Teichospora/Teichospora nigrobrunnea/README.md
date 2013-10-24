@@ -1,5 +1,4 @@
-Teichospora nigrobrunnea (Schwein.) Starbäck SPECIES
-=======
+# Teichospora nigrobrunnea (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

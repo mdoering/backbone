@@ -1,5 +1,4 @@
-Podonectria gahnia Dingley, 1954 SPECIES
-=======
+# Podonectria gahnia Dingley, 1954 SPECIES
 
 #### Status
 ACCEPTED

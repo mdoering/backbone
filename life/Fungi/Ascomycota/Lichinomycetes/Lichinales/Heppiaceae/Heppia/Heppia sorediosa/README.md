@@ -1,5 +1,4 @@
-Heppia sorediosa Vain. SPECIES
-=======
+# Heppia sorediosa Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora subparellina (Nyl.) SPECIES
-=======
+# Lecanora subparellina (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

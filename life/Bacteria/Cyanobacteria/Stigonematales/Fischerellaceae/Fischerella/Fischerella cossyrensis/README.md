@@ -1,5 +1,4 @@
-Fischerella cossyrensis (Borzì) K. Anagnostidis & J. Komárek SPECIES
-=======
+# Fischerella cossyrensis (Borzì) K. Anagnostidis & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

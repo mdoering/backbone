@@ -1,5 +1,4 @@
-Cordyceps michaelisii Henn. SPECIES
-=======
+# Cordyceps michaelisii Henn. SPECIES
 
 #### Status
 ACCEPTED

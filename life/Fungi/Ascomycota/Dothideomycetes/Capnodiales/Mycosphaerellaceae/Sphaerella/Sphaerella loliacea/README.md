@@ -1,5 +1,4 @@
-Sphaerella loliacea Pass. SPECIES
-=======
+# Sphaerella loliacea Pass. SPECIES
 
 #### Status
 ACCEPTED

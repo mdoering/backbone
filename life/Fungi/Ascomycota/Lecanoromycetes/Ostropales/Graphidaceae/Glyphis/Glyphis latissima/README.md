@@ -1,5 +1,4 @@
-Glyphis latissima (Vain.) Zahlbr. SPECIES
-=======
+# Glyphis latissima (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

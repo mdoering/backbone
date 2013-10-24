@@ -1,14 +1,13 @@
-Pocillaria cubensis (Berk. & M.A. Curtis) Kuntze, 1891 SPECIES
-=======
+# Lentinula cubensis (Berk. & M.A. Curtis) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Bulletin of the New York Botanical Garden 5: 417 (1909)
 
 #### Original name
 Lentinus cubensis Berk. & M.A. Curtis, 1868

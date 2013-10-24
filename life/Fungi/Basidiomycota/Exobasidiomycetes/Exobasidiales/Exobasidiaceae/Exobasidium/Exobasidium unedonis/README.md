@@ -1,5 +1,4 @@
-Exobasidium unedonis Maire, 1916 SPECIES
-=======
+# Exobasidium unedonis Maire, 1916 SPECIES
 
 #### Status
 ACCEPTED

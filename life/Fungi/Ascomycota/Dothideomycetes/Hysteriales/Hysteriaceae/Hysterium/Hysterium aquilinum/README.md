@@ -1,5 +1,4 @@
-Hysterium aquilinum Schumach. SPECIES
-=======
+# Hysterium aquilinum Schumach. SPECIES
 
 #### Status
 ACCEPTED

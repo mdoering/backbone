@@ -1,5 +1,4 @@
-Herteliana taylorii (Salwey) P. James SPECIES
-=======
+# Herteliana taylorii (Salwey) P. James SPECIES
 
 #### Status
 ACCEPTED

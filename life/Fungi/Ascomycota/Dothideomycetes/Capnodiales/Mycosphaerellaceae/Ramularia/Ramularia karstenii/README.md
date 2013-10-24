@@ -1,5 +1,4 @@
-Ramularia karstenii Sacc. SPECIES
-=======
+# Ramularia karstenii Sacc. SPECIES
 
 #### Status
 ACCEPTED

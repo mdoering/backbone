@@ -1,5 +1,4 @@
-Thelephora caespitulans Schwein. SPECIES
-=======
+# Thelephora caespitulans Schwein. SPECIES
 
 #### Status
 ACCEPTED

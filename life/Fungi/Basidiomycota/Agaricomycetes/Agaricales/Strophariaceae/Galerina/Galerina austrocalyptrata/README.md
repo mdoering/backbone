@@ -1,17 +1,16 @@
-Galerina austrocalyptrata var. austrocalyptrata VARIETY
-=======
+# Galerina austrocalyptrata A.H. Sm. & Singer, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Galerina 82 (1964)
 
 #### Original name
-Galerina austrocalyptrata var. austrocalyptrata
+Galerina austrocalyptrata A.H. Sm. & Singer, 1964
 
 ### Remarks
 null

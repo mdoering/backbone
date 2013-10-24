@@ -1,5 +1,4 @@
-Psora crepera (Nyl.) Boistel SPECIES
-=======
+# Psora crepera (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

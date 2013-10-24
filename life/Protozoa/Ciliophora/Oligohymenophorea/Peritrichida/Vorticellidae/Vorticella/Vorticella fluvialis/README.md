@@ -1,5 +1,4 @@
-Vorticella fluvialis Fromentel, 1876 SPECIES
-=======
+# Vorticella fluvialis Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Farinaria GENUS
-=======
+# Farinaria GENUS
 
 #### Status
 ACCEPTED

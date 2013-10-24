@@ -1,5 +1,4 @@
-Parmelia recurviscens Harm. SPECIES
-=======
+# Parmelia recurviscens Harm. SPECIES
 
 #### Status
 ACCEPTED

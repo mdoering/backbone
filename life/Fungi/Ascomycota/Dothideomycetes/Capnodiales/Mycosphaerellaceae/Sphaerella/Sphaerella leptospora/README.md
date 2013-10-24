@@ -1,5 +1,4 @@
-Sphaerella leptospora Sacc. & Scalia SPECIES
-=======
+# Sphaerella leptospora Sacc. & Scalia SPECIES
 
 #### Status
 ACCEPTED

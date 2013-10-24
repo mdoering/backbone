@@ -1,5 +1,4 @@
-Ustilago danthoniae Kalchbr. SPECIES
-=======
+# Ustilago danthoniae Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia schistocarphae H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia schistocarphae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

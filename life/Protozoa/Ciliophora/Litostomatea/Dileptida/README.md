@@ -1,5 +1,4 @@
-Dileptida ORDER
-=======
+# Dileptida ORDER
 
 #### Status
 ACCEPTED

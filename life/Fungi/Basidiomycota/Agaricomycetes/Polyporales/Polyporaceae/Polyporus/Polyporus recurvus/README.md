@@ -1,5 +1,4 @@
-Polyporus recurvus Berk. SPECIES
-=======
+# Polyporus recurvus Berk. SPECIES
 
 #### Status
 ACCEPTED

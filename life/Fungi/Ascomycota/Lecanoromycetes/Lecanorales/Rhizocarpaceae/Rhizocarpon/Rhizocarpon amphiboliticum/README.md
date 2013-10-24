@@ -1,5 +1,4 @@
-Rhizocarpon amphiboliticum Räsänen SPECIES
-=======
+# Rhizocarpon amphiboliticum Räsänen SPECIES
 
 #### Status
 ACCEPTED

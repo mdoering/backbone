@@ -1,17 +1,16 @@
-Microthyrium thuyae Dearn. SPECIES
-=======
+# Microthyrium thujae Dearn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 16(4): 154 (1924)
 
 #### Original name
-Microthyrium thuyae Dearn.
+Microthyrium thujae Dearn.
 
 ### Remarks
 null

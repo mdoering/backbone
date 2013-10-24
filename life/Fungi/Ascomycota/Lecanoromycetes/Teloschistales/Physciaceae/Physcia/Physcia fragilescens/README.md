@@ -1,5 +1,4 @@
-Physcia fragilescens Zahlbr. SPECIES
-=======
+# Physcia fragilescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

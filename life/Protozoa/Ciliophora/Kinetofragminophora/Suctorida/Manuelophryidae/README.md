@@ -1,5 +1,4 @@
-Manuelophryidae Dovgal, 2002 FAMILY
-=======
+# Manuelophryidae Dovgal, 2002 FAMILY
 
 #### Status
 ACCEPTED

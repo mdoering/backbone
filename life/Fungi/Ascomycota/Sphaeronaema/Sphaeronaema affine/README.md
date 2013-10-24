@@ -1,5 +1,4 @@
-Sphaeronaema affine Sacc. SPECIES
-=======
+# Sphaeronaema affine Sacc. SPECIES
 
 #### Status
 ACCEPTED

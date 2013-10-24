@@ -1,5 +1,4 @@
-Helmisporium velutinum Link SPECIES
-=======
+# Helmisporium velutinum Link SPECIES
 
 #### Status
 ACCEPTED

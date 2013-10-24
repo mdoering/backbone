@@ -1,8 +1,7 @@
-Anaerovibrio glycerini Schauder & Schink, 1996 SPECIES
-=======
+# Anaerosinus glycerini (Schauder & Schink, 1996) Strömpl et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

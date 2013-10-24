@@ -1,5 +1,4 @@
-Aspicilia faxinensis (Müll. Arg.) Hue SPECIES
-=======
+# Aspicilia faxinensis (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

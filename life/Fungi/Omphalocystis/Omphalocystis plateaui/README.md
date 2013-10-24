@@ -1,5 +1,4 @@
-Omphalocystis plateaui Balbiani SPECIES
-=======
+# Omphalocystis plateaui Balbiani SPECIES
 
 #### Status
 ACCEPTED

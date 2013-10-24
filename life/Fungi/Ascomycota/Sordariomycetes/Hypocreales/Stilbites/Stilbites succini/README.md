@@ -1,5 +1,4 @@
-Stilbites succini (Casp.) Pia SPECIES
-=======
+# Stilbites succini (Casp.) Pia SPECIES
 
 #### Status
 ACCEPTED

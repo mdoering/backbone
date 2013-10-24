@@ -1,5 +1,4 @@
-Cercospora atylosigena Bhartiya, Narayan, A.N. Singh bis & N. Kumari SPECIES
-=======
+# Cercospora atylosigena Bhartiya, Narayan, A.N. Singh bis & N. Kumari SPECIES
 
 #### Status
 ACCEPTED

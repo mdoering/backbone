@@ -1,5 +1,4 @@
-Transversopontis latus Müller, 1970 SPECIES
-=======
+# Transversopontis latus Müller, 1970 SPECIES
 
 #### Status
 ACCEPTED

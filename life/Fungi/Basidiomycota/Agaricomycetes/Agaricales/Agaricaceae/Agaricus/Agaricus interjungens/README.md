@@ -1,5 +1,4 @@
-Agaricus interjungens Britzelm. SPECIES
-=======
+# Agaricus interjungens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Thelotrema leucotylium Nyl. SPECIES
-=======
+# Ocellularia leucotylia (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 30: 51 (1891)
 
 #### Original name
 Thelotrema leucotylium Nyl.

@@ -1,5 +1,4 @@
-Physcia dalei C.W. Dodge SPECIES
-=======
+# Physcia dalei C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

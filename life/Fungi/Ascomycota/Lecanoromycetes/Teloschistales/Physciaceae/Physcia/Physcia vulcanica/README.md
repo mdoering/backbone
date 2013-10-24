@@ -1,5 +1,4 @@
-Physcia vulcanica J. Steiner SPECIES
-=======
+# Physcia vulcanica J. Steiner SPECIES
 
 #### Status
 ACCEPTED

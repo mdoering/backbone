@@ -1,5 +1,4 @@
-Lithoptychius Aubry in Aubry, Bord & Rodriguez, 2011 GENUS
-=======
+# Lithoptychius Aubry in Aubry, Bord & Rodriguez, 2011 GENUS
 
 #### Status
 ACCEPTED

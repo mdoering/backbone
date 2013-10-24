@@ -1,5 +1,4 @@
-Jatuliana Korde GENUS
-=======
+# Jatuliana Korde GENUS
 
 #### Status
 ACCEPTED

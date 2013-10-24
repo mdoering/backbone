@@ -1,5 +1,4 @@
-Opegrapha heterospora Vain. SPECIES
-=======
+# Opegrapha heterospora Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Xylodon versiporus f. versiporus FORM
-=======
+# Schizopora paradoxa (Schrad.) Donk, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trutovye griby Evropeiskoi chasti SSSR i Kavkaza (Moscow) 128 (1953)
+Persoonia 5(1): 76 (1967)
 
 #### Original name
-Xylodon versiporus f. versiporus
+Hydnum paradoxum Schultz, 1806
 
 ### Remarks
 null

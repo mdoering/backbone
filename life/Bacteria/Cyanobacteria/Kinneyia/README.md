@@ -1,5 +1,4 @@
-Kinneyia Walcott GENUS
-=======
+# Kinneyia Walcott GENUS
 
 #### Status
 ACCEPTED

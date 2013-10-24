@@ -1,5 +1,4 @@
-Lagena crenata Parker & Jones, 1865 SPECIES
-=======
+# Lagena crenata Parker & Jones, 1865 SPECIES
 
 #### Status
 ACCEPTED

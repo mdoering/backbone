@@ -1,5 +1,4 @@
-Isaria velutipes Link SPECIES
-=======
+# Isaria velutipes Link SPECIES
 
 #### Status
 ACCEPTED

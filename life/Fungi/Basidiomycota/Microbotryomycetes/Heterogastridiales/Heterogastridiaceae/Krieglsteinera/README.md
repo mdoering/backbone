@@ -1,5 +1,4 @@
-Krieglsteinera Pouzar GENUS
-=======
+# Krieglsteinera Pouzar GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia glaziovii (Allesch.) M.B. Ellis SPECIES
-=======
+# Diplodia glaziovii (Allesch.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

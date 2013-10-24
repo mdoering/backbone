@@ -1,5 +1,4 @@
-Chaenothecopsis ussuriensis Titov SPECIES
-=======
+# Chaenothecopsis ussuriensis Titov SPECIES
 
 #### Status
 ACCEPTED

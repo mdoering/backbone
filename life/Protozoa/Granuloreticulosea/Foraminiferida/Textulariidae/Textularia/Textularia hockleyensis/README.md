@@ -1,5 +1,4 @@
-Textularia hockleyensis Cushman & Aplin SPECIES
-=======
+# Textularia hockleyensis Cushman & Aplin SPECIES
 
 #### Status
 ACCEPTED

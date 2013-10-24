@@ -1,5 +1,4 @@
-Dioicomyces leptalei Santam. SPECIES
-=======
+# Dioicomyces leptalei Santam. SPECIES
 
 #### Status
 ACCEPTED

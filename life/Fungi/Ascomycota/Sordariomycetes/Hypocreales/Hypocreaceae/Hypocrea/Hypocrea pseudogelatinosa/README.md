@@ -1,5 +1,4 @@
-Hypocrea pseudogelatinosa A. Komatsu & Yoshim. Doi SPECIES
-=======
+# Hypocrea pseudogelatinosa A. Komatsu & Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

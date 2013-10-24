@@ -1,5 +1,4 @@
-Marasmius alliifoetidus Corner SPECIES
-=======
+# Marasmius alliifoetidus Corner SPECIES
 
 #### Status
 ACCEPTED

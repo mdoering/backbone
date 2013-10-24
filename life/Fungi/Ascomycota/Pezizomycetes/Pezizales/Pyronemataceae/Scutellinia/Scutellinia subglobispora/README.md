@@ -1,5 +1,4 @@
-Scutellinia subglobispora Svrcek & J. Moravec SPECIES
-=======
+# Scutellinia subglobispora Svrcek & J. Moravec SPECIES
 
 #### Status
 ACCEPTED

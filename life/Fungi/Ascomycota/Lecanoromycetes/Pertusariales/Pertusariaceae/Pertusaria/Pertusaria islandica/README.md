@@ -1,5 +1,4 @@
-Pertusaria islandica Bratt, Lumbsch & Schmitt SPECIES
-=======
+# Pertusaria islandica Bratt, Lumbsch & Schmitt SPECIES
 
 #### Status
 ACCEPTED

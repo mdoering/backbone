@@ -1,5 +1,4 @@
-Hazlinszkya xylographoides Stein SPECIES
-=======
+# Hazlinszkya xylographoides Stein SPECIES
 
 #### Status
 ACCEPTED

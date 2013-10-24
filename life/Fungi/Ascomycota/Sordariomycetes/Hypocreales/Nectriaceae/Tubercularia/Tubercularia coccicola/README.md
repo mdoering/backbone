@@ -1,5 +1,4 @@
-Tubercularia coccicola J.A. Stev. SPECIES
-=======
+# Tubercularia coccicola J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

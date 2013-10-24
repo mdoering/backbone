@@ -1,5 +1,4 @@
-Cephalosporium macrocarpum Corda SPECIES
-=======
+# Cephalosporium macrocarpum Corda SPECIES
 
 #### Status
 ACCEPTED

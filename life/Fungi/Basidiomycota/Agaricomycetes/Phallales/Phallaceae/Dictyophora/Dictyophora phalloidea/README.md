@@ -1,5 +1,4 @@
-Dictyophora phalloidea f. phalloidea FORM
-=======
+# Dictyophora phalloidea Lév. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dictyophora phalloidea f. phalloidea
+Dictyophora phalloidea Lév.
 
 ### Remarks
 null

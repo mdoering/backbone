@@ -1,5 +1,4 @@
-Valsa tenebricosa Berk. & Broome SPECIES
-=======
+# Valsa tenebricosa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

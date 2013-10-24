@@ -1,5 +1,4 @@
-Clavaria pullei Donk SPECIES
-=======
+# Clavaria pullei Donk SPECIES
 
 #### Status
 ACCEPTED

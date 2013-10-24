@@ -1,5 +1,4 @@
-Protoleiosphaeridium solidum Liu Kuizhih & Xing Yusheng in Xing Yusheng & Liu Kuizhih, 1973 SPECIES
-=======
+# Protoleiosphaeridium solidum Liu Kuizhih & Xing Yusheng in Xing Yusheng & Liu Kuizhih, 1973 SPECIES
 
 #### Status
 ACCEPTED

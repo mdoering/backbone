@@ -1,5 +1,4 @@
-Dialonectria viticola (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Dialonectria viticola (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

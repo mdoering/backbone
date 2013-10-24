@@ -1,5 +1,4 @@
-Galerina physospora Singer SPECIES
-=======
+# Galerina physospora Singer SPECIES
 
 #### Status
 ACCEPTED

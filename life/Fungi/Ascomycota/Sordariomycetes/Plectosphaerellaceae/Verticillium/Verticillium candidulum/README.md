@@ -1,5 +1,4 @@
-Verticillium candidulum Sacc. SPECIES
-=======
+# Verticillium candidulum Sacc. SPECIES
 
 #### Status
 ACCEPTED

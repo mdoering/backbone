@@ -1,5 +1,4 @@
-Uvigerina cylindrica cylindrica (d'Orbigny, 1826) SUBSPECIES
-=======
+# Uvigerina cylindrica (d'Orbigny, 1826) SPECIES
 
 #### Status
 ACCEPTED

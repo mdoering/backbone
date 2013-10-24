@@ -1,5 +1,4 @@
-Cheirosporium L. Cai & K.D. Hyde GENUS
-=======
+# Cheirosporium L. Cai & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

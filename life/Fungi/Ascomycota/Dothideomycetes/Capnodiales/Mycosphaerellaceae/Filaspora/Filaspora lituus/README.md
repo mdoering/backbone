@@ -1,5 +1,4 @@
-Filaspora lituus (Berk. & Broome) Kuntze SPECIES
-=======
+# Filaspora lituus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

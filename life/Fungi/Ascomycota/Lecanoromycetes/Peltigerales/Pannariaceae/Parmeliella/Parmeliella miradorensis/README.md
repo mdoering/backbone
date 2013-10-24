@@ -1,5 +1,4 @@
-Parmeliella miradorensis Vain. SPECIES
-=======
+# Parmeliella miradorensis Vain. SPECIES
 
 #### Status
 ACCEPTED

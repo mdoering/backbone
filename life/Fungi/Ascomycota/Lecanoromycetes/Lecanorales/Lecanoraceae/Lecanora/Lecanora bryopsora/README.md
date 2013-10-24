@@ -1,5 +1,4 @@
-Lecanora bryopsora (Doppelb. & Poelt) Hafellner & Türk SPECIES
-=======
+# Lecanora bryopsora (Doppelb. & Poelt) Hafellner & Türk SPECIES
 
 #### Status
 ACCEPTED

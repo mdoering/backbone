@@ -1,5 +1,4 @@
-Caulobacter crescentus Poindexter, 1964 (Approved Lists, 1980) SPECIES
-=======
+# Caulobacter crescentus Poindexter, 1964 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

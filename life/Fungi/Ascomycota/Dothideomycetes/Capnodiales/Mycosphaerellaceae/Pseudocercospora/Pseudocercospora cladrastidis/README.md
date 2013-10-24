@@ -1,5 +1,4 @@
-Pseudocercospora cladrastidis (Jacz.) J.K. Bai & M.Y. Cheng SPECIES
-=======
+# Pseudocercospora cladrastidis (Jacz.) J.K. Bai & M.Y. Cheng SPECIES
 
 #### Status
 ACCEPTED

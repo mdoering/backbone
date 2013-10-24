@@ -1,5 +1,4 @@
-Gnomoniella veronicae Naumov SPECIES
-=======
+# Gnomoniella veronicae Naumov SPECIES
 
 #### Status
 ACCEPTED

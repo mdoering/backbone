@@ -1,5 +1,4 @@
-Licea singhadensis S.D. Patil, Ranade & R.L. Mishra, 1977 SPECIES
-=======
+# Licea singhadensis S.D. Patil, Ranade & R.L. Mishra, 1977 SPECIES
 
 #### Status
 ACCEPTED

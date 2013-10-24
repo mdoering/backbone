@@ -1,5 +1,4 @@
-Rhodocybe pegleri T.J. Baroni SPECIES
-=======
+# Rhodocybe pegleri T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

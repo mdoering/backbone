@@ -1,5 +1,4 @@
-Hirsutella entomophila Pat., 1892 SPECIES
-=======
+# Hirsutella entomophila Pat., 1892 SPECIES
 
 #### Status
 ACCEPTED

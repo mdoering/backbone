@@ -1,5 +1,4 @@
-Phaeographis leprosulans Müll. Arg. SPECIES
-=======
+# Phaeographis leprosulans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

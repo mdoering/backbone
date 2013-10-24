@@ -1,5 +1,4 @@
-Melanomma aspegrenii (Fr.) Fuckel, 1870 SPECIES
-=======
+# Melanomma aspegrenii (Fr.) Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

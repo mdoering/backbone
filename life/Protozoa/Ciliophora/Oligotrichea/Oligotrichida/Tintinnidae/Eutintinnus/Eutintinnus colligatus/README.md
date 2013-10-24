@@ -1,5 +1,4 @@
-Eutintinnus colligatus (Kofoid & Campbell) Kofoid & Campbell, 1939 SPECIES
-=======
+# Eutintinnus colligatus (Kofoid & Campbell) Kofoid & Campbell, 1939 SPECIES
 
 #### Status
 ACCEPTED

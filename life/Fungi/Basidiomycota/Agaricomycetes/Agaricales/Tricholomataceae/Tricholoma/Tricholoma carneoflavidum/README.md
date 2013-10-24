@@ -1,5 +1,4 @@
-Tricholoma carneoflavidum (Kalchbr.) McAlpine SPECIES
-=======
+# Tricholoma carneoflavidum (Kalchbr.) McAlpine SPECIES
 
 #### Status
 ACCEPTED

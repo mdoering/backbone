@@ -1,5 +1,4 @@
-Hysteropezizella microsticta Dennis SPECIES
-=======
+# Hysteropezizella microsticta Dennis SPECIES
 
 #### Status
 ACCEPTED

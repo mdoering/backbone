@@ -1,5 +1,4 @@
-Dictyosporium bulbosum Tzean & J.L. Chen, 1989 SPECIES
-=======
+# Dictyosporium bulbosum Tzean & J.L. Chen, 1989 SPECIES
 
 #### Status
 ACCEPTED

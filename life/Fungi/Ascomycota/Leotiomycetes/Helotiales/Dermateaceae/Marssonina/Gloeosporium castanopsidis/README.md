@@ -1,5 +1,4 @@
-Gloeosporium castanopsidis Dearn. & House SPECIES
-=======
+# Gloeosporium castanopsidis Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

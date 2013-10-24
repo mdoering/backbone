@@ -1,5 +1,4 @@
-Leptogium saturninoides H. Magn. SPECIES
-=======
+# Leptogium saturninoides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

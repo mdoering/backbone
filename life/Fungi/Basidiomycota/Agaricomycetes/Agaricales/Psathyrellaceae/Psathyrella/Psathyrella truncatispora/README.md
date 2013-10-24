@@ -1,5 +1,4 @@
-Psathyrella truncatispora (Murrill) A.H. Sm. SPECIES
-=======
+# Psathyrella truncatispora (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

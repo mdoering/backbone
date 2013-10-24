@@ -1,5 +1,4 @@
-Stichotricha marina Stein, 1867 SPECIES
-=======
+# Stichotricha marina Stein, 1867 SPECIES
 
 #### Status
 ACCEPTED

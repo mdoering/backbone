@@ -1,17 +1,16 @@
-Dothidea tetradeniae var. tetradeniae VARIETY
-=======
+# Meliola tetradeniae (Berk.) Theiss. & Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , London 14(2): 136 (1873)
+Annls mycol. 12(2): 177 (1914)
 
 #### Original name
-Dothidea tetradeniae var. tetradeniae
+Dothidea tetradeniae Berk., 1873
 
 ### Remarks
 null

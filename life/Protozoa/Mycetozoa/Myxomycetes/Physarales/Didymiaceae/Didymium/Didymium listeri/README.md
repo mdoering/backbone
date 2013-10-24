@@ -1,5 +1,4 @@
-Didymium listeri Massee, 1892 SPECIES
-=======
+# Didymium listeri Massee, 1892 SPECIES
 
 #### Status
 ACCEPTED

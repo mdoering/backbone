@@ -1,5 +1,4 @@
-Aecidium arunci DC. SPECIES
-=======
+# Aecidium arunci DC. SPECIES
 
 #### Status
 ACCEPTED

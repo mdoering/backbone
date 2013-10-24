@@ -1,5 +1,4 @@
-Sporotrichum membranaceum P. Karst. SPECIES
-=======
+# Sporotrichum membranaceum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

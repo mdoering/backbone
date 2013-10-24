@@ -1,5 +1,4 @@
-Colletotrichum pileomayense Speg. SPECIES
-=======
+# Colletotrichum pileomayense Speg. SPECIES
 
 #### Status
 ACCEPTED

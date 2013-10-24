@@ -1,5 +1,4 @@
-Nocardia pigrifrangens Wang et al., 2004 SPECIES
-=======
+# Nocardia pigrifrangens Wang et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

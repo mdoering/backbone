@@ -1,14 +1,13 @@
-Efibula verruculosa (Hjortstam & Ryvarden) Kotir. & Saaren., 1993 SPECIES
-=======
+# Phlebia verruculosa Hjortstam & Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. bot. fenn. 30(3): 217 (1993)
+Mycotaxon 12(1): 181 (1980)
 
 #### Original name
 Phlebia verruculosa Hjortstam & Ryvarden, 1980

@@ -1,5 +1,4 @@
-Corynespora sed-acaciae K. Zhang & X.G. Zhang SPECIES
-=======
+# Corynespora sed-acaciae K. Zhang & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

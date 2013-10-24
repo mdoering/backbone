@@ -1,5 +1,4 @@
-Hydnum tenerum Sacc. SPECIES
-=======
+# Hydnum tenerum Sacc. SPECIES
 
 #### Status
 ACCEPTED

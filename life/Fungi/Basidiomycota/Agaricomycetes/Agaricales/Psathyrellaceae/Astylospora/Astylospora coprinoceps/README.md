@@ -1,5 +1,4 @@
-Astylospora coprinoceps (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Astylospora coprinoceps (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

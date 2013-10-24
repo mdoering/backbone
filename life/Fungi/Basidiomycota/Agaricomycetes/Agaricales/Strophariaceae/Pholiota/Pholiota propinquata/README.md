@@ -1,5 +1,4 @@
-Pholiota propinquata (Britzelm.) Sacc. SPECIES
-=======
+# Pholiota propinquata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

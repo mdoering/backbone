@@ -1,5 +1,4 @@
-Limacinia arctica (Woron.) M.E. Barr SPECIES
-=======
+# Limacinia arctica (Woron.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

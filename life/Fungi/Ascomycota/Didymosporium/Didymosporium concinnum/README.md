@@ -1,5 +1,4 @@
-Didymosporium concinnum Petr. SPECIES
-=======
+# Didymosporium concinnum Petr. SPECIES
 
 #### Status
 ACCEPTED

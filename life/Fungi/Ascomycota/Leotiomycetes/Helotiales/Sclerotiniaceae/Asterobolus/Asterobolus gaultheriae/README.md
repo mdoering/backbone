@@ -1,5 +1,4 @@
-Asterobolus gaultheriae Redhead & P.W. Perrin SPECIES
-=======
+# Asterobolus gaultheriae Redhead & P.W. Perrin SPECIES
 
 #### Status
 ACCEPTED

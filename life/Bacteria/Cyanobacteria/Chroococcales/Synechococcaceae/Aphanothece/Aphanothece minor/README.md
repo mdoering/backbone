@@ -1,5 +1,4 @@
-Aphanothece minor Frémy SPECIES
-=======
+# Aphanothece minor Frémy SPECIES
 
 #### Status
 ACCEPTED

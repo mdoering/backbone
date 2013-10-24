@@ -1,5 +1,4 @@
-Limacella solidipes (Peck) H.V. Sm. SPECIES
-=======
+# Limacella solidipes (Peck) H.V. Sm. SPECIES
 
 #### Status
 ACCEPTED

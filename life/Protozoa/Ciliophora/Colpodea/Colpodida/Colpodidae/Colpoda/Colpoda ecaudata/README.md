@@ -1,5 +1,4 @@
-Colpoda ecaudata (Liebmann, 1936) Foissner, Blatterer, Berger & Kohmann, 1991 SPECIES
-=======
+# Colpoda ecaudata (Liebmann, 1936) Foissner, Blatterer, Berger & Kohmann, 1991 SPECIES
 
 #### Status
 ACCEPTED

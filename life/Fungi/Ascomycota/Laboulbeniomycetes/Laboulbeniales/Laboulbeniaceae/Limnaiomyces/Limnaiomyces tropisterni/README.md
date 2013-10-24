@@ -1,5 +1,4 @@
-Limnaiomyces tropisterni Thaxt., 1900 SPECIES
-=======
+# Limnaiomyces tropisterni Thaxt., 1900 SPECIES
 
 #### Status
 ACCEPTED

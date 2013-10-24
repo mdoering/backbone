@@ -1,17 +1,16 @@
-Phyllis F. Wilson GENUS
-=======
+# Neophyllis F. Wilson GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Victorian Nat. 6: 68 (1889)
+J. Linn. Soc. , Bot. 28: 372 (1891)
 
 #### Original name
-Phyllis F. Wilson
+Neophyllis F. Wilson
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Antromycopsis leucopogonis Hansf. SPECIES
-=======
+# Antromycopsis leucopogonis Hansf. SPECIES
 
 #### Status
 ACCEPTED

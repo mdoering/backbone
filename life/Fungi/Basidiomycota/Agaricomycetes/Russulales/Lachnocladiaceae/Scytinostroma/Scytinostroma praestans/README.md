@@ -1,5 +1,4 @@
-Scytinostroma praestans (H.S. Jacks.) Donk, 1956 SPECIES
-=======
+# Scytinostroma praestans (H.S. Jacks.) Donk, 1956 SPECIES
 
 #### Status
 ACCEPTED

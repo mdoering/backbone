@@ -1,5 +1,4 @@
-Gonatobotryum bimorphosporum M. Jacob & Bhat SPECIES
-=======
+# Gonatobotryum bimorphosporum M. Jacob & Bhat SPECIES
 
 #### Status
 ACCEPTED

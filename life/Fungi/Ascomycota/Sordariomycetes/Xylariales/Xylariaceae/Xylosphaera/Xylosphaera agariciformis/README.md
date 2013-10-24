@@ -1,5 +1,4 @@
-Xylosphaera agariciformis (Cooke & Massee) Dennis SPECIES
-=======
+# Xylosphaera agariciformis (Cooke & Massee) Dennis SPECIES
 
 #### Status
 ACCEPTED

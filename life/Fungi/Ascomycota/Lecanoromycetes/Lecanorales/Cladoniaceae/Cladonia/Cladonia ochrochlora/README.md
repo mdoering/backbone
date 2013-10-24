@@ -1,17 +1,16 @@
-Cladonia ochrochlora f. ochrochlora FORM
-=======
+# Cladonia ochrochlora Flörke SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 De Cladoniis (Rostock), Difficillimo lichenum genere, Commentatio nova 75 (1828)
 
 #### Original name
-Cladonia ochrochlora f. ochrochlora
+Cladonia ochrochlora Flörke
 
 ### Remarks
 null

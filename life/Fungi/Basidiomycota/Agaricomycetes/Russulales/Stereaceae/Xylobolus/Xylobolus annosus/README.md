@@ -1,14 +1,13 @@
-Stereum annosum Berk. & Broome, 1875 SPECIES
-=======
+# Xylobolus annosus (Berk. & Broome) Boidin, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 67 (1875)
+Revue Mycol. , Paris 23: 341 (1958)
 
 #### Original name
 Stereum annosum Berk. & Broome, 1875

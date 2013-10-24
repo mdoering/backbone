@@ -1,5 +1,4 @@
-Achorella vaccinii T.S. Ramakr. SPECIES
-=======
+# Achorella vaccinii T.S. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Amanita vittadinii var. vittadinii VARIETY
-=======
+# Amanita vittadinii (Moretti) Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Amanita vittadinii var. vittadinii
+Agaricus vittadinii Moretti, 1826
 
 ### Remarks
 null

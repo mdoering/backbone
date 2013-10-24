@@ -1,5 +1,4 @@
-Mesniella GENUS
-=======
+# Mesniella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrodinium nasutum (Wulff, 1916) Schiller, 1933 SPECIES
-=======
+# Gyrodinium nasutum (Wulff, 1916) Schiller, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoopage tryphera Drechsler, 1937 SPECIES
-=======
+# Zoopage tryphera Drechsler, 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melosira westii W. Smith SPECIES
-=======
+# Melosira westii W. Smith SPECIES
 
 #### Status
 ACCEPTED

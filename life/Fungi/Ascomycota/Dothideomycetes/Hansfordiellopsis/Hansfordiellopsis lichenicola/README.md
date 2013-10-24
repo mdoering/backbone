@@ -1,5 +1,4 @@
-Hansfordiellopsis lichenicola (Bat. & H. Maia) Deighton SPECIES
-=======
+# Hansfordiellopsis lichenicola (Bat. & H. Maia) Deighton SPECIES
 
 #### Status
 ACCEPTED

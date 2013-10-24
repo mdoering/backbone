@@ -1,5 +1,4 @@
-Passalora trematis (F. Stevens & Solheim) U. Braun & Crous SPECIES
-=======
+# Passalora trematis (F. Stevens & Solheim) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

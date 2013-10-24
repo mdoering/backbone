@@ -1,5 +1,4 @@
-Rhabdostyla ovoides Kent, 1881 SPECIES
-=======
+# Rhabdostyla ovoides Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

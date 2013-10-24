@@ -1,5 +1,4 @@
-Perisporiacites larundae Félix SPECIES
-=======
+# Perisporiacites larundae Félix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium padi Fr. SPECIES
-=======
+# Cenangium padi Fr. SPECIES
 
 #### Status
 ACCEPTED

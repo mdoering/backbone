@@ -1,5 +1,4 @@
-Phyllosticta goebeliae Petr. SPECIES
-=======
+# Phyllosticta goebeliae Petr. SPECIES
 
 #### Status
 ACCEPTED

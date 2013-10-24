@@ -1,5 +1,4 @@
-Gigaspora margarita W.N. Becker & I.R. Hall, 1976 SPECIES
-=======
+# Gigaspora margarita W.N. Becker & I.R. Hall, 1976 SPECIES
 
 #### Status
 ACCEPTED

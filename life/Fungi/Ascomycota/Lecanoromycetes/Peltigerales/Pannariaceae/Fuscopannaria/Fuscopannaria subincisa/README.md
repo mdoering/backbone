@@ -1,5 +1,4 @@
-Fuscopannaria subincisa (Zahlbr.) P.M. Jørg. SPECIES
-=======
+# Fuscopannaria subincisa (Zahlbr.) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

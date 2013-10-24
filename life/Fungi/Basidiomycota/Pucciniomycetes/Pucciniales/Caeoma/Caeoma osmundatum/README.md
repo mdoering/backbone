@@ -1,5 +1,4 @@
-Caeoma osmundatum Schwein. SPECIES
-=======
+# Caeoma osmundatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

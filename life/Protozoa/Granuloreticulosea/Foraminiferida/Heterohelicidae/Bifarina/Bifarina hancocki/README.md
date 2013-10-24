@@ -1,5 +1,4 @@
-Bifarina hancocki Cushman & McCulloch, 1942 SPECIES
-=======
+# Bifarina hancocki Cushman & McCulloch, 1942 SPECIES
 
 #### Status
 ACCEPTED

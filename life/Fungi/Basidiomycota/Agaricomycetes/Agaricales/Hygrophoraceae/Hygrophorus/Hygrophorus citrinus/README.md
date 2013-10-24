@@ -1,5 +1,4 @@
-Hygrophorus citrinus Rea SPECIES
-=======
+# Hygrophorus citrinus Rea SPECIES
 
 #### Status
 ACCEPTED

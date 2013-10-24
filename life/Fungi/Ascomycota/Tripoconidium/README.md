@@ -1,5 +1,4 @@
-Tripoconidium Subram. GENUS
-=======
+# Tripoconidium Subram. GENUS
 
 #### Status
 ACCEPTED

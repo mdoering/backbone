@@ -1,17 +1,16 @@
-Massarina eburnea var. eburnea VARIETY
-=======
+# Massarina eburnea (Tul. & C. Tul.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 2: 153 (1883)
 
 #### Original name
-Massarina eburnea var. eburnea
+null
 
 ### Remarks
 null

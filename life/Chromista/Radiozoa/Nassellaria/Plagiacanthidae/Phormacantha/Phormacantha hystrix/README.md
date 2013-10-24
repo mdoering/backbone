@@ -1,5 +1,4 @@
-Phormacantha hystrix (Joergensen) Joergensen, 1905 SPECIES
-=======
+# Phormacantha hystrix (Joergensen) Joergensen, 1905 SPECIES
 
 #### Status
 ACCEPTED

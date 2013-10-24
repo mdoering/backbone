@@ -1,5 +1,4 @@
-Nanina Kozur & Mostler, 1983 GENUS
-=======
+# Nanina Kozur & Mostler, 1983 GENUS
 
 #### Status
 ACCEPTED

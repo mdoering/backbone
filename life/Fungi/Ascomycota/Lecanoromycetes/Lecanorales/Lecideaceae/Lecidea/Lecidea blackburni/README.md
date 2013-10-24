@@ -1,5 +1,4 @@
-Lecidea blackburni C.W. Dodge & G.E. Baker SPECIES
-=======
+# Lecidea blackburni C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus roseopileatus Remotti {?} & Colan {?} SPECIES
-=======
+# Pleurotus roseopileatus Remotti {?} & Colan {?} SPECIES
 
 #### Status
 ACCEPTED

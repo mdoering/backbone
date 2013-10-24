@@ -1,5 +1,4 @@
-Dinogymnium digitum var. indicum K.P. Jain, S.C.D. Sah & R.Y. Singh VARIETY
-=======
+# Dinogymnium digitum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Gnomonia vulgaris Ces. & De Not., 1863 SPECIES
-=======
+# Gnomonia gnomon (Tode) J. Schröt., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Comm. Soc. crittog. Ital. 1: (1863)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(4): 390 (1897)
 
 #### Original name
-Gnomonia vulgaris Ces. & De Not., 1863
+Sphaeria gnomon Tode, 1790
 
 ### Remarks
 null

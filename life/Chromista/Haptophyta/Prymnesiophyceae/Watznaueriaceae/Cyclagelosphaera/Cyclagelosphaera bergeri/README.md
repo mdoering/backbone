@@ -1,5 +1,4 @@
-Cyclagelosphaera bergeri P.H. Roth SPECIES
-=======
+# Cyclagelosphaera bergeri P.H. Roth SPECIES
 
 #### Status
 ACCEPTED

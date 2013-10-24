@@ -1,5 +1,4 @@
-Pseudocercosporella pavoniae Deighton SPECIES
-=======
+# Pseudocercosporella pavoniae Deighton SPECIES
 
 #### Status
 ACCEPTED

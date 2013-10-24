@@ -1,5 +1,4 @@
-Glenodinium alpestre Chodat SPECIES
-=======
+# Glenodinium alpestre Chodat SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola trilepisii Mibey & P.F. Cannon SPECIES
-=======
+# Meliola trilepisii Mibey & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

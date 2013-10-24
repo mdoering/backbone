@@ -1,5 +1,4 @@
-Trichophyton guzzonii Castell. SPECIES
-=======
+# Trichophyton guzzonii Castell. SPECIES
 
 #### Status
 ACCEPTED

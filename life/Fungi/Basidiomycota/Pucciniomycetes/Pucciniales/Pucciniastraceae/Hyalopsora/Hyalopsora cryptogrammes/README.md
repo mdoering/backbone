@@ -1,5 +1,4 @@
-Hyalopsora cryptogrammes Dietel SPECIES
-=======
+# Hyalopsora cryptogrammes Dietel SPECIES
 
 #### Status
 ACCEPTED

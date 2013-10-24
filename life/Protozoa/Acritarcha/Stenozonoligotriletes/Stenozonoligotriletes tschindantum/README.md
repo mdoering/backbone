@@ -1,5 +1,4 @@
-Stenozonoligotriletes tschindantum Timofeev, 1960 SPECIES
-=======
+# Stenozonoligotriletes tschindantum Timofeev, 1960 SPECIES
 
 #### Status
 ACCEPTED

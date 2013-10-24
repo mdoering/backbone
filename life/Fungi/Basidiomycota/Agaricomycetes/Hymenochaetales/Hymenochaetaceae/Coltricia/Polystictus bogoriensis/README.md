@@ -1,5 +1,4 @@
-Polystictus bogoriensis (Holterm.) Sacc. & P. Syd. SPECIES
-=======
+# Polystictus bogoriensis (Holterm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

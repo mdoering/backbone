@@ -1,5 +1,4 @@
-Montemartinia GENUS
-=======
+# Montemartinia GENUS
 
 #### Status
 ACCEPTED

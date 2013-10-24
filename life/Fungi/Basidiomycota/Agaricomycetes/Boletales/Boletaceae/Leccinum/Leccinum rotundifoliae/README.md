@@ -1,5 +1,4 @@
-Leccinum rotundifoliae (Singer) A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum rotundifoliae (Singer) A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

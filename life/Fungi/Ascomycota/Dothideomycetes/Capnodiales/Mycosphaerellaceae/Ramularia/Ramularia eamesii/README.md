@@ -1,5 +1,4 @@
-Ramularia eamesii Dearn. & House SPECIES
-=======
+# Ramularia eamesii Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

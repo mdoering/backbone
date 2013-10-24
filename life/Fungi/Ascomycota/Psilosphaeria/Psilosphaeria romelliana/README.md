@@ -1,5 +1,4 @@
-Psilosphaeria romelliana (Sacc.) Cooke SPECIES
-=======
+# Psilosphaeria romelliana (Sacc.) Cooke SPECIES
 
 #### Status
 ACCEPTED

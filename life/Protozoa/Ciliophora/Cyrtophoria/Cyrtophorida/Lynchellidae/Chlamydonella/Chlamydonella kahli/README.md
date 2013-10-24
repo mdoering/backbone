@@ -1,5 +1,4 @@
-Chlamydonella kahli SPECIES
-=======
+# Chlamydonella kahli SPECIES
 
 #### Status
 ACCEPTED

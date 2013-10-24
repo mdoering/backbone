@@ -1,5 +1,4 @@
-Ascotricha amesii D. Hawksw. SPECIES
-=======
+# Ascotricha amesii D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

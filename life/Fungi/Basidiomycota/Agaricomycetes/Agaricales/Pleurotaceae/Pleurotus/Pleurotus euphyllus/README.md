@@ -1,5 +1,4 @@
-Pleurotus euphyllus (Berk.) Sacc. SPECIES
-=======
+# Pleurotus euphyllus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

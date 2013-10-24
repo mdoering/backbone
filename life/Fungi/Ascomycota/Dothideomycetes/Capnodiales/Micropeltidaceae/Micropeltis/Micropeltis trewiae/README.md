@@ -1,5 +1,4 @@
-Micropeltis trewiae (Syd.) Bat. SPECIES
-=======
+# Micropeltis trewiae (Syd.) Bat. SPECIES
 
 #### Status
 ACCEPTED

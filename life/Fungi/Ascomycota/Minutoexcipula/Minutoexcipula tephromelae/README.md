@@ -1,5 +1,4 @@
-Minutoexcipula tephromelae V. Atienza, Etayo & Pérez-Ortega SPECIES
-=======
+# Minutoexcipula tephromelae V. Atienza, Etayo & Pérez-Ortega SPECIES
 
 #### Status
 ACCEPTED

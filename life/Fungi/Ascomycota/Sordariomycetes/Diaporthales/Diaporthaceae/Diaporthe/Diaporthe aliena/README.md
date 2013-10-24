@@ -1,5 +1,4 @@
-Diaporthe aliena Ellis & Everh. SPECIES
-=======
+# Diaporthe aliena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

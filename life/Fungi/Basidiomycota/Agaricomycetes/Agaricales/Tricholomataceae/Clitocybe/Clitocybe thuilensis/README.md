@@ -1,5 +1,4 @@
-Clitocybe thuilensis Sacc. SPECIES
-=======
+# Clitocybe thuilensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

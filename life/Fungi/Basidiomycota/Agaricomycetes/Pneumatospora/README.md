@@ -1,5 +1,4 @@
-Pneumatospora B. Sutton, Kuthub. & Muid GENUS
-=======
+# Pneumatospora B. Sutton, Kuthub. & Muid GENUS
 
 #### Status
 ACCEPTED

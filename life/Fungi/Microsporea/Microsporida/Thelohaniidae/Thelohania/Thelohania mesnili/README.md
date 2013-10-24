@@ -1,5 +1,4 @@
-Thelohania mesnili (Paillot) Paillot SPECIES
-=======
+# Thelohania mesnili (Paillot) Paillot SPECIES
 
 #### Status
 ACCEPTED

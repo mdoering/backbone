@@ -1,5 +1,4 @@
-Cladonia sylvatica var. sylvatica VARIETY
-=======
+# Cladonia sylvatica (Ach.) Cromb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia sylvatica var. sylvatica
+null
 
 ### Remarks
 null

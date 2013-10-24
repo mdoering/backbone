@@ -1,5 +1,4 @@
-Asterina tetracerae Syd. SPECIES
-=======
+# Asterina tetracerae Syd. SPECIES
 
 #### Status
 ACCEPTED

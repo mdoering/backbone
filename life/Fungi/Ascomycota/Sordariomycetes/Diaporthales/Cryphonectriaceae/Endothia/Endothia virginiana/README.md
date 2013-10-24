@@ -1,5 +1,4 @@
-Endothia virginiana P.J. Anderson & H.W. Anderson SPECIES
-=======
+# Endothia virginiana P.J. Anderson & H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus cerifera P. Karst. SPECIES
-=======
+# Agaricus ceriferus P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bidr. Känn. Finl. Nat. Folk 25: 369 (1876)
 
 #### Original name
-Agaricus cerifera P. Karst.
+Agaricus ceriferus P. Karst.
 
 ### Remarks
 null

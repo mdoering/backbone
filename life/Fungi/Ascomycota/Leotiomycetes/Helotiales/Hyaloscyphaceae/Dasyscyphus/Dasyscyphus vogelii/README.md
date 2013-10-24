@@ -1,5 +1,4 @@
-Dasyscyphus vogelii Henn. SPECIES
-=======
+# Dasyscyphus vogelii Henn. SPECIES
 
 #### Status
 ACCEPTED

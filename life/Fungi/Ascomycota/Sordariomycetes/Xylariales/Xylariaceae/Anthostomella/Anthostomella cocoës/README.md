@@ -1,5 +1,4 @@
-Anthostomella cocoës Sousa da Câmara SPECIES
-=======
+# Anthostomella cocoës Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

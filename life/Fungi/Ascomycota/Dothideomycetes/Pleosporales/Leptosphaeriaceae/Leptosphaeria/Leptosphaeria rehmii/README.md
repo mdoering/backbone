@@ -1,5 +1,4 @@
-Leptosphaeria rehmii Mouton SPECIES
-=======
+# Leptosphaeria rehmii Mouton SPECIES
 
 #### Status
 ACCEPTED

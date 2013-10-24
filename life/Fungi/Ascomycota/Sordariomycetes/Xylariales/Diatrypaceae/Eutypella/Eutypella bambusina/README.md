@@ -1,5 +1,4 @@
-Eutypella bambusina var. bambusina VARIETY
-=======
+# Eutypella bambusina (Penz. & Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Eutypella bambusina var. bambusina
+Eutypa bambusina Penz. & Sacc.
 
 ### Remarks
 null

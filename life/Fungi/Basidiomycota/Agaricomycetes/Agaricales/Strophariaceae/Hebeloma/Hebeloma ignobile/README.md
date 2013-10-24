@@ -1,5 +1,4 @@
-Hebeloma ignobile Berk. SPECIES
-=======
+# Hebeloma ignobile Berk. SPECIES
 
 #### Status
 ACCEPTED

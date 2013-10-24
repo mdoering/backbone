@@ -1,5 +1,4 @@
-Naucoria leucocnemis (Romagn.) E. Ludw. & Koeck SPECIES
-=======
+# Naucoria leucocnemis (Romagn.) E. Ludw. & Koeck SPECIES
 
 #### Status
 ACCEPTED

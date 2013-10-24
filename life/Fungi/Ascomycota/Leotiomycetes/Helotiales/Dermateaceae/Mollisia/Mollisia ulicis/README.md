@@ -1,5 +1,4 @@
-Mollisia ulicis Feltgen SPECIES
-=======
+# Mollisia ulicis Feltgen SPECIES
 
 #### Status
 ACCEPTED

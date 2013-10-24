@@ -1,14 +1,13 @@
-Dochmolopha lonicerae Cooke, 1878 SPECIES
-=======
+# Seimatosporium lonicerae (Cooke) Shoemaker, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 42: 417 (1964)
 
 #### Original name
 Dochmolopha lonicerae Cooke, 1878

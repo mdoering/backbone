@@ -1,5 +1,4 @@
-Leciographa rhyparizae (Arnaud) Rehm SPECIES
-=======
+# Leciographa rhyparizae (Arnaud) Rehm SPECIES
 
 #### Status
 ACCEPTED

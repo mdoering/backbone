@@ -1,5 +1,4 @@
-Alternaria dumosa E.G. Simmons SPECIES
-=======
+# Alternaria dumosa E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

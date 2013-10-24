@@ -1,5 +1,4 @@
-Enterobacter pyrinus Chung et al., 1993 SPECIES
-=======
+# Enterobacter pyrinus Chung et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

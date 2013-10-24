@@ -1,5 +1,4 @@
-Paliphora Sivan. & B. Sutton GENUS
-=======
+# Paliphora Sivan. & B. Sutton GENUS
 
 #### Status
 ACCEPTED

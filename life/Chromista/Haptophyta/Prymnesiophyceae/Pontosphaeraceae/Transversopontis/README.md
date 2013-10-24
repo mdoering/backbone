@@ -1,5 +1,4 @@
-Transversopontis W.W. Hay, H. Mohler & M. Wade, 1966 GENUS
-=======
+# Transversopontis W.W. Hay, H. Mohler & M. Wade, 1966 GENUS
 
 #### Status
 ACCEPTED

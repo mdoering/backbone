@@ -1,14 +1,13 @@
-Porina guentheri var. curnowii (A.L. Sm.) Swinscow VARIETY
-=======
+# Porina curnowii A. L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 2: 32 (1962)
+J. Bot. 49: 44 (1911)
 
 #### Original name
 Porina curnowii A. L. Sm.

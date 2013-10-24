@@ -1,5 +1,4 @@
-Baltisphaeridium accomodatus (Naumova, 1950) N. Umnova, 1975 SPECIES
-=======
+# Baltisphaeridium accomodatus (Naumova, 1950) N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

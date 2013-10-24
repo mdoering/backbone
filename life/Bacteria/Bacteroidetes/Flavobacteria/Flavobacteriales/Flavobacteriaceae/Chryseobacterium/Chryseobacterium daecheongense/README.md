@@ -1,5 +1,4 @@
-Chryseobacterium daecheongense Kim et al., 2005 SPECIES
-=======
+# Chryseobacterium daecheongense Kim et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

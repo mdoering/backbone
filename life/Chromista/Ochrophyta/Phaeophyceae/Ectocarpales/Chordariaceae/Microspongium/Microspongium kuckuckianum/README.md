@@ -1,5 +1,4 @@
-Microspongium kuckuckianum Schiffner, 1916 SPECIES
-=======
+# Microspongium kuckuckianum Schiffner, 1916 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma variabile (Schwein.) Sacc. SPECIES
-=======
+# Lophiostoma variabile (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

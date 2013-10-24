@@ -1,17 +1,16 @@
-Odontotrema rauzabagensis P.G. Sathe & K.M. Mogarkar SPECIES
-=======
+# Odontotrema rauzabagense P.G. Sathe & K.M. Mogarkar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Marathwada University Journal of Science (Natural Science), B 16(9): 63 (1978)
 
 #### Original name
-Odontotrema rauzabagensis P.G. Sathe & K.M. Mogarkar
+Odontotrema rauzabagense P.G. Sathe & K.M. Mogarkar
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Passalora tecomariae Crous & B. Sutton SPECIES
-=======
+# Passalora tecomariae Crous & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

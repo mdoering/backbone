@@ -1,5 +1,4 @@
-Gyalectidium colchicum Vezda SPECIES
-=======
+# Gyalectidium colchicum Vezda SPECIES
 
 #### Status
 ACCEPTED

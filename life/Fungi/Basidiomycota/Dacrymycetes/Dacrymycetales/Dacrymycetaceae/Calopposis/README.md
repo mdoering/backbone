@@ -1,5 +1,4 @@
-Calopposis GENUS
-=======
+# Calopposis GENUS
 
 #### Status
 ACCEPTED

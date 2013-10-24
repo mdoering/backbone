@@ -1,5 +1,4 @@
-Puccinia sonchina P. Syd. & Syd. SPECIES
-=======
+# Puccinia sonchina P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

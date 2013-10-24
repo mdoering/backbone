@@ -1,5 +1,4 @@
-Lachnella albidofusca Sacc. SPECIES
-=======
+# Lachnella albidofusca Sacc. SPECIES
 
 #### Status
 ACCEPTED

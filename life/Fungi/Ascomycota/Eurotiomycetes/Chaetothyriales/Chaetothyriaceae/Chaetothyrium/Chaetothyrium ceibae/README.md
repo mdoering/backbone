@@ -1,5 +1,4 @@
-Chaetothyrium ceibae Petr. & Cif. SPECIES
-=======
+# Chaetothyrium ceibae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

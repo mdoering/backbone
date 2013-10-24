@@ -1,5 +1,4 @@
-Phyllosticta corylaria Sacc. SPECIES
-=======
+# Phyllosticta corylaria Sacc. SPECIES
 
 #### Status
 ACCEPTED

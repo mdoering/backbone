@@ -1,5 +1,4 @@
-Triangulina arcessita (N. Umnova in N. Umnova & Yakovlev, 1970) Sarjeant & SDtancliffe, 1994 SPECIES
-=======
+# Triangulina arcessita (N. Umnova in N. Umnova & Yakovlev, 1970) Sarjeant & SDtancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

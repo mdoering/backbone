@@ -1,17 +1,16 @@
-Chrysosporium vespertilium Guarro, P. Vidal & De Vroey SPECIES
-=======
+# Chrysosporium vespertilii Guarro, P. Vidal & De Vroey, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Vidal, Guarro & De Vroey, Mycotaxon 59: 190 (1996)
 
 #### Original name
-Chrysosporium vespertilium Guarro, P. Vidal & De Vroey
+Chrysosporium vespertilii Guarro, P. Vidal & De Vroey, 1996
 
 ### Remarks
 null

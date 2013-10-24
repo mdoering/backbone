@@ -1,5 +1,4 @@
-Gibberella lateritia f. lateritia FORM
-=======
+# Gibberella lateritia SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gibberella lateritia f. lateritia
+Gibberella lateritia
 
 ### Remarks
 null

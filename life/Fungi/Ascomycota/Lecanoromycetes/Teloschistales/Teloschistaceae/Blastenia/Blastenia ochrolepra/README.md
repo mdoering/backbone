@@ -1,5 +1,4 @@
-Blastenia ochrolepra Trevis. SPECIES
-=======
+# Blastenia ochrolepra Trevis. SPECIES
 
 #### Status
 ACCEPTED

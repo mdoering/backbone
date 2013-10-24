@@ -1,5 +1,4 @@
-Phorcys umbelliferae Rick SPECIES
-=======
+# Phorcys umbelliferae Rick SPECIES
 
 #### Status
 ACCEPTED

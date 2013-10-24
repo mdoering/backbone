@@ -1,5 +1,4 @@
-Marasmius magnisporus Murrill SPECIES
-=======
+# Marasmius magnisporus Murrill SPECIES
 
 #### Status
 ACCEPTED

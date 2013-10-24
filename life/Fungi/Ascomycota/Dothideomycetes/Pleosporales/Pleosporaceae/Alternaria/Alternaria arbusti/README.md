@@ -1,5 +1,4 @@
-Alternaria arbusti E.G. Simmons, 1993 SPECIES
-=======
+# Alternaria arbusti E.G. Simmons, 1993 SPECIES
 
 #### Status
 ACCEPTED

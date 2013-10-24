@@ -1,5 +1,4 @@
-Verruculopsis Gueidan, Nav.-Ros. & Cl. Roux GENUS
-=======
+# Verruculopsis Gueidan, Nav.-Ros. & Cl. Roux GENUS
 
 #### Status
 ACCEPTED

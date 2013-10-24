@@ -1,5 +1,4 @@
-Gabura laciniata (Nyl.) Kuntze SPECIES
-=======
+# Gabura laciniata (Nyl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

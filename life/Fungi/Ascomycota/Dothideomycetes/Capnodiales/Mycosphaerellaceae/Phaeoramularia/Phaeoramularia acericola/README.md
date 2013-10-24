@@ -1,5 +1,4 @@
-Phaeoramularia acericola X.J. Liu & Y.L. Guo SPECIES
-=======
+# Phaeoramularia acericola X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

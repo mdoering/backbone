@@ -1,5 +1,4 @@
-Diderma compactum Wallr. SPECIES
-=======
+# Diderma compactum Wallr. SPECIES
 
 #### Status
 ACCEPTED

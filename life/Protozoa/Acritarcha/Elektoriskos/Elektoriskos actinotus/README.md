@@ -1,5 +1,4 @@
-Elektoriskos actinotus Wicander, Playford & Robertson, 1999 SPECIES
-=======
+# Elektoriskos actinotus Wicander, Playford & Robertson, 1999 SPECIES
 
 #### Status
 ACCEPTED

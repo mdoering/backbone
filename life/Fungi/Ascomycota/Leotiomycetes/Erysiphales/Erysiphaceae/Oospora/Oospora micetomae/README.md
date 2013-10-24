@@ -1,5 +1,4 @@
-Oospora micetomae (Greco) Sartory SPECIES
-=======
+# Oospora micetomae (Greco) Sartory SPECIES
 
 #### Status
 ACCEPTED

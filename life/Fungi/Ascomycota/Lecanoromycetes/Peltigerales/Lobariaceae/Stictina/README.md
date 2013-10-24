@@ -1,5 +1,4 @@
-Stictina GENUS
-=======
+# Stictina GENUS
 
 #### Status
 ACCEPTED

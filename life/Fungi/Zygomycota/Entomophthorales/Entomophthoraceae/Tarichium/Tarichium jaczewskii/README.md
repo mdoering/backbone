@@ -1,5 +1,4 @@
-Tarichium jaczewskii Zaprom. SPECIES
-=======
+# Tarichium jaczewskii Zaprom. SPECIES
 
 #### Status
 ACCEPTED

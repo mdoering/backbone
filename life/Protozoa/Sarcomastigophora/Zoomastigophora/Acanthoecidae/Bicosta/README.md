@@ -1,5 +1,4 @@
-Bicosta Leadbeater, 1978 GENUS
-=======
+# Bicosta Leadbeater, 1978 GENUS
 
 #### Status
 ACCEPTED

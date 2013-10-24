@@ -1,5 +1,4 @@
-Rinodina inelegans SPECIES
-=======
+# Rinodina inelegans SPECIES
 
 #### Status
 ACCEPTED

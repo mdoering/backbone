@@ -1,5 +1,4 @@
-Periconia toroi Linder SPECIES
-=======
+# Periconia toroi Linder SPECIES
 
 #### Status
 ACCEPTED

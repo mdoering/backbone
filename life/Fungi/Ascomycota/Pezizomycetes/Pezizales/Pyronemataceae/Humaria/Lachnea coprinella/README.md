@@ -1,5 +1,4 @@
-Lachnea coprinella Sacc. SPECIES
-=======
+# Lachnea coprinella Sacc. SPECIES
 
 #### Status
 ACCEPTED

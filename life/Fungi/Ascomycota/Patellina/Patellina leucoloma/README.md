@@ -1,5 +1,4 @@
-Patellina leucoloma (Durieu & Mont.) Sacc. SPECIES
-=======
+# Patellina leucoloma (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

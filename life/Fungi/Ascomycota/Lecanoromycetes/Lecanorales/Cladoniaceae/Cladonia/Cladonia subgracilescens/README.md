@@ -1,5 +1,4 @@
-Cladonia subgracilescens Asahina SPECIES
-=======
+# Cladonia subgracilescens Asahina SPECIES
 
 #### Status
 ACCEPTED

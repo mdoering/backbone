@@ -1,14 +1,13 @@
-Scopuloides cana (Burt) Zmitr. & Spirin, 2006 SPECIES
-=======
+# Phanerochaete cana (Burt) Burds., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Zmitrovich, Malysheva & Spirin, Mycena 6: 15 (2006)
+Mycol. Mem. 10: 50 (1985)
 
 #### Original name
 Peniophora cana Burt, 1926

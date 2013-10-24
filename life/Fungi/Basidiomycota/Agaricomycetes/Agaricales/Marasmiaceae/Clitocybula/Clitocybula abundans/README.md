@@ -1,5 +1,4 @@
-Clitocybula abundans (Peck) Singer SPECIES
-=======
+# Clitocybula abundans (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

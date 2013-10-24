@@ -1,5 +1,4 @@
-Kolletes Kohlm. & Volkm.-Kohlm. GENUS
-=======
+# Kolletes Kohlm. & Volkm.-Kohlm. GENUS
 
 #### Status
 ACCEPTED

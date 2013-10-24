@@ -1,5 +1,4 @@
-Laboulbenia metableti Scheloske SPECIES
-=======
+# Laboulbenia metableti Scheloske SPECIES
 
 #### Status
 ACCEPTED

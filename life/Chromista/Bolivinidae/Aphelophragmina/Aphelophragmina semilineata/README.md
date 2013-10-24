@@ -1,5 +1,4 @@
-Aphelophragmina semilineata (Belford, 966) SPECIES
-=======
+# Aphelophragmina semilineata (Belford, 966) SPECIES
 
 #### Status
 ACCEPTED

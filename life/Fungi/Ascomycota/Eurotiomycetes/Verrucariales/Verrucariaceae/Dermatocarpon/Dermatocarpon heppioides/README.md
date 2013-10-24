@@ -1,5 +1,4 @@
-Dermatocarpon heppioides Zahlbr. SPECIES
-=======
+# Dermatocarpon heppioides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia polychroma subsp. polychroma SUBSPECIES
-=======
+# Aspicilia polychroma Anzi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia polychroma subsp. polychroma
+Aspicilia polychroma Anzi
 
 ### Remarks
 null

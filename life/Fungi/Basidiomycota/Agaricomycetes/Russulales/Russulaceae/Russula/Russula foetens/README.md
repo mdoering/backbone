@@ -1,17 +1,16 @@
-Agaricus foetens var. foetens VARIETY
-=======
+# Russula foetens (Pers.) Pers., 1796 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Observ. mycol. (Lipsiae) 1: 102 (1796)
 
 #### Original name
-null
+Agaricus foetens Pers., 1796
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leptosphaeria galeopsidicola Petr., 1927 SPECIES
-=======
+# Leptosphaeria galeopsidicola Petr., 1927 SPECIES
 
 #### Status
 ACCEPTED

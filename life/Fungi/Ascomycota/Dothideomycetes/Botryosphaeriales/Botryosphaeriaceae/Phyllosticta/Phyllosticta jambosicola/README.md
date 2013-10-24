@@ -1,5 +1,4 @@
-Phyllosticta jambosicola Aa SPECIES
-=======
+# Phyllosticta jambosicola Aa SPECIES
 
 #### Status
 ACCEPTED

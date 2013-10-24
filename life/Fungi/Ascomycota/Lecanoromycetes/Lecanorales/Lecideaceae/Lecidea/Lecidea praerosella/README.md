@@ -1,5 +1,4 @@
-Lecidea praerosella Nyl. SPECIES
-=======
+# Lecidea praerosella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia usambarensis (Henn.) Cif. SPECIES
-=======
+# Cintractia usambarensis (Henn.) Cif. SPECIES
 
 #### Status
 ACCEPTED

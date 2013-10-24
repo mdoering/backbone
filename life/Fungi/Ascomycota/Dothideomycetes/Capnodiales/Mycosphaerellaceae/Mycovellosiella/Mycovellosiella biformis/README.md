@@ -1,5 +1,4 @@
-Mycovellosiella biformis (Peck) U. Braun SPECIES
-=======
+# Mycovellosiella biformis (Peck) U. Braun SPECIES
 
 #### Status
 ACCEPTED

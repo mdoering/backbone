@@ -1,5 +1,4 @@
-Porina chloroticula P. M. McCarthy SPECIES
-=======
+# Porina chloroticula P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

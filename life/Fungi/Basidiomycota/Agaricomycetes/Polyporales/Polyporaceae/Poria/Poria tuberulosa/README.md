@@ -1,5 +1,4 @@
-Poria tuberulosa Pers. SPECIES
-=======
+# Poria tuberulosa Pers. SPECIES
 
 #### Status
 ACCEPTED

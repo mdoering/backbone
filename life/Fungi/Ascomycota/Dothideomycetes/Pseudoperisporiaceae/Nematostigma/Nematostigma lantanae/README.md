@@ -1,5 +1,4 @@
-Nematostigma lantanae (Theiss.) Petr. SPECIES
-=======
+# Nematostigma lantanae (Theiss.) Petr. SPECIES
 
 #### Status
 ACCEPTED

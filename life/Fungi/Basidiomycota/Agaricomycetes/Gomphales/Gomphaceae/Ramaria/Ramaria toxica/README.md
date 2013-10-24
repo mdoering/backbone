@@ -1,5 +1,4 @@
-Ramaria toxica L.S. Domínguez & R.H. Petersen, 1989 SPECIES
-=======
+# Ramaria toxica L.S. Domínguez & R.H. Petersen, 1989 SPECIES
 
 #### Status
 ACCEPTED

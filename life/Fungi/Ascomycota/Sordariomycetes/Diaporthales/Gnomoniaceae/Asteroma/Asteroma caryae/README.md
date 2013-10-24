@@ -1,5 +1,4 @@
-Asteroma caryae (Peck) B. Sutton SPECIES
-=======
+# Asteroma caryae (Peck) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

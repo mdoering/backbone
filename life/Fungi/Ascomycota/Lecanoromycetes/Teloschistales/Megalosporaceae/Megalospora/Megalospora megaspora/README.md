@@ -1,5 +1,4 @@
-Megalospora megaspora (Leight.) Zahlbr. SPECIES
-=======
+# Megalospora megaspora (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

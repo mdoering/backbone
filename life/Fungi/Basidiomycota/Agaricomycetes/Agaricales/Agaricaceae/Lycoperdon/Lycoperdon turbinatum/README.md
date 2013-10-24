@@ -1,5 +1,4 @@
-Lycoperdon turbinatum Lloyd SPECIES
-=======
+# Lycoperdon turbinatum Lloyd SPECIES
 
 #### Status
 ACCEPTED

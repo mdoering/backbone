@@ -1,5 +1,4 @@
-Sporisorium tranzschelianum (Lavrov) Karatygin SPECIES
-=======
+# Sporisorium tranzschelianum (Lavrov) Karatygin SPECIES
 
 #### Status
 ACCEPTED

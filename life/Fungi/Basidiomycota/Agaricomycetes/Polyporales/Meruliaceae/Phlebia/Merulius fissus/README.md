@@ -1,5 +1,4 @@
-Merulius fissus (Roth) J.F. Gmel. SPECIES
-=======
+# Merulius fissus (Roth) J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopeziza sphaerioides (Pers.) Massee SPECIES
-=======
+# Pseudopeziza sphaerioides (Pers.) Massee SPECIES
 
 #### Status
 ACCEPTED

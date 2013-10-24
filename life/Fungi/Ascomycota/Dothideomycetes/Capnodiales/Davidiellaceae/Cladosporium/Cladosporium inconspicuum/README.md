@@ -1,5 +1,4 @@
-Cladosporium inconspicuum Thüm. SPECIES
-=======
+# Cladosporium inconspicuum Thüm. SPECIES
 
 #### Status
 ACCEPTED

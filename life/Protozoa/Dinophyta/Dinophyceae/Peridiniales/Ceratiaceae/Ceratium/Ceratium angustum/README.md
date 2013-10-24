@@ -1,5 +1,4 @@
-Ceratium angustum A.S. Campbell, 1934 SPECIES
-=======
+# Ceratium angustum A.S. Campbell, 1934 SPECIES
 
 #### Status
 ACCEPTED

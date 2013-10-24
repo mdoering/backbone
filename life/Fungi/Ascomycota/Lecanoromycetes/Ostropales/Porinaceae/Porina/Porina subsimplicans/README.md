@@ -1,5 +1,4 @@
-Porina subsimplicans (Nyl.) Müll. Arg. SPECIES
-=======
+# Porina subsimplicans (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

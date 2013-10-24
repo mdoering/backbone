@@ -1,5 +1,4 @@
-Polyactis divaricata Preuss SPECIES
-=======
+# Polyactis divaricata Preuss SPECIES
 
 #### Status
 ACCEPTED

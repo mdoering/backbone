@@ -1,17 +1,16 @@
-Melanotaenium endogenum var. spermacoces (Thirum., Patel, G.W. Dhande & V.V. Bhatt) Cif. VARIETY
-=======
+# Melanotaenium endogenum (Unger) de Bary, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Ztg. 32: 106 (1874)
 
 #### Original name
-Melanotaenium spermacoces Thirum., Patel, G.W. Dhande & V.V. Bhatt
+Protomyces endogenus Unger, 1834
 
 ### Remarks
 null

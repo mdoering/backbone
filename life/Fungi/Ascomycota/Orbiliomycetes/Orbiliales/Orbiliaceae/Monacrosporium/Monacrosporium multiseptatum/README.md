@@ -1,5 +1,4 @@
-Monacrosporium multiseptatum H.Y. Su & K.Q. Zhang SPECIES
-=======
+# Monacrosporium multiseptatum H.Y. Su & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

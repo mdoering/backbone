@@ -1,5 +1,4 @@
-Pseudocryptomonas parrae C. E. M. Bicudo & G. Tell SPECIES
-=======
+# Pseudocryptomonas parrae C. E. M. Bicudo & G. Tell SPECIES
 
 #### Status
 ACCEPTED

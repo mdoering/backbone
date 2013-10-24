@@ -1,5 +1,4 @@
-Pseudocercospora angustata (Chupp & Solheim) Deighton SPECIES
-=======
+# Pseudocercospora angustata (Chupp & Solheim) Deighton SPECIES
 
 #### Status
 ACCEPTED

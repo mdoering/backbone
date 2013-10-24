@@ -1,5 +1,4 @@
-Patellaria dufourei (Fr.) SPECIES
-=======
+# Patellaria dufourei (Fr.) SPECIES
 
 #### Status
 ACCEPTED

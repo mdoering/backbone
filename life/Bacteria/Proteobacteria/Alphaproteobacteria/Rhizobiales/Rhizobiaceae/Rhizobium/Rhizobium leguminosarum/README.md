@@ -1,5 +1,4 @@
-Rhizobium leguminosarum (Frank, 1879) Frank, 1889 (Approved Lists, 1980) SPECIES
-=======
+# Rhizobium leguminosarum (Frank, 1879) Frank, 1889 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

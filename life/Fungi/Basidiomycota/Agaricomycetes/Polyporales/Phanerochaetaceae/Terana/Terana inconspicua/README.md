@@ -1,5 +1,4 @@
-Terana inconspicua (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Terana inconspicua (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

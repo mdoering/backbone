@@ -1,5 +1,4 @@
-Comasphaeridium filosum (Kjellström, 1971) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium filosum (Kjellström, 1971) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Helotium nigrescens Rehm, 1881 SPECIES
-=======
+# Crocicreas nigrescens (Rehm) S.E. Carp., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Brittonia 32(2): 271 (1980)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Brizalina dilatata (Reuss, 1850) SPECIES
-=======
+# Brizalina dilatata (Reuss, 1850) SPECIES
 
 #### Status
 ACCEPTED

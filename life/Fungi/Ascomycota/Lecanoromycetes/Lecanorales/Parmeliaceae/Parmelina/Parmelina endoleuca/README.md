@@ -1,5 +1,4 @@
-Parmelina endoleuca (Taylor) Hale SPECIES
-=======
+# Parmelina endoleuca (Taylor) Hale SPECIES
 
 #### Status
 ACCEPTED

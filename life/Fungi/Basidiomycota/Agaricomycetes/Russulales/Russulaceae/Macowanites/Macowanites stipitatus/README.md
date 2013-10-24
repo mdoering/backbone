@@ -1,14 +1,13 @@
-Elasmomyces stipitatus H.A. Peters, 1962 SPECIES
-=======
+# Macowanites stipitatus (H.A. Peters) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 54(1): 112 (1962)
+Mycotaxon 81: 202 (2002)
 
 #### Original name
 Elasmomyces stipitatus H.A. Peters, 1962

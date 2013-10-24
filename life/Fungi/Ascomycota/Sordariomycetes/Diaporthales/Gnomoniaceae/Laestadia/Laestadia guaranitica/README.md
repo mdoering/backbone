@@ -1,5 +1,4 @@
-Laestadia guaranitica Speg. SPECIES
-=======
+# Laestadia guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

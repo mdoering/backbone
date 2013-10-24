@@ -1,5 +1,4 @@
-Polyforama medialis Pykhova, 1969 SPECIES
-=======
+# Polyforama medialis Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

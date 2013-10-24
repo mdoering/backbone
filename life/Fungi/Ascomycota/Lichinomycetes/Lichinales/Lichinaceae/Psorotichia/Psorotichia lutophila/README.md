@@ -1,5 +1,4 @@
-Psorotichia lutophila Arnold SPECIES
-=======
+# Psorotichia lutophila Arnold SPECIES
 
 #### Status
 ACCEPTED

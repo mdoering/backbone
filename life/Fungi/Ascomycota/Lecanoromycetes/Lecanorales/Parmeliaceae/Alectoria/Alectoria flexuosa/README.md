@@ -1,5 +1,4 @@
-Alectoria flexuosa Motyka SPECIES
-=======
+# Alectoria flexuosa Motyka SPECIES
 
 #### Status
 ACCEPTED

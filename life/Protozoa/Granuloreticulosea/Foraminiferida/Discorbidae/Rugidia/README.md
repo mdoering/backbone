@@ -1,5 +1,4 @@
-Rugidia Heron-Allen & Earland, 1928 GENUS
-=======
+# Rugidia Heron-Allen & Earland, 1928 GENUS
 
 #### Status
 ACCEPTED

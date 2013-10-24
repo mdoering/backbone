@@ -1,5 +1,4 @@
-Arthonia dalmaticola H. Olivier SPECIES
-=======
+# Arthonia dalmaticola H. Olivier SPECIES
 
 #### Status
 ACCEPTED

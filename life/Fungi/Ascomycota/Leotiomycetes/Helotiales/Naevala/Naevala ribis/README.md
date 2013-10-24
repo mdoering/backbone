@@ -1,5 +1,4 @@
-Naevala ribis B. Hein, 1976 SPECIES
-=======
+# Naevala ribis B. Hein, 1976 SPECIES
 
 #### Status
 ACCEPTED

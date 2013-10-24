@@ -1,5 +1,4 @@
-Usconophrys Jankowski, 1985 GENUS
-=======
+# Usconophrys Jankowski, 1985 GENUS
 
 #### Status
 ACCEPTED

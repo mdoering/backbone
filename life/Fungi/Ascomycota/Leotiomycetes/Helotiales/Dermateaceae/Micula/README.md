@@ -1,5 +1,4 @@
-Micula GENUS
-=======
+# Micula GENUS
 
 #### Status
 ACCEPTED

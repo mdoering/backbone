@@ -1,5 +1,4 @@
-Loxophyllum ochrea Müller, 1786 SPECIES
-=======
+# Loxophyllum ochrea Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

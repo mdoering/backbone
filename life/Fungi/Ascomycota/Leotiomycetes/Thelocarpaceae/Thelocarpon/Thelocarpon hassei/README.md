@@ -1,5 +1,4 @@
-Thelocarpon hassei B. de Lesd. SPECIES
-=======
+# Thelocarpon hassei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

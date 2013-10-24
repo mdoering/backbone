@@ -1,8 +1,7 @@
-Clostridium oxalicum Dehning & Schink, 1990 SPECIES
-=======
+# Oxalophagus oxalicus (Dehning & Schink, 1990) Collins et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

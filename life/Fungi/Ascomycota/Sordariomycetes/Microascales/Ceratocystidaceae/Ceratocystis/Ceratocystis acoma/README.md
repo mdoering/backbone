@@ -1,5 +1,4 @@
-Ceratocystis acoma (V.V. Mill. & Tcherntz.) C. Moreau SPECIES
-=======
+# Ceratocystis acoma (V.V. Mill. & Tcherntz.) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

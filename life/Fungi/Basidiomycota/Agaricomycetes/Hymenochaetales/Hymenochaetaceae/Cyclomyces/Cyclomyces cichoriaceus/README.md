@@ -1,5 +1,4 @@
-Cyclomyces cichoriaceus (Berk. ex Fr.) Pat. SPECIES
-=======
+# Cyclomyces cichoriaceus (Berk. ex Fr.) Pat. SPECIES
 
 #### Status
 ACCEPTED

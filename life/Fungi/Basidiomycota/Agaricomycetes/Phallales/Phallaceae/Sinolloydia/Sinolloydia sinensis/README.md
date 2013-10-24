@@ -1,5 +1,4 @@
-Sinolloydia sinensis (Lloyd) C.H. Chow SPECIES
-=======
+# Sinolloydia sinensis (Lloyd) C.H. Chow SPECIES
 
 #### Status
 ACCEPTED

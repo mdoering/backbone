@@ -1,5 +1,4 @@
-Puccinia sibirica Tranzschel SPECIES
-=======
+# Puccinia sibirica Tranzschel SPECIES
 
 #### Status
 ACCEPTED

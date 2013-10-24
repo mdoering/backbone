@@ -1,5 +1,4 @@
-Protounguicularia nephromatis (Zhurb. & Zavarzin) Huhtinen, D. Hawksw. & Ihlen SPECIES
-=======
+# Protounguicularia nephromatis (Zhurb. & Zavarzin) Huhtinen, D. Hawksw. & Ihlen SPECIES
 
 #### Status
 ACCEPTED

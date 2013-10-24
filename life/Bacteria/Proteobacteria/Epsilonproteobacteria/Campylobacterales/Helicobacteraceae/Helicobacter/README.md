@@ -1,5 +1,4 @@
-Helicobacter Goodwin et al., 1989 GENUS
-=======
+# Helicobacter Goodwin et al., 1989 GENUS
 
 #### Status
 ACCEPTED

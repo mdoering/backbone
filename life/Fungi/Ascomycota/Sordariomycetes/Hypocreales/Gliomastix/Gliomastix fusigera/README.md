@@ -1,14 +1,13 @@
-Monotospora fusigera Berk. & Broome, 1873 SPECIES
-=======
+# Gliomastix fusigera (Berk. & Broome) C.H. Dickinson, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 99 (1873)
+Mycol. Pap. 115: 7 (1968)
 
 #### Original name
 Monotospora fusigera Berk. & Broome, 1873

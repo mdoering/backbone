@@ -1,5 +1,4 @@
-Pachyphysis ozarkana R. C. Harris & Ladd SPECIES
-=======
+# Pachyphysis ozarkana R. C. Harris & Ladd SPECIES
 
 #### Status
 ACCEPTED

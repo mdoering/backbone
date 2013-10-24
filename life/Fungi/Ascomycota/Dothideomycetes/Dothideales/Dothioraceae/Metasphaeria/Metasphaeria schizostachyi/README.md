@@ -1,5 +1,4 @@
-Metasphaeria schizostachyi Rehm SPECIES
-=======
+# Metasphaeria schizostachyi Rehm SPECIES
 
 #### Status
 ACCEPTED

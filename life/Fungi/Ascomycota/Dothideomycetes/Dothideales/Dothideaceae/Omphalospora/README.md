@@ -1,17 +1,16 @@
-Plectosphaerina Kirschst. GENUS
-=======
+# Omphalospora Theiss. & Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 36(5/6): 368 (1938)
+Annls mycol. 13(3/4): 361 (1915)
 
 #### Original name
-Plectosphaerina Kirschst.
+Omphalospora Theiss. & Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius subtilior J. Favre SPECIES
-=======
+# Cortinarius subtilior J. Favre SPECIES
 
 #### Status
 ACCEPTED

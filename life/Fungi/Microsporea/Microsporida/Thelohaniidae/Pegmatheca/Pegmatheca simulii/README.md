@@ -1,5 +1,4 @@
-Pegmatheca simulii E.I. Hazard & Oldacre SPECIES
-=======
+# Pegmatheca simulii E.I. Hazard & Oldacre SPECIES
 
 #### Status
 ACCEPTED

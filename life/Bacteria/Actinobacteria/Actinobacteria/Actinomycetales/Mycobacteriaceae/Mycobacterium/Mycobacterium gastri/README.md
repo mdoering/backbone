@@ -1,5 +1,4 @@
-Mycobacterium gastri Wayne, 1966 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium gastri Wayne, 1966 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

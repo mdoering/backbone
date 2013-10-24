@@ -1,14 +1,13 @@
-Stachylidium cyclosporum Grove, 1884 SPECIES
-=======
+# Phaeostalagmus cyclosporus (Grove) W. Gams, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 22: 12 (1884)
+in Gams & Holubová-Jechova, Stud. Mycol. 13: 91 (1976)
 
 #### Original name
 Stachylidium cyclosporum Grove, 1884

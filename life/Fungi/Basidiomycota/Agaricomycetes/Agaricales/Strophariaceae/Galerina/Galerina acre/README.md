@@ -1,5 +1,4 @@
-Galerina acre Gulden SPECIES
-=======
+# Galerina acre Gulden SPECIES
 
 #### Status
 ACCEPTED

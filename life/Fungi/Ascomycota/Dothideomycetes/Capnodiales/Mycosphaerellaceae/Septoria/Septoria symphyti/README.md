@@ -1,5 +1,4 @@
-Septoria symphyti Cejp SPECIES
-=======
+# Septoria symphyti Cejp SPECIES
 
 #### Status
 ACCEPTED

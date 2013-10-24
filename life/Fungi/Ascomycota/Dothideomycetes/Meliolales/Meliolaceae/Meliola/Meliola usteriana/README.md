@@ -1,5 +1,4 @@
-Meliola usteriana Rehm SPECIES
-=======
+# Meliola usteriana Rehm SPECIES
 
 #### Status
 ACCEPTED

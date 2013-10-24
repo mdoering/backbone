@@ -1,5 +1,4 @@
-Corynebacterium aquilae Fernández-Garayzábal et al., 2003 SPECIES
-=======
+# Corynebacterium aquilae Fernández-Garayzábal et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

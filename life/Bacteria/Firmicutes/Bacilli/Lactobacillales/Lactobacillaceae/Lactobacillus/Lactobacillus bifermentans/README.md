@@ -1,5 +1,4 @@
-Lactobacillus bifermentans (ex Pette & van Beynum, 1943) Kandler et al., 1983 SPECIES
-=======
+# Lactobacillus bifermentans (ex Pette & van Beynum, 1943) Kandler et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

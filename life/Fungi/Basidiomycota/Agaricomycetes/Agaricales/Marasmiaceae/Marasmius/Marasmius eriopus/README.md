@@ -1,5 +1,4 @@
-Marasmius eriopus Sacc. & P. Syd. SPECIES
-=======
+# Marasmius eriopus Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoparmeliopsis muralis var. muralis VARIETY
-=======
+# Protoparmeliopsis muralis (Rabenh.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Protoparmeliopsis muralis var. muralis
+null
 
 ### Remarks
 null

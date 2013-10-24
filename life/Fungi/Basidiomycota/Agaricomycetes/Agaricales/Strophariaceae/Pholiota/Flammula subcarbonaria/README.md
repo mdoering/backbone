@@ -1,5 +1,4 @@
-Flammula subcarbonaria Murrill SPECIES
-=======
+# Flammula subcarbonaria Murrill SPECIES
 
 #### Status
 ACCEPTED

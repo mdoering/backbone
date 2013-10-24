@@ -1,5 +1,4 @@
-Scenidium peltatum (Fr.) Kuntze SPECIES
-=======
+# Scenidium peltatum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

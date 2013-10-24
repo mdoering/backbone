@@ -1,5 +1,4 @@
-Marasmius matrisdei Singer SPECIES
-=======
+# Marasmius matrisdei Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acineta contorta SPECIES
-=======
+# Acineta contorta SPECIES
 
 #### Status
 ACCEPTED

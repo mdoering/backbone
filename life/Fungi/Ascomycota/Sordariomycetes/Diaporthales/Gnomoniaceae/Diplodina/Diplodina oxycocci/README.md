@@ -1,5 +1,4 @@
-Diplodina oxycocci (Henn.) Died. SPECIES
-=======
+# Diplodina oxycocci (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

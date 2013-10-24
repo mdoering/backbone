@@ -1,5 +1,4 @@
-Mixtura O.E. Erikss. & J.Z. Yue GENUS
-=======
+# Mixtura O.E. Erikss. & J.Z. Yue GENUS
 
 #### Status
 ACCEPTED

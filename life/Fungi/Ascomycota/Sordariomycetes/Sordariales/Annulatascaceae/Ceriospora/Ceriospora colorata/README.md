@@ -1,5 +1,4 @@
-Ceriospora colorata Tassi SPECIES
-=======
+# Ceriospora colorata Tassi SPECIES
 
 #### Status
 ACCEPTED

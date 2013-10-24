@@ -1,5 +1,4 @@
-Pertusaria rhagadoplaca Nyl. SPECIES
-=======
+# Pertusaria rhagadoplaca Nyl. SPECIES
 
 #### Status
 ACCEPTED

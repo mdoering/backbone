@@ -1,5 +1,4 @@
-Coniothyrium calligoni Golovin SPECIES
-=======
+# Coniothyrium calligoni Golovin SPECIES
 
 #### Status
 ACCEPTED

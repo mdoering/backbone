@@ -1,5 +1,4 @@
-Meliola lanneae Hosag. & Manojk. SPECIES
-=======
+# Meliola lanneae Hosag. & Manojk. SPECIES
 
 #### Status
 ACCEPTED

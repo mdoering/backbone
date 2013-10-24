@@ -1,17 +1,16 @@
-Orbilia vinosa var. vinosa VARIETY
-=======
+# Orbilia vinosa (Alb. & Schwein.) P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycoth. fenn. (Helsinki) 1: 101 (1871)
 
 #### Original name
-Orbilia vinosa var. vinosa
+null
 
 ### Remarks
 null

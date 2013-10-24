@@ -1,5 +1,4 @@
-Dothiorella santaremica Petr. SPECIES
-=======
+# Dothiorella santaremica Petr. SPECIES
 
 #### Status
 ACCEPTED

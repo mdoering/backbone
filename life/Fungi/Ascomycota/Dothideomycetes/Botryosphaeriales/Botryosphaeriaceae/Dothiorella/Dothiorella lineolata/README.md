@@ -1,5 +1,4 @@
-Dothiorella lineolata Sacc. & Trotter SPECIES
-=======
+# Dothiorella lineolata Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

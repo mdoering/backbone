@@ -1,5 +1,4 @@
-Psilocybe paulensis (Guzmán & Bononi) Guzmán SPECIES
-=======
+# Psilocybe paulensis (Guzmán & Bononi) Guzmán SPECIES
 
 #### Status
 ACCEPTED

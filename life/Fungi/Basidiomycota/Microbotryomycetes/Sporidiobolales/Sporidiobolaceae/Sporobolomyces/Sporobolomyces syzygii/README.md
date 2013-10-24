@@ -1,5 +1,4 @@
-Sporobolomyces syzygii Hamam., Thanh & Nakase SPECIES
-=======
+# Sporobolomyces syzygii Hamam., Thanh & Nakase SPECIES
 
 #### Status
 ACCEPTED

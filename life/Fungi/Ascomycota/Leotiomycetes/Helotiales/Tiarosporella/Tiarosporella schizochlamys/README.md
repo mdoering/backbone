@@ -1,5 +1,4 @@
-Tiarosporella schizochlamys (Ferd. & Winge) Höhn. SPECIES
-=======
+# Tiarosporella schizochlamys (Ferd. & Winge) Höhn. SPECIES
 
 #### Status
 ACCEPTED

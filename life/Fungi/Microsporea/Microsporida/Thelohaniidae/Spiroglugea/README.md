@@ -1,5 +1,4 @@
-Spiroglugea L. Léger & E. Hesse GENUS
-=======
+# Spiroglugea L. Léger & E. Hesse GENUS
 
 #### Status
 ACCEPTED

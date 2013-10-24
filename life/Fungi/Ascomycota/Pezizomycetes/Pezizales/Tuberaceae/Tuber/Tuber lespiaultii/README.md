@@ -1,5 +1,4 @@
-Tuber lespiaultii (Corda) Tul. SPECIES
-=======
+# Tuber lespiaultii (Corda) Tul. SPECIES
 
 #### Status
 ACCEPTED

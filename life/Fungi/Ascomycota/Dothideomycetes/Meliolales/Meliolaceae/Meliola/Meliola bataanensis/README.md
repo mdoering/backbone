@@ -1,5 +1,4 @@
-Meliola bataanensis Syd. & P. Syd. SPECIES
-=======
+# Meliola bataanensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

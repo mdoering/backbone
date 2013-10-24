@@ -1,5 +1,4 @@
-Craterium piriforme Ditmar SPECIES
-=======
+# Craterium piriforme Ditmar SPECIES
 
 #### Status
 ACCEPTED

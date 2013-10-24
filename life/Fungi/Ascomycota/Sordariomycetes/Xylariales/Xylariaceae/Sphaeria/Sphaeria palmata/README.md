@@ -1,5 +1,4 @@
-Sphaeria palmata Schultz SPECIES
-=======
+# Sphaeria palmata Schultz SPECIES
 
 #### Status
 ACCEPTED

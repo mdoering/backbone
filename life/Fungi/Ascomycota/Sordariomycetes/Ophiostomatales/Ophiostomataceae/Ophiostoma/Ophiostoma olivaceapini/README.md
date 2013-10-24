@@ -1,5 +1,4 @@
-Ophiostoma olivaceapini (R.W. Davidson) Seifert & G. Okada SPECIES
-=======
+# Ophiostoma olivaceapini (R.W. Davidson) Seifert & G. Okada SPECIES
 
 #### Status
 ACCEPTED

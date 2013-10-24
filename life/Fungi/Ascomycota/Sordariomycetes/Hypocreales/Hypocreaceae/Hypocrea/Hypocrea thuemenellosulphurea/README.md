@@ -1,5 +1,4 @@
-Hypocrea thuemenellosulphurea Yoshim. Doi SPECIES
-=======
+# Hypocrea thuemenellosulphurea Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

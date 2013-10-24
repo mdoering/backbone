@@ -1,5 +1,4 @@
-Ustilago festucarum Liro SPECIES
-=======
+# Ustilago festucarum Liro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrophilomyces elegans Speg. SPECIES
-=======
+# Hydrophilomyces elegans Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius basicarneus Corner SPECIES
-=======
+# Marasmius basicarneus Corner SPECIES
 
 #### Status
 ACCEPTED

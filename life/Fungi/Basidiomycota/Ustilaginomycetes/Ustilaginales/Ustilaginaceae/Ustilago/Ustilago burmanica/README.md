@@ -1,5 +1,4 @@
-Ustilago burmanica Syd. & P. Syd. SPECIES
-=======
+# Ustilago burmanica Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

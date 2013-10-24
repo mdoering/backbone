@@ -1,5 +1,4 @@
-Asterina verae-crucis Theiss. SPECIES
-=======
+# Asterina verae-crucis Theiss. SPECIES
 
 #### Status
 ACCEPTED

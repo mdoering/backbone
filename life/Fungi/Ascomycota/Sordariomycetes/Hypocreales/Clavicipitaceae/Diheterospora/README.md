@@ -1,5 +1,4 @@
-Diheterospora Kamyschko, 1962 GENUS
-=======
+# Diheterospora Kamyschko, 1962 GENUS
 
 #### Status
 ACCEPTED

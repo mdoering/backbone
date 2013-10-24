@@ -1,5 +1,4 @@
-Mystrosporium cerasi Schulzer & Sacc. SPECIES
-=======
+# Mystrosporium cerasi Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

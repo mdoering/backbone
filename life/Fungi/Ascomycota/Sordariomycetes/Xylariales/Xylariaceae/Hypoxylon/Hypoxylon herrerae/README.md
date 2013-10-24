@@ -1,5 +1,4 @@
-Hypoxylon herrerae Gonz. Frag. SPECIES
-=======
+# Hypoxylon herrerae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

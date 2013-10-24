@@ -1,5 +1,4 @@
-Chlamydomyzium M.W. Dick GENUS
-=======
+# Chlamydomyzium M.W. Dick GENUS
 
 #### Status
 ACCEPTED

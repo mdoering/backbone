@@ -1,5 +1,4 @@
-Isthmotricladia Matsush. GENUS
-=======
+# Isthmotricladia Matsush. GENUS
 
 #### Status
 ACCEPTED

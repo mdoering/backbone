@@ -1,5 +1,4 @@
-Pythium nodosum B. Paul, D. Galland, T. Bhatn. & Dulieu, 1998 SPECIES
-=======
+# Pythium nodosum B. Paul, D. Galland, T. Bhatn. & Dulieu, 1998 SPECIES
 
 #### Status
 ACCEPTED

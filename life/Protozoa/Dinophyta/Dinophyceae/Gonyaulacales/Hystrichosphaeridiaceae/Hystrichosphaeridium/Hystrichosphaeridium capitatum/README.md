@@ -1,5 +1,4 @@
-Hystrichosphaeridium capitatum Cookson & Eisenack SPECIES
-=======
+# Hystrichosphaeridium capitatum Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

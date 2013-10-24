@@ -1,5 +1,4 @@
-Hendersonia eustoma Sacc. SPECIES
-=======
+# Hendersonia eustoma Sacc. SPECIES
 
 #### Status
 ACCEPTED

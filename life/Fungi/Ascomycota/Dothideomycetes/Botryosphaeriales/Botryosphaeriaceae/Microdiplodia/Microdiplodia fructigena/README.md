@@ -1,5 +1,4 @@
-Microdiplodia fructigena (Brunaud) Allesch. SPECIES
-=======
+# Microdiplodia fructigena (Brunaud) Allesch. SPECIES
 
 #### Status
 ACCEPTED

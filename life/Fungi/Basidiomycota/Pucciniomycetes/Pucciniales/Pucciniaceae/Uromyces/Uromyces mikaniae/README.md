@@ -1,5 +1,4 @@
-Uromyces mikaniae Viégas SPECIES
-=======
+# Uromyces mikaniae Viégas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea illudens Nyl. SPECIES
-=======
+# Lecidea illudens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocyphellaria albidopallens f. albidopallens FORM
-=======
+# Pseudocyphellaria albidopallens Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Résult. Voy. Belgica, Lich. 28 (1903)
 
 #### Original name
-Pseudocyphellaria albidopallens f. albidopallens
+Pseudocyphellaria albidopallens Vain.
 
 ### Remarks
 null

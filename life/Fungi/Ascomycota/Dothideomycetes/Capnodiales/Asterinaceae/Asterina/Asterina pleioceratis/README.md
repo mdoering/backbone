@@ -1,5 +1,4 @@
-Asterina pleioceratis S. Hughes SPECIES
-=======
+# Asterina pleioceratis S. Hughes SPECIES
 
 #### Status
 ACCEPTED

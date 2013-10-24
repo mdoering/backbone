@@ -1,5 +1,4 @@
-Hypocrea conispora Yoshim. Doi & Samuels SPECIES
-=======
+# Hypocrea conispora Yoshim. Doi & Samuels SPECIES
 
 #### Status
 ACCEPTED

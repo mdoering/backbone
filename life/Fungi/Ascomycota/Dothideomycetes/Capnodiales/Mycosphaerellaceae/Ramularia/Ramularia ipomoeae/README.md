@@ -1,5 +1,4 @@
-Ramularia ipomoeae F. Stevens SPECIES
-=======
+# Ramularia ipomoeae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

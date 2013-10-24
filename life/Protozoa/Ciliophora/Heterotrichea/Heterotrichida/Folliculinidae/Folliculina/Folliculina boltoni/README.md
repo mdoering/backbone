@@ -1,5 +1,4 @@
-Folliculina boltoni Kent, 1881 SPECIES
-=======
+# Folliculina boltoni Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

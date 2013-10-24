@@ -1,5 +1,4 @@
-Discophrya helophori Matthes & Plachter, 1975 SPECIES
-=======
+# Discophrya helophori Matthes & Plachter, 1975 SPECIES
 
 #### Status
 ACCEPTED

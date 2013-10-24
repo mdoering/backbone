@@ -1,5 +1,4 @@
-Diplodia arthrophylli Penz. & Sacc. SPECIES
-=======
+# Diplodia arthrophylli Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

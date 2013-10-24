@@ -1,5 +1,4 @@
-Amphitetras perryana (Truan & Witt) De Toni SPECIES
-=======
+# Amphitetras perryana (Truan & Witt) De Toni SPECIES
 
 #### Status
 ACCEPTED

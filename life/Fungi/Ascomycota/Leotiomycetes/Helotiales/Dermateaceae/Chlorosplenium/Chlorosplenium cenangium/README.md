@@ -1,14 +1,13 @@
-Pezicula cenangium (De Not.) Sacc., 1889 SPECIES
-=======
+# Chlorosplenium cenangium (De Not.) Korf, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 314 (1889)
+Beitr. Kryptfl. Schweiz 15(no. 1): 32 (1977)
 
 #### Original name
 null

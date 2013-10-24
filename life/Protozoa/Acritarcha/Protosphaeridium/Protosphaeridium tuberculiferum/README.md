@@ -1,5 +1,4 @@
-Protosphaeridium tuberculiferum Timofeev, 1966 SPECIES
-=======
+# Protosphaeridium tuberculiferum Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teloschistes pusillus (A. Massal.) Trevis. SPECIES
-=======
+# Teloschistes pusillus (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

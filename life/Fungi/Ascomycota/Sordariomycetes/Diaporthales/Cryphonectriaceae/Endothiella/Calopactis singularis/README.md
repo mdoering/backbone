@@ -1,5 +1,4 @@
-Calopactis singularis Syd. SPECIES
-=======
+# Calopactis singularis Syd. SPECIES
 
 #### Status
 ACCEPTED

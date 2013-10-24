@@ -1,5 +1,4 @@
-Amanita solaniolens H.L. Stewart & Grund SPECIES
-=======
+# Amanita solaniolens H.L. Stewart & Grund SPECIES
 
 #### Status
 ACCEPTED

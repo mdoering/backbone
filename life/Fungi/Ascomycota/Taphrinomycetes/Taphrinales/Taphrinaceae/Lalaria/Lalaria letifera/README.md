@@ -1,5 +1,4 @@
-Lalaria letifera R.T. Moore SPECIES
-=======
+# Lalaria letifera R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perisporites Pampal. GENUS
-=======
+# Perisporites Pampal. GENUS
 
 #### Status
 ACCEPTED

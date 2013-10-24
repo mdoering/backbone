@@ -1,5 +1,4 @@
-Kitasatospora cystarginea Kusakabe & Isono, 1992 SPECIES
-=======
+# Kitasatospora cystarginea Kusakabe & Isono, 1992 SPECIES
 
 #### Status
 ACCEPTED

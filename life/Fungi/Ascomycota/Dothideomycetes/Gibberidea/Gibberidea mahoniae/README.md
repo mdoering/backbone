@@ -1,5 +1,4 @@
-Gibberidea mahoniae (Richon) Kuntze SPECIES
-=======
+# Gibberidea mahoniae (Richon) Kuntze SPECIES
 
 #### Status
 ACCEPTED

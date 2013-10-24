@@ -1,5 +1,4 @@
-Agaricus salicophilus M. Lange SPECIES
-=======
+# Agaricus salicophilus M. Lange SPECIES
 
 #### Status
 ACCEPTED

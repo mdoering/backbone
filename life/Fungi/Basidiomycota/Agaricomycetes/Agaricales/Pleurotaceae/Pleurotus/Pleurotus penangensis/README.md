@@ -1,5 +1,4 @@
-Pleurotus penangensis Corner, 1981 SPECIES
-=======
+# Pleurotus penangensis Corner, 1981 SPECIES
 
 #### Status
 ACCEPTED

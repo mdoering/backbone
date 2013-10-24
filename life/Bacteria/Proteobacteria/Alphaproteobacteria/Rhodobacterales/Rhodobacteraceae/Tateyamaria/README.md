@@ -1,5 +1,4 @@
-Tateyamaria Kurahashi & Yokota, 2008 GENUS
-=======
+# Tateyamaria Kurahashi & Yokota, 2008 GENUS
 
 #### Status
 ACCEPTED

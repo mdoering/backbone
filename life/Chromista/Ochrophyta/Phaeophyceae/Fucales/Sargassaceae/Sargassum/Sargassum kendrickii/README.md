@@ -1,5 +1,4 @@
-Sargassum kendrickii N.A.Goldberg & Huisman, 2004 SPECIES
-=======
+# Sargassum kendrickii N.A.Goldberg & Huisman, 2004 SPECIES
 
 #### Status
 ACCEPTED

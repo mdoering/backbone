@@ -1,5 +1,4 @@
-Cistella piceae SPECIES
-=======
+# Cistella piceae SPECIES
 
 #### Status
 ACCEPTED

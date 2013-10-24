@@ -1,17 +1,16 @@
-Allosoma indica Tilak, S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Allosoma indicum Tilak, S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 23(1-6): 13 (1970)
 
 #### Original name
-Allosoma indica Tilak, S.B. Kale & S.V.S. Kale
+Allosoma indicum Tilak, S.B. Kale & S.V.S. Kale
 
 ### Remarks
 null

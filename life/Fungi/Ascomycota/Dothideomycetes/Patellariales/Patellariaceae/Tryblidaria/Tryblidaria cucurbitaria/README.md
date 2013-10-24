@@ -1,5 +1,4 @@
-Tryblidaria cucurbitaria (Cooke) M.E. Barr SPECIES
-=======
+# Tryblidaria cucurbitaria (Cooke) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

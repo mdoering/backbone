@@ -1,5 +1,4 @@
-Lecidea lobificans Nyl. SPECIES
-=======
+# Lecidea lobificans Nyl. SPECIES
 
 #### Status
 ACCEPTED

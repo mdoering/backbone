@@ -1,5 +1,4 @@
-Lessonia repens Ruprecht SPECIES
-=======
+# Lessonia repens Ruprecht SPECIES
 
 #### Status
 ACCEPTED

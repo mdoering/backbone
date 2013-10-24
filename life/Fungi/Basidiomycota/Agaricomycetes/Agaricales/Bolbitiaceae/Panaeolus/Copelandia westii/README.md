@@ -1,5 +1,4 @@
-Copelandia westii (Murrill) Singer SPECIES
-=======
+# Copelandia westii (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

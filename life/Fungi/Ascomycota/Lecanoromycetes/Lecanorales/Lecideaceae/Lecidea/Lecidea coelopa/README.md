@@ -1,5 +1,4 @@
-Lecidea coelopa Stirt. SPECIES
-=======
+# Lecidea coelopa Stirt. SPECIES
 
 #### Status
 ACCEPTED

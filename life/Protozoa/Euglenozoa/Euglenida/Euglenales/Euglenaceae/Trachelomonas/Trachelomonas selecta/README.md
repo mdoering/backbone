@@ -1,5 +1,4 @@
-Trachelomonas selecta Deflandre SPECIES
-=======
+# Trachelomonas selecta Deflandre SPECIES
 
 #### Status
 ACCEPTED

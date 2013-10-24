@@ -1,5 +1,4 @@
-Enterobryus elegans Leidy, 1850 SPECIES
-=======
+# Enterobryus elegans Leidy, 1850 SPECIES
 
 #### Status
 ACCEPTED

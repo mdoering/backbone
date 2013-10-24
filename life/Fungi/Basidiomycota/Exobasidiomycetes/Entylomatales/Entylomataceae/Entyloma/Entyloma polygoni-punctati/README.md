@@ -1,5 +1,4 @@
-Entyloma polygoni-punctati Cif. SPECIES
-=======
+# Entyloma polygoni-punctati Cif. SPECIES
 
 #### Status
 ACCEPTED

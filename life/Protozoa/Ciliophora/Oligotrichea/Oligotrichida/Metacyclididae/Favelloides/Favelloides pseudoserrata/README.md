@@ -1,5 +1,4 @@
-Favelloides pseudoserrata SPECIES
-=======
+# Favelloides pseudoserrata SPECIES
 
 #### Status
 ACCEPTED

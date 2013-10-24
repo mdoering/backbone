@@ -1,5 +1,4 @@
-Lecidea michoacanensis B. de Lesd. SPECIES
-=======
+# Lecidea michoacanensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

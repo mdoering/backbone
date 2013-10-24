@@ -1,5 +1,4 @@
-Pertusaria chacoensis Messuti & L.I. Ferraro SPECIES
-=======
+# Pertusaria chacoensis Messuti & L.I. Ferraro SPECIES
 
 #### Status
 ACCEPTED

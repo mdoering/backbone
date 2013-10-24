@@ -1,5 +1,4 @@
-Krombholzia leucophaeus (Pers.) Iordanov {?}, Vanev & Fakirova SPECIES
-=======
+# Krombholzia leucophaeus (Pers.) Iordanov {?}, Vanev & Fakirova SPECIES
 
 #### Status
 ACCEPTED

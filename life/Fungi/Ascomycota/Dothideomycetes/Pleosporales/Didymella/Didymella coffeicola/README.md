@@ -1,5 +1,4 @@
-Didymella coffeicola Saccas, 1981 SPECIES
-=======
+# Didymella coffeicola Saccas, 1981 SPECIES
 
 #### Status
 ACCEPTED

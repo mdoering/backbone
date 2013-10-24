@@ -1,5 +1,4 @@
-Aplosporella microspora Ellis & Everh. SPECIES
-=======
+# Aplosporella microspora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

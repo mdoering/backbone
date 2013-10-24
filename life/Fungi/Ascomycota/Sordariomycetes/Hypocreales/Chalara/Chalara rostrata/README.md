@@ -1,5 +1,4 @@
-Chalara rostrata Nag Raj & W.B. Kendr. SPECIES
-=======
+# Chalara rostrata Nag Raj & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

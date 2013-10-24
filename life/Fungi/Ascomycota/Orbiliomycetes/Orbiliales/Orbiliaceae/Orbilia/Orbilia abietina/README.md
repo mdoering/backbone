@@ -1,5 +1,4 @@
-Orbilia abietina Velen. SPECIES
-=======
+# Orbilia abietina Velen. SPECIES
 
 #### Status
 ACCEPTED

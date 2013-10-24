@@ -1,5 +1,4 @@
-Stigmatomyces borboridinus Thaxt. SPECIES
-=======
+# Stigmatomyces borboridinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

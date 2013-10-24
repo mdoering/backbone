@@ -1,5 +1,4 @@
-Mucor saprophilus Novot. SPECIES
-=======
+# Mucor saprophilus Novot. SPECIES
 
 #### Status
 ACCEPTED

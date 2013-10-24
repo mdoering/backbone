@@ -1,11 +1,10 @@
-Actinobacterium meyeri Prévot, 1938 SPECIES
-=======
+# Actinomyces meyeri (ex Prévot, 1938) Cato et al., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Protoperidinium vulgare Balech, 1978 SPECIES
-=======
+# Protoperidinium vulgare Balech, 1978 SPECIES
 
 #### Status
 ACCEPTED

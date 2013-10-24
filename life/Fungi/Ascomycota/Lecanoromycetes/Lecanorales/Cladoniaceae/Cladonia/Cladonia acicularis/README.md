@@ -1,5 +1,4 @@
-Cladonia acicularis (Ach.) Fr. SPECIES
-=======
+# Cladonia acicularis (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

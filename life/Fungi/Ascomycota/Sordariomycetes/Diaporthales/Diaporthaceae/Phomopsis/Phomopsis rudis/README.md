@@ -1,14 +1,13 @@
-Phoma rudis Sacc., 1878 SPECIES
-=======
+# Phomopsis rudis (Sacc.) Höhn., 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 2): 257 (1878)
+Fragm. Mykol. 87: (1906)
 
 #### Original name
 Phoma rudis Sacc., 1878

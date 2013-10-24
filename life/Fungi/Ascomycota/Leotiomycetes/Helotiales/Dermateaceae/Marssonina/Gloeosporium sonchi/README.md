@@ -1,5 +1,4 @@
-Gloeosporium sonchi Rostr. SPECIES
-=======
+# Gloeosporium sonchi Rostr. SPECIES
 
 #### Status
 ACCEPTED

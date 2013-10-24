@@ -1,5 +1,4 @@
-Bacidia sulphurella Samp. SPECIES
-=======
+# Bacidia sulphurella Samp. SPECIES
 
 #### Status
 ACCEPTED

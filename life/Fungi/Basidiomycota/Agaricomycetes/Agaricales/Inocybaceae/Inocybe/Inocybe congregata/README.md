@@ -1,5 +1,4 @@
-Inocybe congregata A. Pearson SPECIES
-=======
+# Inocybe congregata A. Pearson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thaumatodinium molischii A. Böhm SPECIES
-=======
+# Thaumatodinium molischii A. Böhm SPECIES
 
 #### Status
 ACCEPTED

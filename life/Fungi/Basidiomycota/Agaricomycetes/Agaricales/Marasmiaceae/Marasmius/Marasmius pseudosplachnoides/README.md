@@ -1,5 +1,4 @@
-Marasmius pseudosplachnoides Henn. SPECIES
-=======
+# Marasmius pseudosplachnoides Henn. SPECIES
 
 #### Status
 ACCEPTED

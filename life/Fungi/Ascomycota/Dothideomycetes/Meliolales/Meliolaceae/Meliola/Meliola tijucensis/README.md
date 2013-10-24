@@ -1,5 +1,4 @@
-Meliola tijucensis Hansf. SPECIES
-=======
+# Meliola tijucensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

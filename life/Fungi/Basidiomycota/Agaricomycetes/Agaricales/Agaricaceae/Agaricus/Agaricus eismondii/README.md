@@ -1,5 +1,4 @@
-Agaricus eismondii Blonski SPECIES
-=======
+# Agaricus eismondii Blonski SPECIES
 
 #### Status
 ACCEPTED

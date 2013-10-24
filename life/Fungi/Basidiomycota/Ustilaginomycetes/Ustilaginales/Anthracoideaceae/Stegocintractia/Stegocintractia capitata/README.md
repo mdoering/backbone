@@ -1,5 +1,4 @@
-Stegocintractia capitata Vánky, Jage, U. Schlüter & Sluschny SPECIES
-=======
+# Stegocintractia capitata Vánky, Jage, U. Schlüter & Sluschny SPECIES
 
 #### Status
 ACCEPTED

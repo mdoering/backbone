@@ -1,5 +1,4 @@
-Coniochaeta perangusta Udagawa & Y. Sugiy., 1982 SPECIES
-=======
+# Coniochaeta perangusta Udagawa & Y. Sugiy., 1982 SPECIES
 
 #### Status
 ACCEPTED

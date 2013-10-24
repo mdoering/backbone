@@ -1,5 +1,4 @@
-Angulochrysis erratica Lackey SPECIES
-=======
+# Angulochrysis erratica Lackey SPECIES
 
 #### Status
 ACCEPTED

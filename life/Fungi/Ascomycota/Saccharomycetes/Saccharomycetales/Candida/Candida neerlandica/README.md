@@ -1,5 +1,4 @@
-Candida neerlandica Kurtzman, Robnett & Yarrow, 2001 SPECIES
-=======
+# Candida neerlandica Kurtzman, Robnett & Yarrow, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isaria macroscyticola Kobayasi SPECIES
-=======
+# Isaria macroscyticola Kobayasi SPECIES
 
 #### Status
 ACCEPTED

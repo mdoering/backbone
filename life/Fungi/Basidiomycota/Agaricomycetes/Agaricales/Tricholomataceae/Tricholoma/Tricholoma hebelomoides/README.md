@@ -1,5 +1,4 @@
-Tricholoma hebelomoides E. Horak SPECIES
-=======
+# Tricholoma hebelomoides E. Horak SPECIES
 
 #### Status
 ACCEPTED

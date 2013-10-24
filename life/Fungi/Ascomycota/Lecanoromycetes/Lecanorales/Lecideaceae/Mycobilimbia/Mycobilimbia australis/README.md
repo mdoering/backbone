@@ -1,5 +1,4 @@
-Mycobilimbia australis Kantvilas & Messuti SPECIES
-=======
+# Mycobilimbia australis Kantvilas & Messuti SPECIES
 
 #### Status
 ACCEPTED

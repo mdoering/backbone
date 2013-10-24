@@ -1,5 +1,4 @@
-Camarosporium astragali Golovin SPECIES
-=======
+# Camarosporium astragali Golovin SPECIES
 
 #### Status
 ACCEPTED

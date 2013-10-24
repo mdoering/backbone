@@ -1,5 +1,4 @@
-Glaciecola mesophila Romanenko et al., 2003 SPECIES
-=======
+# Glaciecola mesophila Romanenko et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

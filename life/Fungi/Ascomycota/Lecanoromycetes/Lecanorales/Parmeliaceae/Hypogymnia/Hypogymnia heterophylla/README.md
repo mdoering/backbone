@@ -1,5 +1,4 @@
-Hypogymnia heterophylla L. H. Pike SPECIES
-=======
+# Hypogymnia heterophylla L. H. Pike SPECIES
 
 #### Status
 ACCEPTED

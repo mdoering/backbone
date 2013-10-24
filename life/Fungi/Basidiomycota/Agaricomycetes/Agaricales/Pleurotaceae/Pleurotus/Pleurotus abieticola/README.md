@@ -1,5 +1,4 @@
-Pleurotus abieticola R.H. Petersen & K.W. Hughes, 1997 SPECIES
-=======
+# Pleurotus abieticola R.H. Petersen & K.W. Hughes, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca heterospora Poelt & Hinter. SPECIES
-=======
+# Caloplaca heterospora Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

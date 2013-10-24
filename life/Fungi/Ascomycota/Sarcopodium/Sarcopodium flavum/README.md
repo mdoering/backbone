@@ -1,5 +1,4 @@
-Sarcopodium flavum Fr. SPECIES
-=======
+# Sarcopodium flavum Fr. SPECIES
 
 #### Status
 ACCEPTED

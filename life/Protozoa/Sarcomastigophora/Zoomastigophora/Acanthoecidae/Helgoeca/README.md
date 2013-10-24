@@ -1,5 +1,4 @@
-Helgoeca Leadbeater, 2008 GENUS
-=======
+# Helgoeca Leadbeater, 2008 GENUS
 
 #### Status
 ACCEPTED

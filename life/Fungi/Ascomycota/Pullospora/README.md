@@ -1,5 +1,4 @@
-Pullospora Faurel & Schotter GENUS
-=======
+# Pullospora Faurel & Schotter GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euceratomyces Thaxt. GENUS
-=======
+# Euceratomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

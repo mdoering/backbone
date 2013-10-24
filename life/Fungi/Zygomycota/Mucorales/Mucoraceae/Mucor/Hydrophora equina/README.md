@@ -1,5 +1,4 @@
-Hydrophora equina (Pers.) Fr. SPECIES
-=======
+# Hydrophora equina (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

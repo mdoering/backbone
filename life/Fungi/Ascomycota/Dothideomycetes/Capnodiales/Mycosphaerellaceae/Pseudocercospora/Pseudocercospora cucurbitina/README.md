@@ -1,5 +1,4 @@
-Pseudocercospora cucurbitina (Speg.) U. Braun SPECIES
-=======
+# Pseudocercospora cucurbitina (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Donkia Pilát GENUS
-=======
+# Climacodon P. Karsten, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 52: 328 (1937)
+null
 
 #### Original name
-Donkia Pilát
+null
 
 ### Remarks
 null

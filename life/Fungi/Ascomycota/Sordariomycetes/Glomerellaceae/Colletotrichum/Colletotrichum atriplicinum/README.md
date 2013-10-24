@@ -1,5 +1,4 @@
-Colletotrichum atriplicinum Syd. SPECIES
-=======
+# Colletotrichum atriplicinum Syd. SPECIES
 
 #### Status
 ACCEPTED

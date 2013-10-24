@@ -1,5 +1,4 @@
-Sphaeronaemella subulata Grove SPECIES
-=======
+# Sphaeronaemella subulata Grove SPECIES
 
 #### Status
 ACCEPTED

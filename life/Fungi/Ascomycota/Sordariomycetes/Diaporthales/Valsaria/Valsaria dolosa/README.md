@@ -1,5 +1,4 @@
-Valsaria dolosa (Fr.) De Not. SPECIES
-=======
+# Valsaria dolosa (Fr.) De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arnaudiella petrocallidis Nograsek SPECIES
-=======
+# Arnaudiella petrocallidis Nograsek SPECIES
 
 #### Status
 ACCEPTED

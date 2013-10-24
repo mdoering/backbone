@@ -1,5 +1,4 @@
-Thelidium anisomerum Hellb. SPECIES
-=======
+# Thelidium anisomerum Hellb. SPECIES
 
 #### Status
 ACCEPTED

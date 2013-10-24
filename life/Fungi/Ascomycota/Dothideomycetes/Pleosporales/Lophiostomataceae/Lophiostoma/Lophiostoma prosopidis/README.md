@@ -1,5 +1,4 @@
-Lophiostoma prosopidis R. Rao SPECIES
-=======
+# Lophiostoma prosopidis R. Rao SPECIES
 
 #### Status
 ACCEPTED

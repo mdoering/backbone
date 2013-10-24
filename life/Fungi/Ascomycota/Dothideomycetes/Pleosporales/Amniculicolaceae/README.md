@@ -1,5 +1,4 @@
-Amniculicolaceae FAMILY
-=======
+# Amniculicolaceae FAMILY
 
 #### Status
 ACCEPTED

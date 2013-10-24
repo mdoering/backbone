@@ -1,17 +1,16 @@
-Ascochyta fagopyri subsp. fagopyri SUBSPECIES
-=======
+# Ascochyta fagopyri Bres. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Hedwigia 31: 40 (1892)
 
 #### Original name
-null
+Ascochyta fagopyri Bres.
 
 ### Remarks
 null

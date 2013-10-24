@@ -1,5 +1,4 @@
-Sporochnales Sauvageau, 1926 ORDER
-=======
+# Sporochnales Sauvageau, 1926 ORDER
 
 #### Status
 ACCEPTED

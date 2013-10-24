@@ -1,5 +1,4 @@
-Pestalotia eriobotryicola Sawada SPECIES
-=======
+# Pestalotia eriobotryicola Sawada SPECIES
 
 #### Status
 ACCEPTED

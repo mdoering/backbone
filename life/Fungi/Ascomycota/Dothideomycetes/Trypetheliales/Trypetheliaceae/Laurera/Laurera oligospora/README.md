@@ -1,5 +1,4 @@
-Laurera oligospora (Mont. & Bosch) Zahlbr. SPECIES
-=======
+# Laurera oligospora (Mont. & Bosch) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

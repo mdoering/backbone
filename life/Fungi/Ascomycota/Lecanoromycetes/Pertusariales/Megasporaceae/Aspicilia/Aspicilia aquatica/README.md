@@ -1,17 +1,16 @@
-Lecanora aquatica f. aquatica FORM
-=======
+# Aspicilia aquatica Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) 146 (1855)
 
 #### Original name
-Lecanora aquatica f. aquatica
+Aspicilia aquatica Körb.
 
 ### Remarks
 null

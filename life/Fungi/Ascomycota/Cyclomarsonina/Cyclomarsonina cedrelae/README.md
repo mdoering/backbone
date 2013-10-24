@@ -1,14 +1,13 @@
-Discella cedrelae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Cyclomarsonina cedrelae (T.S. Ramakr. & K. Ramakr.) Petr., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 32: 110 (1950)
+Sydowia 18: 391 (1965)
 
 #### Original name
 Discella cedrelae T.S. Ramakr. & K. Ramakr.

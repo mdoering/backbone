@@ -1,5 +1,4 @@
-Parmelia canescens Kurok. SPECIES
-=======
+# Parmelia canescens Kurok. SPECIES
 
 #### Status
 ACCEPTED

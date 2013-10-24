@@ -1,5 +1,4 @@
-Glandulina antarctica Parr, 1950 SPECIES
-=======
+# Glandulina antarctica Parr, 1950 SPECIES
 
 #### Status
 ACCEPTED

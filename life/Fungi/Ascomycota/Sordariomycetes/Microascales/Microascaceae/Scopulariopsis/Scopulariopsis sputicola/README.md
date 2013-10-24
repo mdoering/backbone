@@ -1,5 +1,4 @@
-Scopulariopsis sputicola (Galippe) C.W. Dodge SPECIES
-=======
+# Scopulariopsis sputicola (Galippe) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

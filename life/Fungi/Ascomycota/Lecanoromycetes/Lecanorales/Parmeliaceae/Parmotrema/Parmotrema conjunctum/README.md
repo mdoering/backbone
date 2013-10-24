@@ -1,5 +1,4 @@
-Parmotrema conjunctum Hale SPECIES
-=======
+# Parmotrema conjunctum Hale SPECIES
 
 #### Status
 ACCEPTED

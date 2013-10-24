@@ -1,5 +1,4 @@
-Coniothyrium globuliferum Rabenh. SPECIES
-=======
+# Coniothyrium globuliferum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

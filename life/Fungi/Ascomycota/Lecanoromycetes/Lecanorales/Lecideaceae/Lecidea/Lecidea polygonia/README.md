@@ -1,5 +1,4 @@
-Lecidea polygonia (Flot.) Nyl. SPECIES
-=======
+# Lecidea polygonia (Flot.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

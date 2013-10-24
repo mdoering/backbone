@@ -1,5 +1,4 @@
-Paracannopilus virginicus (Ehrenberg) P. Dumitrica SPECIES
-=======
+# Paracannopilus virginicus (Ehrenberg) P. Dumitrica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora oxalidis Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora oxalidis Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

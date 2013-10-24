@@ -1,5 +1,4 @@
-Mycena pseudocorticola Kühner, 1938 SPECIES
-=======
+# Mycena pseudocorticola Kühner, 1938 SPECIES
 
 #### Status
 ACCEPTED

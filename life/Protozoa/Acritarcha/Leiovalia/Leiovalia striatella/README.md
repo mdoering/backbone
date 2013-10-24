@@ -1,5 +1,4 @@
-Leiovalia striatella Paskeviciene, 1980 SPECIES
-=======
+# Leiovalia striatella Paskeviciene, 1980 SPECIES
 
 #### Status
 ACCEPTED

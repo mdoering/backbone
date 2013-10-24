@@ -1,5 +1,4 @@
-Calicium punctiforme Nitschke SPECIES
-=======
+# Calicium punctiforme Nitschke SPECIES
 
 #### Status
 ACCEPTED

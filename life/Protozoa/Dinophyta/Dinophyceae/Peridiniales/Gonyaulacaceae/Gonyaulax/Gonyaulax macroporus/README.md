@@ -1,5 +1,4 @@
-Gonyaulax macroporus Mangin, 1922 SPECIES
-=======
+# Gonyaulax macroporus Mangin, 1922 SPECIES
 
 #### Status
 ACCEPTED

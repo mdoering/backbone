@@ -1,5 +1,4 @@
-Sarcogyne regularis f. regularis FORM
-=======
+# Sarcogyne regularis Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syst. lich. germ. (Breslau) 267 (1855)
 
 #### Original name
-Sarcogyne regularis f. regularis
+Sarcogyne regularis Körb.
 
 ### Remarks
 null

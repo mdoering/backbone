@@ -1,5 +1,4 @@
-Sphaeria ostracea (Bull.) Sowerby SPECIES
-=======
+# Sphaeria ostracea (Bull.) Sowerby SPECIES
 
 #### Status
 ACCEPTED

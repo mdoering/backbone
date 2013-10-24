@@ -1,5 +1,4 @@
-Rhagadostoma Kahl, 1926 GENUS
-=======
+# Rhagadostoma Kahl, 1926 GENUS
 
 #### Status
 ACCEPTED

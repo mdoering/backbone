@@ -1,8 +1,7 @@
-Triloculina laevigata d’Orbigny, 1878 SPECIES
-=======
+# Adelosina laevigata d'Orbigny, 1826 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

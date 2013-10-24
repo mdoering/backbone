@@ -1,5 +1,4 @@
-Agaricus canofaciens Cooke SPECIES
-=======
+# Agaricus canofaciens Cooke SPECIES
 
 #### Status
 ACCEPTED

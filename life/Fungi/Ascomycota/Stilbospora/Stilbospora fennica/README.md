@@ -1,5 +1,4 @@
-Stilbospora fennica P. Karst. SPECIES
-=======
+# Stilbospora fennica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

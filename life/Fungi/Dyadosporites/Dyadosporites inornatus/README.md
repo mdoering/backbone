@@ -1,5 +1,4 @@
-Dyadosporites inornatus (Mart.-Hern. & Tom.-Ort.) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites inornatus (Mart.-Hern. & Tom.-Ort.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prospodium cyathiforme Cummins SPECIES
-=======
+# Prospodium cyathiforme Cummins SPECIES
 
 #### Status
 ACCEPTED

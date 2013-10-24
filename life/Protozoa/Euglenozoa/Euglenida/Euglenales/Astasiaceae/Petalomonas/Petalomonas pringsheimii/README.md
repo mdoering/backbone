@@ -1,5 +1,4 @@
-Petalomonas pringsheimii Christen SPECIES
-=======
+# Petalomonas pringsheimii Christen SPECIES
 
 #### Status
 ACCEPTED

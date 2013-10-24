@@ -1,5 +1,4 @@
-Micrococcus griseus SPECIES
-=======
+# Micrococcus griseus SPECIES
 
 #### Status
 ACCEPTED

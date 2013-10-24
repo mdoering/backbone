@@ -1,5 +1,4 @@
-Galactinia lefebvrei Pat. SPECIES
-=======
+# Galactinia lefebvrei Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucilago sordida Scop. SPECIES
-=======
+# Mucilago sordida Scop. SPECIES
 
 #### Status
 ACCEPTED

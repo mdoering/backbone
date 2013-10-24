@@ -1,5 +1,4 @@
-Polaromonas aquatica Kämpfer et al., 2006 SPECIES
-=======
+# Polaromonas aquatica Kämpfer et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

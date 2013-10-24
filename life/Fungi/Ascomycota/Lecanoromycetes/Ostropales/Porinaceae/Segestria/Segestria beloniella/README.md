@@ -1,5 +1,4 @@
-Segestria beloniella (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Segestria beloniella (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

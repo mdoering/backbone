@@ -1,5 +1,4 @@
-Bacidia austerula (Nyl.) SPECIES
-=======
+# Bacidia austerula (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

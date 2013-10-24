@@ -1,5 +1,4 @@
-Cystolepiota hetieriana Bresinsky & H. Haas ex Locq. SPECIES
-=======
+# Cystolepiota hetieriana Bresinsky & H. Haas ex Locq. SPECIES
 
 #### Status
 ACCEPTED

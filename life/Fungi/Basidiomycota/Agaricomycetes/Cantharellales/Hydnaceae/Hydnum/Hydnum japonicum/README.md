@@ -1,5 +1,4 @@
-Hydnum japonicum Lév. SPECIES
-=======
+# Hydnum japonicum Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endophyllum euphorbiae-silvaticae (DC.) G. Winter SPECIES
-=======
+# Endophyllum euphorbiae-silvaticae (DC.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

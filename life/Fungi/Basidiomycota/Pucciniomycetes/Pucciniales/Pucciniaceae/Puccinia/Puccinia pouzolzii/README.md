@@ -1,5 +1,4 @@
-Puccinia pouzolzii Mayor & Terrier SPECIES
-=======
+# Puccinia pouzolzii Mayor & Terrier SPECIES
 
 #### Status
 ACCEPTED

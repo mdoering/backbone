@@ -1,5 +1,4 @@
-Campylothelium superbum (Fr.) Müll. Arg. SPECIES
-=======
+# Campylothelium superbum (Fr.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

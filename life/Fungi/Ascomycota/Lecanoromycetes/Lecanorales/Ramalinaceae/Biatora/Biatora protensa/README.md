@@ -1,5 +1,4 @@
-Biatora protensa Körb. SPECIES
-=======
+# Biatora protensa Körb. SPECIES
 
 #### Status
 ACCEPTED

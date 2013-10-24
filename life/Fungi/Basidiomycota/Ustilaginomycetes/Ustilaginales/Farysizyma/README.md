@@ -1,5 +1,4 @@
-Farysizyma Á. Fonseca GENUS
-=======
+# Farysizyma Á. Fonseca GENUS
 
 #### Status
 ACCEPTED

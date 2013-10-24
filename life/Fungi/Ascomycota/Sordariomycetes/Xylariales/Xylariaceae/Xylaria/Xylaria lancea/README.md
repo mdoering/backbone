@@ -1,5 +1,4 @@
-Xylaria lancea Lloyd SPECIES
-=======
+# Xylaria lancea Lloyd SPECIES
 
 #### Status
 ACCEPTED

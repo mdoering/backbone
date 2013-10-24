@@ -1,5 +1,4 @@
-Leptogium marianum (Pers.) Mont. SPECIES
-=======
+# Leptogium marianum (Pers.) Mont. SPECIES
 
 #### Status
 ACCEPTED

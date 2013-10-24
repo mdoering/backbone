@@ -1,5 +1,4 @@
-Mycena laxa Velen. SPECIES
-=======
+# Mycena laxa Velen. SPECIES
 
 #### Status
 ACCEPTED

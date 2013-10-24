@@ -1,8 +1,7 @@
-Ommatartus tetrathalamus subsp. coronatus SUBSPECIES
-=======
+# Didymocyrtis tetrathalamus (Haeckel) Sanfilippo & Riedel, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

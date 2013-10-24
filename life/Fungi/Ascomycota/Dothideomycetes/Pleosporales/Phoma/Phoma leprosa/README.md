@@ -1,5 +1,4 @@
-Phoma leprosa Peck SPECIES
-=======
+# Phoma leprosa Peck SPECIES
 
 #### Status
 ACCEPTED

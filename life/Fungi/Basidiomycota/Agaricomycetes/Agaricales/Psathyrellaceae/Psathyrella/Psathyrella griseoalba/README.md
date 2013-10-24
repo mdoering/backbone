@@ -1,5 +1,4 @@
-Psathyrella griseoalba Z.S. Bi SPECIES
-=======
+# Psathyrella griseoalba Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

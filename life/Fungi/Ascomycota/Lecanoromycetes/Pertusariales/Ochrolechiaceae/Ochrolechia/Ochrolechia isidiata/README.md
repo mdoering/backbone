@@ -1,5 +1,4 @@
-Ochrolechia isidiata (Malme) Verseghy SPECIES
-=======
+# Ochrolechia isidiata (Malme) Verseghy SPECIES
 
 #### Status
 ACCEPTED

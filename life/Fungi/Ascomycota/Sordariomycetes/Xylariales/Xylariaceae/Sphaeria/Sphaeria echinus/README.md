@@ -1,5 +1,4 @@
-Sphaeria echinus Biv. SPECIES
-=======
+# Sphaeria echinus Biv. SPECIES
 
 #### Status
 ACCEPTED

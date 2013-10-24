@@ -1,5 +1,4 @@
-Urocyrtis Pantanelli, 1880 GENUS
-=======
+# Urocyrtis Pantanelli, 1880 GENUS
 
 #### Status
 ACCEPTED

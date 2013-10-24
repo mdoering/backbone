@@ -1,5 +1,4 @@
-Dictyodothis jawharensis S.D. Patil & C. Ramesh SPECIES
-=======
+# Dictyodothis jawharensis S.D. Patil & C. Ramesh SPECIES
 
 #### Status
 ACCEPTED

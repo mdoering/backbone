@@ -1,5 +1,4 @@
-Meliola sordidula (Lév.) Berl. & Sacc. SPECIES
-=======
+# Meliola sordidula (Lév.) Berl. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

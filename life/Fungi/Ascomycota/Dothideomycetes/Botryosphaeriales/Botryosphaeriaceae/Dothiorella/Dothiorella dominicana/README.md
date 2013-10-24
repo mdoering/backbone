@@ -1,5 +1,4 @@
-Dothiorella dominicana Petr. & Cif. SPECIES
-=======
+# Dothiorella dominicana Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

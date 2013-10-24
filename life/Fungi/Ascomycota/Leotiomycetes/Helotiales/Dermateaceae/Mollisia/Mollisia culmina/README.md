@@ -1,17 +1,16 @@
-Mollisia culmina var. alpina Rehm VARIETY
-=======
+# Mollisia culmina Sacc., 1906 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 336 (1906)
 
 #### Original name
-Mollisia culmina var. alpina Rehm
+Mollisia culmina Sacc., 1906
 
 ### Remarks
 null

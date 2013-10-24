@@ -1,5 +1,4 @@
-Pestalotia peckii G.P. Clinton SPECIES
-=======
+# Pestalotia peckii G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

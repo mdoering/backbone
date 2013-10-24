@@ -1,5 +1,4 @@
-Lepiota glatfelteri Peck SPECIES
-=======
+# Lepiota glatfelteri Peck SPECIES
 
 #### Status
 ACCEPTED

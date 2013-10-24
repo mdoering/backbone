@@ -1,5 +1,4 @@
-Cladosporium rivinae Speg. SPECIES
-=======
+# Cladosporium rivinae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora grisea Flagey SPECIES
-=======
+# Biatora grisea Flagey SPECIES
 
 #### Status
 ACCEPTED

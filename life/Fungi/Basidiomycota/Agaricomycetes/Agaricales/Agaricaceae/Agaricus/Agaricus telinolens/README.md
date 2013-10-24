@@ -1,5 +1,4 @@
-Agaricus telinolens Bellardi SPECIES
-=======
+# Agaricus telinolens Bellardi SPECIES
 
 #### Status
 ACCEPTED

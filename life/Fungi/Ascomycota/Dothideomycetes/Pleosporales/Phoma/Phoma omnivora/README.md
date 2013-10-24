@@ -1,5 +1,4 @@
-Phoma omnivora McAlpine SPECIES
-=======
+# Phoma omnivora McAlpine SPECIES
 
 #### Status
 ACCEPTED

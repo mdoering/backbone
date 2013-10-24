@@ -1,5 +1,4 @@
-Trichosporum fusco-olivaceum Petch SPECIES
-=======
+# Trichosporum fusco-olivaceum Petch SPECIES
 
 #### Status
 ACCEPTED

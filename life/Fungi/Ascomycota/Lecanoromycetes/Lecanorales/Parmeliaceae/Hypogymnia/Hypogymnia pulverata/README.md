@@ -1,14 +1,13 @@
-Parmelia physodes var. pulverata (Nyl.) Müll. Arg. VARIETY
-=======
+# Hypogymnia pulverata (Nyl.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 66: 76 (1883)
+Brunonia 2(2): 217 (1980)
 
 #### Original name
 Parmelia mundata var. pulverata Nyl.

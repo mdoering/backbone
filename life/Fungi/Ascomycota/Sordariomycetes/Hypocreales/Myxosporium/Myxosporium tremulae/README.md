@@ -1,5 +1,4 @@
-Myxosporium tremulae Sacc. & Roum. SPECIES
-=======
+# Myxosporium tremulae Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

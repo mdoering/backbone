@@ -1,5 +1,4 @@
-Boletus billieae Both, Bessette & W.J. Neill SPECIES
-=======
+# Boletus billieae Both, Bessette & W.J. Neill SPECIES
 
 #### Status
 ACCEPTED

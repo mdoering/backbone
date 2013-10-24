@@ -1,5 +1,4 @@
-Characiopsis bourrellyi J. A. Rino SPECIES
-=======
+# Characiopsis bourrellyi J. A. Rino SPECIES
 
 #### Status
 ACCEPTED

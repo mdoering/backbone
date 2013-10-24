@@ -1,5 +1,4 @@
-Metasphaeria senecionis f. senecionis FORM
-=======
+# Metasphaeria senecionis (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Metasphaeria senecionis f. senecionis
+Pleospora senecionis Fuckel
 
 ### Remarks
 null

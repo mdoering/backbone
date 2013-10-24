@@ -1,5 +1,4 @@
-Lepiota purpureoconia G.F. Atk. SPECIES
-=======
+# Lepiota purpureoconia G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

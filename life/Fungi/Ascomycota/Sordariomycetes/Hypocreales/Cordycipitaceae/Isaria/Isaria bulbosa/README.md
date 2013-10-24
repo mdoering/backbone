@@ -1,5 +1,4 @@
-Isaria bulbosa Nees SPECIES
-=======
+# Isaria bulbosa Nees SPECIES
 
 #### Status
 ACCEPTED

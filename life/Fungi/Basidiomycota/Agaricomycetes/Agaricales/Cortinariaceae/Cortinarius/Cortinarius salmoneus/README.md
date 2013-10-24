@@ -1,5 +1,4 @@
-Cortinarius salmoneus Ramain SPECIES
-=======
+# Cortinarius salmoneus Ramain SPECIES
 
 #### Status
 ACCEPTED

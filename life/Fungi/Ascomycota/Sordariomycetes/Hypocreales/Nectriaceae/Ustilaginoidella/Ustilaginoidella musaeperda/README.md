@@ -1,5 +1,4 @@
-Ustilaginoidella musaeperda Essed SPECIES
-=======
+# Ustilaginoidella musaeperda Essed SPECIES
 
 #### Status
 ACCEPTED

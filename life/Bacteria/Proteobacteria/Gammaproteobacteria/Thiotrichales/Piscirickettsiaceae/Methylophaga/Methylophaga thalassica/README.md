@@ -1,5 +1,4 @@
-Methylophaga thalassica Janvier et al., 1985 SPECIES
-=======
+# Methylophaga thalassica Janvier et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

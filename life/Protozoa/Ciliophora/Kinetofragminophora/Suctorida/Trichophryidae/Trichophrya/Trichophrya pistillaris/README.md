@@ -1,5 +1,4 @@
-Trichophrya pistillaris Dumas, 1930 SPECIES
-=======
+# Trichophrya pistillaris Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta cariae Ellis & Everh. SPECIES
-=======
+# Phyllosticta cariae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria caespitulosa Ces. SPECIES
-=======
+# Xylaria caespitulosa Ces. SPECIES
 
 #### Status
 ACCEPTED

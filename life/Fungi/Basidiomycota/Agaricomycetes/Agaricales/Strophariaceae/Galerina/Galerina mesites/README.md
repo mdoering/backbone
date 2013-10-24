@@ -1,5 +1,4 @@
-Galerina mesites A.H. Sm. & Singer SPECIES
-=======
+# Galerina mesites A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

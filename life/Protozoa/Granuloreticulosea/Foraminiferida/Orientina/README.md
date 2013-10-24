@@ -1,5 +1,4 @@
-Orientina Miklukho-Maklai in Poyarkov, 1968 GENUS
-=======
+# Orientina Miklukho-Maklai in Poyarkov, 1968 GENUS
 
 #### Status
 ACCEPTED

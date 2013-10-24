@@ -1,5 +1,4 @@
-Gnomoniella euphorbiae-verrucosae M. Monod SPECIES
-=======
+# Gnomoniella euphorbiae-verrucosae M. Monod SPECIES
 
 #### Status
 ACCEPTED

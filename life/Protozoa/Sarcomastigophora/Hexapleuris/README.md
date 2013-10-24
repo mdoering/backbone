@@ -1,5 +1,4 @@
-Hexapleuris Haeckel, 1887 GENUS
-=======
+# Hexapleuris Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

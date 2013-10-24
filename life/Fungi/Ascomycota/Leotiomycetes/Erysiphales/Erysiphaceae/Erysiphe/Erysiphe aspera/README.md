@@ -1,5 +1,4 @@
-Erysiphe aspera var. aspera VARIETY
-=======
+# Erysiphe aspera (Doidge) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Schlechtendalia 4: 16 (2000)
 
 #### Original name
-Erysiphe aspera var. aspera
+Uncinula aspera Doidge
 
 ### Remarks
 null

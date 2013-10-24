@@ -1,5 +1,4 @@
-Eriothyrium pelliculosum Grove SPECIES
-=======
+# Eriothyrium pelliculosum Grove SPECIES
 
 #### Status
 ACCEPTED

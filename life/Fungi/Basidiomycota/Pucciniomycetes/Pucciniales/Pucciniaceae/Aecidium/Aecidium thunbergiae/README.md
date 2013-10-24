@@ -1,5 +1,4 @@
-Aecidium thunbergiae Cooke SPECIES
-=======
+# Aecidium thunbergiae Cooke SPECIES
 
 #### Status
 ACCEPTED

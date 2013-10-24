@@ -1,5 +1,4 @@
-Lecidea fraudulenta (Hepp) Stizenb. SPECIES
-=======
+# Lecidea fraudulenta (Hepp) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

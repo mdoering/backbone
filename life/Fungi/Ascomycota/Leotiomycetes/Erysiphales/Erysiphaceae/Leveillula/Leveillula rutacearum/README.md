@@ -1,5 +1,4 @@
-Leveillula rutacearum f. rutacearum FORM
-=======
+# Leveillula rutacearum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula rutacearum f. rutacearum
+Leveillula rutacearum Golovin
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia tandilensis J.C. Lindq. SPECIES
-=======
+# Puccinia tandilensis J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

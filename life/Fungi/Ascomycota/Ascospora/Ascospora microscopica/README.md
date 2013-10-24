@@ -1,5 +1,4 @@
-Ascospora microscopica Niessl SPECIES
-=======
+# Ascospora microscopica Niessl SPECIES
 
 #### Status
 ACCEPTED

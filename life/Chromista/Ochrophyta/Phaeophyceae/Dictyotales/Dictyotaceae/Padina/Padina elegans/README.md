@@ -1,5 +1,4 @@
-Padina elegans Koh ex Womersley SPECIES
-=======
+# Padina elegans Koh ex Womersley SPECIES
 
 #### Status
 ACCEPTED

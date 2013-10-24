@@ -1,17 +1,16 @@
-Sarcinella puzolziae Hosag. SPECIES
-=======
+# Sarcinella pouzolziae Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hosagoudar, Biju & Appaiah, Journal of Mycopathological Research 44(1): 20 (2006)
 
 #### Original name
-Sarcinella puzolziae Hosag.
+Sarcinella pouzolziae Hosag.
 
 ### Remarks
 null

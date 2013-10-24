@@ -1,14 +1,13 @@
-Trichocladium cylindroclavatum Matsush., 1975 SPECIES
-=======
+# Henicospora cylindroclavata (Matsush.) B. Sutton & P.M. Kirk, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. microfung. Matsush. lect. (Kobe) 155 (1975)
+in Kirk & Sutton, Trans. Br. mycol. Soc. 75(2): 252 (1980)
 
 #### Original name
 Trichocladium cylindroclavatum Matsush., 1975

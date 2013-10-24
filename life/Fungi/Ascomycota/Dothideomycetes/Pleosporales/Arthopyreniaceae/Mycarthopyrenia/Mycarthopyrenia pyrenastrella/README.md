@@ -1,5 +1,4 @@
-Mycarthopyrenia pyrenastrella SPECIES
-=======
+# Mycarthopyrenia pyrenastrella SPECIES
 
 #### Status
 ACCEPTED

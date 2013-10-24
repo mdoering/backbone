@@ -1,5 +1,4 @@
-Ochrolechia parellula (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Ochrolechia parellula (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

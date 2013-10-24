@@ -1,5 +1,4 @@
-Globigerinoidesella fistulosus (Schubert) SPECIES
-=======
+# Globigerinoidesella fistulosus (Schubert) SPECIES
 
 #### Status
 DOUBTFUL

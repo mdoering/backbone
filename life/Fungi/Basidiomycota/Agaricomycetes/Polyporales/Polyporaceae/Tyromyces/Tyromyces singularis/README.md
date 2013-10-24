@@ -1,5 +1,4 @@
-Tyromyces singularis Corner SPECIES
-=======
+# Tyromyces singularis Corner SPECIES
 
 #### Status
 ACCEPTED

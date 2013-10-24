@@ -1,5 +1,4 @@
-Parmeliella macrophylla Müll. Arg. SPECIES
-=======
+# Parmeliella macrophylla Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

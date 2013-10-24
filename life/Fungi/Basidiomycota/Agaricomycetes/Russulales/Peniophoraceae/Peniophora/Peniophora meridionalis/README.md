@@ -1,5 +1,4 @@
-Peniophora meridionalis Boidin, 1958 SPECIES
-=======
+# Peniophora meridionalis Boidin, 1958 SPECIES
 
 #### Status
 ACCEPTED

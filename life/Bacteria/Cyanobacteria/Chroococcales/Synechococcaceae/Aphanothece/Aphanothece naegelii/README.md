@@ -1,5 +1,4 @@
-Aphanothece naegelii Wartmann SPECIES
-=======
+# Aphanothece naegelii Wartmann SPECIES
 
 #### Status
 ACCEPTED

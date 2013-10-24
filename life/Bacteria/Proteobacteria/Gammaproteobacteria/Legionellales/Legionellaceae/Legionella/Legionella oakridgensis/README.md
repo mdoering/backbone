@@ -1,5 +1,4 @@
-Legionella oakridgensis Orrison et al., 1983 SPECIES
-=======
+# Legionella oakridgensis Orrison et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

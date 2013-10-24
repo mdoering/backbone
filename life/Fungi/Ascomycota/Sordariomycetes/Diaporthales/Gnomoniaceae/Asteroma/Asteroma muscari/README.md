@@ -1,5 +1,4 @@
-Asteroma muscari Politis SPECIES
-=======
+# Asteroma muscari Politis SPECIES
 
 #### Status
 ACCEPTED

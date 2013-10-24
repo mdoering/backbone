@@ -1,17 +1,16 @@
-Uredo loeseneriana Henn., 1898 SPECIES
-=======
+# Kuehneola loeseneriana (Henn.) H.S. Jacks. & Holw., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Jackson, Mycologia 23: 105 (1931)
 
 #### Original name
-null
+Uredo loeseneriana Henn., 1898
 
 ### Remarks
 null

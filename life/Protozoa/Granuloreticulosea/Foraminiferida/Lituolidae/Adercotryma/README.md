@@ -1,5 +1,4 @@
-Adercotryma Loeblich & Tappan, 1952 GENUS
-=======
+# Adercotryma Loeblich & Tappan, 1952 GENUS
 
 #### Status
 ACCEPTED

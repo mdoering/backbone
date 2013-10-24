@@ -1,5 +1,4 @@
-Stigmatomyces ligabuei W. Rossi SPECIES
-=======
+# Stigmatomyces ligabuei W. Rossi SPECIES
 
 #### Status
 ACCEPTED

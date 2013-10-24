@@ -1,5 +1,4 @@
-Ocridoligotriletes plicativus Timofeev, 1959 SPECIES
-=======
+# Ocridoligotriletes plicativus Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia subrufa Ellis & Holw. SPECIES
-=======
+# Ramularia subrufa Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

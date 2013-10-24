@@ -1,5 +1,4 @@
-Helminthosphaeria palustris (J. Schröt.) Kirschst. SPECIES
-=======
+# Helminthosphaeria palustris (J. Schröt.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

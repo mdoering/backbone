@@ -1,5 +1,4 @@
-Elasmomyces echinosporus Zeller & C.W. Dodge SPECIES
-=======
+# Elasmomyces echinosporus Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

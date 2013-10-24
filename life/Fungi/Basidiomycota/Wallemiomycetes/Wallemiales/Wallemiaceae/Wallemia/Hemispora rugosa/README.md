@@ -1,5 +1,4 @@
-Hemispora rugosa Castell. SPECIES
-=======
+# Hemispora rugosa Castell. SPECIES
 
 #### Status
 ACCEPTED

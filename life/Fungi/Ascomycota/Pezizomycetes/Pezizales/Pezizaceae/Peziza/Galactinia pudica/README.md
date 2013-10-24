@@ -1,5 +1,4 @@
-Galactinia pudica Boud. SPECIES
-=======
+# Galactinia pudica Boud. SPECIES
 
 #### Status
 ACCEPTED

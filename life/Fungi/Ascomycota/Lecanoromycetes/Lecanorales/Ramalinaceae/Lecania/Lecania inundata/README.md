@@ -1,5 +1,4 @@
-Lecania inundata (Hepp ex Körb.) M. Mayrhofer SPECIES
-=======
+# Lecania inundata (Hepp ex Körb.) M. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

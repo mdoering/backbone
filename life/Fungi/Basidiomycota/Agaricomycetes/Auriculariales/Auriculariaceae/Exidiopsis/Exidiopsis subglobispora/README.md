@@ -1,5 +1,4 @@
-Exidiopsis subglobispora Svrcek SPECIES
-=======
+# Exidiopsis subglobispora Svrcek SPECIES
 
 #### Status
 ACCEPTED

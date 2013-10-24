@@ -1,5 +1,4 @@
-Trogia rosea Corner SPECIES
-=======
+# Trogia rosea Corner SPECIES
 
 #### Status
 ACCEPTED

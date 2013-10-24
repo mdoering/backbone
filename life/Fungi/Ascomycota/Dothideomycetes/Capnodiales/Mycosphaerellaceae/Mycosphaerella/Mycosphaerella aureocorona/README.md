@@ -1,5 +1,4 @@
-Mycosphaerella aureocorona Priest, 2006 SPECIES
-=======
+# Mycosphaerella aureocorona Priest, 2006 SPECIES
 
 #### Status
 ACCEPTED

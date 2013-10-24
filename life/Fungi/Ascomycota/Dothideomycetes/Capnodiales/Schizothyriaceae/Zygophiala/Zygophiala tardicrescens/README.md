@@ -1,5 +1,4 @@
-Zygophiala tardicrescens Batzer & Crous SPECIES
-=======
+# Zygophiala tardicrescens Batzer & Crous SPECIES
 
 #### Status
 ACCEPTED

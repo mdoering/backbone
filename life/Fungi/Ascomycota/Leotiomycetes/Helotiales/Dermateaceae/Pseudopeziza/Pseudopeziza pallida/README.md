@@ -1,5 +1,4 @@
-Pseudopeziza pallida Fuckel SPECIES
-=======
+# Pseudopeziza pallida Fuckel SPECIES
 
 #### Status
 ACCEPTED

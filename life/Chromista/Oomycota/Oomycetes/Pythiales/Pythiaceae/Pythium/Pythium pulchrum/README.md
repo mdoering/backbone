@@ -1,5 +1,4 @@
-Pythium pulchrum Minden, 1916 SPECIES
-=======
+# Pythium pulchrum Minden, 1916 SPECIES
 
 #### Status
 ACCEPTED

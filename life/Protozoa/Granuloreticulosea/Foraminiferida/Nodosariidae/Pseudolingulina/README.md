@@ -1,5 +1,4 @@
-Pseudolingulina McCulloch, 1977 GENUS
-=======
+# Pseudolingulina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

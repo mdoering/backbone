@@ -1,14 +1,13 @@
-Dasyscyphus sesleriae Svrcek, 1976 SPECIES
-=======
+# Lachnum sesleriae (Svrcek) Baral, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 30(1): 9 (1976)
+in Baral & Krieglsteiner, Beih. Z. Mykol. 6: 81 (1985)
 
 #### Original name
 Dasyscyphus sesleriae Svrcek, 1976

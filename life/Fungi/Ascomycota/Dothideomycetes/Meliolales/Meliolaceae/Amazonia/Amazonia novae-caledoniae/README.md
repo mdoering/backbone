@@ -1,5 +1,4 @@
-Amazonia novae-caledoniae Hansf. SPECIES
-=======
+# Amazonia novae-caledoniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

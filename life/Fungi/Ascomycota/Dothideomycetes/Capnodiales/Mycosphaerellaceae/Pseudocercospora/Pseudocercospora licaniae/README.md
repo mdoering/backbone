@@ -1,5 +1,4 @@
-Pseudocercospora licaniae U. Braun & R. Urtiaga SPECIES
-=======
+# Pseudocercospora licaniae U. Braun & R. Urtiaga SPECIES
 
 #### Status
 ACCEPTED

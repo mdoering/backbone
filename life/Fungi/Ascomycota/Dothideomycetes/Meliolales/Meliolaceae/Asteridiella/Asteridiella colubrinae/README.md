@@ -1,5 +1,4 @@
-Asteridiella colubrinae (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella colubrinae (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

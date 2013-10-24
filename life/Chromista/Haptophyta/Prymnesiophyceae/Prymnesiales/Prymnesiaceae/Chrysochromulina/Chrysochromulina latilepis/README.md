@@ -1,5 +1,4 @@
-Chrysochromulina latilepis I. Manton SPECIES
-=======
+# Chrysochromulina latilepis I. Manton SPECIES
 
 #### Status
 ACCEPTED

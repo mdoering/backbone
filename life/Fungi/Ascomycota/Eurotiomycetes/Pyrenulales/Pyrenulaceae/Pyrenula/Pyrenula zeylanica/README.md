@@ -1,5 +1,4 @@
-Pyrenula zeylanica Upreti & Ajay Singh SPECIES
-=======
+# Pyrenula zeylanica Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

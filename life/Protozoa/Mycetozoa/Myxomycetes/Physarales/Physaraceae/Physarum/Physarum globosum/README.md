@@ -1,5 +1,4 @@
-Physarum globosum Schumach. SPECIES
-=======
+# Physarum globosum Schumach. SPECIES
 
 #### Status
 ACCEPTED

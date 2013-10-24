@@ -1,5 +1,4 @@
-Irenopsis ximeniae Mibey SPECIES
-=======
+# Irenopsis ximeniae Mibey SPECIES
 
 #### Status
 ACCEPTED

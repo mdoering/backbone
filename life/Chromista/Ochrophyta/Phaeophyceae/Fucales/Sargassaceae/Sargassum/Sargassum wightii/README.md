@@ -1,5 +1,4 @@
-Sargassum wightii f. submembranaceum Grunow FORM
-=======
+# Sargassum wightii Greville SPECIES
 
 #### Status
 ACCEPTED

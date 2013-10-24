@@ -1,5 +1,4 @@
-Plectocarpon cristalliferum Christnach, Ertz & Diederich SPECIES
-=======
+# Plectocarpon cristalliferum Christnach, Ertz & Diederich SPECIES
 
 #### Status
 ACCEPTED

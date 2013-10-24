@@ -1,5 +1,4 @@
-Strepsithalia leathesiae Womersley & Skinner SPECIES
-=======
+# Strepsithalia leathesiae Womersley & Skinner SPECIES
 
 #### Status
 ACCEPTED

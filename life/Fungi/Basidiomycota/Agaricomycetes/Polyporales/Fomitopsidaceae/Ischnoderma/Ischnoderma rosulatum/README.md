@@ -1,14 +1,13 @@
-Polyporus rosulatus G. Cunn., 1948 SPECIES
-=======
+# Ischnoderma rosulatum (G. Cunn.) P.K. Buchanan & Ryvarden, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 74: 36 (1948)
+Mycotaxon 31(1): 27 (1988)
 
 #### Original name
 Polyporus rosulatus G. Cunn., 1948

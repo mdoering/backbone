@@ -1,5 +1,4 @@
-Uredo anodae Lév. SPECIES
-=======
+# Uredo anodae Lév. SPECIES
 
 #### Status
 ACCEPTED

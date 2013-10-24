@@ -1,5 +1,4 @@
-Sporacetigenium Chen, Song & Dong, 2006 GENUS
-=======
+# Sporacetigenium Chen, Song & Dong, 2006 GENUS
 
 #### Status
 ACCEPTED

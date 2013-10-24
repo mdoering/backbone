@@ -1,5 +1,4 @@
-Treubiomyces funtumiae (Hansf.) D.R. Reynolds SPECIES
-=======
+# Treubiomyces funtumiae (Hansf.) D.R. Reynolds SPECIES
 
 #### Status
 ACCEPTED

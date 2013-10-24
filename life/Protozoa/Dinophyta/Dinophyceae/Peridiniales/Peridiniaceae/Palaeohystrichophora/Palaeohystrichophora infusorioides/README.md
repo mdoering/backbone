@@ -1,5 +1,4 @@
-Palaeohystrichophora infusorioides SPECIES
-=======
+# Palaeohystrichophora infusorioides SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium phormii (Henn.) Sacc. SPECIES
-=======
+# Gloeosporium phormii (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

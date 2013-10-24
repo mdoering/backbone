@@ -1,5 +1,4 @@
-Lasionectria calamicola J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Lasionectria calamicola J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

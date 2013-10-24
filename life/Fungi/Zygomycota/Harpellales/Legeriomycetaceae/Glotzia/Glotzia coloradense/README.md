@@ -1,5 +1,4 @@
-Glotzia coloradense M.C. Williams & Lichtw., 1999 SPECIES
-=======
+# Glotzia coloradense M.C. Williams & Lichtw., 1999 SPECIES
 
 #### Status
 ACCEPTED

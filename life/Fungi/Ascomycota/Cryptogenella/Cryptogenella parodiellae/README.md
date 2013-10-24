@@ -1,5 +1,4 @@
-Cryptogenella parodiellae Syd. SPECIES
-=======
+# Cryptogenella parodiellae Syd. SPECIES
 
 #### Status
 ACCEPTED

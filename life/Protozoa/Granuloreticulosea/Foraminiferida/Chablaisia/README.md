@@ -1,5 +1,4 @@
-Chablaisia Septfontaine, 1978 GENUS
-=======
+# Chablaisia Septfontaine, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phthanoperidinium Drugg & Loeblich, Jr. GENUS
-=======
+# Phthanoperidinium Drugg & Loeblich, Jr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea ochrolechioides Zahlbr. SPECIES
-=======
+# Lecidea ochrolechioides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

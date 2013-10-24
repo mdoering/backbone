@@ -1,5 +1,4 @@
-Macroptycha favosa Xing Yusheng & Liu Guizhi, 1985 SPECIES
-=======
+# Macroptycha favosa Xing Yusheng & Liu Guizhi, 1985 SPECIES
 
 #### Status
 ACCEPTED

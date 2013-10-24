@@ -1,5 +1,4 @@
-Lycoperdon pileatum Velen. SPECIES
-=======
+# Lycoperdon pileatum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panaeolus expromptus (Britzelm.) Sacc. SPECIES
-=======
+# Panaeolus expromptus (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

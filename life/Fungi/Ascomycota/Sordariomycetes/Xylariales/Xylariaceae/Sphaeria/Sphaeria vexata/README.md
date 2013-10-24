@@ -1,5 +1,4 @@
-Sphaeria vexata Cooke & Ellis SPECIES
-=======
+# Sphaeria vexata Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

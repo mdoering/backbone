@@ -1,5 +1,4 @@
-Psychromonas agarivorans Hosoya, Jang, Yasumoto-Hirose, Matsuda & Kasai, 2009 SPECIES
-=======
+# Psychromonas agarivorans Hosoya, Jang, Yasumoto-Hirose, Matsuda & Kasai, 2009 SPECIES
 
 #### Status
 ACCEPTED

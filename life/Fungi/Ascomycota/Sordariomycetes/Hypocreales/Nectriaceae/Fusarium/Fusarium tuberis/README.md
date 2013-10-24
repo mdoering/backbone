@@ -1,5 +1,4 @@
-Fusarium tuberis Preuss SPECIES
-=======
+# Fusarium tuberis Preuss SPECIES
 
 #### Status
 ACCEPTED

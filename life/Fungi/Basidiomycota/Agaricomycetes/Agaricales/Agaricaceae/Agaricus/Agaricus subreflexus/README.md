@@ -1,5 +1,4 @@
-Agaricus subreflexus J. Otto SPECIES
-=======
+# Agaricus subreflexus J. Otto SPECIES
 
 #### Status
 ACCEPTED

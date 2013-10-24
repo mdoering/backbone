@@ -1,14 +1,13 @@
-Podoporia camschadalica Parmasto, 1963 SPECIES
-=======
+# Rigidoporus camschadalicus (Parmasto) Domanski, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Issled. Prirody Dal'nego Rostoka 274 (1963)
+Mala flora grzybów. Tom I: Basidiomycetes (Podstawczaki), Aphyllophorales (Bezblaszkowe). Bondarzewiaceae, Fistulinaceae, Ganodermataceae, Polyporaceae (Warszawa-Krakow) 1: 101 (1974)
 
 #### Original name
 Podoporia camschadalica Parmasto, 1963

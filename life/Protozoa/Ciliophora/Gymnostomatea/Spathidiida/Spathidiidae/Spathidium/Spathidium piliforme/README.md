@@ -1,5 +1,4 @@
-Spathidium piliforme Kahl, 1930 SPECIES
-=======
+# Spathidium piliforme Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

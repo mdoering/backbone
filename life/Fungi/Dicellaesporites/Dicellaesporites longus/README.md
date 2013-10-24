@@ -1,5 +1,4 @@
-Dicellaesporites longus (Trivedi & C.L. Verma) Kalgutkar & Janson. SPECIES
-=======
+# Dicellaesporites longus (Trivedi & C.L. Verma) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

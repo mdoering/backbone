@@ -1,5 +1,4 @@
-Cortinarius sphagnicola Carteret & Reumaux SPECIES
-=======
+# Cortinarius sphagnicola Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

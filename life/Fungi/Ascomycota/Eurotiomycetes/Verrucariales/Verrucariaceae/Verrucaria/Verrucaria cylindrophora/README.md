@@ -1,5 +1,4 @@
-Verrucaria cylindrophora Vain. SPECIES
-=======
+# Verrucaria cylindrophora Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces caricis Peck SPECIES
-=======
+# Uromyces caricis Peck SPECIES
 
 #### Status
 ACCEPTED

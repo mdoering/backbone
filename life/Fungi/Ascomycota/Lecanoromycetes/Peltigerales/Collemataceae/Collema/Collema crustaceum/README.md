@@ -1,5 +1,4 @@
-Collema crustaceum Kremp. SPECIES
-=======
+# Collema crustaceum Kremp. SPECIES
 
 #### Status
 ACCEPTED

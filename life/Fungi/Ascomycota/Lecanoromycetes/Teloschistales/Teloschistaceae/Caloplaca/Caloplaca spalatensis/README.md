@@ -1,5 +1,4 @@
-Caloplaca spalatensis Zahlbr. SPECIES
-=======
+# Caloplaca spalatensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

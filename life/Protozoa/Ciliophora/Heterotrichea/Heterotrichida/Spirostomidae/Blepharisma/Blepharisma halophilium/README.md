@@ -1,5 +1,4 @@
-Blepharisma halophilium Ruinen, 1938 SPECIES
-=======
+# Blepharisma halophilium Ruinen, 1938 SPECIES
 
 #### Status
 ACCEPTED

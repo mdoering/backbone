@@ -1,5 +1,4 @@
-Capronia porothelia (Berk. & M.A. Curtis) M.E. Barr SPECIES
-=======
+# Capronia porothelia (Berk. & M.A. Curtis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

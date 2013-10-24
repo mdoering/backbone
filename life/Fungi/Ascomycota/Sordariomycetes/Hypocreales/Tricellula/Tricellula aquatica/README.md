@@ -1,5 +1,4 @@
-Tricellula aquatica J. Webster, 1959 SPECIES
-=======
+# Tricellula aquatica J. Webster, 1959 SPECIES
 
 #### Status
 ACCEPTED

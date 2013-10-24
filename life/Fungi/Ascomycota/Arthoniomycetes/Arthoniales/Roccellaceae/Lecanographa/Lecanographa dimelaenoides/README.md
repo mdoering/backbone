@@ -1,5 +1,4 @@
-Lecanographa dimelaenoides (Egea & Torrente) Egea & Torrente SPECIES
-=======
+# Lecanographa dimelaenoides (Egea & Torrente) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

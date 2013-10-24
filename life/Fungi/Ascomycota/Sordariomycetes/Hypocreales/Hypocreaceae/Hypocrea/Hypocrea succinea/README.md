@@ -1,5 +1,4 @@
-Hypocrea succinea Bres. SPECIES
-=======
+# Hypocrea succinea Bres. SPECIES
 
 #### Status
 ACCEPTED

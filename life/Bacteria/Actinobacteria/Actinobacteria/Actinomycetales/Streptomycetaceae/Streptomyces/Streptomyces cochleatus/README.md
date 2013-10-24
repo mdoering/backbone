@@ -1,5 +1,4 @@
-Streptomyces cochleatus Nakagaito et al., 1993 SPECIES
-=======
+# Streptomyces cochleatus Nakagaito et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

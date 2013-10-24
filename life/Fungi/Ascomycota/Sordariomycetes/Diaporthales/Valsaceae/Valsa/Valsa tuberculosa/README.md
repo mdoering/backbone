@@ -1,5 +1,4 @@
-Valsa tuberculosa Ellis SPECIES
-=======
+# Valsa tuberculosa Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Orbilia curvatispora var. minor Dennis VARIETY
-=======
+# Orbilia curvatispora Boud., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 9(2): 296 (1954)
+Bull. Soc. mycol. Fr. 4: 80 (1888)
 
 #### Original name
-Orbilia curvatispora var. minor Dennis
+Orbilia curvatispora Boud., 1888
 
 ### Remarks
 null

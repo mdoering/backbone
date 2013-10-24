@@ -1,5 +1,4 @@
-Trimmatostroma abietina Doherty SPECIES
-=======
+# Trimmatostroma abietina Doherty SPECIES
 
 #### Status
 ACCEPTED

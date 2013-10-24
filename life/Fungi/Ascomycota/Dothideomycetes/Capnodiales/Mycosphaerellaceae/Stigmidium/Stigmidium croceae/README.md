@@ -1,5 +1,4 @@
-Stigmidium croceae (Arnold) Cl. Roux & Triebel SPECIES
-=======
+# Stigmidium croceae (Arnold) Cl. Roux & Triebel SPECIES
 
 #### Status
 ACCEPTED

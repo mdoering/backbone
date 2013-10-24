@@ -1,5 +1,4 @@
-Candida aurita A.V. Polyak. & Chernov SPECIES
-=======
+# Candida aurita A.V. Polyak. & Chernov SPECIES
 
 #### Status
 ACCEPTED

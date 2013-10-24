@@ -1,5 +1,4 @@
-Bacillus arvi Heyrman et al., 2005 SPECIES
-=======
+# Bacillus arvi Heyrman et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

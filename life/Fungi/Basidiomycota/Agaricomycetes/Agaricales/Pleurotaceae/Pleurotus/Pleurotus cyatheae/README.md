@@ -1,5 +1,4 @@
-Pleurotus cyatheae S. Ito & S. Imai SPECIES
-=======
+# Pleurotus cyatheae S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria albida Peck SPECIES
-=======
+# Clavaria albida Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcographa aurantiaca Müll. Arg. SPECIES
-=======
+# Sarcographa aurantiaca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

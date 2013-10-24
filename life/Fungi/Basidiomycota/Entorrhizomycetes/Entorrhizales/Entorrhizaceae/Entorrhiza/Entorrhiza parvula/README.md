@@ -1,5 +1,4 @@
-Entorrhiza parvula Vánky, 1992 SPECIES
-=======
+# Entorrhiza parvula Vánky, 1992 SPECIES
 
 #### Status
 ACCEPTED

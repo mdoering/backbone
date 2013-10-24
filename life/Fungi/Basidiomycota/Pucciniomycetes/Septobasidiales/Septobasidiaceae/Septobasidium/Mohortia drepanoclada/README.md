@@ -1,5 +1,4 @@
-Mohortia drepanoclada Syd. SPECIES
-=======
+# Mohortia drepanoclada Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps belizensis Mains SPECIES
-=======
+# Cordyceps belizensis Mains SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta darjeelingensis Shreem. & Bilgrami SPECIES
-=======
+# Pyrenochaeta darjeelingensis Shreem. & Bilgrami SPECIES
 
 #### Status
 ACCEPTED

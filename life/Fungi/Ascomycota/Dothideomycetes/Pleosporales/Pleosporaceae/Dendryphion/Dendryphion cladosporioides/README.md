@@ -1,5 +1,4 @@
-Dendryphion cladosporioides Ellis & Everh. SPECIES
-=======
+# Dendryphion cladosporioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

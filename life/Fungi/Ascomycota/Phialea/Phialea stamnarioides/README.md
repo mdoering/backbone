@@ -1,5 +1,4 @@
-Phialea stamnarioides Rehm SPECIES
-=======
+# Phialea stamnarioides Rehm SPECIES
 
 #### Status
 ACCEPTED

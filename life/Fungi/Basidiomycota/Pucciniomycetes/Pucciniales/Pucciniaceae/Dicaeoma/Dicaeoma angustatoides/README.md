@@ -1,5 +1,4 @@
-Dicaeoma angustatoides (R. Stone) Arthur SPECIES
-=======
+# Dicaeoma angustatoides (R. Stone) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Craspedomonadidae FAMILY
-=======
+# Craspedomonadidae FAMILY
 
 #### Status
 ACCEPTED

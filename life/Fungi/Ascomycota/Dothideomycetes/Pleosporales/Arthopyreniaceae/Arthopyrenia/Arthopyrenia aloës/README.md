@@ -1,5 +1,4 @@
-Arthopyrenia aloës Kainz, Aptroot & Triebel SPECIES
-=======
+# Arthopyrenia aloës Kainz, Aptroot & Triebel SPECIES
 
 #### Status
 ACCEPTED

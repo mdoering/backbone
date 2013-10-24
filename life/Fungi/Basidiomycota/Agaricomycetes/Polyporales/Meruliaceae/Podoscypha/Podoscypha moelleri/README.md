@@ -1,14 +1,13 @@
-Stereum moelleri Bres. & Henn., 1896 SPECIES
-=======
+# Podoscypha moelleri (Bres. & Henn.) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 35: 287 (1896)
+Beih. Nova Hedwigia 18: 202 (1965)
 
 #### Original name
 Stereum moelleri Bres. & Henn., 1896

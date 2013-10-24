@@ -1,5 +1,4 @@
-Ascospora phomatoides Mont. SPECIES
-=======
+# Ascospora phomatoides Mont. SPECIES
 
 #### Status
 ACCEPTED

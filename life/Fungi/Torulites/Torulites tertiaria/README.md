@@ -1,5 +1,4 @@
-Torulites tertiaria Grüss SPECIES
-=======
+# Torulites tertiaria Grüss SPECIES
 
 #### Status
 ACCEPTED

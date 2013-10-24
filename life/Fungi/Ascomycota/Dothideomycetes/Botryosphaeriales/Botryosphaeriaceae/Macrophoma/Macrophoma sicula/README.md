@@ -1,5 +1,4 @@
-Macrophoma sicula Scalia SPECIES
-=======
+# Macrophoma sicula Scalia SPECIES
 
 #### Status
 ACCEPTED

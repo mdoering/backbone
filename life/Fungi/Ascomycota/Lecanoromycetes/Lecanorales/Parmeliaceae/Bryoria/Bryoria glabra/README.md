@@ -1,5 +1,4 @@
-Bryoria glabra (Motyka) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria glabra (Motyka) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

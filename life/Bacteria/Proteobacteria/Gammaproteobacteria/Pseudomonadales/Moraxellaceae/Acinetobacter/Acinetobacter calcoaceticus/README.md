@@ -1,5 +1,4 @@
-Acinetobacter calcoaceticus (Beijerinck, 1911) Baumann et al., 1968 (Approved Lists, 1980) SPECIES
-=======
+# Acinetobacter calcoaceticus (Beijerinck, 1911) Baumann et al., 1968 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

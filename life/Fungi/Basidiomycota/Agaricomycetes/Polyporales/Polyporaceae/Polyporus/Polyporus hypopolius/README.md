@@ -1,5 +1,4 @@
-Polyporus hypopolius Kalchbr. SPECIES
-=======
+# Polyporus hypopolius Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

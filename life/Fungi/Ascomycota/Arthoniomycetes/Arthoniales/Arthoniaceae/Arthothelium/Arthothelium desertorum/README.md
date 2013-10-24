@@ -1,5 +1,4 @@
-Arthothelium desertorum Aptroot & V. Wirth SPECIES
-=======
+# Arthothelium desertorum Aptroot & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

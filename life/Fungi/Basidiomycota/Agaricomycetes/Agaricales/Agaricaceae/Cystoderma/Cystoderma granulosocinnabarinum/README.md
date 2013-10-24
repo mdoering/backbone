@@ -1,5 +1,4 @@
-Cystoderma granulosocinnabarinum Singer SPECIES
-=======
+# Cystoderma granulosocinnabarinum Singer SPECIES
 
 #### Status
 ACCEPTED

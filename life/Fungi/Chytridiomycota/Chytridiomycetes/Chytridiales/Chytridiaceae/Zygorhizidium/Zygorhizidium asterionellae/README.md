@@ -1,5 +1,4 @@
-Zygorhizidium asterionellae Pongratz SPECIES
-=======
+# Zygorhizidium asterionellae Pongratz SPECIES
 
 #### Status
 ACCEPTED

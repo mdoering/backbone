@@ -1,5 +1,4 @@
-Didymaria skierkae Hansf. SPECIES
-=======
+# Didymaria skierkae Hansf. SPECIES
 
 #### Status
 ACCEPTED

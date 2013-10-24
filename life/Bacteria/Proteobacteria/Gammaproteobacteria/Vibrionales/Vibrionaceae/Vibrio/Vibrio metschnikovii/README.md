@@ -1,5 +1,4 @@
-Vibrio metschnikovii Gamaleia, 1888 (Approved Lists, 1980) SPECIES
-=======
+# Vibrio metschnikovii Gamaleia, 1888 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

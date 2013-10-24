@@ -1,5 +1,4 @@
-Sphaerodes iraquiensis ined. SPECIES
-=======
+# Sphaerodes iraquiensis ined. SPECIES
 
 #### Status
 ACCEPTED

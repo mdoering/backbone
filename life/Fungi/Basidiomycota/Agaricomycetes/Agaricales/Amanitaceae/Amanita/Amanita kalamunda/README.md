@@ -1,5 +1,4 @@
-Amanita kalamunda O.K. Mill. SPECIES
-=======
+# Amanita kalamunda O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

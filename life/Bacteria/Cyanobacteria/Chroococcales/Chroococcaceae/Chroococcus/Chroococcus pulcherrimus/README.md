@@ -1,5 +1,4 @@
-Chroococcus pulcherrimus Welch SPECIES
-=======
+# Chroococcus pulcherrimus Welch SPECIES
 
 #### Status
 ACCEPTED

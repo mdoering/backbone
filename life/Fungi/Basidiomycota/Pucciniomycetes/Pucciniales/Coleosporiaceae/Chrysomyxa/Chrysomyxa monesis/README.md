@@ -1,5 +1,4 @@
-Chrysomyxa monesis Ziller SPECIES
-=======
+# Chrysomyxa monesis Ziller SPECIES
 
 #### Status
 ACCEPTED

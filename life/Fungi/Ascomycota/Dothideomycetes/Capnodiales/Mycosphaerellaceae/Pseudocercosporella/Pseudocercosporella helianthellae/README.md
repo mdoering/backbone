@@ -1,5 +1,4 @@
-Pseudocercosporella helianthellae (Ellis & Everh.) U. Braun SPECIES
-=======
+# Pseudocercosporella helianthellae (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

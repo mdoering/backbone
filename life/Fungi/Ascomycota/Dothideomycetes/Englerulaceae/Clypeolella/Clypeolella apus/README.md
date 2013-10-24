@@ -1,5 +1,4 @@
-Clypeolella apus Theiss. SPECIES
-=======
+# Clypeolella apus Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola piperis-barbati Hansf. SPECIES
-=======
+# Meliola piperis-barbati Hansf. SPECIES
 
 #### Status
 ACCEPTED

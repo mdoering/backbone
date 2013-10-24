@@ -1,5 +1,4 @@
-Marssonia viticola I. Miyake SPECIES
-=======
+# Marssonia viticola I. Miyake SPECIES
 
 #### Status
 ACCEPTED

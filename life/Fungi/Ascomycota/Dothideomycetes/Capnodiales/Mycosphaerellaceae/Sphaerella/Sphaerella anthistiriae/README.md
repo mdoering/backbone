@@ -1,5 +1,4 @@
-Sphaerella anthistiriae McAlpine SPECIES
-=======
+# Sphaerella anthistiriae McAlpine SPECIES
 
 #### Status
 ACCEPTED

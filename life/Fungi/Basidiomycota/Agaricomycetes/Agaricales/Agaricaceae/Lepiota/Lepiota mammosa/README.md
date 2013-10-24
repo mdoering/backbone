@@ -1,5 +1,4 @@
-Lepiota mammosa Henn. SPECIES
-=======
+# Lepiota mammosa Henn. SPECIES
 
 #### Status
 ACCEPTED

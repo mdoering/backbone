@@ -1,8 +1,7 @@
-Gomphosphaeria tenera Skuja SPECIES
-=======
+# Woronichinia tenera (Skuja) Komárek & Hindák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

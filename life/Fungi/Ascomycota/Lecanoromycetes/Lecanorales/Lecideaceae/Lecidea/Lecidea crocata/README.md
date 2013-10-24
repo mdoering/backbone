@@ -1,5 +1,4 @@
-Lecidea crocata Fée SPECIES
-=======
+# Lecidea crocata Fée SPECIES
 
 #### Status
 ACCEPTED

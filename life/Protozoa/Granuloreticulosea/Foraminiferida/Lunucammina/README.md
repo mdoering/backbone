@@ -1,5 +1,4 @@
-Lunucammina Spandel, 1898 GENUS
-=======
+# Lunucammina Spandel, 1898 GENUS
 
 #### Status
 ACCEPTED

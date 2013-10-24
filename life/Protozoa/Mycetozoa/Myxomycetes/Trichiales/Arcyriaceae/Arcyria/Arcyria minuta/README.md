@@ -1,17 +1,16 @@
-Arcyria cinerea var. carnea G. Lister VARIETY
-=======
+# Arcyria minuta Buchet, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Mycetozoa (London), Edn 2 236 (1911)
+in Patouillard, Mém. Acad. malgache 6: 42 (1928)
 
 #### Original name
-Arcyria cinerea var. carnea G. Lister
+Arcyria minuta Buchet, 1927
 
 ### Remarks
 null

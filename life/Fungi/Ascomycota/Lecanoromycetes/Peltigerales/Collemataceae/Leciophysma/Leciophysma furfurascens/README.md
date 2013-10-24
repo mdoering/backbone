@@ -1,5 +1,4 @@
-Leciophysma furfurascens (Nyl.) Gyeln. SPECIES
-=======
+# Leciophysma furfurascens (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

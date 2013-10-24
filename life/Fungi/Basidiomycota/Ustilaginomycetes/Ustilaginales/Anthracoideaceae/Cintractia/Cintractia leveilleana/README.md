@@ -1,5 +1,4 @@
-Cintractia leveilleana Maire SPECIES
-=======
+# Cintractia leveilleana Maire SPECIES
 
 #### Status
 ACCEPTED

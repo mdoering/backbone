@@ -1,5 +1,4 @@
-Podospora papilliformis Cain SPECIES
-=======
+# Podospora papilliformis Cain SPECIES
 
 #### Status
 ACCEPTED

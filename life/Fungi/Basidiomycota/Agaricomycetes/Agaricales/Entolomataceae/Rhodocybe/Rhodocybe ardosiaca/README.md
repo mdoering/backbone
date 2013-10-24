@@ -1,5 +1,4 @@
-Rhodocybe ardosiaca E. Horak & Griesser SPECIES
-=======
+# Rhodocybe ardosiaca E. Horak & Griesser SPECIES
 
 #### Status
 ACCEPTED

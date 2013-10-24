@@ -1,11 +1,10 @@
-Myrionema incommodum Skottsberg, 1907 SPECIES
-=======
+# Australofilum incommodum (Skottsberg) A.F. Peters SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

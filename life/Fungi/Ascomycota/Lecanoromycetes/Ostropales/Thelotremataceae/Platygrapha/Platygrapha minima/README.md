@@ -1,5 +1,4 @@
-Platygrapha minima Kremp. SPECIES
-=======
+# Platygrapha minima Kremp. SPECIES
 
 #### Status
 ACCEPTED

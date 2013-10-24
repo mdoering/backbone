@@ -1,5 +1,4 @@
-Verrucaria amphibola Nyl. SPECIES
-=======
+# Verrucaria amphibola Nyl. SPECIES
 
 #### Status
 ACCEPTED

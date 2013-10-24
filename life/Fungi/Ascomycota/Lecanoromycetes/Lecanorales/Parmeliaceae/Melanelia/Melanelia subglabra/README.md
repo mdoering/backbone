@@ -1,14 +1,13 @@
-Parmelia subaurifera var. subglabra Räsänen VARIETY
-=======
+# Melanelia subglabra (Räsänen) Essl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 2(1): 19 (1932)
+Mycotaxon 7(1): 48 (1978)
 
 #### Original name
 Parmelia subaurifera var. subglabra Räsänen

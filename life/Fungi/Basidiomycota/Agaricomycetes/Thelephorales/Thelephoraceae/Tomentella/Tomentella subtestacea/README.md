@@ -1,5 +1,4 @@
-Tomentella subtestacea Bourdot & Galzin, 1924 SPECIES
-=======
+# Tomentella subtestacea Bourdot & Galzin, 1924 SPECIES
 
 #### Status
 ACCEPTED

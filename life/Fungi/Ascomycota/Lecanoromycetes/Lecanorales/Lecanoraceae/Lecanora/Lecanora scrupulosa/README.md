@@ -1,5 +1,4 @@
-Lecanora scrupulosa Ach. SPECIES
-=======
+# Lecanora scrupulosa Ach. SPECIES
 
 #### Status
 ACCEPTED

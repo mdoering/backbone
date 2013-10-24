@@ -1,5 +1,4 @@
-Spongopyle osculosa Dreyer, 1889 SPECIES
-=======
+# Spongopyle osculosa Dreyer, 1889 SPECIES
 
 #### Status
 ACCEPTED

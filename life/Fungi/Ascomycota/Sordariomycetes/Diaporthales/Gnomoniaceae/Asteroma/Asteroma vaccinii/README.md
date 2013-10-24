@@ -1,5 +1,4 @@
-Asteroma vaccinii Vlassova SPECIES
-=======
+# Asteroma vaccinii Vlassova SPECIES
 
 #### Status
 ACCEPTED

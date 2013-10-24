@@ -1,5 +1,4 @@
-Cryptosporium carpogenum Roum. & Pat. SPECIES
-=======
+# Cryptosporium carpogenum Roum. & Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhinotrichum globiferum Berk. & Broome SPECIES
-=======
+# Rhinotrichum globiferum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

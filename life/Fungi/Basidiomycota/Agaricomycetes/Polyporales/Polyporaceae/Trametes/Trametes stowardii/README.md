@@ -1,5 +1,4 @@
-Trametes stowardii Lloyd SPECIES
-=======
+# Trametes stowardii Lloyd SPECIES
 
 #### Status
 ACCEPTED

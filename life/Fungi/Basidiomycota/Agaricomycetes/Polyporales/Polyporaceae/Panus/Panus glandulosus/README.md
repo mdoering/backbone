@@ -1,5 +1,4 @@
-Panus glandulosus Berk. & Broome SPECIES
-=======
+# Panus glandulosus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

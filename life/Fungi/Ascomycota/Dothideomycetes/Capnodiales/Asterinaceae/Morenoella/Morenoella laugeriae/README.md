@@ -1,17 +1,16 @@
-Morenoella langeriae R.W. Ryan SPECIES
-=======
+# Morenoella laugeriae R.W. Ryan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 16(4): 192 (1924)
 
 #### Original name
-Morenoella langeriae R.W. Ryan
+Morenoella laugeriae R.W. Ryan
 
 ### Remarks
 null

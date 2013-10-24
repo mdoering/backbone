@@ -1,5 +1,4 @@
-Amphidoma acuminata Stein SPECIES
-=======
+# Amphidoma acuminata Stein SPECIES
 
 #### Status
 ACCEPTED

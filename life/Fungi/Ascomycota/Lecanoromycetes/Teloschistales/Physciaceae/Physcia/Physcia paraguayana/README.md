@@ -1,5 +1,4 @@
-Physcia paraguayana SPECIES
-=======
+# Physcia paraguayana SPECIES
 
 #### Status
 ACCEPTED

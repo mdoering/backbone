@@ -1,5 +1,4 @@
-Torula cyperina Roum. & Pat. SPECIES
-=======
+# Torula cyperina Roum. & Pat. SPECIES
 
 #### Status
 ACCEPTED

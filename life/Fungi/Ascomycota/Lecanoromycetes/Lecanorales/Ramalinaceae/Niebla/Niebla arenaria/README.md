@@ -1,5 +1,4 @@
-Niebla arenaria Spjut SPECIES
-=======
+# Niebla arenaria Spjut SPECIES
 
 #### Status
 ACCEPTED

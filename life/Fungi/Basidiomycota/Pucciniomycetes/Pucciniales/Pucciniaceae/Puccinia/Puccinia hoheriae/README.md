@@ -1,5 +1,4 @@
-Puccinia hoheriae Wakef. SPECIES
-=======
+# Puccinia hoheriae Wakef. SPECIES
 
 #### Status
 ACCEPTED

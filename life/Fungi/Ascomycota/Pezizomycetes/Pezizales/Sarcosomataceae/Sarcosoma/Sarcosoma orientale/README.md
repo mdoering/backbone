@@ -1,5 +1,4 @@
-Sarcosoma orientale Pat. SPECIES
-=======
+# Sarcosoma orientale Pat. SPECIES
 
 #### Status
 ACCEPTED

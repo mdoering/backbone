@@ -1,5 +1,4 @@
-Drosophila picta Romagn. SPECIES
-=======
+# Drosophila picta Romagn. SPECIES
 
 #### Status
 ACCEPTED

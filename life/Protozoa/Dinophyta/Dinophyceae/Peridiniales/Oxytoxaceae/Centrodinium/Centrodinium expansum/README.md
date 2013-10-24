@@ -1,5 +1,4 @@
-Centrodinium expansum Kofoid, 1911 SPECIES
-=======
+# Centrodinium expansum Kofoid, 1911 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphiloma balfourii Müll. Arg. SPECIES
-=======
+# Amphiloma balfourii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

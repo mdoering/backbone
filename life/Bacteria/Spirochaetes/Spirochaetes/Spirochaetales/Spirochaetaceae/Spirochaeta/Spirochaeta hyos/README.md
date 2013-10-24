@@ -1,5 +1,4 @@
-Spirochaeta hyos SPECIES
-=======
+# Spirochaeta hyos SPECIES
 
 #### Status
 ACCEPTED

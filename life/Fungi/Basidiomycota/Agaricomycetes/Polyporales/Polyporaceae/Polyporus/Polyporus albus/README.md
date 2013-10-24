@@ -1,5 +1,4 @@
-Polyporus albus (Huds.) Fr. SPECIES
-=======
+# Polyporus albus (Huds.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe monscaiensis Palazón, Tabarés & Rocabruna SPECIES
-=======
+# Hygrocybe monscaiensis Palazón, Tabarés & Rocabruna SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Frankiella Speschnew GENUS
-=======
+# Greeneria Scribn. & Viala GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Arb. Tiflis Bot. Gard. 5: 1-14 (1900)
+C. r. hebd. Séanc. Acad. Sci. , Paris 105: 473 (1887)
 
 #### Original name
-Frankiella Speschnew
+Greeneria Scribn. & Viala
 
 ### Remarks
 null

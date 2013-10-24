@@ -1,5 +1,4 @@
-Laccaria amethysteo-occidentalis G.M. Muell. SPECIES
-=======
+# Laccaria amethysteo-occidentalis G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

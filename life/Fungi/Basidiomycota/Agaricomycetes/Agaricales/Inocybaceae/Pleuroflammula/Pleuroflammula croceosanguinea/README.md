@@ -1,5 +1,4 @@
-Pleuroflammula croceosanguinea (Mont.) Singer SPECIES
-=======
+# Pleuroflammula croceosanguinea (Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bilimbia aurata Riddle SPECIES
-=======
+# Bilimbia aurata Riddle SPECIES
 
 #### Status
 ACCEPTED

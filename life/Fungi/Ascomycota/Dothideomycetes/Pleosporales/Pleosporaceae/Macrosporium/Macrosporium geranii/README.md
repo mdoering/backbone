@@ -1,5 +1,4 @@
-Macrosporium geranii Sousa da Câmara SPECIES
-=======
+# Macrosporium geranii Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

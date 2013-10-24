@@ -1,5 +1,4 @@
-Vibrio scophthalmi Cerdà-Cuéllar et al., 1997 SPECIES
-=======
+# Vibrio scophthalmi Cerdà-Cuéllar et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

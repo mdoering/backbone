@@ -1,5 +1,4 @@
-Amphisolenia spinulosa Kofoid SPECIES
-=======
+# Amphisolenia spinulosa Kofoid SPECIES
 
 #### Status
 ACCEPTED

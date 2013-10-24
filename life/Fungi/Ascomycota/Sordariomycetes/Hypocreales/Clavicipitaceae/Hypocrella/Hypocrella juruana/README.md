@@ -1,5 +1,4 @@
-Hypocrella juruana Henn. SPECIES
-=======
+# Hypocrella juruana Henn. SPECIES
 
 #### Status
 ACCEPTED

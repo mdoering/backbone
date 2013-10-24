@@ -1,5 +1,4 @@
-Cyphella disciformis Pilát SPECIES
-=======
+# Cyphella disciformis Pilát SPECIES
 
 #### Status
 ACCEPTED

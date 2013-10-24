@@ -1,5 +1,4 @@
-Marasmius brizarum Métrod SPECIES
-=======
+# Marasmius brizarum Métrod SPECIES
 
 #### Status
 ACCEPTED

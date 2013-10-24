@@ -1,5 +1,4 @@
-Pleurotrema macrosporum (Makhija & Patw.) D.D. Awasthi SPECIES
-=======
+# Pleurotrema macrosporum (Makhija & Patw.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

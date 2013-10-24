@@ -1,5 +1,4 @@
-Ancystis GENUS
-=======
+# Ancystis GENUS
 
 #### Status
 ACCEPTED

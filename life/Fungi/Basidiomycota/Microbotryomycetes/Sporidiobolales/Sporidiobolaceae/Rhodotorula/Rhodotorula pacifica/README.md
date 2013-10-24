@@ -1,5 +1,4 @@
-Rhodotorula pacifica Nagah. & Hamam. SPECIES
-=======
+# Rhodotorula pacifica Nagah. & Hamam. SPECIES
 
 #### Status
 ACCEPTED

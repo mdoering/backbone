@@ -1,5 +1,4 @@
-Patellaria sabuletorum (Schreb.) Spreng. SPECIES
-=======
+# Patellaria sabuletorum (Schreb.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

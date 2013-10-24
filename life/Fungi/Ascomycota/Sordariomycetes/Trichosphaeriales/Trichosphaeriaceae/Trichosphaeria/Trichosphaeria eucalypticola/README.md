@@ -1,5 +1,4 @@
-Trichosphaeria eucalypticola Sivan. & R.G. Shivas SPECIES
-=======
+# Trichosphaeria eucalypticola Sivan. & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

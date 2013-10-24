@@ -1,5 +1,4 @@
-Maireina pseudochracea W.B. Cooke SPECIES
-=======
+# Maireina pseudochracea W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

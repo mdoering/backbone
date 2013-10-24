@@ -1,5 +1,4 @@
-Lentinus echinopus Lév. SPECIES
-=======
+# Lentinus echinopus Lév. SPECIES
 
 #### Status
 ACCEPTED

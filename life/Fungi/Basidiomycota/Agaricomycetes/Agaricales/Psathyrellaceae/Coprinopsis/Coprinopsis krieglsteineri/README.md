@@ -1,5 +1,4 @@
-Coprinopsis krieglsteineri (Bender) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis krieglsteineri (Bender) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

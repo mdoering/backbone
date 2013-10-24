@@ -1,5 +1,4 @@
-Amanita cinereopannosa Bas SPECIES
-=======
+# Amanita cinereopannosa Bas SPECIES
 
 #### Status
 ACCEPTED

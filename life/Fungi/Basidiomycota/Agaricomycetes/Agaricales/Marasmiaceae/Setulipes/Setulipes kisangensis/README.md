@@ -1,5 +1,4 @@
-Setulipes kisangensis (Singer) Antonín SPECIES
-=======
+# Setulipes kisangensis (Singer) Antonín SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca etesiae (Nyl.) Du Rietz SPECIES
-=======
+# Caloplaca etesiae (Nyl.) Du Rietz SPECIES
 
 #### Status
 ACCEPTED

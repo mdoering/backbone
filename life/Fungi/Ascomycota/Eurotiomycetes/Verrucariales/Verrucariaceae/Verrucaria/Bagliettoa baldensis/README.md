@@ -1,17 +1,16 @@
-Verrucaria subconcentrica var. subconcentrica VARIETY
-=======
+# Bagliettoa baldensis (A. Massal.) Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Verrucaria subconcentrica var. subconcentrica
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pseudocercospora melanolepidis Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora melanolepidis Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

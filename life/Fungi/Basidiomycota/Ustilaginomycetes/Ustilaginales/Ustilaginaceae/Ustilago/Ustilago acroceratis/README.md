@@ -1,5 +1,4 @@
-Ustilago acroceratis Vánky SPECIES
-=======
+# Ustilago acroceratis Vánky SPECIES
 
 #### Status
 ACCEPTED

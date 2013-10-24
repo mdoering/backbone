@@ -1,5 +1,4 @@
-Cercospora polliae-japonicae Y.L. Guo & Y. Jiang SPECIES
-=======
+# Cercospora polliae-japonicae Y.L. Guo & Y. Jiang SPECIES
 
 #### Status
 ACCEPTED

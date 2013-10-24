@@ -1,5 +1,4 @@
-Taeniellopsis orchestiae R.A. Poiss., 1927 SPECIES
-=======
+# Taeniellopsis orchestiae R.A. Poiss., 1927 SPECIES
 
 #### Status
 ACCEPTED

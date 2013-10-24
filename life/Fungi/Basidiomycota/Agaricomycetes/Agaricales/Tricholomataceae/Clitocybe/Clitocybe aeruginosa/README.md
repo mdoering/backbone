@@ -1,5 +1,4 @@
-Clitocybe aeruginosa H.E. Bigelow SPECIES
-=======
+# Clitocybe aeruginosa H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

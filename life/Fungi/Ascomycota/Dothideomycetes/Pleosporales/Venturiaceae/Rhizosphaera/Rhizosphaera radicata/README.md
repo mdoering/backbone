@@ -1,5 +1,4 @@
-Rhizosphaera radicata Naumov {?} SPECIES
-=======
+# Rhizosphaera radicata Naumov {?} SPECIES
 
 #### Status
 ACCEPTED

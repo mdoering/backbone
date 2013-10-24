@@ -1,5 +1,4 @@
-Bovistella davisii Lloyd SPECIES
-=======
+# Bovistella davisii Lloyd SPECIES
 
 #### Status
 ACCEPTED

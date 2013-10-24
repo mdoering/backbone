@@ -1,5 +1,4 @@
-Cryptothecia caesioalba (Müll. Arg.) R. Sant. SPECIES
-=======
+# Cryptothecia caesioalba (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

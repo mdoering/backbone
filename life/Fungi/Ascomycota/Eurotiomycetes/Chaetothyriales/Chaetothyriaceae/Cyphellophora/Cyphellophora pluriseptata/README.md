@@ -1,5 +1,4 @@
-Cyphellophora pluriseptata G.A. de Vries, Elders & Luykx, 1986 SPECIES
-=======
+# Cyphellophora pluriseptata G.A. de Vries, Elders & Luykx, 1986 SPECIES
 
 #### Status
 ACCEPTED

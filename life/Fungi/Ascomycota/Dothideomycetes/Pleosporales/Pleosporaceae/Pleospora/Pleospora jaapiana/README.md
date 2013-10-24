@@ -1,5 +1,4 @@
-Pleospora jaapiana Rehm SPECIES
-=======
+# Pleospora jaapiana Rehm SPECIES
 
 #### Status
 ACCEPTED

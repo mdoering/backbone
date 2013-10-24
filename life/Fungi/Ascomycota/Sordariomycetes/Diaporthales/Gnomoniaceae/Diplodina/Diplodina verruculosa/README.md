@@ -1,5 +1,4 @@
-Diplodina verruculosa Speg. SPECIES
-=======
+# Diplodina verruculosa Speg. SPECIES
 
 #### Status
 ACCEPTED

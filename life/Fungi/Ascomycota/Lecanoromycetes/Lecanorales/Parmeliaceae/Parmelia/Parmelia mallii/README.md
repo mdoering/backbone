@@ -1,5 +1,4 @@
-Parmelia mallii Räsänen SPECIES
-=======
+# Parmelia mallii Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corethromyces aequatorialis W. Rossi & A. Weir SPECIES
-=======
+# Corethromyces aequatorialis W. Rossi & A. Weir SPECIES
 
 #### Status
 ACCEPTED

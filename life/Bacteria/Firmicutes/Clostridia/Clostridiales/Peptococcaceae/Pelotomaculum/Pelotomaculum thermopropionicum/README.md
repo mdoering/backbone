@@ -1,5 +1,4 @@
-Pelotomaculum thermopropionicum Imachi et al., 2002 SPECIES
-=======
+# Pelotomaculum thermopropionicum Imachi et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

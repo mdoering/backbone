@@ -1,5 +1,4 @@
-Amauroderma inopinum (Lloyd) Torrend SPECIES
-=======
+# Amauroderma inopinum (Lloyd) Torrend SPECIES
 
 #### Status
 ACCEPTED

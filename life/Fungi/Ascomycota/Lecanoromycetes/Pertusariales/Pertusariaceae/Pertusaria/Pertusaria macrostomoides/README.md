@@ -1,5 +1,4 @@
-Pertusaria macrostomoides C.W. Dodge SPECIES
-=======
+# Pertusaria macrostomoides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

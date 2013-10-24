@@ -1,5 +1,4 @@
-Helicogloea pauciseptata R. Kirschner & Chee J. Chen SPECIES
-=======
+# Helicogloea pauciseptata R. Kirschner & Chee J. Chen SPECIES
 
 #### Status
 ACCEPTED

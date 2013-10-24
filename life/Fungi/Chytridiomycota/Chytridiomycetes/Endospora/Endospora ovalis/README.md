@@ -1,5 +1,4 @@
-Endospora ovalis Scherff. SPECIES
-=======
+# Endospora ovalis Scherff. SPECIES
 
 #### Status
 ACCEPTED

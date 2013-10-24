@@ -1,5 +1,4 @@
-Bacillus naganoensis Tomimura et al., 1990 SPECIES
-=======
+# Bacillus naganoensis Tomimura et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stromatopogon geminatum Etayo & Breuss SPECIES
-=======
+# Stromatopogon geminatum Etayo & Breuss SPECIES
 
 #### Status
 ACCEPTED

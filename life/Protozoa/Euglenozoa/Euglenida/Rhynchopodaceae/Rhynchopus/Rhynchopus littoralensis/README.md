@@ -1,5 +1,4 @@
-Rhynchopus littoralensis Kufferath, 1950 SPECIES
-=======
+# Rhynchopus littoralensis Kufferath, 1950 SPECIES
 
 #### Status
 ACCEPTED

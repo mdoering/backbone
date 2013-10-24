@@ -1,5 +1,4 @@
-Granulodiplodia stangeriae (H. Zimm.) Zambett. SPECIES
-=======
+# Granulodiplodia stangeriae (H. Zimm.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

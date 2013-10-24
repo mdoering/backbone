@@ -1,5 +1,4 @@
-Oospora lingualis Guég. SPECIES
-=======
+# Oospora lingualis Guég. SPECIES
 
 #### Status
 ACCEPTED

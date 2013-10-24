@@ -1,5 +1,4 @@
-Dimeriella maculosa (Ellis) Theiss. SPECIES
-=======
+# Dimeriella maculosa (Ellis) Theiss. SPECIES
 
 #### Status
 ACCEPTED

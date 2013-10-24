@@ -1,5 +1,4 @@
-Marasmiellus salmonicolor (Berk. & Broome) Pegler SPECIES
-=======
+# Marasmiellus salmonicolor (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

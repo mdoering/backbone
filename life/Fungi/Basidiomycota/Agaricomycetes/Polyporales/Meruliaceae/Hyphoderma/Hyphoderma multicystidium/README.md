@@ -1,8 +1,7 @@
-Hyphoderma multicystidium var. multicystidium (Hjortstam & Ryvarden) Hjortstam & Tellería, 1990 VARIETY
-=======
+# Hyphoderma multicystidium (Hjortstam & Ryvarden) Hjortstam & Tellería, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 in Tellería, Biblthca Mycol. 135: 56 (1990)
 
 #### Original name
-Hyphoderma multicystidium var. multicystidium (Hjortstam & Ryvarden) Hjortstam & Tellería, 1990
+Fibricium multicystidium Hjortstam & Ryvarden, 1980
 
 ### Remarks
 null

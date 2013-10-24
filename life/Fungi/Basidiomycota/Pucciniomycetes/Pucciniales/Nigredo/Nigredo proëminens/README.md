@@ -1,5 +1,4 @@
-Nigredo proëminens (DC.) Arthur SPECIES
-=======
+# Nigredo proëminens (DC.) Arthur SPECIES
 
 #### Status
 ACCEPTED

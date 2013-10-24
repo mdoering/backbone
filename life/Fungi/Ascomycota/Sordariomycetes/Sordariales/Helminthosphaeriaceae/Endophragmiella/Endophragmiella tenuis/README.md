@@ -1,5 +1,4 @@
-Endophragmiella tenuis R.F. Castañeda SPECIES
-=======
+# Endophragmiella tenuis R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

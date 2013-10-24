@@ -1,5 +1,4 @@
-Urocystis sinensis L. Guo, 2005 SPECIES
-=======
+# Urocystis sinensis L. Guo, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoclavulina neogracilis Zheng & Fu, 2001 SPECIES
-=======
+# Pseudoclavulina neogracilis Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

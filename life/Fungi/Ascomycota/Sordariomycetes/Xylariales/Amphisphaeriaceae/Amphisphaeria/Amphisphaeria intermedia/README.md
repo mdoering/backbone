@@ -1,5 +1,4 @@
-Amphisphaeria intermedia Sacc. SPECIES
-=======
+# Amphisphaeria intermedia Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synedra tenera var. utermoehlii (Hustedt) A. Cleve VARIETY
-=======
+# Synedra tenera W. Smith SPECIES
 
 #### Status
 ACCEPTED

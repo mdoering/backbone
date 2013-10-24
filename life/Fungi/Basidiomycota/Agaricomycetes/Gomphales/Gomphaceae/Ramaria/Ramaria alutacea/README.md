@@ -1,5 +1,4 @@
-Ramaria alutacea Schild SPECIES
-=======
+# Ramaria alutacea Schild SPECIES
 
 #### Status
 ACCEPTED

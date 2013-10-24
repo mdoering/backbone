@@ -1,5 +1,4 @@
-Cercospora sedi Ellis & Everh. SPECIES
-=======
+# Cercospora sedi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

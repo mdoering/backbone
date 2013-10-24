@@ -1,5 +1,4 @@
-Heterothecium cuticulum (Fée) A. Massal. SPECIES
-=======
+# Heterothecium cuticulum (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

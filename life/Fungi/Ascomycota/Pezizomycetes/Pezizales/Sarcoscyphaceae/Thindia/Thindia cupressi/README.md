@@ -1,5 +1,4 @@
-Thindia cupressi Korf & Waraitch, 1971 SPECIES
-=======
+# Thindia cupressi Korf & Waraitch, 1971 SPECIES
 
 #### Status
 ACCEPTED

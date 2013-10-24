@@ -1,5 +1,4 @@
-Stropharia insolita Bouriquet SPECIES
-=======
+# Stropharia insolita Bouriquet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizoctonia gracilis Burgeff SPECIES
-=======
+# Rhizoctonia gracilis Burgeff SPECIES
 
 #### Status
 ACCEPTED

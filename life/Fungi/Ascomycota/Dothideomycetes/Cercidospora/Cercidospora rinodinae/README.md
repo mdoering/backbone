@@ -1,5 +1,4 @@
-Cercidospora rinodinae Etayo & van den Boom, 2005 SPECIES
-=======
+# Cercidospora rinodinae Etayo & van den Boom, 2005 SPECIES
 
 #### Status
 ACCEPTED

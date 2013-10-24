@@ -1,5 +1,4 @@
-Parmotrema friabile Marcelli & C. H. Ribeiro SPECIES
-=======
+# Parmotrema friabile Marcelli & C. H. Ribeiro SPECIES
 
 #### Status
 ACCEPTED

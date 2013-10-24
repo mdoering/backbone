@@ -1,5 +1,4 @@
-Aecidium sebastianiae Mains SPECIES
-=======
+# Aecidium sebastianiae Mains SPECIES
 
 #### Status
 ACCEPTED

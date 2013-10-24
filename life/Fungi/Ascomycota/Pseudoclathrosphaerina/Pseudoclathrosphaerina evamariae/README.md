@@ -1,5 +1,4 @@
-Pseudoclathrosphaerina evamariae Voglmayr, 1997 SPECIES
-=======
+# Pseudoclathrosphaerina evamariae Voglmayr, 1997 SPECIES
 
 #### Status
 ACCEPTED

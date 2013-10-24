@@ -1,5 +1,4 @@
-Calothyrium subcolliculosum Speg. SPECIES
-=======
+# Calothyrium subcolliculosum Speg. SPECIES
 
 #### Status
 ACCEPTED

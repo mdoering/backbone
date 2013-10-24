@@ -1,5 +1,4 @@
-Russula subluteobasis Murrill SPECIES
-=======
+# Russula subluteobasis Murrill SPECIES
 
 #### Status
 ACCEPTED

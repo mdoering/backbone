@@ -1,5 +1,4 @@
-Parmelia chrysosticta (Hook. f. & Taylor) C. Bab. SPECIES
-=======
+# Parmelia chrysosticta (Hook. f. & Taylor) C. Bab. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombidium hausmanni Xu et al., 2009 SPECIES
-=======
+# Strombidium hausmanni Xu et al., 2009 SPECIES
 
 #### Status
 ACCEPTED

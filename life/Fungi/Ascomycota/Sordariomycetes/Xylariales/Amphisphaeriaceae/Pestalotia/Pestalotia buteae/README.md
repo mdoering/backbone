@@ -1,5 +1,4 @@
-Pestalotia buteae Panwar, Purohit & N.L.Vyas SPECIES
-=======
+# Pestalotia buteae Panwar, Purohit & N.L.Vyas SPECIES
 
 #### Status
 ACCEPTED

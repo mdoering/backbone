@@ -1,5 +1,4 @@
-Rivularia coadunata (Sommerfelt) Foslie SPECIES
-=======
+# Rivularia coadunata (Sommerfelt) Foslie SPECIES
 
 #### Status
 ACCEPTED

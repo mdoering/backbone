@@ -1,5 +1,4 @@
-Buellia microsperma Müll. Arg. SPECIES
-=======
+# Buellia microsperma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

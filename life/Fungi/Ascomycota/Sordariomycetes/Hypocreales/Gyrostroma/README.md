@@ -1,17 +1,16 @@
-Kaskaskia Born & J.L. Crane GENUS
-=======
+# Gyrostroma Naumov GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 62(8): 926 (1972)
+Bull. Soc. mycol. Fr. 30(3): 386 (1914)
 
 #### Original name
-Kaskaskia Born & J.L. Crane
+Gyrostroma Naumov
 
 ### Remarks
 null

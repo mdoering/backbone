@@ -1,5 +1,4 @@
-Aphanothece lemnae Chu SPECIES
-=======
+# Aphanothece lemnae Chu SPECIES
 
 #### Status
 ACCEPTED

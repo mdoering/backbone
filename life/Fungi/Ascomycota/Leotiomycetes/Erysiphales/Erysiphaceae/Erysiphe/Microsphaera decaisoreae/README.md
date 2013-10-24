@@ -1,5 +1,4 @@
-Microsphaera decaisoreae F.L. Tai SPECIES
-=======
+# Microsphaera decaisoreae F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

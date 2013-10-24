@@ -1,5 +1,4 @@
-Lecanora subtjibodasensis Zahlbr. SPECIES
-=======
+# Lecanora subtjibodasensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

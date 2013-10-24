@@ -1,5 +1,4 @@
-Scolicosporium fusarioides (Sacc.) B. Sutton SPECIES
-=======
+# Scolicosporium fusarioides (Sacc.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

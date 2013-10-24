@@ -1,5 +1,4 @@
-Hormococcus nitidulus Sacc. SPECIES
-=======
+# Hormococcus nitidulus Sacc. SPECIES
 
 #### Status
 ACCEPTED

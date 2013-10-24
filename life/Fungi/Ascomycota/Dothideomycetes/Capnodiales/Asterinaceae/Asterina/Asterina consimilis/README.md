@@ -1,5 +1,4 @@
-Asterina consimilis Höhn. SPECIES
-=======
+# Asterina consimilis Höhn. SPECIES
 
 #### Status
 ACCEPTED

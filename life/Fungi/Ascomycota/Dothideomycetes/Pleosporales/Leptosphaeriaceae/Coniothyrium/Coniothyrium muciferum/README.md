@@ -1,5 +1,4 @@
-Coniothyrium muciferum (Berk.) Grove SPECIES
-=======
+# Coniothyrium muciferum (Berk.) Grove SPECIES
 
 #### Status
 ACCEPTED

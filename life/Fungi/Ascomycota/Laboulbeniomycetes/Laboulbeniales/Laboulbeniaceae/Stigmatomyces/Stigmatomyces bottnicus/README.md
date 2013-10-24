@@ -1,5 +1,4 @@
-Stigmatomyces bottnicus Huldén SPECIES
-=======
+# Stigmatomyces bottnicus Huldén SPECIES
 
 #### Status
 ACCEPTED

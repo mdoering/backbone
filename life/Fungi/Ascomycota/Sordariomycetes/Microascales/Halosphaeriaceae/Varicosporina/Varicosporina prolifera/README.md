@@ -1,5 +1,4 @@
-Varicosporina prolifera Nakagiri, 1986 SPECIES
-=======
+# Varicosporina prolifera Nakagiri, 1986 SPECIES
 
 #### Status
 ACCEPTED

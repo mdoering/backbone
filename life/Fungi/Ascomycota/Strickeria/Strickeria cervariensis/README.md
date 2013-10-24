@@ -1,14 +1,13 @@
-Strickera cervariensis (Berl. & Sacc.) Kuntze SPECIES
-=======
+# Strickeria cervariensis (Sacc. & Berl.) H. Wegelin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mitt. thurgau. naturf. Ges. 11: 9 (1894)
 
 #### Original name
 Teichospora cervariensis Sacc. & Berl.

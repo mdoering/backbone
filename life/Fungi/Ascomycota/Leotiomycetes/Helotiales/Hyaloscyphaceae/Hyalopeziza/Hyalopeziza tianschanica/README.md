@@ -1,5 +1,4 @@
-Hyalopeziza tianschanica Raitv. SPECIES
-=======
+# Hyalopeziza tianschanica Raitv. SPECIES
 
 #### Status
 ACCEPTED

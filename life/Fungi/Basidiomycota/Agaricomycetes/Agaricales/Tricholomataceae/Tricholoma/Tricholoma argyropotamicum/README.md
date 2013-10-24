@@ -1,5 +1,4 @@
-Tricholoma argyropotamicum Speg. SPECIES
-=======
+# Tricholoma argyropotamicum Speg. SPECIES
 
 #### Status
 ACCEPTED

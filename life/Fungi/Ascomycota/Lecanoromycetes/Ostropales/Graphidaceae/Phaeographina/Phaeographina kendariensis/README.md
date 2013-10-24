@@ -1,5 +1,4 @@
-Phaeographina kendariensis Redinger SPECIES
-=======
+# Phaeographina kendariensis Redinger SPECIES
 
 #### Status
 ACCEPTED

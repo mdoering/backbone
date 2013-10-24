@@ -1,5 +1,4 @@
-Nyctalis canaliculata (Pers.) Fr. SPECIES
-=======
+# Nyctalis canaliculata (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

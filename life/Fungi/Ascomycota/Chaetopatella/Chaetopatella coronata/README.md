@@ -1,5 +1,4 @@
-Chaetopatella coronata I. Hino & Katum. SPECIES
-=======
+# Chaetopatella coronata I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

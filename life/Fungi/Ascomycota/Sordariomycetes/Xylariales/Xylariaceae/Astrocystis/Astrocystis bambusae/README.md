@@ -1,5 +1,4 @@
-Astrocystis bambusae (Henn.) Laessøe & Spooner SPECIES
-=======
+# Astrocystis bambusae (Henn.) Laessøe & Spooner SPECIES
 
 #### Status
 ACCEPTED

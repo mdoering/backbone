@@ -1,5 +1,4 @@
-Uredo crotalariicola Henn. SPECIES
-=======
+# Uredo crotalariicola Henn. SPECIES
 
 #### Status
 ACCEPTED

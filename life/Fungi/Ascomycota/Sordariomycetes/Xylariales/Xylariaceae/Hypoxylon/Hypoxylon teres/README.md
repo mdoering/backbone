@@ -1,5 +1,4 @@
-Hypoxylon teres (Schwein.) Sacc. SPECIES
-=======
+# Hypoxylon teres (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

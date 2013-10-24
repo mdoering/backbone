@@ -1,5 +1,4 @@
-Lycoperdodes leptothecum (Reichardt) Kuntze SPECIES
-=======
+# Lycoperdodes leptothecum (Reichardt) Kuntze SPECIES
 
 #### Status
 ACCEPTED

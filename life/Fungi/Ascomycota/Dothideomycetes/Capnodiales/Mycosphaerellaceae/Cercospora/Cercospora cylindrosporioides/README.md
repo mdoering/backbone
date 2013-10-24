@@ -1,5 +1,4 @@
-Cercospora cylindrosporioides Solheim & Chupp SPECIES
-=======
+# Cercospora cylindrosporioides Solheim & Chupp SPECIES
 
 #### Status
 ACCEPTED

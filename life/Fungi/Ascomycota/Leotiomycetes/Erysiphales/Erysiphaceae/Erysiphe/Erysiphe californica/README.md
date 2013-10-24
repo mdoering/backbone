@@ -1,5 +1,4 @@
-Erysiphe californica U. Braun SPECIES
-=======
+# Erysiphe californica U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeocytostroma megalosporum B. Sutton, 1964 SPECIES
-=======
+# Phaeocytostroma megalosporum B. Sutton, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon campsotrichum (Mont.) Mont. SPECIES
-=======
+# Hypoxylon campsotrichum (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

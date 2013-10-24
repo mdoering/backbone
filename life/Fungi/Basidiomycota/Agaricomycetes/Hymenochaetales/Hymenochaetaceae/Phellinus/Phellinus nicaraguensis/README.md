@@ -1,5 +1,4 @@
-Phellinus nicaraguensis (Murrill) S. Herrera & Bondartseva SPECIES
-=======
+# Phellinus nicaraguensis (Murrill) S. Herrera & Bondartseva SPECIES
 
 #### Status
 ACCEPTED

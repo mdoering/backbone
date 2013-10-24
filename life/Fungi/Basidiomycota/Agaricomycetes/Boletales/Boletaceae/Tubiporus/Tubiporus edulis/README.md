@@ -1,5 +1,4 @@
-Tubiporus edulis anon. SPECIES
-=======
+# Tubiporus edulis anon. SPECIES
 
 #### Status
 ACCEPTED

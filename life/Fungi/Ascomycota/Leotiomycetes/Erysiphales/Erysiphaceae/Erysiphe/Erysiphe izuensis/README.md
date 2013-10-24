@@ -1,5 +1,4 @@
-Erysiphe izuensis (Y. Nomura) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe izuensis (Y. Nomura) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

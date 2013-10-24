@@ -1,5 +1,4 @@
-Meliola triplochitonis S. Hughes SPECIES
-=======
+# Meliola triplochitonis S. Hughes SPECIES
 
 #### Status
 ACCEPTED

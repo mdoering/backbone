@@ -1,5 +1,4 @@
-Puccinia chardoniensis Pardo-Card. SPECIES
-=======
+# Puccinia chardoniensis Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

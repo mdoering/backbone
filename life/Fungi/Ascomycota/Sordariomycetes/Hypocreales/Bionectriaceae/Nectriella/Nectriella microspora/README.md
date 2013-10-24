@@ -1,5 +1,4 @@
-Nectriella microspora (Cooke & Ellis) Sacc. SPECIES
-=======
+# Nectriella microspora (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

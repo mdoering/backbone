@@ -1,5 +1,4 @@
-Perenniporia centrali-africani Decock & Massebo SPECIES
-=======
+# Perenniporia centrali-africani Decock & Massebo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora festucae Hardison, 1945 SPECIES
-=======
+# Cercospora festucae Hardison, 1945 SPECIES
 
 #### Status
 ACCEPTED

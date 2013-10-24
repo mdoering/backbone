@@ -1,5 +1,4 @@
-Laetinaevia myriospora (W. Phillips & Harkn.) B. Hein SPECIES
-=======
+# Laetinaevia myriospora (W. Phillips & Harkn.) B. Hein SPECIES
 
 #### Status
 ACCEPTED

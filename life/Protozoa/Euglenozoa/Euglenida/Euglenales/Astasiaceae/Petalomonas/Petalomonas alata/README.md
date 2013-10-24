@@ -1,5 +1,4 @@
-Petalomonas alata Stokes SPECIES
-=======
+# Petalomonas alata Stokes SPECIES
 
 #### Status
 ACCEPTED

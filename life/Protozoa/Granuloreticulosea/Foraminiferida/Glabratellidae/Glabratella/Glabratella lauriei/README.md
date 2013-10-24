@@ -1,8 +1,7 @@
-Discorbina lauriei Heron-Allen & Earland, 1924 SPECIES
-=======
+# Glabratella lauriei (Heron-Allen & Earland, 1924) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

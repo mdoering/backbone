@@ -1,5 +1,4 @@
-Coleosporium campanumeae Dietel SPECIES
-=======
+# Coleosporium campanumeae Dietel SPECIES
 
 #### Status
 ACCEPTED

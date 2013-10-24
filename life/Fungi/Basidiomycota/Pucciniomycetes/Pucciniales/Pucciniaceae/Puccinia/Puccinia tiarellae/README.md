@@ -1,5 +1,4 @@
-Puccinia tiarellae Peck SPECIES
-=======
+# Puccinia tiarellae Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haladaptatus cibarius Roh, Lee & Bae, 2010 SPECIES
-=======
+# Haladaptatus cibarius Roh, Lee & Bae, 2010 SPECIES
 
 #### Status
 ACCEPTED

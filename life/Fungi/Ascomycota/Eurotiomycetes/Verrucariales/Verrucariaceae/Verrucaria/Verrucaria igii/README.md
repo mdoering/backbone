@@ -1,5 +1,4 @@
-Verrucaria igii H. Harada SPECIES
-=======
+# Verrucaria igii H. Harada SPECIES
 
 #### Status
 ACCEPTED

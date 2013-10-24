@@ -1,5 +1,4 @@
-Trametes subalutacea Bourdot & Galzin SPECIES
-=======
+# Trametes subalutacea Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

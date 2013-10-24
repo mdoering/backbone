@@ -1,5 +1,4 @@
-Alternaria vaccinii E.G. Simmons SPECIES
-=======
+# Alternaria vaccinii E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

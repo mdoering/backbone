@@ -1,5 +1,4 @@
-Platystomum psilogrammum (Durieu & Mont.) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum psilogrammum (Durieu & Mont.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus subbellulus Hesler SPECIES
-=======
+# Gymnopilus subbellulus Hesler SPECIES
 
 #### Status
 ACCEPTED

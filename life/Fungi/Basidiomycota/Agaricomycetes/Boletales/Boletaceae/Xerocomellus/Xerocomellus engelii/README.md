@@ -1,5 +1,4 @@
-Xerocomellus engelii (Hlavácek) Sutara SPECIES
-=======
+# Xerocomellus engelii (Hlavácek) Sutara SPECIES
 
 #### Status
 ACCEPTED

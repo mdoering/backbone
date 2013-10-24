@@ -1,17 +1,16 @@
-Pseudo-Lecidea N.L. Marchand, 1896 GENUS
-=======
+# Abrothallus De Not. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Abrothallus 1 (1845)
 
 #### Original name
-null
+Abrothallus De Not.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Epiphora encaustica Nyl. SPECIES
-=======
+# Epiphora encaustica Nyl. SPECIES
 
 #### Status
 ACCEPTED

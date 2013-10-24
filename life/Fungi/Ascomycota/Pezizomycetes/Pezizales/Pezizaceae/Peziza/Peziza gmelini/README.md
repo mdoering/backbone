@@ -1,5 +1,4 @@
-Peziza gmelini Weinm. SPECIES
-=======
+# Peziza gmelini Weinm. SPECIES
 
 #### Status
 ACCEPTED

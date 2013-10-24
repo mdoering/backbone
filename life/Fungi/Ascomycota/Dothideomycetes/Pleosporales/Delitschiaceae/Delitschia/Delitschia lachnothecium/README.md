@@ -1,5 +1,4 @@
-Delitschia lachnothecium Luck-Allen & Cain SPECIES
-=======
+# Delitschia lachnothecium Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

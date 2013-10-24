@@ -1,17 +1,16 @@
-Eccilia ealeansis Beeli SPECIES
-=======
+# Eccilia ealaensis Beeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 61(1): 83 (1928)
 
 #### Original name
-Eccilia ealeansis Beeli
+Eccilia ealaensis Beeli
 
 ### Remarks
 null

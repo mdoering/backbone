@@ -1,5 +1,4 @@
-Passalora cnidoscolicola U. Braun & F.O. Freire, 2004 SPECIES
-=======
+# Passalora cnidoscolicola U. Braun & F.O. Freire, 2004 SPECIES
 
 #### Status
 ACCEPTED

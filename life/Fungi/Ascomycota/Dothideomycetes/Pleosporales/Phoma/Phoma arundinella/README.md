@@ -1,5 +1,4 @@
-Phoma arundinella Sacc. SPECIES
-=======
+# Phoma arundinella Sacc. SPECIES
 
 #### Status
 ACCEPTED

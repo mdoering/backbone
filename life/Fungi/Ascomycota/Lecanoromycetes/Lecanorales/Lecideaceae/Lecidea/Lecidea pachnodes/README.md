@@ -1,5 +1,4 @@
-Lecidea pachnodes Stizenb. SPECIES
-=======
+# Lecidea pachnodes Stizenb. SPECIES
 
 #### Status
 ACCEPTED

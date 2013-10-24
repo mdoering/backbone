@@ -1,5 +1,4 @@
-Naemospora montana Negru SPECIES
-=======
+# Naemospora montana Negru SPECIES
 
 #### Status
 ACCEPTED

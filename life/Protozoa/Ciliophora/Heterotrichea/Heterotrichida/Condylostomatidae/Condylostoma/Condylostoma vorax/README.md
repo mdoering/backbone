@@ -1,5 +1,4 @@
-Condylostoma vorax SPECIES
-=======
+# Condylostoma vorax SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella valentior (Britzelm.) Sacc. SPECIES
-=======
+# Psathyrella valentior (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

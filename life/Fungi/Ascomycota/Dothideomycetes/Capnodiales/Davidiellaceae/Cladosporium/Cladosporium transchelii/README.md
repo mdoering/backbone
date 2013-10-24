@@ -1,5 +1,4 @@
-Cladosporium transchelii var. transchelii VARIETY
-=======
+# Cladosporium transchelii Pidopl. & Deniak SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Pidoplichko, Fungus flora of coarse fodder 273 (1938)
 
 #### Original name
-Cladosporium transchelii var. transchelii
+Cladosporium transchelii Pidopl. & Deniak
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Anomalinidae FAMILY
-=======
+# Anomalinidae FAMILY
 
 #### Status
 ACCEPTED

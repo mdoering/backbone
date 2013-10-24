@@ -1,5 +1,4 @@
-Xanthoparmelia santessonii T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia santessonii T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

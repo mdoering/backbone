@@ -1,8 +1,7 @@
-Trimyema minuta (Kahl, 1931) Augustin, Foissner & Adam, 1987 SPECIES
-=======
+# Trimyema minutum (Kahl, 1931) Augustin, Foissner & Adam, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

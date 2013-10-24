@@ -1,5 +1,4 @@
-Potriphila neurogena Döbbeler SPECIES
-=======
+# Potriphila neurogena Döbbeler SPECIES
 
 #### Status
 ACCEPTED

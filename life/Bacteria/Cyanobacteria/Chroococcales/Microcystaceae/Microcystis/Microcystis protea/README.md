@@ -1,5 +1,4 @@
-Microcystis protea Copeland SPECIES
-=======
+# Microcystis protea Copeland SPECIES
 
 #### Status
 ACCEPTED

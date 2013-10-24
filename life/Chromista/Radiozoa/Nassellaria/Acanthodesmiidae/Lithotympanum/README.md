@@ -1,5 +1,4 @@
-Lithotympanum Haeckel, 1887 GENUS
-=======
+# Lithotympanum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

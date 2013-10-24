@@ -1,5 +1,4 @@
-Alternaria rosa-sinensis M.X. Gao & T.Y. Zhang SPECIES
-=======
+# Alternaria rosa-sinensis M.X. Gao & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius luteolus f. luteolus FORM
-=======
+# Lactarius luteolus Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Torrey bot. Club 23: 412 (1896)
 
 #### Original name
-Lactarius luteolus f. luteolus
+Lactarius luteolus Peck
 
 ### Remarks
 null

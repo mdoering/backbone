@@ -1,5 +1,4 @@
-Inocybe diminuta Peck SPECIES
-=======
+# Inocybe diminuta Peck SPECIES
 
 #### Status
 ACCEPTED

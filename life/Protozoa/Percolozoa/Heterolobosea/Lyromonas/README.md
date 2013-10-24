@@ -1,5 +1,4 @@
-Lyromonas Cavalier-Smith, 1993 GENUS
-=======
+# Lyromonas Cavalier-Smith, 1993 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella Sydow, 1930 GENUS
-=======
+# Stenella Sydow, 1930 GENUS
 
 #### Status
 ACCEPTED

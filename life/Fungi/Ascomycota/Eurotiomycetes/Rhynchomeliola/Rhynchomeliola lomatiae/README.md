@@ -1,5 +1,4 @@
-Rhynchomeliola lomatiae S.J. Lee & Joanne E. Taylor SPECIES
-=======
+# Rhynchomeliola lomatiae S.J. Lee & Joanne E. Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria phaeolomiza I.M. Lamb SPECIES
-=======
+# Catillaria phaeolomiza I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

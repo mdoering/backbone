@@ -1,5 +1,4 @@
-Sphaeronaema diaphanum Fuckel SPECIES
-=======
+# Sphaeronaema diaphanum Fuckel SPECIES
 
 #### Status
 ACCEPTED

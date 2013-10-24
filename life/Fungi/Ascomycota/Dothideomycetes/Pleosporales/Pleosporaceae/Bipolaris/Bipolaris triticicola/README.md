@@ -1,5 +1,4 @@
-Bipolaris triticicola Sivan. SPECIES
-=======
+# Bipolaris triticicola Sivan. SPECIES
 
 #### Status
 ACCEPTED

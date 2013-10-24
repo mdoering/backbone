@@ -1,5 +1,4 @@
-Diplodinula putoriae (Tassi) Tassi SPECIES
-=======
+# Diplodinula putoriae (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

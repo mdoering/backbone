@@ -1,5 +1,4 @@
-Placodium ragusanum (Zahlbr.) Motyka SPECIES
-=======
+# Placodium ragusanum (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

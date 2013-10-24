@@ -1,5 +1,4 @@
-Micrhystridium echinoides Valensi, 1949 SPECIES
-=======
+# Micrhystridium echinoides Valensi, 1949 SPECIES
 
 #### Status
 ACCEPTED

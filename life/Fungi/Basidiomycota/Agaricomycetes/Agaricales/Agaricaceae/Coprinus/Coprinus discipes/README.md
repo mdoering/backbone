@@ -1,5 +1,4 @@
-Coprinus discipes Pat. SPECIES
-=======
+# Coprinus discipes Pat. SPECIES
 
 #### Status
 ACCEPTED

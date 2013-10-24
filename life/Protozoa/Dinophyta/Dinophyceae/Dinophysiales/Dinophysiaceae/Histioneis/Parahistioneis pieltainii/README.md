@@ -1,5 +1,4 @@
-Parahistioneis pieltainii Osorio-Tafall, 1942 SPECIES
-=======
+# Parahistioneis pieltainii Osorio-Tafall, 1942 SPECIES
 
 #### Status
 ACCEPTED

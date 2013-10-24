@@ -1,17 +1,16 @@
-Nowakowskiella profusa f. profusa FORM
-=======
+# Nowakowskiella profusa Karling, 1941 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Torrey bot. Club 68: 386 (1941)
 
 #### Original name
-Nowakowskiella profusa f. profusa
+Nowakowskiella profusa Karling, 1941
 
 ### Remarks
 null

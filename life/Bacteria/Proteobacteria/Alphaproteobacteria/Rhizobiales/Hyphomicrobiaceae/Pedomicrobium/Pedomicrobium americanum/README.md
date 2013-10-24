@@ -1,5 +1,4 @@
-Pedomicrobium americanum Gebers & Beese, 1988 SPECIES
-=======
+# Pedomicrobium americanum Gebers & Beese, 1988 SPECIES
 
 #### Status
 ACCEPTED

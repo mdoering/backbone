@@ -1,5 +1,4 @@
-Strombidium alveolare Bullington, 1940 SPECIES
-=======
+# Strombidium alveolare Bullington, 1940 SPECIES
 
 #### Status
 ACCEPTED

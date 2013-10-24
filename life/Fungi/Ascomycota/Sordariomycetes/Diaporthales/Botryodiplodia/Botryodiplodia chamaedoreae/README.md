@@ -1,5 +1,4 @@
-Botryodiplodia chamaedoreae Henn. SPECIES
-=======
+# Botryodiplodia chamaedoreae Henn. SPECIES
 
 #### Status
 ACCEPTED

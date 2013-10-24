@@ -1,5 +1,4 @@
-Physcia papillifera Nyl. SPECIES
-=======
+# Physcia papillifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

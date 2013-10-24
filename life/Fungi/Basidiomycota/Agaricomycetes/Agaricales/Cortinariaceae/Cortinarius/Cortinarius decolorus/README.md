@@ -1,5 +1,4 @@
-Cortinarius decolorus Herp. SPECIES
-=======
+# Cortinarius decolorus Herp. SPECIES
 
 #### Status
 ACCEPTED

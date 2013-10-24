@@ -1,5 +1,4 @@
-Fusarium pisi anon. SPECIES
-=======
+# Fusarium pisi anon. SPECIES
 
 #### Status
 ACCEPTED

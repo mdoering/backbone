@@ -1,5 +1,4 @@
-Chytriomyces parasiticus Karling, 1947 SPECIES
-=======
+# Chytriomyces parasiticus Karling, 1947 SPECIES
 
 #### Status
 ACCEPTED

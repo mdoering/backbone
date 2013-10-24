@@ -1,5 +1,4 @@
-Coniophora arachnoidea Pat. SPECIES
-=======
+# Coniophora arachnoidea Pat. SPECIES
 
 #### Status
 ACCEPTED

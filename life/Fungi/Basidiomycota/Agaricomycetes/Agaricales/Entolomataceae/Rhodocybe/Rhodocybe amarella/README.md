@@ -1,5 +1,4 @@
-Rhodocybe amarella Consiglio, D. Antonini, M. Antonini & Contu SPECIES
-=======
+# Rhodocybe amarella Consiglio, D. Antonini, M. Antonini & Contu SPECIES
 
 #### Status
 ACCEPTED

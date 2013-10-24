@@ -1,5 +1,4 @@
-Arthopyrenia naevia (Vain.) Riedl SPECIES
-=======
+# Arthopyrenia naevia (Vain.) Riedl SPECIES
 
 #### Status
 ACCEPTED

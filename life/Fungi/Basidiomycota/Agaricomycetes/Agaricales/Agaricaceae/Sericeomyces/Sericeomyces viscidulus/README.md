@@ -1,5 +1,4 @@
-Sericeomyces viscidulus Heinem. SPECIES
-=======
+# Sericeomyces viscidulus Heinem. SPECIES
 
 #### Status
 ACCEPTED

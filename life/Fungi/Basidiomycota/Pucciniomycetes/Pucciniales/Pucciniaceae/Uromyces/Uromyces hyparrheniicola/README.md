@@ -1,5 +1,4 @@
-Uromyces hyparrheniicola Gjaerum, 1988 SPECIES
-=======
+# Uromyces hyparrheniicola Gjaerum, 1988 SPECIES
 
 #### Status
 ACCEPTED

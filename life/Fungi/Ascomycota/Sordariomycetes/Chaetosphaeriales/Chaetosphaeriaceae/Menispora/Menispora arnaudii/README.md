@@ -1,5 +1,4 @@
-Menispora arnaudii P.M. Kirk SPECIES
-=======
+# Menispora arnaudii P.M. Kirk SPECIES
 
 #### Status
 ACCEPTED

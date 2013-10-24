@@ -1,5 +1,4 @@
-Hymenoscyphus ombrophiliformis Svrcek SPECIES
-=======
+# Hymenoscyphus ombrophiliformis Svrcek SPECIES
 
 #### Status
 ACCEPTED

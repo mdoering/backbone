@@ -1,5 +1,4 @@
-Hydnum coniophoroides Henn. SPECIES
-=======
+# Hydnum coniophoroides Henn. SPECIES
 
 #### Status
 ACCEPTED

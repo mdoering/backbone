@@ -1,5 +1,4 @@
-Periconia botrytiformis Fresen. SPECIES
-=======
+# Periconia botrytiformis Fresen. SPECIES
 
 #### Status
 ACCEPTED

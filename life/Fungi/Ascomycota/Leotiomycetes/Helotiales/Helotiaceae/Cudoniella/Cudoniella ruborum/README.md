@@ -1,5 +1,4 @@
-Cudoniella ruborum Velen. SPECIES
-=======
+# Cudoniella ruborum Velen. SPECIES
 
 #### Status
 ACCEPTED

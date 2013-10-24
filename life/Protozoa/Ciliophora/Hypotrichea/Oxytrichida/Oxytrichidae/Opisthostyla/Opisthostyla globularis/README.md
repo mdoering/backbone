@@ -1,5 +1,4 @@
-Opisthostyla globularis Stokes, 1889 SPECIES
-=======
+# Opisthostyla globularis Stokes, 1889 SPECIES
 
 #### Status
 ACCEPTED

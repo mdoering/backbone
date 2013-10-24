@@ -1,17 +1,16 @@
-Peziza lumbricalis Cooke, 1879 SPECIES
-=======
+# Peziza petersii Berk., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 8(no. 46): 61 (1879)
+Grevillea 3(no. 28): 150 (1875)
 
 #### Original name
-Peziza lumbricalis Cooke, 1879
+Peziza petersii Berk., 1875
 
 ### Remarks
 null

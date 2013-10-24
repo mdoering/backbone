@@ -1,5 +1,4 @@
-Psilocybe micropora Noordel. & Verduin SPECIES
-=======
+# Psilocybe micropora Noordel. & Verduin SPECIES
 
 #### Status
 ACCEPTED

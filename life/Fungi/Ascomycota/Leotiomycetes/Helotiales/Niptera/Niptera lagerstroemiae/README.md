@@ -1,5 +1,4 @@
-Niptera lagerstroemiae Henn. SPECIES
-=======
+# Niptera lagerstroemiae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia amygdali (Durieu & Mont.) Vassilkov SPECIES
-=======
+# Botryodiplodia amygdali (Durieu & Mont.) Vassilkov SPECIES
 
 #### Status
 ACCEPTED

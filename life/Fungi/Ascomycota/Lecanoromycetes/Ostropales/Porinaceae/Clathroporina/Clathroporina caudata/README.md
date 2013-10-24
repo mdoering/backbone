@@ -1,5 +1,4 @@
-Clathroporina caudata Vezda & Vivant SPECIES
-=======
+# Clathroporina caudata Vezda & Vivant SPECIES
 
 #### Status
 ACCEPTED

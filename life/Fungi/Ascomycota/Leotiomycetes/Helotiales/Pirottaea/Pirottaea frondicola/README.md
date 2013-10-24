@@ -1,5 +1,4 @@
-Pirottaea frondicola (Ellis & Everh.) Sacc. SPECIES
-=======
+# Pirottaea frondicola (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

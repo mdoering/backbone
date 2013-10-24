@@ -1,5 +1,4 @@
-Pestalotia laurophylli Laughton SPECIES
-=======
+# Pestalotia laurophylli Laughton SPECIES
 
 #### Status
 ACCEPTED

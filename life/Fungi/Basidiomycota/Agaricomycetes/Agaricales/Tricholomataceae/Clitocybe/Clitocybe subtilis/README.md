@@ -1,5 +1,4 @@
-Clitocybe subtilis (Berk.) Singer & Grinling SPECIES
-=======
+# Clitocybe subtilis (Berk.) Singer & Grinling SPECIES
 
 #### Status
 ACCEPTED

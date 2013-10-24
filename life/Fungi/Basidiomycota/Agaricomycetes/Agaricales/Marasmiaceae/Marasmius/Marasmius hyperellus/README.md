@@ -1,5 +1,4 @@
-Marasmius hyperellus Fr. SPECIES
-=======
+# Marasmius hyperellus Fr. SPECIES
 
 #### Status
 ACCEPTED

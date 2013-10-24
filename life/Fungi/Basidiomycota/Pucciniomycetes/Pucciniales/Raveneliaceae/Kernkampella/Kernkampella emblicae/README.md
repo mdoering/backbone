@@ -1,14 +1,13 @@
-Ravenelia emblicae Syd. & P. Syd., 1906 SPECIES
-=======
+# Kernkampella emblicae (Syd. & P. Syd.) G.F. Laundon, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 4(5): 438 (1906)
+Mycotaxon 3(1): 144 (1975)
 
 #### Original name
 Ravenelia emblicae Syd. & P. Syd., 1906

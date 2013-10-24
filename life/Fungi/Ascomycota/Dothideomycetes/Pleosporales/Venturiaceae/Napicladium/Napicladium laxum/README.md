@@ -1,5 +1,4 @@
-Napicladium laxum Bubák ex Höhn. SPECIES
-=======
+# Napicladium laxum Bubák ex Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphyllium graminis (Ellis & Everh.) Rehm SPECIES
-=======
+# Graphyllium graminis (Ellis & Everh.) Rehm SPECIES
 
 #### Status
 ACCEPTED

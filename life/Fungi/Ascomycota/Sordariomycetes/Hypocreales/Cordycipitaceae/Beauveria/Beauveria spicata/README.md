@@ -1,5 +1,4 @@
-Beauveria spicata (Ferraris) Saccas SPECIES
-=======
+# Beauveria spicata (Ferraris) Saccas SPECIES
 
 #### Status
 ACCEPTED

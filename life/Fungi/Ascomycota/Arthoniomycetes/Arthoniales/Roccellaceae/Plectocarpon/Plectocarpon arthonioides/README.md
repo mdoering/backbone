@@ -1,5 +1,4 @@
-Plectocarpon arthonioides Diederich SPECIES
-=======
+# Plectocarpon arthonioides Diederich SPECIES
 
 #### Status
 ACCEPTED

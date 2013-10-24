@@ -1,5 +1,4 @@
-Aecidium mammillatum Sommerf. & Lagerh. SPECIES
-=======
+# Aecidium mammillatum Sommerf. & Lagerh. SPECIES
 
 #### Status
 ACCEPTED

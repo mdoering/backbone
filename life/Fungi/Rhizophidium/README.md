@@ -1,5 +1,4 @@
-Rhizophidium GENUS
-=======
+# Rhizophidium GENUS
 
 #### Status
 ACCEPTED

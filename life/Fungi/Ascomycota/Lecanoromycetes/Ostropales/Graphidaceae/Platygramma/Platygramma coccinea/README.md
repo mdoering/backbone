@@ -1,5 +1,4 @@
-Platygramma coccinea (F.C. Holl) Spreng. SPECIES
-=======
+# Platygramma coccinea (F.C. Holl) Spreng. SPECIES
 
 #### Status
 ACCEPTED

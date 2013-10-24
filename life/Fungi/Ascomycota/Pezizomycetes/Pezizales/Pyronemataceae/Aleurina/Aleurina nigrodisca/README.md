@@ -1,5 +1,4 @@
-Aleurina nigrodisca Sawada SPECIES
-=======
+# Aleurina nigrodisca Sawada SPECIES
 
 #### Status
 ACCEPTED

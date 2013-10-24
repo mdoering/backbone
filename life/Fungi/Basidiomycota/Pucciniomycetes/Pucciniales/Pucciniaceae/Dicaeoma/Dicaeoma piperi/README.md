@@ -1,5 +1,4 @@
-Dicaeoma piperi (Ricker) Arthur SPECIES
-=======
+# Dicaeoma piperi (Ricker) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe valleriana (Jacz.) S. Blumer SPECIES
-=======
+# Erysiphe valleriana (Jacz.) S. Blumer SPECIES
 
 #### Status
 ACCEPTED

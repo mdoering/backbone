@@ -1,5 +1,4 @@
-Phomopsis dendrobii V.G. Rao & B.R.D. Yadav SPECIES
-=======
+# Phomopsis dendrobii V.G. Rao & B.R.D. Yadav SPECIES
 
 #### Status
 ACCEPTED

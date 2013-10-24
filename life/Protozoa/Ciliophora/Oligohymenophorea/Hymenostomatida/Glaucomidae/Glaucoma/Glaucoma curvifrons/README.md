@@ -1,5 +1,4 @@
-Glaucoma curvifrons Dumas, 1937 SPECIES
-=======
+# Glaucoma curvifrons Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

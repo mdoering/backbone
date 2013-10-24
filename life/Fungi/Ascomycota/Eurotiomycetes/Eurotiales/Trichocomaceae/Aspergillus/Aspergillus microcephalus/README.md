@@ -1,5 +1,4 @@
-Aspergillus microcephalus Mosseray, 1934 SPECIES
-=======
+# Aspergillus microcephalus Mosseray, 1934 SPECIES
 
 #### Status
 ACCEPTED

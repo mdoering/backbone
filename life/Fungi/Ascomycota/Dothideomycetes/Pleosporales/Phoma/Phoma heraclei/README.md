@@ -1,5 +1,4 @@
-Phoma heraclei Earle SPECIES
-=======
+# Phoma heraclei Earle SPECIES
 
 #### Status
 ACCEPTED

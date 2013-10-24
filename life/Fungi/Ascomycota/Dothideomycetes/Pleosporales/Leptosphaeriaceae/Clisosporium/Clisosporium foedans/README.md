@@ -1,5 +1,4 @@
-Clisosporium foedans (Sacc.) Kuntze SPECIES
-=======
+# Clisosporium foedans (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

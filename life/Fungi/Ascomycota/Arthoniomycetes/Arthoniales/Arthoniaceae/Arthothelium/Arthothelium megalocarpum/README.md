@@ -1,5 +1,4 @@
-Arthothelium megalocarpum Müll. Arg. SPECIES
-=======
+# Arthothelium megalocarpum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

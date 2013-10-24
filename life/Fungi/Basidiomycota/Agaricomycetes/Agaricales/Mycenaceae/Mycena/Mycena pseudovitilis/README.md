@@ -1,5 +1,4 @@
-Mycena pseudovitilis Raithelh. SPECIES
-=======
+# Mycena pseudovitilis Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trenomyces circinans Thaxt. SPECIES
-=======
+# Trenomyces circinans Thaxt. SPECIES
 
 #### Status
 ACCEPTED

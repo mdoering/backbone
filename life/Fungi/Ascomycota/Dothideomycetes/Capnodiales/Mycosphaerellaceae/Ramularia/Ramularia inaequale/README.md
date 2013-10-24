@@ -1,5 +1,4 @@
-Ramularia inaequale (Preuss) U. Braun, 1998 SPECIES
-=======
+# Ramularia inaequale (Preuss) U. Braun, 1998 SPECIES
 
 #### Status
 ACCEPTED

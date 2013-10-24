@@ -1,5 +1,4 @@
-Asteromella picbaueri Petr. SPECIES
-=======
+# Asteromella picbaueri Petr. SPECIES
 
 #### Status
 ACCEPTED

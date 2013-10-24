@@ -1,5 +1,4 @@
-Glyphis labryrinthica SPECIES
-=======
+# Glyphis labryrinthica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicksonomyces sorghi Thirum., P.N. Rao & M.A. Salam SPECIES
-=======
+# Dicksonomyces sorghi Thirum., P.N. Rao & M.A. Salam SPECIES
 
 #### Status
 ACCEPTED

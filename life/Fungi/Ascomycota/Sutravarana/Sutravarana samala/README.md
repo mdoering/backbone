@@ -1,5 +1,4 @@
-Sutravarana samala Subram. & Chandrash., 1977 SPECIES
-=======
+# Sutravarana samala Subram. & Chandrash., 1977 SPECIES
 
 #### Status
 ACCEPTED

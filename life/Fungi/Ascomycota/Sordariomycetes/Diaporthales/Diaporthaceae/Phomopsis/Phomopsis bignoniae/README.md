@@ -1,5 +1,4 @@
-Phomopsis bignoniae (Sacc., E. Bommer & M. Rousseau) Curzi & Barbaini SPECIES
-=======
+# Phomopsis bignoniae (Sacc., E. Bommer & M. Rousseau) Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

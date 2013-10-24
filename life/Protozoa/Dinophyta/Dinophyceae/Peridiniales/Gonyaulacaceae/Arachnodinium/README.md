@@ -1,5 +1,4 @@
-Arachnodinium Wilson & Clowes, 1982 GENUS
-=======
+# Arachnodinium Wilson & Clowes, 1982 GENUS
 
 #### Status
 ACCEPTED

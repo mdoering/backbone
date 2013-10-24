@@ -1,5 +1,4 @@
-Polycoccum ventosicola Zhurb. SPECIES
-=======
+# Polycoccum ventosicola Zhurb. SPECIES
 
 #### Status
 ACCEPTED

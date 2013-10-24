@@ -1,5 +1,4 @@
-Porina globulifera Vain. SPECIES
-=======
+# Porina globulifera Vain. SPECIES
 
 #### Status
 ACCEPTED

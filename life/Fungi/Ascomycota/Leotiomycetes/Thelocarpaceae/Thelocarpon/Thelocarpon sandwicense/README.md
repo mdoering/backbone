@@ -1,5 +1,4 @@
-Thelocarpon sandwicense H. Magn. SPECIES
-=======
+# Thelocarpon sandwicense H. Magn. SPECIES
 
 #### Status
 ACCEPTED

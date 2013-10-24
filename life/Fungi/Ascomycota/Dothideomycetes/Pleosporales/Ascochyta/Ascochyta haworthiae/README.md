@@ -1,5 +1,4 @@
-Ascochyta haworthiae Trinchieri SPECIES
-=======
+# Ascochyta haworthiae Trinchieri SPECIES
 
 #### Status
 ACCEPTED

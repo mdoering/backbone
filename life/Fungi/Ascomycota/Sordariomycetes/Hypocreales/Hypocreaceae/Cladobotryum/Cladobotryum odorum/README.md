@@ -1,5 +1,4 @@
-Cladobotryum odorum G.R.W. Arnold SPECIES
-=======
+# Cladobotryum odorum G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

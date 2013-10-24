@@ -1,14 +1,13 @@
-Graphis argopholis C. Knight ex Müll. Arg. SPECIES
-=======
+# Hemithecium argopholis (C. Knight ex Müll. Arg.) A. W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 70: 401 (1887)
+Telopea 11(1): 74 (2005)
 
 #### Original name
 Graphis argopholis C. Knight ex Müll. Arg.

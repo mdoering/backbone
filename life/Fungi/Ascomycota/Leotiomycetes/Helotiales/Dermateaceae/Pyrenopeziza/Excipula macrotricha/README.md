@@ -1,5 +1,4 @@
-Excipula macrotricha Fr., 1823 SPECIES
-=======
+# Excipula macrotricha Fr., 1823 SPECIES
 
 #### Status
 ACCEPTED

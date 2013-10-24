@@ -1,5 +1,4 @@
-Microthyriella coffeae (Henn.) Theiss. SPECIES
-=======
+# Microthyriella coffeae (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypella leucostroma (Mont.) Berl. SPECIES
-=======
+# Eutypella leucostroma (Mont.) Berl. SPECIES
 
 #### Status
 ACCEPTED

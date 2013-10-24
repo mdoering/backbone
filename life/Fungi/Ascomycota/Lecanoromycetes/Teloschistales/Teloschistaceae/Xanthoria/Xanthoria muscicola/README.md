@@ -1,5 +1,4 @@
-Xanthoria muscicola (Savicz) Vezda SPECIES
-=======
+# Xanthoria muscicola (Savicz) Vezda SPECIES
 
 #### Status
 ACCEPTED

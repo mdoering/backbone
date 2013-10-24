@@ -1,5 +1,4 @@
-Rhizocladia P.F.Reinsch GENUS
-=======
+# Rhizocladia P.F.Reinsch GENUS
 
 #### Status
 ACCEPTED

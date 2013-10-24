@@ -1,5 +1,4 @@
-Hughesius O. Varol, 1989 GENUS
-=======
+# Hughesius O. Varol, 1989 GENUS
 
 #### Status
 ACCEPTED

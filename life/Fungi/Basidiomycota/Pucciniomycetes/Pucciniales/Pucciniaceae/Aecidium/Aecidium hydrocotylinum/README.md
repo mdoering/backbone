@@ -1,5 +1,4 @@
-Aecidium hydrocotylinum Speg. SPECIES
-=======
+# Aecidium hydrocotylinum Speg. SPECIES
 
 #### Status
 ACCEPTED

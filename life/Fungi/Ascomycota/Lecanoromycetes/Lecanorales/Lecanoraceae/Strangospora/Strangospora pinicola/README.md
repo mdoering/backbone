@@ -1,14 +1,13 @@
-Sarcogyne pinicola A. Massal. SPECIES
-=======
+# Strangospora pinicola (A. Massal.) Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lotos 6: 78 (1856)
+Parerga lichenol. (Breslau) 173 (1860)
 
 #### Original name
 Sarcogyne pinicola A. Massal.

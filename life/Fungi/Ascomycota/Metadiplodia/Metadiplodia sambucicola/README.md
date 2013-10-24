@@ -1,5 +1,4 @@
-Metadiplodia sambucicola (Fautrey) Zambett. SPECIES
-=======
+# Metadiplodia sambucicola (Fautrey) Zambett. SPECIES
 
 #### Status
 ACCEPTED

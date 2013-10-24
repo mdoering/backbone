@@ -1,5 +1,4 @@
-Laccaria calospora Singer SPECIES
-=======
+# Laccaria calospora Singer SPECIES
 
 #### Status
 ACCEPTED

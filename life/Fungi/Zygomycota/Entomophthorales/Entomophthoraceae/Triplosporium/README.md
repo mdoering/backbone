@@ -1,5 +1,4 @@
-Triplosporium GENUS
-=======
+# Triplosporium GENUS
 
 #### Status
 ACCEPTED

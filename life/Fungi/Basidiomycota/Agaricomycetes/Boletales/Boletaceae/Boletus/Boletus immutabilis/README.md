@@ -1,5 +1,4 @@
-Boletus immutabilis var. immutabilis VARIETY
-=======
+# Boletus immutabilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus immutabilis var. immutabilis
+Boletus immutabilis Britzelm.
 
 ### Remarks
 null

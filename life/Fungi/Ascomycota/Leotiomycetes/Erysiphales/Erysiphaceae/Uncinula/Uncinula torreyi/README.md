@@ -1,5 +1,4 @@
-Uncinula torreyi W.R. Gerard SPECIES
-=======
+# Uncinula torreyi W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

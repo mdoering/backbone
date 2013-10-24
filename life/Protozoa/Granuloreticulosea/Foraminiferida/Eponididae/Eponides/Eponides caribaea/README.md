@@ -1,5 +1,4 @@
-Eponides caribaea SPECIES
-=======
+# Eponides caribaea SPECIES
 
 #### Status
 ACCEPTED

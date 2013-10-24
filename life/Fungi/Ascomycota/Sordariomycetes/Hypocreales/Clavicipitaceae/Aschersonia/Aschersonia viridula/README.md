@@ -1,5 +1,4 @@
-Aschersonia viridula Sacc. SPECIES
-=======
+# Aschersonia viridula Sacc. SPECIES
 
 #### Status
 ACCEPTED

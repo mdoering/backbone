@@ -1,5 +1,4 @@
-Lecidea phaeoglauca Vain. SPECIES
-=======
+# Lecidea phaeoglauca Vain. SPECIES
 
 #### Status
 ACCEPTED

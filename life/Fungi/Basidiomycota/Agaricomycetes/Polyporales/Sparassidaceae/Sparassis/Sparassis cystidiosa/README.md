@@ -1,5 +1,4 @@
-Sparassis cystidiosa Desjardin & Zheng Wang, 2004 SPECIES
-=======
+# Sparassis cystidiosa Desjardin & Zheng Wang, 2004 SPECIES
 
 #### Status
 ACCEPTED

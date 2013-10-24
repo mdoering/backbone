@@ -1,5 +1,4 @@
-Arrhytidia GENUS
-=======
+# Arrhytidia GENUS
 
 #### Status
 ACCEPTED

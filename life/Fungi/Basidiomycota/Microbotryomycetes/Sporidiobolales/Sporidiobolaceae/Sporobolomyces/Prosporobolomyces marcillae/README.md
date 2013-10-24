@@ -1,5 +1,4 @@
-Prosporobolomyces marcillae (Santa María) E.K. Novák & Zsolt SPECIES
-=======
+# Prosporobolomyces marcillae (Santa María) E.K. Novák & Zsolt SPECIES
 
 #### Status
 ACCEPTED

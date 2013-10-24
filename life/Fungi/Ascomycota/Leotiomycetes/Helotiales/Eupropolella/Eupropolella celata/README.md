@@ -1,5 +1,4 @@
-Eupropolella celata Graddon, 1977 SPECIES
-=======
+# Eupropolella celata Graddon, 1977 SPECIES
 
 #### Status
 ACCEPTED

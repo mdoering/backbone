@@ -1,5 +1,4 @@
-Endocarpon subfoliaceum Tomin SPECIES
-=======
+# Endocarpon subfoliaceum Tomin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heppia leptopholis Nyl. SPECIES
-=======
+# Heppia leptopholis Nyl. SPECIES
 
 #### Status
 ACCEPTED

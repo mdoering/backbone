@@ -1,5 +1,4 @@
-Gloeosporium encephalarti Cooke & Massee SPECIES
-=======
+# Gloeosporium encephalarti Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

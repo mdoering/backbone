@@ -1,5 +1,4 @@
-Lazarenkoa selaginellae Zerova, 1938 SPECIES
-=======
+# Lazarenkoa selaginellae Zerova, 1938 SPECIES
 
 #### Status
 ACCEPTED

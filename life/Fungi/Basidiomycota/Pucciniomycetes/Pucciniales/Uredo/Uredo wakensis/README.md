@@ -1,5 +1,4 @@
-Uredo wakensis Cummins SPECIES
-=======
+# Uredo wakensis Cummins SPECIES
 
 #### Status
 ACCEPTED

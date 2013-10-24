@@ -1,5 +1,4 @@
-Chaetoceros angularis Schutt SPECIES
-=======
+# Chaetoceros angularis Schutt SPECIES
 
 #### Status
 ACCEPTED

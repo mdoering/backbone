@@ -1,5 +1,4 @@
-Phaeosperma leptosporum Speg. SPECIES
-=======
+# Phaeosperma leptosporum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dacryopinax taibaishanensis B. Liu & L. Fan, 1990 SPECIES
-=======
+# Dacryopinax taibaishanensis B. Liu & L. Fan, 1990 SPECIES
 
 #### Status
 ACCEPTED

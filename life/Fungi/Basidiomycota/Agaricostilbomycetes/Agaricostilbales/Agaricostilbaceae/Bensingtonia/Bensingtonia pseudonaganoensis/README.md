@@ -1,5 +1,4 @@
-Bensingtonia pseudonaganoensis F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Bensingtonia pseudonaganoensis F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrypella angulata Ces. & De Not. SPECIES
-=======
+# Diatrypella angulata Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea subarctoa (Th. Fr.) SPECIES
-=======
+# Lecidea subarctoa (Th. Fr.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium minor E. Dale SPECIES
-=======
+# Penicillium minor E. Dale SPECIES
 
 #### Status
 ACCEPTED

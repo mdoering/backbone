@@ -1,5 +1,4 @@
-Physalospora orchidearum Henn. SPECIES
-=======
+# Physalospora orchidearum Henn. SPECIES
 
 #### Status
 ACCEPTED

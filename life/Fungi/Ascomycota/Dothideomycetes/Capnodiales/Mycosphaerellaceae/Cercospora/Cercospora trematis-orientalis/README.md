@@ -1,17 +1,16 @@
-Cercospora tremae-orientalis S.K. Sun SPECIES
-=======
+# Cercospora trematis-orientalis S.K. Sun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Agric. For. , Taiwan 9: 48 (1955)
 
 #### Original name
-Cercospora tremae-orientalis S.K. Sun
+Cercospora trematis-orientalis S.K. Sun
 
 ### Remarks
 null

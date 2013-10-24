@@ -1,5 +1,4 @@
-Elasmomyces camphoratus Singer & A.H. Sm. SPECIES
-=======
+# Elasmomyces camphoratus Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

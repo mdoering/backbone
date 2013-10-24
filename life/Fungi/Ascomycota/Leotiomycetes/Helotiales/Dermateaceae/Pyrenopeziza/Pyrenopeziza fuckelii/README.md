@@ -1,5 +1,4 @@
-Pyrenopeziza fuckelii Nannf., 1931 SPECIES
-=======
+# Pyrenopeziza fuckelii Nannf., 1931 SPECIES
 
 #### Status
 ACCEPTED

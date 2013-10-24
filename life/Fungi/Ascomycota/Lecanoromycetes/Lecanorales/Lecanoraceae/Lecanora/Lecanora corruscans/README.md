@@ -1,5 +1,4 @@
-Lecanora corruscans (Ach.) Röhl. SPECIES
-=======
+# Lecanora corruscans (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

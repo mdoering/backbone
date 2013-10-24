@@ -1,5 +1,4 @@
-Hypochnus ruberrimus Ces. SPECIES
-=======
+# Hypochnus ruberrimus Ces. SPECIES
 
 #### Status
 ACCEPTED

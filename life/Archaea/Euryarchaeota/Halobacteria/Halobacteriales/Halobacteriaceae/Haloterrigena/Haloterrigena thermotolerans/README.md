@@ -1,5 +1,4 @@
-Haloterrigena thermotolerans Montalvo-Rodríguez et al., 2000 SPECIES
-=======
+# Haloterrigena thermotolerans Montalvo-Rodríguez et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

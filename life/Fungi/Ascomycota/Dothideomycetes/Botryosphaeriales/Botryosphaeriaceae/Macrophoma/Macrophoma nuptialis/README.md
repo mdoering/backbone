@@ -1,5 +1,4 @@
-Macrophoma nuptialis Bubák SPECIES
-=======
+# Macrophoma nuptialis Bubák SPECIES
 
 #### Status
 ACCEPTED

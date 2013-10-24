@@ -1,5 +1,4 @@
-Ammodiscus rhumbleri Rottgardt, 1952 SPECIES
-=======
+# Ammodiscus rhumbleri Rottgardt, 1952 SPECIES
 
 #### Status
 ACCEPTED

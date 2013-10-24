@@ -1,5 +1,4 @@
-Lecanora subtillima Motyka SPECIES
-=======
+# Lecanora subtillima Motyka SPECIES
 
 #### Status
 ACCEPTED

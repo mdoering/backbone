@@ -1,5 +1,4 @@
-Mycena serotina A.H. Sm. SPECIES
-=======
+# Mycena serotina A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

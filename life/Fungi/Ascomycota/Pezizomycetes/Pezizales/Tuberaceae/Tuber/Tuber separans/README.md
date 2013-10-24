@@ -1,5 +1,4 @@
-Tuber separans Gilkey, 1916 SPECIES
-=======
+# Tuber separans Gilkey, 1916 SPECIES
 
 #### Status
 ACCEPTED

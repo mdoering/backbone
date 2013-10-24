@@ -1,5 +1,4 @@
-Dothidella heliconiae Henn. SPECIES
-=======
+# Dothidella heliconiae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicoccum cornicola Sacc. SPECIES
-=======
+# Fusicoccum cornicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

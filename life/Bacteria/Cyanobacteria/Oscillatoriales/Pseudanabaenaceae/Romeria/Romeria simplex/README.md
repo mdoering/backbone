@@ -1,5 +1,4 @@
-Romeria simplex (F. Hindák) F. Hindák SPECIES
-=======
+# Romeria simplex (F. Hindák) F. Hindák SPECIES
 
 #### Status
 ACCEPTED

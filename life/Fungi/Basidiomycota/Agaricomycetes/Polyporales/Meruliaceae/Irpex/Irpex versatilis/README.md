@@ -1,5 +1,4 @@
-Irpex versatilis Lloyd SPECIES
-=======
+# Irpex versatilis Lloyd SPECIES
 
 #### Status
 ACCEPTED

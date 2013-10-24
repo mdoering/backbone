@@ -1,5 +1,4 @@
-Litonotus salmica (Burkovsky, 1970) SPECIES
-=======
+# Litonotus salmica (Burkovsky, 1970) SPECIES
 
 #### Status
 ACCEPTED

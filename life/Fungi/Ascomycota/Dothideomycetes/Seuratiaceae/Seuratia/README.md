@@ -1,17 +1,16 @@
-Morularia Nannizzi, 1925 GENUS
-=======
+# Seuratia Patouillard, 1904 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti R. Accad. Fisiocrit. Siena, Sér. 9 17: 180 (1925)
+Bull. Soc. mycol. Fr. 20: 136 (1904)
 
 #### Original name
-Morularia Nannizzi, 1925
+Seuratia Patouillard, 1904
 
 ### Remarks
 null

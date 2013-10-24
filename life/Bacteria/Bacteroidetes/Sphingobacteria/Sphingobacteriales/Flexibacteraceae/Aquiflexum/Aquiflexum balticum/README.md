@@ -1,5 +1,4 @@
-Aquiflexum balticum Brettar et al., 2004 SPECIES
-=======
+# Aquiflexum balticum Brettar et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

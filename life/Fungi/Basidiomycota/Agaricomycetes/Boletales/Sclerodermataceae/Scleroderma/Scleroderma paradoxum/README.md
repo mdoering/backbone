@@ -1,5 +1,4 @@
-Scleroderma paradoxum G.W. Beaton, 1982 SPECIES
-=======
+# Scleroderma paradoxum G.W. Beaton, 1982 SPECIES
 
 #### Status
 ACCEPTED

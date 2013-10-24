@@ -1,8 +1,7 @@
-Heterodinium pulchrum Böhm, 1933 SPECIES
-=======
+# Heterodinium scrippssi Kofoid, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

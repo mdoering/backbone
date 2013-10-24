@@ -1,17 +1,16 @@
-Phyllosticta convallaricola L. Yu & J.K. Bai SPECIES
-=======
+# Phyllosticta convallariicola L. Yu & J.K. Bai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycol. Sin. 14(3): 193 (1995)
 
 #### Original name
-Phyllosticta convallaricola L. Yu & J.K. Bai
+Phyllosticta convallariicola L. Yu & J.K. Bai
 
 ### Remarks
 null

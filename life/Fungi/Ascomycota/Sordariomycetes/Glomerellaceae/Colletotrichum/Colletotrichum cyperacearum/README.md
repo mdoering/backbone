@@ -1,5 +1,4 @@
-Colletotrichum cyperacearum Pavgi & U.P. Singh SPECIES
-=======
+# Colletotrichum cyperacearum Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

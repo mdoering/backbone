@@ -1,5 +1,4 @@
-Entoloma weholtii Noordel. SPECIES
-=======
+# Entoloma weholtii Noordel. SPECIES
 
 #### Status
 ACCEPTED

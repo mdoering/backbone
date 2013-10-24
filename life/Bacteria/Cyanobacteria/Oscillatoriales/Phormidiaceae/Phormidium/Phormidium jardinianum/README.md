@@ -1,5 +1,4 @@
-Phormidium jardinianum Gomont SPECIES
-=======
+# Phormidium jardinianum Gomont SPECIES
 
 #### Status
 ACCEPTED

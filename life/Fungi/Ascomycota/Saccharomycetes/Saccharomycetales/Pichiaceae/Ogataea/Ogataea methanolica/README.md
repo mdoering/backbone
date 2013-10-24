@@ -1,5 +1,4 @@
-Ogataea methanolica (Makig.) Kurtzman & Robnett, 2010 SPECIES
-=======
+# Ogataea methanolica (Makig.) Kurtzman & Robnett, 2010 SPECIES
 
 #### Status
 ACCEPTED

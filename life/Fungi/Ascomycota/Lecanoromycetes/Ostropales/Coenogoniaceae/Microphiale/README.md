@@ -1,5 +1,4 @@
-Microphiale GENUS
-=======
+# Microphiale GENUS
 
 #### Status
 ACCEPTED

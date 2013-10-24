@@ -1,5 +1,4 @@
-Cortinarius altomellitus Rob. Henry SPECIES
-=======
+# Cortinarius altomellitus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globigerinelloides Cushman & Dam, 1948 GENUS
-=======
+# Globigerinelloides Cushman & Dam, 1948 GENUS
 
 #### Status
 ACCEPTED

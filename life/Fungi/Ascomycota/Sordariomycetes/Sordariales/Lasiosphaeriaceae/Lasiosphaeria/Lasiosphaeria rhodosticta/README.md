@@ -1,5 +1,4 @@
-Lasiosphaeria rhodosticta Sacc. SPECIES
-=======
+# Lasiosphaeria rhodosticta Sacc. SPECIES
 
 #### Status
 ACCEPTED

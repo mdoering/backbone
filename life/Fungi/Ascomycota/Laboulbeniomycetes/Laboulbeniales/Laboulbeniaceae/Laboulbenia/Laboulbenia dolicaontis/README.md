@@ -1,5 +1,4 @@
-Laboulbenia dolicaontis Maire SPECIES
-=======
+# Laboulbenia dolicaontis Maire SPECIES
 
 #### Status
 ACCEPTED

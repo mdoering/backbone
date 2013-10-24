@@ -1,5 +1,4 @@
-Leptoderma G. Lister, 1913 GENUS
-=======
+# Leptoderma G. Lister, 1913 GENUS
 
 #### Status
 ACCEPTED

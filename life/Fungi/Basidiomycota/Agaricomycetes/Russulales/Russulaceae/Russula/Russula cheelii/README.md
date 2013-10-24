@@ -1,5 +1,4 @@
-Russula cheelii Cleland SPECIES
-=======
+# Russula cheelii Cleland SPECIES
 
 #### Status
 ACCEPTED

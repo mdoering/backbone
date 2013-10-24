@@ -1,5 +1,4 @@
-Stenozonoligotriletes angarensis Rudavskaya in Timofeev, 1956 SPECIES
-=======
+# Stenozonoligotriletes angarensis Rudavskaya in Timofeev, 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoalvimia theobromicola Singer, 1981 SPECIES
-=======
+# Mycoalvimia theobromicola Singer, 1981 SPECIES
 
 #### Status
 ACCEPTED

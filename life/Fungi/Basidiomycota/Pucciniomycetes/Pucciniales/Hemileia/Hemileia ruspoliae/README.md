@@ -1,5 +1,4 @@
-Hemileia ruspoliae Cummins SPECIES
-=======
+# Hemileia ruspoliae Cummins SPECIES
 
 #### Status
 ACCEPTED

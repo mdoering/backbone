@@ -1,5 +1,4 @@
-Psathyrella quercicola A.H. Sm. SPECIES
-=======
+# Psathyrella quercicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

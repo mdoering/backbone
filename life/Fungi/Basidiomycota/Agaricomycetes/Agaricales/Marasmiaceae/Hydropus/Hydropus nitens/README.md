@@ -1,5 +1,4 @@
-Hydropus nitens Maas Geest. & Hauskn., 1993 SPECIES
-=======
+# Hydropus nitens Maas Geest. & Hauskn., 1993 SPECIES
 
 #### Status
 ACCEPTED

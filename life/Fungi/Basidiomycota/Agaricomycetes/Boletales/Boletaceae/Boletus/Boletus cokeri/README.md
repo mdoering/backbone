@@ -1,5 +1,4 @@
-Boletus cokeri House SPECIES
-=======
+# Boletus cokeri House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecidea scutulata Stirt. SPECIES
-=======
+# Amygdalaria consentiens (Nyl.) Hertel, Brodo & Mas. Inoue SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 3(no. 25): 34 (1874)
+in Poelt & Vezda, Biblthca Lichenol. 16: 111 (1981)
 
 #### Original name
-Lecidea scutulata Stirt.
+Lecidea consentiens Nyl.
 
 ### Remarks
 null

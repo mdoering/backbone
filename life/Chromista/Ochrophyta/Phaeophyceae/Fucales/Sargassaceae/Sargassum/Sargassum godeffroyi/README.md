@@ -1,5 +1,4 @@
-Sargassum godeffroyi Grunow SPECIES
-=======
+# Sargassum godeffroyi Grunow SPECIES
 
 #### Status
 ACCEPTED

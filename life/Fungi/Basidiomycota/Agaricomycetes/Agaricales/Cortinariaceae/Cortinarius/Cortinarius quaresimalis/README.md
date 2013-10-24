@@ -1,5 +1,4 @@
-Cortinarius quaresimalis Gasparini SPECIES
-=======
+# Cortinarius quaresimalis Gasparini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohiatula haedinopsis Singer SPECIES
-=======
+# Pseudohiatula haedinopsis Singer SPECIES
 
 #### Status
 ACCEPTED

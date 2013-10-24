@@ -1,5 +1,4 @@
-Pleospora karstenii Berl. & Voglino SPECIES
-=======
+# Pleospora karstenii Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

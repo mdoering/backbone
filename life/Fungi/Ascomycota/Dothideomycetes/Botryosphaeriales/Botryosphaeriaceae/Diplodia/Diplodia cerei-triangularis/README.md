@@ -1,5 +1,4 @@
-Diplodia cerei-triangularis Speg. SPECIES
-=======
+# Diplodia cerei-triangularis Speg. SPECIES
 
 #### Status
 ACCEPTED

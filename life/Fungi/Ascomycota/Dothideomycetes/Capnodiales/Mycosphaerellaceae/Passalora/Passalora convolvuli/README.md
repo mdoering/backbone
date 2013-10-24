@@ -1,5 +1,4 @@
-Passalora convolvuli (Tracy & Earle) U. Braun & Crous SPECIES
-=======
+# Passalora convolvuli (Tracy & Earle) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

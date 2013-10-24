@@ -1,5 +1,4 @@
-Pronectria dillmaniae Zhurb. SPECIES
-=======
+# Pronectria dillmaniae Zhurb. SPECIES
 
 #### Status
 ACCEPTED

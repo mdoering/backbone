@@ -1,5 +1,4 @@
-Hexagonia sericea Fr. SPECIES
-=======
+# Hexagonia sericea Fr. SPECIES
 
 #### Status
 ACCEPTED

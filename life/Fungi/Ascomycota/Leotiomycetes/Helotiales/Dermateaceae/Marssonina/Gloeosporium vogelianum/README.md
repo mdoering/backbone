@@ -1,5 +1,4 @@
-Gloeosporium vogelianum Sacc., 1908 SPECIES
-=======
+# Gloeosporium vogelianum Sacc., 1908 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monoporisporites minutus Hammen SPECIES
-=======
+# Monoporisporites minutus Hammen SPECIES
 
 #### Status
 ACCEPTED

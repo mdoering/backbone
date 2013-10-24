@@ -1,5 +1,4 @@
-Kirschsteinothelia maritima (Linder) D.L.Hawks, 1985 SPECIES
-=======
+# Kirschsteinothelia maritima (Linder) D.L.Hawks, 1985 SPECIES
 
 #### Status
 ACCEPTED

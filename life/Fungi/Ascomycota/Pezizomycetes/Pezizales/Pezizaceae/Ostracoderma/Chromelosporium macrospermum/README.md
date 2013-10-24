@@ -1,5 +1,4 @@
-Chromelosporium macrospermum Hennebert, 1973 SPECIES
-=======
+# Chromelosporium macrospermum Hennebert, 1973 SPECIES
 
 #### Status
 ACCEPTED

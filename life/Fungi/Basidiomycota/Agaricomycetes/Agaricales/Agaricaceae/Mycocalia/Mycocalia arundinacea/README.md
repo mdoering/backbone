@@ -1,14 +1,13 @@
-Nidularia arundinacea Velen., 1939 SPECIES
-=======
+# Mycocalia arundinacea (Velen.) J.T. Palmer, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Novitates Mycologicae 169 (1939)
+Taxon 10: 58 (1961)
 
 #### Original name
 Nidularia arundinacea Velen., 1939

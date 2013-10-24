@@ -1,5 +1,4 @@
-Asteridiella ampullifera (G. Winter) Hansf. SPECIES
-=======
+# Asteridiella ampullifera (G. Winter) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria pholidigena Ellis SPECIES
-=======
+# Sphaeria pholidigena Ellis SPECIES
 
 #### Status
 ACCEPTED

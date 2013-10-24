@@ -1,14 +1,13 @@
-Polyporellus varius subsp. tubaeformis P. Karst. SUBSPECIES
-=======
+# Polyporus tubaeformis (P. Karst.) Ryvarden & Gilb., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 9: 69 (1882)
+Syn. Fung. (Oslo) 7: 578 (1993)
 
 #### Original name
 Polyporellus varius subsp. tubaeformis P. Karst.

@@ -1,17 +1,16 @@
-Umbilicaria spodochroa f. spodochroa FORM
-=======
+# Umbilicaria spodochroa (Ehrh. ex Hoffm.) DC. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Lichen spodochrous Ehrh. ex Hoffm.
 
 ### Remarks
 null

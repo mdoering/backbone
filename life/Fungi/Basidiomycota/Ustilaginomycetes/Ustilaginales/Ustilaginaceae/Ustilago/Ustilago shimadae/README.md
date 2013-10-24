@@ -1,5 +1,4 @@
-Ustilago shimadae Sawada SPECIES
-=======
+# Ustilago shimadae Sawada SPECIES
 
 #### Status
 ACCEPTED

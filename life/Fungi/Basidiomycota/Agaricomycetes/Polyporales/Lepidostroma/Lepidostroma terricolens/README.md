@@ -1,5 +1,4 @@
-Lepidostroma terricolens Mägd. & S. Winkl., 1967 SPECIES
-=======
+# Lepidostroma terricolens Mägd. & S. Winkl., 1967 SPECIES
 
 #### Status
 ACCEPTED

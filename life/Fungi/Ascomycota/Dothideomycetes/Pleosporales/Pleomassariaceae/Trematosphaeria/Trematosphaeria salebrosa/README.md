@@ -1,5 +1,4 @@
-Trematosphaeria salebrosa (Cooke & Peck) Sivan. SPECIES
-=======
+# Trematosphaeria salebrosa (Cooke & Peck) Sivan. SPECIES
 
 #### Status
 ACCEPTED

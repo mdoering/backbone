@@ -1,5 +1,4 @@
-Nummularioidea GENUS
-=======
+# Nummularioidea GENUS
 
 #### Status
 ACCEPTED

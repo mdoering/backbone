@@ -1,5 +1,4 @@
-Homalozoon minutus Dragesco, 1966 SPECIES
-=======
+# Homalozoon minutus Dragesco, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorinella GENUS
-=======
+# Biatorinella GENUS
 
 #### Status
 ACCEPTED

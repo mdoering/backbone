@@ -1,5 +1,4 @@
-Fuscoboletinus sinuspaulianus Pomerl. & A.H. Sm. SPECIES
-=======
+# Fuscoboletinus sinuspaulianus Pomerl. & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora lithofraga (A. Massal.) SPECIES
-=======
+# Lecanora lithofraga (A. Massal.) SPECIES
 
 #### Status
 ACCEPTED

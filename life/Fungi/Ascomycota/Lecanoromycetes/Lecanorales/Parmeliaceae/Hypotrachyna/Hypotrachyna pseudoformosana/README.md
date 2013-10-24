@@ -1,5 +1,4 @@
-Hypotrachyna pseudoformosana (Asahina) J.C. Wei SPECIES
-=======
+# Hypotrachyna pseudoformosana (Asahina) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

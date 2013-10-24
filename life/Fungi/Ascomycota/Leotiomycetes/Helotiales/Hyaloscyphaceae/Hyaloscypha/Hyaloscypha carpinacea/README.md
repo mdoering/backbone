@@ -1,14 +1,13 @@
-Phialina carpinacea (Velen.) Raitv. & R. Galán, 1992 SPECIES
-=======
+# Hyaloscypha carpinacea Velen., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 44(1): 33 (1992)
+Monogr. Discom. Bohem. (Prague) 273 (1934)
 
 #### Original name
 Hyaloscypha carpinacea Velen., 1934

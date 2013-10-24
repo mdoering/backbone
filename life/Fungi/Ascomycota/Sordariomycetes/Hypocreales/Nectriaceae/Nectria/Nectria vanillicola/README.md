@@ -1,5 +1,4 @@
-Nectria vanillicola Henn. SPECIES
-=======
+# Nectria vanillicola Henn. SPECIES
 
 #### Status
 ACCEPTED

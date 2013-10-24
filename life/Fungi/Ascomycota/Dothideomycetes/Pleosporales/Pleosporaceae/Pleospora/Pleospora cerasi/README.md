@@ -1,5 +1,4 @@
-Pleospora cerasi Politis SPECIES
-=======
+# Pleospora cerasi Politis SPECIES
 
 #### Status
 ACCEPTED

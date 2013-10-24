@@ -1,5 +1,4 @@
-Puccinia antioquiensis Mayor SPECIES
-=======
+# Puccinia antioquiensis Mayor SPECIES
 
 #### Status
 ACCEPTED

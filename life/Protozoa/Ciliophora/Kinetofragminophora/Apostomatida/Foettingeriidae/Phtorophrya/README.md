@@ -1,5 +1,4 @@
-Phtorophrya Lwoff & Lwoff, 1930 GENUS
-=======
+# Phtorophrya Lwoff & Lwoff, 1930 GENUS
 
 #### Status
 ACCEPTED

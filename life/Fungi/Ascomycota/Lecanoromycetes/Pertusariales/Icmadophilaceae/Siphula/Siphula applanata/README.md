@@ -1,5 +1,4 @@
-Siphula applanata H. Magn. SPECIES
-=======
+# Siphula applanata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

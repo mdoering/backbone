@@ -1,5 +1,4 @@
-Phallus campanulatus Berk. SPECIES
-=======
+# Phallus campanulatus Berk. SPECIES
 
 #### Status
 ACCEPTED

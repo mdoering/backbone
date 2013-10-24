@@ -1,5 +1,4 @@
-Capnocybe fraserae S. Hughes, 1966 SPECIES
-=======
+# Capnocybe fraserae S. Hughes, 1966 SPECIES
 
 #### Status
 ACCEPTED

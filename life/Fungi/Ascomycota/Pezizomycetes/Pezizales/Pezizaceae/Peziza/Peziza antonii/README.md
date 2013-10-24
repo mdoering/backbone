@@ -1,5 +1,4 @@
-Peziza antonii Roum. SPECIES
-=======
+# Peziza antonii Roum. SPECIES
 
 #### Status
 ACCEPTED

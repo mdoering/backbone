@@ -1,5 +1,4 @@
-Triceratium convexiusculum Grunow, 1890 SPECIES
-=======
+# Triceratium convexiusculum Grunow, 1890 SPECIES
 
 #### Status
 ACCEPTED

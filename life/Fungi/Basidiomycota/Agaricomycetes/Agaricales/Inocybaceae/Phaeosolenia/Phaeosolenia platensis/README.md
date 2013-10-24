@@ -1,17 +1,16 @@
-Cyphella euphorbicola (Pat.) Sacc., 1895 SPECIES
-=======
+# Phaeosolenia platensis Speg., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 8: 53 (1902)
 
 #### Original name
-null
+Phaeosolenia platensis Speg., 1902
 
 ### Remarks
 null

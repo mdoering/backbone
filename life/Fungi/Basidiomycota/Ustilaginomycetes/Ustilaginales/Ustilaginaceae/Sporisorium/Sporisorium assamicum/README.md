@@ -1,5 +1,4 @@
-Sporisorium assamicum (A.K. Roy) Vánky SPECIES
-=======
+# Sporisorium assamicum (A.K. Roy) Vánky SPECIES
 
 #### Status
 ACCEPTED

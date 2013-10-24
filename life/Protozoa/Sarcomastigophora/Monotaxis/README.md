@@ -1,5 +1,4 @@
-Monotaxis Vissarionova, 1948 GENUS
-=======
+# Monotaxis Vissarionova, 1948 GENUS
 
 #### Status
 ACCEPTED

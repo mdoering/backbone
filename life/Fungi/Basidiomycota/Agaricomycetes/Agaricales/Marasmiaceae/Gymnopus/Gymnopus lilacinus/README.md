@@ -1,5 +1,4 @@
-Gymnopus lilacinus (Coker) Murrill SPECIES
-=======
+# Gymnopus lilacinus (Coker) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Remanella gigas (Dragesco, 1954) Foissner, 1996 SPECIES
-=======
+# Remanella gigas (Dragesco, 1954) Foissner, 1996 SPECIES
 
 #### Status
 ACCEPTED

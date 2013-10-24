@@ -1,5 +1,4 @@
-Pustularia gigantea Rehm SPECIES
-=======
+# Pustularia gigantea Rehm SPECIES
 
 #### Status
 ACCEPTED

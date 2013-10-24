@@ -1,17 +1,16 @@
-Longia texensis var. major Zeller VARIETY
-=======
+# Agaricus texensis (Berk. & M.A. Curtis) Geml, Geiser & Royse, 2004 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 35(4): 417 (1943)
+Ann. Mag. nat. Hist. , Ser. 2 12: 419 (1853)
 
 #### Original name
-Longia texensis var. major Zeller
+Agaricus texensis (Berk. & M.A. Curtis) Geml, Geiser & Royse, 2004
 
 ### Remarks
 null

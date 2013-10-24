@@ -1,5 +1,4 @@
-Vorticella striata subsp. striata SUBSPECIES
-=======
+# Vorticella striata Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

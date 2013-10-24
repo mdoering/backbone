@@ -1,5 +1,4 @@
-Septoria sorghi Padwick SPECIES
-=======
+# Septoria sorghi Padwick SPECIES
 
 #### Status
 ACCEPTED

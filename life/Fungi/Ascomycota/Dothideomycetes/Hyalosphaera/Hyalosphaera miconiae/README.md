@@ -1,5 +1,4 @@
-Hyalosphaera miconiae F. Stevens, 1917 SPECIES
-=======
+# Hyalosphaera miconiae F. Stevens, 1917 SPECIES
 
 #### Status
 ACCEPTED

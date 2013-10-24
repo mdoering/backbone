@@ -1,5 +1,4 @@
-Boletus curtipes Massee SPECIES
-=======
+# Boletus curtipes Massee SPECIES
 
 #### Status
 ACCEPTED

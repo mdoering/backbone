@@ -1,5 +1,4 @@
-Phyllosticta leptosperma Speg. SPECIES
-=======
+# Phyllosticta leptosperma Speg. SPECIES
 
 #### Status
 ACCEPTED

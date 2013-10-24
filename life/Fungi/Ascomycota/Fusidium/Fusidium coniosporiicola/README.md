@@ -1,5 +1,4 @@
-Fusidium coniosporiicola (Henn.) Wollenw. SPECIES
-=======
+# Fusidium coniosporiicola (Henn.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

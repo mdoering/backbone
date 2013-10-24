@@ -1,5 +1,4 @@
-Agaricus mendicus Kalchbr. SPECIES
-=======
+# Agaricus mendicus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

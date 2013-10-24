@@ -1,17 +1,16 @@
-Cephalosporium candidum var. arachnoidea Sukapure & Thirum. VARIETY
-=======
+# Leucopaxillus tricolor (Peck) Kühner, 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Botaniste 17: 135 (1926)
 
 #### Original name
-null
+Tricholoma tricolor Peck, 1888
 
 ### Remarks
 null

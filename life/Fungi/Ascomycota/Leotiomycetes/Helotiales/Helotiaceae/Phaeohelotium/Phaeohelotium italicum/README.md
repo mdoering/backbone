@@ -1,14 +1,13 @@
-Helotium italicum Sacc., 1889 SPECIES
-=======
+# Phaeohelotium italicum (Sacc.) Dennis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 246 (1889)
+Kew Bull. , Addit. Ser. 25(2): 355 (1971)
 
 #### Original name
 Helotium italicum Sacc., 1889

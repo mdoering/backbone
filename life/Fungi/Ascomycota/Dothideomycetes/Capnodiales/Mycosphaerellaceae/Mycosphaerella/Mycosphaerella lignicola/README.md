@@ -1,5 +1,4 @@
-Mycosphaerella lignicola (Munk) Munk SPECIES
-=======
+# Mycosphaerella lignicola (Munk) Munk SPECIES
 
 #### Status
 ACCEPTED

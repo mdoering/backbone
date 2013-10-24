@@ -1,5 +1,4 @@
-Clavulinopsis subaustralis R.H. Petersen SPECIES
-=======
+# Clavulinopsis subaustralis R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

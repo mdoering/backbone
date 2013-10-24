@@ -1,17 +1,16 @@
-Gymnotrema Nyl. GENUS
-=======
+# Glyphis Acharius, 1814 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. natn. Sci. nat. math. Cherbourg 5: 119 (1858)
+Syn. meth. lich. 106 (1814)
 
 #### Original name
-Gymnotrema Nyl.
+Glyphis Acharius, 1814
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sistotrema bicolor Alb. & Schwein. SPECIES
-=======
+# Sistotrema bicolor Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

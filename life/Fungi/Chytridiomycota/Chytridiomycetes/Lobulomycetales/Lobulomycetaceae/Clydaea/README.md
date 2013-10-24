@@ -1,5 +1,4 @@
-Clydaea D.R. Simmons GENUS
-=======
+# Clydaea D.R. Simmons GENUS
 
 #### Status
 ACCEPTED

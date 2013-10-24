@@ -1,5 +1,4 @@
-Cortinarius hydrocephalus M.M. Moser SPECIES
-=======
+# Cortinarius hydrocephalus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

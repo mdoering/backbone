@@ -1,5 +1,4 @@
-Heterodinium lineatum Kofoid & Michener, 1911 SPECIES
-=======
+# Heterodinium lineatum Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

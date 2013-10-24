@@ -1,5 +1,4 @@
-Agaricus harcynicus Pers. SPECIES
-=======
+# Agaricus harcynicus Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium pteleae Hollós SPECIES
-=======
+# Camarosporium pteleae Hollós SPECIES
 
 #### Status
 ACCEPTED

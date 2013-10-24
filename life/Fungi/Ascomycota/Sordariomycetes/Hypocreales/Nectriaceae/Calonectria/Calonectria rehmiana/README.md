@@ -1,5 +1,4 @@
-Calonectria rehmiana Kirschst. SPECIES
-=======
+# Calonectria rehmiana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

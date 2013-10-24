@@ -1,5 +1,4 @@
-Oidium spirale M.B. Ellis SPECIES
-=======
+# Oidium spirale M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

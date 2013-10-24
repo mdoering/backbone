@@ -1,5 +1,4 @@
-Pholiota eucalyptorum (Cleland) Singer SPECIES
-=======
+# Pholiota eucalyptorum (Cleland) Singer SPECIES
 
 #### Status
 ACCEPTED

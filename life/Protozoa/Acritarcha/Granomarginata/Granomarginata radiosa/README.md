@@ -1,5 +1,4 @@
-Granomarginata radiosa Treshchetenkova in Akulcheva et al., 1981 SPECIES
-=======
+# Granomarginata radiosa Treshchetenkova in Akulcheva et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

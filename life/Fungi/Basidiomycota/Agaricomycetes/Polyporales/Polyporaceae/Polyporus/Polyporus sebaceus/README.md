@@ -1,5 +1,4 @@
-Polyporus sebaceus Leyss. SPECIES
-=======
+# Polyporus sebaceus Leyss. SPECIES
 
 #### Status
 ACCEPTED

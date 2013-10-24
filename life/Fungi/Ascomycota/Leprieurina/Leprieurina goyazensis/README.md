@@ -1,5 +1,4 @@
-Leprieurina goyazensis G. Arnaud SPECIES
-=======
+# Leprieurina goyazensis G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

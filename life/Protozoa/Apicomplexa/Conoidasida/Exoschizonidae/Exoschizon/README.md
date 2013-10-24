@@ -1,5 +1,4 @@
-Exoschizon Hukui, 1939 GENUS
-=======
+# Exoschizon Hukui, 1939 GENUS
 
 #### Status
 ACCEPTED

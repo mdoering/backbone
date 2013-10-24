@@ -1,5 +1,4 @@
-Fissurina rufula (Mont.) Staiger SPECIES
-=======
+# Fissurina rufula (Mont.) Staiger SPECIES
 
 #### Status
 ACCEPTED

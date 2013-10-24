@@ -1,5 +1,4 @@
-Agaricus catephes Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus catephes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

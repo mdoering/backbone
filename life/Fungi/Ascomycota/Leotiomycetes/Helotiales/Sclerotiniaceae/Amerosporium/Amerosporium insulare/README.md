@@ -1,5 +1,4 @@
-Amerosporium insulare Speg. SPECIES
-=======
+# Amerosporium insulare Speg. SPECIES
 
 #### Status
 ACCEPTED

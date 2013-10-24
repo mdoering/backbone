@@ -1,5 +1,4 @@
-Biscutum novum SPECIES
-=======
+# Biscutum novum SPECIES
 
 #### Status
 ACCEPTED

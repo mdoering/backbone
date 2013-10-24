@@ -1,5 +1,4 @@
-Giardia lamblia Kofoid & Christiansen, 1915 SPECIES
-=======
+# Giardia lamblia Kofoid & Christiansen, 1915 SPECIES
 
 #### Status
 ACCEPTED

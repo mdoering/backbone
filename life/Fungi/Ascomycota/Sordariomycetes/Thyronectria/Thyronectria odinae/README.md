@@ -1,5 +1,4 @@
-Thyronectria odinae V.G. Rao & Varghese SPECIES
-=======
+# Thyronectria odinae V.G. Rao & Varghese SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina euskadiensis A. Crespo & M. B. Aguirre SPECIES
-=======
+# Rinodina euskadiensis A. Crespo & M. B. Aguirre SPECIES
 
 #### Status
 ACCEPTED

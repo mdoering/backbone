@@ -1,5 +1,4 @@
-Dothidea tessellata Cooke SPECIES
-=======
+# Dothidea tessellata Cooke SPECIES
 
 #### Status
 ACCEPTED

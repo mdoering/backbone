@@ -1,5 +1,4 @@
-Hydrocybe arnoldae Murrill SPECIES
-=======
+# Hydrocybe arnoldae Murrill SPECIES
 
 #### Status
 ACCEPTED

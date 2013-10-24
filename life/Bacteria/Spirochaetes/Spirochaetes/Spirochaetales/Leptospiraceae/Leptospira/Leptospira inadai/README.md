@@ -1,5 +1,4 @@
-Leptospira inadai Yasuda et al., 1987 SPECIES
-=======
+# Leptospira inadai Yasuda et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

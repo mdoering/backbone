@@ -1,17 +1,16 @@
-Cercospora lingi T.L. Tai SPECIES
-=======
+# Cercospora lingii T.L. Tai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 11: 49 (1948)
 
 #### Original name
-Cercospora lingi T.L. Tai
+Cercospora lingii T.L. Tai
 
 ### Remarks
 null

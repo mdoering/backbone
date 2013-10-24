@@ -1,5 +1,4 @@
-Himantophorus charon (Müller, 1786) Ehrenberg, 1838 SPECIES
-=======
+# Himantophorus charon (Müller, 1786) Ehrenberg, 1838 SPECIES
 
 #### Status
 ACCEPTED

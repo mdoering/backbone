@@ -1,5 +1,4 @@
-Ramaria crispula (Fr.) Quél. SPECIES
-=======
+# Ramaria crispula (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllostictina glochidii Syd. SPECIES
-=======
+# Phyllostictina glochidii Syd. SPECIES
 
 #### Status
 ACCEPTED

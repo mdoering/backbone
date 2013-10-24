@@ -1,5 +1,4 @@
-Stagonosporina assans (Pass.) Tassi SPECIES
-=======
+# Stagonosporina assans (Pass.) Tassi SPECIES
 
 #### Status
 ACCEPTED

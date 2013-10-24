@@ -1,5 +1,4 @@
-Pyrenophora osmanthi Gucevic SPECIES
-=======
+# Pyrenophora osmanthi Gucevic SPECIES
 
 #### Status
 ACCEPTED

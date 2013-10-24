@@ -1,5 +1,4 @@
-Phaeophragmeriella clavispora (Syd.) Hansf. SPECIES
-=======
+# Phaeophragmeriella clavispora (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

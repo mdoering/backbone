@@ -1,5 +1,4 @@
-Dialonectria macrospora (Sacc. & Speg.) Cooke SPECIES
-=======
+# Dialonectria macrospora (Sacc. & Speg.) Cooke SPECIES
 
 #### Status
 ACCEPTED

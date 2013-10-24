@@ -1,5 +1,4 @@
-Lecidorina feracissima (Anzi) Motyka SPECIES
-=======
+# Lecidorina feracissima (Anzi) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta jacobaeae Sacc. SPECIES
-=======
+# Phyllosticta jacobaeae Sacc. SPECIES
 
 #### Status
 ACCEPTED

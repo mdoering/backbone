@@ -1,5 +1,4 @@
-Boletopsis sordida (Schwalb) Beck SPECIES
-=======
+# Boletopsis sordida (Schwalb) Beck SPECIES
 
 #### Status
 ACCEPTED

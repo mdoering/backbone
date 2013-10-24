@@ -1,5 +1,4 @@
-Acarospora lorentzii (Müll. Arg.) Hue SPECIES
-=======
+# Acarospora lorentzii (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

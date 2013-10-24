@@ -1,5 +1,4 @@
-Phorticium Haeckel, 1881 GENUS
-=======
+# Phorticium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

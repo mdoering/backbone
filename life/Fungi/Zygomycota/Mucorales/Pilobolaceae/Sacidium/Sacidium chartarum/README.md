@@ -1,5 +1,4 @@
-Sacidium chartarum Sacc. & Penz. SPECIES
-=======
+# Sacidium chartarum Sacc. & Penz. SPECIES
 
 #### Status
 ACCEPTED

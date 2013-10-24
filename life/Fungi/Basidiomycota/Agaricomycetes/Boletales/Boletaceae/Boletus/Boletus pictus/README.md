@@ -1,5 +1,4 @@
-Boletus pictus Ehrenb. SPECIES
-=======
+# Boletus pictus Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

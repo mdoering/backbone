@@ -1,5 +1,4 @@
-Cantharellus pellucidus Petch SPECIES
-=======
+# Cantharellus pellucidus Petch SPECIES
 
 #### Status
 ACCEPTED

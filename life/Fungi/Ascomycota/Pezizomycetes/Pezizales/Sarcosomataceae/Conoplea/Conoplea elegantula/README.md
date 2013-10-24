@@ -1,5 +1,4 @@
-Conoplea elegantula (Cooke) M.B. Ellis SPECIES
-=======
+# Conoplea elegantula (Cooke) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

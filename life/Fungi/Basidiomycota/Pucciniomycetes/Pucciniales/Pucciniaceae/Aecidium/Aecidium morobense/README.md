@@ -1,5 +1,4 @@
-Aecidium morobense Cummins SPECIES
-=======
+# Aecidium morobense Cummins SPECIES
 
 #### Status
 ACCEPTED

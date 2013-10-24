@@ -1,5 +1,4 @@
-Lecidea fimbriata SPECIES
-=======
+# Lecidea fimbriata SPECIES
 
 #### Status
 ACCEPTED

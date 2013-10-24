@@ -1,5 +1,4 @@
-Opegrapha alboatra Nyl. SPECIES
-=======
+# Opegrapha alboatra Nyl. SPECIES
 
 #### Status
 ACCEPTED

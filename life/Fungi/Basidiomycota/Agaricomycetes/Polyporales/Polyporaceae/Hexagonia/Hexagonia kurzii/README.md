@@ -1,5 +1,4 @@
-Hexagonia kurzii Curr. SPECIES
-=======
+# Hexagonia kurzii Curr. SPECIES
 
 #### Status
 ACCEPTED

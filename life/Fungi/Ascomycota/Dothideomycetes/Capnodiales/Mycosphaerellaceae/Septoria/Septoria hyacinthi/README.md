@@ -1,5 +1,4 @@
-Septoria hyacinthi Koshk. SPECIES
-=======
+# Septoria hyacinthi Koshk. SPECIES
 
 #### Status
 ACCEPTED

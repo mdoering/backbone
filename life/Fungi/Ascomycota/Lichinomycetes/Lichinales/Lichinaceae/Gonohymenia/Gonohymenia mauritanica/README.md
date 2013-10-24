@@ -1,5 +1,4 @@
-Gonohymenia mauritanica O.L. Lange SPECIES
-=======
+# Gonohymenia mauritanica O.L. Lange SPECIES
 
 #### Status
 ACCEPTED

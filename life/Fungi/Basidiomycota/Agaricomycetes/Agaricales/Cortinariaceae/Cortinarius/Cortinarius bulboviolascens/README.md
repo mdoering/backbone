@@ -1,5 +1,4 @@
-Cortinarius bulboviolascens Rob. Henry SPECIES
-=======
+# Cortinarius bulboviolascens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

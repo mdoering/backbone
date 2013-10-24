@@ -1,5 +1,4 @@
-Metschnikowia lachancei Gim.-Jurado, Kurtzman, Starmer & Spenc.-Mart., 2003 SPECIES
-=======
+# Metschnikowia lachancei Gim.-Jurado, Kurtzman, Starmer & Spenc.-Mart., 2003 SPECIES
 
 #### Status
 ACCEPTED

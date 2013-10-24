@@ -1,5 +1,4 @@
-Hymenoscyphus kermesinus (Fr.) Arendh. SPECIES
-=======
+# Hymenoscyphus kermesinus (Fr.) Arendh. SPECIES
 
 #### Status
 ACCEPTED

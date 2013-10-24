@@ -1,5 +1,4 @@
-Puccinia jackson-holwayi Trotter SPECIES
-=======
+# Puccinia jackson-holwayi Trotter SPECIES
 
 #### Status
 ACCEPTED

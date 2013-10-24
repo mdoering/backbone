@@ -1,11 +1,10 @@
-Elphidium arcticum (Parker & Jones, 1864) SPECIES
-=======
+# Elphidiella arctica (Parker & Jones, 1864) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

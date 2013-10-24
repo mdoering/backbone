@@ -1,5 +1,4 @@
-Uredo juncina (Thüm.) Dumée & Maire SPECIES
-=======
+# Uredo juncina (Thüm.) Dumée & Maire SPECIES
 
 #### Status
 ACCEPTED

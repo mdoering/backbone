@@ -1,5 +1,4 @@
-Rhizoplaca baranowii (Poelt) N.S. Golubk. SPECIES
-=======
+# Rhizoplaca baranowii (Poelt) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

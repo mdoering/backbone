@@ -1,5 +1,4 @@
-Pinaria Bermúdez, 1937 GENUS
-=======
+# Pinaria Bermúdez, 1937 GENUS
 
 #### Status
 ACCEPTED

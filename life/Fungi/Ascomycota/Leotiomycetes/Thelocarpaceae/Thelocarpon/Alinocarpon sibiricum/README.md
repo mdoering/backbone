@@ -1,5 +1,4 @@
-Alinocarpon sibiricum SPECIES
-=======
+# Alinocarpon sibiricum SPECIES
 
 #### Status
 ACCEPTED

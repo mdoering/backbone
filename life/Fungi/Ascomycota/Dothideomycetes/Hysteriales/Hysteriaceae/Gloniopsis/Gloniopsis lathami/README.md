@@ -1,17 +1,16 @@
-Gloniopsis lathami var. lathami VARIETY
-=======
+# Gloniopsis lathami Fairm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Proc. Rochester Acad. Sci. 6: 129 (1922)
 
 #### Original name
-null
+Gloniopsis lathami Fairm.
 
 ### Remarks
 null

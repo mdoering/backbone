@@ -1,5 +1,4 @@
-Uromyces farlowii (Arthur) J.W. Baxter SPECIES
-=======
+# Uromyces farlowii (Arthur) J.W. Baxter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trenomyces guaraunae Eichler {?} SPECIES
-=======
+# Trenomyces guaraunae Eichler {?} SPECIES
 
 #### Status
 ACCEPTED

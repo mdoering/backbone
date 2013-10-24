@@ -1,5 +1,4 @@
-Cortinarius immissus Schläpf.-Bernh. SPECIES
-=======
+# Cortinarius immissus Schläpf.-Bernh. SPECIES
 
 #### Status
 ACCEPTED

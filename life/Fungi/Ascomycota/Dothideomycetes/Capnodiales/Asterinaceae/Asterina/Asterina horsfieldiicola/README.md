@@ -1,5 +1,4 @@
-Asterina horsfieldiicola B. Song, T.H. Li & Hosag. SPECIES
-=======
+# Asterina horsfieldiicola B. Song, T.H. Li & Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Arthonia mülleri Vain. SPECIES
-=======
+# Arthonia muelleri Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arthonia mülleri Vain.
+Arthonia serialis Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Disciseda uplandii (Lloyd) Zeller SPECIES
-=======
+# Disciseda uplandii (Lloyd) Zeller SPECIES
 
 #### Status
 ACCEPTED

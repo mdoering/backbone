@@ -1,5 +1,4 @@
-Saccharopolyspora gregorii Goodfellow et al., 1989 SPECIES
-=======
+# Saccharopolyspora gregorii Goodfellow et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

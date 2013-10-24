@@ -1,5 +1,4 @@
-Aecidium leonotidis Henn. SPECIES
-=======
+# Aecidium leonotidis Henn. SPECIES
 
 #### Status
 ACCEPTED

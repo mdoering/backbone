@@ -1,5 +1,4 @@
-Phacidium brunneolum Peck SPECIES
-=======
+# Phacidium brunneolum Peck SPECIES
 
 #### Status
 ACCEPTED

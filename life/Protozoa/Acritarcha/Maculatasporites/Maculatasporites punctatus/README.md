@@ -1,5 +1,4 @@
-Maculatasporites punctatus Peppers, 1970 SPECIES
-=======
+# Maculatasporites punctatus Peppers, 1970 SPECIES
 
 #### Status
 ACCEPTED

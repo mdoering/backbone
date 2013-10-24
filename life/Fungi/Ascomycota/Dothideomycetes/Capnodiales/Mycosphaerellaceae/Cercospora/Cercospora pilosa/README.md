@@ -1,5 +1,4 @@
-Cercospora pilosa T.S. Ramakr. SPECIES
-=======
+# Cercospora pilosa T.S. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora careyae (T.S. Ramakr. & K. Ramakr.) R.K. Verma, M.K. Khan & Kamal SPECIES
-=======
+# Pseudocercospora careyae (T.S. Ramakr. & K. Ramakr.) R.K. Verma, M.K. Khan & Kamal SPECIES
 
 #### Status
 ACCEPTED

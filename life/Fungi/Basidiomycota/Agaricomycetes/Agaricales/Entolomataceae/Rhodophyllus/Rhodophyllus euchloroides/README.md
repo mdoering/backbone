@@ -1,5 +1,4 @@
-Rhodophyllus euchloroides Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus euchloroides Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

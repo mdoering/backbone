@@ -1,5 +1,4 @@
-Leptothyrium houardianum Massee SPECIES
-=======
+# Leptothyrium houardianum Massee SPECIES
 
 #### Status
 ACCEPTED

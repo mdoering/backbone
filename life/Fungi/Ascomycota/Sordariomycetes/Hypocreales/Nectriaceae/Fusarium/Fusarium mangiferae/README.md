@@ -1,5 +1,4 @@
-Fusarium mangiferae Britz, M.J. Wingf. & Marasas, 2002 SPECIES
-=======
+# Fusarium mangiferae Britz, M.J. Wingf. & Marasas, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectocarpon lambinonii Diederich & Etayo SPECIES
-=======
+# Plectocarpon lambinonii Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

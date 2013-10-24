@@ -1,5 +1,4 @@
-Warrenita Loeblich & Tappan, 1984 GENUS
-=======
+# Warrenita Loeblich & Tappan, 1984 GENUS
 
 #### Status
 ACCEPTED

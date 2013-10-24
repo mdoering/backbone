@@ -1,17 +1,16 @@
-Uromyces sabiniae Arthur SPECIES
-=======
+# Uromyces sabineae Arthur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 9(2): 69 (1917)
 
 #### Original name
-Uromyces sabiniae Arthur
+Uromyces sabineae Arthur
 
 ### Remarks
 null

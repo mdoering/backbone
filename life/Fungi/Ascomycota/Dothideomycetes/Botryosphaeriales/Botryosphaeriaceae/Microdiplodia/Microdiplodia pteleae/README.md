@@ -1,5 +1,4 @@
-Microdiplodia pteleae Panas. SPECIES
-=======
+# Microdiplodia pteleae Panas. SPECIES
 
 #### Status
 ACCEPTED

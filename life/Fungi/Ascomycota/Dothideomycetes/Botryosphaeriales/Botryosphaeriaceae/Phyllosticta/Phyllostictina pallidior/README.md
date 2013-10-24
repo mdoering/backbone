@@ -1,5 +1,4 @@
-Phyllostictina pallidior (Peck) Petr. & Syd. SPECIES
-=======
+# Phyllostictina pallidior (Peck) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

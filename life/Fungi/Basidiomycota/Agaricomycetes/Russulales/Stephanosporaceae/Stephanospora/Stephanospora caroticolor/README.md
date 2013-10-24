@@ -1,14 +1,13 @@
-Stephanospora caroticola (Berk.) Pat. SPECIES
-=======
+# Stephanospora caroticolor (Berk.) Pat., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 30: 349 (1914)
 
 #### Original name
 Hydnangium caroticolor Berk., 1844

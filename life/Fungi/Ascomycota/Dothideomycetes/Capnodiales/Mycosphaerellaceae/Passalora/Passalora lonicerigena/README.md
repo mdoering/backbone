@@ -1,5 +1,4 @@
-Passalora lonicerigena Y.L. Guo SPECIES
-=======
+# Passalora lonicerigena Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

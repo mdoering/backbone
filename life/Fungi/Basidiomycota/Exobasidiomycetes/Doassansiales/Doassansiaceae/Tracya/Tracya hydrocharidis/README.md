@@ -1,17 +1,16 @@
-Tracya hydrocharitis Lagerh. SPECIES
-=======
+# Tracya hydrocharidis Lagerh., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Vestergren, Bot. Notiser 175 (1902)
 
 #### Original name
-Tracya hydrocharitis Lagerh.
+Tracya hydrocharidis Lagerh., 1902
 
 ### Remarks
 null

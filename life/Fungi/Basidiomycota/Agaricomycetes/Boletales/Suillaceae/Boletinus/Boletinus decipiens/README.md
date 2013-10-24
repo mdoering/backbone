@@ -1,5 +1,4 @@
-Boletinus decipiens (Berk. & M.A. Curtis) Peck SPECIES
-=======
+# Boletinus decipiens (Berk. & M.A. Curtis) Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tryblidium pandani Pat. SPECIES
-=======
+# Triblidium pandani Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 22: 53 (1906)
 
 #### Original name
-Tryblidium pandani Pat.
+Triblidium pandani Pat.
 
 ### Remarks
 null

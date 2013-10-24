@@ -1,5 +1,4 @@
-Pogotrichium filiforme Reinke, 1892 SPECIES
-=======
+# Pogotrichium filiforme Reinke, 1892 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma ustulata Berk. & M.A. Curtis SPECIES
-=======
+# Phoma ustulata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

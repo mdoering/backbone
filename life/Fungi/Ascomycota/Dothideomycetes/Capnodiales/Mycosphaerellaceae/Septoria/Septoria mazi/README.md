@@ -1,5 +1,4 @@
-Septoria mazi N. Naito SPECIES
-=======
+# Septoria mazi N. Naito SPECIES
 
 #### Status
 ACCEPTED

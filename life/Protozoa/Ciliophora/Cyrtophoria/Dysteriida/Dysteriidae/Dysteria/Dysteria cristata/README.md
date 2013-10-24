@@ -1,5 +1,4 @@
-Dysteria cristata Gourret & Roeser, 1886 SPECIES
-=======
+# Dysteria cristata Gourret & Roeser, 1886 SPECIES
 
 #### Status
 ACCEPTED

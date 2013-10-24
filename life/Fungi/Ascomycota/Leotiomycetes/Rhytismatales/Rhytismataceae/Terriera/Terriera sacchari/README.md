@@ -1,14 +1,13 @@
-Lophodermium sacchari Lyon, 1913 SPECIES
-=======
+# Terriera sacchari (Lyon) P.R. Johnst., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hawaiian Planters Record 9: 601 (1913)
+Mycol. Pap. 176: 193 (2001)
 
 #### Original name
 Lophodermium sacchari Lyon, 1913

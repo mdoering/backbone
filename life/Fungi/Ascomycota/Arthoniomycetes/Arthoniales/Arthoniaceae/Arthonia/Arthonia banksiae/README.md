@@ -1,5 +1,4 @@
-Arthonia banksiae Müll. Arg. SPECIES
-=======
+# Arthonia banksiae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

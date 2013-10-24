@@ -1,5 +1,4 @@
-Guignardia lini (Rostr.) Sacc. & Trotter SPECIES
-=======
+# Guignardia lini (Rostr.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

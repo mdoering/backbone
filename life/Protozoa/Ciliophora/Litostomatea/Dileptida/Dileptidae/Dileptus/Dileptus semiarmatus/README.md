@@ -1,5 +1,4 @@
-Dileptus semiarmatus SPECIES
-=======
+# Dileptus semiarmatus SPECIES
 
 #### Status
 ACCEPTED

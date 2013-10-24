@@ -1,5 +1,4 @@
-Haplosporangium attenuatissimum F.J. Chen SPECIES
-=======
+# Haplosporangium attenuatissimum F.J. Chen SPECIES
 
 #### Status
 ACCEPTED

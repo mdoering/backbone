@@ -1,5 +1,4 @@
-Metachaos discoides (Schaeffer, 1916) SPECIES
-=======
+# Metachaos discoides (Schaeffer, 1916) SPECIES
 
 #### Status
 ACCEPTED

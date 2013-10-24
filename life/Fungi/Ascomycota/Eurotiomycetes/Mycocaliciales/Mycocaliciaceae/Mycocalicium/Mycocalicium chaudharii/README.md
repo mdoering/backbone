@@ -1,5 +1,4 @@
-Mycocalicium chaudharii V.P. Tewari & D.C. Pant SPECIES
-=======
+# Mycocalicium chaudharii V.P. Tewari & D.C. Pant SPECIES
 
 #### Status
 ACCEPTED

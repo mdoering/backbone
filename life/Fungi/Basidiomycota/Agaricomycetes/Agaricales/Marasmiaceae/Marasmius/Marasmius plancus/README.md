@@ -1,5 +1,4 @@
-Marasmius plancus (Fr.) Fr. SPECIES
-=======
+# Marasmius plancus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces laeticolor Tokiwa & Okuda SPECIES
-=======
+# Hypomyces laeticolor Tokiwa & Okuda SPECIES
 
 #### Status
 ACCEPTED

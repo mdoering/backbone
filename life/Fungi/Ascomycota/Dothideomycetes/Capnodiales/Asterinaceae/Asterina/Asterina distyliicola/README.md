@@ -1,5 +1,4 @@
-Asterina distyliicola I. Hino & Katum. SPECIES
-=======
+# Asterina distyliicola I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

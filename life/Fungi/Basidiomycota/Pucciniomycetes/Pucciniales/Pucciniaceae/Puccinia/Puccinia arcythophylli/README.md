@@ -1,5 +1,4 @@
-Puccinia arcythophylli Syd. SPECIES
-=======
+# Puccinia arcythophylli Syd. SPECIES
 
 #### Status
 ACCEPTED

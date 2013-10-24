@@ -1,17 +1,16 @@
-Cercospora oxyphyli Pavgi & U.P. Singh SPECIES
-=======
+# Cercospora oxyphylli Pavgi & U.P. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 24(1-6): 118 (1971)
 
 #### Original name
-Cercospora oxyphyli Pavgi & U.P. Singh
+Cercospora oxyphylli Pavgi & U.P. Singh
 
 ### Remarks
 null

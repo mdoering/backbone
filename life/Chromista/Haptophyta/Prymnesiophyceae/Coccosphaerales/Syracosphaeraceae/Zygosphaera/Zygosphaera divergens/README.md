@@ -1,5 +1,4 @@
-Zygosphaera divergens Halldal & Markali SPECIES
-=======
+# Zygosphaera divergens Halldal & Markali SPECIES
 
 #### Status
 ACCEPTED

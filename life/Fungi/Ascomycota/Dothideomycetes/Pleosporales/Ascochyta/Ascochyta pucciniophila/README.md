@@ -1,5 +1,4 @@
-Ascochyta pucciniophila Starbäck SPECIES
-=======
+# Ascochyta pucciniophila Starbäck SPECIES
 
 #### Status
 ACCEPTED

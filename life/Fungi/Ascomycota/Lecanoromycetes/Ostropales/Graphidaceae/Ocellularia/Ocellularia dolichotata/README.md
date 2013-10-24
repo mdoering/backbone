@@ -1,14 +1,13 @@
-Thelotrema dolichotatum Nyl. SPECIES
-=======
+# Ocellularia dolichotata (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Sert. Lich. Trop. Labuan Singapore 19 (1891)
+Cat. Lich. Univers. 2: 589 (1923)
 
 #### Original name
 Thelotrema dolichotatum Nyl.

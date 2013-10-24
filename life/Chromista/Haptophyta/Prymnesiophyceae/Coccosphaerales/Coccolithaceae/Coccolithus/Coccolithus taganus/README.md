@@ -1,5 +1,4 @@
-Coccolithus taganus B. Fonseca SPECIES
-=======
+# Coccolithus taganus B. Fonseca SPECIES
 
 #### Status
 ACCEPTED

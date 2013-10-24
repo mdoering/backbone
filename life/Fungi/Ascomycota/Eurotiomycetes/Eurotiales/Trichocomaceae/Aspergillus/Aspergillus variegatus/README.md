@@ -1,5 +1,4 @@
-Aspergillus variegatus Mosseray SPECIES
-=======
+# Aspergillus variegatus Mosseray SPECIES
 
 #### Status
 ACCEPTED

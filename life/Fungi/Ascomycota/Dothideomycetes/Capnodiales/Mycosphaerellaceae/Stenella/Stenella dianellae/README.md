@@ -1,5 +1,4 @@
-Stenella dianellae (Sawada & Katsuki) Goh & W.H. Hsieh SPECIES
-=======
+# Stenella dianellae (Sawada & Katsuki) Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

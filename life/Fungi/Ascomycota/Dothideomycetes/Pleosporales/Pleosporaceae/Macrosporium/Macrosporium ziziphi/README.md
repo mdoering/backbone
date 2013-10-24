@@ -1,8 +1,7 @@
-Macrosporium zizyphi Bacc. SPECIES
-=======
+# Macrosporium ziziphi Bacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Macrosporium zizyphi Bacc.
+Macrosporium ziziphi Bacc.
 
 ### Remarks
 null

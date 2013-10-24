@@ -1,17 +1,16 @@
-Peziza ulcerata W. Phillips & Plowr. SPECIES
-=======
+# Ploettnera solidaginis (De Not.) B. Hein, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 4(no. 31): 122 (1876)
+Willdenowia, Beih. 9: 96 (1976)
 
 #### Original name
-Peziza ulcerata W. Phillips & Plowr.
+Cryptodiscus solidaginis Ces.
 
 ### Remarks
 null

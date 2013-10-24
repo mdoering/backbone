@@ -1,5 +1,4 @@
-Synchytrium desmodii Munas. SPECIES
-=======
+# Synchytrium desmodii Munas. SPECIES
 
 #### Status
 ACCEPTED

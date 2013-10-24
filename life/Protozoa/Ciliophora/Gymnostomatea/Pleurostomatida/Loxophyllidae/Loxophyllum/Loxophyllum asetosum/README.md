@@ -1,5 +1,4 @@
-Loxophyllum asetosum Burkovsky, 1970 SPECIES
-=======
+# Loxophyllum asetosum Burkovsky, 1970 SPECIES
 
 #### Status
 ACCEPTED

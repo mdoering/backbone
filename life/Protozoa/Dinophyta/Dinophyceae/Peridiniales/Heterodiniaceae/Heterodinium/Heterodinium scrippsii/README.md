@@ -1,5 +1,4 @@
-Heterodinium scrippsii Kofoid, 1906 SPECIES
-=======
+# Heterodinium scrippsii Kofoid, 1906 SPECIES
 
 #### Status
 ACCEPTED

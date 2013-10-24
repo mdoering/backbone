@@ -1,5 +1,4 @@
-Chondrogaster Maire GENUS
-=======
+# Chondrogaster Maire GENUS
 
 #### Status
 ACCEPTED

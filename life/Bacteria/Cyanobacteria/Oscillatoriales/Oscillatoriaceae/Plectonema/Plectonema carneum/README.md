@@ -1,8 +1,7 @@
-Hypheothrix roseola P. Richter SPECIES
-=======
+# Plectonema carneum (Kützing) Lemmermann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

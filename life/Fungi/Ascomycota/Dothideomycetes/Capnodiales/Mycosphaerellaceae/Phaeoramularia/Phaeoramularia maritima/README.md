@@ -1,5 +1,4 @@
-Phaeoramularia maritima (Tracy & Earle) Crous, U. Braun & Alfenas SPECIES
-=======
+# Phaeoramularia maritima (Tracy & Earle) Crous, U. Braun & Alfenas SPECIES
 
 #### Status
 ACCEPTED

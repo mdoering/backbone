@@ -1,5 +1,4 @@
-Ankistrocladium GENUS
-=======
+# Ankistrocladium GENUS
 
 #### Status
 ACCEPTED

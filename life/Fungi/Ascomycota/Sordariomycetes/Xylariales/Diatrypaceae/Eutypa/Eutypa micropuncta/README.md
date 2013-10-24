@@ -1,5 +1,4 @@
-Eutypa micropuncta Cooke SPECIES
-=======
+# Eutypa micropuncta Cooke SPECIES
 
 #### Status
 ACCEPTED

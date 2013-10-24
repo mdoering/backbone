@@ -1,5 +1,4 @@
-Caloplaca splendens (Darb.) Zahlbr. SPECIES
-=======
+# Caloplaca splendens (Darb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

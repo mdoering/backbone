@@ -1,5 +1,4 @@
-Naetrocymbe rhyponta (Ach.) R. C. Harris SPECIES
-=======
+# Naetrocymbe rhyponta (Ach.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

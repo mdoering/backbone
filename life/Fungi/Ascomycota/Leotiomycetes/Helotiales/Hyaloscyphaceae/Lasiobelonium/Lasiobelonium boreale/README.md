@@ -1,5 +1,4 @@
-Lasiobelonium boreale (Ellis & Holw.) Raitv. SPECIES
-=======
+# Lasiobelonium boreale (Ellis & Holw.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

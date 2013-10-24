@@ -1,5 +1,4 @@
-Sphaeroderma argentinense Speg. SPECIES
-=======
+# Sphaeroderma argentinense Speg. SPECIES
 
 #### Status
 ACCEPTED

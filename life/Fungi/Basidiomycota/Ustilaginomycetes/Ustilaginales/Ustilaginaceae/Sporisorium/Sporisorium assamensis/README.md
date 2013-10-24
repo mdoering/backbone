@@ -1,5 +1,4 @@
-Sporisorium assamensis Bag & D.K. Agarwal SPECIES
-=======
+# Sporisorium assamensis Bag & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

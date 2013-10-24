@@ -1,5 +1,4 @@
-Leptosphaeria hesperia M.E. Barr SPECIES
-=======
+# Leptosphaeria hesperia M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

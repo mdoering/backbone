@@ -1,5 +1,4 @@
-Chaetosphaeria pileoferruginea P. Crouan & H. Crouan, 1867 SPECIES
-=======
+# Chaetosphaeria pileoferruginea P. Crouan & H. Crouan, 1867 SPECIES
 
 #### Status
 ACCEPTED

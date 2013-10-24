@@ -1,5 +1,4 @@
-Colletotrichum lycopersici Chester SPECIES
-=======
+# Colletotrichum lycopersici Chester SPECIES
 
 #### Status
 ACCEPTED

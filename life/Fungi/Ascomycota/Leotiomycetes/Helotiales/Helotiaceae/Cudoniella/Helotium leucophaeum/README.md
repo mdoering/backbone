@@ -1,5 +1,4 @@
-Helotium leucophaeum (Murrill) Redhead SPECIES
-=======
+# Helotium leucophaeum (Murrill) Redhead SPECIES
 
 #### Status
 ACCEPTED

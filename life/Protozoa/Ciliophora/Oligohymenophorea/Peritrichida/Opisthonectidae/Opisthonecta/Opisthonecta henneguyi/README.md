@@ -1,8 +1,7 @@
-Pyxidium henneguyi Faure-Fremiet, 1905 SPECIES
-=======
+# Opisthonecta henneguyi Fauré-Fremiet, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

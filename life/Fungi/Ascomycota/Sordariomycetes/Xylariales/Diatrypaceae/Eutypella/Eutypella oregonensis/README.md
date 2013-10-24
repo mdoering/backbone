@@ -1,5 +1,4 @@
-Eutypella oregonensis Wehm. SPECIES
-=======
+# Eutypella oregonensis Wehm. SPECIES
 
 #### Status
 ACCEPTED

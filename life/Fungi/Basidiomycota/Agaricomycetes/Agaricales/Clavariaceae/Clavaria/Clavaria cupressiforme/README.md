@@ -1,5 +1,4 @@
-Clavaria cupressiforme With. SPECIES
-=======
+# Clavaria cupressiforme With. SPECIES
 
 #### Status
 ACCEPTED

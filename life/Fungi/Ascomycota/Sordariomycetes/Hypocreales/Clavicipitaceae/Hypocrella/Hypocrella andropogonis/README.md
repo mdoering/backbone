@@ -1,5 +1,4 @@
-Hypocrella andropogonis (Henn.) Petch SPECIES
-=======
+# Hypocrella andropogonis (Henn.) Petch SPECIES
 
 #### Status
 ACCEPTED

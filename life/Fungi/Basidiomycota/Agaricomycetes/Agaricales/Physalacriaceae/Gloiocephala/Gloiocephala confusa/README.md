@@ -1,5 +1,4 @@
-Gloiocephala confusa Singer SPECIES
-=======
+# Gloiocephala confusa Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria vermiculariaeformis Fuckel SPECIES
-=======
+# Sphaeria vermiculariaeformis Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera umbrosa Velen. SPECIES
-=======
+# Galera umbrosa Velen. SPECIES
 
 #### Status
 ACCEPTED

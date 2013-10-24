@@ -1,5 +1,4 @@
-Cribrosphaera linea (S. Gartner) J.B. Risatti SPECIES
-=======
+# Cribrosphaera linea (S. Gartner) J.B. Risatti SPECIES
 
 #### Status
 DOUBTFUL

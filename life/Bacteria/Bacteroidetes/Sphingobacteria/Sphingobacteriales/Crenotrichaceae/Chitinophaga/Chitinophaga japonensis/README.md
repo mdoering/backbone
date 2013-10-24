@@ -1,8 +1,7 @@
-Flexibacter japonensis Fujita et al., 1997 SPECIES
-=======
+# Chitinophaga japonensis (Fujita et al., 1997) Kämpfer et al., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

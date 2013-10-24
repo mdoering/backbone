@@ -1,5 +1,4 @@
-Cyphella convoluta Cooke SPECIES
-=======
+# Cyphella convoluta Cooke SPECIES
 
 #### Status
 ACCEPTED

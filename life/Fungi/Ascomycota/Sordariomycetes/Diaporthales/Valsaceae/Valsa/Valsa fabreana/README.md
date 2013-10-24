@@ -1,5 +1,4 @@
-Valsa fabreana Sacc. SPECIES
-=======
+# Valsa fabreana Sacc. SPECIES
 
 #### Status
 ACCEPTED

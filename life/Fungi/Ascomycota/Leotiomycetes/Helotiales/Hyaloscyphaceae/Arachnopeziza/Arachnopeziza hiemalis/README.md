@@ -1,5 +1,4 @@
-Arachnopeziza hiemalis Yei Z. Wang SPECIES
-=======
+# Arachnopeziza hiemalis Yei Z. Wang SPECIES
 
 #### Status
 ACCEPTED

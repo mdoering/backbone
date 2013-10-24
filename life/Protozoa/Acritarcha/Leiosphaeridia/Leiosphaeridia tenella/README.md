@@ -1,5 +1,4 @@
-Leiosphaeridia tenella Salujha, Rehman & Arora, 1971 SPECIES
-=======
+# Leiosphaeridia tenella Salujha, Rehman & Arora, 1971 SPECIES
 
 #### Status
 ACCEPTED

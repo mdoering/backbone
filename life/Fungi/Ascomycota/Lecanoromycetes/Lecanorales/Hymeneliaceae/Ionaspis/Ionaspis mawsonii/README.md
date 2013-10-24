@@ -1,17 +1,16 @@
-Ionaspis mawsoni C.W. Dodge SPECIES
-=======
+# Ionaspis mawsonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 63 (1948)
 
 #### Original name
-Ionaspis mawsoni C.W. Dodge
+Ionaspis mawsonii C.W. Dodge
 
 ### Remarks
 null

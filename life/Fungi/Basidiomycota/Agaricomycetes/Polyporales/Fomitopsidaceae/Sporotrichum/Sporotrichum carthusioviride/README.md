@@ -1,5 +1,4 @@
-Sporotrichum carthusioviride J.N. Rai & Mukerji SPECIES
-=======
+# Sporotrichum carthusioviride J.N. Rai & Mukerji SPECIES
 
 #### Status
 ACCEPTED

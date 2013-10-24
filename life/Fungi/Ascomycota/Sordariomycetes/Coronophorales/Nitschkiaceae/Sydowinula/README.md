@@ -1,5 +1,4 @@
-Sydowinula GENUS
-=======
+# Sydowinula GENUS
 
 #### Status
 ACCEPTED

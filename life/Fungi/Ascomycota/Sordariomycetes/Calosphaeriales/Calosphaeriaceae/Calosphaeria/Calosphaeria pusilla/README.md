@@ -1,5 +1,4 @@
-Calosphaeria pusilla (Wahlenb.) P. Karst., 1873 SPECIES
-=======
+# Calosphaeria pusilla (Wahlenb.) P. Karst., 1873 SPECIES
 
 #### Status
 ACCEPTED

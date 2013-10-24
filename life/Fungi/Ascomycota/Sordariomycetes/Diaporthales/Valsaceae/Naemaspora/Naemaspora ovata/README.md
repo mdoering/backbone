@@ -1,5 +1,4 @@
-Naemaspora ovata Preuss SPECIES
-=======
+# Naemaspora ovata Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epicymatia modoniae Pass. SPECIES
-=======
+# Epicymatia modoniae Pass. SPECIES
 
 #### Status
 ACCEPTED

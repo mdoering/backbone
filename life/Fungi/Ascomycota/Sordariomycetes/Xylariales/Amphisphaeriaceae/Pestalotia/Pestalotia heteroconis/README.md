@@ -1,5 +1,4 @@
-Pestalotia heteroconis SPECIES
-=======
+# Pestalotia heteroconis SPECIES
 
 #### Status
 ACCEPTED

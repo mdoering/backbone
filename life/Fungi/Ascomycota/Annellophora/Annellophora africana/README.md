@@ -1,5 +1,4 @@
-Annellophora africana S. Hughes, 1952 SPECIES
-=======
+# Annellophora africana S. Hughes, 1952 SPECIES
 
 #### Status
 ACCEPTED

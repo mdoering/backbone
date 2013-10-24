@@ -1,5 +1,4 @@
-Erineum mespilinum DC. SPECIES
-=======
+# Erineum mespilinum DC. SPECIES
 
 #### Status
 ACCEPTED

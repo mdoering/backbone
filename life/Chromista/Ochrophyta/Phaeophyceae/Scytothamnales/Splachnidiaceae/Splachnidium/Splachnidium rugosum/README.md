@@ -1,5 +1,4 @@
-Splachnidium rugosum var. minus Grunow VARIETY
-=======
+# Splachnidium rugosum (Linnaeus) Greville SPECIES
 
 #### Status
 ACCEPTED

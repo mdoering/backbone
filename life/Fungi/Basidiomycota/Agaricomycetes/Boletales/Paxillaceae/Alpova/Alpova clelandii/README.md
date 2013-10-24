@@ -1,5 +1,4 @@
-Alpova clelandii (G. Cunn.) G.W. Beaton, Pegler & T.W.K. Young SPECIES
-=======
+# Alpova clelandii (G. Cunn.) G.W. Beaton, Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

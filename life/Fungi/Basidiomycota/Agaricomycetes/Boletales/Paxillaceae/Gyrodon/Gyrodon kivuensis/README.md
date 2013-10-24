@@ -1,5 +1,4 @@
-Gyrodon kivuensis Heinem. & Gooss.-Font. SPECIES
-=======
+# Gyrodon kivuensis Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

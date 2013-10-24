@@ -1,17 +1,16 @@
-Xylaria corniformis var. corniformis VARIETY
-=======
+# Xylaria corniformis (Fr.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 381 (1849)
 
 #### Original name
-Xylaria corniformis var. corniformis
+Xylaria corniformis (Fr.) Fr., 1849
 
 ### Remarks
 null

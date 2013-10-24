@@ -1,5 +1,4 @@
-Cortinarius tirolianus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius tirolianus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

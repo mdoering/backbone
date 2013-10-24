@@ -1,5 +1,4 @@
-Flourensina Marie, 1938 GENUS
-=======
+# Flourensina Marie, 1938 GENUS
 
 #### Status
 ACCEPTED

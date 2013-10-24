@@ -1,5 +1,4 @@
-Phyllosticta laureolae Desm. SPECIES
-=======
+# Phyllosticta laureolae Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lautropia mirabilis Gerner-Smidt et al., 1995 SPECIES
-=======
+# Lautropia mirabilis Gerner-Smidt et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

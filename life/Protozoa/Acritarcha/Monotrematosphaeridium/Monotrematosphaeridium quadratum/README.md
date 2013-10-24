@@ -1,5 +1,4 @@
-Monotrematosphaeridium quadratum Sin in Wang & Chen, 1987 SPECIES
-=======
+# Monotrematosphaeridium quadratum Sin in Wang & Chen, 1987 SPECIES
 
 #### Status
 ACCEPTED

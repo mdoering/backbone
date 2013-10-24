@@ -1,8 +1,7 @@
-Laboulbenia trichognati Thaxt. SPECIES
-=======
+# Laboulbenia trichognathi Thaxt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia trichognati Thaxt.
+Laboulbenia trichognathi Thaxt.
 
 ### Remarks
 null

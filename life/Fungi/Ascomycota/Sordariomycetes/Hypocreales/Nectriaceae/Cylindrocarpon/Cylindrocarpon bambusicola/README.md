@@ -1,5 +1,4 @@
-Cylindrocarpon bambusicola Matsush. SPECIES
-=======
+# Cylindrocarpon bambusicola Matsush. SPECIES
 
 #### Status
 ACCEPTED

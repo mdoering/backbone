@@ -1,5 +1,4 @@
-Discella canadensis Peck SPECIES
-=======
+# Discella canadensis Peck SPECIES
 
 #### Status
 ACCEPTED

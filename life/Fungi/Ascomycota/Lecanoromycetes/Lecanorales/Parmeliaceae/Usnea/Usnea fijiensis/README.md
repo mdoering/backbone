@@ -1,5 +1,4 @@
-Usnea fijiensis Herre SPECIES
-=======
+# Usnea fijiensis Herre SPECIES
 
 #### Status
 ACCEPTED

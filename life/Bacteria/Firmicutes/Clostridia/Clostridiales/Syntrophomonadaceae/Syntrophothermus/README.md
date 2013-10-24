@@ -1,5 +1,4 @@
-Syntrophothermus Sekiguchi, Kamagata, Nakamura, Ohashi & Harada, 2000 GENUS
-=======
+# Syntrophothermus Sekiguchi, Kamagata, Nakamura, Ohashi & Harada, 2000 GENUS
 
 #### Status
 ACCEPTED

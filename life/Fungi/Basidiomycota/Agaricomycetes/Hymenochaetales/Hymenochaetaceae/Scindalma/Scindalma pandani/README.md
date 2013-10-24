@@ -1,5 +1,4 @@
-Scindalma pandani (Fr.) Kuntze SPECIES
-=======
+# Scindalma pandani (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

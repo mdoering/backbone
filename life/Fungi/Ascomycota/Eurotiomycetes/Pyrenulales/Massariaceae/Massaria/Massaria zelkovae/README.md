@@ -1,5 +1,4 @@
-Massaria zelkovae Teng SPECIES
-=======
+# Massaria zelkovae Teng SPECIES
 
 #### Status
 ACCEPTED

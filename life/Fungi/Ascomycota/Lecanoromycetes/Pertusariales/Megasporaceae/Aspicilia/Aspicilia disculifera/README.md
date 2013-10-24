@@ -1,5 +1,4 @@
-Aspicilia disculifera var. disculifera VARIETY
-=======
+# Aspicilia disculifera (Zahlbr.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 An Enumeration of Lichens in China (Beijing) 31 (1991)
 
 #### Original name
-Aspicilia disculifera var. disculifera
+Lecanora disculifera Zahlbr.
 
 ### Remarks
 null

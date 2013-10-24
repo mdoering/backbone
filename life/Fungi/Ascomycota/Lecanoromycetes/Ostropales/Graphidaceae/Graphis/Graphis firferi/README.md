@@ -1,5 +1,4 @@
-Graphis firferi Lücking SPECIES
-=======
+# Graphis firferi Lücking SPECIES
 
 #### Status
 ACCEPTED

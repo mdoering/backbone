@@ -1,5 +1,4 @@
-Mycena mitis Maas Geest. SPECIES
-=======
+# Mycena mitis Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

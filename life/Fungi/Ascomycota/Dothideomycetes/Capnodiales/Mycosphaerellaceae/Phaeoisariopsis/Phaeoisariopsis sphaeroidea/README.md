@@ -1,5 +1,4 @@
-Phaeoisariopsis sphaeroidea (Speg.) L.G. Br. & Morgan-Jones SPECIES
-=======
+# Phaeoisariopsis sphaeroidea (Speg.) L.G. Br. & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

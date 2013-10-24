@@ -1,5 +1,4 @@
-Pleospora sieversiae E. Müll. SPECIES
-=======
+# Pleospora sieversiae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

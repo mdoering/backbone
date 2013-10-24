@@ -1,5 +1,4 @@
-Placidiopsis muelleri Servít SPECIES
-=======
+# Placidiopsis muelleri Servít SPECIES
 
 #### Status
 ACCEPTED

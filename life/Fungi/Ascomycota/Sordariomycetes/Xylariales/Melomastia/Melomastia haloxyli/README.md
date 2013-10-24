@@ -1,5 +1,4 @@
-Melomastia haloxyli Kravtzev SPECIES
-=======
+# Melomastia haloxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triposporium acerinum Syd. SPECIES
-=======
+# Triposporium acerinum Syd. SPECIES
 
 #### Status
 ACCEPTED

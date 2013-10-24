@@ -1,5 +1,4 @@
-Marasmius corrugatiformis Singer SPECIES
-=======
+# Marasmius corrugatiformis Singer SPECIES
 
 #### Status
 ACCEPTED

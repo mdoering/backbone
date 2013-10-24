@@ -1,5 +1,4 @@
-Ascomyces betulae Magnus SPECIES
-=======
+# Ascomyces betulae Magnus SPECIES
 
 #### Status
 ACCEPTED

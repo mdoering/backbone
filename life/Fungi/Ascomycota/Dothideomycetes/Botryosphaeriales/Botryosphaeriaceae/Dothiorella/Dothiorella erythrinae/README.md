@@ -1,5 +1,4 @@
-Dothiorella erythrinae S. Ahmad SPECIES
-=======
+# Dothiorella erythrinae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

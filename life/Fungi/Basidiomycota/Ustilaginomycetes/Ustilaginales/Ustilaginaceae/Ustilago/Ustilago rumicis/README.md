@@ -1,5 +1,4 @@
-Ustilago rumicis (Berk.) G.P. Clinton SPECIES
-=======
+# Ustilago rumicis (Berk.) G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

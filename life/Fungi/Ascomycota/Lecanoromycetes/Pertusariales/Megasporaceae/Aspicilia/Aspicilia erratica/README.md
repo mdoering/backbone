@@ -1,5 +1,4 @@
-Aspicilia erratica Motyka SPECIES
-=======
+# Aspicilia erratica Motyka SPECIES
 
 #### Status
 ACCEPTED

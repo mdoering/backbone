@@ -1,5 +1,4 @@
-Lyophyllum conoideospermum Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum conoideospermum Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

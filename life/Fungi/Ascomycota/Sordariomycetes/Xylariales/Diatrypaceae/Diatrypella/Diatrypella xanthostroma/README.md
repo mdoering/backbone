@@ -1,5 +1,4 @@
-Diatrypella xanthostroma Ellis & Everh. SPECIES
-=======
+# Diatrypella xanthostroma Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

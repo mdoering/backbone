@@ -1,5 +1,4 @@
-Quasicyclammina Belford, 1977 GENUS
-=======
+# Quasicyclammina Belford, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus sensitivus Rick SPECIES
-=======
+# Pluteus sensitivus Rick SPECIES
 
 #### Status
 ACCEPTED

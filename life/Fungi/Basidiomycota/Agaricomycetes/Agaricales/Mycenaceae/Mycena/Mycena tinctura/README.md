@@ -1,5 +1,4 @@
-Mycena tinctura Kauffman SPECIES
-=======
+# Mycena tinctura Kauffman SPECIES
 
 #### Status
 ACCEPTED

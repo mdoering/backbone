@@ -1,5 +1,4 @@
-Florisphaeridium wenlockensis Dorning, 1981 SPECIES
-=======
+# Florisphaeridium wenlockensis Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

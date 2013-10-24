@@ -1,5 +1,4 @@
-Puccinia coreopsidis Wakef. SPECIES
-=======
+# Puccinia coreopsidis Wakef. SPECIES
 
 #### Status
 ACCEPTED

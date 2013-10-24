@@ -1,5 +1,4 @@
-Pseudovalsa betulae (Schumach.) J. Schröt. SPECIES
-=======
+# Pseudovalsa betulae (Schumach.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplocaulus amphiurae (Cuénot, 1891) Warren, 1988 SPECIES
-=======
+# Haplocaulus amphiurae (Cuénot, 1891) Warren, 1988 SPECIES
 
 #### Status
 ACCEPTED

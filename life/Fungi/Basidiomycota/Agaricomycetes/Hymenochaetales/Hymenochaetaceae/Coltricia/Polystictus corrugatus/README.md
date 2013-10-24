@@ -1,5 +1,4 @@
-Polystictus corrugatus Lév. SPECIES
-=======
+# Polystictus corrugatus Lév. SPECIES
 
 #### Status
 ACCEPTED

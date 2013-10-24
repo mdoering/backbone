@@ -1,5 +1,4 @@
-Leccinum coffeatum A.H. Sm. & Thiers SPECIES
-=======
+# Leccinum coffeatum A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

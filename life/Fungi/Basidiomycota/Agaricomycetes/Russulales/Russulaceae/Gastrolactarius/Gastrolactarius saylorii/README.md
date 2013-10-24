@@ -1,5 +1,4 @@
-Gastrolactarius saylorii (Thiers) J.M. Vidal SPECIES
-=======
+# Gastrolactarius saylorii (Thiers) J.M. Vidal SPECIES
 
 #### Status
 ACCEPTED

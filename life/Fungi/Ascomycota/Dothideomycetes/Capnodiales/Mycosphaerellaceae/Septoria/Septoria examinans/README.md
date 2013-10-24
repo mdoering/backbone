@@ -1,5 +1,4 @@
-Septoria examinans Berk. & M.A. Curtis SPECIES
-=======
+# Septoria examinans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

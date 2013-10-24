@@ -1,5 +1,4 @@
-Leptomycorhaphis GENUS
-=======
+# Leptomycorhaphis GENUS
 
 #### Status
 ACCEPTED

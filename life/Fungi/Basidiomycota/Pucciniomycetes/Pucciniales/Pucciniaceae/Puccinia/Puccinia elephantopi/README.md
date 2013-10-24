@@ -1,8 +1,7 @@
-Puccinia elephantopodis Henn. SPECIES
-=======
+# Puccinia elephantopi Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia elephantopodis Henn.
+Puccinia elephantopi Henn.
 
 ### Remarks
 null

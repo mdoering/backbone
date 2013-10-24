@@ -1,5 +1,4 @@
-Mackintoshia persica Pacioni & C. Sharp, 2000 SPECIES
-=======
+# Mackintoshia persica Pacioni & C. Sharp, 2000 SPECIES
 
 #### Status
 ACCEPTED

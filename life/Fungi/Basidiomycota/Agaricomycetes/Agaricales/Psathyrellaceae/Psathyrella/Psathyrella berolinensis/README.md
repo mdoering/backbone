@@ -1,5 +1,4 @@
-Psathyrella berolinensis Ew. Gerhardt SPECIES
-=======
+# Psathyrella berolinensis Ew. Gerhardt SPECIES
 
 #### Status
 ACCEPTED

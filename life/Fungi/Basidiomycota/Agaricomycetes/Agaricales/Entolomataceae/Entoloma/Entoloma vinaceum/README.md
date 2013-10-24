@@ -1,17 +1,16 @@
-Entoloma vinaceum var. vinaceum VARIETY
-=======
+# Entoloma vinaceum (Scop.) Arnolds & Noordel., 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Persoonia 10(2): 298 (1979)
 
 #### Original name
-Entoloma vinaceum var. vinaceum
+Agaricus vinaceus Scop., 1772
 
 ### Remarks
 null

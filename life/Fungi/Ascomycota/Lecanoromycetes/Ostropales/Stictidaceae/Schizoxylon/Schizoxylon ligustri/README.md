@@ -1,5 +1,4 @@
-Schizoxylon ligustri (Schwein.) Sherwood SPECIES
-=======
+# Schizoxylon ligustri (Schwein.) Sherwood SPECIES
 
 #### Status
 ACCEPTED

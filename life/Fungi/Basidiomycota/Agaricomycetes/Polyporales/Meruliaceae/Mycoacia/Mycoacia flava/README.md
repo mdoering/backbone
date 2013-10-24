@@ -1,5 +1,4 @@
-Mycoacia flava (Cejp) Parmasto SPECIES
-=======
+# Mycoacia flava (Cejp) Parmasto SPECIES
 
 #### Status
 ACCEPTED

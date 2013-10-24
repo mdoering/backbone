@@ -1,5 +1,4 @@
-Mucor glandifer Bonord. SPECIES
-=======
+# Mucor glandifer Bonord. SPECIES
 
 #### Status
 ACCEPTED

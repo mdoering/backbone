@@ -1,5 +1,4 @@
-Sphaerella dahliae Cooke & Ellis SPECIES
-=======
+# Sphaerella dahliae Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trullula novissima (Ces.) Höhn. SPECIES
-=======
+# Trullula novissima (Ces.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

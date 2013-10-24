@@ -1,5 +1,4 @@
-Spirillum balbianii SPECIES
-=======
+# Spirillum balbianii SPECIES
 
 #### Status
 ACCEPTED

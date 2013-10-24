@@ -1,5 +1,4 @@
-Tomentellina GENUS
-=======
+# Tomentellina GENUS
 
 #### Status
 ACCEPTED

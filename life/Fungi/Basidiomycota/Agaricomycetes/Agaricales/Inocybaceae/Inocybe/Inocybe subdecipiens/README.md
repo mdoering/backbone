@@ -1,5 +1,4 @@
-Inocybe subdecipiens Bres. SPECIES
-=======
+# Inocybe subdecipiens Bres. SPECIES
 
 #### Status
 ACCEPTED

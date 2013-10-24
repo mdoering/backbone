@@ -1,5 +1,4 @@
-Dacryomitra pedunculata (Berk. & M.A. Curtis) Burt SPECIES
-=======
+# Dacryomitra pedunculata (Berk. & M.A. Curtis) Burt SPECIES
 
 #### Status
 ACCEPTED

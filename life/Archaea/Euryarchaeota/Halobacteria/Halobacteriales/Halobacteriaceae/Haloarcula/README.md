@@ -1,5 +1,4 @@
-Haloarcula Torreblanca et al., 1986 GENUS
-=======
+# Haloarcula Torreblanca et al., 1986 GENUS
 
 #### Status
 ACCEPTED

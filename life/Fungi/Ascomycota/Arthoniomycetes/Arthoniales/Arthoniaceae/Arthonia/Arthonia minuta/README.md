@@ -1,5 +1,4 @@
-Arthonia minuta Vain. SPECIES
-=======
+# Arthonia minuta Vain. SPECIES
 
 #### Status
 ACCEPTED

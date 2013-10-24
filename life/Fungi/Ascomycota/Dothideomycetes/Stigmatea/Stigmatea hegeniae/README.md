@@ -1,5 +1,4 @@
-Stigmatea hegeniae E. Castell. SPECIES
-=======
+# Stigmatea hegeniae E. Castell. SPECIES
 
 #### Status
 ACCEPTED

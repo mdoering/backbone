@@ -1,17 +1,16 @@
-Cortinarius variiformis var. variiformis VARIETY
-=======
+# Cortinarius variiformis Malençon, 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Champignon Supérieurs du Maroc 1: 526 (1970)
 
 #### Original name
-Cortinarius variiformis var. variiformis
+Cortinarius variiformis Malençon, 1970
 
 ### Remarks
 null

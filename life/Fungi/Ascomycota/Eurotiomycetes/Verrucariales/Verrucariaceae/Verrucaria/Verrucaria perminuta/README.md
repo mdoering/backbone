@@ -1,5 +1,4 @@
-Verrucaria perminuta Deakin SPECIES
-=======
+# Verrucaria perminuta Deakin SPECIES
 
 #### Status
 ACCEPTED

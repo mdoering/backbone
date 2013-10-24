@@ -1,5 +1,4 @@
-Coprinus godeyi Gillet SPECIES
-=======
+# Coprinus godeyi Gillet SPECIES
 
 #### Status
 ACCEPTED

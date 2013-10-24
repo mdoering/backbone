@@ -1,5 +1,4 @@
-Phacopsis crustulosae Creveld SPECIES
-=======
+# Phacopsis crustulosae Creveld SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus chondripes Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus chondripes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

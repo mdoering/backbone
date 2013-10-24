@@ -1,5 +1,4 @@
-Plannapus O'Connor, 1997 GENUS
-=======
+# Plannapus O'Connor, 1997 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetraporina tenera Kondratyev, 1963 SPECIES
-=======
+# Tetraporina tenera Kondratyev, 1963 SPECIES
 
 #### Status
 ACCEPTED

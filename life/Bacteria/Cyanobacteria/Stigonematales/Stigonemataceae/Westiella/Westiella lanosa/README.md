@@ -1,5 +1,4 @@
-Westiella lanosa Frémy SPECIES
-=======
+# Westiella lanosa Frémy SPECIES
 
 #### Status
 ACCEPTED

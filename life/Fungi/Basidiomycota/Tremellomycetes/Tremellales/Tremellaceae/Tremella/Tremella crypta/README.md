@@ -1,5 +1,4 @@
-Tremella crypta Lib. SPECIES
-=======
+# Tremella crypta Lib. SPECIES
 
 #### Status
 ACCEPTED

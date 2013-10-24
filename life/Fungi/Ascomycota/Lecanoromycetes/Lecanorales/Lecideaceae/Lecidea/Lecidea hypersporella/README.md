@@ -1,5 +1,4 @@
-Lecidea hypersporella Stirt. SPECIES
-=======
+# Lecidea hypersporella Stirt. SPECIES
 
 #### Status
 ACCEPTED

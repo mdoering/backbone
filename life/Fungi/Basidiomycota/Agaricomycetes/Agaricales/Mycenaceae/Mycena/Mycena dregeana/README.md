@@ -1,5 +1,4 @@
-Mycena dregeana Lév. SPECIES
-=======
+# Mycena dregeana Lév. SPECIES
 
 #### Status
 ACCEPTED

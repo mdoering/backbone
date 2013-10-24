@@ -1,5 +1,4 @@
-Cordierites indicus (K.S. Thind, E.K. Cash & Pr. Singh) K.S. Thind & M.P. Sharma SPECIES
-=======
+# Cordierites indicus (K.S. Thind, E.K. Cash & Pr. Singh) K.S. Thind & M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

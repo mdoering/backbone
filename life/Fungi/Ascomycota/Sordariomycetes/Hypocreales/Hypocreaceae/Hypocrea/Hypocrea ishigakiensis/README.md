@@ -1,5 +1,4 @@
-Hypocrea ishigakiensis Yoshim. Doi SPECIES
-=======
+# Hypocrea ishigakiensis Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crocynia urbana Hue SPECIES
-=======
+# Crocynia urbana Hue SPECIES
 
 #### Status
 ACCEPTED

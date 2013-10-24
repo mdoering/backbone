@@ -1,5 +1,4 @@
-Stropharia foederata (Berk. & Broome) Morgan SPECIES
-=======
+# Stropharia foederata (Berk. & Broome) Morgan SPECIES
 
 #### Status
 ACCEPTED

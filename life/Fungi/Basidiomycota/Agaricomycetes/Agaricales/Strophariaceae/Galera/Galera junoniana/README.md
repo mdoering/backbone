@@ -1,5 +1,4 @@
-Galera junoniana Velen. SPECIES
-=======
+# Galera junoniana Velen. SPECIES
 
 #### Status
 ACCEPTED

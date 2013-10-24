@@ -1,5 +1,4 @@
-Cortinarius pulcherrimus (Velen.) Rob. Henry SPECIES
-=======
+# Cortinarius pulcherrimus (Velen.) Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

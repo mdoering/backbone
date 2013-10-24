@@ -1,5 +1,4 @@
-Hapalosiphon arboreus W. West & G.S. West SPECIES
-=======
+# Hapalosiphon arboreus W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

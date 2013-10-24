@@ -1,8 +1,7 @@
-Biatorella henrici (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Biatorella henricii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Traponora asterella Aptroot SPECIES
-=======
+# Traponora asterella Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobaria robinsonii Vain. SPECIES
-=======
+# Lobaria robinsonii Vain. SPECIES
 
 #### Status
 ACCEPTED

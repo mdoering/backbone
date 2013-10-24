@@ -1,5 +1,4 @@
-Lichen lacunosus Menz. {?} SPECIES
-=======
+# Lichen lacunosus Menz. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosphaeriella africana D. Hawksw. SPECIES
-=======
+# Astrosphaeriella africana D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

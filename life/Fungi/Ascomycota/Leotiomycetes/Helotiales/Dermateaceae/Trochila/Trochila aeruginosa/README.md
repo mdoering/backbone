@@ -1,5 +1,4 @@
-Trochila aeruginosa Fuckel SPECIES
-=======
+# Trochila aeruginosa Fuckel SPECIES
 
 #### Status
 ACCEPTED

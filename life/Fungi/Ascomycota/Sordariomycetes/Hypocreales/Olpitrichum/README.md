@@ -1,5 +1,4 @@
-Olpitrichum G.F. Atk. GENUS
-=======
+# Olpitrichum G.F. Atk. GENUS
 
 #### Status
 ACCEPTED

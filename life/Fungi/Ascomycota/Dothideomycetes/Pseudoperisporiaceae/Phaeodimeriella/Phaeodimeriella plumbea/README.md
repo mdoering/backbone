@@ -1,5 +1,4 @@
-Phaeodimeriella plumbea Doidge SPECIES
-=======
+# Phaeodimeriella plumbea Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptococcus lutetiensis Poyart et al., 2002 SPECIES
-=======
+# Streptococcus lutetiensis Poyart et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

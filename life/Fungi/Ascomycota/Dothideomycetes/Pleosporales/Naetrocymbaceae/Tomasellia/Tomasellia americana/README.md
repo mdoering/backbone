@@ -1,5 +1,4 @@
-Tomasellia americana (Willey) R. C. Harris SPECIES
-=======
+# Tomasellia americana (Willey) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma boussingaultiae Syd. & E.J. Butler SPECIES
-=======
+# Macrophoma boussingaultiae Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

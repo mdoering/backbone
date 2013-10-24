@@ -1,5 +1,4 @@
-Cortinarius thalliopallidus Rob. Henry SPECIES
-=======
+# Cortinarius thalliopallidus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

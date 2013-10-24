@@ -1,14 +1,13 @@
-Protomyces leucanthemi (Magnus) Arx, 1981 SPECIES
-=======
+# Protomycopsis leucanthemi Magnus, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 104 (1981)
+Fl. Tirol 3: (1905)
 
 #### Original name
 Protomycopsis leucanthemi Magnus, 1905

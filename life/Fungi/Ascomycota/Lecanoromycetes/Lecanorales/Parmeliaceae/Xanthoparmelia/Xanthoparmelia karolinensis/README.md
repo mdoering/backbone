@@ -1,5 +1,4 @@
-Xanthoparmelia karolinensis Elix SPECIES
-=======
+# Xanthoparmelia karolinensis Elix SPECIES
 
 #### Status
 ACCEPTED

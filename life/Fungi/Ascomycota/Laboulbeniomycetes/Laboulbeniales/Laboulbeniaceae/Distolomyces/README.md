@@ -1,5 +1,4 @@
-Distolomyces Thaxt. GENUS
-=======
+# Distolomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

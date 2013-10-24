@@ -1,5 +1,4 @@
-Podosporium etheldoidgeae Crous, M.J. Wingf. & W.B. Kendr. SPECIES
-=======
+# Podosporium etheldoidgeae Crous, M.J. Wingf. & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

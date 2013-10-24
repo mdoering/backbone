@@ -1,5 +1,4 @@
-Sphaeria insidens Schwein. SPECIES
-=======
+# Sphaeria insidens Schwein. SPECIES
 
 #### Status
 ACCEPTED

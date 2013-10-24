@@ -1,5 +1,4 @@
-Fusarium tomentosum Berk. & M.A. Curtis SPECIES
-=======
+# Fusarium tomentosum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

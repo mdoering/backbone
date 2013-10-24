@@ -1,5 +1,4 @@
-Parmelia trichotera f. trichotera FORM
-=======
+# Parmelia trichotera SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia trichotera f. trichotera
+null
 
 ### Remarks
 null

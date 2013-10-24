@@ -1,17 +1,16 @@
-Plowrightia virgultorum var. virgultorum VARIETY
-=======
+# Anisogramma virgultorum (Fr.) Theiss. & Syd., 1917 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 636 (1883)
+Annls mycol. 14(6): 451 (1917)
 
 #### Original name
-Plowrightia virgultorum var. virgultorum
+Sphaeria virgultorum Fr., 1823
 
 ### Remarks
 null

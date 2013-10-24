@@ -1,5 +1,4 @@
-Mariella Tikhomirova, 1989 GENUS
-=======
+# Mariella Tikhomirova, 1989 GENUS
 
 #### Status
 ACCEPTED

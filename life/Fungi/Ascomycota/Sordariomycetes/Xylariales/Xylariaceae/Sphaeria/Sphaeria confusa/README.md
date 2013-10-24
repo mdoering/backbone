@@ -1,5 +1,4 @@
-Sphaeria confusa Schwein. SPECIES
-=======
+# Sphaeria confusa Schwein. SPECIES
 
 #### Status
 ACCEPTED

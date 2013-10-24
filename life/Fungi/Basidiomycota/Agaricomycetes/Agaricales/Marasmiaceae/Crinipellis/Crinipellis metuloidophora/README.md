@@ -1,5 +1,4 @@
-Crinipellis metuloidophora Singer SPECIES
-=======
+# Crinipellis metuloidophora Singer SPECIES
 
 #### Status
 ACCEPTED

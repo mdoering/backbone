@@ -1,5 +1,4 @@
-Placocarpus amylaceus (A. Massal.) Trevis. SPECIES
-=======
+# Placocarpus amylaceus (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella latebrosa Ellis SPECIES
-=======
+# Lachnella latebrosa Ellis SPECIES
 
 #### Status
 ACCEPTED

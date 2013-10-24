@@ -1,5 +1,4 @@
-Microdiplodia ribicola Petr. SPECIES
-=======
+# Microdiplodia ribicola Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria wandelensis Har. SPECIES
-=======
+# Didymosphaeria wandelensis Har. SPECIES
 
 #### Status
 ACCEPTED

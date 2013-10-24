@@ -1,5 +1,4 @@
-Uredo scholzii Henn. SPECIES
-=======
+# Uredo scholzii Henn. SPECIES
 
 #### Status
 ACCEPTED

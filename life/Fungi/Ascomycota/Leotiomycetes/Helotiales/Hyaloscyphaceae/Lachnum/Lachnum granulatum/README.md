@@ -1,5 +1,4 @@
-Lachnum granulatum W.Y. Zhuang, Yanna & K.D. Hyde SPECIES
-=======
+# Lachnum granulatum W.Y. Zhuang, Yanna & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

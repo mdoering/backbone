@@ -1,5 +1,4 @@
-Sporotrichum coerulescens P. Karst. SPECIES
-=======
+# Sporotrichum coerulescens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta begoniae (Tassi) Voglino SPECIES
-=======
+# Ascochyta begoniae (Tassi) Voglino SPECIES
 
 #### Status
 ACCEPTED

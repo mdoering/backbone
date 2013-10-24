@@ -1,5 +1,4 @@
-Stictis dumontii Sherwood SPECIES
-=======
+# Stictis dumontii Sherwood SPECIES
 
 #### Status
 ACCEPTED

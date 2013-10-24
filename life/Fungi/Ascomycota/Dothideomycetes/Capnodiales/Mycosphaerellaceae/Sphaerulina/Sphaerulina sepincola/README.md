@@ -1,5 +1,4 @@
-Sphaerulina sepincola G. Winter SPECIES
-=======
+# Sphaerulina sepincola G. Winter SPECIES
 
 #### Status
 ACCEPTED

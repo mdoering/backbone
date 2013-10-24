@@ -1,5 +1,4 @@
-Passalora taihokuensis (Sawada ex Goh & W.H. Hsieh) Y.L. Guo & W.H. Hsieh SPECIES
-=======
+# Passalora taihokuensis (Sawada ex Goh & W.H. Hsieh) Y.L. Guo & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

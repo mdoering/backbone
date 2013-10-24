@@ -1,5 +1,4 @@
-Fusarium rosae (Preuss) Sacc. SPECIES
-=======
+# Fusarium rosae (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterorotalia Hofker, 1950 GENUS
-=======
+# Asterorotalia Hofker, 1950 GENUS
 
 #### Status
 ACCEPTED

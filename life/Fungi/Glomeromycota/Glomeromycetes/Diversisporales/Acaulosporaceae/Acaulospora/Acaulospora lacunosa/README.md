@@ -1,5 +1,4 @@
-Acaulospora lacunosa J.B. Morton, 1986 SPECIES
-=======
+# Acaulospora lacunosa J.B. Morton, 1986 SPECIES
 
 #### Status
 ACCEPTED

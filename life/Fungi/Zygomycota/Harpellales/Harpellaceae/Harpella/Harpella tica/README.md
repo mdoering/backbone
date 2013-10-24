@@ -1,5 +1,4 @@
-Harpella tica Lichtw., 1998 SPECIES
-=======
+# Harpella tica Lichtw., 1998 SPECIES
 
 #### Status
 ACCEPTED

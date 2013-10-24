@@ -1,17 +1,16 @@
-Cantharellus cibarius var. janthinoxanthus Maire VARIETY
-=======
+# Cantharellus ianthinoxanthus (Maire) Kühner, 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Sci. Franche-Comté 2: 16 (1947)
 
 #### Original name
-Cantharellus cibarius var. janthinoxanthus Maire
+Cantharellus cibarius var. ianthinoxanthus Maire, 1911
 
 ### Remarks
 null

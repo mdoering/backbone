@@ -1,5 +1,4 @@
-Septoria albaniensis Thüm. SPECIES
-=======
+# Septoria albaniensis Thüm. SPECIES
 
 #### Status
 ACCEPTED

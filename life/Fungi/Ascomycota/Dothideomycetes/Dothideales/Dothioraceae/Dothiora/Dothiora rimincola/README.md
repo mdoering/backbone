@@ -1,5 +1,4 @@
-Dothiora rimincola (Schwein.) M.E. Barr SPECIES
-=======
+# Dothiora rimincola (Schwein.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

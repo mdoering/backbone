@@ -1,5 +1,4 @@
-Phlyctema ptychospermatis (Henn.) Arx SPECIES
-=======
+# Phlyctema ptychospermatis (Henn.) Arx SPECIES
 
 #### Status
 ACCEPTED

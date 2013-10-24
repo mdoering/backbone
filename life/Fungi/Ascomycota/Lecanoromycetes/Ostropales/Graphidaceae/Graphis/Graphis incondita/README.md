@@ -1,5 +1,4 @@
-Graphis incondita Nyl. SPECIES
-=======
+# Graphis incondita Nyl. SPECIES
 
 #### Status
 ACCEPTED

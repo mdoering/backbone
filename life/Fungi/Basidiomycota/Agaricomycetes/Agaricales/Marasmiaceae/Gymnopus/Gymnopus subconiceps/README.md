@@ -1,5 +1,4 @@
-Gymnopus subconiceps Murrill SPECIES
-=======
+# Gymnopus subconiceps Murrill SPECIES
 
 #### Status
 ACCEPTED

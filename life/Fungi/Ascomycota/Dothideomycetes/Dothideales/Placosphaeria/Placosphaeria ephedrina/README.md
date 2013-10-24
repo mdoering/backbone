@@ -1,5 +1,4 @@
-Placosphaeria ephedrina Bubák SPECIES
-=======
+# Placosphaeria ephedrina Bubák SPECIES
 
 #### Status
 ACCEPTED

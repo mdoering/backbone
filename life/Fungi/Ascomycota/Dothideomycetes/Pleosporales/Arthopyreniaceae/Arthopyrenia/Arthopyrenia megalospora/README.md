@@ -1,5 +1,4 @@
-Arthopyrenia megalospora Lönnr. SPECIES
-=======
+# Arthopyrenia megalospora Lönnr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea lagunensis Vain. SPECIES
-=======
+# Lecidea lagunensis Vain. SPECIES
 
 #### Status
 ACCEPTED

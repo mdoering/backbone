@@ -1,5 +1,4 @@
-Sphyridium rufum Müll. Arg. SPECIES
-=======
+# Sphyridium rufum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

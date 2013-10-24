@@ -1,5 +1,4 @@
-Pterula campoi Speg., 1921 SPECIES
-=======
+# Pterula campoi Speg., 1921 SPECIES
 
 #### Status
 ACCEPTED

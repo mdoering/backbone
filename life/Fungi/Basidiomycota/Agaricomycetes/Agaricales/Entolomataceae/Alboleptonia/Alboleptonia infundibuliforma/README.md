@@ -1,5 +1,4 @@
-Alboleptonia infundibuliforma Largent SPECIES
-=======
+# Alboleptonia infundibuliforma Largent SPECIES
 
 #### Status
 ACCEPTED

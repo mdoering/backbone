@@ -1,5 +1,4 @@
-Pseudopyrenula follmannii C.W. Dodge SPECIES
-=======
+# Pseudopyrenula follmannii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

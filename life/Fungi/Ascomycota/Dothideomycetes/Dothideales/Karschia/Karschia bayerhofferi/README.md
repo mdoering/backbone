@@ -1,5 +1,4 @@
-Karschia bayerhofferi (Schaer.) Rehm SPECIES
-=======
+# Karschia bayerhofferi (Schaer.) Rehm SPECIES
 
 #### Status
 ACCEPTED

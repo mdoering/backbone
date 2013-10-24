@@ -1,5 +1,4 @@
-Hueella faurii (Hue) Zahlbr. SPECIES
-=======
+# Hueella faurii (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Durella socialis (De Not.) Sacc. SPECIES
-=======
+# Durella socialis (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

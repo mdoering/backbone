@@ -1,17 +1,16 @@
-Veramyces Subram. GENUS
-=======
+# Veramycina Subram. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Czech Mycol. 47(1): 4 (1994)
+Kavaka 20/21(1-2): 58 (1995)
 
 #### Original name
-Veramyces Subram.
+Veramycina Subram.
 
 ### Remarks
 null

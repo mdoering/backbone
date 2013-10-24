@@ -1,5 +1,4 @@
-Plectosphaera kobresiae Wehm., 1963 SPECIES
-=======
+# Plectosphaera kobresiae Wehm., 1963 SPECIES
 
 #### Status
 ACCEPTED

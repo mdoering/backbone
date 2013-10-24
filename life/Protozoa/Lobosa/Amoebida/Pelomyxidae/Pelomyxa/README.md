@@ -1,17 +1,16 @@
-Pelobius Greeff, 1870 GENUS
-=======
+# Pelomyxa Greeff, 1874 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. Ver. Rheinlande, 27, S. B. , 198.
+Arch. mikr. Anat. , Bonn, 10, 51.
 
 #### Original name
-null
+Pelobius Greeff, 1870
 
 ### Remarks
 null

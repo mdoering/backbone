@@ -1,5 +1,4 @@
-Cyclomyces beccarianus SPECIES
-=======
+# Cyclomyces beccarianus SPECIES
 
 #### Status
 ACCEPTED

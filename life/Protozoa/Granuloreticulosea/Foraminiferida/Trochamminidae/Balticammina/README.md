@@ -1,5 +1,4 @@
-Balticammina Brönnimann, Lutze & Whittaker, 1989 GENUS
-=======
+# Balticammina Brönnimann, Lutze & Whittaker, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cetraria nephromoides (Nyl.) D.D. Awasthi SPECIES
-=======
+# Cetraria nephromoides (Nyl.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

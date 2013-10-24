@@ -1,5 +1,4 @@
-Patellina corrugata SPECIES
-=======
+# Patellina corrugata SPECIES
 
 #### Status
 ACCEPTED

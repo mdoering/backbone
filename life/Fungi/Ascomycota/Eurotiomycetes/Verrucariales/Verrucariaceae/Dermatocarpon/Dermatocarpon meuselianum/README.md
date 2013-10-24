@@ -1,5 +1,4 @@
-Dermatocarpon meuselianum C. Schub. & Klem. SPECIES
-=======
+# Dermatocarpon meuselianum C. Schub. & Klem. SPECIES
 
 #### Status
 ACCEPTED

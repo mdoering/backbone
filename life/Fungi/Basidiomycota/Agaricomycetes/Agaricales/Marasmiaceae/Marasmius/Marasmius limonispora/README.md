@@ -1,5 +1,4 @@
-Marasmius limonispora Kauffman SPECIES
-=======
+# Marasmius limonispora Kauffman SPECIES
 
 #### Status
 ACCEPTED

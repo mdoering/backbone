@@ -1,5 +1,4 @@
-Ceratosporium strepsiceras var. strepsiceras VARIETY
-=======
+# Ceratosporium strepsiceras (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 4: 552 (1886)
 
 #### Original name
-Ceratosporium strepsiceras var. strepsiceras
+Triposporium strepsiceras Ces.
 
 ### Remarks
 null

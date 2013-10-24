@@ -1,5 +1,4 @@
-Choanatiara lunata DiCosmo & Nag Raj, 1984 SPECIES
-=======
+# Choanatiara lunata DiCosmo & Nag Raj, 1984 SPECIES
 
 #### Status
 ACCEPTED

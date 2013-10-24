@@ -1,5 +1,4 @@
-Cortinarius pseudoaleuriosmus anon. SPECIES
-=======
+# Cortinarius pseudoaleuriosmus anon. SPECIES
 
 #### Status
 ACCEPTED

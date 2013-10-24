@@ -1,5 +1,4 @@
-Uredo scirpi-corymbosi Doidge SPECIES
-=======
+# Uredo scirpi-corymbosi Doidge SPECIES
 
 #### Status
 ACCEPTED

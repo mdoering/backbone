@@ -1,5 +1,4 @@
-Brauniellula crassitunicata Pacioni & Fogel, 1990 SPECIES
-=======
+# Brauniellula crassitunicata Pacioni & Fogel, 1990 SPECIES
 
 #### Status
 ACCEPTED

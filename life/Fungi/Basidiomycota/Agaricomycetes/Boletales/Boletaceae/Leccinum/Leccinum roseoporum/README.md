@@ -1,5 +1,4 @@
-Leccinum roseoporum Hlavácek SPECIES
-=======
+# Leccinum roseoporum Hlavácek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discoasteroides Bramlette & F.Sullivan, 1961 GENUS
-=======
+# Discoasteroides Bramlette & F.Sullivan, 1961 GENUS
 
 #### Status
 ACCEPTED

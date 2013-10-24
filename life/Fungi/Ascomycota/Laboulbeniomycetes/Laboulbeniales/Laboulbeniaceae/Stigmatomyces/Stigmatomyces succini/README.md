@@ -1,5 +1,4 @@
-Stigmatomyces succini W. Rossi, Kotrba & Triebel SPECIES
-=======
+# Stigmatomyces succini W. Rossi, Kotrba & Triebel SPECIES
 
 #### Status
 ACCEPTED

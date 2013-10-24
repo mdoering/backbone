@@ -1,5 +1,4 @@
-Uredo cassiicola Henn. SPECIES
-=======
+# Uredo cassiicola Henn. SPECIES
 
 #### Status
 ACCEPTED

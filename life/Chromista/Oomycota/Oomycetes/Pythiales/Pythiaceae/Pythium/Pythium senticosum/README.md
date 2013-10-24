@@ -1,5 +1,4 @@
-Pythium senticosum M. Senda SPECIES
-=======
+# Pythium senticosum M. Senda SPECIES
 
 #### Status
 ACCEPTED

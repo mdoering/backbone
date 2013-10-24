@@ -1,5 +1,4 @@
-Lotharingius hauffii Grlin & Zweili in Grün et al., 1974 SPECIES
-=======
+# Lotharingius hauffii Grlin & Zweili in Grün et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

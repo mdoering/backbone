@@ -1,5 +1,4 @@
-Ramaria pupulispora Corner, 1970 SPECIES
-=======
+# Ramaria pupulispora Corner, 1970 SPECIES
 
 #### Status
 ACCEPTED

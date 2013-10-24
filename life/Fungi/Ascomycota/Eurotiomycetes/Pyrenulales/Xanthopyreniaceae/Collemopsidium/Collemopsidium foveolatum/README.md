@@ -1,17 +1,16 @@
-Arthopyrenia foveolata A. L. Sm. SPECIES
-=======
+# Collemopsidium foveolatum (A. L. Sm.) F. Mohr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. 49: 43 (1911)
+null
 
 #### Original name
-Arthopyrenia foveolata A. L. Sm.
+null
 
 ### Remarks
 null

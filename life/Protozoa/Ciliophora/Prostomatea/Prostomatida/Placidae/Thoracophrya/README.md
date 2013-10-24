@@ -1,14 +1,13 @@
-Toracophrya Klein, 1928 GENUS
-=======
+# Thoracophrya Kahl, 1926 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Protistenk. , 62, 236.
+Arch. Protistenk. , 55, 237.
 
 #### Original name
 null

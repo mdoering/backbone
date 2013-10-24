@@ -1,5 +1,4 @@
-Mycosphaerella stephanie Sawada SPECIES
-=======
+# Mycosphaerella stephanie Sawada SPECIES
 
 #### Status
 ACCEPTED

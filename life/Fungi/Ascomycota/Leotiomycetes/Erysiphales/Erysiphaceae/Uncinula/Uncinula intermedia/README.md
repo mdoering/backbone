@@ -1,5 +1,4 @@
-Uncinula intermedia Berk. & M.A. Curtis SPECIES
-=======
+# Uncinula intermedia Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

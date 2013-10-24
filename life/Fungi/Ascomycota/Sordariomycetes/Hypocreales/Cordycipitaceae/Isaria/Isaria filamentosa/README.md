@@ -1,5 +1,4 @@
-Isaria filamentosa Sacc. SPECIES
-=======
+# Isaria filamentosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

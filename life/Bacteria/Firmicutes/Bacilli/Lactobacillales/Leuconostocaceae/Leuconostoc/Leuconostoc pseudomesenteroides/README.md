@@ -1,5 +1,4 @@
-Leuconostoc pseudomesenteroides Farrow et al., 1989 SPECIES
-=======
+# Leuconostoc pseudomesenteroides Farrow et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

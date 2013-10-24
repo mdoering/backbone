@@ -1,5 +1,4 @@
-Mycosphaerella stramenti Crous & Alfenas, 2006 SPECIES
-=======
+# Mycosphaerella stramenti Crous & Alfenas, 2006 SPECIES
 
 #### Status
 ACCEPTED

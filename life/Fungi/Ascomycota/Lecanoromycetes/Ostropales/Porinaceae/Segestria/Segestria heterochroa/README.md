@@ -1,5 +1,4 @@
-Segestria heterochroa (Mont.) Trevis. SPECIES
-=======
+# Segestria heterochroa (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryoderma rostratum Papendorf & H.P. Upadhyay, 1969 SPECIES
-=======
+# Botryoderma rostratum Papendorf & H.P. Upadhyay, 1969 SPECIES
 
 #### Status
 ACCEPTED

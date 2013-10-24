@@ -1,5 +1,4 @@
-Samara obovata Benth. SPECIES
-=======
+# Samara obovata Benth. SPECIES
 
 #### Status
 ACCEPTED

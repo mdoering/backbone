@@ -1,5 +1,4 @@
-Cercospora plantaginis Sacc., 1878 SPECIES
-=======
+# Cercospora plantaginis Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

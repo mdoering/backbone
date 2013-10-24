@@ -1,5 +1,4 @@
-Clathrosphaera spinifera Zalewski SPECIES
-=======
+# Clathrosphaera spinifera Zalewski SPECIES
 
 #### Status
 ACCEPTED

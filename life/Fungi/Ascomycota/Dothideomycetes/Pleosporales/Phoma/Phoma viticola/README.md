@@ -1,5 +1,4 @@
-Phoma viticola SPECIES
-=======
+# Phoma viticola SPECIES
 
 #### Status
 ACCEPTED

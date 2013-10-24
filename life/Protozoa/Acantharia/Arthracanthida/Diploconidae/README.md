@@ -1,5 +1,4 @@
-Diploconidae Haeckel, 1887 FAMILY
-=======
+# Diploconidae Haeckel, 1887 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia comparata Nyl. SPECIES
-=======
+# Parmelia comparata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scleroderma franceschii Macchione, 2000 SPECIES
-=======
+# Scleroderma franceschii Macchione, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Subiculicola ambigua (Speg.) Speg. SPECIES
-=======
+# Subiculicola ambigua (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

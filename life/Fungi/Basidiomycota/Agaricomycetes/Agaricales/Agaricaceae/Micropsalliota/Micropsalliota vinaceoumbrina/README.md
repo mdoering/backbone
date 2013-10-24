@@ -1,5 +1,4 @@
-Micropsalliota vinaceoumbrina (A.H. Sm.) Heinem. SPECIES
-=======
+# Micropsalliota vinaceoumbrina (A.H. Sm.) Heinem. SPECIES
 
 #### Status
 ACCEPTED

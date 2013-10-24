@@ -1,5 +1,4 @@
-Pseudocercospora quisqualidis (Narain & B.S. Mehrotra) Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Pseudocercospora quisqualidis (Narain & B.S. Mehrotra) Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

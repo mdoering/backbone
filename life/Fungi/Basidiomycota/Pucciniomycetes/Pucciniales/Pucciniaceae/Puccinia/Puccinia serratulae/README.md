@@ -1,5 +1,4 @@
-Puccinia serratulae Thüm. SPECIES
-=======
+# Puccinia serratulae Thüm. SPECIES
 
 #### Status
 ACCEPTED

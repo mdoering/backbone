@@ -1,5 +1,4 @@
-Thoracosphaera deflandrei Kamptner, 1956 SPECIES
-=======
+# Thoracosphaera deflandrei Kamptner, 1956 SPECIES
 
 #### Status
 ACCEPTED

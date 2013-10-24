@@ -1,5 +1,4 @@
-Sphaeria jucunda Mont. SPECIES
-=======
+# Sphaeria jucunda Mont. SPECIES
 
 #### Status
 ACCEPTED

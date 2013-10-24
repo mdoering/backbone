@@ -1,5 +1,4 @@
-Fellhanera lambinonii (Sérus.) Lücking & Sérus. SPECIES
-=======
+# Fellhanera lambinonii (Sérus.) Lücking & Sérus. SPECIES
 
 #### Status
 ACCEPTED

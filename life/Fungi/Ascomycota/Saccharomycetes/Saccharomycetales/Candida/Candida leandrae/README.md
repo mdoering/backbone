@@ -1,5 +1,4 @@
-Candida leandrae Ruivo, Pagnocca, Lachance & C.A. Rosa SPECIES
-=======
+# Candida leandrae Ruivo, Pagnocca, Lachance & C.A. Rosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Basauxia pulchra Subram., 1995 SPECIES
-=======
+# Basauxia pulchra Subram., 1995 SPECIES
 
 #### Status
 ACCEPTED

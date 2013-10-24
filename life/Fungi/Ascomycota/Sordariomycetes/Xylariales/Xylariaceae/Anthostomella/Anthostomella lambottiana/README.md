@@ -1,5 +1,4 @@
-Anthostomella lambottiana Fautrey SPECIES
-=======
+# Anthostomella lambottiana Fautrey SPECIES
 
 #### Status
 ACCEPTED

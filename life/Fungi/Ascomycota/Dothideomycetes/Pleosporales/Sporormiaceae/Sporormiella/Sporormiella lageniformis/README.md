@@ -1,17 +1,16 @@
-Preussia ambigua (Niessl) S. Ahmad, 1979 SPECIES
-=======
+# Sporormiella lageniformis (Fuckel) S.I. Ahmed & Cain, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Biol. Soc. Pakistan 8: 47 (1979)
+Can. J. Bot. 50(3): 446 (1972)
 
 #### Original name
-Sporormia ambigua Niessl, 1878
+Sporormia lageniformis Fuckel, 1870
 
 ### Remarks
 null

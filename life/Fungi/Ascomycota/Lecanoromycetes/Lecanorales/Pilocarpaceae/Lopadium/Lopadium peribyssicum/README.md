@@ -1,5 +1,4 @@
-Lopadium peribyssicum (Nyl.) Zahlbr. SPECIES
-=======
+# Lopadium peribyssicum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

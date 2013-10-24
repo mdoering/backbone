@@ -1,5 +1,4 @@
-Ceratium concilians E.G. Jørgensen SPECIES
-=======
+# Ceratium concilians E.G. Jørgensen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora passerinii Sacc. SPECIES
-=======
+# Rhabdospora passerinii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplotrichum subpulvinatum Schwein. SPECIES
-=======
+# Haplotrichum subpulvinatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Gregarina ucae Pearse, 1933 SPECIES
-=======
+# Cephaloidophora ucae (Pearse, 1933) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

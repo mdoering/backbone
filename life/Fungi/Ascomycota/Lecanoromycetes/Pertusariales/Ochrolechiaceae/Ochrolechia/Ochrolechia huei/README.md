@@ -1,5 +1,4 @@
-Ochrolechia huei C.W. Dodge SPECIES
-=======
+# Ochrolechia huei C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema rubi Bat. & J.L. Bezerra SPECIES
-=======
+# Sphaeronaema rubi Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

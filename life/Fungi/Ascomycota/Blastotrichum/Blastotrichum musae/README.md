@@ -1,5 +1,4 @@
-Blastotrichum musae Demelius SPECIES
-=======
+# Blastotrichum musae Demelius SPECIES
 
 #### Status
 ACCEPTED

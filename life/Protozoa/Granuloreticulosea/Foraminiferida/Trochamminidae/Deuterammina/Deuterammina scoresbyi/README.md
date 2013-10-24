@@ -1,5 +1,4 @@
-Deuterammina scoresbyi Brönnimann & Whittaker, 1988 SPECIES
-=======
+# Deuterammina scoresbyi Brönnimann & Whittaker, 1988 SPECIES
 
 #### Status
 ACCEPTED

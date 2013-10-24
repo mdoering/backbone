@@ -1,5 +1,4 @@
-Warnowia reticulata (Kofoid) Schiller, 1933 SPECIES
-=======
+# Warnowia reticulata (Kofoid) Schiller, 1933 SPECIES
 
 #### Status
 ACCEPTED

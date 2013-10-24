@@ -1,5 +1,4 @@
-Crepidotus confertus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus confertus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

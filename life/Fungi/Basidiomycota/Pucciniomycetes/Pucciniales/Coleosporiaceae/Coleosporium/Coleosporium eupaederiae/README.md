@@ -1,5 +1,4 @@
-Coleosporium eupaederiae L. Guo SPECIES
-=======
+# Coleosporium eupaederiae L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia marasmiformis Velen. SPECIES
-=======
+# Collybia marasmiformis Velen. SPECIES
 
 #### Status
 ACCEPTED

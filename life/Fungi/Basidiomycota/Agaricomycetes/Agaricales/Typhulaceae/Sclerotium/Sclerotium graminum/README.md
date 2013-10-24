@@ -1,5 +1,4 @@
-Sclerotium graminum Desm. SPECIES
-=======
+# Sclerotium graminum Desm. SPECIES
 
 #### Status
 ACCEPTED

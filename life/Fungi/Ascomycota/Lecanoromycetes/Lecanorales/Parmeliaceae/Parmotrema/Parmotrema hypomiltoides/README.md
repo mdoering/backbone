@@ -1,5 +1,4 @@
-Parmotrema hypomiltoides (Vain.) Kurok. SPECIES
-=======
+# Parmotrema hypomiltoides (Vain.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

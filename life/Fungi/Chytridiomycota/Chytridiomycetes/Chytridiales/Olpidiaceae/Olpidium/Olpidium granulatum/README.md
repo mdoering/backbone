@@ -1,5 +1,4 @@
-Olpidium granulatum Karling SPECIES
-=======
+# Olpidium granulatum Karling SPECIES
 
 #### Status
 ACCEPTED

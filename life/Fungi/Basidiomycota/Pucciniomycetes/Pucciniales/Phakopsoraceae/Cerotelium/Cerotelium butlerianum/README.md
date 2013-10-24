@@ -1,5 +1,4 @@
-Cerotelium butlerianum Sawada SPECIES
-=======
+# Cerotelium butlerianum Sawada SPECIES
 
 #### Status
 ACCEPTED

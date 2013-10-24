@@ -1,5 +1,4 @@
-Eutypa ontariensis (Ellis & Everh.) L.C. Tiffany & J.C. Gilman SPECIES
-=======
+# Eutypa ontariensis (Ellis & Everh.) L.C. Tiffany & J.C. Gilman SPECIES
 
 #### Status
 ACCEPTED

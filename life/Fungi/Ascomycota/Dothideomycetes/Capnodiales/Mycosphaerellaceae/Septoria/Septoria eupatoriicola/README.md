@@ -1,5 +1,4 @@
-Septoria eupatoriicola Sawada SPECIES
-=======
+# Septoria eupatoriicola Sawada SPECIES
 
 #### Status
 ACCEPTED

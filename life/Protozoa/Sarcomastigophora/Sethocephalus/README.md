@@ -1,5 +1,4 @@
-Sethocephalus Haeckel, 1887 GENUS
-=======
+# Sethocephalus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea oligotheca (Penz. & Sacc.) Sacc. SPECIES
-=======
+# Hypocrea oligotheca (Penz. & Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

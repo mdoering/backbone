@@ -1,14 +1,13 @@
-Laboulbenia endogaea F. Picard, 1917 SPECIES
-=======
+# Scalenomyces endogaeus (F. Picard) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Mem. 9: 313 (1985)
 
 #### Original name
 Laboulbenia endogaea F. Picard, 1917

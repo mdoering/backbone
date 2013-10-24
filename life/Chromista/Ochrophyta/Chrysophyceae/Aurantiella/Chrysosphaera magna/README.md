@@ -1,5 +1,4 @@
-Chrysosphaera magna J.H. Belcher SPECIES
-=======
+# Chrysosphaera magna J.H. Belcher SPECIES
 
 #### Status
 DOUBTFUL

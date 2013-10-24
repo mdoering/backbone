@@ -1,5 +1,4 @@
-Parmelina perisidians (Nyl.) Hale SPECIES
-=======
+# Parmelina perisidians (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

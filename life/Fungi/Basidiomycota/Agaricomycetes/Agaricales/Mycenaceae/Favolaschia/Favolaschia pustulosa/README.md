@@ -1,14 +1,13 @@
-Favolus pustulosus Jungh., 1838 SPECIES
-=======
+# Favolaschia pustulosa (Jungh.) Kuntze, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Praemissa in floram cryptogamicam Javae insulae (Batavia) 73 (1838)
+Revis. gen. pl. (Leipzig) 3(2): 476 (1898)
 
 #### Original name
 Favolus pustulosus Jungh., 1838

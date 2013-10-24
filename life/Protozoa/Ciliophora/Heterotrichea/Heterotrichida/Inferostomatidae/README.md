@@ -1,5 +1,4 @@
-Inferostomatidae FAMILY
-=======
+# Inferostomatidae FAMILY
 
 #### Status
 ACCEPTED

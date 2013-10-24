@@ -1,5 +1,4 @@
-Luminella Kofoid & Campbell, 1939 GENUS
-=======
+# Luminella Kofoid & Campbell, 1939 GENUS
 
 #### Status
 ACCEPTED

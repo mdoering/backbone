@@ -1,5 +1,4 @@
-Cercospora podophylli Tehon & E.Y. Daniels SPECIES
-=======
+# Cercospora podophylli Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Opercularia asellicola subsp. asellicola SUBSPECIES
-=======
+# Opercularia asellicola Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

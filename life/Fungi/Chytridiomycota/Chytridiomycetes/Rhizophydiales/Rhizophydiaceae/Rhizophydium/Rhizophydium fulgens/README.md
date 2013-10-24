@@ -1,5 +1,4 @@
-Rhizophydium fulgens Canter SPECIES
-=======
+# Rhizophydium fulgens Canter SPECIES
 
 #### Status
 ACCEPTED

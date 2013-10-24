@@ -1,5 +1,4 @@
-Pyrenotea incrustans (Ach.) Fr. SPECIES
-=======
+# Pyrenotea incrustans (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

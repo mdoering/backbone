@@ -1,5 +1,4 @@
-Trichodina vancouverense Laird, 1961 SPECIES
-=======
+# Trichodina vancouverense Laird, 1961 SPECIES
 
 #### Status
 ACCEPTED

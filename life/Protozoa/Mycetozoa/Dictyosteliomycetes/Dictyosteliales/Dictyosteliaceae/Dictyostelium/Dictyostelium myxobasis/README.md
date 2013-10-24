@@ -1,5 +1,4 @@
-Dictyostelium myxobasis Cavender, Vadell, J.C. Landolt & S.L. Stephenson SPECIES
-=======
+# Dictyostelium myxobasis Cavender, Vadell, J.C. Landolt & S.L. Stephenson SPECIES
 
 #### Status
 ACCEPTED

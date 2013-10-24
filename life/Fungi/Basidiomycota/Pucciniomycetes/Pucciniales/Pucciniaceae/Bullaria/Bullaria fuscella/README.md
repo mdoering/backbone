@@ -1,5 +1,4 @@
-Bullaria fuscella (Arthur & J.R. Johnst.) Arthur & Mains SPECIES
-=======
+# Bullaria fuscella (Arthur & J.R. Johnst.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

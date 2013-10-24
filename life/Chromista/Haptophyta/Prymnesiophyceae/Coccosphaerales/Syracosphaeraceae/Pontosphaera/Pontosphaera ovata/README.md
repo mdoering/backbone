@@ -1,5 +1,4 @@
-Pontosphaera ovata (H.L. Levin & A.P. Joerger) F. Proto Decima, F. Medizza & L. Todesco SPECIES
-=======
+# Pontosphaera ovata (H.L. Levin & A.P. Joerger) F. Proto Decima, F. Medizza & L. Todesco SPECIES
 
 #### Status
 ACCEPTED

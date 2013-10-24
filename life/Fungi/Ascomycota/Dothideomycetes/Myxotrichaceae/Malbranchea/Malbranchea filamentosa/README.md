@@ -1,5 +1,4 @@
-Malbranchea filamentosa Sigler & J.W. Carmich., 1982 SPECIES
-=======
+# Malbranchea filamentosa Sigler & J.W. Carmich., 1982 SPECIES
 
 #### Status
 ACCEPTED

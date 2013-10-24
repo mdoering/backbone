@@ -1,5 +1,4 @@
-Lecanora halophaea Ach. SPECIES
-=======
+# Lecanora halophaea Ach. SPECIES
 
 #### Status
 ACCEPTED

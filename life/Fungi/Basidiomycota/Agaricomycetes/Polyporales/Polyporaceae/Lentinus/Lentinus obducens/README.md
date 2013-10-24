@@ -1,5 +1,4 @@
-Lentinus obducens (Pat.) Henn. SPECIES
-=======
+# Lentinus obducens (Pat.) Henn. SPECIES
 
 #### Status
 ACCEPTED

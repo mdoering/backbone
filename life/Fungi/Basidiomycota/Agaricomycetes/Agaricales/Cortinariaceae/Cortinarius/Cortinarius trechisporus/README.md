@@ -1,5 +1,4 @@
-Cortinarius trechisporus E. Horak SPECIES
-=======
+# Cortinarius trechisporus E. Horak SPECIES
 
 #### Status
 ACCEPTED

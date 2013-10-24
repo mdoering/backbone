@@ -1,5 +1,4 @@
-Multiplicisphaeridium oblatum Sheshegova, 1984 SPECIES
-=======
+# Multiplicisphaeridium oblatum Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

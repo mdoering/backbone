@@ -1,8 +1,7 @@
-Thermobacteroides proteolyticus Ollivier et al., 1985 SPECIES
-=======
+# Coprothermobacter proteolyticus (Ollivier et al., 1985) Rainey & Stackebrandt, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Helotium herbicola P. Karst. SPECIES
-=======
+# Helotium herbicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

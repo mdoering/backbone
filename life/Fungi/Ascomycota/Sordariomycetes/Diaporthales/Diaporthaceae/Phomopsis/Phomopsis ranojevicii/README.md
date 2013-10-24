@@ -1,5 +1,4 @@
-Phomopsis ranojevicii Bubák, 1910 SPECIES
-=======
+# Phomopsis ranojevicii Bubák, 1910 SPECIES
 
 #### Status
 ACCEPTED

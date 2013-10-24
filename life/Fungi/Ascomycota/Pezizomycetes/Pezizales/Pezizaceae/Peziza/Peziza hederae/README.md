@@ -1,5 +1,4 @@
-Peziza hederae Lib. SPECIES
-=======
+# Peziza hederae Lib. SPECIES
 
 #### Status
 ACCEPTED

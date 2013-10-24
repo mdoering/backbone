@@ -1,5 +1,4 @@
-Humaria aurantionigra (Saut.) Sacc. SPECIES
-=======
+# Humaria aurantionigra (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

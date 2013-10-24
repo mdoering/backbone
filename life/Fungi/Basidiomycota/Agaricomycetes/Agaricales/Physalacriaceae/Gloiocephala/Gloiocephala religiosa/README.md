@@ -1,5 +1,4 @@
-Gloiocephala religiosa Singer SPECIES
-=======
+# Gloiocephala religiosa Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces mulgedii Lindr. SPECIES
-=======
+# Uromyces mulgedii Lindr. SPECIES
 
 #### Status
 ACCEPTED

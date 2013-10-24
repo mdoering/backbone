@@ -1,5 +1,4 @@
-Biala J. Schiller, 1926 GENUS
-=======
+# Biala J. Schiller, 1926 GENUS
 
 #### Status
 ACCEPTED

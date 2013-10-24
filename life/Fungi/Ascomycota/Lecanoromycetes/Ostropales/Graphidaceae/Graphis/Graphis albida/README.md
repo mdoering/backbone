@@ -1,5 +1,4 @@
-Graphis albida Vain. SPECIES
-=======
+# Graphis albida Vain. SPECIES
 
 #### Status
 ACCEPTED

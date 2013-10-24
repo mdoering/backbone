@@ -1,5 +1,4 @@
-Ruesticyrtium latidentatum SPECIES
-=======
+# Ruesticyrtium latidentatum SPECIES
 
 #### Status
 ACCEPTED

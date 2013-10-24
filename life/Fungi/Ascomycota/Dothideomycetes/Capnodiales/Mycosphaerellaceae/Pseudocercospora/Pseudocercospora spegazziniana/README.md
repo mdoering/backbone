@@ -1,5 +1,4 @@
-Pseudocercospora spegazziniana U. Braun SPECIES
-=======
+# Pseudocercospora spegazziniana U. Braun SPECIES
 
 #### Status
 ACCEPTED

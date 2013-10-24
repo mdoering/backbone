@@ -1,5 +1,4 @@
-Saprodinium mimeticum subsp. mimeticum SUBSPECIES
-=======
+# Saprodinium mimeticum Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

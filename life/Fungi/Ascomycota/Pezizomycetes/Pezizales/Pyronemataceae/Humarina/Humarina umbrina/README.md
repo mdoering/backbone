@@ -1,5 +1,4 @@
-Humarina umbrina E.K. Cash SPECIES
-=======
+# Humarina umbrina E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

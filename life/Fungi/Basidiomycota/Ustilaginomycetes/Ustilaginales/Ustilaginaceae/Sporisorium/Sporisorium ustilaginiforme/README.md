@@ -1,5 +1,4 @@
-Sporisorium ustilaginiforme Vánky SPECIES
-=======
+# Sporisorium ustilaginiforme Vánky SPECIES
 
 #### Status
 ACCEPTED

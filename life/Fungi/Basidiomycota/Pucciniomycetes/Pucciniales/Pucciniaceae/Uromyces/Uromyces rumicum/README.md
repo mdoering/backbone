@@ -1,5 +1,4 @@
-Uromyces rumicum Lév. SPECIES
-=======
+# Uromyces rumicum Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orchitophrya stellarum Cépède, 1907 SPECIES
-=======
+# Orchitophrya stellarum Cépède, 1907 SPECIES
 
 #### Status
 ACCEPTED

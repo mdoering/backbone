@@ -1,5 +1,4 @@
-Lewia intercepta E.G. Simmons & McKemy, 2002 SPECIES
-=======
+# Lewia intercepta E.G. Simmons & McKemy, 2002 SPECIES
 
 #### Status
 ACCEPTED

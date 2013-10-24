@@ -1,5 +1,4 @@
-Gansserina Robaszynski, Caron, Gonzalez Donoso & Wonders, 1984 GENUS
-=======
+# Gansserina Robaszynski, Caron, Gonzalez Donoso & Wonders, 1984 GENUS
 
 #### Status
 ACCEPTED

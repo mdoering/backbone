@@ -1,5 +1,4 @@
-Actinothyrium ingae Bat. SPECIES
-=======
+# Actinothyrium ingae Bat. SPECIES
 
 #### Status
 ACCEPTED

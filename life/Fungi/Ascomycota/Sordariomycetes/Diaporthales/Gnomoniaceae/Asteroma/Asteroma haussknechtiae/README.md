@@ -1,5 +1,4 @@
-Asteroma haussknechtiae Cooke SPECIES
-=======
+# Asteroma haussknechtiae Cooke SPECIES
 
 #### Status
 ACCEPTED

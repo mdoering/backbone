@@ -1,5 +1,4 @@
-Teloschistes modestus (Zahlbr.) Fink SPECIES
-=======
+# Teloschistes modestus (Zahlbr.) Fink SPECIES
 
 #### Status
 ACCEPTED

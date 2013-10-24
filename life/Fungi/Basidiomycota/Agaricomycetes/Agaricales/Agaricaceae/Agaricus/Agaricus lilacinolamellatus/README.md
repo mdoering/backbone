@@ -1,5 +1,4 @@
-Agaricus lilacinolamellatus Britzelm. SPECIES
-=======
+# Agaricus lilacinolamellatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

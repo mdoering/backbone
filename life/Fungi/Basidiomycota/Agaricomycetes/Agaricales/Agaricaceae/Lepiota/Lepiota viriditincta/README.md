@@ -1,5 +1,4 @@
-Lepiota viriditincta (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota viriditincta (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

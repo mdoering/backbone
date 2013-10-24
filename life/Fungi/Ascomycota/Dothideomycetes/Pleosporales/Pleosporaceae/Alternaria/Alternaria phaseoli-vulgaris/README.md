@@ -1,5 +1,4 @@
-Alternaria phaseoli-vulgaris Sawada SPECIES
-=======
+# Alternaria phaseoli-vulgaris Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiosoma olae SPECIES
-=======
+# Apiosoma olae SPECIES
 
 #### Status
 ACCEPTED

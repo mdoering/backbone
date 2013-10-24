@@ -1,5 +1,4 @@
-Puccinia mirandensis F. Kern & Thurst. SPECIES
-=======
+# Puccinia mirandensis F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

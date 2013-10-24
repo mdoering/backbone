@@ -1,17 +1,16 @@
-Nolanea brassiciolens D.A. Reid SPECIES
-=======
+# Entoloma brassicolens (D.A. Reid) Noordel., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 11(2): 229 (1981)
 
 #### Original name
-Nolanea brassiciolens D.A. Reid
+Nolanea brassicolens D.A. Reid, 1965
 
 ### Remarks
 null

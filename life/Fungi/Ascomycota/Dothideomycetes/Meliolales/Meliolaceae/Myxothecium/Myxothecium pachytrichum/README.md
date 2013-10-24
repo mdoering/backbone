@@ -1,5 +1,4 @@
-Myxothecium pachytrichum Link ex Fr. SPECIES
-=======
+# Myxothecium pachytrichum Link ex Fr. SPECIES
 
 #### Status
 ACCEPTED

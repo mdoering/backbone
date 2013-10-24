@@ -1,5 +1,4 @@
-Asterina scaberrima Syd. SPECIES
-=======
+# Asterina scaberrima Syd. SPECIES
 
 #### Status
 ACCEPTED

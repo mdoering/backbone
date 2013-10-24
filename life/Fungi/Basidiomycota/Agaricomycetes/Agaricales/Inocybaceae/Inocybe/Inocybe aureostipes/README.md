@@ -1,5 +1,4 @@
-Inocybe aureostipes Kobayasi SPECIES
-=======
+# Inocybe aureostipes Kobayasi SPECIES
 
 #### Status
 ACCEPTED

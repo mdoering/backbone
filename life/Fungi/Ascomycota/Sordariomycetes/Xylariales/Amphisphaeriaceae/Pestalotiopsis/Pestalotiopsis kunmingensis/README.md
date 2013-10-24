@@ -1,5 +1,4 @@
-Pestalotiopsis kunmingensis J.G. Wei & T. Xu SPECIES
-=======
+# Pestalotiopsis kunmingensis J.G. Wei & T. Xu SPECIES
 
 #### Status
 ACCEPTED

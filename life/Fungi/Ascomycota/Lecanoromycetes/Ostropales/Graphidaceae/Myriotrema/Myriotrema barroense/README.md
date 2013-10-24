@@ -1,5 +1,4 @@
-Myriotrema barroense (Hale) Hale SPECIES
-=======
+# Myriotrema barroense (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

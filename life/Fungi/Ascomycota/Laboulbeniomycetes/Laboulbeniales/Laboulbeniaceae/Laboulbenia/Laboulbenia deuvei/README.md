@@ -1,5 +1,4 @@
-Laboulbenia deuvei Balazuc SPECIES
-=======
+# Laboulbenia deuvei Balazuc SPECIES
 
 #### Status
 ACCEPTED

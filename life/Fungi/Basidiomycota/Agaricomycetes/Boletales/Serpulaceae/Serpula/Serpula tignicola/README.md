@@ -1,14 +1,13 @@
-Serpula minor (Falck) Bondartsev, 1956 SPECIES
-=======
+# Serpula tignicola (Harmsen) M.P. Christ., 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Manual ident. rot fungi 43 (1956)
+Dansk bot. Ark. 19(no. 2): 323 (1960)
 
 #### Original name
 null

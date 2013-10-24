@@ -1,5 +1,4 @@
-Cyphella tiliae (Peck) Cooke SPECIES
-=======
+# Cyphella tiliae (Peck) Cooke SPECIES
 
 #### Status
 ACCEPTED

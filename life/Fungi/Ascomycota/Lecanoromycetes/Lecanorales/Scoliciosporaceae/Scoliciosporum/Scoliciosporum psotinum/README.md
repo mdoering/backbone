@@ -1,5 +1,4 @@
-Scoliciosporum psotinum (Fr.) Arnold SPECIES
-=======
+# Scoliciosporum psotinum (Fr.) Arnold SPECIES
 
 #### Status
 ACCEPTED

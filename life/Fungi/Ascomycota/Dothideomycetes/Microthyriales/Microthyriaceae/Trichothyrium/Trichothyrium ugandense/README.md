@@ -1,5 +1,4 @@
-Trichothyrium ugandense (Hansf.) S. Hughes SPECIES
-=======
+# Trichothyrium ugandense (Hansf.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

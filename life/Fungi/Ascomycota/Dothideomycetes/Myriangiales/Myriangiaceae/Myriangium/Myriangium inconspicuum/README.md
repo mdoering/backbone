@@ -1,5 +1,4 @@
-Myriangium inconspicuum C. Bab. SPECIES
-=======
+# Myriangium inconspicuum C. Bab. SPECIES
 
 #### Status
 ACCEPTED

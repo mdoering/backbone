@@ -1,5 +1,4 @@
-Amanita persoonii (Fr.) Sacc. SPECIES
-=======
+# Amanita persoonii (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

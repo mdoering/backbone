@@ -1,5 +1,4 @@
-Epithyrium fuscoatrum (Died.) Sacc. SPECIES
-=======
+# Epithyrium fuscoatrum (Died.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

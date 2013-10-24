@@ -1,5 +1,4 @@
-Didymosphaeria aggregata Panwar & S.J. Kaur SPECIES
-=======
+# Didymosphaeria aggregata Panwar & S.J. Kaur SPECIES
 
 #### Status
 ACCEPTED

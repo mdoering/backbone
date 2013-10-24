@@ -1,5 +1,4 @@
-Endocarpon subscabridulum (Nyl.) Nyl. SPECIES
-=======
+# Endocarpon subscabridulum (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

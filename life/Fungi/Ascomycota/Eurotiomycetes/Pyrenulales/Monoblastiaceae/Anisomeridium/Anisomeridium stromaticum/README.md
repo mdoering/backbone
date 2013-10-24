@@ -1,5 +1,4 @@
-Anisomeridium stromaticum R. C. Harris SPECIES
-=======
+# Anisomeridium stromaticum R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

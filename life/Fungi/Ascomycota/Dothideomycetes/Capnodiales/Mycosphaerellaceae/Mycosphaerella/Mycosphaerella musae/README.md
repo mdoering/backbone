@@ -1,14 +1,13 @@
-Sphaerella musae Speg., 1909 SPECIES
-=======
+# Mycosphaerella musae (Speg.) Syd. & P. Syd., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 3 19(12): 354 (1909)
+Annls mycol. 15(3/4): 206 (1917)
 
 #### Original name
 Sphaerella musae Speg., 1909

@@ -1,5 +1,4 @@
-Pseudolpidium stellatum Sawada SPECIES
-=======
+# Pseudolpidium stellatum Sawada SPECIES
 
 #### Status
 ACCEPTED

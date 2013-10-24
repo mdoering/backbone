@@ -1,5 +1,4 @@
-Myxofusicoccum platani Petr. SPECIES
-=======
+# Myxofusicoccum platani Petr. SPECIES
 
 #### Status
 ACCEPTED

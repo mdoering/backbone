@@ -1,5 +1,4 @@
-Agaricus mollicellus Britzelm. SPECIES
-=======
+# Agaricus mollicellus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

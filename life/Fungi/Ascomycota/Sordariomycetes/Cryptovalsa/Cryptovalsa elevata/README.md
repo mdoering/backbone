@@ -1,14 +1,13 @@
-Diatrype elevata (Berk.) Berk. & Broome, 1859 SPECIES
-=======
+# Cryptovalsa elevata (Berk.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 191 (1882)
 
 #### Original name
 Sphaeria elevata Berk., 1845

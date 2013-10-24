@@ -1,17 +1,16 @@
-Erysiphe cynoglossi var. cynoglossi VARIETY
-=======
+# Golovinomyces cynoglossi (Wallr.) V.P. Heluta, 1988 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 15: 136 (1982)
+Ukr. bot. Zh. 45(5): 62 (1988)
 
 #### Original name
-Erysiphe cynoglossi var. cynoglossi
+Alphitomorpha cynoglossi Wallr., 1819
 
 ### Remarks
 null

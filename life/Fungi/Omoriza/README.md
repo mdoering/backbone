@@ -1,5 +1,4 @@
-Omoriza Paulet GENUS
-=======
+# Omoriza Paulet GENUS
 
 #### Status
 ACCEPTED

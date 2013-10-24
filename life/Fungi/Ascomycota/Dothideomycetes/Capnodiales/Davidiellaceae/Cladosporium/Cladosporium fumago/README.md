@@ -1,5 +1,4 @@
-Cladosporium fumago var. fumago VARIETY
-=======
+# Cladosporium fumago Link SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Willdenow, Willd. , Sp. pl. , Edn 4 6(1): 40 (1824)
 
 #### Original name
-Cladosporium fumago var. fumago
+Cladosporium fumago Link
 
 ### Remarks
 null

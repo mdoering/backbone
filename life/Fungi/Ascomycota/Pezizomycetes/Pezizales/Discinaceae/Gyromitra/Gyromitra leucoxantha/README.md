@@ -1,17 +1,16 @@
-Discina leucoxantha var. leucoxantha Bres. VARIETY
-=======
+# Gyromitra leucoxantha (Bres.) Harmaja, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Karstenia 9: 11 (1969)
 
 #### Original name
-Discina leucoxantha var. leucoxantha Bres.
+Discina leucoxantha Bres., 1882
 
 ### Remarks
 null

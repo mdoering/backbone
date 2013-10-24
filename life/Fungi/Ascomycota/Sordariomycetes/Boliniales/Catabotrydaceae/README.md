@@ -1,5 +1,4 @@
-Catabotrydaceae Petr. FAMILY
-=======
+# Catabotrydaceae Petr. FAMILY
 
 #### Status
 ACCEPTED

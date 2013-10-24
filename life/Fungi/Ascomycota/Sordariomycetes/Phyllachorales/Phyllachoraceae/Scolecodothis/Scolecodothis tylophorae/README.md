@@ -1,5 +1,4 @@
-Scolecodothis tylophorae Tend. SPECIES
-=======
+# Scolecodothis tylophorae Tend. SPECIES
 
 #### Status
 ACCEPTED

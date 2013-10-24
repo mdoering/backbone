@@ -1,5 +1,4 @@
-Phyllosticta chlorospora McAlpine SPECIES
-=======
+# Phyllosticta chlorospora McAlpine SPECIES
 
 #### Status
 ACCEPTED

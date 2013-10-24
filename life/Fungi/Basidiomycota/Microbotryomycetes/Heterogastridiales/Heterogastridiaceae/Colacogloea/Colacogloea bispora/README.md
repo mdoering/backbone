@@ -1,14 +1,13 @@
-Platygloea bispora Hauerslev, 1987 SPECIES
-=======
+# Colacogloea bispora (Hauerslev) Oberw. & R. Bauer, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Friesia 11(5): 331 (1987)
+Kew Bull. 54(3): 764 (1999)
 
 #### Original name
 Platygloea bispora Hauerslev, 1987

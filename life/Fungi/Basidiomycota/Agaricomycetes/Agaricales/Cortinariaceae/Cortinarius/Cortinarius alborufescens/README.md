@@ -1,5 +1,4 @@
-Cortinarius alborufescens Imler SPECIES
-=======
+# Cortinarius alborufescens Imler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodinium expansum Kofoid, 1907 SPECIES
-=======
+# Heterodinium expansum Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

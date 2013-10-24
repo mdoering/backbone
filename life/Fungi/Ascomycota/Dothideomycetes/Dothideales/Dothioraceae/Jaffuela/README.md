@@ -1,5 +1,4 @@
-Jaffuela Speg. GENUS
-=======
+# Jaffuela Speg. GENUS
 
 #### Status
 ACCEPTED

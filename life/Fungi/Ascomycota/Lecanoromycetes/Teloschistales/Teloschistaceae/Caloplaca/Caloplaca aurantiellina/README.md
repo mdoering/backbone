@@ -1,5 +1,4 @@
-Caloplaca aurantiellina Harm. SPECIES
-=======
+# Caloplaca aurantiellina Harm. SPECIES
 
 #### Status
 ACCEPTED

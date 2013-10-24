@@ -1,5 +1,4 @@
-Teichospora symphoricarpi (Tracy & Earle) Sacc. SPECIES
-=======
+# Teichospora symphoricarpi (Tracy & Earle) Sacc. SPECIES
 
 #### Status
 ACCEPTED

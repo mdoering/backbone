@@ -1,5 +1,4 @@
-Verticicladium acicola Jaap SPECIES
-=======
+# Verticicladium acicola Jaap SPECIES
 
 #### Status
 ACCEPTED

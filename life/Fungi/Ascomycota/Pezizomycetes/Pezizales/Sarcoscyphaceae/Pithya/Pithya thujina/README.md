@@ -1,5 +1,4 @@
-Pithya thujina Peck SPECIES
-=======
+# Pithya thujina Peck SPECIES
 
 #### Status
 ACCEPTED

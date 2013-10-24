@@ -1,17 +1,16 @@
-Leptogium pusillum var. pusillum Nyl. VARIETY
-=======
+# Leptogium biatorinum (Nyl.) Leight. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Fl. Great Brit. , Edn 3 25 (1879)
 
 #### Original name
-Leptogium pusillum var. pusillum Nyl.
+Collema biatorinum Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hygrophorus pertractus Britzelm. SPECIES
-=======
+# Hygrophorus pertractus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

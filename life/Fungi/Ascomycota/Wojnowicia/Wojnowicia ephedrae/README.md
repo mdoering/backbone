@@ -1,5 +1,4 @@
-Wojnowicia ephedrae Hollós SPECIES
-=======
+# Wojnowicia ephedrae Hollós SPECIES
 
 #### Status
 ACCEPTED

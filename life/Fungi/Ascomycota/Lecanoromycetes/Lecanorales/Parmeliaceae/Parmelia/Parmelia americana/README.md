@@ -1,5 +1,4 @@
-Parmelia americana var. americana VARIETY
-=======
+# Parmelia americana Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia americana var. americana
+Parmelia americana Meyen & Flot.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hypoxylon wrightii Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon wrightii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroodiscus himalayanus Nayaka & Upreti SPECIES
-=======
+# Chroodiscus himalayanus Nayaka & Upreti SPECIES
 
 #### Status
 ACCEPTED

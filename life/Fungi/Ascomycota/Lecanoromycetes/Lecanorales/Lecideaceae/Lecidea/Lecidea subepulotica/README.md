@@ -1,5 +1,4 @@
-Lecidea subepulotica Nyl. SPECIES
-=======
+# Lecidea subepulotica Nyl. SPECIES
 
 #### Status
 ACCEPTED

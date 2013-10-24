@@ -1,8 +1,7 @@
-Calothrix radiosa Schiedermann SPECIES
-=======
+# Plectonema radiosum (Schiedermann) Gomont SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

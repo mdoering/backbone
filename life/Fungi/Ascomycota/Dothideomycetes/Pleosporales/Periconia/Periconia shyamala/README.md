@@ -1,5 +1,4 @@
-Periconia shyamala A.K. Roy, 1965 SPECIES
-=======
+# Periconia shyamala A.K. Roy, 1965 SPECIES
 
 #### Status
 ACCEPTED

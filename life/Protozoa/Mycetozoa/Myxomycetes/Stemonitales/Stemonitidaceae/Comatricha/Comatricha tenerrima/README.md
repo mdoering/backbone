@@ -1,14 +1,13 @@
-Comatricha persoonii var. tenerrima (Berk. & M.A. Curtis) Lister VARIETY
-=======
+# Comatricha tenerrima (M.A. Curtis) G. Lister, 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Mycetozoa (London) 122 (1894)
+Guide to British Mycetozoa (London), Edn 4 39 (1919)
 
 #### Original name
 Stemonitis tenerrima M.A. Curtis, 1848

@@ -1,5 +1,4 @@
-Pleomeris sessilis (W.G. Schneid.) Syd. SPECIES
-=======
+# Pleomeris sessilis (W.G. Schneid.) Syd. SPECIES
 
 #### Status
 ACCEPTED

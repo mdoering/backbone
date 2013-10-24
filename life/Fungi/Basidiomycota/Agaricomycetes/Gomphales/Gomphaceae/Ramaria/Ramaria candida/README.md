@@ -1,5 +1,4 @@
-Ramaria candida Corner, 1970 SPECIES
-=======
+# Ramaria candida Corner, 1970 SPECIES
 
 #### Status
 ACCEPTED

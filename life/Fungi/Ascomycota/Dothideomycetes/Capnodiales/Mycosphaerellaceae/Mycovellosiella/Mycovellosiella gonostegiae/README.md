@@ -1,5 +1,4 @@
-Mycovellosiella gonostegiae Goh & W.H. Hsieh SPECIES
-=======
+# Mycovellosiella gonostegiae Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

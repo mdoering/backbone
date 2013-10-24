@@ -1,5 +1,4 @@
-Heterosphaeria veratri Nespiak & E. Müll., 1977 SPECIES
-=======
+# Heterosphaeria veratri Nespiak & E. Müll., 1977 SPECIES
 
 #### Status
 ACCEPTED

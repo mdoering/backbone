@@ -1,8 +1,7 @@
-Verrucaria nuculastrum (Müll. Arg.) Stizenb., 1891 SPECIES
-=======
+# Porina nuculastrum (Müll. Arg.) R.C. Harris, 1995 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

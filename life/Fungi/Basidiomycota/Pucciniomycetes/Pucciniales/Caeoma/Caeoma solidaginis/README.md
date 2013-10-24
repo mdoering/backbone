@@ -1,5 +1,4 @@
-Caeoma solidaginis Sommerf. SPECIES
-=======
+# Caeoma solidaginis Sommerf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella conglomerata (G. Winter) Hansf. SPECIES
-=======
+# Asteridiella conglomerata (G. Winter) Hansf. SPECIES
 
 #### Status
 ACCEPTED

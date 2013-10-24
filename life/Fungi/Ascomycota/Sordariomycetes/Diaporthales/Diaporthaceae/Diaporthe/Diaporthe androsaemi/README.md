@@ -1,5 +1,4 @@
-Diaporthe androsaemi Feltgen SPECIES
-=======
+# Diaporthe androsaemi Feltgen SPECIES
 
 #### Status
 ACCEPTED

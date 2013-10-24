@@ -1,5 +1,4 @@
-Astragoxyphium catalpae Bat., Nascim. & Cif. SPECIES
-=======
+# Astragoxyphium catalpae Bat., Nascim. & Cif. SPECIES
 
 #### Status
 ACCEPTED

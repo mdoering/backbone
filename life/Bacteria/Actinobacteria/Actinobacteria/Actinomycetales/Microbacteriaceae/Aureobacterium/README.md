@@ -1,5 +1,4 @@
-Aureobacterium Collins et al., 1983 GENUS
-=======
+# Aureobacterium Collins et al., 1983 GENUS
 
 #### Status
 ACCEPTED

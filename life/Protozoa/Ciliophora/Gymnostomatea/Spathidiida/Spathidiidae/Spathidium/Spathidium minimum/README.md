@@ -1,5 +1,4 @@
-Spathidium minimum Dumas SPECIES
-=======
+# Spathidium minimum Dumas SPECIES
 
 #### Status
 ACCEPTED

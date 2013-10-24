@@ -1,5 +1,4 @@
-Niptera macromitrii Henn. SPECIES
-=======
+# Niptera macromitrii Henn. SPECIES
 
 #### Status
 ACCEPTED

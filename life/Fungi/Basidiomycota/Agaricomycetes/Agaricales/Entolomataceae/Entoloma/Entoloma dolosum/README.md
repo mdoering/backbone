@@ -1,5 +1,4 @@
-Entoloma dolosum Noordel. & Wölfel SPECIES
-=======
+# Entoloma dolosum Noordel. & Wölfel SPECIES
 
 #### Status
 ACCEPTED

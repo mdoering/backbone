@@ -1,5 +1,4 @@
-Tylopilus bulbosus Halling & G.M. Muell. SPECIES
-=======
+# Tylopilus bulbosus Halling & G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

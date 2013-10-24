@@ -1,5 +1,4 @@
-Sphaeria gregalis Schwein. SPECIES
-=======
+# Sphaeria gregalis Schwein. SPECIES
 
 #### Status
 ACCEPTED

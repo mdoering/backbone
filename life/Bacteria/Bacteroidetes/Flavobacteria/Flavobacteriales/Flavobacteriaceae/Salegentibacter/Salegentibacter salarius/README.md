@@ -1,5 +1,4 @@
-Salegentibacter salarius Yoon, Jung, Kang, Jung & Oh, 2007 SPECIES
-=======
+# Salegentibacter salarius Yoon, Jung, Kang, Jung & Oh, 2007 SPECIES
 
 #### Status
 ACCEPTED

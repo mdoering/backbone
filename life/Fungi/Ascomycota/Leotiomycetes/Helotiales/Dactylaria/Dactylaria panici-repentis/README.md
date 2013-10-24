@@ -1,5 +1,4 @@
-Dactylaria panici-repentis Sawada SPECIES
-=======
+# Dactylaria panici-repentis Sawada SPECIES
 
 #### Status
 ACCEPTED

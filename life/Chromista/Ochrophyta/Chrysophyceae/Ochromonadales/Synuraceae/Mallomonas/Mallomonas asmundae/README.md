@@ -1,5 +1,4 @@
-Mallomonas asmundae SPECIES
-=======
+# Mallomonas asmundae SPECIES
 
 #### Status
 ACCEPTED

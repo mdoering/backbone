@@ -1,5 +1,4 @@
-Sclerotinia vesicaria Giesenh. SPECIES
-=======
+# Sclerotinia vesicaria Giesenh. SPECIES
 
 #### Status
 ACCEPTED

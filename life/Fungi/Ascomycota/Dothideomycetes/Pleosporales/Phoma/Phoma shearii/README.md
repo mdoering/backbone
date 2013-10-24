@@ -1,5 +1,4 @@
-Phoma shearii Sacc. & Trotter SPECIES
-=======
+# Phoma shearii Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

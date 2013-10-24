@@ -1,5 +1,4 @@
-Cosmospora macrochaetopsinae (Samuels) Rossman & Samuels SPECIES
-=======
+# Cosmospora macrochaetopsinae (Samuels) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

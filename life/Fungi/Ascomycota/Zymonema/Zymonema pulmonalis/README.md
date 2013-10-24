@@ -1,5 +1,4 @@
-Zymonema pulmonalis C. Martins SPECIES
-=======
+# Zymonema pulmonalis C. Martins SPECIES
 
 #### Status
 ACCEPTED

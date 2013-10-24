@@ -1,5 +1,4 @@
-Mycocentrospora buteicola Kamal SPECIES
-=======
+# Mycocentrospora buteicola Kamal SPECIES
 
 #### Status
 ACCEPTED

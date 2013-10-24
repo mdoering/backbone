@@ -1,5 +1,4 @@
-Coelomomyces thailandensis Couch, D. Gould & Hembree SPECIES
-=======
+# Coelomomyces thailandensis Couch, D. Gould & Hembree SPECIES
 
 #### Status
 ACCEPTED

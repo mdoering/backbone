@@ -1,5 +1,4 @@
-Oscillatoria bonnemansonii (P. Crouan & H.Crouan) P. Crouan & H. Crouan SPECIES
-=======
+# Oscillatoria bonnemansonii (P. Crouan & H.Crouan) P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

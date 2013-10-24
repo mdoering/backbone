@@ -1,5 +1,4 @@
-Dictyocha lamellifera Z. I. Glezer SPECIES
-=======
+# Dictyocha lamellifera Z. I. Glezer SPECIES
 
 #### Status
 ACCEPTED

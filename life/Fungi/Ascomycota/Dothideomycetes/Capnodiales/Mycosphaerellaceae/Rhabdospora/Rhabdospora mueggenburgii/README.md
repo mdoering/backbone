@@ -1,5 +1,4 @@
-Rhabdospora mueggenburgii (Pirotta) Sacc. SPECIES
-=======
+# Rhabdospora mueggenburgii (Pirotta) Sacc. SPECIES
 
 #### Status
 ACCEPTED

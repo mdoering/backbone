@@ -1,5 +1,4 @@
-Euglypha elongata Leidy SPECIES
-=======
+# Euglypha elongata Leidy SPECIES
 
 #### Status
 ACCEPTED

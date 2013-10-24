@@ -1,5 +1,4 @@
-Uredo rangelii J.A. Simpson, K. Thomas & Grgur. SPECIES
-=======
+# Uredo rangelii J.A. Simpson, K. Thomas & Grgur. SPECIES
 
 #### Status
 ACCEPTED

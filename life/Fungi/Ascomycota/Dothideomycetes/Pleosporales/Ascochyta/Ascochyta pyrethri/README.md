@@ -1,14 +1,13 @@
-Diplodina pyrethri (Brunaud & Malbr.) Allesch. SPECIES
-=======
+# Ascochyta pyrethri Brunaud & Malbr., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(6): 693 (1900)
+null
 
 #### Original name
 Ascochyta pyrethri Brunaud & Malbr., 1887

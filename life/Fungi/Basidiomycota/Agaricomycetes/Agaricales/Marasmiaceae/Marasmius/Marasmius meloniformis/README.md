@@ -1,5 +1,4 @@
-Marasmius meloniformis Berk. SPECIES
-=======
+# Marasmius meloniformis Berk. SPECIES
 
 #### Status
 ACCEPTED

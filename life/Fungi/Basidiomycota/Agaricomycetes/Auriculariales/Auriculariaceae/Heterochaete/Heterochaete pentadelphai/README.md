@@ -1,5 +1,4 @@
-Heterochaete pentadelphai P. Roberts SPECIES
-=======
+# Heterochaete pentadelphai P. Roberts SPECIES
 
 #### Status
 ACCEPTED

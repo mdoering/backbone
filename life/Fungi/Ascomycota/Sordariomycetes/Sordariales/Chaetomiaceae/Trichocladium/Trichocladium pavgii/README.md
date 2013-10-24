@@ -1,5 +1,4 @@
-Trichocladium pavgii V.R. Nath SPECIES
-=======
+# Trichocladium pavgii V.R. Nath SPECIES
 
 #### Status
 ACCEPTED

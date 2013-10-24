@@ -1,5 +1,4 @@
-Ceratium limulus Gourret SPECIES
-=======
+# Ceratium limulus Gourret SPECIES
 
 #### Status
 ACCEPTED

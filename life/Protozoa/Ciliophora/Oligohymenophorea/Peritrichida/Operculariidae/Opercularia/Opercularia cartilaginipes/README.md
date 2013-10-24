@@ -1,5 +1,4 @@
-Opercularia cartilaginipes Nenninger, 1948 SPECIES
-=======
+# Opercularia cartilaginipes Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

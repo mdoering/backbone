@@ -1,17 +1,16 @@
-Galerina autumnalis f. autumnalis FORM
-=======
+# Galerina marginata (Batsch) Kühner, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Naturk. Forsch. Südwestdeutschl. 246 (1964)
+Encyclop. Mycol. 7: 225 (1935)
 
 #### Original name
-Galerina autumnalis f. autumnalis
+Agaricus marginatus Schumach., 1803
 
 ### Remarks
 null

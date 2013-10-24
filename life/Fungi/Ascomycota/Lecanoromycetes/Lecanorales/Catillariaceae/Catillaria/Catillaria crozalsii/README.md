@@ -1,5 +1,4 @@
-Catillaria crozalsii B. de Lesd. SPECIES
-=======
+# Catillaria crozalsii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

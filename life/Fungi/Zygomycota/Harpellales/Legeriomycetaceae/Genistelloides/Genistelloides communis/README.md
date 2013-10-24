@@ -1,5 +1,4 @@
-Genistelloides communis M.M. White & Lichtw., 2004 SPECIES
-=======
+# Genistelloides communis M.M. White & Lichtw., 2004 SPECIES
 
 #### Status
 ACCEPTED

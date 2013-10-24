@@ -1,5 +1,4 @@
-Cercospora diospyri-erianthae Sawada SPECIES
-=======
+# Cercospora diospyri-erianthae Sawada SPECIES
 
 #### Status
 ACCEPTED

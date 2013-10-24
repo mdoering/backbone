@@ -1,5 +1,4 @@
-Entoloma contrastans G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma contrastans G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

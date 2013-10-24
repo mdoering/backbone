@@ -1,17 +1,16 @@
-Calocybe gambosa f. gambosa FORM
-=======
+# Calocybe gambosa (Fr.) Donk, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia, Beih. 5: 43 (1962)
 
 #### Original name
-null
+Agaricus gambosus Fr., 1821
 
 ### Remarks
 null

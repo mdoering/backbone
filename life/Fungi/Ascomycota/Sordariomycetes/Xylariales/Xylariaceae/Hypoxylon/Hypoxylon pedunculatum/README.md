@@ -1,5 +1,4 @@
-Hypoxylon pedunculatum Dicks. ex Gray SPECIES
-=======
+# Hypoxylon pedunculatum Dicks. ex Gray SPECIES
 
 #### Status
 ACCEPTED

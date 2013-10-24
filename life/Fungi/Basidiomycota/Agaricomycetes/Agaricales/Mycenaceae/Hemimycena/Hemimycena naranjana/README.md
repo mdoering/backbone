@@ -1,5 +1,4 @@
-Hemimycena naranjana (Dennis) Dennis SPECIES
-=======
+# Hemimycena naranjana (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

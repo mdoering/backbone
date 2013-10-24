@@ -1,5 +1,4 @@
-Erineum lineola Schwein. SPECIES
-=======
+# Erineum lineola Schwein. SPECIES
 
 #### Status
 ACCEPTED

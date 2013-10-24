@@ -1,8 +1,7 @@
-Coleroa massalongii Traverso SPECIES
-=======
+# Coleroa massalongoi Traverso SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coleroa massalongii Traverso
+Coleroa massalongoi Traverso
 
 ### Remarks
 null

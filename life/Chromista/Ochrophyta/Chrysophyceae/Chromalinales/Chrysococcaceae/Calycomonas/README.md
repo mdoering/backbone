@@ -1,5 +1,4 @@
-Calycomonas Lohmann, 1908 GENUS
-=======
+# Calycomonas Lohmann, 1908 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracoidea ortegae Kukkonen SPECIES
-=======
+# Anthracoidea ortegae Kukkonen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanopyxis uralensis N. I. Strelnikova SPECIES
-=======
+# Stephanopyxis uralensis N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeroschwagerina GENUS
-=======
+# Sphaeroschwagerina GENUS
 
 #### Status
 ACCEPTED

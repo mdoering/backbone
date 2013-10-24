@@ -1,5 +1,4 @@
-Chytridium olla A. Braun, 1851 SPECIES
-=======
+# Chytridium olla A. Braun, 1851 SPECIES
 
 #### Status
 ACCEPTED

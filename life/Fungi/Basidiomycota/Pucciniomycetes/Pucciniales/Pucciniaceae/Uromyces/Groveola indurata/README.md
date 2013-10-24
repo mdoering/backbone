@@ -1,5 +1,4 @@
-Groveola indurata (Syd., P. Syd. & Holw.) Syd. SPECIES
-=======
+# Groveola indurata (Syd., P. Syd. & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

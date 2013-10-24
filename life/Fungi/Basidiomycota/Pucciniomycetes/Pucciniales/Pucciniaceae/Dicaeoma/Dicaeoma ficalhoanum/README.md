@@ -1,5 +1,4 @@
-Dicaeoma ficalhoanum (Lagerh.) Kuntze SPECIES
-=======
+# Dicaeoma ficalhoanum (Lagerh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

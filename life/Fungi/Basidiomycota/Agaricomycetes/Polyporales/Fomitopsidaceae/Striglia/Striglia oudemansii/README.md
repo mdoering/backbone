@@ -1,5 +1,4 @@
-Striglia oudemansii (Fr.) Kuntze SPECIES
-=======
+# Striglia oudemansii (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

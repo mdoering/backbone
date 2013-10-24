@@ -1,5 +1,4 @@
-Coraemyces GENUS
-=======
+# Coraemyces GENUS
 
 #### Status
 ACCEPTED

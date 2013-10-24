@@ -1,5 +1,4 @@
-Trichoderma chlorosporum P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma chlorosporum P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

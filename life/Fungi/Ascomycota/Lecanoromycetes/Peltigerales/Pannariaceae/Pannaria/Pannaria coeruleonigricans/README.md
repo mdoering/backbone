@@ -1,5 +1,4 @@
-Pannaria coeruleonigricans Müll. Arg. SPECIES
-=======
+# Pannaria coeruleonigricans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

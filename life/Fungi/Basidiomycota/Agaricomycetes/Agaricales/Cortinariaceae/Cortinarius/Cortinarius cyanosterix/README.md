@@ -1,5 +1,4 @@
-Cortinarius cyanosterix Rob. Henry SPECIES
-=======
+# Cortinarius cyanosterix Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptococcus tokishigei Vuill. SPECIES
-=======
+# Cryptococcus tokishigei Vuill. SPECIES
 
 #### Status
 ACCEPTED

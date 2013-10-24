@@ -1,5 +1,4 @@
-Cochlonema verrucosum Drechsler, 1935 SPECIES
-=======
+# Cochlonema verrucosum Drechsler, 1935 SPECIES
 
 #### Status
 ACCEPTED

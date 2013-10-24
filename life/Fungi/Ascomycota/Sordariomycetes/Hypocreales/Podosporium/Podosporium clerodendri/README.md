@@ -1,5 +1,4 @@
-Podosporium clerodendri (Sacc.) Cif. SPECIES
-=======
+# Podosporium clerodendri (Sacc.) Cif. SPECIES
 
 #### Status
 ACCEPTED

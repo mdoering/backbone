@@ -1,5 +1,4 @@
-Leptogium subaridum P. M. Jørg. & Goward SPECIES
-=======
+# Leptogium subaridum P. M. Jørg. & Goward SPECIES
 
 #### Status
 ACCEPTED

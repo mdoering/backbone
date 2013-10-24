@@ -1,5 +1,4 @@
-Diatrypella ramularis Ellis & Everh. SPECIES
-=======
+# Diatrypella ramularis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

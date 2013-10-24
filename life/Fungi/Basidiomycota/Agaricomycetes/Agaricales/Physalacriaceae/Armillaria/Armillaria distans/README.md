@@ -1,5 +1,4 @@
-Armillaria distans (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Armillaria distans (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

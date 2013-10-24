@@ -1,5 +1,4 @@
-Peniophora globulifera Ellis & Everh. SPECIES
-=======
+# Peniophora globulifera Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

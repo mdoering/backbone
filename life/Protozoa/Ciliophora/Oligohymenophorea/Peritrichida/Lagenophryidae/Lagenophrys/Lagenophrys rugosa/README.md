@@ -1,5 +1,4 @@
-Lagenophrys rugosa Kane, 1965 SPECIES
-=======
+# Lagenophrys rugosa Kane, 1965 SPECIES
 
 #### Status
 ACCEPTED

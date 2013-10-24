@@ -1,5 +1,4 @@
-Phomopsis albolutea (Dearn. & Barthol.) Petr. SPECIES
-=======
+# Phomopsis albolutea (Dearn. & Barthol.) Petr. SPECIES
 
 #### Status
 ACCEPTED

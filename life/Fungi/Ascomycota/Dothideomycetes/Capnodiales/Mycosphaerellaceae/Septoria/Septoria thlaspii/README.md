@@ -1,5 +1,4 @@
-Septoria thlaspii H.C. Greene SPECIES
-=======
+# Septoria thlaspii H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paronaella Pessagno, 1971 GENUS
-=======
+# Paronaella Pessagno, 1971 GENUS
 
 #### Status
 ACCEPTED

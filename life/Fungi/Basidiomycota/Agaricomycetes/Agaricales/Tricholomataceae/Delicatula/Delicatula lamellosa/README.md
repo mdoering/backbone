@@ -1,5 +1,4 @@
-Delicatula lamellosa Velen. SPECIES
-=======
+# Delicatula lamellosa Velen. SPECIES
 
 #### Status
 ACCEPTED

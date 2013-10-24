@@ -1,5 +1,4 @@
-Sarcographa finitima (Kremp.) Müll. Arg. SPECIES
-=======
+# Sarcographa finitima (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

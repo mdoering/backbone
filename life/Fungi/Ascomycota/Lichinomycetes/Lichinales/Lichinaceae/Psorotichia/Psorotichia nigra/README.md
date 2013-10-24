@@ -1,5 +1,4 @@
-Psorotichia nigra H. Magn. SPECIES
-=======
+# Psorotichia nigra H. Magn. SPECIES
 
 #### Status
 ACCEPTED

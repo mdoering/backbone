@@ -1,5 +1,4 @@
-Fusicladium junci Sawada ex K. Schub. & U. Braun SPECIES
-=======
+# Fusicladium junci Sawada ex K. Schub. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

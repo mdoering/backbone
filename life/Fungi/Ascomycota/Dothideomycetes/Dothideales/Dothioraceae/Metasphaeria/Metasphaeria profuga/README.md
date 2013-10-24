@@ -1,5 +1,4 @@
-Metasphaeria profuga (Ehrenb.) Sacc. SPECIES
-=======
+# Metasphaeria profuga (Ehrenb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

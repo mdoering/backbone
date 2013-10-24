@@ -1,5 +1,4 @@
-Lecidea minarum Malme SPECIES
-=======
+# Lecidea minarum Malme SPECIES
 
 #### Status
 ACCEPTED

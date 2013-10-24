@@ -1,5 +1,4 @@
-Hymenogaster submacrosporus Svrcek SPECIES
-=======
+# Hymenogaster submacrosporus Svrcek SPECIES
 
 #### Status
 ACCEPTED

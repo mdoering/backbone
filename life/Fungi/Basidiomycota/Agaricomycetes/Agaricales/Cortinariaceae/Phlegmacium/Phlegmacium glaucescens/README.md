@@ -1,5 +1,4 @@
-Phlegmacium glaucescens Jul. Schäff. SPECIES
-=======
+# Phlegmacium glaucescens Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tentilenticulina Hitchings, 1980 GENUS
-=======
+# Tentilenticulina Hitchings, 1980 GENUS
 
 #### Status
 ACCEPTED

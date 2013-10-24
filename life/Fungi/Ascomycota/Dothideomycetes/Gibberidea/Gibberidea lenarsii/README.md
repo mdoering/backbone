@@ -1,5 +1,4 @@
-Gibberidea lenarsii (Westend.) Kirschst. SPECIES
-=======
+# Gibberidea lenarsii (Westend.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

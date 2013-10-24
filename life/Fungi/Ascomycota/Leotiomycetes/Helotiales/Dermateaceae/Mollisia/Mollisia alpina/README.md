@@ -1,5 +1,4 @@
-Mollisia alpina Rostr. SPECIES
-=======
+# Mollisia alpina Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis divaricoides Räsänen SPECIES
-=======
+# Phaeographis divaricoides Räsänen SPECIES
 
 #### Status
 ACCEPTED

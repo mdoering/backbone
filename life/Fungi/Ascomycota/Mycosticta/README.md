@@ -1,5 +1,4 @@
-Mycosticta Höhn. GENUS
-=======
+# Mycosticta Höhn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicoccum castagneanum Mont. SPECIES
-=======
+# Dicoccum castagneanum Mont. SPECIES
 
 #### Status
 ACCEPTED

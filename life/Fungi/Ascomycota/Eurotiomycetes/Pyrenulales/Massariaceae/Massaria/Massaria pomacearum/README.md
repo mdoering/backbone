@@ -1,5 +1,4 @@
-Massaria pomacearum Höhn. SPECIES
-=======
+# Massaria pomacearum Höhn. SPECIES
 
 #### Status
 ACCEPTED

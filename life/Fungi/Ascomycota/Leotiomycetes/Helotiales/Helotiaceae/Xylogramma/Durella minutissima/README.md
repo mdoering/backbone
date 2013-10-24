@@ -1,5 +1,4 @@
-Durella minutissima Rehm SPECIES
-=======
+# Durella minutissima Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium cenchri (Bref.) Zundel SPECIES
-=======
+# Sorosporium cenchri (Bref.) Zundel SPECIES
 
 #### Status
 ACCEPTED

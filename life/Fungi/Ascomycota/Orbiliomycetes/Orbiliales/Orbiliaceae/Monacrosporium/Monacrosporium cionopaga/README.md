@@ -1,5 +1,4 @@
-Monacrosporium cionopaga Drechsler SPECIES
-=======
+# Monacrosporium cionopaga Drechsler SPECIES
 
 #### Status
 ACCEPTED

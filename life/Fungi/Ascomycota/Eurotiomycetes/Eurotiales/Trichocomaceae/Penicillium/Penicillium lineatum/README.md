@@ -1,17 +1,16 @@
-Hamigera striata (Raper & Fennell) Stolk & Samson, 1971 SPECIES
-=======
+# Penicillium lineatum Pitt, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 6(3): 347 (1971)
+The Genus Penicillium and its teleomorph states Eupenicillium and Talaromyces (London) 485 (1980)
 
 #### Original name
-Penicillium striatum Raper & Fennell, 1948
+Penicillium lineatum Pitt, 1980
 
 ### Remarks
 null

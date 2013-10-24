@@ -1,5 +1,4 @@
-Rhizocarpon cookeanum H. Magn. SPECIES
-=======
+# Rhizocarpon cookeanum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

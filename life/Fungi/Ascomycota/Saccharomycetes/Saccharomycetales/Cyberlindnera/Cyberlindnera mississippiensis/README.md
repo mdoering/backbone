@@ -1,8 +1,7 @@
-Lindnera mississippiensis (Kurtzman, M.J. Smiley, C.J. Johnson, Wick. & Fuson) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Cyberlindnera mississippiensis (Kurtzman, M.J. Smiley, C.J. Johnson, Wick. & Fuson) Minter, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Pichia mississippiensis Kurtzman, M.J. Smiley, C.J. Johnson, Wick. & Fuson, 1980
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chaetomium indicum Corda, 1840 SPECIES
-=======
+# Chaetomium indicum Corda, 1840 SPECIES
 
 #### Status
 ACCEPTED

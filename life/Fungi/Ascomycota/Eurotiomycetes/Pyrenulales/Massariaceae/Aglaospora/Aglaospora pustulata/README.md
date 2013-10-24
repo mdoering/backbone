@@ -1,5 +1,4 @@
-Aglaospora pustulata Tul. SPECIES
-=======
+# Aglaospora pustulata Tul. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporodictyon minutum Savic & Tibell SPECIES
-=======
+# Sporodictyon minutum Savic & Tibell SPECIES
 
 #### Status
 ACCEPTED

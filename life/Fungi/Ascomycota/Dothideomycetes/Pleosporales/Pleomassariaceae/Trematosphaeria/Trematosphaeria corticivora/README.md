@@ -1,5 +1,4 @@
-Trematosphaeria corticivora Rehm SPECIES
-=======
+# Trematosphaeria corticivora Rehm SPECIES
 
 #### Status
 ACCEPTED

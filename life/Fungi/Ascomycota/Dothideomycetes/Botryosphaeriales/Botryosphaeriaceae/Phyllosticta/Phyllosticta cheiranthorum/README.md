@@ -1,5 +1,4 @@
-Phyllosticta cheiranthorum Desm. SPECIES
-=======
+# Phyllosticta cheiranthorum Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Clitocybe subzonalis Peck SPECIES
-=======
+# Leucopaxillus subzonalis (Peck) H.E. Bigelow, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

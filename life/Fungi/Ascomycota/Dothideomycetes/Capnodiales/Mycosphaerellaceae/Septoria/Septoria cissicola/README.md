@@ -1,5 +1,4 @@
-Septoria cissicola Petr. & Cif. SPECIES
-=======
+# Septoria cissicola Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

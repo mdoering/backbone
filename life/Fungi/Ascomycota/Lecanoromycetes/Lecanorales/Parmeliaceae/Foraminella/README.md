@@ -1,5 +1,4 @@
-Foraminella GENUS
-=======
+# Foraminella GENUS
 
 #### Status
 ACCEPTED

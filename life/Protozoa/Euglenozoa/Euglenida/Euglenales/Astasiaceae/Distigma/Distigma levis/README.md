@@ -1,5 +1,4 @@
-Distigma levis SPECIES
-=======
+# Distigma levis SPECIES
 
 #### Status
 ACCEPTED

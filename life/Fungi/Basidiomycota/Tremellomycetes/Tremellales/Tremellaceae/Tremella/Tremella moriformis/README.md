@@ -1,5 +1,4 @@
-Tremella moriformis Berk., 1812 SPECIES
-=======
+# Tremella moriformis Berk., 1812 SPECIES
 
 #### Status
 ACCEPTED

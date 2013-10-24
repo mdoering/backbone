@@ -1,5 +1,4 @@
-Phragmidium constrictosporum G.F. Laundon, 1976 SPECIES
-=======
+# Phragmidium constrictosporum G.F. Laundon, 1976 SPECIES
 
 #### Status
 ACCEPTED

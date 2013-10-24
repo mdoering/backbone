@@ -1,5 +1,4 @@
-Blastenia cerina (Ehrh. ex Hedw.) B. de Lesd. SPECIES
-=======
+# Blastenia cerina (Ehrh. ex Hedw.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

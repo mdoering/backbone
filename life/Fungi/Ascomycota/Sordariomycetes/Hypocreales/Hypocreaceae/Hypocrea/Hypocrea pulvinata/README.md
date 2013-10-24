@@ -1,17 +1,16 @@
-Hypocrea pulvinata var. pulvinata Fuckel VARIETY
-=======
+# Hypocrea pulvinata Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Jb. nassau. Ver. Naturk. 23-24: 185 (1870)
 
 #### Original name
-Hypocrea pulvinata var. pulvinata Fuckel
+Hypocrea pulvinata Fuckel, 1870
 
 ### Remarks
 null

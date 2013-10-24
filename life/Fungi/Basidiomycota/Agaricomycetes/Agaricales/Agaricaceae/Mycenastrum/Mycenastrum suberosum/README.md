@@ -1,5 +1,4 @@
-Mycenastrum suberosum Fr. SPECIES
-=======
+# Mycenastrum suberosum Fr. SPECIES
 
 #### Status
 ACCEPTED

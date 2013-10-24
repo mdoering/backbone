@@ -1,5 +1,4 @@
-Inocybe belleri Bon SPECIES
-=======
+# Inocybe belleri Bon SPECIES
 
 #### Status
 ACCEPTED

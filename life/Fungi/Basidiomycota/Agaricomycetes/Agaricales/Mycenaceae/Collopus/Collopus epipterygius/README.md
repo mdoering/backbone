@@ -1,5 +1,4 @@
-Collopus epipterygius (Scop.) Earle SPECIES
-=======
+# Collopus epipterygius (Scop.) Earle SPECIES
 
 #### Status
 ACCEPTED

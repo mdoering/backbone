@@ -1,5 +1,4 @@
-Penicillium abnorme Berk. & Broome SPECIES
-=======
+# Penicillium abnorme Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

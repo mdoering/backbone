@@ -1,5 +1,4 @@
-Agaricus phacellus Pers. SPECIES
-=======
+# Agaricus phacellus Pers. SPECIES
 
 #### Status
 ACCEPTED

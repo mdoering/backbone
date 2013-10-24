@@ -1,5 +1,4 @@
-Setonophrys tricorniculata Clamp, 1991 SPECIES
-=======
+# Setonophrys tricorniculata Clamp, 1991 SPECIES
 
 #### Status
 ACCEPTED

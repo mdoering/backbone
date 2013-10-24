@@ -1,5 +1,4 @@
-Arcyria corymbosa M.L. Farr & G.W. Martin, 1958 SPECIES
-=======
+# Arcyria corymbosa M.L. Farr & G.W. Martin, 1958 SPECIES
 
 #### Status
 ACCEPTED

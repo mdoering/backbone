@@ -1,5 +1,4 @@
-Septoria maculosa W.R. Gerard SPECIES
-=======
+# Septoria maculosa W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corallicola nana Volkm.-Kohlm. & Kohlm., 1992 SPECIES
-=======
+# Corallicola nana Volkm.-Kohlm. & Kohlm., 1992 SPECIES
 
 #### Status
 ACCEPTED

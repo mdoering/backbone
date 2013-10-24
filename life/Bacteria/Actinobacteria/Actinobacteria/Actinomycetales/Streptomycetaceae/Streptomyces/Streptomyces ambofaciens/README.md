@@ -1,5 +1,4 @@
-Streptomyces ambofaciens Pinnert-Sindico, 1954 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces ambofaciens Pinnert-Sindico, 1954 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

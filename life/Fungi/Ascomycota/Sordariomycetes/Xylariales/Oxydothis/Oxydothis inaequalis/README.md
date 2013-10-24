@@ -1,5 +1,4 @@
-Oxydothis inaequalis Hidayat, To-Anun & K.D. Hyde SPECIES
-=======
+# Oxydothis inaequalis Hidayat, To-Anun & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

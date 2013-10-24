@@ -1,5 +1,4 @@
-Stereocaulon corticulatum Nyl. SPECIES
-=======
+# Stereocaulon corticulatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kaminskia Neagu, 1999 GENUS
-=======
+# Kaminskia Neagu, 1999 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coscinodiscus omphalanthus Ehrenberg SPECIES
-=======
+# Coscinodiscus omphalanthus Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

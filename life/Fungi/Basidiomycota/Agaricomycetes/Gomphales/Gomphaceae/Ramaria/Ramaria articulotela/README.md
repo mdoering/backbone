@@ -1,5 +1,4 @@
-Ramaria articulotela R.H. Petersen, 1981 SPECIES
-=======
+# Ramaria articulotela R.H. Petersen, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melastiza tetraspora Dissing & Sivertsen SPECIES
-=======
+# Melastiza tetraspora Dissing & Sivertsen SPECIES
 
 #### Status
 ACCEPTED

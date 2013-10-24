@@ -1,5 +1,4 @@
-Hydrocybe firma (Fr.) P. Karst. SPECIES
-=======
+# Hydrocybe firma (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

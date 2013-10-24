@@ -1,5 +1,4 @@
-Psathyrella longicystis A.H. Sm. SPECIES
-=======
+# Psathyrella longicystis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

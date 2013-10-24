@@ -1,5 +1,4 @@
-Stropharia porphyrophylla (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Stropharia porphyrophylla (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

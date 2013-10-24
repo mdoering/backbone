@@ -1,5 +1,4 @@
-Lachnum euterpes S.A. Cantrell & J.H. Haines SPECIES
-=======
+# Lachnum euterpes S.A. Cantrell & J.H. Haines SPECIES
 
 #### Status
 ACCEPTED

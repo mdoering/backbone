@@ -1,5 +1,4 @@
-Monicasterix ornata SPECIES
-=======
+# Monicasterix ornata SPECIES
 
 #### Status
 ACCEPTED

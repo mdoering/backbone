@@ -1,5 +1,4 @@
-Micromastia fimicola Syd. SPECIES
-=======
+# Micromastia fimicola Syd. SPECIES
 
 #### Status
 ACCEPTED

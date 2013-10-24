@@ -1,5 +1,4 @@
-Bottaria endococcinea Vain. SPECIES
-=======
+# Bottaria endococcinea Vain. SPECIES
 
 #### Status
 ACCEPTED

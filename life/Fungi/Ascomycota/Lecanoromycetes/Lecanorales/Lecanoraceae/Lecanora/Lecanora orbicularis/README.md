@@ -1,5 +1,4 @@
-Lecanora orbicularis (A. Massal. ex Bagl.) Motyka SPECIES
-=======
+# Lecanora orbicularis (A. Massal. ex Bagl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

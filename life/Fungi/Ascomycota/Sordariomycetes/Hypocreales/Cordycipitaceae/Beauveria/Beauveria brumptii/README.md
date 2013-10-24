@@ -1,5 +1,4 @@
-Beauveria brumptii Langeron SPECIES
-=======
+# Beauveria brumptii Langeron SPECIES
 
 #### Status
 ACCEPTED

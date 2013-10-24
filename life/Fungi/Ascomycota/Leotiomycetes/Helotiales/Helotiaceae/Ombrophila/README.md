@@ -1,17 +1,16 @@
-Kubickia Svrcek GENUS
-=======
+# Ombrophila E.M. Fries, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 11: 38 (1957)
+Summa veg. Scand. (Stockholm), Section Post. 357 (1849)
 
 #### Original name
-Kubickia Svrcek
+Ombrophila E.M. Fries, 1849
 
 ### Remarks
 null

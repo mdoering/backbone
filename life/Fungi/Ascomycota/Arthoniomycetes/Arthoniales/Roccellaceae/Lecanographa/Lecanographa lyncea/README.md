@@ -1,17 +1,16 @@
-Opegrapha stictica Nyl. SPECIES
-=======
+# Lecanographa lyncea (Sm.) Egea & Torrente SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 54: 142 (1994)
 
 #### Original name
-null
+Lichen lynceus Sm.
 
 ### Remarks
 null

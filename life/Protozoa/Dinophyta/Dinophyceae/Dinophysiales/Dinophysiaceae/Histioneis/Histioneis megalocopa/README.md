@@ -1,5 +1,4 @@
-Histioneis megalocopa Stein, 1883 SPECIES
-=======
+# Histioneis megalocopa Stein, 1883 SPECIES
 
 #### Status
 ACCEPTED

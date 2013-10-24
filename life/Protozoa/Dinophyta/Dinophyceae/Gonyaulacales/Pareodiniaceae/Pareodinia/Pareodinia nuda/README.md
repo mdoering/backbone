@@ -1,5 +1,4 @@
-Pareodinia nuda (Downie, 1957) Sarjeant, 1967 SPECIES
-=======
+# Pareodinia nuda (Downie, 1957) Sarjeant, 1967 SPECIES
 
 #### Status
 ACCEPTED

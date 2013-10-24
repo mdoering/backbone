@@ -1,17 +1,16 @@
-Saccomyces dangeardi Serbinow SPECIES
-=======
+# Saccomyces dangeardii Serbinow, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Zap. 24: (1907)
 
 #### Original name
-Saccomyces dangeardi Serbinow
+Saccomyces dangeardii Serbinow, 1907
 
 ### Remarks
 null

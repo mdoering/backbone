@@ -1,5 +1,4 @@
-Didymobotryum kusanoi Henn. SPECIES
-=======
+# Didymobotryum kusanoi Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linospora procumbens Fuckel SPECIES
-=======
+# Linospora procumbens Fuckel SPECIES
 
 #### Status
 ACCEPTED

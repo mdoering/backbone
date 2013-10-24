@@ -1,5 +1,4 @@
-Hebeloma rubrofuscum Velen. SPECIES
-=======
+# Hebeloma rubrofuscum Velen. SPECIES
 
 #### Status
 ACCEPTED

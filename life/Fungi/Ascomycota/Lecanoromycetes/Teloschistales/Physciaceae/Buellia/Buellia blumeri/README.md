@@ -1,5 +1,4 @@
-Buellia blumeri Zahlbr. SPECIES
-=======
+# Buellia blumeri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

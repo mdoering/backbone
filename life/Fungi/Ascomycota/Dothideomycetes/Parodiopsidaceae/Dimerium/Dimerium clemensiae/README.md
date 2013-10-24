@@ -1,5 +1,4 @@
-Dimerium clemensiae Syd. SPECIES
-=======
+# Dimerium clemensiae Syd. SPECIES
 
 #### Status
 ACCEPTED

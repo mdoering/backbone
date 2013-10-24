@@ -1,5 +1,4 @@
-Meliola subpellucida W. Yamam. SPECIES
-=======
+# Meliola subpellucida W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

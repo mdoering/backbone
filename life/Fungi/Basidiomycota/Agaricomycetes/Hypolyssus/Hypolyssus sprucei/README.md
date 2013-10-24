@@ -1,5 +1,4 @@
-Hypolyssus sprucei Massee SPECIES
-=======
+# Hypolyssus sprucei Massee SPECIES
 
 #### Status
 ACCEPTED

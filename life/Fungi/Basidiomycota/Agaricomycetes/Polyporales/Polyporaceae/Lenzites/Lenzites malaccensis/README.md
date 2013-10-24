@@ -1,5 +1,4 @@
-Lenzites malaccensis Sacc. & Cub. SPECIES
-=======
+# Lenzites malaccensis Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

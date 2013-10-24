@@ -1,8 +1,7 @@
-Pezizella notofagi (Rodway) Dennis SPECIES
-=======
+# Pezizella nothofagi (Rodway) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

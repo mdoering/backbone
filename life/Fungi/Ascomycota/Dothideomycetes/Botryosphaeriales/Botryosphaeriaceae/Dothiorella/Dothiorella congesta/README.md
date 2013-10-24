@@ -1,5 +1,4 @@
-Dothiorella congesta (Lév.) Sacc. SPECIES
-=======
+# Dothiorella congesta (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

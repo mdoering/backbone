@@ -1,5 +1,4 @@
-Omphalia roriduliformis Murrill SPECIES
-=======
+# Omphalia roriduliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

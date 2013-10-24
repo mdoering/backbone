@@ -1,5 +1,4 @@
-Parmelia reticulata f. reticulata FORM
-=======
+# Parmelia reticulata SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Mackey, Fl. Hibern. 2: 148 (1836)
+null
 
 #### Original name
-Parmelia reticulata f. reticulata
+null
 
 ### Remarks
 null

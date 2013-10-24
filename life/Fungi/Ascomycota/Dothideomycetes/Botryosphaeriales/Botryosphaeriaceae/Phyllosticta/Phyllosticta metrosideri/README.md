@@ -1,5 +1,4 @@
-Phyllosticta metrosideri Brunaud SPECIES
-=======
+# Phyllosticta metrosideri Brunaud SPECIES
 
 #### Status
 ACCEPTED

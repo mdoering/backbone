@@ -1,5 +1,4 @@
-Nostoc disciforme F.E. Fritsch SPECIES
-=======
+# Nostoc disciforme F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

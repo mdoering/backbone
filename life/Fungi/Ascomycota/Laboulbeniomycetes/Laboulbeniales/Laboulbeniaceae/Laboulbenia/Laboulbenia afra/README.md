@@ -1,5 +1,4 @@
-Laboulbenia afra Speg. SPECIES
-=======
+# Laboulbenia afra Speg. SPECIES
 
 #### Status
 ACCEPTED

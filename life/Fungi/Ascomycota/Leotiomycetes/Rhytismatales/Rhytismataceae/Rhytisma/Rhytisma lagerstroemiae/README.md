@@ -1,5 +1,4 @@
-Rhytisma lagerstroemiae Henn., 1878 SPECIES
-=======
+# Rhytisma lagerstroemiae Henn., 1878 SPECIES
 
 #### Status
 ACCEPTED

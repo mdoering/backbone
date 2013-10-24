@@ -1,5 +1,4 @@
-Uredo rolliniae W.T. Dale SPECIES
-=======
+# Uredo rolliniae W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

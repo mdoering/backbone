@@ -1,5 +1,4 @@
-Micropeltis vrieseae Rehm SPECIES
-=======
+# Micropeltis vrieseae Rehm SPECIES
 
 #### Status
 ACCEPTED

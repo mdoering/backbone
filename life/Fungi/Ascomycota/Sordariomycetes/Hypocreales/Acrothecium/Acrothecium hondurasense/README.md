@@ -1,17 +1,16 @@
-Acrothecium hondurasensis Bat. & A.F. Vital SPECIES
-=======
+# Acrothecium hondurasense Bat. & A.F. Vital SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anais Soc. Biol. Pernambuco 15(2): 376 (1957)
 
 #### Original name
-Acrothecium hondurasensis Bat. & A.F. Vital
+Acrothecium hondurasense Bat. & A.F. Vital
 
 ### Remarks
 null

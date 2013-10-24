@@ -1,5 +1,4 @@
-Merulius patouillardii (Sacc.) Kuntze SPECIES
-=======
+# Merulius patouillardii (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

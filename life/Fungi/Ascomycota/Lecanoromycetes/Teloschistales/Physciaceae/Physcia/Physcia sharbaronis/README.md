@@ -1,5 +1,4 @@
-Physcia sharbaronis B. de Lesd. SPECIES
-=======
+# Physcia sharbaronis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paxillus hirtulus F. Muell. SPECIES
-=======
+# Paxillus hirtulus F. Muell. SPECIES
 
 #### Status
 ACCEPTED

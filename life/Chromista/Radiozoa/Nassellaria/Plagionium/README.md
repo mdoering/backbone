@@ -1,5 +1,4 @@
-Plagionium GENUS
-=======
+# Plagionium GENUS
 
 #### Status
 ACCEPTED

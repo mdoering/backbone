@@ -1,5 +1,4 @@
-Pseudovorticella clampi Ji, Song, Al-Rasheid & Li, 2005 SPECIES
-=======
+# Pseudovorticella clampi Ji, Song, Al-Rasheid & Li, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetodiplodia vanillae Zimm. SPECIES
-=======
+# Chaetodiplodia vanillae Zimm. SPECIES
 
 #### Status
 ACCEPTED

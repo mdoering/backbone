@@ -1,5 +1,4 @@
-Octotetraspora I.V. Issi, Kadyrova, Pushkar, Khodzhaeva & S.V. Krylova GENUS
-=======
+# Octotetraspora I.V. Issi, Kadyrova, Pushkar, Khodzhaeva & S.V. Krylova GENUS
 
 #### Status
 ACCEPTED

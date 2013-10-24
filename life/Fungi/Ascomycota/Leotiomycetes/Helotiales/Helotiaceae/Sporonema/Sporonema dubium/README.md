@@ -1,5 +1,4 @@
-Sporonema dubium C. Massal. SPECIES
-=======
+# Sporonema dubium C. Massal. SPECIES
 
 #### Status
 ACCEPTED

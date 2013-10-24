@@ -1,5 +1,4 @@
-Lecidea subspilota Müll. Arg. SPECIES
-=======
+# Lecidea subspilota Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

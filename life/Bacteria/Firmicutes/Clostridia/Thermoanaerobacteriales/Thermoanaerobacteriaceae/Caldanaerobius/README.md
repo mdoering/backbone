@@ -1,5 +1,4 @@
-Caldanaerobius Lee et al., 2008 GENUS
-=======
+# Caldanaerobius Lee et al., 2008 GENUS
 
 #### Status
 ACCEPTED

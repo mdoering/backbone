@@ -1,17 +1,16 @@
-Galactinia adae f. adae FORM
-=======
+# Peziza domiciliana Cooke, 1877 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. Class. Discom. Eur. (Paris) 47 (1907)
+Gard. Chron. , London (1877)
 
 #### Original name
-Galactinia adae f. adae
+Peziza domiciliana Cooke, 1877
 
 ### Remarks
 null

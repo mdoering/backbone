@@ -1,14 +1,13 @@
-Sclerotium fumigatum N. Nakata ex Hara, 1930 SPECIES
-=======
+# Rhizoctonia fumigata (N. Nakata ex Hara) P.S. Gunnell & R.K. Webster, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pathologia Agriculturalis Plantarum 168 (1930)
+Mycologia 79(5): 735 (1987)
 
 #### Original name
 Sclerotium fumigatum N. Nakata ex Hara, 1930

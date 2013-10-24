@@ -1,5 +1,4 @@
-Heimiella Racovitza, 1959 GENUS
-=======
+# Heimiella Racovitza, 1959 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Molleriella sydowiana Petr. SPECIES
-=======
+# Moelleriella sydowiana Petr., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 4: 501 (1950)
 
 #### Original name
-Molleriella sydowiana Petr.
+Moelleriella sydowiana Petr., 1950
 
 ### Remarks
 null

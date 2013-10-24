@@ -1,5 +1,4 @@
-Usnea stigmata Motyka SPECIES
-=======
+# Usnea stigmata Motyka SPECIES
 
 #### Status
 ACCEPTED

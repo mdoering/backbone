@@ -1,5 +1,4 @@
-Anaerostipes Schwiertz, Hold, Duncan, Gruhl, Collins, Lawson, Flint & Blaut, 2002 GENUS
-=======
+# Anaerostipes Schwiertz, Hold, Duncan, Gruhl, Collins, Lawson, Flint & Blaut, 2002 GENUS
 
 #### Status
 ACCEPTED

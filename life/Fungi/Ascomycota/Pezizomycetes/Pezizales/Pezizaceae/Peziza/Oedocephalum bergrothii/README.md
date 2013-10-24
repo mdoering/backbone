@@ -1,8 +1,7 @@
-Oedocephalum bergrothi P. Karst. SPECIES
-=======
+# Oedocephalum bergrothii P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Oedocephalum bergrothi P. Karst.
+Oedocephalum bergrothii P. Karst.
 
 ### Remarks
 null

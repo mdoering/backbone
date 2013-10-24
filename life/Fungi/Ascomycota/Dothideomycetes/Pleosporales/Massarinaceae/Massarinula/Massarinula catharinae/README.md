@@ -1,5 +1,4 @@
-Massarinula catharinae Rehm SPECIES
-=======
+# Massarinula catharinae Rehm SPECIES
 
 #### Status
 ACCEPTED

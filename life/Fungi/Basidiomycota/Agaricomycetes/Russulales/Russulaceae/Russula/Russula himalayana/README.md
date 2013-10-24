@@ -1,5 +1,4 @@
-Russula himalayana Rawla & Sarwal SPECIES
-=======
+# Russula himalayana Rawla & Sarwal SPECIES
 
 #### Status
 ACCEPTED

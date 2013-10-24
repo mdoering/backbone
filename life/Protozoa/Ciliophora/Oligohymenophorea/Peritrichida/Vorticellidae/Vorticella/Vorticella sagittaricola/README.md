@@ -1,5 +1,4 @@
-Vorticella sagittaricola Dumas, 1930 SPECIES
-=======
+# Vorticella sagittaricola Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

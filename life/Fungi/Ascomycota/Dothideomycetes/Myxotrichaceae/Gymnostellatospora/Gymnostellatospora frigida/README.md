@@ -1,5 +1,4 @@
-Gymnostellatospora frigida Uchiy., Kamiya & Udagawa SPECIES
-=======
+# Gymnostellatospora frigida Uchiy., Kamiya & Udagawa SPECIES
 
 #### Status
 ACCEPTED

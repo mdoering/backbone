@@ -1,5 +1,4 @@
-Piggotia theae Nevod. SPECIES
-=======
+# Piggotia theae Nevod. SPECIES
 
 #### Status
 ACCEPTED

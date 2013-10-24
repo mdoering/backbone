@@ -1,5 +1,4 @@
-Peziza pannorum Brond. SPECIES
-=======
+# Peziza pannorum Brond. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Klebsiella oxytoca (Flügge, 1886) Lautrop, 1956 (Approved Lists, 1980) SPECIES
-=======
+# Klebsiella oxytoca (Flügge, 1886) Lautrop, 1956 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

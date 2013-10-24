@@ -1,5 +1,4 @@
-Synthetospora GENUS
-=======
+# Synthetospora GENUS
 
 #### Status
 ACCEPTED

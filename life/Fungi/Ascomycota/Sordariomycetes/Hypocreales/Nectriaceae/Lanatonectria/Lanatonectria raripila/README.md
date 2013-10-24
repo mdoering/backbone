@@ -1,14 +1,13 @@
-Nectria raripila Penz. & Sacc., 1898 SPECIES
-=======
+# Lanatonectria raripila (Penz. & Sacc.) Samuels & Rossman, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 140 (1999)
 
 #### Original name
 Nectria raripila Penz. & Sacc., 1898

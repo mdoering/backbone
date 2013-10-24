@@ -1,5 +1,4 @@
-Cryptosporidium wrairi Vetterling, Jervis, Merill & Sprinz, 1971 SPECIES
-=======
+# Cryptosporidium wrairi Vetterling, Jervis, Merill & Sprinz, 1971 SPECIES
 
 #### Status
 ACCEPTED

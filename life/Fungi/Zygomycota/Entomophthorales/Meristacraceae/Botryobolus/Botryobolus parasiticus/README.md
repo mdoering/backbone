@@ -1,5 +1,4 @@
-Botryobolus parasiticus G. Arnaud SPECIES
-=======
+# Botryobolus parasiticus G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

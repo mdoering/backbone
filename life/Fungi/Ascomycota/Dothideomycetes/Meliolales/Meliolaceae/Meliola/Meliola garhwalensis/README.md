@@ -1,5 +1,4 @@
-Meliola garhwalensis S.L. Srivast. & Topal SPECIES
-=======
+# Meliola garhwalensis S.L. Srivast. & Topal SPECIES
 
 #### Status
 ACCEPTED

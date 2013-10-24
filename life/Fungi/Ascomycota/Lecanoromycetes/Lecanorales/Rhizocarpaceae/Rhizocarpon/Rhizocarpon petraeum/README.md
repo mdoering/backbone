@@ -1,17 +1,16 @@
-Rhizocarpon petraeum var. petraeum VARIETY
-=======
+# Rhizocarpon petraeum (Wulfen) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ric. auton. lich. crost. (Verona) 102 (1852)
 
 #### Original name
-Rhizocarpon petraeum var. petraeum
+Lichen petraeus
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aulacodiscus sollitianus G. Norman SPECIES
-=======
+# Aulacodiscus sollitianus G. Norman SPECIES
 
 #### Status
 ACCEPTED

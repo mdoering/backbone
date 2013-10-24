@@ -1,5 +1,4 @@
-Arthothelium leucocarpum Müll. Arg. SPECIES
-=======
+# Arthothelium leucocarpum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma andinum E. Horak SPECIES
-=======
+# Tricholoma andinum E. Horak SPECIES
 
 #### Status
 ACCEPTED

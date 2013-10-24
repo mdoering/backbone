@@ -1,5 +1,4 @@
-Rosellinia umbrinella (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rosellinia umbrinella (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

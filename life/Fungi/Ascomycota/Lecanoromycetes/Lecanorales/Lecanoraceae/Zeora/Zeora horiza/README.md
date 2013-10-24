@@ -1,5 +1,4 @@
-Zeora horiza (Ach.) Röhl. SPECIES
-=======
+# Zeora horiza (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

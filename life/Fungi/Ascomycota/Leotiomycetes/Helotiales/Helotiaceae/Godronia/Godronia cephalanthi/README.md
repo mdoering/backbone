@@ -1,5 +1,4 @@
-Godronia cephalanthi (Schwein.) Dearn. & House SPECIES
-=======
+# Godronia cephalanthi (Schwein.) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

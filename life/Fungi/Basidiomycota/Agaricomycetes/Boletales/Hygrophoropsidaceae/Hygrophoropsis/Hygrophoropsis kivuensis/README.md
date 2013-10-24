@@ -1,5 +1,4 @@
-Hygrophoropsis kivuensis Heinem. SPECIES
-=======
+# Hygrophoropsis kivuensis Heinem. SPECIES
 
 #### Status
 ACCEPTED

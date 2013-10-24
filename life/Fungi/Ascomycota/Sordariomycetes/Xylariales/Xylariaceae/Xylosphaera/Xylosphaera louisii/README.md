@@ -1,5 +1,4 @@
-Xylosphaera louisii Dennis SPECIES
-=======
+# Xylosphaera louisii Dennis SPECIES
 
 #### Status
 ACCEPTED

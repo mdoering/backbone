@@ -1,5 +1,4 @@
-Torrubiella ochracea Pat. SPECIES
-=======
+# Torrubiella ochracea Pat. SPECIES
 
 #### Status
 ACCEPTED

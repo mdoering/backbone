@@ -1,5 +1,4 @@
-Kabatiella silenicola Annal. SPECIES
-=======
+# Kabatiella silenicola Annal. SPECIES
 
 #### Status
 ACCEPTED

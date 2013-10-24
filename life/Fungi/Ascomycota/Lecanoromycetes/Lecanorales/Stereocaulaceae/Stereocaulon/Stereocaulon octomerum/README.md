@@ -1,5 +1,4 @@
-Stereocaulon octomerum Müll. Arg. SPECIES
-=======
+# Stereocaulon octomerum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diexallophasis ontariensis Cramer, 1970 ex Fensome et al., 1990 SPECIES
-=======
+# Diexallophasis ontariensis Cramer, 1970 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

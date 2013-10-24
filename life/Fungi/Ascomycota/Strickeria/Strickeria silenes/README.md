@@ -1,8 +1,7 @@
-Strickera silenes T.M. Achundov SPECIES
-=======
+# Strickeria silenes T.M. Achundov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Strickera silenes T.M. Achundov
+Strickeria silenes T.M. Achundov
 
 ### Remarks
 null

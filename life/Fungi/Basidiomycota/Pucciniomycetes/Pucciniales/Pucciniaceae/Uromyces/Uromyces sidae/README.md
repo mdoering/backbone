@@ -1,5 +1,4 @@
-Uromyces sidae Thüm. SPECIES
-=======
+# Uromyces sidae Thüm. SPECIES
 
 #### Status
 ACCEPTED

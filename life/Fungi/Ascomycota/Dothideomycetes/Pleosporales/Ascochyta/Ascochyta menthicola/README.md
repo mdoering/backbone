@@ -1,5 +1,4 @@
-Ascochyta menthicola Bubák & Picb. SPECIES
-=======
+# Ascochyta menthicola Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium penicillioides (Delacr.) Vuill. SPECIES
-=======
+# Penicillium penicillioides (Delacr.) Vuill. SPECIES
 
 #### Status
 ACCEPTED

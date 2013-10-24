@@ -1,14 +1,13 @@
-Thaxterogaster porphyreum (G. Cunn.) Singer SPECIES
-=======
+# Cortinarius porphyroideus (G. Cunn.) Peintner & M.M. Moser, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 81: 182 (2002)
 
 #### Original name
 Secotium porphyreum G. Cunn., 1924

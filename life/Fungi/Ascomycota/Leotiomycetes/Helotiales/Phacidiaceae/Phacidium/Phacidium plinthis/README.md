@@ -1,5 +1,4 @@
-Phacidium plinthis Fr. SPECIES
-=======
+# Phacidium plinthis Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanoma tetracoccum Zind.-Bakker, 1934 SPECIES
-=======
+# Stephanoma tetracoccum Zind.-Bakker, 1934 SPECIES
 
 #### Status
 ACCEPTED

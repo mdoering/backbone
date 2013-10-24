@@ -1,5 +1,4 @@
-Phyllachora amica Syd., 1938 SPECIES
-=======
+# Phyllachora amica Syd., 1938 SPECIES
 
 #### Status
 ACCEPTED

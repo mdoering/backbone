@@ -1,5 +1,4 @@
-Laboulbenia richardiana W. Rossi & Kotrba SPECIES
-=======
+# Laboulbenia richardiana W. Rossi & Kotrba SPECIES
 
 #### Status
 ACCEPTED

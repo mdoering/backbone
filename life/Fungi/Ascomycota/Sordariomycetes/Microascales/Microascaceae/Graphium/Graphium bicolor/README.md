@@ -1,5 +1,4 @@
-Graphium bicolor (Pers.) Sacc. SPECIES
-=======
+# Graphium bicolor (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

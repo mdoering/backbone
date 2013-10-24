@@ -1,5 +1,4 @@
-Prinsius dimorphosus (Perch-Nielsen, 1969) Perch-Nielsen, 1977 SPECIES
-=======
+# Prinsius dimorphosus (Perch-Nielsen, 1969) Perch-Nielsen, 1977 SPECIES
 
 #### Status
 ACCEPTED

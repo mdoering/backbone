@@ -1,5 +1,4 @@
-Exidia minutissima Höhn. SPECIES
-=======
+# Exidia minutissima Höhn. SPECIES
 
 #### Status
 ACCEPTED

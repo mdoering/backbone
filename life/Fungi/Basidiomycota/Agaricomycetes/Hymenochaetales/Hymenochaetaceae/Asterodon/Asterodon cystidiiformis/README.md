@@ -1,5 +1,4 @@
-Asterodon cystidiiformis Rick SPECIES
-=======
+# Asterodon cystidiiformis Rick SPECIES
 
 #### Status
 ACCEPTED

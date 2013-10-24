@@ -1,5 +1,4 @@
-Ameson pulvis (Pérez) Sprague SPECIES
-=======
+# Ameson pulvis (Pérez) Sprague SPECIES
 
 #### Status
 ACCEPTED

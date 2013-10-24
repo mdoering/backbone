@@ -1,5 +1,4 @@
-Ascochyta ellisii Thüm. SPECIES
-=======
+# Ascochyta ellisii Thüm. SPECIES
 
 #### Status
 ACCEPTED

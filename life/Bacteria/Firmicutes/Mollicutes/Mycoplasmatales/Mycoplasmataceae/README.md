@@ -1,5 +1,4 @@
-Mycoplasmataceae Freundt, 1955 FAMILY
-=======
+# Mycoplasmataceae Freundt, 1955 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora exilis A. Hern. Gut. & Dianese SPECIES
-=======
+# Pseudocercospora exilis A. Hern. Gut. & Dianese SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia compacta (Cooke & W.R. Gerard) Sacc. SPECIES
-=======
+# Botryodiplodia compacta (Cooke & W.R. Gerard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia globisidiosa Hale SPECIES
-=======
+# Xanthoparmelia globisidiosa Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus rhizophorae Reichard SPECIES
-=======
+# Polyporus rhizophorae Reichard SPECIES
 
 #### Status
 ACCEPTED

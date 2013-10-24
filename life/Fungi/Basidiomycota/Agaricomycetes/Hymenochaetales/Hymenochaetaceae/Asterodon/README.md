@@ -1,17 +1,16 @@
-Aciella (P. Karsten) P. Karsten, 1899 GENUS
-=======
+# Asterodon Patouillard, 1894 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Finl. Basidsvamp. 148 (1899)
+Bull. Soc. mycol. Fr. 9: liii (1894)
 
 #### Original name
-null
+Asterodon Patouillard, 1894
 
 ### Remarks
 null

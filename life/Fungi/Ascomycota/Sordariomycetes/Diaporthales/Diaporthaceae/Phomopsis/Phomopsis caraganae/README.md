@@ -1,5 +1,4 @@
-Phomopsis caraganae Bondartsev SPECIES
-=======
+# Phomopsis caraganae Bondartsev SPECIES
 
 #### Status
 ACCEPTED

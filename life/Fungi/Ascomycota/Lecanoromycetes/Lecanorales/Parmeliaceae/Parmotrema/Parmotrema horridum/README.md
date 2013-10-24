@@ -1,5 +1,4 @@
-Parmotrema horridum Fleig SPECIES
-=======
+# Parmotrema horridum Fleig SPECIES
 
 #### Status
 ACCEPTED

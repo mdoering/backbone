@@ -1,5 +1,4 @@
-Heliolithus floris Haq & Aubry, 1981 SPECIES
-=======
+# Heliolithus floris Haq & Aubry, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ampullofolliculina lageniformis Hadzi, 1951 SPECIES
-=======
+# Ampullofolliculina lageniformis Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

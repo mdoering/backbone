@@ -1,17 +1,16 @@
-Cercospora breyniae-rhamnoides Thirum. & Govindu SPECIES
-=======
+# Cercospora breyniae-rhamnoidis Thirum. & Govindu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 7: 310 (1953)
 
 #### Original name
-Cercospora breyniae-rhamnoides Thirum. & Govindu
+Cercospora breyniae-rhamnoidis Thirum. & Govindu
 
 ### Remarks
 null

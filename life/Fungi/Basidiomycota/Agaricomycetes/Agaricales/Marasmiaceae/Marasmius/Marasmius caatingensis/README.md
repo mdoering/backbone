@@ -1,5 +1,4 @@
-Marasmius caatingensis Berk. SPECIES
-=======
+# Marasmius caatingensis Berk. SPECIES
 
 #### Status
 ACCEPTED

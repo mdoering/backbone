@@ -1,5 +1,4 @@
-Tremella mayorgae Lowy SPECIES
-=======
+# Tremella mayorgae Lowy SPECIES
 
 #### Status
 ACCEPTED

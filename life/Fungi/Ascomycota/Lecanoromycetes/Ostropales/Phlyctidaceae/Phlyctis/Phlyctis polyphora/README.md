@@ -1,5 +1,4 @@
-Phlyctis polyphora Stirt. SPECIES
-=======
+# Phlyctis polyphora Stirt. SPECIES
 
 #### Status
 ACCEPTED

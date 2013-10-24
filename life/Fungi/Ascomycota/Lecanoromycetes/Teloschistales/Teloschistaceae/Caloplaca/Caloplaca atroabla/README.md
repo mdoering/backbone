@@ -1,5 +1,4 @@
-Caloplaca atroabla SPECIES
-=======
+# Caloplaca atroabla SPECIES
 
 #### Status
 ACCEPTED

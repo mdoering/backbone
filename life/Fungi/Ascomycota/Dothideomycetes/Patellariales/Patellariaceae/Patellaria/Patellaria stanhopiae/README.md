@@ -1,5 +1,4 @@
-Patellaria stanhopiae Müll. Arg. SPECIES
-=======
+# Patellaria stanhopiae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

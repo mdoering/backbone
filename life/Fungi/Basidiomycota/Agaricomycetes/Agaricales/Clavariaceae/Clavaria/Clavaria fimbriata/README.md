@@ -1,5 +1,4 @@
-Clavaria fimbriata Pers. SPECIES
-=======
+# Clavaria fimbriata Pers. SPECIES
 
 #### Status
 ACCEPTED

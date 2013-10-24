@@ -1,5 +1,4 @@
-Neonectria dumontii Brayford & Samuels SPECIES
-=======
+# Neonectria dumontii Brayford & Samuels SPECIES
 
 #### Status
 ACCEPTED

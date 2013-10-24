@@ -1,5 +1,4 @@
-Cercospora acanthi-longifolii Savul. & Sandu SPECIES
-=======
+# Cercospora acanthi-longifolii Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oropogon parietinus Essl. SPECIES
-=======
+# Oropogon parietinus Essl. SPECIES
 
 #### Status
 ACCEPTED

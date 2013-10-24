@@ -1,5 +1,4 @@
-Cercospora leptadeniae Chidd. SPECIES
-=======
+# Cercospora leptadeniae Chidd. SPECIES
 
 #### Status
 ACCEPTED

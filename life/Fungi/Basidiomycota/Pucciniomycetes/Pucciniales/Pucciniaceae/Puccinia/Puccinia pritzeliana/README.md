@@ -1,5 +1,4 @@
-Puccinia pritzeliana Henn., 1901 SPECIES
-=======
+# Puccinia pritzeliana Henn., 1901 SPECIES
 
 #### Status
 ACCEPTED

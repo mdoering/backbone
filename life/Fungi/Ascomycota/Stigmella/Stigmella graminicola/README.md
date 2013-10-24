@@ -1,5 +1,4 @@
-Stigmella graminicola Linder SPECIES
-=======
+# Stigmella graminicola Linder SPECIES
 
 #### Status
 ACCEPTED

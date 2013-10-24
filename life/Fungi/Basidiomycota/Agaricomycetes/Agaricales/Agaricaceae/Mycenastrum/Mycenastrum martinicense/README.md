@@ -1,5 +1,4 @@
-Mycenastrum martinicense Pat. SPECIES
-=======
+# Mycenastrum martinicense Pat. SPECIES
 
 #### Status
 ACCEPTED

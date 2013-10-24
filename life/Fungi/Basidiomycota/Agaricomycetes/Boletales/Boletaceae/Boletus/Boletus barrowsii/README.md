@@ -1,5 +1,4 @@
-Boletus barrowsii Thiers & A.H. Sm. SPECIES
-=======
+# Boletus barrowsii Thiers & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

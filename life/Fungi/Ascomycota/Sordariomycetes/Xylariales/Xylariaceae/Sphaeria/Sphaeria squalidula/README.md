@@ -1,5 +1,4 @@
-Sphaeria squalidula Cooke & Peck SPECIES
-=======
+# Sphaeria squalidula Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

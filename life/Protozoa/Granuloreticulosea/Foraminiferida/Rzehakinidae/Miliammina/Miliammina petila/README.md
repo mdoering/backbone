@@ -1,5 +1,4 @@
-Miliammina petila Saunders, 1958 SPECIES
-=======
+# Miliammina petila Saunders, 1958 SPECIES
 
 #### Status
 ACCEPTED

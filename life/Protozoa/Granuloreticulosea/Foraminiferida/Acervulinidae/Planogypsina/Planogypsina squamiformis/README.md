@@ -1,5 +1,4 @@
-Planogypsina squamiformis SPECIES
-=======
+# Planogypsina squamiformis SPECIES
 
 #### Status
 ACCEPTED

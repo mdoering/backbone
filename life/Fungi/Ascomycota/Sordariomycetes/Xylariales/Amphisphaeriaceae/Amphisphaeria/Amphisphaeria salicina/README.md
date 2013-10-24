@@ -1,5 +1,4 @@
-Amphisphaeria salicina (Rehm) Sacc. SPECIES
-=======
+# Amphisphaeria salicina (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

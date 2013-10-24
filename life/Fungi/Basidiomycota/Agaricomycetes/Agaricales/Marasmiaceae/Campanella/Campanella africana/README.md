@@ -1,5 +1,4 @@
-Campanella africana Pegler SPECIES
-=======
+# Campanella africana Pegler SPECIES
 
 #### Status
 ACCEPTED

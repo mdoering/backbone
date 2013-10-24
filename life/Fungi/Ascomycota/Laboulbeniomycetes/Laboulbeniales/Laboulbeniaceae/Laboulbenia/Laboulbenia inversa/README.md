@@ -1,5 +1,4 @@
-Laboulbenia inversa W. Rossi SPECIES
-=======
+# Laboulbenia inversa W. Rossi SPECIES
 
 #### Status
 ACCEPTED

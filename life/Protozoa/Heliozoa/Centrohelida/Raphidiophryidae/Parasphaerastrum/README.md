@@ -1,5 +1,4 @@
-Parasphaerastrum Mikrjukov, 1996 GENUS
-=======
+# Parasphaerastrum Mikrjukov, 1996 GENUS
 
 #### Status
 ACCEPTED

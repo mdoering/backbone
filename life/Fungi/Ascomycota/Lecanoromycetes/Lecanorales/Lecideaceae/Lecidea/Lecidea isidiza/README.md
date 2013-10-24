@@ -1,5 +1,4 @@
-Lecidea isidiza Vain. SPECIES
-=======
+# Lecidea isidiza Vain. SPECIES
 
 #### Status
 ACCEPTED

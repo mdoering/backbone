@@ -1,5 +1,4 @@
-Hirsutella huangshanensis C.R. Li, M.Z. Fan & Z.Z. Li SPECIES
-=======
+# Hirsutella huangshanensis C.R. Li, M.Z. Fan & Z.Z. Li SPECIES
 
 #### Status
 ACCEPTED

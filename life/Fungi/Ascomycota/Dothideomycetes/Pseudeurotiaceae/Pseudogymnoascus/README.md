@@ -1,5 +1,4 @@
-Pseudogymnoascus Raillo, 1929 GENUS
-=======
+# Pseudogymnoascus Raillo, 1929 GENUS
 
 #### Status
 ACCEPTED

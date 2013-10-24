@@ -1,5 +1,4 @@
-Fragosoella nevadensis (Gonz. Frag.) Petr. & Syd. SPECIES
-=======
+# Fragosoella nevadensis (Gonz. Frag.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

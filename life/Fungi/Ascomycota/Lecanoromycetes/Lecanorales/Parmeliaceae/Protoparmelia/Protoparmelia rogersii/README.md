@@ -1,5 +1,4 @@
-Protoparmelia rogersii Elix SPECIES
-=======
+# Protoparmelia rogersii Elix SPECIES
 
 #### Status
 ACCEPTED

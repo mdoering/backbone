@@ -1,5 +1,4 @@
-Peronospora parietariae Vanev & E.G. Dimitrova SPECIES
-=======
+# Peronospora parietariae Vanev & E.G. Dimitrova SPECIES
 
 #### Status
 ACCEPTED

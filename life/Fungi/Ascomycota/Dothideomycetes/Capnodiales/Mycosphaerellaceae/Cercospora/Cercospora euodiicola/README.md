@@ -1,17 +1,16 @@
-Cercospora evodiicola Boedijn SPECIES
-=======
+# Cercospora euodiicola Boedijn SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 3(4): 428 (1962)
 
 #### Original name
-Cercospora evodiicola Boedijn
+Cercospora euodiicola Boedijn
 
 ### Remarks
 null

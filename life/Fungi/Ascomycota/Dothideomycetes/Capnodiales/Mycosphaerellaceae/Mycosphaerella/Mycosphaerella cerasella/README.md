@@ -1,17 +1,16 @@
-Cercospora cerasella var. cerasella VARIETY
-=======
+# Mycosphaerella cerasella Aderh., 1900 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. dt. bot. Ges. 18: 246 (1900)
 
 #### Original name
-null
+Mycosphaerella cerasella Aderh., 1900
 
 ### Remarks
 null

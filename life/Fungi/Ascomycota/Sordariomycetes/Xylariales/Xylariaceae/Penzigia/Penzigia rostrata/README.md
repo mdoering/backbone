@@ -1,5 +1,4 @@
-Penzigia rostrata J.H. Mill. SPECIES
-=======
+# Penzigia rostrata J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

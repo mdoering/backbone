@@ -1,5 +1,4 @@
-Cladosporium fluvum Cooke SPECIES
-=======
+# Cladosporium fluvum Cooke SPECIES
 
 #### Status
 ACCEPTED

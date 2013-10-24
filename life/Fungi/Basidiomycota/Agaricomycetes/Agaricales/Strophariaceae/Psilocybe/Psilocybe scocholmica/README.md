@@ -1,5 +1,4 @@
-Psilocybe scocholmica Park.-Rhodes SPECIES
-=======
+# Psilocybe scocholmica Park.-Rhodes SPECIES
 
 #### Status
 ACCEPTED

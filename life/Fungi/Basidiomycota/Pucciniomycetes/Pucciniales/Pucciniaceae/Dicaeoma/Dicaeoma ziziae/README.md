@@ -1,5 +1,4 @@
-Dicaeoma ziziae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma ziziae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

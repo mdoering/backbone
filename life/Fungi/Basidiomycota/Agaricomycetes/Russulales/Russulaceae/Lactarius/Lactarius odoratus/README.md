@@ -1,5 +1,4 @@
-Lactarius odoratus Velen. SPECIES
-=======
+# Lactarius odoratus Velen. SPECIES
 
 #### Status
 ACCEPTED

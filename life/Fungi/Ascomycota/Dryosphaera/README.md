@@ -1,5 +1,4 @@
-Dryosphaera Jørg. Koch & E.B.G. Jones GENUS
-=======
+# Dryosphaera Jørg. Koch & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

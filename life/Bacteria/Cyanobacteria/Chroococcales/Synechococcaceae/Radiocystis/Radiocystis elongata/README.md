@@ -1,5 +1,4 @@
-Radiocystis elongata F. Hindák SPECIES
-=======
+# Radiocystis elongata F. Hindák SPECIES
 
 #### Status
 ACCEPTED

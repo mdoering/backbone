@@ -1,5 +1,4 @@
-Lirasporis dongpuensis Z.C. Song SPECIES
-=======
+# Lirasporis dongpuensis Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

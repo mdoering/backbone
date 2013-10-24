@@ -1,5 +1,4 @@
-Uredo cupheicola H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo cupheicola H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mesocena polyactis K. Tsumura SPECIES
-=======
+# Mesocena polyactis K. Tsumura SPECIES
 
 #### Status
 ACCEPTED

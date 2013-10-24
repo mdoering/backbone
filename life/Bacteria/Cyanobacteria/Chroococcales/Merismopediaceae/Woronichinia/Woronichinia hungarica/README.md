@@ -1,5 +1,4 @@
-Woronichinia hungarica Hortobágyi SPECIES
-=======
+# Woronichinia hungarica Hortobágyi SPECIES
 
 #### Status
 ACCEPTED

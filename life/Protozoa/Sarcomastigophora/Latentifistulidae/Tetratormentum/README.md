@@ -1,5 +1,4 @@
-Tetratormentum Nazarov & Ormiston, 1985 GENUS
-=======
+# Tetratormentum Nazarov & Ormiston, 1985 GENUS
 
 #### Status
 ACCEPTED

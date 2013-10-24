@@ -1,5 +1,4 @@
-Coprinopsis myceliocephala (M. Lange) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis myceliocephala (M. Lange) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

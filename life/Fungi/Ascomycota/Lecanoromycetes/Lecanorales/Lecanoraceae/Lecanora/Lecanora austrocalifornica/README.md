@@ -1,5 +1,4 @@
-Lecanora austrocalifornica Lendemer & K. Knudsen SPECIES
-=======
+# Lecanora austrocalifornica Lendemer & K. Knudsen SPECIES
 
 #### Status
 ACCEPTED

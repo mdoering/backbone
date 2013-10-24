@@ -1,5 +1,4 @@
-Coccidophthora Syd. & P. Syd. GENUS
-=======
+# Coccidophthora Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

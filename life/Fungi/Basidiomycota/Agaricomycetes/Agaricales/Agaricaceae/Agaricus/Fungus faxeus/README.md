@@ -1,5 +1,4 @@
-Fungus faxeus Rumph. SPECIES
-=======
+# Fungus faxeus Rumph. SPECIES
 
 #### Status
 ACCEPTED

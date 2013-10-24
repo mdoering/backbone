@@ -1,5 +1,4 @@
-Pseudocyphellaria guzmanii D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria guzmanii D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

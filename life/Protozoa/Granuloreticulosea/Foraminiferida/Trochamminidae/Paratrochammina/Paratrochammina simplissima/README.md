@@ -1,5 +1,4 @@
-Paratrochammina simplissima (Cushman & McCulloch, 1939) SPECIES
-=======
+# Paratrochammina simplissima (Cushman & McCulloch, 1939) SPECIES
 
 #### Status
 ACCEPTED

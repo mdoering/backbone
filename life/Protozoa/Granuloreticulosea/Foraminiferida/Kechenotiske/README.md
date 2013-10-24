@@ -1,5 +1,4 @@
-Kechenotiske Loeblich & Tappan, 1984 GENUS
-=======
+# Kechenotiske Loeblich & Tappan, 1984 GENUS
 
 #### Status
 ACCEPTED

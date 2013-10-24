@@ -1,5 +1,4 @@
-Cyclidium ozakii SPECIES
-=======
+# Cyclidium ozakii SPECIES
 
 #### Status
 ACCEPTED

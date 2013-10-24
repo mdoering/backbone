@@ -1,5 +1,4 @@
-Squamaria pulla Hoffm. SPECIES
-=======
+# Squamaria pulla Hoffm. SPECIES
 
 #### Status
 ACCEPTED

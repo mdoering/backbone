@@ -1,5 +1,4 @@
-Cytophaga anularis SPECIES
-=======
+# Cytophaga anularis SPECIES
 
 #### Status
 ACCEPTED

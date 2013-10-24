@@ -1,5 +1,4 @@
-Prospodium wulffiae Thurst. SPECIES
-=======
+# Prospodium wulffiae Thurst. SPECIES
 
 #### Status
 ACCEPTED

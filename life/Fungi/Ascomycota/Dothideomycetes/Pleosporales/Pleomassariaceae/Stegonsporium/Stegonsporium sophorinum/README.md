@@ -1,5 +1,4 @@
-Stegonsporium sophorinum S. Ahmad SPECIES
-=======
+# Stegonsporium sophorinum S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

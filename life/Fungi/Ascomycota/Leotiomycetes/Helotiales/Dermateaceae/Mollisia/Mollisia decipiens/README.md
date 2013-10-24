@@ -1,5 +1,4 @@
-Mollisia decipiens (De Not.) Sacc. SPECIES
-=======
+# Mollisia decipiens (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

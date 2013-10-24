@@ -1,5 +1,4 @@
-Brizalina alvarezi (Sellier de Civrieux, 1976) SPECIES
-=======
+# Brizalina alvarezi (Sellier de Civrieux, 1976) SPECIES
 
 #### Status
 ACCEPTED

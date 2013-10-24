@@ -1,5 +1,4 @@
-Gloeosporium nigricans Cooke & Massee SPECIES
-=======
+# Gloeosporium nigricans Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

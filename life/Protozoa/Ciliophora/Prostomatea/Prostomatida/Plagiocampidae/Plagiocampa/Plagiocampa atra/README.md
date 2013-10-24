@@ -1,5 +1,4 @@
-Plagiocampa atra Grandori & Grandori, 1934 SPECIES
-=======
+# Plagiocampa atra Grandori & Grandori, 1934 SPECIES
 
 #### Status
 ACCEPTED

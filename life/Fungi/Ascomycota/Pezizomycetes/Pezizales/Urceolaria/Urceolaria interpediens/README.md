@@ -1,5 +1,4 @@
-Urceolaria interpediens Nyl. SPECIES
-=======
+# Urceolaria interpediens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia mimuli var. mimuli VARIETY
-=======
+# Ramularia mimuli Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Am. Nat. 17: 1166 (1883)
 
 #### Original name
-Ramularia mimuli var. mimuli
+Ramularia mimuli Ellis & Kellerm.
 
 ### Remarks
 null

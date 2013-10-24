@@ -1,5 +1,4 @@
-Clitocybe madefacta H.E. Bigelow SPECIES
-=======
+# Clitocybe madefacta H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

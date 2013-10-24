@@ -1,5 +1,4 @@
-Guignardia heterotrichi F. Stevens SPECIES
-=======
+# Guignardia heterotrichi F. Stevens SPECIES
 
 #### Status
 ACCEPTED

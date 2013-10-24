@@ -1,5 +1,4 @@
-Achroomyces robertsii Trichies SPECIES
-=======
+# Achroomyces robertsii Trichies SPECIES
 
 #### Status
 ACCEPTED

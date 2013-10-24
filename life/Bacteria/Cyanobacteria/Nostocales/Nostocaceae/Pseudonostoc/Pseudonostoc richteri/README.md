@@ -1,5 +1,4 @@
-Pseudonostoc richteri Elenkin SPECIES
-=======
+# Pseudonostoc richteri Elenkin SPECIES
 
 #### Status
 ACCEPTED

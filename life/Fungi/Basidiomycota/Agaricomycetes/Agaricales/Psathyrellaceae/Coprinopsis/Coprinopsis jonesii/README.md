@@ -1,17 +1,16 @@
-Coprinus lagopides var. lagopides VARIETY
-=======
+# Coprinopsis jonesii (Peck) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 5: 23 (1879)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 228 (2001)
 
 #### Original name
-Coprinus lagopides var. lagopides
+Coprinus jonesii Peck, 1895
 
 ### Remarks
 null

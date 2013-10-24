@@ -1,5 +1,4 @@
-Lecidella protracta (Darb.) Hertel SPECIES
-=======
+# Lecidella protracta (Darb.) Hertel SPECIES
 
 #### Status
 ACCEPTED

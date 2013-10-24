@@ -1,5 +1,4 @@
-Triloculina trihedra Loeblich & Tappan, 1953 SPECIES
-=======
+# Triloculina trihedra Loeblich & Tappan, 1953 SPECIES
 
 #### Status
 ACCEPTED

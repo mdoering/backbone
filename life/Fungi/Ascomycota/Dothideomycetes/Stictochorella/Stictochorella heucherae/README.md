@@ -1,5 +1,4 @@
-Stictochorella heucherae (Ellis & Everh.) Petr. SPECIES
-=======
+# Stictochorella heucherae (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon diffusum Lloyd SPECIES
-=======
+# Hypoxylon diffusum Lloyd SPECIES
 
 #### Status
 ACCEPTED

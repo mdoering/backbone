@@ -1,8 +1,7 @@
-Microbispora viridis Miyadoh et al., 1985 SPECIES
-=======
+# Actinomadura rugatobispora Miyadoh et al., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

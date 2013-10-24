@@ -1,5 +1,4 @@
-Uredo monochaetii F. Kern & Thurst. SPECIES
-=======
+# Uredo monochaetii F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza abietina Grelet SPECIES
-=======
+# Trichopeziza abietina Grelet SPECIES
 
 #### Status
 ACCEPTED

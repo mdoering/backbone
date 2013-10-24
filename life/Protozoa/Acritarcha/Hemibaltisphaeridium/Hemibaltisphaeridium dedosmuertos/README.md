@@ -1,5 +1,4 @@
-Hemibaltisphaeridium dedosmuertos (Cramer, 1964) Cramer, 1970 SPECIES
-=======
+# Hemibaltisphaeridium dedosmuertos (Cramer, 1964) Cramer, 1970 SPECIES
 
 #### Status
 ACCEPTED

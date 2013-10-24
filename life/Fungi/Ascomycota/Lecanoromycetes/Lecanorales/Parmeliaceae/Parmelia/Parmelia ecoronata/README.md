@@ -1,5 +1,4 @@
-Parmelia ecoronata Nyl. SPECIES
-=======
+# Parmelia ecoronata Nyl. SPECIES
 
 #### Status
 ACCEPTED

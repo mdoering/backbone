@@ -1,5 +1,4 @@
-Clasterosporium ellisii Sacc. & P. Syd. SPECIES
-=======
+# Clasterosporium ellisii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amerosporium caricicola Höhn. SPECIES
-=======
+# Amerosporium caricicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

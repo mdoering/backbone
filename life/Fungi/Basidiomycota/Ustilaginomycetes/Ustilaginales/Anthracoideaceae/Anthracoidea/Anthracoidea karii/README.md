@@ -1,14 +1,13 @@
-Cintractia karii Liro, 1934 SPECIES
-=======
+# Anthracoidea karii (Liro) Nannf., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Ustilageen Finlands 2: 31 (1934)
+Bot. Notiser 130(4): 368 (1977)
 
 #### Original name
 Cintractia karii Liro, 1934

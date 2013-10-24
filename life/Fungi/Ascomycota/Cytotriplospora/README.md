@@ -1,5 +1,4 @@
-Cytotriplospora GENUS
-=======
+# Cytotriplospora GENUS
 
 #### Status
 ACCEPTED

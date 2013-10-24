@@ -1,17 +1,16 @@
-Shimizuomyces paradoxa Kobayasi SPECIES
-=======
+# Shimizuomyces paradoxus Kobayasi, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. natn. Sci. Mus. , Tokyo, B 7(1): 1 (1981)
 
 #### Original name
-Shimizuomyces paradoxa Kobayasi
+Shimizuomyces paradoxus Kobayasi, 1981
 
 ### Remarks
 null

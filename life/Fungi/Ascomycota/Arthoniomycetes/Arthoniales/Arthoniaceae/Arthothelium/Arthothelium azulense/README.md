@@ -1,5 +1,4 @@
-Arthothelium azulense B. de Lesd. SPECIES
-=======
+# Arthothelium azulense B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

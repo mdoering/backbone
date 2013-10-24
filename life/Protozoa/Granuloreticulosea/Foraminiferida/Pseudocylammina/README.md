@@ -1,5 +1,4 @@
-Pseudocylammina GENUS
-=======
+# Pseudocylammina GENUS
 
 #### Status
 ACCEPTED

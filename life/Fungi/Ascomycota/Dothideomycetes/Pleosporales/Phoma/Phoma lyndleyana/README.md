@@ -1,5 +1,4 @@
-Phoma lyndleyana Sacc. SPECIES
-=======
+# Phoma lyndleyana Sacc. SPECIES
 
 #### Status
 ACCEPTED

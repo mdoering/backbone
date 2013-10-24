@@ -1,5 +1,4 @@
-Phaneromyces Speg. & Hara GENUS
-=======
+# Phaneromyces Speg. & Hara GENUS
 
 #### Status
 ACCEPTED

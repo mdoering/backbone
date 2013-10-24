@@ -1,8 +1,7 @@
-Nectria rimicola Cooke SPECIES
-=======
+# Nectria rimincola Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nectria rimicola Cooke
+Nectria rimincola Cooke
 
 ### Remarks
 null

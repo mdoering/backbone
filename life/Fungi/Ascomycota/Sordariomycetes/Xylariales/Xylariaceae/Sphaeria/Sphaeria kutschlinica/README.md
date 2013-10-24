@@ -1,5 +1,4 @@
-Sphaeria kutschlinica Ettingsh. SPECIES
-=======
+# Sphaeria kutschlinica Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

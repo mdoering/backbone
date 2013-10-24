@@ -1,5 +1,4 @@
-Candida sphaerica (B.W. Hammer & Cordes) S.A. Mey. & Yarrow SPECIES
-=======
+# Candida sphaerica (B.W. Hammer & Cordes) S.A. Mey. & Yarrow SPECIES
 
 #### Status
 ACCEPTED

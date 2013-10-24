@@ -1,5 +1,4 @@
-Labyrinthula zopfii Valkanov SPECIES
-=======
+# Labyrinthula zopfii Valkanov SPECIES
 
 #### Status
 ACCEPTED

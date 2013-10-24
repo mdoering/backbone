@@ -1,14 +1,13 @@
-Astrosporina proximella (P. Karst.) Rea, 1922 SPECIES
-=======
+# Inocybe proximella P. Karst., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. basidiomyc. (Cambridge) 208 (1922)
+Symb. mycol. fenn. 9: 44 (1882)
 
 #### Original name
 Inocybe proximella P. Karst., 1882

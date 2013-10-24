@@ -1,5 +1,4 @@
-Akaropeltis rubiaceifolii Bat. & H. Maia SPECIES
-=======
+# Akaropeltis rubiaceifolii Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

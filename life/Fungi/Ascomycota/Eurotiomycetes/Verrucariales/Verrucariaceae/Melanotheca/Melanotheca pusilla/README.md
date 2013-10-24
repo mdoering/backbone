@@ -1,5 +1,4 @@
-Melanotheca pusilla (Jatta) C.W. Dodge SPECIES
-=======
+# Melanotheca pusilla (Jatta) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

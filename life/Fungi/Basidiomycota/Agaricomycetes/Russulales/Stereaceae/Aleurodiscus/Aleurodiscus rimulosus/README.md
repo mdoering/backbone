@@ -1,5 +1,4 @@
-Aleurodiscus rimulosus Núñez & Ryvarden SPECIES
-=======
+# Aleurodiscus rimulosus Núñez & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

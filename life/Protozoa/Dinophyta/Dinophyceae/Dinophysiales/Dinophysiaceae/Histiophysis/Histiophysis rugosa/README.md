@@ -1,5 +1,4 @@
-Histiophysis rugosa (Kofoid & Michener) Kofoid & Skogsberg SPECIES
-=======
+# Histiophysis rugosa (Kofoid & Michener) Kofoid & Skogsberg SPECIES
 
 #### Status
 ACCEPTED

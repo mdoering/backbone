@@ -1,5 +1,4 @@
-Streptomyces coeruleoflavus Preobrazhenskaya & Maximova, 1986 SPECIES
-=======
+# Streptomyces coeruleoflavus Preobrazhenskaya & Maximova, 1986 SPECIES
 
 #### Status
 ACCEPTED

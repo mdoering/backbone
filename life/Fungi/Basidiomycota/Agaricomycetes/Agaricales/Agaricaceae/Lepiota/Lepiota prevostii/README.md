@@ -1,14 +1,13 @@
-Lepiota prevosti (Roum.) Sacc. SPECIES
-=======
+# Lepiota prevostii (Roum.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 30 (1887)
 
 #### Original name
 Agaricus prevostii Roum.

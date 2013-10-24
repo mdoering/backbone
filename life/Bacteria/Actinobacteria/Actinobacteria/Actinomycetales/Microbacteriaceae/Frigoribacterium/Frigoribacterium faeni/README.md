@@ -1,5 +1,4 @@
-Frigoribacterium faeni Kämpfer et al., 2000 SPECIES
-=======
+# Frigoribacterium faeni Kämpfer et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

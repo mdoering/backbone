@@ -1,5 +1,4 @@
-Buliminella californica SPECIES
-=======
+# Buliminella californica SPECIES
 
 #### Status
 ACCEPTED

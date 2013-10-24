@@ -1,5 +1,4 @@
-Amanita zambiana Pegler & Piearce SPECIES
-=======
+# Amanita zambiana Pegler & Piearce SPECIES
 
 #### Status
 ACCEPTED

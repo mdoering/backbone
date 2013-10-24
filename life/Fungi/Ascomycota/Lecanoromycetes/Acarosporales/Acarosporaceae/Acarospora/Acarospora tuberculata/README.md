@@ -1,5 +1,4 @@
-Acarospora tuberculata H. Magn. SPECIES
-=======
+# Acarospora tuberculata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

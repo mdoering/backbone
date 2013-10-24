@@ -1,5 +1,4 @@
-Halteria tamari Dragesco & Dragesco-Kernéis, 1986 SPECIES
-=======
+# Halteria tamari Dragesco & Dragesco-Kernéis, 1986 SPECIES
 
 #### Status
 ACCEPTED

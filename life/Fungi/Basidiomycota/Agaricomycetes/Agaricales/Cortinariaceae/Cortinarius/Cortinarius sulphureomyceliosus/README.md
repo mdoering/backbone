@@ -1,5 +1,4 @@
-Cortinarius sulphureomyceliosus Svrcek SPECIES
-=======
+# Cortinarius sulphureomyceliosus Svrcek SPECIES
 
 #### Status
 ACCEPTED

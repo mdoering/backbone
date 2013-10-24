@@ -1,5 +1,4 @@
-Splanchospora L.N. Vasil'eva GENUS
-=======
+# Splanchospora L.N. Vasil'eva GENUS
 
 #### Status
 ACCEPTED

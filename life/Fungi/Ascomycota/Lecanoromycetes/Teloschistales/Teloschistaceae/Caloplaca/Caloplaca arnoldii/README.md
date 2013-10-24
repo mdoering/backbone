@@ -1,17 +1,16 @@
-Lichen oblitteratus Pers. SPECIES
-=======
+# Caloplaca arnoldii (Wedd.) Zahlbr. ex Ginzb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Denkschr. Kaiserl. Akad. Wiss. Wien, Math. -Naturwiss. Kl. 92: 319 (1915)
 
 #### Original name
-null
+Lecanora arnoldii (Hue) Lettau
 
 ### Remarks
 null

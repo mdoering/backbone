@@ -1,5 +1,4 @@
-Systremma taxi (Woron.) Woron. SPECIES
-=======
+# Systremma taxi (Woron.) Woron. SPECIES
 
 #### Status
 ACCEPTED

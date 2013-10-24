@@ -1,5 +1,4 @@
-Marasmius straminipes var. straminipes VARIETY
-=======
+# Marasmius straminipes Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius straminipes var. straminipes
+Marasmius straminipes Peck
 
 ### Remarks
 null

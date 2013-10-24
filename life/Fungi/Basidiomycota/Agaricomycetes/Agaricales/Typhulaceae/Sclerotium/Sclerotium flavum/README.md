@@ -1,5 +1,4 @@
-Sclerotium flavum Schumach. SPECIES
-=======
+# Sclerotium flavum Schumach. SPECIES
 
 #### Status
 ACCEPTED

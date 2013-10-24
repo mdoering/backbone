@@ -1,5 +1,4 @@
-Entoloma occultum E. Horak SPECIES
-=======
+# Entoloma occultum E. Horak SPECIES
 
 #### Status
 ACCEPTED

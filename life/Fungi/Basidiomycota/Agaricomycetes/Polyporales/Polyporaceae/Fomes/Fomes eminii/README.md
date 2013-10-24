@@ -1,17 +1,16 @@
-Fomes emini Henn. SPECIES
-=======
+# Fomes eminii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. (1893)
 
 #### Original name
-Fomes emini Henn.
+Fomes eminii Henn.
 
 ### Remarks
 null

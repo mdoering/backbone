@@ -1,5 +1,4 @@
-Alternaria beringelae E.G. Simmons SPECIES
-=======
+# Alternaria beringelae E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

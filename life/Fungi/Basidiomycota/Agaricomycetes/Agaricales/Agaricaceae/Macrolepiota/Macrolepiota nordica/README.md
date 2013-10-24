@@ -1,5 +1,4 @@
-Macrolepiota nordica Bellù SPECIES
-=======
+# Macrolepiota nordica Bellù SPECIES
 
 #### Status
 ACCEPTED

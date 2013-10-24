@@ -1,14 +1,13 @@
-Muellerella frustulosae Vouaux SPECIES
-=======
+# Rosellinula frustulosae (Vouaux) R. Sant., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Thunbergia 6: 7, no. 119 (1988)
 
 #### Original name
 Muellerella frustulosae Vouaux

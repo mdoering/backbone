@@ -1,5 +1,4 @@
-Panellus magnus Corner, 1986 SPECIES
-=======
+# Panellus magnus Corner, 1986 SPECIES
 
 #### Status
 ACCEPTED

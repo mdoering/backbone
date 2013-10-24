@@ -1,5 +1,4 @@
-Dokdonia donghaensis Yoon et al., 2005 SPECIES
-=======
+# Dokdonia donghaensis Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

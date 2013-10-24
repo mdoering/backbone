@@ -1,5 +1,4 @@
-Otomyces hagenii Hallier SPECIES
-=======
+# Otomyces hagenii Hallier SPECIES
 
 #### Status
 ACCEPTED

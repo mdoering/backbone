@@ -1,5 +1,4 @@
-Lembosia erythrophlaei Henn. SPECIES
-=======
+# Lembosia erythrophlaei Henn. SPECIES
 
 #### Status
 ACCEPTED

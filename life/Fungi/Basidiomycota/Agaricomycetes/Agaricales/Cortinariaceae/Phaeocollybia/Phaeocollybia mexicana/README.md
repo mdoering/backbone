@@ -1,5 +1,4 @@
-Phaeocollybia mexicana Corner & E. Horak SPECIES
-=======
+# Phaeocollybia mexicana Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

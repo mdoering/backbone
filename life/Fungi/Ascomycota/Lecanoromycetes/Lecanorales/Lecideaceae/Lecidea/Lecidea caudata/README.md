@@ -1,5 +1,4 @@
-Lecidea caudata Nyl. SPECIES
-=======
+# Lecidea caudata Nyl. SPECIES
 
 #### Status
 ACCEPTED

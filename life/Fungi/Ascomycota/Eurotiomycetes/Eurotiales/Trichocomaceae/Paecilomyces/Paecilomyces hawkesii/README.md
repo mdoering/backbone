@@ -1,5 +1,4 @@
-Paecilomyces hawkesii Z.M. Xiao, T.B. Li & Q.T. Chen, 1984 SPECIES
-=======
+# Paecilomyces hawkesii Z.M. Xiao, T.B. Li & Q.T. Chen, 1984 SPECIES
 
 #### Status
 ACCEPTED

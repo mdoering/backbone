@@ -1,5 +1,4 @@
-Aecidium rhamni-tertiariae Engelhard SPECIES
-=======
+# Aecidium rhamni-tertiariae Engelhard SPECIES
 
 #### Status
 ACCEPTED

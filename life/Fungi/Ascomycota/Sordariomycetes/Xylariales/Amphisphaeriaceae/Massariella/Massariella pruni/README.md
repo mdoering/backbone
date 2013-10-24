@@ -1,5 +1,4 @@
-Massariella pruni Hüseyin SPECIES
-=======
+# Massariella pruni Hüseyin SPECIES
 
 #### Status
 ACCEPTED

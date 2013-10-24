@@ -1,5 +1,4 @@
-Peltigera bella Spreng. SPECIES
-=======
+# Peltigera bella Spreng. SPECIES
 
 #### Status
 ACCEPTED

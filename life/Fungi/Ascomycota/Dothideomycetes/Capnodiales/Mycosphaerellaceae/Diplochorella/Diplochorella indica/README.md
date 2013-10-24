@@ -1,5 +1,4 @@
-Diplochorella indica (Sacc.) Theiss. & P. Syd. SPECIES
-=======
+# Diplochorella indica (Sacc.) Theiss. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

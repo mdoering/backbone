@@ -1,5 +1,4 @@
-Kalmusia pachyasca (Cooke & Ellis) Sacc. SPECIES
-=======
+# Kalmusia pachyasca (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

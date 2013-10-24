@@ -1,5 +1,4 @@
-Aphanothece nostocopsis Skuja SPECIES
-=======
+# Aphanothece nostocopsis Skuja SPECIES
 
 #### Status
 ACCEPTED

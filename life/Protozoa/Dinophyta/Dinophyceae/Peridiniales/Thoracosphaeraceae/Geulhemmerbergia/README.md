@@ -1,5 +1,4 @@
-Geulhemmerbergia Willems, 1996 GENUS
-=======
+# Geulhemmerbergia Willems, 1996 GENUS
 
 #### Status
 ACCEPTED

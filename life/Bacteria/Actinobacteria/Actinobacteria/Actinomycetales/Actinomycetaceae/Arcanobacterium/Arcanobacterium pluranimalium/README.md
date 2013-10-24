@@ -1,5 +1,4 @@
-Arcanobacterium pluranimalium Lawson et al., 2001 SPECIES
-=======
+# Arcanobacterium pluranimalium Lawson et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

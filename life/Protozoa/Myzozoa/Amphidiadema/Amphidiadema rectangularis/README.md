@@ -1,5 +1,4 @@
-Amphidiadema rectangularis (Cookson & Eisenack, 1962) Lentin & Williams SPECIES
-=======
+# Amphidiadema rectangularis (Cookson & Eisenack, 1962) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

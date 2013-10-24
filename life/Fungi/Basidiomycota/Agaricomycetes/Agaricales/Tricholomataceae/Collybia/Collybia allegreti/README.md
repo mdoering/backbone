@@ -1,5 +1,4 @@
-Collybia allegreti (De Seynes) Pegler SPECIES
-=======
+# Collybia allegreti (De Seynes) Pegler SPECIES
 
 #### Status
 ACCEPTED

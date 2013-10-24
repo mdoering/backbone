@@ -1,8 +1,7 @@
-Padina commersonii Bory de Saint-Vincent SPECIES
-=======
+# Padina boryana Thivy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

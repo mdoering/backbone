@@ -1,5 +1,4 @@
-Peziza vaccinea Schumach. SPECIES
-=======
+# Peziza vaccinea Schumach. SPECIES
 
 #### Status
 ACCEPTED

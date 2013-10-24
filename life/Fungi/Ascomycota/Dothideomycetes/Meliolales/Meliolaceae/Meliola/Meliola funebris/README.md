@@ -1,5 +1,4 @@
-Meliola funebris Cif. SPECIES
-=======
+# Meliola funebris Cif. SPECIES
 
 #### Status
 ACCEPTED

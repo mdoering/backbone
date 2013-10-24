@@ -1,5 +1,4 @@
-Clavaria subumbrinella S. Imai SPECIES
-=======
+# Clavaria subumbrinella S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypochnus bubacii Velen. SPECIES
-=======
+# Hypochnus bubacii Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeromphale elegans (Wallr.) Körb. SPECIES
-=======
+# Sphaeromphale elegans (Wallr.) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caldesiella ferruginea SPECIES
-=======
+# Caldesiella ferruginea SPECIES
 
 #### Status
 ACCEPTED

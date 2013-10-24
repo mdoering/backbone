@@ -1,5 +1,4 @@
-Clitocybe dimorpha Berk. & Broome SPECIES
-=======
+# Clitocybe dimorpha Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

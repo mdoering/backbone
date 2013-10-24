@@ -1,5 +1,4 @@
-Gymnodinium cnodax Conrad & Kufferath SPECIES
-=======
+# Gymnodinium cnodax Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

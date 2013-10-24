@@ -1,5 +1,4 @@
-Diplodia cupressi A.J.L. Phillips & A. Alves SPECIES
-=======
+# Diplodia cupressi A.J.L. Phillips & A. Alves SPECIES
 
 #### Status
 ACCEPTED

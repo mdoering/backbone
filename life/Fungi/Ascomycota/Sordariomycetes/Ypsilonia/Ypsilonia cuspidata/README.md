@@ -1,5 +1,4 @@
-Ypsilonia cuspidata Lév., 1846 SPECIES
-=======
+# Ypsilonia cuspidata Lév., 1846 SPECIES
 
 #### Status
 ACCEPTED

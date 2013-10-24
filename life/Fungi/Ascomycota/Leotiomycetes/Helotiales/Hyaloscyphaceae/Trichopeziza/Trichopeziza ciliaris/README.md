@@ -1,5 +1,4 @@
-Trichopeziza ciliaris Rehm SPECIES
-=======
+# Trichopeziza ciliaris Rehm SPECIES
 
 #### Status
 ACCEPTED

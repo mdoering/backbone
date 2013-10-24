@@ -1,5 +1,4 @@
-Helotiella mercurialis (Boud.) Sacc. SPECIES
-=======
+# Helotiella mercurialis (Boud.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

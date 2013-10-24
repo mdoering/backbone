@@ -1,5 +1,4 @@
-Pluteus martinicensis Singer & Fiard SPECIES
-=======
+# Pluteus martinicensis Singer & Fiard SPECIES
 
 #### Status
 ACCEPTED

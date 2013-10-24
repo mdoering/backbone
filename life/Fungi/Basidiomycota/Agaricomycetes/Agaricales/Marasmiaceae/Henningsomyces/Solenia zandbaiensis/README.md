@@ -1,5 +1,4 @@
-Solenia zandbaiensis Henn. & E. Nyman SPECIES
-=======
+# Solenia zandbaiensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

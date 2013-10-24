@@ -1,5 +1,4 @@
-Rhizaspis simplex Skuja SPECIES
-=======
+# Rhizaspis simplex Skuja SPECIES
 
 #### Status
 ACCEPTED

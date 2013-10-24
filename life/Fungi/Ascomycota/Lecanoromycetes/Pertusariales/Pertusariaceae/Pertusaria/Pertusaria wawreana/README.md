@@ -1,5 +1,4 @@
-Pertusaria wawreana A. Massal. SPECIES
-=======
+# Pertusaria wawreana A. Massal. SPECIES
 
 #### Status
 ACCEPTED

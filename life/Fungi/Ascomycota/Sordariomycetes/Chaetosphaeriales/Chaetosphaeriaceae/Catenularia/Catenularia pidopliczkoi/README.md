@@ -1,5 +1,4 @@
-Catenularia pidopliczkoi (Zhdanova) M.A. Litv. SPECIES
-=======
+# Catenularia pidopliczkoi (Zhdanova) M.A. Litv. SPECIES
 
 #### Status
 ACCEPTED

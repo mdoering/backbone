@@ -1,5 +1,4 @@
-Clitocybe parasitica Wilcox SPECIES
-=======
+# Clitocybe parasitica Wilcox SPECIES
 
 #### Status
 ACCEPTED

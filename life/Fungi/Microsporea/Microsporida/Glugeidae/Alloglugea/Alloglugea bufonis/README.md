@@ -1,5 +1,4 @@
-Alloglugea bufonis Paperna & Lainson SPECIES
-=======
+# Alloglugea bufonis Paperna & Lainson SPECIES
 
 #### Status
 ACCEPTED

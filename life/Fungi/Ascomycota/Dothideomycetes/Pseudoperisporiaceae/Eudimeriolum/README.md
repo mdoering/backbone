@@ -1,5 +1,4 @@
-Eudimeriolum Speg. GENUS
-=======
+# Eudimeriolum Speg. GENUS
 
 #### Status
 ACCEPTED

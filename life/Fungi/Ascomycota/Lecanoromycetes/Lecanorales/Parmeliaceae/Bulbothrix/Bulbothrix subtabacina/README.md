@@ -1,14 +1,13 @@
-Parmelia subtabacina Elix SPECIES
-=======
+# Bulbothrix subtabacina (Elix) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Elix & Stevens, Aust. J. Bot. 27: 875 (1979)
+Mycotaxon 47: 127 (1993)
 
 #### Original name
 Parmelia subtabacina Elix

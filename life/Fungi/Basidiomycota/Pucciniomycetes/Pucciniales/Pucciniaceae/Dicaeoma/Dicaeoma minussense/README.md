@@ -1,5 +1,4 @@
-Dicaeoma minussense (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma minussense (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

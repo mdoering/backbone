@@ -1,5 +1,4 @@
-Laurera bispora D.D. Awasthi SPECIES
-=======
+# Laurera bispora D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

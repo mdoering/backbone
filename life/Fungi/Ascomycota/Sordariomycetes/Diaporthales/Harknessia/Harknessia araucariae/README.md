@@ -1,5 +1,4 @@
-Harknessia araucariae B. Sutton & Hodges SPECIES
-=======
+# Harknessia araucariae B. Sutton & Hodges SPECIES
 
 #### Status
 ACCEPTED

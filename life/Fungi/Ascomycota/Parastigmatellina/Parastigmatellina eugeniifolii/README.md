@@ -1,5 +1,4 @@
-Parastigmatellina eugeniifolii Bat. & Peres SPECIES
-=======
+# Parastigmatellina eugeniifolii Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

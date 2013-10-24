@@ -1,5 +1,4 @@
-Diaporthe faberi (Kunze) Sacc. SPECIES
-=======
+# Diaporthe faberi (Kunze) Sacc. SPECIES
 
 #### Status
 ACCEPTED

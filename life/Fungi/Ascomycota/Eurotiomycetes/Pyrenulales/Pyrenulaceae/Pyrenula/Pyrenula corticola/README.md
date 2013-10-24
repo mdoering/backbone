@@ -1,5 +1,4 @@
-Pyrenula corticola R.K. Verma & Kamal SPECIES
-=======
+# Pyrenula corticola R.K. Verma & Kamal SPECIES
 
 #### Status
 ACCEPTED

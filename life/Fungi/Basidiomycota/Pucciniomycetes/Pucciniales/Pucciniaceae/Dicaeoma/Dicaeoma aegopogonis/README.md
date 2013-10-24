@@ -1,5 +1,4 @@
-Dicaeoma aegopogonis (Arthur & Holw.) Arthur & Fromme SPECIES
-=======
+# Dicaeoma aegopogonis (Arthur & Holw.) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

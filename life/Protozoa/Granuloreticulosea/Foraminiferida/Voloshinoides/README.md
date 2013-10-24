@@ -1,17 +1,16 @@
-Columnella Voloshina, 1965 GENUS
-=======
+# Voloshinoides Barnard & Banner, 1980 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Vop. Mikropaleont. 9: 149.
+Revista esp. Micropaleont. 12 (3): 390.
 
 #### Original name
-null
+Columnella Voloshina, 1965
 
 ### Remarks
 null

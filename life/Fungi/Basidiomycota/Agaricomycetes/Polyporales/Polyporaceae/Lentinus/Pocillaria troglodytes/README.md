@@ -1,5 +1,4 @@
-Pocillaria troglodytes (Fr.) Kuntze SPECIES
-=======
+# Pocillaria troglodytes (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

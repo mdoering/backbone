@@ -1,5 +1,4 @@
-Ascochyta antirrhini Petr. SPECIES
-=======
+# Ascochyta antirrhini Petr. SPECIES
 
 #### Status
 ACCEPTED

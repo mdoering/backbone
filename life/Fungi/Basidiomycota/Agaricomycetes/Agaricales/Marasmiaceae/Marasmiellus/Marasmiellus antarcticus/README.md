@@ -1,5 +1,4 @@
-Marasmiellus antarcticus Singer SPECIES
-=======
+# Marasmiellus antarcticus Singer SPECIES
 
 #### Status
 ACCEPTED

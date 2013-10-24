@@ -1,5 +1,4 @@
-Caliciopsis ventricosa (Ach.) Tibell SPECIES
-=======
+# Caliciopsis ventricosa (Ach.) Tibell SPECIES
 
 #### Status
 ACCEPTED

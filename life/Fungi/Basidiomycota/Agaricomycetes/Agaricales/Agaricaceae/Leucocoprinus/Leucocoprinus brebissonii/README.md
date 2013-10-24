@@ -1,17 +1,16 @@
-Armillaria subcava SPECIES
-=======
+# Leucocoprinus brebissonii (Godey) Locq., 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. mens. Soc. linn. Lyon 12: 95 (1943)
 
 #### Original name
-Armillaria subcava
+Lepiota brebissonii Godey, 1874
 
 ### Remarks
 null

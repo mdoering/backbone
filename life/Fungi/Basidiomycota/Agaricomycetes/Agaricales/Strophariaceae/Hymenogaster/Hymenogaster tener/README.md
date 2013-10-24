@@ -1,17 +1,16 @@
-Hymenogaster tener var. arbuticola Henn. VARIETY
-=======
+# Hymenogaster tener Berk., 1844 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 1 13: 349 (1844)
 
 #### Original name
-Hymenogaster tener var. arbuticola Henn.
+Hymenogaster tener Berk., 1844
 
 ### Remarks
 null

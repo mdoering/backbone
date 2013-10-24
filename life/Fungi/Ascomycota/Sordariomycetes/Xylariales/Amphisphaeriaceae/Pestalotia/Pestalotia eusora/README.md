@@ -1,5 +1,4 @@
-Pestalotia eusora (Sacc.) Guba SPECIES
-=======
+# Pestalotia eusora (Sacc.) Guba SPECIES
 
 #### Status
 ACCEPTED

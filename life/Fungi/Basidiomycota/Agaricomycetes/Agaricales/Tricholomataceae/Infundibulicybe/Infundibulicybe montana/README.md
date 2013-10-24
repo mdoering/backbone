@@ -1,5 +1,4 @@
-Infundibulicybe montana (Harmaja) Harmaja SPECIES
-=======
+# Infundibulicybe montana (Harmaja) Harmaja SPECIES
 
 #### Status
 ACCEPTED

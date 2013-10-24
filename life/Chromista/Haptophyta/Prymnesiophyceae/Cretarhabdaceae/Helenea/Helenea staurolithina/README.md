@@ -1,8 +1,7 @@
-Microstaurus lindensis Black, 1971 SPECIES
-=======
+# Helenea staurolithina Worsley, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

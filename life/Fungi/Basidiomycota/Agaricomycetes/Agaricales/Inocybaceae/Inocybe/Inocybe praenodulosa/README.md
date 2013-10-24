@@ -1,5 +1,4 @@
-Inocybe praenodulosa Murrill SPECIES
-=======
+# Inocybe praenodulosa Murrill SPECIES
 
 #### Status
 ACCEPTED

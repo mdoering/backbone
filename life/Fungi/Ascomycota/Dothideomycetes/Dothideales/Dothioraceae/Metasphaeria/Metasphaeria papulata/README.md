@@ -1,5 +1,4 @@
-Metasphaeria papulata subsp. viridarii Sacc. SUBSPECIES
-=======
+# Metasphaeria papulata (Mouton) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Metasphaeria papulata subsp. viridarii Sacc.
+null
 
 ### Remarks
 null

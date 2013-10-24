@@ -1,14 +1,13 @@
-Coryne prasinula (P. Karst.) P. Karst., 1885 SPECIES
-=======
+# Claussenomyces prasinulus (P. Karst.) Korf & Abawi, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rev. Monag. Ascom. 140 (1885)
+Can. J. Bot. 49: 1882 (1971)
 
 #### Original name
 null

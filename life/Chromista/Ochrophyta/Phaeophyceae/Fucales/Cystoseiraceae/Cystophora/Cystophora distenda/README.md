@@ -1,5 +1,4 @@
-Cystophora distenda J. Agardh SPECIES
-=======
+# Cystophora distenda J. Agardh SPECIES
 
 #### Status
 ACCEPTED

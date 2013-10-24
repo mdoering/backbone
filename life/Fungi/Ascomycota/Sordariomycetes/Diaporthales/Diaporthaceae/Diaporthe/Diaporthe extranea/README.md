@@ -1,5 +1,4 @@
-Diaporthe extranea Sacc. SPECIES
-=======
+# Diaporthe extranea Sacc. SPECIES
 
 #### Status
 ACCEPTED

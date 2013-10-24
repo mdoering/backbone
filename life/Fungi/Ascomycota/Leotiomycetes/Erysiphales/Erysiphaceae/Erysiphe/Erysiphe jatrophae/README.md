@@ -1,5 +1,4 @@
-Erysiphe jatrophae Doidge SPECIES
-=======
+# Erysiphe jatrophae Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaeria minima Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria minima Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

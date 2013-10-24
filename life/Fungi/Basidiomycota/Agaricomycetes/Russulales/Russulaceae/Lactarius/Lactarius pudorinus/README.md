@@ -1,5 +1,4 @@
-Lactarius pudorinus Verbeken & Bougher SPECIES
-=======
+# Lactarius pudorinus Verbeken & Bougher SPECIES
 
 #### Status
 ACCEPTED

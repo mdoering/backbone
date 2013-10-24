@@ -1,8 +1,7 @@
-Calvatia lejospora Morgan SPECIES
-=======
+# Calvatia leiospora Morgan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calvatia lejospora Morgan
+Calvatia leiospora Morgan
 
 ### Remarks
 null

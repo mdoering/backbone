@@ -1,5 +1,4 @@
-Pleospora coronillae Severini SPECIES
-=======
+# Pleospora coronillae Severini SPECIES
 
 #### Status
 ACCEPTED

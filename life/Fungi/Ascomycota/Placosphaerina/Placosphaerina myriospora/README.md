@@ -1,14 +1,13 @@
-Stagonospora myriospora Pat. SPECIES
-=======
+# Placosphaerina myriospora (Pat.) Maire, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Soc. Hist. Nat. Afrique del N. (1917)
 
 #### Original name
 Stagonospora myriospora Pat.

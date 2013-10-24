@@ -1,5 +1,4 @@
-Phyllosticta yuccae Bissett SPECIES
-=======
+# Phyllosticta yuccae Bissett SPECIES
 
 #### Status
 ACCEPTED

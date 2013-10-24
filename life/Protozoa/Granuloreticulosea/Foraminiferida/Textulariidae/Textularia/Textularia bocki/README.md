@@ -1,5 +1,4 @@
-Textularia bocki Höglund, 1947 SPECIES
-=======
+# Textularia bocki Höglund, 1947 SPECIES
 
 #### Status
 ACCEPTED

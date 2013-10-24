@@ -1,5 +1,4 @@
-Urceolaria laeviuscula Motyka SPECIES
-=======
+# Urceolaria laeviuscula Motyka SPECIES
 
 #### Status
 ACCEPTED

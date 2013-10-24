@@ -1,5 +1,4 @@
-Parabohaidina Jiabo, 1978 GENUS
-=======
+# Parabohaidina Jiabo, 1978 GENUS
 
 #### Status
 ACCEPTED

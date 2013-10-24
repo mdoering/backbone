@@ -1,5 +1,4 @@
-Sphaeria picastra Fr. SPECIES
-=======
+# Sphaeria picastra Fr. SPECIES
 
 #### Status
 ACCEPTED

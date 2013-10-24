@@ -1,5 +1,4 @@
-Gloeothece confluens Nägeli SPECIES
-=======
+# Gloeothece confluens Nägeli SPECIES
 
 #### Status
 ACCEPTED

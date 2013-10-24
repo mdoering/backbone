@@ -1,5 +1,4 @@
-Trichasterina polyalthiae Hansf. SPECIES
-=======
+# Trichasterina polyalthiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

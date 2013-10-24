@@ -1,5 +1,4 @@
-Cortinarius vaginatopus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius vaginatopus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

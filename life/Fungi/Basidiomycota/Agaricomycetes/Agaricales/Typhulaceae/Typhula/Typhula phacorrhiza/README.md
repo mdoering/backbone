@@ -1,17 +1,16 @@
-Clavaria phacorrhiza var. phacorrhiza VARIETY
-=======
+# Typhula phacorrhiza (Reichardt) Fr., 1818 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Observ. mycol. (Havniae) 2: 298 (1818)
 
 #### Original name
-null
+Clavaria phacorrhiza Reichardt, 1870
 
 ### Remarks
 null

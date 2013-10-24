@@ -1,5 +1,4 @@
-Amphisolenia palmata Stein SPECIES
-=======
+# Amphisolenia palmata Stein SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta subeffusa (Ellis & Everh.) Tehon & G.L. Stout SPECIES
-=======
+# Phyllosticta subeffusa (Ellis & Everh.) Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

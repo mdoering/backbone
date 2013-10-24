@@ -1,5 +1,4 @@
-Rhizomorpha molinaris Pers. SPECIES
-=======
+# Rhizomorpha molinaris Pers. SPECIES
 
 #### Status
 ACCEPTED

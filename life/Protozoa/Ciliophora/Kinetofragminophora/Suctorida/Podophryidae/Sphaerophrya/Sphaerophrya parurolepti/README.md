@@ -1,5 +1,4 @@
-Sphaerophrya parurolepti Foissner, 1980 SPECIES
-=======
+# Sphaerophrya parurolepti Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Hyalocurreya sandicensis (Ellis & Everh.) Theiss. & Syd. {?}, 1915 SPECIES
-=======
+# Uleomyces sandicensis (Ellis & Everh.) Arx, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Curreya sandicensis Ellis & Everh., 1897
 
 ### Remarks
 null

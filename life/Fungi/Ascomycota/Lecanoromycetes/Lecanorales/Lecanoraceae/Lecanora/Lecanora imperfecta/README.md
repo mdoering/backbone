@@ -1,14 +1,13 @@
-Placodium imperfectum Müll. Arg. SPECIES
-=======
+# Lecanora imperfecta (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 4: 93 (1896)
+Cat. Lich. Univers. 5: 625 (1928)
 
 #### Original name
 Placodium imperfectum Müll. Arg.

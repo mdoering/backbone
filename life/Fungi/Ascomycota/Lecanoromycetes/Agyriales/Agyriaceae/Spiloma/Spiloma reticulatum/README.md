@@ -1,5 +1,4 @@
-Spiloma reticulatum SPECIES
-=======
+# Spiloma reticulatum SPECIES
 
 #### Status
 ACCEPTED

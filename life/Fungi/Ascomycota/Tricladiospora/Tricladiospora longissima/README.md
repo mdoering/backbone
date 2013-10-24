@@ -1,5 +1,4 @@
-Tricladiospora longissima Nawawi & Kuthub. SPECIES
-=======
+# Tricladiospora longissima Nawawi & Kuthub. SPECIES
 
 #### Status
 ACCEPTED

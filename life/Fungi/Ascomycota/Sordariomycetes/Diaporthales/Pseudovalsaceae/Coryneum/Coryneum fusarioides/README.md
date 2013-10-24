@@ -1,5 +1,4 @@
-Coryneum fusarioides Sacc. SPECIES
-=======
+# Coryneum fusarioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

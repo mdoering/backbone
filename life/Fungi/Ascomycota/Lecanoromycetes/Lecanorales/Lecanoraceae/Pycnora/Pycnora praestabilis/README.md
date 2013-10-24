@@ -1,14 +1,13 @@
-Lecidea xanthococca var. praestabilis (Nyl.) Vain. VARIETY
-=======
+# Pycnora praestabilis (Nyl.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stapfia 76: 158 (2001)
 
 #### Original name
 Lecidea praestabilis Nyl.

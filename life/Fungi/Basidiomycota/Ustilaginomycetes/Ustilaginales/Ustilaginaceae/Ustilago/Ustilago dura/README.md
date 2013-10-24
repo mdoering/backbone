@@ -1,5 +1,4 @@
-Ustilago dura Appel & Gassner SPECIES
-=======
+# Ustilago dura Appel & Gassner SPECIES
 
 #### Status
 ACCEPTED

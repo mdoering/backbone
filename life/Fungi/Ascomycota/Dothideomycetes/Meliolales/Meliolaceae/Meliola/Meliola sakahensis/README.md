@@ -1,5 +1,4 @@
-Meliola sakahensis W. Yamam. SPECIES
-=======
+# Meliola sakahensis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

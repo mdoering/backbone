@@ -1,5 +1,4 @@
-Stigmatomyces kotrbae W. Rossi & Ponziani SPECIES
-=======
+# Stigmatomyces kotrbae W. Rossi & Ponziani SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea sagedioides SPECIES
-=======
+# Lecidea sagedioides SPECIES
 
 #### Status
 ACCEPTED

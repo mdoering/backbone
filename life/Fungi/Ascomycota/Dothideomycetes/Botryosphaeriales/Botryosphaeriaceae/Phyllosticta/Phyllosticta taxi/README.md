@@ -1,5 +1,4 @@
-Phyllosticta taxi Hollós SPECIES
-=======
+# Phyllosticta taxi Hollós SPECIES
 
 #### Status
 ACCEPTED

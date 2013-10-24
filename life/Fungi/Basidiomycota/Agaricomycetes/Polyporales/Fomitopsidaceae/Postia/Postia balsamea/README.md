@@ -1,17 +1,16 @@
-Tyromyces kymatodes var. kymatodes VARIETY
-=======
+# Postia balsamea (Peck) Jülich, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Bot. Mus. Herb. Rijhs Universit. Utrecht. 9: 154 (1933)
+Persoonia 11(4): 423 (1982)
 
 #### Original name
-Tyromyces kymatodes var. kymatodes
+Polyporus balsameus Peck, 1878
 
 ### Remarks
 null

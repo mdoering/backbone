@@ -1,5 +1,4 @@
-Didymaria prunicola Cavara SPECIES
-=======
+# Didymaria prunicola Cavara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laetinaevia setosa E. Müll. SPECIES
-=======
+# Laetinaevia setosa E. Müll. SPECIES
 
 #### Status
 ACCEPTED

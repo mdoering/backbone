@@ -1,5 +1,4 @@
-Laguncula Fisher, 1881 GENUS
-=======
+# Laguncula Fisher, 1881 GENUS
 
 #### Status
 ACCEPTED

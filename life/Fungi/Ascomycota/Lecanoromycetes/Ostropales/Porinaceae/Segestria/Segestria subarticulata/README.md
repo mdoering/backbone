@@ -1,5 +1,4 @@
-Segestria subarticulata (Arnold) Dalla Torre & Sarnth. SPECIES
-=======
+# Segestria subarticulata (Arnold) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

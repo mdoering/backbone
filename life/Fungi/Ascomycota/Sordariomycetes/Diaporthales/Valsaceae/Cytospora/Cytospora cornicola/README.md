@@ -1,5 +1,4 @@
-Cytospora cornicola Oudem. SPECIES
-=======
+# Cytospora cornicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

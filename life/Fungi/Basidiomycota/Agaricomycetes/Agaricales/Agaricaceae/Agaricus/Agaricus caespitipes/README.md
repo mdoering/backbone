@@ -1,5 +1,4 @@
-Agaricus caespitipes Hlavácek SPECIES
-=======
+# Agaricus caespitipes Hlavácek SPECIES
 
 #### Status
 ACCEPTED

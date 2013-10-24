@@ -1,5 +1,4 @@
-Naxibacter Xu et al., 2005 GENUS
-=======
+# Naxibacter Xu et al., 2005 GENUS
 
 #### Status
 ACCEPTED

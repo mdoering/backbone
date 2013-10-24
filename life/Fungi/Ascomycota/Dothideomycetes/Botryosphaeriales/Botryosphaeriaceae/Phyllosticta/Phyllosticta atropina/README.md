@@ -1,5 +1,4 @@
-Phyllosticta atropina Vassiljevsky SPECIES
-=======
+# Phyllosticta atropina Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

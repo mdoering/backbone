@@ -1,5 +1,4 @@
-Nectria amazonensis (Bat., J.L. Bezerra & C.R. Almeida) Samuels SPECIES
-=======
+# Nectria amazonensis (Bat., J.L. Bezerra & C.R. Almeida) Samuels SPECIES
 
 #### Status
 ACCEPTED
