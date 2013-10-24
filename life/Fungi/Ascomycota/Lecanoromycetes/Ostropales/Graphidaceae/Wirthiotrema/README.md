@@ -1,5 +1,4 @@
-Wirthiotrema GENUS
-=======
+# Wirthiotrema GENUS
 
 #### Status
 ACCEPTED

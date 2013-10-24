@@ -1,5 +1,4 @@
-Lophodermium guangxiense Y.R. Lin SPECIES
-=======
+# Lophodermium guangxiense Y.R. Lin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia hypoxanthoides Vain. SPECIES
-=======
+# Cladonia hypoxanthoides Vain. SPECIES
 
 #### Status
 ACCEPTED

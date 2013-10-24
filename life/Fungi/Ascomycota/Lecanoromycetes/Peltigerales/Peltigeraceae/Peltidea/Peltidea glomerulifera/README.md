@@ -1,5 +1,4 @@
-Peltidea glomerulifera (Hoffm.) Link SPECIES
-=======
+# Peltidea glomerulifera (Hoffm.) Link SPECIES
 
 #### Status
 ACCEPTED

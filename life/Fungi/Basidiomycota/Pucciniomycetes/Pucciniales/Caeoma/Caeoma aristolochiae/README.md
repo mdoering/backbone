@@ -1,5 +1,4 @@
-Caeoma aristolochiae Schltdl. SPECIES
-=======
+# Caeoma aristolochiae Schltdl. SPECIES
 
 #### Status
 ACCEPTED

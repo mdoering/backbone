@@ -1,5 +1,4 @@
-Biatora rhabdogena Norman SPECIES
-=======
+# Biatora rhabdogena Norman SPECIES
 
 #### Status
 ACCEPTED

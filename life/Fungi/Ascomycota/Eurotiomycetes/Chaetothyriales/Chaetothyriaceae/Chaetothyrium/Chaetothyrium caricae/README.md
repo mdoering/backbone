@@ -1,5 +1,4 @@
-Chaetothyrium caricae Syd. SPECIES
-=======
+# Chaetothyrium caricae Syd. SPECIES
 
 #### Status
 ACCEPTED

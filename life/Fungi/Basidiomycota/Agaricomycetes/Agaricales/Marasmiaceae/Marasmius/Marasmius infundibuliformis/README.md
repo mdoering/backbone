@@ -1,5 +1,4 @@
-Marasmius infundibuliformis Corner SPECIES
-=======
+# Marasmius infundibuliformis Corner SPECIES
 
 #### Status
 ACCEPTED

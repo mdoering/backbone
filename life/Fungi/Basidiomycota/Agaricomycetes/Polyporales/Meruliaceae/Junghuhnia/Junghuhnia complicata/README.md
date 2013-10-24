@@ -1,5 +1,4 @@
-Junghuhnia complicata Blumenf. & J.E. Wright, 1984 SPECIES
-=======
+# Junghuhnia complicata Blumenf. & J.E. Wright, 1984 SPECIES
 
 #### Status
 ACCEPTED

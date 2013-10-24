@@ -1,5 +1,4 @@
-Erysiphe pseudocedrelae (R.Y. Zheng & G.Q. Chen) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe pseudocedrelae (R.Y. Zheng & G.Q. Chen) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cothurnia camura Dumas, 1929 SPECIES
-=======
+# Cothurnia camura Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

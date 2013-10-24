@@ -1,5 +1,4 @@
-Naeviopsis montana B. Hein, 1976 SPECIES
-=======
+# Naeviopsis montana B. Hein, 1976 SPECIES
 
 #### Status
 ACCEPTED

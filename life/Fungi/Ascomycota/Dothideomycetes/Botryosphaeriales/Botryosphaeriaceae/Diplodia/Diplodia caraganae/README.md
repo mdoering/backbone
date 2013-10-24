@@ -1,5 +1,4 @@
-Diplodia caraganae Schnabl SPECIES
-=======
+# Diplodia caraganae Schnabl SPECIES
 
 #### Status
 ACCEPTED

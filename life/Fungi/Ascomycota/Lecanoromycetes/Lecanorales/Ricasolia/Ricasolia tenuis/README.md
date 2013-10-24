@@ -1,5 +1,4 @@
-Ricasolia tenuis (Vain.) Stizenb. SPECIES
-=======
+# Ricasolia tenuis (Vain.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Textularia philippinensis Keijzer, 1953 SPECIES
-=======
+# Siphotextularia philippinensis (Keijzer, 1953) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

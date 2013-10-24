@@ -1,5 +1,4 @@
-Ascochyta sorosii Melnik, 1994 SPECIES
-=======
+# Ascochyta sorosii Melnik, 1994 SPECIES
 
 #### Status
 ACCEPTED

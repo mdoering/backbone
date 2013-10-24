@@ -1,5 +1,4 @@
-Parmelia corallina Mont. SPECIES
-=======
+# Parmelia corallina Mont. SPECIES
 
 #### Status
 ACCEPTED

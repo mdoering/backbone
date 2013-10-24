@@ -1,5 +1,4 @@
-Gnomonia magnoliae Ellis SPECIES
-=======
+# Gnomonia magnoliae Ellis SPECIES
 
 #### Status
 ACCEPTED

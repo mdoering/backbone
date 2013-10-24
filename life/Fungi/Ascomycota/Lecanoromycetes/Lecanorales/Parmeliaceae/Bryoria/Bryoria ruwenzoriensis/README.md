@@ -1,5 +1,4 @@
-Bryoria ruwenzoriensis (D. Hawksw.) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria ruwenzoriensis (D. Hawksw.) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

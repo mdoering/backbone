@@ -1,5 +1,4 @@
-Saccharomyces rosaceus Frankland {?} SPECIES
-=======
+# Saccharomyces rosaceus Frankland {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta monardicola Cejp SPECIES
-=======
+# Phyllosticta monardicola Cejp SPECIES
 
 #### Status
 ACCEPTED

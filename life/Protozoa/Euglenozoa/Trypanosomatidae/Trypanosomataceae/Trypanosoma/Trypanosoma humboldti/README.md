@@ -1,5 +1,4 @@
-Trypanosoma humboldti J. Morillas, M. George-Nascimento, H. Valera & R.A. Khan SPECIES
-=======
+# Trypanosoma humboldti J. Morillas, M. George-Nascimento, H. Valera & R.A. Khan SPECIES
 
 #### Status
 ACCEPTED

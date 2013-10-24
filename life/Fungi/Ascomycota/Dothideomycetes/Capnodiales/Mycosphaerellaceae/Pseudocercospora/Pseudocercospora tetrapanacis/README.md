@@ -1,5 +1,4 @@
-Pseudocercospora tetrapanacis (Sawada ex S.C. Jong & E.F. Morris) Deighton SPECIES
-=======
+# Pseudocercospora tetrapanacis (Sawada ex S.C. Jong & E.F. Morris) Deighton SPECIES
 
 #### Status
 ACCEPTED

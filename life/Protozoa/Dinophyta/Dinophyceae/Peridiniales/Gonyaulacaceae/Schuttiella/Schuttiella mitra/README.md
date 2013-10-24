@@ -1,5 +1,4 @@
-Schuttiella mitra (Schütt) Balech, 1988 SPECIES
-=======
+# Schuttiella mitra (Schütt) Balech, 1988 SPECIES
 
 #### Status
 ACCEPTED

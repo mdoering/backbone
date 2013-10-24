@@ -1,5 +1,4 @@
-Gymnopus collybioides (Speg.) Desjardin, Halling & Hemmes SPECIES
-=======
+# Gymnopus collybioides (Speg.) Desjardin, Halling & Hemmes SPECIES
 
 #### Status
 ACCEPTED

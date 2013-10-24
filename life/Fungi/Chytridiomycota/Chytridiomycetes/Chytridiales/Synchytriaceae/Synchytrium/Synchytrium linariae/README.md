@@ -1,5 +1,4 @@
-Synchytrium linariae Karling SPECIES
-=======
+# Synchytrium linariae Karling SPECIES
 
 #### Status
 ACCEPTED

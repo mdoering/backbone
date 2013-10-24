@@ -1,5 +1,4 @@
-Ceuthospora caballeroi Alcalde SPECIES
-=======
+# Ceuthospora caballeroi Alcalde SPECIES
 
 #### Status
 ACCEPTED

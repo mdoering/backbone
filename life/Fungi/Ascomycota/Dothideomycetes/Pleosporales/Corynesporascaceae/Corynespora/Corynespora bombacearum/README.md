@@ -1,5 +1,4 @@
-Corynespora bombacearum S.L. Jain, A.N. Rai & P. Mehta SPECIES
-=======
+# Corynespora bombacearum S.L. Jain, A.N. Rai & P. Mehta SPECIES
 
 #### Status
 ACCEPTED

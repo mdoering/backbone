@@ -1,5 +1,4 @@
-Exidia tremelloides L.S. Olive SPECIES
-=======
+# Exidia tremelloides L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

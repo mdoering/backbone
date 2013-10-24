@@ -1,5 +1,4 @@
-Phoma bidentis Hollós SPECIES
-=======
+# Phoma bidentis Hollós SPECIES
 
 #### Status
 ACCEPTED

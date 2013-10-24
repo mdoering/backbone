@@ -1,17 +1,16 @@
-Toninia johnstoni C.W. Dodge SPECIES
-=======
+# Toninia johnstonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 113 (1948)
 
 #### Original name
-Toninia johnstoni C.W. Dodge
+Toninia johnstonii C.W. Dodge
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycosphaerella sacchari (Speg.) Seaver & Chardón SPECIES
-=======
+# Mycosphaerella sacchari (Speg.) Seaver & Chardón SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius dissimulans M.M. Moser SPECIES
-=======
+# Cortinarius dissimulans M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

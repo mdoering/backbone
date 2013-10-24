@@ -1,5 +1,4 @@
-Lyophyllum canescentipes Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum canescentipes Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

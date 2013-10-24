@@ -1,5 +1,4 @@
-Oxytricha sphagni Stokes, 1891 SPECIES
-=======
+# Oxytricha sphagni Stokes, 1891 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodiella angelicae Died. SPECIES
-=======
+# Diplodiella angelicae Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptosporium phillyreae Pat. SPECIES
-=======
+# Cryptosporium phillyreae Pat. SPECIES
 
 #### Status
 ACCEPTED

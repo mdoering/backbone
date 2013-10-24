@@ -1,5 +1,4 @@
-Laboulbenia quedii Thaxt. SPECIES
-=======
+# Laboulbenia quedii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

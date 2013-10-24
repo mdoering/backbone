@@ -1,14 +1,13 @@
-Dicaeoma silphii (Schwein.) Kuntze, 1898 SPECIES
-=======
+# Puccinia silphii Schwein., 1832 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 470 (1898)
+Trans. Am. phil. Soc. , New Series 4(2): 296 (1832)
 
 #### Original name
 Puccinia silphii Schwein., 1832

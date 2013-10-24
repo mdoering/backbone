@@ -1,5 +1,4 @@
-Corynodesmium Wallr. GENUS
-=======
+# Corynodesmium Wallr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiosphaeridia annulata Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
-=======
+# Leiosphaeridia annulata Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

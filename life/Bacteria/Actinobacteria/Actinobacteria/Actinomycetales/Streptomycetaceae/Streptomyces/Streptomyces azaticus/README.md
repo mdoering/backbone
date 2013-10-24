@@ -1,5 +1,4 @@
-Streptomyces azaticus Nakagaito et al., 1993 SPECIES
-=======
+# Streptomyces azaticus Nakagaito et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

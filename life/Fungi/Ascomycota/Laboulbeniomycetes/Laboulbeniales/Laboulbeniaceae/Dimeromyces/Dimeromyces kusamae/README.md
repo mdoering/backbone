@@ -1,5 +1,4 @@
-Dimeromyces kusamae T. Majewski & K. Sugiy. SPECIES
-=======
+# Dimeromyces kusamae T. Majewski & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Sporodesmium punctatum Woron. SPECIES
-=======
+# Sporidesmium punctatum Woron. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sporodesmium punctatum Woron.
+Sporidesmium punctatum Woron.
 
 ### Remarks
 null

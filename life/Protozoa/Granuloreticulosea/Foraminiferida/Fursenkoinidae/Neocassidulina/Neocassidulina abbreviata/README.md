@@ -1,5 +1,4 @@
-Neocassidulina abbreviata (Heron-Allen & Earland, 1924) SPECIES
-=======
+# Neocassidulina abbreviata (Heron-Allen & Earland, 1924) SPECIES
 
 #### Status
 ACCEPTED

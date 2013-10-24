@@ -1,5 +1,4 @@
-Bolivina thalmanni Renz, 1948 SPECIES
-=======
+# Bolivina thalmanni Renz, 1948 SPECIES
 
 #### Status
 ACCEPTED

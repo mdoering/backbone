@@ -1,5 +1,4 @@
-Clarkeinda plana (Clem.) Sacc. & Trotter SPECIES
-=======
+# Clarkeinda plana (Clem.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

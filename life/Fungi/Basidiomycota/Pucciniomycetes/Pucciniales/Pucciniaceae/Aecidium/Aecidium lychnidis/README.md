@@ -1,5 +1,4 @@
-Aecidium lychnidis Azbukina SPECIES
-=======
+# Aecidium lychnidis Azbukina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria notha Fr. SPECIES
-=======
+# Sphaeria notha Fr. SPECIES
 
 #### Status
 ACCEPTED

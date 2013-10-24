@@ -1,5 +1,4 @@
-Pertusaria conferta Vain. SPECIES
-=======
+# Pertusaria conferta Vain. SPECIES
 
 #### Status
 ACCEPTED

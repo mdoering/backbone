@@ -1,5 +1,4 @@
-Patella punicea (Clem.) Seaver SPECIES
-=======
+# Patella punicea (Clem.) Seaver SPECIES
 
 #### Status
 ACCEPTED

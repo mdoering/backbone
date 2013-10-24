@@ -1,5 +1,4 @@
-Sphaeria cacti Schwein. SPECIES
-=======
+# Sphaeria cacti Schwein. SPECIES
 
 #### Status
 ACCEPTED

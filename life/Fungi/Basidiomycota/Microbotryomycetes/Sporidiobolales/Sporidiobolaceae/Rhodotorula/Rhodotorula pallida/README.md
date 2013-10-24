@@ -1,5 +1,4 @@
-Rhodotorula pallida Lodder SPECIES
-=======
+# Rhodotorula pallida Lodder SPECIES
 
 #### Status
 ACCEPTED

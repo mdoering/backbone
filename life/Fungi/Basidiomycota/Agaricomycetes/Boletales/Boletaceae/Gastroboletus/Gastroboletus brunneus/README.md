@@ -1,5 +1,4 @@
-Gastroboletus brunneus Thiers, 1989 SPECIES
-=======
+# Gastroboletus brunneus Thiers, 1989 SPECIES
 
 #### Status
 ACCEPTED

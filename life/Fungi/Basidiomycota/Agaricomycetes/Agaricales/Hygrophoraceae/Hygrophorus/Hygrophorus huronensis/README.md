@@ -1,5 +1,4 @@
-Hygrophorus huronensis A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus huronensis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

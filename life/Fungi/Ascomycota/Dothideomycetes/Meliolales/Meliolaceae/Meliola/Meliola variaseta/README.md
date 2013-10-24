@@ -1,5 +1,4 @@
-Meliola variaseta F. Stevens SPECIES
-=======
+# Meliola variaseta F. Stevens SPECIES
 
 #### Status
 ACCEPTED

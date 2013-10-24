@@ -1,5 +1,4 @@
-Nazaromistonella Furutani, 1990 GENUS
-=======
+# Nazaromistonella Furutani, 1990 GENUS
 
 #### Status
 ACCEPTED

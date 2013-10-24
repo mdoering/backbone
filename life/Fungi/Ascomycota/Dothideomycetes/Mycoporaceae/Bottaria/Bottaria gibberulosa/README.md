@@ -1,5 +1,4 @@
-Bottaria gibberulosa SPECIES
-=======
+# Bottaria gibberulosa SPECIES
 
 #### Status
 ACCEPTED

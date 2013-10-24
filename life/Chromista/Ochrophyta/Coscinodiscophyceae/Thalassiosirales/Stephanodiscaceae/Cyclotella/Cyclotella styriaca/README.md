@@ -1,5 +1,4 @@
-Cyclotella styriaca Hustedt Hub.-Pest. SPECIES
-=======
+# Cyclotella styriaca Hustedt Hub.-Pest. SPECIES
 
 #### Status
 ACCEPTED

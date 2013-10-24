@@ -1,5 +1,4 @@
-Aposphaeria pini-densiflorae Sawada SPECIES
-=======
+# Aposphaeria pini-densiflorae Sawada SPECIES
 
 #### Status
 ACCEPTED

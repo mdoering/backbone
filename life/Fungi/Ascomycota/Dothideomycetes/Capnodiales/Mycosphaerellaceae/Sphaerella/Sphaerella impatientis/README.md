@@ -1,5 +1,4 @@
-Sphaerella impatientis Peck & Clinton SPECIES
-=======
+# Sphaerella impatientis Peck & Clinton SPECIES
 
 #### Status
 ACCEPTED

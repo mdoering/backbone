@@ -1,5 +1,4 @@
-Samara viridiflora Thwaites SPECIES
-=======
+# Samara viridiflora Thwaites SPECIES
 
 #### Status
 ACCEPTED

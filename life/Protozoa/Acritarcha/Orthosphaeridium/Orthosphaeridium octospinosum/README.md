@@ -1,5 +1,4 @@
-Orthosphaeridium octospinosum Eisenack, 1968 SPECIES
-=======
+# Orthosphaeridium octospinosum Eisenack, 1968 SPECIES
 
 #### Status
 ACCEPTED

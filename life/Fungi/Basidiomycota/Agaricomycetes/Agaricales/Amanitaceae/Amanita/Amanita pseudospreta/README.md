@@ -1,5 +1,4 @@
-Amanita pseudospreta Raithelh. SPECIES
-=======
+# Amanita pseudospreta Raithelh. SPECIES
 
 #### Status
 ACCEPTED

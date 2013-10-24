@@ -1,17 +1,16 @@
-Odontia nothofagi var. nothofagi G. Cunn. VARIETY
-=======
+# Mycoacia nothofagi (G. Cunn.) Ryvarden, 1981 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 86(1-2): 88 (1959)
+null
 
 #### Original name
-Odontia nothofagi var. nothofagi G. Cunn.
+null
 
 ### Remarks
 null

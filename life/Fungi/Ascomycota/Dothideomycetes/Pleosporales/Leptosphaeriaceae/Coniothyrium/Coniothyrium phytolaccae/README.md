@@ -1,5 +1,4 @@
-Coniothyrium phytolaccae Hollós SPECIES
-=======
+# Coniothyrium phytolaccae Hollós SPECIES
 
 #### Status
 ACCEPTED

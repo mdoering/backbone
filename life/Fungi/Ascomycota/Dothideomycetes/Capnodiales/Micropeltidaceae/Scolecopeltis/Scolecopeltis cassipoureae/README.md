@@ -1,5 +1,4 @@
-Scolecopeltis cassipoureae Doidge SPECIES
-=======
+# Scolecopeltis cassipoureae Doidge SPECIES
 
 #### Status
 ACCEPTED

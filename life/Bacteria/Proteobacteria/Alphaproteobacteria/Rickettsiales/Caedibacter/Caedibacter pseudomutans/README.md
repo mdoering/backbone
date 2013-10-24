@@ -1,5 +1,4 @@
-Caedibacter pseudomutans Quackenbush, 1982 SPECIES
-=======
+# Caedibacter pseudomutans Quackenbush, 1982 SPECIES
 
 #### Status
 ACCEPTED

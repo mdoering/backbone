@@ -1,14 +1,13 @@
-Myzocytium microsporum (Karling) Sparrow, 1960 SPECIES
-=======
+# Myzocytiopsis microspora (Karling) M.W. Dick, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aquatic Phycomycetes (Ann Arbor), Edn 2 980 (1960)
+Mycol. Res. 101(7): 879 (1997)
 
 #### Original name
 Lagenidium microsporum Karling, 1945

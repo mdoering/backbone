@@ -1,5 +1,4 @@
-Trichophaea michiganensis Kanouse SPECIES
-=======
+# Trichophaea michiganensis Kanouse SPECIES
 
 #### Status
 ACCEPTED

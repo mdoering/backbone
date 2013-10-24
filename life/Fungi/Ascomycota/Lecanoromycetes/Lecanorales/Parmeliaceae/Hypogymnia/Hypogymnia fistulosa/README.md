@@ -1,5 +1,4 @@
-Hypogymnia fistulosa McCune & Krog SPECIES
-=======
+# Hypogymnia fistulosa McCune & Krog SPECIES
 
 #### Status
 ACCEPTED

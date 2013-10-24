@@ -1,5 +1,4 @@
-Protoperidinium cerasus (Paulsen) Balech SPECIES
-=======
+# Protoperidinium cerasus (Paulsen) Balech SPECIES
 
 #### Status
 ACCEPTED

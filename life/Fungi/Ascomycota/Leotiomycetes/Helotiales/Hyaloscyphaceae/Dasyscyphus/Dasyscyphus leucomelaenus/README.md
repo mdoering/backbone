@@ -1,8 +1,7 @@
-Dasyscypha leucomelaenus Feltgen SPECIES
-=======
+# Dasyscyphus leucomelaenus Feltgen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha leucomelaenus Feltgen
+Dasyscyphus leucomelaenus Feltgen
 
 ### Remarks
 null

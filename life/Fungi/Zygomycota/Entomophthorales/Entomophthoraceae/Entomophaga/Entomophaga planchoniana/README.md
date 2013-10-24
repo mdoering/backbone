@@ -1,5 +1,4 @@
-Entomophaga planchoniana (Cornu) SPECIES
-=======
+# Entomophaga planchoniana (Cornu) SPECIES
 
 #### Status
 ACCEPTED

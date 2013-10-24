@@ -1,5 +1,4 @@
-Stagonospora opuntiae Speg. SPECIES
-=======
+# Stagonospora opuntiae Speg. SPECIES
 
 #### Status
 ACCEPTED

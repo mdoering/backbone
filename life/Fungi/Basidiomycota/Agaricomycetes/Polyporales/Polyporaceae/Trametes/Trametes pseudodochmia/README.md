@@ -1,5 +1,4 @@
-Trametes pseudodochmia Corner SPECIES
-=======
+# Trametes pseudodochmia Corner SPECIES
 
 #### Status
 ACCEPTED

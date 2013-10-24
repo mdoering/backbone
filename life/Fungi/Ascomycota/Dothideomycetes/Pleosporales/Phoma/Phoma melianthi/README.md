@@ -1,5 +1,4 @@
-Phoma melianthi Tassi SPECIES
-=======
+# Phoma melianthi Tassi SPECIES
 
 #### Status
 ACCEPTED

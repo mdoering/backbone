@@ -1,8 +1,7 @@
-Septocylindrium muscorum Sacc., 1878 SPECIES
-=======
+# Scytalidium muscorum (Sacc.) de Hoog & Oorschot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

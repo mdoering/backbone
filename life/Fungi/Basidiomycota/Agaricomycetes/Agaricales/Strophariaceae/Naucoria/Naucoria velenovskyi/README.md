@@ -1,5 +1,4 @@
-Naucoria velenovskyi Pilát SPECIES
-=======
+# Naucoria velenovskyi Pilát SPECIES
 
 #### Status
 ACCEPTED

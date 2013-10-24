@@ -1,5 +1,4 @@
-Trypanoplasma bobolsoni Burreson, 2007 SPECIES
-=======
+# Trypanoplasma bobolsoni Burreson, 2007 SPECIES
 
 #### Status
 ACCEPTED

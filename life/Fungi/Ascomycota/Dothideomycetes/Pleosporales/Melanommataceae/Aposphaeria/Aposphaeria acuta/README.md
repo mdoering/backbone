@@ -1,5 +1,4 @@
-Aposphaeria acuta Berk. SPECIES
-=======
+# Aposphaeria acuta Berk. SPECIES
 
 #### Status
 ACCEPTED

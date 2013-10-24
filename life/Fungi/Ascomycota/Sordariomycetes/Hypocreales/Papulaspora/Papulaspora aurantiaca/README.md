@@ -1,5 +1,4 @@
-Papulaspora aurantiaca Hotson SPECIES
-=======
+# Papulaspora aurantiaca Hotson SPECIES
 
 #### Status
 ACCEPTED

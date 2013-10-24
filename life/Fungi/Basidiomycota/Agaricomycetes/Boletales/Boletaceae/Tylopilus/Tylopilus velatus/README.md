@@ -1,5 +1,4 @@
-Tylopilus velatus (Rostr.) F.L. Tai SPECIES
-=======
+# Tylopilus velatus (Rostr.) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

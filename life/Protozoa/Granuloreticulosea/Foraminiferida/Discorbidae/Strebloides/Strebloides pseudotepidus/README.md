@@ -1,5 +1,4 @@
-Strebloides pseudotepidus Ujiié in Hatta & Ujiié, 1992 SPECIES
-=======
+# Strebloides pseudotepidus Ujiié in Hatta & Ujiié, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudostrombidium Horváth, 1933 GENUS
-=======
+# Pseudostrombidium Horváth, 1933 GENUS
 
 #### Status
 ACCEPTED

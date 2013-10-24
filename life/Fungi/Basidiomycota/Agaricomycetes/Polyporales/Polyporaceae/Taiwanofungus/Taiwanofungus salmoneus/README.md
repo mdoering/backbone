@@ -1,5 +1,4 @@
-Taiwanofungus salmoneus (T.T. Chang & W.N. Chou) Sheng H. Wu, Z.H. Yu, Y.C. Dai & C.H. Su, 2004 SPECIES
-=======
+# Taiwanofungus salmoneus (T.T. Chang & W.N. Chou) Sheng H. Wu, Z.H. Yu, Y.C. Dai & C.H. Su, 2004 SPECIES
 
 #### Status
 ACCEPTED

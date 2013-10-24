@@ -1,5 +1,4 @@
-Leptothyrina perexigua Höhn. SPECIES
-=======
+# Leptothyrina perexigua Höhn. SPECIES
 
 #### Status
 ACCEPTED

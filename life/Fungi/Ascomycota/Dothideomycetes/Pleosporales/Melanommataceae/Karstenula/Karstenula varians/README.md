@@ -1,5 +1,4 @@
-Karstenula varians (Hazsl.) Sacc. SPECIES
-=======
+# Karstenula varians (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

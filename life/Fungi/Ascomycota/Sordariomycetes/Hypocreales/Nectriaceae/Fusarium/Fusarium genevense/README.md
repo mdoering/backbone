@@ -1,5 +1,4 @@
-Fusarium genevense Dasz. SPECIES
-=======
+# Fusarium genevense Dasz. SPECIES
 
 #### Status
 ACCEPTED

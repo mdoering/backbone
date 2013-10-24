@@ -1,5 +1,4 @@
-Auriscalpium mesopus (Saut.) Kuntze SPECIES
-=======
+# Auriscalpium mesopus (Saut.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum terrestre Velen. SPECIES
-=======
+# Lachnum terrestre Velen. SPECIES
 
 #### Status
 ACCEPTED

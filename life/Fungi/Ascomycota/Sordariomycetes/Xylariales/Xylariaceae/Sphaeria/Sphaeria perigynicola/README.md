@@ -1,5 +1,4 @@
-Sphaeria perigynicola Schwein. SPECIES
-=======
+# Sphaeria perigynicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Feigeana socotrana Mies, Lumbsch & Tehler SPECIES
-=======
+# Feigeana socotrana Mies, Lumbsch & Tehler SPECIES
 
 #### Status
 ACCEPTED

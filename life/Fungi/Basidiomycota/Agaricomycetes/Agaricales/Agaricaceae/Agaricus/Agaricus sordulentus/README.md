@@ -1,5 +1,4 @@
-Agaricus sordulentus Berk. & Broome SPECIES
-=======
+# Agaricus sordulentus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

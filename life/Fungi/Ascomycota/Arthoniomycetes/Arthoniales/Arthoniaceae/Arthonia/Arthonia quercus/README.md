@@ -1,5 +1,4 @@
-Arthonia quercus Hepp SPECIES
-=======
+# Arthonia quercus Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeopeltosphaeria ferulina Koshk. SPECIES
-=======
+# Phaeopeltosphaeria ferulina Koshk. SPECIES
 
 #### Status
 ACCEPTED

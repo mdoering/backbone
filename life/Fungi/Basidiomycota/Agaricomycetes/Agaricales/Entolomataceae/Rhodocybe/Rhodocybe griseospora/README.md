@@ -1,17 +1,16 @@
-Clitopilus griseosporus (A. Pearson) Noordel. & Co-David, 2009 SPECIES
-=======
+# Rhodocybe griseospora (A. Pearson) P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 43: 181 (1960)
 
 #### Original name
-null
+Collybia griseospora A. Pearson, 1952
 
 ### Remarks
 null

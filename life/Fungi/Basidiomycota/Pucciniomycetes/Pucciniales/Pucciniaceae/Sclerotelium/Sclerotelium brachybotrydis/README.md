@@ -1,5 +1,4 @@
-Sclerotelium brachybotrydis (de Bary) Syd. SPECIES
-=======
+# Sclerotelium brachybotrydis (de Bary) Syd. SPECIES
 
 #### Status
 ACCEPTED

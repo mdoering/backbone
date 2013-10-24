@@ -1,5 +1,4 @@
-Lactarius pennulatus Verbeken & E. Horak SPECIES
-=======
+# Lactarius pennulatus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

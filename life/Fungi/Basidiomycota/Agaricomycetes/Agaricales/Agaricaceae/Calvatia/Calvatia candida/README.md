@@ -1,5 +1,4 @@
-Calvatia candida var. candida VARIETY
-=======
+# Calvatia candida (Rostk.) Hollós SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calvatia candida var. candida
+Langermannia candida Rostk.
 
 ### Remarks
 null

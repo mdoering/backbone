@@ -1,5 +1,4 @@
-Gasparrinia debanensis (Bagl.) C.W. Dodge SPECIES
-=======
+# Gasparrinia debanensis (Bagl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

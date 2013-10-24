@@ -1,5 +1,4 @@
-Pertusaria spilota A.W. Archer & Malcolm SPECIES
-=======
+# Pertusaria spilota A.W. Archer & Malcolm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca alboflavida (Peck) Murrill SPECIES
-=======
+# Melanoleuca alboflavida (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

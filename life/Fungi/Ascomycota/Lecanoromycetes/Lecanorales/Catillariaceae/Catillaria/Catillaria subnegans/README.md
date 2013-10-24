@@ -1,5 +1,4 @@
-Catillaria subnegans (Nyl.) Boistel SPECIES
-=======
+# Catillaria subnegans (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

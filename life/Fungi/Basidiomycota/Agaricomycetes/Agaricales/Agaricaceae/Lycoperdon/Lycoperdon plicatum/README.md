@@ -1,5 +1,4 @@
-Lycoperdon plicatum Berk. & M.A. Curtis SPECIES
-=======
+# Lycoperdon plicatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hymenoscyphus procerus var. procerus VARIETY
-=======
+# Hymenoscyphus procerus (P. Karst.) Dennis, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Persoonia 3(1): 76 (1964)
 
 #### Original name
-Hymenoscyphus procerus var. procerus
+Helotium procerum P. Karst., 1871
 
 ### Remarks
 null

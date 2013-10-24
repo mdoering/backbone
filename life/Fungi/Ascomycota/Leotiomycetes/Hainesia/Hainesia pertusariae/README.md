@@ -1,5 +1,4 @@
-Hainesia pertusariae Etayo & Diederich, 1996 SPECIES
-=======
+# Hainesia pertusariae Etayo & Diederich, 1996 SPECIES
 
 #### Status
 ACCEPTED

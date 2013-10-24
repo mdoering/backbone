@@ -1,5 +1,4 @@
-Hygrophorus subcinnabarinus Hongo SPECIES
-=======
+# Hygrophorus subcinnabarinus Hongo SPECIES
 
 #### Status
 ACCEPTED

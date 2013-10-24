@@ -1,5 +1,4 @@
-Phomopsis rubiseda Fairm. SPECIES
-=======
+# Phomopsis rubiseda Fairm. SPECIES
 
 #### Status
 ACCEPTED

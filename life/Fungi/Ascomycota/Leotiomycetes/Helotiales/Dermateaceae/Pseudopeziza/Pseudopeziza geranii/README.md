@@ -1,5 +1,4 @@
-Pseudopeziza geranii Rodway, 1925 SPECIES
-=======
+# Pseudopeziza geranii Rodway, 1925 SPECIES
 
 #### Status
 ACCEPTED

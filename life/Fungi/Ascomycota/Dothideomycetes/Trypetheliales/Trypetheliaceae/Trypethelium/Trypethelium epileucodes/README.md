@@ -1,17 +1,16 @@
-Trypethelium virginicum Müll. Arg. SPECIES
-=======
+# Trypethelium epileucodes Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Rep. Meetings Australs. Assoc. Advancem. Sci. 461 (1895)
+Lich. Jap. 116 (1890)
 
 #### Original name
-Trypethelium virginicum Müll. Arg.
+Trypethelium epileucodes Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pluteus sergii Singer SPECIES
-=======
+# Pluteus sergii Singer SPECIES
 
 #### Status
 ACCEPTED

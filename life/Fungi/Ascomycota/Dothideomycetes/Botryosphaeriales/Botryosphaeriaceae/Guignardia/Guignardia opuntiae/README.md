@@ -1,5 +1,4 @@
-Guignardia opuntiae Petch SPECIES
-=======
+# Guignardia opuntiae Petch SPECIES
 
 #### Status
 ACCEPTED

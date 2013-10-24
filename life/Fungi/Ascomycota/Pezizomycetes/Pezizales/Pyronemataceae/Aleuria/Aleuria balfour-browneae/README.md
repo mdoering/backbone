@@ -1,5 +1,4 @@
-Aleuria balfour-browneae Waraitch SPECIES
-=======
+# Aleuria balfour-browneae Waraitch SPECIES
 
 #### Status
 ACCEPTED

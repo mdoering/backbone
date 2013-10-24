@@ -1,5 +1,4 @@
-Erysiphe candollei (Lév.) Trevis. SPECIES
-=======
+# Erysiphe candollei (Lév.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

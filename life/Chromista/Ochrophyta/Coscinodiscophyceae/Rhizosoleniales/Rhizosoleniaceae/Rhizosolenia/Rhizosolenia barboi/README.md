@@ -1,5 +1,4 @@
-Rhizosolenia barboi SPECIES
-=======
+# Rhizosolenia barboi SPECIES
 
 #### Status
 ACCEPTED

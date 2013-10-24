@@ -1,5 +1,4 @@
-Stenella plumeriae Sarbajna & Chattopadh. SPECIES
-=======
+# Stenella plumeriae Sarbajna & Chattopadh. SPECIES
 
 #### Status
 ACCEPTED

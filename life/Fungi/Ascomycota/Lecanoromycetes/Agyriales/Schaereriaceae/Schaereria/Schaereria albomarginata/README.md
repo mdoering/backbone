@@ -1,5 +1,4 @@
-Schaereria albomarginata Øvstedal SPECIES
-=======
+# Schaereria albomarginata Øvstedal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paulina Grigelis, 1977 GENUS
-=======
+# Paulina Grigelis, 1977 GENUS
 
 #### Status
 ACCEPTED

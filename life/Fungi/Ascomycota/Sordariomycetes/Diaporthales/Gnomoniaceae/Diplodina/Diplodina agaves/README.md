@@ -1,5 +1,4 @@
-Diplodina agaves Moesz & Göllner SPECIES
-=======
+# Diplodina agaves Moesz & Göllner SPECIES
 
 #### Status
 ACCEPTED

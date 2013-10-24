@@ -1,5 +1,4 @@
-Tulostoma tuberculatum V.S. White SPECIES
-=======
+# Tulostoma tuberculatum V.S. White SPECIES
 
 #### Status
 ACCEPTED

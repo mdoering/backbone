@@ -1,5 +1,4 @@
-Pseudohalonectria lutea Shearer, 1989 SPECIES
-=======
+# Pseudohalonectria lutea Shearer, 1989 SPECIES
 
 #### Status
 ACCEPTED

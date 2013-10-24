@@ -1,5 +1,4 @@
-Uredo comandrae Peck SPECIES
-=======
+# Uredo comandrae Peck SPECIES
 
 #### Status
 ACCEPTED

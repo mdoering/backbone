@@ -1,5 +1,4 @@
-Wardomycopsis Udagawa & Furuya GENUS
-=======
+# Wardomycopsis Udagawa & Furuya GENUS
 
 #### Status
 ACCEPTED

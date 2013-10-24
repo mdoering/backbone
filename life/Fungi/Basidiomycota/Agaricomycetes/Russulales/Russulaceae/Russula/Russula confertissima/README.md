@@ -1,5 +1,4 @@
-Russula confertissima Kucera SPECIES
-=======
+# Russula confertissima Kucera SPECIES
 
 #### Status
 ACCEPTED

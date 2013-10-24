@@ -1,14 +1,13 @@
-Dothidella vismiae E. Bommer & M. Rousseau, 1896 SPECIES
-=======
+# Endodothella vismiae (E. Bommer & M. Rousseau) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 35: 162 (1896)
+Annls mycol. 13(5/6): 590 (1915)
 
 #### Original name
 Dothidella vismiae E. Bommer & M. Rousseau, 1896

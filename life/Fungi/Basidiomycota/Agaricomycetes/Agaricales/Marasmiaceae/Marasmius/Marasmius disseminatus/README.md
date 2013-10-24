@@ -1,5 +1,4 @@
-Marasmius disseminatus Velen. SPECIES
-=======
+# Marasmius disseminatus Velen. SPECIES
 
 #### Status
 ACCEPTED

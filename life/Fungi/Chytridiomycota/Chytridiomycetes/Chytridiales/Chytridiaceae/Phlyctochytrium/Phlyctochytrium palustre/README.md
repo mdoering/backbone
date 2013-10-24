@@ -1,5 +1,4 @@
-Phlyctochytrium palustre A. Gaertn., 1954 SPECIES
-=======
+# Phlyctochytrium palustre A. Gaertn., 1954 SPECIES
 
 #### Status
 ACCEPTED

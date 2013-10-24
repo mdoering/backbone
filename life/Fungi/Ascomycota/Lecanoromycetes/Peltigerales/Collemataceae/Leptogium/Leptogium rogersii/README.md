@@ -1,5 +1,4 @@
-Leptogium rogersii Verdon SPECIES
-=======
+# Leptogium rogersii Verdon SPECIES
 
 #### Status
 ACCEPTED

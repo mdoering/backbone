@@ -1,5 +1,4 @@
-Taiwanoporia T.T. Chang & W.N. Chou GENUS
-=======
+# Taiwanoporia T.T. Chang & W.N. Chou GENUS
 
 #### Status
 ACCEPTED

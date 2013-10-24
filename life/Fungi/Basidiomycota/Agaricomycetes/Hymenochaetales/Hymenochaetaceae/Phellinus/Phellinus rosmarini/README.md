@@ -1,5 +1,4 @@
-Phellinus rosmarini Bernicchia SPECIES
-=======
+# Phellinus rosmarini Bernicchia SPECIES
 
 #### Status
 ACCEPTED

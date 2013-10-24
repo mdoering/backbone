@@ -1,5 +1,4 @@
-Actinomyces urogenitalis Nikolaitchouk et al., 2000 SPECIES
-=======
+# Actinomyces urogenitalis Nikolaitchouk et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

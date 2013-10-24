@@ -1,5 +1,4 @@
-Geopora annullata Gilkey SPECIES
-=======
+# Geopora annullata Gilkey SPECIES
 
 #### Status
 ACCEPTED

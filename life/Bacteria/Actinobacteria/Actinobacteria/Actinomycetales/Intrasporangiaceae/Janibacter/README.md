@@ -1,5 +1,4 @@
-Janibacter Martin, Schumann, Rainey, Schuetze & Groth, 1997 GENUS
-=======
+# Janibacter Martin, Schumann, Rainey, Schuetze & Groth, 1997 GENUS
 
 #### Status
 ACCEPTED

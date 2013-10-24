@@ -1,5 +1,4 @@
-Aecidium leucosporum Wallr. SPECIES
-=======
+# Aecidium leucosporum Wallr. SPECIES
 
 #### Status
 ACCEPTED

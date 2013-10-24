@@ -1,17 +1,16 @@
-Thelephora harthmanni Mont. SPECIES
-=======
+# Hydnopolyporus hartmannii (Mont.) D.A. Reid, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 2(2): 151 (1962)
 
 #### Original name
-Thelephora harthmanni Mont.
+Thelephora hartmannii Mont., 1843
 
 ### Remarks
 null

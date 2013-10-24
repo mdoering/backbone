@@ -1,5 +1,4 @@
-Cryptopeltis GENUS
-=======
+# Cryptopeltis GENUS
 
 #### Status
 ACCEPTED

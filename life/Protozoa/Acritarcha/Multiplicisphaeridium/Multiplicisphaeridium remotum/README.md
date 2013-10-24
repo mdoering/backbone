@@ -1,5 +1,4 @@
-Multiplicisphaeridium remotum SPECIES
-=======
+# Multiplicisphaeridium remotum SPECIES
 
 #### Status
 ACCEPTED

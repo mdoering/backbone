@@ -1,5 +1,4 @@
-Diexallophasis cuspide Wicander, 1974 SPECIES
-=======
+# Diexallophasis cuspide Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

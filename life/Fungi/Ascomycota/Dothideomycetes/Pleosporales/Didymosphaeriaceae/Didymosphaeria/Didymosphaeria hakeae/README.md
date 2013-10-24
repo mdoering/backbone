@@ -1,5 +1,4 @@
-Didymosphaeria hakeae G. Winter SPECIES
-=======
+# Didymosphaeria hakeae G. Winter SPECIES
 
 #### Status
 ACCEPTED

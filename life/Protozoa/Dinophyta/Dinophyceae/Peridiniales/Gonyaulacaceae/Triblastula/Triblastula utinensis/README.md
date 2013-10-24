@@ -1,5 +1,4 @@
-Triblastula utinensis O. Wetzel, 1933 SPECIES
-=======
+# Triblastula utinensis O. Wetzel, 1933 SPECIES
 
 #### Status
 ACCEPTED

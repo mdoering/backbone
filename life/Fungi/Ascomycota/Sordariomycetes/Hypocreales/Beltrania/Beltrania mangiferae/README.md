@@ -1,5 +1,4 @@
-Beltrania mangiferae Munjal & J.N. Kapoor SPECIES
-=======
+# Beltrania mangiferae Munjal & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

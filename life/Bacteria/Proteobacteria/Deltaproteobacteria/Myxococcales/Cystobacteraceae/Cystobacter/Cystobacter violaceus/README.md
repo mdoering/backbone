@@ -1,5 +1,4 @@
-Cystobacter violaceus SPECIES
-=======
+# Cystobacter violaceus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clavaria sparassoides Speg., 1884 SPECIES
-=======
+# Hydnopolyporus fimbriatus (Fr.) D.A. Reid, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 17(2): 82 (1884)
+Persoonia 2(2): 151 (1962)
 
 #### Original name
-Clavaria sparassoides Speg., 1884
+Polyporus fimbriatus Fr., 1830
 
 ### Remarks
 null

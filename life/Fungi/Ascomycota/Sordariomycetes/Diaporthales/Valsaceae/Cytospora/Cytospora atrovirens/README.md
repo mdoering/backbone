@@ -1,17 +1,16 @@
-Cytispora atrovirens Wormsk. ex Fr. SPECIES
-=======
+# Cytospora atrovirens Wormsk. ex Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 545 (1823)
 
 #### Original name
-Cytispora atrovirens Wormsk. ex Fr.
+Cytospora atrovirens Wormsk. ex Fr.
 
 ### Remarks
 null

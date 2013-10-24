@@ -1,5 +1,4 @@
-Phlegmacium montanum subsp. montanum SUBSPECIES
-=======
+# Phlegmacium montanum (Kauffman) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Gams, Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Baupilze (Agaricales und Gastromycetes) 2b: 183 (1953)
 
 #### Original name
-Phlegmacium montanum subsp. montanum
+Cortinarius montanus Kauffman
 
 ### Remarks
 null

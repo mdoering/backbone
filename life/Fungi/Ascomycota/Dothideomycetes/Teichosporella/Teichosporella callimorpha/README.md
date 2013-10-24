@@ -1,5 +1,4 @@
-Teichosporella callimorpha Syd. {?} SPECIES
-=======
+# Teichosporella callimorpha Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

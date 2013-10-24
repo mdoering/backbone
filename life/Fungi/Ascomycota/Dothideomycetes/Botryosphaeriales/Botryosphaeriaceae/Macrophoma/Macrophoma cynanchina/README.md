@@ -1,5 +1,4 @@
-Macrophoma cynanchina Petr. SPECIES
-=======
+# Macrophoma cynanchina Petr. SPECIES
 
 #### Status
 ACCEPTED

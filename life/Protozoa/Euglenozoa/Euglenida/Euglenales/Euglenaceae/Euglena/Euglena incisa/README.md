@@ -1,5 +1,4 @@
-Euglena incisa Schiller SPECIES
-=======
+# Euglena incisa Schiller SPECIES
 
 #### Status
 ACCEPTED

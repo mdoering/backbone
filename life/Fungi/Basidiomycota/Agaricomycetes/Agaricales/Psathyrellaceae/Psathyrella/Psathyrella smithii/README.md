@@ -1,5 +1,4 @@
-Psathyrella smithii Guzmán SPECIES
-=======
+# Psathyrella smithii Guzmán SPECIES
 
 #### Status
 ACCEPTED

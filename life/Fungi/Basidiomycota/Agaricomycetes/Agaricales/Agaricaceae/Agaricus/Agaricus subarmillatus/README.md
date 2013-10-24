@@ -1,5 +1,4 @@
-Agaricus subarmillatus Schulzer SPECIES
-=======
+# Agaricus subarmillatus Schulzer SPECIES
 
 #### Status
 ACCEPTED

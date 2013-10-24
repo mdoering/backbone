@@ -1,5 +1,4 @@
-Ramaria sesiana Schild, 1989 SPECIES
-=======
+# Ramaria sesiana Schild, 1989 SPECIES
 
 #### Status
 ACCEPTED

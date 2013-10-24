@@ -1,5 +1,4 @@
-Hyalopus macrosporus Manka & Gierczak SPECIES
-=======
+# Hyalopus macrosporus Manka & Gierczak SPECIES
 
 #### Status
 ACCEPTED

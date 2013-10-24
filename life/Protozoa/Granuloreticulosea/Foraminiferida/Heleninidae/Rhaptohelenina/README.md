@@ -1,5 +1,4 @@
-Rhaptohelenina Clark, 1993 GENUS
-=======
+# Rhaptohelenina Clark, 1993 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius leveilleanus f. leveilleanus FORM
-=======
+# Marasmius leveilleanus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 23: 149 (1925)
 
 #### Original name
-Marasmius leveilleanus f. leveilleanus
+Heliomyces leveilleanus Berk.
 
 ### Remarks
 null

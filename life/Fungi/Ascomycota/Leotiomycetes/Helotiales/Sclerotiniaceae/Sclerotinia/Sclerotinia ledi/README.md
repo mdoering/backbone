@@ -1,5 +1,4 @@
-Sclerotinia ledi Navashin SPECIES
-=======
+# Sclerotinia ledi Navashin SPECIES
 
 #### Status
 ACCEPTED

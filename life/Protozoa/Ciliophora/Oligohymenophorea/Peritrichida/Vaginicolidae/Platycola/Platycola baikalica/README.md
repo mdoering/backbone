@@ -1,5 +1,4 @@
-Platycola baikalica SPECIES
-=======
+# Platycola baikalica SPECIES
 
 #### Status
 ACCEPTED

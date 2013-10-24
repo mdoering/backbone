@@ -1,14 +1,13 @@
-Vaucheria constricta Yamada SPECIES
-=======
+# Pseudodichotomosiphon constricta (Yamada) Yamada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Yamada, Y. (1934). The marine Chlorophyceae from Ryukyu, especially from the vicinity of Nawa. Journal of the Faculty of Science, Hokkaido Imperial University Ser. 5, 3: 33-88, 55 figs.
 
 #### Original name
 null

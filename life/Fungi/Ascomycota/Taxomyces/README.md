@@ -1,5 +1,4 @@
-Taxomyces Strobel, A. Stierle, D. Stierle & W.M. Hess GENUS
-=======
+# Taxomyces Strobel, A. Stierle, D. Stierle & W.M. Hess GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helmisporium arundinaceum Corda SPECIES
-=======
+# Deightoniella arundinacea (Corda) S. Hughes, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 48: 29 (1952)
 
 #### Original name
-null
+Helminthosporium arundinaceum Corda, 1839
 
 ### Remarks
 null

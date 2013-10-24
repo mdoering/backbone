@@ -1,5 +1,4 @@
-Pertusaria trachyspora A. W. Archer SPECIES
-=======
+# Pertusaria trachyspora A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

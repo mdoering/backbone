@@ -1,5 +1,4 @@
-Uromyces globosus Dietel & Holw. SPECIES
-=======
+# Uromyces globosus Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

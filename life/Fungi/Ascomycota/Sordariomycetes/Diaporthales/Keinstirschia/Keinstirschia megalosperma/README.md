@@ -1,14 +1,13 @@
-Cryptosporella megalosperma Kirschst., 1939 SPECIES
-=======
+# Keinstirschia megalosperma (Kirschst.) J. Reid & C. Booth, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 37: 114 (1939)
+Can. J. Bot. 67(3): 897 (1989)
 
 #### Original name
 Cryptosporella megalosperma Kirschst., 1939

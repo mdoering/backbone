@@ -1,5 +1,4 @@
-Phanerochaete tuberculascens Hjortstam, 2000 SPECIES
-=======
+# Phanerochaete tuberculascens Hjortstam, 2000 SPECIES
 
 #### Status
 ACCEPTED

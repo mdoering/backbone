@@ -1,5 +1,4 @@
-Angulogerina angulosa SPECIES
-=======
+# Angulogerina angulosa SPECIES
 
 #### Status
 ACCEPTED

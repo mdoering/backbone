@@ -1,5 +1,4 @@
-Helvella fibrosa (Wallr.) Korf SPECIES
-=======
+# Helvella fibrosa (Wallr.) Korf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nocardiopsis rhodophaea Li et al., 2006 SPECIES
-=======
+# Nocardiopsis rhodophaea Li et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

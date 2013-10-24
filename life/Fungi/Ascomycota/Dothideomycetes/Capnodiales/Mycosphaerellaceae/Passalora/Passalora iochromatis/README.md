@@ -1,5 +1,4 @@
-Passalora iochromatis (Pat.) U. Braun SPECIES
-=======
+# Passalora iochromatis (Pat.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

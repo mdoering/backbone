@@ -1,5 +1,4 @@
-Clonostachys compacta Preuss SPECIES
-=======
+# Clonostachys compacta Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepraria goughensis Elix & Øvstedal SPECIES
-=======
+# Lepraria goughensis Elix & Øvstedal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fuscopannaria protensa (Hue) P.M. Jørg. SPECIES
-=======
+# Fuscopannaria protensa (Hue) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora rhizoctoniae Frank SPECIES
-=======
+# Thelephora rhizoctoniae Frank SPECIES
 
 #### Status
 ACCEPTED

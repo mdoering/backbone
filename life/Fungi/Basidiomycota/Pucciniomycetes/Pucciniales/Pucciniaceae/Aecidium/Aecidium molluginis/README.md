@@ -1,5 +1,4 @@
-Aecidium molluginis Wurth SPECIES
-=======
+# Aecidium molluginis Wurth SPECIES
 
 #### Status
 ACCEPTED

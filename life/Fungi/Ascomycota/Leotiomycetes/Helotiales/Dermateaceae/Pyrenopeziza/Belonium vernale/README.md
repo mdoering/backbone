@@ -1,5 +1,4 @@
-Belonium vernale Velen. SPECIES
-=======
+# Belonium vernale Velen. SPECIES
 
 #### Status
 ACCEPTED

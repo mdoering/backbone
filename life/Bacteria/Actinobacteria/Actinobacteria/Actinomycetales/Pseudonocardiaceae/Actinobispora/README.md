@@ -1,5 +1,4 @@
-Actinobispora Jiang et al., 1991 GENUS
-=======
+# Actinobispora Jiang et al., 1991 GENUS
 
 #### Status
 ACCEPTED

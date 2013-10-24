@@ -1,5 +1,4 @@
-Cercosporella scorzonerae Höhn. SPECIES
-=======
+# Cercosporella scorzonerae Höhn. SPECIES
 
 #### Status
 ACCEPTED

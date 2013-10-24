@@ -1,5 +1,4 @@
-Patellaria atrorubricans Nyl. SPECIES
-=======
+# Patellaria atrorubricans Nyl. SPECIES
 
 #### Status
 ACCEPTED

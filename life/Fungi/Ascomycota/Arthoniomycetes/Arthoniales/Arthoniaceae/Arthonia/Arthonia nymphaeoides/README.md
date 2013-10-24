@@ -1,5 +1,4 @@
-Arthonia nymphaeoides C. Knight SPECIES
-=======
+# Arthonia nymphaeoides C. Knight SPECIES
 
 #### Status
 ACCEPTED

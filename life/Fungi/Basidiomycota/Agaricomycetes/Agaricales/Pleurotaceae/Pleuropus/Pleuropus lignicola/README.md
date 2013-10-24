@@ -1,5 +1,4 @@
-Pleuropus lignicola Murrill SPECIES
-=======
+# Pleuropus lignicola Murrill SPECIES
 
 #### Status
 ACCEPTED

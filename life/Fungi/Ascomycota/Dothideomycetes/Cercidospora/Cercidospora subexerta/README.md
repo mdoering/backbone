@@ -1,5 +1,4 @@
-Cercidospora subexerta (Cooke & Ellis) Kuntze SPECIES
-=======
+# Cercidospora subexerta (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

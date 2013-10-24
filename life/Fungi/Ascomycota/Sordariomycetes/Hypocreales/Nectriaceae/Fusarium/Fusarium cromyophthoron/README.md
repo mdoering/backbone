@@ -1,5 +1,4 @@
-Fusarium cromyophthoron Sideris SPECIES
-=======
+# Fusarium cromyophthoron Sideris SPECIES
 
 #### Status
 ACCEPTED

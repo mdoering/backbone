@@ -1,5 +1,4 @@
-Colletotrichum sumbaviae Syd. & P. Syd. SPECIES
-=======
+# Colletotrichum sumbaviae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta eriobotryae Thüm. SPECIES
-=======
+# Phyllosticta eriobotryae Thüm. SPECIES
 
 #### Status
 ACCEPTED

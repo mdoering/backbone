@@ -1,5 +1,4 @@
-Pertusaria coccopoda Vain. SPECIES
-=======
+# Pertusaria coccopoda Vain. SPECIES
 
 #### Status
 ACCEPTED

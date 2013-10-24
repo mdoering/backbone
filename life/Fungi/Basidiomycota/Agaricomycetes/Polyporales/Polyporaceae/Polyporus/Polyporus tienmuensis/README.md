@@ -1,5 +1,4 @@
-Polyporus tienmuensis Teng SPECIES
-=======
+# Polyporus tienmuensis Teng SPECIES
 
 #### Status
 ACCEPTED

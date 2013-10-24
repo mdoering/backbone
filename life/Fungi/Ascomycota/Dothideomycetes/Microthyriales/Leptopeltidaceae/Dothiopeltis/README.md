@@ -1,5 +1,4 @@
-Dothiopeltis E. Müll. GENUS
-=======
+# Dothiopeltis E. Müll. GENUS
 
 #### Status
 ACCEPTED

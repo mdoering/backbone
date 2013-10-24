@@ -1,5 +1,4 @@
-Collema lepideum Nyl. SPECIES
-=======
+# Collema lepideum Nyl. SPECIES
 
 #### Status
 ACCEPTED

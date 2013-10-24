@@ -1,5 +1,4 @@
-Mycomicrothelia macularis f. macularis FORM
-=======
+# Mycomicrothelia macularis (Hampe ex A. Massal.) Keissl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Rabenh. Krypt. -Fl. (Leipzig) 9(1. 2): 36 (1936)
 
 #### Original name
-Mycomicrothelia macularis f. macularis
+null
 
 ### Remarks
 null

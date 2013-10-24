@@ -1,5 +1,4 @@
-Pseudostictis filicis Fautrey & Lambotte SPECIES
-=======
+# Pseudostictis filicis Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

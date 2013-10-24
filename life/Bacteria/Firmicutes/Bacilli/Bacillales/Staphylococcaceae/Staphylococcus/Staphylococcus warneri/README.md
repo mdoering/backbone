@@ -1,5 +1,4 @@
-Staphylococcus warneri Kloos and Schleifer, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Staphylococcus warneri Kloos and Schleifer, 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

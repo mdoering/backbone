@@ -1,5 +1,4 @@
-Biston hispidaria Npv SPECIES
-=======
+# Biston hispidaria Npv SPECIES
 
 #### Status
 ACCEPTED

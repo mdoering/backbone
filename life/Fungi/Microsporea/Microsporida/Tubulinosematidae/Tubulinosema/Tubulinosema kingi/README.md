@@ -1,5 +1,4 @@
-Tubulinosema kingi (J. Kramer) C. Franzen, S. Fischer, J. Schroeder, J. Schölmerich & S. Schneuwly SPECIES
-=======
+# Tubulinosema kingi (J. Kramer) C. Franzen, S. Fischer, J. Schroeder, J. Schölmerich & S. Schneuwly SPECIES
 
 #### Status
 ACCEPTED

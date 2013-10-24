@@ -1,5 +1,4 @@
-Baltisphaeridium gangolihatense Nautiyal, 1978 SPECIES
-=======
+# Baltisphaeridium gangolihatense Nautiyal, 1978 SPECIES
 
 #### Status
 ACCEPTED

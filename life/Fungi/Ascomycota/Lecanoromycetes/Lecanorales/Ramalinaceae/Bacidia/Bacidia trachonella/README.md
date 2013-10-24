@@ -1,5 +1,4 @@
-Bacidia trachonella (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia trachonella (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

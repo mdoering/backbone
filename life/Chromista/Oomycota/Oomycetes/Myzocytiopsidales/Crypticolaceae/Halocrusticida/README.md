@@ -1,5 +1,4 @@
-Halocrusticida GENUS
-=======
+# Halocrusticida GENUS
 
 #### Status
 ACCEPTED

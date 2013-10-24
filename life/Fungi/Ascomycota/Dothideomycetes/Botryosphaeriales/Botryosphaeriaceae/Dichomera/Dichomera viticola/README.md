@@ -1,5 +1,4 @@
-Dichomera viticola Maire SPECIES
-=======
+# Dichomera viticola Maire SPECIES
 
 #### Status
 ACCEPTED

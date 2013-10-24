@@ -1,5 +1,4 @@
-Septochytrium willoughbyi Dogma SPECIES
-=======
+# Septochytrium willoughbyi Dogma SPECIES
 
 #### Status
 ACCEPTED

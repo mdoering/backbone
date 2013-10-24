@@ -1,5 +1,4 @@
-Asterina lobulata W. Yamam. SPECIES
-=======
+# Asterina lobulata W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

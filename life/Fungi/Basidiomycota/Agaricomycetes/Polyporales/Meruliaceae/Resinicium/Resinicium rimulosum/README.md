@@ -1,5 +1,4 @@
-Resinicium rimulosum Nakasone, 2007 SPECIES
-=======
+# Resinicium rimulosum Nakasone, 2007 SPECIES
 
 #### Status
 ACCEPTED

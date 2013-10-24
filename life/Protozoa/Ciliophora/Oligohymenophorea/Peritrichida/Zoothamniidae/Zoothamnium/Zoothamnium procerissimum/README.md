@@ -1,5 +1,4 @@
-Zoothamnium procerissimum SPECIES
-=======
+# Zoothamnium procerissimum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium nyssicola Seaver SPECIES
-=======
+# Helotium nyssicola Seaver SPECIES
 
 #### Status
 ACCEPTED

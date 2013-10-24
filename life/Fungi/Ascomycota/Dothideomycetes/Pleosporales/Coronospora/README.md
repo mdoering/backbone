@@ -1,5 +1,4 @@
-Coronospora M.B. Ellis GENUS
-=======
+# Coronospora M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxostomella hypocreoidea Petr. & Cif. SPECIES
-=======
+# Myxostomella hypocreoidea Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

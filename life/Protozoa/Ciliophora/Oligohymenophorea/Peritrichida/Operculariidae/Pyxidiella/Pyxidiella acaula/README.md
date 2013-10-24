@@ -1,5 +1,4 @@
-Pyxidiella acaula (Kahl, 1935) Corliss, 1960 SPECIES
-=======
+# Pyxidiella acaula (Kahl, 1935) Corliss, 1960 SPECIES
 
 #### Status
 ACCEPTED

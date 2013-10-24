@@ -1,5 +1,4 @@
-Clathrus recutitus L. SPECIES
-=======
+# Clathrus recutitus L. SPECIES
 
 #### Status
 ACCEPTED

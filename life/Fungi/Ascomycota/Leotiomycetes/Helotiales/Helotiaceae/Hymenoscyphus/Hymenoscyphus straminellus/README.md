@@ -1,5 +1,4 @@
-Hymenoscyphus straminellus (P. Karst.) Kuntze SPECIES
-=======
+# Hymenoscyphus straminellus (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

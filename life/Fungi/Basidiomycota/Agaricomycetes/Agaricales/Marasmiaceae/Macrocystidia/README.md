@@ -1,17 +1,16 @@
-Macrocystis R. Heim GENUS
-=======
+# Macrocystidia Josserand+R, 7578, 1934 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Encyclop. Mycol. (Paris), <b>1</b> Le Genre Inocybe 71 (1931)
+null
 
 #### Original name
-Macrocystis R. Heim
+null
 
 ### Remarks
 null

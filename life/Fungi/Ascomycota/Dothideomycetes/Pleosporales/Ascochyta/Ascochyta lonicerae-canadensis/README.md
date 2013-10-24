@@ -1,5 +1,4 @@
-Ascochyta lonicerae-canadensis H.C. Greene SPECIES
-=======
+# Ascochyta lonicerae-canadensis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

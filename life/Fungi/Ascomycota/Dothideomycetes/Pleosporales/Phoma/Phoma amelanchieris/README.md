@@ -1,5 +1,4 @@
-Phoma amelanchieris Cooke SPECIES
-=======
+# Phoma amelanchieris Cooke SPECIES
 
 #### Status
 ACCEPTED

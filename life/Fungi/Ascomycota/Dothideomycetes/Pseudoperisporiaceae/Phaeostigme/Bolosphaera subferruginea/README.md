@@ -1,5 +1,4 @@
-Bolosphaera subferruginea Syd. SPECIES
-=======
+# Bolosphaera subferruginea Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma stenospora McAlpine SPECIES
-=======
+# Phoma stenospora McAlpine SPECIES
 
 #### Status
 ACCEPTED

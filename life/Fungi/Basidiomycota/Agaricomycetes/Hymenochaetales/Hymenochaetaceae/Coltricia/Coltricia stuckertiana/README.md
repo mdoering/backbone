@@ -1,5 +1,4 @@
-Coltricia stuckertiana (Speg.) Rajchenb. & J.E. Wright SPECIES
-=======
+# Coltricia stuckertiana (Speg.) Rajchenb. & J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus scabriceps Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus scabriceps Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

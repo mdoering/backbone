@@ -1,5 +1,4 @@
-Polycoccum microcarpum Diederich & Etayo SPECIES
-=======
+# Polycoccum microcarpum Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

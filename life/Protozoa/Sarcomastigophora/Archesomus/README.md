@@ -1,5 +1,4 @@
-Archesomus Tikhomirova, 1987 GENUS
-=======
+# Archesomus Tikhomirova, 1987 GENUS
 
 #### Status
 ACCEPTED

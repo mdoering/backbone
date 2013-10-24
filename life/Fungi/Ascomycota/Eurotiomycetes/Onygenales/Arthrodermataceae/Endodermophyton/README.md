@@ -1,5 +1,4 @@
-Endodermophyton GENUS
-=======
+# Endodermophyton GENUS
 
 #### Status
 ACCEPTED

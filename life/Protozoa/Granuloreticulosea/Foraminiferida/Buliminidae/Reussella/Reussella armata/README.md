@@ -1,5 +1,4 @@
-Reussella armata Parr SPECIES
-=======
+# Reussella armata Parr SPECIES
 
 #### Status
 ACCEPTED

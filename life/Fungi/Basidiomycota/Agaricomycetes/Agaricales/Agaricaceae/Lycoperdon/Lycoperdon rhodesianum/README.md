@@ -1,5 +1,4 @@
-Lycoperdon rhodesianum Verwoerd SPECIES
-=======
+# Lycoperdon rhodesianum Verwoerd SPECIES
 
 #### Status
 ACCEPTED

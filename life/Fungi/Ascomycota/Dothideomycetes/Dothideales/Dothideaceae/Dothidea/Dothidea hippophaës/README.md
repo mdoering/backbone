@@ -1,5 +1,4 @@
-Dothidea hippophaës (Pass.) Fuckel SPECIES
-=======
+# Dothidea hippophaës (Pass.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

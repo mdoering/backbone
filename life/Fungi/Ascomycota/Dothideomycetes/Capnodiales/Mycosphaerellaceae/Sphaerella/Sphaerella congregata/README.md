@@ -1,5 +1,4 @@
-Sphaerella congregata (Lév.) Sacc. SPECIES
-=======
+# Sphaerella congregata (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

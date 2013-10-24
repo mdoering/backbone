@@ -1,5 +1,4 @@
-Nolanea quadrata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Nolanea quadrata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

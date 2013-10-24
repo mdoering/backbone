@@ -1,5 +1,4 @@
-Verrucispora brideliae A.K. Sarbhoy, Hosag. & N. Ahmad SPECIES
-=======
+# Verrucispora brideliae A.K. Sarbhoy, Hosag. & N. Ahmad SPECIES
 
 #### Status
 ACCEPTED

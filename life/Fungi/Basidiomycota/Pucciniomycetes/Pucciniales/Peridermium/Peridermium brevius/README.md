@@ -1,5 +1,4 @@
-Peridermium brevius Barclay SPECIES
-=======
+# Peridermium brevius Barclay SPECIES
 
 #### Status
 ACCEPTED

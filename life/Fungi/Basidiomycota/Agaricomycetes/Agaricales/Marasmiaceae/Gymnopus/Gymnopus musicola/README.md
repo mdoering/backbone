@@ -1,5 +1,4 @@
-Gymnopus musicola Murrill SPECIES
-=======
+# Gymnopus musicola Murrill SPECIES
 
 #### Status
 ACCEPTED

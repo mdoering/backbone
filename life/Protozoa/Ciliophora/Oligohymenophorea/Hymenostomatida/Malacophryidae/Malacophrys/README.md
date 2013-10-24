@@ -1,5 +1,4 @@
-Malacophrys Kahl, 1926 GENUS
-=======
+# Malacophrys Kahl, 1926 GENUS
 
 #### Status
 ACCEPTED

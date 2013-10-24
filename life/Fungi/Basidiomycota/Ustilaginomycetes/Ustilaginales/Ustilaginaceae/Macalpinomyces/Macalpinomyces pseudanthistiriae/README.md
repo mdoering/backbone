@@ -1,5 +1,4 @@
-Macalpinomyces pseudanthistiriae A.R. Patil, T.M. Patil & M.S. Patil, 2004 SPECIES
-=======
+# Macalpinomyces pseudanthistiriae A.R. Patil, T.M. Patil & M.S. Patil, 2004 SPECIES
 
 #### Status
 ACCEPTED

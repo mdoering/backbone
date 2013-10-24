@@ -1,5 +1,4 @@
-Sorosporium harrismithense Zundel SPECIES
-=======
+# Sorosporium harrismithense Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenastrum sulphureum Eschw. SPECIES
-=======
+# Pyrenastrum sulphureum Eschw. SPECIES
 
 #### Status
 ACCEPTED

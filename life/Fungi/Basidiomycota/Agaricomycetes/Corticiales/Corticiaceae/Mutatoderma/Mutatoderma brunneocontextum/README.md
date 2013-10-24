@@ -1,14 +1,13 @@
-Hyphoderma brunneocontextum (C.E. Gómez) M. Galán, 1993 SPECIES
-=======
+# Mutatoderma brunneocontextum C.E. Gómez, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Galán, Lopez & Wright, Darwiniana 32(1-4): 239 (1993)
+Boln Soc. argent. Bot. 17(3-4): 346 (1976)
 
 #### Original name
 Mutatoderma brunneocontextum C.E. Gómez, 1976

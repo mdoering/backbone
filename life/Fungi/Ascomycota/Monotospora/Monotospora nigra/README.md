@@ -1,5 +1,4 @@
-Monotospora nigra Morgan SPECIES
-=======
+# Monotospora nigra Morgan SPECIES
 
 #### Status
 ACCEPTED

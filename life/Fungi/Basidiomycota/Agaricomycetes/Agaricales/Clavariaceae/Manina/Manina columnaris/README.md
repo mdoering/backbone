@@ -1,5 +1,4 @@
-Manina columnaris Scop. SPECIES
-=======
+# Manina columnaris Scop. SPECIES
 
 #### Status
 ACCEPTED

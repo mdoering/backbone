@@ -1,5 +1,4 @@
-Ustilago consimilis Syd. SPECIES
-=======
+# Ustilago consimilis Syd. SPECIES
 
 #### Status
 ACCEPTED

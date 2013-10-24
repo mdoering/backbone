@@ -1,5 +1,4 @@
-Corydycepioideus GENUS
-=======
+# Corydycepioideus GENUS
 
 #### Status
 ACCEPTED

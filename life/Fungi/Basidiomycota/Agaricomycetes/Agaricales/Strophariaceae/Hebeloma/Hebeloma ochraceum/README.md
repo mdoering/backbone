@@ -1,5 +1,4 @@
-Hebeloma ochraceum W.F. Chiu SPECIES
-=======
+# Hebeloma ochraceum W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

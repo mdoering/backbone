@@ -1,5 +1,4 @@
-Lithocia apomelaena (Hepp) A. Massal. SPECIES
-=======
+# Lithocia apomelaena (Hepp) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

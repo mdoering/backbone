@@ -1,8 +1,7 @@
-Mollisia cotoneastris Starbäck SPECIES
-=======
+# Mollisia cotoneastri Starbäck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mollisia cotoneastris Starbäck
+Mollisia cotoneastri Starbäck
 
 ### Remarks
 null

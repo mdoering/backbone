@@ -1,5 +1,4 @@
-Glomus cuneatum McGee & A. Cooper, 2002 SPECIES
-=======
+# Glomus cuneatum McGee & A. Cooper, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria bella SPECIES
-=======
+# Verrucaria bella SPECIES
 
 #### Status
 ACCEPTED

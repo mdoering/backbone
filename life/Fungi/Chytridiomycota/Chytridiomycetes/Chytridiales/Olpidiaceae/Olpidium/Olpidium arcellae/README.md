@@ -1,5 +1,4 @@
-Olpidium arcellae Sorokin SPECIES
-=======
+# Olpidium arcellae Sorokin SPECIES
 
 #### Status
 ACCEPTED

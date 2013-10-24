@@ -1,5 +1,4 @@
-Calathella gayana (Lév.) Agerer, 1983 SPECIES
-=======
+# Calathella gayana (Lév.) Agerer, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discosia jambolanae S. Ahmad SPECIES
-=======
+# Discosia jambolanae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

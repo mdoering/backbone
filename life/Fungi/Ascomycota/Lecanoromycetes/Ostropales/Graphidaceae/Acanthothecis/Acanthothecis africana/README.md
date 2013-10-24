@@ -1,5 +1,4 @@
-Acanthothecis africana Staiger & Kalb SPECIES
-=======
+# Acanthothecis africana Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

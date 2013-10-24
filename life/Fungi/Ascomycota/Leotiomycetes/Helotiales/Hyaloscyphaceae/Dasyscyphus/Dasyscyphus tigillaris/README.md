@@ -1,5 +1,4 @@
-Dasyscyphus tigillaris P. Karst. SPECIES
-=======
+# Dasyscyphus tigillaris P. Karst. SPECIES
 
 #### Status
 ACCEPTED

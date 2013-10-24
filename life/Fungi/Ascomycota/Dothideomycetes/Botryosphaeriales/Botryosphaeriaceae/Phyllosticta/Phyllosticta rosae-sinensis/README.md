@@ -1,5 +1,4 @@
-Phyllosticta rosae-sinensis Cejp SPECIES
-=======
+# Phyllosticta rosae-sinensis Cejp SPECIES
 
 #### Status
 ACCEPTED

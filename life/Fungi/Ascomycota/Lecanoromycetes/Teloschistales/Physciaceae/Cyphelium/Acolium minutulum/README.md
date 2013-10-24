@@ -1,5 +1,4 @@
-Acolium minutulum Bagl. SPECIES
-=======
+# Acolium minutulum Bagl. SPECIES
 
 #### Status
 ACCEPTED

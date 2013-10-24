@@ -1,17 +1,16 @@
-Mycena acicula var. acicula VARIETY
-=======
+# Mycena acicula (Schaeff.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Führ. Pilzk. (Zwickau) 109 (1871)
 
 #### Original name
-Mycena acicula var. acicula
+Agaricus acicula Schaeff., 1774
 
 ### Remarks
 null

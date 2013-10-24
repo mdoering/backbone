@@ -1,5 +1,4 @@
-Teloschistaceae Zahlbr. FAMILY
-=======
+# Teloschistaceae Zahlbr. FAMILY
 
 #### Status
 ACCEPTED

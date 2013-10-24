@@ -1,5 +1,4 @@
-Mimeomyces urophilus (Speg.) I.I. Tav. SPECIES
-=======
+# Mimeomyces urophilus (Speg.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

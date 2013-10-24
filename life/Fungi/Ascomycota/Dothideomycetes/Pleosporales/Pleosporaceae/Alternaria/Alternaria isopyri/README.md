@@ -1,5 +1,4 @@
-Alternaria isopyri (Höhn.) M.B. Ellis SPECIES
-=======
+# Alternaria isopyri (Höhn.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

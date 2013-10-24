@@ -1,5 +1,4 @@
-Mucor fuliginosus (Bonord.) Berl. & De Toni SPECIES
-=======
+# Mucor fuliginosus (Bonord.) Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

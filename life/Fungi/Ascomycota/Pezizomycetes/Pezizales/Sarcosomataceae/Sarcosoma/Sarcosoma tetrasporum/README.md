@@ -1,5 +1,4 @@
-Sarcosoma tetrasporum Höhn. SPECIES
-=======
+# Sarcosoma tetrasporum Höhn. SPECIES
 
 #### Status
 ACCEPTED

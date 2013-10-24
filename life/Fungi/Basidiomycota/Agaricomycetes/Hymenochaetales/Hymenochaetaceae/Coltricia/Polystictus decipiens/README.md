@@ -1,17 +1,16 @@
-Hansenia decipiens (Schwein.) P. Karst., 1879 SPECIES
-=======
+# Polystictus decipiens (Schwein.) Fr., 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 5: 40 (1879)
+Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 86 (1851)
 
 #### Original name
-Polystictus decipiens (Schwein.) Fr., 1851
+Polyporus decipiens (Berk.) Lloyd, 1915
 
 ### Remarks
 null

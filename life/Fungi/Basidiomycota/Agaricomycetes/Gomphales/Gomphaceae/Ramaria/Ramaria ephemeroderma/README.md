@@ -1,5 +1,4 @@
-Ramaria ephemeroderma R.H. Petersen & M. Zang, 1989 SPECIES
-=======
+# Ramaria ephemeroderma R.H. Petersen & M. Zang, 1989 SPECIES
 
 #### Status
 ACCEPTED

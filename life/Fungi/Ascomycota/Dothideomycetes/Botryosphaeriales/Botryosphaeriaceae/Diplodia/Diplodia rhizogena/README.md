@@ -1,5 +1,4 @@
-Diplodia rhizogena Ellis & Barthol. SPECIES
-=======
+# Diplodia rhizogena Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

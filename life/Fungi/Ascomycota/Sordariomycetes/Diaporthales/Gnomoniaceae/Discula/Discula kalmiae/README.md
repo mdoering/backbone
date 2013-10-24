@@ -1,5 +1,4 @@
-Discula kalmiae (Peck) Sacc. SPECIES
-=======
+# Discula kalmiae (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

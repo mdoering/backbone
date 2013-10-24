@@ -1,5 +1,4 @@
-Peteinosphaeridium spiraliculum Colbath, 1979 SPECIES
-=======
+# Peteinosphaeridium spiraliculum Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

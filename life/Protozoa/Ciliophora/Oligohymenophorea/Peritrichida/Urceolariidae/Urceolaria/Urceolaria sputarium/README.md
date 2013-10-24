@@ -1,5 +1,4 @@
-Urceolaria sputarium SPECIES
-=======
+# Urceolaria sputarium SPECIES
 
 #### Status
 ACCEPTED

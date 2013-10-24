@@ -1,5 +1,4 @@
-Torrentispora K.D. Hyde, W.H. Ho, E.B.G. Jones, K.M. Tsui & S.W. Wong GENUS
-=======
+# Torrentispora K.D. Hyde, W.H. Ho, E.B.G. Jones, K.M. Tsui & S.W. Wong GENUS
 
 #### Status
 ACCEPTED

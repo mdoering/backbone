@@ -1,5 +1,4 @@
-Lecidea contermina (Arnold) Nyl. SPECIES
-=======
+# Lecidea contermina (Arnold) Nyl. SPECIES
 
 #### Status
 ACCEPTED

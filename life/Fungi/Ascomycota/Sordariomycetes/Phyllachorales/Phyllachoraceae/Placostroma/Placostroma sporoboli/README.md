@@ -1,14 +1,13 @@
-Scirrhia sporoboli G.F. Atk., 1897 SPECIES
-=======
+# Placostroma sporoboli (G.F. Atk.) R. Sprague, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Cornell Univ. Agric. Exp. Stn 3(1): 9 (1897)
+Diseases of Cereals and Grasses of North America 121 (1950)
 
 #### Original name
 Scirrhia sporoboli G.F. Atk., 1897

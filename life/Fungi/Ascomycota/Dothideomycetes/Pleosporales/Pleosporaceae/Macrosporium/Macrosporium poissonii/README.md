@@ -1,17 +1,16 @@
-Macrosporium poissoni Bouriquet SPECIES
-=======
+# Macrosporium poissonii Bouriquet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Les Champignons parasites et les Mycoses de l'Homme (Encycl. mycol. , 2) 489 (1947)
 
 #### Original name
-Macrosporium poissoni Bouriquet
+Macrosporium poissonii Bouriquet
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus favorabilis Britzelm. SPECIES
-=======
+# Agaricus favorabilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

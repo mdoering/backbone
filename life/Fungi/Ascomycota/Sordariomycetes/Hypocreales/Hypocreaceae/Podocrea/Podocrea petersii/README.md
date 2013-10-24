@@ -1,5 +1,4 @@
-Podocrea petersii (Berk. & M.A. Curtis) Sacc. & D. Sacc. SPECIES
-=======
+# Podocrea petersii (Berk. & M.A. Curtis) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplocaulus pelagicus (Gajewskaja, 1933) Stiller, 1971 SPECIES
-=======
+# Haplocaulus pelagicus (Gajewskaja, 1933) Stiller, 1971 SPECIES
 
 #### Status
 ACCEPTED

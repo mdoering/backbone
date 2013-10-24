@@ -1,5 +1,4 @@
-Leptosphaeria rhodiolicola Petr. SPECIES
-=======
+# Leptosphaeria rhodiolicola Petr. SPECIES
 
 #### Status
 ACCEPTED

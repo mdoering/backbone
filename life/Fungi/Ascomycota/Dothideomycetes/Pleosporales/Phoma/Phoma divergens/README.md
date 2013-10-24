@@ -1,5 +1,4 @@
-Phoma divergens Oudem. SPECIES
-=======
+# Phoma divergens Oudem. SPECIES
 
 #### Status
 ACCEPTED

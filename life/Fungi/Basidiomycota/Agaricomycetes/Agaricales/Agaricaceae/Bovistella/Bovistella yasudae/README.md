@@ -1,5 +1,4 @@
-Bovistella yasudae Lloyd SPECIES
-=======
+# Bovistella yasudae Lloyd SPECIES
 
 #### Status
 ACCEPTED

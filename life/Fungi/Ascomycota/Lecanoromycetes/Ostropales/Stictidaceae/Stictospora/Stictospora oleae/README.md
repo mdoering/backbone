@@ -1,5 +1,4 @@
-Stictospora oleae (De Not.) Cif. SPECIES
-=======
+# Stictospora oleae (De Not.) Cif. SPECIES
 
 #### Status
 ACCEPTED

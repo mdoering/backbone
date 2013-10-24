@@ -1,5 +1,4 @@
-Chuaria multirugosa Du, L. in Duan, C. et al., 1985 SPECIES
-=======
+# Chuaria multirugosa Du, L. in Duan, C. et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

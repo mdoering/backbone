@@ -1,5 +1,4 @@
-Sphaerella millepunctata Tassi SPECIES
-=======
+# Sphaerella millepunctata Tassi SPECIES
 
 #### Status
 ACCEPTED

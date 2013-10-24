@@ -1,5 +1,4 @@
-Phyllosticta palustris Ellis & Dearn. SPECIES
-=======
+# Phyllosticta palustris Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

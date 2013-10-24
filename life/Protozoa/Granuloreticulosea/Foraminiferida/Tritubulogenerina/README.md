@@ -1,5 +1,4 @@
-Tritubulogenerina Howe, 1939 GENUS
-=======
+# Tritubulogenerina Howe, 1939 GENUS
 
 #### Status
 ACCEPTED

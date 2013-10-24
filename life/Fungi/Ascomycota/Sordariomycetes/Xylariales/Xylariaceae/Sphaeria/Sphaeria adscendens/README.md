@@ -1,5 +1,4 @@
-Sphaeria adscendens Fr. SPECIES
-=======
+# Sphaeria adscendens Fr. SPECIES
 
 #### Status
 ACCEPTED

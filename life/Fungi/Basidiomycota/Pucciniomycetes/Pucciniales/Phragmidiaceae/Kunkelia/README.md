@@ -1,5 +1,4 @@
-Kunkelia Arthur GENUS
-=======
+# Kunkelia Arthur GENUS
 
 #### Status
 ACCEPTED

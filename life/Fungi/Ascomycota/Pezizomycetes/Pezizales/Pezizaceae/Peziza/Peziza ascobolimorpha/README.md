@@ -1,5 +1,4 @@
-Peziza ascobolimorpha P. Crouan & H. Crouan SPECIES
-=======
+# Peziza ascobolimorpha P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocybe brunnea Contu SPECIES
-=======
+# Rhodocybe brunnea Contu SPECIES
 
 #### Status
 ACCEPTED

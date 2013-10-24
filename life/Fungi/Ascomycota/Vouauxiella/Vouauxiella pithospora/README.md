@@ -1,14 +1,13 @@
-Alysia pithospora Cavalc. & A.A. Silva, 1972 SPECIES
-=======
+# Vouauxiella pithospora (Cavalc. & Maia) B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cavalcante, Cavalcanti & Leal, Publicações. Instituto de Micologia da Universidade de Pernambuco 647: 34 (1972)
+The Coelomycetes (Kew) 24 (1980)
 
 #### Original name
 Alysia pithospora Cavalc. & A.A. Silva, 1972

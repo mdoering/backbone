@@ -1,5 +1,4 @@
-Hysteropatella conformis Rehm SPECIES
-=======
+# Hysteropatella conformis Rehm SPECIES
 
 #### Status
 ACCEPTED

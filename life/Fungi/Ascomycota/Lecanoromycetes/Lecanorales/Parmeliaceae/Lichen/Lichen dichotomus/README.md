@@ -1,5 +1,4 @@
-Lichen dichotomus (Hoffm.) Ach SPECIES
-=======
+# Lichen dichotomus (Hoffm.) Ach SPECIES
 
 #### Status
 ACCEPTED

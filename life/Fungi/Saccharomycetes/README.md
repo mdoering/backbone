@@ -1,5 +1,4 @@
-Saccharomycetes Grüss, 1928 GENUS
-=======
+# Saccharomycetes Grüss, 1928 GENUS
 
 #### Status
 ACCEPTED

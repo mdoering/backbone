@@ -1,5 +1,4 @@
-Cordyceps erotyli Petch SPECIES
-=======
+# Cordyceps erotyli Petch SPECIES
 
 #### Status
 ACCEPTED

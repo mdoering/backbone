@@ -1,5 +1,4 @@
-Cercospora deformans Pat. & Har. SPECIES
-=======
+# Cercospora deformans Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

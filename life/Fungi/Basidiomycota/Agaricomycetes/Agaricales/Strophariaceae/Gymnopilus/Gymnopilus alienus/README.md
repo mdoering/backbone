@@ -1,5 +1,4 @@
-Gymnopilus alienus (Peck) Murrill SPECIES
-=======
+# Gymnopilus alienus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

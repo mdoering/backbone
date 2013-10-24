@@ -1,5 +1,4 @@
-Marasmiellus chilensis (Speg.) Singer SPECIES
-=======
+# Marasmiellus chilensis (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

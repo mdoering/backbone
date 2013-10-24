@@ -1,5 +1,4 @@
-Puccinia abuthoides Cummins SPECIES
-=======
+# Puccinia abuthoides Cummins SPECIES
 
 #### Status
 ACCEPTED

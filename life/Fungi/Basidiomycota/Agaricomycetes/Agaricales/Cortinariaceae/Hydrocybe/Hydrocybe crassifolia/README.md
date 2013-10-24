@@ -1,5 +1,4 @@
-Hydrocybe crassifolia Velen. SPECIES
-=======
+# Hydrocybe crassifolia Velen. SPECIES
 
 #### Status
 ACCEPTED

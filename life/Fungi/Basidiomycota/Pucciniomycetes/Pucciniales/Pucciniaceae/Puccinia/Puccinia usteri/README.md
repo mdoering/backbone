@@ -1,5 +1,4 @@
-Puccinia usteri Dietel SPECIES
-=======
+# Puccinia usteri Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea ultima Th. Fr. SPECIES
-=======
+# Lecidea ultima Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

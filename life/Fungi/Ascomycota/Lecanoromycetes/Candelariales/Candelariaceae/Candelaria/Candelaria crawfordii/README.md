@@ -1,5 +1,4 @@
-Candelaria crawfordii (Müll. Arg.) P. M. Jørg. & D. J. Galloway SPECIES
-=======
+# Candelaria crawfordii (Müll. Arg.) P. M. Jørg. & D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

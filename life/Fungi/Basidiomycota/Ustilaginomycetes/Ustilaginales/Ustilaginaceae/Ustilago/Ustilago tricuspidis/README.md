@@ -1,5 +1,4 @@
-Ustilago tricuspidis Ellis & Galloway ex G.P. Clinton SPECIES
-=======
+# Ustilago tricuspidis Ellis & Galloway ex G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

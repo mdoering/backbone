@@ -1,5 +1,4 @@
-Inocybe ampullaceocystidiata Shchukin SPECIES
-=======
+# Inocybe ampullaceocystidiata Shchukin SPECIES
 
 #### Status
 ACCEPTED

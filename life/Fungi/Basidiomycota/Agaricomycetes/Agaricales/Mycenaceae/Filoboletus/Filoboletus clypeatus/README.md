@@ -1,5 +1,4 @@
-Filoboletus clypeatus (Pat.) Singer SPECIES
-=======
+# Filoboletus clypeatus (Pat.) Singer SPECIES
 
 #### Status
 ACCEPTED

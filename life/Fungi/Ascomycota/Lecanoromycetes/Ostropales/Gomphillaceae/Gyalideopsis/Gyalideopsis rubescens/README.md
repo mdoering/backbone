@@ -1,5 +1,4 @@
-Gyalideopsis rubescens Vezda SPECIES
-=======
+# Gyalideopsis rubescens Vezda SPECIES
 
 #### Status
 ACCEPTED

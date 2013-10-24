@@ -1,5 +1,4 @@
-Ramularia lophanthi Ellis & Everh. SPECIES
-=======
+# Ramularia lophanthi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

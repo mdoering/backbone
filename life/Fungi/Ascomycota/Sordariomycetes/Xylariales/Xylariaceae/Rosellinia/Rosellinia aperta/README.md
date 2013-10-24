@@ -1,5 +1,4 @@
-Rosellinia aperta (Schwein.) Sacc. SPECIES
-=======
+# Rosellinia aperta (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus fumosifolius Murrill SPECIES
-=======
+# Crepidotus fumosifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catolechia galbula SPECIES
-=======
+# Catolechia galbula SPECIES
 
 #### Status
 ACCEPTED

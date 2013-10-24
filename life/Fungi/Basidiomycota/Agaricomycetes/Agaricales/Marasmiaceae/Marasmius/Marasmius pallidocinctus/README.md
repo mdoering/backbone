@@ -1,5 +1,4 @@
-Marasmius pallidocinctus var. pallidocinctus VARIETY
-=======
+# Marasmius pallidocinctus Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fl. Neotrop. , Monogr. 17: 156 (1976)
 
 #### Original name
-Marasmius pallidocinctus var. pallidocinctus
+Marasmius pallidocinctus Singer
 
 ### Remarks
 null

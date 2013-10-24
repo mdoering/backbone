@@ -1,5 +1,4 @@
-Schiffnerula toddaliae Hansf. SPECIES
-=======
+# Schiffnerula toddaliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

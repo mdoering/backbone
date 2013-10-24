@@ -1,5 +1,4 @@
-Scolecobasidium tropicum Matsush., 1983 SPECIES
-=======
+# Scolecobasidium tropicum Matsush., 1983 SPECIES
 
 #### Status
 ACCEPTED

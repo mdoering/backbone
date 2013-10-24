@@ -1,17 +1,16 @@
-Boletus pallescens (Konrad) Singer, 1936 SPECIES
-=======
+# Boletus fechtneri Velen., 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 35: 424 (1937)
+Ceské Houby 4-5: 704 (1922)
 
 #### Original name
-Boletus appendiculatus pallescens Konrad, 1929
+Boletus fechtneri Velen., 1922
 
 ### Remarks
 null

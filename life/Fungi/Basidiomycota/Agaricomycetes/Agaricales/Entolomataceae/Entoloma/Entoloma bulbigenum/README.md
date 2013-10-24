@@ -1,5 +1,4 @@
-Entoloma bulbigenum (Berk. & Broome) Sacc. SPECIES
-=======
+# Entoloma bulbigenum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

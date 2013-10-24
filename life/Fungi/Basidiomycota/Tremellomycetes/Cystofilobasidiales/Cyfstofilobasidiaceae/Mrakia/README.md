@@ -1,5 +1,4 @@
-Mrakia Y. Yamada & Komag. GENUS
-=======
+# Mrakia Y. Yamada & Komag. GENUS
 
 #### Status
 ACCEPTED

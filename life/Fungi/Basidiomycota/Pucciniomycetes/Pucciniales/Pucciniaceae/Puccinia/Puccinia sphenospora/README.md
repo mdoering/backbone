@@ -1,5 +1,4 @@
-Puccinia sphenospora P. Syd. & Syd. SPECIES
-=======
+# Puccinia sphenospora P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

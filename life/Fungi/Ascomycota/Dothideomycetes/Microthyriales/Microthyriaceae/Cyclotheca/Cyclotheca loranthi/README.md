@@ -1,5 +1,4 @@
-Cyclotheca loranthi (P. Karst. & Har.) Arx SPECIES
-=======
+# Cyclotheca loranthi (P. Karst. & Har.) Arx SPECIES
 
 #### Status
 ACCEPTED

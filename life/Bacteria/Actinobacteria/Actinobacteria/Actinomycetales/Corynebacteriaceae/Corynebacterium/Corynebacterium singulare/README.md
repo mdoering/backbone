@@ -1,5 +1,4 @@
-Corynebacterium singulare Riegel et al., 1997 SPECIES
-=======
+# Corynebacterium singulare Riegel et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

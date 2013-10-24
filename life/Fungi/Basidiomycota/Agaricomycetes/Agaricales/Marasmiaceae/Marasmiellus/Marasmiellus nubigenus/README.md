@@ -1,5 +1,4 @@
-Marasmiellus nubigenus Singer SPECIES
-=======
+# Marasmiellus nubigenus Singer SPECIES
 
 #### Status
 ACCEPTED

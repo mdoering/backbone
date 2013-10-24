@@ -1,5 +1,4 @@
-Lepiota brunneosquarrosa Rick SPECIES
-=======
+# Lepiota brunneosquarrosa Rick SPECIES
 
 #### Status
 ACCEPTED

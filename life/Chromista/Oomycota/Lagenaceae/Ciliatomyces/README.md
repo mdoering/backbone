@@ -1,5 +1,4 @@
-Ciliatomyces I. Foissner & W. Foissner GENUS
-=======
+# Ciliatomyces I. Foissner & W. Foissner GENUS
 
 #### Status
 ACCEPTED

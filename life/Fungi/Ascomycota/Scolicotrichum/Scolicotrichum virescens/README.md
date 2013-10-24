@@ -1,5 +1,4 @@
-Scolicotrichum virescens Bonord. SPECIES
-=======
+# Scolicotrichum virescens Bonord. SPECIES
 
 #### Status
 ACCEPTED

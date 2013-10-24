@@ -1,5 +1,4 @@
-Uredo scarabaeoidis Bouriquet & Bassino SPECIES
-=======
+# Uredo scarabaeoidis Bouriquet & Bassino SPECIES
 
 #### Status
 ACCEPTED

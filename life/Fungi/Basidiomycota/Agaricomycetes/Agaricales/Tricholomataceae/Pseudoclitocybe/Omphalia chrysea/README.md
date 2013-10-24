@@ -1,5 +1,4 @@
-Omphalia chrysea Peck SPECIES
-=======
+# Omphalia chrysea Peck SPECIES
 
 #### Status
 ACCEPTED

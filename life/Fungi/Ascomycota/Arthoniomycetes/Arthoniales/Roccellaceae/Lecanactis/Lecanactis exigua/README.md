@@ -1,5 +1,4 @@
-Lecanactis exigua Egea & Torrente SPECIES
-=======
+# Lecanactis exigua Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

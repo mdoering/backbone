@@ -1,5 +1,4 @@
-Goniochloris stellata J. A. Rino SPECIES
-=======
+# Goniochloris stellata J. A. Rino SPECIES
 
 #### Status
 ACCEPTED

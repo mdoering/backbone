@@ -1,5 +1,4 @@
-Hendersonia triticina Lobik SPECIES
-=======
+# Hendersonia triticina Lobik SPECIES
 
 #### Status
 ACCEPTED

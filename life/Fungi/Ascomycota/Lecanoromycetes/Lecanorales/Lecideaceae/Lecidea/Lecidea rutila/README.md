@@ -1,5 +1,4 @@
-Lecidea rutila Ach. SPECIES
-=======
+# Lecidea rutila Ach. SPECIES
 
 #### Status
 ACCEPTED

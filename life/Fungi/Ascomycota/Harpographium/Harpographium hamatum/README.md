@@ -1,5 +1,4 @@
-Harpographium hamatum Deighton SPECIES
-=======
+# Harpographium hamatum Deighton SPECIES
 
 #### Status
 ACCEPTED

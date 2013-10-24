@@ -1,5 +1,4 @@
-Siphoninoides echinata SPECIES
-=======
+# Siphoninoides echinata SPECIES
 
 #### Status
 ACCEPTED

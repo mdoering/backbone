@@ -1,5 +1,4 @@
-Laboulbenia clivinalis Thaxt., 1902 SPECIES
-=======
+# Laboulbenia clivinalis Thaxt., 1902 SPECIES
 
 #### Status
 ACCEPTED

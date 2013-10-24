@@ -1,5 +1,4 @@
-Isaria mokanshawii Lloyd SPECIES
-=======
+# Isaria mokanshawii Lloyd SPECIES
 
 #### Status
 ACCEPTED

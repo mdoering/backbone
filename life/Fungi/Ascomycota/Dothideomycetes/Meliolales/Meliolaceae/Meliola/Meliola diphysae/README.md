@@ -1,5 +1,4 @@
-Meliola diphysae F. Stevens SPECIES
-=======
+# Meliola diphysae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

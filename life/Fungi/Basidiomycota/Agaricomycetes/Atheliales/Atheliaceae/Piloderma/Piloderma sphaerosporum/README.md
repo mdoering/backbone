@@ -1,5 +1,4 @@
-Piloderma sphaerosporum Jülich, 1972 SPECIES
-=======
+# Piloderma sphaerosporum Jülich, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sagedia marcucciana Bagl. SPECIES
-=======
+# Sagedia marcucciana Bagl. SPECIES
 
 #### Status
 ACCEPTED

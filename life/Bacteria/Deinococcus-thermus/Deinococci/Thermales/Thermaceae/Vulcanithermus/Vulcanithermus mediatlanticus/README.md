@@ -1,5 +1,4 @@
-Vulcanithermus mediatlanticus Miroshnichenko et al., 2003 SPECIES
-=======
+# Vulcanithermus mediatlanticus Miroshnichenko et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosporella cassiopes (Rostr.) Keissl. SPECIES
-=======
+# Phaeosporella cassiopes (Rostr.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

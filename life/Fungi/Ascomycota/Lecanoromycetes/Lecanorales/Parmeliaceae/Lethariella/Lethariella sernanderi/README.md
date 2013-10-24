@@ -1,8 +1,7 @@
-Usnea sernanderi Motyka SPECIES
-=======
+# Lethariella sernanderi (Motyka) Obermayer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Usnea sernanderi Motyka
 
 ### Remarks
 null

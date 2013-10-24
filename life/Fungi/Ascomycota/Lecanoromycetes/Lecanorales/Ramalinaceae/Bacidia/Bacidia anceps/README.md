@@ -1,5 +1,4 @@
-Bacidia anceps C. Knight SPECIES
-=======
+# Bacidia anceps C. Knight SPECIES
 
 #### Status
 ACCEPTED

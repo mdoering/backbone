@@ -1,17 +1,16 @@
-Gonatobotrys simplex var. simplex VARIETY
-=======
+# Melanospora damnosa (Sacc.) Lindau, 1897 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Prachtflora 9 (1839)
+null
 
 #### Original name
-Gonatobotrys simplex var. simplex
+Sphaeroderma damnosum Sacc., 1896
 
 ### Remarks
 null

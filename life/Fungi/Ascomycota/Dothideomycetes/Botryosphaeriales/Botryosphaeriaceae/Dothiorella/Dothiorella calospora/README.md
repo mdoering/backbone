@@ -1,5 +1,4 @@
-Dothiorella calospora Bres. SPECIES
-=======
+# Dothiorella calospora Bres. SPECIES
 
 #### Status
 ACCEPTED

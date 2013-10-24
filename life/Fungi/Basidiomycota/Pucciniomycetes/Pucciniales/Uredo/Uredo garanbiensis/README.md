@@ -1,5 +1,4 @@
-Uredo garanbiensis Hirats. f. & Hashioka SPECIES
-=======
+# Uredo garanbiensis Hirats. f. & Hashioka SPECIES
 
 #### Status
 ACCEPTED

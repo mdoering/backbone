@@ -1,5 +1,4 @@
-Valsa infinitissima Kalchbr. & Cooke SPECIES
-=======
+# Valsa infinitissima Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

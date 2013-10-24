@@ -1,5 +1,4 @@
-Discula rosae Oudem. SPECIES
-=======
+# Discula rosae Oudem. SPECIES
 
 #### Status
 ACCEPTED

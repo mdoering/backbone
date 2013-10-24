@@ -1,17 +1,16 @@
-Paxillus mcnabbii Singer, J. García & L.D. Gómez SPECIES
-=======
+# Austropaxillus macnabbii (Singer, J. García & L.D. Gómez) Jarosch, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 191: 92 (2001)
 
 #### Original name
-Paxillus mcnabbii Singer, J. García & L.D. Gómez
+Paxillus macnabbii Singer, J. García & L.D. Gómez, 1990
 
 ### Remarks
 null

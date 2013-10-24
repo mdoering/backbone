@@ -1,17 +1,16 @@
-Diatrype mindanaoensis Henn. SPECIES
-=======
+# Diatrype mindanaensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 47: 258 (1908)
 
 #### Original name
-Diatrype mindanaoensis Henn.
+Diatrype mindanaensis Henn.
 
 ### Remarks
 null

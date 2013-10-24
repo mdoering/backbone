@@ -1,5 +1,4 @@
-Pocsia triseptata Kalb & Vezda SPECIES
-=======
+# Pocsia triseptata Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

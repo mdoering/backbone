@@ -1,5 +1,4 @@
-Agaricus chrysimyces Berk. SPECIES
-=======
+# Agaricus chrysimyces Berk. SPECIES
 
 #### Status
 ACCEPTED

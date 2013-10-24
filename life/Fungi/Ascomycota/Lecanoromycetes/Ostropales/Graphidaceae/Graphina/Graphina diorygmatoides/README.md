@@ -1,5 +1,4 @@
-Graphina diorygmatoides (Vain.) Zahlbr. SPECIES
-=======
+# Graphina diorygmatoides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

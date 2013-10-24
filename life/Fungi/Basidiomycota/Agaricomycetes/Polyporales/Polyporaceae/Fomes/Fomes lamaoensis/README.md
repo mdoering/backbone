@@ -1,5 +1,4 @@
-Fomes lamaoensis var. lamaoensis VARIETY
-=======
+# Fomes lamaoensis (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 21: 287 (1912)
 
 #### Original name
-Fomes lamaoensis var. lamaoensis
+Pyropolyporus lamaoensis Murrill
 
 ### Remarks
 null

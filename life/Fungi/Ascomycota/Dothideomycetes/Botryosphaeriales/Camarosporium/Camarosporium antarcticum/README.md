@@ -1,5 +1,4 @@
-Camarosporium antarcticum Speg. SPECIES
-=======
+# Camarosporium antarcticum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia scillae-rubrae Cruchet SPECIES
-=======
+# Puccinia scillae-rubrae Cruchet SPECIES
 
 #### Status
 ACCEPTED

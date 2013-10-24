@@ -1,5 +1,4 @@
-Fusidium hormiscii Corda SPECIES
-=======
+# Fusidium hormiscii Corda SPECIES
 
 #### Status
 ACCEPTED

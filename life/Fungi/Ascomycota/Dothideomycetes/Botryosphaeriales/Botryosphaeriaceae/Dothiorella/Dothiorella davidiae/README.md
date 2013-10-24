@@ -1,5 +1,4 @@
-Dothiorella davidiae Zambett., Waliyar & Scannell SPECIES
-=======
+# Dothiorella davidiae Zambett., Waliyar & Scannell SPECIES
 
 #### Status
 ACCEPTED

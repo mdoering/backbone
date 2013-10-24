@@ -1,5 +1,4 @@
-Methanosarcina lacustris Simankova et al., 2002 SPECIES
-=======
+# Methanosarcina lacustris Simankova et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

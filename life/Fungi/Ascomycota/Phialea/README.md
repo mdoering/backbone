@@ -1,5 +1,4 @@
-Phialea (E.M. Fries) Gillet, 1879 GENUS
-=======
+# Phialea (E.M. Fries) Gillet, 1879 GENUS
 
 #### Status
 ACCEPTED

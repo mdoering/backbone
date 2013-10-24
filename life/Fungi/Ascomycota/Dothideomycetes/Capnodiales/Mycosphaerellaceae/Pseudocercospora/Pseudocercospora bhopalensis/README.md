@@ -1,5 +1,4 @@
-Pseudocercospora bhopalensis Deighton SPECIES
-=======
+# Pseudocercospora bhopalensis Deighton SPECIES
 
 #### Status
 ACCEPTED

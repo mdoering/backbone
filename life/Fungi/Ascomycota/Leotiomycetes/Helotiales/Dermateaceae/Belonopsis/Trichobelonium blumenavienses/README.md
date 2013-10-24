@@ -1,5 +1,4 @@
-Trichobelonium blumenavienses Henn. SPECIES
-=======
+# Trichobelonium blumenavienses Henn. SPECIES
 
 #### Status
 ACCEPTED

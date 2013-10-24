@@ -1,5 +1,4 @@
-Lecanora flageyana Müll. Arg. SPECIES
-=======
+# Lecanora flageyana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

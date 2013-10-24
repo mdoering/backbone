@@ -1,5 +1,4 @@
-Vaginicola regularis Fromentel, 1876 SPECIES
-=======
+# Vaginicola regularis Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

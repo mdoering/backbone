@@ -1,5 +1,4 @@
-Plagiocampa chaetophorae Kahl, 1930 SPECIES
-=======
+# Plagiocampa chaetophorae Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

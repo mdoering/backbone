@@ -1,17 +1,16 @@
-Parmelina spathulata (Kurok.) Hale SPECIES
-=======
+# Hypotrachyna spathulata (Kurok.) Krog & Swinscow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 19(4): 420 (1987)
 
 #### Original name
-null
+Parmelia spathulata Kurok.
 
 ### Remarks
 null

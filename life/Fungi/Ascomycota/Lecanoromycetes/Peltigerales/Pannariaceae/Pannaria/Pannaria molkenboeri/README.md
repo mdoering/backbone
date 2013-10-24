@@ -1,5 +1,4 @@
-Pannaria molkenboeri Mont. & Bosch SPECIES
-=======
+# Pannaria molkenboeri Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

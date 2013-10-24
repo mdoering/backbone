@@ -1,5 +1,4 @@
-Pseudographium hispidulum Jacz. SPECIES
-=======
+# Pseudographium hispidulum Jacz. SPECIES
 
 #### Status
 ACCEPTED

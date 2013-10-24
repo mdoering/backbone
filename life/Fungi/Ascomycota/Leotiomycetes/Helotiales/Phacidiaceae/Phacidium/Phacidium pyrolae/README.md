@@ -1,8 +1,7 @@
-Phacidium pirolae P. Karst. SPECIES
-=======
+# Phacidium pyrolae P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phacidium pirolae P. Karst.
+Phacidium pyrolae P. Karst.
 
 ### Remarks
 null

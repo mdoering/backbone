@@ -1,5 +1,4 @@
-Hygrocybe hypohaemacta var. hypohaemacta VARIETY
-=======
+# Hygrocybe hypohaemacta (Corner) Pegler SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Kew Bull. 32(2): 299 (1978)
 
 #### Original name
-Hygrocybe hypohaemacta var. hypohaemacta
+Hygrophorus hypohaemactus Corner
 
 ### Remarks
 null

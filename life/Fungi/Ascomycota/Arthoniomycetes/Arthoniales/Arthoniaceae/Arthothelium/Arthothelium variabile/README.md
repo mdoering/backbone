@@ -1,5 +1,4 @@
-Arthothelium variabile J. Steiner SPECIES
-=======
+# Arthothelium variabile J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea complecta Motyka SPECIES
-=======
+# Usnea complecta Motyka SPECIES
 
 #### Status
 ACCEPTED

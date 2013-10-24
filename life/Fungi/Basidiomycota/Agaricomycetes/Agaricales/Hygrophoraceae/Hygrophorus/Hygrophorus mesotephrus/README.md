@@ -1,5 +1,4 @@
-Hygrophorus mesotephrus Berk., 1854 SPECIES
-=======
+# Hygrophorus mesotephrus Berk., 1854 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Sphaerella primulaecola G. Winter SPECIES
-=======
+# Sphaerella primulicola G. Winter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella primulaecola G. Winter
+Sphaerella primulicola G. Winter
 
 ### Remarks
 null

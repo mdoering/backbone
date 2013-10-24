@@ -1,5 +1,4 @@
-Gomezina araguata Chardón & Toro SPECIES
-=======
+# Gomezina araguata Chardón & Toro SPECIES
 
 #### Status
 ACCEPTED

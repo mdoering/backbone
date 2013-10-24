@@ -1,5 +1,4 @@
-Phragmidium jonesii Dietel SPECIES
-=======
+# Phragmidium jonesii Dietel SPECIES
 
 #### Status
 ACCEPTED

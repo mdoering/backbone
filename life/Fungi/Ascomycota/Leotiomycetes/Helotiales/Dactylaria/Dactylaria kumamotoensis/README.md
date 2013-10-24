@@ -1,5 +1,4 @@
-Dactylaria kumamotoensis Matsush. SPECIES
-=======
+# Dactylaria kumamotoensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

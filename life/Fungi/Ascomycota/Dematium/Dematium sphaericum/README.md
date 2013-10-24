@@ -1,5 +1,4 @@
-Dematium sphaericum Pers. SPECIES
-=======
+# Dematium sphaericum Pers. SPECIES
 
 #### Status
 ACCEPTED

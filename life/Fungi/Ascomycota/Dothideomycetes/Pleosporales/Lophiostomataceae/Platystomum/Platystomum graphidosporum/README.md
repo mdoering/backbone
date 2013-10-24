@@ -1,5 +1,4 @@
-Platystomum graphidosporum (Anzi) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum graphidosporum (Anzi) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

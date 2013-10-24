@@ -1,5 +1,4 @@
-Catillaria croatica Zahlbr. SPECIES
-=======
+# Catillaria croatica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

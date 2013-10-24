@@ -1,5 +1,4 @@
-Garnia Lainson, Landau & Shaw, 1971 GENUS
-=======
+# Garnia Lainson, Landau & Shaw, 1971 GENUS
 
 #### Status
 ACCEPTED

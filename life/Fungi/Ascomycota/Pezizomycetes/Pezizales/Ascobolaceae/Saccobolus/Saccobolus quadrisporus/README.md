@@ -1,5 +1,4 @@
-Saccobolus quadrisporus Massee & E.S. Salmon, 1901 SPECIES
-=======
+# Saccobolus quadrisporus Massee & E.S. Salmon, 1901 SPECIES
 
 #### Status
 ACCEPTED

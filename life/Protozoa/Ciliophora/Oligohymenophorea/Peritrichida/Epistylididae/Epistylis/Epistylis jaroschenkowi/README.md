@@ -1,5 +1,4 @@
-Epistylis jaroschenkowi Shubernetzki, 1978 SPECIES
-=======
+# Epistylis jaroschenkowi Shubernetzki, 1978 SPECIES
 
 #### Status
 ACCEPTED

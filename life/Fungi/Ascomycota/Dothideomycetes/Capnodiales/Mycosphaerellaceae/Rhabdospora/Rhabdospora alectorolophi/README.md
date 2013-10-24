@@ -1,5 +1,4 @@
-Rhabdospora alectorolophi Gutner SPECIES
-=======
+# Rhabdospora alectorolophi Gutner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geophila cyanescens (Maire) Kühner & Romagn. SPECIES
-=======
+# Geophila cyanescens (Maire) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Appendichordella R.G. Johnson, E.B.G. Jones & S.T. Moss GENUS
-=======
+# Appendichordella R.G. Johnson, E.B.G. Jones & S.T. Moss GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dingleya geometrica Trappe, Castellano & Malajczuk SPECIES
-=======
+# Dingleya geometrica Trappe, Castellano & Malajczuk SPECIES
 
 #### Status
 ACCEPTED

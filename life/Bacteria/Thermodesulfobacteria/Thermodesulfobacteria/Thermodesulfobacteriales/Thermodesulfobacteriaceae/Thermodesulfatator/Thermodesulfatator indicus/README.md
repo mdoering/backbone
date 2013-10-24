@@ -1,5 +1,4 @@
-Thermodesulfatator indicus Moussard et al., 2004 SPECIES
-=======
+# Thermodesulfatator indicus Moussard et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

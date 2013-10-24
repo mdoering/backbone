@@ -1,5 +1,4 @@
-Dicaeoma boisduvaliae (Peck) Kuntze SPECIES
-=======
+# Dicaeoma boisduvaliae (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

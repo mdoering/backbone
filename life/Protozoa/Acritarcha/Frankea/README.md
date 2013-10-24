@@ -1,5 +1,4 @@
-Frankea G. Burmann, 1970 GENUS
-=======
+# Frankea G. Burmann, 1970 GENUS
 
 #### Status
 ACCEPTED

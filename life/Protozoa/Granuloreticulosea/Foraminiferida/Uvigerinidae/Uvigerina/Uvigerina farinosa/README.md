@@ -1,5 +1,4 @@
-Uvigerina farinosa Hantken SPECIES
-=======
+# Uvigerina farinosa Hantken SPECIES
 
 #### Status
 ACCEPTED

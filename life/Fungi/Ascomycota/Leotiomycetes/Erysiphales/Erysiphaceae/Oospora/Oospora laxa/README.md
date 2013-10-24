@@ -1,5 +1,4 @@
-Oospora laxa Wallr. SPECIES
-=======
+# Oospora laxa Wallr. SPECIES
 
 #### Status
 ACCEPTED

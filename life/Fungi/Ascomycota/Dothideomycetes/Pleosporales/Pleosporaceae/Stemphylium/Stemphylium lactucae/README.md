@@ -1,5 +1,4 @@
-Stemphylium lactucae X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Stemphylium lactucae X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

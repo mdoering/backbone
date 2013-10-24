@@ -1,5 +1,4 @@
-Artophaena Haeckel, 1881 GENUS
-=======
+# Artophaena Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium magnusii Ule SPECIES
-=======
+# Sorosporium magnusii Ule SPECIES
 
 #### Status
 ACCEPTED

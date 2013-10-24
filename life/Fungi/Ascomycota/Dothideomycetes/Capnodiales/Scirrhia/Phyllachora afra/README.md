@@ -1,5 +1,4 @@
-Phyllachora afra Syd., 1939 SPECIES
-=======
+# Phyllachora afra Syd., 1939 SPECIES
 
 #### Status
 DOUBTFUL

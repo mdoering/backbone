@@ -1,5 +1,4 @@
-Lamproconium (Grove) Grove, 1937 GENUS
-=======
+# Lamproconium (Grove) Grove, 1937 GENUS
 
 #### Status
 ACCEPTED

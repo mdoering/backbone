@@ -1,17 +1,16 @@
-Uromyces viegasi Alnicida {?} SPECIES
-=======
+# Uromyces viegasii Alnicida {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fitopatol. Brasil. 2(1): 55 (1977)
 
 #### Original name
-Uromyces viegasi Alnicida {?}
+Uromyces viegasii Alnicida {?}
 
 ### Remarks
 null

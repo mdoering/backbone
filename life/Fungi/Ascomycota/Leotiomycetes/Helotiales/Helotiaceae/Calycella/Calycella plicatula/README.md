@@ -1,5 +1,4 @@
-Calycella plicatula (Rehm) R. Heim SPECIES
-=======
+# Calycella plicatula (Rehm) R. Heim SPECIES
 
 #### Status
 ACCEPTED

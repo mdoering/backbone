@@ -1,5 +1,4 @@
-Pertusaria oshioi J.C. Wei SPECIES
-=======
+# Pertusaria oshioi J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Toxisarcon synsuicidica Cedhagen & Pawlowski, 2002 SPECIES
-=======
+# Toxisarcon synsuicidica Cedhagen & Pawlowski, 2002 SPECIES
 
 #### Status
 ACCEPTED

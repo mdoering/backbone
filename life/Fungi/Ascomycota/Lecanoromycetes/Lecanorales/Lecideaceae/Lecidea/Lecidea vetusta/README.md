@@ -1,5 +1,4 @@
-Lecidea vetusta SPECIES
-=======
+# Lecidea vetusta SPECIES
 
 #### Status
 ACCEPTED

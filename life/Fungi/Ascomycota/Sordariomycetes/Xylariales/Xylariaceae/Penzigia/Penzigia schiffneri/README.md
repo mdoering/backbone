@@ -1,5 +1,4 @@
-Penzigia schiffneri Höhn. SPECIES
-=======
+# Penzigia schiffneri Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium orientale Cooke SPECIES
-=======
+# Chaetomium orientale Cooke SPECIES
 
 #### Status
 ACCEPTED

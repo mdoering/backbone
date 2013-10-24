@@ -1,5 +1,4 @@
-Erythromada lanciospora Huhndorf, A.N. Mill., F.A. Fernández & Lodge, 2005 SPECIES
-=======
+# Erythromada lanciospora Huhndorf, A.N. Mill., F.A. Fernández & Lodge, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterolagynion oedogonii Pascher SPECIES
-=======
+# Heterolagynion oedogonii Pascher SPECIES
 
 #### Status
 ACCEPTED

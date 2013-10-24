@@ -1,5 +1,4 @@
-Arthropyxis Pascher, 1942 GENUS
-=======
+# Arthropyxis Pascher, 1942 GENUS
 
 #### Status
 ACCEPTED

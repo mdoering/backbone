@@ -1,5 +1,4 @@
-Melampsorella rigida Har. & Pat. SPECIES
-=======
+# Melampsorella rigida Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

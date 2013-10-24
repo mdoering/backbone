@@ -1,5 +1,4 @@
-Verticilliopsis Costantin GENUS
-=======
+# Verticilliopsis Costantin GENUS
 
 #### Status
 ACCEPTED

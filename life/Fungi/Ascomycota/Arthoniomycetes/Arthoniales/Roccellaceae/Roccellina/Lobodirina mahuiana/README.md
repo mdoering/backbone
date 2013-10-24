@@ -1,5 +1,4 @@
-Lobodirina mahuiana Follmann SPECIES
-=======
+# Lobodirina mahuiana Follmann SPECIES
 
 #### Status
 ACCEPTED

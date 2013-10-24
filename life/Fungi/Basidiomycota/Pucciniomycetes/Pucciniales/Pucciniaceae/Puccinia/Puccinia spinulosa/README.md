@@ -1,5 +1,4 @@
-Puccinia spinulosa Jørst. SPECIES
-=======
+# Puccinia spinulosa Jørst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trimmatostroma eriodictyonis (Dearn. & Barthol.) M.B. Ellis SPECIES
-=======
+# Trimmatostroma eriodictyonis (Dearn. & Barthol.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

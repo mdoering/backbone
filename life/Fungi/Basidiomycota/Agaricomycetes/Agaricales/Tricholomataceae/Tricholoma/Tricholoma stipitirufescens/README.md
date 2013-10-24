@@ -1,5 +1,4 @@
-Tricholoma stipitirufescens Corner SPECIES
-=======
+# Tricholoma stipitirufescens Corner SPECIES
 
 #### Status
 ACCEPTED

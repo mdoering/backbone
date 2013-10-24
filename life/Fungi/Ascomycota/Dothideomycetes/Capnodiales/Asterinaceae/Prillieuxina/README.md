@@ -1,5 +1,4 @@
-Prillieuxina G. Arnaud GENUS
-=======
+# Prillieuxina G. Arnaud GENUS
 
 #### Status
 ACCEPTED

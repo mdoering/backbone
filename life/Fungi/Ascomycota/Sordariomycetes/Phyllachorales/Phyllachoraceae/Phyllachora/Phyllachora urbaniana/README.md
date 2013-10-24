@@ -1,5 +1,4 @@
-Phyllachora urbaniana var. urbaniana VARIETY
-=======
+# Phyllachora urbaniana SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 36: 236 (1897)
+null
 
 #### Original name
-Phyllachora urbaniana var. urbaniana
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Calonectria dolichospora Sacc. & Trotter SPECIES
-=======
+# Calonectria dolichospora Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

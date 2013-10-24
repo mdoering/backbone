@@ -1,5 +1,4 @@
-Agaricus lepiotoides Speg. SPECIES
-=======
+# Agaricus lepiotoides Speg. SPECIES
 
 #### Status
 ACCEPTED

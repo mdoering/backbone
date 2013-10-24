@@ -1,5 +1,4 @@
-Thelenella wellingtonii (Stirt.) Stirt. SPECIES
-=======
+# Thelenella wellingtonii (Stirt.) Stirt. SPECIES
 
 #### Status
 ACCEPTED

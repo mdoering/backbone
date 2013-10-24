@@ -1,5 +1,4 @@
-Cordyceps opposita Syd. SPECIES
-=======
+# Cordyceps opposita Syd. SPECIES
 
 #### Status
 ACCEPTED

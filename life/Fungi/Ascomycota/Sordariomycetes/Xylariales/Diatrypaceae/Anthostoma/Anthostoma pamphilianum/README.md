@@ -1,5 +1,4 @@
-Anthostoma pamphilianum Sacc. & Cub. SPECIES
-=======
+# Anthostoma pamphilianum Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius decipientoides Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius decipientoides Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

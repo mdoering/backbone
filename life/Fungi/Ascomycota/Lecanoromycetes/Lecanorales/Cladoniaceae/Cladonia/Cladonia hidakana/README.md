@@ -1,5 +1,4 @@
-Cladonia hidakana Kurok. SPECIES
-=======
+# Cladonia hidakana Kurok. SPECIES
 
 #### Status
 ACCEPTED

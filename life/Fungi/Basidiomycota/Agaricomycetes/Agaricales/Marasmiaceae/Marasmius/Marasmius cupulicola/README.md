@@ -1,5 +1,4 @@
-Marasmius cupulicola Métrod SPECIES
-=======
+# Marasmius cupulicola Métrod SPECIES
 
 #### Status
 ACCEPTED

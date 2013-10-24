@@ -1,5 +1,4 @@
-Campylodinium GENUS
-=======
+# Campylodinium GENUS
 
 #### Status
 ACCEPTED

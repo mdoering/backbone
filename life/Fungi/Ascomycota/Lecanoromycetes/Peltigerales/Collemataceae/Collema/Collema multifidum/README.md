@@ -1,5 +1,4 @@
-Collema multifidum f. multifidum FORM
-=======
+# Collema multifidum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Collema multifidum f. multifidum
+null
 
 ### Remarks
 null

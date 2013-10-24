@@ -1,5 +1,4 @@
-Ceramothyrium jambosae Bat. & Peres SPECIES
-=======
+# Ceramothyrium jambosae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

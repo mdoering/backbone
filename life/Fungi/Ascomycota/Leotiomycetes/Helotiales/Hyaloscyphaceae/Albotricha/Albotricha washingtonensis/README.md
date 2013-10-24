@@ -1,5 +1,4 @@
-Albotricha washingtonensis (Dennis) Raitv. SPECIES
-=======
+# Albotricha washingtonensis (Dennis) Raitv. SPECIES
 
 #### Status
 ACCEPTED

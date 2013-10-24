@@ -1,5 +1,4 @@
-Sporotrichum cinereum Preuss SPECIES
-=======
+# Sporotrichum cinereum Preuss SPECIES
 
 #### Status
 ACCEPTED

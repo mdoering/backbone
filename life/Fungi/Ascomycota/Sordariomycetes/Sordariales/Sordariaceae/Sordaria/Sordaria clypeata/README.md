@@ -1,5 +1,4 @@
-Sordaria clypeata De Not. SPECIES
-=======
+# Sordaria clypeata De Not. SPECIES
 
 #### Status
 ACCEPTED

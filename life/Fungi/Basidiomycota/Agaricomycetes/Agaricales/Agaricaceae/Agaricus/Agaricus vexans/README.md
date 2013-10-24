@@ -1,5 +1,4 @@
-Agaricus vexans var. vexans VARIETY
-=======
+# Agaricus vexans Schulzer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Verh. zool. -bot. Ges. Wein 30: 490 (1881)
 
 #### Original name
-Agaricus vexans var. vexans
+Agaricus vexans Schulzer
 
 ### Remarks
 null

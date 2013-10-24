@@ -1,5 +1,4 @@
-Legenophrys GENUS
-=======
+# Legenophrys GENUS
 
 #### Status
 ACCEPTED

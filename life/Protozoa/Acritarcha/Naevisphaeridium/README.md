@@ -1,5 +1,4 @@
-Naevisphaeridium E.R. Wicander, 1974 GENUS
-=======
+# Naevisphaeridium E.R. Wicander, 1974 GENUS
 
 #### Status
 ACCEPTED

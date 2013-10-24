@@ -1,5 +1,4 @@
-Phoma vincentiana Speg. SPECIES
-=======
+# Phoma vincentiana Speg. SPECIES
 
 #### Status
 ACCEPTED

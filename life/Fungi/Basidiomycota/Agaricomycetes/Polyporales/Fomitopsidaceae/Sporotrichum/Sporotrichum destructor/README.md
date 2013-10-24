@@ -1,5 +1,4 @@
-Sporotrichum destructor Pittman {?} SPECIES
-=======
+# Sporotrichum destructor Pittman {?} SPECIES
 
 #### Status
 ACCEPTED

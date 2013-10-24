@@ -1,5 +1,4 @@
-Uredo setariae-italicae Dietel SPECIES
-=======
+# Uredo setariae-italicae Dietel SPECIES
 
 #### Status
 ACCEPTED

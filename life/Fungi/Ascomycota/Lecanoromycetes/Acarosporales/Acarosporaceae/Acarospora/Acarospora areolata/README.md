@@ -1,5 +1,4 @@
-Acarospora areolata Reichert & Galun SPECIES
-=======
+# Acarospora areolata Reichert & Galun SPECIES
 
 #### Status
 ACCEPTED

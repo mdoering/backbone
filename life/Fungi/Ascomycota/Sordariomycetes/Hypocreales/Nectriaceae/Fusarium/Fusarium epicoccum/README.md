@@ -1,5 +1,4 @@
-Fusarium epicoccum McAlpine SPECIES
-=======
+# Fusarium epicoccum McAlpine SPECIES
 
 #### Status
 ACCEPTED

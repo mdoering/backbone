@@ -1,5 +1,4 @@
-Peltula kofleri Henssen & Büdel SPECIES
-=======
+# Peltula kofleri Henssen & Büdel SPECIES
 
 #### Status
 ACCEPTED

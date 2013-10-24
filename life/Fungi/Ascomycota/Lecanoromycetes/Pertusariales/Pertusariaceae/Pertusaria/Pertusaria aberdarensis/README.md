@@ -1,5 +1,4 @@
-Pertusaria aberdarensis C.W. Dodge SPECIES
-=======
+# Pertusaria aberdarensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

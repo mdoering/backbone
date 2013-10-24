@@ -1,5 +1,4 @@
-Cortinarius glaucopoides Kauffman SPECIES
-=======
+# Cortinarius glaucopoides Kauffman SPECIES
 
 #### Status
 ACCEPTED

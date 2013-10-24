@@ -1,5 +1,4 @@
-Ophiobolus linosporoides Speg. SPECIES
-=======
+# Ophiobolus linosporoides Speg. SPECIES
 
 #### Status
 ACCEPTED

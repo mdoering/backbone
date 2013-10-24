@@ -1,5 +1,4 @@
-Actinonema crataegi Pers. SPECIES
-=======
+# Actinonema crataegi Pers. SPECIES
 
 #### Status
 ACCEPTED

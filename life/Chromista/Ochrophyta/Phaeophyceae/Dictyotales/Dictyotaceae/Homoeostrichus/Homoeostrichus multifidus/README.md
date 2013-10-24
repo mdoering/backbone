@@ -1,5 +1,4 @@
-Homoeostrichus multifidus (J. Agardh) J. Agardh SPECIES
-=======
+# Homoeostrichus multifidus (J. Agardh) J. Agardh SPECIES
 
 #### Status
 ACCEPTED

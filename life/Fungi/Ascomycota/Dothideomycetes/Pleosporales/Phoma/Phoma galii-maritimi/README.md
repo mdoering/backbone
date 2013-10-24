@@ -1,5 +1,4 @@
-Phoma galii-maritimi Gonz. Frag. SPECIES
-=======
+# Phoma galii-maritimi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

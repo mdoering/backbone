@@ -1,5 +1,4 @@
-Bullera intermedia Nakase & M. Suzuki SPECIES
-=======
+# Bullera intermedia Nakase & M. Suzuki SPECIES
 
 #### Status
 ACCEPTED

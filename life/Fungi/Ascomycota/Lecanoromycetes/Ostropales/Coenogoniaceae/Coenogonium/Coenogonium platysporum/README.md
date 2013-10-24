@@ -1,5 +1,4 @@
-Coenogonium platysporum Kalb SPECIES
-=======
+# Coenogonium platysporum Kalb SPECIES
 
 #### Status
 ACCEPTED

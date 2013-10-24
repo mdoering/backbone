@@ -1,5 +1,4 @@
-Lecanorella adunata Motyka SPECIES
-=======
+# Lecanorella adunata Motyka SPECIES
 
 #### Status
 ACCEPTED

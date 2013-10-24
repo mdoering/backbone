@@ -1,5 +1,4 @@
-Sporocybe compacta Petch SPECIES
-=======
+# Sporocybe compacta Petch SPECIES
 
 #### Status
 ACCEPTED

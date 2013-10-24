@@ -1,5 +1,4 @@
-Buellia flavoareolata (Nyl.) Müll. Arg. SPECIES
-=======
+# Buellia flavoareolata (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

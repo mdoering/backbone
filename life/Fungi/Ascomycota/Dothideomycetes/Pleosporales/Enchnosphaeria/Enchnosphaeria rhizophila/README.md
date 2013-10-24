@@ -1,5 +1,4 @@
-Enchnosphaeria rhizophila Speg. SPECIES
-=======
+# Enchnosphaeria rhizophila Speg. SPECIES
 
 #### Status
 ACCEPTED

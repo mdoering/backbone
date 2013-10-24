@@ -1,5 +1,4 @@
-Alicycliphilus Mechichi, Stackebrandt & Fuchs GENUS
-=======
+# Alicycliphilus Mechichi, Stackebrandt & Fuchs GENUS
 
 #### Status
 ACCEPTED

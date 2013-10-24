@@ -1,5 +1,4 @@
-Cercospora clerodendri J. Miyake SPECIES
-=======
+# Cercospora clerodendri J. Miyake SPECIES
 
 #### Status
 ACCEPTED

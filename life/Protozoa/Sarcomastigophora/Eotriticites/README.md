@@ -1,5 +1,4 @@
-Eotriticites Da & Wang, 1983 GENUS
-=======
+# Eotriticites Da & Wang, 1983 GENUS
 
 #### Status
 ACCEPTED

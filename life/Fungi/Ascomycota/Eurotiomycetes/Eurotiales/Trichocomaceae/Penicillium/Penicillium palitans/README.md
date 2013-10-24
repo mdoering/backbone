@@ -1,17 +1,16 @@
-Penicillium palitans var. palitans Westling VARIETY
-=======
+# Penicillium palitans Westling, 1911 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Arch. für Botanik 11: 83 (1911)
 
 #### Original name
-Penicillium palitans var. palitans Westling
+Penicillium palitans Westling, 1911
 
 ### Remarks
 null

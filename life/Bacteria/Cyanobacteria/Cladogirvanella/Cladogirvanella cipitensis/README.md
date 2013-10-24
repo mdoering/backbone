@@ -1,5 +1,4 @@
-Cladogirvanella cipitensis E. Ott SPECIES
-=======
+# Cladogirvanella cipitensis E. Ott SPECIES
 
 #### Status
 ACCEPTED

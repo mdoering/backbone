@@ -1,5 +1,4 @@
-Bacidia saxicola Looman SPECIES
-=======
+# Bacidia saxicola Looman SPECIES
 
 #### Status
 ACCEPTED

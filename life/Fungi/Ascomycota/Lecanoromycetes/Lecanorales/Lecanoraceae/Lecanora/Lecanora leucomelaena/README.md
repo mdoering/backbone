@@ -1,5 +1,4 @@
-Lecanora leucomelaena Hue SPECIES
-=======
+# Lecanora leucomelaena Hue SPECIES
 
 #### Status
 ACCEPTED

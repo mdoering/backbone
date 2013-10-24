@@ -1,5 +1,4 @@
-Gloeosporium zamiae Gutner SPECIES
-=======
+# Gloeosporium zamiae Gutner SPECIES
 
 #### Status
 ACCEPTED

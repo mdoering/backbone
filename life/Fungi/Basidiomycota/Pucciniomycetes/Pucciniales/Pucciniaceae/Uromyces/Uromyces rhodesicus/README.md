@@ -1,5 +1,4 @@
-Uromyces rhodesicus Wakef. SPECIES
-=======
+# Uromyces rhodesicus Wakef. SPECIES
 
 #### Status
 ACCEPTED

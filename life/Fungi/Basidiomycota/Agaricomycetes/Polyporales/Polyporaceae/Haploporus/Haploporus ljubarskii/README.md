@@ -1,5 +1,4 @@
-Haploporus ljubarskii f. ljubarskii FORM
-=======
+# Haploporus ljubarskii SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-The Bracket Fungi of the European Part of the U. S. S. R. and the Caucasus 523 (1953)
+null
 
 #### Original name
-Haploporus ljubarskii f. ljubarskii
+null
 
 ### Remarks
 null

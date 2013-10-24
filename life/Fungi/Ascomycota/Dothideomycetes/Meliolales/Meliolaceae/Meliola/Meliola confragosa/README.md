@@ -1,5 +1,4 @@
-Meliola confragosa Syd. & P. Syd. SPECIES
-=======
+# Meliola confragosa Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

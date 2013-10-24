@@ -1,5 +1,4 @@
-Dothidella portoricensis F. Stevens SPECIES
-=======
+# Dothidella portoricensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

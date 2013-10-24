@@ -1,5 +1,4 @@
-Dirinaria naggarana (Kremp.) D.D. Awasthi SPECIES
-=======
+# Dirinaria naggarana (Kremp.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

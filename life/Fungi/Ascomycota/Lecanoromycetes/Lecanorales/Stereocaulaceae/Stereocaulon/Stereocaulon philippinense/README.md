@@ -1,5 +1,4 @@
-Stereocaulon philippinense Räsänen SPECIES
-=======
+# Stereocaulon philippinense Räsänen SPECIES
 
 #### Status
 ACCEPTED

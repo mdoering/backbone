@@ -1,5 +1,4 @@
-Rosellinia petriniae A. Pande & V.G. Rao SPECIES
-=======
+# Rosellinia petriniae A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

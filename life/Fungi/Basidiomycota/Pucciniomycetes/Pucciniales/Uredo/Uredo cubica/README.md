@@ -1,5 +1,4 @@
-Uredo cubica F. Strauss SPECIES
-=======
+# Uredo cubica F. Strauss SPECIES
 
 #### Status
 ACCEPTED

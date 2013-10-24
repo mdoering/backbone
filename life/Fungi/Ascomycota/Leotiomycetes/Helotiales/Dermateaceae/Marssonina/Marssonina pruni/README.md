@@ -1,5 +1,4 @@
-Marssonina pruni Vassiljevsky SPECIES
-=======
+# Marssonina pruni Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parapyricularia M.B. Ellis GENUS
-=======
+# Parapyricularia M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

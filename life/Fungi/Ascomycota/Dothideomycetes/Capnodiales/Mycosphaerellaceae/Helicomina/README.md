@@ -1,5 +1,4 @@
-Helicomina GENUS
-=======
+# Helicomina GENUS
 
 #### Status
 ACCEPTED

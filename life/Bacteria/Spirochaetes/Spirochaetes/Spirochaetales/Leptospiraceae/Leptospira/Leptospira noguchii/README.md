@@ -1,5 +1,4 @@
-Leptospira noguchii Yasuda et al., 1987 SPECIES
-=======
+# Leptospira noguchii Yasuda et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

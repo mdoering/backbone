@@ -1,17 +1,16 @@
-Macrophoma artabotrycola Subhedar & V.G. Rao SPECIES
-=======
+# Macrophoma artabotrydicola Subhedar & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the University of Poona 52: 318 (1979)
 
 #### Original name
-Macrophoma artabotrycola Subhedar & V.G. Rao
+Macrophoma artabotrydicola Subhedar & V.G. Rao
 
 ### Remarks
 null

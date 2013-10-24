@@ -1,17 +1,16 @@
-Mucronia Fr. GENUS
-=======
+# Mucronella E.M. Fries, 1874 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 329 (1849)
+Hymenomyc. eur. (Upsaliae) 629 (1874)
 
 #### Original name
-Mucronia Fr.
+Mucronella E.M. Fries, 1874
 
 ### Remarks
 null

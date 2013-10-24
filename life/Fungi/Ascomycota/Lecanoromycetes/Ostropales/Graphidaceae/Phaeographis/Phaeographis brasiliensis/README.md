@@ -1,14 +1,13 @@
-Creographa brasiliensis A. Massal. SPECIES
-=======
+# Phaeographis brasiliensis (A. Massal.) Kalb & Matthes-Leicht SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 322 (1860)
+Biblthca Lichenol. 78: 148 (2001)
 
 #### Original name
 Creographa brasiliensis A. Massal.

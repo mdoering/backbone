@@ -1,5 +1,4 @@
-Lecidea vagans Müll. Arg. SPECIES
-=======
+# Lecidea vagans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

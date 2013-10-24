@@ -1,5 +1,4 @@
-Tolyposporidium chloridis (Henn.) Thirum. & Neerg. SPECIES
-=======
+# Tolyposporidium chloridis (Henn.) Thirum. & Neerg. SPECIES
 
 #### Status
 ACCEPTED

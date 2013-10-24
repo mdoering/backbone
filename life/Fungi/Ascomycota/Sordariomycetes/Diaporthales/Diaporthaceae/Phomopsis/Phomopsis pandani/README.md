@@ -1,5 +1,4 @@
-Phomopsis pandani Died. SPECIES
-=======
+# Phomopsis pandani Died. SPECIES
 
 #### Status
 ACCEPTED

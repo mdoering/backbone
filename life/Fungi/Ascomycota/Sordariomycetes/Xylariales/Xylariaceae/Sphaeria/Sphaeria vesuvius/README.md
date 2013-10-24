@@ -1,5 +1,4 @@
-Sphaeria vesuvius Berk. & Broome SPECIES
-=======
+# Sphaeria vesuvius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

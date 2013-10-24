@@ -1,5 +1,4 @@
-Dangeardia ovata R.A. Paterson SPECIES
-=======
+# Dangeardia ovata R.A. Paterson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus crystallinus Kwon-Chung & Fennell, 1965 SPECIES
-=======
+# Aspergillus crystallinus Kwon-Chung & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

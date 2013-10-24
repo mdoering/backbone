@@ -1,11 +1,10 @@
-Parahistioneis conica Böhm, 1931 in Schiller, 1933 SPECIES
-=======
+# Histioneis para Murray & Whitting, 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

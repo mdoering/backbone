@@ -1,5 +1,4 @@
-Melanospora lucifuga (Jungh.) Sacc. SPECIES
-=======
+# Melanospora lucifuga (Jungh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nolanea obscurata Largent SPECIES
-=======
+# Nolanea obscurata Largent SPECIES
 
 #### Status
 ACCEPTED

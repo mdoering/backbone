@@ -1,5 +1,4 @@
-Dileptus anatinus Golinska, 1971 SPECIES
-=======
+# Dileptus anatinus Golinska, 1971 SPECIES
 
 #### Status
 ACCEPTED

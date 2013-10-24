@@ -1,5 +1,4 @@
-Gliocladium flavum J.F.H. Beyma, 1928 SPECIES
-=======
+# Gliocladium flavum J.F.H. Beyma, 1928 SPECIES
 
 #### Status
 ACCEPTED

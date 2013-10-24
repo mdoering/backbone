@@ -1,5 +1,4 @@
-Polystratorictus Matsush. GENUS
-=======
+# Polystratorictus Matsush. GENUS
 
 #### Status
 ACCEPTED

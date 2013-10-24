@@ -1,5 +1,4 @@
-Schizosaccharomyces acidodevoratus Tschalenko {?} SPECIES
-=======
+# Schizosaccharomyces acidodevoratus Tschalenko {?} SPECIES
 
 #### Status
 ACCEPTED

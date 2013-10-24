@@ -1,11 +1,10 @@
-Campylobacter bubulus (Florent, 1953) Sebald & Véron, 1963 SPECIES
-=======
+# Campylobacter sputorum (Prévot, 1940) Véron & Chatelain, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

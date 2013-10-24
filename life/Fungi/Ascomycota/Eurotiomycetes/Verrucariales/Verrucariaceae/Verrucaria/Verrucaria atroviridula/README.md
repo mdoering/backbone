@@ -1,5 +1,4 @@
-Verrucaria atroviridula Zschacke SPECIES
-=======
+# Verrucaria atroviridula Zschacke SPECIES
 
 #### Status
 ACCEPTED

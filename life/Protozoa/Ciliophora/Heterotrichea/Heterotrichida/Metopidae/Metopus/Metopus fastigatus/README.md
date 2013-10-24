@@ -1,5 +1,4 @@
-Metopus fastigatus Kahl, 1927 SPECIES
-=======
+# Metopus fastigatus Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megasporoporia Ryvarden & J.E. Wright GENUS
-=======
+# Megasporoporia Ryvarden & J.E. Wright GENUS
 
 #### Status
 ACCEPTED

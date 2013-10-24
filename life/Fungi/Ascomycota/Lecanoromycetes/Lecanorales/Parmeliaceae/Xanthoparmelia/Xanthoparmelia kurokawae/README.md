@@ -1,5 +1,4 @@
-Xanthoparmelia kurokawae (Hale) Hale SPECIES
-=======
+# Xanthoparmelia kurokawae (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

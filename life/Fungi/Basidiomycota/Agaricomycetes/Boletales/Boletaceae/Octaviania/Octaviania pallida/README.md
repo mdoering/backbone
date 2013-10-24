@@ -1,5 +1,4 @@
-Octaviania pallida (Lloyd) Lloyd SPECIES
-=======
+# Octaviania pallida (Lloyd) Lloyd SPECIES
 
 #### Status
 ACCEPTED

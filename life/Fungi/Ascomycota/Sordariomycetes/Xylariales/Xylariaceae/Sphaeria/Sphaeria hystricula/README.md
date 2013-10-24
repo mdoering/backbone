@@ -1,5 +1,4 @@
-Sphaeria hystricula Berk. & Broome SPECIES
-=======
+# Sphaeria hystricula Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia thyrsodes (Stirt.) Zahlbr. SPECIES
-=======
+# Bacidia thyrsodes (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

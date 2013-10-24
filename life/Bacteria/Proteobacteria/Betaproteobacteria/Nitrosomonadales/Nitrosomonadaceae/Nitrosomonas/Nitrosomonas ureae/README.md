@@ -1,5 +1,4 @@
-Nitrosomonas ureae Koops et al., 2001 SPECIES
-=======
+# Nitrosomonas ureae Koops et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

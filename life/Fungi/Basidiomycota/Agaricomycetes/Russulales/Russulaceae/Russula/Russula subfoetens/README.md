@@ -1,17 +1,16 @@
-Russula subfoetens var. subfoetens VARIETY
-=======
+# Russula subfoetens Wm. G. Sm., 1873 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 337 (1873)
+J. Bot. , London 11: 337 (1873)
 
 #### Original name
-Russula subfoetens var. subfoetens
+Russula subfoetens Wm. G. Sm., 1873
 
 ### Remarks
 null

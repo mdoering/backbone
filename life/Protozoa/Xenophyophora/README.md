@@ -1,5 +1,4 @@
-Xenophyophora PHYLUM
-=======
+# Xenophyophora PHYLUM
 
 #### Status
 ACCEPTED

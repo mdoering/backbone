@@ -1,5 +1,4 @@
-Ramalina roesleri (Hochst. ex Schaer.) Hue SPECIES
-=======
+# Ramalina roesleri (Hochst. ex Schaer.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypotrichidium labiatum SPECIES
-=======
+# Hypotrichidium labiatum SPECIES
 
 #### Status
 ACCEPTED

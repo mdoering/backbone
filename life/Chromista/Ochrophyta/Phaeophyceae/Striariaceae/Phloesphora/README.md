@@ -1,5 +1,4 @@
-Phloesphora GENUS
-=======
+# Phloesphora GENUS
 
 #### Status
 ACCEPTED

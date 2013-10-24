@@ -1,5 +1,4 @@
-Cortinarius albofragrans Ammirati & M.M. Moser SPECIES
-=======
+# Cortinarius albofragrans Ammirati & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

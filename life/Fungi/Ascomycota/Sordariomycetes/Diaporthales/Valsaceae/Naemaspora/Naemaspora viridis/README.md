@@ -1,5 +1,4 @@
-Naemaspora viridis Berk. & M.A. Curtis SPECIES
-=======
+# Naemaspora viridis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

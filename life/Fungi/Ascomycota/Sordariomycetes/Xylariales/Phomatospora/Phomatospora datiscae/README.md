@@ -1,5 +1,4 @@
-Phomatospora datiscae Harkn. SPECIES
-=======
+# Phomatospora datiscae Harkn. SPECIES
 
 #### Status
 ACCEPTED

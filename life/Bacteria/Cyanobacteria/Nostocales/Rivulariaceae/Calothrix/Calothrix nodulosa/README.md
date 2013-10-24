@@ -1,5 +1,4 @@
-Calothrix nodulosa Setchell & N.L. Gardner SPECIES
-=======
+# Calothrix nodulosa Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

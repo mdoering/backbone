@@ -1,5 +1,4 @@
-Athelia citrina Pers. SPECIES
-=======
+# Athelia citrina Pers. SPECIES
 
 #### Status
 ACCEPTED

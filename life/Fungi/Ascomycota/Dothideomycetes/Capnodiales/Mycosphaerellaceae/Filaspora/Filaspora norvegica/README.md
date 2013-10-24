@@ -1,5 +1,4 @@
-Filaspora norvegica (Fautrey) Kuntze SPECIES
-=======
+# Filaspora norvegica (Fautrey) Kuntze SPECIES
 
 #### Status
 ACCEPTED

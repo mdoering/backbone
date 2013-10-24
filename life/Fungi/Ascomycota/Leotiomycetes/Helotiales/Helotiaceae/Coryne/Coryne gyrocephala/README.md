@@ -1,5 +1,4 @@
-Coryne gyrocephala Berk. & M.A. Curtis SPECIES
-=======
+# Coryne gyrocephala Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

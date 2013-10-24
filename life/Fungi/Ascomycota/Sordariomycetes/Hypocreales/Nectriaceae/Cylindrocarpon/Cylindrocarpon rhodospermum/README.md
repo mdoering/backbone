@@ -1,5 +1,4 @@
-Cylindrocarpon rhodospermum (Corda) Rudakov SPECIES
-=======
+# Cylindrocarpon rhodospermum (Corda) Rudakov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Charentia Neumann, 1965 GENUS
-=======
+# Charentia Neumann, 1965 GENUS
 
 #### Status
 ACCEPTED

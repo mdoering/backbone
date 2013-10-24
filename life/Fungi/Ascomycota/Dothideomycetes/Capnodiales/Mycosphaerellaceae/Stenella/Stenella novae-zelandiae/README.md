@@ -1,5 +1,4 @@
-Stenella novae-zelandiae Matsush., 1985 SPECIES
-=======
+# Stenella novae-zelandiae Matsush., 1985 SPECIES
 
 #### Status
 ACCEPTED

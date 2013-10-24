@@ -1,8 +1,7 @@
-Keronopsis arenicola Dragesco, 1963 SPECIES
-=======
+# Biholosticha arenicola (Dragesco, 1963) Berger, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Uredo erythrinae-ovalifoliae Petch SPECIES
-=======
+# Uredo erythrinae-ovalifoliae Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha rufidula Fée SPECIES
-=======
+# Opegrapha rufidula Fée SPECIES
 
 #### Status
 ACCEPTED

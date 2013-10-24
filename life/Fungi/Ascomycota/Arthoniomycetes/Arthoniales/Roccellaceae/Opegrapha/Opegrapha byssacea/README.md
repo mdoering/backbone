@@ -1,5 +1,4 @@
-Opegrapha byssacea (Weigel) M. Choisy SPECIES
-=======
+# Opegrapha byssacea (Weigel) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

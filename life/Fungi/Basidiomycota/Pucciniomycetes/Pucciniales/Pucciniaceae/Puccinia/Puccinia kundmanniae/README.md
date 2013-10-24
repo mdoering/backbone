@@ -1,5 +1,4 @@
-Puccinia kundmanniae Lindr. SPECIES
-=======
+# Puccinia kundmanniae Lindr. SPECIES
 
 #### Status
 ACCEPTED

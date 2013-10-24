@@ -1,5 +1,4 @@
-Blepharosphaera Bundle, 1895 GENUS
-=======
+# Blepharosphaera Bundle, 1895 GENUS
 
 #### Status
 ACCEPTED

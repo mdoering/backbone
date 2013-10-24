@@ -1,5 +1,4 @@
-Sphaerodothis tetracerae Bat., Maia & C.T. Vasconc., 1960 SPECIES
-=======
+# Sphaerodothis tetracerae Bat., Maia & C.T. Vasconc., 1960 SPECIES
 
 #### Status
 ACCEPTED

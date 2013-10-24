@@ -1,5 +1,4 @@
-Didymella autumnalis Petr. SPECIES
-=======
+# Didymella autumnalis Petr. SPECIES
 
 #### Status
 ACCEPTED

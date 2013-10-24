@@ -1,5 +1,4 @@
-Nosema spodopterae SPECIES
-=======
+# Nosema spodopterae SPECIES
 
 #### Status
 ACCEPTED

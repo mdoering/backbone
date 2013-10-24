@@ -1,5 +1,4 @@
-Pleospora echinophorae Kuhnh.-Lord. & J.P. Barry SPECIES
-=======
+# Pleospora echinophorae Kuhnh.-Lord. & J.P. Barry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo mauriae Syd. & P. Syd. SPECIES
-=======
+# Uredo mauriae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

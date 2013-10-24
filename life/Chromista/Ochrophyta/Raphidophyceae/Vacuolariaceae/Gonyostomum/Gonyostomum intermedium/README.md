@@ -1,5 +1,4 @@
-Gonyostomum intermedium Skuja SPECIES
-=======
+# Gonyostomum intermedium Skuja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria candelaria (Weber ex F.H. Wigg.) Hook. SPECIES
-=======
+# Squamaria candelaria (Weber ex F.H. Wigg.) Hook. SPECIES
 
 #### Status
 ACCEPTED

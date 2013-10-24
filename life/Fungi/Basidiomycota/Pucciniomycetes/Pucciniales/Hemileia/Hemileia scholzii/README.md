@@ -1,5 +1,4 @@
-Hemileia scholzii Syd. SPECIES
-=======
+# Hemileia scholzii Syd. SPECIES
 
 #### Status
 ACCEPTED

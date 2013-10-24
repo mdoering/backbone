@@ -1,17 +1,16 @@
-Buellia scabrosa var. scabrosa VARIETY
-=======
+# Epilichen scabrosus (Ach.) Clem. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gen. fung. (Minneapolis) (1909)
 
 #### Original name
-Buellia scabrosa var. scabrosa
+Lecidea scabrosa Ach.
 
 ### Remarks
 null

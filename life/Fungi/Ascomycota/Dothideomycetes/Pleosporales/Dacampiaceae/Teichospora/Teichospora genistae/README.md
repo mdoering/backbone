@@ -1,5 +1,4 @@
-Teichospora genistae Politis SPECIES
-=======
+# Teichospora genistae Politis SPECIES
 
 #### Status
 ACCEPTED

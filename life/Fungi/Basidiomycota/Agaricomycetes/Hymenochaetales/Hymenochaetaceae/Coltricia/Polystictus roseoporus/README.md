@@ -1,5 +1,4 @@
-Polystictus roseoporus Lloyd SPECIES
-=======
+# Polystictus roseoporus Lloyd SPECIES
 
 #### Status
 ACCEPTED

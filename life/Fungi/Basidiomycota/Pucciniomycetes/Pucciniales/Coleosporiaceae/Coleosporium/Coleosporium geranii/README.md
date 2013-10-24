@@ -1,5 +1,4 @@
-Coleosporium geranii Pat. SPECIES
-=======
+# Coleosporium geranii Pat. SPECIES
 
 #### Status
 ACCEPTED

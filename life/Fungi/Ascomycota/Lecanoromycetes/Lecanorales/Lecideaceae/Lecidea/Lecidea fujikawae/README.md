@@ -1,5 +1,4 @@
-Lecidea fujikawae M. Satô SPECIES
-=======
+# Lecidea fujikawae M. Satô SPECIES
 
 #### Status
 ACCEPTED

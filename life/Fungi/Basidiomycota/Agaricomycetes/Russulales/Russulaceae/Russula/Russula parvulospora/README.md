@@ -1,5 +1,4 @@
-Russula parvulospora Buyck SPECIES
-=======
+# Russula parvulospora Buyck SPECIES
 
 #### Status
 ACCEPTED

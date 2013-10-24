@@ -1,5 +1,4 @@
-Mesogloia mediterranea J. Agardh SPECIES
-=======
+# Mesogloia mediterranea J. Agardh SPECIES
 
 #### Status
 ACCEPTED

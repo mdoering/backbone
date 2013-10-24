@@ -1,5 +1,4 @@
-Glonium finkii (Petr.) M.L. Lohman SPECIES
-=======
+# Glonium finkii (Petr.) M.L. Lohman SPECIES
 
 #### Status
 ACCEPTED

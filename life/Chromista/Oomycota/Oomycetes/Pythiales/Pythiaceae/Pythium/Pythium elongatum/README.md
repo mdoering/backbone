@@ -1,5 +1,4 @@
-Pythium elongatum V.D. Matthews SPECIES
-=======
+# Pythium elongatum V.D. Matthews SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus pallidus Homola SPECIES
-=======
+# Pluteus pallidus Homola SPECIES
 
 #### Status
 ACCEPTED

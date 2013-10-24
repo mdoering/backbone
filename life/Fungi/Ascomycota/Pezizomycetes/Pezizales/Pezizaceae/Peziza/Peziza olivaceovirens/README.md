@@ -1,5 +1,4 @@
-Peziza olivaceovirens Schwein. SPECIES
-=======
+# Peziza olivaceovirens Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria diceras Pers. ex Lév. SPECIES
-=======
+# Sphaeria diceras Pers. ex Lév. SPECIES
 
 #### Status
 ACCEPTED

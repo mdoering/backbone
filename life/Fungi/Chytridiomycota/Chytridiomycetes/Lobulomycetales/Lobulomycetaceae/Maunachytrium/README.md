@@ -1,5 +1,4 @@
-Maunachytrium D.R. Simmons GENUS
-=======
+# Maunachytrium D.R. Simmons GENUS
 
 #### Status
 ACCEPTED

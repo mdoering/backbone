@@ -1,5 +1,4 @@
-Monomorphina Mereschkowsky, 1877 GENUS
-=======
+# Monomorphina Mereschkowsky, 1877 GENUS
 
 #### Status
 ACCEPTED

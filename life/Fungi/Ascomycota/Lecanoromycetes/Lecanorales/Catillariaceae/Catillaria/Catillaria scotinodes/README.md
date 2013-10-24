@@ -1,17 +1,16 @@
-Biatorina confusior (Nyl.) A.L. Sm. SPECIES
-=======
+# Catillaria scotinodes (Nyl.) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Brit. Lich. 2: 130 (1911)
+Lichenologist 21(3): 223 (1989)
 
 #### Original name
-Lecidea confusior Nyl.
+Lecidea scotinodes Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Blastenia succinea C.W. Dodge & G.E. Baker SPECIES
-=======
+# Blastenia succinea C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

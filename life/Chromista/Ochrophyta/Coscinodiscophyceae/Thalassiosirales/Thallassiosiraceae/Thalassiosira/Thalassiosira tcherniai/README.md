@@ -1,5 +1,4 @@
-Thalassiosira tcherniai Manguin SPECIES
-=======
+# Thalassiosira tcherniai Manguin SPECIES
 
 #### Status
 ACCEPTED

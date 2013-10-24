@@ -1,5 +1,4 @@
-Aecidium bellidis Thüm. SPECIES
-=======
+# Aecidium bellidis Thüm. SPECIES
 
 #### Status
 ACCEPTED

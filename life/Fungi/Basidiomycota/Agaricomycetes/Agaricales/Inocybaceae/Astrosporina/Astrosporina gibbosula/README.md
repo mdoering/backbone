@@ -1,5 +1,4 @@
-Astrosporina gibbosula E. Horak SPECIES
-=======
+# Astrosporina gibbosula E. Horak SPECIES
 
 #### Status
 ACCEPTED

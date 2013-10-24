@@ -1,5 +1,4 @@
-Peronospora gossypina Av.-Saccá SPECIES
-=======
+# Peronospora gossypina Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

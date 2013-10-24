@@ -1,5 +1,4 @@
-Hydnellum subzonatum K.A. Harrison, 1961 SPECIES
-=======
+# Hydnellum subzonatum K.A. Harrison, 1961 SPECIES
 
 #### Status
 ACCEPTED

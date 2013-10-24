@@ -1,5 +1,4 @@
-Sphaeria ischnotheca Desm. SPECIES
-=======
+# Sphaeria ischnotheca Desm. SPECIES
 
 #### Status
 ACCEPTED

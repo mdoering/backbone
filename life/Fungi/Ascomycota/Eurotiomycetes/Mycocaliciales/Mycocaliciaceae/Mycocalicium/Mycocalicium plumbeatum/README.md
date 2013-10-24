@@ -1,5 +1,4 @@
-Mycocalicium plumbeatum (Norman) H. Magn. SPECIES
-=======
+# Mycocalicium plumbeatum (Norman) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

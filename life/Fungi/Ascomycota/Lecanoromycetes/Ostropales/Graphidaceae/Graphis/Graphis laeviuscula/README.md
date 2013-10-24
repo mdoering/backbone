@@ -1,5 +1,4 @@
-Graphis laeviuscula Fée SPECIES
-=======
+# Graphis laeviuscula Fée SPECIES
 
 #### Status
 ACCEPTED

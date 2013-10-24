@@ -1,17 +1,16 @@
-Gloeoporus thompsoni Pilát SPECIES
-=======
+# Gloeoporus thompsonii Pilát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atlas des Champignons de l'Europe (Praha), Polyporaceae I 3: 152 (1937)
 
 #### Original name
-Gloeoporus thompsoni Pilát
+Gloeoporus thompsonii Pilát
 
 ### Remarks
 null

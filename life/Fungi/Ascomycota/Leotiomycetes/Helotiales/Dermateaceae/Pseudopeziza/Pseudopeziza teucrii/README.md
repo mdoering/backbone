@@ -1,5 +1,4 @@
-Pseudopeziza teucrii Grelet & Croz. SPECIES
-=======
+# Pseudopeziza teucrii Grelet & Croz. SPECIES
 
 #### Status
 ACCEPTED

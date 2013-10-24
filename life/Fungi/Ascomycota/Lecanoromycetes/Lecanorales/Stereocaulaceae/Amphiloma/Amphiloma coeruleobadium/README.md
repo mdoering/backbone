@@ -1,5 +1,4 @@
-Amphiloma coeruleobadium (Schleich.) Hepp SPECIES
-=======
+# Amphiloma coeruleobadium (Schleich.) Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calciosolenia granii SPECIES
-=======
+# Calciosolenia granii SPECIES
 
 #### Status
 ACCEPTED

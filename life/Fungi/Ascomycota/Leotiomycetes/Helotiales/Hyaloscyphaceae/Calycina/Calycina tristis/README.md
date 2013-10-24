@@ -1,5 +1,4 @@
-Calycina tristis (Sacc.) Kuntze SPECIES
-=======
+# Calycina tristis (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

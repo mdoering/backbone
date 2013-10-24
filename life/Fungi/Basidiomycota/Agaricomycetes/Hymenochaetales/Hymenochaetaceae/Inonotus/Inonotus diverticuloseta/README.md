@@ -1,5 +1,4 @@
-Inonotus diverticuloseta Pegler, 1967 SPECIES
-=======
+# Inonotus diverticuloseta Pegler, 1967 SPECIES
 
 #### Status
 ACCEPTED

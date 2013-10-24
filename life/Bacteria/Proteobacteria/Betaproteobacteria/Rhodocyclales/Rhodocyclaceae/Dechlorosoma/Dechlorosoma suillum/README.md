@@ -1,5 +1,4 @@
-Dechlorosoma suillum Achenbach et al., 2001 SPECIES
-=======
+# Dechlorosoma suillum Achenbach et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

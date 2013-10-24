@@ -1,5 +1,4 @@
-Poculinia Spooner GENUS
-=======
+# Poculinia Spooner GENUS
 
 #### Status
 ACCEPTED

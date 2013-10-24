@@ -1,5 +1,4 @@
-Sarcographina Müll. Arg. GENUS
-=======
+# Sarcographina Müll. Arg. GENUS
 
 #### Status
 ACCEPTED

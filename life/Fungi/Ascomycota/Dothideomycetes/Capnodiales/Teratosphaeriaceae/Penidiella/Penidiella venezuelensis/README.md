@@ -1,5 +1,4 @@
-Penidiella venezuelensis Crous & U. Braun, 2007 SPECIES
-=======
+# Penidiella venezuelensis Crous & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

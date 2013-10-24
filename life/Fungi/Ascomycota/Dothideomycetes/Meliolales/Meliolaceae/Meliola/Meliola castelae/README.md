@@ -1,5 +1,4 @@
-Meliola castelae J.A. Stev. SPECIES
-=======
+# Meliola castelae J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

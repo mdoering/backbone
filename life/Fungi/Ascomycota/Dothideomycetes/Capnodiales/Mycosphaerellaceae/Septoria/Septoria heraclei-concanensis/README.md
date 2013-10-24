@@ -1,5 +1,4 @@
-Septoria heraclei-concanensis Sukapure & Thirum. SPECIES
-=======
+# Septoria heraclei-concanensis Sukapure & Thirum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor alba Sobol. SPECIES
-=======
+# Mucor alba Sobol. SPECIES
 
 #### Status
 ACCEPTED

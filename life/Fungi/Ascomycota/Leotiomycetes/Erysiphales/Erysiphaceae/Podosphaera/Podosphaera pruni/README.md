@@ -1,5 +1,4 @@
-Podosphaera pruni Golovin SPECIES
-=======
+# Podosphaera pruni Golovin SPECIES
 
 #### Status
 ACCEPTED

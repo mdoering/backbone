@@ -1,11 +1,10 @@
-Sargassum saltii var. dancalense Grunow, 1889 VARIETY
-=======
+# Sargassum saltii (Turner) C. Agardh SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

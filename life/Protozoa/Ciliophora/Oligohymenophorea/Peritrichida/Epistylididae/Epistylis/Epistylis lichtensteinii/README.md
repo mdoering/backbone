@@ -1,5 +1,4 @@
-Epistylis lichtensteinii SPECIES
-=======
+# Epistylis lichtensteinii SPECIES
 
 #### Status
 ACCEPTED

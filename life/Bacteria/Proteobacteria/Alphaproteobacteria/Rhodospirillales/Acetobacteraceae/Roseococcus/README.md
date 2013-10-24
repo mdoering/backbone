@@ -1,5 +1,4 @@
-Roseococcus Yurkov et al., 1994 GENUS
-=======
+# Roseococcus Yurkov et al., 1994 GENUS
 
 #### Status
 ACCEPTED

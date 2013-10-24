@@ -1,5 +1,4 @@
-Polyporus squamosomaculatus Berk. SPECIES
-=======
+# Polyporus squamosomaculatus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypethelium neogalbineum R. C. Harris SPECIES
-=======
+# Trypethelium neogalbineum R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

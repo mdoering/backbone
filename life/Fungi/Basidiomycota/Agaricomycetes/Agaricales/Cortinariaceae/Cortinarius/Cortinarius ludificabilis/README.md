@@ -1,5 +1,4 @@
-Cortinarius ludificabilis Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius ludificabilis Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

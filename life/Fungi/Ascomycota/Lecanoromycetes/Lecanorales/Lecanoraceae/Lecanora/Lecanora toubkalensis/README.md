@@ -1,5 +1,4 @@
-Lecanora toubkalensis Werner SPECIES
-=======
+# Lecanora toubkalensis Werner SPECIES
 
 #### Status
 ACCEPTED

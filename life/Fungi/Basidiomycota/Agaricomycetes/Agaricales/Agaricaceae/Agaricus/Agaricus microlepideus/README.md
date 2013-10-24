@@ -1,5 +1,4 @@
-Agaricus microlepideus Pers. SPECIES
-=======
+# Agaricus microlepideus Pers. SPECIES
 
 #### Status
 ACCEPTED

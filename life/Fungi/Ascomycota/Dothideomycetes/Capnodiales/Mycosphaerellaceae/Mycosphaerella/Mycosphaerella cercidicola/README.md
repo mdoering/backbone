@@ -1,14 +1,13 @@
-Sphaerella cercidicola Ellis & Kellerm., 1884 SPECIES
-=======
+# Mycosphaerella cercidicola (Ellis & Kellerm.) F.A. Wolf, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 11: 123 (1884)
+Mycologia 32(2): 135 (1940)
 
 #### Original name
 Sphaerella cercidicola Ellis & Kellerm., 1884

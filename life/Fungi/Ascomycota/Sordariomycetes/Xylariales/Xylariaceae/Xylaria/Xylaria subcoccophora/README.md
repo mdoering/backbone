@@ -1,5 +1,4 @@
-Xylaria subcoccophora F. San Martín & P. Lavín, 2001 SPECIES
-=======
+# Xylaria subcoccophora F. San Martín & P. Lavín, 2001 SPECIES
 
 #### Status
 ACCEPTED

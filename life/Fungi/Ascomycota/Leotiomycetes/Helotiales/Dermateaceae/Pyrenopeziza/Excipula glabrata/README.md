@@ -1,5 +1,4 @@
-Excipula glabrata (Sacc.) Höhn. SPECIES
-=======
+# Excipula glabrata (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

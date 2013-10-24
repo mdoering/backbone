@@ -1,5 +1,4 @@
-Pertusaria pentelici J. Steiner SPECIES
-=======
+# Pertusaria pentelici J. Steiner SPECIES
 
 #### Status
 ACCEPTED

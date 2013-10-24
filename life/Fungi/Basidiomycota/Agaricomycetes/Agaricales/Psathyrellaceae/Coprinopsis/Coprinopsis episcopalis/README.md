@@ -1,5 +1,4 @@
-Coprinopsis episcopalis (P.D. Orton) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis episcopalis (P.D. Orton) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

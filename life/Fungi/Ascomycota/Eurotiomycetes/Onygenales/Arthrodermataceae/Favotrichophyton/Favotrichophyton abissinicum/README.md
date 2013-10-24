@@ -1,5 +1,4 @@
-Favotrichophyton abissinicum (A. Agostini) C.W. Dodge SPECIES
-=======
+# Favotrichophyton abissinicum (A. Agostini) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

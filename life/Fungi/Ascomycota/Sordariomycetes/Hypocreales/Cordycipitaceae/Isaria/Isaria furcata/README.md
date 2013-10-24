@@ -1,5 +1,4 @@
-Isaria furcata Schwein. SPECIES
-=======
+# Isaria furcata Schwein. SPECIES
 
 #### Status
 ACCEPTED

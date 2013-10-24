@@ -1,5 +1,4 @@
-Discorbis auberi SPECIES
-=======
+# Discorbis auberi SPECIES
 
 #### Status
 ACCEPTED

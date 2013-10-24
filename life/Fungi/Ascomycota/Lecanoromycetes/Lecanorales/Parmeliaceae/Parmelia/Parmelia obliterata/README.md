@@ -1,5 +1,4 @@
-Parmelia obliterata (Pers.) Ach. SPECIES
-=======
+# Parmelia obliterata (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED

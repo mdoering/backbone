@@ -1,5 +1,4 @@
-Bryonora selenospora Poelt & H. Mayrhofer SPECIES
-=======
+# Bryonora selenospora Poelt & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

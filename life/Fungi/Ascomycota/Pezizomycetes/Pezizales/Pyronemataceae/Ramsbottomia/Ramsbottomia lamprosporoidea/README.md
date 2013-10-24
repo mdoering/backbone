@@ -1,5 +1,4 @@
-Ramsbottomia lamprosporoidea W.D. Buckley, 1924 SPECIES
-=======
+# Ramsbottomia lamprosporoidea W.D. Buckley, 1924 SPECIES
 
 #### Status
 ACCEPTED

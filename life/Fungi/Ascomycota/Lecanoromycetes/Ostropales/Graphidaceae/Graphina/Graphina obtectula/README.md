@@ -1,5 +1,4 @@
-Graphina obtectula Müll. Arg. SPECIES
-=======
+# Graphina obtectula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

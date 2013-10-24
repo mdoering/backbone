@@ -1,5 +1,4 @@
-Lemkea Morgan-Jones & R.C. Sinclair, 1983 GENUS
-=======
+# Lemkea Morgan-Jones & R.C. Sinclair, 1983 GENUS
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Fragilaria vaucheriae var. vaucheriae (Kützing) J.B. Petersen, 1938 VARIETY
-=======
+# Fragilaria vaucheriae (Kützing) J.B. Petersen SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

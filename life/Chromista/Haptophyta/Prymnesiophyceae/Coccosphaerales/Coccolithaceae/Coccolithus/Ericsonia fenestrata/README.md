@@ -1,8 +1,7 @@
-Clausicoccus fenestratus (Deflandre & Fert, 1954) Prins, 1979 SPECIES
-=======
+# Ericsonia fenestrata (Deflandre & Fert, 1954) Stradner in Stradner & Edwards, 1968 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Pegleromyces Singer GENUS
-=======
+# Pegleromyces Singer GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agonimia tristicula f. tristicula FORM
-=======
+# Agonimia tristicula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Öst. bot. Z. 5: 351 (1909)
 
 #### Original name
-Agonimia tristicula f. tristicula
+Verrucaria tristicula Nyl.
 
 ### Remarks
 null

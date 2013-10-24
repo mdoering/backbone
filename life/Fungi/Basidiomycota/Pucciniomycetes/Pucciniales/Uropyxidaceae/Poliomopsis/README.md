@@ -1,5 +1,4 @@
-Poliomopsis A.W. Ramaley GENUS
-=======
+# Poliomopsis A.W. Ramaley GENUS
 
 #### Status
 ACCEPTED

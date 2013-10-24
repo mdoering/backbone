@@ -1,5 +1,4 @@
-Catinaria dispersa (Arnold) Lettau SPECIES
-=======
+# Catinaria dispersa (Arnold) Lettau SPECIES
 
 #### Status
 ACCEPTED

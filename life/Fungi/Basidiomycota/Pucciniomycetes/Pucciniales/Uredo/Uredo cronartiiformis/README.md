@@ -1,5 +1,4 @@
-Uredo cronartiiformis Barclay SPECIES
-=======
+# Uredo cronartiiformis Barclay SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria fraseri M.A. Whalley, Y.M. Ju, J.D. Rogers & Whalley, 2000 SPECIES
-=======
+# Xylaria fraseri M.A. Whalley, Y.M. Ju, J.D. Rogers & Whalley, 2000 SPECIES
 
 #### Status
 ACCEPTED

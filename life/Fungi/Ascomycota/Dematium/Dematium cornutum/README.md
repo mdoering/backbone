@@ -1,5 +1,4 @@
-Dematium cornutum (Pers.) Link SPECIES
-=======
+# Dematium cornutum (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

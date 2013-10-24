@@ -1,14 +1,13 @@
-Lachnea ascophanoides (Boud.) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Tricharina ascophanoides (Boud.) Chin S. Yang & Korf, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 18: 37 (1905)
+Mycotaxon 24: 485 (1985)
 
 #### Original name
 Tricharia ascophanoides Boud., 1903

@@ -1,5 +1,4 @@
-Sphaerella unguadiae Siemaszko SPECIES
-=======
+# Sphaerella unguadiae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

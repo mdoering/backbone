@@ -1,5 +1,4 @@
-Compsonema coccophorae Noda SPECIES
-=======
+# Compsonema coccophorae Noda SPECIES
 
 #### Status
 ACCEPTED

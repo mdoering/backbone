@@ -1,5 +1,4 @@
-Podosordaria muli J.D. Rogers, Y.M. Ju & F. San Martín SPECIES
-=======
+# Podosordaria muli J.D. Rogers, Y.M. Ju & F. San Martín SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma barbari Cooke SPECIES
-=======
+# Phoma barbari Cooke SPECIES
 
 #### Status
 ACCEPTED

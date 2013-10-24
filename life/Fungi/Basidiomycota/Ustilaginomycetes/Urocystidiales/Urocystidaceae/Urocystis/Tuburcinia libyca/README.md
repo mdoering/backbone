@@ -1,5 +1,4 @@
-Tuburcinia libyca (Trotter) Zambett. SPECIES
-=======
+# Tuburcinia libyca (Trotter) Zambett. SPECIES
 
 #### Status
 ACCEPTED

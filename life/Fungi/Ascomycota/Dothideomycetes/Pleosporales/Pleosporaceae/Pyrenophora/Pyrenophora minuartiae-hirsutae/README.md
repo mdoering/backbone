@@ -1,5 +1,4 @@
-Pyrenophora minuartiae-hirsutae Gucevic SPECIES
-=======
+# Pyrenophora minuartiae-hirsutae Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea friesiana Linds. SPECIES
-=======
+# Lecidea friesiana Linds. SPECIES
 
 #### Status
 ACCEPTED

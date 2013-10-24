@@ -1,5 +1,4 @@
-Mycobacterium arupense Cloud et al., 2006 SPECIES
-=======
+# Mycobacterium arupense Cloud et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus odorativus Britzelm. SPECIES
-=======
+# Agaricus odorativus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

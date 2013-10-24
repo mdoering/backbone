@@ -1,5 +1,4 @@
-Strigula mori Schulzer ex Keissl. SPECIES
-=======
+# Strigula mori Schulzer ex Keissl. SPECIES
 
 #### Status
 ACCEPTED

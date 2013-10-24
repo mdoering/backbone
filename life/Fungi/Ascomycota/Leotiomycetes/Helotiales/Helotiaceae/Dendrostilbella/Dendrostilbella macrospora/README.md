@@ -1,5 +1,4 @@
-Dendrostilbella macrospora Bally, 1917 SPECIES
-=======
+# Dendrostilbella macrospora Bally, 1917 SPECIES
 
 #### Status
 ACCEPTED

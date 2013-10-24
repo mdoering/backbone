@@ -1,5 +1,4 @@
-Phyllosticta vaga (Roberge) Allesch. SPECIES
-=======
+# Phyllosticta vaga (Roberge) Allesch. SPECIES
 
 #### Status
 ACCEPTED

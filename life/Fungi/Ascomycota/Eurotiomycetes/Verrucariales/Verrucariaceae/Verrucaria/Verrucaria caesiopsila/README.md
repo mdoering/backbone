@@ -1,5 +1,4 @@
-Verrucaria caesiopsila var. caesiopsila VARIETY
-=======
+# Verrucaria caesiopsila Anzi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria caesiopsila var. caesiopsila
+Verrucaria caesiopsila Anzi
 
 ### Remarks
 null

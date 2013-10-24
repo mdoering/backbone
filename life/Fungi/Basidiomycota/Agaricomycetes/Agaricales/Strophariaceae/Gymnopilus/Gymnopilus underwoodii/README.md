@@ -1,5 +1,4 @@
-Gymnopilus underwoodii (Peck) Murrill SPECIES
-=======
+# Gymnopilus underwoodii (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

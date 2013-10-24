@@ -1,5 +1,4 @@
-Cytosporina strongylodontis Maire SPECIES
-=======
+# Cytosporina strongylodontis Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prathigada punjabensis (Subram.) Subram. SPECIES
-=======
+# Prathigada punjabensis (Subram.) Subram. SPECIES
 
 #### Status
 ACCEPTED

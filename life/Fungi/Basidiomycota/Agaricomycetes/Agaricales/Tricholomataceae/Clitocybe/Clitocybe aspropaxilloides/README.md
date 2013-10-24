@@ -1,5 +1,4 @@
-Clitocybe aspropaxilloides Raithelh. SPECIES
-=======
+# Clitocybe aspropaxilloides Raithelh. SPECIES
 
 #### Status
 ACCEPTED

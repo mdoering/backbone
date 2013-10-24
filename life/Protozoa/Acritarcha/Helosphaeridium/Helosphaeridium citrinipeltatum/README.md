@@ -1,5 +1,4 @@
-Helosphaeridium citrinipeltatum (Cramer & Díez, 1972) Dorning, 1981 SPECIES
-=======
+# Helosphaeridium citrinipeltatum (Cramer & Díez, 1972) Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

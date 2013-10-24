@@ -1,5 +1,4 @@
-Dicaeoma micromeriae (Dudley & C.H. Thomps.) Arthur SPECIES
-=======
+# Dicaeoma micromeriae (Dudley & C.H. Thomps.) Arthur SPECIES
 
 #### Status
 ACCEPTED

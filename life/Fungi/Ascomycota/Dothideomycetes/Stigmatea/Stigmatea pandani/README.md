@@ -1,5 +1,4 @@
-Stigmatea pandani Feltgen SPECIES
-=======
+# Stigmatea pandani Feltgen SPECIES
 
 #### Status
 ACCEPTED

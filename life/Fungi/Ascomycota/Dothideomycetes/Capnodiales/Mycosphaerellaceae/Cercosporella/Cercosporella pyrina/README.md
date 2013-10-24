@@ -1,5 +1,4 @@
-Cercosporella pyrina Ellis & Everh. SPECIES
-=======
+# Cercosporella pyrina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

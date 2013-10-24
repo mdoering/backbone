@@ -1,5 +1,4 @@
-Urceolaria chalybaeodes (J. Steiner) Motyka SPECIES
-=======
+# Urceolaria chalybaeodes (J. Steiner) Motyka SPECIES
 
 #### Status
 ACCEPTED

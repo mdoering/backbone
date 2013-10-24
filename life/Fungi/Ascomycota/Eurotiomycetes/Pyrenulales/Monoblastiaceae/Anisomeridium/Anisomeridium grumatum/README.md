@@ -1,5 +1,4 @@
-Anisomeridium grumatum (Cooke) Aptroot SPECIES
-=======
+# Anisomeridium grumatum (Cooke) Aptroot SPECIES
 
 #### Status
 ACCEPTED

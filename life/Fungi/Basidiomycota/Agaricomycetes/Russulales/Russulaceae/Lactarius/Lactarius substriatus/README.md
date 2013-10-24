@@ -1,5 +1,4 @@
-Lactarius substriatus A.H. Sm. SPECIES
-=======
+# Lactarius substriatus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

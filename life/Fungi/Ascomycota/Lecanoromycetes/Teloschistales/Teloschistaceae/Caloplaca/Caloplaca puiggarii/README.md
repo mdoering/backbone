@@ -1,5 +1,4 @@
-Caloplaca puiggarii (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca puiggarii (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

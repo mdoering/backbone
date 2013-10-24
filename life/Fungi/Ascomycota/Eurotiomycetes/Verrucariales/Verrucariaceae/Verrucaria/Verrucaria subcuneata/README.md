@@ -1,5 +1,4 @@
-Verrucaria subcuneata Servít SPECIES
-=======
+# Verrucaria subcuneata Servít SPECIES
 
 #### Status
 ACCEPTED

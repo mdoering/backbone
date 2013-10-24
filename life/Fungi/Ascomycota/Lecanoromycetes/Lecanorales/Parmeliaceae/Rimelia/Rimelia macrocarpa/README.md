@@ -1,5 +1,4 @@
-Rimelia macrocarpa (Pers.) Hale & A. Fletcher SPECIES
-=======
+# Rimelia macrocarpa (Pers.) Hale & A. Fletcher SPECIES
 
 #### Status
 ACCEPTED

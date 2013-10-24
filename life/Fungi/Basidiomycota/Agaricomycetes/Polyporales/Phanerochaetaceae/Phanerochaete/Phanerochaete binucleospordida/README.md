@@ -1,5 +1,4 @@
-Phanerochaete binucleospordida Boidin, Lanq. & Gilles, 1993 SPECIES
-=======
+# Phanerochaete binucleospordida Boidin, Lanq. & Gilles, 1993 SPECIES
 
 #### Status
 ACCEPTED

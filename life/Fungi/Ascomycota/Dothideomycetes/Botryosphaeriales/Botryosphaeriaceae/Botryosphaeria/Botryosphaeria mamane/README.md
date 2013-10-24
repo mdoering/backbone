@@ -1,5 +1,4 @@
-Botryosphaeria mamane D.E. Gardner, 1997 SPECIES
-=======
+# Botryosphaeria mamane D.E. Gardner, 1997 SPECIES
 
 #### Status
 ACCEPTED

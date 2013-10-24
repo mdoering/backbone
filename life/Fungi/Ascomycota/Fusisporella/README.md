@@ -1,5 +1,4 @@
-Fusisporella Speg. GENUS
-=======
+# Fusisporella Speg. GENUS
 
 #### Status
 ACCEPTED

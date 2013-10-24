@@ -1,5 +1,4 @@
-Tubeporella Pronina, 1969 GENUS
-=======
+# Tubeporella Pronina, 1969 GENUS
 
 #### Status
 ACCEPTED

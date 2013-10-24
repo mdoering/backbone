@@ -1,5 +1,4 @@
-Colletotrichum grossulariae Jacz. SPECIES
-=======
+# Colletotrichum grossulariae Jacz. SPECIES
 
 #### Status
 ACCEPTED

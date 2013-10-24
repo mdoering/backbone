@@ -1,5 +1,4 @@
-Strickeria ampullacea (Rehm) G. Winter SPECIES
-=======
+# Strickeria ampullacea (Rehm) G. Winter SPECIES
 
 #### Status
 ACCEPTED

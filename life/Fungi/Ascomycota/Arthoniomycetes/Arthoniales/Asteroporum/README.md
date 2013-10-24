@@ -1,5 +1,4 @@
-Asteroporum Müll. Arg. GENUS
-=======
+# Asteroporum Müll. Arg. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ellipsoidictyum cinctum Klement, 1960 SPECIES
-=======
+# Ellipsoidictyum cinctum Klement, 1960 SPECIES
 
 #### Status
 ACCEPTED

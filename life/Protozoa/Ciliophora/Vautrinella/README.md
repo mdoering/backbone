@@ -1,5 +1,4 @@
-Vautrinella Cuvillier, 1957 GENUS
-=======
+# Vautrinella Cuvillier, 1957 GENUS
 
 #### Status
 ACCEPTED

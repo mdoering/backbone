@@ -1,14 +1,13 @@
-Thelotrema lathraeum Tuck. SPECIES
-=======
+# Ocellularia lathraea (Tuck.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Synopsis N. Am. Lich 1: 224 (1882)
+Cat. Lich. Univers. 2: 593 (1923)
 
 #### Original name
 Thelotrema lathraeum Tuck.

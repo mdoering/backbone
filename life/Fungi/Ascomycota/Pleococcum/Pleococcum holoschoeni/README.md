@@ -1,5 +1,4 @@
-Pleococcum holoschoeni Pass. SPECIES
-=======
+# Pleococcum holoschoeni Pass. SPECIES
 
 #### Status
 ACCEPTED

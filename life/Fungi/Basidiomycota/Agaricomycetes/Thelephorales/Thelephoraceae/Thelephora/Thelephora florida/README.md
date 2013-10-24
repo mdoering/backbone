@@ -1,5 +1,4 @@
-Thelephora florida P. Kumm. SPECIES
-=======
+# Thelephora florida P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

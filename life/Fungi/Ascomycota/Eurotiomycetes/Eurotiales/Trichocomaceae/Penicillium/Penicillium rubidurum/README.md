@@ -1,8 +1,7 @@
-Eupenicillium rubidurum Udagawa & Y. Horie, 1973 SPECIES
-=======
+# Penicillium rubidurum Udagawa & Y. Horie, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Trans. Mycol. Soc. Japan 14(4): 381 (1973)
 
 #### Original name
-Eupenicillium rubidurum Udagawa & Y. Horie, 1973
+Penicillium rubidurum Udagawa & Y. Horie, 1973
 
 ### Remarks
 null

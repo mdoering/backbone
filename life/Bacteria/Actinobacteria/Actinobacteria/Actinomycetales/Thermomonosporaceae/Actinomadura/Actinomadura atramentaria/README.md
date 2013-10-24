@@ -1,5 +1,4 @@
-Actinomadura atramentaria Miyadoh et al., 1987 SPECIES
-=======
+# Actinomadura atramentaria Miyadoh et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

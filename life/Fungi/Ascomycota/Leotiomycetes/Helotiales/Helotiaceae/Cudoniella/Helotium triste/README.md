@@ -1,5 +1,4 @@
-Helotium triste Sacc. SPECIES
-=======
+# Helotium triste Sacc. SPECIES
 
 #### Status
 ACCEPTED

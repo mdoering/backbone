@@ -1,5 +1,4 @@
-Belonium spiraeae Naumov {?} SPECIES
-=======
+# Belonium spiraeae Naumov {?} SPECIES
 
 #### Status
 ACCEPTED

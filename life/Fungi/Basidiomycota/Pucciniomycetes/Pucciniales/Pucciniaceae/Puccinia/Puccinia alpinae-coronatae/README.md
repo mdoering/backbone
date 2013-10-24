@@ -1,8 +1,7 @@
-Puccinia alpinae-coronata Mühleth. SPECIES
-=======
+# Puccinia alpinae-coronatae Mühleth. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia alpinae-coronata Mühleth.
+Puccinia alpinae-coronatae Mühleth.
 
 ### Remarks
 null

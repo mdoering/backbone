@@ -1,5 +1,4 @@
-Colletotrichopsis boldoae (Speg.) Bat. SPECIES
-=======
+# Colletotrichopsis boldoae (Speg.) Bat. SPECIES
 
 #### Status
 ACCEPTED

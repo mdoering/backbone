@@ -1,5 +1,4 @@
-Hysterostomella bakeri (Theiss. & Syd.) Inácio & P.F. Cannon SPECIES
-=======
+# Hysterostomella bakeri (Theiss. & Syd.) Inácio & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verticillium lichenicola Speg. SPECIES
-=======
+# Verticillium lichenicola Speg. SPECIES
 
 #### Status
 ACCEPTED

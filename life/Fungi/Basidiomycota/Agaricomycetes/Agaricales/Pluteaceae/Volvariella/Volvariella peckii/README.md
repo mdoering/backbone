@@ -1,5 +1,4 @@
-Volvariella peckii (G.F. Atk.) Shaffer SPECIES
-=======
+# Volvariella peckii (G.F. Atk.) Shaffer SPECIES
 
 #### Status
 ACCEPTED

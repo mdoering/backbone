@@ -1,5 +1,4 @@
-Trichoderma catoptron P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma catoptron P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

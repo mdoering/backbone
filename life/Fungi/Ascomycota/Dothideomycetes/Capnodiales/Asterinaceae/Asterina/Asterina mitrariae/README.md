@@ -1,5 +1,4 @@
-Asterina mitrariae Syd. SPECIES
-=======
+# Asterina mitrariae Syd. SPECIES
 
 #### Status
 ACCEPTED

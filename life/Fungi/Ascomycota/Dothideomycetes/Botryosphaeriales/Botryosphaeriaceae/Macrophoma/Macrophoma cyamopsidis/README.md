@@ -1,5 +1,4 @@
-Macrophoma cyamopsidis Syd. SPECIES
-=======
+# Macrophoma cyamopsidis Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Urocystis waldsteiniae Peck, 1893 SPECIES
-=======
+# Ustacystis waldsteiniae (Peck) Zundel, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 37(6): 796 (1945)
 
 #### Original name
 Urocystis waldsteiniae Peck, 1893

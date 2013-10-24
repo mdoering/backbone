@@ -1,5 +1,4 @@
-Erinella citrina Henn. SPECIES
-=======
+# Erinella citrina Henn. SPECIES
 
 #### Status
 ACCEPTED

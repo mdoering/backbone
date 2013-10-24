@@ -1,5 +1,4 @@
-Septammina Meunier, 1888 GENUS
-=======
+# Septammina Meunier, 1888 GENUS
 
 #### Status
 ACCEPTED

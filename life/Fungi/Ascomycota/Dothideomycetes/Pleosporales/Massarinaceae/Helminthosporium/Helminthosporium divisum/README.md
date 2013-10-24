@@ -1,5 +1,4 @@
-Helminthosporium divisum (Bonord.) Sacc. SPECIES
-=======
+# Helminthosporium divisum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

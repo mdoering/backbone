@@ -1,5 +1,4 @@
-Gloeosporium bryophylli Sousa da Câmara & A.T. Vasconc. SPECIES
-=======
+# Gloeosporium bryophylli Sousa da Câmara & A.T. Vasconc. SPECIES
 
 #### Status
 ACCEPTED

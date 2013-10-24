@@ -1,5 +1,4 @@
-Stylocystis Léger, 1900 GENUS
-=======
+# Stylocystis Léger, 1900 GENUS
 
 #### Status
 ACCEPTED

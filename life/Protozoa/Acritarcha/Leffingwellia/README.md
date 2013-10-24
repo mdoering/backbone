@@ -1,5 +1,4 @@
-Leffingwellia M.J. Head & G. Norris, 2003 GENUS
-=======
+# Leffingwellia M.J. Head & G. Norris, 2003 GENUS
 
 #### Status
 ACCEPTED

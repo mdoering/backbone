@@ -1,5 +1,4 @@
-Ramaria amethystina (Bull.) Gray SPECIES
-=======
+# Ramaria amethystina (Bull.) Gray SPECIES
 
 #### Status
 ACCEPTED

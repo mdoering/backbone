@@ -1,5 +1,4 @@
-Laboulbenia anatrichidis T. Majewski SPECIES
-=======
+# Laboulbenia anatrichidis T. Majewski SPECIES
 
 #### Status
 ACCEPTED

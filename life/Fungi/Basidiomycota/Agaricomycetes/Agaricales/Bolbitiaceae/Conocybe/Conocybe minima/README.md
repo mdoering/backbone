@@ -1,5 +1,4 @@
-Conocybe minima Singer & Hauskn. SPECIES
-=======
+# Conocybe minima Singer & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

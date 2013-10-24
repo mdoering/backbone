@@ -1,5 +1,4 @@
-Rhabdostyla sessilis Penard, 1922 SPECIES
-=======
+# Rhabdostyla sessilis Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

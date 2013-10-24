@@ -1,5 +1,4 @@
-Tricholoma pannonicum Bohus SPECIES
-=======
+# Tricholoma pannonicum Bohus SPECIES
 
 #### Status
 ACCEPTED

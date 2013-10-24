@@ -1,5 +1,4 @@
-Entoloma arvigenum Corner & E. Horak SPECIES
-=======
+# Entoloma arvigenum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

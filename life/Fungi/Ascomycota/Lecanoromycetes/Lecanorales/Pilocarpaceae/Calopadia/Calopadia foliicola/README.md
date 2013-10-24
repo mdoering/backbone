@@ -1,14 +1,13 @@
-Lopadium foliicola (Fée) R. Sant. SPECIES
-=======
+# Calopadia foliicola (Fée) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Ecol. 40: 129 (1952)
+Folia geobot. phytotax. 21(2): 215 (1986)
 
 #### Original name
 Lecanora foliicola Fée

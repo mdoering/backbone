@@ -1,5 +1,4 @@
-Trachelomonas pertyi Pringsheim SPECIES
-=======
+# Trachelomonas pertyi Pringsheim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capniomyces S.W. Peterson & Lichtw. GENUS
-=======
+# Capniomyces S.W. Peterson & Lichtw. GENUS
 
 #### Status
 ACCEPTED

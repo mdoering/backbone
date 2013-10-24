@@ -1,5 +1,4 @@
-Cercospora caseariae F. Stevens SPECIES
-=======
+# Cercospora caseariae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

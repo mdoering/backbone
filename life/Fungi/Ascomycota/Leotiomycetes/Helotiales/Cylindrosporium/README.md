@@ -1,17 +1,16 @@
-Cylindrodochium Bonord. GENUS
-=======
+# Cylindrosporium Greville, 1822 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Handb. Allgem. mykol. (Stuttgart) 132 (1851)
+null
 
 #### Original name
-Cylindrodochium Bonord.
+null
 
 ### Remarks
 null

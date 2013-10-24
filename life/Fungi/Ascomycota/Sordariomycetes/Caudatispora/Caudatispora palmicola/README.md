@@ -1,5 +1,4 @@
-Caudatispora palmicola J. Fröhl. & K.D. Hyde, 1995 SPECIES
-=======
+# Caudatispora palmicola J. Fröhl. & K.D. Hyde, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prevotellaceae FAMILY
-=======
+# Prevotellaceae FAMILY
 
 #### Status
 ACCEPTED

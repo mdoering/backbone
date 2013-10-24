@@ -1,5 +1,4 @@
-Polyporellus satakei Imazeki SPECIES
-=======
+# Polyporellus satakei Imazeki SPECIES
 
 #### Status
 ACCEPTED

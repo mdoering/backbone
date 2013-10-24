@@ -1,5 +1,4 @@
-Mycosphaerella ambigua (Fautrey & F. Lamb.) Tomilin SPECIES
-=======
+# Mycosphaerella ambigua (Fautrey & F. Lamb.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

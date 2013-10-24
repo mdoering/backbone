@@ -1,5 +1,4 @@
-Tricholoma californicum Murrill SPECIES
-=======
+# Tricholoma californicum Murrill SPECIES
 
 #### Status
 ACCEPTED

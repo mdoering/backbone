@@ -1,5 +1,4 @@
-Ustilago tonglinensis Tracy & Earle SPECIES
-=======
+# Ustilago tonglinensis Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

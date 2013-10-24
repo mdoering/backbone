@@ -1,5 +1,4 @@
-Psora kiliensis (Vain.) Oxner SPECIES
-=======
+# Psora kiliensis (Vain.) Oxner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia neglecta Bagl. SPECIES
-=======
+# Arthonia neglecta Bagl. SPECIES
 
 #### Status
 ACCEPTED

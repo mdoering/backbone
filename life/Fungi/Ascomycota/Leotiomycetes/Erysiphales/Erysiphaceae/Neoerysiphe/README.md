@@ -1,5 +1,4 @@
-Neoerysiphe U. Braun GENUS
-=======
+# Neoerysiphe U. Braun GENUS
 
 #### Status
 ACCEPTED

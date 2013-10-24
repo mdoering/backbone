@@ -1,5 +1,4 @@
-Laschia longipes Berk. SPECIES
-=======
+# Laschia longipes Berk. SPECIES
 
 #### Status
 ACCEPTED

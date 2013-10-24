@@ -1,5 +1,4 @@
-Clavaria arbuscula Scop. SPECIES
-=======
+# Clavaria arbuscula Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cribroelphidium iranicum Yassini & Ghahreman, 1977 SPECIES
-=======
+# Elphidium iranicum (Yassini & Ghahreman, 1977) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

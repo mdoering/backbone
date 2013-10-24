@@ -1,5 +1,4 @@
-Phoma inulicola Brunaud SPECIES
-=======
+# Phoma inulicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

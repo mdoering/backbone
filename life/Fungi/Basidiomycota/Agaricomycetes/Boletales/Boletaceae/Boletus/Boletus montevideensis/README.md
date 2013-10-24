@@ -1,5 +1,4 @@
-Boletus montevideensis Speg. SPECIES
-=======
+# Boletus montevideensis Speg. SPECIES
 
 #### Status
 ACCEPTED

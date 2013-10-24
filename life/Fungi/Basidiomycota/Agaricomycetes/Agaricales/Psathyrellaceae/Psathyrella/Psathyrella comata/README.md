@@ -1,5 +1,4 @@
-Psathyrella comata (G.F. Atk.) A.H. Sm. SPECIES
-=======
+# Psathyrella comata (G.F. Atk.) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Durella braunii Rick SPECIES
-=======
+# Durella braunii Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryolepraria Canals, Hern.-Mar., Gómez-Bolea & Llimona GENUS
-=======
+# Botryolepraria Canals, Hern.-Mar., Gómez-Bolea & Llimona GENUS
 
 #### Status
 ACCEPTED

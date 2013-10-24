@@ -1,5 +1,4 @@
-Cortinarius cuprarius P. Kumm. SPECIES
-=======
+# Cortinarius cuprarius P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

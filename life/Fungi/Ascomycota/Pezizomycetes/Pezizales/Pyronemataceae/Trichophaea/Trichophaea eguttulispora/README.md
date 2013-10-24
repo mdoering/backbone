@@ -1,5 +1,4 @@
-Trichophaea eguttulispora Gamundí SPECIES
-=======
+# Trichophaea eguttulispora Gamundí SPECIES
 
 #### Status
 ACCEPTED

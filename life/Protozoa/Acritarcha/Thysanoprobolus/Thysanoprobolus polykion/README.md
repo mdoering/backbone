@@ -1,5 +1,4 @@
-Thysanoprobolus polykion Loeblich & Tappan, 1970 SPECIES
-=======
+# Thysanoprobolus polykion Loeblich & Tappan, 1970 SPECIES
 
 #### Status
 ACCEPTED

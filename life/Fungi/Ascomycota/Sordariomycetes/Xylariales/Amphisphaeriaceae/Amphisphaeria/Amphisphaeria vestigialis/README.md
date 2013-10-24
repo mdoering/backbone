@@ -1,5 +1,4 @@
-Amphisphaeria vestigialis Fairm. SPECIES
-=======
+# Amphisphaeria vestigialis Fairm. SPECIES
 
 #### Status
 ACCEPTED

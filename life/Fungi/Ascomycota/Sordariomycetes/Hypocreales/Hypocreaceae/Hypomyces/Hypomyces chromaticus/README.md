@@ -1,5 +1,4 @@
-Hypomyces chromaticus Berk. & Broome SPECIES
-=======
+# Hypomyces chromaticus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

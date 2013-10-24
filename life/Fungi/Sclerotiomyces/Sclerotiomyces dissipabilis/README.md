@@ -1,5 +1,4 @@
-Sclerotiomyces dissipabilis Woron. SPECIES
-=======
+# Sclerotiomyces dissipabilis Woron. SPECIES
 
 #### Status
 ACCEPTED

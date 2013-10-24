@@ -1,5 +1,4 @@
-Lamtostyla Buitkamp, 1977 GENUS
-=======
+# Lamtostyla Buitkamp, 1977 GENUS
 
 #### Status
 ACCEPTED

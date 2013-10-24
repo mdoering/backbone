@@ -1,14 +1,13 @@
-Tremella translucens H.D. Gordon, 1938 SPECIES
-=======
+# Sirotrema translucens (H.D. Gordon) Bandoni, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 22(1-2): 111 (1938)
+Can. J. Bot. 64(3): 674 (1986)
 
 #### Original name
 Tremella translucens H.D. Gordon, 1938

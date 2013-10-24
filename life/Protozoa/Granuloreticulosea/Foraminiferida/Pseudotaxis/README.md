@@ -1,5 +1,4 @@
-Pseudotaxis Mamet, 1974 GENUS
-=======
+# Pseudotaxis Mamet, 1974 GENUS
 
 #### Status
 ACCEPTED

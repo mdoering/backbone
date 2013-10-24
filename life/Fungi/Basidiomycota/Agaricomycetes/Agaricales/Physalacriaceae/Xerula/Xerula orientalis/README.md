@@ -1,17 +1,16 @@
-Xerula orientalis var. orientalis VARIETY
-=======
+# Xerula orientalis R.H. Petersen & Nagas. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Rep. Tottori Mycol. Inst. 43: 36 (2006)
 
 #### Original name
-null
+Xerula orientalis R.H. Petersen & Nagas.
 
 ### Remarks
 null

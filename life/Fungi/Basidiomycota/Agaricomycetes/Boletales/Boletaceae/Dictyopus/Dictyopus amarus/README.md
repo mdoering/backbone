@@ -1,5 +1,4 @@
-Dictyopus amarus (Pers.) Quél. SPECIES
-=======
+# Dictyopus amarus (Pers.) Quél. SPECIES
 
 #### Status
 ACCEPTED

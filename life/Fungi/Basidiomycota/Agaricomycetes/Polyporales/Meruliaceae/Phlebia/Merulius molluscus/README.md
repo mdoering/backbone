@@ -1,17 +1,16 @@
-Merulius molluscus var. molluscus VARIETY
-=======
+# Merulius molluscus SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Syst. mycol. (Lundae) 1: 329 (1821)
+null
 
 #### Original name
-Merulius molluscus var. molluscus
+null
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Leucolenzites Falck GENUS
-=======
+# Lenzites E.M. Fries, 1836 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hausschwammforsch. 3: 37 (1909)
+Fl. Scan. 339 (1836)
 
 #### Original name
-Leucolenzites Falck
+Lenzites E.M. Fries, 1836
 
 ### Remarks
 null

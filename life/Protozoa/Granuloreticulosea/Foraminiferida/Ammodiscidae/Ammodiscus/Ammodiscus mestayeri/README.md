@@ -1,5 +1,4 @@
-Ammodiscus mestayeri Cushman, 1919 SPECIES
-=======
+# Ammodiscus mestayeri Cushman, 1919 SPECIES
 
 #### Status
 ACCEPTED

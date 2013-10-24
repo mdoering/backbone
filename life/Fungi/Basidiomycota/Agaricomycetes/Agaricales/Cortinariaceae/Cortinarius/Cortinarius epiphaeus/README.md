@@ -1,17 +1,16 @@
-Thaxterogaster epiphaeum E. Horak SPECIES
-=======
+# Cortinarius epiphaeus (E. Horak) Peintner & M.M. Moser, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 81: 179 (2002)
 
 #### Original name
-Thaxterogaster epiphaeum E. Horak
+Thaxterogaster epiphaeus E. Horak, 1973
 
 ### Remarks
 null

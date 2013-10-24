@@ -1,5 +1,4 @@
-Lecidea conflectens var. conflectens VARIETY
-=======
+# Lecidea conflectens Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. Fueg. Patag. 15 (1888)
 
 #### Original name
-Lecidea conflectens var. conflectens
+Lecidea conflectens Nyl.
 
 ### Remarks
 null

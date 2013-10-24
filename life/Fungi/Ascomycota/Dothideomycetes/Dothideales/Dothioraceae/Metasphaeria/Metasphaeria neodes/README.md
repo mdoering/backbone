@@ -1,5 +1,4 @@
-Metasphaeria neodes (Berk. & Broome) Petr. SPECIES
-=======
+# Metasphaeria neodes (Berk. & Broome) Petr. SPECIES
 
 #### Status
 ACCEPTED

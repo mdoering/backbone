@@ -1,17 +1,16 @@
-Spirogramma Ferd. & Winge GENUS
-=======
+# Xylaria Hill ex Schrank, 1789 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 60: 142 (1909)
+Baier. Fl. 1: 200 (1789)
 
 #### Original name
-Spirogramma Ferd. & Winge
+Xylaria Hill ex Schrank, 1789
 
 ### Remarks
 null

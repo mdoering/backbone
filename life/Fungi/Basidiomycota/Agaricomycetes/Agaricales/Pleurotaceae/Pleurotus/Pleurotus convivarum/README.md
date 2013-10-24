@@ -1,5 +1,4 @@
-Pleurotus convivarum Dunal & Delile SPECIES
-=======
+# Pleurotus convivarum Dunal & Delile SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora vitellina (Preuss) Sacc. & Voglino SPECIES
-=======
+# Oospora vitellina (Preuss) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

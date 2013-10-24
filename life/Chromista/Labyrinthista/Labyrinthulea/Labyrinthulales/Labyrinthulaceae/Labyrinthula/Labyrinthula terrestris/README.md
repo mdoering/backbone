@@ -1,5 +1,4 @@
-Labyrinthula terrestris D.M. Bigelow, M.W. Olsen & Gilb., 2005 SPECIES
-=======
+# Labyrinthula terrestris D.M. Bigelow, M.W. Olsen & Gilb., 2005 SPECIES
 
 #### Status
 ACCEPTED

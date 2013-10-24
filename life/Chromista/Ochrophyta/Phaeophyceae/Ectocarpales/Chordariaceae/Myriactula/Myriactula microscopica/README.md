@@ -1,5 +1,4 @@
-Myriactula microscopica (Ercegovic) Ercegovic SPECIES
-=======
+# Myriactula microscopica (Ercegovic) Ercegovic SPECIES
 
 #### Status
 ACCEPTED

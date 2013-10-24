@@ -1,5 +1,4 @@
-Pteridomyces Jülich, 1979 GENUS
-=======
+# Pteridomyces Jülich, 1979 GENUS
 
 #### Status
 ACCEPTED

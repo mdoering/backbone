@@ -1,5 +1,4 @@
-Corticium lindavianum Herter SPECIES
-=======
+# Corticium lindavianum Herter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypa sebrosa Sacc. SPECIES
-=======
+# Eutypa sebrosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

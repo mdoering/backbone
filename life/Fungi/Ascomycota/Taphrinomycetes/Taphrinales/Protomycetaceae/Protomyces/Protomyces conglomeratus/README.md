@@ -1,5 +1,4 @@
-Protomyces conglomeratus Peck SPECIES
-=======
+# Protomyces conglomeratus Peck SPECIES
 
 #### Status
 ACCEPTED

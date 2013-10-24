@@ -1,5 +1,4 @@
-Cheilaria pulicaris Mont. SPECIES
-=======
+# Cheilaria pulicaris Mont. SPECIES
 
 #### Status
 ACCEPTED

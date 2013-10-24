@@ -1,5 +1,4 @@
-Lophodermium molitoris Minter, 1980 SPECIES
-=======
+# Lophodermium molitoris Minter, 1980 SPECIES
 
 #### Status
 ACCEPTED

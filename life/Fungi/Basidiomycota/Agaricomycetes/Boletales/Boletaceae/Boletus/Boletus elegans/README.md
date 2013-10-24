@@ -1,5 +1,4 @@
-Boletus elegans var. elegans VARIETY
-=======
+# Boletus elegans Bull. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Herb. Fr. 2: 76 (1781)
 
 #### Original name
-Boletus elegans var. elegans
+Boletus elegans Bull.
 
 ### Remarks
 null

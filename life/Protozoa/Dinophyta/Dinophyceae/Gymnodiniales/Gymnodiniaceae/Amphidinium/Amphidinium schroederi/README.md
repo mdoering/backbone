@@ -1,5 +1,4 @@
-Amphidinium schroederi SPECIES
-=======
+# Amphidinium schroederi SPECIES
 
 #### Status
 ACCEPTED

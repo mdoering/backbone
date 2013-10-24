@@ -1,14 +1,13 @@
-Sphaeria proboscidea Kunze, 1823 SPECIES
-=======
+# Topospora proboscidea (Fr.) Fr., 1848 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mykologische Hefte (Leipzig) 2: 53 (1823)
+Fung. Natal. 32 (1848)
 
 #### Original name
 Sphaeria proboscidea Kunze, 1823

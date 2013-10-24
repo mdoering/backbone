@@ -1,5 +1,4 @@
-Stylonychia sphagni SPECIES
-=======
+# Stylonychia sphagni SPECIES
 
 #### Status
 ACCEPTED

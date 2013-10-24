@@ -1,5 +1,4 @@
-Cladonia pumila Ahti SPECIES
-=======
+# Cladonia pumila Ahti SPECIES
 
 #### Status
 ACCEPTED

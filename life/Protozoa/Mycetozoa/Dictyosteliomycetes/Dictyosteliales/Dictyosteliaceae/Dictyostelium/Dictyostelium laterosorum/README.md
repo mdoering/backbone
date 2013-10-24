@@ -1,5 +1,4 @@
-Dictyostelium laterosorum Cavender, 1970 SPECIES
-=======
+# Dictyostelium laterosorum Cavender, 1970 SPECIES
 
 #### Status
 ACCEPTED

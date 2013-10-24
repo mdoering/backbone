@@ -1,5 +1,4 @@
-Porina macrospora (Müll. Arg.) F. Schill. SPECIES
-=======
+# Porina macrospora (Müll. Arg.) F. Schill. SPECIES
 
 #### Status
 ACCEPTED

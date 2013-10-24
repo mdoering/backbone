@@ -1,5 +1,4 @@
-Hypocrea pezizoides Berk. & Broome, 1873 SPECIES
-=======
+# Hypocrea pezizoides Berk. & Broome, 1873 SPECIES
 
 #### Status
 ACCEPTED

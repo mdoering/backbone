@@ -1,5 +1,4 @@
-Polyporus laxus G.H. Otth SPECIES
-=======
+# Polyporus laxus G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

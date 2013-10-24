@@ -1,5 +1,4 @@
-Hypholoma atrichum (Berk.) SPECIES
-=======
+# Hypholoma atrichum (Berk.) SPECIES
 
 #### Status
 ACCEPTED

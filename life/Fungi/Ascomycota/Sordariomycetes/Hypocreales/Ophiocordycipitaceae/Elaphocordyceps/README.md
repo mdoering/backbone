@@ -1,5 +1,4 @@
-Elaphocordyceps G.H. Sung & Spatafora GENUS
-=======
+# Elaphocordyceps G.H. Sung & Spatafora GENUS
 
 #### Status
 ACCEPTED

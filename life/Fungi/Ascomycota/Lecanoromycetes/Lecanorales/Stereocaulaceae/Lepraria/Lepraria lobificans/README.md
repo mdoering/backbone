@@ -1,17 +1,16 @@
-Crocynia mollissima B. de Lesd. SPECIES
-=======
+# Lepraria lobificans Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 71: 332 (1924)
+Flora, Jena 56: 196 (1873)
 
 #### Original name
-Crocynia mollissima B. de Lesd.
+Lepraria lobificans Nyl.
 
 ### Remarks
 null

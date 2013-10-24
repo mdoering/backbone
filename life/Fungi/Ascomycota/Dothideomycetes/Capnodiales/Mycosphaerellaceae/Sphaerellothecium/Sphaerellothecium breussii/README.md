@@ -1,5 +1,4 @@
-Sphaerellothecium breussii K. Knudsen, Kocourk. & Etayo, 2009 SPECIES
-=======
+# Sphaerellothecium breussii K. Knudsen, Kocourk. & Etayo, 2009 SPECIES
 
 #### Status
 ACCEPTED

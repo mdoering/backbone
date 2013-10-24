@@ -1,5 +1,4 @@
-Coryneum acerinum Bäumler SPECIES
-=======
+# Coryneum acerinum Bäumler SPECIES
 
 #### Status
 ACCEPTED

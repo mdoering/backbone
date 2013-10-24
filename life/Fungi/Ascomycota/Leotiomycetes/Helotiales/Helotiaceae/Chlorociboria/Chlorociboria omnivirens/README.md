@@ -1,14 +1,13 @@
-Peziza omnivirens Berk. SPECIES
-=======
+# Chlorociboria omnivirens (Berk.) J.R. Dixon, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 1(3): 216 (1975)
 
 #### Original name
 Peziza omnivirens Berk.

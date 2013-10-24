@@ -1,5 +1,4 @@
-Streptomyces griseinus Waksman, 1959 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces griseinus Waksman, 1959 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyota tenera (J. Agardh) I. Hörnig, R. Schnetter & W.F. Prud'homme van Reine SPECIES
-=======
+# Dictyota tenera (J. Agardh) I. Hörnig, R. Schnetter & W.F. Prud'homme van Reine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia mori Kalchbr. SPECIES
-=======
+# Hendersonia mori Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

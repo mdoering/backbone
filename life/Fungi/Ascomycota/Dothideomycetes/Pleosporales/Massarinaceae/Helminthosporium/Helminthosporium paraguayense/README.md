@@ -1,5 +1,4 @@
-Helminthosporium paraguayense Speg. SPECIES
-=======
+# Helminthosporium paraguayense Speg. SPECIES
 
 #### Status
 ACCEPTED

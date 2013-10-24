@@ -1,5 +1,4 @@
-Ustilago concelata Zundel SPECIES
-=======
+# Ustilago concelata Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aeromicrobium Miller et al., 1991 GENUS
-=======
+# Aeromicrobium Miller et al., 1991 GENUS
 
 #### Status
 ACCEPTED

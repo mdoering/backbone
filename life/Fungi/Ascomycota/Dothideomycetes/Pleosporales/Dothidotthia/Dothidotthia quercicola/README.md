@@ -1,5 +1,4 @@
-Dothidotthia quercicola (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Dothidotthia quercicola (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

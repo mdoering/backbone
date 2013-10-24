@@ -1,5 +1,4 @@
-Arthonia chroolepida Nyl. SPECIES
-=======
+# Arthonia chroolepida Nyl. SPECIES
 
 #### Status
 ACCEPTED

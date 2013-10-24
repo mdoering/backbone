@@ -1,5 +1,4 @@
-Corythionella sudzukii Chardez, 1977 SPECIES
-=======
+# Corythionella sudzukii Chardez, 1977 SPECIES
 
 #### Status
 ACCEPTED

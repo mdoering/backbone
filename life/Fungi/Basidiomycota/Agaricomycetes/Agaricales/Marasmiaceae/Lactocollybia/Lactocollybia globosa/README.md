@@ -1,5 +1,4 @@
-Lactocollybia globosa D.A. Reid & Eicker, 1998 SPECIES
-=======
+# Lactocollybia globosa D.A. Reid & Eicker, 1998 SPECIES
 
 #### Status
 ACCEPTED

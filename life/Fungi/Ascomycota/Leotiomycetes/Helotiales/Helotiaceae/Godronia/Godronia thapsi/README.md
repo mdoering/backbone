@@ -1,5 +1,4 @@
-Godronia thapsi (Saut.) Sacc. SPECIES
-=======
+# Godronia thapsi (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

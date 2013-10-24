@@ -1,5 +1,4 @@
-Polycauliona sparsa C.W. Dodge & G.E. Baker SPECIES
-=======
+# Polycauliona sparsa C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

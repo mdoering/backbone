@@ -1,5 +1,4 @@
-Cercospora phyllanthicola S.A. Khan & M. Kamal SPECIES
-=======
+# Cercospora phyllanthicola S.A. Khan & M. Kamal SPECIES
 
 #### Status
 ACCEPTED

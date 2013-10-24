@@ -1,5 +1,4 @@
-Trichothelium rhaphidospermum (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Trichothelium rhaphidospermum (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

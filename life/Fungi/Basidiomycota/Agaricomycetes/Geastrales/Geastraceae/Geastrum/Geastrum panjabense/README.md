@@ -1,5 +1,4 @@
-Geastrum panjabense S. Ahmad SPECIES
-=======
+# Geastrum panjabense S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

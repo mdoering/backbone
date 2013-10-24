@@ -1,5 +1,4 @@
-Pseudoclitocybe martipanis Singer SPECIES
-=======
+# Pseudoclitocybe martipanis Singer SPECIES
 
 #### Status
 ACCEPTED

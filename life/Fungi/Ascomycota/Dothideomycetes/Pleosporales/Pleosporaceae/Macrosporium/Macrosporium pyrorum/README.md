@@ -1,5 +1,4 @@
-Macrosporium pyrorum Cooke SPECIES
-=======
+# Macrosporium pyrorum Cooke SPECIES
 
 #### Status
 ACCEPTED

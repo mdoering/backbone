@@ -1,5 +1,4 @@
-Asteromella aesculicarpa Cooke & Massee SPECIES
-=======
+# Asteromella aesculicarpa Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

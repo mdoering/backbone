@@ -1,17 +1,16 @@
-Vararia firma subsp. firma SUBSPECIES
-=======
+# Vararia firma Boidin, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Cahiers de La Maboké 5(1): 27 (1967)
 
 #### Original name
-Vararia firma subsp. firma
+Vararia firma Boidin, 1967
 
 ### Remarks
 null

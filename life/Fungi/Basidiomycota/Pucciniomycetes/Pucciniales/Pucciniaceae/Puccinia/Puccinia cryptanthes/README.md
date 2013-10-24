@@ -1,5 +1,4 @@
-Puccinia cryptanthes Dietel & Holw. SPECIES
-=======
+# Puccinia cryptanthes Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

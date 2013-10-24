@@ -1,5 +1,4 @@
-Anthostomella kapitiae Whitton, K.D. Hyde & McKenzie, 2000 SPECIES
-=======
+# Anthostomella kapitiae Whitton, K.D. Hyde & McKenzie, 2000 SPECIES
 
 #### Status
 ACCEPTED

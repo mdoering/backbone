@@ -1,5 +1,4 @@
-Didymella acutata Syd. & P. Syd. SPECIES
-=======
+# Didymella acutata Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

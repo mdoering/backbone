@@ -1,5 +1,4 @@
-Polystictus striatus (J.M. Hook) Berk. SPECIES
-=======
+# Polystictus striatus (J.M. Hook) Berk. SPECIES
 
 #### Status
 ACCEPTED

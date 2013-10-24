@@ -1,5 +1,4 @@
-Sporidesmium congestum Preuss SPECIES
-=======
+# Sporidesmium congestum Preuss SPECIES
 
 #### Status
 ACCEPTED

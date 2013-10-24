@@ -1,5 +1,4 @@
-Thailandina Toriyama & Kanmera, 1968 GENUS
-=======
+# Thailandina Toriyama & Kanmera, 1968 GENUS
 
 #### Status
 ACCEPTED

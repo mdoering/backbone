@@ -1,5 +1,4 @@
-Buellia hemispherica S.R. Singh & D.D. Awasthi SPECIES
-=======
+# Buellia hemispherica S.R. Singh & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

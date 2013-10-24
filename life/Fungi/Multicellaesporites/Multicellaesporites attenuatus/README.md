@@ -1,5 +1,4 @@
-Multicellaesporites attenuatus Sheffy & Dilcher SPECIES
-=======
+# Multicellaesporites attenuatus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

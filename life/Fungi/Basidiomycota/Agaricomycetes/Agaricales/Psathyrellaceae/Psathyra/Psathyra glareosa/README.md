@@ -1,5 +1,4 @@
-Psathyra glareosa (Berk. & Broome) Sacc. SPECIES
-=======
+# Psathyra glareosa (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

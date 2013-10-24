@@ -1,5 +1,4 @@
-Tresarcus suecicus Tropepi & Ribecai, 2000 SPECIES
-=======
+# Tresarcus suecicus Tropepi & Ribecai, 2000 SPECIES
 
 #### Status
 ACCEPTED

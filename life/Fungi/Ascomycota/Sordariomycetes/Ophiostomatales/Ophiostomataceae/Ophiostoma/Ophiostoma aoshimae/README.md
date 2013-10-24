@@ -1,5 +1,4 @@
-Ophiostoma aoshimae Ohtaka, Masuya & Yamaoka SPECIES
-=======
+# Ophiostoma aoshimae Ohtaka, Masuya & Yamaoka SPECIES
 
 #### Status
 ACCEPTED

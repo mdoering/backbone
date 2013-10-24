@@ -1,5 +1,4 @@
-Cercosporidium flemingiae X.J. Liu & Y.L. Guo SPECIES
-=======
+# Cercosporidium flemingiae X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

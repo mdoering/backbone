@@ -1,5 +1,4 @@
-Gamosporella hysterioides Speg. SPECIES
-=======
+# Gamosporella hysterioides Speg. SPECIES
 
 #### Status
 ACCEPTED

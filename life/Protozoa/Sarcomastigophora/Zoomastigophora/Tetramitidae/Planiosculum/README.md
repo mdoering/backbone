@@ -1,5 +1,4 @@
-Planiosculum A. Szabados, 1948 GENUS
-=======
+# Planiosculum A. Szabados, 1948 GENUS
 
 #### Status
 ACCEPTED

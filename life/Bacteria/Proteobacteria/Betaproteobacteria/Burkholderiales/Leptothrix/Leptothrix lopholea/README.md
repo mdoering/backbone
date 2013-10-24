@@ -1,5 +1,4 @@
-Leptothrix lopholea Dorff, 1934 (Approved Lists, 1980) SPECIES
-=======
+# Leptothrix lopholea Dorff, 1934 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

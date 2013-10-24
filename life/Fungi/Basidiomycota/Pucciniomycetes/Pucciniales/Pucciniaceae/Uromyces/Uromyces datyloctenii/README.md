@@ -1,5 +1,4 @@
-Uromyces datyloctenii Wakef. & Hansf. SPECIES
-=======
+# Uromyces datyloctenii Wakef. & Hansf. SPECIES
 
 #### Status
 ACCEPTED

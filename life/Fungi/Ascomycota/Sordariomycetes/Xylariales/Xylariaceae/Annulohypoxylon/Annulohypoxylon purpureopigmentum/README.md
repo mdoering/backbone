@@ -1,5 +1,4 @@
-Annulohypoxylon purpureopigmentum Jad. Pereira, J.D. Rogers & J.L. Bezerra, 2010 SPECIES
-=======
+# Annulohypoxylon purpureopigmentum Jad. Pereira, J.D. Rogers & J.L. Bezerra, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorina trachonoides (Nyl.) Jatta SPECIES
-=======
+# Biatorina trachonoides (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

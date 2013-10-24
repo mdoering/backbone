@@ -1,5 +1,4 @@
-Vasichona paguri Jankowski, 1972 SPECIES
-=======
+# Vasichona paguri Jankowski, 1972 SPECIES
 
 #### Status
 ACCEPTED

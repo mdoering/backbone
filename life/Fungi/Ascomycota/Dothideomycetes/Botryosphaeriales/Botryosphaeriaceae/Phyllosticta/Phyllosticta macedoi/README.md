@@ -1,5 +1,4 @@
-Phyllosticta macedoi Gonz. Frag. SPECIES
-=======
+# Phyllosticta macedoi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fuscopannaria sampaiana (Tav.) P. M. Jørg. SPECIES
-=======
+# Fuscopannaria sampaiana (Tav.) P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

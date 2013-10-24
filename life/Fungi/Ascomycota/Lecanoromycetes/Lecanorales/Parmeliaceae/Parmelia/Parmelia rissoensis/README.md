@@ -1,5 +1,4 @@
-Parmelia rissoensis Lynge SPECIES
-=======
+# Parmelia rissoensis Lynge SPECIES
 
 #### Status
 ACCEPTED

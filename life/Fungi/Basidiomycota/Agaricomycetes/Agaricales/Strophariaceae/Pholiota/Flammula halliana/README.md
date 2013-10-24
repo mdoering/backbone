@@ -1,5 +1,4 @@
-Flammula halliana Peck SPECIES
-=======
+# Flammula halliana Peck SPECIES
 
 #### Status
 ACCEPTED

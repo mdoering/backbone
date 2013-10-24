@@ -1,5 +1,4 @@
-Homalozoonidae Jankowski, 1980 FAMILY
-=======
+# Homalozoonidae Jankowski, 1980 FAMILY
 
 #### Status
 ACCEPTED

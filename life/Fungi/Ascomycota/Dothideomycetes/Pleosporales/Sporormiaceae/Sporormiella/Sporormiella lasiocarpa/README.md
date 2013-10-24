@@ -1,5 +1,4 @@
-Sporormiella lasiocarpa Lorenzo SPECIES
-=======
+# Sporormiella lasiocarpa Lorenzo SPECIES
 
 #### Status
 ACCEPTED

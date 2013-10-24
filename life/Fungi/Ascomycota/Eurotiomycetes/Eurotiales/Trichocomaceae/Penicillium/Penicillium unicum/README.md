@@ -1,5 +1,4 @@
-Penicillium unicum Tzean, J.L. Chen & Shiu SPECIES
-=======
+# Penicillium unicum Tzean, J.L. Chen & Shiu SPECIES
 
 #### Status
 ACCEPTED

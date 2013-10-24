@@ -1,5 +1,4 @@
-Catillaria malmeana Zahlbr. SPECIES
-=======
+# Catillaria malmeana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

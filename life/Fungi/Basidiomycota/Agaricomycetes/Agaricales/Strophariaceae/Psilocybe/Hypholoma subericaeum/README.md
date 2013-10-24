@@ -1,17 +1,16 @@
-Psilocybe dichroa var. dichroa VARIETY
-=======
+# Hypholoma subericaeum (Fr.) Kühner, 1936 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 52: 27 (1936)
 
 #### Original name
-Agaricus dichrous Pers., 1801
+Agaricus subericaeus Fr., 1884
 
 ### Remarks
 null

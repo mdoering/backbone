@@ -1,14 +1,13 @@
-Galerina bryogena (E. Horak) E. Horak, 1988 SPECIES
-=======
+# Neopaxillus bryogenus E. Horak, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 40: 79 (1988)
+Fl. criptog. Tierra del Fuego 11(6): 47 (1980)
 
 #### Original name
 Neopaxillus bryogenus E. Horak, 1980

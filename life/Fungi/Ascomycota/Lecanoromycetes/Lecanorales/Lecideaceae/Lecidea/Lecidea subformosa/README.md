@@ -1,5 +1,4 @@
-Lecidea subformosa SPECIES
-=======
+# Lecidea subformosa SPECIES
 
 #### Status
 ACCEPTED

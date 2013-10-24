@@ -1,5 +1,4 @@
-Opercularia microsdiscum SPECIES
-=======
+# Opercularia microsdiscum SPECIES
 
 #### Status
 ACCEPTED

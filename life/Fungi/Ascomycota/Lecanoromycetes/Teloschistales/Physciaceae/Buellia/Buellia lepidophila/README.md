@@ -1,5 +1,4 @@
-Buellia lepidophila (Anzi) Jatta SPECIES
-=======
+# Buellia lepidophila (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

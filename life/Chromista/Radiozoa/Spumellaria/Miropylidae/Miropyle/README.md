@@ -1,5 +1,4 @@
-Miropyle Dumitrica, 1988 GENUS
-=======
+# Miropyle Dumitrica, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta patula Delise SPECIES
-=======
+# Sticta patula Delise SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scytonema obscurum Hansgirg SPECIES
-=======
+# Scytonema obscurum Hansgirg SPECIES
 
 #### Status
 ACCEPTED

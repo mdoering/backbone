@@ -1,5 +1,4 @@
-Ramularia campanulae-barbatae Jaap & J. Lindau SPECIES
-=======
+# Ramularia campanulae-barbatae Jaap & J. Lindau SPECIES
 
 #### Status
 ACCEPTED

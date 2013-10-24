@@ -1,5 +1,4 @@
-Martinottiella pallida SPECIES
-=======
+# Martinottiella pallida SPECIES
 
 #### Status
 ACCEPTED

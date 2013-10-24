@@ -1,5 +1,4 @@
-Puccinia toddaliae Henn. SPECIES
-=======
+# Puccinia toddaliae Henn. SPECIES
 
 #### Status
 ACCEPTED

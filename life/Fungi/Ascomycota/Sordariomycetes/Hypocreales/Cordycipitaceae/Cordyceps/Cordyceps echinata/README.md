@@ -1,5 +1,4 @@
-Cordyceps echinata Lév. SPECIES
-=======
+# Cordyceps echinata Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleosphaerulina phragmitis Rehm SPECIES
-=======
+# Pleosphaerulina phragmitis Rehm SPECIES
 
 #### Status
 ACCEPTED

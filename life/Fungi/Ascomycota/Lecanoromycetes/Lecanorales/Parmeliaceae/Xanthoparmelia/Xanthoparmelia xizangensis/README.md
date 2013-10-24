@@ -1,5 +1,4 @@
-Xanthoparmelia xizangensis (J. C. Wei) Hale SPECIES
-=======
+# Xanthoparmelia xizangensis (J. C. Wei) Hale SPECIES
 
 #### Status
 ACCEPTED

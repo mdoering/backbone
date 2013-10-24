@@ -1,5 +1,4 @@
-Textulariellidae Gronhagen & Luterbacher, 1966 FAMILY
-=======
+# Textulariellidae Gronhagen & Luterbacher, 1966 FAMILY
 
 #### Status
 ACCEPTED

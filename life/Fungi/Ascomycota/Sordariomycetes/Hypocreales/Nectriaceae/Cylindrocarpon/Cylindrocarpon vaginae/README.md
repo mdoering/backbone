@@ -1,5 +1,4 @@
-Cylindrocarpon vaginae C. Booth, Y.M. Clayton & Usherw., 1985 SPECIES
-=======
+# Cylindrocarpon vaginae C. Booth, Y.M. Clayton & Usherw., 1985 SPECIES
 
 #### Status
 ACCEPTED

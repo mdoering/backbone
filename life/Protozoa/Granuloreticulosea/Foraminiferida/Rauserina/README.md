@@ -1,5 +1,4 @@
-Rauserina GENUS
-=======
+# Rauserina GENUS
 
 #### Status
 ACCEPTED

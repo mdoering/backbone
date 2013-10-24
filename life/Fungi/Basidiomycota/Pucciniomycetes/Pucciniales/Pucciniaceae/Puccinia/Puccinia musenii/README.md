@@ -1,5 +1,4 @@
-Puccinia musenii Ellis & Everh. SPECIES
-=======
+# Puccinia musenii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

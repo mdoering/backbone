@@ -1,5 +1,4 @@
-Asterinella ixoricola S. Hughes SPECIES
-=======
+# Asterinella ixoricola S. Hughes SPECIES
 
 #### Status
 ACCEPTED

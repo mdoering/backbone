@@ -1,5 +1,4 @@
-Ceratostomella maderensis Petr. SPECIES
-=======
+# Ceratostomella maderensis Petr. SPECIES
 
 #### Status
 ACCEPTED

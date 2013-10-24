@@ -1,5 +1,4 @@
-Cladonia subnemoxyna Sandst. ex Zahlbr. SPECIES
-=======
+# Cladonia subnemoxyna Sandst. ex Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

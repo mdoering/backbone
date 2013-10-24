@@ -1,5 +1,4 @@
-Sciniatosporium ellisii (M.B. Ellis) Morgan-Jones SPECIES
-=======
+# Sciniatosporium ellisii (M.B. Ellis) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia lesothensis Essl. SPECIES
-=======
+# Parmelia lesothensis Essl. SPECIES
 
 #### Status
 ACCEPTED

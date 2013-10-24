@@ -1,5 +1,4 @@
-Pyrrhoglossum viriditinctum E. Horak, 1989 SPECIES
-=======
+# Pyrrhoglossum viriditinctum E. Horak, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massarina leucosarca (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Massarina leucosarca (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

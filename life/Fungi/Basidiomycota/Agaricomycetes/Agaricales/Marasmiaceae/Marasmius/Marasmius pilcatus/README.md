@@ -1,5 +1,4 @@
-Marasmius pilcatus Hakker SPECIES
-=======
+# Marasmius pilcatus Hakker SPECIES
 
 #### Status
 ACCEPTED

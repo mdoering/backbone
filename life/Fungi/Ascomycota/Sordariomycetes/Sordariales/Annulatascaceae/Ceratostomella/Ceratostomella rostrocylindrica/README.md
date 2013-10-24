@@ -1,5 +1,4 @@
-Ceratostomella rostrocylindrica R.W. Davidson SPECIES
-=======
+# Ceratostomella rostrocylindrica R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea kittilensis Vain. SPECIES
-=======
+# Lecidea kittilensis Vain. SPECIES
 
 #### Status
 ACCEPTED

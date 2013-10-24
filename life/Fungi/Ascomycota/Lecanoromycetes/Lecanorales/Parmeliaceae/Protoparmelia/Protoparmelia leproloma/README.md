@@ -1,5 +1,4 @@
-Protoparmelia leproloma (R. Sant.) Rambold & Poelt SPECIES
-=======
+# Protoparmelia leproloma (R. Sant.) Rambold & Poelt SPECIES
 
 #### Status
 ACCEPTED

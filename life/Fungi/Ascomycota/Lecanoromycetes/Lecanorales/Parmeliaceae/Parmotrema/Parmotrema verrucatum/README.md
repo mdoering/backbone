@@ -1,5 +1,4 @@
-Parmotrema verrucatum Louwhoff & Elix SPECIES
-=======
+# Parmotrema verrucatum Louwhoff & Elix SPECIES
 
 #### Status
 ACCEPTED

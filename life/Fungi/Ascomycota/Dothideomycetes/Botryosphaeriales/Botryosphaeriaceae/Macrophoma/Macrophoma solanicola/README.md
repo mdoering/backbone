@@ -1,5 +1,4 @@
-Macrophoma solanicola Sousa da Câmara & Luz SPECIES
-=======
+# Macrophoma solanicola Sousa da Câmara & Luz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Fragilaria parasitica var. subconstricta Grunow in Van Heurck, 1881 VARIETY
-=======
+# Synedra parasitica (W. Smith) Hustedt, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

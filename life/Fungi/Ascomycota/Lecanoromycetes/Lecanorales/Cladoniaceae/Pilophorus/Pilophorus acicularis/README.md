@@ -1,17 +1,16 @@
-Pilophoron aciculare f. aciculare FORM
-=======
+# Pilophorus acicularis (Ach.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. natn. Sci. nat. math. Cherbourg 5: 96 (1857)
+null
 
 #### Original name
-Baeomyces acicularis Ach.
+null
 
 ### Remarks
 null

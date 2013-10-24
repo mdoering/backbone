@@ -1,17 +1,16 @@
-Gyalecta truncigena var. truncigena VARIETY
-=======
+# Gyalecta truncigena (Ach.) Hepp SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flecht. Eur. no. 27 (1853)
 
 #### Original name
-Gyalecta truncigena var. truncigena
+Gyalecta truncigena (Ach.) Hepp
 
 ### Remarks
 null

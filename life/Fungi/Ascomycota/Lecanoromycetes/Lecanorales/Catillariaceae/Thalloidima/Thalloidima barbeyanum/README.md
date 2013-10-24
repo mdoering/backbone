@@ -1,5 +1,4 @@
-Thalloidima barbeyanum Müll. Arg. SPECIES
-=======
+# Thalloidima barbeyanum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvella alpestris Boud. SPECIES
-=======
+# Helvella alpestris Boud. SPECIES
 
 #### Status
 ACCEPTED

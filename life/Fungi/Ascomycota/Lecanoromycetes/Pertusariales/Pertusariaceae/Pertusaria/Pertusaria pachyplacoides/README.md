@@ -1,5 +1,4 @@
-Pertusaria pachyplacoides Räsänen SPECIES
-=======
+# Pertusaria pachyplacoides Räsänen SPECIES
 
 #### Status
 ACCEPTED

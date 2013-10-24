@@ -1,5 +1,4 @@
-Chaenotheca obscurata (Nyl.) Zahlbr. SPECIES
-=======
+# Chaenotheca obscurata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

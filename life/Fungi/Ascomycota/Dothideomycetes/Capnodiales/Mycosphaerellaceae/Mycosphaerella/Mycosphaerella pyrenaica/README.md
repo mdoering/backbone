@@ -1,5 +1,4 @@
-Mycosphaerella pyrenaica (Speg.) Arx SPECIES
-=======
+# Mycosphaerella pyrenaica (Speg.) Arx SPECIES
 
 #### Status
 ACCEPTED

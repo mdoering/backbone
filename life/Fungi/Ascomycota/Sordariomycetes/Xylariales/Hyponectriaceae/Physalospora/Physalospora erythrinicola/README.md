@@ -1,5 +1,4 @@
-Physalospora erythrinicola J.M. Yen SPECIES
-=======
+# Physalospora erythrinicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

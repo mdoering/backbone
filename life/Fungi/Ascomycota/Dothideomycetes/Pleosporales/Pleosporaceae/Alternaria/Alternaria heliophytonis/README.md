@@ -1,5 +1,4 @@
-Alternaria heliophytonis E.G. Simmons SPECIES
-=======
+# Alternaria heliophytonis E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma pustulatum Velen. SPECIES
-=======
+# Entoloma pustulatum Velen. SPECIES
 
 #### Status
 ACCEPTED

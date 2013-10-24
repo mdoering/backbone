@@ -1,5 +1,4 @@
-Leptosphaeria anthostomella Speg. SPECIES
-=======
+# Leptosphaeria anthostomella Speg. SPECIES
 
 #### Status
 ACCEPTED

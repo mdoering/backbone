@@ -1,5 +1,4 @@
-Peridinium novascotiense Gran & Braarud, 1935 SPECIES
-=======
+# Peridinium novascotiense Gran & Braarud, 1935 SPECIES
 
 #### Status
 ACCEPTED

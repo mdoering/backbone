@@ -1,5 +1,4 @@
-Myriotrema grandisporum Homchant. & Coppins SPECIES
-=======
+# Myriotrema grandisporum Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

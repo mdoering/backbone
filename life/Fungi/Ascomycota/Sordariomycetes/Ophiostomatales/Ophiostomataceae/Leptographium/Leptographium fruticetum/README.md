@@ -1,5 +1,4 @@
-Leptographium fruticetum Alamouti, J.J. Kim & C. Breuil SPECIES
-=======
+# Leptographium fruticetum Alamouti, J.J. Kim & C. Breuil SPECIES
 
 #### Status
 ACCEPTED

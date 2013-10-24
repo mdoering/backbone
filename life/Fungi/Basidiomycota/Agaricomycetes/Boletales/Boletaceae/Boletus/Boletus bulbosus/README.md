@@ -1,5 +1,4 @@
-Boletus bulbosus Schaeff. SPECIES
-=======
+# Boletus bulbosus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

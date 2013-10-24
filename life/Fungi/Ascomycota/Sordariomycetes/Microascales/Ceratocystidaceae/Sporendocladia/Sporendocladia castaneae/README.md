@@ -1,5 +1,4 @@
-Sporendocladia castaneae G. Arnaud ex Nag Raj & W.B. Kendr., 1975 SPECIES
-=======
+# Sporendocladia castaneae G. Arnaud ex Nag Raj & W.B. Kendr., 1975 SPECIES
 
 #### Status
 ACCEPTED

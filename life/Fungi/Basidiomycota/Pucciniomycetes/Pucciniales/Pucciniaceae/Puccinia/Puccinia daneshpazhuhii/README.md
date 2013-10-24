@@ -1,5 +1,4 @@
-Puccinia daneshpazhuhii Ershad, Abbasi & Gjaerum SPECIES
-=======
+# Puccinia daneshpazhuhii Ershad, Abbasi & Gjaerum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago dregeana Tul. & C. Tul. SPECIES
-=======
+# Ustilago dregeana Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

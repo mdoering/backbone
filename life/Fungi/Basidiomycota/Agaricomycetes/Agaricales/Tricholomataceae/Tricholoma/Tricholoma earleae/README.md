@@ -1,5 +1,4 @@
-Tricholoma earleae (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma earleae (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

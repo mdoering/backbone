@@ -1,8 +1,7 @@
-Tubaria agrocybeoides Singer SPECIES
-=======
+# Tubaria agrocyboides Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tubaria agrocybeoides Singer
+Tubaria agrocyboides Singer
 
 ### Remarks
 null

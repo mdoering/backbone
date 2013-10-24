@@ -1,5 +1,4 @@
-Manorella Grice, 1948 GENUS
-=======
+# Manorella Grice, 1948 GENUS
 
 #### Status
 ACCEPTED

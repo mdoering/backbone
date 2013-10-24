@@ -1,5 +1,4 @@
-Peniophora cymosa D.P. Rogers & H.S. Jacks. SPECIES
-=======
+# Peniophora cymosa D.P. Rogers & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

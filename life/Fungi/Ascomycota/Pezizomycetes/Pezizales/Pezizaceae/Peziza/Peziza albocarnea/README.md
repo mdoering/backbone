@@ -1,5 +1,4 @@
-Peziza albocarnea P. Crouan & H. Crouan SPECIES
-=======
+# Peziza albocarnea P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

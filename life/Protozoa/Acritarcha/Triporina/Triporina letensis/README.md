@@ -1,5 +1,4 @@
-Triporina letensis Vavrdová, 1995 SPECIES
-=======
+# Triporina letensis Vavrdová, 1995 SPECIES
 
 #### Status
 ACCEPTED

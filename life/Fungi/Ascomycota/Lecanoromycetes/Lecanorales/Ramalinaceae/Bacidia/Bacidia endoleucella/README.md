@@ -1,5 +1,4 @@
-Bacidia endoleucella (Stizenb.) Zahlbr. SPECIES
-=======
+# Bacidia endoleucella (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta minutissima Pass. SPECIES
-=======
+# Ascochyta minutissima Pass. SPECIES
 
 #### Status
 ACCEPTED

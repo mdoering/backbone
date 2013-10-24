@@ -1,5 +1,4 @@
-Drosophila opaca Romagn. SPECIES
-=======
+# Drosophila opaca Romagn. SPECIES
 
 #### Status
 ACCEPTED

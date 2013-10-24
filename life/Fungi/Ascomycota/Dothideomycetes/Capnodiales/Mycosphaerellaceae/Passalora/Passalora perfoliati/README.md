@@ -1,14 +1,13 @@
-Cercospora perfoliati Ellis & Everh., 1889 SPECIES
-=======
+# Passalora perfoliati (Ellis & Everh.) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 71 (1889)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 314 (2003)
 
 #### Original name
 Cercospora perfoliati Ellis & Everh., 1889

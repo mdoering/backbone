@@ -1,17 +1,16 @@
-Cladonia thallostelides f. thallostelides FORM
-=======
+# Cladonia thallostelides SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Cladonia thallostelides f. thallostelides
+null
 
 ### Remarks
 null

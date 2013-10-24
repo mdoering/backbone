@@ -1,5 +1,4 @@
-Sphaerialea GENUS
-=======
+# Sphaerialea GENUS
 
 #### Status
 ACCEPTED

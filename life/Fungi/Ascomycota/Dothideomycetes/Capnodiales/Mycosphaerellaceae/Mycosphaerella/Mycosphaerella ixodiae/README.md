@@ -1,5 +1,4 @@
-Mycosphaerella ixodiae Hansf. SPECIES
-=======
+# Mycosphaerella ixodiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

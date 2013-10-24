@@ -1,5 +1,4 @@
-Cloaca GENUS
-=======
+# Cloaca GENUS
 
 #### Status
 ACCEPTED

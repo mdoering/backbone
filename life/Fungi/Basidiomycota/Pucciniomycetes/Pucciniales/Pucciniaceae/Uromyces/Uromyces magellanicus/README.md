@@ -1,5 +1,4 @@
-Uromyces magellanicus Speg. SPECIES
-=======
+# Uromyces magellanicus Speg. SPECIES
 
 #### Status
 ACCEPTED

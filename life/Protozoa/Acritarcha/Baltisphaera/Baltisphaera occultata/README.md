@@ -1,5 +1,4 @@
-Baltisphaera occultata Burmann, 1970 SPECIES
-=======
+# Baltisphaera occultata Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cricolithus scutulatus J.B. Risatti SPECIES
-=======
+# Cricolithus scutulatus J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

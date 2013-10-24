@@ -1,5 +1,4 @@
-Phyllohendersonia rhododendri (Thüm.) Tassi SPECIES
-=======
+# Phyllohendersonia rhododendri (Thüm.) Tassi SPECIES
 
 #### Status
 ACCEPTED

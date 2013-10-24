@@ -1,5 +1,4 @@
-Glomerella clusiae Syd. SPECIES
-=======
+# Glomerella clusiae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia perminuta var. perminuta VARIETY
-=======
+# Bacidia perminuta Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Acad. Sci. fenn. , Ser. A 15: 72 (1921)
 
 #### Original name
-Bacidia perminuta var. perminuta
+Bacidia perminuta Vain.
 
 ### Remarks
 null

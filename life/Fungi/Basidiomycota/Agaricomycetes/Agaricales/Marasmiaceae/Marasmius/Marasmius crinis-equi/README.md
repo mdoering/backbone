@@ -1,17 +1,16 @@
-Marasmius equicrinis var. equicrinis VARIETY
-=======
+# Marasmius crinis-equi F. Muell. ex Kalchbr., 1880 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 8(no. 48): 153 (1880)
+null
 
 #### Original name
-Marasmius equicrinis var. equicrinis
+Marasmius crinis-equi F. Muell. ex Kalchbr., 1880
 
 ### Remarks
 null

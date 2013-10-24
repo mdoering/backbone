@@ -1,5 +1,4 @@
-Lysospora GENUS
-=======
+# Lysospora GENUS
 
 #### Status
 ACCEPTED

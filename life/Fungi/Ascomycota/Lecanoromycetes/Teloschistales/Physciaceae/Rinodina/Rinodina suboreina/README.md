@@ -1,5 +1,4 @@
-Rinodina suboreina var. suboreina B. de Lesd. VARIETY
-=======
+# Rinodina suboreina B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rinodina suboreina var. suboreina B. de Lesd.
+Rinodina suboreina B. de Lesd.
 
 ### Remarks
 null

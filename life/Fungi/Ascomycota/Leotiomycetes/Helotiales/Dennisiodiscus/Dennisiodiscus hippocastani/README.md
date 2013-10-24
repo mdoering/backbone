@@ -1,5 +1,4 @@
-Dennisiodiscus hippocastani (Richon) Matheis SPECIES
-=======
+# Dennisiodiscus hippocastani (Richon) Matheis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza rubrofusca (Rehm) Sacc. & Trotter SPECIES
-=======
+# Peziza rubrofusca (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

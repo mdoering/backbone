@@ -1,5 +1,4 @@
-Jola javensis Pat. SPECIES
-=======
+# Jola javensis Pat. SPECIES
 
 #### Status
 ACCEPTED

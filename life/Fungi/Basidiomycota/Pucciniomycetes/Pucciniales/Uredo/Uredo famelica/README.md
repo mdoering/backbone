@@ -1,5 +1,4 @@
-Uredo famelica Arthur & Cummins SPECIES
-=======
+# Uredo famelica Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

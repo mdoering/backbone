@@ -1,5 +1,4 @@
-Sporotrichum parietinum Link SPECIES
-=======
+# Sporotrichum parietinum Link SPECIES
 
 #### Status
 ACCEPTED

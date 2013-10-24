@@ -1,5 +1,4 @@
-Vermilacinia pumila Spjut SPECIES
-=======
+# Vermilacinia pumila Spjut SPECIES
 
 #### Status
 ACCEPTED

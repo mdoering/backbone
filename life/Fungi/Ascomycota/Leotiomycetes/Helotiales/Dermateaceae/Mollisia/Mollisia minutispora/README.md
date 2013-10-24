@@ -1,5 +1,4 @@
-Mollisia minutispora Velen. SPECIES
-=======
+# Mollisia minutispora Velen. SPECIES
 
 #### Status
 ACCEPTED

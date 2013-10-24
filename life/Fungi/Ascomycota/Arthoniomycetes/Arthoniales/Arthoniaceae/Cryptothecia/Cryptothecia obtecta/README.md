@@ -1,5 +1,4 @@
-Cryptothecia obtecta Makhija & Patw. SPECIES
-=======
+# Cryptothecia obtecta Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

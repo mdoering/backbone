@@ -1,5 +1,4 @@
-Lepiota pardalota (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota pardalota (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

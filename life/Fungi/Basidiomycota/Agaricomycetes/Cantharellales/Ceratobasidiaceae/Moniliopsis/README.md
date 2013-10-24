@@ -1,5 +1,4 @@
-Moniliopsis GENUS
-=======
+# Moniliopsis GENUS
 
 #### Status
 ACCEPTED

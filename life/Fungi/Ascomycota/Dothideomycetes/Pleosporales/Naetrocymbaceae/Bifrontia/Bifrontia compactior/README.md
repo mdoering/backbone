@@ -1,5 +1,4 @@
-Bifrontia compactior Norman SPECIES
-=======
+# Bifrontia compactior Norman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalecta paraguayensis Malme SPECIES
-=======
+# Gyalecta paraguayensis Malme SPECIES
 
 #### Status
 ACCEPTED

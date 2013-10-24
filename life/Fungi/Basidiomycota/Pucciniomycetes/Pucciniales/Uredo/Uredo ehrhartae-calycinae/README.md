@@ -1,5 +1,4 @@
-Uredo ehrhartae-calycinae Doidge SPECIES
-=======
+# Uredo ehrhartae-calycinae Doidge SPECIES
 
 #### Status
 ACCEPTED

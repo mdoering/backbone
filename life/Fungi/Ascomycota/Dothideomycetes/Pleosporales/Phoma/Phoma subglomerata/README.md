@@ -1,17 +1,16 @@
-Peyronellaea subglomerata (Boerema, Gruyter & Noordel.) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Phoma subglomerata Boerema, Gruyter & Noordel., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 15(2): 204 (1993)
 
 #### Original name
-null
+Ascochyta trachelospermi Fabric., 1951
 
 ### Remarks
 null

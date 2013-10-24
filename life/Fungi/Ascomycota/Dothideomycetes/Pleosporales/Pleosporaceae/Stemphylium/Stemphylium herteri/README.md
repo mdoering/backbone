@@ -1,5 +1,4 @@
-Stemphylium herteri Speg. SPECIES
-=======
+# Stemphylium herteri Speg. SPECIES
 
 #### Status
 ACCEPTED

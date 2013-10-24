@@ -1,8 +1,7 @@
-Malcolmiella fellhaneroides Lücking SPECIES
-=======
+# Malmidea fellhaneroides (Lücking) Kalb & Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

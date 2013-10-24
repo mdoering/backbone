@@ -1,17 +1,16 @@
-Polyporus ochroleucus var. ochroleucus Berk. VARIETY
-=======
+# Perenniporia ochroleuca (Berk.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. Kew Gard. Misc. 4: 53 (1845)
+Norw. Jl Bot. 19: 233 (1972)
 
 #### Original name
-Polyporus ochroleucus var. ochroleucus Berk.
+Polyporus ochroleucus Berk., 1845
 
 ### Remarks
 null

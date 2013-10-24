@@ -1,5 +1,4 @@
-Lecidea cupulifera Nyl. SPECIES
-=======
+# Lecidea cupulifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

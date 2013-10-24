@@ -1,5 +1,4 @@
-Halosarpheia kandeliae Abdel-Wahab & E.B.G. Jones, 1999 SPECIES
-=======
+# Halosarpheia kandeliae Abdel-Wahab & E.B.G. Jones, 1999 SPECIES
 
 #### Status
 ACCEPTED

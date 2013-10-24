@@ -1,5 +1,4 @@
-Clitocybe herbarum Romagn. SPECIES
-=======
+# Clitocybe herbarum Romagn. SPECIES
 
 #### Status
 ACCEPTED

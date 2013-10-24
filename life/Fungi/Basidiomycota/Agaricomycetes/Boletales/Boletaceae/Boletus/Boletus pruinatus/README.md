@@ -1,17 +1,16 @@
-Boletellus pruinatus f. pruinatus (Fr. & Hök) Klofac & Krisai FORM
-=======
+# Boletus pruinatus Fr. & Hök, 1835 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öst. Z. Pilzk. 1: 43 (1992)
+Boleti, Fungorum generis, illustratio 9 (1835)
 
 #### Original name
-Boletellus pruinatus f. pruinatus (Fr. & Hök) Klofac & Krisai
+Boletus pruinatus Fr. & Hök, 1835
 
 ### Remarks
 null

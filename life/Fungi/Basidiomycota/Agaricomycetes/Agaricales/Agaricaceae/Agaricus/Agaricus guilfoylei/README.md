@@ -1,5 +1,4 @@
-Agaricus guilfoylei Berk. SPECIES
-=======
+# Agaricus guilfoylei Berk. SPECIES
 
 #### Status
 ACCEPTED

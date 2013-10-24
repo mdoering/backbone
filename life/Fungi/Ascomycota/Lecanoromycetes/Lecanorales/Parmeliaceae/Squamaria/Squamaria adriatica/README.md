@@ -1,5 +1,4 @@
-Squamaria adriatica (Zahlbr.) H. Olivier SPECIES
-=======
+# Squamaria adriatica (Zahlbr.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

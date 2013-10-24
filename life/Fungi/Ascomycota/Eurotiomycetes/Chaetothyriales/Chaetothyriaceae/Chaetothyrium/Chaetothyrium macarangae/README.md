@@ -1,5 +1,4 @@
-Chaetothyrium macarangae C. Moreau & Moreau SPECIES
-=======
+# Chaetothyrium macarangae C. Moreau & Moreau SPECIES
 
 #### Status
 ACCEPTED

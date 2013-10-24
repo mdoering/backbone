@@ -1,5 +1,4 @@
-Dothichiza pyrenophora Sacc. SPECIES
-=======
+# Dothichiza pyrenophora Sacc. SPECIES
 
 #### Status
 ACCEPTED

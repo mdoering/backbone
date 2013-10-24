@@ -1,5 +1,4 @@
-Agrocybe pallida (Murrill) Watling SPECIES
-=======
+# Agrocybe pallida (Murrill) Watling SPECIES
 
 #### Status
 ACCEPTED

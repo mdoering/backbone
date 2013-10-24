@@ -1,5 +1,4 @@
-Merulius capensis (Berk.) Kuntze SPECIES
-=======
+# Merulius capensis (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

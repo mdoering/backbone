@@ -1,5 +1,4 @@
-Coprinus flosculus Berk. SPECIES
-=======
+# Coprinus flosculus Berk. SPECIES
 
 #### Status
 ACCEPTED

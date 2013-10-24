@@ -1,14 +1,13 @@
-Baeomyces caespiticius Pers. SPECIES
-=======
+# Cladonia caespiticia (Pers.) Flörke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. (Usteri) 1: 19 (1794)
+null
 
 #### Original name
 Baeomyces caespiticius Pers.

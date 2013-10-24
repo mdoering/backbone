@@ -1,5 +1,4 @@
-Leptothyrium saccoglottidis Bat. & Nascim. SPECIES
-=======
+# Leptothyrium saccoglottidis Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

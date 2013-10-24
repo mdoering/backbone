@@ -1,5 +1,4 @@
-Cortinarius scaurotraganoides Rob. Henry ex Rob. Henry SPECIES
-=======
+# Cortinarius scaurotraganoides Rob. Henry ex Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectocarpus sonorensis E.Y. Dawson SPECIES
-=======
+# Ectocarpus sonorensis E.Y. Dawson SPECIES
 
 #### Status
 ACCEPTED

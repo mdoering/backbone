@@ -1,5 +1,4 @@
-Nectria meizospora (Rehm) Weese SPECIES
-=======
+# Nectria meizospora (Rehm) Weese SPECIES
 
 #### Status
 ACCEPTED

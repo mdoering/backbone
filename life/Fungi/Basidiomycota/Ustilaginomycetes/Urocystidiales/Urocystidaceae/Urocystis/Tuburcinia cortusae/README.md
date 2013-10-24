@@ -1,5 +1,4 @@
-Tuburcinia cortusae Liro SPECIES
-=======
+# Tuburcinia cortusae Liro SPECIES
 
 #### Status
 ACCEPTED

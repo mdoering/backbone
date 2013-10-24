@@ -1,5 +1,4 @@
-Grimontia Thompson et al., 2003 GENUS
-=======
+# Grimontia Thompson et al., 2003 GENUS
 
 #### Status
 ACCEPTED

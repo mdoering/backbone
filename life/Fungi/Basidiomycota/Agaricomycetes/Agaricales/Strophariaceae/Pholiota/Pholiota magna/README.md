@@ -1,5 +1,4 @@
-Pholiota magna Sacc. SPECIES
-=======
+# Pholiota magna Sacc. SPECIES
 
 #### Status
 ACCEPTED

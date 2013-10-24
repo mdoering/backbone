@@ -1,5 +1,4 @@
-Psoroma internectens I.M. Lamb SPECIES
-=======
+# Psoroma internectens I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

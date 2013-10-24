@@ -1,5 +1,4 @@
-Odontia barba-jovis SPECIES
-=======
+# Odontia barba-jovis SPECIES
 
 #### Status
 ACCEPTED

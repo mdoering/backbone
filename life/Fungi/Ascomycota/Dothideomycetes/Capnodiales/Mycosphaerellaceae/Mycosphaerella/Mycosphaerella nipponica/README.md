@@ -1,5 +1,4 @@
-Mycosphaerella nipponica Hara SPECIES
-=======
+# Mycosphaerella nipponica Hara SPECIES
 
 #### Status
 ACCEPTED

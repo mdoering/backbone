@@ -1,5 +1,4 @@
-Hendersonia corticalis Ellis & Everh. SPECIES
-=======
+# Hendersonia corticalis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

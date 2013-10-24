@@ -1,5 +1,4 @@
-Phoma myriocarpa Durieu & Mont. SPECIES
-=======
+# Phoma myriocarpa Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

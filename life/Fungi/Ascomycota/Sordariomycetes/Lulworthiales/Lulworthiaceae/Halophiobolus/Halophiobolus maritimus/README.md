@@ -1,5 +1,4 @@
-Halophiobolus maritimus (Sacc.) Linder SPECIES
-=======
+# Halophiobolus maritimus (Sacc.) Linder SPECIES
 
 #### Status
 ACCEPTED

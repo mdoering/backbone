@@ -1,5 +1,4 @@
-Ramichloridium amomi P.K. Chi & S.Q. Chen SPECIES
-=======
+# Ramichloridium amomi P.K. Chi & S.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

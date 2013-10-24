@@ -1,5 +1,4 @@
-Terana trivialis (Speg.) Kuntze SPECIES
-=======
+# Terana trivialis (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

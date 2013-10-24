@@ -1,17 +1,16 @@
-Oidium erythrinii Bagyan., Ravinder, Srinivasulu & P. Ramesh SPECIES
-=======
+# Oidium erythrinae Bagyan., Ravinder, Srinivasulu & P. Ramesh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Bot. Indica 24(1): 100 (1997)
 
 #### Original name
-Oidium erythrinii Bagyan., Ravinder, Srinivasulu & P. Ramesh
+Oidium erythrinae Bagyan., Ravinder, Srinivasulu & P. Ramesh
 
 ### Remarks
 null

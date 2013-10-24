@@ -1,5 +1,4 @@
-Cercosporella heterospora (Ellis & Everh.) U. Braun SPECIES
-=======
+# Cercosporella heterospora (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

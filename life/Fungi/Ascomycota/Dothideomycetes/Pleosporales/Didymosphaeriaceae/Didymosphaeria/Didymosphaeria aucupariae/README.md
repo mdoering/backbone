@@ -1,8 +1,7 @@
-Stigmatea sorbi Oudem., 1876 SPECIES
-=======
+# Didymosphaeria aucupariae (Plowr.) Oudem., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Sphaerella aucupariae (Lasch) Sacc., 1882
 
 ### Remarks
 null

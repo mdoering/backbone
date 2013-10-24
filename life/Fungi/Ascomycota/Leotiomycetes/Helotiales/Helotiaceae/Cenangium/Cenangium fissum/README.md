@@ -1,5 +1,4 @@
-Cenangium fissum (Wallr.) Rehm SPECIES
-=======
+# Cenangium fissum (Wallr.) Rehm SPECIES
 
 #### Status
 ACCEPTED

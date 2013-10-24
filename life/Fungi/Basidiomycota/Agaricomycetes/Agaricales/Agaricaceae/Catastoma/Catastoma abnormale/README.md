@@ -1,5 +1,4 @@
-Catastoma abnormale Lloyd SPECIES
-=======
+# Catastoma abnormale Lloyd SPECIES
 
 #### Status
 ACCEPTED

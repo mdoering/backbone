@@ -1,5 +1,4 @@
-Mucor decumanus Pall. SPECIES
-=======
+# Mucor decumanus Pall. SPECIES
 
 #### Status
 ACCEPTED

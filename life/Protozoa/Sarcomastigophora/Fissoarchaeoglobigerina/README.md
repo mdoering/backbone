@@ -1,5 +1,4 @@
-Fissoarchaeoglobigerina Abdel-Kireem, 1978 GENUS
-=======
+# Fissoarchaeoglobigerina Abdel-Kireem, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calocera hypnophila Saut. SPECIES
-=======
+# Calocera hypnophila Saut. SPECIES
 
 #### Status
 ACCEPTED

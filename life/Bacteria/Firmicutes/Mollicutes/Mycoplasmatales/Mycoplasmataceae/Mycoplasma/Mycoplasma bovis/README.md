@@ -1,11 +1,10 @@
-Mycoplasma bovimastitidis Jain et al., 1967 SPECIES
-=======
+# Mycoplasma bovis (Hale et al., 1962) Askaa and Erno, 1976 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

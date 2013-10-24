@@ -1,5 +1,4 @@
-Pluteus mammifer Romagn. SPECIES
-=======
+# Pluteus mammifer Romagn. SPECIES
 
 #### Status
 ACCEPTED

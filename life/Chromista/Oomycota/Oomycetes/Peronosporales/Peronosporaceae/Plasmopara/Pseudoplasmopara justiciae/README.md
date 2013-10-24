@@ -1,5 +1,4 @@
-Pseudoplasmopara justiciae Sawada SPECIES
-=======
+# Pseudoplasmopara justiciae Sawada SPECIES
 
 #### Status
 ACCEPTED

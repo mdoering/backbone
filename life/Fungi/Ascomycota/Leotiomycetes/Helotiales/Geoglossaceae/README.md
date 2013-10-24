@@ -1,5 +1,4 @@
-Geoglossaceae Corda FAMILY
-=======
+# Geoglossaceae Corda FAMILY
 
 #### Status
 ACCEPTED

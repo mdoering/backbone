@@ -1,5 +1,4 @@
-Parmelia formosa SPECIES
-=======
+# Parmelia formosa SPECIES
 
 #### Status
 ACCEPTED

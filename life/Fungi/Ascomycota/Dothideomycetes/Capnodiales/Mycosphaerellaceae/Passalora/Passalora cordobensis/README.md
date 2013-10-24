@@ -1,5 +1,4 @@
-Passalora cordobensis (Speg.) U. Braun SPECIES
-=======
+# Passalora cordobensis (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

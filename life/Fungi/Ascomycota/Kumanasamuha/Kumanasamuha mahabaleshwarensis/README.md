@@ -1,5 +1,4 @@
-Kumanasamuha mahabaleshwarensis Phadke SPECIES
-=======
+# Kumanasamuha mahabaleshwarensis Phadke SPECIES
 
 #### Status
 ACCEPTED

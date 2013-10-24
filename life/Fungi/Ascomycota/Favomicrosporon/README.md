@@ -1,5 +1,4 @@
-Favomicrosporon Benedek GENUS
-=======
+# Favomicrosporon Benedek GENUS
 
 #### Status
 ACCEPTED

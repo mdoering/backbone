@@ -1,5 +1,4 @@
-Aecidium cymbonoti Thüm. SPECIES
-=======
+# Aecidium cymbonoti Thüm. SPECIES
 
 #### Status
 ACCEPTED

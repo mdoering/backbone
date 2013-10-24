@@ -1,5 +1,4 @@
-Meliola bayamonensis var. bayamonensis VARIETY
-=======
+# Meliola bayamonensis Tehon SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bot. Gaz. 67: 506 (1919)
 
 #### Original name
-Meliola bayamonensis var. bayamonensis
+Meliola bayamonensis Tehon
 
 ### Remarks
 null

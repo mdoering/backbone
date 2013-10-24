@@ -1,5 +1,4 @@
-Galerina depressodisca V.L. Wells & Kempton SPECIES
-=======
+# Galerina depressodisca V.L. Wells & Kempton SPECIES
 
 #### Status
 ACCEPTED

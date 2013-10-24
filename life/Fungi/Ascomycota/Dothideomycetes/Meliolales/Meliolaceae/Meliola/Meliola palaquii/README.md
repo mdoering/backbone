@@ -1,5 +1,4 @@
-Meliola palaquii F. Stevens & Roldan SPECIES
-=======
+# Meliola palaquii F. Stevens & Roldan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhinocladiella rigidiphora Matsush. SPECIES
-=======
+# Rhinocladiella rigidiphora Matsush. SPECIES
 
 #### Status
 ACCEPTED

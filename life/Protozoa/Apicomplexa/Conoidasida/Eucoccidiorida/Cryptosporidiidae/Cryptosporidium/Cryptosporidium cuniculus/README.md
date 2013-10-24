@@ -1,5 +1,4 @@
-Cryptosporidium cuniculus Inman & Takeuchi, 1979 SPECIES
-=======
+# Cryptosporidium cuniculus Inman & Takeuchi, 1979 SPECIES
 
 #### Status
 ACCEPTED

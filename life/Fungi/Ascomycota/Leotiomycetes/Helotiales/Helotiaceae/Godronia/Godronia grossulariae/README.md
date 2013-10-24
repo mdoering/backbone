@@ -1,5 +1,4 @@
-Godronia grossulariae J.W. Groves SPECIES
-=======
+# Godronia grossulariae J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

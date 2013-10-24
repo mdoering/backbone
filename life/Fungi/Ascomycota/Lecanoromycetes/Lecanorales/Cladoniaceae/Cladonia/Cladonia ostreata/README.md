@@ -1,5 +1,4 @@
-Cladonia ostreata (Nyl.) Britzelm. SPECIES
-=======
+# Cladonia ostreata (Nyl.) Britzelm. SPECIES
 
 #### Status
 ACCEPTED

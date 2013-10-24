@@ -1,5 +1,4 @@
-Lecidea mattogrossensis Malme SPECIES
-=======
+# Lecidea mattogrossensis Malme SPECIES
 
 #### Status
 ACCEPTED

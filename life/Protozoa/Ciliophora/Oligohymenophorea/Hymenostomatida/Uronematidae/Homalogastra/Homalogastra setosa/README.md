@@ -1,5 +1,4 @@
-Homalogastra setosa Kahl, 1926 SPECIES
-=======
+# Homalogastra setosa Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

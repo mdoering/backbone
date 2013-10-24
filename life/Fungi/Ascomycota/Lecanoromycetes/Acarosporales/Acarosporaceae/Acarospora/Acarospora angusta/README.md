@@ -1,5 +1,4 @@
-Acarospora angusta H. Magn. SPECIES
-=======
+# Acarospora angusta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

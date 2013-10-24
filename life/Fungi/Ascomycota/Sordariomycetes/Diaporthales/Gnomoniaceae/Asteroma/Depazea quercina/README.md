@@ -1,5 +1,4 @@
-Depazea quercina Fr. SPECIES
-=======
+# Depazea quercina Fr. SPECIES
 
 #### Status
 ACCEPTED

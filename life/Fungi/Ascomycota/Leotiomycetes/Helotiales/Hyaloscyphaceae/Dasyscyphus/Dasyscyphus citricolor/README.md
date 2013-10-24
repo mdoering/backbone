@@ -1,8 +1,7 @@
-Dasyscypha citricolor (Berk. & Broome) Massee SPECIES
-=======
+# Dasyscyphus citricolor (Berk. & Broome) Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

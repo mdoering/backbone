@@ -1,5 +1,4 @@
-Septoria infuscata G. Winter SPECIES
-=======
+# Septoria infuscata G. Winter SPECIES
 
 #### Status
 ACCEPTED

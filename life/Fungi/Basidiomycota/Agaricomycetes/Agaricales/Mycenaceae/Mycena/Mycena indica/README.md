@@ -1,5 +1,4 @@
-Mycena indica Manim. & Leelav. SPECIES
-=======
+# Mycena indica Manim. & Leelav. SPECIES
 
 #### Status
 ACCEPTED

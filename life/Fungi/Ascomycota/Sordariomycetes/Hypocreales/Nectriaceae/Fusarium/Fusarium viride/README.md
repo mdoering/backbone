@@ -1,5 +1,4 @@
-Fusarium viride (Lechmere) Wollenw. SPECIES
-=======
+# Fusarium viride (Lechmere) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

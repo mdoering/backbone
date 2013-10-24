@@ -1,5 +1,4 @@
-Verrucaria fatrana Servít SPECIES
-=======
+# Verrucaria fatrana Servít SPECIES
 
 #### Status
 ACCEPTED

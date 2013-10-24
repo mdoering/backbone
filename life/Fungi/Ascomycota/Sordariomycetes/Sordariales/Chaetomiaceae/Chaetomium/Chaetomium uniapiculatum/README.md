@@ -1,17 +1,16 @@
-Chaetomium amygdalisporum var. amygdalisporum VARIETY
-=======
+# Chaetomium uniapiculatum (J.N. Rai & H.J. Chowdhery) Arx, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 22(1): 13 (1981)
+Proc. Indian Acad. Sci. , Pl. Sci. 94(2-3): 345 (1985)
 
 #### Original name
-Chaetomium amygdalisporum var. amygdalisporum
+Achaetomium uniapiculatum J.N. Rai & H.J. Chowdhery, 1971
 
 ### Remarks
 null

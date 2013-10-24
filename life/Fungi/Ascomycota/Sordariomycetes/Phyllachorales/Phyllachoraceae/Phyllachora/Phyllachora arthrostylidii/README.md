@@ -1,17 +1,16 @@
-Phyllachora portoricensis (Chardón) Orton, 1944 SPECIES
-=======
+# Phyllachora arthrostylidii Petr. & Cif., 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 36(1): 49 (1944)
+Annls mycol. 30(3/4): 232 (1932)
 
 #### Original name
-Sphaerodothis portoricensis Chardón, 1932
+Phyllachora arthrostylidii Petr. & Cif., 1932
 
 ### Remarks
 null

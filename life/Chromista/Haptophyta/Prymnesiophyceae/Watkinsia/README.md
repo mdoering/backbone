@@ -1,5 +1,4 @@
-Watkinsia Covington, 1994 GENUS
-=======
+# Watkinsia Covington, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia thiersii S. Hammer SPECIES
-=======
+# Cladonia thiersii S. Hammer SPECIES
 
 #### Status
 ACCEPTED

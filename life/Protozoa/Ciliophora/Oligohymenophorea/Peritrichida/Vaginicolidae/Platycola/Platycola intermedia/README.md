@@ -1,5 +1,4 @@
-Platycola intermedia (Maskell, 1887) Kahl, 1932 SPECIES
-=======
+# Platycola intermedia (Maskell, 1887) Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

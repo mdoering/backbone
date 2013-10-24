@@ -1,5 +1,4 @@
-Sphaeria callispora Duby SPECIES
-=======
+# Sphaeria callispora Duby SPECIES
 
 #### Status
 ACCEPTED

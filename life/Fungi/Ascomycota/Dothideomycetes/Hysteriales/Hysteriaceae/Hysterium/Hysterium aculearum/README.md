@@ -1,5 +1,4 @@
-Hysterium aculearum Fr. SPECIES
-=======
+# Hysterium aculearum Fr. SPECIES
 
 #### Status
 ACCEPTED

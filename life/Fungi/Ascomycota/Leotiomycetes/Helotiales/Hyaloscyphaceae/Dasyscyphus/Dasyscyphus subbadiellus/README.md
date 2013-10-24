@@ -1,8 +1,7 @@
-Dasyscypha subbadiellus Rehm SPECIES
-=======
+# Dasyscyphus subbadiellus Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha subbadiellus Rehm
+Dasyscyphus subbadiellus Rehm
 
 ### Remarks
 null

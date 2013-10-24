@@ -1,5 +1,4 @@
-Thaumasiomyces bipedalis Thaxt., 1931 SPECIES
-=======
+# Thaumasiomyces bipedalis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

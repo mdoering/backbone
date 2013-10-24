@@ -1,5 +1,4 @@
-Leptothyrium eupatorii anon. SPECIES
-=======
+# Leptothyrium eupatorii anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes circumstans Morgan SPECIES
-=======
+# Fomes circumstans Morgan SPECIES
 
 #### Status
 ACCEPTED

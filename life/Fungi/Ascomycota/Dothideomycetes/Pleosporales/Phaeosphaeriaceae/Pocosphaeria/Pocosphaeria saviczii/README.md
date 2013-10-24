@@ -1,5 +1,4 @@
-Pocosphaeria saviczii Gucevic SPECIES
-=======
+# Pocosphaeria saviczii Gucevic SPECIES
 
 #### Status
 ACCEPTED

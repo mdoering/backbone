@@ -1,5 +1,4 @@
-Sphaeria linnaeae Ehrenb. SPECIES
-=======
+# Sphaeria linnaeae Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

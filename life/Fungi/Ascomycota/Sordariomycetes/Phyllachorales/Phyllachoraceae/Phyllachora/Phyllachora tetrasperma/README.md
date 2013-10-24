@@ -1,5 +1,4 @@
-Phyllachora tetrasperma Sawada, 1952 SPECIES
-=======
+# Phyllachora tetrasperma Sawada, 1952 SPECIES
 
 #### Status
 ACCEPTED

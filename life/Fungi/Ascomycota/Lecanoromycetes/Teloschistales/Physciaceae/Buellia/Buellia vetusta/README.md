@@ -1,5 +1,4 @@
-Buellia vetusta SPECIES
-=======
+# Buellia vetusta SPECIES
 
 #### Status
 ACCEPTED

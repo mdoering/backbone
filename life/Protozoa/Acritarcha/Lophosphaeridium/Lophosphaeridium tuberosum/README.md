@@ -1,5 +1,4 @@
-Lophosphaeridium tuberosum Eiserhardt, 1991 SPECIES
-=======
+# Lophosphaeridium tuberosum Eiserhardt, 1991 SPECIES
 
 #### Status
 ACCEPTED

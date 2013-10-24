@@ -1,5 +1,4 @@
-Eiffellithus gorkae Reinhardt, 1965 SPECIES
-=======
+# Eiffellithus gorkae Reinhardt, 1965 SPECIES
 
 #### Status
 ACCEPTED

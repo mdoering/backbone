@@ -1,5 +1,4 @@
-Pestalotia pteridis Sacc. SPECIES
-=======
+# Pestalotia pteridis Sacc. SPECIES
 
 #### Status
 ACCEPTED

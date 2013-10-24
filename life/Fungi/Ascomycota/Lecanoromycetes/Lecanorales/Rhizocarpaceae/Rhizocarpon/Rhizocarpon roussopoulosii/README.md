@@ -1,5 +1,4 @@
-Rhizocarpon roussopoulosii Werner SPECIES
-=======
+# Rhizocarpon roussopoulosii Werner SPECIES
 
 #### Status
 ACCEPTED

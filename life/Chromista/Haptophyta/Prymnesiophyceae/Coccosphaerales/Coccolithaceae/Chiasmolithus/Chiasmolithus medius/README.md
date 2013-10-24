@@ -1,5 +1,4 @@
-Chiasmolithus medius Perch-Nielsen, 1971 SPECIES
-=======
+# Chiasmolithus medius Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

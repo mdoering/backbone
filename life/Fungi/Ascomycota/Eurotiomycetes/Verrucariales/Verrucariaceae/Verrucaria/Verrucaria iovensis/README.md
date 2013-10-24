@@ -1,5 +1,4 @@
-Verrucaria iovensis Servít SPECIES
-=======
+# Verrucaria iovensis Servít SPECIES
 
 #### Status
 ACCEPTED

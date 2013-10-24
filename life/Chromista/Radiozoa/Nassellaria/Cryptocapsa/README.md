@@ -1,5 +1,4 @@
-Cryptocapsa Haeckel, 1881 GENUS
-=======
+# Cryptocapsa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

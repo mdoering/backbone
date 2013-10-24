@@ -1,5 +1,4 @@
-Peyerimhoffiella Maire GENUS
-=======
+# Peyerimhoffiella Maire GENUS
 
 #### Status
 ACCEPTED

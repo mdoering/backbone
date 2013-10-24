@@ -1,5 +1,4 @@
-Phoma sherardiae Died. SPECIES
-=======
+# Phoma sherardiae Died. SPECIES
 
 #### Status
 ACCEPTED

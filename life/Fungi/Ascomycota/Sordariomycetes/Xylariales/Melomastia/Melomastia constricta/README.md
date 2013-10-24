@@ -1,5 +1,4 @@
-Melomastia constricta Frolov SPECIES
-=======
+# Melomastia constricta Frolov SPECIES
 
 #### Status
 ACCEPTED

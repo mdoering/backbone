@@ -1,14 +1,13 @@
-Cephalothamnion Lemmerman, 1913 GENUS
-=======
+# Cephalothamnium Stein, 1878 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Organ. Infus. , 3 (1), x.
 
 #### Original name
 null

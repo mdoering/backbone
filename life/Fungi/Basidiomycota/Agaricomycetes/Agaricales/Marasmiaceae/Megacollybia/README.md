@@ -1,5 +1,4 @@
-Megacollybia Kotlaba & Pouzar, 1972 GENUS
-=======
+# Megacollybia Kotlaba & Pouzar, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces tuirus Albert and Malaquias de Querioz, 1963 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces tuirus Albert and Malaquias de Querioz, 1963 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

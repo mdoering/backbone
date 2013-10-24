@@ -1,5 +1,4 @@
-Botrytis coccotrichoidea Sacc. & Trotter SPECIES
-=======
+# Botrytis coccotrichoidea Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

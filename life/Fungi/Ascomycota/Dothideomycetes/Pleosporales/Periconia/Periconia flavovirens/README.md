@@ -1,5 +1,4 @@
-Periconia flavovirens Alb. & Schwein. SPECIES
-=======
+# Periconia flavovirens Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

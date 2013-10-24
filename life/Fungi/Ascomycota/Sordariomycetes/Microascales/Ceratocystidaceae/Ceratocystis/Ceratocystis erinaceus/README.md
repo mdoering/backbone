@@ -1,5 +1,4 @@
-Ceratocystis erinaceus Bohàr SPECIES
-=======
+# Ceratocystis erinaceus Bohàr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiostoma ponderosae (T.E. Hinds & R.W. Davidson) Georg Hausner, J. Reid & Klassen SPECIES
-=======
+# Ophiostoma ponderosae (T.E. Hinds & R.W. Davidson) Georg Hausner, J. Reid & Klassen SPECIES
 
 #### Status
 ACCEPTED

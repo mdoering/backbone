@@ -1,5 +1,4 @@
-Psoroma castaneocinctum (Hue) Zahlbr. SPECIES
-=======
+# Psoroma castaneocinctum (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

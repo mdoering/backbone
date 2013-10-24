@@ -1,5 +1,4 @@
-Komokia multiramosa Tendal & Hessler, 1977 SPECIES
-=======
+# Komokia multiramosa Tendal & Hessler, 1977 SPECIES
 
 #### Status
 ACCEPTED

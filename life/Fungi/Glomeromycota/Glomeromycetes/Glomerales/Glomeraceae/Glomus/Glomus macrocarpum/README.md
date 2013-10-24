@@ -1,17 +1,16 @@
-Glomus macrocarpus Tul. & C. Tul. SPECIES
-=======
+# Glomus macrocarpum Tul. & C. Tul., 1845 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+G. bot. ital. 2: 63 (1845)
 
 #### Original name
-Glomus macrocarpus Tul. & C. Tul.
+Glomus macrocarpum Tul. & C. Tul., 1845
 
 ### Remarks
 null

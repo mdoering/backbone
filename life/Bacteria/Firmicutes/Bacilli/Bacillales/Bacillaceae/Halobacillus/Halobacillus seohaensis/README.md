@@ -1,5 +1,4 @@
-Halobacillus seohaensis Yoon, Kang & Oh, 2008 SPECIES
-=======
+# Halobacillus seohaensis Yoon, Kang & Oh, 2008 SPECIES
 
 #### Status
 ACCEPTED

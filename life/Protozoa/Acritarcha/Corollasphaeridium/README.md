@@ -1,5 +1,4 @@
-Corollasphaeridium Dean & Martin, 1982 GENUS
-=======
+# Corollasphaeridium Dean & Martin, 1982 GENUS
 
 #### Status
 ACCEPTED

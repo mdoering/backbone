@@ -1,5 +1,4 @@
-Phaeophleospora eugeniae Rangel, 1916 SPECIES
-=======
+# Phaeophleospora eugeniae Rangel, 1916 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratostomella pyrenaica Réblová & J. Fourn. SPECIES
-=======
+# Ceratostomella pyrenaica Réblová & J. Fourn. SPECIES
 
 #### Status
 ACCEPTED

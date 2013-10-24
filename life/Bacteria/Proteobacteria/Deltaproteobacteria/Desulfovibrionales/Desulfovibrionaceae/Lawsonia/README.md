@@ -1,5 +1,4 @@
-Lawsonia McOrist, Gebhart, Boid & Barns, 1995 GENUS
-=======
+# Lawsonia McOrist, Gebhart, Boid & Barns, 1995 GENUS
 
 #### Status
 ACCEPTED

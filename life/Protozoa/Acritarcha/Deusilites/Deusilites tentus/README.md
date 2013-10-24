@@ -1,5 +1,4 @@
-Deusilites tentus Hemer & Nygreen, 1967 SPECIES
-=======
+# Deusilites tentus Hemer & Nygreen, 1967 SPECIES
 
 #### Status
 ACCEPTED

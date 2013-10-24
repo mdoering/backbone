@@ -1,14 +1,13 @@
-Catapyrenium antillarum Breuss SPECIES
-=======
+# Clavascidium antillarum (Breuss) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flechten Follmann (Cologne), Contributions to Lichenology in Honour of Gerhard Follmann 176 (1995)
+Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 98(Suppl. ): 41 (1996)
 
 #### Original name
 Catapyrenium antillarum Breuss

@@ -1,5 +1,4 @@
-Agaricus hyperboreus P. Karst. SPECIES
-=======
+# Agaricus hyperboreus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

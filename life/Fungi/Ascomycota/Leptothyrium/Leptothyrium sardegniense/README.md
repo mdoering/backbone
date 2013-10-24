@@ -1,5 +1,4 @@
-Leptothyrium sardegniense Bat. & Nascim. SPECIES
-=======
+# Leptothyrium sardegniense Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

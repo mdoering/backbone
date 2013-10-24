@@ -1,5 +1,4 @@
-Tremella menglunensis Y.B. Peng SPECIES
-=======
+# Tremella menglunensis Y.B. Peng SPECIES
 
 #### Status
 ACCEPTED

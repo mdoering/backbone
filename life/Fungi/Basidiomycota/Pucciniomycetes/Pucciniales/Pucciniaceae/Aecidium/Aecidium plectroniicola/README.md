@@ -1,5 +1,4 @@
-Aecidium plectroniicola Henn. SPECIES
-=======
+# Aecidium plectroniicola Henn. SPECIES
 
 #### Status
 ACCEPTED

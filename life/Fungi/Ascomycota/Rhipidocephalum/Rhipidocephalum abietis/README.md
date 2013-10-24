@@ -1,5 +1,4 @@
-Rhipidocephalum abietis Trail, 1888 SPECIES
-=======
+# Rhipidocephalum abietis Trail, 1888 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trogia grisea (Berk.) Pat. SPECIES
-=======
+# Trogia grisea (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

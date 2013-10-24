@@ -1,5 +1,4 @@
-Clitocybe ericeticola Singer SPECIES
-=======
+# Clitocybe ericeticola Singer SPECIES
 
 #### Status
 ACCEPTED

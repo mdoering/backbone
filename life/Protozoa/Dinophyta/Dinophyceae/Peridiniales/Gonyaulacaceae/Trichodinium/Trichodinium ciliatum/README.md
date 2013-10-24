@@ -1,5 +1,4 @@
-Trichodinium ciliatum (H. Gocht) R. J. Davey SPECIES
-=======
+# Trichodinium ciliatum (H. Gocht) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

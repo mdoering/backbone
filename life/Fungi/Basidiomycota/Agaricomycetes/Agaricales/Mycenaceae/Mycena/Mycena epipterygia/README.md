@@ -1,17 +1,16 @@
-Mycena viscosa var. viscosa VARIETY
-=======
+# Mycena epipterygia (Scop.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 26: 162 (1910)
+Nat. Arr. Brit. Pl. (London) 1: 619 (1821)
 
 #### Original name
-Mycena viscosa var. viscosa
+Agaricus epipterygius Scop., 1772
 
 ### Remarks
 null

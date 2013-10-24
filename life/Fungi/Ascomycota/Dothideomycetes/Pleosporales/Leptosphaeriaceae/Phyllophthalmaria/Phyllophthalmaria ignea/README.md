@@ -1,5 +1,4 @@
-Phyllophthalmaria ignea (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Phyllophthalmaria ignea (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

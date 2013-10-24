@@ -1,17 +1,16 @@
-Homostegia dermatocarpae Alstrup & M.S. Cole SPECIES
-=======
+# Homostegia dermatocarpi Alstrup & M.S. Cole SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bryologist 10(2): 225 (1998)
 
 #### Original name
-Homostegia dermatocarpae Alstrup & M.S. Cole
+Homostegia dermatocarpi Alstrup & M.S. Cole
 
 ### Remarks
 null

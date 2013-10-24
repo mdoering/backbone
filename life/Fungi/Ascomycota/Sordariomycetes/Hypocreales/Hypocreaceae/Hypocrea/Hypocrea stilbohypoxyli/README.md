@@ -1,5 +1,4 @@
-Hypocrea stilbohypoxyli B.S. Lu & Samuels, 2003 SPECIES
-=======
+# Hypocrea stilbohypoxyli B.S. Lu & Samuels, 2003 SPECIES
 
 #### Status
 ACCEPTED

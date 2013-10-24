@@ -1,17 +1,16 @@
-Poria coruscans (Murrill) Sacc. & Trotter SPECIES
-=======
+# Poria corruscans (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 21: 337 (1912)
 
 #### Original name
-Poria corruscans (Murrill) Sacc. & Trotter
+Fuscoporella corruscans Murrill
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Septoria sheareana Sacc. & Trotter SPECIES
-=======
+# Septoria sheareana Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

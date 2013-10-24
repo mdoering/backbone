@@ -1,5 +1,4 @@
-Physarum urna H. Singh & Pushpav., 1979 SPECIES
-=======
+# Physarum urna H. Singh & Pushpav., 1979 SPECIES
 
 #### Status
 ACCEPTED

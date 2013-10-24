@@ -1,5 +1,4 @@
-Aposphaeria collabascens Schulzer & Sacc. SPECIES
-=======
+# Aposphaeria collabascens Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

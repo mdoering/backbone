@@ -1,5 +1,4 @@
-Helvella robusta S.P. Abbott SPECIES
-=======
+# Helvella robusta S.P. Abbott SPECIES
 
 #### Status
 ACCEPTED

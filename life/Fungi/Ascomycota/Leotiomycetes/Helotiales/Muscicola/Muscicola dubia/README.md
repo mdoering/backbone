@@ -1,14 +1,13 @@
-Helotium dubium Velen., 1934 SPECIES
-=======
+# Muscicola dubia (Velen.) Svrcek, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) (1934)
+Sb. nár. Mus. Praze 40B(3-4): 134 (1984)
 
 #### Original name
 Helotium dubium Velen., 1934

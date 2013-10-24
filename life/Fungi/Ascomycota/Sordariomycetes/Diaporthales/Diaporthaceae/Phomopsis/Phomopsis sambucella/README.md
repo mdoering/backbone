@@ -1,5 +1,4 @@
-Phomopsis sambucella (Sacc.) Traverso SPECIES
-=======
+# Phomopsis sambucella (Sacc.) Traverso SPECIES
 
 #### Status
 ACCEPTED

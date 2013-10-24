@@ -1,5 +1,4 @@
-Amanitopsis ushuaiensis Raithelh. SPECIES
-=======
+# Amanitopsis ushuaiensis Raithelh. SPECIES
 
 #### Status
 ACCEPTED

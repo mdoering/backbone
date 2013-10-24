@@ -1,5 +1,4 @@
-Trihyphaecites fractus Z.C. Song & Liu Cao SPECIES
-=======
+# Trihyphaecites fractus Z.C. Song & Liu Cao SPECIES
 
 #### Status
 ACCEPTED

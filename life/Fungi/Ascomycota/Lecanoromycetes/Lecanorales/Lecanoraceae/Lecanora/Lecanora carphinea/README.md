@@ -1,5 +1,4 @@
-Lecanora carphinea (Fr.) Schaer. SPECIES
-=======
+# Lecanora carphinea (Fr.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

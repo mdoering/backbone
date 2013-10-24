@@ -1,5 +1,4 @@
-Agaricus johnstonii Murrill SPECIES
-=======
+# Agaricus johnstonii Murrill SPECIES
 
 #### Status
 ACCEPTED

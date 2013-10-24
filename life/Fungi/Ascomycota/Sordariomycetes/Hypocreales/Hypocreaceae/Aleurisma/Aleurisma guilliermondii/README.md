@@ -1,5 +1,4 @@
-Aleurisma guilliermondii Grigoraki SPECIES
-=======
+# Aleurisma guilliermondii Grigoraki SPECIES
 
 #### Status
 ACCEPTED

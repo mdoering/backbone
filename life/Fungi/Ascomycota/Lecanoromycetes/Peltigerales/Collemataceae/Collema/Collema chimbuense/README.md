@@ -1,5 +1,4 @@
-Collema chimbuense Degel. SPECIES
-=======
+# Collema chimbuense Degel. SPECIES
 
 #### Status
 ACCEPTED

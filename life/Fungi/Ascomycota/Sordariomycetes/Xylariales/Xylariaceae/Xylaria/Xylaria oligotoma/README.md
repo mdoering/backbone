@@ -1,5 +1,4 @@
-Xylaria oligotoma Sacc. & Paol. SPECIES
-=======
+# Xylaria oligotoma Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

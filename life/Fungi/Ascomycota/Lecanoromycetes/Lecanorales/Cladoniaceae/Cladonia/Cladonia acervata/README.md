@@ -1,5 +1,4 @@
-Cladonia acervata S. Hammer SPECIES
-=======
+# Cladonia acervata S. Hammer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoleiosphaeridium gracile (Jankauskas & Vaitekunene, 1972) Fensome et al., 1990 SPECIES
-=======
+# Protoleiosphaeridium gracile (Jankauskas & Vaitekunene, 1972) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

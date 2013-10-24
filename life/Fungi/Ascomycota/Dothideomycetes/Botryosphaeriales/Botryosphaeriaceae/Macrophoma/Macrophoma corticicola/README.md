@@ -1,5 +1,4 @@
-Macrophoma corticicola (Preuss) Berl. & Voglino SPECIES
-=======
+# Macrophoma corticicola (Preuss) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

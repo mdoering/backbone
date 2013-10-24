@@ -1,5 +1,4 @@
-Didymella purpurea Lambotte & Fautrey, 1896 SPECIES
-=======
+# Didymella purpurea Lambotte & Fautrey, 1896 SPECIES
 
 #### Status
 ACCEPTED

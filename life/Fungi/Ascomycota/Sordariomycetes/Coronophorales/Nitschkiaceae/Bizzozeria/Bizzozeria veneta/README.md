@@ -1,5 +1,4 @@
-Bizzozeria veneta Sacc. & Berl., 1885 SPECIES
-=======
+# Bizzozeria veneta Sacc. & Berl., 1885 SPECIES
 
 #### Status
 ACCEPTED

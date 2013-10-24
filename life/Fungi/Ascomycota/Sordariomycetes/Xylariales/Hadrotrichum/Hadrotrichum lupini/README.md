@@ -1,5 +1,4 @@
-Hadrotrichum lupini Ellis & Everh. SPECIES
-=======
+# Hadrotrichum lupini Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

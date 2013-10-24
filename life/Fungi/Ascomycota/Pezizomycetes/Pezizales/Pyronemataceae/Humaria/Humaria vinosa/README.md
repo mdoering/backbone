@@ -1,5 +1,4 @@
-Humaria vinosa Bres. SPECIES
-=======
+# Humaria vinosa Bres. SPECIES
 
 #### Status
 ACCEPTED

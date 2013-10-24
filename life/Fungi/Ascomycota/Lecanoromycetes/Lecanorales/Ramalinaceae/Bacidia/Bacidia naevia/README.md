@@ -1,5 +1,4 @@
-Bacidia naevia Vain. SPECIES
-=======
+# Bacidia naevia Vain. SPECIES
 
 #### Status
 ACCEPTED

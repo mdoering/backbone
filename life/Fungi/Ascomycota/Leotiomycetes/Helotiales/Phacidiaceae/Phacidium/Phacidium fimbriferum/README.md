@@ -1,5 +1,4 @@
-Phacidium fimbriferum Fr. SPECIES
-=======
+# Phacidium fimbriferum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia canariensis (Petr.) Arx SPECIES
-=======
+# Pestalotia canariensis (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus septicoides Singer SPECIES
-=======
+# Marasmiellus septicoides Singer SPECIES
 
 #### Status
 ACCEPTED

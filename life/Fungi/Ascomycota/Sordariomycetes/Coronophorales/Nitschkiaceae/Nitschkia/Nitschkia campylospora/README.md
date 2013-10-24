@@ -1,5 +1,4 @@
-Nitschkia campylospora Bianchin. SPECIES
-=======
+# Nitschkia campylospora Bianchin. SPECIES
 
 #### Status
 ACCEPTED

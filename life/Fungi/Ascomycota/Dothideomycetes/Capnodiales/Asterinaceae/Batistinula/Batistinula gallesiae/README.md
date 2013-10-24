@@ -1,5 +1,4 @@
-Batistinula gallesiae Arx, 1960 SPECIES
-=======
+# Batistinula gallesiae Arx, 1960 SPECIES
 
 #### Status
 ACCEPTED

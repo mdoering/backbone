@@ -1,5 +1,4 @@
-Conotrochamminoides elongatus Zheng & Fu, 2001 SPECIES
-=======
+# Conotrochamminoides elongatus Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

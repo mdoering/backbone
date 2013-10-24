@@ -1,5 +1,4 @@
-Meliola vazhachalensis Hosag. & J. Thomas SPECIES
-=======
+# Meliola vazhachalensis Hosag. & J. Thomas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria kahusiensis C.W. Dodge SPECIES
-=======
+# Pertusaria kahusiensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

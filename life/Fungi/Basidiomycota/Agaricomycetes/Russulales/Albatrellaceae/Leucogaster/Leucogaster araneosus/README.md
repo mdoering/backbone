@@ -1,5 +1,4 @@
-Leucogaster araneosus Zeller & C.W. Dodge SPECIES
-=======
+# Leucogaster araneosus Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

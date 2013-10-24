@@ -1,5 +1,4 @@
-Sphingomonas japonica Romanenko, Tanaka, Frolova & Mikhailov, 2009 SPECIES
-=======
+# Sphingomonas japonica Romanenko, Tanaka, Frolova & Mikhailov, 2009 SPECIES
 
 #### Status
 ACCEPTED

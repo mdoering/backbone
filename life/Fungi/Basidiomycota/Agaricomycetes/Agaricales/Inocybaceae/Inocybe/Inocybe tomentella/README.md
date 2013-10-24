@@ -1,5 +1,4 @@
-Inocybe tomentella (Fr.) Sacc. SPECIES
-=======
+# Inocybe tomentella (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pestalotia vaccinicola Guba SPECIES
-=======
+# Pestalotia vacciniicola Guba SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 24: 384 (1932)
 
 #### Original name
-Pestalotia vaccinicola Guba
+Pestalotia vacciniicola Guba
 
 ### Remarks
 null

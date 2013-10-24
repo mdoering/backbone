@@ -1,5 +1,4 @@
-Uredo dioscoreae-pyrifoliae J.M. Yen SPECIES
-=======
+# Uredo dioscoreae-pyrifoliae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

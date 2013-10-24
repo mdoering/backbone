@@ -1,5 +1,4 @@
-Puccinia henningsii Dietel SPECIES
-=======
+# Puccinia henningsii Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Rhabdospora agropyrii T.M. Achundov SPECIES
-=======
+# Rhabdospora agropyri T.M. Achundov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhabdospora agropyrii T.M. Achundov
+Rhabdospora agropyri T.M. Achundov
 
 ### Remarks
 null

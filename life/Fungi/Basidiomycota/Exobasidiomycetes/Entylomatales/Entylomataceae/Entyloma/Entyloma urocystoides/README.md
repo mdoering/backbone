@@ -1,5 +1,4 @@
-Entyloma urocystoides Bubák SPECIES
-=======
+# Entyloma urocystoides Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrophora ptychophora (Nyl.) Nyl. SPECIES
-=======
+# Gyrophora ptychophora (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

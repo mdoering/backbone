@@ -1,5 +1,4 @@
-Scirrhia leptosperma Speg. SPECIES
-=======
+# Scirrhia leptosperma Speg. SPECIES
 
 #### Status
 ACCEPTED

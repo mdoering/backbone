@@ -1,5 +1,4 @@
-Flammula saltensis Speg. SPECIES
-=======
+# Flammula saltensis Speg. SPECIES
 
 #### Status
 ACCEPTED

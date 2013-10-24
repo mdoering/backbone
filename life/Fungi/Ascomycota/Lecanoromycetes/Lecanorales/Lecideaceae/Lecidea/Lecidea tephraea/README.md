@@ -1,5 +1,4 @@
-Lecidea tephraea (Tuck.) Zahlbr. SPECIES
-=======
+# Lecidea tephraea (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

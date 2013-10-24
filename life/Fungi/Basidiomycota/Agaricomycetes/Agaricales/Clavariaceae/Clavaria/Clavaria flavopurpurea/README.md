@@ -1,5 +1,4 @@
-Clavaria flavopurpurea R.H. Petersen, 1988 SPECIES
-=======
+# Clavaria flavopurpurea R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

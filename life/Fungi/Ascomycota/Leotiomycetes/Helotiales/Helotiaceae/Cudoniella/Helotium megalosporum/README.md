@@ -1,5 +1,4 @@
-Helotium megalosporum Speg. SPECIES
-=======
+# Helotium megalosporum Speg. SPECIES
 
 #### Status
 ACCEPTED

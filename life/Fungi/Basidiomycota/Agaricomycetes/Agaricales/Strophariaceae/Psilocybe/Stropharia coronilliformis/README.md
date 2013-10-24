@@ -1,5 +1,4 @@
-Stropharia coronilliformis Murrill SPECIES
-=======
+# Stropharia coronilliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

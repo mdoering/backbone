@@ -1,14 +1,13 @@
-Pseudocercosporella junci (MacGarvie & O'Rourke) U. Braun, 1995 SPECIES
-=======
+# Cercosporella junci MacGarvie & O'Rourke, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Cercosporella, Ramularia Allied Genera (Phytopath. Hyphom. ) 168 (1995)
+Iran. Jl agric. Res. 8(1): 158 (1969)
 
 #### Original name
 Cercosporella junci MacGarvie & O'Rourke, 1969

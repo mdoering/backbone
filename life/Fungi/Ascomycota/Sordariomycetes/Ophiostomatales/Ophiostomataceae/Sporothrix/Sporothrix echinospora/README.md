@@ -1,5 +1,4 @@
-Sporothrix echinospora (Deighton & Piroz.) Katum. SPECIES
-=======
+# Sporothrix echinospora (Deighton & Piroz.) Katum. SPECIES
 
 #### Status
 ACCEPTED

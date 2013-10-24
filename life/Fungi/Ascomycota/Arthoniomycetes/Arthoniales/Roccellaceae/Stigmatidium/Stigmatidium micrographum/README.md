@@ -1,5 +1,4 @@
-Stigmatidium micrographum Nyl. SPECIES
-=======
+# Stigmatidium micrographum Nyl. SPECIES
 
 #### Status
 ACCEPTED

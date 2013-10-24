@@ -1,5 +1,4 @@
-Tolypothrix elenkinii Hollerbach SPECIES
-=======
+# Tolypothrix elenkinii Hollerbach SPECIES
 
 #### Status
 ACCEPTED

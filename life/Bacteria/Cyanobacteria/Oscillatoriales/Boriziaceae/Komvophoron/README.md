@@ -1,5 +1,4 @@
-Komvophoron Anagnostidis & Komárek, 1988 GENUS
-=======
+# Komvophoron Anagnostidis & Komárek, 1988 GENUS
 
 #### Status
 ACCEPTED

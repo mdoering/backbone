@@ -1,5 +1,4 @@
-Atractocolax R. Kirschner, R. Bauer & Oberw. GENUS
-=======
+# Atractocolax R. Kirschner, R. Bauer & Oberw. GENUS
 
 #### Status
 ACCEPTED

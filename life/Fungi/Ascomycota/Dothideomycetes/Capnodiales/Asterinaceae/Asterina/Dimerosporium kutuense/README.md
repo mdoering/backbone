@@ -1,5 +1,4 @@
-Dimerosporium kutuense (Henn.) Höhn. SPECIES
-=======
+# Dimerosporium kutuense (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

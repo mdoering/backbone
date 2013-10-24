@@ -1,5 +1,4 @@
-Trametes kuzyana Pilát SPECIES
-=======
+# Trametes kuzyana Pilát SPECIES
 
 #### Status
 ACCEPTED

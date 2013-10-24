@@ -1,5 +1,4 @@
-Homoeothrix balearica (Bornet & Flahault) Lemmermann SPECIES
-=======
+# Homoeothrix balearica (Bornet & Flahault) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

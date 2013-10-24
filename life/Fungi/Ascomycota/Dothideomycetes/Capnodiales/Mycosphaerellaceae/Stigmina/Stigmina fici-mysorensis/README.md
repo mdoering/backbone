@@ -1,17 +1,16 @@
-Stigmina ficus-mysorensis Muthappa SPECIES
-=======
+# Stigmina fici-mysorensis Muthappa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 61(3): 602 (1973)
 
 #### Original name
-Stigmina ficus-mysorensis Muthappa
+Stigmina fici-mysorensis Muthappa
 
 ### Remarks
 null

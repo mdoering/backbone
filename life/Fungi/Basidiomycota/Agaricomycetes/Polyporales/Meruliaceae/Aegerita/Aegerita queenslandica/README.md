@@ -1,5 +1,4 @@
-Aegerita queenslandica Matsush. SPECIES
-=======
+# Aegerita queenslandica Matsush. SPECIES
 
 #### Status
 ACCEPTED

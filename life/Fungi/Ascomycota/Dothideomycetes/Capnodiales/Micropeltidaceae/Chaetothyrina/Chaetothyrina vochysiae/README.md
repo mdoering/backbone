@@ -1,5 +1,4 @@
-Chaetothyrina vochysiae Bat. & Peres SPECIES
-=======
+# Chaetothyrina vochysiae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

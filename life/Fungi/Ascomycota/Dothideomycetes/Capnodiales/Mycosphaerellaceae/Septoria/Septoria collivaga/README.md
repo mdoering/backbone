@@ -1,5 +1,4 @@
-Septoria collivaga Petr. & Cif. SPECIES
-=======
+# Septoria collivaga Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

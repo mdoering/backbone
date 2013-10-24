@@ -1,5 +1,4 @@
-Keramosphaerina Stache, 1912 GENUS
-=======
+# Keramosphaerina Stache, 1912 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clathroides longissimum Haller SPECIES
-=======
+# Clathroides longissimum Haller SPECIES
 
 #### Status
 ACCEPTED

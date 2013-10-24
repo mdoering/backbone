@@ -1,5 +1,4 @@
-Mycosphaerella elaeagnicola N.P. Golovina SPECIES
-=======
+# Mycosphaerella elaeagnicola N.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

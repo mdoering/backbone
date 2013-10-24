@@ -1,5 +1,4 @@
-Prismatella hexagona Pascher SPECIES
-=======
+# Prismatella hexagona Pascher SPECIES
 
 #### Status
 ACCEPTED

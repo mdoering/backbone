@@ -1,5 +1,4 @@
-Lactarius cookei Z. Schaef. SPECIES
-=======
+# Lactarius cookei Z. Schaef. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma rubi Tehon SPECIES
-=======
+# Macrophoma rubi Tehon SPECIES
 
 #### Status
 ACCEPTED

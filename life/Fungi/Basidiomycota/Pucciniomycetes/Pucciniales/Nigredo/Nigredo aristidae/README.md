@@ -1,5 +1,4 @@
-Nigredo aristidae (Ellis & Everh.) Arthur SPECIES
-=======
+# Nigredo aristidae (Ellis & Everh.) Arthur SPECIES
 
 #### Status
 ACCEPTED

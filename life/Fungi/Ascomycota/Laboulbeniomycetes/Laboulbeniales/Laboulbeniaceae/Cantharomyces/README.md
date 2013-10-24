@@ -1,5 +1,4 @@
-Cantharomyces Thaxt. GENUS
-=======
+# Cantharomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

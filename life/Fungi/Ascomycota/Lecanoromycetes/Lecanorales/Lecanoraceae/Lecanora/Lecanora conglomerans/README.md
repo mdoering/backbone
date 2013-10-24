@@ -1,5 +1,4 @@
-Lecanora conglomerans Nyl. SPECIES
-=======
+# Lecanora conglomerans Nyl. SPECIES
 
 #### Status
 ACCEPTED

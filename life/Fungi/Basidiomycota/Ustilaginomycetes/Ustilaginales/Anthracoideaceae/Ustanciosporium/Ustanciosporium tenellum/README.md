@@ -1,5 +1,4 @@
-Ustanciosporium tenellum R.G. Shivas & Vánky, 2003 SPECIES
-=======
+# Ustanciosporium tenellum R.G. Shivas & Vánky, 2003 SPECIES
 
 #### Status
 ACCEPTED

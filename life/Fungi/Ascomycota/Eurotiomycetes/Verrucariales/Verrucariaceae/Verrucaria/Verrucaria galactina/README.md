@@ -1,5 +1,4 @@
-Verrucaria galactina (A. Massal.) Trevis. SPECIES
-=======
+# Verrucaria galactina (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma cicuticola Kirschst. SPECIES
-=======
+# Phoma cicuticola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

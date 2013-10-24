@@ -1,5 +1,4 @@
-Xeromphalina pruinatipes (Singer) Raithelh. SPECIES
-=======
+# Xeromphalina pruinatipes (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus arcticaulis With. SPECIES
-=======
+# Agaricus arcticaulis With. SPECIES
 
 #### Status
 ACCEPTED

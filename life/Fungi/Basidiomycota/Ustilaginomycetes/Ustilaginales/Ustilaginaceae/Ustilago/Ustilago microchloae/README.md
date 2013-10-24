@@ -1,5 +1,4 @@
-Ustilago microchloae Griffiths SPECIES
-=======
+# Ustilago microchloae Griffiths SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octospora echinospora Caillet & Moyne SPECIES
-=======
+# Octospora echinospora Caillet & Moyne SPECIES
 
 #### Status
 ACCEPTED

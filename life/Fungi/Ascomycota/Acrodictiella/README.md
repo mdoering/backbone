@@ -1,5 +1,4 @@
-Acrodictiella R.K. Verma, N. Sharma & Soni GENUS
-=======
+# Acrodictiella R.K. Verma, N. Sharma & Soni GENUS
 
 #### Status
 ACCEPTED

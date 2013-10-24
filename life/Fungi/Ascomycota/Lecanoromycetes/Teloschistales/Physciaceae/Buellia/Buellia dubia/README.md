@@ -1,5 +1,4 @@
-Buellia dubia (Vain.) Malme SPECIES
-=======
+# Buellia dubia (Vain.) Malme SPECIES
 
 #### Status
 ACCEPTED

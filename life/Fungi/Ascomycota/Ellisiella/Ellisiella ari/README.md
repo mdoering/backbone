@@ -1,5 +1,4 @@
-Ellisiella ari Pass. SPECIES
-=======
+# Ellisiella ari Pass. SPECIES
 
 #### Status
 ACCEPTED

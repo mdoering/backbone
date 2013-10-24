@@ -1,5 +1,4 @@
-Polyedriella Pascher, 1930 GENUS
-=======
+# Polyedriella Pascher, 1930 GENUS
 
 #### Status
 ACCEPTED

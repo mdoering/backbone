@@ -1,5 +1,4 @@
-Periconia laminella E.W. Mason & M.B. Ellis, 1953 SPECIES
-=======
+# Periconia laminella E.W. Mason & M.B. Ellis, 1953 SPECIES
 
 #### Status
 ACCEPTED

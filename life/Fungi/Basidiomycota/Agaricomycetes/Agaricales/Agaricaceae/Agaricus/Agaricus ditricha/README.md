@@ -1,5 +1,4 @@
-Agaricus ditricha Kalchbr. & Cooke SPECIES
-=======
+# Agaricus ditricha Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

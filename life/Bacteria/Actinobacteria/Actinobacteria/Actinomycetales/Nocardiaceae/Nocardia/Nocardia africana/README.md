@@ -1,5 +1,4 @@
-Nocardia africana Hamid et al., 2001 SPECIES
-=======
+# Nocardia africana Hamid et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

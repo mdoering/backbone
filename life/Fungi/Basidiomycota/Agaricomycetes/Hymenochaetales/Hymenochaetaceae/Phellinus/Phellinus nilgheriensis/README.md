@@ -1,17 +1,16 @@
-Phellinus nilgheriensis var. nilgheriensis VARIETY
-=======
+# Phellinus nilgheriensis (Mont.) G. Cunn., 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 164: 226 (1965)
 
 #### Original name
-Phellinus nilgheriensis var. nilgheriensis
+Polyporus nilgheriensis Mont., 1842
 
 ### Remarks
 null

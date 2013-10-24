@@ -1,5 +1,4 @@
-Pseudophacidium propolideum Rehm SPECIES
-=======
+# Pseudophacidium propolideum Rehm SPECIES
 
 #### Status
 ACCEPTED

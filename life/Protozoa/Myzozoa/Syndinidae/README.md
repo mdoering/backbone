@@ -1,5 +1,4 @@
-Syndinidae Chatton, 1910 FAMILY
-=======
+# Syndinidae Chatton, 1910 FAMILY
 
 #### Status
 ACCEPTED

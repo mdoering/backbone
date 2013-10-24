@@ -1,5 +1,4 @@
-Inocybe odora Velen. SPECIES
-=======
+# Inocybe odora Velen. SPECIES
 
 #### Status
 ACCEPTED

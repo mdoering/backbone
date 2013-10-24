@@ -1,5 +1,4 @@
-Meliola integrifolii C.R. Patil ex Hosag. SPECIES
-=======
+# Meliola integrifolii C.R. Patil ex Hosag. SPECIES
 
 #### Status
 ACCEPTED

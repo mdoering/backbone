@@ -1,5 +1,4 @@
-Cortinarius appennini Consiglio, D. Antonini & M. Antonini SPECIES
-=======
+# Cortinarius appennini Consiglio, D. Antonini & M. Antonini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe subcinnabarina (Hongo) Hongo SPECIES
-=======
+# Hygrocybe subcinnabarina (Hongo) Hongo SPECIES
 
 #### Status
 ACCEPTED

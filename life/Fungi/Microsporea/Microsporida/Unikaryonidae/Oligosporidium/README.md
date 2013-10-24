@@ -1,5 +1,4 @@
-Oligosporidium Codreanu-Balcescu, Codreanu & Traciuc GENUS
-=======
+# Oligosporidium Codreanu-Balcescu, Codreanu & Traciuc GENUS
 
 #### Status
 ACCEPTED

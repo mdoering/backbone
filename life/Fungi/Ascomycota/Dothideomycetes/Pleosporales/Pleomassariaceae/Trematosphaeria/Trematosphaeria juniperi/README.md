@@ -1,5 +1,4 @@
-Trematosphaeria juniperi Tracy & Earle SPECIES
-=======
+# Trematosphaeria juniperi Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

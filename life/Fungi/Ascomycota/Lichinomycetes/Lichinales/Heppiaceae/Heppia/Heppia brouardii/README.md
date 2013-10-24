@@ -1,5 +1,4 @@
-Heppia brouardii B. de Lesd. SPECIES
-=======
+# Heppia brouardii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

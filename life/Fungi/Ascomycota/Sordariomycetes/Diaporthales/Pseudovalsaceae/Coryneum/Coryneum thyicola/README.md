@@ -1,5 +1,4 @@
-Coryneum thyicola Vestergr. SPECIES
-=======
+# Coryneum thyicola Vestergr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leveillula golovinii Simonyan & V.P. Heluta SPECIES
-=======
+# Leveillula golovinii Simonyan & V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena dryopteridis Singer SPECIES
-=======
+# Mycena dryopteridis Singer SPECIES
 
 #### Status
 ACCEPTED

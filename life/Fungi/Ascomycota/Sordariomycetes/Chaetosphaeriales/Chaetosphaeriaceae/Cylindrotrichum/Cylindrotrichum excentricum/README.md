@@ -1,5 +1,4 @@
-Cylindrotrichum excentricum (Bhat & B. Sutton) Cabello & Aramb. SPECIES
-=======
+# Cylindrotrichum excentricum (Bhat & B. Sutton) Cabello & Aramb. SPECIES
 
 #### Status
 ACCEPTED

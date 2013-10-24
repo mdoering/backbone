@@ -1,5 +1,4 @@
-Pluteus chrysophlebius subsp. chrysophlebius SUBSPECIES
-=======
+# Pluteus chrysophlebius (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 5: 678 (1887)
 
 #### Original name
-Pluteus chrysophlebius subsp. chrysophlebius
+Agaricus chrysophlebius Berk. & M.A. Curtis
 
 ### Remarks
 null

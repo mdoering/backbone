@@ -1,5 +1,4 @@
-Septoria baccharidicola Speg. SPECIES
-=======
+# Septoria baccharidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

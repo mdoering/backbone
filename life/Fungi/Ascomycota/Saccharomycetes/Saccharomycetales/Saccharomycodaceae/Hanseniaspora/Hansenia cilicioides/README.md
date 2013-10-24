@@ -1,5 +1,4 @@
-Hansenia cilicioides (Fr.) P. Karst. SPECIES
-=======
+# Hansenia cilicioides (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

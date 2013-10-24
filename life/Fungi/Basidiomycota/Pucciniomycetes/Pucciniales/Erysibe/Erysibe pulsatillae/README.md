@@ -1,5 +1,4 @@
-Erysibe pulsatillae Wallr. SPECIES
-=======
+# Erysibe pulsatillae Wallr. SPECIES
 
 #### Status
 ACCEPTED

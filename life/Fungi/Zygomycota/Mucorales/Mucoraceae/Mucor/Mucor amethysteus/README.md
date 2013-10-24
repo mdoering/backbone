@@ -1,5 +1,4 @@
-Mucor amethysteus Berk. SPECIES
-=======
+# Mucor amethysteus Berk. SPECIES
 
 #### Status
 ACCEPTED

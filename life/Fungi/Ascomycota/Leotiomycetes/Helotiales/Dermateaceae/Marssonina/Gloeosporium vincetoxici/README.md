@@ -1,5 +1,4 @@
-Gloeosporium vincetoxici Fautrey SPECIES
-=======
+# Gloeosporium vincetoxici Fautrey SPECIES
 
 #### Status
 ACCEPTED

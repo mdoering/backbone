@@ -1,5 +1,4 @@
-Galerula magnispora Murrill SPECIES
-=======
+# Galerula magnispora Murrill SPECIES
 
 #### Status
 ACCEPTED

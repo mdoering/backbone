@@ -1,5 +1,4 @@
-Perenniporiella Decock & Ryvarden GENUS
-=======
+# Perenniporiella Decock & Ryvarden GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Callimothallus ruedae (Mart.-Hern. & Tom.-Ort.) Kalgutkar & Janson. SPECIES
-=======
+# Callimothallus ruedae (Mart.-Hern. & Tom.-Ort.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

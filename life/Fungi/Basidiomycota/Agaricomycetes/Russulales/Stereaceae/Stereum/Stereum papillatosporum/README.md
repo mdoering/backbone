@@ -1,5 +1,4 @@
-Stereum papillatosporum Rehill & B.K. Bakshi SPECIES
-=======
+# Stereum papillatosporum Rehill & B.K. Bakshi SPECIES
 
 #### Status
 ACCEPTED

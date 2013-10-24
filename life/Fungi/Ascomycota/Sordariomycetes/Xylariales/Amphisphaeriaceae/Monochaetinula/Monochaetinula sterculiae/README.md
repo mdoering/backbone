@@ -1,5 +1,4 @@
-Monochaetinula sterculiae Nag Raj, 1993 SPECIES
-=======
+# Monochaetinula sterculiae Nag Raj, 1993 SPECIES
 
 #### Status
 ACCEPTED

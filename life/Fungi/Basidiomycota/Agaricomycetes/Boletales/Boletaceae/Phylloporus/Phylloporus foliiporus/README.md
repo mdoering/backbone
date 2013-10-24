@@ -1,5 +1,4 @@
-Phylloporus foliiporus (Murrill) Singer SPECIES
-=======
+# Phylloporus foliiporus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

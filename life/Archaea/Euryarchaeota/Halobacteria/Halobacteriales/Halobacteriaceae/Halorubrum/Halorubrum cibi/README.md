@@ -1,5 +1,4 @@
-Halorubrum cibi Roh & Bae, 2009 SPECIES
-=======
+# Halorubrum cibi Roh & Bae, 2009 SPECIES
 
 #### Status
 ACCEPTED

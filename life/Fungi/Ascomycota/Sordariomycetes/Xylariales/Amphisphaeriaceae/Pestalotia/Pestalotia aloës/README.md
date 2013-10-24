@@ -1,8 +1,7 @@
-Pestalozzia aloës Trinchieri SPECIES
-=======
+# Pestalotia aloës Trinchieri SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pestalozzia aloës Trinchieri
+Pestalotia aloës Trinchieri
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agrocybe aporata Watling & S.P. Abraham SPECIES
-=======
+# Agrocybe aporata Watling & S.P. Abraham SPECIES
 
 #### Status
 ACCEPTED

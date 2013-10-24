@@ -1,5 +1,4 @@
-Meliola atra Doidge SPECIES
-=======
+# Meliola atra Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo decaisneana Lév. SPECIES
-=======
+# Uredo decaisneana Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lanspora coronata K.D. Hyde & E.B.G. Jones, 1986 SPECIES
-=======
+# Lanspora coronata K.D. Hyde & E.B.G. Jones, 1986 SPECIES
 
 #### Status
 ACCEPTED

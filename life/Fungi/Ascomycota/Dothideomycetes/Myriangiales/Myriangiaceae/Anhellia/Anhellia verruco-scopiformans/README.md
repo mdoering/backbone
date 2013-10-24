@@ -1,5 +1,4 @@
-Anhellia verruco-scopiformans O.L. Pereira & R.W. Barreto SPECIES
-=======
+# Anhellia verruco-scopiformans O.L. Pereira & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

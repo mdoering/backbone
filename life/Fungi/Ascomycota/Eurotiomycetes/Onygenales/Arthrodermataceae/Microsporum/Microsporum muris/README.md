@@ -1,17 +1,16 @@
-Microsporon muris Gluge & d'Ukedem ex Guég. SPECIES
-=======
+# Microsporum muris Gluge & d'Ukedem ex Guég. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Acad. R. Sci. Belg. , Cl. Sci. 3: 338 (1857)
 
 #### Original name
-Microsporon muris Gluge & d'Ukedem ex Guég.
+Microsporum muris Gluge & d'Ukedem ex Guég.
 
 ### Remarks
 null

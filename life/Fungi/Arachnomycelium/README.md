@@ -1,5 +1,4 @@
-Arachnomycelium Grüss GENUS
-=======
+# Arachnomycelium Grüss GENUS
 
 #### Status
 ACCEPTED

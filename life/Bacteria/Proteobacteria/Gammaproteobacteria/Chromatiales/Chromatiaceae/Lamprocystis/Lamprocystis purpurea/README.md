@@ -1,5 +1,4 @@
-Lamprocystis purpurea (Eichler & Pfennig, 1989) Imhoff, 2001 SPECIES
-=======
+# Lamprocystis purpurea (Eichler & Pfennig, 1989) Imhoff, 2001 SPECIES
 
 #### Status
 ACCEPTED

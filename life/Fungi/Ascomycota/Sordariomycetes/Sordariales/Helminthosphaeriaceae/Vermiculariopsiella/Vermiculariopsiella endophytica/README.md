@@ -1,5 +1,4 @@
-Vermiculariopsiella endophytica Gawas, Bhat & K.D. Hyde SPECIES
-=======
+# Vermiculariopsiella endophytica Gawas, Bhat & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

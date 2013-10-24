@@ -1,5 +1,4 @@
-Isthmospora spinosa F. Stevens, 1918 SPECIES
-=======
+# Isthmospora spinosa F. Stevens, 1918 SPECIES
 
 #### Status
 ACCEPTED

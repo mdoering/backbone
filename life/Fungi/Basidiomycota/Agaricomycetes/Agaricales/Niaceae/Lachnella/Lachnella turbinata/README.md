@@ -1,5 +1,4 @@
-Lachnella turbinata (G. Cunn.) W.B. Cooke, 1961 SPECIES
-=======
+# Lachnella turbinata (G. Cunn.) W.B. Cooke, 1961 SPECIES
 
 #### Status
 ACCEPTED

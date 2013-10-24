@@ -1,14 +1,13 @@
-Phragmidium libocedri Henn., 1898 SPECIES
-=======
+# Gymnosporangium libocedri (Henn.) F. Kern, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 37: 271 (1898)
+Bull. Torrey bot. Club 35: 509 (1908)
 
 #### Original name
 Phragmidium libocedri Henn., 1898

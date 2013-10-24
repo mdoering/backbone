@@ -1,5 +1,4 @@
-Lecidea pannosa Müll. Arg. SPECIES
-=======
+# Lecidea pannosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

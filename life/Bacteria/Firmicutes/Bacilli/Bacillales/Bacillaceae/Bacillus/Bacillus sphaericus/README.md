@@ -1,5 +1,4 @@
-Bacillus sphaericus Meyer and Neide, 1904 (Approved Lists, 1980) SPECIES
-=======
+# Bacillus sphaericus Meyer and Neide, 1904 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

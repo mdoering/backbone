@@ -1,5 +1,4 @@
-Lethagrium stygium (Schaer.) Arnold SPECIES
-=======
+# Lethagrium stygium (Schaer.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago agrestis Syd. SPECIES
-=======
+# Ustilago agrestis Syd. SPECIES
 
 #### Status
 ACCEPTED

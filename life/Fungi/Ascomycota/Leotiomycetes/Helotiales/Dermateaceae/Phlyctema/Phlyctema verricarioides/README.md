@@ -1,5 +1,4 @@
-Phlyctema verricarioides Sacc. SPECIES
-=======
+# Phlyctema verricarioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

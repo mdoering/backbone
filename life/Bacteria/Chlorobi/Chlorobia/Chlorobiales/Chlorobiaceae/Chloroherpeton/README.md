@@ -1,5 +1,4 @@
-Chloroherpeton Gibson, Pfennig & Waterbury, 1985 GENUS
-=======
+# Chloroherpeton Gibson, Pfennig & Waterbury, 1985 GENUS
 
 #### Status
 ACCEPTED

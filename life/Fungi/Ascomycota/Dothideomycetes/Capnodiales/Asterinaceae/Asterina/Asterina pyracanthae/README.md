@@ -1,5 +1,4 @@
-Asterina pyracanthae Desm. SPECIES
-=======
+# Asterina pyracanthae Desm. SPECIES
 
 #### Status
 ACCEPTED

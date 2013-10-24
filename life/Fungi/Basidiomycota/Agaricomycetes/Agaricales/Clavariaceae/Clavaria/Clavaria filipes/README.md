@@ -1,5 +1,4 @@
-Clavaria filipes var. curtisii Berk. VARIETY
-=======
+# Clavaria filipes Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 2(no. 14): 17 (1873)
 
 #### Original name
-Clavaria filipes var. curtisii Berk.
+Clavaria filipes Berk. & Ravenel
 
 ### Remarks
 null

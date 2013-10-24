@@ -1,5 +1,4 @@
-Leptolegniella Huneycutt GENUS
-=======
+# Leptolegniella Huneycutt GENUS
 
 #### Status
 ACCEPTED

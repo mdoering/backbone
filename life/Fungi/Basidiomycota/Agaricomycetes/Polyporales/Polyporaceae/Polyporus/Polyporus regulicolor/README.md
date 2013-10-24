@@ -1,5 +1,4 @@
-Polyporus regulicolor Berk. SPECIES
-=======
+# Polyporus regulicolor Berk. SPECIES
 
 #### Status
 ACCEPTED

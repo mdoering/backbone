@@ -1,5 +1,4 @@
-Thermoleophilaceae (Stackebrandt, 2005) emend. Zhi, Li & Stackebrandt, 2009 FAMILY
-=======
+# Thermoleophilaceae (Stackebrandt, 2005) emend. Zhi, Li & Stackebrandt, 2009 FAMILY
 
 #### Status
 ACCEPTED

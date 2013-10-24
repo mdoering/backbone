@@ -1,5 +1,4 @@
-Sympodiomycopsis lanaiensis Mahdi, Statzell, Fell, M.V. Br. & Donachie SPECIES
-=======
+# Sympodiomycopsis lanaiensis Mahdi, Statzell, Fell, M.V. Br. & Donachie SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glaziella vesiculosa Berk., 1880 SPECIES
-=======
+# Glaziella vesiculosa Berk., 1880 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massarina piskorzii (Petr.) Boise SPECIES
-=======
+# Massarina piskorzii (Petr.) Boise SPECIES
 
 #### Status
 ACCEPTED

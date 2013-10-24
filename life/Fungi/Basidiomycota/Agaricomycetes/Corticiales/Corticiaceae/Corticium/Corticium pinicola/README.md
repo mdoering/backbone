@@ -1,5 +1,4 @@
-Corticium pinicola (Tul.) Sacc. SPECIES
-=======
+# Corticium pinicola (Tul.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

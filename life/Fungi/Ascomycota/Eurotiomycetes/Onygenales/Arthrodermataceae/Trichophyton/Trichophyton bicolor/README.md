@@ -1,5 +1,4 @@
-Trichophyton bicolor Da Veiga SPECIES
-=======
+# Trichophyton bicolor Da Veiga SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterostomella ligustri Hosag., M.P. Balakr. & Goos SPECIES
-=======
+# Asterostomella ligustri Hosag., M.P. Balakr. & Goos SPECIES
 
 #### Status
 ACCEPTED

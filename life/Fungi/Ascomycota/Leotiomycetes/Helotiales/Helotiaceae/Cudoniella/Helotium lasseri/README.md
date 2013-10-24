@@ -1,5 +1,4 @@
-Helotium lasseri Dennis SPECIES
-=======
+# Helotium lasseri Dennis SPECIES
 
 #### Status
 ACCEPTED

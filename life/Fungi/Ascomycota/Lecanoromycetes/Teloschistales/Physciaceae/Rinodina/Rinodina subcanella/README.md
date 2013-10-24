@@ -1,5 +1,4 @@
-Rinodina subcanella SPECIES
-=======
+# Rinodina subcanella SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacellium sessile U. Braun SPECIES
-=======
+# Phacellium sessile U. Braun SPECIES
 
 #### Status
 ACCEPTED

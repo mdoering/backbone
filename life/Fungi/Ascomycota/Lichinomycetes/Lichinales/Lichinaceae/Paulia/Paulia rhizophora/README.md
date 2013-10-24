@@ -1,5 +1,4 @@
-Paulia rhizophora Henssen SPECIES
-=======
+# Paulia rhizophora Henssen SPECIES
 
 #### Status
 ACCEPTED

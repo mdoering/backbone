@@ -1,5 +1,4 @@
-Gymnascella marismortui Buchalo, Nevo, Wasser, Oren & Molit. SPECIES
-=======
+# Gymnascella marismortui Buchalo, Nevo, Wasser, Oren & Molit. SPECIES
 
 #### Status
 ACCEPTED

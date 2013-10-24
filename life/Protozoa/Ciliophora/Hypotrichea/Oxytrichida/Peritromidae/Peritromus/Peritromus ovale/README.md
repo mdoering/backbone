@@ -1,5 +1,4 @@
-Peritromus ovale SPECIES
-=======
+# Peritromus ovale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloiocephala gracilis Desjardin & E. Horak, 1997 SPECIES
-=======
+# Gloiocephala gracilis Desjardin & E. Horak, 1997 SPECIES
 
 #### Status
 ACCEPTED

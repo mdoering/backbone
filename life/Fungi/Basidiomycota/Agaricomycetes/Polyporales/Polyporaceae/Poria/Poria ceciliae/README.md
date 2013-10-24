@@ -1,5 +1,4 @@
-Poria ceciliae Roum. SPECIES
-=======
+# Poria ceciliae Roum. SPECIES
 
 #### Status
 ACCEPTED

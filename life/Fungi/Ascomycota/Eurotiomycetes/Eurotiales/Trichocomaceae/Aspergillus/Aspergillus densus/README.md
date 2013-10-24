@@ -1,5 +1,4 @@
-Aspergillus densus Mosseray SPECIES
-=======
+# Aspergillus densus Mosseray SPECIES
 
 #### Status
 ACCEPTED

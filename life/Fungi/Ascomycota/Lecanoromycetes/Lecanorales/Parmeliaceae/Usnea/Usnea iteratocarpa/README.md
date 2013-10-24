@@ -1,5 +1,4 @@
-Usnea iteratocarpa Chao {?}, Hsa {?} & Sun {?} SPECIES
-=======
+# Usnea iteratocarpa Chao {?}, Hsa {?} & Sun {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcoscypha lepida (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Sarcoscypha lepida (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

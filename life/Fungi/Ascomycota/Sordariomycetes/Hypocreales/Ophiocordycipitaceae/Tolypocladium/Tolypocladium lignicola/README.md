@@ -1,5 +1,4 @@
-Tolypocladium lignicola G.L. Barron, 1983 SPECIES
-=======
+# Tolypocladium lignicola G.L. Barron, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria conigena Sacc. & Roum. SPECIES
-=======
+# Septoria conigena Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discoaster berggrenii SPECIES
-=======
+# Discoaster berggrenii SPECIES
 
 #### Status
 ACCEPTED

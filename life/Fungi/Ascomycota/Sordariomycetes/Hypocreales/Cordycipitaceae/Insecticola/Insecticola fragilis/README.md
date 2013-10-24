@@ -1,5 +1,4 @@
-Insecticola fragilis (Petch) Mains SPECIES
-=======
+# Insecticola fragilis (Petch) Mains SPECIES
 
 #### Status
 ACCEPTED

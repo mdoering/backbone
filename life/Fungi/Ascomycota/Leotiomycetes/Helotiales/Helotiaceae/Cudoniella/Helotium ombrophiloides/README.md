@@ -1,5 +1,4 @@
-Helotium ombrophiloides Rick SPECIES
-=======
+# Helotium ombrophiloides Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis nucula (Fol, 1884) Jörgensen, 1924 SPECIES
-=======
+# Tintinnopsis nucula (Fol, 1884) Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

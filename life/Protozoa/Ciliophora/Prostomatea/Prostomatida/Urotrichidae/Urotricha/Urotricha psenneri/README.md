@@ -1,5 +1,4 @@
-Urotricha psenneri Sonntag & Foissner, 2004 SPECIES
-=======
+# Urotricha psenneri Sonntag & Foissner, 2004 SPECIES
 
 #### Status
 ACCEPTED

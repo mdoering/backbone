@@ -1,5 +1,4 @@
-Aspidella abrupta (Peck) E.-J. Gilbert SPECIES
-=======
+# Aspidella abrupta (Peck) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

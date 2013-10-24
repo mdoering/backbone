@@ -1,8 +1,7 @@
-Micromphale convexa (Murrill) Dennis SPECIES
-=======
+# Micromphale convexum (Murrill) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

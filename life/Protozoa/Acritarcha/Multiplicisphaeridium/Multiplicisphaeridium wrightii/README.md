@@ -1,5 +1,4 @@
-Multiplicisphaeridium wrightii Jacobson & Achab, 1985 SPECIES
-=======
+# Multiplicisphaeridium wrightii Jacobson & Achab, 1985 SPECIES
 
 #### Status
 ACCEPTED

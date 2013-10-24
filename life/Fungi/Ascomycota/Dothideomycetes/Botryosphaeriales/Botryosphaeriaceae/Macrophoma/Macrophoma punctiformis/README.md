@@ -1,5 +1,4 @@
-Macrophoma punctiformis Sacc. & P. Syd. SPECIES
-=======
+# Macrophoma punctiformis Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

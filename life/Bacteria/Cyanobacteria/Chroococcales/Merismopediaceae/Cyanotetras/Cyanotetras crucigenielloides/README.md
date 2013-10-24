@@ -1,5 +1,4 @@
-Cyanotetras crucigenielloides Komárek SPECIES
-=======
+# Cyanotetras crucigenielloides Komárek SPECIES
 
 #### Status
 ACCEPTED

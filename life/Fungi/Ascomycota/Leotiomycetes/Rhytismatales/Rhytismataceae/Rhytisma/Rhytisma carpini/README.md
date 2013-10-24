@@ -1,5 +1,4 @@
-Rhytisma carpini Menzel {?} SPECIES
-=======
+# Rhytisma carpini Menzel {?} SPECIES
 
 #### Status
 ACCEPTED

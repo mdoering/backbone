@@ -1,5 +1,4 @@
-Homostegia kelseyi Ellis & Everh. SPECIES
-=======
+# Homostegia kelseyi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

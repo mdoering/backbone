@@ -1,5 +1,4 @@
-Agaricus prunarii Schulzer SPECIES
-=======
+# Agaricus prunarii Schulzer SPECIES
 
 #### Status
 ACCEPTED

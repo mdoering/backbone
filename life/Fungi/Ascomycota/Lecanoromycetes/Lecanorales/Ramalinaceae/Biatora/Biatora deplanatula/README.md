@@ -1,5 +1,4 @@
-Biatora deplanatula Müll. Arg. SPECIES
-=======
+# Biatora deplanatula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

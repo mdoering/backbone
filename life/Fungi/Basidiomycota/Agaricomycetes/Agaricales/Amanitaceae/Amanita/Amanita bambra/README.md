@@ -1,5 +1,4 @@
-Amanita bambra Grgur. SPECIES
-=======
+# Amanita bambra Grgur. SPECIES
 
 #### Status
 ACCEPTED

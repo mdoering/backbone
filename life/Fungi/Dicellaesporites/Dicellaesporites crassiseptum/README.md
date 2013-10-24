@@ -1,5 +1,4 @@
-Dicellaesporites crassiseptum Ramanujam & Srisailam SPECIES
-=======
+# Dicellaesporites crassiseptum Ramanujam & Srisailam SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Durella brunnea I. Hino & Katum. SPECIES
-=======
+# Durella brunnea I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

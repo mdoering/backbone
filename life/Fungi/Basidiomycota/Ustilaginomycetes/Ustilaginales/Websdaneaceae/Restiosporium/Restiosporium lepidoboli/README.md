@@ -1,14 +1,13 @@
-Tolyposporium lepidoboli McAlpine, 1906 SPECIES
-=======
+# Restiosporium lepidoboli (McAlpine) Vánky, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 74(2): 350 (2000)
 
 #### Original name
 Tolyposporium lepidoboli McAlpine, 1906

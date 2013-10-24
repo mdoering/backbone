@@ -1,5 +1,4 @@
-Navisporus perennis Ryvarden & Iturr., 2003 SPECIES
-=======
+# Navisporus perennis Ryvarden & Iturr., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus barbatus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Polystictus barbatus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

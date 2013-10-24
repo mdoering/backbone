@@ -1,8 +1,7 @@
-Monilia bucalis Niño & Puglisi SPECIES
-=======
+# Monilia buccalis Niño & Puglisi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Monilia bucalis Niño & Puglisi
+Monilia buccalis Niño & Puglisi
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Microdiplodia euonymi Politis SPECIES
-=======
+# Microdiplodia euonymi Politis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caleniomyces pulchellae Cif. & Tomas. SPECIES
-=======
+# Caleniomyces pulchellae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

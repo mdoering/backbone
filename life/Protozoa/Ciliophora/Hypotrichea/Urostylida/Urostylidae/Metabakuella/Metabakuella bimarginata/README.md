@@ -1,5 +1,4 @@
-Metabakuella bimarginata Franco, Esteban & Tellez, 1996 SPECIES
-=======
+# Metabakuella bimarginata Franco, Esteban & Tellez, 1996 SPECIES
 
 #### Status
 ACCEPTED

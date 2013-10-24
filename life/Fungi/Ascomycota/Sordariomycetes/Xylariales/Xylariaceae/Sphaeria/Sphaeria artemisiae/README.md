@@ -1,5 +1,4 @@
-Sphaeria artemisiae Schwein. SPECIES
-=======
+# Sphaeria artemisiae Schwein. SPECIES
 
 #### Status
 ACCEPTED

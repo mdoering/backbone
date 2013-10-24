@@ -1,5 +1,4 @@
-Meliola amphitricha Fr. SPECIES
-=======
+# Meliola amphitricha Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea ceratinella Vain. SPECIES
-=======
+# Usnea ceratinella Vain. SPECIES
 
 #### Status
 ACCEPTED

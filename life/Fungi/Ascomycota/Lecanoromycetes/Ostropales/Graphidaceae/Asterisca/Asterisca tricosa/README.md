@@ -1,5 +1,4 @@
-Asterisca tricosa (Ach.) Zenker SPECIES
-=======
+# Asterisca tricosa (Ach.) Zenker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meridion intermedium var. constrictum H.L. Smith VARIETY
-=======
+# Meridion intermedium H.L. Smith SPECIES
 
 #### Status
 ACCEPTED

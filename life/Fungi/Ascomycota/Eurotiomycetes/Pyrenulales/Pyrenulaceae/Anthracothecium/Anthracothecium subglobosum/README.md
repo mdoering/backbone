@@ -1,5 +1,4 @@
-Anthracothecium subglobosum Riddle SPECIES
-=======
+# Anthracothecium subglobosum Riddle SPECIES
 
 #### Status
 ACCEPTED

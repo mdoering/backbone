@@ -1,5 +1,4 @@
-Cercospora poonensis T.S. Viswan. SPECIES
-=======
+# Cercospora poonensis T.S. Viswan. SPECIES
 
 #### Status
 ACCEPTED

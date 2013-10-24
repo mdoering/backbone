@@ -1,8 +1,7 @@
-Hypocomella macomae Chatton & Lwoff, 1924 SPECIES
-=======
+# Goniocoma macomae (Chatton & Lwoff, 1926) Chatton & Lwoff, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

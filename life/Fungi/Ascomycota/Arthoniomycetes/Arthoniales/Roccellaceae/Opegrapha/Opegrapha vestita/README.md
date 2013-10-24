@@ -1,5 +1,4 @@
-Opegrapha vestita Müll. Arg. SPECIES
-=======
+# Opegrapha vestita Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

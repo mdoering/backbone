@@ -1,5 +1,4 @@
-Ustilago formosana Sawada SPECIES
-=======
+# Ustilago formosana Sawada SPECIES
 
 #### Status
 ACCEPTED

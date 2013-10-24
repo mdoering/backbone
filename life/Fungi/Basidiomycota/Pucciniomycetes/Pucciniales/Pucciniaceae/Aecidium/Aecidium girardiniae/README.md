@@ -1,5 +1,4 @@
-Aecidium girardiniae Syd. & P. Syd. SPECIES
-=======
+# Aecidium girardiniae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

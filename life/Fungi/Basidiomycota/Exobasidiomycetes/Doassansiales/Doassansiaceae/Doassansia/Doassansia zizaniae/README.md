@@ -1,5 +1,4 @@
-Doassansia zizaniae Davis SPECIES
-=======
+# Doassansia zizaniae Davis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolicotrichum ungeri W. Voss SPECIES
-=======
+# Scolicotrichum ungeri W. Voss SPECIES
 
 #### Status
 ACCEPTED

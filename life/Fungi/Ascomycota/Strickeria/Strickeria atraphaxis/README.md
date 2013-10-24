@@ -1,8 +1,7 @@
-Strickera atraphaxis Kravtzev SPECIES
-=======
+# Strickeria atraphaxis Kravtzev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Strickera atraphaxis Kravtzev
+Strickeria atraphaxis Kravtzev
 
 ### Remarks
 null

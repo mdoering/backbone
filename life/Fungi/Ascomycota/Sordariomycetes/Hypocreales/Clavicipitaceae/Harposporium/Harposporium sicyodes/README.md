@@ -1,5 +1,4 @@
-Harposporium sicyodes Drechsler, 1959 SPECIES
-=======
+# Harposporium sicyodes Drechsler, 1959 SPECIES
 
 #### Status
 ACCEPTED

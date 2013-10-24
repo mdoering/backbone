@@ -1,5 +1,4 @@
-Thiriotia Desportes, Vivares & Théodoridès, 1977 GENUS
-=======
+# Thiriotia Desportes, Vivares & Théodoridès, 1977 GENUS
 
 #### Status
 ACCEPTED

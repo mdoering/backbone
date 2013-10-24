@@ -1,5 +1,4 @@
-Macmillanina vincae (G.H. Otth) Kuntze SPECIES
-=======
+# Macmillanina vincae (G.H. Otth) Kuntze SPECIES
 
 #### Status
 ACCEPTED

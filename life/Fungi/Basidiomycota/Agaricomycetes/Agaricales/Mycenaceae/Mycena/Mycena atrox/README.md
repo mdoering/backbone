@@ -1,5 +1,4 @@
-Mycena atrox Maas Geest. & de Meijer SPECIES
-=======
+# Mycena atrox Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

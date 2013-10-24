@@ -1,5 +1,4 @@
-Polyporus graffianus Bres. SPECIES
-=======
+# Polyporus graffianus Bres. SPECIES
 
 #### Status
 ACCEPTED

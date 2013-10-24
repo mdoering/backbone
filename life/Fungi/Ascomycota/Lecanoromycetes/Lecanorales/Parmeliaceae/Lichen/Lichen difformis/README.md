@@ -1,5 +1,4 @@
-Lichen difformis Huds. SPECIES
-=======
+# Lichen difformis Huds. SPECIES
 
 #### Status
 ACCEPTED

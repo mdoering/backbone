@@ -1,5 +1,4 @@
-Mycena glorocyanea (G.F. Atk.) Murrill SPECIES
-=======
+# Mycena glorocyanea (G.F. Atk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

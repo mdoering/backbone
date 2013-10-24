@@ -1,5 +1,4 @@
-Clisosporium syconophilum (Sacc. & Schulzer) Kuntze SPECIES
-=======
+# Clisosporium syconophilum (Sacc. & Schulzer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

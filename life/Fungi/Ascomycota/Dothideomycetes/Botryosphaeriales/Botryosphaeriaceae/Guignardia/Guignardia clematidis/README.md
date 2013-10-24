@@ -1,5 +1,4 @@
-Guignardia clematidis W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
-=======
+# Guignardia clematidis W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
 
 #### Status
 ACCEPTED

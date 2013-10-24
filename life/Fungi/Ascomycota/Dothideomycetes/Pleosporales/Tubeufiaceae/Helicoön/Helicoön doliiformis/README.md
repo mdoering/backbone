@@ -1,5 +1,4 @@
-Helicoön doliiformis H.S. Chang SPECIES
-=======
+# Helicoön doliiformis H.S. Chang SPECIES
 
 #### Status
 ACCEPTED

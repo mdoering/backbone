@@ -1,14 +1,13 @@
-Rhodocybe nauseodulcis E. Horak, 1979 SPECIES
-=======
+# Omphaliaster nauseodulcis (E. Horak) Noordel., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 31(1-6): 76 (1979)
+Persoonia 12(1): 46 (1983)
 
 #### Original name
 Rhodocybe nauseodulcis E. Horak, 1979

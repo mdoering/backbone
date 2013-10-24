@@ -1,5 +1,4 @@
-Imbricaria ambigua DC. SPECIES
-=======
+# Imbricaria ambigua DC. SPECIES
 
 #### Status
 ACCEPTED

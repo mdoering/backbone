@@ -1,5 +1,4 @@
-Gymnomyces vesiculosus Coker & Couch SPECIES
-=======
+# Gymnomyces vesiculosus Coker & Couch SPECIES
 
 #### Status
 ACCEPTED

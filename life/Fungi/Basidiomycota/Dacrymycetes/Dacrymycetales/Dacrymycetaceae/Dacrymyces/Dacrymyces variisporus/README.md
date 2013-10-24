@@ -1,5 +1,4 @@
-Dacrymyces variisporus McNabb, 1973 SPECIES
-=======
+# Dacrymyces variisporus McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

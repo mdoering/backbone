@@ -1,5 +1,4 @@
-Oidium lencoconium Desm. SPECIES
-=======
+# Oidium lencoconium Desm. SPECIES
 
 #### Status
 ACCEPTED

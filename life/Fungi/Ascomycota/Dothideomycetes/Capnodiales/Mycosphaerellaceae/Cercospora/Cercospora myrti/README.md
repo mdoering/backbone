@@ -1,5 +1,4 @@
-Cercospora myrti Erikss., 1885 SPECIES
-=======
+# Cercospora myrti Erikss., 1885 SPECIES
 
 #### Status
 ACCEPTED

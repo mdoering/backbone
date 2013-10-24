@@ -1,5 +1,4 @@
-Stictochorella eryngiana (Sacc. & Fautrey) Petr. SPECIES
-=======
+# Stictochorella eryngiana (Sacc. & Fautrey) Petr. SPECIES
 
 #### Status
 ACCEPTED

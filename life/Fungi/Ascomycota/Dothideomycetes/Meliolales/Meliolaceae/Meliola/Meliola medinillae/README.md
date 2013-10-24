@@ -1,5 +1,4 @@
-Meliola medinillae Hansf. SPECIES
-=======
+# Meliola medinillae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbilicaria jingralensis Nagarkar & Patw. SPECIES
-=======
+# Umbilicaria jingralensis Nagarkar & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Comamonas odontotermitis Jui-Hsing Chou, 2007 SPECIES
-=======
+# Comamonas odontotermitis Jui-Hsing Chou, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammula chrysotricha (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Flammula chrysotricha (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

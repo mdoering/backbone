@@ -1,5 +1,4 @@
-Thamnolia taurica (Wulfen) A. Massal.] SPECIES
-=======
+# Thamnolia taurica (Wulfen) A. Massal.] SPECIES
 
 #### Status
 ACCEPTED

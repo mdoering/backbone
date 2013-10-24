@@ -1,5 +1,4 @@
-Hypotrachyna kokiuensis (J.D. Zhao, L.W. Hsu & Z.M. Sun) J.C. Wei SPECIES
-=======
+# Hypotrachyna kokiuensis (J.D. Zhao, L.W. Hsu & Z.M. Sun) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

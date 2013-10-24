@@ -1,14 +1,13 @@
-Fomes noxius Corner, 1932 SPECIES
-=======
+# Phellinus noxius (Corner) G. Cunn., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gardens' Bulletin, Strait Settlements 5(12): 324 (1932)
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 164: 221 (1965)
 
 #### Original name
 Fomes noxius Corner, 1932

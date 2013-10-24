@@ -1,14 +1,13 @@
-Tuburcinia melicae Lagerh. & Liro, 1922 SPECIES
-=======
+# Urocystis melicae (Lagerh. & Liro) Zundel, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Univ. fenn. Aboënsis, Ser. A 1(no. 1): 23 (1922)
+Ustilaginales of the World 326 (1953)
 
 #### Original name
 Tuburcinia melicae Lagerh. & Liro, 1922

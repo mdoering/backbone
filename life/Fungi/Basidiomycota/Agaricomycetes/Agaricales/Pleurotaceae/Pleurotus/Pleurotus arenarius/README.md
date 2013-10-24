@@ -1,5 +1,4 @@
-Pleurotus arenarius Lasch SPECIES
-=======
+# Pleurotus arenarius Lasch SPECIES
 
 #### Status
 ACCEPTED

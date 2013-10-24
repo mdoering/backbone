@@ -1,5 +1,4 @@
-Agaricus epochnius Fr. SPECIES
-=======
+# Agaricus epochnius Fr. SPECIES
 
 #### Status
 ACCEPTED

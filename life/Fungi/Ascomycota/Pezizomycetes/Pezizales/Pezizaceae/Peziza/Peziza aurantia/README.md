@@ -1,5 +1,4 @@
-Peziza aurantia var. aurantia Pers. VARIETY
-=======
+# Peziza aurantia Schumach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Observ. mycol. (Lipsiae) 2: 76 (1800)
+Enum. pl. (Kjbenhavn) 2: 416 (1803)
 
 #### Original name
-Peziza aurantia var. aurantia Pers.
+Peziza aurantia Schumach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thelephora bolaris Pers. SPECIES
-=======
+# Thelephora bolaris Pers. SPECIES
 
 #### Status
 ACCEPTED

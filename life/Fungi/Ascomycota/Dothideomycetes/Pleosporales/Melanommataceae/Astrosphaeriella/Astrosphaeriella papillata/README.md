@@ -1,5 +1,4 @@
-Astrosphaeriella papillata K.D. Hyde & J. Fröhl. SPECIES
-=======
+# Astrosphaeriella papillata K.D. Hyde & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

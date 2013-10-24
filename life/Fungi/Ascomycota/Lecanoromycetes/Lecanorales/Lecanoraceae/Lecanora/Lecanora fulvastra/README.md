@@ -1,5 +1,4 @@
-Lecanora fulvastra Kremp. SPECIES
-=======
+# Lecanora fulvastra Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella rubicola (McAlpine) Tomilin SPECIES
-=======
+# Mycosphaerella rubicola (McAlpine) Tomilin SPECIES
 
 #### Status
 ACCEPTED

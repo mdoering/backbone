@@ -1,5 +1,4 @@
-Leiosphaeridia granulatopyla Tynni, 1982 SPECIES
-=======
+# Leiosphaeridia granulatopyla Tynni, 1982 SPECIES
 
 #### Status
 ACCEPTED

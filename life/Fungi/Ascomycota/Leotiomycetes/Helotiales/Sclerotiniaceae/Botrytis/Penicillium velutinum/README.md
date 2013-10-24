@@ -1,8 +1,7 @@
-Penicillium pinetorum M. Chr. & Backus, 1962 SPECIES
-=======
+# Penicillium velutinum J.F.H. Beyma, 1935 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

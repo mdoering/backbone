@@ -1,5 +1,4 @@
-Inonotus novoguineensis Ryvarden, 2005 SPECIES
-=======
+# Inonotus novoguineensis Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

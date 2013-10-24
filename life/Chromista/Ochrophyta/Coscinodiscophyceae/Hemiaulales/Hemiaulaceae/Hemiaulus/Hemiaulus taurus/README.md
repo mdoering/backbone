@@ -1,5 +1,4 @@
-Hemiaulus taurus A.M. Gombos SPECIES
-=======
+# Hemiaulus taurus A.M. Gombos SPECIES
 
 #### Status
 ACCEPTED

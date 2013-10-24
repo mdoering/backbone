@@ -1,5 +1,4 @@
-Keratosphaera porinae Matzer SPECIES
-=======
+# Keratosphaera porinae Matzer SPECIES
 
 #### Status
 ACCEPTED

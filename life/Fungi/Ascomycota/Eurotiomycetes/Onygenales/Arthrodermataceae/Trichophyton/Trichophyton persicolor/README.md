@@ -1,5 +1,4 @@
-Trichophyton persicolor Sabour. SPECIES
-=======
+# Trichophyton persicolor Sabour. SPECIES
 
 #### Status
 ACCEPTED

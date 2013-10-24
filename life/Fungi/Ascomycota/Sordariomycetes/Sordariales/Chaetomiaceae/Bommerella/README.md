@@ -1,5 +1,4 @@
-Bommerella Marchal GENUS
-=======
+# Bommerella Marchal GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globosphaeridium cerinum (Volkova, 1968) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Globosphaeridium cerinum (Volkova, 1968) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

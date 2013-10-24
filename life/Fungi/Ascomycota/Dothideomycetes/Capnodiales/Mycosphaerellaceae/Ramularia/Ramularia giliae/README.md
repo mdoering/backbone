@@ -1,5 +1,4 @@
-Ramularia giliae R. Sprague SPECIES
-=======
+# Ramularia giliae R. Sprague SPECIES
 
 #### Status
 ACCEPTED

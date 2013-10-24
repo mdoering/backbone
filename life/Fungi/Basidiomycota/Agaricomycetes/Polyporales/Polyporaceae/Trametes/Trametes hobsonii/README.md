@@ -1,8 +1,7 @@
-Trametes hobsoni Berk. SPECIES
-=======
+# Trametes hobsonii Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trametes hobsoni Berk.
+Trametes hobsonii Berk.
 
 ### Remarks
 null

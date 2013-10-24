@@ -1,5 +1,4 @@
-Phaeographina wattiana Müll. Arg. SPECIES
-=======
+# Phaeographina wattiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

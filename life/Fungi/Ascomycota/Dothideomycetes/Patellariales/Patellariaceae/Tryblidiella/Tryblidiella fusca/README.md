@@ -1,14 +1,13 @@
-Triblidium fuscum Ellis & Everh., 1892 SPECIES
-=======
+# Tryblidiella fusca (Ellis & Everh.) Rehm, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Pyren. (Newfield) 691 (1892)
+Hedwigia 39: 83 (1900)
 
 #### Original name
 Triblidium fuscum Ellis & Everh., 1892

@@ -1,5 +1,4 @@
-Calloria assimilis (Cooke & Peck) R. Heim SPECIES
-=======
+# Calloria assimilis (Cooke & Peck) R. Heim SPECIES
 
 #### Status
 ACCEPTED

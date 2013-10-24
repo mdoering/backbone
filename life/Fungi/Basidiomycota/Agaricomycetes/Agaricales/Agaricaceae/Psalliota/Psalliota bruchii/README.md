@@ -1,5 +1,4 @@
-Psalliota bruchii (Speg.) Herter SPECIES
-=======
+# Psalliota bruchii (Speg.) Herter SPECIES
 
 #### Status
 ACCEPTED

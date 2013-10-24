@@ -1,5 +1,4 @@
-Phoma adianticola (E. Young) Boerema, 1983 SPECIES
-=======
+# Phoma adianticola (E. Young) Boerema, 1983 SPECIES
 
 #### Status
 ACCEPTED

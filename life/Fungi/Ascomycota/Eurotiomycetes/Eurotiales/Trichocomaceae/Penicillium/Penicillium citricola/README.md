@@ -1,5 +1,4 @@
-Penicillium citricola Bainier & Sartory SPECIES
-=======
+# Penicillium citricola Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED

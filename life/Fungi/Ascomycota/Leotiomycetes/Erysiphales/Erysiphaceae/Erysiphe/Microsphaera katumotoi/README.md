@@ -1,5 +1,4 @@
-Microsphaera katumotoi U. Braun SPECIES
-=======
+# Microsphaera katumotoi U. Braun SPECIES
 
 #### Status
 ACCEPTED

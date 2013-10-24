@@ -1,5 +1,4 @@
-Tokophrya brachyosoma subsp. brachyosoma SUBSPECIES
-=======
+# Tokophrya brachyosoma SPECIES
 
 #### Status
 ACCEPTED

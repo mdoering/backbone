@@ -1,17 +1,16 @@
-Lepiota roseilivida Murrill SPECIES
-=======
+# Lepiota roseolivida Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 4(5): 234 (1912)
 
 #### Original name
-Lepiota roseilivida Murrill
+Lepiota roseolivida Murrill
 
 ### Remarks
 null

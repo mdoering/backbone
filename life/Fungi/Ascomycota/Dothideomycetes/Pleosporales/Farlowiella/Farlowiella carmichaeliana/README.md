@@ -1,14 +1,13 @@
-Hysterium carmichaelianum Berk., 1836 SPECIES
-=======
+# Farlowiella carmichaeliana (Berk.) Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handb. no. 2291 (1836)
+Syll. fung. (Abellini) 9: 1101 (1891)
 
 #### Original name
 Hysterium carmichaelianum Berk., 1836

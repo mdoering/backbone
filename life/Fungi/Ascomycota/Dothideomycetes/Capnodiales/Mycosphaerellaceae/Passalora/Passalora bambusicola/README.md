@@ -1,5 +1,4 @@
-Passalora bambusicola Poonam Srivast. SPECIES
-=======
+# Passalora bambusicola Poonam Srivast. SPECIES
 
 #### Status
 ACCEPTED

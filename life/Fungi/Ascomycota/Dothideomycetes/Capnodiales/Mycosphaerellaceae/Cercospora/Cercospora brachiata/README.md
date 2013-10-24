@@ -1,5 +1,4 @@
-Cercospora brachiata Ellis & Everh., 1888 SPECIES
-=======
+# Cercospora brachiata Ellis & Everh., 1888 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita crebresulcata Bas SPECIES
-=======
+# Amanita crebresulcata Bas SPECIES
 
 #### Status
 ACCEPTED

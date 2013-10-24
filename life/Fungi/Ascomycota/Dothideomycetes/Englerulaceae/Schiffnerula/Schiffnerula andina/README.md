@@ -1,5 +1,4 @@
-Schiffnerula andina Syd. SPECIES
-=======
+# Schiffnerula andina Syd. SPECIES
 
 #### Status
 ACCEPTED

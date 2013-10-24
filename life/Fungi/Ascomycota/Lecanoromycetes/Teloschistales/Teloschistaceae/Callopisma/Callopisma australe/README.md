@@ -1,5 +1,4 @@
-Callopisma australe var. australe VARIETY
-=======
+# Callopisma australe Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Callopisma australe var. australe
+Callopisma australe Müll. Arg.
 
 ### Remarks
 null

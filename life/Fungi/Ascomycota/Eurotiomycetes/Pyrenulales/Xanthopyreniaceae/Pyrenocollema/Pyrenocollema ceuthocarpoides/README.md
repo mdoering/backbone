@@ -1,5 +1,4 @@
-Pyrenocollema ceuthocarpoides (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Pyrenocollema ceuthocarpoides (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epipolaeum gallicum E. Müll. SPECIES
-=======
+# Epipolaeum gallicum E. Müll. SPECIES
 
 #### Status
 ACCEPTED

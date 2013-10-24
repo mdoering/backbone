@@ -1,5 +1,4 @@
-Luminella punctata (Wailes, 1925) SPECIES
-=======
+# Luminella punctata (Wailes, 1925) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia terrae-novae Savile SPECIES
-=======
+# Ramularia terrae-novae Savile SPECIES
 
 #### Status
 ACCEPTED

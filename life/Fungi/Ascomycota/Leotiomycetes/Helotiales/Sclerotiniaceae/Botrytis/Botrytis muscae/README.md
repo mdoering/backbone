@@ -1,5 +1,4 @@
-Botrytis muscae Rostr. SPECIES
-=======
+# Botrytis muscae Rostr. SPECIES
 
 #### Status
 ACCEPTED

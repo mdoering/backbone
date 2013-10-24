@@ -1,5 +1,4 @@
-Dothidella rumicis (P. Karst.) Sacc. SPECIES
-=======
+# Dothidella rumicis (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

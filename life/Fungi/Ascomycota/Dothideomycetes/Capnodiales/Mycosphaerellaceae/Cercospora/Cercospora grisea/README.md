@@ -1,5 +1,4 @@
-Cercospora grisea Cooke & Ellis SPECIES
-=======
+# Cercospora grisea Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

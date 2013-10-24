@@ -1,5 +1,4 @@
-Acaulopage lasiospora Drechsler, 1942 SPECIES
-=======
+# Acaulopage lasiospora Drechsler, 1942 SPECIES
 
 #### Status
 ACCEPTED

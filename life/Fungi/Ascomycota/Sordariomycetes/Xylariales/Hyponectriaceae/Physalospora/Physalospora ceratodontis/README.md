@@ -1,5 +1,4 @@
-Physalospora ceratodontis Henn. & E. Nyman SPECIES
-=======
+# Physalospora ceratodontis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

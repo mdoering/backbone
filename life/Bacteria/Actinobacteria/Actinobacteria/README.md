@@ -1,5 +1,4 @@
-Actinobacteria CLASS
-=======
+# Actinobacteria CLASS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterella verruculosa Syd. SPECIES
-=======
+# Asterella verruculosa Syd. SPECIES
 
 #### Status
 ACCEPTED

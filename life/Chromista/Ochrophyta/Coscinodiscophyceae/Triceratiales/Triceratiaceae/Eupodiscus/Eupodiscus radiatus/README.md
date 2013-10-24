@@ -1,5 +1,4 @@
-Eupodiscus radiatus J.W. Bailey SPECIES
-=======
+# Eupodiscus radiatus J.W. Bailey SPECIES
 
 #### Status
 ACCEPTED

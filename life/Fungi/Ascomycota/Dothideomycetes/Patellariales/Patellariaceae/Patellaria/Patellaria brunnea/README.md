@@ -1,5 +1,4 @@
-Patellaria brunnea DC. SPECIES
-=======
+# Patellaria brunnea DC. SPECIES
 
 #### Status
 ACCEPTED

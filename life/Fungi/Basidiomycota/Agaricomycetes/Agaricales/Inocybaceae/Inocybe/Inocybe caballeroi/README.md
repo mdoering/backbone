@@ -1,5 +1,4 @@
-Inocybe caballeroi C.E. Hermos. & Esteve-Rav. SPECIES
-=======
+# Inocybe caballeroi C.E. Hermos. & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

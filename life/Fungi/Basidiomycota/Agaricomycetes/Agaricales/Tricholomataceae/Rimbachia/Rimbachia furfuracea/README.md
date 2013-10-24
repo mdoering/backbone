@@ -1,14 +1,13 @@
-Cantharellus furfuraceus Petch, 1917 SPECIES
-=======
+# Rimbachia furfuracea (Petch) Redhead, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. R. bot. Gdns Peradeniya 6: 200 (1917)
+Can. J. Bot. 62(5): 880 (1984)
 
 #### Original name
 Cantharellus furfuraceus Petch, 1917

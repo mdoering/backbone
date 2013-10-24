@@ -1,5 +1,4 @@
-Uredo cissicola Cummins SPECIES
-=======
+# Uredo cissicola Cummins SPECIES
 
 #### Status
 ACCEPTED

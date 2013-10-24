@@ -1,8 +1,7 @@
-Acrosphaera spinosa subsp. lappacea SUBSPECIES
-=======
+# Acrosphaera lappacea (Haeckel) Johnson & Nigrini, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

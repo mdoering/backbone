@@ -1,5 +1,4 @@
-Puccinia magelhaenica Peyronel SPECIES
-=======
+# Puccinia magelhaenica Peyronel SPECIES
 
 #### Status
 ACCEPTED

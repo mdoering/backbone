@@ -1,5 +1,4 @@
-Carbacanthographis subalbotecta Staiger & Kalb SPECIES
-=======
+# Carbacanthographis subalbotecta Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

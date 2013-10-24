@@ -1,5 +1,4 @@
-Boletus praestigiator R. Schulz SPECIES
-=======
+# Boletus praestigiator R. Schulz SPECIES
 
 #### Status
 ACCEPTED

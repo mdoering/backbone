@@ -1,5 +1,4 @@
-Micropeltis smilacis Beeli SPECIES
-=======
+# Micropeltis smilacis Beeli SPECIES
 
 #### Status
 ACCEPTED

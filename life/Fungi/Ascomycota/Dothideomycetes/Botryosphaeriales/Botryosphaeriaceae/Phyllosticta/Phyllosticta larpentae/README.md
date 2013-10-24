@@ -1,5 +1,4 @@
-Phyllosticta larpentae Tassi SPECIES
-=======
+# Phyllosticta larpentae Tassi SPECIES
 
 #### Status
 ACCEPTED

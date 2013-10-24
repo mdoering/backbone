@@ -1,5 +1,4 @@
-Graphis sphalera Nyl. SPECIES
-=======
+# Graphis sphalera Nyl. SPECIES
 
 #### Status
 ACCEPTED

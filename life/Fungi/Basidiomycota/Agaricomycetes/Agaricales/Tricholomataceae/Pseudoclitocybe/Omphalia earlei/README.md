@@ -1,5 +1,4 @@
-Omphalia earlei (Murrill) Murrill SPECIES
-=======
+# Omphalia earlei (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

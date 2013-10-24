@@ -1,5 +1,4 @@
-Hormiactella obesa Höhn. SPECIES
-=======
+# Hormiactella obesa Höhn. SPECIES
 
 #### Status
 ACCEPTED

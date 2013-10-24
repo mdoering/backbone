@@ -1,5 +1,4 @@
-Usnea insignis var. insignis VARIETY
-=======
+# Usnea insignis Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea insignis var. insignis
+Usnea insignis Motyka
 
 ### Remarks
 null

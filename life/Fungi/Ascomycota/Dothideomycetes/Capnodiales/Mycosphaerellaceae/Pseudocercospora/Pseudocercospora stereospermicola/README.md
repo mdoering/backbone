@@ -1,5 +1,4 @@
-Pseudocercospora stereospermicola Srisk. & Sivan. SPECIES
-=======
+# Pseudocercospora stereospermicola Srisk. & Sivan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Chrysosporium fermentotritici K. Matsush. & Matsush. SPECIES
-=======
+# Chrysosporium fermentatitritici K. Matsush. & Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 31 (1996)
 
 #### Original name
-Chrysosporium fermentotritici K. Matsush. & Matsush.
+Chrysosporium fermentatitritici K. Matsush. & Matsush.
 
 ### Remarks
 null

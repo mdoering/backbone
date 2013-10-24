@@ -1,5 +1,4 @@
-Sporormia octoloculata Fabre SPECIES
-=======
+# Sporormia octoloculata Fabre SPECIES
 
 #### Status
 ACCEPTED

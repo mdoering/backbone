@@ -1,5 +1,4 @@
-Sphaerotheca detonsa (Fr.) J. Kickx f. SPECIES
-=======
+# Sphaerotheca detonsa (Fr.) J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

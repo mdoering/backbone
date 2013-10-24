@@ -1,5 +1,4 @@
-Bolivina laevigata (Williamson) SPECIES
-=======
+# Bolivina laevigata (Williamson) SPECIES
 
 #### Status
 ACCEPTED

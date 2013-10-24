@@ -1,5 +1,4 @@
-Eggerthella Wade et al., 1999 GENUS
-=======
+# Eggerthella Wade et al., 1999 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella rufescens (Speg.) J.L. Mulder SPECIES
-=======
+# Stenella rufescens (Speg.) J.L. Mulder SPECIES
 
 #### Status
 ACCEPTED

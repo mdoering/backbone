@@ -1,5 +1,4 @@
-Peziza poriiformis SPECIES
-=======
+# Peziza poriiformis SPECIES
 
 #### Status
 ACCEPTED

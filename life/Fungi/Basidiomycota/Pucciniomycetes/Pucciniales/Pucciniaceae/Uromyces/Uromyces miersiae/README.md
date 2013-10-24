@@ -1,5 +1,4 @@
-Uromyces miersiae Gäum. SPECIES
-=======
+# Uromyces miersiae Gäum. SPECIES
 
 #### Status
 ACCEPTED

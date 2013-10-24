@@ -1,5 +1,4 @@
-Spermatodium parolinii (Beltr.) Trevis. SPECIES
-=======
+# Spermatodium parolinii (Beltr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

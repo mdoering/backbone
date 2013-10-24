@@ -1,5 +1,4 @@
-Leucocoprinus imerinensis Bouriquet SPECIES
-=======
+# Leucocoprinus imerinensis Bouriquet SPECIES
 
 #### Status
 ACCEPTED

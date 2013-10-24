@@ -1,5 +1,4 @@
-Cortinarius intempestivus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius intempestivus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

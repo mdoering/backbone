@@ -1,5 +1,4 @@
-Peltigera pusilla var. pusilla VARIETY
-=======
+# Peltigera pusilla (Fr.) Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syst. lich. germ. (Breslau) 59 (1855)
 
 #### Original name
-Peltigera pusilla var. pusilla
+Peltigera canina var. pusilla Fr.
 
 ### Remarks
 null

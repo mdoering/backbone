@@ -1,5 +1,4 @@
-Scutellinia alnea (Velen.) Svrcek SPECIES
-=======
+# Scutellinia alnea (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

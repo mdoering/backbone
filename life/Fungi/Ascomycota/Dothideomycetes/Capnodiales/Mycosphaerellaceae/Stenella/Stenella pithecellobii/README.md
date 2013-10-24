@@ -1,5 +1,4 @@
-Stenella pithecellobii J.L. Mulder SPECIES
-=======
+# Stenella pithecellobii J.L. Mulder SPECIES
 
 #### Status
 ACCEPTED

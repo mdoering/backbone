@@ -1,5 +1,4 @@
-Ceriporia vermicularis M. Pieri & B. Rivoire SPECIES
-=======
+# Ceriporia vermicularis M. Pieri & B. Rivoire SPECIES
 
 #### Status
 ACCEPTED

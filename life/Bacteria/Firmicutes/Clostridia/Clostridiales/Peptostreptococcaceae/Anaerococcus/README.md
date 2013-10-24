@@ -1,5 +1,4 @@
-Anaerococcus Ezaki et al., 2001 GENUS
-=======
+# Anaerococcus Ezaki et al., 2001 GENUS
 
 #### Status
 ACCEPTED

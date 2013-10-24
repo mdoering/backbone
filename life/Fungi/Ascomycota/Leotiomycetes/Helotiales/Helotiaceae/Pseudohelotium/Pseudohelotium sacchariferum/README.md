@@ -1,5 +1,4 @@
-Pseudohelotium sacchariferum (Berk.) Sacc. SPECIES
-=======
+# Pseudohelotium sacchariferum (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

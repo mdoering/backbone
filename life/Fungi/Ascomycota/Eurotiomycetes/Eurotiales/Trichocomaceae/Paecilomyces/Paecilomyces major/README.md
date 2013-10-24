@@ -1,5 +1,4 @@
-Paecilomyces major (Z.Q. Liang, H.L. Chu & Y.F. Han) Z.Q. Liang, H.L. Chu & Y.F. Han SPECIES
-=======
+# Paecilomyces major (Z.Q. Liang, H.L. Chu & Y.F. Han) Z.Q. Liang, H.L. Chu & Y.F. Han SPECIES
 
 #### Status
 ACCEPTED

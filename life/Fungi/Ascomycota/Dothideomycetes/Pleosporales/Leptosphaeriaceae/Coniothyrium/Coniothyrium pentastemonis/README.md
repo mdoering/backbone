@@ -1,5 +1,4 @@
-Coniothyrium pentastemonis Tracy & Earle SPECIES
-=======
+# Coniothyrium pentastemonis Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xyloschistes platytropa (Nyl.) Vain. SPECIES
-=======
+# Xyloschistes platytropa (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

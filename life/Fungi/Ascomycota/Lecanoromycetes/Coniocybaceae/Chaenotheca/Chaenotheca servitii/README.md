@@ -1,5 +1,4 @@
-Chaenotheca servitii f. servitii FORM
-=======
+# Chaenotheca servitii Nádv. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Chaenotheca servitii f. servitii
+Chaenotheca servitii Nádv.
 
 ### Remarks
 null

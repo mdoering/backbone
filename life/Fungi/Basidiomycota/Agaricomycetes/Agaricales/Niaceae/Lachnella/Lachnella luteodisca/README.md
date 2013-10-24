@@ -1,5 +1,4 @@
-Lachnella luteodisca Peck SPECIES
-=======
+# Lachnella luteodisca Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discula discoidea (Cooke & Peck) House SPECIES
-=======
+# Discula discoidea (Cooke & Peck) House SPECIES
 
 #### Status
 ACCEPTED

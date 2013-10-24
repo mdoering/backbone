@@ -1,5 +1,4 @@
-Lituotubella Rauzer-Chernousova, 1948 GENUS
-=======
+# Lituotubella Rauzer-Chernousova, 1948 GENUS
 
 #### Status
 ACCEPTED

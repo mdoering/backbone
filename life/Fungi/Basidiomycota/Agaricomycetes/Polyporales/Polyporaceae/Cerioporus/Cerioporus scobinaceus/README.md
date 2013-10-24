@@ -1,5 +1,4 @@
-Cerioporus scobinaceus (Cumino) Quél. SPECIES
-=======
+# Cerioporus scobinaceus (Cumino) Quél. SPECIES
 
 #### Status
 ACCEPTED

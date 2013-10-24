@@ -1,5 +1,4 @@
-Venenarius rubens (Scop.) Murrill SPECIES
-=======
+# Venenarius rubens (Scop.) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium phyllachoricola Bat. & J.L. Bezerra SPECIES
-=======
+# Coniothyrium phyllachoricola Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

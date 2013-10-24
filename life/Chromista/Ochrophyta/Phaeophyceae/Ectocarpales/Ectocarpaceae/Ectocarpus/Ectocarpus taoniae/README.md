@@ -1,5 +1,4 @@
-Ectocarpus taoniae Setchell & N.L. Gardner SPECIES
-=======
+# Ectocarpus taoniae Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

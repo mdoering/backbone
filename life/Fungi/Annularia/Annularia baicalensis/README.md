@@ -1,5 +1,4 @@
-Annularia baicalensis P. Karst. SPECIES
-=======
+# Annularia baicalensis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

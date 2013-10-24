@@ -1,5 +1,4 @@
-Micropeltis subcyanea (Ellis & G. Martin) M.E. Barr SPECIES
-=======
+# Micropeltis subcyanea (Ellis & G. Martin) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

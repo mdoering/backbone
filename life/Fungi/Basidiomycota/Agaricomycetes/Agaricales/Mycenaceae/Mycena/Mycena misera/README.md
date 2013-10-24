@@ -1,5 +1,4 @@
-Mycena misera (Fr.) A.H. Sm. SPECIES
-=======
+# Mycena misera (Fr.) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

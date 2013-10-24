@@ -1,5 +1,4 @@
-Dicaeoma triniochloae (Arthur & Holw.) Arthur & Fromme SPECIES
-=======
+# Dicaeoma triniochloae (Arthur & Holw.) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

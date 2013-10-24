@@ -1,17 +1,16 @@
-Trichia aurea var. affinis Oeder VARIETY
-=======
+# Craterium aureum (Schumach.) Rostaf., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Danic. tab. 1314, fig. 2 (1790)
+Jb. nassau. Ver. Naturk. 23-24: 342 (1870)
 
 #### Original name
-Trichia aurea var. affinis Oeder
+Craterium aureum (Schumach.) Rostaf., 1874
 
 ### Remarks
 null

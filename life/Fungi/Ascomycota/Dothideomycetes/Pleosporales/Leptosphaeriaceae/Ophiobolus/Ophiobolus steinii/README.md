@@ -1,5 +1,4 @@
-Ophiobolus steinii (Körb.) Berl. & Voglino SPECIES
-=======
+# Ophiobolus steinii (Körb.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

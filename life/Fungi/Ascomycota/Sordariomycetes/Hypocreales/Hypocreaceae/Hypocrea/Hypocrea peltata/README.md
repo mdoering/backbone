@@ -1,5 +1,4 @@
-Hypocrea peltata (Jungh.) Sacc. SPECIES
-=======
+# Hypocrea peltata (Jungh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

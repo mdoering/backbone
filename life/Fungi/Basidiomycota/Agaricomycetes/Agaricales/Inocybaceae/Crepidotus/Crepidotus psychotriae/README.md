@@ -1,5 +1,4 @@
-Crepidotus psychotriae Pat. SPECIES
-=======
+# Crepidotus psychotriae Pat. SPECIES
 
 #### Status
 ACCEPTED

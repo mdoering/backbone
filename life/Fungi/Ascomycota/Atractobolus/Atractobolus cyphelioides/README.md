@@ -1,14 +1,13 @@
-Atractobolus cypheliodes (Rehm) Kuntze SPECIES
-=======
+# Atractobolus cyphelioides (Rehm) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 445 (1898)
 
 #### Original name
 Trichopeziza cyphelioides Rehm

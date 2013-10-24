@@ -1,5 +1,4 @@
-Cercosporella thladianthae R. Kirschner SPECIES
-=======
+# Cercosporella thladianthae R. Kirschner SPECIES
 
 #### Status
 ACCEPTED

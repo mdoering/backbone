@@ -1,5 +1,4 @@
-Aposphaeria henryana Traverso SPECIES
-=======
+# Aposphaeria henryana Traverso SPECIES
 
 #### Status
 ACCEPTED

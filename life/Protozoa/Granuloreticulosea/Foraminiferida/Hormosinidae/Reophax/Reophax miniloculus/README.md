@@ -1,5 +1,4 @@
-Reophax miniloculus Zheng & Fu, 2001 SPECIES
-=======
+# Reophax miniloculus Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

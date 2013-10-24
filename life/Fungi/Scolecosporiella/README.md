@@ -1,5 +1,4 @@
-Scolecosporiella von Höhnel, 1923 GENUS
-=======
+# Scolecosporiella von Höhnel, 1923 GENUS
 
 #### Status
 ACCEPTED

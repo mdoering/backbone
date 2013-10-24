@@ -1,5 +1,4 @@
-Coniothyrium occultum Syd. SPECIES
-=======
+# Coniothyrium occultum Syd. SPECIES
 
 #### Status
 ACCEPTED

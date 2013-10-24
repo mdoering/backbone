@@ -1,14 +1,13 @@
-Morispora clara (H.S. Jacks. & Holw.) Salazar-Yepes, Pardo-Card. & Buriticá, 2007 SPECIES
-=======
+# Gerwasia clara (H.S. Jacks. & Holw.) Buriticá, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Caldasia 29(1): 108 (2007)
+Revta ICNE, Instit. Cienc. Nat. Ecol. 5(2): 185 (1994)
 
 #### Original name
 Mainsia clara H.S. Jacks. & Holw., 1931

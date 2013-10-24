@@ -1,5 +1,4 @@
-Cucurbitaria rubifaciens Petr. SPECIES
-=======
+# Cucurbitaria rubifaciens Petr. SPECIES
 
 #### Status
 ACCEPTED

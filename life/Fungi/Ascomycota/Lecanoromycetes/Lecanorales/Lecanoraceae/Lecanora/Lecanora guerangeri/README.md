@@ -1,17 +1,16 @@
-Lecanora guerangerii Diard SPECIES
-=======
+# Lecanora guerangeri Diard SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Acad. Intern. Géogr. Bot. 10: 262 (1901)
 
 #### Original name
-Lecanora guerangerii Diard
+Lecanora guerangeri Diard
 
 ### Remarks
 null

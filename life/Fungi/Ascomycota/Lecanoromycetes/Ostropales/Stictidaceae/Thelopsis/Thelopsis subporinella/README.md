@@ -1,5 +1,4 @@
-Thelopsis subporinella Nyl. SPECIES
-=======
+# Thelopsis subporinella Nyl. SPECIES
 
 #### Status
 ACCEPTED

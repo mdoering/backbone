@@ -1,5 +1,4 @@
-Palanaea S.C.D. Sah & R.K. Kar, 1974 GENUS
-=======
+# Palanaea S.C.D. Sah & R.K. Kar, 1974 GENUS
 
 #### Status
 ACCEPTED

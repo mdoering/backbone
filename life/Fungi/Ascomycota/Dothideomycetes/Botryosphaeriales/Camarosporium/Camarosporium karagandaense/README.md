@@ -1,5 +1,4 @@
-Camarosporium karagandaense Vasyag. SPECIES
-=======
+# Camarosporium karagandaense Vasyag. SPECIES
 
 #### Status
 ACCEPTED

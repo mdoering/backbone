@@ -1,17 +1,16 @@
-Thaxteria kuenckeli Giard SPECIES
-=======
+# Thaxteria kunkelii Giard, 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+C. r. Seanc. Soc. Biol. 44(4): 156 (1892)
 
 #### Original name
-Thaxteria kuenckeli Giard
+Thaxteria kunkelii Giard, 1892
 
 ### Remarks
 null

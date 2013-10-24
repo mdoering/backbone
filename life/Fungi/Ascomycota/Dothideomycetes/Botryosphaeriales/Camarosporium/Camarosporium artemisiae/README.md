@@ -1,5 +1,4 @@
-Camarosporium artemisiae Subhedar & V.G. Rao SPECIES
-=======
+# Camarosporium artemisiae Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus pleurotoides T.W. Henkel, Aime & S.L. Mill., 2006 SPECIES
-=======
+# Cantharellus pleurotoides T.W. Henkel, Aime & S.L. Mill., 2006 SPECIES
 
 #### Status
 ACCEPTED

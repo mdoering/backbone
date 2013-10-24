@@ -1,5 +1,4 @@
-Phoma albistrata Peck SPECIES
-=======
+# Phoma albistrata Peck SPECIES
 
 #### Status
 ACCEPTED

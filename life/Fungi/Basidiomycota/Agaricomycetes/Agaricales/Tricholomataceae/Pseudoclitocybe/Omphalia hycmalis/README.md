@@ -1,5 +1,4 @@
-Omphalia hycmalis Velen. SPECIES
-=======
+# Omphalia hycmalis Velen. SPECIES
 
 #### Status
 ACCEPTED

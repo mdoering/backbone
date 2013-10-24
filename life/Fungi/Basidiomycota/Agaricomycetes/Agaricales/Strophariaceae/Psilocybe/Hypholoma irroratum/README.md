@@ -1,5 +1,4 @@
-Hypholoma irroratum (P. Karst.) Sacc. SPECIES
-=======
+# Hypholoma irroratum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

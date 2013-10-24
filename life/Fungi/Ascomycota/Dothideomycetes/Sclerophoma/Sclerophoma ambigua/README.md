@@ -1,5 +1,4 @@
-Sclerophoma ambigua A. Funk & A.K. Parker SPECIES
-=======
+# Sclerophoma ambigua A. Funk & A.K. Parker SPECIES
 
 #### Status
 ACCEPTED

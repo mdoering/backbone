@@ -1,5 +1,4 @@
-Trichophyton flavum E. Bodin SPECIES
-=======
+# Trichophyton flavum E. Bodin SPECIES
 
 #### Status
 ACCEPTED

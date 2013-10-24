@@ -1,5 +1,4 @@
-Macrosporium pruni-mahalebi Savul. & Sandu SPECIES
-=======
+# Macrosporium pruni-mahalebi Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

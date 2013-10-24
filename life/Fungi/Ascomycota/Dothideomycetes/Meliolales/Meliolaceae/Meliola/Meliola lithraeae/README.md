@@ -1,5 +1,4 @@
-Meliola lithraeae Hansf. SPECIES
-=======
+# Meliola lithraeae Hansf. SPECIES
 
 #### Status
 ACCEPTED

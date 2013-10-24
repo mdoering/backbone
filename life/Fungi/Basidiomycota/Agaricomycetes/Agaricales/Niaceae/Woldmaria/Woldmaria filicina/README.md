@@ -1,14 +1,13 @@
-Henningsomyces filicinus (Peck) Kuntze, 1898 SPECIES
-=======
+# Woldmaria filicina (Peck) Knudsen, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 483 (1898)
+in Knudsen & Hansen, Nordic Jl Bot. 16(2): 219 (1996)
 
 #### Original name
 Solenia filicina Peck, 1876

@@ -1,5 +1,4 @@
-Septoria cornina Kuhnh.-Lord. SPECIES
-=======
+# Septoria cornina Kuhnh.-Lord. SPECIES
 
 #### Status
 ACCEPTED

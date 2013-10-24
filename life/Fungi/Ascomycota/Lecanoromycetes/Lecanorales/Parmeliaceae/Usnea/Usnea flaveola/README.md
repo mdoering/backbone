@@ -1,5 +1,4 @@
-Usnea flaveola Motyka SPECIES
-=======
+# Usnea flaveola Motyka SPECIES
 
 #### Status
 ACCEPTED

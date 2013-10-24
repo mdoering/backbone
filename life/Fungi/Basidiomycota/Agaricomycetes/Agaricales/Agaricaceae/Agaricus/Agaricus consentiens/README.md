@@ -1,5 +1,4 @@
-Agaricus consentiens P. Karst. SPECIES
-=======
+# Agaricus consentiens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

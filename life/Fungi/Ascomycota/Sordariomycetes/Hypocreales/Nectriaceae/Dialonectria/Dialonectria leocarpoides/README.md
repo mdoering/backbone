@@ -1,5 +1,4 @@
-Dialonectria leocarpoides (Kalchbr. & Cooke) Cooke SPECIES
-=======
+# Dialonectria leocarpoides (Kalchbr. & Cooke) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia tortuosa Thaxt. SPECIES
-=======
+# Laboulbenia tortuosa Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium campanulae Gaillard SPECIES
-=======
+# Aecidium campanulae Gaillard SPECIES
 
 #### Status
 ACCEPTED

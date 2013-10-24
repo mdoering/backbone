@@ -1,5 +1,4 @@
-Polyascomyces Thaxt. GENUS
-=======
+# Polyascomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora diedickei Jaap SPECIES
-=======
+# Rhabdospora diedickei Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrocystis elegans Pavillard SPECIES
-=======
+# Pyrocystis elegans Pavillard SPECIES
 
 #### Status
 ACCEPTED

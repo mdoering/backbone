@@ -1,5 +1,4 @@
-Arthonia argentea Stizenb. SPECIES
-=======
+# Arthonia argentea Stizenb. SPECIES
 
 #### Status
 ACCEPTED

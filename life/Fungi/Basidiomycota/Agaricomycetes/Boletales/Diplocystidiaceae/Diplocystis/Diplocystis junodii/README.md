@@ -1,5 +1,4 @@
-Diplocystis junodii Pole-Evans & Bottomley SPECIES
-=======
+# Diplocystis junodii Pole-Evans & Bottomley SPECIES
 
 #### Status
 ACCEPTED

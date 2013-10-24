@@ -1,5 +1,4 @@
-Geleia nigriceps Kahl, 1933 SPECIES
-=======
+# Geleia nigriceps Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

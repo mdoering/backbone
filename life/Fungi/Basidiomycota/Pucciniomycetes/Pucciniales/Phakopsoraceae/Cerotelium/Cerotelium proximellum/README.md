@@ -1,5 +1,4 @@
-Cerotelium proximellum Syd., 1937 SPECIES
-=======
+# Cerotelium proximellum Syd., 1937 SPECIES
 
 #### Status
 ACCEPTED

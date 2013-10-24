@@ -1,5 +1,4 @@
-Peltigera dolichospora (Lu) Vitik. SPECIES
-=======
+# Peltigera dolichospora (Lu) Vitik. SPECIES
 
 #### Status
 ACCEPTED

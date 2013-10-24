@@ -1,5 +1,4 @@
-Zignoëlla slaptonensis P.F. Cannon, 1997 SPECIES
-=======
+# Zignoëlla slaptonensis P.F. Cannon, 1997 SPECIES
 
 #### Status
 ACCEPTED

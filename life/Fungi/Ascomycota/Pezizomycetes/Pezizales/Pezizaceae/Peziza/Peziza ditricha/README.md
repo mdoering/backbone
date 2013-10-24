@@ -1,5 +1,4 @@
-Peziza ditricha Fr. SPECIES
-=======
+# Peziza ditricha Fr. SPECIES
 
 #### Status
 ACCEPTED

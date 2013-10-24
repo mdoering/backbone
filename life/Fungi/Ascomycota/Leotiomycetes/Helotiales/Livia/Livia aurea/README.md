@@ -1,5 +1,4 @@
-Livia aurea Velen., 1947 SPECIES
-=======
+# Livia aurea Velen., 1947 SPECIES
 
 #### Status
 ACCEPTED

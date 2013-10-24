@@ -1,8 +1,7 @@
-Cochlonema bactrosporum var. bactrosporum Drechsler, 1939 VARIETY
-=======
+# Cochlonema bactrosporum Drechsler, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycologia 31: 142 (1939)
 
 #### Original name
-Cochlonema bactrosporum var. bactrosporum Drechsler, 1939
+Cochlonema bactrosporum Drechsler, 1939
 
 ### Remarks
 null

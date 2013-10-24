@@ -1,17 +1,16 @@
-Cercospora microsora var. microsora VARIETY
-=======
+# Mycosphaerella microsora Syd. & P. Syd., 1940 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 38(5/6): 465 (1940)
 
 #### Original name
-null
+Mycosphaerella microsora Syd. & P. Syd., 1940
 
 ### Remarks
 null

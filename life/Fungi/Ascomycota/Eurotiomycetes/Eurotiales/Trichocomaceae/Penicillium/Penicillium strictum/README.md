@@ -1,5 +1,4 @@
-Penicillium strictum ined. SPECIES
-=======
+# Penicillium strictum ined. SPECIES
 
 #### Status
 ACCEPTED

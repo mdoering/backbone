@@ -1,5 +1,4 @@
-Meliola tuberculata F. Stevens SPECIES
-=======
+# Meliola tuberculata F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epichloë sporoboli Teng SPECIES
-=======
+# Epichloë sporoboli Teng SPECIES
 
 #### Status
 ACCEPTED

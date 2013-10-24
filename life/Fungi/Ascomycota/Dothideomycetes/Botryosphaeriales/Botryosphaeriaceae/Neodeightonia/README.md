@@ -1,5 +1,4 @@
-Neodeightonia GENUS
-=======
+# Neodeightonia GENUS
 
 #### Status
 ACCEPTED

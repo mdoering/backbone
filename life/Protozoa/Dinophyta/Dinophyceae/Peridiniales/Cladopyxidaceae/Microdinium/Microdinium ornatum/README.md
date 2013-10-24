@@ -1,5 +1,4 @@
-Microdinium ornatum Cookson & Eisenack SPECIES
-=======
+# Microdinium ornatum Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota janseana Henn. & E. Nyman SPECIES
-=======
+# Pholiota janseana Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

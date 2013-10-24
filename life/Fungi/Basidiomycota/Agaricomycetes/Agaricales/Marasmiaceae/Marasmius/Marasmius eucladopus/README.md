@@ -1,5 +1,4 @@
-Marasmius eucladopus Singer SPECIES
-=======
+# Marasmius eucladopus Singer SPECIES
 
 #### Status
 ACCEPTED

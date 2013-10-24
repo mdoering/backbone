@@ -1,5 +1,4 @@
-Cylindrosporium quercinum J.C. Carter SPECIES
-=======
+# Cylindrosporium quercinum J.C. Carter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Terfezia pfeilii Henn., 1895 SPECIES
-=======
+# Kalaharituber pfeilii (Henn.) Trappe & Kagan-Zur, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 22: 75 (1895)
+Mycol. Res. 109(2): 242 (2005)
 
 #### Original name
 Terfezia pfeilii Henn., 1895

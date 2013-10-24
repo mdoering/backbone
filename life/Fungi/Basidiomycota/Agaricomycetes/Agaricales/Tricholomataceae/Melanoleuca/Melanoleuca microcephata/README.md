@@ -1,5 +1,4 @@
-Melanoleuca microcephata (P. Karst.) Singer SPECIES
-=======
+# Melanoleuca microcephata (P. Karst.) Singer SPECIES
 
 #### Status
 ACCEPTED

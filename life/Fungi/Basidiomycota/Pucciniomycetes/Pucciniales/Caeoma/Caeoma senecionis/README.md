@@ -1,5 +1,4 @@
-Caeoma senecionis Schltdl. SPECIES
-=======
+# Caeoma senecionis Schltdl. SPECIES
 
 #### Status
 ACCEPTED

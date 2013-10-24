@@ -1,5 +1,4 @@
-Martinellisia indica V.G. Rao & Varghese, 1977 SPECIES
-=======
+# Martinellisia indica V.G. Rao & Varghese, 1977 SPECIES
 
 #### Status
 ACCEPTED

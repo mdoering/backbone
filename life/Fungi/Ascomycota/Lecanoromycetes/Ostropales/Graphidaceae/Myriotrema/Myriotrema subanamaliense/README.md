@@ -1,5 +1,4 @@
-Myriotrema subanamaliense Homchant. & Coppins SPECIES
-=======
+# Myriotrema subanamaliense Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

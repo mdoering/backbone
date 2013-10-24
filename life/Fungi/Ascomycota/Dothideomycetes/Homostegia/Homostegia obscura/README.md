@@ -1,5 +1,4 @@
-Homostegia obscura Ellis & Everh. SPECIES
-=======
+# Homostegia obscura Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

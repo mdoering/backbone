@@ -1,17 +1,16 @@
-Phyllochoraceae FAMILY
-=======
+# Phyllachoraceae Theiss. & P. Syd. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 13(3/4): 168 (1915)
 
 #### Original name
-null
+Phyllachoraceae Theiss. & P. Syd.
 
 ### Remarks
 null

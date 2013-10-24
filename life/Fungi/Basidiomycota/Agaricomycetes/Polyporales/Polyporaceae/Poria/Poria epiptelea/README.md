@@ -1,5 +1,4 @@
-Poria epiptelea (Fr.) Sacc. SPECIES
-=======
+# Poria epiptelea (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

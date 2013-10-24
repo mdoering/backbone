@@ -1,14 +1,13 @@
-Chaetospermella tecomis Chardón & Toro, 1934 SPECIES
-=======
+# Spermochaetella tecomae (Chardón & Toro) Cif., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph Univ. Puerto Rico, Series B 2: (1934)
+Sydowia (1954)
 
 #### Original name
 Chaetospermella tecomis Chardón & Toro, 1934

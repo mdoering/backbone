@@ -1,5 +1,4 @@
-Lobaria subretigera Inumaru SPECIES
-=======
+# Lobaria subretigera Inumaru SPECIES
 
 #### Status
 ACCEPTED

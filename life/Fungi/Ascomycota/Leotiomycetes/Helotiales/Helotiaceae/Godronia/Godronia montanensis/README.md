@@ -1,5 +1,4 @@
-Godronia montanensis Seaver SPECIES
-=======
+# Godronia montanensis Seaver SPECIES
 
 #### Status
 ACCEPTED

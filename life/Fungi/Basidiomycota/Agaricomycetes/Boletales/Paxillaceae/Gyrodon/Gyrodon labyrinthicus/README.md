@@ -1,5 +1,4 @@
-Gyrodon labyrinthicus Fr. SPECIES
-=======
+# Gyrodon labyrinthicus Fr. SPECIES
 
 #### Status
 ACCEPTED

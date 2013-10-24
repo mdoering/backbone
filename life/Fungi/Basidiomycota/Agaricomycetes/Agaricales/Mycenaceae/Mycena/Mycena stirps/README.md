@@ -1,5 +1,4 @@
-Mycena stirps Brunneisetosa Desjardin, Boonprat. & Hywel-Jones SPECIES
-=======
+# Mycena stirps Brunneisetosa Desjardin, Boonprat. & Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia camelliae (Pass.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia camelliae (Pass.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia helianthi-mollis H.S. Jacks., 1918 SPECIES
-=======
+# Puccinia helianthi-mollis H.S. Jacks., 1918 SPECIES
 
 #### Status
 ACCEPTED

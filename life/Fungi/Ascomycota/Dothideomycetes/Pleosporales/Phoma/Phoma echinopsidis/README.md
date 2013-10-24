@@ -1,5 +1,4 @@
-Phoma echinopsidis Speg. SPECIES
-=======
+# Phoma echinopsidis Speg. SPECIES
 
 #### Status
 ACCEPTED

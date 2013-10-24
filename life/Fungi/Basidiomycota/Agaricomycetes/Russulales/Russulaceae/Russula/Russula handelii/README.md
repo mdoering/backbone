@@ -1,5 +1,4 @@
-Russula handelii Singer SPECIES
-=======
+# Russula handelii Singer SPECIES
 
 #### Status
 ACCEPTED

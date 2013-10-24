@@ -1,5 +1,4 @@
-Aspicilia vulcanica Hue SPECIES
-=======
+# Aspicilia vulcanica Hue SPECIES
 
 #### Status
 ACCEPTED

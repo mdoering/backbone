@@ -1,5 +1,4 @@
-Entoloma goliath Berk. SPECIES
-=======
+# Entoloma goliath Berk. SPECIES
 
 #### Status
 ACCEPTED

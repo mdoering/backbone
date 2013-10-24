@@ -1,5 +1,4 @@
-Pegidia karreriana Cushman, 1929 SPECIES
-=======
+# Pegidia karreriana Cushman, 1929 SPECIES
 
 #### Status
 ACCEPTED

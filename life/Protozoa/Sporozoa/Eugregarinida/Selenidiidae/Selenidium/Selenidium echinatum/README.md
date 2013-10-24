@@ -1,5 +1,4 @@
-Selenidium echinatum Caullery & Mesnil, 1899 SPECIES
-=======
+# Selenidium echinatum Caullery & Mesnil, 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vaginicola vorticellina Bory SPECIES
-=======
+# Vaginicola vorticellina Bory SPECIES
 
 #### Status
 ACCEPTED

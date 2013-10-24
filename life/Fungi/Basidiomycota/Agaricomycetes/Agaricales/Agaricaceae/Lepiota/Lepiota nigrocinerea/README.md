@@ -1,5 +1,4 @@
-Lepiota nigrocinerea Cleland SPECIES
-=======
+# Lepiota nigrocinerea Cleland SPECIES
 
 #### Status
 ACCEPTED

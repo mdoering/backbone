@@ -1,5 +1,4 @@
-Alternaria guangxiensis W.Q. Chen & T.Y. Zhang SPECIES
-=======
+# Alternaria guangxiensis W.Q. Chen & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

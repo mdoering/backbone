@@ -1,5 +1,4 @@
-Heterosporium laburni Oudem. SPECIES
-=======
+# Heterosporium laburni Oudem. SPECIES
 
 #### Status
 ACCEPTED

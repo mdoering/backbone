@@ -1,5 +1,4 @@
-Mita Pessagno, 1977 GENUS
-=======
+# Mita Pessagno, 1977 GENUS
 
 #### Status
 ACCEPTED

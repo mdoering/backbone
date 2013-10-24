@@ -1,5 +1,4 @@
-Paramecium polytrichum Schmarda, 1854 SPECIES
-=======
+# Paramecium polytrichum Schmarda, 1854 SPECIES
 
 #### Status
 ACCEPTED

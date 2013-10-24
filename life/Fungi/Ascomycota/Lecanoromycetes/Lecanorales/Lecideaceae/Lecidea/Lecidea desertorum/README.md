@@ -1,5 +1,4 @@
-Lecidea desertorum Ach. SPECIES
-=======
+# Lecidea desertorum Ach. SPECIES
 
 #### Status
 ACCEPTED

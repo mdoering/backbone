@@ -1,5 +1,4 @@
-Spirostomum minus subsp. minus SUBSPECIES
-=======
+# Spirostomum minus Roux SPECIES
 
 #### Status
 ACCEPTED

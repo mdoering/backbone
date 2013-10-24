@@ -1,5 +1,4 @@
-Bacteriastrum solitarium Mangin SPECIES
-=======
+# Bacteriastrum solitarium Mangin SPECIES
 
 #### Status
 ACCEPTED

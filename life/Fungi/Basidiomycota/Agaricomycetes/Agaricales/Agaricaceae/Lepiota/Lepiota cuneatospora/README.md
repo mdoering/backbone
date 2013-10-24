@@ -1,5 +1,4 @@
-Lepiota cuneatospora Kauffman SPECIES
-=======
+# Lepiota cuneatospora Kauffman SPECIES
 
 #### Status
 ACCEPTED

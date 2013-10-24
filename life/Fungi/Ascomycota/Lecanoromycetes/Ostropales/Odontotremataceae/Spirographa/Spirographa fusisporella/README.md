@@ -1,17 +1,16 @@
-Spilomela vermifera (Leight.) Keissl. SPECIES
-=======
+# Spirographa fusisporella (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Beih. bot. Zbl. 37(2): 272 (1919)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1*: 96 (1903)
 
 #### Original name
-Melaspilea vermifera Leight.
+Graphis fusisporella Nyl.
 
 ### Remarks
 null

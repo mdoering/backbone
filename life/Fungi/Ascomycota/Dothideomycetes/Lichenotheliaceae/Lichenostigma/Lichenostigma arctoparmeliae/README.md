@@ -1,5 +1,4 @@
-Lichenostigma arctoparmeliae R. Sant. SPECIES
-=======
+# Lichenostigma arctoparmeliae R. Sant. SPECIES
 
 #### Status
 ACCEPTED

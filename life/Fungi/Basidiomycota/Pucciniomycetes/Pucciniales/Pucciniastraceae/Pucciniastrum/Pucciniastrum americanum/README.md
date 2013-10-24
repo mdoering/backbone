@@ -1,14 +1,13 @@
-Pucciniastrum arcticum var. americanum Farl., 1908 VARIETY
-=======
+# Pucciniastrum americanum (Farl.) Arthur, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rhodora 10: 16 (1908)
+Bull. Torrey bot. Club 47: 468 (1920)
 
 #### Original name
 Pucciniastrum arcticum var. americanum Farl., 1908

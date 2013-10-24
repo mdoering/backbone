@@ -1,14 +1,13 @@
-Macrophoma asterina (Berk. & Broome) Syd., 1921 SPECIES
-=======
+# Selenophoma asterina (Berk. & Broome) B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19: 141 (1921)
+The Coelomycetes (Kew) 374 (1980)
 
 #### Original name
 Leptothyrium asterinum Berk. & Broome, 1881

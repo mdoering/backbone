@@ -1,5 +1,4 @@
-Verrucaria lugubris Servít SPECIES
-=======
+# Verrucaria lugubris Servít SPECIES
 
 #### Status
 ACCEPTED

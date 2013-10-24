@@ -1,17 +1,16 @@
-Cercospora hydrogramma var. hydrogramma VARIETY
-=======
+# Cercospora hydrogramma SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Cercospora hydrogramma var. hydrogramma
+null
 
 ### Remarks
 null

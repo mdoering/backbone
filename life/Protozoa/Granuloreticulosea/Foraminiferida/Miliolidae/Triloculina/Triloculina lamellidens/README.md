@@ -1,5 +1,4 @@
-Triloculina lamellidens Reuss SPECIES
-=======
+# Triloculina lamellidens Reuss SPECIES
 
 #### Status
 ACCEPTED

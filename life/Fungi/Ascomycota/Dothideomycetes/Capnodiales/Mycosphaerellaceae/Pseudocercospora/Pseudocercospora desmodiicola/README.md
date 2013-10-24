@@ -1,5 +1,4 @@
-Pseudocercospora desmodiicola (B. Rai & Kamal) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora desmodiicola (B. Rai & Kamal) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

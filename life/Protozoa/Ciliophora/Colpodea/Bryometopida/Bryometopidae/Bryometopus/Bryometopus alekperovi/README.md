@@ -1,5 +1,4 @@
-Bryometopus alekperovi Foissner, 1998 SPECIES
-=======
+# Bryometopus alekperovi Foissner, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa angulosa Nitschke SPECIES
-=======
+# Valsa angulosa Nitschke SPECIES
 
 #### Status
 ACCEPTED

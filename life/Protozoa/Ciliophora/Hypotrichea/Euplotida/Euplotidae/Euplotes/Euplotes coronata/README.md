@@ -1,5 +1,4 @@
-Euplotes coronata SPECIES
-=======
+# Euplotes coronata SPECIES
 
 #### Status
 ACCEPTED

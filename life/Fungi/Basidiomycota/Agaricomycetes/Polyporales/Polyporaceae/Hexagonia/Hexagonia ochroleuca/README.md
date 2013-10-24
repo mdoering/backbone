@@ -1,5 +1,4 @@
-Hexagonia ochroleuca (Lév.) Lloyd SPECIES
-=======
+# Hexagonia ochroleuca (Lév.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

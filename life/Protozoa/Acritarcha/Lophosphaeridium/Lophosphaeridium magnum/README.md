@@ -1,5 +1,4 @@
-Lophosphaeridium magnum Aristova, 1971 SPECIES
-=======
+# Lophosphaeridium magnum Aristova, 1971 SPECIES
 
 #### Status
 ACCEPTED

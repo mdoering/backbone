@@ -1,5 +1,4 @@
-Ramularia parva H.C. Greene SPECIES
-=======
+# Ramularia parva H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

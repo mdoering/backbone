@@ -1,5 +1,4 @@
-Xanthoparmelia tenuiloba Hale SPECIES
-=======
+# Xanthoparmelia tenuiloba Hale SPECIES
 
 #### Status
 ACCEPTED

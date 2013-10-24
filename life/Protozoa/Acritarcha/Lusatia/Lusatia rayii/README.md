@@ -1,5 +1,4 @@
-Lusatia rayii (Cramer, Allam, Kanes & Díez, 1974) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Lusatia rayii (Cramer, Allam, Kanes & Díez, 1974) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

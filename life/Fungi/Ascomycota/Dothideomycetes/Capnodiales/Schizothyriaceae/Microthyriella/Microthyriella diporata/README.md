@@ -1,17 +1,16 @@
-Microthyriella diporatus K.P. Rao & Ramanujam SPECIES
-=======
+# Microthyriella diporata K.P. Rao & Ramanujam SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Geophytology 6(1): 101 and Pl. 2, fig. 15 (1976)
 
 #### Original name
-Microthyriella diporatus K.P. Rao & Ramanujam
+Microthyriella diporata K.P. Rao & Ramanujam
 
 ### Remarks
 null

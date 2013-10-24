@@ -1,5 +1,4 @@
-Lithocia obnigrescens (Nyl.) Eitner SPECIES
-=======
+# Lithocia obnigrescens (Nyl.) Eitner SPECIES
 
 #### Status
 ACCEPTED

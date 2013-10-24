@@ -1,5 +1,4 @@
-Erysiphe geraniacearum U. Braun & Simonyan SPECIES
-=======
+# Erysiphe geraniacearum U. Braun & Simonyan SPECIES
 
 #### Status
 ACCEPTED

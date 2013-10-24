@@ -1,5 +1,4 @@
-Cortinarius watamukiensis Hongo SPECIES
-=======
+# Cortinarius watamukiensis Hongo SPECIES
 
 #### Status
 ACCEPTED

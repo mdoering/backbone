@@ -1,5 +1,4 @@
-Allopuccinia GENUS
-=======
+# Allopuccinia GENUS
 
 #### Status
 ACCEPTED

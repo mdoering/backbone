@@ -1,5 +1,4 @@
-Dialonectria verruculosa (Niessl) Cooke SPECIES
-=======
+# Dialonectria verruculosa (Niessl) Cooke SPECIES
 
 #### Status
 ACCEPTED

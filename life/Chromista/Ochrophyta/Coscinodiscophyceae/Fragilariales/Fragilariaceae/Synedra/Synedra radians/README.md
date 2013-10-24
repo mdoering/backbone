@@ -1,5 +1,4 @@
-Synedra radians var. tenuissima (Kützing) Rabenhorst VARIETY
-=======
+# Synedra radians Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepraria rosata (Wulfen) Ach. SPECIES
-=======
+# Lepraria rosata (Wulfen) Ach. SPECIES
 
 #### Status
 ACCEPTED

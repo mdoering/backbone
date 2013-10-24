@@ -1,5 +1,4 @@
-Diplopeltis sassafrasicola Tehon & G.L. Stout SPECIES
-=======
+# Diplopeltis sassafrasicola Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

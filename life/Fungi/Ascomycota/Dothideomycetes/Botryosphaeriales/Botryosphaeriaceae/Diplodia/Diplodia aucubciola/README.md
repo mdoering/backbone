@@ -1,5 +1,4 @@
-Diplodia aucubciola Sacc. SPECIES
-=======
+# Diplodia aucubciola Sacc. SPECIES
 
 #### Status
 ACCEPTED

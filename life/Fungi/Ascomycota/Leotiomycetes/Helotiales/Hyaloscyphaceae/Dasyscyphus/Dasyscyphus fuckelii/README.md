@@ -1,5 +1,4 @@
-Dasyscyphus fuckelii Bres. SPECIES
-=======
+# Dasyscyphus fuckelii Bres. SPECIES
 
 #### Status
 ACCEPTED

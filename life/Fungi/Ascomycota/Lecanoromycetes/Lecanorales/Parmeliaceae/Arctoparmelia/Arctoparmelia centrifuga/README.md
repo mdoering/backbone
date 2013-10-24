@@ -1,14 +1,13 @@
-Parmelia centrifuga var. centrifuga VARIETY
-=======
+# Arctoparmelia centrifuga (L.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 25(1): 252 (1986)
 
 #### Original name
 Lichen centrifugus L.

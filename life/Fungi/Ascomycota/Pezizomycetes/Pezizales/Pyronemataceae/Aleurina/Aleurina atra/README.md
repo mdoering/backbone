@@ -1,5 +1,4 @@
-Aleurina atra Lloyd SPECIES
-=======
+# Aleurina atra Lloyd SPECIES
 
 #### Status
 ACCEPTED

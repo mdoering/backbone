@@ -1,5 +1,4 @@
-Paenibacillus sanguinis Roux & Raoult, 2004 SPECIES
-=======
+# Paenibacillus sanguinis Roux & Raoult, 2004 SPECIES
 
 #### Status
 ACCEPTED

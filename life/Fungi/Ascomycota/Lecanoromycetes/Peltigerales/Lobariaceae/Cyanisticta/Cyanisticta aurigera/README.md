@@ -1,5 +1,4 @@
-Cyanisticta aurigera (Bory) C.W. Dodge SPECIES
-=======
+# Cyanisticta aurigera (Bory) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

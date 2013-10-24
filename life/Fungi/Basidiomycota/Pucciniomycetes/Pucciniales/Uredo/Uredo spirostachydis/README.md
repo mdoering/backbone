@@ -1,5 +1,4 @@
-Uredo spirostachydis Arthur SPECIES
-=======
+# Uredo spirostachydis Arthur SPECIES
 
 #### Status
 ACCEPTED

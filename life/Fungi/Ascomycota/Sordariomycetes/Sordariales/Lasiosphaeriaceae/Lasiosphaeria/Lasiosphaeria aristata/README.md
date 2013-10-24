@@ -1,5 +1,4 @@
-Lasiosphaeria aristata (Quél.) Sacc. & Traverso SPECIES
-=======
+# Lasiosphaeria aristata (Quél.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

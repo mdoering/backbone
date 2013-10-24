@@ -1,5 +1,4 @@
-Micramphora pontica Valkanov, 1970 SPECIES
-=======
+# Micramphora pontica Valkanov, 1970 SPECIES
 
 #### Status
 ACCEPTED

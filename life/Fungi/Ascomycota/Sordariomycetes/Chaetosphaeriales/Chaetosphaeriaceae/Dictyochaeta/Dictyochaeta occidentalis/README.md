@@ -1,5 +1,4 @@
-Dictyochaeta occidentalis R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Dictyochaeta occidentalis R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

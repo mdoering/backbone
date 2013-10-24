@@ -1,5 +1,4 @@
-Leptogium milligranum Sierk SPECIES
-=======
+# Leptogium milligranum Sierk SPECIES
 
 #### Status
 ACCEPTED

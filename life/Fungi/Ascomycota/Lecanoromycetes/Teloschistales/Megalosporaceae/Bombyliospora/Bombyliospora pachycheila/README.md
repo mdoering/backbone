@@ -1,5 +1,4 @@
-Bombyliospora pachycheila (Tuck.) Zahlbr. SPECIES
-=======
+# Bombyliospora pachycheila (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

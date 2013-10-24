@@ -1,5 +1,4 @@
-Mycothyridium Petrak, 1962 GENUS
-=======
+# Mycothyridium Petrak, 1962 GENUS
 
 #### Status
 ACCEPTED

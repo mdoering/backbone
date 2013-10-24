@@ -1,5 +1,4 @@
-Teichospora tingens H. Wegelin SPECIES
-=======
+# Teichospora tingens H. Wegelin SPECIES
 
 #### Status
 ACCEPTED

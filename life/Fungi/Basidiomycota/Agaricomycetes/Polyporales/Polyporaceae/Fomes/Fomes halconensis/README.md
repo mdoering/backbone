@@ -1,5 +1,4 @@
-Fomes halconensis Bres. SPECIES
-=======
+# Fomes halconensis Bres. SPECIES
 
 #### Status
 ACCEPTED

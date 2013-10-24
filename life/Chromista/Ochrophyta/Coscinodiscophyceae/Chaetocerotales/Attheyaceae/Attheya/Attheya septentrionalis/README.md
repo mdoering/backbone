@@ -1,8 +1,7 @@
-Gonioceros septentrionalis (Østrup) F.E. Round, R.M. Crawford & D.G. Mann SPECIES
-=======
+# Attheya septentrionalis (Østrup) R. M. Crawford SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

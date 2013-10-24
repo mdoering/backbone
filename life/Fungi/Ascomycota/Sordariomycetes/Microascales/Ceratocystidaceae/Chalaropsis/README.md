@@ -1,5 +1,4 @@
-Chalaropsis Peyronel GENUS
-=======
+# Chalaropsis Peyronel GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora neonepalensis U. Braun & Crous SPECIES
-=======
+# Passalora neonepalensis U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

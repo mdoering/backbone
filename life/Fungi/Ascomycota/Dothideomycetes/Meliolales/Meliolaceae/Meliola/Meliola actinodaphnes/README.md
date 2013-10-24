@@ -1,5 +1,4 @@
-Meliola actinodaphnes Hansf. SPECIES
-=======
+# Meliola actinodaphnes Hansf. SPECIES
 
 #### Status
 ACCEPTED

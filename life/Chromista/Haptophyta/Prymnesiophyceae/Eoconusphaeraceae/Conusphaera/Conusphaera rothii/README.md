@@ -1,5 +1,4 @@
-Conusphaera rothii SPECIES
-=======
+# Conusphaera rothii SPECIES
 
 #### Status
 ACCEPTED

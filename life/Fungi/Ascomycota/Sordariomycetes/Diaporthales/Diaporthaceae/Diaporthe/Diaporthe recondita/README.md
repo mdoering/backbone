@@ -1,5 +1,4 @@
-Diaporthe recondita Sacc. SPECIES
-=======
+# Diaporthe recondita Sacc. SPECIES
 
 #### Status
 ACCEPTED

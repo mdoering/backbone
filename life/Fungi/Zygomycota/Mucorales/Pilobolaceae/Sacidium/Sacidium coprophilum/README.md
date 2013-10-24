@@ -1,5 +1,4 @@
-Sacidium coprophilum Kirschst. SPECIES
-=======
+# Sacidium coprophilum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

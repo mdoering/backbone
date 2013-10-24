@@ -1,5 +1,4 @@
-Nyctotheroides pangasi (Tripathi, 1954) ? SPECIES
-=======
+# Nyctotheroides pangasi (Tripathi, 1954) ? SPECIES
 
 #### Status
 ACCEPTED

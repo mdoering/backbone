@@ -1,5 +1,4 @@
-Bacidia flavens (Willey) Zahlbr. SPECIES
-=======
+# Bacidia flavens (Willey) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

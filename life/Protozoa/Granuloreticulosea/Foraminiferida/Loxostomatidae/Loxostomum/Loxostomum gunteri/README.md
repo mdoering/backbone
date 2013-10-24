@@ -1,5 +1,4 @@
-Loxostomum gunteri Cushman, 1930 SPECIES
-=======
+# Loxostomum gunteri Cushman, 1930 SPECIES
 
 #### Status
 ACCEPTED

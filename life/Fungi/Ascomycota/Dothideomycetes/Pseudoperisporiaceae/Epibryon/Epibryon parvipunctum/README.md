@@ -1,14 +1,13 @@
-Sphaerulina parvipuncta (Stein) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Epibryon parvipunctum (Stein) Diederich, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 17: 695 (1905)
+in Sérusiaux, Diederich, Brand & van den Boom, Lejeunia, n. s. 162: 30 (1999)
 
 #### Original name
 null

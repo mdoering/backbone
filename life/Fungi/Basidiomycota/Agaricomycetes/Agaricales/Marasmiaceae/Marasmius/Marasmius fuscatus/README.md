@@ -1,5 +1,4 @@
-Marasmius fuscatus Lév. SPECIES
-=======
+# Marasmius fuscatus Lév. SPECIES
 
 #### Status
 ACCEPTED

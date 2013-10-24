@@ -1,5 +1,4 @@
-Stagonospora coluteicola Gonz. Frag. SPECIES
-=======
+# Stagonospora coluteicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

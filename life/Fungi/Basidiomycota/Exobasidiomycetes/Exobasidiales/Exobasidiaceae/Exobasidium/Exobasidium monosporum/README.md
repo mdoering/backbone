@@ -1,5 +1,4 @@
-Exobasidium monosporum Sawada SPECIES
-=======
+# Exobasidium monosporum Sawada SPECIES
 
 #### Status
 ACCEPTED

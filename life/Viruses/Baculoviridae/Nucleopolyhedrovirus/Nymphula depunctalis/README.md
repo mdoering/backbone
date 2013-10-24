@@ -1,5 +1,4 @@
-Nymphula depunctalis Npv SPECIES
-=======
+# Nymphula depunctalis Npv SPECIES
 
 #### Status
 ACCEPTED

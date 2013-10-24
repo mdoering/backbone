@@ -1,5 +1,4 @@
-Opegrapha saprophila Nyl. SPECIES
-=======
+# Opegrapha saprophila Nyl. SPECIES
 
 #### Status
 ACCEPTED

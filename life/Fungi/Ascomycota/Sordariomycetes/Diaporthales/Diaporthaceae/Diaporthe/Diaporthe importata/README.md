@@ -1,17 +1,16 @@
-Phomopsis importata Dietel, 1911 SPECIES
-=======
+# Diaporthe importata Nitschke, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 9(1): 24 (1911)
+Pyrenomycetes Germanici 2: 415 (1870)
 
 #### Original name
-Phomopsis importata Dietel, 1911
+Diaporthe importata Nitschke, 1870
 
 ### Remarks
 null

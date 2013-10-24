@@ -1,5 +1,4 @@
-Hincksia terminalis (V. Krishnamurthy & Baluswami) P.C. Silva SPECIES
-=======
+# Hincksia terminalis (V. Krishnamurthy & Baluswami) P.C. Silva SPECIES
 
 #### Status
 ACCEPTED

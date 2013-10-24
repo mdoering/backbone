@@ -1,5 +1,4 @@
-Sclerotinia bulborum (Wakker) Sacc., 1889 SPECIES
-=======
+# Sclerotinia bulborum (Wakker) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis alboglaucescens Adaw. & Makhija SPECIES
-=======
+# Graphis alboglaucescens Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

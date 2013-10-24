@@ -1,5 +1,4 @@
-Phacellium inhonestum Bonord., 1860 SPECIES
-=======
+# Phacellium inhonestum Bonord., 1860 SPECIES
 
 #### Status
 ACCEPTED

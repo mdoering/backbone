@@ -1,5 +1,4 @@
-Pertusaria djidelliana Flagey SPECIES
-=======
+# Pertusaria djidelliana Flagey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirotrema Bandoni GENUS
-=======
+# Sirotrema Bandoni GENUS
 
 #### Status
 ACCEPTED

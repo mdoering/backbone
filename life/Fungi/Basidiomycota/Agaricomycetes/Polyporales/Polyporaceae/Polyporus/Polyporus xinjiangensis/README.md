@@ -1,5 +1,4 @@
-Polyporus xinjiangensis J.D. Zhao & X.Q. Zhang SPECIES
-=======
+# Polyporus xinjiangensis J.D. Zhao & X.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

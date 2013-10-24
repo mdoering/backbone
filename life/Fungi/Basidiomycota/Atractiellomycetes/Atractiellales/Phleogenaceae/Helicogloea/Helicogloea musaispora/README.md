@@ -1,5 +1,4 @@
-Helicogloea musaispora Chee J. Chen & Oberw., 2000 SPECIES
-=======
+# Helicogloea musaispora Chee J. Chen & Oberw., 2000 SPECIES
 
 #### Status
 ACCEPTED

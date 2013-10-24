@@ -1,5 +1,4 @@
-Arthoniopsis belizensis J. Hedrick SPECIES
-=======
+# Arthoniopsis belizensis J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

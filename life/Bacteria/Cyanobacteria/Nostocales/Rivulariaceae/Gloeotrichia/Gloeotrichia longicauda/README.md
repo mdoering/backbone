@@ -1,5 +1,4 @@
-Gloeotrichia longicauda Schmidle SPECIES
-=======
+# Gloeotrichia longicauda Schmidle SPECIES
 
 #### Status
 ACCEPTED

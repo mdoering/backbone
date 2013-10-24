@@ -1,5 +1,4 @@
-Phaeospora decolorans Rehm SPECIES
-=======
+# Phaeospora decolorans Rehm SPECIES
 
 #### Status
 ACCEPTED

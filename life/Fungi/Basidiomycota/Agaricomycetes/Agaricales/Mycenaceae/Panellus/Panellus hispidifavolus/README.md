@@ -1,5 +1,4 @@
-Panellus hispidifavolus Corner, 1986 SPECIES
-=======
+# Panellus hispidifavolus Corner, 1986 SPECIES
 
 #### Status
 ACCEPTED

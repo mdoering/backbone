@@ -1,5 +1,4 @@
-Acarospora tucsonensis H. Magn. SPECIES
-=======
+# Acarospora tucsonensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

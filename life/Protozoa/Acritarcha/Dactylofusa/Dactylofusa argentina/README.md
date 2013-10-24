@@ -1,5 +1,4 @@
-Dactylofusa argentina (E. D. Pöthe de Baldis) E. D. Pöthe de Baldis SPECIES
-=======
+# Dactylofusa argentina (E. D. Pöthe de Baldis) E. D. Pöthe de Baldis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Verrucaria poeltiana Clauzade & Cl. Roux SPECIES
-=======
+# Verruculopsis poeltiana (Clauzade & Cl. Roux) Gueidan, Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Beih. Nova Hedwigia 79: 194 (1984)
+in Navarro-Rosinés, Roux & Gueidan, Bull. Soc. linn. Provence 58: 168 (2007)
 
 #### Original name
 Verrucaria poeltiana Clauzade & Cl. Roux

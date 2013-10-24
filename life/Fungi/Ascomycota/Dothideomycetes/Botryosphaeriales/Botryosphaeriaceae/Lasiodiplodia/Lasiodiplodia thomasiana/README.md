@@ -1,5 +1,4 @@
-Lasiodiplodia thomasiana Sacc. SPECIES
-=======
+# Lasiodiplodia thomasiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

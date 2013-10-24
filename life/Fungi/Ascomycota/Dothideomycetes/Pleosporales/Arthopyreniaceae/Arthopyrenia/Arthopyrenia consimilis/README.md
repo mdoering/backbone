@@ -1,5 +1,4 @@
-Arthopyrenia consimilis Vain. SPECIES
-=======
+# Arthopyrenia consimilis Vain. SPECIES
 
 #### Status
 ACCEPTED

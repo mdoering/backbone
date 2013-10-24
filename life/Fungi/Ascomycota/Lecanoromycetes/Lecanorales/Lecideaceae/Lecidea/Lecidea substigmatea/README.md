@@ -1,5 +1,4 @@
-Lecidea substigmatea SPECIES
-=======
+# Lecidea substigmatea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella pusilla f. pusilla FORM
-=======
+# Sphaerella pusilla Auersw. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycol. eur. Abbildungen Sämmtlicher Pilze Europa's 5-6: 17 (1869)
 
 #### Original name
-Sphaerella pusilla f. pusilla
+Sphaerella pusilla Auersw.
 
 ### Remarks
 null

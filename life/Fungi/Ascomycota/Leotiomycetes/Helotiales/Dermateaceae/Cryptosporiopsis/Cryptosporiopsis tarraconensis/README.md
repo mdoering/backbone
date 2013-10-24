@@ -1,5 +1,4 @@
-Cryptosporiopsis tarraconensis Gené & Guarro, 1990 SPECIES
-=======
+# Cryptosporiopsis tarraconensis Gené & Guarro, 1990 SPECIES
 
 #### Status
 ACCEPTED

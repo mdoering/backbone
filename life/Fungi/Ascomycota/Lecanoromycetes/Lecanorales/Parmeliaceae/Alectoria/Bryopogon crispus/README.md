@@ -1,5 +1,4 @@
-Bryopogon crispus var. crispus VARIETY
-=======
+# Bryopogon crispus SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Annls Univ. Mariae Curie-Sklodowska, Sect. C, Biol. 26(21): 271 (1971)
+null
 
 #### Original name
-Bryopogon crispus var. crispus
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hysterographium pulicare Corda SPECIES
-=======
+# Hysterographium pulicare Corda SPECIES
 
 #### Status
 ACCEPTED

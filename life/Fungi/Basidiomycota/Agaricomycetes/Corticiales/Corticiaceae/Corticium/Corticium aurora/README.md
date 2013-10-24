@@ -1,5 +1,4 @@
-Corticium aurora SPECIES
-=======
+# Corticium aurora SPECIES
 
 #### Status
 ACCEPTED

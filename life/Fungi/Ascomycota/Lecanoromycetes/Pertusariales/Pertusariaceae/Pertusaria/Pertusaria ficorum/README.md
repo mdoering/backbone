@@ -1,5 +1,4 @@
-Pertusaria ficorum Zahlbr. SPECIES
-=======
+# Pertusaria ficorum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

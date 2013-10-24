@@ -1,5 +1,4 @@
-Gymnodinium modestum Balech, 1976 SPECIES
-=======
+# Gymnodinium modestum Balech, 1976 SPECIES
 
 #### Status
 ACCEPTED

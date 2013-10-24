@@ -1,14 +1,13 @@
-Cintractia carphae (Speg.) Hirschh., 1937 SPECIES
-=======
+# Anthracoidea carphae (Speg.) Vánky, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Notiser 132(2): 230 (1979)
 
 #### Original name
 Ustilago carphae Speg., 1888

@@ -1,5 +1,4 @@
-Hertelidea Printzen & Kantvilas GENUS
-=======
+# Hertelidea Printzen & Kantvilas GENUS
 
 #### Status
 ACCEPTED

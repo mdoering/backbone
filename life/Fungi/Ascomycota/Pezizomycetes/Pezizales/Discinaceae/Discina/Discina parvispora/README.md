@@ -1,5 +1,4 @@
-Discina parvispora Trigaux SPECIES
-=======
+# Discina parvispora Trigaux SPECIES
 
 #### Status
 ACCEPTED

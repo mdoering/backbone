@@ -1,5 +1,4 @@
-Protostelium okumukumu Spiegel, J. D. Shadwick & Hemmes, 2006 SPECIES
-=======
+# Protostelium okumukumu Spiegel, J. D. Shadwick & Hemmes, 2006 SPECIES
 
 #### Status
 ACCEPTED

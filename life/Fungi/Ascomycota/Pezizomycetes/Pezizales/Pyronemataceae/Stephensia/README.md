@@ -1,17 +1,16 @@
-Densocarpa Gilkey GENUS
-=======
+# Stephensia Tulasne, 1845 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York), Ser. 2 1: 15 (1954)
+C. r. hebd. Séanc. Acad. Sci. , Paris 21: 1433 (1845)
 
 #### Original name
-Densocarpa Gilkey
+Stephensia Tulasne, 1845
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pleurotus hymeninus Durieu & Lév. ex Sacc. SPECIES
-=======
+# Pleurotus hymeninus Durieu & Lév. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

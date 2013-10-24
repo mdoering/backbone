@@ -1,5 +1,4 @@
-Citrus bark SPECIES
-=======
+# Citrus bark SPECIES
 
 #### Status
 ACCEPTED

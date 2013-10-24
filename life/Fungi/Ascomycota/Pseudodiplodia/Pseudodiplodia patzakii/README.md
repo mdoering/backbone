@@ -1,5 +1,4 @@
-Pseudodiplodia patzakii Petr. SPECIES
-=======
+# Pseudodiplodia patzakii Petr. SPECIES
 
 #### Status
 ACCEPTED

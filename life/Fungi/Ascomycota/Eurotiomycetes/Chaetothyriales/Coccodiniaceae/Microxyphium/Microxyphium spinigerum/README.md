@@ -1,5 +1,4 @@
-Microxyphium spinigerum (Höhn.) Speg. SPECIES
-=======
+# Microxyphium spinigerum (Höhn.) Speg. SPECIES
 
 #### Status
 ACCEPTED

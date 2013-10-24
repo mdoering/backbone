@@ -1,5 +1,4 @@
-Lachnocladium cladonioides Henn. SPECIES
-=======
+# Lachnocladium cladonioides Henn. SPECIES
 
 #### Status
 ACCEPTED

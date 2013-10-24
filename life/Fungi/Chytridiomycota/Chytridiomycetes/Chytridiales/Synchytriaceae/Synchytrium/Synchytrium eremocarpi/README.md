@@ -1,5 +1,4 @@
-Synchytrium eremocarpi Karling SPECIES
-=======
+# Synchytrium eremocarpi Karling SPECIES
 
 #### Status
 ACCEPTED

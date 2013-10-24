@@ -1,5 +1,4 @@
-Lichenochora lecidellae Boqueras & Nav.-Ros., 1998 SPECIES
-=======
+# Lichenochora lecidellae Boqueras & Nav.-Ros., 1998 SPECIES
 
 #### Status
 ACCEPTED

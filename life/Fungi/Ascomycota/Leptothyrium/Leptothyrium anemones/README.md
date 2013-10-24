@@ -1,5 +1,4 @@
-Leptothyrium anemones Grove SPECIES
-=======
+# Leptothyrium anemones Grove SPECIES
 
 #### Status
 ACCEPTED

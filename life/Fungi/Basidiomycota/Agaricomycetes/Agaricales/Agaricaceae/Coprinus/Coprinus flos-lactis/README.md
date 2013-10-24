@@ -1,5 +1,4 @@
-Coprinus flos-lactis P.W. Graff SPECIES
-=======
+# Coprinus flos-lactis P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

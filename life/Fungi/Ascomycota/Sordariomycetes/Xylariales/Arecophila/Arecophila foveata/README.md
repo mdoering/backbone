@@ -1,5 +1,4 @@
-Arecophila foveata (M.E. Barr & A.W. Ramaley) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Arecophila foveata (M.E. Barr & A.W. Ramaley) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

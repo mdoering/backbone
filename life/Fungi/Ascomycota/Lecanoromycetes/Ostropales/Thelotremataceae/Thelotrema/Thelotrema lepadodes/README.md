@@ -1,17 +1,16 @@
-Thelotrema lepadodes var. lepadodes Tuck. VARIETY
-=======
+# Thelotrema lepadodes Tuck. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Thelotrema lepadodes var. lepadodes Tuck.
+null
 
 ### Remarks
 null

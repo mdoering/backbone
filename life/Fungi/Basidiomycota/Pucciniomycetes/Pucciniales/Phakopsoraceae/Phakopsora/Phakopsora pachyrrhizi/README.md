@@ -1,5 +1,4 @@
-Phakopsora pachyrrhizi Syd. SPECIES
-=======
+# Phakopsora pachyrrhizi Syd. SPECIES
 
 #### Status
 ACCEPTED

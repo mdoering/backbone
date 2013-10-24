@@ -1,5 +1,4 @@
-Aegerita alba (Preuss) Sacc. SPECIES
-=======
+# Aegerita alba (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

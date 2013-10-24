@@ -1,5 +1,4 @@
-Gyrodinium britannia Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium britannia Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

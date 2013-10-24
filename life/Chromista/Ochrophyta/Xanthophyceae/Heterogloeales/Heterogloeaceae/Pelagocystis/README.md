@@ -1,5 +1,4 @@
-Pelagocystis Lohman, 1904 GENUS
-=======
+# Pelagocystis Lohman, 1904 GENUS
 
 #### Status
 ACCEPTED

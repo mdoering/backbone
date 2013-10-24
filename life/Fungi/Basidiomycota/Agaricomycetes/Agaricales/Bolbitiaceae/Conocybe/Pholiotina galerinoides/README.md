@@ -1,5 +1,4 @@
-Pholiotina galerinoides Contu SPECIES
-=======
+# Pholiotina galerinoides Contu SPECIES
 
 #### Status
 ACCEPTED

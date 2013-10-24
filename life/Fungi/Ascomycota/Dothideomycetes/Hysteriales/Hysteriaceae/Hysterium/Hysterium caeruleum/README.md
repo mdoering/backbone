@@ -1,5 +1,4 @@
-Hysterium caeruleum Tode SPECIES
-=======
+# Hysterium caeruleum Tode SPECIES
 
 #### Status
 ACCEPTED

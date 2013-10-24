@@ -1,5 +1,4 @@
-Chrysiogenetes CLASS
-=======
+# Chrysiogenetes CLASS
 
 #### Status
 ACCEPTED

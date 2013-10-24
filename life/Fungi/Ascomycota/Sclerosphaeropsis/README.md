@@ -1,5 +1,4 @@
-Sclerosphaeropsis Bubák GENUS
-=======
+# Sclerosphaeropsis Bubák GENUS
 
 #### Status
 ACCEPTED

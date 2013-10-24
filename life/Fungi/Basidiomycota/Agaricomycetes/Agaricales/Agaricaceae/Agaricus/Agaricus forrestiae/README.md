@@ -1,5 +1,4 @@
-Agaricus forrestiae Kalchbr. SPECIES
-=======
+# Agaricus forrestiae Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

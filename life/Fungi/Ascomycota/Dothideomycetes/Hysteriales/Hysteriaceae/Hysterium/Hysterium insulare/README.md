@@ -1,5 +1,4 @@
-Hysterium insulare P. Karst. & Har. SPECIES
-=======
+# Hysterium insulare P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria phaeoides Kirschst. SPECIES
-=======
+# Trematosphaeria phaeoides Kirschst. SPECIES
 
 #### Status
 ACCEPTED

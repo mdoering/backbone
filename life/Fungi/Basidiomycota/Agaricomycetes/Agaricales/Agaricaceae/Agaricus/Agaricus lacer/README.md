@@ -1,5 +1,4 @@
-Agaricus lacer Schaeff. SPECIES
-=======
+# Agaricus lacer Schaeff. SPECIES
 
 #### Status
 ACCEPTED

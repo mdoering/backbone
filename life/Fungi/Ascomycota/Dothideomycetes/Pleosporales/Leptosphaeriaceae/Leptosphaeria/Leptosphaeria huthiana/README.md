@@ -1,5 +1,4 @@
-Leptosphaeria huthiana Staritz SPECIES
-=======
+# Leptosphaeria huthiana Staritz SPECIES
 
 #### Status
 ACCEPTED

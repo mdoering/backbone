@@ -1,5 +1,4 @@
-Peniophora bonariensis C.E. Gómez, 1976 SPECIES
-=======
+# Peniophora bonariensis C.E. Gómez, 1976 SPECIES
 
 #### Status
 ACCEPTED

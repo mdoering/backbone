@@ -1,5 +1,4 @@
-Parodiopsis cecropiae SPECIES
-=======
+# Parodiopsis cecropiae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium tephrosiae Hansf. SPECIES
-=======
+# Cylindrosporium tephrosiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

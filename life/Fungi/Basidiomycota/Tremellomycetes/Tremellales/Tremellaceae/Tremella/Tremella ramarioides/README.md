@@ -1,5 +1,4 @@
-Tremella ramarioides M. Zang SPECIES
-=======
+# Tremella ramarioides M. Zang SPECIES
 
 #### Status
 ACCEPTED

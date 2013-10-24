@@ -1,5 +1,4 @@
-Lithothelium himalayense Upreti & Aptroot SPECIES
-=======
+# Lithothelium himalayense Upreti & Aptroot SPECIES
 
 #### Status
 ACCEPTED

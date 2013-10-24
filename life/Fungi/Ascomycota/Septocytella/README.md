@@ -1,5 +1,4 @@
-Septocytella Syd. GENUS
-=======
+# Septocytella Syd. GENUS
 
 #### Status
 ACCEPTED

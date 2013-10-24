@@ -1,8 +1,7 @@
-Microcyclus atropuntus (Starbäck) E. Müll. & Sanwal SPECIES
-=======
+# Microcyclus atropunctus (Starbäck) E. Müll. & Sanwal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

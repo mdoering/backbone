@@ -1,5 +1,4 @@
-Hirsutella petchabunensis Hywel-Jones, Goos & E.B.G. Jones SPECIES
-=======
+# Hirsutella petchabunensis Hywel-Jones, Goos & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

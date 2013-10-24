@@ -1,5 +1,4 @@
-Ascobolus conglomeratus Schwein. SPECIES
-=======
+# Ascobolus conglomeratus Schwein. SPECIES
 
 #### Status
 ACCEPTED

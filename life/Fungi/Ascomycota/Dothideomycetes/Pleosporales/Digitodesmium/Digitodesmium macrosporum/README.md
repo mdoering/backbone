@@ -1,5 +1,4 @@
-Digitodesmium macrosporum C. Silvera, Gené & J. Mena SPECIES
-=======
+# Digitodesmium macrosporum C. Silvera, Gené & J. Mena SPECIES
 
 #### Status
 ACCEPTED

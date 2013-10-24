@@ -1,5 +1,4 @@
-Collema subfurfuraceum Degel. SPECIES
-=======
+# Collema subfurfuraceum Degel. SPECIES
 
 #### Status
 ACCEPTED

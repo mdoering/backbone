@@ -1,5 +1,4 @@
-Peziza fluctuans Nyl. SPECIES
-=======
+# Peziza fluctuans Nyl. SPECIES
 
 #### Status
 ACCEPTED

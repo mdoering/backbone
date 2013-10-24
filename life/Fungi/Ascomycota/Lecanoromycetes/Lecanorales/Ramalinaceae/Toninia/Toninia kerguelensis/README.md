@@ -1,5 +1,4 @@
-Toninia kerguelensis C.W. Dodge SPECIES
-=======
+# Toninia kerguelensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Disciseda andina Speg. SPECIES
-=======
+# Disciseda andina Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlegmacium avellaneocoeruleum M.M. Moser SPECIES
-=======
+# Phlegmacium avellaneocoeruleum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

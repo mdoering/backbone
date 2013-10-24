@@ -1,5 +1,4 @@
-Phaeographis mitis (Vain.) Redinger SPECIES
-=======
+# Phaeographis mitis (Vain.) Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus piperatus Beeli SPECIES
-=======
+# Lentinus piperatus Beeli SPECIES
 
 #### Status
 ACCEPTED

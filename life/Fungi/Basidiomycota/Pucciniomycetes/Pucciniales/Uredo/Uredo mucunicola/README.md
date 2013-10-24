@@ -1,5 +1,4 @@
-Uredo mucunicola Henn. SPECIES
-=======
+# Uredo mucunicola Henn. SPECIES
 
 #### Status
 ACCEPTED

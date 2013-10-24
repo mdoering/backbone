@@ -1,5 +1,4 @@
-Agaricus uncinatipes Schulzer SPECIES
-=======
+# Agaricus uncinatipes Schulzer SPECIES
 
 #### Status
 ACCEPTED

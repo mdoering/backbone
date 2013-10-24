@@ -1,5 +1,4 @@
-Ramulispora cerealis Miura, 1920 SPECIES
-=======
+# Ramulispora cerealis Miura, 1920 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Suillus P. Karst. GENUS
-=======
+# Gyroporus Quélet, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 37: v, 1 (1882)
+null
 
 #### Original name
-Suillus P. Karst.
+null
 
 ### Remarks
 null

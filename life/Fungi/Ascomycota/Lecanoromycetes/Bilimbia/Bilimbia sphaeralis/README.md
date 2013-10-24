@@ -1,5 +1,4 @@
-Bilimbia sphaeralis SPECIES
-=======
+# Bilimbia sphaeralis SPECIES
 
 #### Status
 ACCEPTED

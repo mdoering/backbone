@@ -1,5 +1,4 @@
-Microthyrium visci Richon SPECIES
-=======
+# Microthyrium visci Richon SPECIES
 
 #### Status
 ACCEPTED

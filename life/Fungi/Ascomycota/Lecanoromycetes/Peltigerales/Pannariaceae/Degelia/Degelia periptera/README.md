@@ -1,14 +1,13 @@
-Pannaria periptera C. Knight SPECIES
-=======
+# Degelia periptera (C. Knight) P.M. Jørg. & P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Jahns, Biblthca Lichenol. 38: 274 (1990)
 
 #### Original name
 Pannaria periptera C. Knight

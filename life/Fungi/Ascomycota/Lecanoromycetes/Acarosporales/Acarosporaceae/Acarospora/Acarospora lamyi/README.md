@@ -1,5 +1,4 @@
-Acarospora lamyi SPECIES
-=======
+# Acarospora lamyi SPECIES
 
 #### Status
 ACCEPTED

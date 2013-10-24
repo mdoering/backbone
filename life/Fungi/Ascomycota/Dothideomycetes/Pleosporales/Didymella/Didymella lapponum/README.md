@@ -1,5 +1,4 @@
-Didymella lapponum (De Not. & Carestia) Sacc. SPECIES
-=======
+# Didymella lapponum (De Not. & Carestia) Sacc. SPECIES
 
 #### Status
 ACCEPTED

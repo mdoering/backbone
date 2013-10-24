@@ -1,5 +1,4 @@
-Lophodermium gentianae Voglino SPECIES
-=======
+# Lophodermium gentianae Voglino SPECIES
 
 #### Status
 ACCEPTED

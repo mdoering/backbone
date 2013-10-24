@@ -1,5 +1,4 @@
-Lepiota olgae Velen. SPECIES
-=======
+# Lepiota olgae Velen. SPECIES
 
 #### Status
 ACCEPTED

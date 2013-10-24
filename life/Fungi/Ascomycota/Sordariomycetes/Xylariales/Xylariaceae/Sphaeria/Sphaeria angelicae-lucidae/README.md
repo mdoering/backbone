@@ -1,5 +1,4 @@
-Sphaeria angelicae-lucidae Schwein. SPECIES
-=======
+# Sphaeria angelicae-lucidae Schwein. SPECIES
 
 #### Status
 ACCEPTED

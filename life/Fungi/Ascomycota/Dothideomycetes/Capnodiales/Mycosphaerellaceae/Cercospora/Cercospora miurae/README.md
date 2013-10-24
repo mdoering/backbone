@@ -1,5 +1,4 @@
-Cercospora miurae Syd. & P. Syd. SPECIES
-=======
+# Cercospora miurae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

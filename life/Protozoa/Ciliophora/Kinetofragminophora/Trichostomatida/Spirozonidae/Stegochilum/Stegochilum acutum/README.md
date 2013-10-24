@@ -1,5 +1,4 @@
-Stegochilum acutum Bürger, 1908 SPECIES
-=======
+# Stegochilum acutum Bürger, 1908 SPECIES
 
 #### Status
 ACCEPTED

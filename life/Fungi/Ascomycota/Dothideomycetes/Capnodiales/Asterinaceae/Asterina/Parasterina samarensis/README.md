@@ -1,5 +1,4 @@
-Parasterina samarensis J.M. Mend. SPECIES
-=======
+# Parasterina samarensis J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

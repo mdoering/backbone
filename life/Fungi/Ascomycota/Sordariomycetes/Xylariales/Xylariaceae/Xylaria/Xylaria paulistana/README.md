@@ -1,5 +1,4 @@
-Xylaria paulistana Bat. & A.F. Vital SPECIES
-=======
+# Xylaria paulistana Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

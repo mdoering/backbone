@@ -1,5 +1,4 @@
-Alternaria daucicaulis E.G. Simmons SPECIES
-=======
+# Alternaria daucicaulis E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

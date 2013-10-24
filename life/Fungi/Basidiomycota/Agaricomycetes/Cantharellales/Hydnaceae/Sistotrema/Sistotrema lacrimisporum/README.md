@@ -1,5 +1,4 @@
-Sistotrema lacrimisporum S.S. Rattan SPECIES
-=======
+# Sistotrema lacrimisporum S.S. Rattan SPECIES
 
 #### Status
 ACCEPTED

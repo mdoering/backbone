@@ -1,5 +1,4 @@
-Caloplaca phaeocarpodes (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca phaeocarpodes (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

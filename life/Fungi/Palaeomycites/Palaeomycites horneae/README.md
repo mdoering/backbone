@@ -1,5 +1,4 @@
-Palaeomycites horneae (Kidst. & W.H. Lang) Kalgutkar & Janson. SPECIES
-=======
+# Palaeomycites horneae (Kidst. & W.H. Lang) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

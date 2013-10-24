@@ -1,5 +1,4 @@
-Lagynophrya stammeri Lust, 1950 SPECIES
-=======
+# Lagynophrya stammeri Lust, 1950 SPECIES
 
 #### Status
 ACCEPTED

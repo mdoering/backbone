@@ -1,5 +1,4 @@
-Sphaerodes perplexa (D. Hawksw.) P.F. Cannon & D. Hawksw. SPECIES
-=======
+# Sphaerodes perplexa (D. Hawksw.) P.F. Cannon & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

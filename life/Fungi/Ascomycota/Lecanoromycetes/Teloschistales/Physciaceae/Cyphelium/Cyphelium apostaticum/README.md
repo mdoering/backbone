@@ -1,5 +1,4 @@
-Cyphelium apostaticum Zahlbr. SPECIES
-=======
+# Cyphelium apostaticum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

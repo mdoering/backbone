@@ -1,5 +1,4 @@
-Passalora hamamelidis (Peck) U. Braun & Crous SPECIES
-=======
+# Passalora hamamelidis (Peck) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

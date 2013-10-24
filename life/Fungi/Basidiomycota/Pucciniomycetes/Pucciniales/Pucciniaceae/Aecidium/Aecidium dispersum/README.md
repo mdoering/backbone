@@ -1,5 +1,4 @@
-Aecidium dispersum Dietel SPECIES
-=======
+# Aecidium dispersum Dietel SPECIES
 
 #### Status
 ACCEPTED

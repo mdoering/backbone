@@ -1,5 +1,4 @@
-Kofoidinium velleloides Pavillard SPECIES
-=======
+# Kofoidinium velleloides Pavillard SPECIES
 
 #### Status
 ACCEPTED

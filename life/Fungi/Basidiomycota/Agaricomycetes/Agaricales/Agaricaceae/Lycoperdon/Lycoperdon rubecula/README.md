@@ -1,5 +1,4 @@
-Lycoperdon rubecula Berk. & Broome SPECIES
-=======
+# Lycoperdon rubecula Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

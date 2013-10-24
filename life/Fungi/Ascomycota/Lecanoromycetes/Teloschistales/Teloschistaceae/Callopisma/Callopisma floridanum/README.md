@@ -1,5 +1,4 @@
-Callopisma floridanum var. nigrescens Müll. Arg. VARIETY
-=======
+# Callopisma floridanum (Tuck.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Callopisma floridanum var. nigrescens Müll. Arg.
+Lecanora floridana Tuck.
 
 ### Remarks
 null

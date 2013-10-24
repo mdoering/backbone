@@ -1,5 +1,4 @@
-Sphaerocarpus semitrichiodes Bull. SPECIES
-=======
+# Sphaerocarpus semitrichiodes Bull. SPECIES
 
 #### Status
 ACCEPTED

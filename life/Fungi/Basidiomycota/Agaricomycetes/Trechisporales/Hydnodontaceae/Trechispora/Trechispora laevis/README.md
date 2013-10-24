@@ -1,5 +1,4 @@
-Trechispora laevis K.H. Larss., 1996 SPECIES
-=======
+# Trechispora laevis K.H. Larss., 1996 SPECIES
 
 #### Status
 ACCEPTED

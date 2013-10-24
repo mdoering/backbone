@@ -1,5 +1,4 @@
-Marasmius subaimara Z.S. Bi SPECIES
-=======
+# Marasmius subaimara Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Heptameria cadubriae (Speg.) Cooke, 1889 SPECIES
-=======
+# Nodulosphaeria cadubriae (Speg.) L. Holm, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 55: 73 (1961)
 
 #### Original name
-null
+Leptosphaeria cadubriae Speg., 1881
 
 ### Remarks
 null

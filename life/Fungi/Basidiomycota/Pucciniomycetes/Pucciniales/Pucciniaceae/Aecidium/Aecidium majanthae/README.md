@@ -1,5 +1,4 @@
-Aecidium majanthae Schumach. SPECIES
-=======
+# Aecidium majanthae Schumach. SPECIES
 
 #### Status
 ACCEPTED

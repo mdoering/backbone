@@ -1,5 +1,4 @@
-Leptogium mesotropum Müll. Arg. SPECIES
-=======
+# Leptogium mesotropum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

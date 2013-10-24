@@ -1,5 +1,4 @@
-Clavatella viridissima Bory de Saint-Vincent SPECIES
-=======
+# Clavatella viridissima Bory de Saint-Vincent SPECIES
 
 #### Status
 ACCEPTED

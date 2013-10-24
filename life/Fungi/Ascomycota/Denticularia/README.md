@@ -1,5 +1,4 @@
-Denticularia Deighton, 1972 GENUS
-=======
+# Denticularia Deighton, 1972 GENUS
 
 #### Status
 ACCEPTED

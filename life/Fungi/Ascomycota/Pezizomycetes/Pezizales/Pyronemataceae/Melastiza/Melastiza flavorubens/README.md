@@ -1,14 +1,13 @@
-Aleuria flavorubens (Rehm) J. Moravec, 1994 SPECIES
-=======
+# Melastiza flavorubens (Rehm) Pfister & Korf, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Czech Mycol. 47(4): 253 (1994)
+Phytologia 21(4): 204 (1971)
 
 #### Original name
 Humaria flavorubens Rehm, 1894

@@ -1,5 +1,4 @@
-Dicaeoma balansae (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma balansae (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

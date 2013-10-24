@@ -1,5 +1,4 @@
-Physcia caesiopsis Elix SPECIES
-=======
+# Physcia caesiopsis Elix SPECIES
 
 #### Status
 ACCEPTED

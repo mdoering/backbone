@@ -1,5 +1,4 @@
-Agaricus flavocroceus Berk. SPECIES
-=======
+# Agaricus flavocroceus Berk. SPECIES
 
 #### Status
 ACCEPTED

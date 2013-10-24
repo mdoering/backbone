@@ -1,5 +1,4 @@
-Xylaria diceras (Pers. ex Lév.) Fr. SPECIES
-=======
+# Xylaria diceras (Pers. ex Lév.) Fr. SPECIES
 
 #### Status
 ACCEPTED

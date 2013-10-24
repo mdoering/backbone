@@ -1,5 +1,4 @@
-Tuburcinia javanica Koord. SPECIES
-=======
+# Tuburcinia javanica Koord. SPECIES
 
 #### Status
 ACCEPTED

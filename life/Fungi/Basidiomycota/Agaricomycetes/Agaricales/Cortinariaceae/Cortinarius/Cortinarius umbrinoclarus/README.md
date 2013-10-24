@@ -1,5 +1,4 @@
-Cortinarius umbrinoclarus Rob. Henry SPECIES
-=======
+# Cortinarius umbrinoclarus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

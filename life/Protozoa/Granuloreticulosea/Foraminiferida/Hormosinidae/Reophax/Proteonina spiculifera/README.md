@@ -1,5 +1,4 @@
-Proteonina spiculifera Parr, 1932 SPECIES
-=======
+# Proteonina spiculifera Parr, 1932 SPECIES
 
 #### Status
 DOUBTFUL

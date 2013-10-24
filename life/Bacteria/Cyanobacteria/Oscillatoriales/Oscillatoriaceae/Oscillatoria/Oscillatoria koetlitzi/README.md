@@ -1,5 +1,4 @@
-Oscillatoria koetlitzi F.E. Fritsch SPECIES
-=======
+# Oscillatoria koetlitzi F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

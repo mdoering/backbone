@@ -1,5 +1,4 @@
-Botryodiplodia hypoxyloidea (Cooke) Sacc. SPECIES
-=======
+# Botryodiplodia hypoxyloidea (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

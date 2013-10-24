@@ -1,5 +1,4 @@
-Aedycia curtisii (Berk.) Kuntze SPECIES
-=======
+# Aedycia curtisii (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta farfarae Sacc. SPECIES
-=======
+# Phyllosticta farfarae Sacc. SPECIES
 
 #### Status
 ACCEPTED

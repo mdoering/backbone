@@ -1,5 +1,4 @@
-Pyrgo carinata SPECIES
-=======
+# Pyrgo carinata SPECIES
 
 #### Status
 ACCEPTED

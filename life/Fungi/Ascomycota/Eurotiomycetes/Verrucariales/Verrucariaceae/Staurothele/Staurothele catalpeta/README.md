@@ -1,5 +1,4 @@
-Staurothele catalpeta f. catalpeta FORM
-=======
+# Staurothele catalpeta SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Staurothele catalpeta f. catalpeta
+Staurothele catalpeta
 
 ### Remarks
 null

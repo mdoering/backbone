@@ -1,5 +1,4 @@
-Peltidea verrucosa Röhl. SPECIES
-=======
+# Peltidea verrucosa Röhl. SPECIES
 
 #### Status
 ACCEPTED

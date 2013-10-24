@@ -1,5 +1,4 @@
-Nectria repens Pat. SPECIES
-=======
+# Nectria repens Pat. SPECIES
 
 #### Status
 ACCEPTED

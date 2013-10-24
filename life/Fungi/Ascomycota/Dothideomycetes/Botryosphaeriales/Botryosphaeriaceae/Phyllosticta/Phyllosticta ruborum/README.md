@@ -1,5 +1,4 @@
-Phyllosticta ruborum Sacc., 1881 SPECIES
-=======
+# Phyllosticta ruborum Sacc., 1881 SPECIES
 
 #### Status
 ACCEPTED

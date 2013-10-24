@@ -1,5 +1,4 @@
-Mycovellosiella tarrii Deighton SPECIES
-=======
+# Mycovellosiella tarrii Deighton SPECIES
 
 #### Status
 ACCEPTED

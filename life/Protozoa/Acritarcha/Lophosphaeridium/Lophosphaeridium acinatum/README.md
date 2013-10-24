@@ -1,5 +1,4 @@
-Lophosphaeridium acinatum Wicander, Playford & Robertson, 1999 SPECIES
-=======
+# Lophosphaeridium acinatum Wicander, Playford & Robertson, 1999 SPECIES
 
 #### Status
 ACCEPTED

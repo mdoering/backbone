@@ -1,5 +1,4 @@
-Geopyxis hicksii Peck SPECIES
-=======
+# Geopyxis hicksii Peck SPECIES
 
 #### Status
 ACCEPTED

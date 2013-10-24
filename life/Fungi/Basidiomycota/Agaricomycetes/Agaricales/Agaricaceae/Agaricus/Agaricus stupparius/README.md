@@ -1,5 +1,4 @@
-Agaricus stupparius Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus stupparius Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

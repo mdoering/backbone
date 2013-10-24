@@ -1,5 +1,4 @@
-Meliola ouroupariae F. Stevens SPECIES
-=======
+# Meliola ouroupariae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

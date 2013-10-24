@@ -1,5 +1,4 @@
-Pyrenastrum personatum Malme SPECIES
-=======
+# Pyrenastrum personatum Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerulina stereocaulorum (Arnold) SPECIES
-=======
+# Sphaerulina stereocaulorum (Arnold) SPECIES
 
 #### Status
 ACCEPTED

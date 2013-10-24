@@ -1,5 +1,4 @@
-Amanita pustulata Iordanov {?}, Vanev & Fakirova SPECIES
-=======
+# Amanita pustulata Iordanov {?}, Vanev & Fakirova SPECIES
 
 #### Status
 ACCEPTED

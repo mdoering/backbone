@@ -1,5 +1,4 @@
-Asteroma medusula Durieu & Mont. SPECIES
-=======
+# Asteroma medusula Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

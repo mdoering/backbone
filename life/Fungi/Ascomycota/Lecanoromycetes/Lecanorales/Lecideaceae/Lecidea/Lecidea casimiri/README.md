@@ -1,5 +1,4 @@
-Lecidea casimiri (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Lecidea casimiri (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sterigmatocystis szurakiana Moesz SPECIES
-=======
+# Sterigmatocystis szurakiana Moesz SPECIES
 
 #### Status
 ACCEPTED

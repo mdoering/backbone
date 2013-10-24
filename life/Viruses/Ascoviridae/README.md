@@ -1,5 +1,4 @@
-Ascoviridae FAMILY
-=======
+# Ascoviridae FAMILY
 
 #### Status
 ACCEPTED

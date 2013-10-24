@@ -1,5 +1,4 @@
-Ramalina unilateralis F. Wilson SPECIES
-=======
+# Ramalina unilateralis F. Wilson SPECIES
 
 #### Status
 ACCEPTED

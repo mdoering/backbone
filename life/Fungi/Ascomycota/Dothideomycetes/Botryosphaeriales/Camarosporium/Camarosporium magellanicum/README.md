@@ -1,5 +1,4 @@
-Camarosporium magellanicum Speg. SPECIES
-=======
+# Camarosporium magellanicum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus longisporus (Curr.) Sacc. SPECIES
-=======
+# Ophiobolus longisporus (Curr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

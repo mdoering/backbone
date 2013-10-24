@@ -1,5 +1,4 @@
-Ceriporiopsis latemarginata (Rick) Rajchenb. SPECIES
-=======
+# Ceriporiopsis latemarginata (Rick) Rajchenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptosphaerella GENUS
-=======
+# Cryptosphaerella GENUS
 
 #### Status
 ACCEPTED

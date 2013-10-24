@@ -1,5 +1,4 @@
-Cephalosporiopsis carnivora Drechsler SPECIES
-=======
+# Cephalosporiopsis carnivora Drechsler SPECIES
 
 #### Status
 ACCEPTED

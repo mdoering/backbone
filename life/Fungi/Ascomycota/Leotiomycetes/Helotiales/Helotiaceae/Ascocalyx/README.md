@@ -1,17 +1,16 @@
-Lagerbergia J. Reid GENUS
-=======
+# Ascocalyx Naumov, 1926 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Dennis, Kew Bull. 25(2): 350 (1971)
+null
 
 #### Original name
-Lagerbergia J. Reid
+null
 
 ### Remarks
 null

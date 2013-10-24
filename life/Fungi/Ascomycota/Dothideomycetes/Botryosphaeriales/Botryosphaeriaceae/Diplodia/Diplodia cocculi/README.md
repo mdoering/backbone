@@ -1,5 +1,4 @@
-Diplodia cocculi D. Sacc. SPECIES
-=======
+# Diplodia cocculi D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

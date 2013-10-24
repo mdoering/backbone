@@ -1,5 +1,4 @@
-Uromyces scirpi-maritimi Hirats. f. & Yoshin. SPECIES
-=======
+# Uromyces scirpi-maritimi Hirats. f. & Yoshin. SPECIES
 
 #### Status
 ACCEPTED

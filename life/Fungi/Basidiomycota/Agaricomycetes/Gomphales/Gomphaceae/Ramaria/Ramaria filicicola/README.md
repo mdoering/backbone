@@ -1,14 +1,13 @@
-Clavaria filicicola S.G.M. Fawc., 1939 SPECIES
-=======
+# Ramaria filicicola (S.G.M. Fawc.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Roy. Soc. Victoria, N. S. 52(1): 155 (1939)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 576 (1950)
 
 #### Original name
 Clavaria filicicola S.G.M. Fawc., 1939

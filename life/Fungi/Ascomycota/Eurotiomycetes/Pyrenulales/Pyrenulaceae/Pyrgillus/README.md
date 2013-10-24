@@ -1,17 +1,16 @@
-Pyrgillocarpon Nádv. GENUS
-=======
+# Pyrgillus Nyl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Bot. Cechoslav. 5: 125 (1942)
+Mém. Soc. natn. Sci. nat. math. Cherbourg 5: 334 (1858)
 
 #### Original name
-Pyrgillocarpon Nádv.
+Pyrgillus Nyl.
 
 ### Remarks
 null

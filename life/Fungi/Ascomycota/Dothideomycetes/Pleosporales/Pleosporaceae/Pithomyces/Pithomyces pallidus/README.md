@@ -1,5 +1,4 @@
-Pithomyces pallidus H.M. Liu & T.Y. Zhang SPECIES
-=======
+# Pithomyces pallidus H.M. Liu & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

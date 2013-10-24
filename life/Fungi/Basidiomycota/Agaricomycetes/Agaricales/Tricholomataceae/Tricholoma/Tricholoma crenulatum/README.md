@@ -1,5 +1,4 @@
-Tricholoma crenulatum Hornicek SPECIES
-=======
+# Tricholoma crenulatum Hornicek SPECIES
 
 #### Status
 ACCEPTED

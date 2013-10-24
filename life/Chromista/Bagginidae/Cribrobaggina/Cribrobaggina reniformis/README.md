@@ -1,8 +1,7 @@
-Discorbina reniformis Heron-Allen & Earland, 1915 SPECIES
-=======
+# Cribrobaggina reniformis (Heron-Allen & Earland, 1915) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

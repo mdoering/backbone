@@ -1,5 +1,4 @@
-Angatia Syd. GENUS
-=======
+# Angatia Syd. GENUS
 
 #### Status
 ACCEPTED

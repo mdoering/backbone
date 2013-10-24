@@ -1,5 +1,4 @@
-Sargassum turbinatifolium C.K. Tseng & Lu SPECIES
-=======
+# Sargassum turbinatifolium C.K. Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

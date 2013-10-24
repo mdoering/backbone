@@ -1,5 +1,4 @@
-Dorothia pupoides (d'Orbigny) SPECIES
-=======
+# Dorothia pupoides (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

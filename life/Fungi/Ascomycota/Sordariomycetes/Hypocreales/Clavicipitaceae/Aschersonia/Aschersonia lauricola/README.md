@@ -1,5 +1,4 @@
-Aschersonia lauricola Speg. SPECIES
-=======
+# Aschersonia lauricola Speg. SPECIES
 
 #### Status
 ACCEPTED

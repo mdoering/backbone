@@ -1,17 +1,16 @@
-Cercospora muehlenbergiae G.F. Atk. SPECIES
-=======
+# Cercospora muhlenbergiae G.F. Atk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin of Cornell University, Science 3(1): 46 (1897)
 
 #### Original name
-Cercospora muehlenbergiae G.F. Atk.
+Cercospora muhlenbergiae G.F. Atk.
 
 ### Remarks
 null

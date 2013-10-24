@@ -1,5 +1,4 @@
-Sphaerella muscari Hollós SPECIES
-=======
+# Sphaerella muscari Hollós SPECIES
 
 #### Status
 ACCEPTED

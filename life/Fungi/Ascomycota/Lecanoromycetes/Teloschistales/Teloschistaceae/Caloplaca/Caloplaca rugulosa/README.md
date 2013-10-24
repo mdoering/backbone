@@ -1,14 +1,13 @@
-Placodium rugulosum Nyl. SPECIES
-=======
+# Caloplaca rugulosa (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 3: 153 (1855)
+Cat. Lich. Univers. 7: 263 (1931)
 
 #### Original name
 Placodium rugulosum Nyl.

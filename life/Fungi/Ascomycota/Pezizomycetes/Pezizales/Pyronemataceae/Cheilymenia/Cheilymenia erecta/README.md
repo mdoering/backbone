@@ -1,14 +1,13 @@
-Peziza erecta Sowerby, 1803 SPECIES
-=======
+# Cheilymenia erecta (Sowerby) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Col. fig. Engl. Fung. Mushr. (1803)
+null
 
 #### Original name
 Peziza erecta Sowerby, 1803

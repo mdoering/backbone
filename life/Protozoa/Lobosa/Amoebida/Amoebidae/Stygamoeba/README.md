@@ -1,5 +1,4 @@
-Stygamoeba Sawyer, 1975 GENUS
-=======
+# Stygamoeba Sawyer, 1975 GENUS
 
 #### Status
 ACCEPTED

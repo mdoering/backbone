@@ -1,5 +1,4 @@
-Boletus subreticulatus Corner SPECIES
-=======
+# Boletus subreticulatus Corner SPECIES
 
 #### Status
 ACCEPTED

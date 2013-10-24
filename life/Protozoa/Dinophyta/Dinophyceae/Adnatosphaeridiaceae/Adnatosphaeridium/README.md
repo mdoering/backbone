@@ -1,5 +1,4 @@
-Adnatosphaeridium G.Williams & Downie, 1966 GENUS
-=======
+# Adnatosphaeridium G.Williams & Downie, 1966 GENUS
 
 #### Status
 ACCEPTED

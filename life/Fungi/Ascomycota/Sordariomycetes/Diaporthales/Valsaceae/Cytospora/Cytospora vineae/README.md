@@ -1,5 +1,4 @@
-Cytospora vineae SPECIES
-=======
+# Cytospora vineae SPECIES
 
 #### Status
 ACCEPTED

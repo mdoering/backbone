@@ -1,5 +1,4 @@
-Linkosia fusiformis W.P. Wu SPECIES
-=======
+# Linkosia fusiformis W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

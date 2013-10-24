@@ -1,5 +1,4 @@
-Wallrothiella imperialis Tassi SPECIES
-=======
+# Wallrothiella imperialis Tassi SPECIES
 
 #### Status
 ACCEPTED

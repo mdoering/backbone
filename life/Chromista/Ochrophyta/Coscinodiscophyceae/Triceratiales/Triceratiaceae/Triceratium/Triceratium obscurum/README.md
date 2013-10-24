@@ -1,5 +1,4 @@
-Triceratium obscurum Greville SPECIES
-=======
+# Triceratium obscurum Greville SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistylis vestita Stokes, 1887 SPECIES
-=======
+# Epistylis vestita Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

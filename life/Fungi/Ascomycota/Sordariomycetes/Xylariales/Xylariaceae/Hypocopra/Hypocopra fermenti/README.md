@@ -1,5 +1,4 @@
-Hypocopra fermenti Fuckel SPECIES
-=======
+# Hypocopra fermenti Fuckel SPECIES
 
 #### Status
 ACCEPTED

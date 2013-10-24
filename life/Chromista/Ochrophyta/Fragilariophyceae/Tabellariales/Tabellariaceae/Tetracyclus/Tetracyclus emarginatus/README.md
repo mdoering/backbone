@@ -1,5 +1,4 @@
-Tetracyclus emarginatus (Ehrenberg) W. Smith SPECIES
-=======
+# Tetracyclus emarginatus (Ehrenberg) W. Smith SPECIES
 
 #### Status
 ACCEPTED

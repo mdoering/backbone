@@ -1,5 +1,4 @@
-Entyloma eryngii-tricuspidati Maire SPECIES
-=======
+# Entyloma eryngii-tricuspidati Maire SPECIES
 
 #### Status
 ACCEPTED

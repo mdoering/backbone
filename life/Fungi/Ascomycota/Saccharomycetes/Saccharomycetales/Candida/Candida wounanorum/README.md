@@ -1,5 +1,4 @@
-Candida wounanorum S.O. Suh & M. Blackw., 2004 SPECIES
-=======
+# Candida wounanorum S.O. Suh & M. Blackw., 2004 SPECIES
 
 #### Status
 ACCEPTED

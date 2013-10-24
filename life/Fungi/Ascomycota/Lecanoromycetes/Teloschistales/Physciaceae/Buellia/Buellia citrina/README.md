@@ -1,5 +1,4 @@
-Buellia citrina H. Magn. SPECIES
-=======
+# Buellia citrina H. Magn. SPECIES
 
 #### Status
 ACCEPTED

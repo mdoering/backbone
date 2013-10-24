@@ -1,5 +1,4 @@
-Lecanora hyperboreorum Zahlbr. SPECIES
-=======
+# Lecanora hyperboreorum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

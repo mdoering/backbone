@@ -1,5 +1,4 @@
-Hebeloma appendiculatum Murrill SPECIES
-=======
+# Hebeloma appendiculatum Murrill SPECIES
 
 #### Status
 ACCEPTED

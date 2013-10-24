@@ -1,5 +1,4 @@
-Pellatispirella Hanzawa, 1937 GENUS
-=======
+# Pellatispirella Hanzawa, 1937 GENUS
 
 #### Status
 ACCEPTED

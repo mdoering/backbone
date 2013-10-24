@@ -1,5 +1,4 @@
-Callopisma cuyabense Malme SPECIES
-=======
+# Callopisma cuyabense Malme SPECIES
 
 #### Status
 ACCEPTED

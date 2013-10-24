@@ -1,14 +1,13 @@
-Catillaria contexta (Hedl.) Zahlbr. SPECIES
-=======
+# Micarea contexta Hedl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 18(no. 3): 83 (1892)
 
 #### Original name
 Micarea contexta Hedl.

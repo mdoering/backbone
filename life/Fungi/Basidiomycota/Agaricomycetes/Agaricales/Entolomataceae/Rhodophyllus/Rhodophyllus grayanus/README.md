@@ -1,5 +1,4 @@
-Rhodophyllus grayanus (Peck) Singer SPECIES
-=======
+# Rhodophyllus grayanus (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

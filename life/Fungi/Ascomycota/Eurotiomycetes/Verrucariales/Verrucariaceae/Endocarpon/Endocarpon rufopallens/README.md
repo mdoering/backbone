@@ -1,5 +1,4 @@
-Endocarpon rufopallens Nyl. SPECIES
-=======
+# Endocarpon rufopallens Nyl. SPECIES
 
 #### Status
 ACCEPTED

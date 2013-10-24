@@ -1,5 +1,4 @@
-Protobagliettoa exesa (Servít) Servít SPECIES
-=======
+# Protobagliettoa exesa (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

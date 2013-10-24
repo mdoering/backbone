@@ -1,8 +1,7 @@
-Gymnodinium paradoxum var. maior Lemmermann VARIETY
-=======
+# Gymnodinium paradoxum A.J. Schilling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

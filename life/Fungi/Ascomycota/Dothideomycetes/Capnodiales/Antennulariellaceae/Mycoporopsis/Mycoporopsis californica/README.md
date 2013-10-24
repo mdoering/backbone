@@ -1,5 +1,4 @@
-Mycoporopsis californica (Zahlbr.) Riedl SPECIES
-=======
+# Mycoporopsis californica (Zahlbr.) Riedl SPECIES
 
 #### Status
 ACCEPTED

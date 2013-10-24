@@ -1,5 +1,4 @@
-Stenella morindae A.K. Srivast. SPECIES
-=======
+# Stenella morindae A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

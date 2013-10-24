@@ -1,5 +1,4 @@
-Septoria artemisiae-japonicae Togashi SPECIES
-=======
+# Septoria artemisiae-japonicae Togashi SPECIES
 
 #### Status
 ACCEPTED

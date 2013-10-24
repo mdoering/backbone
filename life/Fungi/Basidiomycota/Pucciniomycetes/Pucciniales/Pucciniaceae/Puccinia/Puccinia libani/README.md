@@ -1,5 +1,4 @@
-Puccinia libani Magnus SPECIES
-=======
+# Puccinia libani Magnus SPECIES
 
 #### Status
 ACCEPTED

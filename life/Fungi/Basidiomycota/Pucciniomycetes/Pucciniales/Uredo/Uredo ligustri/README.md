@@ -1,5 +1,4 @@
-Uredo ligustri Rabenh. SPECIES
-=======
+# Uredo ligustri Rabenh. SPECIES
 
 #### Status
 ACCEPTED

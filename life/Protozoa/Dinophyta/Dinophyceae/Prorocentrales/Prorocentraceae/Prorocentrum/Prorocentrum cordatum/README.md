@@ -1,11 +1,10 @@
-Exuviaella cordata Ostenfeld SPECIES
-=======
+# Prorocentrum cordatum (Ostenfeld, 1901) Dodge, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

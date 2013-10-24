@@ -1,5 +1,4 @@
-Mesophelliaceae Jülich FAMILY
-=======
+# Mesophelliaceae Jülich FAMILY
 
 #### Status
 ACCEPTED

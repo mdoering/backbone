@@ -1,5 +1,4 @@
-Passalora paspalicola (Petr. & Cif.) U. Braun SPECIES
-=======
+# Passalora paspalicola (Petr. & Cif.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

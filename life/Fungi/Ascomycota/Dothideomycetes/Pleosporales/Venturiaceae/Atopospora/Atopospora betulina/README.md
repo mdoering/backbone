@@ -1,17 +1,16 @@
-Dothidella betulina var. betulina (Fr.) Sacc. VARIETY
-=======
+# Atopospora betulina (Fr.) Petr., 1925 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 628 (1883)
+Annls mycol. 23(1/2): 101 (1925)
 
 #### Original name
-Dothidella betulina var. betulina (Fr.) Sacc.
+null
 
 ### Remarks
 null

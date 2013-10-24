@@ -1,5 +1,4 @@
-Ovulariopsis cephalanthi Sawada SPECIES
-=======
+# Ovulariopsis cephalanthi Sawada SPECIES
 
 #### Status
 ACCEPTED

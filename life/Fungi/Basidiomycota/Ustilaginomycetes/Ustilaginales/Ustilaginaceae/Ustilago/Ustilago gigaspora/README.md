@@ -1,5 +1,4 @@
-Ustilago gigaspora Massee SPECIES
-=======
+# Ustilago gigaspora Massee SPECIES
 
 #### Status
 ACCEPTED

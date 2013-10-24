@@ -1,5 +1,4 @@
-Rosalinidae Reiss, 1963 FAMILY
-=======
+# Rosalinidae Reiss, 1963 FAMILY
 
 #### Status
 ACCEPTED

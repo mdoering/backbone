@@ -1,5 +1,4 @@
-Macrolepiota albida Heinem. SPECIES
-=======
+# Macrolepiota albida Heinem. SPECIES
 
 #### Status
 ACCEPTED

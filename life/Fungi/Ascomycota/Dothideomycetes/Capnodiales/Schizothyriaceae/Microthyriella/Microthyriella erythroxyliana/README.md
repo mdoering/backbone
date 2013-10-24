@@ -1,5 +1,4 @@
-Microthyriella erythroxyliana Bat. & I.H. Lima SPECIES
-=======
+# Microthyriella erythroxyliana Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

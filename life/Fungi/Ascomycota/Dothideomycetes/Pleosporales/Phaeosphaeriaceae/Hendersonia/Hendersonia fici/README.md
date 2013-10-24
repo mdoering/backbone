@@ -1,5 +1,4 @@
-Hendersonia fici (Pass.) Kuntze SPECIES
-=======
+# Hendersonia fici (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

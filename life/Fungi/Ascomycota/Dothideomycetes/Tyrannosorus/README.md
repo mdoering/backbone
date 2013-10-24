@@ -1,5 +1,4 @@
-Tyrannosorus Unter. & Malloch GENUS
-=======
+# Tyrannosorus Unter. & Malloch GENUS
 
 #### Status
 ACCEPTED

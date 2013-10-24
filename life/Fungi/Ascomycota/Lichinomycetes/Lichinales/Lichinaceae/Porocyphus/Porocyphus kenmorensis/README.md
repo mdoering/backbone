@@ -1,17 +1,16 @@
-Synalissa kenmorensis F.C. Holl ex Nyl. SPECIES
-=======
+# Porocyphus kenmorensis (Holl ex Nyl.) Henssen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 27(6): 109 (1974)
 
 #### Original name
-Synalissa kenmorensis F.C. Holl ex Nyl.
+Lichiniza kenmorensis H.B. Holl ex Nyl.
 
 ### Remarks
 null

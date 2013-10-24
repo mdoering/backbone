@@ -1,5 +1,4 @@
-Xanthoparmelia lusitana (Nyl.) Krog SPECIES
-=======
+# Xanthoparmelia lusitana (Nyl.) Krog SPECIES
 
 #### Status
 ACCEPTED

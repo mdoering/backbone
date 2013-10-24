@@ -1,5 +1,4 @@
-Ithyphallus aurantiacus (Mont.) E. Fisch. SPECIES
-=======
+# Ithyphallus aurantiacus (Mont.) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

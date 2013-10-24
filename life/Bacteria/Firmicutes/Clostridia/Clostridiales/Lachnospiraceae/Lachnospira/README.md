@@ -1,5 +1,4 @@
-Lachnospira Bryant & Small, 1956 GENUS
-=======
+# Lachnospira Bryant & Small, 1956 GENUS
 
 #### Status
 ACCEPTED

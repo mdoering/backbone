@@ -1,5 +1,4 @@
-Panus cantagallensis Beck SPECIES
-=======
+# Panus cantagallensis Beck SPECIES
 
 #### Status
 ACCEPTED

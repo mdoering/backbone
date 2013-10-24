@@ -1,5 +1,4 @@
-Cerebella GENUS
-=======
+# Cerebella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella phlogina Ellis & Langl. SPECIES
-=======
+# Volutella phlogina Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mortierella jenkini (Smith) Naumov SPECIES
-=======
+# Mortierella jenkini (Smith) Naumov SPECIES
 
 #### Status
 ACCEPTED

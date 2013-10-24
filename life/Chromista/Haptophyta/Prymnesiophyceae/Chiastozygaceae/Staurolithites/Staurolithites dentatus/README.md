@@ -1,5 +1,4 @@
-Staurolithites dentatus SPECIES
-=======
+# Staurolithites dentatus SPECIES
 
 #### Status
 ACCEPTED

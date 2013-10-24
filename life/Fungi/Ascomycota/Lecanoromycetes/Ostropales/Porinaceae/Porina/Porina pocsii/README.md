@@ -1,5 +1,4 @@
-Porina pocsii Vezda SPECIES
-=======
+# Porina pocsii Vezda SPECIES
 
 #### Status
 ACCEPTED

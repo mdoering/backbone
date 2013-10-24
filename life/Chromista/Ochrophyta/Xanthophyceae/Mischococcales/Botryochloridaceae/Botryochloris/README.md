@@ -1,5 +1,4 @@
-Botryochloris Pascher, 1930 GENUS
-=======
+# Botryochloris Pascher, 1930 GENUS
 
 #### Status
 ACCEPTED

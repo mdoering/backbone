@@ -1,5 +1,4 @@
-Hydropus comptus E. Horak SPECIES
-=======
+# Hydropus comptus E. Horak SPECIES
 
 #### Status
 ACCEPTED

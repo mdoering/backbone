@@ -1,5 +1,4 @@
-Ceriporia davidii (D.A. Reid) M. Pieri & B. Rivoire SPECIES
-=======
+# Ceriporia davidii (D.A. Reid) M. Pieri & B. Rivoire SPECIES
 
 #### Status
 ACCEPTED

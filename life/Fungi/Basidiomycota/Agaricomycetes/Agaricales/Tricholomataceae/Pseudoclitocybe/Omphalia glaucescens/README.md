@@ -1,5 +1,4 @@
-Omphalia glaucescens (Kalchbr.) Sacc. SPECIES
-=======
+# Omphalia glaucescens (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

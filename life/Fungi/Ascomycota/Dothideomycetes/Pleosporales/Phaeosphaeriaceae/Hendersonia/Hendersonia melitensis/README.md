@@ -1,5 +1,4 @@
-Hendersonia melitensis Sacc. SPECIES
-=======
+# Hendersonia melitensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

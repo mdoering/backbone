@@ -1,5 +1,4 @@
-Rickia rhacomycoides Speg. SPECIES
-=======
+# Rickia rhacomycoides Speg. SPECIES
 
 #### Status
 ACCEPTED

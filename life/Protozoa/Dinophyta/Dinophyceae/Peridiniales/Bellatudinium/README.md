@@ -1,5 +1,4 @@
-Bellatudinium J. Yu, M. Sun, S. Sun & S. Mao, 1981 GENUS
-=======
+# Bellatudinium J. Yu, M. Sun, S. Sun & S. Mao, 1981 GENUS
 
 #### Status
 ACCEPTED

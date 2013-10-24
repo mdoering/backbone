@@ -1,5 +1,4 @@
-Coleosporium prumeria Patouillard, 1902 SPECIES
-=======
+# Coleosporium prumeria Patouillard, 1902 SPECIES
 
 #### Status
 ACCEPTED

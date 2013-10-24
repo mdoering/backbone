@@ -1,5 +1,4 @@
-Cercospora huricola Chupp SPECIES
-=======
+# Cercospora huricola Chupp SPECIES
 
 #### Status
 ACCEPTED

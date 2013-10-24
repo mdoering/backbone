@@ -1,5 +1,4 @@
-Beltrania concurvispora Matsush. SPECIES
-=======
+# Beltrania concurvispora Matsush. SPECIES
 
 #### Status
 ACCEPTED

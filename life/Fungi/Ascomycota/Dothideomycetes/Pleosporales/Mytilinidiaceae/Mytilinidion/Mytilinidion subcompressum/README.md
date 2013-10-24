@@ -1,8 +1,7 @@
-Mytilidion subcompressum P. Karst. SPECIES
-=======
+# Mytilinidion subcompressum P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mytilidion subcompressum P. Karst.
+Mytilinidion subcompressum P. Karst.
 
 ### Remarks
 null

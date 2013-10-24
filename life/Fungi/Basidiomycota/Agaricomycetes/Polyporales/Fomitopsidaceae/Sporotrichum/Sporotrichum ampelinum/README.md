@@ -1,5 +1,4 @@
-Sporotrichum ampelinum Thüm. & Pass. SPECIES
-=======
+# Sporotrichum ampelinum Thüm. & Pass. SPECIES
 
 #### Status
 ACCEPTED

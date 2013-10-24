@@ -1,5 +1,4 @@
-Asterina escharoides Syd. & P. Syd. SPECIES
-=======
+# Asterina escharoides Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

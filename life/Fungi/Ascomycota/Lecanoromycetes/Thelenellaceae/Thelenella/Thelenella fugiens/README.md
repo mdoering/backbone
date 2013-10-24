@@ -1,5 +1,4 @@
-Thelenella fugiens (Müll. Arg.) R. C. Harris SPECIES
-=======
+# Thelenella fugiens (Müll. Arg.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptosphaerina heterospora Speg. SPECIES
-=======
+# Cryptosphaerina heterospora Speg. SPECIES
 
 #### Status
 ACCEPTED

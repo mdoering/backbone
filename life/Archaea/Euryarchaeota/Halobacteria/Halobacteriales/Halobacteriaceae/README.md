@@ -1,5 +1,4 @@
-Halobacteriaceae FAMILY
-=======
+# Halobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

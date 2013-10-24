@@ -1,5 +1,4 @@
-Ladinosphaera Oberhauser, 1960 GENUS
-=======
+# Ladinosphaera Oberhauser, 1960 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia pleiomeroides Müll. Arg. SPECIES
-=======
+# Arthopyrenia pleiomeroides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

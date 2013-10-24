@@ -1,17 +1,16 @@
-Puccinia glechomae DC., 1815 SPECIES
-=======
+# Puccinia glechomatis DC., 1808 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 56 (1815)
+Encycl. Méth. Bot. 8: 245 (1808)
 
 #### Original name
-Puccinia glechomae DC., 1815
+Puccinia glechomatis DC., 1808
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pleurotus concha (Hoffm.) Sacc. & Traverso SPECIES
-=======
+# Pleurotus concha (Hoffm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

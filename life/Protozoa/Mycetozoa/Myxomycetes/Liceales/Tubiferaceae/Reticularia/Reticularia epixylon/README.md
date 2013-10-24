@@ -1,8 +1,7 @@
-Reticularia epixyla Bull. SPECIES
-=======
+# Reticularia epixylon Bull. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Reticularia epixyla Bull.
+Reticularia epixylon Bull.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coryne cornea Rick SPECIES
-=======
+# Coryne cornea Rick SPECIES
 
 #### Status
 ACCEPTED

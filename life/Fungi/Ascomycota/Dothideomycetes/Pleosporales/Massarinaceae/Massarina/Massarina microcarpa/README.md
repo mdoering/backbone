@@ -1,14 +1,13 @@
-Epiphegia microcarpa (Fuckel) Aptroot, 1998 SPECIES
-=======
+# Massarina microcarpa (Fuckel) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 66(1-2): 133 (1998)
+Syll. fung. (Abellini) 2: 154 (1883)
 
 #### Original name
 null

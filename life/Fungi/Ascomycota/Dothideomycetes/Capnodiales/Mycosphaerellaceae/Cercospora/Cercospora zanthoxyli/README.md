@@ -1,17 +1,16 @@
-Cercospora xanthoxyli Cooke SPECIES
-=======
+# Cercospora zanthoxyli Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Ravenel, Grevillea 12(no. 61): 30 (1883)
 
 #### Original name
-Cercospora xanthoxyli Cooke
+Cercospora zanthoxyli Cooke
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Macalpinomyces brachiariae Vánky, C. Vánky & R.G. Shivas, 2003 SPECIES
-=======
+# Macalpinomyces brachiariae Vánky, C. Vánky & R.G. Shivas, 2003 SPECIES
 
 #### Status
 ACCEPTED

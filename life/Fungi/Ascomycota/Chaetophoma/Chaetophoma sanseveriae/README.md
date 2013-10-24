@@ -1,5 +1,4 @@
-Chaetophoma sanseveriae Tassi SPECIES
-=======
+# Chaetophoma sanseveriae Tassi SPECIES
 
 #### Status
 ACCEPTED

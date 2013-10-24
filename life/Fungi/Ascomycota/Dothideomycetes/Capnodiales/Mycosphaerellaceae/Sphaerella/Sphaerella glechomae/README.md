@@ -1,5 +1,4 @@
-Sphaerella glechomae Sacc. & Flageolet SPECIES
-=======
+# Sphaerella glechomae Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

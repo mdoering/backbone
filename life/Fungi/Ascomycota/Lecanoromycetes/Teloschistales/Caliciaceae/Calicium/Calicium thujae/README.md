@@ -1,5 +1,4 @@
-Calicium thujae Tibell SPECIES
-=======
+# Calicium thujae Tibell SPECIES
 
 #### Status
 ACCEPTED

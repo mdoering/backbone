@@ -1,5 +1,4 @@
-Trachelomonas bulla var. australis Playfair VARIETY
-=======
+# Trachelomonas bulla F.Stein ex Deflandre SPECIES
 
 #### Status
 ACCEPTED

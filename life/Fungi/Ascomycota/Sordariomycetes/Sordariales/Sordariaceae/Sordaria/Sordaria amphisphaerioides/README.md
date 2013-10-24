@@ -1,5 +1,4 @@
-Sordaria amphisphaerioides Ellis & Everh. SPECIES
-=======
+# Sordaria amphisphaerioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

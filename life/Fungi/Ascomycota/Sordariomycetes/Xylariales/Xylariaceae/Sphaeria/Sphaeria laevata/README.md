@@ -1,5 +1,4 @@
-Sphaeria laevata Fr. SPECIES
-=======
+# Sphaeria laevata Fr. SPECIES
 
 #### Status
 ACCEPTED

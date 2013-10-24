@@ -1,5 +1,4 @@
-Entyloma mediterraneum Syd. SPECIES
-=======
+# Entyloma mediterraneum Syd. SPECIES
 
 #### Status
 ACCEPTED

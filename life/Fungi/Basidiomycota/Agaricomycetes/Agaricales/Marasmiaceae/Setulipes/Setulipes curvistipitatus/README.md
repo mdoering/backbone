@@ -1,5 +1,4 @@
-Setulipes curvistipitatus Antonín SPECIES
-=======
+# Setulipes curvistipitatus Antonín SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe radiozonaria Johns. {?} SPECIES
-=======
+# Clitocybe radiozonaria Johns. {?} SPECIES
 
 #### Status
 ACCEPTED

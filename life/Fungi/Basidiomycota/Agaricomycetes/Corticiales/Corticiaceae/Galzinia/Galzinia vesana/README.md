@@ -1,5 +1,4 @@
-Galzinia vesana Boidin & Gilles, 1990 SPECIES
-=======
+# Galzinia vesana Boidin & Gilles, 1990 SPECIES
 
 #### Status
 ACCEPTED

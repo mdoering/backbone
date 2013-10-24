@@ -1,5 +1,4 @@
-Lachnea schistarenaria (Saut.) Sacc. SPECIES
-=======
+# Lachnea schistarenaria (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema decorticans Lév. SPECIES
-=======
+# Sphaeronaema decorticans Lév. SPECIES
 
 #### Status
 ACCEPTED

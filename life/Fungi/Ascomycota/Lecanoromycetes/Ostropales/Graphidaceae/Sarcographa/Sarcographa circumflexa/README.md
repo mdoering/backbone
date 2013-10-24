@@ -1,5 +1,4 @@
-Sarcographa circumflexa (Nyl.) Zahlbr. SPECIES
-=======
+# Sarcographa circumflexa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

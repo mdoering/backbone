@@ -1,5 +1,4 @@
-Capnodiastrum cestri Pat. SPECIES
-=======
+# Capnodiastrum cestri Pat. SPECIES
 
 #### Status
 ACCEPTED

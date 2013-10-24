@@ -1,5 +1,4 @@
-Ramularia psoraleae Ellis & Everh. SPECIES
-=======
+# Ramularia psoraleae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

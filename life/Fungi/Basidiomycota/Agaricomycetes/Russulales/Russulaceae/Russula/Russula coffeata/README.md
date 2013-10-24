@@ -1,5 +1,4 @@
-Russula coffeata Perr.-Bertr. SPECIES
-=======
+# Russula coffeata Perr.-Bertr. SPECIES
 
 #### Status
 ACCEPTED

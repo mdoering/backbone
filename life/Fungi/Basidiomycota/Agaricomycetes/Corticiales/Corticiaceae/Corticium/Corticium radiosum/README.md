@@ -1,14 +1,13 @@
-Corticium laeve var. radiosum (Fr.) Quél., 1886 VARIETY
-=======
+# Corticium radiosum (Fr.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enchir. fung. (Paris) 209 (1886)
+Epicr. syst. mycol. (Upsaliae) 560 (1838)
 
 #### Original name
 Thelephora radiosa Fr., 1818

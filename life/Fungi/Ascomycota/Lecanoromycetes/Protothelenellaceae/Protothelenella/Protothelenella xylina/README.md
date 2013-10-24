@@ -1,5 +1,4 @@
-Protothelenella xylina H. Mayrhofer & Poelt SPECIES
-=======
+# Protothelenella xylina H. Mayrhofer & Poelt SPECIES
 
 #### Status
 ACCEPTED

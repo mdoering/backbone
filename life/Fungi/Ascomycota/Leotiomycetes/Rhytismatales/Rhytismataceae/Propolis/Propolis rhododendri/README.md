@@ -1,5 +1,4 @@
-Propolis rhododendri Rehm SPECIES
-=======
+# Propolis rhododendri Rehm SPECIES
 
 #### Status
 ACCEPTED

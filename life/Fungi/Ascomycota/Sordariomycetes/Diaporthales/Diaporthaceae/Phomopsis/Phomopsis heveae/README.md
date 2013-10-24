@@ -1,14 +1,13 @@
-Phoma heveae Petch, 1906 SPECIES
-=======
+# Phomopsis heveae (Petch) Boedijn, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. R. bot. Gdns Peradeniya 3(1): 5 (1906)
+Rec. Trav. bot. Neerl. 26: 423 (1929)
 
 #### Original name
 Phoma heveae Petch, 1906

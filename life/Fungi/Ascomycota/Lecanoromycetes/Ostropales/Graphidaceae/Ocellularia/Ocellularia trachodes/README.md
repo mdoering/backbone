@@ -1,14 +1,13 @@
-Rhabdodiscus trachodes (Nyl.) Vain. SPECIES
-=======
+# Ocellularia trachodes (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15(6): 184 (1921)
+Cat. Lich. Univers. 2: 603 (1923)
 
 #### Original name
 Thelotrema trachodes Nyl.

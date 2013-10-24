@@ -1,5 +1,4 @@
-Syrropeltis xylopia Bat., J.L. Bezerra & Matta SPECIES
-=======
+# Syrropeltis xylopia Bat., J.L. Bezerra & Matta SPECIES
 
 #### Status
 ACCEPTED

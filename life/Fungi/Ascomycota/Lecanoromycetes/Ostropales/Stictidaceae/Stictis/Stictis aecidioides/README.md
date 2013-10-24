@@ -1,5 +1,4 @@
-Stictis aecidioides (Nees) Gray SPECIES
-=======
+# Stictis aecidioides (Nees) Gray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyedryxium condensum Deunff, 1971 SPECIES
-=======
+# Polyedryxium condensum Deunff, 1971 SPECIES
 
 #### Status
 ACCEPTED

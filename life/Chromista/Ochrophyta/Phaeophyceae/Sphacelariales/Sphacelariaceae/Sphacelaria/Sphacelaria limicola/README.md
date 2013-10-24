@@ -1,5 +1,4 @@
-Sphacelaria limicola Lindauer SPECIES
-=======
+# Sphacelaria limicola Lindauer SPECIES
 
 #### Status
 ACCEPTED

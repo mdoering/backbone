@@ -1,5 +1,4 @@
-Trappeaceae P.M. Kirk FAMILY
-=======
+# Trappeaceae P.M. Kirk FAMILY
 
 #### Status
 ACCEPTED

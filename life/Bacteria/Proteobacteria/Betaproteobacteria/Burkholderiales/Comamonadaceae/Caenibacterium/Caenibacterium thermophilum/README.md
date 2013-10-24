@@ -1,5 +1,4 @@
-Caenibacterium thermophilum Manaia et al., 2003 SPECIES
-=======
+# Caenibacterium thermophilum Manaia et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia augustata SPECIES
-=======
+# Physcia augustata SPECIES
 
 #### Status
 ACCEPTED

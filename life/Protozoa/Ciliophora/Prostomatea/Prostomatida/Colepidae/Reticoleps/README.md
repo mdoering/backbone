@@ -1,5 +1,4 @@
-Reticoleps GENUS
-=======
+# Reticoleps GENUS
 
 #### Status
 ACCEPTED

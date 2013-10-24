@@ -1,5 +1,4 @@
-Caloplaca handelii (Zahlbr.) D.D. Awasthi SPECIES
-=======
+# Caloplaca handelii (Zahlbr.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

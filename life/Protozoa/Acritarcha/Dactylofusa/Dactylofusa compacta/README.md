@@ -1,5 +1,4 @@
-Dactylofusa compacta N. Umnova, 1975 SPECIES
-=======
+# Dactylofusa compacta N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Craterium concinnum Rex, 1893 SPECIES
-=======
+# Craterium concinnum Rex, 1893 SPECIES
 
 #### Status
 ACCEPTED

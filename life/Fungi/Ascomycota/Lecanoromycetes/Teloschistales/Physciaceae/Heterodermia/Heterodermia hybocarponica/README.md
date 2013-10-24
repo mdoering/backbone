@@ -1,5 +1,4 @@
-Heterodermia hybocarponica Elix SPECIES
-=======
+# Heterodermia hybocarponica Elix SPECIES
 
 #### Status
 ACCEPTED

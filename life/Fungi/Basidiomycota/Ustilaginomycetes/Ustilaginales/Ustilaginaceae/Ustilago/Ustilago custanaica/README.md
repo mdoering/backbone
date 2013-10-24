@@ -1,5 +1,4 @@
-Ustilago custanaica Lavrov SPECIES
-=======
+# Ustilago custanaica Lavrov SPECIES
 
 #### Status
 ACCEPTED

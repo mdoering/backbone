@@ -1,5 +1,4 @@
-Marssonina ochroleuca (Berk. & M.A. Curtis) Lenz SPECIES
-=======
+# Marssonina ochroleuca (Berk. & M.A. Curtis) Lenz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula chrysodacryoides Singer SPECIES
-=======
+# Russula chrysodacryoides Singer SPECIES
 
 #### Status
 ACCEPTED

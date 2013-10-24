@@ -1,5 +1,4 @@
-Coniothyrium rhododendri Henn., 1903 SPECIES
-=======
+# Coniothyrium rhododendri Henn., 1903 SPECIES
 
 #### Status
 ACCEPTED

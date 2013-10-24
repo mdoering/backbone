@@ -1,5 +1,4 @@
-Russula leelavathyi K.B. Vrinda, C.K. Pradeep & T.K. Abraham SPECIES
-=======
+# Russula leelavathyi K.B. Vrinda, C.K. Pradeep & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

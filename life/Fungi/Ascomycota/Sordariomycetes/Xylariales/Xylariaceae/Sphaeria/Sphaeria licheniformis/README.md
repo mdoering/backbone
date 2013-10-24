@@ -1,5 +1,4 @@
-Sphaeria licheniformis Sowerby SPECIES
-=======
+# Sphaeria licheniformis Sowerby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus gadinoides W.G. Sm. SPECIES
-=======
+# Agaricus gadinoides W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

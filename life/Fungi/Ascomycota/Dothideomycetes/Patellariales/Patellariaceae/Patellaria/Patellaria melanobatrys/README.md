@@ -1,5 +1,4 @@
-Patellaria melanobatrys SPECIES
-=======
+# Patellaria melanobatrys SPECIES
 
 #### Status
 ACCEPTED

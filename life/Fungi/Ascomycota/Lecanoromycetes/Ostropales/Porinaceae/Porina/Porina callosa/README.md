@@ -1,5 +1,4 @@
-Porina callosa (Kremp.) Müll. Arg. SPECIES
-=======
+# Porina callosa (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

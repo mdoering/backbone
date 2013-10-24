@@ -1,5 +1,4 @@
-Tilletia yakirrae R.G. Shivas, McTaggart & Vánky SPECIES
-=======
+# Tilletia yakirrae R.G. Shivas, McTaggart & Vánky SPECIES
 
 #### Status
 ACCEPTED

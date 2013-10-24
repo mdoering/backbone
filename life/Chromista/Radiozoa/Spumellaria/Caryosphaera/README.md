@@ -1,5 +1,4 @@
-Caryosphaera Haeckel, 1881 GENUS
-=======
+# Caryosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

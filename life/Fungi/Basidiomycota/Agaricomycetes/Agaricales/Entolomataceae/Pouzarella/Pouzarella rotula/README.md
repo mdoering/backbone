@@ -1,5 +1,4 @@
-Pouzarella rotula (Romagn.) Mazzer SPECIES
-=======
+# Pouzarella rotula (Romagn.) Mazzer SPECIES
 
 #### Status
 ACCEPTED

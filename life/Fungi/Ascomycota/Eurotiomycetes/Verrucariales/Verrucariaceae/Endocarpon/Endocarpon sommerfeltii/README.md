@@ -1,5 +1,4 @@
-Endocarpon sommerfeltii Sommerf. SPECIES
-=======
+# Endocarpon sommerfeltii Sommerf. SPECIES
 
 #### Status
 ACCEPTED

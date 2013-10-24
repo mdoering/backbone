@@ -1,5 +1,4 @@
-Palifer verecundus (G. Cunn.) Stalpers & P.K. Buchanan, 1991 SPECIES
-=======
+# Palifer verecundus (G. Cunn.) Stalpers & P.K. Buchanan, 1991 SPECIES
 
 #### Status
 ACCEPTED

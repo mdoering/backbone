@@ -1,5 +1,4 @@
-Stereum schulzeri var. schulzeri VARIETY
-=======
+# Stereum schulzeri Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 24: 148 (1885)
 
 #### Original name
-Stereum schulzeri var. schulzeri
+Stereum schulzeri Quél.
 
 ### Remarks
 null

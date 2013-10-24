@@ -1,5 +1,4 @@
-Ustilago leersiae Durieu SPECIES
-=======
+# Ustilago leersiae Durieu SPECIES
 
 #### Status
 ACCEPTED

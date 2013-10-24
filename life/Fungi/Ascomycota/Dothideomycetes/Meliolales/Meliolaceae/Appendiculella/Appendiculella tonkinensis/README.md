@@ -1,5 +1,4 @@
-Appendiculella tonkinensis var. cecropiae (F. Stevens) Hansf. VARIETY
-=======
+# Appendiculella tonkinensis (P. Karst. & Roum.) Toro SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Beih. Sydowia 2: 321 (1961)
+Mycologia 19(2): 71 (1927)
 
 #### Original name
-Irene tonkinensis var. cecropiae F. Stevens
+Meliola tonkinensis P. Karst. & Roum.
 
 ### Remarks
 null

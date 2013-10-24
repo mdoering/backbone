@@ -1,5 +1,4 @@
-Cercospora dryopteridis Y.L. Guo SPECIES
-=======
+# Cercospora dryopteridis Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

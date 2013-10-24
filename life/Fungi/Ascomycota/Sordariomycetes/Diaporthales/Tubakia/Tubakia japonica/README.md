@@ -1,14 +1,13 @@
-Actinopelte japonica Sacc., 1913 SPECIES
-=======
+# Tubakia japonica (Sacc.) B. Sutton, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 11: (1913)
+Trans. Br. mycol. Soc. 60(1): 165 (1973)
 
 #### Original name
 Actinopelte japonica Sacc., 1913

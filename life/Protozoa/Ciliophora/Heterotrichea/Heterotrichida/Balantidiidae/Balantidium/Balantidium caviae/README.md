@@ -1,5 +1,4 @@
-Balantidium caviae Neiva, Cunha & Travassos, 1914 SPECIES
-=======
+# Balantidium caviae Neiva, Cunha & Travassos, 1914 SPECIES
 
 #### Status
 ACCEPTED

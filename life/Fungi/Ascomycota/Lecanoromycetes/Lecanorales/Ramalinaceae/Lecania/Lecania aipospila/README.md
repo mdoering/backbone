@@ -1,17 +1,16 @@
-Lecania aipospila var. aipospila VARIETY
-=======
+# Lecania aipospila (Wahlenb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+K. svenska Vetensk-Akad. Handl. 7(no. 2): 20 (1867)
 
 #### Original name
-Lecania aipospila var. aipospila
+Lichen aipospilus Wahlenb.
 
 ### Remarks
 null

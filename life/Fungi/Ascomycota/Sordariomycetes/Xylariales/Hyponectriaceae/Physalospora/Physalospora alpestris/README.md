@@ -1,5 +1,4 @@
-Physalospora alpestris Niessl, 1876 SPECIES
-=======
+# Physalospora alpestris Niessl, 1876 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spurimoyeria E.R. Wicander & A.R. Loeblich Jr., 1977 GENUS
-=======
+# Spurimoyeria E.R. Wicander & A.R. Loeblich Jr., 1977 GENUS
 
 #### Status
 ACCEPTED

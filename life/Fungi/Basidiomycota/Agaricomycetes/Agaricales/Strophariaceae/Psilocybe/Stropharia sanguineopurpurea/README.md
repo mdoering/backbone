@@ -1,5 +1,4 @@
-Stropharia sanguineopurpurea (Rick) Raithelh. SPECIES
-=======
+# Stropharia sanguineopurpurea (Rick) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

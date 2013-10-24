@@ -1,5 +1,4 @@
-Marasmius pampicola Singer SPECIES
-=======
+# Marasmius pampicola Singer SPECIES
 
 #### Status
 ACCEPTED

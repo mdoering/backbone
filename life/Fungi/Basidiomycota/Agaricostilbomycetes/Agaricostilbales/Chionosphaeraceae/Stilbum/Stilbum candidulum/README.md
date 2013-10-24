@@ -1,5 +1,4 @@
-Stilbum candidulum Penz. & Sacc. SPECIES
-=======
+# Stilbum candidulum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria cheirolepis F. Wilson SPECIES
-=======
+# Pannaria cheirolepis F. Wilson SPECIES
 
 #### Status
 ACCEPTED

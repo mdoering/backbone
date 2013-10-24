@@ -1,5 +1,4 @@
-Hebeloma pseudostrophosum A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma pseudostrophosum A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma laricicola Velen. SPECIES
-=======
+# Tricholoma laricicola Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidina Vezda GENUS
-=======
+# Bacidina Vezda GENUS
 
 #### Status
 ACCEPTED

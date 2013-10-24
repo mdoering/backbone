@@ -1,5 +1,4 @@
-Lissodinium thompsonii M. C. Carbonell-Moore SPECIES
-=======
+# Lissodinium thompsonii M. C. Carbonell-Moore SPECIES
 
 #### Status
 ACCEPTED

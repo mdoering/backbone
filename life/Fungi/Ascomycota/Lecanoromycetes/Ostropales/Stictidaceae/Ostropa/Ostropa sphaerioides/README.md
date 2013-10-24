@@ -1,5 +1,4 @@
-Ostropa sphaerioides Schwein. SPECIES
-=======
+# Ostropa sphaerioides Schwein. SPECIES
 
 #### Status
 ACCEPTED

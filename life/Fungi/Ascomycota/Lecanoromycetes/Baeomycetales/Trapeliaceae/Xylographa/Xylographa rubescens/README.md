@@ -1,5 +1,4 @@
-Xylographa rubescens var. rubescens VARIETY
-=======
+# Xylographa rubescens Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylographa rubescens var. rubescens
+Xylographa rubescens Räsänen
 
 ### Remarks
 null

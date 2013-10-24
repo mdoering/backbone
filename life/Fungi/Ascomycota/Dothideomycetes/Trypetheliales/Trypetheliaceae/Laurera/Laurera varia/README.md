@@ -1,5 +1,4 @@
-Laurera varia (Fée) Zahlbr. SPECIES
-=======
+# Laurera varia (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

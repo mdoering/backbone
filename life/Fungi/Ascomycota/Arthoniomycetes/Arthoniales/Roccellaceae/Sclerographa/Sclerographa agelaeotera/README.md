@@ -1,5 +1,4 @@
-Sclerographa agelaeotera (Vain.) Zahlbr. SPECIES
-=======
+# Sclerographa agelaeotera (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

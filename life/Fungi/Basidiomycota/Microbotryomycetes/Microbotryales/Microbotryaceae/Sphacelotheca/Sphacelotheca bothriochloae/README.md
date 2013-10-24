@@ -1,5 +1,4 @@
-Sphacelotheca bothriochloae Y.C. Wang SPECIES
-=======
+# Sphacelotheca bothriochloae Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

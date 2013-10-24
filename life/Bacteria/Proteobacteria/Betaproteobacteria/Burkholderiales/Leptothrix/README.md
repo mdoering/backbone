@@ -1,5 +1,4 @@
-Leptothrix GENUS
-=======
+# Leptothrix GENUS
 
 #### Status
 ACCEPTED

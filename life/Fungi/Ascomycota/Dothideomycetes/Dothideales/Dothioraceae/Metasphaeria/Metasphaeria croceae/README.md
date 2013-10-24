@@ -1,5 +1,4 @@
-Metasphaeria croceae (Bagl. & Carestia) Sacc. & D. Sacc. SPECIES
-=======
+# Metasphaeria croceae (Bagl. & Carestia) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria reducta Syd. SPECIES
-=======
+# Xylaria reducta Syd. SPECIES
 
 #### Status
 ACCEPTED

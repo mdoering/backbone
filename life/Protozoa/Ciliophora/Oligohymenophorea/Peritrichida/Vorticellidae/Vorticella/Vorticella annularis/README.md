@@ -1,5 +1,4 @@
-Vorticella annularis Muller, 1773 SPECIES
-=======
+# Vorticella annularis Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

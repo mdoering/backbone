@@ -1,5 +1,4 @@
-Sclerophomella meliloticola Petr., 1925 SPECIES
-=======
+# Sclerophomella meliloticola Petr., 1925 SPECIES
 
 #### Status
 ACCEPTED

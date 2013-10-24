@@ -1,5 +1,4 @@
-Diatrypella hortensis Gutner SPECIES
-=======
+# Diatrypella hortensis Gutner SPECIES
 
 #### Status
 ACCEPTED

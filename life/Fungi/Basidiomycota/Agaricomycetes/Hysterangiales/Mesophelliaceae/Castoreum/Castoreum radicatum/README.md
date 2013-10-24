@@ -1,14 +1,13 @@
-Pocillaria radicata (Cooke & Massee) Kuntze, 1891 SPECIES
-=======
+# Castoreum radicatum Cooke & Massee, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Grevillea 15(no. 76): 100 (1887)
 
 #### Original name
 Castoreum radicatum Cooke & Massee, 1887

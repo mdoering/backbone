@@ -1,5 +1,4 @@
-Fomes lazaroi Sacc. & Trotter SPECIES
-=======
+# Fomes lazaroi Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

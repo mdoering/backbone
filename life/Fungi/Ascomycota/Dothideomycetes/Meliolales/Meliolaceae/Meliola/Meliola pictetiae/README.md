@@ -1,5 +1,4 @@
-Meliola pictetiae Hansf. SPECIES
-=======
+# Meliola pictetiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

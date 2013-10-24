@@ -1,8 +1,7 @@
-Penicillium idahoense Paden, 1971 SPECIES
-=======
+# Penicillium phoeniceum J.F.H. Beyma, 1933 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

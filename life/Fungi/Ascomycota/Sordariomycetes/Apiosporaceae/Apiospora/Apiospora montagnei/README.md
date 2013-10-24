@@ -1,17 +1,16 @@
-Coniosporium arundinis f. arundinis FORM
-=======
+# Apiospora montagnei Sacc., 1875 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 243 (1886)
+Nuovo Giorn. Bot. Ital. 7: 306 (1875)
 
 #### Original name
-Coniosporium arundinis f. arundinis
+Apiospora montagnei Sacc., 1875
 
 ### Remarks
 null

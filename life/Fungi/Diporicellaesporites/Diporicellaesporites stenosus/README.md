@@ -1,5 +1,4 @@
-Diporicellaesporites stenosus Z.C. Song & Liu Cao SPECIES
-=======
+# Diporicellaesporites stenosus Z.C. Song & Liu Cao SPECIES
 
 #### Status
 ACCEPTED

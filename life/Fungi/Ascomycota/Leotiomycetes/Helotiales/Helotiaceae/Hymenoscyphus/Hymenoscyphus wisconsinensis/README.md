@@ -1,14 +1,13 @@
-Hymenoscyphus wisconsiensis (Rehm) V.P. Tewari & K.B. Khare SPECIES
-=======
+# Hymenoscyphus wisconsinensis (Rehm) V.P. Tewari & K.B. Khare SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. , Suppl. Issue 25(2): 261 (1973)
 
 #### Original name
 Humaria wisconsiensis Rehm

@@ -1,5 +1,4 @@
-Polyblastiopsis intrusa (Nyl.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis intrusa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

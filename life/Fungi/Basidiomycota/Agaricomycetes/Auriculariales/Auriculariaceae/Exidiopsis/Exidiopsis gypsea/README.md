@@ -1,5 +1,4 @@
-Exidiopsis gypsea K. Wells & Raitv. SPECIES
-=======
+# Exidiopsis gypsea K. Wells & Raitv. SPECIES
 
 #### Status
 ACCEPTED

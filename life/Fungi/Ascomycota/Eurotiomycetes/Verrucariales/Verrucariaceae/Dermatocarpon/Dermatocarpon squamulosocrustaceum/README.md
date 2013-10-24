@@ -1,5 +1,4 @@
-Dermatocarpon squamulosocrustaceum (Savast.) Oxner SPECIES
-=======
+# Dermatocarpon squamulosocrustaceum (Savast.) Oxner SPECIES
 
 #### Status
 ACCEPTED

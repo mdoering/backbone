@@ -1,5 +1,4 @@
-Marssonina manschurica (Naumov) Karak. SPECIES
-=======
+# Marssonina manschurica (Naumov) Karak. SPECIES
 
 #### Status
 ACCEPTED

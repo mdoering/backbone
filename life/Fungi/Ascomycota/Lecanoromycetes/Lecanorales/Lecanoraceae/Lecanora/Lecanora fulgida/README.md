@@ -1,5 +1,4 @@
-Lecanora fulgida (Nyl.) Hue SPECIES
-=======
+# Lecanora fulgida (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

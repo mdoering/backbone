@@ -1,5 +1,4 @@
-Asterochaete GENUS
-=======
+# Asterochaete GENUS
 
 #### Status
 ACCEPTED

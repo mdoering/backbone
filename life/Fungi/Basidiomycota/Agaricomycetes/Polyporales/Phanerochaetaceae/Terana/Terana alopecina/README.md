@@ -1,5 +1,4 @@
-Terana alopecina (Berk. & Broome) Kuntze SPECIES
-=======
+# Terana alopecina (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

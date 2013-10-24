@@ -1,5 +1,4 @@
-Stachylina penetralis Lichtw., 1984 SPECIES
-=======
+# Stachylina penetralis Lichtw., 1984 SPECIES
 
 #### Status
 ACCEPTED

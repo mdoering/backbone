@@ -1,5 +1,4 @@
-Laschia cantharelloides Pat. SPECIES
-=======
+# Laschia cantharelloides Pat. SPECIES
 
 #### Status
 ACCEPTED

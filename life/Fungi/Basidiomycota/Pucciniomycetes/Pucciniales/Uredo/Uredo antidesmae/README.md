@@ -1,5 +1,4 @@
-Uredo antidesmae Racib. SPECIES
-=======
+# Uredo antidesmae Racib. SPECIES
 
 #### Status
 ACCEPTED

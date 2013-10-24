@@ -1,5 +1,4 @@
-Rhexophiale coronata Th. Fr. SPECIES
-=======
+# Rhexophiale coronata Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

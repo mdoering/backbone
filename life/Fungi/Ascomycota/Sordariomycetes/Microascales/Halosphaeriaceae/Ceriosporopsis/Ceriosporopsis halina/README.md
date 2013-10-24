@@ -1,5 +1,4 @@
-Ceriosporopsis halina Linder SPECIES
-=======
+# Ceriosporopsis halina Linder SPECIES
 
 #### Status
 ACCEPTED

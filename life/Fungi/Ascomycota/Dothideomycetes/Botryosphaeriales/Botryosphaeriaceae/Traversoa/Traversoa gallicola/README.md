@@ -1,5 +1,4 @@
-Traversoa gallicola (Sacc.) Petr. SPECIES
-=======
+# Traversoa gallicola (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

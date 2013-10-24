@@ -1,5 +1,4 @@
-Hispidicarpomycetaceae Nakagiri FAMILY
-=======
+# Hispidicarpomycetaceae Nakagiri FAMILY
 
 #### Status
 ACCEPTED

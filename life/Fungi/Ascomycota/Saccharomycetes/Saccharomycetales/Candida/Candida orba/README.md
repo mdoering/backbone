@@ -1,5 +1,4 @@
-Candida orba Starmer, Phaff, Ganter & Lachance SPECIES
-=======
+# Candida orba Starmer, Phaff, Ganter & Lachance SPECIES
 
 #### Status
 ACCEPTED

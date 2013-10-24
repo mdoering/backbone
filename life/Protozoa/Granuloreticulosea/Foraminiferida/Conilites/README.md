@@ -1,5 +1,4 @@
-Conilites Vdovenko, 1970 GENUS
-=======
+# Conilites Vdovenko, 1970 GENUS
 
 #### Status
 ACCEPTED

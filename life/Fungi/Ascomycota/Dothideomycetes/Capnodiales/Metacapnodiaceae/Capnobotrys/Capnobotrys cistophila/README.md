@@ -1,5 +1,4 @@
-Capnobotrys cistophila M.B. Ellis SPECIES
-=======
+# Capnobotrys cistophila M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

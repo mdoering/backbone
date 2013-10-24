@@ -1,5 +1,4 @@
-Tuber monticola Harkn. SPECIES
-=======
+# Tuber monticola Harkn. SPECIES
 
 #### Status
 ACCEPTED

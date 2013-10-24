@@ -1,5 +1,4 @@
-Cantharellus glaucus Fr. SPECIES
-=======
+# Cantharellus glaucus Fr. SPECIES
 
 #### Status
 ACCEPTED

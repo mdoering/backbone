@@ -1,5 +1,4 @@
-Desmazieria ceruchoides (H. Magn.) Follmann & Huneck SPECIES
-=======
+# Desmazieria ceruchoides (H. Magn.) Follmann & Huneck SPECIES
 
 #### Status
 ACCEPTED

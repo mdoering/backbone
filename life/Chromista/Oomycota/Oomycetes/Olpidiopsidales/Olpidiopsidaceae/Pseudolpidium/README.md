@@ -1,5 +1,4 @@
-Pseudolpidium A. Fischer, 1892 GENUS
-=======
+# Pseudolpidium A. Fischer, 1892 GENUS
 
 #### Status
 ACCEPTED

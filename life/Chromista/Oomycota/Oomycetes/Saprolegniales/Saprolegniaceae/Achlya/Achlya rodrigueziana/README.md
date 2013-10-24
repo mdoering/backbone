@@ -1,5 +1,4 @@
-Achlya rodrigueziana F.T. Wolf SPECIES
-=======
+# Achlya rodrigueziana F.T. Wolf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clisosporium salvicola (Ellis & Everh.) Kuntze SPECIES
-=======
+# Clisosporium salvicola (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

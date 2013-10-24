@@ -1,5 +1,4 @@
-Aleurodiscus gigasporus Ginns & Bandoni, 1991 SPECIES
-=======
+# Aleurodiscus gigasporus Ginns & Bandoni, 1991 SPECIES
 
 #### Status
 ACCEPTED

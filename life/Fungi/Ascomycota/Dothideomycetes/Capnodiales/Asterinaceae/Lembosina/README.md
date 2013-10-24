@@ -1,5 +1,4 @@
-Lembosina Theiss. GENUS
-=======
+# Lembosina Theiss. GENUS
 
 #### Status
 ACCEPTED

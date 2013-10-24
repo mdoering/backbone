@@ -1,11 +1,10 @@
-Heteroschisma longialata (Gaarder) Balech, 1967 SPECIES
-=======
+# Dinophysis fortunata Sournia, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

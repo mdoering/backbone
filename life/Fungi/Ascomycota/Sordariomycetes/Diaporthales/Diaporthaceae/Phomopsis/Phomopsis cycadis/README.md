@@ -1,5 +1,4 @@
-Phomopsis cycadis (Sacc. & Berl.) M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Phomopsis cycadis (Sacc. & Berl.) M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

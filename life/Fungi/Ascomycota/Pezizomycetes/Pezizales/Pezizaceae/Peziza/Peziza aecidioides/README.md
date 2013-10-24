@@ -1,5 +1,4 @@
-Peziza aecidioides Nees SPECIES
-=======
+# Peziza aecidioides Nees SPECIES
 
 #### Status
 ACCEPTED

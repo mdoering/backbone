@@ -1,5 +1,4 @@
-Helvella pezizoidea var. pezizoidea VARIETY
-=======
+# Helvella pezizoidea SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helvella pezizoidea var. pezizoidea
+Helvella pezizoidea
 
 ### Remarks
 null

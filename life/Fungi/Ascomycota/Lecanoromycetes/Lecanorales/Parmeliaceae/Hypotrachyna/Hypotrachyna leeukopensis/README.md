@@ -1,5 +1,4 @@
-Hypotrachyna leeukopensis Elix SPECIES
-=======
+# Hypotrachyna leeukopensis Elix SPECIES
 
 #### Status
 ACCEPTED

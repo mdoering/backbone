@@ -1,5 +1,4 @@
-Loxostoma rostrum Cushman, 1933 SPECIES
-=======
+# Loxostoma rostrum Cushman, 1933 SPECIES
 
 #### Status
 DOUBTFUL

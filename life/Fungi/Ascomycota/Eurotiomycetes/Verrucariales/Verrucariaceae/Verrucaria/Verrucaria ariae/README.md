@@ -1,5 +1,4 @@
-Verrucaria ariae (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria ariae (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

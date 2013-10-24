@@ -1,5 +1,4 @@
-Septomyxa fagicola J.W. Ellis, 1916 SPECIES
-=======
+# Septomyxa fagicola J.W. Ellis, 1916 SPECIES
 
 #### Status
 ACCEPTED

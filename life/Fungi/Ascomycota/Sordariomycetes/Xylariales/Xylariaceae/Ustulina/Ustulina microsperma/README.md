@@ -1,5 +1,4 @@
-Ustulina microsperma Traverso ex Sacc. SPECIES
-=======
+# Ustulina microsperma Traverso ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

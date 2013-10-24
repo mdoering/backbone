@@ -1,5 +1,4 @@
-Thelidium decipiescens SPECIES
-=======
+# Thelidium decipiescens SPECIES
 
 #### Status
 ACCEPTED

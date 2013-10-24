@@ -1,5 +1,4 @@
-Olpidium pseudosporearum Scherff. SPECIES
-=======
+# Olpidium pseudosporearum Scherff. SPECIES
 
 #### Status
 ACCEPTED

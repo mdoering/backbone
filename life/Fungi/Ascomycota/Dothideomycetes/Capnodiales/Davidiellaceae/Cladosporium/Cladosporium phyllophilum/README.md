@@ -1,5 +1,4 @@
-Cladosporium phyllophilum McAlpine, 1896 SPECIES
-=======
+# Cladosporium phyllophilum McAlpine, 1896 SPECIES
 
 #### Status
 ACCEPTED

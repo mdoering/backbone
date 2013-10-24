@@ -1,5 +1,4 @@
-Diplodia caryogena Ellis & Everh. SPECIES
-=======
+# Diplodia caryogena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

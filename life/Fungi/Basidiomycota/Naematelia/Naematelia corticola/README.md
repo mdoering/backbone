@@ -1,5 +1,4 @@
-Naematelia corticola Berk. & Cooke SPECIES
-=======
+# Naematelia corticola Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

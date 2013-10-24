@@ -1,5 +1,4 @@
-Pluteus oligocystis var. dennisii (Singer) Singer VARIETY
-=======
+# Pluteus oligocystis Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Lloydia 21: 267 (1959)
+Lloydia 21: 266 (1959)
 
 #### Original name
-Pluteus psichiophorus var. dennisii Singer
+Pluteus oligocystis Singer
 
 ### Remarks
 null

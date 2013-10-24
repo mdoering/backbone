@@ -1,5 +1,4 @@
-Hohenbuehelia valesiaca (Ces. ex Sacc.) Singer SPECIES
-=======
+# Hohenbuehelia valesiaca (Ces. ex Sacc.) Singer SPECIES
 
 #### Status
 ACCEPTED

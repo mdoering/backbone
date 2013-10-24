@@ -1,5 +1,4 @@
-Acarospora grumulosa (Schaer.) Hue SPECIES
-=======
+# Acarospora grumulosa (Schaer.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromellopsis insculpta H.E. Hess & E. Müll., 1951 SPECIES
-=======
+# Asteromellopsis insculpta H.E. Hess & E. Müll., 1951 SPECIES
 
 #### Status
 ACCEPTED

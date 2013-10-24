@@ -1,5 +1,4 @@
-Sphaeria crozalsiana H. Olivier SPECIES
-=======
+# Sphaeria crozalsiana H. Olivier SPECIES
 
 #### Status
 ACCEPTED

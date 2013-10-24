@@ -1,5 +1,4 @@
-Dictyocysta atlantica Herdman, Thompson & Scott, 1897 SPECIES
-=======
+# Dictyocysta atlantica Herdman, Thompson & Scott, 1897 SPECIES
 
 #### Status
 ACCEPTED

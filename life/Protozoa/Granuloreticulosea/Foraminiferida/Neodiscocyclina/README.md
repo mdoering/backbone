@@ -1,5 +1,4 @@
-Neodiscocyclina Caudri, 1972 GENUS
-=======
+# Neodiscocyclina Caudri, 1972 GENUS
 
 #### Status
 ACCEPTED

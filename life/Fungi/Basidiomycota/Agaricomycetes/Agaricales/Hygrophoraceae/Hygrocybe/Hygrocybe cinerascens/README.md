@@ -1,5 +1,4 @@
-Hygrocybe cinerascens (Berk. & Broome) Pegler SPECIES
-=======
+# Hygrocybe cinerascens (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas infundibulum Conrad SPECIES
-=======
+# Trachelomonas infundibulum Conrad SPECIES
 
 #### Status
 ACCEPTED

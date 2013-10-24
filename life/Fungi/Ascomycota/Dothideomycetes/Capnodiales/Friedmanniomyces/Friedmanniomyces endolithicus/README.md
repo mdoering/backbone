@@ -1,5 +1,4 @@
-Friedmanniomyces endolithicus Onofri, 1999 SPECIES
-=======
+# Friedmanniomyces endolithicus Onofri, 1999 SPECIES
 
 #### Status
 ACCEPTED

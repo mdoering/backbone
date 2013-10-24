@@ -1,5 +1,4 @@
-Nectriella fimicola (Höhn.) Weese SPECIES
-=======
+# Nectriella fimicola (Höhn.) Weese SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucostoma excipienda (P. Karst.) Lar.N. Vassiljeva SPECIES
-=======
+# Leucostoma excipienda (P. Karst.) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

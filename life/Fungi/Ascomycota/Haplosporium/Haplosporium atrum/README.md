@@ -1,5 +1,4 @@
-Haplosporium atrum Bonord. SPECIES
-=======
+# Haplosporium atrum Bonord. SPECIES
 
 #### Status
 ACCEPTED

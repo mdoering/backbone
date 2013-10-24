@@ -1,5 +1,4 @@
-Alexandrium tamiyavanichi Balech SPECIES
-=======
+# Alexandrium tamiyavanichi Balech SPECIES
 
 #### Status
 ACCEPTED

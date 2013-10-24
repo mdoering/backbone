@@ -1,5 +1,4 @@
-Cyphella fissilis (Fr.) Berk. SPECIES
-=======
+# Cyphella fissilis (Fr.) Berk. SPECIES
 
 #### Status
 ACCEPTED

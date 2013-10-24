@@ -1,5 +1,4 @@
-Trametes rugosopicta Lloyd SPECIES
-=======
+# Trametes rugosopicta Lloyd SPECIES
 
 #### Status
 ACCEPTED

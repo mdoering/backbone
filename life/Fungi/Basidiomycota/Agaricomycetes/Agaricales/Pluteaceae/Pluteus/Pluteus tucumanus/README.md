@@ -1,5 +1,4 @@
-Pluteus tucumanus Singer SPECIES
-=======
+# Pluteus tucumanus Singer SPECIES
 
 #### Status
 ACCEPTED

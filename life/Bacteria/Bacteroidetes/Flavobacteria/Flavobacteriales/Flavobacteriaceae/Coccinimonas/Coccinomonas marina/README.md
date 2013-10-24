@@ -1,5 +1,4 @@
-Coccinomonas marina Yang & Cho, 2006 SPECIES
-=======
+# Coccinomonas marina Yang & Cho, 2006 SPECIES
 
 #### Status
 DOUBTFUL

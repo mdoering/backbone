@@ -1,5 +1,4 @@
-Streptomyces afghaniensis Shimo et al., 1959 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces afghaniensis Shimo et al., 1959 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

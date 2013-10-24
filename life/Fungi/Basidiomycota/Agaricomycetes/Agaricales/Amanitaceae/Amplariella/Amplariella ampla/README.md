@@ -1,5 +1,4 @@
-Amplariella ampla (Pers.) E.-J. Gilbert SPECIES
-=======
+# Amplariella ampla (Pers.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

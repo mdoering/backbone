@@ -1,17 +1,16 @@
-Lactaria buckleyana Murrill SPECIES
-=======
+# Lactarius buckleyanus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 6: 208 (1943)
 
 #### Original name
-Lactaria buckleyana Murrill
+Lactarius buckleyanus Murrill
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diaporthe racemula (Cooke & Peck) Sacc. SPECIES
-=======
+# Diaporthe racemula (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

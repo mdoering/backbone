@@ -1,5 +1,4 @@
-Caloplaca sinensis B. de Lesd. SPECIES
-=======
+# Caloplaca sinensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora pyrenacanthae T.S. Ramakr. & Sundaram SPECIES
-=======
+# Physalospora pyrenacanthae T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma cinnabarinum C.S. Parker SPECIES
-=======
+# Hypholoma cinnabarinum C.S. Parker SPECIES
 
 #### Status
 ACCEPTED

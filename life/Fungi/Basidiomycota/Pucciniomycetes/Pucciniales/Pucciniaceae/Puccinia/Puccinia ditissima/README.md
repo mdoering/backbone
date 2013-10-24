@@ -1,5 +1,4 @@
-Puccinia ditissima Syd. SPECIES
-=======
+# Puccinia ditissima Syd. SPECIES
 
 #### Status
 ACCEPTED

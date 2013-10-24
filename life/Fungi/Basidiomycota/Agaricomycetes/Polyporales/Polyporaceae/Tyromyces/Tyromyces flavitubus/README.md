@@ -1,5 +1,4 @@
-Tyromyces flavitubus Corner SPECIES
-=======
+# Tyromyces flavitubus Corner SPECIES
 
 #### Status
 ACCEPTED

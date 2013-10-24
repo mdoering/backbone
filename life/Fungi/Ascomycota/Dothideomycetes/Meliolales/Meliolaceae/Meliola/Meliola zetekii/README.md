@@ -1,5 +1,4 @@
-Meliola zetekii F. Stevens SPECIES
-=======
+# Meliola zetekii F. Stevens SPECIES
 
 #### Status
 ACCEPTED

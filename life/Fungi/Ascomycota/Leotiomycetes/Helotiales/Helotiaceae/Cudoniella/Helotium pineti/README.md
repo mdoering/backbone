@@ -1,5 +1,4 @@
-Helotium pineti P. Karst. SPECIES
-=======
+# Helotium pineti P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius purpureus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius purpureus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

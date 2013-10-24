@@ -1,5 +1,4 @@
-Dothichiza carpini Tschern. SPECIES
-=======
+# Dothichiza carpini Tschern. SPECIES
 
 #### Status
 ACCEPTED

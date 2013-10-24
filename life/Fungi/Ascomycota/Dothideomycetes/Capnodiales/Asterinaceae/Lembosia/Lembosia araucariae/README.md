@@ -1,5 +1,4 @@
-Lembosia araucariae Sivan. & R.G. Shivas SPECIES
-=======
+# Lembosia araucariae Sivan. & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

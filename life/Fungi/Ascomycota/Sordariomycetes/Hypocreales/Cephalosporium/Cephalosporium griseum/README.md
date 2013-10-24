@@ -1,5 +1,4 @@
-Cephalosporium griseum Gougerot, Burnier & Duché SPECIES
-=======
+# Cephalosporium griseum Gougerot, Burnier & Duché SPECIES
 
 #### Status
 ACCEPTED

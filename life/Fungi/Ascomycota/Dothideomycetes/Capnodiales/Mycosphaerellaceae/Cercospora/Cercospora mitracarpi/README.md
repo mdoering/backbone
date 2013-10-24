@@ -1,5 +1,4 @@
-Cercospora mitracarpi Speg. SPECIES
-=======
+# Cercospora mitracarpi Speg. SPECIES
 
 #### Status
 ACCEPTED

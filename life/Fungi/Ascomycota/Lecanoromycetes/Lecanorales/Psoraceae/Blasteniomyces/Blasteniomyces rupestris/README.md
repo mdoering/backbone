@@ -1,5 +1,4 @@
-Blasteniomyces rupestris Cif. & Tomas. SPECIES
-=======
+# Blasteniomyces rupestris Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

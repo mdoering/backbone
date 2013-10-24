@@ -1,5 +1,4 @@
-Diaporthe caraganae Jacz. SPECIES
-=======
+# Diaporthe caraganae Jacz. SPECIES
 
 #### Status
 ACCEPTED

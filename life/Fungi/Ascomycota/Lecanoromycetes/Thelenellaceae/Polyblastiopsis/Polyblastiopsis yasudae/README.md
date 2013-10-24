@@ -1,5 +1,4 @@
-Polyblastiopsis yasudae (Vain.) M. Satô SPECIES
-=======
+# Polyblastiopsis yasudae (Vain.) M. Satô SPECIES
 
 #### Status
 ACCEPTED

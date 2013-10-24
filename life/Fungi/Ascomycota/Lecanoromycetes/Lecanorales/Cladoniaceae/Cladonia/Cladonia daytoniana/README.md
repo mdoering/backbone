@@ -1,5 +1,4 @@
-Cladonia daytoniana SPECIES
-=======
+# Cladonia daytoniana SPECIES
 
 #### Status
 ACCEPTED

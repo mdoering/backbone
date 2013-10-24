@@ -1,5 +1,4 @@
-Symploca dubia (Nägeli) Gomont SPECIES
-=======
+# Symploca dubia (Nägeli) Gomont SPECIES
 
 #### Status
 ACCEPTED

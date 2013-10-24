@@ -1,5 +1,4 @@
-Pestalopezia Seaver GENUS
-=======
+# Pestalopezia Seaver GENUS
 
 #### Status
 ACCEPTED

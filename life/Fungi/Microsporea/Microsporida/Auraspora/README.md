@@ -1,5 +1,4 @@
-Auraspora J. Weiser & Purrini GENUS
-=======
+# Auraspora J. Weiser & Purrini GENUS
 
 #### Status
 ACCEPTED

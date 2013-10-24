@@ -1,5 +1,4 @@
-Laticarinina halophora (Stache, 1864) SPECIES
-=======
+# Laticarinina halophora (Stache, 1864) SPECIES
 
 #### Status
 ACCEPTED

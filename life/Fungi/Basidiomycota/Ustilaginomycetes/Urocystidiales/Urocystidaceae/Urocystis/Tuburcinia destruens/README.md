@@ -1,5 +1,4 @@
-Tuburcinia destruens (McAlpine) Liro SPECIES
-=======
+# Tuburcinia destruens (McAlpine) Liro SPECIES
 
 #### Status
 ACCEPTED

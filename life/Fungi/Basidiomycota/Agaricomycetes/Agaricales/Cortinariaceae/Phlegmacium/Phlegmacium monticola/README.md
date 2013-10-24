@@ -1,17 +1,16 @@
-Phlegmacium monticolum Velen. SPECIES
-=======
+# Phlegmacium monticola Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 2: 418 (1920)
 
 #### Original name
-Phlegmacium monticolum Velen.
+Phlegmacium monticola Velen.
 
 ### Remarks
 null

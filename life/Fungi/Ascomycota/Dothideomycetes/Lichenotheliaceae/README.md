@@ -1,5 +1,4 @@
-Lichenotheliaceae Henssen FAMILY
-=======
+# Lichenotheliaceae Henssen FAMILY
 
 #### Status
 ACCEPTED

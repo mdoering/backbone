@@ -1,14 +1,13 @@
-Sporidesmium dennisii (M.B. Ellis) P.M. Kirk, 1983 SPECIES
-=======
+# Repetophragma dennisii (M.B. Ellis) Subram., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 80(3): 462 (1983)
+Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 58(4): 185 (1992)
 
 #### Original name
 Endophragmia dennisii M.B. Ellis, 1976

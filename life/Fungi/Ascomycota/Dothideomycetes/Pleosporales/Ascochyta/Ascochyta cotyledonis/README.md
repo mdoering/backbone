@@ -1,5 +1,4 @@
-Ascochyta cotyledonis Zimm. SPECIES
-=======
+# Ascochyta cotyledonis Zimm. SPECIES
 
 #### Status
 ACCEPTED

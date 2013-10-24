@@ -1,5 +1,4 @@
-Nummularia commixta var. minor Rehm VARIETY
-=======
+# Nummularia commixta Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 47: 6 (1905)
 
 #### Original name
-Nummularia commixta var. minor Rehm
+Nummularia commixta Rehm
 
 ### Remarks
 null

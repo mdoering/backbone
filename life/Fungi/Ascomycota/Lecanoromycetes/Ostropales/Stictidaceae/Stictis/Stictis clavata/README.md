@@ -1,5 +1,4 @@
-Stictis clavata P.R. Johnst. SPECIES
-=======
+# Stictis clavata P.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

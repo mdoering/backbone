@@ -1,5 +1,4 @@
-Amanita aminoaliphatica Filippi SPECIES
-=======
+# Amanita aminoaliphatica Filippi SPECIES
 
 #### Status
 ACCEPTED

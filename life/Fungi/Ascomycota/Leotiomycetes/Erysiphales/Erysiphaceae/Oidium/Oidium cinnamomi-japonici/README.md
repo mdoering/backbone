@@ -1,5 +1,4 @@
-Oidium cinnamomi-japonici U. Braun SPECIES
-=======
+# Oidium cinnamomi-japonici U. Braun SPECIES
 
 #### Status
 ACCEPTED

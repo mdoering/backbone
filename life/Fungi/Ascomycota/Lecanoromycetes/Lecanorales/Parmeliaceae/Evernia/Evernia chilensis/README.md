@@ -1,5 +1,4 @@
-Evernia chilensis B. de Lesd. SPECIES
-=======
+# Evernia chilensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

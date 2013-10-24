@@ -1,8 +1,7 @@
-Tricystis plicata (Polyanskii & Kheisin, 1965) SPECIES
-=======
+# Pachyporospora lamellaris (Bogolepova, 1953) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

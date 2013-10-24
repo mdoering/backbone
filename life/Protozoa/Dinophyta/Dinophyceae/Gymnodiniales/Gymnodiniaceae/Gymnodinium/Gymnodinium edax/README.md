@@ -1,5 +1,4 @@
-Gymnodinium edax SPECIES
-=======
+# Gymnodinium edax SPECIES
 
 #### Status
 ACCEPTED

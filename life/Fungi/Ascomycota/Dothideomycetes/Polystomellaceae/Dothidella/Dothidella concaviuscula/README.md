@@ -1,5 +1,4 @@
-Dothidella concaviuscula (Ellis & Everh.) Theiss. & Syd. SPECIES
-=======
+# Dothidella concaviuscula (Ellis & Everh.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachysporiellina fecunda S.M. Leão, Gusmão, R.F. Castañeda & A.C. Cruz SPECIES
-=======
+# Brachysporiellina fecunda S.M. Leão, Gusmão, R.F. Castañeda & A.C. Cruz SPECIES
 
 #### Status
 ACCEPTED

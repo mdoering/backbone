@@ -1,5 +1,4 @@
-Diplodia lagenariae Sacc. SPECIES
-=======
+# Diplodia lagenariae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanopsamma carpatica Petr. SPECIES
-=======
+# Melanopsamma carpatica Petr. SPECIES
 
 #### Status
 ACCEPTED

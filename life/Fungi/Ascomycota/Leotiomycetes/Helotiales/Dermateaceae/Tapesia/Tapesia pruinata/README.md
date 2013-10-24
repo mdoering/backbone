@@ -1,5 +1,4 @@
-Tapesia pruinata Schwein. SPECIES
-=======
+# Tapesia pruinata Schwein. SPECIES
 
 #### Status
 ACCEPTED

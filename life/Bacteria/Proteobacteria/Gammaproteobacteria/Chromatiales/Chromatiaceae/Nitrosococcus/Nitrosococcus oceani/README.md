@@ -1,5 +1,4 @@
-Nitrosococcus oceani Watson, 1965 SPECIES
-=======
+# Nitrosococcus oceani Watson, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta thibaudiae Cejp SPECIES
-=======
+# Phyllosticta thibaudiae Cejp SPECIES
 
 #### Status
 ACCEPTED

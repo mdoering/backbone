@@ -1,5 +1,4 @@
-Polysphondylium tenuissimum H. Hagiw., 1979 SPECIES
-=======
+# Polysphondylium tenuissimum H. Hagiw., 1979 SPECIES
 
 #### Status
 ACCEPTED

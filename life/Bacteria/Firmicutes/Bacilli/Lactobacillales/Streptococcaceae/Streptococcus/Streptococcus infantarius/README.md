@@ -1,5 +1,4 @@
-Streptococcus infantarius subsp. coli Schlegel et al., 2003 SUBSPECIES
-=======
+# Streptococcus infantarius Schlegel et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

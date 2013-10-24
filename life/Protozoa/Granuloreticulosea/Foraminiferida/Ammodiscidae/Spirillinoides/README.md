@@ -1,5 +1,4 @@
-Spirillinoides Rhumbler, 1938 GENUS
-=======
+# Spirillinoides Rhumbler, 1938 GENUS
 
 #### Status
 ACCEPTED

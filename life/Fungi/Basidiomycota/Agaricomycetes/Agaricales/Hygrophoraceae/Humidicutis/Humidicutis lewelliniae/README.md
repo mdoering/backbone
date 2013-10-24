@@ -1,17 +1,16 @@
-Hygrophorus lewellinae Kalchbr. SPECIES
-=======
+# Humidicutis lewelliniae (Kalchbr.) A.M. Young, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi of Australia 159 (2005)
 
 #### Original name
-Hygrophorus lewellinae Kalchbr.
+Hygrophorus lewelliniae Kalchbr., 1882
 
 ### Remarks
 null

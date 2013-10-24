@@ -1,5 +1,4 @@
-Dimeriellopsis cryptomeriae Sawada SPECIES
-=======
+# Dimeriellopsis cryptomeriae Sawada SPECIES
 
 #### Status
 ACCEPTED

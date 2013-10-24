@@ -1,5 +1,4 @@
-Triopyle Haeckel, 1881 GENUS
-=======
+# Triopyle Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

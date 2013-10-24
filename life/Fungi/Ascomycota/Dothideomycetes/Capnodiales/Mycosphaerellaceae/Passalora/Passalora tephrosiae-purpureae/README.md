@@ -1,5 +1,4 @@
-Passalora tephrosiae-purpureae U. Braun SPECIES
-=======
+# Passalora tephrosiae-purpureae U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parapodophrya sparganium Kahl, 1931 SPECIES
-=======
+# Parapodophrya sparganium Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

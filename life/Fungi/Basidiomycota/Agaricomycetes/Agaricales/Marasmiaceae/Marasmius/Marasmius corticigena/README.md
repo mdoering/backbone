@@ -1,5 +1,4 @@
-Marasmius corticigena Berk. & Broome SPECIES
-=======
+# Marasmius corticigena Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

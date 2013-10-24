@@ -1,5 +1,4 @@
-Basipetospora variabilis Matsush. SPECIES
-=======
+# Basipetospora variabilis Matsush. SPECIES
 
 #### Status
 ACCEPTED

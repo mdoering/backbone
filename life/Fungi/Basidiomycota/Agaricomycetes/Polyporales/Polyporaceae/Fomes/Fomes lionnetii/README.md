@@ -1,5 +1,4 @@
-Fomes lionnetii (Rolland) Sacc. & D. Sacc. SPECIES
-=======
+# Fomes lionnetii (Rolland) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

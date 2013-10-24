@@ -1,5 +1,4 @@
-Cortinarius denseconnatus Rob. Henry SPECIES
-=======
+# Cortinarius denseconnatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

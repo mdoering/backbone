@@ -1,5 +1,4 @@
-Xylaria bissei Recio SPECIES
-=======
+# Xylaria bissei Recio SPECIES
 
 #### Status
 ACCEPTED

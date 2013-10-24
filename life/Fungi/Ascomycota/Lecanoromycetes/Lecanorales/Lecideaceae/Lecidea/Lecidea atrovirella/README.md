@@ -1,5 +1,4 @@
-Lecidea atrovirella Nyl. SPECIES
-=======
+# Lecidea atrovirella Nyl. SPECIES
 
 #### Status
 ACCEPTED

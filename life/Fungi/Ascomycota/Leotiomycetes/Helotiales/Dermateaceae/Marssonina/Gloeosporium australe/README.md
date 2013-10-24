@@ -1,5 +1,4 @@
-Gloeosporium australe Speg. SPECIES
-=======
+# Gloeosporium australe Speg. SPECIES
 
 #### Status
 ACCEPTED

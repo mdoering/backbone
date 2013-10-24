@@ -1,5 +1,4 @@
-Cortinarius siccolens Rob. Henry SPECIES
-=======
+# Cortinarius siccolens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

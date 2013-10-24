@@ -1,5 +1,4 @@
-Tholomyces flagellifer Matsush., 2003 SPECIES
-=======
+# Tholomyces flagellifer Matsush., 2003 SPECIES
 
 #### Status
 ACCEPTED

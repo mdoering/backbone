@@ -1,5 +1,4 @@
-Lembosia huallagensis Henn. SPECIES
-=======
+# Lembosia huallagensis Henn. SPECIES
 
 #### Status
 ACCEPTED

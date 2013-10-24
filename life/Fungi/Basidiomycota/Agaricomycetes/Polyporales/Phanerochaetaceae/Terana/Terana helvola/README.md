@@ -1,5 +1,4 @@
-Terana helvola (P. Karst.) Kuntze SPECIES
-=======
+# Terana helvola (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

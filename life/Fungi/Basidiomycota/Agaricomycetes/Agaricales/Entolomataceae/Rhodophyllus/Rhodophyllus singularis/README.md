@@ -1,5 +1,4 @@
-Rhodophyllus singularis Romagn. SPECIES
-=======
+# Rhodophyllus singularis Romagn. SPECIES
 
 #### Status
 ACCEPTED

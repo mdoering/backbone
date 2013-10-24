@@ -1,5 +1,4 @@
-Podocapsa Rüst, 1885 GENUS
-=======
+# Podocapsa Rüst, 1885 GENUS
 
 #### Status
 ACCEPTED

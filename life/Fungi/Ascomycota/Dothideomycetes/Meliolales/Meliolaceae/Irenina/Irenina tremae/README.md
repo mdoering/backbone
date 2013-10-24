@@ -1,5 +1,4 @@
-Irenina tremae (Speg.) F. Stevens SPECIES
-=======
+# Irenina tremae (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

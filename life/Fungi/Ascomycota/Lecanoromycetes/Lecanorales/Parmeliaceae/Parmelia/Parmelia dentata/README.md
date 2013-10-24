@@ -1,5 +1,4 @@
-Parmelia dentata (J.D. Zhao) J.N. Wu SPECIES
-=======
+# Parmelia dentata (J.D. Zhao) J.N. Wu SPECIES
 
 #### Status
 ACCEPTED

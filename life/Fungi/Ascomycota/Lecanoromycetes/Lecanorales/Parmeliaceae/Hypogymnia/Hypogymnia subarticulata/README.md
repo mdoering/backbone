@@ -1,5 +1,4 @@
-Hypogymnia subarticulata (J.D. Zhao, L.W. Hsu & Z.M. Sun) J.C. Wei & Y.M. Jiang SPECIES
-=======
+# Hypogymnia subarticulata (J.D. Zhao, L.W. Hsu & Z.M. Sun) J.C. Wei & Y.M. Jiang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium lotorum Biv. SPECIES
-=======
+# Sclerotium lotorum Biv. SPECIES
 
 #### Status
 ACCEPTED

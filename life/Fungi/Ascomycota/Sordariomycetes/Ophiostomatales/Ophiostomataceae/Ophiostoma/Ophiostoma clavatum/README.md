@@ -1,14 +1,13 @@
-Ceratocystis clavata (Math.-Käärik) J. Hunt, 1956 SPECIES
-=======
+# Ophiostoma clavatum Math.-Käärik, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 19: 37 (1956)
+Svensk bot. Tidskr. 45: 222 (1951)
 
 #### Original name
 Ophiostoma clavatum Math.-Käärik, 1951

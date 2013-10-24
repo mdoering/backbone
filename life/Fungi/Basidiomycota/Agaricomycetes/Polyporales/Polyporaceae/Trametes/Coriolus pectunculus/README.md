@@ -1,5 +1,4 @@
-Coriolus pectunculus (Lév.) Pat. SPECIES
-=======
+# Coriolus pectunculus (Lév.) Pat. SPECIES
 
 #### Status
 ACCEPTED

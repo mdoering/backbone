@@ -1,5 +1,4 @@
-Leptoniella assulorum (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Leptoniella assulorum (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

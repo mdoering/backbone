@@ -1,5 +1,4 @@
-Discoaster hamatus SPECIES
-=======
+# Discoaster hamatus SPECIES
 
 #### Status
 ACCEPTED

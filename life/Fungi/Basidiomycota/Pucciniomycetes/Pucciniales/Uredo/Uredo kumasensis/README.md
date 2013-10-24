@@ -1,5 +1,4 @@
-Uredo kumasensis Cummins SPECIES
-=======
+# Uredo kumasensis Cummins SPECIES
 
 #### Status
 ACCEPTED

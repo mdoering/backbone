@@ -1,5 +1,4 @@
-Opegrapha romsiae S.Y. Kondr. & Kudratov SPECIES
-=======
+# Opegrapha romsiae S.Y. Kondr. & Kudratov SPECIES
 
 #### Status
 ACCEPTED

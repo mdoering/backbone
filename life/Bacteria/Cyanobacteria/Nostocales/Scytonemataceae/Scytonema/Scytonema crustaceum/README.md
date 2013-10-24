@@ -1,5 +1,4 @@
-Scytonema crustaceum (C. Agardh) Bornet & Flahault SPECIES
-=======
+# Scytonema crustaceum (C. Agardh) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

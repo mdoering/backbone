@@ -1,5 +1,4 @@
-Cercospora tovariae Chupp & A.S. Mull. SPECIES
-=======
+# Cercospora tovariae Chupp & A.S. Mull. SPECIES
 
 #### Status
 ACCEPTED

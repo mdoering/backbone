@@ -1,5 +1,4 @@
-Agaricus medusus F. Brig. SPECIES
-=======
+# Agaricus medusus F. Brig. SPECIES
 
 #### Status
 ACCEPTED

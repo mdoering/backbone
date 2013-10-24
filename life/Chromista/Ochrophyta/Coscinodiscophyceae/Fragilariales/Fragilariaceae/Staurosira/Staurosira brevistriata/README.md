@@ -1,5 +1,4 @@
-Staurosira brevistriata Grunow SPECIES
-=======
+# Staurosira brevistriata Grunow SPECIES
 
 #### Status
 ACCEPTED

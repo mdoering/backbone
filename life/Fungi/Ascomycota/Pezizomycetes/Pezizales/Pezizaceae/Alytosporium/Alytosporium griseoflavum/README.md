@@ -1,5 +1,4 @@
-Alytosporium griseoflavum (Link) Steud. SPECIES
-=======
+# Alytosporium griseoflavum (Link) Steud. SPECIES
 
 #### Status
 ACCEPTED

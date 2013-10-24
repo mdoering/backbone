@@ -1,5 +1,4 @@
-Stigmatomyces setacerae Huldén SPECIES
-=======
+# Stigmatomyces setacerae Huldén SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletellus elatus Nagas. SPECIES
-=======
+# Boletellus elatus Nagas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pythium tenue Gobi, 1900 SPECIES
-=======
+# Pythium tenue Gobi, 1900 SPECIES
 
 #### Status
 ACCEPTED

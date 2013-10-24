@@ -1,14 +1,13 @@
-Mycena kuhneri (Romagn.) Pilát SPECIES
-=======
+# Mycena kuehneri (Romagn.) Pilát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 41: 138 (1943)
 
 #### Original name
 Mycenella kuehneri Romagn.

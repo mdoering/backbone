@@ -1,5 +1,4 @@
-Lophosphaeridium diaphanium (Staplin, 1961) Jux, 1975 SPECIES
-=======
+# Lophosphaeridium diaphanium (Staplin, 1961) Jux, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma stuartii Fabre SPECIES
-=======
+# Lophiostoma stuartii Fabre SPECIES
 
 #### Status
 ACCEPTED

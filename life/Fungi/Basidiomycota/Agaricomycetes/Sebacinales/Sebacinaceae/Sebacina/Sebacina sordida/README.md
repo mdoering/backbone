@@ -1,5 +1,4 @@
-Sebacina sordida L.S. Olive SPECIES
-=======
+# Sebacina sordida L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

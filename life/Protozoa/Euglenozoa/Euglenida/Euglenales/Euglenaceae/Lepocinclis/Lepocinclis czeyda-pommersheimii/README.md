@@ -1,5 +1,4 @@
-Lepocinclis czeyda-pommersheimii Hortobagy SPECIES
-=======
+# Lepocinclis czeyda-pommersheimii Hortobagy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanitopsis urceolata (Viv.) Sacc. SPECIES
-=======
+# Amanitopsis urceolata (Viv.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

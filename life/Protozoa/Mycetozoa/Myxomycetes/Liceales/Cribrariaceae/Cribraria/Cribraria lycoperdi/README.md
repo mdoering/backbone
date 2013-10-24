@@ -1,8 +1,7 @@
-Cribraria lycopodii Nees SPECIES
-=======
+# Cribraria lycoperdi Nees SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cribraria lycopodii Nees
+Cribraria lycoperdi Nees
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bacidia suturalis (Eckfeldt) Zahlbr. SPECIES
-=======
+# Bacidia suturalis (Eckfeldt) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

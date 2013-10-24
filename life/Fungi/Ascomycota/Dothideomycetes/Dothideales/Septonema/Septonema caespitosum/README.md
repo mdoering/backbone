@@ -1,5 +1,4 @@
-Septonema caespitosum Berk. & M.A. Curtis SPECIES
-=======
+# Septonema caespitosum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Uredo piereicola J.M. Yen & Gilles SPECIES
-=======
+# Uredo pycreicola J.M. Yen & Gilles SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Yen, Revue mycol. , Toulouse 40(3): 292 (1976)
 
 #### Original name
-Uredo piereicola J.M. Yen & Gilles
+Uredo pycreicola J.M. Yen & Gilles
 
 ### Remarks
 null

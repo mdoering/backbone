@@ -1,5 +1,4 @@
-Urceolella magnifica Raitv. & R. Galán SPECIES
-=======
+# Urceolella magnifica Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

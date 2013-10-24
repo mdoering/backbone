@@ -1,5 +1,4 @@
-Cercospora sonchifolia Chidd. SPECIES
-=======
+# Cercospora sonchifolia Chidd. SPECIES
 
 #### Status
 ACCEPTED

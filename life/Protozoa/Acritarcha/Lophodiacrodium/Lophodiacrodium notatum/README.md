@@ -1,5 +1,4 @@
-Lophodiacrodium notatum (Naumova, 1950) Downie & Sarjeant, 1965 SPECIES
-=======
+# Lophodiacrodium notatum (Naumova, 1950) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe martinicensis Pegler & Fiard SPECIES
-=======
+# Hygrocybe martinicensis Pegler & Fiard SPECIES
 
 #### Status
 ACCEPTED

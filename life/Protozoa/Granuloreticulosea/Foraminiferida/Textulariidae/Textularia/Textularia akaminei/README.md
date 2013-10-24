@@ -1,5 +1,4 @@
-Textularia akaminei Ishizaki SPECIES
-=======
+# Textularia akaminei Ishizaki SPECIES
 
 #### Status
 ACCEPTED

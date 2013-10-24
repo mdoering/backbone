@@ -1,5 +1,4 @@
-Entoloma mancum E. Horak, 2008 SPECIES
-=======
+# Entoloma mancum E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta pallidocarpa Bubák & Serebrian. SPECIES
-=======
+# Phyllosticta pallidocarpa Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

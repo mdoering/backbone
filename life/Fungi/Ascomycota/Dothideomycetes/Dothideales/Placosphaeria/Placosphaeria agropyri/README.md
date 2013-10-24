@@ -1,5 +1,4 @@
-Placosphaeria agropyri Garb. SPECIES
-=======
+# Placosphaeria agropyri Garb. SPECIES
 
 #### Status
 ACCEPTED

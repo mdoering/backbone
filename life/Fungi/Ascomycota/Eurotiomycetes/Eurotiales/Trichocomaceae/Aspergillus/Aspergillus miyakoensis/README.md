@@ -1,5 +1,4 @@
-Aspergillus miyakoensis Nakaz., Simo & A. Watan. SPECIES
-=======
+# Aspergillus miyakoensis Nakaz., Simo & A. Watan. SPECIES
 
 #### Status
 ACCEPTED

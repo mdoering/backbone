@@ -1,5 +1,4 @@
-Dothidella koordersii (Henn.) Theiss. & Syd. SPECIES
-=======
+# Dothidella koordersii (Henn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoschubertella Marshall, 1969 GENUS
-=======
+# Pseudoschubertella Marshall, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphaliopsis californiensis Murrill SPECIES
-=======
+# Omphaliopsis californiensis Murrill SPECIES
 
 #### Status
 ACCEPTED

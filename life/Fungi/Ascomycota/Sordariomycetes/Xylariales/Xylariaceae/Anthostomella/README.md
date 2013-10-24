@@ -1,17 +1,16 @@
-Maurinia Niessl GENUS
-=======
+# Anthostomella Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. nat. Ver. Brünn 14 (Abh. ): 198 (1876)
+Atti Soc. Veneto-Trent. Sci. Nat. , Padova 4: 84 (1875)
 
 #### Original name
-Maurinia Niessl
+Anthostomella Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fomitiporella johnsoniana Murrill SPECIES
-=======
+# Fomitiporella johnsoniana Murrill SPECIES
 
 #### Status
 ACCEPTED

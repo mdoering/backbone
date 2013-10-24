@@ -1,5 +1,4 @@
-Corticium expallens SPECIES
-=======
+# Corticium expallens SPECIES
 
 #### Status
 ACCEPTED

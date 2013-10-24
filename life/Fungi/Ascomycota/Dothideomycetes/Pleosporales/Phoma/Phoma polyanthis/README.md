@@ -1,5 +1,4 @@
-Phoma polyanthis Died. SPECIES
-=======
+# Phoma polyanthis Died. SPECIES
 
 #### Status
 ACCEPTED

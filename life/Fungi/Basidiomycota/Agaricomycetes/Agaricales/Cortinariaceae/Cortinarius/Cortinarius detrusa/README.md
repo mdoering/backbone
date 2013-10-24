@@ -1,5 +1,4 @@
-Cortinarius detrusa Peck SPECIES
-=======
+# Cortinarius detrusa Peck SPECIES
 
 #### Status
 ACCEPTED

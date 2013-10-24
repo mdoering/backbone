@@ -1,5 +1,4 @@
-Rhizopogon nigrescens Coker & Couch SPECIES
-=======
+# Rhizopogon nigrescens Coker & Couch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius nothodamascenus M.M. Moser SPECIES
-=======
+# Cortinarius nothodamascenus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

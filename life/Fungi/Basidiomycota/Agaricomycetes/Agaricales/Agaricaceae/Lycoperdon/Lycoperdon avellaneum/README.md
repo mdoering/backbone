@@ -1,5 +1,4 @@
-Lycoperdon avellaneum Bres. SPECIES
-=======
+# Lycoperdon avellaneum Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia sidalceae Ellis & Everh. SPECIES
-=======
+# Ramularia sidalceae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

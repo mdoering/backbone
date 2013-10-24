@@ -1,5 +1,4 @@
-Diplodina elaeagni Brunaud SPECIES
-=======
+# Diplodina elaeagni Brunaud SPECIES
 
 #### Status
 ACCEPTED

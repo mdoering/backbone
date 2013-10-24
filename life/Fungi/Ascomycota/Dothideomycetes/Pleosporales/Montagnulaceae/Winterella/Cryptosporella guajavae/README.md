@@ -1,5 +1,4 @@
-Cryptosporella guajavae H. Kern SPECIES
-=======
+# Cryptosporella guajavae H. Kern SPECIES
 
 #### Status
 ACCEPTED

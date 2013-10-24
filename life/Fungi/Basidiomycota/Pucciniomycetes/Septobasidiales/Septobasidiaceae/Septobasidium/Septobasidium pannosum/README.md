@@ -1,5 +1,4 @@
-Septobasidium pannosum (Fr.) Bres. SPECIES
-=======
+# Septobasidium pannosum (Fr.) Bres. SPECIES
 
 #### Status
 ACCEPTED

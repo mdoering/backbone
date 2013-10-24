@@ -1,5 +1,4 @@
-Plagiostoma devexa (Desm.) Fuckel SPECIES
-=======
+# Plagiostoma devexa (Desm.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ophiobolus eucryptus (Berk. & Broome) Sacc. SPECIES
-=======
+# Gaeumannomyces caricis J. Walker, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 350 (1883)
+Mycotaxon 11(1): 23 (1980)
 
 #### Original name
-Sphaeria eucrypta Berk. & Broome, 1852
+Gaeumannomyces caricis J. Walker, 1980
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Torula muisa Mattlet SPECIES
-=======
+# Torula muisa Mattlet SPECIES
 
 #### Status
 ACCEPTED

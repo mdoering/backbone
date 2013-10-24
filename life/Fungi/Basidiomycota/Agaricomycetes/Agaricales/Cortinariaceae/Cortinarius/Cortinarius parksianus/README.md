@@ -1,5 +1,4 @@
-Cortinarius parksianus A.H. Sm. SPECIES
-=======
+# Cortinarius parksianus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

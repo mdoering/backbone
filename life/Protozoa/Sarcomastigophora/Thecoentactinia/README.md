@@ -1,5 +1,4 @@
-Thecoentactinia Nazarov, 1975 GENUS
-=======
+# Thecoentactinia Nazarov, 1975 GENUS
 
 #### Status
 ACCEPTED

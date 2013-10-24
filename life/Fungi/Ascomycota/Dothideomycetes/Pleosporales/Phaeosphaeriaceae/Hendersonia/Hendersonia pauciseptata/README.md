@@ -1,5 +1,4 @@
-Hendersonia pauciseptata f. pauciseptata FORM
-=======
+# Hendersonia pauciseptata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Mag. nat. Hist. , Ser. 2 12: no. 425 (1853)
 
 #### Original name
-Hendersonia pauciseptata f. pauciseptata
+Hendersonia pauciseptata Berk. & M.A. Curtis
 
 ### Remarks
 null

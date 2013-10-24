@@ -1,5 +1,4 @@
-Brachysporium pulviniforme Syd. SPECIES
-=======
+# Brachysporium pulviniforme Syd. SPECIES
 
 #### Status
 ACCEPTED

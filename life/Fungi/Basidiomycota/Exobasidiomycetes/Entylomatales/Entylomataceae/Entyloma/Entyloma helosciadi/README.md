@@ -1,5 +1,4 @@
-Entyloma helosciadi var. helosciadi VARIETY
-=======
+# Entyloma helosciadi anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Entyloma helosciadi var. helosciadi
+Entyloma helosciadi anon.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aecidium podophylli Schwein. SPECIES
-=======
+# Aecidium podophylli Schwein. SPECIES
 
 #### Status
 ACCEPTED

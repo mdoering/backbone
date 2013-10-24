@@ -1,5 +1,4 @@
-Nephroma protoresupinatum Gyeln. SPECIES
-=======
+# Nephroma protoresupinatum Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysoamphipyxis canadensis K.H. Nichols SPECIES
-=======
+# Chrysoamphipyxis canadensis K.H. Nichols SPECIES
 
 #### Status
 ACCEPTED

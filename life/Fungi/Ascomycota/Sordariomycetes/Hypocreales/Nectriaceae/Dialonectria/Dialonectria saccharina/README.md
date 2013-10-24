@@ -1,5 +1,4 @@
-Dialonectria saccharina (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Dialonectria saccharina (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

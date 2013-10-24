@@ -1,5 +1,4 @@
-Samarosporella Linder GENUS
-=======
+# Samarosporella Linder GENUS
 
 #### Status
 ACCEPTED

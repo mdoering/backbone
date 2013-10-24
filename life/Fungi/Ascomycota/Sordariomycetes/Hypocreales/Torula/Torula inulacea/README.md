@@ -1,5 +1,4 @@
-Torula inulacea F.C. Harrison SPECIES
-=======
+# Torula inulacea F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Ammobaculites lituolinoideus (Goes, 1896) SPECIES
-=======
+# Ammobaculites lituolinoideum (Goës, 1896) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

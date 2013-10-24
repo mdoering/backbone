@@ -1,5 +1,4 @@
-Buellia pachyospora A. Massal. SPECIES
-=======
+# Buellia pachyospora A. Massal. SPECIES
 
 #### Status
 ACCEPTED

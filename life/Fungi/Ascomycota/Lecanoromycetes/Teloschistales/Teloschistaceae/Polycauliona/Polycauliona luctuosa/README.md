@@ -1,5 +1,4 @@
-Polycauliona luctuosa Hue SPECIES
-=======
+# Polycauliona luctuosa Hue SPECIES
 
 #### Status
 ACCEPTED

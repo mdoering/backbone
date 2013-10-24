@@ -1,5 +1,4 @@
-Boletus subsensibilis (Murrill) Murrill SPECIES
-=======
+# Boletus subsensibilis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

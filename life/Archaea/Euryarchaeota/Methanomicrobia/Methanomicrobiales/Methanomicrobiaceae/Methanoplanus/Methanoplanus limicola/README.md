@@ -1,5 +1,4 @@
-Methanoplanus limicola Wildgruber et al., 1984 SPECIES
-=======
+# Methanoplanus limicola Wildgruber et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

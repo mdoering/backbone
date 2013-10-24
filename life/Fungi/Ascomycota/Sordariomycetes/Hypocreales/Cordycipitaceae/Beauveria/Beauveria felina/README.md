@@ -1,14 +1,13 @@
-Isaria felina var. felina VARIETY
-=======
+# Beauveria felina (DC.) J.W. Carmich., 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(2): 271 (1832)
+in Carmichael, Kendrick, Conners & Sigler, Genera of Hyphomycetes (Edmonton) 48 (1980)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Lecanora munzii K. Knudsen & Lendemer SPECIES
-=======
+# Lecanora munzii K. Knudsen & Lendemer SPECIES
 
 #### Status
 ACCEPTED

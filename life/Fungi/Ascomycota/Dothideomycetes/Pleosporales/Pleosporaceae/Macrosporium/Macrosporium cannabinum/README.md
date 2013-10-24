@@ -1,5 +1,4 @@
-Macrosporium cannabinum Bakhtin & Gutner SPECIES
-=======
+# Macrosporium cannabinum Bakhtin & Gutner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchronoblastia crypta Uecker & F.L. Caruso, 1988 SPECIES
-=======
+# Synchronoblastia crypta Uecker & F.L. Caruso, 1988 SPECIES
 
 #### Status
 ACCEPTED

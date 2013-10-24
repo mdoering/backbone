@@ -1,17 +1,16 @@
-Collema rechingeri Zahlbr. SPECIES
-=======
+# Collema coilocarpum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 3: 34 (1924)
 
 #### Original name
-null
+Synechoblastus coilocarpus Müll. Arg.
 
 ### Remarks
 null

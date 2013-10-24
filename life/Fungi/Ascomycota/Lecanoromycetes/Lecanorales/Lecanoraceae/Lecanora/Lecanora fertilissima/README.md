@@ -1,5 +1,4 @@
-Lecanora fertilissima Zahlbr. SPECIES
-=======
+# Lecanora fertilissima Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

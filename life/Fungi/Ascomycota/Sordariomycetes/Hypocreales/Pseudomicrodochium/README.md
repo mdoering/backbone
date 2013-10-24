@@ -1,5 +1,4 @@
-Pseudomicrodochium B. Sutton, 1975 GENUS
-=======
+# Pseudomicrodochium B. Sutton, 1975 GENUS
 
 #### Status
 ACCEPTED

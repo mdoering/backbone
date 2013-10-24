@@ -1,5 +1,4 @@
-Arrhenia trigonospora (Lamoure) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
-=======
+# Arrhenia trigonospora (Lamoure) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

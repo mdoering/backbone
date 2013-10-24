@@ -1,5 +1,4 @@
-Endomycopsis epidermalis Bat., J.S. Silveira & Campos SPECIES
-=======
+# Endomycopsis epidermalis Bat., J.S. Silveira & Campos SPECIES
 
 #### Status
 ACCEPTED

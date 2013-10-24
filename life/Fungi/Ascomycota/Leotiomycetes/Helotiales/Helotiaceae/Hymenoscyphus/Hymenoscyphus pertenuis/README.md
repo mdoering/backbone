@@ -1,5 +1,4 @@
-Hymenoscyphus pertenuis (Sacc.) Kuntze SPECIES
-=======
+# Hymenoscyphus pertenuis (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

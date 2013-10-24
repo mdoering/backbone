@@ -1,17 +1,16 @@
-Pachypatella petrakii (Syd.) Arx, 1962 SPECIES
-=======
+# Apoa petrakii Syd., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sydow & Petrak, Annls mycol. 29: 266 (1931)
 
 #### Original name
-null
+Apoa petrakii Syd., 1931
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeronaema neriicola A.C. Santos SPECIES
-=======
+# Sphaeronaema neriicola A.C. Santos SPECIES
 
 #### Status
 ACCEPTED

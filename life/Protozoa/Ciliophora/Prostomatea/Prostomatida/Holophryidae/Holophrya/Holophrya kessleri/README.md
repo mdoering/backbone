@@ -1,5 +1,4 @@
-Holophrya kessleri Mereschkowsky, 1878 SPECIES
-=======
+# Holophrya kessleri Mereschkowsky, 1878 SPECIES
 
 #### Status
 ACCEPTED

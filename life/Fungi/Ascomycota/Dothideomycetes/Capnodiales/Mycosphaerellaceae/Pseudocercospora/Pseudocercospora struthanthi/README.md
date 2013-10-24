@@ -1,5 +1,4 @@
-Pseudocercospora struthanthi U. Braun, F.O. Freire & N. Pons, 2003 SPECIES
-=======
+# Pseudocercospora struthanthi U. Braun, F.O. Freire & N. Pons, 2003 SPECIES
 
 #### Status
 ACCEPTED

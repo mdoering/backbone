@@ -1,5 +1,4 @@
-Myriophacidium Sherwood GENUS
-=======
+# Myriophacidium Sherwood GENUS
 
 #### Status
 ACCEPTED

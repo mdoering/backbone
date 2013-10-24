@@ -1,14 +1,13 @@
-Sphaeria stigma var. decorticata Pers., 1801 VARIETY
-=======
+# Diatrype decorticata (Pers.) Rappaz, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 1: 21 (1801)
+Mycol. helv. 2(3): 398 (1987)
 
 #### Original name
 Sphaeria stigma var. decorticata Pers., 1801

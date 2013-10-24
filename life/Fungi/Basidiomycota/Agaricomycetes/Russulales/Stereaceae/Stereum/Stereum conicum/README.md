@@ -1,5 +1,4 @@
-Stereum conicum Burt SPECIES
-=======
+# Stereum conicum Burt SPECIES
 
 #### Status
 ACCEPTED

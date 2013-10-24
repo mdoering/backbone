@@ -1,5 +1,4 @@
-Rhabdospora allantoidea (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rhabdospora allantoidea (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

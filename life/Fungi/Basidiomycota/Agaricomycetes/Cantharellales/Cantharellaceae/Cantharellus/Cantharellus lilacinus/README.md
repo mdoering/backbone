@@ -1,5 +1,4 @@
-Cantharellus lilacinus Cleland & Cheel, 1919 SPECIES
-=======
+# Cantharellus lilacinus Cleland & Cheel, 1919 SPECIES
 
 #### Status
 ACCEPTED

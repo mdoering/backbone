@@ -1,5 +1,4 @@
-Austrographa kurriminensis Sparrius, Elix & A. W. Archer SPECIES
-=======
+# Austrographa kurriminensis Sparrius, Elix & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

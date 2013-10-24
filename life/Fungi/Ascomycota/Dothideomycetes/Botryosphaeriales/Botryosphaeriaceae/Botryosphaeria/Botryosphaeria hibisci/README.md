@@ -1,5 +1,4 @@
-Botryosphaeria hibisci (Schwein.) Sacc. SPECIES
-=======
+# Botryosphaeria hibisci (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

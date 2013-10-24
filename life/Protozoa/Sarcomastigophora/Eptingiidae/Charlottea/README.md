@@ -1,5 +1,4 @@
-Charlottea Whalen & Carter, 1998 GENUS
-=======
+# Charlottea Whalen & Carter, 1998 GENUS
 
 #### Status
 ACCEPTED

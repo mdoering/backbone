@@ -1,17 +1,16 @@
-Bulgaria inquinans var. inquinans VARIETY
-=======
+# Bulgaria inquinans (Pers.) Fr., 1822 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 2: 166 (1825)
+Syst. mycol. (Lundae) 2(1): 167 (1822)
 
 #### Original name
-Bulgaria inquinans var. inquinans
+null
 
 ### Remarks
 null

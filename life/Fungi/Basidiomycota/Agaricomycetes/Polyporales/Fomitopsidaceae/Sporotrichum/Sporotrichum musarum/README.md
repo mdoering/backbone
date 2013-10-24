@@ -1,5 +1,4 @@
-Sporotrichum musarum Torrend SPECIES
-=======
+# Sporotrichum musarum Torrend SPECIES
 
 #### Status
 ACCEPTED

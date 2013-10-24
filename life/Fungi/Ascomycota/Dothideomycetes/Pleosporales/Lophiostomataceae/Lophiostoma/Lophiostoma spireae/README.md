@@ -1,5 +1,4 @@
-Lophiostoma spireae Ellis, 1895 SPECIES
-=======
+# Lophiostoma spireae Ellis, 1895 SPECIES
 
 #### Status
 ACCEPTED

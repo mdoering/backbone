@@ -1,5 +1,4 @@
-Humaria lividopurpurea (Boud.) Sacc. SPECIES
-=======
+# Humaria lividopurpurea (Boud.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

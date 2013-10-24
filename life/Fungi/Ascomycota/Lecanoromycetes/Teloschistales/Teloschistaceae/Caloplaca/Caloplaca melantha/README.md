@@ -1,5 +1,4 @@
-Caloplaca melantha (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca melantha (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

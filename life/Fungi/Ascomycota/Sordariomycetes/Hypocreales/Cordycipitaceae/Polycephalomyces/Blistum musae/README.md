@@ -1,5 +1,4 @@
-Blistum musae Seifert SPECIES
-=======
+# Blistum musae Seifert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus ferruginipes Corner, 1984 SPECIES
-=======
+# Polyporus ferruginipes Corner, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella subcongregata (Ellis & Everh.) Tomilin SPECIES
-=======
+# Mycosphaerella subcongregata (Ellis & Everh.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

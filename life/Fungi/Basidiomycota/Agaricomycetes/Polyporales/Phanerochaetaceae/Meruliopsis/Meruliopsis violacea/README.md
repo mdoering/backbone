@@ -1,5 +1,4 @@
-Meruliopsis violacea (Fr.) Bondartsev SPECIES
-=======
+# Meruliopsis violacea (Fr.) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

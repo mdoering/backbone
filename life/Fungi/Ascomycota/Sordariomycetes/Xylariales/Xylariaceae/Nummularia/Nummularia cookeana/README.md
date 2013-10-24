@@ -1,5 +1,4 @@
-Nummularia cookeana (Sacc.) Rehm SPECIES
-=======
+# Nummularia cookeana (Sacc.) Rehm SPECIES
 
 #### Status
 ACCEPTED

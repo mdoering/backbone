@@ -1,5 +1,4 @@
-Dubitatio GENUS
-=======
+# Dubitatio GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthopleuribacter Fukunaga, Kurahashi, Yanagi, Yokota & Harayama, 2008 GENUS
-=======
+# Acanthopleuribacter Fukunaga, Kurahashi, Yanagi, Yokota & Harayama, 2008 GENUS
 
 #### Status
 ACCEPTED

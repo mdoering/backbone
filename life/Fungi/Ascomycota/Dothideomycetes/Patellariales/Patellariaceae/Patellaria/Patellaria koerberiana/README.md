@@ -1,5 +1,4 @@
-Patellaria koerberiana (J. Lahm) Hepp SPECIES
-=======
+# Patellaria koerberiana (J. Lahm) Hepp SPECIES
 
 #### Status
 ACCEPTED

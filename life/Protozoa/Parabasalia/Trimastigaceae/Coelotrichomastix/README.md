@@ -1,5 +1,4 @@
-Coelotrichomastix Hollande, 1939 GENUS
-=======
+# Coelotrichomastix Hollande, 1939 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermotogaceae FAMILY
-=======
+# Thermotogaceae FAMILY
 
 #### Status
 ACCEPTED

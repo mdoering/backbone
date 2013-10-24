@@ -1,5 +1,4 @@
-Drevennia Arnaud-Vanneau, 1980 GENUS
-=======
+# Drevennia Arnaud-Vanneau, 1980 GENUS
 
 #### Status
 ACCEPTED

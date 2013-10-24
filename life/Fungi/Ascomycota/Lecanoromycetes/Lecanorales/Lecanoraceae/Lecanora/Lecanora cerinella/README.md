@@ -1,5 +1,4 @@
-Lecanora cerinella Flörke SPECIES
-=======
+# Lecanora cerinella Flörke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Heterothecium pezizoideum var. disciforme Flot. VARIETY
-=======
+# Lopadium disciforme (Flot.) Kullh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 8: 553 (1850)
+null
 
 #### Original name
 Heterothecium pezizoideum var. disciforme Flot.

@@ -1,5 +1,4 @@
-Boletus picroides Rostk. SPECIES
-=======
+# Boletus picroides Rostk. SPECIES
 
 #### Status
 ACCEPTED

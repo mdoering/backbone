@@ -1,5 +1,4 @@
-Lyophyllum inodorum (Bon) Consiglio & Contu SPECIES
-=======
+# Lyophyllum inodorum (Bon) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium puracense Petr. SPECIES
-=======
+# Aecidium puracense Petr. SPECIES
 
 #### Status
 ACCEPTED

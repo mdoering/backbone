@@ -1,14 +1,13 @@
-Cephalotrichum azaleae (Peck) Kuntze SPECIES
-=======
+# Seifertia azaleae (Peck) Partr. & Morgan-Jones, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 453 (1898)
+Mycotaxon 83: 350 (2002)
 
 #### Original name
 Periconia azaleae Peck, 1873

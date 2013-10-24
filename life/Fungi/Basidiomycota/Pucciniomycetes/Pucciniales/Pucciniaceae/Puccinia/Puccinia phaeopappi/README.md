@@ -1,5 +1,4 @@
-Puccinia phaeopappi var. phaeopappi VARIETY
-=======
+# Puccinia phaeopappi Maire SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia phaeopappi var. phaeopappi
+Puccinia phaeopappi Maire
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Torula protea Sacc., 1881 SPECIES
-=======
+# Pseudogliomastix protea (Sacc.) W. Gams, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 7): 292 (1881)
+in Gams & Boekhout, Proc. Indian Acad. Sci. , Pl. Sci. 94(2-3): 279 (1985)
 
 #### Original name
 Torula protea Sacc., 1881

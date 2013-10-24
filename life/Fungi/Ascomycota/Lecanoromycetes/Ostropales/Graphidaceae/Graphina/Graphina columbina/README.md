@@ -1,5 +1,4 @@
-Graphina columbina (Tuck.) M. Wirth & Hale SPECIES
-=======
+# Graphina columbina (Tuck.) M. Wirth & Hale SPECIES
 
 #### Status
 ACCEPTED

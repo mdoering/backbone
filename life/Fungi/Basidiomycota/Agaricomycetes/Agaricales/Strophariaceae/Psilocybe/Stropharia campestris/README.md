@@ -1,5 +1,4 @@
-Stropharia campestris Peck SPECIES
-=======
+# Stropharia campestris Peck SPECIES
 
 #### Status
 ACCEPTED

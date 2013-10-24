@@ -1,5 +1,4 @@
-Flabellammina crassa Zheng & Fu, 2001 SPECIES
-=======
+# Flabellammina crassa Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

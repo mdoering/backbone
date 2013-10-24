@@ -1,5 +1,4 @@
-Gyrophora delisei (Nyl.) Despr. SPECIES
-=======
+# Gyrophora delisei (Nyl.) Despr. SPECIES
 
 #### Status
 ACCEPTED

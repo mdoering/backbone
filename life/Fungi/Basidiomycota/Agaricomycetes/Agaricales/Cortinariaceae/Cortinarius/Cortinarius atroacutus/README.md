@@ -1,5 +1,4 @@
-Cortinarius atroacutus E. Horak & M.M. Moser SPECIES
-=======
+# Cortinarius atroacutus E. Horak & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

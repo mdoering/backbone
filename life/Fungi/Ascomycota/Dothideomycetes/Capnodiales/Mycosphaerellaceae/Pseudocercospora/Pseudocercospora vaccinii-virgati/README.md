@@ -1,5 +1,4 @@
-Pseudocercospora vaccinii-virgati U. Braun & Crous SPECIES
-=======
+# Pseudocercospora vaccinii-virgati U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

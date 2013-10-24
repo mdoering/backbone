@@ -1,5 +1,4 @@
-Meliola colletiae Hansf. SPECIES
-=======
+# Meliola colletiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

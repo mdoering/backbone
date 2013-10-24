@@ -1,14 +1,13 @@
-Benjaminia poitrasii (R.K. Benj.) Pidopl. & Milko, 1971 SPECIES
-=======
+# Benjaminiella poitrasii (R.K. Benj.) Arx, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atlas Mukor. Grib. (Kiev) 97 (1971)
+Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 60 (1981)
 
 #### Original name
 Cokeromyces poitrasii R.K. Benj., 1960

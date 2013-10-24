@@ -1,5 +1,4 @@
-Patellaria chloroplaca (Fée) Müll. Arg. SPECIES
-=======
+# Patellaria chloroplaca (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

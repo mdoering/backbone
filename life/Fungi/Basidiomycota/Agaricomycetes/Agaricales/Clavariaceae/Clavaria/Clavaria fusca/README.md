@@ -1,5 +1,4 @@
-Clavaria fusca Sw. SPECIES
-=======
+# Clavaria fusca Sw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps longdongensis A.Y. Liu & Z.Q. Liang SPECIES
-=======
+# Cordyceps longdongensis A.Y. Liu & Z.Q. Liang SPECIES
 
 #### Status
 ACCEPTED

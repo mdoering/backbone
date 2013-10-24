@@ -1,5 +1,4 @@
-Setulophoma variable Cec. Roux SPECIES
-=======
+# Setulophoma variable Cec. Roux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uncinata gigantea Bullington, 1940 SPECIES
-=======
+# Uncinata gigantea Bullington, 1940 SPECIES
 
 #### Status
 ACCEPTED

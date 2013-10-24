@@ -1,5 +1,4 @@
-Inocybe dewrangia Grgur. SPECIES
-=======
+# Inocybe dewrangia Grgur. SPECIES
 
 #### Status
 ACCEPTED

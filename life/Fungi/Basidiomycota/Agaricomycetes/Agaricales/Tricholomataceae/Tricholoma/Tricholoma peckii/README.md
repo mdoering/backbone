@@ -1,5 +1,4 @@
-Tricholoma peckii Bres. SPECIES
-=======
+# Tricholoma peckii Bres. SPECIES
 
 #### Status
 ACCEPTED

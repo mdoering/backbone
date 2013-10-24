@@ -1,14 +1,13 @@
-Ramulispora aestiva (Nirenberg) E.L. Stewart & Crous, 1999 SPECIES
-=======
+# Helgardia aestiva (Nirenberg) Crous & W. Gams, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Stewart, Liu, Crous & Szabo, Mycol. Res. 103(11): 1497 (1999)
+in Crous, Groenewald & Gams, Eur. J. Pl. Path. 109(8): 848 (2003)
 
 #### Original name
 Pseudocercosporella aestiva Nirenberg, 1981

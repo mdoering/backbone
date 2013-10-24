@@ -1,5 +1,4 @@
-Aspicilia knudsenii Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia knudsenii Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

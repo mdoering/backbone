@@ -1,5 +1,4 @@
-Myrionecta Jankowski, 1976 GENUS
-=======
+# Myrionecta Jankowski, 1976 GENUS
 
 #### Status
 ACCEPTED

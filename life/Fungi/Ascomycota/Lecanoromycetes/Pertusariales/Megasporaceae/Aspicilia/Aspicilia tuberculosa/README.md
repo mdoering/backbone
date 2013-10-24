@@ -1,5 +1,4 @@
-Aspicilia tuberculosa (Ach.) J. R. Laundon SPECIES
-=======
+# Aspicilia tuberculosa (Ach.) J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED

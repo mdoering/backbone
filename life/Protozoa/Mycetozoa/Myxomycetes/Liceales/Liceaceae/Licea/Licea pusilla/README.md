@@ -1,14 +1,13 @@
-Protoderma pusillum (Schrad.) Rostaf. SPECIES
-=======
+# Licea pusilla Schrad., 1797 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sluzowce monogr. (Paryz) 90 (1875)
+Nov. gen. pl. (Lipsiae) 19 (1797)
 
 #### Original name
 Licea pusilla Schrad., 1797

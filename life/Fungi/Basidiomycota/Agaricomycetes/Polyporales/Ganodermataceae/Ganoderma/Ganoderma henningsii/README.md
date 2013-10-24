@@ -1,5 +1,4 @@
-Ganoderma henningsii Lloyd SPECIES
-=======
+# Ganoderma henningsii Lloyd SPECIES
 
 #### Status
 ACCEPTED

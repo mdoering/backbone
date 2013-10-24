@@ -1,5 +1,4 @@
-Arenariomyces Höhnk GENUS
-=======
+# Arenariomyces Höhnk GENUS
 
 #### Status
 ACCEPTED

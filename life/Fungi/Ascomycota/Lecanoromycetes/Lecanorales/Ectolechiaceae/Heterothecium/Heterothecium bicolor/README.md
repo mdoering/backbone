@@ -1,5 +1,4 @@
-Heterothecium bicolor (Spreng.) Flot. SPECIES
-=======
+# Heterothecium bicolor (Spreng.) Flot. SPECIES
 
 #### Status
 ACCEPTED

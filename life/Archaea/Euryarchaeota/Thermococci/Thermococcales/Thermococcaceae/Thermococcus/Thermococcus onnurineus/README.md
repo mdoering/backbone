@@ -1,5 +1,4 @@
-Thermococcus onnurineus Bae, Kim, Yang, Lim, Heon, Lee, Kang, Kim & Lee, 2006 SPECIES
-=======
+# Thermococcus onnurineus Bae, Kim, Yang, Lim, Heon, Lee, Kang, Kim & Lee, 2006 SPECIES
 
 #### Status
 ACCEPTED

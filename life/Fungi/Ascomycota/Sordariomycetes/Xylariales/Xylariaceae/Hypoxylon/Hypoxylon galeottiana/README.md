@@ -1,17 +1,16 @@
-Hypoxylon galeottianum J. Kickx f. SPECIES
-=======
+# Hypoxylon galeottiana J. Kickx f. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin Acad. Roy. Bruxelles 8: (1841)
 
 #### Original name
-Hypoxylon galeottianum J. Kickx f.
+Hypoxylon galeottiana J. Kickx f.
 
 ### Remarks
 null

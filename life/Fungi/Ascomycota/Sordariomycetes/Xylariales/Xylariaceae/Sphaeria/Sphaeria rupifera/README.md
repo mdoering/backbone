@@ -1,5 +1,4 @@
-Sphaeria rupifera Opiz SPECIES
-=======
+# Sphaeria rupifera Opiz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptorhynchella leonuri (Byzova) Schwarzman SPECIES
-=======
+# Cryptorhynchella leonuri (Byzova) Schwarzman SPECIES
 
 #### Status
 ACCEPTED

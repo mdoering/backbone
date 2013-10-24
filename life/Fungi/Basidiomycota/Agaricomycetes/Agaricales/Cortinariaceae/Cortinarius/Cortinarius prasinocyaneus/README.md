@@ -1,5 +1,4 @@
-Cortinarius prasinocyaneus Rob. Henry SPECIES
-=======
+# Cortinarius prasinocyaneus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia athallina H. Magn. SPECIES
-=======
+# Buellia athallina H. Magn. SPECIES
 
 #### Status
 ACCEPTED

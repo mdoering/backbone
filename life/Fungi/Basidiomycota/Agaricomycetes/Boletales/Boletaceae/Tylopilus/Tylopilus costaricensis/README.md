@@ -1,5 +1,4 @@
-Tylopilus costaricensis Singer & L.D. Gómez SPECIES
-=======
+# Tylopilus costaricensis Singer & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

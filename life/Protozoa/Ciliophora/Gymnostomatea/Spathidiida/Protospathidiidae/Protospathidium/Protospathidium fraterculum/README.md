@@ -1,5 +1,4 @@
-Protospathidium fraterculum subsp. oligosetosum Xu & Foissner, 2005 SUBSPECIES
-=======
+# Protospathidium fraterculum Xu & Foissner, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Mycosphaerella jenkinsii Tomilin, 1968 SPECIES
-=======
+# Mycosphaerella arachidis Deighton, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. , 1968 165 (1968)
+Trans. Br. mycol. Soc. 50: 328 (1967)
 
 #### Original name
 Mycosphaerella arachidicola W.A. Jenkins, 1938

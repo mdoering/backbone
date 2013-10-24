@@ -1,5 +1,4 @@
-Elphidiella nitida Cushman, 1941 SPECIES
-=======
+# Elphidiella nitida Cushman, 1941 SPECIES
 
 #### Status
 ACCEPTED

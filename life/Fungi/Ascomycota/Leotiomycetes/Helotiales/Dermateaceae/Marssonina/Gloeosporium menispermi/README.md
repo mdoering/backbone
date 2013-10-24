@@ -1,5 +1,4 @@
-Gloeosporium menispermi Allesch. SPECIES
-=======
+# Gloeosporium menispermi Allesch. SPECIES
 
 #### Status
 ACCEPTED

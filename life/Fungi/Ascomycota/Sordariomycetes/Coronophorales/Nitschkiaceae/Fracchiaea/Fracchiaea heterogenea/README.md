@@ -1,5 +1,4 @@
-Fracchiaea heterogenea Sacc., 1873 SPECIES
-=======
+# Fracchiaea heterogenea Sacc., 1873 SPECIES
 
 #### Status
 ACCEPTED

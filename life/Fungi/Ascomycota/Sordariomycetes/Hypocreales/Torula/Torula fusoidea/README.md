@@ -1,5 +1,4 @@
-Torula fusoidea Cooke & Harkn. SPECIES
-=======
+# Torula fusoidea Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

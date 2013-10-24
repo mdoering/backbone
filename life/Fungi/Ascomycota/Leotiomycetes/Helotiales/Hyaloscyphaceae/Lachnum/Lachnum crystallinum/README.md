@@ -1,14 +1,13 @@
-Dasyscyphella crystallina (Fuckel) Raitv., 1970 SPECIES
-=======
+# Lachnum crystallinum (Fuckel) Rehm, 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Akad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 72 (1970)
+Discom. 873 (1896)
 
 #### Original name
 null

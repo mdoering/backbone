@@ -1,5 +1,4 @@
-Phacus angulatus Pochmann SPECIES
-=======
+# Phacus angulatus Pochmann SPECIES
 
 #### Status
 ACCEPTED

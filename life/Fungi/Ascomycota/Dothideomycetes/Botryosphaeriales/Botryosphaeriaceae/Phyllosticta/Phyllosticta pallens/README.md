@@ -1,5 +1,4 @@
-Phyllosticta pallens Ellis & Everh. SPECIES
-=======
+# Phyllosticta pallens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria pseudoschistosa Servít SPECIES
-=======
+# Verrucaria pseudoschistosa Servít SPECIES
 
 #### Status
 ACCEPTED

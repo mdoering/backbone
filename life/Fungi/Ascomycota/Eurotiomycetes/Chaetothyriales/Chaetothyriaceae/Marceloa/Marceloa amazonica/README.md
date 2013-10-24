@@ -1,5 +1,4 @@
-Marceloa amazonica Bat. & A.A. Silva SPECIES
-=======
+# Marceloa amazonica Bat. & A.A. Silva SPECIES
 
 #### Status
 ACCEPTED

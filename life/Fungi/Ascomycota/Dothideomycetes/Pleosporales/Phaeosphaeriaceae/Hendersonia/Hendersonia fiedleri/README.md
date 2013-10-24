@@ -1,5 +1,4 @@
-Hendersonia fiedleri var. fiedleri VARIETY
-=======
+# Hendersonia fiedleri Westend. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Kickx, Fl. Crypt. Flandres 1: 389 (1867)
 
 #### Original name
-Hendersonia fiedleri var. fiedleri
+Hendersonia fiedleri Westend.
 
 ### Remarks
 null

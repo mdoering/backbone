@@ -1,14 +1,13 @@
-Polyporus abietinus var. abietinus VARIETY
-=======
+# Trichaptum abietinum (Dicks.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 370 (1821)
+Norw. Jl Bot. 19: 237 (1972)
 
 #### Original name
 Boletus abietinus Dicks., 1793

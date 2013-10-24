@@ -1,5 +1,4 @@
-Spiniferomonas enigmata K. H. Nicholls SPECIES
-=======
+# Spiniferomonas enigmata K. H. Nicholls SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptacantha Kützing GENUS
-=======
+# Cryptacantha Kützing GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula minarum Vain. SPECIES
-=======
+# Pyrenula minarum Vain. SPECIES
 
 #### Status
 ACCEPTED

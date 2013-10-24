@@ -1,5 +1,4 @@
-Ordovicidium elegantulum Tappan & Loeblich, 1971 SPECIES
-=======
+# Ordovicidium elegantulum Tappan & Loeblich, 1971 SPECIES
 
 #### Status
 ACCEPTED

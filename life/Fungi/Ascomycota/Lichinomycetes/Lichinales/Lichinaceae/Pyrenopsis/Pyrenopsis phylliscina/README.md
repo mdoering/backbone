@@ -1,5 +1,4 @@
-Pyrenopsis phylliscina (Tuck.) Tuck. SPECIES
-=======
+# Pyrenopsis phylliscina (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

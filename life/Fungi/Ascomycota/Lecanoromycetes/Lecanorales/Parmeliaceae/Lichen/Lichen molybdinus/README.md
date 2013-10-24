@@ -1,5 +1,4 @@
-Lichen molybdinus Wahlenb. SPECIES
-=======
+# Lichen molybdinus Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium citri McAlpine SPECIES
-=======
+# Macrosporium citri McAlpine SPECIES
 
 #### Status
 ACCEPTED

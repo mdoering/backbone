@@ -1,5 +1,4 @@
-Spiroplasma chrysopicola Whitcomb et al., 1997 SPECIES
-=======
+# Spiroplasma chrysopicola Whitcomb et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

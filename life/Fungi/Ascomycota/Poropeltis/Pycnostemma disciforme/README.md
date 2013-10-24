@@ -1,5 +1,4 @@
-Pycnostemma disciforme Syd. SPECIES
-=======
+# Pycnostemma disciforme Syd. SPECIES
 
 #### Status
 ACCEPTED

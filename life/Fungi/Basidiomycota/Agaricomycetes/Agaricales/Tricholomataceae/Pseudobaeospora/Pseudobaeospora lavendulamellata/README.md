@@ -1,5 +1,4 @@
-Pseudobaeospora lavendulamellata Arnolds, Leelav. & Manim. SPECIES
-=======
+# Pseudobaeospora lavendulamellata Arnolds, Leelav. & Manim. SPECIES
 
 #### Status
 ACCEPTED

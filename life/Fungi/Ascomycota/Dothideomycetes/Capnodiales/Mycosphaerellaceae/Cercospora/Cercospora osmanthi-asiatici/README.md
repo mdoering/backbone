@@ -1,5 +1,4 @@
-Cercospora osmanthi-asiatici Sawada SPECIES
-=======
+# Cercospora osmanthi-asiatici Sawada SPECIES
 
 #### Status
 ACCEPTED

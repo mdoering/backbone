@@ -1,5 +1,4 @@
-Stagonospora cytisporioides Ellis & Barthol. SPECIES
-=======
+# Stagonospora cytisporioides Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

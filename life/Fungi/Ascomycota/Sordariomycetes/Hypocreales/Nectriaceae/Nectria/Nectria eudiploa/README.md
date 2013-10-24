@@ -1,5 +1,4 @@
-Nectria eudiploa Wollenw. SPECIES
-=======
+# Nectria eudiploa Wollenw. SPECIES
 
 #### Status
 ACCEPTED

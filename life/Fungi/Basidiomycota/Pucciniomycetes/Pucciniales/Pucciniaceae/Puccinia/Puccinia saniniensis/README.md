@@ -1,5 +1,4 @@
-Puccinia saniniensis Magnus SPECIES
-=======
+# Puccinia saniniensis Magnus SPECIES
 
 #### Status
 ACCEPTED

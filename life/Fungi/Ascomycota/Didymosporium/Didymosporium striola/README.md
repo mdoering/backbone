@@ -1,5 +1,4 @@
-Didymosporium striola Sacc., 1882 SPECIES
-=======
+# Didymosporium striola Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED

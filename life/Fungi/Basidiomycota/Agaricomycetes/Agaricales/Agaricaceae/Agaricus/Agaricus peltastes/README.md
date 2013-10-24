@@ -1,5 +1,4 @@
-Agaricus peltastes Kalchbr. SPECIES
-=======
+# Agaricus peltastes Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

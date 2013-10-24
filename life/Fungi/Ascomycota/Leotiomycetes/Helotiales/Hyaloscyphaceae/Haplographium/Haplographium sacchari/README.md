@@ -1,5 +1,4 @@
-Haplographium sacchari Speg. SPECIES
-=======
+# Haplographium sacchari Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium byrsonimae Bat. & A.F. Vital SPECIES
-=======
+# Leptothyrium byrsonimae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

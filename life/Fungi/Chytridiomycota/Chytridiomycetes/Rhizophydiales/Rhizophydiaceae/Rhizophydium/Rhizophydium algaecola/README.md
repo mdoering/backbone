@@ -1,5 +1,4 @@
-Rhizophydium algaecola Zopf SPECIES
-=======
+# Rhizophydium algaecola Zopf SPECIES
 
 #### Status
 ACCEPTED

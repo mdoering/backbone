@@ -1,5 +1,4 @@
-Idiomyces peyritschii Thaxt., 1893 SPECIES
-=======
+# Idiomyces peyritschii Thaxt., 1893 SPECIES
 
 #### Status
 ACCEPTED

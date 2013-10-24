@@ -1,5 +1,4 @@
-Ionaspis ochraceella (Nyl.) H. Magn. SPECIES
-=======
+# Ionaspis ochraceella (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

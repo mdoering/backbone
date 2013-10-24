@@ -1,17 +1,16 @@
-Coccocarpia cocccocarpia V. Marcano & A. Morales SPECIES
-=======
+# Coccocarpia culatensis V. Marcano & A. Morales SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Marcano, Morales Méndez, Mohali, Galiz & Palacios, Trop. Bryol. 10: 219 (1995)
 
 #### Original name
-Coccocarpia cocccocarpia V. Marcano & A. Morales
+Coccocarpia culatensis V. Marcano & A. Morales
 
 ### Remarks
 null

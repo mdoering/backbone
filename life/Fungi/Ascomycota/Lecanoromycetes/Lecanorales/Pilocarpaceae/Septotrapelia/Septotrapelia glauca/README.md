@@ -1,5 +1,4 @@
-Septotrapelia glauca Aptroot & Chaves SPECIES
-=======
+# Septotrapelia glauca Aptroot & Chaves SPECIES
 
 #### Status
 ACCEPTED

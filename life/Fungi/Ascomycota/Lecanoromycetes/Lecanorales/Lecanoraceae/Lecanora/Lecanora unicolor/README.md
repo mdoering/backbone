@@ -1,5 +1,4 @@
-Lecanora unicolor Sommerf. SPECIES
-=======
+# Lecanora unicolor Sommerf. SPECIES
 
 #### Status
 ACCEPTED

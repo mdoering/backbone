@@ -1,5 +1,4 @@
-Phyllosticta tagana (Thüm.) Tassi SPECIES
-=======
+# Phyllosticta tagana (Thüm.) Tassi SPECIES
 
 #### Status
 ACCEPTED

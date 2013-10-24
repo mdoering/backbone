@@ -1,5 +1,4 @@
-Chroococcus minutissimus Gardner SPECIES
-=======
+# Chroococcus minutissimus Gardner SPECIES
 
 #### Status
 ACCEPTED

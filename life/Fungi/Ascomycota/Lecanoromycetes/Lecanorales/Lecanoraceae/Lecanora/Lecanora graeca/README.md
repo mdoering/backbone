@@ -1,5 +1,4 @@
-Lecanora graeca J. Steiner SPECIES
-=======
+# Lecanora graeca J. Steiner SPECIES
 
 #### Status
 ACCEPTED

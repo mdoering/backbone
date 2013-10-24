@@ -1,5 +1,4 @@
-Puccinia anisacanthi Dietel & Holw. SPECIES
-=======
+# Puccinia anisacanthi Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

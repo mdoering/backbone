@@ -1,5 +1,4 @@
-Ceriomyces incomptus Sacc. SPECIES
-=======
+# Ceriomyces incomptus Sacc. SPECIES
 
 #### Status
 ACCEPTED

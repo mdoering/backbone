@@ -1,5 +1,4 @@
-Trichoglossum gracile Pat. SPECIES
-=======
+# Trichoglossum gracile Pat. SPECIES
 
 #### Status
 ACCEPTED

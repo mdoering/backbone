@@ -1,5 +1,4 @@
-Actinocyclus curvatulus Janisch, 1874 SPECIES
-=======
+# Actinocyclus curvatulus Janisch, 1874 SPECIES
 
 #### Status
 ACCEPTED

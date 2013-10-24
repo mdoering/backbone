@@ -1,14 +1,13 @@
-Caloderma echinatum Petri, 1900 SPECIES
-=======
+# Scleroderma echinatum (Petri) Guzmán, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Malpighia 14: 136 (1900)
+null
 
 #### Original name
 Caloderma echinatum Petri, 1900

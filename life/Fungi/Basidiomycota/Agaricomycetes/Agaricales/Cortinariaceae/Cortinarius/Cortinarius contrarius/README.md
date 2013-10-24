@@ -1,5 +1,4 @@
-Cortinarius contrarius E. Horak SPECIES
-=======
+# Cortinarius contrarius E. Horak SPECIES
 
 #### Status
 ACCEPTED

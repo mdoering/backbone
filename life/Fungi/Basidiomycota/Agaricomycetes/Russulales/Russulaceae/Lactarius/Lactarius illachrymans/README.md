@@ -1,5 +1,4 @@
-Lactarius illachrymans Berk. & Ravenel SPECIES
-=======
+# Lactarius illachrymans Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

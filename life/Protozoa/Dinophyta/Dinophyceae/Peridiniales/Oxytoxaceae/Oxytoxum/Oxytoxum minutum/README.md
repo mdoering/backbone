@@ -1,5 +1,4 @@
-Oxytoxum minutum Rampi SPECIES
-=======
+# Oxytoxum minutum Rampi SPECIES
 
 #### Status
 ACCEPTED

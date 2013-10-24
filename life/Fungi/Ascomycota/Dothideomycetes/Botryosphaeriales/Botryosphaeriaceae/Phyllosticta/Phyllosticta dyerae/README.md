@@ -1,5 +1,4 @@
-Phyllosticta dyerae Punith. & P.H. Wong SPECIES
-=======
+# Phyllosticta dyerae Punith. & P.H. Wong SPECIES
 
 #### Status
 ACCEPTED

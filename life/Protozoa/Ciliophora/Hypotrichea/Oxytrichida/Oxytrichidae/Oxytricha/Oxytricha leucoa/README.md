@@ -1,5 +1,4 @@
-Oxytricha leucoa SPECIES
-=======
+# Oxytricha leucoa SPECIES
 
 #### Status
 ACCEPTED

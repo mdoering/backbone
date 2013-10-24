@@ -1,5 +1,4 @@
-Aecidium teodorescui Savul. & O. Savul. SPECIES
-=======
+# Aecidium teodorescui Savul. & O. Savul. SPECIES
 
 #### Status
 ACCEPTED

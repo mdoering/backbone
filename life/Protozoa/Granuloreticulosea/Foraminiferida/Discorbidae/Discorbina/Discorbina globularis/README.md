@@ -1,5 +1,4 @@
-Discorbina globularis Karrer, 1877 SPECIES
-=======
+# Discorbina globularis Karrer, 1877 SPECIES
 
 #### Status
 ACCEPTED

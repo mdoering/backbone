@@ -1,5 +1,4 @@
-Brachysporium coryneoideum (De Not.) Sacc. SPECIES
-=======
+# Brachysporium coryneoideum (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

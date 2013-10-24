@@ -1,5 +1,4 @@
-Monochaetia indica Mandahar SPECIES
-=======
+# Monochaetia indica Mandahar SPECIES
 
 #### Status
 ACCEPTED

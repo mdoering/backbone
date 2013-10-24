@@ -1,5 +1,4 @@
-Periconia elegans (Penz. & Sacc.) S. Hughes SPECIES
-=======
+# Periconia elegans (Penz. & Sacc.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

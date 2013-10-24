@@ -1,5 +1,4 @@
-Phoma taxicola Oudem. SPECIES
-=======
+# Phoma taxicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

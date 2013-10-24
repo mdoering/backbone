@@ -1,5 +1,4 @@
-Puccinia malalhuensis J.C. Lindq. SPECIES
-=======
+# Puccinia malalhuensis J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

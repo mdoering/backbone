@@ -1,5 +1,4 @@
-Patellaria eckfeldtii Müll. Arg. SPECIES
-=======
+# Patellaria eckfeldtii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus sepulchralis Berk. SPECIES
-=======
+# Agaricus sepulchralis Berk. SPECIES
 
 #### Status
 ACCEPTED

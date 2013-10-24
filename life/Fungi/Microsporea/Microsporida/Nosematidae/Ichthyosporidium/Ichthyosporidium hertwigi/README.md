@@ -1,5 +1,4 @@
-Ichthyosporidium hertwigi (Weissenberg, 1911) Swarczewsky, 1914 SPECIES
-=======
+# Ichthyosporidium hertwigi (Weissenberg, 1911) Swarczewsky, 1914 SPECIES
 
 #### Status
 ACCEPTED

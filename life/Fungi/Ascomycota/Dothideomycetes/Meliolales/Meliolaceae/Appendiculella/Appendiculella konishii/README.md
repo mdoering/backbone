@@ -1,5 +1,4 @@
-Appendiculella konishii (W. Yamam.) Hansf. SPECIES
-=======
+# Appendiculella konishii (W. Yamam.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

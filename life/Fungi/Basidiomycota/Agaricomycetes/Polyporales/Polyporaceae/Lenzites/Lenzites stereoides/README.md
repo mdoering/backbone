@@ -1,5 +1,4 @@
-Lenzites stereoides (Fr.) Ryvarden, 1972 SPECIES
-=======
+# Lenzites stereoides (Fr.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED

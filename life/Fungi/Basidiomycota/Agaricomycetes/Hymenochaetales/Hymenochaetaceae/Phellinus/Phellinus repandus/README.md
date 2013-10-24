@@ -1,14 +1,13 @@
-Fomes repandus Overh., 1952 SPECIES
-=======
+# Phellinus repandus (Overh.) Gilb., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 44(2): 224 (1952)
+Mycopath. Mycol. appl. 46: 357 (1972)
 
 #### Original name
 Fomes repandus Overh., 1952

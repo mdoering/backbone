@@ -1,5 +1,4 @@
-Rinodina reagens Matzer & H. Mayrhofer SPECIES
-=======
+# Rinodina reagens Matzer & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

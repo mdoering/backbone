@@ -1,5 +1,4 @@
-Diachea synspora H.Z. Li, 1988 SPECIES
-=======
+# Diachea synspora H.Z. Li, 1988 SPECIES
 
 #### Status
 ACCEPTED

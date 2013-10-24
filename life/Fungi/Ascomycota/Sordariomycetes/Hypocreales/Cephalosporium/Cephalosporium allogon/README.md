@@ -1,5 +1,4 @@
-Cephalosporium allogon Preuss SPECIES
-=======
+# Cephalosporium allogon Preuss SPECIES
 
 #### Status
 ACCEPTED

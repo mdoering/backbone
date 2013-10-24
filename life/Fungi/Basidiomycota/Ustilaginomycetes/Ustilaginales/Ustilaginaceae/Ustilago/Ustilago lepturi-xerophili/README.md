@@ -1,5 +1,4 @@
-Ustilago lepturi-xerophili Vánky SPECIES
-=======
+# Ustilago lepturi-xerophili Vánky SPECIES
 
 #### Status
 ACCEPTED

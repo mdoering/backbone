@@ -1,5 +1,4 @@
-Laboulbenia bolamae Speg. SPECIES
-=======
+# Laboulbenia bolamae Speg. SPECIES
 
 #### Status
 ACCEPTED

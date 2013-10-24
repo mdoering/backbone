@@ -1,5 +1,4 @@
-Dothichiza litoralis Petr. SPECIES
-=======
+# Dothichiza litoralis Petr. SPECIES
 
 #### Status
 ACCEPTED

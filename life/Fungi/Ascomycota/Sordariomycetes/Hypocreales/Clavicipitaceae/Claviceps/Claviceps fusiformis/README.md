@@ -1,5 +1,4 @@
-Claviceps fusiformis Loveless, 1967 SPECIES
-=======
+# Claviceps fusiformis Loveless, 1967 SPECIES
 
 #### Status
 ACCEPTED

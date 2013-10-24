@@ -1,5 +1,4 @@
-Phacidium latebrosum Quél. SPECIES
-=======
+# Phacidium latebrosum Quél. SPECIES
 
 #### Status
 ACCEPTED

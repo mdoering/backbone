@@ -1,5 +1,4 @@
-Puccinia paraphysaria R.G. Bagn. SPECIES
-=======
+# Puccinia paraphysaria R.G. Bagn. SPECIES
 
 #### Status
 ACCEPTED

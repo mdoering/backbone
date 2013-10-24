@@ -1,5 +1,4 @@
-Boletus scabripes Peck SPECIES
-=======
+# Boletus scabripes Peck SPECIES
 
 #### Status
 ACCEPTED

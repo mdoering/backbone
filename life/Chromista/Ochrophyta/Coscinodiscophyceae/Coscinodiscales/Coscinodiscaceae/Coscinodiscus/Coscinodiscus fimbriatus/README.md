@@ -1,5 +1,4 @@
-Coscinodiscus fimbriatus Ehrenb., 1844 SPECIES
-=======
+# Coscinodiscus fimbriatus Ehrenb., 1844 SPECIES
 
 #### Status
 ACCEPTED

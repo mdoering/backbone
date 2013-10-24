@@ -1,5 +1,4 @@
-Zeora gibbosa (Ach.) Flot. SPECIES
-=======
+# Zeora gibbosa (Ach.) Flot. SPECIES
 
 #### Status
 ACCEPTED

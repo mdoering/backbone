@@ -1,5 +1,4 @@
-Goniochloris Geitler, 1928 GENUS
-=======
+# Goniochloris Geitler, 1928 GENUS
 
 #### Status
 ACCEPTED

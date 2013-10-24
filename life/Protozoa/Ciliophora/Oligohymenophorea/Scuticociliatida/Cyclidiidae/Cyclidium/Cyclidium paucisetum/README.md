@@ -1,5 +1,4 @@
-Cyclidium paucisetum Lepsi, 1926 SPECIES
-=======
+# Cyclidium paucisetum Lepsi, 1926 SPECIES
 
 #### Status
 ACCEPTED

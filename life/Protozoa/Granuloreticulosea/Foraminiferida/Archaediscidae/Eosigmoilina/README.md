@@ -1,5 +1,4 @@
-Eosigmoilina Ganelina, 1956 GENUS
-=======
+# Eosigmoilina Ganelina, 1956 GENUS
 
 #### Status
 ACCEPTED

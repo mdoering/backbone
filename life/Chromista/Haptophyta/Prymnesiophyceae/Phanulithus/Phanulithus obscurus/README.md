@@ -1,5 +1,4 @@
-Phanulithus obscurus (Deflandre) F.H. Wind & S.W. Wise SPECIES
-=======
+# Phanulithus obscurus (Deflandre) F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella pisum (O.F. Müll.) J.F. Gmel. SPECIES
-=======
+# Tremella pisum (O.F. Müll.) J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

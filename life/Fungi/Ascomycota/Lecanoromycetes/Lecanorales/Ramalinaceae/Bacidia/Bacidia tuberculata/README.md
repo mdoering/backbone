@@ -1,5 +1,4 @@
-Bacidia tuberculata Darb. SPECIES
-=======
+# Bacidia tuberculata Darb. SPECIES
 
 #### Status
 ACCEPTED

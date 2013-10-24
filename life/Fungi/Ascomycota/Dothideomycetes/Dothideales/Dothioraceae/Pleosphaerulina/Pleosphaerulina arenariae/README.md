@@ -1,5 +1,4 @@
-Pleosphaerulina arenariae Lobik SPECIES
-=======
+# Pleosphaerulina arenariae Lobik SPECIES
 
 #### Status
 ACCEPTED

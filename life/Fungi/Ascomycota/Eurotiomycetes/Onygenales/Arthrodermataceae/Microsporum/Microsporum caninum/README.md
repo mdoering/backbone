@@ -1,5 +1,4 @@
-Microsporum caninum Sabour. SPECIES
-=======
+# Microsporum caninum Sabour. SPECIES
 
 #### Status
 ACCEPTED

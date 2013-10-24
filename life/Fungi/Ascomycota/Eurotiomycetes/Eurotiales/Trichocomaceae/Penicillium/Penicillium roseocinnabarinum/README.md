@@ -1,5 +1,4 @@
-Penicillium roseocinnabarinum Biourge SPECIES
-=======
+# Penicillium roseocinnabarinum Biourge SPECIES
 
 #### Status
 ACCEPTED

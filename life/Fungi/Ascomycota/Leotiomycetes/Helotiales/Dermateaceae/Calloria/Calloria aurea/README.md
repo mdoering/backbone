@@ -1,5 +1,4 @@
-Calloria aurea (Ellis) Sacc. SPECIES
-=======
+# Calloria aurea (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

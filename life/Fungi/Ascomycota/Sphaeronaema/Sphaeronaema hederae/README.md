@@ -1,5 +1,4 @@
-Sphaeronaema hederae Fuckel SPECIES
-=======
+# Sphaeronaema hederae Fuckel SPECIES
 
 #### Status
 ACCEPTED

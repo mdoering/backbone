@@ -1,5 +1,4 @@
-Leptosphaeria consobrina P. Karst. SPECIES
-=======
+# Leptosphaeria consobrina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

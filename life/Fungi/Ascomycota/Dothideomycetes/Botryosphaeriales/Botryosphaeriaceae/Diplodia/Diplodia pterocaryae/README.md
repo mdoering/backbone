@@ -1,5 +1,4 @@
-Diplodia pterocaryae Gucevic SPECIES
-=======
+# Diplodia pterocaryae Gucevic SPECIES
 
 #### Status
 ACCEPTED

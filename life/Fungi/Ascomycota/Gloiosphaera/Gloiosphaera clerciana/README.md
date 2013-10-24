@@ -1,5 +1,4 @@
-Gloiosphaera clerciana (Boud.) Höhn. SPECIES
-=======
+# Gloiosphaera clerciana (Boud.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

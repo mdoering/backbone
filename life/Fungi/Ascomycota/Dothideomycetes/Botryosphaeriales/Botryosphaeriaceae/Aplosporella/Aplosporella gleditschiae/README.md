@@ -1,5 +1,4 @@
-Aplosporella gleditschiae Grove SPECIES
-=======
+# Aplosporella gleditschiae Grove SPECIES
 
 #### Status
 ACCEPTED

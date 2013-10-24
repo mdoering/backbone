@@ -1,5 +1,4 @@
-Entoloma pumanquense (Singer) E. Horak SPECIES
-=======
+# Entoloma pumanquense (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

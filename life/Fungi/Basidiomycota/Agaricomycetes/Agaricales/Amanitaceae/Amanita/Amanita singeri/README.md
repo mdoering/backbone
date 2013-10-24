@@ -1,5 +1,4 @@
-Amanita singeri Bas, 1969 SPECIES
-=======
+# Amanita singeri Bas, 1969 SPECIES
 
 #### Status
 ACCEPTED

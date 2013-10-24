@@ -1,5 +1,4 @@
-Entyloma fischeri Thüm. SPECIES
-=======
+# Entyloma fischeri Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella acinosa subsp. acinosa SUBSPECIES
-=======
+# Vorticella acinosa Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

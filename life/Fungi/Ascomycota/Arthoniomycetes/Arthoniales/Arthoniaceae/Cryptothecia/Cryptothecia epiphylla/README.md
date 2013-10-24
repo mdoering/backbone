@@ -1,5 +1,4 @@
-Cryptothecia epiphylla R. Sant. SPECIES
-=======
+# Cryptothecia epiphylla R. Sant. SPECIES
 
 #### Status
 ACCEPTED

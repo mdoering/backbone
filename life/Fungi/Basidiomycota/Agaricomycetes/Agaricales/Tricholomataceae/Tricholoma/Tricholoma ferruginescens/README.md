@@ -1,5 +1,4 @@
-Tricholoma ferruginescens (Murrill) Murrill SPECIES
-=======
+# Tricholoma ferruginescens (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

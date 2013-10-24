@@ -1,5 +1,4 @@
-Nannoconus dolomiticus Cita & Pasquare, 1959 SPECIES
-=======
+# Nannoconus dolomiticus Cita & Pasquare, 1959 SPECIES
 
 #### Status
 ACCEPTED

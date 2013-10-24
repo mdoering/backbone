@@ -1,5 +1,4 @@
-Archaeodiscina bicostata Volkova in Volkova et al., 1979 SPECIES
-=======
+# Archaeodiscina bicostata Volkova in Volkova et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

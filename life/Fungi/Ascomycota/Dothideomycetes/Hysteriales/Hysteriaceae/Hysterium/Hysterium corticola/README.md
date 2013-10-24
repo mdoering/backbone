@@ -1,5 +1,4 @@
-Hysterium corticola Hazsl. SPECIES
-=======
+# Hysterium corticola Hazsl. SPECIES
 
 #### Status
 ACCEPTED

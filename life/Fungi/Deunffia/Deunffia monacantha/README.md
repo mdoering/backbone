@@ -1,5 +1,4 @@
-Deunffia monacantha (Deunff, 1951) Downie, 1960 SPECIES
-=======
+# Deunffia monacantha (Deunff, 1951) Downie, 1960 SPECIES
 
 #### Status
 ACCEPTED

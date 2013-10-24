@@ -1,5 +1,4 @@
-Graphina vestita M. Nakan., Kashiw. & K.H. Moon SPECIES
-=======
+# Graphina vestita M. Nakan., Kashiw. & K.H. Moon SPECIES
 
 #### Status
 ACCEPTED

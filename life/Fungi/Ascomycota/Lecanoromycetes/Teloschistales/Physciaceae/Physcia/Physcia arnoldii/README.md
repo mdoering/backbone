@@ -1,5 +1,4 @@
-Physcia arnoldii (Wedd.) Arnold SPECIES
-=======
+# Physcia arnoldii (Wedd.) Arnold SPECIES
 
 #### Status
 ACCEPTED

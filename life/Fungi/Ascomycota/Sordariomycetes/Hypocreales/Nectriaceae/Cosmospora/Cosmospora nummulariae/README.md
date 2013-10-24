@@ -1,5 +1,4 @@
-Cosmospora nummulariae (Teng) W.Y. Zhuang & X.M. Zhang SPECIES
-=======
+# Cosmospora nummulariae (Teng) W.Y. Zhuang & X.M. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascophora stercorea (Tode) Corda SPECIES
-=======
+# Ascophora stercorea (Tode) Corda SPECIES
 
 #### Status
 ACCEPTED

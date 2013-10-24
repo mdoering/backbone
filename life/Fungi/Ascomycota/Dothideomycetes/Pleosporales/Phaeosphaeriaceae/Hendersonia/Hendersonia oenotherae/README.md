@@ -1,5 +1,4 @@
-Hendersonia oenotherae Hollós SPECIES
-=======
+# Hendersonia oenotherae Hollós SPECIES
 
 #### Status
 ACCEPTED

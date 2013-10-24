@@ -1,5 +1,4 @@
-Pavlova calceolata Veer SPECIES
-=======
+# Pavlova calceolata Veer SPECIES
 
 #### Status
 ACCEPTED

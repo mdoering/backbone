@@ -1,5 +1,4 @@
-Hypochnus papyraceus Schleich. SPECIES
-=======
+# Hypochnus papyraceus Schleich. SPECIES
 
 #### Status
 ACCEPTED

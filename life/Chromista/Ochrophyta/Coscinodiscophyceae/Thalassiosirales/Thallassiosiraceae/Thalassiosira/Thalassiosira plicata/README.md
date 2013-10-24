@@ -1,5 +1,4 @@
-Thalassiosira plicata H. J. Schrader SPECIES
-=======
+# Thalassiosira plicata H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

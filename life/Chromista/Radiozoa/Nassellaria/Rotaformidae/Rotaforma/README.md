@@ -1,5 +1,4 @@
-Rotaforma Pessagno, 1970 GENUS
-=======
+# Rotaforma Pessagno, 1970 GENUS
 
 #### Status
 ACCEPTED

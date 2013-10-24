@@ -1,5 +1,4 @@
-Rhabdospora baculum (Sacc.) Grove SPECIES
-=======
+# Rhabdospora baculum (Sacc.) Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platycarpa boliviensis Couch, 1949 SPECIES
-=======
+# Platycarpa boliviensis Couch, 1949 SPECIES
 
 #### Status
 ACCEPTED

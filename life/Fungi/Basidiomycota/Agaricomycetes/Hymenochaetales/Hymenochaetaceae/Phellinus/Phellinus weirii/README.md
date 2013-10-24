@@ -1,14 +1,13 @@
-Poria weirii (Murrill) Murrill, 1914 SPECIES
-=======
+# Phellinus weirii (Murrill) Gilb., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 6(2): 94 (1914)
+Fungi dec. Pond. Pine 170 (1974)
 
 #### Original name
 Fomitiporia weirii Murrill, 1914

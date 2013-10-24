@@ -1,5 +1,4 @@
-Coronotruncana Korchagin, 1993 GENUS
-=======
+# Coronotruncana Korchagin, 1993 GENUS
 
 #### Status
 ACCEPTED

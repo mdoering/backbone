@@ -1,5 +1,4 @@
-Rhytisma concentricum Berk. & M.A. Curtis SPECIES
-=======
+# Rhytisma concentricum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo calamagrostidis-emodensis S.X. Wei SPECIES
-=======
+# Uredo calamagrostidis-emodensis S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

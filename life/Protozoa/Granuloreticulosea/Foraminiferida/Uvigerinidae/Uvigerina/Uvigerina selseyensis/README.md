@@ -1,5 +1,4 @@
-Uvigerina selseyensis Heron-Allen & Earland, 1909 SPECIES
-=======
+# Uvigerina selseyensis Heron-Allen & Earland, 1909 SPECIES
 
 #### Status
 ACCEPTED

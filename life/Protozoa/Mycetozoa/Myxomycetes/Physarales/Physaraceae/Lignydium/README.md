@@ -1,5 +1,4 @@
-Lignydium GENUS
-=======
+# Lignydium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium velanum var. velanum VARIETY
-=======
+# Placodium velanum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acarospora velana A. Massal.
+null
 
 ### Remarks
 null

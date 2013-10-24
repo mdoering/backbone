@@ -1,5 +1,4 @@
-Coprinus cardiasporus Bender SPECIES
-=======
+# Coprinus cardiasporus Bender SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periconia pusaethae Höhn. SPECIES
-=======
+# Periconia pusaethae Höhn. SPECIES
 
 #### Status
 ACCEPTED

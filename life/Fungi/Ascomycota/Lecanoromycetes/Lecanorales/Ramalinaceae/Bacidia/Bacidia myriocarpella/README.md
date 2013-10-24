@@ -1,5 +1,4 @@
-Bacidia myriocarpella var. myriocarpella VARIETY
-=======
+# Bacidia myriocarpella Malme SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bacidia myriocarpella var. myriocarpella
+Bacidia myriocarpella Malme
 
 ### Remarks
 null

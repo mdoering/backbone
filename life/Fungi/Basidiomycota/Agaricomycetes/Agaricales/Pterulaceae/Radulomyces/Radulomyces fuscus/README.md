@@ -1,14 +1,13 @@
-Serpula fusca (Lloyd) W.B. Cooke, 1957 SPECIES
-=======
+# Radulomyces fuscus (Lloyd) Ginns, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 49(2): 218 (1957)
+Can. J. Bot. 54(1-2): 131 (1976)
 
 #### Original name
 Merulius fuscus Lloyd, 1925

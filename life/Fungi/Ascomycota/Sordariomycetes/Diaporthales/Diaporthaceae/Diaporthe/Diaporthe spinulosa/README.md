@@ -1,5 +1,4 @@
-Diaporthe spinulosa P. Karst. SPECIES
-=======
+# Diaporthe spinulosa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphistegina lessoni D'Orbigny SPECIES
-=======
+# Amphistegina lessoni D'Orbigny SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cercospora tupae Speg., 1910 SPECIES
-=======
+# Pseudoasperisporium tupae (Speg.) U. Braun, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Fac. Agron. Univ. nac. La Plata 6(1): 187 (1910)
+Schlechtendalia 5: 72 (2000)
 
 #### Original name
 Cercospora tupae Speg., 1910

@@ -1,5 +1,4 @@
-Stenocephalum Chamuris & C.J.K. Wang, 1990 GENUS
-=======
+# Stenocephalum Chamuris & C.J.K. Wang, 1990 GENUS
 
 #### Status
 ACCEPTED

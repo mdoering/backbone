@@ -1,5 +1,4 @@
-Cryptosporium acerinum Bres. SPECIES
-=======
+# Cryptosporium acerinum Bres. SPECIES
 
 #### Status
 ACCEPTED

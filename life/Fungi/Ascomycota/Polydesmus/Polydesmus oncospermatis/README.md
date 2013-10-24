@@ -1,17 +1,16 @@
-Polydesmus oncosperme Subram. SPECIES
-=======
+# Polydesmus oncospermatis Subram. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 22/23: 70 (1996)
 
 #### Original name
-Polydesmus oncosperme Subram.
+Polydesmus oncospermatis Subram.
 
 ### Remarks
 null

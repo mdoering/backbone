@@ -1,5 +1,4 @@
-Tricholomopsis nigrosquamosa P.G. Liu SPECIES
-=======
+# Tricholomopsis nigrosquamosa P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

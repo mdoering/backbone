@@ -1,5 +1,4 @@
-Puccinia huallagensis Henn. SPECIES
-=======
+# Puccinia huallagensis Henn. SPECIES
 
 #### Status
 ACCEPTED

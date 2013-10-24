@@ -1,14 +1,13 @@
-Cladosporium dendriticum var. orbiculatum (Desm.) Berk., 1860 VARIETY
-=======
+# Fusicladium orbiculatum (Desm.) Thüm., 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Outl. Brit. Fung. (London) 346 (1860)
+Öst. bot. Z. 26: 22 (1876)
 
 #### Original name
 Cladosporium orbiculatum Desm., 1849

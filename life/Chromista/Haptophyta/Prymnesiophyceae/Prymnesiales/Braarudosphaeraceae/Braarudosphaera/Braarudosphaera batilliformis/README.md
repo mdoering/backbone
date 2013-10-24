@@ -1,5 +1,4 @@
-Braarudosphaera batilliformis Troelsen & Quadros, 1971 SPECIES
-=======
+# Braarudosphaera batilliformis Troelsen & Quadros, 1971 SPECIES
 
 #### Status
 ACCEPTED

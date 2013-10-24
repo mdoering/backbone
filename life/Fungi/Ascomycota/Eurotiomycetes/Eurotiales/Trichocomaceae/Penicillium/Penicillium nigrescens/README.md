@@ -1,5 +1,4 @@
-Penicillium nigrescens Jungh. SPECIES
-=======
+# Penicillium nigrescens Jungh. SPECIES
 
 #### Status
 ACCEPTED

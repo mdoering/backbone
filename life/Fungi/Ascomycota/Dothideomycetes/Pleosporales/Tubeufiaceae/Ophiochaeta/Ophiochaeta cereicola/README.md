@@ -1,5 +1,4 @@
-Ophiochaeta cereicola Speg. SPECIES
-=======
+# Ophiochaeta cereicola Speg. SPECIES
 
 #### Status
 ACCEPTED

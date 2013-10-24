@@ -1,5 +1,4 @@
-Synnemaseimatoides K. Matsush. & Matsush. GENUS
-=======
+# Synnemaseimatoides K. Matsush. & Matsush. GENUS
 
 #### Status
 ACCEPTED

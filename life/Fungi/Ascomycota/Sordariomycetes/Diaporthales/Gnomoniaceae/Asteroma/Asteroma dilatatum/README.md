@@ -1,5 +1,4 @@
-Asteroma dilatatum Berk., 1845 SPECIES
-=======
+# Asteroma dilatatum Berk., 1845 SPECIES
 
 #### Status
 ACCEPTED

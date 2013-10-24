@@ -1,5 +1,4 @@
-Gymnodinium wulffii Schiller, 1933 SPECIES
-=======
+# Gymnodinium wulffii Schiller, 1933 SPECIES
 
 #### Status
 ACCEPTED

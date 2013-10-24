@@ -1,5 +1,4 @@
-Parmelia birulae Elenkin SPECIES
-=======
+# Parmelia birulae Elenkin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria nebraskae Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria nebraskae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

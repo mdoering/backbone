@@ -1,5 +1,4 @@
-Stigmatomyces proliferans Thaxt. SPECIES
-=======
+# Stigmatomyces proliferans Thaxt. SPECIES
 
 #### Status
 ACCEPTED

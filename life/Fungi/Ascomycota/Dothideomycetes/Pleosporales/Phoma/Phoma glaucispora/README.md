@@ -1,5 +1,4 @@
-Phoma glaucispora (Delacr.) Noordel. & Boerema, 1988 SPECIES
-=======
+# Phoma glaucispora (Delacr.) Noordel. & Boerema, 1988 SPECIES
 
 #### Status
 ACCEPTED

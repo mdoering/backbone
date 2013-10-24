@@ -1,5 +1,4 @@
-Heppia hawaiiensis H. Magn. SPECIES
-=======
+# Heppia hawaiiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

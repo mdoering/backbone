@@ -1,5 +1,4 @@
-Parodiella spegazzinii var. spegazzinii VARIETY
-=======
+# Parodiella spegazzinii SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parodiella spegazzinii var. spegazzinii
+Parodiella spegazzinii
 
 ### Remarks
 null

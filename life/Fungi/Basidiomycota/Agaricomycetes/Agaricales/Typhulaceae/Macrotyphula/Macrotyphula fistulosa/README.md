@@ -1,17 +1,16 @@
-Clavaria contorta var. contorta VARIETY
-=======
+# Macrotyphula fistulosa (Holmsk.) R.H. Petersen, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beata Ruris Otia FUNGIS DANICIS 1: 29 (1790)
+null
 
 #### Original name
-Clavaria contorta var. contorta
+null
 
 ### Remarks
 null

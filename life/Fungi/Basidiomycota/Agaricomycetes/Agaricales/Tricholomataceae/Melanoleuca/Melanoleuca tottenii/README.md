@@ -1,8 +1,7 @@
-Melanoleuca totteni Murrill SPECIES
-=======
+# Melanoleuca tottenii Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanoleuca totteni Murrill
+Melanoleuca tottenii Murrill
 
 ### Remarks
 null

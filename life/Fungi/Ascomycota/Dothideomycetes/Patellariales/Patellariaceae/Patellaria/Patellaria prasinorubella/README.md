@@ -1,5 +1,4 @@
-Patellaria prasinorubella (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria prasinorubella (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

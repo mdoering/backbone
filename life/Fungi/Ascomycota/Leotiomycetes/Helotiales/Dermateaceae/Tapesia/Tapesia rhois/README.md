@@ -1,5 +1,4 @@
-Tapesia rhois Fairm. SPECIES
-=======
+# Tapesia rhois Fairm. SPECIES
 
 #### Status
 ACCEPTED

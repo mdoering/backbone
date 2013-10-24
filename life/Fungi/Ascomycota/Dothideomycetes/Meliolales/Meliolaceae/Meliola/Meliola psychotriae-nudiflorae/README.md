@@ -1,5 +1,4 @@
-Meliola psychotriae-nudiflorae Hosag. SPECIES
-=======
+# Meliola psychotriae-nudiflorae Hosag. SPECIES
 
 #### Status
 ACCEPTED

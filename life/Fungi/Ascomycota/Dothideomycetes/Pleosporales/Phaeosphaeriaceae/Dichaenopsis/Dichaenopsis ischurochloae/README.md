@@ -1,5 +1,4 @@
-Dichaenopsis ischurochloae Sawada SPECIES
-=======
+# Dichaenopsis ischurochloae Sawada SPECIES
 
 #### Status
 ACCEPTED

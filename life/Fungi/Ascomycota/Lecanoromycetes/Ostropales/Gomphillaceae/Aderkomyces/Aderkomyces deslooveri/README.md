@@ -1,5 +1,4 @@
-Aderkomyces deslooveri (Sérus.) Lücking, Sérus. & Vezda SPECIES
-=======
+# Aderkomyces deslooveri (Sérus.) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

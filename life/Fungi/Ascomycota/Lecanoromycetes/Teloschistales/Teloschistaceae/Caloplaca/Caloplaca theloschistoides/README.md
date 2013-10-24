@@ -1,5 +1,4 @@
-Caloplaca theloschistoides Zahlbr. SPECIES
-=======
+# Caloplaca theloschistoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta lageniformis Rangel SPECIES
-=======
+# Phyllosticta lageniformis Rangel SPECIES
 
 #### Status
 ACCEPTED

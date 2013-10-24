@@ -1,5 +1,4 @@
-Fusicoccum jatrophae Syd. SPECIES
-=======
+# Fusicoccum jatrophae Syd. SPECIES
 
 #### Status
 ACCEPTED

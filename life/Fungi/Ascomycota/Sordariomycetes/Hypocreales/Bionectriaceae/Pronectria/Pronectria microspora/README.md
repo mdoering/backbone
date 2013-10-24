@@ -1,5 +1,4 @@
-Pronectria microspora Etayo SPECIES
-=======
+# Pronectria microspora Etayo SPECIES
 
 #### Status
 ACCEPTED

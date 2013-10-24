@@ -1,5 +1,4 @@
-Pachyella pseudosuccosa (Le Gal) Pfister SPECIES
-=======
+# Pachyella pseudosuccosa (Le Gal) Pfister SPECIES
 
 #### Status
 ACCEPTED

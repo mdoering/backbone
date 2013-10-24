@@ -1,5 +1,4 @@
-Macrosporium agaves Sawada SPECIES
-=======
+# Macrosporium agaves Sawada SPECIES
 
 #### Status
 ACCEPTED

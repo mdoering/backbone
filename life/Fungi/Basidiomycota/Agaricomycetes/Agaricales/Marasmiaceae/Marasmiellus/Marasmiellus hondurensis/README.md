@@ -1,5 +1,4 @@
-Marasmiellus hondurensis (Murrill) Singer SPECIES
-=======
+# Marasmiellus hondurensis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

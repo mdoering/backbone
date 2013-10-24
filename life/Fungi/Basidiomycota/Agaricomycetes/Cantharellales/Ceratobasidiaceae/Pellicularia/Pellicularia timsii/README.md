@@ -1,5 +1,4 @@
-Pellicularia timsii Exner SPECIES
-=======
+# Pellicularia timsii Exner SPECIES
 
 #### Status
 ACCEPTED

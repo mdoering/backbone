@@ -1,5 +1,4 @@
-Microdiplodia mycophaga Petr. SPECIES
-=======
+# Microdiplodia mycophaga Petr. SPECIES
 
 #### Status
 ACCEPTED

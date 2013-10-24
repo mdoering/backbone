@@ -1,5 +1,4 @@
-Dibotryon spiraeae (Murashk.) Petr. SPECIES
-=======
+# Dibotryon spiraeae (Murashk.) Petr. SPECIES
 
 #### Status
 ACCEPTED

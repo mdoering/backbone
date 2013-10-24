@@ -1,5 +1,4 @@
-Verrucaria omblensis (Servít) Servít SPECIES
-=======
+# Verrucaria omblensis (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

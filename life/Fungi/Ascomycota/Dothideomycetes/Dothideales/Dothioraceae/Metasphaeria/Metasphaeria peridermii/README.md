@@ -1,5 +1,4 @@
-Metasphaeria peridermii Pass. SPECIES
-=======
+# Metasphaeria peridermii Pass. SPECIES
 
 #### Status
 ACCEPTED

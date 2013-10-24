@@ -1,5 +1,4 @@
-Lecidea aglaeiza Nyl. SPECIES
-=======
+# Lecidea aglaeiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

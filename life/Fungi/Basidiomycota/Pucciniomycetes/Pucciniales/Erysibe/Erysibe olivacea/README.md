@@ -1,5 +1,4 @@
-Erysibe olivacea Wallr. SPECIES
-=======
+# Erysibe olivacea Wallr. SPECIES
 
 #### Status
 ACCEPTED

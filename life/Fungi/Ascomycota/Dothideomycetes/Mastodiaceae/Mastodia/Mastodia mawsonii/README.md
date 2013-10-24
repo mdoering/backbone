@@ -1,17 +1,16 @@
-Mastodia mawsoni C.W. Dodge SPECIES
-=======
+# Mastodia mawsonii C.W. Dodge, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 57 (1948)
 
 #### Original name
-Mastodia mawsoni C.W. Dodge
+Mastodia mawsonii C.W. Dodge, 1948
 
 ### Remarks
 null

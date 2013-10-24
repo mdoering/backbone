@@ -1,5 +1,4 @@
-Phacidium fimbriatum J.C. Schmidt SPECIES
-=======
+# Phacidium fimbriatum J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

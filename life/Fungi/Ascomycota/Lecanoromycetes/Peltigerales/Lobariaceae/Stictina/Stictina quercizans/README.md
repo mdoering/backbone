@@ -1,5 +1,4 @@
-Stictina quercizans var. quercizans VARIETY
-=======
+# Stictina quercizans SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stictina quercizans var. quercizans
+null
 
 ### Remarks
 null

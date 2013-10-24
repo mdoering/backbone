@@ -1,5 +1,4 @@
-Puccinia dichromenae H.S. Jacks. SPECIES
-=======
+# Puccinia dichromenae H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

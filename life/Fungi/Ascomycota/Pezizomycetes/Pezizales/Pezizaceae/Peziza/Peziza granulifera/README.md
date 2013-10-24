@@ -1,5 +1,4 @@
-Peziza granulifera Schumach. SPECIES
-=======
+# Peziza granulifera Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achorion hominis Szathmáry SPECIES
-=======
+# Achorion hominis Szathmáry SPECIES
 
 #### Status
 ACCEPTED

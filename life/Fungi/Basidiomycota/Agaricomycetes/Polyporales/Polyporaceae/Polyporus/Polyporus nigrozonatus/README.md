@@ -1,5 +1,4 @@
-Polyporus nigrozonatus Saut. SPECIES
-=======
+# Polyporus nigrozonatus Saut. SPECIES
 
 #### Status
 ACCEPTED

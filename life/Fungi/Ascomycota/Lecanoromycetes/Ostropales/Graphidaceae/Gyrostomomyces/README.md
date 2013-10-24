@@ -1,5 +1,4 @@
-Gyrostomomyces GENUS
-=======
+# Gyrostomomyces GENUS
 
 #### Status
 ACCEPTED

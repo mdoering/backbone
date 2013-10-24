@@ -1,5 +1,4 @@
-Arthrobotryum noz-moscatae Bat. & J. Silva SPECIES
-=======
+# Arthrobotryum noz-moscatae Bat. & J. Silva SPECIES
 
 #### Status
 ACCEPTED

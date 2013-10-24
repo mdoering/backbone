@@ -1,5 +1,4 @@
-Haematomma A. Massal. GENUS
-=======
+# Haematomma A. Massal. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mitrorhizopeltis ciliata Bat. & Cavalc. SPECIES
-=======
+# Mitrorhizopeltis ciliata Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

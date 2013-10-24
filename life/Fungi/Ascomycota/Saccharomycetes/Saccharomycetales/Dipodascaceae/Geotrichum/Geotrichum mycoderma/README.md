@@ -1,5 +1,4 @@
-Geotrichum mycoderma (Bonord.) Sacc. SPECIES
-=======
+# Geotrichum mycoderma (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

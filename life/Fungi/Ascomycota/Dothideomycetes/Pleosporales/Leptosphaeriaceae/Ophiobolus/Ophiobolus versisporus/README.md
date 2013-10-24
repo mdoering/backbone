@@ -1,5 +1,4 @@
-Ophiobolus versisporus Ellis & G. Martin SPECIES
-=======
+# Ophiobolus versisporus Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharina longicruris (Bachelot de la Pylaie) Kuntze, 1891 SPECIES
-=======
+# Saccharina longicruris (Bachelot de la Pylaie) Kuntze, 1891 SPECIES
 
 #### Status
 ACCEPTED

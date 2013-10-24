@@ -1,5 +1,4 @@
-Phaeosphaerella marchantiae Henn. SPECIES
-=======
+# Phaeosphaerella marchantiae Henn. SPECIES
 
 #### Status
 ACCEPTED

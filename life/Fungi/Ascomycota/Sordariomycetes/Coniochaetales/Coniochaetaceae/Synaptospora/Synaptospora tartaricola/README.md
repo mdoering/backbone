@@ -1,17 +1,16 @@
-Orbicula tartaricola (Nyl. ex Leight.) Cooke, 1871 SPECIES
-=======
+# Synaptospora tartaricola (Nyl. ex Leight.) Cain, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Sydowia 1: 6 (1957)
 
 #### Original name
-null
+Sphaeria tartaricola Nyl. ex Leight., 1871
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Spiroloculina arenilega Rhumbler, 1909 SPECIES
-=======
+# Spiroloculina arenilega Rhumbler, 1909 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pachybasium pyramidale (Bonord.) Oudem. SPECIES
-=======
+# Pachybasium pyramidale (Bonord.) Oudem. SPECIES
 
 #### Status
 ACCEPTED

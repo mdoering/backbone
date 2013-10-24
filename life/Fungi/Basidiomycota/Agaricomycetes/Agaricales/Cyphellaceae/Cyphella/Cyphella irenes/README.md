@@ -1,5 +1,4 @@
-Cyphella irenes Maire SPECIES
-=======
+# Cyphella irenes Maire SPECIES
 
 #### Status
 ACCEPTED

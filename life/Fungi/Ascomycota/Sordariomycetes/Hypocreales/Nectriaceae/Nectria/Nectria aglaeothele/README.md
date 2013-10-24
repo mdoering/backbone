@@ -1,5 +1,4 @@
-Nectria aglaeothele Berk. & M.A. Curtis SPECIES
-=======
+# Nectria aglaeothele Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

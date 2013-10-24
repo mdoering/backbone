@@ -1,5 +1,4 @@
-Lecanora mendax Ohlert SPECIES
-=======
+# Lecanora mendax Ohlert SPECIES
 
 #### Status
 ACCEPTED

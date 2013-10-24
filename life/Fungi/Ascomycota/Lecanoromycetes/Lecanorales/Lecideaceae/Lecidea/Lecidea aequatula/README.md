@@ -1,5 +1,4 @@
-Lecidea aequatula H. Magn. SPECIES
-=======
+# Lecidea aequatula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

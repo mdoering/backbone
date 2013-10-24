@@ -1,5 +1,4 @@
-Metasphaeria errabunda Feltgen SPECIES
-=======
+# Metasphaeria errabunda Feltgen SPECIES
 
 #### Status
 ACCEPTED

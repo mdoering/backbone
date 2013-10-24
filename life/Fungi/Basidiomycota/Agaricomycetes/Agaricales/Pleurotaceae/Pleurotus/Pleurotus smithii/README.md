@@ -1,5 +1,4 @@
-Pleurotus smithii Guzmán, 1975 SPECIES
-=======
+# Pleurotus smithii Guzmán, 1975 SPECIES
 
 #### Status
 ACCEPTED

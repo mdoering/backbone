@@ -1,5 +1,4 @@
-Exoascus alni de Bary SPECIES
-=======
+# Exoascus alni de Bary SPECIES
 
 #### Status
 ACCEPTED

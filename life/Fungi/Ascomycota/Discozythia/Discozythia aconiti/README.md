@@ -1,5 +1,4 @@
-Discozythia aconiti Petr. SPECIES
-=======
+# Discozythia aconiti Petr. SPECIES
 
 #### Status
 ACCEPTED

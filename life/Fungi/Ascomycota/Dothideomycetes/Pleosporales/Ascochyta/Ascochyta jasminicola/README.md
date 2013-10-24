@@ -1,5 +1,4 @@
-Ascochyta jasminicola Canonaco SPECIES
-=======
+# Ascochyta jasminicola Canonaco SPECIES
 
 #### Status
 ACCEPTED

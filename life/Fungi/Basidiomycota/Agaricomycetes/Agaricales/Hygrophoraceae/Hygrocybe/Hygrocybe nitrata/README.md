@@ -1,17 +1,16 @@
-Hygrophorus nitratus var. nitratus VARIETY
-=======
+# Hygrocybe nitrata (Pers.) Wünsche, 1877 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hymenomyc. eur. (Upsaliae) 421 (1874)
+Die Pilze 112 (1877)
 
 #### Original name
-Hygrophorus nitratus var. nitratus
+Agaricus nitratus Pers., 1801
 
 ### Remarks
 null

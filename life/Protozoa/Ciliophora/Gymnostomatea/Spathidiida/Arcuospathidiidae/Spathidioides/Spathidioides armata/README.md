@@ -1,5 +1,4 @@
-Spathidioides armata Kahl, 1930 SPECIES
-=======
+# Spathidioides armata Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora subtersa H. Magn. SPECIES
-=======
+# Acarospora subtersa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

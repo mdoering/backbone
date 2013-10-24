@@ -1,5 +1,4 @@
-Porina hymenea (Ach.) Röhling SPECIES
-=======
+# Porina hymenea (Ach.) Röhling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina fluviatile Krog & Østh. SPECIES
-=======
+# Ramalina fluviatile Krog & Østh. SPECIES
 
 #### Status
 ACCEPTED

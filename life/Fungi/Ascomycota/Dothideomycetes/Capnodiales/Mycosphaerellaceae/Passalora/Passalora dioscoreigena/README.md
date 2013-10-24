@@ -1,5 +1,4 @@
-Passalora dioscoreigena U. Braun & Crous SPECIES
-=======
+# Passalora dioscoreigena U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium bambusicola M.B. Ellis SPECIES
-=======
+# Sporidesmium bambusicola M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

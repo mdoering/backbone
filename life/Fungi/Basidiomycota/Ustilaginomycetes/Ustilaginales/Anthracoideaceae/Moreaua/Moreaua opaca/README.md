@@ -1,5 +1,4 @@
-Moreaua opaca Vánky, 2002 SPECIES
-=======
+# Moreaua opaca Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

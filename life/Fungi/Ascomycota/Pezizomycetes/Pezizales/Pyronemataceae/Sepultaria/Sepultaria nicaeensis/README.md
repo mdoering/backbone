@@ -1,5 +1,4 @@
-Sepultaria nicaeensis Boud. SPECIES
-=======
+# Sepultaria nicaeensis Boud. SPECIES
 
 #### Status
 ACCEPTED

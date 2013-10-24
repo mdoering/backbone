@@ -1,5 +1,4 @@
-Lionotus muscicola Kahl, 1931 SPECIES
-=======
+# Lionotus muscicola Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

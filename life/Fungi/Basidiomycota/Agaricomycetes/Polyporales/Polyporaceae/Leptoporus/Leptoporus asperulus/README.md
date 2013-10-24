@@ -1,5 +1,4 @@
-Leptoporus asperulus (Har. & Pat.) Pat. SPECIES
-=======
+# Leptoporus asperulus (Har. & Pat.) Pat. SPECIES
 
 #### Status
 ACCEPTED

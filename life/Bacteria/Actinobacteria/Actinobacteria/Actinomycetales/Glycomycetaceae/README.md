@@ -1,5 +1,4 @@
-Glycomycetaceae FAMILY
-=======
+# Glycomycetaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachysporisporites tenuis P. Kumar SPECIES
-=======
+# Brachysporisporites tenuis P. Kumar SPECIES
 
 #### Status
 ACCEPTED

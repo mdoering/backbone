@@ -1,5 +1,4 @@
-Gymnopus squamiger Murrill SPECIES
-=======
+# Gymnopus squamiger Murrill SPECIES
 
 #### Status
 ACCEPTED

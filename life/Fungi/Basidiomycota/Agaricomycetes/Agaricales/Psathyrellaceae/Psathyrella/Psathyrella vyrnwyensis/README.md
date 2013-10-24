@@ -1,5 +1,4 @@
-Psathyrella vyrnwyensis Kits van Wav., 1987 SPECIES
-=======
+# Psathyrella vyrnwyensis Kits van Wav., 1987 SPECIES
 
 #### Status
 ACCEPTED

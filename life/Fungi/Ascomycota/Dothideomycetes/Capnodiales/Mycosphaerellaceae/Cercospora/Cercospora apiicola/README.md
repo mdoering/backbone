@@ -1,5 +1,4 @@
-Cercospora apiicola M. Groenew., Crous & U. Braun SPECIES
-=======
+# Cercospora apiicola M. Groenew., Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

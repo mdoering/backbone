@@ -1,5 +1,4 @@
-Penicillium nayaritensis Paden SPECIES
-=======
+# Penicillium nayaritensis Paden SPECIES
 
 #### Status
 ACCEPTED

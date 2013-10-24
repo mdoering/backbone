@@ -1,5 +1,4 @@
-Pistillaria tenuis (Sowerby) Corner SPECIES
-=======
+# Pistillaria tenuis (Sowerby) Corner SPECIES
 
 #### Status
 ACCEPTED

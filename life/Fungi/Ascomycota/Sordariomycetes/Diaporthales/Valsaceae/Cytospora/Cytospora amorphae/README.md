@@ -1,5 +1,4 @@
-Cytospora amorphae Ellis & Barthol. SPECIES
-=======
+# Cytospora amorphae Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

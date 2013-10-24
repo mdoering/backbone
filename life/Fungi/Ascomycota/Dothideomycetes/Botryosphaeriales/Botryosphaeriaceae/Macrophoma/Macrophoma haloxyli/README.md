@@ -1,5 +1,4 @@
-Macrophoma haloxyli Henn. SPECIES
-=======
+# Macrophoma haloxyli Henn. SPECIES
 
 #### Status
 ACCEPTED

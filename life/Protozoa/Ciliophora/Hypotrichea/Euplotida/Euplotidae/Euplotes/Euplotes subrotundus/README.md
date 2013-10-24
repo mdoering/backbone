@@ -1,5 +1,4 @@
-Euplotes subrotundus Perty, 1852 SPECIES
-=======
+# Euplotes subrotundus Perty, 1852 SPECIES
 
 #### Status
 ACCEPTED

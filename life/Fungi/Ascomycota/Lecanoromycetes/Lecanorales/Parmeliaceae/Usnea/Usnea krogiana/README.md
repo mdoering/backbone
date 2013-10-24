@@ -1,5 +1,4 @@
-Usnea krogiana P. Clerc SPECIES
-=======
+# Usnea krogiana P. Clerc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Robledia Chardón GENUS
-=======
+# Botryostroma Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Dept. Agric. Porto Rico 13: 10 (1929)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 120: 424 (1911)
 
 #### Original name
-Robledia Chardón
+Botryostroma Höhn.
 
 ### Remarks
 null

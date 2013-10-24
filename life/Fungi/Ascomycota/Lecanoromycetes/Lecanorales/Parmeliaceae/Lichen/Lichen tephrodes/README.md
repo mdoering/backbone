@@ -1,5 +1,4 @@
-Lichen tephrodes Ach. SPECIES
-=======
+# Lichen tephrodes Ach. SPECIES
 
 #### Status
 ACCEPTED

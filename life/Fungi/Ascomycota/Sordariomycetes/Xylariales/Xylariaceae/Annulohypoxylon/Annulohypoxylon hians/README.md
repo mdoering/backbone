@@ -1,17 +1,16 @@
-Hypoxylon rostratum Lloyd, 1921 SPECIES
-=======
+# Annulohypoxylon hians (Berk. & Cooke) Y.M. Ju, J.D. Rogers & H.M. Hsieh, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 6: 1052 (1921)
+Mycologia 97(4): 859 (2005)
 
 #### Original name
-Hypoxylon rostratum Lloyd, 1921
+Hypoxylon hians Berk. & Cooke, 1883
 
 ### Remarks
 null

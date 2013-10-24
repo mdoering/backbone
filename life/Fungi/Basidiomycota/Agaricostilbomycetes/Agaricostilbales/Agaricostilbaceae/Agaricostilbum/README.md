@@ -1,5 +1,4 @@
-Agaricostilbum J.E. Wright GENUS
-=======
+# Agaricostilbum J.E. Wright GENUS
 
 #### Status
 ACCEPTED

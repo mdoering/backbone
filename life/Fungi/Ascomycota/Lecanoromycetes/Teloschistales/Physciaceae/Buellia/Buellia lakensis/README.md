@@ -1,5 +1,4 @@
-Buellia lakensis Egan SPECIES
-=======
+# Buellia lakensis Egan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeodimeriella exigua Syd. SPECIES
-=======
+# Phaeodimeriella exigua Syd. SPECIES
 
 #### Status
 ACCEPTED

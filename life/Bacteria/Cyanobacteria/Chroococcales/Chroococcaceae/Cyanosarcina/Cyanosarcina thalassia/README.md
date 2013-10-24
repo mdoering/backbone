@@ -1,5 +1,4 @@
-Cyanosarcina thalassia K. Anagnostidis & A. Pantazidou SPECIES
-=======
+# Cyanosarcina thalassia K. Anagnostidis & A. Pantazidou SPECIES
 
 #### Status
 ACCEPTED

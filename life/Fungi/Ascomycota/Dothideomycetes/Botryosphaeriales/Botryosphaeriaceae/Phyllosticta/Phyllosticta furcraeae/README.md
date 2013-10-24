@@ -1,5 +1,4 @@
-Phyllosticta furcraeae Caball. SPECIES
-=======
+# Phyllosticta furcraeae Caball. SPECIES
 
 #### Status
 ACCEPTED

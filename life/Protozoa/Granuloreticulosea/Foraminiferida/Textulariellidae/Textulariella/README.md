@@ -1,14 +1,13 @@
-Neocuneolina Bermudez & Rivero, 1963 GENUS
-=======
+# Textulariella Cushman, 1927 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Contrib. Cushman Lab. Foraminif. Res. , 3, 24.
 
 #### Original name
 null

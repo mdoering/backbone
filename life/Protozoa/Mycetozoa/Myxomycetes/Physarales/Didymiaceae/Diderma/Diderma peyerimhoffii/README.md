@@ -1,17 +1,16 @@
-Diderma trevelyanii var. nivale Meyl. VARIETY
-=======
+# Diderma peyerimhoffii (Maire & Pinoy) H. Neubert, Nowotny & K. Baumann, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin Soc. Vaud. Sci. Nat. 50: 8 (1914)
+in Neubert, Nowotny, Baumann & Marx, Die Myxomyceten (Gomaringen), Deutschlands und des Angrenzenden Alpenraumes Unter Besonderer Berücksichtigung Österreichs. <b>3</b>. <i>Stemonitales</i> 378 (2000)
 
 #### Original name
-Diderma trevelyanii var. nivale Meyl.
+Lepidoderma peyerimhoffii Maire & Pinoy, 1926
 
 ### Remarks
 null

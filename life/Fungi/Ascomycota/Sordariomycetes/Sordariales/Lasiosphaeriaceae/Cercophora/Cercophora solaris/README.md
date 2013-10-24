@@ -1,5 +1,4 @@
-Cercophora solaris (Cooke & Ellis) R. Hilber & O. Hilber, 1979 SPECIES
-=======
+# Cercophora solaris (Cooke & Ellis) R. Hilber & O. Hilber, 1979 SPECIES
 
 #### Status
 ACCEPTED

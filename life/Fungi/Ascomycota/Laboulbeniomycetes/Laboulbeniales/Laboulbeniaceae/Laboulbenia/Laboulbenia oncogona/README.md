@@ -1,5 +1,4 @@
-Laboulbenia oncogona Speg. SPECIES
-=======
+# Laboulbenia oncogona Speg. SPECIES
 
 #### Status
 ACCEPTED

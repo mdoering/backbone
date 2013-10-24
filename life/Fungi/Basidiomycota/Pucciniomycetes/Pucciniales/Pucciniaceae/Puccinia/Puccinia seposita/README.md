@@ -1,5 +1,4 @@
-Puccinia seposita Cummins SPECIES
-=======
+# Puccinia seposita Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibbera latispora (M.E. Barr) L. Holm SPECIES
-=======
+# Gibbera latispora (M.E. Barr) L. Holm SPECIES
 
 #### Status
 ACCEPTED

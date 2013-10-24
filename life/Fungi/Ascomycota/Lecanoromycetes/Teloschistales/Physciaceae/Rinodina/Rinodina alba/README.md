@@ -1,17 +1,16 @@
-Rinodina albidorimosula (Harm.) Zahlbr. SPECIES
-=======
+# Rinodina alba Metzler ex Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 7: 481 (1931)
+Flora, Jena 55: 35 (1872)
 
 #### Original name
-Lecanora albidorimosula Harm.
+Rinodina alba Metzler ex Arnold
 
 ### Remarks
 null

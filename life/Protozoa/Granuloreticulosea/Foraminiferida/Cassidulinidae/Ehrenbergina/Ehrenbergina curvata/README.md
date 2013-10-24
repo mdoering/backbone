@@ -1,5 +1,4 @@
-Ehrenbergina curvata Saidova, 1975 SPECIES
-=======
+# Ehrenbergina curvata Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

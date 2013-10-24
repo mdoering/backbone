@@ -1,5 +1,4 @@
-Marasmius griseoflavus Henn. SPECIES
-=======
+# Marasmius griseoflavus Henn. SPECIES
 
 #### Status
 ACCEPTED

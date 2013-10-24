@@ -1,5 +1,4 @@
-Ellipsoidion stichococcoides Pascher SPECIES
-=======
+# Ellipsoidion stichococcoides Pascher SPECIES
 
 #### Status
 ACCEPTED

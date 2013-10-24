@@ -1,5 +1,4 @@
-Lactarius violaceomarginatus Lj.N. Vassiljeva SPECIES
-=======
+# Lactarius violaceomarginatus Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

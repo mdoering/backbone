@@ -1,5 +1,4 @@
-Callopisma verruculosa F. Wilson SPECIES
-=======
+# Callopisma verruculosa F. Wilson SPECIES
 
 #### Status
 ACCEPTED

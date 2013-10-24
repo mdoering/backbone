@@ -1,5 +1,4 @@
-Agaricus vepallidus Britzelm. SPECIES
-=======
+# Agaricus vepallidus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

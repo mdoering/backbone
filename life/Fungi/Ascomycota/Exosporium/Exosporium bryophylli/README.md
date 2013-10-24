@@ -1,5 +1,4 @@
-Exosporium bryophylli T.S. Ramakr. SPECIES
-=======
+# Exosporium bryophylli T.S. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

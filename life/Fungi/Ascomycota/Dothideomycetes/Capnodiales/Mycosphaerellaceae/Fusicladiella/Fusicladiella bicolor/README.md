@@ -1,5 +1,4 @@
-Fusicladiella bicolor (C. Massal.) U. Braun SPECIES
-=======
+# Fusicladiella bicolor (C. Massal.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenastrum septicollare Eschw. SPECIES
-=======
+# Pyrenastrum septicollare Eschw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis latibasa Zahlbr. SPECIES
-=======
+# Graphis latibasa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

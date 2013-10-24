@@ -1,5 +1,4 @@
-Cytospora selenospora Oudem. SPECIES
-=======
+# Cytospora selenospora Oudem. SPECIES
 
 #### Status
 ACCEPTED

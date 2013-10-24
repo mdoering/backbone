@@ -1,5 +1,4 @@
-Penicillium cicadinum Höhn. SPECIES
-=======
+# Penicillium cicadinum Höhn. SPECIES
 
 #### Status
 ACCEPTED

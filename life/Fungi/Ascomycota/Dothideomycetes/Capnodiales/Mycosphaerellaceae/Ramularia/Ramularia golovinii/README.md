@@ -1,5 +1,4 @@
-Ramularia golovinii U. Braun SPECIES
-=======
+# Ramularia golovinii U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora amphicarpaeae Togashi & Katsuki SPECIES
-=======
+# Cercospora amphicarpaeae Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora atrynella Nyl. SPECIES
-=======
+# Lecanora atrynella Nyl. SPECIES
 
 #### Status
 ACCEPTED

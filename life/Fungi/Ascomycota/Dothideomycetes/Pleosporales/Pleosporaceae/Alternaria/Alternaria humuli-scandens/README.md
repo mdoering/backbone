@@ -1,5 +1,4 @@
-Alternaria humuli-scandens Meng Zhang, H.Y. Wu & Dong X. Li SPECIES
-=======
+# Alternaria humuli-scandens Meng Zhang, H.Y. Wu & Dong X. Li SPECIES
 
 #### Status
 ACCEPTED

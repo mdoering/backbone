@@ -1,5 +1,4 @@
-Rosellinia pulcherrima Ellis & Everh. SPECIES
-=======
+# Rosellinia pulcherrima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

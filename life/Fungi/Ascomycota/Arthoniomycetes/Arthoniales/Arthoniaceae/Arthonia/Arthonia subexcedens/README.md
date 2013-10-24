@@ -1,5 +1,4 @@
-Arthonia subexcedens Nyl. SPECIES
-=======
+# Arthonia subexcedens Nyl. SPECIES
 
 #### Status
 ACCEPTED

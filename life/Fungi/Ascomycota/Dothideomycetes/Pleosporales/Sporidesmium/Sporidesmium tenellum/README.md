@@ -1,5 +1,4 @@
-Sporidesmium tenellum Penz. & Sacc. SPECIES
-=======
+# Sporidesmium tenellum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

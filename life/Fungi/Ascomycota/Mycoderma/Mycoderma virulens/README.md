@@ -1,5 +1,4 @@
-Mycoderma virulens C.W. Dodge SPECIES
-=======
+# Mycoderma virulens C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

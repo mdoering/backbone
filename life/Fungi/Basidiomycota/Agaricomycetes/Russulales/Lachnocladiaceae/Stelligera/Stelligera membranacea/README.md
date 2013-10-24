@@ -1,5 +1,4 @@
-Stelligera membranacea R. Heim SPECIES
-=======
+# Stelligera membranacea R. Heim SPECIES
 
 #### Status
 ACCEPTED

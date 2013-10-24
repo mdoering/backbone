@@ -1,5 +1,4 @@
-Rhizopogon vesiculosus A.H. Sm. SPECIES
-=======
+# Rhizopogon vesiculosus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

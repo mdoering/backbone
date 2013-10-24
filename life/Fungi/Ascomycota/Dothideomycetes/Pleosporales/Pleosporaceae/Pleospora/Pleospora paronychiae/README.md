@@ -1,5 +1,4 @@
-Pleospora paronychiae (Cooke) SPECIES
-=======
+# Pleospora paronychiae (Cooke) SPECIES
 
 #### Status
 ACCEPTED

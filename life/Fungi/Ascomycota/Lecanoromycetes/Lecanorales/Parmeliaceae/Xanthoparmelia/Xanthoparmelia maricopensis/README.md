@@ -1,5 +1,4 @@
-Xanthoparmelia maricopensis T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia maricopensis T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

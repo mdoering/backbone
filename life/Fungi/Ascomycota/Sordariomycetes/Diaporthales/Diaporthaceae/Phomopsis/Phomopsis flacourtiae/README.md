@@ -1,5 +1,4 @@
-Phomopsis flacourtiae S.M. Singh SPECIES
-=======
+# Phomopsis flacourtiae S.M. Singh SPECIES
 
 #### Status
 ACCEPTED

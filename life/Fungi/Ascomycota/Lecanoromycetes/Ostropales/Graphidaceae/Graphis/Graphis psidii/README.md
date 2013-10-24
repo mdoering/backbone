@@ -1,5 +1,4 @@
-Graphis psidii Groenh. SPECIES
-=======
+# Graphis psidii Groenh. SPECIES
 
 #### Status
 ACCEPTED

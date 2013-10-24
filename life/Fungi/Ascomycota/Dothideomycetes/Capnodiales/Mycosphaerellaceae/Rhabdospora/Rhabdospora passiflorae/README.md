@@ -1,5 +1,4 @@
-Rhabdospora passiflorae Unamuno SPECIES
-=======
+# Rhabdospora passiflorae Unamuno SPECIES
 
 #### Status
 ACCEPTED

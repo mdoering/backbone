@@ -1,17 +1,16 @@
-Cercospora melicoccae Ts. Kobay. SPECIES
-=======
+# Cercospora melicocci Ts. Kobay. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 25(3): 267 (1984)
 
 #### Original name
-Cercospora melicoccae Ts. Kobay.
+Cercospora melicocci Ts. Kobay.
 
 ### Remarks
 null

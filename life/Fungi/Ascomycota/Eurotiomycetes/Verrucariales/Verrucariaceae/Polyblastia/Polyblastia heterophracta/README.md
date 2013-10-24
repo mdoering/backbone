@@ -1,5 +1,4 @@
-Polyblastia heterophracta (Nyl.) Arnold SPECIES
-=======
+# Polyblastia heterophracta (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria braunii Rick SPECIES
-=======
+# Trematosphaeria braunii Rick SPECIES
 
 #### Status
 ACCEPTED

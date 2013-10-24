@@ -1,5 +1,4 @@
-Aliivibrio salmonicida Egidius, Wiik, Andersen, Hoff & Hjeltnes, 1986 SPECIES
-=======
+# Aliivibrio salmonicida Egidius, Wiik, Andersen, Hoff & Hjeltnes, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ichthyochytrium vulgare Plehn, 1920 SPECIES
-=======
+# Ichthyochytrium vulgare Plehn, 1920 SPECIES
 
 #### Status
 ACCEPTED

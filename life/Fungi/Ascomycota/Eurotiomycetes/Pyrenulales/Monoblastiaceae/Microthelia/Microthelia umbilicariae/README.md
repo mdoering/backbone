@@ -1,5 +1,4 @@
-Microthelia umbilicariae Linds. SPECIES
-=======
+# Microthelia umbilicariae Linds. SPECIES
 
 #### Status
 ACCEPTED

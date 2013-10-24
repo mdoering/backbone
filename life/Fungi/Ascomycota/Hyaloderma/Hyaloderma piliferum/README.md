@@ -1,5 +1,4 @@
-Hyaloderma piliferum Pat. & Gaillard SPECIES
-=======
+# Hyaloderma piliferum Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endophragmiopsis bambusae (Bat. & Nascim.) de Hoog SPECIES
-=======
+# Endophragmiopsis bambusae (Bat. & Nascim.) de Hoog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza limnicola Hazsl. SPECIES
-=======
+# Peziza limnicola Hazsl. SPECIES
 
 #### Status
 ACCEPTED

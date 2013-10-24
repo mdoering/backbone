@@ -1,5 +1,4 @@
-Caloplaca rosulans Müll. Arg. SPECIES
-=======
+# Caloplaca rosulans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

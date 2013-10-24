@@ -1,5 +1,4 @@
-Rhizomorpha sigillariae Lesq. SPECIES
-=======
+# Rhizomorpha sigillariae Lesq. SPECIES
 
 #### Status
 ACCEPTED

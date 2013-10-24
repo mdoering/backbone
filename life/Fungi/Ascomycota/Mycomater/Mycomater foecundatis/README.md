@@ -1,5 +1,4 @@
-Mycomater foecundatis Fr. SPECIES
-=======
+# Mycomater foecundatis Fr. SPECIES
 
 #### Status
 ACCEPTED

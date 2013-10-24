@@ -1,5 +1,4 @@
-Pyrenula cartilaginea A. Massal. SPECIES
-=======
+# Pyrenula cartilaginea A. Massal. SPECIES
 
 #### Status
 ACCEPTED

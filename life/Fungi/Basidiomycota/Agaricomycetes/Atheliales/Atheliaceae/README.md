@@ -1,5 +1,4 @@
-Atheliaceae Jülich FAMILY
-=======
+# Atheliaceae Jülich FAMILY
 
 #### Status
 ACCEPTED

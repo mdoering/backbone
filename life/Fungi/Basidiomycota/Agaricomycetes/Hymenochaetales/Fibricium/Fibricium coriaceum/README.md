@@ -1,5 +1,4 @@
-Fibricium coriaceum Hjortstam & Ryvarden, 1980 SPECIES
-=======
+# Fibricium coriaceum Hjortstam & Ryvarden, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosterigma phaenacanthae Sawada SPECIES
-=======
+# Trichosterigma phaenacanthae Sawada SPECIES
 
 #### Status
 ACCEPTED

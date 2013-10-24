@@ -1,5 +1,4 @@
-Marasmius thollonis (Pat. & Har.) Sacc. SPECIES
-=======
+# Marasmius thollonis (Pat. & Har.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

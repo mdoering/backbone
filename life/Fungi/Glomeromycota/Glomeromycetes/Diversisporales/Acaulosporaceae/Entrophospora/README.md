@@ -1,5 +1,4 @@
-Entrophospora R.N. Ames & R.W. Schneid. GENUS
-=======
+# Entrophospora R.N. Ames & R.W. Schneid. GENUS
 
 #### Status
 ACCEPTED

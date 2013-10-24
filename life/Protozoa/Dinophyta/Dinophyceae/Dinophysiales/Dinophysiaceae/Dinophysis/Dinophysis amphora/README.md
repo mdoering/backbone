@@ -1,5 +1,4 @@
-Dinophysis amphora Balech, 1971 SPECIES
-=======
+# Dinophysis amphora Balech, 1971 SPECIES
 
 #### Status
 ACCEPTED

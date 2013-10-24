@@ -1,5 +1,4 @@
-Neuropogon arboricola (Jatta) Jatta SPECIES
-=======
+# Neuropogon arboricola (Jatta) Jatta SPECIES
 
 #### Status
 ACCEPTED

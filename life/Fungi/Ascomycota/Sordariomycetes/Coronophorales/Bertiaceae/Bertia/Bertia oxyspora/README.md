@@ -1,5 +1,4 @@
-Bertia oxyspora (Penz. & Sacc.) Höhn. SPECIES
-=======
+# Bertia oxyspora (Penz. & Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola millettiae-chrysophyllae var. millettiae-chrysophyllae VARIETY
-=======
+# Meliola millettiae-chrysophyllae Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sydowia 5: 7 (1951)
 
 #### Original name
-Meliola millettiae-chrysophyllae var. millettiae-chrysophyllae
+Meliola millettiae-chrysophyllae Deighton
 
 ### Remarks
 null

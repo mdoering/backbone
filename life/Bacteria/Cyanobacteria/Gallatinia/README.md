@@ -1,5 +1,4 @@
-Gallatinia C.D. Walcott, 1914 GENUS
-=======
+# Gallatinia C.D. Walcott, 1914 GENUS
 
 #### Status
 ACCEPTED

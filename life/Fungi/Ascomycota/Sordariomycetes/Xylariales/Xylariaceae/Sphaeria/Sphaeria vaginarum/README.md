@@ -1,5 +1,4 @@
-Sphaeria vaginarum Castagne SPECIES
-=======
+# Sphaeria vaginarum Castagne SPECIES
 
 #### Status
 ACCEPTED

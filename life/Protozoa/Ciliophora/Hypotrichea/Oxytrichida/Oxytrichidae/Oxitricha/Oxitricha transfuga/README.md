@@ -1,5 +1,4 @@
-Oxitricha transfuga (Müller, 1776) Bory SPECIES
-=======
+# Oxitricha transfuga (Müller, 1776) Bory SPECIES
 
 #### Status
 ACCEPTED

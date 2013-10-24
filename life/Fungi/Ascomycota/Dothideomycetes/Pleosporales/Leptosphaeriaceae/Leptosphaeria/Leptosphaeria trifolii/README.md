@@ -1,5 +1,4 @@
-Leptosphaeria trifolii Starbäck SPECIES
-=======
+# Leptosphaeria trifolii Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sesia spissa (Berk.) Kuntze SPECIES
-=======
+# Sesia spissa (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

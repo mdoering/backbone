@@ -1,5 +1,4 @@
-Hydnangium galathejum Quél. SPECIES
-=======
+# Hydnangium galathejum Quél. SPECIES
 
 #### Status
 ACCEPTED

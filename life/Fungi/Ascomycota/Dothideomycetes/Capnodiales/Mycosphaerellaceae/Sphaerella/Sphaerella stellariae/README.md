@@ -1,5 +1,4 @@
-Sphaerella stellariae f. stellariae FORM
-=======
+# Sphaerella stellariae Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella stellariae f. stellariae
+Sphaerella stellariae Fuckel
 
 ### Remarks
 null

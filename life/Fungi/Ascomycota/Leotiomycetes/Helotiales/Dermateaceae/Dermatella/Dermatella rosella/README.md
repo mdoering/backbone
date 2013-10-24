@@ -1,5 +1,4 @@
-Dermatella rosella (Rehm) Sacc. SPECIES
-=======
+# Dermatella rosella (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

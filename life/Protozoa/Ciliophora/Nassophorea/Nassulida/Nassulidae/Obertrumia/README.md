@@ -1,5 +1,4 @@
-Obertrumia Foissner & Adam, 1981 GENUS
-=======
+# Obertrumia Foissner & Adam, 1981 GENUS
 
 #### Status
 ACCEPTED

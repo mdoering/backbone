@@ -1,5 +1,4 @@
-Meliola artocarpiae H.S. Yates SPECIES
-=======
+# Meliola artocarpiae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

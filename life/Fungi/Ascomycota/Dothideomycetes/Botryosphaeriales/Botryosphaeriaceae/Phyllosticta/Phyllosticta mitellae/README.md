@@ -1,5 +1,4 @@
-Phyllosticta mitellae Peck SPECIES
-=======
+# Phyllosticta mitellae Peck SPECIES
 
 #### Status
 ACCEPTED

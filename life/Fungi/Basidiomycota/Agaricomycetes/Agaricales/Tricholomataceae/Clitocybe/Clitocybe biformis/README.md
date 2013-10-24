@@ -1,5 +1,4 @@
-Clitocybe biformis Peck SPECIES
-=======
+# Clitocybe biformis Peck SPECIES
 
 #### Status
 ACCEPTED

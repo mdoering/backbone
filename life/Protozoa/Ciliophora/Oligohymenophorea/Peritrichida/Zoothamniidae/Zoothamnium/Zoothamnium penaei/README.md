@@ -1,5 +1,4 @@
-Zoothamnium penaei Song, 1992 SPECIES
-=======
+# Zoothamnium penaei Song, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Ova GENUS
-=======
+# Ovum A. Eisenack, 1931 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List

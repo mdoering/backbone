@@ -1,5 +1,4 @@
-Tetrahymena bergeri SPECIES
-=======
+# Tetrahymena bergeri SPECIES
 
 #### Status
 ACCEPTED

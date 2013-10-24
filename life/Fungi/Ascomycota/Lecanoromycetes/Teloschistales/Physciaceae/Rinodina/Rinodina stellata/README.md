@@ -1,5 +1,4 @@
-Rinodina stellata Lynge SPECIES
-=======
+# Rinodina stellata Lynge SPECIES
 
 #### Status
 ACCEPTED

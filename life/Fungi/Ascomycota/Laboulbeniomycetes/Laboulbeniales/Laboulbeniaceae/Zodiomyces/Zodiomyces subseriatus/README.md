@@ -1,5 +1,4 @@
-Zodiomyces subseriatus Thaxt., 1931 SPECIES
-=======
+# Zodiomyces subseriatus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

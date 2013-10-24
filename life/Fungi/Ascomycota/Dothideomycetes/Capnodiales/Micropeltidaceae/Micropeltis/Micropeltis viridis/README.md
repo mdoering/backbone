@@ -1,5 +1,4 @@
-Micropeltis viridis Bat. & Cavalc. SPECIES
-=======
+# Micropeltis viridis Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius xanthogalus Verbeken & E. Horak SPECIES
-=======
+# Lactarius xanthogalus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctema campanulae Clem. SPECIES
-=======
+# Phlyctema campanulae Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cellanthus de Montfort, 1808 GENUS
-=======
+# Elphidium de Montfort, 1808 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Conch. Syst. , 1, 14.
 
 #### Original name
 null

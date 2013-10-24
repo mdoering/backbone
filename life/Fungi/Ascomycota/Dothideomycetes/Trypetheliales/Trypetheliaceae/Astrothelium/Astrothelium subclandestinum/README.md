@@ -1,5 +1,4 @@
-Astrothelium subclandestinum Leight. SPECIES
-=======
+# Astrothelium subclandestinum Leight. SPECIES
 
 #### Status
 ACCEPTED

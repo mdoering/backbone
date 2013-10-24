@@ -1,5 +1,4 @@
-Ceraceomyces austroandinum Gresl. & Rajchenb. SPECIES
-=======
+# Ceraceomyces austroandinum Gresl. & Rajchenb. SPECIES
 
 #### Status
 ACCEPTED

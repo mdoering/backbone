@@ -1,5 +1,4 @@
-Aphanomyces de Bary GENUS
-=======
+# Aphanomyces de Bary GENUS
 
 #### Status
 ACCEPTED

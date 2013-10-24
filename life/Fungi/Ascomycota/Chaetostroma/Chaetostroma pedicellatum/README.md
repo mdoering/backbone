@@ -1,5 +1,4 @@
-Chaetostroma pedicellatum Preuss SPECIES
-=======
+# Chaetostroma pedicellatum Preuss SPECIES
 
 #### Status
 ACCEPTED

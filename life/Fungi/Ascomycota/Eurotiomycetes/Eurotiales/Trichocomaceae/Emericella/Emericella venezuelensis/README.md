@@ -1,5 +1,4 @@
-Emericella venezuelensis Frisvad & Samson SPECIES
-=======
+# Emericella venezuelensis Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

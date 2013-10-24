@@ -1,5 +1,4 @@
-Cantharellus turrisii Inzenga SPECIES
-=======
+# Cantharellus turrisii Inzenga SPECIES
 
 #### Status
 ACCEPTED

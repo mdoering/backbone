@@ -1,5 +1,4 @@
-Venturia aceris (Höhn.) Sivan., 1977 SPECIES
-=======
+# Venturia aceris (Höhn.) Sivan., 1977 SPECIES
 
 #### Status
 ACCEPTED

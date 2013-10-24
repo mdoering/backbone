@@ -1,5 +1,4 @@
-Hymenoscyphus pusensis (Syd. & P. Syd.) M.P. Sharma SPECIES
-=======
+# Hymenoscyphus pusensis (Syd. & P. Syd.) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

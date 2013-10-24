@@ -1,5 +1,4 @@
-Coprinus subcurtus Thiers SPECIES
-=======
+# Coprinus subcurtus Thiers SPECIES
 
 #### Status
 ACCEPTED

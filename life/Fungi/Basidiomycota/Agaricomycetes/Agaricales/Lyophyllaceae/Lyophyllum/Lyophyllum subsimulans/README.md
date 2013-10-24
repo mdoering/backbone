@@ -1,5 +1,4 @@
-Lyophyllum subsimulans (P. Karst.) Clémençon SPECIES
-=======
+# Lyophyllum subsimulans (P. Karst.) Clémençon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutellaria acaroides (Sacc.) Sacc., 1886 SPECIES
-=======
+# Volutellaria acaroides (Sacc.) Sacc., 1886 SPECIES
 
 #### Status
 ACCEPTED

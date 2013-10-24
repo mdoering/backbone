@@ -1,5 +1,4 @@
-Nectria golovinii (Kravtzev) Byzova SPECIES
-=======
+# Nectria golovinii (Kravtzev) Byzova SPECIES
 
 #### Status
 ACCEPTED

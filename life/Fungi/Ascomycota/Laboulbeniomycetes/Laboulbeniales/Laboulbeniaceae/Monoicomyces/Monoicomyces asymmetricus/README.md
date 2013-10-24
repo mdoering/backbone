@@ -1,5 +1,4 @@
-Monoicomyces asymmetricus Thaxt. SPECIES
-=======
+# Monoicomyces asymmetricus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

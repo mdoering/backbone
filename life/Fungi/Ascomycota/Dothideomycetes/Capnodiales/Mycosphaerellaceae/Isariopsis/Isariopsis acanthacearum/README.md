@@ -1,5 +1,4 @@
-Isariopsis acanthacearum Cooke SPECIES
-=======
+# Isariopsis acanthacearum Cooke SPECIES
 
 #### Status
 ACCEPTED

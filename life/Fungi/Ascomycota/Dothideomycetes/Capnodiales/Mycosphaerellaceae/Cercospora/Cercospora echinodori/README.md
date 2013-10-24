@@ -1,5 +1,4 @@
-Cercospora echinodori Chupp SPECIES
-=======
+# Cercospora echinodori Chupp SPECIES
 
 #### Status
 ACCEPTED

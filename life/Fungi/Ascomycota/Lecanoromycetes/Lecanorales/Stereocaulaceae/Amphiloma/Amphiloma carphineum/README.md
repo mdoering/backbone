@@ -1,5 +1,4 @@
-Amphiloma carphineum (Fr.) Bagl. SPECIES
-=======
+# Amphiloma carphineum (Fr.) Bagl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoplasma simbae Hill, 1992 SPECIES
-=======
+# Mycoplasma simbae Hill, 1992 SPECIES
 
 #### Status
 ACCEPTED

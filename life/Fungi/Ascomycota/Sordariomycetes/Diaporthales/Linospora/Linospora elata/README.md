@@ -1,5 +1,4 @@
-Linospora elata Sacc. & Speg. SPECIES
-=======
+# Linospora elata Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

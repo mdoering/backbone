@@ -1,5 +1,4 @@
-Leptogium trichophoroides P. M. Jørg. & Wallace SPECIES
-=======
+# Leptogium trichophoroides P. M. Jørg. & Wallace SPECIES
 
 #### Status
 ACCEPTED

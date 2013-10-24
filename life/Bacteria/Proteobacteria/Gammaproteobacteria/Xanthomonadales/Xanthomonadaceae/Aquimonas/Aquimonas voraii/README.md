@@ -1,5 +1,4 @@
-Aquimonas voraii Saha et al., 2005 SPECIES
-=======
+# Aquimonas voraii Saha et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

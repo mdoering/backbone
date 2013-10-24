@@ -1,5 +1,4 @@
-Bacillus aerophilus Shivaji et al., 2006 SPECIES
-=======
+# Bacillus aerophilus Shivaji et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

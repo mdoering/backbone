@@ -1,5 +1,4 @@
-Textulariella simplex Zheng, 1988 SPECIES
-=======
+# Textulariella simplex Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

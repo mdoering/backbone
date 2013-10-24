@@ -1,5 +1,4 @@
-Chitonomyces minor Thaxt. SPECIES
-=======
+# Chitonomyces minor Thaxt. SPECIES
 
 #### Status
 ACCEPTED

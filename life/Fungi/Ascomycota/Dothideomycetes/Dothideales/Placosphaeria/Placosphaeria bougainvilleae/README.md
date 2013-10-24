@@ -1,5 +1,4 @@
-Placosphaeria bougainvilleae Cif. & Gonz. Frag. SPECIES
-=======
+# Placosphaeria bougainvilleae Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

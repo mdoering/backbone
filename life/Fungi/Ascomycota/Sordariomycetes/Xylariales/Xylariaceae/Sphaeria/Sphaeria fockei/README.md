@@ -1,5 +1,4 @@
-Sphaeria fockei Miq. SPECIES
-=======
+# Sphaeria fockei Miq. SPECIES
 
 #### Status
 ACCEPTED

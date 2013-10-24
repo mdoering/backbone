@@ -1,5 +1,4 @@
-Trepomonas Dujardin, 1841 GENUS
-=======
+# Trepomonas Dujardin, 1841 GENUS
 
 #### Status
 ACCEPTED

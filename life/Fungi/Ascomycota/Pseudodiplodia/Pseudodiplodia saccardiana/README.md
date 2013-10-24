@@ -1,5 +1,4 @@
-Pseudodiplodia saccardiana Bat. SPECIES
-=======
+# Pseudodiplodia saccardiana Bat. SPECIES
 
 #### Status
 ACCEPTED

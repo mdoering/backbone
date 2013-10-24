@@ -1,5 +1,4 @@
-Monotrichum Gäum. GENUS
-=======
+# Monotrichum Gäum. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Segestria triblasta (Müll. Arg.) Hellb. SPECIES
-=======
+# Segestria triblasta (Müll. Arg.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

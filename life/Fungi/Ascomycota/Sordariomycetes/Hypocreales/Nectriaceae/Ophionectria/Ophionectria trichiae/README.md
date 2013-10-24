@@ -1,5 +1,4 @@
-Ophionectria trichiae Penz. & Sacc. SPECIES
-=======
+# Ophionectria trichiae Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

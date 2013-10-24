@@ -1,5 +1,4 @@
-Metopus rotundus Scott Lucas, 1934 SPECIES
-=======
+# Metopus rotundus Scott Lucas, 1934 SPECIES
 
 #### Status
 ACCEPTED

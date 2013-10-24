@@ -1,5 +1,4 @@
-Cucurbitaria ulmea P. Karst. SPECIES
-=======
+# Cucurbitaria ulmea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

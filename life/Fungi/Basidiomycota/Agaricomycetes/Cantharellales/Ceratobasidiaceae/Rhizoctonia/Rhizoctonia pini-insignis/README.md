@@ -1,5 +1,4 @@
-Rhizoctonia pini-insignis E. Castell., 1935 SPECIES
-=======
+# Rhizoctonia pini-insignis E. Castell., 1935 SPECIES
 
 #### Status
 ACCEPTED

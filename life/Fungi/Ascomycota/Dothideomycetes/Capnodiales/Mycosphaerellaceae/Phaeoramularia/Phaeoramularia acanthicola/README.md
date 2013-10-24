@@ -1,5 +1,4 @@
-Phaeoramularia acanthicola (Hansf.) Deighton SPECIES
-=======
+# Phaeoramularia acanthicola (Hansf.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermioxytricha Foissner, Agatha & Berger, 2002 GENUS
-=======
+# Vermioxytricha Foissner, Agatha & Berger, 2002 GENUS
 
 #### Status
 ACCEPTED

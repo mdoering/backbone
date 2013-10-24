@@ -1,5 +1,4 @@
-Xanthoparmelia paratasmanica Elix SPECIES
-=======
+# Xanthoparmelia paratasmanica Elix SPECIES
 
 #### Status
 ACCEPTED

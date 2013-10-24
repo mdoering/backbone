@@ -1,14 +1,13 @@
-Liasidinium W.S. Drugg, 1978 GENUS
-=======
+# Liasidium W.S. Drugg, 1978 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Palaeontographica Abt. B Palaeophytol. 168 (1-3): 69.
 
 #### Original name
 null

@@ -1,14 +1,13 @@
-Athigmatocysta S. Duxbury, 1977 GENUS
-=======
+# Endoscrinium (Klement) T.F.Vozzhennikova, 1965 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Palaeontographica (B) 160: 23.
+Palaeontographica (A) 114: 18.
 
 #### Original name
 null

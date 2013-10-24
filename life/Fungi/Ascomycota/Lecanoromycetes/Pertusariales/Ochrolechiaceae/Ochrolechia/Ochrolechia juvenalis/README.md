@@ -1,5 +1,4 @@
-Ochrolechia juvenalis Brodo SPECIES
-=======
+# Ochrolechia juvenalis Brodo SPECIES
 
 #### Status
 ACCEPTED

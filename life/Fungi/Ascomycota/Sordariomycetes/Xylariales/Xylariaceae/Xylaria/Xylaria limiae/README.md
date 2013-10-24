@@ -1,5 +1,4 @@
-Xylaria limiae Morgan-Jones SPECIES
-=======
+# Xylaria limiae Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

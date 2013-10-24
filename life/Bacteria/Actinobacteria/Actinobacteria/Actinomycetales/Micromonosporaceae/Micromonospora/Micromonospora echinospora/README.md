@@ -1,5 +1,4 @@
-Micromonospora echinospora subsp. echinospora SUBSPECIES
-=======
+# Micromonospora echinospora Luedemann & Brodsky, 1964 SPECIES
 
 #### Status
 ACCEPTED

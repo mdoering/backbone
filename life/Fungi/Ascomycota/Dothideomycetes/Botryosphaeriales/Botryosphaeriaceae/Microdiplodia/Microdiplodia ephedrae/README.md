@@ -1,5 +1,4 @@
-Microdiplodia ephedrae Hollós SPECIES
-=======
+# Microdiplodia ephedrae Hollós SPECIES
 
 #### Status
 ACCEPTED

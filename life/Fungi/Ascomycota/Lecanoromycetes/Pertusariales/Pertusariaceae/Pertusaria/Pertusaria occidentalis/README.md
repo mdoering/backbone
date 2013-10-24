@@ -1,5 +1,4 @@
-Pertusaria occidentalis Bratt, Lumbsch & Schmitt SPECIES
-=======
+# Pertusaria occidentalis Bratt, Lumbsch & Schmitt SPECIES
 
 #### Status
 ACCEPTED

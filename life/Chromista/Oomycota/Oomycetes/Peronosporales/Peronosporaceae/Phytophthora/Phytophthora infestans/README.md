@@ -1,17 +1,16 @@
-Phytophthora infestans f. sp FORM
-=======
+# Phytophthora infestans (Mont.) de Bary, 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Phytopath. 139(4): 320 (1993)
+Trattato di knologia Ed. Sansoni Firenze 12: 240 (1876)
 
 #### Original name
-Phytophthora infestans f. sp
+Botrytis infestans Mont., 1845
 
 ### Remarks
 null

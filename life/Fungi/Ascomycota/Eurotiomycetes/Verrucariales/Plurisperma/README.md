@@ -1,5 +1,4 @@
-Plurisperma Sivan. GENUS
-=======
+# Plurisperma Sivan. GENUS
 
 #### Status
 ACCEPTED

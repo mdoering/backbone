@@ -1,5 +1,4 @@
-Phyllosticta alpiniae Bat. SPECIES
-=======
+# Phyllosticta alpiniae Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa deplanata Nees SPECIES
-=======
+# Valsa deplanata Nees SPECIES
 
 #### Status
 ACCEPTED

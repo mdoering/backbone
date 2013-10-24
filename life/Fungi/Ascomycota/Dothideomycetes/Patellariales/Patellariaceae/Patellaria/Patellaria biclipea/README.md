@@ -1,5 +1,4 @@
-Patellaria biclipea Shirley SPECIES
-=======
+# Patellaria biclipea Shirley SPECIES
 
 #### Status
 ACCEPTED

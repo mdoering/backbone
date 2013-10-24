@@ -1,8 +1,7 @@
-Mytilidion insulare Sacc. SPECIES
-=======
+# Mytilinidion insulare Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mytilidion insulare Sacc.
+Mytilinidion insulare Sacc.
 
 ### Remarks
 null

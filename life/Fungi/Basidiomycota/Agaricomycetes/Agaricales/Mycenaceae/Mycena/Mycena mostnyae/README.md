@@ -1,5 +1,4 @@
-Mycena mostnyae Singer SPECIES
-=======
+# Mycena mostnyae Singer SPECIES
 
 #### Status
 ACCEPTED

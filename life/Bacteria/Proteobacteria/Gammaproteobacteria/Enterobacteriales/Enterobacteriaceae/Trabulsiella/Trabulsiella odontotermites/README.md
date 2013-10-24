@@ -1,5 +1,4 @@
-Trabulsiella odontotermites Chou et al., 2007 SPECIES
-=======
+# Trabulsiella odontotermites Chou et al., 2007 SPECIES
 
 #### Status
 ACCEPTED

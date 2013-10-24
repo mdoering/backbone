@@ -1,14 +1,13 @@
-Cuphocybe calospora M. Zang, 1987 SPECIES
-=======
+# Cortinarius calosporus (M. Zang) Peintner, M.M. Moser, E. Horak & Vilgalys, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. Yunn. 9(1): 82 (1987)
+in Peintner, Horak, Moser & Vilgalys, Mycotaxon 83: 449 (2002)
 
 #### Original name
 Cuphocybe calospora M. Zang, 1987

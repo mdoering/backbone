@@ -1,5 +1,4 @@
-Stenosemellopsis Colom, 1948 GENUS
-=======
+# Stenosemellopsis Colom, 1948 GENUS
 
 #### Status
 ACCEPTED

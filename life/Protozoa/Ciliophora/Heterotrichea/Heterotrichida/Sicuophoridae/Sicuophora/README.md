@@ -1,5 +1,4 @@
-Sicuophora de Puytorac & Grain, 1968 GENUS
-=======
+# Sicuophora de Puytorac & Grain, 1968 GENUS
 
 #### Status
 ACCEPTED

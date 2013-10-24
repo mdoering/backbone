@@ -1,5 +1,4 @@
-Lentinus candidus P.W. Graff SPECIES
-=======
+# Lentinus candidus P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

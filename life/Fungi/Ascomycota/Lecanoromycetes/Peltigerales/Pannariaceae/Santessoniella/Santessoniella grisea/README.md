@@ -1,5 +1,4 @@
-Santessoniella grisea (Hue) Henssen SPECIES
-=======
+# Santessoniella grisea (Hue) Henssen SPECIES
 
 #### Status
 ACCEPTED

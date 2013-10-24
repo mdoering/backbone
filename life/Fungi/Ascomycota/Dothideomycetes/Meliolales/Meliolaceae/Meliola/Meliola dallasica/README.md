@@ -1,5 +1,4 @@
-Meliola dallasica Petr. SPECIES
-=======
+# Meliola dallasica Petr. SPECIES
 
 #### Status
 ACCEPTED

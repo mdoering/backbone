@@ -1,5 +1,4 @@
-Solenia porioides var. porioides VARIETY
-=======
+# Solenia porioides (Alb. & Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 6: 425 (1888)
 
 #### Original name
-Solenia porioides var. porioides
+Peziza porioides Alb. & Schwein.
 
 ### Remarks
 null

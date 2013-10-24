@@ -1,5 +1,4 @@
-Polyschema lignicola V.G. Rao & K.A. Reddy SPECIES
-=======
+# Polyschema lignicola V.G. Rao & K.A. Reddy SPECIES
 
 #### Status
 ACCEPTED

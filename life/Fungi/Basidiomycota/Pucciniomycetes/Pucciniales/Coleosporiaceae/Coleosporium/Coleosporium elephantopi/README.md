@@ -1,17 +1,16 @@
-Coleosporium elephantopodis Thüm. SPECIES
-=======
+# Coleosporium elephantopi Thüm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotheca universalis no. 953 (1878)
 
 #### Original name
-Coleosporium elephantopodis Thüm.
+Coleosporium elephantopi Thüm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Anaptychia ulotricoides f. ulotricoides FORM
-=======
+# Anaptychia ulotricoides (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Anaptychia ulotricoides f. ulotricoides
+Physcia ulotricoides Vain.
 
 ### Remarks
 null

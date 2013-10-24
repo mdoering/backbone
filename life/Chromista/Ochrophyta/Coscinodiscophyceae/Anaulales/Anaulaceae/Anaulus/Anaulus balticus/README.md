@@ -1,5 +1,4 @@
-Anaulus balticus Simonsen, 1959 SPECIES
-=======
+# Anaulus balticus Simonsen, 1959 SPECIES
 
 #### Status
 ACCEPTED

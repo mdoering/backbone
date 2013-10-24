@@ -1,5 +1,4 @@
-Psilocybe parvula Y.S. Chang & A.K. Mills SPECIES
-=======
+# Psilocybe parvula Y.S. Chang & A.K. Mills SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis glaucocinerea Vain. SPECIES
-=======
+# Graphis glaucocinerea Vain. SPECIES
 
 #### Status
 ACCEPTED

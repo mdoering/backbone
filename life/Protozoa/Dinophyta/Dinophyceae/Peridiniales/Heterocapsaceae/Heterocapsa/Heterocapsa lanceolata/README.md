@@ -1,5 +1,4 @@
-Heterocapsa lanceolata Iwataki & Fukuyo SPECIES
-=======
+# Heterocapsa lanceolata Iwataki & Fukuyo SPECIES
 
 #### Status
 ACCEPTED

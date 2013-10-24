@@ -1,5 +1,4 @@
-Septoria sontica Viégas SPECIES
-=======
+# Septoria sontica Viégas SPECIES
 
 #### Status
 ACCEPTED

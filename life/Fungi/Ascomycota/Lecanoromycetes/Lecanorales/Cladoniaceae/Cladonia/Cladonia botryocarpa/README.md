@@ -1,5 +1,4 @@
-Cladonia botryocarpa G. Merr. SPECIES
-=======
+# Cladonia botryocarpa G. Merr. SPECIES
 
 #### Status
 ACCEPTED

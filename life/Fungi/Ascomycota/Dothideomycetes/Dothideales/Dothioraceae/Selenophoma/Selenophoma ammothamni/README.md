@@ -1,5 +1,4 @@
-Selenophoma ammothamni Koshk. & Frolov SPECIES
-=======
+# Selenophoma ammothamni Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

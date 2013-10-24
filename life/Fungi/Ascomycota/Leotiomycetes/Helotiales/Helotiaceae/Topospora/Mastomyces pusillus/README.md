@@ -1,5 +1,4 @@
-Mastomyces pusillus Speg. SPECIES
-=======
+# Mastomyces pusillus Speg. SPECIES
 
 #### Status
 ACCEPTED

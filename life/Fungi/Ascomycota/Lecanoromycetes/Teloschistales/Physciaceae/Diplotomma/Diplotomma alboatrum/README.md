@@ -1,17 +1,16 @@
-Buellia alboatra f. alboatra FORM
-=======
+# Diplotomma alboatrum (Hoffm.) Flot. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jber. schles. Ges. vaterl. Kultur 97 (1849)
 
 #### Original name
-Buellia alboatra f. alboatra
+Lichen alboater Hoffm.
 
 ### Remarks
 null

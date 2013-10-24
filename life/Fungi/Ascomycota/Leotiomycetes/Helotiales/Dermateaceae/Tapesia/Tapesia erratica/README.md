@@ -1,5 +1,4 @@
-Tapesia erratica (Fr.) Fuckel SPECIES
-=======
+# Tapesia erratica (Fr.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

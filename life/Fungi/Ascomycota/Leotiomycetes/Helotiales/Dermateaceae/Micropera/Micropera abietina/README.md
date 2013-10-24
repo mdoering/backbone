@@ -1,5 +1,4 @@
-Micropera abietina (Peck) Höhn. SPECIES
-=======
+# Micropera abietina (Peck) Höhn. SPECIES
 
 #### Status
 ACCEPTED

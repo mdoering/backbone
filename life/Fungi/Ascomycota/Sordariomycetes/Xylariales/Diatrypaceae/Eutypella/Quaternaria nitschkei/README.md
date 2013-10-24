@@ -1,5 +1,4 @@
-Quaternaria nitschkei f. nitschkei FORM
-=======
+# Quaternaria nitschkei Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Quaternaria nitschkei f. nitschkei
+Quaternaria nitschkei Fuckel
 
 ### Remarks
 null

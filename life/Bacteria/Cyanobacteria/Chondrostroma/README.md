@@ -1,5 +1,4 @@
-Chondrostroma G. Gürich, 1906 GENUS
-=======
+# Chondrostroma G. Gürich, 1906 GENUS
 
 #### Status
 ACCEPTED

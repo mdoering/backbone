@@ -1,5 +1,4 @@
-Aspicilia substerilis Sipman SPECIES
-=======
+# Aspicilia substerilis Sipman SPECIES
 
 #### Status
 ACCEPTED

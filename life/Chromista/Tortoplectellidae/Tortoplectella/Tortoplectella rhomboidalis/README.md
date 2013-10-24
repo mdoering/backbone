@@ -1,5 +1,4 @@
-Tortoplectella rhomboidalis (Millett, 1899) SPECIES
-=======
+# Tortoplectella rhomboidalis (Millett, 1899) SPECIES
 
 #### Status
 ACCEPTED

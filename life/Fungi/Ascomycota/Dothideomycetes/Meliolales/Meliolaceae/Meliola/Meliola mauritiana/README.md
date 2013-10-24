@@ -1,5 +1,4 @@
-Meliola mauritiana Hansf. SPECIES
-=======
+# Meliola mauritiana Hansf. SPECIES
 
 #### Status
 ACCEPTED

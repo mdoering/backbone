@@ -1,14 +1,13 @@
-Spicaria penicillata Höhn., 1904 SPECIES
-=======
+# Paecilomyces penicillatus (Höhn.) Samson, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 2(1): 56 (1904)
+Stud. Mycol. 6: 72 (1974)
 
 #### Original name
 Spicaria penicillata Höhn., 1904

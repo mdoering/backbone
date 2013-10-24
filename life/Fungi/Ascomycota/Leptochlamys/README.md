@@ -1,5 +1,4 @@
-Leptochlamys Diedicke, 1921 GENUS
-=======
+# Leptochlamys Diedicke, 1921 GENUS
 
 #### Status
 ACCEPTED

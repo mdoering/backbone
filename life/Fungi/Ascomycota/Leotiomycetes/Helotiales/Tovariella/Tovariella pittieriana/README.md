@@ -1,5 +1,4 @@
-Tovariella pittieriana Syd., 1930 SPECIES
-=======
+# Tovariella pittieriana Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

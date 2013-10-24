@@ -1,5 +1,4 @@
-Uromyces cupaniae Arthur & J.R. Johnst. SPECIES
-=======
+# Uromyces cupaniae Arthur & J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

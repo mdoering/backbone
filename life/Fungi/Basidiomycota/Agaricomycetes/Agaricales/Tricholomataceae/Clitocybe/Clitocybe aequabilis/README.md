@@ -1,5 +1,4 @@
-Clitocybe aequabilis Raithelh. SPECIES
-=======
+# Clitocybe aequabilis Raithelh. SPECIES
 
 #### Status
 ACCEPTED

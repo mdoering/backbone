@@ -1,5 +1,4 @@
-Planobispora longispora Thiemann and Beretta, 1968 (Approved Lists, 1980) SPECIES
-=======
+# Planobispora longispora Thiemann and Beretta, 1968 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

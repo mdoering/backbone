@@ -1,5 +1,4 @@
-Umbilicaria fokiensis G. Merr. ex Llano SPECIES
-=======
+# Umbilicaria fokiensis G. Merr. ex Llano SPECIES
 
 #### Status
 ACCEPTED

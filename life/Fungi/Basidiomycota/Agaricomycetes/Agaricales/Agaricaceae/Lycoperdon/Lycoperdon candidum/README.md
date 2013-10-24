@@ -1,5 +1,4 @@
-Lycoperdon candidum Pers., 1800 SPECIES
-=======
+# Lycoperdon candidum Pers., 1800 SPECIES
 
 #### Status
 ACCEPTED

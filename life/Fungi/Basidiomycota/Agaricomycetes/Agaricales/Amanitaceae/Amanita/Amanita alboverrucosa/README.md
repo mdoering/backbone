@@ -1,5 +1,4 @@
-Amanita alboverrucosa A.E. Wood SPECIES
-=======
+# Amanita alboverrucosa A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaerella conglomerata f. conglomerata FORM
-=======
+# Mycosphaerella conglomerata (Wallr.) Lindau, 1897 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Sphaeria conglomerata Wallr., 1833
 
 ### Remarks
 null

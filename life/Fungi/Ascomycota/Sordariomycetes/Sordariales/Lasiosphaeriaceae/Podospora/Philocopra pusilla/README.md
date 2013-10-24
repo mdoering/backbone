@@ -1,14 +1,13 @@
-Sordaria pusilla (Mouton) Gibb {?} SPECIES
-=======
+# Philocopra pusilla Mouton, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 25: 146 (1886)
 
 #### Original name
 Philocopra pusilla Mouton, 1886

@@ -1,5 +1,4 @@
-Mycobacterium boenickei Schinsky et al., 2004 SPECIES
-=======
+# Mycobacterium boenickei Schinsky et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

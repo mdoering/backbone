@@ -1,5 +1,4 @@
-Arthonia anjutii S.Y. Kondr. & Alstrup SPECIES
-=======
+# Arthonia anjutii S.Y. Kondr. & Alstrup SPECIES
 
 #### Status
 ACCEPTED

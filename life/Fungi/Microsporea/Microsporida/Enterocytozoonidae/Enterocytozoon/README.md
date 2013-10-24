@@ -1,5 +1,4 @@
-Enterocytozoon Desportes, Le Charpentier, Galian, Bernard, Cochand-Priollet, Lavergne, Ravisse & Modigliani GENUS
-=======
+# Enterocytozoon Desportes, Le Charpentier, Galian, Bernard, Cochand-Priollet, Lavergne, Ravisse & Modigliani GENUS
 
 #### Status
 ACCEPTED

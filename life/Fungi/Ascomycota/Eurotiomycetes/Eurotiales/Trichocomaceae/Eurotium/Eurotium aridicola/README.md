@@ -1,5 +1,4 @@
-Eurotium aridicola H.Z. Kong & Z.T. Qi, 1995 SPECIES
-=======
+# Eurotium aridicola H.Z. Kong & Z.T. Qi, 1995 SPECIES
 
 #### Status
 ACCEPTED

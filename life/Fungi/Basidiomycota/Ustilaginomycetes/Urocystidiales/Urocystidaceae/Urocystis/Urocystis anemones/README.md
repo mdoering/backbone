@@ -1,17 +1,16 @@
-Urocystis anemones f. sp FORM
-=======
+# Urocystis anemones (Pers.) G. Winter, 1880 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pilze Böhmens, II. Teil, Brandpilze 67 (1916)
+Hedwigia 19: 160 (1880)
 
 #### Original name
-Urocystis anemones f. sp
+Uredo anemones Pers., 1797
 
 ### Remarks
 null

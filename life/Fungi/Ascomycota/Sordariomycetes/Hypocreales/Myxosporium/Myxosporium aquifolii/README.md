@@ -1,5 +1,4 @@
-Myxosporium aquifolii Fautrey SPECIES
-=======
+# Myxosporium aquifolii Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hapsidomyces J.C. Krug & Jeng GENUS
-=======
+# Hapsidomyces J.C. Krug & Jeng GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactifluus haemorrhoeus (J. Lowe) Kuntze SPECIES
-=======
+# Lactifluus haemorrhoeus (J. Lowe) Kuntze SPECIES
 
 #### Status
 ACCEPTED

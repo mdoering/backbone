@@ -1,5 +1,4 @@
-Ascochyta alaskensis Punith. SPECIES
-=======
+# Ascochyta alaskensis Punith. SPECIES
 
 #### Status
 ACCEPTED

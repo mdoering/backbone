@@ -1,5 +1,4 @@
-Bullaria inaequata (H.S. Jacks. & Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria inaequata (H.S. Jacks. & Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mariannenina Fuchs, 1973 GENUS
-=======
+# Mariannenina Fuchs, 1973 GENUS
 
 #### Status
 ACCEPTED

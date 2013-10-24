@@ -1,5 +1,4 @@
-Conicavus tipiopsis Takahashi, 1991 SPECIES
-=======
+# Conicavus tipiopsis Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

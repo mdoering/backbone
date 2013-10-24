@@ -1,5 +1,4 @@
-Metasphaeria pseudacaciae J. Schröt. SPECIES
-=======
+# Metasphaeria pseudacaciae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

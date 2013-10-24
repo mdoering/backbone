@@ -1,5 +1,4 @@
-Bactridium minutum Sacc. SPECIES
-=======
+# Bactridium minutum Sacc. SPECIES
 
 #### Status
 ACCEPTED

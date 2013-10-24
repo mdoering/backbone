@@ -1,5 +1,4 @@
-Oscillatoria bulgarica var. major VARIETY
-=======
+# Oscillatoria bulgarica SPECIES
 
 #### Status
 ACCEPTED

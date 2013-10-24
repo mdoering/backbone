@@ -1,5 +1,4 @@
-Omphalia spadicea Beeli SPECIES
-=======
+# Omphalia spadicea Beeli SPECIES
 
 #### Status
 ACCEPTED

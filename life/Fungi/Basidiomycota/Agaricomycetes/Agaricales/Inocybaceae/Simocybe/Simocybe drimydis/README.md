@@ -1,17 +1,16 @@
-Simocybe drimidis E. Horak SPECIES
-=======
+# Simocybe drimydis E. Horak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fl. criptog. Tierra del Fuego 11(6): 310 (1980)
 
 #### Original name
-Simocybe drimidis E. Horak
+Simocybe drimydis E. Horak
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Helotium hypocrita Hazsl. SPECIES
-=======
+# Helotium hypocrita Hazsl. SPECIES
 
 #### Status
 ACCEPTED

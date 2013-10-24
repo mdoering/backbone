@@ -1,5 +1,4 @@
-Usnea protea Motyka SPECIES
-=======
+# Usnea protea Motyka SPECIES
 
 #### Status
 ACCEPTED

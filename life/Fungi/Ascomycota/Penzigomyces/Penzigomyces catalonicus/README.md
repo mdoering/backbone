@@ -1,5 +1,4 @@
-Penzigomyces catalonicus Mercado, Gené & Guarro SPECIES
-=======
+# Penzigomyces catalonicus Mercado, Gené & Guarro SPECIES
 
 #### Status
 ACCEPTED

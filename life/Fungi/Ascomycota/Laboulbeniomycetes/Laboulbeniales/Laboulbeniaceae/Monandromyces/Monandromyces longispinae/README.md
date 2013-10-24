@@ -1,5 +1,4 @@
-Monandromyces longispinae R.K. Benj., 1999 SPECIES
-=======
+# Monandromyces longispinae R.K. Benj., 1999 SPECIES
 
 #### Status
 ACCEPTED

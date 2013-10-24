@@ -1,5 +1,4 @@
-Sphaerella castaneae Tognini SPECIES
-=======
+# Sphaerella castaneae Tognini SPECIES
 
 #### Status
 ACCEPTED

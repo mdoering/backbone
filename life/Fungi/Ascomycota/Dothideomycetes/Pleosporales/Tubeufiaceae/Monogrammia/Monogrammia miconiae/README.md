@@ -1,5 +1,4 @@
-Monogrammia miconiae F. Stevens SPECIES
-=======
+# Monogrammia miconiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

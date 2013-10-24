@@ -1,5 +1,4 @@
-Rhachomyces basilewskyi W. Rossi & Cesari SPECIES
-=======
+# Rhachomyces basilewskyi W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balantidium indicum Abraham, 1962 SPECIES
-=======
+# Balantidium indicum Abraham, 1962 SPECIES
 
 #### Status
 ACCEPTED

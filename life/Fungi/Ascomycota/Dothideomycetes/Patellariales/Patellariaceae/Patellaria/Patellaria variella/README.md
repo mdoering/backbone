@@ -1,5 +1,4 @@
-Patellaria variella P. Karst. SPECIES
-=======
+# Patellaria variella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Argomycetella pura Syd. SPECIES
-=======
+# Argomycetella pura Syd. SPECIES
 
 #### Status
 ACCEPTED

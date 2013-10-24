@@ -1,5 +1,4 @@
-Malbranchea multicolor Mannina & Mosca, 1984 SPECIES
-=======
+# Malbranchea multicolor Mannina & Mosca, 1984 SPECIES
 
 #### Status
 ACCEPTED

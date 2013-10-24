@@ -1,5 +1,4 @@
-Parmelia immiscens Nyl. SPECIES
-=======
+# Parmelia immiscens Nyl. SPECIES
 
 #### Status
 ACCEPTED

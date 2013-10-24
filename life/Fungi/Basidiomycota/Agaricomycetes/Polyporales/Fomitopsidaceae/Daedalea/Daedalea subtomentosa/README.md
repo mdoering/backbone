@@ -1,5 +1,4 @@
-Daedalea subtomentosa Schwein. SPECIES
-=======
+# Daedalea subtomentosa Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium coronatum Viégas SPECIES
-=======
+# Helminthosporium coronatum Viégas SPECIES
 
 #### Status
 ACCEPTED

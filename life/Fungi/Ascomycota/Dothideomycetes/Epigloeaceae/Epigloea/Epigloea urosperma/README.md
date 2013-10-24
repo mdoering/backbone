@@ -1,5 +1,4 @@
-Epigloea urosperma Döbbeler SPECIES
-=======
+# Epigloea urosperma Döbbeler SPECIES
 
 #### Status
 ACCEPTED

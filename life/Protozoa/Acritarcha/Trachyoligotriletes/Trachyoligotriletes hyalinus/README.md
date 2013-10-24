@@ -1,5 +1,4 @@
-Trachyoligotriletes hyalinus (Naumova, 1949) Fensome et al., 1990 SPECIES
-=======
+# Trachyoligotriletes hyalinus (Naumova, 1949) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

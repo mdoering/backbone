@@ -1,5 +1,4 @@
-Marasmius subnauseosus Kauffman SPECIES
-=======
+# Marasmius subnauseosus Kauffman SPECIES
 
 #### Status
 ACCEPTED

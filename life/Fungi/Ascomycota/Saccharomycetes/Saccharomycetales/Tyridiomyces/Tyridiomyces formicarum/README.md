@@ -1,5 +1,4 @@
-Tyridiomyces formicarum W.A. Wheeler, 1907 SPECIES
-=======
+# Tyridiomyces formicarum W.A. Wheeler, 1907 SPECIES
 
 #### Status
 ACCEPTED

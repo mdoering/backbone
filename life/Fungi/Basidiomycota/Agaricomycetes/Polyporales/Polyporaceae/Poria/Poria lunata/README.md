@@ -1,5 +1,4 @@
-Poria lunata Romell SPECIES
-=======
+# Poria lunata Romell SPECIES
 
 #### Status
 ACCEPTED

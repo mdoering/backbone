@@ -1,5 +1,4 @@
-Parapeltella ourateae Bat. & I.H. Lima SPECIES
-=======
+# Parapeltella ourateae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

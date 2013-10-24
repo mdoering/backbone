@@ -1,5 +1,4 @@
-Agaricus robinsonii Mont. SPECIES
-=======
+# Agaricus robinsonii Mont. SPECIES
 
 #### Status
 ACCEPTED

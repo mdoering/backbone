@@ -1,5 +1,4 @@
-Pyrenochaeta fraxinina Fairm. SPECIES
-=======
+# Pyrenochaeta fraxinina Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina confertissima Speg. SPECIES
-=======
+# Asterina confertissima Speg. SPECIES
 
 #### Status
 ACCEPTED

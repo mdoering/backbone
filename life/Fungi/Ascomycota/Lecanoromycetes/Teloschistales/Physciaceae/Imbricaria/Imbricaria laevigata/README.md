@@ -1,5 +1,4 @@
-Imbricaria laevigata (Sm.) Arnold SPECIES
-=======
+# Imbricaria laevigata (Sm.) Arnold SPECIES
 
 #### Status
 ACCEPTED

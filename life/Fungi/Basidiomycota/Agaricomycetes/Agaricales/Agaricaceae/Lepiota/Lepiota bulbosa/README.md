@@ -1,5 +1,4 @@
-Lepiota bulbosa Cleland SPECIES
-=======
+# Lepiota bulbosa Cleland SPECIES
 
 #### Status
 ACCEPTED

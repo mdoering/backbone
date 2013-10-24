@@ -1,5 +1,4 @@
-Mycarthopyrenia intersistens SPECIES
-=======
+# Mycarthopyrenia intersistens SPECIES
 
 #### Status
 ACCEPTED

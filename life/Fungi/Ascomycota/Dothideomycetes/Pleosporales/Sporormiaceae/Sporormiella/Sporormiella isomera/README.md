@@ -1,17 +1,16 @@
-Preussia ahmeddi Valldos. & Guarro SPECIES
-=======
+# Sporormiella isomera S.I. Ahmed & Cain, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 50(3): 445 (1972)
 
 #### Original name
-Preussia ahmeddi Valldos. & Guarro
+Sporormiella isomera S.I. Ahmed & Cain, 1972
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bacteriopsis GENUS
-=======
+# Bacteriopsis GENUS
 
 #### Status
 ACCEPTED

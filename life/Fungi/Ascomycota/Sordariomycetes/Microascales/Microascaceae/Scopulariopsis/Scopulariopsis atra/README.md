@@ -1,5 +1,4 @@
-Scopulariopsis atra Zach, 1934 SPECIES
-=======
+# Scopulariopsis atra Zach, 1934 SPECIES
 
 #### Status
 ACCEPTED

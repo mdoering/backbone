@@ -1,5 +1,4 @@
-Ramularia graminicola Peck SPECIES
-=======
+# Ramularia graminicola Peck SPECIES
 
 #### Status
 ACCEPTED

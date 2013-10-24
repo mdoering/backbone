@@ -1,5 +1,4 @@
-Hypoxylon xylarioides Speg. SPECIES
-=======
+# Hypoxylon xylarioides Speg. SPECIES
 
 #### Status
 ACCEPTED

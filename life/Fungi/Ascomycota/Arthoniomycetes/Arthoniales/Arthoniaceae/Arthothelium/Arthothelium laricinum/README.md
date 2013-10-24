@@ -1,5 +1,4 @@
-Arthothelium laricinum Rehm SPECIES
-=======
+# Arthothelium laricinum Rehm SPECIES
 
 #### Status
 ACCEPTED

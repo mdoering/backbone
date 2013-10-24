@@ -1,5 +1,4 @@
-Thelephora subochracea Peck SPECIES
-=======
+# Thelephora subochracea Peck SPECIES
 
 #### Status
 ACCEPTED

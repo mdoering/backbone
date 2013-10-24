@@ -1,5 +1,4 @@
-Euryancale obliqua Drechsler, 1955 SPECIES
-=======
+# Euryancale obliqua Drechsler, 1955 SPECIES
 
 #### Status
 ACCEPTED

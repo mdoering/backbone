@@ -1,5 +1,4 @@
-Diatoma elongata var. subsalsa Cleve-Euler VARIETY
-=======
+# Diatoma elongata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria subcylindrica E.G. Simmons & R.G. Roberts, 2000 SPECIES
-=======
+# Alternaria subcylindrica E.G. Simmons & R.G. Roberts, 2000 SPECIES
 
 #### Status
 ACCEPTED

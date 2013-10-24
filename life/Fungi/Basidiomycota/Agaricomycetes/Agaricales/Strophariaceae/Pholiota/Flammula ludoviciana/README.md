@@ -1,5 +1,4 @@
-Flammula ludoviciana (Murrill) Sacc. & Trotter SPECIES
-=======
+# Flammula ludoviciana (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

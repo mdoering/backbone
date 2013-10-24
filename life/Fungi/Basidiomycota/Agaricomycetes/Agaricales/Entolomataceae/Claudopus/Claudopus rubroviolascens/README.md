@@ -1,5 +1,4 @@
-Claudopus rubroviolascens Vacek SPECIES
-=======
+# Claudopus rubroviolascens Vacek SPECIES
 
 #### Status
 ACCEPTED

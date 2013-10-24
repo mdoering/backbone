@@ -1,5 +1,4 @@
-Hypomyces fusisporus Tul. SPECIES
-=======
+# Hypomyces fusisporus Tul. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia pulvinaris (Gyeln.) Ahti & D. Hawksw. SPECIES
-=======
+# Xanthoparmelia pulvinaris (Gyeln.) Ahti & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

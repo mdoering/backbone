@@ -1,17 +1,16 @@
-Irenopsis mudumalaiense Hosag. SPECIES
-=======
+# Irenopsis mudumalaiensis Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. bot. 2(2-3): 184 (1991)
 
 #### Original name
-Irenopsis mudumalaiense Hosag.
+Irenopsis mudumalaiensis Hosag.
 
 ### Remarks
 null

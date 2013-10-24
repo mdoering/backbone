@@ -1,17 +1,16 @@
-Peronospora hydrophylii Waite SPECIES
-=======
+# Peronospora hydrophylli Waite SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 7(2): 107 (1892)
 
 #### Original name
-Peronospora hydrophylii Waite
+Peronospora hydrophylli Waite
 
 ### Remarks
 null

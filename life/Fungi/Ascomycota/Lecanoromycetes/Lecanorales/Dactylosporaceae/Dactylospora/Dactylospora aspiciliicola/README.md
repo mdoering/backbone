@@ -1,5 +1,4 @@
-Dactylospora aspiciliicola Alstrup & D. Hawksw. SPECIES
-=======
+# Dactylospora aspiciliicola Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

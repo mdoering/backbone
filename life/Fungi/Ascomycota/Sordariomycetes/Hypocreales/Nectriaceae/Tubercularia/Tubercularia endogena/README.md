@@ -1,5 +1,4 @@
-Tubercularia endogena Speg. SPECIES
-=======
+# Tubercularia endogena Speg. SPECIES
 
 #### Status
 ACCEPTED

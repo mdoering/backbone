@@ -1,14 +1,13 @@
-Opegrapha exaltata (Mont. & Bosch) Müll. Arg. SPECIES
-=======
+# Leiorreuma exaltata (Mont. & Bosch) Staiger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 85: 298 (2002)
 
 #### Original name
 Lecanactis exaltata Mont. & Bosch

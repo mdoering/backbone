@@ -1,5 +1,4 @@
-Oscillatoria quasperforata Skuja SPECIES
-=======
+# Oscillatoria quasperforata Skuja SPECIES
 
 #### Status
 ACCEPTED

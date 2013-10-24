@@ -1,5 +1,4 @@
-Tylopilus parachromapes T.H. Li & Watling SPECIES
-=======
+# Tylopilus parachromapes T.H. Li & Watling SPECIES
 
 #### Status
 ACCEPTED

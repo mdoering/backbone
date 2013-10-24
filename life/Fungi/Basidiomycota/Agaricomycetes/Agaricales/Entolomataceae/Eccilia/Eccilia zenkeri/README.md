@@ -1,5 +1,4 @@
-Eccilia zenkeri Henn. SPECIES
-=======
+# Eccilia zenkeri Henn. SPECIES
 
 #### Status
 ACCEPTED

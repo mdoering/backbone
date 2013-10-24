@@ -1,5 +1,4 @@
-Fusicoccum euphorbiae S. Ahmad SPECIES
-=======
+# Fusicoccum euphorbiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

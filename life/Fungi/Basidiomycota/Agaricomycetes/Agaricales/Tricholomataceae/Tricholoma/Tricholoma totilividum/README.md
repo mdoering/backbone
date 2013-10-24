@@ -1,5 +1,4 @@
-Tricholoma totilividum (Murrill) Murrill SPECIES
-=======
+# Tricholoma totilividum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acremonium tenuicristatum S. Ueda & Udagawa, 1983 SPECIES
-=======
+# Acremonium tenuicristatum S. Ueda & Udagawa, 1983 SPECIES
 
 #### Status
 ACCEPTED

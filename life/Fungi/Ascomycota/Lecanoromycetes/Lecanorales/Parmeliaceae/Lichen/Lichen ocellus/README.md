@@ -1,5 +1,4 @@
-Lichen ocellus Schrank SPECIES
-=======
+# Lichen ocellus Schrank SPECIES
 
 #### Status
 ACCEPTED

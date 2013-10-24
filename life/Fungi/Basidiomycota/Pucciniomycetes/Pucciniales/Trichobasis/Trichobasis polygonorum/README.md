@@ -1,5 +1,4 @@
-Trichobasis polygonorum Lév. SPECIES
-=======
+# Trichobasis polygonorum Lév. SPECIES
 
 #### Status
 ACCEPTED

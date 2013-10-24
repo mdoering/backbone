@@ -1,5 +1,4 @@
-Lonepinella Osawa et al., 1996 GENUS
-=======
+# Lonepinella Osawa et al., 1996 GENUS
 
 #### Status
 ACCEPTED

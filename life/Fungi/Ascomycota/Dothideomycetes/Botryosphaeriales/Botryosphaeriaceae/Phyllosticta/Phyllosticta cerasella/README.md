@@ -1,5 +1,4 @@
-Phyllosticta cerasella Speg. SPECIES
-=======
+# Phyllosticta cerasella Speg. SPECIES
 
 #### Status
 ACCEPTED

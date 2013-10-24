@@ -1,5 +1,4 @@
-Rosalina valvulinerioides SPECIES
-=======
+# Rosalina valvulinerioides SPECIES
 
 #### Status
 ACCEPTED

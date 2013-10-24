@@ -1,5 +1,4 @@
-Polyporus curtipes (Berk. & M.A. Curtis) Ryvarden SPECIES
-=======
+# Polyporus curtipes (Berk. & M.A. Curtis) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

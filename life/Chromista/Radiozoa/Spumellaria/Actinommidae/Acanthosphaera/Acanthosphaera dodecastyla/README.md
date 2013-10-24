@@ -1,5 +1,4 @@
-Acanthosphaera dodecastyla Mast, 1910 SPECIES
-=======
+# Acanthosphaera dodecastyla Mast, 1910 SPECIES
 
 #### Status
 ACCEPTED

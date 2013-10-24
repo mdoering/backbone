@@ -1,5 +1,4 @@
-Isaria briardii (Vuill.) Sacc. & D. Sacc. SPECIES
-=======
+# Isaria briardii (Vuill.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

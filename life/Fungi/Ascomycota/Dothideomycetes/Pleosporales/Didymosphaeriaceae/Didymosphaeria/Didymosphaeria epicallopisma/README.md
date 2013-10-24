@@ -1,5 +1,4 @@
-Didymosphaeria epicallopisma (Wedd.) Sacc. & D. Sacc. SPECIES
-=======
+# Didymosphaeria epicallopisma (Wedd.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

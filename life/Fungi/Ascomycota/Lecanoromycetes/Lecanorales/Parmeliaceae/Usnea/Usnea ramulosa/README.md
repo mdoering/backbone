@@ -1,5 +1,4 @@
-Usnea ramulosa Räsänen SPECIES
-=======
+# Usnea ramulosa Räsänen SPECIES
 
 #### Status
 ACCEPTED

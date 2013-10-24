@@ -1,5 +1,4 @@
-Chaetostroma graminis Ellis & Barthol. SPECIES
-=======
+# Chaetostroma graminis Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosiodothis vrieseae (Höhn.) Hansf. SPECIES
-=======
+# Lembosiodothis vrieseae (Höhn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

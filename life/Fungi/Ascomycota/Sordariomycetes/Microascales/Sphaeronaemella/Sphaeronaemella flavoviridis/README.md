@@ -1,5 +1,4 @@
-Sphaeronaemella flavoviridis (Fuckel) Sacc. SPECIES
-=======
+# Sphaeronaemella flavoviridis (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

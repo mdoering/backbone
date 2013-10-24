@@ -1,5 +1,4 @@
-Inocybe subrubescens G.F. Atk. SPECIES
-=======
+# Inocybe subrubescens G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

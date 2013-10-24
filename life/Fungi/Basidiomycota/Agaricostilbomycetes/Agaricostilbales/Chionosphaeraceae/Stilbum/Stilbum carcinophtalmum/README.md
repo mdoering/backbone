@@ -1,5 +1,4 @@
-Stilbum carcinophtalmum Berk. & M.A. Curtis SPECIES
-=======
+# Stilbum carcinophtalmum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sesquicillium W. Gams, 1968 GENUS
-=======
+# Sesquicillium W. Gams, 1968 GENUS
 
 #### Status
 ACCEPTED

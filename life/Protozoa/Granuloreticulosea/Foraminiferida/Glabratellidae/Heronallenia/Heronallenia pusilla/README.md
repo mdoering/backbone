@@ -1,5 +1,4 @@
-Heronallenia pusilla Parr SPECIES
-=======
+# Heronallenia pusilla Parr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria armoraciae Sacc., 1878 SPECIES
-=======
+# Septoria armoraciae Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

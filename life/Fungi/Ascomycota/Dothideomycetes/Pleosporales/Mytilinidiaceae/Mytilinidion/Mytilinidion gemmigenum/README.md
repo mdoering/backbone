@@ -1,17 +1,16 @@
-Lophium fusisporum Cooke SPECIES
-=======
+# Mytilinidion gemmigenum Fuckel, 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 25-26: 19 (1871)
 
 #### Original name
-Lophium fusisporum Cooke
+Mytilinidion gemmigenum Fuckel, 1871
 
 ### Remarks
 null

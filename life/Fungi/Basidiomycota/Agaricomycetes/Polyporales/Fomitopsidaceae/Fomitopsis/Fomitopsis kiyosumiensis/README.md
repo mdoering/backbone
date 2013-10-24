@@ -1,5 +1,4 @@
-Fomitopsis kiyosumiensis Imazeki & R. Sasaki SPECIES
-=======
+# Fomitopsis kiyosumiensis Imazeki & R. Sasaki SPECIES
 
 #### Status
 ACCEPTED

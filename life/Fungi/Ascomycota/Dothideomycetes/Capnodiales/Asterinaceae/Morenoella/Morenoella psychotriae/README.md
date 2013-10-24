@@ -1,5 +1,4 @@
-Morenoella psychotriae R.W. Ryan SPECIES
-=======
+# Morenoella psychotriae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

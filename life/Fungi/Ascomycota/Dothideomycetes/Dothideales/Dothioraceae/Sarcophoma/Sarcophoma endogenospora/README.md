@@ -1,5 +1,4 @@
-Sarcophoma endogenospora Höhn., 1916 SPECIES
-=======
+# Sarcophoma endogenospora Höhn., 1916 SPECIES
 
 #### Status
 ACCEPTED

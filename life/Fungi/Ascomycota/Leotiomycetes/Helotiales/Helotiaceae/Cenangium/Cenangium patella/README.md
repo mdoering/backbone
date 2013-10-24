@@ -1,5 +1,4 @@
-Cenangium patella Sommerf. SPECIES
-=======
+# Cenangium patella Sommerf. SPECIES
 
 #### Status
 ACCEPTED

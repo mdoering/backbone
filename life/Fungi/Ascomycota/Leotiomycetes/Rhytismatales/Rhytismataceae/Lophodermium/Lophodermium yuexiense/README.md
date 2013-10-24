@@ -1,5 +1,4 @@
-Lophodermium yuexiense C.L. Hou, H.S. Cao & Y.R. Lin SPECIES
-=======
+# Lophodermium yuexiense C.L. Hou, H.S. Cao & Y.R. Lin SPECIES
 
 #### Status
 ACCEPTED

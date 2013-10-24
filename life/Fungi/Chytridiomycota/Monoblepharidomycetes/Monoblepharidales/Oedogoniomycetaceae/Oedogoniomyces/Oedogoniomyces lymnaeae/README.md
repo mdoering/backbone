@@ -1,5 +1,4 @@
-Oedogoniomyces lymnaeae Kobayasi & M. Ôkubo, 1954 SPECIES
-=======
+# Oedogoniomyces lymnaeae Kobayasi & M. Ôkubo, 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella solani (Pass.) Sacc. SPECIES
-=======
+# Aplosporella solani (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

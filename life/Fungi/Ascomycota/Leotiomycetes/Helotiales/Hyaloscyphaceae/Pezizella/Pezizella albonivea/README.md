@@ -1,5 +1,4 @@
-Pezizella albonivea Rehm SPECIES
-=======
+# Pezizella albonivea Rehm SPECIES
 
 #### Status
 ACCEPTED

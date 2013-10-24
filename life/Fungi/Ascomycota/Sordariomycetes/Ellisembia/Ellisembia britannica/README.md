@@ -1,5 +1,4 @@
-Ellisembia britannica (B. Sutton) W.P. Wu SPECIES
-=======
+# Ellisembia britannica (B. Sutton) W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia landolphiae Henn. SPECIES
-=======
+# Diplodia landolphiae Henn. SPECIES
 
 #### Status
 ACCEPTED

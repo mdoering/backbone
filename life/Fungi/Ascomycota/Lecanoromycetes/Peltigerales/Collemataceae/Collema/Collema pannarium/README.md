@@ -1,5 +1,4 @@
-Collema pannarium (Nyl.) H. Olivier SPECIES
-=======
+# Collema pannarium (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

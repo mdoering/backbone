@@ -1,5 +1,4 @@
-Anthracoidea Bref. GENUS
-=======
+# Anthracoidea Bref. GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Boletus subtomentosus subsp. declivitatus C. Martin SUBSPECIES
-=======
+# Boletus declivitatum (C. Martín) Watling, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Edinb. J. Bot. 61(1): 43 (2004)
 
 #### Original name
-Boletus subtomentosus subsp. declivitatus C. Martin
+Boletus subtomentosus declivitatum C. Martín, 1904
 
 ### Remarks
 null

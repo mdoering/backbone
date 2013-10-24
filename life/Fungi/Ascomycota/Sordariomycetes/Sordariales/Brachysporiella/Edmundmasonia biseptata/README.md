@@ -1,5 +1,4 @@
-Edmundmasonia biseptata Hol.-Jech. SPECIES
-=======
+# Edmundmasonia biseptata Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

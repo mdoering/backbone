@@ -1,5 +1,4 @@
-Excipula graminum Corda SPECIES
-=======
+# Excipula graminum Corda SPECIES
 
 #### Status
 ACCEPTED

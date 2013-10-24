@@ -1,17 +1,16 @@
-Creangium Petr. GENUS
-=======
+# Saccardia Cooke GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 4: 361 (1950)
+Grevillea 7(no. 42): 49 (1878)
 
 #### Original name
-Creangium Petr.
+Saccardia Cooke
 
 ### Remarks
 null

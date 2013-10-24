@@ -1,5 +1,4 @@
-Collema petrosum Ach. SPECIES
-=======
+# Collema petrosum Ach. SPECIES
 
 #### Status
 ACCEPTED

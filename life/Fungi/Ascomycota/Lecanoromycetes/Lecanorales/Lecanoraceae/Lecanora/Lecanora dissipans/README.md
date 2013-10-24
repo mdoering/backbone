@@ -1,5 +1,4 @@
-Lecanora dissipans Nyl. SPECIES
-=======
+# Lecanora dissipans Nyl. SPECIES
 
 #### Status
 ACCEPTED

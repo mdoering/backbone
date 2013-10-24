@@ -1,5 +1,4 @@
-Passalora oleariae (B. Sutton & Pascoe) U. Braun & Crous SPECIES
-=======
+# Passalora oleariae (B. Sutton & Pascoe) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

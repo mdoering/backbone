@@ -1,5 +1,4 @@
-Helotium subpallidum (Rehm) Velen. SPECIES
-=======
+# Helotium subpallidum (Rehm) Velen. SPECIES
 
 #### Status
 ACCEPTED

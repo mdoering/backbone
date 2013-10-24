@@ -1,5 +1,4 @@
-Lloydella membranacea (Bory ex Fr.) Bres. SPECIES
-=======
+# Lloydella membranacea (Bory ex Fr.) Bres. SPECIES
 
 #### Status
 ACCEPTED

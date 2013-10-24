@@ -1,5 +1,4 @@
-Spiniferites foveolatus P. Schiøler SPECIES
-=======
+# Spiniferites foveolatus P. Schiøler SPECIES
 
 #### Status
 ACCEPTED

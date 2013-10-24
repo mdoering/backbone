@@ -1,5 +1,4 @@
-Sticta fragillima Bab. SPECIES
-=======
+# Sticta fragillima Bab. SPECIES
 
 #### Status
 ACCEPTED

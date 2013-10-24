@@ -1,5 +1,4 @@
-Claudopus nigrellus (Pers.) P.D. Orton SPECIES
-=======
+# Claudopus nigrellus (Pers.) P.D. Orton SPECIES
 
 #### Status
 ACCEPTED

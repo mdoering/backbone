@@ -1,5 +1,4 @@
-Cercospora macrochaeta Ellis & Everh. SPECIES
-=======
+# Cercospora macrochaeta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

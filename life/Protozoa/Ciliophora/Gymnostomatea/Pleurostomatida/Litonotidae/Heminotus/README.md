@@ -1,5 +1,4 @@
-Heminotus Kahl, 1933 GENUS
-=======
+# Heminotus Kahl, 1933 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophionectria mellina (Mont.) Sacc. SPECIES
-=======
+# Ophionectria mellina (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

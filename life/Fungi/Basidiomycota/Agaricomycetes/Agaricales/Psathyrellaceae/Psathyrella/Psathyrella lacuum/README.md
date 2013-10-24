@@ -1,5 +1,4 @@
-Psathyrella lacuum Huijsman SPECIES
-=======
+# Psathyrella lacuum Huijsman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lachnella chrysophthalma (Pers.) P. Karst., 1884 SPECIES
-=======
+# Lachnellula suecica (de Bary ex Fuckel) Nannf., 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lundell & Nannfeldt, Fungi Exsicc. 41-42: 48 (1953)
 
 #### Original name
-null
+Pithya suecica de Bary ex Fuckel, 1875
 
 ### Remarks
 null

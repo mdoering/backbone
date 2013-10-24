@@ -1,5 +1,4 @@
-Ramularia hydrophylli Ellis & Everh. SPECIES
-=======
+# Ramularia hydrophylli Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

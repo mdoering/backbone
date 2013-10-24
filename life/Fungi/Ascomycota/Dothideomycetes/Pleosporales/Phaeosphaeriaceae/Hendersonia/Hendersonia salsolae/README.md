@@ -1,5 +1,4 @@
-Hendersonia salsolae Moesz SPECIES
-=======
+# Hendersonia salsolae Moesz SPECIES
 
 #### Status
 ACCEPTED

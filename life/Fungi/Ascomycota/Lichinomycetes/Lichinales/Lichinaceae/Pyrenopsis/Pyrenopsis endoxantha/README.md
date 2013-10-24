@@ -1,5 +1,4 @@
-Pyrenopsis endoxantha Anzi SPECIES
-=======
+# Pyrenopsis endoxantha Anzi SPECIES
 
 #### Status
 ACCEPTED

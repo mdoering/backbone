@@ -1,5 +1,4 @@
-Favolaschia caespitosa (Berk.) Kuntze SPECIES
-=======
+# Favolaschia caespitosa (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

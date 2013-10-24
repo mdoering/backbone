@@ -1,5 +1,4 @@
-Ascochyta euphrasiae Oudem. SPECIES
-=======
+# Ascochyta euphrasiae Oudem. SPECIES
 
 #### Status
 ACCEPTED

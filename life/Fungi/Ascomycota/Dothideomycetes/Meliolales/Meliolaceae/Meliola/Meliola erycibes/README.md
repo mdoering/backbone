@@ -1,17 +1,16 @@
-Meliola erycibis Hansf. SPECIES
-=======
+# Meliola erycibes Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Reinwardtia 3: 81 (1954)
 
 #### Original name
-Meliola erycibis Hansf.
+Meliola erycibes Hansf.
 
 ### Remarks
 null

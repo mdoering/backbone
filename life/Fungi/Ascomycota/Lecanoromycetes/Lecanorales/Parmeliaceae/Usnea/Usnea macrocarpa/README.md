@@ -1,5 +1,4 @@
-Usnea macrocarpa Motyka SPECIES
-=======
+# Usnea macrocarpa Motyka SPECIES
 
 #### Status
 ACCEPTED

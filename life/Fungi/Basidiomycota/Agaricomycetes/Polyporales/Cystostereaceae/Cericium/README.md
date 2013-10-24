@@ -1,5 +1,4 @@
-Cericium Hjortstam GENUS
-=======
+# Cericium Hjortstam GENUS
 
 #### Status
 ACCEPTED

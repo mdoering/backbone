@@ -1,5 +1,4 @@
-Amphileptus lamella SPECIES
-=======
+# Amphileptus lamella SPECIES
 
 #### Status
 ACCEPTED

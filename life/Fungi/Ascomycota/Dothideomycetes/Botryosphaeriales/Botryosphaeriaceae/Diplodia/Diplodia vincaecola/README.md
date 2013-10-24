@@ -1,5 +1,4 @@
-Diplodia vincaecola Brunaud SPECIES
-=======
+# Diplodia vincaecola Brunaud SPECIES
 
 #### Status
 ACCEPTED

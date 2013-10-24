@@ -1,5 +1,4 @@
-Russula deceptiva Romagn. SPECIES
-=======
+# Russula deceptiva Romagn. SPECIES
 
 #### Status
 ACCEPTED

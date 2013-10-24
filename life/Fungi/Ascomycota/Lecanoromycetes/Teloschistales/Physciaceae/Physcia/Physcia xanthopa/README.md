@@ -1,5 +1,4 @@
-Physcia xanthopa SPECIES
-=======
+# Physcia xanthopa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia olivacea Groenh. SPECIES
-=======
+# Blastenia olivacea Groenh. SPECIES
 
 #### Status
 ACCEPTED

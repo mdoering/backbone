@@ -1,5 +1,4 @@
-Inocybe humilis J. Favre, 1960 SPECIES
-=======
+# Inocybe humilis J. Favre, 1960 SPECIES
 
 #### Status
 ACCEPTED

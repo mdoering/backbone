@@ -1,5 +1,4 @@
-Vaucheria minuta Blum & Conover SPECIES
-=======
+# Vaucheria minuta Blum & Conover SPECIES
 
 #### Status
 ACCEPTED

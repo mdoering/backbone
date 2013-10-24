@@ -1,5 +1,4 @@
-Sporoschisma phaeocentron W.H. Ho, K.D. Hyde & Goh, 1997 SPECIES
-=======
+# Sporoschisma phaeocentron W.H. Ho, K.D. Hyde & Goh, 1997 SPECIES
 
 #### Status
 ACCEPTED

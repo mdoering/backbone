@@ -1,5 +1,4 @@
-Ceratocorys magna Kofoid SPECIES
-=======
+# Ceratocorys magna Kofoid SPECIES
 
 #### Status
 ACCEPTED

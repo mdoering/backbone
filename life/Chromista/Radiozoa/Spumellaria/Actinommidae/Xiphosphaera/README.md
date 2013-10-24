@@ -1,5 +1,4 @@
-Xiphosphaera Haeckel, 1881 GENUS
-=======
+# Xiphosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

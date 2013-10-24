@@ -1,5 +1,4 @@
-Meliola aphanamixidis Hosag. SPECIES
-=======
+# Meliola aphanamixidis Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endochytrium oophilum Sparrow, 1933 SPECIES
-=======
+# Endochytrium oophilum Sparrow, 1933 SPECIES
 
 #### Status
 ACCEPTED

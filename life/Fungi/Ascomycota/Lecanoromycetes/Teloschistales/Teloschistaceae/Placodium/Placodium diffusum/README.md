@@ -1,5 +1,4 @@
-Placodium diffusum Hoffm. SPECIES
-=======
+# Placodium diffusum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Endophragmia taxi M.B. Ellis, 1961 SPECIES
-=======
+# Endophragmiella taxi (M.B. Ellis) S. Hughes, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 82: 48 (1961)
+N. Z. Jl Bot. 17(2): 153 (1979)
 
 #### Original name
 Endophragmia taxi M.B. Ellis, 1961

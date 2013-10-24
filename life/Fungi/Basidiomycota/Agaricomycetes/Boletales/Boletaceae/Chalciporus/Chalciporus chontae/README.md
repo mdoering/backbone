@@ -1,5 +1,4 @@
-Chalciporus chontae Halling & M. Mata SPECIES
-=======
+# Chalciporus chontae Halling & M. Mata SPECIES
 
 #### Status
 ACCEPTED

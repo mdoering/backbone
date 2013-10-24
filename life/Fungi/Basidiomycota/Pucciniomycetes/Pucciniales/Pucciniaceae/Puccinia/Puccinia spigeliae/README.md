@@ -1,5 +1,4 @@
-Puccinia spigeliae Syd. SPECIES
-=======
+# Puccinia spigeliae Syd. SPECIES
 
 #### Status
 ACCEPTED

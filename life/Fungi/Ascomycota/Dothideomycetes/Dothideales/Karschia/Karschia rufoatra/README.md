@@ -1,5 +1,4 @@
-Karschia rufoatra Starbäck SPECIES
-=======
+# Karschia rufoatra Starbäck SPECIES
 
 #### Status
 ACCEPTED

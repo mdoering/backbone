@@ -1,5 +1,4 @@
-Pseudocercospora globosae (J.M. Yen) Deighton SPECIES
-=======
+# Pseudocercospora globosae (J.M. Yen) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Ralstonia campinensis Goris et al., 2001 SPECIES
-=======
+# Wautersia campinensis (Goris et al., 2001) Vaneechoutte et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

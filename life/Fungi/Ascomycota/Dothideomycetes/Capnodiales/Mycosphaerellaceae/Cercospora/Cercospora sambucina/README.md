@@ -1,5 +1,4 @@
-Cercospora sambucina Ellis & Kellerm. SPECIES
-=======
+# Cercospora sambucina Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

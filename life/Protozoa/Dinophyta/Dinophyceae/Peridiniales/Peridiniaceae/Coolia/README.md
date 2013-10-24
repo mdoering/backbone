@@ -1,5 +1,4 @@
-Coolia Meunier, 1919 GENUS
-=======
+# Coolia Meunier, 1919 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella baileyi A.H. Sm. SPECIES
-=======
+# Psathyrella baileyi A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

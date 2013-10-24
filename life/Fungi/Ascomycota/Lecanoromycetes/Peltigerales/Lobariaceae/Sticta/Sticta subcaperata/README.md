@@ -1,5 +1,4 @@
-Sticta subcaperata (Nyl.) Nyl. SPECIES
-=======
+# Sticta subcaperata (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

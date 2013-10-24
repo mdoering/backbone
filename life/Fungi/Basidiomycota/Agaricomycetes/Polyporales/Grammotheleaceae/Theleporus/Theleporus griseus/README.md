@@ -1,5 +1,4 @@
-Theleporus griseus Rick SPECIES
-=======
+# Theleporus griseus Rick SPECIES
 
 #### Status
 ACCEPTED

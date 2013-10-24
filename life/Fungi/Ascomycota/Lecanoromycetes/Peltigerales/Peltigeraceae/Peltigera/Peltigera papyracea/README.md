@@ -1,5 +1,4 @@
-Peltigera papyracea Hoffm. SPECIES
-=======
+# Peltigera papyracea Hoffm. SPECIES
 
 #### Status
 ACCEPTED

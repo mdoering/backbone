@@ -1,5 +1,4 @@
-Septoria astrapaeae Crié, 1874 SPECIES
-=======
+# Septoria astrapaeae Crié, 1874 SPECIES
 
 #### Status
 ACCEPTED

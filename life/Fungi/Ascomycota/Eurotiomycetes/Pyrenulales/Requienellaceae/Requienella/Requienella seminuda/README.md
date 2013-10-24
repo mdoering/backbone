@@ -1,14 +1,13 @@
-Strickeria seminuda (Pers.) G. Winter SPECIES
-=======
+# Requienella seminuda (Pers.) Boise SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Krypt. -Fl. Deutschl. , Oesterr. Schweiz (Leipzig), <b>1</b> 2 Abt. Ascomyceten 286 (1885)
+Mycologia 78(1): 38 (1986)
 
 #### Original name
 Sphaeria seminuda De Not.

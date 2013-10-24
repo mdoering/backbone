@@ -1,5 +1,4 @@
-Lecanactis conglomerata (Spreng.) Mont. & Bosch SPECIES
-=======
+# Lecanactis conglomerata (Spreng.) Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

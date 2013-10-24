@@ -1,5 +1,4 @@
-Agaricus vitulinus var. vitulinus Pers. VARIETY
-=======
+# Agaricus vitulinus Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syn. meth. fung. (Göttingen) 2: 305 (1801)
 
 #### Original name
-Agaricus vitulinus var. vitulinus Pers.
+Agaricus vitulinus Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Isaria grassa Pers. SPECIES
-=======
+# Isaria grassa Pers. SPECIES
 
 #### Status
 ACCEPTED

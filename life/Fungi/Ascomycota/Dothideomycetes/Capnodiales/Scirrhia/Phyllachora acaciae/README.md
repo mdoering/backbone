@@ -1,8 +1,7 @@
-Phyllachora sudanensis Petr., 1931 SPECIES
-=======
+# Phyllachora acaciae Henn., 1894 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

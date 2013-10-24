@@ -1,5 +1,4 @@
-Merisma petaloides Chevall. SPECIES
-=======
+# Merisma petaloides Chevall. SPECIES
 
 #### Status
 ACCEPTED

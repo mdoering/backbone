@@ -1,5 +1,4 @@
-Pannaria pruinosa P. M. Jørg. & Timdal SPECIES
-=======
+# Pannaria pruinosa P. M. Jørg. & Timdal SPECIES
 
 #### Status
 ACCEPTED

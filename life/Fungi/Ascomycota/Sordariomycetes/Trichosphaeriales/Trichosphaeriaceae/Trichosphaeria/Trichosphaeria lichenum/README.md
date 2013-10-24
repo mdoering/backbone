@@ -1,5 +1,4 @@
-Trichosphaeria lichenum P. Karst. & Har. SPECIES
-=======
+# Trichosphaeria lichenum P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

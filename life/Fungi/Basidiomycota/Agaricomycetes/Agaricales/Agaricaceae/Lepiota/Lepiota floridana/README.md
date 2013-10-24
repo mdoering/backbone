@@ -1,5 +1,4 @@
-Lepiota floridana Murrill SPECIES
-=======
+# Lepiota floridana Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyroidina advena (Cushman) SPECIES
-=======
+# Gyroidina advena (Cushman) SPECIES
 
 #### Status
 ACCEPTED

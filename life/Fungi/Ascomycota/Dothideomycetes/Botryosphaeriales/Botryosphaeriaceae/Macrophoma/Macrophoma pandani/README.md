@@ -1,5 +1,4 @@
-Macrophoma pandani Verona SPECIES
-=======
+# Macrophoma pandani Verona SPECIES
 
 #### Status
 ACCEPTED

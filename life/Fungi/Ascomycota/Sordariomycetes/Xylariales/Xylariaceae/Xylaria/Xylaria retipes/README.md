@@ -1,5 +1,4 @@
-Xylaria retipes (Lév.) Fr. SPECIES
-=======
+# Xylaria retipes (Lév.) Fr. SPECIES
 
 #### Status
 ACCEPTED

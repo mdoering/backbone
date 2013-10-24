@@ -1,5 +1,4 @@
-Cercoseptoria tecomicola (J.M. Yen) J.M. Yen SPECIES
-=======
+# Cercoseptoria tecomicola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacillus okhensis Nowlan et al., 2006 SPECIES
-=======
+# Bacillus okhensis Nowlan et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

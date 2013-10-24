@@ -1,5 +1,4 @@
-Bullaria triannulata (Berk. & M.A. Curtis) Arthur & Mains SPECIES
-=======
+# Bullaria triannulata (Berk. & M.A. Curtis) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

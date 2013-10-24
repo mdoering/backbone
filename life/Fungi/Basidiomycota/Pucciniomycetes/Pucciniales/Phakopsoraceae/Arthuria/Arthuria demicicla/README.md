@@ -1,5 +1,4 @@
-Arthuria demicicla Buriticá & J.F. Hennen, 1998 SPECIES
-=======
+# Arthuria demicicla Buriticá & J.F. Hennen, 1998 SPECIES
 
 #### Status
 ACCEPTED

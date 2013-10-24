@@ -1,8 +1,7 @@
-Rhabdospora pinea curva P. Karst., 1871 INFRASPECIFIC_NAME
-=======
+# Rhabdospora curva P. Karst., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Rhabdospora curva P. Karst., 1878
 
 ### Remarks
 null

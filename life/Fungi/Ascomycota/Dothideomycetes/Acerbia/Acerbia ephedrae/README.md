@@ -1,5 +1,4 @@
-Acerbia ephedrae Rehm SPECIES
-=======
+# Acerbia ephedrae Rehm SPECIES
 
 #### Status
 ACCEPTED

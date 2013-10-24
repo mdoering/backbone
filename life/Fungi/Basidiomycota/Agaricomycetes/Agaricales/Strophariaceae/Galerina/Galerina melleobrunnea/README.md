@@ -1,5 +1,4 @@
-Galerina melleobrunnea A.E. Wood SPECIES
-=======
+# Galerina melleobrunnea A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

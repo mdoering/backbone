@@ -1,5 +1,4 @@
-Coryneum menioci Annal. SPECIES
-=======
+# Coryneum menioci Annal. SPECIES
 
 #### Status
 ACCEPTED

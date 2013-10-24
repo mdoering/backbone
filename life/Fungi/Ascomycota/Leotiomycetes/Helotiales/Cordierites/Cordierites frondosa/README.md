@@ -1,5 +1,4 @@
-Cordierites frondosa (Kobayasi) Korf SPECIES
-=======
+# Cordierites frondosa (Kobayasi) Korf SPECIES
 
 #### Status
 ACCEPTED

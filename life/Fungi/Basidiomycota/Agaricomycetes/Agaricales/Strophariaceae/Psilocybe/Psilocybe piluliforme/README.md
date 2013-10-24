@@ -1,5 +1,4 @@
-Psilocybe piluliforme (Bull.) SPECIES
-=======
+# Psilocybe piluliforme (Bull.) SPECIES
 
 #### Status
 ACCEPTED

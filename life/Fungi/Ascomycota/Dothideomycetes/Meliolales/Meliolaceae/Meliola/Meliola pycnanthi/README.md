@@ -1,5 +1,4 @@
-Meliola pycnanthi Hansf. SPECIES
-=======
+# Meliola pycnanthi Hansf. SPECIES
 
 #### Status
 ACCEPTED

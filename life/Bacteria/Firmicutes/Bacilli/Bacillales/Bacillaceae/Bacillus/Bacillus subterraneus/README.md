@@ -1,5 +1,4 @@
-Bacillus subterraneus Kanso et al., 2002 SPECIES
-=======
+# Bacillus subterraneus Kanso et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

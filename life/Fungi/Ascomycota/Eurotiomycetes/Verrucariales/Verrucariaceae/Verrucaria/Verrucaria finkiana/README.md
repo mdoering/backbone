@@ -1,5 +1,4 @@
-Verrucaria finkiana Servít SPECIES
-=======
+# Verrucaria finkiana Servít SPECIES
 
 #### Status
 ACCEPTED

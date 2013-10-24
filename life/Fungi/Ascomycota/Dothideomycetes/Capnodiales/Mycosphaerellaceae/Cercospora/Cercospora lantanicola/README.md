@@ -1,5 +1,4 @@
-Cercospora lantanicola Chupp SPECIES
-=======
+# Cercospora lantanicola Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria depauperata Malme SPECIES
-=======
+# Catillaria depauperata Malme SPECIES
 
 #### Status
 ACCEPTED

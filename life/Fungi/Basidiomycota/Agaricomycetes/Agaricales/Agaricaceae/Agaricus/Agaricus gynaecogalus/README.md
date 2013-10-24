@@ -1,5 +1,4 @@
-Agaricus gynaecogalus J. Otto & Krombh. SPECIES
-=======
+# Agaricus gynaecogalus J. Otto & Krombh. SPECIES
 
 #### Status
 ACCEPTED

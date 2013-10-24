@@ -1,5 +1,4 @@
-Isaria stilbiformis Speg. SPECIES
-=======
+# Isaria stilbiformis Speg. SPECIES
 
 #### Status
 ACCEPTED

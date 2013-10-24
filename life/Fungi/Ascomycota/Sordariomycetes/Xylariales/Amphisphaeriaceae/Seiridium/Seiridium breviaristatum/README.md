@@ -1,5 +1,4 @@
-Seiridium breviaristatum (Tracy & Earle) B. Sutton SPECIES
-=======
+# Seiridium breviaristatum (Tracy & Earle) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

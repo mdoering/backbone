@@ -1,5 +1,4 @@
-Phellinus lukinsii N. Walters SPECIES
-=======
+# Phellinus lukinsii N. Walters SPECIES
 
 #### Status
 ACCEPTED

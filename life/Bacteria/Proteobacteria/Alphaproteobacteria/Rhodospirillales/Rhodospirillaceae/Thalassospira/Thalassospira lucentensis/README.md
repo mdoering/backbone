@@ -1,5 +1,4 @@
-Thalassospira lucentensis López-López et al., 2002, 2002. SPECIES
-=======
+# Thalassospira lucentensis López-López et al., 2002, 2002. SPECIES
 
 #### Status
 ACCEPTED

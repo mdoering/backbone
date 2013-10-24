@@ -1,5 +1,4 @@
-Stagonopsis cuscutae Rudakov SPECIES
-=======
+# Stagonopsis cuscutae Rudakov SPECIES
 
 #### Status
 ACCEPTED

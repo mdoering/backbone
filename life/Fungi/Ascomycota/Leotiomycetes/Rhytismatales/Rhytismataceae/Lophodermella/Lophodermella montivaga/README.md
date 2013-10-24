@@ -1,17 +1,16 @@
-Hypodermella montivaga f. montivaga (Petr.) Dearn. FORM
-=======
+# Lophodermella montivaga Petr., 1922 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 16(4): 151 (1924)
+in Sydow & Petrak, Annls mycol. 20(3/4): 191 (1922)
 
 #### Original name
-Hypodermella montivaga f. montivaga (Petr.) Dearn.
+Lophodermella montivaga Petr., 1922
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phoma intermedia Sacc. SPECIES
-=======
+# Phoma intermedia Sacc. SPECIES
 
 #### Status
 ACCEPTED

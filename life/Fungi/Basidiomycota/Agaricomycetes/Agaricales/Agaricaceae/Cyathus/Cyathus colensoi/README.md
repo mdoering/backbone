@@ -1,5 +1,4 @@
-Cyathus colensoi Berk., 1855 SPECIES
-=======
+# Cyathus colensoi Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

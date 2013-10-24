@@ -1,5 +1,4 @@
-Lichen diatrypus Ach. SPECIES
-=======
+# Lichen diatrypus Ach. SPECIES
 
 #### Status
 ACCEPTED

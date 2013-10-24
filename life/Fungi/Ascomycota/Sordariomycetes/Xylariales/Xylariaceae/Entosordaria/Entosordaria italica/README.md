@@ -1,5 +1,4 @@
-Entosordaria italica (Sacc. & Speg.) Höhn. SPECIES
-=======
+# Entosordaria italica (Sacc. & Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

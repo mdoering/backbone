@@ -1,5 +1,4 @@
-Annulohypoxylon hemicarpum Jad. Pereira, J.D. Rogers & J.L. Bezerra, 2010 SPECIES
-=======
+# Annulohypoxylon hemicarpum Jad. Pereira, J.D. Rogers & J.L. Bezerra, 2010 SPECIES
 
 #### Status
 ACCEPTED

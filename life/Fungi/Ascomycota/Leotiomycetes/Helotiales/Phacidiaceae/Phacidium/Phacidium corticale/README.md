@@ -1,5 +1,4 @@
-Phacidium corticale Schwein. SPECIES
-=======
+# Phacidium corticale Schwein. SPECIES
 
 #### Status
 ACCEPTED

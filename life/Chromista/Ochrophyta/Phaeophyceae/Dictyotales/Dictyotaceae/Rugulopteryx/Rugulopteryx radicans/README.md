@@ -1,5 +1,4 @@
-Rugulopteryx radicans (Harvey) De Clerck & Coppejans, 2006 SPECIES
-=======
+# Rugulopteryx radicans (Harvey) De Clerck & Coppejans, 2006 SPECIES
 
 #### Status
 ACCEPTED

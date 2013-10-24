@@ -1,5 +1,4 @@
-Clitocybe ambifaria (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe ambifaria (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

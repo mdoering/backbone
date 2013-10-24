@@ -1,5 +1,4 @@
-Multiplicisphaeridium mergaeferum Loeblich, 1970 SPECIES
-=======
+# Multiplicisphaeridium mergaeferum Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

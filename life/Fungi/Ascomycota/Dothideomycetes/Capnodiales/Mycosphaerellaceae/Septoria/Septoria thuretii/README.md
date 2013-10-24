@@ -1,5 +1,4 @@
-Septoria thuretii Brunaud SPECIES
-=======
+# Septoria thuretii Brunaud SPECIES
 
 #### Status
 ACCEPTED

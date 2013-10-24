@@ -1,5 +1,4 @@
-Agaricus tucala Speg. SPECIES
-=======
+# Agaricus tucala Speg. SPECIES
 
 #### Status
 ACCEPTED

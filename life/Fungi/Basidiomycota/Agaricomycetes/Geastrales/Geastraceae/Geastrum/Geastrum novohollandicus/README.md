@@ -1,8 +1,7 @@
-Geaster novohollandicus F. Muell. SPECIES
-=======
+# Geastrum novohollandicus F. Muell. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster novohollandicus F. Muell.
+Geastrum novohollandicus F. Muell.
 
 ### Remarks
 null

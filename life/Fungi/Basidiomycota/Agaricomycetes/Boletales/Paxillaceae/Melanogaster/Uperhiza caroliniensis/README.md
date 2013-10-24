@@ -1,5 +1,4 @@
-Uperhiza caroliniensis Bosc SPECIES
-=======
+# Uperhiza caroliniensis Bosc SPECIES
 
 #### Status
 ACCEPTED

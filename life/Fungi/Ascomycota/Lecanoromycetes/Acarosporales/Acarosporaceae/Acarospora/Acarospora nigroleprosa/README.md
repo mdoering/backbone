@@ -1,5 +1,4 @@
-Acarospora nigroleprosa H. Olivier SPECIES
-=======
+# Acarospora nigroleprosa H. Olivier SPECIES
 
 #### Status
 ACCEPTED

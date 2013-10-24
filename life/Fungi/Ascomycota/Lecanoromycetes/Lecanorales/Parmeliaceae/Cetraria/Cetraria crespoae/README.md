@@ -1,5 +1,4 @@
-Cetraria crespoae (Barreno & Vázquez) Kärnefelt SPECIES
-=======
+# Cetraria crespoae (Barreno & Vázquez) Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

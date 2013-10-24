@@ -1,5 +1,4 @@
-Opegrapha rufula (Mont.) Trevis. SPECIES
-=======
+# Opegrapha rufula (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

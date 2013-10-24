@@ -1,5 +1,4 @@
-Discosia rhododendri Speschnew SPECIES
-=======
+# Discosia rhododendri Speschnew SPECIES
 
 #### Status
 ACCEPTED

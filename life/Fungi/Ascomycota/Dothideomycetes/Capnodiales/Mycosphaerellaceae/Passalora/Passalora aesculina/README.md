@@ -1,5 +1,4 @@
-Passalora aesculina (Ellis & Kellerm.) U. Braun & Crous SPECIES
-=======
+# Passalora aesculina (Ellis & Kellerm.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

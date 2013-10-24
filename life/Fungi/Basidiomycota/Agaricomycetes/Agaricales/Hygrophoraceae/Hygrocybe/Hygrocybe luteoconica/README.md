@@ -1,5 +1,4 @@
-Hygrocybe luteoconica A.M. Young SPECIES
-=======
+# Hygrocybe luteoconica A.M. Young SPECIES
 
 #### Status
 ACCEPTED

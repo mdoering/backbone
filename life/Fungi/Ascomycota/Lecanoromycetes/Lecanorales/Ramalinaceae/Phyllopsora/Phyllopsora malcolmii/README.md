@@ -1,5 +1,4 @@
-Phyllopsora malcolmii Vezda & Kalb SPECIES
-=======
+# Phyllopsora malcolmii Vezda & Kalb SPECIES
 
 #### Status
 ACCEPTED

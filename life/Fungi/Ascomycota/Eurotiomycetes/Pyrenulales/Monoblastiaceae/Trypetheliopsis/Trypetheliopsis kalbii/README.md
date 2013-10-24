@@ -1,5 +1,4 @@
-Trypetheliopsis kalbii (Lücking & Sérus.) Aptroot SPECIES
-=======
+# Trypetheliopsis kalbii (Lücking & Sérus.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phanerochaete andreae Burds., Beltrán-Tej. & Rodr. Armas, 1995 SPECIES
-=======
+# Phanerochaete andreae Burds., Beltrán-Tej. & Rodr. Armas, 1995 SPECIES
 
 #### Status
 ACCEPTED

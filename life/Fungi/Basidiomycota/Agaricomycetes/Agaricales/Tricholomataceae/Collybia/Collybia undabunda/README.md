@@ -1,5 +1,4 @@
-Collybia undabunda Berk. SPECIES
-=======
+# Collybia undabunda Berk. SPECIES
 
 #### Status
 ACCEPTED

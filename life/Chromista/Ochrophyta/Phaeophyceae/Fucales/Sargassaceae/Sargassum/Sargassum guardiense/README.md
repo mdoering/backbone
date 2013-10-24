@@ -1,5 +1,4 @@
-Sargassum guardiense Setchell & Gardner SPECIES
-=======
+# Sargassum guardiense Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

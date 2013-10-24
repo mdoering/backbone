@@ -1,5 +1,4 @@
-Sphaeria arceuthobii Peck SPECIES
-=======
+# Sphaeria arceuthobii Peck SPECIES
 
 #### Status
 ACCEPTED

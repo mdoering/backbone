@@ -1,5 +1,4 @@
-Lecanidium xantholeucum (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Lecanidium xantholeucum (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

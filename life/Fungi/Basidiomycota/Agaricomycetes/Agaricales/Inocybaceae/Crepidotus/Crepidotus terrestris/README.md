@@ -1,5 +1,4 @@
-Crepidotus terrestris S. Imai SPECIES
-=======
+# Crepidotus terrestris S. Imai SPECIES
 
 #### Status
 ACCEPTED

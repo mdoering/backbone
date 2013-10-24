@@ -1,11 +1,10 @@
-Spirulina maior Kütz. SPECIES
-=======
+# Spirulina major Kuetzing Ex Gomont SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Integrated Taxonomic Information System
 
 #### Published in
 null

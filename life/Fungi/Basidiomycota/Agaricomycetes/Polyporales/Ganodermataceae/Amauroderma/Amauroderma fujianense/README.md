@@ -1,5 +1,4 @@
-Amauroderma fujianense J.D. Zhao, L.W. Hsu & X.Q. Zhang, 1979 SPECIES
-=======
+# Amauroderma fujianense J.D. Zhao, L.W. Hsu & X.Q. Zhang, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula chamaeleon Singer SPECIES
-=======
+# Russula chamaeleon Singer SPECIES
 
 #### Status
 ACCEPTED

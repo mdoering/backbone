@@ -1,5 +1,4 @@
-Asterella setulosa (Pat.) Sacc. SPECIES
-=======
+# Asterella setulosa (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

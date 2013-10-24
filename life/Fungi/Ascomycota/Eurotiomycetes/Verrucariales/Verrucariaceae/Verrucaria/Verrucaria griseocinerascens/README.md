@@ -1,5 +1,4 @@
-Verrucaria griseocinerascens (Vain.) Zschacke SPECIES
-=======
+# Verrucaria griseocinerascens (Vain.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria marantae Syd. & P. Syd. SPECIES
-=======
+# Leptosphaeria marantae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

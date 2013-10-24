@@ -1,5 +1,4 @@
-Urocystis purpurea Hazsl. SPECIES
-=======
+# Urocystis purpurea Hazsl. SPECIES
 
 #### Status
 ACCEPTED

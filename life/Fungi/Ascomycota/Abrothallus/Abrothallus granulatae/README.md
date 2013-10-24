@@ -1,5 +1,4 @@
-Abrothallus granulatae Wedin SPECIES
-=======
+# Abrothallus granulatae Wedin SPECIES
 
 #### Status
 ACCEPTED

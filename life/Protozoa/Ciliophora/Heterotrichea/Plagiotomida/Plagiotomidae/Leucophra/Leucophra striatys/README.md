@@ -1,5 +1,4 @@
-Leucophra striatys SPECIES
-=======
+# Leucophra striatys SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Herpotrichia hippocrateae Tilak SPECIES
-=======
+# Herpotrichia hippocrateae Tilak SPECIES
 
 #### Status
 ACCEPTED

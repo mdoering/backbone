@@ -1,5 +1,4 @@
-Gibellia dothideoides Sacc. & Berl. SPECIES
-=======
+# Gibellia dothideoides Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

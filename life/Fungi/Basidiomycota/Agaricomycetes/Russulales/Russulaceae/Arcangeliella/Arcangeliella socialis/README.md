@@ -1,5 +1,4 @@
-Arcangeliella socialis (Harkn.) Zeller & C.W. Dodge SPECIES
-=======
+# Arcangeliella socialis (Harkn.) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

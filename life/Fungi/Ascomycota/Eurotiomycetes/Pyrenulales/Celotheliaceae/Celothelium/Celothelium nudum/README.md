@@ -1,5 +1,4 @@
-Celothelium nudum (Fée) Trevis. SPECIES
-=======
+# Celothelium nudum (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

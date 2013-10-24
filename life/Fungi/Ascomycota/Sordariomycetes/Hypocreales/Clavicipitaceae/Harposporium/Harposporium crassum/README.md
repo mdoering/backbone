@@ -1,5 +1,4 @@
-Harposporium crassum A.M. Sheph., 1955 SPECIES
-=======
+# Harposporium crassum A.M. Sheph., 1955 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavulinopsis arctica Kobayasi SPECIES
-=======
+# Clavulinopsis arctica Kobayasi SPECIES
 
 #### Status
 ACCEPTED

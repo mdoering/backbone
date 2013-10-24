@@ -1,5 +1,4 @@
-Uredo magellanica Speg. SPECIES
-=======
+# Uredo magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

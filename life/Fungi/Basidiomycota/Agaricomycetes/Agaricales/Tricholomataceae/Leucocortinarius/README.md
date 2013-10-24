@@ -1,5 +1,4 @@
-Leucocortinarius (J.E. Lange) Singer, 1945 GENUS
-=======
+# Leucocortinarius (J.E. Lange) Singer, 1945 GENUS
 
 #### Status
 ACCEPTED

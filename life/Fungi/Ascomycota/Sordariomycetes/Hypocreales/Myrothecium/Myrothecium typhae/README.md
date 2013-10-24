@@ -1,5 +1,4 @@
-Myrothecium typhae Fuckel SPECIES
-=======
+# Myrothecium typhae Fuckel SPECIES
 
 #### Status
 ACCEPTED

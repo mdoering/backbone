@@ -1,17 +1,16 @@
-Puccinia graminis f. sp FORM
-=======
+# Puccinia graminis Pers. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Neues Mag. Bot. 1: 119 (1794)
 
 #### Original name
-Puccinia graminis f. sp
+Puccinia graminis Pers.
 
 ### Remarks
 null

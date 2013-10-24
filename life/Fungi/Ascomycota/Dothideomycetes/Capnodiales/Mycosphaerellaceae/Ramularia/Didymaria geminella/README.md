@@ -1,5 +1,4 @@
-Didymaria geminella Höhn. SPECIES
-=======
+# Didymaria geminella Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma adstringens Pers. SPECIES
-=======
+# Tricholoma adstringens Pers. SPECIES
 
 #### Status
 ACCEPTED

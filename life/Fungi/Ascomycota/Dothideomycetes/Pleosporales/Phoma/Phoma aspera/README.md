@@ -1,5 +1,4 @@
-Phoma aspera Boyer & Jacz. SPECIES
-=======
+# Phoma aspera Boyer & Jacz. SPECIES
 
 #### Status
 ACCEPTED

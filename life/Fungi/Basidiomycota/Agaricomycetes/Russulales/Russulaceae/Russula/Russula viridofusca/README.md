@@ -1,5 +1,4 @@
-Russula viridofusca Grund SPECIES
-=======
+# Russula viridofusca Grund SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza yogoensis (Ellis & Galloway) Sacc. SPECIES
-=======
+# Pyrenopeziza yogoensis (Ellis & Galloway) Sacc. SPECIES
 
 #### Status
 ACCEPTED

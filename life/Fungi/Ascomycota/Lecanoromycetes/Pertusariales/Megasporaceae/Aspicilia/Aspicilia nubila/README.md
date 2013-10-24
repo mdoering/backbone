@@ -1,5 +1,4 @@
-Aspicilia nubila (Stizenb.) C.W. Dodge SPECIES
-=======
+# Aspicilia nubila (Stizenb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

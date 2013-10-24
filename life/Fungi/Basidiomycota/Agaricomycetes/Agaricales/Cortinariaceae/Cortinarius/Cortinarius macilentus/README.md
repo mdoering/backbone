@@ -1,5 +1,4 @@
-Cortinarius macilentus M.M. Moser SPECIES
-=======
+# Cortinarius macilentus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

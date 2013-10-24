@@ -1,5 +1,4 @@
-Pseudofusarium purpurerum Matsushima SPECIES
-=======
+# Pseudofusarium purpurerum Matsushima SPECIES
 
 #### Status
 ACCEPTED

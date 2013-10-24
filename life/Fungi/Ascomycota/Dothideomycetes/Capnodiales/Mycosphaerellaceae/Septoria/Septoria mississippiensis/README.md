@@ -1,5 +1,4 @@
-Septoria mississippiensis R. Sprague SPECIES
-=======
+# Septoria mississippiensis R. Sprague SPECIES
 
 #### Status
 ACCEPTED

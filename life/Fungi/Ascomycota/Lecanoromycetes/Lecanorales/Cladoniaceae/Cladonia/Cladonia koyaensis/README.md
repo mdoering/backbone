@@ -1,5 +1,4 @@
-Cladonia koyaensis Asahina SPECIES
-=======
+# Cladonia koyaensis Asahina SPECIES
 
 #### Status
 ACCEPTED

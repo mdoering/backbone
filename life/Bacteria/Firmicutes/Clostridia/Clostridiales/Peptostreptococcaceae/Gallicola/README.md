@@ -1,5 +1,4 @@
-Gallicola Ezaki et al., 2001 GENUS
-=======
+# Gallicola Ezaki et al., 2001 GENUS
 
 #### Status
 ACCEPTED

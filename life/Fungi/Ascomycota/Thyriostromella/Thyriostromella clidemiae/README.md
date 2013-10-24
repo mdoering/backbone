@@ -1,5 +1,4 @@
-Thyriostromella clidemiae Bat. & Peres SPECIES
-=======
+# Thyriostromella clidemiae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

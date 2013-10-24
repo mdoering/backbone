@@ -1,5 +1,4 @@
-Ramularia periplocae Vanev SPECIES
-=======
+# Ramularia periplocae Vanev SPECIES
 
 #### Status
 ACCEPTED

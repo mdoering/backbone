@@ -1,5 +1,4 @@
-Sphaeria rigida DC. SPECIES
-=======
+# Sphaeria rigida DC. SPECIES
 
 #### Status
 ACCEPTED

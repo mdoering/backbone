@@ -1,5 +1,4 @@
-Tephromela promontorii (Zahlbr.) Kalb SPECIES
-=======
+# Tephromela promontorii (Zahlbr.) Kalb SPECIES
 
 #### Status
 ACCEPTED

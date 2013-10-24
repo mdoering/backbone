@@ -1,5 +1,4 @@
-Elsinoë arrudai Bitanc. & Jenkins, 1941 SPECIES
-=======
+# Elsinoë arrudai Bitanc. & Jenkins, 1941 SPECIES
 
 #### Status
 ACCEPTED

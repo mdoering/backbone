@@ -1,5 +1,4 @@
-Coriolellus delbustoi J.E. Wright & J.R. Deschamps SPECIES
-=======
+# Coriolellus delbustoi J.E. Wright & J.R. Deschamps SPECIES
 
 #### Status
 ACCEPTED

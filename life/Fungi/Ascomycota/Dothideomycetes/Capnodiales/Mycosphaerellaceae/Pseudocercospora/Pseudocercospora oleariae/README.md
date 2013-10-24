@@ -1,5 +1,4 @@
-Pseudocercospora oleariae U. Braun & M.A. Dick, 2003 SPECIES
-=======
+# Pseudocercospora oleariae U. Braun & M.A. Dick, 2003 SPECIES
 
 #### Status
 ACCEPTED

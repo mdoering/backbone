@@ -1,5 +1,4 @@
-Candida lycoperdinae S.O. Suh, N.H. Nguyen & M. Blackw., 2006 SPECIES
-=======
+# Candida lycoperdinae S.O. Suh, N.H. Nguyen & M. Blackw., 2006 SPECIES
 
 #### Status
 ACCEPTED

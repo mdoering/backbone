@@ -1,5 +1,4 @@
-Sorokina frondicola Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
-=======
+# Sorokina frondicola Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolivina earlandi SPECIES
-=======
+# Bolivina earlandi SPECIES
 
 #### Status
 ACCEPTED

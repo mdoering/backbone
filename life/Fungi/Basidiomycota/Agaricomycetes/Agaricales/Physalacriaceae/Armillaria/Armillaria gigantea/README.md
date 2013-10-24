@@ -1,5 +1,4 @@
-Armillaria gigantea Yasuda SPECIES
-=======
+# Armillaria gigantea Yasuda SPECIES
 
 #### Status
 ACCEPTED

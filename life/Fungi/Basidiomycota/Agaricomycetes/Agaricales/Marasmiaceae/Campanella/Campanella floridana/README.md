@@ -1,5 +1,4 @@
-Campanella floridana Singer SPECIES
-=======
+# Campanella floridana Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Levringia Kylin, 1940 GENUS
-=======
+# Levringia Kylin, 1940 GENUS
 
 #### Status
 ACCEPTED

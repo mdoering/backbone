@@ -1,5 +1,4 @@
-Lichenothelia gigantea Henssen SPECIES
-=======
+# Lichenothelia gigantea Henssen SPECIES
 
 #### Status
 ACCEPTED

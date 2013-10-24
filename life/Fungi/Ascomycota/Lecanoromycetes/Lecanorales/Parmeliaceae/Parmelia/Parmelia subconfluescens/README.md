@@ -1,5 +1,4 @@
-Parmelia subconfluescens H. Magn. SPECIES
-=======
+# Parmelia subconfluescens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

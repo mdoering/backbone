@@ -1,5 +1,4 @@
-Corticium rugulosum (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Corticium rugulosum (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

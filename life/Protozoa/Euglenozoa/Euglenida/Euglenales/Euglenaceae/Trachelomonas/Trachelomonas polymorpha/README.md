@@ -1,5 +1,4 @@
-Trachelomonas polymorpha Skvortzov SPECIES
-=======
+# Trachelomonas polymorpha Skvortzov SPECIES
 
 #### Status
 ACCEPTED

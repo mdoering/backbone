@@ -1,5 +1,4 @@
-Buellia chionea (Th. Fr.) Sheard ex Foucard, Moberg & A. Nordin SPECIES
-=======
+# Buellia chionea (Th. Fr.) Sheard ex Foucard, Moberg & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta pterandrae Allesch. SPECIES
-=======
+# Phyllosticta pterandrae Allesch. SPECIES
 
 #### Status
 ACCEPTED

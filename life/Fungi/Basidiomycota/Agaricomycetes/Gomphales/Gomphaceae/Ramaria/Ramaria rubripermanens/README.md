@@ -1,17 +1,16 @@
-Ramaria rubripermanens var. rubripermanens Marr & D.E. Stuntz VARIETY
-=======
+# Ramaria rubripermanens Marr & D.E. Stuntz, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Biblthca Mycol. 38: 43 (1974)
 
 #### Original name
-Ramaria rubripermanens var. rubripermanens Marr & D.E. Stuntz
+Ramaria rubripermanens Marr & D.E. Stuntz, 1974
 
 ### Remarks
 null

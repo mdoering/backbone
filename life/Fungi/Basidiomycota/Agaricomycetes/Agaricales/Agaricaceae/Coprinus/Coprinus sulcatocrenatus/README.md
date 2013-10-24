@@ -1,5 +1,4 @@
-Coprinus sulcatocrenatus Steinhaus SPECIES
-=======
+# Coprinus sulcatocrenatus Steinhaus SPECIES
 
 #### Status
 ACCEPTED

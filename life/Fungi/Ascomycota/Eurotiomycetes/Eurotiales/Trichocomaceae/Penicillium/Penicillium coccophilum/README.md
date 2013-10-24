@@ -1,5 +1,4 @@
-Penicillium coccophilum Sacc. SPECIES
-=======
+# Penicillium coccophilum Sacc. SPECIES
 
 #### Status
 ACCEPTED

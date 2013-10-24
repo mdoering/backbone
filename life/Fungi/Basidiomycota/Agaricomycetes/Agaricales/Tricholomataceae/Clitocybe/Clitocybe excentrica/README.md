@@ -1,5 +1,4 @@
-Clitocybe excentrica Rick SPECIES
-=======
+# Clitocybe excentrica Rick SPECIES
 
 #### Status
 ACCEPTED

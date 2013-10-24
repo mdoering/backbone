@@ -1,5 +1,4 @@
-Lorea Stackhouse, 1809 GENUS
-=======
+# Lorea Stackhouse, 1809 GENUS
 
 #### Status
 ACCEPTED

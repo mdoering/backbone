@@ -1,5 +1,4 @@
-Hypotrachyna leswellensis Elix SPECIES
-=======
+# Hypotrachyna leswellensis Elix SPECIES
 
 #### Status
 ACCEPTED

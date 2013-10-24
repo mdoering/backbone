@@ -1,17 +1,16 @@
-Poria prunicola f. prunicola FORM
-=======
+# Phellinus prunicola (Murrill) Gilb., 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 331 (1912)
+Mycol. Res. 103(1): 51 (1999)
 
 #### Original name
-Poria prunicola f. prunicola
+Phellinus prunicola (Murrill) Gilb., 1979
 
 ### Remarks
 null

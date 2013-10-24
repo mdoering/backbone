@@ -1,5 +1,4 @@
-Parvularugogloberina GENUS
-=======
+# Parvularugogloberina GENUS
 
 #### Status
 ACCEPTED

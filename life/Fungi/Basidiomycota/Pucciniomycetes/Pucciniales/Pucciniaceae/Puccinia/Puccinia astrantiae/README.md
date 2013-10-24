@@ -1,5 +1,4 @@
-Puccinia astrantiae Kalchbr. SPECIES
-=======
+# Puccinia astrantiae Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

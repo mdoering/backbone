@@ -1,5 +1,4 @@
-Entoloma proletarius (Fr.) Quél. SPECIES
-=======
+# Entoloma proletarius (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

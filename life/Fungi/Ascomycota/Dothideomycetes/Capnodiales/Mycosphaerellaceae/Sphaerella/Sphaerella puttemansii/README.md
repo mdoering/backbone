@@ -1,5 +1,4 @@
-Sphaerella puttemansii (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Sphaerella puttemansii (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta sonchi Sacc. SPECIES
-=======
+# Phyllosticta sonchi Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis subcinerea Staiger SPECIES
-=======
+# Graphis subcinerea Staiger SPECIES
 
 #### Status
 ACCEPTED

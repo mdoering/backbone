@@ -1,5 +1,4 @@
-Phoma lippiae Tassi SPECIES
-=======
+# Phoma lippiae Tassi SPECIES
 
 #### Status
 ACCEPTED

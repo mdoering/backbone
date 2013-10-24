@@ -1,5 +1,4 @@
-Anthracothecium fraternale Zahlbr. SPECIES
-=======
+# Anthracothecium fraternale Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

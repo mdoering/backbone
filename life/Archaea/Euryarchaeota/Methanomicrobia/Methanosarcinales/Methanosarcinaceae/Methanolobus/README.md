@@ -1,5 +1,4 @@
-Methanolobus Konig & Stetter, 1983 GENUS
-=======
+# Methanolobus Konig & Stetter, 1983 GENUS
 
 #### Status
 ACCEPTED

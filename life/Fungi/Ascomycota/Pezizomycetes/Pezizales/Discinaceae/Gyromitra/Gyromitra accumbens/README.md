@@ -1,5 +1,4 @@
-Gyromitra accumbens Harmaja SPECIES
-=======
+# Gyromitra accumbens Harmaja SPECIES
 
 #### Status
 ACCEPTED

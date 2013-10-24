@@ -1,5 +1,4 @@
-Trypethelium lageniferum Ach. SPECIES
-=======
+# Trypethelium lageniferum Ach. SPECIES
 
 #### Status
 ACCEPTED

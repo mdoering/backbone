@@ -1,5 +1,4 @@
-Hebeloma vinosophyllum Hongo, 1965 SPECIES
-=======
+# Hebeloma vinosophyllum Hongo, 1965 SPECIES
 
 #### Status
 ACCEPTED

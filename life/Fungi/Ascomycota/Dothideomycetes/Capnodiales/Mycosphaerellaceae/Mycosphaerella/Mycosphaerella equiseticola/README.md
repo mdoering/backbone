@@ -1,5 +1,4 @@
-Mycosphaerella equiseticola Bond.-Mont. SPECIES
-=======
+# Mycosphaerella equiseticola Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streblonema collinsii E.Taskin, M.J.Wynne & M.Öztürk, 2001 SPECIES
-=======
+# Streblonema collinsii E.Taskin, M.J.Wynne & M.Öztürk, 2001 SPECIES
 
 #### Status
 DOUBTFUL

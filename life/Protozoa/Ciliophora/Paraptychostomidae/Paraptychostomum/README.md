@@ -1,5 +1,4 @@
-Paraptychostomum Ngassam, de Puytorac & Grain, 1994 GENUS
-=======
+# Paraptychostomum Ngassam, de Puytorac & Grain, 1994 GENUS
 
 #### Status
 ACCEPTED

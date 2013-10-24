@@ -1,5 +1,4 @@
-Passalora pirozynskii (Deighton) U. Braun & Crous SPECIES
-=======
+# Passalora pirozynskii (Deighton) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

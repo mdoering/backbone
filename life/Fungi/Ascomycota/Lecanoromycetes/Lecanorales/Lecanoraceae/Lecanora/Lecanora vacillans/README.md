@@ -1,5 +1,4 @@
-Lecanora vacillans H. Magn. SPECIES
-=======
+# Lecanora vacillans H. Magn. SPECIES
 
 #### Status
 ACCEPTED

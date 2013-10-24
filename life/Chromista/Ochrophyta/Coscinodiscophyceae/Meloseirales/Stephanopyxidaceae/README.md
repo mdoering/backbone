@@ -1,5 +1,4 @@
-Stephanopyxidaceae Nikolaev FAMILY
-=======
+# Stephanopyxidaceae Nikolaev FAMILY
 
 #### Status
 ACCEPTED

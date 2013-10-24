@@ -1,5 +1,4 @@
-Asteridiella rhododendri (W. Yamam.) Hansf. SPECIES
-=======
+# Asteridiella rhododendri (W. Yamam.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

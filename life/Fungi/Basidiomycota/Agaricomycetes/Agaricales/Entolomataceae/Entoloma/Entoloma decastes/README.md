@@ -1,5 +1,4 @@
-Entoloma decastes Contu, Consiglio & Noordel SPECIES
-=======
+# Entoloma decastes Contu, Consiglio & Noordel SPECIES
 
 #### Status
 ACCEPTED

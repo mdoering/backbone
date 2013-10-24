@@ -1,8 +1,7 @@
-Conchophthirius mytilis Morgan, 1925 SPECIES
-=======
+# Peniculistoma mytili (Morgan, 1925) Jankowski, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

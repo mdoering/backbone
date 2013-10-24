@@ -1,5 +1,4 @@
-Psalliota versipes (Berk. & Broome) Henn. SPECIES
-=======
+# Psalliota versipes (Berk. & Broome) Henn. SPECIES
 
 #### Status
 ACCEPTED

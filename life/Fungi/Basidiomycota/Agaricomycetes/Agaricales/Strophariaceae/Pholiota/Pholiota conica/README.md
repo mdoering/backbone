@@ -1,5 +1,4 @@
-Pholiota conica A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota conica A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

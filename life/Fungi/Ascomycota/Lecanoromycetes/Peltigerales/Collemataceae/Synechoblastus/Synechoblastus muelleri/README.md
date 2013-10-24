@@ -1,8 +1,7 @@
-Synechoblastus mülleri Hepp SPECIES
-=======
+# Synechoblastus muelleri Hepp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Synechoblastus mülleri Hepp
+Synechoblastus muelleri Hepp
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cryptococcus myrmeciae Chalm. & Christopherson SPECIES
-=======
+# Cryptococcus myrmeciae Chalm. & Christopherson SPECIES
 
 #### Status
 ACCEPTED

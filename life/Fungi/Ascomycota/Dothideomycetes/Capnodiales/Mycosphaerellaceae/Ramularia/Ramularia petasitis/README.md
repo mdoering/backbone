@@ -1,5 +1,4 @@
-Ramularia petasitis Savul. & Sandu SPECIES
-=======
+# Ramularia petasitis Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

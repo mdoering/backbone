@@ -1,5 +1,4 @@
-Collybia pulchella (Berk.) Singer SPECIES
-=======
+# Collybia pulchella (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

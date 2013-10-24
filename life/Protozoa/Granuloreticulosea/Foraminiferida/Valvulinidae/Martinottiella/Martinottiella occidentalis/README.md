@@ -1,5 +1,4 @@
-Martinottiella occidentalis SPECIES
-=======
+# Martinottiella occidentalis SPECIES
 
 #### Status
 ACCEPTED

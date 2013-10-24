@@ -1,5 +1,4 @@
-Coccocarpia neglecta Aptroot & Lücking SPECIES
-=======
+# Coccocarpia neglecta Aptroot & Lücking SPECIES
 
 #### Status
 ACCEPTED

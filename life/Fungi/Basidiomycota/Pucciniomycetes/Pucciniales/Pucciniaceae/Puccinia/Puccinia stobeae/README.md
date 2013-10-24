@@ -1,5 +1,4 @@
-Puccinia stobeae var. stobeae VARIETY
-=======
+# Puccinia stobeae MacOwan SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia stobeae var. stobeae
+Puccinia stobeae MacOwan
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ascorhombispora L. Cai & K.D. Hyde GENUS
-=======
+# Ascorhombispora L. Cai & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

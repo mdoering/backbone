@@ -1,5 +1,4 @@
-Eupenicillium bovifimosum Tuthill & Frisvad SPECIES
-=======
+# Eupenicillium bovifimosum Tuthill & Frisvad SPECIES
 
 #### Status
 ACCEPTED

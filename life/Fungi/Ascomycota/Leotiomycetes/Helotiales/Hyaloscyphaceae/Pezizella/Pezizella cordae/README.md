@@ -1,5 +1,4 @@
-Pezizella cordae Velen. SPECIES
-=======
+# Pezizella cordae Velen. SPECIES
 
 #### Status
 ACCEPTED

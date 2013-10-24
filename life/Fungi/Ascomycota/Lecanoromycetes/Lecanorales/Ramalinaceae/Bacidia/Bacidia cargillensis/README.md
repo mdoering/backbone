@@ -1,5 +1,4 @@
-Bacidia cargillensis Zahlbr. SPECIES
-=======
+# Bacidia cargillensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

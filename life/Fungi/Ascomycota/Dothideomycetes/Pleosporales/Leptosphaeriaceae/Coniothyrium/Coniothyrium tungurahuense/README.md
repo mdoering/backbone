@@ -1,5 +1,4 @@
-Coniothyrium tungurahuense Petr. SPECIES
-=======
+# Coniothyrium tungurahuense Petr. SPECIES
 
 #### Status
 ACCEPTED

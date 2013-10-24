@@ -1,17 +1,16 @@
-Tilletia pulcherrima var. pulcherrima Ellis & Galloway VARIETY
-=======
+# Tilletia barclayana (Bref.) Sacc. & P. Syd., 1899 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Saccardo, Syll. fung. (Abellini) 14(1): 422 (1899)
 
 #### Original name
-Tilletia pulcherrima var. pulcherrima Ellis & Galloway
+Neovossia barclayana Bref., 1895
 
 ### Remarks
 null

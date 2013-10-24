@@ -1,5 +1,4 @@
-Sphaerella hyphiseda Fautrey & Lambotte SPECIES
-=======
+# Sphaerella hyphiseda Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

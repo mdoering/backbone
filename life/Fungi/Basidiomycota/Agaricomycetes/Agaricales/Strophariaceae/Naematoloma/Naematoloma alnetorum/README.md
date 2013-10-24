@@ -1,14 +1,13 @@
-Nematoloma alnetorum (Singer) Guzmán SPECIES
-=======
+# Naematoloma alnetorum (Singer) Guzmán SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 12(1): 239 (1980)
 
 #### Original name
 Deconica alnetorum Singer

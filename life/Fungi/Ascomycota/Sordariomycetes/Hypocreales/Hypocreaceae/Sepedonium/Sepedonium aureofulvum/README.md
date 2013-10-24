@@ -1,5 +1,4 @@
-Sepedonium aureofulvum Cooke & Massee SPECIES
-=======
+# Sepedonium aureofulvum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

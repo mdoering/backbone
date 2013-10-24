@@ -1,5 +1,4 @@
-Biatora asserculorum Hepp SPECIES
-=======
+# Biatora asserculorum Hepp SPECIES
 
 #### Status
 ACCEPTED

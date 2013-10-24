@@ -1,5 +1,4 @@
-Nematosporangium polysporum (Sorokin) Jacz. SPECIES
-=======
+# Nematosporangium polysporum (Sorokin) Jacz. SPECIES
 
 #### Status
 ACCEPTED

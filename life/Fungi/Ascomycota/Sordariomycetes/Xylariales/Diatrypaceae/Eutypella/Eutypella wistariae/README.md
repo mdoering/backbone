@@ -1,5 +1,4 @@
-Eutypella wistariae Syd. & P. Syd. SPECIES
-=======
+# Eutypella wistariae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

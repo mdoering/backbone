@@ -1,5 +1,4 @@
-Umbillicaria decussata SPECIES
-=======
+# Umbillicaria decussata SPECIES
 
 #### Status
 DOUBTFUL

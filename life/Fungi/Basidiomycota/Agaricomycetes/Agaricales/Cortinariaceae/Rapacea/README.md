@@ -1,5 +1,4 @@
-Rapacea E. Horak GENUS
-=======
+# Rapacea E. Horak GENUS
 
 #### Status
 ACCEPTED

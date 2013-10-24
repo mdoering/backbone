@@ -1,5 +1,4 @@
-Psorotheciopsis albomaculans (Rehm) R. Sant. SPECIES
-=======
+# Psorotheciopsis albomaculans (Rehm) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula prostrata (Stirt.) D.J. Galloway SPECIES
-=======
+# Pyrenula prostrata (Stirt.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

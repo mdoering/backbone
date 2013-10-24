@@ -1,5 +1,4 @@
-Setomyces giganteae Bat. & J.L. Bezerra SPECIES
-=======
+# Setomyces giganteae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cyathus microsporus var. berkeleyanus Tul. & C. Tul., 1844 VARIETY
-=======
+# Cyathus berkeleyanus (Tul. & C. Tul.) Lloyd, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 1: 73, tab. 6, fig. 6-8 (1844)
+The Nidulariaceae or 'bird's nest fungi' 19 (1906)
 
 #### Original name
 Cyathus microsporus var. berkeleyanus Tul. & C. Tul., 1844

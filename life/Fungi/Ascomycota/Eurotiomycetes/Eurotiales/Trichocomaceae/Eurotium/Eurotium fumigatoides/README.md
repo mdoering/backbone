@@ -1,5 +1,4 @@
-Eurotium fumigatoides Sacc. SPECIES
-=======
+# Eurotium fumigatoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

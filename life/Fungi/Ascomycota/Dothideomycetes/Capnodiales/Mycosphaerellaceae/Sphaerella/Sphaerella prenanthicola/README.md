@@ -1,5 +1,4 @@
-Sphaerella prenanthicola (Höhn.) Sacc. SPECIES
-=======
+# Sphaerella prenanthicola (Höhn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta oryzina Padwick SPECIES
-=======
+# Phyllosticta oryzina Padwick SPECIES
 
 #### Status
 ACCEPTED

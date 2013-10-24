@@ -1,5 +1,4 @@
-Sporormiella trogospora S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella trogospora S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

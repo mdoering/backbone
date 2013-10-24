@@ -1,5 +1,4 @@
-Teleutospora B. Renault, 1894 GENUS
-=======
+# Teleutospora B. Renault, 1894 GENUS
 
 #### Status
 ACCEPTED

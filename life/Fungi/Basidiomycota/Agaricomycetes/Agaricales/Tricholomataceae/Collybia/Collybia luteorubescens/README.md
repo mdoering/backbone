@@ -1,5 +1,4 @@
-Collybia luteorubescens (Britzelm.) SPECIES
-=======
+# Collybia luteorubescens (Britzelm.) SPECIES
 
 #### Status
 ACCEPTED

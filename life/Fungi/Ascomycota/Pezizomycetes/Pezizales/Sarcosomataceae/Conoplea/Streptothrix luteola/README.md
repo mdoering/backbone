@@ -1,5 +1,4 @@
-Streptothrix luteola Foul. & Jones {?} SPECIES
-=======
+# Streptothrix luteola Foul. & Jones {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia haussmanni Niessl SPECIES
-=======
+# Puccinia haussmanni Niessl SPECIES
 
 #### Status
 ACCEPTED

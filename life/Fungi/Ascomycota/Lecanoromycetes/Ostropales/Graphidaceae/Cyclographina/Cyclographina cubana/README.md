@@ -1,5 +1,4 @@
-Cyclographina cubana D.D. Awasthi & M. Joshi SPECIES
-=======
+# Cyclographina cubana D.D. Awasthi & M. Joshi SPECIES
 
 #### Status
 ACCEPTED

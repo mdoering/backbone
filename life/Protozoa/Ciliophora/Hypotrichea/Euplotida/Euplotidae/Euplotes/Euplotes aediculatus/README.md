@@ -1,5 +1,4 @@
-Euplotes aediculatus Pierson, 1943 SPECIES
-=======
+# Euplotes aediculatus Pierson, 1943 SPECIES
 
 #### Status
 ACCEPTED

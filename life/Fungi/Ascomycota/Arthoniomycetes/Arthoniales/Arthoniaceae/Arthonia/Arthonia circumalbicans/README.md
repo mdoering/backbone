@@ -1,5 +1,4 @@
-Arthonia circumalbicans Nyl. SPECIES
-=======
+# Arthonia circumalbicans Nyl. SPECIES
 
 #### Status
 ACCEPTED

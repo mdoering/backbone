@@ -1,5 +1,4 @@
-Sphaeria cynipum Schwein. SPECIES
-=======
+# Sphaeria cynipum Schwein. SPECIES
 
 #### Status
 ACCEPTED

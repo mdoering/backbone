@@ -1,17 +1,16 @@
-Lobaria exornata var. exornata VARIETY
-=======
+# Lobaria exornata (Zahlbr.) Yoshim. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Hattori bot. Lab. 57: 109 (1984)
+null
 
 #### Original name
-Lobaria exornata var. exornata
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dacrymyces dendrocalami Oberw. SPECIES
-=======
+# Dacrymyces dendrocalami Oberw. SPECIES
 
 #### Status
 ACCEPTED

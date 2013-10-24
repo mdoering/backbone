@@ -1,17 +1,16 @@
-Colletotrichum acutatum f. sp FORM
-=======
+# Colletotrichum acutatum J.H. Simmonds, 1968 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 96(6): 1273 (2004)
+Queensland J. agric. Anim. Sci. 25: 178A (1968)
 
 #### Original name
-Colletotrichum acutatum f. sp
+Colletotrichum acutatum J.H. Simmonds, 1968
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phaeocollybia minuta E. Horak, 1973 SPECIES
-=======
+# Phaeocollybia minuta E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

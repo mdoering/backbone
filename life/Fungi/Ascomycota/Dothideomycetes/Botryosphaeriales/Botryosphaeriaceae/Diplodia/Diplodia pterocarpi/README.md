@@ -1,5 +1,4 @@
-Diplodia pterocarpi Cooke SPECIES
-=======
+# Diplodia pterocarpi Cooke SPECIES
 
 #### Status
 ACCEPTED

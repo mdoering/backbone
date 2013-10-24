@@ -1,5 +1,4 @@
-Cyathus fimicola Lloyd SPECIES
-=======
+# Cyathus fimicola Lloyd SPECIES
 
 #### Status
 ACCEPTED

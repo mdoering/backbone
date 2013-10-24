@@ -1,5 +1,4 @@
-Rimacineta Jankowski, 1981 GENUS
-=======
+# Rimacineta Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Erysiphe lindelophiae Y.S. Paul & V. Thakur SPECIES
-=======
+# Erysiphe lindelofiae Y.S. Paul & V. Thakur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Mycology and Plant Pathology 34(3): 939 (2004)
 
 #### Original name
-Erysiphe lindelophiae Y.S. Paul & V. Thakur
+Erysiphe lindelofiae Y.S. Paul & V. Thakur
 
 ### Remarks
 null

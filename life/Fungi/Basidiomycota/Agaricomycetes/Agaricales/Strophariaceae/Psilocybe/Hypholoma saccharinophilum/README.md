@@ -1,5 +1,4 @@
-Hypholoma saccharinophilum Peck SPECIES
-=======
+# Hypholoma saccharinophilum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina coccolobae Ferd. & Winge SPECIES
-=======
+# Asterina coccolobae Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

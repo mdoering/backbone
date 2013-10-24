@@ -1,5 +1,4 @@
-Pharcidia lithoiceae B. de Lesd. SPECIES
-=======
+# Pharcidia lithoiceae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

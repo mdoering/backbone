@@ -1,5 +1,4 @@
-Entoloma grave E. Horak SPECIES
-=======
+# Entoloma grave E. Horak SPECIES
 
 #### Status
 ACCEPTED

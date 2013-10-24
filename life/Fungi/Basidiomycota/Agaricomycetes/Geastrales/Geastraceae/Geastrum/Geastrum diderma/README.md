@@ -1,5 +1,4 @@
-Geastrum diderma Desv. SPECIES
-=======
+# Geastrum diderma Desv. SPECIES
 
 #### Status
 ACCEPTED

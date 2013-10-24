@@ -1,5 +1,4 @@
-Heterochona crinita Jankowski, 1972 SPECIES
-=======
+# Heterochona crinita Jankowski, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora thujopsidis Sawada SPECIES
-=======
+# Stagonospora thujopsidis Sawada SPECIES
 
 #### Status
 ACCEPTED

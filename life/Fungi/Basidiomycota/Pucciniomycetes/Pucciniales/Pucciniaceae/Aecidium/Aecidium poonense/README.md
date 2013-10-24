@@ -1,5 +1,4 @@
-Aecidium poonense Sathe SPECIES
-=======
+# Aecidium poonense Sathe SPECIES
 
 #### Status
 ACCEPTED

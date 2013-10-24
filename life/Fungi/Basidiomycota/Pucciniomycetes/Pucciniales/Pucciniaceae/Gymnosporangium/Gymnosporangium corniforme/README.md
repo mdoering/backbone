@@ -1,5 +1,4 @@
-Gymnosporangium corniforme Sawada, 1928 SPECIES
-=======
+# Gymnosporangium corniforme Sawada, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus benzodorus Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus benzodorus Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

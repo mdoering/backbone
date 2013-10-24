@@ -1,5 +1,4 @@
-Parauronema antarcticum SPECIES
-=======
+# Parauronema antarcticum SPECIES
 
 #### Status
 ACCEPTED

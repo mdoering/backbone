@@ -1,5 +1,4 @@
-Buellia japonica (Tuck.) Tuck. SPECIES
-=======
+# Buellia japonica (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

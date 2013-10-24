@@ -1,17 +1,16 @@
-Leucoagaricus caldariorum D.A. Reid ex Bon, 1993 SPECIES
-=======
+# Leucocoprinus caldariorum D.A. Reid, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 23(no. 91): 33 (1993)
+Mycol. Res. 94(5): 652 (1990)
 
 #### Original name
-Leucoagaricus caldariorum D.A. Reid ex Bon, 1993
+Leucocoprinus caldariorum D.A. Reid, 1990
 
 ### Remarks
 null

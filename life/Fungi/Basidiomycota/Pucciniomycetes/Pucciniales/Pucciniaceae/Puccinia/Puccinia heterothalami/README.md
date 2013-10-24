@@ -1,5 +1,4 @@
-Puccinia heterothalami H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia heterothalami H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

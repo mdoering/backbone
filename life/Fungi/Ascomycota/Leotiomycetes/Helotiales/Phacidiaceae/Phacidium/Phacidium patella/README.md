@@ -1,5 +1,4 @@
-Phacidium patella var. patella VARIETY
-=======
+# Phacidium patella (Sommerf.) Fr. SPECIES
 
 #### Status
 ACCEPTED

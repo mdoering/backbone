@@ -1,5 +1,4 @@
-Camarosporium coggyriae Zerova SPECIES
-=======
+# Camarosporium coggyriae Zerova SPECIES
 
 #### Status
 ACCEPTED

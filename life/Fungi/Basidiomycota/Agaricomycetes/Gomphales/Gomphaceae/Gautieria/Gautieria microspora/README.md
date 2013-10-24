@@ -1,5 +1,4 @@
-Gautieria microspora Rodway SPECIES
-=======
+# Gautieria microspora Rodway SPECIES
 
 #### Status
 ACCEPTED

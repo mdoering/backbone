@@ -1,5 +1,4 @@
-Sphaerulina giliae Speg. SPECIES
-=======
+# Sphaerulina giliae Speg. SPECIES
 
 #### Status
 ACCEPTED

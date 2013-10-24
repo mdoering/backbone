@@ -1,5 +1,4 @@
-Septoria picridicola Unamuno SPECIES
-=======
+# Septoria picridicola Unamuno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictis maydis Henn. SPECIES
-=======
+# Stictis maydis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maupasella eupolytoreuti SPECIES
-=======
+# Maupasella eupolytoreuti SPECIES
 
 #### Status
 ACCEPTED

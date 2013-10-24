@@ -1,5 +1,4 @@
-Cucurbitaria depauperata (Cooke) Kuntze SPECIES
-=======
+# Cucurbitaria depauperata (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

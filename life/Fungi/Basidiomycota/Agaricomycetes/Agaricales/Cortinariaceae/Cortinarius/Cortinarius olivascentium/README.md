@@ -1,17 +1,16 @@
-Cortinarius olivascentius Rob. Henry SPECIES
-=======
+# Cortinarius olivascentium Rob. Henry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 67(3): 309 (1952)
 
 #### Original name
-Cortinarius olivascentius Rob. Henry
+Cortinarius olivascentium Rob. Henry
 
 ### Remarks
 null

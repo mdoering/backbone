@@ -1,14 +1,13 @@
-Nectria striispora Ellis & Everh., 1893 SPECIES
-=======
+# Calostilbe striispora (Ellis & Everh.) Seaver, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Iowa Lab. Nat. Hist. 2: 398 (1893)
+Mycologia 20(4): 248 (1928)
 
 #### Original name
 Nectria striispora Ellis & Everh., 1893

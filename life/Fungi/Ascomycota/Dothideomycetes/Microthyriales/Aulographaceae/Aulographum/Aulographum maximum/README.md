@@ -1,5 +1,4 @@
-Aulographum maximum Massee SPECIES
-=======
+# Aulographum maximum Massee SPECIES
 
 #### Status
 ACCEPTED

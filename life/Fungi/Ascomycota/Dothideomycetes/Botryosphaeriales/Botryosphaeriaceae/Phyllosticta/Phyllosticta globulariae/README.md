@@ -1,5 +1,4 @@
-Phyllosticta globulariae Westend. SPECIES
-=======
+# Phyllosticta globulariae Westend. SPECIES
 
 #### Status
 ACCEPTED

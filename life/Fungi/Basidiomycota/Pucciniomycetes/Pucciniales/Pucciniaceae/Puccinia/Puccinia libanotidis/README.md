@@ -1,5 +1,4 @@
-Puccinia libanotidis Lindr., 1901 SPECIES
-=======
+# Puccinia libanotidis Lindr., 1901 SPECIES
 
 #### Status
 ACCEPTED

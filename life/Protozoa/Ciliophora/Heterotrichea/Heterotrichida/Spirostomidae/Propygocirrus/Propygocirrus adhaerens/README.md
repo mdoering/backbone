@@ -1,5 +1,4 @@
-Propygocirrus adhaerens Mansfeld, 1923 SPECIES
-=======
+# Propygocirrus adhaerens Mansfeld, 1923 SPECIES
 
 #### Status
 ACCEPTED

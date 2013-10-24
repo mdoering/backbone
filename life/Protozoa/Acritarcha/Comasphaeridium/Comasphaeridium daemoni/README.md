@@ -1,5 +1,4 @@
-Comasphaeridium daemoni de Quadros, 2002 SPECIES
-=======
+# Comasphaeridium daemoni de Quadros, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coriolus canescens (Fr.) Pat. SPECIES
-=======
+# Coriolus canescens (Fr.) Pat. SPECIES
 
 #### Status
 ACCEPTED

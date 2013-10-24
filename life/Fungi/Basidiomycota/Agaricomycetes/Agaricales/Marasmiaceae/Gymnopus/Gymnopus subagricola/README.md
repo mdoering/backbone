@@ -1,5 +1,4 @@
-Gymnopus subagricola Murrill SPECIES
-=======
+# Gymnopus subagricola Murrill SPECIES
 
 #### Status
 ACCEPTED

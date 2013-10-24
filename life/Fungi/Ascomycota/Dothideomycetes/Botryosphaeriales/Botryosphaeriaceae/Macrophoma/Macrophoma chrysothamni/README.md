@@ -1,5 +1,4 @@
-Macrophoma chrysothamni W.B. Cooke SPECIES
-=======
+# Macrophoma chrysothamni W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus globulifer Pat. SPECIES
-=======
+# Pleurotus globulifer Pat. SPECIES
 
 #### Status
 ACCEPTED

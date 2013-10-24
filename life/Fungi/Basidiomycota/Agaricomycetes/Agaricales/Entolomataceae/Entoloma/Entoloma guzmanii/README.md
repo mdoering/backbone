@@ -1,5 +1,4 @@
-Entoloma guzmanii Courtec. SPECIES
-=======
+# Entoloma guzmanii Courtec. SPECIES
 
 #### Status
 ACCEPTED

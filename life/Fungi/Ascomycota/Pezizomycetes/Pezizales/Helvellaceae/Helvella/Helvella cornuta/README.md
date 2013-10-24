@@ -1,5 +1,4 @@
-Helvella cornuta Velen. SPECIES
-=======
+# Helvella cornuta Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora pruni-persicicola (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora pruni-persicicola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

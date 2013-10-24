@@ -1,17 +1,16 @@
-Pyropolyporus pectinatus var. pectinatus VARIETY
-=======
+# Phylloporia pectinata (Klotzsch) Ryvarden, 1991 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 34: 479 (1907)
+Syn. Fung. (Oslo) 5: 196 (1991)
 
 #### Original name
-Pyropolyporus pectinatus var. pectinatus
+Polyporus pectinatus Klotzsch, 1833
 
 ### Remarks
 null

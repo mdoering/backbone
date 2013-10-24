@@ -1,5 +1,4 @@
-Lamprospora mussooriensis K.S. Thind, E.K. Cash & Pr. Singh SPECIES
-=======
+# Lamprospora mussooriensis K.S. Thind, E.K. Cash & Pr. Singh SPECIES
 
 #### Status
 ACCEPTED

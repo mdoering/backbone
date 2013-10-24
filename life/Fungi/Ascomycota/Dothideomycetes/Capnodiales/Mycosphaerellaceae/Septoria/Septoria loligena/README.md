@@ -1,5 +1,4 @@
-Septoria loligena R. Sprague SPECIES
-=======
+# Septoria loligena R. Sprague SPECIES
 
 #### Status
 ACCEPTED

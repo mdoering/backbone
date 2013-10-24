@@ -1,5 +1,4 @@
-Astrothelium conicum Eschw. SPECIES
-=======
+# Astrothelium conicum Eschw. SPECIES
 
 #### Status
 ACCEPTED

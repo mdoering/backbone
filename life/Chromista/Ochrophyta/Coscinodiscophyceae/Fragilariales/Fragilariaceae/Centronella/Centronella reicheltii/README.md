@@ -1,5 +1,4 @@
-Centronella reicheltii Voigt SPECIES
-=======
+# Centronella reicheltii Voigt SPECIES
 
 #### Status
 ACCEPTED

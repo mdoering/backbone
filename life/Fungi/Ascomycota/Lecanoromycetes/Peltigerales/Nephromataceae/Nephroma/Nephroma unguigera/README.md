@@ -1,5 +1,4 @@
-Nephroma unguigera (Bory) Ach. SPECIES
-=======
+# Nephroma unguigera (Bory) Ach. SPECIES
 
 #### Status
 ACCEPTED

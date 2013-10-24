@@ -1,5 +1,4 @@
-Phyllosticta bignoniae Westend. SPECIES
-=======
+# Phyllosticta bignoniae Westend. SPECIES
 
 #### Status
 ACCEPTED

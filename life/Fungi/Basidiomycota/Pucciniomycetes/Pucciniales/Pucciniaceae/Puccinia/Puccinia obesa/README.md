@@ -1,5 +1,4 @@
-Puccinia obesa P. Syd. & Syd. SPECIES
-=======
+# Puccinia obesa P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

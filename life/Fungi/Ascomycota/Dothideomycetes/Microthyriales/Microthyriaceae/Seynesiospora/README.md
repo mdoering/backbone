@@ -1,5 +1,4 @@
-Seynesiospora GENUS
-=======
+# Seynesiospora GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora liukiuensis (Räsänen) Cretz. SPECIES
-=======
+# Lecanora liukiuensis (Räsänen) Cretz. SPECIES
 
 #### Status
 ACCEPTED

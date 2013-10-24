@@ -1,5 +1,4 @@
-Sporisorium setariae-mombassanae (L. Ling) Vánky SPECIES
-=======
+# Sporisorium setariae-mombassanae (L. Ling) Vánky SPECIES
 
 #### Status
 ACCEPTED

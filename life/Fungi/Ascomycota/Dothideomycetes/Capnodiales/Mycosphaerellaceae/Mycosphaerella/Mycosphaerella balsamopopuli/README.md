@@ -1,5 +1,4 @@
-Mycosphaerella balsamopopuli Nevod. SPECIES
-=======
+# Mycosphaerella balsamopopuli Nevod. SPECIES
 
 #### Status
 ACCEPTED

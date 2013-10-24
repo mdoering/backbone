@@ -1,5 +1,4 @@
-Lamprospora macracantha (Boud.) Seaver SPECIES
-=======
+# Lamprospora macracantha (Boud.) Seaver SPECIES
 
 #### Status
 ACCEPTED

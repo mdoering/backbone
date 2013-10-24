@@ -1,5 +1,4 @@
-Sychnoblastia GENUS
-=======
+# Sychnoblastia GENUS
 
 #### Status
 ACCEPTED

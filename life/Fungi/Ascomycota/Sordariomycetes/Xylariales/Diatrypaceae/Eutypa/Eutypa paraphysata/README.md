@@ -1,5 +1,4 @@
-Eutypa paraphysata Speg. SPECIES
-=======
+# Eutypa paraphysata Speg. SPECIES
 
 #### Status
 ACCEPTED

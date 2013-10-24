@@ -1,5 +1,4 @@
-Sargassum capitatum Tseng & Lu SPECIES
-=======
+# Sargassum capitatum Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

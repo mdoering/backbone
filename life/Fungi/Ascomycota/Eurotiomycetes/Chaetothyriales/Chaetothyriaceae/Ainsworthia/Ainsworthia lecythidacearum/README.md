@@ -1,5 +1,4 @@
-Ainsworthia lecythidacearum Bat., J.L. Bezerra & Peres SPECIES
-=======
+# Ainsworthia lecythidacearum Bat., J.L. Bezerra & Peres SPECIES
 
 #### Status
 ACCEPTED

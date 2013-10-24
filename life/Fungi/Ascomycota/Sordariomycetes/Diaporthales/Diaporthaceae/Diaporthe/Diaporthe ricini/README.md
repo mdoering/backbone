@@ -1,5 +1,4 @@
-Diaporthe ricini Speg. SPECIES
-=======
+# Diaporthe ricini Speg. SPECIES
 
 #### Status
 ACCEPTED

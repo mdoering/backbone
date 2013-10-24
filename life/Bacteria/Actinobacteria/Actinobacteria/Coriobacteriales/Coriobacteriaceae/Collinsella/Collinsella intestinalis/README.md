@@ -1,5 +1,4 @@
-Collinsella intestinalis Kageyama & Benno, 2000 SPECIES
-=======
+# Collinsella intestinalis Kageyama & Benno, 2000 SPECIES
 
 #### Status
 ACCEPTED

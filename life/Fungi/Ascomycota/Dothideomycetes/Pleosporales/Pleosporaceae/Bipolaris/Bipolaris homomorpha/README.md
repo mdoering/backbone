@@ -1,14 +1,13 @@
-Bipolaris homomorphus (Luttr. & Rogerson) Subram. SPECIES
-=======
+# Bipolaris homomorpha (Luttr. & Rogerson) Subram. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hyphomycetes (New Delhi) 174 (1971)
 
 #### Original name
 Helminthosporium homomorphum Luttr. & Rogerson

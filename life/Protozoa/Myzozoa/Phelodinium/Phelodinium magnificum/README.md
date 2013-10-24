@@ -1,5 +1,4 @@
-Phelodinium magnificum (Stanley, 1965) Stover & Evitt SPECIES
-=======
+# Phelodinium magnificum (Stanley, 1965) Stover & Evitt SPECIES
 
 #### Status
 ACCEPTED

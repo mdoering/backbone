@@ -1,5 +1,4 @@
-Asteridiella peglerae (Doidge) Hansf. SPECIES
-=======
+# Asteridiella peglerae (Doidge) Hansf. SPECIES
 
 #### Status
 ACCEPTED

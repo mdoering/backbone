@@ -1,5 +1,4 @@
-Laurera straminea (Malme) P.M. McCarthy SPECIES
-=======
+# Laurera straminea (Malme) P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

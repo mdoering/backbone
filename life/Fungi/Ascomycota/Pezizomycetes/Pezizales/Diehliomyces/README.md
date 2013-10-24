@@ -1,5 +1,4 @@
-Diehliomyces Gilkey, 1955 GENUS
-=======
+# Diehliomyces Gilkey, 1955 GENUS
 
 #### Status
 ACCEPTED

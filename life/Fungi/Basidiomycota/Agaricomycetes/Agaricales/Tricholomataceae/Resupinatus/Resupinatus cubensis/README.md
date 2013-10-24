@@ -1,5 +1,4 @@
-Resupinatus cubensis Murrill SPECIES
-=======
+# Resupinatus cubensis Murrill SPECIES
 
 #### Status
 ACCEPTED

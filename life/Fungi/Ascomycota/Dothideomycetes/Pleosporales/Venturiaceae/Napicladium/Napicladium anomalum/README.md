@@ -1,5 +1,4 @@
-Napicladium anomalum Speg. SPECIES
-=======
+# Napicladium anomalum Speg. SPECIES
 
 #### Status
 ACCEPTED

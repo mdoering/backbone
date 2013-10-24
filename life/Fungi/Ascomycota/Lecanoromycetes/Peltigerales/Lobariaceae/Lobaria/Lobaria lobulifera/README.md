@@ -1,5 +1,4 @@
-Lobaria lobulifera B.J. Moore SPECIES
-=======
+# Lobaria lobulifera B.J. Moore SPECIES
 
 #### Status
 ACCEPTED

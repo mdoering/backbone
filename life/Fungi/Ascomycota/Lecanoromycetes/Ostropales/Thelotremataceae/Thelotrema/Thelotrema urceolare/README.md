@@ -1,5 +1,4 @@
-Thelotrema urceolare Fée SPECIES
-=======
+# Thelotrema urceolare Fée SPECIES
 
 #### Status
 ACCEPTED

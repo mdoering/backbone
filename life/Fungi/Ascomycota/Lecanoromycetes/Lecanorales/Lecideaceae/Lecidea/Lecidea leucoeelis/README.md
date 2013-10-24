@@ -1,5 +1,4 @@
-Lecidea leucoeelis SPECIES
-=======
+# Lecidea leucoeelis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora decorticata Cooke & Harkn. SPECIES
-=======
+# Rhabdospora decorticata Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

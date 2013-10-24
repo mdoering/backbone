@@ -1,5 +1,4 @@
-Lecidella enalliza (Nyl.) Syd. SPECIES
-=======
+# Lecidella enalliza (Nyl.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypha stratalis Thüm. SPECIES
-=======
+# Hypha stratalis Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Stereum tomentipes Overh., 1934 SPECIES
-=======
+# Podoscypha tomentipes (Overh.) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph Univ. Puerto Rico, Series B 2: 308 (1934)
+Beih. Nova Hedwigia 18: 255 (1965)
 
 #### Original name
 Stereum tomentipes Overh., 1934

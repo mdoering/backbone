@@ -1,5 +1,4 @@
-Laboulbeniopsis termitaria Thaxt. SPECIES
-=======
+# Laboulbeniopsis termitaria Thaxt. SPECIES
 
 #### Status
 ACCEPTED

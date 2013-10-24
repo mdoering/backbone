@@ -1,5 +1,4 @@
-Circinotrichum argentinense Speg. SPECIES
-=======
+# Circinotrichum argentinense Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Manoharachariomyces N.K. Rao, D.K. Agarwal & Kunwar GENUS
-=======
+# Manoharachariomyces N.K. Rao, D.K. Agarwal & Kunwar GENUS
 
 #### Status
 ACCEPTED

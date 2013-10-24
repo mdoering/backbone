@@ -1,5 +1,4 @@
-Entoloma curtipes (Massee) E. Horak SPECIES
-=======
+# Entoloma curtipes (Massee) E. Horak SPECIES
 
 #### Status
 ACCEPTED

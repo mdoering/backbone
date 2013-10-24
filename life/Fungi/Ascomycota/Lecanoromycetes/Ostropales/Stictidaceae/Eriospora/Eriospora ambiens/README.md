@@ -1,5 +1,4 @@
-Eriospora ambiens Sacc. SPECIES
-=======
+# Eriospora ambiens Sacc. SPECIES
 
 #### Status
 ACCEPTED

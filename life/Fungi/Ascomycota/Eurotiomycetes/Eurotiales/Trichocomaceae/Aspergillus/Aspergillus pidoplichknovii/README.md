@@ -1,5 +1,4 @@
-Aspergillus pidoplichknovii Bilai & Koval SPECIES
-=======
+# Aspergillus pidoplichknovii Bilai & Koval SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomella heteropogonis Gonz. Frag. SPECIES
-=======
+# Chaetomella heteropogonis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

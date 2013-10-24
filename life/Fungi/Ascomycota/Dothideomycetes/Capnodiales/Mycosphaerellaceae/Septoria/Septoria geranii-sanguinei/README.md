@@ -1,5 +1,4 @@
-Septoria geranii-sanguinei Lobik SPECIES
-=======
+# Septoria geranii-sanguinei Lobik SPECIES
 
 #### Status
 ACCEPTED

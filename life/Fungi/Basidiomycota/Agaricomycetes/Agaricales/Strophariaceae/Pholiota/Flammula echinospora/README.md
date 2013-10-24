@@ -1,5 +1,4 @@
-Flammula echinospora Speg. SPECIES
-=======
+# Flammula echinospora Speg. SPECIES
 
 #### Status
 ACCEPTED

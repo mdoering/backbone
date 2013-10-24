@@ -1,5 +1,4 @@
-Goatapitigba moanha Narchi, 1962 SPECIES
-=======
+# Goatapitigba moanha Narchi, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia caloplacivora Llimona & Egea SPECIES
-=======
+# Buellia caloplacivora Llimona & Egea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria kalmicola Schwein. SPECIES
-=======
+# Sphaeria kalmicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

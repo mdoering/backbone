@@ -1,5 +1,4 @@
-Olpidiopsis myzocytia Rieth ex Cejp SPECIES
-=======
+# Olpidiopsis myzocytia Rieth ex Cejp SPECIES
 
 #### Status
 ACCEPTED

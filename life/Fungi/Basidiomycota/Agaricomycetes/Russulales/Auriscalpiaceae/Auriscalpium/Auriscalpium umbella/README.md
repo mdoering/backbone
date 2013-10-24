@@ -1,5 +1,4 @@
-Auriscalpium umbella Maas Geest., 1971 SPECIES
-=======
+# Auriscalpium umbella Maas Geest., 1971 SPECIES
 
 #### Status
 ACCEPTED

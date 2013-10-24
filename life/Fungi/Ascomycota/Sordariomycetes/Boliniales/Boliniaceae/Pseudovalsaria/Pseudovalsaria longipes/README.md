@@ -1,5 +1,4 @@
-Pseudovalsaria longipes (Tul.) SPECIES
-=======
+# Pseudovalsaria longipes (Tul.) SPECIES
 
 #### Status
 ACCEPTED

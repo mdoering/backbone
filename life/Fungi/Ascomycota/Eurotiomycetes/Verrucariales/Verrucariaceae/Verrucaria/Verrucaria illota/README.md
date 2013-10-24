@@ -1,5 +1,4 @@
-Verrucaria illota Nyl. SPECIES
-=======
+# Verrucaria illota Nyl. SPECIES
 
 #### Status
 ACCEPTED

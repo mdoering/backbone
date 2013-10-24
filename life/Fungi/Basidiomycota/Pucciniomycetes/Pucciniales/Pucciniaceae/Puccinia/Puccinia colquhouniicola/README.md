@@ -1,5 +1,4 @@
-Puccinia colquhouniicola J.Y. Zhuang SPECIES
-=======
+# Puccinia colquhouniicola J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

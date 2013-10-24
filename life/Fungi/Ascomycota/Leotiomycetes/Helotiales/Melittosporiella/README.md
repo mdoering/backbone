@@ -1,5 +1,4 @@
-Melittosporiella F. von Höhnel, 1919 GENUS
-=======
+# Melittosporiella F. von Höhnel, 1919 GENUS
 
 #### Status
 ACCEPTED

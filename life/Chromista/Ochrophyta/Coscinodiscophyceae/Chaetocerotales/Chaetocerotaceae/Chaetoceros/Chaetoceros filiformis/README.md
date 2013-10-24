@@ -1,5 +1,4 @@
-Chaetoceros filiformis SPECIES
-=======
+# Chaetoceros filiformis SPECIES
 
 #### Status
 ACCEPTED

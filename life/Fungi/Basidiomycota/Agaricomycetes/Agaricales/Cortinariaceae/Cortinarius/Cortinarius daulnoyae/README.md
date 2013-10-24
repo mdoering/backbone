@@ -1,5 +1,4 @@
-Cortinarius daulnoyae var. daulnoyae VARIETY
-=======
+# Cortinarius daulnoyae Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius daulnoyae var. daulnoyae
+Cortinarius daulnoyae Quél.
 
 ### Remarks
 null

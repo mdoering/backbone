@@ -1,5 +1,4 @@
-Xanthoparmelia nigrolavicola T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia nigrolavicola T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus tenebrosus var. tenebrosus VARIETY
-=======
+# Rhodophyllus tenebrosus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 59: 128 (1979)
 
 #### Original name
-Rhodophyllus tenebrosus var. tenebrosus
+Rhodophyllus tenebrosus Romagn. & Gilles
 
 ### Remarks
 null

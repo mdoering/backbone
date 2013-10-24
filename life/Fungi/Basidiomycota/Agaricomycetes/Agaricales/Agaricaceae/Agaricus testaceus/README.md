@@ -1,5 +1,4 @@
-Agaricus testaceus var. testaceus VARIETY
-=======
+# Agaricus testaceus Huds. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fl. Angl. , Edn 2 2: 615 (1778)
 
 #### Original name
-Agaricus testaceus var. testaceus
+Agaricus testaceus Huds.
 
 ### Remarks
 null

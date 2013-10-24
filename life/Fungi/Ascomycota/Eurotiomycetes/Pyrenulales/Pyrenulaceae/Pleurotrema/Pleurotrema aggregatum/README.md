@@ -1,5 +1,4 @@
-Pleurotrema aggregatum (Makhija & Patw.) D.D. Awasthi SPECIES
-=======
+# Pleurotrema aggregatum (Makhija & Patw.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

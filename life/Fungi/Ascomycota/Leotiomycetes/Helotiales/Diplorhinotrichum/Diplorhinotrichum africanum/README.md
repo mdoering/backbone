@@ -1,5 +1,4 @@
-Diplorhinotrichum africanum S. Hughes SPECIES
-=======
+# Diplorhinotrichum africanum S. Hughes SPECIES
 
 #### Status
 ACCEPTED

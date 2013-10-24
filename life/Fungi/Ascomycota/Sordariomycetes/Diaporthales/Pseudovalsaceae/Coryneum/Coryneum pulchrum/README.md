@@ -1,5 +1,4 @@
-Coryneum pulchrum Gutner SPECIES
-=======
+# Coryneum pulchrum Gutner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eudoraea adriatica Alain, Intertaglia, Catala & Lebaron, 2008 SPECIES
-=======
+# Eudoraea adriatica Alain, Intertaglia, Catala & Lebaron, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria neobalansae Samuels SPECIES
-=======
+# Nectria neobalansae Samuels SPECIES
 
 #### Status
 ACCEPTED

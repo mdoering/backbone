@@ -1,5 +1,4 @@
-Hemisphaeridium J.P. Bujak in Bujak, Downie, Eaton & Williams, 1980 GENUS
-=======
+# Hemisphaeridium J.P. Bujak in Bujak, Downie, Eaton & Williams, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora brialmontii Vain. SPECIES
-=======
+# Lecanora brialmontii Vain. SPECIES
 
 #### Status
 ACCEPTED

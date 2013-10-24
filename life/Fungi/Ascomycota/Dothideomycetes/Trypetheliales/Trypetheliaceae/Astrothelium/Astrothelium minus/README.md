@@ -1,5 +1,4 @@
-Astrothelium minus Müll. Arg. SPECIES
-=======
+# Astrothelium minus Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

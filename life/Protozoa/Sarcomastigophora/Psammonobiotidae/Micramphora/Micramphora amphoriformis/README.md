@@ -1,5 +1,4 @@
-Micramphora amphoriformis Chardez & Thomas, 1980 SPECIES
-=======
+# Micramphora amphoriformis Chardez & Thomas, 1980 SPECIES
 
 #### Status
 ACCEPTED

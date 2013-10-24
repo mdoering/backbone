@@ -1,5 +1,4 @@
-Helmisporium nouletii Brond. SPECIES
-=======
+# Helmisporium nouletii Brond. SPECIES
 
 #### Status
 ACCEPTED

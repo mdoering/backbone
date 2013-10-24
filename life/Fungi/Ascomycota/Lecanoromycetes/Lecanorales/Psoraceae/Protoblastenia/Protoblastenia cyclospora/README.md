@@ -1,17 +1,16 @@
-Protoblastenia cyclospora var. cyclospora VARIETY
-=======
+# Protoblastenia cyclospora (Hepp ex Körb.) Poelt SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mitt. bot. StSamml. , Münch. 12: 5 (1975)
 
 #### Original name
-Protoblastenia cyclospora var. cyclospora
+Biatora cyclospora Hepp ex Körb.
 
 ### Remarks
 null

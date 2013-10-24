@@ -1,5 +1,4 @@
-Bacidia wirthii Vezda SPECIES
-=======
+# Bacidia wirthii Vezda SPECIES
 
 #### Status
 ACCEPTED

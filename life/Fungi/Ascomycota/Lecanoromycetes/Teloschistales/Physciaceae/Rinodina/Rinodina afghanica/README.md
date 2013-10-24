@@ -1,5 +1,4 @@
-Rinodina afghanica M. Steiner & Poelt SPECIES
-=======
+# Rinodina afghanica M. Steiner & Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella alutacea Schumach. SPECIES
-=======
+# Tremella alutacea Schumach. SPECIES
 
 #### Status
 ACCEPTED

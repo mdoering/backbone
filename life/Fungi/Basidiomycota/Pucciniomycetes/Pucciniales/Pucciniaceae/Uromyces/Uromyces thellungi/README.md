@@ -1,17 +1,16 @@
-Uromyces thellungii Maire SPECIES
-=======
+# Uromyces thellungi Maire SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. Hist. nat. Afr. N. 8: 147 (1917)
 
 #### Original name
-Uromyces thellungii Maire
+Uromyces thellungi Maire
 
 ### Remarks
 null

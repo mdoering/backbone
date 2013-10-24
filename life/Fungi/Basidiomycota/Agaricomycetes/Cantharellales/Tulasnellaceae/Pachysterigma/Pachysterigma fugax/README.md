@@ -1,5 +1,4 @@
-Pachysterigma fugax Johan-Olsen SPECIES
-=======
+# Pachysterigma fugax Johan-Olsen SPECIES
 
 #### Status
 ACCEPTED

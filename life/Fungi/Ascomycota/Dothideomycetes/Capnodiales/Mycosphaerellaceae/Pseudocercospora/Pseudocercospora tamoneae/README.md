@@ -1,5 +1,4 @@
-Pseudocercospora tamoneae (Chupp) U. Braun & R.F. Castañeda SPECIES
-=======
+# Pseudocercospora tamoneae (Chupp) U. Braun & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

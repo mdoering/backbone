@@ -1,14 +1,13 @@
-Verrucaria bacillosa Nyl. SPECIES
-=======
+# Hassea bacillosa (Nyl.) Zahlbr., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. bot. Zbl. , Abt. 2 (1902)
 
 #### Original name
 Verrucaria bacillosa Nyl.

@@ -1,5 +1,4 @@
-Corymbococcus S.M. Awramik & E.S. Barghoorn, 1977 GENUS
-=======
+# Corymbococcus S.M. Awramik & E.S. Barghoorn, 1977 GENUS
 
 #### Status
 ACCEPTED

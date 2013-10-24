@@ -1,5 +1,4 @@
-Sphaeria panacis Fr. SPECIES
-=======
+# Sphaeria panacis Fr. SPECIES
 
 #### Status
 ACCEPTED

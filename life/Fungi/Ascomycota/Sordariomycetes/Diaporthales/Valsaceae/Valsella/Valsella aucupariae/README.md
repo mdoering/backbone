@@ -1,5 +1,4 @@
-Valsella aucupariae Kirschst. SPECIES
-=======
+# Valsella aucupariae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

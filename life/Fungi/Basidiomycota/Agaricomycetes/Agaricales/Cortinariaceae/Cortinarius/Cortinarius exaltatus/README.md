@@ -1,5 +1,4 @@
-Cortinarius exaltatus E. Horak SPECIES
-=======
+# Cortinarius exaltatus E. Horak SPECIES
 
 #### Status
 ACCEPTED

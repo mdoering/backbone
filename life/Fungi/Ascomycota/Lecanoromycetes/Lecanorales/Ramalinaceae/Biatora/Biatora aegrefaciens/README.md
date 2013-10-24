@@ -1,5 +1,4 @@
-Biatora aegrefaciens Printzen SPECIES
-=======
+# Biatora aegrefaciens Printzen SPECIES
 
 #### Status
 ACCEPTED

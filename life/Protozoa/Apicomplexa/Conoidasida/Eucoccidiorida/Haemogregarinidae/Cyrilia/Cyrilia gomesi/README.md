@@ -1,8 +1,7 @@
-Haemogregarina gomesi Neiva & Punto, 1926 SPECIES
-=======
+# Cyrilia gomesi (Neiva & Pinto, 1926) Lainson, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

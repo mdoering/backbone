@@ -1,5 +1,4 @@
-Belonidium leucorrhodinum (Mont.) Sacc. SPECIES
-=======
+# Belonidium leucorrhodinum (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

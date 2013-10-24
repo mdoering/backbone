@@ -1,5 +1,4 @@
-Torula ramalina Nyl. SPECIES
-=======
+# Torula ramalina Nyl. SPECIES
 
 #### Status
 ACCEPTED

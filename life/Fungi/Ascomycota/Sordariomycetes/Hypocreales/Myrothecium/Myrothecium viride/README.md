@@ -1,5 +1,4 @@
-Myrothecium viride Pers. SPECIES
-=======
+# Myrothecium viride Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporadospora jungermanniae Reinsch SPECIES
-=======
+# Sporadospora jungermanniae Reinsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes placopus (Lév.) Sacc. SPECIES
-=======
+# Fomes placopus (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

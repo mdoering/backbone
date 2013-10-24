@@ -1,5 +1,4 @@
-Arthonia obtusa Fée SPECIES
-=======
+# Arthonia obtusa Fée SPECIES
 
 #### Status
 ACCEPTED

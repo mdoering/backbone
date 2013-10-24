@@ -1,5 +1,4 @@
-Meliola kweichowensis var. kweichowensis VARIETY
-=======
+# Meliola kweichowensis Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Farlowia 3: 277 (1948)
 
 #### Original name
-Meliola kweichowensis var. kweichowensis
+Meliola kweichowensis Hansf.
 
 ### Remarks
 null

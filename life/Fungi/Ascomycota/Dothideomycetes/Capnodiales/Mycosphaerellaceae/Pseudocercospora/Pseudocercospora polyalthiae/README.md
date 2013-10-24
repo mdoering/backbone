@@ -1,5 +1,4 @@
-Pseudocercospora polyalthiae J.M. Yen, A.K. Kar & B.K. Das SPECIES
-=======
+# Pseudocercospora polyalthiae J.M. Yen, A.K. Kar & B.K. Das SPECIES
 
 #### Status
 ACCEPTED

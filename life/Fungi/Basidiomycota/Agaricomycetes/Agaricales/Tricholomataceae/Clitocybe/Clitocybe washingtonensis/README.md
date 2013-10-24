@@ -1,5 +1,4 @@
-Clitocybe washingtonensis Murrill SPECIES
-=======
+# Clitocybe washingtonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllachora gelatinosa Syd., 1930 SPECIES
-=======
+# Scirrhia Nitschke ex Fuckel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 23-24: 220 (1870)
 
 #### Original name
-null
+Scirrhia Nitschke ex Fuckel
 
 ### Remarks
 null

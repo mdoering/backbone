@@ -1,5 +1,4 @@
-Spiloma erubescens SPECIES
-=======
+# Spiloma erubescens SPECIES
 
 #### Status
 ACCEPTED

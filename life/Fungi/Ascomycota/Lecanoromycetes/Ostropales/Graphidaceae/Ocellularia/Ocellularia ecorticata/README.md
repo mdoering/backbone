@@ -1,5 +1,4 @@
-Ocellularia ecorticata Mangold SPECIES
-=======
+# Ocellularia ecorticata Mangold SPECIES
 
 #### Status
 ACCEPTED

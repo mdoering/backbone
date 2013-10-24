@@ -1,5 +1,4 @@
-Clypeolella cryptolepidis M.S. Patil & Thite SPECIES
-=======
+# Clypeolella cryptolepidis M.S. Patil & Thite SPECIES
 
 #### Status
 ACCEPTED

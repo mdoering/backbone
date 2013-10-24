@@ -1,5 +1,4 @@
-Benekea aspidospermatis Bat. & J.L. Bezerra SPECIES
-=======
+# Benekea aspidospermatis Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

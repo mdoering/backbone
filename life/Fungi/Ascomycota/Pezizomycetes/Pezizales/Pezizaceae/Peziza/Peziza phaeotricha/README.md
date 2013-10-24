@@ -1,5 +1,4 @@
-Peziza phaeotricha Durieu & Lév. SPECIES
-=======
+# Peziza phaeotricha Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

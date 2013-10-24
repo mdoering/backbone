@@ -1,5 +1,4 @@
-Myxotrichella spelaea (Sacc.) Sacc. SPECIES
-=======
+# Myxotrichella spelaea (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Azoarcus toluclasticus Song et al., 1999 SPECIES
-=======
+# Azoarcus toluclasticus Song et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

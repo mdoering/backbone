@@ -1,5 +1,4 @@
-Aschersonia aurantiaca Petch SPECIES
-=======
+# Aschersonia aurantiaca Petch SPECIES
 
 #### Status
 ACCEPTED

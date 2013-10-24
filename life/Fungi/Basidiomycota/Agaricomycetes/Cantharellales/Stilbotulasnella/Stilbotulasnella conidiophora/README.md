@@ -1,5 +1,4 @@
-Stilbotulasnella conidiophora Bandoni & Oberw., 1982 SPECIES
-=======
+# Stilbotulasnella conidiophora Bandoni & Oberw., 1982 SPECIES
 
 #### Status
 ACCEPTED

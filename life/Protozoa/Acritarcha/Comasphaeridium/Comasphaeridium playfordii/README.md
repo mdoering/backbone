@@ -1,5 +1,4 @@
-Comasphaeridium playfordii Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium playfordii Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

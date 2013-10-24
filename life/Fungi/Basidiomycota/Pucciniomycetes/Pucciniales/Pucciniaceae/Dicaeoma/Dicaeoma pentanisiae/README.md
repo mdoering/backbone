@@ -1,5 +1,4 @@
-Dicaeoma pentanisiae (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma pentanisiae (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

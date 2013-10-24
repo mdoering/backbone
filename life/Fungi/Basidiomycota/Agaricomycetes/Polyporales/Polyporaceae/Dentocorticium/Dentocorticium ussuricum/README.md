@@ -1,14 +1,13 @@
-Laeticorticium ussuricum Parmasto, 1965 SPECIES
-=======
+# Dentocorticium ussuricum (Parmasto) M.J. Larsen & Gilb., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Eesti NSV Tead. Akad. Toim. , Biol. seer 14(2): 229 (1965)
+Norw. Jl Bot. 21(3): 226 (1974)
 
 #### Original name
 Laeticorticium ussuricum Parmasto, 1965

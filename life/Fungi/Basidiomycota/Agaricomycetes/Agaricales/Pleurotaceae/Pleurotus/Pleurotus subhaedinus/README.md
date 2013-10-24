@@ -1,5 +1,4 @@
-Pleurotus subhaedinus (Murrill) Murrill SPECIES
-=======
+# Pleurotus subhaedinus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

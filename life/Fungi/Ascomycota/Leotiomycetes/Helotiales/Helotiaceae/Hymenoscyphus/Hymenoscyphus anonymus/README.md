@@ -1,5 +1,4 @@
-Hymenoscyphus anonymus (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus anonymus (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

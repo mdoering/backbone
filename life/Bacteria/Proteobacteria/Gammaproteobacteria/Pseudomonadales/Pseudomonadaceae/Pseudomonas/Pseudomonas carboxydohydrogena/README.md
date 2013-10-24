@@ -1,11 +1,10 @@
-Seliberia carboxydohydrogena Sanjieva & Zavarzin, 1971 SPECIES
-=======
+# Pseudomonas carboxydohydrogena (ex Sanjieva & Zavarzin, 1971) Meyer et al., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

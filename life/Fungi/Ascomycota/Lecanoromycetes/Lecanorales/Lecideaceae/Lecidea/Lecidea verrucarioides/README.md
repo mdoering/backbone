@@ -1,5 +1,4 @@
-Lecidea verrucarioides Nyl. SPECIES
-=======
+# Lecidea verrucarioides Nyl. SPECIES
 
 #### Status
 ACCEPTED

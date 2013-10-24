@@ -1,5 +1,4 @@
-Micrhystridium bifurcatum Williams in Dale, 1977 SPECIES
-=======
+# Micrhystridium bifurcatum Williams in Dale, 1977 SPECIES
 
 #### Status
 ACCEPTED

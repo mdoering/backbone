@@ -1,5 +1,4 @@
-Paranyctotherus Ngassam, 1983 GENUS
-=======
+# Paranyctotherus Ngassam, 1983 GENUS
 
 #### Status
 ACCEPTED

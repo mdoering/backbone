@@ -1,14 +1,13 @@
-Microdiplodia glaucii (Cooke & Massee) Grove, 1937 SPECIES
-=======
+# Ascochyta glaucii (Cooke & Massee) Died., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 2: 25 (1937)
+Krypt. -Fl. Brandenburg augr. Gebiete 9(2): 383 (1912)
 
 #### Original name
 Diplodina glaucii Cooke & Massee

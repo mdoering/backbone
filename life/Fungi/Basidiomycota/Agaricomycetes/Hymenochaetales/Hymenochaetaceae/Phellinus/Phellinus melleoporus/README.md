@@ -1,5 +1,4 @@
-Phellinus melleoporus (Murrill) Ryvarden SPECIES
-=======
+# Phellinus melleoporus (Murrill) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

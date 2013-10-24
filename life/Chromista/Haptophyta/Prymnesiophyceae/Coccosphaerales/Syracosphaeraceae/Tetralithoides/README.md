@@ -1,5 +1,4 @@
-Tetralithoides Theodoridis, 1984 GENUS
-=======
+# Tetralithoides Theodoridis, 1984 GENUS
 
 #### Status
 ACCEPTED

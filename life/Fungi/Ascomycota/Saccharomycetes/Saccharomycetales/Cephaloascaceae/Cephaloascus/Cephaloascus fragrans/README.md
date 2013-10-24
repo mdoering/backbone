@@ -1,17 +1,16 @@
-Ascocybe grovesii D.E. Wells, 1954 SPECIES
-=======
+# Cephaloascus fragrans Hanawa, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 46(1): 40 (1954)
+Jap. J. Derm. Urol. 20(germ. sec. ): 14 (1920)
 
 #### Original name
-Ascocybe grovesii D.E. Wells, 1954
+Cephaloascus fragrans Hanawa, 1920
 
 ### Remarks
 null

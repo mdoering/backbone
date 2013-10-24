@@ -1,5 +1,4 @@
-Baltisphaeridium exilibrachium Colbath, 1979 SPECIES
-=======
+# Baltisphaeridium exilibrachium Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

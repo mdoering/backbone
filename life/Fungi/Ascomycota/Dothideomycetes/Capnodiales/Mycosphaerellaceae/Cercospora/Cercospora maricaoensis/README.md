@@ -1,5 +1,4 @@
-Cercospora maricaoensis E. Young SPECIES
-=======
+# Cercospora maricaoensis E. Young SPECIES
 
 #### Status
 ACCEPTED

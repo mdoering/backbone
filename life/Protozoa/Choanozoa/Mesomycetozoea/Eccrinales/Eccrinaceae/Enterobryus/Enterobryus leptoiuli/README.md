@@ -1,5 +1,4 @@
-Enterobryus leptoiuli Manier ex Manier, 1970 SPECIES
-=======
+# Enterobryus leptoiuli Manier ex Manier, 1970 SPECIES
 
 #### Status
 ACCEPTED

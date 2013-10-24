@@ -1,17 +1,16 @@
-Psilocybe zapotecorum var. zapotecorum VARIETY
-=======
+# Psilocybe zapotecorum R. Heim, 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Revue Mycol. , Paris 22: 77 (1957)
 
 #### Original name
-Psilocybe zapotecorum var. zapotecorum
+Psilocybe zapotecorum R. Heim, 1957
 
 ### Remarks
 null

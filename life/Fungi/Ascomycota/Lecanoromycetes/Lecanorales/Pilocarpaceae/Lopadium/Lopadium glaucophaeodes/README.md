@@ -1,5 +1,4 @@
-Lopadium glaucophaeodes (Nyl.) SPECIES
-=======
+# Lopadium glaucophaeodes (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

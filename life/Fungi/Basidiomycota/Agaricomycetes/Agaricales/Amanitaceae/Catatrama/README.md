@@ -1,5 +1,4 @@
-Catatrama Franco-Mol. GENUS
-=======
+# Catatrama Franco-Mol. GENUS
 
 #### Status
 ACCEPTED

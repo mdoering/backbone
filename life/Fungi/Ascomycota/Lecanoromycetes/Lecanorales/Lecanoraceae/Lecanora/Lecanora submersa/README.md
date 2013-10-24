@@ -1,5 +1,4 @@
-Lecanora submersa (Lamy) Zahlbr. SPECIES
-=======
+# Lecanora submersa (Lamy) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

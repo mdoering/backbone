@@ -1,5 +1,4 @@
-Phyllosticta belgradensis Bubák & Ranoj. SPECIES
-=======
+# Phyllosticta belgradensis Bubák & Ranoj. SPECIES
 
 #### Status
 ACCEPTED

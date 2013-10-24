@@ -1,5 +1,4 @@
-Blyttiomyces aureus T. Booth SPECIES
-=======
+# Blyttiomyces aureus T. Booth SPECIES
 
 #### Status
 ACCEPTED

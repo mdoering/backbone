@@ -1,5 +1,4 @@
-Poculum ruborum Velen., 1934 SPECIES
-=======
+# Poculum ruborum Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

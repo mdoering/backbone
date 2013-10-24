@@ -1,5 +1,4 @@
-Irpex tulipiferae Fr. SPECIES
-=======
+# Irpex tulipiferae Fr. SPECIES
 
 #### Status
 ACCEPTED

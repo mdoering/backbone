@@ -1,14 +1,13 @@
-Atkinsiella hamanaensis Bian & Egusa, 1980 SPECIES
-=======
+# Halocrusticida hamanaensis (Bian & Egusa) K. Nakam. & Hatai, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of Fish Diseases 3(5): 379 (1980)
+Mycoscience 36(4): 437 (1995)
 
 #### Original name
 Atkinsiella hamanaensis Bian & Egusa, 1980

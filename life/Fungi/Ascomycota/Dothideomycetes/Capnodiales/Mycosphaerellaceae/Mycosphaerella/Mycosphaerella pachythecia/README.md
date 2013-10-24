@@ -1,5 +1,4 @@
-Mycosphaerella pachythecia (Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella pachythecia (Speg.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

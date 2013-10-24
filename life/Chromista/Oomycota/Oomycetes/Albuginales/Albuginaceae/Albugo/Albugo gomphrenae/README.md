@@ -1,5 +1,4 @@
-Albugo gomphrenae (Speg.) Cif. & Biga SPECIES
-=======
+# Albugo gomphrenae (Speg.) Cif. & Biga SPECIES
 
 #### Status
 ACCEPTED

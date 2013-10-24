@@ -1,5 +1,4 @@
-Lecidea areolata Fée SPECIES
-=======
+# Lecidea areolata Fée SPECIES
 
 #### Status
 ACCEPTED

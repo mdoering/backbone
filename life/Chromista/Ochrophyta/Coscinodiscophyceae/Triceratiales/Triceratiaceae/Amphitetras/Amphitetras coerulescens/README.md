@@ -1,5 +1,4 @@
-Amphitetras coerulescens (Pantocsek) De Toni SPECIES
-=======
+# Amphitetras coerulescens (Pantocsek) De Toni SPECIES
 
 #### Status
 ACCEPTED

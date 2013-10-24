@@ -1,5 +1,4 @@
-Humaria scabra (O.F. Müll.) Morgan SPECIES
-=======
+# Humaria scabra (O.F. Müll.) Morgan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus cochlearis subsp. cochlearis SUBSPECIES
-=======
+# Agaricus cochlearis Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. eur. (Erlanga) 3: 33 (1828)
 
 #### Original name
-Agaricus cochlearis subsp. cochlearis
+Agaricus cochlearis Pers.
 
 ### Remarks
 null

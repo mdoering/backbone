@@ -1,5 +1,4 @@
-Calycellina lunispora (Velen.) Svrcek SPECIES
-=======
+# Calycellina lunispora (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

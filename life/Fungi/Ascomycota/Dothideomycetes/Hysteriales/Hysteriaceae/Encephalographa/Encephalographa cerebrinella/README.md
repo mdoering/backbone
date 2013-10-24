@@ -1,8 +1,7 @@
-Lecidea cerebrinella Nyl., 1876 SPECIES
-=======
+# Encephalographa cerebrinella (Nyl.) Zahlbr., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

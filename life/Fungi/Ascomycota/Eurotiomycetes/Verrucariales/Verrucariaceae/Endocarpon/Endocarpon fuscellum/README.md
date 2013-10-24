@@ -1,5 +1,4 @@
-Endocarpon fuscellum SPECIES
-=======
+# Endocarpon fuscellum SPECIES
 
 #### Status
 ACCEPTED

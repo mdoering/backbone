@@ -1,5 +1,4 @@
-Coenogonium pusillum (Mont.) Lücking, Aptroot & Sipman SPECIES
-=======
+# Coenogonium pusillum (Mont.) Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

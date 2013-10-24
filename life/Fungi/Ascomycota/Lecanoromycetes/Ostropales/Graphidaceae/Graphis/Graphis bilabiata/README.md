@@ -1,5 +1,4 @@
-Graphis bilabiata Nyl. SPECIES
-=======
+# Graphis bilabiata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma tefedestica Faurel & Schotter SPECIES
-=======
+# Phoma tefedestica Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

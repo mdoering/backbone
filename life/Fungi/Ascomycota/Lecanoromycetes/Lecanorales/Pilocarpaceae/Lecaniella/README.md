@@ -1,5 +1,4 @@
-Lecaniella GENUS
-=======
+# Lecaniella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exobasidium gaultheriae Sawada, 1929 SPECIES
-=======
+# Exobasidium gaultheriae Sawada, 1929 SPECIES
 
 #### Status
 ACCEPTED

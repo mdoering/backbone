@@ -1,5 +1,4 @@
-Uroleptus ambiguus SPECIES
-=======
+# Uroleptus ambiguus SPECIES
 
 #### Status
 ACCEPTED

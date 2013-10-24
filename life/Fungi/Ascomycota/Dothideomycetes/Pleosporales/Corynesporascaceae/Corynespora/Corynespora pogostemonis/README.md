@@ -1,5 +1,4 @@
-Corynespora pogostemonis R.K. Verma & N. Sharma SPECIES
-=======
+# Corynespora pogostemonis R.K. Verma & N. Sharma SPECIES
 
 #### Status
 ACCEPTED

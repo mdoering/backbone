@@ -1,5 +1,4 @@
-Perichaena verrucifera Y. Yamam. & Shuanglin Chen, 2002 SPECIES
-=======
+# Perichaena verrucifera Y. Yamam. & Shuanglin Chen, 2002 SPECIES
 
 #### Status
 ACCEPTED

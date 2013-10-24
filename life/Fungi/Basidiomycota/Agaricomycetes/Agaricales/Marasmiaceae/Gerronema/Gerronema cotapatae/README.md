@@ -1,5 +1,4 @@
-Gerronema cotapatae Singer SPECIES
-=======
+# Gerronema cotapatae Singer SPECIES
 
 #### Status
 ACCEPTED

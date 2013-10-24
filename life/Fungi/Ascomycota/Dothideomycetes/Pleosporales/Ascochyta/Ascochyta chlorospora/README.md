@@ -1,5 +1,4 @@
-Ascochyta chlorospora Speg. SPECIES
-=======
+# Ascochyta chlorospora Speg. SPECIES
 
 #### Status
 ACCEPTED

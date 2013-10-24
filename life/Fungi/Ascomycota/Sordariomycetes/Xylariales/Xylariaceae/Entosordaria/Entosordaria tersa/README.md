@@ -1,5 +1,4 @@
-Entosordaria tersa (Sacc.) Höhn. SPECIES
-=======
+# Entosordaria tersa (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

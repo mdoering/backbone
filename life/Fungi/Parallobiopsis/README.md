@@ -1,5 +1,4 @@
-Parallobiopsis Collin GENUS
-=======
+# Parallobiopsis Collin GENUS
 
 #### Status
 ACCEPTED

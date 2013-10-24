@@ -1,5 +1,4 @@
-Porina leptalaeoides (Nyl.) Zahlbr. SPECIES
-=======
+# Porina leptalaeoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

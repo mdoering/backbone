@@ -1,5 +1,4 @@
-Wallrothiella merdaria P. Karst. SPECIES
-=======
+# Wallrothiella merdaria P. Karst. SPECIES
 
 #### Status
 ACCEPTED

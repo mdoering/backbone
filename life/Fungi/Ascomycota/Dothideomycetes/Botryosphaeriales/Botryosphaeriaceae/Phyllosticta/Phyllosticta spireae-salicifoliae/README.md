@@ -1,5 +1,4 @@
-Phyllosticta spireae-salicifoliae Kabát & Bubák SPECIES
-=======
+# Phyllosticta spireae-salicifoliae Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

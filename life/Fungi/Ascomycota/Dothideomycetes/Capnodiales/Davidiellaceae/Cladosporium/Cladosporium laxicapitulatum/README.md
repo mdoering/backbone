@@ -1,5 +1,4 @@
-Cladosporium laxicapitulatum Matsush., 1975 SPECIES
-=======
+# Cladosporium laxicapitulatum Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria phaeocarpa SPECIES
-=======
+# Squamaria phaeocarpa SPECIES
 
 #### Status
 ACCEPTED

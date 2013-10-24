@@ -1,17 +1,16 @@
-Verrucaria mesotropa Nyl. SPECIES
-=======
+# Thelidium minutulum Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 49: 419 (1866)
+Parerga lichenol. (Breslau) 351 (1863)
 
 #### Original name
-Verrucaria mesotropa Nyl.
+Thelidium minutulum Körb.
 
 ### Remarks
 null

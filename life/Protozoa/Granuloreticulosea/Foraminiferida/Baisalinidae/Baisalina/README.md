@@ -1,5 +1,4 @@
-Baisalina Reitlinger, 1965 GENUS
-=======
+# Baisalina Reitlinger, 1965 GENUS
 
 #### Status
 ACCEPTED

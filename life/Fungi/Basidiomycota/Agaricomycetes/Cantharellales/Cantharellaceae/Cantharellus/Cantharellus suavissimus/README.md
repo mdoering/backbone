@@ -1,5 +1,4 @@
-Cantharellus suavissimus Velen. SPECIES
-=======
+# Cantharellus suavissimus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nitrosogloea GENUS
-=======
+# Nitrosogloea GENUS
 
 #### Status
 ACCEPTED

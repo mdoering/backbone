@@ -1,5 +1,4 @@
-Cordycepioideus Stifler GENUS
-=======
+# Cordycepioideus Stifler GENUS
 
 #### Status
 ACCEPTED

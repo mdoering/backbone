@@ -1,5 +1,4 @@
-Vavososphaeridium Timofeev GENUS
-=======
+# Vavososphaeridium Timofeev GENUS
 
 #### Status
 ACCEPTED

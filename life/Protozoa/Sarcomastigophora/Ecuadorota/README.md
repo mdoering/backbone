@@ -1,5 +1,4 @@
-Ecuadorota Whittaker, 1988 GENUS
-=======
+# Ecuadorota Whittaker, 1988 GENUS
 
 #### Status
 ACCEPTED

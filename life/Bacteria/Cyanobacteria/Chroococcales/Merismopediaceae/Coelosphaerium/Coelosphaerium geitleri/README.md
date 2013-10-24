@@ -1,5 +1,4 @@
-Coelosphaerium geitleri Schiller SPECIES
-=======
+# Coelosphaerium geitleri Schiller SPECIES
 
 #### Status
 ACCEPTED

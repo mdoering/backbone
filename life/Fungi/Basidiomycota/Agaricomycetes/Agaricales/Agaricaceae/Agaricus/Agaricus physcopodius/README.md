@@ -1,5 +1,4 @@
-Agaricus physcopodius Mont. SPECIES
-=======
+# Agaricus physcopodius Mont. SPECIES
 
 #### Status
 ACCEPTED

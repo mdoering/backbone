@@ -1,5 +1,4 @@
-Sphaeria frustrum Schwein. SPECIES
-=======
+# Sphaeria frustrum Schwein. SPECIES
 
 #### Status
 ACCEPTED

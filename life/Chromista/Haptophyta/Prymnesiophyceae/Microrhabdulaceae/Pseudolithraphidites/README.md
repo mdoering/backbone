@@ -1,5 +1,4 @@
-Pseudolithraphidites H. Keupp, 1976 GENUS
-=======
+# Pseudolithraphidites H. Keupp, 1976 GENUS
 
 #### Status
 ACCEPTED

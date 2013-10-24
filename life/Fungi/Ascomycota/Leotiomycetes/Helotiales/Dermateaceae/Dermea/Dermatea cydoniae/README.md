@@ -1,5 +1,4 @@
-Dermatea cydoniae Schwein. SPECIES
-=======
+# Dermatea cydoniae Schwein. SPECIES
 
 #### Status
 ACCEPTED

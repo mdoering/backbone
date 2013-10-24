@@ -1,5 +1,4 @@
-Peziza stictoidea Cooke & Ellis SPECIES
-=======
+# Peziza stictoidea Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

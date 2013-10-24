@@ -1,5 +1,4 @@
-Chytridium corniculatum Kobayasi & K. Konno SPECIES
-=======
+# Chytridium corniculatum Kobayasi & K. Konno SPECIES
 
 #### Status
 ACCEPTED

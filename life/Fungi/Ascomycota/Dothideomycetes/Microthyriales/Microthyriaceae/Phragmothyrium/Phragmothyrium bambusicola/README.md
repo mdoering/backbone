@@ -1,5 +1,4 @@
-Phragmothyrium bambusicola (Henn. & Shirai) I. Hino SPECIES
-=======
+# Phragmothyrium bambusicola (Henn. & Shirai) I. Hino SPECIES
 
 #### Status
 ACCEPTED

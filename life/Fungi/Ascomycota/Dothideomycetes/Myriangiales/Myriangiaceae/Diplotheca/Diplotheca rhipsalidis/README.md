@@ -1,5 +1,4 @@
-Diplotheca rhipsalidis Henn. SPECIES
-=======
+# Diplotheca rhipsalidis Henn. SPECIES
 
 #### Status
 ACCEPTED

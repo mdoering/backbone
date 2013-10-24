@@ -1,5 +1,4 @@
-Lecidea pyrrhomelaena (Tuck.) Tuck. SPECIES
-=======
+# Lecidea pyrrhomelaena (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

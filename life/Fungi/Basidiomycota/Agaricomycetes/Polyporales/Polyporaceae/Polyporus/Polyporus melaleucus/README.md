@@ -1,5 +1,4 @@
-Polyporus melaleucus Bres., 1912 SPECIES
-=======
+# Polyporus melaleucus Bres., 1912 SPECIES
 
 #### Status
 ACCEPTED

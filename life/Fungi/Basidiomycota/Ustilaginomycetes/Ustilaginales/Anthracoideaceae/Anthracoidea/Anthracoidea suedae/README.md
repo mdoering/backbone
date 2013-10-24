@@ -1,5 +1,4 @@
-Anthracoidea suedae (Sawada) Vánky SPECIES
-=======
+# Anthracoidea suedae (Sawada) Vánky SPECIES
 
 #### Status
 ACCEPTED

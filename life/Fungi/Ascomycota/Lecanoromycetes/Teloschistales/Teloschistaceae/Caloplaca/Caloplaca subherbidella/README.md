@@ -1,5 +1,4 @@
-Caloplaca subherbidella (Räsänen) C.W. Dodge SPECIES
-=======
+# Caloplaca subherbidella (Räsänen) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

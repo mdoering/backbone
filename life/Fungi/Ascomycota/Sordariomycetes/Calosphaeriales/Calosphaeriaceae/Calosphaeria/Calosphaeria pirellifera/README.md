@@ -1,5 +1,4 @@
-Calosphaeria pirellifera Kirschst. SPECIES
-=======
+# Calosphaeria pirellifera Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella duboisiae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella duboisiae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

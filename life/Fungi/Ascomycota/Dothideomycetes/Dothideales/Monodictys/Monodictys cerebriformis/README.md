@@ -1,5 +1,4 @@
-Monodictys cerebriformis G.Z. Zhao & T.Y. Zhang SPECIES
-=======
+# Monodictys cerebriformis G.Z. Zhao & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

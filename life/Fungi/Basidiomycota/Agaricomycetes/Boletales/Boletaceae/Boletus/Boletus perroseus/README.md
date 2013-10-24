@@ -1,5 +1,4 @@
-Boletus perroseus E. Horak SPECIES
-=======
+# Boletus perroseus E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pirostoma tetrasecadiosporium Sousa da Câmara SPECIES
-=======
+# Pirostoma tetrasecadiosporium Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria tagetica S.K. Shome & Mustafee, 1966 SPECIES
-=======
+# Alternaria tagetica S.K. Shome & Mustafee, 1966 SPECIES
 
 #### Status
 ACCEPTED

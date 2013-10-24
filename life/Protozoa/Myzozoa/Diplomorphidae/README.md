@@ -1,5 +1,4 @@
-Diplomorphidae FAMILY
-=======
+# Diplomorphidae FAMILY
 
 #### Status
 ACCEPTED

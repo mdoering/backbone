@@ -1,5 +1,4 @@
-Fungus olivaceoflavus (Kalchb. & MacOwan) Kuntze SPECIES
-=======
+# Fungus olivaceoflavus (Kalchb. & MacOwan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

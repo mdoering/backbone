@@ -1,5 +1,4 @@
-Placolecanora kukunorensis (H. Magn.) Kopach. SPECIES
-=======
+# Placolecanora kukunorensis (H. Magn.) Kopach. SPECIES
 
 #### Status
 ACCEPTED

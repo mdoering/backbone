@@ -1,5 +1,4 @@
-Stictina obvoluta (Delise) SPECIES
-=======
+# Stictina obvoluta (Delise) SPECIES
 
 #### Status
 ACCEPTED

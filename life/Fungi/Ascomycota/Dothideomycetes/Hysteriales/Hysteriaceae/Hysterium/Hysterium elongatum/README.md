@@ -1,17 +1,16 @@
-Hysterium elongatum var. elongatum Sacc. VARIETY
-=======
+# Hysterium elongatum Sacc., 1873 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Phys. Hist. nat. Genève 16(1): 41 (1862)
 
 #### Original name
-Hysterium elongatum var. elongatum Sacc.
+Hysterium elongatum Sacc., 1873
 
 ### Remarks
 null

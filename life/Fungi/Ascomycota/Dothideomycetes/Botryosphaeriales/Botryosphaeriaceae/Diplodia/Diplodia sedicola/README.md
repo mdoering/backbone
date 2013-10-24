@@ -1,5 +1,4 @@
-Diplodia sedicola Cooke & Harkn. SPECIES
-=======
+# Diplodia sedicola Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

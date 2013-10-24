@@ -1,5 +1,4 @@
-Desulfuromusa succinoxidans Liesack & Finster, 1994 SPECIES
-=======
+# Desulfuromusa succinoxidans Liesack & Finster, 1994 SPECIES
 
 #### Status
 ACCEPTED

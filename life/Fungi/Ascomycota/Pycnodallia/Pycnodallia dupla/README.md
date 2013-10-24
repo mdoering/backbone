@@ -1,5 +1,4 @@
-Pycnodallia dupla Kohlm. & Volkm.-Kohlm., 2001 SPECIES
-=======
+# Pycnodallia dupla Kohlm. & Volkm.-Kohlm., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia subchordalis A. Evans SPECIES
-=======
+# Cladonia subchordalis A. Evans SPECIES
 
 #### Status
 ACCEPTED

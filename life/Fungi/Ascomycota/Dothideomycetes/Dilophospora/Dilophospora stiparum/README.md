@@ -1,5 +1,4 @@
-Dilophospora stiparum Speg. SPECIES
-=======
+# Dilophospora stiparum Speg. SPECIES
 
 #### Status
 ACCEPTED

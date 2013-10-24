@@ -1,5 +1,4 @@
-Helicogoosia paradoxa Hol.-Jech., 1991 SPECIES
-=======
+# Helicogoosia paradoxa Hol.-Jech., 1991 SPECIES
 
 #### Status
 ACCEPTED

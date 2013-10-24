@@ -1,5 +1,4 @@
-Entoloma winterhoffii Wölfel & Noordel. SPECIES
-=======
+# Entoloma winterhoffii Wölfel & Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia citri Henn. SPECIES
-=======
+# Diplodia citri Henn. SPECIES
 
 #### Status
 ACCEPTED

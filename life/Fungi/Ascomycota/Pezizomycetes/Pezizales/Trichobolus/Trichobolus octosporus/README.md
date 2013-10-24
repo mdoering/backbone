@@ -1,5 +1,4 @@
-Trichobolus octosporus J.C. Krug SPECIES
-=======
+# Trichobolus octosporus J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

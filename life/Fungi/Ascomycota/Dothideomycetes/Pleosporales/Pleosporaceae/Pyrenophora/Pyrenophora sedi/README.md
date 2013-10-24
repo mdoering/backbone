@@ -1,5 +1,4 @@
-Pyrenophora sedi Roum. & Briard SPECIES
-=======
+# Pyrenophora sedi Roum. & Briard SPECIES
 
 #### Status
 ACCEPTED

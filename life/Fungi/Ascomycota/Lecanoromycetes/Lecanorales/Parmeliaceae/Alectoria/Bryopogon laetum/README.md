@@ -1,5 +1,4 @@
-Bryopogon laetum f. laetum FORM
-=======
+# Bryopogon laetum (Taylor) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bryopogon laetum f. laetum
+Alectoria lata (Taylor) Linds.
 
 ### Remarks
 null

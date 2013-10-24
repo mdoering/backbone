@@ -1,5 +1,4 @@
-Lachnea solisequia Quél. SPECIES
-=======
+# Lachnea solisequia Quél. SPECIES
 
 #### Status
 ACCEPTED

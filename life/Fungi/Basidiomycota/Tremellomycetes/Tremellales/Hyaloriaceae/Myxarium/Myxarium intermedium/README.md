@@ -1,17 +1,16 @@
-Myxarium intermedius Maham., Kund. & M.S. Patil SPECIES
-=======
+# Myxarium intermedium Maham., Kund. & M.S. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 55(4): 465 (2002)
 
 #### Original name
-Myxarium intermedius Maham., Kund. & M.S. Patil
+Myxarium intermedium Maham., Kund. & M.S. Patil
 
 ### Remarks
 null

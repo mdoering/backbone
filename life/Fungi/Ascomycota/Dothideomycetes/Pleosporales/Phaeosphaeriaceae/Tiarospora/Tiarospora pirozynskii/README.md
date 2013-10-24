@@ -1,5 +1,4 @@
-Tiarospora pirozynskii Chleb. SPECIES
-=======
+# Tiarospora pirozynskii Chleb. SPECIES
 
 #### Status
 ACCEPTED

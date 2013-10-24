@@ -1,5 +1,4 @@
-Clypeolum exiguum Syd. SPECIES
-=======
+# Clypeolum exiguum Syd. SPECIES
 
 #### Status
 ACCEPTED

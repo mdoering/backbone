@@ -1,5 +1,4 @@
-Erinella albosulphurea Pat. SPECIES
-=======
+# Erinella albosulphurea Pat. SPECIES
 
 #### Status
 ACCEPTED

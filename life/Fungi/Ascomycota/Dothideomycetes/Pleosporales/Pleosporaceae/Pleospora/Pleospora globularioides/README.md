@@ -1,5 +1,4 @@
-Pleospora globularioides (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Pleospora globularioides (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

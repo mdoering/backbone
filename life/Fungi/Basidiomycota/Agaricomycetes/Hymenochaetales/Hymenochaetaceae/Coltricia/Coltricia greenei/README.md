@@ -1,8 +1,7 @@
-Coltricia greenii (Berk.) Imazeki SPECIES
-=======
+# Coltricia greenei (Berk.) Imazeki SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

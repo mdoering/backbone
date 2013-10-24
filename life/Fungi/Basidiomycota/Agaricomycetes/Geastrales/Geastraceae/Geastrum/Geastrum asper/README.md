@@ -1,5 +1,4 @@
-Geastrum asper Lloyd SPECIES
-=======
+# Geastrum asper Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma tortulae Gonz. Frag. SPECIES
-=======
+# Phoma tortulae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

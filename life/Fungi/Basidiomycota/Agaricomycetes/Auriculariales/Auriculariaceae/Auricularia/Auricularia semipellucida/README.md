@@ -1,5 +1,4 @@
-Auricularia semipellucida Kobayasi SPECIES
-=======
+# Auricularia semipellucida Kobayasi SPECIES
 
 #### Status
 ACCEPTED

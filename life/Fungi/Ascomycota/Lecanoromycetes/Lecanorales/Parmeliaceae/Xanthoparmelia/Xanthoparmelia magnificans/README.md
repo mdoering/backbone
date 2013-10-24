@@ -1,5 +1,4 @@
-Xanthoparmelia magnificans Elix SPECIES
-=======
+# Xanthoparmelia magnificans Elix SPECIES
 
 #### Status
 ACCEPTED

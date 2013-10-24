@@ -1,5 +1,4 @@
-Gyrophragmium argentinum Speg. SPECIES
-=======
+# Gyrophragmium argentinum Speg. SPECIES
 
 #### Status
 ACCEPTED

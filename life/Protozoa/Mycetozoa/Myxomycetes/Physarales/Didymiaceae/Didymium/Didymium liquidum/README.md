@@ -1,5 +1,4 @@
-Didymium liquidum Payer {?} SPECIES
-=======
+# Didymium liquidum Payer {?} SPECIES
 
 #### Status
 ACCEPTED

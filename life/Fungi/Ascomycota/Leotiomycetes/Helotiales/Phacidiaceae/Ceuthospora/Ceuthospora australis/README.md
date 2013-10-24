@@ -1,5 +1,4 @@
-Ceuthospora australis Sacc., 1890 SPECIES
-=======
+# Ceuthospora australis Sacc., 1890 SPECIES
 
 #### Status
 ACCEPTED

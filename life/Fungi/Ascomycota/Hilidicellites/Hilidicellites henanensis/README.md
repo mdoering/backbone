@@ -1,5 +1,4 @@
-Hilidicellites henanensis (Z.C. Song & G.X. Li) Kalgutkar & Janson. SPECIES
-=======
+# Hilidicellites henanensis (Z.C. Song & G.X. Li) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

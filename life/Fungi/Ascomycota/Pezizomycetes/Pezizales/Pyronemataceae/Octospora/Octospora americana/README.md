@@ -1,5 +1,4 @@
-Octospora americana Benkert SPECIES
-=======
+# Octospora americana Benkert SPECIES
 
 #### Status
 ACCEPTED

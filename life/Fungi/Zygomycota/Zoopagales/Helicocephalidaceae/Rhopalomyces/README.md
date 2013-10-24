@@ -1,5 +1,4 @@
-Rhopalomyces Corda, 1839 GENUS
-=======
+# Rhopalomyces Corda, 1839 GENUS
 
 #### Status
 ACCEPTED

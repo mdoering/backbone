@@ -1,5 +1,4 @@
-Dactylellina hertziana (M. Scholler & A. Rubner) M. Scholler, Hagedorn & A. Rubner SPECIES
-=======
+# Dactylellina hertziana (M. Scholler & A. Rubner) M. Scholler, Hagedorn & A. Rubner SPECIES
 
 #### Status
 ACCEPTED

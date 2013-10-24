@@ -1,17 +1,16 @@
-Xenosporium subramanii V.G. Rao & Varghese SPECIES
-=======
+# Xenosporium subramanianii V.G. Rao & Varghese, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Univ. Poona, Sci. Techn. 50: 235 (1977)
 
 #### Original name
-Xenosporium subramanii V.G. Rao & Varghese
+Xenosporium subramanianii V.G. Rao & Varghese, 1977
 
 ### Remarks
 null

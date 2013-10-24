@@ -1,5 +1,4 @@
-Capniomyces stellatus S.W. Peterson & Lichtw., 1983 SPECIES
-=======
+# Capniomyces stellatus S.W. Peterson & Lichtw., 1983 SPECIES
 
 #### Status
 ACCEPTED

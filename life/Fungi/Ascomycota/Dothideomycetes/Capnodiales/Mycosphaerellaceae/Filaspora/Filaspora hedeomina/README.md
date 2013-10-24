@@ -1,5 +1,4 @@
-Filaspora hedeomina (Peck) Kuntze SPECIES
-=======
+# Filaspora hedeomina (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

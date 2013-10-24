@@ -1,5 +1,4 @@
-Lithothelium hawaiiense Aptroot SPECIES
-=======
+# Lithothelium hawaiiense Aptroot SPECIES
 
 #### Status
 ACCEPTED

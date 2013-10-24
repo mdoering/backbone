@@ -1,5 +1,4 @@
-Graphis inequalis Fée SPECIES
-=======
+# Graphis inequalis Fée SPECIES
 
 #### Status
 ACCEPTED

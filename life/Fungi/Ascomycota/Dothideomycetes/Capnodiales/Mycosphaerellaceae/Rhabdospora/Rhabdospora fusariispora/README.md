@@ -1,5 +1,4 @@
-Rhabdospora fusariispora Bubák SPECIES
-=======
+# Rhabdospora fusariispora Bubák SPECIES
 
 #### Status
 ACCEPTED

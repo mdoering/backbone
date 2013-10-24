@@ -1,5 +1,4 @@
-Myxozyma mucilagina (Phaff, Starmer, M. Miranda & M.W. Mill.) Van der Walt, Weijman & Arx, 1981 SPECIES
-=======
+# Myxozyma mucilagina (Phaff, Starmer, M. Miranda & M.W. Mill.) Van der Walt, Weijman & Arx, 1981 SPECIES
 
 #### Status
 ACCEPTED

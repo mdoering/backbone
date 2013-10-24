@@ -1,5 +1,4 @@
-Chanterel muscoides (Wulfen) Murrill SPECIES
-=======
+# Chanterel muscoides (Wulfen) Murrill SPECIES
 
 #### Status
 ACCEPTED

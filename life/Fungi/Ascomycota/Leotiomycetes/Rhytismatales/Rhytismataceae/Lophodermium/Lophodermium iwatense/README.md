@@ -1,5 +1,4 @@
-Lophodermium iwatense Sakuyama SPECIES
-=======
+# Lophodermium iwatense Sakuyama SPECIES
 
 #### Status
 ACCEPTED

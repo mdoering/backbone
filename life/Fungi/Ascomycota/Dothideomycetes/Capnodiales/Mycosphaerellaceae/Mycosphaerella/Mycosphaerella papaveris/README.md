@@ -1,5 +1,4 @@
-Mycosphaerella papaveris (Fuckel) Jacz. SPECIES
-=======
+# Mycosphaerella papaveris (Fuckel) Jacz. SPECIES
 
 #### Status
 ACCEPTED

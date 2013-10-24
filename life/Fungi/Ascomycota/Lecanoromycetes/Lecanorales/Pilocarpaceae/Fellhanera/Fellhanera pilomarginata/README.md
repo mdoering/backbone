@@ -1,5 +1,4 @@
-Fellhanera pilomarginata Lücking SPECIES
-=======
+# Fellhanera pilomarginata Lücking SPECIES
 
 #### Status
 ACCEPTED

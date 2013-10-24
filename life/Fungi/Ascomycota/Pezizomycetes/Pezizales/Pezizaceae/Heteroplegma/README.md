@@ -1,5 +1,4 @@
-Heteroplegma GENUS
-=======
+# Heteroplegma GENUS
 
 #### Status
 ACCEPTED

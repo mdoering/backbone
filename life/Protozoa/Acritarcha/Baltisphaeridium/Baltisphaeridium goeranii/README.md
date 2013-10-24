@@ -1,5 +1,4 @@
-Baltisphaeridium goeranii (Górka, 1980) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Baltisphaeridium goeranii (Górka, 1980) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

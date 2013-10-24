@@ -1,5 +1,4 @@
-Phomopsis populina Voglino SPECIES
-=======
+# Phomopsis populina Voglino SPECIES
 
 #### Status
 ACCEPTED

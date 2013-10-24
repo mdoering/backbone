@@ -1,5 +1,4 @@
-Puccinia caborcensis Parmelee SPECIES
-=======
+# Puccinia caborcensis Parmelee SPECIES
 
 #### Status
 ACCEPTED

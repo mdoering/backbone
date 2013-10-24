@@ -1,5 +1,4 @@
-Uromyces sporoboloides Cummins SPECIES
-=======
+# Uromyces sporoboloides Cummins SPECIES
 
 #### Status
 ACCEPTED

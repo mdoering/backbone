@@ -1,5 +1,4 @@
-Gymnogaster boletoides J.W. Cribb, 1956 SPECIES
-=======
+# Gymnogaster boletoides J.W. Cribb, 1956 SPECIES
 
 #### Status
 ACCEPTED

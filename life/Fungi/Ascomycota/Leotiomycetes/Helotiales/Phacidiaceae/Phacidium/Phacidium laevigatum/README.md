@@ -1,5 +1,4 @@
-Phacidium laevigatum Fr. SPECIES
-=======
+# Phacidium laevigatum Fr. SPECIES
 
 #### Status
 ACCEPTED

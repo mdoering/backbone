@@ -1,5 +1,4 @@
-Xylaria hippoglossa Speg. SPECIES
-=======
+# Xylaria hippoglossa Speg. SPECIES
 
 #### Status
 ACCEPTED

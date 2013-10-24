@@ -1,14 +1,13 @@
-Polystictus taylori (Murrill) Sacc. & Trotter SPECIES
-=======
+# Coriolopsis taylorii Murrill, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Fl. (New York) 9(2): 76 (1908)
 
 #### Original name
 Coriolopsis taylorii Murrill, 1908

@@ -1,5 +1,4 @@
-Graphina conferta A.W. Archer SPECIES
-=======
+# Graphina conferta A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

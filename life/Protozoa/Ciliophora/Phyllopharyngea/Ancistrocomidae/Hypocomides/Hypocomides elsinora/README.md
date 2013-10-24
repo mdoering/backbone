@@ -1,5 +1,4 @@
-Hypocomides elsinora Fenchel, 1965 SPECIES
-=======
+# Hypocomides elsinora Fenchel, 1965 SPECIES
 
 #### Status
 ACCEPTED

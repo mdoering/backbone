@@ -1,5 +1,4 @@
-Verrucaria operta Nyl. SPECIES
-=======
+# Verrucaria operta Nyl. SPECIES
 
 #### Status
 ACCEPTED

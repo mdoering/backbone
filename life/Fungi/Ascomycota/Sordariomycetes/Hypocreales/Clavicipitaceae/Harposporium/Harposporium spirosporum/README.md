@@ -1,5 +1,4 @@
-Harposporium spirosporum G.L. Barron SPECIES
-=======
+# Harposporium spirosporum G.L. Barron SPECIES
 
 #### Status
 ACCEPTED

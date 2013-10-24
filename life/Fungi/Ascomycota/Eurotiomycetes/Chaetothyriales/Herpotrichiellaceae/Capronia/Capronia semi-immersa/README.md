@@ -1,14 +1,13 @@
-Capronia semiimmersa (Cand. & Sulmont) Unter. & F.A. Naveau SPECIES
-=======
+# Capronia semi-immersa (Cand. & Sulmont) Unter. & F.A. Naveau, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 91(1): 73 (1999)
 
 #### Original name
 Dictyotrichiella semi-immersa Cand. & Sulmont, 1972

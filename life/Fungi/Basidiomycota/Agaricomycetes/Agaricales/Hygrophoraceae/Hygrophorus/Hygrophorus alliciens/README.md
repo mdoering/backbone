@@ -1,5 +1,4 @@
-Hygrophorus alliciens Berk. & Broome SPECIES
-=======
+# Hygrophorus alliciens Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

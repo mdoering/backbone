@@ -1,5 +1,4 @@
-Meliola lisianthi var. lisianthi VARIETY
-=======
+# Meliola lisianthi F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycologia 18(1): 15 (1926)
 
 #### Original name
-Meliola lisianthi var. lisianthi
+Meliola lisianthi F. Stevens & Tehon
 
 ### Remarks
 null

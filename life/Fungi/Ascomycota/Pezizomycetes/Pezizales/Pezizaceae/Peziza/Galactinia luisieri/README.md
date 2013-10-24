@@ -1,5 +1,4 @@
-Galactinia luisieri Torrend SPECIES
-=======
+# Galactinia luisieri Torrend SPECIES
 
 #### Status
 ACCEPTED

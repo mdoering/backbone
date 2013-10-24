@@ -1,5 +1,4 @@
-Nodulisporium griseofuscum (P. Karst.) S. Hughes SPECIES
-=======
+# Nodulisporium griseofuscum (P. Karst.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

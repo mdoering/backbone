@@ -1,5 +1,4 @@
-Endocolium Syd. GENUS
-=======
+# Endocolium Syd. GENUS
 
 #### Status
 ACCEPTED

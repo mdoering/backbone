@@ -1,5 +1,4 @@
-Asterina peraffinis Speg. SPECIES
-=======
+# Asterina peraffinis Speg. SPECIES
 
 #### Status
 ACCEPTED

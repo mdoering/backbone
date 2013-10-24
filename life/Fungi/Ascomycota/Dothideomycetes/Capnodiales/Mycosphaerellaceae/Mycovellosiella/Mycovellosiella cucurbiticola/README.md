@@ -1,5 +1,4 @@
-Mycovellosiella cucurbiticola (Speg.) Deighton SPECIES
-=======
+# Mycovellosiella cucurbiticola (Speg.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplophrys marina Dykstra & D. Porter, 1984 SPECIES
-=======
+# Diplophrys marina Dykstra & D. Porter, 1984 SPECIES
 
 #### Status
 ACCEPTED

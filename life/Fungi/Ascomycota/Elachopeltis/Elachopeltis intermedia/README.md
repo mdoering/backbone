@@ -1,5 +1,4 @@
-Elachopeltis intermedia M.L. Farr SPECIES
-=======
+# Elachopeltis intermedia M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

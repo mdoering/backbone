@@ -1,5 +1,4 @@
-Phlyctema pomi Höhn. SPECIES
-=======
+# Phlyctema pomi Höhn. SPECIES
 
 #### Status
 ACCEPTED

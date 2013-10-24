@@ -1,5 +1,4 @@
-Dimerina osyridis (G. Winter) Theiss. SPECIES
-=======
+# Dimerina osyridis (G. Winter) Theiss. SPECIES
 
 #### Status
 ACCEPTED

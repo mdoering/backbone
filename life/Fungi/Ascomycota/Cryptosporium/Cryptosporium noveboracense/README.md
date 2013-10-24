@@ -1,5 +1,4 @@
-Cryptosporium noveboracense Berk. & M.A. Curtis SPECIES
-=======
+# Cryptosporium noveboracense Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

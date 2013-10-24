@@ -1,5 +1,4 @@
-Ceriomyces spongia Speg. SPECIES
-=======
+# Ceriomyces spongia Speg. SPECIES
 
 #### Status
 ACCEPTED

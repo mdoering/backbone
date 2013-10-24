@@ -1,5 +1,4 @@
-Sporidesmium phoebes Cheng K. Shi & X.G. Zhang SPECIES
-=======
+# Sporidesmium phoebes Cheng K. Shi & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

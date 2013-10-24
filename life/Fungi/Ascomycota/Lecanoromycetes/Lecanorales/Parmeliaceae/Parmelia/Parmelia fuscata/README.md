@@ -1,5 +1,4 @@
-Parmelia fuscata var. fuscata VARIETY
-=======
+# Parmelia fuscata Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia fuscata var. fuscata
+Parmelia fuscata Ach.
 
 ### Remarks
 null

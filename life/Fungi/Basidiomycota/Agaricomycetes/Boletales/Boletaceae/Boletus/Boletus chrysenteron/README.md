@@ -1,17 +1,16 @@
-Xerocomus chrysenteron var. chrysenteron VARIETY
-=======
+# Boletus chrysenteron Bull., 1791 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. mycol. France (Paris) 418 (1888)
+Histoire des champignons 328 (1791)
 
 #### Original name
-Xerocomus chrysenteron var. chrysenteron
+Boletus chrysenteron Bull., 1791
 
 ### Remarks
 null

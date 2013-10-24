@@ -1,14 +1,13 @@
-Parmelia subnuda Kurok. SPECIES
-=======
+# Xanthoparmelia subnuda (Kurok.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kurokawa & Elix, J. Jap. Bot. 46: 114 (1971)
+Phytologia 28: 489 (1974)
 
 #### Original name
 Parmelia subnuda Kurok.

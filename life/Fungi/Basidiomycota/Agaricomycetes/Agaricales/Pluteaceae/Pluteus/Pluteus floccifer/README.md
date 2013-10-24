@@ -1,5 +1,4 @@
-Pluteus floccifer Boud. SPECIES
-=======
+# Pluteus floccifer Boud. SPECIES
 
 #### Status
 ACCEPTED

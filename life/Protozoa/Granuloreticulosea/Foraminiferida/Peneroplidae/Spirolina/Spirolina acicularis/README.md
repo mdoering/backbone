@@ -1,8 +1,7 @@
-Monalysidium acicularis (Batsch, 1791) SPECIES
-=======
+# Spirolina acicularis (Batsch, 1791) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

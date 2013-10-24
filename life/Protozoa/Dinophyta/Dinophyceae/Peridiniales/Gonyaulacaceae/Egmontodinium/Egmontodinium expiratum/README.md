@@ -1,5 +1,4 @@
-Egmontodinium expiratum R. J. Davey SPECIES
-=======
+# Egmontodinium expiratum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

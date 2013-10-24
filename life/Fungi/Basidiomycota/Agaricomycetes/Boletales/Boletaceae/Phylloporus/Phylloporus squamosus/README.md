@@ -1,5 +1,4 @@
-Phylloporus squamosus Corner SPECIES
-=======
+# Phylloporus squamosus Corner SPECIES
 
 #### Status
 ACCEPTED

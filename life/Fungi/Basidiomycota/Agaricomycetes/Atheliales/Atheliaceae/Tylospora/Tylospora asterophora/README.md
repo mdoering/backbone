@@ -1,14 +1,13 @@
-Tylosperma asterophora (Bonord.) Donk SPECIES
-=======
+# Tylospora asterophora (Bonord.) Donk, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxon 9: 220 (1960)
 
 #### Original name
 Hypochnus asterophorus Bonord., 1851

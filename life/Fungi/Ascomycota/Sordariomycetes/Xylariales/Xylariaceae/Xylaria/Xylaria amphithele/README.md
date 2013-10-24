@@ -1,5 +1,4 @@
-Xylaria amphithele F.S.M. González & J.D. Rogers SPECIES
-=======
+# Xylaria amphithele F.S.M. González & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

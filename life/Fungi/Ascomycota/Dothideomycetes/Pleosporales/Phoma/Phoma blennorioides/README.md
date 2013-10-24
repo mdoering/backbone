@@ -1,5 +1,4 @@
-Phoma blennorioides P. Karst. SPECIES
-=======
+# Phoma blennorioides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

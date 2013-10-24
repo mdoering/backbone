@@ -1,5 +1,4 @@
-Rotundula Goodrich, 1949 GENUS
-=======
+# Rotundula Goodrich, 1949 GENUS
 
 #### Status
 ACCEPTED

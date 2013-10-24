@@ -1,5 +1,4 @@
-Trochammina chitinosa Collins, 1958 SPECIES
-=======
+# Trochammina chitinosa Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

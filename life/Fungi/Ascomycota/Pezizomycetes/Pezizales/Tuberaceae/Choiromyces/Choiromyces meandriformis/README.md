@@ -1,17 +1,16 @@
-Tuber album Sowerby, 1800 SPECIES
-=======
+# Choiromyces meandriformis Vittad., 1831 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Col. fig. Engl. Fung. Mushr. (London) 3: pl. 310 (1800)
+Monogr. Tuberac. (Milano) 51 (1831)
 
 #### Original name
-Tuber album Sowerby, 1800
+Choiromyces meandriformis Vittad., 1831
 
 ### Remarks
 null

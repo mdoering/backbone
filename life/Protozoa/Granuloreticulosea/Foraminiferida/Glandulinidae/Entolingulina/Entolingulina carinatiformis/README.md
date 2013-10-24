@@ -1,5 +1,4 @@
-Entolingulina carinatiformis McCulloch, 1977 SPECIES
-=======
+# Entolingulina carinatiformis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

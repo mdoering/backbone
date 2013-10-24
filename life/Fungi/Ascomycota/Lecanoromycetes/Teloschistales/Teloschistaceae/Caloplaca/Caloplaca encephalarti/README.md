@@ -1,5 +1,4 @@
-Caloplaca encephalarti (Kremp.) Zahlbr. SPECIES
-=======
+# Caloplaca encephalarti (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

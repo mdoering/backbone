@@ -1,5 +1,4 @@
-Marasmius njalaensis Beeli SPECIES
-=======
+# Marasmius njalaensis Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Agaricus elodes Fr., 1821 SPECIES
-=======
+# Entoloma elodes (Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 196 (1821)
+Führ. Pilzk. (Zwickau) 98 (1871)
 
 #### Original name
 Agaricus elodes Fr., 1821

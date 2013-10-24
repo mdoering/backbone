@@ -1,5 +1,4 @@
-Diplodia osyridella Tassi SPECIES
-=======
+# Diplodia osyridella Tassi SPECIES
 
 #### Status
 ACCEPTED

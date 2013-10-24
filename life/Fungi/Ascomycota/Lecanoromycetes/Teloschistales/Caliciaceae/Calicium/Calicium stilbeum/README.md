@@ -1,5 +1,4 @@
-Calicium stilbeum (Ach.) Schaer. SPECIES
-=======
+# Calicium stilbeum (Ach.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

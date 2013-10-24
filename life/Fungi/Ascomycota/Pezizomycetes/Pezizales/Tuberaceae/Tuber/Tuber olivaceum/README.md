@@ -1,5 +1,4 @@
-Tuber olivaceum Harkn. SPECIES
-=======
+# Tuber olivaceum Harkn. SPECIES
 
 #### Status
 ACCEPTED

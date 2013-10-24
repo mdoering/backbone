@@ -1,5 +1,4 @@
-Thelotrema subexpallescens Nagarkar, Sethy & Patw. SPECIES
-=======
+# Thelotrema subexpallescens Nagarkar, Sethy & Patw. SPECIES
 
 #### Status
 ACCEPTED

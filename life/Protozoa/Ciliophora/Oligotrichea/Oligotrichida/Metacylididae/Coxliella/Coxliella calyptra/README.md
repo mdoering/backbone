@@ -1,5 +1,4 @@
-Coxliella calyptra (Cleve, 1899) SPECIES
-=======
+# Coxliella calyptra (Cleve, 1899) SPECIES
 
 #### Status
 DOUBTFUL

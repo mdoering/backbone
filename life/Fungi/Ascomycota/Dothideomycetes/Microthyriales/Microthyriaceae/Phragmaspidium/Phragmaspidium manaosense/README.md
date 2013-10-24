@@ -1,14 +1,13 @@
-Micropeltis manaosensis Henn., 1904 SPECIES
-=======
+# Phragmaspidium manaosense (Henn.) Bat., 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43: 377 (1904)
+Publções Inst. Micol. Recife 260: 113 (1960)
 
 #### Original name
 Micropeltis manaosensis Henn., 1904

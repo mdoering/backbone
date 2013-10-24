@@ -1,5 +1,4 @@
-Septoria asari Sacc. SPECIES
-=======
+# Septoria asari Sacc. SPECIES
 
 #### Status
 ACCEPTED

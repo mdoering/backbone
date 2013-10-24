@@ -1,17 +1,16 @@
-Sartorya fumigata var. fumigata VARIETY
-=======
+# Aspergillus fischeri Wehmer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. hebd. Séanc. Acad. Sci. , Paris 184: 136-137 (1927)
+Zentbl. Bakt. ParasitKde, Abt. II 18: 390 (1907)
 
 #### Original name
-Sartorya fumigata var. fumigata
+Aspergillus fischeri Wehmer
 
 ### Remarks
 null

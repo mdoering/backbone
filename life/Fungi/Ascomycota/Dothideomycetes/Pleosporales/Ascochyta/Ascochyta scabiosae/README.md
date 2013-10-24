@@ -1,5 +1,4 @@
-Ascochyta scabiosae Rabenh. SPECIES
-=======
+# Ascochyta scabiosae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

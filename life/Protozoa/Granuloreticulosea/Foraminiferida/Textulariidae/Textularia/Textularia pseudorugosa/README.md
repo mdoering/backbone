@@ -1,5 +1,4 @@
-Textularia pseudorugosa Lacroix, 1932 SPECIES
-=======
+# Textularia pseudorugosa Lacroix, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacillo GENUS
-=======
+# Bacillo GENUS
 
 #### Status
 ACCEPTED

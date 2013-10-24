@@ -1,5 +1,4 @@
-Conocybe subvelata Singer SPECIES
-=======
+# Conocybe subvelata Singer SPECIES
 
 #### Status
 ACCEPTED

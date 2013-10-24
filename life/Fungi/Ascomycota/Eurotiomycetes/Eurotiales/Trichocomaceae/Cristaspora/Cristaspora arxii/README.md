@@ -1,5 +1,4 @@
-Cristaspora arxii Fort & Guarro, 1984 SPECIES
-=======
+# Cristaspora arxii Fort & Guarro, 1984 SPECIES
 
 #### Status
 ACCEPTED

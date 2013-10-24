@@ -1,8 +1,7 @@
-Euplotes tegulatus Tuffrau, 1960 SPECIES
-=======
+# Euplotopsis tegulata (Tuffrau, 1960) Borror & Hill, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

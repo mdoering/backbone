@@ -1,5 +1,4 @@
-Leptoxyphium xylophilum Cif., Bat. & Montemart. SPECIES
-=======
+# Leptoxyphium xylophilum Cif., Bat. & Montemart. SPECIES
 
 #### Status
 ACCEPTED

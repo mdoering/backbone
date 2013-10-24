@@ -1,5 +1,4 @@
-Sphacelotheca polygoni-filiformis S. Ito SPECIES
-=======
+# Sphacelotheca polygoni-filiformis S. Ito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocopra rehmii Sacc. SPECIES
-=======
+# Hypocopra rehmii Sacc. SPECIES
 
 #### Status
 ACCEPTED

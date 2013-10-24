@@ -1,5 +1,4 @@
-Acineta crypturopi Swarczewsky, 1928 SPECIES
-=======
+# Acineta crypturopi Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

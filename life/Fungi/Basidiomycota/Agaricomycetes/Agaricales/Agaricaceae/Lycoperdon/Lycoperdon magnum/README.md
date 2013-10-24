@@ -1,5 +1,4 @@
-Lycoperdon magnum J.C. Buxb. SPECIES
-=======
+# Lycoperdon magnum J.C. Buxb. SPECIES
 
 #### Status
 ACCEPTED

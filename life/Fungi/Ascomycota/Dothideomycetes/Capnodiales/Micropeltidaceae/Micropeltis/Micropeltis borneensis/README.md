@@ -1,5 +1,4 @@
-Micropeltis borneensis Petr. & Syd. SPECIES
-=======
+# Micropeltis borneensis Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

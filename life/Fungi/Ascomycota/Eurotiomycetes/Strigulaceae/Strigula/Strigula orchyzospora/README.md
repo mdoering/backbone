@@ -1,5 +1,4 @@
-Strigula orchyzospora R. Sant. SPECIES
-=======
+# Strigula orchyzospora R. Sant. SPECIES
 
 #### Status
 ACCEPTED

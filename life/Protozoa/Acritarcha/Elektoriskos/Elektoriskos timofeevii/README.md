@@ -1,5 +1,4 @@
-Elektoriskos timofeevii Stockmans & Willière, 1962 ex Stockmans & Willière, 1974 SPECIES
-=======
+# Elektoriskos timofeevii Stockmans & Willière, 1962 ex Stockmans & Willière, 1974 SPECIES
 
 #### Status
 ACCEPTED

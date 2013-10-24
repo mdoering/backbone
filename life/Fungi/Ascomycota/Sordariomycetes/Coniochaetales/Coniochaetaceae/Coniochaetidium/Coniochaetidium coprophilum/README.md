@@ -1,5 +1,4 @@
-Coniochaetidium coprophilum R.K. Pathak & S.C. Agarwal SPECIES
-=======
+# Coniochaetidium coprophilum R.K. Pathak & S.C. Agarwal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagynophrya rostrata Kahl, 1927 SPECIES
-=======
+# Lagynophrya rostrata Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

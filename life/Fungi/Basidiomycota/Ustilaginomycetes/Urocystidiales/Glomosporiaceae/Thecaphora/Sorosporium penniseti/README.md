@@ -1,5 +1,4 @@
-Sorosporium penniseti Mundk. SPECIES
-=======
+# Sorosporium penniseti Mundk. SPECIES
 
 #### Status
 ACCEPTED

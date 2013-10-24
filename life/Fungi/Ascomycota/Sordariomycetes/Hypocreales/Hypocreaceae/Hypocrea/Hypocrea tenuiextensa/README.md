@@ -1,5 +1,4 @@
-Hypocrea tenuiextensa Yoshim. Doi SPECIES
-=======
+# Hypocrea tenuiextensa Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

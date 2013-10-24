@@ -1,5 +1,4 @@
-Harmandiana vouauxii B. de Lesd. SPECIES
-=======
+# Harmandiana vouauxii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

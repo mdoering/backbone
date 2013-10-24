@@ -1,11 +1,10 @@
-Candida polymorpha var. polymorpha VARIETY
-=======
+# Yamadazyma triangularis (M.T. Sm. & Bat. Vegte) Kurtzman & M. Suzuki, 2010 SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

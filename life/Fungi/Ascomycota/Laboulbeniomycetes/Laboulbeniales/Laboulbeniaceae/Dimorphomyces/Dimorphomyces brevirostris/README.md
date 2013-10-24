@@ -1,5 +1,4 @@
-Dimorphomyces brevirostris Thaxt. SPECIES
-=======
+# Dimorphomyces brevirostris Thaxt. SPECIES
 
 #### Status
 ACCEPTED

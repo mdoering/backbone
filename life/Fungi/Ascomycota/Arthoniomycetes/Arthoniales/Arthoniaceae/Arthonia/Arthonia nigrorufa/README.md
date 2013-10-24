@@ -1,5 +1,4 @@
-Arthonia nigrorufa Müll. Arg. SPECIES
-=======
+# Arthonia nigrorufa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

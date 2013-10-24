@@ -1,5 +1,4 @@
-Leptosphaeria perplexa Sacc. & Fairm. SPECIES
-=======
+# Leptosphaeria perplexa Sacc. & Fairm. SPECIES
 
 #### Status
 ACCEPTED

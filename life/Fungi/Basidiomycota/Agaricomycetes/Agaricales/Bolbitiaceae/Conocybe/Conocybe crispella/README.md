@@ -1,14 +1,13 @@
-Galera crispella (Murrill) Murrill, 1942 SPECIES
-=======
+# Conocybe crispella (Murrill) Singer, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 5: 156 (1942)
+Sydowia 4: 132 (1950)
 
 #### Original name
 Galerula crispella Murrill, 1942

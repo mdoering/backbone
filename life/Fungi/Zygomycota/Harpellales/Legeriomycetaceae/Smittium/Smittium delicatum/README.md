@@ -1,5 +1,4 @@
-Smittium delicatum Lichtw., 1990 SPECIES
-=======
+# Smittium delicatum Lichtw., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma versoniana (Sacc.) Sacc. SPECIES
-=======
+# Phoma versoniana (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

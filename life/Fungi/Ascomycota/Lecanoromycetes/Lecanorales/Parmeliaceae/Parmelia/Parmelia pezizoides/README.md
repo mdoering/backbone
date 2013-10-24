@@ -1,5 +1,4 @@
-Parmelia pezizoides (Baumg.) Mart. SPECIES
-=======
+# Parmelia pezizoides (Baumg.) Mart. SPECIES
 
 #### Status
 ACCEPTED

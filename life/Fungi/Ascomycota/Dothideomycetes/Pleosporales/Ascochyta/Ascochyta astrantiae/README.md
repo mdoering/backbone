@@ -1,5 +1,4 @@
-Ascochyta astrantiae Chevassut SPECIES
-=======
+# Ascochyta astrantiae Chevassut SPECIES
 
 #### Status
 ACCEPTED

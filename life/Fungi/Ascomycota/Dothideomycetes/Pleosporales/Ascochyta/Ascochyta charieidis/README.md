@@ -1,5 +1,4 @@
-Ascochyta charieidis Novoss. SPECIES
-=======
+# Ascochyta charieidis Novoss. SPECIES
 
 #### Status
 ACCEPTED

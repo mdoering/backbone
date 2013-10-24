@@ -1,5 +1,4 @@
-Sporotrichum dori Beurm. & Gougerot SPECIES
-=======
+# Sporotrichum dori Beurm. & Gougerot SPECIES
 
 #### Status
 ACCEPTED

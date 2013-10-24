@@ -1,5 +1,4 @@
-Ganoderma fassii Steyaert SPECIES
-=======
+# Ganoderma fassii Steyaert SPECIES
 
 #### Status
 ACCEPTED

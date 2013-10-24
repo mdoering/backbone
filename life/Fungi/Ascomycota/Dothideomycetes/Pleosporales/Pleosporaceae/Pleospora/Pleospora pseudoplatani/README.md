@@ -1,5 +1,4 @@
-Pleospora pseudoplatani anon. SPECIES
-=======
+# Pleospora pseudoplatani anon. SPECIES
 
 #### Status
 ACCEPTED

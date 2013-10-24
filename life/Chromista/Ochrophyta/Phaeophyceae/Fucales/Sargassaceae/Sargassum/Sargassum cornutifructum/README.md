@@ -1,5 +1,4 @@
-Sargassum cornutifructum H. D. Nguyen & Q. N. Huynh SPECIES
-=======
+# Sargassum cornutifructum H. D. Nguyen & Q. N. Huynh SPECIES
 
 #### Status
 ACCEPTED

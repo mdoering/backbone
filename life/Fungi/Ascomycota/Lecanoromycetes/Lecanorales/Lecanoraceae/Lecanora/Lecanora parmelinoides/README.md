@@ -1,5 +1,4 @@
-Lecanora parmelinoides Lumbsch SPECIES
-=======
+# Lecanora parmelinoides Lumbsch SPECIES
 
 #### Status
 ACCEPTED

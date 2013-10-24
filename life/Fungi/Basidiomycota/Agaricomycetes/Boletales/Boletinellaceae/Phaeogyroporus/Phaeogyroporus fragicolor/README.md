@@ -1,5 +1,4 @@
-Phaeogyroporus fragicolor (Berk.) E. Horak SPECIES
-=======
+# Phaeogyroporus fragicolor (Berk.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exoascus ostryae (C. Massal.) Sacc. SPECIES
-=======
+# Exoascus ostryae (C. Massal.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

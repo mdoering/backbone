@@ -1,5 +1,4 @@
-Asterina xymalodis Hansf. SPECIES
-=======
+# Asterina xymalodis Hansf. SPECIES
 
 #### Status
 ACCEPTED

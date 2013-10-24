@@ -1,5 +1,4 @@
-Hypoxylon spirale A. Pande SPECIES
-=======
+# Hypoxylon spirale A. Pande SPECIES
 
 #### Status
 ACCEPTED

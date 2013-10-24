@@ -1,5 +1,4 @@
-Lactobacillus concavus Tong & Dong, 2005 SPECIES
-=======
+# Lactobacillus concavus Tong & Dong, 2005 SPECIES
 
 #### Status
 ACCEPTED

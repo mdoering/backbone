@@ -1,5 +1,4 @@
-Stereochlamys horridula Müll. Arg. SPECIES
-=======
+# Stereochlamys horridula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favotrichophyton avium Neveu-Lem. SPECIES
-=======
+# Favotrichophyton avium Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

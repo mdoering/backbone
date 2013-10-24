@@ -1,5 +1,4 @@
-Hysteromyxa Sacc. & Ellis GENUS
-=======
+# Hysteromyxa Sacc. & Ellis GENUS
 
 #### Status
 ACCEPTED

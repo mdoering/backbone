@@ -1,5 +1,4 @@
-Hypocrea subpurpurea Yoshim. Doi SPECIES
-=======
+# Hypocrea subpurpurea Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

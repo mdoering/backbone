@@ -1,5 +1,4 @@
-Podospora bicornis N. Lundq. SPECIES
-=======
+# Podospora bicornis N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neocatapyrenium disparatum Breuss SPECIES
-=======
+# Neocatapyrenium disparatum Breuss SPECIES
 
 #### Status
 ACCEPTED

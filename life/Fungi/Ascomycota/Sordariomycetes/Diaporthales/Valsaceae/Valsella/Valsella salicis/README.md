@@ -1,17 +1,16 @@
-Valsella salicis var. salicis Fuckel VARIETY
-=======
+# Valsella salicis Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Jb. nassau. Ver. Naturk. 23-24: 203 (1870)
 
 #### Original name
-Valsella salicis var. salicis Fuckel
+Valsella salicis Fuckel, 1870
 
 ### Remarks
 null

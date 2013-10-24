@@ -1,5 +1,4 @@
-Marasmius ditopotrama Singer SPECIES
-=======
+# Marasmius ditopotrama Singer SPECIES
 
 #### Status
 ACCEPTED

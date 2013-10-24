@@ -1,5 +1,4 @@
-Lecidea punctulata Fée SPECIES
-=======
+# Lecidea punctulata Fée SPECIES
 
 #### Status
 ACCEPTED

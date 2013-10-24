@@ -1,5 +1,4 @@
-Thelephora coccinea Schwein. SPECIES
-=======
+# Thelephora coccinea Schwein. SPECIES
 
 #### Status
 ACCEPTED

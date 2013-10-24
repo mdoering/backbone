@@ -1,5 +1,4 @@
-Dicoccum nebulosum Ellis & Everh. SPECIES
-=======
+# Dicoccum nebulosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

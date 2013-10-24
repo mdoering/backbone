@@ -1,5 +1,4 @@
-Lepiota aurantiaca Beeli SPECIES
-=======
+# Lepiota aurantiaca Beeli SPECIES
 
 #### Status
 ACCEPTED

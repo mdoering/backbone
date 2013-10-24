@@ -1,5 +1,4 @@
-Monilinia ledi (Navashin) Whetzel SPECIES
-=======
+# Monilinia ledi (Navashin) Whetzel SPECIES
 
 #### Status
 ACCEPTED

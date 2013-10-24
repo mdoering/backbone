@@ -1,5 +1,4 @@
-Dictyopanus foliicola Kobayasi SPECIES
-=======
+# Dictyopanus foliicola Kobayasi SPECIES
 
 #### Status
 ACCEPTED

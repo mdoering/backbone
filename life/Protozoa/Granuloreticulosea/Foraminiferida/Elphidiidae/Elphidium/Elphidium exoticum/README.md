@@ -1,5 +1,4 @@
-Elphidium exoticum Haynes, 1973 SPECIES
-=======
+# Elphidium exoticum Haynes, 1973 SPECIES
 
 #### Status
 ACCEPTED

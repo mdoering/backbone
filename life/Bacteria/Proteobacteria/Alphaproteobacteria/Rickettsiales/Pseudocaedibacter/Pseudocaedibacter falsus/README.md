@@ -1,11 +1,10 @@
-Caedobacter falsus Preer et al., 1974 SPECIES
-=======
+# Pseudocaedibacter falsus (ex Preer et al., 1974) Quackenbush, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Calicium deminuens SPECIES
-=======
+# Calicium deminuens SPECIES
 
 #### Status
 ACCEPTED

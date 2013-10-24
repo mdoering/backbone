@@ -1,5 +1,4 @@
-Parmelia ochrococcinea Zahlbr. SPECIES
-=======
+# Parmelia ochrococcinea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

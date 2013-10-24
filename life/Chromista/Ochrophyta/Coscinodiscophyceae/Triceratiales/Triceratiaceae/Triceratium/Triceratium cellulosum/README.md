@@ -1,5 +1,4 @@
-Triceratium cellulosum var. simbirskianum Witt VARIETY
-=======
+# Triceratium cellulosum SPECIES
 
 #### Status
 ACCEPTED

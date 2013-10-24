@@ -1,5 +1,4 @@
-Cercospora stransvesiae Katsuki & Ts. Kobay. SPECIES
-=======
+# Cercospora stransvesiae Katsuki & Ts. Kobay. SPECIES
 
 #### Status
 ACCEPTED

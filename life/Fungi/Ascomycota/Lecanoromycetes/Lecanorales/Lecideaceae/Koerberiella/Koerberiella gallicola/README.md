@@ -1,5 +1,4 @@
-Koerberiella gallicola (B. de Lesd.) Motyka SPECIES
-=======
+# Koerberiella gallicola (B. de Lesd.) Motyka SPECIES
 
 #### Status
 ACCEPTED

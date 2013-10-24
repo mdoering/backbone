@@ -1,5 +1,4 @@
-Lionotus vesiculosus Stokes, 1885 SPECIES
-=======
+# Lionotus vesiculosus Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

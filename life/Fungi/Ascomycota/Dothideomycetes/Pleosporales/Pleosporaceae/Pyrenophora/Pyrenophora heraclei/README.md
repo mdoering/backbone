@@ -1,5 +1,4 @@
-Pyrenophora heraclei Gucevic SPECIES
-=======
+# Pyrenophora heraclei Gucevic SPECIES
 
 #### Status
 ACCEPTED

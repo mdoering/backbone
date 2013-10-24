@@ -1,17 +1,16 @@
-Hysteriopsis Speg. GENUS
-=======
+# Hysterographium Corda, 1842 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Revta Fac. Agron. Vet. Univ. nac. La Plata, Ser. 2 2: 308 (1906)
+null
 
 #### Original name
-Hysteriopsis Speg.
+null
 
 ### Remarks
 null

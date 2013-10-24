@@ -1,5 +1,4 @@
-Sphaeria metuloidea Kalchbr. & Cooke SPECIES
-=======
+# Sphaeria metuloidea Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

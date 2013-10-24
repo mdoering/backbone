@@ -1,5 +1,4 @@
-Clavaria rufobrunnea Coker SPECIES
-=======
+# Clavaria rufobrunnea Coker SPECIES
 
 #### Status
 ACCEPTED

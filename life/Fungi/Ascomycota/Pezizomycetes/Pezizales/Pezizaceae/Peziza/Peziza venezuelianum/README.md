@@ -1,5 +1,4 @@
-Peziza venezuelianum Klotzsch SPECIES
-=======
+# Peziza venezuelianum Klotzsch SPECIES
 
 #### Status
 ACCEPTED

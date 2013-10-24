@@ -1,5 +1,4 @@
-Sphaerella cooperta (Desm.) Auersw. SPECIES
-=======
+# Sphaerella cooperta (Desm.) Auersw. SPECIES
 
 #### Status
 ACCEPTED

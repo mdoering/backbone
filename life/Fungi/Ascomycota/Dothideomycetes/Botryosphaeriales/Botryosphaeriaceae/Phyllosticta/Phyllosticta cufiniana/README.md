@@ -1,5 +1,4 @@
-Phyllosticta cufiniana Trinchieri SPECIES
-=======
+# Phyllosticta cufiniana Trinchieri SPECIES
 
 #### Status
 ACCEPTED

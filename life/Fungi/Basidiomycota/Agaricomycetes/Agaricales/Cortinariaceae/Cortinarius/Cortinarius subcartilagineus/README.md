@@ -1,5 +1,4 @@
-Cortinarius subcartilagineus Rob. Henry SPECIES
-=======
+# Cortinarius subcartilagineus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium fumosum Ellis & Everh. SPECIES
-=======
+# Sporidesmium fumosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella fulvipes Mont. SPECIES
-=======
+# Psathyrella fulvipes Mont. SPECIES
 
 #### Status
 ACCEPTED

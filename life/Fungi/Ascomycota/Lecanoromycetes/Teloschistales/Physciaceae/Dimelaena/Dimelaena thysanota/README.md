@@ -1,17 +1,16 @@
-Rinodina thysanota Tuck. SPECIES
-=======
+# Dimelaena thysanota (Tuck.) Hale & W. L. Culb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 73(3): 513 (1970)
 
 #### Original name
-null
+Rinodina thysanota Tuck.
 
 ### Remarks
 null

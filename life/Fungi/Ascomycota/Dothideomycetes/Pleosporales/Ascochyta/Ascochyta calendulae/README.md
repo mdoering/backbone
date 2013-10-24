@@ -1,5 +1,4 @@
-Ascochyta calendulae Syd. SPECIES
-=======
+# Ascochyta calendulae Syd. SPECIES
 
 #### Status
 ACCEPTED

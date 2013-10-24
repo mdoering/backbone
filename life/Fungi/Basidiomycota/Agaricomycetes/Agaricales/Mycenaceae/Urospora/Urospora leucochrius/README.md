@@ -1,5 +1,4 @@
-Urospora leucochrius (Britzelm.) Singer SPECIES
-=======
+# Urospora leucochrius (Britzelm.) Singer SPECIES
 
 #### Status
 ACCEPTED

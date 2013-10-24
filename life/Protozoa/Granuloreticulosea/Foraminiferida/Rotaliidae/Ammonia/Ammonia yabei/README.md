@@ -1,5 +1,4 @@
-Ammonia (Pseudorotalia) yabei (Ishizaki) SPECIES
-=======
+# Ammonia (Pseudorotalia) yabei (Ishizaki) SPECIES
 
 #### Status
 ACCEPTED

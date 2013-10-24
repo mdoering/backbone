@@ -1,5 +1,4 @@
-Pterula parvispora P. Roberts, 1999 SPECIES
-=======
+# Pterula parvispora P. Roberts, 1999 SPECIES
 
 #### Status
 ACCEPTED

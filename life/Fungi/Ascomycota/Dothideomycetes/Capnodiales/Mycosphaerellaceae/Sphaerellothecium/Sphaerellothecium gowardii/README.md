@@ -1,5 +1,4 @@
-Sphaerellothecium gowardii Alstrup & M.S. Cole SPECIES
-=======
+# Sphaerellothecium gowardii Alstrup & M.S. Cole SPECIES
 
 #### Status
 ACCEPTED

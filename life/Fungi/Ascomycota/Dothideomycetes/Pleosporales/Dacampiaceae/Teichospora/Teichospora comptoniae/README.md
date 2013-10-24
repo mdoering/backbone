@@ -1,5 +1,4 @@
-Teichospora comptoniae (Cooke & Ellis) M.E. Barr SPECIES
-=======
+# Teichospora comptoniae (Cooke & Ellis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

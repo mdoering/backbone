@@ -1,5 +1,4 @@
-Sphaeria evanescens Heer SPECIES
-=======
+# Sphaeria evanescens Heer SPECIES
 
 #### Status
 ACCEPTED

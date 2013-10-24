@@ -1,5 +1,4 @@
-Coniophora conspersa (Fr.) Sacc. SPECIES
-=======
+# Coniophora conspersa (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

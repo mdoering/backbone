@@ -1,5 +1,4 @@
-Synchytrium fulgeus var. fulgeus VARIETY
-=======
+# Synchytrium fulgeus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Synchytrium fulgeus var. fulgeus
+Synchytrium fulgeus
 
 ### Remarks
 null

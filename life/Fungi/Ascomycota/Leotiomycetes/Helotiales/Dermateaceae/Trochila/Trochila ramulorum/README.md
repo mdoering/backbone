@@ -1,5 +1,4 @@
-Trochila ramulorum Feltgen SPECIES
-=======
+# Trochila ramulorum Feltgen SPECIES
 
 #### Status
 ACCEPTED

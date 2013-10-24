@@ -1,5 +1,4 @@
-Meliola buchenaviae var. buchenaviae VARIETY
-=======
+# Meliola buchenaviae Bat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anais IV Congr. Soc. bot. Brasil 4: 102 (1953)
 
 #### Original name
-Meliola buchenaviae var. buchenaviae
+Meliola buchenaviae Bat.
 
 ### Remarks
 null

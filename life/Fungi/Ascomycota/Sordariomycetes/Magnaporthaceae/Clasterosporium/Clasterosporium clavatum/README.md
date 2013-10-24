@@ -1,5 +1,4 @@
-Clasterosporium clavatum (Lév.) Sacc. SPECIES
-=======
+# Clasterosporium clavatum (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

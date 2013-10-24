@@ -1,5 +1,4 @@
-Myxacium nitidum (Fr.) P. Kumm. SPECIES
-=======
+# Myxacium nitidum (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeochaetia variabilis (Toro) Bat. & Cif. SPECIES
-=======
+# Phaeochaetia variabilis (Toro) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

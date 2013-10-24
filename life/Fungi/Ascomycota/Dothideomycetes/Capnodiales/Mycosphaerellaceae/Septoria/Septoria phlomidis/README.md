@@ -1,5 +1,4 @@
-Septoria phlomidis Moesz SPECIES
-=======
+# Septoria phlomidis Moesz SPECIES
 
 #### Status
 ACCEPTED

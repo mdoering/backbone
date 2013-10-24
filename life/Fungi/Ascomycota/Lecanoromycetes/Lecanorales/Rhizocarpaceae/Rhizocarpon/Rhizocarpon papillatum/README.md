@@ -1,5 +1,4 @@
-Rhizocarpon papillatum Vezda & Poelt SPECIES
-=======
+# Rhizocarpon papillatum Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermium ginzbergeri Petr. SPECIES
-=======
+# Lophodermium ginzbergeri Petr. SPECIES
 
 #### Status
 ACCEPTED

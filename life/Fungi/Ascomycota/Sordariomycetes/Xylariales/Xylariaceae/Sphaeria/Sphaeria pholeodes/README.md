@@ -1,5 +1,4 @@
-Sphaeria pholeodes Mont. SPECIES
-=======
+# Sphaeria pholeodes Mont. SPECIES
 
 #### Status
 ACCEPTED

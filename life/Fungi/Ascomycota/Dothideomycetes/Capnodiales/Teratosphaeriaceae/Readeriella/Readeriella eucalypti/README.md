@@ -1,5 +1,4 @@
-Readeriella eucalypti (Gonz. Frag.) Crous SPECIES
-=======
+# Readeriella eucalypti (Gonz. Frag.) Crous SPECIES
 
 #### Status
 ACCEPTED

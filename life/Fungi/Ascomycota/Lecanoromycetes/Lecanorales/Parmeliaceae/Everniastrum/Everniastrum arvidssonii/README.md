@@ -1,5 +1,4 @@
-Everniastrum arvidssonii Sipman SPECIES
-=======
+# Everniastrum arvidssonii Sipman SPECIES
 
 #### Status
 ACCEPTED

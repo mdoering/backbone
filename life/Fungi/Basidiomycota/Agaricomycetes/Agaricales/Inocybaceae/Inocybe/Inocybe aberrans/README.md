@@ -1,5 +1,4 @@
-Inocybe aberrans (E. Horak) Garrido SPECIES
-=======
+# Inocybe aberrans (E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusisporium bacilligera Berk. & Broome SPECIES
-=======
+# Fusisporium bacilligera Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

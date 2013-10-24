@@ -1,5 +1,4 @@
-Haloguignardia Cribb & J.W. Cribb GENUS
-=======
+# Haloguignardia Cribb & J.W. Cribb GENUS
 
 #### Status
 ACCEPTED

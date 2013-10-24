@@ -1,5 +1,4 @@
-Lepocynclis GENUS
-=======
+# Lepocynclis GENUS
 
 #### Status
 ACCEPTED

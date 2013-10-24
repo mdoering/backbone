@@ -1,5 +1,4 @@
-Tulostoma fulvellum Bres. SPECIES
-=======
+# Tulostoma fulvellum Bres. SPECIES
 
 #### Status
 ACCEPTED

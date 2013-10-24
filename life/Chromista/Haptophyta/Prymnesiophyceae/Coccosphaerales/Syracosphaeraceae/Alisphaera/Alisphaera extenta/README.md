@@ -1,5 +1,4 @@
-Alisphaera extenta Kleijne, R.W.Jordan, Heimdal, Samtleben, A.H.L.Chamberlain & Cros, 2002 SPECIES
-=======
+# Alisphaera extenta Kleijne, R.W.Jordan, Heimdal, Samtleben, A.H.L.Chamberlain & Cros, 2002 SPECIES
 
 #### Status
 ACCEPTED

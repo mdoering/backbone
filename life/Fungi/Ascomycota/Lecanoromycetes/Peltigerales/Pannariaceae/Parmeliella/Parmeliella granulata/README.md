@@ -1,5 +1,4 @@
-Parmeliella granulata I. M. Lamb SPECIES
-=======
+# Parmeliella granulata I. M. Lamb SPECIES
 
 #### Status
 ACCEPTED

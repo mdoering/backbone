@@ -1,8 +1,7 @@
-Polystomella labens (Sacc. & P. Syd.) Höhn., 1909 SPECIES
-=======
+# Campoa granulosa (Klotzsch) Arx, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Orthogonoides hamiltoniae SPECIES
-=======
+# Orthogonoides hamiltoniae SPECIES
 
 #### Status
 ACCEPTED

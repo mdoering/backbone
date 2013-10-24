@@ -1,5 +1,4 @@
-Poritectolithus poritectus (Heimdal in Heimdal & Gaarder) Kleijne, 1991 SPECIES
-=======
+# Poritectolithus poritectus (Heimdal in Heimdal & Gaarder) Kleijne, 1991 SPECIES
 
 #### Status
 ACCEPTED

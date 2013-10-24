@@ -1,5 +1,4 @@
-Meliola connari var. connari VARIETY
-=======
+# Meliola connari H.S. Yates SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Philipp. J. Sci. , C, Bot. 12: 364 (1917)
 
 #### Original name
-Meliola connari var. connari
+Meliola connari H.S. Yates
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycena extenuata Maas Geest. & de Meijer SPECIES
-=======
+# Mycena extenuata Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

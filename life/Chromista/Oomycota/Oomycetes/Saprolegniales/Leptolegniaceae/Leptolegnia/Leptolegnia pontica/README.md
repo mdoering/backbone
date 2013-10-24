@@ -1,5 +1,4 @@
-Leptolegnia pontica N.J. Artemczuk SPECIES
-=======
+# Leptolegnia pontica N.J. Artemczuk SPECIES
 
 #### Status
 ACCEPTED

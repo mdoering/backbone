@@ -1,5 +1,4 @@
-Anthracoidea royleanae L. Guo SPECIES
-=======
+# Anthracoidea royleanae L. Guo SPECIES
 
 #### Status
 ACCEPTED

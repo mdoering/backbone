@@ -1,5 +1,4 @@
-Xerocomus carnosus (Rostk.) Singer SPECIES
-=======
+# Xerocomus carnosus (Rostk.) Singer SPECIES
 
 #### Status
 ACCEPTED

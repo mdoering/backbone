@@ -1,5 +1,4 @@
-Hypocrea castanea Henn. SPECIES
-=======
+# Hypocrea castanea Henn. SPECIES
 
 #### Status
 ACCEPTED

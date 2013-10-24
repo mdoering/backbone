@@ -1,5 +1,4 @@
-Poria separabilis P. Karst. SPECIES
-=======
+# Poria separabilis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

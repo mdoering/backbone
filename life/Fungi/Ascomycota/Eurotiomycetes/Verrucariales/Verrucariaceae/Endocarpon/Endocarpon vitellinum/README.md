@@ -1,5 +1,4 @@
-Endocarpon vitellinum Spreng. SPECIES
-=======
+# Endocarpon vitellinum Spreng. SPECIES
 
 #### Status
 ACCEPTED

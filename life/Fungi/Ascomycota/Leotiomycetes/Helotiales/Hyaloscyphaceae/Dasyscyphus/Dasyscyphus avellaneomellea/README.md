@@ -1,14 +1,13 @@
-Dasyscypha avellaneomellea (Starbäck) Dennis SPECIES
-=======
+# Dasyscyphus avellaneomellea (Starbäck) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. 9(2): 300 (1954)
 
 #### Original name
 Erinella avellaneomellea Starbäck

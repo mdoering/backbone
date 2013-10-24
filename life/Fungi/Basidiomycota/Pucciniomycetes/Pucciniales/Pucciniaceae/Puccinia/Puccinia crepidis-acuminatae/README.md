@@ -1,5 +1,4 @@
-Puccinia crepidis-acuminatae P. Syd. & Syd. SPECIES
-=======
+# Puccinia crepidis-acuminatae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

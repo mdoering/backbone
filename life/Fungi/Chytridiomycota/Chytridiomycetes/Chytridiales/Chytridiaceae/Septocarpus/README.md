@@ -1,5 +1,4 @@
-Septocarpus GENUS
-=======
+# Septocarpus GENUS
 
 #### Status
 ACCEPTED

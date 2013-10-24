@@ -1,5 +1,4 @@
-Bapalmuia pallescens Lücking SPECIES
-=======
+# Bapalmuia pallescens Lücking SPECIES
 
 #### Status
 ACCEPTED

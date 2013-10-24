@@ -1,5 +1,4 @@
-Phyllachora megalospora Speg., 1898 SPECIES
-=======
+# Phyllachora megalospora Speg., 1898 SPECIES
 
 #### Status
 ACCEPTED

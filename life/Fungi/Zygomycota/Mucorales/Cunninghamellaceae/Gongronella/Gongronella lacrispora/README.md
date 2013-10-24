@@ -1,14 +1,13 @@
-Circinella lacrispora (Hesselt. & J.J. Ellis) Milko, 1965 SPECIES
-=======
+# Gongronella lacrispora Hesselt. & J.J. Ellis, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. , 1965 115 (1965)
+Mycologia 53(4): 411 (1962)
 
 #### Original name
 Gongronella lacrispora Hesselt. & J.J. Ellis, 1962

@@ -1,5 +1,4 @@
-Lecidea flavigrana Samp. SPECIES
-=======
+# Lecidea flavigrana Samp. SPECIES
 
 #### Status
 ACCEPTED

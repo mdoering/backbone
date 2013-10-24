@@ -1,5 +1,4 @@
-Arthromyces T.J. Baroni & Lodge GENUS
-=======
+# Arthromyces T.J. Baroni & Lodge GENUS
 
 #### Status
 ACCEPTED

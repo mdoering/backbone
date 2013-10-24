@@ -1,5 +1,4 @@
-Trypanosoma heptatreti Laird, 1948 SPECIES
-=======
+# Trypanosoma heptatreti Laird, 1948 SPECIES
 
 #### Status
 ACCEPTED

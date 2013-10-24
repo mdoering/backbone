@@ -1,5 +1,4 @@
-Baltisphaeridium claviferum (Wilkinson, 1849) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium claviferum (Wilkinson, 1849) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

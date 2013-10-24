@@ -1,5 +1,4 @@
-Verrucaria pertusatii Garov. SPECIES
-=======
+# Verrucaria pertusatii Garov. SPECIES
 
 #### Status
 ACCEPTED

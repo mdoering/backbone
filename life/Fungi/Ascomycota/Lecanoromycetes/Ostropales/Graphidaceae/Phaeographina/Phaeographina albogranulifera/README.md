@@ -1,5 +1,4 @@
-Phaeographina albogranulifera M. Nakan., Kashiw. & K.H. Moon SPECIES
-=======
+# Phaeographina albogranulifera M. Nakan., Kashiw. & K.H. Moon SPECIES
 
 #### Status
 ACCEPTED

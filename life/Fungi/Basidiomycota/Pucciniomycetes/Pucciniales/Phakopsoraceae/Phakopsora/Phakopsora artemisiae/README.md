@@ -1,5 +1,4 @@
-Phakopsora artemisiae Hirats. SPECIES
-=======
+# Phakopsora artemisiae Hirats. SPECIES
 
 #### Status
 ACCEPTED

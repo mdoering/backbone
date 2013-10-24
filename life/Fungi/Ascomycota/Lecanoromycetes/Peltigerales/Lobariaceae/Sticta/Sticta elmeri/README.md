@@ -1,5 +1,4 @@
-Sticta elmeri Zahlbr. SPECIES
-=======
+# Sticta elmeri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

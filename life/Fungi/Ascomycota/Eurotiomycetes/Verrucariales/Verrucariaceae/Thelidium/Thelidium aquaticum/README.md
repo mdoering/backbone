@@ -1,5 +1,4 @@
-Thelidium aquaticum Servít SPECIES
-=======
+# Thelidium aquaticum Servít SPECIES
 
 #### Status
 ACCEPTED

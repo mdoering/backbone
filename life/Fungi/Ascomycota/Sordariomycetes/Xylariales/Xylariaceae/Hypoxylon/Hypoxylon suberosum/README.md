@@ -1,5 +1,4 @@
-Hypoxylon suberosum Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon suberosum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sigmoilina formosana Nakamura SPECIES
-=======
+# Sigmoilina formosana Nakamura SPECIES
 
 #### Status
 ACCEPTED

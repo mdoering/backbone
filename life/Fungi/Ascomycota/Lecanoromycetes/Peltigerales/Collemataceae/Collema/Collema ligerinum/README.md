@@ -1,5 +1,4 @@
-Collema ligerinum (Hy) Harm. SPECIES
-=======
+# Collema ligerinum (Hy) Harm. SPECIES
 
 #### Status
 ACCEPTED

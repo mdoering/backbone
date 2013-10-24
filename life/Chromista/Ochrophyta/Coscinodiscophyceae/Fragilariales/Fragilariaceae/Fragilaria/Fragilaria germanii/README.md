@@ -1,5 +1,4 @@
-Fragilaria germanii var. acostata Lange-Bertalot & Rumrich VARIETY
-=======
+# Fragilaria germanii SPECIES
 
 #### Status
 ACCEPTED

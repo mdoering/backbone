@@ -1,5 +1,4 @@
-Borrera exempta SPECIES
-=======
+# Borrera exempta SPECIES
 
 #### Status
 ACCEPTED

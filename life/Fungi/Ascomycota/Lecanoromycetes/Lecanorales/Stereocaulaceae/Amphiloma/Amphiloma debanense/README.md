@@ -1,5 +1,4 @@
-Amphiloma debanense Bagl. SPECIES
-=======
+# Amphiloma debanense Bagl. SPECIES
 
 #### Status
 ACCEPTED

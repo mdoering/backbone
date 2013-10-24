@@ -1,5 +1,4 @@
-Leptosphaeria lagenoides Speg. SPECIES
-=======
+# Leptosphaeria lagenoides Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum eryngii (Corda) S. Ahmad SPECIES
-=======
+# Colletotrichum eryngii (Corda) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

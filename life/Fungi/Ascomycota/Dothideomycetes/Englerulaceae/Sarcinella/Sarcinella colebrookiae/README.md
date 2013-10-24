@@ -1,5 +1,4 @@
-Sarcinella colebrookiae Kamal & R.P. Singh SPECIES
-=======
+# Sarcinella colebrookiae Kamal & R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acetanaerobacterium Chen & Dong, 2004 GENUS
-=======
+# Acetanaerobacterium Chen & Dong, 2004 GENUS
 
 #### Status
 ACCEPTED

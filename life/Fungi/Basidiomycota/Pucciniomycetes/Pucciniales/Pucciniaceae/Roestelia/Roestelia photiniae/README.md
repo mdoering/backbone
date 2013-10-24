@@ -1,5 +1,4 @@
-Roestelia photiniae Henn. SPECIES
-=======
+# Roestelia photiniae Henn. SPECIES
 
 #### Status
 ACCEPTED

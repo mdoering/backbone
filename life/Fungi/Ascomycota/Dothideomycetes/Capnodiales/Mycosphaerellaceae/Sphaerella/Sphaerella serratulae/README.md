@@ -1,5 +1,4 @@
-Sphaerella serratulae Hollós SPECIES
-=======
+# Sphaerella serratulae Hollós SPECIES
 
 #### Status
 ACCEPTED

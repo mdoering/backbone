@@ -1,17 +1,16 @@
-Graphis afzelii f. afzelii FORM
-=======
+# Dyplolabia afzelii (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 2: 291 (1814)
+Neagenia Lichenum 6 (1854)
 
 #### Original name
-Graphis afzelii f. afzelii
+Graphis afzelii Ach.
 
 ### Remarks
 null

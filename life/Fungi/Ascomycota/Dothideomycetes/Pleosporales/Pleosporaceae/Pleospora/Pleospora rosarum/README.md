@@ -1,5 +1,4 @@
-Pleospora rosarum Gonz. Frag. SPECIES
-=======
+# Pleospora rosarum Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

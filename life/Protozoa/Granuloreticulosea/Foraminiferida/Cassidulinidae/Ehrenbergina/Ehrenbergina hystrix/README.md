@@ -1,5 +1,4 @@
-Ehrenbergina hystrix Brady, 1881 SPECIES
-=======
+# Ehrenbergina hystrix Brady, 1881 SPECIES
 
 #### Status
 ACCEPTED

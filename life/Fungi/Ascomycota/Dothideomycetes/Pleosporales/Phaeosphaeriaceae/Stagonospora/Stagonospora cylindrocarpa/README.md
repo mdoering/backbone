@@ -1,5 +1,4 @@
-Stagonospora cylindrocarpa (Ellis & Everh.) Sacc. SPECIES
-=======
+# Stagonospora cylindrocarpa (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

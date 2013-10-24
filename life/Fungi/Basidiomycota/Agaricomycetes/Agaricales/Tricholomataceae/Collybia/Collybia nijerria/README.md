@@ -1,5 +1,4 @@
-Collybia nijerria Grgur. SPECIES
-=======
+# Collybia nijerria Grgur. SPECIES
 
 #### Status
 ACCEPTED

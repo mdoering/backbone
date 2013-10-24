@@ -1,5 +1,4 @@
-Nectria echinulata Saccas SPECIES
-=======
+# Nectria echinulata Saccas SPECIES
 
 #### Status
 ACCEPTED

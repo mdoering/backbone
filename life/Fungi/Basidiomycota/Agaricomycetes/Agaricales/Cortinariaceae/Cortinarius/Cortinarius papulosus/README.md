@@ -1,5 +1,4 @@
-Cortinarius papulosus var. papulosus VARIETY
-=======
+# Cortinarius papulosus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 271 (1838)
 
 #### Original name
-Cortinarius papulosus var. papulosus
+Cortinarius papulosus Fr.
 
 ### Remarks
 null

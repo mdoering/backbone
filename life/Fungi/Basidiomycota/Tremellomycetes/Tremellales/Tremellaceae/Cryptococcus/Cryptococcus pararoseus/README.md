@@ -1,5 +1,4 @@
-Cryptococcus pararoseus Castell. SPECIES
-=======
+# Cryptococcus pararoseus Castell. SPECIES
 
 #### Status
 ACCEPTED

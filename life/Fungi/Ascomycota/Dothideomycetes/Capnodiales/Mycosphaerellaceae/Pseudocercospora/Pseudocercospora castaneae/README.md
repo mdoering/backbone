@@ -1,5 +1,4 @@
-Pseudocercospora castaneae U. Braun & Crous SPECIES
-=======
+# Pseudocercospora castaneae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neosartorya coreana S.B. Hong, Frisvad & Samson SPECIES
-=======
+# Neosartorya coreana S.B. Hong, Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

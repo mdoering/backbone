@@ -1,5 +1,4 @@
-Rhabdospora greschikii Bres. SPECIES
-=======
+# Rhabdospora greschikii Bres. SPECIES
 
 #### Status
 ACCEPTED

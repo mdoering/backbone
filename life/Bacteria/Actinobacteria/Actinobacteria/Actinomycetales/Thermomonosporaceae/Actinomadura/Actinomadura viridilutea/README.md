@@ -1,8 +1,7 @@
-Excellospora viridilutea Agre and Guzeva, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Actinomadura viridilutea (Agre & Guzeva, 1975) Zhang et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

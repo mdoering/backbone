@@ -1,5 +1,4 @@
-Astrothelium prostratum Stirt. SPECIES
-=======
+# Astrothelium prostratum Stirt. SPECIES
 
 #### Status
 ACCEPTED

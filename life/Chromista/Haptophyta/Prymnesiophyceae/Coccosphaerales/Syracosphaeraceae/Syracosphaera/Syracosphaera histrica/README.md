@@ -1,5 +1,4 @@
-Syracosphaera histrica Kamptner, 1941 SPECIES
-=======
+# Syracosphaera histrica Kamptner, 1941 SPECIES
 
 #### Status
 ACCEPTED

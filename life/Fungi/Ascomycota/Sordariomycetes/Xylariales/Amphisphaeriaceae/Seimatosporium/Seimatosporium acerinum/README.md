@@ -1,5 +1,4 @@
-Seimatosporium acerinum (Bäumler) B. Sutton SPECIES
-=======
+# Seimatosporium acerinum (Bäumler) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phycobotrys Kützing GENUS
-=======
+# Phycobotrys Kützing GENUS
 
 #### Status
 ACCEPTED

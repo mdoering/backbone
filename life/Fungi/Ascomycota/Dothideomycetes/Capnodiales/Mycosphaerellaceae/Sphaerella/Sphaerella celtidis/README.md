@@ -1,5 +1,4 @@
-Sphaerella celtidis Pass. SPECIES
-=======
+# Sphaerella celtidis Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tympanis antarctica Speg. SPECIES
-=======
+# Tympanis antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

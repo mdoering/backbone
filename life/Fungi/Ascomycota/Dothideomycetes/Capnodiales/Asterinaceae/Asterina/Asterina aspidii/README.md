@@ -1,5 +1,4 @@
-Asterina aspidii (Henn.) Theiss. SPECIES
-=======
+# Asterina aspidii (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

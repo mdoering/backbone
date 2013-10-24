@@ -1,5 +1,4 @@
-Sterigmatomyces penicillatus Rodr. Mir. SPECIES
-=======
+# Sterigmatomyces penicillatus Rodr. Mir. SPECIES
 
 #### Status
 ACCEPTED

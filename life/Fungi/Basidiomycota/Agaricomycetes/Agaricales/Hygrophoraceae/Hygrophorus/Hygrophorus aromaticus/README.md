@@ -1,5 +1,4 @@
-Hygrophorus aromaticus (Sowerby) Berk. SPECIES
-=======
+# Hygrophorus aromaticus (Sowerby) Berk. SPECIES
 
 #### Status
 ACCEPTED

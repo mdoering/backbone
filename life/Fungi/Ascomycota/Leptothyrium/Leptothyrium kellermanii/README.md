@@ -1,5 +1,4 @@
-Leptothyrium kellermanii Bubák SPECIES
-=======
+# Leptothyrium kellermanii Bubák SPECIES
 
 #### Status
 ACCEPTED

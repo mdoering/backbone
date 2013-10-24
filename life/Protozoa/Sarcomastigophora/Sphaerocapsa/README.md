@@ -1,5 +1,4 @@
-Sphaerocapsa Haeckel, 1881 GENUS
-=======
+# Sphaerocapsa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Bovista griseo Schwarzman & Philimonova SPECIES
-=======
+# Bovista grisea Schwarzman & Philimonova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bovista griseo Schwarzman & Philimonova
+Bovista grisea Schwarzman & Philimonova
 
 ### Remarks
 null

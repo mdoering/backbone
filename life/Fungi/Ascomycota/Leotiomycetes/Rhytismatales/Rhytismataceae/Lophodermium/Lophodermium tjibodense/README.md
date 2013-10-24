@@ -1,5 +1,4 @@
-Lophodermium tjibodense Henn. & E. Nyman SPECIES
-=======
+# Lophodermium tjibodense Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

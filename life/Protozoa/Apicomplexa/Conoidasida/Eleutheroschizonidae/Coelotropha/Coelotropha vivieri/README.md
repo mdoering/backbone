@@ -1,5 +1,4 @@
-Coelotropha vivieri Henneré, 1963 SPECIES
-=======
+# Coelotropha vivieri Henneré, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Ectocarpus valiantei Bornet ex Sauvageau SPECIES
-=======
+# Herponema valiantei (Bornet ex Sauvageau) G. Hamel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

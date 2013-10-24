@@ -1,5 +1,4 @@
-Ceriomyces crassus Murrill SPECIES
-=======
+# Ceriomyces crassus Murrill SPECIES
 
 #### Status
 ACCEPTED

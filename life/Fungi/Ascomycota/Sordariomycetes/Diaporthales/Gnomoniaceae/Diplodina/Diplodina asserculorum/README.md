@@ -1,5 +1,4 @@
-Diplodina asserculorum Tassi SPECIES
-=======
+# Diplodina asserculorum Tassi SPECIES
 
 #### Status
 ACCEPTED

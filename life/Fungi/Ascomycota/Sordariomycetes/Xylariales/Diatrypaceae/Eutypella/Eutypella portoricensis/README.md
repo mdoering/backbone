@@ -1,14 +1,13 @@
-Eutypella portoriciensis (Petr.) Rappaz SPECIES
-=======
+# Eutypella portoricensis (Petr.) Rappaz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. helv. 2(3): 543 (1987)
 
 #### Original name
 Peroneutypa portoricensis Petr.

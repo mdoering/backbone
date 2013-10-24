@@ -1,5 +1,4 @@
-Torula darwinii Speg. SPECIES
-=======
+# Torula darwinii Speg. SPECIES
 
 #### Status
 ACCEPTED

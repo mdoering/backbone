@@ -1,5 +1,4 @@
-Tenorea GENUS
-=======
+# Tenorea GENUS
 
 #### Status
 ACCEPTED

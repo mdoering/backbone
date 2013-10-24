@@ -1,5 +1,4 @@
-Dasyscyphella purpurea Raitv. SPECIES
-=======
+# Dasyscyphella purpurea Raitv. SPECIES
 
 #### Status
 ACCEPTED

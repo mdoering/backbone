@@ -1,5 +1,4 @@
-Telamonia badiovestita (M.M. Moser) Hlavácek SPECIES
-=======
+# Telamonia badiovestita (M.M. Moser) Hlavácek SPECIES
 
 #### Status
 ACCEPTED

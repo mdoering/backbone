@@ -1,5 +1,4 @@
-Pyrgillus americanus Nyl. SPECIES
-=======
+# Pyrgillus americanus Nyl. SPECIES
 
 #### Status
 ACCEPTED

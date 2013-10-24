@@ -1,5 +1,4 @@
-Puccinia huberi Henn. SPECIES
-=======
+# Puccinia huberi Henn. SPECIES
 
 #### Status
 ACCEPTED

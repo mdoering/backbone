@@ -1,5 +1,4 @@
-Byssosphaeria calyculus (Mont.) Cooke SPECIES
-=======
+# Byssosphaeria calyculus (Mont.) Cooke SPECIES
 
 #### Status
 ACCEPTED

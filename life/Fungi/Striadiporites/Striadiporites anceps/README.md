@@ -1,5 +1,4 @@
-Striadiporites anceps G. Norris SPECIES
-=======
+# Striadiporites anceps G. Norris SPECIES
 
 #### Status
 ACCEPTED

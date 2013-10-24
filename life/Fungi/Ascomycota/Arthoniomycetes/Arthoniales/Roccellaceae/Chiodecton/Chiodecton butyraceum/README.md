@@ -1,5 +1,4 @@
-Chiodecton butyraceum Zahlbr. SPECIES
-=======
+# Chiodecton butyraceum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

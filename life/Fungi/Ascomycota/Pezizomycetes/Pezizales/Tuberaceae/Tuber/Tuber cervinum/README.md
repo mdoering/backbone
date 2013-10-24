@@ -1,5 +1,4 @@
-Tuber cervinum Nees SPECIES
-=======
+# Tuber cervinum Nees SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helladosphaera halldalii Gaarder SPECIES
-=======
+# Helladosphaera halldalii Gaarder SPECIES
 
 #### Status
 ACCEPTED

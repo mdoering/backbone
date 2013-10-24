@@ -1,5 +1,4 @@
-Pertusaria propingua SPECIES
-=======
+# Pertusaria propingua SPECIES
 
 #### Status
 ACCEPTED

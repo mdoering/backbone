@@ -1,8 +1,7 @@
-Plagiacantha arachnoids SPECIES
-=======
+# Plagiacantha arachnoides Claparède, 1856 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

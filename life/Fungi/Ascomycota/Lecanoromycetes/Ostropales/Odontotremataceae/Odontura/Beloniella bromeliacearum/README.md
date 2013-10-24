@@ -1,5 +1,4 @@
-Beloniella bromeliacearum Rick SPECIES
-=======
+# Beloniella bromeliacearum Rick SPECIES
 
 #### Status
 ACCEPTED

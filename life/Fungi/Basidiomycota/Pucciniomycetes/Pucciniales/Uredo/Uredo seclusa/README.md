@@ -1,5 +1,4 @@
-Uredo seclusa H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo seclusa H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

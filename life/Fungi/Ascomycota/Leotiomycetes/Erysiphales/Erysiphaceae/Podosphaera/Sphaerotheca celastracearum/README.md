@@ -1,5 +1,4 @@
-Sphaerotheca celastracearum U. Braun SPECIES
-=======
+# Sphaerotheca celastracearum U. Braun SPECIES
 
 #### Status
 ACCEPTED

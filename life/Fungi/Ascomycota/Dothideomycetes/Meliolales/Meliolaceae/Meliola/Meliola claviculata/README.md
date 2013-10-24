@@ -1,5 +1,4 @@
-Meliola claviculata Doidge SPECIES
-=======
+# Meliola claviculata Doidge SPECIES
 
 #### Status
 ACCEPTED

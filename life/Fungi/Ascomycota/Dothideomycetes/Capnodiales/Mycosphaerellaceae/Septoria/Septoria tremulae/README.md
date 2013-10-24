@@ -1,5 +1,4 @@
-Septoria tremulae Pass. SPECIES
-=======
+# Septoria tremulae Pass. SPECIES
 
 #### Status
 ACCEPTED

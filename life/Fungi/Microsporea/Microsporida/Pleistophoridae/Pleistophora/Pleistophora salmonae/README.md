@@ -1,5 +1,4 @@
-Pleistophora salmonae Putz, Hoffman & Dunbar SPECIES
-=======
+# Pleistophora salmonae Putz, Hoffman & Dunbar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia viteluna Velen. SPECIES
-=======
+# Omphalia viteluna Velen. SPECIES
 
 #### Status
 ACCEPTED

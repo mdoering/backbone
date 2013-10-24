@@ -1,5 +1,4 @@
-Tetracoccosporium cupulatum P.Rag. Rao & D. Rao SPECIES
-=======
+# Tetracoccosporium cupulatum P.Rag. Rao & D. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia colquhouniae S.X. Wei SPECIES
-=======
+# Puccinia colquhouniae S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

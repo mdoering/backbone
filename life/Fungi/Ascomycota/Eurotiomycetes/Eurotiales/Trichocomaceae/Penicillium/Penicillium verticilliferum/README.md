@@ -1,5 +1,4 @@
-Penicillium verticilliferum Speg. SPECIES
-=======
+# Penicillium verticilliferum Speg. SPECIES
 
 #### Status
 ACCEPTED

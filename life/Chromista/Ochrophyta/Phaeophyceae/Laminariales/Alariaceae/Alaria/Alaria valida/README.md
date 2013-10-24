@@ -1,5 +1,4 @@
-Alaria valida Kjellman & Setchell SPECIES
-=======
+# Alaria valida Kjellman & Setchell SPECIES
 
 #### Status
 ACCEPTED

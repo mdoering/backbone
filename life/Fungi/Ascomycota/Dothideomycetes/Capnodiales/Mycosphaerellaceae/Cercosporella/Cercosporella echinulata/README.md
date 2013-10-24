@@ -1,5 +1,4 @@
-Cercosporella echinulata Garb. SPECIES
-=======
+# Cercosporella echinulata Garb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizosphaera pseudotsugae Butin & Kehr SPECIES
-=======
+# Rhizosphaera pseudotsugae Butin & Kehr SPECIES
 
 #### Status
 ACCEPTED

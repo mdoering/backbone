@@ -1,5 +1,4 @@
-Verrucaria antarctica C.W. Dodge SPECIES
-=======
+# Verrucaria antarctica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

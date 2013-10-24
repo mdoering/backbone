@@ -1,5 +1,4 @@
-Selenophoma curva (P. Karst.) Petr. SPECIES
-=======
+# Selenophoma curva (P. Karst.) Petr. SPECIES
 
 #### Status
 ACCEPTED

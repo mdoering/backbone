@@ -1,5 +1,4 @@
-Pertusaria paradoxa Linds. SPECIES
-=======
+# Pertusaria paradoxa Linds. SPECIES
 
 #### Status
 ACCEPTED

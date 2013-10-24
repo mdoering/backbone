@@ -1,14 +1,13 @@
-Cyclomyces yünnanensis (Lohwag) Bondartsev & Singer SPECIES
-=======
+# Cyclomyces yuennanensis (Lohwag) Bondartsev & Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 39(1): 57 (1941)
 
 #### Original name
 Polystictus yuennanensis Lohwag

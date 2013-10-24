@@ -1,5 +1,4 @@
-Archaeodiscina minor Pykhova, 1966 SPECIES
-=======
+# Archaeodiscina minor Pykhova, 1966 SPECIES
 
 #### Status
 ACCEPTED

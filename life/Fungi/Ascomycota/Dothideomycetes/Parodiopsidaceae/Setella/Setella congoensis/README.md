@@ -1,17 +1,16 @@
-Setella congensis Hansf. SPECIES
-=======
+# Setella congoensis Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. London (1945)
 
 #### Original name
-Setella congensis Hansf.
+Setella congoensis Hansf.
 
 ### Remarks
 null

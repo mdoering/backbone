@@ -1,5 +1,4 @@
-Meliola radhanagariensis Hosag. SPECIES
-=======
+# Meliola radhanagariensis Hosag. SPECIES
 
 #### Status
 ACCEPTED

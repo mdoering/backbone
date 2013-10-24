@@ -1,5 +1,4 @@
-Cryptosporidium molnari Alvarez-Pellitero & Sitjà-Bobadilla, 2002 SPECIES
-=======
+# Cryptosporidium molnari Alvarez-Pellitero & Sitjà-Bobadilla, 2002 SPECIES
 
 #### Status
 ACCEPTED

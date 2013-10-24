@@ -1,5 +1,4 @@
-Chaetoceros flexuosum Mangin SPECIES
-=======
+# Chaetoceros flexuosum Mangin SPECIES
 
 #### Status
 ACCEPTED

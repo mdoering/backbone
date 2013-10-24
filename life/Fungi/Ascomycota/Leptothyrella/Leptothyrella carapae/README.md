@@ -1,5 +1,4 @@
-Leptothyrella carapae Bat. & C.A.A. Costa SPECIES
-=======
+# Leptothyrella carapae Bat. & C.A.A. Costa SPECIES
 
 #### Status
 ACCEPTED

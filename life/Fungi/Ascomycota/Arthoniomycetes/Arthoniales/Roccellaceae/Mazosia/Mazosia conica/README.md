@@ -1,5 +1,4 @@
-Mazosia conica Sérus. SPECIES
-=======
+# Mazosia conica Sérus. SPECIES
 
 #### Status
 ACCEPTED

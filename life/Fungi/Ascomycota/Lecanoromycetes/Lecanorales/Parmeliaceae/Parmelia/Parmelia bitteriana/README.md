@@ -1,5 +1,4 @@
-Parmelia bitteriana var. bitteriana VARIETY
-=======
+# Parmelia bitteriana SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia bitteriana var. bitteriana
+null
 
 ### Remarks
 null

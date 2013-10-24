@@ -1,5 +1,4 @@
-Hemiurosoma goertzi Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Hemiurosoma goertzi Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

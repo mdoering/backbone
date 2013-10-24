@@ -1,8 +1,7 @@
-Loxophyllum australis Foissner & O'Donoghue, 1990 SPECIES
-=======
+# Siroloxophyllum australe (Foissner & O'Donoghue, 1990) Foissner & Leipe, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

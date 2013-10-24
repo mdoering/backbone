@@ -1,5 +1,4 @@
-Spathidium pectinatum Kahl, 1926 SPECIES
-=======
+# Spathidium pectinatum Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria decolorans Rehm SPECIES
-=======
+# Didymosphaeria decolorans Rehm SPECIES
 
 #### Status
 ACCEPTED

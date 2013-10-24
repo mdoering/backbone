@@ -1,5 +1,4 @@
-Puccinia brachysora Dietel SPECIES
-=======
+# Puccinia brachysora Dietel SPECIES
 
 #### Status
 ACCEPTED

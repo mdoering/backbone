@@ -1,5 +1,4 @@
-Phaeodactylella lignicola Udaiyan, 1992 SPECIES
-=======
+# Phaeodactylella lignicola Udaiyan, 1992 SPECIES
 
 #### Status
 ACCEPTED

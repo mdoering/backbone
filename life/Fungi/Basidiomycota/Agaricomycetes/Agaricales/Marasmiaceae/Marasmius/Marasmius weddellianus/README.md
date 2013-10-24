@@ -1,5 +1,4 @@
-Marasmius weddellianus Mont. SPECIES
-=======
+# Marasmius weddellianus Mont. SPECIES
 
 #### Status
 ACCEPTED

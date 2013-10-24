@@ -1,17 +1,16 @@
-Acarospora luderitzensis H. Magn. SPECIES
-=======
+# Acarospora luederitzensis H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annals Cryptog. Exot. 6: 26 (1933)
 
 #### Original name
-Acarospora luderitzensis H. Magn.
+Acarospora luederitzensis H. Magn.
 
 ### Remarks
 null

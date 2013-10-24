@@ -1,5 +1,4 @@
-Coscinodiscus joergensenii Ostenfeld SPECIES
-=======
+# Coscinodiscus joergensenii Ostenfeld SPECIES
 
 #### Status
 ACCEPTED

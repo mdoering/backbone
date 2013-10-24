@@ -1,5 +1,4 @@
-Amphorella quarilineata (Claparède & Lachmann, 1858) SPECIES
-=======
+# Amphorella quarilineata (Claparède & Lachmann, 1858) SPECIES
 
 #### Status
 ACCEPTED

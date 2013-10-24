@@ -1,5 +1,4 @@
-Lecania flavescens Lynge SPECIES
-=======
+# Lecania flavescens Lynge SPECIES
 
 #### Status
 ACCEPTED

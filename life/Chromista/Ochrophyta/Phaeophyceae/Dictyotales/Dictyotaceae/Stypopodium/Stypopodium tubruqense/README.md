@@ -1,5 +1,4 @@
-Stypopodium tubruqense M. Nizamuddin & M. Godeh SPECIES
-=======
+# Stypopodium tubruqense M. Nizamuddin & M. Godeh SPECIES
 
 #### Status
 ACCEPTED

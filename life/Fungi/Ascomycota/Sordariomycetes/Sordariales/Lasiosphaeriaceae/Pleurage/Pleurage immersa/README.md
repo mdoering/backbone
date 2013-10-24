@@ -1,5 +1,4 @@
-Pleurage immersa R. Stratton SPECIES
-=======
+# Pleurage immersa R. Stratton SPECIES
 
 #### Status
 ACCEPTED

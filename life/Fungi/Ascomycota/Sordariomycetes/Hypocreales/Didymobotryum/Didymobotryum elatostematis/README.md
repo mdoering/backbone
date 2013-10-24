@@ -1,5 +1,4 @@
-Didymobotryum elatostematis Sawada SPECIES
-=======
+# Didymobotryum elatostematis Sawada SPECIES
 
 #### Status
 ACCEPTED

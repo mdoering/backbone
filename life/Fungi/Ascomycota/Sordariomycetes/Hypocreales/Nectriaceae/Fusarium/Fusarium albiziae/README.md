@@ -1,5 +1,4 @@
-Fusarium albiziae Woron. SPECIES
-=======
+# Fusarium albiziae Woron. SPECIES
 
 #### Status
 ACCEPTED

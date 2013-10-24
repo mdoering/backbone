@@ -1,5 +1,4 @@
-Verrucaria torryensis SPECIES
-=======
+# Verrucaria torryensis SPECIES
 
 #### Status
 ACCEPTED

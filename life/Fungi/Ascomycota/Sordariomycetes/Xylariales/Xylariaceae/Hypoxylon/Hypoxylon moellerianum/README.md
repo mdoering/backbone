@@ -1,14 +1,13 @@
-Nummularia moelleriana Henn., 1897 SPECIES
-=======
+# Hypoxylon moellerianum (Henn.) Y.M. Ju & J.D. Rogers, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 36: 228 (1897)
+Mycol. Mem. 20: 149 (1996)
 
 #### Original name
 Nummularia moelleriana Henn., 1897

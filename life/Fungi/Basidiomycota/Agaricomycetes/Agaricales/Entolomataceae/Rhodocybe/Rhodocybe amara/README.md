@@ -1,5 +1,4 @@
-Rhodocybe amara T.J. Baroni & G.M. Gates SPECIES
-=======
+# Rhodocybe amara T.J. Baroni & G.M. Gates SPECIES
 
 #### Status
 ACCEPTED

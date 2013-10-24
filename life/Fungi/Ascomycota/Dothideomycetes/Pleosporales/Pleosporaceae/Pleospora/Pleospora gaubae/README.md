@@ -1,5 +1,4 @@
-Pleospora gaubae Wehm. SPECIES
-=======
+# Pleospora gaubae Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea impolita Müll. Arg. SPECIES
-=======
+# Lecidea impolita Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

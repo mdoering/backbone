@@ -1,5 +1,4 @@
-Psathyrella rufogrisea var. rufogrisea VARIETY
-=======
+# Psathyrella rufogrisea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 24: 205 (1972)
 
 #### Original name
-Psathyrella rufogrisea var. rufogrisea
+Psathyrella rufogrisea A.H. Sm.
 
 ### Remarks
 null

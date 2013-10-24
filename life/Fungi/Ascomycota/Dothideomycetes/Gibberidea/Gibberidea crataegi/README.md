@@ -1,5 +1,4 @@
-Gibberidea crataegi (Niessl) Kuntze SPECIES
-=======
+# Gibberidea crataegi (Niessl) Kuntze SPECIES
 
 #### Status
 ACCEPTED

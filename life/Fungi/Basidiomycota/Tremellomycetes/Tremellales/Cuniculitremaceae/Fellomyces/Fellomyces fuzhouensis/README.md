@@ -1,5 +1,4 @@
-Fellomyces fuzhouensis (J.Z. Yue) Y. Yamada & I. Banno SPECIES
-=======
+# Fellomyces fuzhouensis (J.Z. Yue) Y. Yamada & I. Banno SPECIES
 
 #### Status
 ACCEPTED

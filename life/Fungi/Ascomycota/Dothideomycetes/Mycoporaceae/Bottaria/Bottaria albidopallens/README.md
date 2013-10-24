@@ -1,5 +1,4 @@
-Bottaria albidopallens SPECIES
-=======
+# Bottaria albidopallens SPECIES
 
 #### Status
 ACCEPTED

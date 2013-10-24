@@ -1,5 +1,4 @@
-Parthenope Velenovský, 1934 GENUS
-=======
+# Parthenope Velenovský, 1934 GENUS
 
 #### Status
 ACCEPTED

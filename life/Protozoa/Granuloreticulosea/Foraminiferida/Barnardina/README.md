@@ -1,5 +1,4 @@
-Barnardina Haynes, 1981 GENUS
-=======
+# Barnardina Haynes, 1981 GENUS
 
 #### Status
 ACCEPTED

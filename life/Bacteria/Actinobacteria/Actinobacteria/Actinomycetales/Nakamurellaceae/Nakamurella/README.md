@@ -1,11 +1,10 @@
-Microsphaera Yoshimi et al., 1996 GENUS
-=======
+# Nakamurella Tao et al., 2004 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

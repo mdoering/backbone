@@ -1,14 +1,13 @@
-Leptosphaeria fulcita Buckn. SPECIES
-=======
+# Neopeckia fulcita (Buckn.) Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 9: 750 (1891)
 
 #### Original name
 Leptosphaeria fulcita Buckn.

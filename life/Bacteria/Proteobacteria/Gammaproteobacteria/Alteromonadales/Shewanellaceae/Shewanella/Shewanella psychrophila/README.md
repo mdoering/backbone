@@ -1,5 +1,4 @@
-Shewanella psychrophila Xiao, Wang, Zeng, Bartlett & Wang, 2007 SPECIES
-=======
+# Shewanella psychrophila Xiao, Wang, Zeng, Bartlett & Wang, 2007 SPECIES
 
 #### Status
 ACCEPTED

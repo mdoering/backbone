@@ -1,5 +1,4 @@
-Uredo acuta (Faull) Hirats. f. SPECIES
-=======
+# Uredo acuta (Faull) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

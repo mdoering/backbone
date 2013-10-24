@@ -1,5 +1,4 @@
-Rhizoctonia menthae Berk. & Broome, 1861 SPECIES
-=======
+# Rhizoctonia menthae Berk. & Broome, 1861 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platisma laciniatum Hoffm. SPECIES
-=======
+# Platisma laciniatum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

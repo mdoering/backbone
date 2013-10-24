@@ -1,5 +1,4 @@
-Alteromonas fuliginea Romanenko et al., 1995 SPECIES
-=======
+# Alteromonas fuliginea Romanenko et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

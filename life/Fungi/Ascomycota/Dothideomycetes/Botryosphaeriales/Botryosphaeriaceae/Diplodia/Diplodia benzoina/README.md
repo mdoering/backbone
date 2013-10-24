@@ -1,5 +1,4 @@
-Diplodia benzoina Sacc. SPECIES
-=======
+# Diplodia benzoina Sacc. SPECIES
 
 #### Status
 ACCEPTED

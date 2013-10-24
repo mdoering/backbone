@@ -1,5 +1,4 @@
-Cortinarius rosargutus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius rosargutus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

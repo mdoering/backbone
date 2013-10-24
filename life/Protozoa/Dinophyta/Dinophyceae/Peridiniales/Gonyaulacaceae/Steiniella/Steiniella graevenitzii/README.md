@@ -1,5 +1,4 @@
-Steiniella graevenitzii Bernard SPECIES
-=======
+# Steiniella graevenitzii Bernard SPECIES
 
 #### Status
 ACCEPTED

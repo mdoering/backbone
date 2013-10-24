@@ -1,5 +1,4 @@
-Sphaerites Unger, 1850 GENUS
-=======
+# Sphaerites Unger, 1850 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Resupinatus merulioides Redhead & Nagas., 1987 SPECIES
-=======
+# Resupinatus merulioides Redhead & Nagas., 1987 SPECIES
 
 #### Status
 ACCEPTED

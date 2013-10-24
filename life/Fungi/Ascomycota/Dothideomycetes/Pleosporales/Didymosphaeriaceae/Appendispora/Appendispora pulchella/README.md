@@ -1,5 +1,4 @@
-Appendispora pulchella Speg. SPECIES
-=======
+# Appendispora pulchella Speg. SPECIES
 
 #### Status
 ACCEPTED

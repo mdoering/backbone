@@ -1,5 +1,4 @@
-Trichodina gulshae Asmat, Kibria & Naher, 2003 SPECIES
-=======
+# Trichodina gulshae Asmat, Kibria & Naher, 2003 SPECIES
 
 #### Status
 ACCEPTED

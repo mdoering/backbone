@@ -1,5 +1,4 @@
-Myriotrema thailandicum Homchant. & Coppins SPECIES
-=======
+# Myriotrema thailandicum Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

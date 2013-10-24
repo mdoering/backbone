@@ -1,5 +1,4 @@
-Rhopographina chamaemori (Rostr.) Theiss. & Syd. SPECIES
-=======
+# Rhopographina chamaemori (Rostr.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

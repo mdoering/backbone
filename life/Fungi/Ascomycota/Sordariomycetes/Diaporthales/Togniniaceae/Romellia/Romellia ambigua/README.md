@@ -1,5 +1,4 @@
-Romellia ambigua (Berl.) Lar.N. Vassiljeva SPECIES
-=======
+# Romellia ambigua (Berl.) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

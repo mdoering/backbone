@@ -1,17 +1,16 @@
-Daedalea macowani Kalchbr. SPECIES
-=======
+# Daedalea macowanii Kalchbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, n. s. 34: 362 (1876)
 
 #### Original name
-Daedalea macowani Kalchbr.
+Daedalea macowanii Kalchbr.
 
 ### Remarks
 null

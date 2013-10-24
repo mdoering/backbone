@@ -1,5 +1,4 @@
-Mycena kermesina Singer SPECIES
-=======
+# Mycena kermesina Singer SPECIES
 
 #### Status
 ACCEPTED

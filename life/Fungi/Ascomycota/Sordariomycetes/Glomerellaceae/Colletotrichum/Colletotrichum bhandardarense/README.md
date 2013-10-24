@@ -1,17 +1,16 @@
-Colletotrichum bhandardarensis Patw. SPECIES
-=======
+# Colletotrichum bhandardarense Patw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 29: 366 (1966)
 
 #### Original name
-Colletotrichum bhandardarensis Patw.
+Colletotrichum bhandardarense Patw.
 
 ### Remarks
 null

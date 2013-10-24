@@ -1,8 +1,7 @@
-Marginaria boryana A.Richard SPECIES
-=======
+# Marginariella boryana (A. Richard) Tandy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

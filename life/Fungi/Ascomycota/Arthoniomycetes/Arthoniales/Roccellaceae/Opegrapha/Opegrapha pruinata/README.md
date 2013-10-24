@@ -1,5 +1,4 @@
-Opegrapha pruinata Webber & D. Mohr SPECIES
-=======
+# Opegrapha pruinata Webber & D. Mohr SPECIES
 
 #### Status
 ACCEPTED

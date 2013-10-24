@@ -1,5 +1,4 @@
-Hohenbuehelia campinaranae Singer, 1989 SPECIES
-=======
+# Hohenbuehelia campinaranae Singer, 1989 SPECIES
 
 #### Status
 ACCEPTED

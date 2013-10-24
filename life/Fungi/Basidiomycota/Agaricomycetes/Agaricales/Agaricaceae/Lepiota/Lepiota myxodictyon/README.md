@@ -1,5 +1,4 @@
-Lepiota myxodictyon Berk. & Broome SPECIES
-=======
+# Lepiota myxodictyon Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

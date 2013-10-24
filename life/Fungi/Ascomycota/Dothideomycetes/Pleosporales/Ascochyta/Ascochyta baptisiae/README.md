@@ -1,5 +1,4 @@
-Ascochyta baptisiae Davis SPECIES
-=======
+# Ascochyta baptisiae Davis SPECIES
 
 #### Status
 ACCEPTED

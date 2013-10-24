@@ -1,5 +1,4 @@
-Aecidium succisae Kirchn. SPECIES
-=======
+# Aecidium succisae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hariotula loranthi (P. Karst. & Har.) G. Arnaud SPECIES
-=======
+# Hariotula loranthi (P. Karst. & Har.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

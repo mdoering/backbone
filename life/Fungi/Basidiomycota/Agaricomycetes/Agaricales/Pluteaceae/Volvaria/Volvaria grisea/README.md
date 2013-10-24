@@ -1,5 +1,4 @@
-Volvaria grisea Quél. SPECIES
-=======
+# Volvaria grisea Quél. SPECIES
 
 #### Status
 ACCEPTED

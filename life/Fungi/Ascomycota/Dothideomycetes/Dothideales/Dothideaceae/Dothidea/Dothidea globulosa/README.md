@@ -1,5 +1,4 @@
-Dothidea globulosa Cooke & Massee SPECIES
-=======
+# Dothidea globulosa Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

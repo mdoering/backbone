@@ -1,14 +1,13 @@
-Gymnopus conigenoides (Ellis) Murrill, 1916 SPECIES
-=======
+# Strobilurus conigenoides (Ellis) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 9(5): 356 (1916)
+Persoonia 2(3): 409 (1962)
 
 #### Original name
 Agaricus conigenoides Peck, 1878

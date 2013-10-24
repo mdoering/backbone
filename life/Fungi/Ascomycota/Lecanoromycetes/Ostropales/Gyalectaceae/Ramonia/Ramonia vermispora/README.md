@@ -1,5 +1,4 @@
-Ramonia vermispora Lendemer & K. Knudsen SPECIES
-=======
+# Ramonia vermispora Lendemer & K. Knudsen SPECIES
 
 #### Status
 ACCEPTED

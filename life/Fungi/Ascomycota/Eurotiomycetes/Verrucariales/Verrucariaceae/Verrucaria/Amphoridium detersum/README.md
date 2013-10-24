@@ -1,5 +1,4 @@
-Amphoridium detersum (Kremp.) Servít SPECIES
-=======
+# Amphoridium detersum (Kremp.) Servít SPECIES
 
 #### Status
 ACCEPTED

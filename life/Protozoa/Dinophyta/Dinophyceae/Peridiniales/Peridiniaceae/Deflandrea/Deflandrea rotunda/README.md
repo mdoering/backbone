@@ -1,5 +1,4 @@
-Deflandrea rotunda SPECIES
-=======
+# Deflandrea rotunda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium bartholomaei Peck SPECIES
-=======
+# Fusarium bartholomaei Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe locellina (Murrill) Watling SPECIES
-=======
+# Conocybe locellina (Murrill) Watling SPECIES
 
 #### Status
 ACCEPTED

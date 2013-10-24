@@ -1,5 +1,4 @@
-Endocarpon crassisporum P. M. McCarthy & Filson SPECIES
-=======
+# Endocarpon crassisporum P. M. McCarthy & Filson SPECIES
 
 #### Status
 ACCEPTED

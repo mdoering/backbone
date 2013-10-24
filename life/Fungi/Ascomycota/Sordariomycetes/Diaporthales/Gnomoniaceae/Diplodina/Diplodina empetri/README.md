@@ -1,5 +1,4 @@
-Diplodina empetri Sacc. SPECIES
-=======
+# Diplodina empetri Sacc. SPECIES
 
 #### Status
 ACCEPTED

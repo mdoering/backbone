@@ -1,5 +1,4 @@
-Epicoccum platani Fuckel SPECIES
-=======
+# Epicoccum platani Fuckel SPECIES
 
 #### Status
 ACCEPTED

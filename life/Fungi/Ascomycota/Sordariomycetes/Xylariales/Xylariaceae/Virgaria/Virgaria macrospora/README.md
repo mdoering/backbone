@@ -1,5 +1,4 @@
-Virgaria macrospora P. Karst. SPECIES
-=======
+# Virgaria macrospora P. Karst. SPECIES
 
 #### Status
 ACCEPTED

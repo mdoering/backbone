@@ -1,5 +1,4 @@
-Botrytis camptopoda (Corda) Sacc. SPECIES
-=======
+# Botrytis camptopoda (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

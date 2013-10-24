@@ -1,5 +1,4 @@
-Agaricus vinaceovirens Kerrigan SPECIES
-=======
+# Agaricus vinaceovirens Kerrigan SPECIES
 
 #### Status
 ACCEPTED

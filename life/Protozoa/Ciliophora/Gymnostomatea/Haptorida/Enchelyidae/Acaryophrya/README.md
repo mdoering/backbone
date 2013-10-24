@@ -1,5 +1,4 @@
-Acaryophrya Perty, 1852 GENUS
-=======
+# Acaryophrya Perty, 1852 GENUS
 
 #### Status
 ACCEPTED

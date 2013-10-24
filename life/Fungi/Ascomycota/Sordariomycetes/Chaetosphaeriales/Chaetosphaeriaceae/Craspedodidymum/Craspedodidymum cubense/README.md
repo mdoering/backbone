@@ -1,5 +1,4 @@
-Craspedodidymum cubense J. Mena & Mercado SPECIES
-=======
+# Craspedodidymum cubense J. Mena & Mercado SPECIES
 
 #### Status
 ACCEPTED

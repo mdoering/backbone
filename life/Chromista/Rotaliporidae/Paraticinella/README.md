@@ -1,5 +1,4 @@
-Paraticinella Silva, Caron, Leckie, Petrizzo, Soldan & Verga, 2009 GENUS
-=======
+# Paraticinella Silva, Caron, Leckie, Petrizzo, Soldan & Verga, 2009 GENUS
 
 #### Status
 ACCEPTED

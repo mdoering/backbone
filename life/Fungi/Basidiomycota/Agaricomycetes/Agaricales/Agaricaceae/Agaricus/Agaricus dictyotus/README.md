@@ -1,5 +1,4 @@
-Agaricus dictyotus Kalchbr. SPECIES
-=======
+# Agaricus dictyotus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

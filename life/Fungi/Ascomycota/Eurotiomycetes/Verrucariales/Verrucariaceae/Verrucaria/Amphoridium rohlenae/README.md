@@ -1,5 +1,4 @@
-Amphoridium rohlenae (Servít) Servít SPECIES
-=======
+# Amphoridium rohlenae (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

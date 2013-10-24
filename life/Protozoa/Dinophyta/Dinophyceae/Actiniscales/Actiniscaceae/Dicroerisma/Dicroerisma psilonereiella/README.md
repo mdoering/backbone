@@ -1,5 +1,4 @@
-Dicroerisma psilonereiella Taylor & Cattell SPECIES
-=======
+# Dicroerisma psilonereiella Taylor & Cattell SPECIES
 
 #### Status
 ACCEPTED

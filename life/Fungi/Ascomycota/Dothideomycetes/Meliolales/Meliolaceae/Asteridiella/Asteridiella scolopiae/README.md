@@ -1,5 +1,4 @@
-Asteridiella scolopiae Hosag. SPECIES
-=======
+# Asteridiella scolopiae Hosag. SPECIES
 
 #### Status
 ACCEPTED

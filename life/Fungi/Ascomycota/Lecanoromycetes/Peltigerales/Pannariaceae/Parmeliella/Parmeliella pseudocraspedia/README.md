@@ -1,5 +1,4 @@
-Parmeliella pseudocraspedia var. pseudocraspedia VARIETY
-=======
+# Parmeliella pseudocraspedia (Hazsl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmeliella pseudocraspedia var. pseudocraspedia
+null
 
 ### Remarks
 null

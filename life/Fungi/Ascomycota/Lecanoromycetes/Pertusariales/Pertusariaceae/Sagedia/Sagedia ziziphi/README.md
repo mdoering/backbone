@@ -1,8 +1,7 @@
-Sagedia zyziphi A. Massal. SPECIES
-=======
+# Sagedia ziziphi A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sagedia zyziphi A. Massal.
+Sagedia ziziphi A. Massal.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Caloplaca ussuriensis Oxner, S. Y. Kondr. & Elix SPECIES
-=======
+# Caloplaca ussuriensis Oxner, S. Y. Kondr. & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia cirsii Reusser SPECIES
-=======
+# Guignardia cirsii Reusser SPECIES
 
 #### Status
 ACCEPTED

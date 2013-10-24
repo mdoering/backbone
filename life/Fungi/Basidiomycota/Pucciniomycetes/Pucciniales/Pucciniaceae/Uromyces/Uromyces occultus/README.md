@@ -1,5 +1,4 @@
-Uromyces occultus J.C. Lindq. SPECIES
-=======
+# Uromyces occultus J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Planomonospora parontospora subsp. parontospora SUBSPECIES
-=======
+# Planomonospora parontospora Thiemann et al., 1967 SPECIES
 
 #### Status
 ACCEPTED

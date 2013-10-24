@@ -1,5 +1,4 @@
-Russula crataegorum Murrill SPECIES
-=======
+# Russula crataegorum Murrill SPECIES
 
 #### Status
 ACCEPTED

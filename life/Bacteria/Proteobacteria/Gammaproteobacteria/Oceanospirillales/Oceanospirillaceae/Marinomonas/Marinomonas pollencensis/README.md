@@ -1,5 +1,4 @@
-Marinomonas pollencensis Espinosa, Marco-Noales, Gomez, Lucas-Elio, Ordax, Garcias-Bonet, Duarte & Sanchez-Amat, 2010 SPECIES
-=======
+# Marinomonas pollencensis Espinosa, Marco-Noales, Gomez, Lucas-Elio, Ordax, Garcias-Bonet, Duarte & Sanchez-Amat, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena cnaphocystis Singer SPECIES
-=======
+# Mycena cnaphocystis Singer SPECIES
 
 #### Status
 ACCEPTED

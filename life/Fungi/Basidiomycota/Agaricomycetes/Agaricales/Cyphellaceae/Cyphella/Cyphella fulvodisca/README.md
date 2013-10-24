@@ -1,5 +1,4 @@
-Cyphella fulvodisca Cooke & Massee SPECIES
-=======
+# Cyphella fulvodisca Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

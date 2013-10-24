@@ -1,5 +1,4 @@
-Leucocoprinus brunnescens (Peck) Pegler SPECIES
-=======
+# Leucocoprinus brunnescens (Peck) Pegler SPECIES
 
 #### Status
 ACCEPTED

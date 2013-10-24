@@ -1,5 +1,4 @@
-Macrophoma guevinae Speg. SPECIES
-=======
+# Macrophoma guevinae Speg. SPECIES
 
 #### Status
 ACCEPTED

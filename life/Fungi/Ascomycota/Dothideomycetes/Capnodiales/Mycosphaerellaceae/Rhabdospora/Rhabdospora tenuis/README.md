@@ -1,5 +1,4 @@
-Rhabdospora tenuis Pass. SPECIES
-=======
+# Rhabdospora tenuis Pass. SPECIES
 
 #### Status
 ACCEPTED

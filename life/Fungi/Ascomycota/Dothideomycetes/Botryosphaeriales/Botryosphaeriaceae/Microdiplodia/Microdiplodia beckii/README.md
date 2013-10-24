@@ -1,5 +1,4 @@
-Microdiplodia beckii (Bäumler) Allesch. SPECIES
-=======
+# Microdiplodia beckii (Bäumler) Allesch. SPECIES
 
 #### Status
 ACCEPTED

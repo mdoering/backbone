@@ -1,8 +1,7 @@
-Pertusaria couderci Harm. SPECIES
-=======
+# Pertusaria coudercii Harm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria couderci Harm.
+Pertusaria coudercii Harm.
 
 ### Remarks
 null

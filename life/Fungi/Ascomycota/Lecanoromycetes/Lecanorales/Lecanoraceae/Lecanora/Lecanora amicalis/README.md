@@ -1,5 +1,4 @@
-Lecanora amicalis Zahlbr. SPECIES
-=======
+# Lecanora amicalis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyridaria eminens Rehm SPECIES
-=======
+# Thyridaria eminens Rehm SPECIES
 
 #### Status
 ACCEPTED

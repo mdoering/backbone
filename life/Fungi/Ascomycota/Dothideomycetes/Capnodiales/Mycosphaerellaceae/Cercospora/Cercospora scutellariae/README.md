@@ -1,5 +1,4 @@
-Cercospora scutellariae Ellis & Everh. SPECIES
-=======
+# Cercospora scutellariae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

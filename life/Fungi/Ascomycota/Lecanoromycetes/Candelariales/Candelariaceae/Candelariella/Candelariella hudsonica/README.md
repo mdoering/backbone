@@ -1,5 +1,4 @@
-Candelariella hudsonica Hakul. SPECIES
-=======
+# Candelariella hudsonica Hakul. SPECIES
 
 #### Status
 ACCEPTED

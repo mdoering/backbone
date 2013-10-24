@@ -1,5 +1,4 @@
-Phacotrum GENUS
-=======
+# Phacotrum GENUS
 
 #### Status
 ACCEPTED

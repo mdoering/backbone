@@ -1,5 +1,4 @@
-Agaricus squamulifer var. squamulifer VARIETY
-=======
+# Agaricus squamulifer (F.H. Møller) Pilát SPECIES
 
 #### Status
 ACCEPTED

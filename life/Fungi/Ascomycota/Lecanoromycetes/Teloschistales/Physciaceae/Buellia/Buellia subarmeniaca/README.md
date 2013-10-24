@@ -1,5 +1,4 @@
-Buellia subarmeniaca SPECIES
-=======
+# Buellia subarmeniaca SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyochaeta cylindrospora (Morgan-Jones & E.G. Ingram) Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Dictyochaeta cylindrospora (Morgan-Jones & E.G. Ingram) Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

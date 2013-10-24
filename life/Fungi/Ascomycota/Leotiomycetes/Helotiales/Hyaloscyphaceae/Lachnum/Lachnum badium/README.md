@@ -1,5 +1,4 @@
-Lachnum badium Rehm SPECIES
-=======
+# Lachnum badium Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma plagiochilae Racov. SPECIES
-=======
+# Phoma plagiochilae Racov. SPECIES
 
 #### Status
 ACCEPTED

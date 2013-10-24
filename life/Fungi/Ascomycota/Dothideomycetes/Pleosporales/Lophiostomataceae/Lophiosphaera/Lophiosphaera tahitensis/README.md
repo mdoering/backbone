@@ -1,5 +1,4 @@
-Lophiosphaera tahitensis Pat. SPECIES
-=======
+# Lophiosphaera tahitensis Pat. SPECIES
 
 #### Status
 ACCEPTED

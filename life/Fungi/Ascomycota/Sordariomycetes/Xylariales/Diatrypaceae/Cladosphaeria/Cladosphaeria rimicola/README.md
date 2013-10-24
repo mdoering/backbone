@@ -1,5 +1,4 @@
-Cladosphaeria rimicola G.H. Otth SPECIES
-=======
+# Cladosphaeria rimicola G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

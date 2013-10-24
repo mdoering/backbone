@@ -1,5 +1,4 @@
-Hypoxylon sublenormandii Suwann., Rodtong, Thienh. & Whalley, 2006 SPECIES
-=======
+# Hypoxylon sublenormandii Suwann., Rodtong, Thienh. & Whalley, 2006 SPECIES
 
 #### Status
 ACCEPTED

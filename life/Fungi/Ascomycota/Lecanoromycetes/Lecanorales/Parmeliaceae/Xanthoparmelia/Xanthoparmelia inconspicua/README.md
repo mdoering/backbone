@@ -1,5 +1,4 @@
-Xanthoparmelia inconspicua Hale SPECIES
-=======
+# Xanthoparmelia inconspicua Hale SPECIES
 
 #### Status
 ACCEPTED

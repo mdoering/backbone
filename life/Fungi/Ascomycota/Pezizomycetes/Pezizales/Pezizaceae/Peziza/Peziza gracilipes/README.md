@@ -1,5 +1,4 @@
-Peziza gracilipes Cooke SPECIES
-=======
+# Peziza gracilipes Cooke SPECIES
 
 #### Status
 ACCEPTED

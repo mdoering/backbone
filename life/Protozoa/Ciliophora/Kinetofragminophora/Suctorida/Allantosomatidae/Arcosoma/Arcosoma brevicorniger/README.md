@@ -1,5 +1,4 @@
-Arcosoma brevicorniger SPECIES
-=======
+# Arcosoma brevicorniger SPECIES
 
 #### Status
 ACCEPTED

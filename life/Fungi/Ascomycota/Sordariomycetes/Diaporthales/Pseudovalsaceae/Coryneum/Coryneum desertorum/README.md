@@ -1,5 +1,4 @@
-Coryneum desertorum Melnik SPECIES
-=======
+# Coryneum desertorum Melnik SPECIES
 
 #### Status
 ACCEPTED

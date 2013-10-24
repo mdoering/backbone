@@ -1,5 +1,4 @@
-Buellia cervinoplaca Zahlbr. SPECIES
-=======
+# Buellia cervinoplaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

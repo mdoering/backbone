@@ -1,5 +1,4 @@
-Polyporellus peltatus (Fr.) P. Karst. SPECIES
-=======
+# Polyporellus peltatus (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllopsora confusa Swinscow & Krog SPECIES
-=======
+# Phyllopsora confusa Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

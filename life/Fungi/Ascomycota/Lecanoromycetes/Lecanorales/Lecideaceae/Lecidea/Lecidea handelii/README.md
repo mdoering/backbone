@@ -1,5 +1,4 @@
-Lecidea handelii Zahlbr. SPECIES
-=======
+# Lecidea handelii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

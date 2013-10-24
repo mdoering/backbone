@@ -1,5 +1,4 @@
-Sphaeria venulosa Wallr. SPECIES
-=======
+# Sphaeria venulosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

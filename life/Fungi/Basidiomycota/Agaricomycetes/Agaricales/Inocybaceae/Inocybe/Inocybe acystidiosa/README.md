@@ -1,5 +1,4 @@
-Inocybe acystidiosa Kauffman SPECIES
-=======
+# Inocybe acystidiosa Kauffman SPECIES
 
 #### Status
 ACCEPTED

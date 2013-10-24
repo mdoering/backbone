@@ -1,5 +1,4 @@
-Sporochnus rostratus W.R. Taylor SPECIES
-=======
+# Sporochnus rostratus W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

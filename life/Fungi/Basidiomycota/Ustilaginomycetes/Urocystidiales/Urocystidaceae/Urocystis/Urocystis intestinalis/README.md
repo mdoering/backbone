@@ -1,5 +1,4 @@
-Urocystis intestinalis Hallier SPECIES
-=======
+# Urocystis intestinalis Hallier SPECIES
 
 #### Status
 ACCEPTED

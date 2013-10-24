@@ -1,5 +1,4 @@
-Pholiota djakovensis Schulzer SPECIES
-=======
+# Pholiota djakovensis Schulzer SPECIES
 
 #### Status
 ACCEPTED

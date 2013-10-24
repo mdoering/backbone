@@ -1,8 +1,7 @@
-Microthyrium madagascarense P. Karst. & Har. SPECIES
-=======
+# Microthyrium madagascariense P. Karst. & Har. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microthyrium madagascarense P. Karst. & Har.
+Microthyrium madagascariense P. Karst. & Har.
 
 ### Remarks
 null

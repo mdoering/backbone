@@ -1,5 +1,4 @@
-Omphalia ignobilis Joss. SPECIES
-=======
+# Omphalia ignobilis Joss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cortinarius splendidus (E. Horak) K. Griffiths, 1985 SPECIES
-=======
+# Dermocybe splendida E. Horak, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Field Guide to the Larger Fungi of the Darling Scarp & South West of Western Australia (Australia) 66 (1985)
+Aust. J. Bot. , Suppl. Ser. 10: 33 (1983)
 
 #### Original name
 Dermocybe splendida E. Horak, 1983

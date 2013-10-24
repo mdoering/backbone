@@ -1,5 +1,4 @@
-Chaetophoma perpusilla Speg. SPECIES
-=======
+# Chaetophoma perpusilla Speg. SPECIES
 
 #### Status
 ACCEPTED

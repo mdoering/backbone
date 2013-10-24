@@ -1,5 +1,4 @@
-Usnea sorediata (Zahlbr.) Motyka SPECIES
-=======
+# Usnea sorediata (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

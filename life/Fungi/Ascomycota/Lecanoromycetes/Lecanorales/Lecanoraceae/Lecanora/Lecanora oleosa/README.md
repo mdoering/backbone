@@ -1,5 +1,4 @@
-Lecanora oleosa Zahlbr. SPECIES
-=======
+# Lecanora oleosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

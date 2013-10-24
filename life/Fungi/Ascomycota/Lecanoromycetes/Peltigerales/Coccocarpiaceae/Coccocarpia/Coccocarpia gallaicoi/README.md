@@ -1,5 +1,4 @@
-Coccocarpia gallaicoi Lücking, Chaves & Umaña SPECIES
-=======
+# Coccocarpia gallaicoi Lücking, Chaves & Umaña SPECIES
 
 #### Status
 ACCEPTED

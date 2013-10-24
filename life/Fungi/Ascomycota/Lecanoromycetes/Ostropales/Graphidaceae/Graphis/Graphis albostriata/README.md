@@ -1,5 +1,4 @@
-Graphis albostriata Vain. SPECIES
-=======
+# Graphis albostriata Vain. SPECIES
 
 #### Status
 ACCEPTED

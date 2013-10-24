@@ -1,5 +1,4 @@
-Otthia fendlericola Tracy & Earle SPECIES
-=======
+# Otthia fendlericola Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

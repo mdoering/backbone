@@ -1,5 +1,4 @@
-Stokesia vernalis Wenrich, 1929 SPECIES
-=======
+# Stokesia vernalis Wenrich, 1929 SPECIES
 
 #### Status
 ACCEPTED

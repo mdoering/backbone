@@ -1,5 +1,4 @@
-Thalpophila Borzì, 1907 GENUS
-=======
+# Thalpophila Borzì, 1907 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia cincinnata anon. SPECIES
-=======
+# Puccinia cincinnata anon. SPECIES
 
 #### Status
 ACCEPTED

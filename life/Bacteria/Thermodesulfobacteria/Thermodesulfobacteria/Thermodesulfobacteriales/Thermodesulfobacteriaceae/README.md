@@ -1,5 +1,4 @@
-Thermodesulfobacteriaceae Hatchikian, Ollivier & Garcia, 2002 FAMILY
-=======
+# Thermodesulfobacteriaceae Hatchikian, Ollivier & Garcia, 2002 FAMILY
 
 #### Status
 ACCEPTED

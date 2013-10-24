@@ -1,5 +1,4 @@
-Depazites pictus (Heer) Mesch. SPECIES
-=======
+# Depazites pictus (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

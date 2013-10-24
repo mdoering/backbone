@@ -1,11 +1,10 @@
-Influenzabacillenahnliches anaërobes Stäbchen"" Russ, 1905 SPECIES
-=======
+# Fusobacterium russii (Hauduroy et al., 1937) Moore and Holdeman, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

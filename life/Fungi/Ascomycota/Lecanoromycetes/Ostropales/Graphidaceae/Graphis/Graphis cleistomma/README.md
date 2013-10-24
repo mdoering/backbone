@@ -1,5 +1,4 @@
-Graphis cleistomma Nyl. SPECIES
-=======
+# Graphis cleistomma Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coelomomyces iliensis var. iliensis VARIETY
-=======
+# Coelomomyces iliensis Dubitskii, Dzerzh. & Daneb. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mikol. Fitopatol. 7(2): 136 (1973)
 
 #### Original name
-Coelomomyces iliensis var. iliensis
+Coelomomyces iliensis Dubitskii, Dzerzh. & Daneb.
 
 ### Remarks
 null

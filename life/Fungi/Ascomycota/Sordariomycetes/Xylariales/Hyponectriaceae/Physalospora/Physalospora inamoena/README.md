@@ -1,5 +1,4 @@
-Physalospora inamoena I. Hino & Katum. SPECIES
-=======
+# Physalospora inamoena I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

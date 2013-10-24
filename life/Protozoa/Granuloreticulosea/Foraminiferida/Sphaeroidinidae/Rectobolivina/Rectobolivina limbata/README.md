@@ -1,5 +1,4 @@
-Rectobolivina limbata SPECIES
-=======
+# Rectobolivina limbata SPECIES
 
 #### Status
 ACCEPTED

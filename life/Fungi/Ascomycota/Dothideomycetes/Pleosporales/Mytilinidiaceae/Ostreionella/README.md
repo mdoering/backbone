@@ -1,5 +1,4 @@
-Ostreionella GENUS
-=======
+# Ostreionella GENUS
 
 #### Status
 ACCEPTED

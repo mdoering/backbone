@@ -1,5 +1,4 @@
-Clitocybe subdryadicola Harmaja, 1978 SPECIES
-=======
+# Clitocybe subdryadicola Harmaja, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia sphaerothallina (J. Steiner) Szatala SPECIES
-=======
+# Aspicilia sphaerothallina (J. Steiner) Szatala SPECIES
 
 #### Status
 ACCEPTED

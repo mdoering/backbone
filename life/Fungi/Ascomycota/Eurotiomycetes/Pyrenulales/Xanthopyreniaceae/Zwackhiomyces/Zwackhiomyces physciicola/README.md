@@ -1,5 +1,4 @@
-Zwackhiomyces physciicola Alstrup SPECIES
-=======
+# Zwackhiomyces physciicola Alstrup SPECIES
 
 #### Status
 ACCEPTED

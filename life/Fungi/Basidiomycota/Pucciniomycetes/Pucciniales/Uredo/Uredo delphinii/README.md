@@ -1,5 +1,4 @@
-Uredo delphinii Wallr. SPECIES
-=======
+# Uredo delphinii Wallr. SPECIES
 
 #### Status
 ACCEPTED

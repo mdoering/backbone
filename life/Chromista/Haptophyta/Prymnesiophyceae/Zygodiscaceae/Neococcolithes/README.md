@@ -1,11 +1,10 @@
-Indumentalithus V.N. Vekschina, 1959 GENUS
-=======
+# Neococcolithes Sujkowski GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

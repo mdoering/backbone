@@ -1,5 +1,4 @@
-Hypocrea austrokoningii Samuels & Druzhin., 2006 SPECIES
-=======
+# Hypocrea austrokoningii Samuels & Druzhin., 2006 SPECIES
 
 #### Status
 ACCEPTED

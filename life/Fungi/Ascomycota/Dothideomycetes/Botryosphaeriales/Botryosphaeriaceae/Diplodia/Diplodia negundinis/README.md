@@ -1,5 +1,4 @@
-Diplodia negundinis Thüm. SPECIES
-=======
+# Diplodia negundinis Thüm. SPECIES
 
 #### Status
 ACCEPTED

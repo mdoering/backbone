@@ -1,5 +1,4 @@
-Leptostroma virgaureae Briard & Har. SPECIES
-=======
+# Leptostroma virgaureae Briard & Har. SPECIES
 
 #### Status
 ACCEPTED

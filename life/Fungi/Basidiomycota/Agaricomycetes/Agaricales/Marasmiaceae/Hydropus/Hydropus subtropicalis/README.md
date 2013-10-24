@@ -1,5 +1,4 @@
-Hydropus subtropicalis (Singer) Singer SPECIES
-=======
+# Hydropus subtropicalis (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

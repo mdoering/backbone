@@ -1,5 +1,4 @@
-Hymenogaster diabolus A.H. Sm. SPECIES
-=======
+# Hymenogaster diabolus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

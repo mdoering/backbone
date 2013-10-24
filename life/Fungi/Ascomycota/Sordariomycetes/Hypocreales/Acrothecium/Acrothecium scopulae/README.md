@@ -1,5 +1,4 @@
-Acrothecium scopulae Goid. SPECIES
-=======
+# Acrothecium scopulae Goid. SPECIES
 
 #### Status
 ACCEPTED

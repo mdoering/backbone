@@ -1,5 +1,4 @@
-Mycena anomala Beardslee SPECIES
-=======
+# Mycena anomala Beardslee SPECIES
 
 #### Status
 ACCEPTED

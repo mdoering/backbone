@@ -1,5 +1,4 @@
-Graphis follmannii C.W. Dodge SPECIES
-=======
+# Graphis follmannii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

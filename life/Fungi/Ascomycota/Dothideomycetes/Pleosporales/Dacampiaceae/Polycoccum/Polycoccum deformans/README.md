@@ -1,5 +1,4 @@
-Polycoccum deformans R. Sant. SPECIES
-=======
+# Polycoccum deformans R. Sant. SPECIES
 
 #### Status
 ACCEPTED

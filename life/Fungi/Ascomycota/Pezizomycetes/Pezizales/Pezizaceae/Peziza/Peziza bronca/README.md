@@ -1,5 +1,4 @@
-Peziza bronca Peck SPECIES
-=======
+# Peziza bronca Peck SPECIES
 
 #### Status
 ACCEPTED

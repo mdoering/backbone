@@ -1,5 +1,4 @@
-Eccilia pirinoides Kauffman SPECIES
-=======
+# Eccilia pirinoides Kauffman SPECIES
 
 #### Status
 ACCEPTED

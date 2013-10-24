@@ -1,5 +1,4 @@
-Polystictus bicolor Lloyd SPECIES
-=======
+# Polystictus bicolor Lloyd SPECIES
 
 #### Status
 ACCEPTED

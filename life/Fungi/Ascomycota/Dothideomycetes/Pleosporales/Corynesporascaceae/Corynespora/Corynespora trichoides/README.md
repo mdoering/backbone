@@ -1,5 +1,4 @@
-Corynespora trichoides Meenu, Kharwar & Bhartiya SPECIES
-=======
+# Corynespora trichoides Meenu, Kharwar & Bhartiya SPECIES
 
 #### Status
 ACCEPTED

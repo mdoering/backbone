@@ -1,14 +1,13 @@
-Sphaeria strobilina Holle & J.C. Schmidt SPECIES
-=======
+# Dichaena strobilina (Holle & J.C. Schmidt) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 403 (1849)
 
 #### Original name
 Sphaeria strobilina Holle & J.C. Schmidt

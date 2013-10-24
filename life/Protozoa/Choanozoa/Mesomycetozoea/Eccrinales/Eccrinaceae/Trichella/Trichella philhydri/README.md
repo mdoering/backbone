@@ -1,5 +1,4 @@
-Trichella philhydri R.A. Poiss. SPECIES
-=======
+# Trichella philhydri R.A. Poiss. SPECIES
 
 #### Status
 ACCEPTED

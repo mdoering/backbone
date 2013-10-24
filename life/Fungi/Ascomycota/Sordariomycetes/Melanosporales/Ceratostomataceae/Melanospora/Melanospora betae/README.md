@@ -1,5 +1,4 @@
-Melanospora betae Panas. SPECIES
-=======
+# Melanospora betae Panas. SPECIES
 
 #### Status
 ACCEPTED

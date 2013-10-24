@@ -1,5 +1,4 @@
-Entoloma subdeceptivum Courtec. SPECIES
-=======
+# Entoloma subdeceptivum Courtec. SPECIES
 
 #### Status
 ACCEPTED

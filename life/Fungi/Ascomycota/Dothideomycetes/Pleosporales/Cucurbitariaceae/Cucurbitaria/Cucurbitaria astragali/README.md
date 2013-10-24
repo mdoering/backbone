@@ -1,5 +1,4 @@
-Cucurbitaria astragali Ellis & Everh. SPECIES
-=======
+# Cucurbitaria astragali Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

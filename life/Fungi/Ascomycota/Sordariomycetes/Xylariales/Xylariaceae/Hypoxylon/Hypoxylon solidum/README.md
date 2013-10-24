@@ -1,5 +1,4 @@
-Hypoxylon solidum (Schwein.) Berk. SPECIES
-=======
+# Hypoxylon solidum (Schwein.) Berk. SPECIES
 
 #### Status
 ACCEPTED

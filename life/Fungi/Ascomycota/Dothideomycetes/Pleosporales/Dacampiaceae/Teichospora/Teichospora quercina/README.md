@@ -1,5 +1,4 @@
-Teichospora quercina (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Teichospora quercina (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

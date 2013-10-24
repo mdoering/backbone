@@ -1,5 +1,4 @@
-Mycospongia juniperi Velen., 1939 SPECIES
-=======
+# Mycospongia juniperi Velen., 1939 SPECIES
 
 #### Status
 ACCEPTED

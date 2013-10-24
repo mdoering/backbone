@@ -1,5 +1,4 @@
-Colpidium pannonicum Gelei, 1932 SPECIES
-=======
+# Colpidium pannonicum Gelei, 1932 SPECIES
 
 #### Status
 ACCEPTED

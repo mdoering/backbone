@@ -1,5 +1,4 @@
-Calothrix elenkinii Kossinskaja SPECIES
-=======
+# Calothrix elenkinii Kossinskaja SPECIES
 
 #### Status
 ACCEPTED

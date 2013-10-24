@@ -1,5 +1,4 @@
-Septoria magnusiana Allesch. SPECIES
-=======
+# Septoria magnusiana Allesch. SPECIES
 
 #### Status
 ACCEPTED

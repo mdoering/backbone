@@ -1,5 +1,4 @@
-Xanthoria polycarpoides var. polycarpoides VARIETY
-=======
+# Xanthoria polycarpoides J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xanthoria polycarpoides var. polycarpoides
+Xanthoria polycarpoides J. Steiner
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Cercospora abelmoschidis S. Narayan, Kharwar, R.K. Singh & Bhartiya SPECIES
-=======
+# Pseudocercospora abelmoschi (Ellis & Everh.) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 140: 138 (1976)
 
 #### Original name
-Cercospora abelmoschidis S. Narayan, Kharwar, R.K. Singh & Bhartiya
+Cercospora abelmoschi Ellis & Everh., 1893
 
 ### Remarks
 null

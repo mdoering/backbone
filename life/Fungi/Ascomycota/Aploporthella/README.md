@@ -1,5 +1,4 @@
-Aploporthella Petr. GENUS
-=======
+# Aploporthella Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phanerochaete xerophila Burds., 1985 SPECIES
-=======
+# Phanerochaete xerophila Burds., 1985 SPECIES
 
 #### Status
 ACCEPTED

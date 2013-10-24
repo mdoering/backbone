@@ -1,5 +1,4 @@
-Sphaerosporella (Svrcek) Svrcek & Kubicka, 1961 GENUS
-=======
+# Sphaerosporella (Svrcek) Svrcek & Kubicka, 1961 GENUS
 
 #### Status
 ACCEPTED

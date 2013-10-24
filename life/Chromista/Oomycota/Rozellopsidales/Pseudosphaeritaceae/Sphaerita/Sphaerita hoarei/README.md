@@ -1,8 +1,7 @@
-Sphaerita hoari Lubinsky SPECIES
-=======
+# Sphaerita hoarei Lubinsky SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerita hoari Lubinsky
+Sphaerita hoarei Lubinsky
 
 ### Remarks
 null

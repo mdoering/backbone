@@ -1,5 +1,4 @@
-Alectoria furcellata R. Sant. SPECIES
-=======
+# Alectoria furcellata R. Sant. SPECIES
 
 #### Status
 ACCEPTED

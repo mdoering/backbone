@@ -1,5 +1,4 @@
-Streptococcus vestibularis Whiley & Hardie, 1988 SPECIES
-=======
+# Streptococcus vestibularis Whiley & Hardie, 1988 SPECIES
 
 #### Status
 ACCEPTED

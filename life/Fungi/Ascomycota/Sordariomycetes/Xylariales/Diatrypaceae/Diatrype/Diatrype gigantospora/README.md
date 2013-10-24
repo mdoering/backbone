@@ -1,5 +1,4 @@
-Diatrype gigantospora Carmarán & L.N. Vassiljeva SPECIES
-=======
+# Diatrype gigantospora Carmarán & L.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

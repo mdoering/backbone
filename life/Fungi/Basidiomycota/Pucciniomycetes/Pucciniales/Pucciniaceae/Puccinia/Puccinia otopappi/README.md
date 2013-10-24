@@ -1,5 +1,4 @@
-Puccinia otopappi P. Syd. & Syd. SPECIES
-=======
+# Puccinia otopappi P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stentoridae Carus, 1863 FAMILY
-=======
+# Stentoridae Carus, 1863 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Buellia mülleri Zahlbr. SPECIES
-=======
+# Buellia muelleri Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

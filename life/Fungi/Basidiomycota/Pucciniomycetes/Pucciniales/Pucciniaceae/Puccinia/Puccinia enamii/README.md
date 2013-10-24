@@ -1,5 +1,4 @@
-Puccinia enamii Pardo-Card. SPECIES
-=======
+# Puccinia enamii Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

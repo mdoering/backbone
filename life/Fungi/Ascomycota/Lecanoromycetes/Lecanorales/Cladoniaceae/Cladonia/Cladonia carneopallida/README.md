@@ -1,5 +1,4 @@
-Cladonia carneopallida (Flörke) Laurer SPECIES
-=======
+# Cladonia carneopallida (Flörke) Laurer SPECIES
 
 #### Status
 ACCEPTED

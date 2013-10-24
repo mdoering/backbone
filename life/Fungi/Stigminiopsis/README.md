@@ -1,5 +1,4 @@
-Stigminiopsis Dyko & B. Sutton GENUS
-=======
+# Stigminiopsis Dyko & B. Sutton GENUS
 
 #### Status
 ACCEPTED

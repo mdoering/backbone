@@ -1,5 +1,4 @@
-Thyrea frustillata (Nyl.) Zahlbr. SPECIES
-=======
+# Thyrea frustillata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia malayana Vain. SPECIES
-=======
+# Arthonia malayana Vain. SPECIES
 
 #### Status
 ACCEPTED

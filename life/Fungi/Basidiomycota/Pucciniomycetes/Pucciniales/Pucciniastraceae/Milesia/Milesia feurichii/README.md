@@ -1,5 +1,4 @@
-Milesia feurichii (Magnus) Faull SPECIES
-=======
+# Milesia feurichii (Magnus) Faull SPECIES
 
 #### Status
 ACCEPTED

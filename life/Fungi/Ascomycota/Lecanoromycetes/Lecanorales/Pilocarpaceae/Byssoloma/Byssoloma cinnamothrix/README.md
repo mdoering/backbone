@@ -1,5 +1,4 @@
-Byssoloma cinnamothrix (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Byssoloma cinnamothrix (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

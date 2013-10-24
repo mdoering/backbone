@@ -1,5 +1,4 @@
-Flammeovirga yaeyamensis Takahashi et al., 2006 SPECIES
-=======
+# Flammeovirga yaeyamensis Takahashi et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

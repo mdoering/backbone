@@ -1,5 +1,4 @@
-Polyclypeolum africanum Bat. & Peres SPECIES
-=======
+# Polyclypeolum africanum Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe pakelo Desjardin & Hemmes SPECIES
-=======
+# Hygrocybe pakelo Desjardin & Hemmes SPECIES
 
 #### Status
 ACCEPTED

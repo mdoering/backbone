@@ -1,5 +1,4 @@
-Julescraneia Parker & Dawson GENUS
-=======
+# Julescraneia Parker & Dawson GENUS
 
 #### Status
 ACCEPTED

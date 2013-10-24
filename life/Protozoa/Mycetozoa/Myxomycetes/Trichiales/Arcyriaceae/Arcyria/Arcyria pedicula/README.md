@@ -1,5 +1,4 @@
-Arcyria pedicula Hill SPECIES
-=======
+# Arcyria pedicula Hill SPECIES
 
 #### Status
 ACCEPTED

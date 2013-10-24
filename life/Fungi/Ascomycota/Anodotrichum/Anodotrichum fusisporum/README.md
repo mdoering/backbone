@@ -1,5 +1,4 @@
-Anodotrichum fusisporum Preuss SPECIES
-=======
+# Anodotrichum fusisporum Preuss SPECIES
 
 #### Status
 ACCEPTED

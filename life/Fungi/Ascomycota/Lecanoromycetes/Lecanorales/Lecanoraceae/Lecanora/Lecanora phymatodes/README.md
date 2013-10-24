@@ -1,5 +1,4 @@
-Lecanora phymatodes Vain. SPECIES
-=======
+# Lecanora phymatodes Vain. SPECIES
 
 #### Status
 ACCEPTED

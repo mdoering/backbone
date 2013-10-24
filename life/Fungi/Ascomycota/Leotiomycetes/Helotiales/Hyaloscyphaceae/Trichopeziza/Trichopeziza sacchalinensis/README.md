@@ -1,5 +1,4 @@
-Trichopeziza sacchalinensis (Raitv.) Raitv. SPECIES
-=======
+# Trichopeziza sacchalinensis (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

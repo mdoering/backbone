@@ -1,5 +1,4 @@
-Trichotheca alba P. Karst. SPECIES
-=======
+# Trichotheca alba P. Karst. SPECIES
 
 #### Status
 ACCEPTED

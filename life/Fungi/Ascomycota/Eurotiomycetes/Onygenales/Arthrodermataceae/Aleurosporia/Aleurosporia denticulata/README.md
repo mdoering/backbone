@@ -1,5 +1,4 @@
-Aleurosporia denticulata (Sabour.) Grigorakis {?} SPECIES
-=======
+# Aleurosporia denticulata (Sabour.) Grigorakis {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactobacillus sharpeae Weiss et al., 1982 SPECIES
-=======
+# Lactobacillus sharpeae Weiss et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

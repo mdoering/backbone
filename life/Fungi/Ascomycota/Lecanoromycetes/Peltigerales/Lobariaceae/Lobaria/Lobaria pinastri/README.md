@@ -1,5 +1,4 @@
-Lobaria pinastri (Scop.) Hoffm. SPECIES
-=======
+# Lobaria pinastri (Scop.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

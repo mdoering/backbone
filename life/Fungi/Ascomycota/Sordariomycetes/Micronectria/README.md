@@ -1,5 +1,4 @@
-Micronectria Speg. GENUS
-=======
+# Micronectria Speg. GENUS
 
 #### Status
 ACCEPTED

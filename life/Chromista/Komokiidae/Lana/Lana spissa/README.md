@@ -1,5 +1,4 @@
-Lana spissa Schröder, Medioli & Scott, 1989 SPECIES
-=======
+# Lana spissa Schröder, Medioli & Scott, 1989 SPECIES
 
 #### Status
 ACCEPTED

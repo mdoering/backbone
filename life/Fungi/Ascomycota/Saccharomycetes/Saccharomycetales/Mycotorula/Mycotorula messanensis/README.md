@@ -1,5 +1,4 @@
-Mycotorula messanensis Cif. & Redaelli SPECIES
-=======
+# Mycotorula messanensis Cif. & Redaelli SPECIES
 
 #### Status
 ACCEPTED

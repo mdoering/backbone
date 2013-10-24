@@ -1,5 +1,4 @@
-Puccinia fuirenella Doidge SPECIES
-=======
+# Puccinia fuirenella Doidge SPECIES
 
 #### Status
 ACCEPTED

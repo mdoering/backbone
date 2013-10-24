@@ -1,5 +1,4 @@
-Stemonitis sphaerocarpa Schrad. SPECIES
-=======
+# Stemonitis sphaerocarpa Schrad. SPECIES
 
 #### Status
 ACCEPTED

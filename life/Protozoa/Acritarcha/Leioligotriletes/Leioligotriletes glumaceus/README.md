@@ -1,5 +1,4 @@
-Leioligotriletes glumaceus Timofeev, 1959 SPECIES
-=======
+# Leioligotriletes glumaceus Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

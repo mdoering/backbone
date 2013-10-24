@@ -1,5 +1,4 @@
-Amanita biovigera Singer SPECIES
-=======
+# Amanita biovigera Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcidia matogrossensis Kalb & Elix SPECIES
-=======
+# Physcidia matogrossensis Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

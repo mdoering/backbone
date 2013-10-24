@@ -1,5 +1,4 @@
-Dermatea abietina Velen. SPECIES
-=======
+# Dermatea abietina Velen. SPECIES
 
 #### Status
 ACCEPTED

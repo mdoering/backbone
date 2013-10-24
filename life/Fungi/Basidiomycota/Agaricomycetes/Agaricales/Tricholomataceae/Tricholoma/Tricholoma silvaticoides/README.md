@@ -1,5 +1,4 @@
-Tricholoma silvaticoides (Murrill) Murrill SPECIES
-=======
+# Tricholoma silvaticoides (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

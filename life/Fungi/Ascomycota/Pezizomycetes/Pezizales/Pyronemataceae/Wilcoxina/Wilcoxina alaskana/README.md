@@ -1,5 +1,4 @@
-Wilcoxina alaskana Kempton, Chin S. Yang & Korf SPECIES
-=======
+# Wilcoxina alaskana Kempton, Chin S. Yang & Korf SPECIES
 
 #### Status
 ACCEPTED

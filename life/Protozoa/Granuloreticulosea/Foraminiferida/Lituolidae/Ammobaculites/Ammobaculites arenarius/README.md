@@ -1,5 +1,4 @@
-Ammobaculites arenarius SPECIES
-=======
+# Ammobaculites arenarius SPECIES
 
 #### Status
 ACCEPTED

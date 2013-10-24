@@ -1,5 +1,4 @@
-Polyporus cichoraceus Berk. SPECIES
-=======
+# Polyporus cichoraceus Berk. SPECIES
 
 #### Status
 ACCEPTED

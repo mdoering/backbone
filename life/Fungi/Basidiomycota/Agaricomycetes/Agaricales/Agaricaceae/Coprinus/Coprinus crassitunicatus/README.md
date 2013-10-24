@@ -1,5 +1,4 @@
-Coprinus crassitunicatus Bogart SPECIES
-=======
+# Coprinus crassitunicatus Bogart SPECIES
 
 #### Status
 ACCEPTED

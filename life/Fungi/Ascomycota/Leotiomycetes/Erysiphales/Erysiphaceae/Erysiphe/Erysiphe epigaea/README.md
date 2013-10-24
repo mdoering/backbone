@@ -1,5 +1,4 @@
-Erysiphe epigaea (Wallr.) Link SPECIES
-=======
+# Erysiphe epigaea (Wallr.) Link SPECIES
 
 #### Status
 ACCEPTED

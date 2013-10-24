@@ -1,5 +1,4 @@
-Mycothyridium fusisporum (Petr.) Petr. SPECIES
-=======
+# Mycothyridium fusisporum (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus emeticus var. emeticus VARIETY
-=======
+# Russula emetica (Schaeff.) Pers., 1796 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Observ. mycol. (Lipsiae) 1: 100 (1796)
 
 #### Original name
-null
+Agaricus emeticus Schaeff., 1774
 
 ### Remarks
 null

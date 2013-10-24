@@ -1,5 +1,4 @@
-Pyrgo qeensis SPECIES
-=======
+# Pyrgo qeensis SPECIES
 
 #### Status
 ACCEPTED

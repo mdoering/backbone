@@ -1,8 +1,7 @@
-Cytophaga lytica Lewin, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Cellulophaga lytica (Lewin, 1969) Johansen et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

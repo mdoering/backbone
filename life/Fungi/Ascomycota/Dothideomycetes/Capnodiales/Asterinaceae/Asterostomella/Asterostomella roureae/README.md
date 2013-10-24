@@ -1,5 +1,4 @@
-Asterostomella roureae Petr., 1959 SPECIES
-=======
+# Asterostomella roureae Petr., 1959 SPECIES
 
 #### Status
 ACCEPTED

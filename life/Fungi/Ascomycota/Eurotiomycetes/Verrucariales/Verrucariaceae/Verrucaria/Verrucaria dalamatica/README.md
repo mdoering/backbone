@@ -1,5 +1,4 @@
-Verrucaria dalamatica SPECIES
-=======
+# Verrucaria dalamatica SPECIES
 
 #### Status
 ACCEPTED

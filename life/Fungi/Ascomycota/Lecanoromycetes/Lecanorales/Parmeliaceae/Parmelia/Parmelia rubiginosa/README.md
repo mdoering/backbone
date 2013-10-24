@@ -1,5 +1,4 @@
-Parmelia rubiginosa var. rubiginosa VARIETY
-=======
+# Parmelia rubiginosa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia rubiginosa var. rubiginosa
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Spirolectamminoides Magniez, 1972 GENUS
-=======
+# Spirolectamminoides Magniez, 1972 GENUS
 
 #### Status
 ACCEPTED

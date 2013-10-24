@@ -1,5 +1,4 @@
-Aspergillus septatus Sartory & R. Sartory SPECIES
-=======
+# Aspergillus septatus Sartory & R. Sartory SPECIES
 
 #### Status
 ACCEPTED

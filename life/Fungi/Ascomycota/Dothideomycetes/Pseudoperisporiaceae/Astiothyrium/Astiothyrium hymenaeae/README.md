@@ -1,5 +1,4 @@
-Astiothyrium hymenaeae Bat. & J.L. Bezerra SPECIES
-=======
+# Astiothyrium hymenaeae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

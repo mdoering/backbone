@@ -1,5 +1,4 @@
-Sporobolomyces shibatanus (Okun.) Verona & Cif. SPECIES
-=======
+# Sporobolomyces shibatanus (Okun.) Verona & Cif. SPECIES
 
 #### Status
 ACCEPTED

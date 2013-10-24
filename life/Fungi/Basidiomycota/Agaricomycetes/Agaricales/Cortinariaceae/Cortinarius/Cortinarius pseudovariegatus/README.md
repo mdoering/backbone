@@ -1,5 +1,4 @@
-Cortinarius pseudovariegatus M.M. Moser SPECIES
-=======
+# Cortinarius pseudovariegatus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

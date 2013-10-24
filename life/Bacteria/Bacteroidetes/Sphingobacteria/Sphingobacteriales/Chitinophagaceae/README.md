@@ -1,5 +1,4 @@
-Chitinophagaceae FAMILY
-=======
+# Chitinophagaceae FAMILY
 
 #### Status
 ACCEPTED

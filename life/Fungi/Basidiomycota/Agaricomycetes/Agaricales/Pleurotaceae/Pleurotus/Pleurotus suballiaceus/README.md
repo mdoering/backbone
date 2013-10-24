@@ -1,5 +1,4 @@
-Pleurotus suballiaceus (Murrill) Murrill SPECIES
-=======
+# Pleurotus suballiaceus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

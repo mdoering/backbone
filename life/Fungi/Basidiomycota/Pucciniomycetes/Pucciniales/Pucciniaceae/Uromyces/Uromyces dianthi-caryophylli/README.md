@@ -1,5 +1,4 @@
-Uromyces dianthi-caryophylli Monchot {?} SPECIES
-=======
+# Uromyces dianthi-caryophylli Monchot {?} SPECIES
 
 #### Status
 ACCEPTED

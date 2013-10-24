@@ -1,5 +1,4 @@
-Endostelium L.S. Olive, W.E. Benn. & Deasey GENUS
-=======
+# Endostelium L.S. Olive, W.E. Benn. & Deasey GENUS
 
 #### Status
 ACCEPTED

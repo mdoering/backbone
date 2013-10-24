@@ -1,5 +1,4 @@
-Aspidella cokeri (E.-J. Gilbert & Kühner) E.-J. Gilbert SPECIES
-=======
+# Aspidella cokeri (E.-J. Gilbert & Kühner) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

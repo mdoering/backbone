@@ -1,8 +1,7 @@
-Thecadinium inclinatum Balech SPECIES
-=======
+# Thecadinium semilunatum (Herdman) Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

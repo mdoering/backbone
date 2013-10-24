@@ -1,5 +1,4 @@
-Labyrinthophoma pimprina P.N. Mathur & Thirum. SPECIES
-=======
+# Labyrinthophoma pimprina P.N. Mathur & Thirum. SPECIES
 
 #### Status
 ACCEPTED

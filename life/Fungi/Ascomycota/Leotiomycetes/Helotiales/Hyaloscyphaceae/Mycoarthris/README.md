@@ -1,5 +1,4 @@
-Mycoarthris Marvanová & P.J. Fisher GENUS
-=======
+# Mycoarthris Marvanová & P.J. Fisher GENUS
 
 #### Status
 ACCEPTED

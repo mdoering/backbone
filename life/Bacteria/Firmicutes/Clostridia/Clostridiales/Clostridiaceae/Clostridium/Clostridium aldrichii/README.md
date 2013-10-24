@@ -1,5 +1,4 @@
-Clostridium aldrichii Yang et al., 1990 SPECIES
-=======
+# Clostridium aldrichii Yang et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globoconidiopsis G.F. Sepúlveda, Pereira-Carv. & Dianese GENUS
-=======
+# Globoconidiopsis G.F. Sepúlveda, Pereira-Carv. & Dianese GENUS
 
 #### Status
 ACCEPTED

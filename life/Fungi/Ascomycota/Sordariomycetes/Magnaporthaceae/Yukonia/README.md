@@ -1,5 +1,4 @@
-Yukonia GENUS
-=======
+# Yukonia GENUS
 
 #### Status
 ACCEPTED

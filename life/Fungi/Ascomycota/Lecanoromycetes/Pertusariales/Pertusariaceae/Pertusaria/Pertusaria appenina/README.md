@@ -1,5 +1,4 @@
-Pertusaria appenina Bagl. SPECIES
-=======
+# Pertusaria appenina Bagl. SPECIES
 
 #### Status
 ACCEPTED

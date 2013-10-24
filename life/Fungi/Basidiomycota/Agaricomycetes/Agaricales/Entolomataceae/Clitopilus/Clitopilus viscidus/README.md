@@ -1,5 +1,4 @@
-Clitopilus viscidus Velen. SPECIES
-=======
+# Clitopilus viscidus Velen. SPECIES
 
 #### Status
 ACCEPTED

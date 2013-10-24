@@ -1,5 +1,4 @@
-Hyalopeziza rubefaciens L. Holm & K. Holm SPECIES
-=======
+# Hyalopeziza rubefaciens L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

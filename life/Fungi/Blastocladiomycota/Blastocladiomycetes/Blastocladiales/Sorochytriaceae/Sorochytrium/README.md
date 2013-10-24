@@ -1,5 +1,4 @@
-Sorochytrium Dewel GENUS
-=======
+# Sorochytrium Dewel GENUS
 
 #### Status
 ACCEPTED

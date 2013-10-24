@@ -1,5 +1,4 @@
-Glomus caesaris Sieverd. & Oehl, 2002 SPECIES
-=======
+# Glomus caesaris Sieverd. & Oehl, 2002 SPECIES
 
 #### Status
 ACCEPTED

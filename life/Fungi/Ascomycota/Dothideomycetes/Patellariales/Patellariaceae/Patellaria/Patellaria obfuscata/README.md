@@ -1,5 +1,4 @@
-Patellaria obfuscata Müll. Arg. SPECIES
-=======
+# Patellaria obfuscata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

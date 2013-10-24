@@ -1,5 +1,4 @@
-Sphaeria lophanthi Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria lophanthi Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

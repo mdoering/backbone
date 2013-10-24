@@ -1,5 +1,4 @@
-Niptera E.M. Fries, 1849 GENUS
-=======
+# Niptera E.M. Fries, 1849 GENUS
 
 #### Status
 ACCEPTED

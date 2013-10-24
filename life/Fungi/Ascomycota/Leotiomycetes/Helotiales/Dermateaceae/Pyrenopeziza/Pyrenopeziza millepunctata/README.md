@@ -1,5 +1,4 @@
-Pyrenopeziza millepunctata (Sacc.) Sacc. SPECIES
-=======
+# Pyrenopeziza millepunctata (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

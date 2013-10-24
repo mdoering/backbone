@@ -1,5 +1,4 @@
-Colletotrichum arjunae V.P. Sahni SPECIES
-=======
+# Colletotrichum arjunae V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Togaria GENUS
-=======
+# Togaria GENUS
 
 #### Status
 ACCEPTED

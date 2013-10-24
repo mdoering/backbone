@@ -1,5 +1,4 @@
-Scolecopeltis delitescens Bat. SPECIES
-=======
+# Scolecopeltis delitescens Bat. SPECIES
 
 #### Status
 ACCEPTED

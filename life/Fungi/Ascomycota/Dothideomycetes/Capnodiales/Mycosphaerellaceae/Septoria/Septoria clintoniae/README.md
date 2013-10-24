@@ -1,5 +1,4 @@
-Septoria clintoniae Koval SPECIES
-=======
+# Septoria clintoniae Koval SPECIES
 
 #### Status
 ACCEPTED

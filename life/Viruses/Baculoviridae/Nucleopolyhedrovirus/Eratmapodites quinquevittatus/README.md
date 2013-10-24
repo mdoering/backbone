@@ -1,5 +1,4 @@
-Eratmapodites quinquevittatus Npv SPECIES
-=======
+# Eratmapodites quinquevittatus Npv SPECIES
 
 #### Status
 ACCEPTED

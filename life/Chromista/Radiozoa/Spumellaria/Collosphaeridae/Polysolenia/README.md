@@ -1,5 +1,4 @@
-Polysolenia Ehrenberg, 1872 GENUS
-=======
+# Polysolenia Ehrenberg, 1872 GENUS
 
 #### Status
 ACCEPTED

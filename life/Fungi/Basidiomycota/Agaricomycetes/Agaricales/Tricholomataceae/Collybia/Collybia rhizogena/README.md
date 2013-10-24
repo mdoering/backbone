@@ -1,5 +1,4 @@
-Collybia rhizogena Henn. SPECIES
-=======
+# Collybia rhizogena Henn. SPECIES
 
 #### Status
 ACCEPTED

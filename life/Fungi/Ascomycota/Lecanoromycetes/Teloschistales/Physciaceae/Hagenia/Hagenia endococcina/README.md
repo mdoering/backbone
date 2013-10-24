@@ -1,5 +1,4 @@
-Hagenia endococcina var. endococcina VARIETY
-=======
+# Hagenia endococcina SPECIES
 
 #### Status
 ACCEPTED

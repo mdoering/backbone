@@ -1,5 +1,4 @@
-Septoria puiggarii Speg. SPECIES
-=======
+# Septoria puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

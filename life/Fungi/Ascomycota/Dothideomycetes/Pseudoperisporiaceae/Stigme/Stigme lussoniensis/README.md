@@ -1,5 +1,4 @@
-Stigme lussoniensis (Sacc.) Syd. & P. Syd. SPECIES
-=======
+# Stigme lussoniensis (Sacc.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peritiviator Pessagno, 1976 GENUS
-=======
+# Peritiviator Pessagno, 1976 GENUS
 
 #### Status
 ACCEPTED

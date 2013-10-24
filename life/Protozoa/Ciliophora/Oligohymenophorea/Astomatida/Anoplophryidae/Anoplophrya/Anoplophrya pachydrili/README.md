@@ -1,5 +1,4 @@
-Anoplophrya pachydrili SPECIES
-=======
+# Anoplophrya pachydrili SPECIES
 
 #### Status
 ACCEPTED

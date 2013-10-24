@@ -1,5 +1,4 @@
-Flammulaster limulatus var. limulatus VARIETY
-=======
+# Flammulaster limulatus (Fr.) Watling SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Notes R. bot. Gdn Edinb. 28(1): 66 (1967)
+null
 
 #### Original name
-Agaricus limulatus Fr.
+null
 
 ### Remarks
 null

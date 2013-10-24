@@ -1,5 +1,4 @@
-Pseudocercospora hemidiodiae (Toro) Deighton SPECIES
-=======
+# Pseudocercospora hemidiodiae (Toro) Deighton SPECIES
 
 #### Status
 ACCEPTED

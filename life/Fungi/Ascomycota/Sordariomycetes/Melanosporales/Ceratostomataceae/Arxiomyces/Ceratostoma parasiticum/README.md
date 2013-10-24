@@ -1,5 +1,4 @@
-Ceratostoma parasiticum Ellis & Everh. SPECIES
-=======
+# Ceratostoma parasiticum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

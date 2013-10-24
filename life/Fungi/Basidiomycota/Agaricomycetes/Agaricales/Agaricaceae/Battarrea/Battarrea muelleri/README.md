@@ -1,5 +1,4 @@
-Battarrea muelleri Kalchbr. SPECIES
-=======
+# Battarrea muelleri Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

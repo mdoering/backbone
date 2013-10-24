@@ -1,5 +1,4 @@
-Pilobolus lentiger var. lentiger VARIETY
-=======
+# Pilobolus lentiger Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 1: 22 (1837)
+null
 
 #### Original name
-Pilobolus lentiger var. lentiger
+null
 
 ### Remarks
 null

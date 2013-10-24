@@ -1,5 +1,4 @@
-Lateromyxa Hülsmann, 1993 GENUS
-=======
+# Lateromyxa Hülsmann, 1993 GENUS
 
 #### Status
 ACCEPTED

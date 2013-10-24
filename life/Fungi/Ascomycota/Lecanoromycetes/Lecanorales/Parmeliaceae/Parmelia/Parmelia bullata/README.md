@@ -1,5 +1,4 @@
-Parmelia bullata (Sw.) Ach. SPECIES
-=======
+# Parmelia bullata (Sw.) Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eumela chiococcae Syd., 1925 SPECIES
-=======
+# Eumela chiococcae Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

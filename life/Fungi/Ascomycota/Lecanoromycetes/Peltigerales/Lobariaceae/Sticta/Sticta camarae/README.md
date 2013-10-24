@@ -1,5 +1,4 @@
-Sticta camarae Müll. Arg. SPECIES
-=======
+# Sticta camarae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

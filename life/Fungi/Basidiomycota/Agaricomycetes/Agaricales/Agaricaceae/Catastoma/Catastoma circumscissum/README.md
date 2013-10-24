@@ -1,5 +1,4 @@
-Catastoma circumscissum Berk. & M.A. Curtis SPECIES
-=======
+# Catastoma circumscissum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

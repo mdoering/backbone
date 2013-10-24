@@ -1,5 +1,4 @@
-Helotium chrysophthalmum P. Karst. SPECIES
-=======
+# Helotium chrysophthalmum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora gyalectodes Nyl. SPECIES
-=======
+# Lecanora gyalectodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium alatum Cif. SPECIES
-=======
+# Helminthosporium alatum Cif. SPECIES
 
 #### Status
 ACCEPTED

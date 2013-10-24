@@ -1,5 +1,4 @@
-Laboulbenia bordonii Balazuc SPECIES
-=======
+# Laboulbenia bordonii Balazuc SPECIES
 
 #### Status
 ACCEPTED

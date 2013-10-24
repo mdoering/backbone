@@ -1,17 +1,16 @@
-Fucus pygmaeus f. pygmaeus Wahlenb. FORM
-=======
+# Fucus pygmaeus Lightfoot SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. lapp. 502 (1812)
 
 #### Original name
-Fucus pygmaeus f. pygmaeus Wahlenb.
+Fucus pygmaeus Lightfoot
 
 ### Remarks
 null

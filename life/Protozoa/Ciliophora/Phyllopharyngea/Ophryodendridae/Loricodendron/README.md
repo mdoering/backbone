@@ -1,5 +1,4 @@
-Loricodendron Jankowski, 1973 GENUS
-=======
+# Loricodendron Jankowski, 1973 GENUS
 
 #### Status
 ACCEPTED

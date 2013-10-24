@@ -1,17 +1,16 @@
-Rhabdostroma Syd. & P. Syd. GENUS
-=======
+# Apiospora Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 14(5): 362 (1916)
+Atti Soc. Veneto-Trent. Sci. Nat. , Padova 4: 85 (1875)
 
 #### Original name
-Rhabdostroma Syd. & P. Syd.
+Apiospora Sacc.
 
 ### Remarks
 null

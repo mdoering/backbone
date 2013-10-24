@@ -1,5 +1,4 @@
-Rhizopus hallerianus Rivolta SPECIES
-=======
+# Rhizopus hallerianus Rivolta SPECIES
 
 #### Status
 ACCEPTED

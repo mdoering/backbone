@@ -1,5 +1,4 @@
-Pseudocyphellaria knightii D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria knightii D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

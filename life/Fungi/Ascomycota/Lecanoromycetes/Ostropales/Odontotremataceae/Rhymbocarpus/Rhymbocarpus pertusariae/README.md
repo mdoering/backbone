@@ -1,5 +1,4 @@
-Rhymbocarpus pertusariae Diederich, Zhurb. & Etayo SPECIES
-=======
+# Rhymbocarpus pertusariae Diederich, Zhurb. & Etayo SPECIES
 
 #### Status
 ACCEPTED

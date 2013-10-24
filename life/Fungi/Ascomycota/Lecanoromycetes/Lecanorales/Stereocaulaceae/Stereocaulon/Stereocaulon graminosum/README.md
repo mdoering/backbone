@@ -1,5 +1,4 @@
-Stereocaulon graminosum Schaer. SPECIES
-=======
+# Stereocaulon graminosum Schaer. SPECIES
 
 #### Status
 ACCEPTED

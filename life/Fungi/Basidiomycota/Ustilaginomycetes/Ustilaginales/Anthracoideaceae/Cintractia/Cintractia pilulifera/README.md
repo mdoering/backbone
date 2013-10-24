@@ -1,5 +1,4 @@
-Cintractia pilulifera L. Ling & T.L. Chen SPECIES
-=======
+# Cintractia pilulifera L. Ling & T.L. Chen SPECIES
 
 #### Status
 ACCEPTED

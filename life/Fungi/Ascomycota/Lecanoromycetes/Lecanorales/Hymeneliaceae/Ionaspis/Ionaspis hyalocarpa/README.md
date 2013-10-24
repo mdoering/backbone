@@ -1,5 +1,4 @@
-Ionaspis hyalocarpa Eitner SPECIES
-=======
+# Ionaspis hyalocarpa Eitner SPECIES
 
 #### Status
 ACCEPTED

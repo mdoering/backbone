@@ -1,17 +1,16 @@
-Aspergillus crassihyphis Wadhwani & N. Mehrotra SPECIES
-=======
+# Aspergillus crassihyphae Wadhwani & N. Mehrotra, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Indian Botanical Reporter 4(1): 52 (1985)
 
 #### Original name
-Aspergillus crassihyphis Wadhwani & N. Mehrotra
+Aspergillus crassihyphae Wadhwani & N. Mehrotra, 1985
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ditiola rickii Bres. SPECIES
-=======
+# Ditiola rickii Bres. SPECIES
 
 #### Status
 ACCEPTED

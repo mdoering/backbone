@@ -1,5 +1,4 @@
-Lecidea coreyi C.W. Dodge & G.E. Baker SPECIES
-=======
+# Lecidea coreyi C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

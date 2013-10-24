@@ -1,5 +1,4 @@
-Gyrophthorus crustulosae (Creveld) Hafellner & Sancho SPECIES
-=======
+# Gyrophthorus crustulosae (Creveld) Hafellner & Sancho SPECIES
 
 #### Status
 ACCEPTED

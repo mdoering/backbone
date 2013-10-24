@@ -1,14 +1,13 @@
-Irenopsis miconieicola (F. Stevens) F. Stevens SPECIES
-=======
+# Irenopsis miconiicola (F. Stevens) F. Stevens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 25(5/6): 436 (1927)
 
 #### Original name
 Meliola miconiicola F. Stevens

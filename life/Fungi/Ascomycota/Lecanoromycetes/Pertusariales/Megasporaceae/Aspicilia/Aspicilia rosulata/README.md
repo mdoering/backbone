@@ -1,5 +1,4 @@
-Aspicilia rosulata Körb. SPECIES
-=======
+# Aspicilia rosulata Körb. SPECIES
 
 #### Status
 ACCEPTED

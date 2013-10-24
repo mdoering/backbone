@@ -1,5 +1,4 @@
-Scolecostigmina U. Braun GENUS
-=======
+# Scolecostigmina U. Braun GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus odaiensis Hongo SPECIES
-=======
+# Boletus odaiensis Hongo SPECIES
 
 #### Status
 ACCEPTED

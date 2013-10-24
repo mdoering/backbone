@@ -1,5 +1,4 @@
-Laminariocolax eckloniae A. F. Peters SPECIES
-=======
+# Laminariocolax eckloniae A. F. Peters SPECIES
 
 #### Status
 ACCEPTED

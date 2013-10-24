@@ -1,5 +1,4 @@
-Meliola thouiniae Earle SPECIES
-=======
+# Meliola thouiniae Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biddulphia tripartita (Grunow) Van Heurck SPECIES
-=======
+# Biddulphia tripartita (Grunow) Van Heurck SPECIES
 
 #### Status
 ACCEPTED

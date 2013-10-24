@@ -1,5 +1,4 @@
-Togninia vasculosa (Sacc.) Berl. SPECIES
-=======
+# Togninia vasculosa (Sacc.) Berl. SPECIES
 
 #### Status
 ACCEPTED

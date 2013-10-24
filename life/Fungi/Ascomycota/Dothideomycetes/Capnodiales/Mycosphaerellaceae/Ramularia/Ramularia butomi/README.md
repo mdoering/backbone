@@ -1,5 +1,4 @@
-Ramularia butomi Lind SPECIES
-=======
+# Ramularia butomi Lind SPECIES
 
 #### Status
 ACCEPTED

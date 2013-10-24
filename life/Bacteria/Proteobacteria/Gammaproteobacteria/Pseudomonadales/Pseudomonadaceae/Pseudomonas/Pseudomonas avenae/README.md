@@ -1,5 +1,4 @@
-Pseudomonas avenae Manns, 1909 SPECIES
-=======
+# Pseudomonas avenae Manns, 1909 SPECIES
 
 #### Status
 ACCEPTED

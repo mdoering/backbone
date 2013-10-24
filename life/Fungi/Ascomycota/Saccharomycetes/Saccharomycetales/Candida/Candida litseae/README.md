@@ -1,17 +1,16 @@
-Candida litsaeae Kurtzman SPECIES
-=======
+# Candida litseae Kurtzman, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 79(3-4): 358 (2001)
 
 #### Original name
-Candida litsaeae Kurtzman
+Candida litseae Kurtzman, 2001
 
 ### Remarks
 null

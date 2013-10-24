@@ -1,5 +1,4 @@
-Opegrapha subimmersa Fée SPECIES
-=======
+# Opegrapha subimmersa Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polystictus pargamenus f. pargamenus FORM
-=======
+# Trichaptum biforme (Fr.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 19(3-4): 237 (1972)
 
 #### Original name
-null
+Polyporus biformis Fr., 1833
 
 ### Remarks
 null

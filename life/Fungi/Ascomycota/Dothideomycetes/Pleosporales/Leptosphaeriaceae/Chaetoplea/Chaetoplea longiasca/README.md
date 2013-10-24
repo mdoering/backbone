@@ -1,5 +1,4 @@
-Chaetoplea longiasca Z.Q. Yuan & M.E. Barr SPECIES
-=======
+# Chaetoplea longiasca Z.Q. Yuan & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

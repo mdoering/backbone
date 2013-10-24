@@ -1,14 +1,13 @@
-Dicranidion dactylopaga (Drechsler) Peek & Solheim SPECIES
-=======
+# Dicranidion dactylopagum (Drechsler) Peek & Solheim SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Peek, University of Wyoming Publ. Sci. , Bot. 19: 92 (1955)
 
 #### Original name
 Pedilospora dactylopaga Drechsler

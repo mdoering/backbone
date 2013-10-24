@@ -1,14 +1,13 @@
-Lindrothia distincta (McAlpine) Syd., 1922 SPECIES
-=======
+# Puccinia distincta McAlpine, 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 20(3): 119 (1922)
+Agric. Gaz. N. S. W. , Sydney 6: 853 (1896)
 
 #### Original name
 Puccinia distincta McAlpine, 1896

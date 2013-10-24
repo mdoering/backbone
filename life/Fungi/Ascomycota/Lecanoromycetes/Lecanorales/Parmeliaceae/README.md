@@ -1,17 +1,16 @@
-Parmelia pulla var. perrugata Harm. VARIETY
-=======
+# Parmeliaceae Zenker FAMILY
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Fr. 4: 537 (1909)
+in Goebel & Kunze, Pharmaceutische Waarenkunde (Eisenach) 124 (1827)
 
 #### Original name
-Parmelia pulla var. perrugata Harm.
+Parmeliaceae Zenker
 
 ### Remarks
 null

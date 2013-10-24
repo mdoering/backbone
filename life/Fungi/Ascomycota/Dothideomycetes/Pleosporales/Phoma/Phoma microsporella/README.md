@@ -1,5 +1,4 @@
-Phoma microsporella P. Karst. & Har. SPECIES
-=======
+# Phoma microsporella P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

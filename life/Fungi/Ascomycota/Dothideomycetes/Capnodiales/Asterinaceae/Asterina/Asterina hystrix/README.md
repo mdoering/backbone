@@ -1,5 +1,4 @@
-Asterina hystrix Pat. & Har. SPECIES
-=======
+# Asterina hystrix Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

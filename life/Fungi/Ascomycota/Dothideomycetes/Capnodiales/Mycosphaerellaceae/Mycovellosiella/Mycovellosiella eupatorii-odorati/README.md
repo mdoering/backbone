@@ -1,5 +1,4 @@
-Mycovellosiella eupatorii-odorati (J.M. Yen) J.M. Yen SPECIES
-=======
+# Mycovellosiella eupatorii-odorati (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

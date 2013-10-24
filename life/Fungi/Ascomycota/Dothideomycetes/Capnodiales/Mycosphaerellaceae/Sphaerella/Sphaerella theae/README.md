@@ -1,5 +1,4 @@
-Sphaerella theae (Hara) Sacc. SPECIES
-=======
+# Sphaerella theae (Hara) Sacc. SPECIES
 
 #### Status
 ACCEPTED

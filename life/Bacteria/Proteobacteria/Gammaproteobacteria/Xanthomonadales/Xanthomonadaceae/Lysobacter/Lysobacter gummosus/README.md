@@ -1,5 +1,4 @@
-Lysobacter gummosus Christensen and Cook, 1978 (Approved Lists, 1980) SPECIES
-=======
+# Lysobacter gummosus Christensen and Cook, 1978 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

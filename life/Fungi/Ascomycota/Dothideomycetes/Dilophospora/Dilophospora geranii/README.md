@@ -1,5 +1,4 @@
-Dilophospora geranii J. Schröt. SPECIES
-=======
+# Dilophospora geranii J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea lethariiformis var. lethariiformis VARIETY
-=======
+# Usnea lethariiformis Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea lethariiformis var. lethariiformis
+Usnea lethariiformis Motyka
 
 ### Remarks
 null

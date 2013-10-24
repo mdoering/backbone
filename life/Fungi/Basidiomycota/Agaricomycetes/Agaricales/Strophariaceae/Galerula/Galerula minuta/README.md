@@ -1,5 +1,4 @@
-Galerula minuta (Quél.) G.F. Atk. SPECIES
-=======
+# Galerula minuta (Quél.) G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

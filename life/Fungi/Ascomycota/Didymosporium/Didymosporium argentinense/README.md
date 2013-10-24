@@ -1,5 +1,4 @@
-Didymosporium argentinense Speg. SPECIES
-=======
+# Didymosporium argentinense Speg. SPECIES
 
 #### Status
 ACCEPTED

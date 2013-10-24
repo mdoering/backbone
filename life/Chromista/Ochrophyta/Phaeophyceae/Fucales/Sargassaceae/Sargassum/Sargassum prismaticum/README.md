@@ -1,5 +1,4 @@
-Sargassum prismaticum Chauhan SPECIES
-=======
+# Sargassum prismaticum Chauhan SPECIES
 
 #### Status
 ACCEPTED

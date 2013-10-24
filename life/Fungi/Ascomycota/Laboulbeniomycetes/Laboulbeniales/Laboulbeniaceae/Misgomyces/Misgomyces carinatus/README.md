@@ -1,5 +1,4 @@
-Misgomyces carinatus Thaxt. SPECIES
-=======
+# Misgomyces carinatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

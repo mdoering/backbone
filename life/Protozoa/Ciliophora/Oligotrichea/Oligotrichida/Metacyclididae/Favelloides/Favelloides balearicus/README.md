@@ -1,8 +1,7 @@
-Favelloides balearica Colom, 1939 SPECIES
-=======
+# Favelloides balearicus (Colom, 1939) Thalmann, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Collema subbadium Nyl. SPECIES
-=======
+# Collema subbadium Nyl. SPECIES
 
 #### Status
 ACCEPTED

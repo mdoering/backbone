@@ -1,5 +1,4 @@
-Fusicolla betae Bonord., 1851 SPECIES
-=======
+# Fusicolla betae Bonord., 1851 SPECIES
 
 #### Status
 ACCEPTED

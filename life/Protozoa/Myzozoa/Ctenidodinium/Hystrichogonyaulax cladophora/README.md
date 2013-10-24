@@ -1,5 +1,4 @@
-Hystrichogonyaulax cladophora (Deflandre, 1938) Stover & Evitt, 1978 SPECIES
-=======
+# Hystrichogonyaulax cladophora (Deflandre, 1938) Stover & Evitt, 1978 SPECIES
 
 #### Status
 DOUBTFUL

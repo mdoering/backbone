@@ -1,5 +1,4 @@
-Collenia C.D. Walcott, 1914 GENUS
-=======
+# Collenia C.D. Walcott, 1914 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium insulsum Arthur SPECIES
-=======
+# Aecidium insulsum Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella asphodeli E. Müll., 1959 SPECIES
-=======
+# Didymella asphodeli E. Müll., 1959 SPECIES
 
 #### Status
 ACCEPTED

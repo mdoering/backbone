@@ -1,5 +1,4 @@
-Endophragmiella ramificata Hol.-Jech. SPECIES
-=======
+# Endophragmiella ramificata Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

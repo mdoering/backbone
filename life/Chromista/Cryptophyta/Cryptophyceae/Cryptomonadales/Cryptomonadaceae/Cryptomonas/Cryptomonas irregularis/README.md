@@ -1,5 +1,4 @@
-Cryptomonas irregularis Butcher SPECIES
-=======
+# Cryptomonas irregularis Butcher SPECIES
 
 #### Status
 ACCEPTED

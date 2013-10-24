@@ -1,5 +1,4 @@
-Sphacelotheca vryburgii Zundel SPECIES
-=======
+# Sphacelotheca vryburgii Zundel SPECIES
 
 #### Status
 ACCEPTED

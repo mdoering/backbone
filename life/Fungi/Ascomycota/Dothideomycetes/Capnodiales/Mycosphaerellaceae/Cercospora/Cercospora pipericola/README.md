@@ -1,5 +1,4 @@
-Cercospora pipericola Sacc. & P. Syd. SPECIES
-=======
+# Cercospora pipericola Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

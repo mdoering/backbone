@@ -1,5 +1,4 @@
-Rectocibicides miocenicus SPECIES
-=======
+# Rectocibicides miocenicus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphidinium globosum Schröder SPECIES
-=======
+# Amphidinium globosum Schröder SPECIES
 
 #### Status
 ACCEPTED

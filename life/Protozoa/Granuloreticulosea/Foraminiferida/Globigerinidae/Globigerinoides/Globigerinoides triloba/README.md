@@ -1,5 +1,4 @@
-Globigerinoides triloba SPECIES
-=======
+# Globigerinoides triloba SPECIES
 
 #### Status
 ACCEPTED

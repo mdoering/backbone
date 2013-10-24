@@ -1,5 +1,4 @@
-Uredo jacquemontiae Henn. SPECIES
-=======
+# Uredo jacquemontiae Henn. SPECIES
 
 #### Status
 ACCEPTED

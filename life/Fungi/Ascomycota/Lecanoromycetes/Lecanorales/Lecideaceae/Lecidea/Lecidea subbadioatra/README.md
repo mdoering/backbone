@@ -1,5 +1,4 @@
-Lecidea subbadioatra C. Knight SPECIES
-=======
+# Lecidea subbadioatra C. Knight SPECIES
 
 #### Status
 ACCEPTED

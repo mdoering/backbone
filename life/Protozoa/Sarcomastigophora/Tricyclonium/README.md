@@ -1,5 +1,4 @@
-Tricyclonium Haeckel, 1887 GENUS
-=======
+# Tricyclonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

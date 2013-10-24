@@ -1,5 +1,4 @@
-Asporomyces asporus Chaborski SPECIES
-=======
+# Asporomyces asporus Chaborski SPECIES
 
 #### Status
 ACCEPTED

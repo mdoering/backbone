@@ -1,5 +1,4 @@
-Phomopsis alni-incanae Sandu SPECIES
-=======
+# Phomopsis alni-incanae Sandu SPECIES
 
 #### Status
 ACCEPTED

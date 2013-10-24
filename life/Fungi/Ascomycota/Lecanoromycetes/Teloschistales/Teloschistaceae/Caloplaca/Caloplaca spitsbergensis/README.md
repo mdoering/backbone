@@ -1,5 +1,4 @@
-Caloplaca spitsbergensis H. Magn. SPECIES
-=======
+# Caloplaca spitsbergensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

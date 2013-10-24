@@ -1,5 +1,4 @@
-Phyllachora melanoplaca (Desm.) Sacc., 1883 SPECIES
-=======
+# Phyllachora melanoplaca (Desm.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

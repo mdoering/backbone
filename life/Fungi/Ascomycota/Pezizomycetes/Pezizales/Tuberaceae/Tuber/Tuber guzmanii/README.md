@@ -1,5 +1,4 @@
-Tuber guzmanii Trappe & Cázares SPECIES
-=======
+# Tuber guzmanii Trappe & Cázares SPECIES
 
 #### Status
 ACCEPTED

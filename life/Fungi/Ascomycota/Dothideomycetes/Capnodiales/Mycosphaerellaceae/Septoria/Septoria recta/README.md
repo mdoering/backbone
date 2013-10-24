@@ -1,5 +1,4 @@
-Septoria recta Berk. & M.A. Curtis SPECIES
-=======
+# Septoria recta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

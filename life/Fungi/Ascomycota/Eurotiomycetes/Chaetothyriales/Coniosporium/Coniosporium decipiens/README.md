@@ -1,5 +1,4 @@
-Coniosporium decipiens (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Coniosporium decipiens (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria loeiensis Jariangpr. SPECIES
-=======
+# Pertusaria loeiensis Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

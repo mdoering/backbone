@@ -1,5 +1,4 @@
-Porina pallescens R. Sant., 1952 SPECIES
-=======
+# Porina pallescens R. Sant., 1952 SPECIES
 
 #### Status
 DOUBTFUL

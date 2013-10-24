@@ -1,5 +1,4 @@
-Verrucaria mamillaris Riddle SPECIES
-=======
+# Verrucaria mamillaris Riddle SPECIES
 
 #### Status
 ACCEPTED

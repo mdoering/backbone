@@ -1,17 +1,16 @@
-Cribraria piriformis var. piriformis Schrad. VARIETY
-=======
+# Cribraria piriformis Schrad., 1797 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Nov. gen. pl. (Lipsiae) 4 (1797)
 
 #### Original name
-Cribraria piriformis var. piriformis Schrad.
+Cribraria piriformis Schrad., 1797
 
 ### Remarks
 null

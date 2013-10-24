@@ -1,14 +1,13 @@
-Nawawia filiformis (Nawawi) Marvanová, 1980 SPECIES
-=======
+# Clavatospora filiformis Nawawi, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 75(2): 227 (1980)
+Trans. Br. mycol. Soc. 61(2): 390 (1973)
 
 #### Original name
 Clavatospora filiformis Nawawi, 1973

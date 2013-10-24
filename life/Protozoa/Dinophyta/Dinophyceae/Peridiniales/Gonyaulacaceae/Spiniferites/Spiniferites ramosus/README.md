@@ -1,11 +1,10 @@
-Spiniferites ramosus subsp. ramosus SUBSPECIES
-=======
+# Spiniferites ramosus (Ehrenberg) Mantell, 1854 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

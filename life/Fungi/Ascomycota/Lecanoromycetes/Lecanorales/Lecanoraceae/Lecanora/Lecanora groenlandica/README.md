@@ -1,5 +1,4 @@
-Lecanora groenlandica Lynge SPECIES
-=======
+# Lecanora groenlandica Lynge SPECIES
 
 #### Status
 ACCEPTED

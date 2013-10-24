@@ -1,5 +1,4 @@
-Cortinarius pinetorum (Fr.) Kauffman SPECIES
-=======
+# Cortinarius pinetorum (Fr.) Kauffman SPECIES
 
 #### Status
 ACCEPTED

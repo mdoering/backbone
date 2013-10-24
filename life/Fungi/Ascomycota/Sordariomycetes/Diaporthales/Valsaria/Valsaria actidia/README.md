@@ -1,5 +1,4 @@
-Valsaria actidia Berk. & Ravenel SPECIES
-=======
+# Valsaria actidia Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

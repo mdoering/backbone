@@ -1,5 +1,4 @@
-Debaryomyces oviformis Zenitani SPECIES
-=======
+# Debaryomyces oviformis Zenitani SPECIES
 
 #### Status
 ACCEPTED

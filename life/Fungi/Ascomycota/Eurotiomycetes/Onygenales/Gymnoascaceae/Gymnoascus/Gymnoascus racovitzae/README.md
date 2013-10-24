@@ -1,5 +1,4 @@
-Gymnoascus racovitzae Lagarde SPECIES
-=======
+# Gymnoascus racovitzae Lagarde SPECIES
 
 #### Status
 ACCEPTED

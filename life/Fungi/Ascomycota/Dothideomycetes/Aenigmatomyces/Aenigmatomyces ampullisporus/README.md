@@ -1,5 +1,4 @@
-Aenigmatomyces ampullisporus R.F. Castañeda & W.B. Kendr., 1994 SPECIES
-=======
+# Aenigmatomyces ampullisporus R.F. Castañeda & W.B. Kendr., 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia helenii Schwein. SPECIES
-=======
+# Puccinia helenii Schwein. SPECIES
 
 #### Status
 ACCEPTED

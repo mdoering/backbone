@@ -1,5 +1,4 @@
-Prospodium bahamense Arthur SPECIES
-=======
+# Prospodium bahamense Arthur SPECIES
 
 #### Status
 ACCEPTED

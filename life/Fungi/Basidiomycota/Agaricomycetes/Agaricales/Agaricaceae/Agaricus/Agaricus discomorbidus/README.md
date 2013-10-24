@@ -1,5 +1,4 @@
-Agaricus discomorbidus Peck SPECIES
-=======
+# Agaricus discomorbidus Peck SPECIES
 
 #### Status
 ACCEPTED

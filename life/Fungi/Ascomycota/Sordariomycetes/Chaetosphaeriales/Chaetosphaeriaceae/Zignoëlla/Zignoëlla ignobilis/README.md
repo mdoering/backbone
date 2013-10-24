@@ -1,5 +1,4 @@
-Zignoëlla ignobilis (P. Karst.) Sacc. SPECIES
-=======
+# Zignoëlla ignobilis (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

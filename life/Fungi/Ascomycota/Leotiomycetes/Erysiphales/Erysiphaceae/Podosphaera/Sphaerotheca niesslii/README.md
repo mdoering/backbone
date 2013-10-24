@@ -1,5 +1,4 @@
-Sphaerotheca niesslii Thüm. SPECIES
-=======
+# Sphaerotheca niesslii Thüm. SPECIES
 
 #### Status
 ACCEPTED

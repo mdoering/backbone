@@ -1,5 +1,4 @@
-Streptoverticillium baldaccii Farina & Locci, 1966 SPECIES
-=======
+# Streptoverticillium baldaccii Farina & Locci, 1966 SPECIES
 
 #### Status
 ACCEPTED

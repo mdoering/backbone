@@ -1,5 +1,4 @@
-Ozonium strigosum (Pers.) Link SPECIES
-=======
+# Ozonium strigosum (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

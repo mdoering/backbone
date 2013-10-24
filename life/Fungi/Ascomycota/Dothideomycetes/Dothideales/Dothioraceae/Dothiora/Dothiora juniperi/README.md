@@ -1,5 +1,4 @@
-Dothiora juniperi P. Karst. SPECIES
-=======
+# Dothiora juniperi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antrodia salmonea T.T. Chang & W.N. Chou SPECIES
-=======
+# Antrodia salmonea T.T. Chang & W.N. Chou SPECIES
 
 #### Status
 ACCEPTED

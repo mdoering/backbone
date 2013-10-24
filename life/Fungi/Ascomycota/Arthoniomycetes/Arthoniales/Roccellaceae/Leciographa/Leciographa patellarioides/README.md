@@ -1,5 +1,4 @@
-Leciographa patellarioides Feltgen SPECIES
-=======
+# Leciographa patellarioides Feltgen SPECIES
 
 #### Status
 ACCEPTED

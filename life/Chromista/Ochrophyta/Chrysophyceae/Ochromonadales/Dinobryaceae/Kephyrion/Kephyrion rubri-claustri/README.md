@@ -1,5 +1,4 @@
-Kephyrion rubri-claustri Conrad SPECIES
-=======
+# Kephyrion rubri-claustri Conrad SPECIES
 
 #### Status
 ACCEPTED

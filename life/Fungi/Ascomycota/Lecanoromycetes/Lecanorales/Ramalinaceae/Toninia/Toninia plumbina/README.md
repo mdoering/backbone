@@ -1,14 +1,13 @@
-Bilimbia plumbina (Anzi) H. Olivier SPECIES
-=======
+# Toninia plumbina (Anzi) Hafellner & Timdal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Timdal, Op. bot. 110: 85 (1991)
 
 #### Original name
 Leciographa plumbina Anzi

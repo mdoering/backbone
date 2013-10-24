@@ -1,17 +1,16 @@
-Cunninghamella echinulata var. indica Baijal & B.S. Mehrotra VARIETY
-=======
+# Cunninghamella echinulata (Thaxt.) Thaxt. ex Blakeslee, 1905 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 33: 6 (1980)
+Bot. Gaz. 40: 161 (1905)
 
 #### Original name
-Cunninghamella echinulata var. indica Baijal & B.S. Mehrotra
+Oedocephalum echinulatum Thaxt., 1891
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia peucedani-austriaci Mayor ex Gäum. SPECIES
-=======
+# Puccinia peucedani-austriaci Mayor ex Gäum. SPECIES
 
 #### Status
 ACCEPTED

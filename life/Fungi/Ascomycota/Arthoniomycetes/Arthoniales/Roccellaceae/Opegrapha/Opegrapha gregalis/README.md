@@ -1,5 +1,4 @@
-Opegrapha gregalis Vain. SPECIES
-=======
+# Opegrapha gregalis Vain. SPECIES
 
 #### Status
 ACCEPTED

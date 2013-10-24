@@ -1,5 +1,4 @@
-Patinella viridis (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Patinella viridis (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

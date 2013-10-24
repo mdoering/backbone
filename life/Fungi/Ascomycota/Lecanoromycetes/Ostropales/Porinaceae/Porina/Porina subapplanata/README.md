@@ -1,5 +1,4 @@
-Porina subapplanata Malcolm, Vezda, P. M. McCarthy & Kantvilas SPECIES
-=======
+# Porina subapplanata Malcolm, Vezda, P. M. McCarthy & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

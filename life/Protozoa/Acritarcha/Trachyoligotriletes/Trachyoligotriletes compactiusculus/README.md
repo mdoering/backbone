@@ -1,5 +1,4 @@
-Trachyoligotriletes compactiusculus Timofeev in Rudavskaya & Timofeev SPECIES
-=======
+# Trachyoligotriletes compactiusculus Timofeev in Rudavskaya & Timofeev SPECIES
 
 #### Status
 ACCEPTED

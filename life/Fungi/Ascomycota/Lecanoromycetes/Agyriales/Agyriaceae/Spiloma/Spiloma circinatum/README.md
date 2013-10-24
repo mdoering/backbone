@@ -1,5 +1,4 @@
-Spiloma circinatum SPECIES
-=======
+# Spiloma circinatum SPECIES
 
 #### Status
 ACCEPTED

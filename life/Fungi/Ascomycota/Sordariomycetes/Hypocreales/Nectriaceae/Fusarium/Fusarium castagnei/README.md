@@ -1,5 +1,4 @@
-Fusarium castagnei Mont. SPECIES
-=======
+# Fusarium castagnei Mont. SPECIES
 
 #### Status
 ACCEPTED

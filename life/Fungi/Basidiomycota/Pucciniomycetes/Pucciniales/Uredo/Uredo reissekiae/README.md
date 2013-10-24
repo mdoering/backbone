@@ -1,5 +1,4 @@
-Uredo reissekiae Syd. & P. Syd. SPECIES
-=======
+# Uredo reissekiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

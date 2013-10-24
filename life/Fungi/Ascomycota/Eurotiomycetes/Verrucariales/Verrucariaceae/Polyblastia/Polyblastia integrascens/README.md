@@ -1,5 +1,4 @@
-Polyblastia integrascens (Nyl.) Vain. SPECIES
-=======
+# Polyblastia integrascens (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

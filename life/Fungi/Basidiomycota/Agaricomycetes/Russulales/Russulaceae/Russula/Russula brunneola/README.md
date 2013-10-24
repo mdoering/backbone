@@ -1,5 +1,4 @@
-Russula brunneola Burl. SPECIES
-=======
+# Russula brunneola Burl. SPECIES
 
 #### Status
 ACCEPTED

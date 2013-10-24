@@ -1,5 +1,4 @@
-Puccinia cressae Lagerh. SPECIES
-=======
+# Puccinia cressae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

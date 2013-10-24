@@ -1,5 +1,4 @@
-Septoria prangi Teterevn. SPECIES
-=======
+# Septoria prangi Teterevn. SPECIES
 
 #### Status
 ACCEPTED

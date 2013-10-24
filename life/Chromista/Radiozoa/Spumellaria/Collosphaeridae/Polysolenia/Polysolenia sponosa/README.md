@@ -1,5 +1,4 @@
-Polysolenia sponosa Haeckel SPECIES
-=======
+# Polysolenia sponosa Haeckel SPECIES
 
 #### Status
 ACCEPTED

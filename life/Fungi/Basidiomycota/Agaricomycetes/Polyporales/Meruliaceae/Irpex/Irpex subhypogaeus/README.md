@@ -1,5 +1,4 @@
-Irpex subhypogaeus Rick SPECIES
-=======
+# Irpex subhypogaeus Rick SPECIES
 
 #### Status
 ACCEPTED

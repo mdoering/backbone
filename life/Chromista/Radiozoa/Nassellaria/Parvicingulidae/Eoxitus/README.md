@@ -1,5 +1,4 @@
-Eoxitus Kozur, 1985 GENUS
-=======
+# Eoxitus Kozur, 1985 GENUS
 
 #### Status
 ACCEPTED

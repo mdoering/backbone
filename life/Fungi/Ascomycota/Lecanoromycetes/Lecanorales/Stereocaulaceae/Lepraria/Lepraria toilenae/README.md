@@ -1,5 +1,4 @@
-Lepraria toilenae Kantvilas & Kukwa SPECIES
-=======
+# Lepraria toilenae Kantvilas & Kukwa SPECIES
 
 #### Status
 ACCEPTED

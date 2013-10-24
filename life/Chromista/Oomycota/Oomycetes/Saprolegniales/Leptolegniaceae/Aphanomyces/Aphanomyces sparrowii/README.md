@@ -1,5 +1,4 @@
-Aphanomyces sparrowii Cutter SPECIES
-=======
+# Aphanomyces sparrowii Cutter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemphylium dubium (Corda) Bonord. SPECIES
-=======
+# Stemphylium dubium (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

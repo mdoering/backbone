@@ -1,5 +1,4 @@
-Spilonemopsis scotica (Nyl.) Vain. SPECIES
-=======
+# Spilonemopsis scotica (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

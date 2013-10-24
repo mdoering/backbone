@@ -1,5 +1,4 @@
-Rhodotorula javanica (Ruinen) Arx & Weijman, 1980 SPECIES
-=======
+# Rhodotorula javanica (Ruinen) Arx & Weijman, 1980 SPECIES
 
 #### Status
 ACCEPTED

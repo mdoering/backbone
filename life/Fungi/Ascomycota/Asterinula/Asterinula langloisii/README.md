@@ -1,5 +1,4 @@
-Asterinula langloisii Ellis & Everh. SPECIES
-=======
+# Asterinula langloisii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

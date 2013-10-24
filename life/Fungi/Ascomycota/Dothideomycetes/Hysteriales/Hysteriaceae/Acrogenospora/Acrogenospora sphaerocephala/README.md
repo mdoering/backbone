@@ -1,14 +1,13 @@
-Monotospora sphaerocephala Berk. & Broome, 1859 SPECIES
-=======
+# Acrogenospora sphaerocephala (Berk. & Broome) M.B. Ellis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 3: 361 (1859)
+Dematiaceous Hyphomycetes (Kew) 114 (1971)
 
 #### Original name
 Monotospora sphaerocephala Berk. & Broome, 1859

@@ -1,5 +1,4 @@
-Amanita alliacea (Murrill) Murrill SPECIES
-=======
+# Amanita alliacea (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

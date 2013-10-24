@@ -1,5 +1,4 @@
-Clypeolum Gourret & Roeser, 1888 GENUS
-=======
+# Clypeolum Gourret & Roeser, 1888 GENUS
 
 #### Status
 ACCEPTED

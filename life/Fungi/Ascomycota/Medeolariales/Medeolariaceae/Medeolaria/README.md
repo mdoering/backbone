@@ -1,5 +1,4 @@
-Medeolaria Thaxt. GENUS
-=======
+# Medeolaria Thaxt. GENUS
 
 #### Status
 ACCEPTED

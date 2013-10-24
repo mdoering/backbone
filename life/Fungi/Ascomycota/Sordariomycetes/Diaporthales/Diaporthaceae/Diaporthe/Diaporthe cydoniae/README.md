@@ -1,5 +1,4 @@
-Diaporthe cydoniae Pass. SPECIES
-=======
+# Diaporthe cydoniae Pass. SPECIES
 
 #### Status
 ACCEPTED

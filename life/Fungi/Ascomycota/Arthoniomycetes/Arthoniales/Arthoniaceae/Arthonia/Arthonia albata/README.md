@@ -1,5 +1,4 @@
-Arthonia albata Nyl. SPECIES
-=======
+# Arthonia albata Nyl. SPECIES
 
 #### Status
 ACCEPTED

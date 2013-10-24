@@ -1,5 +1,4 @@
-Lecanora allorhiza Nyl. SPECIES
-=======
+# Lecanora allorhiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

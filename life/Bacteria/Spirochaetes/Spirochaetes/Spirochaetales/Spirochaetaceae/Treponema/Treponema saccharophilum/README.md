@@ -1,5 +1,4 @@
-Treponema saccharophilum Paster & Canale-Parola, 1986 SPECIES
-=======
+# Treponema saccharophilum Paster & Canale-Parola, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius rickenii Rob. Henry ex Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius rickenii Rob. Henry ex Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

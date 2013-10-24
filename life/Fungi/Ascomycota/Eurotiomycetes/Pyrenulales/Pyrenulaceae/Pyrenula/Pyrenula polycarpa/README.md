@@ -1,5 +1,4 @@
-Pyrenula polycarpa (Körb.) Hepp SPECIES
-=======
+# Pyrenula polycarpa (Körb.) Hepp SPECIES
 
 #### Status
 ACCEPTED

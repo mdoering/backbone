@@ -1,5 +1,4 @@
-Domasia elongata Downie, 1960 SPECIES
-=======
+# Domasia elongata Downie, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombidium meganucleatum Dragesco & Dragesco-Kernéis, 1986 SPECIES
-=======
+# Strombidium meganucleatum Dragesco & Dragesco-Kernéis, 1986 SPECIES
 
 #### Status
 ACCEPTED

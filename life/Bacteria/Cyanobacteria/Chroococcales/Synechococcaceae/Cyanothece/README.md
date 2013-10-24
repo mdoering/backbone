@@ -1,5 +1,4 @@
-Cyanothece Komárek, 1976 GENUS
-=======
+# Cyanothece Komárek, 1976 GENUS
 
 #### Status
 ACCEPTED

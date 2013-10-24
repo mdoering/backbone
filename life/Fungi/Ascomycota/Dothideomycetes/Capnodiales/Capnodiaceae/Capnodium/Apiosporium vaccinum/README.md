@@ -1,5 +1,4 @@
-Apiosporium vaccinum Pass. SPECIES
-=======
+# Apiosporium vaccinum Pass. SPECIES
 
 #### Status
 ACCEPTED

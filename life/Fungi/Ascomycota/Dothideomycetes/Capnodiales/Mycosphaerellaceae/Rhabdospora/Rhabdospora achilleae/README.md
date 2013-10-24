@@ -1,5 +1,4 @@
-Rhabdospora achilleae Bres. SPECIES
-=======
+# Rhabdospora achilleae Bres. SPECIES
 
 #### Status
 ACCEPTED

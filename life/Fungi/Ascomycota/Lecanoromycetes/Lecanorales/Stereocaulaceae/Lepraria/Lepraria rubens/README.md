@@ -1,5 +1,4 @@
-Lepraria rubens Ach. SPECIES
-=======
+# Lepraria rubens Ach. SPECIES
 
 #### Status
 ACCEPTED

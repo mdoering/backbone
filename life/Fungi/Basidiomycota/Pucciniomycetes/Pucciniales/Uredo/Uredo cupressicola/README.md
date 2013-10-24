@@ -1,5 +1,4 @@
-Uredo cupressicola R.S. Peterson SPECIES
-=======
+# Uredo cupressicola R.S. Peterson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis gmelinae Sankaran, Florence & J.K. Sharma SPECIES
-=======
+# Phomopsis gmelinae Sankaran, Florence & J.K. Sharma SPECIES
 
 #### Status
 ACCEPTED

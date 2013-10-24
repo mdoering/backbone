@@ -1,5 +1,4 @@
-Aphanostigme vanderystii Hansf. SPECIES
-=======
+# Aphanostigme vanderystii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discocelis saleuta Vørs SPECIES
-=======
+# Discocelis saleuta Vørs SPECIES
 
 #### Status
 ACCEPTED

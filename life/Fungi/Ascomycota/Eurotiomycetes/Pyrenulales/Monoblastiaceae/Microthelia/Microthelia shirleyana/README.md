@@ -1,5 +1,4 @@
-Microthelia shirleyana Müll. Arg. SPECIES
-=======
+# Microthelia shirleyana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

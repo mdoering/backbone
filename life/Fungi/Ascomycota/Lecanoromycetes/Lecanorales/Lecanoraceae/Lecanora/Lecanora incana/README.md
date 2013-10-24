@@ -1,5 +1,4 @@
-Lecanora incana Motyka SPECIES
-=======
+# Lecanora incana Motyka SPECIES
 
 #### Status
 ACCEPTED

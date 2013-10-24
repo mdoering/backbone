@@ -1,17 +1,16 @@
-Junghuhnia rhinocephala (Berk.) Ryvarden, 1984 SPECIES
-=======
+# Metuloidea tawa (G. Cunn.) G. Cunn., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 20(2): 353 (1984)
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 164: 250 (1965)
 
 #### Original name
-Polyporus rhinocephalus Berk., 1860
+Trametes tawa G. Cunn., 1948
 
 ### Remarks
 null

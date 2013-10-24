@@ -1,5 +1,4 @@
-Pseudocercospora adinandrae Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora adinandrae Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

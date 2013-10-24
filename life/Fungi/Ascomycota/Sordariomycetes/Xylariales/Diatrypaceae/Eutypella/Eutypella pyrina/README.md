@@ -1,5 +1,4 @@
-Eutypella pyrina Sacc. & Flageolet SPECIES
-=======
+# Eutypella pyrina Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

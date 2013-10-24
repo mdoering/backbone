@@ -1,5 +1,4 @@
-Cortinarius muricinoides Reumaux & Moënne-Locc. SPECIES
-=======
+# Cortinarius muricinoides Reumaux & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

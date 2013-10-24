@@ -1,5 +1,4 @@
-Lebetimonas Takai, Hirayama, Nakagawa, Suzuki, Nealson & Horikoshi, 2005 GENUS
-=======
+# Lebetimonas Takai, Hirayama, Nakagawa, Suzuki, Nealson & Horikoshi, 2005 GENUS
 
 #### Status
 ACCEPTED

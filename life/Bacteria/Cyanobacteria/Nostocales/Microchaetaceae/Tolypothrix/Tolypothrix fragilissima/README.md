@@ -1,5 +1,4 @@
-Tolypothrix fragilissima Ercegovic SPECIES
-=======
+# Tolypothrix fragilissima Ercegovic SPECIES
 
 #### Status
 ACCEPTED

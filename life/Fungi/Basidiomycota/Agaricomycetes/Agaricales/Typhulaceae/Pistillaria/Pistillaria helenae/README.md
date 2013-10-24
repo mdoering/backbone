@@ -1,5 +1,4 @@
-Pistillaria helenae Pat. SPECIES
-=======
+# Pistillaria helenae Pat. SPECIES
 
 #### Status
 ACCEPTED

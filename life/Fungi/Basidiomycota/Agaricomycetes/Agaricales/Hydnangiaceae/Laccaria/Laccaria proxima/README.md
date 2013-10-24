@@ -1,17 +1,16 @@
-Laccaria proxima var. proxima (Boud.) Pat. VARIETY
-=======
+# Laccaria proxima (Boud.) Pat., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hyménomyc. Eur. (Paris) 97 (1887)
 
 #### Original name
-Laccaria proxima var. proxima (Boud.) Pat.
+Clitocybe proxima Boud., 1881
 
 ### Remarks
 null

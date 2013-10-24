@@ -1,5 +1,4 @@
-Allomyces anomalus R. Emers. SPECIES
-=======
+# Allomyces anomalus R. Emers. SPECIES
 
 #### Status
 ACCEPTED

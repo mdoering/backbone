@@ -1,14 +1,13 @@
-Dictyocorine Certes, 1889 GENUS
-=======
+# Dictyocoryne Ehrenberg, 1860 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Miss. Cap Horn, 6 (3), Protoz. , 40.
+MonatsBer. Akad. Wiss. Berlin, 1860, 830.
 
 #### Original name
 null

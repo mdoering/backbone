@@ -1,5 +1,4 @@
-Crystallocystidium vorticosum Rick, 1940 SPECIES
-=======
+# Crystallocystidium vorticosum Rick, 1940 SPECIES
 
 #### Status
 ACCEPTED

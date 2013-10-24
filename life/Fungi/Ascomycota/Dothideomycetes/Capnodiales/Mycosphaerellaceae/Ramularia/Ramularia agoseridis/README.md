@@ -1,5 +1,4 @@
-Ramularia agoseridis Ellis & Everh. SPECIES
-=======
+# Ramularia agoseridis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromphalus centraster C. Johnston SPECIES
-=======
+# Asteromphalus centraster C. Johnston SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria pterospermi Sawada SPECIES
-=======
+# Nectria pterospermi Sawada SPECIES
 
 #### Status
 ACCEPTED

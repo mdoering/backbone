@@ -1,5 +1,4 @@
-Aphanomyces gordejevi Skvortsov SPECIES
-=======
+# Aphanomyces gordejevi Skvortsov SPECIES
 
 #### Status
 ACCEPTED

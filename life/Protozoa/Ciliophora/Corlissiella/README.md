@@ -1,5 +1,4 @@
-Corlissiella Puytorac, 1960 GENUS
-=======
+# Corlissiella Puytorac, 1960 GENUS
 
 #### Status
 ACCEPTED

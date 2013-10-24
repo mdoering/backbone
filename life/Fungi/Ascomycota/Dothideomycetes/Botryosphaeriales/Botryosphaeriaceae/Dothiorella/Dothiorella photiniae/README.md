@@ -1,5 +1,4 @@
-Dothiorella photiniae Curzi & Barbaini SPECIES
-=======
+# Dothiorella photiniae Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

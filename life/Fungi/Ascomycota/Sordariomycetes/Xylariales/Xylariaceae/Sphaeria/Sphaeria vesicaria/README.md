@@ -1,5 +1,4 @@
-Sphaeria vesicaria Fr. SPECIES
-=======
+# Sphaeria vesicaria Fr. SPECIES
 
 #### Status
 ACCEPTED

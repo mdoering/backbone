@@ -1,5 +1,4 @@
-Aecidium permultum Syd. & P. Syd. SPECIES
-=======
+# Aecidium permultum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

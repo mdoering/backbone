@@ -1,5 +1,4 @@
-Myriotrema coppinsii Homchant. SPECIES
-=======
+# Myriotrema coppinsii Homchant. SPECIES
 
 #### Status
 ACCEPTED

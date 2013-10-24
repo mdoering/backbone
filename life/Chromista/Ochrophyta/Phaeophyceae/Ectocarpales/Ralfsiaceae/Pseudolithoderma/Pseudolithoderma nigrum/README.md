@@ -1,5 +1,4 @@
-Pseudolithoderma nigrum Hollenberg, 1969 SPECIES
-=======
+# Pseudolithoderma nigrum Hollenberg, 1969 SPECIES
 
 #### Status
 ACCEPTED

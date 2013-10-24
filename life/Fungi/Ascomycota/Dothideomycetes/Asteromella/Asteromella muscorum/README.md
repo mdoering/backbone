@@ -1,5 +1,4 @@
-Asteromella muscorum (Rostr.) Moesz SPECIES
-=======
+# Asteromella muscorum (Rostr.) Moesz SPECIES
 
 #### Status
 ACCEPTED

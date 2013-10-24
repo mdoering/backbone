@@ -1,5 +1,4 @@
-Uromyces bosseri Vienn.-Bourg. SPECIES
-=======
+# Uromyces bosseri Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

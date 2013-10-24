@@ -1,5 +1,4 @@
-Drechslerella inquisitor (Jarow.) M. Scholler, Hagedorn & A. Rubner SPECIES
-=======
+# Drechslerella inquisitor (Jarow.) M. Scholler, Hagedorn & A. Rubner SPECIES
 
 #### Status
 ACCEPTED

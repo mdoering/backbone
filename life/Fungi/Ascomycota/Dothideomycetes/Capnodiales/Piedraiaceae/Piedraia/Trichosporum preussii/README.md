@@ -1,5 +1,4 @@
-Trichosporum preussii Sacc. SPECIES
-=======
+# Trichosporum preussii Sacc. SPECIES
 
 #### Status
 ACCEPTED

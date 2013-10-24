@@ -1,5 +1,4 @@
-Helotium tenerrimum Fr. SPECIES
-=======
+# Helotium tenerrimum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium bukovicae Servít SPECIES
-=======
+# Thelidium bukovicae Servít SPECIES
 
 #### Status
 ACCEPTED

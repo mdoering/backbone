@@ -1,5 +1,4 @@
-Hebelomatis album (Peck) Locq. SPECIES
-=======
+# Hebelomatis album (Peck) Locq. SPECIES
 
 #### Status
 ACCEPTED

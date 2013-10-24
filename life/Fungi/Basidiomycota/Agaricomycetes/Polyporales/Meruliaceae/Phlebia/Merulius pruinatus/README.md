@@ -1,5 +1,4 @@
-Merulius pruinatus Rauschert SPECIES
-=======
+# Merulius pruinatus Rauschert SPECIES
 
 #### Status
 ACCEPTED

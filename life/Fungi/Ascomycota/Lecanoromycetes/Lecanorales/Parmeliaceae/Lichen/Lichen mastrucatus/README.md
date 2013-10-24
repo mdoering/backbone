@@ -1,5 +1,4 @@
-Lichen mastrucatus Wahlenb. SPECIES
-=======
+# Lichen mastrucatus Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

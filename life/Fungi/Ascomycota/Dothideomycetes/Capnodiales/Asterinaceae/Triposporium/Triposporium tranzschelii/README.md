@@ -1,5 +1,4 @@
-Triposporium tranzschelii Girz. SPECIES
-=======
+# Triposporium tranzschelii Girz. SPECIES
 
 #### Status
 ACCEPTED

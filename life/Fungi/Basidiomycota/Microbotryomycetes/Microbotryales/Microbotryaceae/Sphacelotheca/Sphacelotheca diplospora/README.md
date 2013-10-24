@@ -1,5 +1,4 @@
-Sphacelotheca diplospora (Ellis & Everh.) Clinton SPECIES
-=======
+# Sphacelotheca diplospora (Ellis & Everh.) Clinton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geastrum javanicum var. welwitschii (Mont.) P. Ponce de León VARIETY
-=======
+# Geastrum javanicum Lév. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geastrum welwitschii Mont.
+Geastrum javanicum Lév.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhizocarpon adarense (Darb.) I.M. Lamb SPECIES
-=======
+# Rhizocarpon adarense (Darb.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

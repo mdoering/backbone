@@ -1,5 +1,4 @@
-Phyllosticta alternantherae Bat. SPECIES
-=======
+# Phyllosticta alternantherae Bat. SPECIES
 
 #### Status
 ACCEPTED

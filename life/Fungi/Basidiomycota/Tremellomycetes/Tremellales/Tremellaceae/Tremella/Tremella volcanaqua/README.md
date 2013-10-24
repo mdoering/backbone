@@ -1,5 +1,4 @@
-Tremella volcanaqua Lowy SPECIES
-=======
+# Tremella volcanaqua Lowy SPECIES
 
 #### Status
 ACCEPTED

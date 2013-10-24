@@ -1,5 +1,4 @@
-Wiesnerina Wynn Jones, 1984 GENUS
-=======
+# Wiesnerina Wynn Jones, 1984 GENUS
 
 #### Status
 ACCEPTED

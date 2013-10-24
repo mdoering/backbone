@@ -1,5 +1,4 @@
-Lasiodiscus Reichel, 1945 GENUS
-=======
+# Lasiodiscus Reichel, 1945 GENUS
 
 #### Status
 ACCEPTED

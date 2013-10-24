@@ -1,17 +1,16 @@
-Pseudosigmolina Zheng, 1979 GENUS
-=======
+# Mesosigmoilina Zheng, 1981 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Journal Paleont. 55 (2): 483.
 
 #### Original name
-null
+Pseudosigmolina Zheng, 1979
 
 ### Remarks
 null

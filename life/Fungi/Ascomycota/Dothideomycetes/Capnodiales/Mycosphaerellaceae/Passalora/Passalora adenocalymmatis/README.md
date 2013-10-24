@@ -1,5 +1,4 @@
-Passalora adenocalymmatis U. Braun & Crous SPECIES
-=======
+# Passalora adenocalymmatis U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

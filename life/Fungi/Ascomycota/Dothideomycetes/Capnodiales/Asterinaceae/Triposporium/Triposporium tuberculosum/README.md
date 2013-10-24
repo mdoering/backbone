@@ -1,5 +1,4 @@
-Triposporium tuberculosum ined. SPECIES
-=======
+# Triposporium tuberculosum ined. SPECIES
 
 #### Status
 ACCEPTED

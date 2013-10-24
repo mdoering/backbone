@@ -1,5 +1,4 @@
-Lecidea pachydermatica Lynge SPECIES
-=======
+# Lecidea pachydermatica Lynge SPECIES
 
 #### Status
 ACCEPTED

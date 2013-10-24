@@ -1,5 +1,4 @@
-Verticillium hemileiae Bouriquet SPECIES
-=======
+# Verticillium hemileiae Bouriquet SPECIES
 
 #### Status
 ACCEPTED

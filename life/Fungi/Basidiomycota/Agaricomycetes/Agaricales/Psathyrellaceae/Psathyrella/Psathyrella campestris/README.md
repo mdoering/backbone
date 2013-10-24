@@ -1,5 +1,4 @@
-Psathyrella campestris (Earle) A.H. Sm. SPECIES
-=======
+# Psathyrella campestris (Earle) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

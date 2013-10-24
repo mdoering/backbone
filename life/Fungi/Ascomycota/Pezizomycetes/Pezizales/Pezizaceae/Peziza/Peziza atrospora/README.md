@@ -1,5 +1,4 @@
-Peziza atrospora Fuckel SPECIES
-=======
+# Peziza atrospora Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agarico-igniarium album Paulet SPECIES
-=======
+# Agarico-igniarium album Paulet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermococcus profundus Kobayashi & Horikoshi, 1995 SPECIES
-=======
+# Thermococcus profundus Kobayashi & Horikoshi, 1995 SPECIES
 
 #### Status
 ACCEPTED

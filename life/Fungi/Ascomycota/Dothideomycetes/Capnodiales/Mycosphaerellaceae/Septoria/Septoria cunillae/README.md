@@ -1,5 +1,4 @@
-Septoria cunillae Tehon SPECIES
-=======
+# Septoria cunillae Tehon SPECIES
 
 #### Status
 ACCEPTED

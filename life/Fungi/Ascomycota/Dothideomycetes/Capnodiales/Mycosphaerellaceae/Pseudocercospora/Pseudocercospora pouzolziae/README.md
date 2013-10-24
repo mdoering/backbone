@@ -1,5 +1,4 @@
-Pseudocercospora pouzolziae (Syd.) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora pouzolziae (Syd.) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

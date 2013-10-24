@@ -1,5 +1,4 @@
-Hymenoscyphus albidoroseus (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus albidoroseus (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

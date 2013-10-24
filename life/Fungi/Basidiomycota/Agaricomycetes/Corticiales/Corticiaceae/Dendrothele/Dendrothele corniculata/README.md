@@ -1,14 +1,13 @@
-Corticium corniculatum G. Cunn., 1954 SPECIES
-=======
+# Dendrothele corniculata (G. Cunn.) Stalpers, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 82: 317 (1954)
+N. Z. Jl Bot. 23(2): 304 (1985)
 
 #### Original name
 Corticium corniculatum G. Cunn., 1954

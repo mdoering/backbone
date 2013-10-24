@@ -1,5 +1,4 @@
-Passalora cecropiae F. Stevens SPECIES
-=======
+# Passalora cecropiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

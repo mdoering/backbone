@@ -1,5 +1,4 @@
-Sphaerostylidium ampullaceum A. Braun ex Sorokin SPECIES
-=======
+# Sphaerostylidium ampullaceum A. Braun ex Sorokin SPECIES
 
 #### Status
 ACCEPTED

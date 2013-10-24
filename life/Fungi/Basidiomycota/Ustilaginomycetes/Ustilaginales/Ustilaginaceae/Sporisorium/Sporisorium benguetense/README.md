@@ -1,14 +1,13 @@
-Sporisorium benguetensis (Zundel) L. Guo SPECIES
-=======
+# Sporisorium benguetense (Zundel) L. Guo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycosystema 3: 76 (1990)
 
 #### Original name
 Sphacelotheca benguetensis Zundel

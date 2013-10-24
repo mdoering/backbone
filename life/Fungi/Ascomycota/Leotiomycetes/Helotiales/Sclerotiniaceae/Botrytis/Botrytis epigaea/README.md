@@ -1,5 +1,4 @@
-Botrytis epigaea var. epigaea VARIETY
-=======
+# Botrytis epigaea Link SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Botrytis epigaea var. epigaea
+Botrytis epigaea Link
 
 ### Remarks
 null

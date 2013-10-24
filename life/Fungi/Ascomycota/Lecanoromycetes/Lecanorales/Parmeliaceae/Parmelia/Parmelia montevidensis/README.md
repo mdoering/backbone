@@ -1,5 +1,4 @@
-Parmelia montevidensis Müll. Arg. SPECIES
-=======
+# Parmelia montevidensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

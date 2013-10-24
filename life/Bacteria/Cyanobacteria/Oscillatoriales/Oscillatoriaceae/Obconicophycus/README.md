@@ -1,5 +1,4 @@
-Obconicophycus J.W. Schopf & J.M. Blacic, 1971 GENUS
-=======
+# Obconicophycus J.W. Schopf & J.M. Blacic, 1971 GENUS
 
 #### Status
 ACCEPTED

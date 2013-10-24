@@ -1,5 +1,4 @@
-Phacus gregusii Hortobagy SPECIES
-=======
+# Phacus gregusii Hortobagy SPECIES
 
 #### Status
 ACCEPTED

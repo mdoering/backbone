@@ -1,5 +1,4 @@
-Solenophaera GENUS
-=======
+# Solenophaera GENUS
 
 #### Status
 ACCEPTED

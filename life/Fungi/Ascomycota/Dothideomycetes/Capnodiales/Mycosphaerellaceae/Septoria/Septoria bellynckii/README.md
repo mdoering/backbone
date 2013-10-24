@@ -1,5 +1,4 @@
-Septoria bellynckii Westend. SPECIES
-=======
+# Septoria bellynckii Westend. SPECIES
 
 #### Status
 ACCEPTED

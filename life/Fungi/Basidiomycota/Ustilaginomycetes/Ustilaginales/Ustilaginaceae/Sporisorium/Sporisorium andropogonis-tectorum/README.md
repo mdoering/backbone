@@ -1,5 +1,4 @@
-Sporisorium andropogonis-tectorum (L. Ling) Vánky SPECIES
-=======
+# Sporisorium andropogonis-tectorum (L. Ling) Vánky SPECIES
 
 #### Status
 ACCEPTED

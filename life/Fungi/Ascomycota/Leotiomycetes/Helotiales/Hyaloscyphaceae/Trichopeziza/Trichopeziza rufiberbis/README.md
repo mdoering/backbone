@@ -1,5 +1,4 @@
-Trichopeziza rufiberbis (Schwein.) Sacc. SPECIES
-=======
+# Trichopeziza rufiberbis (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

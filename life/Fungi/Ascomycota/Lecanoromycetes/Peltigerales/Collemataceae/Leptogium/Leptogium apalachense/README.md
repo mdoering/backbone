@@ -1,5 +1,4 @@
-Leptogium apalachense (Tuck.) Nyl. SPECIES
-=======
+# Leptogium apalachense (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

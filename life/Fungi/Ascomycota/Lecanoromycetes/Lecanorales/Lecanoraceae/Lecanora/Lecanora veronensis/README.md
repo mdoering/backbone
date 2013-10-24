@@ -1,5 +1,4 @@
-Lecanora veronensis (Anzi) Stizenb. SPECIES
-=======
+# Lecanora veronensis (Anzi) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia rufata (Stizenb.) Zahlbr. SPECIES
-=======
+# Bacidia rufata (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asketopalla Loeblich, Jr. & Tappan GENUS
-=======
+# Asketopalla Loeblich, Jr. & Tappan GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium ornatissimum Ellis & Barthol. SPECIES
-=======
+# Macrosporium ornatissimum Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

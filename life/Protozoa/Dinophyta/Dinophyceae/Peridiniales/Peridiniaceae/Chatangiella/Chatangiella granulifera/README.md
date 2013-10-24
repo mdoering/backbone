@@ -1,5 +1,4 @@
-Chatangiella granulifera (Manum, 1963) Lentin & Williams, 1976 SPECIES
-=======
+# Chatangiella granulifera (Manum, 1963) Lentin & Williams, 1976 SPECIES
 
 #### Status
 ACCEPTED

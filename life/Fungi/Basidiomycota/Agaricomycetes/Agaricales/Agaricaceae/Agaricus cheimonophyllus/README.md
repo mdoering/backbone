@@ -1,5 +1,4 @@
-Agaricus cheimonophyllus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus cheimonophyllus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

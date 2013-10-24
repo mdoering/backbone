@@ -1,5 +1,4 @@
-Parmulariella Henn. GENUS
-=======
+# Parmulariella Henn. GENUS
 
 #### Status
 ACCEPTED

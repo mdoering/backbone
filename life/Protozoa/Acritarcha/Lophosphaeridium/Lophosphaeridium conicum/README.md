@@ -1,5 +1,4 @@
-Lophosphaeridium conicum Palacios in Palacios & Moczydlowska, 1998 SPECIES
-=======
+# Lophosphaeridium conicum Palacios in Palacios & Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

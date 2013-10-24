@@ -1,5 +1,4 @@
-Conostroma canariense Urries SPECIES
-=======
+# Conostroma canariense Urries SPECIES
 
 #### Status
 ACCEPTED

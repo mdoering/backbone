@@ -1,5 +1,4 @@
-Pseudochromulina Doflein, 1921 GENUS
-=======
+# Pseudochromulina Doflein, 1921 GENUS
 
 #### Status
 SYNONYM

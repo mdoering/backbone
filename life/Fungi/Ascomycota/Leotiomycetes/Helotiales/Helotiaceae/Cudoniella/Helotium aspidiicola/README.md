@@ -1,5 +1,4 @@
-Helotium aspidiicola Rehm SPECIES
-=======
+# Helotium aspidiicola Rehm SPECIES
 
 #### Status
 ACCEPTED

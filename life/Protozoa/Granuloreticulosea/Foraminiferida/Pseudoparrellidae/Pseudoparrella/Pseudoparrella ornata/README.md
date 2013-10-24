@@ -1,5 +1,4 @@
-Pseudoparrella ornata Hofker, 1956 SPECIES
-=======
+# Pseudoparrella ornata Hofker, 1956 SPECIES
 
 #### Status
 ACCEPTED

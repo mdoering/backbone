@@ -1,5 +1,4 @@
-Ectocarpus balakrishnanii V. Krishnamurthy SPECIES
-=======
+# Ectocarpus balakrishnanii V. Krishnamurthy SPECIES
 
 #### Status
 ACCEPTED

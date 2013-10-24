@@ -1,5 +1,4 @@
-Lecanora plittii Zahlbr. SPECIES
-=======
+# Lecanora plittii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

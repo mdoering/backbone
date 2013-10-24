@@ -1,5 +1,4 @@
-Aecidium dietelianum Henn. SPECIES
-=======
+# Aecidium dietelianum Henn. SPECIES
 
 #### Status
 ACCEPTED

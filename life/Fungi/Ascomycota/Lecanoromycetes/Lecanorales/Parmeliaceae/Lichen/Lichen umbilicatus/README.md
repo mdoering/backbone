@@ -1,5 +1,4 @@
-Lichen umbilicatus Ach. SPECIES
-=======
+# Lichen umbilicatus Ach. SPECIES
 
 #### Status
 ACCEPTED

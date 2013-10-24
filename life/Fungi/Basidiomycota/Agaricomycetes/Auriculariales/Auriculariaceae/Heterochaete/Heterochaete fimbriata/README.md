@@ -1,5 +1,4 @@
-Heterochaete fimbriata Petch SPECIES
-=======
+# Heterochaete fimbriata Petch SPECIES
 
 #### Status
 ACCEPTED

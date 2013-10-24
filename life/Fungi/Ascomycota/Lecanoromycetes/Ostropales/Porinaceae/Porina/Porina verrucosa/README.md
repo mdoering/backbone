@@ -1,5 +1,4 @@
-Porina verrucosa (Fée) Fée SPECIES
-=======
+# Porina verrucosa (Fée) Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allantophoma Klebahn, 1933 GENUS
-=======
+# Allantophoma Klebahn, 1933 GENUS
 
 #### Status
 ACCEPTED

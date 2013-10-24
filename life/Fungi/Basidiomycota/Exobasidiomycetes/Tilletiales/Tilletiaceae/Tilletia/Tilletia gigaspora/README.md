@@ -1,5 +1,4 @@
-Tilletia gigaspora (Massee) Zambett. SPECIES
-=======
+# Tilletia gigaspora (Massee) Zambett. SPECIES
 
 #### Status
 ACCEPTED

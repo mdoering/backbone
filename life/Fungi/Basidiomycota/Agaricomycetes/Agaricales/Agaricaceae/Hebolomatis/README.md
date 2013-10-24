@@ -1,5 +1,4 @@
-Hebolomatis Earle, 1909 GENUS
-=======
+# Hebolomatis Earle, 1909 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendropleella stipitata (Fuckel) Shoemaker & LeClair SPECIES
-=======
+# Dendropleella stipitata (Fuckel) Shoemaker & LeClair SPECIES
 
 #### Status
 ACCEPTED

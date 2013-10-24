@@ -1,5 +1,4 @@
-Opegrapha microsema Nyl. SPECIES
-=======
+# Opegrapha microsema Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plagiotoma Dujardin, 1841 GENUS
-=======
+# Plagiotoma Dujardin, 1841 GENUS
 
 #### Status
 ACCEPTED

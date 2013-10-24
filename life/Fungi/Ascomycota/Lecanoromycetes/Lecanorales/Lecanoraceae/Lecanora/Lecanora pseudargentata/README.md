@@ -1,5 +1,4 @@
-Lecanora pseudargentata Lumbsch SPECIES
-=======
+# Lecanora pseudargentata Lumbsch SPECIES
 
 #### Status
 ACCEPTED

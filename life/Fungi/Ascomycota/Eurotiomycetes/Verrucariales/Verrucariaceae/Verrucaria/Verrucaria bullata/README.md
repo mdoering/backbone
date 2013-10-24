@@ -1,5 +1,4 @@
-Verrucaria bullata Lynge SPECIES
-=======
+# Verrucaria bullata Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria fuscomarginata Sowerby SPECIES
-=======
+# Sphaeria fuscomarginata Sowerby SPECIES
 
 #### Status
 ACCEPTED

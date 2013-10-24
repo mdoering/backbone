@@ -1,17 +1,16 @@
-Hypospila nyssae (Berk. & M.A. Curtis) Cooke, 1885 SPECIES
-=======
+# Isothea nyssae Berk. & M.A. Curtis, 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 4(no. 32): 157 (1876)
 
 #### Original name
-null
+Isothea nyssae Berk. & M.A. Curtis, 1876
 
 ### Remarks
 null

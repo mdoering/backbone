@@ -1,5 +1,4 @@
-Hymenochaete vagans Petch, 1945 SPECIES
-=======
+# Hymenochaete vagans Petch, 1945 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium mamanes Crous SPECIES
-=======
+# Camarosporium mamanes Crous SPECIES
 
 #### Status
 ACCEPTED

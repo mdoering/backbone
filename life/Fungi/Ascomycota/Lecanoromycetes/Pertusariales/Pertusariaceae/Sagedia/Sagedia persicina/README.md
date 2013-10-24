@@ -1,17 +1,16 @@
-Sagedia persicina var. persicina VARIETY
-=======
+# Sagedia persicina SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Sagedia persicina var. persicina
+null
 
 ### Remarks
 null

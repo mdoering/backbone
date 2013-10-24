@@ -1,5 +1,4 @@
-Kyphopyxa christneri (Carsey) SPECIES
-=======
+# Kyphopyxa christneri (Carsey) SPECIES
 
 #### Status
 ACCEPTED

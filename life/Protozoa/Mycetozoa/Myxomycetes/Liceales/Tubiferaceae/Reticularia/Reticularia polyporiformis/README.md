@@ -1,5 +1,4 @@
-Reticularia polyporiformis Berk. SPECIES
-=======
+# Reticularia polyporiformis Berk. SPECIES
 
 #### Status
 ACCEPTED

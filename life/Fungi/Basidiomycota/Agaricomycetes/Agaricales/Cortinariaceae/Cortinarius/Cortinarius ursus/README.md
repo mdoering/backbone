@@ -1,5 +1,4 @@
-Cortinarius ursus Soop, 2001 SPECIES
-=======
+# Cortinarius ursus Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

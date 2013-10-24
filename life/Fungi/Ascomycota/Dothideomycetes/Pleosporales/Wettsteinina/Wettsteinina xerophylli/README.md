@@ -1,5 +1,4 @@
-Wettsteinina xerophylli (Ellis) Aptroot SPECIES
-=======
+# Wettsteinina xerophylli (Ellis) Aptroot SPECIES
 
 #### Status
 ACCEPTED

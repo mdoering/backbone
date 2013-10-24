@@ -1,5 +1,4 @@
-Trypethelium anacardii Fée SPECIES
-=======
+# Trypethelium anacardii Fée SPECIES
 
 #### Status
 ACCEPTED

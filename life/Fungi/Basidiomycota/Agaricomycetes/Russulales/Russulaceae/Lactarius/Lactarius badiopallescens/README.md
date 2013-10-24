@@ -1,5 +1,4 @@
-Lactarius badiopallescens Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius badiopallescens Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

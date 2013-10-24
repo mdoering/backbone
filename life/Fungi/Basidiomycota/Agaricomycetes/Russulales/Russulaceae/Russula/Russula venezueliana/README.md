@@ -1,5 +1,4 @@
-Russula venezueliana Singer SPECIES
-=======
+# Russula venezueliana Singer SPECIES
 
 #### Status
 ACCEPTED

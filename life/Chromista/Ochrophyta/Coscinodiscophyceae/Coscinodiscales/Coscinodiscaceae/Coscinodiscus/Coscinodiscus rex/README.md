@@ -1,5 +1,4 @@
-Coscinodiscus rex G.C.Wallich SPECIES
-=======
+# Coscinodiscus rex G.C.Wallich SPECIES
 
 #### Status
 ACCEPTED

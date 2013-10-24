@@ -1,5 +1,4 @@
-Psathyrella angusticystis A.H. Sm. SPECIES
-=======
+# Psathyrella angusticystis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

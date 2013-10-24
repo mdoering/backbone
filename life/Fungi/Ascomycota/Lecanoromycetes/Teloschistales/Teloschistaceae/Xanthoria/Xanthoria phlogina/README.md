@@ -1,5 +1,4 @@
-Xanthoria phlogina (Ach.) Arnold SPECIES
-=======
+# Xanthoria phlogina (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED

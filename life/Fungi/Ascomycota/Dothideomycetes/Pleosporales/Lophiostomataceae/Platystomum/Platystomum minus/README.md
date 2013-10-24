@@ -1,5 +1,4 @@
-Platystomum minus (Ellis) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum minus (Ellis) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

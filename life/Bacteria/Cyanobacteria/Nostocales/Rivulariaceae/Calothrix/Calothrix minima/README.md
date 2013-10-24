@@ -1,5 +1,4 @@
-Calothrix minima Frémy SPECIES
-=======
+# Calothrix minima Frémy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella philodendri Pat. SPECIES
-=======
+# Sphaerella philodendri Pat. SPECIES
 
 #### Status
 ACCEPTED

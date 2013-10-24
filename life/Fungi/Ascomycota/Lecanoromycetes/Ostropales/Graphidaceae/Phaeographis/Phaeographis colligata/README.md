@@ -1,14 +1,13 @@
-Graphis colligata Stirt. SPECIES
-=======
+# Phaeographis colligata (Stirt.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Phil. Soc. Glasgow 13: 185 (1881)
+Cat. Lich. Univers. 2: 366 (1923)
 
 #### Original name
 Graphis colligata Stirt.

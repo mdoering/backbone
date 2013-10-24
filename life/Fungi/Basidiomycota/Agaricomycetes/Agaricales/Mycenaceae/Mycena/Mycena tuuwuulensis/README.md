@@ -1,5 +1,4 @@
-Mycena tuuwuulensis Grgur. SPECIES
-=======
+# Mycena tuuwuulensis Grgur. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Odontia subalbicans var. subalbicans VARIETY
-=======
+# Odontia subalbicans SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Belgian Species List
 
 #### Published in
-Annls mycol. 1(1/2): 8 (1903)
+null
 
 #### Original name
-Odontia subalbicans var. subalbicans
+null
 
 ### Remarks
 null

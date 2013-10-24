@@ -1,5 +1,4 @@
-Trokama Tikhomirova in Tikhomiro & Kazintso, 1990 GENUS
-=======
+# Trokama Tikhomirova in Tikhomiro & Kazintso, 1990 GENUS
 
 #### Status
 ACCEPTED

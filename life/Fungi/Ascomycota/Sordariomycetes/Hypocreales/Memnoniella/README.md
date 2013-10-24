@@ -1,5 +1,4 @@
-Memnoniella Höhn. GENUS
-=======
+# Memnoniella Höhn. GENUS
 
 #### Status
 ACCEPTED

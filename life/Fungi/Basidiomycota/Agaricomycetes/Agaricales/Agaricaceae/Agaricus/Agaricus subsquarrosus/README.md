@@ -1,5 +1,4 @@
-Agaricus subsquarrosus Fr. SPECIES
-=======
+# Agaricus subsquarrosus Fr. SPECIES
 
 #### Status
 ACCEPTED

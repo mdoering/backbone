@@ -1,5 +1,4 @@
-Rhizosolenia palliola H.J. Schrader & J. Fenner SPECIES
-=======
+# Rhizosolenia palliola H.J. Schrader & J. Fenner SPECIES
 
 #### Status
 ACCEPTED

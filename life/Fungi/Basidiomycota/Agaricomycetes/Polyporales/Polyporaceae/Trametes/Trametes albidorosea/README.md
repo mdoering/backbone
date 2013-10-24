@@ -1,5 +1,4 @@
-Trametes albidorosea E. Bommer & M. Rousseau SPECIES
-=======
+# Trametes albidorosea E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

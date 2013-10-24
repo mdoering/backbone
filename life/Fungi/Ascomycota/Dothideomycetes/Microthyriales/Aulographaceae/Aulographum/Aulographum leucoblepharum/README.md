@@ -1,5 +1,4 @@
-Aulographum leucoblepharum (Nyl.) Vain. SPECIES
-=======
+# Aulographum leucoblepharum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Catacauma portoricense Chardón, 1927 SPECIES
-=======
+# Phyllachora hoyosensis Petr., 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 19(6): 297 (1927)
+Sydowia 9: 544 (1955)
 
 #### Original name
 Catacauma portoricense Chardón, 1927

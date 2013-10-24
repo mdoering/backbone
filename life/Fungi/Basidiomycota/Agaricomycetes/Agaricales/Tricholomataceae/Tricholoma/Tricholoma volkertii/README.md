@@ -1,5 +1,4 @@
-Tricholoma volkertii (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma volkertii (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laccaria olivaceogrisea Vellinga SPECIES
-=======
+# Laccaria olivaceogrisea Vellinga SPECIES
 
 #### Status
 ACCEPTED

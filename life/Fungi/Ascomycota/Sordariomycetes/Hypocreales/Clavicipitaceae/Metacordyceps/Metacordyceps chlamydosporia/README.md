@@ -1,17 +1,16 @@
-Diheterospora chlamydosporia (Goddard) G.L. Barron & Onions, 1966 SPECIES
-=======
+# Metacordyceps chlamydosporia (H.C. Evans) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 44(7): 866 (1966)
+in Sung, Hywel-Jones, Sung, Luangsa-ard, Shrestha & Spatafora, Stud. Mycol. 57: 35 (2007)
 
 #### Original name
-Verticillium chlamydosporium Goddard, 1913
+Cordyceps chlamydosporia H.C. Evans, 2001
 
 ### Remarks
 null

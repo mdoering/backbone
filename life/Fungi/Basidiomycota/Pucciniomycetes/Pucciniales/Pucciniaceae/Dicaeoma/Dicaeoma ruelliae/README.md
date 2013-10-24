@@ -1,5 +1,4 @@
-Dicaeoma ruelliae anon. SPECIES
-=======
+# Dicaeoma ruelliae anon. SPECIES
 
 #### Status
 ACCEPTED

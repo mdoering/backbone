@@ -1,5 +1,4 @@
-Hypoviridae FAMILY
-=======
+# Hypoviridae FAMILY
 
 #### Status
 ACCEPTED

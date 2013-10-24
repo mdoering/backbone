@@ -1,5 +1,4 @@
-Nocardia lijiangensis Xu et al., 2006 SPECIES
-=======
+# Nocardia lijiangensis Xu et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

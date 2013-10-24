@@ -1,5 +1,4 @@
-Uncinia truncorum Velen. SPECIES
-=======
+# Uncinia truncorum Velen. SPECIES
 
 #### Status
 ACCEPTED

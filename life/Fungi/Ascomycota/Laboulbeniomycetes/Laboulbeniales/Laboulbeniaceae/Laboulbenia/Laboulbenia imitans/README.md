@@ -1,5 +1,4 @@
-Laboulbenia imitans Thaxt. SPECIES
-=======
+# Laboulbenia imitans Thaxt. SPECIES
 
 #### Status
 ACCEPTED

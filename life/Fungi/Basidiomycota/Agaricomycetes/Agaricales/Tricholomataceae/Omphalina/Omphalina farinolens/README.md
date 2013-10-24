@@ -1,5 +1,4 @@
-Omphalina farinolens G. Moreno & Esteve-Rav. SPECIES
-=======
+# Omphalina farinolens G. Moreno & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria paraensis Bat. & A.A. Silva SPECIES
-=======
+# Didymosphaeria paraensis Bat. & A.A. Silva SPECIES
 
 #### Status
 ACCEPTED

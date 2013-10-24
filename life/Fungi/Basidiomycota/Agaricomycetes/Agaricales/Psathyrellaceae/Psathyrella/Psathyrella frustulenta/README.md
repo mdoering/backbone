@@ -1,14 +1,13 @@
-Drosophila frustulenta (Fr.) Quél., 1886 SPECIES
-=======
+# Psathyrella frustulenta (Fr.) A.H. Sm., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. Univ. Mich. Herb. 5: 45 (1941)
 
 #### Original name
 Agaricus frustulentus Fr., 1838

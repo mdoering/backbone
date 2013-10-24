@@ -1,5 +1,4 @@
-Pertusaria paraeensis SPECIES
-=======
+# Pertusaria paraeensis SPECIES
 
 #### Status
 ACCEPTED

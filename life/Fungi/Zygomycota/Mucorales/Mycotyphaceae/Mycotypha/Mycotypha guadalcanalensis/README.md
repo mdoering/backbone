@@ -1,5 +1,4 @@
-Mycotypha guadalcanalensis Matsush. SPECIES
-=======
+# Mycotypha guadalcanalensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

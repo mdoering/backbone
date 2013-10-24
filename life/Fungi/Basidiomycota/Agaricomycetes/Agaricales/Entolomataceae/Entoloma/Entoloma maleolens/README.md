@@ -1,5 +1,4 @@
-Entoloma maleolens E. Horak SPECIES
-=======
+# Entoloma maleolens E. Horak SPECIES
 
 #### Status
 ACCEPTED

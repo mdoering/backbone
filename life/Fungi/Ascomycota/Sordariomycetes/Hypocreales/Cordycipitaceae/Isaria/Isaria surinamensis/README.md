@@ -1,5 +1,4 @@
-Isaria surinamensis Vosseler SPECIES
-=======
+# Isaria surinamensis Vosseler SPECIES
 
 #### Status
 ACCEPTED

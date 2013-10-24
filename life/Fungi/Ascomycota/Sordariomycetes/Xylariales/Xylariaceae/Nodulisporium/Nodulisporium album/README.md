@@ -1,5 +1,4 @@
-Nodulisporium album Preuss SPECIES
-=======
+# Nodulisporium album Preuss SPECIES
 
 #### Status
 ACCEPTED

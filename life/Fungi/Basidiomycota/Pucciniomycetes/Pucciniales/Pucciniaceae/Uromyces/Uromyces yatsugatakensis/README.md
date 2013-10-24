@@ -1,5 +1,4 @@
-Uromyces yatsugatakensis Hirats. f. SPECIES
-=======
+# Uromyces yatsugatakensis Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhipidium americanum Thaxt., 1896 SPECIES
-=======
+# Rhipidium americanum Thaxt., 1896 SPECIES
 
 #### Status
 ACCEPTED

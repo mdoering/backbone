@@ -1,5 +1,4 @@
-Trametes amygdalea Maire SPECIES
-=======
+# Trametes amygdalea Maire SPECIES
 
 #### Status
 ACCEPTED

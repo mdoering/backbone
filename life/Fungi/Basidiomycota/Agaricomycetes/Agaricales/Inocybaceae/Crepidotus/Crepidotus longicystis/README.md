@@ -1,5 +1,4 @@
-Crepidotus longicystis (Hesler & A.H. Sm.) Singer SPECIES
-=======
+# Crepidotus longicystis (Hesler & A.H. Sm.) Singer SPECIES
 
 #### Status
 ACCEPTED

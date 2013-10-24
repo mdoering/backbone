@@ -1,5 +1,4 @@
-Niptera lithospermi Ellis & Everh. SPECIES
-=======
+# Niptera lithospermi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

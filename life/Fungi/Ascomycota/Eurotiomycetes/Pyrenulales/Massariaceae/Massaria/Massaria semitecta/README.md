@@ -1,5 +1,4 @@
-Massaria semitecta (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Massaria semitecta (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

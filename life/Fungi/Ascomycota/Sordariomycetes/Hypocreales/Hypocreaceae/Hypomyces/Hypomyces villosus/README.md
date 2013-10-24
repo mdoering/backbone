@@ -1,5 +1,4 @@
-Hypomyces villosus Samuels & Rogerson SPECIES
-=======
+# Hypomyces villosus Samuels & Rogerson SPECIES
 
 #### Status
 ACCEPTED

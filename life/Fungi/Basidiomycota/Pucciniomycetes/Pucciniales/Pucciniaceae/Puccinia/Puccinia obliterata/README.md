@@ -1,5 +1,4 @@
-Puccinia obliterata Arthur SPECIES
-=======
+# Puccinia obliterata Arthur SPECIES
 
 #### Status
 ACCEPTED

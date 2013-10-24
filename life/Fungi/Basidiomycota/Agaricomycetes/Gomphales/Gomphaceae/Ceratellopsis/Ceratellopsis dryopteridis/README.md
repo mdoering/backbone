@@ -1,5 +1,4 @@
-Ceratellopsis dryopteridis (S. Imai) Corner SPECIES
-=======
+# Ceratellopsis dryopteridis (S. Imai) Corner SPECIES
 
 #### Status
 ACCEPTED

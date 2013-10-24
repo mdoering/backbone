@@ -1,5 +1,4 @@
-Septoria turcica Bubák SPECIES
-=======
+# Septoria turcica Bubák SPECIES
 
 #### Status
 ACCEPTED

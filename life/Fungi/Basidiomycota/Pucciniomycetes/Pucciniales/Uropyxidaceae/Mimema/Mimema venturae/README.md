@@ -1,5 +1,4 @@
-Mimema venturae Dianese, L.T.P. Santos, R.B. Medeiros & M. Sanchez, 1994 SPECIES
-=======
+# Mimema venturae Dianese, L.T.P. Santos, R.B. Medeiros & M. Sanchez, 1994 SPECIES
 
 #### Status
 ACCEPTED

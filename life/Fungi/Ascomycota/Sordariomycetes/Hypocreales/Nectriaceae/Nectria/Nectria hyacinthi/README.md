@@ -1,5 +1,4 @@
-Nectria hyacinthi (Sorauer) G.R.W. Arnold SPECIES
-=======
+# Nectria hyacinthi (Sorauer) G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella cladoniae Diederich & M.S. Christ., 1996 SPECIES
-=======
+# Tremella cladoniae Diederich & M.S. Christ., 1996 SPECIES
 
 #### Status
 ACCEPTED

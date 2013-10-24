@@ -1,5 +1,4 @@
-Squamanita Imbach, 1946 GENUS
-=======
+# Squamanita Imbach, 1946 GENUS
 
 #### Status
 ACCEPTED

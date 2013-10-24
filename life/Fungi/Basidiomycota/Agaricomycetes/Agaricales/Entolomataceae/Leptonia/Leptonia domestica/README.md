@@ -1,5 +1,4 @@
-Leptonia domestica Murrill SPECIES
-=======
+# Leptonia domestica Murrill SPECIES
 
 #### Status
 ACCEPTED

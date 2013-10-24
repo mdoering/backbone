@@ -1,5 +1,4 @@
-Pusillimonas noertemannii Stolz et al., 2005 SPECIES
-=======
+# Pusillimonas noertemannii Stolz et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum aesculi E. Radul. & Negru SPECIES
-=======
+# Colletotrichum aesculi E. Radul. & Negru SPECIES
 
 #### Status
 ACCEPTED

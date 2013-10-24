@@ -1,5 +1,4 @@
-Diplodia acericola Tehon & G.L. Stout SPECIES
-=======
+# Diplodia acericola Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

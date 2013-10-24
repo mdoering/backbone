@@ -1,5 +1,4 @@
-Crepidotus pruni Velen. SPECIES
-=======
+# Crepidotus pruni Velen. SPECIES
 
 #### Status
 ACCEPTED

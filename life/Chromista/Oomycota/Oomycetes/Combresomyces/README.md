@@ -1,5 +1,4 @@
-Combresomyces Dotzler, M. Krings, Agerer, Galtier & T.N. Taylor GENUS
-=======
+# Combresomyces Dotzler, M. Krings, Agerer, Galtier & T.N. Taylor GENUS
 
 #### Status
 ACCEPTED

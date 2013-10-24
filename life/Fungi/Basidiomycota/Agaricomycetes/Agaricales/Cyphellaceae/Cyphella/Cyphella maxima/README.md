@@ -1,5 +1,4 @@
-Cyphella maxima Massee SPECIES
-=======
+# Cyphella maxima Massee SPECIES
 
 #### Status
 ACCEPTED

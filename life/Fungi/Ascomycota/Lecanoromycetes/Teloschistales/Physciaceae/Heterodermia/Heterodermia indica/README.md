@@ -1,5 +1,4 @@
-Heterodermia indica (H. Magn.) D.D. Awasthi SPECIES
-=======
+# Heterodermia indica (H. Magn.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

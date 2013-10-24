@@ -1,5 +1,4 @@
-Myriangium floridanum (Ellis & Galloway) Rehm SPECIES
-=======
+# Myriangium floridanum (Ellis & Galloway) Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neolichina Gyeln., 1940 GENUS
-=======
+# Neolichina Gyeln., 1940 GENUS
 
 #### Status
 ACCEPTED

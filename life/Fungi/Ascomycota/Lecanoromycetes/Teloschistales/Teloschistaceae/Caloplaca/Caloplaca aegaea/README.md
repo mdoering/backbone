@@ -1,5 +1,4 @@
-Caloplaca aegaea Sipman SPECIES
-=======
+# Caloplaca aegaea Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina veronicicola Hollós SPECIES
-=======
+# Diplodina veronicicola Hollós SPECIES
 
 #### Status
 ACCEPTED

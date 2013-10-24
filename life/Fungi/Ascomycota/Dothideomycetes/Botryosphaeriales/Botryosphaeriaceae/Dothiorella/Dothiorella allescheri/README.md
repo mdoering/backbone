@@ -1,5 +1,4 @@
-Dothiorella allescheri Oudem. SPECIES
-=======
+# Dothiorella allescheri Oudem. SPECIES
 
 #### Status
 ACCEPTED

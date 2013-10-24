@@ -1,5 +1,4 @@
-Pluteolus leaianus Berk. SPECIES
-=======
+# Pluteolus leaianus Berk. SPECIES
 
 #### Status
 ACCEPTED

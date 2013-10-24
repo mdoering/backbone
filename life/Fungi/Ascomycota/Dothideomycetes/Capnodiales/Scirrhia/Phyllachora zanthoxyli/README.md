@@ -1,5 +1,4 @@
-Phyllachora zanthoxyli (Lév.) Cooke, 1885 SPECIES
-=======
+# Phyllachora zanthoxyli (Lév.) Cooke, 1885 SPECIES
 
 #### Status
 ACCEPTED

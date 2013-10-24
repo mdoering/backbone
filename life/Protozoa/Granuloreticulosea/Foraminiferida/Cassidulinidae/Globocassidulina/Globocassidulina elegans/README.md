@@ -1,5 +1,4 @@
-Globocassidulina elegans (Sidebottom, 1910) SPECIES
-=======
+# Globocassidulina elegans (Sidebottom, 1910) SPECIES
 
 #### Status
 ACCEPTED

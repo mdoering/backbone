@@ -1,5 +1,4 @@
-Ancistrocoma Chatton & Lwoff, 1926 GENUS
-=======
+# Ancistrocoma Chatton & Lwoff, 1926 GENUS
 
 #### Status
 ACCEPTED

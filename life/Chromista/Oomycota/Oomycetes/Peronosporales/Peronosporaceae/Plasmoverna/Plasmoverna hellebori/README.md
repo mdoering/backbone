@@ -1,14 +1,13 @@
-Plasmopara curta f. hellebori (Savul. & Rayss) Skalický, 1954 FORM
-=======
+# Plasmoverna hellebori (Savul. & Rayss) Constant., Voglmayr, Fatehi & Thines, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxon 54(3): 819 (2005)
 
 #### Original name
 Plasmopara pygmaea f. hellebori Savul. & Rayss, 1931

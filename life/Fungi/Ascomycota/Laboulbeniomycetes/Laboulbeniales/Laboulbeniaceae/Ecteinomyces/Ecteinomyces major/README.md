@@ -1,5 +1,4 @@
-Ecteinomyces major Speg. SPECIES
-=======
+# Ecteinomyces major Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium rarum R.G. Shivas, McTaggart & Vánky SPECIES
-=======
+# Sporisorium rarum R.G. Shivas, McTaggart & Vánky SPECIES
 
 #### Status
 ACCEPTED

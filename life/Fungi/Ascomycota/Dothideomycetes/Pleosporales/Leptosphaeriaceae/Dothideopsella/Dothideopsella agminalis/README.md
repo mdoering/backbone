@@ -1,5 +1,4 @@
-Dothideopsella agminalis (Sacc. & Morthier) Höhn. SPECIES
-=======
+# Dothideopsella agminalis (Sacc. & Morthier) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnus lususundae Entz, 1885 SPECIES
-=======
+# Tintinnus lususundae Entz, 1885 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria megaspora (Leight.) Müll. Arg. SPECIES
-=======
+# Patellaria megaspora (Leight.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

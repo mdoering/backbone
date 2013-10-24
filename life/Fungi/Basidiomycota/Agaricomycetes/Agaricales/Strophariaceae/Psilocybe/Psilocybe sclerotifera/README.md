@@ -1,5 +1,4 @@
-Psilocybe sclerotifera (Speg.) Singer SPECIES
-=======
+# Psilocybe sclerotifera (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

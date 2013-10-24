@@ -1,5 +1,4 @@
-Septoria aciculosa Ellis & Everh., 1884 SPECIES
-=======
+# Septoria aciculosa Ellis & Everh., 1884 SPECIES
 
 #### Status
 ACCEPTED

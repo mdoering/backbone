@@ -1,5 +1,4 @@
-Uredo festucae-parviglumae Z.C. Chen SPECIES
-=======
+# Uredo festucae-parviglumae Z.C. Chen SPECIES
 
 #### Status
 ACCEPTED

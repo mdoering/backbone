@@ -1,5 +1,4 @@
-Russula perplexa Burl. SPECIES
-=======
+# Russula perplexa Burl. SPECIES
 
 #### Status
 ACCEPTED

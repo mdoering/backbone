@@ -1,5 +1,4 @@
-Falciformispora lignatilis K.D. Hyde, 1992 SPECIES
-=======
+# Falciformispora lignatilis K.D. Hyde, 1992 SPECIES
 
 #### Status
 ACCEPTED

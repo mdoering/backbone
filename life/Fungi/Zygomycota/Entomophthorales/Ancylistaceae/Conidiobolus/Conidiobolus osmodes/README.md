@@ -1,5 +1,4 @@
-Conidiobolus osmodes Drechsler, 1954 SPECIES
-=======
+# Conidiobolus osmodes Drechsler, 1954 SPECIES
 
 #### Status
 ACCEPTED

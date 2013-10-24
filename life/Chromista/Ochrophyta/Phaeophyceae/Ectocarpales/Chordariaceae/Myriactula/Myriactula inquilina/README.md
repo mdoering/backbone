@@ -1,5 +1,4 @@
-Myriactula inquilina Kraft, 2009 SPECIES
-=======
+# Myriactula inquilina Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

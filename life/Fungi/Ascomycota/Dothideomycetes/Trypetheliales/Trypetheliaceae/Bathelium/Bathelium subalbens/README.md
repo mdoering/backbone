@@ -1,5 +1,4 @@
-Bathelium subalbens (Nyl.) C.W. Dodge SPECIES
-=======
+# Bathelium subalbens (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

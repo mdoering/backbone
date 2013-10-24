@@ -1,17 +1,16 @@
-Sticta pulmonacea var. hypomela anon. VARIETY
-=======
+# Lobariaceae Chevall. FAMILY
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. gén. env. Paris (Paris) 1: 609 (1826)
 
 #### Original name
-Sticta pulmonacea var. hypomela anon.
+Lobariaceae Chevall.
 
 ### Remarks
 null

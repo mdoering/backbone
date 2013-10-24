@@ -1,5 +1,4 @@
-Pseudonosema E.U. Canninga, D. Refardtb, C.R. Vossbrinckc, B. Okamurad & A. Curry GENUS
-=======
+# Pseudonosema E.U. Canninga, D. Refardtb, C.R. Vossbrinckc, B. Okamurad & A. Curry GENUS
 
 #### Status
 ACCEPTED

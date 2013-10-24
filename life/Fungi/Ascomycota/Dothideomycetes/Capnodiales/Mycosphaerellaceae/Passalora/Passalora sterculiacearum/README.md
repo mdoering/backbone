@@ -1,5 +1,4 @@
-Passalora sterculiacearum U. Braun & Crous SPECIES
-=======
+# Passalora sterculiacearum U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

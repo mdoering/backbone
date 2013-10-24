@@ -1,14 +1,13 @@
-Dothidella tosensis Henn., 1904 SPECIES
-=======
+# Endodothella tosensis (Henn.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43: 152 (1904)
+Annls mycol. 13(5/6): 583 (1915)
 
 #### Original name
 Dothidella tosensis Henn., 1904

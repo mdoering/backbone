@@ -1,5 +1,4 @@
-Clavaria brachycera Pers. SPECIES
-=======
+# Clavaria brachycera Pers. SPECIES
 
 #### Status
 ACCEPTED

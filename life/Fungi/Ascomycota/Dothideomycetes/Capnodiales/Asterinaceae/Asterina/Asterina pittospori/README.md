@@ -1,5 +1,4 @@
-Asterina pittospori Hansf. SPECIES
-=======
+# Asterina pittospori Hansf. SPECIES
 
 #### Status
 ACCEPTED

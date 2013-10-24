@@ -1,5 +1,4 @@
-Rhizocarpon sublavatum Fryday SPECIES
-=======
+# Rhizocarpon sublavatum Fryday SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Bacidia coprodes f. coprodes FORM
-=======
+# Bacidia coprodes (Körb.) Lettau SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Bacidia coprodes f. coprodes
+Bilimbia coprodes Körb.
 
 ### Remarks
 null

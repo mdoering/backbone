@@ -1,5 +1,4 @@
-Physisporus violaceus (Fr.) Gillet SPECIES
-=======
+# Physisporus violaceus (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hoglundina GENUS
-=======
+# Hoglundina GENUS
 
 #### Status
 ACCEPTED

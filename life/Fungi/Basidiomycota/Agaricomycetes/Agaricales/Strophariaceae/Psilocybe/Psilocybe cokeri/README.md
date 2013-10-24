@@ -1,5 +1,4 @@
-Psilocybe cokeri Murrill SPECIES
-=======
+# Psilocybe cokeri Murrill SPECIES
 
 #### Status
 ACCEPTED

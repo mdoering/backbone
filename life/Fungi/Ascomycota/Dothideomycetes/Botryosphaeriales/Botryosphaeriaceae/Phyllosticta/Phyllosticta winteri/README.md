@@ -1,5 +1,4 @@
-Phyllosticta winteri Speg. SPECIES
-=======
+# Phyllosticta winteri Speg. SPECIES
 
 #### Status
 ACCEPTED

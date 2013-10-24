@@ -1,17 +1,16 @@
-Tubeufia clintonii (Peck) M.E. Barr, 1980 SPECIES
-=======
+# Acanthostigma perpusillum De Not., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 12(1): 163 (1980)
+Sfer. Ital. 2: 207 (1863)
 
 #### Original name
-Sphaeria clintonii Peck, 1878
+Acanthostigma perpusillum De Not., 1863
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sporisorium tothii Vánky SPECIES
-=======
+# Sporisorium tothii Vánky SPECIES
 
 #### Status
 ACCEPTED

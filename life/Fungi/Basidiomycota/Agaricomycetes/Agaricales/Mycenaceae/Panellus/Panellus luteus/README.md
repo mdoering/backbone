@@ -1,5 +1,4 @@
-Panellus luteus (Dennis) Singer SPECIES
-=======
+# Panellus luteus (Dennis) Singer SPECIES
 
 #### Status
 ACCEPTED

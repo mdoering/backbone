@@ -1,5 +1,4 @@
-Stegonsporium cellulosum Corda SPECIES
-=======
+# Stegonsporium cellulosum Corda SPECIES
 
 #### Status
 ACCEPTED

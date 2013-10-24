@@ -1,5 +1,4 @@
-Spatoglossum ecuadoreanum W.R. Taylor SPECIES
-=======
+# Spatoglossum ecuadoreanum W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

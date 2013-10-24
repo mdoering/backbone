@@ -1,5 +1,4 @@
-Ramaria crataegi Velen. SPECIES
-=======
+# Ramaria crataegi Velen. SPECIES
 
 #### Status
 ACCEPTED

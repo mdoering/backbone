@@ -1,5 +1,4 @@
-Sphaeria taphrina Fr. SPECIES
-=======
+# Sphaeria taphrina Fr. SPECIES
 
 #### Status
 ACCEPTED

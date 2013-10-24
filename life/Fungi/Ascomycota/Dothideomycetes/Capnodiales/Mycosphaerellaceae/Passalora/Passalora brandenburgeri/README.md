@@ -1,5 +1,4 @@
-Passalora brandenburgeri U. Braun & Crous SPECIES
-=======
+# Passalora brandenburgeri U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

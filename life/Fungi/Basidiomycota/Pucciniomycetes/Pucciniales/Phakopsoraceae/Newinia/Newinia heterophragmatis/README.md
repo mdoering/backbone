@@ -1,17 +1,16 @@
-Newinia heterophragmae Thaung SPECIES
-=======
+# Newinia heterophragmatis Thaung, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 65(3): 703 (1973)
 
 #### Original name
-Newinia heterophragmae Thaung
+Newinia heterophragmatis Thaung, 1973
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pseudocercospora viburni-cylindrici (F.L. Tai) U. Braun SPECIES
-=======
+# Pseudocercospora viburni-cylindrici (F.L. Tai) U. Braun SPECIES
 
 #### Status
 ACCEPTED

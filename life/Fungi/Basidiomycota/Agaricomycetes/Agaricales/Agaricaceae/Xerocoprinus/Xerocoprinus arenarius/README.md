@@ -1,14 +1,13 @@
-Coprinus arenarius Pat., 1896 SPECIES
-=======
+# Xerocoprinus arenarius (Pat.) Maire, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. bot. Fr. (1907)
 
 #### Original name
 Coprinus arenarius Pat., 1896

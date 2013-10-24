@@ -1,5 +1,4 @@
-Cercospora lycii Ellis & Halst. SPECIES
-=======
+# Cercospora lycii Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca savonensis B. de Lesd. SPECIES
-=======
+# Caloplaca savonensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

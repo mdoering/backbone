@@ -1,5 +1,4 @@
-Hyaloscypha cookei (Pass.) Boud. SPECIES
-=======
+# Hyaloscypha cookei (Pass.) Boud. SPECIES
 
 #### Status
 ACCEPTED

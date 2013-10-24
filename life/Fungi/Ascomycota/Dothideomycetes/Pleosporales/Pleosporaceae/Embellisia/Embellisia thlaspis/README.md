@@ -1,5 +1,4 @@
-Embellisia thlaspis E.G. Simmons & J.C. David, 2000 SPECIES
-=======
+# Embellisia thlaspis E.G. Simmons & J.C. David, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia calycina Brunaud SPECIES
-=======
+# Hendersonia calycina Brunaud SPECIES
 
 #### Status
 ACCEPTED

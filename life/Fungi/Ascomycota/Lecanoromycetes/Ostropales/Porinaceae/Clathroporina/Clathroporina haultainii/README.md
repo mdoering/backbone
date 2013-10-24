@@ -1,5 +1,4 @@
-Clathroporina haultainii (C. Knight) Müll. Arg. SPECIES
-=======
+# Clathroporina haultainii (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

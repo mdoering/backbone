@@ -1,5 +1,4 @@
-Colletotrichum oleae Kelkar SPECIES
-=======
+# Colletotrichum oleae Kelkar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fenestella phaeospora Sacc. SPECIES
-=======
+# Fenestella phaeospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

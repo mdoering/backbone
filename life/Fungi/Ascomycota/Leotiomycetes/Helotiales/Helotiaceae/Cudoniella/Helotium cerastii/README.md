@@ -1,5 +1,4 @@
-Helotium cerastii Velen. SPECIES
-=======
+# Helotium cerastii Velen. SPECIES
 
 #### Status
 ACCEPTED

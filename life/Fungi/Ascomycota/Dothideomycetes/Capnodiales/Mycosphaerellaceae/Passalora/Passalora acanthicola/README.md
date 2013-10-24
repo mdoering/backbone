@@ -1,5 +1,4 @@
-Passalora acanthicola (Hansf.) U. Braun & Crous SPECIES
-=======
+# Passalora acanthicola (Hansf.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

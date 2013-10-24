@@ -1,5 +1,4 @@
-Eucampia Ehrenberg GENUS
-=======
+# Eucampia Ehrenberg GENUS
 
 #### Status
 ACCEPTED

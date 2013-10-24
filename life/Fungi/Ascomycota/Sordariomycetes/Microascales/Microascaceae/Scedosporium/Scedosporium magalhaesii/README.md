@@ -1,5 +1,4 @@
-Scedosporium magalhaesii H.P. Fröes SPECIES
-=======
+# Scedosporium magalhaesii H.P. Fröes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parachnopeziza bambusae Arendh. & R. Sharma, 1984 SPECIES
-=======
+# Parachnopeziza bambusae Arendh. & R. Sharma, 1984 SPECIES
 
 #### Status
 ACCEPTED

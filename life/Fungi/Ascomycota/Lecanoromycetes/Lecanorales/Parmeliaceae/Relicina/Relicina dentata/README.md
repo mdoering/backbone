@@ -1,5 +1,4 @@
-Relicina dentata Elix SPECIES
-=======
+# Relicina dentata Elix SPECIES
 
 #### Status
 ACCEPTED

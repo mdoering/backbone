@@ -1,5 +1,4 @@
-Cladocorona Haeckel, 1881 GENUS
-=======
+# Cladocorona Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

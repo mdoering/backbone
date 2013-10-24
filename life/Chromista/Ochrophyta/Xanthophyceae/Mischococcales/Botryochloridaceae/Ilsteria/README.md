@@ -1,5 +1,4 @@
-Ilsteria Skuja & Pascher, 1939 GENUS
-=======
+# Ilsteria Skuja & Pascher, 1939 GENUS
 
 #### Status
 ACCEPTED

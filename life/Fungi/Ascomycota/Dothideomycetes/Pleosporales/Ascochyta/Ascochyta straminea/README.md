@@ -1,5 +1,4 @@
-Ascochyta straminea Punith., 1979 SPECIES
-=======
+# Ascochyta straminea Punith., 1979 SPECIES
 
 #### Status
 ACCEPTED

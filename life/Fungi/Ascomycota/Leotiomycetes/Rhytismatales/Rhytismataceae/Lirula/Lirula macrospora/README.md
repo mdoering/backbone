@@ -1,14 +1,13 @@
-Hypodermopsis macrospora (R. Hartig) Kuntze, 1898 SPECIES
-=======
+# Lirula macrospora (R. Hartig) Darker, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 487 (1898)
+Can. J. Bot. 45: 1422 (1967)
 
 #### Original name
 Hypoderma macrospora R. Hartig, 1874

@@ -1,5 +1,4 @@
-Dendrodomus Bubák GENUS
-=======
+# Dendrodomus Bubák GENUS
 
 #### Status
 ACCEPTED

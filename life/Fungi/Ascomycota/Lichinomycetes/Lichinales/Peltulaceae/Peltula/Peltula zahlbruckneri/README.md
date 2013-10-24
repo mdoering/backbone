@@ -1,14 +1,13 @@
-Dermatocarpon zahlbruckneri Hasse SPECIES
-=======
+# Peltula zahlbruckneri (Hasse) Wetmore SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bryologist 16(1): 2 (1913)
+Ann. Mo. bot. Gdn 57: 205 (1971)
 
 #### Original name
 Dermatocarpon zahlbruckneri Hasse

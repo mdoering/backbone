@@ -1,5 +1,4 @@
-Chytridium zootocum A. Braun SPECIES
-=======
+# Chytridium zootocum A. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodotorula terpenoidalis Thanh, Smit, Moleleki & Fell SPECIES
-=======
+# Rhodotorula terpenoidalis Thanh, Smit, Moleleki & Fell SPECIES
 
 #### Status
 ACCEPTED

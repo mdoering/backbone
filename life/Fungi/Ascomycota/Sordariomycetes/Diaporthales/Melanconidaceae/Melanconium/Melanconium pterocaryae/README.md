@@ -1,5 +1,4 @@
-Melanconium pterocaryae Kuschke SPECIES
-=======
+# Melanconium pterocaryae Kuschke SPECIES
 
 #### Status
 ACCEPTED

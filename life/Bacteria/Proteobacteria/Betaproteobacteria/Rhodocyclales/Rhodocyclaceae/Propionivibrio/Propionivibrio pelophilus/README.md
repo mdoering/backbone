@@ -1,8 +1,7 @@
-Propionibacter pelophilus Meijer et al., 1999 SPECIES
-=======
+# Propionivibrio pelophilus (Meijer et al., 1999) Brune et al., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

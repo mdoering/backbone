@@ -1,17 +1,16 @@
-Platysma glaucum f. glaucum FORM
-=======
+# Platysma glaucum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Platysma glaucum f. glaucum
+null
 
 ### Remarks
 null

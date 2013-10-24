@@ -1,5 +1,4 @@
-Xylaria louisii (Dennis) D. Hawksw. SPECIES
-=======
+# Xylaria louisii (Dennis) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

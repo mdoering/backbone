@@ -1,5 +1,4 @@
-Trichodina ctenophorii Estes, Reynolds & Moss, 1997 SPECIES
-=======
+# Trichodina ctenophorii Estes, Reynolds & Moss, 1997 SPECIES
 
 #### Status
 ACCEPTED

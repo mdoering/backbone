@@ -1,5 +1,4 @@
-Rinodina intuta SPECIES
-=======
+# Rinodina intuta SPECIES
 
 #### Status
 ACCEPTED

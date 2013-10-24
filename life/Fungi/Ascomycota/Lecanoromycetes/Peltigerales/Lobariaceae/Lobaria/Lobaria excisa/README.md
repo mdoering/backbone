@@ -1,5 +1,4 @@
-Lobaria excisa (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lobaria excisa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

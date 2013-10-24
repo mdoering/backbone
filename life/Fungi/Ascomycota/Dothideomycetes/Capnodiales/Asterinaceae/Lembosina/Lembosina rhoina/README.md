@@ -1,5 +1,4 @@
-Lembosina rhoina (Doidge) Arx SPECIES
-=======
+# Lembosina rhoina (Doidge) Arx SPECIES
 
 #### Status
 ACCEPTED

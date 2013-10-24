@@ -1,5 +1,4 @@
-Septoria cynodontis Fuckel SPECIES
-=======
+# Septoria cynodontis Fuckel SPECIES
 
 #### Status
 ACCEPTED

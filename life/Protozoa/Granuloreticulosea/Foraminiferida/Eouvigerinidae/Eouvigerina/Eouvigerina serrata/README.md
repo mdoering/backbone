@@ -1,5 +1,4 @@
-Eouvigerina serrata (Chapman) SPECIES
-=======
+# Eouvigerina serrata (Chapman) SPECIES
 
 #### Status
 ACCEPTED

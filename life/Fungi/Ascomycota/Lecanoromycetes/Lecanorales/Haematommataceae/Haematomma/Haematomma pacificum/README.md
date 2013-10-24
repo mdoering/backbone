@@ -1,5 +1,4 @@
-Haematomma pacificum Hasse SPECIES
-=======
+# Haematomma pacificum Hasse SPECIES
 
 #### Status
 ACCEPTED

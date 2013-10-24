@@ -1,5 +1,4 @@
-Haplobasidion Erikss. GENUS
-=======
+# Haplobasidion Erikss. GENUS
 
 #### Status
 ACCEPTED

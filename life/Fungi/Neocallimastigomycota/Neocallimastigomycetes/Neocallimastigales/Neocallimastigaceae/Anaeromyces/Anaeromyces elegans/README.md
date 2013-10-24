@@ -1,14 +1,13 @@
-Ruminomyces elegans Y.W. Ho, 1990 SPECIES
-=======
+# Anaeromyces elegans (Y.W. Ho) Y.W. Ho, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Ho, Bauchop, Abdullah & Jalaludin, Mycotaxon 38: 398 (1990)
+in Ho, Barr, Abdullah & Jalaludin, Mycotaxon 47: 283 (1993)
 
 #### Original name
 Ruminomyces elegans Y.W. Ho, 1990

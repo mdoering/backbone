@@ -1,5 +1,4 @@
-Astrosphaeriella daemonoropis J. Fröhl., K.D. Hyde & Aptroot SPECIES
-=======
+# Astrosphaeriella daemonoropis J. Fröhl., K.D. Hyde & Aptroot SPECIES
 
 #### Status
 ACCEPTED

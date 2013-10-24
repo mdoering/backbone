@@ -1,5 +1,4 @@
-Macrocoleps caudatus Obolkina, 1995 SPECIES
-=======
+# Macrocoleps caudatus Obolkina, 1995 SPECIES
 
 #### Status
 ACCEPTED

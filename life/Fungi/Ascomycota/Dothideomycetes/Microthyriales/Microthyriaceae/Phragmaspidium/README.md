@@ -1,5 +1,4 @@
-Phragmaspidium Bat. GENUS
-=======
+# Phragmaspidium Bat. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galeidinium Tamura & Horiguchi, 2005 GENUS
-=======
+# Galeidinium Tamura & Horiguchi, 2005 GENUS
 
 #### Status
 ACCEPTED

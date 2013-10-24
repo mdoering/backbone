@@ -1,17 +1,16 @@
-Trametes quercina f. quercina FORM
-=======
+# Daedalea quercina (L.) Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1114 (1922)
+Nat. Arr. Brit. Pl. (London) 1: 638 (1821)
 
 #### Original name
-Trametes quercina f. quercina
+Daedalea quercina (L.) Pers., 1801
 
 ### Remarks
 null

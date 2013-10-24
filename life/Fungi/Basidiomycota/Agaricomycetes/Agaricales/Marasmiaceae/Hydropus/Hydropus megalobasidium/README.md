@@ -1,5 +1,4 @@
-Hydropus megalobasidium Singer SPECIES
-=======
+# Hydropus megalobasidium Singer SPECIES
 
 #### Status
 ACCEPTED

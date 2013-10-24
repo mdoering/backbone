@@ -1,5 +1,4 @@
-Puccinia eugeniae Rangel SPECIES
-=======
+# Puccinia eugeniae Rangel SPECIES
 
 #### Status
 ACCEPTED

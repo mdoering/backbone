@@ -1,5 +1,4 @@
-Rozella parva Canter SPECIES
-=======
+# Rozella parva Canter SPECIES
 
 #### Status
 ACCEPTED

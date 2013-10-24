@@ -1,5 +1,4 @@
-Thyridium betulae Nitschke & Rehm SPECIES
-=======
+# Thyridium betulae Nitschke & Rehm SPECIES
 
 #### Status
 ACCEPTED

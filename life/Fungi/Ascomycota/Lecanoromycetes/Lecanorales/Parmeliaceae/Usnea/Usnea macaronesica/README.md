@@ -1,5 +1,4 @@
-Usnea macaronesica P. Clerc SPECIES
-=======
+# Usnea macaronesica P. Clerc SPECIES
 
 #### Status
 ACCEPTED

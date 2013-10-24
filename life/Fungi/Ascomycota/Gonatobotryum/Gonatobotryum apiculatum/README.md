@@ -1,14 +1,13 @@
-Haplographium apiculatum Peck, 1874 SPECIES
-=======
+# Gonatobotryum apiculatum (Peck) S. Hughes, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 31: 594 (1953)
 
 #### Original name
 Haplographium apiculatum Peck, 1874

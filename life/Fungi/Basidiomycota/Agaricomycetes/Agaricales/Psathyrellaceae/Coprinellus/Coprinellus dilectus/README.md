@@ -1,5 +1,4 @@
-Coprinellus dilectus (Fr.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinellus dilectus (Fr.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

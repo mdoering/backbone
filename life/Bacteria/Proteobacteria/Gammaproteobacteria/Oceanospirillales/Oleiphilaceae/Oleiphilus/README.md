@@ -1,5 +1,4 @@
-Oleiphilus Golyshin et al., 2002 GENUS
-=======
+# Oleiphilus Golyshin et al., 2002 GENUS
 
 #### Status
 ACCEPTED

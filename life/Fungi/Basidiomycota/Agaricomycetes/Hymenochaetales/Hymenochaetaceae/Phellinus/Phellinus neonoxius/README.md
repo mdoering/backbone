@@ -1,5 +1,4 @@
-Phellinus neonoxius Ryvarden, 2004 SPECIES
-=======
+# Phellinus neonoxius Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teloschistes verrucosus Hillmann SPECIES
-=======
+# Teloschistes verrucosus Hillmann SPECIES
 
 #### Status
 ACCEPTED

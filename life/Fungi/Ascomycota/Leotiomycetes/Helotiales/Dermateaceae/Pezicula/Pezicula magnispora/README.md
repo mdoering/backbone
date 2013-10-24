@@ -1,5 +1,4 @@
-Pezicula magnispora Z.H. Zhong & Zheng Wang SPECIES
-=======
+# Pezicula magnispora Z.H. Zhong & Zheng Wang SPECIES
 
 #### Status
 ACCEPTED

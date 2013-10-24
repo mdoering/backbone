@@ -1,17 +1,16 @@
-Wedekindella Dunbar & Henbest, 1930 GENUS
-=======
+# Wedekindellina Dunbar & Henbest, 1933 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Amer. J. Sci. , (5) 20, 362.
+Contr. Cushman Lab. , Spec. Pub. No. 4, 134.
 
 #### Original name
-null
+Wedekindella Dunbar & Henbest, 1930
 
 ### Remarks
 null

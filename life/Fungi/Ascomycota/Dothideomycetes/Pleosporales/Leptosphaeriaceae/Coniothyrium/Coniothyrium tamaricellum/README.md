@@ -1,5 +1,4 @@
-Coniothyrium tamaricellum Brunaud SPECIES
-=======
+# Coniothyrium tamaricellum Brunaud SPECIES
 
 #### Status
 ACCEPTED

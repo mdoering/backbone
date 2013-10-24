@@ -1,5 +1,4 @@
-Lecidella opponenda Arnold SPECIES
-=======
+# Lecidella opponenda Arnold SPECIES
 
 #### Status
 ACCEPTED

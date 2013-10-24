@@ -1,5 +1,4 @@
-Cortinarius uraceovernus Rob. Henry SPECIES
-=======
+# Cortinarius uraceovernus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelius laticeps Ehrenberg, 1840 SPECIES
-=======
+# Trachelius laticeps Ehrenberg, 1840 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricites Meschinelli, 1891 GENUS
-=======
+# Agaricites Meschinelli, 1891 GENUS
 
 #### Status
 ACCEPTED

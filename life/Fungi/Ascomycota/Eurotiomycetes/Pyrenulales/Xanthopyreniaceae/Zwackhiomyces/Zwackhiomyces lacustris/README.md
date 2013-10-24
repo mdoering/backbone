@@ -1,14 +1,13 @@
-Thelidium lacustre Arnold SPECIES
-=======
+# Zwackhiomyces lacustris (Arnold) Orange SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 43: 388 (1893)
+Mycotaxon 81: 275 (2002)
 
 #### Original name
 Thelidium lacustre Arnold

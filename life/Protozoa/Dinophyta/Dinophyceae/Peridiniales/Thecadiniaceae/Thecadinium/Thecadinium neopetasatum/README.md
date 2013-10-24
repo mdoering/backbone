@@ -1,5 +1,4 @@
-Thecadinium neopetasatum Saunders & Dodge SPECIES
-=======
+# Thecadinium neopetasatum Saunders & Dodge SPECIES
 
 #### Status
 ACCEPTED

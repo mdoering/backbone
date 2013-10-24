@@ -1,5 +1,4 @@
-Agaricus pseudovillatus Rauschert, 1992 SPECIES
-=======
+# Agaricus pseudovillatus Rauschert, 1992 SPECIES
 
 #### Status
 ACCEPTED

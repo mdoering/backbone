@@ -1,5 +1,4 @@
-Phacidium arundinaceum Ces. SPECIES
-=======
+# Phacidium arundinaceum Ces. SPECIES
 
 #### Status
 ACCEPTED

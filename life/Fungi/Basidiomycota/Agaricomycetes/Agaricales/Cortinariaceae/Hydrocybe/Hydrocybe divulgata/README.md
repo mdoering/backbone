@@ -1,5 +1,4 @@
-Hydrocybe divulgata (Britzelm.) M.M. Moser SPECIES
-=======
+# Hydrocybe divulgata (Britzelm.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

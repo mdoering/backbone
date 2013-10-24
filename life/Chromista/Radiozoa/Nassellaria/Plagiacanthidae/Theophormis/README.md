@@ -1,5 +1,4 @@
-Theophormis Haeckel, 1881 GENUS
-=======
+# Theophormis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

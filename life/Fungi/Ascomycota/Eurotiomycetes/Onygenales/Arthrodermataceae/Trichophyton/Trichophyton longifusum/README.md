@@ -1,14 +1,13 @@
-Epidermophyton longifusum (Flórián & Galgoczy) R.O. Novak & Galgoczy, 1969 SPECIES
-=======
+# Trichophyton longifusum (Flórián & Galgoczy) Ajello, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. hung. 15(1-2): 130 (1969)
+Sabouraudia 6(2): 148 (1968)
 
 #### Original name
 Keratinomyces longifusus Flórián & Galgoczy, 1964

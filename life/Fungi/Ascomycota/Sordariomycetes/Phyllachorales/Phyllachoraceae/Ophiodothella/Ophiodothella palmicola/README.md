@@ -1,5 +1,4 @@
-Ophiodothella palmicola Bat. & Peres, 1960 SPECIES
-=======
+# Ophiodothella palmicola Bat. & Peres, 1960 SPECIES
 
 #### Status
 ACCEPTED

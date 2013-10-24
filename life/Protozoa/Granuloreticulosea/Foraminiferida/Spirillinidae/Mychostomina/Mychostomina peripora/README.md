@@ -1,5 +1,4 @@
-Mychostomina peripora Zheng, 1988 SPECIES
-=======
+# Mychostomina peripora Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

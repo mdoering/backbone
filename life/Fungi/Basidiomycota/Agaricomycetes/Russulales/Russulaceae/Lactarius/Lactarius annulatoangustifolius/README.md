@@ -1,5 +1,4 @@
-Lactarius annulatoangustifolius (Beeli) Buyck, 1989 SPECIES
-=======
+# Lactarius annulatoangustifolius (Beeli) Buyck, 1989 SPECIES
 
 #### Status
 ACCEPTED

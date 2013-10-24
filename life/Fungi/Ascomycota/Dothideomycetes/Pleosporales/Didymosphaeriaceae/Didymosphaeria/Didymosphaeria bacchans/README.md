@@ -1,5 +1,4 @@
-Didymosphaeria bacchans Pass. SPECIES
-=======
+# Didymosphaeria bacchans Pass. SPECIES
 
 #### Status
 ACCEPTED

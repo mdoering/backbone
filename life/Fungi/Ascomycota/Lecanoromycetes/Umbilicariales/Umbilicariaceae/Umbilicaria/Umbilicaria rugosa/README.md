@@ -1,5 +1,4 @@
-Umbilicaria rugosa C.W. Dodge & G.E. Baker SPECIES
-=======
+# Umbilicaria rugosa C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma xerophilum Rudn.-Jez. SPECIES
-=======
+# Hebeloma xerophilum Rudn.-Jez. SPECIES
 
 #### Status
 ACCEPTED

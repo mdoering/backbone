@@ -1,5 +1,4 @@
-Agaricus jenensis Batsch SPECIES
-=======
+# Agaricus jenensis Batsch SPECIES
 
 #### Status
 ACCEPTED

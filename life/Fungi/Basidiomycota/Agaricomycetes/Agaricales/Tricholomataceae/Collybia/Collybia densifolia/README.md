@@ -1,5 +1,4 @@
-Collybia densifolia Velen. SPECIES
-=======
+# Collybia densifolia Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia pruinosa Speg., 1879 SPECIES
-=======
+# Ramularia pruinosa Speg., 1879 SPECIES
 
 #### Status
 ACCEPTED

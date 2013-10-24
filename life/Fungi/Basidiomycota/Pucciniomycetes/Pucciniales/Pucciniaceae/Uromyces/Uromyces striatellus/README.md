@@ -1,5 +1,4 @@
-Uromyces striatellus Tranzschel SPECIES
-=======
+# Uromyces striatellus Tranzschel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Discosporium sulphureum (Sacc.) Petr., 1921 SPECIES
-=======
+# Discosporina sulphurea (Sacc.) Petr., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 16: 187 (1963)
 
 #### Original name
-null
+Myxosporium sulphureum Sacc., 1884
 
 ### Remarks
 null

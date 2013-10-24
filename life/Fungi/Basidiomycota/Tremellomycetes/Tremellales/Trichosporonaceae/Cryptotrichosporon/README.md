@@ -1,5 +1,4 @@
-Cryptotrichosporon Okoli & Boekhout GENUS
-=======
+# Cryptotrichosporon Okoli & Boekhout GENUS
 
 #### Status
 ACCEPTED

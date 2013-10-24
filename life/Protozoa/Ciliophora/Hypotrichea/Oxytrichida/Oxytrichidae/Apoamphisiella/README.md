@@ -1,5 +1,4 @@
-Apoamphisiella Foissner, 1997 GENUS
-=======
+# Apoamphisiella Foissner, 1997 GENUS
 
 #### Status
 ACCEPTED

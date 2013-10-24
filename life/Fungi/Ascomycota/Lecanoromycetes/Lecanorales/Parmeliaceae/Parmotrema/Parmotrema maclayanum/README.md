@@ -1,5 +1,4 @@
-Parmotrema maclayanum (Müll. Arg.) Hale SPECIES
-=======
+# Parmotrema maclayanum (Müll. Arg.) Hale SPECIES
 
 #### Status
 ACCEPTED

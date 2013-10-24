@@ -1,5 +1,4 @@
-Melanconidium betulina (G.H. Otth) Kuntze SPECIES
-=======
+# Melanconidium betulina (G.H. Otth) Kuntze SPECIES
 
 #### Status
 ACCEPTED

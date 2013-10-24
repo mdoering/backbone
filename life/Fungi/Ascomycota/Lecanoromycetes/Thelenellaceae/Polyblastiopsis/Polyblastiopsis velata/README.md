@@ -1,14 +1,13 @@
-Polyblastia velata Müll. Arg. SPECIES
-=======
+# Polyblastiopsis velata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 70: 428 (1887)
+Cat. Lich. Univers. 1: 353 (1922)
 
 #### Original name
 Polyblastia velata Müll. Arg.

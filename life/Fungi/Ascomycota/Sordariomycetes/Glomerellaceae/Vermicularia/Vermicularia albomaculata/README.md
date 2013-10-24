@@ -1,5 +1,4 @@
-Vermicularia albomaculata Schwein. SPECIES
-=======
+# Vermicularia albomaculata Schwein. SPECIES
 
 #### Status
 ACCEPTED

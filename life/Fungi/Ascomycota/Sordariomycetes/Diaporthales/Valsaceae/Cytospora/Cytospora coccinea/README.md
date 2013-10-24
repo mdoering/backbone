@@ -1,14 +1,13 @@
-Cytispora coccinea (Rebent.) Fr. SPECIES
-=======
+# Cytospora coccinea (Rebent.) Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 541 (1823)
 
 #### Original name
 Naemaspora coccinea Rebent.

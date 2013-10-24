@@ -1,5 +1,4 @@
-Gyalidea phyllophila Vezda SPECIES
-=======
+# Gyalidea phyllophila Vezda SPECIES
 
 #### Status
 ACCEPTED

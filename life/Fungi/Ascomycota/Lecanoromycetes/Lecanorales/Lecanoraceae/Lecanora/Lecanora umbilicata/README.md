@@ -1,5 +1,4 @@
-Lecanora umbilicata (Hoffm.) Röhl. SPECIES
-=======
+# Lecanora umbilicata (Hoffm.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

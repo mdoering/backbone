@@ -1,5 +1,4 @@
-Meliola strychnicola Gaillard SPECIES
-=======
+# Meliola strychnicola Gaillard SPECIES
 
 #### Status
 ACCEPTED

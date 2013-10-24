@@ -1,5 +1,4 @@
-Gaarderia armata Carbonell-Moore, 1994 SPECIES
-=======
+# Gaarderia armata Carbonell-Moore, 1994 SPECIES
 
 #### Status
 ACCEPTED

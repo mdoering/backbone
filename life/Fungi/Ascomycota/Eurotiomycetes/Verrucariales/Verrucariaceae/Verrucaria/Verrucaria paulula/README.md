@@ -1,5 +1,4 @@
-Verrucaria paulula Sandst. SPECIES
-=======
+# Verrucaria paulula Sandst. SPECIES
 
 #### Status
 ACCEPTED

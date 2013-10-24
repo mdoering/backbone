@@ -1,5 +1,4 @@
-Uredo boopidicola Speg. SPECIES
-=======
+# Uredo boopidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

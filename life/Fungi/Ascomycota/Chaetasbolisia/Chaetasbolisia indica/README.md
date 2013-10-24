@@ -1,5 +1,4 @@
-Chaetasbolisia indica U.S. Patel, A.K. Pandey & R.C. Rajak SPECIES
-=======
+# Chaetasbolisia indica U.S. Patel, A.K. Pandey & R.C. Rajak SPECIES
 
 #### Status
 ACCEPTED

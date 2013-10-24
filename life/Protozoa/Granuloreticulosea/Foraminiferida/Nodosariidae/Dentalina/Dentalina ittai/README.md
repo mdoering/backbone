@@ -1,5 +1,4 @@
-Dentalina ittai Loeblich & Tappan, 1953 SPECIES
-=======
+# Dentalina ittai Loeblich & Tappan, 1953 SPECIES
 
 #### Status
 ACCEPTED

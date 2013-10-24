@@ -1,5 +1,4 @@
-Lecidea minutula Müll. Arg. SPECIES
-=======
+# Lecidea minutula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

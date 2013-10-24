@@ -1,5 +1,4 @@
-Usnea ochrophora (Stizenb.) Motyka SPECIES
-=======
+# Usnea ochrophora (Stizenb.) Motyka SPECIES
 
 #### Status
 ACCEPTED

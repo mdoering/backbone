@@ -1,5 +1,4 @@
-Micropsalliota xanthorubescens Heinem. SPECIES
-=======
+# Micropsalliota xanthorubescens Heinem. SPECIES
 
 #### Status
 ACCEPTED

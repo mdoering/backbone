@@ -1,5 +1,4 @@
-Xanthoparmelia hensseniae O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
-=======
+# Xanthoparmelia hensseniae O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

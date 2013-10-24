@@ -1,5 +1,4 @@
-Neoanomalina McCulloch, 1977 GENUS
-=======
+# Neoanomalina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

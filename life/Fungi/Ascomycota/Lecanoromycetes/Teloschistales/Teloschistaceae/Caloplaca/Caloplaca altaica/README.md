@@ -1,5 +1,4 @@
-Caloplaca altaica Oxner SPECIES
-=======
+# Caloplaca altaica Oxner SPECIES
 
 #### Status
 ACCEPTED

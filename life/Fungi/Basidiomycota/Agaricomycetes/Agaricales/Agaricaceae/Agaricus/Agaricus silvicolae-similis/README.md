@@ -1,5 +1,4 @@
-Agaricus silvicolae-similis Bohus & Locsmándi SPECIES
-=======
+# Agaricus silvicolae-similis Bohus & Locsmándi SPECIES
 
 #### Status
 ACCEPTED

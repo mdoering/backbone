@@ -1,5 +1,4 @@
-Thermoplasmataceae FAMILY
-=======
+# Thermoplasmataceae FAMILY
 
 #### Status
 ACCEPTED

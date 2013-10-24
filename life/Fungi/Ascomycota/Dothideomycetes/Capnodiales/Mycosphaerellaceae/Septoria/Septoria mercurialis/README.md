@@ -1,5 +1,4 @@
-Septoria mercurialis Westend. SPECIES
-=======
+# Septoria mercurialis Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopadium monosporum (C. Knight) Hellb. SPECIES
-=======
+# Lopadium monosporum (C. Knight) Hellb. SPECIES
 
 #### Status
 ACCEPTED

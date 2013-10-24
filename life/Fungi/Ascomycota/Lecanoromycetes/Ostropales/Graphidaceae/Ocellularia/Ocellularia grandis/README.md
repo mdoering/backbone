@@ -1,14 +1,13 @@
-Thelotrema grande Hale SPECIES
-=======
+# Ocellularia grandis (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Phytologia 26: 416 (1973)
+Mycotaxon 11(1): 136 (1980)
 
 #### Original name
 Thelotrema grande Hale

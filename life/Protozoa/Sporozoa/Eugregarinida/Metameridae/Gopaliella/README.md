@@ -1,5 +1,4 @@
-Gopaliella Ganapati, Kalavati & Sundaram, 1974 GENUS
-=======
+# Gopaliella Ganapati, Kalavati & Sundaram, 1974 GENUS
 
 #### Status
 ACCEPTED

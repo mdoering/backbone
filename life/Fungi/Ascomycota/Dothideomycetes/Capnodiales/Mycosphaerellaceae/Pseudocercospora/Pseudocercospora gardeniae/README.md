@@ -1,5 +1,4 @@
-Pseudocercospora gardeniae (Boedijn) Deighton SPECIES
-=======
+# Pseudocercospora gardeniae (Boedijn) Deighton SPECIES
 
 #### Status
 ACCEPTED

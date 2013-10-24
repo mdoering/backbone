@@ -1,5 +1,4 @@
-Xyloma fagineum Pers. SPECIES
-=======
+# Xyloma fagineum Pers. SPECIES
 
 #### Status
 ACCEPTED

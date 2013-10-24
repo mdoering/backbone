@@ -1,5 +1,4 @@
-Hendersonia fructigena var. fructigena VARIETY
-=======
+# Hendersonia fructigena Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia fructigena var. fructigena
+Hendersonia fructigena Sacc.
 
 ### Remarks
 null

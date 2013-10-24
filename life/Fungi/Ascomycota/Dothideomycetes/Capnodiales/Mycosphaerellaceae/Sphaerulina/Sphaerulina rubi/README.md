@@ -1,5 +1,4 @@
-Sphaerulina rubi Demaree & Wilcox SPECIES
-=======
+# Sphaerulina rubi Demaree & Wilcox SPECIES
 
 #### Status
 ACCEPTED

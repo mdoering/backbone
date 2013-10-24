@@ -1,5 +1,4 @@
-Gnomonia epilobii (Fuckel) Auersw. SPECIES
-=======
+# Gnomonia epilobii (Fuckel) Auersw. SPECIES
 
 #### Status
 ACCEPTED

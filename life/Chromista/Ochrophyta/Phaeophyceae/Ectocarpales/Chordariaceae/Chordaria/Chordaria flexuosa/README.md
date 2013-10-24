@@ -1,5 +1,4 @@
-Chordaria flexuosa C. Agardh SPECIES
-=======
+# Chordaria flexuosa C. Agardh SPECIES
 
 #### Status
 ACCEPTED

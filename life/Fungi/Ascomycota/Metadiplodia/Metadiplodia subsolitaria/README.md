@@ -1,5 +1,4 @@
-Metadiplodia subsolitaria (Schwein.) Zambett. SPECIES
-=======
+# Metadiplodia subsolitaria (Schwein.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

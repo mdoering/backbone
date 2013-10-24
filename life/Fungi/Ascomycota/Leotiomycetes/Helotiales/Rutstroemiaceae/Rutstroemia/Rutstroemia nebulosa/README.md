@@ -1,5 +1,4 @@
-Rutstroemia nebulosa (Cooke) Kauffman & Kanouse SPECIES
-=======
+# Rutstroemia nebulosa (Cooke) Kauffman & Kanouse SPECIES
 
 #### Status
 ACCEPTED

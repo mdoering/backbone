@@ -1,5 +1,4 @@
-Sticta plumbea Mong. SPECIES
-=======
+# Sticta plumbea Mong. SPECIES
 
 #### Status
 ACCEPTED

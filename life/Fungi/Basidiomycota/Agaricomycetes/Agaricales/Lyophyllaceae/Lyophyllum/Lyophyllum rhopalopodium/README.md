@@ -1,5 +1,4 @@
-Lyophyllum rhopalopodium Clémençon SPECIES
-=======
+# Lyophyllum rhopalopodium Clémençon SPECIES
 
 #### Status
 ACCEPTED

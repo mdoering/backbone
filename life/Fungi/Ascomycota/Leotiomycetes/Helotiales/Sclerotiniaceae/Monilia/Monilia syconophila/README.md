@@ -1,5 +1,4 @@
-Monilia syconophila Rabenh. SPECIES
-=======
+# Monilia syconophila Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cauveridinium Khowaja-Ateequzzaman & Jain, 1990 GENUS
-=======
+# Cauveridinium Khowaja-Ateequzzaman & Jain, 1990 GENUS
 
 #### Status
 ACCEPTED

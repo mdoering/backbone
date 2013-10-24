@@ -1,17 +1,16 @@
-Agaricus pseudopratensis var. niveus Bohus VARIETY
-=======
+# Agaricus pseudopratensis (Bohus) Wasser, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls hist. -nat. Mus. natn. hung. 72: 94 (1980)
+Ukr. bot. Zh. 33(3): 250 (1976)
 
 #### Original name
-Agaricus pseudopratensis var. niveus Bohus
+Psalliota pseudopratensis Bohus, 1939
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clasterosporium lini Oudem. SPECIES
-=======
+# Clasterosporium lini Oudem. SPECIES
 
 #### Status
 ACCEPTED

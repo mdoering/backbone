@@ -1,5 +1,4 @@
-Halogranum gelatinilyticum Cui, Yang, Gao & Xu, 2011 SPECIES
-=======
+# Halogranum gelatinilyticum Cui, Yang, Gao & Xu, 2011 SPECIES
 
 #### Status
 ACCEPTED

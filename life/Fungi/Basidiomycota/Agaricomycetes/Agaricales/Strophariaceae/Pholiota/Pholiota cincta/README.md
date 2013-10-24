@@ -1,5 +1,4 @@
-Pholiota cincta (Cleland) Grgur. SPECIES
-=======
+# Pholiota cincta (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

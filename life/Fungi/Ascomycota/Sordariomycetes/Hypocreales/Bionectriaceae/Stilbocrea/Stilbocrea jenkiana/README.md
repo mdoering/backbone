@@ -1,5 +1,4 @@
-Stilbocrea jenkiana Viégas SPECIES
-=======
+# Stilbocrea jenkiana Viégas SPECIES
 
 #### Status
 ACCEPTED

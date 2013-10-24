@@ -1,5 +1,4 @@
-Delicatula gossypina Velen. SPECIES
-=======
+# Delicatula gossypina Velen. SPECIES
 
 #### Status
 ACCEPTED

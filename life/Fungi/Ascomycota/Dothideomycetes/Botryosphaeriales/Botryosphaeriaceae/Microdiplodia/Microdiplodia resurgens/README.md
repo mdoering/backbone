@@ -1,5 +1,4 @@
-Microdiplodia resurgens (Cooke & Harkn.) Tassi SPECIES
-=======
+# Microdiplodia resurgens (Cooke & Harkn.) Tassi SPECIES
 
 #### Status
 ACCEPTED

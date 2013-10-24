@@ -1,5 +1,4 @@
-Phragmidium laevigatum Rabenh. SPECIES
-=======
+# Phragmidium laevigatum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

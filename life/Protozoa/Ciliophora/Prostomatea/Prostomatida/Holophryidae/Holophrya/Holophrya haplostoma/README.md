@@ -1,5 +1,4 @@
-Holophrya haplostoma André, 1916 SPECIES
-=======
+# Holophrya haplostoma André, 1916 SPECIES
 
 #### Status
 ACCEPTED

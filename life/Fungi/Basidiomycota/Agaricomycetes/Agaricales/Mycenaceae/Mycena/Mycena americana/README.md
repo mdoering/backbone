@@ -1,5 +1,4 @@
-Mycena americana (A.H. Sm.) Singer SPECIES
-=======
+# Mycena americana (A.H. Sm.) Singer SPECIES
 
 #### Status
 ACCEPTED

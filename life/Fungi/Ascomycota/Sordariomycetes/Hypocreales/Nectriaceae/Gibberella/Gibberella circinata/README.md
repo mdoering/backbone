@@ -1,5 +1,4 @@
-Gibberella circinata Nirenberg & O'Donnell ex Britz, T.A. Cout., M.J. Wingf. & Marasas, 2002 SPECIES
-=======
+# Gibberella circinata Nirenberg & O'Donnell ex Britz, T.A. Cout., M.J. Wingf. & Marasas, 2002 SPECIES
 
 #### Status
 ACCEPTED

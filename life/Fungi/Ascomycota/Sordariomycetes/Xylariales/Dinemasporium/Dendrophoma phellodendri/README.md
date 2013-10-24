@@ -1,5 +1,4 @@
-Dendrophoma phellodendri Gucevic SPECIES
-=======
+# Dendrophoma phellodendri Gucevic SPECIES
 
 #### Status
 ACCEPTED

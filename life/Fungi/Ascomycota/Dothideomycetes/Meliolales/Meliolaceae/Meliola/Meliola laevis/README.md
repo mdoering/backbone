@@ -1,5 +1,4 @@
-Meliola laevis Berk. & M.A. Curtis SPECIES
-=======
+# Meliola laevis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

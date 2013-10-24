@@ -1,5 +1,4 @@
-Pluteus cuspidatus Berk. SPECIES
-=======
+# Pluteus cuspidatus Berk. SPECIES
 
 #### Status
 ACCEPTED

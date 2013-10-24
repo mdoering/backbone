@@ -1,5 +1,4 @@
-Tricladium indicum Sati & N. Tiwari, 1992 SPECIES
-=======
+# Tricladium indicum Sati & N. Tiwari, 1992 SPECIES
 
 #### Status
 ACCEPTED

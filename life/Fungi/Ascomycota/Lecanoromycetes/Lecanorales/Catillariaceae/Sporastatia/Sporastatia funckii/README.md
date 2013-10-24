@@ -1,5 +1,4 @@
-Sporastatia funckii (Flot.) Dalla Torre & Sarnth. SPECIES
-=======
+# Sporastatia funckii (Flot.) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

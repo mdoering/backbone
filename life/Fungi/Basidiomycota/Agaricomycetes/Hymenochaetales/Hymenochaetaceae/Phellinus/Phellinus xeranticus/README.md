@@ -1,17 +1,16 @@
-Xanthochrous cereus (Berk.) Trotter, 1972 SPECIES
-=======
+# Phellinus xeranticus (Berk.) Pegler, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 21: 44 (1967)
 
 #### Original name
-null
+Polyporus xeranticus Berk., 1854
 
 ### Remarks
 null

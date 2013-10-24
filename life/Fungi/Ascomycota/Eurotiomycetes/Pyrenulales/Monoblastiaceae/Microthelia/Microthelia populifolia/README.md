@@ -1,5 +1,4 @@
-Microthelia populifolia (Ellis & Everh.) Kuntze SPECIES
-=======
+# Microthelia populifolia (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

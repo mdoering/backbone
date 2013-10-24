@@ -1,5 +1,4 @@
-Peronospora satarensis Patil {?} SPECIES
-=======
+# Peronospora satarensis Patil {?} SPECIES
 
 #### Status
 ACCEPTED

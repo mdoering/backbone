@@ -1,5 +1,4 @@
-Heteroconium Petrak, 1949 GENUS
-=======
+# Heteroconium Petrak, 1949 GENUS
 
 #### Status
 ACCEPTED

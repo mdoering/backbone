@@ -1,5 +1,4 @@
-Cordyceps bombi Rick ex Lloyd SPECIES
-=======
+# Cordyceps bombi Rick ex Lloyd SPECIES
 
 #### Status
 ACCEPTED

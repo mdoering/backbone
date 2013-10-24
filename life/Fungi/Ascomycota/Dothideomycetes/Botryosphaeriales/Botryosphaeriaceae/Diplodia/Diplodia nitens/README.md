@@ -1,5 +1,4 @@
-Diplodia nitens Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Diplodia nitens Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

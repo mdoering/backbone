@@ -1,5 +1,4 @@
-Lactarius dryadophilus Kühner SPECIES
-=======
+# Lactarius dryadophilus Kühner SPECIES
 
 #### Status
 ACCEPTED

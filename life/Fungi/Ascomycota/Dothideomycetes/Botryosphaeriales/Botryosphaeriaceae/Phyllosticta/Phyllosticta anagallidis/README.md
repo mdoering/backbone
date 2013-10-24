@@ -1,5 +1,4 @@
-Phyllosticta anagallidis Hollós SPECIES
-=======
+# Phyllosticta anagallidis Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma amethysteum (Berk. & Broome) Petch SPECIES
-=======
+# Entoloma amethysteum (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

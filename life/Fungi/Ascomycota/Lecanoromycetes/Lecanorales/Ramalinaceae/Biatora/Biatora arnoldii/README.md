@@ -1,5 +1,4 @@
-Biatora arnoldii (Körb.) Hepp SPECIES
-=======
+# Biatora arnoldii (Körb.) Hepp SPECIES
 
 #### Status
 ACCEPTED

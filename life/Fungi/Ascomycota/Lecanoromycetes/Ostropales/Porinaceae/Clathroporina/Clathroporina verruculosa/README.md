@@ -1,5 +1,4 @@
-Clathroporina verruculosa (Vain.) Zahlbr. SPECIES
-=======
+# Clathroporina verruculosa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

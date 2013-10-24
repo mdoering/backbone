@@ -1,5 +1,4 @@
-Aecidium nonneae Thüm. SPECIES
-=======
+# Aecidium nonneae Thüm. SPECIES
 
 #### Status
 ACCEPTED

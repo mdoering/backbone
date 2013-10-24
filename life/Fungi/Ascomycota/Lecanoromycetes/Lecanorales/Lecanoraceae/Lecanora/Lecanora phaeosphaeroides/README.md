@@ -1,5 +1,4 @@
-Lecanora phaeosphaeroides (Vain.) Zahlbr. SPECIES
-=======
+# Lecanora phaeosphaeroides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

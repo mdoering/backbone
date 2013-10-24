@@ -1,5 +1,4 @@
-Dacrymyces microsporus P. Karst. SPECIES
-=======
+# Dacrymyces microsporus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

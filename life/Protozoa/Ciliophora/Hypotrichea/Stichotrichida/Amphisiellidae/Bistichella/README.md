@@ -1,5 +1,4 @@
-Bistichella GENUS
-=======
+# Bistichella GENUS
 
 #### Status
 ACCEPTED

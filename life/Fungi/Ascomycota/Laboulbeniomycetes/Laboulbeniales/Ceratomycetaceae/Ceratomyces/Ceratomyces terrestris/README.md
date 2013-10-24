@@ -1,5 +1,4 @@
-Ceratomyces terrestris Thaxt. SPECIES
-=======
+# Ceratomyces terrestris Thaxt. SPECIES
 
 #### Status
 ACCEPTED

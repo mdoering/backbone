@@ -1,5 +1,4 @@
-Gibberidea carpini (Sacc.) Kuntze SPECIES
-=======
+# Gibberidea carpini (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

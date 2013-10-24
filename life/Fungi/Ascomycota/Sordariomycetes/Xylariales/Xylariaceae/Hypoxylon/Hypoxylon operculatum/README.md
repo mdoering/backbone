@@ -1,5 +1,4 @@
-Hypoxylon operculatum Bull. SPECIES
-=======
+# Hypoxylon operculatum Bull. SPECIES
 
 #### Status
 ACCEPTED

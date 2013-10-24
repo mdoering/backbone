@@ -1,5 +1,4 @@
-Pluricellaesporites tenuis Sheffy & Dilcher SPECIES
-=======
+# Pluricellaesporites tenuis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

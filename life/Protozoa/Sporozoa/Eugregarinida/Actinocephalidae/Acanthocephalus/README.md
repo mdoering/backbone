@@ -1,5 +1,4 @@
-Acanthocephalus A. von Frantzius, 1848 GENUS
-=======
+# Acanthocephalus A. von Frantzius, 1848 GENUS
 
 #### Status
 ACCEPTED

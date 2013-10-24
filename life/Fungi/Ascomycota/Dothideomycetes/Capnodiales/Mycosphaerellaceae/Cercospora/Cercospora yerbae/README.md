@@ -1,5 +1,4 @@
-Cercospora yerbae Speg. SPECIES
-=======
+# Cercospora yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

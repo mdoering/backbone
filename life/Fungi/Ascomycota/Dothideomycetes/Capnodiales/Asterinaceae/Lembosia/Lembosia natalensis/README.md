@@ -1,5 +1,4 @@
-Lembosia natalensis Doidge SPECIES
-=======
+# Lembosia natalensis Doidge SPECIES
 
 #### Status
 ACCEPTED

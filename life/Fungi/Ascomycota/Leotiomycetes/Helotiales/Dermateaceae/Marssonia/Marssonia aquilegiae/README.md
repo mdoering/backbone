@@ -1,5 +1,4 @@
-Marssonia aquilegiae Dearn. SPECIES
-=======
+# Marssonia aquilegiae Dearn. SPECIES
 
 #### Status
 ACCEPTED

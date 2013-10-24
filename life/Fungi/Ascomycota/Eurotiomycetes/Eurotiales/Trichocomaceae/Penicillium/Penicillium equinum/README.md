@@ -1,5 +1,4 @@
-Penicillium equinum J.F.H. Beyma SPECIES
-=======
+# Penicillium equinum J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

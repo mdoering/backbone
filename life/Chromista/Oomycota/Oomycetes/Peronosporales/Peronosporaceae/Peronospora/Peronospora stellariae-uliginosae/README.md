@@ -1,5 +1,4 @@
-Peronospora stellariae-uliginosae Sawada SPECIES
-=======
+# Peronospora stellariae-uliginosae Sawada SPECIES
 
 #### Status
 ACCEPTED

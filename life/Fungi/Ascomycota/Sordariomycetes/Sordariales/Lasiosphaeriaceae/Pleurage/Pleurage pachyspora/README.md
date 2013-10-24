@@ -1,5 +1,4 @@
-Pleurage pachyspora (Mouton) C. Moreau SPECIES
-=======
+# Pleurage pachyspora (Mouton) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

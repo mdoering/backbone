@@ -1,5 +1,4 @@
-Coniothyrium cheiranthi Zerova SPECIES
-=======
+# Coniothyrium cheiranthi Zerova SPECIES
 
 #### Status
 ACCEPTED

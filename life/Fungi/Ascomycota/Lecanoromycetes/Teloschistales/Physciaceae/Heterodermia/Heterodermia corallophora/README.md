@@ -1,5 +1,4 @@
-Heterodermia corallophora (Taylor) Skorepa SPECIES
-=======
+# Heterodermia corallophora (Taylor) Skorepa SPECIES
 
 #### Status
 ACCEPTED

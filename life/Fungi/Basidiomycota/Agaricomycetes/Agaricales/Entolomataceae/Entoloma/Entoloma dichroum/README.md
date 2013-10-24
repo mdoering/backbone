@@ -1,17 +1,16 @@
-Rhodophyllus dichrous var. dichrous VARIETY
-=======
+# Entoloma dichroum (Pers.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) 97 (1871)
 
 #### Original name
-Rhodophyllus dichrous var. dichrous
+Agaricus dichrous Pers., 1801
 
 ### Remarks
 null

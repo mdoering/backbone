@@ -1,5 +1,4 @@
-Stemphylium verruculosum var. verruculosum VARIETY
-=======
+# Stemphylium verruculosum (Zimm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 4: 522 (1886)
 
 #### Original name
-Stemphylium verruculosum var. verruculosum
+Macrosporium verruculosum Bubák
 
 ### Remarks
 null

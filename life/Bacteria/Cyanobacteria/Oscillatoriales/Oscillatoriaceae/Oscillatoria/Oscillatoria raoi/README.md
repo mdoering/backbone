@@ -1,5 +1,4 @@
-Oscillatoria raoi De Toni f. SPECIES
-=======
+# Oscillatoria raoi De Toni f. SPECIES
 
 #### Status
 ACCEPTED

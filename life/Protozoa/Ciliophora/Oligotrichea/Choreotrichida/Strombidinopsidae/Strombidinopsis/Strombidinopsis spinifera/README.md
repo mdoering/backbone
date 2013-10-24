@@ -1,5 +1,4 @@
-Strombidinopsis spinifera SPECIES
-=======
+# Strombidinopsis spinifera SPECIES
 
 #### Status
 ACCEPTED

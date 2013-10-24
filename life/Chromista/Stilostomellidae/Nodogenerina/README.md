@@ -1,5 +1,4 @@
-Nodogenerina Cushman, 1927 GENUS
-=======
+# Nodogenerina Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

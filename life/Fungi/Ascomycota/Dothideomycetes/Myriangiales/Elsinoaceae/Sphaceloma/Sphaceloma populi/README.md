@@ -1,17 +1,16 @@
-Hadrotrichum populi var. populi VARIETY
-=======
+# Sphaceloma populi (Sacc.) Jenkins, 1932 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Agric. Res. , Washington 44: 694 (1932)
 
 #### Original name
-Hadrotrichum populi var. populi
+Hadrotrichum populi Sacc., 1878
 
 ### Remarks
 null

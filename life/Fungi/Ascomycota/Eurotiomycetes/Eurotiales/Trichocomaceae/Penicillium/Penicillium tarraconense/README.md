@@ -1,5 +1,4 @@
-Penicillium tarraconense C. Ramírez & A.T. Martínez, 1980 SPECIES
-=======
+# Penicillium tarraconense C. Ramírez & A.T. Martínez, 1980 SPECIES
 
 #### Status
 ACCEPTED

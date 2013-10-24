@@ -1,5 +1,4 @@
-Pseudocercospora ahmadiana U. Braun SPECIES
-=======
+# Pseudocercospora ahmadiana U. Braun SPECIES
 
 #### Status
 ACCEPTED

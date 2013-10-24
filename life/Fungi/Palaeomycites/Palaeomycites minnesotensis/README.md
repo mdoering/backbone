@@ -1,5 +1,4 @@
-Palaeomycites minnesotensis (F. Rosend.) Kalgutkar & Janson. SPECIES
-=======
+# Palaeomycites minnesotensis (F. Rosend.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

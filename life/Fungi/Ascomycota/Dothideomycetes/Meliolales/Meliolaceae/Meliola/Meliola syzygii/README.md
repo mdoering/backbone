@@ -1,5 +1,4 @@
-Meliola syzygii (Hansf.) Cif. SPECIES
-=======
+# Meliola syzygii (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota murinidisca Murrill SPECIES
-=======
+# Lepiota murinidisca Murrill SPECIES
 
 #### Status
 ACCEPTED

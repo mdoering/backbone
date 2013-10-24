@@ -1,5 +1,4 @@
-Thalloidima vesiculosa Tourr. ex M. Choisy SPECIES
-=======
+# Thalloidima vesiculosa Tourr. ex M. Choisy SPECIES
 
 #### Status
 ACCEPTED

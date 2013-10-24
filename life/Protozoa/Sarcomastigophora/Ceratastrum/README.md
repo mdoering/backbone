@@ -1,5 +1,4 @@
-Ceratastrum Haeckel, 1881 GENUS
-=======
+# Ceratastrum Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

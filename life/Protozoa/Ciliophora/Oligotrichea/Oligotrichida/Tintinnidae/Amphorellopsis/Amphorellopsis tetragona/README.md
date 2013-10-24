@@ -1,5 +1,4 @@
-Amphorellopsis tetragona (Jørgensen, 1924) Kofoid & Campbell, 1929 SPECIES
-=======
+# Amphorellopsis tetragona (Jørgensen, 1924) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

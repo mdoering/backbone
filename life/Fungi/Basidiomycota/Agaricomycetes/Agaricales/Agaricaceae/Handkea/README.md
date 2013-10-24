@@ -1,5 +1,4 @@
-Handkea GENUS
-=======
+# Handkea GENUS
 
 #### Status
 ACCEPTED

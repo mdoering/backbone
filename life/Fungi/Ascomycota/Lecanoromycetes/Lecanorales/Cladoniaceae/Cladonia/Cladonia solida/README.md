@@ -1,5 +1,4 @@
-Cladonia solida Vain. SPECIES
-=======
+# Cladonia solida Vain. SPECIES
 
 #### Status
 ACCEPTED

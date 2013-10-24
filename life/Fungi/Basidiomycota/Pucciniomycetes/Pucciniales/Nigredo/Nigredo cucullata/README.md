@@ -1,5 +1,4 @@
-Nigredo cucullata (Syd. & P. Syd.) Arthur SPECIES
-=======
+# Nigredo cucullata (Syd. & P. Syd.) Arthur SPECIES
 
 #### Status
 ACCEPTED

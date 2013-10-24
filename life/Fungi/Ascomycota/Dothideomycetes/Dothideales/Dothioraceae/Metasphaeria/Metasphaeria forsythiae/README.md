@@ -1,5 +1,4 @@
-Metasphaeria forsythiae Pass. SPECIES
-=======
+# Metasphaeria forsythiae Pass. SPECIES
 
 #### Status
 ACCEPTED

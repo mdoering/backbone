@@ -1,5 +1,4 @@
-Amphitrichum araliae Spreng. SPECIES
-=======
+# Amphitrichum araliae Spreng. SPECIES
 
 #### Status
 ACCEPTED

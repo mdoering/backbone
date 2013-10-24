@@ -1,8 +1,7 @@
-Lecanora valamoensis (Vain.) Zahlbr. SPECIES
-=======
+# Lecanora valamoënsis (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

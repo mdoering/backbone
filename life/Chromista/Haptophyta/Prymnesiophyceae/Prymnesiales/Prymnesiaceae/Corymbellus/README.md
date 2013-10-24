@@ -1,5 +1,4 @@
-Corymbellus Green, J. C., 1976 GENUS
-=======
+# Corymbellus Green, J. C., 1976 GENUS
 
 #### Status
 ACCEPTED

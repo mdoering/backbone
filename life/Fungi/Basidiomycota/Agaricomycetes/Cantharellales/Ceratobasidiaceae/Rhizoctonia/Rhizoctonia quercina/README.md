@@ -1,5 +1,4 @@
-Rhizoctonia quercina Hartig SPECIES
-=======
+# Rhizoctonia quercina Hartig SPECIES
 
 #### Status
 ACCEPTED

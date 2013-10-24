@@ -1,5 +1,4 @@
-Marasmius jalapensis Murrill SPECIES
-=======
+# Marasmius jalapensis Murrill SPECIES
 
 #### Status
 ACCEPTED

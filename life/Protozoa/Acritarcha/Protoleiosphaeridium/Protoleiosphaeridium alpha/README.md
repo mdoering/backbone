@@ -1,5 +1,4 @@
-Protoleiosphaeridium alpha Gowda & Sreenivasa, 1969 SPECIES
-=======
+# Protoleiosphaeridium alpha Gowda & Sreenivasa, 1969 SPECIES
 
 #### Status
 ACCEPTED

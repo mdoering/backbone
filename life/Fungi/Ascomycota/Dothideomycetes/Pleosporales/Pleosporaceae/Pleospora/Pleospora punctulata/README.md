@@ -1,5 +1,4 @@
-Pleospora punctulata I. Hino & Katum. SPECIES
-=======
+# Pleospora punctulata I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

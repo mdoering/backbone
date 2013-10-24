@@ -1,5 +1,4 @@
-Laestadia briosiana Magnaghi SPECIES
-=======
+# Laestadia briosiana Magnaghi SPECIES
 
 #### Status
 ACCEPTED

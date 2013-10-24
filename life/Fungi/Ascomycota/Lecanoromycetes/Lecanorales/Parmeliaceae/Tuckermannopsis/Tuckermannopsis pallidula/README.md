@@ -1,5 +1,4 @@
-Tuckermannopsis pallidula (Tuck.) Hale SPECIES
-=======
+# Tuckermannopsis pallidula (Tuck.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wellmanella Finlay, 1947 GENUS
-=======
+# Wellmanella Finlay, 1947 GENUS
 
 #### Status
 ACCEPTED

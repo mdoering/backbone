@@ -1,5 +1,4 @@
-Sericeomyces pulcherrimus (P.W. Graff) Heinem. SPECIES
-=======
+# Sericeomyces pulcherrimus (P.W. Graff) Heinem. SPECIES
 
 #### Status
 ACCEPTED

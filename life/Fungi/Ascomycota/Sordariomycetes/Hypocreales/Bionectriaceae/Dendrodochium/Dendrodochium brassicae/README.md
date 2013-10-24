@@ -1,5 +1,4 @@
-Dendrodochium brassicae Sacc. SPECIES
-=======
+# Dendrodochium brassicae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria gracillicima A. Mayer SPECIES
-=======
+# Fragilaria gracillicima A. Mayer SPECIES
 
 #### Status
 ACCEPTED

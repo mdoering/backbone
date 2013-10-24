@@ -1,5 +1,4 @@
-Cicinobolus verbenae f. verbenae FORM
-=======
+# Cicinobolus verbenae C. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinobolus verbenae f. verbenae
+Cicinobolus verbenae C. Massal.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius lilacinicolor Reumaux SPECIES
-=======
+# Cortinarius lilacinicolor Reumaux SPECIES
 
 #### Status
 ACCEPTED

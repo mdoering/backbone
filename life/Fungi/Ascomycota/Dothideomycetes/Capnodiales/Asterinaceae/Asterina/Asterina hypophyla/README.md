@@ -1,5 +1,4 @@
-Asterina hypophyla (Schwein.) Berk. ex Theiss. SPECIES
-=======
+# Asterina hypophyla (Schwein.) Berk. ex Theiss. SPECIES
 
 #### Status
 ACCEPTED

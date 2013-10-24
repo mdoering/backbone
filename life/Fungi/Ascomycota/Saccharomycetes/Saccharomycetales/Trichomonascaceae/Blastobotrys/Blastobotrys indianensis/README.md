@@ -1,17 +1,16 @@
-Sympodiomyces indianaensis Kurtzman SPECIES
-=======
+# Blastobotrys indianensis (Kurtzman) Kurtzman & Robnett, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 7(1): 149 (2007)
 
 #### Original name
-Sympodiomyces indianaensis Kurtzman
+Sympodiomyces indianensis Kurtzman, 2004
 
 ### Remarks
 null

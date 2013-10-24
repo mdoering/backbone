@@ -1,5 +1,4 @@
-Phragmodothella GENUS
-=======
+# Phragmodothella GENUS
 
 #### Status
 ACCEPTED

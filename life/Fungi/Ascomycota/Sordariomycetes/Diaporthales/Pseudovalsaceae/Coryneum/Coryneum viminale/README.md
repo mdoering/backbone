@@ -1,5 +1,4 @@
-Coryneum viminale Cooke & Massee SPECIES
-=======
+# Coryneum viminale Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

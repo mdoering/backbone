@@ -1,5 +1,4 @@
-Pseudokephyrion ovum (Pascher & Ruttner) G. Schmid SPECIES
-=======
+# Pseudokephyrion ovum (Pascher & Ruttner) G. Schmid SPECIES
 
 #### Status
 ACCEPTED

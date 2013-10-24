@@ -1,5 +1,4 @@
-Entoloma variabile Peck SPECIES
-=======
+# Entoloma variabile Peck SPECIES
 
 #### Status
 ACCEPTED

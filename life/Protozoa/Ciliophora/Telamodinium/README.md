@@ -1,5 +1,4 @@
-Telamodinium GENUS
-=======
+# Telamodinium GENUS
 
 #### Status
 ACCEPTED

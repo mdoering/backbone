@@ -1,5 +1,4 @@
-Pyrenopeziza lycopsidis var. lycopsidis VARIETY
-=======
+# Pyrenopeziza lycopsidis Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyrenopeziza lycopsidis var. lycopsidis
+Pyrenopeziza lycopsidis Rehm
 
 ### Remarks
 null

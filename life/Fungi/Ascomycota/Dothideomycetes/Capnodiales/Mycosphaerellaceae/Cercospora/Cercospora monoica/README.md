@@ -1,5 +1,4 @@
-Cercospora monoica Ellis & Holw. SPECIES
-=======
+# Cercospora monoica Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

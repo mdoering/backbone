@@ -1,5 +1,4 @@
-Lachnea longii (Seaver) Sacc. SPECIES
-=======
+# Lachnea longii (Seaver) Sacc. SPECIES
 
 #### Status
 ACCEPTED

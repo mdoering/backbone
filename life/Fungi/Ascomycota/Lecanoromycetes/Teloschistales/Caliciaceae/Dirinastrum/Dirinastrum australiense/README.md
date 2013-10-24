@@ -1,5 +1,4 @@
-Dirinastrum australiense Müll. Arg. SPECIES
-=======
+# Dirinastrum australiense Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

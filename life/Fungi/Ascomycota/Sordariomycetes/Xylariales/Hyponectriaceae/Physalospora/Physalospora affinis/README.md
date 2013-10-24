@@ -1,5 +1,4 @@
-Physalospora affinis Sacc. SPECIES
-=======
+# Physalospora affinis Sacc. SPECIES
 
 #### Status
 ACCEPTED

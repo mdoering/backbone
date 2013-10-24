@@ -1,5 +1,4 @@
-Pezizasporites taiwanensis T.C. Huang SPECIES
-=======
+# Pezizasporites taiwanensis T.C. Huang SPECIES
 
 #### Status
 ACCEPTED

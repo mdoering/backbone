@@ -1,5 +1,4 @@
-Sporotrichum phalloidearum (Corda) Rabenh. SPECIES
-=======
+# Sporotrichum phalloidearum (Corda) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

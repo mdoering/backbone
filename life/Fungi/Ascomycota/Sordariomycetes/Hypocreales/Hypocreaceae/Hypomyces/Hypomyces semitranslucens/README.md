@@ -1,5 +1,4 @@
-Hypomyces semitranslucens G.R.W. Arnold, 1971 SPECIES
-=======
+# Hypomyces semitranslucens G.R.W. Arnold, 1971 SPECIES
 
 #### Status
 ACCEPTED

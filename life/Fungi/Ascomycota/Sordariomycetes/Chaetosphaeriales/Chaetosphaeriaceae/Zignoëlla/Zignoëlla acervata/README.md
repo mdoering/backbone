@@ -1,5 +1,4 @@
-Zignoëlla acervata Penz. & Sacc. SPECIES
-=======
+# Zignoëlla acervata Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

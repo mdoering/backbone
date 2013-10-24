@@ -1,5 +1,4 @@
-Gyalolechia interfulgens (Nyl.) J. Steiner SPECIES
-=======
+# Gyalolechia interfulgens (Nyl.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

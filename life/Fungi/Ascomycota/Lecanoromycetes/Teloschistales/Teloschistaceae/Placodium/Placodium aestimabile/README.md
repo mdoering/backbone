@@ -1,5 +1,4 @@
-Placodium aestimabile SPECIES
-=======
+# Placodium aestimabile SPECIES
 
 #### Status
 ACCEPTED

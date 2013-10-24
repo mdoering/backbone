@@ -1,5 +1,4 @@
-Diaporthe zaviana Sacc. SPECIES
-=======
+# Diaporthe zaviana Sacc. SPECIES
 
 #### Status
 ACCEPTED

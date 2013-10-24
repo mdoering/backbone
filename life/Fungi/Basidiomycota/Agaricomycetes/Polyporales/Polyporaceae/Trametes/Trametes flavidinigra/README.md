@@ -1,5 +1,4 @@
-Trametes flavidinigra Corner SPECIES
-=======
+# Trametes flavidinigra Corner SPECIES
 
 #### Status
 ACCEPTED

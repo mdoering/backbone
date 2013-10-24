@@ -1,8 +1,7 @@
-Haplophragmoides fragile Warren, 1957 SPECIES
-=======
+# Ammotium fragile Warren, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

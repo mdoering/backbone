@@ -1,5 +1,4 @@
-Chromatium Perty, 1852 GENUS
-=======
+# Chromatium Perty, 1852 GENUS
 
 #### Status
 ACCEPTED

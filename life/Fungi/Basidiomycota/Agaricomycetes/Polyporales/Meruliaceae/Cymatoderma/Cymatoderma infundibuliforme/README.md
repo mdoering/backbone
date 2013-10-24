@@ -1,14 +1,13 @@
-Cymatoderma elegans subsp. infundibuliforme (Klotzsch) Boidin SUBSPECIES
-=======
+# Cymatoderma infundibuliforme (Klotzsch) Boidin, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin du Jardin Botanique de l'État, Bruxelles 30: 299 (1960)
+Revue Mycol. , Paris 24: 222 (1959)
 
 #### Original name
 Actinostroma infundibuliforme Klotzsch, 1843

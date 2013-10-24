@@ -1,5 +1,4 @@
-Tulostoma chevalieri Har. & Pat. SPECIES
-=======
+# Tulostoma chevalieri Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

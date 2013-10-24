@@ -1,5 +1,4 @@
-Phyllosticta scaevolae Ellis & Everh. SPECIES
-=======
+# Phyllosticta scaevolae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

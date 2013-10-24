@@ -1,5 +1,4 @@
-Mycosphaerella periplocae (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella periplocae (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

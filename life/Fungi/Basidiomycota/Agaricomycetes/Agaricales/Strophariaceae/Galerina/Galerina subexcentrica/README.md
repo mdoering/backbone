@@ -1,5 +1,4 @@
-Galerina subexcentrica M. Curti & E. Musumeci SPECIES
-=======
+# Galerina subexcentrica M. Curti & E. Musumeci SPECIES
 
 #### Status
 ACCEPTED

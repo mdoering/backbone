@@ -1,5 +1,4 @@
-Uredo caricis-incisae (Syd. & P. Syd.) S. Ito SPECIES
-=======
+# Uredo caricis-incisae (Syd. & P. Syd.) S. Ito SPECIES
 
 #### Status
 ACCEPTED

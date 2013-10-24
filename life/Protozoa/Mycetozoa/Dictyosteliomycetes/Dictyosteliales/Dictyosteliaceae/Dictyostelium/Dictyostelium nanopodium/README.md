@@ -1,5 +1,4 @@
-Dictyostelium nanopodium Vadell & Cavender, 2007 SPECIES
-=======
+# Dictyostelium nanopodium Vadell & Cavender, 2007 SPECIES
 
 #### Status
 ACCEPTED

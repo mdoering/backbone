@@ -1,5 +1,4 @@
-Mortierella humicola Oudem. SPECIES
-=======
+# Mortierella humicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

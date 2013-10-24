@@ -1,17 +1,16 @@
-Septoria scrophulariae var. agalinis H.C. Greene VARIETY
-=======
+# Septoria scrophulariae Peck, 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. Midl. Nat. 41: 722 (1949)
+Ann. Rep. N. Y. St. Mus. nat. Hist. 28: 57 (1876)
 
 #### Original name
-Septoria scrophulariae var. agalinis H.C. Greene
+Septoria scrophulariae Peck, 1876
 
 ### Remarks
 null

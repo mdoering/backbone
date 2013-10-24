@@ -1,5 +1,4 @@
-Stropharia epimyces (Peck) G.F. Atk. SPECIES
-=======
+# Stropharia epimyces (Peck) G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia micrastera Räsänen SPECIES
-=======
+# Arthonia micrastera Räsänen SPECIES
 
 #### Status
 ACCEPTED

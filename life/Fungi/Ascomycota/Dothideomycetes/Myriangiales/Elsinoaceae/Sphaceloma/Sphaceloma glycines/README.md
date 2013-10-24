@@ -1,5 +1,4 @@
-Sphaceloma glycines Kurata & Kurib., 1954 SPECIES
-=======
+# Sphaceloma glycines Kurata & Kurib., 1954 SPECIES
 
 #### Status
 ACCEPTED

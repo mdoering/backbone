@@ -1,5 +1,4 @@
-Hysterium barrianum E. Boehm, A.N. Mill., Mugambi, Huhndorf & C.L. Schoch, 2009 SPECIES
-=======
+# Hysterium barrianum E. Boehm, A.N. Mill., Mugambi, Huhndorf & C.L. Schoch, 2009 SPECIES
 
 #### Status
 ACCEPTED

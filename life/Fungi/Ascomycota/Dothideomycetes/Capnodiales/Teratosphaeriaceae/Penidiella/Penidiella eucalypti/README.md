@@ -1,5 +1,4 @@
-Penidiella eucalypti Cheew., K.D. Hyde & Crous, 2008 SPECIES
-=======
+# Penidiella eucalypti Cheew., K.D. Hyde & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

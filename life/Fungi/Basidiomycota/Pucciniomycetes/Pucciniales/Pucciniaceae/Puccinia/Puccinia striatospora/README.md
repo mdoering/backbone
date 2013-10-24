@@ -1,5 +1,4 @@
-Puccinia striatospora Peck SPECIES
-=======
+# Puccinia striatospora Peck SPECIES
 
 #### Status
 ACCEPTED

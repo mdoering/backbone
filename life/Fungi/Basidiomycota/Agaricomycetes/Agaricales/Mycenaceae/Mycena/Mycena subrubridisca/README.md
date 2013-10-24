@@ -1,5 +1,4 @@
-Mycena subrubridisca (Murrill) Murrill SPECIES
-=======
+# Mycena subrubridisca (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

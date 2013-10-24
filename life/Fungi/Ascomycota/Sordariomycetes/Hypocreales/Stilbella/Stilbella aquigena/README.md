@@ -1,5 +1,4 @@
-Stilbella aquigena (Rebent.) Lindau SPECIES
-=======
+# Stilbella aquigena (Rebent.) Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cothurnia paguri André, 1910 SPECIES
-=======
+# Vaginicola paguri André, 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

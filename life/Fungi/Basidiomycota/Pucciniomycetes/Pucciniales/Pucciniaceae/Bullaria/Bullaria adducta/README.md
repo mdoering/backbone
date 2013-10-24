@@ -1,5 +1,4 @@
-Bullaria adducta (Arthur) Arthur & Mains SPECIES
-=======
+# Bullaria adducta (Arthur) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

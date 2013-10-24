@@ -1,17 +1,16 @@
-Clitocybe dealbata var. dealbata VARIETY
-=======
+# Clitocybe rivulosa (Pers.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomycètes (Alençon) 152 (1874)
+Führ. Pilzk. (Zwickau) 122 (1871)
 
 #### Original name
-Clitocybe dealbata var. dealbata
+Agaricus rivulosus Pers., 1801
 
 ### Remarks
 null

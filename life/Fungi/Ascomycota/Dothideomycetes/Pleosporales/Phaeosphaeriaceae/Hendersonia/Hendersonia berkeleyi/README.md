@@ -1,5 +1,4 @@
-Hendersonia berkeleyi Sacc. SPECIES
-=======
+# Hendersonia berkeleyi Sacc. SPECIES
 
 #### Status
 ACCEPTED

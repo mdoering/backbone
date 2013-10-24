@@ -1,5 +1,4 @@
-Simuliospora turgenica Khodzhaeva, S.V. Krylova & I.V. Issi SPECIES
-=======
+# Simuliospora turgenica Khodzhaeva, S.V. Krylova & I.V. Issi SPECIES
 
 #### Status
 ACCEPTED

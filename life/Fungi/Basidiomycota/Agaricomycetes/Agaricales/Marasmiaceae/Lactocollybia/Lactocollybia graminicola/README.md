@@ -1,5 +1,4 @@
-Lactocollybia graminicola Singer, 1989 SPECIES
-=======
+# Lactocollybia graminicola Singer, 1989 SPECIES
 
 #### Status
 ACCEPTED

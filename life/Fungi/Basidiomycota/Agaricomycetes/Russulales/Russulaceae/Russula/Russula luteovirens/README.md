@@ -1,5 +1,4 @@
-Russula luteovirens Boud. SPECIES
-=======
+# Russula luteovirens Boud. SPECIES
 
 #### Status
 ACCEPTED

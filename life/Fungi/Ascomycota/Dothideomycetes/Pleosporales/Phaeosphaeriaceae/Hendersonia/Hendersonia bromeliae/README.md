@@ -1,5 +1,4 @@
-Hendersonia bromeliae Pat. SPECIES
-=======
+# Hendersonia bromeliae Pat. SPECIES
 
 #### Status
 ACCEPTED

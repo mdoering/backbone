@@ -1,5 +1,4 @@
-Chiodecton stalactinum Nyl. SPECIES
-=======
+# Chiodecton stalactinum Nyl. SPECIES
 
 #### Status
 ACCEPTED

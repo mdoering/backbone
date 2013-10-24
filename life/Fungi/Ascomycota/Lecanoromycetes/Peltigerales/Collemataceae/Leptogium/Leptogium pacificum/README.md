@@ -1,5 +1,4 @@
-Leptogium pacificum Vain. SPECIES
-=======
+# Leptogium pacificum Vain. SPECIES
 
 #### Status
 ACCEPTED

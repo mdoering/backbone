@@ -1,5 +1,4 @@
-Trichoconis lichenicola D. Hawksw., 1980 SPECIES
-=======
+# Trichoconis lichenicola D. Hawksw., 1980 SPECIES
 
 #### Status
 ACCEPTED

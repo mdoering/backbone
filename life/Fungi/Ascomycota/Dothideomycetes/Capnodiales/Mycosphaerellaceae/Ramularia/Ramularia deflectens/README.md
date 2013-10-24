@@ -1,5 +1,4 @@
-Ramularia deflectens Bres. SPECIES
-=======
+# Ramularia deflectens Bres. SPECIES
 
 #### Status
 ACCEPTED

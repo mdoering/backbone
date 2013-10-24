@@ -1,5 +1,4 @@
-Didymella gryoni anon. SPECIES
-=======
+# Didymella gryoni anon. SPECIES
 
 #### Status
 ACCEPTED

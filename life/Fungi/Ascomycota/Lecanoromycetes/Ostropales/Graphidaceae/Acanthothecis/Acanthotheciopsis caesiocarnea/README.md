@@ -1,5 +1,4 @@
-Acanthotheciopsis caesiocarnea (Vain.) Zahlbr. SPECIES
-=======
+# Acanthotheciopsis caesiocarnea (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achlya dioica Pringsh. SPECIES
-=======
+# Achlya dioica Pringsh. SPECIES
 
 #### Status
 ACCEPTED

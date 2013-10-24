@@ -1,5 +1,4 @@
-Buellia nigricans C.W. Dodge SPECIES
-=======
+# Buellia nigricans C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

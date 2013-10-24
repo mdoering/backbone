@@ -1,5 +1,4 @@
-Pucciniola brodiaeae (Ellis & Harkn.) Arthur SPECIES
-=======
+# Pucciniola brodiaeae (Ellis & Harkn.) Arthur SPECIES
 
 #### Status
 ACCEPTED

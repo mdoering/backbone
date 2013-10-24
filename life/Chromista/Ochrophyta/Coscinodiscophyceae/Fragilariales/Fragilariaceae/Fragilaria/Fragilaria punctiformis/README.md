@@ -1,5 +1,4 @@
-Fragilaria punctiformis A. Witkowski & D. Metzeltin SPECIES
-=======
+# Fragilaria punctiformis A. Witkowski & D. Metzeltin SPECIES
 
 #### Status
 ACCEPTED

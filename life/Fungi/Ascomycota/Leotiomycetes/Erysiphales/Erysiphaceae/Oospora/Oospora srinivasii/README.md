@@ -1,5 +1,4 @@
-Oospora srinivasii Mahdih. SPECIES
-=======
+# Oospora srinivasii Mahdih. SPECIES
 
 #### Status
 ACCEPTED

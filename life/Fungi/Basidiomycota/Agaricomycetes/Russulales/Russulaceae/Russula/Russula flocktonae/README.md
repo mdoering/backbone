@@ -1,5 +1,4 @@
-Russula flocktonae Cleland & Cheel SPECIES
-=======
+# Russula flocktonae Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

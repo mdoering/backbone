@@ -1,5 +1,4 @@
-Phyllosticta galactis Cooke SPECIES
-=======
+# Phyllosticta galactis Cooke SPECIES
 
 #### Status
 ACCEPTED

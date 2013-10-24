@@ -1,5 +1,4 @@
-Ammoglobigerina globulosa Eimer & Fickert, 1899 SPECIES
-=======
+# Ammoglobigerina globulosa Eimer & Fickert, 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota tepidaria G.H. Otth SPECIES
-=======
+# Lepiota tepidaria G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

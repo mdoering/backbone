@@ -1,5 +1,4 @@
-Rhabdospora hennebergii (J.G. Kühn) Sacc. & D. Sacc. SPECIES
-=======
+# Rhabdospora hennebergii (J.G. Kühn) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

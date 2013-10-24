@@ -1,5 +1,4 @@
-Trypanosoma pleuronectidium Robertson SPECIES
-=======
+# Trypanosoma pleuronectidium Robertson SPECIES
 
 #### Status
 ACCEPTED

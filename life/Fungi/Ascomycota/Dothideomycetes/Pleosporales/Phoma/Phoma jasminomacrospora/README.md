@@ -1,5 +1,4 @@
-Phoma jasminomacrospora Bat., H.P. Upadhyay & J.P. Costa SPECIES
-=======
+# Phoma jasminomacrospora Bat., H.P. Upadhyay & J.P. Costa SPECIES
 
 #### Status
 ACCEPTED

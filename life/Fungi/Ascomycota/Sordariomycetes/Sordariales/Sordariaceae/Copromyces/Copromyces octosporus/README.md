@@ -1,5 +1,4 @@
-Copromyces octosporus Jeng & J.C. Krug SPECIES
-=======
+# Copromyces octosporus Jeng & J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

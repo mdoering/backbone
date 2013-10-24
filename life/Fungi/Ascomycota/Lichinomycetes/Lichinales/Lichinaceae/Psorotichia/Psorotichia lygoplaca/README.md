@@ -1,5 +1,4 @@
-Psorotichia lygoplaca Forssell SPECIES
-=======
+# Psorotichia lygoplaca Forssell SPECIES
 
 #### Status
 ACCEPTED

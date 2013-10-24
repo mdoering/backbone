@@ -1,5 +1,4 @@
-Phomopsis briosii Mutto {?} SPECIES
-=======
+# Phomopsis briosii Mutto {?} SPECIES
 
 #### Status
 ACCEPTED

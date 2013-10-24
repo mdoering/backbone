@@ -1,5 +1,4 @@
-Agaricus empyreumaticus Berk. & Broome SPECIES
-=======
+# Agaricus empyreumaticus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amylocorticium rhodoleucum (Bourdot) J. Erikss. & Ryvarden, 1976 SPECIES
-=======
+# Amylocorticium rhodoleucum (Bourdot) J. Erikss. & Ryvarden, 1976 SPECIES
 
 #### Status
 ACCEPTED

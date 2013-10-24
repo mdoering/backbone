@@ -1,5 +1,4 @@
-Melaspilea cryptothallina Fink SPECIES
-=======
+# Melaspilea cryptothallina Fink SPECIES
 
 #### Status
 ACCEPTED

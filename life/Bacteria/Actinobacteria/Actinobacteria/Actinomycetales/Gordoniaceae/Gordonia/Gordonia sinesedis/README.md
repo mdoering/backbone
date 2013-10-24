@@ -1,5 +1,4 @@
-Gordonia sinesedis Maldonado et al., 2003 SPECIES
-=======
+# Gordonia sinesedis Maldonado et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

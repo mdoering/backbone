@@ -1,5 +1,4 @@
-Uredo geophilae Henn. SPECIES
-=======
+# Uredo geophilae Henn. SPECIES
 
 #### Status
 ACCEPTED

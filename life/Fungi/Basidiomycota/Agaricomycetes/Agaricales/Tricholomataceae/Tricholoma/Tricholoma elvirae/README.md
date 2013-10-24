@@ -1,5 +1,4 @@
-Tricholoma elvirae Singer SPECIES
-=======
+# Tricholoma elvirae Singer SPECIES
 
 #### Status
 ACCEPTED

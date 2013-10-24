@@ -1,17 +1,16 @@
-Helmisporium flagellatum H.S. Yates SPECIES
-=======
+# Helminthosporium flagellatum H.S. Yates SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Philipp. J. Sci. , C, Bot. 13: 383 (1918)
 
 #### Original name
-Helmisporium flagellatum H.S. Yates
+Helminthosporium flagellatum H.S. Yates
 
 ### Remarks
 null

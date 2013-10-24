@@ -1,5 +1,4 @@
-Opegrapha eulychniae C.W. Dodge SPECIES
-=======
+# Opegrapha eulychniae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fayodia alutacea H.E. Bigelow SPECIES
-=======
+# Fayodia alutacea H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

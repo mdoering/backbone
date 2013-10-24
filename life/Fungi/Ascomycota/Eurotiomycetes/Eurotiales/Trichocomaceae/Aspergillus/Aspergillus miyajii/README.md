@@ -1,5 +1,4 @@
-Aspergillus miyajii Y. Horie SPECIES
-=======
+# Aspergillus miyajii Y. Horie SPECIES
 
 #### Status
 ACCEPTED

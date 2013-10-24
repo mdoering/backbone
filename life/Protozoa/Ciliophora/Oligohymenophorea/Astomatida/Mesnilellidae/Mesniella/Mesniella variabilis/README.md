@@ -1,5 +1,4 @@
-Mesniella variabilis SPECIES
-=======
+# Mesniella variabilis SPECIES
 
 #### Status
 ACCEPTED

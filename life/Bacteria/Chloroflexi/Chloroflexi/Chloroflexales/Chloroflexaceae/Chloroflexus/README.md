@@ -1,5 +1,4 @@
-Chloroflexus Pierson & Castenholz, 1974 GENUS
-=======
+# Chloroflexus Pierson & Castenholz, 1974 GENUS
 
 #### Status
 ACCEPTED

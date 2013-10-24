@@ -1,5 +1,4 @@
-Uredo verbesinicola H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo verbesinicola H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

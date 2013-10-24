@@ -1,5 +1,4 @@
-Aspergillus igneus Kozak. SPECIES
-=======
+# Aspergillus igneus Kozak. SPECIES
 
 #### Status
 ACCEPTED

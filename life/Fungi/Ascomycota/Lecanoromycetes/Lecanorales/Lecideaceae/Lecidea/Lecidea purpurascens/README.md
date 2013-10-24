@@ -1,5 +1,4 @@
-Lecidea purpurascens Vain. SPECIES
-=======
+# Lecidea purpurascens Vain. SPECIES
 
 #### Status
 ACCEPTED

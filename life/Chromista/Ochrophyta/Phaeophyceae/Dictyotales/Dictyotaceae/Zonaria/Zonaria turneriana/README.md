@@ -1,5 +1,4 @@
-Zonaria turneriana var. angusta Sonder VARIETY
-=======
+# Zonaria turneriana J. Agardh SPECIES
 
 #### Status
 ACCEPTED

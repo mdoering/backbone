@@ -1,5 +1,4 @@
-Skeletonema cylindraceum SPECIES
-=======
+# Skeletonema cylindraceum SPECIES
 
 #### Status
 ACCEPTED

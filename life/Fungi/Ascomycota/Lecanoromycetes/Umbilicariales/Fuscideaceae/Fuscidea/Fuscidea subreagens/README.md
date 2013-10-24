@@ -1,5 +1,4 @@
-Fuscidea subreagens (H. Magn.) Oberholl. & V. Wirth SPECIES
-=======
+# Fuscidea subreagens (H. Magn.) Oberholl. & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colpoma intermedium C.L. Hou & M. Piepenbr., 2005 SPECIES
-=======
+# Colpoma intermedium C.L. Hou & M. Piepenbr., 2005 SPECIES
 
 #### Status
 ACCEPTED

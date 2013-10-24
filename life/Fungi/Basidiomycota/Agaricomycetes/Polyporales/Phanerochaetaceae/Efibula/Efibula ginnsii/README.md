@@ -1,5 +1,4 @@
-Efibula ginnsii (Sheng H. Wu) Zmitr. & Spirin SPECIES
-=======
+# Efibula ginnsii (Sheng H. Wu) Zmitr. & Spirin SPECIES
 
 #### Status
 ACCEPTED

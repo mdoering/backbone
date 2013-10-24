@@ -1,5 +1,4 @@
-Licea tenera E. Jahn, 1919 SPECIES
-=======
+# Licea tenera E. Jahn, 1919 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphomonas jannaschiana Weiner et al., 1985 SPECIES
-=======
+# Hyphomonas jannaschiana Weiner et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

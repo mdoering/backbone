@@ -1,5 +1,4 @@
-Induoglobus A.R. Loeblich Jr. & E.R. Wicander, 1976 GENUS
-=======
+# Induoglobus A.R. Loeblich Jr. & E.R. Wicander, 1976 GENUS
 
 #### Status
 ACCEPTED

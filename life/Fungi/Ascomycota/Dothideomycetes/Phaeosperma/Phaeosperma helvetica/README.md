@@ -1,5 +1,4 @@
-Phaeosperma helvetica Fuckel SPECIES
-=======
+# Phaeosperma helvetica Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratobasidium stridii J. Erikss. & Ryvarden, 1973 SPECIES
-=======
+# Ceratobasidium stridii J. Erikss. & Ryvarden, 1973 SPECIES
 
 #### Status
 ACCEPTED

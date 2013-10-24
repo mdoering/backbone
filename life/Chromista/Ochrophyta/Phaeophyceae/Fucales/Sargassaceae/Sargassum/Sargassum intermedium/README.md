@@ -1,5 +1,4 @@
-Sargassum intermedium Tseng & Lu SPECIES
-=======
+# Sargassum intermedium Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

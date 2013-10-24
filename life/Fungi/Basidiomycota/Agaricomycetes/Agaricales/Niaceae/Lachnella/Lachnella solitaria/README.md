@@ -1,5 +1,4 @@
-Lachnella solitaria (Schwein.) Sacc. SPECIES
-=======
+# Lachnella solitaria (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

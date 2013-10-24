@@ -1,17 +1,16 @@
-Trichocladium pyriformis M. Dixon SPECIES
-=======
+# Trichocladium pyriforme M. Dixon, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 51(1): 160 (1968)
 
 #### Original name
-Trichocladium pyriformis M. Dixon
+Trichocladium pyriforme M. Dixon, 1968
 
 ### Remarks
 null

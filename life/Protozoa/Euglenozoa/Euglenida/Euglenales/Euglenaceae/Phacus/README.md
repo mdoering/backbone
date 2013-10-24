@@ -1,5 +1,4 @@
-Phacus C. Nitzsch in Ersch & Gruber, 1827 GENUS
-=======
+# Phacus C. Nitzsch in Ersch & Gruber, 1827 GENUS
 
 #### Status
 ACCEPTED

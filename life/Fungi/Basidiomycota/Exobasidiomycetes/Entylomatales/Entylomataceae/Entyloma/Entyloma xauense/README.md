@@ -1,5 +1,4 @@
-Entyloma xauense Unamuno SPECIES
-=======
+# Entyloma xauense Unamuno SPECIES
 
 #### Status
 ACCEPTED

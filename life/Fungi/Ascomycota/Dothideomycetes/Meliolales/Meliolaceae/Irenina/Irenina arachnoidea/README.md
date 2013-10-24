@@ -1,5 +1,4 @@
-Irenina arachnoidea (Speg.) F. Stevens SPECIES
-=======
+# Irenina arachnoidea (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia redingeri Grube SPECIES
-=======
+# Arthonia redingeri Grube SPECIES
 
 #### Status
 ACCEPTED

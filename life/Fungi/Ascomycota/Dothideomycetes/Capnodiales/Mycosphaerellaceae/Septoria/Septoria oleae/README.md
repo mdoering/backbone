@@ -1,5 +1,4 @@
-Septoria oleae Durieu & Mont. SPECIES
-=======
+# Septoria oleae Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

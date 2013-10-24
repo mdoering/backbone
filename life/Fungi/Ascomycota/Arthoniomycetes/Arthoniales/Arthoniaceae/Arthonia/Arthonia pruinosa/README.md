@@ -1,5 +1,4 @@
-Arthonia pruinosa SPECIES
-=======
+# Arthonia pruinosa SPECIES
 
 #### Status
 ACCEPTED

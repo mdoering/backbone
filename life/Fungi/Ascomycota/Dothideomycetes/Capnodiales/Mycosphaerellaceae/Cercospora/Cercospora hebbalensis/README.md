@@ -1,5 +1,4 @@
-Cercospora hebbalensis Govindu, Thirum. & Nag Raj SPECIES
-=======
+# Cercospora hebbalensis Govindu, Thirum. & Nag Raj SPECIES
 
 #### Status
 ACCEPTED

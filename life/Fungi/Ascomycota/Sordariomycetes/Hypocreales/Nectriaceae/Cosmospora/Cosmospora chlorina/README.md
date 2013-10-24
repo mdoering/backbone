@@ -1,5 +1,4 @@
-Cosmospora chlorina (P. Crouan & H. Crouan) Lowen SPECIES
-=======
+# Cosmospora chlorina (P. Crouan & H. Crouan) Lowen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulbothrix papyrina (Fée) Hale SPECIES
-=======
+# Bulbothrix papyrina (Fée) Hale SPECIES
 
 #### Status
 ACCEPTED

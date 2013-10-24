@@ -1,5 +1,4 @@
-Phyllosticta sicyna Sacc. SPECIES
-=======
+# Phyllosticta sicyna Sacc. SPECIES
 
 #### Status
 ACCEPTED

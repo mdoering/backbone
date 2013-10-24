@@ -1,5 +1,4 @@
-Lecidea sublucida Stizenb. SPECIES
-=======
+# Lecidea sublucida Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria naritae Yasuda ex Räsänen SPECIES
-=======
+# Pertusaria naritae Yasuda ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

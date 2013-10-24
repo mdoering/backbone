@@ -1,5 +1,4 @@
-Strobilomyces camphoratus (Schwalb) Beck SPECIES
-=======
+# Strobilomyces camphoratus (Schwalb) Beck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dicaeoma scleriae (Pazschke) Arthur, 1920 SPECIES
-=======
+# Puccinia scleriae (Pazschke) Arthur, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(4-5): 349 (1920)
+Mycologia 9(2): 75 (1917)
 
 #### Original name
 Rostrupia scleriae Pazschke, 1892

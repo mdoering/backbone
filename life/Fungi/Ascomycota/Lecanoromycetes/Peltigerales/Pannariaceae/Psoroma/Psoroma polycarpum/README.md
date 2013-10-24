@@ -1,5 +1,4 @@
-Psoroma polycarpum (Hoffm.) Gray SPECIES
-=======
+# Psoroma polycarpum (Hoffm.) Gray SPECIES
 
 #### Status
 ACCEPTED

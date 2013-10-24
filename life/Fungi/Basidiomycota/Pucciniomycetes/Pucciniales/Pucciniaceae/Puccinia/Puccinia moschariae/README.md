@@ -1,5 +1,4 @@
-Puccinia moschariae Vestergr. SPECIES
-=======
+# Puccinia moschariae Vestergr. SPECIES
 
 #### Status
 ACCEPTED

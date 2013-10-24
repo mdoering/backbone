@@ -1,5 +1,4 @@
-Polyporus hypoplastus Berk. SPECIES
-=======
+# Polyporus hypoplastus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dacryopinax lowyi S. Sierra & Cifuentes, 2005 SPECIES
-=======
+# Dacryopinax lowyi S. Sierra & Cifuentes, 2005 SPECIES
 
 #### Status
 ACCEPTED

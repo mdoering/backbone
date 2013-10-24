@@ -1,5 +1,4 @@
-Buellia melanthina (Stizenb.) Zahlbr. SPECIES
-=======
+# Buellia melanthina (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

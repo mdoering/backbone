@@ -1,17 +1,16 @@
-Cladoderris thwaitesii Berk. & Broome, 1875 SPECIES
-=======
+# Stereopsis radicans (Berk.) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 63 (1875)
+Beih. Nova Hedwigia 18: 314 (1965)
 
 #### Original name
-Cladoderris thwaitesii Berk. & Broome, 1875
+Thelephora radicans Berk., 1844
 
 ### Remarks
 null

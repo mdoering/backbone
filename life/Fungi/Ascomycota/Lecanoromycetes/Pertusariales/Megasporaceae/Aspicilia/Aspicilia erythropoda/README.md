@@ -1,5 +1,4 @@
-Aspicilia erythropoda Hue SPECIES
-=======
+# Aspicilia erythropoda Hue SPECIES
 
 #### Status
 ACCEPTED

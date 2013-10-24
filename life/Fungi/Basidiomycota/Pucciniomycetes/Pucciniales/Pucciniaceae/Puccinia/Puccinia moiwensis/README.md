@@ -1,5 +1,4 @@
-Puccinia moiwensis Miura SPECIES
-=======
+# Puccinia moiwensis Miura SPECIES
 
 #### Status
 ACCEPTED

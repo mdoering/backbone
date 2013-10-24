@@ -1,5 +1,4 @@
-Amanita sordidogrisea A.E. Wood SPECIES
-=======
+# Amanita sordidogrisea A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotinia utriculorum Boud. SPECIES
-=======
+# Sclerotinia utriculorum Boud. SPECIES
 
 #### Status
 ACCEPTED

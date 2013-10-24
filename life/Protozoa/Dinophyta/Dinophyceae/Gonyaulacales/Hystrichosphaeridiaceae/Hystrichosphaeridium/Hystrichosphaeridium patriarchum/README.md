@@ -1,5 +1,4 @@
-Hystrichosphaeridium patriarchum Deunff, 1967 SPECIES
-=======
+# Hystrichosphaeridium patriarchum Deunff, 1967 SPECIES
 
 #### Status
 ACCEPTED

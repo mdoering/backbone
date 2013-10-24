@@ -1,5 +1,4 @@
-Graphis babingtonii (Mont.) Tuck. SPECIES
-=======
+# Graphis babingtonii (Mont.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

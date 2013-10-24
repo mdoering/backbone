@@ -1,5 +1,4 @@
-Nephroma americana Spreng. SPECIES
-=======
+# Nephroma americana Spreng. SPECIES
 
 #### Status
 ACCEPTED

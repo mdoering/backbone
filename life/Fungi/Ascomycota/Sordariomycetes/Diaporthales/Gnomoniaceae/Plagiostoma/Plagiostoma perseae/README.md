@@ -1,5 +1,4 @@
-Plagiostoma perseae K.D. Hyde SPECIES
-=======
+# Plagiostoma perseae K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

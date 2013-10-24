@@ -1,5 +1,4 @@
-Actinomyces sommeri Greco SPECIES
-=======
+# Actinomyces sommeri Greco SPECIES
 
 #### Status
 ACCEPTED

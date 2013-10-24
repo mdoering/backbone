@@ -1,5 +1,4 @@
-Chaetoceros frichei Hustedt SPECIES
-=======
+# Chaetoceros frichei Hustedt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe umbriniceps (Murrill) Murrill SPECIES
-=======
+# Clitocybe umbriniceps (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

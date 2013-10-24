@@ -1,5 +1,4 @@
-Volvariella macrospora Singer SPECIES
-=======
+# Volvariella macrospora Singer SPECIES
 
 #### Status
 ACCEPTED

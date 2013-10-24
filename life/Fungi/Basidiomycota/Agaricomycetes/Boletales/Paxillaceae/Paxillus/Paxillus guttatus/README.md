@@ -1,5 +1,4 @@
-Paxillus guttatus Singer SPECIES
-=======
+# Paxillus guttatus Singer SPECIES
 
 #### Status
 ACCEPTED

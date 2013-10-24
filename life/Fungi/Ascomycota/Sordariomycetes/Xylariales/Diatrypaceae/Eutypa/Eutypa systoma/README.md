@@ -1,5 +1,4 @@
-Eutypa systoma (Fr.) Starbäck SPECIES
-=======
+# Eutypa systoma (Fr.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

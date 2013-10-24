@@ -1,5 +1,4 @@
-Discorbina spinocostata Rhumbler, 1949 SPECIES
-=======
+# Discorbina spinocostata Rhumbler, 1949 SPECIES
 
 #### Status
 ACCEPTED

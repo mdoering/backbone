@@ -1,5 +1,4 @@
-Amerodothis musae Sawada SPECIES
-=======
+# Amerodothis musae Sawada SPECIES
 
 #### Status
 ACCEPTED

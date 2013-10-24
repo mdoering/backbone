@@ -1,5 +1,4 @@
-Oscillatoria minutissima P. González SPECIES
-=======
+# Oscillatoria minutissima P. González SPECIES
 
 #### Status
 ACCEPTED

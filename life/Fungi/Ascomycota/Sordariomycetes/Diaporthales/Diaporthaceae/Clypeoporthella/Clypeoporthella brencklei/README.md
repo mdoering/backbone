@@ -1,14 +1,13 @@
-Diaporthopsis brencklei (Petr.) Arx & E. Müll., 1954 SPECIES
-=======
+# Clypeoporthella brencklei Petr., 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 22(1/2): 148 (1924)
 
 #### Original name
 Clypeoporthella brencklei Petr., 1924

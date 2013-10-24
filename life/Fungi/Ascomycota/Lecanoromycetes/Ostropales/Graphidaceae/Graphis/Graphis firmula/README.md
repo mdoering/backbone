@@ -1,5 +1,4 @@
-Graphis firmula Stirt. SPECIES
-=======
+# Graphis firmula Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coriolus tenuispinifer Murrill SPECIES
-=======
+# Coriolus tenuispinifer Murrill SPECIES
 
 #### Status
 ACCEPTED

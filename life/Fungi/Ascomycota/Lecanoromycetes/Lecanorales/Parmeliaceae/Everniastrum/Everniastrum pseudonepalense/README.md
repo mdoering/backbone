@@ -1,17 +1,16 @@
-Parmelia pseudonepalensis Hale & M. Wirth SPECIES
-=======
+# Everniastrum pseudonepalense (Hale & M. Wirth) Hale ex Sipman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 26: 242 (1986)
 
 #### Original name
-null
+Parmelia pseudonepalensis Hale & M. Wirth
 
 ### Remarks
 null

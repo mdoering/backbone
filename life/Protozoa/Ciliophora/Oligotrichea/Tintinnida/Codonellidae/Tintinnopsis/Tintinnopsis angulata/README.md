@@ -1,5 +1,4 @@
-Tintinnopsis angulata Daday, 1887 SPECIES
-=======
+# Tintinnopsis angulata Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

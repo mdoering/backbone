@@ -1,5 +1,4 @@
-Asterina solanacearum Orejuela SPECIES
-=======
+# Asterina solanacearum Orejuela SPECIES
 
 #### Status
 ACCEPTED

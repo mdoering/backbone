@@ -1,5 +1,4 @@
-Dothidella tassiana Sacc. SPECIES
-=======
+# Dothidella tassiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

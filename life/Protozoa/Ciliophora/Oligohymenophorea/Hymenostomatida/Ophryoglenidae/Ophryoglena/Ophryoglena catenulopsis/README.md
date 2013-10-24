@@ -1,5 +1,4 @@
-Ophryoglena catenulopsis Dragesco & Njiné, 1971 SPECIES
-=======
+# Ophryoglena catenulopsis Dragesco & Njiné, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Harposporium subuliforme Drechsler SPECIES
-=======
+# Harposporium subuliforme Drechsler SPECIES
 
 #### Status
 ACCEPTED

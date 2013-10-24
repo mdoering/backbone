@@ -1,5 +1,4 @@
-Parmelia ustata Brusse SPECIES
-=======
+# Parmelia ustata Brusse SPECIES
 
 #### Status
 ACCEPTED

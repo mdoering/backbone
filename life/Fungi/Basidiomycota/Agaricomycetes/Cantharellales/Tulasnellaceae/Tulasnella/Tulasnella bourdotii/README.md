@@ -1,5 +1,4 @@
-Tulasnella bourdotii Jülich, 1982 SPECIES
-=======
+# Tulasnella bourdotii Jülich, 1982 SPECIES
 
 #### Status
 ACCEPTED

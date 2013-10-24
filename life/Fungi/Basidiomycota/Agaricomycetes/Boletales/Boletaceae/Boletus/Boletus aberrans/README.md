@@ -1,5 +1,4 @@
-Boletus aberrans J. Blum SPECIES
-=======
+# Boletus aberrans J. Blum SPECIES
 
 #### Status
 ACCEPTED

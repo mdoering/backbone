@@ -1,5 +1,4 @@
-Paranthostomella cynanchi Sawada SPECIES
-=======
+# Paranthostomella cynanchi Sawada SPECIES
 
 #### Status
 ACCEPTED

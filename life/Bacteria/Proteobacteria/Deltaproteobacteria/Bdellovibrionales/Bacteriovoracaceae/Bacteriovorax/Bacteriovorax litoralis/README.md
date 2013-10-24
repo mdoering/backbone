@@ -1,5 +1,4 @@
-Bacteriovorax litoralis Baer et al., 2004 SPECIES
-=======
+# Bacteriovorax litoralis Baer et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

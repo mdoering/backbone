@@ -1,5 +1,4 @@
-Peziza pruinosa Wallr. SPECIES
-=======
+# Peziza pruinosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

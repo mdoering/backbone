@@ -1,5 +1,4 @@
-Virginia J.E. Areschoug, 1853 GENUS
-=======
+# Virginia J.E. Areschoug, 1853 GENUS
 
 #### Status
 ACCEPTED

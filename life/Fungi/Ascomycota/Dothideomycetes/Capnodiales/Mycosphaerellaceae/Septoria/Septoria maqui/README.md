@@ -1,5 +1,4 @@
-Septoria maqui Henn. SPECIES
-=======
+# Septoria maqui Henn. SPECIES
 
 #### Status
 ACCEPTED

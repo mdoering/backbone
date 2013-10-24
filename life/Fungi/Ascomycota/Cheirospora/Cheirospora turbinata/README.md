@@ -1,5 +1,4 @@
-Cheirospora turbinata (Bonord.) Kuntze SPECIES
-=======
+# Cheirospora turbinata (Bonord.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

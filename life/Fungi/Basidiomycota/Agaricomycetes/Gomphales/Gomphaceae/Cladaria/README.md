@@ -1,5 +1,4 @@
-Cladaria GENUS
-=======
+# Cladaria GENUS
 
 #### Status
 ACCEPTED

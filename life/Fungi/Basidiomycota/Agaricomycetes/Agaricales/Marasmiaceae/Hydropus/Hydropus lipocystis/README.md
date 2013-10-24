@@ -1,5 +1,4 @@
-Hydropus lipocystis Singer SPECIES
-=======
+# Hydropus lipocystis Singer SPECIES
 
 #### Status
 ACCEPTED

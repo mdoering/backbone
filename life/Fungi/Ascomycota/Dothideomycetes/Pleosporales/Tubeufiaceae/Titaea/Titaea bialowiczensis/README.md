@@ -1,5 +1,4 @@
-Titaea bialowiczensis Siemaszko SPECIES
-=======
+# Titaea bialowiczensis Siemaszko SPECIES
 
 #### Status
 ACCEPTED

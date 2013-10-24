@@ -1,5 +1,4 @@
-Phoma agaricicola Rostr. SPECIES
-=======
+# Phoma agaricicola Rostr. SPECIES
 
 #### Status
 ACCEPTED

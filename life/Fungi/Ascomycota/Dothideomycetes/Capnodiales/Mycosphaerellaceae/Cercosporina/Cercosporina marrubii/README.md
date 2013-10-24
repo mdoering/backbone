@@ -1,5 +1,4 @@
-Cercosporina marrubii (Tharp) Sacc. SPECIES
-=======
+# Cercosporina marrubii (Tharp) Sacc. SPECIES
 
 #### Status
 ACCEPTED

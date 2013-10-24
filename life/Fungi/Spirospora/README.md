@@ -1,5 +1,4 @@
-Spirospora Scherffel, 1926 GENUS
-=======
+# Spirospora Scherffel, 1926 GENUS
 
 #### Status
 ACCEPTED

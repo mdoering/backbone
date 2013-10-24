@@ -1,5 +1,4 @@
-Globobulimina hanzawai Asano, 1958 SPECIES
-=======
+# Globobulimina hanzawai Asano, 1958 SPECIES
 
 #### Status
 ACCEPTED

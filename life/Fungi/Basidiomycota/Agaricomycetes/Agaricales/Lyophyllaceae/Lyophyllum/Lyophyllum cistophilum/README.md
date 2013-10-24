@@ -1,5 +1,4 @@
-Lyophyllum cistophilum Vila & Llimona SPECIES
-=======
+# Lyophyllum cistophilum Vila & Llimona SPECIES
 
 #### Status
 ACCEPTED

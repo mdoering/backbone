@@ -1,17 +1,16 @@
-Viennotidia Negru & Verona ex Rogerson GENUS
-=======
+# Sphaeronaemella P. Karsten, 1884 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycologia 62(5): 899 (1970)
+null
 
 #### Original name
-Viennotidia Negru & Verona ex Rogerson
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dictyoploca grandis R. Heim SPECIES
-=======
+# Dictyoploca grandis R. Heim SPECIES
 
 #### Status
 ACCEPTED

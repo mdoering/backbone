@@ -1,17 +1,16 @@
-Orbicula cyclospora Cooke, 1871 SPECIES
-=======
+# Orbicula parietina (Schrad.) S. Hughes, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handbook of British Fungi 2: 926 (1871)
+Mycol. Pap. 42: 1 (1951)
 
 #### Original name
-Orbicula cyclospora Cooke, 1871
+Didymium parietinum Schrad., 1797
 
 ### Remarks
 null

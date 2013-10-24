@@ -1,14 +1,13 @@
-Verrucospora verrucospora (Beeli) E. Horak, 1967 SPECIES
-=======
+# Verrucospora vulgaris Pegler, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. schweiz. bot. Ges. 77: 363 (1967)
+Kew Bull. , Addit. Ser. 6: 384 (1977)
 
 #### Original name
 Lepiota verrucospora Beeli, 1932

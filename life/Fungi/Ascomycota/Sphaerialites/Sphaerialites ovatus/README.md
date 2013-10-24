@@ -1,5 +1,4 @@
-Sphaerialites ovatus Venkatach. & R.K. Kar SPECIES
-=======
+# Sphaerialites ovatus Venkatach. & R.K. Kar SPECIES
 
 #### Status
 ACCEPTED

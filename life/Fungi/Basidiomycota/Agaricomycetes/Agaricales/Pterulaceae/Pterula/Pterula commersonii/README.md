@@ -1,5 +1,4 @@
-Pterula commersonii (Lév.) Lloyd SPECIES
-=======
+# Pterula commersonii (Lév.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

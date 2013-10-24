@@ -1,5 +1,4 @@
-Lecanora mortosa Ach. SPECIES
-=======
+# Lecanora mortosa Ach. SPECIES
 
 #### Status
 ACCEPTED

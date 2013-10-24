@@ -1,5 +1,4 @@
-Excipula globosa Lév. SPECIES
-=======
+# Excipula globosa Lév. SPECIES
 
 #### Status
 ACCEPTED

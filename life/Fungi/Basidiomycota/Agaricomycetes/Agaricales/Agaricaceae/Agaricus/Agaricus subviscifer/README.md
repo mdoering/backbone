@@ -1,5 +1,4 @@
-Agaricus subviscifer P. Karst. SPECIES
-=======
+# Agaricus subviscifer P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia eximia Benedix SPECIES
-=======
+# Stropharia eximia Benedix SPECIES
 
 #### Status
 ACCEPTED

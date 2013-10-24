@@ -1,5 +1,4 @@
-Parmelia melanoleuca (Willd.) Zenker SPECIES
-=======
+# Parmelia melanoleuca (Willd.) Zenker SPECIES
 
 #### Status
 ACCEPTED

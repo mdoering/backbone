@@ -1,5 +1,4 @@
-Monochaetia saccardoi (Speg.) Sacc. & D. Sacc., 1906 SPECIES
-=======
+# Monochaetia saccardoi (Speg.) Sacc. & D. Sacc., 1906 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Depazea dryophila Fr. SPECIES
-=======
+# Depazea dryophila Fr. SPECIES
 
 #### Status
 ACCEPTED

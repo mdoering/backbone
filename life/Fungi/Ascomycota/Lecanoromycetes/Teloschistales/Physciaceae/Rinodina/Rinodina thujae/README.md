@@ -1,5 +1,4 @@
-Rinodina thujae (H. Magn.) Sheard SPECIES
-=======
+# Rinodina thujae (H. Magn.) Sheard SPECIES
 
 #### Status
 ACCEPTED

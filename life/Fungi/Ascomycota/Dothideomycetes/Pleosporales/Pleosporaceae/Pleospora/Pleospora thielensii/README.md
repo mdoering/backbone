@@ -1,5 +1,4 @@
-Pleospora thielensii Westend. SPECIES
-=======
+# Pleospora thielensii Westend. SPECIES
 
 #### Status
 ACCEPTED

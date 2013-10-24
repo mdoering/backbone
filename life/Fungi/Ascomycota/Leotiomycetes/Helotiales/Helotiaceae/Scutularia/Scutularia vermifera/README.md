@@ -1,5 +1,4 @@
-Scutularia vermifera (W. Phillips) Sacc., 1889 SPECIES
-=======
+# Scutularia vermifera (W. Phillips) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

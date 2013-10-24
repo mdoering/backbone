@@ -1,5 +1,4 @@
-Phoma ranunculi-acris Gonz. Frag. SPECIES
-=======
+# Phoma ranunculi-acris Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

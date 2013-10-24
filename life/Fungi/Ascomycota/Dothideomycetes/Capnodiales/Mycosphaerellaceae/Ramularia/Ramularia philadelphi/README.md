@@ -1,5 +1,4 @@
-Ramularia philadelphi Sacc. SPECIES
-=======
+# Ramularia philadelphi Sacc. SPECIES
 
 #### Status
 ACCEPTED

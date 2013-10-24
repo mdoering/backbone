@@ -1,5 +1,4 @@
-Phoma hortensiae Brunaud SPECIES
-=======
+# Phoma hortensiae Brunaud SPECIES
 
 #### Status
 ACCEPTED

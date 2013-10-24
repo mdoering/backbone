@@ -1,5 +1,4 @@
-Steccherinum multifidum Klotzsch SPECIES
-=======
+# Steccherinum multifidum Klotzsch SPECIES
 
 #### Status
 ACCEPTED

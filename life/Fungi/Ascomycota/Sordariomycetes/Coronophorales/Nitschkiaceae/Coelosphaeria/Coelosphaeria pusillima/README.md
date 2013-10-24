@@ -1,5 +1,4 @@
-Coelosphaeria pusillima Speg. SPECIES
-=======
+# Coelosphaeria pusillima Speg. SPECIES
 
 #### Status
 ACCEPTED

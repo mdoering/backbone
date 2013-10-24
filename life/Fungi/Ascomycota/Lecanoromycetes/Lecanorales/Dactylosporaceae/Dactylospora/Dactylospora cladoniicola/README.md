@@ -1,5 +1,4 @@
-Dactylospora cladoniicola Alstrup & Olech SPECIES
-=======
+# Dactylospora cladoniicola Alstrup & Olech SPECIES
 
 #### Status
 ACCEPTED

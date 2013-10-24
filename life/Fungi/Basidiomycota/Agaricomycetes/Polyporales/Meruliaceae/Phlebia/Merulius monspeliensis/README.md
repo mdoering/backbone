@@ -1,5 +1,4 @@
-Merulius monspeliensis Spreng. SPECIES
-=======
+# Merulius monspeliensis Spreng. SPECIES
 
 #### Status
 ACCEPTED

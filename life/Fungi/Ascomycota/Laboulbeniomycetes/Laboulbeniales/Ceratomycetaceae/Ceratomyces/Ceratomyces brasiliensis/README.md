@@ -1,5 +1,4 @@
-Ceratomyces brasiliensis Thaxt. SPECIES
-=======
+# Ceratomyces brasiliensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

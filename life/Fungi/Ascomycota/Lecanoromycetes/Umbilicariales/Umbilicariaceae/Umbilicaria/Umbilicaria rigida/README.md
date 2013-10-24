@@ -1,17 +1,16 @@
-Umbilicaria rigida var. rigida VARIETY
-=======
+# Umbilicaria rigida (Du Rietz) Frey SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 71: 117 (1931)
 
 #### Original name
-Umbilicaria rigida var. rigida
+Umbilicaria coriacea Imshaug
 
 ### Remarks
 null

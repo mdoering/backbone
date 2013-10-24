@@ -1,5 +1,4 @@
-Cylindrocarpon ugandense Deighton & Piroz. SPECIES
-=======
+# Cylindrocarpon ugandense Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

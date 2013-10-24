@@ -1,5 +1,4 @@
-Actinodiscus javanicus R. Ross & P.A. Sims SPECIES
-=======
+# Actinodiscus javanicus R. Ross & P.A. Sims SPECIES
 
 #### Status
 ACCEPTED

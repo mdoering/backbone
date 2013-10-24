@@ -1,5 +1,4 @@
-Tetrapera Haeckel, 1881 GENUS
-=======
+# Tetrapera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

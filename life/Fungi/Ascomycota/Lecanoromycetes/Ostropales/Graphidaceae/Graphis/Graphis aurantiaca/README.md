@@ -1,5 +1,4 @@
-Graphis aurantiaca Zenker SPECIES
-=======
+# Graphis aurantiaca Zenker SPECIES
 
 #### Status
 ACCEPTED

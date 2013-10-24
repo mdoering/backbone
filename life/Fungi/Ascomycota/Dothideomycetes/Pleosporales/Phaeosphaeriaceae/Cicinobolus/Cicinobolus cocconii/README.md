@@ -1,8 +1,7 @@
-Cicinnobolus cocconii Sacc. & P. Syd. SPECIES
-=======
+# Cicinobolus cocconii Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus cocconii Sacc. & P. Syd.
+Cicinobolus cocconii Sacc. & P. Syd.
 
 ### Remarks
 null

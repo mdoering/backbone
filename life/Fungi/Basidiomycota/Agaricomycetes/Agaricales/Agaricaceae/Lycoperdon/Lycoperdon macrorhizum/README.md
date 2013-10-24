@@ -1,5 +1,4 @@
-Lycoperdon macrorhizum Speg. SPECIES
-=======
+# Lycoperdon macrorhizum Speg. SPECIES
 
 #### Status
 ACCEPTED

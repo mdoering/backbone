@@ -1,5 +1,4 @@
-Caeruleomyces Stalpers GENUS
-=======
+# Caeruleomyces Stalpers GENUS
 
 #### Status
 ACCEPTED

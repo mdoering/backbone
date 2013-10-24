@@ -1,5 +1,4 @@
-Bacidia ravenelii (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia ravenelii (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

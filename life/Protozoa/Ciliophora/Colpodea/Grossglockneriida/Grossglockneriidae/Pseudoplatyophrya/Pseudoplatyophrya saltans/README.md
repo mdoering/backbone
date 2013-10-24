@@ -1,5 +1,4 @@
-Pseudoplatyophrya saltans Foissner, 1988 SPECIES
-=======
+# Pseudoplatyophrya saltans Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

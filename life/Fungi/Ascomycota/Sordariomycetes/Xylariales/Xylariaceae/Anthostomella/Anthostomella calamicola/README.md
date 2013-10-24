@@ -1,5 +1,4 @@
-Anthostomella calamicola K.D. Hyde, 1996 SPECIES
-=======
+# Anthostomella calamicola K.D. Hyde, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyttarocylis annulata Daday, 1887 SPECIES
-=======
+# Cyttarocylis annulata Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

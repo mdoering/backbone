@@ -1,5 +1,4 @@
-Aschersonia chaetospora Sacc. SPECIES
-=======
+# Aschersonia chaetospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

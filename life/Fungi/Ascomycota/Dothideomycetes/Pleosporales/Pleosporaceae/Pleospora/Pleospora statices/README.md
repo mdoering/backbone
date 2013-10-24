@@ -1,5 +1,4 @@
-Pleospora statices Lobik SPECIES
-=======
+# Pleospora statices Lobik SPECIES
 
 #### Status
 ACCEPTED

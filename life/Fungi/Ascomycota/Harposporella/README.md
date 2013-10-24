@@ -1,5 +1,4 @@
-Harposporella Höhn. GENUS
-=======
+# Harposporella Höhn. GENUS
 
 #### Status
 ACCEPTED

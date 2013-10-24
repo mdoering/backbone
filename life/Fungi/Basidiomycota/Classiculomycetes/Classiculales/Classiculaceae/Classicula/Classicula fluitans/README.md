@@ -1,17 +1,16 @@
-Naiadella fluitans Marvanová & Bandoni, 1987 SPECIES
-=======
+# Classicula fluitans R. Bauer, Begerow, Oberw. & Marvanová, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 79(4): 579 (1987)
+Mycologia 95(4): 757 (2003)
 
 #### Original name
-Naiadella fluitans Marvanová & Bandoni, 1987
+Classicula fluitans R. Bauer, Begerow, Oberw. & Marvanová, 2003
 
 ### Remarks
 null

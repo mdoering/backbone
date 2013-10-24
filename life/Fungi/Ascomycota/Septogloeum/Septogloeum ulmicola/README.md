@@ -1,14 +1,13 @@
-Septogloeum ulmicolum (Biv.) Elenkin & Ohl SPECIES
-=======
+# Septogloeum ulmicola (Biv.) Elenkin & Ohl SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Zh. Bolez. Rast. 6: 90 (1912)
 
 #### Original name
 Sphaeria ulmicola Curr., 1859

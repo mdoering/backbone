@@ -1,5 +1,4 @@
-Lycoperdon glabratum Velen. SPECIES
-=======
+# Lycoperdon glabratum Velen. SPECIES
 
 #### Status
 ACCEPTED

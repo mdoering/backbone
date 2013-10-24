@@ -1,5 +1,4 @@
-Septoria phytolaccae Cavara SPECIES
-=======
+# Septoria phytolaccae Cavara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporophaga Harkn. GENUS
-=======
+# Sporophaga Harkn. GENUS
 
 #### Status
 ACCEPTED

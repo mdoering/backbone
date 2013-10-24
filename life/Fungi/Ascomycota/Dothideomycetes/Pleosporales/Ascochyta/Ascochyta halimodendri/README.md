@@ -1,5 +1,4 @@
-Ascochyta halimodendri Murashk. SPECIES
-=======
+# Ascochyta halimodendri Murashk. SPECIES
 
 #### Status
 ACCEPTED

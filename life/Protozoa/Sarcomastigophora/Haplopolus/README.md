@@ -1,5 +1,4 @@
-Haplopolus Li, 1994 GENUS
-=======
+# Haplopolus Li, 1994 GENUS
 
 #### Status
 ACCEPTED

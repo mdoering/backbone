@@ -1,5 +1,4 @@
-Asteroma urinicola Speg. SPECIES
-=======
+# Asteroma urinicola Speg. SPECIES
 
 #### Status
 ACCEPTED

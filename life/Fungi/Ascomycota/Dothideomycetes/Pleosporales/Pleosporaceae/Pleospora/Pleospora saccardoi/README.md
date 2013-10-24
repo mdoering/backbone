@@ -1,5 +1,4 @@
-Pleospora saccardoi Berl. SPECIES
-=======
+# Pleospora saccardoi Berl. SPECIES
 
 #### Status
 ACCEPTED

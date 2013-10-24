@@ -1,5 +1,4 @@
-Irenopsis coronata var. coronata VARIETY
-=======
+# Irenopsis coronata (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 25(5/6): 436 (1927)
 
 #### Original name
-Irenopsis coronata var. coronata
+Meliola coronata Speg.
 
 ### Remarks
 null

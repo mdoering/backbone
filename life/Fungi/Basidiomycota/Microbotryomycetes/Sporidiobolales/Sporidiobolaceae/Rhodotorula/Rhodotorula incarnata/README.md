@@ -1,5 +1,4 @@
-Rhodotorula incarnata Ruíz Oronoz SPECIES
-=======
+# Rhodotorula incarnata Ruíz Oronoz SPECIES
 
 #### Status
 ACCEPTED

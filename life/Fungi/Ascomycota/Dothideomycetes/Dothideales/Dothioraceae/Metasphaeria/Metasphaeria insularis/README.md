@@ -1,5 +1,4 @@
-Metasphaeria insularis Speg. SPECIES
-=======
+# Metasphaeria insularis Speg. SPECIES
 
 #### Status
 ACCEPTED

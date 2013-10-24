@@ -1,5 +1,4 @@
-Technitella candida Wiesner, 1931 SPECIES
-=======
+# Technitella candida Wiesner, 1931 SPECIES
 
 #### Status
 ACCEPTED

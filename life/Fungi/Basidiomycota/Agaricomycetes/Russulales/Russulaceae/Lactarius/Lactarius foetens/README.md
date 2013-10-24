@@ -1,5 +1,4 @@
-Lactarius foetens Verbeken & Van Rooij SPECIES
-=======
+# Lactarius foetens Verbeken & Van Rooij SPECIES
 
 #### Status
 ACCEPTED

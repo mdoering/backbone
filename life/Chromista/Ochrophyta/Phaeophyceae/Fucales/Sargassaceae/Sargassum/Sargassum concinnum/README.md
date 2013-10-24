@@ -1,5 +1,4 @@
-Sargassum concinnum Greville ex J. Agardh SPECIES
-=======
+# Sargassum concinnum Greville ex J. Agardh SPECIES
 
 #### Status
 ACCEPTED

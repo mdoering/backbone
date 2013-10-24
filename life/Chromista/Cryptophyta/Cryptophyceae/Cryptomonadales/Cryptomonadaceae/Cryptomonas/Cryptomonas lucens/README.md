@@ -1,5 +1,4 @@
-Cryptomonas lucens SPECIES
-=======
+# Cryptomonas lucens SPECIES
 
 #### Status
 ACCEPTED

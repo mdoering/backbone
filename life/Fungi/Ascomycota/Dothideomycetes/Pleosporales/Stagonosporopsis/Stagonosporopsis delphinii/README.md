@@ -1,5 +1,4 @@
-Stagonosporopsis delphinii Lebedeva SPECIES
-=======
+# Stagonosporopsis delphinii Lebedeva SPECIES
 
 #### Status
 ACCEPTED

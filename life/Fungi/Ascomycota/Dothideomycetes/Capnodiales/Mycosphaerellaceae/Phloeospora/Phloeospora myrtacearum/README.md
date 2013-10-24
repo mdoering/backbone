@@ -1,5 +1,4 @@
-Phloeospora myrtacearum Allesch. SPECIES
-=======
+# Phloeospora myrtacearum Allesch. SPECIES
 
 #### Status
 ACCEPTED

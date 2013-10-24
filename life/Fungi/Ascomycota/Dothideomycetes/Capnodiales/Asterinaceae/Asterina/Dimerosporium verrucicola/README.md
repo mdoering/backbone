@@ -1,5 +1,4 @@
-Dimerosporium verrucicola G. Winter SPECIES
-=======
+# Dimerosporium verrucicola G. Winter SPECIES
 
 #### Status
 ACCEPTED

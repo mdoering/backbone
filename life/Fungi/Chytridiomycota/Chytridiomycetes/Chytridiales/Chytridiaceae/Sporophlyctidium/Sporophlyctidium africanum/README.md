@@ -1,5 +1,4 @@
-Sporophlyctidium africanum Sparrow, 1933 SPECIES
-=======
+# Sporophlyctidium africanum Sparrow, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia trifaria (Stizenb.) Zahlbr. SPECIES
-=======
+# Bacidia trifaria (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

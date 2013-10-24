@@ -1,5 +1,4 @@
-Chaetopyrena hederae-helicis Savul. & Hulea, 1940 SPECIES
-=======
+# Chaetopyrena hederae-helicis Savul. & Hulea, 1940 SPECIES
 
 #### Status
 ACCEPTED

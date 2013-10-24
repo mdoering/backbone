@@ -1,5 +1,4 @@
-Orthogonoides Wiegand, 1984 GENUS
-=======
+# Orthogonoides Wiegand, 1984 GENUS
 
 #### Status
 ACCEPTED

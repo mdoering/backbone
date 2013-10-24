@@ -1,5 +1,4 @@
-Diplodiella diversa (Speg.) Sacc. SPECIES
-=======
+# Diplodiella diversa (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

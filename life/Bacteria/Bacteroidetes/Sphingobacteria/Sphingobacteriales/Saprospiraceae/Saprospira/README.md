@@ -1,5 +1,4 @@
-Saprospira Gross, 1911 GENUS
-=======
+# Saprospira Gross, 1911 GENUS
 
 #### Status
 ACCEPTED

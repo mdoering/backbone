@@ -1,5 +1,4 @@
-Cryptovalsaria rossica Lar.N. Vassiljeva & S.L. Stephenson, 2007 SPECIES
-=======
+# Cryptovalsaria rossica Lar.N. Vassiljeva & S.L. Stephenson, 2007 SPECIES
 
 #### Status
 ACCEPTED

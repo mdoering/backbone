@@ -1,5 +1,4 @@
-Diplodia albozonata Durieu & Mont. SPECIES
-=======
+# Diplodia albozonata Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sylviacollaea termitaria Cif., 1963 SPECIES
-=======
+# Sylviacollaea termitaria Cif., 1963 SPECIES
 
 #### Status
 ACCEPTED

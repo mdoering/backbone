@@ -1,5 +1,4 @@
-Nigredo pontederiae (W.R. Gerard) Arthur SPECIES
-=======
+# Nigredo pontederiae (W.R. Gerard) Arthur SPECIES
 
 #### Status
 ACCEPTED

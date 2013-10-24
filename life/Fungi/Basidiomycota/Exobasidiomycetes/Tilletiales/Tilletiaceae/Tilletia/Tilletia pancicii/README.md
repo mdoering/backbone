@@ -1,5 +1,4 @@
-Tilletia pancicii Bubák & Ranoj. SPECIES
-=======
+# Tilletia pancicii Bubák & Ranoj. SPECIES
 
 #### Status
 ACCEPTED

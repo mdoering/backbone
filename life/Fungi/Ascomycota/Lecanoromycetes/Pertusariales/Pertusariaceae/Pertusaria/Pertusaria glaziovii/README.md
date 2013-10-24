@@ -1,5 +1,4 @@
-Pertusaria glaziovii Müll. Arg. SPECIES
-=======
+# Pertusaria glaziovii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

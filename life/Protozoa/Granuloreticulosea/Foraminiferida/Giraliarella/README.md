@@ -1,5 +1,4 @@
-Giraliarella GENUS
-=======
+# Giraliarella GENUS
 
 #### Status
 ACCEPTED

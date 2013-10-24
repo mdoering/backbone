@@ -1,17 +1,16 @@
-Discula betulina var. betulina VARIETY
-=======
+# Gnomonia intermedia Rehm, 1908 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. K. Akad. Wet. , tweede sect. 51(3): 64 (1957)
+Annls mycol. 6(5): 489 (1908)
 
 #### Original name
-Discula betulina var. betulina
+Gnomonia intermedia Rehm, 1908
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Cryptosporiopsis lomati Bianchin. & Crous SPECIES
-=======
+# Cryptosporiopsis lomatiae Bianchin. & Crous SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bianchinotti, Crous & Rajchenberg, Sydowia 54(1): 2 (2002)
 
 #### Original name
-Cryptosporiopsis lomati Bianchin. & Crous
+Cryptosporiopsis lomatiae Bianchin. & Crous
 
 ### Remarks
 null

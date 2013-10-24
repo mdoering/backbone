@@ -1,5 +1,4 @@
-Methylosinus sporium (ex Whittenbury et al., 1970) Bowman et al., 1993 SPECIES
-=======
+# Methylosinus sporium (ex Whittenbury et al., 1970) Bowman et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alveoclavulina Singh & Kalia, 1977 GENUS
-=======
+# Alveoclavulina Singh & Kalia, 1977 GENUS
 
 #### Status
 ACCEPTED

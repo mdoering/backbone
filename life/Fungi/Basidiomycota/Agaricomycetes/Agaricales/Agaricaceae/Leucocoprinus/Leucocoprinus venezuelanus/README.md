@@ -1,5 +1,4 @@
-Leucocoprinus venezuelanus Dennis SPECIES
-=======
+# Leucocoprinus venezuelanus Dennis SPECIES
 
 #### Status
 ACCEPTED

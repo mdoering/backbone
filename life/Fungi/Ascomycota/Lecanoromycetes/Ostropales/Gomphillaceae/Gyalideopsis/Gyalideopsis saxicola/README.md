@@ -1,5 +1,4 @@
-Gyalideopsis saxicola Henssen & Lumbsch SPECIES
-=======
+# Gyalideopsis saxicola Henssen & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

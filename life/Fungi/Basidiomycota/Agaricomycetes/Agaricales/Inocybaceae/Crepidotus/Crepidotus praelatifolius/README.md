@@ -1,5 +1,4 @@
-Crepidotus praelatifolius Murrill SPECIES
-=======
+# Crepidotus praelatifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

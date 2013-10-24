@@ -1,5 +1,4 @@
-Dictyostelium magnum H. Hagiw., 1983 SPECIES
-=======
+# Dictyostelium magnum H. Hagiw., 1983 SPECIES
 
 #### Status
 ACCEPTED

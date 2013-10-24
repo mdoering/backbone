@@ -1,17 +1,16 @@
-Trichophyton crutis Castell. SPECIES
-=======
+# Trichophyton cruris Castell. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Trop. Med. Hyg. 11: 262 (1908)
 
 #### Original name
-Trichophyton crutis Castell.
+Trichophyton cruris Castell.
 
 ### Remarks
 null

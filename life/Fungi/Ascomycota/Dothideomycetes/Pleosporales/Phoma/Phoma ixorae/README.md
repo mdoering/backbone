@@ -1,5 +1,4 @@
-Phoma ixorae Hasija SPECIES
-=======
+# Phoma ixorae Hasija SPECIES
 
 #### Status
 ACCEPTED

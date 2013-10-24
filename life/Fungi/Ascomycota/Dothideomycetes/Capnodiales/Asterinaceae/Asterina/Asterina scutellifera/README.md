@@ -1,5 +1,4 @@
-Asterina scutellifera Berk. SPECIES
-=======
+# Asterina scutellifera Berk. SPECIES
 
 #### Status
 ACCEPTED

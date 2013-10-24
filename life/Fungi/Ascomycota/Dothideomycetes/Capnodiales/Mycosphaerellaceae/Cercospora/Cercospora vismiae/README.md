@@ -1,5 +1,4 @@
-Cercospora vismiae Syd. SPECIES
-=======
+# Cercospora vismiae Syd. SPECIES
 
 #### Status
 ACCEPTED

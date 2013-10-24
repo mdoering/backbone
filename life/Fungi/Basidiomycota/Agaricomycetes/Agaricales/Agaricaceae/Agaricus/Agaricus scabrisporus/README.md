@@ -1,5 +1,4 @@
-Agaricus scabrisporus Britzelm. SPECIES
-=======
+# Agaricus scabrisporus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

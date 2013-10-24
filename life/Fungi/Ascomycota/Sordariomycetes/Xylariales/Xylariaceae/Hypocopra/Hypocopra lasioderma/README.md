@@ -1,5 +1,4 @@
-Hypocopra lasioderma (Durieu & Mont.) Sacc. SPECIES
-=======
+# Hypocopra lasioderma (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

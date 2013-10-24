@@ -1,5 +1,4 @@
-Thelephora fissilis Pers. SPECIES
-=======
+# Thelephora fissilis Pers. SPECIES
 
 #### Status
 ACCEPTED

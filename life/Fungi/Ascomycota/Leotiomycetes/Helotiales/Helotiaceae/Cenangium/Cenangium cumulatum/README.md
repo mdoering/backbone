@@ -1,5 +1,4 @@
-Cenangium cumulatum (Quél.) Sacc. SPECIES
-=======
+# Cenangium cumulatum (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

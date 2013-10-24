@@ -1,5 +1,4 @@
-Enterococcaceae FAMILY
-=======
+# Enterococcaceae FAMILY
 
 #### Status
 ACCEPTED

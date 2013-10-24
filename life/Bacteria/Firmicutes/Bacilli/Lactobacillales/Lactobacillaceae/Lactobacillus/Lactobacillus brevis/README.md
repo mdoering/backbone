@@ -1,11 +1,10 @@
-Lactobacterium breve (Orla-Jensen, 1919) Krasil'nikov, 1949 SPECIES
-=======
+# Lactobacillus brevis (Orla-Jensen, 1919) Bergey et al., 1934 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

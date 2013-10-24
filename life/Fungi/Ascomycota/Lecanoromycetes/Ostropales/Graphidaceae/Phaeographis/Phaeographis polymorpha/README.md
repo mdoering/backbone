@@ -1,5 +1,4 @@
-Phaeographis polymorpha M. Nakan. SPECIES
-=======
+# Phaeographis polymorpha M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

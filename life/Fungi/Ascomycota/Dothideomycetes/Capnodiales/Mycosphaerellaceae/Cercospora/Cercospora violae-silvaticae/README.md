@@ -1,17 +1,16 @@
-Cercospora violae-silvatica Oudem. SPECIES
-=======
+# Cercospora violae-silvaticae Oudem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Med. Kon. Akad. v. Wetensch, 3 7: 323 (1890)
 
 #### Original name
-Cercospora violae-silvatica Oudem.
+Cercospora violae-silvaticae Oudem.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius aereus Rob. Henry SPECIES
-=======
+# Cortinarius aereus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

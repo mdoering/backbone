@@ -1,5 +1,4 @@
-Plectopycnis bignoniacearum var. bignoniacearum VARIETY
-=======
+# Plectopycnis bignoniacearum Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anais XIV Congr. Soc. bot. Brasil 185 (1964)
 
 #### Original name
-Plectopycnis bignoniacearum var. bignoniacearum
+Plectopycnis bignoniacearum Bat. & Cavalc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dothiorella gaurensis Soni, Dadwal & Jamaluddin SPECIES
-=======
+# Dothiorella gaurensis Soni, Dadwal & Jamaluddin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lingulina polymorpha Costa, 1861 SPECIES
-=======
+# Lingulina polymorpha Costa, 1861 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Morobia E. Horak GENUS
-=======
+# Lepiota (Pers.) Gray GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 8: 205 (1979)
+Nat. Arr. Brit. Pl. (London) 1: 601 (1821)
 
 #### Original name
-Morobia E. Horak
+null
 
 ### Remarks
 null

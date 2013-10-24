@@ -1,17 +1,16 @@
-Leptosphaeria parvula var. parvula VARIETY
-=======
+# Phaeosphaeria parvula (Niessl) Leuchtm., 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. nat. Ver. Brünn 10: 22 (1872)
+Sydowia 37: 109 (1984)
 
 #### Original name
-Leptosphaeria parvula var. parvula
+Leptosphaeria parvula Niessl, 1872
 
 ### Remarks
 null

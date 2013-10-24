@@ -1,5 +1,4 @@
-Melanostigma porothelia (Berk. & M.A. Curtis) Kirschst. SPECIES
-=======
+# Melanostigma porothelia (Berk. & M.A. Curtis) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

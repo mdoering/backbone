@@ -1,5 +1,4 @@
-Thelocarpon algicola Groenh. SPECIES
-=======
+# Thelocarpon algicola Groenh. SPECIES
 
 #### Status
 ACCEPTED

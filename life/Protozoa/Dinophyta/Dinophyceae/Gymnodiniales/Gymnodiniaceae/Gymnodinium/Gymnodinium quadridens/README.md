@@ -1,5 +1,4 @@
-Gymnodinium quadridens SPECIES
-=======
+# Gymnodinium quadridens SPECIES
 
 #### Status
 ACCEPTED

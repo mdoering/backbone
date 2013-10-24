@@ -1,14 +1,13 @@
-Stereocaulon arbuscula Nyl. SPECIES
-=======
+# Leprocaulon arbuscula (Nyl.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syn. meth. lich. 1(2): 253 (1860)
+in Hue, Nouvelles archives du Museum d'Histoire Naturelle, Paris, 3 Série 2: 246 (1890)
 
 #### Original name
 Stereocaulon arbuscula Nyl.

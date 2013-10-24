@@ -1,5 +1,4 @@
-Mimeomyces valdivianus Thaxt. SPECIES
-=======
+# Mimeomyces valdivianus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

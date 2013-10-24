@@ -1,5 +1,4 @@
-Bacillus circulans Jordan, 1890 (Approved Lists, 1980) SPECIES
-=======
+# Bacillus circulans Jordan, 1890 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

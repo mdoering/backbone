@@ -1,5 +1,4 @@
-Anisomeridium epiphyllum (Vezda) R.C. Harris SPECIES
-=======
+# Anisomeridium epiphyllum (Vezda) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora limosescens Zahlbr. SPECIES
-=======
+# Lecanora limosescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Periconia alternata (Berk.) Sacc., 1886 SPECIES
-=======
+# Sporocybe alternata (Berk.) Berk., 1841 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 269 (1886)
+in Cooke, Handb. Allgem. mykol. (Stuttgart) no. 1698
 
 #### Original name
-Aspergillus alternatus Berk.
+Sporocybe alternata (Berk.) Berk., 1841
 
 ### Remarks
 null

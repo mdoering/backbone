@@ -1,5 +1,4 @@
-Uromyces otakou G. Cunn., 1923 SPECIES
-=======
+# Uromyces otakou G. Cunn., 1923 SPECIES
 
 #### Status
 ACCEPTED

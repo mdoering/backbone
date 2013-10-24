@@ -1,5 +1,4 @@
-Pyrenopeziza inapiculata Declercq SPECIES
-=======
+# Pyrenopeziza inapiculata Declercq SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea achristotera Nyl. SPECIES
-=======
+# Lecidea achristotera Nyl. SPECIES
 
 #### Status
 ACCEPTED

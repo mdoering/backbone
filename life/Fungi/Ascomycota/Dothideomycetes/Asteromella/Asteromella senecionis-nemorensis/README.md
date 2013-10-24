@@ -1,5 +1,4 @@
-Asteromella senecionis-nemorensis (Savul. & Sandu) Vanev & Aa SPECIES
-=======
+# Asteromella senecionis-nemorensis (Savul. & Sandu) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

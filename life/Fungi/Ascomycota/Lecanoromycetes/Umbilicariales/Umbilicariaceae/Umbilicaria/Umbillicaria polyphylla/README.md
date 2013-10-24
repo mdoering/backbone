@@ -1,5 +1,4 @@
-Umbillicaria polyphylla (L.) Baumg. SPECIES
-=======
+# Umbillicaria polyphylla (L.) Baumg. SPECIES
 
 #### Status
 DOUBTFUL

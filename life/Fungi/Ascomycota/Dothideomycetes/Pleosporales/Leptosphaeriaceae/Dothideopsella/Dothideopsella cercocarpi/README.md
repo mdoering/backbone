@@ -1,5 +1,4 @@
-Dothideopsella cercocarpi (Syd. & P. Syd.) M.E. Barr & Rogerson SPECIES
-=======
+# Dothideopsella cercocarpi (Syd. & P. Syd.) M.E. Barr & Rogerson SPECIES
 
 #### Status
 ACCEPTED

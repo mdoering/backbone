@@ -1,5 +1,4 @@
-Vararia gomezii Boidin & Lanq., 1976 SPECIES
-=======
+# Vararia gomezii Boidin & Lanq., 1976 SPECIES
 
 #### Status
 ACCEPTED

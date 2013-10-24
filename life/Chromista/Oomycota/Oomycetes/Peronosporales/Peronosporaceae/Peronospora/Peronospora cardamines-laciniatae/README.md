@@ -1,17 +1,16 @@
-Peronospora cardaminus-laciniatae Gäum. SPECIES
-=======
+# Peronospora cardamines-laciniatae Gäum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. bot. Zbl. 35(1): 133 (1918)
 
 #### Original name
-Peronospora cardaminus-laciniatae Gäum.
+Peronospora cardamines-laciniatae Gäum.
 
 ### Remarks
 null

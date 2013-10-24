@@ -1,5 +1,4 @@
-Pseudocercospora baliospermi (S. Chowdhury) Deighton SPECIES
-=======
+# Pseudocercospora baliospermi (S. Chowdhury) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius emollitus Fr., 1838 SPECIES
-=======
+# Cortinarius emollitus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED

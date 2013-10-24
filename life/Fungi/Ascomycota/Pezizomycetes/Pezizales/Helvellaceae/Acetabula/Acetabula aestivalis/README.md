@@ -1,5 +1,4 @@
-Acetabula aestivalis R. Heim & L. Remy SPECIES
-=======
+# Acetabula aestivalis R. Heim & L. Remy SPECIES
 
 #### Status
 ACCEPTED

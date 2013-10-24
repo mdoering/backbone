@@ -1,5 +1,4 @@
-Stephanophoron GENUS
-=======
+# Stephanophoron GENUS
 
 #### Status
 ACCEPTED

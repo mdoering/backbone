@@ -1,14 +1,13 @@
-Sorosporium dembianense Bacc., 1917 SPECIES
-=======
+# Sporisorium dembianense (Bacc.) Vánky, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. , Lond. 14: 132 (1917)
+Fungal Diversity 12: 187 (2003)
 
 #### Original name
 Sorosporium dembianense Bacc., 1917

@@ -1,14 +1,13 @@
-Nummularia cyclisca (Mont.) Cooke SPECIES
-=======
+# Nummularia cycliscus (Mont.) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 11(no. 60): 126 (1883)
 
 #### Original name
 Hypoxylon cycliscum Mont.

@@ -1,5 +1,4 @@
-Mallomonas cratis Harris & Bradley SPECIES
-=======
+# Mallomonas cratis Harris & Bradley SPECIES
 
 #### Status
 ACCEPTED

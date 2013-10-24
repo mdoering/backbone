@@ -1,5 +1,4 @@
-Kizakimonas Skvortzov GENUS
-=======
+# Kizakimonas Skvortzov GENUS
 
 #### Status
 ACCEPTED

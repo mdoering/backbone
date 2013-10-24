@@ -1,5 +1,4 @@
-Meliola pitya Sacc. SPECIES
-=======
+# Meliola pitya Sacc. SPECIES
 
 #### Status
 ACCEPTED

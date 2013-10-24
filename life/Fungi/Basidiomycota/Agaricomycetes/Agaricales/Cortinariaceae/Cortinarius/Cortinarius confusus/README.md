@@ -1,5 +1,4 @@
-Cortinarius confusus Kauffman & A.H. Sm. SPECIES
-=======
+# Cortinarius confusus Kauffman & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

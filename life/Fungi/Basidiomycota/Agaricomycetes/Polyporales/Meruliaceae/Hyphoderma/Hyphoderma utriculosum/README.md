@@ -1,5 +1,4 @@
-Hyphoderma utriculosum (G. Cunn.) Stalpers & P.K. Buchanan, 1991 SPECIES
-=======
+# Hyphoderma utriculosum (G. Cunn.) Stalpers & P.K. Buchanan, 1991 SPECIES
 
 #### Status
 ACCEPTED

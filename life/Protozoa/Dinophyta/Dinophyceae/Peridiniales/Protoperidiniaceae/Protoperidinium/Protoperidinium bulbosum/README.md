@@ -1,5 +1,4 @@
-Protoperidinium bulbosum (Gaarder, 1954) Balech, 1974 SPECIES
-=======
+# Protoperidinium bulbosum (Gaarder, 1954) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

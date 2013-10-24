@@ -1,5 +1,4 @@
-Thermonema rossianum Nobre et al., 1997 SPECIES
-=======
+# Thermonema rossianum Nobre et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

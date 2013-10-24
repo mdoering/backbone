@@ -1,14 +1,13 @@
-Porpomyces albonigrescens (Núñez, Parmasto & Ryvarden) Spirin & Zmitr., 2003 SPECIES
-=======
+# Ceriporiopsis albonigrescens Núñez, Parmasto & Ryvarden, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Karstenia 43(2): 80 (2003)
+Fungal Diversity 6: 107 (2001)
 
 #### Original name
 Ceriporiopsis albonigrescens Núñez, Parmasto & Ryvarden, 2001

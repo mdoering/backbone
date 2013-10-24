@@ -1,5 +1,4 @@
-Mycena rhodophylla Kalchbr. SPECIES
-=======
+# Mycena rhodophylla Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

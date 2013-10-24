@@ -1,5 +1,4 @@
-Phaeodimeriella negrii E. Castell. SPECIES
-=======
+# Phaeodimeriella negrii E. Castell. SPECIES
 
 #### Status
 ACCEPTED

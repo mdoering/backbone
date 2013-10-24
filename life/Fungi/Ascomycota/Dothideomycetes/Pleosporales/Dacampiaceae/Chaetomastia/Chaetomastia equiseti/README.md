@@ -1,5 +1,4 @@
-Chaetomastia equiseti M.E. Barr SPECIES
-=======
+# Chaetomastia equiseti M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora hampeana Hepp SPECIES
-=======
+# Biatora hampeana Hepp SPECIES
 
 #### Status
 ACCEPTED

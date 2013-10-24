@@ -1,5 +1,4 @@
-Jaapia argillacea Bres., 1911 SPECIES
-=======
+# Jaapia argillacea Bres., 1911 SPECIES
 
 #### Status
 ACCEPTED

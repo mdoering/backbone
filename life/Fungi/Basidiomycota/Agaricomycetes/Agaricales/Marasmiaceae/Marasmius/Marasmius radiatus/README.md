@@ -1,5 +1,4 @@
-Marasmius radiatus Desjardin SPECIES
-=======
+# Marasmius radiatus Desjardin SPECIES
 
 #### Status
 ACCEPTED

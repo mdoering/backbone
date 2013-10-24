@@ -1,5 +1,4 @@
-Cortinarius pulchrifolius var. pulchrifolius VARIETY
-=======
+# Cortinarius pulchrifolius Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius pulchrifolius var. pulchrifolius
+Cortinarius pulchrifolius Peck
 
 ### Remarks
 null

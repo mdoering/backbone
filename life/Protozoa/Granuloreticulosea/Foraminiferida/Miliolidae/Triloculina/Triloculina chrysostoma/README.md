@@ -1,8 +1,7 @@
-Miliolina chrysostoma Chapman, 1909 SPECIES
-=======
+# Triloculina chrysostoma (Chapman, 1909) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

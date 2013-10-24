@@ -1,5 +1,4 @@
-Collema confertum Arnold SPECIES
-=======
+# Collema confertum Arnold SPECIES
 
 #### Status
 ACCEPTED

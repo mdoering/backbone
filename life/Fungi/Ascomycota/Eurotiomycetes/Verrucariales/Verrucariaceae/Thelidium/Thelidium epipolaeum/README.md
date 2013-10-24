@@ -1,5 +1,4 @@
-Thelidium epipolaeum f. verruculosum Zschacke FORM
-=======
+# Thelidium epipolaeum Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelidium epipolaeum f. verruculosum Zschacke
+Thelidium epipolaeum Arnold
 
 ### Remarks
 null

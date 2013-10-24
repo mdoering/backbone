@@ -1,5 +1,4 @@
-Penicillium moldavicum Milko & Beliakova, 1967 SPECIES
-=======
+# Penicillium moldavicum Milko & Beliakova, 1967 SPECIES
 
 #### Status
 ACCEPTED

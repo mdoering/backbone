@@ -1,5 +1,4 @@
-Ascochytula plana (P. Karst.) Died. SPECIES
-=======
+# Ascochytula plana (P. Karst.) Died. SPECIES
 
 #### Status
 ACCEPTED

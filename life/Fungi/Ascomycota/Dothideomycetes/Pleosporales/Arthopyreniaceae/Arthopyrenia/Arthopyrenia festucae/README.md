@@ -1,5 +1,4 @@
-Arthopyrenia festucae Arnold SPECIES
-=======
+# Arthopyrenia festucae Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusitheca Bonord. GENUS
-=======
+# Fusitheca Bonord. GENUS
 
 #### Status
 ACCEPTED

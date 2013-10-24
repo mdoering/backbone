@@ -1,5 +1,4 @@
-Piptostoma spilotum Berk. & Broome SPECIES
-=======
+# Piptostoma spilotum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

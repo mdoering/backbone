@@ -1,8 +1,7 @@
-Thiobacillus tepidarius Wood & Kelly, 1985 SPECIES
-=======
+# Thermithiobacillus tepidarius (Wood & Kelly, 1985) Kelly & Wood, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

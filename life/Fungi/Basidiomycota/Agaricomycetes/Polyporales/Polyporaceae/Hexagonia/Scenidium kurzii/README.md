@@ -1,5 +1,4 @@
-Scenidium kurzii (Curr.) Kuntze SPECIES
-=======
+# Scenidium kurzii (Curr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

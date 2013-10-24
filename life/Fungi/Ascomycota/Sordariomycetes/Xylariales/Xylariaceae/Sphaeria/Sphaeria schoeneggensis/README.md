@@ -1,5 +1,4 @@
-Sphaeria schoeneggensis Ettingsh. SPECIES
-=======
+# Sphaeria schoeneggensis Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

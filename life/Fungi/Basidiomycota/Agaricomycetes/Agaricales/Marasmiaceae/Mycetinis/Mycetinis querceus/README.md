@@ -1,5 +1,4 @@
-Mycetinis querceus (Britzelm.) Antonín & Noordel. SPECIES
-=======
+# Mycetinis querceus (Britzelm.) Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED

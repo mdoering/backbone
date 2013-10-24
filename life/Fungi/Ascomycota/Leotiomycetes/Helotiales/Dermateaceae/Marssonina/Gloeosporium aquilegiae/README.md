@@ -1,5 +1,4 @@
-Gloeosporium aquilegiae Thüm. SPECIES
-=======
+# Gloeosporium aquilegiae Thüm. SPECIES
 
 #### Status
 ACCEPTED

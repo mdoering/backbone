@@ -1,5 +1,4 @@
-Nonionella aberrans var. turgidula Rhumbler, 1949 VARIETY
-=======
+# Nonionella aberrans Rhumbler, 1949 SPECIES
 
 #### Status
 ACCEPTED

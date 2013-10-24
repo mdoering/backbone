@@ -1,5 +1,4 @@
-Phaeosphaeria scotophila (Sacc.) Ahn & Shearer SPECIES
-=======
+# Phaeosphaeria scotophila (Sacc.) Ahn & Shearer SPECIES
 
 #### Status
 ACCEPTED

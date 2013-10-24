@@ -1,5 +1,4 @@
-Pezizella kniepii Ade SPECIES
-=======
+# Pezizella kniepii Ade SPECIES
 
 #### Status
 ACCEPTED

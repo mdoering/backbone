@@ -1,5 +1,4 @@
-Graphis aenea (Schaer.) SPECIES
-=======
+# Graphis aenea (Schaer.) SPECIES
 
 #### Status
 ACCEPTED

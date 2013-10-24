@@ -1,5 +1,4 @@
-Podolina echinata German in Timofeev et al., 1976 SPECIES
-=======
+# Podolina echinata German in Timofeev et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

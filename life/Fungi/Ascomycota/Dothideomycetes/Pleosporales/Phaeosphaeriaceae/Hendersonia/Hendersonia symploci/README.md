@@ -1,5 +1,4 @@
-Hendersonia symploci Berk. & Broome SPECIES
-=======
+# Hendersonia symploci Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

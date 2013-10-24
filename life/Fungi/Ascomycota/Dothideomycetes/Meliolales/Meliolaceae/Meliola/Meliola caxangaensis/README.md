@@ -1,5 +1,4 @@
-Meliola caxangaensis Bat. SPECIES
-=======
+# Meliola caxangaensis Bat. SPECIES
 
 #### Status
 ACCEPTED

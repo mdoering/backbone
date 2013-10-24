@@ -1,5 +1,4 @@
-Capnocrinum GENUS
-=======
+# Capnocrinum GENUS
 
 #### Status
 ACCEPTED

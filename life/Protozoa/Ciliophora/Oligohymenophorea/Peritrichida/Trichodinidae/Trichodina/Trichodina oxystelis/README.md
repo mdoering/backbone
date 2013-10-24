@@ -1,5 +1,4 @@
-Trichodina oxystelis Sandon, 1965 SPECIES
-=======
+# Trichodina oxystelis Sandon, 1965 SPECIES
 
 #### Status
 ACCEPTED

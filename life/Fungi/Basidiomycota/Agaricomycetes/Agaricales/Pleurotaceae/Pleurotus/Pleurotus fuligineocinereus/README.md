@@ -1,5 +1,4 @@
-Pleurotus fuligineocinereus (Britzelm.) Sacc. SPECIES
-=======
+# Pleurotus fuligineocinereus (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

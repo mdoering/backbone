@@ -1,5 +1,4 @@
-Urotricha vitrea SPECIES
-=======
+# Urotricha vitrea SPECIES
 
 #### Status
 ACCEPTED

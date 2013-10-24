@@ -1,8 +1,7 @@
-Euplotes turritus Ehrenberg, 1831 SPECIES
-=======
+# Aspidisca turrita (Ehrenberg, 1831) Claparède & Lachmann, 1858 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Theloschistomyces crysophthalmi Cif. & Tomas. SPECIES
-=======
+# Theloschistomyces crysophthalmi Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

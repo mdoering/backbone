@@ -1,5 +1,4 @@
-Xylaria trichopoda Penz. & Sacc. SPECIES
-=======
+# Xylaria trichopoda Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

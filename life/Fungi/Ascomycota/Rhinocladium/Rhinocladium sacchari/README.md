@@ -1,5 +1,4 @@
-Rhinocladium sacchari Speg. SPECIES
-=======
+# Rhinocladium sacchari Speg. SPECIES
 
 #### Status
 ACCEPTED

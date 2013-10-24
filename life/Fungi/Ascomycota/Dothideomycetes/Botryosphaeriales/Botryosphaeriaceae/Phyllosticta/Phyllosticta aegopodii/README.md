@@ -1,5 +1,4 @@
-Phyllosticta aegopodii (Curr.) Allesch. SPECIES
-=======
+# Phyllosticta aegopodii (Curr.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

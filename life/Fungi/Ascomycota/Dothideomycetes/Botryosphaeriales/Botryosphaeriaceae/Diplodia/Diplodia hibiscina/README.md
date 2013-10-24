@@ -1,5 +1,4 @@
-Diplodia hibiscina Cooke & Ellis SPECIES
-=======
+# Diplodia hibiscina Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

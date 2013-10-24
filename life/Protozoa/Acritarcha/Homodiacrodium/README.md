@@ -1,5 +1,4 @@
-Homodiacrodium GENUS
-=======
+# Homodiacrodium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichocrea stenospora Marchal SPECIES
-=======
+# Trichocrea stenospora Marchal SPECIES
 
 #### Status
 ACCEPTED

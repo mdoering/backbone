@@ -1,5 +1,4 @@
-Galerina velutipes Singer SPECIES
-=======
+# Galerina velutipes Singer SPECIES
 
 #### Status
 ACCEPTED

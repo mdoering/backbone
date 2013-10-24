@@ -1,5 +1,4 @@
-Hypogymnia magnifica X. L. Wei & McCune SPECIES
-=======
+# Hypogymnia magnifica X. L. Wei & McCune SPECIES
 
 #### Status
 ACCEPTED

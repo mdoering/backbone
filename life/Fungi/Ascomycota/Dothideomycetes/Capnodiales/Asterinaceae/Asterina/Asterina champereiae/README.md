@@ -1,5 +1,4 @@
-Asterina champereiae Hansf. SPECIES
-=======
+# Asterina champereiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

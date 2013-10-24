@@ -1,5 +1,4 @@
-Patinella flavobrunnea Petr. SPECIES
-=======
+# Patinella flavobrunnea Petr. SPECIES
 
 #### Status
 ACCEPTED

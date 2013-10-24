@@ -1,5 +1,4 @@
-Massariosphaeria triseptata Leuchtm., 1987 SPECIES
-=======
+# Massariosphaeria triseptata Leuchtm., 1987 SPECIES
 
 #### Status
 ACCEPTED

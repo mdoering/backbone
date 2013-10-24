@@ -1,5 +1,4 @@
-Thelocarpella gordensis Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Thelocarpella gordensis Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

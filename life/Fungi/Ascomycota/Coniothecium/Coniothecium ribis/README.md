@@ -1,5 +1,4 @@
-Coniothecium ribis P. Karst. SPECIES
-=======
+# Coniothecium ribis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

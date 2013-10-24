@@ -1,5 +1,4 @@
-Spermatodium lacteum (Körb.) Trevis. SPECIES
-=======
+# Spermatodium lacteum (Körb.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

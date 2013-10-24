@@ -1,5 +1,4 @@
-Hendersonula saccharina S. Ahmad SPECIES
-=======
+# Hendersonula saccharina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leprantha melaleuca (Fr.) Lönnr. SPECIES
-=======
+# Leprantha melaleuca (Fr.) Lönnr. SPECIES
 
 #### Status
 ACCEPTED

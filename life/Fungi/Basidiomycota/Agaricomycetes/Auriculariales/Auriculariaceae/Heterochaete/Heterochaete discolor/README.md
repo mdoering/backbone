@@ -1,5 +1,4 @@
-Heterochaete discolor (Berk. & Broome) Petch SPECIES
-=======
+# Heterochaete discolor (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

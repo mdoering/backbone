@@ -1,5 +1,4 @@
-Omphalina paludicola (Cleland) Grgur. SPECIES
-=======
+# Omphalina paludicola (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

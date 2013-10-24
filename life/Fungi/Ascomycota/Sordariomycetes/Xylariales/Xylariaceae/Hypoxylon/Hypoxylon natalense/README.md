@@ -1,5 +1,4 @@
-Hypoxylon natalense Lloyd SPECIES
-=======
+# Hypoxylon natalense Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cylindrocarpon mangiferum Chowdhry & A. Varma SPECIES
-=======
+# Cylindrocarpon mangiferarum Chowdhry & A. Varma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 55(21): 1077 (1986)
 
 #### Original name
-Cylindrocarpon mangiferum Chowdhry & A. Varma
+Cylindrocarpon mangiferarum Chowdhry & A. Varma
 
 ### Remarks
 null

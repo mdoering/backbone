@@ -1,17 +1,16 @@
-Ganoderma pfeifferi var. borneense Corner VARIETY
-=======
+# Ganoderma pfeifferi Bres., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 75: 140 (1983)
+in Patouillard, Bull. Soc. mycol. Fr. 5(2,3): 70 (1889)
 
 #### Original name
-Ganoderma pfeifferi var. borneense Corner
+Ganoderma pfeifferi Bres., 1889
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeridiothrix Pascher & Vik, 1941 GENUS
-=======
+# Sphaeridiothrix Pascher & Vik, 1941 GENUS
 
 #### Status
 ACCEPTED

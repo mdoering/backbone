@@ -1,5 +1,4 @@
-Puccinia operta Mundk. & Thirum., 1946 SPECIES
-=======
+# Puccinia operta Mundk. & Thirum., 1946 SPECIES
 
 #### Status
 ACCEPTED

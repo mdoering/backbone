@@ -1,5 +1,4 @@
-Lecanora wasmuthii Mereschk. SPECIES
-=======
+# Lecanora wasmuthii Mereschk. SPECIES
 
 #### Status
 ACCEPTED

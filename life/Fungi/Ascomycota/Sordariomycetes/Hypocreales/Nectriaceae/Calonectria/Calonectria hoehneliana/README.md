@@ -1,5 +1,4 @@
-Calonectria hoehneliana Jaap SPECIES
-=======
+# Calonectria hoehneliana Jaap SPECIES
 
 #### Status
 ACCEPTED

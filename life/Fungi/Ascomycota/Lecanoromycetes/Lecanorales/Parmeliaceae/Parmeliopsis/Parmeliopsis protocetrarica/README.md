@@ -1,5 +1,4 @@
-Parmeliopsis protocetrarica Elix SPECIES
-=======
+# Parmeliopsis protocetrarica Elix SPECIES
 
 #### Status
 ACCEPTED

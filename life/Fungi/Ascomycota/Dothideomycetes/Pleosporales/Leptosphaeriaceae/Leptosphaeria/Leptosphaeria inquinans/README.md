@@ -1,5 +1,4 @@
-Leptosphaeria inquinans Peck SPECIES
-=======
+# Leptosphaeria inquinans Peck SPECIES
 
 #### Status
 ACCEPTED

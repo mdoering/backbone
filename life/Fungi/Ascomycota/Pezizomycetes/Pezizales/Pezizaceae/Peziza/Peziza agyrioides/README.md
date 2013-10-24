@@ -1,5 +1,4 @@
-Peziza agyrioides Desm. SPECIES
-=======
+# Peziza agyrioides Desm. SPECIES
 
 #### Status
 ACCEPTED

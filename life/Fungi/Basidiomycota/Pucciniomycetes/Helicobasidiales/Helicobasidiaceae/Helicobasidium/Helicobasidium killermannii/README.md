@@ -1,5 +1,4 @@
-Helicobasidium killermannii (Bres.) Bourdot & Galzin SPECIES
-=======
+# Helicobasidium killermannii (Bres.) Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

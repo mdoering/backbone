@@ -1,5 +1,4 @@
-Sistotrema lusitanicum Pers. SPECIES
-=======
+# Sistotrema lusitanicum Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutellinia diaboli (Velen.) Le Gal SPECIES
-=======
+# Scutellinia diaboli (Velen.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

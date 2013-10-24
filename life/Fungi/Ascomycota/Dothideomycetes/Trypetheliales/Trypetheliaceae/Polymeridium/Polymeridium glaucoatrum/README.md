@@ -1,5 +1,4 @@
-Polymeridium glaucoatrum (Vain.) R.C. Harris SPECIES
-=======
+# Polymeridium glaucoatrum (Vain.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

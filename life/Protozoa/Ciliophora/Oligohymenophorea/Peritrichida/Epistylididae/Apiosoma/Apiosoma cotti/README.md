@@ -1,5 +1,4 @@
-Apiosoma cotti SPECIES
-=======
+# Apiosoma cotti SPECIES
 
 #### Status
 ACCEPTED

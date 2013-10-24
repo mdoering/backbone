@@ -1,5 +1,4 @@
-Septoria longispora Overh. SPECIES
-=======
+# Septoria longispora Overh. SPECIES
 
 #### Status
 ACCEPTED

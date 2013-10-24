@@ -1,5 +1,4 @@
-Passalora vitis-ripariae (U. Braun) U. Braun & Crous SPECIES
-=======
+# Passalora vitis-ripariae (U. Braun) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

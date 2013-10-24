@@ -1,5 +1,4 @@
-Asterina congregata Berk. & M.A. Curtis, 1860 SPECIES
-=======
+# Asterina congregata Berk. & M.A. Curtis, 1860 SPECIES
 
 #### Status
 ACCEPTED

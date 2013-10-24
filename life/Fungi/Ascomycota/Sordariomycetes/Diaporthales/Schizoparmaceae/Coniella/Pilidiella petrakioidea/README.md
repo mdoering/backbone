@@ -1,5 +1,4 @@
-Pilidiella petrakioidea (Nag Raj) Crous & Van Niekerk SPECIES
-=======
+# Pilidiella petrakioidea (Nag Raj) Crous & Van Niekerk SPECIES
 
 #### Status
 ACCEPTED

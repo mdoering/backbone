@@ -1,5 +1,4 @@
-Lyophyllum hebelomoides (Ew. Gerhardt) Consiglio & Contu SPECIES
-=======
+# Lyophyllum hebelomoides (Ew. Gerhardt) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

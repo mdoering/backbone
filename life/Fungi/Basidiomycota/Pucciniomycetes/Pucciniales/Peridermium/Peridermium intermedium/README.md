@@ -1,5 +1,4 @@
-Peridermium intermedium Arthur & F. Kern SPECIES
-=======
+# Peridermium intermedium Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

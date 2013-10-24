@@ -1,5 +1,4 @@
-Biatora sibiriensis Willey SPECIES
-=======
+# Biatora sibiriensis Willey SPECIES
 
 #### Status
 ACCEPTED

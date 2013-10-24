@@ -1,5 +1,4 @@
-Blepharisma albicans Dumas, 1937 SPECIES
-=======
+# Blepharisma albicans Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

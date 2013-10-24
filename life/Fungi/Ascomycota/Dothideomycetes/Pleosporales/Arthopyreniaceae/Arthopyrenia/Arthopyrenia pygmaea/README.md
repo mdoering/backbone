@@ -1,5 +1,4 @@
-Arthopyrenia pygmaea Degel. SPECIES
-=======
+# Arthopyrenia pygmaea Degel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uncinula luculenta Howe SPECIES
-=======
+# Uncinula luculenta Howe SPECIES
 
 #### Status
 ACCEPTED

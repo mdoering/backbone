@@ -1,5 +1,4 @@
-Byssotheciella eucalyptina Syd., 1930 SPECIES
-=======
+# Byssotheciella eucalyptina Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

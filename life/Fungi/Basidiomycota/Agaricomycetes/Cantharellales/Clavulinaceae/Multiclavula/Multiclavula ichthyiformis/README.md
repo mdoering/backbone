@@ -1,5 +1,4 @@
-Multiclavula ichthyiformis Nelsen, Lücking, Umaña, Trest & Will-Wolf SPECIES
-=======
+# Multiclavula ichthyiformis Nelsen, Lücking, Umaña, Trest & Will-Wolf SPECIES
 
 #### Status
 ACCEPTED

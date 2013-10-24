@@ -1,5 +1,4 @@
-Desulfurococcaceae FAMILY
-=======
+# Desulfurococcaceae FAMILY
 
 #### Status
 ACCEPTED

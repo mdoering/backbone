@@ -1,5 +1,4 @@
-Discosphaerina diapensiae (Rehm) Lar.N. Vassiljeva SPECIES
-=======
+# Discosphaerina diapensiae (Rehm) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

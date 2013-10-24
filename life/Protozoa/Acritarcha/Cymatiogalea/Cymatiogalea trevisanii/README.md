@@ -1,5 +1,4 @@
-Cymatiogalea trevisanii Di Milia & Tongiorgi, 1993 SPECIES
-=======
+# Cymatiogalea trevisanii Di Milia & Tongiorgi, 1993 SPECIES
 
 #### Status
 ACCEPTED

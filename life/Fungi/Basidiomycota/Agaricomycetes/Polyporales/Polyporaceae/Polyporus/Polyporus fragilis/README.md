@@ -1,5 +1,4 @@
-Polyporus fragilis SPECIES
-=======
+# Polyporus fragilis SPECIES
 
 #### Status
 ACCEPTED

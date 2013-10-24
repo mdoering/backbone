@@ -1,5 +1,4 @@
-Bacidia palmicola (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia palmicola (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

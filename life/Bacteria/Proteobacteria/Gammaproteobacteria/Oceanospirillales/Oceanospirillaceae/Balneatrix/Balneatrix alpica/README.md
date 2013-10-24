@@ -1,5 +1,4 @@
-Balneatrix alpica Dauga et al., 1993 SPECIES
-=======
+# Balneatrix alpica Dauga et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

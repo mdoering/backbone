@@ -1,5 +1,4 @@
-Cantharellula umbrosa (A.H. Sm. & M.B. Walters) Singer SPECIES
-=======
+# Cantharellula umbrosa (A.H. Sm. & M.B. Walters) Singer SPECIES
 
 #### Status
 ACCEPTED

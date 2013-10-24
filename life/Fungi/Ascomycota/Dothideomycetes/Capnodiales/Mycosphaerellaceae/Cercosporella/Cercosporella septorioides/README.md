@@ -1,5 +1,4 @@
-Cercosporella septorioides Sacc. SPECIES
-=======
+# Cercosporella septorioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

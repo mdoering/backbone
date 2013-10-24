@@ -1,5 +1,4 @@
-Entoloma proterum Noordel. & Wölfel SPECIES
-=======
+# Entoloma proterum Noordel. & Wölfel SPECIES
 
 #### Status
 ACCEPTED

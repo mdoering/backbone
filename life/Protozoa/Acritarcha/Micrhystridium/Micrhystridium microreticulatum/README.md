@@ -1,5 +1,4 @@
-Micrhystridium microreticulatum Nagy, 1965 SPECIES
-=======
+# Micrhystridium microreticulatum Nagy, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eriosphaeria dumetorum Nann. SPECIES
-=======
+# Eriosphaeria dumetorum Nann. SPECIES
 
 #### Status
 ACCEPTED

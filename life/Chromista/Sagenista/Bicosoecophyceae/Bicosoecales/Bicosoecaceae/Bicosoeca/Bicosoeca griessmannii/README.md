@@ -1,5 +1,4 @@
-Bicosoeca griessmannii (Griessmann) Bourrelly SPECIES
-=======
+# Bicosoeca griessmannii (Griessmann) Bourrelly SPECIES
 
 #### Status
 ACCEPTED

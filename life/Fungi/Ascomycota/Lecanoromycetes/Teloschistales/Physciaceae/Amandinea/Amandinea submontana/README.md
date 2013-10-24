@@ -1,5 +1,4 @@
-Amandinea submontana Marbach SPECIES
-=======
+# Amandinea submontana Marbach SPECIES
 
 #### Status
 ACCEPTED

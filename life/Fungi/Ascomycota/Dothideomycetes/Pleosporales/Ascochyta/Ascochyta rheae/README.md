@@ -1,5 +1,4 @@
-Ascochyta rheae (Cooke) Grove SPECIES
-=======
+# Ascochyta rheae (Cooke) Grove SPECIES
 
 #### Status
 ACCEPTED

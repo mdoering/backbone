@@ -1,5 +1,4 @@
-Aplosporella baxteri Cooke & Massee SPECIES
-=======
+# Aplosporella baxteri Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

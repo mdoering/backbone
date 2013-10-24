@@ -1,5 +1,4 @@
-Cercospora blumeae-balsamiferae Sawada SPECIES
-=======
+# Cercospora blumeae-balsamiferae Sawada SPECIES
 
 #### Status
 ACCEPTED

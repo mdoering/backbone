@@ -1,5 +1,4 @@
-Peziza stuntzii Trappe SPECIES
-=======
+# Peziza stuntzii Trappe SPECIES
 
 #### Status
 ACCEPTED

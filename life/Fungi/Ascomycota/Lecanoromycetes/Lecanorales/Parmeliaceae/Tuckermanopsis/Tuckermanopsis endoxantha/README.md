@@ -1,5 +1,4 @@
-Tuckermanopsis endoxantha (Hue) Gyeln. SPECIES
-=======
+# Tuckermanopsis endoxantha (Hue) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca subannulata (Peck) Murrill SPECIES
-=======
+# Melanoleuca subannulata (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistylis umbilicata Claparède & Lachmann, 1858 SPECIES
-=======
+# Epistylis umbilicata Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

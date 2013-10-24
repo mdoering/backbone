@@ -1,5 +1,4 @@
-Puccinia scharifii Petr. SPECIES
-=======
+# Puccinia scharifii Petr. SPECIES
 
 #### Status
 ACCEPTED

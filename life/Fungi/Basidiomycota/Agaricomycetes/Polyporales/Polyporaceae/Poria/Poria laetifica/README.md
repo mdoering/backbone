@@ -1,5 +1,4 @@
-Poria laetifica (Peck) Sacc. SPECIES
-=======
+# Poria laetifica (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

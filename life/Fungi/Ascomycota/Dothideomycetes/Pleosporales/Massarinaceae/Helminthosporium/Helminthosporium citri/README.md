@@ -1,5 +1,4 @@
-Helminthosporium citri Sawada SPECIES
-=======
+# Helminthosporium citri Sawada SPECIES
 
 #### Status
 ACCEPTED

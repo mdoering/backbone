@@ -1,5 +1,4 @@
-Myxosporella ulmicola Bonar SPECIES
-=======
+# Myxosporella ulmicola Bonar SPECIES
 
 #### Status
 ACCEPTED

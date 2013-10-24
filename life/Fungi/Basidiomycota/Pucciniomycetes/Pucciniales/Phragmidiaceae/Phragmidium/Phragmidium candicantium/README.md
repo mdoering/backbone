@@ -1,5 +1,4 @@
-Phragmidium candicantium (Vleugel) Dietel SPECIES
-=======
+# Phragmidium candicantium (Vleugel) Dietel SPECIES
 
 #### Status
 ACCEPTED

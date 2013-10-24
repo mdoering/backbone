@@ -1,5 +1,4 @@
-Clavaria mucronella Bres. SPECIES
-=======
+# Clavaria mucronella Bres. SPECIES
 
 #### Status
 ACCEPTED

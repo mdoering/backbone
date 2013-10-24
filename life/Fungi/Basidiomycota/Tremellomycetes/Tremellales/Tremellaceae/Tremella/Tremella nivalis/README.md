@@ -1,5 +1,4 @@
-Tremella nivalis Chee J. Chen SPECIES
-=======
+# Tremella nivalis Chee J. Chen SPECIES
 
 #### Status
 ACCEPTED

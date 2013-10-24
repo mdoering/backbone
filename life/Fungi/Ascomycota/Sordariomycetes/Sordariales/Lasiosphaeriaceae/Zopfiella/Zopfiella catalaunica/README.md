@@ -1,5 +1,4 @@
-Zopfiella catalaunica Guarro SPECIES
-=======
+# Zopfiella catalaunica Guarro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia abbreviata Müll. Arg. SPECIES
-=======
+# Arthonia abbreviata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

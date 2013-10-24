@@ -1,5 +1,4 @@
-Fusichalara goanensis Bhat & W.B. Kendr. SPECIES
-=======
+# Fusichalara goanensis Bhat & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

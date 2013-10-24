@@ -1,5 +1,4 @@
-Mycena austinii (Peck) Kühner SPECIES
-=======
+# Mycena austinii (Peck) Kühner SPECIES
 
 #### Status
 ACCEPTED

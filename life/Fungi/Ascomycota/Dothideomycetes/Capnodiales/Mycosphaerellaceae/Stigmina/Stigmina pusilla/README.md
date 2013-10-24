@@ -1,5 +1,4 @@
-Stigmina pusilla (P. Karst.) S. Hughes SPECIES
-=======
+# Stigmina pusilla (P. Karst.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

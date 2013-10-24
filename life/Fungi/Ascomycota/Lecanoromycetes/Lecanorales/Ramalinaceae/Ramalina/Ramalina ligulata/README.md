@@ -1,5 +1,4 @@
-Ramalina ligulata (Ach.) J.T.H. Brandt SPECIES
-=======
+# Ramalina ligulata (Ach.) J.T.H. Brandt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerosporium gardeniicola Henn. SPECIES
-=======
+# Dimerosporium gardeniicola Henn. SPECIES
 
 #### Status
 ACCEPTED

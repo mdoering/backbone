@@ -1,5 +1,4 @@
-Conidiocarpus longicollus Matsush. SPECIES
-=======
+# Conidiocarpus longicollus Matsush. SPECIES
 
 #### Status
 ACCEPTED

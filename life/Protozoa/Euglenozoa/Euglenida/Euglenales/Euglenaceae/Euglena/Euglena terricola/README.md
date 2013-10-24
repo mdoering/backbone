@@ -1,5 +1,4 @@
-Euglena terricola var. alpina Grandori VARIETY
-=======
+# Euglena terricola (Dang.) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

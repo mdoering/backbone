@@ -1,5 +1,4 @@
-Phomatosporella Tak. Kobay. & K. Sasaki GENUS
-=======
+# Phomatosporella Tak. Kobay. & K. Sasaki GENUS
 
 #### Status
 ACCEPTED

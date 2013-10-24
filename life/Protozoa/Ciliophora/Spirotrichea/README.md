@@ -1,5 +1,4 @@
-Spirotrichea Bütschli, 1889 CLASS
-=======
+# Spirotrichea Bütschli, 1889 CLASS
 
 #### Status
 ACCEPTED

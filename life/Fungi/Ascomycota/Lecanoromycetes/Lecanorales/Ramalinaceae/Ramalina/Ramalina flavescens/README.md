@@ -1,5 +1,4 @@
-Ramalina flavescens Nyl. SPECIES
-=======
+# Ramalina flavescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

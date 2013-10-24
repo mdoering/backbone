@@ -1,5 +1,4 @@
-Marinitoga Wery et al., 2001 GENUS
-=======
+# Marinitoga Wery et al., 2001 GENUS
 
 #### Status
 ACCEPTED

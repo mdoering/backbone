@@ -1,5 +1,4 @@
-Lecanora contractuloides Lumbsch & Elix SPECIES
-=======
+# Lecanora contractuloides Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

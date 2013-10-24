@@ -1,5 +1,4 @@
-Phyllostictina hamamelidis (Cooke) Petr. & Syd. SPECIES
-=======
+# Phyllostictina hamamelidis (Cooke) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

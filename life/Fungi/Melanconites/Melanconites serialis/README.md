@@ -1,5 +1,4 @@
-Melanconites serialis Göpp. SPECIES
-=======
+# Melanconites serialis Göpp. SPECIES
 
 #### Status
 ACCEPTED

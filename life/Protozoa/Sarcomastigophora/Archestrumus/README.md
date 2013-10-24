@@ -1,5 +1,4 @@
-Archestrumus Tikhomirova, 1987 GENUS
-=======
+# Archestrumus Tikhomirova, 1987 GENUS
 
 #### Status
 ACCEPTED

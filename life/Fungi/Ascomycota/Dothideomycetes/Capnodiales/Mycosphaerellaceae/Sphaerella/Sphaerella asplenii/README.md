@@ -1,5 +1,4 @@
-Sphaerella asplenii var. asplenii VARIETY
-=======
+# Sphaerella asplenii Rabenh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella asplenii var. asplenii
+Sphaerella asplenii Rabenh.
 
 ### Remarks
 null

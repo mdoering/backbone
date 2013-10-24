@@ -1,17 +1,16 @@
-Agaricus albobrunneus f. albobrunneus FORM
-=======
+# Tricholoma albobrunneum (Pers.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 293 (1801)
+Führ. Pilzk. (Zwickau) 130 (1871)
 
 #### Original name
-Agaricus albobrunneus f. albobrunneus
+Agaricus albobrunneus Pers., 1801
 
 ### Remarks
 null

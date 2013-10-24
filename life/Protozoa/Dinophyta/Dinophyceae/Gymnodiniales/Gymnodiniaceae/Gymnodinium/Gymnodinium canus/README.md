@@ -1,5 +1,4 @@
-Gymnodinium canus Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium canus Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

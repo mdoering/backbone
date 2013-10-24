@@ -1,5 +1,4 @@
-Agaricus cygneus Schulzer SPECIES
-=======
+# Agaricus cygneus Schulzer SPECIES
 
 #### Status
 ACCEPTED

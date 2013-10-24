@@ -1,5 +1,4 @@
-Cytospora mira Tschern. SPECIES
-=======
+# Cytospora mira Tschern. SPECIES
 
 #### Status
 ACCEPTED

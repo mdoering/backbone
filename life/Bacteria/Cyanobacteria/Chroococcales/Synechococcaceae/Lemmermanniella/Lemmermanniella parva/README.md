@@ -1,5 +1,4 @@
-Lemmermanniella parva Hindák SPECIES
-=======
+# Lemmermanniella parva Hindák SPECIES
 
 #### Status
 ACCEPTED

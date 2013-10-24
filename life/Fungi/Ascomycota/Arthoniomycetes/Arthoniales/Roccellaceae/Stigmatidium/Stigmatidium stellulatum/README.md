@@ -1,5 +1,4 @@
-Stigmatidium stellulatum (Fée) Nyl. SPECIES
-=======
+# Stigmatidium stellulatum (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubaria rufofulva (Cleland) D.A. Reid & E. Horak, 1983 SPECIES
-=======
+# Tubaria rufofulva (Cleland) D.A. Reid & E. Horak, 1983 SPECIES
 
 #### Status
 ACCEPTED

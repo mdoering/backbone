@@ -1,5 +1,4 @@
-Phyllachora nitens SPECIES
-=======
+# Phyllachora nitens SPECIES
 
 #### Status
 ACCEPTED

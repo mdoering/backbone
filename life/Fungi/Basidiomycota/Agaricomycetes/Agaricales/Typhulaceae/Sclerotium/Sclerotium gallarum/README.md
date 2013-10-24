@@ -1,5 +1,4 @@
-Sclerotium gallarum Schwein. SPECIES
-=======
+# Sclerotium gallarum Schwein. SPECIES
 
 #### Status
 ACCEPTED

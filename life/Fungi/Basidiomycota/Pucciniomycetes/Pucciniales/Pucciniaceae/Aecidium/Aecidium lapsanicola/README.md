@@ -1,17 +1,16 @@
-Aecidium lampsanicola Tranzschel SPECIES
-=======
+# Aecidium lapsanicola Tranzschel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trav. Mus. Bot. Acad. Sci. St. Petersburg 11: 42 (1904)
 
 #### Original name
-Aecidium lampsanicola Tranzschel
+Aecidium lapsanicola Tranzschel
 
 ### Remarks
 null

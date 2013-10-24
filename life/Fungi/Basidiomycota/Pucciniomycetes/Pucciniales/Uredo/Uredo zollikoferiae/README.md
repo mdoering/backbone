@@ -1,5 +1,4 @@
-Uredo zollikoferiae Pat. SPECIES
-=======
+# Uredo zollikoferiae Pat. SPECIES
 
 #### Status
 ACCEPTED

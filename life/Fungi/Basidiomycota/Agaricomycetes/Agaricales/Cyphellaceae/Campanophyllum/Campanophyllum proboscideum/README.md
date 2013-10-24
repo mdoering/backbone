@@ -1,14 +1,13 @@
-Pocillaria proboscidea (Fr.) Kuntze, 1891 SPECIES
-=======
+# Campanophyllum proboscideum (Fr.) Cifuentes & R.H. Petersen, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+in Cifuentes, Petersen & Hughes, Mycol. Progr. 2(4): 289 (2003)
 
 #### Original name
 Lentinus proboscideus Fr., 1851

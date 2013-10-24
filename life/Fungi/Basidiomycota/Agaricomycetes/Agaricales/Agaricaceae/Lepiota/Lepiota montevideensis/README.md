@@ -1,5 +1,4 @@
-Lepiota montevideensis Speg. SPECIES
-=======
+# Lepiota montevideensis Speg. SPECIES
 
 #### Status
 ACCEPTED

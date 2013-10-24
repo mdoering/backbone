@@ -1,17 +1,16 @@
-Mitrophora semilibera f. semilibera FORM
-=======
+# Mitrophora semilibera (DC.) Lév., 1846 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls Sci. Nat. , Bot. , sér. 3 5: 249 (1846)
 
 #### Original name
-Mitrophora semilibera f. semilibera
+Morchella semilibera DC., 1805
 
 ### Remarks
 null

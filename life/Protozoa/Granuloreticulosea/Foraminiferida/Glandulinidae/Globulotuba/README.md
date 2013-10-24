@@ -1,5 +1,4 @@
-Globulotuba Collins, 1958 GENUS
-=======
+# Globulotuba Collins, 1958 GENUS
 
 #### Status
 ACCEPTED

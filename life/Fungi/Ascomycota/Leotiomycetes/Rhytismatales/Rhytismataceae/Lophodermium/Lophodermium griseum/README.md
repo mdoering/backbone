@@ -1,17 +1,16 @@
-Hysterium griseum Schwein., 1832 SPECIES
-=======
+# Lophodermium griseum (Schwein.) Petr., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. phil. Soc. , New Series 4(2): 245 (1832)
+in Lin, Xu, Yie & Wang, Mycosystema 23(1): 14 (2004)
 
 #### Original name
-Hysterium griseum Schwein., 1832
+Lophodermium griseum (Schwein.) Petr., 1979
 
 ### Remarks
 null

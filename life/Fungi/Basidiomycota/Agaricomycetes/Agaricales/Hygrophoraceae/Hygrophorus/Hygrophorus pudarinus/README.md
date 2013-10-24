@@ -1,5 +1,4 @@
-Hygrophorus pudarinus f. pudarinus FORM
-=======
+# Hygrophorus pudarinus anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hygrophorus pudarinus f. pudarinus
+Hygrophorus pudarinus anon.
 
 ### Remarks
 null

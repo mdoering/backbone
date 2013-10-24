@@ -1,17 +1,16 @@
-Cejpomyces globososporus Boidin & Gilles SPECIES
-=======
+# Cejpomyces globosisporus Boidin & Gilles, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 14(1): 289 (1982)
 
 #### Original name
-Cejpomyces globososporus Boidin & Gilles
+Cejpomyces globosisporus Boidin & Gilles, 1982
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhinocladiella phaeophora Veerkamp & W. Gams, 1983 SPECIES
-=======
+# Rhinocladiella phaeophora Veerkamp & W. Gams, 1983 SPECIES
 
 #### Status
 ACCEPTED

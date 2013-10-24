@@ -1,5 +1,4 @@
-Botryodiplodia calamina Sacc. SPECIES
-=======
+# Botryodiplodia calamina Sacc. SPECIES
 
 #### Status
 ACCEPTED

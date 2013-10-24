@@ -1,5 +1,4 @@
-Lecanora stonei Ach. SPECIES
-=======
+# Lecanora stonei Ach. SPECIES
 
 #### Status
 ACCEPTED

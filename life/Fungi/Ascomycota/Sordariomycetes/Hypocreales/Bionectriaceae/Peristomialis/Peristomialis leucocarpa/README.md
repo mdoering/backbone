@@ -1,5 +1,4 @@
-Peristomialis leucocarpa Samuels SPECIES
-=======
+# Peristomialis leucocarpa Samuels SPECIES
 
 #### Status
 ACCEPTED

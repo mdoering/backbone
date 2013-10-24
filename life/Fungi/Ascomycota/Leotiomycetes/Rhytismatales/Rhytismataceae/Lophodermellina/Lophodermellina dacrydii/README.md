@@ -1,5 +1,4 @@
-Lophodermellina dacrydii Syd. SPECIES
-=======
+# Lophodermellina dacrydii Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia coracodes (Nyl.) Arnold SPECIES
-=======
+# Aspicilia coracodes (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella augustana Ferraris SPECIES
-=======
+# Cercosporella augustana Ferraris SPECIES
 
 #### Status
 ACCEPTED

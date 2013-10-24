@@ -1,5 +1,4 @@
-Lecanora olivieri Zahlbr. SPECIES
-=======
+# Lecanora olivieri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

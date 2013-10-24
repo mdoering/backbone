@@ -1,14 +1,13 @@
-Cristella sphaerospora (Maire) Donk, 1957 SPECIES
-=======
+# Trechispora sphaerospora (Maire) Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus, Wageningen 27: 20 (1957)
+Consp. System. Corticiac. (Tartu) 46 (1968)
 
 #### Original name
 Hypochnus sphaerosporus Maire, 1905

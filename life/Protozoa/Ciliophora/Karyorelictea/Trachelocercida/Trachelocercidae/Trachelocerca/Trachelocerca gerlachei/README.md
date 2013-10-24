@@ -1,5 +1,4 @@
-Trachelocerca gerlachei Dragesco, 1954 SPECIES
-=======
+# Trachelocerca gerlachei Dragesco, 1954 SPECIES
 
 #### Status
 ACCEPTED

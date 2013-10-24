@@ -1,5 +1,4 @@
-Pseudocercospora tecomicola (J.M. Yen) U. Braun & Bagyan. SPECIES
-=======
+# Pseudocercospora tecomicola (J.M. Yen) U. Braun & Bagyan. SPECIES
 
 #### Status
 ACCEPTED

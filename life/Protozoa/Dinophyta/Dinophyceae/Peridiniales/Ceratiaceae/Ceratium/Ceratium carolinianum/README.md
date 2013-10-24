@@ -1,8 +1,7 @@
-Ceratium curvirostre Huitfeld-Kaas SPECIES
-=======
+# Ceratium carolinianum (Bailey) E.G. Jørgensen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

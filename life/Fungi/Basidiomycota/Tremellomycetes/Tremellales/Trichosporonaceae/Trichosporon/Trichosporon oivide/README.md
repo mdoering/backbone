@@ -1,5 +1,4 @@
-Trichosporon oivide A. Kurtz & S. Crow SPECIES
-=======
+# Trichosporon oivide A. Kurtz & S. Crow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Herpomyces diplopterae Thaxt. SPECIES
-=======
+# Herpomyces diplopterae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

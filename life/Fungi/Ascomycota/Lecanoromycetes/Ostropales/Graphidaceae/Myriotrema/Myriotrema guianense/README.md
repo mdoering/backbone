@@ -1,5 +1,4 @@
-Myriotrema guianense Sipman SPECIES
-=======
+# Myriotrema guianense Sipman SPECIES
 
 #### Status
 ACCEPTED

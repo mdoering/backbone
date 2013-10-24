@@ -1,5 +1,4 @@
-Cyanobacterium Rippka & Cohen-Bazire, 1983 GENUS
-=======
+# Cyanobacterium Rippka & Cohen-Bazire, 1983 GENUS
 
 #### Status
 ACCEPTED

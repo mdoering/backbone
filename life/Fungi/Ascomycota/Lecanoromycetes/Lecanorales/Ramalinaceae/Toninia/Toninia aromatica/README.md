@@ -1,17 +1,16 @@
-Toninia aromatica var. aromatica (Turner ex Sm.) A. Massal. VARIETY
-=======
+# Toninia aromatica (Turner ex Sm.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Framm. Lichenogr. 24 (1855)
 
 #### Original name
-Toninia aromatica var. aromatica (Turner ex Sm.) A. Massal.
+Lichen aromaticus Turner
 
 ### Remarks
 null

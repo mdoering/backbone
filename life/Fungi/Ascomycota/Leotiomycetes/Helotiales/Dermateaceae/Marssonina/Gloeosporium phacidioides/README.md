@@ -1,5 +1,4 @@
-Gloeosporium phacidioides Speg. SPECIES
-=======
+# Gloeosporium phacidioides Speg. SPECIES
 
 #### Status
 ACCEPTED

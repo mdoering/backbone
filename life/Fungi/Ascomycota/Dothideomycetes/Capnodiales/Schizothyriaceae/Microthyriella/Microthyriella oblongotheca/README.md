@@ -1,5 +1,4 @@
-Microthyriella oblongotheca Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Microthyriella oblongotheca Bat., J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

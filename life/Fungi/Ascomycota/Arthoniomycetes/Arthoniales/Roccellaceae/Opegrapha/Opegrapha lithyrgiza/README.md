@@ -1,5 +1,4 @@
-Opegrapha lithyrgiza f. lithyrgiza FORM
-=======
+# Opegrapha lithyrgiza Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opegrapha lithyrgiza f. lithyrgiza
+Opegrapha lithyrgiza Vain.
 
 ### Remarks
 null

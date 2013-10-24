@@ -1,5 +1,4 @@
-Austroboletus subvirens (Hongo) Wolfe SPECIES
-=======
+# Austroboletus subvirens (Hongo) Wolfe SPECIES
 
 #### Status
 ACCEPTED

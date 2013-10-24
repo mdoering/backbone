@@ -1,5 +1,4 @@
-Peltigera spongiosa (Tuck.) M. Choisy SPECIES
-=======
+# Peltigera spongiosa (Tuck.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

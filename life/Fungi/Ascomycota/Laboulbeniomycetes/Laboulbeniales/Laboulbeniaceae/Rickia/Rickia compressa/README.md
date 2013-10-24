@@ -1,5 +1,4 @@
-Rickia compressa Thaxt. SPECIES
-=======
+# Rickia compressa Thaxt. SPECIES
 
 #### Status
 ACCEPTED

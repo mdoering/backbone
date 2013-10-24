@@ -1,8 +1,7 @@
-Cyphella euphorbiaecola (Pat.) Sacc. SPECIES
-=======
+# Cyphella euphorbiicola (Pat.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

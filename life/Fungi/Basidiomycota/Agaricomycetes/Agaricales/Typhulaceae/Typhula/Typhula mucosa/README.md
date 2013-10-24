@@ -1,5 +1,4 @@
-Typhula mucosa Berk. & M.A. Curtis SPECIES
-=======
+# Typhula mucosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

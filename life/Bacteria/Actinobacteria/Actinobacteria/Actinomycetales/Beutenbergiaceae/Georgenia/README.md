@@ -1,5 +1,4 @@
-Georgenia Altenburger et al., 2002 GENUS
-=======
+# Georgenia Altenburger et al., 2002 GENUS
 
 #### Status
 ACCEPTED

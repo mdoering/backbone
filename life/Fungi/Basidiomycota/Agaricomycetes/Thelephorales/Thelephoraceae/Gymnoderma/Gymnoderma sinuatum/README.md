@@ -1,5 +1,4 @@
-Gymnoderma sinuatum Humb., 1793 SPECIES
-=======
+# Gymnoderma sinuatum Humb., 1793 SPECIES
 
 #### Status
 ACCEPTED

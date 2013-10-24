@@ -1,5 +1,4 @@
-Pyramidulina luzonensis (Cushman, 1921) SPECIES
-=======
+# Pyramidulina luzonensis (Cushman, 1921) SPECIES
 
 #### Status
 ACCEPTED

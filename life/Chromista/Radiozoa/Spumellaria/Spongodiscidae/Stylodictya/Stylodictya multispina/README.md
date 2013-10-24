@@ -1,5 +1,4 @@
-Stylodictya multispina Haeckel, 1860 SPECIES
-=======
+# Stylodictya multispina Haeckel, 1860 SPECIES
 
 #### Status
 ACCEPTED

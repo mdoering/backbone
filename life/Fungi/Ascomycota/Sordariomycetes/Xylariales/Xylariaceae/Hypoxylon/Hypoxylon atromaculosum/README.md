@@ -1,5 +1,4 @@
-Hypoxylon atromaculosum S. Ito & S. Imai SPECIES
-=======
+# Hypoxylon atromaculosum S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus doverii L. Nagy SPECIES
-=======
+# Coprinus doverii L. Nagy SPECIES
 
 #### Status
 ACCEPTED

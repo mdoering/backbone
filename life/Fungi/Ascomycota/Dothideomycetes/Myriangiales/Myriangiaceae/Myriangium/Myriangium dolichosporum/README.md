@@ -1,5 +1,4 @@
-Myriangium dolichosporum F. Wilson, 1889 SPECIES
-=======
+# Myriangium dolichosporum F. Wilson, 1889 SPECIES
 
 #### Status
 ACCEPTED

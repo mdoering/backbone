@@ -1,5 +1,4 @@
-Omphalia polypus Kalchbr. SPECIES
-=======
+# Omphalia polypus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

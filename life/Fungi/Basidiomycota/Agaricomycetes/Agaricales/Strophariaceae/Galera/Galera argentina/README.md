@@ -1,5 +1,4 @@
-Galera argentina Speg. SPECIES
-=======
+# Galera argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

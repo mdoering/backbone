@@ -1,5 +1,4 @@
-Clavaria fuegiana Speg. SPECIES
-=======
+# Clavaria fuegiana Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis sorbina Sacc. SPECIES
-=======
+# Phomopsis sorbina Sacc. SPECIES
 
 #### Status
 ACCEPTED

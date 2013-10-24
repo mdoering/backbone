@@ -1,5 +1,4 @@
-Phyllerium rubi Fr. SPECIES
-=======
+# Phyllerium rubi Fr. SPECIES
 
 #### Status
 ACCEPTED

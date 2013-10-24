@@ -1,5 +1,4 @@
-Catilla Pat. GENUS
-=======
+# Catilla Pat. GENUS
 
 #### Status
 ACCEPTED

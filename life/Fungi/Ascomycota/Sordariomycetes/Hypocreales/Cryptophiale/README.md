@@ -1,5 +1,4 @@
-Cryptophiale Piroz. GENUS
-=======
+# Cryptophiale Piroz. GENUS
 
 #### Status
 ACCEPTED

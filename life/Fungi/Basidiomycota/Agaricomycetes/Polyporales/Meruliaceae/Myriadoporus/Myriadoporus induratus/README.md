@@ -1,5 +1,4 @@
-Myriadoporus induratus (Peck) Sacc. SPECIES
-=======
+# Myriadoporus induratus (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

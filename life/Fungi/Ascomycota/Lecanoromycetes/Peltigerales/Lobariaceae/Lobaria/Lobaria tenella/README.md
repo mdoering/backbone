@@ -1,5 +1,4 @@
-Lobaria tenella SPECIES
-=======
+# Lobaria tenella SPECIES
 
 #### Status
 ACCEPTED

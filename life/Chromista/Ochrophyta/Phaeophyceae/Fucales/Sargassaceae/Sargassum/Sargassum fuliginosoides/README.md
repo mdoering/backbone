@@ -1,5 +1,4 @@
-Sargassum fuliginosoides Tseng & Lu SPECIES
-=======
+# Sargassum fuliginosoides Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discula macrosperma (Peck) Sacc. SPECIES
-=======
+# Discula macrosperma (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

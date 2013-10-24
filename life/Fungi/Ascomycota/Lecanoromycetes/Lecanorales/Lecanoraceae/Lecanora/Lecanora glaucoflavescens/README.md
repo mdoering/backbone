@@ -1,5 +1,4 @@
-Lecanora glaucoflavescens Müll. Arg. SPECIES
-=======
+# Lecanora glaucoflavescens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe paraditopa Cleland & Cheel, 1919 SPECIES
-=======
+# Clitocybe paraditopa Cleland & Cheel, 1919 SPECIES
 
 #### Status
 ACCEPTED

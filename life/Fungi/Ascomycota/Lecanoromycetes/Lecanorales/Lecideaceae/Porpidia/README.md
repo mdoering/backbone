@@ -1,5 +1,4 @@
-Porpidia Körb. GENUS
-=======
+# Porpidia Körb. GENUS
 
 #### Status
 ACCEPTED

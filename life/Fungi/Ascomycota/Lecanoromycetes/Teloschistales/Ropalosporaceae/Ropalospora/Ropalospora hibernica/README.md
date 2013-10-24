@@ -1,14 +1,13 @@
-Fuscidea hibernica P. James & Poelt SPECIES
-=======
+# Ropalospora hibernica (P. James & Poelt) Tønsberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 24(4): 359 (1992)
+null
 
 #### Original name
 Fuscidea hibernica P. James & Poelt

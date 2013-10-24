@@ -1,5 +1,4 @@
-Corticium caulium Berk. & M.A. Curtis SPECIES
-=======
+# Corticium caulium Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

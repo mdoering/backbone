@@ -1,5 +1,4 @@
-Cortinarius aganochrous E. Horak SPECIES
-=======
+# Cortinarius aganochrous E. Horak SPECIES
 
 #### Status
 ACCEPTED

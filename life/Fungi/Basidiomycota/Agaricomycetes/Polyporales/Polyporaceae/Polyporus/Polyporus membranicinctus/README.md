@@ -1,5 +1,4 @@
-Polyporus membranicinctus Berk. ex Cooke SPECIES
-=======
+# Polyporus membranicinctus Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

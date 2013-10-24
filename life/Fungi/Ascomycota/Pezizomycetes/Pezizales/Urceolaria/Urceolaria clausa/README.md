@@ -1,5 +1,4 @@
-Urceolaria clausa (Flot.) Körb. SPECIES
-=======
+# Urceolaria clausa (Flot.) Körb. SPECIES
 
 #### Status
 ACCEPTED

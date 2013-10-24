@@ -1,5 +1,4 @@
-Cladonia leptoclada f. leptoclada FORM
-=======
+# Cladonia leptoclada SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Rev. Bryol. Lichénol. 16: 75 (1947)
+null
 
 #### Original name
-Cladonia leptoclada f. leptoclada
+null
 
 ### Remarks
 null

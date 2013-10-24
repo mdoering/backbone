@@ -1,5 +1,4 @@
-Erysiphe tiliae (Eliade) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe tiliae (Eliade) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

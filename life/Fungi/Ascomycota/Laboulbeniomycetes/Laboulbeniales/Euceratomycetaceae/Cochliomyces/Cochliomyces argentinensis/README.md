@@ -1,5 +1,4 @@
-Cochliomyces argentinensis Speg., 1912 SPECIES
-=======
+# Cochliomyces argentinensis Speg., 1912 SPECIES
 
 #### Status
 ACCEPTED

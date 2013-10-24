@@ -1,5 +1,4 @@
-Calothrix atricha Frémy SPECIES
-=======
+# Calothrix atricha Frémy SPECIES
 
 #### Status
 ACCEPTED

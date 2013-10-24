@@ -1,5 +1,4 @@
-Lepra candelaris (L.) Wiggers SPECIES
-=======
+# Lepra candelaris (L.) Wiggers SPECIES
 
 #### Status
 ACCEPTED

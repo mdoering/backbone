@@ -1,5 +1,4 @@
-Aspicilia pallidior (H. Magn.) Motyka SPECIES
-=======
+# Aspicilia pallidior (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

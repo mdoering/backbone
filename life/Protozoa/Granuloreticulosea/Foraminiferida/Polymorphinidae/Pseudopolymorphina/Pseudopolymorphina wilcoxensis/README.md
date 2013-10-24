@@ -1,5 +1,4 @@
-Pseudopolymorphina wilcoxensis Cushman & Ponton SPECIES
-=======
+# Pseudopolymorphina wilcoxensis Cushman & Ponton SPECIES
 
 #### Status
 ACCEPTED

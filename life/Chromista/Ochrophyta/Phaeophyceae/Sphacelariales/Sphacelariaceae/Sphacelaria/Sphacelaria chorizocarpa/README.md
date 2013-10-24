@@ -1,5 +1,4 @@
-Sphacelaria chorizocarpa Sauvageau SPECIES
-=======
+# Sphacelaria chorizocarpa Sauvageau SPECIES
 
 #### Status
 ACCEPTED

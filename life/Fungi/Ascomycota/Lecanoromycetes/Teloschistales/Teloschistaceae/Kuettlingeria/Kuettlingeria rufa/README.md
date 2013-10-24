@@ -1,5 +1,4 @@
-Kuettlingeria rufa C.W. Dodge & G.E. Baker SPECIES
-=======
+# Kuettlingeria rufa C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

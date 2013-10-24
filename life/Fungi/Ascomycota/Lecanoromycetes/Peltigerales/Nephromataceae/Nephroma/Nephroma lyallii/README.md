@@ -1,5 +1,4 @@
-Nephroma lyallii C. Bab. SPECIES
-=======
+# Nephroma lyallii C. Bab. SPECIES
 
 #### Status
 ACCEPTED

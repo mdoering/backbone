@@ -1,5 +1,4 @@
-Chlamydoaleurosporia granulosa (Sabour.) Grigorakis {?} SPECIES
-=======
+# Chlamydoaleurosporia granulosa (Sabour.) Grigorakis {?} SPECIES
 
 #### Status
 ACCEPTED

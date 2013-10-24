@@ -1,5 +1,4 @@
-Synechocystis limnetica Popovskaja SPECIES
-=======
+# Synechocystis limnetica Popovskaja SPECIES
 
 #### Status
 ACCEPTED

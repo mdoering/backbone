@@ -1,5 +1,4 @@
-Chaetasterina GENUS
-=======
+# Chaetasterina GENUS
 
 #### Status
 ACCEPTED

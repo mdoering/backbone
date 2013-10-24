@@ -1,5 +1,4 @@
-Amphitetras acutangula (Greville) De Toni SPECIES
-=======
+# Amphitetras acutangula (Greville) De Toni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kuckuckia catalinae Hollenberg SPECIES
-=======
+# Kuckuckia catalinae Hollenberg SPECIES
 
 #### Status
 ACCEPTED

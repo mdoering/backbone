@@ -1,5 +1,4 @@
-Holophryozoon GENUS
-=======
+# Holophryozoon GENUS
 
 #### Status
 ACCEPTED

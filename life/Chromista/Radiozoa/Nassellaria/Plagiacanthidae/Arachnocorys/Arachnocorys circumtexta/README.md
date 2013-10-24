@@ -1,5 +1,4 @@
-Arachnocorys circumtexta Haeckel, 1860 SPECIES
-=======
+# Arachnocorys circumtexta Haeckel, 1860 SPECIES
 
 #### Status
 ACCEPTED

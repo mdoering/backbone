@@ -1,5 +1,4 @@
-Poria macer Sommerf. SPECIES
-=======
+# Poria macer Sommerf. SPECIES
 
 #### Status
 ACCEPTED

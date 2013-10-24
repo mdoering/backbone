@@ -1,5 +1,4 @@
-Endoceratium dettmanniae (Cookson & Hughes, 1964) Stover & Evitt, 1978 SPECIES
-=======
+# Endoceratium dettmanniae (Cookson & Hughes, 1964) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

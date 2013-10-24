@@ -1,5 +1,4 @@
-Gymnopus floridanus Murrill SPECIES
-=======
+# Gymnopus floridanus Murrill SPECIES
 
 #### Status
 ACCEPTED

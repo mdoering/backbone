@@ -1,5 +1,4 @@
-Filiconstrictosus J.W. Schopf & J.M. Blacic, 1971 GENUS
-=======
+# Filiconstrictosus J.W. Schopf & J.M. Blacic, 1971 GENUS
 
 #### Status
 ACCEPTED

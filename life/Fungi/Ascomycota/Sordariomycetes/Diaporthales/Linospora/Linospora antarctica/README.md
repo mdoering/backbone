@@ -1,5 +1,4 @@
-Linospora antarctica Speg. SPECIES
-=======
+# Linospora antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

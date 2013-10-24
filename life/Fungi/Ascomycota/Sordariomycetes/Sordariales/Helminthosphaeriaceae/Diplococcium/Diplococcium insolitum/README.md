@@ -1,5 +1,4 @@
-Diplococcium insolitum Hol.-Jech. SPECIES
-=======
+# Diplococcium insolitum Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria fluctuata Bilgrami SPECIES
-=======
+# Alternaria fluctuata Bilgrami SPECIES
 
 #### Status
 ACCEPTED

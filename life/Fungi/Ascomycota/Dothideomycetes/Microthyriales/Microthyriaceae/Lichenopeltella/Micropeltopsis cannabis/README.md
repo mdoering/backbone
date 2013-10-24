@@ -1,5 +1,4 @@
-Micropeltopsis cannabis McPartl. SPECIES
-=======
+# Micropeltopsis cannabis McPartl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyocha stelliformis C. A. Shaw & P. F. Ciesielski SPECIES
-=======
+# Dictyocha stelliformis C. A. Shaw & P. F. Ciesielski SPECIES
 
 #### Status
 ACCEPTED

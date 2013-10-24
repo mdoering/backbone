@@ -1,5 +1,4 @@
-Campylacia sphenospora SPECIES
-=======
+# Campylacia sphenospora SPECIES
 
 #### Status
 ACCEPTED

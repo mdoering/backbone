@@ -1,5 +1,4 @@
-Aecidium boltoniae Arthur SPECIES
-=======
+# Aecidium boltoniae Arthur SPECIES
 
 #### Status
 ACCEPTED

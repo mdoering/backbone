@@ -1,5 +1,4 @@
-Lacrimasporonites niger P. Kumar SPECIES
-=======
+# Lacrimasporonites niger P. Kumar SPECIES
 
 #### Status
 ACCEPTED

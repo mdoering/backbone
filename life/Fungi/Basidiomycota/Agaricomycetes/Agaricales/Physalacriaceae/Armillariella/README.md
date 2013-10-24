@@ -1,5 +1,4 @@
-Armillariella GENUS
-=======
+# Armillariella GENUS
 
 #### Status
 ACCEPTED

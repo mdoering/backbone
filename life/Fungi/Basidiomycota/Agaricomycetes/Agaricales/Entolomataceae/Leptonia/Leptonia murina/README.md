@@ -1,5 +1,4 @@
-Leptonia murina Murrill SPECIES
-=======
+# Leptonia murina Murrill SPECIES
 
 #### Status
 ACCEPTED

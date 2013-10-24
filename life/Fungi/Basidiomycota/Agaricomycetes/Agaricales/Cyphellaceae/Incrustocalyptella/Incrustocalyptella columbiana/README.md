@@ -1,5 +1,4 @@
-Incrustocalyptella columbiana Agerer, 1983 SPECIES
-=======
+# Incrustocalyptella columbiana Agerer, 1983 SPECIES
 
 #### Status
 ACCEPTED

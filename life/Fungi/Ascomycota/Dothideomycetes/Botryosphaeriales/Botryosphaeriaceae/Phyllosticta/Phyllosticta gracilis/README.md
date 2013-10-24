@@ -1,5 +1,4 @@
-Phyllosticta gracilis Gucevic SPECIES
-=======
+# Phyllosticta gracilis Gucevic SPECIES
 
 #### Status
 ACCEPTED

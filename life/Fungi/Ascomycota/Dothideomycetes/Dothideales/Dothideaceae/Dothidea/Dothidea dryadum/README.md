@@ -1,5 +1,4 @@
-Dothidea dryadum Ettingsh. SPECIES
-=======
+# Dothidea dryadum Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

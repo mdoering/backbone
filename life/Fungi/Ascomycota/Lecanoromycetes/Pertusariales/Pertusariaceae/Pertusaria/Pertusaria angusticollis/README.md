@@ -1,5 +1,4 @@
-Pertusaria angusticollis Anzi SPECIES
-=======
+# Pertusaria angusticollis Anzi SPECIES
 
 #### Status
 ACCEPTED

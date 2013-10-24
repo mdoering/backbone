@@ -1,5 +1,4 @@
-Desulfotomaculum thermobenzoicum subsp. thermobenzoicum Tasaki et al., 1991 SUBSPECIES
-=======
+# Desulfotomaculum thermobenzoicum Tasaki et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

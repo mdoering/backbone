@@ -1,5 +1,4 @@
-Chrysothallus copiosus Velen. SPECIES
-=======
+# Chrysothallus copiosus Velen. SPECIES
 
 #### Status
 ACCEPTED

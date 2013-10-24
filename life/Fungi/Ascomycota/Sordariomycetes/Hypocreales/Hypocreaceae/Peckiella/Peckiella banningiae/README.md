@@ -1,5 +1,4 @@
-Peckiella banningiae (Peck) Sacc. SPECIES
-=======
+# Peckiella banningiae (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

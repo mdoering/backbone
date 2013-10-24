@@ -1,17 +1,16 @@
-Glomus etunicatus W.N. Becker & Gerd. SPECIES
-=======
+# Glomus etunicatum W.N. Becker & Gerd., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 6(1): 29 (1977)
 
 #### Original name
-Glomus etunicatus W.N. Becker & Gerd.
+Glomus etunicatum W.N. Becker & Gerd., 1977
 
 ### Remarks
 null

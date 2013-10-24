@@ -1,5 +1,4 @@
-Platygramma serograpta Spreng. SPECIES
-=======
+# Platygramma serograpta Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium pergulariae V.K. Pal, Akhtar, Kamal & N. Ahmad SPECIES
-=======
+# Oidium pergulariae V.K. Pal, Akhtar, Kamal & N. Ahmad SPECIES
 
 #### Status
 ACCEPTED

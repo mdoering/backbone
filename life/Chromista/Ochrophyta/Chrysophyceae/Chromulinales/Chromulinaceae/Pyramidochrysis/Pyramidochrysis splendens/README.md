@@ -1,5 +1,4 @@
-Pyramidochrysis splendens Pascher SPECIES
-=======
+# Pyramidochrysis splendens Pascher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia cryptocaricola Garrido SPECIES
-=======
+# Collybia cryptocaricola Garrido SPECIES
 
 #### Status
 ACCEPTED

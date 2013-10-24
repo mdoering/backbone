@@ -1,5 +1,4 @@
-Theocamptra Haeckel, 1887 GENUS
-=======
+# Theocamptra Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

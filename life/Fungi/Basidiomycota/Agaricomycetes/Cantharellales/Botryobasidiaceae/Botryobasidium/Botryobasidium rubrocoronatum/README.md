@@ -1,5 +1,4 @@
-Botryobasidium rubrocoronatum anon. SPECIES
-=======
+# Botryobasidium rubrocoronatum anon. SPECIES
 
 #### Status
 ACCEPTED

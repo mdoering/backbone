@@ -1,5 +1,4 @@
-Trigonopsis variabilis Schachner, 1929 SPECIES
-=======
+# Trigonopsis variabilis Schachner, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor dimicii Schulzer, Kanitz & J.A. Knapp SPECIES
-=======
+# Mucor dimicii Schulzer, Kanitz & J.A. Knapp SPECIES
 
 #### Status
 ACCEPTED

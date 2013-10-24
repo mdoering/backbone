@@ -1,17 +1,16 @@
-Thaxteriella garugii C. Ramesh SPECIES
-=======
+# Thaxteriella garugae C. Ramesh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Botanical Reporter 7(1-2): 55 (1988)
 
 #### Original name
-Thaxteriella garugii C. Ramesh
+Thaxteriella garugae C. Ramesh
 
 ### Remarks
 null

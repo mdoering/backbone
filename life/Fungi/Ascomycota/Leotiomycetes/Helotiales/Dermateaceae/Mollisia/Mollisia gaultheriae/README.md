@@ -1,5 +1,4 @@
-Mollisia gaultheriae Ellis & Everh. SPECIES
-=======
+# Mollisia gaultheriae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

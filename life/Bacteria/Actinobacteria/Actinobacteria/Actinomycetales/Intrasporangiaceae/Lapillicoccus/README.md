@@ -1,5 +1,4 @@
-Lapillicoccus Lee & Lee, 2007 GENUS
-=======
+# Lapillicoccus Lee & Lee, 2007 GENUS
 
 #### Status
 ACCEPTED

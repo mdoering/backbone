@@ -1,5 +1,4 @@
-Amerosporium cinctum Ellis & Everh. SPECIES
-=======
+# Amerosporium cinctum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

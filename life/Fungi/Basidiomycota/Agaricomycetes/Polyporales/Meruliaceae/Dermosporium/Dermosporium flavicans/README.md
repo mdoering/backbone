@@ -1,5 +1,4 @@
-Dermosporium flavicans Link SPECIES
-=======
+# Dermosporium flavicans Link SPECIES
 
 #### Status
 ACCEPTED

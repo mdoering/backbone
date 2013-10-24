@@ -1,5 +1,4 @@
-Spathidium campanella SPECIES
-=======
+# Spathidium campanella SPECIES
 
 #### Status
 ACCEPTED

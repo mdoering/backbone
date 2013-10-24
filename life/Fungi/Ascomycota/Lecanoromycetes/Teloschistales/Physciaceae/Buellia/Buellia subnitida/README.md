@@ -1,5 +1,4 @@
-Buellia subnitida (Hellb.) Jatta SPECIES
-=======
+# Buellia subnitida (Hellb.) Jatta SPECIES
 
 #### Status
 ACCEPTED

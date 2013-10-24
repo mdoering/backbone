@@ -1,5 +1,4 @@
-Lecidea gyrostomoides Müll. Arg. SPECIES
-=======
+# Lecidea gyrostomoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

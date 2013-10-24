@@ -1,17 +1,16 @@
-Phyllosticta evodiae Savul. & Negru SPECIES
-=======
+# Phyllosticta euodiae Savul. & Negru SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bailey, Botany Bulletin of the Department of Agriculture Brisbane 13: 32 (1896)
 
 #### Original name
-Phyllosticta evodiae Savul. & Negru
+Phyllosticta euodiae Savul. & Negru
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meliola linocierae-malabaricae Hosag. SPECIES
-=======
+# Meliola linocierae-malabaricae Hosag. SPECIES
 
 #### Status
 ACCEPTED

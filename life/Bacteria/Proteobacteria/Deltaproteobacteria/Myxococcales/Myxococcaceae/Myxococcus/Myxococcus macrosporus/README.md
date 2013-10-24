@@ -1,11 +1,10 @@
-Chondrococcus macrosporus Krzemieniewska & Krzemieniewski, 1926 SPECIES
-=======
+# Myxococcus macrosporus (Krzemieniewska and Krzemieniewski, 1926) Zahler and McCurdy, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

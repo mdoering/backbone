@@ -1,5 +1,4 @@
-Verrucaria graniformis Baumg. SPECIES
-=======
+# Verrucaria graniformis Baumg. SPECIES
 
 #### Status
 ACCEPTED

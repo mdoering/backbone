@@ -1,5 +1,4 @@
-Aspergillus minutus Abbot {?} SPECIES
-=======
+# Aspergillus minutus Abbot {?} SPECIES
 
 #### Status
 ACCEPTED

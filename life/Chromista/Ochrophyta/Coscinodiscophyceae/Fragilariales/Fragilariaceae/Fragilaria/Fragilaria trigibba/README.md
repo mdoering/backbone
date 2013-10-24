@@ -1,5 +1,4 @@
-Fragilaria trigibba Pantocsek SPECIES
-=======
+# Fragilaria trigibba Pantocsek SPECIES
 
 #### Status
 ACCEPTED

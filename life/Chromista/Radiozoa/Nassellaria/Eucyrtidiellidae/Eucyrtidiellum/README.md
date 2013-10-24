@@ -1,5 +1,4 @@
-Eucyrtidiellum Baumgartner, 1984 GENUS
-=======
+# Eucyrtidiellum Baumgartner, 1984 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopteris F.T. Kützing, 1847 GENUS
-=======
+# Trichopteris F.T. Kützing, 1847 GENUS
 
 #### Status
 ACCEPTED

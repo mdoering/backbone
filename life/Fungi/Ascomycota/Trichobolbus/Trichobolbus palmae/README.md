@@ -1,5 +1,4 @@
-Trichobolbus palmae Bat. & Cavalc., 1964 SPECIES
-=======
+# Trichobolbus palmae Bat. & Cavalc., 1964 SPECIES
 
 #### Status
 ACCEPTED

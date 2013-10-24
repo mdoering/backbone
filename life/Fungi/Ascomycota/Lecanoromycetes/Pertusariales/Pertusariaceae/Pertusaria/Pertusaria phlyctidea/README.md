@@ -1,5 +1,4 @@
-Pertusaria phlyctidea Norman SPECIES
-=======
+# Pertusaria phlyctidea Norman SPECIES
 
 #### Status
 ACCEPTED

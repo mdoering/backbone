@@ -1,5 +1,4 @@
-Hydnum indurescens D. Hall & D.E. Stuntz SPECIES
-=======
+# Hydnum indurescens D. Hall & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

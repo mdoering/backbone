@@ -1,5 +1,4 @@
-Monilia piceae Funck SPECIES
-=======
+# Monilia piceae Funck SPECIES
 
 #### Status
 ACCEPTED

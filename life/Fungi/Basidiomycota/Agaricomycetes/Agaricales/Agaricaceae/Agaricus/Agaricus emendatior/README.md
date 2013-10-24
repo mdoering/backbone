@@ -1,5 +1,4 @@
-Agaricus emendatior Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus emendatior Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

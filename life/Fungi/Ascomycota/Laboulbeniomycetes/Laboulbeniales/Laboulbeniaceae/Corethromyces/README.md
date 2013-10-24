@@ -1,17 +1,16 @@
-Eucorethromyces Thaxt. GENUS
-=======
+# Corethromyces Thaxt. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 35: 433 (1900)
+Proc. Amer. Acad. Arts & Sci. 27: 36 (1892)
 
 #### Original name
-Eucorethromyces Thaxt.
+Corethromyces Thaxt.
 
 ### Remarks
 null

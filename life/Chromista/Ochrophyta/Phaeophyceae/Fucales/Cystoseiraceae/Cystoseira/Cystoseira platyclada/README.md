@@ -1,5 +1,4 @@
-Cystoseira platyclada Sauvageau SPECIES
-=======
+# Cystoseira platyclada Sauvageau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pilosace tenuiculus (P. Karst.) Kuntze SPECIES
-=======
+# Pilosace tenuiculus (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

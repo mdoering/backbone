@@ -1,5 +1,4 @@
-Clavaria digitata Scop. SPECIES
-=======
+# Clavaria digitata Scop. SPECIES
 
 #### Status
 ACCEPTED

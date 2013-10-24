@@ -1,5 +1,4 @@
-Basidopus GENUS
-=======
+# Basidopus GENUS
 
 #### Status
 ACCEPTED

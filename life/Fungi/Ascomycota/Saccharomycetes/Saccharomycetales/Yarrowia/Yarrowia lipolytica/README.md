@@ -1,17 +1,16 @@
-Yarrowia lipolytica var. alkalitolerans Zvyag., Andreishch., M.I.M. Soares, Khozin, Berhe & B.L. Perss., 2001 VARIETY
-=======
+# Yarrowia lipolytica (Wick., Kurtzman & Herman) Van der Walt & Arx, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 46: 519 (1981)
 
 #### Original name
-null
+Endomycopsis lipolytica Wick., Kurtzman & Herman, 1970
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Guignardia veneta (Sacc. & Speg.) Traverso SPECIES
-=======
+# Guignardia veneta (Sacc. & Speg.) Traverso SPECIES
 
 #### Status
 ACCEPTED

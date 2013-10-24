@@ -1,5 +1,4 @@
-Glaphyriopsis hyalina B. Sutton & Pascoe, 1987 SPECIES
-=======
+# Glaphyriopsis hyalina B. Sutton & Pascoe, 1987 SPECIES
 
 #### Status
 ACCEPTED

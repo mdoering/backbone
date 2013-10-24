@@ -1,5 +1,4 @@
-Dictyonema glabratum (Spreng.) D. Hawksw., 1988 SPECIES
-=======
+# Dictyonema glabratum (Spreng.) D. Hawksw., 1988 SPECIES
 
 #### Status
 ACCEPTED

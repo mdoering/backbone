@@ -1,5 +1,4 @@
-Blastenia tetrasporella (Nyl.) Zahlbr. SPECIES
-=======
+# Blastenia tetrasporella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

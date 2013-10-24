@@ -1,5 +1,4 @@
-Septoria patriniae Novoss. SPECIES
-=======
+# Septoria patriniae Novoss. SPECIES
 
 #### Status
 ACCEPTED

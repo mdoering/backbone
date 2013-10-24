@@ -1,5 +1,4 @@
-Leptogium breckuockii SPECIES
-=======
+# Leptogium breckuockii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium incrassatum Syd. & P. Syd. SPECIES
-=======
+# Aecidium incrassatum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

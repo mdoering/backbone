@@ -1,5 +1,4 @@
-Lambertella langei T. Schumach. & Holøs SPECIES
-=======
+# Lambertella langei T. Schumach. & Holøs SPECIES
 
 #### Status
 ACCEPTED

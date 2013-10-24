@@ -1,5 +1,4 @@
-Cymatiogalea multiclaustra (Deunff, 1961) Deunff, 1964 SPECIES
-=======
+# Cymatiogalea multiclaustra (Deunff, 1961) Deunff, 1964 SPECIES
 
 #### Status
 ACCEPTED

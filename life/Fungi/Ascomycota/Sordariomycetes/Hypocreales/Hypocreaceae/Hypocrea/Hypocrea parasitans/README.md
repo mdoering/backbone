@@ -1,5 +1,4 @@
-Hypocrea parasitans Berk. & M.A. Curtis SPECIES
-=======
+# Hypocrea parasitans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphoderma niveum Fuckel SPECIES
-=======
+# Hyphoderma niveum Fuckel SPECIES
 
 #### Status
 ACCEPTED

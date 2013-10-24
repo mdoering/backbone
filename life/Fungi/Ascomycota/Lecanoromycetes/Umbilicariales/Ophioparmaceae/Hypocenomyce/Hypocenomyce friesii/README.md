@@ -1,14 +1,13 @@
-Biatora friesii (Ach.) Tuck. SPECIES
-=======
+# Hypocenomyce friesii (Ach.) P. James & Gotth. Schneid. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Schneider, Biblthca Lichenol. 13: 84 (1980)
 
 #### Original name
 Lecidea friesii (Ach.) P. James & Gotth. Schneid.

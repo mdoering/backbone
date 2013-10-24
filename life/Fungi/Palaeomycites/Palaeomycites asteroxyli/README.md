@@ -1,5 +1,4 @@
-Palaeomycites asteroxyli (Kidst. & W.H. Lang) Kalgutkar & Janson. SPECIES
-=======
+# Palaeomycites asteroxyli (Kidst. & W.H. Lang) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

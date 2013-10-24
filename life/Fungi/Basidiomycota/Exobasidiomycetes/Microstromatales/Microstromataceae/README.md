@@ -1,5 +1,4 @@
-Microstromataceae FAMILY
-=======
+# Microstromataceae FAMILY
 
 #### Status
 ACCEPTED

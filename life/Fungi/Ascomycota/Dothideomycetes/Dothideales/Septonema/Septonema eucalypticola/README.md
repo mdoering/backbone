@@ -1,5 +1,4 @@
-Septonema eucalypticola Speg. SPECIES
-=======
+# Septonema eucalypticola Speg. SPECIES
 
 #### Status
 ACCEPTED

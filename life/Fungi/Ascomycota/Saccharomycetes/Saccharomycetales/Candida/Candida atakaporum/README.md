@@ -1,5 +1,4 @@
-Candida atakaporum S.O. Suh & M. Blackw., 2004 SPECIES
-=======
+# Candida atakaporum S.O. Suh & M. Blackw., 2004 SPECIES
 
 #### Status
 ACCEPTED

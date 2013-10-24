@@ -1,5 +1,4 @@
-Puccinia gypsophilae Liou & Wang {?} SPECIES
-=======
+# Puccinia gypsophilae Liou & Wang {?} SPECIES
 
 #### Status
 ACCEPTED

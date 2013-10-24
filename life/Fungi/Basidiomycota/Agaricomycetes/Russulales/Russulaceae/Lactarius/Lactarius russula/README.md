@@ -1,5 +1,4 @@
-Lactarius russula Rick SPECIES
-=======
+# Lactarius russula Rick SPECIES
 
 #### Status
 ACCEPTED

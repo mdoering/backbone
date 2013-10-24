@@ -1,14 +1,13 @@
-Phoma nobilis Kabát & Bubák SPECIES
-=======
+# Phoma dictamnicola Boerema, Gruyter & Noordel., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 15(1): 90 (1992)
 
 #### Original name
 Phoma nobilis Kabát & Bubák

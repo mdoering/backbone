@@ -1,5 +1,4 @@
-Psora verrucarioides (Nyl.) Boistel SPECIES
-=======
+# Psora verrucarioides (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

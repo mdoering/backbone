@@ -1,5 +1,4 @@
-Cladopycnidium GENUS
-=======
+# Cladopycnidium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella cordylinicola (Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella cordylinicola (Speg.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

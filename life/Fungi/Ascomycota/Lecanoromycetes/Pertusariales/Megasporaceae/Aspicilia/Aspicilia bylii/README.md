@@ -1,14 +1,13 @@
-Aspicilia bijlii (Vain.) C.W. Dodge SPECIES
-=======
+# Aspicilia bylii (Vain.) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 50(1): 5 (1971)
 
 #### Original name
 Lecanora bijlii Zahlbr.

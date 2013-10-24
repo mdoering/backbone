@@ -1,5 +1,4 @@
-Navifusa kira Faizulina & Treshchetenkova in Nikolskii et al., 1984 SPECIES
-=======
+# Navifusa kira Faizulina & Treshchetenkova in Nikolskii et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

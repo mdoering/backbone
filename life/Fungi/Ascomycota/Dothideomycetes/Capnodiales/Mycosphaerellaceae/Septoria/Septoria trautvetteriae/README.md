@@ -1,5 +1,4 @@
-Septoria trautvetteriae Ellis & Everh. SPECIES
-=======
+# Septoria trautvetteriae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

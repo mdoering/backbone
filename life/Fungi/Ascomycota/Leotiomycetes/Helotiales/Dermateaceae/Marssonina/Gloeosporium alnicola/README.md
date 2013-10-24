@@ -1,5 +1,4 @@
-Gloeosporium alnicola Dearn. & House SPECIES
-=======
+# Gloeosporium alnicola Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

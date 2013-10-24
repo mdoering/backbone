@@ -1,5 +1,4 @@
-Rhizoctonia tomato Bahariev SPECIES
-=======
+# Rhizoctonia tomato Bahariev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Comatricha pulchella var. gracilis (Wingate) G. Lister VARIETY
-=======
+# Stemonitopsis gracilis (G. Lister) Nann.-Bremek., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lister, Monogr. Mycetozoa (London), Edn 2 156 (1911)
+Nederlandse Myxomyceten (Amsterdam) 21 (1975)
 
 #### Original name
-Comatricha gracilis Wingate
+Comatricha pulchella var. gracilis (Wingate) G. Lister
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Microsphaera magnusii S. Blumer SPECIES
-=======
+# Microsphaera magnusii S. Blumer SPECIES
 
 #### Status
 ACCEPTED

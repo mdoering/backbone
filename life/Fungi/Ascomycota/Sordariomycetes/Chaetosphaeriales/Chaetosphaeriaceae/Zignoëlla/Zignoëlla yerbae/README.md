@@ -1,5 +1,4 @@
-Zignoëlla yerbae Speg. SPECIES
-=======
+# Zignoëlla yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

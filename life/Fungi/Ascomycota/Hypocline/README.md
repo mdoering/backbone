@@ -1,5 +1,4 @@
-Hypocline Syd. GENUS
-=======
+# Hypocline Syd. GENUS
 
 #### Status
 ACCEPTED

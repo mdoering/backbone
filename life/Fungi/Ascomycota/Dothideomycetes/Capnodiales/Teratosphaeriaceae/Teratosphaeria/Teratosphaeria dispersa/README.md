@@ -1,5 +1,4 @@
-Teratosphaeria dispersa E. Müll. & Oehrens SPECIES
-=======
+# Teratosphaeria dispersa E. Müll. & Oehrens SPECIES
 
 #### Status
 ACCEPTED

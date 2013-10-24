@@ -1,5 +1,4 @@
-Leptosphaeria secalis Haberl. {?} SPECIES
-=======
+# Leptosphaeria secalis Haberl. {?} SPECIES
 
 #### Status
 ACCEPTED

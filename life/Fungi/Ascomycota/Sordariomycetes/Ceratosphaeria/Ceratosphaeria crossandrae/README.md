@@ -1,5 +1,4 @@
-Ceratosphaeria crossandrae K. Ramakr. SPECIES
-=======
+# Ceratosphaeria crossandrae K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

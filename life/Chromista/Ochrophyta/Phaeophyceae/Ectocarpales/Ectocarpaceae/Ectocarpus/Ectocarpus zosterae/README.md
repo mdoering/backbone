@@ -1,5 +1,4 @@
-Ectocarpus zosterae Noda & Ohta SPECIES
-=======
+# Ectocarpus zosterae Noda & Ohta SPECIES
 
 #### Status
 ACCEPTED

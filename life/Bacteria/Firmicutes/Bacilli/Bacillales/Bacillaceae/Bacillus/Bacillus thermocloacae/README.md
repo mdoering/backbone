@@ -1,5 +1,4 @@
-Bacillus thermocloacae Demharter & Hensel, 1989 SPECIES
-=======
+# Bacillus thermocloacae Demharter & Hensel, 1989 SPECIES
 
 #### Status
 ACCEPTED

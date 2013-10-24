@@ -1,5 +1,4 @@
-Microdiplodia alpataci Speg. SPECIES
-=======
+# Microdiplodia alpataci Speg. SPECIES
 
 #### Status
 ACCEPTED

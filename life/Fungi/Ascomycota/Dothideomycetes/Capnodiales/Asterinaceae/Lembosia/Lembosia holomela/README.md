@@ -1,5 +1,4 @@
-Lembosia holomela Syd. SPECIES
-=======
+# Lembosia holomela Syd. SPECIES
 
 #### Status
 ACCEPTED

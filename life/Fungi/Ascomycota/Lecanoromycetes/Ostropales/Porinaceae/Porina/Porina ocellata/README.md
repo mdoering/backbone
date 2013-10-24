@@ -1,5 +1,4 @@
-Porina ocellata (Malme) P.M. McCarthy SPECIES
-=======
+# Porina ocellata (Malme) P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

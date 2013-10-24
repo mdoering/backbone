@@ -1,5 +1,4 @@
-Helvella gabretae (Kavina) Pouzar & Svrcek SPECIES
-=======
+# Helvella gabretae (Kavina) Pouzar & Svrcek SPECIES
 
 #### Status
 ACCEPTED

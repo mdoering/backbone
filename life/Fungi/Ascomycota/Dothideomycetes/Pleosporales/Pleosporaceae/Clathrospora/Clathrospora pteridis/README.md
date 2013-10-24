@@ -1,5 +1,4 @@
-Clathrospora pteridis Lind SPECIES
-=======
+# Clathrospora pteridis Lind SPECIES
 
 #### Status
 ACCEPTED

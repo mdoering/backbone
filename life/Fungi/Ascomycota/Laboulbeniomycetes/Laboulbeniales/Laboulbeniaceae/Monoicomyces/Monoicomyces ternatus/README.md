@@ -1,5 +1,4 @@
-Monoicomyces ternatus Speg. SPECIES
-=======
+# Monoicomyces ternatus Speg. SPECIES
 
 #### Status
 ACCEPTED

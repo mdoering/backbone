@@ -1,5 +1,4 @@
-Nocardia ferruginea Trevis. SPECIES
-=======
+# Nocardia ferruginea Trevis. SPECIES
 
 #### Status
 ACCEPTED

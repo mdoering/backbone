@@ -1,14 +1,13 @@
-Melanops wistariae (Rehm) Weese SPECIES
-=======
+# Melanops wisteriae (Rehm) Weese SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ber. dt. bot. Ges. 37: 94 (1919)
 
 #### Original name
 Thuemenia wisteriae Rehm

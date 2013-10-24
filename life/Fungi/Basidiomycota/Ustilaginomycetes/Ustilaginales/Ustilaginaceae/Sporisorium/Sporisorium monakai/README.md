@@ -1,5 +1,4 @@
-Sporisorium monakai (Mishra) Vánky SPECIES
-=======
+# Sporisorium monakai (Mishra) Vánky SPECIES
 
 #### Status
 ACCEPTED

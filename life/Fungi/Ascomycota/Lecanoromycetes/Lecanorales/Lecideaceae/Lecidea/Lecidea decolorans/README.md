@@ -1,5 +1,4 @@
-Lecidea decolorans subsp. decolorans SUBSPECIES
-=======
+# Lecidea decolorans Larbal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea decolorans subsp. decolorans
+Lecidea decolorans Larbal.
 
 ### Remarks
 null

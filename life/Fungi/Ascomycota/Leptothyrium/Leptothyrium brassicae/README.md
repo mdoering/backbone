@@ -1,5 +1,4 @@
-Leptothyrium brassicae Preuss SPECIES
-=======
+# Leptothyrium brassicae Preuss SPECIES
 
 #### Status
 ACCEPTED

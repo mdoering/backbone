@@ -1,5 +1,4 @@
-Melanconium ovoideum Link SPECIES
-=======
+# Melanconium ovoideum Link SPECIES
 
 #### Status
 ACCEPTED

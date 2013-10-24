@@ -1,5 +1,4 @@
-Chaetocalathus eurysporus Singer, 1979 SPECIES
-=======
+# Chaetocalathus eurysporus Singer, 1979 SPECIES
 
 #### Status
 ACCEPTED

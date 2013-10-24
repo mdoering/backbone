@@ -1,5 +1,4 @@
-Amphisphaeria ericeti Sacc. SPECIES
-=======
+# Amphisphaeria ericeti Sacc. SPECIES
 
 #### Status
 ACCEPTED

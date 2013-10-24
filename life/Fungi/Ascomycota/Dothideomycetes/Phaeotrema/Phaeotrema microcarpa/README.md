@@ -1,5 +1,4 @@
-Phaeotrema microcarpa Szatala, 1955 SPECIES
-=======
+# Phaeotrema microcarpa Szatala, 1955 SPECIES
 
 #### Status
 ACCEPTED

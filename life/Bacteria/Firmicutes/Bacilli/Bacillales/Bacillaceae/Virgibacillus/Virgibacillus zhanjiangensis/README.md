@@ -1,5 +1,4 @@
-Virgibacillus zhanjiangensis Peng, Chen, Zhang, Chen, Peng, Cui, Li & Chen, 2009 SPECIES
-=======
+# Virgibacillus zhanjiangensis Peng, Chen, Zhang, Chen, Peng, Cui, Li & Chen, 2009 SPECIES
 
 #### Status
 ACCEPTED

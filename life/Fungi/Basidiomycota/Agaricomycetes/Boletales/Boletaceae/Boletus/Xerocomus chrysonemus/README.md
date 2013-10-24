@@ -1,5 +1,4 @@
-Xerocomus chrysonemus A.E. Hills & A.F.S. Taylor, 2006 SPECIES
-=======
+# Xerocomus chrysonemus A.E. Hills & A.F.S. Taylor, 2006 SPECIES
 
 #### Status
 ACCEPTED

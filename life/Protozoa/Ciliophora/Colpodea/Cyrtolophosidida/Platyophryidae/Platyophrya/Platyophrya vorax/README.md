@@ -1,8 +1,7 @@
-Platyophrya procera (Foissner, 1980) Foissner, 1993 SPECIES
-=======
+# Platyophrya vorax Kahl, 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

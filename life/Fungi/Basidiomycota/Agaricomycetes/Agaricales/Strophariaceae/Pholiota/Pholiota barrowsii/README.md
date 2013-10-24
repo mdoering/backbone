@@ -1,5 +1,4 @@
-Pholiota barrowsii A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota barrowsii A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bottaria denudata (Nyl.) Vain. SPECIES
-=======
+# Bottaria denudata (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

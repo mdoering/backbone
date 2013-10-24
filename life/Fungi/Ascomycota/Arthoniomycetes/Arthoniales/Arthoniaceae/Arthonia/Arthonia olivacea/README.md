@@ -1,5 +1,4 @@
-Arthonia olivacea B. de Lesd. SPECIES
-=======
+# Arthonia olivacea B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

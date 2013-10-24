@@ -1,5 +1,4 @@
-Discosia dioscoreae Sawada SPECIES
-=======
+# Discosia dioscoreae Sawada SPECIES
 
 #### Status
 ACCEPTED

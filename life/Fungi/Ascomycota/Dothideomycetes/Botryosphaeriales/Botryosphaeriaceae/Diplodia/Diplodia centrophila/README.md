@@ -1,5 +1,4 @@
-Diplodia centrophila Pass. SPECIES
-=======
+# Diplodia centrophila Pass. SPECIES
 
 #### Status
 ACCEPTED

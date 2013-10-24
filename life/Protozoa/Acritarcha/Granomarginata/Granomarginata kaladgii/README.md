@@ -1,5 +1,4 @@
-Granomarginata kaladgii Venkatachala & Rawat, 1973 SPECIES
-=======
+# Granomarginata kaladgii Venkatachala & Rawat, 1973 SPECIES
 
 #### Status
 ACCEPTED

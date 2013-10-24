@@ -1,17 +1,16 @@
-Polyporus conchatus Lloyd, 1917 SPECIES
-=======
+# Antrodia conchata D.A. Reid, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Notes (Cincinnati) 5(no. 49): 700 (1917)
+Bothalia 11(3): 222 (1974)
 
 #### Original name
-Polyporus conchatus Lloyd, 1917
+Antrodia conchata D.A. Reid, 1974
 
 ### Remarks
 null

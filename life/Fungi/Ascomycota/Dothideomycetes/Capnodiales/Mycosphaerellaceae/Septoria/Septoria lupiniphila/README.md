@@ -1,5 +1,4 @@
-Septoria lupiniphila U. Braun SPECIES
-=======
+# Septoria lupiniphila U. Braun SPECIES
 
 #### Status
 ACCEPTED

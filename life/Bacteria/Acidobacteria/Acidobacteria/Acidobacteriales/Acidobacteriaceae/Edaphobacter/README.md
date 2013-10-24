@@ -1,5 +1,4 @@
-Edaphobacter Koch, Gich, Dunfield & Overmann, 2008 GENUS
-=======
+# Edaphobacter Koch, Gich, Dunfield & Overmann, 2008 GENUS
 
 #### Status
 ACCEPTED

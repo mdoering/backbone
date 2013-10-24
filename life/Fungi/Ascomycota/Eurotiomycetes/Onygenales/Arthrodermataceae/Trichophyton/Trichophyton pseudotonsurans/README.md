@@ -1,5 +1,4 @@
-Trichophyton pseudotonsurans Biguet, Cochet, Deblock, Andrieu & Duc SPECIES
-=======
+# Trichophyton pseudotonsurans Biguet, Cochet, Deblock, Andrieu & Duc SPECIES
 
 #### Status
 ACCEPTED

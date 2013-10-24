@@ -1,17 +1,16 @@
-Lachnum inquilinum var. inquilinum VARIETY
-=======
+# Psilachnum inquilinum (P. Karst.) Dennis, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 2(2): 182 (1962)
 
 #### Original name
-Lachnum inquilinum var. inquilinum
+Helotium inquilinum P. Karst., 1871
 
 ### Remarks
 null

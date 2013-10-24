@@ -1,5 +1,4 @@
-Microsphaera juglandis f. caryae (Jacz.) Golovin FORM
-=======
+# Microsphaera juglandis Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Centr. Asian Univ. Stud. , N. S. 14(5): 7 (1950)
 
 #### Original name
-Microsphaera penicillata f. caryae Jacz.
+Microsphaera juglandis Golovin
 
 ### Remarks
 null

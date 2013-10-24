@@ -1,5 +1,4 @@
-Allodus palmeri Orton SPECIES
-=======
+# Allodus palmeri Orton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mortierella fimbriata S.H. Ou SPECIES
-=======
+# Mortierella fimbriata S.H. Ou SPECIES
 
 #### Status
 ACCEPTED

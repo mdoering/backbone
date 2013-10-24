@@ -1,5 +1,4 @@
-Leucoagaricus salmoneophyllus Bon & Guinb. SPECIES
-=======
+# Leucoagaricus salmoneophyllus Bon & Guinb. SPECIES
 
 #### Status
 ACCEPTED

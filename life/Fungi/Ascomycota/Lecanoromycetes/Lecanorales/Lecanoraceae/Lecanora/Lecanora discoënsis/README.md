@@ -1,5 +1,4 @@
-Lecanora discoënsis Lynge SPECIES
-=======
+# Lecanora discoënsis Lynge SPECIES
 
 #### Status
 ACCEPTED

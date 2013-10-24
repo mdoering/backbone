@@ -1,5 +1,4 @@
-Meliola seminata Berk. & M.A. Curtis SPECIES
-=======
+# Meliola seminata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

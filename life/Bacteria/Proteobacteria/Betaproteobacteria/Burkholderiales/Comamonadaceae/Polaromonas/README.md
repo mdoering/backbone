@@ -1,5 +1,4 @@
-Polaromonas Irgens et al., 1996 GENUS
-=======
+# Polaromonas Irgens et al., 1996 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia biporula J.W. Baxter SPECIES
-=======
+# Puccinia biporula J.W. Baxter SPECIES
 
 #### Status
 ACCEPTED

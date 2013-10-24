@@ -1,5 +1,4 @@
-Patellaria petraea (Wulfen) DC. SPECIES
-=======
+# Patellaria petraea (Wulfen) DC. SPECIES
 
 #### Status
 ACCEPTED

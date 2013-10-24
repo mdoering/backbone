@@ -1,5 +1,4 @@
-Lecania viridulogranulosa (Harm.) Zahlbr. SPECIES
-=======
+# Lecania viridulogranulosa (Harm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha spodolaeina C. Knight SPECIES
-=======
+# Opegrapha spodolaeina C. Knight SPECIES
 
 #### Status
 ACCEPTED

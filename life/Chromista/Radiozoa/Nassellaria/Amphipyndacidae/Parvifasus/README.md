@@ -1,5 +1,4 @@
-Parvifasus GENUS
-=======
+# Parvifasus GENUS
 
 #### Status
 ACCEPTED

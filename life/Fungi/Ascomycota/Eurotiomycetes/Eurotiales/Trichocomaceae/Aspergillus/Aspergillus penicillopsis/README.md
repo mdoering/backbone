@@ -1,5 +1,4 @@
-Aspergillus penicillopsis (Henn. & E. Nyman) Racib. SPECIES
-=======
+# Aspergillus penicillopsis (Henn. & E. Nyman) Racib. SPECIES
 
 #### Status
 ACCEPTED

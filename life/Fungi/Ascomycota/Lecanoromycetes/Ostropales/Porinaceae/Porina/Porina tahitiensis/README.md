@@ -1,14 +1,13 @@
-Porina tahitensis (Räsänen) P.M. McCarthy SPECIES
-=======
+# Porina tahitiensis (Räsänen) P.M. McCarthy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichenologist 27(5): 343 (1995)
 
 #### Original name
 Thelenella tahitiensis Räsänen

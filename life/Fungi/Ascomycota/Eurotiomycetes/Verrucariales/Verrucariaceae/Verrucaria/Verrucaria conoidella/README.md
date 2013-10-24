@@ -1,5 +1,4 @@
-Verrucaria conoidella Nyl. SPECIES
-=======
+# Verrucaria conoidella Nyl. SPECIES
 
 #### Status
 ACCEPTED

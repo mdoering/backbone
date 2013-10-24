@@ -1,5 +1,4 @@
-Puccinia clavuligera Wallr. SPECIES
-=======
+# Puccinia clavuligera Wallr. SPECIES
 
 #### Status
 ACCEPTED

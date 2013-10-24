@@ -1,5 +1,4 @@
-Mycena myriophylla Métrod SPECIES
-=======
+# Mycena myriophylla Métrod SPECIES
 
 #### Status
 ACCEPTED

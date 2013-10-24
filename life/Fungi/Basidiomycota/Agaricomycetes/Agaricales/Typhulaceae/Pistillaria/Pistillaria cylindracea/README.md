@@ -1,5 +1,4 @@
-Pistillaria cylindracea P. Karst. SPECIES
-=======
+# Pistillaria cylindracea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

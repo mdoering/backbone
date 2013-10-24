@@ -1,8 +1,7 @@
-Phacus oblonga Skvortzov SPECIES
-=======
+# Phacus dangeardii Lemmermann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,17 +1,16 @@
-Cucujomyces bilateralis (R.K. Benj.) W. Rossi & A. Weir, 2008 SPECIES
-=======
+# Balazucia bilateralis R.K. Benj., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aliso 6(4): 47 (1968)
 
 #### Original name
-null
+Balazucia bilateralis R.K. Benj., 1968
 
 ### Remarks
 null

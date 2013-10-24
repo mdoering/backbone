@@ -1,5 +1,4 @@
-Uredo masatierra J.C. Lindq. SPECIES
-=======
+# Uredo masatierra J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

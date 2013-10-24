@@ -1,5 +1,4 @@
-Phialocephala trigonospora R. Kirschner & Oberw. SPECIES
-=======
+# Phialocephala trigonospora R. Kirschner & Oberw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius cupricolor Z. Schaef. SPECIES
-=======
+# Lactarius cupricolor Z. Schaef. SPECIES
 
 #### Status
 ACCEPTED

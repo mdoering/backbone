@@ -1,14 +1,13 @@
-Menisporella assamica Agnihothr., 1962 SPECIES
-=======
+# Dictyochaeta assamica (Agnihothr.) Aramb., Cabello & Mengasc., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 56: 99 (1962)
+Darwiniana 28: 297 (1988)
 
 #### Original name
 Menisporella assamica Agnihothr., 1962

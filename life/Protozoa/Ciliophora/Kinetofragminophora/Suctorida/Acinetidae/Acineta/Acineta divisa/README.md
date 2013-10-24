@@ -1,5 +1,4 @@
-Acineta divisa SPECIES
-=======
+# Acineta divisa SPECIES
 
 #### Status
 ACCEPTED

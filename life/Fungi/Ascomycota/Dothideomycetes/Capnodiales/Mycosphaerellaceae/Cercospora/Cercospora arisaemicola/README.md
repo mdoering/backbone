@@ -1,5 +1,4 @@
-Cercospora arisaemicola Kamal SPECIES
-=======
+# Cercospora arisaemicola Kamal SPECIES
 
 #### Status
 ACCEPTED

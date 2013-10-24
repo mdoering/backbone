@@ -1,5 +1,4 @@
-Puccinia milovidoviae Plats SPECIES
-=======
+# Puccinia milovidoviae Plats SPECIES
 
 #### Status
 ACCEPTED

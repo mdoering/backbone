@@ -1,5 +1,4 @@
-Rhizobium etli Segovia et al., 1993 SPECIES
-=======
+# Rhizobium etli Segovia et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eucasphaeria capensis Crous, 2007 SPECIES
-=======
+# Eucasphaeria capensis Crous, 2007 SPECIES
 
 #### Status
 ACCEPTED

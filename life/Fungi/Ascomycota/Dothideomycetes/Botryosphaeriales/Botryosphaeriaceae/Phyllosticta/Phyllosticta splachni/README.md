@@ -1,5 +1,4 @@
-Phyllosticta splachni Rostr. SPECIES
-=======
+# Phyllosticta splachni Rostr. SPECIES
 
 #### Status
 ACCEPTED

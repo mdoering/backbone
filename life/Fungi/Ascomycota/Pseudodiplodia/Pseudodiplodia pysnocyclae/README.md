@@ -1,5 +1,4 @@
-Pseudodiplodia pysnocyclae (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia pysnocyclae (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

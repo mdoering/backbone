@@ -1,5 +1,4 @@
-Meliola begoniae Hansf. SPECIES
-=======
+# Meliola begoniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

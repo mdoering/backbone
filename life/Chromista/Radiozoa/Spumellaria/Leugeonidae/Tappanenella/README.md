@@ -1,5 +1,4 @@
-Tappanenella GENUS
-=======
+# Tappanenella GENUS
 
 #### Status
 ACCEPTED

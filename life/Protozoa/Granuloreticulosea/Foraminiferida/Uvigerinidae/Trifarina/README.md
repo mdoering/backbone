@@ -1,5 +1,4 @@
-Trifarina Cushman, 1923 GENUS
-=======
+# Trifarina Cushman, 1923 GENUS
 
 #### Status
 ACCEPTED

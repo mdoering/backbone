@@ -1,5 +1,4 @@
-Stylococcus Chodat, 1898 GENUS
-=======
+# Stylococcus Chodat, 1898 GENUS
 
 #### Status
 ACCEPTED

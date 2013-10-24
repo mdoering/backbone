@@ -1,5 +1,4 @@
-Hydroclathrus stephanosorus Kraft, G.T. SPECIES
-=======
+# Hydroclathrus stephanosorus Kraft, G.T. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia decedens (Nyl.) Müll. Arg. SPECIES
-=======
+# Buellia decedens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

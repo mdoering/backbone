@@ -1,5 +1,4 @@
-Chlamydothrix E.F.A.W.Migula GENUS
-=======
+# Chlamydothrix E.F.A.W.Migula GENUS
 
 #### Status
 ACCEPTED

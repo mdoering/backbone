@@ -1,5 +1,4 @@
-Ephebe americana Henssen SPECIES
-=======
+# Ephebe americana Henssen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia violacea Beeli SPECIES
-=======
+# Collybia violacea Beeli SPECIES
 
 #### Status
 ACCEPTED

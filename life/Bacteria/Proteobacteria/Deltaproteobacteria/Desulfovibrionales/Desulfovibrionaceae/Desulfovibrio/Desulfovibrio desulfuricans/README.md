@@ -1,5 +1,4 @@
-Desulfovibrio desulfuricans subsp. desulfuricans SUBSPECIES
-=======
+# Desulfovibrio desulfuricans (Beijerinck, 1895) Kluyver & van Niel, 1936 SPECIES
 
 #### Status
 ACCEPTED

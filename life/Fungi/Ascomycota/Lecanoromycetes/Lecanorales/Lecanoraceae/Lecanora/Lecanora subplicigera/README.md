@@ -1,5 +1,4 @@
-Lecanora subplicigera H. Magn. SPECIES
-=======
+# Lecanora subplicigera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

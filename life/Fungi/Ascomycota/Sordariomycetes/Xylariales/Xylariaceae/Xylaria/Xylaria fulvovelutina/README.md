@@ -1,5 +1,4 @@
-Xylaria fulvovelutina Fr. SPECIES
-=======
+# Xylaria fulvovelutina Fr. SPECIES
 
 #### Status
 ACCEPTED

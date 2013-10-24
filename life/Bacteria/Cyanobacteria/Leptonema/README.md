@@ -1,5 +1,4 @@
-Leptonema L. Rabenhorst, 1857 GENUS
-=======
+# Leptonema L. Rabenhorst, 1857 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Epicoccum andropogonis (Ces.) Schol-Schwarz, 1959 SPECIES
-=======
+# Cerebella andropogonis Ces., 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 42: 171 (1959)
+in Rabenhorst, Bot. Ztg. 9: 669 (1851)
 
 #### Original name
 Cerebella andropogonis Ces., 1851

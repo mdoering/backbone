@@ -1,5 +1,4 @@
-Mirandina G. Arnaud ex Matsushima, 1975 GENUS
-=======
+# Mirandina G. Arnaud ex Matsushima, 1975 GENUS
 
 #### Status
 ACCEPTED

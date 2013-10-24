@@ -1,5 +1,4 @@
-Opegrapha physcidiae Kalb & Elix SPECIES
-=======
+# Opegrapha physcidiae Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

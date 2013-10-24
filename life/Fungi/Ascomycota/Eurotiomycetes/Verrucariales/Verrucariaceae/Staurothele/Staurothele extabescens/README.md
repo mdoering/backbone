@@ -1,5 +1,4 @@
-Staurothele extabescens (Nyl.) Zahlbr. SPECIES
-=======
+# Staurothele extabescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

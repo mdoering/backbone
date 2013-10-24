@@ -1,5 +1,4 @@
-Diorchidium tetrasporum Cummins SPECIES
-=======
+# Diorchidium tetrasporum Cummins SPECIES
 
 #### Status
 ACCEPTED

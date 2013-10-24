@@ -1,5 +1,4 @@
-Gorgonisphaeridium citrinum (Downie, 1963) Mullins, 2001 SPECIES
-=======
+# Gorgonisphaeridium citrinum (Downie, 1963) Mullins, 2001 SPECIES
 
 #### Status
 ACCEPTED

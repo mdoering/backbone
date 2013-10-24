@@ -1,5 +1,4 @@
-Lactarius densifolius Verbeken & Karhula SPECIES
-=======
+# Lactarius densifolius Verbeken & Karhula SPECIES
 
 #### Status
 ACCEPTED

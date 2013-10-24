@@ -1,5 +1,4 @@
-Myriospora hassei (Herre) K. Knudsen & L. Arcadia SPECIES
-=======
+# Myriospora hassei (Herre) K. Knudsen & L. Arcadia SPECIES
 
 #### Status
 ACCEPTED

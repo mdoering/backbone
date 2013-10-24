@@ -1,5 +1,4 @@
-Micropeltella megasperma Syd. & P. Syd. SPECIES
-=======
+# Micropeltella megasperma Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

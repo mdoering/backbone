@@ -1,5 +1,4 @@
-Squamaria miniata (Hoffm.) Hook. SPECIES
-=======
+# Squamaria miniata (Hoffm.) Hook. SPECIES
 
 #### Status
 ACCEPTED

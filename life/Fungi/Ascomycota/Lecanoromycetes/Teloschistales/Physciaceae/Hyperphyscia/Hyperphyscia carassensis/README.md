@@ -1,5 +1,4 @@
-Hyperphyscia carassensis (Vain.) Osorio SPECIES
-=======
+# Hyperphyscia carassensis (Vain.) Osorio SPECIES
 
 #### Status
 ACCEPTED

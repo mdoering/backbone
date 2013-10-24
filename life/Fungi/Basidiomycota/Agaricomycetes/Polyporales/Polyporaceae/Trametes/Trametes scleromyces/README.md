@@ -1,5 +1,4 @@
-Trametes scleromyces Berk. SPECIES
-=======
+# Trametes scleromyces Berk. SPECIES
 
 #### Status
 ACCEPTED

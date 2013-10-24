@@ -1,5 +1,4 @@
-Sarcodon harrisonii R.E. Baird, 1985 SPECIES
-=======
+# Sarcodon harrisonii R.E. Baird, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microcoleus delicatulus W. West & G.S. West SPECIES
-=======
+# Microcoleus delicatulus W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

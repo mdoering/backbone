@@ -1,5 +1,4 @@
-Reussella minuta SPECIES
-=======
+# Reussella minuta SPECIES
 
 #### Status
 ACCEPTED

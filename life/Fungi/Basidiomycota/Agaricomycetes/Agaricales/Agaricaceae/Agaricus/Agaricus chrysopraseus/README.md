@@ -1,5 +1,4 @@
-Agaricus chrysopraseus Berk. SPECIES
-=======
+# Agaricus chrysopraseus Berk. SPECIES
 
 #### Status
 ACCEPTED

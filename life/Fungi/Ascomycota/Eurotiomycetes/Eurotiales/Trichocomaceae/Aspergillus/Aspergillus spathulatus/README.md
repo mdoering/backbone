@@ -1,17 +1,16 @@
-Aspergillus spathulata Takada & Udagawa SPECIES
-=======
+# Aspergillus spathulatus Takada & Udagawa, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 24: 396 (1985)
 
 #### Original name
-Aspergillus spathulata Takada & Udagawa
+Aspergillus spathulatus Takada & Udagawa, 1985
 
 ### Remarks
 null

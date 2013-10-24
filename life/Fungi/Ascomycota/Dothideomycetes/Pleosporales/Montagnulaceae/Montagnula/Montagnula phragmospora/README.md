@@ -1,17 +1,16 @@
-Pleospora phragmospora f. phragmospora FORM
-=======
+# Montagnula phragmospora (Durieu & Mont.) Crivelli, 1983 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ueber die Heterogene Ascomycetengattung Pleospora Rabh. ; Vorschlag für eine Aufteilung (Diss. Eid genössischen Technischen Hochschule Zürich <b>7318</b>) 155 (1983)
 
 #### Original name
-Pleospora phragmospora f. phragmospora
+Sphaeria phragmospora Durieu & Mont., 1846
 
 ### Remarks
 null

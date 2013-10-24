@@ -1,5 +1,4 @@
-Diplorhinotrichum olivaceum Jaap SPECIES
-=======
+# Diplorhinotrichum olivaceum Jaap SPECIES
 
 #### Status
 ACCEPTED

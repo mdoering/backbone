@@ -1,5 +1,4 @@
-Laestadia foeda (Lév.) Sacc. SPECIES
-=======
+# Laestadia foeda (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

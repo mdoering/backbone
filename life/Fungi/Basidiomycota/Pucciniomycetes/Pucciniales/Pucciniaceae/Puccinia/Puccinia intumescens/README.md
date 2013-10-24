@@ -1,5 +1,4 @@
-Puccinia intumescens (P. Syd. & Syd.) Holw. SPECIES
-=======
+# Puccinia intumescens (P. Syd. & Syd.) Holw. SPECIES
 
 #### Status
 ACCEPTED

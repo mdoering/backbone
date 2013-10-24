@@ -1,5 +1,4 @@
-Stictina intricata SPECIES
-=======
+# Stictina intricata SPECIES
 
 #### Status
 ACCEPTED

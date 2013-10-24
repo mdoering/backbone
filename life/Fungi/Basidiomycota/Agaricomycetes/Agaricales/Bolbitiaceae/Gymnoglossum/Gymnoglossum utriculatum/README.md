@@ -1,5 +1,4 @@
-Gymnoglossum utriculatum (Harkn.) Zeller SPECIES
-=======
+# Gymnoglossum utriculatum (Harkn.) Zeller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia carnea Hampe SPECIES
-=======
+# Cladonia carnea Hampe SPECIES
 
 #### Status
 ACCEPTED

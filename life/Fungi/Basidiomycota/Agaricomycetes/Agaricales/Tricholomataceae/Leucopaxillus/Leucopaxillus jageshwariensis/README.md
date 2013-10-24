@@ -1,5 +1,4 @@
-Leucopaxillus jageshwariensis Dhanch., J.C. Bhatt & S.K. Pant SPECIES
-=======
+# Leucopaxillus jageshwariensis Dhanch., J.C. Bhatt & S.K. Pant SPECIES
 
 #### Status
 ACCEPTED

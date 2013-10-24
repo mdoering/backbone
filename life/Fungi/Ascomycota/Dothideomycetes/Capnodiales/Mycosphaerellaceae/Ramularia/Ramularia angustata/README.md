@@ -1,5 +1,4 @@
-Ramularia angustata Peck SPECIES
-=======
+# Ramularia angustata Peck SPECIES
 
 #### Status
 ACCEPTED

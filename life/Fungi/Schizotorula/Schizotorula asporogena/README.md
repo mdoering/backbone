@@ -1,5 +1,4 @@
-Schizotorula asporogena Krassiln. SPECIES
-=======
+# Schizotorula asporogena Krassiln. SPECIES
 
 #### Status
 ACCEPTED

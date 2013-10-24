@@ -1,5 +1,4 @@
-Hirsutella heteropoda C.R. Li, Ming J. Chen, M.Z. Fan & Z.Z. Li SPECIES
-=======
+# Hirsutella heteropoda C.R. Li, Ming J. Chen, M.Z. Fan & Z.Z. Li SPECIES
 
 #### Status
 ACCEPTED

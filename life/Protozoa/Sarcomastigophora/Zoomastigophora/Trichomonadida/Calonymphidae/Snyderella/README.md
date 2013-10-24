@@ -1,14 +1,13 @@
-Synderella GENUS
-=======
+# Snyderella Kirby, 1929 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Univ. Calif. Publ. Zool. , 31, 419.
 
 #### Original name
 null

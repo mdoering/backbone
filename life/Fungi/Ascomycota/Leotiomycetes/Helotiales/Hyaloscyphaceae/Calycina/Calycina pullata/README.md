@@ -1,5 +1,4 @@
-Calycina pullata (W.R. Gerard) Kuntze SPECIES
-=======
+# Calycina pullata (W.R. Gerard) Kuntze SPECIES
 
 #### Status
 ACCEPTED

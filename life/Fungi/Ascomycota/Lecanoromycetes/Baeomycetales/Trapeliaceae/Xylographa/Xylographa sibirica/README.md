@@ -1,5 +1,4 @@
-Xylographa sibirica Zahlbr. SPECIES
-=======
+# Xylographa sibirica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

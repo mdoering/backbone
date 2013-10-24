@@ -1,14 +1,13 @@
-Lasionectria jungermanniarum (P. Crouan & H. Crouan) Cooke, 1884 SPECIES
-=======
+# Octosporella jungermanniarum (P. Crouan & H. Crouan) Döbbeler, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 31(4): 828 (1980)
 
 #### Original name
 null

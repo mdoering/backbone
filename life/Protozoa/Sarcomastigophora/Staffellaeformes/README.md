@@ -1,5 +1,4 @@
-Staffellaeformes Solovieva, 1986 GENUS
-=======
+# Staffellaeformes Solovieva, 1986 GENUS
 
 #### Status
 ACCEPTED

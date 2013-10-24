@@ -1,5 +1,4 @@
-Puccinia malabailae Bubák SPECIES
-=======
+# Puccinia malabailae Bubák SPECIES
 
 #### Status
 ACCEPTED

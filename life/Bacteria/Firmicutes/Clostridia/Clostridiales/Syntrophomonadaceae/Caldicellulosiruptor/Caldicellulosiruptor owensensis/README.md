@@ -1,5 +1,4 @@
-Caldicellulosiruptor owensensis Huang et al., 1998 SPECIES
-=======
+# Caldicellulosiruptor owensensis Huang et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

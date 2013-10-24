@@ -1,5 +1,4 @@
-Ciboria macrospora Velen. SPECIES
-=======
+# Ciboria macrospora Velen. SPECIES
 
 #### Status
 ACCEPTED

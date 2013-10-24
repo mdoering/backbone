@@ -1,5 +1,4 @@
-Mucrosporium leptosporum Peyronel SPECIES
-=======
+# Mucrosporium leptosporum Peyronel SPECIES
 
 #### Status
 ACCEPTED

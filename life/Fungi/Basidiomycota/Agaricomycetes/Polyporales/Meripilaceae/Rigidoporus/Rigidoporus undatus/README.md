@@ -1,17 +1,16 @@
-Leptoporus undatus f. undatus FORM
-=======
+# Rigidoporus undatus (Pers.) Donk, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Tax. Hyménomyc. (Lons-le-Saunier) 85 (1900)
+Persoonia 5(1): 115 (1967)
 
 #### Original name
-Leptoporus undatus f. undatus
+Polyporus undatus Pers., 1825
 
 ### Remarks
 null

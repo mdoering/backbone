@@ -1,5 +1,4 @@
-Chimaereicella alkaliphila Tiago et al., 2006 SPECIES
-=======
+# Chimaereicella alkaliphila Tiago et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

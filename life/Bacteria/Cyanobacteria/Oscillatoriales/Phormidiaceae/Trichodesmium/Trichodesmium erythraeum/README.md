@@ -1,5 +1,4 @@
-Trichodesmium erythraeum Ehrenberg SPECIES
-=======
+# Trichodesmium erythraeum Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

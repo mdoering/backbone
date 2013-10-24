@@ -1,5 +1,4 @@
-Schaereria serenior (Vain.) Vitik., Ahti, Kuusinen, Lommi & T. Ulvinen SPECIES
-=======
+# Schaereria serenior (Vain.) Vitik., Ahti, Kuusinen, Lommi & T. Ulvinen SPECIES
 
 #### Status
 ACCEPTED

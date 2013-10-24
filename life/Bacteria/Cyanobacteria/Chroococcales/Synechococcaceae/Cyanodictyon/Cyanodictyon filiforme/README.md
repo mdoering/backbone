@@ -1,5 +1,4 @@
-Cyanodictyon filiforme J. Komárková-Legnerová & G. Cronberg SPECIES
-=======
+# Cyanodictyon filiforme J. Komárková-Legnerová & G. Cronberg SPECIES
 
 #### Status
 ACCEPTED

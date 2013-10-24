@@ -1,5 +1,4 @@
-Usnea harmandii Motyka SPECIES
-=======
+# Usnea harmandii Motyka SPECIES
 
 #### Status
 ACCEPTED

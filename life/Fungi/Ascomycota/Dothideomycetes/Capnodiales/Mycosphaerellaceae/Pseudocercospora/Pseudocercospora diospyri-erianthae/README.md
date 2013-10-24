@@ -1,5 +1,4 @@
-Pseudocercospora diospyri-erianthae Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora diospyri-erianthae Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

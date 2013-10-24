@@ -1,5 +1,4 @@
-Arthonia boreella Vain. SPECIES
-=======
+# Arthonia boreella Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicellaesporites africanus Sal.-Cheb. & Locq. SPECIES
-=======
+# Dicellaesporites africanus Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

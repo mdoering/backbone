@@ -1,8 +1,7 @@
-Stilbum corynoides Ellis & Everh. SPECIES
-=======
+# Stilbum coryneoides Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stilbum corynoides Ellis & Everh.
+Stilbum coryneoides Ellis & Everh.
 
 ### Remarks
 null

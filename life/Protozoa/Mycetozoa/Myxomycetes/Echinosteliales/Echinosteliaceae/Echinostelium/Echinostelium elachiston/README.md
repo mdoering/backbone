@@ -1,5 +1,4 @@
-Echinostelium elachiston Alexop., 1958 SPECIES
-=======
+# Echinostelium elachiston Alexop., 1958 SPECIES
 
 #### Status
 ACCEPTED

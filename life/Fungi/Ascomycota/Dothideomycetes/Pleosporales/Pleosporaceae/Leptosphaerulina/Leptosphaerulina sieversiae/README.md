@@ -1,5 +1,4 @@
-Leptosphaerulina sieversiae (E. Müll.) Crivelli SPECIES
-=======
+# Leptosphaerulina sieversiae (E. Müll.) Crivelli SPECIES
 
 #### Status
 ACCEPTED

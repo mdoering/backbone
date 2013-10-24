@@ -1,5 +1,4 @@
-Geryon Gombos, 1982 GENUS
-=======
+# Geryon Gombos, 1982 GENUS
 
 #### Status
 ACCEPTED

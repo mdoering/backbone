@@ -1,5 +1,4 @@
-Planispirina striata Sidebottom, 1904 SPECIES
-=======
+# Planispirina striata Sidebottom, 1904 SPECIES
 
 #### Status
 ACCEPTED

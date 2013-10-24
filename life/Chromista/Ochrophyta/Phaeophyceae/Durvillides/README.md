@@ -1,5 +1,4 @@
-Durvillides S. Squinabol, 1887 GENUS
-=======
+# Durvillides S. Squinabol, 1887 GENUS
 
 #### Status
 ACCEPTED

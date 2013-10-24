@@ -1,5 +1,4 @@
-Dichomera inclusa M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Dichomera inclusa M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

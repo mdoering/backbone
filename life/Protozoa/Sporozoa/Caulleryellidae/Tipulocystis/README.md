@@ -1,5 +1,4 @@
-Tipulocystis Kramar, 1950 GENUS
-=======
+# Tipulocystis Kramar, 1950 GENUS
 
 #### Status
 ACCEPTED

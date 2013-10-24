@@ -1,5 +1,4 @@
-Cryptococcus rotundatus (Redaelli) Nann. SPECIES
-=======
+# Cryptococcus rotundatus (Redaelli) Nann. SPECIES
 
 #### Status
 ACCEPTED

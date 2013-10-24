@@ -1,5 +1,4 @@
-Aecidium opizii Bubák SPECIES
-=======
+# Aecidium opizii Bubák SPECIES
 
 #### Status
 ACCEPTED

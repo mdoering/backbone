@@ -1,5 +1,4 @@
-Pseudotriplasia Matecki, 1953 GENUS
-=======
+# Pseudotriplasia Matecki, 1953 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma arcuata Pass. SPECIES
-=======
+# Phoma arcuata Pass. SPECIES
 
 #### Status
 ACCEPTED

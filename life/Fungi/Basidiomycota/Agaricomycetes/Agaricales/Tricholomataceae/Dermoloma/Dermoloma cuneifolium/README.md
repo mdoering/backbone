@@ -1,17 +1,16 @@
-Agaricus cuneifolius f. cuneifolius FORM
-=======
+# Dermoloma cuneifolium (Fr.) Singer ex Bon, 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Docums Mycol. 17(no. 65): 51 (1986)
 
 #### Original name
-null
+Agaricus cuneifolius Fr., 1818
 
 ### Remarks
 null

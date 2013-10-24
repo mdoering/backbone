@@ -1,5 +1,4 @@
-Lagena semilineata SPECIES
-=======
+# Lagena semilineata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Troncatulina Orbigny, 1826 GENUS
-=======
+# Troncatulina Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

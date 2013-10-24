@@ -1,17 +1,16 @@
-Niebla flagelliforma Spjut SPECIES
-=======
+# Niebla flagelliformis Spjut SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sida, Bot. Misc. 14: 90 (1996)
 
 #### Original name
-Niebla flagelliforma Spjut
+Niebla flagelliformis Spjut
 
 ### Remarks
 null

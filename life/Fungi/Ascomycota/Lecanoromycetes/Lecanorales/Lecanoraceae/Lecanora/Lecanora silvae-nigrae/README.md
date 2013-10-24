@@ -1,5 +1,4 @@
-Lecanora silvae-nigrae V. Wirth SPECIES
-=======
+# Lecanora silvae-nigrae V. Wirth SPECIES
 
 #### Status
 ACCEPTED

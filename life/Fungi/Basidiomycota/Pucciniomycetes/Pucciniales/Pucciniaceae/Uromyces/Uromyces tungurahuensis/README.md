@@ -1,5 +1,4 @@
-Uromyces tungurahuensis Syd. SPECIES
-=======
+# Uromyces tungurahuensis Syd. SPECIES
 
 #### Status
 ACCEPTED

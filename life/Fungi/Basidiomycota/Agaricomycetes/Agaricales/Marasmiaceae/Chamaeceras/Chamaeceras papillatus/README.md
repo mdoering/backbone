@@ -1,5 +1,4 @@
-Chamaeceras papillatus (Peck) Kuntze SPECIES
-=======
+# Chamaeceras papillatus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

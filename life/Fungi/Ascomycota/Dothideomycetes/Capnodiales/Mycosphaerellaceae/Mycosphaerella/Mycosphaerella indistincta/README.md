@@ -1,5 +1,4 @@
-Mycosphaerella indistincta (Peck) Lindau SPECIES
-=======
+# Mycosphaerella indistincta (Peck) Lindau SPECIES
 
 #### Status
 ACCEPTED

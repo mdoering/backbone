@@ -1,5 +1,4 @@
-Sphaeria botryosa Tode SPECIES
-=======
+# Sphaeria botryosa Tode SPECIES
 
 #### Status
 ACCEPTED

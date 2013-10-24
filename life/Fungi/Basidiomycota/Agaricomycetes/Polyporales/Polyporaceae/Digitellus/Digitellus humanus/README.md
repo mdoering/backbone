@@ -1,5 +1,4 @@
-Digitellus humanus Paulet SPECIES
-=======
+# Digitellus humanus Paulet SPECIES
 
 #### Status
 ACCEPTED

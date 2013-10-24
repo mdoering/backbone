@@ -1,5 +1,4 @@
-Garciella nitratireducens Miranda-Tello et al., 2003 SPECIES
-=======
+# Garciella nitratireducens Miranda-Tello et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

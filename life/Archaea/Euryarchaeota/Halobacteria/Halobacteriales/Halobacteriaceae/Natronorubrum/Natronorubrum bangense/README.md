@@ -1,5 +1,4 @@
-Natronorubrum bangense Xu et al., 1999 SPECIES
-=======
+# Natronorubrum bangense Xu et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

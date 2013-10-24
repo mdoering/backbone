@@ -1,5 +1,4 @@
-Puccinia moringae Koord. SPECIES
-=======
+# Puccinia moringae Koord. SPECIES
 
 #### Status
 ACCEPTED

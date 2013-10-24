@@ -1,5 +1,4 @@
-Lethagrium verruculosum A. Massal. SPECIES
-=======
+# Lethagrium verruculosum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

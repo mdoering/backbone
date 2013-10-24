@@ -1,5 +1,4 @@
-Clostridium stercorarium subsp. stercorarium SUBSPECIES
-=======
+# Clostridium stercorarium Madden, 1983 SPECIES
 
 #### Status
 ACCEPTED

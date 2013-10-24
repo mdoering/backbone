@@ -1,17 +1,16 @@
-Perisporiopsis F. Stevens, 1917 GENUS
-=======
+# Diplotheca Starbäck, 1893 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Trans. Ill. St. Acad. Sci. 10: 170 (1917)
+Bot. Notiser 30 (1893)
 
 #### Original name
-Perisporiopsis F. Stevens, 1917
+Diplotheca Starbäck, 1893
 
 ### Remarks
 null

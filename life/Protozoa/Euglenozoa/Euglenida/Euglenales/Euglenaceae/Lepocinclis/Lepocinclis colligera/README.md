@@ -1,5 +1,4 @@
-Lepocinclis colligera Deflandre SPECIES
-=======
+# Lepocinclis colligera Deflandre SPECIES
 
 #### Status
 ACCEPTED

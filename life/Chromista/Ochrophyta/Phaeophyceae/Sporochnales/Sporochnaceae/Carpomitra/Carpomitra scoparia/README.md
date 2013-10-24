@@ -1,5 +1,4 @@
-Carpomitra scoparia Sonder SPECIES
-=======
+# Carpomitra scoparia Sonder SPECIES
 
 #### Status
 ACCEPTED

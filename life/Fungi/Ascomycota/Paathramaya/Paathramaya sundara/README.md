@@ -1,17 +1,16 @@
-Paathramaya sundara var. sundara VARIETY
-=======
+# Paathramaya sundara Subram., 1956 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Indian bot. Soc. 35: 70 (1956)
 
 #### Original name
-Paathramaya sundara var. sundara
+Paathramaya sundara Subram., 1956
 
 ### Remarks
 null

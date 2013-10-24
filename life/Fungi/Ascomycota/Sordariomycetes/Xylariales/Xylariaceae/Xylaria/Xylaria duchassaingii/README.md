@@ -1,5 +1,4 @@
-Xylaria duchassaingii Rehm SPECIES
-=======
+# Xylaria duchassaingii Rehm SPECIES
 
 #### Status
 ACCEPTED

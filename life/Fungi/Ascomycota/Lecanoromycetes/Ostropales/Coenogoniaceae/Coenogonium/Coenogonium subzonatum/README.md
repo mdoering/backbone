@@ -1,5 +1,4 @@
-Coenogonium subzonatum (Lücking) Lücking & Kalb SPECIES
-=======
+# Coenogonium subzonatum (Lücking) Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

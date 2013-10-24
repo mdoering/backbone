@@ -1,5 +1,4 @@
-Petelotia tonkinensis Pat. SPECIES
-=======
+# Petelotia tonkinensis Pat. SPECIES
 
 #### Status
 ACCEPTED

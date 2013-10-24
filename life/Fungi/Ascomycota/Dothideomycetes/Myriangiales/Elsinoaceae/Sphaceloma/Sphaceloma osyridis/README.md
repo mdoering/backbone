@@ -1,5 +1,4 @@
-Sphaceloma osyridis Thirum. SPECIES
-=======
+# Sphaceloma osyridis Thirum. SPECIES
 
 #### Status
 ACCEPTED

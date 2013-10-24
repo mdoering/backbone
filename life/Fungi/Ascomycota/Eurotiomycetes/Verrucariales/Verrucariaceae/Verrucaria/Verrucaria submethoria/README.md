@@ -1,5 +1,4 @@
-Verrucaria submethoria Vain. SPECIES
-=======
+# Verrucaria submethoria Vain. SPECIES
 
 #### Status
 ACCEPTED

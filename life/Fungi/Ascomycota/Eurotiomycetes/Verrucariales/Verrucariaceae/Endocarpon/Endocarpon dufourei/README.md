@@ -1,5 +1,4 @@
-Endocarpon dufourei Durieu & Mont. SPECIES
-=======
+# Endocarpon dufourei Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

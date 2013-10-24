@@ -1,5 +1,4 @@
-Candida cidri Kurtzman, Robnett & Yarrow SPECIES
-=======
+# Candida cidri Kurtzman, Robnett & Yarrow SPECIES
 
 #### Status
 ACCEPTED

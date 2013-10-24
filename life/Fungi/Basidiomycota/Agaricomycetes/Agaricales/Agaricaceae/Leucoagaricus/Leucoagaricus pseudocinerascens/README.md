@@ -1,5 +1,4 @@
-Leucoagaricus pseudocinerascens (Bon) Bon SPECIES
-=======
+# Leucoagaricus pseudocinerascens (Bon) Bon SPECIES
 
 #### Status
 ACCEPTED

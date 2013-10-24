@@ -1,5 +1,4 @@
-Uredo geniculata Cummins SPECIES
-=======
+# Uredo geniculata Cummins SPECIES
 
 #### Status
 ACCEPTED

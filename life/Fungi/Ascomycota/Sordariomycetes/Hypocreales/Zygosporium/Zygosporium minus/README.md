@@ -1,5 +1,4 @@
-Zygosporium minus S. Hughes, 1951 SPECIES
-=======
+# Zygosporium minus S. Hughes, 1951 SPECIES
 
 #### Status
 ACCEPTED

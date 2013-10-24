@@ -1,5 +1,4 @@
-Opegrapha decussata C.W. Dodge SPECIES
-=======
+# Opegrapha decussata C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

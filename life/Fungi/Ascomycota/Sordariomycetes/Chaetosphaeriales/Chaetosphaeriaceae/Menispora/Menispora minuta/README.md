@@ -1,5 +1,4 @@
-Menispora minuta Tubaki, 1958 SPECIES
-=======
+# Menispora minuta Tubaki, 1958 SPECIES
 
 #### Status
 ACCEPTED

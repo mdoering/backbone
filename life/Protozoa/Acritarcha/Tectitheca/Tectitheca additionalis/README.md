@@ -1,5 +1,4 @@
-Tectitheca additionalis Burmann, 1968 SPECIES
-=======
+# Tectitheca additionalis Burmann, 1968 SPECIES
 
 #### Status
 ACCEPTED

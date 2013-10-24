@@ -1,5 +1,4 @@
-Cylindrosporium septorioides Speg. SPECIES
-=======
+# Cylindrosporium septorioides Speg. SPECIES
 
 #### Status
 ACCEPTED

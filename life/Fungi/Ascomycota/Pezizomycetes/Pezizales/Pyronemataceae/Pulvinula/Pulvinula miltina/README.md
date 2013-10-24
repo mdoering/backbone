@@ -1,14 +1,13 @@
-Peziza miltina Berk., 1855 SPECIES
-=======
+# Pulvinula miltina (Berk.) Rifai, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. nov. -zel. 199 (1855)
+Verh. K. ned. Akad. Wet. , Afd. Natuurkunde, Tweede Reeks 57(3): 204 (1968)
 
 #### Original name
 Peziza miltina Berk., 1855

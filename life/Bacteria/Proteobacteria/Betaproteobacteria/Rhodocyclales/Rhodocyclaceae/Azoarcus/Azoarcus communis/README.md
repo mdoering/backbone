@@ -1,5 +1,4 @@
-Azoarcus communis Reinhold-Hurek et al., 1993 SPECIES
-=======
+# Azoarcus communis Reinhold-Hurek et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

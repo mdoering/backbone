@@ -1,5 +1,4 @@
-Camarosporium gleditschiae Oudem. SPECIES
-=======
+# Camarosporium gleditschiae Oudem. SPECIES
 
 #### Status
 ACCEPTED

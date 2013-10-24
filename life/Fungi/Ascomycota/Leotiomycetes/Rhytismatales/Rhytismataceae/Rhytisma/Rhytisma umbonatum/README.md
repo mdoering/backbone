@@ -1,17 +1,16 @@
-Xyloma amphigenum Wallr., 1833 SPECIES
-=======
+# Rhytisma umbonatum Hoppe, 1844 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. crypt. Germ. (Nürnberg) 2: 411 (1833)
+in Rabenhorst, Deutschl. Krypt. -Fl. (Leipzig) 1: 162 (1844)
 
 #### Original name
-Xyloma amphigenum Wallr., 1833
+Rhytisma umbonatum Hoppe, 1844
 
 ### Remarks
 null

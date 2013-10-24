@@ -1,5 +1,4 @@
-Anthostomella cymbisperma G. Winter SPECIES
-=======
+# Anthostomella cymbisperma G. Winter SPECIES
 
 #### Status
 ACCEPTED

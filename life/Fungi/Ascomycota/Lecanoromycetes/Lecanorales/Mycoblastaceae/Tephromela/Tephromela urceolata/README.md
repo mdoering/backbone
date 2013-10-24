@@ -1,5 +1,4 @@
-Tephromela urceolata (A. Massal.) Motyka SPECIES
-=======
+# Tephromela urceolata (A. Massal.) Motyka SPECIES
 
 #### Status
 ACCEPTED

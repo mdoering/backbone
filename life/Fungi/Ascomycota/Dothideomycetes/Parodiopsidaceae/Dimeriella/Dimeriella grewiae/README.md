@@ -1,5 +1,4 @@
-Dimeriella grewiae Theiss. SPECIES
-=======
+# Dimeriella grewiae Theiss. SPECIES
 
 #### Status
 ACCEPTED

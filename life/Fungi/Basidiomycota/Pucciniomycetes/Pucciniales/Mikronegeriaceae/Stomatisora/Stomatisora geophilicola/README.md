@@ -1,14 +1,13 @@
-Chrysocelis geophilicola (J.M. Yen) Cummins & Y. Hirats., 1983 SPECIES
-=======
+# Stomatisora geophilicola J.M. Yen, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illustr. Gen. Rust Fungi (St. Paul), <i>rev. Edn</i> 147 (1983)
+Revue Mycol. , Paris 35(5): 332 (1971)
 
 #### Original name
 Stomatisora geophilicola J.M. Yen, 1971

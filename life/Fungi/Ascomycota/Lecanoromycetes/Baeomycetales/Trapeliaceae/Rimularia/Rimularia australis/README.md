@@ -1,5 +1,4 @@
-Rimularia australis Hertel & Rambold SPECIES
-=======
+# Rimularia australis Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

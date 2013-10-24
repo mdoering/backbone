@@ -1,5 +1,4 @@
-Clavicorona javanica (Sacc. & P. Syd.) Corner SPECIES
-=======
+# Clavicorona javanica (Sacc. & P. Syd.) Corner SPECIES
 
 #### Status
 ACCEPTED

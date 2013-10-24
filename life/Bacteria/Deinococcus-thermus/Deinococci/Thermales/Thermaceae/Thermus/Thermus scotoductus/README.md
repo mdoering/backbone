@@ -1,5 +1,4 @@
-Thermus scotoductus Kristjansson et al., 1994 SPECIES
-=======
+# Thermus scotoductus Kristjansson et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

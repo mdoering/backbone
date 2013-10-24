@@ -1,5 +1,4 @@
-Cryptovalsa crotonicola Rehm SPECIES
-=======
+# Cryptovalsa crotonicola Rehm SPECIES
 
 #### Status
 ACCEPTED

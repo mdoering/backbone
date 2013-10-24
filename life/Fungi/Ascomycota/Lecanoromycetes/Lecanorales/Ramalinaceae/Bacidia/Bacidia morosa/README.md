@@ -1,5 +1,4 @@
-Bacidia morosa Zahlbr. SPECIES
-=======
+# Bacidia morosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

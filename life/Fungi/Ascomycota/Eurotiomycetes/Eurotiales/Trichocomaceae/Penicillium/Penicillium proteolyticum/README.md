@@ -1,5 +1,4 @@
-Penicillium proteolyticum Kamyschko, 1961 SPECIES
-=======
+# Penicillium proteolyticum Kamyschko, 1961 SPECIES
 
 #### Status
 ACCEPTED

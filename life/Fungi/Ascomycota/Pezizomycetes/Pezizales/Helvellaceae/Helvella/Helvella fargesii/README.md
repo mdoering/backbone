@@ -1,5 +1,4 @@
-Helvella fargesii Pat. SPECIES
-=======
+# Helvella fargesii Pat. SPECIES
 
 #### Status
 ACCEPTED

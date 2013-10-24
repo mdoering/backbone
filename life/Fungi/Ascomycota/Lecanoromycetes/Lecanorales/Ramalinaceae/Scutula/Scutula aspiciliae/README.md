@@ -1,5 +1,4 @@
-Scutula aspiciliae (Müll. Arg.) Rehm SPECIES
-=======
+# Scutula aspiciliae (Müll. Arg.) Rehm SPECIES
 
 #### Status
 ACCEPTED

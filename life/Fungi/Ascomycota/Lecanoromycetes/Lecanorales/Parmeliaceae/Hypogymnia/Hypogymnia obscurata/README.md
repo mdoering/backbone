@@ -1,5 +1,4 @@
-Hypogymnia obscurata (Bitter) Räsänen SPECIES
-=======
+# Hypogymnia obscurata (Bitter) Räsänen SPECIES
 
 #### Status
 ACCEPTED

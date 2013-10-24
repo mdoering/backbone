@@ -1,5 +1,4 @@
-Ovularia inulae var. inulae VARIETY
-=======
+# Ovularia inulae Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ovularia inulae var. inulae
+Ovularia inulae Sacc.
 
 ### Remarks
 null

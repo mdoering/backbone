@@ -1,5 +1,4 @@
-Lophosphaeridium coniferum Colbath, 1990 SPECIES
-=======
+# Lophosphaeridium coniferum Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

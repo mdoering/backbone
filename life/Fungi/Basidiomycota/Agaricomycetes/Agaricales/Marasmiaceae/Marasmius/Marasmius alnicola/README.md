@@ -1,5 +1,4 @@
-Marasmius alnicola (Murrill) Sacc. & Trotter SPECIES
-=======
+# Marasmius alnicola (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

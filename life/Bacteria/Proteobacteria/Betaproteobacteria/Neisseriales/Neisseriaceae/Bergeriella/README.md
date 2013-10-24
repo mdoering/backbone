@@ -1,5 +1,4 @@
-Bergeriella Xie & Yokota, 2005 GENUS
-=======
+# Bergeriella Xie & Yokota, 2005 GENUS
 
 #### Status
 ACCEPTED

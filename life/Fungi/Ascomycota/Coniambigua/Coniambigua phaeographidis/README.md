@@ -1,5 +1,4 @@
-Coniambigua phaeographidis Etayo & Diederich, 1995 SPECIES
-=======
+# Coniambigua phaeographidis Etayo & Diederich, 1995 SPECIES
 
 #### Status
 ACCEPTED

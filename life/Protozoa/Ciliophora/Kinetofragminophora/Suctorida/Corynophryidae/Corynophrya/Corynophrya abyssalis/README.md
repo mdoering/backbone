@@ -1,5 +1,4 @@
-Corynophrya abyssalis Bartsch & Dovgal, 2010 SPECIES
-=======
+# Corynophrya abyssalis Bartsch & Dovgal, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaeria eryngii petiolata Westend. SUBSPECIES
-=======
+# Ophiobolus eryngii (Oudem.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Sphaeria eryngii Fr. ex Duby, 1830
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Anaptychia megaloplaca (Müll. Arg.) R. Sant. ex H. Magn. SPECIES
-=======
+# Anaptychia megaloplaca (Müll. Arg.) R. Sant. ex H. Magn. SPECIES
 
 #### Status
 ACCEPTED

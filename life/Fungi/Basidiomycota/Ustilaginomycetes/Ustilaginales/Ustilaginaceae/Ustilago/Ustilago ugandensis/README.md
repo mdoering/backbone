@@ -1,5 +1,4 @@
-Ustilago ugandensis Henn. SPECIES
-=======
+# Ustilago ugandensis Henn. SPECIES
 
 #### Status
 ACCEPTED

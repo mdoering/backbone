@@ -1,5 +1,4 @@
-Scolecopeltis chardonii Toro SPECIES
-=======
+# Scolecopeltis chardonii Toro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eoxenococcus M.S. Yakschin, 1990 GENUS
-=======
+# Eoxenococcus M.S. Yakschin, 1990 GENUS
 
 #### Status
 ACCEPTED

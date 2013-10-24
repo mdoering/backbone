@@ -1,5 +1,4 @@
-Cercospora ulmifolia Obreg.-Bot. SPECIES
-=======
+# Cercospora ulmifolia Obreg.-Bot. SPECIES
 
 #### Status
 ACCEPTED

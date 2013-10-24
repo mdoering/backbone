@@ -1,5 +1,4 @@
-Microfavichnus Duringer, Schuster, Genise et al., 2007 GENUS
-=======
+# Microfavichnus Duringer, Schuster, Genise et al., 2007 GENUS
 
 #### Status
 ACCEPTED

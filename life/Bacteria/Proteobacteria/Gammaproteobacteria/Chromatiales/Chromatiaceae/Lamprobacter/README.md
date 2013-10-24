@@ -1,5 +1,4 @@
-Lamprobacter Gorlenko et al., 1988 GENUS
-=======
+# Lamprobacter Gorlenko et al., 1988 GENUS
 
 #### Status
 ACCEPTED

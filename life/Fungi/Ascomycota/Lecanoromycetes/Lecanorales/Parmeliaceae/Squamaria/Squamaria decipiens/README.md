@@ -1,5 +1,4 @@
-Squamaria decipiens SPECIES
-=======
+# Squamaria decipiens SPECIES
 
 #### Status
 ACCEPTED

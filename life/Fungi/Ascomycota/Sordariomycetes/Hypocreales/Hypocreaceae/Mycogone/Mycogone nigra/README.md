@@ -1,5 +1,4 @@
-Mycogone nigra (Morgan) C.N. Jensen SPECIES
-=======
+# Mycogone nigra (Morgan) C.N. Jensen SPECIES
 
 #### Status
 ACCEPTED

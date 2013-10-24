@@ -1,5 +1,4 @@
-Rectogranuliferella Conil & Lys in Mansy et al., 1989 GENUS
-=======
+# Rectogranuliferella Conil & Lys in Mansy et al., 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria linearis Nees ex Fr. SPECIES
-=======
+# Sphaeria linearis Nees ex Fr. SPECIES
 
 #### Status
 ACCEPTED

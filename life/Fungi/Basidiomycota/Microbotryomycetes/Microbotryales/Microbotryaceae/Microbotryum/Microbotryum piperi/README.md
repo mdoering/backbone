@@ -1,14 +1,13 @@
-Bauhinus piperii (G.P. Clinton) Denchev SPECIES
-=======
+# Microbotryum piperi (G.P. Clinton) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 67: 48 (1998)
 
 #### Original name
 Ustilago piperi G.P. Clinton, 1904

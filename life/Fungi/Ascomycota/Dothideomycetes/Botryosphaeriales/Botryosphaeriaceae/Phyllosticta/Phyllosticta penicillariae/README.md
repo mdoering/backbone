@@ -1,5 +1,4 @@
-Phyllosticta penicillariae Speg. SPECIES
-=======
+# Phyllosticta penicillariae Speg. SPECIES
 
 #### Status
 ACCEPTED

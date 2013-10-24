@@ -1,8 +1,7 @@
-Heterothrix tribonematoides Pascher SPECIES
-=======
+# Xanthonema tribonematoides (Pascher) P.C. Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

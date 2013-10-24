@@ -1,5 +1,4 @@
-Chrysanthemum chlorotic SPECIES
-=======
+# Chrysanthemum chlorotic SPECIES
 
 #### Status
 ACCEPTED

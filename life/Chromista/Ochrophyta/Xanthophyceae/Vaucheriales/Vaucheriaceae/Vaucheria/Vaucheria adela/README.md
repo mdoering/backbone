@@ -1,5 +1,4 @@
-Vaucheria adela Ott & Hommersand SPECIES
-=======
+# Vaucheria adela Ott & Hommersand SPECIES
 
 #### Status
 ACCEPTED

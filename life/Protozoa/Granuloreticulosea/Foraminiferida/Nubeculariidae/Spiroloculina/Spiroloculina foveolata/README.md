@@ -1,5 +1,4 @@
-Spiroloculina foveolata Egger SPECIES
-=======
+# Spiroloculina foveolata Egger SPECIES
 
 #### Status
 ACCEPTED

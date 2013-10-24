@@ -1,5 +1,4 @@
-Blastenia erythroleucodes (Nyl.) B. de Lesd. SPECIES
-=======
+# Blastenia erythroleucodes (Nyl.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum melastomacearum (Speg.) Syd. SPECIES
-=======
+# Colletotrichum melastomacearum (Speg.) Syd. SPECIES
 
 #### Status
 ACCEPTED

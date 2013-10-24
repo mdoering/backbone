@@ -1,5 +1,4 @@
-Prathigada puccinioides (Cooke) M.B. Ellis SPECIES
-=======
+# Prathigada puccinioides (Cooke) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

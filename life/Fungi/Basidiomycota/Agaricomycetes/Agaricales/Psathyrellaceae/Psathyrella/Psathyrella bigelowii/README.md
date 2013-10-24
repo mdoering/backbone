@@ -1,5 +1,4 @@
-Psathyrella bigelowii A.H. Sm. SPECIES
-=======
+# Psathyrella bigelowii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

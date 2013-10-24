@@ -1,5 +1,4 @@
-Pholiotina arnoldsii Hauskn. SPECIES
-=======
+# Pholiotina arnoldsii Hauskn. SPECIES
 
 #### Status
 ACCEPTED

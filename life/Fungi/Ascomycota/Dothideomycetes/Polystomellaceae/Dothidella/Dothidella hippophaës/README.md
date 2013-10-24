@@ -1,14 +1,13 @@
-Dothidella hippophaëos (Pass.) Theiss. & Syd. SPECIES
-=======
+# Dothidella hippophaës (Pass.) Theiss. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 13(3/4): 311 (1915)
 
 #### Original name
 Dothidea sambuci f. hippophaëos Pass.

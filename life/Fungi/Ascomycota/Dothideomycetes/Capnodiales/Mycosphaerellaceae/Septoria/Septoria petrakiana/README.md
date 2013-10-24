@@ -1,5 +1,4 @@
-Septoria petrakiana J. Kranz SPECIES
-=======
+# Septoria petrakiana J. Kranz SPECIES
 
 #### Status
 ACCEPTED

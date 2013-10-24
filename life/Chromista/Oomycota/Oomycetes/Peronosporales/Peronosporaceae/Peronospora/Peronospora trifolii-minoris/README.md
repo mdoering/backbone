@@ -1,5 +1,4 @@
-Peronospora trifolii-minoris Gäum. SPECIES
-=======
+# Peronospora trifolii-minoris Gäum. SPECIES
 
 #### Status
 ACCEPTED

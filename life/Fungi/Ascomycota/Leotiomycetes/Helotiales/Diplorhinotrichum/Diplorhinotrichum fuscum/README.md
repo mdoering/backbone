@@ -1,5 +1,4 @@
-Diplorhinotrichum fuscum P.Rag. Rao & D. Rao SPECIES
-=======
+# Diplorhinotrichum fuscum P.Rag. Rao & D. Rao SPECIES
 
 #### Status
 ACCEPTED

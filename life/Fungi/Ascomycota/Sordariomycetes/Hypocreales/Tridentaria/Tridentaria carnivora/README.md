@@ -1,5 +1,4 @@
-Tridentaria carnivora Drechsler, 1937 SPECIES
-=======
+# Tridentaria carnivora Drechsler, 1937 SPECIES
 
 #### Status
 ACCEPTED

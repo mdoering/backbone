@@ -1,5 +1,4 @@
-Yalodendron Capr. GENUS
-=======
+# Yalodendron Capr. GENUS
 
 #### Status
 ACCEPTED

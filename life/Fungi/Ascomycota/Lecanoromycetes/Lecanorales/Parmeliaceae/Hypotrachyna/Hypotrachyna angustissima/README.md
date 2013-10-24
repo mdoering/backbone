@@ -1,5 +1,4 @@
-Hypotrachyna angustissima Marcelli & C. H. Ribeiro SPECIES
-=======
+# Hypotrachyna angustissima Marcelli & C. H. Ribeiro SPECIES
 
 #### Status
 ACCEPTED

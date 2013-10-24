@@ -1,5 +1,4 @@
-Synnematium dandalense Hiremath, Fazalnoor & Anahosur SPECIES
-=======
+# Synnematium dandalense Hiremath, Fazalnoor & Anahosur SPECIES
 
 #### Status
 ACCEPTED

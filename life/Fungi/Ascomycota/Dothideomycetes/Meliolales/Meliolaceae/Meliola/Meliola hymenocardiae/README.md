@@ -1,5 +1,4 @@
-Meliola hymenocardiae Hansf. & Deighton SPECIES
-=======
+# Meliola hymenocardiae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

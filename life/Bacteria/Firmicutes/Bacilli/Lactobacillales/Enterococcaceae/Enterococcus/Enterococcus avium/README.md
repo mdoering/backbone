@@ -1,11 +1,10 @@
-Streptococcus avium Nowlan & Deibel, 1967 SPECIES
-=======
+# Enterococcus avium (ex Nowlan & Deibel, 1967) Collins et al., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

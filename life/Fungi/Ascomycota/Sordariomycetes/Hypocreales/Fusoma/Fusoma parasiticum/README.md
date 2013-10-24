@@ -1,5 +1,4 @@
-Fusoma parasiticum Tubeuf SPECIES
-=======
+# Fusoma parasiticum Tubeuf SPECIES
 
 #### Status
 ACCEPTED

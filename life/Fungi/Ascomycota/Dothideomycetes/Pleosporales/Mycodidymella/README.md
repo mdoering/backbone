@@ -1,5 +1,4 @@
-Mycodidymella C.Z. Wei, Y. Harada & Katum. GENUS
-=======
+# Mycodidymella C.Z. Wei, Y. Harada & Katum. GENUS
 
 #### Status
 ACCEPTED

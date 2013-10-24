@@ -1,5 +1,4 @@
-Umbillicaria virginis SPECIES
-=======
+# Umbillicaria virginis SPECIES
 
 #### Status
 DOUBTFUL

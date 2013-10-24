@@ -1,14 +1,13 @@
-Hydnum macrescens Banker, 1904 SPECIES
-=======
+# Hyphodontia macrescens (Banker ex Peck) Ginns & M.N.L. Lefebvre, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Peck, Bull. N. Y. St. Mus. 75: 15 (1904)
+Mycol. Mem. 19: 89 (1993)
 
 #### Original name
 Hydnum macrescens Banker, 1904

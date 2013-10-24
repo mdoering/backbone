@@ -1,5 +1,4 @@
-Sphaeria mesaedema Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria mesaedema Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium botryoides Sacc. SPECIES
-=======
+# Leptothyrium botryoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

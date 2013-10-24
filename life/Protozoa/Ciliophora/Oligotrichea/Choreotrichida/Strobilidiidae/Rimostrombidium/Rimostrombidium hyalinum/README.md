@@ -1,8 +1,7 @@
-Strobilidium hyalinum Mirabdullayev, 1985 SPECIES
-=======
+# Rimostrombidium hyalinum (Mirabdullaev, 1985) Petz & Foissner, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

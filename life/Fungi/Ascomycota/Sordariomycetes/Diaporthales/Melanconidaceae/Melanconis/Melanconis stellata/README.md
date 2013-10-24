@@ -1,5 +1,4 @@
-Melanconis stellata (Petch) Wehm. SPECIES
-=======
+# Melanconis stellata (Petch) Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Planispirillina denticulogranulata (Chapman, 1907) SPECIES
-=======
+# Planispirillina denticulogranulata (Chapman, 1907) SPECIES
 
 #### Status
 ACCEPTED

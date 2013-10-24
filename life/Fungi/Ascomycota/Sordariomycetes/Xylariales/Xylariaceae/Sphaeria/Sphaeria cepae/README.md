@@ -1,5 +1,4 @@
-Sphaeria cepae Preuss SPECIES
-=======
+# Sphaeria cepae Preuss SPECIES
 
 #### Status
 ACCEPTED

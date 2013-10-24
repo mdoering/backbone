@@ -1,5 +1,4 @@
-Wallrothiella sardoa (Sacc. & Traverso) Kirschst. SPECIES
-=======
+# Wallrothiella sardoa (Sacc. & Traverso) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

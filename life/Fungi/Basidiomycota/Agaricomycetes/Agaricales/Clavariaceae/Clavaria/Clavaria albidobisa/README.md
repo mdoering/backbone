@@ -1,5 +1,4 @@
-Clavaria albidobisa Singer SPECIES
-=======
+# Clavaria albidobisa Singer SPECIES
 
 #### Status
 ACCEPTED

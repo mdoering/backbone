@@ -1,5 +1,4 @@
-Thysanophoron pinkertonii Stirt. SPECIES
-=======
+# Thysanophoron pinkertonii Stirt. SPECIES
 
 #### Status
 ACCEPTED

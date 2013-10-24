@@ -1,5 +1,4 @@
-Spirochaetales Buchanan, 1917 ORDER
-=======
+# Spirochaetales Buchanan, 1917 ORDER
 
 #### Status
 ACCEPTED

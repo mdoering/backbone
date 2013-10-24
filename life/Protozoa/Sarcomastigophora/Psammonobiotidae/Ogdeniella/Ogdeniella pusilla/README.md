@@ -1,11 +1,10 @@
-Amphorellopsis pusilla Chardez, 1977 SPECIES
-=======
+# Ogdeniella pusilla (Chardez, 1977) Golemansky, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

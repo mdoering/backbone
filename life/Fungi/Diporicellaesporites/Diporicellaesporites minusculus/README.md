@@ -1,5 +1,4 @@
-Diporicellaesporites minusculus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Diporicellaesporites minusculus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

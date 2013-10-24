@@ -1,8 +1,7 @@
-Dasyscypha parvulus (E. Bommer & M. Rousseau) Sacc. SPECIES
-=======
+# Dasyscyphus parvulus (E. Bommer & M. Rousseau) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

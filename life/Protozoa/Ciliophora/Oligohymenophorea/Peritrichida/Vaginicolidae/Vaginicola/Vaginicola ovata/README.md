@@ -1,5 +1,4 @@
-Vaginicola ovata Dons /Duj.:, 563, 1922 SPECIES
-=======
+# Vaginicola ovata Dons /Duj.:, 563, 1922 SPECIES
 
 #### Status
 ACCEPTED

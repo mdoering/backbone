@@ -1,5 +1,4 @@
-Thelotrema pauperculum Vain. SPECIES
-=======
+# Thelotrema pauperculum Vain. SPECIES
 
 #### Status
 ACCEPTED

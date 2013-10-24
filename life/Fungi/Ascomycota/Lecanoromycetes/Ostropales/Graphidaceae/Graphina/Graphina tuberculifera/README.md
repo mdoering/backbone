@@ -1,5 +1,4 @@
-Graphina tuberculifera Müll. Arg. SPECIES
-=======
+# Graphina tuberculifera Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rosellinia gaudefroyi Fabre, 1879 SPECIES
-=======
+# Helicogermslita gaudefroyi (Fabre) Laessøe & Spooner, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 6 9: 79 (1879)
+Kew Bull. 49(1): 50 (1994)
 
 #### Original name
 Rosellinia gaudefroyi Fabre, 1879

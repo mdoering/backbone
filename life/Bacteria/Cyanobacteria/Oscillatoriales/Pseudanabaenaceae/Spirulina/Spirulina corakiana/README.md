@@ -1,5 +1,4 @@
-Spirulina corakiana Playfair SPECIES
-=======
+# Spirulina corakiana Playfair SPECIES
 
 #### Status
 ACCEPTED

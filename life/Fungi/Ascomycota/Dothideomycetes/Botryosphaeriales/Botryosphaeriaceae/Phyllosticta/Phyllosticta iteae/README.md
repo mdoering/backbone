@@ -1,5 +1,4 @@
-Phyllosticta iteae C.C. Chen SPECIES
-=======
+# Phyllosticta iteae C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

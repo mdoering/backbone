@@ -1,5 +1,4 @@
-Daedalea hymenopus F. Brig. SPECIES
-=======
+# Daedalea hymenopus F. Brig. SPECIES
 
 #### Status
 ACCEPTED

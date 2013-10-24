@@ -1,5 +1,4 @@
-Mycena melleidisca Murrill SPECIES
-=======
+# Mycena melleidisca Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria siliquosarum Schwein. SPECIES
-=======
+# Sphaeria siliquosarum Schwein. SPECIES
 
 #### Status
 ACCEPTED

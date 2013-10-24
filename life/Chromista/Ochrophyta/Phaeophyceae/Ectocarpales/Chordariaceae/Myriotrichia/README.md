@@ -1,5 +1,4 @@
-Myriotrichia Harvey, 1834 GENUS
-=======
+# Myriotrichia Harvey, 1834 GENUS
 
 #### Status
 ACCEPTED

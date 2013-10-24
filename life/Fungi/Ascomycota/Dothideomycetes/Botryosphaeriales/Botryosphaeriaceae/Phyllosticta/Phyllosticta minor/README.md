@@ -1,5 +1,4 @@
-Phyllosticta minor Ellis & Everh. SPECIES
-=======
+# Phyllosticta minor Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

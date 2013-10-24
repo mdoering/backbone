@@ -1,5 +1,4 @@
-Phomopsis mongolica Petr. SPECIES
-=======
+# Phomopsis mongolica Petr. SPECIES
 
 #### Status
 ACCEPTED

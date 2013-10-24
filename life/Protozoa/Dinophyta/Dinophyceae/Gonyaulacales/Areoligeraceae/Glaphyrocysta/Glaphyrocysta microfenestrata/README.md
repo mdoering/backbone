@@ -1,5 +1,4 @@
-Glaphyrocysta microfenestrata (Bujak, 1976) Stover & Evitt SPECIES
-=======
+# Glaphyrocysta microfenestrata (Bujak, 1976) Stover & Evitt SPECIES
 
 #### Status
 ACCEPTED

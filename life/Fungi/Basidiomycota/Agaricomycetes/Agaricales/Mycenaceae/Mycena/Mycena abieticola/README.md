@@ -1,5 +1,4 @@
-Mycena abieticola Singer SPECIES
-=======
+# Mycena abieticola Singer SPECIES
 
 #### Status
 ACCEPTED

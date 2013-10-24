@@ -1,5 +1,4 @@
-Aspergillus muricatus Udagawa, Uchiy. & Kamiya SPECIES
-=======
+# Aspergillus muricatus Udagawa, Uchiy. & Kamiya SPECIES
 
 #### Status
 ACCEPTED

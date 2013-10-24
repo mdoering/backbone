@@ -1,5 +1,4 @@
-Sirodothis saligna (Höhn.) B. Sutton & A. Funk SPECIES
-=======
+# Sirodothis saligna (Höhn.) B. Sutton & A. Funk SPECIES
 
 #### Status
 ACCEPTED

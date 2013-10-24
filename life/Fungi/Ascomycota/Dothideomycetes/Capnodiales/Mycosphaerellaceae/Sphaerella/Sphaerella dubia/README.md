@@ -1,5 +1,4 @@
-Sphaerella dubia (Miles) Sacc. SPECIES
-=======
+# Sphaerella dubia (Miles) Sacc. SPECIES
 
 #### Status
 ACCEPTED

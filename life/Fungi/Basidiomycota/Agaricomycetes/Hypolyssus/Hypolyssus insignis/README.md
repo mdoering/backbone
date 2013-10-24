@@ -1,5 +1,4 @@
-Hypolyssus insignis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Hypolyssus insignis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

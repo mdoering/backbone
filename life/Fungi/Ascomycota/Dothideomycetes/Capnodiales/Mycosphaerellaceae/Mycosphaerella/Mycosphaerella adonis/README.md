@@ -1,5 +1,4 @@
-Mycosphaerella adonis (Sacc.) Lindau SPECIES
-=======
+# Mycosphaerella adonis (Sacc.) Lindau SPECIES
 
 #### Status
 ACCEPTED

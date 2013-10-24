@@ -1,5 +1,4 @@
-Hadziella thermalis Bole, 1992 SPECIES
-=======
+# Hadziella thermalis Bole, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elphidium incertum SPECIES
-=======
+# Elphidium incertum SPECIES
 
 #### Status
 ACCEPTED

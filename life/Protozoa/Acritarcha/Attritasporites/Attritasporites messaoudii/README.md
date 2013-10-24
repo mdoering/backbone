@@ -1,5 +1,4 @@
-Attritasporites messaoudii Combaz, 1967 SPECIES
-=======
+# Attritasporites messaoudii Combaz, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula uncialiformis Murrill SPECIES
-=======
+# Russula uncialiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cetraria rhizophora (Vain.) Rass. SPECIES
-=======
+# Cetraria rhizophora (Vain.) Rass. SPECIES
 
 #### Status
 ACCEPTED

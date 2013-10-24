@@ -1,5 +1,4 @@
-Lepiota sinopica Romagn. SPECIES
-=======
+# Lepiota sinopica Romagn. SPECIES
 
 #### Status
 ACCEPTED

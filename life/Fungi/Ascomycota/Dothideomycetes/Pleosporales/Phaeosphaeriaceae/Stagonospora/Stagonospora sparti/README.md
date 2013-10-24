@@ -1,5 +1,4 @@
-Stagonospora sparti Tassi SPECIES
-=======
+# Stagonospora sparti Tassi SPECIES
 
 #### Status
 ACCEPTED

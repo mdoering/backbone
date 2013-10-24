@@ -1,5 +1,4 @@
-Thysanorea Arzanlou, W. Gams & Crous GENUS
-=======
+# Thysanorea Arzanlou, W. Gams & Crous GENUS
 
 #### Status
 ACCEPTED

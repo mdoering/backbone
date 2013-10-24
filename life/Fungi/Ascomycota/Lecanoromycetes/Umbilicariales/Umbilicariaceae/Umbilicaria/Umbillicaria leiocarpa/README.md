@@ -1,5 +1,4 @@
-Umbillicaria leiocarpa DC. SPECIES
-=======
+# Umbillicaria leiocarpa DC. SPECIES
 
 #### Status
 DOUBTFUL

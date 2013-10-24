@@ -1,5 +1,4 @@
-Phyllosticta pfaffii Bubák SPECIES
-=======
+# Phyllosticta pfaffii Bubák SPECIES
 
 #### Status
 ACCEPTED

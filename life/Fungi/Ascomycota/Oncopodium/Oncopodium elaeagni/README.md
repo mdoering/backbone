@@ -1,5 +1,4 @@
-Oncopodium elaeagni Magyar SPECIES
-=======
+# Oncopodium elaeagni Magyar SPECIES
 
 #### Status
 ACCEPTED

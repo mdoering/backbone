@@ -1,5 +1,4 @@
-Arthonia fusispora Almq. SPECIES
-=======
+# Arthonia fusispora Almq. SPECIES
 
 #### Status
 ACCEPTED

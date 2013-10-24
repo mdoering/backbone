@@ -1,5 +1,4 @@
-Sarcographa torquescens (Nyl.) Zahlbr. SPECIES
-=======
+# Sarcographa torquescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

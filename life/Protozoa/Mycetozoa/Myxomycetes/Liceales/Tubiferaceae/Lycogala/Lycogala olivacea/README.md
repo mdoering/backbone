@@ -1,5 +1,4 @@
-Lycogala olivacea Link SPECIES
-=======
+# Lycogala olivacea Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria simplex Wallr. SPECIES
-=======
+# Patellaria simplex Wallr. SPECIES
 
 #### Status
 ACCEPTED

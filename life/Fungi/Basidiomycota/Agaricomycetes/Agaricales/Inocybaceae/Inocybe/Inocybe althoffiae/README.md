@@ -1,5 +1,4 @@
-Inocybe althoffiae E. Horak SPECIES
-=======
+# Inocybe althoffiae E. Horak SPECIES
 
 #### Status
 ACCEPTED

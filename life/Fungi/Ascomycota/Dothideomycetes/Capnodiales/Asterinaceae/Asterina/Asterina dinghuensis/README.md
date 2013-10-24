@@ -1,5 +1,4 @@
-Asterina dinghuensis B. Song, T.H. Li & Y.H. Shen, 2004 SPECIES
-=======
+# Asterina dinghuensis B. Song, T.H. Li & Y.H. Shen, 2004 SPECIES
 
 #### Status
 ACCEPTED

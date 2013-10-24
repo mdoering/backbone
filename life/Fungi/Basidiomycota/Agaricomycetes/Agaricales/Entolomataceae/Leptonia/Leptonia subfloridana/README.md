@@ -1,5 +1,4 @@
-Leptonia subfloridana Murrill SPECIES
-=======
+# Leptonia subfloridana Murrill SPECIES
 
 #### Status
 ACCEPTED

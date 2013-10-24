@@ -1,17 +1,16 @@
-Poria eupora f. eupora FORM
-=======
+# Junghuhnia meridionalis (Rajchenb.) Rajchenb., 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aust. Syst. Bot. 16(4): 477 (2003)
 
 #### Original name
-null
+Junghuhnia collabens var. meridionalis Rajchenb., 1988
 
 ### Remarks
 null

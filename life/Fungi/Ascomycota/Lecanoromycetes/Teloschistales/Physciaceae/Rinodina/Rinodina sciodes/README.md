@@ -1,5 +1,4 @@
-Rinodina sciodes (Nyl.) H. Olivier SPECIES
-=======
+# Rinodina sciodes (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

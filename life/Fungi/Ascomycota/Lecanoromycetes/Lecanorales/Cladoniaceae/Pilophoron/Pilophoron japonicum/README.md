@@ -1,5 +1,4 @@
-Pilophoron japonicum Zahlbr. SPECIES
-=======
+# Pilophoron japonicum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

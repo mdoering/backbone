@@ -1,5 +1,4 @@
-Pertusaria thomsoniana Zahlbr. SPECIES
-=======
+# Pertusaria thomsoniana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

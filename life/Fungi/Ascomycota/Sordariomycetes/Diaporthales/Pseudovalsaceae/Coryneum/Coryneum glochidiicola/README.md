@@ -1,17 +1,16 @@
-Coryneum glochidicola Seshadri SPECIES
-=======
+# Coryneum glochidiicola Seshadri SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 30: 182 (1966)
 
 #### Original name
-Coryneum glochidicola Seshadri
+Coryneum glochidiicola Seshadri
 
 ### Remarks
 null

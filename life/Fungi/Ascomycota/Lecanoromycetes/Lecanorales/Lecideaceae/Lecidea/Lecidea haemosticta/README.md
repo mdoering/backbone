@@ -1,5 +1,4 @@
-Lecidea haemosticta SPECIES
-=======
+# Lecidea haemosticta SPECIES
 
 #### Status
 ACCEPTED

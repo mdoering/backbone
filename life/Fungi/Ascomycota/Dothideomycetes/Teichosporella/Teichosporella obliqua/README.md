@@ -1,5 +1,4 @@
-Teichosporella obliqua Sacc. SPECIES
-=======
+# Teichosporella obliqua Sacc. SPECIES
 
 #### Status
 ACCEPTED

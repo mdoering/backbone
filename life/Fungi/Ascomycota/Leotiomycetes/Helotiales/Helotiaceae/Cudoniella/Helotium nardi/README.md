@@ -1,5 +1,4 @@
-Helotium nardi Velen. SPECIES
-=======
+# Helotium nardi Velen. SPECIES
 
 #### Status
 ACCEPTED

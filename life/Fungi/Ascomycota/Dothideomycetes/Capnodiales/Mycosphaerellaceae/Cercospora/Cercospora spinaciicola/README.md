@@ -1,5 +1,4 @@
-Cercospora spinaciicola (Sacc.) Vassiljevsky SPECIES
-=======
+# Cercospora spinaciicola (Sacc.) Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

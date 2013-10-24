@@ -1,5 +1,4 @@
-Maribius salinus Choi, Cho, Lanoil, Giovannoni & Cho, 2007 SPECIES
-=======
+# Maribius salinus Choi, Cho, Lanoil, Giovannoni & Cho, 2007 SPECIES
 
 #### Status
 ACCEPTED

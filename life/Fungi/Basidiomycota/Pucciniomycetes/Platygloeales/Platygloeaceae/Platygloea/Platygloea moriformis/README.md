@@ -1,5 +1,4 @@
-Platygloea moriformis Rick SPECIES
-=======
+# Platygloea moriformis Rick SPECIES
 
 #### Status
 ACCEPTED

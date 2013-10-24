@@ -1,5 +1,4 @@
-Geleia murmanica Raikov, 1962 SPECIES
-=======
+# Geleia murmanica Raikov, 1962 SPECIES
 
 #### Status
 ACCEPTED

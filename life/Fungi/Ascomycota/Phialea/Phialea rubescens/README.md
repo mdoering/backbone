@@ -1,5 +1,4 @@
-Phialea rubescens (Saut.) Sacc. SPECIES
-=======
+# Phialea rubescens (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia gaultheriae Aa, 1973 SPECIES
-=======
+# Guignardia gaultheriae Aa, 1973 SPECIES
 
 #### Status
 ACCEPTED

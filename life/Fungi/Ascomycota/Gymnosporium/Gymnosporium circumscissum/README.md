@@ -1,5 +1,4 @@
-Gymnosporium circumscissum Berk. & Broome SPECIES
-=======
+# Gymnosporium circumscissum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

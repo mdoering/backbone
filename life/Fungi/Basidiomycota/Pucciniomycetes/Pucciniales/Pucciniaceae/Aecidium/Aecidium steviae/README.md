@@ -1,5 +1,4 @@
-Aecidium steviae Henn. SPECIES
-=======
+# Aecidium steviae Henn. SPECIES
 
 #### Status
 ACCEPTED

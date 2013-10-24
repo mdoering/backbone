@@ -1,5 +1,4 @@
-Tricornia Pell & E.U. Canning GENUS
-=======
+# Tricornia Pell & E.U. Canning GENUS
 
 #### Status
 ACCEPTED

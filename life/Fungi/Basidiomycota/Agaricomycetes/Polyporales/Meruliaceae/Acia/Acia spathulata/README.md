@@ -1,5 +1,4 @@
-Acia spathulata (Schwein.) P. Karst. SPECIES
-=======
+# Acia spathulata (Schwein.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

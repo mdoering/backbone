@@ -1,17 +1,16 @@
-Selenophoma capparidis Koshk. & Frolov SPECIES
-=======
+# Selenophoma capparis Koshk. & Frolov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mikoflora Podgornoi Raviniy Kopetdaga i Tsentral'nykh Karakumov [Mycoflora of the mountainous plains of Kopet Dagh and Central Kara Kum] (Ashkhabad) 109 (1973)
 
 #### Original name
-Selenophoma capparidis Koshk. & Frolov
+Selenophoma capparis Koshk. & Frolov
 
 ### Remarks
 null

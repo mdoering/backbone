@@ -1,5 +1,4 @@
-Endopyrenium verruculosum Müll. Arg. SPECIES
-=======
+# Endopyrenium verruculosum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

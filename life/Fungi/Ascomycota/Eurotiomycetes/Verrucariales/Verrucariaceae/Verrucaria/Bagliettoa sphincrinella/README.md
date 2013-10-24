@@ -1,5 +1,4 @@
-Bagliettoa sphincrinella SPECIES
-=======
+# Bagliettoa sphincrinella SPECIES
 
 #### Status
 ACCEPTED

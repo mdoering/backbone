@@ -1,5 +1,4 @@
-Entoloma coeruleogracilis G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma coeruleogracilis G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

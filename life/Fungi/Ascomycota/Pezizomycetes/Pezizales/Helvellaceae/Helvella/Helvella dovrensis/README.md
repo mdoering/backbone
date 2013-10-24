@@ -1,5 +1,4 @@
-Helvella dovrensis T. Schumach. SPECIES
-=======
+# Helvella dovrensis T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

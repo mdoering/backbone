@@ -1,5 +1,4 @@
-Pringsheimia oldenlandiae Chona, Munjal & J.N. Kapoor SPECIES
-=======
+# Pringsheimia oldenlandiae Chona, Munjal & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha crenulata Mont. & Bosch SPECIES
-=======
+# Opegrapha crenulata Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria scabrispora (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Naucoria scabrispora (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

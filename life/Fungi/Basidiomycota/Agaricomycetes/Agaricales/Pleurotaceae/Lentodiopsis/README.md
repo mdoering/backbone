@@ -1,5 +1,4 @@
-Lentodiopsis GENUS
-=======
+# Lentodiopsis GENUS
 
 #### Status
 ACCEPTED

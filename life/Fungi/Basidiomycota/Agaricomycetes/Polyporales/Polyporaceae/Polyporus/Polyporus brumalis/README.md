@@ -1,17 +1,16 @@
-Polyporellus brumalis f. brumalis FORM
-=======
+# Polyporus brumalis (Pers.) Fr., 1818 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 5: 37 (1879)
+Observ. mycol. (Havniae) 2: 255 (1818)
 
 #### Original name
-Polyporellus brumalis f. brumalis
+Boletus brumalis Pers., 1794
 
 ### Remarks
 null

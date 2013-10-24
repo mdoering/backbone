@@ -1,5 +1,4 @@
-Mycena bullata Métrod SPECIES
-=======
+# Mycena bullata Métrod SPECIES
 
 #### Status
 ACCEPTED

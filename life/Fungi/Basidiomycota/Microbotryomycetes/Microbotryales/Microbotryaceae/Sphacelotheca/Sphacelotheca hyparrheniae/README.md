@@ -1,5 +1,4 @@
-Sphacelotheca hyparrheniae f. hyparrheniae FORM
-=======
+# Sphacelotheca hyparrheniae (Beeli) Zambett. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. trimest. Soc. mycol. Fr. 95(4): 414 (1980)
 
 #### Original name
-Sphacelotheca hyparrheniae f. hyparrheniae
+Ustilago hyparrheniae J.C.F. Hopkins
 
 ### Remarks
 null

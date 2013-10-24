@@ -1,5 +1,4 @@
-Laestadia consociata (Ellis & Harkn.) Cooke SPECIES
-=======
+# Laestadia consociata (Ellis & Harkn.) Cooke SPECIES
 
 #### Status
 ACCEPTED

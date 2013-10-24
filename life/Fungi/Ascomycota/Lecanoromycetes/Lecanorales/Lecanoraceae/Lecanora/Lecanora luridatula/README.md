@@ -1,5 +1,4 @@
-Lecanora luridatula Nyl. SPECIES
-=======
+# Lecanora luridatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

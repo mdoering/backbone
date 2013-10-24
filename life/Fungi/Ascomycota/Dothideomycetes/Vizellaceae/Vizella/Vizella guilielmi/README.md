@@ -1,5 +1,4 @@
-Vizella guilielmi Rehm SPECIES
-=======
+# Vizella guilielmi Rehm SPECIES
 
 #### Status
 ACCEPTED

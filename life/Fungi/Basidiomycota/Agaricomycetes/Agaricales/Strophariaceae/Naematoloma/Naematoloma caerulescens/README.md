@@ -1,8 +1,7 @@
-Nematoloma caerulescens Pat. SPECIES
-=======
+# Naematoloma caerulescens Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nematoloma caerulescens Pat.
+Naematoloma caerulescens Pat.
 
 ### Remarks
 null

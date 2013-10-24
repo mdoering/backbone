@@ -1,5 +1,4 @@
-Hydropus fluvialis var. fluvialis VARIETY
-=======
+# Hydropus fluvialis Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fl. Neotrop. , Monogr. 32: 33 (1982)
 
 #### Original name
-Hydropus fluvialis var. fluvialis
+Hydropus fluvialis Singer
 
 ### Remarks
 null

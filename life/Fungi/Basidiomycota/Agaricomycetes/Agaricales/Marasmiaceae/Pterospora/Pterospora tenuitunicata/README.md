@@ -1,5 +1,4 @@
-Pterospora tenuitunicata (Singer) E. Horak SPECIES
-=======
+# Pterospora tenuitunicata (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Evernia arenaria f. arenaria FORM
-=======
+# Evernia arenaria (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

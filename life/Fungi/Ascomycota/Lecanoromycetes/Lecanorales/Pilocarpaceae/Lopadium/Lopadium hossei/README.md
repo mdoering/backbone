@@ -1,5 +1,4 @@
-Lopadium hossei (Vain.) Zahlbr. SPECIES
-=======
+# Lopadium hossei (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

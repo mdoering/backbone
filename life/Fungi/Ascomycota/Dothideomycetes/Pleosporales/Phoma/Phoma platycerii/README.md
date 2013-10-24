@@ -1,5 +1,4 @@
-Phoma platycerii Tassi SPECIES
-=======
+# Phoma platycerii Tassi SPECIES
 
 #### Status
 ACCEPTED

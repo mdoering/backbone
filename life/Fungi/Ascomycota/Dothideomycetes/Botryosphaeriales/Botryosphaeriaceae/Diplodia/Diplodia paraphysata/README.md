@@ -1,5 +1,4 @@
-Diplodia paraphysata Ellis & Everh. SPECIES
-=======
+# Diplodia paraphysata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaseliforma Pessagno, 1972 GENUS
-=======
+# Phaseliforma Pessagno, 1972 GENUS
 
 #### Status
 ACCEPTED

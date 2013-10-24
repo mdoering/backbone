@@ -1,5 +1,4 @@
-Lagynus laevis Quennerstedt SPECIES
-=======
+# Lagynus laevis Quennerstedt SPECIES
 
 #### Status
 ACCEPTED

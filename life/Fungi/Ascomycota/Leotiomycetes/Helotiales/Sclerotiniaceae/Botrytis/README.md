@@ -1,17 +1,16 @@
-Penicillium corymbiferum Westling, 1911 SPECIES
-=======
+# Botrytis P. Micheli ex Pers. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Neues Mag. Bot. 1: 120 (1794)
 
 #### Original name
-null
+Botrytis P. Micheli ex Pers.
 
 ### Remarks
 null

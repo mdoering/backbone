@@ -1,5 +1,4 @@
-Porina blechnicola Lücking, P.M. McCarthy & Kantvilas, 2001 SPECIES
-=======
+# Porina blechnicola Lücking, P.M. McCarthy & Kantvilas, 2001 SPECIES
 
 #### Status
 DOUBTFUL

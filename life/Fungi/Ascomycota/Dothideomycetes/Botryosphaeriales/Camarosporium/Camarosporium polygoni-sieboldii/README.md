@@ -1,5 +1,4 @@
-Camarosporium polygoni-sieboldii Henn. SPECIES
-=======
+# Camarosporium polygoni-sieboldii Henn. SPECIES
 
 #### Status
 ACCEPTED

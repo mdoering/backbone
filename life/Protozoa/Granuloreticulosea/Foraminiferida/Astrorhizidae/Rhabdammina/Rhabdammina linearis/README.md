@@ -1,5 +1,4 @@
-Rhabdammina linearis SPECIES
-=======
+# Rhabdammina linearis SPECIES
 
 #### Status
 ACCEPTED

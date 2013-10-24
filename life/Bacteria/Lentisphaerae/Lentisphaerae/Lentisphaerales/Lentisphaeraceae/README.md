@@ -1,5 +1,4 @@
-Lentisphaeraceae Cho, Vergin, Morris & Giovannoni, 2004 FAMILY
-=======
+# Lentisphaeraceae Cho, Vergin, Morris & Giovannoni, 2004 FAMILY
 
 #### Status
 ACCEPTED

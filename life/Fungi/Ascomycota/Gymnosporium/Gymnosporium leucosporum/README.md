@@ -1,5 +1,4 @@
-Gymnosporium leucosporum Mont. SPECIES
-=======
+# Gymnosporium leucosporum Mont. SPECIES
 
 #### Status
 ACCEPTED

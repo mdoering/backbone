@@ -1,5 +1,4 @@
-Rhizopogon sardous Pacioni SPECIES
-=======
+# Rhizopogon sardous Pacioni SPECIES
 
 #### Status
 ACCEPTED

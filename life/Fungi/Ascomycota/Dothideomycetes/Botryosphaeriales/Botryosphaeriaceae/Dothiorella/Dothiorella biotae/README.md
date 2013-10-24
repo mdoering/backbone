@@ -1,5 +1,4 @@
-Dothiorella biotae Schwarzman SPECIES
-=======
+# Dothiorella biotae Schwarzman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizotorulopsis aspora Eykmann {?} ex Cif. & Redaelli SPECIES
-=======
+# Schizotorulopsis aspora Eykmann {?} ex Cif. & Redaelli SPECIES
 
 #### Status
 ACCEPTED

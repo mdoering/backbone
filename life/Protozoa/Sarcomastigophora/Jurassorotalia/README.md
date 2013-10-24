@@ -1,5 +1,4 @@
-Jurassorotalia Fuchs, 1973 GENUS
-=======
+# Jurassorotalia Fuchs, 1973 GENUS
 
 #### Status
 ACCEPTED

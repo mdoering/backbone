@@ -1,14 +1,13 @@
-Calycina maritima (Desm. & Roberge) Kuntze, 1898 SPECIES
-=======
+# Rutstroemia maritima (Roberge ex Desm.) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 448 (1898)
+Persoonia 3(1): 52 (1964)
 
 #### Original name
 null

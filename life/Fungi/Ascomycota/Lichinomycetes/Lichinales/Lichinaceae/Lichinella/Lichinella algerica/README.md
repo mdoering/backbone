@@ -1,5 +1,4 @@
-Lichinella algerica (J. Steiner) P.P. Moreno & Egea SPECIES
-=======
+# Lichinella algerica (J. Steiner) P.P. Moreno & Egea SPECIES
 
 #### Status
 ACCEPTED

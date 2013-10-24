@@ -1,5 +1,4 @@
-Aciculoplites ethopiensis Foissner & Gabilondo in Gabilondo & Foissner, 2009 SPECIES
-=======
+# Aciculoplites ethopiensis Foissner & Gabilondo in Gabilondo & Foissner, 2009 SPECIES
 
 #### Status
 ACCEPTED

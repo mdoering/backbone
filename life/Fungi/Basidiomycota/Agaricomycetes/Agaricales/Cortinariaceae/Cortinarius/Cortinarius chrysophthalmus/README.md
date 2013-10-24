@@ -1,14 +1,13 @@
-Cortinarius chrysophthalma (M.M. Moser) Kuhn.-Fink. & Peintner SPECIES
-=======
+# Cortinarius chrysophthalmus (M.M. Moser) Kuhn.-Fink. & Peintner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 87: 115 (2003)
 
 #### Original name
 Dermocybe chrysophthalma M.M. Moser

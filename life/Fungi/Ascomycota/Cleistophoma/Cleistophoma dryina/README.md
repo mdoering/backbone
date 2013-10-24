@@ -1,14 +1,13 @@
-Phoma dryina (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Cleistophoma dryina (Berk. & M.A. Curtis) Petr. & Syd., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Feddes Repert. , Beih. 42: 295 (1927)
 
 #### Original name
 null

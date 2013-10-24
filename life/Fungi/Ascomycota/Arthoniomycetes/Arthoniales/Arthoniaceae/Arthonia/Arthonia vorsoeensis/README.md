@@ -1,5 +1,4 @@
-Arthonia vorsoeensis Alstrup SPECIES
-=======
+# Arthonia vorsoeensis Alstrup SPECIES
 
 #### Status
 ACCEPTED

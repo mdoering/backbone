@@ -1,5 +1,4 @@
-Zanchia Rick GENUS
-=======
+# Zanchia Rick GENUS
 
 #### Status
 ACCEPTED

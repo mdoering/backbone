@@ -1,8 +1,7 @@
-Phacidium calthae W. Phillips, 1879 SPECIES
-=======
+# Pseudopeziza calthae (W. Phillips) Massee, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

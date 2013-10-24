@@ -1,5 +1,4 @@
-Xanthoparmelia inopinata Elix SPECIES
-=======
+# Xanthoparmelia inopinata Elix SPECIES
 
 #### Status
 ACCEPTED

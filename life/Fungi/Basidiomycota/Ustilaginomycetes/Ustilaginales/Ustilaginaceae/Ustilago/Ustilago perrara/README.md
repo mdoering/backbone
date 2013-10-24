@@ -1,5 +1,4 @@
-Ustilago perrara H. Scholz & I. Scholz SPECIES
-=======
+# Ustilago perrara H. Scholz & I. Scholz SPECIES
 
 #### Status
 ACCEPTED

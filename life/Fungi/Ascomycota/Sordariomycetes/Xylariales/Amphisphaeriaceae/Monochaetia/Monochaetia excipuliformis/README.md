@@ -1,5 +1,4 @@
-Monochaetia excipuliformis Bubák SPECIES
-=======
+# Monochaetia excipuliformis Bubák SPECIES
 
 #### Status
 ACCEPTED

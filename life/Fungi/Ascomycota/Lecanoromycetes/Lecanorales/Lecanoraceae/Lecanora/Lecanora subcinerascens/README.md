@@ -1,5 +1,4 @@
-Lecanora subcinerascens Vain. SPECIES
-=======
+# Lecanora subcinerascens Vain. SPECIES
 
 #### Status
 ACCEPTED

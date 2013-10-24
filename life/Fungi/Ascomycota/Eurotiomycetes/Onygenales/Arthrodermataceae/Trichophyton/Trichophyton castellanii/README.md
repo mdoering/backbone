@@ -1,5 +1,4 @@
-Trichophyton castellanii A. Perry SPECIES
-=======
+# Trichophyton castellanii A. Perry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Trichopeziza chrysotricha (Berk.) Sacc., 1889 SPECIES
-=======
+# Dicephalospora chrysotricha (Berk.) Verkley, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 411 (1889)
+Sydowia 56(2): 344 (2004)
 
 #### Original name
 null

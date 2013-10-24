@@ -1,5 +1,4 @@
-Rhizoctonia subepigaea Bertoni {?} SPECIES
-=======
+# Rhizoctonia subepigaea Bertoni {?} SPECIES
 
 #### Status
 ACCEPTED

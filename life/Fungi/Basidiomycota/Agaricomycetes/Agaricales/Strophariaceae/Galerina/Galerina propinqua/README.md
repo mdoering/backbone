@@ -1,5 +1,4 @@
-Galerina propinqua Bas SPECIES
-=======
+# Galerina propinqua Bas SPECIES
 
 #### Status
 ACCEPTED

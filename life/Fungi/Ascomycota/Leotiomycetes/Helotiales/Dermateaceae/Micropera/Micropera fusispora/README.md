@@ -1,5 +1,4 @@
-Micropera fusispora Höhn. SPECIES
-=======
+# Micropera fusispora Höhn. SPECIES
 
 #### Status
 ACCEPTED

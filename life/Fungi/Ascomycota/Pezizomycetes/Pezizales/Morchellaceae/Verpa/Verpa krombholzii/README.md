@@ -1,17 +1,16 @@
-Verpa krombholzii var. krombholzii VARIETY
-=======
+# Verpa krombholzii Corda, 1828 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3: fig. 1 (1828)
 
 #### Original name
-Verpa krombholzii var. krombholzii
+Verpa krombholzii Corda, 1828
 
 ### Remarks
 null

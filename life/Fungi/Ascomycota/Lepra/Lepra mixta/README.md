@@ -1,5 +1,4 @@
-Lepra mixta Hoffm. SPECIES
-=======
+# Lepra mixta Hoffm. SPECIES
 
 #### Status
 ACCEPTED

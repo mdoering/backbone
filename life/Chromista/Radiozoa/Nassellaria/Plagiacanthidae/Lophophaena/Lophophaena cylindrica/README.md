@@ -1,5 +1,4 @@
-Lophophaena cylindrica (Cleve) Petrushevskaya, 1971 SPECIES
-=======
+# Lophophaena cylindrica (Cleve) Petrushevskaya, 1971 SPECIES
 
 #### Status
 ACCEPTED

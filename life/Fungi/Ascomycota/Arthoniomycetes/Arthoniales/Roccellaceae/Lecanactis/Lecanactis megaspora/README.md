@@ -1,5 +1,4 @@
-Lecanactis megaspora (G. Merr.) Brodo SPECIES
-=======
+# Lecanactis megaspora (G. Merr.) Brodo SPECIES
 
 #### Status
 ACCEPTED

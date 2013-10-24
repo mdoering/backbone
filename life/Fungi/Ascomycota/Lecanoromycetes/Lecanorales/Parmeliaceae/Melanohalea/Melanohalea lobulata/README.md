@@ -1,5 +1,4 @@
-Melanohalea lobulata F. G. Meng & H. Y. Wang SPECIES
-=======
+# Melanohalea lobulata F. G. Meng & H. Y. Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Puccinia rubigo-vera f. sp FORM
-=======
+# Puccinia striiformis Westend., 1854 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Mich. Acad. Sci. 17: 344 (1933)
+null
 
 #### Original name
-Puccinia rubigo-vera f. sp
+null
 
 ### Remarks
 null

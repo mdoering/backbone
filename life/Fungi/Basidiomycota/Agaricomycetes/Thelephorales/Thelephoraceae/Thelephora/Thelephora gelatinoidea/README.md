@@ -1,5 +1,4 @@
-Thelephora gelatinoidea Lloyd SPECIES
-=======
+# Thelephora gelatinoidea Lloyd SPECIES
 
 #### Status
 ACCEPTED

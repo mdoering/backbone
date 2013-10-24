@@ -1,14 +1,13 @@
-Thelocarpon intermixtulum var. olivaceum (B. de Lesd.) H. Magn. VARIETY
-=======
+# Thelocarpon olivaceum B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenhorst's Kryptogamenflora (Leipzig) 9(5,1): 309 (1935)
+Recherch. Lich. Dunkerque 1(Suppl. ): 149 (1914)
 
 #### Original name
 Thelocarpon olivaceum B. de Lesd.

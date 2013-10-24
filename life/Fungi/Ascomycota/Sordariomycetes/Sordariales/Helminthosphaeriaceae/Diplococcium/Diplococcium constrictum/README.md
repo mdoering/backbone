@@ -1,5 +1,4 @@
-Diplococcium constrictum (C.J.K. Wang & B. Sutton) R.C. Sinclair, Eicker & Bhat SPECIES
-=======
+# Diplococcium constrictum (C.J.K. Wang & B. Sutton) R.C. Sinclair, Eicker & Bhat SPECIES
 
 #### Status
 ACCEPTED

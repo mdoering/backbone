@@ -1,5 +1,4 @@
-Prillieuxina amazonica (Syd. & P. Syd.) R.W. Ryan SPECIES
-=======
+# Prillieuxina amazonica (Syd. & P. Syd.) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

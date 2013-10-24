@@ -1,5 +1,4 @@
-Lichen squamosus Hoffm. SPECIES
-=======
+# Lichen squamosus Hoffm. SPECIES
 
 #### Status
 ACCEPTED

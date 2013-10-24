@@ -1,5 +1,4 @@
-Septoria septulata Beach SPECIES
-=======
+# Septoria septulata Beach SPECIES
 
 #### Status
 ACCEPTED

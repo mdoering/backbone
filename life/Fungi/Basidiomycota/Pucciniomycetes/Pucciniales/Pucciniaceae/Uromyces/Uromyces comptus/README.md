@@ -1,5 +1,4 @@
-Uromyces comptus Syd. & P. Syd. SPECIES
-=======
+# Uromyces comptus Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma phyllogenum Peck SPECIES
-=======
+# Hypholoma phyllogenum Peck SPECIES
 
 #### Status
 ACCEPTED

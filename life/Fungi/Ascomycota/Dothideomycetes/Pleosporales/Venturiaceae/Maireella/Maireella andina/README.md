@@ -1,5 +1,4 @@
-Maireella andina (Chardón) Petr. SPECIES
-=======
+# Maireella andina (Chardón) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amoenomyces R.F. Castañeda, Saikawa & Hennebert GENUS
-=======
+# Amoenomyces R.F. Castañeda, Saikawa & Hennebert GENUS
 
 #### Status
 ACCEPTED

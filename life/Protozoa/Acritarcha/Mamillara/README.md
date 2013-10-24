@@ -1,5 +1,4 @@
-Mamillara S.N. Naumova, 1968 GENUS
-=======
+# Mamillara S.N. Naumova, 1968 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma pyrina (Fr.) Cooke SPECIES
-=======
+# Phoma pyrina (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

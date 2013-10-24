@@ -1,5 +1,4 @@
-Ploesconia truncata SPECIES
-=======
+# Ploesconia truncata SPECIES
 
 #### Status
 ACCEPTED

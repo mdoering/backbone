@@ -1,17 +1,16 @@
-Lachnobolus congestus (Sommerf.) Cooke SPECIES
-=======
+# Arcyodes incarnata (Alb. & Schwein.) O.F. Cook, 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contr. Mycol. Brit. 74 (1877)
+Science, N. Y. 15: 651 (1902)
 
 #### Original name
-Physarum congestum Sommerf., 1826
+Licea incarnata Alb. & Schwein., 1805
 
 ### Remarks
 null

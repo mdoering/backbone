@@ -1,5 +1,4 @@
-Lecidea reuteri Müll. Arg. SPECIES
-=======
+# Lecidea reuteri Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

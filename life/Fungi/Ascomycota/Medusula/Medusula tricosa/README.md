@@ -1,5 +1,4 @@
-Medusula tricosa (Ach.) Mont. SPECIES
-=======
+# Medusula tricosa (Ach.) Mont. SPECIES
 
 #### Status
 ACCEPTED

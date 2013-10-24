@@ -1,5 +1,4 @@
-Asteroma hederae Quest. {?} SPECIES
-=======
+# Asteroma hederae Quest. {?} SPECIES
 
 #### Status
 ACCEPTED

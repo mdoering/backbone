@@ -1,5 +1,4 @@
-Gnomonia geranii-macrorrhizi Fakirova SPECIES
-=======
+# Gnomonia geranii-macrorrhizi Fakirova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eremotheca sapotaceae Bat. & Cavalc. SPECIES
-=======
+# Eremotheca sapotaceae Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

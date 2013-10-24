@@ -1,14 +1,13 @@
-Mucor sexualis G. Sm., 1939 SPECIES
-=======
+# Rhizopus sexualis (G. Sm.) Callen, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 22: 252 (1939)
+J. agric. Soc. Japan 4: 793 (1940)
 
 #### Original name
 Mucor sexualis G. Sm., 1939

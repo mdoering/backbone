@@ -1,5 +1,4 @@
-Puccinia redempta H.S. Jacks. SPECIES
-=======
+# Puccinia redempta H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

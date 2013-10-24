@@ -1,5 +1,4 @@
-Sphaeria tubericola Schwein. SPECIES
-=======
+# Sphaeria tubericola Schwein. SPECIES
 
 #### Status
 ACCEPTED

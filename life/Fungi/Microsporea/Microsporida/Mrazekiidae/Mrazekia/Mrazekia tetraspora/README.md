@@ -1,5 +1,4 @@
-Mrazekia tetraspora L. Léger & E. Hesse SPECIES
-=======
+# Mrazekia tetraspora L. Léger & E. Hesse SPECIES
 
 #### Status
 ACCEPTED

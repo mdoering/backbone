@@ -1,5 +1,4 @@
-Paraepiseptum M. Hyli, M. Oborník, J. Nebesárová & J. Vávra GENUS
-=======
+# Paraepiseptum M. Hyli, M. Oborník, J. Nebesárová & J. Vávra GENUS
 
 #### Status
 ACCEPTED

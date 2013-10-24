@@ -1,14 +1,13 @@
-Entyloma calendulae f. bellidis (Krieg.) Ainsw. & Sampson, 1950 FORM
-=======
+# Entyloma bellidis Krieg., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-British Smut Fungi (Ustilaginales) 104 (1950)
+Hedwigia 35(Repert. ): (144) (1896)
 
 #### Original name
 Entyloma bellidis Krieg., 1896

@@ -1,5 +1,4 @@
-Hincksia clavata (V. Krishnamurthy & Baluswami) P.C. Silva SPECIES
-=======
+# Hincksia clavata (V. Krishnamurthy & Baluswami) P.C. Silva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merulius inflexus J.F. Gmel. SPECIES
-=======
+# Merulius inflexus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

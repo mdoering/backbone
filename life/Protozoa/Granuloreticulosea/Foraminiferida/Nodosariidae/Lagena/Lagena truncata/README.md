@@ -1,5 +1,4 @@
-Lagena truncata SPECIES
-=======
+# Lagena truncata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerium ecuadoricum Petr. SPECIES
-=======
+# Dimerium ecuadoricum Petr. SPECIES
 
 #### Status
 ACCEPTED

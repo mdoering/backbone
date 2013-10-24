@@ -1,5 +1,4 @@
-Gloeopeziza turricula Sacc. & Peyronel SPECIES
-=======
+# Gloeopeziza turricula Sacc. & Peyronel SPECIES
 
 #### Status
 ACCEPTED

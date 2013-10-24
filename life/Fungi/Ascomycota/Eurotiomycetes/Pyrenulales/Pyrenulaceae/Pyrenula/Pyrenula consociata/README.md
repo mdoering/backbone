@@ -1,5 +1,4 @@
-Pyrenula consociata Zahlbr. SPECIES
-=======
+# Pyrenula consociata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

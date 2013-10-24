@@ -1,5 +1,4 @@
-Octospora microspora Rifai SPECIES
-=======
+# Octospora microspora Rifai SPECIES
 
 #### Status
 ACCEPTED

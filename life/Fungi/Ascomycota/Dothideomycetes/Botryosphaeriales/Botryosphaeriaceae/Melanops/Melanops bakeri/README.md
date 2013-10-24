@@ -1,5 +1,4 @@
-Melanops bakeri (Rehm) Weese SPECIES
-=======
+# Melanops bakeri (Rehm) Weese SPECIES
 
 #### Status
 ACCEPTED

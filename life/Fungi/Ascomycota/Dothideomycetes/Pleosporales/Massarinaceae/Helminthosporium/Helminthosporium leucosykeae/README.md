@@ -1,17 +1,16 @@
-Helmisporium leucosykeae H.S. Yates SPECIES
-=======
+# Helminthosporium leucosykeae H.S. Yates SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Philipp. J. Sci. , C, Bot. 13: 382 (1918)
 
 #### Original name
-Helmisporium leucosykeae H.S. Yates
+Helminthosporium leucosykeae H.S. Yates
 
 ### Remarks
 null

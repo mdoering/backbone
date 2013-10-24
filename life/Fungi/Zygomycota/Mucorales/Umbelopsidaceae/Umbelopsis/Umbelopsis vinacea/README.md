@@ -1,17 +1,16 @@
-Mucor angulispora Naumov SPECIES
-=======
+# Umbelopsis vinacea (Dixon-Stew.) Arx, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 35: 20 (1984)
 
 #### Original name
-Mucor angulispora Naumov
+Mortierella vinacea Dixon-Stew., 1932
 
 ### Remarks
 null

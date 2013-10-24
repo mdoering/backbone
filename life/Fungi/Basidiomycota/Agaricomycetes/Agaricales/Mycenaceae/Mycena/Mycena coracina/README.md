@@ -1,5 +1,4 @@
-Mycena coracina Maas Geest. SPECIES
-=======
+# Mycena coracina Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

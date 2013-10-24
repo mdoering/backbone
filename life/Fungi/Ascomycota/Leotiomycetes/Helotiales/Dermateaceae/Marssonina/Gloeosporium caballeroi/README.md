@@ -1,5 +1,4 @@
-Gloeosporium caballeroi Urries SPECIES
-=======
+# Gloeosporium caballeroi Urries SPECIES
 
 #### Status
 ACCEPTED

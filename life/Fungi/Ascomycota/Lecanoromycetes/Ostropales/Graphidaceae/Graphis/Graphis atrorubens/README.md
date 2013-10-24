@@ -1,5 +1,4 @@
-Graphis atrorubens Tuck. SPECIES
-=======
+# Graphis atrorubens Tuck. SPECIES
 
 #### Status
 ACCEPTED

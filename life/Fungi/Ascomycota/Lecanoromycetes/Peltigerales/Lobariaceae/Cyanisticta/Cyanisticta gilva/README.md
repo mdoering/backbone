@@ -1,5 +1,4 @@
-Cyanisticta gilva var. gilva VARIETY
-=======
+# Cyanisticta gilva (Ach.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cyanisticta gilva var. gilva
+null
 
 ### Remarks
 null

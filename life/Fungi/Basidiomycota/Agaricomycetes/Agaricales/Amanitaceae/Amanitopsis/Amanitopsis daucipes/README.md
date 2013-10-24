@@ -1,5 +1,4 @@
-Amanitopsis daucipes (Berk. & Mont.) Sacc. SPECIES
-=======
+# Amanitopsis daucipes (Berk. & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

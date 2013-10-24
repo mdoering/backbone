@@ -1,5 +1,4 @@
-Ascochyta mangiferae Bat. SPECIES
-=======
+# Ascochyta mangiferae Bat. SPECIES
 
 #### Status
 ACCEPTED

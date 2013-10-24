@@ -1,5 +1,4 @@
-Clitocybe paludosa Raithelh. SPECIES
-=======
+# Clitocybe paludosa Raithelh. SPECIES
 
 #### Status
 ACCEPTED

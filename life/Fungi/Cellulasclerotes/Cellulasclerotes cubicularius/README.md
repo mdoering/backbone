@@ -1,5 +1,4 @@
-Cellulasclerotes cubicularius Stach & Pickh. SPECIES
-=======
+# Cellulasclerotes cubicularius Stach & Pickh. SPECIES
 
 #### Status
 ACCEPTED

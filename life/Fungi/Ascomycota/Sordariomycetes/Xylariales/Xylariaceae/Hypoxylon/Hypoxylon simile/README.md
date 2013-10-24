@@ -1,5 +1,4 @@
-Hypoxylon simile Lloyd SPECIES
-=======
+# Hypoxylon simile Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia confluescens (Zahlbr.) SPECIES
-=======
+# Aspicilia confluescens (Zahlbr.) SPECIES
 
 #### Status
 ACCEPTED

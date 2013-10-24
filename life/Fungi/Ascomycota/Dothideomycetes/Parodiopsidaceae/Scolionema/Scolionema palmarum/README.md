@@ -1,14 +1,13 @@
-Asterina palmarum (Kunze) Gaillard SPECIES
-=======
+# Scolionema palmarum (Kunze) Theiss. & Syd., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 15(6): 410 (1918)
 
 #### Original name
 Myxothecium palmarum Kunze, 1823

@@ -1,5 +1,4 @@
-Fomes pseudoconchatus Henn. SPECIES
-=======
+# Fomes pseudoconchatus Henn. SPECIES
 
 #### Status
 ACCEPTED

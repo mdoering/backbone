@@ -1,5 +1,4 @@
-Uredo heterantherae Henn. SPECIES
-=======
+# Uredo heterantherae Henn. SPECIES
 
 #### Status
 ACCEPTED

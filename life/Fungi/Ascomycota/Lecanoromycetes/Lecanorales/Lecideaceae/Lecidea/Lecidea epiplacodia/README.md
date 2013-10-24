@@ -1,5 +1,4 @@
-Lecidea epiplacodia Cromb. SPECIES
-=======
+# Lecidea epiplacodia Cromb. SPECIES
 
 #### Status
 ACCEPTED

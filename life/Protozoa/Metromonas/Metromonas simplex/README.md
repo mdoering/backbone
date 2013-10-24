@@ -1,5 +1,4 @@
-Metromonas simplex (Griessmann, 1913) Larsen & Patterson, 1990 SPECIES
-=======
+# Metromonas simplex (Griessmann, 1913) Larsen & Patterson, 1990 SPECIES
 
 #### Status
 ACCEPTED

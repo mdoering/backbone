@@ -1,5 +1,4 @@
-Ophiobolus pseudacori Feltgen SPECIES
-=======
+# Ophiobolus pseudacori Feltgen SPECIES
 
 #### Status
 ACCEPTED

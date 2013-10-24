@@ -1,5 +1,4 @@
-Siphula dissoluta Nyl. SPECIES
-=======
+# Siphula dissoluta Nyl. SPECIES
 
 #### Status
 ACCEPTED

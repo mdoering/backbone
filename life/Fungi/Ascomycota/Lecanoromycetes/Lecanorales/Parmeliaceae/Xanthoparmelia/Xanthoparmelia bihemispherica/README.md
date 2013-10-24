@@ -1,5 +1,4 @@
-Xanthoparmelia bihemispherica T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia bihemispherica T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

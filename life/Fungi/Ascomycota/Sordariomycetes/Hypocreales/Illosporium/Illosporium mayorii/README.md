@@ -1,5 +1,4 @@
-Illosporium mayorii Syd. SPECIES
-=======
+# Illosporium mayorii Syd. SPECIES
 
 #### Status
 ACCEPTED

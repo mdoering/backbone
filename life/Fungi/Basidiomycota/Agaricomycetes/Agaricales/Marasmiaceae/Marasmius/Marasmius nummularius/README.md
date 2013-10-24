@@ -1,5 +1,4 @@
-Marasmius nummularius var. nummularius VARIETY
-=======
+# Marasmius nummularius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius nummularius var. nummularius
+Marasmius nummularius Berk. & Broome
 
 ### Remarks
 null

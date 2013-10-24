@@ -1,5 +1,4 @@
-Verrucaria bagliettoiformis f. bagliettoiformis FORM
-=======
+# Verrucaria bagliettoiformis (Hazsl.) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria bagliettoiformis f. bagliettoiformis
+Verrucaria calciseda f. bagliettoaeformis Hazsl.
 
 ### Remarks
 null

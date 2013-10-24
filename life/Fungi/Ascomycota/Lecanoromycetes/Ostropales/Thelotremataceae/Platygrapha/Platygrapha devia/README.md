@@ -1,5 +1,4 @@
-Platygrapha devia C. Knight & Mitt. SPECIES
-=======
+# Platygrapha devia C. Knight & Mitt. SPECIES
 
 #### Status
 ACCEPTED

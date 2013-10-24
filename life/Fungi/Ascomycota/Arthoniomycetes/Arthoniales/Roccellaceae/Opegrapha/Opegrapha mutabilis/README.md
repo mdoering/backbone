@@ -1,5 +1,4 @@
-Opegrapha mutabilis Chevall. SPECIES
-=======
+# Opegrapha mutabilis Chevall. SPECIES
 
 #### Status
 ACCEPTED

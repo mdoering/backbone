@@ -1,5 +1,4 @@
-Gelasinospora nigeriensis ined. SPECIES
-=======
+# Gelasinospora nigeriensis ined. SPECIES
 
 #### Status
 ACCEPTED

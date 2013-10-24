@@ -1,5 +1,4 @@
-Puccinia calthaecola J. Schröt. SPECIES
-=======
+# Puccinia calthaecola J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

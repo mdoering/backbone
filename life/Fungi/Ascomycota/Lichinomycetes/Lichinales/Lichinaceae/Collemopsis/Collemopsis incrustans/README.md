@@ -1,5 +1,4 @@
-Collemopsis incrustans (Arnold) Flagey SPECIES
-=======
+# Collemopsis incrustans (Arnold) Flagey SPECIES
 
 #### Status
 ACCEPTED

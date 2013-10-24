@@ -1,5 +1,4 @@
-Dermatocarpon plicatum Tomin ex Schaef. {?} SPECIES
-=======
+# Dermatocarpon plicatum Tomin ex Schaef. {?} SPECIES
 
 #### Status
 ACCEPTED

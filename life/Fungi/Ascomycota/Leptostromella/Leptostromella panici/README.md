@@ -1,5 +1,4 @@
-Leptostromella panici Dearn. SPECIES
-=======
+# Leptostromella panici Dearn. SPECIES
 
 #### Status
 ACCEPTED

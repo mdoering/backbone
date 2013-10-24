@@ -1,5 +1,4 @@
-Graphis literella (Ach.) Röhl. SPECIES
-=======
+# Graphis literella (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

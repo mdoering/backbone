@@ -1,5 +1,4 @@
-Flexithrix dorotheae Lewin, 1970 (Approved Lists, 1980) SPECIES
-=======
+# Flexithrix dorotheae Lewin, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

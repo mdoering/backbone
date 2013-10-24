@@ -1,5 +1,4 @@
-Haplotelium amoenum (Syd. & P. Syd.) Syd. SPECIES
-=======
+# Haplotelium amoenum (Syd. & P. Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

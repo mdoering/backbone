@@ -1,5 +1,4 @@
-Pertusaria appalachensis Lendemer, R.C. Harris & Elix SPECIES
-=======
+# Pertusaria appalachensis Lendemer, R.C. Harris & Elix SPECIES
 
 #### Status
 ACCEPTED

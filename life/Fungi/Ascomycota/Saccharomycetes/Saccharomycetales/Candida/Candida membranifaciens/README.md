@@ -1,17 +1,16 @@
-Candida membranifaciens subsp. membranifaciens SUBSPECIES
-=======
+# Candida membranifaciens (Lodder & Kreger-van Rij) Wick. & Burton, 1954 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Bact. 68: 597 (1954)
 
 #### Original name
-null
+Candida melibiosi var. membranaefaciens
 
 ### Remarks
 null

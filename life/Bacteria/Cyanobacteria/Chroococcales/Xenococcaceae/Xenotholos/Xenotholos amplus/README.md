@@ -1,5 +1,4 @@
-Xenotholos amplus M. Gold-Morgan, G. Montejano & J. Komárek SPECIES
-=======
+# Xenotholos amplus M. Gold-Morgan, G. Montejano & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

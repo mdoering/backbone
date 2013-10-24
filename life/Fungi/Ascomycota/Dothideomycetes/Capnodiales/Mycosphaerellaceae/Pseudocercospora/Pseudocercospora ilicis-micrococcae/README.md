@@ -1,5 +1,4 @@
-Pseudocercospora ilicis-micrococcae Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora ilicis-micrococcae Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

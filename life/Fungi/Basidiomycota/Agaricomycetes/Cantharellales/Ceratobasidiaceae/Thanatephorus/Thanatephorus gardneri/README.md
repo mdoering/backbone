@@ -1,5 +1,4 @@
-Thanatephorus gardneri Warcup SPECIES
-=======
+# Thanatephorus gardneri Warcup SPECIES
 
 #### Status
 ACCEPTED

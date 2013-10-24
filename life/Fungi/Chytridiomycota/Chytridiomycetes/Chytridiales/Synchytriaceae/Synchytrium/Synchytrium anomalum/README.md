@@ -1,5 +1,4 @@
-Synchytrium anomalum J. Schröt. SPECIES
-=======
+# Synchytrium anomalum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

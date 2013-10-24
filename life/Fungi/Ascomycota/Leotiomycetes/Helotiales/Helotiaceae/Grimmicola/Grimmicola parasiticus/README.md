@@ -1,5 +1,4 @@
-Grimmicola parasiticus Döbbeler & Hertel, 1983 SPECIES
-=======
+# Grimmicola parasiticus Döbbeler & Hertel, 1983 SPECIES
 
 #### Status
 ACCEPTED

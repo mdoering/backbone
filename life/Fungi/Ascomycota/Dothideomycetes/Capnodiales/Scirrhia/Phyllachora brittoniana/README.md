@@ -1,5 +1,4 @@
-Phyllachora brittoniana (Chardón) Seaver, 1928 SPECIES
-=======
+# Phyllachora brittoniana (Chardón) Seaver, 1928 SPECIES
 
 #### Status
 DOUBTFUL

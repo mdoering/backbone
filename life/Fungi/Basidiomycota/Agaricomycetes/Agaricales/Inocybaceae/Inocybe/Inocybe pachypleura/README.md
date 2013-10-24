@@ -1,5 +1,4 @@
-Inocybe pachypleura Takah. Kobay. SPECIES
-=======
+# Inocybe pachypleura Takah. Kobay. SPECIES
 
 #### Status
 ACCEPTED

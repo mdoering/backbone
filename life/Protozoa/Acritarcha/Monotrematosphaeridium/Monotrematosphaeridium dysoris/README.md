@@ -1,5 +1,4 @@
-Monotrematosphaeridium dysoris Hu Yunxu, 1986 SPECIES
-=======
+# Monotrematosphaeridium dysoris Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

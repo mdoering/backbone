@@ -1,5 +1,4 @@
-Rugosomyces GENUS
-=======
+# Rugosomyces GENUS
 
 #### Status
 ACCEPTED

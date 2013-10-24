@@ -1,5 +1,4 @@
-Cystobasidium usneicola Diederich & Alstrup, 1996 SPECIES
-=======
+# Cystobasidium usneicola Diederich & Alstrup, 1996 SPECIES
 
 #### Status
 ACCEPTED

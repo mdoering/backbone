@@ -1,5 +1,4 @@
-Lenticulina peregrina SPECIES
-=======
+# Lenticulina peregrina SPECIES
 
 #### Status
 ACCEPTED

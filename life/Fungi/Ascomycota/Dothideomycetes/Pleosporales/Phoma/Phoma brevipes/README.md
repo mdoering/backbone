@@ -1,5 +1,4 @@
-Phoma brevipes Sacc. SPECIES
-=======
+# Phoma brevipes Sacc. SPECIES
 
 #### Status
 ACCEPTED

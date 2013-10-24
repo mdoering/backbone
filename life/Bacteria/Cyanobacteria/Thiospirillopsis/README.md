@@ -1,5 +1,4 @@
-Thiospirillopsis J.C.T. Uphof, 1927 GENUS
-=======
+# Thiospirillopsis J.C.T. Uphof, 1927 GENUS
 
 #### Status
 ACCEPTED

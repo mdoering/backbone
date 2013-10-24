@@ -1,5 +1,4 @@
-Chalara prolifera Nag Raj & W.B. Kendr. SPECIES
-=======
+# Chalara prolifera Nag Raj & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

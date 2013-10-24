@@ -1,5 +1,4 @@
-Polyporus tubulaeformis Berk. SPECIES
-=======
+# Polyporus tubulaeformis Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia macquariensis C.W. Dodge SPECIES
-=======
+# Arthopyrenia macquariensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

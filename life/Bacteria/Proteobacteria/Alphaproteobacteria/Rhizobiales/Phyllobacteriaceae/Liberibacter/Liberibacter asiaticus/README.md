@@ -1,5 +1,4 @@
-Liberibacter asiaticus SPECIES
-=======
+# Liberibacter asiaticus SPECIES
 
 #### Status
 ACCEPTED

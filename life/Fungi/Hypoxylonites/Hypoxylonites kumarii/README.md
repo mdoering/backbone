@@ -1,5 +1,4 @@
-Hypoxylonites kumarii Kalgutkar & Janson. SPECIES
-=======
+# Hypoxylonites kumarii Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

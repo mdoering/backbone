@@ -1,5 +1,4 @@
-Euloxostomum pseudobeyrichi (Cushman, 1926) SPECIES
-=======
+# Euloxostomum pseudobeyrichi (Cushman, 1926) SPECIES
 
 #### Status
 ACCEPTED

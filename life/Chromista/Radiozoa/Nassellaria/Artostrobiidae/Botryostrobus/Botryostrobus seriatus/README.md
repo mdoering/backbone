@@ -1,5 +1,4 @@
-Botryostrobus seriatus (Joergensen) SPECIES
-=======
+# Botryostrobus seriatus (Joergensen) SPECIES
 
 #### Status
 ACCEPTED

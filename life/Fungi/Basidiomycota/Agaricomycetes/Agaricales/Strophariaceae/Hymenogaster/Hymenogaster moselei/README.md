@@ -1,5 +1,4 @@
-Hymenogaster moselei (Berk. & Broome) De Toni SPECIES
-=======
+# Hymenogaster moselei (Berk. & Broome) De Toni SPECIES
 
 #### Status
 ACCEPTED

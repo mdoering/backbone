@@ -1,5 +1,4 @@
-Sclerospora magnusiana Sorokin SPECIES
-=======
+# Sclerospora magnusiana Sorokin SPECIES
 
 #### Status
 ACCEPTED

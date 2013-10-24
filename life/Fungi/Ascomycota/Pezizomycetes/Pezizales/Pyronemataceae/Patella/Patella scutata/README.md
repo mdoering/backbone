@@ -1,5 +1,4 @@
-Patella scutata Rodway SPECIES
-=======
+# Patella scutata Rodway SPECIES
 
 #### Status
 ACCEPTED

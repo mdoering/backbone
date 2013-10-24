@@ -1,5 +1,4 @@
-Lecanora aleutica H. Magn. SPECIES
-=======
+# Lecanora aleutica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synechoblastus pycnocarpus Nyl. SPECIES
-=======
+# Synechoblastus pycnocarpus Nyl. SPECIES
 
 #### Status
 ACCEPTED

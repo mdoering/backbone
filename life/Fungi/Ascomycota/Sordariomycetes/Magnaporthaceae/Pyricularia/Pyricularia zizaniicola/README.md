@@ -1,5 +1,4 @@
-Pyricularia zizaniicola Hashioka, 1973 SPECIES
-=======
+# Pyricularia zizaniicola Hashioka, 1973 SPECIES
 
 #### Status
 ACCEPTED

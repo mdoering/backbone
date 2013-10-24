@@ -1,17 +1,16 @@
-Lyophyllum plexipes f. plexipes FORM
-=======
+# Tephrocybe tylicolor (Fr.) M.M. Moser, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Analyt. Champ. Supér. (Paris) 167 (1953)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Bd <b>II</b> b/2, ed. 4 2b/2: 131 (1978)
 
 #### Original name
-Lyophyllum plexipes f. plexipes
+Agaricus tylicolor Fr., 1818
 
 ### Remarks
 null

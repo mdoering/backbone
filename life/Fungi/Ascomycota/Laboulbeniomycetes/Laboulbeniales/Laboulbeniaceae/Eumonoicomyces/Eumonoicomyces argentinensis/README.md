@@ -1,5 +1,4 @@
-Eumonoicomyces argentinensis Speg. SPECIES
-=======
+# Eumonoicomyces argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

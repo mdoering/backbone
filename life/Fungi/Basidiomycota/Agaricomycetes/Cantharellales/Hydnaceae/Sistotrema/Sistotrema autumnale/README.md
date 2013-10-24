@@ -1,5 +1,4 @@
-Sistotrema autumnale Ryvarden & H. Solheim, 1977 SPECIES
-=======
+# Sistotrema autumnale Ryvarden & H. Solheim, 1977 SPECIES
 
 #### Status
 ACCEPTED

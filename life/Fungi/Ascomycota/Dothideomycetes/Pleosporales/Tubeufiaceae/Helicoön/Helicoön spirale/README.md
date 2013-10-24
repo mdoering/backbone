@@ -1,17 +1,16 @@
-Helicoön spiralis Kamyschko SPECIES
-=======
+# Helicoön spirale Kamyschko SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notul. Syst. Sect. Crypt. Inst. Bot. Acad. Sci. U. S. S. R. 16: 98 (1963)
 
 #### Original name
-Helicoön spiralis Kamyschko
+Helicoön spirale Kamyschko
 
 ### Remarks
 null

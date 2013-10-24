@@ -1,5 +1,4 @@
-Marssonia graminicola (Ellis & Everh.) Sacc. SPECIES
-=======
+# Marssonia graminicola (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

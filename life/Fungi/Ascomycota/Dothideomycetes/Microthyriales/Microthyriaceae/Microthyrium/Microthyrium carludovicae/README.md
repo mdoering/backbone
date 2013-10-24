@@ -1,5 +1,4 @@
-Microthyrium carludovicae Henn. SPECIES
-=======
+# Microthyrium carludovicae Henn. SPECIES
 
 #### Status
 ACCEPTED

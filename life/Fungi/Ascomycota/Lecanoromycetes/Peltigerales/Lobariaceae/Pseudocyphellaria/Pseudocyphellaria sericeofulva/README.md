@@ -1,5 +1,4 @@
-Pseudocyphellaria sericeofulva D. J. Galloway SPECIES
-=======
+# Pseudocyphellaria sericeofulva D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lizonia selaginellae Racib. SPECIES
-=======
+# Lizonia selaginellae Racib. SPECIES
 
 #### Status
 ACCEPTED

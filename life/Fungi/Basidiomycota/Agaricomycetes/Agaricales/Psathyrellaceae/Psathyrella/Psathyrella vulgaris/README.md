@@ -1,5 +1,4 @@
-Psathyrella vulgaris A.H. Sm. SPECIES
-=======
+# Psathyrella vulgaris A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

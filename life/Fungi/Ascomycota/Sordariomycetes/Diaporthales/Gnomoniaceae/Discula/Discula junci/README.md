@@ -1,5 +1,4 @@
-Discula junci A.L. Sm., 1916 SPECIES
-=======
+# Discula junci A.L. Sm., 1916 SPECIES
 
 #### Status
 ACCEPTED

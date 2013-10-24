@@ -1,5 +1,4 @@
-Entophlyctis maxima P.A. Dang. SPECIES
-=======
+# Entophlyctis maxima P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

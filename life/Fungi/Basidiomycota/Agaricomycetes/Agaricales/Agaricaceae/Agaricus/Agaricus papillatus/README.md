@@ -1,5 +1,4 @@
-Agaricus papillatus Batsch SPECIES
-=======
+# Agaricus papillatus Batsch SPECIES
 
 #### Status
 ACCEPTED

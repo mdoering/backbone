@@ -1,5 +1,4 @@
-Peziza nothofageti (Gamundí) Eckblad SPECIES
-=======
+# Peziza nothofageti (Gamundí) Eckblad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis sororcula Müll. Arg. SPECIES
-=======
+# Graphis sororcula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia spegazzinii Sacc. & P. Syd. SPECIES
-=======
+# Hendersonia spegazzinii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

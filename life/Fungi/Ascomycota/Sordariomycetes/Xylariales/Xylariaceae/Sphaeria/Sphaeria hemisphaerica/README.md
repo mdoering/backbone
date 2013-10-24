@@ -1,5 +1,4 @@
-Sphaeria hemisphaerica Alb. & Schwein. SPECIES
-=======
+# Sphaeria hemisphaerica Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

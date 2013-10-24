@@ -1,5 +1,4 @@
-Aecidium heliotropidatum Schwein. SPECIES
-=======
+# Aecidium heliotropidatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena desfontainiae Singer SPECIES
-=======
+# Mycena desfontainiae Singer SPECIES
 
 #### Status
 ACCEPTED

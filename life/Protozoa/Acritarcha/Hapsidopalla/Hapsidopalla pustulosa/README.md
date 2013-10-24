@@ -1,5 +1,4 @@
-Hapsidopalla pustulosa Colbath, 1990 SPECIES
-=======
+# Hapsidopalla pustulosa Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

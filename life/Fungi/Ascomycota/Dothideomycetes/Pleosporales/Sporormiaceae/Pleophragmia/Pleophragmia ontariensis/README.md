@@ -1,5 +1,4 @@
-Pleophragmia ontariensis Cain SPECIES
-=======
+# Pleophragmia ontariensis Cain SPECIES
 
 #### Status
 ACCEPTED

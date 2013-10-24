@@ -1,5 +1,4 @@
-Cyclomyces albida Lloyd SPECIES
-=======
+# Cyclomyces albida Lloyd SPECIES
 
 #### Status
 ACCEPTED

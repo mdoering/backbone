@@ -1,14 +1,13 @@
-Bombyliospora aureola (Tuck.) Zahlbr. SPECIES
-=======
+# Letrouitia aureola (Tuck.) Hafellner & Bellem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 7: 49 (1930)
+Nova Hedwigia 35(2 & 3): 281 (1982)
 
 #### Original name
 Lecidea aureola Tuck.

@@ -1,5 +1,4 @@
-Lenzites cinnabarina Imbach SPECIES
-=======
+# Lenzites cinnabarina Imbach SPECIES
 
 #### Status
 ACCEPTED

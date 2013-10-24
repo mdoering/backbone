@@ -1,17 +1,16 @@
-Quaternaria clerodendrontis S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Quaternaria clerodendri S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 26(1-6): 273 (1974)
 
 #### Original name
-Quaternaria clerodendrontis S.B. Kale & S.V.S. Kale
+Quaternaria clerodendri S.B. Kale & S.V.S. Kale
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Candelariella ferruginata (Harm.) Zahlbr. SPECIES
-=======
+# Candelariella ferruginata (Harm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

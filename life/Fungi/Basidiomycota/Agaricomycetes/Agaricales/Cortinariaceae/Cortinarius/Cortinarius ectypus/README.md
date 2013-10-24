@@ -1,5 +1,4 @@
-Cortinarius ectypus J. Favre SPECIES
-=======
+# Cortinarius ectypus J. Favre SPECIES
 
 #### Status
 ACCEPTED

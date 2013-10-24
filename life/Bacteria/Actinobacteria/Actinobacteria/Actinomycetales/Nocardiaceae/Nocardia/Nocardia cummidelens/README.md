@@ -1,5 +1,4 @@
-Nocardia cummidelens Maldonado et al., 2001 SPECIES
-=======
+# Nocardia cummidelens Maldonado et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo maranguensis Henn. SPECIES
-=======
+# Uredo maranguensis Henn. SPECIES
 
 #### Status
 ACCEPTED

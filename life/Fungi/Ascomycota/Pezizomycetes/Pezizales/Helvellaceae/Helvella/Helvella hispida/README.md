@@ -1,5 +1,4 @@
-Helvella hispida Schaeff. SPECIES
-=======
+# Helvella hispida Schaeff. SPECIES
 
 #### Status
 ACCEPTED

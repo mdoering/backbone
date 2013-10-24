@@ -1,5 +1,4 @@
-Leptosphaeria parietariae Sacc. SPECIES
-=======
+# Leptosphaeria parietariae Sacc. SPECIES
 
 #### Status
 ACCEPTED

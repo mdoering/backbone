@@ -1,5 +1,4 @@
-Diaporthe patagonulae Tassi SPECIES
-=======
+# Diaporthe patagonulae Tassi SPECIES
 
 #### Status
 ACCEPTED

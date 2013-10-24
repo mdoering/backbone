@@ -1,5 +1,4 @@
-Tetrasphaera australiensis Maszenan et al., 2000 SPECIES
-=======
+# Tetrasphaera australiensis Maszenan et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

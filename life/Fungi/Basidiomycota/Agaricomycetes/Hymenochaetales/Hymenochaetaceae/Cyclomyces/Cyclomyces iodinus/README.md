@@ -1,14 +1,13 @@
-Polyporus iodinus Mont., 1841 SPECIES
-=======
+# Cyclomyces iodinus (Mont.) Pat., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 2 16: 108 (1841)
+in Duss, Enum. Champ. Guadeloupe (Lons-le-Saunier) 33 (1903)
 
 #### Original name
 Polyporus iodinus Mont., 1841

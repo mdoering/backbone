@@ -1,5 +1,4 @@
-Opercularia pacifica Jankowski, 1967 SPECIES
-=======
+# Opercularia pacifica Jankowski, 1967 SPECIES
 
 #### Status
 ACCEPTED

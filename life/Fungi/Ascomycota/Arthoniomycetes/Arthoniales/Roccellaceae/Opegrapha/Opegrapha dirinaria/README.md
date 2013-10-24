@@ -1,5 +1,4 @@
-Opegrapha dirinaria (Nyl.) Nyl. SPECIES
-=======
+# Opegrapha dirinaria (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

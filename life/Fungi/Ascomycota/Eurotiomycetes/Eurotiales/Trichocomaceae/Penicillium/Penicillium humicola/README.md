@@ -1,5 +1,4 @@
-Penicillium humicola Oudem. SPECIES
-=======
+# Penicillium humicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

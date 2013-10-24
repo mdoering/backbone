@@ -1,5 +1,4 @@
-Lobospira bicuspidata Areschoug SPECIES
-=======
+# Lobospira bicuspidata Areschoug SPECIES
 
 #### Status
 ACCEPTED

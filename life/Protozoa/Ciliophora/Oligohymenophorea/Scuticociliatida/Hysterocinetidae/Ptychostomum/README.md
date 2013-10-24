@@ -1,5 +1,4 @@
-Ptychostomum Stein, 1860 GENUS
-=======
+# Ptychostomum Stein, 1860 GENUS
 
 #### Status
 ACCEPTED

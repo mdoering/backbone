@@ -1,5 +1,4 @@
-Erysiphe pseudopusilla U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe pseudopusilla U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

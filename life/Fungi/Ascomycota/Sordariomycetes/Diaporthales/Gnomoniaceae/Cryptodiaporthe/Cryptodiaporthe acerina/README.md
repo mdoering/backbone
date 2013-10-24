@@ -1,5 +1,4 @@
-Cryptodiaporthe acerina J. Reid & Cain SPECIES
-=======
+# Cryptodiaporthe acerina J. Reid & Cain SPECIES
 
 #### Status
 ACCEPTED

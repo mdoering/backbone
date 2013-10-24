@@ -1,5 +1,4 @@
-Physcia adscendens (Th. Fr.) H. Olivier SPECIES
-=======
+# Physcia adscendens (Th. Fr.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

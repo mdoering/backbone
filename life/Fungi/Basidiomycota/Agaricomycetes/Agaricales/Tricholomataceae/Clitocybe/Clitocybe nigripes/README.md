@@ -1,5 +1,4 @@
-Clitocybe nigripes Velen. SPECIES
-=======
+# Clitocybe nigripes Velen. SPECIES
 
 #### Status
 ACCEPTED

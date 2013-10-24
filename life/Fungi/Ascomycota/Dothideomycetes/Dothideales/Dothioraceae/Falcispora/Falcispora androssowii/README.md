@@ -1,5 +1,4 @@
-Falcispora androssowii Bubák & Serebrian. SPECIES
-=======
+# Falcispora androssowii Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

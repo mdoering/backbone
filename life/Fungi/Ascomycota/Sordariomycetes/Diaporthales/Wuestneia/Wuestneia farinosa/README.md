@@ -1,5 +1,4 @@
-Wuestneia farinosa (Ellis) J. Reid & C. Booth SPECIES
-=======
+# Wuestneia farinosa (Ellis) J. Reid & C. Booth SPECIES
 
 #### Status
 ACCEPTED

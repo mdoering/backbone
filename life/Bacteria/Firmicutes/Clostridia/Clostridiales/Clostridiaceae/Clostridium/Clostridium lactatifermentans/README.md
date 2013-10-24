@@ -1,5 +1,4 @@
-Clostridium lactatifermentans van der Wielen et al., 2002 SPECIES
-=======
+# Clostridium lactatifermentans van der Wielen et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

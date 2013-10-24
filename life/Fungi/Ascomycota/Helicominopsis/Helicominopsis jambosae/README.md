@@ -1,5 +1,4 @@
-Helicominopsis jambosae Bat., J.L. Bezerra & Peres SPECIES
-=======
+# Helicominopsis jambosae Bat., J.L. Bezerra & Peres SPECIES
 
 #### Status
 ACCEPTED

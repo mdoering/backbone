@@ -1,5 +1,4 @@
-Agaricus verrucosus Curtis SPECIES
-=======
+# Agaricus verrucosus Curtis SPECIES
 
 #### Status
 ACCEPTED

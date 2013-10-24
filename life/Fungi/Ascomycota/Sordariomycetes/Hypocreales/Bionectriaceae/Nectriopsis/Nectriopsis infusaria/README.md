@@ -1,5 +1,4 @@
-Nectriopsis infusaria (Cooke & Harkn.) Yoshim. Doi SPECIES
-=======
+# Nectriopsis infusaria (Cooke & Harkn.) Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

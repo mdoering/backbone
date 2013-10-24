@@ -1,5 +1,4 @@
-Leptostromites Poinar GENUS
-=======
+# Leptostromites Poinar GENUS
 
 #### Status
 ACCEPTED

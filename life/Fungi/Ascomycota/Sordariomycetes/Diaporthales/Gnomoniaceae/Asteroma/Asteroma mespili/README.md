@@ -1,5 +1,4 @@
-Asteroma mespili f. mespili FORM
-=======
+# Asteroma mespili Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asteroma mespili f. mespili
+Asteroma mespili Roberge ex Desm.
 
 ### Remarks
 null

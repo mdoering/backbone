@@ -1,5 +1,4 @@
-Stylonychia rostrata Dumas SPECIES
-=======
+# Stylonychia rostrata Dumas SPECIES
 
 #### Status
 ACCEPTED

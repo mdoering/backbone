@@ -1,5 +1,4 @@
-Dactylaria pulchra Linder SPECIES
-=======
+# Dactylaria pulchra Linder SPECIES
 
 #### Status
 ACCEPTED

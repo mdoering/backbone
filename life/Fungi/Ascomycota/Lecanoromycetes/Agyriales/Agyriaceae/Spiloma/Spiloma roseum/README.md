@@ -1,5 +1,4 @@
-Spiloma roseum Raddi SPECIES
-=======
+# Spiloma roseum Raddi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe splendoides H.E. Bigelow SPECIES
-=======
+# Clitocybe splendoides H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

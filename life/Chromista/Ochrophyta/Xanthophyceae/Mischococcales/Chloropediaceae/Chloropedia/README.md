@@ -1,5 +1,4 @@
-Chloropedia Pascher, 1930 GENUS
-=======
+# Chloropedia Pascher, 1930 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia rudior (Nyl.) Zahlbr. SPECIES
-=======
+# Parmelia rudior (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

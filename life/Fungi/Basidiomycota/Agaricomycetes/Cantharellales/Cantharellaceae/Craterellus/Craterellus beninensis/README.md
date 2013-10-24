@@ -1,5 +1,4 @@
-Craterellus beninensis De Kesel, Codjia & Yourou SPECIES
-=======
+# Craterellus beninensis De Kesel, Codjia & Yourou SPECIES
 
 #### Status
 ACCEPTED

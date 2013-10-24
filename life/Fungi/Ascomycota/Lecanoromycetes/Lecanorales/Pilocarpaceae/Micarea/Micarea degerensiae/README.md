@@ -1,5 +1,4 @@
-Micarea degerensiae Kalb SPECIES
-=======
+# Micarea degerensiae Kalb SPECIES
 
 #### Status
 ACCEPTED

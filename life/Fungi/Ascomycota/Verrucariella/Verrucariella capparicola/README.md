@@ -1,17 +1,16 @@
-Verrucariella capparidicola S. Ahmad SPECIES
-=======
+# Verrucariella capparicola S. Ahmad, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biologia, Lahore 13: 41 (1967)
 
 #### Original name
-Verrucariella capparidicola S. Ahmad
+Verrucariella capparicola S. Ahmad, 1967
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Brachysporium graminis Boyer & Jacz., 1893 SPECIES
-=======
+# Brachysporium graminis Boyer & Jacz., 1893 SPECIES
 
 #### Status
 ACCEPTED

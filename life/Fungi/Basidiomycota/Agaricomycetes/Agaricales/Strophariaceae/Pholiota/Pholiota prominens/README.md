@@ -1,5 +1,4 @@
-Pholiota prominens (Kalchbr.) Sacc. SPECIES
-=======
+# Pholiota prominens (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

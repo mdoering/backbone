@@ -1,5 +1,4 @@
-Ravenelia cassiicola var. cassiicola VARIETY
-=======
+# Ravenelia cassiicola G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bot. Gaz. 16: 313 (1891)
 
 #### Original name
-Ravenelia cassiicola var. cassiicola
+Ravenelia cassiicola G.F. Atk.
 
 ### Remarks
 null

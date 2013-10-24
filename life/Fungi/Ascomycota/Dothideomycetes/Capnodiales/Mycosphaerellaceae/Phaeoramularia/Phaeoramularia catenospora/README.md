@@ -1,5 +1,4 @@
-Phaeoramularia catenospora (G.F. Atk.) Deighton SPECIES
-=======
+# Phaeoramularia catenospora (G.F. Atk.) Deighton SPECIES
 
 #### Status
 ACCEPTED

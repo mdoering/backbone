@@ -1,5 +1,4 @@
-Cortinarius claviceps Reumaux SPECIES
-=======
+# Cortinarius claviceps Reumaux SPECIES
 
 #### Status
 ACCEPTED

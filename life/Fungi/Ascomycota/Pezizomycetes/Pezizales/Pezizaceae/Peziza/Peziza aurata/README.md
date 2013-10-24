@@ -1,17 +1,16 @@
-Aleuria aurata Le Gal, 1941 SPECIES
-=======
+# Peziza aurata (Le Gal) Spooner & Y.J. Yao, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 6(Suppl. Colon. ): 77 (1941)
+Mycol. Res. 99(12): 1516 (1995)
 
 #### Original name
-Aleuria aurata Le Gal, 1941
+Peziza aurata (Le Gal) Spooner & Y.J. Yao, 1995
 
 ### Remarks
 null

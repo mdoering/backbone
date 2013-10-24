@@ -1,5 +1,4 @@
-Sporocadus opizii Peyl SPECIES
-=======
+# Sporocadus opizii Peyl SPECIES
 
 #### Status
 ACCEPTED

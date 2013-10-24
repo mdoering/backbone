@@ -1,5 +1,4 @@
-Sporidesmium hainanense W.P. Wu SPECIES
-=======
+# Sporidesmium hainanense W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

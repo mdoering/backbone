@@ -1,5 +1,4 @@
-Chaetothyrina applanata (Ellis & G. Martin) M.E. Barr SPECIES
-=======
+# Chaetothyrina applanata (Ellis & G. Martin) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

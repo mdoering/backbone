@@ -1,5 +1,4 @@
-Trichoderma pubescens Bissett, 1992 SPECIES
-=======
+# Trichoderma pubescens Bissett, 1992 SPECIES
 
 #### Status
 ACCEPTED

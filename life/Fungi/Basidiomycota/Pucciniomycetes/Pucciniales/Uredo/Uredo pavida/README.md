@@ -1,5 +1,4 @@
-Uredo pavida H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo pavida H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

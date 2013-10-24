@@ -1,5 +1,4 @@
-Gomphosphaeriaceae FAMILY
-=======
+# Gomphosphaeriaceae FAMILY
 
 #### Status
 ACCEPTED

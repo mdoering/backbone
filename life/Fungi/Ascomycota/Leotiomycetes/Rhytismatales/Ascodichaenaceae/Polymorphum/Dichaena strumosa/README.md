@@ -1,5 +1,4 @@
-Dichaena strumosa Fr. SPECIES
-=======
+# Dichaena strumosa Fr. SPECIES
 
 #### Status
 ACCEPTED

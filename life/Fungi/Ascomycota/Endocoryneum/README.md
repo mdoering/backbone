@@ -1,5 +1,4 @@
-Endocoryneum Petr. GENUS
-=======
+# Endocoryneum Petr. GENUS
 
 #### Status
 ACCEPTED

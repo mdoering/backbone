@@ -1,5 +1,4 @@
-Ramularia spiraeae Peck, 1884 SPECIES
-=======
+# Ramularia spiraeae Peck, 1884 SPECIES
 
 #### Status
 ACCEPTED

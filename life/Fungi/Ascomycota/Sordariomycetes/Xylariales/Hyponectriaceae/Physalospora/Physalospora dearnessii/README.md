@@ -1,5 +1,4 @@
-Physalospora dearnessii M.E. Barr SPECIES
-=======
+# Physalospora dearnessii M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

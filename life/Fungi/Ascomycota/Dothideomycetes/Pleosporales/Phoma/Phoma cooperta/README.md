@@ -1,5 +1,4 @@
-Phoma cooperta Pass. SPECIES
-=======
+# Phoma cooperta Pass. SPECIES
 
 #### Status
 ACCEPTED

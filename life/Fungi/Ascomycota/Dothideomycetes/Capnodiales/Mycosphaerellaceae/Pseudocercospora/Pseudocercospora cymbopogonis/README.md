@@ -1,5 +1,4 @@
-Pseudocercospora cymbopogonis (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora cymbopogonis (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

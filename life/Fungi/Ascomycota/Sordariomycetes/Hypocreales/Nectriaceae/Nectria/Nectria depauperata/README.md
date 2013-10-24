@@ -1,5 +1,4 @@
-Nectria depauperata Cooke SPECIES
-=======
+# Nectria depauperata Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polygonium symbolum Rasul, 1979 emend. Sarjeant & Stancliffe, 1996 SPECIES
-=======
+# Polygonium symbolum Rasul, 1979 emend. Sarjeant & Stancliffe, 1996 SPECIES
 
 #### Status
 ACCEPTED

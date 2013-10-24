@@ -1,5 +1,4 @@
-Bonia papyrina Pat. SPECIES
-=======
+# Bonia papyrina Pat. SPECIES
 
 #### Status
 ACCEPTED

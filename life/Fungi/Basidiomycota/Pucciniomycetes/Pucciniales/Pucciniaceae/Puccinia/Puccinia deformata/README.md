@@ -1,5 +1,4 @@
-Puccinia deformata Berk. & M.A. Curtis SPECIES
-=======
+# Puccinia deformata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

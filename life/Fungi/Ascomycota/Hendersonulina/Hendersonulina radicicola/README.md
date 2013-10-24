@@ -1,5 +1,4 @@
-Hendersonulina radicicola (Tassi) Tassi SPECIES
-=======
+# Hendersonulina radicicola (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

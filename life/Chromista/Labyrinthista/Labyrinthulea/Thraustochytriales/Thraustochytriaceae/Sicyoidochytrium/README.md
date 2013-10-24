@@ -1,5 +1,4 @@
-Sicyoidochytrium R. Yokoy., Salleh & D. Honda GENUS
-=======
+# Sicyoidochytrium R. Yokoy., Salleh & D. Honda GENUS
 
 #### Status
 ACCEPTED

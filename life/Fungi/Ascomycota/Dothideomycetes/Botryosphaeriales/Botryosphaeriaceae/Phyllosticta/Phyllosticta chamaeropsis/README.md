@@ -1,5 +1,4 @@
-Phyllosticta chamaeropsis Pollacci SPECIES
-=======
+# Phyllosticta chamaeropsis Pollacci SPECIES
 
 #### Status
 ACCEPTED

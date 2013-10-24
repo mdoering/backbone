@@ -1,5 +1,4 @@
-Pluteus silentvalliyanus C.K. Pradeep & K.B. Vrinda SPECIES
-=======
+# Pluteus silentvalliyanus C.K. Pradeep & K.B. Vrinda SPECIES
 
 #### Status
 ACCEPTED

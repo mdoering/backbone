@@ -1,5 +1,4 @@
-Mallomonas cylindracea Pascher SPECIES
-=======
+# Mallomonas cylindracea Pascher SPECIES
 
 #### Status
 ACCEPTED

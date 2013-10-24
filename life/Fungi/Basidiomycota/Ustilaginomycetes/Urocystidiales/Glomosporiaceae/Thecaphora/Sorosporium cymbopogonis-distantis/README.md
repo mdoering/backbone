@@ -1,5 +1,4 @@
-Sorosporium cymbopogonis-distantis L. Ling SPECIES
-=======
+# Sorosporium cymbopogonis-distantis L. Ling SPECIES
 
 #### Status
 ACCEPTED

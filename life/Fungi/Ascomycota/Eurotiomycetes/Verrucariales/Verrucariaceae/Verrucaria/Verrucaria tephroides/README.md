@@ -1,5 +1,4 @@
-Verrucaria tephroides (Ach.) Nyl. SPECIES
-=======
+# Verrucaria tephroides (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

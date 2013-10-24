@@ -1,5 +1,4 @@
-Loborhizaspis B.V. Skvortzov & M. Noda, 1975 GENUS
-=======
+# Loborhizaspis B.V. Skvortzov & M. Noda, 1975 GENUS
 
 #### Status
 ACCEPTED

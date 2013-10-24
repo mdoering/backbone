@@ -1,5 +1,4 @@
-Depratina Solovieva, 1996 GENUS
-=======
+# Depratina Solovieva, 1996 GENUS
 
 #### Status
 ACCEPTED

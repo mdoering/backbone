@@ -1,5 +1,4 @@
-Cylindrosporium cerris (Kabát & Bubák) Bubák SPECIES
-=======
+# Cylindrosporium cerris (Kabát & Bubák) Bubák SPECIES
 
 #### Status
 ACCEPTED

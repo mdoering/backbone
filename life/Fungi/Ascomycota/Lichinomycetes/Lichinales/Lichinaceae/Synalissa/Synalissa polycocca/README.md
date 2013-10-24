@@ -1,5 +1,4 @@
-Synalissa polycocca Nyl. SPECIES
-=======
+# Synalissa polycocca Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pythium aristosporum Vanterp., 1938 SPECIES
-=======
+# Pythium aristosporum Vanterp., 1938 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis intermedia (Sacc.) Traverso SPECIES
-=======
+# Phomopsis intermedia (Sacc.) Traverso SPECIES
 
 #### Status
 ACCEPTED

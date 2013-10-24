@@ -1,5 +1,4 @@
-Bacteroides plebeius Kitahara et al., 2005 SPECIES
-=======
+# Bacteroides plebeius Kitahara et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

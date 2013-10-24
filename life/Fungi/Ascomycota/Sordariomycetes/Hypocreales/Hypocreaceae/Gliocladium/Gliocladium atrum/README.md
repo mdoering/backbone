@@ -1,5 +1,4 @@
-Gliocladium atrum J.C. Gilman & E.V. Abbott SPECIES
-=======
+# Gliocladium atrum J.C. Gilman & E.V. Abbott SPECIES
 
 #### Status
 ACCEPTED

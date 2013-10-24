@@ -1,5 +1,4 @@
-Biatorella bicolor (H. Magn.) Zahlbr. SPECIES
-=======
+# Biatorella bicolor (H. Magn.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

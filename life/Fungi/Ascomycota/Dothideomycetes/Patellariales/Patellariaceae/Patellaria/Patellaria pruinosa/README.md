@@ -1,5 +1,4 @@
-Patellaria pruinosa P. Karst. SPECIES
-=======
+# Patellaria pruinosa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

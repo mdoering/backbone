@@ -1,5 +1,4 @@
-Amphisphaeria anaxaea Speg. SPECIES
-=======
+# Amphisphaeria anaxaea Speg. SPECIES
 
 #### Status
 ACCEPTED

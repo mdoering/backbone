@@ -1,5 +1,4 @@
-Hymenella veronensis C. Massal. SPECIES
-=======
+# Hymenella veronensis C. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Edomia Henson, 1948 GENUS
-=======
+# Edomia Henson, 1948 GENUS
 
 #### Status
 ACCEPTED

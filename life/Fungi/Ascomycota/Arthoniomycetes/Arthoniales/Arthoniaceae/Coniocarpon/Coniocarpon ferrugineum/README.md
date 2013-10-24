@@ -1,5 +1,4 @@
-Coniocarpon ferrugineum Delise SPECIES
-=======
+# Coniocarpon ferrugineum Delise SPECIES
 
 #### Status
 ACCEPTED

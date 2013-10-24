@@ -1,5 +1,4 @@
-Bolivinita selmensis Cushman, 1933 SPECIES
-=======
+# Bolivinita selmensis Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

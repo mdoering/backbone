@@ -1,5 +1,4 @@
-Pycnopeziza sympodialis W.L. White & Whetzel, 1938 SPECIES
-=======
+# Pycnopeziza sympodialis W.L. White & Whetzel, 1938 SPECIES
 
 #### Status
 ACCEPTED

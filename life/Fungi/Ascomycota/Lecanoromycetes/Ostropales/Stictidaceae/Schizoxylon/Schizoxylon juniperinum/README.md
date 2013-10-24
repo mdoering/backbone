@@ -1,5 +1,4 @@
-Schizoxylon juniperinum var. juniperinum VARIETY
-=======
+# Schizoxylon juniperinum Sherwood SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 5(1): 126 (1977)
 
 #### Original name
-Schizoxylon juniperinum var. juniperinum
+Schizoxylon juniperinum Sherwood
 
 ### Remarks
 null

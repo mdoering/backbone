@@ -1,5 +1,4 @@
-Zoothamnium mysidae SPECIES
-=======
+# Zoothamnium mysidae SPECIES
 
 #### Status
 ACCEPTED

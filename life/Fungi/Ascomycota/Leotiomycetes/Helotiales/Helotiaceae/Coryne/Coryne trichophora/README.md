@@ -1,5 +1,4 @@
-Coryne trichophora (A.L. Sm.) Seifert SPECIES
-=======
+# Coryne trichophora (A.L. Sm.) Seifert SPECIES
 
 #### Status
 ACCEPTED

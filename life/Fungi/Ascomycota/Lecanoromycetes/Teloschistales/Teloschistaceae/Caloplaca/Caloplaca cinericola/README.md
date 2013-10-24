@@ -1,5 +1,4 @@
-Caloplaca cinericola (Hue) Darb. SPECIES
-=======
+# Caloplaca cinericola (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

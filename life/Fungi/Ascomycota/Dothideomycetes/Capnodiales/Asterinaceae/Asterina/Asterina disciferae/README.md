@@ -1,5 +1,4 @@
-Asterina disciferae Hosag. SPECIES
-=======
+# Asterina disciferae Hosag. SPECIES
 
 #### Status
 ACCEPTED

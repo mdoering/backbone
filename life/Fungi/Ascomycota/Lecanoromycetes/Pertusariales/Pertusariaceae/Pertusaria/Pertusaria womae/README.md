@@ -1,5 +1,4 @@
-Pertusaria womae Yasuda ex Räsänen SPECIES
-=======
+# Pertusaria womae Yasuda ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

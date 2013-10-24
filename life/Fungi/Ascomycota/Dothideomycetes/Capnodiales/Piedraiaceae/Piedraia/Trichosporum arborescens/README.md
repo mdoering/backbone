@@ -1,5 +1,4 @@
-Trichosporum arborescens Penz. & Sacc. SPECIES
-=======
+# Trichosporum arborescens Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

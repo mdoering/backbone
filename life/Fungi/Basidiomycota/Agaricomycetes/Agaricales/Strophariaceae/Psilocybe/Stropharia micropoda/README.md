@@ -1,5 +1,4 @@
-Stropharia micropoda Morgan SPECIES
-=======
+# Stropharia micropoda Morgan SPECIES
 
 #### Status
 ACCEPTED

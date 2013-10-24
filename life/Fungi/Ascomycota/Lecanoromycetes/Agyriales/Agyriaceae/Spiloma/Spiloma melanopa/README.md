@@ -1,5 +1,4 @@
-Spiloma melanopa SPECIES
-=======
+# Spiloma melanopa SPECIES
 
 #### Status
 ACCEPTED

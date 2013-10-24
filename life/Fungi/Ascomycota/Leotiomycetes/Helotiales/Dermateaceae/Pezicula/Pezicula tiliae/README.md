@@ -1,5 +1,4 @@
-Pezicula tiliae Svrcek SPECIES
-=======
+# Pezicula tiliae Svrcek SPECIES
 
 #### Status
 ACCEPTED

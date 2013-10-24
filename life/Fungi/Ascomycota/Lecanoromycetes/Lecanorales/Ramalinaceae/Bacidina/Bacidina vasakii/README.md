@@ -1,5 +1,4 @@
-Bacidina vasakii (Vezda) Vezda SPECIES
-=======
+# Bacidina vasakii (Vezda) Vezda SPECIES
 
 #### Status
 ACCEPTED

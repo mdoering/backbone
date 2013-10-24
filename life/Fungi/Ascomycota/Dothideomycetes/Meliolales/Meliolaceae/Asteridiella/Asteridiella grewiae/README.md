@@ -1,5 +1,4 @@
-Asteridiella grewiae C.R. Patil ex Hosag. SPECIES
-=======
+# Asteridiella grewiae C.R. Patil ex Hosag. SPECIES
 
 #### Status
 ACCEPTED

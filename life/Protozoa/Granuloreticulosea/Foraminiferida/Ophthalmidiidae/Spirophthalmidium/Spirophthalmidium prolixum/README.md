@@ -1,5 +1,4 @@
-Spirophthalmidium prolixum Loeblich & Tappan, 1994 SPECIES
-=======
+# Spirophthalmidium prolixum Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

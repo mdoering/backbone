@@ -1,14 +1,13 @@
-Asterella schweinfurthii Henn. SPECIES
-=======
+# Placoasterella schweinfurthii (Henn.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 13(3/4): 236 (1915)
 
 #### Original name
 Asterella schweinfurthii Henn.

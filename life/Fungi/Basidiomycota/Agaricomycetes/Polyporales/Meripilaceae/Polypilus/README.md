@@ -1,5 +1,4 @@
-Polypilus GENUS
-=======
+# Polypilus GENUS
 
 #### Status
 ACCEPTED

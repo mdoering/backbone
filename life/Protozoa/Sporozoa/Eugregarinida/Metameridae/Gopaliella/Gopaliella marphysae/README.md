@@ -1,5 +1,4 @@
-Gopaliella marphysae Ganapati, Kalavati & Sundaram, 1974 SPECIES
-=======
+# Gopaliella marphysae Ganapati, Kalavati & Sundaram, 1974 SPECIES
 
 #### Status
 ACCEPTED

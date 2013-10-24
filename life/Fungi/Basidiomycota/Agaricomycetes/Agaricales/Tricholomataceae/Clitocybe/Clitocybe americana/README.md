@@ -1,5 +1,4 @@
-Clitocybe americana H.E. Bigelow, 1976 SPECIES
-=======
+# Clitocybe americana H.E. Bigelow, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius poppyzon Melot SPECIES
-=======
+# Cortinarius poppyzon Melot SPECIES
 
 #### Status
 ACCEPTED

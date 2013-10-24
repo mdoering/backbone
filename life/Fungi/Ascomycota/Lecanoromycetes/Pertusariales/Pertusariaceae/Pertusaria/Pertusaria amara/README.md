@@ -1,17 +1,16 @@
-Pertusaria slesvicensis f. slesvicensis FORM
-=======
+# Pertusaria amara (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Pertusaria slesvicensis f. slesvicensis
+null
 
 ### Remarks
 null

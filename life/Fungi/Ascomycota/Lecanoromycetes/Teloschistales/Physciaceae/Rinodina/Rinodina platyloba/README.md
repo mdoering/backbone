@@ -1,5 +1,4 @@
-Rinodina platyloba Willey SPECIES
-=======
+# Rinodina platyloba Willey SPECIES
 
 #### Status
 ACCEPTED

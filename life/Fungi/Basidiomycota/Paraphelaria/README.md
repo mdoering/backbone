@@ -1,5 +1,4 @@
-Paraphelaria Corner GENUS
-=======
+# Paraphelaria Corner GENUS
 
 #### Status
 ACCEPTED

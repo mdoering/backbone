@@ -1,5 +1,4 @@
-Leucopaxillus brunneiflavidus Corner SPECIES
-=======
+# Leucopaxillus brunneiflavidus Corner SPECIES
 
 #### Status
 ACCEPTED

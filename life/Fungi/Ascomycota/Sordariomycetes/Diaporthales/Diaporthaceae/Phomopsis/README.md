@@ -1,17 +1,16 @@
-Endogloea Höhn. GENUS
-=======
+# Phomopsis (Saccardo) Bubák, 1905 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. Gärungsphysiol. 5: 207 (1915)
+Öst. bot. Z. 55: 78 (1905)
 
 #### Original name
-Endogloea Höhn.
+null
 
 ### Remarks
 null

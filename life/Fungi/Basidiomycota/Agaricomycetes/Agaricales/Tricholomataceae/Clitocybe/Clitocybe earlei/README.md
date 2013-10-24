@@ -1,5 +1,4 @@
-Clitocybe earlei Murrill SPECIES
-=======
+# Clitocybe earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

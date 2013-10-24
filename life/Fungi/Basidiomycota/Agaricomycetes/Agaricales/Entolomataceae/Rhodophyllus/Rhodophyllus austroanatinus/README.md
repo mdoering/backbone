@@ -1,5 +1,4 @@
-Rhodophyllus austroanatinus Singer SPECIES
-=======
+# Rhodophyllus austroanatinus Singer SPECIES
 
 #### Status
 ACCEPTED

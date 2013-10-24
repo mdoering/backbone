@@ -1,5 +1,4 @@
-Erysiphe epimedii var. epimedii VARIETY
-=======
+# Erysiphe epimedii (F.L. Tai) R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta microbiol. sin. 20(4): 356 (1980)
 
 #### Original name
-Erysiphe epimedii var. epimedii
+Erysiphe polygoni var. epimedii F.L. Tai
 
 ### Remarks
 null

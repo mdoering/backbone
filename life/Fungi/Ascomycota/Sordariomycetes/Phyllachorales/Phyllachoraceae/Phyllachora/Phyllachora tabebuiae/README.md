@@ -1,14 +1,13 @@
-Puiggarina tabebuiae (Rehm) Speg., 1919 SPECIES
-=======
+# Phyllachora tabebuiae (Rehm) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 23: 486 (1919)
+Annls mycol. 13(5/6): 553 (1915)
 
 #### Original name
 Physalospora tabebuiae Rehm, 1901

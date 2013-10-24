@@ -1,5 +1,4 @@
-Palaeophalacroma verrucosum Schiller, 1928 SPECIES
-=======
+# Palaeophalacroma verrucosum Schiller, 1928 SPECIES
 
 #### Status
 ACCEPTED

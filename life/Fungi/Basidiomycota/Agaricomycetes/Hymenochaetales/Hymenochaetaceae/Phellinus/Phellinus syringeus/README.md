@@ -1,5 +1,4 @@
-Phellinus syringeus X.L. Zeng, 1987 SPECIES
-=======
+# Phellinus syringeus X.L. Zeng, 1987 SPECIES
 
 #### Status
 ACCEPTED

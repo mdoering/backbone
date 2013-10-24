@@ -1,5 +1,4 @@
-Pulvinulina corticata Heron-Allen & Earland, 1928 SPECIES
-=======
+# Pulvinulina corticata Heron-Allen & Earland, 1928 SPECIES
 
 #### Status
 ACCEPTED

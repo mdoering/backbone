@@ -1,5 +1,4 @@
-Maculatasporites indicus Tiwari, 1964 SPECIES
-=======
+# Maculatasporites indicus Tiwari, 1964 SPECIES
 
 #### Status
 ACCEPTED

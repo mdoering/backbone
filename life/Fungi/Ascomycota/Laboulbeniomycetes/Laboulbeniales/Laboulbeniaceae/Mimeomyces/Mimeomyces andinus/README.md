@@ -1,5 +1,4 @@
-Mimeomyces andinus Thaxt. SPECIES
-=======
+# Mimeomyces andinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

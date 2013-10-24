@@ -1,5 +1,4 @@
-Omphalopsis bakeri Murrill SPECIES
-=======
+# Omphalopsis bakeri Murrill SPECIES
 
 #### Status
 ACCEPTED

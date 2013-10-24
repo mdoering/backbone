@@ -1,5 +1,4 @@
-Heminidium GENUS
-=======
+# Heminidium GENUS
 
 #### Status
 ACCEPTED

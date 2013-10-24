@@ -1,5 +1,4 @@
-Pseudocercospora cryptostegiae (W. Yamam.) Deighton SPECIES
-=======
+# Pseudocercospora cryptostegiae (W. Yamam.) Deighton SPECIES
 
 #### Status
 ACCEPTED

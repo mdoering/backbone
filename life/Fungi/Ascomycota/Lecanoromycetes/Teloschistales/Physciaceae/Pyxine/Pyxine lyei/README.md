@@ -1,5 +1,4 @@
-Pyxine lyei Swinscow & Krog SPECIES
-=======
+# Pyxine lyei Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria tetragona Schwein. SPECIES
-=======
+# Clavaria tetragona Schwein. SPECIES
 
 #### Status
 ACCEPTED

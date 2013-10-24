@@ -1,5 +1,4 @@
-Cladonia abbatiana S. Stenroos SPECIES
-=======
+# Cladonia abbatiana S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

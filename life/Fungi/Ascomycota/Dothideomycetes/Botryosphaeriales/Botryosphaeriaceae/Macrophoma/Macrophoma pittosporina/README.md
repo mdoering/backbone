@@ -1,5 +1,4 @@
-Macrophoma pittosporina Sousa da Câmara SPECIES
-=======
+# Macrophoma pittosporina Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

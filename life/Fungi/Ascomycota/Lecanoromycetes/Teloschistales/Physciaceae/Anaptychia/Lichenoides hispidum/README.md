@@ -1,5 +1,4 @@
-Lichenoides hispidum SPECIES
-=======
+# Lichenoides hispidum SPECIES
 
 #### Status
 ACCEPTED

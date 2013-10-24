@@ -1,5 +1,4 @@
-Sphaeronaema sphaeropsideum Ellis & Everh. SPECIES
-=======
+# Sphaeronaema sphaeropsideum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

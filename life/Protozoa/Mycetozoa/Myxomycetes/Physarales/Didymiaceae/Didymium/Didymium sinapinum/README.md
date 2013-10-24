@@ -1,5 +1,4 @@
-Didymium sinapinum Cooke SPECIES
-=======
+# Didymium sinapinum Cooke SPECIES
 
 #### Status
 ACCEPTED

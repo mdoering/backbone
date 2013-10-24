@@ -1,5 +1,4 @@
-Cryptodiscus lichenicola Ces. SPECIES
-=======
+# Cryptodiscus lichenicola Ces. SPECIES
 
 #### Status
 ACCEPTED

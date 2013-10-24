@@ -1,5 +1,4 @@
-Plagiostigme Syd. GENUS
-=======
+# Plagiostigme Syd. GENUS
 
 #### Status
 ACCEPTED

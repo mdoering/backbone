@@ -1,5 +1,4 @@
-Cordyceps insignis Cooke & Ravenel SPECIES
-=======
+# Cordyceps insignis Cooke & Ravenel SPECIES
 
 #### Status
 ACCEPTED

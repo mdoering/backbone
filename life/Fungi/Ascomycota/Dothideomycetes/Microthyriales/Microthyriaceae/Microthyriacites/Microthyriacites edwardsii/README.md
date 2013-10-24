@@ -1,8 +1,7 @@
-Microthyriacites edwardsi Rao SPECIES
-=======
+# Microthyriacites edwardsii Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microthyriacites edwardsi Rao
+Microthyriacites edwardsii Rao
 
 ### Remarks
 null

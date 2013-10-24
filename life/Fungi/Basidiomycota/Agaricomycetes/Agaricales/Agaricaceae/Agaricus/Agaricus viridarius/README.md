@@ -1,5 +1,4 @@
-Agaricus viridarius With. SPECIES
-=======
+# Agaricus viridarius With. SPECIES
 
 #### Status
 ACCEPTED

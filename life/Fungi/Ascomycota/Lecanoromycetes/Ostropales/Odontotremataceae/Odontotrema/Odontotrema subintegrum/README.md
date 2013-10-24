@@ -1,5 +1,4 @@
-Odontotrema subintegrum SPECIES
-=======
+# Odontotrema subintegrum SPECIES
 
 #### Status
 ACCEPTED

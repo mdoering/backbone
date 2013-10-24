@@ -1,17 +1,16 @@
-Chiloëlla H. Sydow, 1928 GENUS
-=======
+# Glomerella Spaulding & H. Schrenk, 1903 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Science, N. Y. 17: 751 (1903)
 
 #### Original name
-null
+Glomerella Spaulding & H. Schrenk, 1903
 
 ### Remarks
 null

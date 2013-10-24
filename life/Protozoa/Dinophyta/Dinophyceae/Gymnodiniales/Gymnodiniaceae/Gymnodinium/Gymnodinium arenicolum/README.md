@@ -1,5 +1,4 @@
-Gymnodinium arenicolum Dragesco, 1965 SPECIES
-=======
+# Gymnodinium arenicolum Dragesco, 1965 SPECIES
 
 #### Status
 ACCEPTED

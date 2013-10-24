@@ -1,5 +1,4 @@
-Lepiota caloceps G.F. Atk. SPECIES
-=======
+# Lepiota caloceps G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

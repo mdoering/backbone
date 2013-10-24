@@ -1,5 +1,4 @@
-Rosellinites bertschianus Kirschst. SPECIES
-=======
+# Rosellinites bertschianus Kirschst. SPECIES
 
 #### Status
 ACCEPTED

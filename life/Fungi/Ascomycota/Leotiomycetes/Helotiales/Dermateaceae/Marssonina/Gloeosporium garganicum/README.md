@@ -1,5 +1,4 @@
-Gloeosporium garganicum Sacc. & D. Sacc. SPECIES
-=======
+# Gloeosporium garganicum Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

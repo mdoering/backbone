@@ -1,5 +1,4 @@
-Physarum alvoradianum Gottsb., 1968 SPECIES
-=======
+# Physarum alvoradianum Gottsb., 1968 SPECIES
 
 #### Status
 ACCEPTED

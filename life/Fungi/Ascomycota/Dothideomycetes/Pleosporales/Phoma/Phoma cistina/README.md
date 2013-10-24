@@ -1,5 +1,4 @@
-Phoma cistina Cooke SPECIES
-=======
+# Phoma cistina Cooke SPECIES
 
 #### Status
 ACCEPTED

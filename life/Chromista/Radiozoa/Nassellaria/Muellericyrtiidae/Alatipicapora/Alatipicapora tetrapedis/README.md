@@ -1,5 +1,4 @@
-Alatipicapora tetrapedis SPECIES
-=======
+# Alatipicapora tetrapedis SPECIES
 
 #### Status
 ACCEPTED

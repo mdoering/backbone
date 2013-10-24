@@ -1,17 +1,16 @@
-Parmelia homotoma f. homotoma FORM
-=======
+# Parmotrema homotomum (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(4): 336 (1974)
 
 #### Original name
-Parmelia homotoma f. homotoma
+Parmelia homotoma Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coprinopsis mexicana (Murrill) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis mexicana (Murrill) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

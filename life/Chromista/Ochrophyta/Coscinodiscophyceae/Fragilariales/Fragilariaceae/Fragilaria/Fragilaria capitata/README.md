@@ -1,5 +1,4 @@
-Fragilaria capitata (Ehrenb.) Lange-Bertalot SPECIES
-=======
+# Fragilaria capitata (Ehrenb.) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

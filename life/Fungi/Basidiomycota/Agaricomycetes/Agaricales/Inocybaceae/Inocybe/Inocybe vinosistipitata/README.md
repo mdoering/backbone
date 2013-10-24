@@ -1,5 +1,4 @@
-Inocybe vinosistipitata Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe vinosistipitata Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

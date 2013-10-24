@@ -1,5 +1,4 @@
-Microdiplodia granulosa A.L. Guyot SPECIES
-=======
+# Microdiplodia granulosa A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

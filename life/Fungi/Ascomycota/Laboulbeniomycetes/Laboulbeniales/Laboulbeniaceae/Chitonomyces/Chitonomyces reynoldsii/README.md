@@ -1,5 +1,4 @@
-Chitonomyces reynoldsii Thaxt. SPECIES
-=======
+# Chitonomyces reynoldsii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

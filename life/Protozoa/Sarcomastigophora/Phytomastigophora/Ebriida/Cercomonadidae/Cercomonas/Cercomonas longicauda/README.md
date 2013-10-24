@@ -1,5 +1,4 @@
-Cercomonas longicauda SPECIES
-=======
+# Cercomonas longicauda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsaria fennica (P. Karst.) Sacc. SPECIES
-=======
+# Valsaria fennica (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

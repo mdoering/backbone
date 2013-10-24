@@ -1,5 +1,4 @@
-Phaeoisariopsis menispermi (Ellis & Holw.) Deighton SPECIES
-=======
+# Phaeoisariopsis menispermi (Ellis & Holw.) Deighton SPECIES
 
 #### Status
 ACCEPTED

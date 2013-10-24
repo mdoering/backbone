@@ -1,5 +1,4 @@
-Phaneromycetaceae Gamundí & Spinedi FAMILY
-=======
+# Phaneromycetaceae Gamundí & Spinedi FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus cyathiformis Lév. SPECIES
-=======
+# Polyporus cyathiformis Lév. SPECIES
 
 #### Status
 ACCEPTED

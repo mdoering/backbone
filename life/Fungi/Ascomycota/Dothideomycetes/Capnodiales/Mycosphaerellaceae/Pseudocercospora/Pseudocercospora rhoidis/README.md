@@ -1,5 +1,4 @@
-Pseudocercospora rhoidis Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora rhoidis Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

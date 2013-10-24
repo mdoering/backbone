@@ -1,5 +1,4 @@
-Exotrichum GENUS
-=======
+# Exotrichum GENUS
 
 #### Status
 ACCEPTED

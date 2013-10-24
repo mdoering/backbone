@@ -1,5 +1,4 @@
-Lecanora fulvida Motyka SPECIES
-=======
+# Lecanora fulvida Motyka SPECIES
 
 #### Status
 ACCEPTED

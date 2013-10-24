@@ -1,5 +1,4 @@
-Phyllachora simabicola Petr., 1947 SPECIES
-=======
+# Phyllachora simabicola Petr., 1947 SPECIES
 
 #### Status
 DOUBTFUL

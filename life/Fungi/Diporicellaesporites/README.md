@@ -1,5 +1,4 @@
-Diporicellaesporites Elsik GENUS
-=======
+# Diporicellaesporites Elsik GENUS
 
 #### Status
 ACCEPTED

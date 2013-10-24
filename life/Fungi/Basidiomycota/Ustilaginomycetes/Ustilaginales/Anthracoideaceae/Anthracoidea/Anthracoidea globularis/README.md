@@ -1,5 +1,4 @@
-Anthracoidea globularis Kukkonen SPECIES
-=======
+# Anthracoidea globularis Kukkonen SPECIES
 
 #### Status
 ACCEPTED

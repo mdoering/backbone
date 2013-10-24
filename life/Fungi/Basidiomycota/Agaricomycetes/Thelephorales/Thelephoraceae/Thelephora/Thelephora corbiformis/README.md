@@ -1,5 +1,4 @@
-Thelephora corbiformis Fr. SPECIES
-=======
+# Thelephora corbiformis Fr. SPECIES
 
 #### Status
 ACCEPTED

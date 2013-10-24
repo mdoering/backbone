@@ -1,14 +1,13 @@
-Helminthosporium parasiticum Sacc. & Berl., 1889 SPECIES
-=======
+# Pyriculariopsis parasitica (Sacc. & Berl.) M.B. Ellis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Dematiaceous Hyphomycetes (Kew) 207 (1971)
 
 #### Original name
 Helminthosporium parasiticum Sacc. & Berl., 1889

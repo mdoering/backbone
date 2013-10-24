@@ -1,14 +1,13 @@
-Phoma rhois Sacc., 1881 SPECIES
-=======
+# Phomopsis rhois (Sacc.) Traverso, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 7): 340 (1881)
+Fl. ital. crypt. (Florence), Pyrenomycetae 2(1): 258 (1906)
 
 #### Original name
 Phoma rhois Sacc., 1881

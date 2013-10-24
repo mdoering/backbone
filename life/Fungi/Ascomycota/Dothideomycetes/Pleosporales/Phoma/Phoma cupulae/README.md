@@ -1,5 +1,4 @@
-Phoma cupulae Sacc. SPECIES
-=======
+# Phoma cupulae Sacc. SPECIES
 
 #### Status
 ACCEPTED

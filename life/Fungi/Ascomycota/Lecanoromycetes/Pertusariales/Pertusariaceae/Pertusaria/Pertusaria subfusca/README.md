@@ -1,5 +1,4 @@
-Pertusaria subfusca Erichsen SPECIES
-=======
+# Pertusaria subfusca Erichsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Toninia collematicola Timdal SPECIES
-=======
+# Toninia collematicola Timdal SPECIES
 
 #### Status
 ACCEPTED

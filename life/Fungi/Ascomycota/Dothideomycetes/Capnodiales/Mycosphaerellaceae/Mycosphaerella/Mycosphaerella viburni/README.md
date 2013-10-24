@@ -1,5 +1,4 @@
-Mycosphaerella viburni (Nitschke) J. Schröt. SPECIES
-=======
+# Mycosphaerella viburni (Nitschke) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

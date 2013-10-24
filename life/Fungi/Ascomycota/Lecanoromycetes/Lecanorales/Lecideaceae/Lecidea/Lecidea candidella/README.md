@@ -1,5 +1,4 @@
-Lecidea candidella Nyl. SPECIES
-=======
+# Lecidea candidella Nyl. SPECIES
 
 #### Status
 ACCEPTED

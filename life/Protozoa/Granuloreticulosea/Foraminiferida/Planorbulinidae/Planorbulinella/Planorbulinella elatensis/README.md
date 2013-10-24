@@ -1,5 +1,4 @@
-Planorbulinella elatensis Thomas, 1977 SPECIES
-=======
+# Planorbulinella elatensis Thomas, 1977 SPECIES
 
 #### Status
 ACCEPTED

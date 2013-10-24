@@ -1,5 +1,4 @@
-Bacillus galactophilus Takagi et al., 1993 SPECIES
-=======
+# Bacillus galactophilus Takagi et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

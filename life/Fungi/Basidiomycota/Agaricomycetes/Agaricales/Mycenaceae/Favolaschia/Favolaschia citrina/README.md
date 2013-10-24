@@ -1,5 +1,4 @@
-Favolaschia citrina Kobayasi, 1982 SPECIES
-=======
+# Favolaschia citrina Kobayasi, 1982 SPECIES
 
 #### Status
 ACCEPTED

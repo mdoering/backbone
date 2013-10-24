@@ -1,5 +1,4 @@
-Xylaria massula Ces. SPECIES
-=======
+# Xylaria massula Ces. SPECIES
 
 #### Status
 ACCEPTED

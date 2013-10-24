@@ -1,14 +1,13 @@
-Mitremyces cinnabarinus (Corda) De Toni SPECIES
-=======
+# Calostoma cinnabarinum Corda, 1809 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anleitung 2: 94 (1809)
 
 #### Original name
 Calostoma cinnabarinum Corda, 1809

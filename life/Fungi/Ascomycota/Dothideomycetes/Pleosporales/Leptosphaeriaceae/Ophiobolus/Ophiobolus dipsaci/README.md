@@ -1,5 +1,4 @@
-Ophiobolus dipsaci Ade SPECIES
-=======
+# Ophiobolus dipsaci Ade SPECIES
 
 #### Status
 ACCEPTED

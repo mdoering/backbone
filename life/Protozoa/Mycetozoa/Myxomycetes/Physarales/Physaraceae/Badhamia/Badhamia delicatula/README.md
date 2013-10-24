@@ -1,5 +1,4 @@
-Badhamia delicatula D.W. Mitch. & Nann.-Bremek., 1976 SPECIES
-=======
+# Badhamia delicatula D.W. Mitch. & Nann.-Bremek., 1976 SPECIES
 
 #### Status
 ACCEPTED

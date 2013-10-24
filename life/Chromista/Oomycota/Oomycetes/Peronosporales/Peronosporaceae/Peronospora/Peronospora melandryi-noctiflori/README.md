@@ -1,8 +1,7 @@
-Peronospora melandrii-noctiflori Savul. & Rayss SPECIES
-=======
+# Peronospora melandryi-noctiflori Savul. & Rayss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peronospora melandrii-noctiflori Savul. & Rayss
+Peronospora melandryi-noctiflori Savul. & Rayss
 
 ### Remarks
 null

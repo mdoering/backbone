@@ -1,5 +1,4 @@
-Rhizocarpon melaneimum f. melaneimum FORM
-=======
+# Rhizocarpon melaneimum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 337 (1926)
 
 #### Original name
-Rhizocarpon melaneimum f. melaneimum
+Catocarpus melaneimum Vain.
 
 ### Remarks
 null

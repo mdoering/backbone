@@ -1,5 +1,4 @@
-Pseudocyphellaria lactucaefolia (Pers.) C.W. Dodge SPECIES
-=======
+# Pseudocyphellaria lactucaefolia (Pers.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

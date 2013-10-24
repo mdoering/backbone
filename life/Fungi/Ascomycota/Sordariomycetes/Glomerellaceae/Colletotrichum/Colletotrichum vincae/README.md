@@ -1,5 +1,4 @@
-Colletotrichum vincae Politis SPECIES
-=======
+# Colletotrichum vincae Politis SPECIES
 
 #### Status
 ACCEPTED

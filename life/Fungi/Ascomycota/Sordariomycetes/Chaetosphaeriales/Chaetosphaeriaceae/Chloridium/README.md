@@ -1,17 +1,16 @@
-Sphaeromycetella G. Arnaud GENUS
-=======
+# Chloridium Link, 1809 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 69: 279 (1954)
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): 13 (1809)
 
 #### Original name
-Sphaeromycetella G. Arnaud
+Chloridium Link, 1809
 
 ### Remarks
 null

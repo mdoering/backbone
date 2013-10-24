@@ -1,8 +1,7 @@
-Penicillium cyaneofulvum Biourge, 1923 SPECIES
-=======
+# Penicillium griseoroseum Dierckx, 1901 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

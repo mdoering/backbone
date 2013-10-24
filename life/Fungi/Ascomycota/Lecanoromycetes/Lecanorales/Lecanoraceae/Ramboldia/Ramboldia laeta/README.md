@@ -1,14 +1,13 @@
-Lecidea laeta Stirt. SPECIES
-=======
+# Ramboldia laeta (Stirt.) Kalb, Lumbsch & Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. New Zealand Inst. 30: 384 (1898)
+Nova Hedwigia 86(1-2): 34 (2008)
 
 #### Original name
 Lecidea laeta Stirt.

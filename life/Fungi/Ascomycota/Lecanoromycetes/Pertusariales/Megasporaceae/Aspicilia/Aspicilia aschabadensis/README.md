@@ -1,5 +1,4 @@
-Aspicilia aschabadensis (J. Steiner) Mereschk. SPECIES
-=======
+# Aspicilia aschabadensis (J. Steiner) Mereschk. SPECIES
 
 #### Status
 ACCEPTED

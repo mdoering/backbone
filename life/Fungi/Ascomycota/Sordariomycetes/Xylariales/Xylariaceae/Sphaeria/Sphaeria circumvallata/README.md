@@ -1,5 +1,4 @@
-Sphaeria circumvallata Sowerby SPECIES
-=======
+# Sphaeria circumvallata Sowerby SPECIES
 
 #### Status
 ACCEPTED

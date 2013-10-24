@@ -1,5 +1,4 @@
-Bipolaris mediocris (V.A. Putterill) Shoemaker SPECIES
-=======
+# Bipolaris mediocris (V.A. Putterill) Shoemaker SPECIES
 
 #### Status
 ACCEPTED

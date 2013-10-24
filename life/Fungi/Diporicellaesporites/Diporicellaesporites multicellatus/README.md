@@ -1,5 +1,4 @@
-Diporicellaesporites multicellatus R.K. Saxena & S. Khare SPECIES
-=======
+# Diporicellaesporites multicellatus R.K. Saxena & S. Khare SPECIES
 
 #### Status
 ACCEPTED

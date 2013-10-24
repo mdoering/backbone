@@ -1,5 +1,4 @@
-Heterococcus pleurococcoides Pitschmann SPECIES
-=======
+# Heterococcus pleurococcoides Pitschmann SPECIES
 
 #### Status
 ACCEPTED

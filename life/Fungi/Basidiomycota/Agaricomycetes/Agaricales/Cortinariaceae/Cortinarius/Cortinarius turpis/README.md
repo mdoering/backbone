@@ -1,5 +1,4 @@
-Cortinarius turpis E. Horak SPECIES
-=======
+# Cortinarius turpis E. Horak SPECIES
 
 #### Status
 ACCEPTED

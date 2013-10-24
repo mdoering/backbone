@@ -1,5 +1,4 @@
-Sphaceloma heveae Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma heveae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

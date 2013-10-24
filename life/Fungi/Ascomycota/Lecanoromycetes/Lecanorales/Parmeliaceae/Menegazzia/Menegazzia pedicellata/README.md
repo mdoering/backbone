@@ -1,5 +1,4 @@
-Menegazzia pedicellata Bjerke SPECIES
-=======
+# Menegazzia pedicellata Bjerke SPECIES
 
 #### Status
 ACCEPTED

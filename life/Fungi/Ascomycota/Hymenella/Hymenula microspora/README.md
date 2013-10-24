@@ -1,5 +1,4 @@
-Hymenula microspora Bäumler SPECIES
-=======
+# Hymenula microspora Bäumler SPECIES
 
 #### Status
 ACCEPTED

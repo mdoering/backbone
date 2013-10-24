@@ -1,5 +1,4 @@
-Wettsteinina arctica Shoemaker & C.E. Babc. SPECIES
-=======
+# Wettsteinina arctica Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

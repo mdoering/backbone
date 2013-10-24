@@ -1,5 +1,4 @@
-Entonaema pallida G.W. Martin SPECIES
-=======
+# Entonaema pallida G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bailikania diligena Treshchetenkova in Akulcheva et al., 1981 SPECIES
-=======
+# Bailikania diligena Treshchetenkova in Akulcheva et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

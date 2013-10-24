@@ -1,5 +1,4 @@
-Irpex tomentosocinctus Rick SPECIES
-=======
+# Irpex tomentosocinctus Rick SPECIES
 
 #### Status
 ACCEPTED

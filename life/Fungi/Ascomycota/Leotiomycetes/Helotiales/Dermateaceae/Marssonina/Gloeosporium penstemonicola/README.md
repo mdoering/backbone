@@ -1,5 +1,4 @@
-Gloeosporium penstemonicola H.C. Greene SPECIES
-=======
+# Gloeosporium penstemonicola H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

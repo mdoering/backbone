@@ -1,17 +1,16 @@
-Asteroides Puntoni & Leonardi, 1935 GENUS
-=======
+# Nocardia Trevis. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boll. Accad. Med. , Roma 61: 90-94.
+null
 
 #### Original name
-null
+Nocardia Trevis.
 
 ### Remarks
 null

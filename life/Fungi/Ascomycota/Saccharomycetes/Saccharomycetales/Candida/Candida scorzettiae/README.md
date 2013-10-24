@@ -1,5 +1,4 @@
-Candida scorzettiae Middelhoven & Kurtzman, 2007 SPECIES
-=======
+# Candida scorzettiae Middelhoven & Kurtzman, 2007 SPECIES
 
 #### Status
 ACCEPTED

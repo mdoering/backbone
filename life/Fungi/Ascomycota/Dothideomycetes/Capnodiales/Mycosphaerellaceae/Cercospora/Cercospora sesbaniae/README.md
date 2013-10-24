@@ -1,5 +1,4 @@
-Cercospora sesbaniae Henn. SPECIES
-=======
+# Cercospora sesbaniae Henn. SPECIES
 
 #### Status
 ACCEPTED

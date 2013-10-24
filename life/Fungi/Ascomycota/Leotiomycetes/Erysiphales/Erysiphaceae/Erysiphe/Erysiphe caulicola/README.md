@@ -1,5 +1,4 @@
-Erysiphe caulicola (Petr.) U. Braun SPECIES
-=======
+# Erysiphe caulicola (Petr.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

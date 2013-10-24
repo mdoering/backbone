@@ -1,5 +1,4 @@
-Pyrenophora chrysanthemi Gucevic SPECIES
-=======
+# Pyrenophora chrysanthemi Gucevic SPECIES
 
 #### Status
 ACCEPTED

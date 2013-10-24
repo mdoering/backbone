@@ -1,14 +1,13 @@
-Sphaerospora citrina Massee & Crossl., 1904 SPECIES
-=======
+# Scutellinia citrina (Massee & Crossl.) Y.J. Yao & Spooner, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Naturalist, Hull 4 (1904)
+Mycotaxon 53: 472 (1995)
 
 #### Original name
 Sphaerospora citrina Massee & Crossl., 1904

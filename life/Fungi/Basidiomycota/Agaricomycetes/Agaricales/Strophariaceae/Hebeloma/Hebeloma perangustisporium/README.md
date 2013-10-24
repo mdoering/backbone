@@ -1,5 +1,4 @@
-Hebeloma perangustisporium Hesler SPECIES
-=======
+# Hebeloma perangustisporium Hesler SPECIES
 
 #### Status
 ACCEPTED

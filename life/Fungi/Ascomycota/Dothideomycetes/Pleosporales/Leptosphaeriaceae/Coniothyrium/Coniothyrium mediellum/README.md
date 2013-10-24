@@ -1,5 +1,4 @@
-Coniothyrium mediellum P. Karst. SPECIES
-=======
+# Coniothyrium mediellum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

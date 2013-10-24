@@ -1,5 +1,4 @@
-Phaeonectria parasitica Kirschst. SPECIES
-=======
+# Phaeonectria parasitica Kirschst. SPECIES
 
 #### Status
 ACCEPTED

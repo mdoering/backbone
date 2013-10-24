@@ -1,5 +1,4 @@
-Clavaria plebeja Wulfen SPECIES
-=======
+# Clavaria plebeja Wulfen SPECIES
 
 #### Status
 ACCEPTED

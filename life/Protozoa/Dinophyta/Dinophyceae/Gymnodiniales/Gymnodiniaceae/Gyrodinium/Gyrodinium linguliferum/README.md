@@ -1,5 +1,4 @@
-Gyrodinium linguliferum Lebour SPECIES
-=======
+# Gyrodinium linguliferum Lebour SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapesia exigua Velen. SPECIES
-=======
+# Tapesia exigua Velen. SPECIES
 
 #### Status
 ACCEPTED

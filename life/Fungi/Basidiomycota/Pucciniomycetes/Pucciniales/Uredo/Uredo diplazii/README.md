@@ -1,5 +1,4 @@
-Uredo diplazii (Hirats. f.) Hirats. f. SPECIES
-=======
+# Uredo diplazii (Hirats. f.) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus paraenus Berk. & Broome SPECIES
-=======
+# Agaricus paroenus Berk. & Broome SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 11(no. 56): 502 (1871)
 
 #### Original name
-Agaricus paraenus Berk. & Broome
+Agaricus paroenus Berk. & Broome
 
 ### Remarks
 null

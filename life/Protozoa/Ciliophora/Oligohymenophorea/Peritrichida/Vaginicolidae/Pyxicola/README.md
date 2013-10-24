@@ -1,5 +1,4 @@
-Pyxicola Kent, 1882 GENUS
-=======
+# Pyxicola Kent, 1882 GENUS
 
 #### Status
 ACCEPTED

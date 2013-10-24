@@ -1,5 +1,4 @@
-Amauroderma sericatum (Lloyd) Wakef. SPECIES
-=======
+# Amauroderma sericatum (Lloyd) Wakef. SPECIES
 
 #### Status
 ACCEPTED

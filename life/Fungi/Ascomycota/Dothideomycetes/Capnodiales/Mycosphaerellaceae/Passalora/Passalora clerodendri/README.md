@@ -1,5 +1,4 @@
-Passalora clerodendri (Goh & W.H. Hsieh) U. Braun & Crous SPECIES
-=======
+# Passalora clerodendri (Goh & W.H. Hsieh) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

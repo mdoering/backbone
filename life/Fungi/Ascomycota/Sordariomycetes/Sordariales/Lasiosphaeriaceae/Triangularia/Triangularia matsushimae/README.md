@@ -1,5 +1,4 @@
-Triangularia matsushimae (Udagawa & Furuya) Guarro SPECIES
-=======
+# Triangularia matsushimae (Udagawa & Furuya) Guarro SPECIES
 
 #### Status
 ACCEPTED

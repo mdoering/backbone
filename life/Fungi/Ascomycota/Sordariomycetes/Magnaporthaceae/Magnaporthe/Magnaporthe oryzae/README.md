@@ -1,5 +1,4 @@
-Magnaporthe oryzae B.C. Couch, 2002 SPECIES
-=======
+# Magnaporthe oryzae B.C. Couch, 2002 SPECIES
 
 #### Status
 ACCEPTED

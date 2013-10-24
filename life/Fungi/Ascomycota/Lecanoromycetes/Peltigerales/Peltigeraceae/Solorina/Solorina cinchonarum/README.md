@@ -1,5 +1,4 @@
-Solorina cinchonarum Fée SPECIES
-=======
+# Solorina cinchonarum Fée SPECIES
 
 #### Status
 ACCEPTED

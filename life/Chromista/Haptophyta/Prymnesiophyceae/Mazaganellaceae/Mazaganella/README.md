@@ -1,5 +1,4 @@
-Mazaganella P.R. Bown, 1987 GENUS
-=======
+# Mazaganella P.R. Bown, 1987 GENUS
 
 #### Status
 ACCEPTED

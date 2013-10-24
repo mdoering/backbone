@@ -1,5 +1,4 @@
-Vararia microhyphidia Gilb. & Hemmes SPECIES
-=======
+# Vararia microhyphidia Gilb. & Hemmes SPECIES
 
 #### Status
 ACCEPTED

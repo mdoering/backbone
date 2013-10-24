@@ -1,5 +1,4 @@
-Chlamydophorella ectotabulata M. Smelror SPECIES
-=======
+# Chlamydophorella ectotabulata M. Smelror SPECIES
 
 #### Status
 ACCEPTED

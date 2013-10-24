@@ -1,5 +1,4 @@
-Mesochytrium B.V. Gromov, Mamkaeva & Pljusch GENUS
-=======
+# Mesochytrium B.V. Gromov, Mamkaeva & Pljusch GENUS
 
 #### Status
 ACCEPTED

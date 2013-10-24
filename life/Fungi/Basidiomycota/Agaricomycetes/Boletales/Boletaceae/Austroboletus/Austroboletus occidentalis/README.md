@@ -1,5 +1,4 @@
-Austroboletus occidentalis Watling & N.M. Greg. SPECIES
-=======
+# Austroboletus occidentalis Watling & N.M. Greg. SPECIES
 
 #### Status
 ACCEPTED

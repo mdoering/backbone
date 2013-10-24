@@ -1,5 +1,4 @@
-Coniosporium capitulatum Sacc. & Dearn. SPECIES
-=======
+# Coniosporium capitulatum Sacc. & Dearn. SPECIES
 
 #### Status
 ACCEPTED

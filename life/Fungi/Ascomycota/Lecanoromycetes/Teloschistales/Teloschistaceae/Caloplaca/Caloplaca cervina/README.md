@@ -1,5 +1,4 @@
-Caloplaca cervina Zahlbr. SPECIES
-=======
+# Caloplaca cervina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

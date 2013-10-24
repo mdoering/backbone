@@ -1,5 +1,4 @@
-Stictis ecclesiensis Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
-=======
+# Stictis ecclesiensis Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora barcinonae Ferraris SPECIES
-=======
+# Peronospora barcinonae Ferraris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella hranicensis Petr. SPECIES
-=======
+# Mycosphaerella hranicensis Petr. SPECIES
 
 #### Status
 ACCEPTED

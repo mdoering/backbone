@@ -1,14 +1,13 @@
-Cyathicula furva Graddon, 1977 SPECIES
-=======
+# Crocicreas furvum (Graddon) S.E. Carp., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 69(2): 257 (1977)
+Brittonia 32(2): 270 (1980)
 
 #### Original name
 Cyathicula furva Graddon, 1977

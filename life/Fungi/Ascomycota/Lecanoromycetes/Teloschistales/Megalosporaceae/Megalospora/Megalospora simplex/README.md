@@ -1,5 +1,4 @@
-Megalospora simplex Vezda SPECIES
-=======
+# Megalospora simplex Vezda SPECIES
 
 #### Status
 ACCEPTED

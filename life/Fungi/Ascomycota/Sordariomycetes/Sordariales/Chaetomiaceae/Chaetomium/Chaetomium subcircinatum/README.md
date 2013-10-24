@@ -1,5 +1,4 @@
-Chaetomium subcircinatum A. Carter & R.S. Khan, 1982 SPECIES
-=======
+# Chaetomium subcircinatum A. Carter & R.S. Khan, 1982 SPECIES
 
 #### Status
 ACCEPTED

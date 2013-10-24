@@ -1,5 +1,4 @@
-Isosticha Kiesselbach, 1936 GENUS
-=======
+# Isosticha Kiesselbach, 1936 GENUS
 
 #### Status
 ACCEPTED

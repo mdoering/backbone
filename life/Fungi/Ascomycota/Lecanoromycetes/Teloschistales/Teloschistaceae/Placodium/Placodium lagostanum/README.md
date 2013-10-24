@@ -1,5 +1,4 @@
-Placodium lagostanum (Zahlbr.) Motyka SPECIES
-=======
+# Placodium lagostanum (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

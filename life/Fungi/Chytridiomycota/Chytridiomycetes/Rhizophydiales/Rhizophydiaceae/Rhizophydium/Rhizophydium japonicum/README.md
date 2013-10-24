@@ -1,5 +1,4 @@
-Rhizophydium japonicum Kobayasi & M. Ôkubo SPECIES
-=======
+# Rhizophydium japonicum Kobayasi & M. Ôkubo SPECIES
 
 #### Status
 ACCEPTED

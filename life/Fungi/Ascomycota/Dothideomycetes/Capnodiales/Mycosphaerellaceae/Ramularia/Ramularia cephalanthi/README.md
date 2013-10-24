@@ -1,5 +1,4 @@
-Ramularia cephalanthi (Ellis & Kellerm.) Heald SPECIES
-=======
+# Ramularia cephalanthi (Ellis & Kellerm.) Heald SPECIES
 
 #### Status
 ACCEPTED

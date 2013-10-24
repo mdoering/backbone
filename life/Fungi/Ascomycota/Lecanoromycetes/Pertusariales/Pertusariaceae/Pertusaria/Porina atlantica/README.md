@@ -1,8 +1,7 @@
-Porina guaranitica Malme SPECIES
-=======
+# Porina atlantica (Erichsen) P.M. Jørg., 2000 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

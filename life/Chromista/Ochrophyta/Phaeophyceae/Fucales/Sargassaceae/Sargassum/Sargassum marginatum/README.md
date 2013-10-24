@@ -1,8 +1,7 @@
-Sargassum ilicifolium var. marginatum C. Agardh VARIETY
-=======
+# Sargassum marginatum (C. Agardh) J. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Microdiplodia phillyreae Bubák SPECIES
-=======
+# Microdiplodia phillyreae Bubák SPECIES
 
 #### Status
 ACCEPTED

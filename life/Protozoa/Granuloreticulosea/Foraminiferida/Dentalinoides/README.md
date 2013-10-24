@@ -1,5 +1,4 @@
-Dentalinoides Marie, 1941 GENUS
-=======
+# Dentalinoides Marie, 1941 GENUS
 
 #### Status
 ACCEPTED

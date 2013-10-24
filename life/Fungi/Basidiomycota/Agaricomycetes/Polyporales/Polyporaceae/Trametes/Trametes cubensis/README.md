@@ -1,17 +1,16 @@
-Microporus ostreatus (Lév.) Kuntze, 1898 SPECIES
-=======
+# Trametes cubensis (Mont.) Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 496 (1898)
+Syll. fung. (Abellini) 9: 198 (1891)
 
 #### Original name
-Polyporus ostreatus Lév., 1846
+Polyporus cubensis Mont., 1837
 
 ### Remarks
 null

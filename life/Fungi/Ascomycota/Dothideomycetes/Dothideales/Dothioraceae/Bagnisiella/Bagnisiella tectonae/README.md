@@ -1,5 +1,4 @@
-Bagnisiella tectonae R.C. Rajak, R.C. Gupta, Belap. & A.K. Pandey SPECIES
-=======
+# Bagnisiella tectonae R.C. Rajak, R.C. Gupta, Belap. & A.K. Pandey SPECIES
 
 #### Status
 ACCEPTED

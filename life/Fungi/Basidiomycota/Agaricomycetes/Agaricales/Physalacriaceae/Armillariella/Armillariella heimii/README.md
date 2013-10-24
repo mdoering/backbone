@@ -1,5 +1,4 @@
-Armillariella heimii (Pegler) SPECIES
-=======
+# Armillariella heimii (Pegler) SPECIES
 
 #### Status
 ACCEPTED

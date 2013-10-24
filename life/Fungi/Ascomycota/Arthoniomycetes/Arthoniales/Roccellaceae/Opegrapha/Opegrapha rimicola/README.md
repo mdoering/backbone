@@ -1,5 +1,4 @@
-Opegrapha rimicola Chevall. SPECIES
-=======
+# Opegrapha rimicola Chevall. SPECIES
 
 #### Status
 ACCEPTED

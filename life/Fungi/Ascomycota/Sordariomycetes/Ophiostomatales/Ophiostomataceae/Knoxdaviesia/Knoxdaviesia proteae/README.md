@@ -1,17 +1,16 @@
-Custingophora proteae (M.J. Wingf., P.S. van Wyk & Marasas) M. Kolarík, 2009 SPECIES
-=======
+# Knoxdaviesia proteae M.J. Wingf., P.S. van Wyk & Marasas, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 80(1): 26 (1988)
 
 #### Original name
-null
+Knoxdaviesia proteae M.J. Wingf., P.S. van Wyk & Marasas, 1988
 
 ### Remarks
 null

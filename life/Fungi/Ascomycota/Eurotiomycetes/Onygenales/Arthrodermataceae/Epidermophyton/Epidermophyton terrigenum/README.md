@@ -1,5 +1,4 @@
-Epidermophyton terrigenum Evolc. & Alteras SPECIES
-=======
+# Epidermophyton terrigenum Evolc. & Alteras SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium stoveri C. Booth SPECIES
-=======
+# Fusarium stoveri C. Booth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stoechospermum polypodioides (Lamouroux) J.Agardh, 1848 SPECIES
-=======
+# Stoechospermum polypodioides (Lamouroux) J.Agardh, 1848 SPECIES
 
 #### Status
 ACCEPTED

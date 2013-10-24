@@ -1,5 +1,4 @@
-Galerina robertii E. Horak SPECIES
-=======
+# Galerina robertii E. Horak SPECIES
 
 #### Status
 ACCEPTED

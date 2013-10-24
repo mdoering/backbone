@@ -1,5 +1,4 @@
-Rhabdospora cephalariae Sandu SPECIES
-=======
+# Rhabdospora cephalariae Sandu SPECIES
 
 #### Status
 ACCEPTED

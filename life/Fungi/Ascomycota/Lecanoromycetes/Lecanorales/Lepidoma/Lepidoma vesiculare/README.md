@@ -1,5 +1,4 @@
-Lepidoma vesiculare (Hoffm.) SPECIES
-=======
+# Lepidoma vesiculare (Hoffm.) SPECIES
 
 #### Status
 ACCEPTED

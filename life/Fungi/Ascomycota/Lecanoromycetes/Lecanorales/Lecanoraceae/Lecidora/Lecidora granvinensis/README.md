@@ -1,5 +1,4 @@
-Lecidora granvinensis (Vain.) Motyka SPECIES
-=======
+# Lecidora granvinensis (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

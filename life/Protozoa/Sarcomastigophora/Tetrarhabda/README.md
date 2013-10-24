@@ -1,5 +1,4 @@
-Tetrarhabda Haeckel, 1881 GENUS
-=======
+# Tetrarhabda Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Obolarina Pouzar GENUS
-=======
+# Obolarina Pouzar GENUS
 
 #### Status
 ACCEPTED

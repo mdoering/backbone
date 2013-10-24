@@ -1,5 +1,4 @@
-Sordaria valsoides (Peck) Sacc. SPECIES
-=======
+# Sordaria valsoides (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

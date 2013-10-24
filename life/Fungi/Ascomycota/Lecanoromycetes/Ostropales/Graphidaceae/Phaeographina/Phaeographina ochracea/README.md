@@ -1,5 +1,4 @@
-Phaeographina ochracea (Hepp) Müll. Arg. SPECIES
-=======
+# Phaeographina ochracea (Hepp) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

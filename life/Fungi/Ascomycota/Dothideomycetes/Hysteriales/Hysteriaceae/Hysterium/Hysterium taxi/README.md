@@ -1,5 +1,4 @@
-Hysterium taxi Pers. SPECIES
-=======
+# Hysterium taxi Pers. SPECIES
 
 #### Status
 ACCEPTED

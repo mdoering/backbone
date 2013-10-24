@@ -1,5 +1,4 @@
-Septoria carisolensis Kabát & Bubák SPECIES
-=======
+# Septoria carisolensis Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

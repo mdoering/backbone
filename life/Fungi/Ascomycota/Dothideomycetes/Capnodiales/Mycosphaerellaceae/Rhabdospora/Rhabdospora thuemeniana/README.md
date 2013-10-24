@@ -1,5 +1,4 @@
-Rhabdospora thuemeniana (Pass.) Sacc. SPECIES
-=======
+# Rhabdospora thuemeniana (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

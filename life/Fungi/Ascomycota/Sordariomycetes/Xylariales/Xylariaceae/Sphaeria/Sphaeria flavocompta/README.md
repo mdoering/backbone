@@ -1,5 +1,4 @@
-Sphaeria flavocompta Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria flavocompta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

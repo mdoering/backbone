@@ -1,5 +1,4 @@
-Polyporus rubrocastaneus Lloyd SPECIES
-=======
+# Polyporus rubrocastaneus Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrydium argillaceum Wallroth SPECIES
-=======
+# Botrydium argillaceum Wallroth SPECIES
 
 #### Status
 ACCEPTED

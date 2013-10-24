@@ -1,5 +1,4 @@
-Aulatractus Haeckel, 1887 GENUS
-=======
+# Aulatractus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

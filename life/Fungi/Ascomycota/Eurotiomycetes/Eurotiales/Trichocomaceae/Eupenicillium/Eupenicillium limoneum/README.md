@@ -1,5 +1,4 @@
-Eupenicillium limoneum Goch. & Zlattner SPECIES
-=======
+# Eupenicillium limoneum Goch. & Zlattner SPECIES
 
 #### Status
 ACCEPTED

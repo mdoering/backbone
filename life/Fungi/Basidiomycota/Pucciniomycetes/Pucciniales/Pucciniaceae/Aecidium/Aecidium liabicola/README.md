@@ -1,5 +1,4 @@
-Aecidium liabicola Trotter SPECIES
-=======
+# Aecidium liabicola Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina periclea SPECIES
-=======
+# Rinodina periclea SPECIES
 
 #### Status
 ACCEPTED

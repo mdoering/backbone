@@ -1,17 +1,16 @@
-Tichospora A. Massal. ex Horw. GENUS
-=======
+# Psorotichia A. Massalongo, 1855 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Handlist Lich. Gr. Brit. (1912)
+null
 
 #### Original name
-Tichospora A. Massal. ex Horw.
+null
 
 ### Remarks
 null

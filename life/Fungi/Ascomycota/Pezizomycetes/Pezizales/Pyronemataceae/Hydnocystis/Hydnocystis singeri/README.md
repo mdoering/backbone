@@ -1,5 +1,4 @@
-Hydnocystis singeri Gilkey SPECIES
-=======
+# Hydnocystis singeri Gilkey SPECIES
 
 #### Status
 ACCEPTED

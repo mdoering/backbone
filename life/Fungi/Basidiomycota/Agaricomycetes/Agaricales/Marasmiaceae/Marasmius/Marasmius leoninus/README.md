@@ -1,5 +1,4 @@
-Marasmius leoninus var. leoninus VARIETY
-=======
+# Marasmius leoninus Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hooker's J. Bot. 8: 135 (1856)
 
 #### Original name
-Marasmius leoninus var. leoninus
+Marasmius leoninus Berk.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Octospora hirudo (Batsch) Timm SPECIES
-=======
+# Octospora hirudo (Batsch) Timm SPECIES
 
 #### Status
 ACCEPTED

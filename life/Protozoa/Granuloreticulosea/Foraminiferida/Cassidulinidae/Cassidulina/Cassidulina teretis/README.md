@@ -1,5 +1,4 @@
-Cassidulina teretis SPECIES
-=======
+# Cassidulina teretis SPECIES
 
 #### Status
 ACCEPTED

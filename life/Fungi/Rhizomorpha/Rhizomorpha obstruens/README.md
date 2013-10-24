@@ -1,5 +1,4 @@
-Rhizomorpha obstruens Pers. SPECIES
-=======
+# Rhizomorpha obstruens Pers. SPECIES
 
 #### Status
 ACCEPTED

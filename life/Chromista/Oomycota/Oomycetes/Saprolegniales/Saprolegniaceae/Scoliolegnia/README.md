@@ -1,5 +1,4 @@
-Scoliolegnia M.W. Dick GENUS
-=======
+# Scoliolegnia M.W. Dick GENUS
 
 #### Status
 ACCEPTED

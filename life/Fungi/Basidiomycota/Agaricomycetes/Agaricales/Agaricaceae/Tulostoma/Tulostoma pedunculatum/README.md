@@ -1,5 +1,4 @@
-Tulostoma pedunculatum var. pedunculatum VARIETY
-=======
+# Tulostoma pedunculatum Czern. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tulostoma pedunculatum var. pedunculatum
+Tulostoma pedunculatum Czern.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Elphidium lanieri SPECIES
-=======
+# Elphidium lanieri SPECIES
 
 #### Status
 ACCEPTED

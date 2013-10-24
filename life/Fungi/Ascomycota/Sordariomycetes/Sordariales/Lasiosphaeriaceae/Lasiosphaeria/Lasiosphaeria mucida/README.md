@@ -1,5 +1,4 @@
-Lasiosphaeria mucida (Tode) Seaver SPECIES
-=======
+# Lasiosphaeria mucida (Tode) Seaver SPECIES
 
 #### Status
 ACCEPTED

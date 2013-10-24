@@ -1,14 +1,13 @@
-Dasyscypha sericeus (Alb. & Schwein.) Sacc. SPECIES
-=======
+# Dasyscyphus sericeus (Alb. & Schwein.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 465 (1889)
 
 #### Original name
 Peziza sericea Alb. & Schwein.

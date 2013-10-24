@@ -1,5 +1,4 @@
-Erineum sorbeum (Fr.) Pers. SPECIES
-=======
+# Erineum sorbeum (Fr.) Pers. SPECIES
 
 #### Status
 ACCEPTED

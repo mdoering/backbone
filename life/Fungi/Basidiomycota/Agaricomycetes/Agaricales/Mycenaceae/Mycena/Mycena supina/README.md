@@ -1,5 +1,4 @@
-Mycena supina (Fr.) Quél. SPECIES
-=======
+# Mycena supina (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria appendiculata Schumach. SPECIES
-=======
+# Sphaeria appendiculata Schumach. SPECIES
 
 #### Status
 ACCEPTED

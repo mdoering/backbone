@@ -1,5 +1,4 @@
-Radulomyces subsigmoideus Hjortstam & Ryvarden, 2001 SPECIES
-=======
+# Radulomyces subsigmoideus Hjortstam & Ryvarden, 2001 SPECIES
 
 #### Status
 ACCEPTED

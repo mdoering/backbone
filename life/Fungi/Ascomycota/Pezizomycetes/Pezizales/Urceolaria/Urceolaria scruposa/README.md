@@ -1,5 +1,4 @@
-Urceolaria scruposa var. scruposa VARIETY
-=======
+# Urceolaria scruposa SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Method. Lich. 147 (1803)
+null
 
 #### Original name
-Urceolaria scruposa var. scruposa
+Urceolaria scruposa
 
 ### Remarks
 null

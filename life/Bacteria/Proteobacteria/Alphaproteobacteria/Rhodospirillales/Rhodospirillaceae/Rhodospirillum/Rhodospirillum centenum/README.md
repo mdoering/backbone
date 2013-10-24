@@ -1,5 +1,4 @@
-Rhodospirillum centenum Favinger et al., 1994 SPECIES
-=======
+# Rhodospirillum centenum Favinger et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

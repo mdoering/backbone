@@ -1,5 +1,4 @@
-Keratinomyces ceretanicus Punsola & Guarro, 1984 SPECIES
-=======
+# Keratinomyces ceretanicus Punsola & Guarro, 1984 SPECIES
 
 #### Status
 ACCEPTED

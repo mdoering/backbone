@@ -1,5 +1,4 @@
-Stigmostylus Hollande & Enjumet, 1960 GENUS
-=======
+# Stigmostylus Hollande & Enjumet, 1960 GENUS
 
 #### Status
 ACCEPTED

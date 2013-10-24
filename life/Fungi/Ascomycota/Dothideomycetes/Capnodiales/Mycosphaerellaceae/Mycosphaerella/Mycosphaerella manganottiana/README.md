@@ -1,5 +1,4 @@
-Mycosphaerella manganottiana (C. Massal.) Tomilin SPECIES
-=======
+# Mycosphaerella manganottiana (C. Massal.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

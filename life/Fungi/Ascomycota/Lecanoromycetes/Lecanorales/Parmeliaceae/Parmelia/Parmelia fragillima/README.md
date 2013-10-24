@@ -1,5 +1,4 @@
-Parmelia fragillima Hillmann SPECIES
-=======
+# Parmelia fragillima Hillmann SPECIES
 
 #### Status
 ACCEPTED

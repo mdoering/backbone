@@ -1,5 +1,4 @@
-Asterina decolorans Berk. & Cooke SPECIES
-=======
+# Asterina decolorans Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

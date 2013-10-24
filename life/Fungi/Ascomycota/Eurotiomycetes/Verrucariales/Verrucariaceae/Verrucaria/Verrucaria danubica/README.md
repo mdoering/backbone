@@ -1,5 +1,4 @@
-Verrucaria danubica var. danubica VARIETY
-=======
+# Verrucaria danubica Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria danubica var. danubica
+Verrucaria danubica Servít
 
 ### Remarks
 null

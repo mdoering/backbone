@@ -1,5 +1,4 @@
-Sullivania minima (Perch-Nielsen) O. Varol SPECIES
-=======
+# Sullivania minima (Perch-Nielsen) O. Varol SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus xylophilus Seaver SPECIES
-=======
+# Ascobolus xylophilus Seaver SPECIES
 
 #### Status
 ACCEPTED

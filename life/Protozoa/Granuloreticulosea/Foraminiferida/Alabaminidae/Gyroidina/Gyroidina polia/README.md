@@ -1,5 +1,4 @@
-Gyroidina polia (Phleger & Parker, 1951) SPECIES
-=======
+# Gyroidina polia (Phleger & Parker, 1951) SPECIES
 
 #### Status
 ACCEPTED

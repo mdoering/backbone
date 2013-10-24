@@ -1,5 +1,4 @@
-Scopulariopsis maduramycosis Q.T. Chen SPECIES
-=======
+# Scopulariopsis maduramycosis Q.T. Chen SPECIES
 
 #### Status
 ACCEPTED

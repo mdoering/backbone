@@ -1,5 +1,4 @@
-Alysidium epilobii (Corda) Kuntze SPECIES
-=======
+# Alysidium epilobii (Corda) Kuntze SPECIES
 
 #### Status
 ACCEPTED

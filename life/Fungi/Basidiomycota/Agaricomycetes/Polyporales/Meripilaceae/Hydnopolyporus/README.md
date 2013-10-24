@@ -1,5 +1,4 @@
-Hydnopolyporus D.A. Reid GENUS
-=======
+# Hydnopolyporus D.A. Reid GENUS
 
 #### Status
 ACCEPTED

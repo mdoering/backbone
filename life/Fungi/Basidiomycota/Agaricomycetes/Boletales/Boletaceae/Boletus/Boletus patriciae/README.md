@@ -1,5 +1,4 @@
-Boletus patriciae A.H. Sm. & Thiers SPECIES
-=======
+# Boletus patriciae A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

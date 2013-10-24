@@ -1,5 +1,4 @@
-Thelidium cinereosum Eitner SPECIES
-=======
+# Thelidium cinereosum Eitner SPECIES
 
 #### Status
 ACCEPTED

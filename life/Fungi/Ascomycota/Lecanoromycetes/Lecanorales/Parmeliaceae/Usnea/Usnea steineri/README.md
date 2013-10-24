@@ -1,5 +1,4 @@
-Usnea steineri Zahlbr. SPECIES
-=======
+# Usnea steineri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

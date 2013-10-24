@@ -1,5 +1,4 @@
-Sclerotinia antarctica Gamundí & Spinedi, 1987 SPECIES
-=======
+# Sclerotinia antarctica Gamundí & Spinedi, 1987 SPECIES
 
 #### Status
 ACCEPTED

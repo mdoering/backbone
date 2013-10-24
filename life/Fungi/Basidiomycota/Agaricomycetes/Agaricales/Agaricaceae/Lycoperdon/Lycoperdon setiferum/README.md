@@ -1,5 +1,4 @@
-Lycoperdon setiferum Demoulin SPECIES
-=======
+# Lycoperdon setiferum Demoulin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium lavallense Sacc. SPECIES
-=======
+# Coniosporium lavallense Sacc. SPECIES
 
 #### Status
 ACCEPTED

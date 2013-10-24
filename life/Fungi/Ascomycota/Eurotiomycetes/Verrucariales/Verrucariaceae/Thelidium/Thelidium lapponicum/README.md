@@ -1,5 +1,4 @@
-Thelidium lapponicum (Servít) R. Sant. SPECIES
-=======
+# Thelidium lapponicum (Servít) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

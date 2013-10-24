@@ -1,14 +1,13 @@
-Cercospora persicariae W. Yamam., 1934 SPECIES
-=======
+# Pseudocercospora persicariae (W. Yamam.) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of the Society of Tropical Agriculture, Formosa 6: 605 (1934)
+Mycol. Pap. 140: 150 (1976)
 
 #### Original name
 Cercospora persicariae W. Yamam., 1934

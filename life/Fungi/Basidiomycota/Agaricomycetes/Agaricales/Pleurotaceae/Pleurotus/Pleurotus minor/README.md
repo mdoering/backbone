@@ -1,5 +1,4 @@
-Pleurotus minor Sosin SPECIES
-=======
+# Pleurotus minor Sosin SPECIES
 
 #### Status
 ACCEPTED

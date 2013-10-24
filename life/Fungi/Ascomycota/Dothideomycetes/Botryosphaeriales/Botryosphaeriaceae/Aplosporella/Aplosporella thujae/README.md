@@ -1,5 +1,4 @@
-Aplosporella thujae Petr. SPECIES
-=======
+# Aplosporella thujae Petr. SPECIES
 
 #### Status
 ACCEPTED

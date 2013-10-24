@@ -1,5 +1,4 @@
-Chaetomium fiscicola Petr. SPECIES
-=======
+# Chaetomium fiscicola Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysteronaevia clavulifera Nannf. SPECIES
-=======
+# Hysteronaevia clavulifera Nannf. SPECIES
 
 #### Status
 ACCEPTED

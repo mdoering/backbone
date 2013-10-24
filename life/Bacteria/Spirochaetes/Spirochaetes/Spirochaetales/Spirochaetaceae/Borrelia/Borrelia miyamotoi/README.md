@@ -1,5 +1,4 @@
-Borrelia miyamotoi Fukunaga et al., 1995 SPECIES
-=======
+# Borrelia miyamotoi Fukunaga et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

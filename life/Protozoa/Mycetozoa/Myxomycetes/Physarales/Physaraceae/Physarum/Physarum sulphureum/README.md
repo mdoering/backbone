@@ -1,17 +1,16 @@
-Lignydium lepidodermodes (A. Blytt) Kuntze SPECIES
-=======
+# Physarum sulphureum Alb. & Schwein., 1805 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Consp. fung. (Leipzig) 93 (1805)
 
 #### Original name
-Physarum lepidodermoides A. Blytt, 1892
+Physarum sulphureum Alb. & Schwein., 1805
 
 ### Remarks
 null

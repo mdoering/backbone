@@ -1,5 +1,4 @@
-Pseudovorticella punctata (Dons, 1918) Warren, 1987 SPECIES
-=======
+# Pseudovorticella punctata (Dons, 1918) Warren, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lycoperdon hyemali Bull. SPECIES
-=======
+# Lycoperdon hyemale Bull. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hist. Champ. France (Paris) 1: 148 (1791)
 
 #### Original name
-Lycoperdon hyemali Bull.
+Lycoperdon hyemale Bull.
 
 ### Remarks
 null

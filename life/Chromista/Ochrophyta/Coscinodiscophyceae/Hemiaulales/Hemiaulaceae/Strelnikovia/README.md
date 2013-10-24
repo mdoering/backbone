@@ -1,5 +1,4 @@
-Strelnikovia R.Ross & P.A.Sims, 1985 GENUS
-=======
+# Strelnikovia R.Ross & P.A.Sims, 1985 GENUS
 
 #### Status
 ACCEPTED

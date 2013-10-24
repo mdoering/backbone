@@ -1,5 +1,4 @@
-Sphaeria capensis Lév. SPECIES
-=======
+# Sphaeria capensis Lév. SPECIES
 
 #### Status
 ACCEPTED

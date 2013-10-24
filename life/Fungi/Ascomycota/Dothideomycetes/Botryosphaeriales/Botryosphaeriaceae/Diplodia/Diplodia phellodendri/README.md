@@ -1,5 +1,4 @@
-Diplodia phellodendri Zimm. SPECIES
-=======
+# Diplodia phellodendri Zimm. SPECIES
 
 #### Status
 ACCEPTED

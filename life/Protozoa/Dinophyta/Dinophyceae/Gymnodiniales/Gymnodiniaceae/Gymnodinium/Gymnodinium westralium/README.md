@@ -1,5 +1,4 @@
-Gymnodinium westralium Cookson & Eisenack, 1958 SPECIES
-=======
+# Gymnodinium westralium Cookson & Eisenack, 1958 SPECIES
 
 #### Status
 ACCEPTED

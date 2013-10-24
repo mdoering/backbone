@@ -1,5 +1,4 @@
-Hypochnus setosus J. Schröt. SPECIES
-=======
+# Hypochnus setosus J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

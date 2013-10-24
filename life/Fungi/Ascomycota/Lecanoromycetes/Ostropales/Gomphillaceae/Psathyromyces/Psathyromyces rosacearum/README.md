@@ -1,5 +1,4 @@
-Psathyromyces rosacearum Bat. & Peres SPECIES
-=======
+# Psathyromyces rosacearum Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

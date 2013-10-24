@@ -1,5 +1,4 @@
-Vanderbylia subincarnata Corner, 1987 SPECIES
-=======
+# Vanderbylia subincarnata Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

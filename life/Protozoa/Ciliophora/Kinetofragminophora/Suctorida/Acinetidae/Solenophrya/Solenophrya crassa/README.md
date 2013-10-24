@@ -1,5 +1,4 @@
-Solenophrya crassa Claparède & Lachmann, 1859 SPECIES
-=======
+# Solenophrya crassa Claparède & Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

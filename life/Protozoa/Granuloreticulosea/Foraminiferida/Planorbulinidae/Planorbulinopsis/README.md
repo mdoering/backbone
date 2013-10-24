@@ -1,5 +1,4 @@
-Planorbulinopsis Banner, 1971 GENUS
-=======
+# Planorbulinopsis Banner, 1971 GENUS
 
 #### Status
 ACCEPTED

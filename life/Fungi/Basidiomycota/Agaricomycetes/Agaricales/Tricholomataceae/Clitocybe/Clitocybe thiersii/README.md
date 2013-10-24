@@ -1,5 +1,4 @@
-Clitocybe thiersii H.E. Bigelow SPECIES
-=======
+# Clitocybe thiersii H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

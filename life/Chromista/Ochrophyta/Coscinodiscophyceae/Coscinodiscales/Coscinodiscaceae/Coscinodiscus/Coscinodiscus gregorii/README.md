@@ -1,5 +1,4 @@
-Coscinodiscus gregorii O'Meara SPECIES
-=======
+# Coscinodiscus gregorii O'Meara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora polita (Fr.) Sacc. SPECIES
-=======
+# Rhabdospora polita (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

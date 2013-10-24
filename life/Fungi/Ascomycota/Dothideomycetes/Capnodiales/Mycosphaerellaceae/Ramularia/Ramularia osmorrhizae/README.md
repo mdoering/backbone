@@ -1,5 +1,4 @@
-Ramularia osmorrhizae U. Braun SPECIES
-=======
+# Ramularia osmorrhizae U. Braun SPECIES
 
 #### Status
 ACCEPTED

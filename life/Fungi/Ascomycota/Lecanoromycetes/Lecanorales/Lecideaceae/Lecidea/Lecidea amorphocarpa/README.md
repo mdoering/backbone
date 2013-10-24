@@ -1,5 +1,4 @@
-Lecidea amorphocarpa (Riddle) Zahlbr. SPECIES
-=======
+# Lecidea amorphocarpa (Riddle) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

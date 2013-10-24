@@ -1,5 +1,4 @@
-Stilbella aurantiocinnabarina (Speg.) Herter SPECIES
-=======
+# Stilbella aurantiocinnabarina (Speg.) Herter SPECIES
 
 #### Status
 ACCEPTED

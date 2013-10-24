@@ -1,5 +1,4 @@
-Schizothrix gebeleinii Golubic & Browne SPECIES
-=======
+# Schizothrix gebeleinii Golubic & Browne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helvella cupuliformis var. badia Häffner VARIETY
-=======
+# Helvella cupuliformis Dissing & Nannf., 1966 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Z. Mykol. 7: 70 (1987)
+Svensk bot. Tidskr. 60: 326 (1966)
 
 #### Original name
-Helvella cupuliformis var. badia Häffner
+Helvella cupuliformis Dissing & Nannf., 1966
 
 ### Remarks
 null

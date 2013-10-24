@@ -1,5 +1,4 @@
-Paraenchelys terricola Foissner, 1984 SPECIES
-=======
+# Paraenchelys terricola Foissner, 1984 SPECIES
 
 #### Status
 ACCEPTED

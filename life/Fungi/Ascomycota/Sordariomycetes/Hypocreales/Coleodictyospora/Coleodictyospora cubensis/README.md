@@ -1,5 +1,4 @@
-Coleodictyospora cubensis Charles, 1929 SPECIES
-=======
+# Coleodictyospora cubensis Charles, 1929 SPECIES
 
 #### Status
 ACCEPTED

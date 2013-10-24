@@ -1,5 +1,4 @@
-Arthonia mycoporodes Nyl. SPECIES
-=======
+# Arthonia mycoporodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

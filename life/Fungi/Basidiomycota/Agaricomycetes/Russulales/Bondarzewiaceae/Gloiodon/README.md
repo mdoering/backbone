@@ -1,17 +1,16 @@
-Leaia Banker GENUS
-=======
+# Gloiodon P. Karsten, 1879 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mem. Torrey bot. Club 12(2): 175 (1906)
+null
 
 #### Original name
-Leaia Banker
+null
 
 ### Remarks
 null

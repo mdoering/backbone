@@ -1,5 +1,4 @@
-Excipula applanata Berk. & M.A. Curtis SPECIES
-=======
+# Excipula applanata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

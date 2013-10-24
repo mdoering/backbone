@@ -1,5 +1,4 @@
-Septoria noranteae Henn. SPECIES
-=======
+# Septoria noranteae Henn. SPECIES
 
 #### Status
 ACCEPTED

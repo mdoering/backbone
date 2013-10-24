@@ -1,5 +1,4 @@
-Pyrenopsis rufescens Nyl. SPECIES
-=======
+# Pyrenopsis rufescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

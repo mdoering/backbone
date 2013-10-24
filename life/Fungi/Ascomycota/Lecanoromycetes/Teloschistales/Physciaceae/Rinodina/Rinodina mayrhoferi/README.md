@@ -1,5 +1,4 @@
-Rinodina mayrhoferi A. Crespo SPECIES
-=======
+# Rinodina mayrhoferi A. Crespo SPECIES
 
 #### Status
 ACCEPTED

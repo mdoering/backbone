@@ -1,5 +1,4 @@
-Ocellularia karnatakensis Hale SPECIES
-=======
+# Ocellularia karnatakensis Hale SPECIES
 
 #### Status
 ACCEPTED

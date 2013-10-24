@@ -1,5 +1,4 @@
-Peziza brachypus Ellis & Everh. SPECIES
-=======
+# Peziza brachypus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

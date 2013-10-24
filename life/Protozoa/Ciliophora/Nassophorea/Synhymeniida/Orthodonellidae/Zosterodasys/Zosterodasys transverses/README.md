@@ -1,5 +1,4 @@
-Zosterodasys transverses (Kahl, 1928) SPECIES
-=======
+# Zosterodasys transverses (Kahl, 1928) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa canodisca Ellis & Holw. SPECIES
-=======
+# Valsa canodisca Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

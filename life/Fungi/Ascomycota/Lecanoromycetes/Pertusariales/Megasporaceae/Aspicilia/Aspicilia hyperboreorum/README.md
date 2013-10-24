@@ -1,5 +1,4 @@
-Aspicilia hyperboreorum (Zahlbr.) Oxner SPECIES
-=======
+# Aspicilia hyperboreorum (Zahlbr.) Oxner SPECIES
 
 #### Status
 ACCEPTED

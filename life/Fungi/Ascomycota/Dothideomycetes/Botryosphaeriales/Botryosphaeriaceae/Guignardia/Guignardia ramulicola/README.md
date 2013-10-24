@@ -1,5 +1,4 @@
-Guignardia ramulicola (Pass.) M. Morelet SPECIES
-=======
+# Guignardia ramulicola (Pass.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

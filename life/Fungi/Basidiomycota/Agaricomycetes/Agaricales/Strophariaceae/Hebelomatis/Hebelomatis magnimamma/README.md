@@ -1,5 +1,4 @@
-Hebelomatis magnimamma (Fr.) Locq. SPECIES
-=======
+# Hebelomatis magnimamma (Fr.) Locq. SPECIES
 
 #### Status
 ACCEPTED

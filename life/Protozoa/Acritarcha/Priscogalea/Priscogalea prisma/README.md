@@ -1,5 +1,4 @@
-Priscogalea prisma Martin, 1972 SPECIES
-=======
+# Priscogalea prisma Martin, 1972 SPECIES
 
 #### Status
 ACCEPTED

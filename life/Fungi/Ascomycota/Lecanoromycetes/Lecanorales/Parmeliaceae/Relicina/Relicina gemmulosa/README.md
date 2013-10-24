@@ -1,17 +1,16 @@
-Parmelia gemmulosa Kurok. SPECIES
-=======
+# Relicina gemmulosa (Kurok.) Streimann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 22: 114 (1986)
 
 #### Original name
-null
+Parmelia gemmulosa Kurok.
 
 ### Remarks
 null

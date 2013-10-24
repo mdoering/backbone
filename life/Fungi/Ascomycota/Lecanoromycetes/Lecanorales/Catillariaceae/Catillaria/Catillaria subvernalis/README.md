@@ -1,5 +1,4 @@
-Catillaria subvernalis (Tuck.) Zahlbr. SPECIES
-=======
+# Catillaria subvernalis (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

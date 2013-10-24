@@ -1,5 +1,4 @@
-Patellaria melaenella (Vain.) SPECIES
-=======
+# Patellaria melaenella (Vain.) SPECIES
 
 #### Status
 ACCEPTED

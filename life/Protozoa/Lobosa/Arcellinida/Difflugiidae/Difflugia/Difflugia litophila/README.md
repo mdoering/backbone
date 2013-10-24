@@ -1,8 +1,7 @@
-Difflugia hydrostatica var. litophila Penard, 1902 VARIETY
-=======
+# Difflugia litophila (Penard, 1902) Gauthier-Lièvre & Thomas, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

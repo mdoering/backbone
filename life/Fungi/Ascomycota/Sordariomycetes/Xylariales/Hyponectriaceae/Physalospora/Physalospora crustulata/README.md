@@ -1,5 +1,4 @@
-Physalospora crustulata (Lév.) Sacc. SPECIES
-=======
+# Physalospora crustulata (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

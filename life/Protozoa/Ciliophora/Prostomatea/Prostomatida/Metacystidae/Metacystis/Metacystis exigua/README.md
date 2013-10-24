@@ -1,5 +1,4 @@
-Metacystis exigua SPECIES
-=======
+# Metacystis exigua SPECIES
 
 #### Status
 ACCEPTED

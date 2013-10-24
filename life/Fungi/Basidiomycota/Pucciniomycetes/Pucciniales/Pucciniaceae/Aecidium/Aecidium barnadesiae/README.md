@@ -1,5 +1,4 @@
-Aecidium barnadesiae Jørst. SPECIES
-=======
+# Aecidium barnadesiae Jørst. SPECIES
 
 #### Status
 ACCEPTED

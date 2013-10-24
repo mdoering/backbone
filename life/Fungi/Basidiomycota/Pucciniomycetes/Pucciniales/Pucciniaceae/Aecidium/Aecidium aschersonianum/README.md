@@ -1,5 +1,4 @@
-Aecidium aschersonianum Henn. SPECIES
-=======
+# Aecidium aschersonianum Henn. SPECIES
 
 #### Status
 ACCEPTED

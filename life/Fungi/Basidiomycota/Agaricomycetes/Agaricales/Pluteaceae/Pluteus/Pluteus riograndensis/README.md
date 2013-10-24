@@ -1,5 +1,4 @@
-Pluteus riograndensis var. riograndensis VARIETY
-=======
+# Pluteus riograndensis Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pluteus riograndensis var. riograndensis
+Pluteus riograndensis Singer
 
 ### Remarks
 null

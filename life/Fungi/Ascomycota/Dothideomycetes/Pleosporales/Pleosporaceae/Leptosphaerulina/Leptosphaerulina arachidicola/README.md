@@ -1,5 +1,4 @@
-Leptosphaerulina arachidicola W.Y. Yen, M.J. Chen & K.T. Huang, 1956 SPECIES
-=======
+# Leptosphaerulina arachidicola W.Y. Yen, M.J. Chen & K.T. Huang, 1956 SPECIES
 
 #### Status
 ACCEPTED

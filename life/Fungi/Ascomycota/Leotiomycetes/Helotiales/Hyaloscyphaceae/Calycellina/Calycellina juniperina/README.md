@@ -1,5 +1,4 @@
-Calycellina juniperina (K. Holm & L. Holm) Spooner, 1984 SPECIES
-=======
+# Calycellina juniperina (K. Holm & L. Holm) Spooner, 1984 SPECIES
 
 #### Status
 ACCEPTED

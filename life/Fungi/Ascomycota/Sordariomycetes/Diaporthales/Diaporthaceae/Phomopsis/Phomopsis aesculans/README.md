@@ -1,5 +1,4 @@
-Phomopsis aesculans Sacc. SPECIES
-=======
+# Phomopsis aesculans Sacc. SPECIES
 
 #### Status
 ACCEPTED

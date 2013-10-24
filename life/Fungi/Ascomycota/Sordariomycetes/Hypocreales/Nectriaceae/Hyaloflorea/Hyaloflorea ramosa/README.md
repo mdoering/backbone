@@ -1,5 +1,4 @@
-Hyaloflorea ramosa Bat. & H. Maia, 1955 SPECIES
-=======
+# Hyaloflorea ramosa Bat. & H. Maia, 1955 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina subcervina SPECIES
-=======
+# Rinodina subcervina SPECIES
 
 #### Status
 ACCEPTED

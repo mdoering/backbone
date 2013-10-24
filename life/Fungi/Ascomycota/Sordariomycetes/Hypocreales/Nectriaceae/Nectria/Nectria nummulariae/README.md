@@ -1,5 +1,4 @@
-Nectria nummulariae Teng SPECIES
-=======
+# Nectria nummulariae Teng SPECIES
 
 #### Status
 ACCEPTED

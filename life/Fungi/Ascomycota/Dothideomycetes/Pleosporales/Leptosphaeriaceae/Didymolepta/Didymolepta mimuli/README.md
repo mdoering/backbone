@@ -1,5 +1,4 @@
-Didymolepta mimuli (Wehm.) M.E. Barr SPECIES
-=======
+# Didymolepta mimuli (Wehm.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

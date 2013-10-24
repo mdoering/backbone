@@ -1,17 +1,16 @@
-Xanthoria wetmori S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthoria wetmorei S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ukr. bot. Zh. 60(2): 128 (2003)
 
 #### Original name
-Xanthoria wetmori S.Y. Kondr. & Kärnefelt
+Xanthoria wetmorei S.Y. Kondr. & Kärnefelt
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Marasmius ochracis-niger Henn. SPECIES
-=======
+# Marasmius ochracis-niger Henn. SPECIES
 
 #### Status
 ACCEPTED

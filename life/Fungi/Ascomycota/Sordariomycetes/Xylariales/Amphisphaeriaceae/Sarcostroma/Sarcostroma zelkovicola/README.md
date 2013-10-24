@@ -1,5 +1,4 @@
-Sarcostroma zelkovicola Yas. Ono & Tak. Kobay. SPECIES
-=======
+# Sarcostroma zelkovicola Yas. Ono & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

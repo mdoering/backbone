@@ -1,5 +1,4 @@
-Septonema episphaericum Peck SPECIES
-=======
+# Septonema episphaericum Peck SPECIES
 
 #### Status
 ACCEPTED

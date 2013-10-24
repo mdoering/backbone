@@ -1,17 +1,16 @@
-Helmisporium compactum P. Karst. SPECIES
-=======
+# Helminthosporium compactum P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 31: 295 (1892)
 
 #### Original name
-Helmisporium compactum P. Karst.
+Helminthosporium compactum P. Karst.
 
 ### Remarks
 null

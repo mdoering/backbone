@@ -1,5 +1,4 @@
-Hormosinelloides spiculammina Zheng & Fu, 2001 SPECIES
-=======
+# Hormosinelloides spiculammina Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

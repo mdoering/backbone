@@ -1,5 +1,4 @@
-Camptomeris tephrosiae Hansf. SPECIES
-=======
+# Camptomeris tephrosiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

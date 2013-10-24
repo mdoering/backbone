@@ -1,5 +1,4 @@
-Lophiostoma salsolae Urries SPECIES
-=======
+# Lophiostoma salsolae Urries SPECIES
 
 #### Status
 ACCEPTED

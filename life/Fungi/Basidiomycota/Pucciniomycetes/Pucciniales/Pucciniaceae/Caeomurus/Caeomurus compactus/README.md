@@ -1,5 +1,4 @@
-Caeomurus compactus (Peck) Kuntze SPECIES
-=======
+# Caeomurus compactus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

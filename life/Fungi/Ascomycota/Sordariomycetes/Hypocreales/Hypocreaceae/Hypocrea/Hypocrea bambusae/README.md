@@ -1,5 +1,4 @@
-Hypocrea bambusae Höhn. SPECIES
-=======
+# Hypocrea bambusae Höhn. SPECIES
 
 #### Status
 ACCEPTED

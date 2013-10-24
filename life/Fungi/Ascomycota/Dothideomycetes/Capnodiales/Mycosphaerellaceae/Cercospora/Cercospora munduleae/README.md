@@ -1,5 +1,4 @@
-Cercospora munduleae Sacc. & P. Syd. SPECIES
-=======
+# Cercospora munduleae Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

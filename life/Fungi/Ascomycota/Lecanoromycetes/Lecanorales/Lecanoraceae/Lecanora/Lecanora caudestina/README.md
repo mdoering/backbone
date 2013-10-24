@@ -1,5 +1,4 @@
-Lecanora caudestina Fée SPECIES
-=======
+# Lecanora caudestina Fée SPECIES
 
 #### Status
 ACCEPTED

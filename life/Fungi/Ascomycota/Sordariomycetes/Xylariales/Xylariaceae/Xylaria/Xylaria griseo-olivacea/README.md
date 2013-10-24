@@ -1,5 +1,4 @@
-Xylaria griseo-olivacea J.D. Rogers & Rossman SPECIES
-=======
+# Xylaria griseo-olivacea J.D. Rogers & Rossman SPECIES
 
 #### Status
 ACCEPTED

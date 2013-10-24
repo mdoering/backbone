@@ -1,5 +1,4 @@
-Ramularia baldingerae (M.K. Elias) U. Braun SPECIES
-=======
+# Ramularia baldingerae (M.K. Elias) U. Braun SPECIES
 
 #### Status
 ACCEPTED

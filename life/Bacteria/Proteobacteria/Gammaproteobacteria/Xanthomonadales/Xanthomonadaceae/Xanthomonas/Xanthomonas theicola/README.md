@@ -1,5 +1,4 @@
-Xanthomonas theicola Vauterin et al., 1995 SPECIES
-=======
+# Xanthomonas theicola Vauterin et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

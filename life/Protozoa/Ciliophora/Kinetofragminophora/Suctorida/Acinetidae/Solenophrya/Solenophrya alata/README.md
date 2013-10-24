@@ -1,5 +1,4 @@
-Solenophrya alata Stokes, 1890 SPECIES
-=======
+# Solenophrya alata Stokes, 1890 SPECIES
 
 #### Status
 ACCEPTED

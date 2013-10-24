@@ -1,5 +1,4 @@
-Micropera fosteri A. Funk SPECIES
-=======
+# Micropera fosteri A. Funk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Turuchanica interstricta Chen Jinbiao et al., 1980 SPECIES
-=======
+# Turuchanica interstricta Chen Jinbiao et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

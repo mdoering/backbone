@@ -1,17 +1,16 @@
-Phaeopeltium Clem. & Shear GENUS
-=======
+# Phaeopeltosphaeria Berl. & Peglion GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 276 (1931)
+Nuovo Giorn. Bot. Ital. 24: 139 (1892)
 
 #### Original name
-Phaeopeltium Clem. & Shear
+Phaeopeltosphaeria Berl. & Peglion
 
 ### Remarks
 null

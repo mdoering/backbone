@@ -1,5 +1,4 @@
-Phyllosticta granati Rangel SPECIES
-=======
+# Phyllosticta granati Rangel SPECIES
 
 #### Status
 ACCEPTED

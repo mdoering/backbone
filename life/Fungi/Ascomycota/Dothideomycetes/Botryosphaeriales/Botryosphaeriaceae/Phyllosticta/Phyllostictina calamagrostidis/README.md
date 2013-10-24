@@ -1,17 +1,16 @@
-Phyllostictina calamagrostis Wehm. SPECIES
-=======
+# Phyllostictina calamagrostidis Wehm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 56(1): 46 (1964)
 
 #### Original name
-Phyllostictina calamagrostis Wehm.
+Phyllostictina calamagrostidis Wehm.
 
 ### Remarks
 null

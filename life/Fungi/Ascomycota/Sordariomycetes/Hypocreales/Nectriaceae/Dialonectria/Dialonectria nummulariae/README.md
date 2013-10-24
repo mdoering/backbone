@@ -1,5 +1,4 @@
-Dialonectria nummulariae (Teng) Lar.N. Vassiljeva SPECIES
-=======
+# Dialonectria nummulariae (Teng) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

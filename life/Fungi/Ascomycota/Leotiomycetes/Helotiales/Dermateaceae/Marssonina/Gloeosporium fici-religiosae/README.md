@@ -1,5 +1,4 @@
-Gloeosporium fici-religiosae C.C. Chen SPECIES
-=======
+# Gloeosporium fici-religiosae C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Forschia Mikhailov, 1935 GENUS
-=======
+# Forschia Mikhailov, 1935 GENUS
 
 #### Status
 ACCEPTED

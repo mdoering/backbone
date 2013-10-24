@@ -1,5 +1,4 @@
-Desulfovibrio mexicanus Hernandez-Eugenio et al., 2001 SPECIES
-=======
+# Desulfovibrio mexicanus Hernandez-Eugenio et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynascella inquinata Udagawa & S. Ueda, 1979 SPECIES
-=======
+# Corynascella inquinata Udagawa & S. Ueda, 1979 SPECIES
 
 #### Status
 ACCEPTED

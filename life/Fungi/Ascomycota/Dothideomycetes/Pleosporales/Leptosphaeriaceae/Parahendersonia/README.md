@@ -1,5 +1,4 @@
-Parahendersonia A.W. Ramaley GENUS
-=======
+# Parahendersonia A.W. Ramaley GENUS
 
 #### Status
 ACCEPTED

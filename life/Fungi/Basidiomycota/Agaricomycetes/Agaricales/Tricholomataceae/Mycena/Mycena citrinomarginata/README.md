@@ -1,5 +1,4 @@
-Mycena citrinomarginata Gillet SPECIES
-=======
+# Mycena citrinomarginata Gillet SPECIES
 
 #### Status
 ACCEPTED

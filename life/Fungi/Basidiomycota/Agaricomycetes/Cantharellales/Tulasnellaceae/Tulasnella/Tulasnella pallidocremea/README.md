@@ -1,5 +1,4 @@
-Tulasnella pallidocremea Jülich, 1976 SPECIES
-=======
+# Tulasnella pallidocremea Jülich, 1976 SPECIES
 
 #### Status
 ACCEPTED

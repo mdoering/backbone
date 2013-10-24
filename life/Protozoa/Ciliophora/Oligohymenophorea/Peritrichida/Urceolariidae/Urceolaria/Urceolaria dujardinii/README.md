@@ -1,5 +1,4 @@
-Urceolaria dujardinii SPECIES
-=======
+# Urceolaria dujardinii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Spermatodermia Wallr. GENUS
-=======
+# Hypoxylon Bulliard, 1791 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hist. Champ. France (Paris) 168 (1791)
 
 #### Original name
-Spermatodermia Wallr.
+Hypoxylon Bulliard, 1791
 
 ### Remarks
 null

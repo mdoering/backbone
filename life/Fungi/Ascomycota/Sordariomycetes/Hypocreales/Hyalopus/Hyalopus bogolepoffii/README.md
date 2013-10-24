@@ -1,14 +1,13 @@
-Hyalopus bogolepofi (Vuill.) M.A.J. Barbosa SPECIES
-=======
+# Hyalopus bogolepoffii (Vuill.) M.A.J. Barbosa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notarisia 48 (1941)
 
 #### Original name
 Tilachlidium bogolepoffii Vuill.

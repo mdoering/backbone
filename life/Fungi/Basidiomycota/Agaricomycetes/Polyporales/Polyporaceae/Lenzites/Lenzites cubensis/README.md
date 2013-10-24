@@ -1,5 +1,4 @@
-Lenzites cubensis Berk. & M.A. Curtis SPECIES
-=======
+# Lenzites cubensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

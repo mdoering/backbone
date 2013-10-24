@@ -1,5 +1,4 @@
-Entylomella chrysanthemi (Ellis & Dearn.) Höhn. ex Cif. SPECIES
-=======
+# Entylomella chrysanthemi (Ellis & Dearn.) Höhn. ex Cif. SPECIES
 
 #### Status
 ACCEPTED

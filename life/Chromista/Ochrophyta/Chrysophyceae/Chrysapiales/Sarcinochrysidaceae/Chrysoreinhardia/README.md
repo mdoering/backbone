@@ -1,17 +1,16 @@
-Pulvinaria Reinhard, 1885 GENUS
-=======
+# Chrysoreinhardia Billard, 2000 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zap. Novorossijsk. Obs c. Estestvoisp. 9(2): 249.
+Bot Mar 43 (3), May: 224.
 
 #### Original name
-null
+Pulvinaria Reinhard, 1885
 
 ### Remarks
 null

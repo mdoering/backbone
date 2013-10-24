@@ -1,5 +1,4 @@
-Septoria tibia var. tibia VARIETY
-=======
+# Septoria tibia Penz. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria tibia var. tibia
+Septoria tibia Penz.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sorosporium enteromorphum McAlpine SPECIES
-=======
+# Sorosporium enteromorphum McAlpine SPECIES
 
 #### Status
 ACCEPTED

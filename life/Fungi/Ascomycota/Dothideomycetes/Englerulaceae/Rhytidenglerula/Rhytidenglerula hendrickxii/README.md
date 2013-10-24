@@ -1,5 +1,4 @@
-Rhytidenglerula hendrickxii (Hansf.) Arx SPECIES
-=======
+# Rhytidenglerula hendrickxii (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

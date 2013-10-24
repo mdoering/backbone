@@ -1,17 +1,16 @@
-Caeomurus concomitans (Berk. & Broome) Kuntze, 1898 SPECIES
-=======
+# Uromyces scrophulariae (DC.) Berk. & Broome ex J. Schröt., 1869 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 450 (1898)
+Symbolae mycologicae 63 (1869)
 
 #### Original name
-Uromyces concomitans Berk. & Broome, 1875
+Aecidium scrophulariae DC., 1815
 
 ### Remarks
 null

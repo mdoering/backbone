@@ -1,5 +1,4 @@
-Physcia helvetica Vain. ex Räsänen SPECIES
-=======
+# Physcia helvetica Vain. ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

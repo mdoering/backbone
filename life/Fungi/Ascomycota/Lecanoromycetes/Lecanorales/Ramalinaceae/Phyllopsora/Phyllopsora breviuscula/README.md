@@ -1,17 +1,16 @@
-Lecidea breviuscula var. breviuscula VARIETY
-=======
+# Phyllopsora breviuscula (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Herb. Boissier 2(App. 1): 45 (1894)
 
 #### Original name
-Lecidea breviuscula var. breviuscula
+Lecidea breviuscula Nyl.
 
 ### Remarks
 null

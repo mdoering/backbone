@@ -1,5 +1,4 @@
-Spirodiscus C.G. Ehrenberg, 1830 GENUS
-=======
+# Spirodiscus C.G. Ehrenberg, 1830 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza avicularia P. Karst. SPECIES
-=======
+# Peziza avicularia P. Karst. SPECIES
 
 #### Status
 ACCEPTED

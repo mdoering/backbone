@@ -1,8 +1,7 @@
-Paraholosticha polychaeta Borror, 1966 SPECIES
-=======
+# Keronopsis polychaeta (Borror, 1966) Blatterer & Foissner, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

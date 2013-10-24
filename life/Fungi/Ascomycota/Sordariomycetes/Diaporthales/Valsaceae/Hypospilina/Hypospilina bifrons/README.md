@@ -1,14 +1,13 @@
-Xyloma bifrons DC. SPECIES
-=======
+# Hypospilina bifrons (DC.) Traverso, 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 156 (1815)
+Fl. ital. crypt. (Florence) 1: 495 (1913)
 
 #### Original name
 Xyloma bifrons DC.

@@ -1,5 +1,4 @@
-Toninia conferta (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Toninia conferta (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

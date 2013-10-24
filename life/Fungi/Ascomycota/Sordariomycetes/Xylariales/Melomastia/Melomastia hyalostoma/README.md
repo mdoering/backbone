@@ -1,5 +1,4 @@
-Melomastia hyalostoma Luc SPECIES
-=======
+# Melomastia hyalostoma Luc SPECIES
 
 #### Status
 ACCEPTED

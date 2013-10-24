@@ -1,5 +1,4 @@
-Penicillium formosanum H.M. Hsieh, H.J. Su & Tzean, 1987 SPECIES
-=======
+# Penicillium formosanum H.M. Hsieh, H.J. Su & Tzean, 1987 SPECIES
 
 #### Status
 ACCEPTED

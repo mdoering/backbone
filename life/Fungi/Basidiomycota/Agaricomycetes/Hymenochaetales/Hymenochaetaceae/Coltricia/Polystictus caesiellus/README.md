@@ -1,5 +1,4 @@
-Polystictus caesiellus Ces. SPECIES
-=======
+# Polystictus caesiellus Ces. SPECIES
 
 #### Status
 ACCEPTED

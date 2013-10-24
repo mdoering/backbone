@@ -1,5 +1,4 @@
-Micrhystridium maidipingense F.Wang & Q. Chen SPECIES
-=======
+# Micrhystridium maidipingense F.Wang & Q. Chen SPECIES
 
 #### Status
 ACCEPTED

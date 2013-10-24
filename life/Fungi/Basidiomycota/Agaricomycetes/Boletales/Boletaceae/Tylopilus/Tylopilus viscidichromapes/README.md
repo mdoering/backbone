@@ -1,5 +1,4 @@
-Tylopilus viscidichromapes Watling & T.H. Li SPECIES
-=======
+# Tylopilus viscidichromapes Watling & T.H. Li SPECIES
 
 #### Status
 ACCEPTED

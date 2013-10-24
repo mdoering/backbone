@@ -1,5 +1,4 @@
-Trachelomonas atrata var. pustulosa W. Conrad VARIETY
-=======
+# Trachelomonas atrata (Skvortzov) Deflandre SPECIES
 
 #### Status
 ACCEPTED

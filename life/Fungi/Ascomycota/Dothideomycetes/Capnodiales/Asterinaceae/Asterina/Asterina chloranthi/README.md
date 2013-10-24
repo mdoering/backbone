@@ -1,5 +1,4 @@
-Asterina chloranthi Syd. SPECIES
-=======
+# Asterina chloranthi Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccammina socialis Brady, 1884 SPECIES
-=======
+# Saccammina socialis Brady, 1884 SPECIES
 
 #### Status
 ACCEPTED

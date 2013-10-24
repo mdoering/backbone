@@ -1,5 +1,4 @@
-Leocarpus minutus Fr. SPECIES
-=======
+# Leocarpus minutus Fr. SPECIES
 
 #### Status
 ACCEPTED

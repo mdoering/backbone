@@ -1,5 +1,4 @@
-Anthostomella oblongata B.S. Lu & K.D. Hyde, 2000 SPECIES
-=======
+# Anthostomella oblongata B.S. Lu & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

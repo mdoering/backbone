@@ -1,14 +1,13 @@
-Verrucaria marginata var. convexa Nyl. VARIETY
-=======
+# Pyrenula convexa (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 65: 400 (1882)
 
 #### Original name
 Verrucaria marginata var. convexa Nyl.

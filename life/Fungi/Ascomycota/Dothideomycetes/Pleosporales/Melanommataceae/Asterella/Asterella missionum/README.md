@@ -1,5 +1,4 @@
-Asterella missionum Speg. SPECIES
-=======
+# Asterella missionum Speg. SPECIES
 
 #### Status
 ACCEPTED

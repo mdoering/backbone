@@ -1,5 +1,4 @@
-Trichospermella pulchella Speg., 1912 SPECIES
-=======
+# Trichospermella pulchella Speg., 1912 SPECIES
 
 #### Status
 ACCEPTED

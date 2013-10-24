@@ -1,5 +1,4 @@
-Tulostoma thiersii J.E. Wright SPECIES
-=======
+# Tulostoma thiersii J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

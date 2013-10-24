@@ -1,5 +1,4 @@
-Uromyces abbreviatus Arthur SPECIES
-=======
+# Uromyces abbreviatus Arthur SPECIES
 
 #### Status
 ACCEPTED

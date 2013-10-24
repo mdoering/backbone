@@ -1,5 +1,4 @@
-Pseudohalonectria falcata Shearer, 1989 SPECIES
-=======
+# Pseudohalonectria falcata Shearer, 1989 SPECIES
 
 #### Status
 ACCEPTED

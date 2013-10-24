@@ -1,5 +1,4 @@
-Ascochyta rosarum Lib. SPECIES
-=======
+# Ascochyta rosarum Lib. SPECIES
 
 #### Status
 ACCEPTED

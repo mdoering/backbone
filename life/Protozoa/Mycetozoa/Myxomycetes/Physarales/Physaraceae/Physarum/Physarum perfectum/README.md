@@ -1,5 +1,4 @@
-Physarum perfectum M. Peck, 1932 SPECIES
-=======
+# Physarum perfectum M. Peck, 1932 SPECIES
 
 #### Status
 ACCEPTED

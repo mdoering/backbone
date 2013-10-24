@@ -1,5 +1,4 @@
-Zignoëlla conica (Fuckel) Sacc. SPECIES
-=======
+# Zignoëlla conica (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

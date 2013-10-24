@@ -1,5 +1,4 @@
-Chaetoamphisphaeria Hara GENUS
-=======
+# Chaetoamphisphaeria Hara GENUS
 
 #### Status
 ACCEPTED

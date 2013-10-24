@@ -1,5 +1,4 @@
-Leciographa gyrolophii (A. Massal.) Vouaux SPECIES
-=======
+# Leciographa gyrolophii (A. Massal.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria sublutosa B. de Lesd. SPECIES
-=======
+# Catillaria sublutosa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia argentinensis T.H. Nash, Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia argentinensis T.H. Nash, Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

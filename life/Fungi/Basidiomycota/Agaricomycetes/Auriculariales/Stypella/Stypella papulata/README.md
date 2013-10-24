@@ -1,5 +1,4 @@
-Stypella papulata anon. SPECIES
-=======
+# Stypella papulata anon. SPECIES
 
 #### Status
 ACCEPTED

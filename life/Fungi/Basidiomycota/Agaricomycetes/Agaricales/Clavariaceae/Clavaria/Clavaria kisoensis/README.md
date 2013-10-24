@@ -1,5 +1,4 @@
-Clavaria kisoensis S. Imai SPECIES
-=======
+# Clavaria kisoensis S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula hippocrepis Sacc. SPECIES
-=======
+# Torula hippocrepis Sacc. SPECIES
 
 #### Status
 ACCEPTED

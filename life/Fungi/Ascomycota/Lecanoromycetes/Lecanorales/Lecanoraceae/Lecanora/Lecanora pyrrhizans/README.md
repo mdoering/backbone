@@ -1,5 +1,4 @@
-Lecanora pyrrhizans Harm. SPECIES
-=======
+# Lecanora pyrrhizans Harm. SPECIES
 
 #### Status
 ACCEPTED

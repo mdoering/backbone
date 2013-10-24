@@ -1,5 +1,4 @@
-Acineta diademiformis SPECIES
-=======
+# Acineta diademiformis SPECIES
 
 #### Status
 ACCEPTED

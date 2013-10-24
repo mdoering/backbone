@@ -1,5 +1,4 @@
-Aspergillus rugulovalvus Samson & W. Gams SPECIES
-=======
+# Aspergillus rugulovalvus Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

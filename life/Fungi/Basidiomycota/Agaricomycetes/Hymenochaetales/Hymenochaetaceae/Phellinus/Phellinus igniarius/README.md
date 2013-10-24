@@ -1,17 +1,16 @@
-Ochroporus igniarius var. igniarius VARIETY
-=======
+# Phellinus igniarius (L.) Quél., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(2532): 487 (1888)
+Enchir. fung. (Paris) 177 (1886)
 
 #### Original name
-Ochroporus igniarius var. igniarius
+Boletus igniarius L., 1753
 
 ### Remarks
 null

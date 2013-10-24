@@ -1,5 +1,4 @@
-Rhodococcus chubuensis Tsukamura, 1983 SPECIES
-=======
+# Rhodococcus chubuensis Tsukamura, 1983 SPECIES
 
 #### Status
 ACCEPTED

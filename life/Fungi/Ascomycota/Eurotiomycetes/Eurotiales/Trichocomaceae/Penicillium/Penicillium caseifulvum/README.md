@@ -1,5 +1,4 @@
-Penicillium caseifulvum (Lund {?}, Filt. & Frisvad) anon. ined. SPECIES
-=======
+# Penicillium caseifulvum (Lund {?}, Filt. & Frisvad) anon. ined. SPECIES
 
 #### Status
 ACCEPTED

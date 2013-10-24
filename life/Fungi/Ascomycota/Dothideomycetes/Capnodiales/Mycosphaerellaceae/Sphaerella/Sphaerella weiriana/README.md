@@ -1,5 +1,4 @@
-Sphaerella weiriana Sacc. SPECIES
-=======
+# Sphaerella weiriana Sacc. SPECIES
 
 #### Status
 ACCEPTED

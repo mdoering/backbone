@@ -1,5 +1,4 @@
-Mycena atrochalybaea Huijsman SPECIES
-=======
+# Mycena atrochalybaea Huijsman SPECIES
 
 #### Status
 ACCEPTED

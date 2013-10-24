@@ -1,5 +1,4 @@
-Punctastriata D.M.Williams & Round, 1988 GENUS
-=======
+# Punctastriata D.M.Williams & Round, 1988 GENUS
 
 #### Status
 ACCEPTED

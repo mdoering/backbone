@@ -1,17 +1,16 @@
-Boletus parasiticus f. parasiticus FORM
-=======
+# Pseudoboletus parasiticus (Bull.) Šutara, 1991 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herb. Fr. 10: tab. 451, fig. 1 (1790)
+Ceská Mykol. 45(1-2): 2 (1991)
 
 #### Original name
-Boletus parasiticus f. parasiticus
+Boletus parasiticus Bull., 1790
 
 ### Remarks
 null

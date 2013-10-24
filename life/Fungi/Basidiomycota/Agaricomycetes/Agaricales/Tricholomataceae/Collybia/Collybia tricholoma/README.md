@@ -1,5 +1,4 @@
-Collybia tricholoma (Murrill) Murrill SPECIES
-=======
+# Collybia tricholoma (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

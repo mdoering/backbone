@@ -1,5 +1,4 @@
-Irpex subflavus Pat. SPECIES
-=======
+# Irpex subflavus Pat. SPECIES
 
 #### Status
 ACCEPTED

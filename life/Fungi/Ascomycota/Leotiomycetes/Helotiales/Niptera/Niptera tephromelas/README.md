@@ -1,5 +1,4 @@
-Niptera tephromelas (Pass.) Nannf. SPECIES
-=======
+# Niptera tephromelas (Pass.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

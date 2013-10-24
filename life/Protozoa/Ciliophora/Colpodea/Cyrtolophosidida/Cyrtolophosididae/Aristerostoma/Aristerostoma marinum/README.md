@@ -1,5 +1,4 @@
-Aristerostoma marinum Kahl, 1931 SPECIES
-=======
+# Aristerostoma marinum Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

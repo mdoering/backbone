@@ -1,5 +1,4 @@
-Dialonectria luteofusca (P. Crouan & H. Crouan) Cooke SPECIES
-=======
+# Dialonectria luteofusca (P. Crouan & H. Crouan) Cooke SPECIES
 
 #### Status
 ACCEPTED

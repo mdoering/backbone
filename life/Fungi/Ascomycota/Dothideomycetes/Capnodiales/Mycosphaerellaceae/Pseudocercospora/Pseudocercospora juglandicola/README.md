@@ -1,5 +1,4 @@
-Pseudocercospora juglandicola Y.L. Guo SPECIES
-=======
+# Pseudocercospora juglandicola Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

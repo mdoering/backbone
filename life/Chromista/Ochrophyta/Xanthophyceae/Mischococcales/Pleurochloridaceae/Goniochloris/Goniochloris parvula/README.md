@@ -1,5 +1,4 @@
-Goniochloris parvula Pascher SPECIES
-=======
+# Goniochloris parvula Pascher SPECIES
 
 #### Status
 ACCEPTED

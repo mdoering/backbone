@@ -1,5 +1,4 @@
-Opercularia gammari Faure-Fremiet, 1905 SPECIES
-=======
+# Opercularia gammari Faure-Fremiet, 1905 SPECIES
 
 #### Status
 ACCEPTED

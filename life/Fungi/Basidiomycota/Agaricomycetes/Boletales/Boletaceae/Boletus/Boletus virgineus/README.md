@@ -1,5 +1,4 @@
-Boletus virgineus Schwein. SPECIES
-=======
+# Boletus virgineus Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria lordhowensis A.W. Archer & Elix SPECIES
-=======
+# Pertusaria lordhowensis A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

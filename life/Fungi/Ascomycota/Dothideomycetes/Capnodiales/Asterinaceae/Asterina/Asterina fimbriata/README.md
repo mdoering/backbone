@@ -1,5 +1,4 @@
-Asterina fimbriata Kalchbr. & Cooke SPECIES
-=======
+# Asterina fimbriata Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoacia heterocystidia (Sheng H. Wu) Spirin & Zmitr. SPECIES
-=======
+# Mycoacia heterocystidia (Sheng H. Wu) Spirin & Zmitr. SPECIES
 
 #### Status
 ACCEPTED

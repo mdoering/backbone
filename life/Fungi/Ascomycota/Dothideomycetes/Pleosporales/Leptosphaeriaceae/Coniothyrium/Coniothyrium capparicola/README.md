@@ -1,8 +1,7 @@
-Coniothyrium capparidicola S. Ahmad SPECIES
-=======
+# Coniothyrium capparicola S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniothyrium capparidicola S. Ahmad
+Coniothyrium capparicola S. Ahmad
 
 ### Remarks
 null

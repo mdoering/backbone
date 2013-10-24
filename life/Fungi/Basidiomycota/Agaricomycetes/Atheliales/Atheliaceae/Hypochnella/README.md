@@ -1,5 +1,4 @@
-Hypochnella J. Schröter, 1888 GENUS
-=======
+# Hypochnella J. Schröter, 1888 GENUS
 
 #### Status
 ACCEPTED

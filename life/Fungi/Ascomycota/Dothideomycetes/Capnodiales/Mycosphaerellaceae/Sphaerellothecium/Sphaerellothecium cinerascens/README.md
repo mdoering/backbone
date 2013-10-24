@@ -1,5 +1,4 @@
-Sphaerellothecium cinerascens Etayo & Diederich SPECIES
-=======
+# Sphaerellothecium cinerascens Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

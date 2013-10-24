@@ -1,5 +1,4 @@
-Oedogoniomycetaceae D.J.S. Barr FAMILY
-=======
+# Oedogoniomycetaceae D.J.S. Barr FAMILY
 
 #### Status
 ACCEPTED

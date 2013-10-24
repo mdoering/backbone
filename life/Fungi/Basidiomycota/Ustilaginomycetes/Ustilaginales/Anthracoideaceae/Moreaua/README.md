@@ -1,5 +1,4 @@
-Moreaua Liou & H.C. Cheng GENUS
-=======
+# Moreaua Liou & H.C. Cheng GENUS
 
 #### Status
 ACCEPTED

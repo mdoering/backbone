@@ -1,5 +1,4 @@
-Pyrenopsis haematopis var. haematopis VARIETY
-=======
+# Pyrenopsis haematopis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyrenopsis haematopis var. haematopis
+null
 
 ### Remarks
 null

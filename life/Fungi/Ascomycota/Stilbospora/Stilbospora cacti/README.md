@@ -1,5 +1,4 @@
-Stilbospora cacti Lév. SPECIES
-=======
+# Stilbospora cacti Lév. SPECIES
 
 #### Status
 ACCEPTED

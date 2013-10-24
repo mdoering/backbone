@@ -1,8 +1,7 @@
-Psammomitra radiosa (Quennerstedt, 1867) Borror, 1972 SPECIES
-=======
+# Psammomitra retractilis (Claparède & Lachmann, 1858) Borror, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

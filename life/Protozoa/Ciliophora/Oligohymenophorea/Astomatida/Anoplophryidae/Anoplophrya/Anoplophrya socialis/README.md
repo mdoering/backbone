@@ -1,5 +1,4 @@
-Anoplophrya socialis SPECIES
-=======
+# Anoplophrya socialis SPECIES
 
 #### Status
 ACCEPTED

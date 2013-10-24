@@ -1,5 +1,4 @@
-Verrucaria cryptostoma Nyl. SPECIES
-=======
+# Verrucaria cryptostoma Nyl. SPECIES
 
 #### Status
 ACCEPTED

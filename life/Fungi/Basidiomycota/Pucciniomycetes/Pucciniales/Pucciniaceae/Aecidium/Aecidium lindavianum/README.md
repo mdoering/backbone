@@ -1,5 +1,4 @@
-Aecidium lindavianum Syd. & P. Syd. SPECIES
-=======
+# Aecidium lindavianum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

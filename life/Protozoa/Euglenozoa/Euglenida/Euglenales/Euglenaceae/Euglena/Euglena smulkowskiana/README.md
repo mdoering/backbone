@@ -1,5 +1,4 @@
-Euglena smulkowskiana B. Zakrys SPECIES
-=======
+# Euglena smulkowskiana B. Zakrys SPECIES
 
 #### Status
 ACCEPTED

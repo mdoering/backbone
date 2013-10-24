@@ -1,5 +1,4 @@
-Penicillium hypojanthinum Biourge SPECIES
-=======
+# Penicillium hypojanthinum Biourge SPECIES
 
 #### Status
 ACCEPTED

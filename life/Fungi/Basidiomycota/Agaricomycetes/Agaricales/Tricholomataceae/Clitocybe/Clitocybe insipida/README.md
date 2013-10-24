@@ -1,5 +1,4 @@
-Clitocybe insipida H.E. Bigelow SPECIES
-=======
+# Clitocybe insipida H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

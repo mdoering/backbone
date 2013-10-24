@@ -1,5 +1,4 @@
-Dendrosarcus planus (Fr.) Kuntze SPECIES
-=======
+# Dendrosarcus planus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

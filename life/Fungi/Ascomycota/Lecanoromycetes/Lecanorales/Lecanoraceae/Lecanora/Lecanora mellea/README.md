@@ -1,5 +1,4 @@
-Lecanora mellea W. A. Weber SPECIES
-=======
+# Lecanora mellea W. A. Weber SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ellipsocristellaria A. Silvestri, 1920 GENUS
-=======
+# Ellipsocristellaria A. Silvestri, 1920 GENUS
 
 #### Status
 ACCEPTED

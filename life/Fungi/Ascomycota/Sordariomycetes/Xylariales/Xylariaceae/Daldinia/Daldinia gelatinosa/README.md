@@ -1,5 +1,4 @@
-Daldinia gelatinosa Y.M. Ju, J.D. Rogers & F. San Martín, 1997 SPECIES
-=======
+# Daldinia gelatinosa Y.M. Ju, J.D. Rogers & F. San Martín, 1997 SPECIES
 
 #### Status
 ACCEPTED

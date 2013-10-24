@@ -1,5 +1,4 @@
-Leptothyrium mulgedii Bubák & Jaap SPECIES
-=======
+# Leptothyrium mulgedii Bubák & Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca jatolensis Y. Joshi & Upreti SPECIES
-=======
+# Caloplaca jatolensis Y. Joshi & Upreti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora cercidicola Henn. SPECIES
-=======
+# Cytospora cercidicola Henn. SPECIES
 
 #### Status
 ACCEPTED

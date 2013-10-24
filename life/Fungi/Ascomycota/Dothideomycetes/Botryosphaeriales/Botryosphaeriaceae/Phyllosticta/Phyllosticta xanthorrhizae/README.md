@@ -1,5 +1,4 @@
-Phyllosticta xanthorrhizae Ellis & Nutt. SPECIES
-=======
+# Phyllosticta xanthorrhizae Ellis & Nutt. SPECIES
 
 #### Status
 ACCEPTED

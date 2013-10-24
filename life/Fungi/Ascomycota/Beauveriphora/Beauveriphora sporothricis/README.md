@@ -1,17 +1,16 @@
-Beauveriphora sporotriche Matsush. SPECIES
-=======
+# Beauveriphora sporothricis Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Icon. microfung. Matsush. lect. (Kobe) 14 (1975)
 
 #### Original name
-Beauveriphora sporotriche Matsush.
+Beauveriphora sporothricis Matsush.
 
 ### Remarks
 null

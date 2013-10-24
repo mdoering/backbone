@@ -1,5 +1,4 @@
-Streptosporangium subroseum Zhang et al., 2002 SPECIES
-=======
+# Streptosporangium subroseum Zhang et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

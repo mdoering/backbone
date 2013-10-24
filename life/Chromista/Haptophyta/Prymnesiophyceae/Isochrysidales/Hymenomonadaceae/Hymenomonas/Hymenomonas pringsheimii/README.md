@@ -1,5 +1,4 @@
-Hymenomonas pringsheimii Parke & Green SPECIES
-=======
+# Hymenomonas pringsheimii Parke & Green SPECIES
 
 #### Status
 ACCEPTED

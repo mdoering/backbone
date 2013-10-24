@@ -1,5 +1,4 @@
-Planistromella yuccifoliorum A.W. Ramaley, 1993 SPECIES
-=======
+# Planistromella yuccifoliorum A.W. Ramaley, 1993 SPECIES
 
 #### Status
 ACCEPTED

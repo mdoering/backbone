@@ -1,5 +1,4 @@
-Stauronema indicum Kalani, 1964 SPECIES
-=======
+# Stauronema indicum Kalani, 1964 SPECIES
 
 #### Status
 ACCEPTED

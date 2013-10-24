@@ -1,5 +1,4 @@
-Puccinia eximia Arthur & Holw. SPECIES
-=======
+# Puccinia eximia Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

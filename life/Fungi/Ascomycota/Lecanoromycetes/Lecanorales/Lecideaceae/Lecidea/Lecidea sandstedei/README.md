@@ -1,5 +1,4 @@
-Lecidea sandstedei Zwackh SPECIES
-=======
+# Lecidea sandstedei Zwackh SPECIES
 
 #### Status
 ACCEPTED

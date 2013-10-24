@@ -1,5 +1,4 @@
-Lecanora caecula Ach. SPECIES
-=======
+# Lecanora caecula Ach. SPECIES
 
 #### Status
 ACCEPTED

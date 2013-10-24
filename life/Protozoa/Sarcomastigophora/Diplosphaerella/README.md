@@ -1,5 +1,4 @@
-Diplosphaerella Kristan-Tollmann, 1972 GENUS
-=======
+# Diplosphaerella Kristan-Tollmann, 1972 GENUS
 
 #### Status
 ACCEPTED

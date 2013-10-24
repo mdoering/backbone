@@ -1,5 +1,4 @@
-Catinaria microcarpa (Zahlbr.) Sipman SPECIES
-=======
+# Catinaria microcarpa (Zahlbr.) Sipman SPECIES
 
 #### Status
 ACCEPTED

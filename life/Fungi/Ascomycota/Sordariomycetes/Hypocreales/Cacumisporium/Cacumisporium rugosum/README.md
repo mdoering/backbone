@@ -1,5 +1,4 @@
-Cacumisporium rugosum K.M. Tsui, Goh, K.D. Hyde & Hodgkiss SPECIES
-=======
+# Cacumisporium rugosum K.M. Tsui, Goh, K.D. Hyde & Hodgkiss SPECIES
 
 #### Status
 ACCEPTED

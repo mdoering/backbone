@@ -1,5 +1,4 @@
-Svalbardella S.B.Manum GENUS
-=======
+# Svalbardella S.B.Manum GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tripodospyris Haeckel, 1881 GENUS
-=======
+# Tripodospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

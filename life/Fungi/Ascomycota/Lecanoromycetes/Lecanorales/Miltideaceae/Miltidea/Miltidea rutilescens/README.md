@@ -1,5 +1,4 @@
-Miltidea rutilescens Stirt. SPECIES
-=======
+# Miltidea rutilescens Stirt. SPECIES
 
 #### Status
 ACCEPTED

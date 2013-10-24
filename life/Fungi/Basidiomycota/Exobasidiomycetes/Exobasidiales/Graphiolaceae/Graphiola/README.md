@@ -1,17 +1,16 @@
-Elpidophora Ehrenb. ex Link GENUS
-=======
+# Graphiola Poiteau, 1824 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Abh. Königl. Akad. Wiss. Berlin 172, 180 (1824)
+null
 
 #### Original name
-Elpidophora Ehrenb. ex Link
+null
 
 ### Remarks
 null

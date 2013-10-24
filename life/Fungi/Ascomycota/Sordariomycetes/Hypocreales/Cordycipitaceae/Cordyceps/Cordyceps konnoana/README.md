@@ -1,5 +1,4 @@
-Cordyceps konnoana Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps konnoana Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

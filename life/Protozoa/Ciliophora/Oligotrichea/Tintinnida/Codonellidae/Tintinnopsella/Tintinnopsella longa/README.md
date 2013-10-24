@@ -1,5 +1,4 @@
-Tintinnopsella longa Colom, 1939 SPECIES
-=======
+# Tintinnopsella longa Colom, 1939 SPECIES
 
 #### Status
 ACCEPTED

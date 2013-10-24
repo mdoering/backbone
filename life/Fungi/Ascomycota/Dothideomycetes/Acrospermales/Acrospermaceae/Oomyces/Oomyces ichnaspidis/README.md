@@ -1,5 +1,4 @@
-Oomyces ichnaspidis (Zimm.) Höhn. SPECIES
-=======
+# Oomyces ichnaspidis (Zimm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

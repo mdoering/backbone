@@ -1,5 +1,4 @@
-Lactobacillus siliginis Aslam et al., 2006 SPECIES
-=======
+# Lactobacillus siliginis Aslam et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria chionea SPECIES
-=======
+# Pertusaria chionea SPECIES
 
 #### Status
 ACCEPTED

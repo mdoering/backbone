@@ -1,5 +1,4 @@
-Vorticella calciformis Kahl, 1933 SPECIES
-=======
+# Vorticella calciformis Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

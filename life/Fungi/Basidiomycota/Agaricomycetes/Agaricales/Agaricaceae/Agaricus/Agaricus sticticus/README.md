@@ -1,5 +1,4 @@
-Agaricus sticticus Fr. SPECIES
-=======
+# Agaricus sticticus Fr. SPECIES
 
 #### Status
 ACCEPTED

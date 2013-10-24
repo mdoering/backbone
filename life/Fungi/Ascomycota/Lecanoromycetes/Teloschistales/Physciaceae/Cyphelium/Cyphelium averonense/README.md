@@ -1,5 +1,4 @@
-Cyphelium averonense SPECIES
-=======
+# Cyphelium averonense SPECIES
 
 #### Status
 ACCEPTED

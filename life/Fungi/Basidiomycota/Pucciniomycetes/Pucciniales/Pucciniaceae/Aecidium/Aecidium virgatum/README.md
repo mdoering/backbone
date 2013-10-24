@@ -1,5 +1,4 @@
-Aecidium virgatum Lindr. SPECIES
-=======
+# Aecidium virgatum Lindr. SPECIES
 
 #### Status
 ACCEPTED

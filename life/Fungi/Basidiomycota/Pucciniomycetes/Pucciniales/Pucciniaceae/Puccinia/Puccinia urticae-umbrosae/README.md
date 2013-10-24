@@ -1,5 +1,4 @@
-Puccinia urticae-umbrosae Hasler SPECIES
-=======
+# Puccinia urticae-umbrosae Hasler SPECIES
 
 #### Status
 ACCEPTED

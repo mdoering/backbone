@@ -1,5 +1,4 @@
-Desulfurococcus fermentans Perevalova et al., 2005 SPECIES
-=======
+# Desulfurococcus fermentans Perevalova et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena cuticolor (Murrill) Singer SPECIES
-=======
+# Mycena cuticolor (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

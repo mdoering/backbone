@@ -1,17 +1,16 @@
-Usnea alisani subsp. alisani SUBSPECIES
-=======
+# Usnea alisani Asahina SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Usnea alisani Asahina
 
 ### Remarks
 null

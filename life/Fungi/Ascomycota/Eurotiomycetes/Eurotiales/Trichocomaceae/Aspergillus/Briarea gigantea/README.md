@@ -1,5 +1,4 @@
-Briarea gigantea Speg. SPECIES
-=======
+# Briarea gigantea Speg. SPECIES
 
 #### Status
 ACCEPTED

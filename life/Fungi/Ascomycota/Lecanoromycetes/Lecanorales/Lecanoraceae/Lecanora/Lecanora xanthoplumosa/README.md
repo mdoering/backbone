@@ -1,5 +1,4 @@
-Lecanora xanthoplumosa Guderley SPECIES
-=======
+# Lecanora xanthoplumosa Guderley SPECIES
 
 #### Status
 ACCEPTED

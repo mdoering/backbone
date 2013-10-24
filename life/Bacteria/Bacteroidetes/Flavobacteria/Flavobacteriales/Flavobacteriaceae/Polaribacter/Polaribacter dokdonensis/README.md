@@ -1,5 +1,4 @@
-Polaribacter dokdonensis Yoon et al., 2006 SPECIES
-=======
+# Polaribacter dokdonensis Yoon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

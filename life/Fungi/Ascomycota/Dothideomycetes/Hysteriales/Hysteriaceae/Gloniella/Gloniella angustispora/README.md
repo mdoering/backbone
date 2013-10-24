@@ -1,5 +1,4 @@
-Gloniella angustispora Teng SPECIES
-=======
+# Gloniella angustispora Teng SPECIES
 
 #### Status
 ACCEPTED

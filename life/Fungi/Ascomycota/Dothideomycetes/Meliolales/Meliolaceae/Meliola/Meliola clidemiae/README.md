@@ -1,5 +1,4 @@
-Meliola clidemiae (F. Stevens) Cif. SPECIES
-=======
+# Meliola clidemiae (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

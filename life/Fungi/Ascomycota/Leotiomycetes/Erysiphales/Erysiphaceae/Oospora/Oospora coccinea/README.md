@@ -1,5 +1,4 @@
-Oospora coccinea (Corda) Sacc. & Voglino SPECIES
-=======
+# Oospora coccinea (Corda) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

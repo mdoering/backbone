@@ -1,5 +1,4 @@
-Reticulophragmoides Gradstein & Kaminski, 1989 GENUS
-=======
+# Reticulophragmoides Gradstein & Kaminski, 1989 GENUS
 
 #### Status
 ACCEPTED

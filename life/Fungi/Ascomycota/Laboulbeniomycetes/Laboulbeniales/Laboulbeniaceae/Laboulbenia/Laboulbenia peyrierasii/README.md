@@ -1,8 +1,7 @@
-Laboulbenia peyrierasi Balazuc SPECIES
-=======
+# Laboulbenia peyrierasii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia peyrierasi Balazuc
+Laboulbenia peyrierasii Balazuc
 
 ### Remarks
 null

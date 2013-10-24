@@ -1,5 +1,4 @@
-Uredo fadogiae Henn. SPECIES
-=======
+# Uredo fadogiae Henn. SPECIES
 
 #### Status
 ACCEPTED

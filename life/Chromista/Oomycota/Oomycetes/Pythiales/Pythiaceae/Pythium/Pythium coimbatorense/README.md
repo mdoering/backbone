@@ -1,5 +1,4 @@
-Pythium coimbatorense G.S. Hall & J.K. Misra SPECIES
-=======
+# Pythium coimbatorense G.S. Hall & J.K. Misra SPECIES
 
 #### Status
 ACCEPTED

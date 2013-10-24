@@ -1,5 +1,4 @@
-Haplotrichum laevisporum (Cooke) Partr. & Morgan-Jones SPECIES
-=======
+# Haplotrichum laevisporum (Cooke) Partr. & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

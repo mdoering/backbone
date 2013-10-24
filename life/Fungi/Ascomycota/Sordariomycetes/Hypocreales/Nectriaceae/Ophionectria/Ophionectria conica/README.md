@@ -1,5 +1,4 @@
-Ophionectria conica Penz. & Sacc. SPECIES
-=======
+# Ophionectria conica Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

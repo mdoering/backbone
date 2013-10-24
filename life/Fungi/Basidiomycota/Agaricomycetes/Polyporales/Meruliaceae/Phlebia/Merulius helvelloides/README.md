@@ -1,5 +1,4 @@
-Merulius helvelloides J.F. Gmel. SPECIES
-=======
+# Merulius helvelloides J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

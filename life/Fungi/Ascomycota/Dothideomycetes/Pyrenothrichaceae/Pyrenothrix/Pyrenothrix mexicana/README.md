@@ -1,5 +1,4 @@
-Pyrenothrix mexicana Herrera-Camp., Huhndorf & Lücking SPECIES
-=======
+# Pyrenothrix mexicana Herrera-Camp., Huhndorf & Lücking SPECIES
 
 #### Status
 ACCEPTED

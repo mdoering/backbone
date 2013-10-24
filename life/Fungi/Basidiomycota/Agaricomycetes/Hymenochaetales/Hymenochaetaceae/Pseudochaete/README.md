@@ -1,5 +1,4 @@
-Pseudochaete T. Wagner & M. Fischer, 2002 GENUS
-=======
+# Pseudochaete T. Wagner & M. Fischer, 2002 GENUS
 
 #### Status
 ACCEPTED

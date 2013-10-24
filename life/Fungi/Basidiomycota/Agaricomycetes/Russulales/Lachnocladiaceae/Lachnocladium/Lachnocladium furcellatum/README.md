@@ -1,5 +1,4 @@
-Lachnocladium furcellatum (Fr.) Pat. SPECIES
-=======
+# Lachnocladium furcellatum (Fr.) Pat. SPECIES
 
 #### Status
 ACCEPTED

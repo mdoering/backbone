@@ -1,5 +1,4 @@
-Uromyces fontii Gonz. Frag. SPECIES
-=======
+# Uromyces fontii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

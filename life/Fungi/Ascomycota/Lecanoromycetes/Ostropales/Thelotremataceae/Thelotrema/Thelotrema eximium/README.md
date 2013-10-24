@@ -1,5 +1,4 @@
-Thelotrema eximium R.C. Harris SPECIES
-=======
+# Thelotrema eximium R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

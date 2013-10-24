@@ -1,14 +1,13 @@
-Granulopyrenis macrocarpoides (Zahlbr.) Aptroot SPECIES
-=======
+# Cresponea macrocarpoides (Zahlbr.) Egea & Torrente SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Biblthca Lichenol. 44: 94 (1991)
+Mycotaxon 48: 320 (1993)
 
 #### Original name
 Microthelia macrocarpoides Zahlbr.

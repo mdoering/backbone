@@ -1,5 +1,4 @@
-Sphaerita P.A. Dang. GENUS
-=======
+# Sphaerita P.A. Dang. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiobelonium ningxiaense W.Y. Zhuang & Spooner SPECIES
-=======
+# Lasiobelonium ningxiaense W.Y. Zhuang & Spooner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis abducens Nyl. SPECIES
-=======
+# Graphis abducens Nyl. SPECIES
 
 #### Status
 ACCEPTED

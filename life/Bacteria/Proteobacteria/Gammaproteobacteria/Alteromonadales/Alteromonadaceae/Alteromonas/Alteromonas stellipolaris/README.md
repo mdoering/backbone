@@ -1,5 +1,4 @@
-Alteromonas stellipolaris Van Trappen et al., 2004 SPECIES
-=======
+# Alteromonas stellipolaris Van Trappen et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

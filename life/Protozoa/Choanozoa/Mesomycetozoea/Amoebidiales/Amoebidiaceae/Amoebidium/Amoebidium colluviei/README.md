@@ -1,5 +1,4 @@
-Amoebidium colluviei Lichtw., 1998 SPECIES
-=======
+# Amoebidium colluviei Lichtw., 1998 SPECIES
 
 #### Status
 ACCEPTED

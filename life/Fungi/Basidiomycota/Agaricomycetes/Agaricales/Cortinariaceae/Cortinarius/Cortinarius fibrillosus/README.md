@@ -1,5 +1,4 @@
-Cortinarius fibrillosus Cleland SPECIES
-=======
+# Cortinarius fibrillosus Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus tuckahoe (Güssow) Lloyd SPECIES
-=======
+# Polyporus tuckahoe (Güssow) Lloyd SPECIES
 
 #### Status
 ACCEPTED

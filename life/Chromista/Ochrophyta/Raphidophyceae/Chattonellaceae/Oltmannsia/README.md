@@ -1,5 +1,4 @@
-Oltmannsia Schiller, 1925 GENUS
-=======
+# Oltmannsia Schiller, 1925 GENUS
 
 #### Status
 ACCEPTED

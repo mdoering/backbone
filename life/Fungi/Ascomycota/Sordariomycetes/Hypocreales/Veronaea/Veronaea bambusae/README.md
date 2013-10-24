@@ -1,5 +1,4 @@
-Veronaea bambusae Morgan-Jones SPECIES
-=======
+# Veronaea bambusae Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

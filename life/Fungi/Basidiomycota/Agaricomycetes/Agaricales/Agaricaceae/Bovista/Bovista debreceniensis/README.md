@@ -1,5 +1,4 @@
-Bovista debreceniensis (Hazsl.) De Toni SPECIES
-=======
+# Bovista debreceniensis (Hazsl.) De Toni SPECIES
 
 #### Status
 ACCEPTED

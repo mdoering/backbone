@@ -1,5 +1,4 @@
-Pilidiella destruens Crous & M.J. Wingf. SPECIES
-=======
+# Pilidiella destruens Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

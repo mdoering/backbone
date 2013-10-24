@@ -1,17 +1,16 @@
-Coleosporium solidaginis f. solidaginis FORM
-=======
+# Coleosporium asterum (Dietel) Syd. & P. Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 6: 216 (1878)
+Annls mycol. 12: 109 (1914)
 
 #### Original name
-Coleosporium solidaginis f. solidaginis
+Stichopsora asterum Dietel, 1899
 
 ### Remarks
 null

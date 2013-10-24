@@ -1,5 +1,4 @@
-Stephanolithion speciosum Deflandre in Deflandre & Fert, 1954 SPECIES
-=======
+# Stephanolithion speciosum Deflandre in Deflandre & Fert, 1954 SPECIES
 
 #### Status
 ACCEPTED

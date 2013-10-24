@@ -1,5 +1,4 @@
-Phaeoramularia weigelicola H.D. Shin & U. Braun SPECIES
-=======
+# Phaeoramularia weigelicola H.D. Shin & U. Braun SPECIES
 
 #### Status
 ACCEPTED

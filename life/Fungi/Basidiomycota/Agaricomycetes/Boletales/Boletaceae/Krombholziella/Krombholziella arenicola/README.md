@@ -1,5 +1,4 @@
-Krombholziella arenicola (Redhead & Watling) utara SPECIES
-=======
+# Krombholziella arenicola (Redhead & Watling) utara SPECIES
 
 #### Status
 ACCEPTED

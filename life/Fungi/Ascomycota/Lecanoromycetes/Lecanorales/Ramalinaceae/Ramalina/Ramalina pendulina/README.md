@@ -1,5 +1,4 @@
-Ramalina pendulina (Ach.) Röhl. SPECIES
-=======
+# Ramalina pendulina (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

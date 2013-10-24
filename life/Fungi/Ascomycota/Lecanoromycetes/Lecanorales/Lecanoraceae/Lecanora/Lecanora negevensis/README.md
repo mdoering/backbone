@@ -1,5 +1,4 @@
-Lecanora negevensis Reichert & Galun SPECIES
-=======
+# Lecanora negevensis Reichert & Galun SPECIES
 
 #### Status
 ACCEPTED

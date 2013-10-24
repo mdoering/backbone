@@ -1,5 +1,4 @@
-Diderma oerstedtii (Rostaf.) Kuntze SPECIES
-=======
+# Diderma oerstedtii (Rostaf.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

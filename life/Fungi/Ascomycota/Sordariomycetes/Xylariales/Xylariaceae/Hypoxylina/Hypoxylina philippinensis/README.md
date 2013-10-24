@@ -1,5 +1,4 @@
-Hypoxylina philippinensis Rehm SPECIES
-=======
+# Hypoxylina philippinensis Rehm SPECIES
 
 #### Status
 ACCEPTED

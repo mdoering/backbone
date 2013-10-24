@@ -1,5 +1,4 @@
-Aecidium acanthopsidis Syd. & P. Syd. SPECIES
-=======
+# Aecidium acanthopsidis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

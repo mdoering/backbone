@@ -1,5 +1,4 @@
-Absconditella amabilis T. Sprib. SPECIES
-=======
+# Absconditella amabilis T. Sprib. SPECIES
 
 #### Status
 ACCEPTED

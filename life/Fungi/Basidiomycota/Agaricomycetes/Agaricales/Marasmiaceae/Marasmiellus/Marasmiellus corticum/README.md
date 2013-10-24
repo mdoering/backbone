@@ -1,5 +1,4 @@
-Marasmiellus corticum Singer SPECIES
-=======
+# Marasmiellus corticum Singer SPECIES
 
 #### Status
 ACCEPTED

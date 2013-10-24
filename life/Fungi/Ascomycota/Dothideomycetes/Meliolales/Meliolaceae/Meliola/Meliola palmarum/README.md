@@ -1,5 +1,4 @@
-Meliola palmarum Kunze & Fr. SPECIES
-=======
+# Meliola palmarum Kunze & Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia cacoti (B. de Lesd.) SPECIES
-=======
+# Bacidia cacoti (B. de Lesd.) SPECIES
 
 #### Status
 ACCEPTED

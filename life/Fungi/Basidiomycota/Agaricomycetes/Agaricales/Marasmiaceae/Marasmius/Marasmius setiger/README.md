@@ -1,5 +1,4 @@
-Marasmius setiger Pegler SPECIES
-=======
+# Marasmius setiger Pegler SPECIES
 
 #### Status
 ACCEPTED

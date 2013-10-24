@@ -1,5 +1,4 @@
-Bulimina fusiformis Williamson SPECIES
-=======
+# Bulimina fusiformis Williamson SPECIES
 
 #### Status
 ACCEPTED

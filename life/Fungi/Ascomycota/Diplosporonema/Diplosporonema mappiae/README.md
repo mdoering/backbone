@@ -1,5 +1,4 @@
-Diplosporonema mappiae (Petch) B. Sutton SPECIES
-=======
+# Diplosporonema mappiae (Petch) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

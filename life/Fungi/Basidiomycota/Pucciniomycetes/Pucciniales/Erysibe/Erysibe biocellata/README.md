@@ -1,5 +1,4 @@
-Erysibe biocellata Ehrenb. SPECIES
-=======
+# Erysibe biocellata Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

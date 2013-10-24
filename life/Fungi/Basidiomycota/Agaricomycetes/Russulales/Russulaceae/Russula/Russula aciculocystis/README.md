@@ -1,5 +1,4 @@
-Russula aciculocystis Kauffman ex Bills & O.K. Mill. SPECIES
-=======
+# Russula aciculocystis Kauffman ex Bills & O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

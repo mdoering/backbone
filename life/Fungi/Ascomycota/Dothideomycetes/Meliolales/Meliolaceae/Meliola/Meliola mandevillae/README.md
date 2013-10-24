@@ -1,5 +1,4 @@
-Meliola mandevillae F. Stevens SPECIES
-=======
+# Meliola mandevillae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

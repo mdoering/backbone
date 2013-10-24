@@ -1,5 +1,4 @@
-Uleomyces purpurascens Rehm SPECIES
-=======
+# Uleomyces purpurascens Rehm SPECIES
 
 #### Status
 ACCEPTED

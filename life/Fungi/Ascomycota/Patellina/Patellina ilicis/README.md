@@ -1,5 +1,4 @@
-Patellina ilicis Oudem. SPECIES
-=======
+# Patellina ilicis Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucurbitaria hederae G. Winter SPECIES
-=======
+# Cucurbitaria hederae G. Winter SPECIES
 
 #### Status
 ACCEPTED

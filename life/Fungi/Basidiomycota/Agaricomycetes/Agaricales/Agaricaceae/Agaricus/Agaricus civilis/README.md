@@ -1,5 +1,4 @@
-Agaricus civilis Fr. SPECIES
-=======
+# Agaricus civilis Fr. SPECIES
 
 #### Status
 ACCEPTED

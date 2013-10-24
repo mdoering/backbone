@@ -1,8 +1,7 @@
-Lycogala torrendi Bres. SPECIES
-=======
+# Lycogala torrendii Bres. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lycogala torrendi Bres.
+Lycogala torrendii Bres.
 
 ### Remarks
 null

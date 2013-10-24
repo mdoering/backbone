@@ -1,5 +1,4 @@
-Microdiplodia rikatliensis Petr. SPECIES
-=======
+# Microdiplodia rikatliensis Petr. SPECIES
 
 #### Status
 ACCEPTED

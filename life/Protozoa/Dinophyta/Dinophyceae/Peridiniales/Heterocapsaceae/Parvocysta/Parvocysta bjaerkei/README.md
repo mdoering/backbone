@@ -1,5 +1,4 @@
-Parvocysta bjaerkei M. Smelror SPECIES
-=======
+# Parvocysta bjaerkei M. Smelror SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paxillus chalybaeus E. Horak SPECIES
-=======
+# Paxillus chalybaeus E. Horak SPECIES
 
 #### Status
 ACCEPTED

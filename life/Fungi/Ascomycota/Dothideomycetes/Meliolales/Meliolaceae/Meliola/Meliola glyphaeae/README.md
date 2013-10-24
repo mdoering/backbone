@@ -1,5 +1,4 @@
-Meliola glyphaeae (Hansf.) Cif. SPECIES
-=======
+# Meliola glyphaeae (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

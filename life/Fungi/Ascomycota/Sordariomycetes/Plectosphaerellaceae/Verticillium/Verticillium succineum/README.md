@@ -1,5 +1,4 @@
-Verticillium succineum (Rogerson & Samuels) Rogerson & Samuels SPECIES
-=======
+# Verticillium succineum (Rogerson & Samuels) Rogerson & Samuels SPECIES
 
 #### Status
 ACCEPTED

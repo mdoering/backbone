@@ -1,5 +1,4 @@
-Boletus meridionalis (J. Blum) J. Blum SPECIES
-=======
+# Boletus meridionalis (J. Blum) J. Blum SPECIES
 
 #### Status
 ACCEPTED

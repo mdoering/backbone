@@ -1,5 +1,4 @@
-Cucurbitaria populina (Pers.) SPECIES
-=======
+# Cucurbitaria populina (Pers.) SPECIES
 
 #### Status
 ACCEPTED

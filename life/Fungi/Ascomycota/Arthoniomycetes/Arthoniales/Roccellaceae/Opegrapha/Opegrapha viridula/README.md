@@ -1,5 +1,4 @@
-Opegrapha viridula Redinger SPECIES
-=======
+# Opegrapha viridula Redinger SPECIES
 
 #### Status
 ACCEPTED

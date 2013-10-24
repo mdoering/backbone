@@ -1,5 +1,4 @@
-Angatia palmarum Bat., Castr. & J.L. Bezerra, 1966 SPECIES
-=======
+# Angatia palmarum Bat., Castr. & J.L. Bezerra, 1966 SPECIES
 
 #### Status
 ACCEPTED

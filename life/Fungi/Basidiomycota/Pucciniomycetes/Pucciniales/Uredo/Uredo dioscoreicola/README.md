@@ -1,5 +1,4 @@
-Uredo dioscoreicola F. Kern, Cif. & Thurst. SPECIES
-=======
+# Uredo dioscoreicola F. Kern, Cif. & Thurst. SPECIES
 
 #### Status
 ACCEPTED

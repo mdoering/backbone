@@ -1,5 +1,4 @@
-Coniothyrium sydowianum Petr. SPECIES
-=======
+# Coniothyrium sydowianum Petr. SPECIES
 
 #### Status
 ACCEPTED

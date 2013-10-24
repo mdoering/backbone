@@ -1,5 +1,4 @@
-Didymosphaeria atrogrisea Cooke & Peck SPECIES
-=======
+# Didymosphaeria atrogrisea Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

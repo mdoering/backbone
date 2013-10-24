@@ -1,5 +1,4 @@
-Loma acerinae (Jírovec) Lom & Pekkar. SPECIES
-=======
+# Loma acerinae (Jírovec) Lom & Pekkar. SPECIES
 
 #### Status
 ACCEPTED

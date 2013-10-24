@@ -1,5 +1,4 @@
-Aposphaeria santolinae Gucevic SPECIES
-=======
+# Aposphaeria santolinae Gucevic SPECIES
 
 #### Status
 ACCEPTED

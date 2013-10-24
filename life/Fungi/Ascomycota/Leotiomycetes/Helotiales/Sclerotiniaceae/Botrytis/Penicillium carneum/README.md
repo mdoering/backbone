@@ -1,5 +1,4 @@
-Penicillium carneum (Frisvad) Frisvad, 1996 SPECIES
-=======
+# Penicillium carneum (Frisvad) Frisvad, 1996 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Dermatocarpon squamellum (Nyl.) Herre SPECIES
-=======
+# Dermatocarpon squamellum (Nyl.) Herre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma lageniformis P.N. Mathur & Thirum. SPECIES
-=======
+# Macrophoma lageniformis P.N. Mathur & Thirum. SPECIES
 
 #### Status
 ACCEPTED

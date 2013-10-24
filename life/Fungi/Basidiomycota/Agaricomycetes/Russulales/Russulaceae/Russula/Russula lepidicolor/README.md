@@ -1,5 +1,4 @@
-Russula lepidicolor Romagn., 1962 SPECIES
-=======
+# Russula lepidicolor Romagn., 1962 SPECIES
 
 #### Status
 ACCEPTED

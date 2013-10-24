@@ -1,5 +1,4 @@
-Psora chlorophaea Müll. Arg. SPECIES
-=======
+# Psora chlorophaea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyedrosphaeridium asaphum Luo Qiling & Sun Shufen in Luo Qiling et al., 1981 SPECIES
-=======
+# Polyedrosphaeridium asaphum Luo Qiling & Sun Shufen in Luo Qiling et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

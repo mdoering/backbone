@@ -1,5 +1,4 @@
-Balantidium haughwouti Leon, 1919 SPECIES
-=======
+# Balantidium haughwouti Leon, 1919 SPECIES
 
 #### Status
 ACCEPTED

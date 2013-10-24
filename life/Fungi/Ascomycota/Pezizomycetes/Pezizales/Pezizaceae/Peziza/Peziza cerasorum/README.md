@@ -1,5 +1,4 @@
-Peziza cerasorum Schwein. SPECIES
-=======
+# Peziza cerasorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

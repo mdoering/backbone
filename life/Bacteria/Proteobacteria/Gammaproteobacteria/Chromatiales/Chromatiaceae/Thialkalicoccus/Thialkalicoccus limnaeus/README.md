@@ -1,5 +1,4 @@
-Thialkalicoccus limnaeus SPECIES
-=======
+# Thialkalicoccus limnaeus SPECIES
 
 #### Status
 ACCEPTED

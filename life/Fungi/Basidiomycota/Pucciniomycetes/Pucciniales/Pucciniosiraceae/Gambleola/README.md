@@ -1,5 +1,4 @@
-Gambleola Massee GENUS
-=======
+# Gambleola Massee GENUS
 
 #### Status
 ACCEPTED

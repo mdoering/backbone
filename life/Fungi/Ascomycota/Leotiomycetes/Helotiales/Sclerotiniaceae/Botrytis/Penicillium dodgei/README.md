@@ -1,8 +1,7 @@
-Penicillium brefeldianum B.O. Dodge, 1933 SPECIES
-=======
+# Penicillium dodgei Pitt, 1980 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

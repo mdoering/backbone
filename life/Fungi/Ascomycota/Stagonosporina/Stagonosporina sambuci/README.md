@@ -1,5 +1,4 @@
-Stagonosporina sambuci (Brunaud) Tassi SPECIES
-=======
+# Stagonosporina sambuci (Brunaud) Tassi SPECIES
 
 #### Status
 ACCEPTED

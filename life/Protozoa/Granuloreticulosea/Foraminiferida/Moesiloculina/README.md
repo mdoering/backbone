@@ -1,5 +1,4 @@
-Moesiloculina Neagu, 1984 GENUS
-=======
+# Moesiloculina Neagu, 1984 GENUS
 
 #### Status
 ACCEPTED

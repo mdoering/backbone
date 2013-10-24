@@ -1,5 +1,4 @@
-Agaricus subantarcticus Geml, Laursen & D.Lee Taylor, 2007 SPECIES
-=======
+# Agaricus subantarcticus Geml, Laursen & D.Lee Taylor, 2007 SPECIES
 
 #### Status
 ACCEPTED

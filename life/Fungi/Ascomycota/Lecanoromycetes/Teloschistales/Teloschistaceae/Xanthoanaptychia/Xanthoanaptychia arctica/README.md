@@ -1,5 +1,4 @@
-Xanthoanaptychia arctica (Zahlbr.) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthoanaptychia arctica (Zahlbr.) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

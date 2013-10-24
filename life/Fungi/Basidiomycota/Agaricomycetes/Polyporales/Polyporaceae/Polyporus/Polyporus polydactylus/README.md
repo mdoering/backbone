@@ -1,5 +1,4 @@
-Polyporus polydactylus Berk. SPECIES
-=======
+# Polyporus polydactylus Berk. SPECIES
 
 #### Status
 ACCEPTED

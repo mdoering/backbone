@@ -1,5 +1,4 @@
-Sphacelia eriochloae Paoutová & Odvody SPECIES
-=======
+# Sphacelia eriochloae Paoutová & Odvody SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Textularia heterostoma Fornasini SPECIES
-=======
+# Textularia heterostoma Fornasini SPECIES
 
 #### Status
 ACCEPTED

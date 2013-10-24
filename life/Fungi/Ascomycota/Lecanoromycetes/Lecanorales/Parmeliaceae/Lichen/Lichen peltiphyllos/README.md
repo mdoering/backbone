@@ -1,5 +1,4 @@
-Lichen peltiphyllos Bellardi SPECIES
-=======
+# Lichen peltiphyllos Bellardi SPECIES
 
 #### Status
 ACCEPTED

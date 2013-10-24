@@ -1,5 +1,4 @@
-Splanchnonema hicoria M.E. Barr SPECIES
-=======
+# Splanchnonema hicoria M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

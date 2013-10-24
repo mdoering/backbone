@@ -1,5 +1,4 @@
-Pleospora drabae J. Schröt. SPECIES
-=======
+# Pleospora drabae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

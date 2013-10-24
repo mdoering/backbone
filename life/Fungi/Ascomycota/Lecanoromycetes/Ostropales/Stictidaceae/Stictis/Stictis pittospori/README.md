@@ -1,5 +1,4 @@
-Stictis pittospori Dennis & Spooner SPECIES
-=======
+# Stictis pittospori Dennis & Spooner SPECIES
 
 #### Status
 ACCEPTED

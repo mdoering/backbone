@@ -1,5 +1,4 @@
-Pertusaria scrobicularis Kremp. SPECIES
-=======
+# Pertusaria scrobicularis Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyrtosphaera lecaliae A. Kleijne SPECIES
-=======
+# Cyrtosphaera lecaliae A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium laxispinosum Jiabo, 1978 SPECIES
-=======
+# Baltisphaeridium laxispinosum Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

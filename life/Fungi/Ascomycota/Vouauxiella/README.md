@@ -1,17 +1,16 @@
-Alysia Cavalc. & A.A. Silva GENUS
-=======
+# Vouauxiella Petr. & Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cavalcante, Cavalcanti & Leal, Publicações. Instituto de Micologia da Universidade de Pernambuco 647: 32 (1972)
+Repert. Spec. Nov. Regni Veg. Beih. 42(1): 482 (1927)
 
 #### Original name
-Alysia Cavalc. & A.A. Silva
+Vouauxiella Petr. & Syd.
 
 ### Remarks
 null

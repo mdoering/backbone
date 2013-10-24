@@ -1,5 +1,4 @@
-Phlegmacium latum var. latum VARIETY
-=======
+# Phlegmacium latum anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phlegmacium latum var. latum
+Phlegmacium latum anon.
 
 ### Remarks
 null

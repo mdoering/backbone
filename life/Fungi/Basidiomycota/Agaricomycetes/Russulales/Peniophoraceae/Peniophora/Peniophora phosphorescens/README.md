@@ -1,5 +1,4 @@
-Peniophora phosphorescens Burt SPECIES
-=======
+# Peniophora phosphorescens Burt SPECIES
 
 #### Status
 ACCEPTED

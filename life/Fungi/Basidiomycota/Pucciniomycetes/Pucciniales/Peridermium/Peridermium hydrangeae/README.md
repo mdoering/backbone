@@ -1,5 +1,4 @@
-Peridermium hydrangeae J.F. Adams SPECIES
-=======
+# Peridermium hydrangeae J.F. Adams SPECIES
 
 #### Status
 ACCEPTED

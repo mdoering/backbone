@@ -1,5 +1,4 @@
-Caloplaca ferrugineovirens (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca ferrugineovirens (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

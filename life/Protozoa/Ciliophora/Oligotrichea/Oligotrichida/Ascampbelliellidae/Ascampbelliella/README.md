@@ -1,17 +1,16 @@
-Craterella Kofoid & Campbell, 1929 GENUS
-=======
+# Ascampbelliella Corliss, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-Univ. Calif. Publ. Zool. , 34, 194.
+J. Proto-zool. 7: 273.
 
 #### Original name
-null
+Craterella Kofoid & Campbell, 1929
 
 ### Remarks
 null

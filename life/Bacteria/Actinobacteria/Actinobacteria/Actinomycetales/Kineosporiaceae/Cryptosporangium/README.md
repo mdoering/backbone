@@ -1,5 +1,4 @@
-Cryptosporangium Tamura, Hayakawa & Hatano, 1998 GENUS
-=======
+# Cryptosporangium Tamura, Hayakawa & Hatano, 1998 GENUS
 
 #### Status
 ACCEPTED

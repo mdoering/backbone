@@ -1,5 +1,4 @@
-Dicaeoma rivinae (Berk. & M.A. Curtis) Arthur SPECIES
-=======
+# Dicaeoma rivinae (Berk. & M.A. Curtis) Arthur SPECIES
 
 #### Status
 ACCEPTED

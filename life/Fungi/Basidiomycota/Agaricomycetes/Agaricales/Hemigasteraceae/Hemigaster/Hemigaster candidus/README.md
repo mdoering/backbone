@@ -1,5 +1,4 @@
-Hemigaster candidus Juel, 1895 SPECIES
-=======
+# Hemigaster candidus Juel, 1895 SPECIES
 
 #### Status
 ACCEPTED

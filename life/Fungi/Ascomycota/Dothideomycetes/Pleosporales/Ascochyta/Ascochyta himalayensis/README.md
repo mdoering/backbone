@@ -1,5 +1,4 @@
-Ascochyta himalayensis J.N. Rai, Saxsena & J.P. Tewari SPECIES
-=======
+# Ascochyta himalayensis J.N. Rai, Saxsena & J.P. Tewari SPECIES
 
 #### Status
 ACCEPTED

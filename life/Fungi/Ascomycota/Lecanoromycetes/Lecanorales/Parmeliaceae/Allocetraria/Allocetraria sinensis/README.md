@@ -1,5 +1,4 @@
-Allocetraria sinensis X.Q. Gao SPECIES
-=======
+# Allocetraria sinensis X.Q. Gao SPECIES
 
 #### Status
 ACCEPTED

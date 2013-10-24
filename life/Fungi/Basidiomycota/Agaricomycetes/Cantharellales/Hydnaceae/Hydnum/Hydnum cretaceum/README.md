@@ -1,5 +1,4 @@
-Hydnum cretaceum Cooke SPECIES
-=======
+# Hydnum cretaceum Cooke SPECIES
 
 #### Status
 ACCEPTED

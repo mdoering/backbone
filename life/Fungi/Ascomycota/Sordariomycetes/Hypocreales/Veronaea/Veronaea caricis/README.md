@@ -1,14 +1,13 @@
-Periconiella caricis (M.B. Ellis) de Hoog, 1977 SPECIES
-=======
+# Veronaea caricis M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Hoog & Hermanides-Nijhof, Stud. Mycol. 15: 197 (1977)
+More Dematiaceous Hyphomycetes (Kew) 210 (1976)
 
 #### Original name
 Veronaea caricis M.B. Ellis, 1976

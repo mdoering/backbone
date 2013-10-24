@@ -1,5 +1,4 @@
-Cronbergia Komárek, Zapomelová & Hindák, 2010 GENUS
-=======
+# Cronbergia Komárek, Zapomelová & Hindák, 2010 GENUS
 
 #### Status
 ACCEPTED

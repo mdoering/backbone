@@ -1,5 +1,4 @@
-Poria holoxantha Berk. & Cooke ex Cooke SPECIES
-=======
+# Poria holoxantha Berk. & Cooke ex Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uncinula praeterita Marasas & I.H. Schum. SPECIES
-=======
+# Uncinula praeterita Marasas & I.H. Schum. SPECIES
 
 #### Status
 ACCEPTED

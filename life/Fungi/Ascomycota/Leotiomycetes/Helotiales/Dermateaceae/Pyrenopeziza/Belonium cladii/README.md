@@ -1,5 +1,4 @@
-Belonium cladii Dennis SPECIES
-=======
+# Belonium cladii Dennis SPECIES
 
 #### Status
 ACCEPTED

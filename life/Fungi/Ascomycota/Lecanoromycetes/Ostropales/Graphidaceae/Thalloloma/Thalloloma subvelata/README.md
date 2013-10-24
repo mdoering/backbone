@@ -1,14 +1,13 @@
-Graphis subvelata Stirt. SPECIES
-=======
+# Thalloloma subvelata (Stirt.) D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bailey, Queensland Agric. J. 5: 488 (1899)
+N. Z. Jl Bot. 42(1): 118 (2004)
 
 #### Original name
 Graphis subvelata Stirt.

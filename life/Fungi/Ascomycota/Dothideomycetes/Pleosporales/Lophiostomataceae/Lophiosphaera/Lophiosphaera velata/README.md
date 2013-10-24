@@ -1,14 +1,13 @@
-Glonium velatum Ellis & Everh., 1892 SPECIES
-=======
+# Lophiosphaera velata (Ellis & Everh.) M.L. Lohman, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Pyren. (Newfield) 684 (1892)
+Am. J. Bot. 21: 314 (1934)
 
 #### Original name
 Glonium velatum Ellis & Everh., 1892

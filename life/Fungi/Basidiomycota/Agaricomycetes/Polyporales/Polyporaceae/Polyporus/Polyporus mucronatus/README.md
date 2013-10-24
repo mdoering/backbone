@@ -1,5 +1,4 @@
-Polyporus mucronatus Fr. SPECIES
-=======
+# Polyporus mucronatus Fr. SPECIES
 
 #### Status
 ACCEPTED

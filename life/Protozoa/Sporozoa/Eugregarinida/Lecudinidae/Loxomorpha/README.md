@@ -1,5 +1,4 @@
-Loxomorpha Hoshide, 1988 GENUS
-=======
+# Loxomorpha Hoshide, 1988 GENUS
 
 #### Status
 ACCEPTED

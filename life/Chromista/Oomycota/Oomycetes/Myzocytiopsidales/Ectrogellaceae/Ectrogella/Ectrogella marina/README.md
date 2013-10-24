@@ -1,5 +1,4 @@
-Ectrogella marina (P.A. Dang.) Feldmann & Feldm.-Maz. SPECIES
-=======
+# Ectrogella marina (P.A. Dang.) Feldmann & Feldm.-Maz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavoplites edaphicus Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Clavoplites edaphicus Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

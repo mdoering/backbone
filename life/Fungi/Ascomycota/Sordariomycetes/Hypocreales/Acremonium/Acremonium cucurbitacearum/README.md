@@ -1,5 +1,4 @@
-Acremonium cucurbitacearum Alfaro-García, W. Gams & García-Jim., 1996 SPECIES
-=======
+# Acremonium cucurbitacearum Alfaro-García, W. Gams & García-Jim., 1996 SPECIES
 
 #### Status
 ACCEPTED

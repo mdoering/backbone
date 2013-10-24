@@ -1,5 +1,4 @@
-Pleospora genisticola Fautrey & Lambotte SPECIES
-=======
+# Pleospora genisticola Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

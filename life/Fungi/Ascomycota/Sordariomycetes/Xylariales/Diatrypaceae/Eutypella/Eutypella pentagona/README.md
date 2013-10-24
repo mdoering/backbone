@@ -1,5 +1,4 @@
-Eutypella pentagona (Pers.) Sacc. SPECIES
-=======
+# Eutypella pentagona (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

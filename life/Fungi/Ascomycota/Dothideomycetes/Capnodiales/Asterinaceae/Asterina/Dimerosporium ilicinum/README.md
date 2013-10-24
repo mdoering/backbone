@@ -1,5 +1,4 @@
-Dimerosporium ilicinum Cooke SPECIES
-=======
+# Dimerosporium ilicinum Cooke SPECIES
 
 #### Status
 ACCEPTED

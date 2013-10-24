@@ -1,14 +1,13 @@
-Trechispora albo-ochracea (Bres.) Liberta, 1974 SPECIES
-=======
+# Ramaricium albo-ochraceum (Bres.) Jülich, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 51(10): 1888 (1973)
+Persoonia 9(3): 417 (1977)
 
 #### Original name
 null

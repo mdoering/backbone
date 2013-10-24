@@ -1,5 +1,4 @@
-Erysiphe sapindi (S.R. Yu) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe sapindi (S.R. Yu) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

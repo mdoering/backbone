@@ -1,5 +1,4 @@
-Septoria celtis-gallae W.R. Gerard SPECIES
-=======
+# Septoria celtis-gallae W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

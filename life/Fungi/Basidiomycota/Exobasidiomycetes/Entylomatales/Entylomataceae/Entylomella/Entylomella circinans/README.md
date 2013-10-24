@@ -1,5 +1,4 @@
-Entylomella circinans (G. Winter) Höhn. ex Cif. SPECIES
-=======
+# Entylomella circinans (G. Winter) Höhn. ex Cif. SPECIES
 
 #### Status
 ACCEPTED

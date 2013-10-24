@@ -1,5 +1,4 @@
-Porostereum Pilát, 1936 GENUS
-=======
+# Porostereum Pilát, 1936 GENUS
 
 #### Status
 ACCEPTED

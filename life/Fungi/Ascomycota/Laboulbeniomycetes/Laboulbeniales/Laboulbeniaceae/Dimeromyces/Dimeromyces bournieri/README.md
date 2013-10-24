@@ -1,5 +1,4 @@
-Dimeromyces bournieri Balazuc ex Santam. SPECIES
-=======
+# Dimeromyces bournieri Balazuc ex Santam. SPECIES
 
 #### Status
 ACCEPTED

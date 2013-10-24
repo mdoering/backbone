@@ -1,5 +1,4 @@
-Lithothelium neoindicum Ajay Singh SPECIES
-=======
+# Lithothelium neoindicum Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

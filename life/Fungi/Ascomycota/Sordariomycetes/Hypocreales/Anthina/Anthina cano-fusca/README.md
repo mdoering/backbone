@@ -1,5 +1,4 @@
-Anthina cano-fusca Fr. SPECIES
-=======
+# Anthina cano-fusca Fr. SPECIES
 
 #### Status
 ACCEPTED

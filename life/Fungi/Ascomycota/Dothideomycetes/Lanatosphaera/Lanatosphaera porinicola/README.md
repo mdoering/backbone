@@ -1,5 +1,4 @@
-Lanatosphaera porinicola Matzer, 1996 SPECIES
-=======
+# Lanatosphaera porinicola Matzer, 1996 SPECIES
 
 #### Status
 ACCEPTED

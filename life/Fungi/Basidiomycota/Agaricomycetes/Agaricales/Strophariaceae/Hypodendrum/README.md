@@ -1,5 +1,4 @@
-Hypodendrum GENUS
-=======
+# Hypodendrum GENUS
 
 #### Status
 ACCEPTED

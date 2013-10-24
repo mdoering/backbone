@@ -1,5 +1,4 @@
-Puccinia tangkuensis Liou & Wang {?} SPECIES
-=======
+# Puccinia tangkuensis Liou & Wang {?} SPECIES
 
 #### Status
 ACCEPTED

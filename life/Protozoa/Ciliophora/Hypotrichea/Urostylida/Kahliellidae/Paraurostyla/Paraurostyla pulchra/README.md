@@ -1,5 +1,4 @@
-Paraurostyla pulchra Buitkamp, 1977 SPECIES
-=======
+# Paraurostyla pulchra Buitkamp, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Radulum griseum Rick SPECIES
-=======
+# Radulum griseum Rick SPECIES
 
 #### Status
 ACCEPTED

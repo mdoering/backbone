@@ -1,5 +1,4 @@
-Closteroaleurosporia persicolor (Sabour.) Grigoraki SPECIES
-=======
+# Closteroaleurosporia persicolor (Sabour.) Grigoraki SPECIES
 
 #### Status
 ACCEPTED

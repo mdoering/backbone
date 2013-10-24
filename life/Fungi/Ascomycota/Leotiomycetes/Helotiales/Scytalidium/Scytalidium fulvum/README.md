@@ -1,5 +1,4 @@
-Scytalidium fulvum Morgan-Jones & Gintis SPECIES
-=======
+# Scytalidium fulvum Morgan-Jones & Gintis SPECIES
 
 #### Status
 ACCEPTED

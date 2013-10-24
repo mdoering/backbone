@@ -1,5 +1,4 @@
-Peziza tapeina Cooke SPECIES
-=======
+# Peziza tapeina Cooke SPECIES
 
 #### Status
 ACCEPTED

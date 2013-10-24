@@ -1,5 +1,4 @@
-Allarthothelium fuscoglaucum (Vain.) Zahlbr. SPECIES
-=======
+# Allarthothelium fuscoglaucum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

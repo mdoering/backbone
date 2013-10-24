@@ -1,5 +1,4 @@
-Thalassiosira mendiolana Hasle & Heimdal, 1970 SPECIES
-=======
+# Thalassiosira mendiolana Hasle & Heimdal, 1970 SPECIES
 
 #### Status
 ACCEPTED

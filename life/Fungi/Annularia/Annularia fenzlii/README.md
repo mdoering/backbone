@@ -1,5 +1,4 @@
-Annularia fenzlii Schulzer SPECIES
-=======
+# Annularia fenzlii Schulzer SPECIES
 
 #### Status
 ACCEPTED

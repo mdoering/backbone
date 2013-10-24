@@ -1,14 +1,13 @@
-Peziza chailletii Pers. SPECIES
-=======
+# Pyrenopeziza chailletii (Pers.) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 1: 288 (1822)
+Jb. nassau. Ver. Naturk. 23-24: 294 (1870)
 
 #### Original name
 Peziza chailletii Pers.

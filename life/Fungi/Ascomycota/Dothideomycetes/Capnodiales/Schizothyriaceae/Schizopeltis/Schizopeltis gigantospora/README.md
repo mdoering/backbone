@@ -1,5 +1,4 @@
-Schizopeltis gigantospora (Hansf.) Bat. SPECIES
-=======
+# Schizopeltis gigantospora (Hansf.) Bat. SPECIES
 
 #### Status
 ACCEPTED

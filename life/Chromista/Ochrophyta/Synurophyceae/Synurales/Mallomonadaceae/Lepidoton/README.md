@@ -1,5 +1,4 @@
-Lepidoton Seligo, 1893 GENUS
-=======
+# Lepidoton Seligo, 1893 GENUS
 
 #### Status
 SYNONYM

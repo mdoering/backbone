@@ -1,17 +1,16 @@
-Caloplaca oasis f. oasis FORM
-=======
+# Caloplaca oasis (A. Massal.) Szatala SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Caloplaca oasis f. oasis
+null
 
 ### Remarks
 null

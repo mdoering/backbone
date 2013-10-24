@@ -1,5 +1,4 @@
-Cephalosporium ramosum Kamyschko SPECIES
-=======
+# Cephalosporium ramosum Kamyschko SPECIES
 
 #### Status
 ACCEPTED

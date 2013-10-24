@@ -1,5 +1,4 @@
-Naucoria praeumbonata Murrill SPECIES
-=======
+# Naucoria praeumbonata Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polystomella pulchella (Speg.) Theiss., 1912 SPECIES
-=======
+# Rhagadolobium pulchellum (Speg.) Arx, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 11(2): 44 (1962)
 
 #### Original name
-null
+Microthyrium pulchellum Speg., 1885
 
 ### Remarks
 null

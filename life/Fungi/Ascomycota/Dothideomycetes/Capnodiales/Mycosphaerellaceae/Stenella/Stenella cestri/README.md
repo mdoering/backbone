@@ -1,5 +1,4 @@
-Stenella cestri U. Braun, Crous & N. Pons SPECIES
-=======
+# Stenella cestri U. Braun, Crous & N. Pons SPECIES
 
 #### Status
 ACCEPTED

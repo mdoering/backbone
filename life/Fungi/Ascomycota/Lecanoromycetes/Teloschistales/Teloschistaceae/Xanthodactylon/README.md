@@ -1,5 +1,4 @@
-Xanthodactylon P.A. Duvign. GENUS
-=======
+# Xanthodactylon P.A. Duvign. GENUS
 
 #### Status
 ACCEPTED

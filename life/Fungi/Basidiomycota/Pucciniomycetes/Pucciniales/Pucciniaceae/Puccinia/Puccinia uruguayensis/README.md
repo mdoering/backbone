@@ -1,5 +1,4 @@
-Puccinia uruguayensis Speg. SPECIES
-=======
+# Puccinia uruguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta phyllodiorum Sacc. SPECIES
-=======
+# Phyllosticta phyllodiorum Sacc. SPECIES
 
 #### Status
 ACCEPTED

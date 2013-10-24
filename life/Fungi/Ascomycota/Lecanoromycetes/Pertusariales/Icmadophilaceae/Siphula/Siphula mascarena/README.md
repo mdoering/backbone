@@ -1,5 +1,4 @@
-Siphula mascarena Mathey SPECIES
-=======
+# Siphula mascarena Mathey SPECIES
 
 #### Status
 ACCEPTED

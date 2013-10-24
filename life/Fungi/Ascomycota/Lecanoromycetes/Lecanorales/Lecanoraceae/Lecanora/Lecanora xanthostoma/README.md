@@ -1,5 +1,4 @@
-Lecanora xanthostoma Cl. Roux ex Fröberg SPECIES
-=======
+# Lecanora xanthostoma Cl. Roux ex Fröberg SPECIES
 
 #### Status
 ACCEPTED

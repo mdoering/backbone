@@ -1,5 +1,4 @@
-Gyrodon mougeotii (Quél.) Sacc. SPECIES
-=======
+# Gyrodon mougeotii (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

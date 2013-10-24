@@ -1,5 +1,4 @@
-Patellaria subatrata Rehm SPECIES
-=======
+# Patellaria subatrata Rehm SPECIES
 
 #### Status
 ACCEPTED

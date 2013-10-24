@@ -1,14 +1,13 @@
-Polyporus ochrolaccatus Mont., 1842 SPECIES
-=======
+# Ganoderma ochrolaccatum (Mont.) Pat., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 2 17: 241 (1842)
+Bull. Soc. mycol. Fr. 5(2,3): 68 (1889)
 
 #### Original name
 Polyporus ochrolaccatus Mont., 1842

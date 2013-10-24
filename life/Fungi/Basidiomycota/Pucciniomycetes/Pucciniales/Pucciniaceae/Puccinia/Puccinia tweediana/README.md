@@ -1,17 +1,16 @@
-Uromyces tweedianus (Arthur) Barthol., 1928 SPECIES
-=======
+# Puccinia tweediana T.S. Ramakr. & K. Ramakr., 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handbook of North American Ured. , Edn 1 79 (1928)
+Proc. Indian Acad. Sci. , Pl. Sci. 28: 62 (1948)
 
 #### Original name
-Pucciniola tweediana (Speg.) Arthur, 1921
+Puccinia tweediana T.S. Ramakr. & K. Ramakr., 1948
 
 ### Remarks
 null

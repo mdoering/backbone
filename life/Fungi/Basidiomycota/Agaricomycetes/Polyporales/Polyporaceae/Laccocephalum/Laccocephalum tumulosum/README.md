@@ -1,14 +1,13 @@
-Polyporus tumulosus Cooke & Massee, 1889 SPECIES
-=======
+# Laccocephalum tumulosum (Cooke & Massee) Núñez & Ryvarden, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 17(no. 83): 55 (1889)
+Syn. Fung. (Oslo) 10: 32 (1995)
 
 #### Original name
 Polyporus tumulosus Cooke & Massee, 1889

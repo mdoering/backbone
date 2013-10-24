@@ -1,5 +1,4 @@
-Skyttea anziae Etayo & Diederich SPECIES
-=======
+# Skyttea anziae Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatophilaceae Austwick, 1958 FAMILY
-=======
+# Dermatophilaceae Austwick, 1958 FAMILY
 
 #### Status
 ACCEPTED

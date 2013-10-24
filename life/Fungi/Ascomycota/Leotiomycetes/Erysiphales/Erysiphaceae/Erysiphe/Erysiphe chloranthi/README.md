@@ -1,5 +1,4 @@
-Erysiphe chloranthi (Golovin & Bunkina) U. Braun SPECIES
-=======
+# Erysiphe chloranthi (Golovin & Bunkina) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratostoma mexicanense Bat. & Nascim. SPECIES
-=======
+# Ceratostoma mexicanense Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

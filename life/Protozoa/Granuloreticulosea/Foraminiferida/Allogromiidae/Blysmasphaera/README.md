@@ -1,5 +1,4 @@
-Blysmasphaera Brönnimann, 1988 GENUS
-=======
+# Blysmasphaera Brönnimann, 1988 GENUS
 
 #### Status
 ACCEPTED

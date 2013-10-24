@@ -1,5 +1,4 @@
-Scytinopogon chartaceum (Pat.) R.H. Petersen SPECIES
-=======
+# Scytinopogon chartaceum (Pat.) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

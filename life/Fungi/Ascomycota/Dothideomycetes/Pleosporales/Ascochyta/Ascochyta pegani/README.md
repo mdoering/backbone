@@ -1,5 +1,4 @@
-Ascochyta pegani S. Ahmad SPECIES
-=======
+# Ascochyta pegani S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

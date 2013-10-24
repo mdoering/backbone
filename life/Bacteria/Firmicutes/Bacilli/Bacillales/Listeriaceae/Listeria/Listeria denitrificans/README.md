@@ -1,5 +1,4 @@
-Listeria denitrificans Prévot, 1961 SPECIES
-=======
+# Listeria denitrificans Prévot, 1961 SPECIES
 
 #### Status
 ACCEPTED

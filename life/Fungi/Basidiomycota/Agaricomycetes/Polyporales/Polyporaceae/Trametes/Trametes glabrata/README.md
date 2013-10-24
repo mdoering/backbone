@@ -1,5 +1,4 @@
-Trametes glabrata (Lloyd) Ryvarden SPECIES
-=======
+# Trametes glabrata (Lloyd) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea subconfluescens Zahlbr. SPECIES
-=======
+# Lecidea subconfluescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclidium arboreum SPECIES
-=======
+# Cyclidium arboreum SPECIES
 
 #### Status
 ACCEPTED

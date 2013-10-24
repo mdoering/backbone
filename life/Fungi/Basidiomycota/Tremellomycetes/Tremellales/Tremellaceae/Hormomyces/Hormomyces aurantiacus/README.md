@@ -1,5 +1,4 @@
-Hormomyces aurantiacus Sacc., 1851 SPECIES
-=======
+# Hormomyces aurantiacus Sacc., 1851 SPECIES
 
 #### Status
 ACCEPTED

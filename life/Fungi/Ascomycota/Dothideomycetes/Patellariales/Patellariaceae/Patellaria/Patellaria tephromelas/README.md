@@ -1,5 +1,4 @@
-Patellaria tephromelas DC. SPECIES
-=======
+# Patellaria tephromelas DC. SPECIES
 
 #### Status
 ACCEPTED

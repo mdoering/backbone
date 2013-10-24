@@ -1,5 +1,4 @@
-Sphaerella hemerocallidis Pass. SPECIES
-=======
+# Sphaerella hemerocallidis Pass. SPECIES
 
 #### Status
 ACCEPTED

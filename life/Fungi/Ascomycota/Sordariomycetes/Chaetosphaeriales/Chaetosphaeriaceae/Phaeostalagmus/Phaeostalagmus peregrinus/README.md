@@ -1,5 +1,4 @@
-Phaeostalagmus peregrinus Minter & Hol.-Jech., 1981 SPECIES
-=======
+# Phaeostalagmus peregrinus Minter & Hol.-Jech., 1981 SPECIES
 
 #### Status
 ACCEPTED

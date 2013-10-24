@@ -1,5 +1,4 @@
-Torula inops P. Karst. SPECIES
-=======
+# Torula inops P. Karst. SPECIES
 
 #### Status
 ACCEPTED

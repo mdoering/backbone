@@ -1,5 +1,4 @@
-Taphrina borealis Johanson SPECIES
-=======
+# Taphrina borealis Johanson SPECIES
 
 #### Status
 ACCEPTED

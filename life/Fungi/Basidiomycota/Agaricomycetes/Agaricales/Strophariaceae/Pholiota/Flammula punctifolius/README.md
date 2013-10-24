@@ -1,5 +1,4 @@
-Flammula punctifolius (Peck) A.H. Sm. SPECIES
-=======
+# Flammula punctifolius (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

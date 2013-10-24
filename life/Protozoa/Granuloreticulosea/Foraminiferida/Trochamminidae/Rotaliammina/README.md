@@ -1,5 +1,4 @@
-Rotaliammina Cushman, 1924 GENUS
-=======
+# Rotaliammina Cushman, 1924 GENUS
 
 #### Status
 ACCEPTED

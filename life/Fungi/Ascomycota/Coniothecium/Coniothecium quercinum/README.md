@@ -1,5 +1,4 @@
-Coniothecium quercinum Sacc. SPECIES
-=======
+# Coniothecium quercinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

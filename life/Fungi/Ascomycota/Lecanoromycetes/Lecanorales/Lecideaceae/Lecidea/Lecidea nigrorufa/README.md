@@ -1,5 +1,4 @@
-Lecidea nigrorufa (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecidea nigrorufa (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

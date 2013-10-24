@@ -1,5 +1,4 @@
-Aulospora Speg. GENUS
-=======
+# Aulospora Speg. GENUS
 
 #### Status
 ACCEPTED

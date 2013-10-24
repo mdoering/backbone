@@ -1,5 +1,4 @@
-Melanosella Örösi-Pál GENUS
-=======
+# Melanosella Örösi-Pál GENUS
 
 #### Status
 ACCEPTED

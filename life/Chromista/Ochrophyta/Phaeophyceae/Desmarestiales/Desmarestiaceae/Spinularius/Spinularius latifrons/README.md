@@ -1,5 +1,4 @@
-Spinularius latifrons Ruprecht SPECIES
-=======
+# Spinularius latifrons Ruprecht SPECIES
 
 #### Status
 ACCEPTED

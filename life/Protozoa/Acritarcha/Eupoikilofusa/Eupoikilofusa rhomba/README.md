@@ -1,5 +1,4 @@
-Eupoikilofusa rhomba Miller & Eames, 1982 SPECIES
-=======
+# Eupoikilofusa rhomba Miller & Eames, 1982 SPECIES
 
 #### Status
 ACCEPTED

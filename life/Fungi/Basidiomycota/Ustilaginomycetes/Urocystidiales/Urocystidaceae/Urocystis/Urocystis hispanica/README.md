@@ -1,5 +1,4 @@
-Urocystis hispanica (Syd.) Zundel SPECIES
-=======
+# Urocystis hispanica (Syd.) Zundel SPECIES
 
 #### Status
 ACCEPTED

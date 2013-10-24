@@ -1,5 +1,4 @@
-Corynespora hamata Wulandari SPECIES
-=======
+# Corynespora hamata Wulandari SPECIES
 
 #### Status
 ACCEPTED

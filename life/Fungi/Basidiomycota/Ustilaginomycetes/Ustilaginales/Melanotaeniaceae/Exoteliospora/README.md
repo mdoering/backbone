@@ -1,5 +1,4 @@
-Exoteliospora R. Bauer, Oberw. & Vánky GENUS
-=======
+# Exoteliospora R. Bauer, Oberw. & Vánky GENUS
 
 #### Status
 ACCEPTED

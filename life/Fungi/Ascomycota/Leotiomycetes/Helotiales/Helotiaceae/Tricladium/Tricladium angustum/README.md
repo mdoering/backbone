@@ -1,5 +1,4 @@
-Tricladium angustum K. Ando SPECIES
-=======
+# Tricladium angustum K. Ando SPECIES
 
 #### Status
 ACCEPTED

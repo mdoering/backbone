@@ -1,5 +1,4 @@
-Phaeographina oscitans (Tuck.) Zahlbr. SPECIES
-=======
+# Phaeographina oscitans (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

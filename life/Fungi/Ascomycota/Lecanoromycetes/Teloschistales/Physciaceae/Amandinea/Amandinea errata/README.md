@@ -1,5 +1,4 @@
-Amandinea errata Marbach SPECIES
-=======
+# Amandinea errata Marbach SPECIES
 
 #### Status
 ACCEPTED

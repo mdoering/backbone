@@ -1,5 +1,4 @@
-Metopus curvatus Kahl, 1927 SPECIES
-=======
+# Metopus curvatus Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

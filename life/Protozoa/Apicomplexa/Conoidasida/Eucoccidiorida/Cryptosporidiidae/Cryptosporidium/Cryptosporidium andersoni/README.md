@@ -1,5 +1,4 @@
-Cryptosporidium andersoni Lindsay, Upton, Owens, Morgan, Mead & Blagburn, 2000 SPECIES
-=======
+# Cryptosporidium andersoni Lindsay, Upton, Owens, Morgan, Mead & Blagburn, 2000 SPECIES
 
 #### Status
 ACCEPTED

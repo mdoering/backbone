@@ -1,5 +1,4 @@
-Conisphaeria maingayi Cooke SPECIES
-=======
+# Conisphaeria maingayi Cooke SPECIES
 
 #### Status
 ACCEPTED

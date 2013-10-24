@@ -1,5 +1,4 @@
-Phaeostilbella GENUS
-=======
+# Phaeostilbella GENUS
 
 #### Status
 ACCEPTED

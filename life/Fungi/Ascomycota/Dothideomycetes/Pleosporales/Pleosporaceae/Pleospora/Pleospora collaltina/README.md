@@ -1,5 +1,4 @@
-Pleospora collaltina Sacc. & Speg., 1878 SPECIES
-=======
+# Pleospora collaltina Sacc. & Speg., 1878 SPECIES
 
 #### Status
 ACCEPTED

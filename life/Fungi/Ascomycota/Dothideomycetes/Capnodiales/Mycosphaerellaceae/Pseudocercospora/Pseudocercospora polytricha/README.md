@@ -1,5 +1,4 @@
-Pseudocercospora polytricha (Cooke) Chupp SPECIES
-=======
+# Pseudocercospora polytricha (Cooke) Chupp SPECIES
 
 #### Status
 ACCEPTED

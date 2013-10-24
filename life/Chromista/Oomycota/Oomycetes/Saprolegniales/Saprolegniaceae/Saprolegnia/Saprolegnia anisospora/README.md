@@ -1,17 +1,16 @@
-Isoachlya anisospora var. indica R.K. Saksena & Bhargava VARIETY
-=======
+# Saprolegnia anisospora de Bary, 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Curr. Sci. 13: 79 (1944)
+Bot. Ztg. 46: 619 (1888)
 
 #### Original name
-Isoachlya anisospora var. indica R.K. Saksena & Bhargava
+Saprolegnia anisospora de Bary, 1888
 
 ### Remarks
 null

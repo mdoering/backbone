@@ -1,5 +1,4 @@
-Clitocybe incongrua Berk. SPECIES
-=======
+# Clitocybe incongrua Berk. SPECIES
 
 #### Status
 ACCEPTED

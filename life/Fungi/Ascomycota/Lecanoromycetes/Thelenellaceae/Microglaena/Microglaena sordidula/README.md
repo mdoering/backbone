@@ -1,5 +1,4 @@
-Microglaena sordidula Th. Fr. SPECIES
-=======
+# Microglaena sordidula Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

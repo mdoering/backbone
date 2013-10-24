@@ -1,5 +1,4 @@
-Cercospora tetrastigmatis Pandotra & Ganguly SPECIES
-=======
+# Cercospora tetrastigmatis Pandotra & Ganguly SPECIES
 
 #### Status
 ACCEPTED

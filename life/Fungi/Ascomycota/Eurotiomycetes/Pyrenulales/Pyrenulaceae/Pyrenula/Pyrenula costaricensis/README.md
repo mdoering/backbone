@@ -1,5 +1,4 @@
-Pyrenula costaricensis Müll. Arg. SPECIES
-=======
+# Pyrenula costaricensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

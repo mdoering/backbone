@@ -1,5 +1,4 @@
-Cristinia eichleri (Bres.) Nakasone SPECIES
-=======
+# Cristinia eichleri (Bres.) Nakasone SPECIES
 
 #### Status
 ACCEPTED

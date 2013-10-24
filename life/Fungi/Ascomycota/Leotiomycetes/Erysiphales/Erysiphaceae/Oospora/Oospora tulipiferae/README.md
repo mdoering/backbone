@@ -1,5 +1,4 @@
-Oospora tulipiferae Ellis & G. Martin SPECIES
-=======
+# Oospora tulipiferae Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

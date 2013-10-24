@@ -1,17 +1,16 @@
-Chromostylium Giard GENUS
-=======
+# Metarhizium Sorokin, 1879 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Sci. France Belgique 20: 214 (1889)
+null
 
 #### Original name
-Chromostylium Giard
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Passalora arthraxonis (Y.L. Guo) U. Braun & Crous SPECIES
-=======
+# Passalora arthraxonis (Y.L. Guo) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

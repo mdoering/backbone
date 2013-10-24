@@ -1,5 +1,4 @@
-Diademopetra W.W.Hay, H.Mohler & M.E.Wade GENUS
-=======
+# Diademopetra W.W.Hay, H.Mohler & M.E.Wade GENUS
 
 #### Status
 ACCEPTED

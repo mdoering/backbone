@@ -1,5 +1,4 @@
-Asterothyrites sinuatus Cookson SPECIES
-=======
+# Asterothyrites sinuatus Cookson SPECIES
 
 #### Status
 ACCEPTED

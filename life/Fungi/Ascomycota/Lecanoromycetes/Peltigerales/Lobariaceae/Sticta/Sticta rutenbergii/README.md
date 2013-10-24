@@ -1,5 +1,4 @@
-Sticta rutenbergii Kremp. SPECIES
-=======
+# Sticta rutenbergii Kremp. SPECIES
 
 #### Status
 ACCEPTED

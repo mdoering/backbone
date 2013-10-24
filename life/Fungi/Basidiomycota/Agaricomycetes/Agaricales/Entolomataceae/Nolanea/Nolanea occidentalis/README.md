@@ -1,5 +1,4 @@
-Nolanea occidentalis Murrill SPECIES
-=======
+# Nolanea occidentalis Murrill SPECIES
 
 #### Status
 ACCEPTED

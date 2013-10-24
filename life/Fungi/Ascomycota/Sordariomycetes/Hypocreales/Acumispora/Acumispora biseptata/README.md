@@ -1,5 +1,4 @@
-Acumispora biseptata Matsush., 1980 SPECIES
-=======
+# Acumispora biseptata Matsush., 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Planctomyces brasiliensis Schlesner, 1990 SPECIES
-=======
+# Planctomyces brasiliensis Schlesner, 1990 SPECIES
 
 #### Status
 ACCEPTED

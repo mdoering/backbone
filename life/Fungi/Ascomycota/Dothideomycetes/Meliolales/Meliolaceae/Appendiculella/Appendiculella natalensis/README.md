@@ -1,5 +1,4 @@
-Appendiculella natalensis var. natalensis VARIETY
-=======
+# Appendiculella natalensis (Doidge) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Sydowia 2: 106 (1961)
 
 #### Original name
-Appendiculella natalensis var. natalensis
+Meliola natalensis Doidge
 
 ### Remarks
 null

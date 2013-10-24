@@ -1,8 +1,7 @@
-Tachysoma perisincirra Hemberger, 1985 SPECIES
-=======
+# Lamtostyla perisincirra (Hemberger, 1985) Berger & Foissner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

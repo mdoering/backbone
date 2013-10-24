@@ -1,5 +1,4 @@
-Usnea soleirolii (Schaer.) Jatta SPECIES
-=======
+# Usnea soleirolii (Schaer.) Jatta SPECIES
 
 #### Status
 ACCEPTED

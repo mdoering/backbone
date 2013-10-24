@@ -1,5 +1,4 @@
-Coprinus sulphureus McClatchie {?} SPECIES
-=======
+# Coprinus sulphureus McClatchie {?} SPECIES
 
 #### Status
 ACCEPTED

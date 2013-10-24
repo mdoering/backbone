@@ -1,5 +1,4 @@
-Feldmannia padinae (Buffham) G. Hamel SPECIES
-=======
+# Feldmannia padinae (Buffham) G. Hamel SPECIES
 
 #### Status
 ACCEPTED

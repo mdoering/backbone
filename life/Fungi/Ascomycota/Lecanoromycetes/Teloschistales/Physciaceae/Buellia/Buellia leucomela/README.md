@@ -1,5 +1,4 @@
-Buellia leucomela Imshaug SPECIES
-=======
+# Buellia leucomela Imshaug SPECIES
 
 #### Status
 ACCEPTED

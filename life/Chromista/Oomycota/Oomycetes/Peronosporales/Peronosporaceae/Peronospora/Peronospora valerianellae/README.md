@@ -1,5 +1,4 @@
-Peronospora valerianellae Fuckel, 1863 SPECIES
-=======
+# Peronospora valerianellae Fuckel, 1863 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus alpinus Kobayasi SPECIES
-=======
+# Cantharellus alpinus Kobayasi SPECIES
 
 #### Status
 ACCEPTED

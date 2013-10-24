@@ -1,5 +1,4 @@
-Lepiota subcitrophylla Hongo SPECIES
-=======
+# Lepiota subcitrophylla Hongo SPECIES
 
 #### Status
 ACCEPTED

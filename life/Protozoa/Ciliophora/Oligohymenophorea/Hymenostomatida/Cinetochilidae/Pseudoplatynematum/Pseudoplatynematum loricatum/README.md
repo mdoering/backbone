@@ -1,5 +1,4 @@
-Pseudoplatynematum loricatum Bock, 1952 SPECIES
-=======
+# Pseudoplatynematum loricatum Bock, 1952 SPECIES
 
 #### Status
 ACCEPTED

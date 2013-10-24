@@ -1,5 +1,4 @@
-Arthopyrenia convexella Müll. Arg. SPECIES
-=======
+# Arthopyrenia convexella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuber bernardinii Gori SPECIES
-=======
+# Tuber bernardinii Gori SPECIES
 
 #### Status
 ACCEPTED

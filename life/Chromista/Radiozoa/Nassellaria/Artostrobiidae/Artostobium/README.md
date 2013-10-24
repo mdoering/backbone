@@ -1,5 +1,4 @@
-Artostobium GENUS
-=======
+# Artostobium GENUS
 
 #### Status
 ACCEPTED

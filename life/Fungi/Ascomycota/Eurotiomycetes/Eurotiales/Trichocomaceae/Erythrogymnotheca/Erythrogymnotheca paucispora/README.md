@@ -1,5 +1,4 @@
-Erythrogymnotheca paucispora Yaguchi, Someya & Udagawa, 1994 SPECIES
-=======
+# Erythrogymnotheca paucispora Yaguchi, Someya & Udagawa, 1994 SPECIES
 
 #### Status
 ACCEPTED

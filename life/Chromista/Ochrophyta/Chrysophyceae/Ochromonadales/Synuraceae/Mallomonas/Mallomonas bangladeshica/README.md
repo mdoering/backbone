@@ -1,5 +1,4 @@
-Mallomonas bangladeshica (E. Takahashi & T. Hayakawa) K.H. Nicholls SPECIES
-=======
+# Mallomonas bangladeshica (E. Takahashi & T. Hayakawa) K.H. Nicholls SPECIES
 
 #### Status
 ACCEPTED

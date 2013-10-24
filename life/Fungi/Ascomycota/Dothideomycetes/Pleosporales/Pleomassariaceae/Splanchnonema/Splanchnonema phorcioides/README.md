@@ -1,5 +1,4 @@
-Splanchnonema phorcioides (I. Miyake) P. Leroy, L. Gauthier & M.E. Barr SPECIES
-=======
+# Splanchnonema phorcioides (I. Miyake) P. Leroy, L. Gauthier & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

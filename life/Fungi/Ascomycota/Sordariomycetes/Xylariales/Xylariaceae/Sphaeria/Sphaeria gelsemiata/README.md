@@ -1,5 +1,4 @@
-Sphaeria gelsemiata Cooke SPECIES
-=======
+# Sphaeria gelsemiata Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria eleutherococci Lar.N. Vassiljeva SPECIES
-=======
+# Didymosphaeria eleutherococci Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

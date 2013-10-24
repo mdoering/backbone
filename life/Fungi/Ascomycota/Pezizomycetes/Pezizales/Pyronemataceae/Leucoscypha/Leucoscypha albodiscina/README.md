@@ -1,5 +1,4 @@
-Leucoscypha albodiscina (Velen.) Svrcek SPECIES
-=======
+# Leucoscypha albodiscina (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium rivale Tuck. SPECIES
-=======
+# Leptogium rivale Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo peridiata Arthur & Cummins SPECIES
-=======
+# Uredo peridiata Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

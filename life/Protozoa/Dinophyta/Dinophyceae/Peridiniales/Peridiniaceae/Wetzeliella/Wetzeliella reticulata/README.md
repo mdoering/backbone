@@ -1,5 +1,4 @@
-Wetzeliella reticulata G.L. Williams & C. Downie SPECIES
-=======
+# Wetzeliella reticulata G.L. Williams & C. Downie SPECIES
 
 #### Status
 ACCEPTED

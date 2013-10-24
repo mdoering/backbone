@@ -1,5 +1,4 @@
-Cortinarius psammopodioides E. Horak SPECIES
-=======
+# Cortinarius psammopodioides E. Horak SPECIES
 
 #### Status
 ACCEPTED

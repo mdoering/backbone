@@ -1,5 +1,4 @@
-Asterinella hapala Syd. SPECIES
-=======
+# Asterinella hapala Syd. SPECIES
 
 #### Status
 ACCEPTED

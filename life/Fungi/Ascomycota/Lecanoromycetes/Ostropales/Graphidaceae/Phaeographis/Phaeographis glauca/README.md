@@ -1,5 +1,4 @@
-Phaeographis glauca Müll. Arg. SPECIES
-=======
+# Phaeographis glauca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

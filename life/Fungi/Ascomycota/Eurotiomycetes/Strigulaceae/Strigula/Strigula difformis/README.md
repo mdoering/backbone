@@ -1,5 +1,4 @@
-Strigula difformis var. difformis VARIETY
-=======
+# Strigula difformis Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Proc. Amer. Acad. Arts & Sci. 58: 146 (1923)
 
 #### Original name
-Strigula difformis var. difformis
+Strigula difformis Vain.
 
 ### Remarks
 null

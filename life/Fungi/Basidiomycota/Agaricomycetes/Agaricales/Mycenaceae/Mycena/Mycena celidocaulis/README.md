@@ -1,5 +1,4 @@
-Mycena celidocaulis Maas Geest. & E. Horak SPECIES
-=======
+# Mycena celidocaulis Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

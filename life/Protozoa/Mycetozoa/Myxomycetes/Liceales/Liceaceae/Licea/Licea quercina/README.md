@@ -1,5 +1,4 @@
-Licea quercina Wallr. SPECIES
-=======
+# Licea quercina Wallr. SPECIES
 
 #### Status
 ACCEPTED

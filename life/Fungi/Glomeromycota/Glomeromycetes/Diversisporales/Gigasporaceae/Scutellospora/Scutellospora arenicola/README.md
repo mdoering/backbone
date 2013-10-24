@@ -1,5 +1,4 @@
-Scutellospora arenicola Koske & Halvorson, 1990 SPECIES
-=======
+# Scutellospora arenicola Koske & Halvorson, 1990 SPECIES
 
 #### Status
 ACCEPTED

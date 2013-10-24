@@ -1,17 +1,16 @@
-Placodium granulosum f. granulosum FORM
-=======
+# Melanelia hepatizon (Ach.) A. Thell SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 60(3-4): 419 (1995)
 
 #### Original name
-Amphiloma granulosum Müll. Arg.
+Lichen hepatizon Ach.
 
 ### Remarks
 null

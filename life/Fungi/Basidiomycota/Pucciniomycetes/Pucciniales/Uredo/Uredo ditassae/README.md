@@ -1,5 +1,4 @@
-Uredo ditassae Henn. SPECIES
-=======
+# Uredo ditassae Henn. SPECIES
 
 #### Status
 ACCEPTED

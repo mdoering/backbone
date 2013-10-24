@@ -1,17 +1,16 @@
-Geastrum smardae var. smardae VARIETY
-=======
+# Geastrum smardae V.J. Stanek, 1956 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ceská Mykol. 10(1): 22 (1956)
 
 #### Original name
-Geastrum smardae var. smardae
+Geastrum smardae V.J. Stanek, 1956
 
 ### Remarks
 null

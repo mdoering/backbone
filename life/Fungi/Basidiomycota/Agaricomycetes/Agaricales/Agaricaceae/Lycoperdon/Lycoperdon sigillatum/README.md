@@ -1,5 +1,4 @@
-Lycoperdon sigillatum Cragin SPECIES
-=======
+# Lycoperdon sigillatum Cragin SPECIES
 
 #### Status
 ACCEPTED

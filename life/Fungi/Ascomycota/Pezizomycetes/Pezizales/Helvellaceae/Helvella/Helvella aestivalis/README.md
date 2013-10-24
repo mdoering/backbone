@@ -1,5 +1,4 @@
-Helvella aestivalis (R. Heim & L. Remy) Caillet & Moyne SPECIES
-=======
+# Helvella aestivalis (R. Heim & L. Remy) Caillet & Moyne SPECIES
 
 #### Status
 ACCEPTED

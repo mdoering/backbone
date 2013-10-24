@@ -1,5 +1,4 @@
-Dicyma togoensis (S. Hughes) Arx SPECIES
-=======
+# Dicyma togoensis (S. Hughes) Arx SPECIES
 
 #### Status
 ACCEPTED

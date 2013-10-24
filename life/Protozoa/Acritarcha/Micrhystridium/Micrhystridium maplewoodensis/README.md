@@ -1,5 +1,4 @@
-Micrhystridium maplewoodensis Cramer & Díez, 1972 SPECIES
-=======
+# Micrhystridium maplewoodensis Cramer & Díez, 1972 SPECIES
 
 #### Status
 ACCEPTED

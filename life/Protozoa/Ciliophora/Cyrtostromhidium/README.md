@@ -1,5 +1,4 @@
-Cyrtostromhidium GENUS
-=======
+# Cyrtostromhidium GENUS
 
 #### Status
 ACCEPTED

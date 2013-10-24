@@ -1,5 +1,4 @@
-Peziza nana Massee & Morgan SPECIES
-=======
+# Peziza nana Massee & Morgan SPECIES
 
 #### Status
 ACCEPTED

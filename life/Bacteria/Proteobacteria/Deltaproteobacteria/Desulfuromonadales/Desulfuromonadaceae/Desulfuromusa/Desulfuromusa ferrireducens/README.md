@@ -1,5 +1,4 @@
-Desulfuromusa ferrireducens Vandieken et al., 2006 SPECIES
-=======
+# Desulfuromusa ferrireducens Vandieken et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

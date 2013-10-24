@@ -1,5 +1,4 @@
-Asterigerinella Bandy, 1949 GENUS
-=======
+# Asterigerinella Bandy, 1949 GENUS
 
 #### Status
 ACCEPTED

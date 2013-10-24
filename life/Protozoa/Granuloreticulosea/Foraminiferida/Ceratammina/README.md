@@ -1,5 +1,4 @@
-Ceratammina GENUS
-=======
+# Ceratammina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antennellina hawaiiensis J.M. Mend. SPECIES
-=======
+# Antennellina hawaiiensis J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

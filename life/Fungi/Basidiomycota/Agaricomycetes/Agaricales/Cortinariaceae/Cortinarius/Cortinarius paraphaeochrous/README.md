@@ -1,5 +1,4 @@
-Cortinarius paraphaeochrous M.M. Moser SPECIES
-=======
+# Cortinarius paraphaeochrous M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

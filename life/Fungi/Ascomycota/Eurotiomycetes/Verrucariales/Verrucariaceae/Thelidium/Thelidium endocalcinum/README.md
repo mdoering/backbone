@@ -1,5 +1,4 @@
-Thelidium endocalcinum Servít SPECIES
-=======
+# Thelidium endocalcinum Servít SPECIES
 
 #### Status
 ACCEPTED

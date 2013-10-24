@@ -1,5 +1,4 @@
-Puccinia fallaciosa Thüm. SPECIES
-=======
+# Puccinia fallaciosa Thüm. SPECIES
 
 #### Status
 ACCEPTED

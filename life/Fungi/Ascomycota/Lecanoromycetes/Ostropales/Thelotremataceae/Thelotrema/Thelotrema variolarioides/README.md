@@ -1,5 +1,4 @@
-Thelotrema variolarioides (Pers.) Ach. SPECIES
-=======
+# Thelotrema variolarioides (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED

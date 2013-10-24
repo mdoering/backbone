@@ -1,5 +1,4 @@
-Gyromitra queletii Schulzer SPECIES
-=======
+# Gyromitra queletii Schulzer SPECIES
 
 #### Status
 ACCEPTED

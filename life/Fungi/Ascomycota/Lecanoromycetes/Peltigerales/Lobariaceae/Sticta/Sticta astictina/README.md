@@ -1,5 +1,4 @@
-Sticta astictina (Nyl.) Hellb. SPECIES
-=======
+# Sticta astictina (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

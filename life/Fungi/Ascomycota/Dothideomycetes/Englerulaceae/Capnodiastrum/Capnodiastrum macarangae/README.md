@@ -1,5 +1,4 @@
-Capnodiastrum macarangae (Petr.) Petr. SPECIES
-=======
+# Capnodiastrum macarangae (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

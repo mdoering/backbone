@@ -1,5 +1,4 @@
-Scindalma heteroporum (Mont.) Kuntze SPECIES
-=======
+# Scindalma heteroporum (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

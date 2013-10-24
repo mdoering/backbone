@@ -1,5 +1,4 @@
-Macrophoma polygonati Ferraris SPECIES
-=======
+# Macrophoma polygonati Ferraris SPECIES
 
 #### Status
 ACCEPTED

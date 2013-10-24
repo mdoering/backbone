@@ -1,5 +1,4 @@
-Phyllosticta astragali Peck SPECIES
-=======
+# Phyllosticta astragali Peck SPECIES
 
 #### Status
 ACCEPTED

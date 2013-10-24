@@ -1,5 +1,4 @@
-Tremella acaciae L.S. Olive SPECIES
-=======
+# Tremella acaciae L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halosarpheia hamata SPECIES
-=======
+# Halosarpheia hamata SPECIES
 
 #### Status
 ACCEPTED

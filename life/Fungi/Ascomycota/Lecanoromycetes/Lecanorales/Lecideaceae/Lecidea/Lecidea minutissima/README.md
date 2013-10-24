@@ -1,5 +1,4 @@
-Lecidea minutissima Lynge SPECIES
-=======
+# Lecidea minutissima Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria bambusae Rolland SPECIES
-=======
+# Metasphaeria bambusae Rolland SPECIES
 
 #### Status
 ACCEPTED

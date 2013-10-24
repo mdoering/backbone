@@ -1,5 +1,4 @@
-Rosellinia glandiformis Ellis & Everh. SPECIES
-=======
+# Rosellinia glandiformis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

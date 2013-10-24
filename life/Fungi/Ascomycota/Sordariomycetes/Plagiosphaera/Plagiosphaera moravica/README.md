@@ -1,14 +1,13 @@
-Ophiobolus moravicus Petr. SPECIES
-=======
+# Plagiosphaera moravica (Petr.) Petr., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19(1-2): 80 (1921)
+Annls mycol. 39: 289 (1941)
 
 #### Original name
 Ophiobolus moravicus Petr.

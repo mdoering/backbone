@@ -1,5 +1,4 @@
-Bacidia morula SPECIES
-=======
+# Bacidia morula SPECIES
 
 #### Status
 ACCEPTED

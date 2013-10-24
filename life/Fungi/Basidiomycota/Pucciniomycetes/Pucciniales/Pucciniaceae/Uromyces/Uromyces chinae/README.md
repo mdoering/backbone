@@ -1,5 +1,4 @@
-Uromyces chinae Henn. SPECIES
-=======
+# Uromyces chinae Henn. SPECIES
 
 #### Status
 ACCEPTED

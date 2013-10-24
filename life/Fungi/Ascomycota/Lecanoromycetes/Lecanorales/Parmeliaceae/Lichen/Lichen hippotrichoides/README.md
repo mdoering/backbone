@@ -1,5 +1,4 @@
-Lichen hippotrichoides Willd. SPECIES
-=======
+# Lichen hippotrichoides Willd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota radicata Rick SPECIES
-=======
+# Lepiota radicata Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nigredo spermacoces (Schwein.) Arthur SPECIES
-=======
+# Nigredo spermacoces (Schwein.) Arthur SPECIES
 
 #### Status
 ACCEPTED

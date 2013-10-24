@@ -1,5 +1,4 @@
-Gurleya Doflein GENUS
-=======
+# Gurleya Doflein GENUS
 
 #### Status
 ACCEPTED

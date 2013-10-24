@@ -1,5 +1,4 @@
-Plowrightia indica T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Plowrightia indica T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspidisca hyalina Dragesco, 1960 SPECIES
-=======
+# Aspidisca hyalina Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

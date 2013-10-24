@@ -1,5 +1,4 @@
-Lophiostoma clavulatum Pass. SPECIES
-=======
+# Lophiostoma clavulatum Pass. SPECIES
 
 #### Status
 ACCEPTED

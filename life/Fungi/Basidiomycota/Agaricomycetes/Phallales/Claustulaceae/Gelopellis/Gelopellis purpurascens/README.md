@@ -1,5 +1,4 @@
-Gelopellis purpurascens G.W. Beaton & Malajczuk, 1986 SPECIES
-=======
+# Gelopellis purpurascens G.W. Beaton & Malajczuk, 1986 SPECIES
 
 #### Status
 ACCEPTED

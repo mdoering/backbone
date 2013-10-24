@@ -1,5 +1,4 @@
-Microdiplodia mamma Allesch. SPECIES
-=======
+# Microdiplodia mamma Allesch. SPECIES
 
 #### Status
 ACCEPTED

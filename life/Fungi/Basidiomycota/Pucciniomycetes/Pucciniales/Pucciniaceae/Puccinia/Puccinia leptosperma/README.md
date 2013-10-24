@@ -1,5 +1,4 @@
-Puccinia leptosperma P. Syd. & Syd. SPECIES
-=======
+# Puccinia leptosperma P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

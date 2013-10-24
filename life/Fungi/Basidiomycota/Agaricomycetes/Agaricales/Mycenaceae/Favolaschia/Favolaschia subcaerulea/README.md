@@ -1,5 +1,4 @@
-Favolaschia subcaerulea (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Favolaschia subcaerulea (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

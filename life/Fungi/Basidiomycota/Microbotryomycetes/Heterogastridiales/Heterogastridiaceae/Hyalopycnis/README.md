@@ -1,5 +1,4 @@
-Hyalopycnis von Höhnel, 1918 GENUS
-=======
+# Hyalopycnis von Höhnel, 1918 GENUS
 
 #### Status
 ACCEPTED

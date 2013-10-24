@@ -1,5 +1,4 @@
-Diplodia pedilanthi Syd. SPECIES
-=======
+# Diplodia pedilanthi Syd. SPECIES
 
 #### Status
 ACCEPTED

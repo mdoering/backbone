@@ -1,5 +1,4 @@
-Coleosporium cheoanum Cummins SPECIES
-=======
+# Coleosporium cheoanum Cummins SPECIES
 
 #### Status
 ACCEPTED

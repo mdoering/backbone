@@ -1,5 +1,4 @@
-Darluca vagans Castagne SPECIES
-=======
+# Darluca vagans Castagne SPECIES
 
 #### Status
 ACCEPTED

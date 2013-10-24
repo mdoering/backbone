@@ -1,5 +1,4 @@
-Diplodia tanaceti P. Karst. & Har. SPECIES
-=======
+# Diplodia tanaceti P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

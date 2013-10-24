@@ -1,5 +1,4 @@
-Mycobacterium canariasense Jiménez et al., 2004 SPECIES
-=======
+# Mycobacterium canariasense Jiménez et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

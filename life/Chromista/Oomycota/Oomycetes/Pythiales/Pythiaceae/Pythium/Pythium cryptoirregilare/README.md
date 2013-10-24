@@ -1,5 +1,4 @@
-Pythium cryptoirregilare Garzón, Yánez & Moorman SPECIES
-=======
+# Pythium cryptoirregilare Garzón, Yánez & Moorman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Winteria acanthostigmoides Rehm SPECIES
-=======
+# Winteria acanthostigmoides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phialoïdes Labbé, 1899 GENUS
-=======
+# Phialoides Labbé, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

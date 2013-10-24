@@ -1,5 +1,4 @@
-Pseudocercospora feijoae El-Gholl & T.S. Schub. SPECIES
-=======
+# Pseudocercospora feijoae El-Gholl & T.S. Schub. SPECIES
 
 #### Status
 ACCEPTED

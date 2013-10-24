@@ -1,5 +1,4 @@
-Rhizophydium fragilariae Canter SPECIES
-=======
+# Rhizophydium fragilariae Canter SPECIES
 
 #### Status
 ACCEPTED

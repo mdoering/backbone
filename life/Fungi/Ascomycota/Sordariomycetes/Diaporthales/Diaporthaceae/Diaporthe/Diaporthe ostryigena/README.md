@@ -1,5 +1,4 @@
-Diaporthe ostryigena Ellis & Dearn. SPECIES
-=======
+# Diaporthe ostryigena Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

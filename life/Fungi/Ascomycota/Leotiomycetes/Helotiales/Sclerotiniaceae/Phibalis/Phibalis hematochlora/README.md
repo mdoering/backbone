@@ -1,5 +1,4 @@
-Phibalis hematochlora var. hematochlora VARIETY
-=======
+# Phibalis hematochlora (Speg.) A.I. Romero & Gamundí SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Darwiniana 27(1-4): 54 (1986)
 
 #### Original name
-Phibalis hematochlora var. hematochlora
+Peziza hematochlora Speg.
 
 ### Remarks
 null

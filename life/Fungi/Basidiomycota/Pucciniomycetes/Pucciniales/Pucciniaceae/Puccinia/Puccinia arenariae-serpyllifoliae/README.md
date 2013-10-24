@@ -1,5 +1,4 @@
-Puccinia arenariae-serpyllifoliae DC. SPECIES
-=======
+# Puccinia arenariae-serpyllifoliae DC. SPECIES
 
 #### Status
 ACCEPTED

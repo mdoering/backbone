@@ -1,17 +1,16 @@
-Boletus castaneus f. castaneus FORM
-=======
+# Gyroporus castaneus (Bull.) Quél., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Suppl. Fl. hols. 13 (1787)
+Enchir. fung. (Paris) 161 (1886)
 
 #### Original name
-Boletus castaneus f. castaneus
+Boletus castaneus Bull., 1788
 
 ### Remarks
 null

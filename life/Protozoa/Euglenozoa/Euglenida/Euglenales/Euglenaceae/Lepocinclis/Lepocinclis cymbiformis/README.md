@@ -1,5 +1,4 @@
-Lepocinclis cymbiformis Playfair SPECIES
-=======
+# Lepocinclis cymbiformis Playfair SPECIES
 
 #### Status
 ACCEPTED

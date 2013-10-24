@@ -1,5 +1,4 @@
-Caliciopsis tiliae Arnaud SPECIES
-=======
+# Caliciopsis tiliae Arnaud SPECIES
 
 #### Status
 ACCEPTED

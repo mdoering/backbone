@@ -1,5 +1,4 @@
-Cortinarius ultrodistortus Rob. Henry & Vagnet SPECIES
-=======
+# Cortinarius ultrodistortus Rob. Henry & Vagnet SPECIES
 
 #### Status
 ACCEPTED

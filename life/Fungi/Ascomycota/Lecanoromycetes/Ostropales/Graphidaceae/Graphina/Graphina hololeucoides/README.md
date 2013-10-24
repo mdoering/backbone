@@ -1,5 +1,4 @@
-Graphina hololeucoides (Nyl.) Müll. Arg. SPECIES
-=======
+# Graphina hololeucoides (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

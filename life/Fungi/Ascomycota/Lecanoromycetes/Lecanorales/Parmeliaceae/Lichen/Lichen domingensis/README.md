@@ -1,5 +1,4 @@
-Lichen domingensis Pers. SPECIES
-=======
+# Lichen domingensis Pers. SPECIES
 
 #### Status
 ACCEPTED

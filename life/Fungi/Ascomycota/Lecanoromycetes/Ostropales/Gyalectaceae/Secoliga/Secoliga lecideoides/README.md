@@ -1,5 +1,4 @@
-Secoliga lecideoides (Hazsl. ex Körb.) Stizenb. SPECIES
-=======
+# Secoliga lecideoides (Hazsl. ex Körb.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

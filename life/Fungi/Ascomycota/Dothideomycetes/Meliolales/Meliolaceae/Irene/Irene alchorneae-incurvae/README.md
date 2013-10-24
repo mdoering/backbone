@@ -1,5 +1,4 @@
-Irene alchorneae-incurvae Hansf. SPECIES
-=======
+# Irene alchorneae-incurvae Hansf. SPECIES
 
 #### Status
 ACCEPTED

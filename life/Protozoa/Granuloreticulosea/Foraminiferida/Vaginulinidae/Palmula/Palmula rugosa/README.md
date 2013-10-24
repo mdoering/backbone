@@ -1,5 +1,4 @@
-Palmula rugosa (d'Orbigny) SPECIES
-=======
+# Palmula rugosa (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

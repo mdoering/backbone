@@ -1,14 +1,13 @@
-Exserohilum frumentaceum (Mitra) K.J. Leonard & Suggs SPECIES
-=======
+# Exserohilum frumentacei (Mitra) K.J. Leonard & Suggs SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 66(2): 291 (1974)
 
 #### Original name
 Helminthosporium frumentacei Mitra

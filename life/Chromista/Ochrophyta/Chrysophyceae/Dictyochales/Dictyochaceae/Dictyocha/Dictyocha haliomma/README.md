@@ -1,5 +1,4 @@
-Dictyocha haliomma Ehrenberg SPECIES
-=======
+# Dictyocha haliomma Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

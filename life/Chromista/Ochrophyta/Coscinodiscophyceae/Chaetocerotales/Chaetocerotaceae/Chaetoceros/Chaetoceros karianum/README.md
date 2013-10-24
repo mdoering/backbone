@@ -1,5 +1,4 @@
-Chaetoceros karianum Grunow SPECIES
-=======
+# Chaetoceros karianum Grunow SPECIES
 
 #### Status
 ACCEPTED

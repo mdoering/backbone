@@ -1,5 +1,4 @@
-Cantharellus pulcher Lév. SPECIES
-=======
+# Cantharellus pulcher Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fuscophialis gigas R.F. Castañeda SPECIES
-=======
+# Fuscophialis gigas R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

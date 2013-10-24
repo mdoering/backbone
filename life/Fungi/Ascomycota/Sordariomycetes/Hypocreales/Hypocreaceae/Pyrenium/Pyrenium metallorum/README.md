@@ -1,5 +1,4 @@
-Pyrenium metallorum Tode SPECIES
-=======
+# Pyrenium metallorum Tode SPECIES
 
 #### Status
 ACCEPTED

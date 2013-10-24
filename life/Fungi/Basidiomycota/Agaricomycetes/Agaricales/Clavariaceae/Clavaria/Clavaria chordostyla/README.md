@@ -1,5 +1,4 @@
-Clavaria chordostyla Pers. SPECIES
-=======
+# Clavaria chordostyla Pers. SPECIES
 
 #### Status
 ACCEPTED

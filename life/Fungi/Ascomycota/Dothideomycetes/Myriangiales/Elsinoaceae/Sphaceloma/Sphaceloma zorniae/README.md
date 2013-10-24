@@ -1,5 +1,4 @@
-Sphaceloma zorniae Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma zorniae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanomonas W.S.Kent GENUS
-=======
+# Stephanomonas W.S.Kent GENUS
 
 #### Status
 ACCEPTED

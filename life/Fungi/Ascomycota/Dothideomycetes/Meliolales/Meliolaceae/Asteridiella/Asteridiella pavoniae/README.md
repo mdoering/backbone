@@ -1,5 +1,4 @@
-Asteridiella pavoniae (Cif.) Hansf. SPECIES
-=======
+# Asteridiella pavoniae (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

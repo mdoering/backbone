@@ -1,5 +1,4 @@
-Stilbum luteocinctum Petch SPECIES
-=======
+# Stilbum luteocinctum Petch SPECIES
 
 #### Status
 ACCEPTED

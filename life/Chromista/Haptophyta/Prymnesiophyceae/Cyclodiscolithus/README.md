@@ -1,5 +1,4 @@
-Cyclodiscolithus Kamptner GENUS
-=======
+# Cyclodiscolithus Kamptner GENUS
 
 #### Status
 ACCEPTED

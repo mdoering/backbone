@@ -1,5 +1,4 @@
-Asteromella allii-rotundi (Lobik) Aa & Vanev SPECIES
-=======
+# Asteromella allii-rotundi (Lobik) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

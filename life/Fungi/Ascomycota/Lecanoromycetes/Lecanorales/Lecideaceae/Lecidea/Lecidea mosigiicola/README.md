@@ -1,5 +1,4 @@
-Lecidea mosigiicola Eitner SPECIES
-=======
+# Lecidea mosigiicola Eitner SPECIES
 
 #### Status
 ACCEPTED

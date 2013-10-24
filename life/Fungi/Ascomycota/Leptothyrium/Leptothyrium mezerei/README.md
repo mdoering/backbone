@@ -1,5 +1,4 @@
-Leptothyrium mezerei Lib. SPECIES
-=======
+# Leptothyrium mezerei Lib. SPECIES
 
 #### Status
 ACCEPTED

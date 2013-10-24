@@ -1,5 +1,4 @@
-Pinaciophora denticulata H.A. Thomsen, 1978 SPECIES
-=======
+# Pinaciophora denticulata H.A. Thomsen, 1978 SPECIES
 
 #### Status
 ACCEPTED

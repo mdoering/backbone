@@ -1,17 +1,16 @@
-Parmelia constrictans var. constrictans VARIETY
-=======
+# Xanthoparmelia austroconstrictans Elix SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Crombie, J. Linn. Soc. , Bot. 15: 168 (1875)
+Mycotaxon 47: 120 (1993)
 
 #### Original name
-Parmelia constrictans var. constrictans
+Xanthoparmelia austroconstrictans Elix
 
 ### Remarks
 null

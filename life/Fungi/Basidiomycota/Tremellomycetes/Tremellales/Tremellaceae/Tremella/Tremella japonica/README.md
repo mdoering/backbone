@@ -1,5 +1,4 @@
-Tremella japonica (Lloyd) Lloyd SPECIES
-=======
+# Tremella japonica (Lloyd) Lloyd SPECIES
 
 #### Status
 ACCEPTED

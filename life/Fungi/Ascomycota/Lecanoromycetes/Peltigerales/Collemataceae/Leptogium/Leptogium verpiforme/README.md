@@ -1,5 +1,4 @@
-Leptogium verpiforme C.W. Dodge SPECIES
-=======
+# Leptogium verpiforme C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

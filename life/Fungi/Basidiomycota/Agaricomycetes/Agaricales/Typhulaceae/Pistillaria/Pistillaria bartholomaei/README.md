@@ -1,5 +1,4 @@
-Pistillaria bartholomaei Ellis & Everh. SPECIES
-=======
+# Pistillaria bartholomaei Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

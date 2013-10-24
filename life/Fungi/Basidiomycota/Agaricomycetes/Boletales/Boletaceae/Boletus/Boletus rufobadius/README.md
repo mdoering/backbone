@@ -1,5 +1,4 @@
-Boletus rufobadius Bres. SPECIES
-=======
+# Boletus rufobadius Bres. SPECIES
 
 #### Status
 ACCEPTED

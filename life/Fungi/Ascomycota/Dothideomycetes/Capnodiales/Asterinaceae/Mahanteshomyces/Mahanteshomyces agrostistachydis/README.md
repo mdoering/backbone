@@ -1,5 +1,4 @@
-Mahanteshomyces agrostistachydis Hosag. & C.K. Biju SPECIES
-=======
+# Mahanteshomyces agrostistachydis Hosag. & C.K. Biju SPECIES
 
 #### Status
 ACCEPTED

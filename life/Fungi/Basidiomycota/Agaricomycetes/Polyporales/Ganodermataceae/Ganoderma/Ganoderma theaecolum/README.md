@@ -1,5 +1,4 @@
-Ganoderma theaecolum J.D. Zhao SPECIES
-=======
+# Ganoderma theaecolum J.D. Zhao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria periplocicola Y.L. Guo, G.S. Lu & J.K. Bai SPECIES
-=======
+# Septoria periplocicola Y.L. Guo, G.S. Lu & J.K. Bai SPECIES
 
 #### Status
 ACCEPTED

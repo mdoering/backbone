@@ -1,5 +1,4 @@
-Agaricus subudus Britzelm. SPECIES
-=======
+# Agaricus subudus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

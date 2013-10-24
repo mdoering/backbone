@@ -1,5 +1,4 @@
-Puccinia clausenae Jørst. SPECIES
-=======
+# Puccinia clausenae Jørst. SPECIES
 
 #### Status
 ACCEPTED

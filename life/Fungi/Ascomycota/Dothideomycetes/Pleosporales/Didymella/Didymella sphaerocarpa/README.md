@@ -1,5 +1,4 @@
-Didymella sphaerocarpa Vain. SPECIES
-=======
+# Didymella sphaerocarpa Vain. SPECIES
 
 #### Status
 ACCEPTED

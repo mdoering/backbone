@@ -1,5 +1,4 @@
-Peziza verruculosa Berk. & M.A. Curtis SPECIES
-=======
+# Peziza verruculosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

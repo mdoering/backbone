@@ -1,5 +1,4 @@
-Cyathus baileyi Massee SPECIES
-=======
+# Cyathus baileyi Massee SPECIES
 
 #### Status
 ACCEPTED

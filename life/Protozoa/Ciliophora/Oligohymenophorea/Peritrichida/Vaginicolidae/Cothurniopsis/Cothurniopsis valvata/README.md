@@ -1,8 +1,7 @@
-Cothurnia valvata (Stokes, 1893) Kahl, 1935 SPECIES
-=======
+# Cothurniopsis valvata Stokes, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

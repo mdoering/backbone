@@ -1,5 +1,4 @@
-Petchorina Varsanof'eva & Reitlinger, 1962 GENUS
-=======
+# Petchorina Varsanof'eva & Reitlinger, 1962 GENUS
 
 #### Status
 ACCEPTED

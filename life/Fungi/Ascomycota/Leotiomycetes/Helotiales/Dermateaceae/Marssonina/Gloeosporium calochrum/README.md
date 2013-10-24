@@ -1,5 +1,4 @@
-Gloeosporium calochrum Syd. SPECIES
-=======
+# Gloeosporium calochrum Syd. SPECIES
 
 #### Status
 ACCEPTED

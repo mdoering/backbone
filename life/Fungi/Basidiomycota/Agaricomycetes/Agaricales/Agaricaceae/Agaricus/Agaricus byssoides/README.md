@@ -1,5 +1,4 @@
-Agaricus byssoides Pers. SPECIES
-=======
+# Agaricus byssoides Pers. SPECIES
 
 #### Status
 ACCEPTED

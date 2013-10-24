@@ -1,14 +1,13 @@
-Fusidium cylindricum Corda, 1837 SPECIES
-=======
+# Cylindrium cordae Grove, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 1: 1 (1837)
+Mycotheca veneti no. 358, anno (1886)
 
 #### Original name
 Fusidium cylindricum Corda, 1837

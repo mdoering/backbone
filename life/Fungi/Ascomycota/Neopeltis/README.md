@@ -1,5 +1,4 @@
-Neopeltis Sydow, 1937 GENUS
-=======
+# Neopeltis Sydow, 1937 GENUS
 
 #### Status
 ACCEPTED

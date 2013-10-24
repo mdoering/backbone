@@ -1,5 +1,4 @@
-Collybia fulvidisca (Murrill) Murrill SPECIES
-=======
+# Collybia fulvidisca (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

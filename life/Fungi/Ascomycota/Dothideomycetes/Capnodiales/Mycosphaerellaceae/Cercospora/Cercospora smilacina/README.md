@@ -1,5 +1,4 @@
-Cercospora smilacina Speg. SPECIES
-=======
+# Cercospora smilacina Speg. SPECIES
 
 #### Status
 ACCEPTED

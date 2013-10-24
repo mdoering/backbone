@@ -1,17 +1,16 @@
-Acanthomyces Thaxt. GENUS
-=======
+# Rhachomyces Thaxt. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 27: 36 (1892)
+Proc. Amer. Acad. Arts & Sci. 30: 468 (1895)
 
 #### Original name
-Acanthomyces Thaxt.
+Rhachomyces Thaxt.
 
 ### Remarks
 null

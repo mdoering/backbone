@@ -1,5 +1,4 @@
-Hypholoma delineatum Peck SPECIES
-=======
+# Hypholoma delineatum Peck SPECIES
 
 #### Status
 ACCEPTED

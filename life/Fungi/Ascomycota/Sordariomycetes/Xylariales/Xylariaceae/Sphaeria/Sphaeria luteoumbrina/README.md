@@ -1,5 +1,4 @@
-Sphaeria luteoumbrina Schumach. SPECIES
-=======
+# Sphaeria luteoumbrina Schumach. SPECIES
 
 #### Status
 ACCEPTED

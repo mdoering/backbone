@@ -1,5 +1,4 @@
-Phthanotrochidae Arnold, 1978 FAMILY
-=======
+# Phthanotrochidae Arnold, 1978 FAMILY
 
 #### Status
 ACCEPTED

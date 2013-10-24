@@ -1,5 +1,4 @@
-Laminariales Migula, 1909 ORDER
-=======
+# Laminariales Migula, 1909 ORDER
 
 #### Status
 ACCEPTED

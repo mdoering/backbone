@@ -1,5 +1,4 @@
-Cystoseira thysigera f. lepidium Mertens ex Postels & Ruprecht FORM
-=======
+# Cystoseira thysigera Postels & Ruprecht SPECIES
 
 #### Status
 ACCEPTED

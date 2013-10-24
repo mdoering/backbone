@@ -1,5 +1,4 @@
-Aleuria proteana SPECIES
-=======
+# Aleuria proteana SPECIES
 
 #### Status
 ACCEPTED

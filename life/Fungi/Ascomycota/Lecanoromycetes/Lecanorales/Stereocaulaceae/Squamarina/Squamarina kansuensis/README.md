@@ -1,5 +1,4 @@
-Squamarina kansuensis (H. Magn.) Poelt SPECIES
-=======
+# Squamarina kansuensis (H. Magn.) Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago flavonigrescens Berk. & M.A. Curtis SPECIES
-=======
+# Ustilago flavonigrescens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

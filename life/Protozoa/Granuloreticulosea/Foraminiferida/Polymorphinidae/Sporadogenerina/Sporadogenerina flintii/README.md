@@ -1,5 +1,4 @@
-Sporadogenerina flintii Cushman, 1927 SPECIES
-=======
+# Sporadogenerina flintii Cushman, 1927 SPECIES
 
 #### Status
 ACCEPTED

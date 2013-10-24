@@ -1,5 +1,4 @@
-Uromyces leptaleus Syd. SPECIES
-=======
+# Uromyces leptaleus Syd. SPECIES
 
 #### Status
 ACCEPTED

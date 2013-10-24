@@ -1,5 +1,4 @@
-Polyporus formosissimus Speg. SPECIES
-=======
+# Polyporus formosissimus Speg. SPECIES
 
 #### Status
 ACCEPTED

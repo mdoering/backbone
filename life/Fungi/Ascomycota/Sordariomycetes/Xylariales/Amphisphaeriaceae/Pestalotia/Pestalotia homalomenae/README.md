@@ -1,5 +1,4 @@
-Pestalotia homalomenae Roldan SPECIES
-=======
+# Pestalotia homalomenae Roldan SPECIES
 
 #### Status
 ACCEPTED

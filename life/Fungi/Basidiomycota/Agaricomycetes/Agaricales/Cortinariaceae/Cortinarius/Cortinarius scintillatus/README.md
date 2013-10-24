@@ -1,5 +1,4 @@
-Cortinarius scintillatus M.M. Moser SPECIES
-=======
+# Cortinarius scintillatus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

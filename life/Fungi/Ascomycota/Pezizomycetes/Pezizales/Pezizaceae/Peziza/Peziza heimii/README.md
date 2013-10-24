@@ -1,5 +1,4 @@
-Peziza heimii Pfister SPECIES
-=======
+# Peziza heimii Pfister SPECIES
 
 #### Status
 ACCEPTED

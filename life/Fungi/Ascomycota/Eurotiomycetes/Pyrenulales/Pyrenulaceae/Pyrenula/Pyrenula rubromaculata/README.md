@@ -1,5 +1,4 @@
-Pyrenula rubromaculata Vain. SPECIES
-=======
+# Pyrenula rubromaculata Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia lithospermi Petr. SPECIES
-=======
+# Ramularia lithospermi Petr. SPECIES
 
 #### Status
 ACCEPTED

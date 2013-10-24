@@ -1,5 +1,4 @@
-Tholodes Haeckel, 1887 GENUS
-=======
+# Tholodes Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

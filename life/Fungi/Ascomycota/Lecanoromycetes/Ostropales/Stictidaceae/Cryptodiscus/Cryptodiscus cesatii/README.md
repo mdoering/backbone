@@ -1,5 +1,4 @@
-Cryptodiscus cesatii Mont. SPECIES
-=======
+# Cryptodiscus cesatii Mont. SPECIES
 
 #### Status
 ACCEPTED

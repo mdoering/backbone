@@ -1,5 +1,4 @@
-Hormodendrum herbarum (Bonord.) Sacc. SPECIES
-=======
+# Hormodendrum herbarum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

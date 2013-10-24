@@ -1,5 +1,4 @@
-Psathyra gastrodes Mont. SPECIES
-=======
+# Psathyra gastrodes Mont. SPECIES
 
 #### Status
 ACCEPTED

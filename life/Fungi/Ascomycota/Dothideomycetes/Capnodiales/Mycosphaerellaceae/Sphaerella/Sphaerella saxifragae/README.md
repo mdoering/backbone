@@ -1,5 +1,4 @@
-Sphaerella saxifragae P. Karst. SPECIES
-=======
+# Sphaerella saxifragae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora theobromae K.R. Appel & Strunk SPECIES
-=======
+# Rhabdospora theobromae K.R. Appel & Strunk SPECIES
 
 #### Status
 ACCEPTED

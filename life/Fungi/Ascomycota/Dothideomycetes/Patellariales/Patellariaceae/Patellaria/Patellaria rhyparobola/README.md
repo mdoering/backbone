@@ -1,5 +1,4 @@
-Patellaria rhyparobola (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria rhyparobola (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus tomentosus (Bull.) Fr. SPECIES
-=======
+# Coprinus tomentosus (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED

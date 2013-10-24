@@ -1,5 +1,4 @@
-Nephromopsis yunnanensis (Nyl.) Randlane & Saag SPECIES
-=======
+# Nephromopsis yunnanensis (Nyl.) Randlane & Saag SPECIES
 
 #### Status
 ACCEPTED

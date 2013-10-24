@@ -1,5 +1,4 @@
-Gloeosporium intumescens Bubák & Kabát SPECIES
-=======
+# Gloeosporium intumescens Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

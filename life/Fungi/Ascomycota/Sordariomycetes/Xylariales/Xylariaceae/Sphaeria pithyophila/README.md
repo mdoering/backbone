@@ -1,5 +1,4 @@
-Sphaeria pithyophila SPECIES
-=======
+# Sphaeria pithyophila SPECIES
 
 #### Status
 ACCEPTED

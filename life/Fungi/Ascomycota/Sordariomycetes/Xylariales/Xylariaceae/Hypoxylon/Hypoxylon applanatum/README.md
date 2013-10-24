@@ -1,5 +1,4 @@
-Hypoxylon applanatum Cooke SPECIES
-=======
+# Hypoxylon applanatum Cooke SPECIES
 
 #### Status
 ACCEPTED

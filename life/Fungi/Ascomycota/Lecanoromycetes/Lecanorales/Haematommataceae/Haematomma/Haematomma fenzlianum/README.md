@@ -1,17 +1,16 @@
-Haematomma subpuniceum var. subpuniceum VARIETY
-=======
+# Haematomma fenzlianum A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. Reale Ist. Veneto Sci. 10: 58 (1861)
 
 #### Original name
-Haematomma subpuniceum var. subpuniceum
+Haematomma fenzlianum A. Massal.
 
 ### Remarks
 null

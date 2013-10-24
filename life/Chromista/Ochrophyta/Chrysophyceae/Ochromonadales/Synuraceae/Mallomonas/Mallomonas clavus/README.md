@@ -1,5 +1,4 @@
-Mallomonas clavus Bradley SPECIES
-=======
+# Mallomonas clavus Bradley SPECIES
 
 #### Status
 ACCEPTED

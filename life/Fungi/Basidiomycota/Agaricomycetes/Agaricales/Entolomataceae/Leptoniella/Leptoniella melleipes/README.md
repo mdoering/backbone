@@ -1,5 +1,4 @@
-Leptoniella melleipes Murrill SPECIES
-=======
+# Leptoniella melleipes Murrill SPECIES
 
 #### Status
 ACCEPTED

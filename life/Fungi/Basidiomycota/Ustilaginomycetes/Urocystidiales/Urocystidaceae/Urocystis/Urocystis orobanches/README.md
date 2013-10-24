@@ -1,5 +1,4 @@
-Urocystis orobanches (Mérat) A.A. Fisch. Waldh. SPECIES
-=======
+# Urocystis orobanches (Mérat) A.A. Fisch. Waldh. SPECIES
 
 #### Status
 ACCEPTED

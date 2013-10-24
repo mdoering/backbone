@@ -1,5 +1,4 @@
-Diploschistes latebrarum Ach. SPECIES
-=======
+# Diploschistes latebrarum Ach. SPECIES
 
 #### Status
 ACCEPTED

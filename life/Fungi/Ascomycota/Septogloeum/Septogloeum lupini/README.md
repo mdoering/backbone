@@ -1,5 +1,4 @@
-Septogloeum lupini Ellis & Everh. SPECIES
-=======
+# Septogloeum lupini Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

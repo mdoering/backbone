@@ -1,5 +1,4 @@
-Apiosporium stygium Wallr. SPECIES
-=======
+# Apiosporium stygium Wallr. SPECIES
 
 #### Status
 ACCEPTED

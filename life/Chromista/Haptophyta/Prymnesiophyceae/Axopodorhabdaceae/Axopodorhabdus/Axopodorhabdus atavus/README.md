@@ -1,5 +1,4 @@
-Axopodorhabdus atavus SPECIES
-=======
+# Axopodorhabdus atavus SPECIES
 
 #### Status
 ACCEPTED

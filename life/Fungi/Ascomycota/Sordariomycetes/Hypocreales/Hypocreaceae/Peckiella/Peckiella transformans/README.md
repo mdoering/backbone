@@ -1,5 +1,4 @@
-Peckiella transformans (Peck) Sacc. SPECIES
-=======
+# Peckiella transformans (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

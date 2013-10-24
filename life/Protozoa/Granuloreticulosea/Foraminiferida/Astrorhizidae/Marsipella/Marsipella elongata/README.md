@@ -1,5 +1,4 @@
-Marsipella elongata SPECIES
-=======
+# Marsipella elongata SPECIES
 
 #### Status
 ACCEPTED

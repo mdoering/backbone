@@ -1,17 +1,16 @@
-Porina guentheri var. guentheri VARIETY
-=======
+# Porina guentheri (Flot.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 1: 384 (1922)
+null
 
 #### Original name
-Porina guentheri var. guentheri
+null
 
 ### Remarks
 null

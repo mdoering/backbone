@@ -1,14 +1,13 @@
-Amphisphaeria lojkae Rehm SPECIES
-=======
+# Mycomicrothelia lojkae (Rehm) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungal Diversity Res. Ser. (Hong Kong) 13: 100 (2004)
 
 #### Original name
 Amphisphaeria lojkae Rehm

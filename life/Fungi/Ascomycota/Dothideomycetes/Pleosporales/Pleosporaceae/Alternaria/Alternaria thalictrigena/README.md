@@ -1,5 +1,4 @@
-Alternaria thalictrigena K. Schub. & Crous SPECIES
-=======
+# Alternaria thalictrigena K. Schub. & Crous SPECIES
 
 #### Status
 ACCEPTED

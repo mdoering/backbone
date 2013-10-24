@@ -1,5 +1,4 @@
-Anthostomella puyae Henn. & Lindau SPECIES
-=======
+# Anthostomella puyae Henn. & Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protomyces physalidis Kalchbr. & Cooke SPECIES
-=======
+# Protomyces physalidis Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

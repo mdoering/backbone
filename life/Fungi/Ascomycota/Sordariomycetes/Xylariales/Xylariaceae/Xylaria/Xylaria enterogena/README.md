@@ -1,5 +1,4 @@
-Xylaria enterogena Mont. SPECIES
-=======
+# Xylaria enterogena Mont. SPECIES
 
 #### Status
 ACCEPTED

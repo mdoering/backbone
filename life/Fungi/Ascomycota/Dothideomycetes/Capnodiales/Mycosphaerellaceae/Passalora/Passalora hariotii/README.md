@@ -1,5 +1,4 @@
-Passalora hariotii (Speg.) U. Braun & Crous SPECIES
-=======
+# Passalora hariotii (Speg.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

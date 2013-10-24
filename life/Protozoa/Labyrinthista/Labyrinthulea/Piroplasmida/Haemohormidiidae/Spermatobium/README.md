@@ -1,5 +1,4 @@
-Spermatobium Eisen, 1895 GENUS
-=======
+# Spermatobium Eisen, 1895 GENUS
 
 #### Status
 ACCEPTED

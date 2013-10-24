@@ -1,5 +1,4 @@
-Thermomicrobium Jackson, Ramaley & Meinschein, 1973 GENUS
-=======
+# Thermomicrobium Jackson, Ramaley & Meinschein, 1973 GENUS
 
 #### Status
 ACCEPTED

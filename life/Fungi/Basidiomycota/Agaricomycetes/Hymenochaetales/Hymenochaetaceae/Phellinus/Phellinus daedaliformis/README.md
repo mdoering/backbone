@@ -1,5 +1,4 @@
-Phellinus daedaliformis J.E. Wright & Blumenf., 1984 SPECIES
-=======
+# Phellinus daedaliformis J.E. Wright & Blumenf., 1984 SPECIES
 
 #### Status
 ACCEPTED

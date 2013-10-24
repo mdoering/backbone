@@ -1,5 +1,4 @@
-Valsella crataegi Allesch. SPECIES
-=======
+# Valsella crataegi Allesch. SPECIES
 
 #### Status
 ACCEPTED

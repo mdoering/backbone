@@ -1,5 +1,4 @@
-Polyporus pandani Fr. SPECIES
-=======
+# Polyporus pandani Fr. SPECIES
 
 #### Status
 ACCEPTED

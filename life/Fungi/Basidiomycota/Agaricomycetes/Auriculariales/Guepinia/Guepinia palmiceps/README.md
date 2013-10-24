@@ -1,5 +1,4 @@
-Guepinia palmiceps Berk. SPECIES
-=======
+# Guepinia palmiceps Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erinella aturensis Pat. & Gaillard SPECIES
-=======
+# Erinella aturensis Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

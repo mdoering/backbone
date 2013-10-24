@@ -1,5 +1,4 @@
-Synallisopsis picina (Nyl.) Nyl. SPECIES
-=======
+# Synallisopsis picina (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

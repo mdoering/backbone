@@ -1,17 +1,16 @@
-Phaeostagonosporopsis Woron. GENUS
-=======
+# Stenocarpella Syd. & P. Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zasc. Rast. Vredit. , (Défense Pl. ) 2: 333 (1925)
+Annls mycol. 15(3/4): 258 (1917)
 
 #### Original name
-Phaeostagonosporopsis Woron.
+Stenocarpella Syd. & P. Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Helicodendron minutum Goos & Uecker SPECIES
-=======
+# Helicodendron minutum Goos & Uecker SPECIES
 
 #### Status
 ACCEPTED

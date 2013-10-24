@@ -1,5 +1,4 @@
-Chryseobacterium soldanellicola Park et al., 2006 SPECIES
-=======
+# Chryseobacterium soldanellicola Park et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

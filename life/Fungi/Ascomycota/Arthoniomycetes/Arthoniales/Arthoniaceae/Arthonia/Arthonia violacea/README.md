@@ -1,5 +1,4 @@
-Arthonia violacea Pers. SPECIES
-=======
+# Arthonia violacea Pers. SPECIES
 
 #### Status
 ACCEPTED

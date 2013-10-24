@@ -1,5 +1,4 @@
-Puccinia salebrata H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia salebrata H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

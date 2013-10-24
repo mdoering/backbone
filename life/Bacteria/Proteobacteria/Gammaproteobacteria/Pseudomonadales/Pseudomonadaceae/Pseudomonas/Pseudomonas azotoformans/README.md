@@ -1,5 +1,4 @@
-Pseudomonas azotoformans Iizuka and Komagata, 1963 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas azotoformans Iizuka and Komagata, 1963 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

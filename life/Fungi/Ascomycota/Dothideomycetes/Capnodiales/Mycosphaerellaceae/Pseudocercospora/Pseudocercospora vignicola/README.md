@@ -1,5 +1,4 @@
-Pseudocercospora vignicola (J.M. Yen, A.K. Kar & B.K. Das) U. Braun SPECIES
-=======
+# Pseudocercospora vignicola (J.M. Yen, A.K. Kar & B.K. Das) U. Braun SPECIES
 
 #### Status
 ACCEPTED

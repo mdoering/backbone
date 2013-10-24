@@ -1,5 +1,4 @@
-Xenobotrytis acaducospora R.F. Castañeda & W.B. Kendr., 1990 SPECIES
-=======
+# Xenobotrytis acaducospora R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypodermellina ruborum Höhn., 1917 SPECIES
-=======
+# Hypodermellina ruborum Höhn., 1917 SPECIES
 
 #### Status
 ACCEPTED

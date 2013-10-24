@@ -1,5 +1,4 @@
-Dicaeoma phrymae (Halst.) Arthur SPECIES
-=======
+# Dicaeoma phrymae (Halst.) Arthur SPECIES
 
 #### Status
 ACCEPTED

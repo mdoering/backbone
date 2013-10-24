@@ -1,5 +1,4 @@
-Corticium borbonicum Duhem SPECIES
-=======
+# Corticium borbonicum Duhem SPECIES
 
 #### Status
 ACCEPTED

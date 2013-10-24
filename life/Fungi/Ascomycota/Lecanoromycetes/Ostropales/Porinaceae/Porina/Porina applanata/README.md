@@ -1,5 +1,4 @@
-Porina applanata Vain. SPECIES
-=======
+# Porina applanata Vain. SPECIES
 
 #### Status
 ACCEPTED

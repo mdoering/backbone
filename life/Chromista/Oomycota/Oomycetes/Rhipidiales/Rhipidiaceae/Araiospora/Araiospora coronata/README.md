@@ -1,5 +1,4 @@
-Araiospora coronata Linder, 1926 SPECIES
-=======
+# Araiospora coronata Linder, 1926 SPECIES
 
 #### Status
 ACCEPTED

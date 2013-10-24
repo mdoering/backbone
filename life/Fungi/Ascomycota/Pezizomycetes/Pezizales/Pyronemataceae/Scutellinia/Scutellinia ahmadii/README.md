@@ -1,14 +1,13 @@
-Scutellinia ahmadi (E.K. Cash) S.C. Kaushal SPECIES
-=======
+# Scutellinia ahmadii (E.K. Cash) S.C. Kaushal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Kaushal, Kaushal & Rawla, Biblthca Mycol. 91: 594 (1983)
 
 #### Original name
 Humaria ahmadii E.K. Cash

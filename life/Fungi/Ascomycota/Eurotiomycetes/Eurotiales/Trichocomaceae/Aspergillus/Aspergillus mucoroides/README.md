@@ -1,5 +1,4 @@
-Aspergillus mucoroides Corda SPECIES
-=======
+# Aspergillus mucoroides Corda SPECIES
 
 #### Status
 ACCEPTED

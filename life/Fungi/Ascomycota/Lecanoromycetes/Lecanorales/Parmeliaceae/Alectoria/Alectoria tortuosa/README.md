@@ -1,5 +1,4 @@
-Alectoria tortuosa G. Merr. SPECIES
-=======
+# Alectoria tortuosa G. Merr. SPECIES
 
 #### Status
 ACCEPTED

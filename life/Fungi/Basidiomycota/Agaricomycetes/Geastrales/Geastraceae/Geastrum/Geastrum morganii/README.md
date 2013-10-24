@@ -1,8 +1,7 @@
-Geaster morganii Lloyd SPECIES
-=======
+# Geastrum morganii Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster morganii Lloyd
+Geastrum morganii Lloyd
 
 ### Remarks
 null

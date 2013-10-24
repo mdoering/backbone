@@ -1,5 +1,4 @@
-Lecaniocola macropsidis-lanionis (ulc) Brain SPECIES
-=======
+# Lecaniocola macropsidis-lanionis (ulc) Brain SPECIES
 
 #### Status
 ACCEPTED

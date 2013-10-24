@@ -1,5 +1,4 @@
-Monochaetia compta (Sacc.) Sacc. & D. Sacc. SPECIES
-=======
+# Monochaetia compta (Sacc.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

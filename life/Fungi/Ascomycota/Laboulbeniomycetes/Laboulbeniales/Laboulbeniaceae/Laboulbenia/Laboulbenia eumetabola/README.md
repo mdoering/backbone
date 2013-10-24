@@ -1,5 +1,4 @@
-Laboulbenia eumetabola Speg. SPECIES
-=======
+# Laboulbenia eumetabola Speg. SPECIES
 
 #### Status
 ACCEPTED

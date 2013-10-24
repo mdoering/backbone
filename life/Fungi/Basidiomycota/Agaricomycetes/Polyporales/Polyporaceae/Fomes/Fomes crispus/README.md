@@ -1,5 +1,4 @@
-Fomes crispus Lázaro Ibiza SPECIES
-=======
+# Fomes crispus Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor erysiphe Schltdl. SPECIES
-=======
+# Mucor erysiphe Schltdl. SPECIES
 
 #### Status
 ACCEPTED

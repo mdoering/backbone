@@ -1,5 +1,4 @@
-Ulvibacter litoralis Nedashkovskaya et al., 2004 SPECIES
-=======
+# Ulvibacter litoralis Nedashkovskaya et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

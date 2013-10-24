@@ -1,5 +1,4 @@
-Labyrinthulea CLASS
-=======
+# Labyrinthulea CLASS
 
 #### Status
 ACCEPTED

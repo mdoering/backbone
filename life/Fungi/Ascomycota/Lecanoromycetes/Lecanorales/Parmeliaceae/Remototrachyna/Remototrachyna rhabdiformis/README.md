@@ -1,5 +1,4 @@
-Remototrachyna rhabdiformis (Kurok.) Divakar & A. Crespo SPECIES
-=======
+# Remototrachyna rhabdiformis (Kurok.) Divakar & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

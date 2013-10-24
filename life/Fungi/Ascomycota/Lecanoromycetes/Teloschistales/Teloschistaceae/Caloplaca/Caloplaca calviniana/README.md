@@ -1,5 +1,4 @@
-Caloplaca calviniana Zahlbr. SPECIES
-=======
+# Caloplaca calviniana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

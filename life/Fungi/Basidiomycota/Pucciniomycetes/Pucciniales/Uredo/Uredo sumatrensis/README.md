@@ -1,5 +1,4 @@
-Uredo sumatrensis Jørst. SPECIES
-=======
+# Uredo sumatrensis Jørst. SPECIES
 
 #### Status
 ACCEPTED

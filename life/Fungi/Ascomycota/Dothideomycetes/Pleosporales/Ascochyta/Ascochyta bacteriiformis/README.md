@@ -1,5 +1,4 @@
-Ascochyta bacteriiformis Pass. SPECIES
-=======
+# Ascochyta bacteriiformis Pass. SPECIES
 
 #### Status
 ACCEPTED

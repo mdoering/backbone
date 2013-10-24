@@ -1,5 +1,4 @@
-Thalloloma Trevis. GENUS
-=======
+# Thalloloma Trevis. GENUS
 
 #### Status
 ACCEPTED

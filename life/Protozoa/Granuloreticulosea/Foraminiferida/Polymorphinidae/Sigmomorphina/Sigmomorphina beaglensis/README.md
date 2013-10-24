@@ -1,5 +1,4 @@
-Sigmomorphina beaglensis Loeblich & Tappan, 1994 SPECIES
-=======
+# Sigmomorphina beaglensis Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

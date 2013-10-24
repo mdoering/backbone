@@ -1,5 +1,4 @@
-Volutella conorum Ellis & Everh. SPECIES
-=======
+# Volutella conorum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

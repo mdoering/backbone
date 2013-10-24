@@ -1,14 +1,13 @@
-Poria otakou G. Cunn., 1965 SPECIES
-=======
+# Ceriporia otakou (G. Cunn.) P.K. Buchanan & Ryvarden, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 164: 59 (1965)
+Mycotaxon 31(1): 22 (1988)
 
 #### Original name
 Poria otakou G. Cunn., 1965

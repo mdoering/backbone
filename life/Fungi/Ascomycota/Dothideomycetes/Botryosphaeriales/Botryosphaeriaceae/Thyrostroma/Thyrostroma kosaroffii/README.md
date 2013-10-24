@@ -1,5 +1,4 @@
-Thyrostroma kosaroffii (Briosi) Höhn. SPECIES
-=======
+# Thyrostroma kosaroffii (Briosi) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Goplana australis Y. Ono & J.F. Hennen, 1982 SPECIES
-=======
+# Goplana australis Y. Ono & J.F. Hennen, 1982 SPECIES
 
 #### Status
 ACCEPTED

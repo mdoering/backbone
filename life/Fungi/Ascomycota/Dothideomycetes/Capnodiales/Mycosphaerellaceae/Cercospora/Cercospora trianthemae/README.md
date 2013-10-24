@@ -1,5 +1,4 @@
-Cercospora trianthemae Chidd. SPECIES
-=======
+# Cercospora trianthemae Chidd. SPECIES
 
 #### Status
 ACCEPTED

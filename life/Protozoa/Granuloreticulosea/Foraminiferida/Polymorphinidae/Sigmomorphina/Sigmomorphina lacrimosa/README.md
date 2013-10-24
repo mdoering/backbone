@@ -1,5 +1,4 @@
-Sigmomorphina lacrimosa Vella, 1957 SPECIES
-=======
+# Sigmomorphina lacrimosa Vella, 1957 SPECIES
 
 #### Status
 ACCEPTED

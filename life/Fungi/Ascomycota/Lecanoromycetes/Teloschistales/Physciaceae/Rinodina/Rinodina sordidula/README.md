@@ -1,5 +1,4 @@
-Rinodina sordidula SPECIES
-=======
+# Rinodina sordidula SPECIES
 
 #### Status
 ACCEPTED

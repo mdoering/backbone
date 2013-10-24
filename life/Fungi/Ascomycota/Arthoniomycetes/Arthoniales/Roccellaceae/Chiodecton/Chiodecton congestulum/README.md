@@ -1,17 +1,16 @@
-Chiodecton stromaticum C. Knight SPECIES
-=======
+# Chiodecton congestulum Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Linn. Soc. London, Bot. 2: 42 (1882)
+Bull. Soc. linn. Normandie, sér. 2 2: 106 (1868)
 
 #### Original name
-Chiodecton stromaticum C. Knight
+Chiodecton congestulum Nyl.
 
 ### Remarks
 null

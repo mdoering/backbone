@@ -1,5 +1,4 @@
-Graphyllium manitobense Dearn. & Bisby SPECIES
-=======
+# Graphyllium manitobense Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halothrix sadoensis Noda SPECIES
-=======
+# Halothrix sadoensis Noda SPECIES
 
 #### Status
 ACCEPTED

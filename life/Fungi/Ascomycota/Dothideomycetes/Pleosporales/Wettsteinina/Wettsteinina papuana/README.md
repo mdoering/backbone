@@ -1,17 +1,16 @@
-Wettsteinina papuanum Otani SPECIES
-=======
+# Wettsteinina papuana Otani SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Kobayasi et al. , Bull. natn. Sci. Mus. , Tokyo 16(3): 484 (1973)
 
 #### Original name
-Wettsteinina papuanum Otani
+Wettsteinina papuana Otani
 
 ### Remarks
 null

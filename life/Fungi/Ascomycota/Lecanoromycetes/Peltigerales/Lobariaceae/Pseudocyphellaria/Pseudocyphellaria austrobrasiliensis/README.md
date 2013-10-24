@@ -1,5 +1,4 @@
-Pseudocyphellaria austrobrasiliensis var. austrobrasiliensis VARIETY
-=======
+# Pseudocyphellaria austrobrasiliensis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pseudocyphellaria austrobrasiliensis var. austrobrasiliensis
+Pseudocyphellaria austrobrasiliensis
 
 ### Remarks
 null

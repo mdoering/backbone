@@ -1,5 +1,4 @@
-Monosporascus adenantherae (S.D. Patil & C. Ramesh) A. Pande, 2008 SPECIES
-=======
+# Monosporascus adenantherae (S.D. Patil & C. Ramesh) A. Pande, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria pilosella Rehm SPECIES
-=======
+# Nectria pilosella Rehm SPECIES
 
 #### Status
 ACCEPTED

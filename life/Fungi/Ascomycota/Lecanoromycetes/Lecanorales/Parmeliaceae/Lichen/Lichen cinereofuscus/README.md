@@ -1,5 +1,4 @@
-Lichen cinereofuscus Weber SPECIES
-=======
+# Lichen cinereofuscus Weber SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gaillardiella pezizoides Pat., 1895 SPECIES
-=======
+# Gaillardiella pezizoides Pat., 1895 SPECIES
 
 #### Status
 ACCEPTED

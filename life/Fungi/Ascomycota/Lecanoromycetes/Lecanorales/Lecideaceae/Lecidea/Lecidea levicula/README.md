@@ -1,5 +1,4 @@
-Lecidea levicula Nyl. SPECIES
-=======
+# Lecidea levicula Nyl. SPECIES
 
 #### Status
 ACCEPTED

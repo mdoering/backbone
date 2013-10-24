@@ -1,5 +1,4 @@
-Drechslera arizonica (R. Sprague) Subram. & B.L. Jain SPECIES
-=======
+# Drechslera arizonica (R. Sprague) Subram. & B.L. Jain SPECIES
 
 #### Status
 ACCEPTED

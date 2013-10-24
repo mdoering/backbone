@@ -1,5 +1,4 @@
-Paxillus odoratus Velen. SPECIES
-=======
+# Paxillus odoratus Velen. SPECIES
 
 #### Status
 ACCEPTED

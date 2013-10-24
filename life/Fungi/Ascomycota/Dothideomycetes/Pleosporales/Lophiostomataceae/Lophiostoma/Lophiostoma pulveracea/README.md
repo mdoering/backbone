@@ -1,5 +1,4 @@
-Lophiostoma pulveracea (Sacc.) SPECIES
-=======
+# Lophiostoma pulveracea (Sacc.) SPECIES
 
 #### Status
 ACCEPTED

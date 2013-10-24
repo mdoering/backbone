@@ -1,5 +1,4 @@
-Stereocaulon microthuja var. microthuja VARIETY
-=======
+# Stereocaulon microthuja P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stereocaulon microthuja var. microthuja
+Stereocaulon microthuja P.A. Duvign.
 
 ### Remarks
 null

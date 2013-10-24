@@ -1,5 +1,4 @@
-Micropuccinia elytraniae (Henn.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia elytraniae (Henn.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

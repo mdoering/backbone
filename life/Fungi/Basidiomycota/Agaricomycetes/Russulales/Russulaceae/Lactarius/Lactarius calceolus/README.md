@@ -1,5 +1,4 @@
-Lactarius calceolus Berk. SPECIES
-=======
+# Lactarius calceolus Berk. SPECIES
 
 #### Status
 ACCEPTED

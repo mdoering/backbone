@@ -1,5 +1,4 @@
-Peziza sessilis Reichard SPECIES
-=======
+# Peziza sessilis Reichard SPECIES
 
 #### Status
 ACCEPTED

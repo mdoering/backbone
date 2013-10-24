@@ -1,5 +1,4 @@
-Phyllosticta stewartiae Syd. SPECIES
-=======
+# Phyllosticta stewartiae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula vermicularis Corda SPECIES
-=======
+# Torula vermicularis Corda SPECIES
 
 #### Status
 ACCEPTED

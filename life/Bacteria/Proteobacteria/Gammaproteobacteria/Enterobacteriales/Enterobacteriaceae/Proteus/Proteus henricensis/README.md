@@ -1,5 +1,4 @@
-Proteus henricensis SPECIES
-=======
+# Proteus henricensis SPECIES
 
 #### Status
 ACCEPTED

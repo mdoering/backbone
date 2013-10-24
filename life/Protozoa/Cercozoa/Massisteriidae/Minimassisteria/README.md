@@ -1,5 +1,4 @@
-Minimassisteria Arndt & Cavalier-Smith, 2011 GENUS
-=======
+# Minimassisteria Arndt & Cavalier-Smith, 2011 GENUS
 
 #### Status
 ACCEPTED

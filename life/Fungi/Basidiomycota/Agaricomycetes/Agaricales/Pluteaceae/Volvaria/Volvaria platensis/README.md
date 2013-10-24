@@ -1,5 +1,4 @@
-Volvaria platensis Speg. SPECIES
-=======
+# Volvaria platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

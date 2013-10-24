@@ -1,5 +1,4 @@
-Asterella manaosensis Henn. SPECIES
-=======
+# Asterella manaosensis Henn. SPECIES
 
 #### Status
 ACCEPTED

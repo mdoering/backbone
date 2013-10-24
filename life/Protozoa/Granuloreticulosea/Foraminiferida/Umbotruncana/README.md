@@ -1,5 +1,4 @@
-Umbotruncana Korchagin, 1993 GENUS
-=======
+# Umbotruncana Korchagin, 1993 GENUS
 
 #### Status
 ACCEPTED

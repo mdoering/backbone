@@ -1,5 +1,4 @@
-Endothiella robiniae Chona & Munjal SPECIES
-=======
+# Endothiella robiniae Chona & Munjal SPECIES
 
 #### Status
 ACCEPTED

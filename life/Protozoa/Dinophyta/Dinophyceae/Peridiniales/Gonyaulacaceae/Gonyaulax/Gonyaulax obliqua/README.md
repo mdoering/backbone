@@ -1,5 +1,4 @@
-Gonyaulax obliqua Lemmernann, 1899 SPECIES
-=======
+# Gonyaulax obliqua Lemmernann, 1899 SPECIES
 
 #### Status
 ACCEPTED

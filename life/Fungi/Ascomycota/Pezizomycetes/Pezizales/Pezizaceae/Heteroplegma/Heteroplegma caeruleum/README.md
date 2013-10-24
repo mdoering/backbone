@@ -1,17 +1,16 @@
-Heteroplegma coeruleum Clem. SPECIES
-=======
+# Heteroplegma caeruleum Clem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 30: 92 (1903)
 
 #### Original name
-Heteroplegma coeruleum Clem.
+Heteroplegma caeruleum Clem.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tricholoma juranum (Quél.) Sacc. SPECIES
-=======
+# Tricholoma juranum (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lenticulina septentrionalis SPECIES
-=======
+# Lenticulina septentrionalis SPECIES
 
 #### Status
 ACCEPTED

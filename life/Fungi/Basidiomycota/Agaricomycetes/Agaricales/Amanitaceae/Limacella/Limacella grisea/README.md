@@ -1,5 +1,4 @@
-Limacella grisea Singer SPECIES
-=======
+# Limacella grisea Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus immaculatus Berk. ex Lloyd SPECIES
-=======
+# Polyporus immaculatus Berk. ex Lloyd SPECIES
 
 #### Status
 ACCEPTED

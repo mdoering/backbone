@@ -1,5 +1,4 @@
-Acarospora tenuicorticata H. Magn. SPECIES
-=======
+# Acarospora tenuicorticata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysosporium sepedonioides (Harz) Dominik SPECIES
-=======
+# Chrysosporium sepedonioides (Harz) Dominik SPECIES
 
 #### Status
 ACCEPTED

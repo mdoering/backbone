@@ -1,5 +1,4 @@
-Septonema diversisporum Bubák & Serebrian. SPECIES
-=======
+# Septonema diversisporum Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

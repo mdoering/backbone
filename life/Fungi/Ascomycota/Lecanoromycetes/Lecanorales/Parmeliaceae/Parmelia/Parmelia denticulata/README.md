@@ -1,5 +1,4 @@
-Parmelia denticulata Eschw. SPECIES
-=======
+# Parmelia denticulata Eschw. SPECIES
 
 #### Status
 ACCEPTED

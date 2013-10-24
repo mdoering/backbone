@@ -1,5 +1,4 @@
-Ocellularia albo-olivacea (Vain.) Zahlbr. SPECIES
-=======
+# Ocellularia albo-olivacea (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

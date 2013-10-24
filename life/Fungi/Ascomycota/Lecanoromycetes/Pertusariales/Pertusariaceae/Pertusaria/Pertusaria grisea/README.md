@@ -1,5 +1,4 @@
-Pertusaria grisea var. grisea Vain. VARIETY
-=======
+# Pertusaria grisea Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria grisea var. grisea Vain.
+Pertusaria grisea Vain.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thalassiosira tubifera G.A. Fryxell, 1975 SPECIES
-=======
+# Thalassiosira tubifera G.A. Fryxell, 1975 SPECIES
 
 #### Status
 ACCEPTED

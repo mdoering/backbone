@@ -1,17 +1,16 @@
-Chytridiopsis hahni Jírovec SPECIES
-=======
+# Chytridiopsis hahnii Jírovec, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Protistenk. 94: 84 (1940)
 
 #### Original name
-Chytridiopsis hahni Jírovec
+Chytridiopsis hahnii Jírovec, 1940
 
 ### Remarks
 null

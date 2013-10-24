@@ -1,5 +1,4 @@
-Macrophoma leucothoës (Ellis & G. Martin) Tassi SPECIES
-=======
+# Macrophoma leucothoës (Ellis & G. Martin) Tassi SPECIES
 
 #### Status
 ACCEPTED

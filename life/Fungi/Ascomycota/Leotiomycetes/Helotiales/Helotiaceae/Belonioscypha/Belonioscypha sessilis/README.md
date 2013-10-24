@@ -1,5 +1,4 @@
-Belonioscypha sessilis K.S. Thind & H. Singh SPECIES
-=======
+# Belonioscypha sessilis K.S. Thind & H. Singh SPECIES
 
 #### Status
 ACCEPTED

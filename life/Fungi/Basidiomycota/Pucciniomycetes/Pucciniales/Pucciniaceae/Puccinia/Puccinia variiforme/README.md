@@ -1,5 +1,4 @@
-Puccinia variiforme Pat. SPECIES
-=======
+# Puccinia variiforme Pat. SPECIES
 
 #### Status
 ACCEPTED

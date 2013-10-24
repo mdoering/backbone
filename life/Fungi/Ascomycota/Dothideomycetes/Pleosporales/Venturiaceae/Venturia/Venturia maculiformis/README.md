@@ -1,17 +1,16 @@
-Sphaerella fuckelii Pass., 1868 SPECIES
-=======
+# Venturia maculiformis (Desm.) G. Winter, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(2): 435 (1885)
 
 #### Original name
-null
+Dothidea maculiformis Desm., 1847
 
 ### Remarks
 null

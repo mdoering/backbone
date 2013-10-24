@@ -1,5 +1,4 @@
-Lophiostoma spiraeae Peck SPECIES
-=======
+# Lophiostoma spiraeae Peck SPECIES
 
 #### Status
 ACCEPTED

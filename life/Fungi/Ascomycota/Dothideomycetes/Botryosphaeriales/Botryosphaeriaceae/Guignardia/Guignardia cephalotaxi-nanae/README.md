@@ -1,5 +1,4 @@
-Guignardia cephalotaxi-nanae Sawada SPECIES
-=======
+# Guignardia cephalotaxi-nanae Sawada SPECIES
 
 #### Status
 ACCEPTED

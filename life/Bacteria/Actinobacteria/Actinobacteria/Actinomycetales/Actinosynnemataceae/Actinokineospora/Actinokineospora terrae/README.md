@@ -1,5 +1,4 @@
-Actinokineospora terrae Tamura et al., 1995 SPECIES
-=======
+# Actinokineospora terrae Tamura et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

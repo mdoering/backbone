@@ -1,5 +1,4 @@
-Auxarthron compactum G.F. Orr & Plunkett, 1963 SPECIES
-=======
+# Auxarthron compactum G.F. Orr & Plunkett, 1963 SPECIES
 
 #### Status
 ACCEPTED

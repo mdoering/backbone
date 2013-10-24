@@ -1,5 +1,4 @@
-Collema dussii Vain. SPECIES
-=======
+# Collema dussii Vain. SPECIES
 
 #### Status
 ACCEPTED

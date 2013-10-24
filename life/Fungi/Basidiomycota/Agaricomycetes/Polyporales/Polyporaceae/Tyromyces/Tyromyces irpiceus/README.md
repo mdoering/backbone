@@ -1,5 +1,4 @@
-Tyromyces irpiceus Corner SPECIES
-=======
+# Tyromyces irpiceus Corner SPECIES
 
 #### Status
 ACCEPTED

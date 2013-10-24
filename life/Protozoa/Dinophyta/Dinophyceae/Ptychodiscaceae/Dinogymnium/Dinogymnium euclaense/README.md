@@ -1,5 +1,4 @@
-Dinogymnium euclaense Cookson & Eisenack, 1970 SPECIES
-=======
+# Dinogymnium euclaense Cookson & Eisenack, 1970 SPECIES
 
 #### Status
 ACCEPTED

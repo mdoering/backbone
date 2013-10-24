@@ -1,14 +1,13 @@
-Limacinia mucronata (Mont.) Sacc., 1882 SPECIES
-=======
+# Euantennaria mucronata (Mont.) S. Hughes, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 10(2): 227 (1972)
 
 #### Original name
 Capnodium mucronatum Mont., 1849

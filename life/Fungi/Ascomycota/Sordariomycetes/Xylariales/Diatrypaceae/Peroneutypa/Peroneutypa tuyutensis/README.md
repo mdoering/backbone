@@ -1,5 +1,4 @@
-Peroneutypa tuyutensis f. tuyutensis FORM
-=======
+# Peroneutypa tuyutensis Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peroneutypa tuyutensis f. tuyutensis
+Peroneutypa tuyutensis Speg.
 
 ### Remarks
 null

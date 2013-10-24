@@ -1,5 +1,4 @@
-Lachnea furcata Velen. SPECIES
-=======
+# Lachnea furcata Velen. SPECIES
 
 #### Status
 ACCEPTED

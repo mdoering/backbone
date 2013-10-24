@@ -1,5 +1,4 @@
-Phyllachora fici-obscurae Koord., 1907 SPECIES
-=======
+# Phyllachora fici-obscurae Koord., 1907 SPECIES
 
 #### Status
 DOUBTFUL

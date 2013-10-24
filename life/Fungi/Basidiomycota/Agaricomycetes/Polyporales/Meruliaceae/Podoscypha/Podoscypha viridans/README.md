@@ -1,14 +1,13 @@
-Stereum viridans Lloyd, 1925 SPECIES
-=======
+# Podoscypha viridans (Lloyd) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1339 (1925)
+Beih. Nova Hedwigia 18: 274 (1965)
 
 #### Original name
 Stereum viridans Lloyd, 1925

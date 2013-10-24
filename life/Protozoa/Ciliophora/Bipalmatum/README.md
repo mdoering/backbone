@@ -1,5 +1,4 @@
-Bipalmatum GENUS
-=======
+# Bipalmatum GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scindalma angustum (Berk.) Kuntze SPECIES
-=======
+# Scindalma angustum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

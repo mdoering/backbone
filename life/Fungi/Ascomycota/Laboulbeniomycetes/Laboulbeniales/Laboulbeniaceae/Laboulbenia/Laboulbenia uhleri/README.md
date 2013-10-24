@@ -1,5 +1,4 @@
-Laboulbenia uhleri R.K. Benj. SPECIES
-=======
+# Laboulbenia uhleri R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

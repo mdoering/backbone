@@ -1,5 +1,4 @@
-Verrucaria calcaria Zschacke SPECIES
-=======
+# Verrucaria calcaria Zschacke SPECIES
 
 #### Status
 ACCEPTED

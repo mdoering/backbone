@@ -1,5 +1,4 @@
-Gloeosporium eragrostidis H.C. Greene SPECIES
-=======
+# Gloeosporium eragrostidis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

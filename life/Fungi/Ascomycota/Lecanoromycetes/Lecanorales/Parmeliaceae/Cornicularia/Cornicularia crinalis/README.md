@@ -1,5 +1,4 @@
-Cornicularia crinalis (Ach.) Duby SPECIES
-=======
+# Cornicularia crinalis (Ach.) Duby SPECIES
 
 #### Status
 ACCEPTED

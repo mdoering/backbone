@@ -1,5 +1,4 @@
-Cerotelium minutum Arthur SPECIES
-=======
+# Cerotelium minutum Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptomassaria GENUS
-=======
+# Leptomassaria GENUS
 
 #### Status
 ACCEPTED

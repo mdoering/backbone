@@ -1,5 +1,4 @@
-Cyathus ericetorum Havet. {?} SPECIES
-=======
+# Cyathus ericetorum Havet. {?} SPECIES
 
 #### Status
 ACCEPTED

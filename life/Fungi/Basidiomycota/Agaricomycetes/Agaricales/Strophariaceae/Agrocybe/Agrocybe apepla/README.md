@@ -1,5 +1,4 @@
-Agrocybe apepla Singer SPECIES
-=======
+# Agrocybe apepla Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agrocybe setulosa G. Moreno & Barrasa SPECIES
-=======
+# Agrocybe setulosa G. Moreno & Barrasa SPECIES
 
 #### Status
 ACCEPTED

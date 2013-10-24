@@ -1,5 +1,4 @@
-Renatobasidium notabile Hauerslev, 1993 SPECIES
-=======
+# Renatobasidium notabile Hauerslev, 1993 SPECIES
 
 #### Status
 ACCEPTED

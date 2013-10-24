@@ -1,5 +1,4 @@
-Scutellinia luteoaurantia Le Gal SPECIES
-=======
+# Scutellinia luteoaurantia Le Gal SPECIES
 
 #### Status
 ACCEPTED

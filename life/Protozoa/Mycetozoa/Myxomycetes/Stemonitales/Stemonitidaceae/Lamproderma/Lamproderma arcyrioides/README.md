@@ -1,17 +1,16 @@
-Lamproderma violaceum f. nigrescens Rostaf. FORM
-=======
+# Lamproderma arcyrioides (Sommerf.) Rostaf., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bul. Fac. Agron. , Bucuresti 27-28: 70 (1873)
+Sluzowce monogr. (Paryz) 208 (1875)
 
 #### Original name
-Lamproderma violaceum f. nigrescens Rostaf.
+Stemonitis arcyrioides Sommerf., 1827
 
 ### Remarks
 null

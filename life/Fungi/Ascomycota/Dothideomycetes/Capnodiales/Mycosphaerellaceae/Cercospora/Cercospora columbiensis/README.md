@@ -1,5 +1,4 @@
-Cercospora columbiensis Ellis & Everh. SPECIES
-=======
+# Cercospora columbiensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

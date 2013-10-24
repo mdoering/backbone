@@ -1,5 +1,4 @@
-Puccinia stephanachnes Z.M. Cao & Z.Qi Li SPECIES
-=======
+# Puccinia stephanachnes Z.M. Cao & Z.Qi Li SPECIES
 
 #### Status
 ACCEPTED

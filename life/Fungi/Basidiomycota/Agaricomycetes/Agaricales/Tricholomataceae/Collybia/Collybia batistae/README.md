@@ -1,5 +1,4 @@
-Collybia batistae Singer SPECIES
-=======
+# Collybia batistae Singer SPECIES
 
 #### Status
 ACCEPTED

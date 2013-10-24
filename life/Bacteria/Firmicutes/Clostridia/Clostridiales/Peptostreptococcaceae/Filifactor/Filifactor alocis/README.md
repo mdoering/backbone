@@ -1,8 +1,7 @@
-Fusobacterium alocis Cato et al., 1985 SPECIES
-=======
+# Filifactor alocis (Cato et al., 1985) Jalava & Eerola, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

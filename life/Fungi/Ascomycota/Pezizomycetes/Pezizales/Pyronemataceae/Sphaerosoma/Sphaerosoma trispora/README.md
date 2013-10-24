@@ -1,5 +1,4 @@
-Sphaerosoma trispora McLennan & Cookson SPECIES
-=======
+# Sphaerosoma trispora McLennan & Cookson SPECIES
 
 #### Status
 ACCEPTED

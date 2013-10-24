@@ -1,5 +1,4 @@
-Tricholoma luteolospermum (Britzelm.) Lapl. SPECIES
-=======
+# Tricholoma luteolospermum (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

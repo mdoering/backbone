@@ -1,5 +1,4 @@
-Diplomyces actobianus Thaxt., 1895 SPECIES
-=======
+# Diplomyces actobianus Thaxt., 1895 SPECIES
 
 #### Status
 ACCEPTED

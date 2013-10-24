@@ -1,5 +1,4 @@
-Pansporella perplexa Chatton, 1925 SPECIES
-=======
+# Pansporella perplexa Chatton, 1925 SPECIES
 
 #### Status
 ACCEPTED

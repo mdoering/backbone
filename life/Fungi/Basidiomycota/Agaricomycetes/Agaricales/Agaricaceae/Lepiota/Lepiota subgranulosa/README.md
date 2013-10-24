@@ -1,5 +1,4 @@
-Lepiota subgranulosa var. subgranulosa VARIETY
-=======
+# Lepiota subgranulosa Murrill SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 3(2): 83 (1911)
 
 #### Original name
-Lepiota subgranulosa var. subgranulosa
+Lepiota subgranulosa Murrill
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Omphalia hectoris (Roum.) Lapl. SPECIES
-=======
+# Omphalia hectoris (Roum.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

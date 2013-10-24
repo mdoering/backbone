@@ -1,5 +1,4 @@
-Muyocopron cubense (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Muyocopron cubense (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

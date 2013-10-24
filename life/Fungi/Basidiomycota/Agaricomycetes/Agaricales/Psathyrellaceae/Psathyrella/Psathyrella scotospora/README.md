@@ -1,5 +1,4 @@
-Psathyrella scotospora (Romagn.) Bon SPECIES
-=======
+# Psathyrella scotospora (Romagn.) Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stauropelta Haeckel, 1887 GENUS
-=======
+# Stauropelta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

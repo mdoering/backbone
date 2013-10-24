@@ -1,5 +1,4 @@
-Septoria crini Tassi SPECIES
-=======
+# Septoria crini Tassi SPECIES
 
 #### Status
 ACCEPTED

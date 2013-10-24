@@ -1,5 +1,4 @@
-Scirrhophoma Petr. GENUS
-=======
+# Scirrhophoma Petr. GENUS
 
 #### Status
 ACCEPTED

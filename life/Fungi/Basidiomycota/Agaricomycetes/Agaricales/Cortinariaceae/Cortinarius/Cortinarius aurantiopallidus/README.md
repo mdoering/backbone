@@ -1,5 +1,4 @@
-Cortinarius aurantiopallidus Bidaud SPECIES
-=======
+# Cortinarius aurantiopallidus Bidaud SPECIES
 
 #### Status
 ACCEPTED

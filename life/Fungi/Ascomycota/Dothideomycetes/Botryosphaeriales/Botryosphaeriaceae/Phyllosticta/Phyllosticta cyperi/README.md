@@ -1,5 +1,4 @@
-Phyllosticta cyperi Hollós SPECIES
-=======
+# Phyllosticta cyperi Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria blennorioides (P. Karst.) Berl. & Voglino SPECIES
-=======
+# Septoria blennorioides (P. Karst.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

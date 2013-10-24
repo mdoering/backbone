@@ -1,5 +1,4 @@
-Lecidea diplotommoides (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea diplotommoides (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

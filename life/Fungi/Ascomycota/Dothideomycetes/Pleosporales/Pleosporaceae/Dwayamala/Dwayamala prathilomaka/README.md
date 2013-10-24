@@ -1,17 +1,16 @@
-Dwayamala prathilomako Subram. SPECIES
-=======
+# Dwayamala prathilomaka Subram., 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Indian bot. Soc. 35: 476 (1956)
 
 #### Original name
-Dwayamala prathilomako Subram.
+Dwayamala prathilomaka Subram., 1956
 
 ### Remarks
 null

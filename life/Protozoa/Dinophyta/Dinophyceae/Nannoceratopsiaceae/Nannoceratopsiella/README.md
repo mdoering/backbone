@@ -1,5 +1,4 @@
-Nannoceratopsiella Tasch, 1963 GENUS
-=======
+# Nannoceratopsiella Tasch, 1963 GENUS
 
 #### Status
 ACCEPTED

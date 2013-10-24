@@ -1,5 +1,4 @@
-Rickia coprighis Speg. SPECIES
-=======
+# Rickia coprighis Speg. SPECIES
 
 #### Status
 ACCEPTED

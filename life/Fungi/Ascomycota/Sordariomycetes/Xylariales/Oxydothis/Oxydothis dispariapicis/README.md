@@ -1,5 +1,4 @@
-Oxydothis dispariapicis J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Oxydothis dispariapicis J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

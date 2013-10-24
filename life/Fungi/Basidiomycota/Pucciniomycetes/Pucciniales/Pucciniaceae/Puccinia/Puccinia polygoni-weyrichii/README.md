@@ -1,5 +1,4 @@
-Puccinia polygoni-weyrichii Miyabe SPECIES
-=======
+# Puccinia polygoni-weyrichii Miyabe SPECIES
 
 #### Status
 ACCEPTED

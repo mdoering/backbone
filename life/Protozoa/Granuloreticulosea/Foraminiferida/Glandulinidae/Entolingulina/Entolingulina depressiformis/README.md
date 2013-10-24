@@ -1,5 +1,4 @@
-Entolingulina depressiformis McCulloch, 1977 SPECIES
-=======
+# Entolingulina depressiformis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

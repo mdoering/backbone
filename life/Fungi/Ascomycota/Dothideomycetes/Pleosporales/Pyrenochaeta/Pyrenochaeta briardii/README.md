@@ -1,5 +1,4 @@
-Pyrenochaeta briardii Har. SPECIES
-=======
+# Pyrenochaeta briardii Har. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus machidae S. Ito & S. Imai SPECIES
-=======
+# Pluteus machidae S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pocillaria connata (Berk.) Kuntze SPECIES
-=======
+# Pocillaria connata (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

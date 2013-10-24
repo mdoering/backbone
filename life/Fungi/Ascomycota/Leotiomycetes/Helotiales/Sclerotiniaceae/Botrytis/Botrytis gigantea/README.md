@@ -1,5 +1,4 @@
-Botrytis gigantea Letell. SPECIES
-=======
+# Botrytis gigantea Letell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tongzia Li Jun, 1987 GENUS
-=======
+# Tongzia Li Jun, 1987 GENUS
 
 #### Status
 ACCEPTED

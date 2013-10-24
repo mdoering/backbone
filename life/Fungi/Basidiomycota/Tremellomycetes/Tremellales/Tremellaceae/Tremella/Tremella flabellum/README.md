@@ -1,5 +1,4 @@
-Tremella flabellum Spreng. SPECIES
-=======
+# Tremella flabellum Spreng. SPECIES
 
 #### Status
 ACCEPTED

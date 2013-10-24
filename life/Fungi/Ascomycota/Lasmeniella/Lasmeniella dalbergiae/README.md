@@ -1,5 +1,4 @@
-Lasmeniella dalbergiae Petr. SPECIES
-=======
+# Lasmeniella dalbergiae Petr. SPECIES
 
 #### Status
 ACCEPTED

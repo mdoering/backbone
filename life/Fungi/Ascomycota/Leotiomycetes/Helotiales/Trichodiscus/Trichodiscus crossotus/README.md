@@ -1,5 +1,4 @@
-Trichodiscus crossotus (Ellis) Dennis SPECIES
-=======
+# Trichodiscus crossotus (Ellis) Dennis SPECIES
 
 #### Status
 ACCEPTED

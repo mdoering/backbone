@@ -1,5 +1,4 @@
-Prunulus pectinatus Murrill SPECIES
-=======
+# Prunulus pectinatus Murrill SPECIES
 
 #### Status
 ACCEPTED

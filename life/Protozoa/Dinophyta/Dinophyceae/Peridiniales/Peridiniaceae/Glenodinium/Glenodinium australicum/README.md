@@ -1,5 +1,4 @@
-Glenodinium australicum Playfair SPECIES
-=======
+# Glenodinium australicum Playfair SPECIES
 
 #### Status
 ACCEPTED

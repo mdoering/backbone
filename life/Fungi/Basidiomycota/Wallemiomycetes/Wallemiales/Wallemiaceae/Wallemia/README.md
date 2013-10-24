@@ -1,17 +1,16 @@
-Hemispora Vuill. GENUS
-=======
+# Wallemia Johan-Olsen, 1887 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Soc. mycol. Fr. 22: 128 (1906)
+null
 
 #### Original name
-Hemispora Vuill.
+null
 
 ### Remarks
 null

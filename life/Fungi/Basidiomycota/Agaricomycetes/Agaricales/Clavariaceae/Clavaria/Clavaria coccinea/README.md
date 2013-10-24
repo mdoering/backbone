@@ -1,5 +1,4 @@
-Clavaria coccinea Sowerby SPECIES
-=======
+# Clavaria coccinea Sowerby SPECIES
 
 #### Status
 ACCEPTED

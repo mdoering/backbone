@@ -1,5 +1,4 @@
-Geinitzina Spandel, 1901 GENUS
-=======
+# Geinitzina Spandel, 1901 GENUS
 
 #### Status
 ACCEPTED

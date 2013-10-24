@@ -1,5 +1,4 @@
-Iodosphaeria aquatica K.D. Hyde SPECIES
-=======
+# Iodosphaeria aquatica K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

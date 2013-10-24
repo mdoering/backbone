@@ -1,8 +1,7 @@
-Asterina evodiicola W. Yamam. SPECIES
-=======
+# Asterina euodiicola W. Yamam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asterina evodiicola W. Yamam.
+Asterina euodiicola W. Yamam.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerella aloysiae Pass. SPECIES
-=======
+# Sphaerella aloysiae Pass. SPECIES
 
 #### Status
 ACCEPTED

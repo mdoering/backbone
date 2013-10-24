@@ -1,5 +1,4 @@
-Octaviania picea Velen. SPECIES
-=======
+# Octaviania picea Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plasmopara wartenweileri Skalický SPECIES
-=======
+# Plasmopara wartenweileri Skalický SPECIES
 
 #### Status
 ACCEPTED

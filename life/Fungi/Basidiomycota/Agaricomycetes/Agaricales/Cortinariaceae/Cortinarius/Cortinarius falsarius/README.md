@@ -1,5 +1,4 @@
-Cortinarius falsarius (Fr.) Rob. Henry SPECIES
-=======
+# Cortinarius falsarius (Fr.) Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

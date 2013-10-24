@@ -1,5 +1,4 @@
-Crinipellis hygrocyboides (Henn.) Singer SPECIES
-=======
+# Crinipellis hygrocyboides (Henn.) Singer SPECIES
 
 #### Status
 ACCEPTED

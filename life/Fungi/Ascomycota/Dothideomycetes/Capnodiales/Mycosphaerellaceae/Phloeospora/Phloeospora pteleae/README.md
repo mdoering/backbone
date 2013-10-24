@@ -1,5 +1,4 @@
-Phloeospora pteleae Tharp SPECIES
-=======
+# Phloeospora pteleae Tharp SPECIES
 
 #### Status
 ACCEPTED

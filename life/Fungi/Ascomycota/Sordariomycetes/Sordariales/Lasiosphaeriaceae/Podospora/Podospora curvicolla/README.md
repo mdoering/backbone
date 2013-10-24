@@ -1,5 +1,4 @@
-Podospora curvicolla (G. Winter) Niessl, 1883 SPECIES
-=======
+# Podospora curvicolla (G. Winter) Niessl, 1883 SPECIES
 
 #### Status
 ACCEPTED

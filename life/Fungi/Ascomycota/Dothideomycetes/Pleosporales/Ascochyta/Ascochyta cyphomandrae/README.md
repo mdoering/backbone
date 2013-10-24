@@ -1,5 +1,4 @@
-Ascochyta cyphomandrae Petch SPECIES
-=======
+# Ascochyta cyphomandrae Petch SPECIES
 
 #### Status
 ACCEPTED

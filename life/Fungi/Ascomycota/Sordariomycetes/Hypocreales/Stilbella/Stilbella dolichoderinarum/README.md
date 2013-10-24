@@ -1,5 +1,4 @@
-Stilbella dolichoderinarum Samson & H.C. Evans SPECIES
-=======
+# Stilbella dolichoderinarum Samson & H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

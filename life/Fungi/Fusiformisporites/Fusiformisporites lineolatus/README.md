@@ -1,5 +1,4 @@
-Fusiformisporites lineolatus Sheffy & Dilcher SPECIES
-=======
+# Fusiformisporites lineolatus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

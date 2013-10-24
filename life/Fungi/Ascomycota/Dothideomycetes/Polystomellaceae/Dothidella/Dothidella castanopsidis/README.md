@@ -1,17 +1,16 @@
-Dothidella castanopsii R.K. Verma & Kamal SPECIES
-=======
+# Dothidella castanopsidis R.K. Verma & Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 40(4): 460 (1988)
 
 #### Original name
-Dothidella castanopsii R.K. Verma & Kamal
+Dothidella castanopsidis R.K. Verma & Kamal
 
 ### Remarks
 null

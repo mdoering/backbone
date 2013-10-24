@@ -1,5 +1,4 @@
-Ganoderma hoehnelianum Bres. SPECIES
-=======
+# Ganoderma hoehnelianum Bres. SPECIES
 
 #### Status
 ACCEPTED

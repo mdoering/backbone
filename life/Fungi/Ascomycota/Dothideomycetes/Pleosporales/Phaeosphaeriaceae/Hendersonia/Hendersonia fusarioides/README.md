@@ -1,5 +1,4 @@
-Hendersonia fusarioides Sacc. SPECIES
-=======
+# Hendersonia fusarioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

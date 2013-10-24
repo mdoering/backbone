@@ -1,5 +1,4 @@
-Lachnum hypericinum Velen. SPECIES
-=======
+# Lachnum hypericinum Velen. SPECIES
 
 #### Status
 ACCEPTED

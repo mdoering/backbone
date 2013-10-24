@@ -1,5 +1,4 @@
-Septoria acanthocephali Kalymb. SPECIES
-=======
+# Septoria acanthocephali Kalymb. SPECIES
 
 #### Status
 ACCEPTED

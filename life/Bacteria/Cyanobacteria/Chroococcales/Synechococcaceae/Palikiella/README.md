@@ -1,5 +1,4 @@
-Palikiella G.Claus, 1962 GENUS
-=======
+# Palikiella G.Claus, 1962 GENUS
 
 #### Status
 ACCEPTED

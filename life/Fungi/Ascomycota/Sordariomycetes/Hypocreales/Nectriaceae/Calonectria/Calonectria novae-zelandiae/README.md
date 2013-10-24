@@ -1,5 +1,4 @@
-Calonectria novae-zelandiae Dingley SPECIES
-=======
+# Calonectria novae-zelandiae Dingley SPECIES
 
 #### Status
 ACCEPTED

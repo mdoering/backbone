@@ -1,5 +1,4 @@
-Balsamia fusispora Schulzer SPECIES
-=======
+# Balsamia fusispora Schulzer SPECIES
 
 #### Status
 ACCEPTED

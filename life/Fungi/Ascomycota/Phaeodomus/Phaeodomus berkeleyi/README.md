@@ -1,17 +1,16 @@
-Phaeodomus berkeley Abbas, B. Sutton, Ghaffar & Abbas SPECIES
-=======
+# Phaeodomus berkeleyi Abbas, B. Sutton, Ghaffar & Abbas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pakist. J. Bot. 36(1): 214 (2004)
 
 #### Original name
-Phaeodomus berkeley Abbas, B. Sutton, Ghaffar & Abbas
+Phaeodomus berkeleyi Abbas, B. Sutton, Ghaffar & Abbas
 
 ### Remarks
 null

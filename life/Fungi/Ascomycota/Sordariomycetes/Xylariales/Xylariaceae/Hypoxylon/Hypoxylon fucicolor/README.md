@@ -1,5 +1,4 @@
-Hypoxylon fucicolor Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon fucicolor Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

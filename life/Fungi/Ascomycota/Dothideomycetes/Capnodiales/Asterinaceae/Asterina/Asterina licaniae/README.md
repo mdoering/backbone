@@ -1,5 +1,4 @@
-Asterina licaniae Cooke SPECIES
-=======
+# Asterina licaniae Cooke SPECIES
 
 #### Status
 ACCEPTED

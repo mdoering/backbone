@@ -1,5 +1,4 @@
-Heterotextus Lloyd GENUS
-=======
+# Heterotextus Lloyd GENUS
 
 #### Status
 ACCEPTED

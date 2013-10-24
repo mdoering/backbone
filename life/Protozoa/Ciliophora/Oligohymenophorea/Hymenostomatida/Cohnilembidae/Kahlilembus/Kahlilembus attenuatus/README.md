@@ -1,8 +1,7 @@
-Lembus fusiformis Kahl, 1926 SPECIES
-=======
+# Kahlilembus attenuatus (Smith, 1897) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

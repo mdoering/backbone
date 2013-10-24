@@ -1,5 +1,4 @@
-Diplosphaeromma Haeckel, 1887 GENUS
-=======
+# Diplosphaeromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

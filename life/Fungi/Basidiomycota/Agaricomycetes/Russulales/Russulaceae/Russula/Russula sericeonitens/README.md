@@ -1,5 +1,4 @@
-Russula sericeonitens Kauffman SPECIES
-=======
+# Russula sericeonitens Kauffman SPECIES
 
 #### Status
 ACCEPTED

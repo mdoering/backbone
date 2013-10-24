@@ -1,5 +1,4 @@
-Puccinia plagii Maire SPECIES
-=======
+# Puccinia plagii Maire SPECIES
 
 #### Status
 ACCEPTED

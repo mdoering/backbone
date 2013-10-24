@@ -1,5 +1,4 @@
-Clitocybe stygia Fr. SPECIES
-=======
+# Clitocybe stygia Fr. SPECIES
 
 #### Status
 ACCEPTED

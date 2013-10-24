@@ -1,5 +1,4 @@
-Volutella coronata Cooke & Harkn. SPECIES
-=======
+# Volutella coronata Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

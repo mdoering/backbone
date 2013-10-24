@@ -1,5 +1,4 @@
-Peltigera olifera (H. Magn.) J.C. Wei SPECIES
-=======
+# Peltigera olifera (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

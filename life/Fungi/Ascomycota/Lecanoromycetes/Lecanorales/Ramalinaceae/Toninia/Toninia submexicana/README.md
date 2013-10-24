@@ -1,5 +1,4 @@
-Toninia submexicana B. de Lesd. SPECIES
-=======
+# Toninia submexicana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

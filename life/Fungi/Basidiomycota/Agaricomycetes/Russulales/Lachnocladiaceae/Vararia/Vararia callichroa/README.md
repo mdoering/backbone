@@ -1,5 +1,4 @@
-Vararia callichroa Boidin, Gilles & Lanq., 1988 SPECIES
-=======
+# Vararia callichroa Boidin, Gilles & Lanq., 1988 SPECIES
 
 #### Status
 ACCEPTED

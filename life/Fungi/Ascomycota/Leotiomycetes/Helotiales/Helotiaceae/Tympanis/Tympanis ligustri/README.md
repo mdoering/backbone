@@ -1,17 +1,16 @@
-Tympanis ligustri var. ligustri VARIETY
-=======
+# Tympanis ligustri Tul. & C. Tul., 1865 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Select. fung. carpol. (Paris) 3: 153 (1865)
 
 #### Original name
-Tympanis ligustri var. ligustri
+Tympanis ligustri Tul. & C. Tul., 1865
 
 ### Remarks
 null

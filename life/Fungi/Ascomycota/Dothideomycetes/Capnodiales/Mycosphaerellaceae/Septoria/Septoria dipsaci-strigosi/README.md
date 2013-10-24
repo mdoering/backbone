@@ -1,5 +1,4 @@
-Septoria dipsaci-strigosi D.N. Babajan SPECIES
-=======
+# Septoria dipsaci-strigosi D.N. Babajan SPECIES
 
 #### Status
 ACCEPTED

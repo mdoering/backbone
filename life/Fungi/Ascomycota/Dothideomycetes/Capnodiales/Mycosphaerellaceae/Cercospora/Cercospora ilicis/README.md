@@ -1,5 +1,4 @@
-Cercospora ilicis Ellis SPECIES
-=======
+# Cercospora ilicis Ellis SPECIES
 
 #### Status
 ACCEPTED

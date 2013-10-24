@@ -1,5 +1,4 @@
-Pertusaria gattefossei M. Choisy SPECIES
-=======
+# Pertusaria gattefossei M. Choisy SPECIES
 
 #### Status
 ACCEPTED

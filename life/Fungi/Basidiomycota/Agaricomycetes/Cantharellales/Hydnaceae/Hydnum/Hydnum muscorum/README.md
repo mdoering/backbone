@@ -1,5 +1,4 @@
-Hydnum muscorum Schleich. SPECIES
-=======
+# Hydnum muscorum Schleich. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus cavarae Bres. SPECIES
-=======
+# Pleurotus cavarae Bres. SPECIES
 
 #### Status
 ACCEPTED

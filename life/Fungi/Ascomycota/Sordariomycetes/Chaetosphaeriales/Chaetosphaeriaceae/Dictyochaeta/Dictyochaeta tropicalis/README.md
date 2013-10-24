@@ -1,5 +1,4 @@
-Dictyochaeta tropicalis Bhat & W.B. Kendr. SPECIES
-=======
+# Dictyochaeta tropicalis Bhat & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

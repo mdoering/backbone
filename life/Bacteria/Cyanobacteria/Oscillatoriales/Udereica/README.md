@@ -1,5 +1,4 @@
-Udereica V.G. Pjatiletov in V.G. Pjatiletov & G.A. Karlova, 1980 GENUS
-=======
+# Udereica V.G. Pjatiletov in V.G. Pjatiletov & G.A. Karlova, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurothecium pulneyense Subram. & Bhat, 1989 SPECIES
-=======
+# Pleurothecium pulneyense Subram. & Bhat, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius macropodius Rob. Henry SPECIES
-=======
+# Cortinarius macropodius Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

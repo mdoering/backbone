@@ -1,5 +1,4 @@
-Cortinarius lajeannei Rob. Henry SPECIES
-=======
+# Cortinarius lajeannei Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

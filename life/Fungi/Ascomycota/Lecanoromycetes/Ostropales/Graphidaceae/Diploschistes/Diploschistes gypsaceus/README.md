@@ -1,17 +1,16 @@
-Diploschistes ochrophanes var. ochrophanes VARIETY
-=======
+# Diploschistes gypsaceus (Ach.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 31: 35 (1892)
 
 #### Original name
-Diploschistes ochrophanes var. ochrophanes
+Urceolaria gypsacea Ach.
 
 ### Remarks
 null

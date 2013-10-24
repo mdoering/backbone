@@ -1,5 +1,4 @@
-Plicatofusa nana Sheshegova, 1984 SPECIES
-=======
+# Plicatofusa nana Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

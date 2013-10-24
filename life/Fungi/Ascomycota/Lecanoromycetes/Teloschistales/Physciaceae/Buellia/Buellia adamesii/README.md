@@ -1,5 +1,4 @@
-Buellia adamesii C.W. Dodge SPECIES
-=======
+# Buellia adamesii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

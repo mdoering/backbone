@@ -1,5 +1,4 @@
-Gasparrinia plicatoverrucosa (Räsänen) Oxner SPECIES
-=======
+# Gasparrinia plicatoverrucosa (Räsänen) Oxner SPECIES
 
 #### Status
 ACCEPTED

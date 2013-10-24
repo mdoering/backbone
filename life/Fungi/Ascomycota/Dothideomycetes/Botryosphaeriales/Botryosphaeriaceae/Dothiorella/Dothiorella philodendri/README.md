@@ -1,5 +1,4 @@
-Dothiorella philodendri (Turconi) Petr. & Syd. SPECIES
-=======
+# Dothiorella philodendri (Turconi) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

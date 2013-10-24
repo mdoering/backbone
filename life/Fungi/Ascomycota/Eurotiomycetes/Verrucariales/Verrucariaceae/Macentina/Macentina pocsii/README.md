@@ -1,5 +1,4 @@
-Macentina pocsii Farkas & Vezda SPECIES
-=======
+# Macentina pocsii Farkas & Vezda SPECIES
 
 #### Status
 ACCEPTED

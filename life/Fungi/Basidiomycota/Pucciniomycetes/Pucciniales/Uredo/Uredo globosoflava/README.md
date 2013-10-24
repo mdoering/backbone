@@ -1,5 +1,4 @@
-Uredo globosoflava Bonord. SPECIES
-=======
+# Uredo globosoflava Bonord. SPECIES
 
 #### Status
 ACCEPTED

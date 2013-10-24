@@ -1,5 +1,4 @@
-Gymnascella japonica Uchiy., Kamiya & Udagawa SPECIES
-=======
+# Gymnascella japonica Uchiy., Kamiya & Udagawa SPECIES
 
 #### Status
 ACCEPTED

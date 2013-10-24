@@ -1,5 +1,4 @@
-Phyllosticta medicaginis (Fuckel) Sacc. SPECIES
-=======
+# Phyllosticta medicaginis (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

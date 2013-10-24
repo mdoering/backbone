@@ -1,5 +1,4 @@
-Coniothyrium cavum (Sacc. & Schulzer) Kuntze SPECIES
-=======
+# Coniothyrium cavum (Sacc. & Schulzer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

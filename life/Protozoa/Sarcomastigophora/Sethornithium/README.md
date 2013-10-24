@@ -1,5 +1,4 @@
-Sethornithium Haeckel, 1887 GENUS
-=======
+# Sethornithium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

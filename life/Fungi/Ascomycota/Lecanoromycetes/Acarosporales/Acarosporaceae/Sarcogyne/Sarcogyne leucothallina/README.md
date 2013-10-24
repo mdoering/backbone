@@ -1,5 +1,4 @@
-Sarcogyne leucothallina (J. Steiner) H. Magn. SPECIES
-=======
+# Sarcogyne leucothallina (J. Steiner) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

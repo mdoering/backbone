@@ -1,17 +1,16 @@
-Agaricus aellopum Fr. SPECIES
-=======
+# Agaricus aelopum Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Öfvers. K. VetenskAkad. Forh. 3-9 (1873)
 
 #### Original name
-Agaricus aellopum Fr.
+Agaricus aelopum Fr.
 
 ### Remarks
 null

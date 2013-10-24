@@ -1,5 +1,4 @@
-Lepiota ochraceoaurantiaca Dennis SPECIES
-=======
+# Lepiota ochraceoaurantiaca Dennis SPECIES
 
 #### Status
 ACCEPTED

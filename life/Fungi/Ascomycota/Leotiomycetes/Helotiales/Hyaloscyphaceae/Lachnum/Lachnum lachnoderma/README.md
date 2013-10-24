@@ -1,5 +1,4 @@
-Lachnum lachnoderma (Berk.) G.G. Hahn & Ayers SPECIES
-=======
+# Lachnum lachnoderma (Berk.) G.G. Hahn & Ayers SPECIES
 
 #### Status
 ACCEPTED

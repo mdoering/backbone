@@ -1,5 +1,4 @@
-Septoria amygdalina Desm. SPECIES
-=======
+# Septoria amygdalina Desm. SPECIES
 
 #### Status
 ACCEPTED

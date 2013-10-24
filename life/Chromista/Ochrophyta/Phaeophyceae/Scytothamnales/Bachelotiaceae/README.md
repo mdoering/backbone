@@ -1,5 +1,4 @@
-Bachelotiaceae FAMILY
-=======
+# Bachelotiaceae FAMILY
 
 #### Status
 ACCEPTED

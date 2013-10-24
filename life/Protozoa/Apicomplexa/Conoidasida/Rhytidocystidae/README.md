@@ -1,5 +1,4 @@
-Rhytidocystidae Levine, 1979 FAMILY
-=======
+# Rhytidocystidae Levine, 1979 FAMILY
 
 #### Status
 ACCEPTED

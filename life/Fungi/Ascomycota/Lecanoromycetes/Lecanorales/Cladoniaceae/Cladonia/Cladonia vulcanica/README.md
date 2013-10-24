@@ -1,5 +1,4 @@
-Cladonia vulcanica f. vulcanica FORM
-=======
+# Cladonia vulcanica Zoll. & Moritzi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Hasskarl, Natur Geneerk. Arch. Neerl. Indie 1: 396 (1847)
 
 #### Original name
-Cladonia vulcanica f. vulcanica
+Cladonia vulcanica Zoll. & Moritzi
 
 ### Remarks
 null

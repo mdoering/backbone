@@ -1,5 +1,4 @@
-Thelephora scissilis Burt, 1914 SPECIES
-=======
+# Thelephora scissilis Burt, 1914 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Preussia planispora Mahoney SPECIES
-=======
+# Preussia planispora Mahoney SPECIES
 
 #### Status
 ACCEPTED

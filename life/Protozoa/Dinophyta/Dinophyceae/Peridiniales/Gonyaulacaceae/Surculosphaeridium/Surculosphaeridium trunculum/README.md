@@ -1,5 +1,4 @@
-Surculosphaeridium trunculum R. J. Davey SPECIES
-=======
+# Surculosphaeridium trunculum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

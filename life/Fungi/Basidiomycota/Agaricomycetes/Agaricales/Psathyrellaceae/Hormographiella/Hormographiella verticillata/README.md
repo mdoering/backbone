@@ -1,5 +1,4 @@
-Hormographiella verticillata Guarro, Gené & E. Guého, 1992 SPECIES
-=======
+# Hormographiella verticillata Guarro, Gené & E. Guého, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia poae Rostr. SPECIES
-=======
+# Hendersonia poae Rostr. SPECIES
 
 #### Status
 ACCEPTED

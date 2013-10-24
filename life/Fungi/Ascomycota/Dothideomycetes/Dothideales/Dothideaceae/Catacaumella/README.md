@@ -1,5 +1,4 @@
-Catacaumella GENUS
-=======
+# Catacaumella GENUS
 
 #### Status
 ACCEPTED

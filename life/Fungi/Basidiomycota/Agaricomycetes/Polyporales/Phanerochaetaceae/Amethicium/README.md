@@ -1,5 +1,4 @@
-Amethicium Hjortstam GENUS
-=======
+# Amethicium Hjortstam GENUS
 
 #### Status
 ACCEPTED

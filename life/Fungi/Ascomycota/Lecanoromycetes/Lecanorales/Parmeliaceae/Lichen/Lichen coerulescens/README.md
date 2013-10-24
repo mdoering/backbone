@@ -1,5 +1,4 @@
-Lichen coerulescens K.G. Hagen SPECIES
-=======
+# Lichen coerulescens K.G. Hagen SPECIES
 
 #### Status
 ACCEPTED

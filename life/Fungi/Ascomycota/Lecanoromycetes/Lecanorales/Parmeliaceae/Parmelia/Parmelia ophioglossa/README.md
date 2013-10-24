@@ -1,5 +1,4 @@
-Parmelia ophioglossa Taylor SPECIES
-=======
+# Parmelia ophioglossa Taylor SPECIES
 
 #### Status
 ACCEPTED

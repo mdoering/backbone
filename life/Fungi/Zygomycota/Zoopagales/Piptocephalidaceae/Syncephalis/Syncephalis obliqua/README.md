@@ -1,5 +1,4 @@
-Syncephalis obliqua H.M. Ho & Benny, 2008 SPECIES
-=======
+# Syncephalis obliqua H.M. Ho & Benny, 2008 SPECIES
 
 #### Status
 ACCEPTED

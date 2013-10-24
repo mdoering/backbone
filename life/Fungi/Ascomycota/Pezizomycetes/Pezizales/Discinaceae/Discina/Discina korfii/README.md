@@ -1,5 +1,4 @@
-Discina korfii Raitv. SPECIES
-=======
+# Discina korfii Raitv. SPECIES
 
 #### Status
 ACCEPTED

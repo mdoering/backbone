@@ -1,8 +1,7 @@
-Pleospora acori Oudem. & Destrée SPECIES
-=======
+# Pleospora berlesii Oudem., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Pleospora berlesii Oudem., 1897
 
 ### Remarks
 null

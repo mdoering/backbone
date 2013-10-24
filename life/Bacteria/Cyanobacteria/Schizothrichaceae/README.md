@@ -1,5 +1,4 @@
-Schizothrichaceae FAMILY
-=======
+# Schizothrichaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta patagonulae Tassi SPECIES
-=======
+# Phyllosticta patagonulae Tassi SPECIES
 
 #### Status
 ACCEPTED

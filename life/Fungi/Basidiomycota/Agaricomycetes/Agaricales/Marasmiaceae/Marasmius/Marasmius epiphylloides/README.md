@@ -1,17 +1,16 @@
-Marasmius epiphylloides var. epiphylloides VARIETY
-=======
+# Marasmius epiphylloides (Rea) Sacc. & Trotter, 1925 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 23: 145 (1925)
+in Bañares, Beltrán-Tejera & Rodriguez, Syll. fung. (Abellini) 23: 145 (1925)
 
 #### Original name
-Marasmius epiphylloides var. epiphylloides
+Androsaceus epiphylloides Rea, 1911
 
 ### Remarks
 null

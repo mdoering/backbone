@@ -1,14 +1,13 @@
-Chondrioderma lucidum (Berk. & Broome) Cooke, 1877 SPECIES
-=======
+# Diderma lucidum Berk. & Broome, 1861 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contr. Mycol. Brit. 42 (1877)
+Ann. Mag. nat. Hist. , Ser. 3 7: 380 (1861)
 
 #### Original name
 Diderma lucidum Berk. & Broome, 1861

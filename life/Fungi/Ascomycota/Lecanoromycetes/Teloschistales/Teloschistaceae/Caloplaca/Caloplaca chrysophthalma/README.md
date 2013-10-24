@@ -1,5 +1,4 @@
-Caloplaca chrysophthalma Degel. SPECIES
-=======
+# Caloplaca chrysophthalma Degel. SPECIES
 
 #### Status
 ACCEPTED

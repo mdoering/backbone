@@ -1,5 +1,4 @@
-Tulostoma desertorum Philimonova & Tartenova SPECIES
-=======
+# Tulostoma desertorum Philimonova & Tartenova SPECIES
 
 #### Status
 ACCEPTED

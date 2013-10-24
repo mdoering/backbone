@@ -1,5 +1,4 @@
-Torula plimmeri Weiss SPECIES
-=======
+# Torula plimmeri Weiss SPECIES
 
 #### Status
 ACCEPTED

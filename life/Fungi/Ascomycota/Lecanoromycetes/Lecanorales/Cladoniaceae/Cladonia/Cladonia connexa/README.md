@@ -1,5 +1,4 @@
-Cladonia connexa Vain. SPECIES
-=======
+# Cladonia connexa Vain. SPECIES
 
 #### Status
 ACCEPTED

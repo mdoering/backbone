@@ -1,5 +1,4 @@
-Disciseda circumscissa (Berk. & M.A. Curtis) Speg. SPECIES
-=======
+# Disciseda circumscissa (Berk. & M.A. Curtis) Speg. SPECIES
 
 #### Status
 ACCEPTED

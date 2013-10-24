@@ -1,8 +1,7 @@
-Dileptus armatus Foissner & Schade in Foissner, 2000 SPECIES
-=======
+# Rimaleptus armatus (Foissner & Schade in Foissner, 2000) Vdacny & Foissner, 2011 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

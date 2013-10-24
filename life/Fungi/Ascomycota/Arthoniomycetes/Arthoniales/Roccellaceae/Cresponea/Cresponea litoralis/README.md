@@ -1,5 +1,4 @@
-Cresponea litoralis Elix SPECIES
-=======
+# Cresponea litoralis Elix SPECIES
 
 #### Status
 ACCEPTED

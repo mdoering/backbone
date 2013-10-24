@@ -1,5 +1,4 @@
-Vorticella fcyphina SPECIES
-=======
+# Vorticella fcyphina SPECIES
 
 #### Status
 ACCEPTED

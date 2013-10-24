@@ -1,5 +1,4 @@
-Gliocephalotrichum J.J. Ellis & Hesselt. GENUS
-=======
+# Gliocephalotrichum J.J. Ellis & Hesselt. GENUS
 
 #### Status
 ACCEPTED

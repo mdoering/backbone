@@ -1,5 +1,4 @@
-Valsa modesta (Schwein.) Cooke SPECIES
-=======
+# Valsa modesta (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

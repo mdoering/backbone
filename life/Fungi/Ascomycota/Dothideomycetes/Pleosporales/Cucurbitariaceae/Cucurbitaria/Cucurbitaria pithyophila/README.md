@@ -1,5 +1,4 @@
-Cucurbitaria pithyophila SPECIES
-=======
+# Cucurbitaria pithyophila SPECIES
 
 #### Status
 ACCEPTED

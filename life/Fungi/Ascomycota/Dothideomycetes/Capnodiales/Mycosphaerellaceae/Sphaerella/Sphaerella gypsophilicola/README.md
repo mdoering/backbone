@@ -1,5 +1,4 @@
-Sphaerella gypsophilicola Hollós SPECIES
-=======
+# Sphaerella gypsophilicola Hollós SPECIES
 
 #### Status
 ACCEPTED

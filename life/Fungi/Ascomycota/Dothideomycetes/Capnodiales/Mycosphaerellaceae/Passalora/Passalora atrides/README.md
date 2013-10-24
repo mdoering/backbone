@@ -1,5 +1,4 @@
-Passalora atrides (Syd. & P. Syd.) Y.L. Guo SPECIES
-=======
+# Passalora atrides (Syd. & P. Syd.) Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

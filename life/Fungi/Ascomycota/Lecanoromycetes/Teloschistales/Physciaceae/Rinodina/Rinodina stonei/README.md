@@ -1,5 +1,4 @@
-Rinodina stonei (Ach.) Gray SPECIES
-=======
+# Rinodina stonei (Ach.) Gray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora viminei Tehon SPECIES
-=======
+# Cercospora viminei Tehon SPECIES
 
 #### Status
 ACCEPTED

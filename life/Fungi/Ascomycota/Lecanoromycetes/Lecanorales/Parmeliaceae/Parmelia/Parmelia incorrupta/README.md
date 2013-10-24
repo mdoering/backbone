@@ -1,5 +1,4 @@
-Parmelia incorrupta J.P. Moore SPECIES
-=======
+# Parmelia incorrupta J.P. Moore SPECIES
 
 #### Status
 ACCEPTED

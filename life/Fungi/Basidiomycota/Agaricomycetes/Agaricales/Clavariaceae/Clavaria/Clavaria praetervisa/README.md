@@ -1,5 +1,4 @@
-Clavaria praetervisa Britzelm. SPECIES
-=======
+# Clavaria praetervisa Britzelm. SPECIES
 
 #### Status
 ACCEPTED

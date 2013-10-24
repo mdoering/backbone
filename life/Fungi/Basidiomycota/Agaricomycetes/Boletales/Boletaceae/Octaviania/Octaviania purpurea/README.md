@@ -1,5 +1,4 @@
-Octaviania purpurea Coker & Couch SPECIES
-=======
+# Octaviania purpurea Coker & Couch SPECIES
 
 #### Status
 ACCEPTED

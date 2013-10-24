@@ -1,5 +1,4 @@
-Thraustochytrium kinnei A. Gaertn., 1967 SPECIES
-=======
+# Thraustochytrium kinnei A. Gaertn., 1967 SPECIES
 
 #### Status
 ACCEPTED

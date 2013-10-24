@@ -1,5 +1,4 @@
-Phomatosphaeropsis GENUS
-=======
+# Phomatosphaeropsis GENUS
 
 #### Status
 ACCEPTED

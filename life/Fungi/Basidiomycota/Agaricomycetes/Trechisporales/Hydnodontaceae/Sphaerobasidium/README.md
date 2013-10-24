@@ -1,5 +1,4 @@
-Sphaerobasidium Oberw. GENUS
-=======
+# Sphaerobasidium Oberw. GENUS
 
 #### Status
 ACCEPTED

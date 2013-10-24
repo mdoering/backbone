@@ -1,5 +1,4 @@
-Preussia americana (Griffiths) Guarro SPECIES
-=======
+# Preussia americana (Griffiths) Guarro SPECIES
 
 #### Status
 ACCEPTED

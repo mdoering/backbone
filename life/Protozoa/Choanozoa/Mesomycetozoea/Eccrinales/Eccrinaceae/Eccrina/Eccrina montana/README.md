@@ -1,5 +1,4 @@
-Eccrina montana Maessen SPECIES
-=======
+# Eccrina montana Maessen SPECIES
 
 #### Status
 ACCEPTED

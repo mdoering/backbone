@@ -1,5 +1,4 @@
-Bacidia praelucida (Kremp.) Zahlbr. SPECIES
-=======
+# Bacidia praelucida (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

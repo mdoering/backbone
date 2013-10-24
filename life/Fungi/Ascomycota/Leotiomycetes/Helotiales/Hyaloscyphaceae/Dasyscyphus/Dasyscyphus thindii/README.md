@@ -1,5 +1,4 @@
-Dasyscyphus thindii M.P. Sharma SPECIES
-=======
+# Dasyscyphus thindii M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

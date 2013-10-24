@@ -1,5 +1,4 @@
-Multiplicisphaeridium mingusi Le Hérissé, 1989 SPECIES
-=======
+# Multiplicisphaeridium mingusi Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

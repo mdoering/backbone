@@ -1,5 +1,4 @@
-Ceratosphaeria philippinarum Rehm SPECIES
-=======
+# Ceratosphaeria philippinarum Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe ketmiae (Ces.) Traverso SPECIES
-=======
+# Diaporthe ketmiae (Ces.) Traverso SPECIES
 
 #### Status
 ACCEPTED

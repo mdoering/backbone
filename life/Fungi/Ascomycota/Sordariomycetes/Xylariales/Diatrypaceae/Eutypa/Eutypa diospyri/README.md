@@ -1,5 +1,4 @@
-Eutypa diospyri R.C. Rajak, A.K. Pandey & G.P. Agarwal SPECIES
-=======
+# Eutypa diospyri R.C. Rajak, A.K. Pandey & G.P. Agarwal SPECIES
 
 #### Status
 ACCEPTED

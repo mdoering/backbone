@@ -1,5 +1,4 @@
-Pentafidia Backhouse, 1988 GENUS
-=======
+# Pentafidia Backhouse, 1988 GENUS
 
 #### Status
 ACCEPTED

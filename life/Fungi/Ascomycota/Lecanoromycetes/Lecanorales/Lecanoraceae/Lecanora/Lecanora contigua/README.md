@@ -1,5 +1,4 @@
-Lecanora contigua Lynge SPECIES
-=======
+# Lecanora contigua Lynge SPECIES
 
 #### Status
 ACCEPTED

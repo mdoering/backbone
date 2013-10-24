@@ -1,5 +1,4 @@
-Blastenia luteofulva Zahlbr. SPECIES
-=======
+# Blastenia luteofulva Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

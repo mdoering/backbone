@@ -1,5 +1,4 @@
-Rhodococcus yunnanensis Zhang et al., 2005 SPECIES
-=======
+# Rhodococcus yunnanensis Zhang et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

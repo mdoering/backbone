@@ -1,5 +1,4 @@
-Reophax enormis Hada, 1929 SPECIES
-=======
+# Reophax enormis Hada, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epicystis Pascher, 1930 GENUS
-=======
+# Epicystis Pascher, 1930 GENUS
 
 #### Status
 ACCEPTED

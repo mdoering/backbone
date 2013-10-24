@@ -1,5 +1,4 @@
-Pythium vanterpoolii V. Kouyeas & H. Kouyeas, 1963 SPECIES
-=======
+# Pythium vanterpoolii V. Kouyeas & H. Kouyeas, 1963 SPECIES
 
 #### Status
 ACCEPTED

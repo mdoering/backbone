@@ -1,5 +1,4 @@
-Dimerosporium tasmanicum Massee SPECIES
-=======
+# Dimerosporium tasmanicum Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoparmeliopsis admontensis (Th. Fr.) Hafellner SPECIES
-=======
+# Protoparmeliopsis admontensis (Th. Fr.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

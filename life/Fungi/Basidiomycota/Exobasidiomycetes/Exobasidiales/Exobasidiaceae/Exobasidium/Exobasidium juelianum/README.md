@@ -1,5 +1,4 @@
-Exobasidium juelianum Nannf., 1981 SPECIES
-=======
+# Exobasidium juelianum Nannf., 1981 SPECIES
 
 #### Status
 ACCEPTED

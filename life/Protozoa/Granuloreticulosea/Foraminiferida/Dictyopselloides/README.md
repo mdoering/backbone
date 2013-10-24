@@ -1,5 +1,4 @@
-Dictyopselloides Loeblich & Tappan, 1985 GENUS
-=======
+# Dictyopselloides Loeblich & Tappan, 1985 GENUS
 
 #### Status
 ACCEPTED

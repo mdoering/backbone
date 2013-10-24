@@ -1,17 +1,16 @@
-Micropeltis xanthoxyli Rehm SPECIES
-=======
+# Micropeltis zanthoxyli Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 39(4): 229 (1900)
 
 #### Original name
-Micropeltis xanthoxyli Rehm
+Micropeltis zanthoxyli Rehm
 
 ### Remarks
 null

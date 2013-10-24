@@ -1,14 +1,13 @@
-Sciniatosporium kosaroffi (Briosi) Morgan-Jones SPECIES
-=======
+# Sciniatosporium kosaroffii (Briosi) Morgan-Jones SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 49(6): 998 (1971)
 
 #### Original name
 Stegonsporium kosaroffii Turconi & Maffei

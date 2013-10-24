@@ -1,5 +1,4 @@
-Didymella pleosporae Petr. SPECIES
-=======
+# Didymella pleosporae Petr. SPECIES
 
 #### Status
 ACCEPTED

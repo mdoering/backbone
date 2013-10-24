@@ -1,5 +1,4 @@
-Fasciatispora ujungkuloniensis Hidayat & K.D. Hyde SPECIES
-=======
+# Fasciatispora ujungkuloniensis Hidayat & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

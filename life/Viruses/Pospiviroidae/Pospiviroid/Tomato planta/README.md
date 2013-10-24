@@ -1,5 +1,4 @@
-Tomato planta SPECIES
-=======
+# Tomato planta SPECIES
 
 #### Status
 ACCEPTED

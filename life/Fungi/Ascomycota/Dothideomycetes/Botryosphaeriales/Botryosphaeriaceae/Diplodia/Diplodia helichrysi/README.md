@@ -1,5 +1,4 @@
-Diplodia helichrysi Pass. SPECIES
-=======
+# Diplodia helichrysi Pass. SPECIES
 
 #### Status
 ACCEPTED

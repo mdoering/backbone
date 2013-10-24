@@ -1,5 +1,4 @@
-Aecidium ilicinum Ellis & Everh. SPECIES
-=======
+# Aecidium ilicinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

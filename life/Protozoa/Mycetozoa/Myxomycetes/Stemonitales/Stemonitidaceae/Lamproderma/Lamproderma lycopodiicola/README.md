@@ -1,5 +1,4 @@
-Lamproderma lycopodiicola Kuhnt, 2011 SPECIES
-=======
+# Lamproderma lycopodiicola Kuhnt, 2011 SPECIES
 
 #### Status
 ACCEPTED

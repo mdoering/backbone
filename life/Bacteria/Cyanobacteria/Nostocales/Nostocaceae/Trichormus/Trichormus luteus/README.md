@@ -1,5 +1,4 @@
-Trichormus luteus (Gardner) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus luteus (Gardner) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

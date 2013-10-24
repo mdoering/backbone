@@ -1,5 +1,4 @@
-Cryptodiaporthe racemula (Cooke & Peck) M. Monod SPECIES
-=======
+# Cryptodiaporthe racemula (Cooke & Peck) M. Monod SPECIES
 
 #### Status
 ACCEPTED

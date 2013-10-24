@@ -1,5 +1,4 @@
-Meliola agathidis J.P. Ellis SPECIES
-=======
+# Meliola agathidis J.P. Ellis SPECIES
 
 #### Status
 ACCEPTED

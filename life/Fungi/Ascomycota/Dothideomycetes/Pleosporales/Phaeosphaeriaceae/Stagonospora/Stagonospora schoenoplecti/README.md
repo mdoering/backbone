@@ -1,5 +1,4 @@
-Stagonospora schoenoplecti Dudka SPECIES
-=======
+# Stagonospora schoenoplecti Dudka SPECIES
 
 #### Status
 ACCEPTED

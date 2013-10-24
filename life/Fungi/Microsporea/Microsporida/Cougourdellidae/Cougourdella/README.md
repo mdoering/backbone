@@ -1,5 +1,4 @@
-Cougourdella E. Hesse GENUS
-=======
+# Cougourdella E. Hesse GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria umbrina (Ehrh.) Wallr. SPECIES
-=======
+# Patellaria umbrina (Ehrh.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochromonas crenata Klebs SPECIES
-=======
+# Ochromonas crenata Klebs SPECIES
 
 #### Status
 ACCEPTED

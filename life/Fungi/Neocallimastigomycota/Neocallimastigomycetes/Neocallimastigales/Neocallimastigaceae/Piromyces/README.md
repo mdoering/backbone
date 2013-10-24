@@ -1,5 +1,4 @@
-Piromyces J.J. Gold, I.B. Heath & Bauchop GENUS
-=======
+# Piromyces J.J. Gold, I.B. Heath & Bauchop GENUS
 
 #### Status
 ACCEPTED

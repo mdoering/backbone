@@ -1,5 +1,4 @@
-Spilosphaerites stilbosporoides C. Massal. SPECIES
-=======
+# Spilosphaerites stilbosporoides C. Massal. SPECIES
 
 #### Status
 ACCEPTED

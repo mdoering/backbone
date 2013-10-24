@@ -1,5 +1,4 @@
-Rutstroemia dabaensis W.Y. Zhuang SPECIES
-=======
+# Rutstroemia dabaensis W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

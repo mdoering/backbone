@@ -1,8 +1,7 @@
-Synedra provincialis Grunow SPECIES
-=======
+# Neosynedra provincialis (Grunow) D.M. Williams & F.E. Round SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

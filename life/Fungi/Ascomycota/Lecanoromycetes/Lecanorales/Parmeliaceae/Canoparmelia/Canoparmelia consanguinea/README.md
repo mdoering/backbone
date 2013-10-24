@@ -1,5 +1,4 @@
-Canoparmelia consanguinea Marcelli, Canêz & Elix SPECIES
-=======
+# Canoparmelia consanguinea Marcelli, Canêz & Elix SPECIES
 
 #### Status
 ACCEPTED

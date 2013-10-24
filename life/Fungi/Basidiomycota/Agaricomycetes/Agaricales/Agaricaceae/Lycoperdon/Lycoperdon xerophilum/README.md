@@ -1,5 +1,4 @@
-Lycoperdon xerophilum Velen. SPECIES
-=======
+# Lycoperdon xerophilum Velen. SPECIES
 
 #### Status
 ACCEPTED

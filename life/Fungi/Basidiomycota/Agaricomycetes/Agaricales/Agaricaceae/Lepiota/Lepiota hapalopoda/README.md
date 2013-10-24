@@ -1,5 +1,4 @@
-Lepiota hapalopoda (Kalchbr.) P. Karst. SPECIES
-=======
+# Lepiota hapalopoda (Kalchbr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

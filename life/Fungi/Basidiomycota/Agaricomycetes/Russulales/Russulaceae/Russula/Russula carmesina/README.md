@@ -1,5 +1,4 @@
-Russula carmesina var. carmesina VARIETY
-=======
+# Russula carmesina R. Heim SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 34(4): 347 (1970)
 
 #### Original name
-Russula carmesina var. carmesina
+Russula carmesina R. Heim
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mucor herbariorum Röhl. SPECIES
-=======
+# Mucor herbariorum Röhl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanopus melanopus (Sw.) Bourdot & Galzin SPECIES
-=======
+# Melanopus melanopus (Sw.) Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

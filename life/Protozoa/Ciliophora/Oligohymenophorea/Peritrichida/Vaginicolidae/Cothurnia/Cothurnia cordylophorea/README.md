@@ -1,5 +1,4 @@
-Cothurnia cordylophorea Kahl, 1933 SPECIES
-=======
+# Cothurnia cordylophorea Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

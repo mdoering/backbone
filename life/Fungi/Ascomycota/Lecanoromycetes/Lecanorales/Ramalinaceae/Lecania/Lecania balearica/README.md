@@ -1,5 +1,4 @@
-Lecania balearica Maheu & A. Gillet SPECIES
-=======
+# Lecania balearica Maheu & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

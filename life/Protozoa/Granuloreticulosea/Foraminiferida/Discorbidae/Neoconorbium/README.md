@@ -1,5 +1,4 @@
-Neoconorbium GENUS
-=======
+# Neoconorbium GENUS
 
 #### Status
 ACCEPTED

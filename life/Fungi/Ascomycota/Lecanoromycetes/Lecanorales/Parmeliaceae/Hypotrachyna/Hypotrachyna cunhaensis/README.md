@@ -1,5 +1,4 @@
-Hypotrachyna cunhaensis Elix, T. H. Nash & Sipman SPECIES
-=======
+# Hypotrachyna cunhaensis Elix, T. H. Nash & Sipman SPECIES
 
 #### Status
 ACCEPTED

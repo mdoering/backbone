@@ -1,5 +1,4 @@
-Thelotrema quitoënse Fée SPECIES
-=======
+# Thelotrema quitoënse Fée SPECIES
 
 #### Status
 ACCEPTED

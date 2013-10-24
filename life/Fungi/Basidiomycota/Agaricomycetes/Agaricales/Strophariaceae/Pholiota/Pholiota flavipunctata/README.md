@@ -1,5 +1,4 @@
-Pholiota flavipunctata (Speg.) Speg. SPECIES
-=======
+# Pholiota flavipunctata (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma solmsii (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma solmsii (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

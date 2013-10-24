@@ -1,5 +1,4 @@
-Marasmius rufomarginatus Singer SPECIES
-=======
+# Marasmius rufomarginatus Singer SPECIES
 
 #### Status
 ACCEPTED

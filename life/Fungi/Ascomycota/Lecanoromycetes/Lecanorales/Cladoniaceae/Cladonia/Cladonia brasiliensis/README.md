@@ -1,8 +1,7 @@
-Cladonia corallifera var. gracilescens Vain. VARIETY
-=======
+# Cladonia brasiliensis (Nyl.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Cladonia substraminea var. brasiliensis Nyl.
 
 ### Remarks
 null

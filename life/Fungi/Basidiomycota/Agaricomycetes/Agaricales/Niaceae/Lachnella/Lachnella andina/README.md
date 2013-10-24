@@ -1,5 +1,4 @@
-Lachnella andina Speg. SPECIES
-=======
+# Lachnella andina Speg. SPECIES
 
 #### Status
 ACCEPTED

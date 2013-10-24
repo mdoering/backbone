@@ -1,5 +1,4 @@
-Echinophrya Swarczewski, 1928 GENUS
-=======
+# Echinophrya Swarczewski, 1928 GENUS
 
 #### Status
 ACCEPTED

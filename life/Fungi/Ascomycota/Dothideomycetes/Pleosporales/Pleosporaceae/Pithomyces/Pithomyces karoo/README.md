@@ -1,5 +1,4 @@
-Pithomyces karoo Marasas & I.H. Schum., 1972 SPECIES
-=======
+# Pithomyces karoo Marasas & I.H. Schum., 1972 SPECIES
 
 #### Status
 ACCEPTED

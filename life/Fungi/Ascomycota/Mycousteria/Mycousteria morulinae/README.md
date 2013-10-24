@@ -1,14 +1,13 @@
-Usteria morulinae Bat. & H. Maia, 1962 SPECIES
-=======
+# Mycousteria morulinae (Bat. & H. Maia) M.L. Farr, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anais Soc. Bot. Brasil 2: 358 (1962)
+Mycologia 78(2): 280 (1986)
 
 #### Original name
 Usteria morulinae Bat. & H. Maia, 1962

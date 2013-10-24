@@ -1,5 +1,4 @@
-Trametes micans (Ehrenb.) Bres. SPECIES
-=======
+# Trametes micans (Ehrenb.) Bres. SPECIES
 
 #### Status
 ACCEPTED

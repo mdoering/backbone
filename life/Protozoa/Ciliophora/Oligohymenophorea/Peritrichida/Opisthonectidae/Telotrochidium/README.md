@@ -1,5 +1,4 @@
-Telotrochidium Kent, 1881 GENUS
-=======
+# Telotrochidium Kent, 1881 GENUS
 
 #### Status
 ACCEPTED

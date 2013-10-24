@@ -1,5 +1,4 @@
-Verrucaria sorbicola Servít SPECIES
-=======
+# Verrucaria sorbicola Servít SPECIES
 
 #### Status
 ACCEPTED

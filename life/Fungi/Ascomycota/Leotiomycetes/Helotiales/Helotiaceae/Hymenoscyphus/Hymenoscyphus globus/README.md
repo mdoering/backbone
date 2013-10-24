@@ -1,5 +1,4 @@
-Hymenoscyphus globus W.Y. Zhuang & Yan H. Zhang SPECIES
-=======
+# Hymenoscyphus globus W.Y. Zhuang & Yan H. Zhang SPECIES
 
 #### Status
 ACCEPTED

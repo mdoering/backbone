@@ -1,5 +1,4 @@
-Diatrype urticaria (Mont.) Rappaz SPECIES
-=======
+# Diatrype urticaria (Mont.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

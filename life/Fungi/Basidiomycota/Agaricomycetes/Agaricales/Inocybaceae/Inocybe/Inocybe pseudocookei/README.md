@@ -1,5 +1,4 @@
-Inocybe pseudocookei Métrod ex Bon SPECIES
-=======
+# Inocybe pseudocookei Métrod ex Bon SPECIES
 
 #### Status
 ACCEPTED

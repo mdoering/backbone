@@ -1,5 +1,4 @@
-Hypochnus rhacodium Berk. & M.A. Curtis ex Burt SPECIES
-=======
+# Hypochnus rhacodium Berk. & M.A. Curtis ex Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphiloma eudoxum Müll. Arg. SPECIES
-=======
+# Amphiloma eudoxum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

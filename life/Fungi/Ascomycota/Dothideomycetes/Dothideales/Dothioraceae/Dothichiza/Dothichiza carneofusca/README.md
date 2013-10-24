@@ -1,5 +1,4 @@
-Dothichiza carneofusca Höhn. SPECIES
-=======
+# Dothichiza carneofusca Höhn. SPECIES
 
 #### Status
 ACCEPTED

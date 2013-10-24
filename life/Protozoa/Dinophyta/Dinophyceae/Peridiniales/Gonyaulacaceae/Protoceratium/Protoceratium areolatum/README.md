@@ -1,5 +1,4 @@
-Protoceratium areolatum Kofoid SPECIES
-=======
+# Protoceratium areolatum Kofoid SPECIES
 
 #### Status
 ACCEPTED

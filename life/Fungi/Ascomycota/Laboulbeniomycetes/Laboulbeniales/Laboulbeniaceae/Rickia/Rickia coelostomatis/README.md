@@ -1,5 +1,4 @@
-Rickia coelostomatis Thaxt. SPECIES
-=======
+# Rickia coelostomatis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

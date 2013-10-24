@@ -1,5 +1,4 @@
-Meliola helleri Earle SPECIES
-=======
+# Meliola helleri Earle SPECIES
 
 #### Status
 ACCEPTED

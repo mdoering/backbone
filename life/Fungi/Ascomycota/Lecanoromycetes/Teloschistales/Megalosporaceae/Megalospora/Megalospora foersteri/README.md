@@ -1,5 +1,4 @@
-Megalospora foersteri Kalb SPECIES
-=======
+# Megalospora foersteri Kalb SPECIES
 
 #### Status
 ACCEPTED

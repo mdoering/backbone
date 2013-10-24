@@ -1,5 +1,4 @@
-Coniozyma leucospermi (Crous & Denman) Crous SPECIES
-=======
+# Coniozyma leucospermi (Crous & Denman) Crous SPECIES
 
 #### Status
 ACCEPTED

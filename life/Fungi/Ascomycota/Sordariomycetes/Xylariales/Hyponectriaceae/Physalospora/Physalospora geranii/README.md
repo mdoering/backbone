@@ -1,5 +1,4 @@
-Physalospora geranii Cooke & Harkn. SPECIES
-=======
+# Physalospora geranii Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

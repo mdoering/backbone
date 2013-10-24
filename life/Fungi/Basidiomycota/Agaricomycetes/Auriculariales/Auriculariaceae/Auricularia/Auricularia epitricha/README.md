@@ -1,5 +1,4 @@
-Auricularia epitricha Berk. SPECIES
-=======
+# Auricularia epitricha Berk. SPECIES
 
 #### Status
 ACCEPTED

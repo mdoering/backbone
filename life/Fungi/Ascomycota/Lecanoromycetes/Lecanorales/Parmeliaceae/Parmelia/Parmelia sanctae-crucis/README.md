@@ -1,5 +1,4 @@
-Parmelia sanctae-crucis Vain. SPECIES
-=======
+# Parmelia sanctae-crucis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella tortulae Bubák & Gonz. Frag. SPECIES
-=======
+# Sphaerella tortulae Bubák & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

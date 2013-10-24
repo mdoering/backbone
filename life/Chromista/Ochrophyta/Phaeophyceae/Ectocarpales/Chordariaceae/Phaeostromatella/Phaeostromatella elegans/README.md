@@ -1,5 +1,4 @@
-Phaeostromatella elegans P. Dangeard SPECIES
-=======
+# Phaeostromatella elegans P. Dangeard SPECIES
 
 #### Status
 ACCEPTED

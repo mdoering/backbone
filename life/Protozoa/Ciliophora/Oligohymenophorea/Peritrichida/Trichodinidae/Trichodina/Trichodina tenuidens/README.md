@@ -1,5 +1,4 @@
-Trichodina tenuidens Fauré-Fremiet, 1943 SPECIES
-=======
+# Trichodina tenuidens Fauré-Fremiet, 1943 SPECIES
 
 #### Status
 ACCEPTED

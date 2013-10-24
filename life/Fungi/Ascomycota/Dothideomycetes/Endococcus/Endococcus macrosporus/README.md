@@ -1,17 +1,16 @@
-Mycoporum macrosporum (Hepp ex Arnold) Jatta, 1930 SPECIES
-=======
+# Endococcus macrosporus (Hepp ex Arnold) Nyl., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. bot. Fr. 25: 504 (1878)
 
 #### Original name
-null
+Tichothecium macrosporum Hepp ex Arnold, 1871
 
 ### Remarks
 null

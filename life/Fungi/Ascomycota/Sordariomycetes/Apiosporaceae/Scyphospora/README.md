@@ -1,5 +1,4 @@
-Scyphospora L.A. Kantsch. GENUS
-=======
+# Scyphospora L.A. Kantsch. GENUS
 
 #### Status
 ACCEPTED

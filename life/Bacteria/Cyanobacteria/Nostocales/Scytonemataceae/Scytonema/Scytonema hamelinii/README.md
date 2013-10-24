@@ -1,5 +1,4 @@
-Scytonema hamelinii Gebelein SPECIES
-=======
+# Scytonema hamelinii Gebelein SPECIES
 
 #### Status
 ACCEPTED

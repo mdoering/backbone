@@ -1,5 +1,4 @@
-Lecanora comminuta Taylor SPECIES
-=======
+# Lecanora comminuta Taylor SPECIES
 
 #### Status
 ACCEPTED

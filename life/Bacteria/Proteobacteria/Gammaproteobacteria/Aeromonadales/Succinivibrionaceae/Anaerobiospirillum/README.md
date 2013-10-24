@@ -1,5 +1,4 @@
-Anaerobiospirillum Davis, Cleven, Brown & Balish, 1976 GENUS
-=======
+# Anaerobiospirillum Davis, Cleven, Brown & Balish, 1976 GENUS
 
 #### Status
 ACCEPTED

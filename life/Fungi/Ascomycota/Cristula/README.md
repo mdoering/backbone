@@ -1,5 +1,4 @@
-Cristula Chenantais, 1920 GENUS
-=======
+# Cristula Chenantais, 1920 GENUS
 
 #### Status
 ACCEPTED

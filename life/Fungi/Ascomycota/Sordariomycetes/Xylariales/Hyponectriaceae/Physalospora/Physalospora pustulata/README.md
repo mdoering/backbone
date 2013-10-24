@@ -1,5 +1,4 @@
-Physalospora pustulata (Sacc.) Sacc. SPECIES
-=======
+# Physalospora pustulata (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

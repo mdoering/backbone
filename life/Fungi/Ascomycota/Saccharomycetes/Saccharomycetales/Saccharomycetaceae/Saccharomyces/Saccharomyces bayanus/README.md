@@ -1,17 +1,16 @@
-Saccharomyces abuliensis Santa María SPECIES
-=======
+# Saccharomyces bayanus Sacc., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 11: 457 (1895)
 
 #### Original name
-null
+Saccharomyces bayanus Sacc., 1895
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arthopyrenia ramalinae Müll. Arg. SPECIES
-=======
+# Arthopyrenia ramalinae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

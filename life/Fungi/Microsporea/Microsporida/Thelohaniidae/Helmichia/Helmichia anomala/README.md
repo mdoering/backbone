@@ -1,5 +1,4 @@
-Helmichia anomala M.?. Ovcharenko & I. Wita SPECIES
-=======
+# Helmichia anomala M.?. Ovcharenko & I. Wita SPECIES
 
 #### Status
 ACCEPTED

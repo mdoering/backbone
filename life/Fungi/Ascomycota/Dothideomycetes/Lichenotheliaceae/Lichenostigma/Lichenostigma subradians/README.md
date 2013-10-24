@@ -1,5 +1,4 @@
-Lichenostigma subradians Hafellner, Calat. & Nav.-Ros. SPECIES
-=======
+# Lichenostigma subradians Hafellner, Calat. & Nav.-Ros. SPECIES
 
 #### Status
 ACCEPTED

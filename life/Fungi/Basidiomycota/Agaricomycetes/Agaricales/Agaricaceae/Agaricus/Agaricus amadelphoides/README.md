@@ -1,5 +1,4 @@
-Agaricus amadelphoides Schulzer SPECIES
-=======
+# Agaricus amadelphoides Schulzer SPECIES
 
 #### Status
 ACCEPTED

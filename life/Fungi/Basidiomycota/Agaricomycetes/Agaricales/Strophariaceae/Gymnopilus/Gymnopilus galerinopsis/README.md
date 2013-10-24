@@ -1,5 +1,4 @@
-Gymnopilus galerinopsis Guzm.-Dáv. SPECIES
-=======
+# Gymnopilus galerinopsis Guzm.-Dáv. SPECIES
 
 #### Status
 ACCEPTED

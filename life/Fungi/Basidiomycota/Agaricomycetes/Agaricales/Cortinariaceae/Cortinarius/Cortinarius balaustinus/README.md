@@ -1,5 +1,4 @@
-Cortinarius balaustinus Fr., 1838 SPECIES
-=======
+# Cortinarius balaustinus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED

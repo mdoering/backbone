@@ -1,8 +1,7 @@
-Biloculina vespertilio Schlumberger, 1891 SPECIES
-=======
+# Sigmopyrgo vespertilio (Sclumberger, 1891) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

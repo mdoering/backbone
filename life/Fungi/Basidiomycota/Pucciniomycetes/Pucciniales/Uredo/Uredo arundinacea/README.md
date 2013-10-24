@@ -1,5 +1,4 @@
-Uredo arundinacea Houel {?} SPECIES
-=======
+# Uredo arundinacea Houel {?} SPECIES
 
 #### Status
 ACCEPTED

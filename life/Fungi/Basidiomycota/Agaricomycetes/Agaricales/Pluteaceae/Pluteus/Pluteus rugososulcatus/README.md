@@ -1,5 +1,4 @@
-Pluteus rugososulcatus Singer SPECIES
-=======
+# Pluteus rugososulcatus Singer SPECIES
 
 #### Status
 ACCEPTED

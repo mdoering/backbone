@@ -1,5 +1,4 @@
-Otidea pusilla Rahm SPECIES
-=======
+# Otidea pusilla Rahm SPECIES
 
 #### Status
 ACCEPTED

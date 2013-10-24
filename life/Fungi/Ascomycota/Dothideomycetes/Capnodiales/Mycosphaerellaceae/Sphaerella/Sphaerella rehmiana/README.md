@@ -1,5 +1,4 @@
-Sphaerella rehmiana (Jaap) Sacc. SPECIES
-=======
+# Sphaerella rehmiana (Jaap) Sacc. SPECIES
 
 #### Status
 ACCEPTED

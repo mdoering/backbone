@@ -1,8 +1,7 @@
-Agarum clathrus (S.G. Gmelin) Greville SPECIES
-=======
+# Thalassiophyllum clathrum (S.G. Gmelin) Postels & Ruprecht SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

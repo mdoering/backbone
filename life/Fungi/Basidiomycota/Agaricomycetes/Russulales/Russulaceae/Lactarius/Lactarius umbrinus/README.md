@@ -1,5 +1,4 @@
-Lactarius umbrinus (Paulet) Fr. SPECIES
-=======
+# Lactarius umbrinus (Paulet) Fr. SPECIES
 
 #### Status
 ACCEPTED

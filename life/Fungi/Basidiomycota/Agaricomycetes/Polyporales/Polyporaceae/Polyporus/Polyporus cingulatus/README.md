@@ -1,5 +1,4 @@
-Polyporus cingulatus Fr. SPECIES
-=======
+# Polyporus cingulatus Fr. SPECIES
 
 #### Status
 ACCEPTED

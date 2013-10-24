@@ -1,5 +1,4 @@
-Chlamydobacteriaceae FAMILY
-=======
+# Chlamydobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

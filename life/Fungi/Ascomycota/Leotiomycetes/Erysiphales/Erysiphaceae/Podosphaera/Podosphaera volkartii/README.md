@@ -1,14 +1,13 @@
-Sphaerotheca volkartii S. Blumer, 1933 SPECIES
-=======
+# Podosphaera volkartii (S. Blumer) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 7(no. 1): 115 (1933)
+Schlechtendalia 4: 31 (2000)
 
 #### Original name
 Sphaerotheca volkartii S. Blumer, 1933

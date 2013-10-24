@@ -1,5 +1,4 @@
-Lecidea caesioalbescens SPECIES
-=======
+# Lecidea caesioalbescens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciboria hedwigiae (Kirschst.) Sacc. & Trotter SPECIES
-=======
+# Ciboria hedwigiae (Kirschst.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

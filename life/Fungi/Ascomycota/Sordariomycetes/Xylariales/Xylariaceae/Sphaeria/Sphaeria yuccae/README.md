@@ -1,5 +1,4 @@
-Sphaeria yuccae Schwein. SPECIES
-=======
+# Sphaeria yuccae Schwein. SPECIES
 
 #### Status
 ACCEPTED

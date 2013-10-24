@@ -1,5 +1,4 @@
-Prillieuxina anamirtae (Syd. & P. Syd.) R.W. Ryan SPECIES
-=======
+# Prillieuxina anamirtae (Syd. & P. Syd.) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

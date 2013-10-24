@@ -1,5 +1,4 @@
-Leucopaxillus pulcherrimus (Peck) Singer & A.H. Sm. SPECIES
-=======
+# Leucopaxillus pulcherrimus (Peck) Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

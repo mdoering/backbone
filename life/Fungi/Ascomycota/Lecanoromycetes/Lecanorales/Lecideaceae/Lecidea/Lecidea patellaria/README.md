@@ -1,5 +1,4 @@
-Lecidea patellaria Stizenb. SPECIES
-=======
+# Lecidea patellaria Stizenb. SPECIES
 
 #### Status
 ACCEPTED

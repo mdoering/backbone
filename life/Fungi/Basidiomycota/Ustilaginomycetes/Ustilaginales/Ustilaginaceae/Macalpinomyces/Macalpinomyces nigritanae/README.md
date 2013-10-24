@@ -1,5 +1,4 @@
-Macalpinomyces nigritanae Vánky, 1997 SPECIES
-=======
+# Macalpinomyces nigritanae Vánky, 1997 SPECIES
 
 #### Status
 ACCEPTED

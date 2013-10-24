@@ -1,5 +1,4 @@
-Discoaster nonaradiatus Klumpp, 1953 SPECIES
-=======
+# Discoaster nonaradiatus Klumpp, 1953 SPECIES
 
 #### Status
 ACCEPTED

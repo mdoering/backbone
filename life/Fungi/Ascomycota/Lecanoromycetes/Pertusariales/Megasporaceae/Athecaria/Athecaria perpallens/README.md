@@ -1,5 +1,4 @@
-Athecaria perpallens Nyl. SPECIES
-=======
+# Athecaria perpallens Nyl. SPECIES
 
 #### Status
 ACCEPTED

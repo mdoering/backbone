@@ -1,5 +1,4 @@
-Parmelia transtagatana (Harm.) Welwitsch SPECIES
-=======
+# Parmelia transtagatana (Harm.) Welwitsch SPECIES
 
 #### Status
 ACCEPTED

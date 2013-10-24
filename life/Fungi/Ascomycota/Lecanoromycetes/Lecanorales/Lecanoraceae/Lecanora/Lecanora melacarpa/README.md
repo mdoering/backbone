@@ -1,5 +1,4 @@
-Lecanora melacarpa (Nyl.) Nyl. SPECIES
-=======
+# Lecanora melacarpa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

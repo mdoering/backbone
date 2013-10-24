@@ -1,5 +1,4 @@
-Parmelia longiconida Lynge SPECIES
-=======
+# Parmelia longiconida Lynge SPECIES
 
 #### Status
 ACCEPTED

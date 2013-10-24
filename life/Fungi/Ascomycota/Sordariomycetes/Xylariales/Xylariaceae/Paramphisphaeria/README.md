@@ -1,5 +1,4 @@
-Paramphisphaeria F.A. Fern., J.D. Rogers, Y.M. Ju, Huhndorf & L. Umaña GENUS
-=======
+# Paramphisphaeria F.A. Fern., J.D. Rogers, Y.M. Ju, Huhndorf & L. Umaña GENUS
 
 #### Status
 ACCEPTED

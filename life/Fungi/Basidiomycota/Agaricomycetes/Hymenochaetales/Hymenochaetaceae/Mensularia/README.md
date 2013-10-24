@@ -1,5 +1,4 @@
-Mensularia GENUS
-=======
+# Mensularia GENUS
 
 #### Status
 ACCEPTED

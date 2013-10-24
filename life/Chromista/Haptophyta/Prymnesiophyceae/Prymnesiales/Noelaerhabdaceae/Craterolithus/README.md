@@ -1,5 +1,4 @@
-Craterolithus Firth, 1988 GENUS
-=======
+# Craterolithus Firth, 1988 GENUS
 
 #### Status
 ACCEPTED

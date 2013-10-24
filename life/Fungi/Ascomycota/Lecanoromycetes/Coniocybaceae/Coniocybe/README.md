@@ -1,5 +1,4 @@
-Coniocybe Ach. GENUS
-=======
+# Coniocybe Ach. GENUS
 
 #### Status
 ACCEPTED

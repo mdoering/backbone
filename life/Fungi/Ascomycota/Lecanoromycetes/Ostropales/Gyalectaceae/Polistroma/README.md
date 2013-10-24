@@ -1,17 +1,16 @@
-Ozocladium Mont. GENUS
-=======
+# Polistroma Clemente GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 16: 63 (1851)
+Ensayo Varied. Vid Comun Andalusia 299 (1807)
 
 #### Original name
-Ozocladium Mont.
+Polistroma Clemente
 
 ### Remarks
 null

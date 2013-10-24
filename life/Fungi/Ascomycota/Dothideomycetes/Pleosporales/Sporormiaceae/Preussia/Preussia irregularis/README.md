@@ -1,5 +1,4 @@
-Preussia irregularis (I. Egeland) Soláns SPECIES
-=======
+# Preussia irregularis (I. Egeland) Soláns SPECIES
 
 #### Status
 ACCEPTED

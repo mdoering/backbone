@@ -1,17 +1,16 @@
-Gyrophora decussata f. decussata FORM
-=======
+# Gyrophora decussata SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Gyrophora decussata f. decussata
+null
 
 ### Remarks
 null

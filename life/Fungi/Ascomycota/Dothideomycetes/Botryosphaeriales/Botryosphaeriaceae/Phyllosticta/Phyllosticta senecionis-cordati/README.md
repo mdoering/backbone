@@ -1,5 +1,4 @@
-Phyllosticta senecionis-cordati Allesch. SPECIES
-=======
+# Phyllosticta senecionis-cordati Allesch. SPECIES
 
 #### Status
 ACCEPTED

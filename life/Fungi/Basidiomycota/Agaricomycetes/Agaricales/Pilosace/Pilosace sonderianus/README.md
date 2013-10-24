@@ -1,5 +1,4 @@
-Pilosace sonderianus (Berk.) Kuntze SPECIES
-=======
+# Pilosace sonderianus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

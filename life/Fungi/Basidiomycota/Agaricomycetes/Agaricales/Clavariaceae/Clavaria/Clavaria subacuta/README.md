@@ -1,5 +1,4 @@
-Clavaria subacuta S. Ito & S. Imai, 1937 SPECIES
-=======
+# Clavaria subacuta S. Ito & S. Imai, 1937 SPECIES
 
 #### Status
 ACCEPTED

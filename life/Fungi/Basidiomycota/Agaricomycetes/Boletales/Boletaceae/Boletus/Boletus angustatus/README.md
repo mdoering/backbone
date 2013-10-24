@@ -1,5 +1,4 @@
-Boletus angustatus Sowerby SPECIES
-=======
+# Boletus angustatus Sowerby SPECIES
 
 #### Status
 ACCEPTED

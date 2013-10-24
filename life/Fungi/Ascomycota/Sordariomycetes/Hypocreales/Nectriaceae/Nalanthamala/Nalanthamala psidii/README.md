@@ -1,5 +1,4 @@
-Nalanthamala psidii (Sawada & Kuros.) Schroers & M.J. Wingf. SPECIES
-=======
+# Nalanthamala psidii (Sawada & Kuros.) Schroers & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

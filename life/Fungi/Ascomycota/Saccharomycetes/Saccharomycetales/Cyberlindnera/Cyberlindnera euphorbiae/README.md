@@ -1,8 +1,7 @@
-Lindnera euphorbiae (Van der Walt & Opperman) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Cyberlindnera euphorbiae (Van der Walt & A. Opperman) Minter, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Pichia euphorbiae Van der Walt & A. Opperman, 1983
 
 ### Remarks
 null

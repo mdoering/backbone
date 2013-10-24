@@ -1,5 +1,4 @@
-Amphirrhopoma Haeckel, 1887 GENUS
-=======
+# Amphirrhopoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

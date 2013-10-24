@@ -1,5 +1,4 @@
-Triposolenia depressa Kofoid SPECIES
-=======
+# Triposolenia depressa Kofoid SPECIES
 
 #### Status
 ACCEPTED

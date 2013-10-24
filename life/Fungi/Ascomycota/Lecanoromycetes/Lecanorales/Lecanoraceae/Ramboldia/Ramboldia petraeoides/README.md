@@ -1,17 +1,16 @@
-Lecidea aspidula var. aspidula VARIETY
-=======
+# Ramboldia petraeoides (Nyl. ex C. Bab. & Mitt.) Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 30: 341 (1880)
+Bryologist 97(3): 298 (1994)
 
 #### Original name
-Lecidea aspidula var. aspidula
+Lecidea petraeoides Nyl. ex C. Bab. & Mitt.
 
 ### Remarks
 null

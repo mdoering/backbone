@@ -1,5 +1,4 @@
-Squamanita umbilicata Harmaja SPECIES
-=======
+# Squamanita umbilicata Harmaja SPECIES
 
 #### Status
 ACCEPTED

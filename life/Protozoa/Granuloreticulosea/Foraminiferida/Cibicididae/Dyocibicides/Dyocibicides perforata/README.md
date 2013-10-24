@@ -1,5 +1,4 @@
-Dyocibicides perforata Cushman & Valentine, 1930 SPECIES
-=======
+# Dyocibicides perforata Cushman & Valentine, 1930 SPECIES
 
 #### Status
 ACCEPTED

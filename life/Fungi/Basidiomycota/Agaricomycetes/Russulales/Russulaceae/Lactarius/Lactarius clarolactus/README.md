@@ -1,5 +1,4 @@
-Lactarius clarolactus Longyear SPECIES
-=======
+# Lactarius clarolactus Longyear SPECIES
 
 #### Status
 ACCEPTED

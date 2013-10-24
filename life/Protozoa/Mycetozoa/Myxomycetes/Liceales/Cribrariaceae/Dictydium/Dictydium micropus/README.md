@@ -1,5 +1,4 @@
-Dictydium micropus Fr. SPECIES
-=======
+# Dictydium micropus Fr. SPECIES
 
 #### Status
 ACCEPTED

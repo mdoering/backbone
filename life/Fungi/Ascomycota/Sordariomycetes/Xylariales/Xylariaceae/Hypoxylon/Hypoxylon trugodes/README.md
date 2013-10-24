@@ -1,5 +1,4 @@
-Hypoxylon trugodes Berk. & Broome, 1875 SPECIES
-=======
+# Hypoxylon trugodes Berk. & Broome, 1875 SPECIES
 
 #### Status
 ACCEPTED

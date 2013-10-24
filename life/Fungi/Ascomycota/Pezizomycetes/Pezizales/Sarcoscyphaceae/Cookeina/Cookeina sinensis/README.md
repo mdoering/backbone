@@ -1,5 +1,4 @@
-Cookeina sinensis Zheng Wang SPECIES
-=======
+# Cookeina sinensis Zheng Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calonectria ulicis (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Calonectria ulicis (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

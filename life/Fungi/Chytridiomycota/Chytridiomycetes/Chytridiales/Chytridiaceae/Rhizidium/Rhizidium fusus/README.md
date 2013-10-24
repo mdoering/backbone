@@ -1,5 +1,4 @@
-Rhizidium fusus Zopf SPECIES
-=======
+# Rhizidium fusus Zopf SPECIES
 
 #### Status
 ACCEPTED

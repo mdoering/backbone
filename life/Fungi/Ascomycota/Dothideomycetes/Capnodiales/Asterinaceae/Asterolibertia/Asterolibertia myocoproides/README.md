@@ -1,5 +1,4 @@
-Asterolibertia myocoproides var. myocoproides VARIETY
-=======
+# Asterolibertia myocoproides (Sacc. & Berl.) Arx SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 11(2): 100 (1962)
 
 #### Original name
-Asterolibertia myocoproides var. myocoproides
+Asterina myocoproides Sacc. & Berl.
 
 ### Remarks
 null

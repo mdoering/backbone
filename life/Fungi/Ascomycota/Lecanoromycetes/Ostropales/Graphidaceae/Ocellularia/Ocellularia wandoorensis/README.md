@@ -1,5 +1,4 @@
-Ocellularia wandoorensis Nagarkar, Sethy & Patw. SPECIES
-=======
+# Ocellularia wandoorensis Nagarkar, Sethy & Patw. SPECIES
 
 #### Status
 ACCEPTED

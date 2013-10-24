@@ -1,5 +1,4 @@
-Thelephora melaloma Chevall. SPECIES
-=======
+# Thelephora melaloma Chevall. SPECIES
 
 #### Status
 ACCEPTED

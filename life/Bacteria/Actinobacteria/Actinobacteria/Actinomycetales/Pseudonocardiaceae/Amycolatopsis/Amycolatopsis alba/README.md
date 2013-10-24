@@ -1,5 +1,4 @@
-Amycolatopsis alba Mertz & Yao, 1993 SPECIES
-=======
+# Amycolatopsis alba Mertz & Yao, 1993 SPECIES
 
 #### Status
 ACCEPTED

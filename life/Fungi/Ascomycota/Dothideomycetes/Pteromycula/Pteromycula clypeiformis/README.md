@@ -1,5 +1,4 @@
-Pteromycula clypeiformis P.F. Cannon, 1997 SPECIES
-=======
+# Pteromycula clypeiformis P.F. Cannon, 1997 SPECIES
 
 #### Status
 ACCEPTED

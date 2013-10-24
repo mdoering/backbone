@@ -1,5 +1,4 @@
-Ophryoscolex fasciculus Awerinzew & Mutafowa, 1914 SPECIES
-=======
+# Ophryoscolex fasciculus Awerinzew & Mutafowa, 1914 SPECIES
 
 #### Status
 ACCEPTED

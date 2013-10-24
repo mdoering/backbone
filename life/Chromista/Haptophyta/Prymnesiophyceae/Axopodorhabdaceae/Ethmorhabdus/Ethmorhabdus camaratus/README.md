@@ -1,5 +1,4 @@
-Ethmorhabdus camaratus D. Bukry SPECIES
-=======
+# Ethmorhabdus camaratus D. Bukry SPECIES
 
 #### Status
 ACCEPTED

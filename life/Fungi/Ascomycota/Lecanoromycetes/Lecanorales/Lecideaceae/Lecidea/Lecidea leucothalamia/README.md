@@ -1,5 +1,4 @@
-Lecidea leucothalamia Nyl. SPECIES
-=======
+# Lecidea leucothalamia Nyl. SPECIES
 
 #### Status
 ACCEPTED

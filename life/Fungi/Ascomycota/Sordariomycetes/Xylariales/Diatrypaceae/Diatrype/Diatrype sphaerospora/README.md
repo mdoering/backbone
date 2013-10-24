@@ -1,5 +1,4 @@
-Diatrype sphaerospora Ellis & Everh. SPECIES
-=======
+# Diatrype sphaerospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

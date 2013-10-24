@@ -1,5 +1,4 @@
-Cladonia papuana S. Stenroos SPECIES
-=======
+# Cladonia papuana S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

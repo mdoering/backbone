@@ -1,5 +1,4 @@
-Brunneiapiospora K.D. Hyde, J. Fröhl. & Joanne E. Taylor GENUS
-=======
+# Brunneiapiospora K.D. Hyde, J. Fröhl. & Joanne E. Taylor GENUS
 
 #### Status
 ACCEPTED

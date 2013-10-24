@@ -1,5 +1,4 @@
-Phillippiregis GENUS
-=======
+# Phillippiregis GENUS
 
 #### Status
 ACCEPTED

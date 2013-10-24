@@ -1,5 +1,4 @@
-Hypocrea koningiopsis Samuels SPECIES
-=======
+# Hypocrea koningiopsis Samuels SPECIES
 
 #### Status
 ACCEPTED

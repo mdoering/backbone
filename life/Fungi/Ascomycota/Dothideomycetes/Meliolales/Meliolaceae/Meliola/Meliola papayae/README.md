@@ -1,5 +1,4 @@
-Meliola papayae Deighton SPECIES
-=======
+# Meliola papayae Deighton SPECIES
 
 #### Status
 ACCEPTED

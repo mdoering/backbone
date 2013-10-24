@@ -1,5 +1,4 @@
-Veracruzomyces Mercado, Guarro, Heredia & J. Mena GENUS
-=======
+# Veracruzomyces Mercado, Guarro, Heredia & J. Mena GENUS
 
 #### Status
 ACCEPTED

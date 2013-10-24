@@ -1,5 +1,4 @@
-Amandinea deminuta Hafellner SPECIES
-=======
+# Amandinea deminuta Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microglaena ceylonensis (A. Massal.) Hampe SPECIES
-=======
+# Microglaena ceylonensis (A. Massal.) Hampe SPECIES
 
 #### Status
 ACCEPTED

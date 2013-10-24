@@ -1,5 +1,4 @@
-Auricularia peltata Lloyd, 1922 SPECIES
-=======
+# Auricularia peltata Lloyd, 1922 SPECIES
 
 #### Status
 ACCEPTED

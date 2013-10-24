@@ -1,5 +1,4 @@
-Pluteus pumilus Murrill SPECIES
-=======
+# Pluteus pumilus Murrill SPECIES
 
 #### Status
 ACCEPTED

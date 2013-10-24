@@ -1,17 +1,16 @@
-Xylariopsis linii F.L. Tai SPECIES
-=======
+# Xylariopsis lini F.L. Tai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sinensia, Shanghai 4: 211 (1934)
 
 #### Original name
-Xylariopsis linii F.L. Tai
+Xylariopsis lini F.L. Tai
 
 ### Remarks
 null

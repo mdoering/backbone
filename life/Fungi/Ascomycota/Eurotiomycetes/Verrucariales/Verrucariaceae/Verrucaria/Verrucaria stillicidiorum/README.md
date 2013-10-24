@@ -1,5 +1,4 @@
-Verrucaria stillicidiorum (Vahl) Hoffm. SPECIES
-=======
+# Verrucaria stillicidiorum (Vahl) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Annulohypoxylon stygium var. stygium VARIETY
-=======
+# Annulohypoxylon stygium SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 97(4): 861 (2005)
+null
 
 #### Original name
-Sphaeria stygia Lév., 1846
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllosticta monetiae Speg. SPECIES
-=======
+# Phyllosticta monetiae Speg. SPECIES
 
 #### Status
 ACCEPTED

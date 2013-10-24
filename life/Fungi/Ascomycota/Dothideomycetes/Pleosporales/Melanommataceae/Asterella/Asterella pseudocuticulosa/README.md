@@ -1,5 +1,4 @@
-Asterella pseudocuticulosa (G. Winter) Sacc. SPECIES
-=======
+# Asterella pseudocuticulosa (G. Winter) Sacc. SPECIES
 
 #### Status
 ACCEPTED

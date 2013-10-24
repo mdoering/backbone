@@ -1,5 +1,4 @@
-Phallus canariensis Mont. SPECIES
-=======
+# Phallus canariensis Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhachomyces venetianus W. Rossi & Cesari SPECIES
-=======
+# Rhachomyces venetianus W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

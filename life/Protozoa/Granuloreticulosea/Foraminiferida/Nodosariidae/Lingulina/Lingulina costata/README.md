@@ -1,5 +1,4 @@
-Lingulina costata d'Orbigny, 1846 SPECIES
-=======
+# Lingulina costata d'Orbigny, 1846 SPECIES
 
 #### Status
 ACCEPTED

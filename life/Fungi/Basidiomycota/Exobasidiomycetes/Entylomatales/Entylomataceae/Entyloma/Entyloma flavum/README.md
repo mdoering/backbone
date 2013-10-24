@@ -1,5 +1,4 @@
-Entyloma flavum Cif. SPECIES
-=======
+# Entyloma flavum Cif. SPECIES
 
 #### Status
 ACCEPTED

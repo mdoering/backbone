@@ -1,5 +1,4 @@
-Attheya armata (T. West) R. M. Crawford SPECIES
-=======
+# Attheya armata (T. West) R. M. Crawford SPECIES
 
 #### Status
 ACCEPTED

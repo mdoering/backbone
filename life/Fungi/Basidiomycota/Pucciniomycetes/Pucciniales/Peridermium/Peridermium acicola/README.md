@@ -1,17 +1,16 @@
-Peridermium acicolum Cooke SPECIES
-=======
+# Peridermium acicola Underw. & Earle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 6(no. 38): 72 (1877)
 
 #### Original name
-Peridermium acicolum Cooke
+Peridermium acicola Underw. & Earle
 
 ### Remarks
 null

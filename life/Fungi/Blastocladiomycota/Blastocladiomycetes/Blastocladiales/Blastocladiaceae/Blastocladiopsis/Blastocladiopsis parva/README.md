@@ -1,14 +1,13 @@
-Blastocladia parva Whiffen, 1943 SPECIES
-=======
+# Blastocladiopsis parva (Whiffen) Sparrow, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 59: 40 (1943)
+J. Wash. Acad. Sci. 40: 53 (1950)
 
 #### Original name
 Blastocladia parva Whiffen, 1943

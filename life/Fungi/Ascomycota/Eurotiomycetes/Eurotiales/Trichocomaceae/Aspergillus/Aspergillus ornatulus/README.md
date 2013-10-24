@@ -1,5 +1,4 @@
-Aspergillus ornatulus Samson & W. Gams SPECIES
-=======
+# Aspergillus ornatulus Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

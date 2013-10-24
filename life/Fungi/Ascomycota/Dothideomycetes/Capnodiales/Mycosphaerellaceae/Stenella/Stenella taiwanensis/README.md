@@ -1,5 +1,4 @@
-Stenella taiwanensis Matsush. SPECIES
-=======
+# Stenella taiwanensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

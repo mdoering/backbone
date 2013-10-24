@@ -1,14 +1,13 @@
-Paradiacheopsis cornea (G. Lister & Cran) Hertel SPECIES
-=======
+# Macbrideola cornea (G. Lister & Cran) Alexop., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dusenia 7(6): 348 (1956)
+Mycologia 59(1): 112 (1967)
 
 #### Original name
 Comatricha cornea G. Lister & Cran, 1917

@@ -1,5 +1,4 @@
-Delortia aquatica Goh & K.D. Hyde SPECIES
-=======
+# Delortia aquatica Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

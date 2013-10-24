@@ -1,5 +1,4 @@
-Protoblastenia alba C.W. Dodge & G.E. Baker SPECIES
-=======
+# Protoblastenia alba C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

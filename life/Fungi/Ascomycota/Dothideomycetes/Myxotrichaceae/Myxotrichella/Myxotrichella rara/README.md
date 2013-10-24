@@ -1,5 +1,4 @@
-Myxotrichella rara Sacc. SPECIES
-=======
+# Myxotrichella rara Sacc. SPECIES
 
 #### Status
 ACCEPTED

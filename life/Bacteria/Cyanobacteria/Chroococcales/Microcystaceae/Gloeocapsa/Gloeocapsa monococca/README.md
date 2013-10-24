@@ -1,5 +1,4 @@
-Gloeocapsa monococca Kützing SPECIES
-=======
+# Gloeocapsa monococca Kützing SPECIES
 
 #### Status
 ACCEPTED

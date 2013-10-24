@@ -1,17 +1,16 @@
-Polystictus velutinus var. velutinus VARIETY
-=======
+# Trametes pubescens (Schumach.) Pilát, 1939 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 258 (1888)
+in Kavina & Pilát, Atlas des Champignons de l'Europe, Ser. B 3: 268 (1939)
 
 #### Original name
-Polystictus velutinus var. velutinus
+Boletus pubescens Schumach., 1803
 
 ### Remarks
 null

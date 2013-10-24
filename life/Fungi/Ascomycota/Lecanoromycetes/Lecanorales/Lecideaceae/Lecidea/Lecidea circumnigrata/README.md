@@ -1,5 +1,4 @@
-Lecidea circumnigrata f. circumnigrata FORM
-=======
+# Lecidea circumnigrata H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea circumnigrata f. circumnigrata
+Lecidea circumnigrata H. Magn.
 
 ### Remarks
 null

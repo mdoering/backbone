@@ -1,5 +1,4 @@
-Chilodon Strand, 1928 GENUS
-=======
+# Chilodon Strand, 1928 GENUS
 
 #### Status
 ACCEPTED

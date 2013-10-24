@@ -1,5 +1,4 @@
-Crustula corylacea Velen. SPECIES
-=======
+# Crustula corylacea Velen. SPECIES
 
 #### Status
 ACCEPTED

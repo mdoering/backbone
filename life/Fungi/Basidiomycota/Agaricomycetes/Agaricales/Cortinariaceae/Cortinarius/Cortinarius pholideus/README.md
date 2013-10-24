@@ -1,14 +1,13 @@
-Agaricus pholideus Lilj., 1816 SPECIES
-=======
+# Cortinarius pholideus (Fr.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Utkast. Sv. Fl. , Edn 3 645 (1816)
+Epicr. syst. mycol. (Upsaliae) 282 (1838)
 
 #### Original name
 Agaricus pholideus Lilj., 1816

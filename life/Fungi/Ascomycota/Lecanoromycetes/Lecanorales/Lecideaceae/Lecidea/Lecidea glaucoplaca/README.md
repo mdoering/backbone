@@ -1,5 +1,4 @@
-Lecidea glaucoplaca Vain. SPECIES
-=======
+# Lecidea glaucoplaca Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gerronema suboreades (Beeli) Singer SPECIES
-=======
+# Gerronema suboreades (Beeli) Singer SPECIES
 
 #### Status
 ACCEPTED

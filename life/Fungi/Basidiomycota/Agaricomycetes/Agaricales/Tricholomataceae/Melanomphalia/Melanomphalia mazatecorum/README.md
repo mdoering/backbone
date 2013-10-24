@@ -1,5 +1,4 @@
-Melanomphalia mazatecorum Singer SPECIES
-=======
+# Melanomphalia mazatecorum Singer SPECIES
 
 #### Status
 ACCEPTED

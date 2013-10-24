@@ -1,5 +1,4 @@
-Dicellaesporites cellaequalis Kalgutkar SPECIES
-=======
+# Dicellaesporites cellaequalis Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

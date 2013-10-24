@@ -1,5 +1,4 @@
-Archetypum Tikhomirova, 1987 GENUS
-=======
+# Archetypum Tikhomirova, 1987 GENUS
 
 #### Status
 ACCEPTED

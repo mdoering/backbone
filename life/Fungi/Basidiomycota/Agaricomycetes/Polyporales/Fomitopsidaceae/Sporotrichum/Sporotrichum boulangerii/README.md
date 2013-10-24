@@ -1,5 +1,4 @@
-Sporotrichum boulangerii Vuill. SPECIES
-=======
+# Sporotrichum boulangerii Vuill. SPECIES
 
 #### Status
 ACCEPTED

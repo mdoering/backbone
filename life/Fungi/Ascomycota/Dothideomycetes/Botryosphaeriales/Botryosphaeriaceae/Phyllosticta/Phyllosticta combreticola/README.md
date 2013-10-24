@@ -1,5 +1,4 @@
-Phyllosticta combreticola Henn. SPECIES
-=======
+# Phyllosticta combreticola Henn. SPECIES
 
 #### Status
 ACCEPTED

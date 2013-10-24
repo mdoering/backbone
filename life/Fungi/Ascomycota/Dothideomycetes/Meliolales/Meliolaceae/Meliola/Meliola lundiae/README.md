@@ -1,5 +1,4 @@
-Meliola lundiae F. Stevens SPECIES
-=======
+# Meliola lundiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

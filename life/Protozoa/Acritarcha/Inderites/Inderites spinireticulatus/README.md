@@ -1,5 +1,4 @@
-Inderites spinireticulatus Abramova & Martchenko, 1964 SPECIES
-=======
+# Inderites spinireticulatus Abramova & Martchenko, 1964 SPECIES
 
 #### Status
 ACCEPTED

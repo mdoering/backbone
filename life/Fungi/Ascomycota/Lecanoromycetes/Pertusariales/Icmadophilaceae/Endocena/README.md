@@ -1,5 +1,4 @@
-Endocena Cromb. GENUS
-=======
+# Endocena Cromb. GENUS
 
 #### Status
 ACCEPTED

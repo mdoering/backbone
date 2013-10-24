@@ -1,5 +1,4 @@
-Placodium fuscoluteum (Ach.) Hepp SPECIES
-=======
+# Placodium fuscoluteum (Ach.) Hepp SPECIES
 
 #### Status
 ACCEPTED

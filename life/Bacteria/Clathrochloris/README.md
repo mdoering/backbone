@@ -1,5 +1,4 @@
-Clathrochloris Geitler, 1925 GENUS
-=======
+# Clathrochloris Geitler, 1925 GENUS
 
 #### Status
 ACCEPTED

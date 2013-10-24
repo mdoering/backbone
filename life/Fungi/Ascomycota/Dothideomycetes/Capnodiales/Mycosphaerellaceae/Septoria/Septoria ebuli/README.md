@@ -1,5 +1,4 @@
-Septoria ebuli Roberge ex Desm., 1850 SPECIES
-=======
+# Septoria ebuli Roberge ex Desm., 1850 SPECIES
 
 #### Status
 ACCEPTED

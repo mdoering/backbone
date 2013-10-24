@@ -1,17 +1,16 @@
-Asterostomella meliosmaticola Hosag., M.P. Balakr. & Goos SPECIES
-=======
+# Asterostomella meliosmicola Hosag., M.P. Balakr. & Goos SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 58: 495 (1996)
 
 #### Original name
-Asterostomella meliosmaticola Hosag., M.P. Balakr. & Goos
+Asterostomella meliosmicola Hosag., M.P. Balakr. & Goos
 
 ### Remarks
 null

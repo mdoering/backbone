@@ -1,5 +1,4 @@
-Duplicaria cochinchinensis P. Karst. & Harv. SPECIES
-=======
+# Duplicaria cochinchinensis P. Karst. & Harv. SPECIES
 
 #### Status
 ACCEPTED

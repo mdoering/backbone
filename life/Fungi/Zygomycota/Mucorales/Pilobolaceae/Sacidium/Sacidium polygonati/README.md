@@ -1,5 +1,4 @@
-Sacidium polygonati Ellis & G. Martin SPECIES
-=======
+# Sacidium polygonati Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

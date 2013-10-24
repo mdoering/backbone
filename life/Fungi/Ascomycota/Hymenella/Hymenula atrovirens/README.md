@@ -1,5 +1,4 @@
-Hymenula atrovirens Berk. & M.A. Curtis SPECIES
-=======
+# Hymenula atrovirens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

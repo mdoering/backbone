@@ -1,5 +1,4 @@
-Gyalecta radiatilis Tuck. SPECIES
-=======
+# Gyalecta radiatilis Tuck. SPECIES
 
 #### Status
 ACCEPTED

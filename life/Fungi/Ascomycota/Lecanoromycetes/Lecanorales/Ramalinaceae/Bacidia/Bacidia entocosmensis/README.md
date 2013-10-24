@@ -1,14 +1,13 @@
-Lecidea entocosmensis C. Knight SPECIES
-=======
+# Bacidia entocosmensis (C. Knight) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Linn. Soc. London, Bot. 2: 44 (1882)
+Cat. Lich. Univers. 4: 194 (1926)
 
 #### Original name
 Lecidea entocosmensis C. Knight

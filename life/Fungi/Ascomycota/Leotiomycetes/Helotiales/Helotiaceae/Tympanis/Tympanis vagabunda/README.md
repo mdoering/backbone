@@ -1,5 +1,4 @@
-Tympanis vagabunda Pass. & Beltr. SPECIES
-=======
+# Tympanis vagabunda Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

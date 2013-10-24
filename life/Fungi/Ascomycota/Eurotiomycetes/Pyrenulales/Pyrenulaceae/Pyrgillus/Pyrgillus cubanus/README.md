@@ -1,14 +1,13 @@
-Pyrgillocarpon cubanum (Nyl.) Nádv. SPECIES
-=======
+# Pyrgillus cubanus Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Tibell, Beih. Nova Hedwigia 79: 676 (1984)
+null
 
 #### Original name
 Pyrgillus cubanus Nyl.

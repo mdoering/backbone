@@ -1,5 +1,4 @@
-Rinodina subrufa SPECIES
-=======
+# Rinodina subrufa SPECIES
 
 #### Status
 ACCEPTED

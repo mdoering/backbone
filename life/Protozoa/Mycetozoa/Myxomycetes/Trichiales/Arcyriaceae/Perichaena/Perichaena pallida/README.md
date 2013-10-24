@@ -1,5 +1,4 @@
-Perichaena pallida (Ces.) Berl. SPECIES
-=======
+# Perichaena pallida (Ces.) Berl. SPECIES
 
 #### Status
 ACCEPTED

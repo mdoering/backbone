@@ -1,5 +1,4 @@
-Cercospora aracearum Firdousi, A.N. Rai & K.M. Vyas SPECIES
-=======
+# Cercospora aracearum Firdousi, A.N. Rai & K.M. Vyas SPECIES
 
 #### Status
 ACCEPTED

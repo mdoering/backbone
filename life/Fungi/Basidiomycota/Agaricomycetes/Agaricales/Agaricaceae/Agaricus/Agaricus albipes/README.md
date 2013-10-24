@@ -1,5 +1,4 @@
-Agaricus albipes Scop. SPECIES
-=======
+# Agaricus albipes Scop. SPECIES
 
 #### Status
 ACCEPTED

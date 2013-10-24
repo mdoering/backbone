@@ -1,5 +1,4 @@
-Deuterammina diasbritoi Broennimann & Zaninetti, 1984 SPECIES
-=======
+# Deuterammina diasbritoi Broennimann & Zaninetti, 1984 SPECIES
 
 #### Status
 ACCEPTED

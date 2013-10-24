@@ -1,5 +1,4 @@
-Pleurophragmium cylindrosporum Matsush. SPECIES
-=======
+# Pleurophragmium cylindrosporum Matsush. SPECIES
 
 #### Status
 ACCEPTED

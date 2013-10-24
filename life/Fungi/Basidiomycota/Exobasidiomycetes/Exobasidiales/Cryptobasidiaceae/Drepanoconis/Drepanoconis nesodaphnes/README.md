@@ -1,5 +1,4 @@
-Drepanoconis nesodaphnes (Berk. & Broome) J. Walker, 1983 SPECIES
-=======
+# Drepanoconis nesodaphnes (Berk. & Broome) J. Walker, 1983 SPECIES
 
 #### Status
 ACCEPTED

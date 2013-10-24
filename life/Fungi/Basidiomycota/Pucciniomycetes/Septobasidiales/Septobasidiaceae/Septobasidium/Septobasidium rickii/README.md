@@ -1,5 +1,4 @@
-Septobasidium rickii Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium rickii Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

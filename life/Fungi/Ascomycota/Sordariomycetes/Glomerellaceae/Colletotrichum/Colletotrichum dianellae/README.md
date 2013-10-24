@@ -1,17 +1,16 @@
-Colletotrichum dianallae F. Stevens & P.A. Young SPECIES
-=======
+# Colletotrichum dianellae F. Stevens & P.A. Young, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin of the Bernice P. Bishop Museum, Honolulu, Hawaii 19: 145 (1925)
 
 #### Original name
-Colletotrichum dianallae F. Stevens & P.A. Young
+Colletotrichum dianellae F. Stevens & P.A. Young, 1925
 
 ### Remarks
 null

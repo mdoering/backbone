@@ -1,5 +1,4 @@
-Boletus microsporus Corner SPECIES
-=======
+# Boletus microsporus Corner SPECIES
 
 #### Status
 ACCEPTED

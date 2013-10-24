@@ -1,5 +1,4 @@
-Trichomaceae FAMILY
-=======
+# Trichomaceae FAMILY
 
 #### Status
 ACCEPTED

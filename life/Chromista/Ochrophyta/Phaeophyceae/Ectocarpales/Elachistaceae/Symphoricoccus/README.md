@@ -1,5 +1,4 @@
-Symphoricoccus J. Reinke, 1888 GENUS
-=======
+# Symphoricoccus J. Reinke, 1888 GENUS
 
 #### Status
 ACCEPTED

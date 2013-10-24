@@ -1,5 +1,4 @@
-Anthostomella phoenicicola Speg. SPECIES
-=======
+# Anthostomella phoenicicola Speg. SPECIES
 
 #### Status
 ACCEPTED

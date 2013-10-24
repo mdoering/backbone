@@ -1,11 +1,10 @@
-Hirneola auricula-judae var. auricula-judae VARIETY
-=======
+# Hirneola auricula-judae (Fr. Fr.) Berk. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Belgian Species List
 
 #### Published in
 null

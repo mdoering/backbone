@@ -1,17 +1,16 @@
-Poria albolutea var. albolutea VARIETY
-=======
+# Sistotrema alboluteum (Bourdot & Galzin) Bondartsev & Singer, 1941 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 41: 217 (1925)
+Annls mycol. 39(1): 47 (1941)
 
 #### Original name
-Poria albolutea var. albolutea
+Poria albolutea Bourdot & Galzin, 1925
 
 ### Remarks
 null

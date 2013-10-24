@@ -1,5 +1,4 @@
-Stilbella pezizoidea Henn. SPECIES
-=======
+# Stilbella pezizoidea Henn. SPECIES
 
 #### Status
 ACCEPTED

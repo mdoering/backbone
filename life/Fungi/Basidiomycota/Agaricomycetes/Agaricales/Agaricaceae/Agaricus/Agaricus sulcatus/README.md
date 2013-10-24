@@ -1,5 +1,4 @@
-Agaricus sulcatus Lindgr. SPECIES
-=======
+# Agaricus sulcatus Lindgr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tridentaria fertilis R.F. Castañeda SPECIES
-=======
+# Tridentaria fertilis R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

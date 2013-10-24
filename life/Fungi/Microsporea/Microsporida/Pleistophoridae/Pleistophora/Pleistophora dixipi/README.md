@@ -1,5 +1,4 @@
-Pleistophora dixipi SPECIES
-=======
+# Pleistophora dixipi SPECIES
 
 #### Status
 ACCEPTED

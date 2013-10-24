@@ -1,5 +1,4 @@
-Gymnodinium boreale Gaarder SPECIES
-=======
+# Gymnodinium boreale Gaarder SPECIES
 
 #### Status
 ACCEPTED

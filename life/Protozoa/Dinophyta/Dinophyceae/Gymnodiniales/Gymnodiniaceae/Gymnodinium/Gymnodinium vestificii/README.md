@@ -1,5 +1,4 @@
-Gymnodinium vestificii Schutt SPECIES
-=======
+# Gymnodinium vestificii Schutt SPECIES
 
 #### Status
 ACCEPTED

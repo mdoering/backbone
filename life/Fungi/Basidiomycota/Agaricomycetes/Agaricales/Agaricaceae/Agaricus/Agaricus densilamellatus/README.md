@@ -1,5 +1,4 @@
-Agaricus densilamellatus Britzelm. SPECIES
-=======
+# Agaricus densilamellatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

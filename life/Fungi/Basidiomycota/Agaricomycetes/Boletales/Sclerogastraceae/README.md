@@ -1,5 +1,4 @@
-Sclerogastraceae Locq. FAMILY
-=======
+# Sclerogastraceae Locq. FAMILY
 
 #### Status
 ACCEPTED

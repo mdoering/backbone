@@ -1,5 +1,4 @@
-Caloplaca trabicola H. Magn. SPECIES
-=======
+# Caloplaca trabicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

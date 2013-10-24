@@ -1,5 +1,4 @@
-Orbiliomycetes O.E. Erikss. & Baral CLASS
-=======
+# Orbiliomycetes O.E. Erikss. & Baral CLASS
 
 #### Status
 ACCEPTED

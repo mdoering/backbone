@@ -1,5 +1,4 @@
-Strepsithalia liebmanniae Miranda SPECIES
-=======
+# Strepsithalia liebmanniae Miranda SPECIES
 
 #### Status
 ACCEPTED

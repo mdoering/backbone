@@ -1,5 +1,4 @@
-Entoloma stipitatum (A.H. Sm. & Hesler) Hesler SPECIES
-=======
+# Entoloma stipitatum (A.H. Sm. & Hesler) Hesler SPECIES
 
 #### Status
 ACCEPTED

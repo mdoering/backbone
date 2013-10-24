@@ -1,17 +1,16 @@
-Hypoxylon marginatum var. marginatum (Schwein.) Berk. VARIETY
-=======
+# Annulohypoxylon annulatum (Schwein.) Y.M. Ju, J.D. Rogers & H.M. Hsieh, 2005 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 97(4): 857 (2005)
 
 #### Original name
-Hypoxylon marginatum var. marginatum (Schwein.) Berk.
+Sphaeria annulata Schwein., 1825
 
 ### Remarks
 null

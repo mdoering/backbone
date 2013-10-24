@@ -1,5 +1,4 @@
-Polyandromyces Thaxt. GENUS
-=======
+# Polyandromyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta ambavillaria f. ambavillaria FORM
-=======
+# Sticta ambavillaria (Bory) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. univ. 455 (1810)
 
 #### Original name
-Sticta ambavillaria f. ambavillaria
+Lichen ambavillarius Bory
 
 ### Remarks
 null

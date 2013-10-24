@@ -1,5 +1,4 @@
-Neopaxillus plumbeus Singer & Lodge, 1989 SPECIES
-=======
+# Neopaxillus plumbeus Singer & Lodge, 1989 SPECIES
 
 #### Status
 ACCEPTED

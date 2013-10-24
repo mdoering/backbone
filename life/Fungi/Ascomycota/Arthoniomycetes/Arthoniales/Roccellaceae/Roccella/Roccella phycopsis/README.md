@@ -1,17 +1,16 @@
-Roccella fucoides var. fucoides VARIETY
-=======
+# Roccella phycopsis Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Naturgesch. 1: 110 (1804)
 
 #### Original name
-Roccella fucoides var. fucoides
+Roccella phycopsis Ach.
 
 ### Remarks
 null

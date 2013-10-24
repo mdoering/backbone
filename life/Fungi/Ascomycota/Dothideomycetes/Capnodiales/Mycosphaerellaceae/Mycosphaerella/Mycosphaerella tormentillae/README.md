@@ -1,5 +1,4 @@
-Mycosphaerella tormentillae (Sacc.) Tomilin SPECIES
-=======
+# Mycosphaerella tormentillae (Sacc.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

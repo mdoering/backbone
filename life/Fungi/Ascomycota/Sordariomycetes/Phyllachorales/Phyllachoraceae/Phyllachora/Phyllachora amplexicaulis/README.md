@@ -1,17 +1,16 @@
-Phyllachora amplexicaulii C.A. Pearce, Reddell & K.D. Hyde SPECIES
-=======
+# Phyllachora amplexicaulis C.A. Pearce, Reddell & K.D. Hyde, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aust. Syst. Bot. 14(2): 304 (2001)
 
 #### Original name
-Phyllachora amplexicaulii C.A. Pearce, Reddell & K.D. Hyde
+Phyllachora amplexicaulis C.A. Pearce, Reddell & K.D. Hyde, 2001
 
 ### Remarks
 null

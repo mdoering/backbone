@@ -1,5 +1,4 @@
-Crouchina McCulloch, 1977 GENUS
-=======
+# Crouchina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

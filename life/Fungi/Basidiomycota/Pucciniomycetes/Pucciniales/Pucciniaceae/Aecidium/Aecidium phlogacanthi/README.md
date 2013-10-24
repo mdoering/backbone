@@ -1,5 +1,4 @@
-Aecidium phlogacanthi Gäum. SPECIES
-=======
+# Aecidium phlogacanthi Gäum. SPECIES
 
 #### Status
 ACCEPTED

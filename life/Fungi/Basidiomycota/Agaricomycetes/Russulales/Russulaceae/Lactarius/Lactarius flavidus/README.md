@@ -1,17 +1,16 @@
-Lactarius flavidus var. mutabilis Convertini & Prinetti VARIETY
-=======
+# Lactarius flavidus Boud., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pagine Botaniche 4: 10 (1984)
+Bull. Soc. mycol. Fr. 3: 145 (1887)
 
 #### Original name
-Lactarius flavidus var. mutabilis Convertini & Prinetti
+Lactarius flavidus Boud., 1887
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Placodium callopizum (Nyl.) Flagey SPECIES
-=======
+# Placodium callopizum (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

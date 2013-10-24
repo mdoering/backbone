@@ -1,5 +1,4 @@
-Bolivina pacifica SPECIES
-=======
+# Bolivina pacifica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea trapelioides Printzen SPECIES
-=======
+# Lecidea trapelioides Printzen SPECIES
 
 #### Status
 ACCEPTED

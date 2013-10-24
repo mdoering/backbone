@@ -1,5 +1,4 @@
-Russula hongoi Singer SPECIES
-=======
+# Russula hongoi Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria orarensis A. W. Archer & Elix SPECIES
-=======
+# Pertusaria orarensis A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

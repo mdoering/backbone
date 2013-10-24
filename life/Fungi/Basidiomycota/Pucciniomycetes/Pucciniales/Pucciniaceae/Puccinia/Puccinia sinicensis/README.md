@@ -1,5 +1,4 @@
-Puccinia sinicensis Cummins SPECIES
-=======
+# Puccinia sinicensis Cummins SPECIES
 
 #### Status
 ACCEPTED

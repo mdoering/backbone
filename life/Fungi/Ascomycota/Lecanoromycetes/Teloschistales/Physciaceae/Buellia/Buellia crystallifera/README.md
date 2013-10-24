@@ -1,5 +1,4 @@
-Buellia crystallifera (Vain.) Hav. SPECIES
-=======
+# Buellia crystallifera (Vain.) Hav. SPECIES
 
 #### Status
 ACCEPTED

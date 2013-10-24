@@ -1,5 +1,4 @@
-Ceratocystis fujiensis M.J. Wingf., Yamaoka & M. Marín SPECIES
-=======
+# Ceratocystis fujiensis M.J. Wingf., Yamaoka & M. Marín SPECIES
 
 #### Status
 ACCEPTED

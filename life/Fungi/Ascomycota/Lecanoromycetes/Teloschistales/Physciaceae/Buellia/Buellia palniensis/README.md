@@ -1,5 +1,4 @@
-Buellia palniensis S.R. Singh & D.D. Awasthi SPECIES
-=======
+# Buellia palniensis S.R. Singh & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

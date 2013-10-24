@@ -1,5 +1,4 @@
-Baeospora pallida Singer SPECIES
-=======
+# Baeospora pallida Singer SPECIES
 
 #### Status
 ACCEPTED

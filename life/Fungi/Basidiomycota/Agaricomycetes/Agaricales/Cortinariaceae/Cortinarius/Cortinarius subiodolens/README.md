@@ -1,5 +1,4 @@
-Cortinarius subiodolens Reumaux SPECIES
-=======
+# Cortinarius subiodolens Reumaux SPECIES
 
 #### Status
 ACCEPTED

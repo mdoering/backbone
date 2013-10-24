@@ -1,5 +1,4 @@
-Pyrgo sarsii (Schlumberger) SPECIES
-=======
+# Pyrgo sarsii (Schlumberger) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Culicosporella J. Weiser GENUS
-=======
+# Culicosporella J. Weiser GENUS
 
 #### Status
 ACCEPTED

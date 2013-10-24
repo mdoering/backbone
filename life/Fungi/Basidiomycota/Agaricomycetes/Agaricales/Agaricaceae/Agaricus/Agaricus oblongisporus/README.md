@@ -1,5 +1,4 @@
-Agaricus oblongisporus Britzelm. SPECIES
-=======
+# Agaricus oblongisporus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

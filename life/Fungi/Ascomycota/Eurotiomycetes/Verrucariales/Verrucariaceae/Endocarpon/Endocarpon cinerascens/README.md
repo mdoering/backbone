@@ -1,5 +1,4 @@
-Endocarpon cinerascens var. cinerascens VARIETY
-=======
+# Endocarpon cinerascens Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Endocarpon cinerascens var. cinerascens
+Endocarpon cinerascens Nyl.
 
 ### Remarks
 null

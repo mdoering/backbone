@@ -1,5 +1,4 @@
-Chaetopyrena trichostoma (Pass.) Sacc. SPECIES
-=======
+# Chaetopyrena trichostoma (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

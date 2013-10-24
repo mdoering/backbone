@@ -1,5 +1,4 @@
-Retihelicosporonites Ramanujam & Rao GENUS
-=======
+# Retihelicosporonites Ramanujam & Rao GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porphyromonas cangingivalis Collins et al., 1994 SPECIES
-=======
+# Porphyromonas cangingivalis Collins et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria xylogena Curzi & Barbaini SPECIES
-=======
+# Leptosphaeria xylogena Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylella strobilodes Drechsler SPECIES
-=======
+# Dactylella strobilodes Drechsler SPECIES
 
 #### Status
 ACCEPTED

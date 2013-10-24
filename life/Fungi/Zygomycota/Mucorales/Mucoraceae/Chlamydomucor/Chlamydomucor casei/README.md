@@ -1,5 +1,4 @@
-Chlamydomucor casei Johan-Olsen SPECIES
-=======
+# Chlamydomucor casei Johan-Olsen SPECIES
 
 #### Status
 ACCEPTED

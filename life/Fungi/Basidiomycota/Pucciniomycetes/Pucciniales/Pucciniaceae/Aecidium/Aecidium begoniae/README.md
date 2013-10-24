@@ -1,5 +1,4 @@
-Aecidium begoniae Berndt SPECIES
-=======
+# Aecidium begoniae Berndt SPECIES
 
 #### Status
 ACCEPTED

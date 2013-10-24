@@ -1,5 +1,4 @@
-Gloniella ingae Rehm SPECIES
-=======
+# Gloniella ingae Rehm SPECIES
 
 #### Status
 ACCEPTED

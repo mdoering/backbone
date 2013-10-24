@@ -1,17 +1,16 @@
-Coleosporium sicyosicola J.F. Hennen & Cummins SPECIES
-=======
+# Coleosporium sicyicola J.F. Hennen & Cummins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rep. Tottori Mycol. Inst. 10: 169 (1973)
 
 #### Original name
-Coleosporium sicyosicola J.F. Hennen & Cummins
+Coleosporium sicyicola J.F. Hennen & Cummins
 
 ### Remarks
 null

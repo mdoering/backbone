@@ -1,5 +1,4 @@
-Fusidium leptospermum Pass. SPECIES
-=======
+# Fusidium leptospermum Pass. SPECIES
 
 #### Status
 ACCEPTED

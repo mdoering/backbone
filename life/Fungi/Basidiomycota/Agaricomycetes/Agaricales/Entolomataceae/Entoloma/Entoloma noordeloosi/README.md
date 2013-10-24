@@ -1,5 +1,4 @@
-Entoloma noordeloosi Hauskn. SPECIES
-=======
+# Entoloma noordeloosi Hauskn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Volvaria hypopithys loveiana (Berk.) Konrad & Maubl., 1928 INFRASPECIFIC_NAME
-=======
+# Volvariella surrecta (Knapp) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 401 (1951)
 
 #### Original name
-null
+Agaricus surrectus Knapp, 1829
 
 ### Remarks
 null

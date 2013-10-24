@@ -1,5 +1,4 @@
-Graphis albinata Novruzov SPECIES
-=======
+# Graphis albinata Novruzov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nolanea zonata Velen. SPECIES
-=======
+# Nolanea zonata Velen. SPECIES
 
 #### Status
 ACCEPTED

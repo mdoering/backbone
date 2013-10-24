@@ -1,8 +1,7 @@
-Enchelys geleii (Foissner, 1981) Foissner, 2000 SPECIES
-=======
+# Armatoenchelys geleii (Foissner, 1981) Vdacny, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Meliola rauvolfiae Mibey SPECIES
-=======
+# Meliola rauvolfiae Mibey SPECIES
 
 #### Status
 ACCEPTED

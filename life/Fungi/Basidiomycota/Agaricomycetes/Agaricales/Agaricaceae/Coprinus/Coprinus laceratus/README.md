@@ -1,5 +1,4 @@
-Coprinus laceratus Peck SPECIES
-=======
+# Coprinus laceratus Peck SPECIES
 
 #### Status
 ACCEPTED

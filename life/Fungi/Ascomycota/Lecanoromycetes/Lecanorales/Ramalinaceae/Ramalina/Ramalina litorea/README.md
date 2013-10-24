@@ -1,5 +1,4 @@
-Ramalina litorea G. N. Stevens SPECIES
-=======
+# Ramalina litorea G. N. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discina larryi McKnight SPECIES
-=======
+# Discina larryi McKnight SPECIES
 
 #### Status
 ACCEPTED

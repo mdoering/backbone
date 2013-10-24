@@ -1,5 +1,4 @@
-Pterula himalayensis (Massee) Lloyd SPECIES
-=======
+# Pterula himalayensis (Massee) Lloyd SPECIES
 
 #### Status
 ACCEPTED

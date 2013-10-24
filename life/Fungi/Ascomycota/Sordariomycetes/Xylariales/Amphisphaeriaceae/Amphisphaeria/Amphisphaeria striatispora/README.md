@@ -1,5 +1,4 @@
-Amphisphaeria striatispora Cand. & Katum. SPECIES
-=======
+# Amphisphaeria striatispora Cand. & Katum. SPECIES
 
 #### Status
 ACCEPTED

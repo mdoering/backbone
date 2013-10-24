@@ -1,5 +1,4 @@
-Parmotrema cornutum (Lynge) Hale SPECIES
-=======
+# Parmotrema cornutum (Lynge) Hale SPECIES
 
 #### Status
 ACCEPTED

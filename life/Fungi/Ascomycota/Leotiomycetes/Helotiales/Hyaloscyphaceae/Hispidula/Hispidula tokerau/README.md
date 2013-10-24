@@ -1,5 +1,4 @@
-Hispidula tokerau P.R. Johnst., 2003 SPECIES
-=======
+# Hispidula tokerau P.R. Johnst., 2003 SPECIES
 
 #### Status
 ACCEPTED

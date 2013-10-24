@@ -1,5 +1,4 @@
-Synedra incisa Boyer SPECIES
-=======
+# Synedra incisa Boyer SPECIES
 
 #### Status
 ACCEPTED

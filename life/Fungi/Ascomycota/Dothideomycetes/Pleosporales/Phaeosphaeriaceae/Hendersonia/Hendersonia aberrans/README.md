@@ -1,5 +1,4 @@
-Hendersonia aberrans Petr., 1927 SPECIES
-=======
+# Hendersonia aberrans Petr., 1927 SPECIES
 
 #### Status
 ACCEPTED

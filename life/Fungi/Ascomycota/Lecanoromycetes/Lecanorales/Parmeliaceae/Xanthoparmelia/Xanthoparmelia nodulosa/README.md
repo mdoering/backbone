@@ -1,5 +1,4 @@
-Xanthoparmelia nodulosa Elix SPECIES
-=======
+# Xanthoparmelia nodulosa Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina acrocordioides (Zahlbr.) Zahlbr. SPECIES
-=======
+# Porina acrocordioides (Zahlbr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

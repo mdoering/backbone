@@ -1,5 +1,4 @@
-Arthrinium hispanicum Larrondo & Calvo, 1992 SPECIES
-=======
+# Arthrinium hispanicum Larrondo & Calvo, 1992 SPECIES
 
 #### Status
 ACCEPTED

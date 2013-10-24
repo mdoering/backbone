@@ -1,5 +1,4 @@
-Usnea cornicularia Ach. SPECIES
-=======
+# Usnea cornicularia Ach. SPECIES
 
 #### Status
 ACCEPTED

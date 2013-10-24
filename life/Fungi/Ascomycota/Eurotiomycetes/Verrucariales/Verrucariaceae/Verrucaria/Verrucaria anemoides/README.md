@@ -1,5 +1,4 @@
-Verrucaria anemoides Servít SPECIES
-=======
+# Verrucaria anemoides Servít SPECIES
 
 #### Status
 ACCEPTED

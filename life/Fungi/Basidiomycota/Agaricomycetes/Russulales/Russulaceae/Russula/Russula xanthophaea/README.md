@@ -1,5 +1,4 @@
-Russula xanthophaea Boud. SPECIES
-=======
+# Russula xanthophaea Boud. SPECIES
 
 #### Status
 ACCEPTED

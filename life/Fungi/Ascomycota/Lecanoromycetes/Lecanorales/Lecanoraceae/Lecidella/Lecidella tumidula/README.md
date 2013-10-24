@@ -1,5 +1,4 @@
-Lecidella tumidula (A. Massal.) Knoph & Leuckert SPECIES
-=======
+# Lecidella tumidula (A. Massal.) Knoph & Leuckert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria poonensis Ragunath, 1963 SPECIES
-=======
+# Alternaria poonensis Ragunath, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphidiniopsis uroensis Toriumi, Yoshimatsu & Dodge SPECIES
-=======
+# Amphidiniopsis uroensis Toriumi, Yoshimatsu & Dodge SPECIES
 
 #### Status
 ACCEPTED

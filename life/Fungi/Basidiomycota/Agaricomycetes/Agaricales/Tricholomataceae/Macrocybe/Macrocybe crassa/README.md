@@ -1,14 +1,13 @@
-Tricholoma crassum Sacc., 1887 SPECIES
-=======
+# Macrocybe crassa (Sacc.) Pegler & Lodge, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 109 (1887)
+in Pegler, Lodge & Nakasone, Mycologia 90(3): 497 (1998)
 
 #### Original name
 Agaricus crassus Berk., 1847

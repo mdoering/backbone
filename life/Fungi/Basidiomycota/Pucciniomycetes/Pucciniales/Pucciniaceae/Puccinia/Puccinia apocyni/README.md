@@ -1,5 +1,4 @@
-Puccinia apocyni Dietel & Holw. SPECIES
-=======
+# Puccinia apocyni Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

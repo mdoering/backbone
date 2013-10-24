@@ -1,5 +1,4 @@
-Chionosphaera D.E. Cox GENUS
-=======
+# Chionosphaera D.E. Cox GENUS
 
 #### Status
 ACCEPTED

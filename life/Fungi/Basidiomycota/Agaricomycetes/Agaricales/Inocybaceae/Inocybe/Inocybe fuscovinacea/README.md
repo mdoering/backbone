@@ -1,5 +1,4 @@
-Inocybe fuscovinacea Carteret SPECIES
-=======
+# Inocybe fuscovinacea Carteret SPECIES
 
 #### Status
 ACCEPTED

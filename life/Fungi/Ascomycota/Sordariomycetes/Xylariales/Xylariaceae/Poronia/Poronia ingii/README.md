@@ -1,5 +1,4 @@
-Poronia ingii (J.D. Rogers & Laessøe) J.D. Rogers, Y.M. Ju & F. San Martín SPECIES
-=======
+# Poronia ingii (J.D. Rogers & Laessøe) J.D. Rogers, Y.M. Ju & F. San Martín SPECIES
 
 #### Status
 ACCEPTED

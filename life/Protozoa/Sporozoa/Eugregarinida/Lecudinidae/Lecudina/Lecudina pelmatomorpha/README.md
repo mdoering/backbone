@@ -1,5 +1,4 @@
-Lecudina pelmatomorpha Schrével, 1969 SPECIES
-=======
+# Lecudina pelmatomorpha Schrével, 1969 SPECIES
 
 #### Status
 ACCEPTED

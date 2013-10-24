@@ -1,5 +1,4 @@
-Lecanora kurzii (Kremp.) Nyl. SPECIES
-=======
+# Lecanora kurzii (Kremp.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

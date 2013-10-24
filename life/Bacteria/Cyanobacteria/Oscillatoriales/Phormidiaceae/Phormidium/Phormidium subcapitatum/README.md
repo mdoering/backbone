@@ -1,5 +1,4 @@
-Phormidium subcapitatum Boye-petersen SPECIES
-=======
+# Phormidium subcapitatum Boye-petersen SPECIES
 
 #### Status
 ACCEPTED

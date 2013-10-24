@@ -1,5 +1,4 @@
-Phoma sabdariffae Sacc. SPECIES
-=======
+# Phoma sabdariffae Sacc. SPECIES
 
 #### Status
 ACCEPTED

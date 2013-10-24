@@ -1,5 +1,4 @@
-Chaetomium lanosum Peck SPECIES
-=======
+# Chaetomium lanosum Peck SPECIES
 
 #### Status
 ACCEPTED

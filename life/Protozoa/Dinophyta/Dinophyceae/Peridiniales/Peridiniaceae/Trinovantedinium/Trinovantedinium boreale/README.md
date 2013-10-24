@@ -1,5 +1,4 @@
-Trinovantedinium boreale J. P. Bujak SPECIES
-=======
+# Trinovantedinium boreale J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kuehneola vitis (E.J. Butler) Syd. & P. Syd. SPECIES
-=======
+# Kuehneola vitis (E.J. Butler) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

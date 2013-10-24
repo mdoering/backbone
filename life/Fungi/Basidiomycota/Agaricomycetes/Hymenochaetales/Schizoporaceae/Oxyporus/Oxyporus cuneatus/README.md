@@ -1,17 +1,16 @@
-Polystictus washingtonensis (Murrill) Sacc., 1925 SPECIES
-=======
+# Oxyporus cuneatus (Murrill) Aoshima, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 23: 410 (1925)
+Trans. Mycol. Soc. Japan 8(1): 3 (1967)
 
 #### Original name
-Coriolus washingtonensis Murrill, 1912
+Coriolellus cuneatus Murrill, 1907
 
 ### Remarks
 null

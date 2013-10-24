@@ -1,5 +1,4 @@
-Pertusaria pycnothelia Nyl. SPECIES
-=======
+# Pertusaria pycnothelia Nyl. SPECIES
 
 #### Status
 ACCEPTED

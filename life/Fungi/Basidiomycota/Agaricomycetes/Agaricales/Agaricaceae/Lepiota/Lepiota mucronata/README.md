@@ -1,5 +1,4 @@
-Lepiota mucronata Guzm.-Dáv. & Guzmán SPECIES
-=======
+# Lepiota mucronata Guzm.-Dáv. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Postia subpendula (G.F. Atk.) Boulet SPECIES
-=======
+# Postia subpendula (G.F. Atk.) Boulet SPECIES
 
 #### Status
 ACCEPTED

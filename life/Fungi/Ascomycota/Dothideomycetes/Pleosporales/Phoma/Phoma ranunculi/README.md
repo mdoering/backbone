@@ -1,5 +1,4 @@
-Phoma ranunculi P. Karst. SPECIES
-=======
+# Phoma ranunculi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

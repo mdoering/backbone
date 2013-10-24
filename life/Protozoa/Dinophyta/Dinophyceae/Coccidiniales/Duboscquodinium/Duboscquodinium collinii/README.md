@@ -1,5 +1,4 @@
-Duboscquodinium collinii Grassé SPECIES
-=======
+# Duboscquodinium collinii Grassé SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eggerellidae Cushman, 1937 FAMILY
-=======
+# Eggerellidae Cushman, 1937 FAMILY
 
 #### Status
 ACCEPTED

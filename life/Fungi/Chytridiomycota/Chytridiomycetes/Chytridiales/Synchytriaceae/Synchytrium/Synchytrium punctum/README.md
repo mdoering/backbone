@@ -1,5 +1,4 @@
-Synchytrium punctum Sorokin SPECIES
-=======
+# Synchytrium punctum Sorokin SPECIES
 
 #### Status
 ACCEPTED

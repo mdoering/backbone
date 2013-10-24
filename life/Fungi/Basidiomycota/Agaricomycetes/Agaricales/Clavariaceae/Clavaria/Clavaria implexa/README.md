@@ -1,5 +1,4 @@
-Clavaria implexa Lév. SPECIES
-=======
+# Clavaria implexa Lév. SPECIES
 
 #### Status
 ACCEPTED

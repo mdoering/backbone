@@ -1,5 +1,4 @@
-Dothiorella pittosporina (Sousa da Câmara) Sousa da Câmara SPECIES
-=======
+# Dothiorella pittosporina (Sousa da Câmara) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

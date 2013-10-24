@@ -1,5 +1,4 @@
-Peziza scleropyxis Pers. SPECIES
-=======
+# Peziza scleropyxis Pers. SPECIES
 
 #### Status
 ACCEPTED

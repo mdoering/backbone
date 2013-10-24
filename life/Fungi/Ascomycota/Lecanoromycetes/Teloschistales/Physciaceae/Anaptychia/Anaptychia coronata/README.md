@@ -1,5 +1,4 @@
-Anaptychia coronata Kurok. SPECIES
-=======
+# Anaptychia coronata Kurok. SPECIES
 
 #### Status
 ACCEPTED

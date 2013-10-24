@@ -1,5 +1,4 @@
-Strumella Fr. GENUS
-=======
+# Strumella Fr. GENUS
 
 #### Status
 ACCEPTED

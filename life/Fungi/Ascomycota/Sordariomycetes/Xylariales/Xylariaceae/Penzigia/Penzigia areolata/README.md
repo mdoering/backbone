@@ -1,5 +1,4 @@
-Penzigia areolata (Berk. & M.A. Curtis) J.H. Mill. SPECIES
-=======
+# Penzigia areolata (Berk. & M.A. Curtis) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Tyromyces caesius f. caesius FORM
-=======
+# Postia caesia (Schrad.) P. Karst., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 9(1): 34 (1907)
+Revue mycol. , Toulouse 3(9): 360 (1881)
 
 #### Original name
 Boletus caesius Schrad., 1794

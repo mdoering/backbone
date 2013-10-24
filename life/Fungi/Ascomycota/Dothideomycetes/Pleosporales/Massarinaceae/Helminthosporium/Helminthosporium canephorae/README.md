@@ -1,5 +1,4 @@
-Helminthosporium canephorae Steyaert SPECIES
-=======
+# Helminthosporium canephorae Steyaert SPECIES
 
 #### Status
 ACCEPTED

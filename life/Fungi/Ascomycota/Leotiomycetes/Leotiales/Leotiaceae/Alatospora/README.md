@@ -1,5 +1,4 @@
-Alatospora Ingold, 1942 GENUS
-=======
+# Alatospora Ingold, 1942 GENUS
 
 #### Status
 ACCEPTED

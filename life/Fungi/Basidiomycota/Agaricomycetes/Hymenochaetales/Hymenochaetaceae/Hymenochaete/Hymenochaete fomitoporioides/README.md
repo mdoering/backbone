@@ -1,5 +1,4 @@
-Hymenochaete fomitoporioides S. Ito & S. Imai, 1940 SPECIES
-=======
+# Hymenochaete fomitoporioides S. Ito & S. Imai, 1940 SPECIES
 
 #### Status
 ACCEPTED

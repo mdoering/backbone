@@ -1,5 +1,4 @@
-Enterographa seychellensis Vezda & Ceni SPECIES
-=======
+# Enterographa seychellensis Vezda & Ceni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora macrosperma (Sacc. & Roum.) Sacc. SPECIES
-=======
+# Stagonospora macrosperma (Sacc. & Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

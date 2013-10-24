@@ -1,5 +1,4 @@
-Neoplacosphaeria polonica Petr. SPECIES
-=======
+# Neoplacosphaeria polonica Petr. SPECIES
 
 #### Status
 ACCEPTED

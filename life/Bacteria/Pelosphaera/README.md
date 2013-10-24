@@ -1,5 +1,4 @@
-Pelosphaera Lauterborn GENUS
-=======
+# Pelosphaera Lauterborn GENUS
 
 #### Status
 ACCEPTED

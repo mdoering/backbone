@@ -1,5 +1,4 @@
-Torrubia superficialis Peck SPECIES
-=======
+# Torrubia superficialis Peck SPECIES
 
 #### Status
 ACCEPTED

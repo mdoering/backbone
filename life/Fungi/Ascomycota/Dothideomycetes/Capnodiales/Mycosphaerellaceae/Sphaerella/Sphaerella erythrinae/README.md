@@ -1,5 +1,4 @@
-Sphaerella erythrinae (Koord.) Sacc. & Traverso SPECIES
-=======
+# Sphaerella erythrinae (Koord.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

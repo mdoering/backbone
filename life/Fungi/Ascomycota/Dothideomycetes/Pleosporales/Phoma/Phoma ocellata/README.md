@@ -1,5 +1,4 @@
-Phoma ocellata (Lév.) Sacc. SPECIES
-=======
+# Phoma ocellata (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

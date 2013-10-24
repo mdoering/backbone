@@ -1,5 +1,4 @@
-Lecidea encephalarti (Kremp.) Hue SPECIES
-=======
+# Lecidea encephalarti (Kremp.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia crossophylla SPECIES
-=======
+# Parmelia crossophylla SPECIES
 
 #### Status
 ACCEPTED

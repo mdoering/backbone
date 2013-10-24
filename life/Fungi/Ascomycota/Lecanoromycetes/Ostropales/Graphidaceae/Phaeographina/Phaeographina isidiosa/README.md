@@ -1,5 +1,4 @@
-Phaeographina isidiosa (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographina isidiosa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

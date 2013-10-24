@@ -1,5 +1,4 @@
-Mycosphaerella communis Crous & Mansilla, 2004 SPECIES
-=======
+# Mycosphaerella communis Crous & Mansilla, 2004 SPECIES
 
 #### Status
 ACCEPTED

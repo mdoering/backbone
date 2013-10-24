@@ -1,5 +1,4 @@
-Colletotrichum adustum (Ellis & G. Martin) Ellis & Underw. SPECIES
-=======
+# Colletotrichum adustum (Ellis & G. Martin) Ellis & Underw. SPECIES
 
 #### Status
 ACCEPTED

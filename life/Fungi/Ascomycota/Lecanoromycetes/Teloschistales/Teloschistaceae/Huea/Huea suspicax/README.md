@@ -1,5 +1,4 @@
-Huea suspicax (Stizenb.) C.W. Dodge SPECIES
-=======
+# Huea suspicax (Stizenb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

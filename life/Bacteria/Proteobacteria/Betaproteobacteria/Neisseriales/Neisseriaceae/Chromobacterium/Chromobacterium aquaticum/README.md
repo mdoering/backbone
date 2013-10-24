@@ -1,5 +1,4 @@
-Chromobacterium aquaticum Chiu-Chung Young, 2008 SPECIES
-=======
+# Chromobacterium aquaticum Chiu-Chung Young, 2008 SPECIES
 
 #### Status
 ACCEPTED

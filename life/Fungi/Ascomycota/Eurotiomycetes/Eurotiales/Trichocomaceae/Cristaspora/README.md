@@ -1,5 +1,4 @@
-Cristaspora Fort & Guarro GENUS
-=======
+# Cristaspora Fort & Guarro GENUS
 
 #### Status
 ACCEPTED

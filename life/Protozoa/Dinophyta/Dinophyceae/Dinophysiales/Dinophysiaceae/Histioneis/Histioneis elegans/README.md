@@ -1,5 +1,4 @@
-Histioneis elegans Halim SPECIES
-=======
+# Histioneis elegans Halim SPECIES
 
 #### Status
 ACCEPTED

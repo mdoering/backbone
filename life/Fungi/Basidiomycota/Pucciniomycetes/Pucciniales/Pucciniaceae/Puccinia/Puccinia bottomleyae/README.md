@@ -1,5 +1,4 @@
-Puccinia bottomleyae Doidge SPECIES
-=======
+# Puccinia bottomleyae Doidge SPECIES
 
 #### Status
 ACCEPTED

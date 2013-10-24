@@ -1,5 +1,4 @@
-Phaeosaccardinula ceibae (Petr. & Cif.) Bat. & Cif. SPECIES
-=======
+# Phaeosaccardinula ceibae (Petr. & Cif.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

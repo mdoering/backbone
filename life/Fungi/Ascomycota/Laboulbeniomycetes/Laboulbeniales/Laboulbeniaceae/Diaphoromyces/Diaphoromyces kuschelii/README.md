@@ -1,5 +1,4 @@
-Diaphoromyces kuschelii A. Weir & W. Rossi, 1997 SPECIES
-=======
+# Diaphoromyces kuschelii A. Weir & W. Rossi, 1997 SPECIES
 
 #### Status
 ACCEPTED

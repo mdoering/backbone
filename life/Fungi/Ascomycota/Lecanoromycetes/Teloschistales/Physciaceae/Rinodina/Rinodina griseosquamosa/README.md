@@ -1,5 +1,4 @@
-Rinodina griseosquamosa Vain. SPECIES
-=======
+# Rinodina griseosquamosa Vain. SPECIES
 
 #### Status
 ACCEPTED

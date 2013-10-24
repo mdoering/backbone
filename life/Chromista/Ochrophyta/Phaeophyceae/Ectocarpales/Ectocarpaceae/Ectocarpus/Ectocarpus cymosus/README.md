@@ -1,5 +1,4 @@
-Ectocarpus cymosus Zanardini SPECIES
-=======
+# Ectocarpus cymosus Zanardini SPECIES
 
 #### Status
 ACCEPTED

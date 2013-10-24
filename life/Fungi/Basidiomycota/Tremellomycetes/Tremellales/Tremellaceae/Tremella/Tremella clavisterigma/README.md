@@ -1,5 +1,4 @@
-Tremella clavisterigma Lowy SPECIES
-=======
+# Tremella clavisterigma Lowy SPECIES
 
 #### Status
 ACCEPTED

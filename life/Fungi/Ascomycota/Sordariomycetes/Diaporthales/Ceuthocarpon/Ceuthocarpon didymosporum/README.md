@@ -1,5 +1,4 @@
-Ceuthocarpon didymosporum Rehm SPECIES
-=======
+# Ceuthocarpon didymosporum Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dasyscypha phlogis E.K. Cash SPECIES
-=======
+# Dasyscyphus phlogis E.K. Cash SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 43: 230 (1951)
 
 #### Original name
-Dasyscypha phlogis E.K. Cash
+Dasyscyphus phlogis E.K. Cash
 
 ### Remarks
 null

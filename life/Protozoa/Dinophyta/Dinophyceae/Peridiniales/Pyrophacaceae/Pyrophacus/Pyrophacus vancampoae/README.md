@@ -1,8 +1,7 @@
-Tuberculodinium vancampoae (Rossignol) Wall SPECIES
-=======
+# Pyrophacus vancampoae (Rossignol) Wall & Dale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

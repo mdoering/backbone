@@ -1,5 +1,4 @@
-Valsa excorians Cooke & Ellis SPECIES
-=======
+# Valsa excorians Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glossophora J.G. Agardh, 1882 GENUS
-=======
+# Glossophora J.G. Agardh, 1882 GENUS
 
 #### Status
 ACCEPTED

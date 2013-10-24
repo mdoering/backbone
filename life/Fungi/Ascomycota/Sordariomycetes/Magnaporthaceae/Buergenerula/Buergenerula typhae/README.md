@@ -1,17 +1,16 @@
-Heptameria typhae (Fabre) Cooke, 1889 SPECIES
-=======
+# Buergenerula typhae (Fabre) Arx, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue Mycol. , Paris 41(2): 267 (1977)
 
 #### Original name
-null
+Rebentischia typhae Fabre
 
 ### Remarks
 null

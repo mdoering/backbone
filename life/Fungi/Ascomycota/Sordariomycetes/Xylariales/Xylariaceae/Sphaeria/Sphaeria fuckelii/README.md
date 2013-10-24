@@ -1,5 +1,4 @@
-Sphaeria fuckelii Duby SPECIES
-=======
+# Sphaeria fuckelii Duby SPECIES
 
 #### Status
 ACCEPTED

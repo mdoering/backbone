@@ -1,5 +1,4 @@
-Quinqueloculina cookei SPECIES
-=======
+# Quinqueloculina cookei SPECIES
 
 #### Status
 ACCEPTED

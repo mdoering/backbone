@@ -1,5 +1,4 @@
-Sclerostilbum septentrionale Povah SPECIES
-=======
+# Sclerostilbum septentrionale Povah SPECIES
 
 #### Status
 ACCEPTED

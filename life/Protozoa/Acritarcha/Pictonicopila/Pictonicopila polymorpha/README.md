@@ -1,5 +1,4 @@
-Pictonicopila polymorpha Deflandre & Ters, 1966 SPECIES
-=======
+# Pictonicopila polymorpha Deflandre & Ters, 1966 SPECIES
 
 #### Status
 ACCEPTED

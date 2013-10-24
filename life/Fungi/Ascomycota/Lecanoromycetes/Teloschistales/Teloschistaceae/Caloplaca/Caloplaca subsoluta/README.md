@@ -1,14 +1,13 @@
-Caloplaca subsoluta f. subsoluta FORM
-=======
+# Caloplaca subsoluta (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 185 (1931)
 
 #### Original name
 Lecanora subsoluta Nyl.

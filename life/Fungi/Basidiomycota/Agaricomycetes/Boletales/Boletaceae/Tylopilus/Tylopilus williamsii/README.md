@@ -1,5 +1,4 @@
-Tylopilus williamsii Singer & J. García SPECIES
-=======
+# Tylopilus williamsii Singer & J. García SPECIES
 
 #### Status
 ACCEPTED

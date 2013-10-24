@@ -1,14 +1,13 @@
-Vermicularia holci P. Syd., 1899 SPECIES
-=======
+# Colletotrichum holci (P. Syd.) Grove, 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Bot. , London 56: 341 (1918)
 
 #### Original name
 Vermicularia holci P. Syd., 1899

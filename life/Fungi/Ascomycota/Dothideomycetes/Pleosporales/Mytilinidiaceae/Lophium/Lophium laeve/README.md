@@ -1,5 +1,4 @@
-Lophium laeve Chaillet ex Fr. SPECIES
-=======
+# Lophium laeve Chaillet ex Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia elixii Filson SPECIES
-=======
+# Xanthoparmelia elixii Filson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium kansense Ellis & Barthol. SPECIES
-=======
+# Coniothyrium kansense Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

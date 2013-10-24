@@ -1,5 +1,4 @@
-Hyalopus ater Corda SPECIES
-=======
+# Hyalopus ater Corda SPECIES
 
 #### Status
 ACCEPTED

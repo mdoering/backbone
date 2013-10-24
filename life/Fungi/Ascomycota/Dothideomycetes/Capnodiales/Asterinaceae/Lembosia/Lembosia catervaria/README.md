@@ -1,5 +1,4 @@
-Lembosia catervaria var. catervaria Mont. VARIETY
-=======
+# Lembosia catervaria Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lembosia catervaria var. catervaria Mont.
+Lembosia catervaria Mont.
 
 ### Remarks
 null

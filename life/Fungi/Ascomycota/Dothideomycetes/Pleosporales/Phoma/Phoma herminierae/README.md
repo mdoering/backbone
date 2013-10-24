@@ -1,5 +1,4 @@
-Phoma herminierae Cooke SPECIES
-=======
+# Phoma herminierae Cooke SPECIES
 
 #### Status
 ACCEPTED

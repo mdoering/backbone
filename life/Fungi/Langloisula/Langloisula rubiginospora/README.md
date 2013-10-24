@@ -1,5 +1,4 @@
-Langloisula rubiginospora McAlpine SPECIES
-=======
+# Langloisula rubiginospora McAlpine SPECIES
 
 #### Status
 ACCEPTED

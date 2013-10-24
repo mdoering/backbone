@@ -1,5 +1,4 @@
-Pseudogibellula Samson & H.C. Evans GENUS
-=======
+# Pseudogibellula Samson & H.C. Evans GENUS
 
 #### Status
 ACCEPTED

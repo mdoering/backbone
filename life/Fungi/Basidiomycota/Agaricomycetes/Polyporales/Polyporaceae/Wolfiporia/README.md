@@ -1,5 +1,4 @@
-Wolfiporia Ryvarden & Gilb. GENUS
-=======
+# Wolfiporia Ryvarden & Gilb. GENUS
 
 #### Status
 ACCEPTED

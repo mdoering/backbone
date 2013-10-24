@@ -1,11 +1,10 @@
-Ramalina linearis f. linearis FORM
-=======
+# Ramalina celastri (Spreng.) Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

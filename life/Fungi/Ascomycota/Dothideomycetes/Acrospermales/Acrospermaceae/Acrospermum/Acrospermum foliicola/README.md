@@ -1,5 +1,4 @@
-Acrospermum foliicola Berk. SPECIES
-=======
+# Acrospermum foliicola Berk. SPECIES
 
 #### Status
 ACCEPTED

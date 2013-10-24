@@ -1,5 +1,4 @@
-Lecidea atlantica Müll. Arg. SPECIES
-=======
+# Lecidea atlantica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

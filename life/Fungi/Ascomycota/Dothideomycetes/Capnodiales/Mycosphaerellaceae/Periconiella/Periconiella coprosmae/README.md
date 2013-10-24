@@ -1,5 +1,4 @@
-Periconiella coprosmae G.F. Laundon, 1972 SPECIES
-=======
+# Periconiella coprosmae G.F. Laundon, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia fuscella (Quél.) Sacc. & Traverso SPECIES
-=======
+# Omphalia fuscella (Quél.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

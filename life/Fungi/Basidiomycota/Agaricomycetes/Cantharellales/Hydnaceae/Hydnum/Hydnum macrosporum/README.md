@@ -1,5 +1,4 @@
-Hydnum macrosporum Britzelm. SPECIES
-=======
+# Hydnum macrosporum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

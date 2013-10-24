@@ -1,17 +1,16 @@
-Psilocybe subaeruginascens var. subaeruginascens Höhn. VARIETY
-=======
+# Psilocybe subaeruginascens Höhn., 1914 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Psilocybe subaeruginascens var. subaeruginascens Höhn.
+Psilocybe subaeruginascens Höhn., 1914
 
 ### Remarks
 null

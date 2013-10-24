@@ -1,5 +1,4 @@
-Protospathidium muscicola (Dragesco & Dragesco-Kernéis, 1979) Foissner, 1984 SPECIES
-=======
+# Protospathidium muscicola (Dragesco & Dragesco-Kernéis, 1979) Foissner, 1984 SPECIES
 
 #### Status
 ACCEPTED

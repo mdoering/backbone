@@ -1,5 +1,4 @@
-Lentinus clitocyboides Henn. SPECIES
-=======
+# Lentinus clitocyboides Henn. SPECIES
 
 #### Status
 ACCEPTED

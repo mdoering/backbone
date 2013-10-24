@@ -1,5 +1,4 @@
-Septoria nivalis Rostr. SPECIES
-=======
+# Septoria nivalis Rostr. SPECIES
 
 #### Status
 ACCEPTED

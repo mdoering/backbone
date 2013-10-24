@@ -1,5 +1,4 @@
-Discohainesia Nannfeldt, 1932 GENUS
-=======
+# Discohainesia Nannfeldt, 1932 GENUS
 
 #### Status
 ACCEPTED

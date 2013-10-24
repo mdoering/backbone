@@ -1,5 +1,4 @@
-Rinodina controversa var. controversa VARIETY
-=======
+# Rinodina controversa SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Ric. auton. lich. crost. (Verona) 16, fig. 23 (1852)
+null
 
 #### Original name
-Rinodina controversa var. controversa
+null
 
 ### Remarks
 null

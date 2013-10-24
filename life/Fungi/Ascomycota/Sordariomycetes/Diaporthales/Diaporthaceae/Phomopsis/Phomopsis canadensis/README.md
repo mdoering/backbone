@@ -1,5 +1,4 @@
-Phomopsis canadensis Bubák & Dearn. SPECIES
-=======
+# Phomopsis canadensis Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

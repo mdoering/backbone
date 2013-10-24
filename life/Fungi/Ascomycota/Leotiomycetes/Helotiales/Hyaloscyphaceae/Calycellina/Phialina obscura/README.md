@@ -1,5 +1,4 @@
-Phialina obscura Raitv. SPECIES
-=======
+# Phialina obscura Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyophora braunii Henn. SPECIES
-=======
+# Dictyophora braunii Henn. SPECIES
 
 #### Status
 ACCEPTED

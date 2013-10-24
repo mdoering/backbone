@@ -1,5 +1,4 @@
-Lecanographa uniseptata Ertz, van den Boom, Tehler & Degreef SPECIES
-=======
+# Lecanographa uniseptata Ertz, van den Boom, Tehler & Degreef SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium minimum Lantzsch SPECIES
-=======
+# Gymnodinium minimum Lantzsch SPECIES
 
 #### Status
 ACCEPTED

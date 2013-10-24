@@ -1,5 +1,4 @@
-Coelosphaerium compositum Liebetanz SPECIES
-=======
+# Coelosphaerium compositum Liebetanz SPECIES
 
 #### Status
 ACCEPTED

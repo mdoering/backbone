@@ -1,5 +1,4 @@
-Bulgariopsis Henn. GENUS
-=======
+# Bulgariopsis Henn. GENUS
 
 #### Status
 ACCEPTED

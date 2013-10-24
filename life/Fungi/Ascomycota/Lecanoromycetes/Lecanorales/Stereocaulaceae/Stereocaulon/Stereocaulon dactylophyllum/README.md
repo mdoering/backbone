@@ -1,17 +1,16 @@
-Stereocaulon coralloides f. coralloides FORM
-=======
+# Stereocaulon dactylophyllum Flörke SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sched. Crit. Lich. Exs. 3: 24 (1825)
+Deutsche Lich. 4: 13 (1819)
 
 #### Original name
-Stereocaulon coralloides f. coralloides
+Stereocaulon dactylophyllum Flörke
 
 ### Remarks
 null

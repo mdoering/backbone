@@ -1,5 +1,4 @@
-Puccinia contengens G. Cunn. SPECIES
-=======
+# Puccinia contengens G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gasparrinia sympageella (Vain.) C.W. Dodge SPECIES
-=======
+# Gasparrinia sympageella (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

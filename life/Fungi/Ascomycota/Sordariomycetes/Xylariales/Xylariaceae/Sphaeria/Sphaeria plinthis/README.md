@@ -1,5 +1,4 @@
-Sphaeria plinthis Fr. SPECIES
-=======
+# Sphaeria plinthis Fr. SPECIES
 
 #### Status
 ACCEPTED

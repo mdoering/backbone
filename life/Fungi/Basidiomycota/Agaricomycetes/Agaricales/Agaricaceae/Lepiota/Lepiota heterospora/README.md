@@ -1,5 +1,4 @@
-Lepiota heterospora (Locq.) Pilát SPECIES
-=======
+# Lepiota heterospora (Locq.) Pilát SPECIES
 
 #### Status
 ACCEPTED

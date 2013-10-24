@@ -1,5 +1,4 @@
-Xylomites stigmariaeformis Göpp. SPECIES
-=======
+# Xylomites stigmariaeformis Göpp. SPECIES
 
 #### Status
 ACCEPTED

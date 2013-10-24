@@ -1,5 +1,4 @@
-Hofkerina semiornata (Howchin, 1899) SPECIES
-=======
+# Hofkerina semiornata (Howchin, 1899) SPECIES
 
 #### Status
 ACCEPTED

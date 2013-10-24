@@ -1,5 +1,4 @@
-Sapromyces Fritsch, 1893 GENUS
-=======
+# Sapromyces Fritsch, 1893 GENUS
 
 #### Status
 ACCEPTED

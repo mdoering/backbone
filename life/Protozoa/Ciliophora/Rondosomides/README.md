@@ -1,5 +1,4 @@
-Rondosomides Jankowski, 1981 GENUS
-=======
+# Rondosomides Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

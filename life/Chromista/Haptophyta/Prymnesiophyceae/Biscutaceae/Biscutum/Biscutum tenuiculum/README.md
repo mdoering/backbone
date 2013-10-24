@@ -1,5 +1,4 @@
-Biscutum tenuiculum H. Okada & H. R. Thierstein SPECIES
-=======
+# Biscutum tenuiculum H. Okada & H. R. Thierstein SPECIES
 
 #### Status
 ACCEPTED

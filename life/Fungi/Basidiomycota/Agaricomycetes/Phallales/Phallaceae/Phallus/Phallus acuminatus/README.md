@@ -1,5 +1,4 @@
-Phallus acuminatus Batsch SPECIES
-=======
+# Phallus acuminatus Batsch SPECIES
 
 #### Status
 ACCEPTED

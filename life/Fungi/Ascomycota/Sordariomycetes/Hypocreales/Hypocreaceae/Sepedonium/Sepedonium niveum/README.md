@@ -1,5 +1,4 @@
-Sepedonium niveum Massee & E.S. Salmon SPECIES
-=======
+# Sepedonium niveum Massee & E.S. Salmon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea urceolariae Nyl. SPECIES
-=======
+# Lecidea urceolariae Nyl. SPECIES
 
 #### Status
 ACCEPTED

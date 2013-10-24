@@ -1,5 +1,4 @@
-Catinaria isidiza (Makhija & Nagarkar) Sipman SPECIES
-=======
+# Catinaria isidiza (Makhija & Nagarkar) Sipman SPECIES
 
 #### Status
 ACCEPTED

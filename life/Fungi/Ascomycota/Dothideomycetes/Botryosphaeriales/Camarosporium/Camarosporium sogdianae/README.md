@@ -1,5 +1,4 @@
-Camarosporium sogdianae Kravtzev & Deeva {?} SPECIES
-=======
+# Camarosporium sogdianae Kravtzev & Deeva {?} SPECIES
 
 #### Status
 ACCEPTED

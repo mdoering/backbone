@@ -1,5 +1,4 @@
-Ovoidophycus A.G. Vologdin, 1962 GENUS
-=======
+# Ovoidophycus A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

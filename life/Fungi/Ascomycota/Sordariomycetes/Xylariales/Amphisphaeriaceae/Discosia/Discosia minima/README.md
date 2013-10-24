@@ -1,5 +1,4 @@
-Discosia minima Berk. & M.A. Curtis SPECIES
-=======
+# Discosia minima Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

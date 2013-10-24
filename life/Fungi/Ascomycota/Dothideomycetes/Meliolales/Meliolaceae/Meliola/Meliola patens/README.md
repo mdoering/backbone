@@ -1,5 +1,4 @@
-Meliola patens Syd. & P. Syd. SPECIES
-=======
+# Meliola patens Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

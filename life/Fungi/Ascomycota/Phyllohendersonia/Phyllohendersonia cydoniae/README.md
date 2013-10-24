@@ -1,5 +1,4 @@
-Phyllohendersonia cydoniae (Cooke & Ellis) Tassi SPECIES
-=======
+# Phyllohendersonia cydoniae (Cooke & Ellis) Tassi SPECIES
 
 #### Status
 ACCEPTED

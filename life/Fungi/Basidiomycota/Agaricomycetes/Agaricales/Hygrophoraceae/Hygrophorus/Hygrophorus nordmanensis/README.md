@@ -1,5 +1,4 @@
-Hygrophorus nordmanensis Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus nordmanensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

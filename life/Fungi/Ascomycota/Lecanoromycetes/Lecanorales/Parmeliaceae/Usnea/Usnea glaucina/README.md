@@ -1,5 +1,4 @@
-Usnea glaucina Motyka ex Tomin SPECIES
-=======
+# Usnea glaucina Motyka ex Tomin SPECIES
 
 #### Status
 ACCEPTED

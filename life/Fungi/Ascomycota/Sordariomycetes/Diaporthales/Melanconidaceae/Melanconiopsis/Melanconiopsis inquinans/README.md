@@ -1,5 +1,4 @@
-Melanconiopsis inquinans Ellis & Everh., 1900 SPECIES
-=======
+# Melanconiopsis inquinans Ellis & Everh., 1900 SPECIES
 
 #### Status
 ACCEPTED

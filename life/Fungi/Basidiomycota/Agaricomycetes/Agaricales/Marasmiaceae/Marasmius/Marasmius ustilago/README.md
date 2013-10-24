@@ -1,5 +1,4 @@
-Marasmius ustilago Singer SPECIES
-=======
+# Marasmius ustilago Singer SPECIES
 
 #### Status
 ACCEPTED

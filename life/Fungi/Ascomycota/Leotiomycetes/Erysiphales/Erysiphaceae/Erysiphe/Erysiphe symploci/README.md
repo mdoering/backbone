@@ -1,5 +1,4 @@
-Erysiphe symploci J.N. Kapoor SPECIES
-=======
+# Erysiphe symploci J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

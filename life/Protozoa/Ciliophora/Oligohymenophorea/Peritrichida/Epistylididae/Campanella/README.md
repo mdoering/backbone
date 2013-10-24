@@ -1,5 +1,4 @@
-Campanella Goldfuss, 1820 GENUS
-=======
+# Campanella Goldfuss, 1820 GENUS
 
 #### Status
 ACCEPTED

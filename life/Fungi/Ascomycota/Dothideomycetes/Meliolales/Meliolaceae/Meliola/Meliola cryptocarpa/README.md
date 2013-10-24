@@ -1,5 +1,4 @@
-Meliola cryptocarpa Ellis & G. Martin SPECIES
-=======
+# Meliola cryptocarpa Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

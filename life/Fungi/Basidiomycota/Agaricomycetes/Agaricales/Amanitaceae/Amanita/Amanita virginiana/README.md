@@ -1,5 +1,4 @@
-Amanita virginiana (Murrill) Sacc. & Trotter SPECIES
-=======
+# Amanita virginiana (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

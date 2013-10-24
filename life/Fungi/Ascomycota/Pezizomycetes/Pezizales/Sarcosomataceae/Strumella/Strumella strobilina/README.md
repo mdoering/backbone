@@ -1,5 +1,4 @@
-Strumella strobilina Briard & Har. SPECIES
-=======
+# Strumella strobilina Briard & Har. SPECIES
 
 #### Status
 ACCEPTED

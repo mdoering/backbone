@@ -1,5 +1,4 @@
-Helotium persoonii Mont. SPECIES
-=======
+# Helotium persoonii Mont. SPECIES
 
 #### Status
 ACCEPTED

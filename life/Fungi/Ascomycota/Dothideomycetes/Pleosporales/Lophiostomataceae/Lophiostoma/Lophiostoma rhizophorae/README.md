@@ -1,5 +1,4 @@
-Lophiostoma rhizophorae (Poonyth, K.D. Hyde, Aptroot & Peerally) Aptroot & K.D. Hyde, 2002 SPECIES
-=======
+# Lophiostoma rhizophorae (Poonyth, K.D. Hyde, Aptroot & Peerally) Aptroot & K.D. Hyde, 2002 SPECIES
 
 #### Status
 ACCEPTED

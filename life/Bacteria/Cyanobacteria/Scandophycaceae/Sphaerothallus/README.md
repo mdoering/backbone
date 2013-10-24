@@ -1,5 +1,4 @@
-Sphaerothallus A.G. Vologdin, 1962 GENUS
-=======
+# Sphaerothallus A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

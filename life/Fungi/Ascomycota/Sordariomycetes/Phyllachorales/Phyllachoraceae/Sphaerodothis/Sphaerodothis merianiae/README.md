@@ -1,5 +1,4 @@
-Sphaerodothis merianiae Orejuela, 1944 SPECIES
-=======
+# Sphaerodothis merianiae Orejuela, 1944 SPECIES
 
 #### Status
 ACCEPTED

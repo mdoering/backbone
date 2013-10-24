@@ -1,5 +1,4 @@
-Leptosphaeria olericola (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Leptosphaeria olericola (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

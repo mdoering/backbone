@@ -1,5 +1,4 @@
-Piromyces polycephalus Y.C. Chen, C.Y. Chien & R.S. Hseu, 2002 SPECIES
-=======
+# Piromyces polycephalus Y.C. Chen, C.Y. Chien & R.S. Hseu, 2002 SPECIES
 
 #### Status
 ACCEPTED

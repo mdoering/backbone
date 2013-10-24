@@ -1,5 +1,4 @@
-Leptothyrium philodendri Bat. & I.H. Lima SPECIES
-=======
+# Leptothyrium philodendri Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

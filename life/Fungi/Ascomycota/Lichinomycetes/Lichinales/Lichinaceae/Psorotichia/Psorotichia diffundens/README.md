@@ -1,14 +1,13 @@
-Collemopsis diffundens (Nyl.) Cromb. SPECIES
-=======
+# Psorotichia diffundens (Nyl.) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 52: 513 (1869)
 
 #### Original name
 Pyrenopsis diffundens Nyl.

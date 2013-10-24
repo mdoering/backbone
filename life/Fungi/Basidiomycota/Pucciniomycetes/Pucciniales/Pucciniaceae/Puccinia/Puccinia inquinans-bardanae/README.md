@@ -1,5 +1,4 @@
-Puccinia inquinans-bardanae anon. SPECIES
-=======
+# Puccinia inquinans-bardanae anon. SPECIES
 
 #### Status
 ACCEPTED

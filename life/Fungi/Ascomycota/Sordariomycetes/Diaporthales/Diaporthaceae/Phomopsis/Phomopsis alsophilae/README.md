@@ -1,5 +1,4 @@
-Phomopsis alsophilae (Syd. & P. Syd.) Aa SPECIES
-=======
+# Phomopsis alsophilae (Syd. & P. Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

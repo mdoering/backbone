@@ -1,5 +1,4 @@
-Aecidium erythrobasis Berk. & Broome SPECIES
-=======
+# Aecidium erythrobasis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

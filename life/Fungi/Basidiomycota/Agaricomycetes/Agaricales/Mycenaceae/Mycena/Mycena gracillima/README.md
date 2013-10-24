@@ -1,5 +1,4 @@
-Mycena gracillima (Durieu & Lév.) Sacc. SPECIES
-=======
+# Mycena gracillima (Durieu & Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

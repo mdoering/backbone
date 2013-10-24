@@ -1,5 +1,4 @@
-Aecidium pavettae Berk. SPECIES
-=======
+# Aecidium pavettae Berk. SPECIES
 
 #### Status
 ACCEPTED

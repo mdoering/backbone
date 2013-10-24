@@ -1,14 +1,13 @@
-Alysidium aegeritodes (P. Karst.) Kuntze SPECIES
-=======
+# Alysidium aegeritoides (P. Karst.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 442 (1898)
 
 #### Original name
 Oospora aegeritoides P. Karst.

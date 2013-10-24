@@ -1,5 +1,4 @@
-Cytospora coenobitica Sacc. SPECIES
-=======
+# Cytospora coenobitica Sacc. SPECIES
 
 #### Status
 ACCEPTED

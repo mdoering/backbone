@@ -1,5 +1,4 @@
-Graphis altamirensis Sipman & Lücking SPECIES
-=======
+# Graphis altamirensis Sipman & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrococcus humidus SPECIES
-=======
+# Micrococcus humidus SPECIES
 
 #### Status
 ACCEPTED

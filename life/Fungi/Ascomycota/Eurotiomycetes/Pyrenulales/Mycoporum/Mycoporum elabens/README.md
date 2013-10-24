@@ -1,14 +1,13 @@
-Arthonia elabens (Schaer.) Boistel SPECIES
-=======
+# Mycoporum elabens (Schaer.) Flot. ex Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Act. Soc. linn. Bordeaux 21: 417 (1856)
 
 #### Original name
 Lecidea elabens Th. Fr.

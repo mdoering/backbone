@@ -1,14 +1,13 @@
-Graphis gracilescens Vain. SPECIES
-=======
+# Graphina gracilescens (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ann. Acad. Sci. fenn. 15(6): 203 (1921)
+Cat. Lich. Univers. 2: 407 (1923)
 
 #### Original name
 Graphis gracilescens Vain.

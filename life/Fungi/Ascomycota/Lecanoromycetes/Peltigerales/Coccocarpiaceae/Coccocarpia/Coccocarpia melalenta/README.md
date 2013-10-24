@@ -1,5 +1,4 @@
-Coccocarpia melalenta C. Knight SPECIES
-=======
+# Coccocarpia melalenta C. Knight SPECIES
 
 #### Status
 ACCEPTED

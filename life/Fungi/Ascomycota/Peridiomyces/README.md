@@ -1,5 +1,4 @@
-Peridiomyces H. Karst. GENUS
-=======
+# Peridiomyces H. Karst. GENUS
 
 #### Status
 ACCEPTED

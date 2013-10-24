@@ -1,5 +1,4 @@
-Pyrenula subpunctiformis (Nyl.) Eckfeldt SPECIES
-=======
+# Pyrenula subpunctiformis (Nyl.) Eckfeldt SPECIES
 
 #### Status
 ACCEPTED

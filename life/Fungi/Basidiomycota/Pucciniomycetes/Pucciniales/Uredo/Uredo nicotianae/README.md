@@ -1,5 +1,4 @@
-Uredo nicotianae Anastasia, Sacc. & Splend. SPECIES
-=======
+# Uredo nicotianae Anastasia, Sacc. & Splend. SPECIES
 
 #### Status
 ACCEPTED

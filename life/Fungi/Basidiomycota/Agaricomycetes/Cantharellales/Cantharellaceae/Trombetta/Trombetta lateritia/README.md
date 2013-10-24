@@ -1,5 +1,4 @@
-Trombetta lateritia (Berk.) Kuntze SPECIES
-=======
+# Trombetta lateritia (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

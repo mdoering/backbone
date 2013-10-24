@@ -1,5 +1,4 @@
-Kusanobotrys bambusae Henn., 1904 SPECIES
-=======
+# Kusanobotrys bambusae Henn., 1904 SPECIES
 
 #### Status
 ACCEPTED

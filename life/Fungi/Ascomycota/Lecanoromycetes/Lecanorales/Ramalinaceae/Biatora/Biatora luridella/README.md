@@ -1,5 +1,4 @@
-Biatora luridella (Tuck.) Tuck. SPECIES
-=======
+# Biatora luridella (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

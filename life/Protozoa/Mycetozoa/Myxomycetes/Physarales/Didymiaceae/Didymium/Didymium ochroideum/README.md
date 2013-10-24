@@ -1,5 +1,4 @@
-Didymium ochroideum G. Lister, 1931 SPECIES
-=======
+# Didymium ochroideum G. Lister, 1931 SPECIES
 
 #### Status
 ACCEPTED

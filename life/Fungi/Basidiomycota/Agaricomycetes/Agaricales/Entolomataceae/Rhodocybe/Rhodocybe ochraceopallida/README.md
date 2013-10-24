@@ -1,5 +1,4 @@
-Rhodocybe ochraceopallida Ballero & Contu SPECIES
-=======
+# Rhodocybe ochraceopallida Ballero & Contu SPECIES
 
 #### Status
 ACCEPTED

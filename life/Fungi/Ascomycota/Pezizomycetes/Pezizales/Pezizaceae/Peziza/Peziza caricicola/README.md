@@ -1,5 +1,4 @@
-Peziza caricicola Lasch SPECIES
-=======
+# Peziza caricicola Lasch SPECIES
 
 #### Status
 ACCEPTED

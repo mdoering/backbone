@@ -1,5 +1,4 @@
-Calopadia chacoensis (Malme) Kalb & Vezda SPECIES
-=======
+# Calopadia chacoensis (Malme) Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

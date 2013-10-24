@@ -1,5 +1,4 @@
-Coleroa spinarum Höhn. SPECIES
-=======
+# Coleroa spinarum Höhn. SPECIES
 
 #### Status
 ACCEPTED

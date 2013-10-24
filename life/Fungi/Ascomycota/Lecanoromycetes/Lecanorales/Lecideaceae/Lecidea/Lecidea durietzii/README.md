@@ -1,5 +1,4 @@
-Lecidea durietzii H. Magn. SPECIES
-=======
+# Lecidea durietzii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria leptophora Nyl. SPECIES
-=======
+# Pertusaria leptophora Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Ceratium vultur subsp. vultur SUBSPECIES
-=======
+# Ceratium vultur Cleve SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

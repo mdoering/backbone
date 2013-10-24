@@ -1,5 +1,4 @@
-Hendersonia triacanthi ß minus Sacc. SPECIES
-=======
+# Hendersonia triacanthi ß minus Sacc. SPECIES
 
 #### Status
 ACCEPTED

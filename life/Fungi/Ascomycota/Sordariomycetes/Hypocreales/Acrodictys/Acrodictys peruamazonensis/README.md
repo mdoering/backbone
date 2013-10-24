@@ -1,5 +1,4 @@
-Acrodictys peruamazonensis Matsush. SPECIES
-=======
+# Acrodictys peruamazonensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

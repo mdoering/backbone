@@ -1,5 +1,4 @@
-Sclerophyton occidentalum Herre SPECIES
-=======
+# Sclerophyton occidentalum Herre SPECIES
 
 #### Status
 ACCEPTED

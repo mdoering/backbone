@@ -1,5 +1,4 @@
-Dimerina mindanaensis (Henn.) Hansf. SPECIES
-=======
+# Dimerina mindanaensis (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

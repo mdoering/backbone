@@ -1,5 +1,4 @@
-Phyllocrea quitensis (Pat.) Höhn., 1918 SPECIES
-=======
+# Phyllocrea quitensis (Pat.) Höhn., 1918 SPECIES
 
 #### Status
 ACCEPTED

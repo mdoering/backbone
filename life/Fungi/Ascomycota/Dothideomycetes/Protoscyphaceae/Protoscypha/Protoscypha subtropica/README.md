@@ -1,14 +1,13 @@
-Dothiora subtropica (G. Winter) J.H. Mill. & Burton, 1943 SPECIES
-=======
+# Protoscypha subtropica (G. Winter) Petr., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 35(1): 83 (1943)
+Annls mycol. 32: 363 (1934)
 
 #### Original name
 Blitridium subtropicum G. Winter

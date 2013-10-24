@@ -1,14 +1,13 @@
-Phoma rhamnigena Fautrey SPECIES
-=======
+# Helhonia rhamnigena (Fautrey) B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+The Coelomycetes (Kew) 600 (1980)
 
 #### Original name
 Phoma rhamnigena Fautrey

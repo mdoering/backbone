@@ -1,5 +1,4 @@
-Opegrapha rinodinae Vezda SPECIES
-=======
+# Opegrapha rinodinae Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Trachelomonas bernardii var. legatovii Skvortzov VARIETY
-=======
+# Trachelomonas legatovii (Skvortzov) Deflandre SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

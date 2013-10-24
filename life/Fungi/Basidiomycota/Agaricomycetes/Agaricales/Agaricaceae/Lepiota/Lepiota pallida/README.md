@@ -1,5 +1,4 @@
-Lepiota pallida Locq. ex Bon & Candusso SPECIES
-=======
+# Lepiota pallida Locq. ex Bon & Candusso SPECIES
 
 #### Status
 ACCEPTED

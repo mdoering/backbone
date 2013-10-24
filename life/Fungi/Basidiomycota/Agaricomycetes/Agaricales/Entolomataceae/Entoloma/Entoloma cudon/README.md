@@ -1,5 +1,4 @@
-Entoloma cudon Fr. SPECIES
-=======
+# Entoloma cudon Fr. SPECIES
 
 #### Status
 ACCEPTED

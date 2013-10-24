@@ -1,5 +1,4 @@
-Dirinastromyces australiensis Cif. & Tomas. SPECIES
-=======
+# Dirinastromyces australiensis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

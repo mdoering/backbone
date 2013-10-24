@@ -1,17 +1,16 @@
-Crinipellis schevczenkovi Bukhalo SPECIES
-=======
+# Crinipellis schevczenkoi Bukhalo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ukr. bot. Zh. 40(3): 99 (1983)
 
 #### Original name
-Crinipellis schevczenkovi Bukhalo
+Crinipellis schevczenkoi Bukhalo
 
 ### Remarks
 null

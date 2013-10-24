@@ -1,5 +1,4 @@
-Ceratosphaeria ervatamiicola A.K. Kar & Maity SPECIES
-=======
+# Ceratosphaeria ervatamiicola A.K. Kar & Maity SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Escovopsis aspergilloides Seifert, Samson & Chapela, 1995 SPECIES
-=======
+# Escovopsis aspergilloides Seifert, Samson & Chapela, 1995 SPECIES
 
 #### Status
 ACCEPTED

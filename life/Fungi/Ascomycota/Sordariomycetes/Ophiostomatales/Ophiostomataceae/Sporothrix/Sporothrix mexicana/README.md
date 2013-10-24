@@ -1,5 +1,4 @@
-Sporothrix mexicana Marimon, Gené, Cano & Guarro, 2007 SPECIES
-=======
+# Sporothrix mexicana Marimon, Gené, Cano & Guarro, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plata Amaro, 1966 GENUS
-=======
+# Plata Amaro, 1966 GENUS
 
 #### Status
 ACCEPTED

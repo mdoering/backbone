@@ -1,5 +1,4 @@
-Pluteolus flavellus Murrill SPECIES
-=======
+# Pluteolus flavellus Murrill SPECIES
 
 #### Status
 ACCEPTED

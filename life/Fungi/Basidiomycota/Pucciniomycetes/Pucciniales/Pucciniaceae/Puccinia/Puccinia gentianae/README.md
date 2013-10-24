@@ -1,14 +1,13 @@
-Uredo gentianae F. Strauss, 1810 SPECIES
-=======
+# Puccinia gentianae (F. Strauss) Link, 1824 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Wetter. Gesellsch. Ges. Naturk. 2: 102 (1810)
+in Willdenow, Willd. , Sp. pl. , Edn 4 6(1): 73 (1824)
 
 #### Original name
 Uredo gentianae F. Strauss, 1810

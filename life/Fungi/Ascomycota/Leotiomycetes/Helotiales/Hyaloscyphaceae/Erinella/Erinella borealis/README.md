@@ -1,5 +1,4 @@
-Erinella borealis Povah SPECIES
-=======
+# Erinella borealis Povah SPECIES
 
 #### Status
 ACCEPTED

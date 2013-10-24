@@ -1,5 +1,4 @@
-Erioderma pellitum P.M. Jørg. & Sipman SPECIES
-=======
+# Erioderma pellitum P.M. Jørg. & Sipman SPECIES
 
 #### Status
 ACCEPTED

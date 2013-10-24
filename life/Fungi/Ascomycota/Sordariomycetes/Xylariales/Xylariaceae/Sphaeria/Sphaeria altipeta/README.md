@@ -1,5 +1,4 @@
-Sphaeria altipeta Peck SPECIES
-=======
+# Sphaeria altipeta Peck SPECIES
 
 #### Status
 ACCEPTED

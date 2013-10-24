@@ -1,5 +1,4 @@
-Chiodecton sarniense Salwey SPECIES
-=======
+# Chiodecton sarniense Salwey SPECIES
 
 #### Status
 ACCEPTED

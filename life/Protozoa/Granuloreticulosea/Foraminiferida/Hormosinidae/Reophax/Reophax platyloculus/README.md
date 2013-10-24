@@ -1,5 +1,4 @@
-Reophax platyloculus Zheng & Fu, 2001 SPECIES
-=======
+# Reophax platyloculus Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella hypertropicalis var. hypertropicalis VARIETY
-=======
+# Psathyrella hypertropicalis Guzmán, Bandala & Montoya SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Brittonia 40(2): 229 (1988)
 
 #### Original name
-Psathyrella hypertropicalis var. hypertropicalis
+Psathyrella hypertropicalis Guzmán, Bandala & Montoya
 
 ### Remarks
 null

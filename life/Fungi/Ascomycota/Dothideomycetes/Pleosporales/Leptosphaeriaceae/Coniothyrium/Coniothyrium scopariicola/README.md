@@ -1,17 +1,16 @@
-Coniothyrium scopariicolum Petr. SPECIES
-=======
+# Coniothyrium scopariicola Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Petrak & Sydow, Feddes Repert. Spec. Nov. Regni Veg. , Beih. 42: 361 (1927)
 
 #### Original name
-Coniothyrium scopariicolum Petr.
+Coniothyrium scopariicola Petr.
 
 ### Remarks
 null

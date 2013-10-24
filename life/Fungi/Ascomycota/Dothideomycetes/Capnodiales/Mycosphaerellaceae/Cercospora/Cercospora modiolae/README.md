@@ -1,5 +1,4 @@
-Cercospora modiolae Tharp, 1917 SPECIES
-=======
+# Cercospora modiolae Tharp, 1917 SPECIES
 
 #### Status
 ACCEPTED

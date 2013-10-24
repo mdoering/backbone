@@ -1,5 +1,4 @@
-Microthyrium minutissimum Thüm. SPECIES
-=======
+# Microthyrium minutissimum Thüm. SPECIES
 
 #### Status
 ACCEPTED

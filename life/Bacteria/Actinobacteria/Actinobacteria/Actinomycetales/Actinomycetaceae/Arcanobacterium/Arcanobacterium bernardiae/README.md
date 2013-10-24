@@ -1,8 +1,7 @@
-Actinomyces bernardiae Funke et al., 1995 SPECIES
-=======
+# Arcanobacterium bernardiae (Funke et al., 1995) Pascual Ramos et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

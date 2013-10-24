@@ -1,11 +1,10 @@
-Planispirinoides bucculentus subsp. bucculentus SUBSPECIES
-=======
+# Planispirinoides bucculentus (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+World Register of Marine Species
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Chapsa granulifera Frisch & Kalb SPECIES
-=======
+# Chapsa granulifera Frisch & Kalb SPECIES
 
 #### Status
 ACCEPTED

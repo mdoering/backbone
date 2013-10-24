@@ -1,5 +1,4 @@
-Pestalotiopsis puyae (Henn.) Nag Raj SPECIES
-=======
+# Pestalotiopsis puyae (Henn.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

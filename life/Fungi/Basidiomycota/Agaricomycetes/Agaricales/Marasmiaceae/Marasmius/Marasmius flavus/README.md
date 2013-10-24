@@ -1,5 +1,4 @@
-Marasmius flavus Singer SPECIES
-=======
+# Marasmius flavus Singer SPECIES
 
 #### Status
 ACCEPTED

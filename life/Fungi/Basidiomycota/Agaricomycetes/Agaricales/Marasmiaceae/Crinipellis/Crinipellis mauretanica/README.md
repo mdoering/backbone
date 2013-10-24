@@ -1,8 +1,7 @@
-Crinipellis mauretanicus Maire SPECIES
-=======
+# Crinipellis mauretanica Maire SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Crinipellis mauretanicus Maire
+Crinipellis mauretanica Maire
 
 ### Remarks
 null

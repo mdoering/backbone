@@ -1,5 +1,4 @@
-Sphacelotheca leucostachys (Henn.) Zundel SPECIES
-=======
+# Sphacelotheca leucostachys (Henn.) Zundel SPECIES
 
 #### Status
 ACCEPTED

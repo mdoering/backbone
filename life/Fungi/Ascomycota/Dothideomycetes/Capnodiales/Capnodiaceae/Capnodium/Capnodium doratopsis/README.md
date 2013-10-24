@@ -1,5 +1,4 @@
-Capnodium doratopsis Speg. SPECIES
-=======
+# Capnodium doratopsis Speg. SPECIES
 
 #### Status
 ACCEPTED

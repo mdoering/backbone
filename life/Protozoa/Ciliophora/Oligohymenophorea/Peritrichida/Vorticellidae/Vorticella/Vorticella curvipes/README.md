@@ -1,5 +1,4 @@
-Vorticella curvipes Dumas, 1929 SPECIES
-=======
+# Vorticella curvipes Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

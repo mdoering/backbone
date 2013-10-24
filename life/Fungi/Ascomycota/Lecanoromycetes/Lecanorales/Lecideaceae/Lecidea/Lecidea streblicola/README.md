@@ -1,5 +1,4 @@
-Lecidea streblicola Vain. SPECIES
-=======
+# Lecidea streblicola Vain. SPECIES
 
 #### Status
 ACCEPTED

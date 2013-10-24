@@ -1,5 +1,4 @@
-Asteridiella cyclopoda var. cyclopoda (F. Stevens) Hansf. VARIETY
-=======
+# Asteridiella cyclopoda (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

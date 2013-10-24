@@ -1,5 +1,4 @@
-Hendersonia taxi Hollós SPECIES
-=======
+# Hendersonia taxi Hollós SPECIES
 
 #### Status
 ACCEPTED

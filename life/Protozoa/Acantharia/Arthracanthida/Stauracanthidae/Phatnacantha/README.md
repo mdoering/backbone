@@ -1,5 +1,4 @@
-Phatnacantha Haeckel, 1881 GENUS
-=======
+# Phatnacantha Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

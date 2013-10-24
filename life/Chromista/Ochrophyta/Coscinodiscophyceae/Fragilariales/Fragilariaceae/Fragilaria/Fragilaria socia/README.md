@@ -1,5 +1,4 @@
-Fragilaria socia (Wallace) Lange-Bertalot SPECIES
-=======
+# Fragilaria socia (Wallace) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

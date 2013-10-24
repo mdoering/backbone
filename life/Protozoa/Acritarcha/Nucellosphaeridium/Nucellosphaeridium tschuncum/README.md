@@ -1,5 +1,4 @@
-Nucellosphaeridium tschuncum Timofeev, 1963 SPECIES
-=======
+# Nucellosphaeridium tschuncum Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

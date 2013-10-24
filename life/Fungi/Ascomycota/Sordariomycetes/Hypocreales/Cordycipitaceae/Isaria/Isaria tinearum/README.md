@@ -1,5 +1,4 @@
-Isaria tinearum Speg. SPECIES
-=======
+# Isaria tinearum Speg. SPECIES
 
 #### Status
 ACCEPTED

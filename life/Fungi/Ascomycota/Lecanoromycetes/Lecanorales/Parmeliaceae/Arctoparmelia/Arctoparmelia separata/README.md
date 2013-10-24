@@ -1,17 +1,16 @@
-Parmelia separata f. subcylindracea Oxner FORM
-=======
+# Arctoparmelia separata (Th. Fr.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 25(1): 252 (1986)
 
 #### Original name
-Parmelia separata f. subcylindracea Oxner
+Parmelia separata Th. Fr.
 
 ### Remarks
 null

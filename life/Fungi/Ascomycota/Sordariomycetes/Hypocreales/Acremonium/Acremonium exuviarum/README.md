@@ -1,5 +1,4 @@
-Acremonium exuviarum Sigler, Zuccaro, Summerb. & Paré SPECIES
-=======
+# Acremonium exuviarum Sigler, Zuccaro, Summerb. & Paré SPECIES
 
 #### Status
 ACCEPTED

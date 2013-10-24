@@ -1,5 +1,4 @@
-Selenidium cometomorpha Schrével, 1971 SPECIES
-=======
+# Selenidium cometomorpha Schrével, 1971 SPECIES
 
 #### Status
 ACCEPTED

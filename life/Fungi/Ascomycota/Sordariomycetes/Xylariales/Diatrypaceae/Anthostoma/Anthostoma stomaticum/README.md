@@ -1,5 +1,4 @@
-Anthostoma stomaticum (Cooke) Berl. & Voglino SPECIES
-=======
+# Anthostoma stomaticum (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

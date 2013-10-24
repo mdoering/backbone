@@ -1,5 +1,4 @@
-Selenosporella nandiensis B. Sutton SPECIES
-=======
+# Selenosporella nandiensis B. Sutton SPECIES
 
 #### Status
 ACCEPTED

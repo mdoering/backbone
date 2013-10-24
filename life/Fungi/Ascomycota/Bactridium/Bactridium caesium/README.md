@@ -1,5 +1,4 @@
-Bactridium caesium Höhn. SPECIES
-=======
+# Bactridium caesium Höhn. SPECIES
 
 #### Status
 ACCEPTED

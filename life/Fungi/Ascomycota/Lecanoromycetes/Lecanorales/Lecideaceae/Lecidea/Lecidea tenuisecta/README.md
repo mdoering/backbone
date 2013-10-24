@@ -1,5 +1,4 @@
-Lecidea tenuisecta Vain. SPECIES
-=======
+# Lecidea tenuisecta Vain. SPECIES
 
 #### Status
 ACCEPTED

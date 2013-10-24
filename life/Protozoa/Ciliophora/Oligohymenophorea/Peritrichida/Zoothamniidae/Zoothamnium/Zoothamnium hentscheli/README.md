@@ -1,5 +1,4 @@
-Zoothamnium hentscheli Kahl, 1935 SPECIES
-=======
+# Zoothamnium hentscheli Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

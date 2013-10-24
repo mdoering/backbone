@@ -1,5 +1,4 @@
-Leptosphaeria hispanica Checa & G. Moreno, 1987 SPECIES
-=======
+# Leptosphaeria hispanica Checa & G. Moreno, 1987 SPECIES
 
 #### Status
 ACCEPTED

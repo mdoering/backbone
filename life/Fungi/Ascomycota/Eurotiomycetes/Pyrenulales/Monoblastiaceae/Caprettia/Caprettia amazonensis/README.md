@@ -1,5 +1,4 @@
-Caprettia amazonensis Bat. & H. Maia SPECIES
-=======
+# Caprettia amazonensis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

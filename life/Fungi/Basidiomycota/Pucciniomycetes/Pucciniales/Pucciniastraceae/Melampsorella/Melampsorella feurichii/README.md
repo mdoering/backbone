@@ -1,5 +1,4 @@
-Melampsorella feurichii Magnus SPECIES
-=======
+# Melampsorella feurichii Magnus SPECIES
 
 #### Status
 ACCEPTED

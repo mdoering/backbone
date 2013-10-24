@@ -1,8 +1,7 @@
-Kolpoda rostrum Muller, 1773 SPECIES
-=======
+# Loxodes rostrum (Müller, 1773) Ehrenberg, 1830 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

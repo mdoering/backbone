@@ -1,5 +1,4 @@
-Cytospora pseudoplatani Sacc. SPECIES
-=======
+# Cytospora pseudoplatani Sacc. SPECIES
 
 #### Status
 ACCEPTED

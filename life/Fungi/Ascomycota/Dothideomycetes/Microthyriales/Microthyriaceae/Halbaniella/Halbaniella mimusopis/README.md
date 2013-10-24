@@ -1,5 +1,4 @@
-Halbaniella mimusopis Hansf. SPECIES
-=======
+# Halbaniella mimusopis Hansf. SPECIES
 
 #### Status
 ACCEPTED

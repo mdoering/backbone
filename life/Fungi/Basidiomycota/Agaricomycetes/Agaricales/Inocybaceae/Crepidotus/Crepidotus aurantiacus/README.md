@@ -1,5 +1,4 @@
-Crepidotus aurantiacus Bres. SPECIES
-=======
+# Crepidotus aurantiacus Bres. SPECIES
 
 #### Status
 ACCEPTED

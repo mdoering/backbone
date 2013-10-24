@@ -1,5 +1,4 @@
-Volvariella aethiops A. Favre & Vialard SPECIES
-=======
+# Volvariella aethiops A. Favre & Vialard SPECIES
 
 #### Status
 ACCEPTED

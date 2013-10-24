@@ -1,5 +1,4 @@
-Arthonia noli-tangere (Mont.) Nyl. SPECIES
-=======
+# Arthonia noli-tangere (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

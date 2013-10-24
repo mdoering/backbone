@@ -1,5 +1,4 @@
-Duosphaeridium R.J. Davey & G.L. Williams, 1966 GENUS
-=======
+# Duosphaeridium R.J. Davey & G.L. Williams, 1966 GENUS
 
 #### Status
 ACCEPTED

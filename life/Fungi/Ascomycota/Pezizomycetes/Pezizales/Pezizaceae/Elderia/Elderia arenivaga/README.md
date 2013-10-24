@@ -1,5 +1,4 @@
-Elderia arenivaga (Cooke & Massee) McLennan, 1961 SPECIES
-=======
+# Elderia arenivaga (Cooke & Massee) McLennan, 1961 SPECIES
 
 #### Status
 ACCEPTED

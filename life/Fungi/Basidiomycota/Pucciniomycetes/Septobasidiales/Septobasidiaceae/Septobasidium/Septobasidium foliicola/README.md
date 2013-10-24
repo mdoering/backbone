@@ -1,5 +1,4 @@
-Septobasidium foliicola Torrend SPECIES
-=======
+# Septobasidium foliicola Torrend SPECIES
 
 #### Status
 ACCEPTED

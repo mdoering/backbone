@@ -1,5 +1,4 @@
-Puccinia baccharidicola Henn. SPECIES
-=======
+# Puccinia baccharidicola Henn. SPECIES
 
 #### Status
 ACCEPTED

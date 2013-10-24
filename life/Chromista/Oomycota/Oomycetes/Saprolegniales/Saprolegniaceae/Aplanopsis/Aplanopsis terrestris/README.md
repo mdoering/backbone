@@ -1,5 +1,4 @@
-Aplanopsis terrestris Höhnk, 1952 SPECIES
-=======
+# Aplanopsis terrestris Höhnk, 1952 SPECIES
 
 #### Status
 ACCEPTED

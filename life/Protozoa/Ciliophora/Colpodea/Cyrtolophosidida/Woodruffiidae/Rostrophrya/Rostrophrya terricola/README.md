@@ -1,5 +1,4 @@
-Rostrophrya terricola Foissner, 1993 SPECIES
-=======
+# Rostrophrya terricola Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

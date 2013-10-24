@@ -1,5 +1,4 @@
-Phyllostictina divergens Petr. & Syd. SPECIES
-=======
+# Phyllostictina divergens Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

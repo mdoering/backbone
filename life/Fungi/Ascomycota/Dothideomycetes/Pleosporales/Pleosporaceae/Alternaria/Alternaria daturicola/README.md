@@ -1,5 +1,4 @@
-Alternaria daturicola T.Y. Zhang, G.Z. Zhao & M. Zhang SPECIES
-=======
+# Alternaria daturicola T.Y. Zhang, G.Z. Zhao & M. Zhang SPECIES
 
 #### Status
 ACCEPTED

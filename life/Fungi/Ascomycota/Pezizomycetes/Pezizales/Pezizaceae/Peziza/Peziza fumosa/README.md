@@ -1,5 +1,4 @@
-Peziza fumosa Fr. SPECIES
-=======
+# Peziza fumosa Fr. SPECIES
 
 #### Status
 ACCEPTED

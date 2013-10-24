@@ -1,5 +1,4 @@
-Teratosphaeria stellenboschiana (Crous) Crous, 2009 SPECIES
-=======
+# Teratosphaeria stellenboschiana (Crous) Crous, 2009 SPECIES
 
 #### Status
 ACCEPTED

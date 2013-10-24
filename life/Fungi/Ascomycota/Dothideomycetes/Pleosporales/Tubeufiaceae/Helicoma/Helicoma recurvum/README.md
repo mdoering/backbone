@@ -1,5 +1,4 @@
-Helicoma recurvum (Petch) Linder SPECIES
-=======
+# Helicoma recurvum (Petch) Linder SPECIES
 
 #### Status
 ACCEPTED

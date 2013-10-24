@@ -1,5 +1,4 @@
-Citrobacter werkmanii Brenner et al., 1993 SPECIES
-=======
+# Citrobacter werkmanii Brenner et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

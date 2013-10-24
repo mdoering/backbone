@@ -1,5 +1,4 @@
-Larssonia Vidtmann & Sokolova GENUS
-=======
+# Larssonia Vidtmann & Sokolova GENUS
 
 #### Status
 ACCEPTED

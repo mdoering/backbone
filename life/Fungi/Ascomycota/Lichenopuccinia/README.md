@@ -1,5 +1,4 @@
-Lichenopuccinia D. Hawksw. & Hafellner GENUS
-=======
+# Lichenopuccinia D. Hawksw. & Hafellner GENUS
 
 #### Status
 ACCEPTED

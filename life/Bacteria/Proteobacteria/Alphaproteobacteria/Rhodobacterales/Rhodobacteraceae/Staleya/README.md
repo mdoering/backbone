@@ -1,5 +1,4 @@
-Staleya Labrenz et al., 2000 GENUS
-=======
+# Staleya Labrenz et al., 2000 GENUS
 
 #### Status
 ACCEPTED

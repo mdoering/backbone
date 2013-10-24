@@ -1,5 +1,4 @@
-Hysterium hoyae Henn. SPECIES
-=======
+# Hysterium hoyae Henn. SPECIES
 
 #### Status
 ACCEPTED

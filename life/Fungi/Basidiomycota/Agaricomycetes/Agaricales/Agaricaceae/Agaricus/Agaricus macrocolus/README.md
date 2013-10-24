@@ -1,5 +1,4 @@
-Agaricus macrocolus Berk. & Broome SPECIES
-=======
+# Agaricus macrocolus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

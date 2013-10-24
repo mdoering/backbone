@@ -1,5 +1,4 @@
-Sphaeronaemella coriariae Pat. SPECIES
-=======
+# Sphaeronaemella coriariae Pat. SPECIES
 
 #### Status
 ACCEPTED

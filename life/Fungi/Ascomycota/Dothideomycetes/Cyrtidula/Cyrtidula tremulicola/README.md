@@ -1,5 +1,4 @@
-Cyrtidula tremulicola Minks SPECIES
-=======
+# Cyrtidula tremulicola Minks SPECIES
 
 #### Status
 ACCEPTED

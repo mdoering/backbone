@@ -1,5 +1,4 @@
-Gloeosporium hakeae Bond.-Mont. SPECIES
-=======
+# Gloeosporium hakeae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Comasphaeridium arcetotricum (Wicander, 1974) Eisenack et al., 1979 SPECIES
-=======
+# Comasphaeridium arcetotricum (Wicander, 1974) Eisenack et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

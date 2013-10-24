@@ -1,5 +1,4 @@
-Tetramyxa rhizophaga Lihnell, 1942 SPECIES
-=======
+# Tetramyxa rhizophaga Lihnell, 1942 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus rufoalbus (Berk.) Kuntze SPECIES
-=======
+# Fungus rufoalbus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

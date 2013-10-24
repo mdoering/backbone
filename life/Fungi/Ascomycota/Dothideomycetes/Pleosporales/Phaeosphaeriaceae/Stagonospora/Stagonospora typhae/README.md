@@ -1,5 +1,4 @@
-Stagonospora typhae Höhn. SPECIES
-=======
+# Stagonospora typhae Höhn. SPECIES
 
 #### Status
 ACCEPTED

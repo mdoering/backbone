@@ -1,5 +1,4 @@
-Septoria ranojevicii var. ranojevicii VARIETY
-=======
+# Septoria ranojevicii SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria ranojevicii var. ranojevicii
+Septoria ranojevicii
 
 ### Remarks
 null

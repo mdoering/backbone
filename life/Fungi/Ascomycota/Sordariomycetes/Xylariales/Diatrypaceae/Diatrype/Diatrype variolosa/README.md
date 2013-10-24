@@ -1,5 +1,4 @@
-Diatrype variolosa (Schwein.) Cooke SPECIES
-=======
+# Diatrype variolosa (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

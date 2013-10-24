@@ -1,14 +1,13 @@
-Nigredo ruelliae (Holw.) Arthur, 1920 SPECIES
-=======
+# Uromyces ruelliae Holw., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(4): 265 (1920)
+Annls mycol. 2: 394 (1904)
 
 #### Original name
 Uromyces ruelliae Holw., 1904

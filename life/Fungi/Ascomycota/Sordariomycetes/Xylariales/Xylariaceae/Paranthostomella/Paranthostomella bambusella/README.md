@@ -1,5 +1,4 @@
-Paranthostomella bambusella Höhn. SPECIES
-=======
+# Paranthostomella bambusella Höhn. SPECIES
 
 #### Status
 ACCEPTED

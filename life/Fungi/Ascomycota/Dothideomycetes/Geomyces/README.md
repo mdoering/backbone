@@ -1,5 +1,4 @@
-Geomyces Traaen, 1914 GENUS
-=======
+# Geomyces Traaen, 1914 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta cystopteridis H.C. Greene SPECIES
-=======
+# Phyllosticta cystopteridis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

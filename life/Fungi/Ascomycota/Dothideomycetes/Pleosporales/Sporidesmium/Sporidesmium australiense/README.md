@@ -1,14 +1,13 @@
-Penzigomyces australiensis (M.B. Ellis) Subram., 1992 SPECIES
-=======
+# Sporidesmium australiense M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 58(4): 186 (1992)
+More Dematiaceous Hyphomycetes (Kew) 94 (1976)
 
 #### Original name
 Sporidesmium australiense M.B. Ellis, 1976

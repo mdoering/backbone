@@ -1,5 +1,4 @@
-Sphacelia citri Ikata SPECIES
-=======
+# Sphacelia citri Ikata SPECIES
 
 #### Status
 ACCEPTED

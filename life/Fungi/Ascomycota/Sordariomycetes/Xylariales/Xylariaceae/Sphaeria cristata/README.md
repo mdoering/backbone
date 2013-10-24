@@ -1,17 +1,16 @@
-Sphaeria cristata var. cristata VARIETY
-=======
+# Sphaeria cristata ß cristata Pers. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Sphaeria cristata ß cristata Pers.
 
 ### Remarks
 null

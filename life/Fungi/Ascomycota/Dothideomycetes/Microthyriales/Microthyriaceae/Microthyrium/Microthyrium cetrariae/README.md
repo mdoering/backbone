@@ -1,5 +1,4 @@
-Microthyrium cetrariae Bres. SPECIES
-=======
+# Microthyrium cetrariae Bres. SPECIES
 
 #### Status
 ACCEPTED

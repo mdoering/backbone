@@ -1,5 +1,4 @@
-Endophragmiella albiziae (M.B. Ellis) S. Hughes SPECIES
-=======
+# Endophragmiella albiziae (M.B. Ellis) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

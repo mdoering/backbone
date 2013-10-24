@@ -1,14 +1,13 @@
-Rosellinia valdiviensis Speg., 1910 SPECIES
-=======
+# Helicogermslita valdiviensis (Speg.) Laessøe & Spooner, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Fac. Agron. Vet. Univ. nac. La Plata 6(1): 46 (1910)
+Kew Bull. 49(1): 47 (1994)
 
 #### Original name
 Rosellinia valdiviensis Speg., 1910

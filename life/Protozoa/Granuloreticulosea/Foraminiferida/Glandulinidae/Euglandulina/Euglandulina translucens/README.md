@@ -1,5 +1,4 @@
-Euglandulina translucens McCulloch, 1977 SPECIES
-=======
+# Euglandulina translucens McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

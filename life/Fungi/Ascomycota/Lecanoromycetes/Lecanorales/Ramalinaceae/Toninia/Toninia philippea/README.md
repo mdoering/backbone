@@ -1,17 +1,16 @@
-Bilimbia capitata (Anzi) Jatta SPECIES
-=======
+# Toninia philippea (Mont.) Timdal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. 110: 79 (1991)
 
 #### Original name
-null
+Lecidea philippea Mont.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Aphanocladium spectabile W. Gams, 1973 SPECIES
-=======
+# Stanjemonium spectabile (W. Gams) W. Gams, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 7(2): 162 (1973)
+in Gams, O'Donnell, Schroers & Christensen, Can. J. Bot. 76(9): 1581 (1999)
 
 #### Original name
 Aphanocladium spectabile W. Gams, 1973

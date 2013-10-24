@@ -1,14 +1,13 @@
-Cladotrichum mangiferae Bat., 1956 SPECIES
-=======
+# Johncouchia mangiferae (Bat.) S. Hughes & Cavalc., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anais Soc. Biol. Pernambuco 14(1/2): 99 (1956)
+Can. J. Bot. 61(8): 2227 (1983)
 
 #### Original name
 Cladotrichum mangiferae Bat., 1956

@@ -1,5 +1,4 @@
-Hagiastrum Haeckel, 1881 GENUS
-=======
+# Hagiastrum Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

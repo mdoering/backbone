@@ -1,5 +1,4 @@
-Pistillaria lignicola (Killerm.) Corner SPECIES
-=======
+# Pistillaria lignicola (Killerm.) Corner SPECIES
 
 #### Status
 ACCEPTED

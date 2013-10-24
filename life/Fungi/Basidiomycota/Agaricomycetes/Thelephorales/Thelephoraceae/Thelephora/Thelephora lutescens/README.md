@@ -1,5 +1,4 @@
-Thelephora lutescens Pers. SPECIES
-=======
+# Thelephora lutescens Pers. SPECIES
 
 #### Status
 ACCEPTED

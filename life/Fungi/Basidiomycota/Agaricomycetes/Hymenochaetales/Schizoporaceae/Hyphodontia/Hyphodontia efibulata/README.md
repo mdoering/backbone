@@ -1,14 +1,13 @@
-Kneiffiella efibulata (J. Erikss. & Hjortstam) Jülich & Stalpers, 1980 SPECIES
-=======
+# Hyphodontia efibulata J. Erikss. & Hjortstam, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. K. ned. Akad. Wet. , 2 Sectie 74: 129 (1980)
+Svensk bot. Tidskr. 63(2): 226 (1969)
 
 #### Original name
 Hyphodontia efibulata J. Erikss. & Hjortstam, 1969

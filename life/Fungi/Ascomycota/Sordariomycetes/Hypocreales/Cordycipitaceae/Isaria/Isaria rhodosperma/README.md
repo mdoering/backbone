@@ -1,5 +1,4 @@
-Isaria rhodosperma Bres. SPECIES
-=======
+# Isaria rhodosperma Bres. SPECIES
 
 #### Status
 ACCEPTED

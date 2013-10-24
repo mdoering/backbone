@@ -1,5 +1,4 @@
-Epalxella flagellata SPECIES
-=======
+# Epalxella flagellata SPECIES
 
 #### Status
 ACCEPTED

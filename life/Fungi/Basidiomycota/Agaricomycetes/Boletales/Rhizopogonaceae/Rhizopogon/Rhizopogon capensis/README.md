@@ -1,5 +1,4 @@
-Rhizopogon capensis Lloyd SPECIES
-=======
+# Rhizopogon capensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria napelli Kirschst. SPECIES
-=======
+# Didymosphaeria napelli Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocomellus Sutara, 2008 GENUS
-=======
+# Xerocomellus Sutara, 2008 GENUS
 
 #### Status
 ACCEPTED

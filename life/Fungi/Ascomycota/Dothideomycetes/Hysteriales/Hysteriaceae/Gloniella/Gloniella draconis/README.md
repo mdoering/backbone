@@ -1,5 +1,4 @@
-Gloniella draconis Speer SPECIES
-=======
+# Gloniella draconis Speer SPECIES
 
 #### Status
 ACCEPTED

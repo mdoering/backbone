@@ -1,5 +1,4 @@
-Mycopepon smithii (Ellis & Everh.) Boise SPECIES
-=======
+# Mycopepon smithii (Ellis & Everh.) Boise SPECIES
 
 #### Status
 ACCEPTED

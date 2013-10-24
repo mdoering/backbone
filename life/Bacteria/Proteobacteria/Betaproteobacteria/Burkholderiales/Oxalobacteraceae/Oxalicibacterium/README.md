@@ -1,5 +1,4 @@
-Oxalicibacterium Tamer et al., 2003 GENUS
-=======
+# Oxalicibacterium Tamer et al., 2003 GENUS
 
 #### Status
 ACCEPTED

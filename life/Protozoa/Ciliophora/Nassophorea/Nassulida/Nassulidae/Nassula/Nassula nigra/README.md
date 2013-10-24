@@ -1,5 +1,4 @@
-Nassula nigra Vacelet, 1961 SPECIES
-=======
+# Nassula nigra Vacelet, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chalara lobariae Etayo SPECIES
-=======
+# Chalara lobariae Etayo SPECIES
 
 #### Status
 ACCEPTED

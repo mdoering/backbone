@@ -1,5 +1,4 @@
-Marasmius lapidicola Velen. SPECIES
-=======
+# Marasmius lapidicola Velen. SPECIES
 
 #### Status
 ACCEPTED

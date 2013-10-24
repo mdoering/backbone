@@ -1,5 +1,4 @@
-Ceratorhiza pernacatena Zelmer & Currah, 1995 SPECIES
-=======
+# Ceratorhiza pernacatena Zelmer & Currah, 1995 SPECIES
 
 #### Status
 ACCEPTED

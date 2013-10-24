@@ -1,5 +1,4 @@
-Octospora rhizophora Hedw. SPECIES
-=======
+# Octospora rhizophora Hedw. SPECIES
 
 #### Status
 ACCEPTED

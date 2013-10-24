@@ -1,5 +1,4 @@
-Puccinia stenothecae Guyot SPECIES
-=======
+# Puccinia stenothecae Guyot SPECIES
 
 #### Status
 ACCEPTED

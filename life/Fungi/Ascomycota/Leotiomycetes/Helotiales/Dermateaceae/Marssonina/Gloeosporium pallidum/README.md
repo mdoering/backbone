@@ -1,5 +1,4 @@
-Gloeosporium pallidum f. pallidum FORM
-=======
+# Gloeosporium pallidum P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gloeosporium pallidum f. pallidum
+Gloeosporium pallidum P. Karst. & Har.
 
 ### Remarks
 null

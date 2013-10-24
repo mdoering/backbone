@@ -1,5 +1,4 @@
-Marasmius submarginatus Singer SPECIES
-=======
+# Marasmius submarginatus Singer SPECIES
 
 #### Status
 ACCEPTED

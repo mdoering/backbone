@@ -1,17 +1,16 @@
-Cladonia retipora var. arcuata Stirt. VARIETY
-=======
+# Cladia corallaizon F. Wilson ex Filson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. & Proc. New Zealand Inst. 30: 392 (1897)
+Victorian Nat. 87: 324 (1970)
 
 #### Original name
-Cladonia retipora var. arcuata Stirt.
+Cladia corallaizon F. Wilson ex Filson
 
 ### Remarks
 null

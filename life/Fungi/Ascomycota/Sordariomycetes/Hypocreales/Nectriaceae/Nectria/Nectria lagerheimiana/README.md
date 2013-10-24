@@ -1,5 +1,4 @@
-Nectria lagerheimiana (Rehm) Rossman SPECIES
-=======
+# Nectria lagerheimiana (Rehm) Rossman SPECIES
 
 #### Status
 ACCEPTED

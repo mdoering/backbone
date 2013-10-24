@@ -1,5 +1,4 @@
-Aecidium lythri Dietel & Neger SPECIES
-=======
+# Aecidium lythri Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

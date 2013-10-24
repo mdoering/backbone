@@ -1,5 +1,4 @@
-Ramularia mulgedii (Bubák) Bubák SPECIES
-=======
+# Ramularia mulgedii (Bubák) Bubák SPECIES
 
 #### Status
 ACCEPTED

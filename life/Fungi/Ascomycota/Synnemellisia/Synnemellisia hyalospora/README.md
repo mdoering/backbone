@@ -1,5 +1,4 @@
-Synnemellisia hyalospora N.K. Rao, Manohar. & Goos, 1989 SPECIES
-=======
+# Synnemellisia hyalospora N.K. Rao, Manohar. & Goos, 1989 SPECIES
 
 #### Status
 ACCEPTED

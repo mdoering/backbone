@@ -1,5 +1,4 @@
-Bacidia wellingtonii (Stirt.) D.J. Galloway SPECIES
-=======
+# Bacidia wellingtonii (Stirt.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

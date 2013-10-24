@@ -1,5 +1,4 @@
-Stropharia capillacea (Gillet) Sacc. SPECIES
-=======
+# Stropharia capillacea (Gillet) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fistulariella pocsii (Krog & Swinscow) Bowler & Rundel SPECIES
-=======
+# Fistulariella pocsii (Krog & Swinscow) Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

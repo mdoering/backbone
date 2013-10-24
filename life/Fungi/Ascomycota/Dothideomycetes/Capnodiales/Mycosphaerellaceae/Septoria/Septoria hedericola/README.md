@@ -1,5 +1,4 @@
-Septoria hedericola (Fr.) Jørst., 1965 SPECIES
-=======
+# Septoria hedericola (Fr.) Jørst., 1965 SPECIES
 
 #### Status
 ACCEPTED

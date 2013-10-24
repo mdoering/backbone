@@ -1,5 +1,4 @@
-Entoloma elaphinum (Fr.) P. Karst. SPECIES
-=======
+# Entoloma elaphinum (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceraceomyces Jülich, 1972 GENUS
-=======
+# Ceraceomyces Jülich, 1972 GENUS
 
 #### Status
 ACCEPTED

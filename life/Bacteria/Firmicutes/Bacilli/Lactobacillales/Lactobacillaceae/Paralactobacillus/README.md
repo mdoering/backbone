@@ -1,5 +1,4 @@
-Paralactobacillus Leisner, Vancanneyt, Goris, Christensen & Rusul, 2000 GENUS
-=======
+# Paralactobacillus Leisner, Vancanneyt, Goris, Christensen & Rusul, 2000 GENUS
 
 #### Status
 ACCEPTED

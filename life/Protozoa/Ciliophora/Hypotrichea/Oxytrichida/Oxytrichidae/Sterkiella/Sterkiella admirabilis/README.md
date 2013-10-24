@@ -1,8 +1,7 @@
-Stylonychia quadrinucleata Alekperov & Musayev, 1988 SPECIES
-=======
+# Sterkiella admirabilis (Foissner, 1980) Berger, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

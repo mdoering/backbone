@@ -1,14 +1,13 @@
-Scopulariopsis blochii (Matr.) Vuill., 1911 SPECIES
-=======
+# Acremonium blochii (Matr.) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 27: 148 (1911)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 78 (1971)
 
 #### Original name
 Mastigocladium blochii Matr., 1911

@@ -1,5 +1,4 @@
-Bitrichia Woloszynska, 1914 GENUS
-=======
+# Bitrichia Woloszynska, 1914 GENUS
 
 #### Status
 ACCEPTED

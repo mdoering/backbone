@@ -1,14 +1,13 @@
-Physarum nucleatum var. florigerum (Meyl.) Kowalski VARIETY
-=======
+# Physarum florigerum (Meyl.) Y. Yamam., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 67(3): 483 (1975)
+Hikobia 11(4): 528 (1994)
 
 #### Original name
 Physarum nutans var. florigerum Meyl.

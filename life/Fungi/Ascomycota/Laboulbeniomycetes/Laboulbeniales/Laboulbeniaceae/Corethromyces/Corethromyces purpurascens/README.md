@@ -1,5 +1,4 @@
-Corethromyces purpurascens Thaxt. SPECIES
-=======
+# Corethromyces purpurascens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

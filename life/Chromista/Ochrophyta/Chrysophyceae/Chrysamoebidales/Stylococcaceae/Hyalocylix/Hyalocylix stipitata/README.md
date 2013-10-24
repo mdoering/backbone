@@ -1,5 +1,4 @@
-Hyalocylix stipitata J.B. Petersen & J.B. Hansen SPECIES
-=======
+# Hyalocylix stipitata J.B. Petersen & J.B. Hansen SPECIES
 
 #### Status
 ACCEPTED

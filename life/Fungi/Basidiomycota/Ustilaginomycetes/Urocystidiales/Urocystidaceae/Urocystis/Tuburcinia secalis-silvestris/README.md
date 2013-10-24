@@ -1,5 +1,4 @@
-Tuburcinia secalis-silvestris Uljan. SPECIES
-=======
+# Tuburcinia secalis-silvestris Uljan. SPECIES
 
 #### Status
 ACCEPTED

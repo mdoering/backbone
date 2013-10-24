@@ -1,5 +1,4 @@
-Lecanora fusidula SPECIES
-=======
+# Lecanora fusidula SPECIES
 
 #### Status
 ACCEPTED

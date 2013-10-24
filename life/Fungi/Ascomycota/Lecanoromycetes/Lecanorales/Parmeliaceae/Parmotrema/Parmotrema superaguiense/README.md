@@ -1,5 +1,4 @@
-Parmotrema superaguiense Donha & Eliasaro SPECIES
-=======
+# Parmotrema superaguiense Donha & Eliasaro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pseudoconocybe Hongo GENUS
-=======
+# Conocybe Fayod GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Jap. Bot. 42: 153 (1967)
+Annls Sci. Nat. , Bot. , sér. 7 9: 357 (1889)
 
 #### Original name
-Pseudoconocybe Hongo
+Conocybe Fayod
 
 ### Remarks
 null

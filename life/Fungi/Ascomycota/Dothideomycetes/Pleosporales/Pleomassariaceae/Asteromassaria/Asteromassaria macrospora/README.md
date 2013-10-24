@@ -1,14 +1,13 @@
-Gibberinula macrospora (Desm.) Kuntze SPECIES
-=======
+# Asteromassaria macrospora (Desm.) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 481 (1898)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 126: 368 (1917)
 
 #### Original name
 Sphaeria macrospora De Not., 1849

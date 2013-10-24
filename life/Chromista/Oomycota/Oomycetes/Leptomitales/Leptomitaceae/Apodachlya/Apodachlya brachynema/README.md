@@ -1,8 +1,7 @@
-Apodachlya brachynema f. brachynema (Hildebr.) Pringsh., 1888 FORM
-=======
+# Apodachlya brachynema (Hildebr.) Pringsh., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 in Berlese, De Toni & Fischer, Syll. fung. (Abellini) 7: 265 (1888)
 
 #### Original name
-Apodachlya brachynema f. brachynema (Hildebr.) Pringsh., 1888
+Leptomitus brachynema Hildebr., 1867
 
 ### Remarks
 null

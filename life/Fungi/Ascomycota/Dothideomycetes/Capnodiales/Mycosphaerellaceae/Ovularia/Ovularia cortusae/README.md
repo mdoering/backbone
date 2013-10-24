@@ -1,5 +1,4 @@
-Ovularia cortusae Picb. SPECIES
-=======
+# Ovularia cortusae Picb. SPECIES
 
 #### Status
 ACCEPTED

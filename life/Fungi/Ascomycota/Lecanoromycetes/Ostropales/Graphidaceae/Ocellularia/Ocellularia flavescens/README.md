@@ -1,5 +1,4 @@
-Ocellularia flavescens Homchant. & Coppins SPECIES
-=======
+# Ocellularia flavescens Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

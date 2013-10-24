@@ -1,5 +1,4 @@
-Ditiola coccinea Lowy SPECIES
-=======
+# Ditiola coccinea Lowy SPECIES
 
 #### Status
 ACCEPTED

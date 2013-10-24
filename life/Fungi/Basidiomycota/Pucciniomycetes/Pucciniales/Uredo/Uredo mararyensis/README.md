@@ -1,5 +1,4 @@
-Uredo mararyensis Henn. SPECIES
-=======
+# Uredo mararyensis Henn. SPECIES
 
 #### Status
 ACCEPTED

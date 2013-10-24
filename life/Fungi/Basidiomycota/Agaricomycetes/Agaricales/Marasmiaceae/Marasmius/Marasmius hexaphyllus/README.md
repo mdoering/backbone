@@ -1,5 +1,4 @@
-Marasmius hexaphyllus Singer SPECIES
-=======
+# Marasmius hexaphyllus Singer SPECIES
 
 #### Status
 ACCEPTED

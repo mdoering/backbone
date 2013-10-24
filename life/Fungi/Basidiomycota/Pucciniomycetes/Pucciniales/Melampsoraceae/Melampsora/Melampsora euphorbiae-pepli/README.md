@@ -1,5 +1,4 @@
-Melampsora euphorbiae-pepli W. Muell. SPECIES
-=======
+# Melampsora euphorbiae-pepli W. Muell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum vinosum (Schwein.) Fr. SPECIES
-=======
+# Sporotrichum vinosum (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

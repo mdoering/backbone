@@ -1,14 +1,13 @@
-Phoma variospora Aa & Kesteren, 1979 SPECIES
-=======
+# Phoma heteromorphospora Aa & Kesteren, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 10(2): 268 (1979)
+Persoonia 10(4): 542 (1980)
 
 #### Original name
 Phoma variospora Aa & Kesteren, 1979

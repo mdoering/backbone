@@ -1,5 +1,4 @@
-Coccopedia turkestanica E. Kiseleva SPECIES
-=======
+# Coccopedia turkestanica E. Kiseleva SPECIES
 
 #### Status
 ACCEPTED

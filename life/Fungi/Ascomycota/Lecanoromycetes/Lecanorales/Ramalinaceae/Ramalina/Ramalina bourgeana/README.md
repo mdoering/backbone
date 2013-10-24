@@ -1,5 +1,4 @@
-Ramalina bourgeana Mont. ex Nyl. SPECIES
-=======
+# Ramalina bourgeana Mont. ex Nyl. SPECIES
 
 #### Status
 ACCEPTED

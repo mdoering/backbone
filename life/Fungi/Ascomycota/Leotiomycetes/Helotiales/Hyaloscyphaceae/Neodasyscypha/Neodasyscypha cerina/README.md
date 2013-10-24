@@ -1,17 +1,16 @@
-Dasyscyphus cerinus subsp. cerinus SUBSPECIES
-=======
+# Neodasyscypha cerina (Pers.) Spooner, 2005 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 305 (1870)
+in Suková, Czech Mycol. 57(1-2): 168 (2005)
 
 #### Original name
-Dasyscyphus cerinus subsp. cerinus
+null
 
 ### Remarks
 null

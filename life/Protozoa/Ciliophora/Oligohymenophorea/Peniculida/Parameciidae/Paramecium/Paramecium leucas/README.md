@@ -1,5 +1,4 @@
-Paramecium leucas Perty, 1852 SPECIES
-=======
+# Paramecium leucas Perty, 1852 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeoseptoria canadensis Bubák & Dearn. SPECIES
-=======
+# Phaeoseptoria canadensis Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

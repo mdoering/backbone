@@ -1,17 +1,16 @@
-Phakopsora ampelosidis Dietel & P. Syd. SPECIES
-=======
+# Phakopsora ampelopsidis Dietel & P. Syd., 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 37: 217 (1898)
 
 #### Original name
-Phakopsora ampelosidis Dietel & P. Syd.
+Phakopsora ampelopsidis Dietel & P. Syd., 1898
 
 ### Remarks
 null

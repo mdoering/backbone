@@ -1,5 +1,4 @@
-Clitocybe icterina Pat. SPECIES
-=======
+# Clitocybe icterina Pat. SPECIES
 
 #### Status
 ACCEPTED

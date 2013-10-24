@@ -1,5 +1,4 @@
-Agaricus agrocyboides Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus agrocyboides Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

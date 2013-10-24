@@ -1,5 +1,4 @@
-Leptogium bellopratense Hy SPECIES
-=======
+# Leptogium bellopratense Hy SPECIES
 
 #### Status
 ACCEPTED

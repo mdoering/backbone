@@ -1,5 +1,4 @@
-Hormosina semiglobosa Wiesner, 1911 SPECIES
-=======
+# Hormosina semiglobosa Wiesner, 1911 SPECIES
 
 #### Status
 ACCEPTED

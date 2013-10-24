@@ -1,5 +1,4 @@
-Gymnopilus sordidostipes Hesler SPECIES
-=======
+# Gymnopilus sordidostipes Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena calamiphylla Corner SPECIES
-=======
+# Mycena calamiphylla Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Symbiotaphrina Kühlw. & Jurzitza ex W. Gams & Arx GENUS
-=======
+# Symbiotaphrina Kühlw. & Jurzitza ex W. Gams & Arx GENUS
 
 #### Status
 ACCEPTED

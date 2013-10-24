@@ -1,5 +1,4 @@
-Xanthoparmelia papillosa (Lynge ex Gyeln.) Hale SPECIES
-=======
+# Xanthoparmelia papillosa (Lynge ex Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED

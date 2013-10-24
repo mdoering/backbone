@@ -1,5 +1,4 @@
-Lecanora litorea H. Magn. SPECIES
-=======
+# Lecanora litorea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

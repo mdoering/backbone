@@ -1,5 +1,4 @@
-Aspicilia pyrenaica Hue SPECIES
-=======
+# Aspicilia pyrenaica Hue SPECIES
 
 #### Status
 ACCEPTED

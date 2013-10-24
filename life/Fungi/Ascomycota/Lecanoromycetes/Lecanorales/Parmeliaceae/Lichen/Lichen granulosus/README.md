@@ -1,5 +1,4 @@
-Lichen granulosus Bernh. SPECIES
-=======
+# Lichen granulosus Bernh. SPECIES
 
 #### Status
 ACCEPTED

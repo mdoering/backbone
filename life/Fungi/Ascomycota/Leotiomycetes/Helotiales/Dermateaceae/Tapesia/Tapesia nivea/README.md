@@ -1,5 +1,4 @@
-Tapesia nivea (Lorton) Sacc. SPECIES
-=======
+# Tapesia nivea (Lorton) Sacc. SPECIES
 
 #### Status
 ACCEPTED

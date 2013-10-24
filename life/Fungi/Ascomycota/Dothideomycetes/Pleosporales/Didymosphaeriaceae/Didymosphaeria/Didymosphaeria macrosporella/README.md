@@ -1,5 +1,4 @@
-Didymosphaeria macrosporella (Höhn.) Sacc. SPECIES
-=======
+# Didymosphaeria macrosporella (Höhn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

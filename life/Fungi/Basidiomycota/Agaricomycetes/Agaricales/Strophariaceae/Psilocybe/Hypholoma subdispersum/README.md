@@ -1,5 +1,4 @@
-Hypholoma subdispersum Dennis SPECIES
-=======
+# Hypholoma subdispersum Dennis SPECIES
 
 #### Status
 ACCEPTED

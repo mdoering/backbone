@@ -1,5 +1,4 @@
-Niesslia stictarum (Nannf. & R. Sant.) R. Sant. & Tretiach SPECIES
-=======
+# Niesslia stictarum (Nannf. & R. Sant.) R. Sant. & Tretiach SPECIES
 
 #### Status
 ACCEPTED

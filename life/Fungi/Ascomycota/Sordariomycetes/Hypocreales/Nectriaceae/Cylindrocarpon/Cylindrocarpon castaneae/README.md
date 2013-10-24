@@ -1,5 +1,4 @@
-Cylindrocarpon castaneae Schischkina & Tsanava SPECIES
-=======
+# Cylindrocarpon castaneae Schischkina & Tsanava SPECIES
 
 #### Status
 ACCEPTED

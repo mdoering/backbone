@@ -1,5 +1,4 @@
-Peronospora valerianae Trail, 1889 SPECIES
-=======
+# Peronospora valerianae Trail, 1889 SPECIES
 
 #### Status
 ACCEPTED

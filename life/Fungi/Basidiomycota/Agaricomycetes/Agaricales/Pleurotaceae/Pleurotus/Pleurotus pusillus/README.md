@@ -1,5 +1,4 @@
-Pleurotus pusillus Speg. SPECIES
-=======
+# Pleurotus pusillus Speg. SPECIES
 
 #### Status
 ACCEPTED

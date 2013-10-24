@@ -1,5 +1,4 @@
-Didymosphaeria scabrispora Höhn. SPECIES
-=======
+# Didymosphaeria scabrispora Höhn. SPECIES
 
 #### Status
 ACCEPTED

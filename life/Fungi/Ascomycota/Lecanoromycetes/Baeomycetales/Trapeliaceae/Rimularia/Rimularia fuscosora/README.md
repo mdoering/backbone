@@ -1,5 +1,4 @@
-Rimularia fuscosora Muhr & Tønsberg SPECIES
-=======
+# Rimularia fuscosora Muhr & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

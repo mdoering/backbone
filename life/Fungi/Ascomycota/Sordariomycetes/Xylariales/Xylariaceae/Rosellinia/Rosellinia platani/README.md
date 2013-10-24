@@ -1,5 +1,4 @@
-Rosellinia platani Fuckel SPECIES
-=======
+# Rosellinia platani Fuckel SPECIES
 
 #### Status
 ACCEPTED

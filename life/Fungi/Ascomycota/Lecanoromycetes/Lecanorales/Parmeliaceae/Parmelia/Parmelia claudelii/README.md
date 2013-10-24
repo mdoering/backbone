@@ -1,5 +1,4 @@
-Parmelia claudelii SPECIES
-=======
+# Parmelia claudelii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida mitsuensis ined. SPECIES
-=======
+# Candida mitsuensis ined. SPECIES
 
 #### Status
 ACCEPTED

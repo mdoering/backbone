@@ -1,5 +1,4 @@
-Margaritispora aquatica Ingold, 1942 SPECIES
-=======
+# Margaritispora aquatica Ingold, 1942 SPECIES
 
 #### Status
 ACCEPTED

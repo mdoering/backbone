@@ -1,5 +1,4 @@
-Helminthosporium dimorphosporum Hol.-Jech. SPECIES
-=======
+# Helminthosporium dimorphosporum Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

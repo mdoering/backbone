@@ -1,5 +1,4 @@
-Lecidea dendritica (Ach.) Ach. SPECIES
-=======
+# Lecidea dendritica (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

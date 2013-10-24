@@ -1,5 +1,4 @@
-Entoloma brunneoquadratum Manim. & Noordel. SPECIES
-=======
+# Entoloma brunneoquadratum Manim. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

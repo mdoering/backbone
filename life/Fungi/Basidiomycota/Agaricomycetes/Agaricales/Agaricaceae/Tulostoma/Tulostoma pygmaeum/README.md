@@ -1,5 +1,4 @@
-Tulostoma pygmaeum Lloyd SPECIES
-=======
+# Tulostoma pygmaeum Lloyd SPECIES
 
 #### Status
 ACCEPTED

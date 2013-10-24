@@ -1,5 +1,4 @@
-Oogaster leucophloeus Corda SPECIES
-=======
+# Oogaster leucophloeus Corda SPECIES
 
 #### Status
 ACCEPTED

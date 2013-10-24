@@ -1,5 +1,4 @@
-Aecidium polemonii Peck SPECIES
-=======
+# Aecidium polemonii Peck SPECIES
 
 #### Status
 ACCEPTED

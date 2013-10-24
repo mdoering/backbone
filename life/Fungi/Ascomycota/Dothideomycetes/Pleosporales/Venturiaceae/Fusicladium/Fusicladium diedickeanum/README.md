@@ -1,5 +1,4 @@
-Fusicladium diedickeanum U. Braun SPECIES
-=======
+# Fusicladium diedickeanum U. Braun SPECIES
 
 #### Status
 ACCEPTED

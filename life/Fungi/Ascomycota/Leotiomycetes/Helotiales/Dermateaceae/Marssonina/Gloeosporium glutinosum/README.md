@@ -1,5 +1,4 @@
-Gloeosporium glutinosum (Pers.) E.J. Durand SPECIES
-=======
+# Gloeosporium glutinosum (Pers.) E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo deutziicola Hirats. SPECIES
-=======
+# Uredo deutziicola Hirats. SPECIES
 
 #### Status
 ACCEPTED

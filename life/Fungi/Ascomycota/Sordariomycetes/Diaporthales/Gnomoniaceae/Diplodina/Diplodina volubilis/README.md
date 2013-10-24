@@ -1,5 +1,4 @@
-Diplodina volubilis (Sacc. & Malbr.) Allesch. SPECIES
-=======
+# Diplodina volubilis (Sacc. & Malbr.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octopelta Haeckel, 1887 GENUS
-=======
+# Octopelta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia euneta Stirt. SPECIES
-=======
+# Parmelia euneta Stirt. SPECIES
 
 #### Status
 ACCEPTED

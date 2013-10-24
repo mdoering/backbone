@@ -1,5 +1,4 @@
-Pertusaria xanthonaria A. W. Archer & Elix SPECIES
-=======
+# Pertusaria xanthonaria A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

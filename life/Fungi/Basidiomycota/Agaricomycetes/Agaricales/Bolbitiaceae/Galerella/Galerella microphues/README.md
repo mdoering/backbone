@@ -1,14 +1,13 @@
-Agaricus microphues Berk. & Broome, 1871 SPECIES
-=======
+# Galerella microphues (Berk. & Broome) Pegler, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 11(no. 56): 542 (1871)
+Kew Bull. , Addit. Ser. 12: 394 (1986)
 
 #### Original name
 Agaricus microphues Berk. & Broome, 1871

@@ -1,5 +1,4 @@
-Chrysocapsa Pascher, 1913 GENUS
-=======
+# Chrysocapsa Pascher, 1913 GENUS
 
 #### Status
 ACCEPTED

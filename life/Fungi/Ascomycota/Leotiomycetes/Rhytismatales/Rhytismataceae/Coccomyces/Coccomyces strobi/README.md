@@ -1,17 +1,16 @@
-Coccomyces strobi subsp. strobi SUBSPECIES
-=======
+# Coccomyces strobi J. Reid & Cain, 1961 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 39: 1127 (1961)
+null
 
 #### Original name
-Coccomyces strobi subsp. strobi
+null
 
 ### Remarks
 null

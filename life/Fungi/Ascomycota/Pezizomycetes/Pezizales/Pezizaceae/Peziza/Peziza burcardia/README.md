@@ -1,5 +1,4 @@
-Peziza burcardia Pers. SPECIES
-=======
+# Peziza burcardia Pers. SPECIES
 
 #### Status
 ACCEPTED

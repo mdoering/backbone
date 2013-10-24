@@ -1,5 +1,4 @@
-Oidium microsporium Kambay. SPECIES
-=======
+# Oidium microsporium Kambay. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora orchidearum Henn. SPECIES
-=======
+# Pleospora orchidearum Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacopsis tremens Tul. {?} SPECIES
-=======
+# Phacopsis tremens Tul. {?} SPECIES
 
 #### Status
 ACCEPTED

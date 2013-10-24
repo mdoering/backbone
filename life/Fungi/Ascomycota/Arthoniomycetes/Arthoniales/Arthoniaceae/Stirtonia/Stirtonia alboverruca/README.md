@@ -1,5 +1,4 @@
-Stirtonia alboverruca Makhija & Patw. SPECIES
-=======
+# Stirtonia alboverruca Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

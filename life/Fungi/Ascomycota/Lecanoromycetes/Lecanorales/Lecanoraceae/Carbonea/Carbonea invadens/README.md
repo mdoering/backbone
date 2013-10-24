@@ -1,5 +1,4 @@
-Carbonea invadens (H. Magn.) M.P. Andreev SPECIES
-=======
+# Carbonea invadens (H. Magn.) M.P. Andreev SPECIES
 
 #### Status
 ACCEPTED

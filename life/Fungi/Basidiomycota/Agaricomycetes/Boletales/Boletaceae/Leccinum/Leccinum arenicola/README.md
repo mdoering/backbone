@@ -1,5 +1,4 @@
-Leccinum arenicola Redhead & Watling SPECIES
-=======
+# Leccinum arenicola Redhead & Watling SPECIES
 
 #### Status
 ACCEPTED

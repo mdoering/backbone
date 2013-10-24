@@ -1,5 +1,4 @@
-Amanita griseofolia Zhu L. Yang SPECIES
-=======
+# Amanita griseofolia Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

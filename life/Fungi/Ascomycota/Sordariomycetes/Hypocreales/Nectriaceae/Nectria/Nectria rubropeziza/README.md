@@ -1,5 +1,4 @@
-Nectria rubropeziza Wollenw., 1931 SPECIES
-=======
+# Nectria rubropeziza Wollenw., 1931 SPECIES
 
 #### Status
 ACCEPTED

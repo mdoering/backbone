@@ -1,5 +1,4 @@
-Lophiostoma quercinum Feltgen SPECIES
-=======
+# Lophiostoma quercinum Feltgen SPECIES
 
 #### Status
 ACCEPTED

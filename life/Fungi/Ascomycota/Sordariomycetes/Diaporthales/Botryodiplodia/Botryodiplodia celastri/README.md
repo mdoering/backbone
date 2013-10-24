@@ -1,5 +1,4 @@
-Botryodiplodia celastri (Cooke) Sacc. SPECIES
-=======
+# Botryodiplodia celastri (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

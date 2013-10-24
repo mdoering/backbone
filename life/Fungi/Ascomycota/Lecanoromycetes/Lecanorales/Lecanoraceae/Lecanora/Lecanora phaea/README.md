@@ -1,5 +1,4 @@
-Lecanora phaea Tuck. SPECIES
-=======
+# Lecanora phaea Tuck. SPECIES
 
 #### Status
 ACCEPTED

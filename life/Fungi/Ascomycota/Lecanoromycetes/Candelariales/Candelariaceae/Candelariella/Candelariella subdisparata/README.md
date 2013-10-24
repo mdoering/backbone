@@ -1,5 +1,4 @@
-Candelariella subdisparata (Nyl.) Zahlbr. SPECIES
-=======
+# Candelariella subdisparata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

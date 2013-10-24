@@ -1,5 +1,4 @@
-Uredo gaurina Peck SPECIES
-=======
+# Uredo gaurina Peck SPECIES
 
 #### Status
 ACCEPTED

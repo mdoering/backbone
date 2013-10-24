@@ -1,5 +1,4 @@
-Peziza mespiliformis Wallr. SPECIES
-=======
+# Peziza mespiliformis Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocreopsis endoleuca (Sacc.) E. Müll. SPECIES
-=======
+# Hypocreopsis endoleuca (Sacc.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

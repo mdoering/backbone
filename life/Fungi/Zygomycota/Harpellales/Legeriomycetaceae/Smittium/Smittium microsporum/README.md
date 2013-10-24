@@ -1,5 +1,4 @@
-Smittium microsporum M.C. Williams & Lichtw., 1992 SPECIES
-=======
+# Smittium microsporum M.C. Williams & Lichtw., 1992 SPECIES
 
 #### Status
 ACCEPTED

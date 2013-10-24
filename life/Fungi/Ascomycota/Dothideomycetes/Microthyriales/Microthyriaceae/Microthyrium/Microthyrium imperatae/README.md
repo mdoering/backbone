@@ -1,5 +1,4 @@
-Microthyrium imperatae Syd. & P. Syd. SPECIES
-=======
+# Microthyrium imperatae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

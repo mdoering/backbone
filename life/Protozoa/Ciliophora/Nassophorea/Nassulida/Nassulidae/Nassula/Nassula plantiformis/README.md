@@ -1,5 +1,4 @@
-Nassula plantiformis SPECIES
-=======
+# Nassula plantiformis SPECIES
 
 #### Status
 ACCEPTED

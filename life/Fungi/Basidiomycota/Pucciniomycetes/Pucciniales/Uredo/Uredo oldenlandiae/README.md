@@ -1,5 +1,4 @@
-Uredo oldenlandiae Massee SPECIES
-=======
+# Uredo oldenlandiae Massee SPECIES
 
 #### Status
 ACCEPTED

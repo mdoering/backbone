@@ -1,5 +1,4 @@
-Mycosphaerella phyteumatis (Jacz.) Lindau SPECIES
-=======
+# Mycosphaerella phyteumatis (Jacz.) Lindau SPECIES
 
 #### Status
 ACCEPTED

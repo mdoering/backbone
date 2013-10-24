@@ -1,5 +1,4 @@
-Urceolaria capitata Nees SPECIES
-=======
+# Urceolaria capitata Nees SPECIES
 
 #### Status
 ACCEPTED

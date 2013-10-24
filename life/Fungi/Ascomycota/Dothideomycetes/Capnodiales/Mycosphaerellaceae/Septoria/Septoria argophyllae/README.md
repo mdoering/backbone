@@ -1,5 +1,4 @@
-Septoria argophyllae Ellis & Kellerm. SPECIES
-=======
+# Septoria argophyllae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

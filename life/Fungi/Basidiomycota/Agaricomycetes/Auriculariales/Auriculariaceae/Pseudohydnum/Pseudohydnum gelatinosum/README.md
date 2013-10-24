@@ -1,17 +1,16 @@
-Hydnum gelatinosum var. gelatinosum VARIETY
-=======
+# Pseudohydnum gelatinosum (Scop.) P. Karst., 1868 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Not. Sällsk. Fauna et Fl. Fenn. Förh. 9: 374 (1868)
 
 #### Original name
-null
+Hydnum gelatinosum Scop., 1772
 
 ### Remarks
 null

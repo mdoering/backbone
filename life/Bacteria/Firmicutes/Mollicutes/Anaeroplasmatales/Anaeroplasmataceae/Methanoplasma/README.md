@@ -1,5 +1,4 @@
-Methanoplasma Rose & Pirt, 1981 GENUS
-=======
+# Methanoplasma Rose & Pirt, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podoliella regularis Timofeev, 1973 SPECIES
-=======
+# Podoliella regularis Timofeev, 1973 SPECIES
 
 #### Status
 ACCEPTED

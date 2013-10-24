@@ -1,14 +1,13 @@
-Segestria interjungens (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Porina interjungens (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 1: 387 (1922)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Hysterium petiolare Alb. & Schwein. SPECIES
-=======
+# Hysterium petiolare Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

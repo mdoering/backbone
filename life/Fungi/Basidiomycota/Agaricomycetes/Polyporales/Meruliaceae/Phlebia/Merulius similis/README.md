@@ -1,17 +1,16 @@
-Merulius similis var. similis VARIETY
-=======
+# Merulius similis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 14(2): 58 (1875)
 
 #### Original name
-null
+Merulius similis Berk. & Broome
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia paupercula Arthur SPECIES
-=======
+# Puccinia paupercula Arthur SPECIES
 
 #### Status
 ACCEPTED

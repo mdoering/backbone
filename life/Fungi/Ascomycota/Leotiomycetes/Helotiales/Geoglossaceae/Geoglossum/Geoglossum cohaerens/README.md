@@ -1,5 +1,4 @@
-Geoglossum cohaerens E.J. Durand SPECIES
-=======
+# Geoglossum cohaerens E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

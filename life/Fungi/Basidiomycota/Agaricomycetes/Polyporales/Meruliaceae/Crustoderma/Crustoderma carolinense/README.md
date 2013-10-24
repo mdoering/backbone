@@ -1,5 +1,4 @@
-Crustoderma carolinense Nakasone, 1984 SPECIES
-=======
+# Crustoderma carolinense Nakasone, 1984 SPECIES
 
 #### Status
 ACCEPTED

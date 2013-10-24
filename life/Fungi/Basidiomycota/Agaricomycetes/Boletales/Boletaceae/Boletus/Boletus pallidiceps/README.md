@@ -1,5 +1,4 @@
-Boletus pallidiceps Murrill SPECIES
-=======
+# Boletus pallidiceps Murrill SPECIES
 
 #### Status
 ACCEPTED

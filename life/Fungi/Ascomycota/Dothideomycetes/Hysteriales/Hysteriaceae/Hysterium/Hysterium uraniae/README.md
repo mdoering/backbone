@@ -1,5 +1,4 @@
-Hysterium uraniae Mont. SPECIES
-=======
+# Hysterium uraniae Mont. SPECIES
 
 #### Status
 ACCEPTED

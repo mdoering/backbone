@@ -1,5 +1,4 @@
-Dactylaria biguttulata Goh & K.D. Hyde SPECIES
-=======
+# Dactylaria biguttulata Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

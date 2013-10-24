@@ -1,5 +1,4 @@
-Questieriella ardisiae Hosag. & Manojk. SPECIES
-=======
+# Questieriella ardisiae Hosag. & Manojk. SPECIES
 
 #### Status
 ACCEPTED

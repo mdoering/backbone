@@ -1,5 +1,4 @@
-Phormidium nigro-viride (Thwaites) Anagnostidis & Komárek SPECIES
-=======
+# Phormidium nigro-viride (Thwaites) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

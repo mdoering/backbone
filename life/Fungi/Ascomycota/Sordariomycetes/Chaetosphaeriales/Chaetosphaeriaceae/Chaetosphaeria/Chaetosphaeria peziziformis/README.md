@@ -1,17 +1,16 @@
-Chaetosphaeria pezizaeformis Schulzer SPECIES
-=======
+# Chaetosphaeria peziziformis Schulzer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wein 20: 637 (1870)
 
 #### Original name
-Chaetosphaeria pezizaeformis Schulzer
+Chaetosphaeria peziziformis Schulzer
 
 ### Remarks
 null

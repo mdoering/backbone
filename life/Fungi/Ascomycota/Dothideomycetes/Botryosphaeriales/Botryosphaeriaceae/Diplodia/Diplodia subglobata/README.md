@@ -1,5 +1,4 @@
-Diplodia subglobata (Preuss) Sacc. SPECIES
-=======
+# Diplodia subglobata (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

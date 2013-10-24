@@ -1,5 +1,4 @@
-Ophiostoma nigrogranum Masuya SPECIES
-=======
+# Ophiostoma nigrogranum Masuya SPECIES
 
 #### Status
 ACCEPTED

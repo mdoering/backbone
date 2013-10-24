@@ -1,5 +1,4 @@
-Wardomycopsis trachycarpicola Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
-=======
+# Wardomycopsis trachycarpicola Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

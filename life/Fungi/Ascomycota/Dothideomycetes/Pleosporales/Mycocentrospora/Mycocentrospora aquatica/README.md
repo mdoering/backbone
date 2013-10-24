@@ -1,17 +1,16 @@
-Centrospora aquatica S.H. Iqbal, 1971 SPECIES
-=======
+# Mycocentrospora aquatica S.H. Iqbal, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 56(3): 351 (1971)
+Biologia, Lahore 20(1): 3 (1974)
 
 #### Original name
-Centrospora aquatica S.H. Iqbal, 1971
+Mycocentrospora aquatica S.H. Iqbal, 1974
 
 ### Remarks
 null

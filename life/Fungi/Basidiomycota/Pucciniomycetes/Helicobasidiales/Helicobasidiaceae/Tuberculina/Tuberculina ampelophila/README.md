@@ -1,5 +1,4 @@
-Tuberculina ampelophila Sacc. SPECIES
-=======
+# Tuberculina ampelophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

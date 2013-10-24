@@ -1,5 +1,4 @@
-Micrhystridium pastielsii (Stockmans & Willière, 1962) Deflandre & Deflandre-Rigaud, 1965 SPECIES
-=======
+# Micrhystridium pastielsii (Stockmans & Willière, 1962) Deflandre & Deflandre-Rigaud, 1965 SPECIES
 
 #### Status
 ACCEPTED

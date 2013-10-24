@@ -1,5 +1,4 @@
-Heliobacterium chlorum Gest & Favinger, 1985 SPECIES
-=======
+# Heliobacterium chlorum Gest & Favinger, 1985 SPECIES
 
 #### Status
 ACCEPTED

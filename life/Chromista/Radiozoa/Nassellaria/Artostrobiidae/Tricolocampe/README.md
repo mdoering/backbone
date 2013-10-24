@@ -1,5 +1,4 @@
-Tricolocampe Haeckel, 1881 GENUS
-=======
+# Tricolocampe Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

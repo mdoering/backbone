@@ -1,5 +1,4 @@
-Lacunosphaeridium granosum Uutela & Tynni, 1991 SPECIES
-=======
+# Lacunosphaeridium granosum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

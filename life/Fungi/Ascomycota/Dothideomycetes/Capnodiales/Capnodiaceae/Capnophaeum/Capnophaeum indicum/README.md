@@ -1,5 +1,4 @@
-Capnophaeum indicum C. Bernard, 1918 SPECIES
-=======
+# Capnophaeum indicum C. Bernard, 1918 SPECIES
 
 #### Status
 ACCEPTED

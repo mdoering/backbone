@@ -1,5 +1,4 @@
-Aplosporella ceanothi (Dearn. & House) Petr. & Syd. SPECIES
-=======
+# Aplosporella ceanothi (Dearn. & House) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

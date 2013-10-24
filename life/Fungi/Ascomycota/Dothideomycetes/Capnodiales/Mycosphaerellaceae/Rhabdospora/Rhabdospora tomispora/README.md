@@ -1,5 +1,4 @@
-Rhabdospora tomispora Berl. SPECIES
-=======
+# Rhabdospora tomispora Berl. SPECIES
 
 #### Status
 ACCEPTED

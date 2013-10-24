@@ -1,5 +1,4 @@
-Alloneottiosporina Nag Raj GENUS
-=======
+# Alloneottiosporina Nag Raj GENUS
 
 #### Status
 ACCEPTED

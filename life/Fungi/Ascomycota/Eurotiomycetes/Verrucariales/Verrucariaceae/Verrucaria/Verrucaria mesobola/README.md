@@ -1,5 +1,4 @@
-Verrucaria mesobola Nyl. SPECIES
-=======
+# Verrucaria mesobola Nyl. SPECIES
 
 #### Status
 ACCEPTED

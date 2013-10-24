@@ -1,5 +1,4 @@
-Calonectria capensis Doidge SPECIES
-=======
+# Calonectria capensis Doidge SPECIES
 
 #### Status
 ACCEPTED

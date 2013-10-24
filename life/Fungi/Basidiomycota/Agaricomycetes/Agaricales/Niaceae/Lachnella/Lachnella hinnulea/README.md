@@ -1,5 +1,4 @@
-Lachnella hinnulea (Berk. & Broome) SPECIES
-=======
+# Lachnella hinnulea (Berk. & Broome) SPECIES
 
 #### Status
 ACCEPTED

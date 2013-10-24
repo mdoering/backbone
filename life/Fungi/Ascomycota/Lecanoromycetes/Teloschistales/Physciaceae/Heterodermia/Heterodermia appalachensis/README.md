@@ -1,5 +1,4 @@
-Heterodermia appalachensis (Kurok.) W. L. Culb. SPECIES
-=======
+# Heterodermia appalachensis (Kurok.) W. L. Culb. SPECIES
 
 #### Status
 ACCEPTED

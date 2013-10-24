@@ -1,5 +1,4 @@
-Asterina tetracericola B. Song, T.H. Li & F.W. Xing, 2004 SPECIES
-=======
+# Asterina tetracericola B. Song, T.H. Li & F.W. Xing, 2004 SPECIES
 
 #### Status
 ACCEPTED

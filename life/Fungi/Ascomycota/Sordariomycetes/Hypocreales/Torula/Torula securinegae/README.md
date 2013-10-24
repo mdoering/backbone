@@ -1,5 +1,4 @@
-Torula securinegae Thüm. SPECIES
-=======
+# Torula securinegae Thüm. SPECIES
 
 #### Status
 ACCEPTED

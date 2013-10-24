@@ -1,17 +1,16 @@
-Candelaria xanthostigma (Ach.) Kieff. SPECIES
-=======
+# Candelariella xanthostigma (Ach.) Lettau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 52: 196 (1912)
 
 #### Original name
-null
+Lecanora citrina a citrina Ach.
 
 ### Remarks
 null

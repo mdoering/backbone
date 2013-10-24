@@ -1,17 +1,16 @@
-Torula gougerotii (Matr.) Brumpt, 1936 SPECIES
-=======
+# Exophiala castellanii Iwatsu, Nishim. & Miyaji, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handbuch der pathogenen Mikroorganismen, Edn 2 (1936)
+Mycotaxon 20(2): 307 (1984)
 
 #### Original name
-Sporotrichum gougerotii Matr., 1910
+Exophiala castellanii Iwatsu, Nishim. & Miyaji, 1984
 
 ### Remarks
 null

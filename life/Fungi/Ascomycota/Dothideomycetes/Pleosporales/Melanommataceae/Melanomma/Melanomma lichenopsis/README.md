@@ -1,5 +1,4 @@
-Melanomma lichenopsis (A. Massal.) Sacc. SPECIES
-=======
+# Melanomma lichenopsis (A. Massal.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

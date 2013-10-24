@@ -1,5 +1,4 @@
-Diplotomma oidaleum (Tuck.) Szatala SPECIES
-=======
+# Diplotomma oidaleum (Tuck.) Szatala SPECIES
 
 #### Status
 ACCEPTED

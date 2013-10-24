@@ -1,5 +1,4 @@
-Legionella sainthelensi Campbell et al., 1984 SPECIES
-=======
+# Legionella sainthelensi Campbell et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

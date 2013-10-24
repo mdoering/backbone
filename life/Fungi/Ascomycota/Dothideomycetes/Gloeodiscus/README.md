@@ -1,5 +1,4 @@
-Gloeodiscus Dennis GENUS
-=======
+# Gloeodiscus Dennis GENUS
 
 #### Status
 ACCEPTED

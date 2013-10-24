@@ -1,5 +1,4 @@
-Pacispora boliviana Sieverd. & Oehl SPECIES
-=======
+# Pacispora boliviana Sieverd. & Oehl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma dahlii (Henn.) Aoshima SPECIES
-=======
+# Ganoderma dahlii (Henn.) Aoshima SPECIES
 
 #### Status
 ACCEPTED

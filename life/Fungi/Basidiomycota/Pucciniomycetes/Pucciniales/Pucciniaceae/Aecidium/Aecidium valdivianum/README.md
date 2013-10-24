@@ -1,5 +1,4 @@
-Aecidium valdivianum Sacc. & P. Syd. SPECIES
-=======
+# Aecidium valdivianum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

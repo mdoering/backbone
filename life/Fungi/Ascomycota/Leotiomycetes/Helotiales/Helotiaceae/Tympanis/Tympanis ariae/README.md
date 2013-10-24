@@ -1,5 +1,4 @@
-Tympanis ariae Fr. SPECIES
-=======
+# Tympanis ariae Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictina coerulescens (Mont.) Nyl. SPECIES
-=======
+# Stictina coerulescens (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

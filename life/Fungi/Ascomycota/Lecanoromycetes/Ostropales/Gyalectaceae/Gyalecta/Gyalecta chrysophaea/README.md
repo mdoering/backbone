@@ -1,5 +1,4 @@
-Gyalecta chrysophaea SPECIES
-=======
+# Gyalecta chrysophaea SPECIES
 
 #### Status
 ACCEPTED

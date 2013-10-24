@@ -1,5 +1,4 @@
-Uredo maschalocephali Cummins SPECIES
-=======
+# Uredo maschalocephali Cummins SPECIES
 
 #### Status
 ACCEPTED

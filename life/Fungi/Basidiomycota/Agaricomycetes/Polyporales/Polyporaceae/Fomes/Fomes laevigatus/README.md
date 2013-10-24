@@ -1,5 +1,4 @@
-Fomes laevigatus Corner SPECIES
-=======
+# Fomes laevigatus Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma occidentale Tracy & Earle SPECIES
-=======
+# Lophiostoma occidentale Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

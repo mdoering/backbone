@@ -1,5 +1,4 @@
-Guignardia fatsiae I. Hino & Katum. SPECIES
-=======
+# Guignardia fatsiae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

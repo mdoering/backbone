@@ -1,5 +1,4 @@
-Ankylonoton pyrenigerum Pascher SPECIES
-=======
+# Ankylonoton pyrenigerum Pascher SPECIES
 
 #### Status
 ACCEPTED

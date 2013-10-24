@@ -1,5 +1,4 @@
-Acladium hippotrichoides Corda SPECIES
-=======
+# Acladium hippotrichoides Corda SPECIES
 
 #### Status
 ACCEPTED

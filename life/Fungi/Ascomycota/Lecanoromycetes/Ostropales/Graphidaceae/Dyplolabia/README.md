@@ -1,5 +1,4 @@
-Dyplolabia GENUS
-=======
+# Dyplolabia GENUS
 
 #### Status
 ACCEPTED

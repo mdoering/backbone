@@ -1,5 +1,4 @@
-Kurtzmanomyces insolitus J.P. Samp. & Fell, 1999 SPECIES
-=======
+# Kurtzmanomyces insolitus J.P. Samp. & Fell, 1999 SPECIES
 
 #### Status
 ACCEPTED

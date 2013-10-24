@@ -1,5 +1,4 @@
-Hypholoma alachuanum (Murrill) Murrill SPECIES
-=======
+# Hypholoma alachuanum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

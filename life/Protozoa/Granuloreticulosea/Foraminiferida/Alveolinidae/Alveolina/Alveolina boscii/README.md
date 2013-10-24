@@ -1,5 +1,4 @@
-Alveolina boscii Chapman, 1908 SPECIES
-=======
+# Alveolina boscii Chapman, 1908 SPECIES
 
 #### Status
 ACCEPTED

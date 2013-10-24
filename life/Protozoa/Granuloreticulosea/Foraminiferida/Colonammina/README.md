@@ -1,5 +1,4 @@
-Colonammina Moreman, 1930 GENUS
-=======
+# Colonammina Moreman, 1930 GENUS
 
 #### Status
 ACCEPTED

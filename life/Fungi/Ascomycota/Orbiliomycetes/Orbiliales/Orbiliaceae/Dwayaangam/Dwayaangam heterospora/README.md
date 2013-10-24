@@ -1,5 +1,4 @@
-Dwayaangam heterospora G.L. Barron, 1991 SPECIES
-=======
+# Dwayaangam heterospora G.L. Barron, 1991 SPECIES
 
 #### Status
 ACCEPTED

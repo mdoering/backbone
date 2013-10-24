@@ -1,5 +1,4 @@
-Agaricus infirmus Lasch SPECIES
-=======
+# Agaricus infirmus Lasch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ingaderia troglodytica Feige & Lumbsch SPECIES
-=======
+# Ingaderia troglodytica Feige & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

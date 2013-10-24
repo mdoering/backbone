@@ -1,5 +1,4 @@
-Oidium penicillioides Rivolta SPECIES
-=======
+# Oidium penicillioides Rivolta SPECIES
 
 #### Status
 ACCEPTED

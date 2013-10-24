@@ -1,5 +1,4 @@
-Omphalia ploettneri Henn. SPECIES
-=======
+# Omphalia ploettneri Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachysphaeridium ellipsoidal Ouyang Shu, 1979 SPECIES
-=======
+# Trachysphaeridium ellipsoidal Ouyang Shu, 1979 SPECIES
 
 #### Status
 ACCEPTED

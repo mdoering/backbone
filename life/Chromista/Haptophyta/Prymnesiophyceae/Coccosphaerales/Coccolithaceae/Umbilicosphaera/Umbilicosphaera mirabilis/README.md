@@ -1,5 +1,4 @@
-Umbilicosphaera mirabilis SPECIES
-=======
+# Umbilicosphaera mirabilis SPECIES
 
 #### Status
 ACCEPTED

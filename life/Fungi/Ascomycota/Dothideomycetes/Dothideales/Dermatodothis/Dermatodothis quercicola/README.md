@@ -1,5 +1,4 @@
-Dermatodothis quercicola Katum. SPECIES
-=======
+# Dermatodothis quercicola Katum. SPECIES
 
 #### Status
 ACCEPTED

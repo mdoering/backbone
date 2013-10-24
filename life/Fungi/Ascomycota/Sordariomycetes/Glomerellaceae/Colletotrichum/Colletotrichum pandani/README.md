@@ -1,5 +1,4 @@
-Colletotrichum pandani Syd. SPECIES
-=======
+# Colletotrichum pandani Syd. SPECIES
 
 #### Status
 ACCEPTED

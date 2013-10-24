@@ -1,5 +1,4 @@
-Trichormus cylindrospermoides (Subba Raju) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus cylindrospermoides (Subba Raju) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

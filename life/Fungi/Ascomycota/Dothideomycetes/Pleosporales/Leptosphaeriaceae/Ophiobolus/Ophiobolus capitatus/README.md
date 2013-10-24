@@ -1,5 +1,4 @@
-Ophiobolus capitatus Pass. SPECIES
-=======
+# Ophiobolus capitatus Pass. SPECIES
 
 #### Status
 ACCEPTED

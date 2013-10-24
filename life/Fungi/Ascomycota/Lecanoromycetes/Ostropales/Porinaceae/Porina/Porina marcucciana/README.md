@@ -1,5 +1,4 @@
-Porina marcucciana (Bagl.) Zahlbr. SPECIES
-=======
+# Porina marcucciana (Bagl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

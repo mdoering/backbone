@@ -1,5 +1,4 @@
-Psathyrella proxima (Romagn.) Bon SPECIES
-=======
+# Psathyrella proxima (Romagn.) Bon SPECIES
 
 #### Status
 ACCEPTED

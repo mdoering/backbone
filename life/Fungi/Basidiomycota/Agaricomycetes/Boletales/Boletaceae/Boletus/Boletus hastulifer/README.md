@@ -1,5 +1,4 @@
-Boletus hastulifer Corner SPECIES
-=======
+# Boletus hastulifer Corner SPECIES
 
 #### Status
 ACCEPTED

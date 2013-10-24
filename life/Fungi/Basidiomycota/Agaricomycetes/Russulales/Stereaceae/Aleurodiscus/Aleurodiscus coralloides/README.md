@@ -1,14 +1,13 @@
-Acanthophysium coralloides (G. Cunn.) G. Cunn., 1963 SPECIES
-=======
+# Aleurodiscus coralloides G. Cunn., 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 145: 158 (1963)
+Trans. Roy. Soc. New Zealand 84(2): 259 (1956)
 
 #### Original name
 Aleurodiscus coralloides G. Cunn., 1956

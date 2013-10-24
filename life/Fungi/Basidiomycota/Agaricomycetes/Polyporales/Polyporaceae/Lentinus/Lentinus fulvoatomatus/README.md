@@ -1,5 +1,4 @@
-Lentinus fulvoatomatus Berk. & Broome SPECIES
-=======
+# Lentinus fulvoatomatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

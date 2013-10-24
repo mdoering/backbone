@@ -1,5 +1,4 @@
-Agaricus coriipellis Fr. SPECIES
-=======
+# Agaricus coriipellis Fr. SPECIES
 
 #### Status
 ACCEPTED

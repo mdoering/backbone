@@ -1,5 +1,4 @@
-Didymosphaeria althaeina Teng SPECIES
-=======
+# Didymosphaeria althaeina Teng SPECIES
 
 #### Status
 ACCEPTED

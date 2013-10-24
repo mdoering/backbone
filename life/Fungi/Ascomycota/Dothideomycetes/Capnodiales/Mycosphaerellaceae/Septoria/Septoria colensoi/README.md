@@ -1,5 +1,4 @@
-Septoria colensoi Cooke, 1886 SPECIES
-=======
+# Septoria colensoi Cooke, 1886 SPECIES
 
 #### Status
 ACCEPTED

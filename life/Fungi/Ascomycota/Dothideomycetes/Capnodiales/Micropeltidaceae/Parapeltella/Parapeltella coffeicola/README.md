@@ -1,5 +1,4 @@
-Parapeltella coffeicola (Henn.) Bat. SPECIES
-=======
+# Parapeltella coffeicola (Henn.) Bat. SPECIES
 
 #### Status
 ACCEPTED

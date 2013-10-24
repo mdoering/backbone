@@ -1,5 +1,4 @@
-Rotula leucophthalma (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Rotula leucophthalma (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

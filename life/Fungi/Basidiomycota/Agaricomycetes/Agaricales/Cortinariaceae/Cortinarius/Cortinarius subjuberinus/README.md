@@ -1,5 +1,4 @@
-Cortinarius subjuberinus Murrill SPECIES
-=======
+# Cortinarius subjuberinus Murrill SPECIES
 
 #### Status
 ACCEPTED

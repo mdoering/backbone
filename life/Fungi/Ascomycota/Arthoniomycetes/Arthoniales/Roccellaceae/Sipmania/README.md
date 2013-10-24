@@ -1,5 +1,4 @@
-Sipmania Egea & Torrente GENUS
-=======
+# Sipmania Egea & Torrente GENUS
 
 #### Status
 ACCEPTED

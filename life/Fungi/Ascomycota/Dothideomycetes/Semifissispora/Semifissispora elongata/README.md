@@ -1,5 +1,4 @@
-Semifissispora elongata H.J. Swart, 1982 SPECIES
-=======
+# Semifissispora elongata H.J. Swart, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenodesmia subpyracea (Nyl.) C.W. Dodge SPECIES
-=======
+# Pyrenodesmia subpyracea (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

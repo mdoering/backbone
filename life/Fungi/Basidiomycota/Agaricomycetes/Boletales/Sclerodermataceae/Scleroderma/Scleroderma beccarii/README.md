@@ -1,5 +1,4 @@
-Scleroderma beccarii (Pass.) De Toni SPECIES
-=======
+# Scleroderma beccarii (Pass.) De Toni SPECIES
 
 #### Status
 ACCEPTED

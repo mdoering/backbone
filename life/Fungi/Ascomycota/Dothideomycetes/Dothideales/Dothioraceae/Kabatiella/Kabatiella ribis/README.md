@@ -1,5 +1,4 @@
-Kabatiella ribis Vassiljevsky SPECIES
-=======
+# Kabatiella ribis Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

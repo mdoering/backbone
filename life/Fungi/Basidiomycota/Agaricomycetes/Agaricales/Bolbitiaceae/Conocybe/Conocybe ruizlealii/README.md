@@ -1,5 +1,4 @@
-Conocybe ruizlealii (Singer) Watling SPECIES
-=======
+# Conocybe ruizlealii (Singer) Watling SPECIES
 
 #### Status
 ACCEPTED

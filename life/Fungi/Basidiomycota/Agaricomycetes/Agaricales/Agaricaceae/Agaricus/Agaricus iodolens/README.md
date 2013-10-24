@@ -1,5 +1,4 @@
-Agaricus iodolens Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus iodolens Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

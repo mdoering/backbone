@@ -1,5 +1,4 @@
-Taeniolina M.B. Ellis GENUS
-=======
+# Taeniolina M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

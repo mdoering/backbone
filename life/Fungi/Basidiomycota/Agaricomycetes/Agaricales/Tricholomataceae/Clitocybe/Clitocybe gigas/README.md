@@ -1,5 +1,4 @@
-Clitocybe gigas Harmaja SPECIES
-=======
+# Clitocybe gigas Harmaja SPECIES
 
 #### Status
 ACCEPTED

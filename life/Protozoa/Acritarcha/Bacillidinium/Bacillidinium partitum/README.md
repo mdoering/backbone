@@ -1,5 +1,4 @@
-Bacillidinium partitum Schrank, 2003 SPECIES
-=======
+# Bacillidinium partitum Schrank, 2003 SPECIES
 
 #### Status
 ACCEPTED

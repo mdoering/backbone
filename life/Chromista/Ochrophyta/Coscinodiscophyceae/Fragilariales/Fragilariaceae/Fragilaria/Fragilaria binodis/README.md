@@ -1,5 +1,4 @@
-Fragilaria binodis Ehrenberg SPECIES
-=======
+# Fragilaria binodis Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

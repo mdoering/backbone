@@ -1,5 +1,4 @@
-Septoria delphinii Hollós SPECIES
-=======
+# Septoria delphinii Hollós SPECIES
 
 #### Status
 ACCEPTED

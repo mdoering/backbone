@@ -1,5 +1,4 @@
-Buellia margaritae (Hue) Darb. SPECIES
-=======
+# Buellia margaritae (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Stigmatidium maculatum C. Knight SPECIES
-=======
+# Chiodecton maculatum (C. Knight) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Linn. Soc. London, Bot. 2: 41 (1882)
+Cat. Lich. Univers. 2: 480 (1923)
 
 #### Original name
 Stigmatidium maculatum C. Knight

@@ -1,5 +1,4 @@
-Tylopilus pachycephalus (Massee) Singer SPECIES
-=======
+# Tylopilus pachycephalus (Massee) Singer SPECIES
 
 #### Status
 ACCEPTED

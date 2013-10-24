@@ -1,17 +1,16 @@
-Serpula pulverulenta (Fr.) Bondartsev, 1959 SPECIES
-=======
+# Leucogyrophana pulverulenta (Sowerby) Ginns, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Botanicheskie Materialy 12: 246 (1959)
+Can. J. Bot. 56(16): 1966 (1978)
 
 #### Original name
-null
+Auricularia pulverulenta Sowerby, 1799
 
 ### Remarks
 null

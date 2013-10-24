@@ -1,5 +1,4 @@
-Scolecopeltis guettardae Henn. SPECIES
-=======
+# Scolecopeltis guettardae Henn. SPECIES
 
 #### Status
 ACCEPTED

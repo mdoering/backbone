@@ -1,5 +1,4 @@
-Trichormus doliolum (Bharadwaja) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus doliolum (Bharadwaja) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

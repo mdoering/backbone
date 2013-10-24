@@ -1,5 +1,4 @@
-Pycnoporus coccinens (Fr.) Bond. & Sing. SPECIES
-=======
+# Pycnoporus coccinens (Fr.) Bond. & Sing. SPECIES
 
 #### Status
 ACCEPTED

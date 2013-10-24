@@ -1,5 +1,4 @@
-Sigmomorphina williamsoni SPECIES
-=======
+# Sigmomorphina williamsoni SPECIES
 
 #### Status
 ACCEPTED

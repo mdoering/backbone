@@ -1,5 +1,4 @@
-Arthonia adveniens Nyl. SPECIES
-=======
+# Arthonia adveniens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nigredo rhyncosporae Arthur SPECIES
-=======
+# Nigredo rhyncosporae Arthur SPECIES
 
 #### Status
 ACCEPTED

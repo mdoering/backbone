@@ -1,5 +1,4 @@
-Chalara nothofagi Nag Raj & W.B. Kendr., 1975 SPECIES
-=======
+# Chalara nothofagi Nag Raj & W.B. Kendr., 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lachnella filicea (Cooke & W. Phillips) W. Phillips, 1887 SPECIES
-=======
+# Micropodia filicea (Cooke & W. Phillips) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 254 (1887)
+null
 
 #### Original name
 null

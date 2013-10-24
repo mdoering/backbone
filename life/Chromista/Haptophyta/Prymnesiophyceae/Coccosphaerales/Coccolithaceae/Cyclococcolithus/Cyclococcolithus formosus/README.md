@@ -1,5 +1,4 @@
-Cyclococcolithus formosus Kamptner SPECIES
-=======
+# Cyclococcolithus formosus Kamptner SPECIES
 
 #### Status
 ACCEPTED

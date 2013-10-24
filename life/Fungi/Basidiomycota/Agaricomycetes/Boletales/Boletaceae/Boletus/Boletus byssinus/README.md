@@ -1,5 +1,4 @@
-Boletus byssinus Schrad., 1794 SPECIES
-=======
+# Boletus byssinus Schrad., 1794 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parafavella digitalis Kofoid & Campbell, 1929 SPECIES
-=======
+# Parafavella digitalis Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

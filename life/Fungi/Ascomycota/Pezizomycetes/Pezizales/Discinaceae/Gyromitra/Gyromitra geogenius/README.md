@@ -1,14 +1,13 @@
-Gyromitra geogenia (Rahm) Harmaja SPECIES
-=======
+# Gyromitra geogenius (Rahm) Harmaja SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Karstenia 15: 30 (1976)
 
 #### Original name
 Discina perlata var. geogenius Rahm

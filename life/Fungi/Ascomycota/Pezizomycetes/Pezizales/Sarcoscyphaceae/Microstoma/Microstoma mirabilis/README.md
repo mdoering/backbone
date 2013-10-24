@@ -1,5 +1,4 @@
-Microstoma mirabilis (Massee) SPECIES
-=======
+# Microstoma mirabilis (Massee) SPECIES
 
 #### Status
 ACCEPTED

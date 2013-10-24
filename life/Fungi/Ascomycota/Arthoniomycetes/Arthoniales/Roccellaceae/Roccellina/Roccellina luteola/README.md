@@ -1,5 +1,4 @@
-Roccellina luteola Follmann SPECIES
-=======
+# Roccellina luteola Follmann SPECIES
 
 #### Status
 ACCEPTED

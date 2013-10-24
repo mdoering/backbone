@@ -1,5 +1,4 @@
-Litosiphon setiformis (Rosenvinge) Rosenvinge SPECIES
-=======
+# Litosiphon setiformis (Rosenvinge) Rosenvinge SPECIES
 
 #### Status
 ACCEPTED

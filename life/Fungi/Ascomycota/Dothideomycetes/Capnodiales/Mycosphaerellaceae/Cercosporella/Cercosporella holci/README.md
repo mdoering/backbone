@@ -1,5 +1,4 @@
-Cercosporella holci R. Sprague SPECIES
-=======
+# Cercosporella holci R. Sprague SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilaginoidea burkillii (Syd., P. Syd. & E.J. Butler) Thirum. & Mundk. SPECIES
-=======
+# Ustilaginoidea burkillii (Syd., P. Syd. & E.J. Butler) Thirum. & Mundk. SPECIES
 
 #### Status
 ACCEPTED

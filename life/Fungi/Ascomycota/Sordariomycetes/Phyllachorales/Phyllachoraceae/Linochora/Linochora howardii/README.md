@@ -1,5 +1,4 @@
-Linochora howardii Syd. SPECIES
-=======
+# Linochora howardii Syd. SPECIES
 
 #### Status
 ACCEPTED

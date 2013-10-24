@@ -1,5 +1,4 @@
-Trichoderma koningii Oudem., 1902 SPECIES
-=======
+# Trichoderma koningii Oudem., 1902 SPECIES
 
 #### Status
 ACCEPTED

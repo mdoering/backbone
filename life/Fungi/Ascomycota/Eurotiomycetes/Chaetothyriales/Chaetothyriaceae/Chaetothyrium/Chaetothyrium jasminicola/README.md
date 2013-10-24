@@ -1,5 +1,4 @@
-Chaetothyrium jasminicola V.P. Sahni SPECIES
-=======
+# Chaetothyrium jasminicola V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

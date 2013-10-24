@@ -1,5 +1,4 @@
-Lecidea inordinata Hue SPECIES
-=======
+# Lecidea inordinata Hue SPECIES
 
 #### Status
 ACCEPTED

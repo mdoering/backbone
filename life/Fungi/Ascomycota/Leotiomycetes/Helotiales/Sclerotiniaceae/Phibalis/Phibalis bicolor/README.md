@@ -1,5 +1,4 @@
-Phibalis bicolor Wallr. SPECIES
-=======
+# Phibalis bicolor Wallr. SPECIES
 
 #### Status
 ACCEPTED

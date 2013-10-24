@@ -1,5 +1,4 @@
-Periconia clintoniae Subram. SPECIES
-=======
+# Periconia clintoniae Subram. SPECIES
 
 #### Status
 ACCEPTED

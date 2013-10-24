@@ -1,5 +1,4 @@
-Tephrocybe raphanolens (Romagn.) Bon SPECIES
-=======
+# Tephrocybe raphanolens (Romagn.) Bon SPECIES
 
 #### Status
 ACCEPTED

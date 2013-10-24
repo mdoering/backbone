@@ -1,5 +1,4 @@
-Mycena subinclinata Murrill SPECIES
-=======
+# Mycena subinclinata Murrill SPECIES
 
 #### Status
 ACCEPTED

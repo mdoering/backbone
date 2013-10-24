@@ -1,5 +1,4 @@
-Eimeria myoxocephali Fitzgerald, 1975 SPECIES
-=======
+# Eimeria myoxocephali Fitzgerald, 1975 SPECIES
 
 #### Status
 ACCEPTED

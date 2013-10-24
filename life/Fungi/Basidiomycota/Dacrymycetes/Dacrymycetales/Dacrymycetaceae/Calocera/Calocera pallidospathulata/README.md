@@ -1,5 +1,4 @@
-Calocera pallidospathulata D.A. Reid, 1974 SPECIES
-=======
+# Calocera pallidospathulata D.A. Reid, 1974 SPECIES
 
 #### Status
 ACCEPTED

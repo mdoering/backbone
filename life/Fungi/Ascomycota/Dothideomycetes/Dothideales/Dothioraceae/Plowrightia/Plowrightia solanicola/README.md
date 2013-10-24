@@ -1,5 +1,4 @@
-Plowrightia solanicola Av.-Saccá SPECIES
-=======
+# Plowrightia solanicola Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alectoria crinalis Ach. SPECIES
-=======
+# Alectoria crinalis Ach. SPECIES
 
 #### Status
 ACCEPTED

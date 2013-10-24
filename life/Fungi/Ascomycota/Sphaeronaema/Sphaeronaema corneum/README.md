@@ -1,5 +1,4 @@
-Sphaeronaema corneum Cooke & Ellis SPECIES
-=======
+# Sphaeronaema corneum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

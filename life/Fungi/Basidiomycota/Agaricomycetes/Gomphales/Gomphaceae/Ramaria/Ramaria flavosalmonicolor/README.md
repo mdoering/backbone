@@ -1,5 +1,4 @@
-Ramaria flavosalmonicolor Schild, 1990 SPECIES
-=======
+# Ramaria flavosalmonicolor Schild, 1990 SPECIES
 
 #### Status
 ACCEPTED

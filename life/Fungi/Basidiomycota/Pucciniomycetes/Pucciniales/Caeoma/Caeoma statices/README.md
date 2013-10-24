@@ -1,5 +1,4 @@
-Caeoma statices F. Rudolphi SPECIES
-=======
+# Caeoma statices F. Rudolphi SPECIES
 
 #### Status
 ACCEPTED

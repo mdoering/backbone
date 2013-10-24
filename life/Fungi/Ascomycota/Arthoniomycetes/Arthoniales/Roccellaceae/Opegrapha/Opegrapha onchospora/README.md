@@ -1,5 +1,4 @@
-Opegrapha onchospora Nyl. SPECIES
-=======
+# Opegrapha onchospora Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiotina maireiaffinis Singer SPECIES
-=======
+# Pholiotina maireiaffinis Singer SPECIES
 
 #### Status
 ACCEPTED

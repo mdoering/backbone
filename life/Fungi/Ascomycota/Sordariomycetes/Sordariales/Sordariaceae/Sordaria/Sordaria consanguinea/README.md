@@ -1,5 +1,4 @@
-Sordaria consanguinea Ces. SPECIES
-=======
+# Sordaria consanguinea Ces. SPECIES
 
 #### Status
 ACCEPTED

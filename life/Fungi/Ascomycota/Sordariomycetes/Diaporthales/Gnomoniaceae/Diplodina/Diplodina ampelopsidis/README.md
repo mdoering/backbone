@@ -1,5 +1,4 @@
-Diplodina ampelopsidis Hollós SPECIES
-=======
+# Diplodina ampelopsidis Hollós SPECIES
 
 #### Status
 ACCEPTED

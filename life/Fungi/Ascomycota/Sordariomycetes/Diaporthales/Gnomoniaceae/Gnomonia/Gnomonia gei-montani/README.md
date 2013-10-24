@@ -1,17 +1,16 @@
-Ophiognomonia gei-montani (Ranoj.) Sogonov, 2008 SPECIES
-=======
+# Gnomonia gei-montani Ranoj., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 8(3): 362 (1910)
 
 #### Original name
-null
+Gnomonia gei-montani Ranoj., 1910
 
 ### Remarks
 null

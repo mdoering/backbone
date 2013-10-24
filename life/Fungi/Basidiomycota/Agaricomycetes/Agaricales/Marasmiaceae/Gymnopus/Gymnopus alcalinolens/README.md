@@ -1,5 +1,4 @@
-Gymnopus alcalinolens (Peck) Murrill SPECIES
-=======
+# Gymnopus alcalinolens (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

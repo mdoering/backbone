@@ -1,5 +1,4 @@
-Hydnangium laeve (R. Hesse) Zeller & C.W. Dodge SPECIES
-=======
+# Hydnangium laeve (R. Hesse) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

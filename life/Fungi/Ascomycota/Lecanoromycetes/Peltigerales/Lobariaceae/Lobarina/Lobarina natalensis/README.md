@@ -1,5 +1,4 @@
-Lobarina natalensis Räsänen SPECIES
-=======
+# Lobarina natalensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

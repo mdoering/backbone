@@ -1,5 +1,4 @@
-Ramularia silenes P. Karst. SPECIES
-=======
+# Ramularia silenes P. Karst. SPECIES
 
 #### Status
 ACCEPTED

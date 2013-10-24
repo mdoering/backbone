@@ -1,5 +1,4 @@
-Cladonia fuscopyxidata Hampe SPECIES
-=======
+# Cladonia fuscopyxidata Hampe SPECIES
 
 #### Status
 ACCEPTED

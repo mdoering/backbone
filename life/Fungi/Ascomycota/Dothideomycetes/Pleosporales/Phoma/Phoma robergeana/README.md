@@ -1,5 +1,4 @@
-Phoma robergeana Sacc. SPECIES
-=======
+# Phoma robergeana Sacc. SPECIES
 
 #### Status
 ACCEPTED

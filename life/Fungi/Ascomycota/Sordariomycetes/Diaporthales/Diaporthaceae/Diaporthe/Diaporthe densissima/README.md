@@ -1,5 +1,4 @@
-Diaporthe densissima Ellis SPECIES
-=======
+# Diaporthe densissima Ellis SPECIES
 
 #### Status
 ACCEPTED

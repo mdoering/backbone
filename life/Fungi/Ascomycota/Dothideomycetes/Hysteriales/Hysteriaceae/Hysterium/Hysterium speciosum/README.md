@@ -1,5 +1,4 @@
-Hysterium speciosum F. Rudolphi SPECIES
-=======
+# Hysterium speciosum F. Rudolphi SPECIES
 
 #### Status
 ACCEPTED

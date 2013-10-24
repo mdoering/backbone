@@ -1,5 +1,4 @@
-Gymnopus oculus (Peck) Murrill SPECIES
-=======
+# Gymnopus oculus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

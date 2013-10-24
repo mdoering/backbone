@@ -1,5 +1,4 @@
-Polygonium vespertinum Deunff, 1980 SPECIES
-=======
+# Polygonium vespertinum Deunff, 1980 SPECIES
 
 #### Status
 ACCEPTED

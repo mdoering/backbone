@@ -1,5 +1,4 @@
-Xanthomonas hortorum Vauterin et al., 1995 SPECIES
-=======
+# Xanthomonas hortorum Vauterin et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polychaeton quercinum (Pers.) Kuntze, 1891 SPECIES
-=======
+# Polychaeton quercinum (Pers.) Kuntze, 1891 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heleococcum inapertum Udagawa, Uchiy. & Kamiya, 1995 SPECIES
-=======
+# Heleococcum inapertum Udagawa, Uchiy. & Kamiya, 1995 SPECIES
 
 #### Status
 ACCEPTED

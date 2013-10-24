@@ -1,5 +1,4 @@
-Comasphaeridium villosum (Playford, 1981) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium villosum (Playford, 1981) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

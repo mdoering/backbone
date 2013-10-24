@@ -1,5 +1,4 @@
-Chaetomium olivicolor K. Rodr., Stchigel & Guarro SPECIES
-=======
+# Chaetomium olivicolor K. Rodr., Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

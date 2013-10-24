@@ -1,5 +1,4 @@
-Euglena grisoli Deflandre SPECIES
-=======
+# Euglena grisoli Deflandre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lunospora lunata (Grove) Frandsen SPECIES
-=======
+# Lunospora lunata (Grove) Frandsen SPECIES
 
 #### Status
 ACCEPTED

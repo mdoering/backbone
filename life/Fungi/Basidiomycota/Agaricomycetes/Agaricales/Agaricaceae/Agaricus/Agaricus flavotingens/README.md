@@ -1,5 +1,4 @@
-Agaricus flavotingens Murrill SPECIES
-=======
+# Agaricus flavotingens Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hippoperdon pisiforme (Kalchbr.) Bres. SPECIES
-=======
+# Hippoperdon pisiforme (Kalchbr.) Bres. SPECIES
 
 #### Status
 ACCEPTED

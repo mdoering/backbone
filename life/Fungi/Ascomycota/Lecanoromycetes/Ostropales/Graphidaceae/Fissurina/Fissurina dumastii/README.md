@@ -1,17 +1,16 @@
-Fissurina dumastii var. bonplandii Fée VARIETY
-=======
+# Fissurina dumastii Fée SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Essai Crypt. Exot. (Paris) 1: (1825)
 
 #### Original name
-Fissurina dumastii var. bonplandii Fée
+Fissurina dumastii Fée
 
 ### Remarks
 null

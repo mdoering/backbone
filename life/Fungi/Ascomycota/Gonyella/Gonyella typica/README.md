@@ -1,5 +1,4 @@
-Gonyella typica O. Rostr., 1916 SPECIES
-=======
+# Gonyella typica O. Rostr., 1916 SPECIES
 
 #### Status
 ACCEPTED

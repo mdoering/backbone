@@ -1,5 +1,4 @@
-Pontosphaera roscoffensis Chadefaud & Feldman SPECIES
-=======
+# Pontosphaera roscoffensis Chadefaud & Feldman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora scirpicola Pass. SPECIES
-=======
+# Stagonospora scirpicola Pass. SPECIES
 
 #### Status
 ACCEPTED

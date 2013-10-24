@@ -1,5 +1,4 @@
-Camarophyllus griseorufescens E. Horak, 1990 SPECIES
-=======
+# Camarophyllus griseorufescens E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

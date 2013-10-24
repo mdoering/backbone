@@ -1,5 +1,4 @@
-Squamaria pinastri (Scop.) Hoffm. SPECIES
-=======
+# Squamaria pinastri (Scop.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

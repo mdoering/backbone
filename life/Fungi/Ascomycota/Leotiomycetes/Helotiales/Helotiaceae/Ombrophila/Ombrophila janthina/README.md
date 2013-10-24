@@ -1,5 +1,4 @@
-Ombrophila janthina P. Karst. SPECIES
-=======
+# Ombrophila janthina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

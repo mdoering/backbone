@@ -1,5 +1,4 @@
-Triposporium pannosum (Berk.) Sacc. SPECIES
-=======
+# Triposporium pannosum (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

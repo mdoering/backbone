@@ -1,5 +1,4 @@
-Hilidicellites major (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Hilidicellites major (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

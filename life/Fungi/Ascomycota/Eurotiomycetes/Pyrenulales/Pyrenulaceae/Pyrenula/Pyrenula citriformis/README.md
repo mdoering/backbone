@@ -1,5 +1,4 @@
-Pyrenula citriformis R.C. Harris SPECIES
-=======
+# Pyrenula citriformis R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

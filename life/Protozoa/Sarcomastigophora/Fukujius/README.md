@@ -1,5 +1,4 @@
-Fukujius Furutani, 1990 GENUS
-=======
+# Fukujius Furutani, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metschnikowia drosophilae Lachance, 2001 SPECIES
-=======
+# Metschnikowia drosophilae Lachance, 2001 SPECIES
 
 #### Status
 ACCEPTED

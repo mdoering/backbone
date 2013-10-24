@@ -1,5 +1,4 @@
-Sargassum furcatum var. humile (Grunow) E. J. de Paula ex Y. Yoneshigue VARIETY
-=======
+# Sargassum furcatum Kützing SPECIES
 
 #### Status
 ACCEPTED

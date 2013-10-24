@@ -1,5 +1,4 @@
-Scyphopilus GENUS
-=======
+# Scyphopilus GENUS
 
 #### Status
 ACCEPTED

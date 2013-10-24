@@ -1,5 +1,4 @@
-Polyporus armadillus Lloyd SPECIES
-=======
+# Polyporus armadillus Lloyd SPECIES
 
 #### Status
 ACCEPTED

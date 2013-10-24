@@ -1,5 +1,4 @@
-Echinoplaca hispida Sipman SPECIES
-=======
+# Echinoplaca hispida Sipman SPECIES
 
 #### Status
 ACCEPTED

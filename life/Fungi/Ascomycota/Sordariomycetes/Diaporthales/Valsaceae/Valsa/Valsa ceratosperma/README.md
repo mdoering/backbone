@@ -1,17 +1,16 @@
-Sphaeria ceratosperma var. ceratosperma VARIETY
-=======
+# Valsa ceratosperma (Tode) Maire, 1937 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Publ. Inst. Bot. Barcelona 3(4): 20 (1937)
 
 #### Original name
-null
+Sphaeria ceratosperma Tode, 1791
 
 ### Remarks
 null

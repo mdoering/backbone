@@ -1,5 +1,4 @@
-Carnimonas Garriga, Ehrmann, Arnau, Hugas & Vogel, 1998 GENUS
-=======
+# Carnimonas Garriga, Ehrmann, Arnau, Hugas & Vogel, 1998 GENUS
 
 #### Status
 ACCEPTED

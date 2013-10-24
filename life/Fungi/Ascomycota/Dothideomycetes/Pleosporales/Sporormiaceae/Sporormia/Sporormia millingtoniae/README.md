@@ -1,5 +1,4 @@
-Sporormia millingtoniae C. Ramesh SPECIES
-=======
+# Sporormia millingtoniae C. Ramesh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Streptotheca psychrophila P.S. Bergman, 1958 SPECIES
-=======
+# Thelebolus psychrophilus (P.S. Bergman) Eckblad, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 49(6): 879 (1958)
+Nytt Mag. Bot. 15(1-2): 23 (1968)
 
 #### Original name
 Streptotheca psychrophila P.S. Bergman, 1958

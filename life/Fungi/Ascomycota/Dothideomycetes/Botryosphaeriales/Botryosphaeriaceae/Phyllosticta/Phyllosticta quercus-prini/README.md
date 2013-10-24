@@ -1,5 +1,4 @@
-Phyllosticta quercus-prini Ellis & Everh. SPECIES
-=======
+# Phyllosticta quercus-prini Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

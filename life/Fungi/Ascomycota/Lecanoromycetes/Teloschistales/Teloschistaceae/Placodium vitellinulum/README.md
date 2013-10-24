@@ -1,5 +1,4 @@
-Placodium vitellinulum SPECIES
-=======
+# Placodium vitellinulum SPECIES
 
 #### Status
 ACCEPTED

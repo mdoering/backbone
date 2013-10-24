@@ -1,5 +1,4 @@
-Wardina calami Bat. & H. Maia SPECIES
-=======
+# Wardina calami Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

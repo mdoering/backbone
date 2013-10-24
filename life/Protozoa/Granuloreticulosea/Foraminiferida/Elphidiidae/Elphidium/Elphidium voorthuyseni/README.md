@@ -1,5 +1,4 @@
-Elphidium voorthuyseni Haake, 1962 SPECIES
-=======
+# Elphidium voorthuyseni Haake, 1962 SPECIES
 
 #### Status
 ACCEPTED

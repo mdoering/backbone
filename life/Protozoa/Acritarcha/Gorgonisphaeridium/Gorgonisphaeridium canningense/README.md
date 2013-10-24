@@ -1,5 +1,4 @@
-Gorgonisphaeridium canningense Colbath, 1990 SPECIES
-=======
+# Gorgonisphaeridium canningense Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

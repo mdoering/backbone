@@ -1,17 +1,16 @@
-Lachnum cotoneastris Velen. SPECIES
-=======
+# Lachnum cotoneastri Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 249 (1934)
 
 #### Original name
-Lachnum cotoneastris Velen.
+Lachnum cotoneastri Velen.
 
 ### Remarks
 null

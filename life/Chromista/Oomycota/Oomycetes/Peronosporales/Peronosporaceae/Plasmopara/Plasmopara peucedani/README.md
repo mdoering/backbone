@@ -1,5 +1,4 @@
-Plasmopara peucedani Nannf. SPECIES
-=======
+# Plasmopara peucedani Nannf. SPECIES
 
 #### Status
 ACCEPTED

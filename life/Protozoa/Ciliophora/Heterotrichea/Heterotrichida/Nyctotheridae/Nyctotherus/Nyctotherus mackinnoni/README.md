@@ -1,5 +1,4 @@
-Nyctotherus mackinnoni Schouten, 1940 SPECIES
-=======
+# Nyctotherus mackinnoni Schouten, 1940 SPECIES
 
 #### Status
 ACCEPTED

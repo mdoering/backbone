@@ -1,5 +1,4 @@
-Marasmius udoensis Hino {?} SPECIES
-=======
+# Marasmius udoensis Hino {?} SPECIES
 
 #### Status
 ACCEPTED

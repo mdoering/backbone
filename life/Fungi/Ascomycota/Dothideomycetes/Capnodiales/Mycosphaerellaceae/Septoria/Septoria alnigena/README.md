@@ -1,5 +1,4 @@
-Septoria alnigena Sacc. SPECIES
-=======
+# Septoria alnigena Sacc. SPECIES
 
 #### Status
 ACCEPTED

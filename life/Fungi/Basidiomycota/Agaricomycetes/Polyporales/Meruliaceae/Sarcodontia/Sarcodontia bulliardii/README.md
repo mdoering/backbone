@@ -1,5 +1,4 @@
-Sarcodontia bulliardii Nikol. SPECIES
-=======
+# Sarcodontia bulliardii Nikol. SPECIES
 
 #### Status
 ACCEPTED

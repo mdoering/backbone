@@ -1,5 +1,4 @@
-Marasmiellus rhodophyllus Singer SPECIES
-=======
+# Marasmiellus rhodophyllus Singer SPECIES
 
 #### Status
 ACCEPTED

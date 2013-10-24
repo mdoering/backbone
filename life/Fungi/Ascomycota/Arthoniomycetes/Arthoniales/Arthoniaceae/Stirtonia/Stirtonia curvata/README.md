@@ -1,5 +1,4 @@
-Stirtonia curvata Aptroot SPECIES
-=======
+# Stirtonia curvata Aptroot SPECIES
 
 #### Status
 ACCEPTED

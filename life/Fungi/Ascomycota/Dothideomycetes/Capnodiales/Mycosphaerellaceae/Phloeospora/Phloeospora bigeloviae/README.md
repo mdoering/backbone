@@ -1,5 +1,4 @@
-Phloeospora bigeloviae Ellis SPECIES
-=======
+# Phloeospora bigeloviae Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria porriginosa (Fr.) P. Karst. SPECIES
-=======
+# Naucoria porriginosa (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

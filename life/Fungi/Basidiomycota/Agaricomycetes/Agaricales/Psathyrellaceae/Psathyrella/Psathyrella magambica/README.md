@@ -1,5 +1,4 @@
-Psathyrella magambica Pegler SPECIES
-=======
+# Psathyrella magambica Pegler SPECIES
 
 #### Status
 ACCEPTED

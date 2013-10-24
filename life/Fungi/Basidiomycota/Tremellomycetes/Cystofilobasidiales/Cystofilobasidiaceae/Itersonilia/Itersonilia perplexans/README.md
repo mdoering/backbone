@@ -1,17 +1,16 @@
-Itersonilia pyriformis Nyland, 1950 SPECIES
-=======
+# Itersonilia perplexans Derx, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 41(6): 689 (1950)
+Bull. Jard. Bot. Buitenz, 3 Sér. 17: 471 (1948)
 
 #### Original name
-Itersonilia pyriformis Nyland, 1950
+Itersonilia perplexans Derx, 1948
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fungus rusiophyllus (Lasch) Kuntze SPECIES
-=======
+# Fungus rusiophyllus (Lasch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

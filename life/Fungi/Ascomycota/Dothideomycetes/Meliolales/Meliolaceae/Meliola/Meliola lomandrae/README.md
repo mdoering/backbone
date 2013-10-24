@@ -1,5 +1,4 @@
-Meliola lomandrae Hansf. SPECIES
-=======
+# Meliola lomandrae Hansf. SPECIES
 
 #### Status
 ACCEPTED

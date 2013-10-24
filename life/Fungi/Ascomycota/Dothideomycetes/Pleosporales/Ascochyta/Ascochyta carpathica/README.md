@@ -1,5 +1,4 @@
-Ascochyta carpathica f. carpathica FORM
-=======
+# Ascochyta carpathica (Allesch.) Keissl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annln naturh. Mus. Wien 35: 21 (1922)
 
 #### Original name
-Ascochyta carpathica f. carpathica
+Phyllosticta carpathica Allesch.
 
 ### Remarks
 null

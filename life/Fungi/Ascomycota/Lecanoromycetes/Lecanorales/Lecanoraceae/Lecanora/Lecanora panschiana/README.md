@@ -1,5 +1,4 @@
-Lecanora panschiana SPECIES
-=======
+# Lecanora panschiana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Goestlingella Kozur & Mostler, 1979 GENUS
-=======
+# Goestlingella Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

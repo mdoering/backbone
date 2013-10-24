@@ -1,5 +1,4 @@
-Eudimeriolum disseminatum (Syd.) M.L. Farr SPECIES
-=======
+# Eudimeriolum disseminatum (Syd.) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

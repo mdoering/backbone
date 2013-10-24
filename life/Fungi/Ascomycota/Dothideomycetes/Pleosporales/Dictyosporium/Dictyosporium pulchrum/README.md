@@ -1,5 +1,4 @@
-Dictyosporium pulchrum anon. SPECIES
-=======
+# Dictyosporium pulchrum anon. SPECIES
 
 #### Status
 ACCEPTED

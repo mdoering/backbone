@@ -1,5 +1,4 @@
-Leptonia flavobrunnea Peck SPECIES
-=======
+# Leptonia flavobrunnea Peck SPECIES
 
 #### Status
 ACCEPTED

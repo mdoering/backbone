@@ -1,5 +1,4 @@
-Polystictus simulans var. borealis (P. Karst.) Sacc. VARIETY
-=======
+# Polystictus simulans Blonski SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coriolus simulans var. borealis P. Karst.
+Polystictus simulans Blonski
 
 ### Remarks
 null

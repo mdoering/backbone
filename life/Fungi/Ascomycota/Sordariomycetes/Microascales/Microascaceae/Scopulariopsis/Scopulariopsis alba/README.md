@@ -1,5 +1,4 @@
-Scopulariopsis alba Svilv. SPECIES
-=======
+# Scopulariopsis alba Svilv. SPECIES
 
 #### Status
 ACCEPTED

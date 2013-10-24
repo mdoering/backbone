@@ -1,5 +1,4 @@
-Sphaeria intybi Durieu & Mont. SPECIES
-=======
+# Sphaeria intybi Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

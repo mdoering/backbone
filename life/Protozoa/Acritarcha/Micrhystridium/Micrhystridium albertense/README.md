@@ -1,5 +1,4 @@
-Micrhystridium albertense Staplin, 1961 SPECIES
-=======
+# Micrhystridium albertense Staplin, 1961 SPECIES
 
 #### Status
 ACCEPTED

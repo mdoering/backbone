@@ -1,14 +1,13 @@
-Acanthophysium botryosum (Burt) G. Cunn., 1963 SPECIES
-=======
+# Aleurodiscus botryosus Burt, 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 145: 161 (1963)
+Ann. Mo. bot. Gdn 5: 198 (1918)
 
 #### Original name
 Aleurodiscus botryosus Burt, 1918

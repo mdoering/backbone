@@ -1,5 +1,4 @@
-Passalora pongamiicola U. Braun & Crous SPECIES
-=======
+# Passalora pongamiicola U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

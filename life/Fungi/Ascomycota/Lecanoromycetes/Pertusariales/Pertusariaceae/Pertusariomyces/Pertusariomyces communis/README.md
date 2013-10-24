@@ -1,5 +1,4 @@
-Pertusariomyces communis E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Pertusariomyces communis E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

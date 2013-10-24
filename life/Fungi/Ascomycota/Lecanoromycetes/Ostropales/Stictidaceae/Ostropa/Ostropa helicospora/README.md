@@ -1,5 +1,4 @@
-Ostropa helicospora (Sollm.) Sacc. & Traverso SPECIES
-=======
+# Ostropa helicospora (Sollm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

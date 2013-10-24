@@ -1,5 +1,4 @@
-Globulina corcontica Velen. SPECIES
-=======
+# Globulina corcontica Velen. SPECIES
 
 #### Status
 ACCEPTED

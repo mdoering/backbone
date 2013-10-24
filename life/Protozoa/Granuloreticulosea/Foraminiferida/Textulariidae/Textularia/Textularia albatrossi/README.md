@@ -1,5 +1,4 @@
-Textularia albatrossi Cushman, 1922 SPECIES
-=======
+# Textularia albatrossi Cushman, 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexacladium corynephorum D.L. Olivier, 1983 SPECIES
-=======
+# Hexacladium corynephorum D.L. Olivier, 1983 SPECIES
 
 #### Status
 ACCEPTED

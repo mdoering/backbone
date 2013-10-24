@@ -1,5 +1,4 @@
-Candida tanzawaensis Nakase & Itoh, 1989 SPECIES
-=======
+# Candida tanzawaensis Nakase & Itoh, 1989 SPECIES
 
 #### Status
 ACCEPTED

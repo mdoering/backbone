@@ -1,5 +1,4 @@
-Lepiota hiatuloides Speg. SPECIES
-=======
+# Lepiota hiatuloides Speg. SPECIES
 
 #### Status
 ACCEPTED

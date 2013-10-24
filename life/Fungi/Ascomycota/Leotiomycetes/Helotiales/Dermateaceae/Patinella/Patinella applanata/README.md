@@ -1,5 +1,4 @@
-Patinella applanata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Patinella applanata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

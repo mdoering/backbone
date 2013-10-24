@@ -1,5 +1,4 @@
-Codonellopsis indica Kofoid & Campbell, 1929 SPECIES
-=======
+# Codonellopsis indica Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

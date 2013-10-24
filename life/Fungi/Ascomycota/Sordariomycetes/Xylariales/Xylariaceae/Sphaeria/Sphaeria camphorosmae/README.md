@@ -1,5 +1,4 @@
-Sphaeria camphorosmae Castagne SPECIES
-=======
+# Sphaeria camphorosmae Castagne SPECIES
 
 #### Status
 ACCEPTED

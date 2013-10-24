@@ -1,5 +1,4 @@
-Agaricus puberulus Berk. SPECIES
-=======
+# Agaricus puberulus Berk. SPECIES
 
 #### Status
 ACCEPTED

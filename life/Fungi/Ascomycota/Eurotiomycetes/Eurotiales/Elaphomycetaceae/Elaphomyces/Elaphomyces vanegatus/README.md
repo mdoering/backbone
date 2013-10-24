@@ -1,5 +1,4 @@
-Elaphomyces vanegatus Vittad. SPECIES
-=======
+# Elaphomyces vanegatus Vittad. SPECIES
 
 #### Status
 ACCEPTED

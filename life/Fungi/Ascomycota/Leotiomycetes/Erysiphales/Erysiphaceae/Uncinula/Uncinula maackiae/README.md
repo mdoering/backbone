@@ -1,5 +1,4 @@
-Uncinula maackiae R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Uncinula maackiae R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia cardui-personatae Höhn. SPECIES
-=======
+# Ramularia cardui-personatae Höhn. SPECIES
 
 #### Status
 ACCEPTED

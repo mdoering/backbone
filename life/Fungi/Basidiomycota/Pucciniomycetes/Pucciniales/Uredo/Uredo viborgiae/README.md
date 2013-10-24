@@ -1,5 +1,4 @@
-Uredo viborgiae Henn. SPECIES
-=======
+# Uredo viborgiae Henn. SPECIES
 
 #### Status
 ACCEPTED

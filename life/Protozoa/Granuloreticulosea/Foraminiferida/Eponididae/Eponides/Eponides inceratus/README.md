@@ -1,5 +1,4 @@
-Eponides inceratus (Cushman, 1922) SPECIES
-=======
+# Eponides inceratus (Cushman, 1922) SPECIES
 
 #### Status
 ACCEPTED

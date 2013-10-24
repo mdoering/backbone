@@ -1,5 +1,4 @@
-Diplodiella nobilis Berk. & M.A. Curtis SPECIES
-=======
+# Diplodiella nobilis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

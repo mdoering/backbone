@@ -1,5 +1,4 @@
-Peziza texensis Berk. & M.A. Curtis SPECIES
-=======
+# Peziza texensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

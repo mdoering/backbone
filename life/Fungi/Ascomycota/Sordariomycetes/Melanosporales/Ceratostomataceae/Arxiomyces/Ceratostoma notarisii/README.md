@@ -1,5 +1,4 @@
-Ceratostoma notarisii Sacc., 1875 SPECIES
-=======
+# Ceratostoma notarisii Sacc., 1875 SPECIES
 
 #### Status
 ACCEPTED

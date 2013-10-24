@@ -1,5 +1,4 @@
-Sol radians Cramer, 1964 SPECIES
-=======
+# Sol radians Cramer, 1964 SPECIES
 
 #### Status
 ACCEPTED

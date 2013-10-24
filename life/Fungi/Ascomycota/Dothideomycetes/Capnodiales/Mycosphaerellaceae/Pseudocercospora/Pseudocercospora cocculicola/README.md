@@ -1,5 +1,4 @@
-Pseudocercospora cocculicola S.K. Singh & Bhalla SPECIES
-=======
+# Pseudocercospora cocculicola S.K. Singh & Bhalla SPECIES
 
 #### Status
 ACCEPTED

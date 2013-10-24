@@ -1,5 +1,4 @@
-Puccinia hysteriiformis Peck SPECIES
-=======
+# Puccinia hysteriiformis Peck SPECIES
 
 #### Status
 ACCEPTED

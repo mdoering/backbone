@@ -1,5 +1,4 @@
-Trichopezizella macrospora Raitv. SPECIES
-=======
+# Trichopezizella macrospora Raitv. SPECIES
 
 #### Status
 ACCEPTED

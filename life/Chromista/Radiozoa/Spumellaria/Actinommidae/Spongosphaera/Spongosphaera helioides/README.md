@@ -1,5 +1,4 @@
-Spongosphaera helioides Haeckel, 1862 SPECIES
-=======
+# Spongosphaera helioides Haeckel, 1862 SPECIES
 
 #### Status
 ACCEPTED

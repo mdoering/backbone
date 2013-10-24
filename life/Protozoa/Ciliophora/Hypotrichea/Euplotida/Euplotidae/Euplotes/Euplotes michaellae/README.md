@@ -1,5 +1,4 @@
-Euplotes michaellae Chardez, 1982 SPECIES
-=======
+# Euplotes michaellae Chardez, 1982 SPECIES
 
 #### Status
 ACCEPTED

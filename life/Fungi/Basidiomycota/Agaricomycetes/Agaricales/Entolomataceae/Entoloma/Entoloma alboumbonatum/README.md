@@ -1,5 +1,4 @@
-Entoloma alboumbonatum Hesler SPECIES
-=======
+# Entoloma alboumbonatum Hesler SPECIES
 
 #### Status
 ACCEPTED

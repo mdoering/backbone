@@ -1,5 +1,4 @@
-Strigula johnsonii P.M. McCarthy SPECIES
-=======
+# Strigula johnsonii P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

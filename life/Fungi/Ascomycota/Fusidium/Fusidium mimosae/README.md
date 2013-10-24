@@ -1,5 +1,4 @@
-Fusidium mimosae Pass. & Roum. SPECIES
-=======
+# Fusidium mimosae Pass. & Roum. SPECIES
 
 #### Status
 ACCEPTED

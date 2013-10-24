@@ -1,5 +1,4 @@
-Corticium S.F. Gray, 1821 GENUS
-=======
+# Corticium S.F. Gray, 1821 GENUS
 
 #### Status
 ACCEPTED

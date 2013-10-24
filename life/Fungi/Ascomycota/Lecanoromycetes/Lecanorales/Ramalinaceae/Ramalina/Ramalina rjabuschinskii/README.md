@@ -1,5 +1,4 @@
-Ramalina rjabuschinskii Sav. {?} SPECIES
-=======
+# Ramalina rjabuschinskii Sav. {?} SPECIES
 
 #### Status
 ACCEPTED

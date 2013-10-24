@@ -1,5 +1,4 @@
-Bacidia massalongiana Trevis. SPECIES
-=======
+# Bacidia massalongiana Trevis. SPECIES
 
 #### Status
 ACCEPTED

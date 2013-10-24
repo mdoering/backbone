@@ -1,5 +1,4 @@
-Dorypelta Haeckel, 1887 GENUS
-=======
+# Dorypelta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

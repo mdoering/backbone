@@ -1,5 +1,4 @@
-Closteroaleurosporia umbonata (Sabour.) Grigoraki SPECIES
-=======
+# Closteroaleurosporia umbonata (Sabour.) Grigoraki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria papillosa Sowerby SPECIES
-=======
+# Sphaeria papillosa Sowerby SPECIES
 
 #### Status
 ACCEPTED

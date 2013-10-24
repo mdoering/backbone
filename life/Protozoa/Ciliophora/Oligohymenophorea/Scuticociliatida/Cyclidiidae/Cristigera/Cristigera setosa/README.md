@@ -1,5 +1,4 @@
-Cristigera setosa subsp. tricincta Kahl, 1933 SUBSPECIES
-=======
+# Cristigera setosa Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

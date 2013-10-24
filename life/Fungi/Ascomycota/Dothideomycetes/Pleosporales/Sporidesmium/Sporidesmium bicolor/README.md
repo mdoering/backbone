@@ -1,17 +1,16 @@
-Sporodesmium bicolor (Peck) Pound & Clem. SPECIES
-=======
+# Sporidesmium bicolor (S. Hughes) M.B. Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 70: 52 (1958)
 
 #### Original name
-Septonema bicolor Peck
+Podoconis bicolor S. Hughes
 
 ### Remarks
 null

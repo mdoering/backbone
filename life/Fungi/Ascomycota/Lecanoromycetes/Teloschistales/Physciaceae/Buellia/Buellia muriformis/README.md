@@ -1,5 +1,4 @@
-Buellia muriformis A. Nordin & Tønsberg SPECIES
-=======
+# Buellia muriformis A. Nordin & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

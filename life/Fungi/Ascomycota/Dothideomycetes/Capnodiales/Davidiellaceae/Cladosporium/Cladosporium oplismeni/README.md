@@ -1,5 +1,4 @@
-Cladosporium oplismeni Syd. & P. Syd. SPECIES
-=======
+# Cladosporium oplismeni Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

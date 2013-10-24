@@ -1,5 +1,4 @@
-Pluricellaesporites antarcticus Z.C. Song & Liu Cao SPECIES
-=======
+# Pluricellaesporites antarcticus Z.C. Song & Liu Cao SPECIES
 
 #### Status
 ACCEPTED

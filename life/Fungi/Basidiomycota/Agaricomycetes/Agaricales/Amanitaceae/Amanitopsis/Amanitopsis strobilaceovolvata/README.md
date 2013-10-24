@@ -1,5 +1,4 @@
-Amanitopsis strobilaceovolvata (Beeli) E.-J. Gilbert SPECIES
-=======
+# Amanitopsis strobilaceovolvata (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe lavandulochlora Esteve-Rav. & M. Villarreal SPECIES
-=======
+# Inocybe lavandulochlora Esteve-Rav. & M. Villarreal SPECIES
 
 #### Status
 ACCEPTED

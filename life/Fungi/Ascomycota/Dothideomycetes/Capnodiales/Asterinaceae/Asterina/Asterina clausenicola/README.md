@@ -1,5 +1,4 @@
-Asterina clausenicola Doidge SPECIES
-=======
+# Asterina clausenicola Doidge SPECIES
 
 #### Status
 ACCEPTED

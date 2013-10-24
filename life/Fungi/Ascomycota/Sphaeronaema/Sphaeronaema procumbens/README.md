@@ -1,5 +1,4 @@
-Sphaeronaema procumbens Sacc. SPECIES
-=======
+# Sphaeronaema procumbens Sacc. SPECIES
 
 #### Status
 ACCEPTED

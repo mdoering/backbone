@@ -1,5 +1,4 @@
-Meliola panicicola Syd. & P. Syd. SPECIES
-=======
+# Meliola panicicola Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

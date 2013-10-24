@@ -1,5 +1,4 @@
-Trichodina serpularum (Fabre-Domergue, 1888) SPECIES
-=======
+# Trichodina serpularum (Fabre-Domergue, 1888) SPECIES
 
 #### Status
 ACCEPTED

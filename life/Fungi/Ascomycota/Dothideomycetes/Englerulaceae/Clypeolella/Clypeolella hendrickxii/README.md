@@ -1,5 +1,4 @@
-Clypeolella hendrickxii Hansf. SPECIES
-=======
+# Clypeolella hendrickxii Hansf. SPECIES
 
 #### Status
 ACCEPTED

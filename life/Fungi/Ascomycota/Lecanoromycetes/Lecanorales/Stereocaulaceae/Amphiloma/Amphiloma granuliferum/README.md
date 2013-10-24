@@ -1,5 +1,4 @@
-Amphiloma granuliferum var. subvitellinum Müll. Arg. VARIETY
-=======
+# Amphiloma granuliferum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amphiloma granuliferum var. subvitellinum Müll. Arg.
+Amphiloma granuliferum Müll. Arg.
 
 ### Remarks
 null

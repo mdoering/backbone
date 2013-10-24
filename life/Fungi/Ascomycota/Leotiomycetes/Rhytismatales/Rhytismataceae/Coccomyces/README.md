@@ -1,17 +1,16 @@
-Coccomycella Höhn. GENUS
-=======
+# Coccomyces De Notaris, 1847 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls mycol. 15(5): 323 (1917)
+null
 
 #### Original name
-Coccomycella Höhn.
+null
 
 ### Remarks
 null

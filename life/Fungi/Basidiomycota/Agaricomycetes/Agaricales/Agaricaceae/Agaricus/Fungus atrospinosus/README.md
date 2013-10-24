@@ -1,5 +1,4 @@
-Fungus atrospinosus Paulet SPECIES
-=======
+# Fungus atrospinosus Paulet SPECIES
 
 #### Status
 ACCEPTED

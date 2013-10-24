@@ -1,5 +1,4 @@
-Megasporoporia minuta Y.C. Dai & X.S. Zhou SPECIES
-=======
+# Megasporoporia minuta Y.C. Dai & X.S. Zhou SPECIES
 
 #### Status
 ACCEPTED

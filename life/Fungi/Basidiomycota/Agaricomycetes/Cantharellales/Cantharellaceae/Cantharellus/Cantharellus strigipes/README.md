@@ -1,5 +1,4 @@
-Cantharellus strigipes Berk. SPECIES
-=======
+# Cantharellus strigipes Berk. SPECIES
 
 #### Status
 ACCEPTED

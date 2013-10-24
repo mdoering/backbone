@@ -1,5 +1,4 @@
-Phaeocollybia graveolens B.J. Rees & K. Syme SPECIES
-=======
+# Phaeocollybia graveolens B.J. Rees & K. Syme SPECIES
 
 #### Status
 ACCEPTED

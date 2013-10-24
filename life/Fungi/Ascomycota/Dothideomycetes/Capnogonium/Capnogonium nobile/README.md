@@ -1,5 +1,4 @@
-Capnogonium nobile Bernh. SPECIES
-=======
+# Capnogonium nobile Bernh. SPECIES
 
 #### Status
 ACCEPTED

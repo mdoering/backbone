@@ -1,5 +1,4 @@
-Agaricus cuniculicola Kerrigan SPECIES
-=======
+# Agaricus cuniculicola Kerrigan SPECIES
 
 #### Status
 ACCEPTED

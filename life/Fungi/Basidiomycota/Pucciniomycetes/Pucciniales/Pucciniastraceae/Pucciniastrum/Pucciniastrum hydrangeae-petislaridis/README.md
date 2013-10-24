@@ -1,5 +1,4 @@
-Pucciniastrum hydrangeae-petislaridis Hirats. SPECIES
-=======
+# Pucciniastrum hydrangeae-petislaridis Hirats. SPECIES
 
 #### Status
 ACCEPTED

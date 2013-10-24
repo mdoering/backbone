@@ -1,5 +1,4 @@
-Coniothecium agaves Petr. SPECIES
-=======
+# Coniothecium agaves Petr. SPECIES
 
 #### Status
 ACCEPTED

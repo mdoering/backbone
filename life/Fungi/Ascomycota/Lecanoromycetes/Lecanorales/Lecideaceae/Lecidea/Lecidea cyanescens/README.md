@@ -1,5 +1,4 @@
-Lecidea cyanescens Lynge SPECIES
-=======
+# Lecidea cyanescens Lynge SPECIES
 
 #### Status
 ACCEPTED

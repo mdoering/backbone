@@ -1,5 +1,4 @@
-Petalomonas F.Stein, 1859 GENUS
-=======
+# Petalomonas F.Stein, 1859 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida anutae Babeva, Lisichk., Maksim., Reshetova, Terenina & Chernov SPECIES
-=======
+# Candida anutae Babeva, Lisichk., Maksim., Reshetova, Terenina & Chernov SPECIES
 
 #### Status
 ACCEPTED

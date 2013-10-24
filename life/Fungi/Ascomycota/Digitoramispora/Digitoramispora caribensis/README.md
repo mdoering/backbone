@@ -1,5 +1,4 @@
-Digitoramispora caribensis R.F. Castañeda & W.B. Kendr., 1990 SPECIES
-=======
+# Digitoramispora caribensis R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
 ACCEPTED

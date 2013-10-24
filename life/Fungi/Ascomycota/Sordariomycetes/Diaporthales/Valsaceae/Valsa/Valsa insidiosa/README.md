@@ -1,5 +1,4 @@
-Valsa insidiosa P. Crouan & H. Crouan SPECIES
-=======
+# Valsa insidiosa P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

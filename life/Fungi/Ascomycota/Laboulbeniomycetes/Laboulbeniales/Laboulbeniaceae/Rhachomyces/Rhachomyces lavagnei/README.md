@@ -1,17 +1,16 @@
-Dimeromyces lavagnei F. Picard, 1917 SPECIES
-=======
+# Rhachomyces lavagnei (F. Picard) W. Rossi, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 74(6): 1025 (1982)
 
 #### Original name
-null
+Dimeromyces lavagnei F. Picard, 1917
 
 ### Remarks
 null

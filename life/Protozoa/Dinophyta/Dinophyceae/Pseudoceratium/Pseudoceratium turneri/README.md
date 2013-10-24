@@ -1,5 +1,4 @@
-Pseudoceratium turneri Cookson & Eisenack SPECIES
-=======
+# Pseudoceratium turneri Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

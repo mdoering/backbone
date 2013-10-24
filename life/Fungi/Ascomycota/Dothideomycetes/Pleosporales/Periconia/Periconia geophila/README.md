@@ -1,5 +1,4 @@
-Periconia geophila Peck SPECIES
-=======
+# Periconia geophila Peck SPECIES
 
 #### Status
 ACCEPTED

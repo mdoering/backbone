@@ -1,5 +1,4 @@
-Umbilicaria crassa Colmeiro SPECIES
-=======
+# Umbilicaria crassa Colmeiro SPECIES
 
 #### Status
 ACCEPTED

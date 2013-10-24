@@ -1,5 +1,4 @@
-Naxotia Al-Zamel & Cherif, 1997 GENUS
-=======
+# Naxotia Al-Zamel & Cherif, 1997 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Goniosporium sphaerospermum (Fuckel) Sacc., 1886 SPECIES
-=======
+# Arthrinium sphaerospermum Fuckel, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 280 (1886)
+Jb. nassau. Ver. Naturk. 27-28: 79 (1873)
 
 #### Original name
 Arthrinium sphaerospermum Fuckel, 1874

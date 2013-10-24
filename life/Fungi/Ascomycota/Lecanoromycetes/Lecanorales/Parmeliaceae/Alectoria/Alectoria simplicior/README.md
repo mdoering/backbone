@@ -1,5 +1,4 @@
-Alectoria simplicior f. simplicior FORM
-=======
+# Alectoria simplicior (Vain.) Lynge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Alectoria simplicior f. simplicior
+Alectoria nidulifera var. simplicior
 
 ### Remarks
 null

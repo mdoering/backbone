@@ -1,5 +1,4 @@
-Amanita hortorius E.H.L. Krause SPECIES
-=======
+# Amanita hortorius E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

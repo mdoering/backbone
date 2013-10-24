@@ -1,5 +1,4 @@
-Laboulbenia flexata Thaxt. SPECIES
-=======
+# Laboulbenia flexata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

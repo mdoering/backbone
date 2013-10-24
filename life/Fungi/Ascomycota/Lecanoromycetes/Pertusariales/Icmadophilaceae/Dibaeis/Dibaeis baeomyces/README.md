@@ -1,17 +1,16 @@
-Baeomyces roseus var. roseus VARIETY
-=======
+# Dibaeis baeomyces (L. f.) Rambold & Hertel SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. (Usteri) 1: 19 (1794)
+Biblthca Mycol. 53: 231 (1993)
 
 #### Original name
-Baeomyces roseus var. roseus
+Lichen baeomyces L. f.
 
 ### Remarks
 null

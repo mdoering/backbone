@@ -1,5 +1,4 @@
-Pestalotia ilicina Sacc. SPECIES
-=======
+# Pestalotia ilicina Sacc. SPECIES
 
 #### Status
 ACCEPTED

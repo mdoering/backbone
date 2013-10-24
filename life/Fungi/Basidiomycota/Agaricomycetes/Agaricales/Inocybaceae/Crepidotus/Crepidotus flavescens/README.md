@@ -1,5 +1,4 @@
-Crepidotus flavescens Rick SPECIES
-=======
+# Crepidotus flavescens Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pycnociliospora GENUS
-=======
+# Pycnociliospora GENUS
 
 #### Status
 ACCEPTED

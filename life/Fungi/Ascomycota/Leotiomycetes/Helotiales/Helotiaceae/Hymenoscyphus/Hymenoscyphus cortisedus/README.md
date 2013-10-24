@@ -1,14 +1,13 @@
-Helotium uliginosum var. cortisedum P. Karst., 1871 VARIETY
-=======
+# Hymenoscyphus cortisedus (P. Karst.) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 19: 122 (1871)
+Persoonia 3(1): 75 (1964)
 
 #### Original name
 Helotium uliginosum var. cortisedum P. Karst., 1871

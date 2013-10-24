@@ -1,5 +1,4 @@
-Carchesium rarus SPECIES
-=======
+# Carchesium rarus SPECIES
 
 #### Status
 ACCEPTED

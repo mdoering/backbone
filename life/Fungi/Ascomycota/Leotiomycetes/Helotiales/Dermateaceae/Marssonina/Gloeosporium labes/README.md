@@ -1,5 +1,4 @@
-Gloeosporium labes (Berk.) Berk. & Broome, 1871 SPECIES
-=======
+# Gloeosporium labes (Berk.) Berk. & Broome, 1871 SPECIES
 
 #### Status
 ACCEPTED

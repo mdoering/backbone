@@ -1,5 +1,4 @@
-Septoria arisaricola Pat. SPECIES
-=======
+# Septoria arisaricola Pat. SPECIES
 
 #### Status
 ACCEPTED

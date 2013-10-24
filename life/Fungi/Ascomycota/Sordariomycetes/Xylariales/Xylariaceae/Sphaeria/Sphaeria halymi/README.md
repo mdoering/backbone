@@ -1,5 +1,4 @@
-Sphaeria halymi Castagne SPECIES
-=======
+# Sphaeria halymi Castagne SPECIES
 
 #### Status
 ACCEPTED

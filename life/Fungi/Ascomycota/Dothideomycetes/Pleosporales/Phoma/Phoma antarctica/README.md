@@ -1,5 +1,4 @@
-Phoma antarctica Speg. SPECIES
-=======
+# Phoma antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

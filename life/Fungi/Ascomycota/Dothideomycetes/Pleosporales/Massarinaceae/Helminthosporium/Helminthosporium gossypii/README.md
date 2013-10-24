@@ -1,5 +1,4 @@
-Helminthosporium gossypii Tucker SPECIES
-=======
+# Helminthosporium gossypii Tucker SPECIES
 
 #### Status
 ACCEPTED

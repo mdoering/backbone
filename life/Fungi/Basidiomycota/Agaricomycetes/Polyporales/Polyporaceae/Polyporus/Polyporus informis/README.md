@@ -1,5 +1,4 @@
-Polyporus informis Pers. SPECIES
-=======
+# Polyporus informis Pers. SPECIES
 
 #### Status
 ACCEPTED

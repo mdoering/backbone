@@ -1,5 +1,4 @@
-Scleroderris sequoiae (Plowr.) Sacc. SPECIES
-=======
+# Scleroderris sequoiae (Plowr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridium punctum Pat. SPECIES
-=======
+# Asteridium punctum Pat. SPECIES
 
 #### Status
 ACCEPTED

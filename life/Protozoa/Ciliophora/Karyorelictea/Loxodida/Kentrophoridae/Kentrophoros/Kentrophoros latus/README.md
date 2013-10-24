@@ -1,5 +1,4 @@
-Kentrophoros latus Raikov, 1962 SPECIES
-=======
+# Kentrophoros latus Raikov, 1962 SPECIES
 
 #### Status
 ACCEPTED

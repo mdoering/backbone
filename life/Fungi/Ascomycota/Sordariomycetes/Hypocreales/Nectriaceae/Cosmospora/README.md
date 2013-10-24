@@ -1,17 +1,16 @@
-Stylonectria Höhn. GENUS
-=======
+# Cosmospora Rabenhorst, 1862 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 124: 52 (1915)
+null
 
 #### Original name
-Stylonectria Höhn.
+null
 
 ### Remarks
 null

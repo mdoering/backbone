@@ -1,5 +1,4 @@
-Graphina roridula SPECIES
-=======
+# Graphina roridula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella caespitosa (Ellis & Everh.) Diehl SPECIES
-=======
+# Mycosphaerella caespitosa (Ellis & Everh.) Diehl SPECIES
 
 #### Status
 ACCEPTED

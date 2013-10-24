@@ -1,5 +1,4 @@
-Nautilia lithotrophica Miroshnichenko et al., 2002 SPECIES
-=======
+# Nautilia lithotrophica Miroshnichenko et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

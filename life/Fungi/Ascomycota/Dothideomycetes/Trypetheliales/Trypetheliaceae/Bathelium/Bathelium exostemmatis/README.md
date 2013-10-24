@@ -1,5 +1,4 @@
-Bathelium exostemmatis Müll. Arg. SPECIES
-=======
+# Bathelium exostemmatis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

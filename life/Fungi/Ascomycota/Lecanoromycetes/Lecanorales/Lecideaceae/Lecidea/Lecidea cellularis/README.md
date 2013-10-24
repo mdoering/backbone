@@ -1,5 +1,4 @@
-Lecidea cellularis J. Lowe SPECIES
-=======
+# Lecidea cellularis J. Lowe SPECIES
 
 #### Status
 ACCEPTED

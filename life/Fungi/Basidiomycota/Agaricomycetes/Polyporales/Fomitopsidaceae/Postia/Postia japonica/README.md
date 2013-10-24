@@ -1,5 +1,4 @@
-Postia japonica Y.C. Dai & T. Hatt. SPECIES
-=======
+# Postia japonica Y.C. Dai & T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

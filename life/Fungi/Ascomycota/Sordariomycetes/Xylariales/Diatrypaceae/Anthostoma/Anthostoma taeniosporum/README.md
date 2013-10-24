@@ -1,5 +1,4 @@
-Anthostoma taeniosporum Sacc. SPECIES
-=======
+# Anthostoma taeniosporum Sacc. SPECIES
 
 #### Status
 ACCEPTED

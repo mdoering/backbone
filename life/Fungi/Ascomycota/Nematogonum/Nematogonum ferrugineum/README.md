@@ -1,14 +1,13 @@
-Monilia ferruginea Pers. SPECIES
-=======
+# Nematogonum ferrugineum (Pers.) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Anat. Physiol. Norm. Pathol. Homme Anim. Paris 43(4): 57 (1954)
+Can. J. Bot. 36: 789 (1958)
 
 #### Original name
 Monilia ferruginea Pers.

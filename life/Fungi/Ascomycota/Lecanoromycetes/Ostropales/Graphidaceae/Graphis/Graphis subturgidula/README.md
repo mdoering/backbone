@@ -1,5 +1,4 @@
-Graphis subturgidula Lücking & Sipman SPECIES
-=======
+# Graphis subturgidula Lücking & Sipman SPECIES
 
 #### Status
 ACCEPTED

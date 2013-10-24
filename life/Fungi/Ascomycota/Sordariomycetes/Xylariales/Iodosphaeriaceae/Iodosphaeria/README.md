@@ -1,5 +1,4 @@
-Iodosphaeria Samuels, E. Müll. & Petrini GENUS
-=======
+# Iodosphaeria Samuels, E. Müll. & Petrini GENUS
 
 #### Status
 ACCEPTED

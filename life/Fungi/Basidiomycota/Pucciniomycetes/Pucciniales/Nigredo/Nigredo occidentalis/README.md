@@ -1,5 +1,4 @@
-Nigredo occidentalis (Dietel) Arthur SPECIES
-=======
+# Nigredo occidentalis (Dietel) Arthur SPECIES
 
 #### Status
 ACCEPTED

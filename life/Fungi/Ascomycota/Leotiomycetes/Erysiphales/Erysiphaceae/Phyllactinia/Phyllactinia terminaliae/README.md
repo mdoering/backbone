@@ -1,5 +1,4 @@
-Phyllactinia terminaliae T.S. Ramakr. SPECIES
-=======
+# Phyllactinia terminaliae T.S. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum manihoticola Sawada SPECIES
-=======
+# Colletotrichum manihoticola Sawada SPECIES
 
 #### Status
 ACCEPTED

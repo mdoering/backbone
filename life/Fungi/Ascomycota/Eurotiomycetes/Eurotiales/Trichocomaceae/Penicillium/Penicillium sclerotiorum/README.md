@@ -1,5 +1,4 @@
-Penicillium sclerotiorum J.F.H. Beyma, 1937 SPECIES
-=======
+# Penicillium sclerotiorum J.F.H. Beyma, 1937 SPECIES
 
 #### Status
 ACCEPTED

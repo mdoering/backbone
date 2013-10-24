@@ -1,5 +1,4 @@
-Chalastospora E.G. Simmons GENUS
-=======
+# Chalastospora E.G. Simmons GENUS
 
 #### Status
 ACCEPTED

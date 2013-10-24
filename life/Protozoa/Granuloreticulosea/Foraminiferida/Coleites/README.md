@@ -1,5 +1,4 @@
-Coleites Plummer, 1934 GENUS
-=======
+# Coleites Plummer, 1934 GENUS
 
 #### Status
 ACCEPTED

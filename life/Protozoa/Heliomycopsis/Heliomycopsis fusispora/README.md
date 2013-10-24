@@ -1,8 +1,7 @@
-Heliomycopsis fusisporus G. Arnaud SPECIES
-=======
+# Heliomycopsis fusispora G. Arnaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Heliomycopsis fusisporus G. Arnaud
+Heliomycopsis fusispora G. Arnaud
 
 ### Remarks
 null

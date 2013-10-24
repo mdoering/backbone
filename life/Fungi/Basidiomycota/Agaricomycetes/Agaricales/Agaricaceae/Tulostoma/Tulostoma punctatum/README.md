@@ -1,5 +1,4 @@
-Tulostoma punctatum Peck SPECIES
-=======
+# Tulostoma punctatum Peck SPECIES
 
 #### Status
 ACCEPTED

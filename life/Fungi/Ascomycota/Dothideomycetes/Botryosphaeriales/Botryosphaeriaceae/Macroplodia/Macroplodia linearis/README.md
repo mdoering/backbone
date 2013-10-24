@@ -1,5 +1,4 @@
-Macroplodia linearis (Peck) Kuntze SPECIES
-=======
+# Macroplodia linearis (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

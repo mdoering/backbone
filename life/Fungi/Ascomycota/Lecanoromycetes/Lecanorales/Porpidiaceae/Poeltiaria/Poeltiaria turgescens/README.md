@@ -1,14 +1,13 @@
-Porpidia turgescens (Körb.) Brusse SPECIES
-=======
+# Poeltiaria turgescens (Körb.) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bothalia 18(1): 94 (1988)
+Beih. Nova Hedwigia 79: 431 (1984)
 
 #### Original name
 Lecidella turgescens Körb.

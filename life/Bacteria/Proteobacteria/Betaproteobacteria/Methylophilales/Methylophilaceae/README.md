@@ -1,5 +1,4 @@
-Methylophilaceae FAMILY
-=======
+# Methylophilaceae FAMILY
 
 #### Status
 ACCEPTED

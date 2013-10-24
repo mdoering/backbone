@@ -1,5 +1,4 @@
-Trogia mammillata Corner SPECIES
-=======
+# Trogia mammillata Corner SPECIES
 
 #### Status
 ACCEPTED

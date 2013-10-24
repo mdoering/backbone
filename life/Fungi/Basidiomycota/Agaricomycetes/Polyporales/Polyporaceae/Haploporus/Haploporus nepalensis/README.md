@@ -1,5 +1,4 @@
-Haploporus nepalensis (T. Hatt.) Piatek, 2003 SPECIES
-=======
+# Haploporus nepalensis (T. Hatt.) Piatek, 2003 SPECIES
 
 #### Status
 ACCEPTED

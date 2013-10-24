@@ -1,5 +1,4 @@
-Uromyces laevis Körn., 1877 SPECIES
-=======
+# Uromyces laevis Körn., 1877 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epicoccum maculatum Cooke SPECIES
-=======
+# Epicoccum maculatum Cooke SPECIES
 
 #### Status
 ACCEPTED

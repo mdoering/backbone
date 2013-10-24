@@ -1,17 +1,16 @@
-Phyllosticta pentatis-carniae Subhedar & V.G. Rao SPECIES
-=======
+# Phyllosticta pentadis-carneae Subhedar & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the University of Poona 52: 319 (1979)
 
 #### Original name
-Phyllosticta pentatis-carniae Subhedar & V.G. Rao
+Phyllosticta pentadis-carneae Subhedar & V.G. Rao
 
 ### Remarks
 null

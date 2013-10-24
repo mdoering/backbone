@@ -1,5 +1,4 @@
-Caudatispora biapiculata Huhndorf & F.A. Fernández, 1999 SPECIES
-=======
+# Caudatispora biapiculata Huhndorf & F.A. Fernández, 1999 SPECIES
 
 #### Status
 ACCEPTED

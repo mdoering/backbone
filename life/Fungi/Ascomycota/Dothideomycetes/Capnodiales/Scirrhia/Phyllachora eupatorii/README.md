@@ -1,5 +1,4 @@
-Phyllachora eupatorii (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
-=======
+# Phyllachora eupatorii (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

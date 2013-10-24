@@ -1,5 +1,4 @@
-Arthonia subastroidella Nyl. SPECIES
-=======
+# Arthonia subastroidella Nyl. SPECIES
 
 #### Status
 ACCEPTED

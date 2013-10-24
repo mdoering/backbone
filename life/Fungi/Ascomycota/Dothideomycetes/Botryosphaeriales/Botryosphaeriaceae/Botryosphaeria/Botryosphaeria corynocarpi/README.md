@@ -1,5 +1,4 @@
-Botryosphaeria corynocarpi (Dias & Sousa da Câmara) J. Reid & C. Booth SPECIES
-=======
+# Botryosphaeria corynocarpi (Dias & Sousa da Câmara) J. Reid & C. Booth SPECIES
 
 #### Status
 ACCEPTED

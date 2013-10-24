@@ -1,5 +1,4 @@
-Arthrobacter mysorens Nand and Rao, 1972 (Approved Lists, 1980) SPECIES
-=======
+# Arthrobacter mysorens Nand and Rao, 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

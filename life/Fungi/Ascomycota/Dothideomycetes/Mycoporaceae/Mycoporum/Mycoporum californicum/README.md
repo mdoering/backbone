@@ -1,5 +1,4 @@
-Mycoporum californicum (Zahlbr.) R.C. Harris SPECIES
-=======
+# Mycoporum californicum (Zahlbr.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

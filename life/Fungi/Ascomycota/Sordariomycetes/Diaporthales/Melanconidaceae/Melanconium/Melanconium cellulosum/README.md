@@ -1,5 +1,4 @@
-Melanconium cellulosum Berk. & M.A. Curtis SPECIES
-=======
+# Melanconium cellulosum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

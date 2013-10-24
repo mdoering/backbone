@@ -1,5 +1,4 @@
-Puccinia tibetica M.M. Chen SPECIES
-=======
+# Puccinia tibetica M.M. Chen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnofrasera S. Hughes GENUS
-=======
+# Capnofrasera S. Hughes GENUS
 
 #### Status
 ACCEPTED

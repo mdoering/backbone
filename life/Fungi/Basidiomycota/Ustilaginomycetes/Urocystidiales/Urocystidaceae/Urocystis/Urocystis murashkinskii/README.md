@@ -1,14 +1,13 @@
-Urocystis murashinskyi (Cif.) Zundel SPECIES
-=======
+# Urocystis murashkinskii (Cif.) Zundel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Contr. Dept. Bot. Pennsylvania St. Coll. 176: 327 (1953)
 
 #### Original name
 Tuburcinia murashkinskyi Cif.

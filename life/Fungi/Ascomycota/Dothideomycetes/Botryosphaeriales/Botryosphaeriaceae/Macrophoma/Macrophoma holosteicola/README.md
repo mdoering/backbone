@@ -1,5 +1,4 @@
-Macrophoma holosteicola (Oudem.) Allesch. SPECIES
-=======
+# Macrophoma holosteicola (Oudem.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

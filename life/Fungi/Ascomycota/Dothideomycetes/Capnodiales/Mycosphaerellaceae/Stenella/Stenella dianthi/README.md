@@ -1,5 +1,4 @@
-Stenella dianthi H.D. Shin & U. Braun SPECIES
-=======
+# Stenella dianthi H.D. Shin & U. Braun SPECIES
 
 #### Status
 ACCEPTED

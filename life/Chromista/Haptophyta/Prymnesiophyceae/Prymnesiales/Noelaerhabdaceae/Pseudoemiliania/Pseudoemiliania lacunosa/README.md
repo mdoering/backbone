@@ -1,8 +1,7 @@
-Emiliania ovata Bukry, 1973 SPECIES
-=======
+# Pseudoemiliania lacunosa (Kamptner, 1963) Gartner, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

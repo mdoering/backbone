@@ -1,5 +1,4 @@
-Aschersonia novoguineensis Henn. SPECIES
-=======
+# Aschersonia novoguineensis Henn. SPECIES
 
 #### Status
 ACCEPTED

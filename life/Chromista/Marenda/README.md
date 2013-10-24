@@ -1,5 +1,4 @@
-Marenda Nyholm, 1951 GENUS
-=======
+# Marenda Nyholm, 1951 GENUS
 
 #### Status
 ACCEPTED

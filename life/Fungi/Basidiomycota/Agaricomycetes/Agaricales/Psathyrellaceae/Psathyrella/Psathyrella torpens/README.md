@@ -1,5 +1,4 @@
-Psathyrella torpens (Fr.) Konrad & Maubl. SPECIES
-=======
+# Psathyrella torpens (Fr.) Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED

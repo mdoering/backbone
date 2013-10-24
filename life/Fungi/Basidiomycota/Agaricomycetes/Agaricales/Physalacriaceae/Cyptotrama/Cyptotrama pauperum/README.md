@@ -1,5 +1,4 @@
-Cyptotrama pauperum Singer, 1989 SPECIES
-=======
+# Cyptotrama pauperum Singer, 1989 SPECIES
 
 #### Status
 ACCEPTED

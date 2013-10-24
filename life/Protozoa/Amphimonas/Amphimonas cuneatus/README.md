@@ -1,5 +1,4 @@
-Amphimonas cuneatus Namyslovski, 1913 SPECIES
-=======
+# Amphimonas cuneatus Namyslovski, 1913 SPECIES
 
 #### Status
 ACCEPTED

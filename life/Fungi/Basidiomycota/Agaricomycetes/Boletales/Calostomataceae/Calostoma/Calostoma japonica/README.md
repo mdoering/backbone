@@ -1,5 +1,4 @@
-Calostoma japonica Henn. SPECIES
-=======
+# Calostoma japonica Henn. SPECIES
 
 #### Status
 ACCEPTED

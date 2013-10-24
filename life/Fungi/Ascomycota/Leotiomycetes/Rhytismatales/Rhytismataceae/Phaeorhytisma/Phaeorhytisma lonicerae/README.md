@@ -1,5 +1,4 @@
-Phaeorhytisma lonicerae Henn. & E. Nyman SPECIES
-=======
+# Phaeorhytisma lonicerae Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

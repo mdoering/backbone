@@ -1,5 +1,4 @@
-Gloeosporium pestis Massee SPECIES
-=======
+# Gloeosporium pestis Massee SPECIES
 
 #### Status
 ACCEPTED

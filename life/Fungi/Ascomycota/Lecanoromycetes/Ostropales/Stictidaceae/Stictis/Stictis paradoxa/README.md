@@ -1,5 +1,4 @@
-Stictis paradoxa Sherwood SPECIES
-=======
+# Stictis paradoxa Sherwood SPECIES
 
 #### Status
 ACCEPTED

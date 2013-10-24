@@ -1,5 +1,4 @@
-Byrsomyces GENUS
-=======
+# Byrsomyces GENUS
 
 #### Status
 ACCEPTED

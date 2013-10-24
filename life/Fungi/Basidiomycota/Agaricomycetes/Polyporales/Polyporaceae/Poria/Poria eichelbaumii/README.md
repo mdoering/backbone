@@ -1,5 +1,4 @@
-Poria eichelbaumii Henn. SPECIES
-=======
+# Poria eichelbaumii Henn. SPECIES
 
 #### Status
 ACCEPTED

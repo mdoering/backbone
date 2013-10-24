@@ -1,5 +1,4 @@
-Pedohymena Foissner, 1995 GENUS
-=======
+# Pedohymena Foissner, 1995 GENUS
 
 #### Status
 ACCEPTED

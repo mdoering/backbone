@@ -1,5 +1,4 @@
-Olpidium entophlyctoides S.N. Dasgupta SPECIES
-=======
+# Olpidium entophlyctoides S.N. Dasgupta SPECIES
 
 #### Status
 ACCEPTED

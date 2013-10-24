@@ -1,5 +1,4 @@
-Lophiostoma desmazierii Sacc. & Speg. SPECIES
-=======
+# Lophiostoma desmazierii Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

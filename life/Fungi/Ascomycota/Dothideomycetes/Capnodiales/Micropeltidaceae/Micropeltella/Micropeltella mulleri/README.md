@@ -1,5 +1,4 @@
-Micropeltella mulleri J.A. Stev. SPECIES
-=======
+# Micropeltella mulleri J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium osmundae Ellis & Everh. SPECIES
-=======
+# Gloeosporium osmundae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

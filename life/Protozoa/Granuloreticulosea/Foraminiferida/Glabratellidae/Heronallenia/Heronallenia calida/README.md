@@ -1,5 +1,4 @@
-Heronallenia calida SPECIES
-=======
+# Heronallenia calida SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongospora campanulae (Ferd. & Winge) Ivimey Cook SPECIES
-=======
+# Spongospora campanulae (Ferd. & Winge) Ivimey Cook SPECIES
 
 #### Status
 ACCEPTED

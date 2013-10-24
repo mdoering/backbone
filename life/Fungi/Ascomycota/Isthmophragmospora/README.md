@@ -1,5 +1,4 @@
-Isthmophragmospora Kuthub. & Nawawi GENUS
-=======
+# Isthmophragmospora Kuthub. & Nawawi GENUS
 
 #### Status
 ACCEPTED

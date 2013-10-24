@@ -1,5 +1,4 @@
-Ocellularia opaca (Vain.) Zahlbr. SPECIES
-=======
+# Ocellularia opaca (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

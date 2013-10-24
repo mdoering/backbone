@@ -1,5 +1,4 @@
-Rhabdospora pegani Koshk. & Frolov SPECIES
-=======
+# Rhabdospora pegani Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

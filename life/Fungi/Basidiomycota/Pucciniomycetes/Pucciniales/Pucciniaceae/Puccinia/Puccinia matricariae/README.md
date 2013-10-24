@@ -1,5 +1,4 @@
-Puccinia matricariae Syd. SPECIES
-=======
+# Puccinia matricariae Syd. SPECIES
 
 #### Status
 ACCEPTED

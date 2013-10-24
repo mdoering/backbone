@@ -1,5 +1,4 @@
-Dicaeoma inauditum (H.S. Jacks. & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Dicaeoma inauditum (H.S. Jacks. & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

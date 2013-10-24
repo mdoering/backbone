@@ -1,5 +1,4 @@
-Cortinarius leptosporus Reumaux SPECIES
-=======
+# Cortinarius leptosporus Reumaux SPECIES
 
 #### Status
 ACCEPTED

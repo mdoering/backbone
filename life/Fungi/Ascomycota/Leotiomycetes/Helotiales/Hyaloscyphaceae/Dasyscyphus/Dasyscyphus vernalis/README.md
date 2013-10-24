@@ -1,8 +1,7 @@
-Dasyscypha vernalis (Schumach.) Sacc. SPECIES
-=======
+# Dasyscyphus vernalis (Schumach.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

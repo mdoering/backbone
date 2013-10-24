@@ -1,5 +1,4 @@
-Rosellinia dolichospora Syd. & P. Syd. SPECIES
-=======
+# Rosellinia dolichospora Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

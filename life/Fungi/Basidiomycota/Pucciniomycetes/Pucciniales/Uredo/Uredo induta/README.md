@@ -1,5 +1,4 @@
-Uredo induta Syd. SPECIES
-=======
+# Uredo induta Syd. SPECIES
 
 #### Status
 ACCEPTED

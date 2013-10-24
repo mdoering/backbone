@@ -1,5 +1,4 @@
-Entoloma umbrinum Hesler SPECIES
-=======
+# Entoloma umbrinum Hesler SPECIES
 
 #### Status
 ACCEPTED

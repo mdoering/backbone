@@ -1,5 +1,4 @@
-Coprinus flavus Beeli SPECIES
-=======
+# Coprinus flavus Beeli SPECIES
 
 #### Status
 ACCEPTED

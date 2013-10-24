@@ -1,5 +1,4 @@
-Phyllachora huberi Henn., 1900 SPECIES
-=======
+# Phyllachora huberi Henn., 1900 SPECIES
 
 #### Status
 DOUBTFUL

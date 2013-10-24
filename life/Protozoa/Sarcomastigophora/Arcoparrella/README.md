@@ -1,5 +1,4 @@
-Arcoparrella Mikhalevich, 1971 GENUS
-=======
+# Arcoparrella Mikhalevich, 1971 GENUS
 
 #### Status
 ACCEPTED

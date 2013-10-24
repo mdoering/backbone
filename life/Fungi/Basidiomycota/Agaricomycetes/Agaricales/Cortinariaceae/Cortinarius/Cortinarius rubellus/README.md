@@ -1,17 +1,16 @@
-Cortinarius speciosissimus var. speciosissimus VARIETY
-=======
+# Cortinarius rubellus Cooke, 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bidaud, Henry, Moënne-Loccoz & Reumaux, Fl. Analyt. Champ. Supér. (Paris) 287 (1953)
+Grevillea 16(no. 78): 44 (1887)
 
 #### Original name
-Cortinarius speciosissimus var. speciosissimus
+Cortinarius rubellus Cooke, 1887
 
 ### Remarks
 null

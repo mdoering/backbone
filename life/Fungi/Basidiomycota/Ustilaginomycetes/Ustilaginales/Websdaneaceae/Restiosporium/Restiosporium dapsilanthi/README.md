@@ -1,5 +1,4 @@
-Restiosporium dapsilanthi Vánky, 2003 SPECIES
-=======
+# Restiosporium dapsilanthi Vánky, 2003 SPECIES
 
 #### Status
 ACCEPTED

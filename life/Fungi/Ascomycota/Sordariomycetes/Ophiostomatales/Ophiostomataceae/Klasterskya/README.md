@@ -1,5 +1,4 @@
-Klasterskya Petr. GENUS
-=======
+# Klasterskya Petr. GENUS
 
 #### Status
 ACCEPTED

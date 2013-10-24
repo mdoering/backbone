@@ -1,5 +1,4 @@
-Sphacelaria ceylanica Sauvageau SPECIES
-=======
+# Sphacelaria ceylanica Sauvageau SPECIES
 
 #### Status
 ACCEPTED

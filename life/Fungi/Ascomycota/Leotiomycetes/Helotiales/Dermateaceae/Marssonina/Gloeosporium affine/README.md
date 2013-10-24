@@ -1,5 +1,4 @@
-Gloeosporium affine Sacc. SPECIES
-=======
+# Gloeosporium affine Sacc. SPECIES
 
 #### Status
 ACCEPTED

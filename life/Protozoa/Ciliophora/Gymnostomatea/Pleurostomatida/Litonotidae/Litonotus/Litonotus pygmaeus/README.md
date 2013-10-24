@@ -1,5 +1,4 @@
-Litonotus pygmaeus SPECIES
-=======
+# Litonotus pygmaeus SPECIES
 
 #### Status
 ACCEPTED

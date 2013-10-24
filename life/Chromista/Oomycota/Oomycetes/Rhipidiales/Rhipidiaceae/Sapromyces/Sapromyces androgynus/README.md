@@ -1,5 +1,4 @@
-Sapromyces androgynus Thaxt., 1896 SPECIES
-=======
+# Sapromyces androgynus Thaxt., 1896 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium rusbyi W.R. Gerard SPECIES
-=======
+# Aecidium rusbyi W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

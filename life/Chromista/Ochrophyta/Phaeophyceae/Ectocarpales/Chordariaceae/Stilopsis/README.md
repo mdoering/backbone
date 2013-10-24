@@ -1,5 +1,4 @@
-Stilopsis Kuckuck, 1929 GENUS
-=======
+# Stilopsis Kuckuck, 1929 GENUS
 
 #### Status
 ACCEPTED

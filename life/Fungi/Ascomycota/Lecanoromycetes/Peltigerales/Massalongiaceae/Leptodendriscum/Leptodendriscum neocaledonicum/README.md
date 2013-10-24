@@ -1,5 +1,4 @@
-Leptodendriscum neocaledonicum Vain. SPECIES
-=======
+# Leptodendriscum neocaledonicum Vain. SPECIES
 
 #### Status
 ACCEPTED

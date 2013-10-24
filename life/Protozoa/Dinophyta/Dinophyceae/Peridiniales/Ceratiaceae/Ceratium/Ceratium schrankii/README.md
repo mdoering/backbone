@@ -1,5 +1,4 @@
-Ceratium schrankii Kofoid, 1907 SPECIES
-=======
+# Ceratium schrankii Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

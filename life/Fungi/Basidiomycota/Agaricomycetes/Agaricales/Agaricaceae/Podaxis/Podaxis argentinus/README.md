@@ -1,8 +1,7 @@
-Podaxon argentinus Speg. SPECIES
-=======
+# Podaxis argentinus Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon argentinus Speg.
+Podaxis argentinus Speg.
 
 ### Remarks
 null

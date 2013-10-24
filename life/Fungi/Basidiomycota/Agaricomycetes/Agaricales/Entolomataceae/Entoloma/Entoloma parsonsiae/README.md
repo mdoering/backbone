@@ -1,17 +1,16 @@
-Entoloma parsonsii G. Stev. SPECIES
-=======
+# Entoloma parsonsiae G. Stev., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 235 (1962)
 
 #### Original name
-Entoloma parsonsii G. Stev.
+Entoloma parsonsiae G. Stev., 1962
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Colletotrichum ornithogali Negru SPECIES
-=======
+# Colletotrichum ornithogali Negru SPECIES
 
 #### Status
 ACCEPTED

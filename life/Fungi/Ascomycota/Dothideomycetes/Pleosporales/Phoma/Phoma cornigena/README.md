@@ -1,5 +1,4 @@
-Phoma cornigena Tassi SPECIES
-=======
+# Phoma cornigena Tassi SPECIES
 
 #### Status
 ACCEPTED

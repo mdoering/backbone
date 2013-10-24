@@ -1,5 +1,4 @@
-Trichosporum cinnabarinum (Pers.) Fr. SPECIES
-=======
+# Trichosporum cinnabarinum (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

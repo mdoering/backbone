@@ -1,5 +1,4 @@
-Ascochyta kentiae Maubl. SPECIES
-=======
+# Ascochyta kentiae Maubl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina tenuissima Shirley SPECIES
-=======
+# Graphina tenuissima Shirley SPECIES
 
 #### Status
 ACCEPTED

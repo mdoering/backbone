@@ -1,17 +1,16 @@
-Microglossum olivaceum var. olivaceum VARIETY
-=======
+# Microglossum olivaceum (Pers. Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Belgian Species List
 
 #### Published in
-Champignons de France, Discom. 26 (1879)
+null
 
 #### Original name
-Microglossum olivaceum var. olivaceum
+null
 
 ### Remarks
 null

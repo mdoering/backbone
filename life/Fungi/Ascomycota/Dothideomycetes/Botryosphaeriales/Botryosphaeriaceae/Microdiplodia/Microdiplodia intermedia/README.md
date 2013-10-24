@@ -1,5 +1,4 @@
-Microdiplodia intermedia Sacc. SPECIES
-=======
+# Microdiplodia intermedia Sacc. SPECIES
 
 #### Status
 ACCEPTED

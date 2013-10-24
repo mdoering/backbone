@@ -1,5 +1,4 @@
-Diplodia rabatica Rieuf & Teasca SPECIES
-=======
+# Diplodia rabatica Rieuf & Teasca SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenina mangostana (Sacc.) F. Stevens SPECIES
-=======
+# Irenina mangostana (Sacc.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

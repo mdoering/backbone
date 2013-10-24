@@ -1,5 +1,4 @@
-Tomentella clavigera Litsch., 1960 SPECIES
-=======
+# Tomentella clavigera Litsch., 1960 SPECIES
 
 #### Status
 ACCEPTED

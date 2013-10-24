@@ -1,5 +1,4 @@
-Radiatobolivina Hatta in Hatta & Ujiié, 1992 GENUS
-=======
+# Radiatobolivina Hatta in Hatta & Ujiié, 1992 GENUS
 
 #### Status
 ACCEPTED

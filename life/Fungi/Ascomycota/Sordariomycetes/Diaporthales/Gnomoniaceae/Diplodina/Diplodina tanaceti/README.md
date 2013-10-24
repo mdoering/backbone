@@ -1,5 +1,4 @@
-Diplodina tanaceti Byzova SPECIES
-=======
+# Diplodina tanaceti Byzova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria subgemina Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria subgemina Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

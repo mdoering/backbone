@@ -1,5 +1,4 @@
-Loricophrya parva (Schulz, 1932) Matthes, 1956 SPECIES
-=======
+# Loricophrya parva (Schulz, 1932) Matthes, 1956 SPECIES
 
 #### Status
 ACCEPTED

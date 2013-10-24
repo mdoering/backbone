@@ -1,5 +1,4 @@
-Micropera decorticans Lév. SPECIES
-=======
+# Micropera decorticans Lév. SPECIES
 
 #### Status
 ACCEPTED

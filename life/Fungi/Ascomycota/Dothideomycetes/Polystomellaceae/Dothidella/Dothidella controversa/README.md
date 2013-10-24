@@ -1,5 +1,4 @@
-Dothidella controversa (Starbäck) SPECIES
-=======
+# Dothidella controversa (Starbäck) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoplasma faucium Freundt et al., 1974 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma faucium Freundt et al., 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

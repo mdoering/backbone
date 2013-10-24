@@ -1,5 +1,4 @@
-Echinoascotheca duplooformis Matsush., 1995 SPECIES
-=======
+# Echinoascotheca duplooformis Matsush., 1995 SPECIES
 
 #### Status
 ACCEPTED

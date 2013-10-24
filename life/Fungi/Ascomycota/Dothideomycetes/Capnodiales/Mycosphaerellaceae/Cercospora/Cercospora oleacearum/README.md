@@ -1,5 +1,4 @@
-Cercospora oleacearum Chidd. SPECIES
-=======
+# Cercospora oleacearum Chidd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parapeltella ampelozizyphi Bat. & Peres SPECIES
-=======
+# Parapeltella ampelozizyphi Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

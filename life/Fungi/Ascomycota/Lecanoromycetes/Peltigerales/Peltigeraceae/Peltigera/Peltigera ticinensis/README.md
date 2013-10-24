@@ -1,5 +1,4 @@
-Peltigera ticinensis (De Not.) Jatta SPECIES
-=======
+# Peltigera ticinensis (De Not.) Jatta SPECIES
 
 #### Status
 ACCEPTED

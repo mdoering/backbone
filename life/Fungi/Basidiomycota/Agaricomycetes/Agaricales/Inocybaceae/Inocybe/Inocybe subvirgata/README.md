@@ -1,5 +1,4 @@
-Inocybe subvirgata Reumaux SPECIES
-=======
+# Inocybe subvirgata Reumaux SPECIES
 
 #### Status
 ACCEPTED

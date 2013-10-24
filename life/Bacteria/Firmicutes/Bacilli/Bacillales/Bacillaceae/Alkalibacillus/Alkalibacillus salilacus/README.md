@@ -1,5 +1,4 @@
-Alkalibacillus salilacus Jeon et al., 2005 SPECIES
-=======
+# Alkalibacillus salilacus Jeon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

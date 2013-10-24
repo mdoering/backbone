@@ -1,5 +1,4 @@
-Aecidium thaungii A.A. Carvalho, J.F. Hennen & Figueiredo SPECIES
-=======
+# Aecidium thaungii A.A. Carvalho, J.F. Hennen & Figueiredo SPECIES
 
 #### Status
 ACCEPTED

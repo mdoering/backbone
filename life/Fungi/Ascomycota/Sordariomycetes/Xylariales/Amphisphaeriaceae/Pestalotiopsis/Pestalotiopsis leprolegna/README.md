@@ -1,5 +1,4 @@
-Pestalotiopsis leprolegna (Speg.) Kausar SPECIES
-=======
+# Pestalotiopsis leprolegna (Speg.) Kausar SPECIES
 
 #### Status
 ACCEPTED

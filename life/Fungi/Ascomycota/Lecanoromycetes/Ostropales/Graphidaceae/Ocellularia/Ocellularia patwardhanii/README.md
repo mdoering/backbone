@@ -1,5 +1,4 @@
-Ocellularia patwardhanii Hale SPECIES
-=======
+# Ocellularia patwardhanii Hale SPECIES
 
 #### Status
 ACCEPTED

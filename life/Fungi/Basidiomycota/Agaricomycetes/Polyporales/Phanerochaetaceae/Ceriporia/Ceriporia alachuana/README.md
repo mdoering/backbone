@@ -1,17 +1,16 @@
-Poria cubitispora Murrill, 1940 SPECIES
-=======
+# Ceriporia alachuana (Murrill) Hallenb., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 67: 65 (1940)
+Iranian Journal of Plant Pathology 15(1-4): 14 (1979)
 
 #### Original name
-Poria cubitispora Murrill, 1940
+Poria alachuana Murrill, 1938
 
 ### Remarks
 null

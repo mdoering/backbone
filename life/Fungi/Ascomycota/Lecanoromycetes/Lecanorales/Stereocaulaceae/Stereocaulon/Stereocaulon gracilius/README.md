@@ -1,5 +1,4 @@
-Stereocaulon gracilius (Müll. Arg.) P.A. Duvign. SPECIES
-=======
+# Stereocaulon gracilius (Müll. Arg.) P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

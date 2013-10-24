@@ -1,5 +1,4 @@
-Lycoperdon lewisii Lloyd SPECIES
-=======
+# Lycoperdon lewisii Lloyd SPECIES
 
 #### Status
 ACCEPTED

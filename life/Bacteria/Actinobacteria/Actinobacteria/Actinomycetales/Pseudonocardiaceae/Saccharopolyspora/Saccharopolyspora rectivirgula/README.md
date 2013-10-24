@@ -1,11 +1,10 @@
-Thermopolyspora polyspora Henssen, 1957 SPECIES
-=======
+# Saccharopolyspora rectivirgula (Krasil'nikov and Agre, 1964) Korn-Wendisch et al., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

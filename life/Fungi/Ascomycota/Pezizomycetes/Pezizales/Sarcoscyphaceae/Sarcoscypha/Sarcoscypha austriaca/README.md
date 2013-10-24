@@ -1,17 +1,16 @@
-Sarcoscypha austriaca var. austriaca VARIETY
-=======
+# Sarcoscypha austriaca (O. Beck ex Sacc.) Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Sarcoscypha austriaca var. austriaca
+Peziza austriaca Beck, 1884
 
 ### Remarks
 null

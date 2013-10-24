@@ -1,5 +1,4 @@
-Hydropus verae-crucis Singer SPECIES
-=======
+# Hydropus verae-crucis Singer SPECIES
 
 #### Status
 ACCEPTED

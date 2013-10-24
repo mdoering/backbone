@@ -1,5 +1,4 @@
-Cortinarius mucronatus M.M. Moser & McKnight SPECIES
-=======
+# Cortinarius mucronatus M.M. Moser & McKnight SPECIES
 
 #### Status
 ACCEPTED

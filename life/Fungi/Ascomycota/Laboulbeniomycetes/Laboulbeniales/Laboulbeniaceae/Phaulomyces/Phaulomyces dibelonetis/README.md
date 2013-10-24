@@ -1,14 +1,13 @@
-Meionomyces dibelonitis Thaxt., 1931 SPECIES
-=======
+# Phaulomyces dibelonetis (Thaxt.) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts, ser. 2 16(1): 270 (1931)
+Mycol. Mem. 9: 274 (1985)
 
 #### Original name
 Meionomyces dibelonitis Thaxt., 1931

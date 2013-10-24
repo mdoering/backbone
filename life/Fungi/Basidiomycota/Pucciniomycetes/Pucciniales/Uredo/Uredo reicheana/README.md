@@ -1,5 +1,4 @@
-Uredo reicheana Arthur SPECIES
-=======
+# Uredo reicheana Arthur SPECIES
 
 #### Status
 ACCEPTED

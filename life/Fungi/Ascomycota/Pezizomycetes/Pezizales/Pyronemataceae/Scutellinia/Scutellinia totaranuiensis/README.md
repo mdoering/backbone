@@ -1,5 +1,4 @@
-Scutellinia totaranuiensis J. Moravec, 1996 SPECIES
-=======
+# Scutellinia totaranuiensis J. Moravec, 1996 SPECIES
 
 #### Status
 ACCEPTED

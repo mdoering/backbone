@@ -1,5 +1,4 @@
-Cryptostictis lonicerae (Thüm.) Sacc. SPECIES
-=======
+# Cryptostictis lonicerae (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia polygalae Hollós SPECIES
-=======
+# Hendersonia polygalae Hollós SPECIES
 
 #### Status
 ACCEPTED

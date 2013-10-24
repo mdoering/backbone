@@ -1,5 +1,4 @@
-Camptomyces europaeus W. Rossi & Cesari, 1981 SPECIES
-=======
+# Camptomyces europaeus W. Rossi & Cesari, 1981 SPECIES
 
 #### Status
 ACCEPTED

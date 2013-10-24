@@ -1,5 +1,4 @@
-Paraphysomonas cribosa Lucas SPECIES
-=======
+# Paraphysomonas cribosa Lucas SPECIES
 
 #### Status
 ACCEPTED

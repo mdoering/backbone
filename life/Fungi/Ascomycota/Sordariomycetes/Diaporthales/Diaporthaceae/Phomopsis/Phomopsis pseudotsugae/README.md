@@ -1,5 +1,4 @@
-Phomopsis pseudotsugae M. Wilson & G.G. Hahn SPECIES
-=======
+# Phomopsis pseudotsugae M. Wilson & G.G. Hahn SPECIES
 
 #### Status
 ACCEPTED

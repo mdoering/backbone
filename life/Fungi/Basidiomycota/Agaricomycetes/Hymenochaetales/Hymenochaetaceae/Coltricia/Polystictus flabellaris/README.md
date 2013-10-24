@@ -1,5 +1,4 @@
-Polystictus flabellaris (Lloyd) Lloyd SPECIES
-=======
+# Polystictus flabellaris (Lloyd) Lloyd SPECIES
 
 #### Status
 ACCEPTED

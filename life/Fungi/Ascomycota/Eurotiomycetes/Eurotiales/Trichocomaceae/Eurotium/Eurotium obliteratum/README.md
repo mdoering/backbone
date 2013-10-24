@@ -1,5 +1,4 @@
-Eurotium obliteratum Schwein. SPECIES
-=======
+# Eurotium obliteratum Schwein. SPECIES
 
 #### Status
 ACCEPTED

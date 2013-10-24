@@ -1,5 +1,4 @@
-Difflugia submarina (Chardez, 1980) Chardez & Thomas, 1980 SPECIES
-=======
+# Difflugia submarina (Chardez, 1980) Chardez & Thomas, 1980 SPECIES
 
 #### Status
 ACCEPTED

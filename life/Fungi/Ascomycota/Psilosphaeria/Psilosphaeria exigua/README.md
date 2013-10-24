@@ -1,5 +1,4 @@
-Psilosphaeria exigua (Cooke & Peck) Cooke SPECIES
-=======
+# Psilosphaeria exigua (Cooke & Peck) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia poterii (Petr.) E. Müll. SPECIES
-=======
+# Guignardia poterii (Petr.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

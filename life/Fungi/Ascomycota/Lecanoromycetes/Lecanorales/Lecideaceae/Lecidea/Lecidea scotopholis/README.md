@@ -1,5 +1,4 @@
-Lecidea scotopholis (Tuck.) Herre SPECIES
-=======
+# Lecidea scotopholis (Tuck.) Herre SPECIES
 
 #### Status
 ACCEPTED

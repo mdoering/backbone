@@ -1,5 +1,4 @@
-Caloplaca britannica R. Sant. SPECIES
-=======
+# Caloplaca britannica R. Sant. SPECIES
 
 #### Status
 ACCEPTED

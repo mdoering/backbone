@@ -1,5 +1,4 @@
-Yneziella Akpati, 1966 GENUS
-=======
+# Yneziella Akpati, 1966 GENUS
 
 #### Status
 ACCEPTED

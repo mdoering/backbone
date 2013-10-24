@@ -1,5 +1,4 @@
-Pediococcus claussenii Dobson et al., 2002 SPECIES
-=======
+# Pediococcus claussenii Dobson et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

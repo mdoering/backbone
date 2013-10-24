@@ -1,5 +1,4 @@
-Arthroderma avaricum (Szathmáry) Ktivanec {?}, Janecková & Ot6enjLgek {?} SPECIES
-=======
+# Arthroderma avaricum (Szathmáry) Ktivanec {?}, Janecková & Ot6enjLgek {?} SPECIES
 
 #### Status
 ACCEPTED

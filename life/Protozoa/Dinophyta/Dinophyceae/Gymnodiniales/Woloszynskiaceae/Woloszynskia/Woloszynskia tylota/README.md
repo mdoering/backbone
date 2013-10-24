@@ -1,8 +1,7 @@
-Gymnodinium tylotum Mapletoft et al. SPECIES
-=======
+# Woloszynskia tylota (Mapletoft, J. Waters & P. Wells) B.T. Bibby & J.D. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Pseudohansfordia pulchella (Deighton & Piroz.) de Hoog SPECIES
-=======
+# Pseudohansfordia pulchella (Deighton & Piroz.) de Hoog SPECIES
 
 #### Status
 ACCEPTED

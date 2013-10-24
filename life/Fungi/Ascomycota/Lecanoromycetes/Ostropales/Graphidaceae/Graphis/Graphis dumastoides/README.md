@@ -1,5 +1,4 @@
-Graphis dumastoides Fink SPECIES
-=======
+# Graphis dumastoides Fink SPECIES
 
 #### Status
 ACCEPTED

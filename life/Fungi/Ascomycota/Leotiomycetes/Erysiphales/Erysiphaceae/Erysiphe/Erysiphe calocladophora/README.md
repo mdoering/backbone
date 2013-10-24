@@ -1,5 +1,4 @@
-Erysiphe calocladophora (G.F. Atk.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe calocladophora (G.F. Atk.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

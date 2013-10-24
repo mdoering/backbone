@@ -1,8 +1,7 @@
-Mytilidion deflectens P. Karst. SPECIES
-=======
+# Mytilinidion deflectens P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mytilidion deflectens P. Karst.
+Mytilinidion deflectens P. Karst.
 
 ### Remarks
 null

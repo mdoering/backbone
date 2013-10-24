@@ -1,5 +1,4 @@
-Botrytis geminata Unger SPECIES
-=======
+# Botrytis geminata Unger SPECIES
 
 #### Status
 ACCEPTED

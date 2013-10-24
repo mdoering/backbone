@@ -1,17 +1,16 @@
-Aleuria proteana Boud., 1899 SPECIES
-=======
+# Peziza proteana (Boud.) Seaver SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 15: 50 (1899)
+null
 
 #### Original name
-Aleuria proteana Boud., 1899
+null
 
 ### Remarks
 null

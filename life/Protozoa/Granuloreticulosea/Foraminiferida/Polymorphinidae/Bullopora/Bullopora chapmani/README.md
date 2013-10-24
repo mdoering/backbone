@@ -1,5 +1,4 @@
-Bullopora chapmani (Plummer) SPECIES
-=======
+# Bullopora chapmani (Plummer) SPECIES
 
 #### Status
 ACCEPTED

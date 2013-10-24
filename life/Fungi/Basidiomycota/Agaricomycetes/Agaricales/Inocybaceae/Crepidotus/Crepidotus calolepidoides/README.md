@@ -1,5 +1,4 @@
-Crepidotus calolepidoides Murrill SPECIES
-=======
+# Crepidotus calolepidoides Murrill SPECIES
 
 #### Status
 ACCEPTED

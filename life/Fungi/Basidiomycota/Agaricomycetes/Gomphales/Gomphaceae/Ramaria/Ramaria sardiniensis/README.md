@@ -1,5 +1,4 @@
-Ramaria sardiniensis Schild & G. Ricci, 1998 SPECIES
-=======
+# Ramaria sardiniensis Schild & G. Ricci, 1998 SPECIES
 
 #### Status
 ACCEPTED

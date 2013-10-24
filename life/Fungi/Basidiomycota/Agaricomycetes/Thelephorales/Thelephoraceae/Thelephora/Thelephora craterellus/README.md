@@ -1,5 +1,4 @@
-Thelephora craterellus Schwein. SPECIES
-=======
+# Thelephora craterellus Schwein. SPECIES
 
 #### Status
 ACCEPTED

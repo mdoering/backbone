@@ -1,5 +1,4 @@
-Hydrocybe striaepila (J. Favre) M.M. Moser SPECIES
-=======
+# Hydrocybe striaepila (J. Favre) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

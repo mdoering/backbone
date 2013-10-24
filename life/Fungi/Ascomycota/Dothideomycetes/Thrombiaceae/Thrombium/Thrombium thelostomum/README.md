@@ -1,17 +1,16 @@
-Collemopsis flotoviana (Hepp) Hue SPECIES
-=======
+# Thrombium thelostomum (Ach. ex J. Harriman) A.L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Brit. Lich. 2: 307 (1911)
 
 #### Original name
-Verrucaria flotowiana Hepp
+Verrucaria thelostoma Ach. ex J. Harriman
 
 ### Remarks
 null

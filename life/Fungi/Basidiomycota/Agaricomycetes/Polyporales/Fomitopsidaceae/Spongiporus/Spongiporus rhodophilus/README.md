@@ -1,5 +1,4 @@
-Spongiporus rhodophilus Spirin & Zmitr. SPECIES
-=======
+# Spongiporus rhodophilus Spirin & Zmitr. SPECIES
 
 #### Status
 ACCEPTED

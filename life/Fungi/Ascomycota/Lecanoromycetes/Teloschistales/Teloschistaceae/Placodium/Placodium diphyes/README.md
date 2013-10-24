@@ -1,5 +1,4 @@
-Placodium diphyes (Nyl.) Räsänen SPECIES
-=======
+# Placodium diphyes (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

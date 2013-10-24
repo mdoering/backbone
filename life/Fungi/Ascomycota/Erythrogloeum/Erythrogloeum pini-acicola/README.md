@@ -1,5 +1,4 @@
-Erythrogloeum pini-acicola H.C. Evans SPECIES
-=======
+# Erythrogloeum pini-acicola H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

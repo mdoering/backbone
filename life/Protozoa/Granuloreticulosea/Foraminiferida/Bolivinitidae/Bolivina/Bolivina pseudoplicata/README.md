@@ -1,5 +1,4 @@
-Bolivina pseudoplicata SPECIES
-=======
+# Bolivina pseudoplicata SPECIES
 
 #### Status
 ACCEPTED

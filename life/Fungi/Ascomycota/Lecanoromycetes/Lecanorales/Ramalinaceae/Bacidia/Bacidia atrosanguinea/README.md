@@ -1,5 +1,4 @@
-Bacidia atrosanguinea f. atrosanguinea FORM
-=======
+# Bacidia atrosanguinea (Hepp) Anzi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bacidia atrosanguinea f. atrosanguinea
+Biatora atrosanguinea Hepp
 
 ### Remarks
 null

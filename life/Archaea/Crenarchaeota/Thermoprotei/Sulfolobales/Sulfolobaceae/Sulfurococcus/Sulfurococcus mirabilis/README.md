@@ -1,5 +1,4 @@
-Sulfurococcus mirabilis Golovacheva et al., 1995 SPECIES
-=======
+# Sulfurococcus mirabilis Golovacheva et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

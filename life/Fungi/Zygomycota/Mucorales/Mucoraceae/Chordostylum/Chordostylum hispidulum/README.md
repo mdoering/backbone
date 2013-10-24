@@ -1,5 +1,4 @@
-Chordostylum hispidulum Tode SPECIES
-=======
+# Chordostylum hispidulum Tode SPECIES
 
 #### Status
 ACCEPTED

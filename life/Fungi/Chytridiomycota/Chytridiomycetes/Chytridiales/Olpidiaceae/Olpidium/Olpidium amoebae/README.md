@@ -1,5 +1,4 @@
-Olpidium amoebae Mattes SPECIES
-=======
+# Olpidium amoebae Mattes SPECIES
 
 #### Status
 ACCEPTED

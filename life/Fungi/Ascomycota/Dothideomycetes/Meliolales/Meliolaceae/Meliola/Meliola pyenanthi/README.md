@@ -1,5 +1,4 @@
-Meliola pyenanthi Hansf. SPECIES
-=======
+# Meliola pyenanthi Hansf. SPECIES
 
 #### Status
 ACCEPTED

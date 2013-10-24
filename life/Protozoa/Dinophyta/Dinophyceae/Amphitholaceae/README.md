@@ -1,5 +1,4 @@
-Amphitholaceae FAMILY
-=======
+# Amphitholaceae FAMILY
 
 #### Status
 ACCEPTED

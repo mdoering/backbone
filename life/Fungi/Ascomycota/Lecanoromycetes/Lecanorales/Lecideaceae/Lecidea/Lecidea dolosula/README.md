@@ -1,5 +1,4 @@
-Lecidea dolosula (Nyl.) Vain. SPECIES
-=======
+# Lecidea dolosula (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

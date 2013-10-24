@@ -1,5 +1,4 @@
-Boletus obscurecoccineus Höhn. SPECIES
-=======
+# Boletus obscurecoccineus Höhn. SPECIES
 
 #### Status
 ACCEPTED

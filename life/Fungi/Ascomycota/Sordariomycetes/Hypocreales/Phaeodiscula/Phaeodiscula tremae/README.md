@@ -1,5 +1,4 @@
-Phaeodiscula tremae Sawada SPECIES
-=======
+# Phaeodiscula tremae Sawada SPECIES
 
 #### Status
 ACCEPTED

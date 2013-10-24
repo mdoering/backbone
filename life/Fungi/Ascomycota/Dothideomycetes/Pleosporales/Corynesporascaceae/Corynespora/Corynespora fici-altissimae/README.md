@@ -1,17 +1,16 @@
-Corynespora ficus-altissimae X.G. Zhang & J.J. Xu SPECIES
-=======
+# Corynespora fici-altissimae X.G. Zhang & J.J. Xu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 92: 431 (2005)
 
 #### Original name
-Corynespora ficus-altissimae X.G. Zhang & J.J. Xu
+Corynespora fici-altissimae X.G. Zhang & J.J. Xu
 
 ### Remarks
 null

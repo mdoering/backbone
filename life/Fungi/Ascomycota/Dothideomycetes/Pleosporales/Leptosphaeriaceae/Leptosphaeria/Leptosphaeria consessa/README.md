@@ -1,5 +1,4 @@
-Leptosphaeria consessa (Cooke & Ellis) Sacc. SPECIES
-=======
+# Leptosphaeria consessa (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

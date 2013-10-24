@@ -1,5 +1,4 @@
-Psathyrella orizabensis (Murrill) A.H. Sm. SPECIES
-=======
+# Psathyrella orizabensis (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Argentinomyces N.I. Peña & Aramb. GENUS
-=======
+# Argentinomyces N.I. Peña & Aramb. GENUS
 
 #### Status
 ACCEPTED

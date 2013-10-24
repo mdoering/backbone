@@ -1,5 +1,4 @@
-Tolyposporium christensenii Ragunath SPECIES
-=======
+# Tolyposporium christensenii Ragunath SPECIES
 
 #### Status
 ACCEPTED

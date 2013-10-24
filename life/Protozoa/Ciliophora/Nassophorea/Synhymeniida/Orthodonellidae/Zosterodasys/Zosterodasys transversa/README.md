@@ -1,8 +1,7 @@
-Synhymenia transversa (Kahl, 1928) Jankowski, 1992 SPECIES
-=======
+# Zosterodasys transversa (Kahl, 1928) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

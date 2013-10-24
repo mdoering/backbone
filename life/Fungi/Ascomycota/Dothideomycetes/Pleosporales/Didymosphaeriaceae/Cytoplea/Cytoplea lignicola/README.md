@@ -1,5 +1,4 @@
-Cytoplea lignicola Petr. SPECIES
-=======
+# Cytoplea lignicola Petr. SPECIES
 
 #### Status
 ACCEPTED

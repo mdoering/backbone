@@ -1,17 +1,16 @@
-Tricladium sorghicolum P.C. Gupta & S.K. Gandhi SPECIES
-=======
+# Tricladium sorghicola P.C. Gupta & S.K. Gandhi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Z. PflKrankh. PflPath. PflSchutz 86(5): 289 (1979)
 
 #### Original name
-Tricladium sorghicolum P.C. Gupta & S.K. Gandhi
+Tricladium sorghicola P.C. Gupta & S.K. Gandhi
 
 ### Remarks
 null

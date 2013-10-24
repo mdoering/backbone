@@ -1,17 +1,16 @@
-Helmisporium guareicola F. Stevens SPECIES
-=======
+# Spiropes guareicola (F. Stevens) Cif., 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 9: 303 (1955)
 
 #### Original name
-Helmisporium guareicola F. Stevens
+Helminthosporium guareicola F. Stevens, 1918
 
 ### Remarks
 null

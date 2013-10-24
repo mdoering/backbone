@@ -1,5 +1,4 @@
-Uredo vicina Arthur SPECIES
-=======
+# Uredo vicina Arthur SPECIES
 
 #### Status
 ACCEPTED

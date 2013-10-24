@@ -1,5 +1,4 @@
-Stenella moghaniae (Suj. Singh) Kamal & Narayan SPECIES
-=======
+# Stenella moghaniae (Suj. Singh) Kamal & Narayan SPECIES
 
 #### Status
 ACCEPTED

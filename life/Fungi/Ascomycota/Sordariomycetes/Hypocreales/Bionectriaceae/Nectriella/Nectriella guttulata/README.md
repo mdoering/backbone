@@ -1,5 +1,4 @@
-Nectriella guttulata Lowen SPECIES
-=======
+# Nectriella guttulata Lowen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiovalia crassa Loeblich & Tappan, 1978 SPECIES
-=======
+# Leiovalia crassa Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

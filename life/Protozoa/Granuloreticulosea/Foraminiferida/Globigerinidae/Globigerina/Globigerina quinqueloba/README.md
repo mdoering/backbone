@@ -1,5 +1,4 @@
-Globigerina quinqueloba Natland, 1938 SPECIES
-=======
+# Globigerina quinqueloba Natland, 1938 SPECIES
 
 #### Status
 ACCEPTED

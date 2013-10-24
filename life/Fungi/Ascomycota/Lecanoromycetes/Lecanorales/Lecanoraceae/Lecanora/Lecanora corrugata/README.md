@@ -1,5 +1,4 @@
-Lecanora corrugata Flagey SPECIES
-=======
+# Lecanora corrugata Flagey SPECIES
 
 #### Status
 ACCEPTED

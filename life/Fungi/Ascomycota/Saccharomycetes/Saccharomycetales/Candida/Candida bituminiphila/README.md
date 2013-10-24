@@ -1,5 +1,4 @@
-Candida bituminiphila V. Robert, B. Bonjean, Karutz, Paschold, W. Peeters & Wubbolts SPECIES
-=======
+# Candida bituminiphila V. Robert, B. Bonjean, Karutz, Paschold, W. Peeters & Wubbolts SPECIES
 
 #### Status
 ACCEPTED

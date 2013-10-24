@@ -1,5 +1,4 @@
-Agaricus portegnus Speg. SPECIES
-=======
+# Agaricus portegnus Speg. SPECIES
 
 #### Status
 ACCEPTED

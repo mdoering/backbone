@@ -1,5 +1,4 @@
-Geitleribactron crassum M. Gold-Morgan, G. Montejano & J. Komárek SPECIES
-=======
+# Geitleribactron crassum M. Gold-Morgan, G. Montejano & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Doratomyces sambuci P. Crouan & H. Crouan SPECIES
-=======
+# Doratomyces sambuci P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

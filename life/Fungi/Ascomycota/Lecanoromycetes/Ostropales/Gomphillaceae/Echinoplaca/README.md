@@ -1,5 +1,4 @@
-Echinoplaca Fée GENUS
-=======
+# Echinoplaca Fée GENUS
 
 #### Status
 ACCEPTED

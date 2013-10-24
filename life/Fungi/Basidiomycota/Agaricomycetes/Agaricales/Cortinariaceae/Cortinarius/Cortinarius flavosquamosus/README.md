@@ -1,5 +1,4 @@
-Cortinarius flavosquamosus (Velen.) G. Garnier SPECIES
-=======
+# Cortinarius flavosquamosus (Velen.) G. Garnier SPECIES
 
 #### Status
 ACCEPTED

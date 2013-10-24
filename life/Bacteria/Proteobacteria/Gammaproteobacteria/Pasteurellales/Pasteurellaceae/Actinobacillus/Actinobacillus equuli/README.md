@@ -1,5 +1,4 @@
-Actinobacillus equuli subsp. equuli SUBSPECIES
-=======
+# Actinobacillus equuli (van Straaten, 1918) Haupt, 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoporum perexiguum Arnold SPECIES
-=======
+# Mycoporum perexiguum Arnold SPECIES
 
 #### Status
 ACCEPTED

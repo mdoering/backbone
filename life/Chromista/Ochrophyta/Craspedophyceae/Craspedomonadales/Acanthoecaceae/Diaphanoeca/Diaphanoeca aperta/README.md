@@ -1,5 +1,4 @@
-Diaphanoeca aperta SPECIES
-=======
+# Diaphanoeca aperta SPECIES
 
 #### Status
 ACCEPTED

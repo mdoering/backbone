@@ -1,17 +1,16 @@
-Dasyscypha dicranopteridis Seaver & Whetzel SPECIES
-=======
+# Dasyscyphus dicranopteridis Seaver & Whetzel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Seaver & Chardón, Scient. Surv. P. Rico 8(1): 74 (1926)
 
 #### Original name
-Dasyscypha dicranopteridis Seaver & Whetzel
+Dasyscyphus dicranopteridis Seaver & Whetzel
 
 ### Remarks
 null

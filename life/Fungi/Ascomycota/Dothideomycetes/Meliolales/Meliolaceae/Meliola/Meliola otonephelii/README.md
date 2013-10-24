@@ -1,5 +1,4 @@
-Meliola otonephelii Hosag. SPECIES
-=======
+# Meliola otonephelii Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina cupaniae Bat. SPECIES
-=======
+# Asterina cupaniae Bat. SPECIES
 
 #### Status
 ACCEPTED

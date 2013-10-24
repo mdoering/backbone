@@ -1,17 +1,16 @@
-Lilliputia Boud. & Pat. GENUS
-=======
+# Roumegueriella Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 16: 144 (1900)
+in Roumeguère, Revue mycol. , Toulouse 2(1): 18 (1880)
 
 #### Original name
-Lilliputia Boud. & Pat.
+Roumegueriella Speg.
 
 ### Remarks
 null

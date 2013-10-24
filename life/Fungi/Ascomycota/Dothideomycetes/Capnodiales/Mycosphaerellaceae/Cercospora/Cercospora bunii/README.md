@@ -1,5 +1,4 @@
-Cercospora bunii Annal. SPECIES
-=======
+# Cercospora bunii Annal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chorostate ostryigena (Ellis & Dearn.) Sacc. & Trotter SPECIES
-=======
+# Chorostate ostryigena (Ellis & Dearn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

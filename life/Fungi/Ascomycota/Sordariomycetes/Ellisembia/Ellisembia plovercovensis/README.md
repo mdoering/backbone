@@ -1,5 +1,4 @@
-Ellisembia plovercovensis Goh & K.D. Hyde SPECIES
-=======
+# Ellisembia plovercovensis Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

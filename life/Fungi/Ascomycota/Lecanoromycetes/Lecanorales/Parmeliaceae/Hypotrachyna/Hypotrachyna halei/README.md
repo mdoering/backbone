@@ -1,5 +1,4 @@
-Hypotrachyna halei Sipman, Elix & T. H. Nash SPECIES
-=======
+# Hypotrachyna halei Sipman, Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum porphyreum (Heinem.) Heinem. SPECIES
-=======
+# Leccinum porphyreum (Heinem.) Heinem. SPECIES
 
 #### Status
 ACCEPTED

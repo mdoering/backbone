@@ -1,5 +1,4 @@
-Stigmidium petri Hafellner, 2008 SPECIES
-=======
+# Stigmidium petri Hafellner, 2008 SPECIES
 
 #### Status
 ACCEPTED

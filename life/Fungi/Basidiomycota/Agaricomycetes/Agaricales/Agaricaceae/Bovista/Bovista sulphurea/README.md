@@ -1,5 +1,4 @@
-Bovista sulphurea Velen. SPECIES
-=======
+# Bovista sulphurea Velen. SPECIES
 
 #### Status
 ACCEPTED

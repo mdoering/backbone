@@ -1,5 +1,4 @@
-Poria cinnabarina J.E. Wright & J.R. Deschamps SPECIES
-=======
+# Poria cinnabarina J.E. Wright & J.R. Deschamps SPECIES
 
 #### Status
 ACCEPTED

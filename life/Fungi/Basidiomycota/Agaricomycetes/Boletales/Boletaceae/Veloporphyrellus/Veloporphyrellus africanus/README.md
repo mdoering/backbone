@@ -1,5 +1,4 @@
-Veloporphyrellus africanus Watling, 1993 SPECIES
-=======
+# Veloporphyrellus africanus Watling, 1993 SPECIES
 
 #### Status
 ACCEPTED

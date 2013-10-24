@@ -1,5 +1,4 @@
-Pterulopsis Wakef. & Hansf. GENUS
-=======
+# Pterulopsis Wakef. & Hansf. GENUS
 
 #### Status
 ACCEPTED

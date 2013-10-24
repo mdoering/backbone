@@ -1,5 +1,4 @@
-Valsa kickxii Westend. SPECIES
-=======
+# Valsa kickxii Westend. SPECIES
 
 #### Status
 ACCEPTED

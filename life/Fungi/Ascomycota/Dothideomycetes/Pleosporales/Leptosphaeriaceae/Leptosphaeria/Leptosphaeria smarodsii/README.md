@@ -1,5 +1,4 @@
-Leptosphaeria smarodsii Moesz SPECIES
-=======
+# Leptosphaeria smarodsii Moesz SPECIES
 
 #### Status
 ACCEPTED

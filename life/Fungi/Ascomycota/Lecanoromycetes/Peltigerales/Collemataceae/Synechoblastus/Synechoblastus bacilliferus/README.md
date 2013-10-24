@@ -1,5 +1,4 @@
-Synechoblastus bacilliferus Müll. Arg. SPECIES
-=======
+# Synechoblastus bacilliferus Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

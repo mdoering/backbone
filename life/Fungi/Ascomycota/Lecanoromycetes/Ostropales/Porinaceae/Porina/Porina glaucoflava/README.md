@@ -1,5 +1,4 @@
-Porina glaucoflava Makhija, Adaw. & Patw. SPECIES
-=======
+# Porina glaucoflava Makhija, Adaw. & Patw. SPECIES
 
 #### Status
 ACCEPTED

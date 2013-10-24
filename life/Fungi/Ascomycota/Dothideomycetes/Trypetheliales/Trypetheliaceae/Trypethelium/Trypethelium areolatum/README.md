@@ -1,5 +1,4 @@
-Trypethelium areolatum Mont. SPECIES
-=======
+# Trypethelium areolatum Mont. SPECIES
 
 #### Status
 ACCEPTED

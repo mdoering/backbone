@@ -1,5 +1,4 @@
-Gymnopilus marasmioides (Berk.) Singer SPECIES
-=======
+# Gymnopilus marasmioides (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

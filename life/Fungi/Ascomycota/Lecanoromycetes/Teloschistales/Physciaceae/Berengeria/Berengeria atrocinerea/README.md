@@ -1,5 +1,4 @@
-Berengeria atrocinerea (Dicks.) Trevis. SPECIES
-=======
+# Berengeria atrocinerea (Dicks.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

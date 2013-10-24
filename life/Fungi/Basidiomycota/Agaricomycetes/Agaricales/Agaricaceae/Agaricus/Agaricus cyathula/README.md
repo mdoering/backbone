@@ -1,5 +1,4 @@
-Agaricus cyathula Fr. SPECIES
-=======
+# Agaricus cyathula Fr. SPECIES
 
 #### Status
 ACCEPTED

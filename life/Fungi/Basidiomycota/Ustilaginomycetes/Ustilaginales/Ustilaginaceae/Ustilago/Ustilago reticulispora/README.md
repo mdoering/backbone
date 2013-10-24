@@ -1,5 +1,4 @@
-Ustilago reticulispora Petr. SPECIES
-=======
+# Ustilago reticulispora Petr. SPECIES
 
 #### Status
 ACCEPTED

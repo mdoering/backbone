@@ -1,5 +1,4 @@
-Sphaeroporalites multiplex Hemer & Nygreen, 1967 SPECIES
-=======
+# Sphaeroporalites multiplex Hemer & Nygreen, 1967 SPECIES
 
 #### Status
 ACCEPTED

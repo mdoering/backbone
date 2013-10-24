@@ -1,5 +1,4 @@
-Diporisporites varias (Y.K. Mathur) Kalgutkar & Janson. SPECIES
-=======
+# Diporisporites varias (Y.K. Mathur) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

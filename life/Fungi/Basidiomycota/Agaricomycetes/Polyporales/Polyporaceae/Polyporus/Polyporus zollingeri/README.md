@@ -1,5 +1,4 @@
-Polyporus zollingeri Sacc. SPECIES
-=======
+# Polyporus zollingeri Sacc. SPECIES
 
 #### Status
 ACCEPTED

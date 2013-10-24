@@ -1,5 +1,4 @@
-Ascocoryne striata (Ellis & Everh.) V. Kucera & Lizon SPECIES
-=======
+# Ascocoryne striata (Ellis & Everh.) V. Kucera & Lizon SPECIES
 
 #### Status
 ACCEPTED

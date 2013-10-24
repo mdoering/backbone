@@ -1,5 +1,4 @@
-Puccinia kraussiana Cooke SPECIES
-=======
+# Puccinia kraussiana Cooke SPECIES
 
 #### Status
 ACCEPTED

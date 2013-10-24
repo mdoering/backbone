@@ -1,5 +1,4 @@
-Calvatia polygonia A.H. Sm. SPECIES
-=======
+# Calvatia polygonia A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

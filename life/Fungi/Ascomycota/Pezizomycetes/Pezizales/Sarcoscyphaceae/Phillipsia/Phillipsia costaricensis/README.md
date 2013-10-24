@@ -1,5 +1,4 @@
-Phillipsia costaricensis Denison SPECIES
-=======
+# Phillipsia costaricensis Denison SPECIES
 
 #### Status
 ACCEPTED

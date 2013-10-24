@@ -1,5 +1,4 @@
-Pleospora dakotensis (Rehm) Petr. SPECIES
-=======
+# Pleospora dakotensis (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

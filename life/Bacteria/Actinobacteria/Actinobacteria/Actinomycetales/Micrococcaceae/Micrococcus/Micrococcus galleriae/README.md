@@ -1,5 +1,4 @@
-Micrococcus galleriae SPECIES
-=======
+# Micrococcus galleriae SPECIES
 
 #### Status
 ACCEPTED

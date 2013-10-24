@@ -1,5 +1,4 @@
-Rosellinia callimorphoides Rehm SPECIES
-=======
+# Rosellinia callimorphoides Rehm SPECIES
 
 #### Status
 ACCEPTED

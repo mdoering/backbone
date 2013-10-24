@@ -1,5 +1,4 @@
-Microsphaera pseudolonicerae (E.S. Salmon) Homma SPECIES
-=======
+# Microsphaera pseudolonicerae (E.S. Salmon) Homma SPECIES
 
 #### Status
 ACCEPTED

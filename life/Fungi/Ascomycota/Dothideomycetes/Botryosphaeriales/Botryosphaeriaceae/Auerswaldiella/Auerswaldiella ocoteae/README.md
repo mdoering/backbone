@@ -1,5 +1,4 @@
-Auerswaldiella ocoteae Bat. SPECIES
-=======
+# Auerswaldiella ocoteae Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia whakatipu G. Cunn., 1924 SPECIES
-=======
+# Puccinia whakatipu G. Cunn., 1924 SPECIES
 
 #### Status
 ACCEPTED

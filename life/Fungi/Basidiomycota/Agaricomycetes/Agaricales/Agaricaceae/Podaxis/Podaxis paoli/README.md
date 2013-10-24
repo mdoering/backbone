@@ -1,8 +1,7 @@
-Podaxon paoli Bacc. SPECIES
-=======
+# Podaxis paoli Bacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon paoli Bacc.
+Podaxis paoli Bacc.
 
 ### Remarks
 null

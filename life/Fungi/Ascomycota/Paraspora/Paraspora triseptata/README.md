@@ -1,5 +1,4 @@
-Paraspora triseptata Grove, 1884 SPECIES
-=======
+# Paraspora triseptata Grove, 1884 SPECIES
 
 #### Status
 ACCEPTED

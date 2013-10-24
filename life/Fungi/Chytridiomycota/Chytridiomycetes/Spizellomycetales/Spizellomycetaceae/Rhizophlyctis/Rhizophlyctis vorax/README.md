@@ -1,5 +1,4 @@
-Rhizophlyctis vorax (Strasb.) A. Fisch. SPECIES
-=======
+# Rhizophlyctis vorax (Strasb.) A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

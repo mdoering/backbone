@@ -1,5 +1,4 @@
-Micrhystridium rarifurcatum SPECIES
-=======
+# Micrhystridium rarifurcatum SPECIES
 
 #### Status
 ACCEPTED

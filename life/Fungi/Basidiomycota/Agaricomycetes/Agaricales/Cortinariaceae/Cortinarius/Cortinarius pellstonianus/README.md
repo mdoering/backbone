@@ -1,5 +1,4 @@
-Cortinarius pellstonianus Ammirati & A.H. Sm. SPECIES
-=======
+# Cortinarius pellstonianus Ammirati & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

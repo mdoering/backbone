@@ -1,5 +1,4 @@
-Cryptothecia laevigata Groenh. SPECIES
-=======
+# Cryptothecia laevigata Groenh. SPECIES
 
 #### Status
 ACCEPTED

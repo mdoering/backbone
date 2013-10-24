@@ -1,5 +1,4 @@
-Steinhausia brachynema SPECIES
-=======
+# Steinhausia brachynema SPECIES
 
 #### Status
 ACCEPTED

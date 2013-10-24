@@ -1,5 +1,4 @@
-Teratosphaeria velox Crous & Summerell, 2009 SPECIES
-=======
+# Teratosphaeria velox Crous & Summerell, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyrium scutiae Speg. SPECIES
-=======
+# Microthyrium scutiae Speg. SPECIES
 
 #### Status
 ACCEPTED

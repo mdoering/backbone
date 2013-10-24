@@ -1,5 +1,4 @@
-Pertusaria degradata Müll. Arg. SPECIES
-=======
+# Pertusaria degradata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

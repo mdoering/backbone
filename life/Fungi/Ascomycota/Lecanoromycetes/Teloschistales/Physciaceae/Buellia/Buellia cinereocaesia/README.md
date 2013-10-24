@@ -1,5 +1,4 @@
-Buellia cinereocaesia B. de Lesd. SPECIES
-=======
+# Buellia cinereocaesia B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

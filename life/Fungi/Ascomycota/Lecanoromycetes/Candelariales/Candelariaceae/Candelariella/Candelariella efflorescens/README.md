@@ -1,5 +1,4 @@
-Candelariella efflorescens R. C. Harris & W. R. Buck SPECIES
-=======
+# Candelariella efflorescens R. C. Harris & W. R. Buck SPECIES
 
 #### Status
 ACCEPTED

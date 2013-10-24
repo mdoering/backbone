@@ -1,5 +1,4 @@
-Acarospora longispora H. Magn. SPECIES
-=======
+# Acarospora longispora H. Magn. SPECIES
 
 #### Status
 ACCEPTED

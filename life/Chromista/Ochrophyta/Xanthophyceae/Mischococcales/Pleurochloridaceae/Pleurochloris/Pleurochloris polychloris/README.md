@@ -1,5 +1,4 @@
-Pleurochloris polychloris Pascher SPECIES
-=======
+# Pleurochloris polychloris Pascher SPECIES
 
 #### Status
 ACCEPTED

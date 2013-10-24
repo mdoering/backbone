@@ -1,5 +1,4 @@
-Hypomyces leotiicola Rogerson & Samuels, 1985 SPECIES
-=======
+# Hypomyces leotiicola Rogerson & Samuels, 1985 SPECIES
 
 #### Status
 ACCEPTED

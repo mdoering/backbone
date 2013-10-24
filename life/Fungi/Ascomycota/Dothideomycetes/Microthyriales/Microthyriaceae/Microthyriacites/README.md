@@ -1,5 +1,4 @@
-Microthyriacites Cookson GENUS
-=======
+# Microthyriacites Cookson GENUS
 
 #### Status
 ACCEPTED

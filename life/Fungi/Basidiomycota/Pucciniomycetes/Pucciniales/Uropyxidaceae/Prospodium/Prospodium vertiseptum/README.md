@@ -1,5 +1,4 @@
-Prospodium vertiseptum J.F. Hennen & Cummins SPECIES
-=======
+# Prospodium vertiseptum J.F. Hennen & Cummins SPECIES
 
 #### Status
 ACCEPTED

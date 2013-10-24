@@ -1,5 +1,4 @@
-Nectria myrticola (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Nectria myrticola (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

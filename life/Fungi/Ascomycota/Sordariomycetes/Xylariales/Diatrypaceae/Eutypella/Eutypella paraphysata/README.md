@@ -1,5 +1,4 @@
-Eutypella paraphysata (Speg.) Rappaz SPECIES
-=======
+# Eutypella paraphysata (Speg.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

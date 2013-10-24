@@ -1,5 +1,4 @@
-Dothidea haraeana Syd. & P. Syd. SPECIES
-=======
+# Dothidea haraeana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

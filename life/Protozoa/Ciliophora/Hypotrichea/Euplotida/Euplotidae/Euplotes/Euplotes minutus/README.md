@@ -1,5 +1,4 @@
-Euplotes minutus Yocom, 1931 SPECIES
-=======
+# Euplotes minutus Yocom, 1931 SPECIES
 
 #### Status
 ACCEPTED

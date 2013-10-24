@@ -1,5 +1,4 @@
-Cylindrosporium nuttallii (Harkn.) Dearn. SPECIES
-=======
+# Cylindrosporium nuttallii (Harkn.) Dearn. SPECIES
 
 #### Status
 ACCEPTED

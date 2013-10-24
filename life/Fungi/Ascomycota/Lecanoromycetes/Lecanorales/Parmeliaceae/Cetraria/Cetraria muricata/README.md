@@ -1,17 +1,16 @@
-Cornicularia muricata var. muricata VARIETY
-=======
+# Cetraria muricata (Ach.) Eckfeldt SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 22: 240 (1895)
 
 #### Original name
-Cornicularia muricata var. muricata
+Lichen muricatus Ach.
 
 ### Remarks
 null

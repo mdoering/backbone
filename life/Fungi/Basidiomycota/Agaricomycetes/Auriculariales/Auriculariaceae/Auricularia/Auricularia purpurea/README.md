@@ -1,5 +1,4 @@
-Auricularia purpurea Schumach. SPECIES
-=======
+# Auricularia purpurea Schumach. SPECIES
 
 #### Status
 ACCEPTED

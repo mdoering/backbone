@@ -1,5 +1,4 @@
-Didymaria matricariae Syd. SPECIES
-=======
+# Didymaria matricariae Syd. SPECIES
 
 #### Status
 ACCEPTED

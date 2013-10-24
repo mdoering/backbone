@@ -1,14 +1,13 @@
-Dasyscypha albidoroseus (Rehm) Dennis SPECIES
-=======
+# Dasyscyphus albidoroseus (Rehm) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 32: 30 (1949)
 
 #### Original name
 Pezizella albidorosea Rehm

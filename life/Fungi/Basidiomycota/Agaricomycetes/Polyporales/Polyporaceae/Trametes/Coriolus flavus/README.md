@@ -1,5 +1,4 @@
-Coriolus flavus (Jungh.) Pat. SPECIES
-=======
+# Coriolus flavus (Jungh.) Pat. SPECIES
 
 #### Status
 ACCEPTED

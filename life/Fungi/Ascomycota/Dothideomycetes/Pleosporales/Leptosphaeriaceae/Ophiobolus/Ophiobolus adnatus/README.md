@@ -1,5 +1,4 @@
-Ophiobolus adnatus (Bonord.) Sacc. SPECIES
-=======
+# Ophiobolus adnatus (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

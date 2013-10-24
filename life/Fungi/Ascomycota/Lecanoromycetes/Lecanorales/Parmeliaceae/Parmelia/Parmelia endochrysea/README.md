@@ -1,5 +1,4 @@
-Parmelia endochrysea (Müll. Arg.) Gyeln. SPECIES
-=======
+# Parmelia endochrysea (Müll. Arg.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

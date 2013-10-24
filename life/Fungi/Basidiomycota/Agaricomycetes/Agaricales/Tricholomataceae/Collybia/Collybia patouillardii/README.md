@@ -1,8 +1,7 @@
-Collybia patouillardi Sacc. & P. Syd. SPECIES
-=======
+# Collybia patouillardii Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Collybia patouillardi Sacc. & P. Syd.
+Collybia patouillardii Sacc. & P. Syd.
 
 ### Remarks
 null

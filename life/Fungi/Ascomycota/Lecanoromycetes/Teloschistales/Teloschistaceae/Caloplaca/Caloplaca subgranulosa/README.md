@@ -1,5 +1,4 @@
-Caloplaca subgranulosa Jatta SPECIES
-=======
+# Caloplaca subgranulosa Jatta SPECIES
 
 #### Status
 ACCEPTED

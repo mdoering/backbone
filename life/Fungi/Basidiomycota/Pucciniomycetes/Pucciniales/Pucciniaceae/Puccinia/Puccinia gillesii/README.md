@@ -1,5 +1,4 @@
-Puccinia gillesii Speg. SPECIES
-=======
+# Puccinia gillesii Speg. SPECIES
 
 #### Status
 ACCEPTED

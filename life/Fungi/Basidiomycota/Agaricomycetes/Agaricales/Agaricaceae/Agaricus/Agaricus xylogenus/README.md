@@ -1,5 +1,4 @@
-Agaricus xylogenus Mont. SPECIES
-=======
+# Agaricus xylogenus Mont. SPECIES
 
 #### Status
 ACCEPTED

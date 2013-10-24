@@ -1,5 +1,4 @@
-Agaricus angustifolius Britzelm. SPECIES
-=======
+# Agaricus angustifolius Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octodinium Wrenn & Hart, 1988 GENUS
-=======
+# Octodinium Wrenn & Hart, 1988 GENUS
 
 #### Status
 ACCEPTED

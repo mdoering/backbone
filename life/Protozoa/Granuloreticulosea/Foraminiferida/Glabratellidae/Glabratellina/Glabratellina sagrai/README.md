@@ -1,5 +1,4 @@
-Glabratellina sagrai SPECIES
-=======
+# Glabratellina sagrai SPECIES
 
 #### Status
 ACCEPTED

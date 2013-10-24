@@ -1,5 +1,4 @@
-Spheconisca austriaca Norman SPECIES
-=======
+# Spheconisca austriaca Norman SPECIES
 
 #### Status
 ACCEPTED

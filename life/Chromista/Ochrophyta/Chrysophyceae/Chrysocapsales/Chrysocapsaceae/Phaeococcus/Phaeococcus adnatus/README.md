@@ -1,5 +1,4 @@
-Phaeococcus adnatus (West) A.D. Cotton SPECIES
-=======
+# Phaeococcus adnatus (West) A.D. Cotton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothyrites keralensis (K.P. Rao & Ramanujam) Kalgutkar & Janson. SPECIES
-=======
+# Trichothyrites keralensis (K.P. Rao & Ramanujam) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

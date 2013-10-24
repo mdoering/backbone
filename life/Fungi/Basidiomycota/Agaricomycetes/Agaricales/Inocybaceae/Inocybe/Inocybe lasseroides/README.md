@@ -1,5 +1,4 @@
-Inocybe lasseroides (E. Horak) Garrido SPECIES
-=======
+# Inocybe lasseroides (E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

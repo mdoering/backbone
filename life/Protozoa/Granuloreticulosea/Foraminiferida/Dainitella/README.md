@@ -1,5 +1,4 @@
-Dainitella GENUS
-=======
+# Dainitella GENUS
 
 #### Status
 ACCEPTED

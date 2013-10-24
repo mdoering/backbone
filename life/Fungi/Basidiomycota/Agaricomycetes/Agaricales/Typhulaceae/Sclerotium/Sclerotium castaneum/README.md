@@ -1,5 +1,4 @@
-Sclerotium castaneum Speg. SPECIES
-=======
+# Sclerotium castaneum Speg. SPECIES
 
 #### Status
 ACCEPTED

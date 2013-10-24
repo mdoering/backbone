@@ -1,17 +1,16 @@
-Didymosphaeria berberidincola (Rehm) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Didymosphaeria berberidicola (Rehm) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungal Diversity Res. Ser. (Hong Kong) 13: 71 (2004)
 
 #### Original name
-Amphisphaeria berberidicola Rehm
+Phorcys berberidicola Rehm
 
 ### Remarks
 null

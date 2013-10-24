@@ -1,5 +1,4 @@
-Ellipsobulimina Silvestri, 1903 GENUS
-=======
+# Ellipsobulimina Silvestri, 1903 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nolanea subpicea Murrill SPECIES
-=======
+# Nolanea subpicea Murrill SPECIES
 
 #### Status
 ACCEPTED

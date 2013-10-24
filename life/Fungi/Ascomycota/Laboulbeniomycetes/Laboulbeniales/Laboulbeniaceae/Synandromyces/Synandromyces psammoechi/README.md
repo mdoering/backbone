@@ -1,5 +1,4 @@
-Synandromyces psammoechi Thaxt., 1931 SPECIES
-=======
+# Synandromyces psammoechi Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

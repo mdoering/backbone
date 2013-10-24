@@ -1,5 +1,4 @@
-Helotium dactylidis J. Schröt. SPECIES
-=======
+# Helotium dactylidis J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopyxis leptopus Pers. SPECIES
-=======
+# Geopyxis leptopus Pers. SPECIES
 
 #### Status
 ACCEPTED

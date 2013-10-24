@@ -1,5 +1,4 @@
-Grozdilovia Bensh, 1987 GENUS
-=======
+# Grozdilovia Bensh, 1987 GENUS
 
 #### Status
 ACCEPTED

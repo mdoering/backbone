@@ -1,17 +1,16 @@
-Leptogium rivulare var. rivulare VARIETY
-=======
+# Leptogium rivulare (Ach.) Mont. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gaudichaud-Beaupré, Voy. Bonité, Botany 2: 117 (1846)
 
 #### Original name
-null
+Lichen rivularis Ach.
 
 ### Remarks
 null

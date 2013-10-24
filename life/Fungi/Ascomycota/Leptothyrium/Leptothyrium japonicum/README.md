@@ -1,5 +1,4 @@
-Leptothyrium japonicum Hara SPECIES
-=======
+# Leptothyrium japonicum Hara SPECIES
 
 #### Status
 ACCEPTED

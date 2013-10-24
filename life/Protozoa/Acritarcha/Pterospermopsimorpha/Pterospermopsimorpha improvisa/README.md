@@ -1,5 +1,4 @@
-Pterospermopsimorpha improvisa Pykhova, 1973 SPECIES
-=======
+# Pterospermopsimorpha improvisa Pykhova, 1973 SPECIES
 
 #### Status
 ACCEPTED

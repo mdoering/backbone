@@ -1,5 +1,4 @@
-Virgariella sphaerica Matsush. SPECIES
-=======
+# Virgariella sphaerica Matsush. SPECIES
 
 #### Status
 ACCEPTED

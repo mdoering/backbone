@@ -1,5 +1,4 @@
-Cytamoeba bacterifera Labbe, 1894 SPECIES
-=======
+# Cytamoeba bacterifera Labbe, 1894 SPECIES
 
 #### Status
 ACCEPTED

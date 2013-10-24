@@ -1,5 +1,4 @@
-Corticium cinnabarinum Massee SPECIES
-=======
+# Corticium cinnabarinum Massee SPECIES
 
 #### Status
 ACCEPTED

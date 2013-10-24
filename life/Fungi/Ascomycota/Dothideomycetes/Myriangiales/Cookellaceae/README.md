@@ -1,5 +1,4 @@
-Cookellaceae Höhn. ex Sacc. & Trotter FAMILY
-=======
+# Cookellaceae Höhn. ex Sacc. & Trotter FAMILY
 
 #### Status
 ACCEPTED

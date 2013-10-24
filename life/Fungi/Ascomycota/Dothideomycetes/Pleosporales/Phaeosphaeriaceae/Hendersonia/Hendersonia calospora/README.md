@@ -1,5 +1,4 @@
-Hendersonia calospora Fautrey SPECIES
-=======
+# Hendersonia calospora Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus freirei Blanco-Dios SPECIES
-=======
+# Agaricus freirei Blanco-Dios SPECIES
 
 #### Status
 ACCEPTED

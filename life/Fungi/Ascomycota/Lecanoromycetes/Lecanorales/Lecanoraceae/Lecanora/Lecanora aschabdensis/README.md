@@ -1,5 +1,4 @@
-Lecanora aschabdensis J. Steiner SPECIES
-=======
+# Lecanora aschabdensis J. Steiner SPECIES
 
 #### Status
 ACCEPTED

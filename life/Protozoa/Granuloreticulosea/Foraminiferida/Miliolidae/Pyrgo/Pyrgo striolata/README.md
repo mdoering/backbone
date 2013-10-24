@@ -1,5 +1,4 @@
-Pyrgo striolata (Brady) SPECIES
-=======
+# Pyrgo striolata (Brady) SPECIES
 
 #### Status
 ACCEPTED

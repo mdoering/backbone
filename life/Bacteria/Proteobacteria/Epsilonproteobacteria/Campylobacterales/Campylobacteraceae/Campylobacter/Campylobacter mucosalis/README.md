@@ -1,8 +1,7 @@
-Campylobacter sputorum subsp. mucosalis (ex Lawson & Rowland, 1974) Lawson et al., 1981 SUBSPECIES
-=======
+# Campylobacter mucosalis (Lawson et al., 1981) Roop et al., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Gymnopus omphalina Murrill SPECIES
-=======
+# Gymnopus omphalina Murrill SPECIES
 
 #### Status
 ACCEPTED

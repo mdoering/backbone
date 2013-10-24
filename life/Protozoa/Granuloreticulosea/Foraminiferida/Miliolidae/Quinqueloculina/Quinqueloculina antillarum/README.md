@@ -1,5 +1,4 @@
-Quinqueloculina antillarum SPECIES
-=======
+# Quinqueloculina antillarum SPECIES
 
 #### Status
 ACCEPTED

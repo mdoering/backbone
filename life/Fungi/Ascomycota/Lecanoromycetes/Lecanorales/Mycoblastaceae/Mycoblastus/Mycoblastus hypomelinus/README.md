@@ -1,5 +1,4 @@
-Mycoblastus hypomelinus (Stirt.) Müll. Arg. SPECIES
-=======
+# Mycoblastus hypomelinus (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

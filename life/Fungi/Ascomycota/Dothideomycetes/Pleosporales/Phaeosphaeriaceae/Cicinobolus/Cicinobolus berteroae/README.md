@@ -1,8 +1,7 @@
-Cicinnobolus berteroae Dejeva SPECIES
-=======
+# Cicinobolus berteroae Dejeva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus berteroae Dejeva
+Cicinobolus berteroae Dejeva
 
 ### Remarks
 null

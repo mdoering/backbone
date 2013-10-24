@@ -1,5 +1,4 @@
-Philocopra coeruleotecta Rehm SPECIES
-=======
+# Philocopra coeruleotecta Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalorhinocladiella H.P. Upadhyay & W.B. Kendr. GENUS
-=======
+# Hyalorhinocladiella H.P. Upadhyay & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

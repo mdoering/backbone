@@ -1,5 +1,4 @@
-Buellia subaethalea B. de Lesd. SPECIES
-=======
+# Buellia subaethalea B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

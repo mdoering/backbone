@@ -1,17 +1,16 @@
-Peziza brunnea var. brunnea VARIETY
-=======
+# Ascobolus equinus (O.F. Müll.) P. Karst., 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Not. Sällsk. Fauna et Fl. Fenn. Förh. 11: 209 (1870)
 
 #### Original name
-null
+Peziza equina O.F. Müll., 1777
 
 ### Remarks
 null

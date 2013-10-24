@@ -1,5 +1,4 @@
-Puccinia crinitae McNabb, 1962 SPECIES
-=======
+# Puccinia crinitae McNabb, 1962 SPECIES
 
 #### Status
 ACCEPTED

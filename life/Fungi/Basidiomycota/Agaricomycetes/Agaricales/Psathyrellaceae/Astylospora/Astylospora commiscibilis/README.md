@@ -1,5 +1,4 @@
-Astylospora commiscibilis (Berk.) Murrill SPECIES
-=======
+# Astylospora commiscibilis (Berk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

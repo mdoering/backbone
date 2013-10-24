@@ -1,5 +1,4 @@
-Aporomyces physemi R.K. Benj., 1989 SPECIES
-=======
+# Aporomyces physemi R.K. Benj., 1989 SPECIES
 
 #### Status
 ACCEPTED

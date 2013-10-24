@@ -1,5 +1,4 @@
-Synchytrium ulmariae G. Tobler SPECIES
-=======
+# Synchytrium ulmariae G. Tobler SPECIES
 
 #### Status
 ACCEPTED

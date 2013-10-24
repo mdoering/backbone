@@ -1,5 +1,4 @@
-Cryptovalsa halosarceiicola K.D. Hyde, 1993 SPECIES
-=======
+# Cryptovalsa halosarceiicola K.D. Hyde, 1993 SPECIES
 
 #### Status
 ACCEPTED

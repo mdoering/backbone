@@ -1,14 +1,13 @@
-Graphis circumfusa Stirt. SPECIES
-=======
+# Diorygma circumfusum (Stirt.) Kalb, Staiger & Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Roy. Soc. Victoria 17: 73 (1881)
+Symb. bot. upsal. 34(no. 1): 145 (2004)
 
 #### Original name
 Graphis circumfusa Stirt.

@@ -1,5 +1,4 @@
-Graphina nuda H. Magn. SPECIES
-=======
+# Graphina nuda H. Magn. SPECIES
 
 #### Status
 ACCEPTED

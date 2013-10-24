@@ -1,5 +1,4 @@
-Parathuramminites GENUS
-=======
+# Parathuramminites GENUS
 
 #### Status
 ACCEPTED

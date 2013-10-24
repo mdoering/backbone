@@ -1,17 +1,16 @@
-Schizotrichella cissampelosa I.D. Singh SPECIES
-=======
+# Schizotrichella cissampeli I.D. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Indian bot. Soc. 60(1): 83 (1981)
 
 #### Original name
-Schizotrichella cissampelosa I.D. Singh
+Schizotrichella cissampeli I.D. Singh
 
 ### Remarks
 null

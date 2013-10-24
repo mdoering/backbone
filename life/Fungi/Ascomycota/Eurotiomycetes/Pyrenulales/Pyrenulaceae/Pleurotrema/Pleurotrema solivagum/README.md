@@ -1,5 +1,4 @@
-Pleurotrema solivagum Degel. SPECIES
-=======
+# Pleurotrema solivagum Degel. SPECIES
 
 #### Status
 ACCEPTED

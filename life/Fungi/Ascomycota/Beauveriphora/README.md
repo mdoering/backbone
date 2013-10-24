@@ -1,5 +1,4 @@
-Beauveriphora Matsush. GENUS
-=======
+# Beauveriphora Matsush. GENUS
 
 #### Status
 ACCEPTED

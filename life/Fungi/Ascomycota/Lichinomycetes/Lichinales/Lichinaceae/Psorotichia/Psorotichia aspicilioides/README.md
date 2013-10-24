@@ -1,5 +1,4 @@
-Psorotichia aspicilioides Vain. SPECIES
-=======
+# Psorotichia aspicilioides Vain. SPECIES
 
 #### Status
 ACCEPTED

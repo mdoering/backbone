@@ -1,5 +1,4 @@
-Dicaeoma oedipus (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma oedipus (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

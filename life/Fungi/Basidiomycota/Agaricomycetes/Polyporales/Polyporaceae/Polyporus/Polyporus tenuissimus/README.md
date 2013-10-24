@@ -1,5 +1,4 @@
-Polyporus tenuissimus Lév. SPECIES
-=======
+# Polyporus tenuissimus Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes truncatosporus (Lloyd) Teng SPECIES
-=======
+# Fomes truncatosporus (Lloyd) Teng SPECIES
 
 #### Status
 ACCEPTED

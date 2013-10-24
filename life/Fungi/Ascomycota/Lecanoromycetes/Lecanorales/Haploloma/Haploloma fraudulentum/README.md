@@ -1,5 +1,4 @@
-Haploloma fraudulentum Trevis. SPECIES
-=======
+# Haploloma fraudulentum Trevis. SPECIES
 
 #### Status
 ACCEPTED

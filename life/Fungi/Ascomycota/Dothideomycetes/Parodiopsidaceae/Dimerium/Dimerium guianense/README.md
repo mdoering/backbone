@@ -1,5 +1,4 @@
-Dimerium guianense F. Stevens SPECIES
-=======
+# Dimerium guianense F. Stevens SPECIES
 
 #### Status
 ACCEPTED

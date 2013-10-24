@@ -1,5 +1,4 @@
-Placidium steineri Wettst. SPECIES
-=======
+# Placidium steineri Wettst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lasiosphaeria micranthii Talde SPECIES
-=======
+# Lasiosphaeria micranthi Talde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 30(1-6): 280 (1978)
 
 #### Original name
-Lasiosphaeria micranthii Talde
+Lasiosphaeria micranthi Talde
 
 ### Remarks
 null

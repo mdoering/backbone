@@ -1,5 +1,4 @@
-Dothiorina discoidea (Berk. & Broome) Höhn. SPECIES
-=======
+# Dothiorina discoidea (Berk. & Broome) Höhn. SPECIES
 
 #### Status
 ACCEPTED

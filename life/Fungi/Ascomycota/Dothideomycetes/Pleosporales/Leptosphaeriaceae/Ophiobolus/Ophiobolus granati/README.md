@@ -1,5 +1,4 @@
-Ophiobolus granati Fabre SPECIES
-=======
+# Ophiobolus granati Fabre SPECIES
 
 #### Status
 ACCEPTED

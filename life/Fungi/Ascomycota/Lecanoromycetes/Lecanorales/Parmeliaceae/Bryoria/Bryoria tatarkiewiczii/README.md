@@ -1,5 +1,4 @@
-Bryoria tatarkiewiczii (Bystrek) Bystrek SPECIES
-=======
+# Bryoria tatarkiewiczii (Bystrek) Bystrek SPECIES
 
 #### Status
 ACCEPTED

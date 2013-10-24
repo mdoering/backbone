@@ -1,17 +1,16 @@
-Hydrocybe valentini Velen. SPECIES
-=======
+# Hydrocybe valentinii Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 3: 476 (1921)
 
 #### Original name
-Hydrocybe valentini Velen.
+Hydrocybe valentinii Velen.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pertusaria glauca Zahlbr. SPECIES
-=======
+# Pertusaria glauca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

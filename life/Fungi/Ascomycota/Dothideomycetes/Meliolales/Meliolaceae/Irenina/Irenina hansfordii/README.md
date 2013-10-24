@@ -1,5 +1,4 @@
-Irenina hansfordii var. hansfordii VARIETY
-=======
+# Irenina hansfordii F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Irenina hansfordii var. hansfordii
+Irenina hansfordii F. Stevens
 
 ### Remarks
 null

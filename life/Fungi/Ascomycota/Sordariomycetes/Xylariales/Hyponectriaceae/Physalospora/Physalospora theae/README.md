@@ -1,5 +1,4 @@
-Physalospora theae Sousa da Câmara SPECIES
-=======
+# Physalospora theae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

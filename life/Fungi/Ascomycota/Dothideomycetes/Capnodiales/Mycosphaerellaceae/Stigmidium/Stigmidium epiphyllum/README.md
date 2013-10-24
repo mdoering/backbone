@@ -1,5 +1,4 @@
-Stigmidium epiphyllum Matzer SPECIES
-=======
+# Stigmidium epiphyllum Matzer SPECIES
 
 #### Status
 ACCEPTED

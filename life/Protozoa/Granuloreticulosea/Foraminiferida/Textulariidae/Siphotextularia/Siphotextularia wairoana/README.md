@@ -1,5 +1,4 @@
-Siphotextularia wairoana Finlay, 1939 SPECIES
-=======
+# Siphotextularia wairoana Finlay, 1939 SPECIES
 
 #### Status
 ACCEPTED

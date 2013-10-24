@@ -1,5 +1,4 @@
-Macrosporium centaureae Roldan SPECIES
-=======
+# Macrosporium centaureae Roldan SPECIES
 
 #### Status
 ACCEPTED

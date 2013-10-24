@@ -1,5 +1,4 @@
-Helicosporium phaeosporum (Fresen.) Sacc. SPECIES
-=======
+# Helicosporium phaeosporum (Fresen.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

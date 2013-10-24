@@ -1,5 +1,4 @@
-Bacidia hypoptiza Vain. SPECIES
-=======
+# Bacidia hypoptiza Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycotodea minima (Duby) Kirschst. SPECIES
-=======
+# Mycotodea minima (Duby) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

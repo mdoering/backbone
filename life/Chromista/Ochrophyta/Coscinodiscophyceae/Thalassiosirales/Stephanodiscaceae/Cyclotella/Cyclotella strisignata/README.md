@@ -1,5 +1,4 @@
-Cyclotella strisignata Grunow SPECIES
-=======
+# Cyclotella strisignata Grunow SPECIES
 
 #### Status
 ACCEPTED

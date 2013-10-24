@@ -1,5 +1,4 @@
-Natrialba chahannaoensis Xu et al., 2001 SPECIES
-=======
+# Natrialba chahannaoensis Xu et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

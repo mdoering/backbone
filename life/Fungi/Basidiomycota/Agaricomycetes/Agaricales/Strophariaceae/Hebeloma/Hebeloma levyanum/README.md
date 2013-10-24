@@ -1,5 +1,4 @@
-Hebeloma levyanum Murrill SPECIES
-=======
+# Hebeloma levyanum Murrill SPECIES
 
 #### Status
 ACCEPTED

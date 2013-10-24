@@ -1,5 +1,4 @@
-Agaricus momentaneus Bull. SPECIES
-=======
+# Agaricus momentaneus Bull. SPECIES
 
 #### Status
 ACCEPTED

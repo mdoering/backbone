@@ -1,17 +1,16 @@
-Uredo hydrangeae Berk. & M.A. Curtis, 1884 SPECIES
-=======
+# Pucciniastrum hydrangeae (Magnus) Arthur, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 9: 191 (1884)
+Résult. Sci. Congr. Bot. Vienne 337 (1906)
 
 #### Original name
-Uredo hydrangeae Berk. & M.A. Curtis, 1884
+Thekopsora hydrangeae Magnus, 1902
 
 ### Remarks
 null

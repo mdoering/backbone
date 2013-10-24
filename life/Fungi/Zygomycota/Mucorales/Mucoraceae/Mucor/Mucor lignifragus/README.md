@@ -1,5 +1,4 @@
-Mucor lignifragus Bull. SPECIES
-=======
+# Mucor lignifragus Bull. SPECIES
 
 #### Status
 ACCEPTED

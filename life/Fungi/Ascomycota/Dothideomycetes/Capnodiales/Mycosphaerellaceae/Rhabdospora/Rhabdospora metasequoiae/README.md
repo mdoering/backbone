@@ -1,5 +1,4 @@
-Rhabdospora metasequoiae Gucevic SPECIES
-=======
+# Rhabdospora metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

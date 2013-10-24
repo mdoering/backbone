@@ -1,5 +1,4 @@
-Streptosporangium purpuratum Zhang et al., 2005 SPECIES
-=======
+# Streptosporangium purpuratum Zhang et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

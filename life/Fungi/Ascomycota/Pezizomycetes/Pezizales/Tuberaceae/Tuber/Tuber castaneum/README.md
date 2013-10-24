@@ -1,5 +1,4 @@
-Tuber castaneum (Wallr.) Corda SPECIES
-=======
+# Tuber castaneum (Wallr.) Corda SPECIES
 
 #### Status
 ACCEPTED

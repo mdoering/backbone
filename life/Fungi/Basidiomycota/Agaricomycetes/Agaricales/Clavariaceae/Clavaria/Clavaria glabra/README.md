@@ -1,5 +1,4 @@
-Clavaria glabra J.F. Gmel. SPECIES
-=======
+# Clavaria glabra J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

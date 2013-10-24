@@ -1,14 +1,13 @@
-Anthostoma punctulatum (Roberge ex Desm.) Arx & E. Müll., 1954 SPECIES
-=======
+# Anthostomella punctulata (Roberge ex Desm.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 11(no. 1): 316 (1954)
+Syll. fung. (Abellini) 1: 278 (1882)
 
 #### Original name
 Sphaeria punctulata Roberge ex Desm., 1850

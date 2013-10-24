@@ -1,5 +1,4 @@
-Usnea mexicana Vain. SPECIES
-=======
+# Usnea mexicana Vain. SPECIES
 
 #### Status
 ACCEPTED

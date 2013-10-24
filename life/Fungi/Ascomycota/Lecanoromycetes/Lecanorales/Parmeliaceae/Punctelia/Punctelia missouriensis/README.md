@@ -1,5 +1,4 @@
-Punctelia missouriensis G. Wilh. & Ladd SPECIES
-=======
+# Punctelia missouriensis G. Wilh. & Ladd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylaria hoogii R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Dactylaria hoogii R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

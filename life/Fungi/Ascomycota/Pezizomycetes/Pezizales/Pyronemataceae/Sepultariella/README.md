@@ -1,5 +1,4 @@
-Sepultariella Kutorga GENUS
-=======
+# Sepultariella Kutorga GENUS
 
 #### Status
 ACCEPTED

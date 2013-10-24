@@ -1,5 +1,4 @@
-Hysterium cubense Peck SPECIES
-=======
+# Hysterium cubense Peck SPECIES
 
 #### Status
 ACCEPTED

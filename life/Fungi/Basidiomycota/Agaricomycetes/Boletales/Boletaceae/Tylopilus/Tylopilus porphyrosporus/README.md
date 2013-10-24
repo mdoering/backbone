@@ -1,17 +1,16 @@
-Boletus porphyrosporus var. porphyrosporus VARIETY
-=======
+# Tylopilus porphyrosporus (Fr. & Hök) A.H. Sm. & Thiers, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boleti, Fungorum generis, illustratio 13 (1835)
+null
 
 #### Original name
-Boletus porphyrosporus var. porphyrosporus
+null
 
 ### Remarks
 null

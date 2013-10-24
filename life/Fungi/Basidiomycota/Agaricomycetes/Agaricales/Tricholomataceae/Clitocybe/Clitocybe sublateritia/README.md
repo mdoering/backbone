@@ -1,5 +1,4 @@
-Clitocybe sublateritia Bon SPECIES
-=======
+# Clitocybe sublateritia Bon SPECIES
 
 #### Status
 ACCEPTED

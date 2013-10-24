@@ -1,5 +1,4 @@
-Leathesia pulvinata Takamatsu SPECIES
-=======
+# Leathesia pulvinata Takamatsu SPECIES
 
 #### Status
 ACCEPTED

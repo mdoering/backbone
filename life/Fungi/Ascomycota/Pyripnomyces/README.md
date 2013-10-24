@@ -1,5 +1,4 @@
-Pyripnomyces Cavalc. GENUS
-=======
+# Pyripnomyces Cavalc. GENUS
 
 #### Status
 ACCEPTED

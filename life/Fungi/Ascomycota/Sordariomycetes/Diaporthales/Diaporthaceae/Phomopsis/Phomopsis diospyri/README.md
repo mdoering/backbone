@@ -1,17 +1,16 @@
-Phoma diospyri Sacc., 1878 SPECIES
-=======
+# Phomopsis diospyri (Sacc.) Traverso & Spessa, 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Botanicheskii Zhurnal 1(2): 308 (1940)
 
 #### Original name
-Phoma diospyri Sacc., 1878
+Phomopsis diospyri (Sacc.) Traverso & Spessa, 1910
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyrenopsidium macrocarpa Å.E. Dahl SPECIES
-=======
+# Pyrenopsidium macrocarpa Å.E. Dahl SPECIES
 
 #### Status
 ACCEPTED

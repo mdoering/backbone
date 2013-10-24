@@ -1,5 +1,4 @@
-Hyphomonas (ex Pongratz, 1957) Moore et al., 1984 GENUS
-=======
+# Hyphomonas (ex Pongratz, 1957) Moore et al., 1984 GENUS
 
 #### Status
 ACCEPTED

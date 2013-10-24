@@ -1,5 +1,4 @@
-Lentinus scyphoides Pat. SPECIES
-=======
+# Lentinus scyphoides Pat. SPECIES
 
 #### Status
 ACCEPTED

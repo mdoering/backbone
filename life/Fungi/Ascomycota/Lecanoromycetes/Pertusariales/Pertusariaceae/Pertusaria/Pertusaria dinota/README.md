@@ -1,5 +1,4 @@
-Pertusaria dinota Stirt. SPECIES
-=======
+# Pertusaria dinota Stirt. SPECIES
 
 #### Status
 ACCEPTED

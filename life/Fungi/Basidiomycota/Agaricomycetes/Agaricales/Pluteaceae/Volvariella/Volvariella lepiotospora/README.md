@@ -1,5 +1,4 @@
-Volvariella lepiotospora Singer SPECIES
-=======
+# Volvariella lepiotospora Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctidium nitidum Wallr. SPECIES
-=======
+# Phlyctidium nitidum Wallr. SPECIES
 
 #### Status
 ACCEPTED

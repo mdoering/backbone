@@ -1,5 +1,4 @@
-Peroneutypa discriminis Rehm SPECIES
-=======
+# Peroneutypa discriminis Rehm SPECIES
 
 #### Status
 ACCEPTED

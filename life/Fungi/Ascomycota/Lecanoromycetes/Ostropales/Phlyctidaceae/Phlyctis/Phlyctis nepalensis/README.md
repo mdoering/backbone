@@ -1,5 +1,4 @@
-Phlyctis nepalensis Räsänen SPECIES
-=======
+# Phlyctis nepalensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

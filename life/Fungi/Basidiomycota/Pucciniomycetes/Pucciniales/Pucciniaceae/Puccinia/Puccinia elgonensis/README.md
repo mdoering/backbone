@@ -1,5 +1,4 @@
-Puccinia elgonensis Wakef. SPECIES
-=======
+# Puccinia elgonensis Wakef. SPECIES
 
 #### Status
 ACCEPTED

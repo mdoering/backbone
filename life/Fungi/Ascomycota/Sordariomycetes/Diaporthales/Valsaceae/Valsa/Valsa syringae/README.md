@@ -1,5 +1,4 @@
-Valsa syringae Nitschke, 1870 SPECIES
-=======
+# Valsa syringae Nitschke, 1870 SPECIES
 
 #### Status
 ACCEPTED

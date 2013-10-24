@@ -1,5 +1,4 @@
-Fusisporium tenuissimum Peck SPECIES
-=======
+# Fusisporium tenuissimum Peck SPECIES
 
 #### Status
 ACCEPTED

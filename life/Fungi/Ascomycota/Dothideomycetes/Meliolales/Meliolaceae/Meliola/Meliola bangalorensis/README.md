@@ -1,5 +1,4 @@
-Meliola bangalorensis Hansf. & Thirum. SPECIES
-=======
+# Meliola bangalorensis Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

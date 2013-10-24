@@ -1,5 +1,4 @@
-Staurosphaeria lycii Rabenh. SPECIES
-=======
+# Staurosphaeria lycii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

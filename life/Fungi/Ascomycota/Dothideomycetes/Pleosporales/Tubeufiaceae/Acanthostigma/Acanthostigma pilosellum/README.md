@@ -1,5 +1,4 @@
-Acanthostigma pilosellum (P. Karst.) Kirschst. SPECIES
-=======
+# Acanthostigma pilosellum (P. Karst.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

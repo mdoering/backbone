@@ -1,5 +1,4 @@
-Mycoplasma spermatophilum Hill, 1991 SPECIES
-=======
+# Mycoplasma spermatophilum Hill, 1991 SPECIES
 
 #### Status
 ACCEPTED

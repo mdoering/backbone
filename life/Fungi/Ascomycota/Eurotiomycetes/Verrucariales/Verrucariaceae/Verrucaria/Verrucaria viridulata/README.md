@@ -1,5 +1,4 @@
-Verrucaria viridulata Nyl. SPECIES
-=======
+# Verrucaria viridulata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha unicolor A. Rich. SPECIES
-=======
+# Opegrapha unicolor A. Rich. SPECIES
 
 #### Status
 ACCEPTED

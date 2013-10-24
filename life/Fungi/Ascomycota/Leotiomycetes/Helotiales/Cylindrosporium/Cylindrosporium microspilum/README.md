@@ -1,5 +1,4 @@
-Cylindrosporium microspilum Sacc. & G. Winter SPECIES
-=======
+# Cylindrosporium microspilum Sacc. & G. Winter SPECIES
 
 #### Status
 ACCEPTED

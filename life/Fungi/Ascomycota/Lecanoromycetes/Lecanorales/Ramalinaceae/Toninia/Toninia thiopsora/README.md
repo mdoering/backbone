@@ -1,17 +1,16 @@
-Bacidia pulvinata (Taylor) Mudd SPECIES
-=======
+# Toninia thiopsora (Nyl.) H. Olivier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Man. Brit. Lich. 185 (1861)
+Bull. Acad. Intern. Géogr. Bot. 21: 197 (1911)
 
 #### Original name
-Lecidea pulvinata Schaer.
+Lecidea thiopsora Nyl.
 
 ### Remarks
 null

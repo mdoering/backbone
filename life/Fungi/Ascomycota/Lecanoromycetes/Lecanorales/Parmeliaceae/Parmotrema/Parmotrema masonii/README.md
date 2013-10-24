@@ -1,5 +1,4 @@
-Parmotrema masonii L. I. Ferraro SPECIES
-=======
+# Parmotrema masonii L. I. Ferraro SPECIES
 
 #### Status
 ACCEPTED

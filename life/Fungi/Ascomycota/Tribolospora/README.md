@@ -1,5 +1,4 @@
-Tribolospora D.A. Reid GENUS
-=======
+# Tribolospora D.A. Reid GENUS
 
 #### Status
 ACCEPTED

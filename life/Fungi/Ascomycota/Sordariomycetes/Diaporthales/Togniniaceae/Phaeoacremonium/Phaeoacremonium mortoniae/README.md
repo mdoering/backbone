@@ -1,17 +1,16 @@
-Ceratocystis fraxinopennsylvanica T.E. Hinds, 1975 SPECIES
-=======
+# Phaeoacremonium mortoniae Crous & W. Gams, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 67(4): 719 (1975)
+in Groenewald, Kang, Crous & Gams, Mycol. Res. 105(4): 655 (2001)
 
 #### Original name
-Ceratocystis fraxinopennsylvanica T.E. Hinds, 1975
+Phaeoacremonium mortoniae Crous & W. Gams, 2001
 
 ### Remarks
 null

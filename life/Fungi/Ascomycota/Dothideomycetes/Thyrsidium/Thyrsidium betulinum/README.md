@@ -1,5 +1,4 @@
-Thyrsidium betulinum P. Karst. SPECIES
-=======
+# Thyrsidium betulinum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

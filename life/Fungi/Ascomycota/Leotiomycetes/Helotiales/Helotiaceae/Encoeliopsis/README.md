@@ -1,17 +1,16 @@
-Neogodronia Schläpf.-Bernh. GENUS
-=======
+# Encoeliopsis Nannfeldt, 1932 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 22(1-4): 48 (1969)
+Nova Acta R. Soc. Scient. upsal. , Ser. 4 8(1. 2): 306 (1932)
 
 #### Original name
-Neogodronia Schläpf.-Bernh.
+Encoeliopsis Nannfeldt, 1932
 
 ### Remarks
 null

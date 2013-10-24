@@ -1,5 +1,4 @@
-Eutreptiella braarudii Throndsen SPECIES
-=======
+# Eutreptiella braarudii Throndsen SPECIES
 
 #### Status
 ACCEPTED

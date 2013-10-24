@@ -1,5 +1,4 @@
-Ustilago schoenefeldiae Vánky SPECIES
-=======
+# Ustilago schoenefeldiae Vánky SPECIES
 
 #### Status
 ACCEPTED

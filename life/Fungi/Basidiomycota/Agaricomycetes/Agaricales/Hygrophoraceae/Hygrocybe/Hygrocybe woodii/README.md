@@ -1,5 +1,4 @@
-Hygrocybe woodii A.M. Young SPECIES
-=======
+# Hygrocybe woodii A.M. Young SPECIES
 
 #### Status
 ACCEPTED

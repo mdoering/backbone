@@ -1,5 +1,4 @@
-Inocybe semifulva Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe semifulva Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rosellinia groedensis Zopf, 1896 SPECIES
-=======
+# Roselliniopsis groedensis (Zopf) Matzer & Hafellner, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 35: 350 (1896)
+Biblthca Lichenol. 37: 99 (1990)
 
 #### Original name
 Rosellinia groedensis Zopf, 1896

@@ -1,5 +1,4 @@
-Puccinia arundinellae-setosae F.L. Tai SPECIES
-=======
+# Puccinia arundinellae-setosae F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis laevigata (M. Nakan.) M. Nakan. & Kashiw. SPECIES
-=======
+# Phaeographis laevigata (M. Nakan.) M. Nakan. & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

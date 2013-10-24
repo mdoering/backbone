@@ -1,5 +1,4 @@
-Cyclonexis erinus Jane SPECIES
-=======
+# Cyclonexis erinus Jane SPECIES
 
 #### Status
 ACCEPTED

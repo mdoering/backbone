@@ -1,14 +1,13 @@
-Rhizidiomycopsis japonicus (Kobayasi & M. Ôkubo) Sparrow SPECIES
-=======
+# Rhizidiomyces japonicus Kobayasi & M. Ôkubo, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Scientific Researches of the Ozegahara Moor 357 (1954)
 
 #### Original name
 Rhizidiomyces japonicus Kobayasi & M. Ôkubo, 1954

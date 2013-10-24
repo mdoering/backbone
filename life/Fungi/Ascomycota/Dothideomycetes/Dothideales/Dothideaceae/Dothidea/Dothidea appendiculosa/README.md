@@ -1,5 +1,4 @@
-Dothidea appendiculosa Mont. & Berk. SPECIES
-=======
+# Dothidea appendiculosa Mont. & Berk. SPECIES
 
 #### Status
 ACCEPTED

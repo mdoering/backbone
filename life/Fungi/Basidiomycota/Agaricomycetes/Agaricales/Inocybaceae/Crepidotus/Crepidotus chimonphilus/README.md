@@ -1,5 +1,4 @@
-Crepidotus chimonphilus SPECIES
-=======
+# Crepidotus chimonphilus SPECIES
 
 #### Status
 ACCEPTED

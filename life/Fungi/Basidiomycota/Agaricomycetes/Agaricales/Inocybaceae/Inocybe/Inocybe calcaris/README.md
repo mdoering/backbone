@@ -1,5 +1,4 @@
-Inocybe calcaris Métrod SPECIES
-=======
+# Inocybe calcaris Métrod SPECIES
 
 #### Status
 ACCEPTED

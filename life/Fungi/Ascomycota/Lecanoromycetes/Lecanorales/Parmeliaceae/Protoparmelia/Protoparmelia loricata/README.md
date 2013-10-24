@@ -1,5 +1,4 @@
-Protoparmelia loricata Poelt & Vezda SPECIES
-=======
+# Protoparmelia loricata Poelt & Vezda SPECIES
 
 #### Status
 ACCEPTED

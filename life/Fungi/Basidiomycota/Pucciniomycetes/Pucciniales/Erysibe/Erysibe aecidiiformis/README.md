@@ -1,5 +1,4 @@
-Erysibe aecidiiformis Wallr. SPECIES
-=======
+# Erysibe aecidiiformis Wallr. SPECIES
 
 #### Status
 ACCEPTED

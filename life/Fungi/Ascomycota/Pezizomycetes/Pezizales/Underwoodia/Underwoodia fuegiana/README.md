@@ -1,5 +1,4 @@
-Underwoodia fuegiana var. fuegiana VARIETY
-=======
+# Underwoodia fuegiana (Speg.) Gamundí SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Underwoodia fuegiana var. fuegiana
+Geomorium fuegianum Speg.
 
 ### Remarks
 null

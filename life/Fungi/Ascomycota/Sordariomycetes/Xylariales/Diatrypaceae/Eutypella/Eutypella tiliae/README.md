@@ -1,5 +1,4 @@
-Eutypella tiliae Ellis & Everh. SPECIES
-=======
+# Eutypella tiliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

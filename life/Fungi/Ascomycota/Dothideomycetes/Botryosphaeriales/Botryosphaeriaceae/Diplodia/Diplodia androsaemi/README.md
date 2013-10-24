@@ -1,5 +1,4 @@
-Diplodia androsaemi Sacc. SPECIES
-=======
+# Diplodia androsaemi Sacc. SPECIES
 
 #### Status
 ACCEPTED

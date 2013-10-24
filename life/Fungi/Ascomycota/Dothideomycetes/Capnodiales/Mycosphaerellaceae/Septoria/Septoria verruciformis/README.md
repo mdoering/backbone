@@ -1,5 +1,4 @@
-Septoria verruciformis Berk. & M.A. Curtis SPECIES
-=======
+# Septoria verruciformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

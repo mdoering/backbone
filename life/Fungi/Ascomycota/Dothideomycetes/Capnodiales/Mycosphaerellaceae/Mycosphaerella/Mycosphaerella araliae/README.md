@@ -1,5 +1,4 @@
-Mycosphaerella araliae Bunkina & Koval SPECIES
-=======
+# Mycosphaerella araliae Bunkina & Koval SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erastophrya Fauré-Fremiet, 1944 GENUS
-=======
+# Erastophrya Fauré-Fremiet, 1944 GENUS
 
 #### Status
 ACCEPTED

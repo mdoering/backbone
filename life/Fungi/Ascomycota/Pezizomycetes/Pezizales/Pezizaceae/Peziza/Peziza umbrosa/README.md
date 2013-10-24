@@ -1,5 +1,4 @@
-Peziza umbrosa Fr. SPECIES
-=======
+# Peziza umbrosa Fr. SPECIES
 
 #### Status
 ACCEPTED

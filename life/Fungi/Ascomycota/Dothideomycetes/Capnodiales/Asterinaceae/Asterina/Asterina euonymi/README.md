@@ -1,5 +1,4 @@
-Asterina euonymi Hosag. & Goos SPECIES
-=======
+# Asterina euonymi Hosag. & Goos SPECIES
 
 #### Status
 ACCEPTED

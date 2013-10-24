@@ -1,5 +1,4 @@
-Mycosphaerella arachnoidea F.A. Wolf SPECIES
-=======
+# Mycosphaerella arachnoidea F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

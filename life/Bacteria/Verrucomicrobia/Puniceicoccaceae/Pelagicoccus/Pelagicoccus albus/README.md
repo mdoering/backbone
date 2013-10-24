@@ -1,5 +1,4 @@
-Pelagicoccus albus Yoon, Yasumoto-Hirose, Matsuo, Nozawa, Matsuda, Kasai & Yokota, 2007 SPECIES
-=======
+# Pelagicoccus albus Yoon, Yasumoto-Hirose, Matsuo, Nozawa, Matsuda, Kasai & Yokota, 2007 SPECIES
 
 #### Status
 ACCEPTED

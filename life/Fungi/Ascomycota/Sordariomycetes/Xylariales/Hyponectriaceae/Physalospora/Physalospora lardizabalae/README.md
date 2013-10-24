@@ -1,5 +1,4 @@
-Physalospora lardizabalae Speg. SPECIES
-=======
+# Physalospora lardizabalae Speg. SPECIES
 
 #### Status
 ACCEPTED

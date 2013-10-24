@@ -1,5 +1,4 @@
-Pseudoschlumbergerina Cherif, 1970 GENUS
-=======
+# Pseudoschlumbergerina Cherif, 1970 GENUS
 
 #### Status
 ACCEPTED

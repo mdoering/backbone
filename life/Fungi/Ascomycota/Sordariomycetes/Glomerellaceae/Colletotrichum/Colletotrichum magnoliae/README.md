@@ -1,5 +1,4 @@
-Colletotrichum magnoliae Sousa da Câmara SPECIES
-=======
+# Colletotrichum magnoliae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

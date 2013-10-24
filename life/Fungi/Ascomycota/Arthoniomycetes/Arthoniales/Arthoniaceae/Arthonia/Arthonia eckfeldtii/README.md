@@ -1,5 +1,4 @@
-Arthonia eckfeldtii Müll. Arg. SPECIES
-=======
+# Arthonia eckfeldtii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

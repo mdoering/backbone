@@ -1,5 +1,4 @@
-Sphaeria rauii Ellis & Everh. SPECIES
-=======
+# Sphaeria rauii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

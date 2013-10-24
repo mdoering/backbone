@@ -1,5 +1,4 @@
-Sphaerella solani Ellis & Everh. SPECIES
-=======
+# Sphaerella solani Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

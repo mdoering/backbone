@@ -1,5 +1,4 @@
-Psilosphaeria hanburiana (Penz. & Sacc.) Cooke SPECIES
-=======
+# Psilosphaeria hanburiana (Penz. & Sacc.) Cooke SPECIES
 
 #### Status
 ACCEPTED

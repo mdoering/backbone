@@ -1,5 +1,4 @@
-Tricholoma atroscriptum Corner SPECIES
-=======
+# Tricholoma atroscriptum Corner SPECIES
 
 #### Status
 ACCEPTED

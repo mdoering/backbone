@@ -1,5 +1,4 @@
-Dimerium gardeniicola (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Dimerium gardeniicola (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

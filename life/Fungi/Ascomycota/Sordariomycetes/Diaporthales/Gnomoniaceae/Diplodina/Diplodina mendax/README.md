@@ -1,5 +1,4 @@
-Diplodina mendax (Tassi) Sacc. & D. Sacc. SPECIES
-=======
+# Diplodina mendax (Tassi) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

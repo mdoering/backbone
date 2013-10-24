@@ -1,5 +1,4 @@
-Gonyaulax conjuncta Wood, 1954 SPECIES
-=======
+# Gonyaulax conjuncta Wood, 1954 SPECIES
 
 #### Status
 ACCEPTED

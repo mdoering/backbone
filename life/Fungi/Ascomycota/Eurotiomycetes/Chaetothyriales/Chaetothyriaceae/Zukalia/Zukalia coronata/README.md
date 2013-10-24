@@ -1,5 +1,4 @@
-Zukalia coronata Speg. SPECIES
-=======
+# Zukalia coronata Speg. SPECIES
 
 #### Status
 ACCEPTED

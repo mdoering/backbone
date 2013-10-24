@@ -1,5 +1,4 @@
-Marasmiellus phaeomarasmioides G. Moreno, Heykoop, Esteve-Rav. & E. Horak SPECIES
-=======
+# Marasmiellus phaeomarasmioides G. Moreno, Heykoop, Esteve-Rav. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

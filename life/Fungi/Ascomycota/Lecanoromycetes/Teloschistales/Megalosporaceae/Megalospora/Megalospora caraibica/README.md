@@ -1,5 +1,4 @@
-Megalospora caraibica Lücking SPECIES
-=======
+# Megalospora caraibica Lücking SPECIES
 
 #### Status
 ACCEPTED

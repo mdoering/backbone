@@ -1,5 +1,4 @@
-Agaricus aquatilis (Fr.) Fr. SPECIES
-=======
+# Agaricus aquatilis (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

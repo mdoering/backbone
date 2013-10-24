@@ -1,5 +1,4 @@
-Dictyopteris dichotoma (Kuntze) O. Schmidt SPECIES
-=======
+# Dictyopteris dichotoma (Kuntze) O. Schmidt SPECIES
 
 #### Status
 ACCEPTED

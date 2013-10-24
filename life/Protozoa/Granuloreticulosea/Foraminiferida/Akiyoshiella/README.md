@@ -1,5 +1,4 @@
-Akiyoshiella Toriyama, 1953 GENUS
-=======
+# Akiyoshiella Toriyama, 1953 GENUS
 
 #### Status
 ACCEPTED

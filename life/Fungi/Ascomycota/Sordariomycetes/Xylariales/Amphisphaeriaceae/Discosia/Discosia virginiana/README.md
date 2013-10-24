@@ -1,5 +1,4 @@
-Discosia virginiana Thüm. SPECIES
-=======
+# Discosia virginiana Thüm. SPECIES
 
 #### Status
 ACCEPTED

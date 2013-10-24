@@ -1,5 +1,4 @@
-Selenidioides fanthami Levine, 1971 SPECIES
-=======
+# Selenidioides fanthami Levine, 1971 SPECIES
 
 #### Status
 ACCEPTED

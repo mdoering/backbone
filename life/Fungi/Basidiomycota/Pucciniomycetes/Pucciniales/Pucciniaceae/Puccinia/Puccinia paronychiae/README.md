@@ -1,5 +1,4 @@
-Puccinia paronychiae Unamuno SPECIES
-=======
+# Puccinia paronychiae Unamuno SPECIES
 
 #### Status
 ACCEPTED

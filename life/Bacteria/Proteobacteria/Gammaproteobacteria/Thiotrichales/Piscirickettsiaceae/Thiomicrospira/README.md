@@ -1,5 +1,4 @@
-Thiomicrospira Kuenen & Veldkamp, 1972 GENUS
-=======
+# Thiomicrospira Kuenen & Veldkamp, 1972 GENUS
 
 #### Status
 ACCEPTED

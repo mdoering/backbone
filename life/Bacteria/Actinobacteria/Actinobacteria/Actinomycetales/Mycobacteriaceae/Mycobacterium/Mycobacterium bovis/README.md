@@ -1,5 +1,4 @@
-Mycobacterium bovis subsp. bovis Karlson & Lessel, 1970 SUBSPECIES
-=======
+# Mycobacterium bovis Karlson & Lessel, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo chamaecyparidis-nutkaensi Tubeuf SPECIES
-=======
+# Uredo chamaecyparidis-nutkaensi Tubeuf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius subvariiformis Bidaud SPECIES
-=======
+# Cortinarius subvariiformis Bidaud SPECIES
 
 #### Status
 ACCEPTED

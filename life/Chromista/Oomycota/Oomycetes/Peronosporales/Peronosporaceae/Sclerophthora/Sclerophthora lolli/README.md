@@ -1,5 +1,4 @@
-Sclerophthora lolli SPECIES
-=======
+# Sclerophthora lolli SPECIES
 
 #### Status
 ACCEPTED

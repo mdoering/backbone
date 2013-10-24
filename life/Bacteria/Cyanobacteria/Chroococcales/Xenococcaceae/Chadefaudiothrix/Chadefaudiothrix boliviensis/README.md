@@ -1,5 +1,4 @@
-Chadefaudiothrix boliviensis Y. Thérézien SPECIES
-=======
+# Chadefaudiothrix boliviensis Y. Thérézien SPECIES
 
 #### Status
 ACCEPTED

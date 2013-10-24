@@ -1,5 +1,4 @@
-Cercospora barrasii Gonz. Frag. SPECIES
-=======
+# Cercospora barrasii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

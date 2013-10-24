@@ -1,5 +1,4 @@
-Cladonia medusina (Bory) Nyl. SPECIES
-=======
+# Cladonia medusina (Bory) Nyl. SPECIES
 
 #### Status
 ACCEPTED

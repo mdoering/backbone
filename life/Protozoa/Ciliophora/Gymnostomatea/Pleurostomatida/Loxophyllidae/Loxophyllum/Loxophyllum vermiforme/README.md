@@ -1,8 +1,7 @@
-Lentophyllum vermiforme (Sauerbrey, 1928) Jankowski, 2007 SPECIES
-=======
+# Loxophyllum vermiforme Sauerbrey, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Chrysopora fenestrata Pascher SPECIES
-=======
+# Chrysopora fenestrata Pascher SPECIES
 
 #### Status
 ACCEPTED

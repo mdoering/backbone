@@ -1,5 +1,4 @@
-Russula heterospora var. heterospora VARIETY
-=======
+# Russula heterospora Beardslee SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 26: 259 (1934)
 
 #### Original name
-Russula heterospora var. heterospora
+Russula heterospora Beardslee
 
 ### Remarks
 null

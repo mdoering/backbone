@@ -1,5 +1,4 @@
-Acremonium verruculosum W. Gams & Veenb.-Rijks, 1971 SPECIES
-=======
+# Acremonium verruculosum W. Gams & Veenb.-Rijks, 1971 SPECIES
 
 #### Status
 ACCEPTED

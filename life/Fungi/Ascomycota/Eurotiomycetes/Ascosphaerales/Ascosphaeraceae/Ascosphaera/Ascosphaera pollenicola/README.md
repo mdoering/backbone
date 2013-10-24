@@ -1,5 +1,4 @@
-Ascosphaera pollenicola Bissett, 1988 SPECIES
-=======
+# Ascosphaera pollenicola Bissett, 1988 SPECIES
 
 #### Status
 ACCEPTED

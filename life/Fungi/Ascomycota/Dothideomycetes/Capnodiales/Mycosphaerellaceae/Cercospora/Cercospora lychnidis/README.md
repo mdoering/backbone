@@ -1,5 +1,4 @@
-Cercospora lychnidis H.C. Greene SPECIES
-=======
+# Cercospora lychnidis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protobagliettoa bagliettoiformis var. istriana (Servít) J. Nowak & Tobol. VARIETY
-=======
+# Protobagliettoa bagliettoiformis (Hazsl.) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria bagliettoiformis var. istriana Servít
+Verrucaria calciseda f. bagliettoaeformis Hazsl.
 
 ### Remarks
 null

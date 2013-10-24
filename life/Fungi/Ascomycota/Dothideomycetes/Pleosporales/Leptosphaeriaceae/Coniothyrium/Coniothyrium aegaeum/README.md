@@ -1,5 +1,4 @@
-Coniothyrium aegaeum Petr. SPECIES
-=======
+# Coniothyrium aegaeum Petr. SPECIES
 
 #### Status
 ACCEPTED

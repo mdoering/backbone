@@ -1,5 +1,4 @@
-Lyophyllum multiforme (Peck) H.E. Bigelow SPECIES
-=======
+# Lyophyllum multiforme (Peck) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictophacidium Rehm GENUS
-=======
+# Stictophacidium Rehm GENUS
 
 #### Status
 ACCEPTED

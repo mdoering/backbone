@@ -1,5 +1,4 @@
-Selenophoma subiculis (Clem.) Petr. & Syd. SPECIES
-=======
+# Selenophoma subiculis (Clem.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella ungnadiae Siemaszko SPECIES
-=======
+# Mycosphaerella ungnadiae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

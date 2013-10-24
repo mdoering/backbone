@@ -1,5 +1,4 @@
-Wojnowicia buxi Bertault & Malençon SPECIES
-=======
+# Wojnowicia buxi Bertault & Malençon SPECIES
 
 #### Status
 ACCEPTED

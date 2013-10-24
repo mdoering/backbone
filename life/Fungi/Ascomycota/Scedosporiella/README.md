@@ -1,5 +1,4 @@
-Scedosporiella Gilgado et al. {?} GENUS
-=======
+# Scedosporiella Gilgado et al. {?} GENUS
 
 #### Status
 ACCEPTED

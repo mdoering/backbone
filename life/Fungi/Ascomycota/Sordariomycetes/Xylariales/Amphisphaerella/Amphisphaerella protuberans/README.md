@@ -1,5 +1,4 @@
-Amphisphaerella protuberans (P. Karst.) Kirschst. SPECIES
-=======
+# Amphisphaerella protuberans (P. Karst.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

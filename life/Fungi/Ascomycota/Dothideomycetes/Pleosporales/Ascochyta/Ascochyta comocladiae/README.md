@@ -1,5 +1,4 @@
-Ascochyta comocladiae Gonz. Frag. & Cif. SPECIES
-=======
+# Ascochyta comocladiae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cosmospora lasiodiplodiae (Samuels) Rossman & Samuels SPECIES
-=======
+# Cosmospora lasiodiplodiae (Samuels) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

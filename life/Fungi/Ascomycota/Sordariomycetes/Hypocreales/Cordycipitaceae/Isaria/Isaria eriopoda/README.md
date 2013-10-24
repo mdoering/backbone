@@ -1,5 +1,4 @@
-Isaria eriopoda Syd. SPECIES
-=======
+# Isaria eriopoda Syd. SPECIES
 
 #### Status
 ACCEPTED

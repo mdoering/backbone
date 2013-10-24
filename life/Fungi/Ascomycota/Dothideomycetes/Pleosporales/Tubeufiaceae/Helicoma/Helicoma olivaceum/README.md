@@ -1,17 +1,16 @@
-Helicopsis olivaceus P. Karst. SPECIES
-=======
+# Helicoma olivaceum (P. Karst.) Linder, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 16: 302 (1929)
 
 #### Original name
-Helicopsis olivaceus P. Karst.
+Helicopsis olivacea P. Karst., 1889
 
 ### Remarks
 null

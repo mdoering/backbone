@@ -1,17 +1,16 @@
-Lepraria diffusa var. diffusa VARIETY
-=======
+# Lepraria diffusa (J. R. Laundon) Kukwa SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. bot. fenn. 39(3): 226 (2002)
+null
 
 #### Original name
-Leproloma diffusum J. R. Laundon
+null
 
 ### Remarks
 null

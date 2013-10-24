@@ -1,5 +1,4 @@
-Toninia olivaceoatra H. Magn. SPECIES
-=======
+# Toninia olivaceoatra H. Magn. SPECIES
 
 #### Status
 ACCEPTED

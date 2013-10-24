@@ -1,5 +1,4 @@
-Clitocybe pungens H.E. Bigelow SPECIES
-=======
+# Clitocybe pungens H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

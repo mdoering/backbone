@@ -1,5 +1,4 @@
-Arthopyrenia sarothamni Berdau SPECIES
-=======
+# Arthopyrenia sarothamni Berdau SPECIES
 
 #### Status
 ACCEPTED

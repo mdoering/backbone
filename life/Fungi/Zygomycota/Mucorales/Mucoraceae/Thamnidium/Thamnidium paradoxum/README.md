@@ -1,5 +1,4 @@
-Thamnidium paradoxum (Berk. & M.A. Curtis) Berl. & De Toni SPECIES
-=======
+# Thamnidium paradoxum (Berk. & M.A. Curtis) Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

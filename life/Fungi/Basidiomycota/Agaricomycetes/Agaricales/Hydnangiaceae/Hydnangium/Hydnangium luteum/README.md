@@ -1,5 +1,4 @@
-Hydnangium luteum (R. Hesse) Zeller & C.W. Dodge SPECIES
-=======
+# Hydnangium luteum (R. Hesse) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella delphinii Earle, 1904 SPECIES
-=======
+# Didymella delphinii Earle, 1904 SPECIES
 
 #### Status
 ACCEPTED

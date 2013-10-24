@@ -1,5 +1,4 @@
-Clathrosporium delicatum Hennebert SPECIES
-=======
+# Clathrosporium delicatum Hennebert SPECIES
 
 #### Status
 ACCEPTED

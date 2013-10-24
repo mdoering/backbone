@@ -1,5 +1,4 @@
-Amidella fulvopulverulenta (Beeli) E.-J. Gilbert SPECIES
-=======
+# Amidella fulvopulverulenta (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

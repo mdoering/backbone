@@ -1,5 +1,4 @@
-Phacus tricostatus Conrad SPECIES
-=======
+# Phacus tricostatus Conrad SPECIES
 
 #### Status
 ACCEPTED

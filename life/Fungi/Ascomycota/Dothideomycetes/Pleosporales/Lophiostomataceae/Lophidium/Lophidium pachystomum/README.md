@@ -1,5 +1,4 @@
-Lophidium pachystomum Ellis & Everh. SPECIES
-=======
+# Lophidium pachystomum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

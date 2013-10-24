@@ -1,5 +1,4 @@
-Calycellina obscura (Raitv.) Raitv. SPECIES
-=======
+# Calycellina obscura (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

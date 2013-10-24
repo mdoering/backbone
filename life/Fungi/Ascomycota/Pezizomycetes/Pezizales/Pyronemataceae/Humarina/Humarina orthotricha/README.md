@@ -1,5 +1,4 @@
-Humarina orthotricha (Cooke & Ellis) Seaver SPECIES
-=======
+# Humarina orthotricha (Cooke & Ellis) Seaver SPECIES
 
 #### Status
 ACCEPTED

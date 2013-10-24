@@ -1,5 +1,4 @@
-Cystoderma ferruginosum (Bres.) Pegler SPECIES
-=======
+# Cystoderma ferruginosum (Bres.) Pegler SPECIES
 
 #### Status
 ACCEPTED

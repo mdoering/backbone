@@ -1,5 +1,4 @@
-Secuicollacta Nazarov & Ormiston, 1984 GENUS
-=======
+# Secuicollacta Nazarov & Ormiston, 1984 GENUS
 
 #### Status
 ACCEPTED

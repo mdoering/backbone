@@ -1,5 +1,4 @@
-Plicaria chaignoni Pat. SPECIES
-=======
+# Plicaria chaignoni Pat. SPECIES
 
 #### Status
 ACCEPTED

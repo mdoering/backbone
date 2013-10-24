@@ -1,5 +1,4 @@
-Puccinia chelonis Dietel & Holw. SPECIES
-=======
+# Puccinia chelonis Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

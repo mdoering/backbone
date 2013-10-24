@@ -1,5 +1,4 @@
-Lecanactis werneri (Faurel, Ozenda & Schotter) Egea & Torrente SPECIES
-=======
+# Lecanactis werneri (Faurel, Ozenda & Schotter) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

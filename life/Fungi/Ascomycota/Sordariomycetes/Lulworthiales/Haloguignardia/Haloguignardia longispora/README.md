@@ -1,5 +1,4 @@
-Haloguignardia longispora Cribb & J.W. Cribb, 1956 SPECIES
-=======
+# Haloguignardia longispora Cribb & J.W. Cribb, 1956 SPECIES
 
 #### Status
 ACCEPTED

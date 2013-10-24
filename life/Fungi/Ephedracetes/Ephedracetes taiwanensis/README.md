@@ -1,5 +1,4 @@
-Ephedracetes taiwanensis T.C. Huang SPECIES
-=======
+# Ephedracetes taiwanensis T.C. Huang SPECIES
 
 #### Status
 ACCEPTED

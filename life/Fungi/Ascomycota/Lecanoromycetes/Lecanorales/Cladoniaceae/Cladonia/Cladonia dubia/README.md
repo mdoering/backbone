@@ -1,5 +1,4 @@
-Cladonia dubia Abbayes SPECIES
-=======
+# Cladonia dubia Abbayes SPECIES
 
 #### Status
 ACCEPTED

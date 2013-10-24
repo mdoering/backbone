@@ -1,5 +1,4 @@
-Dictyastromma Haeckel, 1887 GENUS
-=======
+# Dictyastromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perforaria cucurbitula f. cucurbitula FORM
-=======
+# Coccotrema cucurbitula (Mont.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nuovo Giorn. Bot. Ital. 21: 51 (1889)
 
 #### Original name
-Perforaria cucurbitula f. cucurbitula
+Pertusaria cucurbitula Mont.
 
 ### Remarks
 null

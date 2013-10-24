@@ -1,14 +1,13 @@
-Karschia athallina (Müll. Arg.) Vouaux SPECIES
-=======
+# Dactylospora athallina (Müll. Arg.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 10: 56 (1892)
+Beih. Nova Hedwigia 62: 99 (1979)
 
 #### Original name
 Buellia athallina H. Magn.

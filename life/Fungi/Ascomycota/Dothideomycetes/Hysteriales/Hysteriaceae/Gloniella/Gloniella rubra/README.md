@@ -1,5 +1,4 @@
-Gloniella rubra F. Stevens SPECIES
-=======
+# Gloniella rubra F. Stevens SPECIES
 
 #### Status
 ACCEPTED

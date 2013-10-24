@@ -1,5 +1,4 @@
-Meliola laxa var. laxa VARIETY
-=======
+# Meliola laxa Gaillard SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Soc. mycol. Fr. 8: 179 (1892)
 
 #### Original name
-Meliola laxa var. laxa
+Meliola laxa Gaillard
 
 ### Remarks
 null

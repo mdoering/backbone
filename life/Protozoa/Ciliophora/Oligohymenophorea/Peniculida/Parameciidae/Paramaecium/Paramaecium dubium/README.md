@@ -1,5 +1,4 @@
-Paramaecium dubium Bory SPECIES
-=======
+# Paramaecium dubium Bory SPECIES
 
 #### Status
 ACCEPTED

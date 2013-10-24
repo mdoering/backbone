@@ -1,5 +1,4 @@
-Saccharomyces mellacei A. Jörg. SPECIES
-=======
+# Saccharomyces mellacei A. Jörg. SPECIES
 
 #### Status
 ACCEPTED

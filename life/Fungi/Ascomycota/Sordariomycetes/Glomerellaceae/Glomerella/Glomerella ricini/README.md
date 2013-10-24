@@ -1,5 +1,4 @@
-Glomerella ricini Hemmi & Matuo SPECIES
-=======
+# Glomerella ricini Hemmi & Matuo SPECIES
 
 #### Status
 ACCEPTED

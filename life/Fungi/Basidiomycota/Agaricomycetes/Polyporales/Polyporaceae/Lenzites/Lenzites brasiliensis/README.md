@@ -1,5 +1,4 @@
-Lenzites brasiliensis Mont. SPECIES
-=======
+# Lenzites brasiliensis Mont. SPECIES
 
 #### Status
 ACCEPTED

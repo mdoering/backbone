@@ -1,17 +1,16 @@
-Erythrocarpum Sacc. GENUS
-=======
+# Erythrocarpon Zukal GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wien 35: 337 (1885)
 
 #### Original name
-Erythrocarpum Sacc.
+Erythrocarpon Zukal
 
 ### Remarks
 null

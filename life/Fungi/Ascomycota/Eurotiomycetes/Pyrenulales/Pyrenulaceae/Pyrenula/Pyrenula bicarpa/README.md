@@ -1,5 +1,4 @@
-Pyrenula bicarpa Upreti SPECIES
-=======
+# Pyrenula bicarpa Upreti SPECIES
 
 #### Status
 ACCEPTED

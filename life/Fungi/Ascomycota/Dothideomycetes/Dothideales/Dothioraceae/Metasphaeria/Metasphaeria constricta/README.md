@@ -1,5 +1,4 @@
-Metasphaeria constricta Bres. SPECIES
-=======
+# Metasphaeria constricta Bres. SPECIES
 
 #### Status
 ACCEPTED

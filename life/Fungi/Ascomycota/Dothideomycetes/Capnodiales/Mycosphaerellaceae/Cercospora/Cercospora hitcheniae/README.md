@@ -1,5 +1,4 @@
-Cercospora hitcheniae Chidd. SPECIES
-=======
+# Cercospora hitcheniae Chidd. SPECIES
 
 #### Status
 ACCEPTED

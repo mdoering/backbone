@@ -1,5 +1,4 @@
-Helotium titubans Mont. SPECIES
-=======
+# Helotium titubans Mont. SPECIES
 
 #### Status
 ACCEPTED

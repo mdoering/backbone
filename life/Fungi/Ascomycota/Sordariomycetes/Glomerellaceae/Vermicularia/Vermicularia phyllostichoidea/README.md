@@ -1,5 +1,4 @@
-Vermicularia phyllostichoidea Speg. SPECIES
-=======
+# Vermicularia phyllostichoidea Speg. SPECIES
 
 #### Status
 ACCEPTED

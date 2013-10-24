@@ -1,5 +1,4 @@
-Anaptychia dendritica f. dendritica FORM
-=======
+# Anaptychia dendritica SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 7(1): 134 (1890)
+null
 
 #### Original name
-Anaptychia dendritica f. dendritica
+null
 
 ### Remarks
 null

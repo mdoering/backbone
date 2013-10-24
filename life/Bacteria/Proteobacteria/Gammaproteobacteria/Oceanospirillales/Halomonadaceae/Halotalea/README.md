@@ -1,5 +1,4 @@
-Halotalea Ntougias et al., 2007 GENUS
-=======
+# Halotalea Ntougias et al., 2007 GENUS
 
 #### Status
 ACCEPTED

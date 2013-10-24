@@ -1,5 +1,4 @@
-Sericeocybe GENUS
-=======
+# Sericeocybe GENUS
 
 #### Status
 ACCEPTED

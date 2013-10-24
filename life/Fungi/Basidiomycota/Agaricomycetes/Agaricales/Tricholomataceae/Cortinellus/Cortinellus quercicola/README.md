@@ -1,5 +1,4 @@
-Cortinellus quercicola Murrill SPECIES
-=======
+# Cortinellus quercicola Murrill SPECIES
 
 #### Status
 ACCEPTED

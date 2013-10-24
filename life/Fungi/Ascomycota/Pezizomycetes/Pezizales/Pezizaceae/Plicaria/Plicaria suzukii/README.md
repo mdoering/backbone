@@ -1,5 +1,4 @@
-Plicaria suzukii Henn. SPECIES
-=======
+# Plicaria suzukii Henn. SPECIES
 
 #### Status
 ACCEPTED

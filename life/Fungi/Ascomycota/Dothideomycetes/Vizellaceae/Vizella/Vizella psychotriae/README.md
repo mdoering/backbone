@@ -1,5 +1,4 @@
-Vizella psychotriae Bat. & Peres SPECIES
-=======
+# Vizella psychotriae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

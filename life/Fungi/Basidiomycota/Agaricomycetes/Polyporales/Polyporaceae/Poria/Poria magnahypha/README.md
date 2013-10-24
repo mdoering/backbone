@@ -1,5 +1,4 @@
-Poria magnahypha Overh. SPECIES
-=======
+# Poria magnahypha Overh. SPECIES
 
 #### Status
 ACCEPTED

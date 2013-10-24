@@ -1,5 +1,4 @@
-Trichosporium collae (Link) Sacc. SPECIES
-=======
+# Trichosporium collae (Link) Sacc. SPECIES
 
 #### Status
 ACCEPTED

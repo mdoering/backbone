@@ -1,5 +1,4 @@
-Puccinia erianthi Padwick & A. Khan SPECIES
-=======
+# Puccinia erianthi Padwick & A. Khan SPECIES
 
 #### Status
 ACCEPTED

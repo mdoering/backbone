@@ -1,5 +1,4 @@
-Inocybe indissimilis (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe indissimilis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

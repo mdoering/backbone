@@ -1,5 +1,4 @@
-Polyblastia croceae (Bagl. & Carestia) H. Olivier SPECIES
-=======
+# Polyblastia croceae (Bagl. & Carestia) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

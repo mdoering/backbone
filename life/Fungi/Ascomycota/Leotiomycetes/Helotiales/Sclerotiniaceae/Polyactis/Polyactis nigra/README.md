@@ -1,5 +1,4 @@
-Polyactis nigra Bonord. SPECIES
-=======
+# Polyactis nigra Bonord. SPECIES
 
 #### Status
 ACCEPTED

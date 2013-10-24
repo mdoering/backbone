@@ -1,5 +1,4 @@
-Pseudopeltis perminuta L. Holm & K. Holm SPECIES
-=======
+# Pseudopeltis perminuta L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

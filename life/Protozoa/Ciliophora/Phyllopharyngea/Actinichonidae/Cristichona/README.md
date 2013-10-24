@@ -1,5 +1,4 @@
-Cristichona Jankovskii, 1973 GENUS
-=======
+# Cristichona Jankovskii, 1973 GENUS
 
 #### Status
 ACCEPTED

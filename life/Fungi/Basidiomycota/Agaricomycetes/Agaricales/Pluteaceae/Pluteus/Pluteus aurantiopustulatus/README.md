@@ -1,5 +1,4 @@
-Pluteus aurantiopustulatus E. Horak SPECIES
-=======
+# Pluteus aurantiopustulatus E. Horak SPECIES
 
 #### Status
 ACCEPTED

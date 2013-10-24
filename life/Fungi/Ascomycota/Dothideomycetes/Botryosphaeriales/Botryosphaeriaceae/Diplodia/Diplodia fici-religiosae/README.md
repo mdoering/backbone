@@ -1,5 +1,4 @@
-Diplodia fici-religiosae S. Ahmad SPECIES
-=======
+# Diplodia fici-religiosae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

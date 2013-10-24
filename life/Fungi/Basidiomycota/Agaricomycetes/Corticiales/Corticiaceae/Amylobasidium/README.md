@@ -1,5 +1,4 @@
-Amylobasidium Ginns GENUS
-=======
+# Amylobasidium Ginns GENUS
 
 #### Status
 ACCEPTED

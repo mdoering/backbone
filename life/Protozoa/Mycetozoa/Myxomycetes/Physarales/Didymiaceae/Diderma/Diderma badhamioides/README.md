@@ -1,17 +1,16 @@
-Diderma badhamioid K.S. Thind SPECIES
-=======
+# Diderma badhamioides K.S. Thind, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Myxomycetes of India (New Delhi) 315 (1977)
 
 #### Original name
-Diderma badhamioid K.S. Thind
+Diderma badhamioides K.S. Thind, 1977
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trachelomonas cinkotaã«nsis Hortobagy SPECIES
-=======
+# Trachelomonas cinkotaã«nsis Hortobagy SPECIES
 
 #### Status
 ACCEPTED

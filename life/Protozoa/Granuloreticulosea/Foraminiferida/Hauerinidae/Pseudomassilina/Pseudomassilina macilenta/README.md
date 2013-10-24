@@ -1,5 +1,4 @@
-Pseudomassilina macilenta var. earlandi Lacroix, 1938 VARIETY
-=======
+# Pseudomassilina macilenta (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

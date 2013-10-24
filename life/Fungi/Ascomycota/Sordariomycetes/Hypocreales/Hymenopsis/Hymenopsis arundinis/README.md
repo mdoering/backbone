@@ -1,5 +1,4 @@
-Hymenopsis arundinis (Fr.) Sacc. SPECIES
-=======
+# Hymenopsis arundinis (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

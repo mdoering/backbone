@@ -1,5 +1,4 @@
-Lactarius albus Thiers SPECIES
-=======
+# Lactarius albus Thiers SPECIES
 
 #### Status
 ACCEPTED

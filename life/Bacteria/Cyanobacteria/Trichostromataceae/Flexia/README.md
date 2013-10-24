@@ -1,5 +1,4 @@
-Flexia A.G. Vologdin, 1962 GENUS
-=======
+# Flexia A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

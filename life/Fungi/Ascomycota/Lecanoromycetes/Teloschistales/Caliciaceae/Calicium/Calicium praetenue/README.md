@@ -1,5 +1,4 @@
-Calicium praetenue F. Wilson SPECIES
-=======
+# Calicium praetenue F. Wilson SPECIES
 
 #### Status
 ACCEPTED

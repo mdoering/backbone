@@ -1,5 +1,4 @@
-Rhizomorpha formicarum Speg. SPECIES
-=======
+# Rhizomorpha formicarum Speg. SPECIES
 
 #### Status
 ACCEPTED

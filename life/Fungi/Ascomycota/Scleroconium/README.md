@@ -1,5 +1,4 @@
-Scleroconium Syd. GENUS
-=======
+# Scleroconium Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyangium flavum Kofler SPECIES
-=======
+# Polyangium flavum Kofler SPECIES
 
 #### Status
 ACCEPTED

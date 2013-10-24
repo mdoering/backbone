@@ -1,5 +1,4 @@
-Polycauliona ambitiosa (Darb.) Hue SPECIES
-=======
+# Polycauliona ambitiosa (Darb.) Hue SPECIES
 
 #### Status
 ACCEPTED

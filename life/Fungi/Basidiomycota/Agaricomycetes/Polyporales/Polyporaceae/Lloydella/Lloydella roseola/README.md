@@ -1,5 +1,4 @@
-Lloydella roseola Rick SPECIES
-=======
+# Lloydella roseola Rick SPECIES
 
 #### Status
 ACCEPTED

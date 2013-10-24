@@ -1,5 +1,4 @@
-Odontotrema pertusariae Etayo, Diederich & Coppins SPECIES
-=======
+# Odontotrema pertusariae Etayo, Diederich & Coppins SPECIES
 
 #### Status
 ACCEPTED

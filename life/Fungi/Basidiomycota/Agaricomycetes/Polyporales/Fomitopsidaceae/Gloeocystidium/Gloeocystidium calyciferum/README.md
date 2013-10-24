@@ -1,5 +1,4 @@
-Gloeocystidium calyciferum Litsch. SPECIES
-=======
+# Gloeocystidium calyciferum Litsch. SPECIES
 
 #### Status
 ACCEPTED

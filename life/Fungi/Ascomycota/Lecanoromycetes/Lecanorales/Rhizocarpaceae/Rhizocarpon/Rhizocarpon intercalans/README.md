@@ -1,5 +1,4 @@
-Rhizocarpon intercalans (Nyl.) SPECIES
-=======
+# Rhizocarpon intercalans (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

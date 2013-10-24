@@ -1,5 +1,4 @@
-Diplosclerophoma GENUS
-=======
+# Diplosclerophoma GENUS
 
 #### Status
 ACCEPTED

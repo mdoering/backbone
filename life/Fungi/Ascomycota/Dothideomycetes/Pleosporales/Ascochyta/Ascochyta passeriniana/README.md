@@ -1,5 +1,4 @@
-Ascochyta passeriniana Died. SPECIES
-=======
+# Ascochyta passeriniana Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Valsa curreyi Nitschke, 1870 SPECIES
-=======
+# Leucostoma curreyi (Nitschke) Défago, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pyrenomycetes Germanici 2: 202 (1870)
+Phytopath. Z. 14: 130 (1942)
 
 #### Original name
 Valsa curreyi Nitschke, 1870

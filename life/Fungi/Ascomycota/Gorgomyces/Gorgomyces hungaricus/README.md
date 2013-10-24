@@ -1,5 +1,4 @@
-Gorgomyces hungaricus J. Gönczöl & Révay, 1985 SPECIES
-=======
+# Gorgomyces hungaricus J. Gönczöl & Révay, 1985 SPECIES
 
 #### Status
 ACCEPTED

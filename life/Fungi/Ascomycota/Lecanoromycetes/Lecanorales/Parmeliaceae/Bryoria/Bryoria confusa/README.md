@@ -1,5 +1,4 @@
-Bryoria confusa (D.D. Awasthi) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria confusa (D.D. Awasthi) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

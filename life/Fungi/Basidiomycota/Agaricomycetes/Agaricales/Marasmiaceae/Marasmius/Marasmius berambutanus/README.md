@@ -1,5 +1,4 @@
-Marasmius berambutanus Desjardin, Retn. & E. Horak SPECIES
-=======
+# Marasmius berambutanus Desjardin, Retn. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

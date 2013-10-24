@@ -1,17 +1,16 @@
-Aleuria emileia var. emileia VARIETY
-=======
+# Aleuria emileia SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Aleuria emileia var. emileia
+null
 
 ### Remarks
 null

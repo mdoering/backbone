@@ -1,14 +1,13 @@
-Actinonema aquilegiae (Roum. & Pat.) Grove, 1918 SPECIES
-=======
+# Ascochyta aquilegiae (Roum. & Pat.) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 56: 343 (1918)
+Syll. fung. (Abellini) 3: 406 (1884)
 
 #### Original name
 Phyllosticta aquilegiae Roum. & Pat., 1883

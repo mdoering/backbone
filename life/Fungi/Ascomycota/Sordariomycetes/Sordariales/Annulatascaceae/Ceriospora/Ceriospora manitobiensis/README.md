@@ -1,5 +1,4 @@
-Ceriospora manitobiensis Dearn. & Bisby SPECIES
-=======
+# Ceriospora manitobiensis Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

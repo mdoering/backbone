@@ -1,5 +1,4 @@
-Conocybe fiorii (D. Sacc.) Watling SPECIES
-=======
+# Conocybe fiorii (D. Sacc.) Watling SPECIES
 
 #### Status
 ACCEPTED

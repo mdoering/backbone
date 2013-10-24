@@ -1,5 +1,4 @@
-Amylascus berbertianus SPECIES
-=======
+# Amylascus berbertianus SPECIES
 
 #### Status
 ACCEPTED

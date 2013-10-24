@@ -1,5 +1,4 @@
-Endochytrium digitatum Karling, 1938 SPECIES
-=======
+# Endochytrium digitatum Karling, 1938 SPECIES
 
 #### Status
 ACCEPTED

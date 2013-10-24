@@ -1,5 +1,4 @@
-Glyphis lepida Kremp. SPECIES
-=======
+# Glyphis lepida Kremp. SPECIES
 
 #### Status
 ACCEPTED

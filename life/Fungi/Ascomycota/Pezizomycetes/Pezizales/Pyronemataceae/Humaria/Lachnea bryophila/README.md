@@ -1,5 +1,4 @@
-Lachnea bryophila (Clem.) Sacc. & P. Syd. SPECIES
-=======
+# Lachnea bryophila (Clem.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

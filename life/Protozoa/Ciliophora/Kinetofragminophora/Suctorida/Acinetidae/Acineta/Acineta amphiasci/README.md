@@ -1,5 +1,4 @@
-Acineta amphiasci Precht, 1935 SPECIES
-=======
+# Acineta amphiasci Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

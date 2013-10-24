@@ -1,5 +1,4 @@
-Sarcina flava ined. SPECIES
-=======
+# Sarcina flava ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Eutorulopsis dubia var. portoricensis Cif., 1931 VARIETY
-=======
+# Rhodotorula mucilaginosa (A. Jörg.) F.C. Harrison, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. & Trans. Roy. Soc. Canada, ser. 3 21(5): 349 (1928)
 
 #### Original name
 null

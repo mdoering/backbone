@@ -1,5 +1,4 @@
-Gloeocapsa kuetzingiana Nägeli SPECIES
-=======
+# Gloeocapsa kuetzingiana Nägeli SPECIES
 
 #### Status
 ACCEPTED

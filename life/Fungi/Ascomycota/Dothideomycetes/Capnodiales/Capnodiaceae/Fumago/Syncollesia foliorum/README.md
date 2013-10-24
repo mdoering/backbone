@@ -1,5 +1,4 @@
-Syncollesia foliorum C. Agardh SPECIES
-=======
+# Syncollesia foliorum C. Agardh SPECIES
 
 #### Status
 ACCEPTED

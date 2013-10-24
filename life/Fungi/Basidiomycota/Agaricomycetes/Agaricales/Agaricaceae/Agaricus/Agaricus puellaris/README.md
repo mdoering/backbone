@@ -1,5 +1,4 @@
-Agaricus puellaris Fr. SPECIES
-=======
+# Agaricus puellaris Fr. SPECIES
 
 #### Status
 ACCEPTED

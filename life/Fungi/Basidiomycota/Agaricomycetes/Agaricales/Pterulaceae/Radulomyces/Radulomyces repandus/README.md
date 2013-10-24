@@ -1,5 +1,4 @@
-Radulomyces repandus (Fr.) Boidin & Des Pomeys SPECIES
-=======
+# Radulomyces repandus (Fr.) Boidin & Des Pomeys SPECIES
 
 #### Status
 ACCEPTED

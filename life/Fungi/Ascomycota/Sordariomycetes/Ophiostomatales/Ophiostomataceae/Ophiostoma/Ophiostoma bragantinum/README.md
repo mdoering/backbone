@@ -1,5 +1,4 @@
-Ophiostoma bragantinum Pfenning & Oberw., 1993 SPECIES
-=======
+# Ophiostoma bragantinum Pfenning & Oberw., 1993 SPECIES
 
 #### Status
 ACCEPTED

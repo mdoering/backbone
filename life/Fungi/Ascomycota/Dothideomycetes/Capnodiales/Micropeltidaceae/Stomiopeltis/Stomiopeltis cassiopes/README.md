@@ -1,5 +1,4 @@
-Stomiopeltis cassiopes L. Holm SPECIES
-=======
+# Stomiopeltis cassiopes L. Holm SPECIES
 
 #### Status
 ACCEPTED

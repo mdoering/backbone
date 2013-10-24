@@ -1,5 +1,4 @@
-Pluteus circumscissus Singer SPECIES
-=======
+# Pluteus circumscissus Singer SPECIES
 
 #### Status
 ACCEPTED

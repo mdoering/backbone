@@ -1,5 +1,4 @@
-Aphanothece catagnei SPECIES
-=======
+# Aphanothece catagnei SPECIES
 
 #### Status
 ACCEPTED

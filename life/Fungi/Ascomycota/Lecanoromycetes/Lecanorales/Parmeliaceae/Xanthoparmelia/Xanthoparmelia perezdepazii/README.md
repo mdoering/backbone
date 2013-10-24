@@ -1,5 +1,4 @@
-Xanthoparmelia perezdepazii Pérez-Vargas, Hern.-Padr. & Elix SPECIES
-=======
+# Xanthoparmelia perezdepazii Pérez-Vargas, Hern.-Padr. & Elix SPECIES
 
 #### Status
 ACCEPTED

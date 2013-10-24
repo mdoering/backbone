@@ -1,5 +1,4 @@
-Lepiota aspratella Murrill SPECIES
-=======
+# Lepiota aspratella Murrill SPECIES
 
 #### Status
 ACCEPTED

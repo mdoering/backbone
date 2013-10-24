@@ -1,5 +1,4 @@
-Valvulina pupa d'Orbigny, 1850 SPECIES
-=======
+# Valvulina pupa d'Orbigny, 1850 SPECIES
 
 #### Status
 ACCEPTED

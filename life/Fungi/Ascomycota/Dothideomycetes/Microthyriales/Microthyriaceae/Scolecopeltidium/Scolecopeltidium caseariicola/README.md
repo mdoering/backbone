@@ -1,5 +1,4 @@
-Scolecopeltidium caseariicola Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium caseariicola Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

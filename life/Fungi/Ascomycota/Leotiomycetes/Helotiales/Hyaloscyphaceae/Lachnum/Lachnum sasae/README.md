@@ -1,5 +1,4 @@
-Lachnum sasae Raitv. SPECIES
-=======
+# Lachnum sasae Raitv. SPECIES
 
 #### Status
 ACCEPTED

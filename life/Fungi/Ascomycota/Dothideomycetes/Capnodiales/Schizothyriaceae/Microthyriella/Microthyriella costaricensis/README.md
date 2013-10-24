@@ -1,5 +1,4 @@
-Microthyriella costaricensis Syd. SPECIES
-=======
+# Microthyriella costaricensis Syd. SPECIES
 
 #### Status
 ACCEPTED

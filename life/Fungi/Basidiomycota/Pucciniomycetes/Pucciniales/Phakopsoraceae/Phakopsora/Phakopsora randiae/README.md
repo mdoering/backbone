@@ -1,5 +1,4 @@
-Phakopsora randiae F. Kern & Thurst. SPECIES
-=======
+# Phakopsora randiae F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

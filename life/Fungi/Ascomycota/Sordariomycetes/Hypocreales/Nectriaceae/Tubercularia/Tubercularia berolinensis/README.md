@@ -1,5 +1,4 @@
-Tubercularia berolinensis (Wollenw.) Rossman SPECIES
-=======
+# Tubercularia berolinensis (Wollenw.) Rossman SPECIES
 
 #### Status
 ACCEPTED

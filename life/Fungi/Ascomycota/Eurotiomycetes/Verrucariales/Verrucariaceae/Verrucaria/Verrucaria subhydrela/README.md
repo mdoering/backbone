@@ -1,5 +1,4 @@
-Verrucaria subhydrela Servít SPECIES
-=======
+# Verrucaria subhydrela Servít SPECIES
 
 #### Status
 ACCEPTED

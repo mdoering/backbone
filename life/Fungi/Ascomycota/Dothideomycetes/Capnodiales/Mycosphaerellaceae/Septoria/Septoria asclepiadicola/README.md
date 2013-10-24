@@ -1,5 +1,4 @@
-Septoria asclepiadicola f. asclepiadicola FORM
-=======
+# Septoria asclepiadicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Mycol. 4(4-5): 44 (1888)
 
 #### Original name
-Septoria asclepiadicola f. asclepiadicola
+Septoria asclepiadicola Ellis & Everh.
 
 ### Remarks
 null

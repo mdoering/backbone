@@ -1,14 +1,13 @@
-Cryptospora bambusae Speg. SPECIES
-=======
+# Pleocryptospora bambusae (Speg.) J. Reid & C. Booth, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 19(1): 35 (1885)
+Can. J. Bot. 47: 1055 (1969)
 
 #### Original name
 Cryptospora bambusae Speg.

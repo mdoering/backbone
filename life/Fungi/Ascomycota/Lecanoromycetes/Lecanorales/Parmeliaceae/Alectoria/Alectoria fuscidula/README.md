@@ -1,5 +1,4 @@
-Alectoria fuscidula (Arnold) Vain. SPECIES
-=======
+# Alectoria fuscidula (Arnold) Vain. SPECIES
 
 #### Status
 ACCEPTED

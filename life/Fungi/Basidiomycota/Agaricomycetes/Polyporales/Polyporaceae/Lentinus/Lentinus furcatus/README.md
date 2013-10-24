@@ -1,5 +1,4 @@
-Lentinus furcatus Berk. & Cooke SPECIES
-=======
+# Lentinus furcatus Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

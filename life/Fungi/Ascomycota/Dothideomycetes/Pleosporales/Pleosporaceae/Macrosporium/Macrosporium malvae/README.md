@@ -1,5 +1,4 @@
-Macrosporium malvae Thüm. SPECIES
-=======
+# Macrosporium malvae Thüm. SPECIES
 
 #### Status
 ACCEPTED

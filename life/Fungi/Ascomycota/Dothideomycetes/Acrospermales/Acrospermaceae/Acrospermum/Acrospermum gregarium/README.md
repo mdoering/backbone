@@ -1,5 +1,4 @@
-Acrospermum gregarium Hazsl. SPECIES
-=======
+# Acrospermum gregarium Hazsl. SPECIES
 
 #### Status
 ACCEPTED

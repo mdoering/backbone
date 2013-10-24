@@ -1,5 +1,4 @@
-Lactarius zonarioides Kühner & Romagn. SPECIES
-=======
+# Lactarius zonarioides Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

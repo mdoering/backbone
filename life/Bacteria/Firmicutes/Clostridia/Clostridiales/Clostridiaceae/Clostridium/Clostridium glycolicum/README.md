@@ -1,5 +1,4 @@
-Clostridium glycolicum Gaston and Stadtman, 1963 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium glycolicum Gaston and Stadtman, 1963 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

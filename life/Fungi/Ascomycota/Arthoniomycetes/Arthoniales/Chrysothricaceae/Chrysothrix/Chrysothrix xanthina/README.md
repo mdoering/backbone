@@ -1,5 +1,4 @@
-Chrysothrix xanthina (Vain.) Kalb SPECIES
-=======
+# Chrysothrix xanthina (Vain.) Kalb SPECIES
 
 #### Status
 ACCEPTED

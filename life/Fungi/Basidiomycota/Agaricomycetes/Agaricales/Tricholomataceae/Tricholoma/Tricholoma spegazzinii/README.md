@@ -1,5 +1,4 @@
-Tricholoma spegazzinii Sacc. & D. Sacc. SPECIES
-=======
+# Tricholoma spegazzinii Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

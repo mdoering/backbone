@@ -1,14 +1,13 @@
-Gnomonia depressula P. Karst., 1873 SPECIES
-=======
+# Sydowiella depressula (P. Karst.) M.E. Barr, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 23: 121 (1873)
+Mycol. Mem. 7: 159 (1978)
 
 #### Original name
 Gnomonia depressula P. Karst., 1873

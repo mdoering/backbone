@@ -1,5 +1,4 @@
-Coprinus laniger Peck SPECIES
-=======
+# Coprinus laniger Peck SPECIES
 
 #### Status
 ACCEPTED

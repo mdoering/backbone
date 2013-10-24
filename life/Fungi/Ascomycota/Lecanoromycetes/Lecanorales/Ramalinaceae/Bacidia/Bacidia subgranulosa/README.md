@@ -1,5 +1,4 @@
-Bacidia subgranulosa (Tuck.) Riddle SPECIES
-=======
+# Bacidia subgranulosa (Tuck.) Riddle SPECIES
 
 #### Status
 ACCEPTED

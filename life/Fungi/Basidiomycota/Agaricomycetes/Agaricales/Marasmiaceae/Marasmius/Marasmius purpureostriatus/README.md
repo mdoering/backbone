@@ -1,5 +1,4 @@
-Marasmius purpureostriatus Hongo SPECIES
-=======
+# Marasmius purpureostriatus Hongo SPECIES
 
 #### Status
 ACCEPTED

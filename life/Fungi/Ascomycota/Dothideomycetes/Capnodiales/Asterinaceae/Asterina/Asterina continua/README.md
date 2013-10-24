@@ -1,5 +1,4 @@
-Asterina continua (Syd. & P. Syd.) J.P. Ellis SPECIES
-=======
+# Asterina continua (Syd. & P. Syd.) J.P. Ellis SPECIES
 
 #### Status
 ACCEPTED

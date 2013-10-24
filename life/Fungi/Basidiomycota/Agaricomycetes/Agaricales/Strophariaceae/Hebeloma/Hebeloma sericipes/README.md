@@ -1,5 +1,4 @@
-Hebeloma sericipes Earle SPECIES
-=======
+# Hebeloma sericipes Earle SPECIES
 
 #### Status
 ACCEPTED

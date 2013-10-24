@@ -1,5 +1,4 @@
-Nodotia GENUS
-=======
+# Nodotia GENUS
 
 #### Status
 ACCEPTED

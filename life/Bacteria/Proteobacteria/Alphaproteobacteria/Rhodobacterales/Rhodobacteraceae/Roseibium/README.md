@@ -1,5 +1,4 @@
-Roseibium Suzuki et al., 2000 GENUS
-=======
+# Roseibium Suzuki et al., 2000 GENUS
 
 #### Status
 ACCEPTED

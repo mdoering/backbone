@@ -1,5 +1,4 @@
-Phylloporus cingulatus Corner SPECIES
-=======
+# Phylloporus cingulatus Corner SPECIES
 
 #### Status
 ACCEPTED

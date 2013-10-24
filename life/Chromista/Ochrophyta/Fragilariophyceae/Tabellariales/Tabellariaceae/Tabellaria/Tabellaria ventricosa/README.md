@@ -1,5 +1,4 @@
-Tabellaria ventricosa Kützing SPECIES
-=======
+# Tabellaria ventricosa Kützing SPECIES
 
 #### Status
 ACCEPTED

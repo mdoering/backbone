@@ -1,17 +1,16 @@
-Coccotrema fernandeziana Messuti SPECIES
-=======
+# Coccotrema fernandezianum Messuti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 82: 431 (2002)
 
 #### Original name
-Coccotrema fernandeziana Messuti
+Coccotrema fernandezianum Messuti
 
 ### Remarks
 null

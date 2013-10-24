@@ -1,5 +1,4 @@
-Planctomyces guttiformis Hortob. SPECIES
-=======
+# Planctomyces guttiformis Hortob. SPECIES
 
 #### Status
 ACCEPTED

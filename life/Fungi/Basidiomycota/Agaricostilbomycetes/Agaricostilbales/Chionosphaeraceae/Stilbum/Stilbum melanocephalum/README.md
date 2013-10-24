@@ -1,5 +1,4 @@
-Stilbum melanocephalum Corda SPECIES
-=======
+# Stilbum melanocephalum Corda SPECIES
 
 #### Status
 ACCEPTED

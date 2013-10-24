@@ -1,5 +1,4 @@
-Stigmatomyces urophilus Speg. SPECIES
-=======
+# Stigmatomyces urophilus Speg. SPECIES
 
 #### Status
 ACCEPTED

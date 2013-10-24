@@ -1,5 +1,4 @@
-Hygrophorus subsordidus Murrill SPECIES
-=======
+# Hygrophorus subsordidus Murrill SPECIES
 
 #### Status
 ACCEPTED

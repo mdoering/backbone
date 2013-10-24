@@ -1,5 +1,4 @@
-Parodiopsis viridescens var. viridescens VARIETY
-=======
+# Parodiopsis viridescens Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Soc. mycol. Fr. 31: 23 (1915)
 
 #### Original name
-Parodiopsis viridescens var. viridescens
+Parodiopsis viridescens Rehm
 
 ### Remarks
 null

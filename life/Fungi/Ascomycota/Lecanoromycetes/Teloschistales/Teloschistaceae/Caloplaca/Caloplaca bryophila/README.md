@@ -1,5 +1,4 @@
-Caloplaca bryophila Tomin SPECIES
-=======
+# Caloplaca bryophila Tomin SPECIES
 
 #### Status
 ACCEPTED

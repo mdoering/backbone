@@ -1,5 +1,4 @@
-Paleoarcyria capillifer M. Jacq.-Fél., C.E. Mill. & Locq. SPECIES
-=======
+# Paleoarcyria capillifer M. Jacq.-Fél., C.E. Mill. & Locq. SPECIES
 
 #### Status
 ACCEPTED

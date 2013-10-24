@@ -1,5 +1,4 @@
-Tremella protoparmeliae Diederich & Coppins, 1996 SPECIES
-=======
+# Tremella protoparmeliae Diederich & Coppins, 1996 SPECIES
 
 #### Status
 ACCEPTED

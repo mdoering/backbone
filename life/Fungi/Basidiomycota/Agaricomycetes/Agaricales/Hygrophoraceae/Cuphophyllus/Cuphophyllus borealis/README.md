@@ -1,5 +1,4 @@
-Cuphophyllus borealis (Peck) Bon SPECIES
-=======
+# Cuphophyllus borealis (Peck) Bon SPECIES
 
 #### Status
 ACCEPTED

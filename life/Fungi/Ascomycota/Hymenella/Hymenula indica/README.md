@@ -1,5 +1,4 @@
-Hymenula indica Syd. SPECIES
-=======
+# Hymenula indica Syd. SPECIES
 
 #### Status
 ACCEPTED

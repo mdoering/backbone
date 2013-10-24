@@ -1,5 +1,4 @@
-Lecidea homotropa Nyl. SPECIES
-=======
+# Lecidea homotropa Nyl. SPECIES
 
 #### Status
 ACCEPTED

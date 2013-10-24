@@ -1,5 +1,4 @@
-Placosphaeria polygoni Vasyag. SPECIES
-=======
+# Placosphaeria polygoni Vasyag. SPECIES
 
 #### Status
 ACCEPTED

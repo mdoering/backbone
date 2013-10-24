@@ -1,11 +1,10 @@
-Halteria grandinella var. cirrifera Kahl, 1932 VARIETY
-=======
+# Pelagohalteria cirrifera (Kahl, 1932) Foissner, Skogstad & Pratt, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

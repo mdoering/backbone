@@ -1,5 +1,4 @@
-Sphaerella puerariae Keissl. SPECIES
-=======
+# Sphaerella puerariae Keissl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium oliveum ined. SPECIES
-=======
+# Chaetomium oliveum ined. SPECIES
 
 #### Status
 ACCEPTED

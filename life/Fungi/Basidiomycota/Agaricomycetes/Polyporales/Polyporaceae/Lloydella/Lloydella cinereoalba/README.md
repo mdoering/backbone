@@ -1,5 +1,4 @@
-Lloydella cinereoalba Rick SPECIES
-=======
+# Lloydella cinereoalba Rick SPECIES
 
 #### Status
 ACCEPTED

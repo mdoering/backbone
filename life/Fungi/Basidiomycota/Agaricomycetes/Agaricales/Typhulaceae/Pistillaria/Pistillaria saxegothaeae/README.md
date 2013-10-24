@@ -1,5 +1,4 @@
-Pistillaria saxegothaeae Singer SPECIES
-=======
+# Pistillaria saxegothaeae Singer SPECIES
 
 #### Status
 ACCEPTED

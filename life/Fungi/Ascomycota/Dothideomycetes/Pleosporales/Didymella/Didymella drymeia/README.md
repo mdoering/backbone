@@ -1,5 +1,4 @@
-Didymella drymeia Höhn. SPECIES
-=======
+# Didymella drymeia Höhn. SPECIES
 
 #### Status
 ACCEPTED

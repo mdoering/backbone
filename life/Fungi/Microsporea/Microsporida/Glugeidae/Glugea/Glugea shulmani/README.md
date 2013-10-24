@@ -1,5 +1,4 @@
-Glugea shulmani Gasimagomedov & Issi, 1970 SPECIES
-=======
+# Glugea shulmani Gasimagomedov & Issi, 1970 SPECIES
 
 #### Status
 ACCEPTED

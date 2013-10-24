@@ -1,5 +1,4 @@
-Pluteus inocybirimosus E. Horak SPECIES
-=======
+# Pluteus inocybirimosus E. Horak SPECIES
 
 #### Status
 ACCEPTED

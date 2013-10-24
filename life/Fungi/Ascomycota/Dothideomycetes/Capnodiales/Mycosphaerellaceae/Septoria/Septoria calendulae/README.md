@@ -1,5 +1,4 @@
-Septoria calendulae Bernaux, 1951 SPECIES
-=======
+# Septoria calendulae Bernaux, 1951 SPECIES
 
 #### Status
 ACCEPTED

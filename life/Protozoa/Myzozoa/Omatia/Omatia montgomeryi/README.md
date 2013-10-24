@@ -1,5 +1,4 @@
-Omatia montgomeryi Cookson & Eisenack SPECIES
-=======
+# Omatia montgomeryi Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

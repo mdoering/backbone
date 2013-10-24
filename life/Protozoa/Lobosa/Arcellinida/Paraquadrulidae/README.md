@@ -1,5 +1,4 @@
-Paraquadrulidae FAMILY
-=======
+# Paraquadrulidae FAMILY
 
 #### Status
 ACCEPTED

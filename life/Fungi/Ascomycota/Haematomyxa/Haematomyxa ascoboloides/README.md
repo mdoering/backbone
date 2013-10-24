@@ -1,5 +1,4 @@
-Haematomyxa ascoboloides Ellis & Everh. SPECIES
-=======
+# Haematomyxa ascoboloides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

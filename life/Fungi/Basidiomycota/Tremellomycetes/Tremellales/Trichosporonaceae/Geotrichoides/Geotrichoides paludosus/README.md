@@ -1,5 +1,4 @@
-Geotrichoides paludosus Smit SPECIES
-=======
+# Geotrichoides paludosus Smit SPECIES
 
 #### Status
 ACCEPTED

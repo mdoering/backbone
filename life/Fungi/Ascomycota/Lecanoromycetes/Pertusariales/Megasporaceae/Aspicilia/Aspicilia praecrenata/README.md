@@ -1,5 +1,4 @@
-Aspicilia praecrenata (Nyl.) Hue SPECIES
-=======
+# Aspicilia praecrenata (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

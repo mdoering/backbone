@@ -1,5 +1,4 @@
-Botryosphaeria arctostaphyli (Plowr.) Sacc. SPECIES
-=======
+# Botryosphaeria arctostaphyli (Plowr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

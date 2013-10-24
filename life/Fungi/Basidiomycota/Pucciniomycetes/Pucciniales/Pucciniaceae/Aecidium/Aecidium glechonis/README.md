@@ -1,5 +1,4 @@
-Aecidium glechonis Speg. SPECIES
-=======
+# Aecidium glechonis Speg. SPECIES
 
 #### Status
 ACCEPTED

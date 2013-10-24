@@ -1,5 +1,4 @@
-Pleospora lindaviana Reichert SPECIES
-=======
+# Pleospora lindaviana Reichert SPECIES
 
 #### Status
 ACCEPTED

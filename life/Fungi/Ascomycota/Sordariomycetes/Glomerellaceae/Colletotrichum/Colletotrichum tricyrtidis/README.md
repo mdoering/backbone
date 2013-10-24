@@ -1,5 +1,4 @@
-Colletotrichum tricyrtidis Sawada SPECIES
-=======
+# Colletotrichum tricyrtidis Sawada SPECIES
 
 #### Status
 ACCEPTED

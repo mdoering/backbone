@@ -1,5 +1,4 @@
-Micropuccinia lateritia (Berk. & M.A. Curtis) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia lateritia (Berk. & M.A. Curtis) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

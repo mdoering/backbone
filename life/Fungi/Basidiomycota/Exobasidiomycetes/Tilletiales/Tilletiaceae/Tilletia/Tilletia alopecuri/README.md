@@ -1,5 +1,4 @@
-Tilletia alopecuri (Sawada) L. Ling SPECIES
-=======
+# Tilletia alopecuri (Sawada) L. Ling SPECIES
 
 #### Status
 ACCEPTED

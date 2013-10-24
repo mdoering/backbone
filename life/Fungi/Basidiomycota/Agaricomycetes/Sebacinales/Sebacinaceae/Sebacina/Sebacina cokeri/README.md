@@ -1,5 +1,4 @@
-Sebacina cokeri Burt SPECIES
-=======
+# Sebacina cokeri Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scindalma ferreum (Berk.) Kuntze SPECIES
-=======
+# Scindalma ferreum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

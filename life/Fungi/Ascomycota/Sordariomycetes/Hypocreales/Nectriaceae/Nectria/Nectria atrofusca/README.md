@@ -1,14 +1,13 @@
-Pseudodiplodia atrofusca (Schwein.) Starbäck, 1894 SPECIES
-=======
+# Nectria atrofusca (Schwein.) Ellis & Everh., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Pyren. (Newfield) 99 (1892)
 
 #### Original name
 Sphaeria atrofusca Schwein., 1805

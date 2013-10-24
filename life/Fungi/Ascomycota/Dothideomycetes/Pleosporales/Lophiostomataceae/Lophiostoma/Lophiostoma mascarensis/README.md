@@ -1,5 +1,4 @@
-Lophiostoma mascarensis Dulym., P.F. Cannon, K.D. Hyde & Peerally SPECIES
-=======
+# Lophiostoma mascarensis Dulym., P.F. Cannon, K.D. Hyde & Peerally SPECIES
 
 #### Status
 ACCEPTED

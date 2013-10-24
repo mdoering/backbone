@@ -1,5 +1,4 @@
-Trogia E.M. Fries, 1836 GENUS
-=======
+# Trogia E.M. Fries, 1836 GENUS
 
 #### Status
 ACCEPTED

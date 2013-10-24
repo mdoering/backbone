@@ -1,5 +1,4 @@
-Cudoniella coniocyboides Rehm SPECIES
-=======
+# Cudoniella coniocyboides Rehm SPECIES
 
 #### Status
 ACCEPTED

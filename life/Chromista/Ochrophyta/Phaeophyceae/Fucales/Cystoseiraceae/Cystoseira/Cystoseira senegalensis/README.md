@@ -1,5 +1,4 @@
-Cystoseira senegalensis P. Dang. SPECIES
-=======
+# Cystoseira senegalensis P. Dang. SPECIES
 
 #### Status
 ACCEPTED

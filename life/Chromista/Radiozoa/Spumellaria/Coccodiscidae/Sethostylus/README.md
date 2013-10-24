@@ -1,5 +1,4 @@
-Sethostylus Haeckel, 1881 GENUS
-=======
+# Sethostylus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

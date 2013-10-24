@@ -1,5 +1,4 @@
-Actinomycodium K.M. Zalessky GENUS
-=======
+# Actinomycodium K.M. Zalessky GENUS
 
 #### Status
 ACCEPTED

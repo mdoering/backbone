@@ -1,5 +1,4 @@
-Sphenomonas triquetra var. cuneata Playfair VARIETY
-=======
+# Sphenomonas triquetra Playfair SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elaphomyces darjeelingensis K.S. Thind & B.M. Sharma SPECIES
-=======
+# Elaphomyces darjeelingensis K.S. Thind & B.M. Sharma SPECIES
 
 #### Status
 ACCEPTED

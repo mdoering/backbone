@@ -1,5 +1,4 @@
-Haplocaulus amphibiarum Banina, 1982 SPECIES
-=======
+# Haplocaulus amphibiarum Banina, 1982 SPECIES
 
 #### Status
 ACCEPTED

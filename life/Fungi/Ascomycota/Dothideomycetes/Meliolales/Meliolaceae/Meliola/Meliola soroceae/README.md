@@ -1,5 +1,4 @@
-Meliola soroceae var. soroceae VARIETY
-=======
+# Meliola soroceae Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Mus. nac. Hist. nat. B. Aires 23: 44 (1912)
 
 #### Original name
-Meliola soroceae var. soroceae
+Meliola soroceae Speg.
 
 ### Remarks
 null

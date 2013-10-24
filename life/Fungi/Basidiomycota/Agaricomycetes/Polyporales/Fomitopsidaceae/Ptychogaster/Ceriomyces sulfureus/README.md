@@ -1,5 +1,4 @@
-Ceriomyces sulfureus De Seynes SPECIES
-=======
+# Ceriomyces sulfureus De Seynes SPECIES
 
 #### Status
 ACCEPTED

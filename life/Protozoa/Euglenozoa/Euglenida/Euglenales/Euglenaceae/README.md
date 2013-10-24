@@ -1,14 +1,13 @@
-Microcystis F.T. Kützing, 1833 GENUS
-=======
+# Euglenaceae FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 8: 372.
+null
 
 #### Original name
 null

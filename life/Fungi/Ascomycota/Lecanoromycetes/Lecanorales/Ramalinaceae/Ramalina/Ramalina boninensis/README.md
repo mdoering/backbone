@@ -1,5 +1,4 @@
-Ramalina boninensis f. boninensis FORM
-=======
+# Ramalina boninensis Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramalina boninensis f. boninensis
+Ramalina boninensis Asahina
 
 ### Remarks
 null

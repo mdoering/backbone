@@ -1,5 +1,4 @@
-Asterostomella excoecariicola Hosag. & Goos SPECIES
-=======
+# Asterostomella excoecariicola Hosag. & Goos SPECIES
 
 #### Status
 ACCEPTED

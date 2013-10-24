@@ -1,5 +1,4 @@
-Laurera pseudovariata Upreti & Ajay Singh SPECIES
-=======
+# Laurera pseudovariata Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

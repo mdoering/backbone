@@ -1,5 +1,4 @@
-Hippocrepina indivisa Parker, 1870 SPECIES
-=======
+# Hippocrepina indivisa Parker, 1870 SPECIES
 
 #### Status
 ACCEPTED

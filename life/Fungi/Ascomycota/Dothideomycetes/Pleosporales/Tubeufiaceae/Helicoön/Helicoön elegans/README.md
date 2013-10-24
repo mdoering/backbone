@@ -1,5 +1,4 @@
-Helicoön elegans (Corda) G. Arnaud SPECIES
-=======
+# Helicoön elegans (Corda) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

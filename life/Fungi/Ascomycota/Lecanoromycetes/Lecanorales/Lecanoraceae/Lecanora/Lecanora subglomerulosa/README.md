@@ -1,5 +1,4 @@
-Lecanora subglomerulosa H. Magn. SPECIES
-=======
+# Lecanora subglomerulosa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

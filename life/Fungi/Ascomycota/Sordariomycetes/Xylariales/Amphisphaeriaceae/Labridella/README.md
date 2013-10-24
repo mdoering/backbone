@@ -1,5 +1,4 @@
-Labridella Brenckle GENUS
-=======
+# Labridella Brenckle GENUS
 
 #### Status
 ACCEPTED

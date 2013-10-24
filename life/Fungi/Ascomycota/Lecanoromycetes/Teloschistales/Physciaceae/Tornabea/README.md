@@ -1,17 +1,16 @@
-Tornabeniopsis Follmann GENUS
-=======
+# Tornabea Østh. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Philippia 4(3): 202 (1980)
+in Østhagen & Sunding, Taxon 29(5-6): 688 (1980)
 
 #### Original name
-Tornabeniopsis Follmann
+Tornabea Østh.
 
 ### Remarks
 null

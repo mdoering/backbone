@@ -1,5 +1,4 @@
-Acrotheca atra (Preuss) Sacc. SPECIES
-=======
+# Acrotheca atra (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

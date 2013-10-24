@@ -1,5 +1,4 @@
-Erysiphe crataegi (Bunkina) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe crataegi (Bunkina) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

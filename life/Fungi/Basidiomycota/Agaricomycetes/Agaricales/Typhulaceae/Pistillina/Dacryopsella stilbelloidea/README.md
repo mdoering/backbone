@@ -1,5 +1,4 @@
-Dacryopsella stilbelloidea Höhn. SPECIES
-=======
+# Dacryopsella stilbelloidea Höhn. SPECIES
 
 #### Status
 ACCEPTED

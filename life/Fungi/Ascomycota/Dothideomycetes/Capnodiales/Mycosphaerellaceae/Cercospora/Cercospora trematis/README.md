@@ -1,17 +1,16 @@
-Cercospora tremae Sawada SPECIES
-=======
+# Cercospora trematis Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Report of the Department of Agriculture, Government Research Institute of Formosa 87: 89 (1944)
 
 #### Original name
-Cercospora tremae Sawada
+Cercospora trematis Sawada
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Graphiothecium vinosum Davis SPECIES
-=======
+# Graphiothecium vinosum Davis SPECIES
 
 #### Status
 ACCEPTED

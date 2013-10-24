@@ -1,5 +1,4 @@
-Hygrophorus miniaceus Beck SPECIES
-=======
+# Hygrophorus miniaceus Beck SPECIES
 
 #### Status
 ACCEPTED

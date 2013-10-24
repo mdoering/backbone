@@ -1,5 +1,4 @@
-Protomyces siegesbeckiae Sawada SPECIES
-=======
+# Protomyces siegesbeckiae Sawada SPECIES
 
 #### Status
 ACCEPTED

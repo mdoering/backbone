@@ -1,5 +1,4 @@
-Rhaphidophora thallicola Ces. & De Not. SPECIES
-=======
+# Rhaphidophora thallicola Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopus subrugosus Murrill SPECIES
-=======
+# Gymnopus subrugosus Murrill SPECIES
 
 #### Status
 ACCEPTED

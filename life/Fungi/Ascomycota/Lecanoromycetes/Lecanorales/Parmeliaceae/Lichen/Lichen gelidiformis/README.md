@@ -1,5 +1,4 @@
-Lichen gelidiformis Ach. SPECIES
-=======
+# Lichen gelidiformis Ach. SPECIES
 
 #### Status
 ACCEPTED

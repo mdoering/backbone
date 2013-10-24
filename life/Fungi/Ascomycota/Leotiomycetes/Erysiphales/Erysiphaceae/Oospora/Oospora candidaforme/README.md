@@ -1,5 +1,4 @@
-Oospora candidaforme Berkhout SPECIES
-=======
+# Oospora candidaforme Berkhout SPECIES
 
 #### Status
 ACCEPTED

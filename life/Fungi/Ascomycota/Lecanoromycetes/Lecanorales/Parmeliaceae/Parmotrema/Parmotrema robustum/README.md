@@ -1,14 +1,13 @@
-Parmelia robusta Degel. SPECIES
-=======
+# Parmotrema robustum (Degel.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Göteborgs Kungl. Vetensk. Samhälles Handl. , Ser. B, Math. Naturvensk. Skr. 1(7): 33 (1941)
+Phytologia 28: 338 (1974)
 
 #### Original name
 Parmelia robusta Degel.

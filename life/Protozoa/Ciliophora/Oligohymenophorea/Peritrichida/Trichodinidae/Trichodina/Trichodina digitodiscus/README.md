@@ -1,5 +1,4 @@
-Trichodina digitodiscus SPECIES
-=======
+# Trichodina digitodiscus SPECIES
 
 #### Status
 ACCEPTED

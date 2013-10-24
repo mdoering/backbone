@@ -1,5 +1,4 @@
-Micropeltis gomphispora Berk. & Broome SPECIES
-=======
+# Micropeltis gomphispora Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

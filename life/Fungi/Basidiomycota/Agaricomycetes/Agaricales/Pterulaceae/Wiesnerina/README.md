@@ -1,5 +1,4 @@
-Wiesnerina von Höhnel, 1907 GENUS
-=======
+# Wiesnerina von Höhnel, 1907 GENUS
 
 #### Status
 ACCEPTED

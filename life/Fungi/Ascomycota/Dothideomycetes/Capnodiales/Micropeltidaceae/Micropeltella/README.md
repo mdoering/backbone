@@ -1,5 +1,4 @@
-Micropeltella GENUS
-=======
+# Micropeltella GENUS
 
 #### Status
 ACCEPTED

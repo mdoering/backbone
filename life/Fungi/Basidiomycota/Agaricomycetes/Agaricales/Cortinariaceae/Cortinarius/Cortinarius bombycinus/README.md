@@ -1,5 +1,4 @@
-Cortinarius bombycinus Mahiques & Burguete SPECIES
-=======
+# Cortinarius bombycinus Mahiques & Burguete SPECIES
 
 #### Status
 ACCEPTED

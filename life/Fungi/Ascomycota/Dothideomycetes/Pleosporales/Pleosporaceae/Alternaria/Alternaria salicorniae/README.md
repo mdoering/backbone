@@ -1,5 +1,4 @@
-Alternaria salicorniae Riedl & Ershad SPECIES
-=======
+# Alternaria salicorniae Riedl & Ershad SPECIES
 
 #### Status
 ACCEPTED

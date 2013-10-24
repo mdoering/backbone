@@ -1,5 +1,4 @@
-Clitocybe lilacina Massee SPECIES
-=======
+# Clitocybe lilacina Massee SPECIES
 
 #### Status
 ACCEPTED

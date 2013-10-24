@@ -1,5 +1,4 @@
-Marasmiellus dendroegrus Singer SPECIES
-=======
+# Marasmiellus dendroegrus Singer SPECIES
 
 #### Status
 ACCEPTED

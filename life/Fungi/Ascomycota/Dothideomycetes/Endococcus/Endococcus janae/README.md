@@ -1,5 +1,4 @@
-Endococcus janae K. Knudsen, 2008 SPECIES
-=======
+# Endococcus janae K. Knudsen, 2008 SPECIES
 
 #### Status
 ACCEPTED

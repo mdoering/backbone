@@ -1,5 +1,4 @@
-Effetia Bartoli, Maggi & Persiani GENUS
-=======
+# Effetia Bartoli, Maggi & Persiani GENUS
 
 #### Status
 ACCEPTED

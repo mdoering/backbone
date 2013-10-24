@@ -1,5 +1,4 @@
-Pyrenastrum depauperatum Malme SPECIES
-=======
+# Pyrenastrum depauperatum Malme SPECIES
 
 #### Status
 ACCEPTED

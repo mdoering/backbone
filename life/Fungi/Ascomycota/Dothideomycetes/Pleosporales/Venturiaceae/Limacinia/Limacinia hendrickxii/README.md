@@ -1,5 +1,4 @@
-Limacinia hendrickxii Hansf. SPECIES
-=======
+# Limacinia hendrickxii Hansf. SPECIES
 
 #### Status
 ACCEPTED

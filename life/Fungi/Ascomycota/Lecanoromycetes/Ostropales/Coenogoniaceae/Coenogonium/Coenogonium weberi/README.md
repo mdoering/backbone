@@ -1,5 +1,4 @@
-Coenogonium weberi (Vezda) Lücking, Aptroot & Sipman SPECIES
-=======
+# Coenogonium weberi (Vezda) Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

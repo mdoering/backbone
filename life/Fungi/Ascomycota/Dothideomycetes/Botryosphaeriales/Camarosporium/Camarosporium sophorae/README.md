@@ -1,5 +1,4 @@
-Camarosporium sophorae Gonz. Frag. SPECIES
-=======
+# Camarosporium sophorae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

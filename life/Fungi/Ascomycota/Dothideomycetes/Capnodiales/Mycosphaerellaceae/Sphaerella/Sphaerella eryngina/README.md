@@ -1,5 +1,4 @@
-Sphaerella eryngina Gonz. Frag. SPECIES
-=======
+# Sphaerella eryngina Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

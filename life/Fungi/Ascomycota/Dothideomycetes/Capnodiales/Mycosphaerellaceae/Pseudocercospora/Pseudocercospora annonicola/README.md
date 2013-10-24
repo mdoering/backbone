@@ -1,5 +1,4 @@
-Pseudocercospora annonicola Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora annonicola Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

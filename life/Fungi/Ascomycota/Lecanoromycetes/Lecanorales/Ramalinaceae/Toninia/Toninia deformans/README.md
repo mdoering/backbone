@@ -1,5 +1,4 @@
-Toninia deformans Jatta SPECIES
-=======
+# Toninia deformans Jatta SPECIES
 
 #### Status
 ACCEPTED

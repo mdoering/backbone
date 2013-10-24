@@ -1,5 +1,4 @@
-Opegrapha aegyptiaca Müll. Arg. SPECIES
-=======
+# Opegrapha aegyptiaca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

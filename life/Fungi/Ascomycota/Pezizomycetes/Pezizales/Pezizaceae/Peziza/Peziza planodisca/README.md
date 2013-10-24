@@ -1,5 +1,4 @@
-Peziza planodisca Peck & Clinton SPECIES
-=======
+# Peziza planodisca Peck & Clinton SPECIES
 
 #### Status
 ACCEPTED

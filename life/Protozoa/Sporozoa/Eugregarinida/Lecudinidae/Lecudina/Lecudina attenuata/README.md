@@ -1,5 +1,4 @@
-Lecudina attenuata Bogolepova, 1953 SPECIES
-=======
+# Lecudina attenuata Bogolepova, 1953 SPECIES
 
 #### Status
 ACCEPTED

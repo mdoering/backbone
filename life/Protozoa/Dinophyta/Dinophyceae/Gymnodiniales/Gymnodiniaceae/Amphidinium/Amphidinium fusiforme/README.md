@@ -1,5 +1,4 @@
-Amphidinium fusiforme G.W.Martin SPECIES
-=======
+# Amphidinium fusiforme G.W.Martin SPECIES
 
 #### Status
 ACCEPTED

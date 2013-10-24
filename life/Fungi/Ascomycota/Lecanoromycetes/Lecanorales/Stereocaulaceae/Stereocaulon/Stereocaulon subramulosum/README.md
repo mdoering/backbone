@@ -1,5 +1,4 @@
-Stereocaulon subramulosum var. subramulosum VARIETY
-=======
+# Stereocaulon subramulosum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Flora, Jena 74: 101 (1891)
+null
 
 #### Original name
-Stereocaulon subramulosum var. subramulosum
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thelidium zahlbruckneri Servít SPECIES
-=======
+# Thelidium zahlbruckneri Servít SPECIES
 
 #### Status
 ACCEPTED

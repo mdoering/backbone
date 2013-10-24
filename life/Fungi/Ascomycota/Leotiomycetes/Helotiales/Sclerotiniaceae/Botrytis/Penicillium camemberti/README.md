@@ -1,8 +1,7 @@
-Penicillium caseicola Bainier, 1907 SPECIES
-=======
+# Penicillium camemberti Thom, 1906 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

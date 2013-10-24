@@ -1,5 +1,4 @@
-Microthelia phyllogena (G. Winter) Kuntze SPECIES
-=======
+# Microthelia phyllogena (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

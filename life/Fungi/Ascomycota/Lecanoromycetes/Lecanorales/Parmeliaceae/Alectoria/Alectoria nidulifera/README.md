@@ -1,5 +1,4 @@
-Alectoria nidulifera SPECIES
-=======
+# Alectoria nidulifera SPECIES
 
 #### Status
 ACCEPTED

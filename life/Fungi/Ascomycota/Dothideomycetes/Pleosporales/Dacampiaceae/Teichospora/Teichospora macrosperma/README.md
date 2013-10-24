@@ -1,5 +1,4 @@
-Teichospora macrosperma Fuckel SPECIES
-=======
+# Teichospora macrosperma Fuckel SPECIES
 
 #### Status
 ACCEPTED

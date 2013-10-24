@@ -1,5 +1,4 @@
-Helicotrichum obscurum (Corda) Sacc. SPECIES
-=======
+# Helicotrichum obscurum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

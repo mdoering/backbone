@@ -1,5 +1,4 @@
-Caloplaca sterilis Šoun, Khodosovtsev & Vondrák SPECIES
-=======
+# Caloplaca sterilis Šoun, Khodosovtsev & Vondrák SPECIES
 
 #### Status
 ACCEPTED

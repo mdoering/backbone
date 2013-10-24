@@ -1,5 +1,4 @@
-Coniophora argentinensis Speg. SPECIES
-=======
+# Coniophora argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

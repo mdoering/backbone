@@ -1,5 +1,4 @@
-Aecidium jalapense Holw. SPECIES
-=======
+# Aecidium jalapense Holw. SPECIES
 
 #### Status
 ACCEPTED

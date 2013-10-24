@@ -1,5 +1,4 @@
-Asterina cynanchi Hosag. & Shiburaj SPECIES
-=======
+# Asterina cynanchi Hosag. & Shiburaj SPECIES
 
 #### Status
 ACCEPTED

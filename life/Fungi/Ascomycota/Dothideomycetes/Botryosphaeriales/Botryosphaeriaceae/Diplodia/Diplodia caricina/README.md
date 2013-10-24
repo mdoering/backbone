@@ -1,5 +1,4 @@
-Diplodia caricina Sacc. SPECIES
-=======
+# Diplodia caricina Sacc. SPECIES
 
 #### Status
 ACCEPTED

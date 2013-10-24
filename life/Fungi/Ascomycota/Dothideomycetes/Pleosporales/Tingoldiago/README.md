@@ -1,5 +1,4 @@
-Tingoldiago GENUS
-=======
+# Tingoldiago GENUS
 
 #### Status
 ACCEPTED

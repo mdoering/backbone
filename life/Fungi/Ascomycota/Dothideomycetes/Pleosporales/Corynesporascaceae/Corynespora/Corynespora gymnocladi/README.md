@@ -1,5 +1,4 @@
-Corynespora gymnocladi Jian Ma & X.G. Zhang SPECIES
-=======
+# Corynespora gymnocladi Jian Ma & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

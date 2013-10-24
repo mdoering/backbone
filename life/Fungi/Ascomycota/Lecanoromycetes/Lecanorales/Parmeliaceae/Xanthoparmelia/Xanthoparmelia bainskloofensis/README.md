@@ -1,5 +1,4 @@
-Xanthoparmelia bainskloofensis Elix & T. H. Nash SPECIES
-=======
+# Xanthoparmelia bainskloofensis Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

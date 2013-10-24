@@ -1,5 +1,4 @@
-Lanzia flavoaurantia Henn. SPECIES
-=======
+# Lanzia flavoaurantia Henn. SPECIES
 
 #### Status
 ACCEPTED

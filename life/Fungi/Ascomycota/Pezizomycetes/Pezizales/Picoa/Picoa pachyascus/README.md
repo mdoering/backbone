@@ -1,5 +1,4 @@
-Picoa pachyascus M. Lange, 1957 SPECIES
-=======
+# Picoa pachyascus M. Lange, 1957 SPECIES
 
 #### Status
 ACCEPTED

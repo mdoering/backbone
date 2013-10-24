@@ -1,5 +1,4 @@
-Inocybe jamaicensis Murrill SPECIES
-=======
+# Inocybe jamaicensis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aggerostramen Loeblich & Tappan, 1985 GENUS
-=======
+# Aggerostramen Loeblich & Tappan, 1985 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria loetschertii H. Lange-Bertalot SPECIES
-=======
+# Fragilaria loetschertii H. Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

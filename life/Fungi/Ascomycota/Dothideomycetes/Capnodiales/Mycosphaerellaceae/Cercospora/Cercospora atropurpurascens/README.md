@@ -1,5 +1,4 @@
-Cercospora atropurpurascens Chupp SPECIES
-=======
+# Cercospora atropurpurascens Chupp SPECIES
 
 #### Status
 ACCEPTED

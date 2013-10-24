@@ -1,5 +1,4 @@
-Mycena rosiphylla Velen. SPECIES
-=======
+# Mycena rosiphylla Velen. SPECIES
 
 #### Status
 ACCEPTED

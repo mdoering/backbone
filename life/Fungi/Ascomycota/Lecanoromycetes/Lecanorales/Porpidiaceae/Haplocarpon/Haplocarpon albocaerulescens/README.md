@@ -1,5 +1,4 @@
-Haplocarpon albocaerulescens SPECIES
-=======
+# Haplocarpon albocaerulescens SPECIES
 
 #### Status
 ACCEPTED

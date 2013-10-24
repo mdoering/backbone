@@ -1,17 +1,16 @@
-Lichinomyces E.A. Thomas ex Cif. & Tomas. GENUS
-=======
+# Lichina C. Agardh GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. Alg. Scand. xii, 9 (1817)
 
 #### Original name
-Lichinomyces E.A. Thomas ex Cif. & Tomas.
+Lichina C. Agardh
 
 ### Remarks
 null

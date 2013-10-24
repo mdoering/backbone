@@ -1,5 +1,4 @@
-Geminilithella Backman, 1980 GENUS
-=======
+# Geminilithella Backman, 1980 GENUS
 
 #### Status
 ACCEPTED

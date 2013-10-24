@@ -1,5 +1,4 @@
-Epistylis fastigata Dumas, 1930 SPECIES
-=======
+# Epistylis fastigata Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

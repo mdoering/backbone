@@ -1,5 +1,4 @@
-Lorenziella Knauer & Nagy, 1964 GENUS
-=======
+# Lorenziella Knauer & Nagy, 1964 GENUS
 
 #### Status
 ACCEPTED

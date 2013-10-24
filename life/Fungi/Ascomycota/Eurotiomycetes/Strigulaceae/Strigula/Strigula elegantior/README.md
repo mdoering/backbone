@@ -1,5 +1,4 @@
-Strigula elegantior Vain. SPECIES
-=======
+# Strigula elegantior Vain. SPECIES
 
 #### Status
 ACCEPTED

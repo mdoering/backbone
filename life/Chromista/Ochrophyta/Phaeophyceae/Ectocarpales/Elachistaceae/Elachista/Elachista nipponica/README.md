@@ -1,5 +1,4 @@
-Elachista nipponica Umezaki SPECIES
-=======
+# Elachista nipponica Umezaki SPECIES
 
 #### Status
 ACCEPTED

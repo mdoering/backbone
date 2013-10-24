@@ -1,5 +1,4 @@
-Ceraceopsis verruculosa Hjortstam & Ryvarden, 2007 SPECIES
-=======
+# Ceraceopsis verruculosa Hjortstam & Ryvarden, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quadraditum F.H. Cramer, 1964 GENUS
-=======
+# Quadraditum F.H. Cramer, 1964 GENUS
 
 #### Status
 ACCEPTED

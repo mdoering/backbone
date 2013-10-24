@@ -1,5 +1,4 @@
-Albibacter Doronina et al., 2001 GENUS
-=======
+# Albibacter Doronina et al., 2001 GENUS
 
 #### Status
 ACCEPTED

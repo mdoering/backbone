@@ -1,5 +1,4 @@
-Cheleutochroa gymnobrachiata Loeblich & Tappan, 1978 SPECIES
-=======
+# Cheleutochroa gymnobrachiata Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

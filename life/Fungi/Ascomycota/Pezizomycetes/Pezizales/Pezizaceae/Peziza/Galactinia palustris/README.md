@@ -1,5 +1,4 @@
-Galactinia palustris (Boud.) Le Gal SPECIES
-=======
+# Galactinia palustris (Boud.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

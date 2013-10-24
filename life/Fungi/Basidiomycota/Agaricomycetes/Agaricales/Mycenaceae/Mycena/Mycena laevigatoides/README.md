@@ -1,5 +1,4 @@
-Mycena laevigatoides Maas Geest. SPECIES
-=======
+# Mycena laevigatoides Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

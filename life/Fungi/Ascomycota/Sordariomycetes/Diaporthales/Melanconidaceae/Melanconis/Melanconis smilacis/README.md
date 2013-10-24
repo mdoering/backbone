@@ -1,5 +1,4 @@
-Melanconis smilacis J.C. Gilman, L.C. Tiffany & R.M. Lewis {?} SPECIES
-=======
+# Melanconis smilacis J.C. Gilman, L.C. Tiffany & R.M. Lewis {?} SPECIES
 
 #### Status
 ACCEPTED

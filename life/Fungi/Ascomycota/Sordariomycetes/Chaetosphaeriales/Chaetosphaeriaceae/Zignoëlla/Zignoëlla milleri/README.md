@@ -1,14 +1,13 @@
-Melanopsamma milleri Chardón, 1946 SPECIES
-=======
+# Zignoëlla milleri (Chardón) Petr., 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 2: 465 (1946)
+Sydowia 5: 233 (1951)
 
 #### Original name
 Melanopsamma milleri Chardón, 1946

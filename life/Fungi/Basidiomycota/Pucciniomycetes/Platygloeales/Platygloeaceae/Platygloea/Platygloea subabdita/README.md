@@ -1,5 +1,4 @@
-Platygloea subabdita Hauerslev SPECIES
-=======
+# Platygloea subabdita Hauerslev SPECIES
 
 #### Status
 ACCEPTED

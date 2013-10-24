@@ -1,5 +1,4 @@
-Cercosporella primulae Allesch., 1892 SPECIES
-=======
+# Cercosporella primulae Allesch., 1892 SPECIES
 
 #### Status
 ACCEPTED

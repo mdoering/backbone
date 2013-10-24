@@ -1,5 +1,4 @@
-Galiella thwaitesii (Berk. & Broome) Nannf. SPECIES
-=======
+# Galiella thwaitesii (Berk. & Broome) Nannf. SPECIES
 
 #### Status
 ACCEPTED

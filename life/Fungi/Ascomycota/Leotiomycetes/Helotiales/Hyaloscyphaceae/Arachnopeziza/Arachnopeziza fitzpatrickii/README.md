@@ -1,5 +1,4 @@
-Arachnopeziza fitzpatrickii Korf SPECIES
-=======
+# Arachnopeziza fitzpatrickii Korf SPECIES
 
 #### Status
 ACCEPTED

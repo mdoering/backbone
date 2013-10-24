@@ -1,5 +1,4 @@
-Cryptococcus colliculosus (M. Hartmann) C.E. Skinner SPECIES
-=======
+# Cryptococcus colliculosus (M. Hartmann) C.E. Skinner SPECIES
 
 #### Status
 ACCEPTED

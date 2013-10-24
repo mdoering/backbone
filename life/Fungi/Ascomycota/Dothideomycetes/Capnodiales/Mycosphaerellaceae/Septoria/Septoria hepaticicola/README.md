@@ -1,5 +1,4 @@
-Septoria hepaticicola (Duby) Jørst. SPECIES
-=======
+# Septoria hepaticicola (Duby) Jørst. SPECIES
 
 #### Status
 ACCEPTED

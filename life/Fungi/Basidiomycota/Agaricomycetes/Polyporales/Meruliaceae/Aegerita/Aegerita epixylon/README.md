@@ -1,8 +1,7 @@
-Aegerita epixyla (Bull.) Lam. & DC. SPECIES
-=======
+# Aegerita epixylon (Bull.) Lam. & DC. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

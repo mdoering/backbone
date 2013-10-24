@@ -1,5 +1,4 @@
-Agaricus abramsii Murrill SPECIES
-=======
+# Agaricus abramsii Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora fingens Davis SPECIES
-=======
+# Cercospora fingens Davis SPECIES
 
 #### Status
 ACCEPTED

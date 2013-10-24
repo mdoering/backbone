@@ -1,5 +1,4 @@
-Rostrophrya fenestrata Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Rostrophrya fenestrata Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

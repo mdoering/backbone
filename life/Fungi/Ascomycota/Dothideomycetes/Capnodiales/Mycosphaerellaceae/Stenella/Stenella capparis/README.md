@@ -1,17 +1,16 @@
-Stenella capparidis Kamal, R.P. Singh & P. Kumar SPECIES
-=======
+# Stenella capparis Kamal, R.P. Singh & P. Kumar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 33: 162 (1980)
 
 #### Original name
-Stenella capparidis Kamal, R.P. Singh & P. Kumar
+Stenella capparis Kamal, R.P. Singh & P. Kumar
 
 ### Remarks
 null

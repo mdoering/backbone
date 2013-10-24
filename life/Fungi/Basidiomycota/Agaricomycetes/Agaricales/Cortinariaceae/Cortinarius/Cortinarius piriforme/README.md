@@ -1,5 +1,4 @@
-Cortinarius piriforme (Cleland & G. Cunn.) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius piriforme (Cleland & G. Cunn.) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

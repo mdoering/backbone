@@ -1,5 +1,4 @@
-Septoria pseudacaciae C. Massal. SPECIES
-=======
+# Septoria pseudacaciae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

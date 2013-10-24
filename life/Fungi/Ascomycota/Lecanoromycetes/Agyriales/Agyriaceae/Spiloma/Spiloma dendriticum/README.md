@@ -1,5 +1,4 @@
-Spiloma dendriticum SPECIES
-=======
+# Spiloma dendriticum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leciographa maculans Arnaud SPECIES
-=======
+# Leciographa maculans Arnaud SPECIES
 
 #### Status
 ACCEPTED

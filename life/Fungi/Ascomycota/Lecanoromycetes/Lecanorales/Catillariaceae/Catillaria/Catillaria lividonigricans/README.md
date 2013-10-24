@@ -1,5 +1,4 @@
-Catillaria lividonigricans (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria lividonigricans (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

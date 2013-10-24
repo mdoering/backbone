@@ -1,5 +1,4 @@
-Octosporella Ray & Raghavachari, 1942 GENUS
-=======
+# Octosporella Ray & Raghavachari, 1942 GENUS
 
 #### Status
 ACCEPTED

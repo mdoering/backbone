@@ -1,5 +1,4 @@
-Lecidea kalbii Hertel SPECIES
-=======
+# Lecidea kalbii Hertel SPECIES
 
 #### Status
 ACCEPTED

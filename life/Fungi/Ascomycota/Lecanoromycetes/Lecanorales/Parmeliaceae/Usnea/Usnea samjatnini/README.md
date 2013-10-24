@@ -1,5 +1,4 @@
-Usnea samjatnini Tomin SPECIES
-=======
+# Usnea samjatnini Tomin SPECIES
 
 #### Status
 ACCEPTED

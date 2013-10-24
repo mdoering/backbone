@@ -1,5 +1,4 @@
-Flammula vinicolor Pat. SPECIES
-=======
+# Flammula vinicolor Pat. SPECIES
 
 #### Status
 ACCEPTED

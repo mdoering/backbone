@@ -1,8 +1,7 @@
-Dysteropsis minuta Roux, 1899 SPECIES
-=======
+# Trochilia minuta (Roux, 1899) Kahl, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

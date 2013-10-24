@@ -1,5 +1,4 @@
-Trogia fulvochracea var. fulvochracea VARIETY
-=======
+# Trogia fulvochracea Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monogr. Cantharelloid Fungi 207 (1966)
 
 #### Original name
-Trogia fulvochracea var. fulvochracea
+Trogia fulvochracea Corner
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dactylellina daliensis H.Y. Su SPECIES
-=======
+# Dactylellina daliensis H.Y. Su SPECIES
 
 #### Status
 ACCEPTED

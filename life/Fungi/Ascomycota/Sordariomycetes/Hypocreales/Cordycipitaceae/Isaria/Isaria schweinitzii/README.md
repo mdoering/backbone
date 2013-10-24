@@ -1,5 +1,4 @@
-Isaria schweinitzii Sacc. SPECIES
-=======
+# Isaria schweinitzii Sacc. SPECIES
 
 #### Status
 ACCEPTED

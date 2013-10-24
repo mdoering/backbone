@@ -1,5 +1,4 @@
-Leveillula rutae (Jacz.) Durrieu & Rostam SPECIES
-=======
+# Leveillula rutae (Jacz.) Durrieu & Rostam SPECIES
 
 #### Status
 ACCEPTED

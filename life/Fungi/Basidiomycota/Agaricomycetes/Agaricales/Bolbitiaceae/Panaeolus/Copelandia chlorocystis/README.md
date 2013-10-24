@@ -1,5 +1,4 @@
-Copelandia chlorocystis Singer & R.A. Weeks SPECIES
-=======
+# Copelandia chlorocystis Singer & R.A. Weeks SPECIES
 
 #### Status
 ACCEPTED

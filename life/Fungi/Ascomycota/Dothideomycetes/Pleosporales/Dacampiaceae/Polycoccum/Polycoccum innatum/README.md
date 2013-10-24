@@ -1,5 +1,4 @@
-Polycoccum innatum (Müll. Arg.) D. Hawksw. SPECIES
-=======
+# Polycoccum innatum (Müll. Arg.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

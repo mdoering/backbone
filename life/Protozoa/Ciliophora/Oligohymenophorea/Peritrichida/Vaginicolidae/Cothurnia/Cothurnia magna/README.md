@@ -1,5 +1,4 @@
-Cothurnia magna SPECIES
-=======
+# Cothurnia magna SPECIES
 
 #### Status
 ACCEPTED

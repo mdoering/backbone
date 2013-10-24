@@ -1,5 +1,4 @@
-Flavobacterium oceanosedimentum Carty and Litchfield, 1978 (Approved Lists, 1980) SPECIES
-=======
+# Flavobacterium oceanosedimentum Carty and Litchfield, 1978 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

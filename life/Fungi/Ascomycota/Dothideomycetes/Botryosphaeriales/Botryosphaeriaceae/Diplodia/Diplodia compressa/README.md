@@ -1,5 +1,4 @@
-Diplodia compressa Cooke SPECIES
-=======
+# Diplodia compressa Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cerataulus smithi SPECIES
-=======
+# Cerataulus smithi SPECIES
 
 #### Status
 ACCEPTED

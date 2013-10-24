@@ -1,5 +1,4 @@
-Pertusaria clementiana Müll. Arg. SPECIES
-=======
+# Pertusaria clementiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

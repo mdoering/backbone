@@ -1,5 +1,4 @@
-Lachnum grande Velen. SPECIES
-=======
+# Lachnum grande Velen. SPECIES
 
 #### Status
 ACCEPTED

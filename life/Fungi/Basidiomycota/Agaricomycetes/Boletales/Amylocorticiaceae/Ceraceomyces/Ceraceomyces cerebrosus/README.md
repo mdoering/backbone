@@ -1,14 +1,13 @@
-Peniophora cerebrosa G. Cunn., 1955 SPECIES
-=======
+# Ceraceomyces cerebrosus (G. Cunn.) Stalpers & P.K. Buchanan, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 83: 270 (1955)
+N. Z. Jl Bot. 29(3): 333 (1991)
 
 #### Original name
 Peniophora cerebrosa G. Cunn., 1955

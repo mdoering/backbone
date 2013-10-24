@@ -1,5 +1,4 @@
-Platygrapha atrata Stirt. SPECIES
-=======
+# Platygrapha atrata Stirt. SPECIES
 
 #### Status
 ACCEPTED

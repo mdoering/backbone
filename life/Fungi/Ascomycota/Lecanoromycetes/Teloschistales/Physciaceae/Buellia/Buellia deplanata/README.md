@@ -1,5 +1,4 @@
-Buellia deplanata Müll. Arg. SPECIES
-=======
+# Buellia deplanata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

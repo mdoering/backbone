@@ -1,5 +1,4 @@
-Callopisma erythroleucum (Nyl.) Müll. Arg. SPECIES
-=======
+# Callopisma erythroleucum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

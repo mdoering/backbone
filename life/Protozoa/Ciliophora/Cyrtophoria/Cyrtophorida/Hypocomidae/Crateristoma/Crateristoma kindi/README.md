@@ -1,5 +1,4 @@
-Crateristoma kindi Jankowski, 1967 SPECIES
-=======
+# Crateristoma kindi Jankowski, 1967 SPECIES
 
 #### Status
 ACCEPTED

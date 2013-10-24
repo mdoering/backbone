@@ -1,11 +1,10 @@
-Geleia arcachonense Nouzarède, 1965 SPECIES
-=======
+# Avelia arcachonense (Nouzarède, 1975) Nouzarède, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

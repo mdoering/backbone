@@ -1,5 +1,4 @@
-Mortierella arcuata E. Wolf SPECIES
-=======
+# Mortierella arcuata E. Wolf SPECIES
 
 #### Status
 ACCEPTED

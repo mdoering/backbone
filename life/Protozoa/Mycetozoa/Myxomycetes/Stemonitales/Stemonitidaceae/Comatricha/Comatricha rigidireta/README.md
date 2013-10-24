@@ -1,5 +1,4 @@
-Comatricha rigidireta Nann.-Bremek., 1966 SPECIES
-=======
+# Comatricha rigidireta Nann.-Bremek., 1966 SPECIES
 
 #### Status
 ACCEPTED

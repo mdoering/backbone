@@ -1,5 +1,4 @@
-Paraspathidium Noland, 1937 GENUS
-=======
+# Paraspathidium Noland, 1937 GENUS
 
 #### Status
 ACCEPTED

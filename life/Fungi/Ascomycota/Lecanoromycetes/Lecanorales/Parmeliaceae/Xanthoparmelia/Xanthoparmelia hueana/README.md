@@ -1,17 +1,16 @@
-Parmelia convoluta f. convoluta FORM
-=======
+# Xanthoparmelia hueana (Gyeln.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxon 53(4): 968 (2004)
 
 #### Original name
-Parmelia convoluta f. convoluta
+Parmelia hueana Gyeln.
 
 ### Remarks
 null

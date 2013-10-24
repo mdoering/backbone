@@ -1,5 +1,4 @@
-Clathrosporium compactum Hennebert, 1999 SPECIES
-=======
+# Clathrosporium compactum Hennebert, 1999 SPECIES
 
 #### Status
 ACCEPTED

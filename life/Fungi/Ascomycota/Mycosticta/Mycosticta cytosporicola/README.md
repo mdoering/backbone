@@ -1,5 +1,4 @@
-Mycosticta cytosporicola Frolov SPECIES
-=======
+# Mycosticta cytosporicola Frolov SPECIES
 
 #### Status
 ACCEPTED

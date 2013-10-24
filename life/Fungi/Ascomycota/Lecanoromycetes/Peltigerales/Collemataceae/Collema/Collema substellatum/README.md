@@ -1,5 +1,4 @@
-Collema substellatum H. Magn. SPECIES
-=======
+# Collema substellatum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

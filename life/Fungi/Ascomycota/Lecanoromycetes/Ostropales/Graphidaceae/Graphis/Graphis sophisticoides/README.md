@@ -1,5 +1,4 @@
-Graphis sophisticoides Nyl. SPECIES
-=======
+# Graphis sophisticoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

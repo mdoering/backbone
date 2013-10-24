@@ -1,5 +1,4 @@
-Mycovellosiella trichophila (Petr. & Cif.) Deighton SPECIES
-=======
+# Mycovellosiella trichophila (Petr. & Cif.) Deighton SPECIES
 
 #### Status
 ACCEPTED

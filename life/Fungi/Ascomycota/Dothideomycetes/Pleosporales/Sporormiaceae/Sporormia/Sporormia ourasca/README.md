@@ -1,5 +1,4 @@
-Sporormia ourasca Fairm. SPECIES
-=======
+# Sporormia ourasca Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania platygraphoides (Nyl.) Zahlbr. SPECIES
-=======
+# Lecania platygraphoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

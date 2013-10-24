@@ -1,17 +1,16 @@
-Hypocrea maculaeformis Berk. & M.A. Curtis SPECIES
-=======
+# Hypocrea maculiformis Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 376 (1868)
 
 #### Original name
-Hypocrea maculaeformis Berk. & M.A. Curtis
+Hypocrea maculiformis Berk. & M.A. Curtis
 
 ### Remarks
 null

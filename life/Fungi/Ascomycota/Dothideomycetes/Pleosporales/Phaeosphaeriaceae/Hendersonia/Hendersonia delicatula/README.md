@@ -1,5 +1,4 @@
-Hendersonia delicatula Cooke & Ellis SPECIES
-=======
+# Hendersonia delicatula Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

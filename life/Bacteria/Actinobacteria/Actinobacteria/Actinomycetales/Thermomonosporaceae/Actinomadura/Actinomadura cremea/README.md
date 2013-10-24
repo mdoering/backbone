@@ -1,5 +1,4 @@
-Actinomadura cremea subsp. rifamycini Gauze et al., 1987 SUBSPECIES
-=======
+# Actinomadura cremea Preobrazhenskaya et al., 1975 SPECIES
 
 #### Status
 ACCEPTED

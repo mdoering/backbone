@@ -1,5 +1,4 @@
-Pseudoperisporium erigeronicola (F. Stevens) Toro SPECIES
-=======
+# Pseudoperisporium erigeronicola (F. Stevens) Toro SPECIES
 
 #### Status
 ACCEPTED

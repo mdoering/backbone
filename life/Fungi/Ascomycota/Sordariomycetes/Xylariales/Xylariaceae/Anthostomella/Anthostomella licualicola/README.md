@@ -1,5 +1,4 @@
-Anthostomella licualicola K.D. Hyde, 1996 SPECIES
-=======
+# Anthostomella licualicola K.D. Hyde, 1996 SPECIES
 
 #### Status
 ACCEPTED

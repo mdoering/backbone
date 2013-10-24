@@ -1,5 +1,4 @@
-Dimerium japonicum Syd. & P. Syd. SPECIES
-=======
+# Dimerium japonicum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

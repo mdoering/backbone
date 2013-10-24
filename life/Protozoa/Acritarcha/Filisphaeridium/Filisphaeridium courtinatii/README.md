@@ -1,5 +1,4 @@
-Filisphaeridium courtinatii Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium courtinatii Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

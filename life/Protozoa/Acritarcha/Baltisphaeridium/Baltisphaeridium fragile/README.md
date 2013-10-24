@@ -1,5 +1,4 @@
-Baltisphaeridium fragile Tongiorgi, Yin & Di Milia, 1995 SPECIES
-=======
+# Baltisphaeridium fragile Tongiorgi, Yin & Di Milia, 1995 SPECIES
 
 #### Status
 ACCEPTED

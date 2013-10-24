@@ -1,5 +1,4 @@
-Leucocoprinus beelianus Heinem. SPECIES
-=======
+# Leucocoprinus beelianus Heinem. SPECIES
 
 #### Status
 ACCEPTED

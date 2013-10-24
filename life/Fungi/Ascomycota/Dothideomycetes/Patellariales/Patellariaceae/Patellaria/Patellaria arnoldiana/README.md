@@ -1,5 +1,4 @@
-Patellaria arnoldiana (Körb.) Müll. Arg. SPECIES
-=======
+# Patellaria arnoldiana (Körb.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

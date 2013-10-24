@@ -1,5 +1,4 @@
-Septoria lanaria Fairm. SPECIES
-=======
+# Septoria lanaria Fairm. SPECIES
 
 #### Status
 ACCEPTED

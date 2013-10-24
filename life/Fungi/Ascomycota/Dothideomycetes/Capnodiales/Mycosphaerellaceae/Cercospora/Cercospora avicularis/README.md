@@ -1,5 +1,4 @@
-Cercospora avicularis G. Winter SPECIES
-=======
+# Cercospora avicularis G. Winter SPECIES
 
 #### Status
 ACCEPTED

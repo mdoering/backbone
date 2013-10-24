@@ -1,5 +1,4 @@
-Ditiola conformis P. Karst. SPECIES
-=======
+# Ditiola conformis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria galactina (Ach.) Nyl. SPECIES
-=======
+# Squamaria galactina (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

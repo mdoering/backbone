@@ -1,5 +1,4 @@
-Dothidea eugeniae Mont. SPECIES
-=======
+# Dothidea eugeniae Mont. SPECIES
 
 #### Status
 ACCEPTED

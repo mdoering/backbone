@@ -1,5 +1,4 @@
-Toninia ayresiana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Toninia ayresiana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

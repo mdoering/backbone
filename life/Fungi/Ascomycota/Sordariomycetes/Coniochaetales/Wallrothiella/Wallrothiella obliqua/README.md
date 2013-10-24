@@ -1,5 +1,4 @@
-Wallrothiella obliqua (Rehm) Kirschst. SPECIES
-=======
+# Wallrothiella obliqua (Rehm) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

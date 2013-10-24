@@ -1,5 +1,4 @@
-Panus alliaceus Berk. & M.A. Curtis SPECIES
-=======
+# Panus alliaceus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

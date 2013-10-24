@@ -1,5 +1,4 @@
-Microsphaera pulchra var. pulchra VARIETY
-=======
+# Microsphaera pulchra Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microsphaera pulchra var. pulchra
+Microsphaera pulchra Cooke & Peck
 
 ### Remarks
 null

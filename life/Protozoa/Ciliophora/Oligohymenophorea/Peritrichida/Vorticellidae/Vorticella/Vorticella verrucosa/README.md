@@ -1,5 +1,4 @@
-Vorticella verrucosa Dons, 1918 SPECIES
-=======
+# Vorticella verrucosa Dons, 1918 SPECIES
 
 #### Status
 ACCEPTED

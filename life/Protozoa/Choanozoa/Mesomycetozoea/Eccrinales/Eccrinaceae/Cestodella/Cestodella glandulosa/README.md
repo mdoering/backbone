@@ -1,5 +1,4 @@
-Cestodella glandulosa Tuzet, Manier & Jolivet SPECIES
-=======
+# Cestodella glandulosa Tuzet, Manier & Jolivet SPECIES
 
 #### Status
 ACCEPTED

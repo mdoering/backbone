@@ -1,5 +1,4 @@
-Phyllachora rostellispora Parbery, 1967 SPECIES
-=======
+# Phyllachora rostellispora Parbery, 1967 SPECIES
 
 #### Status
 ACCEPTED

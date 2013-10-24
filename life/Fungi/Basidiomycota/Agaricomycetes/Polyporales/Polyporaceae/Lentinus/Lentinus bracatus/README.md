@@ -1,5 +1,4 @@
-Lentinus bracatus Lév. SPECIES
-=======
+# Lentinus bracatus Lév. SPECIES
 
 #### Status
 ACCEPTED

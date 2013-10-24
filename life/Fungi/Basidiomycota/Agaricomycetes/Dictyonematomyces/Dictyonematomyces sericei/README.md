@@ -1,5 +1,4 @@
-Dictyonematomyces sericei Cif. & Tomas. SPECIES
-=======
+# Dictyonematomyces sericei Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

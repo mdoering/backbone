@@ -1,5 +1,4 @@
-Cercospora caricigena Bhartiya, A.N. Singh bis, N. Kumari & P.N. Singh SPECIES
-=======
+# Cercospora caricigena Bhartiya, A.N. Singh bis, N. Kumari & P.N. Singh SPECIES
 
 #### Status
 ACCEPTED

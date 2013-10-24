@@ -1,17 +1,16 @@
-Otidea concinna var. concinna (Pers.) Sacc. VARIETY
-=======
+# Flavoscypha cantharella (Fr.) Harmaja, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 96 (1889)
+Karstenia 14: 107 (1974)
 
 #### Original name
-Otidea concinna var. concinna (Pers.) Sacc.
+Peziza cantharella Fr., 1822
 
 ### Remarks
 null

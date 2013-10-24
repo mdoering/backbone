@@ -1,5 +1,4 @@
-Opegrapha coryli Chevall. SPECIES
-=======
+# Opegrapha coryli Chevall. SPECIES
 
 #### Status
 ACCEPTED

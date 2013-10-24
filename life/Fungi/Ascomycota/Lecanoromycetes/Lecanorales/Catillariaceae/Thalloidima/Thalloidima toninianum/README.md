@@ -1,5 +1,4 @@
-Thalloidima toninianum (A. Massal.) A. Massal. SPECIES
-=======
+# Thalloidima toninianum (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mastigonetron GENUS
-=======
+# Mastigonetron GENUS
 
 #### Status
 ACCEPTED

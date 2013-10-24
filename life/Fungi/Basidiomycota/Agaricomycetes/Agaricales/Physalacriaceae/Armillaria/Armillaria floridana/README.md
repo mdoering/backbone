@@ -1,5 +1,4 @@
-Armillaria floridana Murrill SPECIES
-=======
+# Armillaria floridana Murrill SPECIES
 
 #### Status
 ACCEPTED

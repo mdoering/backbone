@@ -1,5 +1,4 @@
-Melanospora helleri Earle SPECIES
-=======
+# Melanospora helleri Earle SPECIES
 
 #### Status
 ACCEPTED

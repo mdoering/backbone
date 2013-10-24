@@ -1,5 +1,4 @@
-Brachysporium cynodontis Nasyrov SPECIES
-=======
+# Brachysporium cynodontis Nasyrov SPECIES
 
 #### Status
 ACCEPTED

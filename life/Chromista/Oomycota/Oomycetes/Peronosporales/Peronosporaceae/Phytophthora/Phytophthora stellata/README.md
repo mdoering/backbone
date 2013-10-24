@@ -1,5 +1,4 @@
-Phytophthora stellata Shanor SPECIES
-=======
+# Phytophthora stellata Shanor SPECIES
 
 #### Status
 ACCEPTED

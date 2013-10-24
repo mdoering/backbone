@@ -1,5 +1,4 @@
-Clitocybe tucala Speg. SPECIES
-=======
+# Clitocybe tucala Speg. SPECIES
 
 #### Status
 ACCEPTED

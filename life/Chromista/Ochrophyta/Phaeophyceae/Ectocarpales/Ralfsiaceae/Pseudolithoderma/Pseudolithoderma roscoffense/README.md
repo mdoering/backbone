@@ -1,5 +1,4 @@
-Pseudolithoderma roscoffense Loiseaux SPECIES
-=======
+# Pseudolithoderma roscoffense Loiseaux SPECIES
 
 #### Status
 ACCEPTED

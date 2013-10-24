@@ -1,5 +1,4 @@
-Hansenula pellicululosa anon. SPECIES
-=======
+# Hansenula pellicululosa anon. SPECIES
 
 #### Status
 ACCEPTED

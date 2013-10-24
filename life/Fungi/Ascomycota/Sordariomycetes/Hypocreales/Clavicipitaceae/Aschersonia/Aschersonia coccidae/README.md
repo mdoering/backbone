@@ -1,5 +1,4 @@
-Aschersonia coccidae ined. SPECIES
-=======
+# Aschersonia coccidae ined. SPECIES
 
 #### Status
 ACCEPTED

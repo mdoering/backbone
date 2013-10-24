@@ -1,5 +1,4 @@
-Ascolectus albus Samuels & Rogerson, 1990 SPECIES
-=======
+# Ascolectus albus Samuels & Rogerson, 1990 SPECIES
 
 #### Status
 ACCEPTED

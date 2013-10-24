@@ -1,5 +1,4 @@
-Xanthoparmelia rankinensis Elix SPECIES
-=======
+# Xanthoparmelia rankinensis Elix SPECIES
 
 #### Status
 ACCEPTED

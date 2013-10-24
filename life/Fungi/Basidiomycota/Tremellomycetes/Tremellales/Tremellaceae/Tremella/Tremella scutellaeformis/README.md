@@ -1,5 +1,4 @@
-Tremella scutellaeformis Berk. & Broome SPECIES
-=======
+# Tremella scutellaeformis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

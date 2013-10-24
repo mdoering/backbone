@@ -1,5 +1,4 @@
-Ramularia arisaematis Ellis & Dearn. SPECIES
-=======
+# Ramularia arisaematis Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

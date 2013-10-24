@@ -1,5 +1,4 @@
-Diplodina epicarya Fairm. SPECIES
-=======
+# Diplodina epicarya Fairm. SPECIES
 
 #### Status
 ACCEPTED

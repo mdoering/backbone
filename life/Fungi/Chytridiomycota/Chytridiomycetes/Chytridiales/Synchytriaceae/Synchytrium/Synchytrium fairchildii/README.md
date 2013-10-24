@@ -1,5 +1,4 @@
-Synchytrium fairchildii Ellis & Galloway SPECIES
-=======
+# Synchytrium fairchildii Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

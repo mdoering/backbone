@@ -1,5 +1,4 @@
-Torrendia Bres. GENUS
-=======
+# Torrendia Bres. GENUS
 
 #### Status
 ACCEPTED

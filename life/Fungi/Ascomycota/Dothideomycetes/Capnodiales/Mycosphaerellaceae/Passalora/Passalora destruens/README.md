@@ -1,5 +1,4 @@
-Passalora destruens (F. Anderson, Delhey & U. Braun) U. Braun & Crous SPECIES
-=======
+# Passalora destruens (F. Anderson, Delhey & U. Braun) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

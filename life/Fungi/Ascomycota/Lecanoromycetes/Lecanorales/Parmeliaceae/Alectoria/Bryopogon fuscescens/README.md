@@ -1,5 +1,4 @@
-Bryopogon fuscescens var. fuscescens VARIETY
-=======
+# Bryopogon fuscescens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bryopogon fuscescens var. fuscescens
+null
 
 ### Remarks
 null

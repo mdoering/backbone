@@ -1,5 +1,4 @@
-Mortierella cogitans Degawa, 1998 SPECIES
-=======
+# Mortierella cogitans Degawa, 1998 SPECIES
 
 #### Status
 ACCEPTED

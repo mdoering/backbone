@@ -1,5 +1,4 @@
-Stigmina cycadicola (Thirum.) M.B. Ellis SPECIES
-=======
+# Stigmina cycadicola (Thirum.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lachnea alpina (Fuckel) Sacc., 1889 SPECIES
-=======
+# Sarcotrochila alpina (Fuckel) Höhn., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 180 (1889)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 126: 310 (1917)
 
 #### Original name
-Humaria alpina Fuckel, 1875
+Naemacyclus alpinus Fuckel, 1875
 
 ### Remarks
 null

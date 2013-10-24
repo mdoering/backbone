@@ -1,5 +1,4 @@
-Usnea asteriza var. asteriza VARIETY
-=======
+# Usnea asteriza Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea asteriza var. asteriza
+Usnea asteriza Motyka
 
 ### Remarks
 null

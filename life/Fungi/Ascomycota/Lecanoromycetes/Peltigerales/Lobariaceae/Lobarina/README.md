@@ -1,5 +1,4 @@
-Lobarina Nyl. ex Cromb. GENUS
-=======
+# Lobarina Nyl. ex Cromb. GENUS
 
 #### Status
 ACCEPTED

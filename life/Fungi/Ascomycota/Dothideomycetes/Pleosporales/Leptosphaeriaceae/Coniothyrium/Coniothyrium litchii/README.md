@@ -1,5 +1,4 @@
-Coniothyrium litchii P.K. Chi & Z.D. Jiang SPECIES
-=======
+# Coniothyrium litchii P.K. Chi & Z.D. Jiang SPECIES
 
 #### Status
 ACCEPTED

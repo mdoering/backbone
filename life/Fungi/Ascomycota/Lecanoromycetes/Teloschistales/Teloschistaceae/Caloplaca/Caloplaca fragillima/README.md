@@ -1,5 +1,4 @@
-Caloplaca fragillima Poelt SPECIES
-=======
+# Caloplaca fragillima Poelt SPECIES
 
 #### Status
 ACCEPTED

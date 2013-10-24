@@ -1,5 +1,4 @@
-Candida ratchasimensis Jindam., Limtong, Yongman., Tuntir., Potach., H. Kawas. & Nakase SPECIES
-=======
+# Candida ratchasimensis Jindam., Limtong, Yongman., Tuntir., Potach., H. Kawas. & Nakase SPECIES
 
 #### Status
 ACCEPTED

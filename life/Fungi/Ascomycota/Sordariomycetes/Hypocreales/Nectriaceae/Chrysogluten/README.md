@@ -1,5 +1,4 @@
-Chrysogluten GENUS
-=======
+# Chrysogluten GENUS
 
 #### Status
 ACCEPTED

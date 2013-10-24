@@ -1,5 +1,4 @@
-Teichospora papillosa Ellis & Everh. SPECIES
-=======
+# Teichospora papillosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

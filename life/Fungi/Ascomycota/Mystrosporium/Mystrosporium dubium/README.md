@@ -1,5 +1,4 @@
-Mystrosporium dubium Corda SPECIES
-=======
+# Mystrosporium dubium Corda SPECIES
 
 #### Status
 ACCEPTED

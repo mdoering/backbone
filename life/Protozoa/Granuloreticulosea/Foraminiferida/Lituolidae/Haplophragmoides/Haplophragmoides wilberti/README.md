@@ -1,5 +1,4 @@
-Haplophragmoides wilberti SPECIES
-=======
+# Haplophragmoides wilberti SPECIES
 
 #### Status
 ACCEPTED

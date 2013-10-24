@@ -1,5 +1,4 @@
-Botrydium divisum Iyengar SPECIES
-=======
+# Botrydium divisum Iyengar SPECIES
 
 #### Status
 ACCEPTED

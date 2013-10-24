@@ -1,5 +1,4 @@
-Aplosporella manilensis Sacc. SPECIES
-=======
+# Aplosporella manilensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

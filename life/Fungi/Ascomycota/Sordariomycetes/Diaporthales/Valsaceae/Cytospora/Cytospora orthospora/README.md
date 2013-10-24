@@ -1,5 +1,4 @@
-Cytospora orthospora var. orthospora VARIETY
-=======
+# Cytospora orthospora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cytospora orthospora var. orthospora
+Cytospora orthospora Berk. & M.A. Curtis
 
 ### Remarks
 null

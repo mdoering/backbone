@@ -1,5 +1,4 @@
-Dothiopeltis arunci E. Müll., 1957 SPECIES
-=======
+# Dothiopeltis arunci E. Müll., 1957 SPECIES
 
 #### Status
 ACCEPTED

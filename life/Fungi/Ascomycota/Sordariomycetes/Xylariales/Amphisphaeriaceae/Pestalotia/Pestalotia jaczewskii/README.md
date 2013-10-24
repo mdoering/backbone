@@ -1,5 +1,4 @@
-Pestalotia jaczewskii Morochk. SPECIES
-=======
+# Pestalotia jaczewskii Morochk. SPECIES
 
 #### Status
 ACCEPTED

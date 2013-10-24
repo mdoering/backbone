@@ -1,5 +1,4 @@
-Lichenopeltella ramalinae Etayo & Diederich, 1997 SPECIES
-=======
+# Lichenopeltella ramalinae Etayo & Diederich, 1997 SPECIES
 
 #### Status
 ACCEPTED

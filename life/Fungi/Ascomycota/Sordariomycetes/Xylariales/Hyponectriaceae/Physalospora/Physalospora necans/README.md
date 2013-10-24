@@ -1,5 +1,4 @@
-Physalospora necans Rehm SPECIES
-=======
+# Physalospora necans Rehm SPECIES
 
 #### Status
 ACCEPTED

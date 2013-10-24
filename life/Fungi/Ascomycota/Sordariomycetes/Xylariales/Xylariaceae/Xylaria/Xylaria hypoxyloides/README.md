@@ -1,5 +1,4 @@
-Xylaria hypoxyloides Lloyd SPECIES
-=======
+# Xylaria hypoxyloides Lloyd SPECIES
 
 #### Status
 ACCEPTED

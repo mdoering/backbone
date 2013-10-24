@@ -1,5 +1,4 @@
-Terfezia hanotauxii Chatin SPECIES
-=======
+# Terfezia hanotauxii Chatin SPECIES
 
 #### Status
 ACCEPTED

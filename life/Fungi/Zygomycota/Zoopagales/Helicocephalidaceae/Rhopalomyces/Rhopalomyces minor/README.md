@@ -1,5 +1,4 @@
-Rhopalomyces minor Windisch SPECIES
-=======
+# Rhopalomyces minor Windisch SPECIES
 
 #### Status
 ACCEPTED

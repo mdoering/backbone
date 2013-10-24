@@ -1,5 +1,4 @@
-Uredo roupalae Cummins SPECIES
-=======
+# Uredo roupalae Cummins SPECIES
 
 #### Status
 ACCEPTED

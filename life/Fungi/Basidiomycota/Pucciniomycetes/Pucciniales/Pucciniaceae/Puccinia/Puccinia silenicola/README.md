@@ -1,5 +1,4 @@
-Puccinia silenicola Sousa da Câmara, Oliveira & Luz SPECIES
-=======
+# Puccinia silenicola Sousa da Câmara, Oliveira & Luz SPECIES
 
 #### Status
 ACCEPTED

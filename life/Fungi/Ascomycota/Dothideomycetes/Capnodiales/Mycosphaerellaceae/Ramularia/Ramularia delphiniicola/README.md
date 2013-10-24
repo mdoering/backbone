@@ -1,5 +1,4 @@
-Ramularia delphiniicola U. Braun SPECIES
-=======
+# Ramularia delphiniicola U. Braun SPECIES
 
 #### Status
 ACCEPTED

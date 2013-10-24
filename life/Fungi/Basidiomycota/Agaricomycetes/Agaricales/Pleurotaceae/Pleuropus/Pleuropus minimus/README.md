@@ -1,5 +1,4 @@
-Pleuropus minimus Murrill SPECIES
-=======
+# Pleuropus minimus Murrill SPECIES
 
 #### Status
 ACCEPTED

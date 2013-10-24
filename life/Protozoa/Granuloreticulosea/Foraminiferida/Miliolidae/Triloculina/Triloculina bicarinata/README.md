@@ -1,5 +1,4 @@
-Triloculina bicarinata SPECIES
-=======
+# Triloculina bicarinata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora saudiaii Mohammed SPECIES
-=======
+# Cercospora saudii Mohammed SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Mohammed, Al-Namlah & Vaughan, Indian J. Bot. 10(2): 151 (1987)
 
 #### Original name
-Cercospora saudiaii Mohammed
+Cercospora saudii Mohammed
 
 ### Remarks
 null

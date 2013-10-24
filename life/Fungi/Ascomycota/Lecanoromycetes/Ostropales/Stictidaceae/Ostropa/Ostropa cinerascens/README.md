@@ -1,5 +1,4 @@
-Ostropa cinerascens Schwein. SPECIES
-=======
+# Ostropa cinerascens Schwein. SPECIES
 
 #### Status
 ACCEPTED

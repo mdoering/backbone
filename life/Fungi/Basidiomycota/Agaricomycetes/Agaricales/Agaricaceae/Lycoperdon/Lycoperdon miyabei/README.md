@@ -1,5 +1,4 @@
-Lycoperdon miyabei (Lloyd) S. Ito SPECIES
-=======
+# Lycoperdon miyabei (Lloyd) S. Ito SPECIES
 
 #### Status
 ACCEPTED

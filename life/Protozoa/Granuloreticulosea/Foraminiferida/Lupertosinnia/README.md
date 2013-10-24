@@ -1,5 +1,4 @@
-Lupertosinnia Farinacci, 1996 GENUS
-=======
+# Lupertosinnia Farinacci, 1996 GENUS
 
 #### Status
 ACCEPTED

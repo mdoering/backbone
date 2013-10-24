@@ -1,5 +1,4 @@
-Tricornia muhezae Pell & E.U. Canning SPECIES
-=======
+# Tricornia muhezae Pell & E.U. Canning SPECIES
 
 #### Status
 ACCEPTED

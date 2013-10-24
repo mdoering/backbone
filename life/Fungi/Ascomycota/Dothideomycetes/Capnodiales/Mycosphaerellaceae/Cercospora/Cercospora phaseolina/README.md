@@ -1,5 +1,4 @@
-Cercospora phaseolina Speg. SPECIES
-=======
+# Cercospora phaseolina Speg. SPECIES
 
 #### Status
 ACCEPTED

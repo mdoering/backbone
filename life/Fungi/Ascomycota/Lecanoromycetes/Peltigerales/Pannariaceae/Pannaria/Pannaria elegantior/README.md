@@ -1,5 +1,4 @@
-Pannaria elegantior P.M. Jørg. SPECIES
-=======
+# Pannaria elegantior P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

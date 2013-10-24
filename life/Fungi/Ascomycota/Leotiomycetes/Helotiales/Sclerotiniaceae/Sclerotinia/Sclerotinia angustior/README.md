@@ -1,5 +1,4 @@
-Sclerotinia angustior J.M. Reade SPECIES
-=======
+# Sclerotinia angustior J.M. Reade SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora hulthemiae Kravtzev SPECIES
-=======
+# Cytospora hulthemiae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

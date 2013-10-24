@@ -1,5 +1,4 @@
-Graphis ajarekarii Patw. & C.R. Kulk. SPECIES
-=======
+# Graphis ajarekarii Patw. & C.R. Kulk. SPECIES
 
 #### Status
 ACCEPTED

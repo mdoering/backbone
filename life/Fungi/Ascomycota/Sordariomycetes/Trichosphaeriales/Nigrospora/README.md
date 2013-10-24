@@ -1,17 +1,16 @@
-Dichotomella Sacc. GENUS
-=======
+# Nigrospora Zimm. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 12(3): 312 (1914)
+Zentbl. Bakt. ParasitKde, Abt. II 8: 220 (1902)
 
 #### Original name
-Dichotomella Sacc.
+Nigrospora Zimm.
 
 ### Remarks
 null

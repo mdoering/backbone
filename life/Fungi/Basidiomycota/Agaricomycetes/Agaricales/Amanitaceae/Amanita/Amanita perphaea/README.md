@@ -1,5 +1,4 @@
-Amanita perphaea C.M. Simmons, T.W. Henkel & Bas SPECIES
-=======
+# Amanita perphaea C.M. Simmons, T.W. Henkel & Bas SPECIES
 
 #### Status
 ACCEPTED

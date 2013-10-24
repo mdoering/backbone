@@ -1,5 +1,4 @@
-Lecidea hypomeloides Müll. Arg. SPECIES
-=======
+# Lecidea hypomeloides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

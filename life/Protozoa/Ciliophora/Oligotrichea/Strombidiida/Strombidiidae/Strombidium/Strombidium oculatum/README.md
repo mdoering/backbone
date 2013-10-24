@@ -1,5 +1,4 @@
-Strombidium oculatum Gruber, 1884 SPECIES
-=======
+# Strombidium oculatum Gruber, 1884 SPECIES
 
 #### Status
 ACCEPTED

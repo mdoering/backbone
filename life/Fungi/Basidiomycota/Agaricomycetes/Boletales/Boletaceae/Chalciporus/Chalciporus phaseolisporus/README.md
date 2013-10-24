@@ -1,14 +1,13 @@
-Rubinoboletus phaseolisporus T.H. Li, R.N. Hilton & Watling, 1999 SPECIES
-=======
+# Chalciporus phaseolisporus (T.H. Li, R.N. Hilton & Watling) Klofac & Krisai, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Li & Watling, Edinb. J. Bot. 56(1): 146 (1999)
+Öst. Z. Pilzk. 15: 50 (2006)
 
 #### Original name
 Rubinoboletus phaseolisporus T.H. Li, R.N. Hilton & Watling, 1999

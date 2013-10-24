@@ -1,5 +1,4 @@
-Ramaria daucipes R.H. Petersen, 1986 SPECIES
-=======
+# Ramaria daucipes R.H. Petersen, 1986 SPECIES
 
 #### Status
 ACCEPTED

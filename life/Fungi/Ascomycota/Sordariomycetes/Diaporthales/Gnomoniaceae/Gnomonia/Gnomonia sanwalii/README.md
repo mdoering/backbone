@@ -1,5 +1,4 @@
-Gnomonia sanwalii E. Müll. SPECIES
-=======
+# Gnomonia sanwalii E. Müll. SPECIES
 
 #### Status
 ACCEPTED

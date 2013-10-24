@@ -1,5 +1,4 @@
-Boletopsis singaporensis Pat. & C.F. Baker SPECIES
-=======
+# Boletopsis singaporensis Pat. & C.F. Baker SPECIES
 
 #### Status
 ACCEPTED

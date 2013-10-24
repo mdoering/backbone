@@ -1,5 +1,4 @@
-Naucoria elatior Peck SPECIES
-=======
+# Naucoria elatior Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora goudotiana Lév. SPECIES
-=======
+# Thelephora goudotiana Lév. SPECIES
 
 #### Status
 ACCEPTED

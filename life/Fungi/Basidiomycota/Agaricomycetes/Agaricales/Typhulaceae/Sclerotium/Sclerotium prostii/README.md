@@ -1,5 +1,4 @@
-Sclerotium prostii Duby SPECIES
-=======
+# Sclerotium prostii Duby SPECIES
 
 #### Status
 ACCEPTED

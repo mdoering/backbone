@@ -1,5 +1,4 @@
-Helminthosporium anomalum J.C. Gilman & E.V. Abbott SPECIES
-=======
+# Helminthosporium anomalum J.C. Gilman & E.V. Abbott SPECIES
 
 #### Status
 ACCEPTED

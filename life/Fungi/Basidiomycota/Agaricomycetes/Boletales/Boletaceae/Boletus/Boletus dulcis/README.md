@@ -1,5 +1,4 @@
-Boletus dulcis Letell. SPECIES
-=======
+# Boletus dulcis Letell. SPECIES
 
 #### Status
 ACCEPTED

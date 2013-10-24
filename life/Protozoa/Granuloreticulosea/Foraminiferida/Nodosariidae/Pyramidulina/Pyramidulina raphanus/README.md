@@ -1,8 +1,7 @@
-Nodosaria aequalis d’Orbigny, 1908 SPECIES
-=======
+# Pyramidulina raphanus (Linnaeus, 1758) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

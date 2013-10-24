@@ -1,5 +1,4 @@
-Fusarium episphaericum (Cooke & Ellis) Sacc. SPECIES
-=======
+# Fusarium episphaericum (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola dysoxylicola Hansf. SPECIES
-=======
+# Meliola dysoxylicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

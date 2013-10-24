@@ -1,5 +1,4 @@
-Arthonia novella Kremp. SPECIES
-=======
+# Arthonia novella Kremp. SPECIES
 
 #### Status
 ACCEPTED

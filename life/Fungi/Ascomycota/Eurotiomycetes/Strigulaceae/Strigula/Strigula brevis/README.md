@@ -1,5 +1,4 @@
-Strigula brevis Bricaud & Cl. Roux SPECIES
-=======
+# Strigula brevis Bricaud & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

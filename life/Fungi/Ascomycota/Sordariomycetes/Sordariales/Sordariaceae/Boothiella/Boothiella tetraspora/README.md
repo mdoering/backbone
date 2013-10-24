@@ -1,14 +1,13 @@
-Thielavia tetraspora (Lodhi & J.H. Mirza) Arx, 1974 SPECIES
-=======
+# Boothiella tetraspora Lodhi & J.H. Mirza, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 2 115 (1974)
+Mycologia 54(2): 217 (1962)
 
 #### Original name
 Boothiella tetraspora Lodhi & J.H. Mirza, 1962

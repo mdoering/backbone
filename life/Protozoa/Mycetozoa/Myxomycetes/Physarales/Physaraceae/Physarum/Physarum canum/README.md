@@ -1,5 +1,4 @@
-Physarum canum J.M. Hook SPECIES
-=======
+# Physarum canum J.M. Hook SPECIES
 
 #### Status
 ACCEPTED

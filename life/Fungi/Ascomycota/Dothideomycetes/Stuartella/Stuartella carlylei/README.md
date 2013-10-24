@@ -1,5 +1,4 @@
-Stuartella carlylei Cooke & Massee, 1891 SPECIES
-=======
+# Stuartella carlylei Cooke & Massee, 1891 SPECIES
 
 #### Status
 ACCEPTED

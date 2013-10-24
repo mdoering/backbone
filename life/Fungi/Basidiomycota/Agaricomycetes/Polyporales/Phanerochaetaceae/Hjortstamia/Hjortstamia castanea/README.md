@@ -1,5 +1,4 @@
-Hjortstamia castanea Boidin & Gilles, 2003 SPECIES
-=======
+# Hjortstamia castanea Boidin & Gilles, 2003 SPECIES
 
 #### Status
 ACCEPTED

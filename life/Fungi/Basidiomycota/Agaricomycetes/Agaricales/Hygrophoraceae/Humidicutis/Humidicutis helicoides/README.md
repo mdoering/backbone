@@ -1,5 +1,4 @@
-Humidicutis helicoides (A.M. Young) A.M. Young SPECIES
-=======
+# Humidicutis helicoides (A.M. Young) A.M. Young SPECIES
 
 #### Status
 ACCEPTED

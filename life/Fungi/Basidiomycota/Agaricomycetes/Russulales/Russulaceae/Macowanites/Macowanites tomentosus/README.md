@@ -1,5 +1,4 @@
-Macowanites tomentosus (J.W. Cribb) T. Lebel & Castellano, 2002 SPECIES
-=======
+# Macowanites tomentosus (J.W. Cribb) T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
 ACCEPTED

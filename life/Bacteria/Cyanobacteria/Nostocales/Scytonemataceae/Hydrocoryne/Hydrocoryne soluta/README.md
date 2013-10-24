@@ -1,5 +1,4 @@
-Hydrocoryne soluta (Bornet & Grunow) I. Umezaki SPECIES
-=======
+# Hydrocoryne soluta (Bornet & Grunow) I. Umezaki SPECIES
 
 #### Status
 ACCEPTED

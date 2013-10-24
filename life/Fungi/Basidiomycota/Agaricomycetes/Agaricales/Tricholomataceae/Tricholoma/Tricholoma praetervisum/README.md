@@ -1,5 +1,4 @@
-Tricholoma praetervisum Velen. SPECIES
-=======
+# Tricholoma praetervisum Velen. SPECIES
 
 #### Status
 ACCEPTED

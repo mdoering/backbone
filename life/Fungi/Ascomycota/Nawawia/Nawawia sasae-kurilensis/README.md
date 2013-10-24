@@ -1,17 +1,16 @@
-Nawawia sasae-kurilenses Melnik & K.D. Hyde SPECIES
-=======
+# Nawawia sasae-kurilensis Melnik & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mikol. Fitopatol. 40(5): 411 (2006)
 
 #### Original name
-Nawawia sasae-kurilenses Melnik & K.D. Hyde
+Nawawia sasae-kurilensis Melnik & K.D. Hyde
 
 ### Remarks
 null

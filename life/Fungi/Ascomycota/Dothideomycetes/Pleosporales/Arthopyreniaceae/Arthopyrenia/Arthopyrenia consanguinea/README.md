@@ -1,5 +1,4 @@
-Arthopyrenia consanguinea Müll. Arg. SPECIES
-=======
+# Arthopyrenia consanguinea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

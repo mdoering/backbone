@@ -1,5 +1,4 @@
-Epigloea sparrii Aptroot SPECIES
-=======
+# Epigloea sparrii Aptroot SPECIES
 
 #### Status
 ACCEPTED

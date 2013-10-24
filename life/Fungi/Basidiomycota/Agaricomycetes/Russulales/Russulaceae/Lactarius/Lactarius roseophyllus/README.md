@@ -1,5 +1,4 @@
-Lactarius roseophyllus R. Heim SPECIES
-=======
+# Lactarius roseophyllus R. Heim SPECIES
 
 #### Status
 ACCEPTED

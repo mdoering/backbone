@@ -1,5 +1,4 @@
-Globulina quercina var. quercina VARIETY
-=======
+# Globulina quercina Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 290 (1934)
 
 #### Original name
-Globulina quercina var. quercina
+Globulina quercina Velen.
 
 ### Remarks
 null

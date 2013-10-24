@@ -1,5 +1,4 @@
-Graphis dissidens Nyl. SPECIES
-=======
+# Graphis dissidens Nyl. SPECIES
 
 #### Status
 ACCEPTED

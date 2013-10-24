@@ -1,5 +1,4 @@
-Melanothecopsis follmannii C.W. Dodge SPECIES
-=======
+# Melanothecopsis follmannii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

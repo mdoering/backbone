@@ -1,5 +1,4 @@
-Lecanactis saltelii B. de Lesd. SPECIES
-=======
+# Lecanactis saltelii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quambalariaceae Z.W. Beer, Begerow & R. Bauer FAMILY
-=======
+# Quambalariaceae Z.W. Beer, Begerow & R. Bauer FAMILY
 
 #### Status
 ACCEPTED

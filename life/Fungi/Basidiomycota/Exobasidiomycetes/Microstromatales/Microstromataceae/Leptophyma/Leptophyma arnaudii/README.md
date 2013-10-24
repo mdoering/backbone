@@ -1,5 +1,4 @@
-Leptophyma arnaudii (C. Moreau & M. Moreau) Arx SPECIES
-=======
+# Leptophyma arnaudii (C. Moreau & M. Moreau) Arx SPECIES
 
 #### Status
 ACCEPTED

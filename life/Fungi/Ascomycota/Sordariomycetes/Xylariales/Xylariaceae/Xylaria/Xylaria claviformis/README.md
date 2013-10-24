@@ -1,5 +1,4 @@
-Xylaria claviformis Starbäck SPECIES
-=======
+# Xylaria claviformis Starbäck SPECIES
 
 #### Status
 ACCEPTED

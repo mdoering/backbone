@@ -1,5 +1,4 @@
-Clitocybe brevipes H.E. Bigelow SPECIES
-=======
+# Clitocybe brevipes H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

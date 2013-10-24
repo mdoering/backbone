@@ -1,5 +1,4 @@
-Lecidea castaneola (Dufour) Nyl. SPECIES
-=======
+# Lecidea castaneola (Dufour) Nyl. SPECIES
 
 #### Status
 ACCEPTED

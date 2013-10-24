@@ -1,5 +1,4 @@
-Haplozoonidae FAMILY
-=======
+# Haplozoonidae FAMILY
 
 #### Status
 ACCEPTED

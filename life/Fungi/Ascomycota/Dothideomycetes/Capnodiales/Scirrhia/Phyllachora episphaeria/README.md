@@ -1,8 +1,7 @@
-Berlesiella episphaeria (Peck) M.E. Barr, 1987 SPECIES
-=======
+# Phyllachora episphaeria (Peck) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

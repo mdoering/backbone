@@ -1,5 +1,4 @@
-Pterygiopsis somaliensis SPECIES
-=======
+# Pterygiopsis somaliensis SPECIES
 
 #### Status
 ACCEPTED

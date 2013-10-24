@@ -1,5 +1,4 @@
-Hymenochaete raunkiaeri Bres. SPECIES
-=======
+# Hymenochaete raunkiaeri Bres. SPECIES
 
 #### Status
 ACCEPTED

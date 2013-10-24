@@ -1,5 +1,4 @@
-Cercospora clauseniae Thirum. & Chupp SPECIES
-=======
+# Cercospora clauseniae Thirum. & Chupp SPECIES
 
 #### Status
 ACCEPTED

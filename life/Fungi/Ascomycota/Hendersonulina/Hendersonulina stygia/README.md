@@ -1,5 +1,4 @@
-Hendersonulina stygia (Ellis & Everh.) Tassi SPECIES
-=======
+# Hendersonulina stygia (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

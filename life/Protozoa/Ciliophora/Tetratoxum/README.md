@@ -1,5 +1,4 @@
-Tetratoxum Gasskovsky, 1919 GENUS
-=======
+# Tetratoxum Gasskovsky, 1919 GENUS
 
 #### Status
 ACCEPTED

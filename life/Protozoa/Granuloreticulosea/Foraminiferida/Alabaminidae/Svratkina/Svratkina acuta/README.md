@@ -1,5 +1,4 @@
-Svratkina acuta (Sidebottom, 1956) SPECIES
-=======
+# Svratkina acuta (Sidebottom, 1956) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora asplenii Ziling SPECIES
-=======
+# Pleospora asplenii Ziling SPECIES
 
 #### Status
 ACCEPTED

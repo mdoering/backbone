@@ -1,5 +1,4 @@
-Trematosphaeria socialis Kirschst. SPECIES
-=======
+# Trematosphaeria socialis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

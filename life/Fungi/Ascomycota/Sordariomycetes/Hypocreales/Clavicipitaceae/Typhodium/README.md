@@ -1,5 +1,4 @@
-Typhodium Link GENUS
-=======
+# Typhodium Link GENUS
 
 #### Status
 ACCEPTED

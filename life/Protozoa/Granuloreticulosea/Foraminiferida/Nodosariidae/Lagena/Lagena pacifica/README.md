@@ -1,5 +1,4 @@
-Lagena pacifica (Sidebottom, 1912) SPECIES
-=======
+# Lagena pacifica (Sidebottom, 1912) SPECIES
 
 #### Status
 ACCEPTED

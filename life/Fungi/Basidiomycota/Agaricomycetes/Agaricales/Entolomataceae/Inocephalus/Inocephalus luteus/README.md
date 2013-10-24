@@ -1,5 +1,4 @@
-Inocephalus luteus (Peck) T.J. Baroni SPECIES
-=======
+# Inocephalus luteus (Peck) T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

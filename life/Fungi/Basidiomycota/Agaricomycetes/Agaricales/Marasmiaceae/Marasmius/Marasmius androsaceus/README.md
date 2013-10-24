@@ -1,17 +1,16 @@
-Marasmius androsaceus var. androsaceus VARIETY
-=======
+# Marasmius androsaceus (L.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Epicr. syst. mycol. (Upsaliae) 385 (1838)
 
 #### Original name
-Marasmius androsaceus var. androsaceus
+Agaricus androsaceus Pers., 1828
 
 ### Remarks
 null

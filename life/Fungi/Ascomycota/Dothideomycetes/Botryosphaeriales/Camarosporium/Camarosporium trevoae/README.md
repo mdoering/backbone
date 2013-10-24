@@ -1,5 +1,4 @@
-Camarosporium trevoae (Speg.) Sacc. & Trotter SPECIES
-=======
+# Camarosporium trevoae (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

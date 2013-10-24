@@ -1,5 +1,4 @@
-Buellia rubroreagens A. Nordin SPECIES
-=======
+# Buellia rubroreagens A. Nordin SPECIES
 
 #### Status
 ACCEPTED

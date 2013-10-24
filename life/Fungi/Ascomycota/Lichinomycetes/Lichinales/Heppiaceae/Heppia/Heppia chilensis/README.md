@@ -1,5 +1,4 @@
-Heppia chilensis Jatta SPECIES
-=======
+# Heppia chilensis Jatta SPECIES
 
 #### Status
 ACCEPTED

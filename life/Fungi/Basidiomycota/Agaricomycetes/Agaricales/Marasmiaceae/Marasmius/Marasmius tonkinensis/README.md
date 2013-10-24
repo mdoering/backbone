@@ -1,5 +1,4 @@
-Marasmius tonkinensis Pat. SPECIES
-=======
+# Marasmius tonkinensis Pat. SPECIES
 
 #### Status
 ACCEPTED

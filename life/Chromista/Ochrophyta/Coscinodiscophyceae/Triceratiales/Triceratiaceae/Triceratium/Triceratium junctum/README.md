@@ -1,5 +1,4 @@
-Triceratium junctum A. Smith SPECIES
-=======
+# Triceratium junctum A. Smith SPECIES
 
 #### Status
 ACCEPTED

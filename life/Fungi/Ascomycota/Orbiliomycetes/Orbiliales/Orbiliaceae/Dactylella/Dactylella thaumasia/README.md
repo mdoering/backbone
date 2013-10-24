@@ -1,5 +1,4 @@
-Dactylella thaumasia Drechsler SPECIES
-=======
+# Dactylella thaumasia Drechsler SPECIES
 
 #### Status
 ACCEPTED

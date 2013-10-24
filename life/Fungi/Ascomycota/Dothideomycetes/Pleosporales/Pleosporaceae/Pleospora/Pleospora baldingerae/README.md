@@ -1,5 +1,4 @@
-Pleospora baldingerae Petr. SPECIES
-=======
+# Pleospora baldingerae Petr. SPECIES
 
 #### Status
 ACCEPTED

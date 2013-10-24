@@ -1,5 +1,4 @@
-Peziza prolificans Schwein. SPECIES
-=======
+# Peziza prolificans Schwein. SPECIES
 
 #### Status
 ACCEPTED

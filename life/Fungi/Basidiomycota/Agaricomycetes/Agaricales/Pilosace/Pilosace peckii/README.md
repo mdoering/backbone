@@ -1,5 +1,4 @@
-Pilosace peckii House SPECIES
-=======
+# Pilosace peckii House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium heringerianum Viégas SPECIES
-=======
+# Helminthosporium heringerianum Viégas SPECIES
 
 #### Status
 ACCEPTED

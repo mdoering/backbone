@@ -1,5 +1,4 @@
-Troposporium Harkn. GENUS
-=======
+# Troposporium Harkn. GENUS
 
 #### Status
 ACCEPTED

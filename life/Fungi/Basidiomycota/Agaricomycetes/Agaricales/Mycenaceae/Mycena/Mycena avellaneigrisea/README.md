@@ -1,5 +1,4 @@
-Mycena avellaneigrisea Murrill SPECIES
-=======
+# Mycena avellaneigrisea Murrill SPECIES
 
 #### Status
 ACCEPTED

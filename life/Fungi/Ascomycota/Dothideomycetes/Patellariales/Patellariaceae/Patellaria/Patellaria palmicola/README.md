@@ -1,5 +1,4 @@
-Patellaria palmicola (Tuck.) Müll. Arg. SPECIES
-=======
+# Patellaria palmicola (Tuck.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

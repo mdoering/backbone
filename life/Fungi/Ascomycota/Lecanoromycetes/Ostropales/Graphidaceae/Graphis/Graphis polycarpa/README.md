@@ -1,5 +1,4 @@
-Graphis polycarpa (Müll. Arg.) Stizenb. SPECIES
-=======
+# Graphis polycarpa (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

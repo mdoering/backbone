@@ -1,5 +1,4 @@
-Trichodina clini Fantham, 1930 SPECIES
-=======
+# Trichodina clini Fantham, 1930 SPECIES
 
 #### Status
 ACCEPTED

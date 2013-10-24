@@ -1,5 +1,4 @@
-Melampsora sancti-johannis Barclay SPECIES
-=======
+# Melampsora sancti-johannis Barclay SPECIES
 
 #### Status
 ACCEPTED

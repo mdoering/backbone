@@ -1,5 +1,4 @@
-Aleurina argentina (Rifai) Korf & W.Y. Zhuang SPECIES
-=======
+# Aleurina argentina (Rifai) Korf & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

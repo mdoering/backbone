@@ -1,5 +1,4 @@
-Hebeloma fusisporum Gröger & Zschiesch., 1981 SPECIES
-=======
+# Hebeloma fusisporum Gröger & Zschiesch., 1981 SPECIES
 
 #### Status
 ACCEPTED

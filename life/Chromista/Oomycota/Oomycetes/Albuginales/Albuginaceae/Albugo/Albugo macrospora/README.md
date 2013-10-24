@@ -1,5 +1,4 @@
-Albugo macrospora (Togashi) S. Ito SPECIES
-=======
+# Albugo macrospora (Togashi) S. Ito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeriopsis quercicola Ade SPECIES
-=======
+# Aposphaeriopsis quercicola Ade SPECIES
 
 #### Status
 ACCEPTED

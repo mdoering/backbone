@@ -1,5 +1,4 @@
-Phoma platycarpa Bubák SPECIES
-=======
+# Phoma platycarpa Bubák SPECIES
 
 #### Status
 ACCEPTED

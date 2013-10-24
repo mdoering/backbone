@@ -1,5 +1,4 @@
-Uredo japonica De Toni SPECIES
-=======
+# Uredo japonica De Toni SPECIES
 
 #### Status
 ACCEPTED

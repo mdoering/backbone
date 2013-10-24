@@ -1,5 +1,4 @@
-Amphilogia Gryzenh., H.F. Glen & M.J. Wingf. GENUS
-=======
+# Amphilogia Gryzenh., H.F. Glen & M.J. Wingf. GENUS
 
 #### Status
 ACCEPTED

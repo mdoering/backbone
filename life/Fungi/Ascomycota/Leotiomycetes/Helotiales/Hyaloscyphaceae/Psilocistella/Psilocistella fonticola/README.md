@@ -1,5 +1,4 @@
-Psilocistella fonticola Svrcek SPECIES
-=======
+# Psilocistella fonticola Svrcek SPECIES
 
 #### Status
 ACCEPTED

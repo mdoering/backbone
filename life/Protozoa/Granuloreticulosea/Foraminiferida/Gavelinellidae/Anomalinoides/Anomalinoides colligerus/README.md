@@ -1,5 +1,4 @@
-Anomalinoides colligerus (Chapman & Parr, 1937) SPECIES
-=======
+# Anomalinoides colligerus (Chapman & Parr, 1937) SPECIES
 
 #### Status
 ACCEPTED

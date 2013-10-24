@@ -1,5 +1,4 @@
-Agaricus microchlamidus Speg. SPECIES
-=======
+# Agaricus microchlamidus Speg. SPECIES
 
 #### Status
 ACCEPTED

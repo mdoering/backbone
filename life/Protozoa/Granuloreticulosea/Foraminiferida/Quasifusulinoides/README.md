@@ -1,5 +1,4 @@
-Quasifusulinoides Rauzer-Chernousova & Rozovskaya in Miklukho-Maklay, Rauzer-Chernousova & Rozovskaya, 1958 GENUS
-=======
+# Quasifusulinoides Rauzer-Chernousova & Rozovskaya in Miklukho-Maklay, Rauzer-Chernousova & Rozovskaya, 1958 GENUS
 
 #### Status
 ACCEPTED

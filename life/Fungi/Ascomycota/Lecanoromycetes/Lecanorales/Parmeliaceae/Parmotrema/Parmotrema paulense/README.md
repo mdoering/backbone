@@ -1,5 +1,4 @@
-Parmotrema paulense (Zahlbr.) Hale SPECIES
-=======
+# Parmotrema paulense (Zahlbr.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius rubicundus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius rubicundus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

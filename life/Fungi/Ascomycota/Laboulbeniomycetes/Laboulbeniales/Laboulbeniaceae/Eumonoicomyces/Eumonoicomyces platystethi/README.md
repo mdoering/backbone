@@ -1,5 +1,4 @@
-Eumonoicomyces platystethi Thaxt. SPECIES
-=======
+# Eumonoicomyces platystethi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

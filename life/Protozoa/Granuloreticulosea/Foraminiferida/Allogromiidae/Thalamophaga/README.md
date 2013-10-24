@@ -1,5 +1,4 @@
-Thalamophaga Rhumbler, 1911 GENUS
-=======
+# Thalamophaga Rhumbler, 1911 GENUS
 
 #### Status
 ACCEPTED

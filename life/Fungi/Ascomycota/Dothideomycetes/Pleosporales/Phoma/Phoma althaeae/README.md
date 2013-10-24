@@ -1,5 +1,4 @@
-Phoma althaeae Pass. SPECIES
-=======
+# Phoma althaeae Pass. SPECIES
 
 #### Status
 ACCEPTED

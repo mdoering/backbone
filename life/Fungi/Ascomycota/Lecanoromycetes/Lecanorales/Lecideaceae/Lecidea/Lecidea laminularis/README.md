@@ -1,5 +1,4 @@
-Lecidea laminularis (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea laminularis (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nyctotherus teleacus Geiman & Wichtermann, 1937 SPECIES
-=======
+# Nyctotherus teleacus Geiman & Wichtermann, 1937 SPECIES
 
 #### Status
 ACCEPTED

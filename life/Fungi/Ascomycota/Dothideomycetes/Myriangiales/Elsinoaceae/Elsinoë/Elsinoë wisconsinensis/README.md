@@ -1,5 +1,4 @@
-Elsinoë wisconsinensis H.C. Greene SPECIES
-=======
+# Elsinoë wisconsinensis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

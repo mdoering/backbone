@@ -1,5 +1,4 @@
-Cryptomela eugeniacearum (Corda) Sacc. SPECIES
-=======
+# Cryptomela eugeniacearum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

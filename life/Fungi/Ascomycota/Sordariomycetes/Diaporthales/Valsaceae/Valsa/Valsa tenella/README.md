@@ -1,5 +1,4 @@
-Valsa tenella f. tenella FORM
-=======
+# Valsa tenella Fabre SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Valsa tenella f. tenella
+Valsa tenella Fabre
 
 ### Remarks
 null

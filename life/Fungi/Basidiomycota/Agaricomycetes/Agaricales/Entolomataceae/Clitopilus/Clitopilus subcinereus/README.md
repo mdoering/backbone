@@ -1,5 +1,4 @@
-Clitopilus subcinereus Murrill SPECIES
-=======
+# Clitopilus subcinereus Murrill SPECIES
 
 #### Status
 ACCEPTED

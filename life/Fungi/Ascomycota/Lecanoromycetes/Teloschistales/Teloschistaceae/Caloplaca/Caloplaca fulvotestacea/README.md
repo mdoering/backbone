@@ -1,5 +1,4 @@
-Caloplaca fulvotestacea Malme SPECIES
-=======
+# Caloplaca fulvotestacea Malme SPECIES
 
 #### Status
 ACCEPTED

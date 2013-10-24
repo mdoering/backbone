@@ -1,5 +1,4 @@
-Eurotium baculatum (Westling) Sacc. & Trotter SPECIES
-=======
+# Eurotium baculatum (Westling) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

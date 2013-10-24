@@ -1,5 +1,4 @@
-Carpenteria monticularis SPECIES
-=======
+# Carpenteria monticularis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Atractium cristatum Demelius SPECIES
-=======
+# Atractium cristatum Demelius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria rhopolispora Berl. SPECIES
-=======
+# Leptosphaeria rhopolispora Berl. SPECIES
 
 #### Status
 ACCEPTED

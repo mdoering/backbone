@@ -1,5 +1,4 @@
-Ascochyta cinerea McAlpine SPECIES
-=======
+# Ascochyta cinerea McAlpine SPECIES
 
 #### Status
 ACCEPTED

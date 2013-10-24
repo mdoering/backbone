@@ -1,14 +1,13 @@
-Ceratocystis megalobrunnea R.W. Davidson & Toole, 1965 SPECIES
-=======
+# Ophiostoma megalobrunneum (R.W. Davidson & Toole) de Hoog & R.J. Scheff., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 56(6): 796 (1965)
+Mycologia 76(2): 297 (1984)
 
 #### Original name
 Ceratocystis megalobrunnea R.W. Davidson & Toole, 1965

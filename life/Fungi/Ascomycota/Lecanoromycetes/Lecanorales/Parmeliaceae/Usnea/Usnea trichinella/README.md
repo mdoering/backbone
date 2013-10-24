@@ -1,5 +1,4 @@
-Usnea trichinella Motyka SPECIES
-=======
+# Usnea trichinella Motyka SPECIES
 
 #### Status
 ACCEPTED

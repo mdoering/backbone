@@ -1,5 +1,4 @@
-Entomorphinoides McCulloch, 1977 GENUS
-=======
+# Entomorphinoides McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

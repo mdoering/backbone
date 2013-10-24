@@ -1,5 +1,4 @@
-Roccella hypomecha var. benguellensis (Welw.) Vain. VARIETY
-=======
+# Roccella hypomecha (Ach.) Bory SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Parmelia roccella var. hypomecha Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Claviceps rolfsii F. Stevens & J.G. Hall SPECIES
-=======
+# Claviceps rolfsii F. Stevens & J.G. Hall SPECIES
 
 #### Status
 ACCEPTED

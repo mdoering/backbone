@@ -1,5 +1,4 @@
-Phialophora vesiculosa ined. SPECIES
-=======
+# Phialophora vesiculosa ined. SPECIES
 
 #### Status
 ACCEPTED

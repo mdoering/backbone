@@ -1,5 +1,4 @@
-Corticium beyrichii (Fr.) Fr. SPECIES
-=======
+# Corticium beyrichii (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

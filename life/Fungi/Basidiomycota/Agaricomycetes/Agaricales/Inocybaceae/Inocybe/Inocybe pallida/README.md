@@ -1,5 +1,4 @@
-Inocybe pallida Velen., 1920 SPECIES
-=======
+# Inocybe pallida Velen., 1920 SPECIES
 
 #### Status
 ACCEPTED

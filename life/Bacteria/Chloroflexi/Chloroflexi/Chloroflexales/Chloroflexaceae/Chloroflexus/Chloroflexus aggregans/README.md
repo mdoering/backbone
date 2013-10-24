@@ -1,5 +1,4 @@
-Chloroflexus aggregans Hanada et al., 1995 SPECIES
-=======
+# Chloroflexus aggregans Hanada et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

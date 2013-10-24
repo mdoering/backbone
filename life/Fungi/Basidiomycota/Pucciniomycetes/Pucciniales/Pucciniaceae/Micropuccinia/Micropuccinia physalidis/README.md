@@ -1,5 +1,4 @@
-Micropuccinia physalidis (Peck) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia physalidis (Peck) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

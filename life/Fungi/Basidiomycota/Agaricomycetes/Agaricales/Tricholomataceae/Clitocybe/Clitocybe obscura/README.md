@@ -1,5 +1,4 @@
-Clitocybe obscura Velen. SPECIES
-=======
+# Clitocybe obscura Velen. SPECIES
 
 #### Status
 ACCEPTED

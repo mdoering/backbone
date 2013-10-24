@@ -1,5 +1,4 @@
-Phaeopolynema (Spegazzini) Petrak & Sydow, 1937 GENUS
-=======
+# Phaeopolynema (Spegazzini) Petrak & Sydow, 1937 GENUS
 
 #### Status
 ACCEPTED

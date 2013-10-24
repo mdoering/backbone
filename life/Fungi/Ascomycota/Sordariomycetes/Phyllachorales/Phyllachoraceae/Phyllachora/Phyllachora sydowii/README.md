@@ -1,14 +1,13 @@
-Physalospora astragali var. machaerii Sacc., 1901 VARIETY
-=======
+# Phyllachora sydowii P.F. Cannon, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 78 (1901)
+Mycol. Pap. 163: 177 (1991)
 
 #### Original name
 Physalospora astragali var. machaerii Sacc., 1901

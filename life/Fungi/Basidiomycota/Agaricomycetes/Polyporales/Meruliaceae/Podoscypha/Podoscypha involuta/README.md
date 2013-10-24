@@ -1,17 +1,16 @@
-Lloydella involuta var. involuta (Klotzsch) Bres. VARIETY
-=======
+# Podoscypha involuta (Klotzsch) Imazeki, 1952 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 56(4,5): 300 (1915)
+Bull. Gov. Forest Exp. St. Tokyo 57: 98 (1952)
 
 #### Original name
-Lloydella involuta var. involuta (Klotzsch) Bres.
+Stereum involutum Klotzsch, 1838
 
 ### Remarks
 null

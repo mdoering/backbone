@@ -1,5 +1,4 @@
-Aecidium urceolatum Cooke SPECIES
-=======
+# Aecidium urceolatum Cooke SPECIES
 
 #### Status
 ACCEPTED

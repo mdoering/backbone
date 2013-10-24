@@ -1,5 +1,4 @@
-Amerosporium lini Hulea & Neagu-Tîrc. SPECIES
-=======
+# Amerosporium lini Hulea & Neagu-Tîrc. SPECIES
 
 #### Status
 ACCEPTED

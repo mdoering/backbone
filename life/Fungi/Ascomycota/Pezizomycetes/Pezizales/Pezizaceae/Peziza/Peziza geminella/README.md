@@ -1,5 +1,4 @@
-Peziza geminella Nyl. SPECIES
-=======
+# Peziza geminella Nyl. SPECIES
 
 #### Status
 ACCEPTED

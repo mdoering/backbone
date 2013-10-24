@@ -1,5 +1,4 @@
-Graphiopsis ceratostomoides (Speg.) Goid. SPECIES
-=======
+# Graphiopsis ceratostomoides (Speg.) Goid. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhynchostoma cornigerum P. Karst. SPECIES
-=======
+# Rhynchostoma cornigerum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

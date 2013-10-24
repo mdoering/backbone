@@ -1,5 +1,4 @@
-Autoicomyces minusculus (Thaxt.) Speg. SPECIES
-=======
+# Autoicomyces minusculus (Thaxt.) Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calicium gomphilloides (Nyl.) Trevis. SPECIES
-=======
+# Calicium gomphilloides (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

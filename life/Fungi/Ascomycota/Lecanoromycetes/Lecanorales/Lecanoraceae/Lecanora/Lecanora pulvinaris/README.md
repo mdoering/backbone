@@ -1,5 +1,4 @@
-Lecanora pulvinaris Zahlbr. SPECIES
-=======
+# Lecanora pulvinaris Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

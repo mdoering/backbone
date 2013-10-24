@@ -1,5 +1,4 @@
-Stictina hirsuta (Mont.) Nyl. SPECIES
-=======
+# Stictina hirsuta (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

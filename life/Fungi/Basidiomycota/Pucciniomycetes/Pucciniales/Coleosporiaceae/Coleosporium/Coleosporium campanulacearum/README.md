@@ -1,5 +1,4 @@
-Coleosporium campanulacearum Fr. SPECIES
-=======
+# Coleosporium campanulacearum Fr. SPECIES
 
 #### Status
 ACCEPTED

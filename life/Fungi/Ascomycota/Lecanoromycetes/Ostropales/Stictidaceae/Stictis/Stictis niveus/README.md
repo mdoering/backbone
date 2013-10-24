@@ -1,5 +1,4 @@
-Stictis niveus Pers. SPECIES
-=======
+# Stictis niveus Pers. SPECIES
 
 #### Status
 ACCEPTED

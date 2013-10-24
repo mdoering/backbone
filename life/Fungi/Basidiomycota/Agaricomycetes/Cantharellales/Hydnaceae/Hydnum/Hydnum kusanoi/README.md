@@ -1,5 +1,4 @@
-Hydnum kusanoi (Henn. & Shirai) Henn. SPECIES
-=======
+# Hydnum kusanoi (Henn. & Shirai) Henn. SPECIES
 
 #### Status
 ACCEPTED

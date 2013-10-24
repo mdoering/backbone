@@ -1,5 +1,4 @@
-Strumella dealbata Ellis & Everh. SPECIES
-=======
+# Strumella dealbata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

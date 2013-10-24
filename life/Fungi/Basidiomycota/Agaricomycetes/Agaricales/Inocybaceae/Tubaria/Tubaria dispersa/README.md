@@ -1,17 +1,16 @@
-Galera autochthona (Berk. & Broome) Quél., 1880 SPECIES
-=======
+# Tubaria dispersa (L.) Singer, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 26: 51 (1880)
+Persoonia 2(1): 22 (1961)
 
 #### Original name
-Agaricus autochthonus Berk. & Broome, 1866
+Agaricus dispersus L., 1753
 
 ### Remarks
 null

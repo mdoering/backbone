@@ -1,5 +1,4 @@
-Hypoxylon retpela Van der Gucht & Van der Veken, 1992 SPECIES
-=======
+# Hypoxylon retpela Van der Gucht & Van der Veken, 1992 SPECIES
 
 #### Status
 ACCEPTED

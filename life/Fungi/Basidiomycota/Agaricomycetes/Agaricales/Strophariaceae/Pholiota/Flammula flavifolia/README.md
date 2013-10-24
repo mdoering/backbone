@@ -1,5 +1,4 @@
-Flammula flavifolia (Murrill) Murrill SPECIES
-=======
+# Flammula flavifolia (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella dryina Mouton SPECIES
-=======
+# Anthostomella dryina Mouton SPECIES
 
 #### Status
 ACCEPTED

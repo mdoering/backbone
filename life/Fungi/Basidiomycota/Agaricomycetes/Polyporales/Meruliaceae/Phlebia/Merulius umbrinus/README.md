@@ -1,5 +1,4 @@
-Merulius umbrinus Fr. SPECIES
-=======
+# Merulius umbrinus Fr. SPECIES
 
 #### Status
 ACCEPTED

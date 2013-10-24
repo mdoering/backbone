@@ -1,5 +1,4 @@
-Teichospora gregaria Ellis & Everh. SPECIES
-=======
+# Teichospora gregaria Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium sophoricola Koshk. & Frolov SPECIES
-=======
+# Camarosporium sophoricola Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

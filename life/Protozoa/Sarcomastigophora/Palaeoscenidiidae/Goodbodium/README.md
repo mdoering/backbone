@@ -1,5 +1,4 @@
-Goodbodium Furutani, 1990 GENUS
-=======
+# Goodbodium Furutani, 1990 GENUS
 
 #### Status
 ACCEPTED

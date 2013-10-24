@@ -1,5 +1,4 @@
-Pycnorostrum Golovin GENUS
-=======
+# Pycnorostrum Golovin GENUS
 
 #### Status
 ACCEPTED

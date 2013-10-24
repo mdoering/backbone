@@ -1,5 +1,4 @@
-Asteromella innumera (Cooke & Harkn.) Petr. SPECIES
-=======
+# Asteromella innumera (Cooke & Harkn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

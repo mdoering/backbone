@@ -1,5 +1,4 @@
-Astylozoon faurei Kahl, 1935 SPECIES
-=======
+# Astylozoon faurei Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

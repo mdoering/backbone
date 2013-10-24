@@ -1,5 +1,4 @@
-Graphis paragrapta (Müll. Arg.) Stizenb. SPECIES
-=======
+# Graphis paragrapta (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

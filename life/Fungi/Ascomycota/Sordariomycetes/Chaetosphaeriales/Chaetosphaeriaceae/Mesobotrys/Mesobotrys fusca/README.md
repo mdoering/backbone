@@ -1,5 +1,4 @@
-Mesobotrys fusca var. fusca VARIETY
-=======
+# Mesobotrys fusca (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 2(no. 6): 27 (1880)
 
 #### Original name
-Mesobotrys fusca var. fusca
+Chaetopsis fusca Corda
 
 ### Remarks
 null

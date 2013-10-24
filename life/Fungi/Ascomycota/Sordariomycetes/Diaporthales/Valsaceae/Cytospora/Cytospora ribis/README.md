@@ -1,5 +1,4 @@
-Cytospora ribis Ehrenb., 1818 SPECIES
-=======
+# Cytospora ribis Ehrenb., 1818 SPECIES
 
 #### Status
 ACCEPTED

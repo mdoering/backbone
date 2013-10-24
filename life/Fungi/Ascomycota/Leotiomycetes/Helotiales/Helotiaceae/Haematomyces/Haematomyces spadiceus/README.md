@@ -1,5 +1,4 @@
-Haematomyces spadiceus Berk. & Broome SPECIES
-=======
+# Haematomyces spadiceus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

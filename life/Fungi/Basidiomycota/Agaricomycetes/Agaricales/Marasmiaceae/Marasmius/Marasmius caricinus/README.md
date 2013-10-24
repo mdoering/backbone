@@ -1,5 +1,4 @@
-Marasmius caricinus Velen. SPECIES
-=======
+# Marasmius caricinus Velen. SPECIES
 
 #### Status
 ACCEPTED

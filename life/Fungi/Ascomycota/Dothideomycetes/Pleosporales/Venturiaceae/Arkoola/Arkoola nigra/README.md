@@ -1,5 +1,4 @@
-Arkoola nigra J. Walker & Stovold, 1986 SPECIES
-=======
+# Arkoola nigra J. Walker & Stovold, 1986 SPECIES
 
 #### Status
 ACCEPTED

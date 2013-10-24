@@ -1,5 +1,4 @@
-Placopsis venosa Imshaug ex D. J. Galloway SPECIES
-=======
+# Placopsis venosa Imshaug ex D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

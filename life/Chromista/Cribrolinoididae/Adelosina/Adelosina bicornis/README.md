@@ -1,8 +1,7 @@
-Miliolina bicornis var. elegans Williamson, 1858 VARIETY
-=======
+# Adelosina bicornis (Walker & Jacob, 1798) SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

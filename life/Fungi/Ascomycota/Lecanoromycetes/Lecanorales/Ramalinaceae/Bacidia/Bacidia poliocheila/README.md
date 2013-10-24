@@ -1,5 +1,4 @@
-Bacidia poliocheila (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia poliocheila (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagenosolenia eccentrica (Sidebottom, 1913) SPECIES
-=======
+# Lagenosolenia eccentrica (Sidebottom, 1913) SPECIES
 
 #### Status
 ACCEPTED

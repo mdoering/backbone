@@ -1,5 +1,4 @@
-Meliola voacangicola Hansf. SPECIES
-=======
+# Meliola voacangicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratellopsis mucedinea (Boud.) Corner SPECIES
-=======
+# Ceratellopsis mucedinea (Boud.) Corner SPECIES
 
 #### Status
 ACCEPTED

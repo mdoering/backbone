@@ -1,5 +1,4 @@
-Botryobasidium lacinisporum G. Langer, 1994 SPECIES
-=======
+# Botryobasidium lacinisporum G. Langer, 1994 SPECIES
 
 #### Status
 ACCEPTED

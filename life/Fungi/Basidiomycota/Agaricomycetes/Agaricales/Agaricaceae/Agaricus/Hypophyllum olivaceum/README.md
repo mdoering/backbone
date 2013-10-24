@@ -1,5 +1,4 @@
-Hypophyllum olivaceum Paulet SPECIES
-=======
+# Hypophyllum olivaceum Paulet SPECIES
 
 #### Status
 ACCEPTED

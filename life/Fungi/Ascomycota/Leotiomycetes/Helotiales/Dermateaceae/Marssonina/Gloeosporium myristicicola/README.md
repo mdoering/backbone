@@ -1,17 +1,16 @@
-Gloeosporium myristicola V.G. Rao & Varghese SPECIES
-=======
+# Gloeosporium myristicicola V.G. Rao & Varghese SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biovigyanam 6(2): 169 (1980)
 
 #### Original name
-Gloeosporium myristicola V.G. Rao & Varghese
+Gloeosporium myristicicola V.G. Rao & Varghese
 
 ### Remarks
 null

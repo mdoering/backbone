@@ -1,5 +1,4 @@
-Amandinea placodiomorphoides (Imshaug) Marbach SPECIES
-=======
+# Amandinea placodiomorphoides (Imshaug) Marbach SPECIES
 
 #### Status
 ACCEPTED

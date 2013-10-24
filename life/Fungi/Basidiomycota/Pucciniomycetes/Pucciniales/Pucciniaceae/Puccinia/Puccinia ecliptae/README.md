@@ -1,5 +1,4 @@
-Puccinia ecliptae Eboh SPECIES
-=======
+# Puccinia ecliptae Eboh SPECIES
 
 #### Status
 ACCEPTED

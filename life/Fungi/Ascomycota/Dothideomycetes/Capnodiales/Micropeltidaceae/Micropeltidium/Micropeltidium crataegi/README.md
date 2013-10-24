@@ -1,5 +1,4 @@
-Micropeltidium crataegi S.K. Bose SPECIES
-=======
+# Micropeltidium crataegi S.K. Bose SPECIES
 
 #### Status
 ACCEPTED

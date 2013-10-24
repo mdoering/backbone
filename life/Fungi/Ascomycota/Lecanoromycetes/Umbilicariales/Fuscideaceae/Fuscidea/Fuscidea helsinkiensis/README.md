@@ -1,5 +1,4 @@
-Fuscidea helsinkiensis (Vain.) P. James, Poelt & V. Wirth SPECIES
-=======
+# Fuscidea helsinkiensis (Vain.) P. James, Poelt & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

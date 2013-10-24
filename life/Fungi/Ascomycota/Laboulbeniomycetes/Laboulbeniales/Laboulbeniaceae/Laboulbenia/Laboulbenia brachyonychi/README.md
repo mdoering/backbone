@@ -1,5 +1,4 @@
-Laboulbenia brachyonychi Thaxt. SPECIES
-=======
+# Laboulbenia brachyonychi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

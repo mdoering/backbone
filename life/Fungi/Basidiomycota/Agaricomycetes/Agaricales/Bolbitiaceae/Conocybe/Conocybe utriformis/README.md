@@ -1,17 +1,16 @@
-Conocybe subnuda Kühner, 1935 SPECIES
-=======
+# Conocybe utriformis P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Watling, Notes R. bot. Gdn Edinb. 40(3): 553 (1983)
+Trans. Br. mycol. Soc. 43: 196 (1960)
 
 #### Original name
-Conocybe subnuda Kühner, 1935
+Conocybe utriformis P.D. Orton, 1960
 
 ### Remarks
 null

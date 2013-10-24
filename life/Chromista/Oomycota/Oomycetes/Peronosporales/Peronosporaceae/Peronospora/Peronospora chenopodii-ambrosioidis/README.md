@@ -1,5 +1,4 @@
-Peronospora chenopodii-ambrosioidis Golenia SPECIES
-=======
+# Peronospora chenopodii-ambrosioidis Golenia SPECIES
 
 #### Status
 ACCEPTED

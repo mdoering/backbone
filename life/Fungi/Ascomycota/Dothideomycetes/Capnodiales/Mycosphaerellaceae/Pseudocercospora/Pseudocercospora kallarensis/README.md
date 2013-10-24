@@ -1,5 +1,4 @@
-Pseudocercospora kallarensis (T.S. Ramakr. & K. Ramakr.) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora kallarensis (T.S. Ramakr. & K. Ramakr.) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

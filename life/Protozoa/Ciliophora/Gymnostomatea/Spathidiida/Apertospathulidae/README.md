@@ -1,5 +1,4 @@
-Apertospathulidae FAMILY
-=======
+# Apertospathulidae FAMILY
 
 #### Status
 ACCEPTED

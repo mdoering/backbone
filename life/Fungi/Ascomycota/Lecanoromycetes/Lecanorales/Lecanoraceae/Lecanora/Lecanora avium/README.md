@@ -1,5 +1,4 @@
-Lecanora avium (Zahlbr.) Hertel SPECIES
-=======
+# Lecanora avium (Zahlbr.) Hertel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catocarpus effiguratus (Anzi) Arnold SPECIES
-=======
+# Catocarpus effiguratus (Anzi) Arnold SPECIES
 
 #### Status
 ACCEPTED

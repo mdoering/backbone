@@ -1,8 +1,7 @@
-Palaeopontosphaera dubia Noël, 1965 SPECIES
-=======
+# Biscutum dubium (Noël, 1965) Grün in Grün et al., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

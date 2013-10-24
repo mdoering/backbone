@@ -1,5 +1,4 @@
-Peniophora admirabilis Burt SPECIES
-=======
+# Peniophora admirabilis Burt SPECIES
 
 #### Status
 ACCEPTED

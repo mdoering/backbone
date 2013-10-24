@@ -1,5 +1,4 @@
-Lepocinclis wangi SPECIES
-=======
+# Lepocinclis wangi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Soloacrospora microverrucosa R.F. Castañeda, W. Gams & Saikawa SPECIES
-=======
+# Soloacrospora microverrucosa R.F. Castañeda, W. Gams & Saikawa SPECIES
 
 #### Status
 ACCEPTED

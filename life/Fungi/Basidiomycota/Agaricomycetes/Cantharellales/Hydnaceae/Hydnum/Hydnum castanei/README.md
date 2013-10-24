@@ -1,5 +1,4 @@
-Hydnum castanei Pers. SPECIES
-=======
+# Hydnum castanei Pers. SPECIES
 
 #### Status
 ACCEPTED

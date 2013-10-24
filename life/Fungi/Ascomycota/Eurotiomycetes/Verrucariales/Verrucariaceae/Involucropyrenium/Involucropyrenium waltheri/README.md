@@ -1,17 +1,16 @@
-Verrucaria waltheri Kremp. SPECIES
-=======
+# Involucropyrenium waltheri (Kremp.) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 38: 69 (1855)
+null
 
 #### Original name
-Verrucaria waltheri Kremp.
+null
 
 ### Remarks
 null

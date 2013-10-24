@@ -1,5 +1,4 @@
-Puccinia rara McKenzie, 1980 SPECIES
-=======
+# Puccinia rara McKenzie, 1980 SPECIES
 
 #### Status
 ACCEPTED

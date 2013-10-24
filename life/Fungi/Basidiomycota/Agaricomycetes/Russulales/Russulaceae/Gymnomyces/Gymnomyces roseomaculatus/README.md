@@ -1,5 +1,4 @@
-Gymnomyces roseomaculatus Singer & A.H. Sm. SPECIES
-=======
+# Gymnomyces roseomaculatus Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

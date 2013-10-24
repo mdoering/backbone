@@ -1,5 +1,4 @@
-Phoma lyciella Brunaud SPECIES
-=======
+# Phoma lyciella Brunaud SPECIES
 
 #### Status
 ACCEPTED

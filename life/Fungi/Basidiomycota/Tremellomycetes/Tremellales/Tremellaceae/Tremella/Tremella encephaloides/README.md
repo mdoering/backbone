@@ -1,5 +1,4 @@
-Tremella encephaloides Schumach. SPECIES
-=======
+# Tremella encephaloides Schumach. SPECIES
 
 #### Status
 ACCEPTED

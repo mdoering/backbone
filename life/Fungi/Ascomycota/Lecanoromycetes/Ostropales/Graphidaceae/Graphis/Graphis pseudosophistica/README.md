@@ -1,17 +1,16 @@
-Graphis includens Vain. SPECIES
-=======
+# Graphis pseudosophistica Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Fauna Flora fenn. 7(2): 104 (1890)
 
 #### Original name
-null
+Graphis pseudosophistica Vain.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Inocybe emergens (Cleland) Grgur. SPECIES
-=======
+# Inocybe emergens (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium exechegloutum Norris, 1961 SPECIES
-=======
+# Gymnodinium exechegloutum Norris, 1961 SPECIES
 
 #### Status
 ACCEPTED

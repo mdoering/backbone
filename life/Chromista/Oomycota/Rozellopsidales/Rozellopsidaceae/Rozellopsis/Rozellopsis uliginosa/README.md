@@ -1,5 +1,4 @@
-Rozellopsis uliginosa A. Batko, 1978 SPECIES
-=======
+# Rozellopsis uliginosa A. Batko, 1978 SPECIES
 
 #### Status
 ACCEPTED

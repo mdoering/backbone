@@ -1,5 +1,4 @@
-Sphaerella salicis (Bubák & Vleugel) Sacc. SPECIES
-=======
+# Sphaerella salicis (Bubák & Vleugel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

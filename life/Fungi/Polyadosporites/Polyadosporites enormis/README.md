@@ -1,5 +1,4 @@
-Polyadosporites enormis V.S. Ediger SPECIES
-=======
+# Polyadosporites enormis V.S. Ediger SPECIES
 
 #### Status
 ACCEPTED

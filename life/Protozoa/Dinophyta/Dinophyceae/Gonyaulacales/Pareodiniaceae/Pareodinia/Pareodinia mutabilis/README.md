@@ -1,5 +1,4 @@
-Pareodinia mutabilis L.A. Riley SPECIES
-=======
+# Pareodinia mutabilis L.A. Riley SPECIES
 
 #### Status
 ACCEPTED

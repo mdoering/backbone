@@ -1,5 +1,4 @@
-Gelasinospora brasiliensis C. Ram, 1968 SPECIES
-=======
+# Gelasinospora brasiliensis C. Ram, 1968 SPECIES
 
 #### Status
 ACCEPTED

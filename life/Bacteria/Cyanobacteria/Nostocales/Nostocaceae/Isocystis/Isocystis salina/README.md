@@ -1,5 +1,4 @@
-Isocystis salina Iwanoff SPECIES
-=======
+# Isocystis salina Iwanoff SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypa patagonica Speg. SPECIES
-=======
+# Eutypa patagonica Speg. SPECIES
 
 #### Status
 ACCEPTED

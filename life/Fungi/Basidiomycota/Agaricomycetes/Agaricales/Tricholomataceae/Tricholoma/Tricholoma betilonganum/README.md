@@ -1,5 +1,4 @@
-Tricholoma betilonganum Corner SPECIES
-=======
+# Tricholoma betilonganum Corner SPECIES
 
 #### Status
 ACCEPTED

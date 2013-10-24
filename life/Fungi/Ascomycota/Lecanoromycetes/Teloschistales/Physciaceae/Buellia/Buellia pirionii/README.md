@@ -1,17 +1,16 @@
-Buellia pirioni B. de Lesd. SPECIES
-=======
+# Buellia pirionii B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. bot. Fr. 81: 767 (1934)
 
 #### Original name
-Buellia pirioni B. de Lesd.
+Buellia pirionii B. de Lesd.
 
 ### Remarks
 null

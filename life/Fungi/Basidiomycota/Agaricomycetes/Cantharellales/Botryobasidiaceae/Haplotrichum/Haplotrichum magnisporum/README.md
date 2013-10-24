@@ -1,5 +1,4 @@
-Haplotrichum magnisporum (Linder) Hol.-Jech. SPECIES
-=======
+# Haplotrichum magnisporum (Linder) Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

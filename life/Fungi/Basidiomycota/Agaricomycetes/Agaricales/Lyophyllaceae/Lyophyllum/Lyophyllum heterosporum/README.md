@@ -1,5 +1,4 @@
-Lyophyllum heterosporum (Singer) Singer SPECIES
-=======
+# Lyophyllum heterosporum (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

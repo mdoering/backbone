@@ -1,5 +1,4 @@
-Lactobacillus hamsteri Mitsuoka & Fujisawa, 1988 SPECIES
-=======
+# Lactobacillus hamsteri Mitsuoka & Fujisawa, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinoflagellida ORDER
-=======
+# Dinoflagellida ORDER
 
 #### Status
 ACCEPTED

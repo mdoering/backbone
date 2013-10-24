@@ -1,5 +1,4 @@
-Strumella leguminum Fr. SPECIES
-=======
+# Strumella leguminum Fr. SPECIES
 
 #### Status
 ACCEPTED

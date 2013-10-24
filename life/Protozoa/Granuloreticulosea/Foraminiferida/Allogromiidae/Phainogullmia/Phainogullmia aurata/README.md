@@ -1,5 +1,4 @@
-Phainogullmia aurata Nyholm, 1955 SPECIES
-=======
+# Phainogullmia aurata Nyholm, 1955 SPECIES
 
 #### Status
 ACCEPTED

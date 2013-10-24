@@ -1,5 +1,4 @@
-Discina stephensoniana Ellis SPECIES
-=======
+# Discina stephensoniana Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta symphyti Cejp SPECIES
-=======
+# Phyllosticta symphyti Cejp SPECIES
 
 #### Status
 ACCEPTED

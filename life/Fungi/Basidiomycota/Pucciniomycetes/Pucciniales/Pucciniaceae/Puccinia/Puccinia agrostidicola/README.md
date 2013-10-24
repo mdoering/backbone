@@ -1,5 +1,4 @@
-Puccinia agrostidicola F.L. Tai SPECIES
-=======
+# Puccinia agrostidicola F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

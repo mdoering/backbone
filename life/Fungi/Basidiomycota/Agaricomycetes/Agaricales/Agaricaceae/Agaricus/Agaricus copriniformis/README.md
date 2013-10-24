@@ -1,5 +1,4 @@
-Agaricus copriniformis Schumach. SPECIES
-=======
+# Agaricus copriniformis Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella polaris Rostr. SPECIES
-=======
+# Psathyrella polaris Rostr. SPECIES
 
 #### Status
 ACCEPTED

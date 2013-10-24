@@ -1,5 +1,4 @@
-Meliola ixorae-coccineae Hosag. & C.M. Pillai SPECIES
-=======
+# Meliola ixorae-coccineae Hosag. & C.M. Pillai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella cedrelae (Speg.) M. Morelet SPECIES
-=======
+# Mycosphaerella cedrelae (Speg.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

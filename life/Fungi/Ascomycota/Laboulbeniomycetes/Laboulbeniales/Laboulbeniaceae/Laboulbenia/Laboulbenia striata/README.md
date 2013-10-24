@@ -1,5 +1,4 @@
-Laboulbenia striata Sugiy. SPECIES
-=======
+# Laboulbenia striata Sugiy. SPECIES
 
 #### Status
 ACCEPTED

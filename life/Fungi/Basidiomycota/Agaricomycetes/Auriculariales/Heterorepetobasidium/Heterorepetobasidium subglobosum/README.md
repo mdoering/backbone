@@ -1,5 +1,4 @@
-Heterorepetobasidium subglobosum Chee J. Chen & Oberw., 2002 SPECIES
-=======
+# Heterorepetobasidium subglobosum Chee J. Chen & Oberw., 2002 SPECIES
 
 #### Status
 ACCEPTED

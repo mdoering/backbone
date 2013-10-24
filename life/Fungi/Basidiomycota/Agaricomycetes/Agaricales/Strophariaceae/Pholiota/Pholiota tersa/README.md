@@ -1,5 +1,4 @@
-Pholiota tersa Fr. SPECIES
-=======
+# Pholiota tersa Fr. SPECIES
 
 #### Status
 ACCEPTED

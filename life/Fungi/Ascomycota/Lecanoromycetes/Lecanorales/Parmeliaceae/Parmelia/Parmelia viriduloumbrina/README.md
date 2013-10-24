@@ -1,5 +1,4 @@
-Parmelia viriduloumbrina var. viriduloumbrina VARIETY
-=======
+# Parmelia viriduloumbrina (Gyeln.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia viriduloumbrina var. viriduloumbrina
+Parmelia conspersa f. viriduloumbrina Gyeln.
 
 ### Remarks
 null

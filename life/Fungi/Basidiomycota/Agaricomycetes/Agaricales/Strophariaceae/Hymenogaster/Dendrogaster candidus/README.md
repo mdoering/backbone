@@ -1,5 +1,4 @@
-Dendrogaster candidus (Harkn.) Zeller & C.W. Dodge SPECIES
-=======
+# Dendrogaster candidus (Harkn.) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

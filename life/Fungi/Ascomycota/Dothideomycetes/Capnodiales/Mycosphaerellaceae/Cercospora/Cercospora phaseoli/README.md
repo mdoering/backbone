@@ -1,5 +1,4 @@
-Cercospora phaseoli Dearn. & Barthol. SPECIES
-=======
+# Cercospora phaseoli Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

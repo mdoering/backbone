@@ -1,5 +1,4 @@
-Anabaena subcylindrica Borge SPECIES
-=======
+# Anabaena subcylindrica Borge SPECIES
 
 #### Status
 ACCEPTED

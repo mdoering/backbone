@@ -1,5 +1,4 @@
-Asteridiella diotacanthi Hosag., H. Biju & Manojk. SPECIES
-=======
+# Asteridiella diotacanthi Hosag., H. Biju & Manojk. SPECIES
 
 #### Status
 ACCEPTED

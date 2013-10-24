@@ -1,5 +1,4 @@
-Sporotrichum humanum Speg. SPECIES
-=======
+# Sporotrichum humanum Speg. SPECIES
 
 #### Status
 ACCEPTED

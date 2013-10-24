@@ -1,5 +1,4 @@
-Camarosporium guyonianum (Mont. & Durieu) Van Warmelo & B. Sutton SPECIES
-=======
+# Camarosporium guyonianum (Mont. & Durieu) Van Warmelo & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

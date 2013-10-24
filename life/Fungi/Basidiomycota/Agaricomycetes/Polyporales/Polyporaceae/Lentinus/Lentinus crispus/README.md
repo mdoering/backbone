@@ -1,5 +1,4 @@
-Lentinus crispus Pat. SPECIES
-=======
+# Lentinus crispus Pat. SPECIES
 
 #### Status
 ACCEPTED

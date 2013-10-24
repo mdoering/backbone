@@ -1,5 +1,4 @@
-Clitopilus paxilloides Noordel. SPECIES
-=======
+# Clitopilus paxilloides Noordel. SPECIES
 
 #### Status
 ACCEPTED

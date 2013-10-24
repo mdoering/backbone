@@ -1,5 +1,4 @@
-Gyalidea praetermissa Foucard & G. Thor SPECIES
-=======
+# Gyalidea praetermissa Foucard & G. Thor SPECIES
 
 #### Status
 ACCEPTED

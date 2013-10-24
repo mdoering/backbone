@@ -1,5 +1,4 @@
-Buellia physciaria SPECIES
-=======
+# Buellia physciaria SPECIES
 
 #### Status
 ACCEPTED

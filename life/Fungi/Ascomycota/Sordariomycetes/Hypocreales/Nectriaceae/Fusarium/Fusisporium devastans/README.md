@@ -1,5 +1,4 @@
-Fusisporium devastans Kühner SPECIES
-=======
+# Fusisporium devastans Kühner SPECIES
 
 #### Status
 ACCEPTED

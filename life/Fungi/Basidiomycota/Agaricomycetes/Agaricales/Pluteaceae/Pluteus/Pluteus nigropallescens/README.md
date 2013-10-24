@@ -1,5 +1,4 @@
-Pluteus nigropallescens Singer SPECIES
-=======
+# Pluteus nigropallescens Singer SPECIES
 
 #### Status
 ACCEPTED

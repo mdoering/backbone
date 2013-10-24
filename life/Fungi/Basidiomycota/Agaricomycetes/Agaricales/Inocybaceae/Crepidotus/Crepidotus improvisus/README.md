@@ -1,5 +1,4 @@
-Crepidotus improvisus (E. Horak) T.W. May & A.E. Wood, 1995 SPECIES
-=======
+# Crepidotus improvisus (E. Horak) T.W. May & A.E. Wood, 1995 SPECIES
 
 #### Status
 ACCEPTED

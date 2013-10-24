@@ -1,5 +1,4 @@
-Phyllactinia elsholtziae Y.X. Yu SPECIES
-=======
+# Phyllactinia elsholtziae Y.X. Yu SPECIES
 
 #### Status
 ACCEPTED

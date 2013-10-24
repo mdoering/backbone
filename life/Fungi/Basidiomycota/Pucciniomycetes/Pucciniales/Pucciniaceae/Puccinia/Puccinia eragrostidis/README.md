@@ -1,5 +1,4 @@
-Puccinia eragrostidis Petch SPECIES
-=======
+# Puccinia eragrostidis Petch SPECIES
 
 #### Status
 ACCEPTED

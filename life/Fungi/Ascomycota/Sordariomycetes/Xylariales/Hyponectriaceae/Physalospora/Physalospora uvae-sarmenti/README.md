@@ -1,5 +1,4 @@
-Physalospora uvae-sarmenti (Cooke) Sacc. SPECIES
-=======
+# Physalospora uvae-sarmenti (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

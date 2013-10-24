@@ -1,5 +1,4 @@
-Lecanora apochroea Ach. SPECIES
-=======
+# Lecanora apochroea Ach. SPECIES
 
 #### Status
 ACCEPTED

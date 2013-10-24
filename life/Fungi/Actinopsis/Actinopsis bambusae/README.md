@@ -1,5 +1,4 @@
-Actinopsis bambusae Starbäck SPECIES
-=======
+# Actinopsis bambusae Starbäck SPECIES
 
 #### Status
 ACCEPTED

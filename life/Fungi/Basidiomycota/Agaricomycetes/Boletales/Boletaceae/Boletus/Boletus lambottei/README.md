@@ -1,5 +1,4 @@
-Boletus lambottei Sacc. & Cub. SPECIES
-=======
+# Boletus lambottei Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

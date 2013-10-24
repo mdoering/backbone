@@ -1,5 +1,4 @@
-Coryneum ruborum Oudem. SPECIES
-=======
+# Coryneum ruborum Oudem. SPECIES
 
 #### Status
 ACCEPTED

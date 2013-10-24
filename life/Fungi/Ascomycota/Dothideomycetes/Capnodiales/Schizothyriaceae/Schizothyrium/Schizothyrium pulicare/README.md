@@ -1,5 +1,4 @@
-Schizothyrium pulicare (Mont.) Sacc. SPECIES
-=======
+# Schizothyrium pulicare (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

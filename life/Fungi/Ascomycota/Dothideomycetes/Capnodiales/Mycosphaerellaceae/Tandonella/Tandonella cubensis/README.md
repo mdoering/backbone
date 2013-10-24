@@ -1,5 +1,4 @@
-Tandonella cubensis R.F. Castañeda & W.B. Kendr., 1990 SPECIES
-=======
+# Tandonella cubensis R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
 ACCEPTED

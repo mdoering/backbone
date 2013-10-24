@@ -1,5 +1,4 @@
-Candida methanolphaga Kumam. & M. Yamam. SPECIES
-=======
+# Candida methanolphaga Kumam. & M. Yamam. SPECIES
 
 #### Status
 ACCEPTED

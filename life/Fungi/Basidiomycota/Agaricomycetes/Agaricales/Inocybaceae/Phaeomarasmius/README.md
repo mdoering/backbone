@@ -1,5 +1,4 @@
-Phaeomarasmius Scherffel, 1897 GENUS
-=======
+# Phaeomarasmius Scherffel, 1897 GENUS
 
 #### Status
 ACCEPTED

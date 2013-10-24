@@ -1,5 +1,4 @@
-Lecidea ochroidea Stizenb. SPECIES
-=======
+# Lecidea ochroidea Stizenb. SPECIES
 
 #### Status
 ACCEPTED

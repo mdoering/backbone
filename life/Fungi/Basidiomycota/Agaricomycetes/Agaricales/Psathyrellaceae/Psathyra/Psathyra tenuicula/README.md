@@ -1,5 +1,4 @@
-Psathyra tenuicula P. Karst. SPECIES
-=======
+# Psathyra tenuicula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

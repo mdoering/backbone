@@ -1,5 +1,4 @@
-Parasiphula Kantvilas & Grube GENUS
-=======
+# Parasiphula Kantvilas & Grube GENUS
 
 #### Status
 ACCEPTED

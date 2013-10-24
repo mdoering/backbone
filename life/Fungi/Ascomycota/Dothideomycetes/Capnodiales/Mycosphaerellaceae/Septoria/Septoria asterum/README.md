@@ -1,5 +1,4 @@
-Septoria asterum Moesz & Smarods SPECIES
-=======
+# Septoria asterum Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

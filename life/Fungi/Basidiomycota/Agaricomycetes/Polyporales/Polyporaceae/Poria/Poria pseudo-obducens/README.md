@@ -1,5 +1,4 @@
-Poria pseudo-obducens Pilát SPECIES
-=======
+# Poria pseudo-obducens Pilát SPECIES
 
 #### Status
 ACCEPTED

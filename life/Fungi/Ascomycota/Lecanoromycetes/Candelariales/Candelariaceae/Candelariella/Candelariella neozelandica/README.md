@@ -1,5 +1,4 @@
-Candelariella neozelandica C.W. Dodge SPECIES
-=======
+# Candelariella neozelandica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

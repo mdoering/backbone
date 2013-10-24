@@ -1,8 +1,7 @@
-Opisthotricha parahalophila Wang & Nie, 1935 SPECIES
-=======
+# Oxytricha parahalophila (Wang & Nie, 1935) Berger, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

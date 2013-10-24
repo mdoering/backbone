@@ -1,5 +1,4 @@
-Thelidium lapadense Servít SPECIES
-=======
+# Thelidium lapadense Servít SPECIES
 
 #### Status
 ACCEPTED

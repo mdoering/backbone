@@ -1,5 +1,4 @@
-Sticta flavicans Hook. f. & Taylor SPECIES
-=======
+# Sticta flavicans Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

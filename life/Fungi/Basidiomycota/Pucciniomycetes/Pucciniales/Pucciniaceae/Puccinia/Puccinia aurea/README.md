@@ -1,5 +1,4 @@
-Puccinia aurea G. Winter SPECIES
-=======
+# Puccinia aurea G. Winter SPECIES
 
 #### Status
 ACCEPTED

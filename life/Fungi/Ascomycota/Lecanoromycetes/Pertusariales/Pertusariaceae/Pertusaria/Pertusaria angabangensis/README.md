@@ -1,5 +1,4 @@
-Pertusaria angabangensis A.W. Archer & Elix SPECIES
-=======
+# Pertusaria angabangensis A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

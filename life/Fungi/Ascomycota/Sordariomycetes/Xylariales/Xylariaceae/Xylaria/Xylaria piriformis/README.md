@@ -1,5 +1,4 @@
-Xylaria piriformis Pat. SPECIES
-=======
+# Xylaria piriformis Pat. SPECIES
 
 #### Status
 ACCEPTED

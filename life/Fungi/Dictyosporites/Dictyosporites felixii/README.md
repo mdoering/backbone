@@ -1,5 +1,4 @@
-Dictyosporites felixii R.T. Lange & P.H. Sm. SPECIES
-=======
+# Dictyosporites felixii R.T. Lange & P.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

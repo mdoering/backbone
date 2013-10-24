@@ -1,5 +1,4 @@
-Pleurotus tomentosulus Peck SPECIES
-=======
+# Pleurotus tomentosulus Peck SPECIES
 
 #### Status
 ACCEPTED

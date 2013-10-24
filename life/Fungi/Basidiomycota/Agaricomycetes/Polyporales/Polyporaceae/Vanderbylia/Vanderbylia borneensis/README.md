@@ -1,5 +1,4 @@
-Vanderbylia borneensis Corner, 1987 SPECIES
-=======
+# Vanderbylia borneensis Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

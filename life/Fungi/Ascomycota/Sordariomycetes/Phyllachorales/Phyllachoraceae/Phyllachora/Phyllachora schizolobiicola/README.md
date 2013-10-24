@@ -1,5 +1,4 @@
-Phyllachora schizolobiicola peltophori (Syd. & P. Syd.) P.F. Cannon, 1991 INFRASPECIFIC_NAME
-=======
+# Phyllachora schizolobiicola SPECIES
 
 #### Status
 ACCEPTED

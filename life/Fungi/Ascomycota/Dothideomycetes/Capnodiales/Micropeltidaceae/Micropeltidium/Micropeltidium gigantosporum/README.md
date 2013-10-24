@@ -1,5 +1,4 @@
-Micropeltidium gigantosporum Bat. & J. Silva SPECIES
-=======
+# Micropeltidium gigantosporum Bat. & J. Silva SPECIES
 
 #### Status
 ACCEPTED

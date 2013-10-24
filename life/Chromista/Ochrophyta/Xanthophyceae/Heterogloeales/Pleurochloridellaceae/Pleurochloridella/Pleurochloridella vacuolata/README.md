@@ -1,5 +1,4 @@
-Pleurochloridella vacuolata Pascher SPECIES
-=======
+# Pleurochloridella vacuolata Pascher SPECIES
 
 #### Status
 ACCEPTED

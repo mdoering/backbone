@@ -1,5 +1,4 @@
-Diplopsalis lebourae (Nie, 1943) Balech, 1967 SPECIES
-=======
+# Diplopsalis lebourae (Nie, 1943) Balech, 1967 SPECIES
 
 #### Status
 ACCEPTED

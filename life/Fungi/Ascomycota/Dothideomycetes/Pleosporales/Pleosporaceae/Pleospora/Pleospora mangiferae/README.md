@@ -1,5 +1,4 @@
-Pleospora mangiferae A. Pande SPECIES
-=======
+# Pleospora mangiferae A. Pande SPECIES
 
 #### Status
 ACCEPTED

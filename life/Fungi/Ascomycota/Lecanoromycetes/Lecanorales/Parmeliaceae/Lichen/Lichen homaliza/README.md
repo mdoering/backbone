@@ -1,5 +1,4 @@
-Lichen homaliza Ach. SPECIES
-=======
+# Lichen homaliza Ach. SPECIES
 
 #### Status
 ACCEPTED

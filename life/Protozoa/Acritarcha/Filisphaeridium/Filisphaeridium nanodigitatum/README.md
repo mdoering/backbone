@@ -1,5 +1,4 @@
-Filisphaeridium nanodigitatum (Uutela & Tynni, 1991) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium nanodigitatum (Uutela & Tynni, 1991) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

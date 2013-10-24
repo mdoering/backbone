@@ -1,5 +1,4 @@
-Rutstroemia niphogetonis Dennis SPECIES
-=======
+# Rutstroemia niphogetonis Dennis SPECIES
 
 #### Status
 ACCEPTED

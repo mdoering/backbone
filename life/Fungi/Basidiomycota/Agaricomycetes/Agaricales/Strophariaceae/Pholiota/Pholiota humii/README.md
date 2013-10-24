@@ -1,5 +1,4 @@
-Pholiota humii A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota humii A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

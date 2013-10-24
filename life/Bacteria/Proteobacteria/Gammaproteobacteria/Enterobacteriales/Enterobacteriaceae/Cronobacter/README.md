@@ -1,5 +1,4 @@
-Cronobacter Iversen et al., 2008 GENUS
-=======
+# Cronobacter Iversen et al., 2008 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella campoi Speg. SPECIES
-=======
+# Sphaerella campoi Speg. SPECIES
 
 #### Status
 ACCEPTED

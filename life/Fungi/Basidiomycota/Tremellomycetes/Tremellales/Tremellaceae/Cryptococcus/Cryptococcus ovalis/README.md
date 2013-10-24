@@ -1,5 +1,4 @@
-Cryptococcus ovalis Vuill. SPECIES
-=======
+# Cryptococcus ovalis Vuill. SPECIES
 
 #### Status
 ACCEPTED

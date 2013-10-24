@@ -1,5 +1,4 @@
-Trotteria setulosa Sacc. SPECIES
-=======
+# Trotteria setulosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea subrudecta Vain. SPECIES
-=======
+# Lecidea subrudecta Vain. SPECIES
 
 #### Status
 ACCEPTED

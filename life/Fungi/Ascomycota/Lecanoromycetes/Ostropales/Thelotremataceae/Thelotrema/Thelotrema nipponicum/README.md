@@ -1,5 +1,4 @@
-Thelotrema nipponicum Tat. Matsumoto SPECIES
-=======
+# Thelotrema nipponicum Tat. Matsumoto SPECIES
 
 #### Status
 ACCEPTED

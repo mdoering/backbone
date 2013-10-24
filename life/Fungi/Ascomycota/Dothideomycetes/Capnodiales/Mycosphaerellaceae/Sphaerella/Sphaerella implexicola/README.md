@@ -1,5 +1,4 @@
-Sphaerella implexicola Maire SPECIES
-=======
+# Sphaerella implexicola Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina pacifica Sheard SPECIES
-=======
+# Rinodina pacifica Sheard SPECIES
 
 #### Status
 ACCEPTED

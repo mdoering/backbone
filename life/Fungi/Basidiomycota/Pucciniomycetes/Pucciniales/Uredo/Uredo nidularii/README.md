@@ -1,5 +1,4 @@
-Uredo nidularii Henn. SPECIES
-=======
+# Uredo nidularii Henn. SPECIES
 
 #### Status
 ACCEPTED

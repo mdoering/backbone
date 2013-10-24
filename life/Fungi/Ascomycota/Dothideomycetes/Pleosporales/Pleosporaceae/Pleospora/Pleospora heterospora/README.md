@@ -1,5 +1,4 @@
-Pleospora heterospora De Not. SPECIES
-=======
+# Pleospora heterospora De Not. SPECIES
 
 #### Status
 ACCEPTED

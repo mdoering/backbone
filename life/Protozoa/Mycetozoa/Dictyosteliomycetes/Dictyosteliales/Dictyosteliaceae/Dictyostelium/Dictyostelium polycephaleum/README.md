@@ -1,5 +1,4 @@
-Dictyostelium polycephaleum Raper SPECIES
-=======
+# Dictyostelium polycephaleum Raper SPECIES
 
 #### Status
 ACCEPTED

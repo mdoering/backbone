@@ -1,5 +1,4 @@
-Marasmius carpenterianus Singer SPECIES
-=======
+# Marasmius carpenterianus Singer SPECIES
 
 #### Status
 ACCEPTED

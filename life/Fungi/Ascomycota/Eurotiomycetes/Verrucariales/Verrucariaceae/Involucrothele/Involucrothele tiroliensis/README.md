@@ -1,5 +1,4 @@
-Involucrothele tiroliensis (Zschacke) Servít SPECIES
-=======
+# Involucrothele tiroliensis (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

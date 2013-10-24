@@ -1,5 +1,4 @@
-Clitocybe fimbriata (Bolton) Singer SPECIES
-=======
+# Clitocybe fimbriata (Bolton) Singer SPECIES
 
 #### Status
 ACCEPTED

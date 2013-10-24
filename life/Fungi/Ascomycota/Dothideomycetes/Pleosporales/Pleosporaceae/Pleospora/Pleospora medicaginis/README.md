@@ -1,5 +1,4 @@
-Pleospora medicaginis Karimov SPECIES
-=======
+# Pleospora medicaginis Karimov SPECIES
 
 #### Status
 ACCEPTED

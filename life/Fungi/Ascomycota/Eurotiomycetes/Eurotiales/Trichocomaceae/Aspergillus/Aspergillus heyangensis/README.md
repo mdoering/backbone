@@ -1,5 +1,4 @@
-Aspergillus heyangensis Z.T. Qi, Z.M. Sun & Yu X. Wang, 1994 SPECIES
-=======
+# Aspergillus heyangensis Z.T. Qi, Z.M. Sun & Yu X. Wang, 1994 SPECIES
 
 #### Status
 ACCEPTED

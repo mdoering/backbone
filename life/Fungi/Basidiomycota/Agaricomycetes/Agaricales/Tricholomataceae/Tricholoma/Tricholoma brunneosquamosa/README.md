@@ -1,5 +1,4 @@
-Tricholoma brunneosquamosa Beeli SPECIES
-=======
+# Tricholoma brunneosquamosa Beeli SPECIES
 
 #### Status
 ACCEPTED

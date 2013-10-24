@@ -1,5 +1,4 @@
-Depazites priscus C. Massal. SPECIES
-=======
+# Depazites priscus C. Massal. SPECIES
 
 #### Status
 ACCEPTED

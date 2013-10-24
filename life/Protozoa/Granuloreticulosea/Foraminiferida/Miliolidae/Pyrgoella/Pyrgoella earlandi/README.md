@@ -1,5 +1,4 @@
-Pyrgoella earlandi Saidova, 1975 SPECIES
-=======
+# Pyrgoella earlandi Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

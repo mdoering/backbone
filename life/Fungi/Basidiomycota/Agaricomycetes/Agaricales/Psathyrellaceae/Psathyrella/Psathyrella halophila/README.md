@@ -1,5 +1,4 @@
-Psathyrella halophila Esteve-Rav. & Enderle SPECIES
-=======
+# Psathyrella halophila Esteve-Rav. & Enderle SPECIES
 
 #### Status
 ACCEPTED

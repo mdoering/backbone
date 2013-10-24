@@ -1,14 +1,13 @@
-Dryophila squarrosa var. humicola Quél., 1891 VARIETY
-=======
+# Cortinarius humicola (Quél.) Maire, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Compt. Rend. Assoc. Franç. Avancem. Sci. 20(2): 466 (1891)
+Bull. Soc. mycol. Fr. 27(4): 436 (1911)
 
 #### Original name
 Dryophila squarrosa var. humicola Quél., 1891

@@ -1,5 +1,4 @@
-Oxyporus pseudo-obducens (Pilát) Bondartsev SPECIES
-=======
+# Oxyporus pseudo-obducens (Pilát) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

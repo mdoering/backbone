@@ -1,5 +1,4 @@
-Asterostomula puyana Petr., 1950 SPECIES
-=======
+# Asterostomula puyana Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

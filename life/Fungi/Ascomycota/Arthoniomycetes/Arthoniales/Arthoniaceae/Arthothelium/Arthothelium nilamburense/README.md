@@ -1,17 +1,16 @@
-Arthothelium nilamburens Makhija & Patw. SPECIES
-=======
+# Arthothelium nilamburense Makhija & Patw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Hattori bot. Lab. 78: 214 (1995)
 
 #### Original name
-Arthothelium nilamburens Makhija & Patw.
+Arthothelium nilamburense Makhija & Patw.
 
 ### Remarks
 null

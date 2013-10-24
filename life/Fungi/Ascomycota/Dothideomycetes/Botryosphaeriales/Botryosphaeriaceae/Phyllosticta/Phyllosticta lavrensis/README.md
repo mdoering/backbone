@@ -1,5 +1,4 @@
-Phyllosticta lavrensis Viégas SPECIES
-=======
+# Phyllosticta lavrensis Viégas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria gigantochloae Rehm SPECIES
-=======
+# Metasphaeria gigantochloae Rehm SPECIES
 
 #### Status
 ACCEPTED

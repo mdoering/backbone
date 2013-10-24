@@ -1,5 +1,4 @@
-Camptomeris leucanae (Stev. & Dalbey) Syd. SPECIES
-=======
+# Camptomeris leucanae (Stev. & Dalbey) Syd. SPECIES
 
 #### Status
 ACCEPTED

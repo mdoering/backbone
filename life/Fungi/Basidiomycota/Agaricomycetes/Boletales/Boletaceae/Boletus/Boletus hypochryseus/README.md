@@ -1,5 +1,4 @@
-Boletus hypochryseus utara SPECIES
-=======
+# Boletus hypochryseus utara SPECIES
 
 #### Status
 ACCEPTED

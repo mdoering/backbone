@@ -1,5 +1,4 @@
-Agaricus devexus Fr. SPECIES
-=======
+# Agaricus devexus Fr. SPECIES
 
 #### Status
 ACCEPTED

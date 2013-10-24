@@ -1,5 +1,4 @@
-Paranectriella stromaticola (Henn.) Höhn., 1910 SPECIES
-=======
+# Paranectriella stromaticola (Henn.) Höhn., 1910 SPECIES
 
 #### Status
 ACCEPTED

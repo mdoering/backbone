@@ -1,5 +1,4 @@
-Hypholoma punctulata (Kalchbr.) Cooke SPECIES
-=======
+# Hypholoma punctulata (Kalchbr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

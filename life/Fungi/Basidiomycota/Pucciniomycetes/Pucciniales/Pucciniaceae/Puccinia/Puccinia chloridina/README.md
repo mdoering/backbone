@@ -1,5 +1,4 @@
-Puccinia chloridina Bacc. SPECIES
-=======
+# Puccinia chloridina Bacc. SPECIES
 
 #### Status
 ACCEPTED

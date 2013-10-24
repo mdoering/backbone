@@ -1,5 +1,4 @@
-Coccomyces radiatus Sherwood, 1980 SPECIES
-=======
+# Coccomyces radiatus Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

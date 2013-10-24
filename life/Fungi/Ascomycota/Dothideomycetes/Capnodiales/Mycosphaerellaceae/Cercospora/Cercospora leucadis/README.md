@@ -1,5 +1,4 @@
-Cercospora leucadis Thirum. & Govindu SPECIES
-=======
+# Cercospora leucadis Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

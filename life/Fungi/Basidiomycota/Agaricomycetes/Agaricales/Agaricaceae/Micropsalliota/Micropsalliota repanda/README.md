@@ -1,5 +1,4 @@
-Micropsalliota repanda Heinem. SPECIES
-=======
+# Micropsalliota repanda Heinem. SPECIES
 
 #### Status
 ACCEPTED

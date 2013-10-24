@@ -1,17 +1,16 @@
-Preussia indica var. indica (Chattop. & C. Das Gupta) Cain VARIETY
-=======
+# Preussiella indica (Chattop. & C. Das Gupta) Lodha, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 39(7): 1647 (1961)
+in Subramanian, Taxonomy of Fungi (Proc. Int. Symp. Madras, 1973) 1: 251 (1978)
 
 #### Original name
-Preussia indica var. indica (Chattop. & C. Das Gupta) Cain
+Thielavia indica Chattop. & C. Das Gupta, 1957
 
 ### Remarks
 null

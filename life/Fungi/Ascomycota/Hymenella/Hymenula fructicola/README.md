@@ -1,5 +1,4 @@
-Hymenula fructicola Pound & Clem. SPECIES
-=======
+# Hymenula fructicola Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

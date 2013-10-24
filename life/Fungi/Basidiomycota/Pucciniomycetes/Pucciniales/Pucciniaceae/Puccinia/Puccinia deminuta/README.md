@@ -1,5 +1,4 @@
-Puccinia deminuta Vleugel SPECIES
-=======
+# Puccinia deminuta Vleugel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drepanoconis larvaeformis Speg. SPECIES
-=======
+# Drepanoconis larvaeformis Speg. SPECIES
 
 #### Status
 ACCEPTED

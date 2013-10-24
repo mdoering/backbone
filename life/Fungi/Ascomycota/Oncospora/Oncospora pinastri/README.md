@@ -1,17 +1,16 @@
-Cenangium pinastri var. pinastri VARIETY
-=======
+# Oncospora pinastri (Moug.) Died., 1913 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Cenangium pinastri var. pinastri
+Cenangium pinastri Moug.
 
 ### Remarks
 null

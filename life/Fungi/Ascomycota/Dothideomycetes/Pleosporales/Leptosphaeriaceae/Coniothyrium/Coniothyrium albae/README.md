@@ -1,5 +1,4 @@
-Coniothyrium albae Pandotra & A. Husain SPECIES
-=======
+# Coniothyrium albae Pandotra & A. Husain SPECIES
 
 #### Status
 ACCEPTED

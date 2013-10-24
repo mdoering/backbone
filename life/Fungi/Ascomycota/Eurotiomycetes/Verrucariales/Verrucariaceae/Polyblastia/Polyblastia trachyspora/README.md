@@ -1,5 +1,4 @@
-Polyblastia trachyspora (C. Knight) Müll. Arg. SPECIES
-=======
+# Polyblastia trachyspora (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

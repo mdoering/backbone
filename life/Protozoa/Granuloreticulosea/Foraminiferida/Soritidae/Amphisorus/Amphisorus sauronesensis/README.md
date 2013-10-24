@@ -1,8 +1,7 @@
-Amphisorus sauronensis Lee, Burnham & Cevasco, 2004 SPECIES
-=======
+# Amphisorus sauronesensis Lee, Burnham & Cevasco, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

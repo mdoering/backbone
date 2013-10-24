@@ -1,5 +1,4 @@
-Macrophoma sophoricola Teng SPECIES
-=======
+# Macrophoma sophoricola Teng SPECIES
 
 #### Status
 ACCEPTED

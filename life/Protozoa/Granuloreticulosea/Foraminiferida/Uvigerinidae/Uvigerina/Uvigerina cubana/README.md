@@ -1,5 +1,4 @@
-Uvigerina cubana Bermudez & Cushman SPECIES
-=======
+# Uvigerina cubana Bermudez & Cushman SPECIES
 
 #### Status
 ACCEPTED

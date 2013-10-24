@@ -1,5 +1,4 @@
-Pentaster lisbonensis Bybell & Gartner, 1972 SPECIES
-=======
+# Pentaster lisbonensis Bybell & Gartner, 1972 SPECIES
 
 #### Status
 ACCEPTED

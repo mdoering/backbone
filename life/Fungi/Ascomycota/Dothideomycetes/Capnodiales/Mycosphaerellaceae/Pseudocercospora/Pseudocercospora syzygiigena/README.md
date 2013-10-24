@@ -1,5 +1,4 @@
-Pseudocercospora syzygiigena U. Braun SPECIES
-=======
+# Pseudocercospora syzygiigena U. Braun SPECIES
 
 #### Status
 ACCEPTED

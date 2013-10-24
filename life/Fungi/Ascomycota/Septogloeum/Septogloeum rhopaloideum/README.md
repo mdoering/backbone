@@ -1,5 +1,4 @@
-Septogloeum rhopaloideum Dearn. & Bisby SPECIES
-=======
+# Septogloeum rhopaloideum Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

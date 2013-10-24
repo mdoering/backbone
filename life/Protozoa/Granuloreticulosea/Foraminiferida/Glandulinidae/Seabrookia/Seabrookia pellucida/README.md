@@ -1,5 +1,4 @@
-Seabrookia pellucida Brady, 1890 SPECIES
-=======
+# Seabrookia pellucida Brady, 1890 SPECIES
 
 #### Status
 ACCEPTED

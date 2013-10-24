@@ -1,5 +1,4 @@
-Septoria androsaces Pat. SPECIES
-=======
+# Septoria androsaces Pat. SPECIES
 
 #### Status
 ACCEPTED

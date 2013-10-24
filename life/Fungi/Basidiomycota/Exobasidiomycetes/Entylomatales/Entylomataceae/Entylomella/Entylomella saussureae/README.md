@@ -1,5 +1,4 @@
-Entylomella saussureae (Thüm.) U. Braun SPECIES
-=======
+# Entylomella saussureae (Thüm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

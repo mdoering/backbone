@@ -1,5 +1,4 @@
-Helotium lividofuscum K.S. Thind & Saini SPECIES
-=======
+# Helotium lividofuscum K.S. Thind & Saini SPECIES
 
 #### Status
 ACCEPTED

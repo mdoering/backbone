@@ -1,5 +1,4 @@
-Nostoc repandum W. West & G.S. West SPECIES
-=======
+# Nostoc repandum W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

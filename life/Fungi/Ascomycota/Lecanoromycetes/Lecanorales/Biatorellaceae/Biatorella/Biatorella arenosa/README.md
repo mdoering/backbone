@@ -1,5 +1,4 @@
-Biatorella arenosa (Herre) Zahlbr. SPECIES
-=======
+# Biatorella arenosa (Herre) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

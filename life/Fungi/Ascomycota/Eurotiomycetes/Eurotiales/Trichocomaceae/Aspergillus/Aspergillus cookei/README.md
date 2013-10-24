@@ -1,5 +1,4 @@
-Aspergillus cookei Sacc. SPECIES
-=======
+# Aspergillus cookei Sacc. SPECIES
 
 #### Status
 ACCEPTED

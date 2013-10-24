@@ -1,5 +1,4 @@
-Diplodina anomala Sacc. SPECIES
-=======
+# Diplodina anomala Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyanobacterium formosanum J. Komárek SPECIES
-=======
+# Cyanobacterium formosanum J. Komárek SPECIES
 
 #### Status
 ACCEPTED

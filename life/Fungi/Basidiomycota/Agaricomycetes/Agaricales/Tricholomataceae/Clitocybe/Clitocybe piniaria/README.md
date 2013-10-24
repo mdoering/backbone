@@ -1,5 +1,4 @@
-Clitocybe piniaria Bosc SPECIES
-=======
+# Clitocybe piniaria Bosc SPECIES
 
 #### Status
 ACCEPTED

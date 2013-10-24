@@ -1,5 +1,4 @@
-Crepidotus catamarcae Singer SPECIES
-=======
+# Crepidotus catamarcae Singer SPECIES
 
 #### Status
 ACCEPTED

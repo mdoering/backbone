@@ -1,5 +1,4 @@
-Omphalia convexa Murrill SPECIES
-=======
+# Omphalia convexa Murrill SPECIES
 
 #### Status
 ACCEPTED

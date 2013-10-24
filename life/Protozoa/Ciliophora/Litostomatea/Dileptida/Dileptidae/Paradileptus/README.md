@@ -1,5 +1,4 @@
-Paradileptus Wenrich, 1929 GENUS
-=======
+# Paradileptus Wenrich, 1929 GENUS
 
 #### Status
 ACCEPTED

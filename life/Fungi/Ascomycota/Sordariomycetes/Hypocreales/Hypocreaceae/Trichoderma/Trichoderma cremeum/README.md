@@ -1,5 +1,4 @@
-Trichoderma cremeum P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma cremeum P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

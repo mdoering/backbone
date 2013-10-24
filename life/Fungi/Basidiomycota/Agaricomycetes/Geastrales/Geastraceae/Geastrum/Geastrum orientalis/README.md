@@ -1,8 +1,7 @@
-Geaster orientalis Hazsl. SPECIES
-=======
+# Geastrum orientalis Hazsl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster orientalis Hazsl.
+Geastrum orientalis Hazsl.
 
 ### Remarks
 null

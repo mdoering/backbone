@@ -1,5 +1,4 @@
-Ophionectria rubicola Pat. SPECIES
-=======
+# Ophionectria rubicola Pat. SPECIES
 
 #### Status
 ACCEPTED

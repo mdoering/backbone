@@ -1,5 +1,4 @@
-Telamonia mirabilis Velen. SPECIES
-=======
+# Telamonia mirabilis Velen. SPECIES
 
 #### Status
 ACCEPTED

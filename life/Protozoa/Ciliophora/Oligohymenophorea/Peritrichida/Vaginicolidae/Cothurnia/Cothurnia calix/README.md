@@ -1,5 +1,4 @@
-Cothurnia calix Kahl, 1933 SPECIES
-=======
+# Cothurnia calix Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

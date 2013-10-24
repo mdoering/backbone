@@ -1,5 +1,4 @@
-Omphalodina GENUS
-=======
+# Omphalodina GENUS
 
 #### Status
 ACCEPTED

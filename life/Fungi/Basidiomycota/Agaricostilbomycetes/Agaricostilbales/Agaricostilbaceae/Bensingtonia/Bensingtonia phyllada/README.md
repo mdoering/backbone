@@ -1,5 +1,4 @@
-Bensingtonia phyllada (Van der Walt & Y. Yamada) Van der Walt, Nakagawa & Y. Yamada ex Boekhout SPECIES
-=======
+# Bensingtonia phyllada (Van der Walt & Y. Yamada) Van der Walt, Nakagawa & Y. Yamada ex Boekhout SPECIES
 
 #### Status
 ACCEPTED

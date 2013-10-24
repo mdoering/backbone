@@ -1,5 +1,4 @@
-Entyloma polypogonis Vienn.-Bourg. SPECIES
-=======
+# Entyloma polypogonis Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirillum bataviae SPECIES
-=======
+# Spirillum bataviae SPECIES
 
 #### Status
 ACCEPTED

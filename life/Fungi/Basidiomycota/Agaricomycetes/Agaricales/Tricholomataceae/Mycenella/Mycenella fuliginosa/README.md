@@ -1,5 +1,4 @@
-Mycenella fuliginosa Singer SPECIES
-=======
+# Mycenella fuliginosa Singer SPECIES
 
 #### Status
 ACCEPTED

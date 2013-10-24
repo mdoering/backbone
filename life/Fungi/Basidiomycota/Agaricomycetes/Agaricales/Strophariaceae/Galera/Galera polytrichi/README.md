@@ -1,5 +1,4 @@
-Galera polytrichi Velen. SPECIES
-=======
+# Galera polytrichi Velen. SPECIES
 
 #### Status
 ACCEPTED

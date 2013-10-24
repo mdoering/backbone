@@ -1,5 +1,4 @@
-Stephanodiscus invisitatus Hohn & Hellermann SPECIES
-=======
+# Stephanodiscus invisitatus Hohn & Hellermann SPECIES
 
 #### Status
 ACCEPTED

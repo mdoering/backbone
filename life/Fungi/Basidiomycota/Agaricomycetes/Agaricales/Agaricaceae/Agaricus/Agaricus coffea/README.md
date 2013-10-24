@@ -1,5 +1,4 @@
-Agaricus coffea V. Brig. SPECIES
-=======
+# Agaricus coffea V. Brig. SPECIES
 
 #### Status
 ACCEPTED

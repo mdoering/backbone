@@ -1,5 +1,4 @@
-Placodium galactinum (Ach.) Müll. Arg. SPECIES
-=======
+# Placodium galactinum (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

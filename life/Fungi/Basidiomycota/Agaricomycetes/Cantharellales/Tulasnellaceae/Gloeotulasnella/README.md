@@ -1,5 +1,4 @@
-Gloeotulasnella GENUS
-=======
+# Gloeotulasnella GENUS
 
 #### Status
 ACCEPTED

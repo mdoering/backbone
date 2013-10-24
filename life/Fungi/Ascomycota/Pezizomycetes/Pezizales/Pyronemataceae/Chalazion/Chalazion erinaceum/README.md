@@ -1,5 +1,4 @@
-Chalazion erinaceum Doveri, Yei Z. Wang, Cacialli & Caroti, 1998 SPECIES
-=======
+# Chalazion erinaceum Doveri, Yei Z. Wang, Cacialli & Caroti, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystoderma S. Imai, 1938 GENUS
-=======
+# Cystoderma S. Imai, 1938 GENUS
 
 #### Status
 ACCEPTED

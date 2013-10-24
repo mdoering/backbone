@@ -1,5 +1,4 @@
-Rhizopogon avellaneitectus A.H. Sm. SPECIES
-=======
+# Rhizopogon avellaneitectus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

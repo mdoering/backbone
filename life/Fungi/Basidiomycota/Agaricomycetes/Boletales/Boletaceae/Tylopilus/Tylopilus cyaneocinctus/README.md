@@ -1,5 +1,4 @@
-Tylopilus cyaneocinctus (Singer) Grund & K.A. Harrison SPECIES
-=======
+# Tylopilus cyaneocinctus (Singer) Grund & K.A. Harrison SPECIES
 
 #### Status
 ACCEPTED

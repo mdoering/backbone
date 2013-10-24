@@ -1,5 +1,4 @@
-Kabatina abietis Butin & Pehl, 1993 SPECIES
-=======
+# Kabatina abietis Butin & Pehl, 1993 SPECIES
 
 #### Status
 ACCEPTED

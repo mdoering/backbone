@@ -1,5 +1,4 @@
-Lepiota cutiscamosa A.B. Pereira SPECIES
-=======
+# Lepiota cutiscamosa A.B. Pereira SPECIES
 
 #### Status
 ACCEPTED

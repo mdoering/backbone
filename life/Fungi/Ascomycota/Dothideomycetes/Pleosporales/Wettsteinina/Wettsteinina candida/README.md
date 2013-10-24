@@ -1,5 +1,4 @@
-Wettsteinina candida Shoemaker & C.E. Babc. SPECIES
-=======
+# Wettsteinina candida Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

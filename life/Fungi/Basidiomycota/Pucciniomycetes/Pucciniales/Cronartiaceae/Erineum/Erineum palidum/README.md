@@ -1,5 +1,4 @@
-Erineum palidum Kunze SPECIES
-=======
+# Erineum palidum Kunze SPECIES
 
 #### Status
 ACCEPTED

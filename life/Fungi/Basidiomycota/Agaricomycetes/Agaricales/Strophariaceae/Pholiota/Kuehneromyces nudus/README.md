@@ -1,5 +1,4 @@
-Kuehneromyces nudus Singer SPECIES
-=======
+# Kuehneromyces nudus Singer SPECIES
 
 #### Status
 ACCEPTED

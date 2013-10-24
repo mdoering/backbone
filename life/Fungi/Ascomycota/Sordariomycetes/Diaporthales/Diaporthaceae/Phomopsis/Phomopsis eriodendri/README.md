@@ -1,5 +1,4 @@
-Phomopsis eriodendri (Died.) Aa SPECIES
-=======
+# Phomopsis eriodendri (Died.) Aa SPECIES
 
 #### Status
 ACCEPTED

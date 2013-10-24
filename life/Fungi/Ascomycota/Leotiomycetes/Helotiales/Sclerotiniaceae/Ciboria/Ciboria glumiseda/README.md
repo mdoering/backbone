@@ -1,5 +1,4 @@
-Ciboria glumiseda Höhn. SPECIES
-=======
+# Ciboria glumiseda Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus vinosus Singer SPECIES
-=======
+# Marasmiellus vinosus Singer SPECIES
 
 #### Status
 ACCEPTED

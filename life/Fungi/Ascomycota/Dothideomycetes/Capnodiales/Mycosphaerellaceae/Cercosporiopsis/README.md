@@ -1,5 +1,4 @@
-Cercosporiopsis GENUS
-=======
+# Cercosporiopsis GENUS
 
 #### Status
 ACCEPTED

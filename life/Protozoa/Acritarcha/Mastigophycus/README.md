@@ -1,5 +1,4 @@
-Mastigophycus F.-X. Wang & Y.-Y. Zhai, 1982 GENUS
-=======
+# Mastigophycus F.-X. Wang & Y.-Y. Zhai, 1982 GENUS
 
 #### Status
 ACCEPTED

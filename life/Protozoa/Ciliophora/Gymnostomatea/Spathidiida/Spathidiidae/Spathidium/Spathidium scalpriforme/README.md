@@ -1,5 +1,4 @@
-Spathidium scalpriforme SPECIES
-=======
+# Spathidium scalpriforme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphopsis Spegazzini, 1910 GENUS
-=======
+# Erysiphopsis Spegazzini, 1910 GENUS
 
 #### Status
 ACCEPTED

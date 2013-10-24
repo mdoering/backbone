@@ -1,5 +1,4 @@
-Thelotrema globulare Tuck. SPECIES
-=======
+# Thelotrema globulare Tuck. SPECIES
 
 #### Status
 ACCEPTED

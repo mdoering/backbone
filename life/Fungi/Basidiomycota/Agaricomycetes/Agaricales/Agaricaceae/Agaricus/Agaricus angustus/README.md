@@ -1,5 +1,4 @@
-Agaricus angustus Pers. SPECIES
-=======
+# Agaricus angustus Pers. SPECIES
 
 #### Status
 ACCEPTED

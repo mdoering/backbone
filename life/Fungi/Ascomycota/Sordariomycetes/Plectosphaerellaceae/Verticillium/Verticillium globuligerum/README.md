@@ -1,5 +1,4 @@
-Verticillium globuligerum Sacc. SPECIES
-=======
+# Verticillium globuligerum Sacc. SPECIES
 
 #### Status
 ACCEPTED

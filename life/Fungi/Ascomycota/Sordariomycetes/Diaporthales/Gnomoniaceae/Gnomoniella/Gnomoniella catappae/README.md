@@ -1,5 +1,4 @@
-Gnomoniella catappae Koord. SPECIES
-=======
+# Gnomoniella catappae Koord. SPECIES
 
 #### Status
 ACCEPTED

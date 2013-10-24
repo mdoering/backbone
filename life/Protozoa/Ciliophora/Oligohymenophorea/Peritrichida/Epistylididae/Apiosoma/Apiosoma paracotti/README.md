@@ -1,5 +1,4 @@
-Apiosoma paracotti SPECIES
-=======
+# Apiosoma paracotti SPECIES
 
 #### Status
 ACCEPTED

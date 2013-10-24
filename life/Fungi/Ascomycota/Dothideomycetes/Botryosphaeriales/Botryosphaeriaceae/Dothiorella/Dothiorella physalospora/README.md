@@ -1,5 +1,4 @@
-Dothiorella physalospora (Sacc.) Petr. & Syd. SPECIES
-=======
+# Dothiorella physalospora (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

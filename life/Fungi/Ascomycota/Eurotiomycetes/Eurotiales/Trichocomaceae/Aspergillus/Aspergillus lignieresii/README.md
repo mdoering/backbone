@@ -1,5 +1,4 @@
-Aspergillus lignieresii Costantin & Lucet SPECIES
-=======
+# Aspergillus lignieresii Costantin & Lucet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthogymnomyces terrestris Udagawa & Uchiy., 2000 SPECIES
-=======
+# Acanthogymnomyces terrestris Udagawa & Uchiy., 2000 SPECIES
 
 #### Status
 ACCEPTED

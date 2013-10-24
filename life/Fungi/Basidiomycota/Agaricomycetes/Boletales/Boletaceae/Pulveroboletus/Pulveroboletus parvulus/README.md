@@ -1,5 +1,4 @@
-Pulveroboletus parvulus Natarajan & Purush. SPECIES
-=======
+# Pulveroboletus parvulus Natarajan & Purush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Clithris pandani Tehon, 1918 SPECIES
-=======
+# Terriera pandani (Tehon) P.R. Johnst., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 65: 555 (1918)
+Mycol. Pap. 176: 181 (2001)
 
 #### Original name
 Clithris pandani Tehon, 1918

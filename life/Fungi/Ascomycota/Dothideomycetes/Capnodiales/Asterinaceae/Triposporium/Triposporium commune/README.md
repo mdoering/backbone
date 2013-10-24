@@ -1,5 +1,4 @@
-Triposporium commune Woron. SPECIES
-=======
+# Triposporium commune Woron. SPECIES
 
 #### Status
 ACCEPTED

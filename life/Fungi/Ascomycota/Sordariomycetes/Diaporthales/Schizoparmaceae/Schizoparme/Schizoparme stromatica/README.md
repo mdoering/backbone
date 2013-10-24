@@ -1,5 +1,4 @@
-Schizoparme stromatica Samuels, M.E. Barr & Lowen SPECIES
-=======
+# Schizoparme stromatica Samuels, M.E. Barr & Lowen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Granularius H.F.A. Roussel, 1806 GENUS
-=======
+# Granularius H.F.A. Roussel, 1806 GENUS
 
 #### Status
 ACCEPTED

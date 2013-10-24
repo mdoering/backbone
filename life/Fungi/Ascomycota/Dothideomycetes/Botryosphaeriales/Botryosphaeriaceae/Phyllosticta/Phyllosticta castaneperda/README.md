@@ -1,5 +1,4 @@
-Phyllosticta castaneperda Bat. SPECIES
-=======
+# Phyllosticta castaneperda Bat. SPECIES
 
 #### Status
 ACCEPTED

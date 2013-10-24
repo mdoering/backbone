@@ -1,5 +1,4 @@
-Lecanora klementii Anders SPECIES
-=======
+# Lecanora klementii Anders SPECIES
 
 #### Status
 ACCEPTED

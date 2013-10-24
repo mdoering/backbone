@@ -1,5 +1,4 @@
-Helminthosporium matthiolae Thüm. & P.C. Bolle SPECIES
-=======
+# Helminthosporium matthiolae Thüm. & P.C. Bolle SPECIES
 
 #### Status
 ACCEPTED

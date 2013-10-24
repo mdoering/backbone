@@ -1,5 +1,4 @@
-Puccinia dictyospora Tranzschel SPECIES
-=======
+# Puccinia dictyospora Tranzschel SPECIES
 
 #### Status
 ACCEPTED

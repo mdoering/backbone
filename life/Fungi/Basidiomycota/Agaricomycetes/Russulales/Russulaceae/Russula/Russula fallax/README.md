@@ -1,5 +1,4 @@
-Russula fallax var. fallax VARIETY
-=======
+# Russula fallax SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Hymenomyc. eur. (Upsaliae) 449 (1874)
+null
 
 #### Original name
-Russula fallax var. fallax
+null
 
 ### Remarks
 null

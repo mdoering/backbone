@@ -1,5 +1,4 @@
-Mycosphaerella valeppensis Rehm SPECIES
-=======
+# Mycosphaerella valeppensis Rehm SPECIES
 
 #### Status
 ACCEPTED

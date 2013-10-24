@@ -1,5 +1,4 @@
-Amanita allostraminea A.E. Wood SPECIES
-=======
+# Amanita allostraminea A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

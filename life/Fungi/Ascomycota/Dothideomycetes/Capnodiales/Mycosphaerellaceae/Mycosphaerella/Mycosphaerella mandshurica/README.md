@@ -1,5 +1,4 @@
-Mycosphaerella mandshurica Miura SPECIES
-=======
+# Mycosphaerella mandshurica Miura SPECIES
 
 #### Status
 ACCEPTED

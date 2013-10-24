@@ -1,5 +1,4 @@
-Fomes hypoplastus (Berk.) Sacc. SPECIES
-=======
+# Fomes hypoplastus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

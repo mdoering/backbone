@@ -1,5 +1,4 @@
-Dendrosarcus macropus (Bagl.) Kuntze SPECIES
-=======
+# Dendrosarcus macropus (Bagl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

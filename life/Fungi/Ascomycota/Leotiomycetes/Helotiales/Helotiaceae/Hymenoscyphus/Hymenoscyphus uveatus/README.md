@@ -1,5 +1,4 @@
-Hymenoscyphus uveatus (Schumach.) Kuntze SPECIES
-=======
+# Hymenoscyphus uveatus (Schumach.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

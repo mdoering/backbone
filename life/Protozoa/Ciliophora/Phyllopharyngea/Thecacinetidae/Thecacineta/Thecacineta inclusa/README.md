@@ -1,5 +1,4 @@
-Thecacineta inclusa (Meunier, 1910) SPECIES
-=======
+# Thecacineta inclusa (Meunier, 1910) SPECIES
 
 #### Status
 ACCEPTED

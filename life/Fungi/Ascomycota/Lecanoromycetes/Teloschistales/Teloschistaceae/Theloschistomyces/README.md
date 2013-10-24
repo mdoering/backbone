@@ -1,5 +1,4 @@
-Theloschistomyces GENUS
-=======
+# Theloschistomyces GENUS
 
 #### Status
 ACCEPTED

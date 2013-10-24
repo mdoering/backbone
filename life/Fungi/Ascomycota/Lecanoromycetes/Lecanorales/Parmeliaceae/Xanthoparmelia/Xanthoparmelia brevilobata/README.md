@@ -1,5 +1,4 @@
-Xanthoparmelia brevilobata Hale SPECIES
-=======
+# Xanthoparmelia brevilobata Hale SPECIES
 
 #### Status
 ACCEPTED

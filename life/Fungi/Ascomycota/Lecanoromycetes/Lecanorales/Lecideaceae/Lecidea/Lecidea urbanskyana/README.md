@@ -1,5 +1,4 @@
-Lecidea urbanskyana Zahlbr. SPECIES
-=======
+# Lecidea urbanskyana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

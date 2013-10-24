@@ -1,14 +1,13 @@
-Ophiostoma valdiviana (Butin) Rulamort SPECIES
-=======
+# Ophiostoma valdivianum (Butin) Rulamort, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. bot. Centre-Ouest, Nouv. sér. 17: 192 (1986)
 
 #### Original name
 Ceratocystis valdiviana Butin, 1984

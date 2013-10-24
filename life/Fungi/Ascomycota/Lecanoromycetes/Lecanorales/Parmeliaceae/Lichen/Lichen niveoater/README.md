@@ -1,5 +1,4 @@
-Lichen niveoater SPECIES
-=======
+# Lichen niveoater SPECIES
 
 #### Status
 ACCEPTED

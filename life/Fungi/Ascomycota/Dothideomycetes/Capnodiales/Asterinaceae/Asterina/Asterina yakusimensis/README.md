@@ -1,5 +1,4 @@
-Asterina yakusimensis Katum. SPECIES
-=======
+# Asterina yakusimensis Katum. SPECIES
 
 #### Status
 ACCEPTED

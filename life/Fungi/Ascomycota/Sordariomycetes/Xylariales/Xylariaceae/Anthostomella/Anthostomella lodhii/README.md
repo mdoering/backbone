@@ -1,5 +1,4 @@
-Anthostomella lodhii S. Ahmad SPECIES
-=======
+# Anthostomella lodhii S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

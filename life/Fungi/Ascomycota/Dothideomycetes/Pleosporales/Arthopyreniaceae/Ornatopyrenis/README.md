@@ -1,5 +1,4 @@
-Ornatopyrenis Aptroot GENUS
-=======
+# Ornatopyrenis Aptroot GENUS
 
 #### Status
 ACCEPTED

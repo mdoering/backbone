@@ -1,5 +1,4 @@
-Cladonia spiculata (Ach.) Ahti SPECIES
-=======
+# Cladonia spiculata (Ach.) Ahti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium lycopersici Roldan SPECIES
-=======
+# Helminthosporium lycopersici Roldan SPECIES
 
 #### Status
 ACCEPTED

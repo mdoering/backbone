@@ -1,5 +1,4 @@
-Hemileia juruensis P. Syd. & Syd. SPECIES
-=======
+# Hemileia juruensis P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

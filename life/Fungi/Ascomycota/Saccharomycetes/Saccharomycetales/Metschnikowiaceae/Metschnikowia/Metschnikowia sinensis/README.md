@@ -1,5 +1,4 @@
-Metschnikowia sinensis M.L. Xue & L.Q. Zhang, 2006 SPECIES
-=======
+# Metschnikowia sinensis M.L. Xue & L.Q. Zhang, 2006 SPECIES
 
 #### Status
 ACCEPTED

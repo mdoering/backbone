@@ -1,5 +1,4 @@
-Coniothecium perplexum Peck SPECIES
-=======
+# Coniothecium perplexum Peck SPECIES
 
 #### Status
 ACCEPTED

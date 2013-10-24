@@ -1,5 +1,4 @@
-Lecanora decolorata Vain. SPECIES
-=======
+# Lecanora decolorata Vain. SPECIES
 
 #### Status
 ACCEPTED

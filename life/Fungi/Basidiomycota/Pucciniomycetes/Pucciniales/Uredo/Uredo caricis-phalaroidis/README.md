@@ -1,5 +1,4 @@
-Uredo caricis-phalaroidis Speg. SPECIES
-=======
+# Uredo caricis-phalaroidis Speg. SPECIES
 
 #### Status
 ACCEPTED

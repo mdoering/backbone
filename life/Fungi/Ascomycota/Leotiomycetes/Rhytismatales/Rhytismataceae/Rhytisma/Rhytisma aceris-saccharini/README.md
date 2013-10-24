@@ -1,5 +1,4 @@
-Rhytisma aceris-saccharini Nannf. SPECIES
-=======
+# Rhytisma aceris-saccharini Nannf. SPECIES
 
 #### Status
 ACCEPTED

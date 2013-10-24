@@ -1,5 +1,4 @@
-Dysteria pusilla Claparède & Lachmann, 1859 SPECIES
-=======
+# Dysteria pusilla Claparède & Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

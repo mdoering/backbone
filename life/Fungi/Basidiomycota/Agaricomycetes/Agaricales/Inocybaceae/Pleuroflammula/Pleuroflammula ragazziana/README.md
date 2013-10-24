@@ -1,17 +1,16 @@
-Crepidotus hibernianus A. Pearson & Dennis, 1949 SPECIES
-=======
+# Pleuroflammula ragazziana (Bres.) E. Horak, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 32(3-4): 268 (1949)
+Persoonia 9(4): 443 (1978)
 
 #### Original name
-Crepidotus hibernianus A. Pearson & Dennis, 1949
+Crepidotus ragazzianus Bres., 1892
 
 ### Remarks
 null

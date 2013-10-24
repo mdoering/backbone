@@ -1,5 +1,4 @@
-Rimosicysta cucullata Marshall, 1989 SPECIES
-=======
+# Rimosicysta cucullata Marshall, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus friesii Sacc. SPECIES
-=======
+# Hygrophorus friesii Sacc. SPECIES
 
 #### Status
 ACCEPTED

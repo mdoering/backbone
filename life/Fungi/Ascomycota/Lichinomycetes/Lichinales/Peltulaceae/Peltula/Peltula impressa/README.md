@@ -1,14 +1,13 @@
-Heppia impressa Vain. SPECIES
-=======
+# Peltula impressa (Vain.) Swinscow & Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 26: 219 (1979)
 
 #### Original name
 Heppia impressa Vain.

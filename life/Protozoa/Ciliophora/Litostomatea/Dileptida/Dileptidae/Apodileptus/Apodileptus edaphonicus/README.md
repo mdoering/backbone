@@ -1,5 +1,4 @@
-Apodileptus edaphonicus Vdacny & Foissner, 2011 SPECIES
-=======
+# Apodileptus edaphonicus Vdacny & Foissner, 2011 SPECIES
 
 #### Status
 ACCEPTED

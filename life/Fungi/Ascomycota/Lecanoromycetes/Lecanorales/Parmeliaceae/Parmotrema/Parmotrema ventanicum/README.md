@@ -1,5 +1,4 @@
-Parmotrema ventanicum (Adler & Elix) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
-=======
+# Parmotrema ventanicum (Adler & Elix) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

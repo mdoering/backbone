@@ -1,5 +1,4 @@
-Coniothyrium leptadeniae S. Ahmad SPECIES
-=======
+# Coniothyrium leptadeniae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

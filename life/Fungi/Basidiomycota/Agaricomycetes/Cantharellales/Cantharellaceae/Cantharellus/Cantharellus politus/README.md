@@ -1,5 +1,4 @@
-Cantharellus politus Cooke & Massee SPECIES
-=======
+# Cantharellus politus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

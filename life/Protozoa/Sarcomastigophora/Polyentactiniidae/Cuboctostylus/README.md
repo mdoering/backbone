@@ -1,5 +1,4 @@
-Cuboctostylus Bragina, 1999 GENUS
-=======
+# Cuboctostylus Bragina, 1999 GENUS
 
 #### Status
 ACCEPTED

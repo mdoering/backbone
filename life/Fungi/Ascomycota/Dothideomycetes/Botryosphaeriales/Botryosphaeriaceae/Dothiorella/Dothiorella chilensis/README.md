@@ -1,5 +1,4 @@
-Dothiorella chilensis Speg. SPECIES
-=======
+# Dothiorella chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

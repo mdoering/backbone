@@ -1,5 +1,4 @@
-Verrucaria famelica Darb. SPECIES
-=======
+# Verrucaria famelica Darb. SPECIES
 
 #### Status
 ACCEPTED

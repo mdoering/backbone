@@ -1,5 +1,4 @@
-Septoria ligulariae Murashk. SPECIES
-=======
+# Septoria ligulariae Murashk. SPECIES
 
 #### Status
 ACCEPTED

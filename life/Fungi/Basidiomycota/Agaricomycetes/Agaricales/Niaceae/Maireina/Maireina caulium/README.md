@@ -1,5 +1,4 @@
-Maireina caulium (Fuckel) W.B. Cooke SPECIES
-=======
+# Maireina caulium (Fuckel) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

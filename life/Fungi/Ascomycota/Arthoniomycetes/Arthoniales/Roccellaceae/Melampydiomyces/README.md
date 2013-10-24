@@ -1,5 +1,4 @@
-Melampydiomyces GENUS
-=======
+# Melampydiomyces GENUS
 
 #### Status
 ACCEPTED

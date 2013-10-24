@@ -1,5 +1,4 @@
-Tremella natans Hedwig SPECIES
-=======
+# Tremella natans Hedwig SPECIES
 
 #### Status
 ACCEPTED

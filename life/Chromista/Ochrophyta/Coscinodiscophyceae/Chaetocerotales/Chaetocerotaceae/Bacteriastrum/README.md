@@ -1,5 +1,4 @@
-Bacteriastrum Shadbolt GENUS
-=======
+# Bacteriastrum Shadbolt GENUS
 
 #### Status
 ACCEPTED

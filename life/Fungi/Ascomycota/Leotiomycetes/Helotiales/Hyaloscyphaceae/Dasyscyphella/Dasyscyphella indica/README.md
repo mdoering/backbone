@@ -1,5 +1,4 @@
-Dasyscyphella indica E.K. Cash SPECIES
-=======
+# Dasyscyphella indica E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

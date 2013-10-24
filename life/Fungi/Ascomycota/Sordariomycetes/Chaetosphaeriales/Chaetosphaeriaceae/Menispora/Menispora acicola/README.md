@@ -1,5 +1,4 @@
-Menispora acicola Ellis & Everh. SPECIES
-=======
+# Menispora acicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

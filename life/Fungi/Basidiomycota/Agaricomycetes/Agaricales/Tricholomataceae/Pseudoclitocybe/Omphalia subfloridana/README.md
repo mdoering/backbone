@@ -1,5 +1,4 @@
-Omphalia subfloridana (Murrill) Murrill SPECIES
-=======
+# Omphalia subfloridana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

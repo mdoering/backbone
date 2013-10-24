@@ -1,5 +1,4 @@
-Anzia masonii Yoshim. SPECIES
-=======
+# Anzia masonii Yoshim. SPECIES
 
 #### Status
 ACCEPTED

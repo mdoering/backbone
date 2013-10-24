@@ -1,5 +1,4 @@
-Phyllosticta dioscoreina Woron. SPECIES
-=======
+# Phyllosticta dioscoreina Woron. SPECIES
 
 #### Status
 ACCEPTED

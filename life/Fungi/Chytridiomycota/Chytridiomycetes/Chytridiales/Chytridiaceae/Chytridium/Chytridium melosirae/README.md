@@ -1,5 +1,4 @@
-Chytridium melosirae Sparrow SPECIES
-=======
+# Chytridium melosirae Sparrow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Sclerotinia pirolae Grosse SPECIES
-=======
+# Sclerotinia pyrolae Grosse SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sclerotinia pirolae Grosse
+Sclerotinia pyrolae Grosse
 
 ### Remarks
 null

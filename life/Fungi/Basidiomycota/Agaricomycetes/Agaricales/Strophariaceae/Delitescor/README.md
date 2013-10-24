@@ -1,5 +1,4 @@
-Delitescor GENUS
-=======
+# Delitescor GENUS
 
 #### Status
 ACCEPTED

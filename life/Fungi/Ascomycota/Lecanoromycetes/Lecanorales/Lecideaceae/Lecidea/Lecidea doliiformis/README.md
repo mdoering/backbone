@@ -1,5 +1,4 @@
-Lecidea doliiformis Coppins & P. James SPECIES
-=======
+# Lecidea doliiformis Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

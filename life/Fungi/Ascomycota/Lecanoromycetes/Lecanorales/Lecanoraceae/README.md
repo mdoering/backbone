@@ -1,5 +1,4 @@
-Lecanoraceae Körb. FAMILY
-=======
+# Lecanoraceae Körb. FAMILY
 
 #### Status
 ACCEPTED

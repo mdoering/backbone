@@ -1,5 +1,4 @@
-Orbitogypsina Matsumaru, 1996 GENUS
-=======
+# Orbitogypsina Matsumaru, 1996 GENUS
 
 #### Status
 ACCEPTED

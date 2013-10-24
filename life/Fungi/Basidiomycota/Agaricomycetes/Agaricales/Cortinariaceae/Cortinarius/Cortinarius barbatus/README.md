@@ -1,17 +1,16 @@
-Cortinarius crystallinus f. crystallinus FORM
-=======
+# Cortinarius barbatus (Batsch) Melot, 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 270 (1838)
+Docums Mycol. 20(no. 77): 94 (1989)
 
 #### Original name
-Cortinarius crystallinus f. crystallinus
+Agaricus barbatus Batsch, 1783
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Peziza erminea E. Bommer & M. Rousseau, 1884 SPECIES
-=======
+# Leucoscypha erminea (E. Bommer & M. Rousseau) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

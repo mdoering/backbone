@@ -1,5 +1,4 @@
-Dictyocha boliviensis var. major Frenguelli VARIETY
-=======
+# Dictyocha boliviensis SPECIES
 
 #### Status
 ACCEPTED

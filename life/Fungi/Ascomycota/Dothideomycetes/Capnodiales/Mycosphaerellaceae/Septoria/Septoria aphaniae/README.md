@@ -1,5 +1,4 @@
-Septoria aphaniae Henn. SPECIES
-=======
+# Septoria aphaniae Henn. SPECIES
 
 #### Status
 ACCEPTED

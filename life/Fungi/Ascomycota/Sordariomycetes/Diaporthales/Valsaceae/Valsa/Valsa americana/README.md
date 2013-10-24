@@ -1,5 +1,4 @@
-Valsa americana Berk. & M.A. Curtis SPECIES
-=======
+# Valsa americana Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

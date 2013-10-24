@@ -1,5 +1,4 @@
-Synchytrium brownii Karling SPECIES
-=======
+# Synchytrium brownii Karling SPECIES
 
 #### Status
 ACCEPTED

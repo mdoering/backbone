@@ -1,5 +1,4 @@
-Acanthoecaceae FAMILY
-=======
+# Acanthoecaceae FAMILY
 
 #### Status
 ACCEPTED

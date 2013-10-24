@@ -1,14 +1,13 @@
-Pestalotia palmarum Cooke, 1876 SPECIES
-=======
+# Pestalotiopsis palmarum (Cooke) Steyaert, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 4(no. 31): 115 (1876)
+Bull. Jard. bot. État Brux. 19(3): 322 (1949)
 
 #### Original name
 Pestalotia palmarum Cooke, 1876

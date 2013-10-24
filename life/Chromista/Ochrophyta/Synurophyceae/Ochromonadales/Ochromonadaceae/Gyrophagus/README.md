@@ -1,5 +1,4 @@
-Gyrophagus P.A. Dangeard, 1930 GENUS
-=======
+# Gyrophagus P.A. Dangeard, 1930 GENUS
 
 #### Status
 ACCEPTED

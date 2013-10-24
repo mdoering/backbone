@@ -1,5 +1,4 @@
-Haemogregarina balistapi SPECIES
-=======
+# Haemogregarina balistapi SPECIES
 
 #### Status
 ACCEPTED

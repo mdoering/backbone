@@ -1,5 +1,4 @@
-Heteropatella alpina (Ellis & Everh.) W.B. Cooke SPECIES
-=======
+# Heteropatella alpina (Ellis & Everh.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

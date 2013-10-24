@@ -1,5 +1,4 @@
-Clathrus kusanoi (Kobayasi) Dring SPECIES
-=======
+# Clathrus kusanoi (Kobayasi) Dring SPECIES
 
 #### Status
 ACCEPTED

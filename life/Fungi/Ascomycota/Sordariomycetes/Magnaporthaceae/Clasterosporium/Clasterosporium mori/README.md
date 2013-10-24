@@ -1,5 +1,4 @@
-Clasterosporium mori Syd. & P. Syd. SPECIES
-=======
+# Clasterosporium mori Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

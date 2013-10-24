@@ -1,5 +1,4 @@
-Gyalectidium catenulatum (Cavalc. & A. A. Silva) L. I. Ferraro, Lücking & Sérus. SPECIES
-=======
+# Gyalectidium catenulatum (Cavalc. & A. A. Silva) L. I. Ferraro, Lücking & Sérus. SPECIES
 
 #### Status
 ACCEPTED

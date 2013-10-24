@@ -1,8 +1,7 @@
-Marasmius cepaestipes Henn. & E. Nyman SPECIES
-=======
+# Marasmius cepistipes Henn. & E. Nyman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius cepaestipes Henn. & E. Nyman
+Marasmius cepistipes Henn. & E. Nyman
 
 ### Remarks
 null

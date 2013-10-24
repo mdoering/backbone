@@ -1,5 +1,4 @@
-Stilbum didymum Cooke SPECIES
-=======
+# Stilbum didymum Cooke SPECIES
 
 #### Status
 ACCEPTED

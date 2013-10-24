@@ -1,5 +1,4 @@
-Colletotrichum osmanthi Dzhalag. SPECIES
-=======
+# Colletotrichum osmanthi Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

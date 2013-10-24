@@ -1,5 +1,4 @@
-Gloeothece violacea Rabenhorst SPECIES
-=======
+# Gloeothece violacea Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

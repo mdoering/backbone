@@ -1,5 +1,4 @@
-Onondagella cylindrica Jardiné et al., 1972 SPECIES
-=======
+# Onondagella cylindrica Jardiné et al., 1972 SPECIES
 
 #### Status
 ACCEPTED

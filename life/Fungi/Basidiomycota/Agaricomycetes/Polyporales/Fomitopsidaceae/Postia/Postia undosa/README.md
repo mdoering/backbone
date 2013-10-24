@@ -1,17 +1,16 @@
-Polyporus pseudotsugae (Murrill) Murrill, 1912 SPECIES
-=======
+# Postia undosa (Peck) Jülich, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 4(4): 217 (1912)
+Persoonia 11(4): 424 (1982)
 
 #### Original name
-Tyromyces pseudotsugae Murrill, 1912
+Polyporus undosus Peck, 1883
 
 ### Remarks
 null

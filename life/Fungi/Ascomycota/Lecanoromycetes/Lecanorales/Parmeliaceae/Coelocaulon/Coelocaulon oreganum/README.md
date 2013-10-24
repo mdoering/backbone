@@ -1,5 +1,4 @@
-Coelocaulon oreganum SPECIES
-=======
+# Coelocaulon oreganum SPECIES
 
 #### Status
 ACCEPTED

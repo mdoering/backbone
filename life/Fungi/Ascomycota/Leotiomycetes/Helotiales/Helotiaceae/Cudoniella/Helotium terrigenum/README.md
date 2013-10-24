@@ -1,5 +1,4 @@
-Helotium terrigenum Cooke & W. Phillips ex Massee, 1895 SPECIES
-=======
+# Helotium terrigenum Cooke & W. Phillips ex Massee, 1895 SPECIES
 
 #### Status
 ACCEPTED

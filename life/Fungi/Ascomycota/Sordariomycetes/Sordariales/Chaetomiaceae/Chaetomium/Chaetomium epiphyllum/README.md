@@ -1,5 +1,4 @@
-Chaetomium epiphyllum Kunze SPECIES
-=======
+# Chaetomium epiphyllum Kunze SPECIES
 
 #### Status
 ACCEPTED

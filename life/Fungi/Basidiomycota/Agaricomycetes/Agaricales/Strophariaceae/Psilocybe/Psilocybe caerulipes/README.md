@@ -1,17 +1,16 @@
-Psilocybe caerulipes var. caerulipes VARIETY
-=======
+# Psilocybe caerulipes (Peck) Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 1051 (1887)
 
 #### Original name
-Psilocybe caerulipes var. caerulipes
+Agaricus caerulipes Peck, 1885
 
 ### Remarks
 null

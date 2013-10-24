@@ -1,5 +1,4 @@
-Methanolobus vulcani Stetter et al., 1989 in Stetter, 1989 SPECIES
-=======
+# Methanolobus vulcani Stetter et al., 1989 in Stetter, 1989 SPECIES
 
 #### Status
 ACCEPTED

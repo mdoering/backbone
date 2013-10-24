@@ -1,5 +1,4 @@
-Rhizoctonia candida W. Yamam. SPECIES
-=======
+# Rhizoctonia candida W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

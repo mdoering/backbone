@@ -1,5 +1,4 @@
-Rhizocarpon depressum (Darb.) Zahlbr. SPECIES
-=======
+# Rhizocarpon depressum (Darb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

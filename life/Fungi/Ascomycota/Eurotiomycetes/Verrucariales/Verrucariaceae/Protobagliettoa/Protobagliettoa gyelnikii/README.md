@@ -1,8 +1,7 @@
-Protobagliettoa gyelniki (Servít) Servít ex J. Nowak & Tobol. SPECIES
-=======
+# Protobagliettoa gyelnikii (Servít) Servít ex J. Nowak & Tobol. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Protobagliettoa gyelniki (Servít) Servít ex J. Nowak & Tobol.
+Verrucaria gyelnikii Servít
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chaenotheca nudiuscula (Schaer.) Nádv. SPECIES
-=======
+# Chaenotheca nudiuscula (Schaer.) Nádv. SPECIES
 
 #### Status
 ACCEPTED

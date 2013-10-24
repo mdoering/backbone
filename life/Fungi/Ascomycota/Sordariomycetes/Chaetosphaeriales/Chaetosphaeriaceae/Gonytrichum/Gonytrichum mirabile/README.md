@@ -1,5 +1,4 @@
-Gonytrichum mirabile Hol.-Jech., 1976 SPECIES
-=======
+# Gonytrichum mirabile Hol.-Jech., 1976 SPECIES
 
 #### Status
 ACCEPTED

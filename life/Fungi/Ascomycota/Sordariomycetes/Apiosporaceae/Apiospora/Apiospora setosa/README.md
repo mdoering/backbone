@@ -1,17 +1,16 @@
-Cordella johnstonii M.B. Ellis, 1965 SPECIES
-=======
+# Apiospora setosa Samuels, McKenzie & D.E. Buchanan, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 103: 31 (1965)
+N. Z. Jl Bot. 19(2): 142 (1981)
 
 #### Original name
-Cordella johnstonii M.B. Ellis, 1965
+Apiospora setosa Samuels, McKenzie & D.E. Buchanan, 1981
 
 ### Remarks
 null

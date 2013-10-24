@@ -1,5 +1,4 @@
-Linderina pennispora Raper & Fennell, 1952 SPECIES
-=======
+# Linderina pennispora Raper & Fennell, 1952 SPECIES
 
 #### Status
 ACCEPTED

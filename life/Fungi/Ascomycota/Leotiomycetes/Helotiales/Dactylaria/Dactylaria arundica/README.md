@@ -1,5 +1,4 @@
-Dactylaria arundica Chowdhry SPECIES
-=======
+# Dactylaria arundica Chowdhry SPECIES
 
 #### Status
 ACCEPTED

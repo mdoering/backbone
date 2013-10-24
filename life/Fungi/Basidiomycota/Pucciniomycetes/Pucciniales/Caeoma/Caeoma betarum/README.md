@@ -1,5 +1,4 @@
-Caeoma betarum Link SPECIES
-=======
+# Caeoma betarum Link SPECIES
 
 #### Status
 ACCEPTED

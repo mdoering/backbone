@@ -1,5 +1,4 @@
-Dicommopalla rissae Bunner & Legault, 1989 SPECIES
-=======
+# Dicommopalla rissae Bunner & Legault, 1989 SPECIES
 
 #### Status
 ACCEPTED

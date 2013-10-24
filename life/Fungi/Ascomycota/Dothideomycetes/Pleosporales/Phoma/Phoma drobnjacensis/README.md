@@ -1,5 +1,4 @@
-Phoma drobnjacensis Bubák, 1915 SPECIES
-=======
+# Phoma drobnjacensis Bubák, 1915 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptographium pyrinum R.W. Davidson SPECIES
-=======
+# Leptographium pyrinum R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

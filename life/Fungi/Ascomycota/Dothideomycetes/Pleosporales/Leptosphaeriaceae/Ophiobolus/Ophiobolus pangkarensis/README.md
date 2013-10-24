@@ -1,5 +1,4 @@
-Ophiobolus pangkarensis Balf.-Browne SPECIES
-=======
+# Ophiobolus pangkarensis Balf.-Browne SPECIES
 
 #### Status
 ACCEPTED

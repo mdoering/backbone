@@ -1,5 +1,4 @@
-Hohenbuehelia concentrica Corner SPECIES
-=======
+# Hohenbuehelia concentrica Corner SPECIES
 
 #### Status
 ACCEPTED

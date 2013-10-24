@@ -1,5 +1,4 @@
-Beltrania malaiensis Wakef. SPECIES
-=======
+# Beltrania malaiensis Wakef. SPECIES
 
 #### Status
 ACCEPTED

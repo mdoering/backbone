@@ -1,5 +1,4 @@
-Lecanora chlorophana (Wahlenb.) Ach. SPECIES
-=======
+# Lecanora chlorophana (Wahlenb.) Ach. SPECIES
 
 #### Status
 ACCEPTED

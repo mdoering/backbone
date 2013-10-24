@@ -1,5 +1,4 @@
-Lecidea oederi Ach. SPECIES
-=======
+# Lecidea oederi Ach. SPECIES
 
 #### Status
 ACCEPTED

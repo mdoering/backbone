@@ -1,14 +1,13 @@
-Xenosporella larvalis (Morgan) Linder, 1929 SPECIES
-=======
+# Xenosporium larvale (Morgan) Piroz., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 16: 322 (1929)
+in Deighton & Pirozynski, Mycol. Pap. 105: 29 (1966)
 
 #### Original name
 Helicoma larvale Morgan, 1892

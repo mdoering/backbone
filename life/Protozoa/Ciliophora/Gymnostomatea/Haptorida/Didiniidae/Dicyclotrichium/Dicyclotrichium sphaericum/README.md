@@ -1,8 +1,7 @@
-Cyclotrichium sphaericum Faure-Fremiet, 1924 SPECIES
-=======
+# Dicyclotrichium sphaericum (Faure-Fremiet, 1924) Xu, Song & Hu, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

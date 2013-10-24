@@ -1,17 +1,16 @@
-Pseudocercospora mikiniigena J.M. Yen & Lim SPECIES
-=======
+# Asperisporium mikaniigena (J.M. Yen & Lim) R.W. Barreto, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Barreto & Evans, Mycol. Res. 99(3): 344 (1995)
 
 #### Original name
-Pseudocercospora mikiniigena J.M. Yen & Lim
+Pseudocercospora mikaniigena J.M. Yen & Lim, 1984
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aposphaeria anomala Rota-Rossi SPECIES
-=======
+# Aposphaeria anomala Rota-Rossi SPECIES
 
 #### Status
 ACCEPTED

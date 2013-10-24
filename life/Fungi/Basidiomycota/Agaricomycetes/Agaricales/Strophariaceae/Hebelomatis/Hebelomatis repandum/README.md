@@ -1,5 +1,4 @@
-Hebelomatis repandum (Bruchet) Locq. SPECIES
-=======
+# Hebelomatis repandum (Bruchet) Locq. SPECIES
 
 #### Status
 ACCEPTED

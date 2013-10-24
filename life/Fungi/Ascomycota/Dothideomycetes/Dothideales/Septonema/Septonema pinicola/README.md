@@ -1,5 +1,4 @@
-Septonema pinicola Hol.-Jech. SPECIES
-=======
+# Septonema pinicola Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

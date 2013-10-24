@@ -1,5 +1,4 @@
-Micropeltidium todunzii (Speg.) Speg. SPECIES
-=======
+# Micropeltidium todunzii (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

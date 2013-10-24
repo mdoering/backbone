@@ -1,5 +1,4 @@
-Lactobacillus pentosus (ex Fred et al., 1921) Zanoni et al., 1987 SPECIES
-=======
+# Lactobacillus pentosus (ex Fred et al., 1921) Zanoni et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

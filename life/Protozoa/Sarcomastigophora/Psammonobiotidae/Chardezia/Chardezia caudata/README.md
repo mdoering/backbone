@@ -1,5 +1,4 @@
-Chardezia caudata Golemansky, 1970 SPECIES
-=======
+# Chardezia caudata Golemansky, 1970 SPECIES
 
 #### Status
 ACCEPTED

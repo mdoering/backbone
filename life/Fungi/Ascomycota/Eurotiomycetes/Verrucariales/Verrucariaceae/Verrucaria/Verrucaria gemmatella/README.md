@@ -1,5 +1,4 @@
-Verrucaria gemmatella Nyl. SPECIES
-=======
+# Verrucaria gemmatella Nyl. SPECIES
 
 #### Status
 ACCEPTED

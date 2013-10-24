@@ -1,5 +1,4 @@
-Galerina semiglobata Singer SPECIES
-=======
+# Galerina semiglobata Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora tenuissima Hue SPECIES
-=======
+# Lecanora tenuissima Hue SPECIES
 
 #### Status
 ACCEPTED

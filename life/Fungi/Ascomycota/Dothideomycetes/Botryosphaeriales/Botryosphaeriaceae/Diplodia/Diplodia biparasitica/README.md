@@ -1,5 +1,4 @@
-Diplodia biparasitica Höhn. SPECIES
-=======
+# Diplodia biparasitica Höhn. SPECIES
 
 #### Status
 ACCEPTED

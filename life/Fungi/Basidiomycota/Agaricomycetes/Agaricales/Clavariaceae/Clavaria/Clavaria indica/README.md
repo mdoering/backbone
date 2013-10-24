@@ -1,5 +1,4 @@
-Clavaria indica Corner, K.S. Thind & Dev SPECIES
-=======
+# Clavaria indica Corner, K.S. Thind & Dev SPECIES
 
 #### Status
 ACCEPTED

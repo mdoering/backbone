@@ -1,5 +1,4 @@
-Omphalia luffii Massee SPECIES
-=======
+# Omphalia luffii Massee SPECIES
 
 #### Status
 ACCEPTED

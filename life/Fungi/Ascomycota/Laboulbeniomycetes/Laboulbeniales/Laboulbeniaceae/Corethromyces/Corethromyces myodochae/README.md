@@ -1,5 +1,4 @@
-Corethromyces myodochae Thaxt. SPECIES
-=======
+# Corethromyces myodochae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia callunae (De Not.) Aptroot SPECIES
-=======
+# Arthopyrenia callunae (De Not.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

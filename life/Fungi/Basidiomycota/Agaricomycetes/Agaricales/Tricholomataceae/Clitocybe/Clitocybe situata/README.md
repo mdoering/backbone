@@ -1,5 +1,4 @@
-Clitocybe situata (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe situata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

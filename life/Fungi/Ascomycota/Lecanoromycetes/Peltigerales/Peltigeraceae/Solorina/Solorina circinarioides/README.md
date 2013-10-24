@@ -1,5 +1,4 @@
-Solorina circinarioides Fée SPECIES
-=======
+# Solorina circinarioides Fée SPECIES
 
 #### Status
 ACCEPTED

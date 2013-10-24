@@ -1,5 +1,4 @@
-Cercidospora opuntiae (Pat.) Kuntze SPECIES
-=======
+# Cercidospora opuntiae (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ceratocystis polonica (Siemaszko) C. Moreau, 1952 SPECIES
-=======
+# Ophiostoma polonicum Siemaszko, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 17(Suppl. Colon. no. 1): 22 (1952)
+Planta Pol. 7(3): 33 (1939)
 
 #### Original name
 Ophiostoma polonicum Siemaszko, 1939

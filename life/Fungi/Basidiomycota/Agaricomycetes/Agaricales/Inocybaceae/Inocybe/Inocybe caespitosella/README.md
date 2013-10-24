@@ -1,5 +1,4 @@
-Inocybe caespitosella Speg. SPECIES
-=======
+# Inocybe caespitosella Speg. SPECIES
 
 #### Status
 ACCEPTED

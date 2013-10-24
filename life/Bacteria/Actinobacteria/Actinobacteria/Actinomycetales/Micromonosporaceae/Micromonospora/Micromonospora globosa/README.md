@@ -1,5 +1,4 @@
-Micromonospora globosa Krassiln. SPECIES
-=======
+# Micromonospora globosa Krassiln. SPECIES
 
 #### Status
 ACCEPTED

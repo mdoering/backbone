@@ -1,5 +1,4 @@
-Agaricus chloroleucus Pers. SPECIES
-=======
+# Agaricus chloroleucus Pers. SPECIES
 
 #### Status
 ACCEPTED

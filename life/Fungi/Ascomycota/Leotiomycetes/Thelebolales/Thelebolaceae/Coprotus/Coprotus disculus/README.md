@@ -1,5 +1,4 @@
-Coprotus disculus Kimbr., Luck-Allen & Cain, 1972 SPECIES
-=======
+# Coprotus disculus Kimbr., Luck-Allen & Cain, 1972 SPECIES
 
 #### Status
 ACCEPTED

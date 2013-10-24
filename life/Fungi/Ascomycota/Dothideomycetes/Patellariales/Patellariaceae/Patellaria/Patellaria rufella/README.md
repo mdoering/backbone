@@ -1,5 +1,4 @@
-Patellaria rufella Müll. Arg. SPECIES
-=======
+# Patellaria rufella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

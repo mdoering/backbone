@@ -1,5 +1,4 @@
-Phoma templetoniae Henn. SPECIES
-=======
+# Phoma templetoniae Henn. SPECIES
 
 #### Status
 ACCEPTED

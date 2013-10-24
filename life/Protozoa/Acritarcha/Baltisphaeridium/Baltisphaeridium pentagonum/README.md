@@ -1,5 +1,4 @@
-Baltisphaeridium pentagonum Timofeev, 1959 ex Gunia & Wierzcholowskii, 1979 SPECIES
-=======
+# Baltisphaeridium pentagonum Timofeev, 1959 ex Gunia & Wierzcholowskii, 1979 SPECIES
 
 #### Status
 ACCEPTED

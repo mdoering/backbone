@@ -1,5 +1,4 @@
-Anthostomella bahiensis (W. Hempel) Speg. SPECIES
-=======
+# Anthostomella bahiensis (W. Hempel) Speg. SPECIES
 
 #### Status
 ACCEPTED

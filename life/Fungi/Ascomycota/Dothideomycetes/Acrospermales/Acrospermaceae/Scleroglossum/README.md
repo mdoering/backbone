@@ -1,5 +1,4 @@
-Scleroglossum GENUS
-=======
+# Scleroglossum GENUS
 
 #### Status
 ACCEPTED

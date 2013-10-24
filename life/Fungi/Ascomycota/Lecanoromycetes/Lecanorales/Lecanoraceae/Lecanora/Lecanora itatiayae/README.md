@@ -1,5 +1,4 @@
-Lecanora itatiayae Zahlbr. SPECIES
-=======
+# Lecanora itatiayae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

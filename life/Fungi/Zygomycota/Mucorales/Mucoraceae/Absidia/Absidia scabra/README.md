@@ -1,5 +1,4 @@
-Absidia scabra Cocc. SPECIES
-=======
+# Absidia scabra Cocc. SPECIES
 
 #### Status
 ACCEPTED

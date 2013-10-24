@@ -1,5 +1,4 @@
-Ramularia penstemonis W.B. Cooke & C.G. Shaw SPECIES
-=======
+# Ramularia penstemonis W.B. Cooke & C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon tabulare (Thunb.) SPECIES
-=======
+# Stereocaulon tabulare (Thunb.) SPECIES
 
 #### Status
 ACCEPTED

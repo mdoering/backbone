@@ -1,5 +1,4 @@
-Opercularia hydropori SPECIES
-=======
+# Opercularia hydropori SPECIES
 
 #### Status
 ACCEPTED

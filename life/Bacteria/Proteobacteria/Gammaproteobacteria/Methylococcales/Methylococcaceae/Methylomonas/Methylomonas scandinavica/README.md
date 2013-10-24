@@ -1,5 +1,4 @@
-Methylomonas scandinavica Kalyuzhnaya et al., 2000 SPECIES
-=======
+# Methylomonas scandinavica Kalyuzhnaya et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

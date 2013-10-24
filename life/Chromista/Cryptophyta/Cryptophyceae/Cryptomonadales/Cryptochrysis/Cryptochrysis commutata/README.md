@@ -1,5 +1,4 @@
-Cryptochrysis commutata Pascher SPECIES
-=======
+# Cryptochrysis commutata Pascher SPECIES
 
 #### Status
 ACCEPTED

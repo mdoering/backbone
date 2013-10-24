@@ -1,5 +1,4 @@
-Puccinia laevigata (Syd., P. Syd. & E.J. Butler) Hirats. f. SPECIES
-=======
+# Puccinia laevigata (Syd., P. Syd. & E.J. Butler) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

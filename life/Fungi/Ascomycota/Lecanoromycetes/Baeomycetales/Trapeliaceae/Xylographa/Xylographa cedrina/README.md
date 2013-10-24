@@ -1,5 +1,4 @@
-Xylographa cedrina Nyl. SPECIES
-=======
+# Xylographa cedrina Nyl. SPECIES
 
 #### Status
 ACCEPTED

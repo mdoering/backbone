@@ -1,5 +1,4 @@
-Puccinia namua G. Cunn., 1924 SPECIES
-=======
+# Puccinia namua G. Cunn., 1924 SPECIES
 
 #### Status
 ACCEPTED

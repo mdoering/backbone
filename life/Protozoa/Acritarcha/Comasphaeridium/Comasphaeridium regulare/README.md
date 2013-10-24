@@ -1,5 +1,4 @@
-Comasphaeridium regulare (Yin Leiming, 1987) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium regulare (Yin Leiming, 1987) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

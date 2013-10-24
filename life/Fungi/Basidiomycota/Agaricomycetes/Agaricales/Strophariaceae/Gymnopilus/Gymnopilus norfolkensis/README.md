@@ -1,5 +1,4 @@
-Gymnopilus norfolkensis B.J. Rees & Lepp SPECIES
-=======
+# Gymnopilus norfolkensis B.J. Rees & Lepp SPECIES
 
 #### Status
 ACCEPTED

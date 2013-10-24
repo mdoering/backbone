@@ -1,5 +1,4 @@
-Cortinarius definiendus Britzelm. SPECIES
-=======
+# Cortinarius definiendus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

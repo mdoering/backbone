@@ -1,5 +1,4 @@
-Russula anisopterae Buyck & E. Horak SPECIES
-=======
+# Russula anisopterae Buyck & E. Horak SPECIES
 
 #### Status
 ACCEPTED

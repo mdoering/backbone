@@ -1,17 +1,16 @@
-Hazslinszkya inarensis Vain. SPECIES
-=======
+# Elixia flexella (Ach.) Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Hattori bot. Lab. 83: 62 (1997)
 
 #### Original name
-null
+Limboria flexella Ach.
 
 ### Remarks
 null

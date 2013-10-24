@@ -1,5 +1,4 @@
-Collybia stiptaria SPECIES
-=======
+# Collybia stiptaria SPECIES
 
 #### Status
 ACCEPTED

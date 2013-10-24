@@ -1,5 +1,4 @@
-Lepiota muticolor Murrill SPECIES
-=======
+# Lepiota muticolor Murrill SPECIES
 
 #### Status
 ACCEPTED

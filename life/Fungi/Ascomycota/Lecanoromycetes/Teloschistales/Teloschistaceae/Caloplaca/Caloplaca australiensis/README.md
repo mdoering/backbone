@@ -1,5 +1,4 @@
-Caloplaca australiensis S.Y. Kondr., Kärnefelt & Filson SPECIES
-=======
+# Caloplaca australiensis S.Y. Kondr., Kärnefelt & Filson SPECIES
 
 #### Status
 ACCEPTED

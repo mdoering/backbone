@@ -1,5 +1,4 @@
-Hoehnelogaster Lohwag GENUS
-=======
+# Hoehnelogaster Lohwag GENUS
 
 #### Status
 ACCEPTED

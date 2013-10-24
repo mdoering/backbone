@@ -1,5 +1,4 @@
-Trogia subdistans Corner SPECIES
-=======
+# Trogia subdistans Corner SPECIES
 
 #### Status
 ACCEPTED

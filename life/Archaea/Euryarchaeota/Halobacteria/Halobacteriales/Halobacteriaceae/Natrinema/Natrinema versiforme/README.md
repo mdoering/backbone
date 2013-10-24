@@ -1,5 +1,4 @@
-Natrinema versiforme Xin et al., 2000 SPECIES
-=======
+# Natrinema versiforme Xin et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

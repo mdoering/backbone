@@ -1,5 +1,4 @@
-Agaricus volvaceusminor Bull. SPECIES
-=======
+# Agaricus volvaceusminor Bull. SPECIES
 
 #### Status
 ACCEPTED

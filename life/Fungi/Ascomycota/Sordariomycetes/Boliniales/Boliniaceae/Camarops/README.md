@@ -1,17 +1,16 @@
-Chromendothia Lar.N. Vassiljeva GENUS
-=======
+# Camarops P. Karsten, 1873 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mikol. Fitopatol. 27(4): 5 (1993)
+null
 
 #### Original name
-Chromendothia Lar.N. Vassiljeva
+null
 
 ### Remarks
 null

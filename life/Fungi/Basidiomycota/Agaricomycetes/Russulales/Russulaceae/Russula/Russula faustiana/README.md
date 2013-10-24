@@ -1,5 +1,4 @@
-Russula faustiana f. faustiana FORM
-=======
+# Russula faustiana Sarnari SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bollettino dell'Associazione Micologica ed Ecologica Romana 25: 9 (1992)
 
 #### Original name
-Russula faustiana f. faustiana
+Russula faustiana Sarnari
 
 ### Remarks
 null

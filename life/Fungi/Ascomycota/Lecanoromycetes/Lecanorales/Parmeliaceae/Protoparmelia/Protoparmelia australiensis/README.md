@@ -1,5 +1,4 @@
-Protoparmelia australiensis (Hafellner & R. W. Rogers) Kantvilas, Papong & Lumbsch SPECIES
-=======
+# Protoparmelia australiensis (Hafellner & R. W. Rogers) Kantvilas, Papong & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

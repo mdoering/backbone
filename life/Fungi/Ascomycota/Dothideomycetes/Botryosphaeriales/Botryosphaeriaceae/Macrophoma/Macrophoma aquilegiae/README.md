@@ -1,5 +1,4 @@
-Macrophoma aquilegiae Gonz. Frag. SPECIES
-=======
+# Macrophoma aquilegiae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemitrichia spinifera M.L. Farr, 1979 SPECIES
-=======
+# Hemitrichia spinifera M.L. Farr, 1979 SPECIES
 
 #### Status
 ACCEPTED

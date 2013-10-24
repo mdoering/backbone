@@ -1,17 +1,16 @@
-Hypoderma allicina Arx SPECIES
-=======
+# Hypoderma allicinum Arx SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 4(1-6): 392 (1950)
 
 #### Original name
-Hypoderma allicina Arx
+Hypoderma allicinum Arx
 
 ### Remarks
 null

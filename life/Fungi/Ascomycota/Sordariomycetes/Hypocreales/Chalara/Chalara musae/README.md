@@ -1,5 +1,4 @@
-Chalara musae Sawada SPECIES
-=======
+# Chalara musae Sawada SPECIES
 
 #### Status
 ACCEPTED

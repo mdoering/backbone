@@ -1,5 +1,4 @@
-Cibicidella Cushman, 1927 GENUS
-=======
+# Cibicidella Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

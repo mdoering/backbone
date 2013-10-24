@@ -1,5 +1,4 @@
-Euglena mangini M. Lefèvre SPECIES
-=======
+# Euglena mangini M. Lefèvre SPECIES
 
 #### Status
 ACCEPTED

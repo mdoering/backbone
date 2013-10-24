@@ -1,5 +1,4 @@
-Tetralonche Schewiakoff, 1926 GENUS
-=======
+# Tetralonche Schewiakoff, 1926 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota populicola A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota populicola A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Aspergillus japonicus var. aculeatus (Iizuka) Al-Musallam, 1980 VARIETY
-=======
+# Aspergillus aculeatus Iizuka, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revision of the black Aspergillus species (Utrecht) 30 (1980)
+J. agric. Chem. Soc. Japan 27: 806 (1953)
 
 #### Original name
 Aspergillus aculeatus Iizuka, 1953

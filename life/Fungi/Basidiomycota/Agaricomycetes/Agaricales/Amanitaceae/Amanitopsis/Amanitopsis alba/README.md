@@ -1,5 +1,4 @@
-Amanitopsis alba (Bull.) Sergeeva SPECIES
-=======
+# Amanitopsis alba (Bull.) Sergeeva SPECIES
 
 #### Status
 ACCEPTED

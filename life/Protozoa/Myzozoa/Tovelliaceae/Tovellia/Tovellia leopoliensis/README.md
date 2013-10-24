@@ -1,5 +1,4 @@
-Tovellia leopoliensis (Wolosz) Moestrup, Lindberg & Daugbjergk, 2005 SPECIES
-=======
+# Tovellia leopoliensis (Wolosz) Moestrup, Lindberg & Daugbjergk, 2005 SPECIES
 
 #### Status
 ACCEPTED

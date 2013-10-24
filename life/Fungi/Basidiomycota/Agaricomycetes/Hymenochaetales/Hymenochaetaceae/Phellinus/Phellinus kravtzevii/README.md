@@ -1,5 +1,4 @@
-Phellinus kravtzevii Schwarzman SPECIES
-=======
+# Phellinus kravtzevii Schwarzman SPECIES
 
 #### Status
 ACCEPTED

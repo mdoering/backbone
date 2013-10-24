@@ -1,5 +1,4 @@
-Smittium caribensis L.G. Valle & Cafaro, 2010 SPECIES
-=======
+# Smittium caribensis L.G. Valle & Cafaro, 2010 SPECIES
 
 #### Status
 ACCEPTED

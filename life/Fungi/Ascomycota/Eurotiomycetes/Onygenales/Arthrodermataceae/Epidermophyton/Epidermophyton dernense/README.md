@@ -1,5 +1,4 @@
-Epidermophyton dernense Tedeschi SPECIES
-=======
+# Epidermophyton dernense Tedeschi SPECIES
 
 #### Status
 ACCEPTED

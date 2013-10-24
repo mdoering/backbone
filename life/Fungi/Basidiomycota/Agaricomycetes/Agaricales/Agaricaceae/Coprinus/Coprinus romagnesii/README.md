@@ -1,5 +1,4 @@
-Coprinus romagnesii Locq. SPECIES
-=======
+# Coprinus romagnesii Locq. SPECIES
 
 #### Status
 ACCEPTED

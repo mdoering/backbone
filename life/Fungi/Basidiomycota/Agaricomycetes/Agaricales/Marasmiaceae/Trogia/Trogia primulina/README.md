@@ -1,5 +1,4 @@
-Trogia primulina Corner SPECIES
-=======
+# Trogia primulina Corner SPECIES
 
 #### Status
 ACCEPTED

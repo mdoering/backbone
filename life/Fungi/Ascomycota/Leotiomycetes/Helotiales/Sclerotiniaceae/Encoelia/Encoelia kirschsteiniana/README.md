@@ -1,5 +1,4 @@
-Encoelia kirschsteiniana (Jaap) Kirschst. SPECIES
-=======
+# Encoelia kirschsteiniana (Jaap) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

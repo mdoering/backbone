@@ -1,5 +1,4 @@
-Marasmius pahouinensis De Seynes SPECIES
-=======
+# Marasmius pahouinensis De Seynes SPECIES
 
 #### Status
 ACCEPTED

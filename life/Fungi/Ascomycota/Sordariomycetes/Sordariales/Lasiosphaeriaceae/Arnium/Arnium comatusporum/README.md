@@ -1,5 +1,4 @@
-Arnium comatusporum (Cain) J.C. Krug & Cain SPECIES
-=======
+# Arnium comatusporum (Cain) J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

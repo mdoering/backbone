@@ -1,5 +1,4 @@
-Sebacina stratosa (Viégas) Olive SPECIES
-=======
+# Sebacina stratosa (Viégas) Olive SPECIES
 
 #### Status
 ACCEPTED

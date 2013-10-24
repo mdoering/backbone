@@ -1,5 +1,4 @@
-Lycoperdon cancellatum O.F. Müll. SPECIES
-=======
+# Lycoperdon cancellatum O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

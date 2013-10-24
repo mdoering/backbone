@@ -1,5 +1,4 @@
-Semilecanora lignicola Motyka SPECIES
-=======
+# Semilecanora lignicola Motyka SPECIES
 
 #### Status
 ACCEPTED

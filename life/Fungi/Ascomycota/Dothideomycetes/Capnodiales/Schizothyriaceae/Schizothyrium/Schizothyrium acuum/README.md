@@ -1,5 +1,4 @@
-Schizothyrium acuum Bubák SPECIES
-=======
+# Schizothyrium acuum Bubák SPECIES
 
 #### Status
 ACCEPTED

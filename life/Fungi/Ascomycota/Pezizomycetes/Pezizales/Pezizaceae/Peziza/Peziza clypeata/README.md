@@ -1,5 +1,4 @@
-Peziza clypeata Boud. SPECIES
-=======
+# Peziza clypeata Boud. SPECIES
 
 #### Status
 ACCEPTED

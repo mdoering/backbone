@@ -1,5 +1,4 @@
-Trachelocerca biceps Ehrenberg, 1834 SPECIES
-=======
+# Trachelocerca biceps Ehrenberg, 1834 SPECIES
 
 #### Status
 ACCEPTED

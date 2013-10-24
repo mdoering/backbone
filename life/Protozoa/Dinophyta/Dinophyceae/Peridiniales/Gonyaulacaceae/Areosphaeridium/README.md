@@ -1,5 +1,4 @@
-Areosphaeridium G.L. Eaton, 1971 GENUS
-=======
+# Areosphaeridium G.L. Eaton, 1971 GENUS
 
 #### Status
 ACCEPTED

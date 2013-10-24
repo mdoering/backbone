@@ -1,5 +1,4 @@
-Diplotomma excentricum (Ach.) Jatta SPECIES
-=======
+# Diplotomma excentricum (Ach.) Jatta SPECIES
 
 #### Status
 ACCEPTED

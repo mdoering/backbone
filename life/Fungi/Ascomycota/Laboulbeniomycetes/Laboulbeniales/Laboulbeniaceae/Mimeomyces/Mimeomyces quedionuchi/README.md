@@ -1,5 +1,4 @@
-Mimeomyces quedionuchi Thaxt. SPECIES
-=======
+# Mimeomyces quedionuchi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

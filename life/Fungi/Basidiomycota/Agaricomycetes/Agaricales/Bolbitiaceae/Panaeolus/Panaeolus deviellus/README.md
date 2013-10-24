@@ -1,5 +1,4 @@
-Panaeolus deviellus (Britzelm.) Sacc. SPECIES
-=======
+# Panaeolus deviellus (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

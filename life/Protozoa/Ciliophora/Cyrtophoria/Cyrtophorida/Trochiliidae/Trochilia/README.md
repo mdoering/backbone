@@ -1,5 +1,4 @@
-Trochilia Dujardin, 1841 GENUS
-=======
+# Trochilia Dujardin, 1841 GENUS
 
 #### Status
 ACCEPTED

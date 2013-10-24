@@ -1,8 +1,7 @@
-Bacillus thermoaerophilus Meier-Stauffer et al., 1996 SPECIES
-=======
+# Aneurinibacillus thermoaerophilus (Meier-Stauffer et al., 1996) Heyndrickx et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

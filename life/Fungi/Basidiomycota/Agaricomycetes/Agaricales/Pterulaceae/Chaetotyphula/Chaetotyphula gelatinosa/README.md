@@ -1,5 +1,4 @@
-Chaetotyphula gelatinosa Corner, 1953 SPECIES
-=======
+# Chaetotyphula gelatinosa Corner, 1953 SPECIES
 
 #### Status
 ACCEPTED

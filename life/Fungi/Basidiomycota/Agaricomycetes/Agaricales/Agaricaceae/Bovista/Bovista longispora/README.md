@@ -1,5 +1,4 @@
-Bovista longispora Kreisel SPECIES
-=======
+# Bovista longispora Kreisel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palaeostomocystis oblanga Deflandre, 1945 SPECIES
-=======
+# Palaeostomocystis oblanga Deflandre, 1945 SPECIES
 
 #### Status
 ACCEPTED

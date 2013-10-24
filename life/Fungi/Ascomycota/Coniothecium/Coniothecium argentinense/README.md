@@ -1,5 +1,4 @@
-Coniothecium argentinense Speg. SPECIES
-=======
+# Coniothecium argentinense Speg. SPECIES
 
 #### Status
 ACCEPTED

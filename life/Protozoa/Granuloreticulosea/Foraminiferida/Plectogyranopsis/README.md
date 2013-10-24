@@ -1,5 +1,4 @@
-Plectogyranopsis Vachard, 1978 GENUS
-=======
+# Plectogyranopsis Vachard, 1978 GENUS
 
 #### Status
 ACCEPTED

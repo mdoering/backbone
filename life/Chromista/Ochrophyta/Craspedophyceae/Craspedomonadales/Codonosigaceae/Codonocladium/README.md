@@ -1,5 +1,4 @@
-Codonocladium Stein GENUS
-=======
+# Codonocladium Stein GENUS
 
 #### Status
 ACCEPTED

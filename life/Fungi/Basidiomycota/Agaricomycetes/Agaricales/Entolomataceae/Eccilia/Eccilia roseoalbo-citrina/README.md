@@ -1,5 +1,4 @@
-Eccilia roseoalbo-citrina G.F. Atk. SPECIES
-=======
+# Eccilia roseoalbo-citrina G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

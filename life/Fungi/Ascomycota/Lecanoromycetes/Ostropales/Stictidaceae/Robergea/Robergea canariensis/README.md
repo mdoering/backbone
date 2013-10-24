@@ -1,17 +1,16 @@
-Robergea canariense Sherwood SPECIES
-=======
+# Robergea canariensis Sherwood SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 5(1): 99 (1977)
 
 #### Original name
-Robergea canariense Sherwood
+Robergea canariensis Sherwood
 
 ### Remarks
 null

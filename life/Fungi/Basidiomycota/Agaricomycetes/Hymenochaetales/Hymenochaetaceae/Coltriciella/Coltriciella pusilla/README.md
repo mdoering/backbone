@@ -1,14 +1,13 @@
-Coltricia pusilla J.R. Sharma & J.E. Wright, 1992 SPECIES
-=======
+# Coltriciella pusilla (Imazeki & Kobayasi) Corner, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 7: 42 (1966)
+Beih. Nova Hedwigia 101: 50 (1991)
 
 #### Original name
 Coltricia pusilla J.R. Sharma & J.E. Wright, 1992

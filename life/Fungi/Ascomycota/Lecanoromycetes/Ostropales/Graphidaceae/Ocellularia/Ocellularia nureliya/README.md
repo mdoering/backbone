@@ -1,5 +1,4 @@
-Ocellularia nureliya (Hale) Patw., Sethy & Nagarkar SPECIES
-=======
+# Ocellularia nureliya (Hale) Patw., Sethy & Nagarkar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gelatinosporium fosteri (A. Funk) A. Funk SPECIES
-=======
+# Gelatinosporium fosteri (A. Funk) A. Funk SPECIES
 
 #### Status
 ACCEPTED

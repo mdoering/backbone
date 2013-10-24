@@ -1,8 +1,7 @@
-Dentalina ariena Patterson & Pettis, 1986 SPECIES
-=======
+# Laevidentalina ariena (Patterson & Pettis, 1986) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

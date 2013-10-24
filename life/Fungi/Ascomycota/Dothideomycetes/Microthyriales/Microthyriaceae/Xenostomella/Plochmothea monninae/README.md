@@ -1,5 +1,4 @@
-Plochmothea monninae Syd. SPECIES
-=======
+# Plochmothea monninae Syd. SPECIES
 
 #### Status
 ACCEPTED

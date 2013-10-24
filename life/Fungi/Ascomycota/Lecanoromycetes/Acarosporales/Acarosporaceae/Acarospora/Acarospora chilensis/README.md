@@ -1,5 +1,4 @@
-Acarospora chilensis H. Magn. SPECIES
-=======
+# Acarospora chilensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

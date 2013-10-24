@@ -1,5 +1,4 @@
-Fellhanera longispora Lücking SPECIES
-=======
+# Fellhanera longispora Lücking SPECIES
 
 #### Status
 ACCEPTED

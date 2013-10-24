@@ -1,5 +1,4 @@
-Cercospora eriobotryicola J.M. Yen SPECIES
-=======
+# Cercospora eriobotryicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

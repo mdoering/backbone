@@ -1,5 +1,4 @@
-Botryodiplodia gleditschiae Berl. SPECIES
-=======
+# Botryodiplodia gleditschiae Berl. SPECIES
 
 #### Status
 ACCEPTED

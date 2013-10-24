@@ -1,5 +1,4 @@
-Psilocybe weilii Stamets SPECIES
-=======
+# Psilocybe weilii Stamets SPECIES
 
 #### Status
 ACCEPTED

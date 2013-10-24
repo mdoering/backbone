@@ -1,5 +1,4 @@
-Skeletonema munzelii (Guillard, Carpeuter & Reimann SPECIES
-=======
+# Skeletonema munzelii (Guillard, Carpeuter & Reimann SPECIES
 
 #### Status
 ACCEPTED

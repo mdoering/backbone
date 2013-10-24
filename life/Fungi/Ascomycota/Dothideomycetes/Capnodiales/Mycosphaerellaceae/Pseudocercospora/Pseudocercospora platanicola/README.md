@@ -1,5 +1,4 @@
-Pseudocercospora platanicola (Ellis & Everh.) U. Braun SPECIES
-=======
+# Pseudocercospora platanicola (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

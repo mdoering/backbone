@@ -1,5 +1,4 @@
-Spirotremesporites clinatus Elsik SPECIES
-=======
+# Spirotremesporites clinatus Elsik SPECIES
 
 #### Status
 ACCEPTED

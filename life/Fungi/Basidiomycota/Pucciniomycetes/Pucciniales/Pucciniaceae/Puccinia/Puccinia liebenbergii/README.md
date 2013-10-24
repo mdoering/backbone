@@ -1,5 +1,4 @@
-Puccinia liebenbergii Doidge SPECIES
-=======
+# Puccinia liebenbergii Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycomalus Möller GENUS
-=======
+# Mycomalus Möller GENUS
 
 #### Status
 ACCEPTED

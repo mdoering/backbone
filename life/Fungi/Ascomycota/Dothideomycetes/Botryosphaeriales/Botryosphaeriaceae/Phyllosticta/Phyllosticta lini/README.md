@@ -1,5 +1,4 @@
-Phyllosticta lini Lobik SPECIES
-=======
+# Phyllosticta lini Lobik SPECIES
 
 #### Status
 ACCEPTED

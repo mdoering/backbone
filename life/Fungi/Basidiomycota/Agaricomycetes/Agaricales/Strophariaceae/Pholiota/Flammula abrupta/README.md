@@ -1,5 +1,4 @@
-Flammula abrupta (Fr.) Sacc. SPECIES
-=======
+# Flammula abrupta (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

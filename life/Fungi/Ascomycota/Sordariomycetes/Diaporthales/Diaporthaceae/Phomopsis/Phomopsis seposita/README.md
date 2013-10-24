@@ -1,5 +1,4 @@
-Phomopsis seposita (Sacc.) Traverso SPECIES
-=======
+# Phomopsis seposita (Sacc.) Traverso SPECIES
 
 #### Status
 ACCEPTED

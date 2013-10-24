@@ -1,5 +1,4 @@
-Collema sendtneri Flot. SPECIES
-=======
+# Collema sendtneri Flot. SPECIES
 
 #### Status
 ACCEPTED

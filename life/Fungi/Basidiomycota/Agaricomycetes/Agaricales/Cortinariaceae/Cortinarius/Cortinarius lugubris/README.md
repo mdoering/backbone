@@ -1,5 +1,4 @@
-Cortinarius lugubris M.M. Moser SPECIES
-=======
+# Cortinarius lugubris M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

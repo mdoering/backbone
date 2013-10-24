@@ -1,5 +1,4 @@
-Fusarium vorosii B. Tóth, Varga, Starkey, O'Donnell, H. Suga & T. Aoki SPECIES
-=======
+# Fusarium vorosii B. Tóth, Varga, Starkey, O'Donnell, H. Suga & T. Aoki SPECIES
 
 #### Status
 ACCEPTED

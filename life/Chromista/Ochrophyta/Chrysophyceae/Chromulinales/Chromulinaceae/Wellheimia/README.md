@@ -1,5 +1,4 @@
-Wellheimia Pascher, 1917 GENUS
-=======
+# Wellheimia Pascher, 1917 GENUS
 
 #### Status
 ACCEPTED

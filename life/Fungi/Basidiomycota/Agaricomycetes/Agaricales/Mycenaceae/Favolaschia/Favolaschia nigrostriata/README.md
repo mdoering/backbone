@@ -1,5 +1,4 @@
-Favolaschia nigrostriata Henn. & E. Nyman, 1899 SPECIES
-=======
+# Favolaschia nigrostriata Henn. & E. Nyman, 1899 SPECIES
 
 #### Status
 ACCEPTED

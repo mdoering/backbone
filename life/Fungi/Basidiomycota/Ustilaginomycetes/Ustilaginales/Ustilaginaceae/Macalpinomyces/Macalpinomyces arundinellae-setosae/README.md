@@ -1,5 +1,4 @@
-Macalpinomyces arundinellae-setosae R.G. Shivas & Vánky, 2005 SPECIES
-=======
+# Macalpinomyces arundinellae-setosae R.G. Shivas & Vánky, 2005 SPECIES
 
 #### Status
 ACCEPTED

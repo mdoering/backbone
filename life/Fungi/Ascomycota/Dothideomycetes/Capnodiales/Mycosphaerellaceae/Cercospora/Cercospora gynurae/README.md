@@ -1,5 +1,4 @@
-Cercospora gynurae Sawada & Katsuki SPECIES
-=======
+# Cercospora gynurae Sawada & Katsuki SPECIES
 
 #### Status
 ACCEPTED

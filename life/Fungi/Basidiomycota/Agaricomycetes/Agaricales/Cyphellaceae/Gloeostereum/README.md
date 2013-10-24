@@ -1,5 +1,4 @@
-Gloeostereum S. Ito & S. Imai GENUS
-=======
+# Gloeostereum S. Ito & S. Imai GENUS
 
 #### Status
 ACCEPTED

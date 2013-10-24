@@ -1,5 +1,4 @@
-Efibula lutea Sheng H. Wu SPECIES
-=======
+# Efibula lutea Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

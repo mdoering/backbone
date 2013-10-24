@@ -1,5 +1,4 @@
-Olla faginea Velen. SPECIES
-=======
+# Olla faginea Velen. SPECIES
 
 #### Status
 ACCEPTED

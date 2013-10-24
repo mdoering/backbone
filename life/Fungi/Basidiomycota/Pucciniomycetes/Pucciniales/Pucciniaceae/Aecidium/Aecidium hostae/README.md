@@ -1,5 +1,4 @@
-Aecidium hostae Dietel SPECIES
-=======
+# Aecidium hostae Dietel SPECIES
 
 #### Status
 ACCEPTED

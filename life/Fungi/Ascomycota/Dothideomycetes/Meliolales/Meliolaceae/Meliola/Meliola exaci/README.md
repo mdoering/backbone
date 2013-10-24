@@ -1,5 +1,4 @@
-Meliola exaci Hosag. SPECIES
-=======
+# Meliola exaci Hosag. SPECIES
 
 #### Status
 ACCEPTED

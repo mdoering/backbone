@@ -1,5 +1,4 @@
-Anellaria sanguineopurpurea Rick SPECIES
-=======
+# Anellaria sanguineopurpurea Rick SPECIES
 
 #### Status
 ACCEPTED

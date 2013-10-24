@@ -1,5 +1,4 @@
-Pyrenochaeta telephii Allesch. SPECIES
-=======
+# Pyrenochaeta telephii Allesch. SPECIES
 
 #### Status
 ACCEPTED

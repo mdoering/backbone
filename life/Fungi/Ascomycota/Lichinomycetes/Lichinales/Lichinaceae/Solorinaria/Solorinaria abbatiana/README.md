@@ -1,5 +1,4 @@
-Solorinaria abbatiana Faurel, Ozenda & Schotter SPECIES
-=======
+# Solorinaria abbatiana Faurel, Ozenda & Schotter SPECIES
 
 #### Status
 ACCEPTED

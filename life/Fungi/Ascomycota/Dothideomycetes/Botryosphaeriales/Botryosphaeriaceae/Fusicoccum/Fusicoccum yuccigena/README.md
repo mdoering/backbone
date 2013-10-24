@@ -1,14 +1,13 @@
-Fusicoccum yuccogena (Ellis & Everh.) Aa & Vanev SPECIES
-=======
+# Fusicoccum yuccigena (Ellis & Everh.) Aa & Vanev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+A Revision of the Species Described in Phyllosticta (Utrecht) 488 (2002)
 
 #### Original name
 Gloeosporium yuccigenum Ellis & Everh.

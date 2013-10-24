@@ -1,14 +1,13 @@
-Ceriomyces conicus (Ravenel) Murrill, 1909 SPECIES
-=======
+# Fistulinella conica (Ravenel) Pegler & T.W.K. Young, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 1(4): 146 (1909)
+Trans. Br. mycol. Soc. 76(1): 140 (1981)
 
 #### Original name
 Boletus conicus Ravenel, 1853

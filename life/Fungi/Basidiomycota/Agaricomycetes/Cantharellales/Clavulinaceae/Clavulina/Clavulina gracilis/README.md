@@ -1,17 +1,16 @@
-Clavulina gracilis var. incarnata Corner VARIETY
-=======
+# Clavulina gracilis Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia, Beih. 33: 162 (1970)
+Ann. Bot. Mem. 1: 693 (1950)
 
 #### Original name
-Clavulina gracilis var. incarnata Corner
+Clavulina gracilis Corner, 1950
 
 ### Remarks
 null

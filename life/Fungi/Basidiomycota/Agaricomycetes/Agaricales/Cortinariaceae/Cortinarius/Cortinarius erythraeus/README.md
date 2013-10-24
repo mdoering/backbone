@@ -1,5 +1,4 @@
-Cortinarius erythraeus Berk. SPECIES
-=======
+# Cortinarius erythraeus Berk. SPECIES
 
 #### Status
 ACCEPTED

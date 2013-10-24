@@ -1,5 +1,4 @@
-Cercospora vestita T.S. Ramakr. SPECIES
-=======
+# Cercospora vestita T.S. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

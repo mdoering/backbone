@@ -1,5 +1,4 @@
-Verrucaria adelminienii Zschacke SPECIES
-=======
+# Verrucaria adelminienii Zschacke SPECIES
 
 #### Status
 ACCEPTED

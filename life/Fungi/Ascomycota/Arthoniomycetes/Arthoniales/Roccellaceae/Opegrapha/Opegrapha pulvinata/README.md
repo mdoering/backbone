@@ -1,5 +1,4 @@
-Opegrapha pulvinata Rehm SPECIES
-=======
+# Opegrapha pulvinata Rehm SPECIES
 
 #### Status
 ACCEPTED

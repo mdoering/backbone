@@ -1,5 +1,4 @@
-Catillaria finckei Zahlbr. SPECIES
-=======
+# Catillaria finckei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

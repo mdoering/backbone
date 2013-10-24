@@ -1,5 +1,4 @@
-Stilbella ecuadorensis Morgan-Jones & McKemy SPECIES
-=======
+# Stilbella ecuadorensis Morgan-Jones & McKemy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria fulva Peck SPECIES
-=======
+# Naucoria fulva Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Goniosphaeridium bipyramidalis Pöthe de Baldis, 1997 SPECIES
-=======
+# Goniosphaeridium bipyramidalis Pöthe de Baldis, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerococcum acarosporae S.Y. Kondr. SPECIES
-=======
+# Sclerococcum acarosporae S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

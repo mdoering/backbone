@@ -1,5 +1,4 @@
-Gloeosporium aceris-tataricae Savul. & Sandu SPECIES
-=======
+# Gloeosporium aceris-tataricae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

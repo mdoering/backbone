@@ -1,5 +1,4 @@
-Psorotichia columaris Henssen & Büdel SPECIES
-=======
+# Psorotichia columaris Henssen & Büdel SPECIES
 
 #### Status
 ACCEPTED

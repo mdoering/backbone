@@ -1,5 +1,4 @@
-Puccinia madritensis Maire SPECIES
-=======
+# Puccinia madritensis Maire SPECIES
 
 #### Status
 ACCEPTED

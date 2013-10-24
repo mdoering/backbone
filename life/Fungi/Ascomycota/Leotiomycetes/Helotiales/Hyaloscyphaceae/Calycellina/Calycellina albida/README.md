@@ -1,5 +1,4 @@
-Calycellina albida (Grelet & Croz.) R. Galán & G. Moreno SPECIES
-=======
+# Calycellina albida (Grelet & Croz.) R. Galán & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

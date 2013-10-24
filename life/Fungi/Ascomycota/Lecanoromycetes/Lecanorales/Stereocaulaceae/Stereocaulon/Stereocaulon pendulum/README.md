@@ -1,5 +1,4 @@
-Stereocaulon pendulum Asahina SPECIES
-=======
+# Stereocaulon pendulum Asahina SPECIES
 
 #### Status
 ACCEPTED

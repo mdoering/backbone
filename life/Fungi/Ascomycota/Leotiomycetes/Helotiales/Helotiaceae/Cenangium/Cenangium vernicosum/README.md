@@ -1,5 +1,4 @@
-Cenangium vernicosum Fuckel SPECIES
-=======
+# Cenangium vernicosum Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lenticulina echinata SPECIES
-=======
+# Lenticulina echinata SPECIES
 
 #### Status
 ACCEPTED

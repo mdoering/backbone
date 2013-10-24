@@ -1,5 +1,4 @@
-Septoria tandilensis Speg. SPECIES
-=======
+# Septoria tandilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Earlandinita Cummings, 1955 GENUS
-=======
+# Earlandinita Cummings, 1955 GENUS
 
 #### Status
 ACCEPTED

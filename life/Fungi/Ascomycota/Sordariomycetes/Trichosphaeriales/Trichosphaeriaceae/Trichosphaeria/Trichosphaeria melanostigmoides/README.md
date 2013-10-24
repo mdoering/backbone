@@ -1,5 +1,4 @@
-Trichosphaeria melanostigmoides (Feltgen) SPECIES
-=======
+# Trichosphaeria melanostigmoides (Feltgen) SPECIES
 
 #### Status
 ACCEPTED

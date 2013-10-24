@@ -1,5 +1,4 @@
-Boletus delphinus Hook. f. SPECIES
-=======
+# Boletus delphinus Hook. f. SPECIES
 
 #### Status
 ACCEPTED

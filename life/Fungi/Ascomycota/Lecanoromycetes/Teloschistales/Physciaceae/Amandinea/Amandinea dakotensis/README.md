@@ -1,5 +1,4 @@
-Amandinea dakotensis (H. Magn.) P. F. May & Sheard SPECIES
-=======
+# Amandinea dakotensis (H. Magn.) P. F. May & Sheard SPECIES
 
 #### Status
 ACCEPTED

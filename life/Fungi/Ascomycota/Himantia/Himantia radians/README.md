@@ -1,5 +1,4 @@
-Himantia radians Léman SPECIES
-=======
+# Himantia radians Léman SPECIES
 
 #### Status
 ACCEPTED

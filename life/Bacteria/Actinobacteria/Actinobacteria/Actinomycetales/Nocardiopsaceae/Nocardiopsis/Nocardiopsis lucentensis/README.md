@@ -1,5 +1,4 @@
-Nocardiopsis lucentensis Yassin et al., 1993 SPECIES
-=======
+# Nocardiopsis lucentensis Yassin et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

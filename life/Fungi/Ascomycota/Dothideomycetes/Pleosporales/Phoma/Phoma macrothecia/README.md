@@ -1,5 +1,4 @@
-Phoma macrothecia Thüm. SPECIES
-=======
+# Phoma macrothecia Thüm. SPECIES
 
 #### Status
 ACCEPTED

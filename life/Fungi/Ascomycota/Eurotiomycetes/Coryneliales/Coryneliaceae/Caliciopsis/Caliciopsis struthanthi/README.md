@@ -1,5 +1,4 @@
-Caliciopsis struthanthi A. Funk & Kuijt SPECIES
-=======
+# Caliciopsis struthanthi A. Funk & Kuijt SPECIES
 
 #### Status
 ACCEPTED

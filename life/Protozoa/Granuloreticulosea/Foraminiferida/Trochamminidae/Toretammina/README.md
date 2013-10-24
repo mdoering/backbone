@@ -1,5 +1,4 @@
-Toretammina Brönnimann, 1986 GENUS
-=======
+# Toretammina Brönnimann, 1986 GENUS
 
 #### Status
 ACCEPTED

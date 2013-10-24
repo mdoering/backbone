@@ -1,5 +1,4 @@
-Exosporium indigoferae P. Joly SPECIES
-=======
+# Exosporium indigoferae P. Joly SPECIES
 
 #### Status
 ACCEPTED

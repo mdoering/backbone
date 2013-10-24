@@ -1,5 +1,4 @@
-Mycena querciramuli Robich SPECIES
-=======
+# Mycena querciramuli Robich SPECIES
 
 #### Status
 ACCEPTED

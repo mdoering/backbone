@@ -1,5 +1,4 @@
-Lecanora aporetica (Ach.) Röhl. SPECIES
-=======
+# Lecanora aporetica (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

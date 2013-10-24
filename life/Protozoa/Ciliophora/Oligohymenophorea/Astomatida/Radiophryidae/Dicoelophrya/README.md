@@ -1,5 +1,4 @@
-Dicoelophrya de Puytorac & Dragesco, 1968 GENUS
-=======
+# Dicoelophrya de Puytorac & Dragesco, 1968 GENUS
 
 #### Status
 ACCEPTED

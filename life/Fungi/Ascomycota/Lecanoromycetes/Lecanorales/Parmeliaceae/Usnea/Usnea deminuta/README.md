@@ -1,5 +1,4 @@
-Usnea deminuta Motyka SPECIES
-=======
+# Usnea deminuta Motyka SPECIES
 
 #### Status
 ACCEPTED

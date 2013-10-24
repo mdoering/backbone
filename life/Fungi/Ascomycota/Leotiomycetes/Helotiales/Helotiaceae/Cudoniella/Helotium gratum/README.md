@@ -1,5 +1,4 @@
-Helotium gratum (Berk.) Cooke SPECIES
-=======
+# Helotium gratum (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

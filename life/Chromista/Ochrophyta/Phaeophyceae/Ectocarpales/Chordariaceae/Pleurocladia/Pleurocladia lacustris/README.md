@@ -1,11 +1,10 @@
-Pilinia maritima f. pacifica Thivy ex W.R.Taylor, 1945 FORM
-=======
+# Pleurocladia lacustris A. Braun SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

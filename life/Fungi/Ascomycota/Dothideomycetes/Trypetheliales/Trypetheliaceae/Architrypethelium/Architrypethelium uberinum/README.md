@@ -1,14 +1,13 @@
-Porophora uberina (Fée) Spreng. SPECIES
-=======
+# Architrypethelium uberinum (Fée) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 44: 122 (1991)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Rubrivivax benzoatilyticus Ramana et al., 2006 SPECIES
-=======
+# Rubrivivax benzoatilyticus Ramana et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

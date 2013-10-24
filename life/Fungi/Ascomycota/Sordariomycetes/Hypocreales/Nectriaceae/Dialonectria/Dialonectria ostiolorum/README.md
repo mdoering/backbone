@@ -1,5 +1,4 @@
-Dialonectria ostiolorum Berk. & Cooke SPECIES
-=======
+# Dialonectria ostiolorum Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

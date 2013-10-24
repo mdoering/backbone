@@ -1,5 +1,4 @@
-Pulvinosphaeridium A. Eisenack, 1954 GENUS
-=======
+# Pulvinosphaeridium A. Eisenack, 1954 GENUS
 
 #### Status
 ACCEPTED

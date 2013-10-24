@@ -1,5 +1,4 @@
-Xerocomellus fennicus (Harmaja) Sutara SPECIES
-=======
+# Xerocomellus fennicus (Harmaja) Sutara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium advectitium Cummins SPECIES
-=======
+# Aecidium advectitium Cummins SPECIES
 
 #### Status
 ACCEPTED

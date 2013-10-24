@@ -1,5 +1,4 @@
-Micromonospora sagamiensis Kroppenstedt et al., 2005 SPECIES
-=======
+# Micromonospora sagamiensis Kroppenstedt et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

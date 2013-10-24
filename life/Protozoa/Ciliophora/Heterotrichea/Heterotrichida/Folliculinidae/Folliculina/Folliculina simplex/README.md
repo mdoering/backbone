@@ -1,5 +1,4 @@
-Folliculina simplex Dons, 1915 SPECIES
-=======
+# Folliculina simplex Dons, 1915 SPECIES
 
 #### Status
 ACCEPTED

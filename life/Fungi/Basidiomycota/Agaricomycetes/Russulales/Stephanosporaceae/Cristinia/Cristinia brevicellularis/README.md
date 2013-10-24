@@ -1,5 +1,4 @@
-Cristinia brevicellularis Hjortstam, 1993 SPECIES
-=======
+# Cristinia brevicellularis Hjortstam, 1993 SPECIES
 
 #### Status
 ACCEPTED

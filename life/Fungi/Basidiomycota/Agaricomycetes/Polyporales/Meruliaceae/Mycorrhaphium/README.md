@@ -1,5 +1,4 @@
-Mycorrhaphium Maas Geest. GENUS
-=======
+# Mycorrhaphium Maas Geest. GENUS
 
 #### Status
 ACCEPTED

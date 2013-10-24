@@ -1,5 +1,4 @@
-Thalloidima flavida Tomin SPECIES
-=======
+# Thalloidima flavida Tomin SPECIES
 
 #### Status
 ACCEPTED

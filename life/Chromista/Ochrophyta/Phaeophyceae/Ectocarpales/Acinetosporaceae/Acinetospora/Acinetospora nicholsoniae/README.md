@@ -1,5 +1,4 @@
-Acinetospora nicholsoniae Hollenberg SPECIES
-=======
+# Acinetospora nicholsoniae Hollenberg SPECIES
 
 #### Status
 ACCEPTED

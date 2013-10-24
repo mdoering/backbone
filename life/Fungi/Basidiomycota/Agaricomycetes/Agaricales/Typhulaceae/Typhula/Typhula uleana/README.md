@@ -1,5 +1,4 @@
-Typhula uleana Henn. SPECIES
-=======
+# Typhula uleana Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplites telmatobius Foissner, 1998 SPECIES
-=======
+# Diplites telmatobius Foissner, 1998 SPECIES
 
 #### Status
 ACCEPTED

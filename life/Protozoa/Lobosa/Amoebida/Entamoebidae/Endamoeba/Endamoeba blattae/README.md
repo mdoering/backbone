@@ -1,5 +1,4 @@
-Endamoeba blattae SPECIES
-=======
+# Endamoeba blattae SPECIES
 
 #### Status
 ACCEPTED

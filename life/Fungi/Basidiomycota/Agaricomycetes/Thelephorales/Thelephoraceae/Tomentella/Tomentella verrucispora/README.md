@@ -1,5 +1,4 @@
-Tomentella verrucispora Bourdot & Galzin SPECIES
-=======
+# Tomentella verrucispora Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

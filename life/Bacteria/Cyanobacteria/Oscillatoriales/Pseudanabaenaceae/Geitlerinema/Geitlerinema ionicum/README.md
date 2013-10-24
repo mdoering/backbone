@@ -1,5 +1,4 @@
-Geitlerinema ionicum (Skuja) Anagnostidis SPECIES
-=======
+# Geitlerinema ionicum (Skuja) Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

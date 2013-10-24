@@ -1,5 +1,4 @@
-Scytonema calothrichoides Kützing SPECIES
-=======
+# Scytonema calothrichoides Kützing SPECIES
 
 #### Status
 ACCEPTED

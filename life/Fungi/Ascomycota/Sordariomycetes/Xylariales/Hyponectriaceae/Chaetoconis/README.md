@@ -1,5 +1,4 @@
-Chaetoconis Clements, 1909 GENUS
-=======
+# Chaetoconis Clements, 1909 GENUS
 
 #### Status
 ACCEPTED

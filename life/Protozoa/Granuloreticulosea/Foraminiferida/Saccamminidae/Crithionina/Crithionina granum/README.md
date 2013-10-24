@@ -1,5 +1,4 @@
-Crithionina granum SPECIES
-=======
+# Crithionina granum SPECIES
 
 #### Status
 ACCEPTED

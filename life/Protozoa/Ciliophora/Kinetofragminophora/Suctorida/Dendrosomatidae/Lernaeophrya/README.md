@@ -1,5 +1,4 @@
-Lernaeophrya Pérez, 1903 GENUS
-=======
+# Lernaeophrya Pérez, 1903 GENUS
 
 #### Status
 ACCEPTED

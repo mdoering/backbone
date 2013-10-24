@@ -1,5 +1,4 @@
-Lecidea campestris SPECIES
-=======
+# Lecidea campestris SPECIES
 
 #### Status
 ACCEPTED

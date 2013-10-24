@@ -1,5 +1,4 @@
-Mycoplasma putrefaciens Tully et al., 1974 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma putrefaciens Tully et al., 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium gneti Died. SPECIES
-=======
+# Gloeosporium gneti Died. SPECIES
 
 #### Status
 ACCEPTED

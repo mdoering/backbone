@@ -1,5 +1,4 @@
-Usnea schadenbergiana Göpp. & Stein SPECIES
-=======
+# Usnea schadenbergiana Göpp. & Stein SPECIES
 
 #### Status
 ACCEPTED

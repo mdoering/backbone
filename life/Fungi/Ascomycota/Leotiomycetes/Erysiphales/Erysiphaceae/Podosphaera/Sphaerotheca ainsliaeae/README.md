@@ -1,17 +1,16 @@
-Sphaerotheca ainsliae Y.S. Paul & V. Thakur SPECIES
-=======
+# Sphaerotheca ainsliaeae Y.S. Paul & V. Thakur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Mycology and Plant Pathology 34(3): 940 (2004)
 
 #### Original name
-Sphaerotheca ainsliae Y.S. Paul & V. Thakur
+Sphaerotheca ainsliaeae Y.S. Paul & V. Thakur
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cladoderris lugubris Rick SPECIES
-=======
+# Cladoderris lugubris Rick SPECIES
 
 #### Status
 ACCEPTED

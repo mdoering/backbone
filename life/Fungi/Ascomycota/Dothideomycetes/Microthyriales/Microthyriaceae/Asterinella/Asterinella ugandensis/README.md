@@ -1,5 +1,4 @@
-Asterinella ugandensis Hansf. SPECIES
-=======
+# Asterinella ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

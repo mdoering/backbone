@@ -1,5 +1,4 @@
-Chaetomium setosum G. Winter SPECIES
-=======
+# Chaetomium setosum G. Winter SPECIES
 
 #### Status
 ACCEPTED

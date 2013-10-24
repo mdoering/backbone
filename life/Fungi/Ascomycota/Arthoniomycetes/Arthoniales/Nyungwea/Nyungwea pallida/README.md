@@ -1,5 +1,4 @@
-Nyungwea pallida Sérus., Eb. Fischer & Killmann SPECIES
-=======
+# Nyungwea pallida Sérus., Eb. Fischer & Killmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dirinaria prupurascens SPECIES
-=======
+# Dirinaria prupurascens SPECIES
 
 #### Status
 ACCEPTED

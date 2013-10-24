@@ -1,5 +1,4 @@
-Hydnum analogum Berk. ex Cooke SPECIES
-=======
+# Hydnum analogum Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

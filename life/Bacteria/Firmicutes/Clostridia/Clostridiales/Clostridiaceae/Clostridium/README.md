@@ -1,5 +1,4 @@
-Clostridium Prazmowski, 1880 GENUS
-=======
+# Clostridium Prazmowski, 1880 GENUS
 
 #### Status
 ACCEPTED

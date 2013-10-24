@@ -1,5 +1,4 @@
-Asteridiella entandrophragmatis (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella entandrophragmatis (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

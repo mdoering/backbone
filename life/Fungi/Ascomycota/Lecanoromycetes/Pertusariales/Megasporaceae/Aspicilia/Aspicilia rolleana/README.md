@@ -1,5 +1,4 @@
-Aspicilia rolleana Hue SPECIES
-=======
+# Aspicilia rolleana Hue SPECIES
 
 #### Status
 ACCEPTED

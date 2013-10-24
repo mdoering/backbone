@@ -1,5 +1,4 @@
-Solenopsora psarophana SPECIES
-=======
+# Solenopsora psarophana SPECIES
 
 #### Status
 ACCEPTED

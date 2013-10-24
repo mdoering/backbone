@@ -1,5 +1,4 @@
-Lachnobolus globosus (Schwein.) Rostaf. SPECIES
-=======
+# Lachnobolus globosus (Schwein.) Rostaf. SPECIES
 
 #### Status
 ACCEPTED

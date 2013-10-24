@@ -1,5 +1,4 @@
-Clathrus bicolumnatus (Kusano) Sacc. & Trotter SPECIES
-=======
+# Clathrus bicolumnatus (Kusano) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe austrofibrillosa Grgur. SPECIES
-=======
+# Inocybe austrofibrillosa Grgur. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria cavenosa Lloyd SPECIES
-=======
+# Xylaria cavenosa Lloyd SPECIES
 
 #### Status
 ACCEPTED

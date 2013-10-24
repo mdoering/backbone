@@ -1,5 +1,4 @@
-Lecidea griseofuscescens Nyl. SPECIES
-=======
+# Lecidea griseofuscescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

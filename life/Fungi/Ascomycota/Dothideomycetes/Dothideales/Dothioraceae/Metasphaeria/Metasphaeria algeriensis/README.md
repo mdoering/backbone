@@ -1,5 +1,4 @@
-Metasphaeria algeriensis Sacc. & Berl. SPECIES
-=======
+# Metasphaeria algeriensis Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

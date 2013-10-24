@@ -1,5 +1,4 @@
-Oedocephalum nayoroense Ts. Watan. SPECIES
-=======
+# Oedocephalum nayoroense Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Licea mandshurica Skvortsov SPECIES
-=======
+# Licea mandshurica Skvortsov SPECIES
 
 #### Status
 ACCEPTED

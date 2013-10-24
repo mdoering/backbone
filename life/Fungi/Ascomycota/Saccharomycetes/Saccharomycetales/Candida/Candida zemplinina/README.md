@@ -1,5 +1,4 @@
-Candida zemplinina Sipiczki SPECIES
-=======
+# Candida zemplinina Sipiczki SPECIES
 
 #### Status
 ACCEPTED

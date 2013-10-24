@@ -1,5 +1,4 @@
-Favotrichophyton expansum (Cazalbou) C.W. Dodge SPECIES
-=======
+# Favotrichophyton expansum (Cazalbou) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

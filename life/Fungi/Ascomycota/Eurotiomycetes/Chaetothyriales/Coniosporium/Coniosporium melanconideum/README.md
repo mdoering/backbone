@@ -1,5 +1,4 @@
-Coniosporium melanconideum Sacc. SPECIES
-=======
+# Coniosporium melanconideum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia pericalli Thaxt. SPECIES
-=======
+# Laboulbenia pericalli Thaxt. SPECIES
 
 #### Status
 ACCEPTED

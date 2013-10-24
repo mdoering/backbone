@@ -1,5 +1,4 @@
-Agaricus planipes F. Brig. SPECIES
-=======
+# Agaricus planipes F. Brig. SPECIES
 
 #### Status
 ACCEPTED

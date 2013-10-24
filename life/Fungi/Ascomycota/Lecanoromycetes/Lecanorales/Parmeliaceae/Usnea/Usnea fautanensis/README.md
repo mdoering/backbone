@@ -1,5 +1,4 @@
-Usnea fautanensis Vain. SPECIES
-=======
+# Usnea fautanensis Vain. SPECIES
 
 #### Status
 ACCEPTED

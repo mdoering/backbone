@@ -1,5 +1,4 @@
-Monacrosporium eudermata Drechsler SPECIES
-=======
+# Monacrosporium eudermata Drechsler SPECIES
 
 #### Status
 ACCEPTED

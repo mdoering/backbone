@@ -1,5 +1,4 @@
-Bacillus farraginis Scheldeman et al., 2004 SPECIES
-=======
+# Bacillus farraginis Scheldeman et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

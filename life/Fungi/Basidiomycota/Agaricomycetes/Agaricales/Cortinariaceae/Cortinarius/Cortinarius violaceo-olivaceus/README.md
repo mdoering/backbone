@@ -1,5 +1,4 @@
-Cortinarius violaceo-olivaceus M.M. Moser SPECIES
-=======
+# Cortinarius violaceo-olivaceus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

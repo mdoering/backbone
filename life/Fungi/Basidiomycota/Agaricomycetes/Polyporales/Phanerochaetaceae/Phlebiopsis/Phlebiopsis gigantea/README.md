@@ -1,17 +1,16 @@
-Thelephora gigantea var. gigantea VARIETY
-=======
+# Phlebiopsis gigantea (Fr.) Jülich, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 1: 152 (1815)
+Persoonia 10(1): 137 (1978)
 
 #### Original name
-Thelephora gigantea var. gigantea
+Thelephora gigantea Fr., 1815
 
 ### Remarks
 null

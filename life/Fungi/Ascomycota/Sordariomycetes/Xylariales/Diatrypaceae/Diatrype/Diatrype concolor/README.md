@@ -1,5 +1,4 @@
-Diatrype concolor (Schwein.) Cooke SPECIES
-=======
+# Diatrype concolor (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

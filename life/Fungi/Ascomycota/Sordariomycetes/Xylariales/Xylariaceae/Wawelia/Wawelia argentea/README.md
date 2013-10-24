@@ -1,5 +1,4 @@
-Wawelia argentea J. Webster, 1999 SPECIES
-=======
+# Wawelia argentea J. Webster, 1999 SPECIES
 
 #### Status
 ACCEPTED

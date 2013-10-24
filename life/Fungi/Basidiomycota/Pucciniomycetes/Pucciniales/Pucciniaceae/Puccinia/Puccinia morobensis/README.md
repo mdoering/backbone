@@ -1,5 +1,4 @@
-Puccinia morobensis Cummins SPECIES
-=======
+# Puccinia morobensis Cummins SPECIES
 
 #### Status
 ACCEPTED

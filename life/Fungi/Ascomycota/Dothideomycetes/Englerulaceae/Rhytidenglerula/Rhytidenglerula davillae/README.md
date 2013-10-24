@@ -1,5 +1,4 @@
-Rhytidenglerula davillae (Hansf.) Arx SPECIES
-=======
+# Rhytidenglerula davillae (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

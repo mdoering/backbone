@@ -1,5 +1,4 @@
-Porina trichothelioides R. Sant. SPECIES
-=======
+# Porina trichothelioides R. Sant. SPECIES
 
 #### Status
 ACCEPTED

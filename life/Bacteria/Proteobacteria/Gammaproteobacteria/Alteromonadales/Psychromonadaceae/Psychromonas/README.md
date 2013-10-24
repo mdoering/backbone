@@ -1,5 +1,4 @@
-Psychromonas Mountfort et al., 1998 GENUS
-=======
+# Psychromonas Mountfort et al., 1998 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenophallus GENUS
-=======
+# Hymenophallus GENUS
 
 #### Status
 ACCEPTED

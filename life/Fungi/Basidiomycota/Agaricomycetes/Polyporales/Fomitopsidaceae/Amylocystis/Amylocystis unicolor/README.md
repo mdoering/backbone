@@ -1,5 +1,4 @@
-Amylocystis unicolor T. Hatt., 2003 SPECIES
-=======
+# Amylocystis unicolor T. Hatt., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatea alpina Speg. SPECIES
-=======
+# Stigmatea alpina Speg. SPECIES
 
 #### Status
 ACCEPTED

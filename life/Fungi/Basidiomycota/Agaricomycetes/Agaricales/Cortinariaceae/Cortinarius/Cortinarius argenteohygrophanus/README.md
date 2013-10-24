@@ -1,5 +1,4 @@
-Cortinarius argenteohygrophanus M.M. Moser SPECIES
-=======
+# Cortinarius argenteohygrophanus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

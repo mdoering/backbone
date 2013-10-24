@@ -1,5 +1,4 @@
-Phoma geranii Verpl. & Van den Broecke SPECIES
-=======
+# Phoma geranii Verpl. & Van den Broecke SPECIES
 
 #### Status
 ACCEPTED

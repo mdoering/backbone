@@ -1,5 +1,4 @@
-Caloplaca cirrochroopsis Poelt & Hinter. SPECIES
-=======
+# Caloplaca cirrochroopsis Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

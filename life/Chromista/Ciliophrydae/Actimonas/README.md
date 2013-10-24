@@ -1,5 +1,4 @@
-Actimonas GENUS
-=======
+# Actimonas GENUS
 
 #### Status
 ACCEPTED

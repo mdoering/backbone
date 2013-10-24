@@ -1,5 +1,4 @@
-Tamonella Dumitrica, Kozur & Mostler, 1980 GENUS
-=======
+# Tamonella Dumitrica, Kozur & Mostler, 1980 GENUS
 
 #### Status
 ACCEPTED

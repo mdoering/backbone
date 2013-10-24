@@ -1,5 +1,4 @@
-Mycosphaerella granulata (Ellis & Everh.) Lindau SPECIES
-=======
+# Mycosphaerella granulata (Ellis & Everh.) Lindau SPECIES
 
 #### Status
 ACCEPTED

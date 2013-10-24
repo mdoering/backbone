@@ -1,5 +1,4 @@
-Isocystis moniliformis Borzi SPECIES
-=======
+# Isocystis moniliformis Borzi SPECIES
 
 #### Status
 ACCEPTED

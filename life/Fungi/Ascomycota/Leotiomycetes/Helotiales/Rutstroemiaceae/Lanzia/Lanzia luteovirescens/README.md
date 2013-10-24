@@ -1,14 +1,13 @@
-Helotium luteovirescens (Roberge ex Desm.) P. Karst., 1883 SPECIES
-=======
+# Lanzia luteovirescens (Roberge ex Desm.) Dumont & Korf, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 22: 164 (1883)
+Mycotaxon 7(2): 185 (1978)
 
 #### Original name
 null

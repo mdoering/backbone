@@ -1,5 +1,4 @@
-Naucoria brunneomarginata Murrill SPECIES
-=======
+# Naucoria brunneomarginata Murrill SPECIES
 
 #### Status
 ACCEPTED

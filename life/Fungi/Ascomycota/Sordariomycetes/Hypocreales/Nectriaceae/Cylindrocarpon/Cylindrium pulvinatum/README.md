@@ -1,5 +1,4 @@
-Cylindrium pulvinatum P. Karst. SPECIES
-=======
+# Cylindrium pulvinatum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia supertegens var. supertegens VARIETY
-=======
+# Aspicilia supertegens Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia supertegens var. supertegens
+Aspicilia supertegens Arnold
 
 ### Remarks
 null

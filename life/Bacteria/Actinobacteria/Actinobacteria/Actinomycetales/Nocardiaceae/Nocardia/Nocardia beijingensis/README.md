@@ -1,5 +1,4 @@
-Nocardia beijingensis Wang et al., 2001 SPECIES
-=======
+# Nocardia beijingensis Wang et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerella orbicularis Malme SPECIES
-=======
+# Dimerella orbicularis Malme SPECIES
 
 #### Status
 ACCEPTED

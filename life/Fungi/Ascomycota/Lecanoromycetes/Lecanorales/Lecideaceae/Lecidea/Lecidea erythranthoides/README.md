@@ -1,5 +1,4 @@
-Lecidea erythranthoides (Vain.) Hue SPECIES
-=======
+# Lecidea erythranthoides (Vain.) Hue SPECIES
 
 #### Status
 ACCEPTED

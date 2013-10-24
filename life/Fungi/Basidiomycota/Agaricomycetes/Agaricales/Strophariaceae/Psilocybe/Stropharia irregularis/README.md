@@ -1,5 +1,4 @@
-Stropharia irregularis Peck SPECIES
-=======
+# Stropharia irregularis Peck SPECIES
 
 #### Status
 ACCEPTED

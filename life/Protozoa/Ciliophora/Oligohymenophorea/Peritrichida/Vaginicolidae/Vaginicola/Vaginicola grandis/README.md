@@ -1,5 +1,4 @@
-Vaginicola grandis Perty, 1852 SPECIES
-=======
+# Vaginicola grandis Perty, 1852 SPECIES
 
 #### Status
 ACCEPTED

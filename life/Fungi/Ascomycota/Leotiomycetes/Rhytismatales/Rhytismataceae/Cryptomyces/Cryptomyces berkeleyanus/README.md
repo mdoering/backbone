@@ -1,5 +1,4 @@
-Cryptomyces berkeleyanus (Ces.) Sacc. SPECIES
-=======
+# Cryptomyces berkeleyanus (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

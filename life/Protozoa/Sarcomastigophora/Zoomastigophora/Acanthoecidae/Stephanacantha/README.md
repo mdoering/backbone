@@ -1,5 +1,4 @@
-Stephanacantha Thomsen in Thomsen & Boonruang, 1983 GENUS
-=======
+# Stephanacantha Thomsen in Thomsen & Boonruang, 1983 GENUS
 
 #### Status
 ACCEPTED

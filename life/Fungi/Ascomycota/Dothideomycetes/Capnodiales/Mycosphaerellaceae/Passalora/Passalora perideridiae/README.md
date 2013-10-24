@@ -1,5 +1,4 @@
-Passalora perideridiae U. Braun & Crous SPECIES
-=======
+# Passalora perideridiae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

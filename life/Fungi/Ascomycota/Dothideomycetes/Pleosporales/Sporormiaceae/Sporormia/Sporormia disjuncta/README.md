@@ -1,5 +1,4 @@
-Sporormia disjuncta (S. Ahmed) Petr. SPECIES
-=======
+# Sporormia disjuncta (S. Ahmed) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora dissospora Feltgen SPECIES
-=======
+# Physalospora dissospora Feltgen SPECIES
 
 #### Status
 ACCEPTED

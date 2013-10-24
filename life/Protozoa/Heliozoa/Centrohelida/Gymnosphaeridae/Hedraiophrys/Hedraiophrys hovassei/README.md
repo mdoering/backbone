@@ -1,5 +1,4 @@
-Hedraiophrys hovassei Febvre-Chevalier, 1973 SPECIES
-=======
+# Hedraiophrys hovassei Febvre-Chevalier, 1973 SPECIES
 
 #### Status
 ACCEPTED

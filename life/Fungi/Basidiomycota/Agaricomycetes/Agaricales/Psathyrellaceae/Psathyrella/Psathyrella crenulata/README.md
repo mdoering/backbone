@@ -1,5 +1,4 @@
-Psathyrella crenulata A.H. Sm. SPECIES
-=======
+# Psathyrella crenulata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

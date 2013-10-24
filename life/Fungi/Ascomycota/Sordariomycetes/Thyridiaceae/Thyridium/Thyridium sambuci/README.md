@@ -1,5 +1,4 @@
-Thyridium sambuci Earle SPECIES
-=======
+# Thyridium sambuci Earle SPECIES
 
 #### Status
 ACCEPTED

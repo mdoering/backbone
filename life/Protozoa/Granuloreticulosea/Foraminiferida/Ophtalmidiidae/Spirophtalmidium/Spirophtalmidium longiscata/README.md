@@ -1,5 +1,4 @@
-Spirophtalmidium longiscata (Terquem & Berthelin, 1875) SPECIES
-=======
+# Spirophtalmidium longiscata (Terquem & Berthelin, 1875) SPECIES
 
 #### Status
 ACCEPTED

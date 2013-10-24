@@ -1,5 +1,4 @@
-Rhizochrysidaceae FAMILY
-=======
+# Rhizochrysidaceae FAMILY
 
 #### Status
 ACCEPTED

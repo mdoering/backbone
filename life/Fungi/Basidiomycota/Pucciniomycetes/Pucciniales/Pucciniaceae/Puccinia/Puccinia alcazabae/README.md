@@ -1,5 +1,4 @@
-Puccinia alcazabae Mayor SPECIES
-=======
+# Puccinia alcazabae Mayor SPECIES
 
 #### Status
 ACCEPTED

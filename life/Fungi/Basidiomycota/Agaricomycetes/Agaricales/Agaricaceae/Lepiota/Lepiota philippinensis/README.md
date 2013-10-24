@@ -1,5 +1,4 @@
-Lepiota philippinensis Mendoza {?} & Leus-Palo SPECIES
-=======
+# Lepiota philippinensis Mendoza {?} & Leus-Palo SPECIES
 
 #### Status
 ACCEPTED

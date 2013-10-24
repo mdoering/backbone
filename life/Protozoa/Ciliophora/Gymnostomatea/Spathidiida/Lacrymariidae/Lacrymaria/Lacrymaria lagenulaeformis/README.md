@@ -1,5 +1,4 @@
-Lacrymaria lagenulaeformis Dumas, 1929 SPECIES
-=======
+# Lacrymaria lagenulaeformis Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

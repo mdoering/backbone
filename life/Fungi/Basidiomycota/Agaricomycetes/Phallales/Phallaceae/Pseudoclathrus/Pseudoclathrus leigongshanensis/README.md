@@ -1,5 +1,4 @@
-Pseudoclathrus leigongshanensis W. Zhou & K.Q. Zhang SPECIES
-=======
+# Pseudoclathrus leigongshanensis W. Zhou & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Eriosporangium oyedeae (Mayor) Syd. SPECIES
-=======
+# Eriosporangium oyedaeae (Mayor) Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 20(3): 122 (1922)
 
 #### Original name
 Puccinia oyedaeae Mayor

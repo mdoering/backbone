@@ -1,5 +1,4 @@
-Microthyrium confluens Pat. SPECIES
-=======
+# Microthyrium confluens Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma martianoffianum Thüm. SPECIES
-=======
+# Asteroma martianoffianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

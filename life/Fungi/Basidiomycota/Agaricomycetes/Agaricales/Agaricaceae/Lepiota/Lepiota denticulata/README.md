@@ -1,5 +1,4 @@
-Lepiota denticulata Speg. SPECIES
-=======
+# Lepiota denticulata Speg. SPECIES
 
 #### Status
 ACCEPTED

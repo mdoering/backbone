@@ -1,5 +1,4 @@
-Dactylaria xinjiangensis Z. Jiao, Xing Z. Liu & Y.T. Wang SPECIES
-=======
+# Dactylaria xinjiangensis Z. Jiao, Xing Z. Liu & Y.T. Wang SPECIES
 
 #### Status
 ACCEPTED

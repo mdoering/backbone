@@ -1,5 +1,4 @@
-Zygofabospora drosophilarum (Shehata, Mrak & Phaff) G.I. Naumov SPECIES
-=======
+# Zygofabospora drosophilarum (Shehata, Mrak & Phaff) G.I. Naumov SPECIES
 
 #### Status
 ACCEPTED

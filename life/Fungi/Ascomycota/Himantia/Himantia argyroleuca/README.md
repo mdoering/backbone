@@ -1,5 +1,4 @@
-Himantia argyroleuca Speg. SPECIES
-=======
+# Himantia argyroleuca Speg. SPECIES
 
 #### Status
 ACCEPTED

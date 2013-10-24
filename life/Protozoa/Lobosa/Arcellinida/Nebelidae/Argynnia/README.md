@@ -1,5 +1,4 @@
-Argynnia Vucetich, 1974 GENUS
-=======
+# Argynnia Vucetich, 1974 GENUS
 
 #### Status
 ACCEPTED

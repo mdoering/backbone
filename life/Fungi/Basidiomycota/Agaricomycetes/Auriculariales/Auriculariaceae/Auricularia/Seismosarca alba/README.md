@@ -1,5 +1,4 @@
-Seismosarca alba var. alba VARIETY
-=======
+# Seismosarca alba Lloyd SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 6(65): 1045 (1921)
 
 #### Original name
-Seismosarca alba var. alba
+Seismosarca alba Lloyd
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aranidium undosum Jankauskas, 1975 SPECIES
-=======
+# Aranidium undosum Jankauskas, 1975 SPECIES
 
 #### Status
 ACCEPTED

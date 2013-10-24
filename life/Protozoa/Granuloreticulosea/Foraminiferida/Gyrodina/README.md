@@ -1,5 +1,4 @@
-Gyrodina GENUS
-=======
+# Gyrodina GENUS
 
 #### Status
 ACCEPTED

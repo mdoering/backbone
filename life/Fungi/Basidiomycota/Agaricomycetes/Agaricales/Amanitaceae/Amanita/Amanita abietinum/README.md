@@ -1,5 +1,4 @@
-Amanita abietinum SPECIES
-=======
+# Amanita abietinum SPECIES
 
 #### Status
 ACCEPTED

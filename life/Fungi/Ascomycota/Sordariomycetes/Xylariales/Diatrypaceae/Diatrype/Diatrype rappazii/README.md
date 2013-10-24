@@ -1,5 +1,4 @@
-Diatrype rappazii (Chleb.) Lar.N. Vassiljeva SPECIES
-=======
+# Diatrype rappazii (Chleb.) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

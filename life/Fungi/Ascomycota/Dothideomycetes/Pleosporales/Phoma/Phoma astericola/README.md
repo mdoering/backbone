@@ -1,5 +1,4 @@
-Phoma astericola G.F. Atk. SPECIES
-=======
+# Phoma astericola G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

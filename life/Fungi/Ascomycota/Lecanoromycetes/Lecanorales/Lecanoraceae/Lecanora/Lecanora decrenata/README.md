@@ -1,5 +1,4 @@
-Lecanora decrenata Nyl. SPECIES
-=======
+# Lecanora decrenata Nyl. SPECIES
 
 #### Status
 ACCEPTED

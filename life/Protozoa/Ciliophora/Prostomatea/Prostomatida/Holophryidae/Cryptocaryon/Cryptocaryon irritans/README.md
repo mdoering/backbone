@@ -1,5 +1,4 @@
-Cryptocaryon irritans Brown, 1951 SPECIES
-=======
+# Cryptocaryon irritans Brown, 1951 SPECIES
 
 #### Status
 ACCEPTED

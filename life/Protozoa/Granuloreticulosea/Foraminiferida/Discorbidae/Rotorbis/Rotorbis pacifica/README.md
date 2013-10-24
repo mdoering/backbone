@@ -1,5 +1,4 @@
-Rotorbis pacifica (Hofker, 1951) SPECIES
-=======
+# Rotorbis pacifica (Hofker, 1951) SPECIES
 
 #### Status
 ACCEPTED

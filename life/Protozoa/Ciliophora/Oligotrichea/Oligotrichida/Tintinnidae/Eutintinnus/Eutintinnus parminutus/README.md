@@ -1,5 +1,4 @@
-Eutintinnus parminutus SPECIES
-=======
+# Eutintinnus parminutus SPECIES
 
 #### Status
 ACCEPTED

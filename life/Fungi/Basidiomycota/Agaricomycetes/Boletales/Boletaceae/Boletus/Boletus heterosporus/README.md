@@ -1,5 +1,4 @@
-Boletus heterosporus (J. Blum) J. Blum SPECIES
-=======
+# Boletus heterosporus (J. Blum) J. Blum SPECIES
 
 #### Status
 ACCEPTED

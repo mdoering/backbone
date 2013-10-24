@@ -1,5 +1,4 @@
-Tyromyces dacrydii Corner SPECIES
-=======
+# Tyromyces dacrydii Corner SPECIES
 
 #### Status
 ACCEPTED

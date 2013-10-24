@@ -1,5 +1,4 @@
-Clitopilus ignitus (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Clitopilus ignitus (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

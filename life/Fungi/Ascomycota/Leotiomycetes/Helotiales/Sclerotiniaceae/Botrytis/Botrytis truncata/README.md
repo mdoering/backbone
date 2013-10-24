@@ -1,5 +1,4 @@
-Botrytis truncata (Cooke) Sacc. SPECIES
-=======
+# Botrytis truncata (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

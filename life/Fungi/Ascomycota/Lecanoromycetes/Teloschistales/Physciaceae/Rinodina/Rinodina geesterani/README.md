@@ -1,5 +1,4 @@
-Rinodina geesterani H. Mayrhofer SPECIES
-=======
+# Rinodina geesterani H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

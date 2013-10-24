@@ -1,5 +1,4 @@
-Chrysogloeum peruvianum Petr., 1959 SPECIES
-=======
+# Chrysogloeum peruvianum Petr., 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella lachmannii M. Morelet SPECIES
-=======
+# Mycosphaerella lachmannii M. Morelet SPECIES
 
 #### Status
 ACCEPTED

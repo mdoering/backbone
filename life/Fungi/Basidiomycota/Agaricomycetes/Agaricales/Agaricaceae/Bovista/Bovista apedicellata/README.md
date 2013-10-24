@@ -1,5 +1,4 @@
-Bovista apedicellata G. Cunn. SPECIES
-=======
+# Bovista apedicellata G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

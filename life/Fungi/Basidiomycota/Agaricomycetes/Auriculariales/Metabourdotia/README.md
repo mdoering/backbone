@@ -1,5 +1,4 @@
-Metabourdotia L.S. Olive GENUS
-=======
+# Metabourdotia L.S. Olive GENUS
 
 #### Status
 ACCEPTED

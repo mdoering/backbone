@@ -1,5 +1,4 @@
-Leptolegnia de Bary GENUS
-=======
+# Leptolegnia de Bary GENUS
 
 #### Status
 ACCEPTED

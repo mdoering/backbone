@@ -1,5 +1,4 @@
-Ascochyta myrticola Maire & Sacc. SPECIES
-=======
+# Ascochyta myrticola Maire & Sacc. SPECIES
 
 #### Status
 ACCEPTED

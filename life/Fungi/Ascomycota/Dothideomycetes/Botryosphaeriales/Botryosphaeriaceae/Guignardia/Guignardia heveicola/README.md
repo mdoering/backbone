@@ -1,5 +1,4 @@
-Guignardia heveicola Cif. SPECIES
-=======
+# Guignardia heveicola Cif. SPECIES
 
 #### Status
 ACCEPTED

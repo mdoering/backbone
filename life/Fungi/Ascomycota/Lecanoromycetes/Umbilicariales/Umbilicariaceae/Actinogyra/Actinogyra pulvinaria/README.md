@@ -1,5 +1,4 @@
-Actinogyra pulvinaria SPECIES
-=======
+# Actinogyra pulvinaria SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gnomonia rubi-idaei M. Monod SPECIES
-=======
+# Gnomonia rubi-idaei M. Monod SPECIES
 
 #### Status
 ACCEPTED

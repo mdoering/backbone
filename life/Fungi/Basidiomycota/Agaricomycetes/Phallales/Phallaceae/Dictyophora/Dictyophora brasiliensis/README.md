@@ -1,5 +1,4 @@
-Dictyophora brasiliensis (Schltdl.) E. Fisch. SPECIES
-=======
+# Dictyophora brasiliensis (Schltdl.) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

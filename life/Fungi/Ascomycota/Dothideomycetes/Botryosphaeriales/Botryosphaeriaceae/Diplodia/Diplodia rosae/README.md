@@ -1,5 +1,4 @@
-Diplodia rosae Westend. SPECIES
-=======
+# Diplodia rosae Westend. SPECIES
 
 #### Status
 ACCEPTED

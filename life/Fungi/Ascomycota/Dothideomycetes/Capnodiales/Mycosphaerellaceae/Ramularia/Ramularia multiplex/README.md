@@ -1,5 +1,4 @@
-Ramularia multiplex Peck SPECIES
-=======
+# Ramularia multiplex Peck SPECIES
 
 #### Status
 ACCEPTED

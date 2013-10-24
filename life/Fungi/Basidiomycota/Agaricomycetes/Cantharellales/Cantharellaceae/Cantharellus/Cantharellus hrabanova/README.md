@@ -1,5 +1,4 @@
-Cantharellus hrabanova Velen. SPECIES
-=======
+# Cantharellus hrabanova Velen. SPECIES
 
 #### Status
 ACCEPTED

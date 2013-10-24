@@ -1,17 +1,16 @@
-Hemigastraceae FAMILY
-=======
+# Hemigasteraceae Gäum. & C.W. Dodge FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Comp. Morph. Fungi (London) 466 (1928)
 
 #### Original name
-null
+Hemigasteraceae Gäum. & C.W. Dodge
 
 ### Remarks
 null

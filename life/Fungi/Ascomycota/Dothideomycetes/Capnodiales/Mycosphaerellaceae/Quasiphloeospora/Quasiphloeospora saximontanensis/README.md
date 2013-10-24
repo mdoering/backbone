@@ -1,14 +1,13 @@
-Cercospora saximontanensis Deighton, 1983 SPECIES
-=======
+# Quasiphloeospora saximontanensis (Deighton) B. Sutton, Crous & Shamoun, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 151: 7 (1983)
+in Sutton, Shamoun & Crous, Mycol. Res. 100(8): 981 (1996)
 
 #### Original name
 Cercospora saximontanensis Deighton, 1983

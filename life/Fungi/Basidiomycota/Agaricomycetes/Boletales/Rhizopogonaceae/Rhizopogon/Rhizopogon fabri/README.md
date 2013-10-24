@@ -1,5 +1,4 @@
-Rhizopogon fabri Trappe SPECIES
-=======
+# Rhizopogon fabri Trappe SPECIES
 
 #### Status
 ACCEPTED

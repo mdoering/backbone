@@ -1,5 +1,4 @@
-Phialophora alba J.F.H. Beyma, 1943 SPECIES
-=======
+# Phialophora alba J.F.H. Beyma, 1943 SPECIES
 
 #### Status
 ACCEPTED

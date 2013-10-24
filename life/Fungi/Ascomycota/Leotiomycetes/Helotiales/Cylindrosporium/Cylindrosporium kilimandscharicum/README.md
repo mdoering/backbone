@@ -1,5 +1,4 @@
-Cylindrosporium kilimandscharicum Allesch. SPECIES
-=======
+# Cylindrosporium kilimandscharicum Allesch. SPECIES
 
 #### Status
 ACCEPTED

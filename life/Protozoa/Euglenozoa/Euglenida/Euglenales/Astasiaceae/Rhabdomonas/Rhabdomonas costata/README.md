@@ -1,5 +1,4 @@
-Rhabdomonas costata (Korsikov) Pringsheim SPECIES
-=======
+# Rhabdomonas costata (Korsikov) Pringsheim SPECIES
 
 #### Status
 ACCEPTED

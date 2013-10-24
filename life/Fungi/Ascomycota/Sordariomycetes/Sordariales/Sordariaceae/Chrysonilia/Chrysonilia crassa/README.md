@@ -1,5 +1,4 @@
-Chrysonilia crassa (Shear & B.O. Dodge) Arx, 1981 SPECIES
-=======
+# Chrysonilia crassa (Shear & B.O. Dodge) Arx, 1981 SPECIES
 
 #### Status
 ACCEPTED

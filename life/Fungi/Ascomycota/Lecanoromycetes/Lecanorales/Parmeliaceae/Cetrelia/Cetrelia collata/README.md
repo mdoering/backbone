@@ -1,5 +1,4 @@
-Cetrelia collata (Nyl.) W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Cetrelia collata (Nyl.) W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED

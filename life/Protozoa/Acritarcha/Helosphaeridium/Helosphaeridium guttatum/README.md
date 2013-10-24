@@ -1,5 +1,4 @@
-Helosphaeridium guttatum Playford in Playford & Dring, 1981 SPECIES
-=======
+# Helosphaeridium guttatum Playford in Playford & Dring, 1981 SPECIES
 
 #### Status
 ACCEPTED

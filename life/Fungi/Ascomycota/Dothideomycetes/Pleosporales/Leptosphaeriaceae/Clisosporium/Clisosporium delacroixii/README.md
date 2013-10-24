@@ -1,5 +1,4 @@
-Clisosporium delacroixii (Sacc.) Kuntze SPECIES
-=======
+# Clisosporium delacroixii (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

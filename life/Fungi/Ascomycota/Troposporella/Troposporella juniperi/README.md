@@ -1,5 +1,4 @@
-Troposporella juniperi M.B. Ellis SPECIES
-=======
+# Troposporella juniperi M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

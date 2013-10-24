@@ -1,5 +1,4 @@
-Lecidea inculcata Ach. SPECIES
-=======
+# Lecidea inculcata Ach. SPECIES
 
 #### Status
 ACCEPTED

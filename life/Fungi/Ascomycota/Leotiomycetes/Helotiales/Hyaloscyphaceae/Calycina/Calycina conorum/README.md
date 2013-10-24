@@ -1,17 +1,16 @@
-Pezizella conorum var. conorum Rehm VARIETY
-=======
+# Calycina conorum (Rehm) Baral, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Baral & Krieglsteiner, Beih. Z. Mykol. 6: 56 (1985)
 
 #### Original name
-Pezizella conorum var. conorum Rehm
+Pezizella conorum Rehm, 1878
 
 ### Remarks
 null

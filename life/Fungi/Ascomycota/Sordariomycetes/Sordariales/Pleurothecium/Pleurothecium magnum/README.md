@@ -1,5 +1,4 @@
-Pleurothecium magnum Subram. & Bhat, 1989 SPECIES
-=======
+# Pleurothecium magnum Subram. & Bhat, 1989 SPECIES
 
 #### Status
 ACCEPTED

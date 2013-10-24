@@ -1,5 +1,4 @@
-Omphalia miniata (Murrill) Murrill SPECIES
-=======
+# Omphalia miniata (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

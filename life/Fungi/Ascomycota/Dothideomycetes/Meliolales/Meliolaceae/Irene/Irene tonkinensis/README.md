@@ -1,5 +1,4 @@
-Irene tonkinensis (P. Karst. & Roum.) Stev. SPECIES
-=======
+# Irene tonkinensis (P. Karst. & Roum.) Stev. SPECIES
 
 #### Status
 ACCEPTED

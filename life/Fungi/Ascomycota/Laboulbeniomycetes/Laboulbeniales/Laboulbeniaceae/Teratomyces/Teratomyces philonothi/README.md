@@ -1,5 +1,4 @@
-Teratomyces philonothi Thaxt., 1901 SPECIES
-=======
+# Teratomyces philonothi Thaxt., 1901 SPECIES
 
 #### Status
 ACCEPTED

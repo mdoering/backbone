@@ -1,5 +1,4 @@
-Dicaeoma barclayi Kuntze SPECIES
-=======
+# Dicaeoma barclayi Kuntze SPECIES
 
 #### Status
 ACCEPTED

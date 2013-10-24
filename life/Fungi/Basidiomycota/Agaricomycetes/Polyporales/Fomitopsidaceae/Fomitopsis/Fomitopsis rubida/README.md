@@ -1,14 +1,13 @@
-Fomitopsis rubidus (Berk.) A. Roy & A.B. De SPECIES
-=======
+# Fomitopsis rubida (Berk.) A. Roy & A.B. De SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 60: 317 (1996)
 
 #### Original name
 Polyporus rubidus Berk.

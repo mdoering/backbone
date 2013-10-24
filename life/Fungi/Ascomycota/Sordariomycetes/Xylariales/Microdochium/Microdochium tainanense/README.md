@@ -1,14 +1,13 @@
-Microdochium tainanensis (Ts. Watan.) de Hoog & Herm.-Nijh. SPECIES
-=======
+# Microdochium tainanense (Ts. Watan.) de Hoog & Herm.-Nijh., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 15: 194 (1977)
 
 #### Original name
 Humicola tainanensis Ts. Watan., 1975

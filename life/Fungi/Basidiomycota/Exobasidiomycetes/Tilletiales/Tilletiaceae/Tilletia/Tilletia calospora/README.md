@@ -1,5 +1,4 @@
-Tilletia calospora Pass. SPECIES
-=======
+# Tilletia calospora Pass. SPECIES
 
 #### Status
 ACCEPTED

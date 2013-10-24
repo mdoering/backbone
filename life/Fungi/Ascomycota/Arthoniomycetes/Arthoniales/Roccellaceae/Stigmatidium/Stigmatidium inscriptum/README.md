@@ -1,5 +1,4 @@
-Stigmatidium inscriptum Nyl. SPECIES
-=======
+# Stigmatidium inscriptum Nyl. SPECIES
 
 #### Status
 ACCEPTED

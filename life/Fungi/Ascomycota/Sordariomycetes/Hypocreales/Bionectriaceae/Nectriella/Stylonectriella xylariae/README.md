@@ -1,5 +1,4 @@
-Stylonectriella xylariae (Ferd. & Winge) Höhn. SPECIES
-=======
+# Stylonectriella xylariae (Ferd. & Winge) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Papiliotrema bandonii J.P. Samp., Gadanho, M. Weiss & R. Bauer, 2002 SPECIES
-=======
+# Papiliotrema bandonii J.P. Samp., Gadanho, M. Weiss & R. Bauer, 2002 SPECIES
 
 #### Status
 ACCEPTED

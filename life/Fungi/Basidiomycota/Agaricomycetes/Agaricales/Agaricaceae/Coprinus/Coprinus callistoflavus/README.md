@@ -1,5 +1,4 @@
-Coprinus callistoflavus Donelli & Simonini SPECIES
-=======
+# Coprinus callistoflavus Donelli & Simonini SPECIES
 
 #### Status
 ACCEPTED

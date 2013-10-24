@@ -1,5 +1,4 @@
-Asterina geniostomaticola Hansf. SPECIES
-=======
+# Asterina geniostomaticola Hansf. SPECIES
 
 #### Status
 ACCEPTED

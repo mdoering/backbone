@@ -1,5 +1,4 @@
-Uromyces tenuicutis McAlpine, 1906 SPECIES
-=======
+# Uromyces tenuicutis McAlpine, 1906 SPECIES
 
 #### Status
 ACCEPTED

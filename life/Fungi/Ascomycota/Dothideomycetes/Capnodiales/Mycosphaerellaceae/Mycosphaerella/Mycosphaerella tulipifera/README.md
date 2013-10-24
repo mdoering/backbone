@@ -1,17 +1,16 @@
-Sphaerella tulipifera (Schwein.) Cooke, 1883 SPECIES
-=======
+# Mycosphaerella tulipifera (Schwein.) B.B. Higgins, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Am. J. Bot. 23: 598 (1936)
 
 #### Original name
-null
+Sphaeria tulipifera Schwein.
 
 ### Remarks
 null

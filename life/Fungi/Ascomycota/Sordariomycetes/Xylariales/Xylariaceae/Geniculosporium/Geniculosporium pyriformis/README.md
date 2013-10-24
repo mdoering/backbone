@@ -1,5 +1,4 @@
-Geniculosporium pyriformis G.A. Salt SPECIES
-=======
+# Geniculosporium pyriformis G.A. Salt SPECIES
 
 #### Status
 ACCEPTED

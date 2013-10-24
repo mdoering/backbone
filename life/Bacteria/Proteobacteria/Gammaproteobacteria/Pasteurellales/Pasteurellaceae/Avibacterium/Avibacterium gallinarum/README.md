@@ -1,8 +1,7 @@
-Pasteurella gallinarum Hall et al., 1955 (Approved Lists, 1980) SPECIES
-=======
+# Avibacterium gallinarum (Hall et al., 1955) Blackall et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

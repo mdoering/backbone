@@ -1,5 +1,4 @@
-Coniothecium mucigenum Bubák SPECIES
-=======
+# Coniothecium mucigenum Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporon dehoogii Middelhoven, Scorzetti & Fell SPECIES
-=======
+# Trichosporon dehoogii Middelhoven, Scorzetti & Fell SPECIES
 
 #### Status
 ACCEPTED

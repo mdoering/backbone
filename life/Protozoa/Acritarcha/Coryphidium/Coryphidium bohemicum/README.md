@@ -1,5 +1,4 @@
-Coryphidium bohemicum Vavrdová, 1972 SPECIES
-=======
+# Coryphidium bohemicum Vavrdová, 1972 SPECIES
 
 #### Status
 ACCEPTED

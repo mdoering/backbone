@@ -1,5 +1,4 @@
-Leveillula labiatarum f. labiatarum FORM
-=======
+# Leveillula labiatarum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula labiatarum f. labiatarum
+Leveillula labiatarum Golovin
 
 ### Remarks
 null

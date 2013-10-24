@@ -1,5 +1,4 @@
-Chaenothecopsis edbergii Selva & Tibell SPECIES
-=======
+# Chaenothecopsis edbergii Selva & Tibell SPECIES
 
 #### Status
 ACCEPTED

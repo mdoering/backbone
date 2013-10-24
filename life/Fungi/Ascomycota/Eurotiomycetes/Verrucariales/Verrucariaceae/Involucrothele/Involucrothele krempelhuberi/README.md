@@ -1,5 +1,4 @@
-Involucrothele krempelhuberi Servít SPECIES
-=======
+# Involucrothele krempelhuberi Servít SPECIES
 
 #### Status
 ACCEPTED

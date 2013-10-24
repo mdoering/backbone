@@ -1,5 +1,4 @@
-Lancisporomyces anguilliformis Strongman & M.M. White, 2006 SPECIES
-=======
+# Lancisporomyces anguilliformis Strongman & M.M. White, 2006 SPECIES
 
 #### Status
 ACCEPTED

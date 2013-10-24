@@ -1,5 +1,4 @@
-Sterigmatomyces Fell GENUS
-=======
+# Sterigmatomyces Fell GENUS
 
 #### Status
 ACCEPTED

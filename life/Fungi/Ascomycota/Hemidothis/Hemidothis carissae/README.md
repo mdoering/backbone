@@ -1,5 +1,4 @@
-Hemidothis carissae R.C. Rajak SPECIES
-=======
+# Hemidothis carissae R.C. Rajak SPECIES
 
 #### Status
 ACCEPTED

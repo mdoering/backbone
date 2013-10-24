@@ -1,5 +1,4 @@
-Cercospora hayi Calp., 1955 SPECIES
-=======
+# Cercospora hayi Calp., 1955 SPECIES
 
 #### Status
 ACCEPTED

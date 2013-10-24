@@ -1,5 +1,4 @@
-Caeoma punctatostriatum Dietel & Neger SPECIES
-=======
+# Caeoma punctatostriatum Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

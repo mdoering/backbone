@@ -1,5 +1,4 @@
-Laboulbenia heterocheila Thaxt. SPECIES
-=======
+# Laboulbenia heterocheila Thaxt. SPECIES
 
 #### Status
 ACCEPTED

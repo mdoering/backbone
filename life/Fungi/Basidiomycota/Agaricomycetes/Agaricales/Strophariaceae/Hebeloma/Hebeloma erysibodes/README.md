@@ -1,5 +1,4 @@
-Hebeloma erysibodes Mont. SPECIES
-=======
+# Hebeloma erysibodes Mont. SPECIES
 
 #### Status
 ACCEPTED

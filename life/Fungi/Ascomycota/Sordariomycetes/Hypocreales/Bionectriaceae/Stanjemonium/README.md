@@ -1,5 +1,4 @@
-Stanjemonium W. Gams, O'Donnell, Schroers & M. Chr. GENUS
-=======
+# Stanjemonium W. Gams, O'Donnell, Schroers & M. Chr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercidospora lathyrina (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cercidospora lathyrina (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

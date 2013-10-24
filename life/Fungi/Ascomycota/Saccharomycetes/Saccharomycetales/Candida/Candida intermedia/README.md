@@ -1,17 +1,16 @@
-Blastodendrion intermedium Cif. & Ashford, 1929 SPECIES
-=======
+# Candida intermedia (Cif. & Ashford) Langeron & Guerra, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Parasit. hum. comp. 16: 461 (1938)
 
 #### Original name
-null
+Blastodendrion intermedius Cif. & Ashford
 
 ### Remarks
 null

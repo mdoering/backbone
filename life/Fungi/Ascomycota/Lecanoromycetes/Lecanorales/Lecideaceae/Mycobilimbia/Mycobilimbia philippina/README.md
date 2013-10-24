@@ -1,5 +1,4 @@
-Mycobilimbia philippina (Vain.) D.D. Awasthi SPECIES
-=======
+# Mycobilimbia philippina (Vain.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellinella carinata Collins, 1958 SPECIES
-=======
+# Patellinella carinata Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

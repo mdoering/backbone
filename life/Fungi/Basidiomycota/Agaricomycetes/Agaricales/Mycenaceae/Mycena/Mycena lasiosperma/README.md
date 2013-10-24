@@ -1,5 +1,4 @@
-Mycena lasiosperma Bres. SPECIES
-=======
+# Mycena lasiosperma Bres. SPECIES
 
 #### Status
 ACCEPTED

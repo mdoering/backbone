@@ -1,5 +1,4 @@
-Collybia elata Massee SPECIES
-=======
+# Collybia elata Massee SPECIES
 
 #### Status
 ACCEPTED

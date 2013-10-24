@@ -1,5 +1,4 @@
-Spirocorys Wolska, 1969 GENUS
-=======
+# Spirocorys Wolska, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lignidium quercinum Fr. SPECIES
-=======
+# Lignydium quercinum Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lignidium quercinum Fr.
+Lignydium quercinum Fr.
 
 ### Remarks
 null

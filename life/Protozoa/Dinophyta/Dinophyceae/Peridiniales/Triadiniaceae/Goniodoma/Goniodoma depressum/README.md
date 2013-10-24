@@ -1,5 +1,4 @@
-Goniodoma depressum SPECIES
-=======
+# Goniodoma depressum SPECIES
 
 #### Status
 ACCEPTED

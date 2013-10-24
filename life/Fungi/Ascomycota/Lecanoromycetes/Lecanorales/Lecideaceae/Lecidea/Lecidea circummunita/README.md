@@ -1,5 +1,4 @@
-Lecidea circummunita H. Magn. SPECIES
-=======
+# Lecidea circummunita H. Magn. SPECIES
 
 #### Status
 ACCEPTED

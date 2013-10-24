@@ -1,8 +1,7 @@
-Mytilidion thujae Feltgen SPECIES
-=======
+# Mytilinidion thujae Feltgen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mytilidion thujae Feltgen
+Mytilinidion thujae Feltgen
 
 ### Remarks
 null

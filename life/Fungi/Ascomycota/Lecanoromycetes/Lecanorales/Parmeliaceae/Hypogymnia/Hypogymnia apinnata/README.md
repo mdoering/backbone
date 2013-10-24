@@ -1,5 +1,4 @@
-Hypogymnia apinnata Goward & McCune SPECIES
-=======
+# Hypogymnia apinnata Goward & McCune SPECIES
 
 #### Status
 ACCEPTED

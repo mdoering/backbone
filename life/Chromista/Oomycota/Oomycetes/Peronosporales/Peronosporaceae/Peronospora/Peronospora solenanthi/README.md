@@ -1,5 +1,4 @@
-Peronospora solenanthi Byzova SPECIES
-=======
+# Peronospora solenanthi Byzova SPECIES
 
 #### Status
 ACCEPTED

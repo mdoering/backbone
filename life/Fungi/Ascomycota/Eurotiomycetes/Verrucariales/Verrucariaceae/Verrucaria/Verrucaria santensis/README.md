@@ -1,5 +1,4 @@
-Verrucaria santensis Nyl. SPECIES
-=======
+# Verrucaria santensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

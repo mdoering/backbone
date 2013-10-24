@@ -1,5 +1,4 @@
-Mycoporellum microscopicum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Mycoporellum microscopicum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

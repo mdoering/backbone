@@ -1,5 +1,4 @@
-Agaricus spilotus Holmsk. SPECIES
-=======
+# Agaricus spilotus Holmsk. SPECIES
 
 #### Status
 ACCEPTED

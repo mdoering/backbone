@@ -1,5 +1,4 @@
-Arthonia microscopica Hepp SPECIES
-=======
+# Arthonia microscopica Hepp SPECIES
 
 #### Status
 ACCEPTED

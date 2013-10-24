@@ -1,5 +1,4 @@
-Trypethelium inamoenum Müll. Arg. SPECIES
-=======
+# Trypethelium inamoenum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

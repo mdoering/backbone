@@ -1,5 +1,4 @@
-Leptopuccinia grindeliae (Peck) Syd. SPECIES
-=======
+# Leptopuccinia grindeliae (Peck) Syd. SPECIES
 
 #### Status
 ACCEPTED

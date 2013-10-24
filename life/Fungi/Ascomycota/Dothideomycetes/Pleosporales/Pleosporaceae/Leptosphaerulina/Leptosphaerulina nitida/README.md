@@ -1,5 +1,4 @@
-Leptosphaerulina nitida Crivelli, 1983 SPECIES
-=======
+# Leptosphaerulina nitida Crivelli, 1983 SPECIES
 
 #### Status
 ACCEPTED

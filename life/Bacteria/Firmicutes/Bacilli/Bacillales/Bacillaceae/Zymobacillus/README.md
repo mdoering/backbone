@@ -1,5 +1,4 @@
-Zymobacillus GENUS
-=======
+# Zymobacillus GENUS
 
 #### Status
 ACCEPTED

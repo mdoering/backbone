@@ -1,5 +1,4 @@
-Glabratella mirabilis Seiglie & Bermúdez, 1965 SPECIES
-=======
+# Glabratella mirabilis Seiglie & Bermúdez, 1965 SPECIES
 
 #### Status
 ACCEPTED

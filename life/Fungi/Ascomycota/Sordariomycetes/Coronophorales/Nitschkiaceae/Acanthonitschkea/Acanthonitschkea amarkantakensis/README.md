@@ -1,5 +1,4 @@
-Acanthonitschkea amarkantakensis Patel, A.K. Pandey & R.C. Rajak SPECIES
-=======
+# Acanthonitschkea amarkantakensis Patel, A.K. Pandey & R.C. Rajak SPECIES
 
 #### Status
 ACCEPTED

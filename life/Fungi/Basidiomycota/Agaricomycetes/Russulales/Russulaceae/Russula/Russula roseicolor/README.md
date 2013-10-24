@@ -1,5 +1,4 @@
-Russula roseicolor J. Blum, 1952 SPECIES
-=======
+# Russula roseicolor J. Blum, 1952 SPECIES
 
 #### Status
 ACCEPTED

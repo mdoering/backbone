@@ -1,5 +1,4 @@
-Microsporum obesum Conant SPECIES
-=======
+# Microsporum obesum Conant SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laschia valparaisensis (Henn.) Sacc. SPECIES
-=======
+# Laschia valparaisensis (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

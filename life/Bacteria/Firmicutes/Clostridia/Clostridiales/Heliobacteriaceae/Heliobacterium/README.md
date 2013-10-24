@@ -1,5 +1,4 @@
-Heliobacterium Gest & Favinger, 1985 GENUS
-=======
+# Heliobacterium Gest & Favinger, 1985 GENUS
 
 #### Status
 ACCEPTED

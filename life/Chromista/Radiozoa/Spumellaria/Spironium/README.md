@@ -1,5 +1,4 @@
-Spironium Haeckel, 1887 GENUS
-=======
+# Spironium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

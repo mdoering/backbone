@@ -1,5 +1,4 @@
-Arthonia sacromontana Strasser SPECIES
-=======
+# Arthonia sacromontana Strasser SPECIES
 
 #### Status
 ACCEPTED

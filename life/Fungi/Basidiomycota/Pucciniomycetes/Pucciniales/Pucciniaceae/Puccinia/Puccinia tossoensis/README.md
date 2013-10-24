@@ -1,5 +1,4 @@
-Puccinia tossoensis Tokun. & Kawai SPECIES
-=======
+# Puccinia tossoensis Tokun. & Kawai SPECIES
 
 #### Status
 ACCEPTED

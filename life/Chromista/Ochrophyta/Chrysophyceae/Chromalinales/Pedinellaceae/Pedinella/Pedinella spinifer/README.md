@@ -1,5 +1,4 @@
-Pedinella spinifer SPECIES
-=======
+# Pedinella spinifer SPECIES
 
 #### Status
 ACCEPTED

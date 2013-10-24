@@ -1,14 +1,13 @@
-Bilimbia magellanica (Müll. Arg.) Oxner SPECIES
-=======
+# Micarea magellanica (Müll. Arg.) Fryday SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 88: 138 (2004)
 
 #### Original name
 null

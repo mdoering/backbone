@@ -1,5 +1,4 @@
-Mycocarpon asterineum T.N. Taylor & J.F. White SPECIES
-=======
+# Mycocarpon asterineum T.N. Taylor & J.F. White SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectriella sceptri (P. Karst.) Rossman SPECIES
-=======
+# Nectriella sceptri (P. Karst.) Rossman SPECIES
 
 #### Status
 ACCEPTED

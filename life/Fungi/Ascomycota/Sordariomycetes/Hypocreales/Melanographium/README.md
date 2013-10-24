@@ -1,5 +1,4 @@
-Melanographium Sacc. GENUS
-=======
+# Melanographium Sacc. GENUS
 
 #### Status
 ACCEPTED

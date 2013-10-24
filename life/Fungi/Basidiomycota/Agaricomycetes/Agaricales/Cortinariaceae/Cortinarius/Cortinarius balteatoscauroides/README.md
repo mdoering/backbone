@@ -1,5 +1,4 @@
-Cortinarius balteatoscauroides Rob. Henry SPECIES
-=======
+# Cortinarius balteatoscauroides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

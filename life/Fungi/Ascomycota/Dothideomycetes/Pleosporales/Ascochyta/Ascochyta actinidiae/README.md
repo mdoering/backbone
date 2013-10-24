@@ -1,5 +1,4 @@
-Ascochyta actinidiae Tobisch SPECIES
-=======
+# Ascochyta actinidiae Tobisch SPECIES
 
 #### Status
 ACCEPTED

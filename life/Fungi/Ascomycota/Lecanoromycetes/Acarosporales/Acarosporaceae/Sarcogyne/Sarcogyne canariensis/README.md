@@ -1,5 +1,4 @@
-Sarcogyne canariensis (Hue) H. Magn. SPECIES
-=======
+# Sarcogyne canariensis (Hue) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

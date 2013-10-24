@@ -1,5 +1,4 @@
-Ragnhildiana agerati (F. Stevens) F. Stevens & Solheim SPECIES
-=======
+# Ragnhildiana agerati (F. Stevens) F. Stevens & Solheim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassomonas ganghwensis Yi et al., 2004 SPECIES
-=======
+# Thalassomonas ganghwensis Yi et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

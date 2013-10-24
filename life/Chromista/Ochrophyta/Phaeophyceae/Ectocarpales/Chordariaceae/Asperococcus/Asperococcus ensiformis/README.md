@@ -1,8 +1,7 @@
-Haloglossum griffithsianum Kützing SPECIES
-=======
+# Asperococcus ensiformis (Delle Chiaje) M.J. Wynne SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

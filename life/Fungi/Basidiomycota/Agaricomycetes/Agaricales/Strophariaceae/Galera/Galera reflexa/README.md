@@ -1,5 +1,4 @@
-Galera reflexa (Murrill) Sacc. & Trotter SPECIES
-=======
+# Galera reflexa (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

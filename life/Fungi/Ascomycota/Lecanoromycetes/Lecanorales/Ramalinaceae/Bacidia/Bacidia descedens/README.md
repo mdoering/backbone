@@ -1,5 +1,4 @@
-Bacidia descedens (Stizenb.) Mig. SPECIES
-=======
+# Bacidia descedens (Stizenb.) Mig. SPECIES
 
 #### Status
 ACCEPTED

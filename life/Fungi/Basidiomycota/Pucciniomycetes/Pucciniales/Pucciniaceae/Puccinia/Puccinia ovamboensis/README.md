@@ -1,5 +1,4 @@
-Puccinia ovamboensis Mennicken, W. Maier & Oberw. SPECIES
-=======
+# Puccinia ovamboensis Mennicken, W. Maier & Oberw. SPECIES
 
 #### Status
 ACCEPTED

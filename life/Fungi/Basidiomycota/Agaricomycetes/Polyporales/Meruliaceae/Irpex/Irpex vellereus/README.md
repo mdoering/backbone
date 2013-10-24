@@ -1,17 +1,16 @@
-Hydnochaete philippensis Lloyd SPECIES
-=======
+# Irpex vellereus Berk. & Broome, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 14(2): 61 (1875)
 
 #### Original name
-Hydnochaete philippensis Lloyd
+Irpex vellereus Berk. & Broome, 1875
 
 ### Remarks
 null

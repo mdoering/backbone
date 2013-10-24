@@ -1,5 +1,4 @@
-Apiosoma alburni SPECIES
-=======
+# Apiosoma alburni SPECIES
 
 #### Status
 ACCEPTED

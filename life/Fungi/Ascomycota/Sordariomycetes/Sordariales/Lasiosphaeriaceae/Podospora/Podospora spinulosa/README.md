@@ -1,5 +1,4 @@
-Podospora spinulosa R.S. Khan & Cain SPECIES
-=======
+# Podospora spinulosa R.S. Khan & Cain SPECIES
 
 #### Status
 ACCEPTED

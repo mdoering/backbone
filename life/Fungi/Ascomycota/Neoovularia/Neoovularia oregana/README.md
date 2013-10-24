@@ -1,5 +1,4 @@
-Neoovularia oregana (U. Braun & Rogerson) U. Braun SPECIES
-=======
+# Neoovularia oregana (U. Braun & Rogerson) U. Braun SPECIES
 
 #### Status
 ACCEPTED

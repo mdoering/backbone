@@ -1,5 +1,4 @@
-Crepidotus croceotinctus var. croceotinctus VARIETY
-=======
+# Crepidotus croceotinctus Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Rep. N. Y. St. Mus. nat. Hist. 39: 72 (1887)
 
 #### Original name
-Crepidotus croceotinctus var. croceotinctus
+Crepidotus croceotinctus Peck
 
 ### Remarks
 null

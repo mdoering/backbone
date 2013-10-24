@@ -1,5 +1,4 @@
-Pertusaria inthanonensis Jariangpr. SPECIES
-=======
+# Pertusaria inthanonensis Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

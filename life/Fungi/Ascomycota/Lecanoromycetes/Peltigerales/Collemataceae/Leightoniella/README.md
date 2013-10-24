@@ -1,5 +1,4 @@
-Leightoniella Henssen GENUS
-=======
+# Leightoniella Henssen GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium rosarium Penz. SPECIES
-=======
+# Macrosporium rosarium Penz. SPECIES
 
 #### Status
 ACCEPTED

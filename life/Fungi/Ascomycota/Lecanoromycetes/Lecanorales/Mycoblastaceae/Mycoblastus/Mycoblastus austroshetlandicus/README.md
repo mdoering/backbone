@@ -1,5 +1,4 @@
-Mycoblastus austroshetlandicus C.W. Dodge SPECIES
-=======
+# Mycoblastus austroshetlandicus C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

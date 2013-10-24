@@ -1,5 +1,4 @@
-Chaetophoma amorphula (Schwein.) Starbäck SPECIES
-=======
+# Chaetophoma amorphula (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

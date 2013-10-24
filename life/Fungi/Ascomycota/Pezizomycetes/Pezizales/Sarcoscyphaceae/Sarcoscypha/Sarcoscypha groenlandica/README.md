@@ -1,5 +1,4 @@
-Sarcoscypha groenlandica Henn. SPECIES
-=======
+# Sarcoscypha groenlandica Henn. SPECIES
 
 #### Status
 ACCEPTED

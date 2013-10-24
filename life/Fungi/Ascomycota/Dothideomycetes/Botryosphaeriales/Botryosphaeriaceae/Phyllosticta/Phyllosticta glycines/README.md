@@ -1,5 +1,4 @@
-Phyllosticta glycines Thüm. SPECIES
-=======
+# Phyllosticta glycines Thüm. SPECIES
 
 #### Status
 ACCEPTED

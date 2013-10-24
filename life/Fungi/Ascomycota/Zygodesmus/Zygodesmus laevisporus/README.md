@@ -1,5 +1,4 @@
-Zygodesmus laevisporus Cooke SPECIES
-=======
+# Zygodesmus laevisporus Cooke SPECIES
 
 #### Status
 ACCEPTED

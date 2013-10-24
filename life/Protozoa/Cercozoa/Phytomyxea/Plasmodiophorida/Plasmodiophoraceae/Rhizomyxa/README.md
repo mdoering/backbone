@@ -1,5 +1,4 @@
-Rhizomyxa GENUS
-=======
+# Rhizomyxa GENUS
 
 #### Status
 ACCEPTED

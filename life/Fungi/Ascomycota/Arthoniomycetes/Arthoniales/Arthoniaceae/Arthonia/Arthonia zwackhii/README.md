@@ -1,17 +1,16 @@
-Arthonia zwackhii var. zwackhii Sandst. VARIETY
-=======
+# Arthonia zwackhii Sandst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Abh. naturw. Ver. Bremen 17: 604 (1903)
 
 #### Original name
-Arthonia zwackhii var. zwackhii Sandst.
+Arthonia zwackhii Sandst.
 
 ### Remarks
 null

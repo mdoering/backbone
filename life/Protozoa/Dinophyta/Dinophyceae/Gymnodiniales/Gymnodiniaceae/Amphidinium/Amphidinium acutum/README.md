@@ -1,5 +1,4 @@
-Amphidinium acutum Lohmann SPECIES
-=======
+# Amphidinium acutum Lohmann SPECIES
 
 #### Status
 ACCEPTED

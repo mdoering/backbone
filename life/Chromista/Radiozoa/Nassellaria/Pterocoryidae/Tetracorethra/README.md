@@ -1,5 +1,4 @@
-Tetracorethra Haeckel, 1881 GENUS
-=======
+# Tetracorethra Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

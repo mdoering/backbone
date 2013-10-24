@@ -1,5 +1,4 @@
-Marasmius musisporus Desjardin & E. Horak SPECIES
-=======
+# Marasmius musisporus Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

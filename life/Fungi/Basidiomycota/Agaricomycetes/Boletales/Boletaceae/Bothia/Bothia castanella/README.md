@@ -1,14 +1,13 @@
-Suillus castanellus (Peck) A.H. Sm. & Thiers, 1964 SPECIES
-=======
+# Bothia castanella (Peck) Halling, T.J. Baroni & Manfr. Binder, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 99(2): 311 (2007)
 
 #### Original name
 Boletinus castanellus Peck, 1900

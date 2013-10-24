@@ -1,17 +1,16 @@
-Coleonaema Höhn. GENUS
-=======
+# Coleophoma von Höhnel, 1907 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Weese, Mitt. bot. Inst. tech. Hochsch. Wien 1(3): 95 (1924)
+null
 
 #### Original name
-Coleonaema Höhn.
+null
 
 ### Remarks
 null

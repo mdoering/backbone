@@ -1,5 +1,4 @@
-Caloplaca subcrocata J. Steiner SPECIES
-=======
+# Caloplaca subcrocata J. Steiner SPECIES
 
 #### Status
 ACCEPTED

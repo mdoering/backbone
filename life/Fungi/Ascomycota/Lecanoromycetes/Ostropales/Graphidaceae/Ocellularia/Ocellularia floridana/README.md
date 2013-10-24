@@ -1,5 +1,4 @@
-Ocellularia floridana SPECIES
-=======
+# Ocellularia floridana SPECIES
 
 #### Status
 ACCEPTED

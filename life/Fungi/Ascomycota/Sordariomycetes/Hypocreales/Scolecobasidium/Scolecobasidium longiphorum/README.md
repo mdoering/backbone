@@ -1,5 +1,4 @@
-Scolecobasidium longiphorum Matsush., 1975 SPECIES
-=======
+# Scolecobasidium longiphorum Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favolaschia baumanniana Henn. SPECIES
-=======
+# Favolaschia baumanniana Henn. SPECIES
 
 #### Status
 ACCEPTED

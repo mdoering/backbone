@@ -1,5 +1,4 @@
-Ceratosporella novae-zelandiae S. Hughes, 1971 SPECIES
-=======
+# Ceratosporella novae-zelandiae S. Hughes, 1971 SPECIES
 
 #### Status
 ACCEPTED

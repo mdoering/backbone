@@ -1,5 +1,4 @@
-Cytoplea mangiferae S. Ahmad SPECIES
-=======
+# Cytoplea mangiferae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

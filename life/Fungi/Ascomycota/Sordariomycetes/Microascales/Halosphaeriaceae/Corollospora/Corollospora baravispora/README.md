@@ -1,5 +1,4 @@
-Corollospora baravispora Steinke & E.B.G. Jones, 2009 SPECIES
-=======
+# Corollospora baravispora Steinke & E.B.G. Jones, 2009 SPECIES
 
 #### Status
 ACCEPTED

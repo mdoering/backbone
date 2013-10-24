@@ -1,5 +1,4 @@
-Letestuinema gabonense Frémy SPECIES
-=======
+# Letestuinema gabonense Frémy SPECIES
 
 #### Status
 ACCEPTED

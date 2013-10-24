@@ -1,5 +1,4 @@
-Massaria batumensis Siemaszko SPECIES
-=======
+# Massaria batumensis Siemaszko SPECIES
 
 #### Status
 ACCEPTED

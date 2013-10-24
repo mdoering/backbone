@@ -1,5 +1,4 @@
-Caeoma polygonatum Link SPECIES
-=======
+# Caeoma polygonatum Link SPECIES
 
 #### Status
 ACCEPTED

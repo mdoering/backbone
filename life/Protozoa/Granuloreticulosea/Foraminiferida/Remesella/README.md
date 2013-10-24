@@ -1,5 +1,4 @@
-Remesella GENUS
-=======
+# Remesella GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Heptameria bardanae (Wallr.) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria bardanae (Wallr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Sphaeria bardanae Wallr.
 
 ### Remarks
 null

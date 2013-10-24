@@ -1,5 +1,4 @@
-Clostridium puniceum Lund et al., 1981 SPECIES
-=======
+# Clostridium puniceum Lund et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

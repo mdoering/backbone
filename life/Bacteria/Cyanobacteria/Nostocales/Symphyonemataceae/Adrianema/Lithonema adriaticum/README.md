@@ -1,5 +1,4 @@
-Lithonema adriaticum Ercegovic SPECIES
-=======
+# Lithonema adriaticum Ercegovic SPECIES
 
 #### Status
 DOUBTFUL

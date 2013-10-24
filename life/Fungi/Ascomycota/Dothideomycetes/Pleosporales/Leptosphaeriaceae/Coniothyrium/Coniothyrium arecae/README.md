@@ -1,5 +1,4 @@
-Coniothyrium arecae Padwick & Merh SPECIES
-=======
+# Coniothyrium arecae Padwick & Merh SPECIES
 
 #### Status
 ACCEPTED

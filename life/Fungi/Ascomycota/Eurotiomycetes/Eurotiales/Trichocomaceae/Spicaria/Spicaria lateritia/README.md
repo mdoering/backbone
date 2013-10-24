@@ -1,5 +1,4 @@
-Spicaria lateritia Cif. SPECIES
-=======
+# Spicaria lateritia Cif. SPECIES
 
 #### Status
 ACCEPTED

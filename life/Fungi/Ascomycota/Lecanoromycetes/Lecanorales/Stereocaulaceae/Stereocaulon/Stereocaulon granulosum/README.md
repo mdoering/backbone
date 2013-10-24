@@ -1,5 +1,4 @@
-Stereocaulon granulosum Laur. SPECIES
-=======
+# Stereocaulon granulosum Laur. SPECIES
 
 #### Status
 ACCEPTED

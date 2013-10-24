@@ -1,5 +1,4 @@
-Actinodiscus corolla (J. Brun) R. Ross & P.A. Sims SPECIES
-=======
+# Actinodiscus corolla (J. Brun) R. Ross & P.A. Sims SPECIES
 
 #### Status
 ACCEPTED

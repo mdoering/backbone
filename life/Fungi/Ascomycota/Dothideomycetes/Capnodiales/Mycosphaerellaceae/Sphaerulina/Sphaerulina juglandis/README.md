@@ -1,5 +1,4 @@
-Sphaerulina juglandis Kaz. Itô & Tak. Kobay. SPECIES
-=======
+# Sphaerulina juglandis Kaz. Itô & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

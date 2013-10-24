@@ -1,5 +1,4 @@
-Turbotruncana Korchagin, 1993 GENUS
-=======
+# Turbotruncana Korchagin, 1993 GENUS
 
 #### Status
 ACCEPTED

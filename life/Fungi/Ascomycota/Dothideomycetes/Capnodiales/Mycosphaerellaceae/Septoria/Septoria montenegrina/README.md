@@ -1,5 +1,4 @@
-Septoria montenegrina Bubák SPECIES
-=======
+# Septoria montenegrina Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microglaena leucothelioides (Vain.) Zahlbr. SPECIES
-=======
+# Microglaena leucothelioides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

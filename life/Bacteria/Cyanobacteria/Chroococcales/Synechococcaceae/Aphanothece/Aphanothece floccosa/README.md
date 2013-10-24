@@ -1,8 +1,7 @@
-Microcystis floccosa Zalessky SPECIES
-=======
+# Aphanothece floccosa (Zalessky) G. Cronberg & J. Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

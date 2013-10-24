@@ -1,5 +1,4 @@
-Sphaerostilbe dubia Berk. SPECIES
-=======
+# Sphaerostilbe dubia Berk. SPECIES
 
 #### Status
 ACCEPTED

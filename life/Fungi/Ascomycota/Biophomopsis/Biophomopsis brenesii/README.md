@@ -1,5 +1,4 @@
-Biophomopsis brenesii Petr., 1931 SPECIES
-=======
+# Biophomopsis brenesii Petr., 1931 SPECIES
 
 #### Status
 ACCEPTED

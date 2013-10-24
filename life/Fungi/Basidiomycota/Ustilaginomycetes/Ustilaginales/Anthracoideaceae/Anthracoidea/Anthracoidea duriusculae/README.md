@@ -1,5 +1,4 @@
-Anthracoidea duriusculae L. Guo SPECIES
-=======
+# Anthracoidea duriusculae L. Guo SPECIES
 
 #### Status
 ACCEPTED

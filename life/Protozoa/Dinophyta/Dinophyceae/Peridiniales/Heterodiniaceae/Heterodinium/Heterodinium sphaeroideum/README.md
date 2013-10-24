@@ -1,5 +1,4 @@
-Heterodinium sphaeroideum Kofoid, 1906 SPECIES
-=======
+# Heterodinium sphaeroideum Kofoid, 1906 SPECIES
 
 #### Status
 ACCEPTED

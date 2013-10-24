@@ -1,5 +1,4 @@
-Antimanoa Syd. GENUS
-=======
+# Antimanoa Syd. GENUS
 
 #### Status
 ACCEPTED

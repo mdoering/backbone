@@ -1,5 +1,4 @@
-Somphophragma miscella Playford in Playford & Dring, 1981 SPECIES
-=======
+# Somphophragma miscella Playford in Playford & Dring, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea lithophilopsis var. lithophilopsis VARIETY
-=======
+# Lecidea lithophilopsis Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea lithophilopsis var. lithophilopsis
+Lecidea lithophilopsis Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Graphis tsunodae Zahlbr. SPECIES
-=======
+# Graphis tsunodae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

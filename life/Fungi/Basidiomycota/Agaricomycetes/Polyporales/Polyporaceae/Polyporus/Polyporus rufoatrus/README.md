@@ -1,5 +1,4 @@
-Polyporus rufoatrus Berk. SPECIES
-=======
+# Polyporus rufoatrus Berk. SPECIES
 
 #### Status
 ACCEPTED

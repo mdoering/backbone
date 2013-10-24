@@ -1,5 +1,4 @@
-Dermatocarpon bohlinii H. Magn. SPECIES
-=======
+# Dermatocarpon bohlinii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

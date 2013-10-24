@@ -1,5 +1,4 @@
-Diplotomma durbanum (Vain.) C.W. Dodge SPECIES
-=======
+# Diplotomma durbanum (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

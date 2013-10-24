@@ -1,5 +1,4 @@
-Stylonichia limbifrons SPECIES
-=======
+# Stylonichia limbifrons SPECIES
 
 #### Status
 ACCEPTED

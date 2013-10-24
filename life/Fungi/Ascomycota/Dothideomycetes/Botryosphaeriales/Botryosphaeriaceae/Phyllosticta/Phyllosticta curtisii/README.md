@@ -1,5 +1,4 @@
-Phyllosticta curtisii Sacc. SPECIES
-=======
+# Phyllosticta curtisii Sacc. SPECIES
 
 #### Status
 ACCEPTED

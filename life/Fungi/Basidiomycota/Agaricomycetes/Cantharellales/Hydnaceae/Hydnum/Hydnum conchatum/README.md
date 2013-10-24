@@ -1,5 +1,4 @@
-Hydnum conchatum Fr. SPECIES
-=======
+# Hydnum conchatum Fr. SPECIES
 
 #### Status
 ACCEPTED

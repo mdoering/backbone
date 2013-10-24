@@ -1,5 +1,4 @@
-Involucrothele verrucosa (Zschacke) Servít SPECIES
-=======
+# Involucrothele verrucosa (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

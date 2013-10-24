@@ -1,5 +1,4 @@
-Porina subinterstes (Nyl.) Müll. Arg. SPECIES
-=======
+# Porina subinterstes (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Praepseudofusulina Ketat & Zolotukhina, 1984 GENUS
-=======
+# Praepseudofusulina Ketat & Zolotukhina, 1984 GENUS
 
 #### Status
 ACCEPTED

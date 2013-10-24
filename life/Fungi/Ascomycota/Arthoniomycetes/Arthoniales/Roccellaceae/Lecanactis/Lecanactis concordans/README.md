@@ -1,5 +1,4 @@
-Lecanactis concordans (Nyl.) Zahlbr. SPECIES
-=======
+# Lecanactis concordans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

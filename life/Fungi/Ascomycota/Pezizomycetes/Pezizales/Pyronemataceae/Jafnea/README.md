@@ -1,5 +1,4 @@
-Jafnea Korf GENUS
-=======
+# Jafnea Korf GENUS
 
 #### Status
 ACCEPTED

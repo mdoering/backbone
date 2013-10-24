@@ -1,5 +1,4 @@
-Harpellomyces montanus M.M. White, Siri & Lichtw., 2006 SPECIES
-=======
+# Harpellomyces montanus M.M. White, Siri & Lichtw., 2006 SPECIES
 
 #### Status
 ACCEPTED

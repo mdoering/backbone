@@ -1,5 +1,4 @@
-Spicaria valdiviensis Speg. SPECIES
-=======
+# Spicaria valdiviensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria typhina Pass. SPECIES
-=======
+# Didymosphaeria typhina Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psammina planata (Saidova, 1970) SPECIES
-=======
+# Psammina planata (Saidova, 1970) SPECIES
 
 #### Status
 ACCEPTED

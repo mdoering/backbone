@@ -1,5 +1,4 @@
-Heliomyces striatus Murrill SPECIES
-=======
+# Heliomyces striatus Murrill SPECIES
 
 #### Status
 ACCEPTED

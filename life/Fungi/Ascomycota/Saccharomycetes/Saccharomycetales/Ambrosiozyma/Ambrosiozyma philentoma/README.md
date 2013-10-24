@@ -1,5 +1,4 @@
-Ambrosiozyma philentoma Van der Walt, D.B. Scott & Klift, 1972 SPECIES
-=======
+# Ambrosiozyma philentoma Van der Walt, D.B. Scott & Klift, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora variabilis SPECIES
-=======
+# Lecanora variabilis SPECIES
 
 #### Status
 ACCEPTED

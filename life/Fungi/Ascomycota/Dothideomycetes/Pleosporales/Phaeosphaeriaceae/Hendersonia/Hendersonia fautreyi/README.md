@@ -1,5 +1,4 @@
-Hendersonia fautreyi Sacc. & P. Syd. SPECIES
-=======
+# Hendersonia fautreyi Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

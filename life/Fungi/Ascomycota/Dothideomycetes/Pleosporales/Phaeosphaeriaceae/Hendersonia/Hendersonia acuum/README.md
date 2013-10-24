@@ -1,5 +1,4 @@
-Hendersonia acuum P. Karst. SPECIES
-=======
+# Hendersonia acuum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

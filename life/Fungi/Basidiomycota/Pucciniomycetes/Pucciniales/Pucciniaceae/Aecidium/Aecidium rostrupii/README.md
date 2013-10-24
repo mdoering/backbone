@@ -1,5 +1,4 @@
-Aecidium rostrupii Thüm. SPECIES
-=======
+# Aecidium rostrupii Thüm. SPECIES
 
 #### Status
 ACCEPTED

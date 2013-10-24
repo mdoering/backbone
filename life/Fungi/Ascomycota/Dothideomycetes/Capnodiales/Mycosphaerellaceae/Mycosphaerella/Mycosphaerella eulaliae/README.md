@@ -1,5 +1,4 @@
-Mycosphaerella eulaliae (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella eulaliae (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

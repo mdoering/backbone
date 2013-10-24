@@ -1,5 +1,4 @@
-Hymenochaete rimosa Lloyd SPECIES
-=======
+# Hymenochaete rimosa Lloyd SPECIES
 
 #### Status
 ACCEPTED

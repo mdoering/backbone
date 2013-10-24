@@ -1,5 +1,4 @@
-Asterina doryphorae Hansf. SPECIES
-=======
+# Asterina doryphorae Hansf. SPECIES
 
 #### Status
 ACCEPTED

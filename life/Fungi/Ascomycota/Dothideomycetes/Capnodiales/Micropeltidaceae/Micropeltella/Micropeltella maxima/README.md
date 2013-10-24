@@ -1,5 +1,4 @@
-Micropeltella maxima Speg. SPECIES
-=======
+# Micropeltella maxima Speg. SPECIES
 
 #### Status
 ACCEPTED

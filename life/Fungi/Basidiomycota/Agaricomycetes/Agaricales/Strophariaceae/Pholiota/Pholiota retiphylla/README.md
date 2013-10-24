@@ -1,5 +1,4 @@
-Pholiota retiphylla G.F. Atk. SPECIES
-=======
+# Pholiota retiphylla G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

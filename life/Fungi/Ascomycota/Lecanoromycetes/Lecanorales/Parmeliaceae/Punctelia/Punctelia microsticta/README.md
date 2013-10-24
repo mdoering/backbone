@@ -1,17 +1,16 @@
-Parmelia microsticta f. microsticta FORM
-=======
+# Punctelia microsticta (Müll. Arg.) Krog SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nordic Jl Bot. 2(3): 291 (1982)
 
 #### Original name
-Parmelia microsticta f. microsticta
+Parmelia microsticta Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Propolidium acerinum Feltgen SPECIES
-=======
+# Propolidium acerinum Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hypoxylon coorgiana A. Pande SPECIES
-=======
+# Hypoxylon coorgianum A. Pande SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. bot. Surv. India 15: 8 (1976)
 
 #### Original name
-Hypoxylon coorgiana A. Pande
+Hypoxylon coorgianum A. Pande
 
 ### Remarks
 null

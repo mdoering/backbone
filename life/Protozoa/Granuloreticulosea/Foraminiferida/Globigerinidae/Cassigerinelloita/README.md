@@ -1,5 +1,4 @@
-Cassigerinelloita Stolk, 1965 GENUS
-=======
+# Cassigerinelloita Stolk, 1965 GENUS
 
 #### Status
 ACCEPTED

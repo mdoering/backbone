@@ -1,14 +1,13 @@
-Grayella Doflein, 1929 GENUS
-=======
+# Grayallia Setna, 1927 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Lehrb. Protozoenkunde, 1238.
+J. Parasitology, 19, 335.
 
 #### Original name
 null

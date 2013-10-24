@@ -1,5 +1,4 @@
-Leucoagaricus tomesensis Garrido SPECIES
-=======
+# Leucoagaricus tomesensis Garrido SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeromorpha Baltes, 1969 GENUS
-=======
+# Sphaeromorpha Baltes, 1969 GENUS
 
 #### Status
 ACCEPTED

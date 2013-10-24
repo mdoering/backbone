@@ -1,5 +1,4 @@
-Mycena farinella (Feltgen) Sacc. & Trotter SPECIES
-=======
+# Mycena farinella (Feltgen) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

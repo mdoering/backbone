@@ -1,5 +1,4 @@
-Leathesia novae-zelandiae Lindauer SPECIES
-=======
+# Leathesia novae-zelandiae Lindauer SPECIES
 
 #### Status
 ACCEPTED

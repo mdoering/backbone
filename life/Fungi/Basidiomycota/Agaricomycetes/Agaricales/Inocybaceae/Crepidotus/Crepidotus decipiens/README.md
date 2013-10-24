@@ -1,5 +1,4 @@
-Crepidotus decipiens Singer SPECIES
-=======
+# Crepidotus decipiens Singer SPECIES
 
 #### Status
 ACCEPTED

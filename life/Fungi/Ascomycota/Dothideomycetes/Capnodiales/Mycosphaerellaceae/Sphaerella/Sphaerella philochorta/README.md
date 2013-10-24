@@ -1,5 +1,4 @@
-Sphaerella philochorta Cooke SPECIES
-=======
+# Sphaerella philochorta Cooke SPECIES
 
 #### Status
 ACCEPTED

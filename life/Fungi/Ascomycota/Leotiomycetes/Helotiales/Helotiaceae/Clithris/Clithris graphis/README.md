@@ -1,5 +1,4 @@
-Clithris graphis Rehm SPECIES
-=======
+# Clithris graphis Rehm SPECIES
 
 #### Status
 ACCEPTED

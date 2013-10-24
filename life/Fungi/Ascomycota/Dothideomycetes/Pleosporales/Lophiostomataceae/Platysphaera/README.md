@@ -1,5 +1,4 @@
-Platysphaera GENUS
-=======
+# Platysphaera GENUS
 
 #### Status
 ACCEPTED

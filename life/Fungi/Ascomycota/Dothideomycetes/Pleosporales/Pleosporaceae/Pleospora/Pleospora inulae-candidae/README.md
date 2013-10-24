@@ -1,5 +1,4 @@
-Pleospora inulae-candidae Jaap SPECIES
-=======
+# Pleospora inulae-candidae Jaap SPECIES
 
 #### Status
 ACCEPTED

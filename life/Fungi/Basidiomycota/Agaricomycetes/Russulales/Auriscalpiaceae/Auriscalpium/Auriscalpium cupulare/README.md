@@ -1,5 +1,4 @@
-Auriscalpium cupulare (Wahlenb.) Kuntze SPECIES
-=======
+# Auriscalpium cupulare (Wahlenb.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

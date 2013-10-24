@@ -1,5 +1,4 @@
-Naucoria earlei Murrill SPECIES
-=======
+# Naucoria earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

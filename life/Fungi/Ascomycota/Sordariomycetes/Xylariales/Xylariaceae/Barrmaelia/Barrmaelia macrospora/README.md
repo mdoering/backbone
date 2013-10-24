@@ -1,14 +1,13 @@
-Engizostoma macrosporum (Nitschke) Kuntze, 1898 SPECIES
-=======
+# Barrmaelia macrospora (Nitschke) Rappaz, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 474 (1898)
+Mycol. helv. 7(1): 135 (1995)
 
 #### Original name
 Valsa macrospora Nitschke, 1867

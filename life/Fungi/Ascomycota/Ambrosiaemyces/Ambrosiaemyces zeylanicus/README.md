@@ -1,5 +1,4 @@
-Ambrosiaemyces zeylanicus Trotter, 1934 SPECIES
-=======
+# Ambrosiaemyces zeylanicus Trotter, 1934 SPECIES
 
 #### Status
 ACCEPTED

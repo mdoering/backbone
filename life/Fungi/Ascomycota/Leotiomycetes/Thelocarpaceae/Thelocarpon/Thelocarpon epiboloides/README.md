@@ -1,5 +1,4 @@
-Thelocarpon epiboloides Nyl. SPECIES
-=======
+# Thelocarpon epiboloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

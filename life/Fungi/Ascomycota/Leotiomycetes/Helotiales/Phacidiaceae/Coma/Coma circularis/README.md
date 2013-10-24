@@ -1,14 +1,13 @@
-Pestalozziella circularis Cooke & Massee, 1890 SPECIES
-=======
+# Coma circularis (Cooke & Massee ex Cooke) Nag Raj & W.B. Kendr., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 50: 614 (1972)
 
 #### Original name
 Pestalozziella circularis Cooke & Massee, 1890

@@ -1,5 +1,4 @@
-Phaeoseptoria tecomae Bat. & Peres SPECIES
-=======
+# Phaeoseptoria tecomae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

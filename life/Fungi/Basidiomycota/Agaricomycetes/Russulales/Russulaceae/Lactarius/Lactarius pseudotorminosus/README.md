@@ -1,5 +1,4 @@
-Lactarius pseudotorminosus R. Heim SPECIES
-=======
+# Lactarius pseudotorminosus R. Heim SPECIES
 
 #### Status
 ACCEPTED

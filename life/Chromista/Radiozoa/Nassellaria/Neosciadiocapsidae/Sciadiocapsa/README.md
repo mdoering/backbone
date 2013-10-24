@@ -1,5 +1,4 @@
-Sciadiocapsa Squinabol, 1904 GENUS
-=======
+# Sciadiocapsa Squinabol, 1904 GENUS
 
 #### Status
 ACCEPTED

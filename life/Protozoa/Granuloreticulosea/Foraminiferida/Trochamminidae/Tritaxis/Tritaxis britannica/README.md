@@ -1,5 +1,4 @@
-Tritaxis britannica Brönniman & Whittaker SPECIES
-=======
+# Tritaxis britannica Brönniman & Whittaker SPECIES
 
 #### Status
 ACCEPTED

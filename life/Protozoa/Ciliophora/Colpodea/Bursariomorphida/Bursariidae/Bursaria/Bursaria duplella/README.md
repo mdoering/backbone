@@ -1,5 +1,4 @@
-Bursaria duplella SPECIES
-=======
+# Bursaria duplella SPECIES
 
 #### Status
 ACCEPTED

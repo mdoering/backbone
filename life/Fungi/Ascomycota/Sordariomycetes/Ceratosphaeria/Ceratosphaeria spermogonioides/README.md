@@ -1,5 +1,4 @@
-Ceratosphaeria spermogonioides Syd. {?} SPECIES
-=======
+# Ceratosphaeria spermogonioides Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

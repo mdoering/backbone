@@ -1,5 +1,4 @@
-Amanitopsis magnivolvata (Aalto) Bon SPECIES
-=======
+# Amanitopsis magnivolvata (Aalto) Bon SPECIES
 
 #### Status
 ACCEPTED

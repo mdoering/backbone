@@ -1,5 +1,4 @@
-Eriopezia glomerata Velen. SPECIES
-=======
+# Eriopezia glomerata Velen. SPECIES
 
 #### Status
 ACCEPTED

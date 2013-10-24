@@ -1,5 +1,4 @@
-Cortinarius sabuletorum Redeuilh & Reumaux SPECIES
-=======
+# Cortinarius sabuletorum Redeuilh & Reumaux SPECIES
 
 #### Status
 ACCEPTED

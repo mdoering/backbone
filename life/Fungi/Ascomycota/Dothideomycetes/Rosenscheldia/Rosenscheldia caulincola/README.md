@@ -1,5 +1,4 @@
-Rosenscheldia caulincola (Rehm) Petr. SPECIES
-=======
+# Rosenscheldia caulincola (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

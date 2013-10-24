@@ -1,5 +1,4 @@
-Amphidinium conus Schiller SPECIES
-=======
+# Amphidinium conus Schiller SPECIES
 
 #### Status
 ACCEPTED

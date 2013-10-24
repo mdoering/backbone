@@ -1,5 +1,4 @@
-Sphaerella peckii Sacc. SPECIES
-=======
+# Sphaerella peckii Sacc. SPECIES
 
 #### Status
 ACCEPTED

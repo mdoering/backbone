@@ -1,5 +1,4 @@
-Sorosporium confusum H.S. Jacks. SPECIES
-=======
+# Sorosporium confusum H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

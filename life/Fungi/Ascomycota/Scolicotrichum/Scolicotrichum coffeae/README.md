@@ -1,5 +1,4 @@
-Scolicotrichum coffeae Sousa da Câmara SPECIES
-=======
+# Scolicotrichum coffeae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

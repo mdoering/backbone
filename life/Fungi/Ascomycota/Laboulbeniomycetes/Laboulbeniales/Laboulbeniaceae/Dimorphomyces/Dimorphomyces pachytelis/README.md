@@ -1,5 +1,4 @@
-Dimorphomyces pachytelis Thaxt. SPECIES
-=======
+# Dimorphomyces pachytelis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

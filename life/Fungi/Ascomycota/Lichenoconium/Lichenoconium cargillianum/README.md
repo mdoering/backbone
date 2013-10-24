@@ -1,14 +1,13 @@
-Coniothyrium cargillianum (Linds.) Sacc. & Trotter, 1913 SPECIES
-=======
+# Lichenoconium cargillianum (Linds.) D. Hawksw., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 22: 976 (1913)
+Persoonia 9(2): 172 (1977)
 
 #### Original name
 Microthelia cargilliana Linds., 1867

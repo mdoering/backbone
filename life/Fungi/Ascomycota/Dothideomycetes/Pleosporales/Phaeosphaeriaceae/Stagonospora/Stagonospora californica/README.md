@@ -1,5 +1,4 @@
-Stagonospora californica Petr. SPECIES
-=======
+# Stagonospora californica Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capillaria Persoon, 1822 GENUS
-=======
+# Capillaria Persoon, 1822 GENUS
 
 #### Status
 ACCEPTED

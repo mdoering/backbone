@@ -1,5 +1,4 @@
-Sphaerella euryae (Theiss.) Sacc. SPECIES
-=======
+# Sphaerella euryae (Theiss.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desulfovibrio carbinolicus Nanninga & Gottschal, 1995 SPECIES
-=======
+# Desulfovibrio carbinolicus Nanninga & Gottschal, 1995 SPECIES
 
 #### Status
 ACCEPTED

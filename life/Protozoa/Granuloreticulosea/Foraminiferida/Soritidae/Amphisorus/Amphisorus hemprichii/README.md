@@ -1,5 +1,4 @@
-Amphisorus hemprichii Ehrenberg, 1839 SPECIES
-=======
+# Amphisorus hemprichii Ehrenberg, 1839 SPECIES
 
 #### Status
 ACCEPTED

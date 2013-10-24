@@ -1,5 +1,4 @@
-Peziza pseudovesiculosa Donadini SPECIES
-=======
+# Peziza pseudovesiculosa Donadini SPECIES
 
 #### Status
 ACCEPTED

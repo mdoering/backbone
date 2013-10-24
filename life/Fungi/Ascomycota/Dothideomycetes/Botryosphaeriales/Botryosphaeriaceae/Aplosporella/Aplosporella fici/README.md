@@ -1,5 +1,4 @@
-Aplosporella fici Tend. SPECIES
-=======
+# Aplosporella fici Tend. SPECIES
 
 #### Status
 ACCEPTED

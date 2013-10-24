@@ -1,5 +1,4 @@
-Dermatina granulata (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Dermatina granulata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

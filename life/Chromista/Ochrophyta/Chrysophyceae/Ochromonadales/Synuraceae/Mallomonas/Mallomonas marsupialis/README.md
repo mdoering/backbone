@@ -1,5 +1,4 @@
-Mallomonas marsupialis Croome, Kristiansen & P.A. Tyler SPECIES
-=======
+# Mallomonas marsupialis Croome, Kristiansen & P.A. Tyler SPECIES
 
 #### Status
 ACCEPTED

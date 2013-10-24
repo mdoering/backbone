@@ -1,5 +1,4 @@
-Rhizoctonia de Candolle, 1816 GENUS
-=======
+# Rhizoctonia de Candolle, 1816 GENUS
 
 #### Status
 ACCEPTED

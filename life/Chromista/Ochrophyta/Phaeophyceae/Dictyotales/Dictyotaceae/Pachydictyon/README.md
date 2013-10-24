@@ -1,5 +1,4 @@
-Pachydictyon J.Agardh, 1894 GENUS
-=======
+# Pachydictyon J.Agardh, 1894 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora heterosporella U. Braun & Crous SPECIES
-=======
+# Passalora heterosporella U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

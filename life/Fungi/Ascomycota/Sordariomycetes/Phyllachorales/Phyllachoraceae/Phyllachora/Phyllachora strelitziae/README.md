@@ -1,14 +1,13 @@
-Endodothella strelitziae (Cooke) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora strelitziae (Cooke) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(5/6): 587 (1915)
+Syll. fung. (Abellini) 2: 606 (1883)
 
 #### Original name
 Dothidea strelitziae Cooke, 1882

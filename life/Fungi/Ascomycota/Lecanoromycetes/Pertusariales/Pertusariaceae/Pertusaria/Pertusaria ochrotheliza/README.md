@@ -1,5 +1,4 @@
-Pertusaria ochrotheliza Nyl. SPECIES
-=======
+# Pertusaria ochrotheliza Nyl. SPECIES
 
 #### Status
 ACCEPTED

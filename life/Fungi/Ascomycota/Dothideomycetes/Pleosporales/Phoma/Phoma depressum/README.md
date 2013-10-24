@@ -1,5 +1,4 @@
-Phoma depressum Sacc. SPECIES
-=======
+# Phoma depressum Sacc. SPECIES
 
 #### Status
 ACCEPTED

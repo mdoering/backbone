@@ -1,5 +1,4 @@
-Tapesia lata Rostr. SPECIES
-=======
+# Tapesia lata Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia passerinii Paol. SPECIES
-=======
+# Tubercularia passerinii Paol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporon siamense Nakase, Jindam., Sugita & H. Kawas. SPECIES
-=======
+# Trichosporon siamense Nakase, Jindam., Sugita & H. Kawas. SPECIES
 
 #### Status
 ACCEPTED

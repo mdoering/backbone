@@ -1,17 +1,16 @@
-Sporobolomyces japonica Iizuka & Goto SPECIES
-=======
+# Sporobolomyces japonicus Iizuka & Goto SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. gen. appl. Microbiol. , Tokyo 11(4): 333 (1965)
 
 #### Original name
-Sporobolomyces japonica Iizuka & Goto
+Sporobolomyces japonicus Iizuka & Goto
 
 ### Remarks
 null

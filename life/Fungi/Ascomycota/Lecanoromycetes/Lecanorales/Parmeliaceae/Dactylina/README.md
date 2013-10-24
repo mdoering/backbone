@@ -1,5 +1,4 @@
-Dactylina Nylander, 1860 GENUS
-=======
+# Dactylina Nylander, 1860 GENUS
 
 #### Status
 ACCEPTED

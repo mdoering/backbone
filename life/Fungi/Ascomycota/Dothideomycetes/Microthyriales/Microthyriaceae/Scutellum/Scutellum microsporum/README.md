@@ -1,5 +1,4 @@
-Scutellum microsporum Speg. SPECIES
-=======
+# Scutellum microsporum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Podospora vestita (Zopf) G. Winter, 1885 SPECIES
-=======
+# Podospora communis (Speg.) Niessl, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(2): 176 (1885)
+Hedwigia 22: 156 (1883)
 
 #### Original name
-Eusordaria vestita Zopf
+Hypocopra communis Speg., 1880
 
 ### Remarks
 null

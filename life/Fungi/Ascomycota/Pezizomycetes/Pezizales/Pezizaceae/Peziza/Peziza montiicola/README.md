@@ -1,5 +1,4 @@
-Peziza montiicola Berk. SPECIES
-=======
+# Peziza montiicola Berk. SPECIES
 
 #### Status
 ACCEPTED

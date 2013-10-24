@@ -1,11 +1,10 @@
-Pseudomonas riboflavina Foster, 1944 SPECIES
-=======
+# Devosia riboflavina (ex Foster, 1944) Nakagawa et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

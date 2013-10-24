@@ -1,5 +1,4 @@
-Agaricus violarius Massee SPECIES
-=======
+# Agaricus violarius Massee SPECIES
 
 #### Status
 ACCEPTED

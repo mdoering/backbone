@@ -1,5 +1,4 @@
-Tribonema monochlorum Pascher & Geitler SPECIES
-=======
+# Tribonema monochlorum Pascher & Geitler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma galeopsidis Allesch. SPECIES
-=======
+# Phoma galeopsidis Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bretonia hardingenii C.E. Bertrand & Hovel. SPECIES
-=======
+# Bretonia hardingenii C.E. Bertrand & Hovel. SPECIES
 
 #### Status
 ACCEPTED

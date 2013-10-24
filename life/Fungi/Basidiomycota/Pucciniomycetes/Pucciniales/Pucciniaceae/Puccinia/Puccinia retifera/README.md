@@ -1,5 +1,4 @@
-Puccinia retifera Lindr. SPECIES
-=======
+# Puccinia retifera Lindr. SPECIES
 
 #### Status
 ACCEPTED

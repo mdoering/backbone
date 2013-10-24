@@ -1,5 +1,4 @@
-Phoma battarreae Hollós SPECIES
-=======
+# Phoma battarreae Hollós SPECIES
 
 #### Status
 ACCEPTED

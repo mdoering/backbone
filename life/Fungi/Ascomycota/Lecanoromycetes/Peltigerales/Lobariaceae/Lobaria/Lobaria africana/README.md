@@ -1,5 +1,4 @@
-Lobaria africana C.W. Dodge SPECIES
-=======
+# Lobaria africana C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

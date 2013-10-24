@@ -1,5 +1,4 @@
-Spirillopsis E.Naumann, 1922 GENUS
-=======
+# Spirillopsis E.Naumann, 1922 GENUS
 
 #### Status
 ACCEPTED

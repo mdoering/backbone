@@ -1,5 +1,4 @@
-Diaporthe maculans Sacc. & Flageolet SPECIES
-=======
+# Diaporthe maculans Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

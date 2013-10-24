@@ -1,5 +1,4 @@
-Aposphaeria rostrata Oudem. SPECIES
-=======
+# Aposphaeria rostrata Oudem. SPECIES
 
 #### Status
 ACCEPTED

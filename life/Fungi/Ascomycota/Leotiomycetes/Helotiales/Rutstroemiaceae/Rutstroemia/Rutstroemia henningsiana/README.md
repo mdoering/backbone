@@ -1,14 +1,13 @@
-Lanzia henningsiana (Plöttn.) Svrcek, 1982 SPECIES
-=======
+# Rutstroemia henningsiana (Plöttn.) Dennis, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 36(3): 153 (1982)
+Mycol. Pap. 62: 134 (1956)
 
 #### Original name
 Ciboria henningsiana Plöttn., 1899

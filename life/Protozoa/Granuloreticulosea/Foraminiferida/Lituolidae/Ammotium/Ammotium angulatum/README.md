@@ -1,5 +1,4 @@
-Ammotium angulatum Brönnimann, Whittaker & Zaninetti, 1992 SPECIES
-=======
+# Ammotium angulatum Brönnimann, Whittaker & Zaninetti, 1992 SPECIES
 
 #### Status
 ACCEPTED

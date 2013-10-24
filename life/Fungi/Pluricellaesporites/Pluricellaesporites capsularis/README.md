@@ -1,5 +1,4 @@
-Pluricellaesporites capsularis (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Pluricellaesporites capsularis (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus viscidulus Singer SPECIES
-=======
+# Pluteus viscidulus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Praeprotunuma Tekin, 1999 GENUS
-=======
+# Praeprotunuma Tekin, 1999 GENUS
 
 #### Status
 ACCEPTED

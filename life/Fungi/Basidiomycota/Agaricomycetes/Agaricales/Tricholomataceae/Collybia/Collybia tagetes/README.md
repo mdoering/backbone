@@ -1,5 +1,4 @@
-Collybia tagetes Berk. & Mont. SPECIES
-=======
+# Collybia tagetes Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

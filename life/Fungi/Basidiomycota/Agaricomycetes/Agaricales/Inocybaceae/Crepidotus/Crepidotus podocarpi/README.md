@@ -1,5 +1,4 @@
-Crepidotus podocarpi Singer SPECIES
-=======
+# Crepidotus podocarpi Singer SPECIES
 
 #### Status
 ACCEPTED

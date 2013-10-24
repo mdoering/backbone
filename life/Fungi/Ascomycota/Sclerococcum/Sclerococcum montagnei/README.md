@@ -1,5 +1,4 @@
-Sclerococcum montagnei Hafellner, 1996 SPECIES
-=======
+# Sclerococcum montagnei Hafellner, 1996 SPECIES
 
 #### Status
 ACCEPTED

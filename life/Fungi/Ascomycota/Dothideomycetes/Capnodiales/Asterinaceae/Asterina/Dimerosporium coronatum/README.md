@@ -1,5 +1,4 @@
-Dimerosporium coronatum Speg. SPECIES
-=======
+# Dimerosporium coronatum Speg. SPECIES
 
 #### Status
 ACCEPTED

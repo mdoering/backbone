@@ -1,5 +1,4 @@
-Russula heterochroa Kühner SPECIES
-=======
+# Russula heterochroa Kühner SPECIES
 
 #### Status
 ACCEPTED

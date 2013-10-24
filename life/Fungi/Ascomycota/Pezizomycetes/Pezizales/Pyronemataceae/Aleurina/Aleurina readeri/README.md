@@ -1,5 +1,4 @@
-Aleurina readeri Rehm SPECIES
-=======
+# Aleurina readeri Rehm SPECIES
 
 #### Status
 ACCEPTED

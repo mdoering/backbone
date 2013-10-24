@@ -1,5 +1,4 @@
-Hygrocybe hygrocyboides (Kühner) Arnolds SPECIES
-=======
+# Hygrocybe hygrocyboides (Kühner) Arnolds SPECIES
 
 #### Status
 ACCEPTED

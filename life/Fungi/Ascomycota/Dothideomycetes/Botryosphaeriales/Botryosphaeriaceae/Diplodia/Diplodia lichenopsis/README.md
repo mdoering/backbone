@@ -1,5 +1,4 @@
-Diplodia lichenopsis Cooke & Massee SPECIES
-=======
+# Diplodia lichenopsis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

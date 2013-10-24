@@ -1,5 +1,4 @@
-Stropharia drymonia Morgan SPECIES
-=======
+# Stropharia drymonia Morgan SPECIES
 
 #### Status
 ACCEPTED

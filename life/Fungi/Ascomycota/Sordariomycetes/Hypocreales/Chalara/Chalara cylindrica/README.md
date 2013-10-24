@@ -1,5 +1,4 @@
-Chalara cylindrica P. Karst., 1887 SPECIES
-=======
+# Chalara cylindrica P. Karst., 1887 SPECIES
 
 #### Status
 ACCEPTED

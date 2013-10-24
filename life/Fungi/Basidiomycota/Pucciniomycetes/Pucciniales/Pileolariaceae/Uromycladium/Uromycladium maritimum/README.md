@@ -1,5 +1,4 @@
-Uromycladium maritimum McAlpine, 1905 SPECIES
-=======
+# Uromycladium maritimum McAlpine, 1905 SPECIES
 
 #### Status
 ACCEPTED

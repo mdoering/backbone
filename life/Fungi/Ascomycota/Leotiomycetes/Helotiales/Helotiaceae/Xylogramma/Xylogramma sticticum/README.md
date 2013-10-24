@@ -1,5 +1,4 @@
-Xylogramma sticticum (Fr.) Wallr. SPECIES
-=======
+# Xylogramma sticticum (Fr.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta paulensis Zahlbr. SPECIES
-=======
+# Sticta paulensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

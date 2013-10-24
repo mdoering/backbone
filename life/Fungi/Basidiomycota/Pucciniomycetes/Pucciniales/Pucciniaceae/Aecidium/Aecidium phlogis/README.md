@@ -1,5 +1,4 @@
-Aecidium phlogis Ellis & Everh. SPECIES
-=======
+# Aecidium phlogis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

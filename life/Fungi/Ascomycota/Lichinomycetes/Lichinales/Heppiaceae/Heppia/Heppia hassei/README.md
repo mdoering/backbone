@@ -1,5 +1,4 @@
-Heppia hassei Zahlbr. SPECIES
-=======
+# Heppia hassei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

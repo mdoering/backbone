@@ -1,5 +1,4 @@
-Cylindrobasidium Jülich, 1974 GENUS
-=======
+# Cylindrobasidium Jülich, 1974 GENUS
 
 #### Status
 ACCEPTED

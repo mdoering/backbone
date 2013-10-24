@@ -1,5 +1,4 @@
-Lecidella monticola (Ach.) Kremp. SPECIES
-=======
+# Lecidella monticola (Ach.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

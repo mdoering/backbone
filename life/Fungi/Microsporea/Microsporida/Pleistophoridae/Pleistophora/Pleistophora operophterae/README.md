@@ -1,5 +1,4 @@
-Pleistophora operophterae E.U. Canning SPECIES
-=======
+# Pleistophora operophterae E.U. Canning SPECIES
 
 #### Status
 ACCEPTED

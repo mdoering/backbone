@@ -1,5 +1,4 @@
-Meliola argyreiae M.S. Patil & Thite SPECIES
-=======
+# Meliola argyreiae M.S. Patil & Thite SPECIES
 
 #### Status
 ACCEPTED

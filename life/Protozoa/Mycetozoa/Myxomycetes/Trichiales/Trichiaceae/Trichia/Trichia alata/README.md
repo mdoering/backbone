@@ -1,5 +1,4 @@
-Trichia alata Trentep. SPECIES
-=======
+# Trichia alata Trentep. SPECIES
 
 #### Status
 ACCEPTED

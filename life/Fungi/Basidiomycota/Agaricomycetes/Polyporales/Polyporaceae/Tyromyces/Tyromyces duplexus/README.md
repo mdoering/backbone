@@ -1,5 +1,4 @@
-Tyromyces duplexus M. Mata & Ryvarden, 2010 SPECIES
-=======
+# Tyromyces duplexus M. Mata & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

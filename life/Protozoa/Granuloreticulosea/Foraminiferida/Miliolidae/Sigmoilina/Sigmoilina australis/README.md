@@ -1,5 +1,4 @@
-Sigmoilina australis Parr SPECIES
-=======
+# Sigmoilina australis Parr SPECIES
 
 #### Status
 ACCEPTED

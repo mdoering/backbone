@@ -1,5 +1,4 @@
-Mycoderma rubrum Lasché SPECIES
-=======
+# Mycoderma rubrum Lasché SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Natroniella acetigena Zhilina et al., 1996 SPECIES
-=======
+# Natroniella acetigena Zhilina et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

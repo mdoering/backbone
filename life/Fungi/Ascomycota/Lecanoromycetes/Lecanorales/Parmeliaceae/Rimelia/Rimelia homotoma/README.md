@@ -1,5 +1,4 @@
-Rimelia homotoma (Nyl.) Hale & A. Fletcher SPECIES
-=======
+# Rimelia homotoma (Nyl.) Hale & A. Fletcher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma helichrysi (Rabenh.) Kuntze SPECIES
-=======
+# Dicaeoma helichrysi (Rabenh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia scotodes Berk. & Broome SPECIES
-=======
+# Collybia scotodes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

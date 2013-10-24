@@ -1,5 +1,4 @@
-Lecanora mastoidea Lynge SPECIES
-=======
+# Lecanora mastoidea Lynge SPECIES
 
 #### Status
 ACCEPTED

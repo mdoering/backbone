@@ -1,5 +1,4 @@
-Discosiella cylindrospora Syd. & P. Syd. SPECIES
-=======
+# Discosiella cylindrospora Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

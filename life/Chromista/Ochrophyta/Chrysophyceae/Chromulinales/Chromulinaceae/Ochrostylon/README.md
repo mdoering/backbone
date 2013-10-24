@@ -1,5 +1,4 @@
-Ochrostylon Pascher, 1942 GENUS
-=======
+# Ochrostylon Pascher, 1942 GENUS
 
 #### Status
 ACCEPTED

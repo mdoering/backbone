@@ -1,5 +1,4 @@
-Cercospora glandulosa Ellis & Kellerm. SPECIES
-=======
+# Cercospora glandulosa Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

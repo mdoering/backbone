@@ -1,14 +1,13 @@
-Stilbomyces berenice Ellis & Everh. SPECIES
-=======
+# Gyalideopsis berenice (Ellis & Everh.) Lücking & W.R. Buck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Proc. Acad. nat. Sci. Philad. , 1895 47: 441 (1895)
+Bryologist 110(4): 645 (2007)
 
 #### Original name
 Stilbomyces berenice Ellis & Everh.

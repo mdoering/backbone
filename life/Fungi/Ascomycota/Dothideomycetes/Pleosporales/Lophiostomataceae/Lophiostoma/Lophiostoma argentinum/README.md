@@ -1,5 +1,4 @@
-Lophiostoma argentinum (Speg.) Sacc. SPECIES
-=======
+# Lophiostoma argentinum (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

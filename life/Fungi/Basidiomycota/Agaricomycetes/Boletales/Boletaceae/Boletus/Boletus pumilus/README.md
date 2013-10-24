@@ -1,5 +1,4 @@
-Boletus pumilus Saut. SPECIES
-=======
+# Boletus pumilus Saut. SPECIES
 
 #### Status
 ACCEPTED

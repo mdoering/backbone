@@ -1,5 +1,4 @@
-Lembosina durbana (Van der Byl) Arx SPECIES
-=======
+# Lembosina durbana (Van der Byl) Arx SPECIES
 
 #### Status
 ACCEPTED

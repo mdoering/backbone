@@ -1,5 +1,4 @@
-Callistosporium krambrukum Grgur., 1997 SPECIES
-=======
+# Callistosporium krambrukum Grgur., 1997 SPECIES
 
 #### Status
 ACCEPTED

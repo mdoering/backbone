@@ -1,5 +1,4 @@
-Urceolella tetraspora (Rehm) E. Müll. SPECIES
-=======
+# Urceolella tetraspora (Rehm) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

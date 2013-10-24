@@ -1,5 +1,4 @@
-Lembosia tikusensis Hansf. SPECIES
-=======
+# Lembosia tikusensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

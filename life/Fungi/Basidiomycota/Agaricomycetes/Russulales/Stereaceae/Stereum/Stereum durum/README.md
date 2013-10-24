@@ -1,5 +1,4 @@
-Stereum durum Lloyd, 1919 SPECIES
-=======
+# Stereum durum Lloyd, 1919 SPECIES
 
 #### Status
 ACCEPTED

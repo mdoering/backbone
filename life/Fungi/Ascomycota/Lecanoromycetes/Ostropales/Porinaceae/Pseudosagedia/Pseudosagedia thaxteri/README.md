@@ -1,5 +1,4 @@
-Pseudosagedia thaxteri (R. Sant.) Hafellner & Kalb SPECIES
-=======
+# Pseudosagedia thaxteri (R. Sant.) Hafellner & Kalb SPECIES
 
 #### Status
 ACCEPTED

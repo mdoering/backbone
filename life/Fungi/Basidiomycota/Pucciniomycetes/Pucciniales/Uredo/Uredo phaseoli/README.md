@@ -1,5 +1,4 @@
-Uredo phaseoli F. Strauss SPECIES
-=======
+# Uredo phaseoli F. Strauss SPECIES
 
 #### Status
 ACCEPTED

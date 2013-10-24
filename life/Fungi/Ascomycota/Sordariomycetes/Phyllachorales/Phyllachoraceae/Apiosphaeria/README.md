@@ -1,17 +1,16 @@
-Oswaldia Rangel GENUS
-=======
+# Apiosphaeria Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Archivos da Escola Superior de Agricultura e Medicina Veterinaria, Nictheroy, Rio de Janeiro 5: 37 (1921)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 1218 (1909)
 
 #### Original name
-Oswaldia Rangel
+Apiosphaeria Höhn.
 
 ### Remarks
 null

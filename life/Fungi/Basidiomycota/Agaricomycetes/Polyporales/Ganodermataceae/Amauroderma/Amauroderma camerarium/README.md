@@ -1,5 +1,4 @@
-Amauroderma camerarium (Berk.) J.S. Furtado SPECIES
-=======
+# Amauroderma camerarium (Berk.) J.S. Furtado SPECIES
 
 #### Status
 ACCEPTED

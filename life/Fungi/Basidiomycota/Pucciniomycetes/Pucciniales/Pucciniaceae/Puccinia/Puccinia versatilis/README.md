@@ -1,5 +1,4 @@
-Puccinia versatilis Syd. SPECIES
-=======
+# Puccinia versatilis Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Toninia isidiata Malme SPECIES
-=======
+# Toninia isidiata Malme SPECIES
 
 #### Status
 ACCEPTED

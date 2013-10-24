@@ -1,5 +1,4 @@
-Cylindrosporium pollaccii Turconi SPECIES
-=======
+# Cylindrosporium pollaccii Turconi SPECIES
 
 #### Status
 ACCEPTED

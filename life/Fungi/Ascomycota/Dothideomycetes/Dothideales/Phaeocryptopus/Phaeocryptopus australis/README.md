@@ -1,5 +1,4 @@
-Phaeocryptopus australis Butin SPECIES
-=======
+# Phaeocryptopus australis Butin SPECIES
 
 #### Status
 ACCEPTED

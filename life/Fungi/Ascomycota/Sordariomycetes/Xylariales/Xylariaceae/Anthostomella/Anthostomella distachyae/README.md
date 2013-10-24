@@ -1,5 +1,4 @@
-Anthostomella distachyae Maubl. SPECIES
-=======
+# Anthostomella distachyae Maubl. SPECIES
 
 #### Status
 ACCEPTED

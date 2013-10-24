@@ -1,5 +1,4 @@
-Pyrenula scutata (Stirt.) Zahlbr. SPECIES
-=======
+# Pyrenula scutata (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

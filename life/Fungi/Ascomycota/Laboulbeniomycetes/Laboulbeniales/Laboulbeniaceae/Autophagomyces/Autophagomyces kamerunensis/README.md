@@ -1,5 +1,4 @@
-Autophagomyces kamerunensis Thaxt. SPECIES
-=======
+# Autophagomyces kamerunensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

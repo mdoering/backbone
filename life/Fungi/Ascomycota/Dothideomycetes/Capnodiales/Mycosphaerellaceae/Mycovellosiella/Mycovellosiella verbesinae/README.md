@@ -1,5 +1,4 @@
-Mycovellosiella verbesinae Munt.-Cvetk. SPECIES
-=======
+# Mycovellosiella verbesinae Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

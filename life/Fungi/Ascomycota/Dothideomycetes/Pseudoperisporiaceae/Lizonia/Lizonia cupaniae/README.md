@@ -1,5 +1,4 @@
-Lizonia cupaniae Rehm SPECIES
-=======
+# Lizonia cupaniae Rehm SPECIES
 
 #### Status
 ACCEPTED

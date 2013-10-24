@@ -1,5 +1,4 @@
-Spirochaetes Cavalier-Smith, 2002 PHYLUM
-=======
+# Spirochaetes Cavalier-Smith, 2002 PHYLUM
 
 #### Status
 ACCEPTED

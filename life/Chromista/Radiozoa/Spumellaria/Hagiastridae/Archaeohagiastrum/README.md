@@ -1,5 +1,4 @@
-Archaeohagiastrum Baumgartner, 1984 GENUS
-=======
+# Archaeohagiastrum Baumgartner, 1984 GENUS
 
 #### Status
 ACCEPTED

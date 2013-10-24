@@ -1,5 +1,4 @@
-Eiffellithus primus SPECIES
-=======
+# Eiffellithus primus SPECIES
 
 #### Status
 ACCEPTED

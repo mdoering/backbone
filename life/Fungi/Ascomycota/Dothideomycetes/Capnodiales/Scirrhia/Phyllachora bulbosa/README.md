@@ -1,5 +1,4 @@
-Phyllachora bulbosa Parbery, 1967 SPECIES
-=======
+# Phyllachora bulbosa Parbery, 1967 SPECIES
 
 #### Status
 DOUBTFUL

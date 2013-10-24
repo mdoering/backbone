@@ -1,5 +1,4 @@
-Peniophora inconspicua (Berk. & M.A. Curtis) Massee SPECIES
-=======
+# Peniophora inconspicua (Berk. & M.A. Curtis) Massee SPECIES
 
 #### Status
 ACCEPTED

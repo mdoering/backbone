@@ -1,5 +1,4 @@
-Triloculina striolata Cushman, 1918 SPECIES
-=======
+# Triloculina striolata Cushman, 1918 SPECIES
 
 #### Status
 ACCEPTED

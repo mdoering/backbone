@@ -1,5 +1,4 @@
-Pactilia galii Allesch. & Henn. SPECIES
-=======
+# Pactilia galii Allesch. & Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudotthia GENUS
-=======
+# Pseudotthia GENUS
 
 #### Status
 ACCEPTED

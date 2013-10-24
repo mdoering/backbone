@@ -1,5 +1,4 @@
-Archeeucyrtis Tikhomirova, 1987 GENUS
-=======
+# Archeeucyrtis Tikhomirova, 1987 GENUS
 
 #### Status
 ACCEPTED

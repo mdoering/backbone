@@ -1,5 +1,4 @@
-Sporotrichum chartaceum Pers. SPECIES
-=======
+# Sporotrichum chartaceum Pers. SPECIES
 
 #### Status
 ACCEPTED

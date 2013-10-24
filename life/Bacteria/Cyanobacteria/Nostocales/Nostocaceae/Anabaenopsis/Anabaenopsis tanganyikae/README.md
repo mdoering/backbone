@@ -1,8 +1,7 @@
-Anabaena tanganykae G.S. West SPECIES
-=======
+# Anabaenopsis tanganyikae (G.S. West) Woloszynska & Miller SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

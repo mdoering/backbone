@@ -1,5 +1,4 @@
-Chaetopsis cylindrospora (W. Gams & Hol.-Jech.) DiCosmo, S.M. Berch & W.B. Kendr. SPECIES
-=======
+# Chaetopsis cylindrospora (W. Gams & Hol.-Jech.) DiCosmo, S.M. Berch & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaeria scirpicola (Earle) M.E. Barr SPECIES
-=======
+# Phaeosphaeria scirpicola (Earle) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

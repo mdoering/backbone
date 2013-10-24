@@ -1,5 +1,4 @@
-Lepiota praeclara A. Pearson SPECIES
-=======
+# Lepiota praeclara A. Pearson SPECIES
 
 #### Status
 ACCEPTED

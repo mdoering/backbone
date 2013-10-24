@@ -1,5 +1,4 @@
-Hysterium plantaginis Kirchn. SPECIES
-=======
+# Hysterium plantaginis Kirchn. SPECIES
 
 #### Status
 ACCEPTED

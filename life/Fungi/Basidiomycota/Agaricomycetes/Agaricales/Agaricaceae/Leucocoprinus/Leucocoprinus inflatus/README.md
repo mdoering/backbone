@@ -1,5 +1,4 @@
-Leucocoprinus inflatus Raithelh. SPECIES
-=======
+# Leucocoprinus inflatus Raithelh. SPECIES
 
 #### Status
 ACCEPTED

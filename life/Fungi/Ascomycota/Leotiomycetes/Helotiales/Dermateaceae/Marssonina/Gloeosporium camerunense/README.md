@@ -1,5 +1,4 @@
-Gloeosporium camerunense (Henn.) Wollenw. SPECIES
-=======
+# Gloeosporium camerunense (Henn.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

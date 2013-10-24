@@ -1,5 +1,4 @@
-Meyerozyma GENUS
-=======
+# Meyerozyma GENUS
 
 #### Status
 ACCEPTED

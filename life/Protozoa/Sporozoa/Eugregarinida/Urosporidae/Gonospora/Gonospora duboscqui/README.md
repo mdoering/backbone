@@ -1,5 +1,4 @@
-Gonospora duboscqui Tuzet, 1931 SPECIES
-=======
+# Gonospora duboscqui Tuzet, 1931 SPECIES
 
 #### Status
 ACCEPTED

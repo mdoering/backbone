@@ -1,5 +1,4 @@
-Rhopographella reyesiana var. reyesiana VARIETY
-=======
+# Rhopographella reyesiana Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhopographella reyesiana var. reyesiana
+Rhopographella reyesiana Rehm
 
 ### Remarks
 null

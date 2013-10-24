@@ -1,5 +1,4 @@
-Hypocopra leporina Niessl SPECIES
-=======
+# Hypocopra leporina Niessl SPECIES
 
 #### Status
 ACCEPTED

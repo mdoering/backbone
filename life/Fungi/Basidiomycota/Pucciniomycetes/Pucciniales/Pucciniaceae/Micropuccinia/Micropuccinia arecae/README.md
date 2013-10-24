@@ -1,5 +1,4 @@
-Micropuccinia arecae SPECIES
-=======
+# Micropuccinia arecae SPECIES
 
 #### Status
 ACCEPTED

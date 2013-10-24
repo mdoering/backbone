@@ -1,5 +1,4 @@
-Pluteolus callistus (Peck) Peck SPECIES
-=======
+# Pluteolus callistus (Peck) Peck SPECIES
 
 #### Status
 ACCEPTED

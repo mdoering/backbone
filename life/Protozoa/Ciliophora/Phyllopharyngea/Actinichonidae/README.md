@@ -1,5 +1,4 @@
-Actinichonidae Jankowksi, 1973 FAMILY
-=======
+# Actinichonidae Jankowksi, 1973 FAMILY
 
 #### Status
 ACCEPTED

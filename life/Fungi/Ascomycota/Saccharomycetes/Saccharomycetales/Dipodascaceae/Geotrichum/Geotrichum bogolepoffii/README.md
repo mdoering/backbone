@@ -1,5 +1,4 @@
-Geotrichum bogolepoffii (Vuill.) Basgal SPECIES
-=======
+# Geotrichum bogolepoffii (Vuill.) Basgal SPECIES
 
 #### Status
 ACCEPTED

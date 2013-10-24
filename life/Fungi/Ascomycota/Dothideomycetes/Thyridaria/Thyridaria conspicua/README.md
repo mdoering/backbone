@@ -1,5 +1,4 @@
-Thyridaria conspicua (Griffiths) Petr. SPECIES
-=======
+# Thyridaria conspicua (Griffiths) Petr. SPECIES
 
 #### Status
 ACCEPTED

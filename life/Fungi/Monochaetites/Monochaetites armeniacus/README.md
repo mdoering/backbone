@@ -1,5 +1,4 @@
-Monochaetites armeniacus Babajan & Tasl. SPECIES
-=======
+# Monochaetites armeniacus Babajan & Tasl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidella derridis (Henn.) Theiss. SPECIES
-=======
+# Dothidella derridis (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

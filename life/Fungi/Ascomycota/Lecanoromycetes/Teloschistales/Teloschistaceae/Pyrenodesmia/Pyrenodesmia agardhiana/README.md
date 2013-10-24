@@ -1,5 +1,4 @@
-Pyrenodesmia agardhiana var. agardhiana VARIETY
-=======
+# Pyrenodesmia agardhiana (Flot.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

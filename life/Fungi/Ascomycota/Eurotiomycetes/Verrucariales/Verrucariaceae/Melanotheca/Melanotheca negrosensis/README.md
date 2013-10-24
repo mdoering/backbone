@@ -1,5 +1,4 @@
-Melanotheca negrosensis Herre SPECIES
-=======
+# Melanotheca negrosensis Herre SPECIES
 
 #### Status
 ACCEPTED

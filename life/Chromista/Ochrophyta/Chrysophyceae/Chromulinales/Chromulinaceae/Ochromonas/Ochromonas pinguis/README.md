@@ -1,5 +1,4 @@
-Ochromonas pinguis Conrad SPECIES
-=======
+# Ochromonas pinguis Conrad SPECIES
 
 #### Status
 ACCEPTED

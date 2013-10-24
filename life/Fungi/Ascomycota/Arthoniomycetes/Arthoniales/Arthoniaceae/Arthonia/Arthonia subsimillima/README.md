@@ -1,5 +1,4 @@
-Arthonia subsimillima Nyl. SPECIES
-=======
+# Arthonia subsimillima Nyl. SPECIES
 
 #### Status
 ACCEPTED

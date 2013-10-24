@@ -1,5 +1,4 @@
-Staplinium hexaeder Jansonius, 1962 SPECIES
-=======
+# Staplinium hexaeder Jansonius, 1962 SPECIES
 
 #### Status
 ACCEPTED

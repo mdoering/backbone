@@ -1,5 +1,4 @@
-Cercospora morina Chupp SPECIES
-=======
+# Cercospora morina Chupp SPECIES
 
 #### Status
 ACCEPTED

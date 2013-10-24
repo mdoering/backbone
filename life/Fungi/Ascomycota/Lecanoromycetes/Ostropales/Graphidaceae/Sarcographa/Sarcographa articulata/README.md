@@ -1,5 +1,4 @@
-Sarcographa articulata (Vain.) Zahlbr. SPECIES
-=======
+# Sarcographa articulata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

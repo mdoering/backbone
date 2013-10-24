@@ -1,5 +1,4 @@
-Crubus Yeh, 1987 GENUS
-=======
+# Crubus Yeh, 1987 GENUS
 
 #### Status
 ACCEPTED

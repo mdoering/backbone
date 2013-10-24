@@ -1,5 +1,4 @@
-Amphisphaeria amomi Henn. & E. Nyman SPECIES
-=======
+# Amphisphaeria amomi Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

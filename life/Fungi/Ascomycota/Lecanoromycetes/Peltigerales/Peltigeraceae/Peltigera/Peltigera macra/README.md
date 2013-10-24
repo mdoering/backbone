@@ -1,5 +1,4 @@
-Peltigera macra Vain. SPECIES
-=======
+# Peltigera macra Vain. SPECIES
 
 #### Status
 ACCEPTED

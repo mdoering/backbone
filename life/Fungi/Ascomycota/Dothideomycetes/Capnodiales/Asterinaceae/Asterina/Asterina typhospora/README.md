@@ -1,5 +1,4 @@
-Asterina typhospora Maire SPECIES
-=======
+# Asterina typhospora Maire SPECIES
 
 #### Status
 ACCEPTED

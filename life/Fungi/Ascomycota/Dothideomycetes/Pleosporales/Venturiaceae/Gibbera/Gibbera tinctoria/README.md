@@ -1,5 +1,4 @@
-Gibbera tinctoria Massee SPECIES
-=======
+# Gibbera tinctoria Massee SPECIES
 
 #### Status
 ACCEPTED

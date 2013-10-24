@@ -1,5 +1,4 @@
-Leptogium lividofuscum (Schltdl.) Flot. SPECIES
-=======
+# Leptogium lividofuscum (Schltdl.) Flot. SPECIES
 
 #### Status
 ACCEPTED

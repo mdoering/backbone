@@ -1,5 +1,4 @@
-Uralodiscus Malakhova, 1973 GENUS
-=======
+# Uralodiscus Malakhova, 1973 GENUS
 
 #### Status
 ACCEPTED

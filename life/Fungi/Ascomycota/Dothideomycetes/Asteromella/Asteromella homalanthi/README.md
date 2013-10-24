@@ -1,5 +1,4 @@
-Asteromella homalanthi Cooke & Massee SPECIES
-=======
+# Asteromella homalanthi Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

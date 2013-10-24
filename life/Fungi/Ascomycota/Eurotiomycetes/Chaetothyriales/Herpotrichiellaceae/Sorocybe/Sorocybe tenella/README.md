@@ -1,5 +1,4 @@
-Sorocybe tenella (P. Karst.) S. Hughes SPECIES
-=======
+# Sorocybe tenella (P. Karst.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

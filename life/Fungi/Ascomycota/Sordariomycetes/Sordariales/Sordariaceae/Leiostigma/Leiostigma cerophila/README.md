@@ -1,5 +1,4 @@
-Leiostigma cerophila Kirschst. SPECIES
-=======
+# Leiostigma cerophila Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anisomeridium finkii (R.C. Harris) R.C. Harris SPECIES
-=======
+# Anisomeridium finkii (R.C. Harris) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

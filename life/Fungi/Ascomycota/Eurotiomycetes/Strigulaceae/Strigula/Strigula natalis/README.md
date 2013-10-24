@@ -1,5 +1,4 @@
-Strigula natalis P. M. McCarthy SPECIES
-=======
+# Strigula natalis P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

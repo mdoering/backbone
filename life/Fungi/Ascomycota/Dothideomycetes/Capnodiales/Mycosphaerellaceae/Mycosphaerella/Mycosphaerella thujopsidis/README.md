@@ -1,5 +1,4 @@
-Mycosphaerella thujopsidis Sawada SPECIES
-=======
+# Mycosphaerella thujopsidis Sawada SPECIES
 
 #### Status
 ACCEPTED

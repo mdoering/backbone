@@ -1,5 +1,4 @@
-Hohenbuehelia dimorphocystis Singer SPECIES
-=======
+# Hohenbuehelia dimorphocystis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pholiota ealeansis Beeli SPECIES
-=======
+# Pholiota ealaensis Beeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 61(1): 85 (1928)
 
 #### Original name
-Pholiota ealeansis Beeli
+Pholiota ealaensis Beeli
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Prosthecobacter (ex Staley et al., 1976) Staley et al., 1980 GENUS
-=======
+# Prosthecobacter (ex Staley et al., 1976) Staley et al., 1980 GENUS
 
 #### Status
 ACCEPTED

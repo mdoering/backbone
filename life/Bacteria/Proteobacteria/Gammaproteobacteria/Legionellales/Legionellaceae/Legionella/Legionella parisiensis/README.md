@@ -1,5 +1,4 @@
-Legionella parisiensis Brenner et al., 1985 SPECIES
-=======
+# Legionella parisiensis Brenner et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

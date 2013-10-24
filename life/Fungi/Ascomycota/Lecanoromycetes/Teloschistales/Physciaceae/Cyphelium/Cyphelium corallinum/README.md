@@ -1,5 +1,4 @@
-Cyphelium corallinum Hepp SPECIES
-=======
+# Cyphelium corallinum Hepp SPECIES
 
 #### Status
 ACCEPTED

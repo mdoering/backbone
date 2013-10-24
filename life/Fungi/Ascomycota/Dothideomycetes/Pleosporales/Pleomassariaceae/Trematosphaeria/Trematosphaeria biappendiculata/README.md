@@ -1,5 +1,4 @@
-Trematosphaeria biappendiculata Kaz. Tanaka, Y. Harada & M.E. Barr SPECIES
-=======
+# Trematosphaeria biappendiculata Kaz. Tanaka, Y. Harada & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula fossulicoloides Sérus. SPECIES
-=======
+# Strigula fossulicoloides Sérus. SPECIES
 
 #### Status
 ACCEPTED

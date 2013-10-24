@@ -1,17 +1,16 @@
-Asteroma laureolae Chevall., 1826 SPECIES
-=======
+# Mycosphaerella laureolae (Chevall.) Feltgen, 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 10: 146 (1957)
 
 #### Original name
-Asteroma laureolae Chevall., 1826
+Phyllosticta laureolae Desm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ramichloridium indicum (Subram.) de Hoog SPECIES
-=======
+# Ramichloridium indicum (Subram.) de Hoog SPECIES
 
 #### Status
 ACCEPTED

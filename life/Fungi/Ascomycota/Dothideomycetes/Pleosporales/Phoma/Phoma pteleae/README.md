@@ -1,5 +1,4 @@
-Phoma pteleae Oudem. SPECIES
-=======
+# Phoma pteleae Oudem. SPECIES
 
 #### Status
 ACCEPTED

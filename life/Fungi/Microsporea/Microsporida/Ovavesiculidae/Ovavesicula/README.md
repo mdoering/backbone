@@ -1,5 +1,4 @@
-Ovavesicula T.G. Andreadis & J.L. Hanula GENUS
-=======
+# Ovavesicula T.G. Andreadis & J.L. Hanula GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discoidella hannae Habib, 1970 SPECIES
-=======
+# Discoidella hannae Habib, 1970 SPECIES
 
 #### Status
 ACCEPTED

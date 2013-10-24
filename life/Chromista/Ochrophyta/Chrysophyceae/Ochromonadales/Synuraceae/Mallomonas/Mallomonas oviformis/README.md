@@ -1,5 +1,4 @@
-Mallomonas oviformis Nygaard SPECIES
-=======
+# Mallomonas oviformis Nygaard SPECIES
 
 #### Status
 ACCEPTED

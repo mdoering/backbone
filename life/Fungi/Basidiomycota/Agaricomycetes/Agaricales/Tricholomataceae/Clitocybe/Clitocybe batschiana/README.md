@@ -1,5 +1,4 @@
-Clitocybe batschiana Raithelh. SPECIES
-=======
+# Clitocybe batschiana Raithelh. SPECIES
 
 #### Status
 ACCEPTED

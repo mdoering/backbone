@@ -1,5 +1,4 @@
-Apiospora rosenvingei Rostr. SPECIES
-=======
+# Apiospora rosenvingei Rostr. SPECIES
 
 #### Status
 ACCEPTED

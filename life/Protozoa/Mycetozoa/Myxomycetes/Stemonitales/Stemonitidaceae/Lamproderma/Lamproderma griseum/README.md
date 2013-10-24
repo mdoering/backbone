@@ -1,5 +1,4 @@
-Lamproderma griseum K.S. Thind & T.N. Lakh., 1969 SPECIES
-=======
+# Lamproderma griseum K.S. Thind & T.N. Lakh., 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota pinicola Murrill SPECIES
-=======
+# Lepiota pinicola Murrill SPECIES
 
 #### Status
 ACCEPTED

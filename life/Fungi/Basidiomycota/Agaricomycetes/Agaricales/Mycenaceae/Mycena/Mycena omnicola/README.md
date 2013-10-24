@@ -1,5 +1,4 @@
-Mycena omnicola Métrod SPECIES
-=======
+# Mycena omnicola Métrod SPECIES
 
 #### Status
 ACCEPTED

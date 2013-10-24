@@ -1,5 +1,4 @@
-Biatora microbotrys Th. Fr. SPECIES
-=======
+# Biatora microbotrys Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

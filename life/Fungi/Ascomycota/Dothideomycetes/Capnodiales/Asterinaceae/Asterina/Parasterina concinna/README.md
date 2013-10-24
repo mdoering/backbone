@@ -1,5 +1,4 @@
-Parasterina concinna (Syd.) Bat. & H. Maia SPECIES
-=======
+# Parasterina concinna (Syd.) Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

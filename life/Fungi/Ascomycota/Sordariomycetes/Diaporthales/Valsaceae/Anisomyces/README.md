@@ -1,17 +1,16 @@
-Phaeoapiospora (Sacc. & P. Syd.) Theiss. & Syd. GENUS
-=======
+# Anisomyces Theissen & Sydow, 1914 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 302 (1915)
+Annls mycol. 12(3): 270 (1914)
 
 #### Original name
-null
+Anisomyces Theissen & Sydow, 1914
 
 ### Remarks
 null

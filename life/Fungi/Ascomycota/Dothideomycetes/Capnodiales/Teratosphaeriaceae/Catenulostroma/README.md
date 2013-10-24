@@ -1,5 +1,4 @@
-Catenulostroma Crous & U. Braun GENUS
-=======
+# Catenulostroma Crous & U. Braun GENUS
 
 #### Status
 ACCEPTED

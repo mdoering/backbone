@@ -1,5 +1,4 @@
-Cucurbitaria acerina Fuckel SPECIES
-=======
+# Cucurbitaria acerina Fuckel SPECIES
 
 #### Status
 ACCEPTED

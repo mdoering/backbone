@@ -1,5 +1,4 @@
-Coriolellus kusanoi Murrill SPECIES
-=======
+# Coriolellus kusanoi Murrill SPECIES
 
 #### Status
 ACCEPTED

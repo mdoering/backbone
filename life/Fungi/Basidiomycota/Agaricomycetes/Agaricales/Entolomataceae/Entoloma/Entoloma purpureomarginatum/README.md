@@ -1,5 +1,4 @@
-Entoloma purpureomarginatum Arnolds SPECIES
-=======
+# Entoloma purpureomarginatum Arnolds SPECIES
 
 #### Status
 ACCEPTED

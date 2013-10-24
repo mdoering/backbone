@@ -1,5 +1,4 @@
-Pachysphaeridium christianii (Kjellström, 1976) Ribecai & Tongiorgi, 1999 SPECIES
-=======
+# Pachysphaeridium christianii (Kjellström, 1976) Ribecai & Tongiorgi, 1999 SPECIES
 
 #### Status
 ACCEPTED

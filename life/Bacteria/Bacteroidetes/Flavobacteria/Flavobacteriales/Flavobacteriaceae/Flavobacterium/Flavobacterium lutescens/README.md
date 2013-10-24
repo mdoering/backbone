@@ -1,5 +1,4 @@
-Flavobacterium lutescens (Migula) Bergey et al. SPECIES
-=======
+# Flavobacterium lutescens (Migula) Bergey et al. SPECIES
 
 #### Status
 ACCEPTED

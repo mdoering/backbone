@@ -1,5 +1,4 @@
-Mycoporopsis leucoplaca Müll. Arg. SPECIES
-=======
+# Mycoporopsis leucoplaca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rigidoporus aurantiacus Ryvarden & Iturr., 2003 SPECIES
-=======
+# Rigidoporus aurantiacus Ryvarden & Iturr., 2003 SPECIES
 
 #### Status
 ACCEPTED

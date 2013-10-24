@@ -1,5 +1,4 @@
-Asteroma cerasicola Sacc. SPECIES
-=======
+# Asteroma cerasicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

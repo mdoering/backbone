@@ -1,5 +1,4 @@
-Cryptodiscus albomarginatus Kirschst. SPECIES
-=======
+# Cryptodiscus albomarginatus Kirschst. SPECIES
 
 #### Status
 ACCEPTED

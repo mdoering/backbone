@@ -1,5 +1,4 @@
-Arthonia subcembrina Anzi SPECIES
-=======
+# Arthonia subcembrina Anzi SPECIES
 
 #### Status
 ACCEPTED

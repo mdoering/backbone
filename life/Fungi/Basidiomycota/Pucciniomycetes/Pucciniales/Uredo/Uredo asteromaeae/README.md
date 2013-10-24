@@ -1,5 +1,4 @@
-Uredo asteromaeae Henn. SPECIES
-=======
+# Uredo asteromaeae Henn. SPECIES
 
 #### Status
 ACCEPTED

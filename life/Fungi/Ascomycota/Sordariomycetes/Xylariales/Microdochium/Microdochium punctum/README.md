@@ -1,5 +1,4 @@
-Microdochium punctum (Davis) U. Braun SPECIES
-=======
+# Microdochium punctum (Davis) U. Braun SPECIES
 
 #### Status
 ACCEPTED

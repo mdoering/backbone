@@ -1,5 +1,4 @@
-Aspergillus botucatensis Y. Horie, Miyaji & Nishim. SPECIES
-=======
+# Aspergillus botucatensis Y. Horie, Miyaji & Nishim. SPECIES
 
 #### Status
 ACCEPTED

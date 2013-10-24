@@ -1,5 +1,4 @@
-Uredo cordiarum F. Kern & Whetzel SPECIES
-=======
+# Uredo cordiarum F. Kern & Whetzel SPECIES
 
 #### Status
 ACCEPTED

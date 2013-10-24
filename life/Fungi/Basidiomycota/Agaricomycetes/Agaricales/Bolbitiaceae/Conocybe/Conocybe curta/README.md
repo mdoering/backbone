@@ -1,5 +1,4 @@
-Conocybe curta (G.F. Atk.) Watling SPECIES
-=======
+# Conocybe curta (G.F. Atk.) Watling SPECIES
 
 #### Status
 ACCEPTED

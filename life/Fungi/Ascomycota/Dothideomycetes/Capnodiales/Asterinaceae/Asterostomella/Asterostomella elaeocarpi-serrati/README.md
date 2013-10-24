@@ -1,5 +1,4 @@
-Asterostomella elaeocarpi-serrati Hosag. SPECIES
-=======
+# Asterostomella elaeocarpi-serrati Hosag. SPECIES
 
 #### Status
 ACCEPTED

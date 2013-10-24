@@ -1,5 +1,4 @@
-Lecidea pseudopromiscens Hertel & Rambold SPECIES
-=======
+# Lecidea pseudopromiscens Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

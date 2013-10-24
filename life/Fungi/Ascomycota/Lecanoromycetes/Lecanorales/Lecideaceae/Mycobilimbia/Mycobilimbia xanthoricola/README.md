@@ -1,5 +1,4 @@
-Mycobilimbia xanthoricola Räsänen SPECIES
-=======
+# Mycobilimbia xanthoricola Räsänen SPECIES
 
 #### Status
 ACCEPTED

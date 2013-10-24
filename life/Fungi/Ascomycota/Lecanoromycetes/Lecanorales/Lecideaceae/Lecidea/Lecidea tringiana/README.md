@@ -1,5 +1,4 @@
-Lecidea tringiana J. Steiner SPECIES
-=======
+# Lecidea tringiana J. Steiner SPECIES
 
 #### Status
 ACCEPTED

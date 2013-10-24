@@ -1,14 +1,13 @@
-Amphisphaeria aethiops (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Kirschsteiniothelia aethiops (Berk. & M. A. Curtis) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 722 (1882)
+J. Linn. Soc. , Bot. 91(1-2): 185 (1985)
 
 #### Original name
 Sphaeria aethiops Wallr.

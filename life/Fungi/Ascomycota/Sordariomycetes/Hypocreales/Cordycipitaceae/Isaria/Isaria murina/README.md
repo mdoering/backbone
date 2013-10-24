@@ -1,5 +1,4 @@
-Isaria murina Oudem. SPECIES
-=======
+# Isaria murina Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocala scalariformis Raja & Shearer, 2009 SPECIES
-=======
+# Ocala scalariformis Raja & Shearer, 2009 SPECIES
 
 #### Status
 ACCEPTED

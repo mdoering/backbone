@@ -1,5 +1,4 @@
-Astylospora cubensis Murrill SPECIES
-=======
+# Astylospora cubensis Murrill SPECIES
 
 #### Status
 ACCEPTED

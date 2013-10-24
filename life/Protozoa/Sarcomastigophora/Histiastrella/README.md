@@ -1,5 +1,4 @@
-Histiastrella Haeckel, 1887 GENUS
-=======
+# Histiastrella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrella weberbaueri Henn. SPECIES
-=======
+# Hypocrella weberbaueri Henn. SPECIES
 
 #### Status
 ACCEPTED

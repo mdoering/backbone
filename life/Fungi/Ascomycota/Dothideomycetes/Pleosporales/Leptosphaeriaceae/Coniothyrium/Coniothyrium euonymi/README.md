@@ -1,17 +1,16 @@
-Coniothyrium evonymi Bres. & Schmor. SPECIES
-=======
+# Coniothyrium euonymi Bres. & Schmor. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 26: (1934)
 
 #### Original name
-Coniothyrium evonymi Bres. & Schmor.
+Coniothyrium euonymi Bres. & Schmor.
 
 ### Remarks
 null

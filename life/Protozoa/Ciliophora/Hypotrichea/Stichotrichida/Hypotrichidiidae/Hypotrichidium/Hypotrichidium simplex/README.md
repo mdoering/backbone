@@ -1,8 +1,7 @@
-Peritromoides simplex Bhatia, 1936 SPECIES
-=======
+# Hypotrichidium simplex (Bhatia, 1936) Jankowski, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

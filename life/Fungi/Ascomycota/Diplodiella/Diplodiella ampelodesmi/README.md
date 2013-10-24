@@ -1,5 +1,4 @@
-Diplodiella ampelodesmi (Maire) Sacc. SPECIES
-=======
+# Diplodiella ampelodesmi (Maire) Sacc. SPECIES
 
 #### Status
 ACCEPTED

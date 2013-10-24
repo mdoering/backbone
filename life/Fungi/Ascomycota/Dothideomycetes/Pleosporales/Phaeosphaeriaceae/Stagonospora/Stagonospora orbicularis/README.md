@@ -1,5 +1,4 @@
-Stagonospora orbicularis Cooke SPECIES
-=======
+# Stagonospora orbicularis Cooke SPECIES
 
 #### Status
 ACCEPTED

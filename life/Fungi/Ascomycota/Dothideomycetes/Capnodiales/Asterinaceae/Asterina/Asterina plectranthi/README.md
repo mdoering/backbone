@@ -1,5 +1,4 @@
-Asterina plectranthi Hosag., Manojk. & H. Biju, 2005 SPECIES
-=======
+# Asterina plectranthi Hosag., Manojk. & H. Biju, 2005 SPECIES
 
 #### Status
 ACCEPTED

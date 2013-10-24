@@ -1,5 +1,4 @@
-Hygrophorus solifugus Feltgen SPECIES
-=======
+# Hygrophorus solifugus Feltgen SPECIES
 
 #### Status
 ACCEPTED

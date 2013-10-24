@@ -1,5 +1,4 @@
-Hygrocybe zonata S.A. Cantrell & Lodge SPECIES
-=======
+# Hygrocybe zonata S.A. Cantrell & Lodge SPECIES
 
 #### Status
 ACCEPTED

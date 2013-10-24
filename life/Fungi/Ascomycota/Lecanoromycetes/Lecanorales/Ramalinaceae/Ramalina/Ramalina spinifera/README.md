@@ -1,5 +1,4 @@
-Ramalina spinifera C.W. Dodge SPECIES
-=======
+# Ramalina spinifera C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialophoropsis litoralis Linder SPECIES
-=======
+# Phialophoropsis litoralis Linder SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia malloti Sacc. SPECIES
-=======
+# Ramularia malloti Sacc. SPECIES
 
 #### Status
 ACCEPTED

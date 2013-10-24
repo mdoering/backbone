@@ -1,5 +1,4 @@
-Boletinellus purpureus (Beeli) E.-J. Gilbert SPECIES
-=======
+# Boletinellus purpureus (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

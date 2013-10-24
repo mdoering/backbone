@@ -1,5 +1,4 @@
-Thalassiosira irregulata H. J. Schrader SPECIES
-=======
+# Thalassiosira irregulata H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

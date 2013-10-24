@@ -1,5 +1,4 @@
-Phacus pseudoswirenkoi Prescott SPECIES
-=======
+# Phacus pseudoswirenkoi Prescott SPECIES
 
 #### Status
 ACCEPTED

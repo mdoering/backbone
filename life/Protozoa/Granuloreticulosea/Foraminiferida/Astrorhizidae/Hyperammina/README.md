@@ -1,5 +1,4 @@
-Hyperammina Brady, 1878 GENUS
-=======
+# Hyperammina Brady, 1878 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Actinocyclus ovalis Grunow SPECIES
-=======
+# Actinocyclus roperii (de Brébisson) Grunow ex Van Heurck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

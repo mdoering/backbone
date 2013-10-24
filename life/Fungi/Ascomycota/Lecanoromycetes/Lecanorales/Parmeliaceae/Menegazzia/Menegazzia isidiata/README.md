@@ -1,5 +1,4 @@
-Menegazzia isidiata P. James, Aptroot, Sérus. & Diederich SPECIES
-=======
+# Menegazzia isidiata P. James, Aptroot, Sérus. & Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massaria crypta Fr. SPECIES
-=======
+# Massaria crypta Fr. SPECIES
 
 #### Status
 ACCEPTED

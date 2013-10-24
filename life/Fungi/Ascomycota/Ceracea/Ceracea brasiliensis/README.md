@@ -1,5 +1,4 @@
-Ceracea brasiliensis Rick SPECIES
-=======
+# Ceracea brasiliensis Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmidium fragariae-vestitae D.K. Agarwal, 2001 SPECIES
-=======
+# Phragmidium fragariae-vestitae D.K. Agarwal, 2001 SPECIES
 
 #### Status
 ACCEPTED

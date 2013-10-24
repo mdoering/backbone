@@ -1,5 +1,4 @@
-Entophysolites GENUS
-=======
+# Entophysolites GENUS
 
 #### Status
 ACCEPTED

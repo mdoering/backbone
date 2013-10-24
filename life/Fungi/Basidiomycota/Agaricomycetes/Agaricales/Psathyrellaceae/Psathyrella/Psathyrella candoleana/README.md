@@ -1,5 +1,4 @@
-Psathyrella candoleana (Fr.) A. H. Smith SPECIES
-=======
+# Psathyrella candoleana (Fr.) A. H. Smith SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria leontodontis A.L. Sm., 1916 SPECIES
-=======
+# Septoria leontodontis A.L. Sm., 1916 SPECIES
 
 #### Status
 ACCEPTED

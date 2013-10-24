@@ -1,17 +1,16 @@
-Collema tremelloides var. tremelloides VARIETY
-=======
+# Leptogium cochleatum (Dicks.) P. M. Jørg. & P. James SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. (1810)
+Lichenologist 15(2): 113 (1983)
 
 #### Original name
-Collema tremelloides var. tremelloides
+Lichen cochleatus J. Dicks.
 
 ### Remarks
 null

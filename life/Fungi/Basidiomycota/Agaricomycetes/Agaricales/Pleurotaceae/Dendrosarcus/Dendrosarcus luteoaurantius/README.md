@@ -1,5 +1,4 @@
-Dendrosarcus luteoaurantius (Kalchbr.) Kuntze SPECIES
-=======
+# Dendrosarcus luteoaurantius (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

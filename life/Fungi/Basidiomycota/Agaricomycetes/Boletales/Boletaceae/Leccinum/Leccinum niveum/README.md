@@ -1,5 +1,4 @@
-Leccinum niveum (Fr.) Rauschert SPECIES
-=======
+# Leccinum niveum (Fr.) Rauschert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum conchiforme Sacc. SPECIES
-=======
+# Hydnum conchiforme Sacc. SPECIES
 
 #### Status
 ACCEPTED

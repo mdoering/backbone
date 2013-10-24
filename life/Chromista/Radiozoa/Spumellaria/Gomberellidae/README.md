@@ -1,5 +1,4 @@
-Gomberellidae Kozur & Mostler, 1981 FAMILY
-=======
+# Gomberellidae Kozur & Mostler, 1981 FAMILY
 
 #### Status
 ACCEPTED

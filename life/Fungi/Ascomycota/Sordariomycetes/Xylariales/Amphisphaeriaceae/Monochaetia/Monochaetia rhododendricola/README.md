@@ -1,5 +1,4 @@
-Monochaetia rhododendricola Yoshii SPECIES
-=======
+# Monochaetia rhododendricola Yoshii SPECIES
 
 #### Status
 ACCEPTED

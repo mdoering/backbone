@@ -1,5 +1,4 @@
-Bulbomollisia striata Graddon, 1990 SPECIES
-=======
+# Bulbomollisia striata Graddon, 1990 SPECIES
 
 #### Status
 ACCEPTED

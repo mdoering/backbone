@@ -1,5 +1,4 @@
-Myriotrema microstomum (Müll. Arg.) Hale SPECIES
-=======
+# Myriotrema microstomum (Müll. Arg.) Hale SPECIES
 
 #### Status
 ACCEPTED

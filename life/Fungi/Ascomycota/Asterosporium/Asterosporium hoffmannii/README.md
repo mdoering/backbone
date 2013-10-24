@@ -1,17 +1,16 @@
-Asterosporium hoffmanii Kunze SPECIES
-=======
+# Asterosporium hoffmannii Kunze, 1819 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 1: 225 (1819)
 
 #### Original name
-Asterosporium hoffmanii Kunze
+Asterosporium hoffmannii Kunze, 1819
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aecidium withaniae Thüm. SPECIES
-=======
+# Aecidium withaniae Thüm. SPECIES
 
 #### Status
 ACCEPTED

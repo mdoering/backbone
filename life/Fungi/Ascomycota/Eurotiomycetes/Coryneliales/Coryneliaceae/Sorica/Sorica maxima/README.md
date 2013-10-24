@@ -1,5 +1,4 @@
-Sorica maxima (Berk. & M.A. Curtis) Giesenh. SPECIES
-=======
+# Sorica maxima (Berk. & M.A. Curtis) Giesenh. SPECIES
 
 #### Status
 ACCEPTED

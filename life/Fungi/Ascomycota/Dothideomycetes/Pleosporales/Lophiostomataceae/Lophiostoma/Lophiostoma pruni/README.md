@@ -1,5 +1,4 @@
-Lophiostoma pruni Ellis & Everh. SPECIES
-=======
+# Lophiostoma pruni Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

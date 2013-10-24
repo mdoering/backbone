@@ -1,5 +1,4 @@
-Amphisphaeria immersa Berl. & Voglino SPECIES
-=======
+# Amphisphaeria immersa Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

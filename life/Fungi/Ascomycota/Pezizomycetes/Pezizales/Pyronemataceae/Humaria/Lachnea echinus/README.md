@@ -1,5 +1,4 @@
-Lachnea echinus (Höhn.) Sacc. SPECIES
-=======
+# Lachnea echinus (Höhn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

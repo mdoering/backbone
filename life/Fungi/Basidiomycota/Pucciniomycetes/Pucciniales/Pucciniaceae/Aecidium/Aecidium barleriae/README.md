@@ -1,5 +1,4 @@
-Aecidium barleriae M.A. Salam & Ramachar SPECIES
-=======
+# Aecidium barleriae M.A. Salam & Ramachar SPECIES
 
 #### Status
 ACCEPTED

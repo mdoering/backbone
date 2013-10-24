@@ -1,5 +1,4 @@
-Psorothecium rufescens Hy SPECIES
-=======
+# Psorothecium rufescens Hy SPECIES
 
 #### Status
 ACCEPTED

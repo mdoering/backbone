@@ -1,5 +1,4 @@
-Cladonia siamea f. siamea FORM
-=======
+# Cladonia siamea Abbayes SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia siamea f. siamea
+Cladonia siamea Abbayes
 
 ### Remarks
 null

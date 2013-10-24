@@ -1,5 +1,4 @@
-Phoma hauderingii Died. SPECIES
-=======
+# Phoma hauderingii Died. SPECIES
 
 #### Status
 ACCEPTED

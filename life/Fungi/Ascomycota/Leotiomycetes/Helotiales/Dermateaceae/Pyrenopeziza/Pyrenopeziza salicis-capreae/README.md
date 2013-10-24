@@ -1,5 +1,4 @@
-Pyrenopeziza salicis-capreae Jaap SPECIES
-=======
+# Pyrenopeziza salicis-capreae Jaap SPECIES
 
 #### Status
 ACCEPTED

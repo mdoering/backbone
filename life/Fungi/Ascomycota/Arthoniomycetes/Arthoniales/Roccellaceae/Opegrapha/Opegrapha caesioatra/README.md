@@ -1,5 +1,4 @@
-Opegrapha caesioatra J. Steiner SPECIES
-=======
+# Opegrapha caesioatra J. Steiner SPECIES
 
 #### Status
 ACCEPTED

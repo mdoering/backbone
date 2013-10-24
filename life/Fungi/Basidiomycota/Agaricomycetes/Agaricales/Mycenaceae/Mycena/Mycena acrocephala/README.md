@@ -1,5 +1,4 @@
-Mycena acrocephala Maas Geest. & E. Horak SPECIES
-=======
+# Mycena acrocephala Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora oryzae Catt. SPECIES
-=======
+# Pleospora oryzae Catt. SPECIES
 
 #### Status
 ACCEPTED

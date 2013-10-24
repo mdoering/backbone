@@ -1,5 +1,4 @@
-Marasmius ater Singer SPECIES
-=======
+# Marasmius ater Singer SPECIES
 
 #### Status
 ACCEPTED

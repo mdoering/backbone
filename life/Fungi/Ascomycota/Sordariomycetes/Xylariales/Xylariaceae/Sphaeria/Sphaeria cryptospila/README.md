@@ -1,5 +1,4 @@
-Sphaeria cryptospila Berk. SPECIES
-=======
+# Sphaeria cryptospila Berk. SPECIES
 
 #### Status
 ACCEPTED

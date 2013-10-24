@@ -1,14 +1,13 @@
-Heppia rodriguesii Cromb. SPECIES
-=======
+# Peltula rodriguesii (Cromb.) Büdel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 21(3): 293 (1989)
 
 #### Original name
 Heppia rodriguesii Cromb.

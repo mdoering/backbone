@@ -1,17 +1,16 @@
-Rinodina coniopta (Nyl.) Hav. SPECIES
-=======
+# Rinodina luridescens (Anzi) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bergens Mus. Aarbog, Naturv. raekke 1(no. 2): 38 (1918)
+Flora, Jena 55: 39 (1872)
 
 #### Original name
-Lecanora coniopta Nyl.
+Buellia luridescens Anzi
 
 ### Remarks
 null

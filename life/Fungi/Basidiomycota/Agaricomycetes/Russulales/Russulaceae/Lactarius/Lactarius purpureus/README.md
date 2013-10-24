@@ -1,5 +1,4 @@
-Lactarius purpureus R. Heim SPECIES
-=======
+# Lactarius purpureus R. Heim SPECIES
 
 #### Status
 ACCEPTED

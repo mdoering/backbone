@@ -1,5 +1,4 @@
-Puccinia gamocarphae (Klotzsch) Henn. SPECIES
-=======
+# Puccinia gamocarphae (Klotzsch) Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalectidium setiferum Vezda & Sérus. SPECIES
-=======
+# Gyalectidium setiferum Vezda & Sérus. SPECIES
 
 #### Status
 ACCEPTED

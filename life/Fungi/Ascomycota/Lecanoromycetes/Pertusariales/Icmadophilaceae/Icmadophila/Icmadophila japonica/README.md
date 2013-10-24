@@ -1,5 +1,4 @@
-Icmadophila japonica (Zahlbr.) Rambold & Hertel SPECIES
-=======
+# Icmadophila japonica (Zahlbr.) Rambold & Hertel SPECIES
 
 #### Status
 ACCEPTED

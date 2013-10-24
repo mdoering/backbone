@@ -1,5 +1,4 @@
-Navicella pruni (Ellis & Everh.) Kuntze SPECIES
-=======
+# Navicella pruni (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

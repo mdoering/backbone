@@ -1,5 +1,4 @@
-Polycoccum decolorans Calat. & Triebel SPECIES
-=======
+# Polycoccum decolorans Calat. & Triebel SPECIES
 
 #### Status
 ACCEPTED

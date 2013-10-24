@@ -1,5 +1,4 @@
-Omphalaria veronensis A. Massal. SPECIES
-=======
+# Omphalaria veronensis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

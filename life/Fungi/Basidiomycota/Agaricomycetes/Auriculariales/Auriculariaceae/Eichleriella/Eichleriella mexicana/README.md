@@ -1,5 +1,4 @@
-Eichleriella mexicana Burt SPECIES
-=======
+# Eichleriella mexicana Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sinorhizobium morelense Wang et al., 2002 SPECIES
-=======
+# Sinorhizobium morelense Wang et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

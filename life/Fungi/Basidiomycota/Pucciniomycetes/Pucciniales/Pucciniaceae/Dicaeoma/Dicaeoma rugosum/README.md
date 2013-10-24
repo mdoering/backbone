@@ -1,5 +1,4 @@
-Dicaeoma rugosum (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma rugosum (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria jubaeae Speg. SPECIES
-=======
+# Leptosphaeria jubaeae Speg. SPECIES
 
 #### Status
 ACCEPTED

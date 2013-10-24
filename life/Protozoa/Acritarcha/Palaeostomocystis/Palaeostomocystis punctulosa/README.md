@@ -1,5 +1,4 @@
-Palaeostomocystis punctulosa Deflandre, 1941 SPECIES
-=======
+# Palaeostomocystis punctulosa Deflandre, 1941 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium cymmartinii A.P. Misra SPECIES
-=======
+# Helminthosporium cymmartinii A.P. Misra SPECIES
 
 #### Status
 ACCEPTED

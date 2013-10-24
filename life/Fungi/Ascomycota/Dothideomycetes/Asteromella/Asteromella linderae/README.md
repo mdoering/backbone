@@ -1,5 +1,4 @@
-Asteromella linderae (Ellis & Everh.) Aa & Vanev SPECIES
-=======
+# Asteromella linderae (Ellis & Everh.) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

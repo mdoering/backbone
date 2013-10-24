@@ -1,5 +1,4 @@
-Lenzites cobelliana Sacc. SPECIES
-=======
+# Lenzites cobelliana Sacc. SPECIES
 
 #### Status
 ACCEPTED

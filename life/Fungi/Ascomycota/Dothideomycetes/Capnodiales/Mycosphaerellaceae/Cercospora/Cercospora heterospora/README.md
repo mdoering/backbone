@@ -1,5 +1,4 @@
-Cercospora heterospora Ellis & Everh. SPECIES
-=======
+# Cercospora heterospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella carpathorossica Velen. SPECIES
-=======
+# Pezizella carpathorossica Velen. SPECIES
 
 #### Status
 ACCEPTED

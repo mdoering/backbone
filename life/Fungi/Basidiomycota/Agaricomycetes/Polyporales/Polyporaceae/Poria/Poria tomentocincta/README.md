@@ -1,5 +1,4 @@
-Poria tomentocincta Berk. & Ravenel ex Cooke SPECIES
-=======
+# Poria tomentocincta Berk. & Ravenel ex Cooke SPECIES
 
 #### Status
 ACCEPTED

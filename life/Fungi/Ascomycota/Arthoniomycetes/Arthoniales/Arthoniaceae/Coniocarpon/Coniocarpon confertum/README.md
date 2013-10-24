@@ -1,5 +1,4 @@
-Coniocarpon confertum Fée SPECIES
-=======
+# Coniocarpon confertum Fée SPECIES
 
 #### Status
 ACCEPTED

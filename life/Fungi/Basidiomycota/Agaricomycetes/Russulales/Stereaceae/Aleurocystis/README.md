@@ -1,5 +1,4 @@
-Aleurocystis Lloyd ex G. Cunn. GENUS
-=======
+# Aleurocystis Lloyd ex G. Cunn. GENUS
 
 #### Status
 ACCEPTED

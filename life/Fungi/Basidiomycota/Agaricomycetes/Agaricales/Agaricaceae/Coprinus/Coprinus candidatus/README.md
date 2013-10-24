@@ -1,5 +1,4 @@
-Coprinus candidatus Uljé SPECIES
-=======
+# Coprinus candidatus Uljé SPECIES
 
 #### Status
 ACCEPTED

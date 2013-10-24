@@ -1,5 +1,4 @@
-Ceratolithus primus Bukry & Percival, 1971 SPECIES
-=======
+# Ceratolithus primus Bukry & Percival, 1971 SPECIES
 
 #### Status
 ACCEPTED

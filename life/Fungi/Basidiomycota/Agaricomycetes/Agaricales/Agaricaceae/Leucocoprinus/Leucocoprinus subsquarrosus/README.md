@@ -1,5 +1,4 @@
-Leucocoprinus subsquarrosus Locq. SPECIES
-=======
+# Leucocoprinus subsquarrosus Locq. SPECIES
 
 #### Status
 ACCEPTED

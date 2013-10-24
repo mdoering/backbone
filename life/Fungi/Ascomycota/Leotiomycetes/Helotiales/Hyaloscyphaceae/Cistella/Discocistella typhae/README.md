@@ -1,5 +1,4 @@
-Discocistella typhae Svrcek SPECIES
-=======
+# Discocistella typhae Svrcek SPECIES
 
 #### Status
 ACCEPTED

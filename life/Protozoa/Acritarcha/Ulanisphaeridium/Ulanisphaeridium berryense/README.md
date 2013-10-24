@@ -1,5 +1,4 @@
-Ulanisphaeridium berryense McMinn, 1982 SPECIES
-=======
+# Ulanisphaeridium berryense McMinn, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endogone lanata Harkn. SPECIES
-=======
+# Endogone lanata Harkn. SPECIES
 
 #### Status
 ACCEPTED

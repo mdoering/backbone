@@ -1,5 +1,4 @@
-Epistominoides Plummer, 1934 GENUS
-=======
+# Epistominoides Plummer, 1934 GENUS
 
 #### Status
 ACCEPTED

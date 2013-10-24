@@ -1,14 +1,13 @@
-Torula convolvuli Esfand., 1951 SPECIES
-=======
+# Pseudotaeniolina convolvuli (Esfand.) J.L. Crane & Schokn., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 5: 370 (1951)
+Mycologia 78(1): 88 (1986)
 
 #### Original name
 Torula convolvuli Esfand., 1951

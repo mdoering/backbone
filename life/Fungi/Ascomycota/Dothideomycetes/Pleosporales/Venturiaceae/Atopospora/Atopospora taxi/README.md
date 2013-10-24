@@ -1,5 +1,4 @@
-Atopospora taxi (Woron.) E. Müll. SPECIES
-=======
+# Atopospora taxi (Woron.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nonomuraea salmonea (Preobrazhenskaya et al., 1975) Zhang et al., 1998 SPECIES
-=======
+# Nonomuraea salmonea (Preobrazhenskaya et al., 1975) Zhang et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

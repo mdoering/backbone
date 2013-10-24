@@ -1,5 +1,4 @@
-Lactifluus squalidus (Krombh.) Kuntze SPECIES
-=======
+# Lactifluus squalidus (Krombh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

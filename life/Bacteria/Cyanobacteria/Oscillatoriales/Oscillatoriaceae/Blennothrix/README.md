@@ -1,5 +1,4 @@
-Blennothrix Kützing ex Anagnostidis & Komárek, 1988 GENUS
-=======
+# Blennothrix Kützing ex Anagnostidis & Komárek, 1988 GENUS
 
 #### Status
 ACCEPTED

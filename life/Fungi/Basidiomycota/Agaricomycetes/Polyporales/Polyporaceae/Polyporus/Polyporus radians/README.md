@@ -1,5 +1,4 @@
-Polyporus radians Lloyd SPECIES
-=======
+# Polyporus radians Lloyd SPECIES
 
 #### Status
 ACCEPTED

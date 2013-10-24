@@ -1,8 +1,7 @@
-Gregarina bonelliae Frenzel, 1885 SPECIES
-=======
+# Ophioidina bonelliae (Frenzel, 1885) Labbé, 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Taphrina fagicola K. Tanaka SPECIES
-=======
+# Taphrina fagicola K. Tanaka SPECIES
 
 #### Status
 ACCEPTED

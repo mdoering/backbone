@@ -1,5 +1,4 @@
-Helminthocarpon columbianum (Nyl.) Zahlbr. SPECIES
-=======
+# Helminthocarpon columbianum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

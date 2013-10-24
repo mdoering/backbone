@@ -1,5 +1,4 @@
-Mycena juniana Velen. SPECIES
-=======
+# Mycena juniana Velen. SPECIES
 
 #### Status
 ACCEPTED

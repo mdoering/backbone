@@ -1,5 +1,4 @@
-Caloplaca borealis var. borealis VARIETY
-=======
+# Caloplaca borealis (Vain.) Poelt SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca borealis var. borealis
+Lecanora pyracea f. borealis Vain.
 
 ### Remarks
 null

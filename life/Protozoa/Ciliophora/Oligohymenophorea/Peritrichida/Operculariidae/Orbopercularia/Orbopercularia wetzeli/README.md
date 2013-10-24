@@ -1,8 +1,7 @@
-Toxopercularia wetzeli (Lust, 1950) Jankowski, 1980 SPECIES
-=======
+# Orbopercularia wetzeli Lust, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

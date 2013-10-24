@@ -1,5 +1,4 @@
-Septoria lespedezae Ellis & Everh. SPECIES
-=======
+# Septoria lespedezae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

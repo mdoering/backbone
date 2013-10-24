@@ -1,5 +1,4 @@
-Bactrodesmium Cooke GENUS
-=======
+# Bactrodesmium Cooke GENUS
 
 #### Status
 ACCEPTED

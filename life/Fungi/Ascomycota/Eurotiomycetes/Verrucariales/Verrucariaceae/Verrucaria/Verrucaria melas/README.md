@@ -1,5 +1,4 @@
-Verrucaria melas Herre SPECIES
-=======
+# Verrucaria melas Herre SPECIES
 
 #### Status
 ACCEPTED

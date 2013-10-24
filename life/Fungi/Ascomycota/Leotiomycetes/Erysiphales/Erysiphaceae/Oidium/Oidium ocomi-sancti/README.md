@@ -1,17 +1,16 @@
-Oidium ocomi-sanctum Puzari, A.K. Sarbhoy, N. Ahmad & D.K. Agarwal SPECIES
-=======
+# Oidium ocomi-sancti Puzari, A.K. Sarbhoy, N. Ahmad & D.K. Agarwal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 59(1): 75 (2006)
 
 #### Original name
-Oidium ocomi-sanctum Puzari, A.K. Sarbhoy, N. Ahmad & D.K. Agarwal
+Oidium ocomi-sancti Puzari, A.K. Sarbhoy, N. Ahmad & D.K. Agarwal
 
 ### Remarks
 null

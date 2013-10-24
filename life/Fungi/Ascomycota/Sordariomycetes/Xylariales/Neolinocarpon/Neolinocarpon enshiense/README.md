@@ -1,17 +1,16 @@
-Neolinocarpon enshiensis K.D. Hyde, Joanne E. Taylor & J. Fröhl. SPECIES
-=======
+# Neolinocarpon enshiense K.D. Hyde, Joanne E. Taylor & J. Fröhl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungal Diversity 1: 122 (1998)
 
 #### Original name
-Neolinocarpon enshiensis K.D. Hyde, Joanne E. Taylor & J. Fröhl.
+Neolinocarpon enshiense K.D. Hyde, Joanne E. Taylor & J. Fröhl.
 
 ### Remarks
 null

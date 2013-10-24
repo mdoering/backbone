@@ -1,5 +1,4 @@
-Mycosphaerella capsellae A.J. Inman & Sivan., 1991 SPECIES
-=======
+# Mycosphaerella capsellae A.J. Inman & Sivan., 1991 SPECIES
 
 #### Status
 ACCEPTED

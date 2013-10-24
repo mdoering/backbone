@@ -1,5 +1,4 @@
-Triceratium amblyoceros Ehrenberg SPECIES
-=======
+# Triceratium amblyoceros Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

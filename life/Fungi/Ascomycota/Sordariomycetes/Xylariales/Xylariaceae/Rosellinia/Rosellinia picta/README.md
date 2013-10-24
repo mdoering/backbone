@@ -1,5 +1,4 @@
-Rosellinia picta (Berk.) Cooke SPECIES
-=======
+# Rosellinia picta (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

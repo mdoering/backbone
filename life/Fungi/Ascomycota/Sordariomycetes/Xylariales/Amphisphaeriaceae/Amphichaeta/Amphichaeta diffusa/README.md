@@ -1,5 +1,4 @@
-Amphichaeta diffusa Bat. SPECIES
-=======
+# Amphichaeta diffusa Bat. SPECIES
 
 #### Status
 ACCEPTED

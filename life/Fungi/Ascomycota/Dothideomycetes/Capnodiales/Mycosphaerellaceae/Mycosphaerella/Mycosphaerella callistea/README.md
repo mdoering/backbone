@@ -1,5 +1,4 @@
-Mycosphaerella callistea (Syd. & P. Syd.) Rehm SPECIES
-=======
+# Mycosphaerella callistea (Syd. & P. Syd.) Rehm SPECIES
 
 #### Status
 ACCEPTED

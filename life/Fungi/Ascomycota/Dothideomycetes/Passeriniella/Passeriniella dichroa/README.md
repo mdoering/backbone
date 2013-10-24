@@ -1,5 +1,4 @@
-Passeriniella dichroa (Pass.) Berl. SPECIES
-=======
+# Passeriniella dichroa (Pass.) Berl. SPECIES
 
 #### Status
 ACCEPTED

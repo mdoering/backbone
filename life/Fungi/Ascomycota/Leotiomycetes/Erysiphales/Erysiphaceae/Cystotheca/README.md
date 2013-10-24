@@ -1,17 +1,16 @@
-Lanomyces Gäum. GENUS
-=======
+# Cystotheca Berk. & M.A. Curtis GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Jard. Bot. Buitenzorg 32: 46 (1922)
+Proc. Amer. Acad. Arts & Sci. 4: 130 (1860)
 
 #### Original name
-Lanomyces Gäum.
+Cystotheca Berk. & M.A. Curtis
 
 ### Remarks
 null

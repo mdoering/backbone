@@ -1,5 +1,4 @@
-Parmelia scottii Vain. SPECIES
-=======
+# Parmelia scottii Vain. SPECIES
 
 #### Status
 ACCEPTED

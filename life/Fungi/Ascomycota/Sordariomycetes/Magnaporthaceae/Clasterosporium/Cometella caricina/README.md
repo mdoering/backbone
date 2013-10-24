@@ -1,5 +1,4 @@
-Cometella caricina (Fr.) Fr. SPECIES
-=======
+# Cometella caricina (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

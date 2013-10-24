@@ -1,5 +1,4 @@
-Arthrocladia J.E. Duby, 1830 GENUS
-=======
+# Arthrocladia J.E. Duby, 1830 GENUS
 
 #### Status
 ACCEPTED

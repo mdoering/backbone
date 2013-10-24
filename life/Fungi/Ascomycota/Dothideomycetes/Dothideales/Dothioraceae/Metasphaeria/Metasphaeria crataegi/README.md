@@ -1,5 +1,4 @@
-Metasphaeria crataegi F. Lamb. & Fautrey SPECIES
-=======
+# Metasphaeria crataegi F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

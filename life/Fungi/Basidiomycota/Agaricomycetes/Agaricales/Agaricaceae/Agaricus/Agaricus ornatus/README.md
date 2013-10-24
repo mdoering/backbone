@@ -1,5 +1,4 @@
-Agaricus ornatus Fr. SPECIES
-=======
+# Agaricus ornatus Fr. SPECIES
 
 #### Status
 ACCEPTED

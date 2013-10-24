@@ -1,5 +1,4 @@
-Bullaria vacua (Dietel & Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria vacua (Dietel & Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

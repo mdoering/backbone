@@ -1,5 +1,4 @@
-Talaromyces subinflatus Yaguchi & Udagawa, 1993 SPECIES
-=======
+# Talaromyces subinflatus Yaguchi & Udagawa, 1993 SPECIES
 
 #### Status
 ACCEPTED

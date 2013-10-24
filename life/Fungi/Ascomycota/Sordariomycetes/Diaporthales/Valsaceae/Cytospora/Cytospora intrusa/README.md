@@ -1,5 +1,4 @@
-Cytospora intrusa Dobrozr. SPECIES
-=======
+# Cytospora intrusa Dobrozr. SPECIES
 
 #### Status
 ACCEPTED

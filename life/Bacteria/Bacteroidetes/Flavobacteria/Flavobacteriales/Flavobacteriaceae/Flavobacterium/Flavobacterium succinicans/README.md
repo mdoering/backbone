@@ -1,11 +1,10 @@
-Flexibacter succinicans (Anderson & Ordal, 1961) Leadbetter, 1974 SPECIES
-=======
+# Flavobacterium succinicans (Reichenbach, 1989) Bernardet et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

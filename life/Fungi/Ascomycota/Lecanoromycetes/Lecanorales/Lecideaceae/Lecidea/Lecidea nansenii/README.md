@@ -1,5 +1,4 @@
-Lecidea nansenii Lynge SPECIES
-=======
+# Lecidea nansenii Lynge SPECIES
 
 #### Status
 ACCEPTED

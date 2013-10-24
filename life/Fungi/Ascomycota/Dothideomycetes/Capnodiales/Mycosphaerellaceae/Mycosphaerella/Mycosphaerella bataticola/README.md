@@ -1,5 +1,4 @@
-Mycosphaerella bataticola Khokhr. & Dyur. SPECIES
-=======
+# Mycosphaerella bataticola Khokhr. & Dyur. SPECIES
 
 #### Status
 ACCEPTED

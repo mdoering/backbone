@@ -1,5 +1,4 @@
-Pertusaria xanthodactylina A. W. Archer & Elix SPECIES
-=======
+# Pertusaria xanthodactylina A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

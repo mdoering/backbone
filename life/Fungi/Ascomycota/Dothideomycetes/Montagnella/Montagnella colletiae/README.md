@@ -1,5 +1,4 @@
-Montagnella colletiae Henn. & Lind SPECIES
-=======
+# Montagnella colletiae Henn. & Lind SPECIES
 
 #### Status
 ACCEPTED

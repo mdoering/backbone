@@ -1,5 +1,4 @@
-Cercosporella ontariensis Sacc. SPECIES
-=======
+# Cercosporella ontariensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

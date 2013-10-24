@@ -1,14 +1,13 @@
-Cintractia cyperi G.P. Clinton, 1904 SPECIES
-=======
+# Ustanciosporium cyperi (G.P. Clinton) M. Piepenbr., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Boston Soc. nat. Hist. 31(9): 400 (1904)
+Nova Hedwigia 70(3-4): 335 (2000)
 
 #### Original name
 Cintractia cyperi G.P. Clinton, 1904

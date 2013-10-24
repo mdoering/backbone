@@ -1,5 +1,4 @@
-Nummularia parvula Torrend SPECIES
-=======
+# Nummularia parvula Torrend SPECIES
 
 #### Status
 ACCEPTED

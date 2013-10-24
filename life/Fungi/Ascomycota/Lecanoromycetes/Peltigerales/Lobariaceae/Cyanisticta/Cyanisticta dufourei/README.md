@@ -1,5 +1,4 @@
-Cyanisticta dufourei SPECIES
-=======
+# Cyanisticta dufourei SPECIES
 
 #### Status
 ACCEPTED

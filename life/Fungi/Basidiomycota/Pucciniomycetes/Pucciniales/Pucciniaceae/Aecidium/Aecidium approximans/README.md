@@ -1,5 +1,4 @@
-Aecidium approximans J.C. Lindq. SPECIES
-=======
+# Aecidium approximans J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

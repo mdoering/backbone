@@ -1,5 +1,4 @@
-Clypeus duella Britzelm. SPECIES
-=======
+# Clypeus duella Britzelm. SPECIES
 
 #### Status
 ACCEPTED

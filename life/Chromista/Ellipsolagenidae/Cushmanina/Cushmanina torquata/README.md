@@ -1,5 +1,4 @@
-Cushmanina torquata (Brady, 1881) SPECIES
-=======
+# Cushmanina torquata (Brady, 1881) SPECIES
 
 #### Status
 ACCEPTED

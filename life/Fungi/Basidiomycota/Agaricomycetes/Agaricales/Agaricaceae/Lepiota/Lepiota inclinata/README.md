@@ -1,5 +1,4 @@
-Lepiota inclinata Rick SPECIES
-=======
+# Lepiota inclinata Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia cafii Thaxt., 1902 SPECIES
-=======
+# Laboulbenia cafii Thaxt., 1902 SPECIES
 
 #### Status
 ACCEPTED

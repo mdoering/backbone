@@ -1,5 +1,4 @@
-Lomaantha Subram. GENUS
-=======
+# Lomaantha Subram. GENUS
 
 #### Status
 ACCEPTED

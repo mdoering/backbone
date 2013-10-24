@@ -1,5 +1,4 @@
-Rosellinia mangiferae Syd. SPECIES
-=======
+# Rosellinia mangiferae Syd. SPECIES
 
 #### Status
 ACCEPTED

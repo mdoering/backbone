@@ -1,5 +1,4 @@
-Coprinus disseminatoides Kühner SPECIES
-=======
+# Coprinus disseminatoides Kühner SPECIES
 
 #### Status
 ACCEPTED

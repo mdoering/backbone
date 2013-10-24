@@ -1,17 +1,16 @@
-Septoria chamaecisti Vestergr. SPECIES
-=======
+# Septoria chamaecysti Vestergr., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 22(no. 6): 24 (1896)
 
 #### Original name
-Septoria chamaecisti Vestergr.
+Septoria chamaecysti Vestergr., 1896
 
 ### Remarks
 null

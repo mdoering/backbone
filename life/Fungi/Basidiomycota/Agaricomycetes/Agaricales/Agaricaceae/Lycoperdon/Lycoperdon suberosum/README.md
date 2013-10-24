@@ -1,5 +1,4 @@
-Lycoperdon suberosum (Fr.) Bonord. SPECIES
-=======
+# Lycoperdon suberosum (Fr.) Bonord. SPECIES
 
 #### Status
 ACCEPTED

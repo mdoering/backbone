@@ -1,5 +1,4 @@
-Rinodina lignaria H. Magn. SPECIES
-=======
+# Rinodina lignaria H. Magn. SPECIES
 
 #### Status
 ACCEPTED

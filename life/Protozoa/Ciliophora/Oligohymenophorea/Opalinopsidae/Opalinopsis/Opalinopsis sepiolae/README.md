@@ -1,5 +1,4 @@
-Opalinopsis sepiolae Foettinger, 1881 SPECIES
-=======
+# Opalinopsis sepiolae Foettinger, 1881 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus rhinarius Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus rhinarius Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corneroporus Hattori GENUS
-=======
+# Corneroporus Hattori GENUS
 
 #### Status
 ACCEPTED

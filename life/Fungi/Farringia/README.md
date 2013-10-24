@@ -1,5 +1,4 @@
-Farringia Stafleu GENUS
-=======
+# Farringia Stafleu GENUS
 
 #### Status
 ACCEPTED

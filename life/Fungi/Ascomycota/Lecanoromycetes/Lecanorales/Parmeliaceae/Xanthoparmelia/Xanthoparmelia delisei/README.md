@@ -1,17 +1,16 @@
-Parmelia delisei f. delisei FORM
-=======
+# Xanthoparmelia delisei (Duby) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 55: 426 (1872)
+null
 
 #### Original name
-Parmelia olivacea var. delisei Duby
+null
 
 ### Remarks
 null

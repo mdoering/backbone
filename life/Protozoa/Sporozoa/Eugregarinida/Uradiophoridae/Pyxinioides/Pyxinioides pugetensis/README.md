@@ -1,5 +1,4 @@
-Pyxinioides pugetensis Henry, 1938 SPECIES
-=======
+# Pyxinioides pugetensis Henry, 1938 SPECIES
 
 #### Status
 ACCEPTED

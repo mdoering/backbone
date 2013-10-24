@@ -1,5 +1,4 @@
-Isaria kunitatiensis Kobayasi SPECIES
-=======
+# Isaria kunitatiensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

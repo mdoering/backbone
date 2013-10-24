@@ -1,5 +1,4 @@
-Tandonina Garg & Singh, 1986 GENUS
-=======
+# Tandonina Garg & Singh, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopus moseri Antonín & Noordel. SPECIES
-=======
+# Gymnopus moseri Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED

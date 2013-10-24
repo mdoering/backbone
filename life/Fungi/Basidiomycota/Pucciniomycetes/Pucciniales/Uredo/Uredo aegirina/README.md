@@ -1,5 +1,4 @@
-Uredo aegirina SPECIES
-=======
+# Uredo aegirina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceuthospora mahoniae Grove, 1918 SPECIES
-=======
+# Ceuthospora mahoniae Grove, 1918 SPECIES
 
 #### Status
 ACCEPTED

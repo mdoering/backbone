@@ -1,17 +1,16 @@
-Asteromella ulmi Boerema, 2003 SPECIES
-=======
+# Asteromella bellunensis (Martelli) Boerema & Dorenb., 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 18(2): 159 (2003)
+Annls mycol. 397 (1932)
 
 #### Original name
-Phyllosticta bellunensis Martelli, 1888
+Asteromella bellunensis (Martelli) Boerema & Dorenb., 1973
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus allochrous Pers. SPECIES
-=======
+# Agaricus allochrous Pers. SPECIES
 
 #### Status
 ACCEPTED

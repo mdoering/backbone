@@ -1,5 +1,4 @@
-Aspergillus ambiguus Sappa, 1955 SPECIES
-=======
+# Aspergillus ambiguus Sappa, 1955 SPECIES
 
 #### Status
 ACCEPTED

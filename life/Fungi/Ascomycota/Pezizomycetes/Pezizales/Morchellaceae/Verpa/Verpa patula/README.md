@@ -1,5 +1,4 @@
-Verpa patula Fr. SPECIES
-=======
+# Verpa patula Fr. SPECIES
 
 #### Status
 ACCEPTED

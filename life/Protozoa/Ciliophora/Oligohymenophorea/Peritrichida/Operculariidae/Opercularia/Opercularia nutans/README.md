@@ -1,5 +1,4 @@
-Opercularia nutans (Ehrenberg, 1831) Stein, 1854 SPECIES
-=======
+# Opercularia nutans (Ehrenberg, 1831) Stein, 1854 SPECIES
 
 #### Status
 ACCEPTED

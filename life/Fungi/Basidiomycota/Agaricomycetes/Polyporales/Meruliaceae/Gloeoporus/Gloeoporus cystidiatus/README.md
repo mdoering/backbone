@@ -1,5 +1,4 @@
-Gloeoporus cystidiatus Ryvarden, 1987 SPECIES
-=======
+# Gloeoporus cystidiatus Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED

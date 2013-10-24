@@ -1,5 +1,4 @@
-Helotium buccinula Speg. SPECIES
-=======
+# Helotium buccinula Speg. SPECIES
 
 #### Status
 ACCEPTED

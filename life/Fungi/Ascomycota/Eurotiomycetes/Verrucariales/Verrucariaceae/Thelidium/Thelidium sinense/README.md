@@ -1,5 +1,4 @@
-Thelidium sinense H. Harada & Li S. Wang SPECIES
-=======
+# Thelidium sinense H. Harada & Li S. Wang SPECIES
 
 #### Status
 ACCEPTED

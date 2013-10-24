@@ -1,5 +1,4 @@
-Sericeomyces eriphaeus (Berk. & Broome) Singer SPECIES
-=======
+# Sericeomyces eriphaeus (Berk. & Broome) Singer SPECIES
 
 #### Status
 ACCEPTED

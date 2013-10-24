@@ -1,5 +1,4 @@
-Pertusaria allogibberosa A.W. Archer & Elix SPECIES
-=======
+# Pertusaria allogibberosa A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

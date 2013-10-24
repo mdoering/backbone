@@ -1,5 +1,4 @@
-Chaetocypha fulva (Berk. & Ravenel) Kuntze SPECIES
-=======
+# Chaetocypha fulva (Berk. & Ravenel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

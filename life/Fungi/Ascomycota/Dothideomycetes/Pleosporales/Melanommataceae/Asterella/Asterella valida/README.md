@@ -1,5 +1,4 @@
-Asterella valida Speg. SPECIES
-=======
+# Asterella valida Speg. SPECIES
 
 #### Status
 ACCEPTED

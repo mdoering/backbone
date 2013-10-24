@@ -1,5 +1,4 @@
-Gymnopus obesus (Batsch) Gray SPECIES
-=======
+# Gymnopus obesus (Batsch) Gray SPECIES
 
 #### Status
 ACCEPTED

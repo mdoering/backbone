@@ -1,5 +1,4 @@
-Leiosphaeridia laminarita (Timofeev, 1966) Jankauskas in Jankauskas et al. SPECIES
-=======
+# Leiosphaeridia laminarita (Timofeev, 1966) Jankauskas in Jankauskas et al. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerella fibrillosa Hauskn., 2002 SPECIES
-=======
+# Galerella fibrillosa Hauskn., 2002 SPECIES
 
 #### Status
 ACCEPTED

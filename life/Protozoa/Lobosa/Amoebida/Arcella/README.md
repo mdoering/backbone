@@ -1,5 +1,4 @@
-Arcella Ehrenberg, 1838 GENUS
-=======
+# Arcella Ehrenberg, 1838 GENUS
 
 #### Status
 ACCEPTED

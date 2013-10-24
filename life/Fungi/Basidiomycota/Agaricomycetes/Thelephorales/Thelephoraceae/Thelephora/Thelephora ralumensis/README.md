@@ -1,5 +1,4 @@
-Thelephora ralumensis Henn. SPECIES
-=======
+# Thelephora ralumensis Henn. SPECIES
 
 #### Status
 ACCEPTED

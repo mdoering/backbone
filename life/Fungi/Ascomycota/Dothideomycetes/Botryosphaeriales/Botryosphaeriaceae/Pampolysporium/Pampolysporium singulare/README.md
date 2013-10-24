@@ -1,5 +1,4 @@
-Pampolysporium singulare Magnus SPECIES
-=======
+# Pampolysporium singulare Magnus SPECIES
 
 #### Status
 ACCEPTED

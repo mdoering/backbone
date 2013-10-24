@@ -1,5 +1,4 @@
-Nocardia crassostreae Friedman et al., 1998 SPECIES
-=======
+# Nocardia crassostreae Friedman et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

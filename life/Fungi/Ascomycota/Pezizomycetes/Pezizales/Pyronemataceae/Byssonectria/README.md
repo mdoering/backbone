@@ -1,17 +1,16 @@
-Pseudocollema Kanouse & A.H. Sm. GENUS
-=======
+# Byssonectria P. Karsten, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycologia 32(6): 758 (1940)
+null
 
 #### Original name
-Pseudocollema Kanouse & A.H. Sm.
+null
 
 ### Remarks
 null

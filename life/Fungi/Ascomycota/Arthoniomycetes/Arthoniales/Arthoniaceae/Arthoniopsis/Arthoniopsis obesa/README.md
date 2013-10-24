@@ -1,5 +1,4 @@
-Arthoniopsis obesa Müll. Arg. SPECIES
-=======
+# Arthoniopsis obesa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

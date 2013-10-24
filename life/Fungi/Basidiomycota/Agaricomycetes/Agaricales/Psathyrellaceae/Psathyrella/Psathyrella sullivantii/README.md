@@ -1,5 +1,4 @@
-Psathyrella sullivantii (Mont.) Guzmán SPECIES
-=======
+# Psathyrella sullivantii (Mont.) Guzmán SPECIES
 
 #### Status
 ACCEPTED

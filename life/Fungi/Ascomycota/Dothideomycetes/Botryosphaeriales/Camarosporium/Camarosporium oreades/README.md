@@ -1,14 +1,13 @@
-Hendersonia oreades Durieu & Mont., 1846 SPECIES
-=======
+# Camarosporium oreades (Durieu & Mont.) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Taiwan Sug. Exp. Stn 1: 571 (1846)
+Syll. fung. (Abellini) 3: 466 (1884)
 
 #### Original name
 Hendersonia oreades Durieu & Mont., 1846

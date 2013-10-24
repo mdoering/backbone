@@ -1,5 +1,4 @@
-Macrophoma janiphae (Thüm.) Berl. & Voglino SPECIES
-=======
+# Macrophoma janiphae (Thüm.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

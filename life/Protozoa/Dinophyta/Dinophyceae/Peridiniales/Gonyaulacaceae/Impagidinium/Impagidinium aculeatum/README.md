@@ -1,5 +1,4 @@
-Impagidinium aculeatum (D. Wall, 1967) Lentin & G.L. Williams, 1981 SPECIES
-=======
+# Impagidinium aculeatum (D. Wall, 1967) Lentin & G.L. Williams, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wadeana minuta Coppins & P. James SPECIES
-=======
+# Wadeana minuta Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

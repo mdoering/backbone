@@ -1,5 +1,4 @@
-Spiniferodinium galeiforme T. Horiguchi & M. Chihara SPECIES
-=======
+# Spiniferodinium galeiforme T. Horiguchi & M. Chihara SPECIES
 
 #### Status
 ACCEPTED

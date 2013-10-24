@@ -1,5 +1,4 @@
-Caeoma atacamense Syd. SPECIES
-=======
+# Caeoma atacamense Syd. SPECIES
 
 #### Status
 ACCEPTED

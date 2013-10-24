@@ -1,5 +1,4 @@
-Pterospermopsimorpha pileiformis Timofeev, 1966 SPECIES
-=======
+# Pterospermopsimorpha pileiformis Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

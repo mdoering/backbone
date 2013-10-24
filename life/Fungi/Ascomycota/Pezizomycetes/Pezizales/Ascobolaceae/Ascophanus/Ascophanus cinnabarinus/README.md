@@ -1,5 +1,4 @@
-Ascophanus cinnabarinus Speg. SPECIES
-=======
+# Ascophanus cinnabarinus Speg. SPECIES
 
 #### Status
 ACCEPTED

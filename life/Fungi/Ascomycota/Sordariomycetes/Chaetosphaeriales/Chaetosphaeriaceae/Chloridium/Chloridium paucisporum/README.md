@@ -1,5 +1,4 @@
-Chloridium paucisporum C.J.K. Wang & H.E. Wilcox, 1986 SPECIES
-=======
+# Chloridium paucisporum C.J.K. Wang & H.E. Wilcox, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylosphaera coccophora (Mont.) Dennis SPECIES
-=======
+# Xylosphaera coccophora (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

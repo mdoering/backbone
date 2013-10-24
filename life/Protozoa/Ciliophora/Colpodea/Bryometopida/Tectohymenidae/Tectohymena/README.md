@@ -1,5 +1,4 @@
-Tectohymena Foissner, 1993 GENUS
-=======
+# Tectohymena Foissner, 1993 GENUS
 
 #### Status
 ACCEPTED

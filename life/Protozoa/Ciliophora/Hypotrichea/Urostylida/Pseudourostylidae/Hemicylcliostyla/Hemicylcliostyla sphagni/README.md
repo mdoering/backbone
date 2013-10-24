@@ -1,5 +1,4 @@
-Hemicylcliostyla sphagni Stokes, 1886 SPECIES
-=======
+# Hemicylcliostyla sphagni Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

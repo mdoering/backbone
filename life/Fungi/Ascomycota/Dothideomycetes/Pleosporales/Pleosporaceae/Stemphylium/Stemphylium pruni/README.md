@@ -1,5 +1,4 @@
-Stemphylium pruni Yong Wang bis & X.G. Zhang SPECIES
-=======
+# Stemphylium pruni Yong Wang bis & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

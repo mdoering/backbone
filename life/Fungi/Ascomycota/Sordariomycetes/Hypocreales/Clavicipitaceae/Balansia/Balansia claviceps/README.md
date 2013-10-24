@@ -1,5 +1,4 @@
-Balansia claviceps Speg., 1885 SPECIES
-=======
+# Balansia claviceps Speg., 1885 SPECIES
 
 #### Status
 ACCEPTED

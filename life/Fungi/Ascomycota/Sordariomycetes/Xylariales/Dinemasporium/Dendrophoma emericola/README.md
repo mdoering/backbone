@@ -1,5 +1,4 @@
-Dendrophoma emericola Petr. SPECIES
-=======
+# Dendrophoma emericola Petr. SPECIES
 
 #### Status
 ACCEPTED

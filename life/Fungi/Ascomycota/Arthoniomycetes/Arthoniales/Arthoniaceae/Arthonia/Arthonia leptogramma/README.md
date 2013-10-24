@@ -1,5 +1,4 @@
-Arthonia leptogramma Müll. Arg. SPECIES
-=======
+# Arthonia leptogramma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

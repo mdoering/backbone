@@ -1,5 +1,4 @@
-Colletotrichum hederae (Pass.) Died. SPECIES
-=======
+# Colletotrichum hederae (Pass.) Died. SPECIES
 
 #### Status
 ACCEPTED

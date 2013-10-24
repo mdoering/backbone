@@ -1,5 +1,4 @@
-Nectria ganymede Lowen & Minter, 1987 SPECIES
-=======
+# Nectria ganymede Lowen & Minter, 1987 SPECIES
 
 #### Status
 ACCEPTED

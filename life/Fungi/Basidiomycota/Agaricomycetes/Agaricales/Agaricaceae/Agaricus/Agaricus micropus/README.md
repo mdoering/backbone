@@ -1,5 +1,4 @@
-Agaricus micropus Peck SPECIES
-=======
+# Agaricus micropus Peck SPECIES
 
 #### Status
 ACCEPTED

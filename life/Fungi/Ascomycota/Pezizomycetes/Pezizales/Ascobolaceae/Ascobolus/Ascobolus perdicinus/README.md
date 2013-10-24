@@ -1,5 +1,4 @@
-Ascobolus perdicinus Velen. SPECIES
-=======
+# Ascobolus perdicinus Velen. SPECIES
 
 #### Status
 ACCEPTED

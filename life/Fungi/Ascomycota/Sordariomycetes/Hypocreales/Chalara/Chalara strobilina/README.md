@@ -1,5 +1,4 @@
-Chalara strobilina Sacc. SPECIES
-=======
+# Chalara strobilina Sacc. SPECIES
 
 #### Status
 ACCEPTED

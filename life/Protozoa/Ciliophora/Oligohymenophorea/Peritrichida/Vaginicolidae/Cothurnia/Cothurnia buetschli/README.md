@@ -1,5 +1,4 @@
-Cothurnia buetschli SPECIES
-=======
+# Cothurnia buetschli SPECIES
 
 #### Status
 ACCEPTED

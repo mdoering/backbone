@@ -1,5 +1,4 @@
-Schismatommatomyces abietini Cif. & Tomas. SPECIES
-=======
+# Schismatommatomyces abietini Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

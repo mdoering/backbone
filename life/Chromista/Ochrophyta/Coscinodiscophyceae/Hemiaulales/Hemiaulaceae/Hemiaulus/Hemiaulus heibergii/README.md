@@ -1,5 +1,4 @@
-Hemiaulus heibergii Cleve SPECIES
-=======
+# Hemiaulus heibergii Cleve SPECIES
 
 #### Status
 ACCEPTED

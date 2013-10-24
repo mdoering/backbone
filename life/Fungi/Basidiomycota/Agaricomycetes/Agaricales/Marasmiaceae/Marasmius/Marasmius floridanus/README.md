@@ -1,5 +1,4 @@
-Marasmius floridanus Murrill SPECIES
-=======
+# Marasmius floridanus Murrill SPECIES
 
 #### Status
 ACCEPTED

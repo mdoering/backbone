@@ -1,5 +1,4 @@
-Fusicoccum coluteae Bres. SPECIES
-=======
+# Fusicoccum coluteae Bres. SPECIES
 
 #### Status
 ACCEPTED

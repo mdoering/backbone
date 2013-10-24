@@ -1,8 +1,7 @@
-Arthopyrenia gemmelipara (C. Knight) Müll. Arg. SPECIES
-=======
+# Arthopyrenia geminipara (C. Knight) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

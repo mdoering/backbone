@@ -1,5 +1,4 @@
-Oxytoxum strophalatum Dodge & Saunders, 1985 SPECIES
-=======
+# Oxytoxum strophalatum Dodge & Saunders, 1985 SPECIES
 
 #### Status
 ACCEPTED

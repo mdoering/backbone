@@ -1,5 +1,4 @@
-Sphaeria echinata Rabenh. SPECIES
-=======
+# Sphaeria echinata Rabenh. SPECIES
 
 #### Status
 ACCEPTED

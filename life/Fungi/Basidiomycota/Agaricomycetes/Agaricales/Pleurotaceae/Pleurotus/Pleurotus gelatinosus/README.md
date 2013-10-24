@@ -1,5 +1,4 @@
-Pleurotus gelatinosus Petch SPECIES
-=======
+# Pleurotus gelatinosus Petch SPECIES
 
 #### Status
 ACCEPTED

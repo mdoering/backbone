@@ -1,5 +1,4 @@
-Agaricus angustilamellatus Mont. SPECIES
-=======
+# Agaricus angustilamellatus Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochrolechia azorica Purvis, P. James & Brodo SPECIES
-=======
+# Ochrolechia azorica Purvis, P. James & Brodo SPECIES
 
 #### Status
 ACCEPTED

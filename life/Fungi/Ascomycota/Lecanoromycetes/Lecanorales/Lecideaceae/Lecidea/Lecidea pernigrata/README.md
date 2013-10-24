@@ -1,5 +1,4 @@
-Lecidea pernigrata Vain. SPECIES
-=======
+# Lecidea pernigrata Vain. SPECIES
 
 #### Status
 ACCEPTED

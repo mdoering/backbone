@@ -1,5 +1,4 @@
-Oodinium acanthometrae SPECIES
-=======
+# Oodinium acanthometrae SPECIES
 
 #### Status
 ACCEPTED

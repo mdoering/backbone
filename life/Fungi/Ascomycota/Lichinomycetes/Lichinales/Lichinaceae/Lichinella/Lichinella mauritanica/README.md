@@ -1,5 +1,4 @@
-Lichinella mauritanica (Lange) P.P. Moreno & Egea SPECIES
-=======
+# Lichinella mauritanica (Lange) P.P. Moreno & Egea SPECIES
 
 #### Status
 ACCEPTED

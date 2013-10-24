@@ -1,5 +1,4 @@
-Thalassiosira fallax SPECIES
-=======
+# Thalassiosira fallax SPECIES
 
 #### Status
 ACCEPTED

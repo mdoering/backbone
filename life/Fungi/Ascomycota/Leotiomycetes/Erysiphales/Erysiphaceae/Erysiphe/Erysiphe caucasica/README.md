@@ -1,5 +1,4 @@
-Erysiphe caucasica Simonyan SPECIES
-=======
+# Erysiphe caucasica Simonyan SPECIES
 
 #### Status
 ACCEPTED

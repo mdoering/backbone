@@ -1,5 +1,4 @@
-Omphalina collybiiformis Murrill SPECIES
-=======
+# Omphalina collybiiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

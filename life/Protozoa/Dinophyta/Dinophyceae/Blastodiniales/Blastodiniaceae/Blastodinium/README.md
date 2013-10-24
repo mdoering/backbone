@@ -1,5 +1,4 @@
-Blastodinium Chatton, 1906 GENUS
-=======
+# Blastodinium Chatton, 1906 GENUS
 
 #### Status
 ACCEPTED

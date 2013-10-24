@@ -1,5 +1,4 @@
-Clitocybe rubrotincta (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Clitocybe rubrotincta (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corethromyces brasilianus Thaxt. SPECIES
-=======
+# Corethromyces brasilianus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

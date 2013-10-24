@@ -1,5 +1,4 @@
-Collybia sabali (Berk.) Dennis SPECIES
-=======
+# Collybia sabali (Berk.) Dennis SPECIES
 
 #### Status
 ACCEPTED

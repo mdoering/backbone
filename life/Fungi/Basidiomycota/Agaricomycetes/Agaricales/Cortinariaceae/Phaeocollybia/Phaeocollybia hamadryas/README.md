@@ -1,5 +1,4 @@
-Phaeocollybia hamadryas (Fr.) Romagn. SPECIES
-=======
+# Phaeocollybia hamadryas (Fr.) Romagn. SPECIES
 
 #### Status
 ACCEPTED

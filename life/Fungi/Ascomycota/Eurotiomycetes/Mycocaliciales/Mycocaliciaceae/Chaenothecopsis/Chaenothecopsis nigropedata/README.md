@@ -1,5 +1,4 @@
-Chaenothecopsis nigropedata Tibell SPECIES
-=======
+# Chaenothecopsis nigropedata Tibell SPECIES
 
 #### Status
 ACCEPTED

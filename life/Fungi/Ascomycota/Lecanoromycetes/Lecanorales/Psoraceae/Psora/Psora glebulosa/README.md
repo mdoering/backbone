@@ -1,5 +1,4 @@
-Psora glebulosa (Sm.) Hook. SPECIES
-=======
+# Psora glebulosa (Sm.) Hook. SPECIES
 
 #### Status
 ACCEPTED

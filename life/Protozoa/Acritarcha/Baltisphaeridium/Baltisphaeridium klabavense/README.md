@@ -1,5 +1,4 @@
-Baltisphaeridium klabavense (Vavrdová, 1965) Kjellström, 1971 SPECIES
-=======
+# Baltisphaeridium klabavense (Vavrdová, 1965) Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

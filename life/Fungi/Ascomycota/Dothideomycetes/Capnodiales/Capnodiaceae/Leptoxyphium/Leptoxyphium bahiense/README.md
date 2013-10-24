@@ -1,5 +1,4 @@
-Leptoxyphium bahiense Bat. SPECIES
-=======
+# Leptoxyphium bahiense Bat. SPECIES
 
 #### Status
 ACCEPTED

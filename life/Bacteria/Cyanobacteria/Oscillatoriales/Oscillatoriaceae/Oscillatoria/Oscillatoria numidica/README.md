@@ -1,5 +1,4 @@
-Oscillatoria numidica Gomont SPECIES
-=======
+# Oscillatoria numidica Gomont SPECIES
 
 #### Status
 ACCEPTED

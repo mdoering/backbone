@@ -1,17 +1,16 @@
-Gyrophora grisea f. grisea FORM
-=======
+# Gyrophora grisea SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Gyrophora grisea f. grisea
+null
 
 ### Remarks
 null

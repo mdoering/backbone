@@ -1,5 +1,4 @@
-Taphrophila hebridensis (Dennis) Réblová & M.E. Barr, 1998 SPECIES
-=======
+# Taphrophila hebridensis (Dennis) Réblová & M.E. Barr, 1998 SPECIES
 
 #### Status
 ACCEPTED

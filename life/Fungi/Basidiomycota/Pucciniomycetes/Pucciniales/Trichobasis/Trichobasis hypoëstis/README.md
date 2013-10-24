@@ -1,5 +1,4 @@
-Trichobasis hypoëstis Cooke SPECIES
-=======
+# Trichobasis hypoëstis Cooke SPECIES
 
 #### Status
 ACCEPTED

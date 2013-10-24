@@ -1,5 +1,4 @@
-Diphratora GENUS
-=======
+# Diphratora GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniochaeta renispora J.L. Crane & Shearer SPECIES
-=======
+# Coniochaeta renispora J.L. Crane & Shearer SPECIES
 
 #### Status
 ACCEPTED

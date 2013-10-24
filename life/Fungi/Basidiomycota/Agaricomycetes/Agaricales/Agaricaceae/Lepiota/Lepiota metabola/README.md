@@ -1,5 +1,4 @@
-Lepiota metabola (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota metabola (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

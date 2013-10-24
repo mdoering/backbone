@@ -1,5 +1,4 @@
-Bryopogon tatricus (Motyka) Bystrek SPECIES
-=======
+# Bryopogon tatricus (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

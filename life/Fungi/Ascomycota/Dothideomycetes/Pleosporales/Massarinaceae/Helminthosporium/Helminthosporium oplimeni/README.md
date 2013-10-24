@@ -1,5 +1,4 @@
-Helminthosporium oplimeni Sawada & Katsuki SPECIES
-=======
+# Helminthosporium oplimeni Sawada & Katsuki SPECIES
 
 #### Status
 ACCEPTED

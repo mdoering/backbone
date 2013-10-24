@@ -1,5 +1,4 @@
-Phyllostictina hirriensis S.R. Chowdhury SPECIES
-=======
+# Phyllostictina hirriensis S.R. Chowdhury SPECIES
 
 #### Status
 ACCEPTED

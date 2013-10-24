@@ -1,5 +1,4 @@
-Leptolyngbya purpurascens var. elegans (Drouet) I. Umezaki & M. Watanabe VARIETY
-=======
+# Leptolyngbya purpurascens SPECIES
 
 #### Status
 ACCEPTED

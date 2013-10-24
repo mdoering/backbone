@@ -1,5 +1,4 @@
-Scopulata Viljoen & van As, 1985 GENUS
-=======
+# Scopulata Viljoen & van As, 1985 GENUS
 
 #### Status
 ACCEPTED

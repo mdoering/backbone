@@ -1,5 +1,4 @@
-Hysterangium rugisporum Castellano & Beever, 1994 SPECIES
-=======
+# Hysterangium rugisporum Castellano & Beever, 1994 SPECIES
 
 #### Status
 ACCEPTED

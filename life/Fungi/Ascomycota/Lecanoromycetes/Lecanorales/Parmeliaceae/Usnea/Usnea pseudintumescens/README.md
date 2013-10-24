@@ -1,5 +1,4 @@
-Usnea pseudintumescens Asahina SPECIES
-=======
+# Usnea pseudintumescens Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces monomycini Gause & Terekhova, 1986 SPECIES
-=======
+# Streptomyces monomycini Gause & Terekhova, 1986 SPECIES
 
 #### Status
 ACCEPTED

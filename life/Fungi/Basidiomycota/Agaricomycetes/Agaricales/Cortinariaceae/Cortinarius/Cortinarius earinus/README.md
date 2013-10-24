@@ -1,5 +1,4 @@
-Cortinarius earinus Romagn. SPECIES
-=======
+# Cortinarius earinus Romagn. SPECIES
 
 #### Status
 ACCEPTED

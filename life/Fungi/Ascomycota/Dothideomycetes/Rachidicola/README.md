@@ -1,5 +1,4 @@
-Rachidicola K.D. Hyde & J. Fröhl. GENUS
-=======
+# Rachidicola K.D. Hyde & J. Fröhl. GENUS
 
 #### Status
 ACCEPTED

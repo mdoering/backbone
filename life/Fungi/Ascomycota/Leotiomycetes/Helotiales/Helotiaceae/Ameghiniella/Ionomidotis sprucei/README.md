@@ -1,5 +1,4 @@
-Ionomidotis sprucei (Berk.) E.J. Durand SPECIES
-=======
+# Ionomidotis sprucei (Berk.) E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

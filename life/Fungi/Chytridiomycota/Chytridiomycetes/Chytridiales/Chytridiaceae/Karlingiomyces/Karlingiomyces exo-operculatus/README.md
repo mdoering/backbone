@@ -1,14 +1,13 @@
-Karlingia exo-operculata Karling, 1977 SPECIES
-=======
+# Karlingiomyces exo-operculatus (Karling) W.H. Blackw., Letcher & M.J. Powell, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 28(2-3): 209 (1977)
+Mycotaxon 89(2): 266 (2004)
 
 #### Original name
 Karlingia exo-operculata Karling, 1977

@@ -1,14 +1,13 @@
-Peckiella lateritia (Fr.) Maire, 1906 SPECIES
-=======
+# Hypomyces lateritius (Fr.) Tul. & C. Tul., 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 4: 331 (1906)
+Annls Sci. Nat. , Bot. , sér. 4 13: 11 (1860)
 
 #### Original name
 Sphaeria lateritia Kunze, 1823

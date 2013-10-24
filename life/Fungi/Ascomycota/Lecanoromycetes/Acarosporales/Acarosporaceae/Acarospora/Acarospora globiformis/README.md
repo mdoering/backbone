@@ -1,5 +1,4 @@
-Acarospora globiformis (Vain.) Räsänen SPECIES
-=======
+# Acarospora globiformis (Vain.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia albogrisea Peck SPECIES
-=======
+# Collybia albogrisea Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha quintana Redinger SPECIES
-=======
+# Opegrapha quintana Redinger SPECIES
 
 #### Status
 ACCEPTED

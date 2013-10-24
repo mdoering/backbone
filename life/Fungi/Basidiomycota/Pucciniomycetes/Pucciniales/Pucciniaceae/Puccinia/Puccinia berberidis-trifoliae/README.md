@@ -1,5 +1,4 @@
-Puccinia berberidis-trifoliae Dietel & Holw. SPECIES
-=======
+# Puccinia berberidis-trifoliae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

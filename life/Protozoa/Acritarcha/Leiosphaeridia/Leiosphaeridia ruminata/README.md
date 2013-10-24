@@ -1,5 +1,4 @@
-Leiosphaeridia ruminata L.A. Sergeeva, 1976 SPECIES
-=======
+# Leiosphaeridia ruminata L.A. Sergeeva, 1976 SPECIES
 
 #### Status
 ACCEPTED

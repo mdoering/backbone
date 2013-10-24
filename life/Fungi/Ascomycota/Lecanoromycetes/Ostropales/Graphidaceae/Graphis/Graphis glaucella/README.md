@@ -1,5 +1,4 @@
-Graphis glaucella Müll. Arg. SPECIES
-=======
+# Graphis glaucella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoepiphyton A.G. Vologdin, 1962 GENUS
-=======
+# Protoepiphyton A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

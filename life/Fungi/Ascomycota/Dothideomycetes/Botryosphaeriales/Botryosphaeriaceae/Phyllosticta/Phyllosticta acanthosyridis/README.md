@@ -1,5 +1,4 @@
-Phyllosticta acanthosyridis Speg. SPECIES
-=======
+# Phyllosticta acanthosyridis Speg. SPECIES
 
 #### Status
 ACCEPTED

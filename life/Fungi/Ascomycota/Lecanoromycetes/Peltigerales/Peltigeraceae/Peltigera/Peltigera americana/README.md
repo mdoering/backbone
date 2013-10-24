@@ -1,5 +1,4 @@
-Peltigera americana Spreng. SPECIES
-=======
+# Peltigera americana Spreng. SPECIES
 
 #### Status
 ACCEPTED

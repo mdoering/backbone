@@ -1,5 +1,4 @@
-Helotium viridiflavum Rick SPECIES
-=======
+# Helotium viridiflavum Rick SPECIES
 
 #### Status
 ACCEPTED

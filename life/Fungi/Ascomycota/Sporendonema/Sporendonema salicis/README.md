@@ -1,5 +1,4 @@
-Sporendonema salicis Bainier SPECIES
-=======
+# Sporendonema salicis Bainier SPECIES
 
 #### Status
 ACCEPTED

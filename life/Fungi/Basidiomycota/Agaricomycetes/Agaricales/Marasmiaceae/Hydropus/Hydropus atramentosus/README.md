@@ -1,5 +1,4 @@
-Hydropus atramentosus (Kalchbr.) Kotl. & Pouzar SPECIES
-=======
+# Hydropus atramentosus (Kalchbr.) Kotl. & Pouzar SPECIES
 
 #### Status
 ACCEPTED

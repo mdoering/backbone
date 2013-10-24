@@ -1,5 +1,4 @@
-Placodium agardhianum (Flot.) Hepp SPECIES
-=======
+# Placodium agardhianum (Flot.) Hepp SPECIES
 
 #### Status
 ACCEPTED

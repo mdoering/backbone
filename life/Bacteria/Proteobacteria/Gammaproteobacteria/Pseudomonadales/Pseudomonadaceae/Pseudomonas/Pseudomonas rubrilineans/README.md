@@ -1,5 +1,4 @@
-Pseudomonas rubrilineans (Lee et al., 1925) Stapp, 1928 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas rubrilineans (Lee et al., 1925) Stapp, 1928 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

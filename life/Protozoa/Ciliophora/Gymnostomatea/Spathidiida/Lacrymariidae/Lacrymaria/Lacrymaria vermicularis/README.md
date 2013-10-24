@@ -1,5 +1,4 @@
-Lacrymaria vermicularis O.F. Müller, 1786 SPECIES
-=======
+# Lacrymaria vermicularis O.F. Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

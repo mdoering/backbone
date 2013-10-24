@@ -1,5 +1,4 @@
-Helote GENUS
-=======
+# Helote GENUS
 
 #### Status
 ACCEPTED

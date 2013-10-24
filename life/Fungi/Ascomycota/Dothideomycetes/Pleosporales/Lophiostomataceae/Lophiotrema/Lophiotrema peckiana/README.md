@@ -1,5 +1,4 @@
-Lophiotrema peckiana (Sacc.) House SPECIES
-=======
+# Lophiotrema peckiana (Sacc.) House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetopatella ryukyuensis I. Hino & Katum. SPECIES
-=======
+# Chaetopatella ryukyuensis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

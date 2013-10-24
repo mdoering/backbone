@@ -1,5 +1,4 @@
-Phyllachora piptadeniicola Speg., 1912 SPECIES
-=======
+# Phyllachora piptadeniicola Speg., 1912 SPECIES
 
 #### Status
 DOUBTFUL

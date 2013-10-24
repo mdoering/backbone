@@ -1,5 +1,4 @@
-Teratosphaeria marasasii Crous, 2008 SPECIES
-=======
+# Teratosphaeria marasasii Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

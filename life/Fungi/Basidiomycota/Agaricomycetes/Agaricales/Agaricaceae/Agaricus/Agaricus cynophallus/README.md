@@ -1,5 +1,4 @@
-Agaricus cynophallus Batsch SPECIES
-=======
+# Agaricus cynophallus Batsch SPECIES
 
 #### Status
 ACCEPTED

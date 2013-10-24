@@ -1,5 +1,4 @@
-Metasphaeria bonamicana Sacc. SPECIES
-=======
+# Metasphaeria bonamicana Sacc. SPECIES
 
 #### Status
 ACCEPTED

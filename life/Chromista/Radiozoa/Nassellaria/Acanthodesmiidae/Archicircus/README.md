@@ -1,5 +1,4 @@
-Archicircus Haeckel, 1887 GENUS
-=======
+# Archicircus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

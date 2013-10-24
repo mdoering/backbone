@@ -1,5 +1,4 @@
-Pucciniastrum ericae (A. Naumann) Cummins SPECIES
-=======
+# Pucciniastrum ericae (A. Naumann) Cummins SPECIES
 
 #### Status
 ACCEPTED

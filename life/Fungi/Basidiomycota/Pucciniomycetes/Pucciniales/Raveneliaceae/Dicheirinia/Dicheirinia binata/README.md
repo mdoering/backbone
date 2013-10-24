@@ -1,14 +1,13 @@
-Triphragmium binatum Berk. & M.A. Curtis, 1858 SPECIES
-=======
+# Dicheirinia binata (Berk.) Arthur, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Fl. (New York) 7: 147 (1907)
 
 #### Original name
 Triphragmium binatum Berk. & M.A. Curtis, 1858

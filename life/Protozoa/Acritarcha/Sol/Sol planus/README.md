@@ -1,5 +1,4 @@
-Sol planus Martin, 1969 SPECIES
-=======
+# Sol planus Martin, 1969 SPECIES
 
 #### Status
 ACCEPTED

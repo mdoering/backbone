@@ -1,5 +1,4 @@
-Monozonium Haeckel, 1887 GENUS
-=======
+# Monozonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

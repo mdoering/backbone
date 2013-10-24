@@ -1,5 +1,4 @@
-Fusarium rostratum Appel & Wollenw. SPECIES
-=======
+# Fusarium rostratum Appel & Wollenw. SPECIES
 
 #### Status
 ACCEPTED

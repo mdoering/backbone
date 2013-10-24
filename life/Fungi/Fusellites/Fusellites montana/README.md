@@ -1,5 +1,4 @@
-Fusellites montana Babajan & Tasl. SPECIES
-=======
+# Fusellites montana Babajan & Tasl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leptostroma petiolicolum Hilitzer SPECIES
-=======
+# Leptostroma petiolicola Hilitzer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monograficka studie o ceskych druzich radu Hysteriales a o sypavkach jimi puisobenych 88 (1929)
 
 #### Original name
-Leptostroma petiolicolum Hilitzer
+Leptostroma petiolicola Hilitzer
 
 ### Remarks
 null

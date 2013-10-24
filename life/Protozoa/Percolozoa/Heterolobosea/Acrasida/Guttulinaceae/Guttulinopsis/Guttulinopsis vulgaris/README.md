@@ -1,5 +1,4 @@
-Guttulinopsis vulgaris Olive, 1901 SPECIES
-=======
+# Guttulinopsis vulgaris Olive, 1901 SPECIES
 
 #### Status
 ACCEPTED

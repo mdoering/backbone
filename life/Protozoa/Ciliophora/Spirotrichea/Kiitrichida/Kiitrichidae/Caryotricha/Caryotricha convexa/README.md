@@ -1,5 +1,4 @@
-Caryotricha convexa Kahl, 1932 SPECIES
-=======
+# Caryotricha convexa Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

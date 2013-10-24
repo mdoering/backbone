@@ -1,5 +1,4 @@
-Claviceps miscanthi Sawada SPECIES
-=======
+# Claviceps miscanthi Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma rosae-gymnocarpae Dietel SPECIES
-=======
+# Caeoma rosae-gymnocarpae Dietel SPECIES
 
 #### Status
 ACCEPTED

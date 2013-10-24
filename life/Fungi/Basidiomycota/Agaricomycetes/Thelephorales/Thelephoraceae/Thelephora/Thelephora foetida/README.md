@@ -1,5 +1,4 @@
-Thelephora foetida Ehrenb. SPECIES
-=======
+# Thelephora foetida Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago annulata Ellis & Everh. SPECIES
-=======
+# Ustilago annulata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

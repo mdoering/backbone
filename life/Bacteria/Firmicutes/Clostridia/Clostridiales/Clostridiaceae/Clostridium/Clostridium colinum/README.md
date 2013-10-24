@@ -1,5 +1,4 @@
-Clostridium colinum (ex Berkhoff et al., 1974) Berkhoff, 1985 SPECIES
-=======
+# Clostridium colinum (ex Berkhoff et al., 1974) Berkhoff, 1985 SPECIES
 
 #### Status
 ACCEPTED

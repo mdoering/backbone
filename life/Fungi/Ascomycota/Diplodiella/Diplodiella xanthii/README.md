@@ -1,5 +1,4 @@
-Diplodiella xanthii Har. & Brunaud SPECIES
-=======
+# Diplodiella xanthii Har. & Brunaud SPECIES
 
 #### Status
 ACCEPTED

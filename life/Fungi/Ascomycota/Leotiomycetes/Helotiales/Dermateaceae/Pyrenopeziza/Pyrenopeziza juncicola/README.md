@@ -1,5 +1,4 @@
-Pyrenopeziza juncicola Ade SPECIES
-=======
+# Pyrenopeziza juncicola Ade SPECIES
 
 #### Status
 ACCEPTED

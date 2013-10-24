@@ -1,5 +1,4 @@
-Pyrenula atropurpurea (Eschw.) Müll. Arg. SPECIES
-=======
+# Pyrenula atropurpurea (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aremoricanium cylindrosum (Eisenack, 1963) Eisenack et al., 1973 SPECIES
-=======
+# Aremoricanium cylindrosum (Eisenack, 1963) Eisenack et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

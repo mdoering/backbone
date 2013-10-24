@@ -1,5 +1,4 @@
-Phyllosticta adenostylis Allesch. SPECIES
-=======
+# Phyllosticta adenostylis Allesch. SPECIES
 
 #### Status
 ACCEPTED

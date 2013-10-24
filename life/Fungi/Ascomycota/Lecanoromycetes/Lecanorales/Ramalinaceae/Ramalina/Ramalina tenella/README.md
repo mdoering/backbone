@@ -1,5 +1,4 @@
-Ramalina tenella Müll. Arg. SPECIES
-=======
+# Ramalina tenella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Excipula subcalva Ellis & Everh. SPECIES
-=======
+# Excipula subcalva Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

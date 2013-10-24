@@ -1,5 +1,4 @@
-Roccellographomyces GENUS
-=======
+# Roccellographomyces GENUS
 
 #### Status
 ACCEPTED

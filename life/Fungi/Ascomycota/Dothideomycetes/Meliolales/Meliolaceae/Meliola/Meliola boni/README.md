@@ -1,5 +1,4 @@
-Meliola boni Gaillard SPECIES
-=======
+# Meliola boni Gaillard SPECIES
 
 #### Status
 ACCEPTED

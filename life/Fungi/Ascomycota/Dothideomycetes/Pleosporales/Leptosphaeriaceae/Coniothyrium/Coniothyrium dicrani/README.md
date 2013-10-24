@@ -1,5 +1,4 @@
-Coniothyrium dicrani H. Maia & Bat. SPECIES
-=======
+# Coniothyrium dicrani H. Maia & Bat. SPECIES
 
 #### Status
 ACCEPTED

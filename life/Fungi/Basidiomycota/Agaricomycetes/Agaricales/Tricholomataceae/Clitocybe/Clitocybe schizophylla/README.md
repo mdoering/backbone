@@ -1,5 +1,4 @@
-Clitocybe schizophylla (Berk.) Sacc. SPECIES
-=======
+# Clitocybe schizophylla (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

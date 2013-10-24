@@ -1,5 +1,4 @@
-Cytospora allii Maire SPECIES
-=======
+# Cytospora allii Maire SPECIES
 
 #### Status
 ACCEPTED

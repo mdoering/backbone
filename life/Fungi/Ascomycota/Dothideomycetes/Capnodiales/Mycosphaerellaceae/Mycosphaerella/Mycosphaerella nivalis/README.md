@@ -1,5 +1,4 @@
-Mycosphaerella nivalis Jacz. SPECIES
-=======
+# Mycosphaerella nivalis Jacz. SPECIES
 
 #### Status
 ACCEPTED

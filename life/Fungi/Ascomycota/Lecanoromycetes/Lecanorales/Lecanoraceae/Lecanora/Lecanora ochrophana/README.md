@@ -1,5 +1,4 @@
-Lecanora ochrophana Nyl. SPECIES
-=======
+# Lecanora ochrophana Nyl. SPECIES
 
 #### Status
 ACCEPTED

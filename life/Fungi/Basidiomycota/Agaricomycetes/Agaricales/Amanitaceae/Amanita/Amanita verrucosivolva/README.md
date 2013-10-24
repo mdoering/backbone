@@ -1,5 +1,4 @@
-Amanita verrucosivolva Zhu L. Yang SPECIES
-=======
+# Amanita verrucosivolva Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

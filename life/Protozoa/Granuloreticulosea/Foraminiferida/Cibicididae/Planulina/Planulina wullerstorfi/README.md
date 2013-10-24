@@ -1,5 +1,4 @@
-Planulina wullerstorfi SPECIES
-=======
+# Planulina wullerstorfi SPECIES
 
 #### Status
 ACCEPTED

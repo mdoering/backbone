@@ -1,5 +1,4 @@
-Rhodococcus phenolicus Rehfuss & Urban, 2006 SPECIES
-=======
+# Rhodococcus phenolicus Rehfuss & Urban, 2006 SPECIES
 
 #### Status
 ACCEPTED

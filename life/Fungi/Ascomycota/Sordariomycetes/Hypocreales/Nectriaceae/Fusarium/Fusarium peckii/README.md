@@ -1,5 +1,4 @@
-Fusarium peckii Sacc. SPECIES
-=======
+# Fusarium peckii Sacc. SPECIES
 
 #### Status
 ACCEPTED

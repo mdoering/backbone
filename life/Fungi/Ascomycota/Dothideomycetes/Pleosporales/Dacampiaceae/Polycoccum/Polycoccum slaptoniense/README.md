@@ -1,5 +1,4 @@
-Polycoccum slaptoniense D. Hawksw. SPECIES
-=======
+# Polycoccum slaptoniense D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

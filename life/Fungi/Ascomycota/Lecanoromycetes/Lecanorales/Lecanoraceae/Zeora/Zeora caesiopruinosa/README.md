@@ -1,5 +1,4 @@
-Zeora caesiopruinosa Kremp. SPECIES
-=======
+# Zeora caesiopruinosa Kremp. SPECIES
 
 #### Status
 ACCEPTED

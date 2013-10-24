@@ -1,5 +1,4 @@
-Dwayaangam junci Kohlm., Baral & Volkm.-Kohlm. SPECIES
-=======
+# Dwayaangam junci Kohlm., Baral & Volkm.-Kohlm. SPECIES
 
 #### Status
 ACCEPTED

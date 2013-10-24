@@ -1,5 +1,4 @@
-Polyporus lacinatus Pers. SPECIES
-=======
+# Polyporus lacinatus Pers. SPECIES
 
 #### Status
 ACCEPTED

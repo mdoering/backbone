@@ -1,5 +1,4 @@
-Distephanopsis staurodon (Ehrenberg) T. V. Desikachary & P. Prema SPECIES
-=======
+# Distephanopsis staurodon (Ehrenberg) T. V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

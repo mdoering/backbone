@@ -1,5 +1,4 @@
-Cystopus evolvuli Damle SPECIES
-=======
+# Cystopus evolvuli Damle SPECIES
 
 #### Status
 ACCEPTED

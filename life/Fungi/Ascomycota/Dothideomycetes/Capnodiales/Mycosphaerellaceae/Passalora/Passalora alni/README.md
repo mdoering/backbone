@@ -1,5 +1,4 @@
-Passalora alni (Chupp & H.C. Greene) Deighton SPECIES
-=======
+# Passalora alni (Chupp & H.C. Greene) Deighton SPECIES
 
 #### Status
 ACCEPTED

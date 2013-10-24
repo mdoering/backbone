@@ -1,5 +1,4 @@
-Boletus lanzii Inzenga SPECIES
-=======
+# Boletus lanzii Inzenga SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella marathwadensis Tilak & R. Rao SPECIES
-=======
+# Aplosporella marathwadensis Tilak & R. Rao SPECIES
 
 #### Status
 ACCEPTED

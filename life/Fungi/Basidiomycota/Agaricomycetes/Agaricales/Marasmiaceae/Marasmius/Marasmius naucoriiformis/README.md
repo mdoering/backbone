@@ -1,5 +1,4 @@
-Marasmius naucoriiformis Corner SPECIES
-=======
+# Marasmius naucoriiformis Corner SPECIES
 
 #### Status
 ACCEPTED

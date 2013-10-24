@@ -1,5 +1,4 @@
-Lingulina bartrumi SPECIES
-=======
+# Lingulina bartrumi SPECIES
 
 #### Status
 ACCEPTED

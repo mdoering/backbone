@@ -1,5 +1,4 @@
-Symphytocarpus trechispora (Berk.) Nann.-Bremek. SPECIES
-=======
+# Symphytocarpus trechispora (Berk.) Nann.-Bremek. SPECIES
 
 #### Status
 ACCEPTED

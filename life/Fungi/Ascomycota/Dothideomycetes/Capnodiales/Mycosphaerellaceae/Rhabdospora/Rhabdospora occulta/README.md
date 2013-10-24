@@ -1,5 +1,4 @@
-Rhabdospora occulta Ferraris & Carestia SPECIES
-=======
+# Rhabdospora occulta Ferraris & Carestia SPECIES
 
 #### Status
 ACCEPTED

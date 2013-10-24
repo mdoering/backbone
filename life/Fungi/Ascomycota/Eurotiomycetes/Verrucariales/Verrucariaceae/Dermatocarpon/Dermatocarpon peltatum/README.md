@@ -1,5 +1,4 @@
-Dermatocarpon peltatum (Taylor) Zahlbr. SPECIES
-=======
+# Dermatocarpon peltatum (Taylor) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

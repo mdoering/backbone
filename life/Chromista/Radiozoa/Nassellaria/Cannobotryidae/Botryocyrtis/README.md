@@ -1,5 +1,4 @@
-Botryocyrtis Ehrenberg, 1860 GENUS
-=======
+# Botryocyrtis Ehrenberg, 1860 GENUS
 
 #### Status
 ACCEPTED

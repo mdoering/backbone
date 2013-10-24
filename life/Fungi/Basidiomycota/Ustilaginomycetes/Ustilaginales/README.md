@@ -1,5 +1,4 @@
-Ustilaginales G. Winter ORDER
-=======
+# Ustilaginales G. Winter ORDER
 
 #### Status
 ACCEPTED

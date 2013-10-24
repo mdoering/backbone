@@ -1,5 +1,4 @@
-Laccaria vinaceoavellanea Hongo SPECIES
-=======
+# Laccaria vinaceoavellanea Hongo SPECIES
 
 #### Status
 ACCEPTED

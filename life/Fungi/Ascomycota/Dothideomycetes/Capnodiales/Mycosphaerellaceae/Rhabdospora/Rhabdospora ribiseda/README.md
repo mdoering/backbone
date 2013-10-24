@@ -1,5 +1,4 @@
-Rhabdospora ribiseda Rolland & Fautrey SPECIES
-=======
+# Rhabdospora ribiseda Rolland & Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Segestria discolor Trevis. SPECIES
-=======
+# Segestria discolor Trevis. SPECIES
 
 #### Status
 ACCEPTED

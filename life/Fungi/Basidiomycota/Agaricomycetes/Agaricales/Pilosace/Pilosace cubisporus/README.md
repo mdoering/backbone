@@ -1,5 +1,4 @@
-Pilosace cubisporus (Mont.) Kuntze SPECIES
-=======
+# Pilosace cubisporus (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

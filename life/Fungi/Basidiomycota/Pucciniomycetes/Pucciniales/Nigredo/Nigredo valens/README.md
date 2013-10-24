@@ -1,5 +1,4 @@
-Nigredo valens (F. Kern) Arthur SPECIES
-=======
+# Nigredo valens (F. Kern) Arthur SPECIES
 
 #### Status
 ACCEPTED

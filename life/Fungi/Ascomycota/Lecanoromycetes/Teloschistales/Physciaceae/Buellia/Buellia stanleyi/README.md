@@ -1,5 +1,4 @@
-Buellia stanleyi SPECIES
-=======
+# Buellia stanleyi SPECIES
 
 #### Status
 ACCEPTED

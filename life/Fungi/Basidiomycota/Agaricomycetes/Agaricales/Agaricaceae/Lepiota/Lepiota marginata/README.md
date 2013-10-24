@@ -1,5 +1,4 @@
-Lepiota marginata Burl. SPECIES
-=======
+# Lepiota marginata Burl. SPECIES
 
 #### Status
 ACCEPTED

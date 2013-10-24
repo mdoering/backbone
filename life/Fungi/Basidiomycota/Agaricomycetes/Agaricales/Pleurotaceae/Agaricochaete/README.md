@@ -1,5 +1,4 @@
-Agaricochaete Eichelb. GENUS
-=======
+# Agaricochaete Eichelb. GENUS
 
 #### Status
 ACCEPTED

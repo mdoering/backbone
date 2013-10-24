@@ -1,5 +1,4 @@
-Cinetozona Olmo, Tellez & Esteban, 1998 GENUS
-=======
+# Cinetozona Olmo, Tellez & Esteban, 1998 GENUS
 
 #### Status
 ACCEPTED

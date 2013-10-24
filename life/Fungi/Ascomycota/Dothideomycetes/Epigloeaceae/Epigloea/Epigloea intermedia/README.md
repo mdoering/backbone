@@ -1,5 +1,4 @@
-Epigloea intermedia Döbbeler SPECIES
-=======
+# Epigloea intermedia Döbbeler SPECIES
 
 #### Status
 ACCEPTED

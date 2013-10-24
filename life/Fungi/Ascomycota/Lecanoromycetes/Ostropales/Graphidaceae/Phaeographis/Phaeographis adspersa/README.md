@@ -1,5 +1,4 @@
-Phaeographis adspersa Müll. Arg. SPECIES
-=======
+# Phaeographis adspersa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

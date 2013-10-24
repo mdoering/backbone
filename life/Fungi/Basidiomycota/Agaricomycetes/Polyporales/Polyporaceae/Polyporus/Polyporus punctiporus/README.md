@@ -1,5 +1,4 @@
-Polyporus punctiporus Britzelm. SPECIES
-=======
+# Polyporus punctiporus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

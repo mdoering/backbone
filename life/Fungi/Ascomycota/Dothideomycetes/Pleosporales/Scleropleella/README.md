@@ -1,5 +1,4 @@
-Scleropleella GENUS
-=======
+# Scleropleella GENUS
 
 #### Status
 ACCEPTED

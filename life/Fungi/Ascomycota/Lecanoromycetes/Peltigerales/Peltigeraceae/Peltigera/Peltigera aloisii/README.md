@@ -1,5 +1,4 @@
-Peltigera aloisii var. granulosa Inumaru VARIETY
-=======
+# Peltigera aloisii Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltigera aloisii var. granulosa Inumaru
+Peltigera aloisii Gyeln.
 
 ### Remarks
 null

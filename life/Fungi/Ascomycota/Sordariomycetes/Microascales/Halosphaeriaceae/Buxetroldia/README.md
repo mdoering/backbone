@@ -1,5 +1,4 @@
-Buxetroldia K.R.L. Petersen & Jørg. Koch GENUS
-=======
+# Buxetroldia K.R.L. Petersen & Jørg. Koch GENUS
 
 #### Status
 ACCEPTED

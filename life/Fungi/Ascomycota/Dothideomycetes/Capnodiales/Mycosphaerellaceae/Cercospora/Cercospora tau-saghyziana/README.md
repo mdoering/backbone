@@ -1,8 +1,7 @@
-Cercospora tau-saghysiana Bond.-Mont. ex Vassiljevsky & Karak. SPECIES
-=======
+# Cercospora tau-saghyziana Bond.-Mont. ex Vassiljevsky & Karak. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercospora tau-saghysiana Bond.-Mont. ex Vassiljevsky & Karak.
+Cercospora tau-saghyziana Bond.-Mont. ex Vassiljevsky & Karak.
 
 ### Remarks
 null

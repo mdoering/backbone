@@ -1,5 +1,4 @@
-Phoma striolata Speg. SPECIES
-=======
+# Phoma striolata Speg. SPECIES
 
 #### Status
 ACCEPTED

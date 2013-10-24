@@ -1,5 +1,4 @@
-Ascomyces rubrobrunneus House SPECIES
-=======
+# Ascomyces rubrobrunneus House SPECIES
 
 #### Status
 ACCEPTED

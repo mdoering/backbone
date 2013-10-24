@@ -1,5 +1,4 @@
-Panaeolus annulatus Natarajan & Raman SPECIES
-=======
+# Panaeolus annulatus Natarajan & Raman SPECIES
 
 #### Status
 ACCEPTED

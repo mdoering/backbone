@@ -1,5 +1,4 @@
-Microcystis botrys Teiling SPECIES
-=======
+# Microcystis botrys Teiling SPECIES
 
 #### Status
 ACCEPTED

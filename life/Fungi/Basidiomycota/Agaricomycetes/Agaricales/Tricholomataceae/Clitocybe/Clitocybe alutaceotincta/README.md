@@ -1,5 +1,4 @@
-Clitocybe alutaceotincta H.E. Bigelow SPECIES
-=======
+# Clitocybe alutaceotincta H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

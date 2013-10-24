@@ -1,5 +1,4 @@
-Cenangium abietina Ellis & Everh. SPECIES
-=======
+# Cenangium abietina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

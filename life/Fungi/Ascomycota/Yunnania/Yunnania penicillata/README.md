@@ -1,5 +1,4 @@
-Yunnania penicillata H.Z. Kong, 1998 SPECIES
-=======
+# Yunnania penicillata H.Z. Kong, 1998 SPECIES
 
 #### Status
 ACCEPTED

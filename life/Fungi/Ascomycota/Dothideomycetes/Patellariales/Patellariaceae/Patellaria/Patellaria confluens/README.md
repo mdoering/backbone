@@ -1,5 +1,4 @@
-Patellaria confluens Müll. Arg. SPECIES
-=======
+# Patellaria confluens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

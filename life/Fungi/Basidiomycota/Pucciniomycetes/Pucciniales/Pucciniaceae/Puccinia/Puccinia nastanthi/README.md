@@ -1,5 +1,4 @@
-Puccinia nastanthi Speg. SPECIES
-=======
+# Puccinia nastanthi Speg. SPECIES
 
 #### Status
 ACCEPTED

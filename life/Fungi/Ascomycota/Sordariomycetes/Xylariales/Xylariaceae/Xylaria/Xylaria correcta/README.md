@@ -1,5 +1,4 @@
-Xylaria correcta Lloyd SPECIES
-=======
+# Xylaria correcta Lloyd SPECIES
 
 #### Status
 ACCEPTED

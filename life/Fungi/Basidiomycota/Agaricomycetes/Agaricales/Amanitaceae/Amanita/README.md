@@ -1,17 +1,16 @@
-Pseudofarinaceus Battarra ex Kuntze, 1891 GENUS
-=======
+# Amanita Persoon, 1797 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 867 (1891)
+Tent. disp. meth. fung. (Lipsiae) 65 (1797)
 
 #### Original name
-Pseudofarinaceus Battarra ex Kuntze, 1891
+Amanita Persoon, 1797
 
 ### Remarks
 null

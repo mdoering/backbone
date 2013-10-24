@@ -1,5 +1,4 @@
-Porphyrellus sordidus (Frost) Snell SPECIES
-=======
+# Porphyrellus sordidus (Frost) Snell SPECIES
 
 #### Status
 ACCEPTED

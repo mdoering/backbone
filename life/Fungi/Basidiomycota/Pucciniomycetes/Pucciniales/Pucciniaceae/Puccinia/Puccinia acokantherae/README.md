@@ -1,8 +1,7 @@
-Puccinia acocantherae Henn. SPECIES
-=======
+# Puccinia acokantherae Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia acocantherae Henn.
+Puccinia acokantherae Henn.
 
 ### Remarks
 null

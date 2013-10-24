@@ -1,17 +1,16 @@
-Poria cinereicolor Murrill, 1920 SPECIES
-=======
+# Tinctoporellus epimiltinus (Berk. & Broome) Ryvarden, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 12(2): 87 (1920)
+Trans. Br. mycol. Soc. 73(1): 18 (1979)
 
 #### Original name
-Poria cinereicolor Murrill, 1920
+Polyporus epimiltinus Berk. & Broome, 1875
 
 ### Remarks
 null

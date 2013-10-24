@@ -1,11 +1,10 @@
-Corticium catonii Burgeff SPECIES
-=======
+# Sistotrema brinkmannii (Bres.) J. Erikss. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The National Checklist of Taiwan
 
 #### Published in
 null

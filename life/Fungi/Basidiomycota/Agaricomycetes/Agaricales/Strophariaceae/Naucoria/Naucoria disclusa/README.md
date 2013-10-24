@@ -1,5 +1,4 @@
-Naucoria disclusa (Britzelm.) Sacc. SPECIES
-=======
+# Naucoria disclusa (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

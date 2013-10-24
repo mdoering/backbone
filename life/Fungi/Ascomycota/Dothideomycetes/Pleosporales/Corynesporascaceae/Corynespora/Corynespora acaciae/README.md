@@ -1,5 +1,4 @@
-Corynespora acaciae H.J. Swart SPECIES
-=======
+# Corynespora acaciae H.J. Swart SPECIES
 
 #### Status
 ACCEPTED

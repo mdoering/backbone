@@ -1,5 +1,4 @@
-Puccinia similis Ellis & Everh. SPECIES
-=======
+# Puccinia similis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

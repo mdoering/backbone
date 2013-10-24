@@ -1,17 +1,16 @@
-Parmelia scitula Brusse SPECIES
-=======
+# Karoowia scitula (Brusse) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 35(1): 190 (1989)
 
 #### Original name
-null
+Parmelia scitula Brusse
 
 ### Remarks
 null

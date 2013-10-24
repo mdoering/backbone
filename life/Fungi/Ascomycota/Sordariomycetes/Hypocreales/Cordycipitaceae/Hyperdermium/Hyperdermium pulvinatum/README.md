@@ -1,5 +1,4 @@
-Hyperdermium pulvinatum J.F. White, R.F. Sullivan, Bills & Hywel-Jones, 2000 SPECIES
-=======
+# Hyperdermium pulvinatum J.F. White, R.F. Sullivan, Bills & Hywel-Jones, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella dilleniae Hosag. & Kamar. SPECIES
-=======
+# Asteridiella dilleniae Hosag. & Kamar. SPECIES
 
 #### Status
 ACCEPTED

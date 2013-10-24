@@ -1,5 +1,4 @@
-Russula luteoaurantia Romagn. SPECIES
-=======
+# Russula luteoaurantia Romagn. SPECIES
 
 #### Status
 ACCEPTED

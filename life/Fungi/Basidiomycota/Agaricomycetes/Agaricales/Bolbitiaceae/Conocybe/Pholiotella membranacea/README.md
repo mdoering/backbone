@@ -1,5 +1,4 @@
-Pholiotella membranacea Rick SPECIES
-=======
+# Pholiotella membranacea Rick SPECIES
 
 #### Status
 ACCEPTED

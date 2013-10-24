@@ -1,5 +1,4 @@
-Valsa decedens (Fr.) SPECIES
-=======
+# Valsa decedens (Fr.) SPECIES
 
 #### Status
 ACCEPTED

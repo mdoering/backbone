@@ -1,5 +1,4 @@
-Dictyocha angulata D. Bukry SPECIES
-=======
+# Dictyocha angulata D. Bukry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria inaequata var. inaequata VARIETY
-=======
+# Verrucaria inaequata (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria inaequata var. inaequata
+Verrucaria steineri var. inaequata Servít
 
 ### Remarks
 null

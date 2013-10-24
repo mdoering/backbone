@@ -1,5 +1,4 @@
-Vorticella conglomerata Linnaeus, 1767 SPECIES
-=======
+# Vorticella conglomerata Linnaeus, 1767 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo yakushimensis Morim. SPECIES
-=======
+# Uredo yakushimensis Morim. SPECIES
 
 #### Status
 ACCEPTED

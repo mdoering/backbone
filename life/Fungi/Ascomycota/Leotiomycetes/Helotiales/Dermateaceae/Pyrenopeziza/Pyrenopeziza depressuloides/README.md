@@ -1,17 +1,16 @@
-Mollisia deprussuloides Gremmen SPECIES
-=======
+# Pyrenopeziza depressuloides (Gremmen) Gremmen, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungus 28: 42 (1958)
 
 #### Original name
-Mollisia deprussuloides Gremmen
+Mollisia depressuloides Gremmen, 1955
 
 ### Remarks
 null

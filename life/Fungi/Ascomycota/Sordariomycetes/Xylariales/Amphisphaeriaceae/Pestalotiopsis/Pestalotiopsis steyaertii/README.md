@@ -1,5 +1,4 @@
-Pestalotiopsis steyaertii Mordue, 1985 SPECIES
-=======
+# Pestalotiopsis steyaertii Mordue, 1985 SPECIES
 
 #### Status
 ACCEPTED

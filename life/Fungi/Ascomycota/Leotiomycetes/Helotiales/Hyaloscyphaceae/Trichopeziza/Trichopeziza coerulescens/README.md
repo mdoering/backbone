@@ -1,5 +1,4 @@
-Trichopeziza coerulescens (Rehm) Sacc. SPECIES
-=======
+# Trichopeziza coerulescens (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

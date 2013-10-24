@@ -1,5 +1,4 @@
-Inocybe phaeocephala (Bull.) Sacc. SPECIES
-=======
+# Inocybe phaeocephala (Bull.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

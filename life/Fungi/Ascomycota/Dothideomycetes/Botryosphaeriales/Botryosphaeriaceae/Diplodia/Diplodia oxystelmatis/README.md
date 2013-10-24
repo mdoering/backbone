@@ -1,5 +1,4 @@
-Diplodia oxystelmatis S. Ahmad SPECIES
-=======
+# Diplodia oxystelmatis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

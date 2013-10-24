@@ -1,5 +1,4 @@
-Cercidospora rehmii (J. Kuntze) Kuntze SPECIES
-=======
+# Cercidospora rehmii (J. Kuntze) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylaria parasitans Cavara SPECIES
-=======
+# Dactylaria parasitans Cavara SPECIES
 
 #### Status
 ACCEPTED

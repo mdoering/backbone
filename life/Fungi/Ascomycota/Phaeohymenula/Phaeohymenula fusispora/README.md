@@ -1,5 +1,4 @@
-Phaeohymenula fusispora Petr., 1954 SPECIES
-=======
+# Phaeohymenula fusispora Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

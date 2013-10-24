@@ -1,5 +1,4 @@
-Arthonia epidendri (Rehm) R. Sant. SPECIES
-=======
+# Arthonia epidendri (Rehm) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

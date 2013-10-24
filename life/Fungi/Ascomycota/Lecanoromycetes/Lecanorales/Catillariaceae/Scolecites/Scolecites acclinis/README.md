@@ -1,5 +1,4 @@
-Scolecites acclinis (Flot.) Stizenb. SPECIES
-=======
+# Scolecites acclinis (Flot.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

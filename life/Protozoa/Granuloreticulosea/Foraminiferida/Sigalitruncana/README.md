@@ -1,5 +1,4 @@
-Sigalitruncana Korchagin, 1982 GENUS
-=======
+# Sigalitruncana Korchagin, 1982 GENUS
 
 #### Status
 ACCEPTED

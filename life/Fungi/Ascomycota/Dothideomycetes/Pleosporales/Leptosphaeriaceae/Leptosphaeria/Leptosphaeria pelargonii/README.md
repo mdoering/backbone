@@ -1,5 +1,4 @@
-Leptosphaeria pelargonii Rehm SPECIES
-=======
+# Leptosphaeria pelargonii Rehm SPECIES
 
 #### Status
 ACCEPTED

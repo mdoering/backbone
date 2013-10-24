@@ -1,5 +1,4 @@
-Aldrigiella Rick GENUS
-=======
+# Aldrigiella Rick GENUS
 
 #### Status
 ACCEPTED

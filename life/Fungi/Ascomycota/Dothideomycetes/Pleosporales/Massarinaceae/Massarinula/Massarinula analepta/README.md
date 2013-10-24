@@ -1,5 +1,4 @@
-Massarinula analepta (Westend.) Chenant. SPECIES
-=======
+# Massarinula analepta (Westend.) Chenant. SPECIES
 
 #### Status
 ACCEPTED

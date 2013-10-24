@@ -1,5 +1,4 @@
-Pholiota hepatica Massee SPECIES
-=======
+# Pholiota hepatica Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palaeoumbraculum Amon, Braun & Ivanov, 1995 GENUS
-=======
+# Palaeoumbraculum Amon, Braun & Ivanov, 1995 GENUS
 
 #### Status
 ACCEPTED

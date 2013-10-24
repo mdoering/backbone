@@ -1,8 +1,7 @@
-Prediscosphaera decorata Vekshina, 1959 SPECIES
-=======
+# Prediscosphaera cretacea (Arkhangelsky, 1912) Gartner, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

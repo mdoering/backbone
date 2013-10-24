@@ -1,5 +1,4 @@
-Pickelhaube Applegate, Covington & Wise in Covington & Wise, 1987 GENUS
-=======
+# Pickelhaube Applegate, Covington & Wise in Covington & Wise, 1987 GENUS
 
 #### Status
 ACCEPTED

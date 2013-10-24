@@ -1,14 +1,13 @@
-Odonticium exilis (Burt) Zmitr. & Spirin SPECIES
-=======
+# Phanerochaete exilis (Burt) Burds., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Mem. 10: 74 (1985)
 
 #### Original name
 Peniophora exilis Burt, 1926

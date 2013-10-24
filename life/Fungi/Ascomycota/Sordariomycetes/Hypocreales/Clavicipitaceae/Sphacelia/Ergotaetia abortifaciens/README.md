@@ -1,5 +1,4 @@
-Ergotaetia abortifaciens E.J. Quekett SPECIES
-=======
+# Ergotaetia abortifaciens E.J. Quekett SPECIES
 
 #### Status
 ACCEPTED

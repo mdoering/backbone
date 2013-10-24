@@ -1,5 +1,4 @@
-Hayococcus Jafar, 1983 GENUS
-=======
+# Hayococcus Jafar, 1983 GENUS
 
 #### Status
 ACCEPTED

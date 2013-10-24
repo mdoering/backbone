@@ -1,14 +1,13 @@
-Lecanora subrufula Nyl. SPECIES
-=======
+# Acarospora subrufula (Nyl.) H. Olivier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 62: 355 (1879)
+Expo. Syst. Descr. Lich. Ouest Fr. 21 (1900)
 
 #### Original name
 Lecanora subrufula Nyl.

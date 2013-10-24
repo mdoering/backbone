@@ -1,5 +1,4 @@
-Herpotrichia palmicola J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Herpotrichia palmicola J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

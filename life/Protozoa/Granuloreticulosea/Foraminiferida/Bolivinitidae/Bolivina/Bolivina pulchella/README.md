@@ -1,5 +1,4 @@
-Bolivina pulchella (d'Orbigny) SPECIES
-=======
+# Bolivina pulchella (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella minuta Barber & T.I. Burgess SPECIES
-=======
+# Mycosphaerella minuta Barber & T.I. Burgess SPECIES
 
 #### Status
 ACCEPTED

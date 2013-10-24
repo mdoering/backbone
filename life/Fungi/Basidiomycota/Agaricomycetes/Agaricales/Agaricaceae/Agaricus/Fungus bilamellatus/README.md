@@ -1,5 +1,4 @@
-Fungus bilamellatus (Peck) Kuntze SPECIES
-=======
+# Fungus bilamellatus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

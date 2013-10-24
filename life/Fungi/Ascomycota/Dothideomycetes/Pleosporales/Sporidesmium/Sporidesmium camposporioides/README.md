@@ -1,5 +1,4 @@
-Sporidesmium camposporioides R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Sporidesmium camposporioides R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

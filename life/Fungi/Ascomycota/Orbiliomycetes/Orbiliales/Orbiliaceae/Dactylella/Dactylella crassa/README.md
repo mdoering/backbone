@@ -1,5 +1,4 @@
-Dactylella crassa Z.Q. Miao, Lei & Xing Z. Liu SPECIES
-=======
+# Dactylella crassa Z.Q. Miao, Lei & Xing Z. Liu SPECIES
 
 #### Status
 ACCEPTED

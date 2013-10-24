@@ -1,5 +1,4 @@
-Carpomitra madagascariensis Farghaly SPECIES
-=======
+# Carpomitra madagascariensis Farghaly SPECIES
 
 #### Status
 ACCEPTED

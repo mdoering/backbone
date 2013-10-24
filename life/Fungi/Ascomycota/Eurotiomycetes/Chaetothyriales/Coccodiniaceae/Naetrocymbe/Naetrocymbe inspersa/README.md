@@ -1,8 +1,7 @@
-Naetrocymbe inspersum Bat. SPECIES
-=======
+# Naetrocymbe inspersa Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Naetrocymbe inspersum Bat.
+Naetrocymbe inspersa Bat.
 
 ### Remarks
 null

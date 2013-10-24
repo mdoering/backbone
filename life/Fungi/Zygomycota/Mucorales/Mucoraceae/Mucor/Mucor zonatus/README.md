@@ -1,5 +1,4 @@
-Mucor zonatus Milko, 1967 SPECIES
-=======
+# Mucor zonatus Milko, 1967 SPECIES
 
 #### Status
 ACCEPTED

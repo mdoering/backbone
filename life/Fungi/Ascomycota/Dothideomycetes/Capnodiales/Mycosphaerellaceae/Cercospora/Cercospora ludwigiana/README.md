@@ -1,5 +1,4 @@
-Cercospora ludwigiana Bagyan., U. Braun & Jagad. SPECIES
-=======
+# Cercospora ludwigiana Bagyan., U. Braun & Jagad. SPECIES
 
 #### Status
 ACCEPTED

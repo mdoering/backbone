@@ -1,5 +1,4 @@
-Septoria decipiens Berk. & M.A. Curtis SPECIES
-=======
+# Septoria decipiens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monotalea salsa Brönnimann, Whittaker & Zaninetti, 1992 SPECIES
-=======
+# Monotalea salsa Brönnimann, Whittaker & Zaninetti, 1992 SPECIES
 
 #### Status
 ACCEPTED

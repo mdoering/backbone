@@ -1,5 +1,4 @@
-Dicaeoma allenii (G.P. Clinton) Arthur & Fromme SPECIES
-=======
+# Dicaeoma allenii (G.P. Clinton) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

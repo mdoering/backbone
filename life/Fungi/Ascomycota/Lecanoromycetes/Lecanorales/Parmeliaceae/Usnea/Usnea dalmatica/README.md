@@ -1,5 +1,4 @@
-Usnea dalmatica Motyka SPECIES
-=======
+# Usnea dalmatica Motyka SPECIES
 
 #### Status
 ACCEPTED

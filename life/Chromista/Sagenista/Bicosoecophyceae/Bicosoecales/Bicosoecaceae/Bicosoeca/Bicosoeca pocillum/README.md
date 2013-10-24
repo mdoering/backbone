@@ -1,5 +1,4 @@
-Bicosoeca pocillum Kent SPECIES
-=======
+# Bicosoeca pocillum Kent SPECIES
 
 #### Status
 ACCEPTED

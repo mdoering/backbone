@@ -1,5 +1,4 @@
-Didymosphaeria armeriae Losa España {?} SPECIES
-=======
+# Didymosphaeria armeriae Losa España {?} SPECIES
 
 #### Status
 ACCEPTED

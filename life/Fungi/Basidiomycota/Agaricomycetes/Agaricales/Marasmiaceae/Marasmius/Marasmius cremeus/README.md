@@ -1,5 +1,4 @@
-Marasmius cremeus Wannathes, Desjardin & Lumyong SPECIES
-=======
+# Marasmius cremeus Wannathes, Desjardin & Lumyong SPECIES
 
 #### Status
 ACCEPTED

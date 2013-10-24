@@ -1,5 +1,4 @@
-Diporisporites curvatus Ramanujam & K.P. Rao SPECIES
-=======
+# Diporisporites curvatus Ramanujam & K.P. Rao SPECIES
 
 #### Status
 ACCEPTED

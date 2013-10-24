@@ -1,5 +1,4 @@
-Bodo underboolensis Ruinen SPECIES
-=======
+# Bodo underboolensis Ruinen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hypoxylon investiens f. bakeri (Ellis) J.H. Mill. ex Dennis FORM
-=======
+# Hypoxylon investiens (Schwein.) M.A. Curtis, 1867 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 15: 450 (1961)
+Goel. Nat. Hist. Surv. N. Carol. , Pt 3 140 (1867)
 
 #### Original name
-Rosellinia bakeri Ellis
+Sphaeria investiens Schwein., 1832
 
 ### Remarks
 null

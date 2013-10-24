@@ -1,5 +1,4 @@
-Reophax pisiformis Zheng, 1988 SPECIES
-=======
+# Reophax pisiformis Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

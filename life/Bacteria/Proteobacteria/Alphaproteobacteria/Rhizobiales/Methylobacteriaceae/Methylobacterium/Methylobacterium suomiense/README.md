@@ -1,5 +1,4 @@
-Methylobacterium suomiense Doronina et al., 2002 SPECIES
-=======
+# Methylobacterium suomiense Doronina et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

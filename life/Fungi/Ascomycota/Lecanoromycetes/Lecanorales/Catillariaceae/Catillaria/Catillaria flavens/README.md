@@ -1,5 +1,4 @@
-Catillaria flavens (Willey) Fink SPECIES
-=======
+# Catillaria flavens (Willey) Fink SPECIES
 
 #### Status
 ACCEPTED

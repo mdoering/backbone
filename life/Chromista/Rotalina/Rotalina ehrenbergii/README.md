@@ -1,5 +1,4 @@
-Rotalina ehrenbergii Bailey, 1851 SPECIES
-=======
+# Rotalina ehrenbergii Bailey, 1851 SPECIES
 
 #### Status
 ACCEPTED

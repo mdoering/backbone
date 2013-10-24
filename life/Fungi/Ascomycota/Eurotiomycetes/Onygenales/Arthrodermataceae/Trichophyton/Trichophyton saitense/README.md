@@ -1,5 +1,4 @@
-Trichophyton saitense S. Mazza, Niño & Cornejo {?} SPECIES
-=======
+# Trichophyton saitense S. Mazza, Niño & Cornejo {?} SPECIES
 
 #### Status
 ACCEPTED

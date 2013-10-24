@@ -1,5 +1,4 @@
-Lecanora micromera Hue SPECIES
-=======
+# Lecanora micromera Hue SPECIES
 
 #### Status
 ACCEPTED

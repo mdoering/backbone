@@ -1,14 +1,13 @@
-Aspergillus brevipes var. unilateralis (Thrower) Kozak., 1989 VARIETY
-=======
+# Aspergillus unilateralis Thrower, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 161: 54 (1989)
+in McClennan, Ducker & Thrower, Aust. J. Bot. 2(3): 358 (1954)
 
 #### Original name
 Aspergillus unilateralis Thrower, 1954

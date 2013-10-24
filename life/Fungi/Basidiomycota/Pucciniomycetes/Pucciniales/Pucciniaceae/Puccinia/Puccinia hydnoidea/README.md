@@ -1,5 +1,4 @@
-Puccinia hydnoidea (Berk. & M.A. Curtis) Arthur SPECIES
-=======
+# Puccinia hydnoidea (Berk. & M.A. Curtis) Arthur SPECIES
 
 #### Status
 ACCEPTED

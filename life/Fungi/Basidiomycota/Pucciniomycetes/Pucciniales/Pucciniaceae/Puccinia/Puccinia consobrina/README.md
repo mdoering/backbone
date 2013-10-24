@@ -1,5 +1,4 @@
-Puccinia consobrina Arthur & Holw. SPECIES
-=======
+# Puccinia consobrina Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

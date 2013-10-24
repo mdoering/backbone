@@ -1,5 +1,4 @@
-Irpex conchiformis (Sacc.) Kotir. & Saaren. SPECIES
-=======
+# Irpex conchiformis (Sacc.) Kotir. & Saaren. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza dermatoides Rehm SPECIES
-=======
+# Pyrenopeziza dermatoides Rehm SPECIES
 
 #### Status
 ACCEPTED

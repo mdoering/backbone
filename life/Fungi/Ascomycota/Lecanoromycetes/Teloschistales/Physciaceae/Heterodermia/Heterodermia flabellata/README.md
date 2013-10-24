@@ -1,17 +1,16 @@
-Heterodermia flabellata var. flabellata VARIETY
-=======
+# Heterodermia flabellata (Fée) D. D. Awasthi SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Geophytology 3: 113 (1973)
 
 #### Original name
-Heterodermia flabellata var. flabellata
+Parmelia flabellata Fée
 
 ### Remarks
 null

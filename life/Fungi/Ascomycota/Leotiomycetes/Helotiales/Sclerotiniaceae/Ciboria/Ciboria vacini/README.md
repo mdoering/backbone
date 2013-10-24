@@ -1,5 +1,4 @@
-Ciboria vacini Velen. SPECIES
-=======
+# Ciboria vacini Velen. SPECIES
 
 #### Status
 ACCEPTED

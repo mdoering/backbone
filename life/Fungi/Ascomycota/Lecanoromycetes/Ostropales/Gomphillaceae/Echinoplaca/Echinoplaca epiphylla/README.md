@@ -1,5 +1,4 @@
-Echinoplaca epiphylla Fée SPECIES
-=======
+# Echinoplaca epiphylla Fée SPECIES
 
 #### Status
 ACCEPTED

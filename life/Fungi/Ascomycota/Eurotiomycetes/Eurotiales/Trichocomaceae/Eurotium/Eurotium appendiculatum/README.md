@@ -1,5 +1,4 @@
-Eurotium appendiculatum Blaser, 1976 SPECIES
-=======
+# Eurotium appendiculatum Blaser, 1976 SPECIES
 
 #### Status
 ACCEPTED

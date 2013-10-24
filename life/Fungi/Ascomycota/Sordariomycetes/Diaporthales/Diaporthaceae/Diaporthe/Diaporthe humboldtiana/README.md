@@ -1,5 +1,4 @@
-Diaporthe humboldtiana Speg. SPECIES
-=======
+# Diaporthe humboldtiana Speg. SPECIES
 
 #### Status
 ACCEPTED

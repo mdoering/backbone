@@ -1,5 +1,4 @@
-Phallus celebicus Henn. SPECIES
-=======
+# Phallus celebicus Henn. SPECIES
 
 #### Status
 ACCEPTED

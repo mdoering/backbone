@@ -1,5 +1,4 @@
-Meliola dipterygicola Bat. & H. Maia SPECIES
-=======
+# Meliola dipterygicola Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

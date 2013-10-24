@@ -1,17 +1,16 @@
-Astreptonema typica Manier SPECIES
-=======
+# Astreptonema typicum Manier ex Manier, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. Biol. Vég. , sér. 12 9: 99 (1968)
 
 #### Original name
-Astreptonema typica Manier
+Astreptonema typicum Manier ex Manier, 1968
 
 ### Remarks
 null

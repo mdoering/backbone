@@ -1,5 +1,4 @@
-Asterina ostiolata Berk. & M.A. Curtis SPECIES
-=======
+# Asterina ostiolata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

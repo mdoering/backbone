@@ -1,5 +1,4 @@
-Parapeltella amazonensis Bat. & Peres SPECIES
-=======
+# Parapeltella amazonensis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

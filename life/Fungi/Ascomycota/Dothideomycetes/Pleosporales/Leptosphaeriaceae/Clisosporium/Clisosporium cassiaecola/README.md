@@ -1,5 +1,4 @@
-Clisosporium cassiaecola (Cooke) Kuntze SPECIES
-=======
+# Clisosporium cassiaecola (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalobryon Lauterborn, 1896 GENUS
-=======
+# Hyalobryon Lauterborn, 1896 GENUS
 
 #### Status
 ACCEPTED

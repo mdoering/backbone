@@ -1,5 +1,4 @@
-Boletus sardous Belli & Sacc. SPECIES
-=======
+# Boletus sardous Belli & Sacc. SPECIES
 
 #### Status
 ACCEPTED

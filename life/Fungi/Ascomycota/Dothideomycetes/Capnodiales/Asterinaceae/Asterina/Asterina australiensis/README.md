@@ -1,5 +1,4 @@
-Asterina australiensis Syd. SPECIES
-=======
+# Asterina australiensis Syd. SPECIES
 
 #### Status
 ACCEPTED

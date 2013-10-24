@@ -1,5 +1,4 @@
-Pestalotiopsis sinensis (C.I. Chen) P.L. Zhu, Q.X. Ge & T. Xu SPECIES
-=======
+# Pestalotiopsis sinensis (C.I. Chen) P.L. Zhu, Q.X. Ge & T. Xu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella scorodocarpi (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella scorodocarpi (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

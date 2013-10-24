@@ -1,5 +1,4 @@
-Clavaria cyatheae Henn. SPECIES
-=======
+# Clavaria cyatheae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia compensatula Nyl. SPECIES
-=======
+# Arthonia compensatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

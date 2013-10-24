@@ -1,5 +1,4 @@
-Pleospora bulgarica Petr. SPECIES
-=======
+# Pleospora bulgarica Petr. SPECIES
 
 #### Status
 ACCEPTED

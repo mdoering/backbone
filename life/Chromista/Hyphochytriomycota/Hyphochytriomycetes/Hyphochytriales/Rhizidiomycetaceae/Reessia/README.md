@@ -1,5 +1,4 @@
-Reessia C. Fisch GENUS
-=======
+# Reessia C. Fisch GENUS
 
 #### Status
 ACCEPTED

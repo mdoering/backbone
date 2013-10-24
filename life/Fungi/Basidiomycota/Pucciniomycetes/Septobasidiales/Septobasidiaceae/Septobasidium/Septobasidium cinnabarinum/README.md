@@ -1,5 +1,4 @@
-Septobasidium cinnabarinum Syd. & P. Syd. SPECIES
-=======
+# Septobasidium cinnabarinum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

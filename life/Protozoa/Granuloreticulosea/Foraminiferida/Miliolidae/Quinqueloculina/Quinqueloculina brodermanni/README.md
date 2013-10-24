@@ -1,5 +1,4 @@
-Quinqueloculina brodermanni SPECIES
-=======
+# Quinqueloculina brodermanni SPECIES
 
 #### Status
 ACCEPTED

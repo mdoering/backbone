@@ -1,5 +1,4 @@
-Puccinia polozhiae Plats SPECIES
-=======
+# Puccinia polozhiae Plats SPECIES
 
 #### Status
 ACCEPTED

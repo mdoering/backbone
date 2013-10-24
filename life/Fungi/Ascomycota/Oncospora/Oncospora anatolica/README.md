@@ -1,5 +1,4 @@
-Oncospora anatolica Petr. SPECIES
-=======
+# Oncospora anatolica Petr. SPECIES
 
 #### Status
 ACCEPTED

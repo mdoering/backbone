@@ -1,5 +1,4 @@
-Aecidium eremostachydis Petr. SPECIES
-=======
+# Aecidium eremostachydis Petr. SPECIES
 
 #### Status
 ACCEPTED

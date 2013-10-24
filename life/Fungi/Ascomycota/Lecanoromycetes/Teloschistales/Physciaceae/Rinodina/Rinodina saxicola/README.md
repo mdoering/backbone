@@ -1,5 +1,4 @@
-Rinodina saxicola B. de Lesd. SPECIES
-=======
+# Rinodina saxicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

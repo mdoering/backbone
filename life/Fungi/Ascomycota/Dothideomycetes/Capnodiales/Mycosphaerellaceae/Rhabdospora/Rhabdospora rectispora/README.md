@@ -1,5 +1,4 @@
-Rhabdospora rectispora Bubák SPECIES
-=======
+# Rhabdospora rectispora Bubák SPECIES
 
 #### Status
 ACCEPTED

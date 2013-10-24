@@ -1,5 +1,4 @@
-Chaetophoma incrustans Speg. SPECIES
-=======
+# Chaetophoma incrustans Speg. SPECIES
 
 #### Status
 ACCEPTED

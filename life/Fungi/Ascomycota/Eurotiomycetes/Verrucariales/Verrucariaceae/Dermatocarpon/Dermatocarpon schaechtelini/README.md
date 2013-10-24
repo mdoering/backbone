@@ -1,5 +1,4 @@
-Dermatocarpon schaechtelini Werner SPECIES
-=======
+# Dermatocarpon schaechtelini Werner SPECIES
 
 #### Status
 ACCEPTED

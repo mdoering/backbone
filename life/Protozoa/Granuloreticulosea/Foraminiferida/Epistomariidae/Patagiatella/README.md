@@ -1,5 +1,4 @@
-Patagiatella Loeblich & Tappan, 1994 GENUS
-=======
+# Patagiatella Loeblich & Tappan, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosidae FAMILY
-=======
+# Trichosidae FAMILY
 
 #### Status
 ACCEPTED

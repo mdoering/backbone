@@ -1,14 +1,13 @@
-Ustilago coronata Liro, 1924 SPECIES
-=======
+# Microbotryum coronatum (Liro) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. 17(1): 244 (1924)
+Mycotaxon 67: 42 (1998)
 
 #### Original name
 Ustilago coronata Liro, 1924

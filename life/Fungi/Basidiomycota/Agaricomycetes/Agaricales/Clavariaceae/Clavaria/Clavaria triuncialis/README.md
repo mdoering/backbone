@@ -1,5 +1,4 @@
-Clavaria triuncialis Alb. & Schwein. SPECIES
-=======
+# Clavaria triuncialis Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

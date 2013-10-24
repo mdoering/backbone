@@ -1,5 +1,4 @@
-Pertusaria ampliata Erichsen SPECIES
-=======
+# Pertusaria ampliata Erichsen SPECIES
 
 #### Status
 ACCEPTED

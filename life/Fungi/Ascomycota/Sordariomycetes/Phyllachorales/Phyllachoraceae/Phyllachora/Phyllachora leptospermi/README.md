@@ -1,17 +1,16 @@
-Melophia leptospermi Cooke, 1892 SPECIES
-=======
+# Phyllachora leptospermi (Cooke) Höhn., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 20(no. 95): 65 (1892)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 119: 639 (1910)
 
 #### Original name
-Melophia phyllachoroidea Speg., 1886
+Melophia leptospermi Cooke, 1892
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Heterophryidae FAMILY
-=======
+# Heterophryidae FAMILY
 
 #### Status
 ACCEPTED

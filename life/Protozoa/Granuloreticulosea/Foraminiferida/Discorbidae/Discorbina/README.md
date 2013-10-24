@@ -1,14 +1,13 @@
-Trochulina d'Orbigny, 1839 GENUS
-=======
+# Discorbina Parker & Jones in Carpenter, 1862 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Intr. Foram. , 203.
 
 #### Original name
 null

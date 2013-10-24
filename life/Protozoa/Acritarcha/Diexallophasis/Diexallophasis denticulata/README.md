@@ -1,5 +1,4 @@
-Diexallophasis denticulata SPECIES
-=======
+# Diexallophasis denticulata SPECIES
 
 #### Status
 ACCEPTED

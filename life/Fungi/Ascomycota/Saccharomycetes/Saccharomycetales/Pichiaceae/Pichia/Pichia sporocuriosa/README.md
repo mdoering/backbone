@@ -1,5 +1,4 @@
-Pichia sporocuriosa G. Péter, Tornai-Leh., Vitányi SPECIES
-=======
+# Pichia sporocuriosa G. Péter, Tornai-Leh., Vitányi SPECIES
 
 #### Status
 ACCEPTED

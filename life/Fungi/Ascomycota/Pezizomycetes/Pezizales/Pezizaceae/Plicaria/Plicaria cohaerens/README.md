@@ -1,5 +1,4 @@
-Plicaria cohaerens Velen. SPECIES
-=======
+# Plicaria cohaerens Velen. SPECIES
 
 #### Status
 ACCEPTED

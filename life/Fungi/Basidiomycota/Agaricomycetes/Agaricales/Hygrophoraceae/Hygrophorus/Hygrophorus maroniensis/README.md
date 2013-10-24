@@ -1,5 +1,4 @@
-Hygrophorus maroniensis R. Heim SPECIES
-=======
+# Hygrophorus maroniensis R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microdiplodia rhamni Fuckel SPECIES
-=======
+# Microdiplodia rhamni Fuckel SPECIES
 
 #### Status
 ACCEPTED

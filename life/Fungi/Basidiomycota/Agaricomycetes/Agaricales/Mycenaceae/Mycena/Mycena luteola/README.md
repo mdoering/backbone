@@ -1,5 +1,4 @@
-Mycena luteola Maas Geest. & de Meijer SPECIES
-=======
+# Mycena luteola Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

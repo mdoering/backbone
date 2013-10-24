@@ -1,5 +1,4 @@
-Physcia straminea Pers. SPECIES
-=======
+# Physcia straminea Pers. SPECIES
 
 #### Status
 ACCEPTED

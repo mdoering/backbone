@@ -1,5 +1,4 @@
-Dothidea polita Fr. SPECIES
-=======
+# Dothidea polita Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobaria dichotoma Bory SPECIES
-=======
+# Lobaria dichotoma Bory SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scyphidia trituri SPECIES
-=======
+# Scyphidia trituri SPECIES
 
 #### Status
 ACCEPTED

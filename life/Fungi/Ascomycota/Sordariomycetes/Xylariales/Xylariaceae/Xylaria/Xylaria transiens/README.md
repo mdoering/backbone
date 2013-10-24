@@ -1,5 +1,4 @@
-Xylaria transiens Theiss. SPECIES
-=======
+# Xylaria transiens Theiss. SPECIES
 
 #### Status
 ACCEPTED

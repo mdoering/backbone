@@ -1,5 +1,4 @@
-Huea maurula (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Huea maurula (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

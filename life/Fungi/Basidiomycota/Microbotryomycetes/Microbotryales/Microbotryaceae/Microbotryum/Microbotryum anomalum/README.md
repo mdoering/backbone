@@ -1,17 +1,16 @@
-Ustilago anomala var. microspora (Speg.) Cif. VARIETY
-=======
+# Microbotryum anomalum (J. Kunze ex G. Winter) Vánky, 1998 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 67: 39 (1998)
 
 #### Original name
-Ustilago utriculosa var. microspora Speg.
+Ustilago anomala J. Kunze ex G. Winter, 1877
 
 ### Remarks
 null

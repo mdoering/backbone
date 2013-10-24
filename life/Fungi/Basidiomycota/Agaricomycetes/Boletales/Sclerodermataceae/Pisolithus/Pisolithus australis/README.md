@@ -1,5 +1,4 @@
-Pisolithus australis (Lév.) E. Fisch. SPECIES
-=======
+# Pisolithus australis (Lév.) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

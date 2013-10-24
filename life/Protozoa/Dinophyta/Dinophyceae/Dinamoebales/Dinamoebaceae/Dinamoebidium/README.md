@@ -1,17 +1,16 @@
-Dinamoeba Pascher, 1916 GENUS
-=======
+# Dinamoebidium Pascher, 1916 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Protistenk. , 36, 118.
+Arch. Protistenk. , 37, 31.
 
 #### Original name
-null
+Dinamoeba Pascher, 1916
 
 ### Remarks
 null

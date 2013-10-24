@@ -1,5 +1,4 @@
-Boletus gilletii Sacc. & Cub. SPECIES
-=======
+# Boletus gilletii Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

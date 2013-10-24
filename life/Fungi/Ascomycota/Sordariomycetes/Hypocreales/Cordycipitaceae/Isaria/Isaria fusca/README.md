@@ -1,5 +1,4 @@
-Isaria fusca J.N. Kapoor & Munjal SPECIES
-=======
+# Isaria fusca J.N. Kapoor & Munjal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chamaeceras spongiosus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras spongiosus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mikrokokkus GENUS
-=======
+# Mikrokokkus GENUS
 
 #### Status
 ACCEPTED

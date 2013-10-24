@@ -1,5 +1,4 @@
-Hymenopsis spartii (Lasch) Sacc. SPECIES
-=======
+# Hymenopsis spartii (Lasch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

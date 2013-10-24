@@ -1,5 +1,4 @@
-Physcia ossicola C.W. Dodge SPECIES
-=======
+# Physcia ossicola C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

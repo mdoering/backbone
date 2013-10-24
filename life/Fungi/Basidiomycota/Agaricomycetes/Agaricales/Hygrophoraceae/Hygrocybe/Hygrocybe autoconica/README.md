@@ -1,5 +1,4 @@
-Hygrocybe autoconica anon. SPECIES
-=======
+# Hygrocybe autoconica anon. SPECIES
 
 #### Status
 ACCEPTED

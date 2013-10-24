@@ -1,5 +1,4 @@
-Scutularia reducta P. Karst. SPECIES
-=======
+# Scutularia reducta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

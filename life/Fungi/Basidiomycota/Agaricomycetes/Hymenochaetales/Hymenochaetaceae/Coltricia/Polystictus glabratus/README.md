@@ -1,5 +1,4 @@
-Polystictus glabratus Lloyd SPECIES
-=======
+# Polystictus glabratus Lloyd SPECIES
 
 #### Status
 ACCEPTED

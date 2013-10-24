@@ -1,5 +1,4 @@
-Microsphaera magnifica U. Braun SPECIES
-=======
+# Microsphaera magnifica U. Braun SPECIES
 
 #### Status
 ACCEPTED

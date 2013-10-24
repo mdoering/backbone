@@ -1,5 +1,4 @@
-Uromyces sphaerocarpus Syd. & P. Syd. SPECIES
-=======
+# Uromyces sphaerocarpus Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

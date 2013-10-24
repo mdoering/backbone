@@ -1,5 +1,4 @@
-Chryosporium pannorum (Link) S. Hughes, 1958 SPECIES
-=======
+# Chryosporium pannorum (Link) S. Hughes, 1958 SPECIES
 
 #### Status
 DOUBTFUL

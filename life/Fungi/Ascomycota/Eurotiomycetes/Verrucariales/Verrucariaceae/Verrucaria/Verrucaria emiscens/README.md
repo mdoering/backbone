@@ -1,5 +1,4 @@
-Verrucaria emiscens Nyl. SPECIES
-=======
+# Verrucaria emiscens Nyl. SPECIES
 
 #### Status
 ACCEPTED

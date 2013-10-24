@@ -1,5 +1,4 @@
-Xanthoria australis (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Xanthoria australis (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

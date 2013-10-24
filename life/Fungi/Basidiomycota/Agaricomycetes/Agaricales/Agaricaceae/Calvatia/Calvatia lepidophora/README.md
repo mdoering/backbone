@@ -1,5 +1,4 @@
-Calvatia lepidophora (Ellis & Everh.) Coker & Couch SPECIES
-=======
+# Calvatia lepidophora (Ellis & Everh.) Coker & Couch SPECIES
 
 #### Status
 ACCEPTED

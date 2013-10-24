@@ -1,5 +1,4 @@
-Ceratocystis catoniana (Goid.) C. Moreau SPECIES
-=======
+# Ceratocystis catoniana (Goid.) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

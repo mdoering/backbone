@@ -1,5 +1,4 @@
-Propionibacterium cyclohexanicum Kusano et al., 1997 SPECIES
-=======
+# Propionibacterium cyclohexanicum Kusano et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

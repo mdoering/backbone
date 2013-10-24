@@ -1,5 +1,4 @@
-Hygrocybe kouskosii A.M. Young SPECIES
-=======
+# Hygrocybe kouskosii A.M. Young SPECIES
 
 #### Status
 ACCEPTED

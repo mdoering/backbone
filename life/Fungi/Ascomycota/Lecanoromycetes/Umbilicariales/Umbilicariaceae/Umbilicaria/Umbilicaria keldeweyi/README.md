@@ -1,5 +1,4 @@
-Umbilicaria keldeweyi (Körb.) Stizenb. SPECIES
-=======
+# Umbilicaria keldeweyi (Körb.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agyrina (Sacc.) Clem. GENUS
-=======
+# Steinia Körber, 1873 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis) 67, 174 (1909)
+in Stein, Jber. schles. Ges. vaterl. Kultur 50: 169 (1873)
 
 #### Original name
-null
+Steinia Körber, 1873
 
 ### Remarks
 null

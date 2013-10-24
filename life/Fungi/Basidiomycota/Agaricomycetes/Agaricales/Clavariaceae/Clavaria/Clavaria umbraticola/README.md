@@ -1,5 +1,4 @@
-Clavaria umbraticola Leuba SPECIES
-=======
+# Clavaria umbraticola Leuba SPECIES
 
 #### Status
 ACCEPTED

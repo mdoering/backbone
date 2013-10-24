@@ -1,17 +1,16 @@
-Lecanidion minutissimum (W. Phillips) Sacc., 1889 SPECIES
-=======
+# Durella commutata Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 799 (1889)
+Jb. nassau. Ver. Naturk. 23-24: 281 (1870)
 
 #### Original name
-null
+Durella commutata Fuckel, 1870
 
 ### Remarks
 null

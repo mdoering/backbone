@@ -1,5 +1,4 @@
-Phacellium hydrangeacearum U. Braun SPECIES
-=======
+# Phacellium hydrangeacearum U. Braun SPECIES
 
 #### Status
 ACCEPTED

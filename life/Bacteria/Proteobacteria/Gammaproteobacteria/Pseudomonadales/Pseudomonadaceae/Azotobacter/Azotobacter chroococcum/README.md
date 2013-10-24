@@ -1,5 +1,4 @@
-Azotobacter chroococcum Beijerinck, 1901 (Approved Lists, 1980) SPECIES
-=======
+# Azotobacter chroococcum Beijerinck, 1901 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Miliammina earlandi Loeblich & Tappan, 1955 SPECIES
-=======
+# Miliammina earlandi Loeblich & Tappan, 1955 SPECIES
 
 #### Status
 ACCEPTED

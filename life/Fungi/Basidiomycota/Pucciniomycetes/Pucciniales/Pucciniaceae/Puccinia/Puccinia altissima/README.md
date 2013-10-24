@@ -1,5 +1,4 @@
-Puccinia altissima Syd. SPECIES
-=======
+# Puccinia altissima Syd. SPECIES
 
 #### Status
 ACCEPTED

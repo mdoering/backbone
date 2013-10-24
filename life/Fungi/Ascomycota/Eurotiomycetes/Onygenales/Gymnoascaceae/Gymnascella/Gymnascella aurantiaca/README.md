@@ -1,14 +1,13 @@
-Myxotrichum aurantiacum (Peck) Sacc. SPECIES
-=======
+# Gymnascella aurantiaca Peck, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 35: (1884)
 
 #### Original name
 Gymnascella aurantiaca Peck, 1884

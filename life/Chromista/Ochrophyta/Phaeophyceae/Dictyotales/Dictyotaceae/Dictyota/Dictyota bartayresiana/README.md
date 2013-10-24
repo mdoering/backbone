@@ -1,5 +1,4 @@
-Dictyota bartayresiana var. denticulata Kützing VARIETY
-=======
+# Dictyota bartayresiana J.V. Lamouroux SPECIES
 
 #### Status
 ACCEPTED

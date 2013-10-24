@@ -1,5 +1,4 @@
-Puccinia geophila Racib. SPECIES
-=======
+# Puccinia geophila Racib. SPECIES
 
 #### Status
 ACCEPTED

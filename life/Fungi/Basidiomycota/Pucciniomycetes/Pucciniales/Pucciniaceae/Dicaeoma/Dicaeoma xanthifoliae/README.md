@@ -1,5 +1,4 @@
-Dicaeoma xanthifoliae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma xanthifoliae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

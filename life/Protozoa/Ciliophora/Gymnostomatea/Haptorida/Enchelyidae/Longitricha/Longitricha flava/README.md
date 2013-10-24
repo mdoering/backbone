@@ -1,5 +1,4 @@
-Longitricha flava Gajewskaja, 1933 SPECIES
-=======
+# Longitricha flava Gajewskaja, 1933 SPECIES
 
 #### Status
 ACCEPTED

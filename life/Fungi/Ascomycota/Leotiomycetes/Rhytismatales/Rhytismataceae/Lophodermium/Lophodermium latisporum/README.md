@@ -1,5 +1,4 @@
-Lophodermium latisporum (Tehon) Klieber SPECIES
-=======
+# Lophodermium latisporum (Tehon) Klieber SPECIES
 
 #### Status
 ACCEPTED

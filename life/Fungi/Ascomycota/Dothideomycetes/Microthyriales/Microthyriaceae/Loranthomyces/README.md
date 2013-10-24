@@ -1,5 +1,4 @@
-Loranthomyces GENUS
-=======
+# Loranthomyces GENUS
 
 #### Status
 ACCEPTED

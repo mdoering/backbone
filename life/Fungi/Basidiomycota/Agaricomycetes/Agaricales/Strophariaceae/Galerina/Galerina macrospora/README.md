@@ -1,5 +1,4 @@
-Galerina macrospora (Velen.) Singer SPECIES
-=======
+# Galerina macrospora (Velen.) Singer SPECIES
 
 #### Status
 ACCEPTED

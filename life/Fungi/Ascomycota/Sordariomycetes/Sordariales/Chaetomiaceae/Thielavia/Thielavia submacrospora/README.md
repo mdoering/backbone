@@ -1,5 +1,4 @@
-Thielavia submacrospora K. Gopal & Lodha SPECIES
-=======
+# Thielavia submacrospora K. Gopal & Lodha SPECIES
 
 #### Status
 ACCEPTED

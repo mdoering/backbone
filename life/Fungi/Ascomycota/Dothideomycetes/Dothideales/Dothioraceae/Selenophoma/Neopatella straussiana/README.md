@@ -1,5 +1,4 @@
-Neopatella straussiana Sacc. SPECIES
-=======
+# Neopatella straussiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

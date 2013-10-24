@@ -1,5 +1,4 @@
-Lactydina Subram. GENUS
-=======
+# Lactydina Subram. GENUS
 
 #### Status
 ACCEPTED

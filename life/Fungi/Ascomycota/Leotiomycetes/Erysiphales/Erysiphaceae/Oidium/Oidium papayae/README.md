@@ -1,5 +1,4 @@
-Oidium papayae Marta Seq. SPECIES
-=======
+# Oidium papayae Marta Seq. SPECIES
 
 #### Status
 ACCEPTED

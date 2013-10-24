@@ -1,5 +1,4 @@
-Nyctotherus actiniarum SPECIES
-=======
+# Nyctotherus actiniarum SPECIES
 
 #### Status
 ACCEPTED

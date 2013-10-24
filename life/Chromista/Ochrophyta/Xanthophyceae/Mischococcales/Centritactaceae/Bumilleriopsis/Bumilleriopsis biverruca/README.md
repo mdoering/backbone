@@ -1,5 +1,4 @@
-Bumilleriopsis biverruca Pascher SPECIES
-=======
+# Bumilleriopsis biverruca Pascher SPECIES
 
 #### Status
 ACCEPTED

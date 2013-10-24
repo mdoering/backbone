@@ -1,5 +1,4 @@
-Dactylaria isthmospora Cabello, Mengasc. & Aramb. SPECIES
-=======
+# Dactylaria isthmospora Cabello, Mengasc. & Aramb. SPECIES
 
 #### Status
 ACCEPTED

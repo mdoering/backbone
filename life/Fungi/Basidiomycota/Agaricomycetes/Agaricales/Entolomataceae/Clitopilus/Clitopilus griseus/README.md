@@ -1,5 +1,4 @@
-Clitopilus griseus Rick SPECIES
-=======
+# Clitopilus griseus Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia sambuci (Schwein.) Arthur SPECIES
-=======
+# Puccinia sambuci (Schwein.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plagiostigmella clypeata Petr., 1949 SPECIES
-=======
+# Plagiostigmella clypeata Petr., 1949 SPECIES
 
 #### Status
 ACCEPTED

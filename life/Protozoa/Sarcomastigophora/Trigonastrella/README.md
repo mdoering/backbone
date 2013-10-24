@@ -1,5 +1,4 @@
-Trigonastrella Haeckel, 1887 GENUS
-=======
+# Trigonastrella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

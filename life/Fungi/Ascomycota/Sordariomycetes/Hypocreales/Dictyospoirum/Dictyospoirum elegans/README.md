@@ -1,5 +1,4 @@
-Dictyospoirum elegans Corda SPECIES
-=======
+# Dictyospoirum elegans Corda SPECIES
 
 #### Status
 ACCEPTED

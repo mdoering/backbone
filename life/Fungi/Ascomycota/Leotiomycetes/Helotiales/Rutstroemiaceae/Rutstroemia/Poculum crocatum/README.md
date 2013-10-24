@@ -1,14 +1,13 @@
-Helotium crocatum (Mont.) Le Gal, 1953 SPECIES
-=======
+# Poculum crocatum (Mont.) Dumont, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 70(1): 85 (1978)
 
 #### Original name
 null

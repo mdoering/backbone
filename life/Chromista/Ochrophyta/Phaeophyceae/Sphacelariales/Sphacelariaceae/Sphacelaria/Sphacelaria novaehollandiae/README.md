@@ -1,5 +1,4 @@
-Sphacelaria novaehollandiae SPECIES
-=======
+# Sphacelaria novaehollandiae SPECIES
 
 #### Status
 ACCEPTED

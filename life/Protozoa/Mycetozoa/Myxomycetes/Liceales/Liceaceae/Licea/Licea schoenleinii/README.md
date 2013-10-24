@@ -1,5 +1,4 @@
-Licea schoenleinii Johow SPECIES
-=======
+# Licea schoenleinii Johow SPECIES
 
 #### Status
 ACCEPTED

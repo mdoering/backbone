@@ -1,5 +1,4 @@
-Priscogalea grumosa Aristova, 1980 SPECIES
-=======
+# Priscogalea grumosa Aristova, 1980 SPECIES
 
 #### Status
 ACCEPTED

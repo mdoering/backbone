@@ -1,5 +1,4 @@
-Cymatiogalea stylifera N. Umnova in N. Umnova & Fanderflit, 1971 ex Aristova, 1980 SPECIES
-=======
+# Cymatiogalea stylifera N. Umnova in N. Umnova & Fanderflit, 1971 ex Aristova, 1980 SPECIES
 
 #### Status
 ACCEPTED

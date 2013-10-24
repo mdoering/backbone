@@ -1,5 +1,4 @@
-Polystictus scopulosus Lloyd SPECIES
-=======
+# Polystictus scopulosus Lloyd SPECIES
 
 #### Status
 ACCEPTED

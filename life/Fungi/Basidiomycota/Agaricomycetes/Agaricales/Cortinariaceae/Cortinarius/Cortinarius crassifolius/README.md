@@ -1,5 +1,4 @@
-Cortinarius crassifolius (Velen.) Kühner & Romagn. ex Bon SPECIES
-=======
+# Cortinarius crassifolius (Velen.) Kühner & Romagn. ex Bon SPECIES
 
 #### Status
 ACCEPTED

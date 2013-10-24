@@ -1,5 +1,4 @@
-Aecidium hamiltoniae Thüm. SPECIES
-=======
+# Aecidium hamiltoniae Thüm. SPECIES
 
 #### Status
 ACCEPTED

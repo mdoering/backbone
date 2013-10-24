@@ -1,5 +1,4 @@
-Aulacoseira Thwaites GENUS
-=======
+# Aulacoseira Thwaites GENUS
 
 #### Status
 ACCEPTED

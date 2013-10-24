@@ -1,5 +1,4 @@
-Sporobulimina Stone, 1949 GENUS
-=======
+# Sporobulimina Stone, 1949 GENUS
 
 #### Status
 ACCEPTED

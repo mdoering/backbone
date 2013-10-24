@@ -1,5 +1,4 @@
-Aerococcus GENUS
-=======
+# Aerococcus GENUS
 
 #### Status
 ACCEPTED

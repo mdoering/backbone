@@ -1,5 +1,4 @@
-Manginula sucuubae Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Manginula sucuubae Bat., J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

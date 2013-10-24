@@ -1,5 +1,4 @@
-Corticium chalybaeum Pers. SPECIES
-=======
+# Corticium chalybaeum Pers. SPECIES
 
 #### Status
 ACCEPTED

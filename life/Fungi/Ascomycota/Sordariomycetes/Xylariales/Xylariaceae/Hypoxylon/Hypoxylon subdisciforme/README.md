@@ -1,5 +1,4 @@
-Hypoxylon subdisciforme J.D. Rogers, Y.M. Ju & Hemmes, 2006 SPECIES
-=======
+# Hypoxylon subdisciforme J.D. Rogers, Y.M. Ju & Hemmes, 2006 SPECIES
 
 #### Status
 ACCEPTED

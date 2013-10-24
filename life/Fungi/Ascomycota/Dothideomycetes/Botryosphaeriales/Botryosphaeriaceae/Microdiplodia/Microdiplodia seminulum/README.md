@@ -1,5 +1,4 @@
-Microdiplodia seminulum (Pat.) Tassi SPECIES
-=======
+# Microdiplodia seminulum (Pat.) Tassi SPECIES
 
 #### Status
 ACCEPTED

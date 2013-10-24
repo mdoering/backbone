@@ -1,5 +1,4 @@
-Collybia condimentodora Raithelh. SPECIES
-=======
+# Collybia condimentodora Raithelh. SPECIES
 
 #### Status
 ACCEPTED

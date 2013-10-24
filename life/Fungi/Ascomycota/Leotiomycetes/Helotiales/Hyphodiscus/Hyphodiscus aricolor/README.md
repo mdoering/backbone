@@ -1,5 +1,4 @@
-Hyphodiscus aricolor SPECIES
-=======
+# Hyphodiscus aricolor SPECIES
 
 #### Status
 ACCEPTED

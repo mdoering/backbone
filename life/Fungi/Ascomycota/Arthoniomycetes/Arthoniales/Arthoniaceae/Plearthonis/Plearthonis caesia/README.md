@@ -1,5 +1,4 @@
-Plearthonis caesia (Flot.) Clem. SPECIES
-=======
+# Plearthonis caesia (Flot.) Clem. SPECIES
 
 #### Status
 ACCEPTED

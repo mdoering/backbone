@@ -1,5 +1,4 @@
-Peronospora corniculata anon. SPECIES
-=======
+# Peronospora corniculata anon. SPECIES
 
 #### Status
 ACCEPTED

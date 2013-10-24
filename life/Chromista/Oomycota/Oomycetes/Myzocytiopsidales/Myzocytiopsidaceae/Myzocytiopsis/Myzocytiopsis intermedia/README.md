@@ -1,14 +1,13 @@
-Myzocytium intermedium G.L. Barron, 1976 SPECIES
-=======
+# Myzocytiopsis intermedia (G.L. Barron) M.W. Dick, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 54(1-2): 2 (1976)
+Mycol. Res. 101(7): 880 (1997)
 
 #### Original name
 Myzocytium intermedium G.L. Barron, 1976

@@ -1,5 +1,4 @@
-Striadiporites californicus Elsik & Janson. SPECIES
-=======
+# Striadiporites californicus Elsik & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia hemizoniae Ellis & Tracy SPECIES
-=======
+# Puccinia hemizoniae Ellis & Tracy SPECIES
 
 #### Status
 ACCEPTED

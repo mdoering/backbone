@@ -1,14 +1,13 @@
-Octospora thumenii (P. Karst.) K.B. Khare & V.P. Tewari SPECIES
-=======
+# Octospora thuemenii (P. Karst.) K.B. Khare & V.P. Tewari SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 56(17): 2118 (1978)
 
 #### Original name
 Peziza thuemenii P. Karst.

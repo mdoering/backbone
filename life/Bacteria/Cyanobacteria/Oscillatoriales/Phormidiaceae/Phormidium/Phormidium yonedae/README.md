@@ -1,5 +1,4 @@
-Phormidium yonedae (I. Umezaki) I. Umezaki & M. Watanabe SPECIES
-=======
+# Phormidium yonedae (I. Umezaki) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

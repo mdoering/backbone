@@ -1,5 +1,4 @@
-Torula hypoxylaecola Preuss SPECIES
-=======
+# Torula hypoxylaecola Preuss SPECIES
 
 #### Status
 ACCEPTED

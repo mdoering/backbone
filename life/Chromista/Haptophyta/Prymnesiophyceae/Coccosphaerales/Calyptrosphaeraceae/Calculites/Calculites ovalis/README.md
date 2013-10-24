@@ -1,5 +1,4 @@
-Calculites ovalis (Stradner, 1963) Prins & Sissingh in Sissingh, 1977 SPECIES
-=======
+# Calculites ovalis (Stradner, 1963) Prins & Sissingh in Sissingh, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Harknessia fusiformis Crous, M.J. Wingf. & Nag Raj SPECIES
-=======
+# Harknessia fusiformis Crous, M.J. Wingf. & Nag Raj SPECIES
 
 #### Status
 ACCEPTED

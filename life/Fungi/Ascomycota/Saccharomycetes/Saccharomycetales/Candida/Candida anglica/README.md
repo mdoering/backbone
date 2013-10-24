@@ -1,5 +1,4 @@
-Candida anglica Kurtzman, Robnett & Yarrow SPECIES
-=======
+# Candida anglica Kurtzman, Robnett & Yarrow SPECIES
 
 #### Status
 ACCEPTED

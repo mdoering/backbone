@@ -1,17 +1,16 @@
-Lecidea longiuscula Nyl. SPECIES
-=======
+# Phyllopsora longiuscula (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 398 (1926)
 
 #### Original name
-null
+Lecidea longiuscula Nyl.
 
 ### Remarks
 null

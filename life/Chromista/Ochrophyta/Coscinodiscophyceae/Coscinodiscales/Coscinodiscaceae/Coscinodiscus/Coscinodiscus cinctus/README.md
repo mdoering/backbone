@@ -1,5 +1,4 @@
-Coscinodiscus cinctus Kützing SPECIES
-=======
+# Coscinodiscus cinctus Kützing SPECIES
 
 #### Status
 ACCEPTED

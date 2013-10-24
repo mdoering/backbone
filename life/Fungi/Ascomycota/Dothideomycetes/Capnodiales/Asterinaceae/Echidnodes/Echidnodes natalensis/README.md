@@ -1,5 +1,4 @@
-Echidnodes natalensis (Doidge) Doidge SPECIES
-=======
+# Echidnodes natalensis (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

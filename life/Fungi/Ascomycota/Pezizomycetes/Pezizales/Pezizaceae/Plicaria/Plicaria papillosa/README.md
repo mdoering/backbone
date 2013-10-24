@@ -1,5 +1,4 @@
-Plicaria papillosa L.R. Batra SPECIES
-=======
+# Plicaria papillosa L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

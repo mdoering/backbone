@@ -1,5 +1,4 @@
-Bekomiforma GENUS
-=======
+# Bekomiforma GENUS
 
 #### Status
 ACCEPTED

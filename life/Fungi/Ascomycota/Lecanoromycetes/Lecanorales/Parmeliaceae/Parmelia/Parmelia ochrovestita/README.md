@@ -1,5 +1,4 @@
-Parmelia ochrovestita Zahlbr. SPECIES
-=======
+# Parmelia ochrovestita Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

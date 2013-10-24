@@ -1,5 +1,4 @@
-Verrucaria interstes Nyl. SPECIES
-=======
+# Verrucaria interstes Nyl. SPECIES
 
 #### Status
 ACCEPTED

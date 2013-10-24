@@ -1,5 +1,4 @@
-Diplodina fairmani Ellis & Everh. SPECIES
-=======
+# Diplodina fairmani Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

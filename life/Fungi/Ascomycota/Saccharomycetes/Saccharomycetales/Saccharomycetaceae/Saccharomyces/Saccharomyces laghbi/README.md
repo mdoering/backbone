@@ -1,5 +1,4 @@
-Saccharomyces laghbi Gasp. SPECIES
-=======
+# Saccharomyces laghbi Gasp. SPECIES
 
 #### Status
 ACCEPTED

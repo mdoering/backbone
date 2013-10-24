@@ -1,5 +1,4 @@
-Diplodina melicarum Petr. SPECIES
-=======
+# Diplodina melicarum Petr. SPECIES
 
 #### Status
 ACCEPTED

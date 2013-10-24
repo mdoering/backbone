@@ -1,5 +1,4 @@
-Leptogium punctulatum Nyl. SPECIES
-=======
+# Leptogium punctulatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

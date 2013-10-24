@@ -1,5 +1,4 @@
-Byssocorticium californicum Jülich, 1972 SPECIES
-=======
+# Byssocorticium californicum Jülich, 1972 SPECIES
 
 #### Status
 ACCEPTED

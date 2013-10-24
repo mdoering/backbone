@@ -1,5 +1,4 @@
-Boletus rigelliae Velen. SPECIES
-=======
+# Boletus rigelliae Velen. SPECIES
 
 #### Status
 ACCEPTED

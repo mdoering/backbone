@@ -1,5 +1,4 @@
-Puttemansia Henn. GENUS
-=======
+# Puttemansia Henn. GENUS
 
 #### Status
 ACCEPTED

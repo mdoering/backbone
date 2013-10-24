@@ -1,14 +1,13 @@
-Camarops tubulina var. gigas (W. Phillips & Plowr.) Shear, 1938 VARIETY
-=======
+# Nummularia gigas W. Phillips & Plowr., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 30: 586 (1938)
+Grevillea 8(no. 47): 106 (1880)
 
 #### Original name
 Nummularia gigas W. Phillips & Plowr., 1880

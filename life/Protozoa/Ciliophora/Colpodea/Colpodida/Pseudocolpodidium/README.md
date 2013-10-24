@@ -1,5 +1,4 @@
-Pseudocolpodidium Foissner, Agatha & Berger, 2002 GENUS
-=======
+# Pseudocolpodidium Foissner, Agatha & Berger, 2002 GENUS
 
 #### Status
 ACCEPTED

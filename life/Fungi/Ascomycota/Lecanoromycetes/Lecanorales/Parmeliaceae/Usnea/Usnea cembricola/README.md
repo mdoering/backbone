@@ -1,5 +1,4 @@
-Usnea cembricola Motyka SPECIES
-=======
+# Usnea cembricola Motyka SPECIES
 
 #### Status
 ACCEPTED

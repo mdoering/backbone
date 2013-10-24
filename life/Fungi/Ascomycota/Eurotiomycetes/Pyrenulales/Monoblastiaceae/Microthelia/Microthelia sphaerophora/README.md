@@ -1,5 +1,4 @@
-Microthelia sphaerophora (Ellis & Everh.) Kuntze SPECIES
-=======
+# Microthelia sphaerophora (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

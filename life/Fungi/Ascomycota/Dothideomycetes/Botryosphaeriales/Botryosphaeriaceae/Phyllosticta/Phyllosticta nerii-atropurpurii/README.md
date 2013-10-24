@@ -1,17 +1,16 @@
-Phyllosticta neriae-atropurpuriae B.R.D. Yadav & V.G. Rao SPECIES
-=======
+# Phyllosticta nerii-atropurpurii B.R.D. Yadav & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the University of Poona 54: 156 (1981)
 
 #### Original name
-Phyllosticta neriae-atropurpuriae B.R.D. Yadav & V.G. Rao
+Phyllosticta nerii-atropurpurii B.R.D. Yadav & V.G. Rao
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pluteus echinatus Justo & M.L. Castro SPECIES
-=======
+# Pluteus echinatus Justo & M.L. Castro SPECIES
 
 #### Status
 ACCEPTED

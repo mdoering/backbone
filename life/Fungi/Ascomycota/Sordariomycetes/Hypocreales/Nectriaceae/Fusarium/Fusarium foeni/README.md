@@ -1,5 +1,4 @@
-Fusarium foeni Berk. & Broome SPECIES
-=======
+# Fusarium foeni Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

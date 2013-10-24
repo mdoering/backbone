@@ -1,5 +1,4 @@
-Aecidium immersum Henn. SPECIES
-=======
+# Aecidium immersum Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta sisymbrii Byzova SPECIES
-=======
+# Phyllosticta sisymbrii Byzova SPECIES
 
 #### Status
 ACCEPTED

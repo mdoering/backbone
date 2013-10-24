@@ -1,5 +1,4 @@
-Nolanea globispora Velen. SPECIES
-=======
+# Nolanea globispora Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia tricherae Lindr. SPECIES
-=======
+# Ramularia tricherae Lindr. SPECIES
 
 #### Status
 ACCEPTED

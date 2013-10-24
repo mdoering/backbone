@@ -1,5 +1,4 @@
-Calycidium Stirt. GENUS
-=======
+# Calycidium Stirt. GENUS
 
 #### Status
 ACCEPTED

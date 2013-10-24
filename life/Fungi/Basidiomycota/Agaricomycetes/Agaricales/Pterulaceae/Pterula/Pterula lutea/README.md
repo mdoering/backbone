@@ -1,5 +1,4 @@
-Pterula lutea Preuss SPECIES
-=======
+# Pterula lutea Preuss SPECIES
 
 #### Status
 ACCEPTED

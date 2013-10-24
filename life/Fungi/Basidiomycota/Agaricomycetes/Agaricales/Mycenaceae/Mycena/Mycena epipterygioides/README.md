@@ -1,14 +1,13 @@
-Mycena epipterygia var. epipterigioides (A. Pearson) Kühner VARIETY
-=======
+# Mycena epipterygioides A. Pearson, 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 6(2): 153 (1919)
 
 #### Original name
 Mycena epipterygioides A. Pearson, 1919

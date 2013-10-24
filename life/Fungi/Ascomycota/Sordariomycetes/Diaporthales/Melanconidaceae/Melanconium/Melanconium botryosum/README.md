@@ -1,5 +1,4 @@
-Melanconium botryosum Sacc. SPECIES
-=======
+# Melanconium botryosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

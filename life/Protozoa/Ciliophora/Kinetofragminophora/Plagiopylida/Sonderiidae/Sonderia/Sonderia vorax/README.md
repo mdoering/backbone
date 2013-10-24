@@ -1,5 +1,4 @@
-Sonderia vorax Kahl, 1928 SPECIES
-=======
+# Sonderia vorax Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

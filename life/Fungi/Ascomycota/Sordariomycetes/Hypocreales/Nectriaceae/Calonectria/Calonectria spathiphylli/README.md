@@ -1,17 +1,16 @@
-Cylindrocladium spathiphylli f. sp FORM
-=======
+# Calonectria spathiphylli El-Gholl, J.Y. Uchida, Alfenas, T.S. Schub., Alfieri & A.R. Chase, 1992 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 78(12): 1614 (1988)
+Mycotaxon 45: 296 (1992)
 
 #### Original name
-Cylindrocladium spathiphylli f. sp
+Calonectria spathiphylli El-Gholl, J.Y. Uchida, Alfenas, T.S. Schub., Alfieri & A.R. Chase, 1992
 
 ### Remarks
 null

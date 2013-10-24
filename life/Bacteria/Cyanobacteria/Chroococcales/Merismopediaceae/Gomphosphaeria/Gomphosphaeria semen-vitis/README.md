@@ -1,5 +1,4 @@
-Gomphosphaeria semen-vitis Komárek SPECIES
-=======
+# Gomphosphaeria semen-vitis Komárek SPECIES
 
 #### Status
 ACCEPTED

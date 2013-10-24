@@ -1,5 +1,4 @@
-Callistosporium terrigenum Singer, 1950 SPECIES
-=======
+# Callistosporium terrigenum Singer, 1950 SPECIES
 
 #### Status
 ACCEPTED

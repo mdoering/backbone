@@ -1,5 +1,4 @@
-Peridinium wierzejskii Woloszynska SPECIES
-=======
+# Peridinium wierzejskii Woloszynska SPECIES
 
 #### Status
 ACCEPTED

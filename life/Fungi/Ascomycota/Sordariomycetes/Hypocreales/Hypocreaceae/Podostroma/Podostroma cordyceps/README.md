@@ -1,5 +1,4 @@
-Podostroma cordyceps (Penz. & Sacc.) Yoshim. Doi SPECIES
-=======
+# Podostroma cordyceps (Penz. & Sacc.) Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca arnoldiana (Servít & Cern.) Servít & Poelt SPECIES
-=======
+# Caloplaca arnoldiana (Servít & Cern.) Servít & Poelt SPECIES
 
 #### Status
 ACCEPTED

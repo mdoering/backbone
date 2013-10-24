@@ -1,14 +1,13 @@
-Lepiota amara Beeli, 1936 SPECIES
-=======
+# Hiatulopsis amara (Beeli) Singer & Grinling, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 4(4): 364 (1967)
 
 #### Original name
 Lepiota amara Beeli, 1936

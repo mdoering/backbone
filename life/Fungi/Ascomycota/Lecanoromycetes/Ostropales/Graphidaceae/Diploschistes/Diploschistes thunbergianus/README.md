@@ -1,14 +1,13 @@
-Gyalecta thunbergiana Ach. SPECIES
-=======
+# Diploschistes thunbergianus (Ach.) Lumbsch & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. 152 (1810)
+Nova Hedwigia 56(1-2): 234 (1993)
 
 #### Original name
 Gyalecta thunbergiana Ach.

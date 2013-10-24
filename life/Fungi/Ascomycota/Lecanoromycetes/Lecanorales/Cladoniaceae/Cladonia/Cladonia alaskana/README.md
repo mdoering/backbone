@@ -1,5 +1,4 @@
-Cladonia alaskana A. Evans SPECIES
-=======
+# Cladonia alaskana A. Evans SPECIES
 
 #### Status
 ACCEPTED

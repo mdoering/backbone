@@ -1,5 +1,4 @@
-Lirula Darker, 1967 GENUS
-=======
+# Lirula Darker, 1967 GENUS
 
 #### Status
 ACCEPTED

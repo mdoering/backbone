@@ -1,5 +1,4 @@
-Asterinopeltis pulcherrima Bat. & H. Maia SPECIES
-=======
+# Asterinopeltis pulcherrima Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen imbricatus Dubois SPECIES
-=======
+# Lichen imbricatus Dubois SPECIES
 
 #### Status
 ACCEPTED

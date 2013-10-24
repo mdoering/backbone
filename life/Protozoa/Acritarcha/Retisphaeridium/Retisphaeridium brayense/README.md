@@ -1,5 +1,4 @@
-Retisphaeridium brayense (Gardiner & Vanguestaine, 1971) Moczydlowska & Crimes, 1995 SPECIES
-=======
+# Retisphaeridium brayense (Gardiner & Vanguestaine, 1971) Moczydlowska & Crimes, 1995 SPECIES
 
 #### Status
 ACCEPTED

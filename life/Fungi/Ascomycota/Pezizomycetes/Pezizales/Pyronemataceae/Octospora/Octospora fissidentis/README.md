@@ -1,5 +1,4 @@
-Octospora fissidentis Benkert & Brouwer SPECIES
-=======
+# Octospora fissidentis Benkert & Brouwer SPECIES
 
 #### Status
 ACCEPTED

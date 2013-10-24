@@ -1,5 +1,4 @@
-Nectria stilbellae Samuels & Seifert SPECIES
-=======
+# Nectria stilbellae Samuels & Seifert SPECIES
 
 #### Status
 ACCEPTED

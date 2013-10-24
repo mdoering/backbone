@@ -1,5 +1,4 @@
-Phomopsis grossulariae Gutner SPECIES
-=======
+# Phomopsis grossulariae Gutner SPECIES
 
 #### Status
 ACCEPTED

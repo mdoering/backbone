@@ -1,5 +1,4 @@
-Phacidium sinuosum R. Ludw. SPECIES
-=======
+# Phacidium sinuosum R. Ludw. SPECIES
 
 #### Status
 ACCEPTED

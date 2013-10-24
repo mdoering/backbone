@@ -1,5 +1,4 @@
-Arthopyrenia novae-guineae Szatala SPECIES
-=======
+# Arthopyrenia novae-guineae Szatala SPECIES
 
 #### Status
 ACCEPTED

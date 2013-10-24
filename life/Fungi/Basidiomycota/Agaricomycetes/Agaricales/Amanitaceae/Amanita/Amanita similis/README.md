@@ -1,5 +1,4 @@
-Amanita similis Boedijn SPECIES
-=======
+# Amanita similis Boedijn SPECIES
 
 #### Status
 ACCEPTED

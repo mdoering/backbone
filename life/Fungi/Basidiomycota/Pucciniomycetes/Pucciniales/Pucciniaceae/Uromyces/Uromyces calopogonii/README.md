@@ -1,5 +1,4 @@
-Uromyces calopogonii Cummins SPECIES
-=======
+# Uromyces calopogonii Cummins SPECIES
 
 #### Status
 ACCEPTED

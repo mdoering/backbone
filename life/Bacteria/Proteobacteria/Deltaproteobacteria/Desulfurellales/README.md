@@ -1,5 +1,4 @@
-Desulfurellales ORDER
-=======
+# Desulfurellales ORDER
 
 #### Status
 ACCEPTED

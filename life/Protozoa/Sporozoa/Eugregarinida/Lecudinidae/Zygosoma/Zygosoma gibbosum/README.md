@@ -1,5 +1,4 @@
-Zygosoma gibbosum Greeff, 1880 SPECIES
-=======
+# Zygosoma gibbosum Greeff, 1880 SPECIES
 
 #### Status
 ACCEPTED

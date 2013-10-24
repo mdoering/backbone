@@ -1,5 +1,4 @@
-Barclayella deformans Dietel SPECIES
-=======
+# Barclayella deformans Dietel SPECIES
 
 #### Status
 ACCEPTED

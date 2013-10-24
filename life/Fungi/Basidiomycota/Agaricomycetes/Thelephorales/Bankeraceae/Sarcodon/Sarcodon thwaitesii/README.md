@@ -1,5 +1,4 @@
-Sarcodon thwaitesii (Berk. & Broome) Maas Geest., 1964 SPECIES
-=======
+# Sarcodon thwaitesii (Berk. & Broome) Maas Geest., 1964 SPECIES
 
 #### Status
 ACCEPTED

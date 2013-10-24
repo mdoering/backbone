@@ -1,5 +1,4 @@
-Menisporopsis S. Hughes GENUS
-=======
+# Menisporopsis S. Hughes GENUS
 
 #### Status
 ACCEPTED

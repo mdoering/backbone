@@ -1,5 +1,4 @@
-Arthothelium nemorale (Stirt.) Zahlbr. SPECIES
-=======
+# Arthothelium nemorale (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

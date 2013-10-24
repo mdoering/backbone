@@ -1,17 +1,16 @@
-Parmelia pacifica Kurok. SPECIES
-=======
+# Parmotrema pacificum (Kurok.) Kurok. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Jap. Bot. 66(3): 157 (1991)
 
 #### Original name
-null
+Parmelia pacifica Kurok.
 
 ### Remarks
 null

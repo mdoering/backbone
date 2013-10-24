@@ -1,5 +1,4 @@
-Micropeltidium lacunariae Bat., Peres & O.M. Fonseca SPECIES
-=======
+# Micropeltidium lacunariae Bat., Peres & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

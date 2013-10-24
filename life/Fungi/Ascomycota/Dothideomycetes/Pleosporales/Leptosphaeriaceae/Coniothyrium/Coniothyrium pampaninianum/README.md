@@ -1,5 +1,4 @@
-Coniothyrium pampaninianum Sacc. SPECIES
-=======
+# Coniothyrium pampaninianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

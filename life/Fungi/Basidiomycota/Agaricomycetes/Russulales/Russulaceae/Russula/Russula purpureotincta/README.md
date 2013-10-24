@@ -1,5 +1,4 @@
-Russula purpureotincta McNabb, 1973 SPECIES
-=======
+# Russula purpureotincta McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

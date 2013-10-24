@@ -1,5 +1,4 @@
-Endochytrium du Plessis, 1933 GENUS
-=======
+# Endochytrium du Plessis, 1933 GENUS
 
 #### Status
 ACCEPTED

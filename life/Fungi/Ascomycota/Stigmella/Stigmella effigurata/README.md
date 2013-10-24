@@ -1,5 +1,4 @@
-Stigmella effigurata (Schwein.) S. Hughes SPECIES
-=======
+# Stigmella effigurata (Schwein.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinophysis islandica Paulsen, 1949 SPECIES
-=======
+# Dinophysis islandica Paulsen, 1949 SPECIES
 
 #### Status
 ACCEPTED

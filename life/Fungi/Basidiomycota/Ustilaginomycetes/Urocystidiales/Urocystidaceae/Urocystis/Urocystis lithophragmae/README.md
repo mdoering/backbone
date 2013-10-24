@@ -1,5 +1,4 @@
-Urocystis lithophragmae Garrett SPECIES
-=======
+# Urocystis lithophragmae Garrett SPECIES
 
 #### Status
 ACCEPTED

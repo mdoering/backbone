@@ -1,5 +1,4 @@
-Sphaeria multicapsula Sowerby SPECIES
-=======
+# Sphaeria multicapsula Sowerby SPECIES
 
 #### Status
 ACCEPTED

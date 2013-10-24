@@ -1,5 +1,4 @@
-Actinopeltella GENUS
-=======
+# Actinopeltella GENUS
 
 #### Status
 ACCEPTED

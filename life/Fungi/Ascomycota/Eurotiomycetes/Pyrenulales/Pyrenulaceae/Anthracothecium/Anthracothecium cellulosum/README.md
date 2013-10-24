@@ -1,5 +1,4 @@
-Anthracothecium cellulosum (C. Knight) Müll. Arg. SPECIES
-=======
+# Anthracothecium cellulosum (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

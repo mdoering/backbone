@@ -1,5 +1,4 @@
-Vermicularia minuta (Link) Lib. SPECIES
-=======
+# Vermicularia minuta (Link) Lib. SPECIES
 
 #### Status
 ACCEPTED

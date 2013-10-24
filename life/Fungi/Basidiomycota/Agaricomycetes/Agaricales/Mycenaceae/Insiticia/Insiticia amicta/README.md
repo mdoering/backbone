@@ -1,5 +1,4 @@
-Insiticia amicta anon. SPECIES
-=======
+# Insiticia amicta anon. SPECIES
 
 #### Status
 ACCEPTED

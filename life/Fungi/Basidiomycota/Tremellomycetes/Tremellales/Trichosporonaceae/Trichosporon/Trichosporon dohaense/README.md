@@ -1,5 +1,4 @@
-Trichosporon dohaense Taj-Aldeen, Meis & Boekhout SPECIES
-=======
+# Trichosporon dohaense Taj-Aldeen, Meis & Boekhout SPECIES
 
 #### Status
 ACCEPTED

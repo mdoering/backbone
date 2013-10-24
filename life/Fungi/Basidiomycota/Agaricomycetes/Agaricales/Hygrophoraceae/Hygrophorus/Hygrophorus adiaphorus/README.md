@@ -1,5 +1,4 @@
-Hygrophorus adiaphorus Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus adiaphorus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

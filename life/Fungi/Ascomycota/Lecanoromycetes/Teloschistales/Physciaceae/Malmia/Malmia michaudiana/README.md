@@ -1,8 +1,7 @@
-Malmia michaudina (Harm.) M. Choisy & Werner SPECIES
-=======
+# Malmia michaudiana (Harm.) M. Choisy & Werner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

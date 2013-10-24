@@ -1,5 +1,4 @@
-Parmotrema neolobulascens (Winnem) Hale SPECIES
-=======
+# Parmotrema neolobulascens (Winnem) Hale SPECIES
 
 #### Status
 ACCEPTED

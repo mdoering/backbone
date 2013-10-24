@@ -1,5 +1,4 @@
-Meliola microthea Syd. SPECIES
-=======
+# Meliola microthea Syd. SPECIES
 
 #### Status
 ACCEPTED

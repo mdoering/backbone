@@ -1,5 +1,4 @@
-Meliola guianensis F. Stevens & R.I. Dowell SPECIES
-=======
+# Meliola guianensis F. Stevens & R.I. Dowell SPECIES
 
 #### Status
 ACCEPTED

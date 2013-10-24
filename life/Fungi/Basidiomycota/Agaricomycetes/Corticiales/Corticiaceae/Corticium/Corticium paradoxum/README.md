@@ -1,5 +1,4 @@
-Corticium paradoxum Rick SPECIES
-=======
+# Corticium paradoxum Rick SPECIES
 
 #### Status
 ACCEPTED

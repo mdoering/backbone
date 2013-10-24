@@ -1,5 +1,4 @@
-Supraspathidium gigas (Cunha, 1914) Foissner & Didier, 1982 SPECIES
-=======
+# Supraspathidium gigas (Cunha, 1914) Foissner & Didier, 1982 SPECIES
 
 #### Status
 ACCEPTED

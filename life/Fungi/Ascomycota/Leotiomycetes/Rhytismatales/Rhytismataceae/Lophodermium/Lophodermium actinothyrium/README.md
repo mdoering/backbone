@@ -1,17 +1,16 @@
-Hysterium culmigenum var. abbreviatum Desm. VARIETY
-=======
+# Lophodermium actinothyrium (Fuckel) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 8: 179 (1847)
+null
 
 #### Original name
-Hysterium culmigenum var. abbreviatum Desm.
+Hysterium actinothyrium Fuckel
 
 ### Remarks
 null

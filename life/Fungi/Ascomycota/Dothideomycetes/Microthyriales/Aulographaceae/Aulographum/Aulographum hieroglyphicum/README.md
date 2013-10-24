@@ -1,5 +1,4 @@
-Aulographum hieroglyphicum Roberge ex Desm. SPECIES
-=======
+# Aulographum hieroglyphicum Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

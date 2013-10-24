@@ -1,5 +1,4 @@
-Rhodophyllus pumanquensis Singer SPECIES
-=======
+# Rhodophyllus pumanquensis Singer SPECIES
 
 #### Status
 ACCEPTED

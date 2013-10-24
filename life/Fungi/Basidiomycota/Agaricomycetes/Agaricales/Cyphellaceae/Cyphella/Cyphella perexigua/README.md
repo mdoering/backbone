@@ -1,5 +1,4 @@
-Cyphella perexigua Sacc. SPECIES
-=======
+# Cyphella perexigua Sacc. SPECIES
 
 #### Status
 ACCEPTED

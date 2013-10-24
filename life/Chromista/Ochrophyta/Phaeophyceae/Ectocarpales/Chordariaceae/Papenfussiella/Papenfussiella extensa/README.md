@@ -1,5 +1,4 @@
-Papenfussiella extensa Womersley & Bailey SPECIES
-=======
+# Papenfussiella extensa Womersley & Bailey SPECIES
 
 #### Status
 ACCEPTED

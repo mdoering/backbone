@@ -1,5 +1,4 @@
-Antarctobacter heliothermus Labrenz et al., 1998 SPECIES
-=======
+# Antarctobacter heliothermus Labrenz et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

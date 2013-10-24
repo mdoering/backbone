@@ -1,5 +1,4 @@
-Diplodina kazachstanica Byzova SPECIES
-=======
+# Diplodina kazachstanica Byzova SPECIES
 
 #### Status
 ACCEPTED

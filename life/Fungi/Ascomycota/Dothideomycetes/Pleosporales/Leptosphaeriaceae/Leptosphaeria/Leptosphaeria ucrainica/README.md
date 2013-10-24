@@ -1,5 +1,4 @@
-Leptosphaeria ucrainica Tomilin SPECIES
-=======
+# Leptosphaeria ucrainica Tomilin SPECIES
 
 #### Status
 ACCEPTED

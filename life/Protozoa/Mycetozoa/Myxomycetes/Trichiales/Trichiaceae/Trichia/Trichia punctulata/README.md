@@ -1,5 +1,4 @@
-Trichia punctulata Schwein. SPECIES
-=======
+# Trichia punctulata Schwein. SPECIES
 
 #### Status
 ACCEPTED

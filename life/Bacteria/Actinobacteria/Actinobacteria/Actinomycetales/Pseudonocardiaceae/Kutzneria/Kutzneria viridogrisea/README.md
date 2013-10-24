@@ -1,8 +1,7 @@
-Streptosporangium viridogriseum subsp. viridogriseum SUBSPECIES
-=======
+# Kutzneria viridogrisea (Okuda et al., 1966) Stackebrandt et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

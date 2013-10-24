@@ -1,5 +1,4 @@
-Micropuccinia cryptotaeniae (Peck) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia cryptotaeniae (Peck) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

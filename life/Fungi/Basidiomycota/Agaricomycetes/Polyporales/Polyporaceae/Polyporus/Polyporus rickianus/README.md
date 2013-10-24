@@ -1,5 +1,4 @@
-Polyporus rickianus Sacc. & Trotter SPECIES
-=======
+# Polyporus rickianus Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

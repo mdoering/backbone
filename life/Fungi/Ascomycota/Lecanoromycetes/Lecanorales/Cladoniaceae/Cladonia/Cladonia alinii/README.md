@@ -1,5 +1,4 @@
-Cladonia alinii Trass SPECIES
-=======
+# Cladonia alinii Trass SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cornicularia pseudosatoana Asahina SPECIES
-=======
+# Bryocaulon pseudosatoanum (Asahina) Kärnefelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. 86: 28 (1986)
 
 #### Original name
 Cornicularia pseudosatoana Asahina

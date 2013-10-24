@@ -1,5 +1,4 @@
-Rhizopogon albidus A.H. Sm. SPECIES
-=======
+# Rhizopogon albidus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

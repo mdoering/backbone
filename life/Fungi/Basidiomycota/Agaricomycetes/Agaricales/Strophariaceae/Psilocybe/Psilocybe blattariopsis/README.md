@@ -1,5 +1,4 @@
-Psilocybe blattariopsis (Speg.) Singer SPECIES
-=======
+# Psilocybe blattariopsis (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

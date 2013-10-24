@@ -1,5 +1,4 @@
-Mycosphaerella artocarpi F. Stevens & P.A. Young, 1925 SPECIES
-=======
+# Mycosphaerella artocarpi F. Stevens & P.A. Young, 1925 SPECIES
 
 #### Status
 ACCEPTED

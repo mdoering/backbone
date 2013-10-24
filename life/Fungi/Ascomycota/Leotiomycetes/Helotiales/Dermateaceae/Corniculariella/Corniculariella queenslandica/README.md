@@ -1,5 +1,4 @@
-Corniculariella queenslandica B. Sutton SPECIES
-=======
+# Corniculariella queenslandica B. Sutton SPECIES
 
 #### Status
 ACCEPTED

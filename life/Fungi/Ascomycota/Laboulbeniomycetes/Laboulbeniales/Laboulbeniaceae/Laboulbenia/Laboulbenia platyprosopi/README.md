@@ -1,5 +1,4 @@
-Laboulbenia platyprosopi Thaxt. SPECIES
-=======
+# Laboulbenia platyprosopi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

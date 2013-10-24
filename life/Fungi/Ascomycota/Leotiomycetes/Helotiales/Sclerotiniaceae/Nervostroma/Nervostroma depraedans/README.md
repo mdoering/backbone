@@ -1,5 +1,4 @@
-Nervostroma depraedans Narumi & Y. Harada, 2006 SPECIES
-=======
+# Nervostroma depraedans Narumi & Y. Harada, 2006 SPECIES
 
 #### Status
 ACCEPTED

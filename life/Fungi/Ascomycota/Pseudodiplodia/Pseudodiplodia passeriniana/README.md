@@ -1,5 +1,4 @@
-Pseudodiplodia passeriniana (Thüm.) E. Gallego & Pedreño SPECIES
-=======
+# Pseudodiplodia passeriniana (Thüm.) E. Gallego & Pedreño SPECIES
 
 #### Status
 ACCEPTED

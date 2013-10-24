@@ -1,5 +1,4 @@
-Uromyces ribicola H.S. Jacks. & Holw. SPECIES
-=======
+# Uromyces ribicola H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

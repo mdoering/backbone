@@ -1,17 +1,16 @@
-Hyalothyris Clem. GENUS
-=======
+# Hyalothyridium Tassi GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis) 127 (1909)
+Bulletin Labor. Orto Bot. de R. Univ. Siena 3: 91 (1900)
 
 #### Original name
-Hyalothyris Clem.
+Hyalothyridium Tassi
 
 ### Remarks
 null

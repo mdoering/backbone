@@ -1,5 +1,4 @@
-Verrucaria umbonata (Schaer.) Garov. SPECIES
-=======
+# Verrucaria umbonata (Schaer.) Garov. SPECIES
 
 #### Status
 ACCEPTED

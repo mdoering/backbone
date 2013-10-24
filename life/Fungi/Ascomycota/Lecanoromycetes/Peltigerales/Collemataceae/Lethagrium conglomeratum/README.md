@@ -1,5 +1,4 @@
-Lethagrium conglomeratum (Sommerf.) A. Massal. SPECIES
-=======
+# Lethagrium conglomeratum (Sommerf.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

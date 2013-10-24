@@ -1,8 +1,7 @@
-Eoeponidella mamilla (Williamson, 1848) SPECIES
-=======
+# Asterigerinata mamilla (Williamson, 1848) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

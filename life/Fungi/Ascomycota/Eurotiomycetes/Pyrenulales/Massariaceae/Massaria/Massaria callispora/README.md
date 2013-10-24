@@ -1,5 +1,4 @@
-Massaria callispora Sacc. SPECIES
-=======
+# Massaria callispora Sacc. SPECIES
 
 #### Status
 ACCEPTED

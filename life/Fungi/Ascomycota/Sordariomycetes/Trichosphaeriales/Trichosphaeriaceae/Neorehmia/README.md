@@ -1,17 +1,16 @@
-Oplothecium P. Syd. GENUS
-=======
+# Neorehmia Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls mycol. 21: 97 (1923)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 111: 988 (1902)
 
 #### Original name
-Oplothecium P. Syd.
+Neorehmia Höhn.
 
 ### Remarks
 null

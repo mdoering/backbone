@@ -1,5 +1,4 @@
-Multisphaeridium GENUS
-=======
+# Multisphaeridium GENUS
 
 #### Status
 ACCEPTED

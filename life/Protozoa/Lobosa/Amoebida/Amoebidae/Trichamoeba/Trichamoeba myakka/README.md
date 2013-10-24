@@ -1,5 +1,4 @@
-Trichamoeba myakka SPECIES
-=======
+# Trichamoeba myakka SPECIES
 
 #### Status
 ACCEPTED

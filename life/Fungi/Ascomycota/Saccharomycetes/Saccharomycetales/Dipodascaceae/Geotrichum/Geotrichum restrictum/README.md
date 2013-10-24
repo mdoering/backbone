@@ -1,5 +1,4 @@
-Geotrichum restrictum de Hoog & M.T. Sm. SPECIES
-=======
+# Geotrichum restrictum de Hoog & M.T. Sm. SPECIES
 
 #### Status
 ACCEPTED

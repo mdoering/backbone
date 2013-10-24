@@ -1,5 +1,4 @@
-Chiodecton spilocarpum Nyl. SPECIES
-=======
+# Chiodecton spilocarpum Nyl. SPECIES
 
 #### Status
 ACCEPTED

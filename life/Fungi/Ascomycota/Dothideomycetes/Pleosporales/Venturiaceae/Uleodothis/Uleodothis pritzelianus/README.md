@@ -1,8 +1,7 @@
-Uleodothis pritzelianum (Henn.) Thirum. & Jenkins SPECIES
-=======
+# Uleodothis pritzelianus (Henn.) Thirum. & Jenkins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

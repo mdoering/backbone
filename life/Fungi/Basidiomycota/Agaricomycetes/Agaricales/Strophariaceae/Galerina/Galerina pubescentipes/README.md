@@ -1,5 +1,4 @@
-Galerina pubescentipes A.H. Sm. & Singer SPECIES
-=======
+# Galerina pubescentipes A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

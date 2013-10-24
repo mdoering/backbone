@@ -1,14 +1,13 @@
-Nodulisporium cinnamomeum (J.F.H. Beyma) de Hoog, 1972 SPECIES
-=======
+# Tritirachium cinnamomeum J.F.H. Beyma, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 1: 37 (1972)
+Antonie van Leeuwenhoek 8: 117 (1942)
 
 #### Original name
 Tritirachium cinnamomeum J.F.H. Beyma, 1942

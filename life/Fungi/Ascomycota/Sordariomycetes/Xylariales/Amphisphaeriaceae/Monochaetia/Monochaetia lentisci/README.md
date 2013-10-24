@@ -1,5 +1,4 @@
-Monochaetia lentisci Gonz. Frag. SPECIES
-=======
+# Monochaetia lentisci Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

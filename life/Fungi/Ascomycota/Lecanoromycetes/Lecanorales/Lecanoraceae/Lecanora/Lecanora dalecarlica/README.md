@@ -1,5 +1,4 @@
-Lecanora dalecarlica H. Magn. SPECIES
-=======
+# Lecanora dalecarlica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Klasterskya coronata Valldos. & Guarro SPECIES
-=======
+# Klasterskya coronata Valldos. & Guarro SPECIES
 
 #### Status
 ACCEPTED

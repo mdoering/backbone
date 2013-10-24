@@ -1,5 +1,4 @@
-Neolamya xanthoparmeliae Kocourk. SPECIES
-=======
+# Neolamya xanthoparmeliae Kocourk. SPECIES
 
 #### Status
 ACCEPTED

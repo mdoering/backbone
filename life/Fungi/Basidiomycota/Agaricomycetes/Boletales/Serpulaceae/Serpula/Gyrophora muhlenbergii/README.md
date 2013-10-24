@@ -1,5 +1,4 @@
-Gyrophora muhlenbergii Ach. SPECIES
-=======
+# Gyrophora muhlenbergii Ach. SPECIES
 
 #### Status
 ACCEPTED

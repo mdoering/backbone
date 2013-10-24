@@ -1,5 +1,4 @@
-Chlamydia trachomatis (Busacca, 1935) Rake, 1957 (Approved Lists, 1980) SPECIES
-=======
+# Chlamydia trachomatis (Busacca, 1935) Rake, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

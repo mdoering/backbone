@@ -1,17 +1,16 @@
-Odontia modesta Rick, 1959 SPECIES
-=======
+# Candelabrochaete africana Boidin, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rambo (Ed. ), Iheringia, Sér. Bot. 5: 164 (1959)
+Cahiers de La Maboké 8(1): 24 (1970)
 
 #### Original name
-Odontia modesta Rick, 1959
+Candelabrochaete africana Boidin, 1970
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fragilaria pulchella var. lanceolata (O'Meara) Witkowski VARIETY
-=======
+# Fragilaria pulchella Ralfs SPECIES
 
 #### Status
 ACCEPTED

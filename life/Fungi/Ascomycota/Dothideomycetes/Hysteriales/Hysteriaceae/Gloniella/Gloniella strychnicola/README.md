@@ -1,5 +1,4 @@
-Gloniella strychnicola Pat. SPECIES
-=======
+# Gloniella strychnicola Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon shearii var. shearii VARIETY
-=======
+# Hypoxylon shearii Y.M. Ju & J.D. Rogers, 1996 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Mem. 20: 182 (1996)
+null
 
 #### Original name
-Hypoxylon shearii var. shearii
+null
 
 ### Remarks
 null

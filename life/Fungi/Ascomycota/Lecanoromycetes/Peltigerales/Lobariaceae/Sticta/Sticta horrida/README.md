@@ -1,5 +1,4 @@
-Sticta horrida Hue SPECIES
-=======
+# Sticta horrida Hue SPECIES
 
 #### Status
 ACCEPTED

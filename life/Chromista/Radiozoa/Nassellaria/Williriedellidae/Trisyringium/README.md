@@ -1,5 +1,4 @@
-Trisyringium Vinassa, 1900 GENUS
-=======
+# Trisyringium Vinassa, 1900 GENUS
 
 #### Status
 ACCEPTED

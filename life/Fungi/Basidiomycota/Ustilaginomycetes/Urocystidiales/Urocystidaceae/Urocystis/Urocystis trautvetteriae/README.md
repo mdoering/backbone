@@ -1,5 +1,4 @@
-Urocystis trautvetteriae Vánky, 1998 SPECIES
-=======
+# Urocystis trautvetteriae Vánky, 1998 SPECIES
 
 #### Status
 ACCEPTED

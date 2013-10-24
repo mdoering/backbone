@@ -1,5 +1,4 @@
-Ustilago haynaldiae Becer. SPECIES
-=======
+# Ustilago haynaldiae Becer. SPECIES
 
 #### Status
 ACCEPTED

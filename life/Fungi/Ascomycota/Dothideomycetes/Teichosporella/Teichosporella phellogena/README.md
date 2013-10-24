@@ -1,5 +1,4 @@
-Teichosporella phellogena Sacc. SPECIES
-=======
+# Teichosporella phellogena Sacc. SPECIES
 
 #### Status
 ACCEPTED

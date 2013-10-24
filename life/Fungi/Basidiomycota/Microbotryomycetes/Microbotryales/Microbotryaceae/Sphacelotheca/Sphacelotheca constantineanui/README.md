@@ -1,5 +1,4 @@
-Sphacelotheca constantineanui Savul. SPECIES
-=======
+# Sphacelotheca constantineanui Savul. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea kurziana Müll. Arg. SPECIES
-=======
+# Lecidea kurziana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

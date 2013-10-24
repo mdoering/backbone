@@ -1,5 +1,4 @@
-Secotium eburneum Zeller SPECIES
-=======
+# Secotium eburneum Zeller SPECIES
 
 #### Status
 ACCEPTED

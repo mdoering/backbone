@@ -1,14 +1,13 @@
-Helminthosporium crustaceum Henn., 1902 SPECIES
-=======
+# Bipolaris crustacea (Henn.) Alcorn, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 41: 147 (1902)
+Mycotaxon 15: 27 (1982)
 
 #### Original name
 Helminthosporium crustaceum Henn., 1902

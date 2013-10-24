@@ -1,5 +1,4 @@
-Stegasma pallidum Ces. SPECIES
-=======
+# Stegasma pallidum Ces. SPECIES
 
 #### Status
 ACCEPTED

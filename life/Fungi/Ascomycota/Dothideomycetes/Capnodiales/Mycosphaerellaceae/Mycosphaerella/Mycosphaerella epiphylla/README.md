@@ -1,17 +1,16 @@
-Mycosphaerella epithylli D. Gupta, Padhi & Chowdhry SPECIES
-=======
+# Mycosphaerella epiphylla D. Gupta, Padhi & Chowdhry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 33(3): 500 (1981)
 
 #### Original name
-Mycosphaerella epithylli D. Gupta, Padhi & Chowdhry
+Mycosphaerella epiphylla D. Gupta, Padhi & Chowdhry
 
 ### Remarks
 null

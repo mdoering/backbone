@@ -1,5 +1,4 @@
-Valsa guayavae Henn. SPECIES
-=======
+# Valsa guayavae Henn. SPECIES
 
 #### Status
 ACCEPTED

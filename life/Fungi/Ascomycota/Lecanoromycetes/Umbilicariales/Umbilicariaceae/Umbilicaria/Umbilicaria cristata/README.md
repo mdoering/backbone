@@ -1,5 +1,4 @@
-Umbilicaria cristata C.W. Dodge & G.E. Baker SPECIES
-=======
+# Umbilicaria cristata C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

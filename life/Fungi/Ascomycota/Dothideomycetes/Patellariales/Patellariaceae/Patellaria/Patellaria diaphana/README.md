@@ -1,5 +1,4 @@
-Patellaria diaphana (Sw.) Wallr. SPECIES
-=======
+# Patellaria diaphana (Sw.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

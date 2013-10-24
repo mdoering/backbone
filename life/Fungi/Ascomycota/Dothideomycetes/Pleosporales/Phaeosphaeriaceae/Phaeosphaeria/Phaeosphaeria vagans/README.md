@@ -1,17 +1,16 @@
-Phaeosphaeria vagans f. vagans FORM
-=======
+# Phaeosphaeria vagans (Niessl) O.E. Erikss., 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ark. Bot. , Ser. 2 6: 430 (1967)
 
 #### Original name
-null
+Pleospora vagans Niessl, 1876
 
 ### Remarks
 null

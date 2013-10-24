@@ -1,5 +1,4 @@
-Anfractus Medd, 1979 GENUS
-=======
+# Anfractus Medd, 1979 GENUS
 
 #### Status
 ACCEPTED

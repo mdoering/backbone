@@ -1,5 +1,4 @@
-Buellia stizenbergeri Zahlbr. SPECIES
-=======
+# Buellia stizenbergeri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tephromela muralis (H. Magn.) Motyka SPECIES
-=======
+# Tephromela muralis (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

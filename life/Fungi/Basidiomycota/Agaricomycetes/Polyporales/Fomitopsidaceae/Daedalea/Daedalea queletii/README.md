@@ -1,5 +1,4 @@
-Daedalea queletii Schulzer SPECIES
-=======
+# Daedalea queletii Schulzer SPECIES
 
 #### Status
 ACCEPTED

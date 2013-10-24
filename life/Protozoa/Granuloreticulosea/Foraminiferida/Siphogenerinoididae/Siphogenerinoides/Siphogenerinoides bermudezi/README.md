@@ -1,5 +1,4 @@
-Siphogenerinoides bermudezi Stone SPECIES
-=======
+# Siphogenerinoides bermudezi Stone SPECIES
 
 #### Status
 ACCEPTED

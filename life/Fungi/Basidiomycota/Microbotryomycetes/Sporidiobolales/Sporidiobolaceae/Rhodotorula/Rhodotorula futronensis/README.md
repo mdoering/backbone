@@ -1,5 +1,4 @@
-Rhodotorula futronensis (C. Ramírez & A.E. González) Roeijmans SPECIES
-=======
+# Rhodotorula futronensis (C. Ramírez & A.E. González) Roeijmans SPECIES
 
 #### Status
 ACCEPTED

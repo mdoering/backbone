@@ -1,5 +1,4 @@
-Crocynia laciniosa Hue SPECIES
-=======
+# Crocynia laciniosa Hue SPECIES
 
 #### Status
 ACCEPTED

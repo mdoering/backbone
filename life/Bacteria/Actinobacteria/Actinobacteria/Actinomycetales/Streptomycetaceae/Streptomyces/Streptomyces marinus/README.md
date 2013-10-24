@@ -1,5 +1,4 @@
-Streptomyces marinus (Humm & Shepard) Waksman SPECIES
-=======
+# Streptomyces marinus (Humm & Shepard) Waksman SPECIES
 
 #### Status
 ACCEPTED

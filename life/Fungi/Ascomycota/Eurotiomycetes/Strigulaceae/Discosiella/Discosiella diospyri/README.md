@@ -1,5 +1,4 @@
-Discosiella diospyri (G. Winter) Nag Raj SPECIES
-=======
+# Discosiella diospyri (G. Winter) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

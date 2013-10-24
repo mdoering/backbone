@@ -1,5 +1,4 @@
-Coniochaeta ambigua (Sacc.) C. Massal. SPECIES
-=======
+# Coniochaeta ambigua (Sacc.) C. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyaloscypha lutea Raschle SPECIES
-=======
+# Hyaloscypha lutea Raschle SPECIES
 
 #### Status
 ACCEPTED

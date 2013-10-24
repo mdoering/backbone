@@ -1,5 +1,4 @@
-Gloeosporium bonatii Maire SPECIES
-=======
+# Gloeosporium bonatii Maire SPECIES
 
 #### Status
 ACCEPTED

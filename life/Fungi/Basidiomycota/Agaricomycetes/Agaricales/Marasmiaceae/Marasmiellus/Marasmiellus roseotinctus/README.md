@@ -1,5 +1,4 @@
-Marasmiellus roseotinctus Contu & Noordel. SPECIES
-=======
+# Marasmiellus roseotinctus Contu & Noordel. SPECIES
 
 #### Status
 ACCEPTED

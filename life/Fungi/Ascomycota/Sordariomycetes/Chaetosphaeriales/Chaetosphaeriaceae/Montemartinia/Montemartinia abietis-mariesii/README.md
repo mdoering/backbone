@@ -1,5 +1,4 @@
-Montemartinia abietis-mariesii Sawada SPECIES
-=======
+# Montemartinia abietis-mariesii Sawada SPECIES
 
 #### Status
 ACCEPTED

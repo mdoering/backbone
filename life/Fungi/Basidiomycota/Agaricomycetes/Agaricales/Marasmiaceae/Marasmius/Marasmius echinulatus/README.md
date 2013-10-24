@@ -1,5 +1,4 @@
-Marasmius echinulatus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Marasmius echinulatus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

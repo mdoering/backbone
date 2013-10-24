@@ -1,5 +1,4 @@
-Fragilaria entomon (Ehrenberg) Ehrenberg SPECIES
-=======
+# Fragilaria entomon (Ehrenberg) Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

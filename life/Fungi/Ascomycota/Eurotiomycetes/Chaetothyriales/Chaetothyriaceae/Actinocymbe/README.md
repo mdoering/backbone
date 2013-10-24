@@ -1,17 +1,16 @@
-Limaciniella J.M. Mend. GENUS
-=======
+# Actinocymbe Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Stevens, Bulletin of the Bernice P. Bishop Museum, Honolulu, Hawaii 19: 58 (1925)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 120: 416 (1911)
 
 #### Original name
-Limaciniella J.M. Mend.
+Actinocymbe Höhn.
 
 ### Remarks
 null

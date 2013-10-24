@@ -1,5 +1,4 @@
-Capronia fusispora (M.E. Barr) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman SPECIES
-=======
+# Capronia fusispora (M.E. Barr) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman SPECIES
 
 #### Status
 ACCEPTED

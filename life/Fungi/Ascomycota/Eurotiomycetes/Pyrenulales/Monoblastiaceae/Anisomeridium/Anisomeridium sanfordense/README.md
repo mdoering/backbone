@@ -1,5 +1,4 @@
-Anisomeridium sanfordense (Zahlbr.) R.C. Harris SPECIES
-=======
+# Anisomeridium sanfordense (Zahlbr.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium puttemansii Henn. SPECIES
-=======
+# Macrosporium puttemansii Henn. SPECIES
 
 #### Status
 ACCEPTED

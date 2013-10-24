@@ -1,5 +1,4 @@
-Pannaria aenea Müll. Arg. SPECIES
-=======
+# Pannaria aenea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

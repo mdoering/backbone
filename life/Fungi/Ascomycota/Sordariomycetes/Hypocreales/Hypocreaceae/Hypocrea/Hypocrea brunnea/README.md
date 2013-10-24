@@ -1,5 +1,4 @@
-Hypocrea brunnea Petch SPECIES
-=======
+# Hypocrea brunnea Petch SPECIES
 
 #### Status
 ACCEPTED

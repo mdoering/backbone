@@ -1,5 +1,4 @@
-Hysterangium neglectum Massee & Rodway SPECIES
-=======
+# Hysterangium neglectum Massee & Rodway SPECIES
 
 #### Status
 ACCEPTED

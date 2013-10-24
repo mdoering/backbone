@@ -1,5 +1,4 @@
-Desulfosarcina variabilis Widdel, 1981 SPECIES
-=======
+# Desulfosarcina variabilis Widdel, 1981 SPECIES
 
 #### Status
 ACCEPTED

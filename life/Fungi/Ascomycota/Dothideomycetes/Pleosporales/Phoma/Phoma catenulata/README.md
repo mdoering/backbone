@@ -1,5 +1,4 @@
-Phoma catenulata Preuss SPECIES
-=======
+# Phoma catenulata Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triglyphium alabamense Matsush. SPECIES
-=======
+# Triglyphium alabamense Matsush. SPECIES
 
 #### Status
 ACCEPTED

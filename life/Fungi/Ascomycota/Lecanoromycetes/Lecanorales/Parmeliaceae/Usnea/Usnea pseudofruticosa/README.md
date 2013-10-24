@@ -1,5 +1,4 @@
-Usnea pseudofruticosa Zammuto SPECIES
-=======
+# Usnea pseudofruticosa Zammuto SPECIES
 
 #### Status
 ACCEPTED

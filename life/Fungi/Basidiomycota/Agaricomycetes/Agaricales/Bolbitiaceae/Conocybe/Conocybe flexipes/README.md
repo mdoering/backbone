@@ -1,5 +1,4 @@
-Conocybe flexipes Watling SPECIES
-=======
+# Conocybe flexipes Watling SPECIES
 
 #### Status
 ACCEPTED

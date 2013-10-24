@@ -1,17 +1,16 @@
-Torula expansa var. expansa VARIETY
-=======
+# Torula expansa Pers., 1822 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycol. eur. (Erlanga) 1: 22 (1822)
 
 #### Original name
-Torula expansa var. expansa
+Hormiscium expansum Kunze
 
 ### Remarks
 null

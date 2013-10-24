@@ -1,5 +1,4 @@
-Calicium fulvum Schaer. SPECIES
-=======
+# Calicium fulvum Schaer. SPECIES
 
 #### Status
 ACCEPTED

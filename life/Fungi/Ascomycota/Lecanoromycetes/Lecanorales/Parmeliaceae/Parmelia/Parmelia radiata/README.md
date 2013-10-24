@@ -1,5 +1,4 @@
-Parmelia radiata (Ach.) Röhl. SPECIES
-=======
+# Parmelia radiata (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ocellularia kamatii Patw. & C.R. Kulk. SPECIES
-=======
+# Thelotrema kamatii (Patw. & C.R. Kulk.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Norw. Jl Bot. 24: 130 (1977)
+Mycotaxon 11(1): 131 (1980)
 
 #### Original name
 Ocellularia kamatii Patw. & C.R. Kulk.

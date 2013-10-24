@@ -1,5 +1,4 @@
-Boletus illudens Peck SPECIES
-=======
+# Boletus illudens Peck SPECIES
 
 #### Status
 ACCEPTED

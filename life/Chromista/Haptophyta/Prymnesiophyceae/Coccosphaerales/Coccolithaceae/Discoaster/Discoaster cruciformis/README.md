@@ -1,5 +1,4 @@
-Discoaster cruciformis Martini, 1958 SPECIES
-=======
+# Discoaster cruciformis Martini, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perenniporia parvispora Decock & Ryvarden SPECIES
-=======
+# Perenniporia parvispora Decock & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

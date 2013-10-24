@@ -1,5 +1,4 @@
-Graphina indita (Vain.) Zahlbr. SPECIES
-=======
+# Graphina indita (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

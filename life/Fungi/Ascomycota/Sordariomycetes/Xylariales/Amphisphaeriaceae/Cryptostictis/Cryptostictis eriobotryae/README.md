@@ -1,5 +1,4 @@
-Cryptostictis eriobotryae Sousa da Câmara SPECIES
-=======
+# Cryptostictis eriobotryae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

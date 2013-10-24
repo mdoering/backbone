@@ -1,17 +1,16 @@
-Microascus variabilis Massee & E.S. Salmon, 1901 SPECIES
-=======
+# Microascus longirostris Zukal, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. , Lond. 15: (1901)
+Verh. zool. -bot. Ges. Wien 35: 33 (1885)
 
 #### Original name
-Microascus variabilis Massee & E.S. Salmon, 1901
+Microascus longirostris Zukal, 1885
 
 ### Remarks
 null

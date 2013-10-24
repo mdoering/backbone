@@ -1,8 +1,7 @@
-Pseudophalacroma nasutum Jörgensen SPECIES
-=======
+# Dinophysis nasuta (Stein) Parke & Dixon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

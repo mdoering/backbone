@@ -1,5 +1,4 @@
-Perichaena tessellata G. Lister, 1931 SPECIES
-=======
+# Perichaena tessellata G. Lister, 1931 SPECIES
 
 #### Status
 ACCEPTED

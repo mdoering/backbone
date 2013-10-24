@@ -1,5 +1,4 @@
-Xylodon hastifer (Hjortstam & Ryvarden) Hjortstam & Ryvarden SPECIES
-=======
+# Xylodon hastifer (Hjortstam & Ryvarden) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

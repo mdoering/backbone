@@ -1,5 +1,4 @@
-Phyllactinia juglandis-mandshuricae Y.X. Yu SPECIES
-=======
+# Phyllactinia juglandis-mandshuricae Y.X. Yu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora rufoalutacea (Harm.) H. Magn. SPECIES
-=======
+# Acarospora rufoalutacea (Harm.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

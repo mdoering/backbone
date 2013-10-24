@@ -1,5 +1,4 @@
-Psilocybe compta (Fr.) Sacc. SPECIES
-=======
+# Psilocybe compta (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

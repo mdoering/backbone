@@ -1,5 +1,4 @@
-Thelidium klementii Servít SPECIES
-=======
+# Thelidium klementii Servít SPECIES
 
 #### Status
 ACCEPTED

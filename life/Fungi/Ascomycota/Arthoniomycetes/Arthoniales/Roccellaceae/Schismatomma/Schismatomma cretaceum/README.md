@@ -1,14 +1,13 @@
-Crocynia cretacea Hue SPECIES
-=======
+# Schismatomma cretaceum (Hue) J. R. Laundon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 71: 347 (1924)
+Lichenologist 16(1): 56 (1984)
 
 #### Original name
 Crocynia cretacea Hue

@@ -1,5 +1,4 @@
-Amanita irroratus Schumach. SPECIES
-=======
+# Amanita irroratus Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium orbicula (Ellis & Everh.) Keissl. SPECIES
-=======
+# Coniothyrium orbicula (Ellis & Everh.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

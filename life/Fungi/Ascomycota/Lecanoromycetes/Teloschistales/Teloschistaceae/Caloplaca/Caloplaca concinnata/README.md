@@ -1,5 +1,4 @@
-Caloplaca concinnata (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca concinnata (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

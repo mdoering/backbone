@@ -1,5 +1,4 @@
-Entoloma indoviolaceum Manim. & Noordel. SPECIES
-=======
+# Entoloma indoviolaceum Manim. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces volemi Peck SPECIES
-=======
+# Hypomyces volemi Peck SPECIES
 
 #### Status
 ACCEPTED

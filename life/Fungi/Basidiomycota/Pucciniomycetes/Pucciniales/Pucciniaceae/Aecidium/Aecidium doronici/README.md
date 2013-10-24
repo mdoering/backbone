@@ -1,5 +1,4 @@
-Aecidium doronici Tausch SPECIES
-=======
+# Aecidium doronici Tausch SPECIES
 
 #### Status
 ACCEPTED

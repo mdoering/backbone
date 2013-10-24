@@ -1,5 +1,4 @@
-Gomphus fujisanensis (S. Imai) Parmasto SPECIES
-=======
+# Gomphus fujisanensis (S. Imai) Parmasto SPECIES
 
 #### Status
 ACCEPTED

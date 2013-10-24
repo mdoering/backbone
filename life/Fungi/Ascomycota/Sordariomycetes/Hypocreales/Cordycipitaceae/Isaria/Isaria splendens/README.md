@@ -1,5 +1,4 @@
-Isaria splendens Rabenh. SPECIES
-=======
+# Isaria splendens Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago andropogonis-saccharoidis Henn. SPECIES
-=======
+# Ustilago andropogonis-saccharoidis Henn. SPECIES
 
 #### Status
 ACCEPTED

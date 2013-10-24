@@ -1,5 +1,4 @@
-Elphidium abyssicola Ishiwada, 1964 SPECIES
-=======
+# Elphidium abyssicola Ishiwada, 1964 SPECIES
 
 #### Status
 ACCEPTED

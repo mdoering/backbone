@@ -1,5 +1,4 @@
-Septoria balanitis Ciccar. SPECIES
-=======
+# Septoria balanitis Ciccar. SPECIES
 
 #### Status
 ACCEPTED

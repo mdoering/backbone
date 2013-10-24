@@ -1,5 +1,4 @@
-Agaricus caveatus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus caveatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

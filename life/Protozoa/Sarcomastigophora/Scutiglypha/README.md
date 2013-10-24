@@ -1,5 +1,4 @@
-Scutiglypha Foissner & Schiller, 2001 GENUS
-=======
+# Scutiglypha Foissner & Schiller, 2001 GENUS
 
 #### Status
 ACCEPTED

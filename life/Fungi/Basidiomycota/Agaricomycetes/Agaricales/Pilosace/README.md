@@ -1,5 +1,4 @@
-Pilosace (Fr.) Quél. GENUS
-=======
+# Pilosace (Fr.) Quél. GENUS
 
 #### Status
 ACCEPTED

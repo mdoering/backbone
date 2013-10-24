@@ -1,5 +1,4 @@
-Belonia terrigena Eitner SPECIES
-=======
+# Belonia terrigena Eitner SPECIES
 
 #### Status
 ACCEPTED

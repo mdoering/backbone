@@ -1,5 +1,4 @@
-Cryptococcus cooperi C.W. Dodge SPECIES
-=======
+# Cryptococcus cooperi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

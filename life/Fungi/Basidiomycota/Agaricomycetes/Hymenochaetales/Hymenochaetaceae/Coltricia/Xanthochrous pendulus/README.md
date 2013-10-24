@@ -1,5 +1,4 @@
-Xanthochrous pendulus Har. & Pat. SPECIES
-=======
+# Xanthochrous pendulus Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

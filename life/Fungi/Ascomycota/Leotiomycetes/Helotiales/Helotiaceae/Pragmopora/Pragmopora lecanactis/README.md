@@ -1,5 +1,4 @@
-Pragmopora lecanactis (A. Massal.) Körb. SPECIES
-=======
+# Pragmopora lecanactis (A. Massal.) Körb. SPECIES
 
 #### Status
 ACCEPTED

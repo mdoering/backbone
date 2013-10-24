@@ -1,17 +1,16 @@
-Stanhughesia linnaeae Constant., 1989 SPECIES
-=======
+# Ceramothyrium linnaeae (Dearn.) S. Hughes, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Constantinescu, Holm & Holm, Stud. Mycol. 31: 75 (1989)
+Mycologia 68(4): 811 (1976)
 
 #### Original name
-Stanhughesia linnaeae Constant., 1989
+Halbaniella linnaeae Dearn., 1929
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Paxillus hortensis Velen. SPECIES
-=======
+# Paxillus hortensis Velen. SPECIES
 
 #### Status
 ACCEPTED

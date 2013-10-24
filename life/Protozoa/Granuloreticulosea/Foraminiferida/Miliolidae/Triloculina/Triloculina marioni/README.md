@@ -1,5 +1,4 @@
-Triloculina marioni Schlumberger, 1893 SPECIES
-=======
+# Triloculina marioni Schlumberger, 1893 SPECIES
 
 #### Status
 ACCEPTED

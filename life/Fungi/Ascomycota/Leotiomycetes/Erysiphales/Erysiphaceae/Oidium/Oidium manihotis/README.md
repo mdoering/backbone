@@ -1,5 +1,4 @@
-Oidium manihotis Henn. SPECIES
-=======
+# Oidium manihotis Henn. SPECIES
 
 #### Status
 ACCEPTED

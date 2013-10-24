@@ -1,5 +1,4 @@
-Pyrenula plittii R.C. Harris SPECIES
-=======
+# Pyrenula plittii R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

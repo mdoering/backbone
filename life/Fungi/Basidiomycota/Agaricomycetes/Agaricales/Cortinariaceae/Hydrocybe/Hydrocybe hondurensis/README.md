@@ -1,5 +1,4 @@
-Hydrocybe hondurensis Murrill SPECIES
-=======
+# Hydrocybe hondurensis Murrill SPECIES
 
 #### Status
 ACCEPTED

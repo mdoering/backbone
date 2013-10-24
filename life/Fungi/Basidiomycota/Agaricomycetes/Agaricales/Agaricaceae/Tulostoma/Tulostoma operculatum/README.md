@@ -1,5 +1,4 @@
-Tulostoma operculatum Long & S. Ahmad SPECIES
-=======
+# Tulostoma operculatum Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe peregrina Herp. SPECIES
-=======
+# Clitocybe peregrina Herp. SPECIES
 
 #### Status
 ACCEPTED

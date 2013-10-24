@@ -1,17 +1,16 @@
-Polystictus copelandi (Murrill) Sacc. & Trotter SPECIES
-=======
+# Abundisporus roseoalbus (Jungh.) Ryvarden, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Belg. Jl Bot. 131(2): 154 (1999)
 
 #### Original name
-Coriolopsis copelandii Murrill, 1908
+Polyporus roseoalbus Jungh., 1838
 
 ### Remarks
 null

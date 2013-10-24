@@ -1,5 +1,4 @@
-Septoria gardeniae B.V. Patil, Sukapure & Thirum. SPECIES
-=======
+# Septoria gardeniae B.V. Patil, Sukapure & Thirum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcopodium rosellum Boud. SPECIES
-=======
+# Sarcopodium rosellum Boud. SPECIES
 
 #### Status
 ACCEPTED

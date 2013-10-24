@@ -1,5 +1,4 @@
-Strickeria amygdaloides (Ellis & Everh.) Lindau SPECIES
-=======
+# Strickeria amygdaloides (Ellis & Everh.) Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tubercularia pseudoacaciae Rebent. SPECIES
-=======
+# Tubercularia pseudacaciae Rebent. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Prodr. fl. neomarch. 363 (1804)
 
 #### Original name
-Tubercularia pseudoacaciae Rebent.
+Tubercularia pseudacaciae Rebent.
 
 ### Remarks
 null

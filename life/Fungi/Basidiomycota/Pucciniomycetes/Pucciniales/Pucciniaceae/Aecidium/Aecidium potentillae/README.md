@@ -1,5 +1,4 @@
-Aecidium potentillae SPECIES
-=======
+# Aecidium potentillae SPECIES
 
 #### Status
 ACCEPTED

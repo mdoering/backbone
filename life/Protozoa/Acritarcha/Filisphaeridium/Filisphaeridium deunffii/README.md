@@ -1,5 +1,4 @@
-Filisphaeridium deunffii (Jansonius, 1962) Staplin, Jansonius & Pocock, 1965 SPECIES
-=======
+# Filisphaeridium deunffii (Jansonius, 1962) Staplin, Jansonius & Pocock, 1965 SPECIES
 
 #### Status
 ACCEPTED

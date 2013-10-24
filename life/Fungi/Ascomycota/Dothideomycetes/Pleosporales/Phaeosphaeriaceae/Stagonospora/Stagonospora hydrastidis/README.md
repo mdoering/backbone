@@ -1,5 +1,4 @@
-Stagonospora hydrastidis Bond.-Mont. SPECIES
-=======
+# Stagonospora hydrastidis Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dacrymycetaceae FAMILY
-=======
+# Dacrymycetaceae FAMILY
 
 #### Status
 ACCEPTED

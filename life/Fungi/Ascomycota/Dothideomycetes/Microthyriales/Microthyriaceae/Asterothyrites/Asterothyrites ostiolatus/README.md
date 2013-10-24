@@ -1,5 +1,4 @@
-Asterothyrites ostiolatus Cookson SPECIES
-=======
+# Asterothyrites ostiolatus Cookson SPECIES
 
 #### Status
 ACCEPTED

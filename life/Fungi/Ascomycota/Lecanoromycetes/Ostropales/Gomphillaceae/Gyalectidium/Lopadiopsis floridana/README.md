@@ -1,5 +1,4 @@
-Lopadiopsis floridana Zahlbr. SPECIES
-=======
+# Lopadiopsis floridana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

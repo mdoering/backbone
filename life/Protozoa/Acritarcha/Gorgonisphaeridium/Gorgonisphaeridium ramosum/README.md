@@ -1,5 +1,4 @@
-Gorgonisphaeridium ramosum Pöthé de Baldis, 1981 SPECIES
-=======
+# Gorgonisphaeridium ramosum Pöthé de Baldis, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella diaphana Ellis SPECIES
-=======
+# Volutella diaphana Ellis SPECIES
 
 #### Status
 ACCEPTED

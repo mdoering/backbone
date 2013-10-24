@@ -1,5 +1,4 @@
-Septobasidium verrucosum Couch SPECIES
-=======
+# Septobasidium verrucosum Couch SPECIES
 
 #### Status
 ACCEPTED

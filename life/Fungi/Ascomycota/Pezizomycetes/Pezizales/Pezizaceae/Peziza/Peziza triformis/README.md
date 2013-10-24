@@ -1,5 +1,4 @@
-Peziza triformis Fr. SPECIES
-=======
+# Peziza triformis Fr. SPECIES
 
 #### Status
 ACCEPTED

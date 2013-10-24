@@ -1,5 +1,4 @@
-Tremella rufobrunnea L.S. Olive SPECIES
-=======
+# Tremella rufobrunnea L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

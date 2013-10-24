@@ -1,14 +1,13 @@
-Diplophrys stercorea Cienk., 1876 SPECIES
-=======
+# Sorodiplophrys stercorea (Cienk.) L.S. Olive & Dykstra, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 67(4): 873 (1975)
 
 #### Original name
 Diplophrys stercorea Cienk., 1876

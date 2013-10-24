@@ -1,5 +1,4 @@
-Protoperidinium spitzbergense (Broch, 1910) Balech, 1994 SPECIES
-=======
+# Protoperidinium spitzbergense (Broch, 1910) Balech, 1994 SPECIES
 
 #### Status
 ACCEPTED

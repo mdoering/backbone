@@ -1,5 +1,4 @@
-Desulfotomaculum gibsoniae Kuever et al., 1999 SPECIES
-=======
+# Desulfotomaculum gibsoniae Kuever et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

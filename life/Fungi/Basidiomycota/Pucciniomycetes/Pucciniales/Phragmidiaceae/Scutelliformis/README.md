@@ -1,5 +1,4 @@
-Scutelliformis Salazar-Yepes, Pardo-Card. & Buriticá GENUS
-=======
+# Scutelliformis Salazar-Yepes, Pardo-Card. & Buriticá GENUS
 
 #### Status
 ACCEPTED

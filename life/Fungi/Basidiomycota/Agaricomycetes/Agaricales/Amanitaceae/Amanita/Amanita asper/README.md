@@ -1,5 +1,4 @@
-Amanita asper Gonn. & Rabenh. SPECIES
-=======
+# Amanita asper Gonn. & Rabenh. SPECIES
 
 #### Status
 ACCEPTED

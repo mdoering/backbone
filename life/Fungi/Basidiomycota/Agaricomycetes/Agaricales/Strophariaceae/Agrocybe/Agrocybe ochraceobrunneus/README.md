@@ -1,5 +1,4 @@
-Agrocybe ochraceobrunneus Watling SPECIES
-=======
+# Agrocybe ochraceobrunneus Watling SPECIES
 
 #### Status
 ACCEPTED

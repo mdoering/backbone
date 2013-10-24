@@ -1,5 +1,4 @@
-Hirsutella lecaniicola (Jaap) Petch SPECIES
-=======
+# Hirsutella lecaniicola (Jaap) Petch SPECIES
 
 #### Status
 ACCEPTED

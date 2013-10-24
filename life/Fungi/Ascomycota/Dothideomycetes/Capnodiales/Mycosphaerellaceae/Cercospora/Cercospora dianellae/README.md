@@ -1,5 +1,4 @@
-Cercospora dianellae Sawada & Katsuki SPECIES
-=======
+# Cercospora dianellae Sawada & Katsuki SPECIES
 
 #### Status
 ACCEPTED

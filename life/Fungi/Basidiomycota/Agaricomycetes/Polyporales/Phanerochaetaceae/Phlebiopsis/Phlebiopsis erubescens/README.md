@@ -1,5 +1,4 @@
-Phlebiopsis erubescens Hjortstam & Ryvarden, 2005 SPECIES
-=======
+# Phlebiopsis erubescens Hjortstam & Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

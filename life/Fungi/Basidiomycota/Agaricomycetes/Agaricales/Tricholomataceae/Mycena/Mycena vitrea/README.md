@@ -1,8 +1,7 @@
-Mycena sepia J.E. Lange SPECIES
-=======
+# Mycena vitrea (Fr. Fr.) Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Belgian Species List

@@ -1,14 +1,13 @@
-Duplicaria acuminata Ellis & Everh., 1895 SPECIES
-=======
+# Bifusella acuminata (Ellis & Everh.) Bonar & W.B. Cooke, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Acad. nat. Sci. Philad. 47: 429 (1895)
+Mycologia 34: 665 (1942)
 
 #### Original name
 Duplicaria acuminata Ellis & Everh., 1895

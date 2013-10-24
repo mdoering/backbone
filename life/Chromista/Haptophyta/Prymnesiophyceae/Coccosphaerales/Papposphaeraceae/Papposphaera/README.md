@@ -1,5 +1,4 @@
-Papposphaera K.Tangen, 1972 GENUS
-=======
+# Papposphaera K.Tangen, 1972 GENUS
 
 #### Status
 ACCEPTED

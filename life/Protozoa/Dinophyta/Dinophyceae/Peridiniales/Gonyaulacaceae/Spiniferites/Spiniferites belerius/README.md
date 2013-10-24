@@ -1,5 +1,4 @@
-Spiniferites belerius Reid, 1974 SPECIES
-=======
+# Spiniferites belerius Reid, 1974 SPECIES
 
 #### Status
 ACCEPTED

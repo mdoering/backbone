@@ -1,5 +1,4 @@
-Corticium brinkmannii Bres. SPECIES
-=======
+# Corticium brinkmannii Bres. SPECIES
 
 #### Status
 ACCEPTED

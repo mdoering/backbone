@@ -1,5 +1,4 @@
-Aplosporella ipomoeae S. Ahmad SPECIES
-=======
+# Aplosporella ipomoeae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccophacidium salicinum Ellis & Everh. SPECIES
-=======
+# Coccophacidium salicinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

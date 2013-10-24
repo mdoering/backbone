@@ -1,5 +1,4 @@
-Physcia marginata Pers. SPECIES
-=======
+# Physcia marginata Pers. SPECIES
 
 #### Status
 ACCEPTED

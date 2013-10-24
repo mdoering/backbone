@@ -1,5 +1,4 @@
-Bipolaris ovariicola Alcorn, 1982 SPECIES
-=======
+# Bipolaris ovariicola Alcorn, 1982 SPECIES
 
 #### Status
 ACCEPTED

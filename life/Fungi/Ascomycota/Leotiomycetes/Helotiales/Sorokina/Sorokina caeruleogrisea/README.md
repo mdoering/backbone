@@ -1,5 +1,4 @@
-Sorokina caeruleogrisea Spooner, Laessøe & Lodge SPECIES
-=======
+# Sorokina caeruleogrisea Spooner, Laessøe & Lodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodoassansia Vánky GENUS
-=======
+# Heterodoassansia Vánky GENUS
 
 #### Status
 ACCEPTED

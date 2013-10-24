@@ -1,5 +1,4 @@
-Octospora ascoboloides (Seaver) Caillet & Moyne SPECIES
-=======
+# Octospora ascoboloides (Seaver) Caillet & Moyne SPECIES
 
 #### Status
 ACCEPTED

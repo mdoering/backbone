@@ -1,5 +1,4 @@
-Coccotrema placodinum Imshaug SPECIES
-=======
+# Coccotrema placodinum Imshaug SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Beneckea GENUS
-=======
+# Beneckea GENUS
 
 #### Status
 ACCEPTED

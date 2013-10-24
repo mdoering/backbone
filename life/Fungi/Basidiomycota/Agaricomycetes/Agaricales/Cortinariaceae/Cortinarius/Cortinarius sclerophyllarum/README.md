@@ -1,5 +1,4 @@
-Cortinarius sclerophyllarum Gasparini SPECIES
-=======
+# Cortinarius sclerophyllarum Gasparini SPECIES
 
 #### Status
 ACCEPTED

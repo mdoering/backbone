@@ -1,5 +1,4 @@
-Echinommetta Haeckel, 1887 GENUS
-=======
+# Echinommetta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis paraserpens Lizano & Lücking SPECIES
-=======
+# Graphis paraserpens Lizano & Lücking SPECIES
 
 #### Status
 ACCEPTED

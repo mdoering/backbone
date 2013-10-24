@@ -1,5 +1,4 @@
-Boletus fistulosus Peck SPECIES
-=======
+# Boletus fistulosus Peck SPECIES
 
 #### Status
 ACCEPTED

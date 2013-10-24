@@ -1,5 +1,4 @@
-Cercospora melastomobia W. Yamam. SPECIES
-=======
+# Cercospora melastomobia W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

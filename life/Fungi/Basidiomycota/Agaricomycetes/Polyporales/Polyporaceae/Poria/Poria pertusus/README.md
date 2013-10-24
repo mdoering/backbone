@@ -1,5 +1,4 @@
-Poria pertusus Pers. SPECIES
-=======
+# Poria pertusus Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium pourretiae Sousa da Câmara SPECIES
-=======
+# Gloeosporium pourretiae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

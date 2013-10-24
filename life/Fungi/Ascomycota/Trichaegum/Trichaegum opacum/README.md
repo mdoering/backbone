@@ -1,5 +1,4 @@
-Trichaegum opacum Cooke & Harkn. SPECIES
-=======
+# Trichaegum opacum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

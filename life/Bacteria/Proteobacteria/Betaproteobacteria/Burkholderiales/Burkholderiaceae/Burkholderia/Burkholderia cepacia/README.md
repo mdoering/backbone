@@ -1,11 +1,10 @@
-Pseudomonas multivorans Stanier et al., 1966 SPECIES
-=======
+# Burkholderia cepacia (Palleroni & Holmes, 1981) Yabuuchi et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

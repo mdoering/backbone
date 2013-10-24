@@ -1,5 +1,4 @@
-Peniophora aschista (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Peniophora aschista (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

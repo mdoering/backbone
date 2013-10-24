@@ -1,5 +1,4 @@
-Biatora elegans Zwackh SPECIES
-=======
+# Biatora elegans Zwackh SPECIES
 
 #### Status
 ACCEPTED

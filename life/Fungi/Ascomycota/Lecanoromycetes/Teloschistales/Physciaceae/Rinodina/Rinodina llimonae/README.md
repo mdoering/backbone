@@ -1,5 +1,4 @@
-Rinodina llimonae Giralt & Etayo SPECIES
-=======
+# Rinodina llimonae Giralt & Etayo SPECIES
 
 #### Status
 ACCEPTED

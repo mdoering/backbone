@@ -1,17 +1,16 @@
-Tingiopsidium Werner GENUS
-=======
+# Koerberia A. Massal. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin de la Société des Sciences naturelles du Maroc 29: 47 (1939)
+Geneac. Lich. 5 (1854)
 
 #### Original name
-Tingiopsidium Werner
+Koerberia A. Massal.
 
 ### Remarks
 null

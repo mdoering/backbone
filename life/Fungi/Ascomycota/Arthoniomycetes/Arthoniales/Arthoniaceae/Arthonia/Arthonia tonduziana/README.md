@@ -1,5 +1,4 @@
-Arthonia tonduziana Müll. Arg. SPECIES
-=======
+# Arthonia tonduziana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Himantia daedaloides Thüm. SPECIES
-=======
+# Himantia daedaloides Thüm. SPECIES
 
 #### Status
 ACCEPTED

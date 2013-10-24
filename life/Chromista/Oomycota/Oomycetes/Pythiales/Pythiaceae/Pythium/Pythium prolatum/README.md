@@ -1,5 +1,4 @@
-Pythium prolatum W.A. Campb. & F.F. Hendrix, 1969 SPECIES
-=======
+# Pythium prolatum W.A. Campb. & F.F. Hendrix, 1969 SPECIES
 
 #### Status
 ACCEPTED

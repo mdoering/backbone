@@ -1,17 +1,16 @@
-Pyrenula spectata R.C. Harris SPECIES
-=======
+# Pyrenula expectata R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Moscosoa 6: 213 (1990)
 
 #### Original name
-Pyrenula spectata R.C. Harris
+Pyrenula expectata R.C. Harris
 
 ### Remarks
 null

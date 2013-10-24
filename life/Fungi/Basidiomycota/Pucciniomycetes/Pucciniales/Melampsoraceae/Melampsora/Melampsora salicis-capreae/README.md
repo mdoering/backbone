@@ -1,5 +1,4 @@
-Melampsora salicis-capreae (Pers.) G. Winter SPECIES
-=======
+# Melampsora salicis-capreae (Pers.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

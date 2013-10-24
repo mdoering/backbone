@@ -1,5 +1,4 @@
-Loxostomum Ehrenberg, 1854 GENUS
-=======
+# Loxostomum Ehrenberg, 1854 GENUS
 
 #### Status
 ACCEPTED

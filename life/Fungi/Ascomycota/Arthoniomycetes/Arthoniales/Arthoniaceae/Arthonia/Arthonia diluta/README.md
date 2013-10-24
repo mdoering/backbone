@@ -1,5 +1,4 @@
-Arthonia diluta Chevall. SPECIES
-=======
+# Arthonia diluta Chevall. SPECIES
 
 #### Status
 ACCEPTED

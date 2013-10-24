@@ -1,5 +1,4 @@
-Trichosporium fuscescens Cooke & Harkn. SPECIES
-=======
+# Trichosporium fuscescens Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

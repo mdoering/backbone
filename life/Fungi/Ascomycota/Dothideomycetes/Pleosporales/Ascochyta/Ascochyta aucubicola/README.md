@@ -1,5 +1,4 @@
-Ascochyta aucubicola G. Winter SPECIES
-=======
+# Ascochyta aucubicola G. Winter SPECIES
 
 #### Status
 ACCEPTED

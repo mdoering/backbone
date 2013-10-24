@@ -1,5 +1,4 @@
-Biantholithus M.N. Bramlette & E. Martini, 1964 GENUS
-=======
+# Biantholithus M.N. Bramlette & E. Martini, 1964 GENUS
 
 #### Status
 ACCEPTED

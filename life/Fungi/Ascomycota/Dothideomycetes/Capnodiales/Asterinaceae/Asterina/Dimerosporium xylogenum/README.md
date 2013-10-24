@@ -1,5 +1,4 @@
-Dimerosporium xylogenum Ellis & Everh. SPECIES
-=======
+# Dimerosporium xylogenum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

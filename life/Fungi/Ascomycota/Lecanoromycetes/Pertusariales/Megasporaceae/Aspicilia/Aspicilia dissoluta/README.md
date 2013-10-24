@@ -1,5 +1,4 @@
-Aspicilia dissoluta Nyl. SPECIES
-=======
+# Aspicilia dissoluta Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria rupestris f. rupestris FORM
-=======
+# Pertusaria rupestris SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria rupestris f. rupestris
+null
 
 ### Remarks
 null

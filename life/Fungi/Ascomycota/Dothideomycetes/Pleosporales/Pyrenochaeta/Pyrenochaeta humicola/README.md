@@ -1,5 +1,4 @@
-Pyrenochaeta humicola Oudem. SPECIES
-=======
+# Pyrenochaeta humicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

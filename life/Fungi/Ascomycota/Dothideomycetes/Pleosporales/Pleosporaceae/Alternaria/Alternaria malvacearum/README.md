@@ -1,5 +1,4 @@
-Alternaria malvacearum E.G. Simmons SPECIES
-=======
+# Alternaria malvacearum E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea ahlneri Räsänen SPECIES
-=======
+# Lecidea ahlneri Räsänen SPECIES
 
 #### Status
 ACCEPTED

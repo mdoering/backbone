@@ -1,5 +1,4 @@
-Pomoria I.A. Siverzeva & T.V. Jankauskas in T.V. Jankauskas, 1989 GENUS
-=======
+# Pomoria I.A. Siverzeva & T.V. Jankauskas in T.V. Jankauskas, 1989 GENUS
 
 #### Status
 ACCEPTED

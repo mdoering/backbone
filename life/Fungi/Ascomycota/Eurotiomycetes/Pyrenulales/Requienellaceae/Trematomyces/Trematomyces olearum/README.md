@@ -1,5 +1,4 @@
-Trematomyces olearum (Castagne) Schrantz SPECIES
-=======
+# Trematomyces olearum (Castagne) Schrantz SPECIES
 
 #### Status
 ACCEPTED

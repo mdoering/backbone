@@ -1,5 +1,4 @@
-Geotrichum histeridarum S.O. Suh & M. Blackw., 2006 SPECIES
-=======
+# Geotrichum histeridarum S.O. Suh & M. Blackw., 2006 SPECIES
 
 #### Status
 ACCEPTED

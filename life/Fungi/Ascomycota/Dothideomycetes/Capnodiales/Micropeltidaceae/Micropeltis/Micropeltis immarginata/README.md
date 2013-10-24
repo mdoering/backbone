@@ -1,5 +1,4 @@
-Micropeltis immarginata Rehm SPECIES
-=======
+# Micropeltis immarginata Rehm SPECIES
 
 #### Status
 ACCEPTED

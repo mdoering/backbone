@@ -1,5 +1,4 @@
-Rhabdospora calcitrapae (Thüm.) Sacc. SPECIES
-=======
+# Rhabdospora calcitrapae (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

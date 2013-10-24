@@ -1,5 +1,4 @@
-Chaetosphaeria myriadea (Curzi) E. Müll. SPECIES
-=======
+# Chaetosphaeria myriadea (Curzi) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

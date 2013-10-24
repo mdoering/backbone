@@ -1,5 +1,4 @@
-Pseudocercospora robusta Crous & M.J. Wingf. SPECIES
-=======
+# Pseudocercospora robusta Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

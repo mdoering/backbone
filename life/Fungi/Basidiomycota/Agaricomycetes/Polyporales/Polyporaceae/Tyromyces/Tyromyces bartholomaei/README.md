@@ -1,5 +1,4 @@
-Tyromyces bartholomaei (Peck) Murrill SPECIES
-=======
+# Tyromyces bartholomaei (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

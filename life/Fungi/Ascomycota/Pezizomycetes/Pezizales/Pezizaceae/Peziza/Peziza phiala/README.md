@@ -1,5 +1,4 @@
-Peziza phiala Vahl SPECIES
-=======
+# Peziza phiala Vahl SPECIES
 
 #### Status
 ACCEPTED

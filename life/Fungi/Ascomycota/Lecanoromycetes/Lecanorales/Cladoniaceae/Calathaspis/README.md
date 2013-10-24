@@ -1,5 +1,4 @@
-Calathaspis I.M. Lamb & W.A. Weber GENUS
-=======
+# Calathaspis I.M. Lamb & W.A. Weber GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella peddieae (Doidge) Hansf. SPECIES
-=======
+# Asteridiella peddieae (Doidge) Hansf. SPECIES
 
 #### Status
 ACCEPTED

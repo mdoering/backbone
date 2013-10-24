@@ -1,5 +1,4 @@
-Lecania macrocarpa B. de Lesd. SPECIES
-=======
+# Lecania macrocarpa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

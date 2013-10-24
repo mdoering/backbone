@@ -1,5 +1,4 @@
-Cypassis Haeckel, 1887 GENUS
-=======
+# Cypassis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

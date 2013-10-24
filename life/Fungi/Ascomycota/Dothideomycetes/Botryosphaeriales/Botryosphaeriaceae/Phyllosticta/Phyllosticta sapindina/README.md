@@ -1,5 +1,4 @@
-Phyllosticta sapindina Khune SPECIES
-=======
+# Phyllosticta sapindina Khune SPECIES
 
 #### Status
 ACCEPTED

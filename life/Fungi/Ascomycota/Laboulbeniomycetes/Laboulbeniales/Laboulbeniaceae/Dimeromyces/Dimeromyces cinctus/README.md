@@ -1,5 +1,4 @@
-Dimeromyces cinctus Thaxt. SPECIES
-=======
+# Dimeromyces cinctus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

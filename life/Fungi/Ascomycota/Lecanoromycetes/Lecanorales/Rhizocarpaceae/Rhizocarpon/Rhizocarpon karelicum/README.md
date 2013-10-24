@@ -1,5 +1,4 @@
-Rhizocarpon karelicum Räsänen SPECIES
-=======
+# Rhizocarpon karelicum Räsänen SPECIES
 
 #### Status
 ACCEPTED

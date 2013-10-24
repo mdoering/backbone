@@ -1,5 +1,4 @@
-Pottsiodes Corliss, 1960 GENUS
-=======
+# Pottsiodes Corliss, 1960 GENUS
 
 #### Status
 ACCEPTED

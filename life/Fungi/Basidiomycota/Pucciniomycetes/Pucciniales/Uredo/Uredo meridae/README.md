@@ -1,5 +1,4 @@
-Uredo meridae F. Kern, Thurst. & Whetzel SPECIES
-=======
+# Uredo meridae F. Kern, Thurst. & Whetzel SPECIES
 
 #### Status
 ACCEPTED

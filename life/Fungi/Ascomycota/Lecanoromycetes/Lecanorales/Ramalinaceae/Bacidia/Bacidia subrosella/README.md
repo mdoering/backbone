@@ -1,5 +1,4 @@
-Bacidia subrosella (Nyl.) SPECIES
-=======
+# Bacidia subrosella (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

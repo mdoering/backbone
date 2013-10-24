@@ -1,5 +1,4 @@
-Treubiomyces celastri Doidge SPECIES
-=======
+# Treubiomyces celastri Doidge SPECIES
 
 #### Status
 ACCEPTED

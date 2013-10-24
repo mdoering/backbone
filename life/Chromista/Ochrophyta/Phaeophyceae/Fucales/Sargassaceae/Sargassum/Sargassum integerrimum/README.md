@@ -1,5 +1,4 @@
-Sargassum integerrimum Tseng & Lu SPECIES
-=======
+# Sargassum integerrimum Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

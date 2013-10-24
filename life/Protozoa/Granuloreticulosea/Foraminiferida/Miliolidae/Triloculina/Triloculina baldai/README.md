@@ -1,5 +1,4 @@
-Triloculina baldai SPECIES
-=======
+# Triloculina baldai SPECIES
 
 #### Status
 ACCEPTED

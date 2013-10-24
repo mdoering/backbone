@@ -1,5 +1,4 @@
-Fenestella schistostroma (Duby) Cooke SPECIES
-=======
+# Fenestella schistostroma (Duby) Cooke SPECIES
 
 #### Status
 ACCEPTED

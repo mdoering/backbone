@@ -1,5 +1,4 @@
-Lasiodiplodia crassispora T.I. Burgess & Barber SPECIES
-=======
+# Lasiodiplodia crassispora T.I. Burgess & Barber SPECIES
 
 #### Status
 ACCEPTED

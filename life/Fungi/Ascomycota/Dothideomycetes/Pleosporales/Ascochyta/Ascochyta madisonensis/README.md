@@ -1,5 +1,4 @@
-Ascochyta madisonensis H.C. Greene SPECIES
-=======
+# Ascochyta madisonensis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

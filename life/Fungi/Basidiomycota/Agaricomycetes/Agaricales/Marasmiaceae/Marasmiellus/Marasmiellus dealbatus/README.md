@@ -1,5 +1,4 @@
-Marasmiellus dealbatus (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Marasmiellus dealbatus (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

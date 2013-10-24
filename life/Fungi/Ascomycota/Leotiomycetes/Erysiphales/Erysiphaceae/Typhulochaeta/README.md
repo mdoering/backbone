@@ -1,5 +1,4 @@
-Typhulochaeta S. Ito & Hara GENUS
-=======
+# Typhulochaeta S. Ito & Hara GENUS
 
 #### Status
 ACCEPTED

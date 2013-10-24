@@ -1,5 +1,4 @@
-Paranthostomella corni (Fabre) Petr. SPECIES
-=======
+# Paranthostomella corni (Fabre) Petr. SPECIES
 
 #### Status
 ACCEPTED

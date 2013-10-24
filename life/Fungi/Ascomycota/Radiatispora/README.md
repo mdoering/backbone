@@ -1,5 +1,4 @@
-Radiatispora Matsush. GENUS
-=======
+# Radiatispora Matsush. GENUS
 
 #### Status
 ACCEPTED

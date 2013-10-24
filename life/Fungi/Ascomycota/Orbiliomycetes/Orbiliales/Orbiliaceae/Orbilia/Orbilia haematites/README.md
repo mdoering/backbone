@@ -1,5 +1,4 @@
-Orbilia haematites (Wallr.) Sacc. SPECIES
-=======
+# Orbilia haematites (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

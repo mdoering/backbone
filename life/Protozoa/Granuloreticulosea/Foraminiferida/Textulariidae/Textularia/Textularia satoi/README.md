@@ -1,5 +1,4 @@
-Textularia satoi Uchio, 1962 SPECIES
-=======
+# Textularia satoi Uchio, 1962 SPECIES
 
 #### Status
 ACCEPTED

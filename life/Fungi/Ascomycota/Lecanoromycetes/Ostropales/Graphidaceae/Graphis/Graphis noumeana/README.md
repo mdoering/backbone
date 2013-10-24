@@ -1,5 +1,4 @@
-Graphis noumeana Müll. Arg. SPECIES
-=======
+# Graphis noumeana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

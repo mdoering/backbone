@@ -1,5 +1,4 @@
-Hymenogaster spictensis Pat. SPECIES
-=======
+# Hymenogaster spictensis Pat. SPECIES
 
 #### Status
 ACCEPTED

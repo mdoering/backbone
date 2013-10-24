@@ -1,5 +1,4 @@
-Gurleya macrocyclopis Voronin SPECIES
-=======
+# Gurleya macrocyclopis Voronin SPECIES
 
 #### Status
 ACCEPTED

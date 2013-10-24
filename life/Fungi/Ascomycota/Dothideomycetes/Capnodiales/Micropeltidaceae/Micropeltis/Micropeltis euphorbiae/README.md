@@ -1,5 +1,4 @@
-Micropeltis euphorbiae Bat., O.M. Fonseca & S.K. Shome SPECIES
-=======
+# Micropeltis euphorbiae Bat., O.M. Fonseca & S.K. Shome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coremium fuscum Rivolta SPECIES
-=======
+# Coremium fuscum Rivolta SPECIES
 
 #### Status
 ACCEPTED

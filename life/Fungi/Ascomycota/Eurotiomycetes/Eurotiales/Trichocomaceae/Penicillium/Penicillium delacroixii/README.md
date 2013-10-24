@@ -1,5 +1,4 @@
-Penicillium delacroixii (Sacc.) Biourge SPECIES
-=======
+# Penicillium delacroixii (Sacc.) Biourge SPECIES
 
 #### Status
 ACCEPTED

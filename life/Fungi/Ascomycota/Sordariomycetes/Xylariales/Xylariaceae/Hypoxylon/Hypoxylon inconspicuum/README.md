@@ -1,5 +1,4 @@
-Hypoxylon inconspicuum J.D. Rogers & Y.M. Ju, 2005 SPECIES
-=======
+# Hypoxylon inconspicuum J.D. Rogers & Y.M. Ju, 2005 SPECIES
 
 #### Status
 ACCEPTED

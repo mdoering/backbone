@@ -1,5 +1,4 @@
-Polystictus biokoensis anon. SPECIES
-=======
+# Polystictus biokoensis anon. SPECIES
 
 #### Status
 ACCEPTED

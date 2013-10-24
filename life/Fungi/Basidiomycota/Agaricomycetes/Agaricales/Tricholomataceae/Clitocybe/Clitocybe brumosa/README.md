@@ -1,5 +1,4 @@
-Clitocybe brumosa (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe brumosa (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

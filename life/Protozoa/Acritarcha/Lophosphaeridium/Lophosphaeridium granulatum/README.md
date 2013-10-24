@@ -1,5 +1,4 @@
-Lophosphaeridium granulatum P. K. Maithy SPECIES
-=======
+# Lophosphaeridium granulatum P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

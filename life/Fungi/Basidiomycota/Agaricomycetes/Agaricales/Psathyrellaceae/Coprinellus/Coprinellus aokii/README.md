@@ -1,5 +1,4 @@
-Coprinellus aokii (Hongo) Vilgalys, Hopple & Jacq. Johnson SPECIES
-=======
+# Coprinellus aokii (Hongo) Vilgalys, Hopple & Jacq. Johnson SPECIES
 
 #### Status
 ACCEPTED

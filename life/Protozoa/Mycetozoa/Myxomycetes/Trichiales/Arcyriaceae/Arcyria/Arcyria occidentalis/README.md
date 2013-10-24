@@ -1,5 +1,4 @@
-Arcyria occidentalis (T. Macbr.) G. Lister, 1911 SPECIES
-=======
+# Arcyria occidentalis (T. Macbr.) G. Lister, 1911 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria rhodochlora Mont. SPECIES
-=======
+# Sphaeria rhodochlora Mont. SPECIES
 
 #### Status
 ACCEPTED

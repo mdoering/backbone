@@ -1,5 +1,4 @@
-Phaeosphaeria padellana Leuchtm., 1987 SPECIES
-=======
+# Phaeosphaeria padellana Leuchtm., 1987 SPECIES
 
 #### Status
 ACCEPTED

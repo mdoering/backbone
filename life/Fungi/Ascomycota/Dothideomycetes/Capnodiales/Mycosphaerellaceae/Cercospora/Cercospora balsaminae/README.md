@@ -1,5 +1,4 @@
-Cercospora balsaminae Syd. SPECIES
-=======
+# Cercospora balsaminae Syd. SPECIES
 
 #### Status
 ACCEPTED

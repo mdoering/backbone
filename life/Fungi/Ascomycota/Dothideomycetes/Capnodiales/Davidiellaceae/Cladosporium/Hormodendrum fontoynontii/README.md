@@ -1,5 +1,4 @@
-Hormodendrum fontoynontii Langeron SPECIES
-=======
+# Hormodendrum fontoynontii Langeron SPECIES
 
 #### Status
 ACCEPTED

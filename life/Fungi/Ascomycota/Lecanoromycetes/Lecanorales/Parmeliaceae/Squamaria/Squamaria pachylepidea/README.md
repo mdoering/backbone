@@ -1,5 +1,4 @@
-Squamaria pachylepidea (Hellb.) H. Olivier SPECIES
-=======
+# Squamaria pachylepidea (Hellb.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

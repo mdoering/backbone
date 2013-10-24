@@ -1,5 +1,4 @@
-Didymosphaeria palmicola I. Hino & Katum. SPECIES
-=======
+# Didymosphaeria palmicola I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

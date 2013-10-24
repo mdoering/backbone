@@ -1,5 +1,4 @@
-Galerina heimansii Reijnders, 1959 SPECIES
-=======
+# Galerina heimansii Reijnders, 1959 SPECIES
 
 #### Status
 ACCEPTED

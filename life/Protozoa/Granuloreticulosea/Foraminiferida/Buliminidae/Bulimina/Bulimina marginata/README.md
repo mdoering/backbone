@@ -1,5 +1,4 @@
-Bulimina marginata D'Orbigny SPECIES
-=======
+# Bulimina marginata D'Orbigny SPECIES
 
 #### Status
 ACCEPTED

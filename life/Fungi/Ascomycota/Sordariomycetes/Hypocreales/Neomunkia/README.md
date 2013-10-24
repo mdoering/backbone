@@ -1,5 +1,4 @@
-Neomunkia Petr. GENUS
-=======
+# Neomunkia Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia caricis-amblyolepis Homma SPECIES
-=======
+# Puccinia caricis-amblyolepis Homma SPECIES
 
 #### Status
 ACCEPTED

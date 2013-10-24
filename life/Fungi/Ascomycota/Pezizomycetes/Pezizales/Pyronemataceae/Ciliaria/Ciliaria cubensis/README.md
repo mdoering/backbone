@@ -1,5 +1,4 @@
-Ciliaria cubensis (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Ciliaria cubensis (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Sphacelaria botryoclada J.D. Hooker & Harvey SPECIES
-=======
+# Ptilopogon botryocladus (J.D. Hooker & Harvey) Reinke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

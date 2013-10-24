@@ -1,5 +1,4 @@
-Glaucoma sinuosa Dumas, 1937 SPECIES
-=======
+# Glaucoma sinuosa Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

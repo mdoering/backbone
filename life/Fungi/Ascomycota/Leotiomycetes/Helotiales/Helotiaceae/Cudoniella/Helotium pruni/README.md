@@ -1,5 +1,4 @@
-Helotium pruni Velen. SPECIES
-=======
+# Helotium pruni Velen. SPECIES
 
 #### Status
 ACCEPTED

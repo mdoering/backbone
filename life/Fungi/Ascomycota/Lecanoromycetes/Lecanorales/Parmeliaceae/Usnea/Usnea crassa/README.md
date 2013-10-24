@@ -1,5 +1,4 @@
-Usnea crassa Zammuto SPECIES
-=======
+# Usnea crassa Zammuto SPECIES
 
 #### Status
 ACCEPTED

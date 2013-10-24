@@ -1,5 +1,4 @@
-Melosira ornata Grunow in Van Heurck, 1882 SPECIES
-=======
+# Melosira ornata Grunow in Van Heurck, 1882 SPECIES
 
 #### Status
 ACCEPTED

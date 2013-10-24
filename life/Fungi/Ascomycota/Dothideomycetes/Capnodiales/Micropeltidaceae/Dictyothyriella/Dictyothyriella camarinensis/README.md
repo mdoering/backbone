@@ -1,5 +1,4 @@
-Dictyothyriella camarinensis (Syd.) F. Stevens & Manter SPECIES
-=======
+# Dictyothyriella camarinensis (Syd.) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

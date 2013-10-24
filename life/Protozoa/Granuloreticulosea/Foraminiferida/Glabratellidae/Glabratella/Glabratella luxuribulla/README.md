@@ -1,5 +1,4 @@
-Glabratella luxuribulla Patterson, 1990 SPECIES
-=======
+# Glabratella luxuribulla Patterson, 1990 SPECIES
 
 #### Status
 ACCEPTED

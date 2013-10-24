@@ -1,5 +1,4 @@
-Toroformis stratosus Lopukhin, 1972 SPECIES
-=======
+# Toroformis stratosus Lopukhin, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicoccum leucothoës (Ellis & G. Martin) Aa & Vanev SPECIES
-=======
+# Fusicoccum leucothoës (Ellis & G. Martin) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerocolla argentinensis Speg. SPECIES
-=======
+# Sphaerocolla argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

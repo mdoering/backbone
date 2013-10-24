@@ -1,5 +1,4 @@
-Tolypothrix setchellii Collins SPECIES
-=======
+# Tolypothrix setchellii Collins SPECIES
 
 #### Status
 ACCEPTED

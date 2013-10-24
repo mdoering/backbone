@@ -1,5 +1,4 @@
-Coniothecium carpophylum Bubák SPECIES
-=======
+# Coniothecium carpophylum Bubák SPECIES
 
 #### Status
 ACCEPTED

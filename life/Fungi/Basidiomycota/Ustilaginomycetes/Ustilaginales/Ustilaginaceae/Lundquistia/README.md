@@ -1,5 +1,4 @@
-Lundquistia Vánky GENUS
-=======
+# Lundquistia Vánky GENUS
 
 #### Status
 ACCEPTED

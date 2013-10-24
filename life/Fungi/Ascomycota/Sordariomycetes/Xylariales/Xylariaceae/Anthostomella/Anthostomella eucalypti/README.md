@@ -1,5 +1,4 @@
-Anthostomella eucalypti H.Y. Yip SPECIES
-=======
+# Anthostomella eucalypti H.Y. Yip SPECIES
 
 #### Status
 ACCEPTED

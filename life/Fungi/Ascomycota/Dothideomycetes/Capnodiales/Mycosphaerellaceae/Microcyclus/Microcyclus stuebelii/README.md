@@ -1,5 +1,4 @@
-Microcyclus stuebelii (Henn.) E. Müll. & Sanwal SPECIES
-=======
+# Microcyclus stuebelii (Henn.) E. Müll. & Sanwal SPECIES
 
 #### Status
 ACCEPTED

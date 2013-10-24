@@ -1,5 +1,4 @@
-Entoloma maculosum (Pegler) Courtec. & Fiard SPECIES
-=======
+# Entoloma maculosum (Pegler) Courtec. & Fiard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia aquatica Thaxt. SPECIES
-=======
+# Laboulbenia aquatica Thaxt. SPECIES
 
 #### Status
 ACCEPTED

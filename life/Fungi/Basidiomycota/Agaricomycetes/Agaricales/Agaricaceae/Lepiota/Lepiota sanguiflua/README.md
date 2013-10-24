@@ -1,5 +1,4 @@
-Lepiota sanguiflua Murrill SPECIES
-=======
+# Lepiota sanguiflua Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spicaria longipes Petch SPECIES
-=======
+# Spicaria longipes Petch SPECIES
 
 #### Status
 ACCEPTED

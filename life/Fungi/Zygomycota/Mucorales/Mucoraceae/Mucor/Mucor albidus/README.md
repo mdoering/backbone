@@ -1,5 +1,4 @@
-Mucor albidus Naumov SPECIES
-=======
+# Mucor albidus Naumov SPECIES
 
 #### Status
 ACCEPTED

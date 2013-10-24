@@ -1,5 +1,4 @@
-Clasterosporium therryanum Sacc. & Roum. SPECIES
-=======
+# Clasterosporium therryanum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

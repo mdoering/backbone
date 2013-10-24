@@ -1,5 +1,4 @@
-Hirsutospirella Zaninetti, Ciarapica, Cirilli & Cadet, 1985 GENUS
-=======
+# Hirsutospirella Zaninetti, Ciarapica, Cirilli & Cadet, 1985 GENUS
 
 #### Status
 ACCEPTED

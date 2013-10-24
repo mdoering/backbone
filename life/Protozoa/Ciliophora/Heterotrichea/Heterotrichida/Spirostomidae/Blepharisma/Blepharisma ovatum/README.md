@@ -1,8 +1,7 @@
-Apgaria ovata Stokes, 1884 SPECIES
-=======
+# Blepharisma ovatum (Stokes, 1884) Penard, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

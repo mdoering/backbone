@@ -1,5 +1,4 @@
-Psilocistella lignatilis (Velen.) Svrcek SPECIES
-=======
+# Psilocistella lignatilis (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

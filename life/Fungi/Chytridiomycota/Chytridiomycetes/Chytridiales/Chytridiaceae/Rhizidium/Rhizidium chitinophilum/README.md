@@ -1,5 +1,4 @@
-Rhizidium chitinophilum Sparrow, 1960 SPECIES
-=======
+# Rhizidium chitinophilum Sparrow, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxinioides japonicus Hoshide, 1951 SPECIES
-=======
+# Pyxinioides japonicus Hoshide, 1951 SPECIES
 
 #### Status
 ACCEPTED

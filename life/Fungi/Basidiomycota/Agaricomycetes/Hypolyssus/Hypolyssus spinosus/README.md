@@ -1,5 +1,4 @@
-Hypolyssus spinosus (Bonord.) Kuntze SPECIES
-=======
+# Hypolyssus spinosus (Bonord.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aegerita cinnamomea Speg. SPECIES
-=======
+# Aegerita cinnamomea Speg. SPECIES
 
 #### Status
 ACCEPTED

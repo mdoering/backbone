@@ -1,8 +1,7 @@
-Mollisia arenula (Alb. & Schwein.) P. Karst. SPECIES
-=======
+# Micropodia arenula (Alb. & Schwein.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

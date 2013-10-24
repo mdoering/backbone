@@ -1,17 +1,16 @@
-Sphaerella vulnerariae Fuckel, 1873 SPECIES
-=======
+# Mycosphaerella vulnerariae (Fuckel) Lindau, 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hilfsbuch fur das Sammeln der Ascomyceten (Berlin) 12 (1903)
 
 #### Original name
-null
+Sphaerella vulnerariae Fuckel, 1873
 
 ### Remarks
 null

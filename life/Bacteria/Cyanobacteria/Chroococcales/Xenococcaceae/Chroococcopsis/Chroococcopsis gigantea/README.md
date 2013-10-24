@@ -1,5 +1,4 @@
-Chroococcopsis gigantea Geitler SPECIES
-=======
+# Chroococcopsis gigantea Geitler SPECIES
 
 #### Status
 ACCEPTED

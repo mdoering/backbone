@@ -1,5 +1,4 @@
-Cannopilus Haeckel, 1887 GENUS
-=======
+# Cannopilus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guttulina harrisi Haynes, 1973 SPECIES
-=======
+# Guttulina harrisi Haynes, 1973 SPECIES
 
 #### Status
 ACCEPTED

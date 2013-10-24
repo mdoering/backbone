@@ -1,5 +1,4 @@
-Bacidia elegans (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia elegans (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

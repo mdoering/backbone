@@ -1,5 +1,4 @@
-Ramaria tehovensis Velen. SPECIES
-=======
+# Ramaria tehovensis Velen. SPECIES
 
 #### Status
 ACCEPTED

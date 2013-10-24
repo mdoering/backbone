@@ -1,5 +1,4 @@
-Alnicola pseudoscolecina (D.A. Reid) Courtec. SPECIES
-=======
+# Alnicola pseudoscolecina (D.A. Reid) Courtec. SPECIES
 
 #### Status
 ACCEPTED

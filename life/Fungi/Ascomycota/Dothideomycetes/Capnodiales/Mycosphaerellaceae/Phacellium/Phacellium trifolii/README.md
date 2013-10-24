@@ -1,5 +1,4 @@
-Phacellium trifolii (Jaap) U. Braun SPECIES
-=======
+# Phacellium trifolii (Jaap) U. Braun SPECIES
 
 #### Status
 ACCEPTED

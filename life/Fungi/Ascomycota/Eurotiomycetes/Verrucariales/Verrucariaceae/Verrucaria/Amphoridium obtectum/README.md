@@ -1,5 +1,4 @@
-Amphoridium obtectum (Arnold) Arnold SPECIES
-=======
+# Amphoridium obtectum (Arnold) Arnold SPECIES
 
 #### Status
 ACCEPTED

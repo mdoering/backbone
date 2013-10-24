@@ -1,5 +1,4 @@
-Pragia fontium Aldová et al., 1988 SPECIES
-=======
+# Pragia fontium Aldová et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

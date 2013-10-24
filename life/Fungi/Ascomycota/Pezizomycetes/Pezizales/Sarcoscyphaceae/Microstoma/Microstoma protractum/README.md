@@ -1,14 +1,13 @@
-Microstoma protracta (Fr.) Kanouse SPECIES
-=======
+# Microstoma protractum (Fr.) Kanouse, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 40(4): 486 (1948)
 
 #### Original name
 Peziza protracta Fr., 1851

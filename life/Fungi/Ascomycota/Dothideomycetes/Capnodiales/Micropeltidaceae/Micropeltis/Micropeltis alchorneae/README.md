@@ -1,5 +1,4 @@
-Micropeltis alchorneae Bat. & Peres SPECIES
-=======
+# Micropeltis alchorneae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

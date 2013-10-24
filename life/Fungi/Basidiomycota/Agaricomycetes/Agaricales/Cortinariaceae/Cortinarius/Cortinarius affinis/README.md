@@ -1,5 +1,4 @@
-Cortinarius affinis var. affinis VARIETY
-=======
+# Cortinarius affinis Allesch. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius affinis var. affinis
+Cortinarius affinis Allesch.
 
 ### Remarks
 null

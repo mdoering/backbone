@@ -1,5 +1,4 @@
-Buellia chrysea C.W. Dodge & G.E. Baker SPECIES
-=======
+# Buellia chrysea C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

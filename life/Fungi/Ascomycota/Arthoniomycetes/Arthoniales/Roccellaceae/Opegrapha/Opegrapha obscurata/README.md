@@ -1,5 +1,4 @@
-Opegrapha obscurata Redinger SPECIES
-=======
+# Opegrapha obscurata Redinger SPECIES
 
 #### Status
 ACCEPTED

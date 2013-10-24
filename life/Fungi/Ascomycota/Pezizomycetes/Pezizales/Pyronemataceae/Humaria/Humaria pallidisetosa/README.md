@@ -1,5 +1,4 @@
-Humaria pallidisetosa E.K. Cash SPECIES
-=======
+# Humaria pallidisetosa E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

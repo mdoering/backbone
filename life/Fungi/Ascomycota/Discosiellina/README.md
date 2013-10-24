@@ -1,5 +1,4 @@
-Discosiellina Subram. & K.R.C. Reddy GENUS
-=======
+# Discosiellina Subram. & K.R.C. Reddy GENUS
 
 #### Status
 ACCEPTED

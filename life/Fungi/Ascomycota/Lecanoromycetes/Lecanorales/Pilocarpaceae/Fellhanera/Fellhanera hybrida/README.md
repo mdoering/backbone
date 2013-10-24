@@ -1,5 +1,4 @@
-Fellhanera hybrida R.C. Harris & Lendemer SPECIES
-=======
+# Fellhanera hybrida R.C. Harris & Lendemer SPECIES
 
 #### Status
 ACCEPTED
